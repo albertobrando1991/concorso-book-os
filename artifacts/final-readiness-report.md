@@ -11,14 +11,13 @@
 - Demo sources: 4 integrated, including canonical Metodo BANDO product document.
 - Lint/review: implemented, with initial review notes.
 - Verification: typecheck, unit tests, production build and screenshot capture passed.
+- GitHub repository: `https://github.com/albertobrando1991/concorso-book-os`.
+- Local dev server: running at `http://127.0.0.1:3000`.
 
 ## Blockers
-- GitHub CLI token for `albertobrando1991` is invalid; remote repository creation requires re-authentication.
 - Live Obsidian smoke test requires plugin enabled and API key in `.env.local`.
 - `npm audit` could not complete in the sandbox because npm attempted to write outside the workspace cache.
 
 ## Next TODO
-- Authenticate GitHub and create repository.
-- Run verification commands.
-- Capture dashboard screenshot.
 - Add official sources for inPA and DPR 82/2023.
+- Run live Obsidian Local REST API smoke test.

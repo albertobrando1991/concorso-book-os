@@ -2,6 +2,8 @@
 
 ConcorsoBook OS is an agentic LLM Wiki platform for building, maintaining, and using a persistent Obsidian-backed knowledge base for Italian public competition books.
 
+GitHub repository: https://github.com/albertobrando1991/concorso-book-os
+
 The book is not treated as a detached document. It is an editorial projection of the consolidated wiki:
 
 - `wiki/raw/` stores immutable source material.
@@ -62,4 +64,3 @@ The integration layer targets the plugin API documented at:
 - https://coddingtonbear.github.io/obsidian-local-rest-api/
 
 The client supports note creation, reading, append, search, frontmatter patching, heading patching, and metadata/document-map requests where the plugin exposes them.
-

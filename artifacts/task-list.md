@@ -12,7 +12,5 @@
 - Added unit tests for frontmatter, markdown patching, classifier and Obsidian path encoding.
 
 ## Remaining after this milestone
-- Re-authenticate GitHub CLI before remote repository creation.
 - Connect to a live Obsidian vault and run smoke tests with the Local REST API plugin.
 - Replace demo source summaries with verified official sources for inPA and DPR 82/2023.
-
