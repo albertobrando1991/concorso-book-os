@@ -13,6 +13,7 @@
 - Verification: typecheck, unit tests, production build and screenshot capture passed.
 - GitHub repository: `https://github.com/albertobrando1991/concorso-book-os`.
 - Local dev server: running at `http://127.0.0.1:3000`.
+- Multi-PC workflow: documented in `docs/WORK_FROM_ANOTHER_PC.md`.
 
 ## Blockers
 - Live Obsidian smoke test requires plugin enabled and API key in `.env.local`.
@@ -21,3 +22,4 @@
 ## Next TODO
 - Add official sources for inPA and DPR 82/2023.
 - Run live Obsidian Local REST API smoke test.
+- On each new PC, recreate `.env.local` and configure Obsidian Local REST API locally if needed.

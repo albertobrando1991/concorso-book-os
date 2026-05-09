@@ -33,6 +33,19 @@ OPENAI_API_KEY=your-openai-key
 
 Without Obsidian credentials, the app uses the local `wiki/` directory as the canonical development vault.
 
+## Work From Another PC
+
+Use the same GitHub account to clone the repository and continue work from any PC:
+
+```powershell
+git clone https://github.com/albertobrando1991/concorso-book-os.git
+cd concorso-book-os
+npm install
+npm run dev
+```
+
+Detailed setup: [docs/WORK_FROM_ANOTHER_PC.md](docs/WORK_FROM_ANOTHER_PC.md).
+
 ## Commands
 
 ```powershell

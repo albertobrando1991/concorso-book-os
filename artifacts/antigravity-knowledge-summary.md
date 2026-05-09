@@ -27,6 +27,7 @@ The active product is `Il Metodo BANDO`: a workbook-style book that teaches cand
 - Unit tests added.
 - Verification passed: typecheck, unit tests, build and screenshot.
 - GitHub remote created and pushed: `https://github.com/albertobrando1991/concorso-book-os`.
+- Multi-PC workflow uses GitHub clone/pull/push. Supabase is not required for the current single-owner cross-PC requirement.
 
 ## Next tasks
 - Re-authenticate GitHub CLI.
