@@ -224,7 +224,7 @@ export function BookStudioPanel({
           <div className="bookPreviewToolbar">
             <div>
               <strong>{data.title}</strong>
-              <span>Anteprima dal vault Obsidian, aggiornata {formatDate(data.updatedAt)}</span>
+              <span>Formato manuale-workbook 17 x 24 cm | aggiornata {formatDate(data.updatedAt)}</span>
             </div>
             <span className="studioBadge">{viewMode === "book" ? "vista libro" : "vista capitolo"}</span>
           </div>

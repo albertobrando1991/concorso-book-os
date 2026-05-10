@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600;700;800&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&display=swap");
+
 :root {
   --bg: #f6f7f9;
   --panel: #ffffff;
@@ -9,6 +11,8 @@
   --amber: #ad6b00;
   --red: #b42318;
   --nav: #202936;
+  --manual-serif: "Source Serif 4", Charter, Georgia, "Times New Roman", serif;
+  --manual-sans: "Source Sans 3", "Segoe UI", Arial, Helvetica, sans-serif;
 }
 
 * {
@@ -19,7 +23,7 @@ body {
   margin: 0;
   background: var(--bg);
   color: var(--ink);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--manual-sans);
 }
 
 a {
@@ -390,7 +394,7 @@ h1 {
   min-width: 0;
   border: 1px solid var(--line);
   border-radius: 6px;
-  background: #eef1f5;
+  background: #e7ebf0;
   padding: 12px;
 }
 
@@ -418,13 +422,13 @@ h1 {
 }
 
 .bookPage {
-  max-width: 880px;
-  min-height: 640px;
+  width: min(100%, 780px);
+  min-height: 820px;
   margin: 0 auto;
-  background: #fff;
+  background: #fffdf8;
   border: 1px solid #d7dde5;
   border-radius: 4px;
-  padding: clamp(24px, 4vw, 54px);
+  padding: clamp(30px, 5vw, 62px) clamp(26px, 4.6vw, 56px) clamp(38px, 5.4vw, 70px);
   box-shadow: 0 18px 48px rgba(31, 41, 55, 0.12);
 }
 
@@ -455,8 +459,9 @@ h1 {
 }
 
 .chapterPreview h2 {
-  font-size: 28px;
-  line-height: 1.18;
+  font-family: var(--manual-sans);
+  font-size: 30px;
+  line-height: 1.12;
   margin: 0 0 6px;
 }
 
@@ -468,27 +473,30 @@ h1 {
 
 .previewBlocks {
   color: #1d2733;
-  font-family: Georgia, "Times New Roman", serif;
-  font-size: 18px;
-  line-height: 1.68;
+  max-width: 68ch;
+  font-family: var(--manual-serif);
+  font-size: 17px;
+  line-height: 1.56;
 }
 
 .previewBlocks h3,
 .previewBlocks h4,
 .previewBlocks h5 {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--manual-sans);
   letter-spacing: 0;
   line-height: 1.25;
 }
 
 .previewBlocks h3 {
-  margin: 28px 0 10px;
-  font-size: 21px;
+  margin: 26px 0 9px;
+  font-size: 20px;
+  color: #13233a;
 }
 
 .previewBlocks h4 {
-  margin: 22px 0 8px;
-  font-size: 17px;
+  margin: 21px 0 8px;
+  font-size: 16px;
+  color: #1f3f70;
 }
 
 .previewBlocks h5 {
@@ -499,7 +507,7 @@ h1 {
 }
 
 .previewBlocks p {
-  margin: 0 0 15px;
+  margin: 0 0 13px;
 }
 
 .previewBlocks ul,
@@ -528,7 +536,7 @@ h1 {
 .previewBlocks figcaption {
   margin-top: 7px;
   color: var(--muted);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--manual-sans);
   font-size: 13px;
 }
 
@@ -546,7 +554,7 @@ h1 {
   padding: 8px 10px;
   background: #fff8e8;
   color: #7a5300;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--manual-sans);
   font-size: 13px;
 }
 

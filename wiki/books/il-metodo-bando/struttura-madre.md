@@ -25,6 +25,15 @@ Il sistema pratico per preparare concorsi pubblici diversi senza ricominciare da
 
 Il libro insegna a leggere il bando, costruire il piano, studiare le materie comuni, allenarsi sulle prove e adattare il metodo al proprio profilo.
 
+## Design system editoriale
+Il design system canonico e':
+
+`books/il-metodo-bando/design-system-editoriale.md`
+
+Decisione: il libro deve essere impaginato come manuale-workbook professionale in formato 17 x 24 cm circa, con corpo serif leggibile, titoli e box sans serif, colonna singola, strumenti compilabili e box operativi ricorrenti.
+
+Ogni capitolo deve essere scritto pensando alla pagina: spiegazione, box, caso, esercizio, errore tipico, riferimenti e note di review non sono accessori, ma parti della struttura didattica.
+
 ## Introduzione - Perche questo libro e' diverso
 Deve spiegare che il libro non e' una raccolta di quiz e non e' un manuale per un solo concorso. E' un sistema universale di preparazione.
 

@@ -1,10 +1,11 @@
 # ConcorsoBook OS Index
 
-Aggiornato: 2026-05-10T00:00:00.000Z
+Aggiornato: 2026-05-10T12:59:21+02:00
 
 ## Sources
 - [[sources/metodo-bando-progetto-editoriale]]
 - [[sources/struttura-madre-il-metodo-bando]]
+- [[sources/book-layout-typography-standards]]
 - [[sources/costituzione-repubblica-italiana-testo-vigente]]
 - [[sources/diritto-costituzionale-bin-pitruzzella]]
 - [[sources/manuale-diritto-amministrativo-lopilato]]
@@ -80,6 +81,7 @@ Aggiornato: 2026-05-10T00:00:00.000Z
 ## Books
 - [[books/il-metodo-bando/index]]
 - [[books/il-metodo-bando/struttura-madre]]
+- [[books/il-metodo-bando/design-system-editoriale]]
 - [[books/il-metodo-bando/chapters/introduzione]]
 - [[books/il-metodo-bando/chapters/il-nuovo-candidato-pubblico]]
 - [[books/il-metodo-bando/chapters/anatomia-del-bando]]

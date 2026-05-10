@@ -65,6 +65,27 @@ Use markdown with clear headings. A standard chapter block should include:
 
 Adapt the format when the user asks for a specific intervention, but preserve traceability and didactic structure.
 
+## Editorial Layout Standard
+
+For `Il Metodo BANDO`, apply the canonical design system:
+
+```text
+wiki/books/il-metodo-bando/design-system-editoriale.md
+```
+
+Default publication format:
+
+- manual/workbook, not novel;
+- print target around 17 x 24 cm, KDP equivalent 6.69 x 9.61 in;
+- body text: Source Serif 4 or high-quality serif fallback;
+- headings, boxes, captions, tables: Source Sans 3 or high-quality sans fallback;
+- single-column explanation;
+- recurring operational boxes;
+- short paragraphs, clear hierarchy, tables only when they remain readable;
+- every image must have a didactic function.
+
+When formatting a chapter, think in pages: explanation, BANDO map, operational box, case, exercise, error, references and review state.
+
 ## Writing Rules
 
 - Start from what the candidate must understand or do.

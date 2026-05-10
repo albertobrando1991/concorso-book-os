@@ -77,12 +77,14 @@ export class ManualWriterAgent {
     const chapter = parseFrontmatter(chapterContent)
     const knowledge = await this.loadKnowledgePack(chapter.data)
     const structureGuide = await this.loadStructureGuide(input.chapterPath)
+    const designGuide = await this.loadDesignGuide(input.chapterPath)
     const generation = await this.generateDraft({
       title: String(chapter.data.title || input.chapterPath),
       instruction: input.instruction,
       mode: input.mode,
       chapterContent,
       structureGuide,
+      designGuide,
       knowledge
     })
     const draft = generation.text
@@ -149,12 +151,22 @@ export class ManualWriterAgent {
     return this.store.readText(path)
   }
 
+  private async loadDesignGuide(chapterPath: string) {
+    if (!chapterPath.startsWith("books/il-metodo-bando/")) return ""
+
+    const path = "books/il-metodo-bando/design-system-editoriale.md"
+    if (!(await this.store.exists(path))) return ""
+
+    return this.store.readText(path)
+  }
+
   private async generateDraft(input: {
     title: string
     instruction: string
     mode: ManualWriterMode
     chapterContent: string
     structureGuide: string
+    designGuide: string
     knowledge: KnowledgeItem[]
   }) {
     const writerConfig = getWriterConfig()
@@ -216,6 +228,8 @@ export class ManualWriterAgent {
           ...input.knowledge.map((item) => `\n### ${item.title}\nPath: ${item.path}\n${item.summary}`),
           "\nGuida operativa canonica del manuale:",
           trimWords(input.structureGuide.replace(/^---[\s\S]*?---/, ""), 1000),
+          "\nDesign system editoriale canonico:",
+          trimWords(input.designGuide.replace(/^---[\s\S]*?---/, ""), 800),
           "\nCapitolo esistente e struttura editoriale da rispettare:",
           trimWords(input.chapterContent.replace(/^---[\s\S]*?---/, ""), 900),
           "\nProduci testo pronto per un manuale-workbook professionale. Formato obbligatorio: apertura editoriale, obiettivo, mappa BANDO, spiegazione strutturata, box da sapere in 5 righe, caso guidato, domanda da commissario, domanda-trappola, mini-esercizio, errore tipico, riferimenti consolidati, note di review. Integra la richiesta dell'utente e la conoscenza nuova senza cancellare tracciabilità."
@@ -237,6 +251,7 @@ function renderCodexPrompt(input: {
   mode: ManualWriterMode
   chapterContent: string
   structureGuide: string
+  designGuide: string
   knowledge: KnowledgeItem[]
 }, skill: string) {
   return [
@@ -273,6 +288,9 @@ function renderCodexPrompt(input: {
     "## Guida operativa canonica del manuale",
     trimWords(input.structureGuide.replace(/^---[\s\S]*?---/, ""), 1200),
     "",
+    "## Design system editoriale canonico",
+    trimWords(input.designGuide.replace(/^---[\s\S]*?---/, ""), 900),
+    "",
     "## Capitolo esistente e struttura editoriale da rispettare",
     trimWords(input.chapterContent.replace(/^---[\s\S]*?---/, ""), 1200),
     "",
@@ -292,6 +310,7 @@ function renderDeterministicDraft(input: {
   mode: ManualWriterMode
   chapterContent: string
   structureGuide: string
+  designGuide: string
   knowledge: KnowledgeItem[]
 }) {
   const primary = input.knowledge.slice(0, 6)
@@ -351,6 +370,7 @@ ${references || "- Nessun riferimento consolidato disponibile."}
 ### Note di review
 - Bozza da revisionare prima della pubblicazione.
 - Non sono state lette raw sources direttamente.
+- Applicare design system editoriale 17 x 24 cm con gerarchia manuale-workbook.
 - Modalità richiesta: ${input.mode}.`
 }
 

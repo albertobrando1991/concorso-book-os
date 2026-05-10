@@ -84,3 +84,12 @@ The active product is `Il Metodo BANDO`: a workbook-style book that teaches cand
 - Image upload stores assets in `wiki/raw/assets/books/il-metodo-bando/` and appends an Obsidian embed under `## Immagini e layout`.
 - API routes added: `GET /api/book-studio`, `POST /api/book-studio/assets`, `GET /api/book-studio/assets/file`.
 - Verification passed: typecheck, tests, build, screenshot, dashboard HTTP 200 on ports 3000 and 3001, Book Studio API HTTP 200.
+
+## 2026-05-10 editorial formatting standard
+- Canonical file: `wiki/books/il-metodo-bando/design-system-editoriale.md`.
+- Research source note: `wiki/sources/book-layout-typography-standards.md`.
+- Decision: professional manual-workbook, not novel or dense legal compendium.
+- Primary format: 17 x 24 cm circa, KDP equivalent `6.69 x 9.61 in`; alternative workbook format `7 x 10 in`.
+- Typography: Source Serif 4 for body, Source Sans 3 for headings, boxes, captions and tables; fallback serif/sans stacks defined.
+- Layout: single-column explanation, recurring operational boxes, short paragraphs, readable tables, didactic images only.
+- Book Studio preview now reflects the design system with manual typography and page styling.

@@ -32,3 +32,6 @@
 - Added Book Studio dashboard preview for visually reviewing `Il Metodo BANDO` as a formatted manual.
 - Added Book Studio APIs for live chapter preview data, vault image upload, and safe image serving from `wiki/raw/assets/books/<book_id>/`.
 - Added dashboard controls to request Codex personalization directly from the selected chapter preview and to append images under `Immagini e layout`.
+- Added canonical editorial design system for `Il Metodo BANDO`: 17 x 24 cm manual-workbook format, Source Serif 4 body, Source Sans 3 headings/boxes, single-column explanation and recurring operational boxes.
+- Updated Book Studio preview typography to emulate the chosen manual-workbook design system.
+- Manual Writer Agent now injects the canonical editorial design system into Codex/OpenAI prompts for `Il Metodo BANDO` chapters.

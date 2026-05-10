@@ -97,6 +97,7 @@ Il Manual Writer Agent e' l'agente specializzato nella scrittura effettiva dei c
 
 Regole:
 - Deve usare `books/il-metodo-bando/struttura-madre.md` come guida operativa canonica per ogni sviluppo del manuale.
+- Deve applicare `books/il-metodo-bando/design-system-editoriale.md` per formato, gerarchia, box, font, layout e logica workbook.
 - Deve leggere la nota capitolo selezionata e rispettare la sezione `Specifica struttura madre` prima di generare o integrare testo.
 - Legge solo `sources/`, `topics/`, `entities/`, `quizzes/` e capitoli esistenti.
 - Non legge mai direttamente `raw/` per produrre testo editoriale finale.
@@ -121,6 +122,7 @@ Regole:
 - Un capitolo finale non deve mai derivare solo da una raw source.
 - Ogni capitolo deve includere obiettivo didattico, spiegazione, punti chiave, riferimenti, esempi, errori frequenti e quiz collegati.
 - La scrittura e' incrementale: integrare, chiarire e migliorare senza distruggere lavoro precedente.
+- Il formato editoriale canonico per `Il Metodo BANDO` e' manuale-workbook 17 x 24 cm circa, corpo serif professionale, titoli/box sans serif, colonna singola, box operativi ricorrenti e strumenti compilabili.
 - Separare note canoniche da note di lavoro.
 - Richiedere review umana per interpretazioni normative puntuali.
 - Per il libro `Il Metodo BANDO`, l'outline base e' Parte I Orientarsi, Parte II Materie comuni, Parte III Allenamento, Parte IV Sistema adattabile, Appendici/tool.
