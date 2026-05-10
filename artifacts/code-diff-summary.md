@@ -40,3 +40,5 @@
 - Added table rendering to Book Studio preview for workbook grids and comparison tables.
 - Updated Book Studio to render the manual as paginated A4 sheets with justified body text, running headers, footers, page numbers, anti-orphan heading pagination and A4 print CSS.
 - Updated `AGENTS.md`, the project writer skill and the canonical design system so A4 page-aware formatting is now a persistent rule for `Il Metodo BANDO`.
+- Replaced rough pagination estimates with hidden measured A4 pagination, so page breaks use the real rendered height of headings, paragraphs, lists and tables.
+- Tightened preview table spacing and added rules to keep headings and short exercise introductions with their related content.

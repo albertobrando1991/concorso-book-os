@@ -427,6 +427,16 @@ h1 {
   justify-items: center;
 }
 
+.paginationMeasure {
+  position: absolute;
+  top: 0;
+  left: -10000px;
+  width: 210mm;
+  pointer-events: none;
+  visibility: hidden;
+  z-index: -1;
+}
+
 .bookPage {
   position: relative;
   box-sizing: border-box;
@@ -441,6 +451,27 @@ h1 {
   overflow: hidden;
   font-kerning: normal;
   text-rendering: optimizeLegibility;
+}
+
+.paginationMeasurePage {
+  width: 210mm;
+  height: 297mm;
+  aspect-ratio: auto;
+  margin: 0;
+  overflow: visible;
+  box-shadow: none;
+}
+
+.paginationMeasureChapter {
+  margin-bottom: 48px;
+}
+
+.paginationRunningHeader {
+  display: flex;
+}
+
+.paginationMeasureBlock {
+  display: flow-root;
 }
 
 .chapterPreviewHeader {
@@ -555,22 +586,22 @@ h1 {
 .previewTableWrap {
   break-inside: avoid;
   overflow-x: auto;
-  margin: 18px 0 22px;
+  margin: 12px 0 16px;
 }
 
 .previewTable {
   width: 100%;
   border-collapse: collapse;
   font-family: var(--manual-sans);
-  font-size: 13px;
-  line-height: 1.35;
+  font-size: 12.4px;
+  line-height: 1.28;
   table-layout: fixed;
 }
 
 .previewTable th,
 .previewTable td {
   border: 1px solid #d8dee7;
-  padding: 8px 9px;
+  padding: 6px 7px;
   hyphens: auto;
   overflow-wrap: anywhere;
   text-align: left;

@@ -108,3 +108,10 @@ The active product is `Il Metodo BANDO`: a workbook-style book that teaches cand
 - Pagination includes an anti-orphan rule: headings stay with the following block when possible.
 - `AGENTS.md`, the writer skill and `design-system-editoriale.md` now require A4 page-aware formatting for dashboard review/export.
 - Verification passed: typecheck, tests, production build and screenshot artifact.
+
+## 2026-05-10 measured pagination optimization
+- User identified that not all A4 preview pages were optimized like page 3.
+- Book Studio now measures hidden A4-rendered blocks in the browser and paginates from actual rendered heights instead of rough estimates.
+- Tables are more compact for manual layout, and short exercise instructions stay with the table/code/image they introduce.
+- If a block cannot fit and the previous item is a heading, the heading is pulled to the next page to prevent orphan titles.
+- Verification passed: typecheck, tests, production build and screenshot artifact.

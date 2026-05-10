@@ -20,3 +20,4 @@
 - 2026-05-10T11:10:49.244Z | manual_writer | books/il-metodo-bando/chapters/introduzione.md | mode=integrate | target_heading=Testo editoriale | knowledge=6
 - 2026-05-10T11:11:22.156Z | manual_writer | books/il-metodo-bando/chapters/il-nuovo-candidato-pubblico.md | mode=integrate | target_heading=Testo editoriale | knowledge=5
 - 2026-05-10T13:46:00+02:00 | dashboard_formatting_fix | Book Studio | format=A4_paginated | text=justified | pagination=anti_orphan_headings | screenshot=artifacts/dashboard-screenshot.png | verification=typecheck,test,build,screenshot
+- 2026-05-10T14:22:00+02:00 | dashboard_pagination_optimization | Book Studio | pagination=measured_rendered_a4_blocks | tables=compact_manual_layout | headings=no_orphans | screenshot=artifacts/dashboard-screenshot.png | verification=typecheck,test,build,screenshot

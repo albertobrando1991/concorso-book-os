@@ -21,6 +21,7 @@
 - 2026-05-10 editorial formatting standard: `npm run typecheck`, `npm test`, `npm run build`, and `PORT=3011 npm run screenshot` passed after adding design system files, prompt injection and Book Studio typography update.
 - 2026-05-10 Manual Writer actual-chapter correction: `npm run typecheck`, `npm test`, `npm run build`, `PORT=3011 npm run screenshot`, and meta-text grep passed after rejecting meta drafts, enforcing wiki-brain-first policy and rewriting introduction/chapter 1.
 - 2026-05-10 A4 paginated preview correction: `npm run typecheck`, `npm test`, `npm run build`, and `$env:PORT='3011'; npm run screenshot` passed after making Book Studio render single A4 pages with justified body text, footer/page numbers, anti-orphan heading pagination and print CSS.
+- 2026-05-10 measured pagination optimization: `npm run typecheck`, `npm test`, `npm run build`, and `$env:PORT='3012'; npm run screenshot` passed after replacing heuristic page breaks with measured A4 block pagination and compact manual tables.
 
 ## Notes
 - First typecheck exposed Node 24 `fs.readdir` typing issues; fixed by using explicit UTF-8 dirent reads.

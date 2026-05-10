@@ -1,6 +1,6 @@
 "use client"
 
-import { useMemo, useState } from "react"
+import { useLayoutEffect, useMemo, useRef, useState } from "react"
 import {
   BookOpenCheck,
   FileText,
@@ -37,9 +37,9 @@ interface PreviewPage {
   isFirstPage: boolean
 }
 
-const PAGE_BUDGET = 920
 const FIRST_PAGE_HEADER_COST = 120
 const RUNNING_HEADER_COST = 36
+const PAGE_MEASURE_EXTRA_SPACE = 18
 
 const modeOptions: Array<{ value: ManualWriterMode; label: string }> = [
   { value: "integrate", label: "Integra richiesta" },
@@ -75,8 +75,25 @@ export function BookStudioPanel({
     () => data.chapters.find((chapter) => chapter.path === selectedPath) || data.chapters[0],
     [data.chapters, selectedPath]
   )
-  const previewChapters = viewMode === "book" ? data.chapters : selectedChapter ? [selectedChapter] : []
-  const previewPages = useMemo(() => paginateChapters(previewChapters), [previewChapters])
+  const previewChapters = useMemo(
+    () => (viewMode === "book" ? data.chapters : selectedChapter ? [selectedChapter] : []),
+    [data.chapters, selectedChapter, viewMode]
+  )
+  const estimatedPages = useMemo(() => paginateChapters(previewChapters), [previewChapters])
+  const measureRef = useRef<HTMLDivElement>(null)
+  const [measuredPages, setMeasuredPages] = useState<PreviewPage[] | null>(null)
+  const previewPages = measuredPages || estimatedPages
+
+  useLayoutEffect(() => {
+    setMeasuredPages(null)
+
+    const animationFrame = window.requestAnimationFrame(() => {
+      const pages = paginateMeasuredChapters(previewChapters, measureRef.current)
+      setMeasuredPages(pages.length > 0 ? pages : null)
+    })
+
+    return () => window.cancelAnimationFrame(animationFrame)
+  }, [previewChapters])
 
   async function refreshStudio() {
     setIsRefreshing(true)
@@ -246,6 +263,39 @@ export function BookStudioPanel({
             {previewPages.map((page) => (
               <BookPagePreview page={page} key={`${page.chapter.path}-${page.chapterPageNumber}`} />
             ))}
+          </div>
+
+          <div className="paginationMeasure" aria-hidden="true" ref={measureRef}>
+            <article className="bookPage paginationMeasurePage">
+              {previewChapters.map((chapter) => (
+                <div className="paginationMeasureChapter" data-chapter-path={chapter.path} key={chapter.path}>
+                  <header className="chapterPreviewHeader paginationFirstHeader">
+                    <span className="chapterNumber">{chapter.outlineSection || "Libro"}</span>
+                    <div>
+                      <h2>{chapter.title}</h2>
+                      <p>
+                        {chapter.contentState === "written" ? "Testo editoriale" : chapter.contentState === "draft" ? "Bozza / struttura sviluppabile" : "Solo struttura"}
+                        {" | "}
+                        {chapter.wordCount} parole
+                        {" | "}
+                        {chapter.sourceRefs.length} fonti
+                      </p>
+                    </div>
+                  </header>
+                  <div className="runningHeader paginationRunningHeader">
+                    <span>{chapter.outlineSection ? `${chapter.outlineSection}. ` : ""}{chapter.title}</span>
+                    <span>continua</span>
+                  </div>
+                  <div className="previewBlocks">
+                    {chapter.blocks.map((block, index) => (
+                      <div className="paginationMeasureBlock" data-block-index={index} key={`${chapter.path}-measure-${index}`}>
+                        <PreviewBlock block={block} />
+                      </div>
+                    ))}
+                  </div>
+                </div>
+              ))}
+            </article>
           </div>
         </div>
 
@@ -492,9 +542,114 @@ function paginateChapters(chapters: BookStudioChapter[]): PreviewPage[] {
   return pages
 }
 
+function paginateMeasuredChapters(chapters: BookStudioChapter[], root: HTMLDivElement | null): PreviewPage[] {
+  if (!root) return []
+
+  const measurePage = root.querySelector<HTMLElement>(".paginationMeasurePage")
+  if (!measurePage) return []
+
+  const pageStyle = window.getComputedStyle(measurePage)
+  const pageHeight = measurePage.getBoundingClientRect().height
+  const pageBudget = Math.max(
+    0,
+    pageHeight - toPixels(pageStyle.paddingTop) - toPixels(pageStyle.paddingBottom) + PAGE_MEASURE_EXTRA_SPACE
+  )
+  const chapterElements = Array.from(root.querySelectorAll<HTMLElement>(".paginationMeasureChapter"))
+  const pages: PreviewPage[] = []
+  let pageNumber = 1
+
+  chapters.forEach((chapter, chapterIndex) => {
+    const chapterElement = chapterElements[chapterIndex]
+
+    if (!chapterElement || pageBudget <= 0) {
+      for (const page of paginateBlocks(chapter)) {
+        pages.push({ ...page, pageNumber: pageNumber++ })
+      }
+
+      return
+    }
+
+    const firstHeaderHeight = outerHeight(chapterElement.querySelector<HTMLElement>(".paginationFirstHeader")) || FIRST_PAGE_HEADER_COST
+    const runningHeaderHeight = outerHeight(chapterElement.querySelector<HTMLElement>(".paginationRunningHeader")) || RUNNING_HEADER_COST
+    const blockElements = Array.from(chapterElement.querySelectorAll<HTMLElement>(".paginationMeasureBlock"))
+    const blockHeights = chapter.blocks.map((block, index) => Math.ceil(outerHeight(blockElements[index]) || estimateBlockCost(block)))
+    const chapterPages = paginateBlocksByHeight(chapter, blockHeights, pageBudget, firstHeaderHeight, runningHeaderHeight)
+
+    for (const page of chapterPages) {
+      pages.push({ ...page, pageNumber: pageNumber++ })
+    }
+  })
+
+  return pages
+}
+
+function paginateBlocksByHeight(
+  chapter: BookStudioChapter,
+  blockHeights: number[],
+  pageBudget: number,
+  firstHeaderHeight: number,
+  runningHeaderHeight: number
+): Array<Omit<PreviewPage, "pageNumber">> {
+  const pages: Array<Omit<PreviewPage, "pageNumber">> = []
+  let blocks: MarkdownBlock[] = []
+  let usedBlockHeights: number[] = []
+  let chapterPageNumber = 1
+  let used = firstHeaderHeight
+
+  function pushPage() {
+    pages.push({
+      chapter,
+      blocks,
+      chapterPageNumber,
+      isFirstPage: chapterPageNumber === 1
+    })
+    chapterPageNumber += 1
+    blocks = []
+    usedBlockHeights = []
+    used = runningHeaderHeight
+  }
+
+  for (let index = 0; index < chapter.blocks.length; index += 1) {
+    const block = chapter.blocks[index]
+    const nextBlock = chapter.blocks[index + 1]
+    const blockHeight = blockHeights[index] || estimateBlockCost(block)
+    const keepWithNextHeight = shouldKeepWithNext(block, nextBlock) && nextBlock
+      ? blockHeights[index + 1] || estimateBlockCost(nextBlock)
+      : 0
+
+    if (blocks.length > 0 && used + blockHeight + keepWithNextHeight > pageBudget) {
+      const lastBlock = blocks.at(-1)
+      const lastBlockHeight = usedBlockHeights.at(-1) || 0
+
+      if (blocks.length > 1 && lastBlock?.type === "heading") {
+        blocks.pop()
+        usedBlockHeights.pop()
+        used -= lastBlockHeight
+        pushPage()
+        blocks.push(lastBlock)
+        usedBlockHeights.push(lastBlockHeight)
+        used += lastBlockHeight
+      } else {
+        pushPage()
+      }
+    }
+
+    blocks.push(block)
+    usedBlockHeights.push(blockHeight)
+    used += blockHeight
+  }
+
+  if (blocks.length > 0 || pages.length === 0) {
+    pushPage()
+  }
+
+  return pages
+}
+
 function paginateBlocks(chapter: BookStudioChapter): Array<Omit<PreviewPage, "pageNumber">> {
   const pages: Array<Omit<PreviewPage, "pageNumber">> = []
   let blocks: MarkdownBlock[] = []
+  let usedBlockCosts: number[] = []
   let chapterPageNumber = 1
   let used = FIRST_PAGE_HEADER_COST
 
@@ -507,6 +662,7 @@ function paginateBlocks(chapter: BookStudioChapter): Array<Omit<PreviewPage, "pa
     })
     chapterPageNumber += 1
     blocks = []
+    usedBlockCosts = []
     used = RUNNING_HEADER_COST
   }
 
@@ -515,13 +671,27 @@ function paginateBlocks(chapter: BookStudioChapter): Array<Omit<PreviewPage, "pa
     const nextBlock = chapter.blocks[index + 1]
     const cost = estimateBlockCost(block)
     const keepWithNextCost = shouldKeepWithNext(block, nextBlock) ? estimateBlockCost(nextBlock) : 0
-    const budget = PAGE_BUDGET
+    const budget = 920
 
     if (blocks.length > 0 && used + cost + keepWithNextCost > budget) {
-      pushPage()
+      const lastBlock = blocks.at(-1)
+      const lastBlockCost = usedBlockCosts.at(-1) || 0
+
+      if (blocks.length > 1 && lastBlock?.type === "heading") {
+        blocks.pop()
+        usedBlockCosts.pop()
+        used -= lastBlockCost
+        pushPage()
+        blocks.push(lastBlock)
+        usedBlockCosts.push(lastBlockCost)
+        used += lastBlockCost
+      } else {
+        pushPage()
+      }
     }
 
     blocks.push(block)
+    usedBlockCosts.push(cost)
     used += cost
   }
 
@@ -533,7 +703,17 @@ function paginateBlocks(chapter: BookStudioChapter): Array<Omit<PreviewPage, "pa
 }
 
 function shouldKeepWithNext(block: MarkdownBlock, nextBlock?: MarkdownBlock) {
-  return Boolean(block.type === "heading" && nextBlock && nextBlock.type !== "heading")
+  if (!nextBlock) return false
+
+  if (block.type === "heading") {
+    return nextBlock.type !== "heading"
+  }
+
+  if (block.type === "paragraph" && wordCount(block.text || "") <= 24) {
+    return nextBlock.type === "table" || nextBlock.type === "image" || nextBlock.type === "code"
+  }
+
+  return false
 }
 
 function estimateBlockCost(block: MarkdownBlock) {
@@ -572,4 +752,16 @@ function estimateBlockCost(block: MarkdownBlock) {
 
 function wordCount(value: string) {
   return value.split(/\s+/).filter(Boolean).length
+}
+
+function outerHeight(element?: HTMLElement | null) {
+  if (!element) return 0
+
+  const style = window.getComputedStyle(element)
+  return element.getBoundingClientRect().height + toPixels(style.marginTop) + toPixels(style.marginBottom)
+}
+
+function toPixels(value: string) {
+  const parsed = Number.parseFloat(value)
+  return Number.isFinite(parsed) ? parsed : 0
 }

@@ -21,3 +21,9 @@
 
 ## Final State
 Book Studio now presents the selected chapter as a real A4 review preview: one page per sheet, justified text, running headers on continuation pages, footer/page number, readable tables and no orphan heading at the bottom of the checked chapter preview.
+
+## Follow-Up Optimization
+- Added browser-side measured pagination: the preview measures the real rendered height of each block inside an invisible A4 sheet before creating page breaks.
+- Tightened table spacing for workbook/manual pages.
+- Added heading pull-forward logic so a heading is not stranded when the next block moves to the following page.
+- Added keep-with-next logic for short exercise instructions before tables, images or code blocks.
