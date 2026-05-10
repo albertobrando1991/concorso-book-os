@@ -17,6 +17,7 @@
 - 2026-05-10 outline-ordered writer menu: `npm run typecheck`, `npm test`, and `npm run build` passed after adding `outlineSection` to chapter options.
 - 2026-05-10 constitutional sources ingest: `npm run typecheck` and `npm test` passed after metadata-only manual registration and primary Constitution source registration.
 - 2026-05-10 authorized constitutional manual processing: `npm run typecheck` and `npm test` passed after user confirmed rights and source note was upgraded from metadata-only to processed.
+- 2026-05-10 Book Studio preview milestone: `npm run typecheck`, `npm test`, `npm run build`, `PORT=3011 npm run screenshot`, local dashboard HTTP checks on `http://127.0.0.1:3000` and `http://127.0.0.1:3001`, and `GET /api/book-studio` all passed.
 
 ## Notes
 - First typecheck exposed Node 24 `fs.readdir` typing issues; fixed by using explicit UTF-8 dirent reads.

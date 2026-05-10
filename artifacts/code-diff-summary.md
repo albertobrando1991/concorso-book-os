@@ -29,3 +29,6 @@
 - Manual Writer chapter menu now follows outline order instead of alphabetical order.
 - Added metadata-only ingest for local constitutional law manual, primary Constitution source ingest, linked topics/entities, and rights review safeguards.
 - Upgraded constitutional manual to processed after user confirmed rights, added clean authorized raw copy and expanded constitutional topic graph.
+- Added Book Studio dashboard preview for visually reviewing `Il Metodo BANDO` as a formatted manual.
+- Added Book Studio APIs for live chapter preview data, vault image upload, and safe image serving from `wiki/raw/assets/books/<book_id>/`.
+- Added dashboard controls to request Codex personalization directly from the selected chapter preview and to append images under `Immagini e layout`.

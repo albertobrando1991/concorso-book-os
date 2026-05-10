@@ -75,3 +75,12 @@ The active product is `Il Metodo BANDO`: a workbook-style book that teaches cand
 - Source note `wiki/sources/diritto-costituzionale-bin-pitruzzella.md` is now `processed` with policy `summaries_and_conceptual_extraction_allowed_no_long_verbatim`.
 - Added topics: `forme-di-stato`, `forme-di-governo`, `fonti-dell-ordinamento-italiano`, `giustizia-costituzionale`, `diritti-e-liberta-costituzionali`, `regioni-e-governo-locale`.
 - Chapter `costituzione-e-ordinamento-dello-stato` is now `knowledge-ready`.
+
+## 2026-05-10 Book Studio preview
+- Added dashboard section `Book Studio` for visual review of `Il Metodo BANDO`.
+- The preview is generated from `wiki/books/il-metodo-bando/chapters/*.md`, sorted by `outline_section`.
+- The UI supports chapter view and full-book view, with a formatted book page for review.
+- The selected chapter can be sent to Manual Writer Agent/Codex directly from the preview.
+- Image upload stores assets in `wiki/raw/assets/books/il-metodo-bando/` and appends an Obsidian embed under `## Immagini e layout`.
+- API routes added: `GET /api/book-studio`, `POST /api/book-studio/assets`, `GET /api/book-studio/assets/file`.
+- Verification passed: typecheck, tests, build, screenshot, dashboard HTTP 200 on ports 3000 and 3001, Book Studio API HTTP 200.

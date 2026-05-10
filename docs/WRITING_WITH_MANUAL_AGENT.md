@@ -10,11 +10,31 @@ Dashboard:
 http://127.0.0.1:3000
 ```
 
+Se la porta 3000 e' gia' occupata o mostra un vecchio server Next, usa:
+
+```text
+http://127.0.0.1:3001
+```
+
 Sezione:
 
 ```text
 Manual Writer Agent / Scrittura automatica capitoli
 ```
+
+Per la revisione visuale usa prima:
+
+```text
+Book Studio / Preview visuale e revisione del manuale
+```
+
+Da Book Studio puoi:
+
+- vedere il capitolo gia' formattato come pagina di manuale;
+- passare da vista capitolo a vista libro;
+- selezionare un capitolo dall'indice;
+- chiedere a Codex personalizzazioni, integrazioni o formattazione;
+- aggiungere immagini al capitolo selezionato.
 
 La dashboard mostra anche lo stato del provider di scrittura:
 
@@ -100,12 +120,14 @@ Ogni intervento deve seguire lo stile del Metodo BANDO:
 1. Aggiungi fonti in `wiki/raw/`.
 2. Crea o aggiorna source notes e topic pages.
 3. Apri la dashboard.
-4. Scegli il capitolo.
-5. Scrivi una richiesta chiara.
-6. Usa `Integra nel capitolo`.
-7. Apri il capitolo in Obsidian.
-8. Rivedi `Testo editoriale`.
-9. Consolida manualmente se il testo e' pronto.
+4. Vai in `Book Studio`.
+5. Scegli il capitolo e controlla la preview formattata.
+6. Scrivi una richiesta chiara nel pannello `Personalizzazione Codex`.
+7. Usa `Applica al capitolo`.
+8. Ricarica la preview e controlla `Testo editoriale`.
+9. Aggiungi eventuali immagini dal pannello `Immagini e layout`.
+10. Apri il capitolo in Obsidian se vuoi rifinire manualmente.
+11. Consolida manualmente se il testo e' pronto.
 
 ## Esempi di richiesta
 

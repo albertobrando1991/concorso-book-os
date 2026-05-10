@@ -15,10 +15,12 @@ import {
 import { getDashboardData } from "@/src/server/dashboard/data"
 import { ManualWriterPanel } from "./components/manual-writer-panel"
 import { KnowledgeGraphPanel } from "./components/knowledge-graph-panel"
+import { BookStudioPanel } from "./components/book-studio-panel"
 import { ManualWriterAgent } from "@/src/server/agents/manual-writer-agent"
-import { getWikiRoot, getWriterConfig } from "@/src/server/config"
+import { DEFAULT_BOOK_ID, getWikiRoot, getWriterConfig } from "@/src/server/config"
 import { FileWikiStore } from "@/src/server/wiki/file-store"
 import { buildKnowledgeGraph } from "@/src/server/wiki/graph"
+import { buildBookStudioData } from "@/src/server/book/book-preview"
 
 export const dynamic = "force-dynamic"
 
@@ -27,6 +29,7 @@ const navigation = [
   ["Sources", FileSearch],
   ["Topics", Layers3],
   ["Books", BookOpen],
+  ["Studio", BookOpen],
   ["Writer", PenIcon],
   ["Graph", GitBranch],
   ["Agents", Bot],
@@ -40,6 +43,7 @@ export default async function Home() {
   const store = new FileWikiStore(getWikiRoot())
   const chapters = await new ManualWriterAgent(store).listChapters()
   const graph = await buildKnowledgeGraph(store)
+  const bookStudio = await buildBookStudioData(store, DEFAULT_BOOK_ID)
   const writerConfig = getWriterConfig()
   const topSources = data.sources.slice(0, 5)
   const topTopics = data.topics.slice(0, 6)
@@ -128,6 +132,13 @@ export default async function Home() {
             </div>
           </Panel>
         </section>
+
+        <BookStudioPanel
+          initialData={bookStudio}
+          writerProvider={writerConfig.provider}
+          writerModel={writerConfig.codexModel}
+          writerReasoningEffort={writerConfig.codexReasoningEffort}
+        />
 
         <ManualWriterPanel
           initialChapters={chapters}
