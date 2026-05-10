@@ -13,6 +13,7 @@ export interface ChapterOption {
   path: string
   title: string
   bookId: string
+  outlineSection: string
   status: string
   reviewRequired: boolean
 }
@@ -54,12 +55,13 @@ export class ManualWriterAgent {
         path: file,
         title: String(parsed.data.title || file),
         bookId: String(parsed.data.book_id || file.split("/")[1] || "unknown"),
+        outlineSection: String(parsed.data.outline_section || ""),
         status: String(parsed.data.status || "draft"),
         reviewRequired: Boolean(parsed.data.review_required)
       })
     }
 
-    return chapters.sort((left, right) => left.title.localeCompare(right.title))
+    return chapters.sort(compareChapters)
   }
 
   async writeChapter(input: ManualWriterInput): Promise<ManualWriterResult> {
@@ -74,10 +76,13 @@ export class ManualWriterAgent {
     const chapterContent = await this.store.readText(input.chapterPath)
     const chapter = parseFrontmatter(chapterContent)
     const knowledge = await this.loadKnowledgePack(chapter.data)
+    const structureGuide = await this.loadStructureGuide(input.chapterPath)
     const generation = await this.generateDraft({
       title: String(chapter.data.title || input.chapterPath),
       instruction: input.instruction,
       mode: input.mode,
+      chapterContent,
+      structureGuide,
       knowledge
     })
     const draft = generation.text
@@ -135,10 +140,21 @@ export class ManualWriterAgent {
     return dedupeByPath(items)
   }
 
+  private async loadStructureGuide(chapterPath: string) {
+    if (!chapterPath.startsWith("books/il-metodo-bando/")) return ""
+
+    const path = "books/il-metodo-bando/struttura-madre.md"
+    if (!(await this.store.exists(path))) return ""
+
+    return this.store.readText(path)
+  }
+
   private async generateDraft(input: {
     title: string
     instruction: string
     mode: ManualWriterMode
+    chapterContent: string
+    structureGuide: string
     knowledge: KnowledgeItem[]
   }) {
     const writerConfig = getWriterConfig()
@@ -198,6 +214,10 @@ export class ManualWriterAgent {
           `Istruzione utente: ${input.instruction || "Scrivi una bozza editoriale migliorata."}`,
           "Knowledge consolidata disponibile:",
           ...input.knowledge.map((item) => `\n### ${item.title}\nPath: ${item.path}\n${item.summary}`),
+          "\nGuida operativa canonica del manuale:",
+          trimWords(input.structureGuide.replace(/^---[\s\S]*?---/, ""), 1000),
+          "\nCapitolo esistente e struttura editoriale da rispettare:",
+          trimWords(input.chapterContent.replace(/^---[\s\S]*?---/, ""), 900),
           "\nProduci testo pronto per un manuale-workbook professionale. Formato obbligatorio: apertura editoriale, obiettivo, mappa BANDO, spiegazione strutturata, box da sapere in 5 righe, caso guidato, domanda da commissario, domanda-trappola, mini-esercizio, errore tipico, riferimenti consolidati, note di review. Integra la richiesta dell'utente e la conoscenza nuova senza cancellare tracciabilità."
         ].join("\n")
       }
@@ -215,6 +235,8 @@ function renderCodexPrompt(input: {
   title: string
   instruction: string
   mode: ManualWriterMode
+  chapterContent: string
+  structureGuide: string
   knowledge: KnowledgeItem[]
 }, skill: string) {
   return [
@@ -248,6 +270,12 @@ function renderCodexPrompt(input: {
     "Knowledge consolidata:",
     ...input.knowledge.map((item) => `\n### ${item.title}\nPath: ${item.path}\n${item.summary}`),
     "",
+    "## Guida operativa canonica del manuale",
+    trimWords(input.structureGuide.replace(/^---[\s\S]*?---/, ""), 1200),
+    "",
+    "## Capitolo esistente e struttura editoriale da rispettare",
+    trimWords(input.chapterContent.replace(/^---[\s\S]*?---/, ""), 1200),
+    "",
     "Restituisci solo markdown del capitolo, senza premesse operative."
   ].join("\n")
 }
@@ -262,6 +290,8 @@ function renderDeterministicDraft(input: {
   title: string
   instruction: string
   mode: ManualWriterMode
+  chapterContent: string
+  structureGuide: string
   knowledge: KnowledgeItem[]
 }) {
   const primary = input.knowledge.slice(0, 6)
@@ -375,4 +405,18 @@ function dedupeByPath(items: KnowledgeItem[]) {
     seen.add(item.path)
     return true
   })
+}
+
+function compareChapters(left: ChapterOption, right: ChapterOption) {
+  if (left.bookId !== right.bookId) return left.bookId.localeCompare(right.bookId)
+
+  return outlineRank(left.outlineSection) - outlineRank(right.outlineSection) || left.title.localeCompare(right.title)
+}
+
+function outlineRank(value: string) {
+  if (!value) return 999
+  if (/^\d+$/.test(value)) return Number(value)
+  if (/^[A-Z]$/i.test(value)) return 100 + value.toUpperCase().charCodeAt(0) - 64
+
+  return 900
 }

@@ -96,6 +96,8 @@ Campi specifici:
 Il Manual Writer Agent e' l'agente specializzato nella scrittura effettiva dei capitoli. Deve comportarsi come elaboratore editoriale, non come semplice generatore di testo.
 
 Regole:
+- Deve usare `books/il-metodo-bando/struttura-madre.md` come guida operativa canonica per ogni sviluppo del manuale.
+- Deve leggere la nota capitolo selezionata e rispettare la sezione `Specifica struttura madre` prima di generare o integrare testo.
 - Legge solo `sources/`, `topics/`, `entities/`, `quizzes/` e capitoli esistenti.
 - Non legge mai direttamente `raw/` per produrre testo editoriale finale.
 - Scrive solo dentro `books/`.

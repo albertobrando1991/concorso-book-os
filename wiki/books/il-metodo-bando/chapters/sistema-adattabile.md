@@ -1,29 +1,34 @@
 ---
 id: chapter-sistema-adattabile
 type: chapter
-title: "Moduli profilo e piano 30/60/90"
+title: "Piano 30/60/90 giorni"
 status: draft
 domain: "concorsi pubblici italiani"
 topics: ["moduli profilo","piano 30 60 90 giorni","diario errori","pubblico impiego","performance amministrativa","PNRR","contabilità pubblica"]
 entities: ["Moduli Profilo","Piano 30/60/90 giorni","Diario degli errori","Dirigente pubblico","PNRR","Corte dei conti"]
-source_refs: ["sources/metodo-bando-progetto-editoriale.md","sources/responsabilita-dirigenziale-legalita-organizzativa-performance-rischio.md"]
+source_refs: ["sources/struttura-madre-il-metodo-bando.md","sources/metodo-bando-progetto-editoriale.md","sources/responsabilita-dirigenziale-legalita-organizzativa-performance-rischio.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.86
-updated_at: 2026-05-10T00:00:00.000Z
+updated_at: 2026-05-10T11:45:00+02:00
 created_at: 2026-05-09T01:05:00.000Z
 review_required: true
 canonical: true
 tags: ["book-chapter","adaptive-system"]
 book_id: il-metodo-bando
-outline_section: "14-15"
+outline_section: "22"
 draft_stage: demo-draft
 last_compiled_from: ["topics/moduli-profilo.md","topics/piano-30-60-90-giorni.md","topics/diario-errori.md","topics/performance-amministrativa.md","topics/pnrr.md","topics/contabilita-pubblica.md"]
 ---
 
-# Moduli profilo e piano 30/60/90
+# Piano 30/60/90 giorni
 
 ## Obiettivo didattico
-Rendere il libro adattabile a famiglie concorsuali diverse attraverso mappe profilo, priorita e percorsi temporali.
+Dare tre percorsi concreti gia pronti: 30 giorni, 60 giorni e 90 giorni.
+
+## Specifica struttura madre
+Il percorso 30 giorni serve a chi ha poco tempo: priorita, bando, materie comuni essenziali, simulazioni frequenti, ripasso intenso, taglio approfondimenti. Il percorso 60 giorni alterna teoria/esercizi, studio progressivo, casi pratici, orale dalla seconda meta e simulazioni settimanali. Il percorso 90 giorni organizza basi, consolidamento/moduli, simulazioni/output, ripasso programmato e diario errori continuo.
+
+Strumenti obbligatori: 3 calendari compilabili, esempi compilati per amministrativo, enti locali e ministero, tabella "Se restano 15 giorni, cosa tagliare?".
 
 ## Spiegazione
 I [[topics/moduli-profilo]] evitano di inseguire ogni nome di profilo e raggruppano i concorsi per famiglie. Il [[topics/piano-30-60-90-giorni]] traduce il metodo in calendari pratici. Il [[topics/diario-errori]] mantiene il controllo del miglioramento.

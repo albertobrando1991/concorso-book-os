@@ -1,15 +1,15 @@
 ---
 id: chapter-diritto-amministrativo-per-candidati
 type: chapter
-title: "Diritto amministrativo per candidati"
+title: "Diritto amministrativo operativo"
 status: draft
 domain: "concorsi pubblici italiani"
 topics: ["diritto amministrativo","procedimento amministrativo","anticorruzione e trasparenza","fonti del diritto","principio di legalità","responsabilità dirigenziale","performance amministrativa","governo del rischio","contratti pubblici"]
 entities: ["Legge 241/1990","ANAC","Pubblica amministrazione","Vincenzo Lopilato","Dirigente pubblico","D.lgs. 165/2001","D.lgs. 150/2009","D.lgs. 36/2023","Corte dei conti","Consiglio di Stato"]
-source_refs: ["sources/metodo-bando-progetto-editoriale.md","sources/legge-241-1990-procedimento-amministrativo.md","sources/anac-trasparenza-e-anticorruzione.md","sources/manuale-diritto-amministrativo-lopilato.md","sources/responsabilita-dirigenziale-legalita-organizzativa-performance-rischio.md"]
+source_refs: ["sources/struttura-madre-il-metodo-bando.md","sources/metodo-bando-progetto-editoriale.md","sources/legge-241-1990-procedimento-amministrativo.md","sources/anac-trasparenza-e-anticorruzione.md","sources/manuale-diritto-amministrativo-lopilato.md","sources/responsabilita-dirigenziale-legalita-organizzativa-performance-rischio.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.82
-updated_at: 2026-05-10T00:00:00.000Z
+updated_at: 2026-05-10T11:45:00+02:00
 created_at: 2026-05-09T01:05:00.000Z
 review_required: true
 canonical: true
@@ -20,10 +20,15 @@ draft_stage: demo-draft
 last_compiled_from: ["topics/diritto-amministrativo.md","topics/procedimento-amministrativo.md","topics/anticorruzione-e-trasparenza.md","topics/fonti-del-diritto.md","topics/principio-di-legalita.md","topics/responsabilita-dirigenziale.md","topics/governo-del-rischio.md","sources/metodo-bando-progetto-editoriale.md"]
 ---
 
-# Diritto amministrativo per candidati
+# Diritto amministrativo operativo
 
 ## Obiettivo didattico
 Mostrare come una materia comune diventa unita operativa: mappa, caso reale, risposta da concorso, domanda-trappola e mini-esercizio.
+
+## Specifica struttura madre
+Il capitolo deve trasformare il diritto amministrativo da teoria a strumento pratico. Deve includere PA, principi dell'azione amministrativa, procedimento, responsabile, comunicazione di avvio, partecipazione, provvedimento, elementi, vizi, nullita/annullabilita, autotutela, silenzio amministrativo, accesso documentale, accesso civico, accesso generalizzato, conferenza di servizi, semplificazione, digitalizzazione del procedimento, responsabilita della PA e del dipendente.
+
+Strumenti obbligatori: caso guidato "istanza senza risposta", schema risposta orale definizione/norma/funzione/esempio, tabella procedimento/provvedimento/accesso/silenzio, box domanda trappola, griglia di procedimento.
 
 ## Spiegazione
 Questo capitolo usa [[topics/diritto-amministrativo]] e [[topics/procedimento-amministrativo]] come contenuto consolidato, ma li impagina secondo la logica del Metodo BANDO. La materia non deve essere enciclopedica: deve insegnare a rispondere in prova.

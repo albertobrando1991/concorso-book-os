@@ -9,6 +9,8 @@ description: Use when writing, rewriting, expanding, formatting, or reviewing ch
 
 Write professional Italian public competition manuals as editorial projections of the ConcorsoBook OS knowledge base.
 
+For `Il Metodo BANDO`, always treat `wiki/books/il-metodo-bando/struttura-madre.md` as the canonical operational guide for developing the manual. For each chapter, follow the selected chapter note first, especially `## Specifica struttura madre`, then use consolidated wiki knowledge to draft the actual text.
+
 The book is not a separate document. Every chapter must derive from consolidated wiki layers:
 
 - `wiki/sources/`

@@ -50,3 +50,10 @@ The active product is `Il Metodo BANDO`: a workbook-style book that teaches cand
 - Manual Writer Agent injects the project writer skill into Codex prompts and still uses only consolidated wiki knowledge, never raw sources.
 - Added interactive knowledge graph for sources, topics, entities, books, chapters and reviews.
 - Current blocker for true Codex-backed generation: local `codex login status` reports not logged in. After login, dashboard writing can use Codex CLI; until then it falls back to a structured local draft.
+
+## 2026-05-10 struttura madre libro
+- The user's long outline is now the canonical operational guide for developing the manual.
+- Canonical guide file: `wiki/books/il-metodo-bando/struttura-madre.md`.
+- Source summary: `wiki/sources/struttura-madre-il-metodo-bando.md`.
+- Book index now lists introduction, 24 chapters and 6 appendices.
+- Manual Writer Agent must start from `books/il-metodo-bando/struttura-madre.md`, then the selected chapter note and its `Specifica struttura madre`, then use consolidated wiki knowledge for the actual content.

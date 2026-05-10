@@ -23,3 +23,7 @@
 - Updated Windows launcher to warn when Codex CLI is missing or not authenticated.
 - Added interactive dashboard Knowledge Graph for sources, topics, entities, books, chapters and reviews.
 - Added skills research artifact with current web findings and project skill recommendations.
+- Added canonical `Il Metodo BANDO` structure guide with introduction, 24 chapters and 6 appendices.
+- Updated Manual Writer rules so every chapter starts from `struttura-madre.md` and the chapter `Specifica struttura madre`.
+- Manual Writer now injects the canonical structure guide directly into Codex/OpenAI prompts for `Il Metodo BANDO` chapters.
+- Manual Writer chapter menu now follows outline order instead of alphabetical order.

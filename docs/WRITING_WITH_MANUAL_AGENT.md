@@ -46,6 +46,14 @@ Il launcher `AVVIA_CONCORSOBOOK.bat` segnala automaticamente se Codex CLI non e'
 
 ## Come lavora
 
+Per `Il Metodo BANDO`, la guida operativa canonica e':
+
+```text
+wiki/books/il-metodo-bando/struttura-madre.md
+```
+
+Ogni nota capitolo contiene anche una sezione `Specifica struttura madre`. Il Manual Writer deve partire da quella struttura, poi integrare la knowledge consolidata.
+
 L'agente legge solo conoscenza consolidata:
 
 ```text

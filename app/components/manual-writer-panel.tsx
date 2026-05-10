@@ -112,6 +112,7 @@ export function ManualWriterPanel({
           <select value={chapterPath} onChange={(event) => setChapterPath(event.target.value)}>
             {chapters.map((chapter) => (
               <option value={chapter.path} key={chapter.path}>
+                {chapter.outlineSection ? `${chapter.outlineSection} - ` : ""}
                 {chapter.title}
               </option>
             ))}
