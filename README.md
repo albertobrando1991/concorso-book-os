@@ -16,6 +16,16 @@ The book is not treated as a detached document. It is an editorial projection of
 
 ## Quick Start
 
+On Windows, double-click:
+
+```text
+AVVIA_CONCORSOBOOK.bat
+```
+
+Keep the terminal window open, then open `http://127.0.0.1:3000`.
+
+Manual start:
+
 ```powershell
 npm install
 npm run dev
