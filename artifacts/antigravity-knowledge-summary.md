@@ -57,3 +57,13 @@ The active product is `Il Metodo BANDO`: a workbook-style book that teaches cand
 - Source summary: `wiki/sources/struttura-madre-il-metodo-bando.md`.
 - Book index now lists introduction, 24 chapters and 6 appendices.
 - Manual Writer Agent must start from `books/il-metodo-bando/struttura-madre.md`, then the selected chapter note and its `Specifica struttura madre`, then use consolidated wiki knowledge for the actual content.
+
+## 2026-05-10 constitutional source ingest
+- New local raw PDF detected: `wiki/raw/manuals/Diritto Costituzionale (Pitruzzella G. R.Bin) (z-library.sk, 1lib.sk, z-lib.sk).pdf`.
+- The PDF is ignored from GitHub because rights are unverified and the filename references z-library/z-lib.
+- Created metadata-only source note: `wiki/sources/diritto-costituzionale-bin-pitruzzella.md`.
+- New primary source detected: `wiki/raw/decrees/Costituzione_ITALIANa.pdf`.
+- Created official/primary source note: `wiki/sources/costituzione-repubblica-italiana-testo-vigente.md`.
+- Created topics: `diritto-costituzionale`, `ordinamento-dello-stato`, `principi-costituzionali-pa`.
+- Created constitutional entity stubs and impacted chapter `costituzione-e-ordinamento-dello-stato`.
+- Rule: do not extract or summarize the manual PDF until rights are verified; use the Constitution source and official primary sources for publishable chapter text.

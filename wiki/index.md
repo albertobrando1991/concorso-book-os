@@ -5,6 +5,8 @@ Aggiornato: 2026-05-10T00:00:00.000Z
 ## Sources
 - [[sources/metodo-bando-progetto-editoriale]]
 - [[sources/struttura-madre-il-metodo-bando]]
+- [[sources/costituzione-repubblica-italiana-testo-vigente]]
+- [[sources/diritto-costituzionale-bin-pitruzzella]]
 - [[sources/manuale-diritto-amministrativo-lopilato]]
 - [[sources/responsabilita-dirigenziale-legalita-organizzativa-performance-rischio]]
 - [[sources/legge-241-1990-procedimento-amministrativo]]
@@ -13,6 +15,9 @@ Aggiornato: 2026-05-10T00:00:00.000Z
 
 ## Topics
 - [[topics/metodo-bando]]
+- [[topics/diritto-costituzionale]]
+- [[topics/ordinamento-dello-stato]]
+- [[topics/principi-costituzionali-pa]]
 - [[topics/anatomia-del-bando]]
 - [[topics/bando-decoder]]
 - [[topics/moduli-profilo]]
@@ -38,6 +43,14 @@ Aggiornato: 2026-05-10T00:00:00.000Z
 
 ## Entities
 - [[entities/metodo-bando]]
+- [[entities/costituzione-della-repubblica-italiana]]
+- [[entities/roberto-bin]]
+- [[entities/giovanni-pitruzzella]]
+- [[entities/parlamento]]
+- [[entities/governo]]
+- [[entities/presidente-della-repubblica]]
+- [[entities/corte-costituzionale]]
+- [[entities/magistratura]]
 - [[entities/bando-decoder]]
 - [[entities/moduli-profilo]]
 - [[entities/piano-30-60-90-giorni]]

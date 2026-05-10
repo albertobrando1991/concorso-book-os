@@ -12,3 +12,5 @@ test-results/
 wiki/.obsidian/
 wiki/*.base
 wiki/**/*.base
+wiki/raw/manuals/*z-library*.pdf
+wiki/raw/manuals/*z-lib*.pdf

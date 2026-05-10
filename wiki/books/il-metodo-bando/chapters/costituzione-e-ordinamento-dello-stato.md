@@ -6,10 +6,10 @@ status: planned
 domain: "concorsi pubblici italiani"
 topics: ["diritto costituzionale","ordinamento dello stato","fonti del diritto","pubblica amministrazione"]
 entities: ["Parlamento","Governo","Presidente della Repubblica","Corte costituzionale","Magistratura","Comune"]
-source_refs: ["sources/struttura-madre-il-metodo-bando.md"]
+source_refs: ["sources/struttura-madre-il-metodo-bando.md","sources/costituzione-repubblica-italiana-testo-vigente.md","sources/diritto-costituzionale-bin-pitruzzella.md"]
 book_refs: ["il-metodo-bando"]
-confidence: 0.62
-updated_at: 2026-05-10T11:45:00+02:00
+confidence: 0.78
+updated_at: 2026-05-10T12:25:00+02:00
 created_at: 2026-05-10T11:45:00+02:00
 review_required: true
 canonical: true
@@ -17,7 +17,7 @@ tags: ["book-chapter","common-subject"]
 book_id: il-metodo-bando
 outline_section: "4"
 draft_stage: structure-ready
-last_compiled_from: ["sources/struttura-madre-il-metodo-bando.md"]
+last_compiled_from: ["sources/struttura-madre-il-metodo-bando.md","sources/costituzione-repubblica-italiana-testo-vigente.md","topics/diritto-costituzionale.md","topics/ordinamento-dello-stato.md","topics/principi-costituzionali-pa.md"]
 ---
 
 # Costituzione e ordinamento dello Stato
@@ -38,3 +38,7 @@ Da sviluppare con Manual Writer Agent dopo integrazione di fonti costituzionali 
 
 ## Note editoriali
 Non deve diventare compendio universitario: taglio concorsuale e operativo.
+
+Aggiornamento 2026-05-10: aggiunta fonte manualistica costituzionale locale come `metadata_only`. Non usare il PDF per estrazioni o testo derivato finche non e' verificato il diritto d'uso.
+
+Aggiornamento 2026-05-10: aggiunta fonte primaria locale `Costituzione_ITALIANa.pdf`, collegata al riferimento istituzionale del Senato. Il capitolo puo ora essere sviluppato usando la fonte costituzionale ufficiale e la struttura madre del manuale.
