@@ -28,18 +28,27 @@ Non deve sembrare:
 - una dispensa scolastica improvvisata.
 
 ## Formato fisico consigliato
-Formato principale:
+Formato operativo canonico per dashboard, revisione ed export di lavoro:
+
+```text
+A4 verticale
+210 x 297 mm
+```
+
+Motivo:
+- rende visibile una pagina reale alla volta nella dashboard;
+- offre spazio sufficiente per tabelle, box, mappe, checklist e schede compilabili;
+- facilita revisione, stampa interna, annotazione e confronto tra versioni;
+- mantiene il libro autonomo su carta e pronto per conversioni editoriali successive.
+
+Formato commerciale alternativo per edizione stampa compatta:
 
 ```text
 17 x 24 cm circa
 KDP equivalente: 6.69 x 9.61 in
 ```
 
-Motivo:
-- abbastanza ampio per tabelle, box, mappe e pagine compilabili;
-- piu professionale di un 6 x 9 per un manuale operativo;
-- meno ingombrante di un A4 o 8.5 x 11;
-- coerente con manuali, guide tecniche e workbook europei.
+Usarlo solo in fase di impaginazione finale se si decide di produrre una versione piu compatta.
 
 Formato alternativo per edizione molto pratica/workbook:
 
@@ -47,10 +56,20 @@ Formato alternativo per edizione molto pratica/workbook:
 7 x 10 in
 ```
 
-Usarlo solo se aumentano molto schede compilabili, griglie, tabelle e immagini.
+Usarlo solo se aumentano molto schede compilabili, griglie, tabelle e immagini e non si vuole mantenere A4.
 
 ## Margini e gabbia
-Per un libro previsto tra 300 e 500 pagine:
+Per il formato A4 di dashboard/revisione:
+
+```text
+interno/gutter: 20 mm
+esterno: 18 mm
+alto: 18 mm
+basso: 22 mm
+area testo: colonna singola
+```
+
+Per un eventuale formato 17 x 24 cm tra 300 e 500 pagine:
 
 ```text
 interno/gutter: 19 mm
@@ -64,6 +83,8 @@ Regola:
 - niente testo troppo vicino alla legatura;
 - no layout a due colonne per la spiegazione principale;
 - box e strumenti devono entrare nella colonna senza comprimere il testo;
+- la preview dashboard deve essere paginata in singole pagine A4, con footer e numerazione;
+- il testo corrente deve essere giustificato, con sillabazione italiana, vedove/orfani controllati e titoli non lasciati soli a fine pagina;
 - tabelle larghe possono usare pagina piena o orientamento dedicato solo in appendice/PDF.
 
 Bleed:

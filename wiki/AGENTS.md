@@ -109,6 +109,7 @@ Regole:
 - In modalita `integrate`, `format`, `improve`, `expand` aggiorna la sezione `Testo editoriale`.
 - Deve preservare tracciabilita: ogni blocco deve indicare riferimenti consolidati usati.
 - Deve mantenere stile workbook Metodo BANDO: apertura editoriale, obiettivo, mappa BANDO, spiegazione, box "da sapere in 5 righe", caso guidato, domanda da commissario, domanda-trappola, mini-esercizio, errore tipico, riferimenti, note di review.
+- Deve scrivere in modo impaginabile: paragrafi brevi, titoli non orfani, tabelle leggibili in pagina A4, box autonomi e note layout solo quando servono alla revisione visiva.
 - Non deve mai produrre formule come "Aggiornamento generato", "Istruzione ricevuta" o riepiloghi delle fonti al posto del capitolo.
 - Deve integrare nuova conoscenza senza cancellare il lavoro umano preesistente fuori dalle sezioni gestite.
 - Provider consigliato: `WRITER_PROVIDER=codex`, che usa `codex exec` locale e la skill di progetto `.agents/skills/concorso-book-professional-writer/SKILL.md`.
@@ -126,7 +127,7 @@ Regole:
 - Un capitolo finale non deve mai derivare solo da una raw source.
 - Ogni capitolo deve includere obiettivo didattico, spiegazione, punti chiave, riferimenti, esempi, errori frequenti e quiz collegati.
 - La scrittura e' incrementale: integrare, chiarire e migliorare senza distruggere lavoro precedente.
-- Il formato editoriale canonico per `Il Metodo BANDO` e' manuale-workbook 17 x 24 cm circa, corpo serif professionale, titoli/box sans serif, colonna singola, box operativi ricorrenti e strumenti compilabili.
+- Il formato operativo canonico per dashboard, revisione ed export di lavoro di `Il Metodo BANDO` e' A4 verticale, testo giustificato, pagine singole numerate, corpo serif professionale, titoli/box sans serif, colonna singola, box operativi ricorrenti e strumenti compilabili. Il 17 x 24 cm resta solo eventuale formato commerciale compatto finale.
 - Separare note canoniche da note di lavoro.
 - Richiedere review umana per interpretazioni normative puntuali.
 - Per il libro `Il Metodo BANDO`, l'outline base e' Parte I Orientarsi, Parte II Materie comuni, Parte III Allenamento, Parte IV Sistema adattabile, Appendici/tool.

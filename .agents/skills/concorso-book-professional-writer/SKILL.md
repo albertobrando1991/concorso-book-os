@@ -76,15 +76,18 @@ wiki/books/il-metodo-bando/design-system-editoriale.md
 Default publication format:
 
 - manual/workbook, not novel;
-- print target around 17 x 24 cm, KDP equivalent 6.69 x 9.61 in;
+- dashboard/revision/export target: A4 vertical pages, 210 x 297 mm, one visible page at a time;
+- compact commercial print target, only if later requested: around 17 x 24 cm, KDP equivalent 6.69 x 9.61 in;
 - body text: Source Serif 4 or high-quality serif fallback;
 - headings, boxes, captions, tables: Source Sans 3 or high-quality sans fallback;
 - single-column explanation;
+- justified body text with Italian hyphenation where possible;
+- no orphan headings at the bottom of a page;
 - recurring operational boxes;
 - short paragraphs, clear hierarchy, tables only when they remain readable;
 - every image must have a didactic function.
 
-When formatting a chapter, think in pages: explanation, BANDO map, operational box, case, exercise, error, references and review state.
+When formatting a chapter, think in A4 pages: explanation, BANDO map, operational box, case, exercise, error, references and review state. A page should feel like a professional manual page, not a long web article.
 
 ## Actual Chapter Rule
 

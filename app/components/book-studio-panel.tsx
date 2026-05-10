@@ -29,6 +29,18 @@ interface WriterResult {
 
 type ViewMode = "chapter" | "book"
 
+interface PreviewPage {
+  chapter: BookStudioChapter
+  blocks: MarkdownBlock[]
+  pageNumber: number
+  chapterPageNumber: number
+  isFirstPage: boolean
+}
+
+const PAGE_BUDGET = 920
+const FIRST_PAGE_HEADER_COST = 120
+const RUNNING_HEADER_COST = 36
+
 const modeOptions: Array<{ value: ManualWriterMode; label: string }> = [
   { value: "integrate", label: "Integra richiesta" },
   { value: "format", label: "Sistema impaginazione" },
@@ -64,6 +76,7 @@ export function BookStudioPanel({
     [data.chapters, selectedPath]
   )
   const previewChapters = viewMode === "book" ? data.chapters : selectedChapter ? [selectedChapter] : []
+  const previewPages = useMemo(() => paginateChapters(previewChapters), [previewChapters])
 
   async function refreshStudio() {
     setIsRefreshing(true)
@@ -224,14 +237,14 @@ export function BookStudioPanel({
           <div className="bookPreviewToolbar">
             <div>
               <strong>{data.title}</strong>
-              <span>Formato manuale-workbook 17 x 24 cm | aggiornata {formatDate(data.updatedAt)}</span>
+              <span>Preview A4 paginata, testo giustificato | aggiornata {formatDate(data.updatedAt)}</span>
             </div>
             <span className="studioBadge">{viewMode === "book" ? "vista libro" : "vista capitolo"}</span>
           </div>
 
-          <div className="bookPage" aria-label="Preview manuale">
-            {previewChapters.map((chapter) => (
-              <ChapterPreview chapter={chapter} key={chapter.path} />
+          <div className="bookPages" aria-label="Preview manuale A4 paginata">
+            {previewPages.map((page) => (
+              <BookPagePreview page={page} key={`${page.chapter.path}-${page.chapterPageNumber}`} />
             ))}
           </div>
         </div>
@@ -332,28 +345,42 @@ function Stat({ label, value }: { label: string; value: number }) {
   )
 }
 
-function ChapterPreview({ chapter }: { chapter: BookStudioChapter }) {
+function BookPagePreview({ page }: { page: PreviewPage }) {
+  const { chapter } = page
+
   return (
-    <article className="chapterPreview">
-      <header>
-        <span className="chapterNumber">{chapter.outlineSection || "Libro"}</span>
-        <div>
-          <h2>{chapter.title}</h2>
-          <p>
-            {chapter.contentState === "written" ? "Testo editoriale" : chapter.contentState === "draft" ? "Bozza / struttura sviluppabile" : "Solo struttura"}
-            {" | "}
-            {chapter.wordCount} parole
-            {" | "}
-            {chapter.sourceRefs.length} fonti
-          </p>
+    <article className="bookPage" lang="it">
+      {page.isFirstPage ? (
+        <header className="chapterPreviewHeader">
+          <span className="chapterNumber">{chapter.outlineSection || "Libro"}</span>
+          <div>
+            <h2>{chapter.title}</h2>
+            <p>
+              {chapter.contentState === "written" ? "Testo editoriale" : chapter.contentState === "draft" ? "Bozza / struttura sviluppabile" : "Solo struttura"}
+              {" | "}
+              {chapter.wordCount} parole
+              {" | "}
+              {chapter.sourceRefs.length} fonti
+            </p>
+          </div>
+        </header>
+      ) : (
+        <div className="runningHeader">
+          <span>{chapter.outlineSection ? `${chapter.outlineSection}. ` : ""}{chapter.title}</span>
+          <span>continua</span>
         </div>
-      </header>
+      )}
 
       <div className="previewBlocks">
-        {chapter.blocks.map((block, index) => (
-          <PreviewBlock block={block} key={`${chapter.path}-${index}`} />
+        {page.blocks.map((block, index) => (
+          <PreviewBlock block={block} key={`${chapter.path}-${page.chapterPageNumber}-${index}`} />
         ))}
       </div>
+
+      <footer className="pageFooter">
+        <span>Il Metodo BANDO</span>
+        <span>{page.pageNumber}</span>
+      </footer>
     </article>
   )
 }
@@ -445,4 +472,104 @@ function formatDate(value: string) {
     hour: "2-digit",
     minute: "2-digit"
   }).format(new Date(value))
+}
+
+function paginateChapters(chapters: BookStudioChapter[]): PreviewPage[] {
+  const pages: PreviewPage[] = []
+  let pageNumber = 1
+
+  for (const chapter of chapters) {
+    const chapterPages = paginateBlocks(chapter)
+
+    for (const page of chapterPages) {
+      pages.push({
+        ...page,
+        pageNumber: pageNumber++
+      })
+    }
+  }
+
+  return pages
+}
+
+function paginateBlocks(chapter: BookStudioChapter): Array<Omit<PreviewPage, "pageNumber">> {
+  const pages: Array<Omit<PreviewPage, "pageNumber">> = []
+  let blocks: MarkdownBlock[] = []
+  let chapterPageNumber = 1
+  let used = FIRST_PAGE_HEADER_COST
+
+  function pushPage() {
+    pages.push({
+      chapter,
+      blocks,
+      chapterPageNumber,
+      isFirstPage: chapterPageNumber === 1
+    })
+    chapterPageNumber += 1
+    blocks = []
+    used = RUNNING_HEADER_COST
+  }
+
+  for (let index = 0; index < chapter.blocks.length; index += 1) {
+    const block = chapter.blocks[index]
+    const nextBlock = chapter.blocks[index + 1]
+    const cost = estimateBlockCost(block)
+    const keepWithNextCost = shouldKeepWithNext(block, nextBlock) ? estimateBlockCost(nextBlock) : 0
+    const budget = PAGE_BUDGET
+
+    if (blocks.length > 0 && used + cost + keepWithNextCost > budget) {
+      pushPage()
+    }
+
+    blocks.push(block)
+    used += cost
+  }
+
+  if (blocks.length > 0 || pages.length === 0) {
+    pushPage()
+  }
+
+  return pages
+}
+
+function shouldKeepWithNext(block: MarkdownBlock, nextBlock?: MarkdownBlock) {
+  return Boolean(block.type === "heading" && nextBlock && nextBlock.type !== "heading")
+}
+
+function estimateBlockCost(block: MarkdownBlock) {
+  if (block.type === "heading") {
+    const level = block.level || 3
+
+    if (level <= 2) return 52
+    if (level === 3) return 40
+
+    return 32
+  }
+
+  if (block.type === "paragraph") {
+    const words = wordCount(block.text || "")
+    return Math.ceil(words / 13) * 23 + 8
+  }
+
+  if (block.type === "list") {
+    return (block.items || []).reduce((total, item) => total + Math.ceil(wordCount(item) / 12) * 19 + 6, 18)
+  }
+
+  if (block.type === "table") {
+    return ((block.rows?.length || 0) + 1) * 32 + 20
+  }
+
+  if (block.type === "image") {
+    return 270
+  }
+
+  if (block.type === "code") {
+    return (block.text || "").split("\n").length * 18 + 24
+  }
+
+  return 36
+}
+
+function wordCount(value: string) {
+  return value.split(/\s+/).filter(Boolean).length
 }

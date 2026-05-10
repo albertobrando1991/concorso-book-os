@@ -89,10 +89,10 @@ The active product is `Il Metodo BANDO`: a workbook-style book that teaches cand
 - Canonical file: `wiki/books/il-metodo-bando/design-system-editoriale.md`.
 - Research source note: `wiki/sources/book-layout-typography-standards.md`.
 - Decision: professional manual-workbook, not novel or dense legal compendium.
-- Primary format: 17 x 24 cm circa, KDP equivalent `6.69 x 9.61 in`; alternative workbook format `7 x 10 in`.
+- Primary dashboard/revision/export format: A4 vertical, `210 x 297 mm`; 17 x 24 cm remains only an optional compact commercial print format.
 - Typography: Source Serif 4 for body, Source Sans 3 for headings, boxes, captions and tables; fallback serif/sans stacks defined.
-- Layout: single-column explanation, recurring operational boxes, short paragraphs, readable tables, didactic images only.
-- Book Studio preview now reflects the design system with manual typography and page styling.
+- Layout: single-column explanation, justified body text, recurring operational boxes, short paragraphs, readable tables, didactic images only.
+- Book Studio preview now reflects the design system with A4 page styling, footer/page numbers and print CSS.
 
 ## 2026-05-10 Manual Writer actual-chapter correction
 - User correctly identified that Manual Writer fallback was writing meta summaries, not real chapters.
@@ -101,3 +101,10 @@ The active product is `Il Metodo BANDO`: a workbook-style book that teaches cand
 - Rule clarified: the wiki brain is mandatory and comes first; web research is used only for updates/verification and must be consolidated into source notes before becoming stable knowledge.
 - Rewrote `books/il-metodo-bando/chapters/introduzione.md` and `books/il-metodo-bando/chapters/il-nuovo-candidato-pubblico.md` as real editorial drafts.
 - Book Studio preview now renders markdown tables, so workbook grids display properly.
+
+## 2026-05-10 A4 paginated preview correction
+- User reported that Book Studio text was not justified and the preview was not divided into individual A4 pages.
+- Book Studio now paginates chapter blocks into separate A4 sheets with justified text, Italian hyphenation, running headers, footer and page number.
+- Pagination includes an anti-orphan rule: headings stay with the following block when possible.
+- `AGENTS.md`, the writer skill and `design-system-editoriale.md` now require A4 page-aware formatting for dashboard review/export.
+- Verification passed: typecheck, tests, production build and screenshot artifact.

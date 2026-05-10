@@ -38,3 +38,5 @@
 - Tightened Manual Writer Agent rules so it writes actual reader-facing chapters, rejects meta drafts, and treats the wiki brain as mandatory before web research.
 - Rewrote `introduzione.md` and `il-nuovo-candidato-pubblico.md` with real editorial chapter text instead of technical fallback summaries.
 - Added table rendering to Book Studio preview for workbook grids and comparison tables.
+- Updated Book Studio to render the manual as paginated A4 sheets with justified body text, running headers, footers, page numbers, anti-orphan heading pagination and A4 print CSS.
+- Updated `AGENTS.md`, the project writer skill and the canonical design system so A4 page-aware formatting is now a persistent rule for `Il Metodo BANDO`.
