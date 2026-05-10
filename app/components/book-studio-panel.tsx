@@ -48,7 +48,7 @@ export function BookStudioPanel({
   const [viewMode, setViewMode] = useState<ViewMode>("chapter")
   const [writerMode, setWriterMode] = useState<ManualWriterMode>("integrate")
   const [instruction, setInstruction] = useState(
-    "Rendi questo capitolo pronto per revisione editoriale: struttura chiara, titoli coerenti, box operativi, esempi, note layout e indicazioni per eventuali immagini."
+    "Scrivi il capitolo effettivo per il lettore usando prima il cervello wiki: struttura madre, nota capitolo, source notes, topic pages, entity pages e design system. Integra ricerca web ufficiale solo se serve aggiornamento o verifica, poi segnala le fonti da consolidare. Non fare riepiloghi tecnici."
   )
   const [imageFile, setImageFile] = useState<File | null>(null)
   const [caption, setCaption] = useState("")
@@ -390,6 +390,31 @@ function PreviewBlock({ block }: { block: MarkdownBlock }) {
         <img src={src} alt={block.alt || "Immagine capitolo"} />
         {block.alt ? <figcaption>{block.alt}</figcaption> : null}
       </figure>
+    )
+  }
+
+  if (block.type === "table") {
+    return (
+      <div className="previewTableWrap">
+        <table className="previewTable">
+          <thead>
+            <tr>
+              {(block.headers || []).map((header) => (
+                <th key={header}>{header}</th>
+              ))}
+            </tr>
+          </thead>
+          <tbody>
+            {(block.rows || []).map((row, rowIndex) => (
+              <tr key={`${row.join("-")}-${rowIndex}`}>
+                {row.map((cell, cellIndex) => (
+                  <td key={`${cell}-${cellIndex}`}>{cell}</td>
+                ))}
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
     )
   }
 

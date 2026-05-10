@@ -93,3 +93,11 @@ The active product is `Il Metodo BANDO`: a workbook-style book that teaches cand
 - Typography: Source Serif 4 for body, Source Sans 3 for headings, boxes, captions and tables; fallback serif/sans stacks defined.
 - Layout: single-column explanation, recurring operational boxes, short paragraphs, readable tables, didactic images only.
 - Book Studio preview now reflects the design system with manual typography and page styling.
+
+## 2026-05-10 Manual Writer actual-chapter correction
+- User correctly identified that Manual Writer fallback was writing meta summaries, not real chapters.
+- Manual Writer Agent now rejects outputs containing meta markers such as `Aggiornamento generato`, `Istruzione ricevuta`, `Knowledge consolidata`, or `questo blocco sviluppa`.
+- Default dashboard prompts now instruct the writer to produce actual reader-facing chapter text.
+- Rule clarified: the wiki brain is mandatory and comes first; web research is used only for updates/verification and must be consolidated into source notes before becoming stable knowledge.
+- Rewrote `books/il-metodo-bando/chapters/introduzione.md` and `books/il-metodo-bando/chapters/il-nuovo-candidato-pubblico.md` as real editorial drafts.
+- Book Studio preview now renders markdown tables, so workbook grids display properly.

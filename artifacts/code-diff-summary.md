@@ -35,3 +35,6 @@
 - Added canonical editorial design system for `Il Metodo BANDO`: 17 x 24 cm manual-workbook format, Source Serif 4 body, Source Sans 3 headings/boxes, single-column explanation and recurring operational boxes.
 - Updated Book Studio preview typography to emulate the chosen manual-workbook design system.
 - Manual Writer Agent now injects the canonical editorial design system into Codex/OpenAI prompts for `Il Metodo BANDO` chapters.
+- Tightened Manual Writer Agent rules so it writes actual reader-facing chapters, rejects meta drafts, and treats the wiki brain as mandatory before web research.
+- Rewrote `introduzione.md` and `il-nuovo-candidato-pubblico.md` with real editorial chapter text instead of technical fallback summaries.
+- Added table rendering to Book Studio preview for workbook grids and comparison tables.

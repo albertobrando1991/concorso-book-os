@@ -38,7 +38,7 @@ export function ManualWriterPanel({
   const [chapterPath, setChapterPath] = useState(initialChapters[0]?.path || "")
   const [mode, setMode] = useState<ManualWriterMode>("integrate")
   const [instruction, setInstruction] = useState(
-    "Riscrivi questo capitolo come manuale operativo Metodo BANDO, integrando la conoscenza nuova e aggiungendo caso guidato, domanda-trappola, errori frequenti e mini-esercizio."
+    "Scrivi il capitolo effettivo come testo da manuale Metodo BANDO, non un riepilogo tecnico. Usa prima il cervello wiki: struttura madre, nota capitolo, source notes, topic pages, entity pages e design system; aggiungi caso guidato, domanda-trappola, errori frequenti, mini-esercizio e note di ricerca web ufficiale se servono aggiornamenti."
   )
   const [isLoading, setIsLoading] = useState(false)
   const [result, setResult] = useState<WriterResult | null>(null)

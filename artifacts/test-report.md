@@ -19,6 +19,7 @@
 - 2026-05-10 authorized constitutional manual processing: `npm run typecheck` and `npm test` passed after user confirmed rights and source note was upgraded from metadata-only to processed.
 - 2026-05-10 Book Studio preview milestone: `npm run typecheck`, `npm test`, `npm run build`, `PORT=3011 npm run screenshot`, local dashboard HTTP checks on `http://127.0.0.1:3000` and `http://127.0.0.1:3001`, and `GET /api/book-studio` all passed.
 - 2026-05-10 editorial formatting standard: `npm run typecheck`, `npm test`, `npm run build`, and `PORT=3011 npm run screenshot` passed after adding design system files, prompt injection and Book Studio typography update.
+- 2026-05-10 Manual Writer actual-chapter correction: `npm run typecheck`, `npm test`, `npm run build`, `PORT=3011 npm run screenshot`, and meta-text grep passed after rejecting meta drafts, enforcing wiki-brain-first policy and rewriting introduction/chapter 1.
 
 ## Notes
 - First typecheck exposed Node 24 `fs.readdir` typing issues; fixed by using explicit UTF-8 dirent reads.

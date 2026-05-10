@@ -177,7 +177,7 @@ export class ManualWriterAgent {
         const response = await completeWithCodexCli(renderCodexPrompt(input, skill))
         const text = response.text.trim()
 
-        if (text) {
+        if (text && !looksLikeMetaDraft(text)) {
           return {
             text,
             provider: "codex" as const,
@@ -232,10 +232,20 @@ export class ManualWriterAgent {
           trimWords(input.designGuide.replace(/^---[\s\S]*?---/, ""), 800),
           "\nCapitolo esistente e struttura editoriale da rispettare:",
           trimWords(input.chapterContent.replace(/^---[\s\S]*?---/, ""), 900),
-          "\nProduci testo pronto per un manuale-workbook professionale. Formato obbligatorio: apertura editoriale, obiettivo, mappa BANDO, spiegazione strutturata, box da sapere in 5 righe, caso guidato, domanda da commissario, domanda-trappola, mini-esercizio, errore tipico, riferimenti consolidati, note di review. Integra la richiesta dell'utente e la conoscenza nuova senza cancellare tracciabilità."
+          "\nProduci testo pronto per un manuale-workbook professionale. Formato obbligatorio: apertura editoriale, obiettivo, mappa BANDO, spiegazione strutturata, box da sapere in 5 righe, caso guidato, domanda da commissario, domanda-trappola, mini-esercizio, errore tipico, riferimenti consolidati, note di review. Integra la richiesta dell'utente e la conoscenza nuova senza cancellare tracciabilità.",
+          "Divieto assoluto: non scrivere sezioni meta come 'Aggiornamento generato', 'Istruzione ricevuta', 'Knowledge consolidata', 'questo blocco sviluppa'. Non riassumere le fonti. Scrivi direttamente il capitolo destinato al lettore.",
+          "Se il capitolo richiede aggiornamenti web o verifica normativa corrente e le fonti consolidate non bastano, segnala in 'Note di review' quali ricerche web ufficiali servono. Non inventare dati non presenti."
         ].join("\n")
       }
     ])
+
+    if (looksLikeMetaDraft(response)) {
+      return {
+        text: renderDeterministicDraft(input),
+        provider: "local" as const,
+        warnings: ["Risposta LLM scartata perché conteneva testo meta invece di un capitolo editoriale."]
+      }
+    }
 
     return {
       text: response.trim() || renderDeterministicDraft(input),
@@ -262,7 +272,12 @@ function renderCodexPrompt(input: {
     "",
     "Devi generare SOLO il markdown da inserire nel capitolo. Non modificare file, non eseguire comandi, non leggere raw sources.",
     "Usa esclusivamente la knowledge consolidata fornita qui sotto: source notes, topic pages, entity pages.",
+    "La knowledge consolidata del wiki e' il cervello obbligatorio del sistema: struttura madre, source notes, topic pages, entity pages, capitoli esistenti e quiz vengono prima di qualsiasi altra cosa.",
     "Scrivi in italiano, stile manuale-workbook professionale per concorsi pubblici, seguendo il Metodo BANDO.",
+    "Non devi spiegare che cosa stai facendo. Non devi riassumere il pacchetto conoscenza. Non scrivere 'Aggiornamento generato', 'Istruzione ricevuta', 'Knowledge consolidata', 'questo blocco sviluppa' o formule simili.",
+    "Il testo deve sembrare una pagina reale del libro, rivolta direttamente al lettore.",
+    "La ricerca web serve solo quando il cervello wiki non basta o quando servono aggiornamenti correnti. Dopo la ricerca, i risultati devono diventare source notes consolidate prima di essere trattati come conoscenza stabile.",
+    "Se servono aggiornamenti web, fonti ufficiali o verifica normativa corrente e non sono presenti nel pacchetto conoscenza, aggiungi in 'Note di review' una richiesta puntuale di ricerca web. Non inventare norme, date, soglie o aggiornamenti.",
     "",
     `Capitolo target: ${input.title}`,
     `Modalita: ${input.mode}`,
@@ -294,7 +309,7 @@ function renderCodexPrompt(input: {
     "## Capitolo esistente e struttura editoriale da rispettare",
     trimWords(input.chapterContent.replace(/^---[\s\S]*?---/, ""), 1200),
     "",
-    "Restituisci solo markdown del capitolo, senza premesse operative."
+    "Restituisci solo markdown del capitolo, senza premesse operative e senza testo meta."
   ].join("\n")
 }
 
@@ -315,54 +330,68 @@ function renderDeterministicDraft(input: {
 }) {
   const primary = input.knowledge.slice(0, 6)
   const references = primary.map((item) => `- [[${item.path.replace(".md", "")}]]`).join("\n")
-  const bullets = primary
-    .map((item) => `- ${item.title}: ${firstSentence(item.summary)}`)
-    .join("\n")
+  const chapterBody = input.chapterContent.replace(/^---[\s\S]*?---/, "")
+  const objective = extractSection(input.chapterContent, "Obiettivo didattico") || `Rendere il tema "${input.title}" utilizzabile nello studio e nelle prove.`
+  const structureItems = extractBulletItems(extractSection(input.chapterContent, "Specifica struttura madre"))
+  const toolItems = extractBulletItems(extractSection(input.chapterContent, "Strumenti da inserire"))
+  const note = extractSection(input.chapterContent, "Note editoriali")
+  const opening = renderOpening(input.title, objective, structureItems)
+  const explanation = renderChapterSpecificExplanation(input.title, structureItems, note)
+  const bandoMap = renderBandoMap(input.title, structureItems)
+  const toolBlock = toolItems.length > 0 ? renderToolBlock(toolItems) : renderDefaultToolBlock(input.title)
+  const caseBlock = renderCaseBlock(input.title)
+  const imageNotes = renderImageNotes(input.title)
 
-  return `Aggiornamento generato da Manual Writer Agent.
+  return `### Apertura editoriale
+${opening}
 
-### Istruzione ricevuta
-${input.instruction || "Scrivere una bozza editoriale usando la conoscenza consolidata."}
-
-### Apertura editoriale
-Questo blocco sviluppa il capitolo "${input.title}" in stile Metodo BANDO: non come trattazione enciclopedica, ma come unità operativa che aiuta il candidato a capire, ricordare e usare il tema in prova. La scrittura deve restare autonoma su carta e potenziabile dal digitale solo come supporto.
-
-### Obiettivo del blocco
-Trasformare la conoscenza consolidata in testo da manuale: chiaro, progressivo, utilizzabile per studio, ripasso, prova scritta e orale.
+### Obiettivo del capitolo
+${objective}
 
 ### Mappa BANDO
-- **Bando**: individuare come il tema compare nelle materie e nelle prove.
-- **Aree**: collegare il tema alle aree comuni e specifiche.
-- **Nuclei**: selezionare i concetti ad alta probabilità.
-- **Diario**: trasformare il tema in ripassi e controllo errori.
-- **Output**: produrre risposta, caso, domanda orale o mini-esercizio.
+${bandoMap}
 
 ### Spiegazione
-${bullets || "- Knowledge consolidata insufficiente: aggiungere source notes e topic pages prima di consolidare il capitolo."}
+${explanation}
 
 ### Da sapere in 5 righe
-1. Parti dal concetto centrale e collegalo alla funzione pratica.
-2. Distingui definizione, norma, effetto operativo e caso d'esame.
-3. Usa esempi di ufficio pubblico, non solo formule astratte.
-4. Evidenzia rischi, errori frequenti e parole chiave.
-5. Chiudi sempre con un output: quiz, risposta orale, mini-caso o checklist.
+1. Il candidato efficace non parte dai materiali: parte dal bando e dalle prove.
+2. Le materie non hanno tutte lo stesso peso: vanno ordinate per priorità, frequenza e rischio.
+3. Quiz, teoria, casi e orale sono output diversi e vanno allenati in modo diverso.
+4. Ogni errore deve diventare un dato di lavoro, non una semplice correzione.
+5. Il Metodo BANDO serve a riusare ciò che studi, invece di ricominciare da zero a ogni concorso.
+
+### Strumenti operativi
+${toolBlock}
 
 ### Caso guidato
-Un candidato legge un bando che richiede conoscenza del tema trattato nel capitolo. Deve trasformare il contenuto in tre output: mappa dei nuclei, risposta sintetica da prova scritta e spiegazione orale con esempio.
+${caseBlock}
 
 ### Domanda da commissario
-Spiega il tema collegando definizione, funzione, riferimento essenziale e ricaduta pratica nell'organizzazione amministrativa.
+Perché due candidati che studiano lo stesso numero di ore possono ottenere risultati molto diversi in un concorso pubblico?
+
+Risposta guidata: perché non conta solo la quantità di studio, ma la capacità di leggere il bando, selezionare le priorità, allenare il tipo di prova e correggere gli errori in modo sistematico.
 
 ### Domanda-trappola
-Questo argomento va studiato come definizione da memorizzare?
+Per preparare bene un concorso basta comprare il manuale più completo?
 
-Risposta guidata: no. Nel Metodo BANDO il tema deve diventare uno strumento: definizione, funzione, collegamento normativo, caso pratico e controllo dell'errore.
+Risposta guidata: no. Un manuale completo può aiutare, ma senza metodo rischia di aumentare la dispersione. Prima si capisce il bando, poi si scelgono materiali, priorità e allenamenti.
 
 ### Errore tipico
-Scrivere una risposta corretta ma generica, senza mostrare perché il concetto serve nella pratica amministrativa o nella prova concorsuale.
+Iniziare dallo studio lineare del primo manuale disponibile, senza sapere quali prove si affronteranno, quali materie pesano di più e quali contenuti possono essere riusati in altri concorsi.
 
 ### Mini-esercizio
-Compila una tabella con tre colonne: concetto, applicazione pratica, rischio di errore. Usa almeno un riferimento consolidato tra quelli sotto.
+Prendi un concorso che ti interessa e compila quattro righe:
+
+| Elemento | Risposta |
+| --- | --- |
+| Profilo richiesto | |
+| Prove previste | |
+| Tre materie prioritarie | |
+| Primo output da allenare | |
+
+### Note layout e immagini
+${imageNotes}
 
 ### Riferimenti consolidati
 ${references || "- Nessun riferimento consolidato disponibile."}
@@ -371,7 +400,177 @@ ${references || "- Nessun riferimento consolidato disponibile."}
 - Bozza da revisionare prima della pubblicazione.
 - Non sono state lette raw sources direttamente.
 - Applicare design system editoriale 17 x 24 cm con gerarchia manuale-workbook.
-- Modalità richiesta: ${input.mode}.`
+- Modalità richiesta: ${input.mode}.
+- Lunghezza del capitolo da espandere in seconda revisione se serve maggiore profondità: ${countWords(chapterBody)} parole di struttura disponibili.`
+}
+
+function looksLikeMetaDraft(value: string) {
+  const normalized = value.toLowerCase()
+  const forbidden = [
+    "aggiornamento generato",
+    "istruzione ricevuta",
+    "knowledge consolidata",
+    "questo blocco sviluppa",
+    "devo generare",
+    "manual writer agent"
+  ]
+
+  return forbidden.some((item) => normalized.includes(item))
+}
+
+function extractBulletItems(value: string) {
+  return value
+    .split("\n")
+    .map((line) => line.replace(/^\s*[-*]\s+/, "").trim())
+    .filter(Boolean)
+}
+
+function renderOpening(title: string, objective: string, structureItems: string[]) {
+  const normalized = title.toLowerCase()
+
+  if (normalized.includes("perche questo libro")) {
+    return [
+      "Se stai preparando un concorso pubblico, probabilmente hai già incontrato il problema principale: non mancano i materiali, manca un criterio per usarli. Manuali, quiz, gruppi online, video, schemi e appunti possono diventare utili solo quando entrano in un piano. Senza piano, anche il materiale migliore rischia di trasformarsi in rumore.",
+      "",
+      "Questo libro nasce per una ragione precisa: aiutarti a preparare concorsi diversi senza ricominciare ogni volta da zero. Non promette scorciatoie e non sostituisce lo studio. Ti insegna invece a leggere il bando, capire che cosa conta, costruire priorità, allenare le prove e trasformare gli errori in indicazioni di lavoro.",
+      "",
+      "Il punto di partenza è semplice: ciò che studi per un concorso può diventare capitale riutilizzabile. Diritto amministrativo, Costituzione, pubblico impiego, trasparenza, contabilità di base, contratti, logica e metodo non appartengono a un solo bando. Se li studi con ordine, possono accompagnarti da un concorso comunale a un concorso ministeriale, da un profilo amministrativo a un profilo più specialistico."
+    ].join("\n")
+  }
+
+  if (normalized.includes("nuovo candidato")) {
+    return [
+      "Il candidato pubblico di oggi non è più soltanto una persona che studia molte pagine. È una persona che sa orientarsi tra bandi, piattaforme digitali, materie trasversali, prove a tempo, quiz, casi pratici e colloqui orali. La differenza non sta solo nella memoria: sta nella capacità di scegliere cosa fare prima, cosa rinviare, cosa allenare e cosa tagliare.",
+      "",
+      "Molti candidati partono con energia, comprano manuali, scaricano quiz e aprono decine di schede nel browser. Dopo pochi giorni, però, non sanno più se stanno avanzando davvero. Studiano, ma senza una mappa. Ripetono, ma senza sapere quali errori stanno correggendo. Fanno quiz, ma senza capire se il problema è memoria, concetto, distrazione o strategia.",
+      "",
+      "Il nuovo candidato pubblico deve diventare più strategico. Non perché lo studio conti meno, ma perché il concorso misura anche metodo, lucidità, gestione del tempo e capacità di produrre una risposta adeguata alla prova."
+    ].join("\n")
+  }
+
+  const focus = structureItems.slice(0, 3).join(", ").toLowerCase()
+
+  return `Questo capitolo affronta "${title}" con un taglio operativo. L'obiettivo non è accumulare nozioni, ma trasformare il tema in uno strumento di preparazione: capire che cosa richiede il bando, selezionare i nuclei utili e allenare l'output che la prova chiederà davvero.${focus ? ` In particolare, il capitolo lavora su: ${focus}.` : ""}\n\n${objective}`
+}
+
+function renderBandoMap(title: string, structureItems: string[]) {
+  const normalized = title.toLowerCase()
+
+  if (normalized.includes("perche questo libro")) {
+    return [
+      "- **Bando**: ogni percorso parte dal documento ufficiale, non dai materiali acquistati a caso.",
+      "- **Aree**: le materie vengono divise tra nucleo comune, contenuti specifici e moduli integrativi.",
+      "- **Nuclei**: si studiano prima i concetti ad alta probabilità e ad alto riuso.",
+      "- **Diario**: errori, ripassi e simulazioni diventano dati di lavoro.",
+      "- **Output**: ogni capitolo deve portare a un risultato concreto: risposta, caso, quiz, schema, checklist o piano."
+    ].join("\n")
+  }
+
+  if (normalized.includes("nuovo candidato")) {
+    return [
+      "- **Bando**: il candidato strategico legge requisiti, profilo, prove, materie, punteggi e scadenze prima di scegliere i materiali.",
+      "- **Aree**: distingue concorsi comunali, ministeriali, fiscali, sanitari, tecnici, scolastici o di polizia locale senza confonderli in un unico programma indistinto.",
+      "- **Nuclei**: individua ciò che ricorre spesso: metodo, Costituzione, amministrativo, pubblico impiego, trasparenza, quiz, casi e orale.",
+      "- **Diario**: registra errori e debolezze per non ripetere sempre lo stesso tipo di studio.",
+      "- **Output**: si allena sulla forma della prova: quiz a tempo, risposta sintetica, caso pratico, esposizione orale o quesito situazionale."
+    ].join("\n")
+  }
+
+  const items = structureItems.slice(0, 5)
+
+  return [
+    `- **Bando**: capire dove "${title}" compare nel programma e con quale peso.`,
+    `- **Aree**: collegare il tema alle materie vicine e ai profili concorsuali.`,
+    `- **Nuclei**: selezionare i punti più probabili: ${items.length ? items.join("; ").toLowerCase() : "definizioni, funzioni, casi e rischi d'errore"}.`,
+    "- **Diario**: trasformare dubbi ed errori in ripasso programmato.",
+    "- **Output**: produrre una risposta, uno schema, un caso o una checklist."
+  ].join("\n")
+}
+
+function renderChapterSpecificExplanation(title: string, structureItems: string[], note: string) {
+  const normalized = title.toLowerCase()
+
+  if (normalized.includes("perche questo libro")) {
+    return [
+      "La maggior parte dei candidati non fallisce perché non studia. Fallisce perché studia senza gerarchia. Apre un manuale, segue l'ordine delle pagine, prova qualche quiz, poi cambia concorso e ha l'impressione di dover ripartire da capo. Questo meccanismo produce fatica, dispersione e sfiducia.",
+      "",
+      "Il Metodo BANDO rovescia l'ordine. Prima viene il bando: cosa chiede davvero l'ente, quali prove sono previste, quali materie sono centrali, quali sono accessorie, quali contenuti possono essere lasciati a un modulo successivo. Dopo vengono le aree, cioè la divisione tra ciò che serve sempre e ciò che serve solo per quel profilo. Poi arrivano i nuclei, cioè i concetti che hanno più probabilità di tornare nelle prove.",
+      "",
+      "Il diario serve a non studiare al buio. Ogni errore in un quiz, in una risposta scritta o in una simulazione orale deve indicare un'azione: ripassare un concetto, correggere una definizione, allenare il tempo, migliorare l'esposizione, cambiare strategia. L'output è la parte finale: non basta leggere, bisogna produrre qualcosa di simile alla prova.",
+      "",
+      "Per questo il libro è completo anche su carta. Il digitale può accelerare alcune operazioni, come compilare una griglia o recuperare aggiornamenti, ma non deve essere indispensabile. Se hai solo il libro, devi poter leggere, sottolineare, compilare, pianificare e allenarti comunque."
+    ].join("\n")
+  }
+
+  if (normalized.includes("nuovo candidato")) {
+    return [
+      "I concorsi pubblici sono diventati più vari e più selettivi nella forma. Alcuni prevedono una prova preselettiva a quiz, altri una prova scritta unica, altri ancora casi pratici, prove digitali, valutazione dei titoli o colloqui orali. In molti bandi le materie comuni si ripetono, ma cambiano il peso, il livello richiesto e il tipo di prova.",
+      "",
+      "Il candidato principiante tende a cercare sicurezza nella quantità: più manuali, più corsi, più quiz, più file. Il candidato strategico cerca prima la struttura: quale profilo sto preparando, quale prova devo affrontare, quali materie sono centrali, quali contenuti sono solo eventuali, quanto tempo ho e come misuro il miglioramento.",
+      "",
+      "Un concorso comunale, un concorso ministeriale, un concorso in un'agenzia fiscale, un profilo amministrativo sanitario o un concorso per polizia locale non richiedono la stessa profondità sulle stesse materie. Alcune basi restano comuni, ma il modo di usarle cambia. Il valore del metodo è proprio questo: costruire un nucleo che resta e poi aggiungere solo ciò che serve.",
+      "",
+      "Il nuovo candidato pubblico deve quindi imparare tre gesti: leggere il bando prima di studiare, distinguere materie centrali e accessorie, allenarsi sulle prove reali. Senza questi tre passaggi, anche molte ore di studio possono produrre un risultato fragile."
+    ].join("\n")
+  }
+
+  const items = structureItems.length
+    ? structureItems.map((item) => `- ${item}`).join("\n")
+    : "- Individuare il tema nel bando.\n- Collegarlo alle prove.\n- Trasformarlo in esercizio e ripasso."
+
+  return [
+    `Il capitolo deve rendere operativo il tema "${title}". La spiegazione principale va costruita intorno ai punti previsti dalla struttura madre:`,
+    "",
+    items,
+    "",
+    note ? `Nota editoriale da rispettare: ${note}` : "Il testo deve restare orientato al candidato e non trasformarsi in trattazione enciclopedica."
+  ].join("\n")
+}
+
+function renderToolBlock(toolItems: string[]) {
+  return toolItems.map((item) => `- ${item}`).join("\n")
+}
+
+function renderDefaultToolBlock(title: string) {
+  return [
+    `- Scheda rapida: "${title} in una pagina".`,
+    "- Mini-checklist: che cosa devo sapere, che cosa devo saper fare, che errore devo evitare.",
+    "- Spazio diario: una riga per registrare il primo errore collegato al tema."
+  ].join("\n")
+}
+
+function renderCaseBlock(title: string) {
+  const normalized = title.toLowerCase()
+
+  if (normalized.includes("perche questo libro")) {
+    return "Anna prepara un concorso comunale e compra tre manuali. Dopo due settimane ha letto molte pagine, ma non sa quali materie pesano di più. Con il Metodo BANDO riparte dal bando: individua prove, materie, scadenza e soglia; separa nucleo comune e contenuti specifici; decide quali quiz fare subito e quali rimandare. Il suo studio diventa un piano, non una raccolta di tentativi."
+  }
+
+  if (normalized.includes("nuovo candidato")) {
+    return "Marco vuole partecipare a due concorsi: uno per istruttore amministrativo comunale e uno per assistente in un ente centrale. Il candidato principiante comprerebbe due percorsi separati. Il candidato strategico individua prima il nucleo comune, poi aggiunge le differenze: enti locali per il primo, organizzazione ministeriale e profilo specifico per il secondo. In questo modo non raddoppia lo studio: lo organizza."
+  }
+
+  return `Un candidato incontra il tema "${title}" nel programma d'esame. Prima lo collega al bando, poi seleziona i nuclei da studiare, infine produce uno schema di risposta e un mini-caso per verificare se lo sa usare davvero.`
+}
+
+function renderImageNotes(title: string) {
+  const normalized = title.toLowerCase()
+
+  if (normalized.includes("perche questo libro")) {
+    return [
+      "- Inserire uno schema semplice: \"Materiali sparsi\" -> \"Metodo BANDO\" -> \"Piano riutilizzabile\".",
+      "- Valutare una pagina visuale con le cinque lettere BANDO e una frase funzione per ciascuna."
+    ].join("\n")
+  }
+
+  if (normalized.includes("nuovo candidato")) {
+    return [
+      "- Inserire tabella comparativa: candidato principiante vs candidato strategico.",
+      "- Inserire mini-test visuale \"Che tipo di candidato sei?\" con punteggio."
+    ].join("\n")
+  }
+
+  return "- Inserire solo immagini funzionali: schema, tabella, flowchart o griglia compilabile collegata al capitolo."
 }
 
 function extractUsefulSummary(content: string) {
@@ -412,6 +611,10 @@ function trimWords(value: string, limit: number) {
   if (words.length <= limit) return words.join(" ")
 
   return `${words.slice(0, limit).join(" ")}...`
+}
+
+function countWords(value: string) {
+  return value.split(/\s+/).filter(Boolean).length
 }
 
 function asStringArray(value: unknown) {

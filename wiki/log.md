@@ -15,3 +15,7 @@
 - 2026-05-10T12:25:00+02:00 | ingest | Costituzione della Repubblica Italiana - testo vigente | source=sources/costituzione-repubblica-italiana-testo-vigente.md | topics=diritto costituzionale, ordinamento dello stato, fonti del diritto | impacted=books/il-metodo-bando/chapters/costituzione-e-ordinamento-dello-stato.md
 - 2026-05-10T12:35:00+02:00 | rights_confirmed_process | Diritto costituzionale - manuale Bin/Pitruzzella | source=sources/diritto-costituzionale-bin-pitruzzella.md | raw=wiki/raw/manuals/diritto-costituzionale-bin-pitruzzella-authorized.pdf | policy=summaries_no_long_verbatim | impacted=books/il-metodo-bando/chapters/costituzione-e-ordinamento-dello-stato.md
 - 2026-05-10T12:59:21+02:00 | editorial_design_system | Il Metodo BANDO | design=books/il-metodo-bando/design-system-editoriale.md | source=sources/book-layout-typography-standards.md | format=17x24cm | fonts=source-serif-4/source-sans-3 | dashboard_preview=updated
+- 2026-05-10T13:16:00+02:00 | manual_writer_correction | Il Metodo BANDO | fixed=books/il-metodo-bando/chapters/introduzione.md,books/il-metodo-bando/chapters/il-nuovo-candidato-pubblico.md | policy=write_actual_chapters_from_wiki_brain | web_research=review_only_until_consolidated
+
+- 2026-05-10T11:10:49.244Z | manual_writer | books/il-metodo-bando/chapters/introduzione.md | mode=integrate | target_heading=Testo editoriale | knowledge=6
+- 2026-05-10T11:11:22.156Z | manual_writer | books/il-metodo-bando/chapters/il-nuovo-candidato-pubblico.md | mode=integrate | target_heading=Testo editoriale | knowledge=5

@@ -6,13 +6,15 @@ import { FileWikiStore } from "../wiki/file-store"
 export type ChapterContentState = "written" | "draft" | "structure"
 
 export interface MarkdownBlock {
-  type: "heading" | "paragraph" | "list" | "image" | "code"
+  type: "heading" | "paragraph" | "list" | "image" | "code" | "table"
   text?: string
   level?: number
   items?: string[]
   ordered?: boolean
   path?: string
   alt?: string
+  headers?: string[]
+  rows?: string[][]
 }
 
 export interface BookStudioChapter {
@@ -221,6 +223,7 @@ function markdownToBlocks(markdown: string): MarkdownBlock[] {
   let listItems: string[] = []
   let listOrdered = false
   let codeLines: string[] = []
+  let tableLines: string[] = []
   let inCode = false
 
   function flushParagraph() {
@@ -242,6 +245,20 @@ function markdownToBlocks(markdown: string): MarkdownBlock[] {
     listOrdered = false
   }
 
+  function flushTable() {
+    if (tableLines.length > 0) {
+      const table = parseTable(tableLines)
+
+      if (table) {
+        blocks.push(table)
+      } else {
+        blocks.push({ type: "paragraph", text: tableLines.map(cleanInlineText).join(" ") })
+      }
+    }
+
+    tableLines = []
+  }
+
   function flushCode() {
     if (codeLines.length > 0) {
       blocks.push({ type: "code", text: codeLines.join("\n") })
@@ -260,6 +277,7 @@ function markdownToBlocks(markdown: string): MarkdownBlock[] {
       } else {
         flushParagraph()
         flushList()
+        flushTable()
         inCode = true
       }
       continue
@@ -275,6 +293,7 @@ function markdownToBlocks(markdown: string): MarkdownBlock[] {
     if (image) {
       flushParagraph()
       flushList()
+      flushTable()
       blocks.push(image)
       continue
     }
@@ -284,6 +303,7 @@ function markdownToBlocks(markdown: string): MarkdownBlock[] {
     if (heading) {
       flushParagraph()
       flushList()
+      flushTable()
       blocks.push({
         type: "heading",
         level: Math.min(heading[1].length, 4),
@@ -292,11 +312,19 @@ function markdownToBlocks(markdown: string): MarkdownBlock[] {
       continue
     }
 
+    if (isTableLine(line)) {
+      flushParagraph()
+      flushList()
+      tableLines.push(line.trim())
+      continue
+    }
+
     const unordered = /^\s*[-*]\s+(.+)$/.exec(line)
     const ordered = /^\s*\d+[.)]\s+(.+)$/.exec(line)
 
     if (unordered || ordered) {
       flushParagraph()
+      flushTable()
 
       if (listItems.length > 0 && listOrdered !== Boolean(ordered)) {
         flushList()
@@ -310,17 +338,52 @@ function markdownToBlocks(markdown: string): MarkdownBlock[] {
     if (!line.trim()) {
       flushParagraph()
       flushList()
+      flushTable()
       continue
     }
 
+    flushTable()
     paragraph.push(line.trim())
   }
 
   flushParagraph()
   flushList()
+  flushTable()
   flushCode()
 
   return blocks.slice(0, 260)
+}
+
+function isTableLine(line: string) {
+  const trimmed = line.trim()
+
+  return trimmed.includes("|") && trimmed.split("|").length >= 3
+}
+
+function parseTable(lines: string[]): MarkdownBlock | null {
+  if (lines.length < 2) return null
+
+  const parsedRows = lines.map((line) =>
+    line
+      .replace(/^\|/, "")
+      .replace(/\|$/, "")
+      .split("|")
+      .map((cell) => cleanInlineText(cell.trim()))
+  )
+  const separatorIndex = parsedRows.findIndex((row) => row.every((cell) => /^:?-{3,}:?$/.test(cell)))
+
+  if (separatorIndex !== 1) return null
+
+  const headers = parsedRows[0]
+  const rows = parsedRows.slice(2).filter((row) => row.some(Boolean))
+
+  if (headers.length === 0 || rows.length === 0) return null
+
+  return {
+    type: "table",
+    headers,
+    rows
+  }
 }
 
 function parseImage(line: string): MarkdownBlock | null {

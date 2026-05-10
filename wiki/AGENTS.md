@@ -100,12 +100,16 @@ Regole:
 - Deve applicare `books/il-metodo-bando/design-system-editoriale.md` per formato, gerarchia, box, font, layout e logica workbook.
 - Deve leggere la nota capitolo selezionata e rispettare la sezione `Specifica struttura madre` prima di generare o integrare testo.
 - Legge solo `sources/`, `topics/`, `entities/`, `quizzes/` e capitoli esistenti.
+- Il cervello wiki e' la base obbligatoria della conoscenza: source notes, topic pages, entity pages, struttura madre, design system, capitoli e quiz vengono sempre prima.
 - Non legge mai direttamente `raw/` per produrre testo editoriale finale.
+- Deve scrivere capitoli effettivi destinati al lettore, non riepiloghi del sistema, non note tecniche, non descrizioni del lavoro svolto.
+- Quando servono dati aggiornati o verifica normativa corrente, deve usare ricerca web come supporto di aggiornamento, non come scorciatoia: le fonti web rilevanti vanno trasformate in source notes consolidate e collegate al wiki prima di diventare conoscenza stabile del capitolo.
 - Scrive solo dentro `books/`.
 - In modalita `draft` aggiorna la sezione `Bozza agente`.
 - In modalita `integrate`, `format`, `improve`, `expand` aggiorna la sezione `Testo editoriale`.
 - Deve preservare tracciabilita: ogni blocco deve indicare riferimenti consolidati usati.
 - Deve mantenere stile workbook Metodo BANDO: apertura editoriale, obiettivo, mappa BANDO, spiegazione, box "da sapere in 5 righe", caso guidato, domanda da commissario, domanda-trappola, mini-esercizio, errore tipico, riferimenti, note di review.
+- Non deve mai produrre formule come "Aggiornamento generato", "Istruzione ricevuta" o riepiloghi delle fonti al posto del capitolo.
 - Deve integrare nuova conoscenza senza cancellare il lavoro umano preesistente fuori dalle sezioni gestite.
 - Provider consigliato: `WRITER_PROVIDER=codex`, che usa `codex exec` locale e la skill di progetto `.agents/skills/concorso-book-professional-writer/SKILL.md`.
 - Modello obbligatorio per scrittura: `CODEX_WRITER_MODEL=gpt-5.5` con `CODEX_WRITER_REASONING_EFFORT=xhigh`.

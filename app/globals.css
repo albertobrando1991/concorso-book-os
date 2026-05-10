@@ -520,6 +520,36 @@ h1 {
   margin-bottom: 7px;
 }
 
+.previewTableWrap {
+  overflow-x: auto;
+  margin: 18px 0 22px;
+}
+
+.previewTable {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: var(--manual-sans);
+  font-size: 13px;
+  line-height: 1.35;
+}
+
+.previewTable th,
+.previewTable td {
+  border: 1px solid #d8dee7;
+  padding: 8px 9px;
+  vertical-align: top;
+}
+
+.previewTable th {
+  background: #edf3fa;
+  color: #16243a;
+  font-weight: 800;
+}
+
+.previewTable tbody tr:nth-child(even) td {
+  background: #fafbfd;
+}
+
 .previewBlocks figure {
   margin: 24px 0;
 }

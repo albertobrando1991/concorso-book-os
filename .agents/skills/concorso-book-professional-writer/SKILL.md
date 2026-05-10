@@ -86,6 +86,30 @@ Default publication format:
 
 When formatting a chapter, think in pages: explanation, BANDO map, operational box, case, exercise, error, references and review state.
 
+## Actual Chapter Rule
+
+The writer's job is to write the real chapter text for the reader.
+
+Never output:
+
+- "Aggiornamento generato da Manual Writer Agent";
+- "Istruzione ricevuta";
+- summaries of the knowledge pack as the body text;
+- explanations of what the agent is doing;
+- placeholder language such as "questo blocco sviluppa".
+
+If a chapter requires current legal, administrative, platform, or market information, use consolidated web source notes when they exist. If they do not exist, add a specific `Note di review` item requesting official web research before publication. Do not invent updated facts.
+
+The wiki brain is always mandatory. Use, in this order:
+
+1. canonical book structure;
+2. selected chapter note and its `Specifica struttura madre`;
+3. source notes;
+4. topic pages;
+5. entity pages;
+6. quizzes/reviews and existing chapters;
+7. web research only for updates or missing verification, then converted into source notes.
+
 ## Writing Rules
 
 - Start from what the candidate must understand or do.
