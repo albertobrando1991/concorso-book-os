@@ -28,9 +28,11 @@ Provider consigliato:
 
 ```text
 WRITER_PROVIDER=codex
+CODEX_WRITER_MODEL=gpt-5.5
+CODEX_WRITER_REASONING_EFFORT=xhigh
 ```
 
-In questa modalita' la dashboard usa `codex exec` locale, quindi sfrutta l'account Codex/Antigravity del PC invece di richiedere una `OPENAI_API_KEY`.
+In questa modalita' la dashboard usa `codex exec` locale con GPT-5.5 e reasoning xhigh, quindi sfrutta l'account Codex/Antigravity del PC invece di richiedere una `OPENAI_API_KEY`.
 Se Codex CLI non e' autenticato o non parte, l'agente produce comunque una bozza strutturata locale e tracciabile.
 
 Per attivare Codex CLI sul PC:

@@ -11,6 +11,7 @@
 - 2026-05-10 Manual Writer/Graph verification: `npm run typecheck`, `npm test`, `npm run build`, and `npm run screenshot` passed after adding dashboard writer, Codex provider status indicator, and knowledge graph routes.
 - 2026-05-10 Codex Writer verification: `npm run typecheck`, `npm test`, `npm run build`, and `npm run screenshot` passed after adding `WRITER_PROVIDER=codex`, Codex CLI adapter, and project writer skill injection.
 - 2026-05-10 final Codex Writer typecheck: `npm run typecheck` passed after launcher/docs updates.
+- 2026-05-10 GPT-5.5 xhigh pin: `npm run typecheck`, `npm test`, `npm run build`, and `npm run screenshot` passed after pinning Manual Writer Codex calls to `gpt-5.5` and `model_reasoning_effort=xhigh`.
 
 ## Notes
 - First typecheck exposed Node 24 `fs.readdir` typing issues; fixed by using explicit UTF-8 dirent reads.

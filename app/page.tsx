@@ -40,6 +40,7 @@ export default async function Home() {
   const store = new FileWikiStore(getWikiRoot())
   const chapters = await new ManualWriterAgent(store).listChapters()
   const graph = await buildKnowledgeGraph(store)
+  const writerConfig = getWriterConfig()
   const topSources = data.sources.slice(0, 5)
   const topTopics = data.topics.slice(0, 6)
   const topIssues = data.qualityIssues.slice(0, 6)
@@ -128,7 +129,12 @@ export default async function Home() {
           </Panel>
         </section>
 
-        <ManualWriterPanel initialChapters={chapters} writerProvider={getWriterConfig().provider} />
+        <ManualWriterPanel
+          initialChapters={chapters}
+          writerProvider={writerConfig.provider}
+          writerModel={writerConfig.codexModel}
+          writerReasoningEffort={writerConfig.codexReasoningEffort}
+        />
 
         <KnowledgeGraphPanel graph={graph} />
 

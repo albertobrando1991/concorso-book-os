@@ -31,6 +31,10 @@ export async function completeWithCodexCli(prompt: string): Promise<CodexCliComp
     args.push("-m", config.codexModel)
   }
 
+  if (config.codexReasoningEffort) {
+    args.push("-c", `model_reasoning_effort="${config.codexReasoningEffort}"`)
+  }
+
   args.push("-")
 
   try {

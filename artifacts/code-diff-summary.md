@@ -18,6 +18,7 @@
 - Added Manual Writer Agent with dashboard interaction and managed chapter writing sections.
 - Added dashboard writer provider status indicator so the user can see whether Codex, OpenAI, or local fallback writing is active.
 - Added Codex CLI writer provider so chapter writing can use the local Codex account instead of requiring an OpenAI API key.
+- Pinned the Codex writer provider to `gpt-5.5` with `model_reasoning_effort=xhigh`.
 - Added project skill `.agents/skills/concorso-book-professional-writer/SKILL.md` and inject it into Manual Writer Agent prompts.
 - Updated Windows launcher to warn when Codex CLI is missing or not authenticated.
 - Added interactive dashboard Knowledge Graph for sources, topics, entities, books, chapters and reviews.

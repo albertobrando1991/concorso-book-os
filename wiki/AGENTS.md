@@ -105,6 +105,7 @@ Regole:
 - Deve mantenere stile workbook Metodo BANDO: apertura editoriale, obiettivo, mappa BANDO, spiegazione, box "da sapere in 5 righe", caso guidato, domanda da commissario, domanda-trappola, mini-esercizio, errore tipico, riferimenti, note di review.
 - Deve integrare nuova conoscenza senza cancellare il lavoro umano preesistente fuori dalle sezioni gestite.
 - Provider consigliato: `WRITER_PROVIDER=codex`, che usa `codex exec` locale e la skill di progetto `.agents/skills/concorso-book-professional-writer/SKILL.md`.
+- Modello obbligatorio per scrittura: `CODEX_WRITER_MODEL=gpt-5.5` con `CODEX_WRITER_REASONING_EFFORT=xhigh`.
 - Se Codex CLI non e' autenticato, il writer deve usare fallback locale tracciabile e segnalare l'avviso.
 
 ## Workflow di lint

@@ -61,6 +61,7 @@ Detailed setup: [docs/WORK_FROM_ANOTHER_PC.md](docs/WORK_FROM_ANOTHER_PC.md).
 The dashboard includes a specialized writing agent for book chapters. It reads consolidated wiki knowledge and writes managed chapter sections without using raw sources directly.
 
 Default provider: local `codex exec`, so the Writer can use your Codex/Antigravity account instead of a separate OpenAI API key.
+The writer is configured to call `gpt-5.5` with `model_reasoning_effort=xhigh`.
 Run `codex login --device-auth` once on the PC if the launcher reports that Codex CLI is not authenticated.
 
 Guide: [docs/WRITING_WITH_MANUAL_AGENT.md](docs/WRITING_WITH_MANUAL_AGENT.md).

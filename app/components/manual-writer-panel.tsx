@@ -7,6 +7,8 @@ import type { ChapterOption, ManualWriterMode } from "@/src/server/agents/manual
 interface ManualWriterPanelProps {
   initialChapters: ChapterOption[]
   writerProvider: "codex" | "openai" | "local"
+  writerModel: string
+  writerReasoningEffort: string
 }
 
 interface WriterResult {
@@ -26,7 +28,12 @@ const modeOptions: Array<{ value: ManualWriterMode; label: string }> = [
   { value: "draft", label: "Solo bozza" }
 ]
 
-export function ManualWriterPanel({ initialChapters, writerProvider }: ManualWriterPanelProps) {
+export function ManualWriterPanel({
+  initialChapters,
+  writerProvider,
+  writerModel,
+  writerReasoningEffort
+}: ManualWriterPanelProps) {
   const [chapters, setChapters] = useState(initialChapters)
   const [chapterPath, setChapterPath] = useState(initialChapters[0]?.path || "")
   const [mode, setMode] = useState<ManualWriterMode>("integrate")
@@ -125,7 +132,8 @@ export function ManualWriterPanel({ initialChapters, writerProvider }: ManualWri
 
       {selectedChapter ? (
         <p className="writerMeta">
-          File: <code>{selectedChapter.path}</code> | Stato: {selectedChapter.status}
+          File: <code>{selectedChapter.path}</code> | Stato: {selectedChapter.status} | Modello:{" "}
+          <code>{writerModel}</code> | Reasoning: <code>{writerReasoningEffort}</code>
         </p>
       ) : null}
 

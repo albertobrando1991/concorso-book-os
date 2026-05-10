@@ -45,6 +45,7 @@ The active product is `Il Metodo BANDO`: a workbook-style book that teaches cand
 ## 2026-05-10 Manual Writer and skills
 - Added Manual Writer Agent for dashboard-driven chapter writing.
 - Default writer provider is `WRITER_PROVIDER=codex`, using local `codex exec` instead of an OpenAI API key.
+- Manual Writer Codex calls are pinned to `CODEX_WRITER_MODEL=gpt-5.5` and `CODEX_WRITER_REASONING_EFFORT=xhigh`.
 - Added project skill `.agents/skills/concorso-book-professional-writer/SKILL.md`.
 - Manual Writer Agent injects the project writer skill into Codex prompts and still uses only consolidated wiki knowledge, never raw sources.
 - Added interactive knowledge graph for sources, topics, entities, books, chapters and reviews.

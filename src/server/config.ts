@@ -41,7 +41,8 @@ export function getWriterConfig() {
   return {
     provider,
     codexCommand: process.env.CODEX_CLI_PATH || "codex",
-    codexModel: process.env.CODEX_WRITER_MODEL || "",
+    codexModel: process.env.CODEX_WRITER_MODEL || "gpt-5.5",
+    codexReasoningEffort: process.env.CODEX_WRITER_REASONING_EFFORT || "xhigh",
     codexTimeoutMs: Number.isFinite(timeoutMs) ? timeoutMs : 240000
   }
 }
