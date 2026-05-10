@@ -38,7 +38,7 @@ For live Obsidian operations, install and enable the Obsidian Local REST API plu
 ```text
 OBSIDIAN_BASE_URL=https://127.0.0.1:27124
 OBSIDIAN_API_KEY=your-plugin-key
-OPENAI_API_KEY=your-openai-key
+WRITER_PROVIDER=codex
 ```
 
 Without Obsidian credentials, the app uses the local `wiki/` directory as the canonical development vault.
@@ -55,6 +55,15 @@ npm run dev
 ```
 
 Detailed setup: [docs/WORK_FROM_ANOTHER_PC.md](docs/WORK_FROM_ANOTHER_PC.md).
+
+## Manual Writer Agent
+
+The dashboard includes a specialized writing agent for book chapters. It reads consolidated wiki knowledge and writes managed chapter sections without using raw sources directly.
+
+Default provider: local `codex exec`, so the Writer can use your Codex/Antigravity account instead of a separate OpenAI API key.
+Run `codex login --device-auth` once on the PC if the launcher reports that Codex CLI is not authenticated.
+
+Guide: [docs/WRITING_WITH_MANUAL_AGENT.md](docs/WRITING_WITH_MANUAL_AGENT.md).
 
 ## Commands
 

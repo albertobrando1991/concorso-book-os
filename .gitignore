@@ -10,3 +10,5 @@ npm-debug.log*
 playwright-report/
 test-results/
 wiki/.obsidian/
+wiki/*.base
+wiki/**/*.base

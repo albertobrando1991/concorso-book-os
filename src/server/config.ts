@@ -28,3 +28,20 @@ export function getOpenAiConfig() {
     model: process.env.DEFAULT_LLM_MODEL || "gpt-4.1-mini"
   }
 }
+
+export type WriterProvider = "codex" | "openai" | "local"
+
+export function getWriterConfig() {
+  const requestedProvider = process.env.WRITER_PROVIDER || "codex"
+  const provider: WriterProvider = ["codex", "openai", "local"].includes(requestedProvider)
+    ? (requestedProvider as WriterProvider)
+    : "codex"
+  const timeoutMs = Number(process.env.CODEX_WRITER_TIMEOUT_MS || 240000)
+
+  return {
+    provider,
+    codexCommand: process.env.CODEX_CLI_PATH || "codex",
+    codexModel: process.env.CODEX_WRITER_MODEL || "",
+    codexTimeoutMs: Number.isFinite(timeoutMs) ? timeoutMs : 240000
+  }
+}

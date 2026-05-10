@@ -15,3 +15,10 @@
 - Default book ID changed to `il-metodo-bando`.
 - Classifier expanded with Metodo BANDO, Bando Decoder, Moduli Profilo, Piano 30/60/90 and Diario Errori.
 - 2026-05-10 ingest: added source notes and wiki graph updates for `MANUALE DIRITTO AMMINISTRATIVO.pdf` and the article on responsabilità dirigenziale, performance and risk governance.
+- Added Manual Writer Agent with dashboard interaction and managed chapter writing sections.
+- Added dashboard writer provider status indicator so the user can see whether Codex, OpenAI, or local fallback writing is active.
+- Added Codex CLI writer provider so chapter writing can use the local Codex account instead of requiring an OpenAI API key.
+- Added project skill `.agents/skills/concorso-book-professional-writer/SKILL.md` and inject it into Manual Writer Agent prompts.
+- Updated Windows launcher to warn when Codex CLI is missing or not authenticated.
+- Added interactive dashboard Knowledge Graph for sources, topics, entities, books, chapters and reviews.
+- Added skills research artifact with current web findings and project skill recommendations.

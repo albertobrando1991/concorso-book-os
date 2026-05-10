@@ -196,6 +196,244 @@ h1 {
   padding: 16px;
 }
 
+.writerPanel,
+.graphPanel {
+  min-width: 0;
+  border: 1px solid var(--line);
+  background: var(--panel);
+  border-radius: 6px;
+  padding: 16px;
+  margin-bottom: 16px;
+}
+
+.writerPanel header,
+.graphPanel header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid var(--line);
+  padding-bottom: 10px;
+  margin-bottom: 14px;
+}
+
+.panelKicker {
+  display: block;
+  color: var(--muted);
+  font-size: 12px;
+  margin-bottom: 4px;
+}
+
+.writerLlmStatus {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: 7px 10px;
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.writerLlmStatus.enabled {
+  border-color: #b8e2ca;
+  color: var(--green);
+  background: #f1fbf5;
+}
+
+.writerLlmStatus.disabled {
+  border-color: #f1d8aa;
+  color: #8a5a00;
+  background: #fff8e8;
+}
+
+.writerGrid {
+  display: grid;
+  grid-template-columns: 1.3fr 0.7fr;
+  gap: 12px;
+  margin-bottom: 10px;
+}
+
+.writerPanel label,
+.writerInstruction {
+  display: grid;
+  gap: 6px;
+  color: var(--muted);
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.writerPanel select,
+.writerPanel textarea {
+  width: 100%;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  color: var(--ink);
+  background: #fff;
+  font: inherit;
+  padding: 10px;
+}
+
+.writerPanel textarea {
+  resize: vertical;
+  min-height: 116px;
+}
+
+.writerMeta {
+  color: var(--muted);
+  font-size: 13px;
+  margin: 4px 0 12px;
+}
+
+.writerButton {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  min-height: 40px;
+  border: 0;
+  border-radius: 6px;
+  background: var(--blue);
+  color: #fff;
+  font-weight: 700;
+  padding: 0 14px;
+  margin-top: 12px;
+  cursor: pointer;
+}
+
+.writerButton:disabled {
+  cursor: not-allowed;
+  opacity: 0.65;
+}
+
+.spin {
+  animation: spin 0.9s linear infinite;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.writerError {
+  border-left: 3px solid var(--red);
+  background: #fff5f5;
+  color: var(--red);
+  padding: 10px;
+  margin-top: 12px;
+}
+
+.writerResult {
+  display: grid;
+  gap: 8px;
+  border: 1px solid var(--line);
+  border-left: 3px solid var(--green);
+  border-radius: 6px;
+  padding: 12px;
+  margin-top: 12px;
+}
+
+.writerResult span,
+.writerResult li {
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.writerResult pre {
+  max-height: 320px;
+  overflow: auto;
+  white-space: pre-wrap;
+  background: #f1f4f7;
+  border-radius: 4px;
+  padding: 10px;
+  font-size: 12px;
+}
+
+.graphControls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 12px;
+}
+
+.graphControls button {
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: #fff;
+  color: var(--muted);
+  padding: 7px 10px;
+  cursor: pointer;
+}
+
+.graphControls button.active {
+  background: var(--nav);
+  color: #fff;
+  border-color: var(--nav);
+}
+
+.graphLayout {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 260px;
+  gap: 16px;
+  align-items: stretch;
+}
+
+.graphLayout svg {
+  width: 100%;
+  min-height: 420px;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  background: #fbfcfd;
+}
+
+.graphLayout line {
+  stroke: #b7c2d0;
+  stroke-width: 1.2;
+}
+
+.graphLayout line.frontmatter {
+  stroke-dasharray: 4 4;
+}
+
+.graphLayout g {
+  cursor: pointer;
+}
+
+.graphLayout g.selected circle {
+  stroke: #111827;
+  stroke-width: 3;
+}
+
+.graphLayout text {
+  fill: #243244;
+  font-size: 11px;
+  pointer-events: none;
+}
+
+.graphDetails {
+  display: grid;
+  align-content: start;
+  gap: 8px;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  padding: 12px;
+  background: #fff;
+}
+
+.graphDetails span,
+.graphDetails small {
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.graphDetails code {
+  white-space: normal;
+  background: #f1f4f7;
+  border-radius: 4px;
+  padding: 8px;
+  font-size: 12px;
+}
+
 .panel header {
   justify-content: flex-start;
   border-bottom: 1px solid var(--line);
@@ -356,7 +594,9 @@ meter {
   .metrics,
   .grid.two,
   .grid.three,
-  .timeline {
+  .timeline,
+  .writerGrid,
+  .graphLayout {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
@@ -382,7 +622,9 @@ meter {
   .grid.two,
   .grid.three,
   .timeline,
-  .artifactList {
+  .artifactList,
+  .writerGrid,
+  .graphLayout {
     grid-template-columns: 1fr;
   }
 
@@ -390,4 +632,3 @@ meter {
     font-size: 24px;
   }
 }
-

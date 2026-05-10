@@ -5,9 +5,12 @@
 - `npm install`: passed.
 - `npm run typecheck`: passed.
 - `npm test`: passed, 4 test files and 7 tests.
-- `npm run build`: passed, 8 app routes generated.
+- `npm run build`: passed, 11 app routes generated.
 - `npm run screenshot`: passed, generated `artifacts/dashboard-screenshot.png`.
 - 2026-05-10 post-ingest verification: `npm run typecheck`, `npm test`, and `npm run build` passed after adding the new raw sources and wiki notes.
+- 2026-05-10 Manual Writer/Graph verification: `npm run typecheck`, `npm test`, `npm run build`, and `npm run screenshot` passed after adding dashboard writer, Codex provider status indicator, and knowledge graph routes.
+- 2026-05-10 Codex Writer verification: `npm run typecheck`, `npm test`, `npm run build`, and `npm run screenshot` passed after adding `WRITER_PROVIDER=codex`, Codex CLI adapter, and project writer skill injection.
+- 2026-05-10 final Codex Writer typecheck: `npm run typecheck` passed after launcher/docs updates.
 
 ## Notes
 - First typecheck exposed Node 24 `fs.readdir` typing issues; fixed by using explicit UTF-8 dirent reads.

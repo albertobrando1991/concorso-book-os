@@ -92,6 +92,21 @@ Campi specifici:
 - Usare raw sources solo per audit o verifica, mai come output finale.
 - Segnalare esplicitamente bassa confidenza o revisione umana richiesta.
 
+## Manual Writer Agent
+Il Manual Writer Agent e' l'agente specializzato nella scrittura effettiva dei capitoli. Deve comportarsi come elaboratore editoriale, non come semplice generatore di testo.
+
+Regole:
+- Legge solo `sources/`, `topics/`, `entities/`, `quizzes/` e capitoli esistenti.
+- Non legge mai direttamente `raw/` per produrre testo editoriale finale.
+- Scrive solo dentro `books/`.
+- In modalita `draft` aggiorna la sezione `Bozza agente`.
+- In modalita `integrate`, `format`, `improve`, `expand` aggiorna la sezione `Testo editoriale`.
+- Deve preservare tracciabilita: ogni blocco deve indicare riferimenti consolidati usati.
+- Deve mantenere stile workbook Metodo BANDO: apertura editoriale, obiettivo, mappa BANDO, spiegazione, box "da sapere in 5 righe", caso guidato, domanda da commissario, domanda-trappola, mini-esercizio, errore tipico, riferimenti, note di review.
+- Deve integrare nuova conoscenza senza cancellare il lavoro umano preesistente fuori dalle sezioni gestite.
+- Provider consigliato: `WRITER_PROVIDER=codex`, che usa `codex exec` locale e la skill di progetto `.agents/skills/concorso-book-professional-writer/SKILL.md`.
+- Se Codex CLI non e' autenticato, il writer deve usare fallback locale tracciabile e segnalare l'avviso.
+
 ## Workflow di lint
 - Trovare pagine senza inbound link.
 - Trovare topic citati ma mancanti.

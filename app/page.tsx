@@ -13,6 +13,12 @@ import {
   ShieldCheck
 } from "lucide-react"
 import { getDashboardData } from "@/src/server/dashboard/data"
+import { ManualWriterPanel } from "./components/manual-writer-panel"
+import { KnowledgeGraphPanel } from "./components/knowledge-graph-panel"
+import { ManualWriterAgent } from "@/src/server/agents/manual-writer-agent"
+import { getWikiRoot, getWriterConfig } from "@/src/server/config"
+import { FileWikiStore } from "@/src/server/wiki/file-store"
+import { buildKnowledgeGraph } from "@/src/server/wiki/graph"
 
 export const dynamic = "force-dynamic"
 
@@ -21,6 +27,8 @@ const navigation = [
   ["Sources", FileSearch],
   ["Topics", Layers3],
   ["Books", BookOpen],
+  ["Writer", PenIcon],
+  ["Graph", GitBranch],
   ["Agents", Bot],
   ["Quality", ShieldCheck],
   ["Logs", ScrollText],
@@ -29,6 +37,9 @@ const navigation = [
 
 export default async function Home() {
   const data = await getDashboardData()
+  const store = new FileWikiStore(getWikiRoot())
+  const chapters = await new ManualWriterAgent(store).listChapters()
+  const graph = await buildKnowledgeGraph(store)
   const topSources = data.sources.slice(0, 5)
   const topTopics = data.topics.slice(0, 6)
   const topIssues = data.qualityIssues.slice(0, 6)
@@ -105,7 +116,7 @@ export default async function Home() {
 
           <Panel title="Agent queue" icon={<Bot size={19} aria-hidden />}>
             <div className="agentGrid">
-              {["Ingest Agent", "Knowledge Maintainer", "Book Writer", "Quiz Agent", "Lint Agent", "Review Agent"].map(
+              {["Ingest Agent", "Knowledge Maintainer", "Manual Writer Agent", "Book Writer", "Quiz Agent", "Lint Agent", "Review Agent"].map(
                 (agent, index) => (
                   <div className="agentRow" key={agent}>
                     <span>{agent}</span>
@@ -116,6 +127,10 @@ export default async function Home() {
             </div>
           </Panel>
         </section>
+
+        <ManualWriterPanel initialChapters={chapters} writerProvider={getWriterConfig().provider} />
+
+        <KnowledgeGraphPanel graph={graph} />
 
         <section className="grid three">
           <Panel title="Sources" icon={<FileSearch size={19} aria-hidden />} id="sources">
@@ -187,6 +202,10 @@ export default async function Home() {
       </section>
     </main>
   )
+}
+
+function PenIcon({ size }: { size?: number }) {
+  return <Bot size={size} aria-hidden />
 }
 
 function Metric({ label, value, accent }: { label: string; value: number; accent: string }) {

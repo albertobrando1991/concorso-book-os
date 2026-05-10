@@ -41,3 +41,11 @@ The active product is `Il Metodo BANDO`: a workbook-style book that teaches cand
 - New raw web clipping: responsabilità dirigenziale, performance e governo del rischio.
 - Created source notes, topic pages and entities for diritto amministrativo foundations, responsabilità dirigenziale, performance amministrativa, governo del rischio, contratti pubblici and PNRR.
 - Impacted book: `Il Metodo BANDO`, especially chapters `diritto-amministrativo-per-candidati` and `sistema-adattabile`.
+
+## 2026-05-10 Manual Writer and skills
+- Added Manual Writer Agent for dashboard-driven chapter writing.
+- Default writer provider is `WRITER_PROVIDER=codex`, using local `codex exec` instead of an OpenAI API key.
+- Added project skill `.agents/skills/concorso-book-professional-writer/SKILL.md`.
+- Manual Writer Agent injects the project writer skill into Codex prompts and still uses only consolidated wiki knowledge, never raw sources.
+- Added interactive knowledge graph for sources, topics, entities, books, chapters and reviews.
+- Current blocker for true Codex-backed generation: local `codex login status` reports not logged in. After login, dashboard writing can use Codex CLI; until then it falls back to a structured local draft.
