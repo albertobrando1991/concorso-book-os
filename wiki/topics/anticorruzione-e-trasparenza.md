@@ -5,17 +5,17 @@ title: "anticorruzione e trasparenza"
 status: draft
 domain: "concorsi pubblici italiani"
 topics: ["anticorruzione e trasparenza"]
-entities: ["ANAC","Piano integrato di attivita e organizzazione"]
-source_refs: ["sources/anac-trasparenza-e-anticorruzione.md"]
+entities: ["ANAC","Piano integrato di attivita e organizzazione","Dirigente pubblico","PNRR"]
+source_refs: ["sources/anac-trasparenza-e-anticorruzione.md","sources/responsabilita-dirigenziale-legalita-organizzativa-performance-rischio.md"]
 book_refs: ["manuale-concorso-funzionari-enti-locali"]
 confidence: 0.72
-updated_at: 2026-05-09T00:15:00.000Z
+updated_at: 2026-05-10T00:00:00.000Z
 created_at: 2026-05-09T00:15:00.000Z
 review_required: true
 canonical: true
 tags: ["topic"]
 parent_topics: ["diritto amministrativo"]
-child_topics: []
+child_topics: ["governo del rischio"]
 chapter_refs: ["books/manuale-concorso-funzionari-enti-locali/chapters/procedimento-amministrativo.md"]
 ---
 
@@ -24,12 +24,17 @@ chapter_refs: ["books/manuale-concorso-funzionari-enti-locali/chapters/procedime
 ## Sintesi
 Anticorruzione e trasparenza sono strumenti di prevenzione, controllo diffuso e accountability. Per i concorsi occorre collegare obblighi organizzativi, pubblicazione, accesso civico e ruolo ANAC.
 
+Aggiornamento 2026-05-10: il tema si collega al governo del rischio e alla responsabilità dirigenziale come responsabilità per controlli, tracciabilità e qualità dell'assetto organizzativo.
+
 ## Fonti
 - [[sources/anac-trasparenza-e-anticorruzione]]
+- [[sources/responsabilita-dirigenziale-legalita-organizzativa-performance-rischio]]
 
 ## Entita collegate
 - [[anac|ANAC]]
 - [[piano-integrato-di-attivita-e-organizzazione|Piano integrato di attivita e organizzazione]]
+- [[dirigente-pubblico|Dirigente pubblico]]
+- [[pnrr|PNRR]]
 
 ## Capitoli collegati
 - [[books/manuale-concorso-funzionari-enti-locali/chapters/procedimento-amministrativo]]
@@ -39,4 +44,3 @@ Da verificare periodicamente per aggiornamenti e linee guida.
 
 ## Note editoriali
 Evidenziare differenza tra accesso documentale e accesso civico solo dopo consolidamento fonti.
-

@@ -1,12 +1,12 @@
 # Dashboard export
 
 ## Overview
-- Fonti demo: 3
-- Topic pages: 5
+- Fonti integrate: 6
+- Topic pages: 25+
 - Libro prodotto canonico: Il Metodo BANDO
 - Libri demo: 2
 - Capitoli Metodo BANDO: 4
-- Review aperte: inPA, DPR 82/2023, pubblico impiego, contabilita pubblica
+- Review aperte: inPA, DPR 82/2023, fonti primarie responsabilità dirigenziale, PNRR, contabilita pubblica
 
 ## Stato agenti
 - Ingest Agent: ready

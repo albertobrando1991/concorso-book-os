@@ -8,3 +8,5 @@
 - 2026-05-09T00:25:00.000Z | lint | issues=3 | report=reviews/quality-review-2026-05-09.md
 - 2026-05-09T01:00:00.000Z | ingest | Metodo BANDO - progetto editoriale | source=sources/metodo-bando-progetto-editoriale.md | topics=metodo bando, anatomia del bando, bando decoder, moduli profilo, piano 30 60 90 giorni, diario errori | impacted=il-metodo-bando
 - 2026-05-09T01:05:00.000Z | book_compile | il-metodo-bando | chapters=4 | source_of_truth=sources/metodo-bando-progetto-editoriale.md
+- 2026-05-10T00:00:00.000Z | ingest | Manuale di diritto amministrativo | source=sources/manuale-diritto-amministrativo-lopilato.md | topics=diritto amministrativo, fonti del diritto, organizzazione pubblica, principio di legalità | impacted=il-metodo-bando
+- 2026-05-10T00:00:00.000Z | ingest | Responsabilità dirigenziale, performance e governo del rischio | source=sources/responsabilita-dirigenziale-legalita-organizzativa-performance-rischio.md | topics=responsabilità dirigenziale, performance amministrativa, governo del rischio, contratti pubblici, PNRR | impacted=il-metodo-bando

@@ -35,3 +35,9 @@ The active product is `Il Metodo BANDO`: a workbook-style book that teaches cand
 - Capture dashboard screenshot.
 - Add live Obsidian API smoke test.
 - Expand official source base.
+
+## 2026-05-10 source ingest
+- New raw PDF: `wiki/raw/manuals/MANUALE DIRITTO AMMINISTRATIVO.pdf`.
+- New raw web clipping: responsabilità dirigenziale, performance e governo del rischio.
+- Created source notes, topic pages and entities for diritto amministrativo foundations, responsabilità dirigenziale, performance amministrativa, governo del rischio, contratti pubblici and PNRR.
+- Impacted book: `Il Metodo BANDO`, especially chapters `diritto-amministrativo-per-candidati` and `sistema-adattabile`.

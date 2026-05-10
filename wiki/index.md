@@ -1,9 +1,11 @@
 # ConcorsoBook OS Index
 
-Aggiornato: 2026-05-09T00:00:00.000Z
+Aggiornato: 2026-05-10T00:00:00.000Z
 
 ## Sources
 - [[sources/metodo-bando-progetto-editoriale]]
+- [[sources/manuale-diritto-amministrativo-lopilato]]
+- [[sources/responsabilita-dirigenziale-legalita-organizzativa-performance-rischio]]
 - [[sources/legge-241-1990-procedimento-amministrativo]]
 - [[sources/dlgs-267-2000-enti-locali]]
 - [[sources/anac-trasparenza-e-anticorruzione]]
@@ -15,6 +17,18 @@ Aggiornato: 2026-05-09T00:00:00.000Z
 - [[topics/moduli-profilo]]
 - [[topics/piano-30-60-90-giorni]]
 - [[topics/diario-errori]]
+- [[topics/responsabilita-dirigenziale]]
+- [[topics/performance-amministrativa]]
+- [[topics/governo-del-rischio]]
+- [[topics/fonti-del-diritto]]
+- [[topics/principio-di-legalita]]
+- [[topics/buon-andamento-e-imparzialita]]
+- [[topics/organizzazione-pubblica]]
+- [[topics/situazioni-giuridiche-soggettive]]
+- [[topics/attivita-amministrativa]]
+- [[topics/contratti-pubblici]]
+- [[topics/pnrr]]
+- [[topics/contabilita-pubblica]]
 - [[topics/diritto-amministrativo]]
 - [[topics/procedimento-amministrativo]]
 - [[topics/enti-locali]]
@@ -28,6 +42,16 @@ Aggiornato: 2026-05-09T00:00:00.000Z
 - [[entities/piano-30-60-90-giorni]]
 - [[entities/diario-degli-errori]]
 - [[entities/inpa]]
+- [[entities/vincenzo-lopilato]]
+- [[entities/pubblica-amministrazione]]
+- [[entities/dirigente-pubblico]]
+- [[entities/dlgs-165-2001]]
+- [[entities/dlgs-150-2009]]
+- [[entities/dlgs-36-2023]]
+- [[entities/pnrr]]
+- [[entities/corte-dei-conti]]
+- [[entities/consiglio-di-stato]]
+- [[entities/rup]]
 - [[entities/legge-241-1990]]
 - [[entities/comune]]
 - [[entities/anac]]
@@ -48,3 +72,4 @@ Aggiornato: 2026-05-09T00:00:00.000Z
 
 ## Reviews
 - [[reviews/quality-review-2026-05-09]]
+- [[reviews/ingest-nuove-fonti-2026-05-10]]
