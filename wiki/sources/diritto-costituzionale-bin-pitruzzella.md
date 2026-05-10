@@ -2,54 +2,69 @@
 id: source-diritto-costituzionale-bin-pitruzzella
 type: source
 title: "Diritto costituzionale - manuale Bin/Pitruzzella"
-status: metadata_only
+status: processed
 domain: "concorsi pubblici italiani"
-topics: ["diritto costituzionale","ordinamento dello stato","fonti del diritto","principi costituzionali","pubblica amministrazione"]
-entities: ["Costituzione della Repubblica Italiana","Roberto Bin","Giovanni Pitruzzella","Parlamento","Governo","Presidente della Repubblica","Corte costituzionale","Magistratura"]
+topics: ["diritto costituzionale","ordinamento dello stato","forme di stato","forme di governo","fonti del diritto","fonti dell'ordinamento italiano","giustizia costituzionale","diritti e liberta costituzionali","regioni e governo locale","pubblica amministrazione"]
+entities: ["Costituzione della Repubblica Italiana","Roberto Bin","Giovanni Pitruzzella","Parlamento","Governo","Presidente della Repubblica","Corte costituzionale","Magistratura","Unione europea"]
 source_refs: []
 book_refs: ["il-metodo-bando"]
-confidence: 0.58
-updated_at: 2026-05-10T12:20:00+02:00
+confidence: 0.82
+updated_at: 2026-05-10T12:35:00+02:00
 created_at: 2026-05-10T12:20:00+02:00
 review_required: true
-canonical: false
-tags: ["source","manual","diritto-costituzionale","metadata-only","rights-review"]
+canonical: true
+tags: ["source","manual","diritto-costituzionale","rights-confirmed"]
 source_type: manual_pdf
-source_url: "wiki/raw/manuals/Diritto Costituzionale (Pitruzzella G. R.Bin) (z-library.sk, 1lib.sk, z-lib.sk).pdf"
-source_date: ""
-authority_level: rights_unverified
-copyright_status: "requires_verification"
-processing_policy: "metadata_only"
+source_url: "wiki/raw/manuals/diritto-costituzionale-bin-pitruzzella-authorized.pdf"
+source_date: 2020-03-20
+authority_level: high
+copyright_status: "rights_confirmed_by_user"
+processing_policy: "summaries_and_conceptual_extraction_allowed_no_long_verbatim"
+sha256: "6EA216A5EF917B85BF2312385552A82A235DC62CCF81048E47E05E166222F2E1"
 ---
 
 # Diritto costituzionale - manuale Bin/Pitruzzella
 
 ## Sintesi
-Fonte manualistica di diritto costituzionale aggiunta localmente al vault. Il file e' trattato in modalita `metadata_only` perche il nome del raw file contiene riferimenti a z-library/z-lib e quindi richiede verifica dei diritti prima di qualunque estrazione, sintesi estesa o trasformazione editoriale.
+Manuale sistematico di diritto costituzionale autorizzato dall'utente per l'uso nel progetto. La fonte e' utile per costruire l'ossatura concettuale del capitolo `Costituzione e ordinamento dello Stato`: nozioni introduttive sul diritto e sullo Stato, forme di Stato, Costituzione, forme di governo, organizzazione costituzionale italiana, autonomie territoriali, amministrazione della giustizia, sistema delle fonti, giustizia costituzionale, diritti, liberta e doveri.
 
 ## Fonti
-- Raw source locale: `wiki/raw/manuals/Diritto Costituzionale (Pitruzzella G. R.Bin) (z-library.sk, 1lib.sk, z-lib.sk).pdf`
-- Dimensione file rilevata: 2.513.307 byte.
-- Stato GitHub: non committare il PDF finche non e' verificato il diritto d'uso.
+- Raw source canonica: `wiki/raw/manuals/diritto-costituzionale-bin-pitruzzella-authorized.pdf`
+- Copia locale originale ignorata da Git: `wiki/raw/manuals/Diritto Costituzionale (Pitruzzella G. R.Bin) (z-library.sk, 1lib.sk, z-lib.sk).pdf`
+- Metadata PDF: autore `Pitruzzella G. R.Bin`; titolo `Diritto Costituzionale`; 786 pagine; creato con Calibre il 2020-03-20.
+- Hash SHA-256 raw canonica: `6EA216A5EF917B85BF2312385552A82A235DC62CCF81048E47E05E166222F2E1`.
 
 ## Topic rilevati
-- [[topics/diritto-costituzionale|diritto costituzionale]]
-- [[topics/ordinamento-dello-stato|ordinamento dello Stato]]
-- [[topics/fonti-del-diritto|fonti del diritto]]
-- [[topics/principi-costituzionali-pa|principi costituzionali della PA]]
+- [[topics/diritto-costituzionale]]
+- [[topics/ordinamento-dello-stato]]
+- [[topics/forme-di-stato]]
+- [[topics/forme-di-governo]]
+- [[topics/fonti-del-diritto]]
+- [[topics/fonti-dell-ordinamento-italiano]]
+- [[topics/giustizia-costituzionale]]
+- [[topics/diritti-e-liberta-costituzionali]]
+- [[topics/regioni-e-governo-locale]]
+- [[topics/principi-costituzionali-pa]]
 
 ## Entita rilevate
-- [[entities/costituzione-della-repubblica-italiana|Costituzione della Repubblica Italiana]]
-- [[entities/roberto-bin|Roberto Bin]]
-- [[entities/giovanni-pitruzzella|Giovanni Pitruzzella]]
+- [[entities/costituzione-della-repubblica-italiana]]
+- [[entities/roberto-bin]]
+- [[entities/giovanni-pitruzzella]]
+- [[entities/parlamento]]
+- [[entities/governo]]
+- [[entities/presidente-della-repubblica]]
+- [[entities/corte-costituzionale]]
+- [[entities/magistratura]]
 
 ## Capitoli collegati
 - [[books/il-metodo-bando/chapters/costituzione-e-ordinamento-dello-stato]]
+- [[books/il-metodo-bando/chapters/appendice-b-100-parole-chiave-concorsi]]
+- [[books/il-metodo-bando/chapters/appendice-e-schema-universale-risposta-orale]]
 
 ## Stato revisione
-Usare questa fonte solo come segnale bibliografico finche non sono chiariti i diritti. Per scrivere il capitolo pubblicabile di diritto costituzionale, integrare fonti primarie e fonti ufficiali: Costituzione, portali istituzionali, Camera, Senato, Governo, Corte costituzionale.
+Fonte autorizzata dall'utente. Usare per estrazione concettuale, mappe, checklist e sintesi originali. Non copiare lunghi passaggi nel libro; il testo editoriale deve essere riscritto in stile Metodo BANDO e verificato con la fonte primaria costituzionale.
 
 ## Note editoriali
-- Non riversare contenuti dal manuale nel libro.
-- Non estrarre riassunti lunghi o capitoli derivati dal PDF.
-- Usare la struttura madre del libro e fonti ufficiali per generare contenuto editoriale pubblicabile.
+- Priorita per il capitolo 4: principi, organi, fonti, autonomie, giustizia costituzionale, diritti/doveri e principi PA.
+- Il capitolo deve restare concorsuale: mappa, tabella organi/funzioni/parole chiave, domande ragionate e collegamento con la PA.
+- La fonte manualistica integra la fonte primaria [[sources/costituzione-repubblica-italiana-testo-vigente]], ma non la sostituisce.

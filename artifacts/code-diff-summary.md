@@ -28,3 +28,4 @@
 - Manual Writer now injects the canonical structure guide directly into Codex/OpenAI prompts for `Il Metodo BANDO` chapters.
 - Manual Writer chapter menu now follows outline order instead of alphabetical order.
 - Added metadata-only ingest for local constitutional law manual, primary Constitution source ingest, linked topics/entities, and rights review safeguards.
+- Upgraded constitutional manual to processed after user confirmed rights, added clean authorized raw copy and expanded constitutional topic graph.

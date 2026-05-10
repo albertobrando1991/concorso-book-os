@@ -16,6 +16,7 @@
 - 2026-05-10 structure guide injection: `npm run typecheck`, `npm test`, and `npm run build` passed after making Manual Writer load `books/il-metodo-bando/struttura-madre.md` directly.
 - 2026-05-10 outline-ordered writer menu: `npm run typecheck`, `npm test`, and `npm run build` passed after adding `outlineSection` to chapter options.
 - 2026-05-10 constitutional sources ingest: `npm run typecheck` and `npm test` passed after metadata-only manual registration and primary Constitution source registration.
+- 2026-05-10 authorized constitutional manual processing: `npm run typecheck` and `npm test` passed after user confirmed rights and source note was upgraded from metadata-only to processed.
 
 ## Notes
 - First typecheck exposed Node 24 `fs.readdir` typing issues; fixed by using explicit UTF-8 dirent reads.

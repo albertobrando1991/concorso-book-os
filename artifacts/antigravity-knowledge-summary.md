@@ -67,3 +67,11 @@ The active product is `Il Metodo BANDO`: a workbook-style book that teaches cand
 - Created topics: `diritto-costituzionale`, `ordinamento-dello-stato`, `principi-costituzionali-pa`.
 - Created constitutional entity stubs and impacted chapter `costituzione-e-ordinamento-dello-stato`.
 - Rule: do not extract or summarize the manual PDF until rights are verified; use the Constitution source and official primary sources for publishable chapter text.
+
+## 2026-05-10 constitutional manual rights confirmed
+- User confirmed they own/hold the rights for the Bin/Pitruzzella constitutional manual.
+- Created clean raw copy: `wiki/raw/manuals/diritto-costituzionale-bin-pitruzzella-authorized.pdf`.
+- Original z-library-named file remains ignored by Git.
+- Source note `wiki/sources/diritto-costituzionale-bin-pitruzzella.md` is now `processed` with policy `summaries_and_conceptual_extraction_allowed_no_long_verbatim`.
+- Added topics: `forme-di-stato`, `forme-di-governo`, `fonti-dell-ordinamento-italiano`, `giustizia-costituzionale`, `diritti-e-liberta-costituzionali`, `regioni-e-governo-locale`.
+- Chapter `costituzione-e-ordinamento-dello-stato` is now `knowledge-ready`.

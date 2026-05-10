@@ -4,18 +4,18 @@ type: topic
 title: "ordinamento dello Stato"
 status: draft
 domain: "concorsi pubblici italiani"
-topics: ["ordinamento dello stato","diritto costituzionale"]
+topics: ["ordinamento dello stato","diritto costituzionale","forme di governo","organi costituzionali"]
 entities: ["Parlamento","Governo","Presidente della Repubblica","Corte costituzionale","Magistratura"]
 source_refs: ["sources/struttura-madre-il-metodo-bando.md","sources/costituzione-repubblica-italiana-testo-vigente.md","sources/diritto-costituzionale-bin-pitruzzella.md"]
 book_refs: ["il-metodo-bando"]
-confidence: 0.68
-updated_at: 2026-05-10T12:25:00+02:00
+confidence: 0.76
+updated_at: 2026-05-10T12:35:00+02:00
 created_at: 2026-05-10T12:20:00+02:00
 review_required: true
 canonical: true
 tags: ["topic","diritto-costituzionale"]
 parent_topics: ["diritto costituzionale"]
-child_topics: []
+child_topics: ["forme di governo","giustizia costituzionale","regioni e governo locale"]
 chapter_refs: ["books/il-metodo-bando/chapters/costituzione-e-ordinamento-dello-stato.md"]
 ---
 

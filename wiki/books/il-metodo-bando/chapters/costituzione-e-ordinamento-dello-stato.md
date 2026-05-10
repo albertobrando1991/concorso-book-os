@@ -4,20 +4,20 @@ type: chapter
 title: "Costituzione e ordinamento dello Stato"
 status: planned
 domain: "concorsi pubblici italiani"
-topics: ["diritto costituzionale","ordinamento dello stato","fonti del diritto","pubblica amministrazione"]
-entities: ["Parlamento","Governo","Presidente della Repubblica","Corte costituzionale","Magistratura","Comune"]
+topics: ["diritto costituzionale","ordinamento dello stato","forme di stato","forme di governo","fonti del diritto","fonti dell'ordinamento italiano","giustizia costituzionale","diritti e liberta costituzionali","regioni e governo locale","pubblica amministrazione"]
+entities: ["Costituzione della Repubblica Italiana","Parlamento","Governo","Presidente della Repubblica","Corte costituzionale","Magistratura","Comune"]
 source_refs: ["sources/struttura-madre-il-metodo-bando.md","sources/costituzione-repubblica-italiana-testo-vigente.md","sources/diritto-costituzionale-bin-pitruzzella.md"]
 book_refs: ["il-metodo-bando"]
-confidence: 0.78
-updated_at: 2026-05-10T12:25:00+02:00
+confidence: 0.84
+updated_at: 2026-05-10T12:35:00+02:00
 created_at: 2026-05-10T11:45:00+02:00
 review_required: true
 canonical: true
 tags: ["book-chapter","common-subject"]
 book_id: il-metodo-bando
 outline_section: "4"
-draft_stage: structure-ready
-last_compiled_from: ["sources/struttura-madre-il-metodo-bando.md","sources/costituzione-repubblica-italiana-testo-vigente.md","topics/diritto-costituzionale.md","topics/ordinamento-dello-stato.md","topics/principi-costituzionali-pa.md"]
+draft_stage: knowledge-ready
+last_compiled_from: ["sources/struttura-madre-il-metodo-bando.md","sources/costituzione-repubblica-italiana-testo-vigente.md","sources/diritto-costituzionale-bin-pitruzzella.md","topics/diritto-costituzionale.md","topics/ordinamento-dello-stato.md","topics/forme-di-stato.md","topics/forme-di-governo.md","topics/fonti-dell-ordinamento-italiano.md","topics/giustizia-costituzionale.md","topics/diritti-e-liberta-costituzionali.md","topics/regioni-e-governo-locale.md","topics/principi-costituzionali-pa.md"]
 ---
 
 # Costituzione e ordinamento dello Stato
@@ -42,3 +42,5 @@ Non deve diventare compendio universitario: taglio concorsuale e operativo.
 Aggiornamento 2026-05-10: aggiunta fonte manualistica costituzionale locale come `metadata_only`. Non usare il PDF per estrazioni o testo derivato finche non e' verificato il diritto d'uso.
 
 Aggiornamento 2026-05-10: aggiunta fonte primaria locale `Costituzione_ITALIANa.pdf`, collegata al riferimento istituzionale del Senato. Il capitolo puo ora essere sviluppato usando la fonte costituzionale ufficiale e la struttura madre del manuale.
+
+Aggiornamento 2026-05-10: l'utente ha confermato i diritti d'uso del manuale Bin/Pitruzzella. Il manuale puo essere usato per estrazione concettuale e struttura didattica, senza copiare lunghi passaggi. Capitolo pronto per sviluppo con Manual Writer Agent.
