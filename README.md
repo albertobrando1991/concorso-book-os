@@ -66,6 +66,34 @@ Run `codex login --device-auth` once on the PC if the launcher reports that Code
 
 Guide: [docs/WRITING_WITH_MANUAL_AGENT.md](docs/WRITING_WITH_MANUAL_AGENT.md).
 
+## Hermes Agent
+
+Hermes can be used as an internal writer/runtime by setting:
+
+```text
+WRITER_PROVIDER=hermes
+HERMES_API_BASE=http://127.0.0.1:8642/v1
+HERMES_API_KEY=your-hermes-api-key
+HERMES_MODEL=hermes-agent
+HERMES_WEBHOOK_SECRET=shared-secret-for-hermes-calls
+```
+
+Useful local endpoints:
+
+- `GET /api/hermes/health` checks the Hermes API server.
+- `POST /api/hermes/chat` sends server-side chat messages to Hermes.
+- `POST /api/hermes/import-source` lets Hermes/Telegram import an official source URL into the wiki, link it to a chapter, and optionally run the writer.
+
+For PDF imports, the Hermes import endpoint can call GLM-OCR before creating the source note:
+
+```text
+GLM_OCR_ENABLED=true
+GLM_OCR_COMMAND=glmocr
+GLM_OCR_TIMEOUT_MS=600000
+```
+
+Install the SDK separately with `pip install glmocr` and configure its own API/self-hosted backend as required by GLM-OCR.
+
 ## Commands
 
 ```powershell

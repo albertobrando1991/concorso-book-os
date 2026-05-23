@@ -15,7 +15,7 @@ import type { BookStudioChapter, BookStudioData, MarkdownBlock } from "@/src/ser
 
 interface BookStudioPanelProps {
   initialData: BookStudioData
-  writerProvider: "codex" | "openai" | "local"
+  writerProvider: "codex" | "openai" | "hermes" | "local"
   writerModel: string
   writerReasoningEffort: string
 }
@@ -199,7 +199,7 @@ export function BookStudioPanel({
         <div className="studioHeaderActions">
           <span className={`writerLlmStatus ${writerProvider === "local" ? "disabled" : "enabled"}`}>
             <BookOpenCheck size={18} aria-hidden />
-            <span>{writerProvider === "codex" ? "Codex GPT-5.5 xhigh" : writerProvider}</span>
+            <span>{writerProvider === "codex" ? "Codex attivo" : writerProvider === "hermes" ? "Hermes attivo" : writerProvider}</span>
           </span>
           <button className="studioIconButton" onClick={refreshStudio} disabled={isRefreshing} title="Aggiorna anteprima">
             {isRefreshing ? <Loader2 size={17} className="spin" aria-hidden /> : <RefreshCw size={17} aria-hidden />}
@@ -314,7 +314,7 @@ export function BookStudioPanel({
           </section>
 
           <section>
-            <span className="panelKicker">Personalizzazione Codex</span>
+            <span className="panelKicker">Personalizzazione writer</span>
             <label>
               Azione
               <select value={writerMode} onChange={(event) => setWriterMode(event.target.value as ManualWriterMode)}>
@@ -331,7 +331,7 @@ export function BookStudioPanel({
             </label>
             <button className="writerButton full" onClick={runWriterRequest} disabled={isWriting || !selectedChapter}>
               {isWriting ? <Loader2 size={17} className="spin" aria-hidden /> : <Sparkles size={17} aria-hidden />}
-              {isWriting ? "Codex sta scrivendo" : "Applica al capitolo"}
+              {isWriting ? "Writer in corso" : "Applica al capitolo"}
             </button>
             <small className="controlNote">
               Modello: {writerModel} | reasoning: {writerReasoningEffort}
@@ -374,7 +374,7 @@ export function BookStudioPanel({
           {error ? <div className="writerError">{error}</div> : null}
           {lastResult ? (
             <details className="studioResult">
-              <summary>Ultimo output Codex</summary>
+              <summary>Ultimo output writer</summary>
               <span>{lastResult.chapterPath}</span>
               <pre>{lastResult.draft}</pre>
               {lastResult.warnings.length > 0 ? <small>{lastResult.warnings.join(" | ")}</small> : null}

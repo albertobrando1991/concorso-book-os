@@ -136,15 +136,15 @@ export default async function Home() {
         <BookStudioPanel
           initialData={bookStudio}
           writerProvider={writerConfig.provider}
-          writerModel={writerConfig.codexModel}
-          writerReasoningEffort={writerConfig.codexReasoningEffort}
+          writerModel={writerConfig.writerModel}
+          writerReasoningEffort={writerConfig.writerReasoningEffort}
         />
 
         <ManualWriterPanel
           initialChapters={chapters}
           writerProvider={writerConfig.provider}
-          writerModel={writerConfig.codexModel}
-          writerReasoningEffort={writerConfig.codexReasoningEffort}
+          writerModel={writerConfig.writerModel}
+          writerReasoningEffort={writerConfig.writerReasoningEffort}
         />
 
         <KnowledgeGraphPanel graph={graph} />

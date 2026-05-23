@@ -55,6 +55,18 @@ CODEX_WRITER_REASONING_EFFORT=xhigh
 In questa modalita' la dashboard usa `codex exec` locale con GPT-5.5 e reasoning xhigh, quindi sfrutta l'account Codex/Antigravity del PC invece di richiedere una `OPENAI_API_KEY`.
 Se Codex CLI non e' autenticato o non parte, l'agente produce comunque una bozza strutturata locale e tracciabile.
 
+Provider Hermes opzionale:
+
+```text
+WRITER_PROVIDER=hermes
+HERMES_API_BASE=http://127.0.0.1:8642/v1
+HERMES_API_KEY=chiave-hermes
+HERMES_MODEL=hermes-agent
+HERMES_WEBHOOK_SECRET=segreto-condiviso
+```
+
+In questa modalita' Manual Writer usa l'API server locale di Hermes. Hermes puo' essere collegato a Telegram tramite il suo gateway e puo' chiamare `POST /api/hermes/import-source` per importare una fonte ufficiale nel wiki, collegarla a un capitolo e, se richiesto, lanciare la generazione del capitolo.
+
 Per attivare Codex CLI sul PC:
 
 ```powershell

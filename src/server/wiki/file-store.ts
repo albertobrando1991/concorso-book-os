@@ -29,6 +29,12 @@ export class FileWikiStore {
     await fs.writeFile(absolutePath, content, "utf8")
   }
 
+  async writeBinary(relativePath: string, content: ArrayBuffer) {
+    const absolutePath = this.resolve(relativePath)
+    await fs.mkdir(path.dirname(absolutePath), { recursive: true })
+    await fs.writeFile(absolutePath, Buffer.from(content))
+  }
+
   async appendText(relativePath: string, content: string) {
     const absolutePath = this.resolve(relativePath)
     await fs.mkdir(path.dirname(absolutePath), { recursive: true })

@@ -6,7 +6,7 @@ import type { ChapterOption, ManualWriterMode } from "@/src/server/agents/manual
 
 interface ManualWriterPanelProps {
   initialChapters: ChapterOption[]
-  writerProvider: "codex" | "openai" | "local"
+  writerProvider: "codex" | "openai" | "hermes" | "local"
   writerModel: string
   writerReasoningEffort: string
 }
@@ -16,7 +16,7 @@ interface WriterResult {
   changedFiles: string[]
   knowledgeUsed: string[]
   draft: string
-  writerProvider: "codex" | "openai" | "local"
+  writerProvider: "codex" | "openai" | "hermes" | "local"
   warnings: string[]
 }
 
@@ -102,7 +102,7 @@ export function ManualWriterPanel({
         </div>
         <div className={`writerLlmStatus ${writerProvider === "local" ? "disabled" : "enabled"}`}>
           <BookOpenCheck size={18} aria-hidden />
-          <span>{writerProvider === "codex" ? "Codex attivo" : writerProvider === "openai" ? "OpenAI attivo" : "Writer locale"}</span>
+          <span>{writerProvider === "codex" ? "Codex attivo" : writerProvider === "openai" ? "OpenAI attivo" : writerProvider === "hermes" ? "Hermes attivo" : "Writer locale"}</span>
         </div>
       </header>
 

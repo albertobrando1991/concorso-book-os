@@ -1,5 +1,6 @@
-import { getOpenAiConfig, getWriterConfig } from "../config"
+import { getHermesConfig, getOpenAiConfig, getWriterConfig } from "../config"
 import { completeWithCodexCli } from "../llm/codex-cli-adapter"
+import { HermesLlmClient } from "../llm/hermes-adapter"
 import { OpenAiLlmClient } from "../llm/openai-adapter"
 import { parseFrontmatter } from "../wiki/frontmatter"
 import { FileWikiStore } from "../wiki/file-store"
@@ -30,7 +31,7 @@ export interface ManualWriterResult {
   changedFiles: string[]
   knowledgeUsed: string[]
   draft: string
-  writerProvider: "codex" | "openai" | "local"
+  writerProvider: "codex" | "openai" | "hermes" | "local"
   warnings: string[]
 }
 
@@ -193,6 +194,35 @@ export class ManualWriterAgent {
       }
     }
 
+    if (writerConfig.provider === "hermes") {
+      const config = getHermesConfig()
+
+      if (!config.apiKey) {
+        return {
+          text: renderDeterministicDraft(input),
+          provider: "local" as const,
+          warnings: ["HERMES_API_KEY non configurata: usata bozza locale strutturata."]
+        }
+      }
+
+      const llm = new HermesLlmClient()
+      const response = await llm.complete(renderManualWriterMessages(input))
+
+      if (looksLikeMetaDraft(response)) {
+        return {
+          text: renderDeterministicDraft(input),
+          provider: "local" as const,
+          warnings: ["Risposta Hermes scartata perche conteneva testo meta invece di un capitolo editoriale."]
+        }
+      }
+
+      return {
+        text: response.trim() || renderDeterministicDraft(input),
+        provider: response.trim() ? ("hermes" as const) : ("local" as const),
+        warnings: response.trim() ? [] : ["Risposta Hermes vuota: usata bozza locale strutturata."]
+      }
+    }
+
     if (writerConfig.provider === "local") {
       return {
         text: renderDeterministicDraft(input),
@@ -253,6 +283,43 @@ export class ManualWriterAgent {
       warnings: response.trim() ? [] : ["Risposta OpenAI vuota: usata bozza locale strutturata."]
     }
   }
+}
+
+function renderManualWriterMessages(input: {
+  title: string
+  instruction: string
+  mode: ManualWriterMode
+  chapterContent: string
+  structureGuide: string
+  designGuide: string
+  knowledge: KnowledgeItem[]
+}) {
+  return [
+    {
+      role: "system" as const,
+      content:
+        "Sei Manual Writer Agent di ConcorsoBook OS. Scrivi manuali e libri operativi per concorsi pubblici. Usa solo knowledge consolidata fornita: source notes, topic pages, entity pages. Non citare o usare raw sources direttamente. Scrivi in italiano, stile workbook professionale, chiaro e didattico."
+    },
+    {
+      role: "user" as const,
+      content: [
+        `Capitolo target: ${input.title}`,
+        `Modalita: ${input.mode}`,
+        `Istruzione utente: ${input.instruction || "Scrivi una bozza editoriale migliorata."}`,
+        "Knowledge consolidata disponibile:",
+        ...input.knowledge.map((item) => `\n### ${item.title}\nPath: ${item.path}\n${item.summary}`),
+        "\nGuida operativa canonica del manuale:",
+        trimWords(input.structureGuide.replace(/^---[\s\S]*?---/, ""), 1000),
+        "\nDesign system editoriale canonico:",
+        trimWords(input.designGuide.replace(/^---[\s\S]*?---/, ""), 800),
+        "\nCapitolo esistente e struttura editoriale da rispettare:",
+        trimWords(input.chapterContent.replace(/^---[\s\S]*?---/, ""), 900),
+        "\nProduci testo pronto per un manuale-workbook professionale. Formato obbligatorio: apertura editoriale, obiettivo, mappa BANDO, spiegazione strutturata, box da sapere in 5 righe, caso guidato, domanda da commissario, domanda-trappola, mini-esercizio, errore tipico, riferimenti consolidati, note di review. Integra la richiesta dell'utente e la conoscenza nuova senza cancellare tracciabilita.",
+        "Divieto assoluto: non scrivere sezioni meta come 'Aggiornamento generato', 'Istruzione ricevuta', 'Knowledge consolidata', 'questo blocco sviluppa'. Non riassumere le fonti. Scrivi direttamente il capitolo destinato al lettore.",
+        "Se il capitolo richiede aggiornamenti web o verifica normativa corrente e le fonti consolidate non bastano, segnala in 'Note di review' quali ricerche web ufficiali servono. Non inventare dati non presenti."
+      ].join("\n")
+    }
+  ]
 }
 
 function renderCodexPrompt(input: {
