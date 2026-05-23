@@ -82,7 +82,19 @@ Useful local endpoints:
 
 - `GET /api/hermes/health` checks the Hermes API server.
 - `POST /api/hermes/chat` sends server-side chat messages to Hermes.
-- `POST /api/hermes/import-source` lets Hermes/Telegram import an official source URL into the wiki, link it to a chapter, and optionally run the writer.
+- `POST /api/hermes/import-source` lets Hermes/Telegram import an official source URL into the wiki, or search for a requested document from a `query`, link it to a chapter, and optionally run the writer.
+
+When no URL is available, send a query instead:
+
+```json
+{
+  "query": "legge 7 agosto 1990 n. 241 testo vigente PDF",
+  "sourceType": "law",
+  "chapterPath": "books/il-metodo-bando/chapters/procedimento-amministrativo.md"
+}
+```
+
+The resolver prefers official institutional sources and PDF candidates. If it selects an HTML result page containing a PDF link, the import follows the PDF link before OCR/ingest.
 
 For PDF imports, the Hermes import endpoint can call GLM-OCR before creating the source note:
 
@@ -93,6 +105,14 @@ GLM_OCR_TIMEOUT_MS=600000
 ```
 
 Install the SDK separately with `pip install glmocr` and configure its own API/self-hosted backend as required by GLM-OCR.
+
+To use Telegram through Hermes Agent, install the bundled Hermes skill:
+
+```powershell
+npm run hermes:install-skill
+```
+
+Then configure Telegram in Hermes Gateway. Guide: [docs/HERMES_AGENT_TELEGRAM_SETUP.md](docs/HERMES_AGENT_TELEGRAM_SETUP.md).
 
 ## Commands
 

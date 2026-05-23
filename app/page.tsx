@@ -205,8 +205,8 @@ export default async function Home() {
 
           <Panel title="Logs e Artifacts" icon={<ScrollText size={19} aria-hidden />} id="logs">
             <div className="logList">
-              {data.logEntries.slice(0, 6).map((entry) => (
-                <code key={entry}>{entry}</code>
+              {data.logEntries.slice(0, 6).map((entry, index) => (
+                <code key={`${entry}-${index}`}>{entry}</code>
               ))}
             </div>
             <div className="artifactList">
@@ -270,8 +270,8 @@ function Table({ headers, rows }: { headers: string[]; rows: string[][] }) {
         <tbody>
           {rows.map((row) => (
             <tr key={row.join("-")}>
-              {row.map((cell) => (
-                <td key={cell}>{cell}</td>
+              {row.map((cell, cellIndex) => (
+                <td key={`${cell}-${cellIndex}`}>{cell}</td>
               ))}
             </tr>
           ))}

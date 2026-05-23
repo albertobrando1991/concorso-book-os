@@ -448,8 +448,8 @@ function PreviewBlock({ block }: { block: MarkdownBlock }) {
 
     return (
       <Tag>
-        {(block.items || []).map((item) => (
-          <li key={item}>{item}</li>
+        {(block.items || []).map((item, index) => (
+          <li key={`${item}-${index}`}>{item}</li>
         ))}
       </Tag>
     )

@@ -159,8 +159,8 @@ export function ManualWriterPanel({
             <details>
               <summary>Avvisi</summary>
               <ul>
-                {result.warnings.map((item) => (
-                  <li key={item}>{item}</li>
+                {result.warnings.map((item, index) => (
+                  <li key={`${item}-${index}`}>{item}</li>
                 ))}
               </ul>
             </details>
@@ -172,8 +172,8 @@ export function ManualWriterPanel({
           <details>
             <summary>Knowledge usata</summary>
             <ul>
-              {result.knowledgeUsed.map((item) => (
-                <li key={item}>{item}</li>
+              {result.knowledgeUsed.map((item, index) => (
+                <li key={`${item}-${index}`}>{item}</li>
               ))}
             </ul>
           </details>

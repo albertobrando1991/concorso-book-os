@@ -74,14 +74,14 @@ export function KnowledgeGraphPanel({ graph }: KnowledgeGraphPanelProps) {
 
       <div className="graphLayout">
         <svg viewBox="0 0 900 520" role="img" aria-label="Knowledge graph interattivo">
-          {visible.links.map((link) => {
+          {visible.links.map((link, index) => {
             const source = visible.positions.get(link.source)
             const target = visible.positions.get(link.target)
             if (!source || !target) return null
 
             return (
               <line
-                key={`${link.source}-${link.target}-${link.kind}`}
+                key={`${link.source}-${link.target}-${link.kind}-${index}`}
                 x1={source.x}
                 y1={source.y}
                 x2={target.x}
@@ -156,8 +156,8 @@ function layoutNodes(nodes: GraphNode[]) {
     group.forEach((node, index) => {
       const angle = offset + (Math.PI * 2 * index) / Math.max(group.length, 1)
       positions.set(node.id, {
-        x: centerX + Math.cos(angle) * radius,
-        y: centerY + Math.sin(angle) * radius
+        x: roundCoord(centerX + Math.cos(angle) * radius),
+        y: roundCoord(centerY + Math.sin(angle) * radius)
       })
     })
 
@@ -165,6 +165,10 @@ function layoutNodes(nodes: GraphNode[]) {
   }
 
   return positions
+}
+
+function roundCoord(value: number) {
+  return Number(value.toFixed(3))
 }
 
 function groupByType(nodes: GraphNode[]) {
@@ -182,4 +186,3 @@ function groupByType(nodes: GraphNode[]) {
 function truncate(value: string) {
   return value.length > 34 ? `${value.slice(0, 31)}...` : value
 }
-

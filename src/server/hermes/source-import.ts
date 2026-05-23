@@ -7,9 +7,11 @@ import { parseFrontmatter } from "../wiki/frontmatter"
 import { FileWikiStore } from "../wiki/file-store"
 import { slugify } from "../wiki/slug"
 import type { AgentRunResult, SourceInput } from "../wiki/types"
+import { findPdfLinks, searchOfficialSource, type SourceSearchResult } from "./source-search"
 
 export interface HermesSourceImportInput {
-  url: string
+  url?: string
+  query?: string
   title?: string
   content?: string
   sourceType?: SourceInput["sourceType"]
@@ -18,13 +20,17 @@ export interface HermesSourceImportInput {
   runWriter?: boolean
   writerMode?: ManualWriterMode
   instruction?: string
+  preferPdf?: boolean
 }
 
 export interface HermesSourceImportResult {
   status: "completed"
   sourceUrl: string
   sourceTitle: string
+  sourcePath: string
+  rawMarkdownPath: string
   rawAttachmentPath?: string
+  search?: SourceSearchResult
   ingest: AgentRunResult
   linkedChapterPath?: string
   writerResult?: Awaited<ReturnType<ManualWriterAgent["writeChapter"]>>
@@ -41,19 +47,31 @@ const RAW_FOLDERS: Record<SourceInput["sourceType"], string> = {
 }
 
 export async function importSourceForHermes(input: HermesSourceImportInput, store: FileWikiStore): Promise<HermesSourceImportResult> {
-  validateHttpUrl(input.url)
-
   const sourceType = input.sourceType || "law"
-  const downloaded = await downloadUrl(input.url)
-  const title = cleanTitle(input.title || titleFromUrl(input.url))
+  const resolved = await resolveSourceRequest(input, sourceType)
+  let downloaded = await downloadUrl(resolved.url)
+  let sourceUrl = resolved.url
+  const warnings: string[] = [...resolved.warnings]
+
+  if (input.preferPdf !== false && !downloaded.isPdf && downloaded.contentType.includes("html")) {
+    const pdfLink = findPdfLinks(downloaded.text, sourceUrl, input.query || input.title).at(0)
+
+    if (pdfLink) {
+      downloaded = await downloadUrl(pdfLink.url)
+      sourceUrl = pdfLink.url
+      warnings.push(`Pagina risultato convertita in PDF collegato: ${pdfLink.url}`)
+    }
+  }
+
+  const title = cleanTitle(input.title || resolved.title || titleFromUrl(sourceUrl))
   const rawAttachmentPath = await maybeSaveAttachment({
     store,
     title,
     sourceType,
     contentType: downloaded.contentType,
-    body: downloaded.body
+    body: downloaded.body,
+    url: sourceUrl
   })
-  const warnings: string[] = []
   let ocrMarkdown = ""
 
   if (rawAttachmentPath && !input.content) {
@@ -64,7 +82,8 @@ export async function importSourceForHermes(input: HermesSourceImportInput, stor
 
   const sourceContent = buildSourceContent({
     title,
-    url: input.url,
+    url: sourceUrl,
+    searchQuery: resolved.search?.query,
     providedContent: input.content,
     downloadedText: ocrMarkdown || downloaded.text,
     contentType: downloaded.contentType,
@@ -74,12 +93,13 @@ export async function importSourceForHermes(input: HermesSourceImportInput, stor
     title,
     content: sourceContent,
     sourceType,
-    sourceUrl: input.url,
+    sourceUrl,
     sourceDate: input.sourceDate,
     authorityLevel: sourceType === "law" || sourceType === "decree" ? "alta" : undefined
   }
   const source = classifySource(sourceInput)
   const sourcePath = `sources/${source.slug}.md`
+  const rawMarkdownPath = `raw/${RAW_FOLDERS[sourceType]}/${source.slug}.md`
   const ingest = await new IngestAgent(store).ingest(sourceInput)
   let linkedChapterPath: string | undefined
   let writerResult: HermesSourceImportResult["writerResult"]
@@ -93,7 +113,7 @@ export async function importSourceForHermes(input: HermesSourceImportInput, stor
     )
   }
 
-  if (!input.content && downloaded.contentType.includes("pdf") && !ocrMarkdown) {
+  if (!input.content && downloaded.isPdf && !ocrMarkdown) {
     warnings.push("PDF scaricato, ma testo non estratto dal sito. Fai estrarre il testo a Hermes e richiama l'endpoint con content, oppure abilita/configura GLM-OCR.")
   }
 
@@ -132,9 +152,12 @@ export async function importSourceForHermes(input: HermesSourceImportInput, stor
 
   return {
     status: "completed",
-    sourceUrl: input.url,
+    sourceUrl,
     sourceTitle: title,
+    sourcePath,
+    rawMarkdownPath,
     rawAttachmentPath,
+    search: resolved.search,
     ingest: {
       ...ingest,
       changedFiles: Array.from(new Set(ingest.changedFiles))
@@ -142,6 +165,34 @@ export async function importSourceForHermes(input: HermesSourceImportInput, stor
     linkedChapterPath,
     writerResult,
     warnings
+  }
+}
+
+async function resolveSourceRequest(input: HermesSourceImportInput, sourceType: SourceInput["sourceType"]) {
+  if (input.url) {
+    validateHttpUrl(input.url)
+    return {
+      url: input.url,
+      title: input.title,
+      warnings: [] as string[],
+      search: undefined as SourceSearchResult | undefined
+    }
+  }
+
+  if (!input.query) {
+    throw new Error("url or query is required")
+  }
+
+  const search = await searchOfficialSource({
+    query: input.query,
+    sourceType
+  })
+
+  return {
+    url: search.selected.url,
+    title: input.title || search.selected.title,
+    warnings: [`Documento selezionato da ricerca: ${search.selected.title} (${search.selected.url})`],
+    search
   }
 }
 
@@ -164,8 +215,9 @@ async function downloadUrl(url: string) {
     const contentType = response.headers.get("content-type")?.toLowerCase() || ""
     const body = await response.arrayBuffer()
     const text = isTextContent(contentType) ? decodeText(body) : ""
+    const isPdf = isPdfDownload(contentType, url, body)
 
-    return { contentType, body, text }
+    return { contentType, body, text, isPdf }
   } finally {
     clearTimeout(timer)
   }
@@ -177,8 +229,9 @@ async function maybeSaveAttachment(input: {
   sourceType: SourceInput["sourceType"]
   contentType: string
   body: ArrayBuffer
+  url: string
 }) {
-  if (!input.contentType.includes("pdf")) return undefined
+  if (!isPdfDownload(input.contentType, input.url, input.body)) return undefined
 
   const rawPath = `raw/${RAW_FOLDERS[input.sourceType]}/${slugify(input.title)}.pdf`
   await input.store.writeBinary(rawPath, input.body)
@@ -189,6 +242,7 @@ async function maybeSaveAttachment(input: {
 function buildSourceContent(input: {
   title: string
   url: string
+  searchQuery?: string
   providedContent?: string
   downloadedText: string
   contentType: string
@@ -196,9 +250,10 @@ function buildSourceContent(input: {
 }) {
   const body = input.providedContent?.trim() || textFromDownloaded(input.downloadedText, input.contentType)
   const attachment = input.rawAttachmentPath ? `\n\nAllegato originale scaricato: wiki/${input.rawAttachmentPath}` : ""
+  const searchQuery = input.searchQuery ? `\n\nRichiesta originale: ${input.searchQuery}` : ""
 
   if (body) {
-    return [`# ${input.title}`, "", `URL: ${input.url}`, attachment.trim(), "", body]
+    return [`# ${input.title}`, "", `URL: ${input.url}`, searchQuery.trim(), attachment.trim(), "", body]
       .filter(Boolean)
       .join("\n")
   }
@@ -207,6 +262,7 @@ function buildSourceContent(input: {
     `# ${input.title}`,
     "",
     `URL: ${input.url}`,
+    searchQuery.trim(),
     attachment.trim(),
     "",
     "Fonte importata automaticamente da Hermes. Il file originale e' stato scaricato, ma il testo non e' ancora stato estratto in modo affidabile.",
@@ -216,6 +272,14 @@ function buildSourceContent(input: {
   ]
     .filter(Boolean)
     .join("\n")
+}
+
+function isPdfDownload(contentType: string, url: string, body: ArrayBuffer) {
+  if (contentType.includes("pdf")) return true
+  if (new URL(url).pathname.toLowerCase().endsWith(".pdf")) return true
+
+  const header = new TextDecoder("ascii", { fatal: false }).decode(body.slice(0, 5))
+  return header === "%PDF-"
 }
 
 async function linkSourceToChapter(input: {

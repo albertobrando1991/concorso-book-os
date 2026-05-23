@@ -1,6 +1,6 @@
-# Hermes + Telegram workflow
+# Hermes Agent + Telegram workflow
 
-Hermes resta fuori dal browser e usa il sito come backend operativo.
+Telegram deve parlare con Hermes Gateway. Il sito non espone un bot Telegram separato: resta backend operativo privato chiamato da Hermes.
 
 ## Obiettivo
 
@@ -12,15 +12,29 @@ https://example.gov/legge.pdf
 Scarica la fonte, aggiungila al wiki e poi integra il capitolo.
 ```
 
+Puoi anche chiedere un documento senza fornire URL:
+
+```text
+Cerca il testo ufficiale della legge 241/1990, scaricalo, convertilo in Markdown e aggiungilo alla conoscenza del capitolo procedimento-amministrativo.
+```
+
 ## Endpoint del sito
 
-Hermes deve chiamare:
+La skill Hermes `concorso-book-os` deve chiamare:
 
 ```http
 POST http://127.0.0.1:3000/api/hermes/import-source
 Authorization: Bearer <HERMES_WEBHOOK_SECRET>
 Content-Type: application/json
 ```
+
+Installa la skill:
+
+```powershell
+npm run hermes:install-skill
+```
+
+Setup completo: [HERMES_AGENT_TELEGRAM_SETUP.md](HERMES_AGENT_TELEGRAM_SETUP.md).
 
 Payload minimo:
 
@@ -33,6 +47,20 @@ Payload minimo:
   "runWriter": true
 }
 ```
+
+Payload di ricerca quando l'utente non fornisce un URL:
+
+```json
+{
+  "query": "legge 7 agosto 1990 n. 241 testo vigente PDF",
+  "title": "Legge 241/1990 - procedimento amministrativo",
+  "sourceType": "law",
+  "chapterPath": "books/il-metodo-bando/chapters/procedimento-amministrativo.md",
+  "runWriter": false
+}
+```
+
+Il sito cerca candidati ufficiali, preferisce domini istituzionali e PDF, poi passa il documento selezionato allo stesso pipeline di download, GLM-OCR e ingest. Se il risultato scelto e' una pagina HTML con link PDF, il sito segue il PDF prima di creare la conoscenza.
 
 Payload consigliato quando Hermes riesce a estrarre il testo dal PDF:
 

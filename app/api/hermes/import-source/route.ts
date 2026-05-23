@@ -12,8 +12,8 @@ export async function POST(request: Request) {
 
   const input = (await request.json()) as HermesSourceImportInput
 
-  if (!input.url) {
-    return NextResponse.json({ error: "url is required" }, { status: 400 })
+  if (!input.url && !input.query) {
+    return NextResponse.json({ error: "url or query is required" }, { status: 400 })
   }
 
   try {
