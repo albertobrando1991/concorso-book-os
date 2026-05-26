@@ -84,6 +84,8 @@ Useful local endpoints:
 - `POST /api/hermes/chat` sends server-side chat messages to Hermes.
 - `POST /api/hermes/import-source` lets Hermes/Telegram import an official source URL into the wiki, or search for a requested document from a `query`, link it to a chapter, and optionally run the writer.
 
+`POST /api/hermes/chat` accepts `allowNoReply: true`. In that mode Hermes can answer with `__HERMES_NO_REPLY__`; the endpoint converts it to `204 No Content` so the caller does not send a Telegram/chat message. Private Telegram requests containing import verbs or lists of laws/decrees are still actionable and must not be treated as silence.
+
 When no URL is available, send a query instead:
 
 ```json

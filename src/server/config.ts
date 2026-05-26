@@ -52,18 +52,21 @@ export function getGlmOcrConfig() {
   }
 }
 
-export type WriterProvider = "codex" | "openai" | "hermes" | "local"
+export type WriterProvider = "codex" | "claude" | "openai" | "hermes" | "local"
 
 export function getWriterConfig() {
   const requestedProvider = process.env.WRITER_PROVIDER || "codex"
-  const provider: WriterProvider = ["codex", "openai", "hermes", "local"].includes(requestedProvider)
+  const provider: WriterProvider = ["codex", "claude", "openai", "hermes", "local"].includes(requestedProvider)
     ? (requestedProvider as WriterProvider)
     : "codex"
   const timeoutMs = Number(process.env.CODEX_WRITER_TIMEOUT_MS || 240000)
+  const claudeTimeoutMs = Number(process.env.CLAUDE_WRITER_TIMEOUT_MS || timeoutMs || 240000)
   const openAiConfig = getOpenAiConfig()
   const hermesConfig = getHermesConfig()
   const codexModel = process.env.CODEX_WRITER_MODEL || "gpt-5.5"
   const codexReasoningEffort = process.env.CODEX_WRITER_REASONING_EFFORT || "xhigh"
+  const claudeModel = process.env.CLAUDE_WRITER_MODEL || "claude-opus-4-7"
+  const claudeReasoningEffort = process.env.CLAUDE_WRITER_REASONING_EFFORT || "xhigh"
 
   return {
     provider,
@@ -71,9 +74,23 @@ export function getWriterConfig() {
     codexModel,
     codexReasoningEffort,
     codexTimeoutMs: Number.isFinite(timeoutMs) ? timeoutMs : 240000,
+    claudeCommand: process.env.CLAUDE_CODE_PATH || process.env.CLAUDE_CLI_PATH || "claude",
+    claudeModel,
+    claudeReasoningEffort,
+    claudeTimeoutMs: Number.isFinite(claudeTimeoutMs) ? claudeTimeoutMs : 240000,
     hermesModel: hermesConfig.model,
-    writerModel: provider === "hermes" ? hermesConfig.model : provider === "openai" ? openAiConfig.model : provider === "codex" ? codexModel : "local",
-    writerReasoningEffort: provider === "codex" ? codexReasoningEffort : "n/a"
+    writerModel:
+      provider === "hermes"
+        ? hermesConfig.model
+        : provider === "openai"
+          ? openAiConfig.model
+          : provider === "codex"
+            ? codexModel
+            : provider === "claude"
+              ? claudeModel
+              : "local",
+    writerReasoningEffort:
+      provider === "codex" ? codexReasoningEffort : provider === "claude" ? claudeReasoningEffort : "n/a"
   }
 }
 

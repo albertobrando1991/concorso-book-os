@@ -2,20 +2,20 @@
 id: chapter-informatica-pa-digitale-competenze-digitali
 type: chapter
 title: "Informatica, PA digitale e competenze digitali"
-status: planned
-domain: "concorsi pubblici italiani"
+status: to_expand
+domain: concorsi pubblici italiani
 topics: ["pa digitale","informatica","competenze digitali"]
 entities: ["SPID","CIE","CNS","PEC"]
 source_refs: ["sources/struttura-madre-il-metodo-bando.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.55
-updated_at: 2026-05-10T11:45:00+02:00
-created_at: 2026-05-10T11:45:00+02:00
+updated_at: "2026-05-25T11:45:36.733Z"
+created_at: "2026-05-10T11:45:00+02:00"
 review_required: true
 canonical: true
 tags: ["book-chapter","common-subject"]
 book_id: il-metodo-bando
-outline_section: "10"
+outline_section: 10
 draft_stage: structure-ready
 last_compiled_from: ["sources/struttura-madre-il-metodo-bando.md"]
 ---
@@ -35,3 +35,9 @@ Glossario digitale, checklist competenze minime, domande pratiche su PEC/firma/s
 Da sviluppare con Manual Writer Agent dopo fonti PA digitale consolidate.
 
 ## Bozza agente
+
+## Note editoriali
+- Da rivedere per nuova fonte [[sources/gazzetta-ufficiale-n-111-del-15-maggio-2025-decreto-pat-e-formweb]].
+
+- Da rivedere per nuova fonte [[sources/cedu-savino-ed-altri-c-italia-28-aprile-2009-concorsi-e-art-6-cedu]].
+

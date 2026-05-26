@@ -1,21 +1,21 @@
 ---
 id: chapter-prova-scritta-teorico-pratica
 type: chapter
-title: "La prova scritta e teorico-pratica"
-status: planned
-domain: "concorsi pubblici italiani"
+title: La prova scritta e teorico-pratica
+status: to_expand
+domain: concorsi pubblici italiani
 topics: ["prova scritta","prova teorico-pratica","risposta concorsuale"]
 entities: ["Metodo BANDO"]
 source_refs: ["sources/struttura-madre-il-metodo-bando.md","sources/metodo-bando-progetto-editoriale.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.82
-updated_at: 2026-05-10T11:45:00+02:00
-created_at: 2026-05-10T11:45:00+02:00
+updated_at: "2026-05-25T11:45:36.767Z"
+created_at: "2026-05-10T11:45:00+02:00"
 review_required: true
 canonical: true
 tags: ["book-chapter","part-3"]
 book_id: il-metodo-bando
-outline_section: "15"
+outline_section: 15
 draft_stage: structure-ready
 last_compiled_from: ["sources/struttura-madre-il-metodo-bando.md"]
 ---
@@ -35,3 +35,17 @@ Differenza tra quiz, risposta sintetica, elaborato e caso pratico; schema defini
 Da sviluppare con Manual Writer Agent.
 
 ## Bozza agente
+
+## Note editoriali
+- Da rivedere per nuova fonte [[sources/d-lgs-27-ottobre-2009-n-150-performance]].
+
+- Da rivedere per nuova fonte [[sources/d-p-r-16-giugno-2023-n-82-modifiche-al-d-p-r-487-1994-sui-concorsi]].
+
+- Da rivedere per nuova fonte [[sources/agid-linee-guida-sulla-formazione-gestione-e-conservazione-dei-documenti-informatici]].
+
+- Da rivedere per nuova fonte [[sources/agid-catalogo-linee-guida-cad-e-domicilio-digitale]].
+
+- Da rivedere per nuova fonte [[sources/gazzetta-ufficiale-n-111-del-15-maggio-2025-decreto-pat-e-formweb]].
+
+- Da rivedere per nuova fonte [[sources/cedu-savino-ed-altri-c-italia-28-aprile-2009-concorsi-e-art-6-cedu]].
+

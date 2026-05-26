@@ -36,6 +36,8 @@ npm run hermes:install-skill
 
 Setup completo: [HERMES_AGENT_TELEGRAM_SETUP.md](HERMES_AGENT_TELEGRAM_SETUP.md).
 
+Hermes puo anche non rispondere: per messaggi di gruppo/canale non rivolti a Hermes, conferme, duplicati o richieste senza azione ConcorsoBook, la skill resta silenziosa. In chat privata, una richiesta come "scarica queste" seguita da leggi o decreti e' sempre azionabile: Hermes importa ogni fonte senza capitolo, salvo istruzioni diverse. Nei contesti API usa il token `__HERMES_NO_REPLY__`, che `/api/hermes/chat` converte in `204 No Content` quando `allowNoReply` e' abilitato.
+
 Payload minimo:
 
 ```json

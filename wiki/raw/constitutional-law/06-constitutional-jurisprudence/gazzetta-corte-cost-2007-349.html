@@ -1,0 +1,610 @@
+
+
+
+
+
+
+
+
+<!DOCTYPE html><!-- 002_053-ACCESS-4.1.1 -LV_A -->
+<!--002_053-ACCES- 3.1.1 -LV_A --> 
+<html xmlns="http://www.w3.org/1999/xhtml" lang="it" prefix="eli: http://data.europa.eu/eli/ontology# gu: http://www.gazzettaufficiale.it/eli/">
+
+<head>
+<title>Gazzetta Ufficiale</title>
+
+
+<link rel="stylesheet" href="/resources/css/themes/pascal/pascal.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="/resources/css/themes/default/default.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="/resources/css/themes/orman/orman.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="/resources/css/nivo-slider.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="/resources/css/reset.css" type="text/css" />
+<link rel="stylesheet" href="/resources/css/text.css" type="text/css" />
+<link rel="stylesheet" href="/resources/css/style.css" type="text/css" />
+<link rel="stylesheet" href="/resources/css/960.css" type="text/css" />
+<link rel="stylesheet" href="/resources/css/ricerca.css" type="text/css" />
+<link rel="stylesheet" href="/resources/css/scrollNews.css" type="text/css" />
+<link rel="stylesheet" href="/resources/css/gu_.css" type="text/css" />
+<script type="text/javascript" src="/resources/js/jquery.js"></script>
+<script type="text/javascript" src="/resources/js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="/resources/js/jquery-ui.js"></script>
+<script type="text/javascript" src="/resources/js/jquery.nivo.slider.pack.js"></script>
+<script type="text/javascript" src="/resources/js/newsSlider.js"></script>
+<!--002_053-ACCES- 4.1.1 -LV_A --> 
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<link rel="stylesheet" href="/resources/css/dettaglio.css" type="text/css" />
+<script type="text/javascript">
+ function resizeFrame() {
+
+	f = document.getElementById('mainFrame');
+	l = document.getElementById('leftFrame');
+	t = document.getElementById('testa_atto');
+	cl = document.getElementById('clear');
+
+ 	f.style.height = (getHeight(0) - t.scrollHeight-cl.scrollHeight)+"px" ;
+	l.style.height = (getHeight(0) - t.scrollHeight-cl.scrollHeight)+"px" ;
+}
+
+ window.onresize = function(event) {
+    delay(function(){
+      resizeFrame();
+    }, 200);
+};
+
+ var delay = (function(){
+  var timer = 0;
+  return function(callback, ms){
+    clearTimeout (timer);
+    timer = setTimeout(callback, ms);
+  };
+})();
+
+ function getHeight(flag) {
+  var myWidth = 0, myHeight = 0;
+  if( typeof( window.innerWidth ) == 'number' ) {
+    //Non-IE
+    myWidth = window.innerWidth;
+    myHeight = window.innerHeight;
+  } else if( document.documentElement && ( document.documentElement.clientWidth || document.documentElement.clientHeight ) ) {
+    //IE 6+ in 'standards compliant mode'
+    myWidth = document.documentElement.clientWidth;
+    myHeight = document.documentElement.clientHeight;
+  } else if( document.body && ( document.body.clientWidth || document.body.clientHeight ) ) {
+    //IE 4 compatible
+    myWidth = document.body.clientWidth;
+    myHeight = document.body.clientHeight;
+  }
+  if(flag == 0)
+  	return myHeight;
+  else
+	return myWidth;
+}
+
+/* $(function() {
+	var $window = $(window);
+	var $sidebar = $("#wrap_albero");
+	var bodyHeight = $("body").height();
+	var sidebarHeight = $sidebar.height();
+	var startOffset = $sidebar.offset();
+	var topPadding = 15;
+
+	$window.scroll(function() {
+		var marginTopHelper = 0;
+		var scrollTop = $window.scrollTop();
+		var posibleOffset = scrollTop - startOffset.top + topPadding;
+
+		if ((sidebarHeight + posibleOffset) < bodyHeight && scrollTop > startOffset.top) {
+			marginTopHelper = posibleOffset;
+		}
+
+		$sidebar.stop().animate({
+			marginTop: marginTopHelper
+		});
+	});
+});  */
+
+</script>
+<!-- 002_053-ACCESS-4.1.1 -LV_A --><!--START-->
+<style>
+       .wrapped-iframe {
+        scroll-behavior: smooth;
+        height: 100%;
+        border: 0;
+      }
+       .wrapped-iframe2 {
+        scroll-behavior: smooth;
+        width: 100%;
+        height: 100%;
+        border: 0;
+      }
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</head>
+<body>
+
+
+
+<!-- Costanti EL -->
+
+
+
+
+
+
+
+
+
+<!-- Fine costanti EL -->
+
+
+
+
+
+
+
+<div class="head">
+	<div class="flag"> <!-- VSADC01-DISABILITA COGNITIVA -ADEGUAMENTI NECESSARI -->
+	<!-- Bugfix banner -->
+		<div class="logo"><!--002_053-ACCES-1.1.1-LV_A -->
+			<a href="/home" title="Home">
+				<img src="/resources/img/logo.png" alt="logo gazzetta ufficiale"/>
+	    	</a>
+	    </div>
+	    
+	    <div class="welcome">
+			<a href="/home" class="backhome" title="backhome">Home</a>
+		</div>
+			   
+
+		</div>
+
+
+
+	</div>
+</div>
+
+
+
+<div class="main_menu">
+  
+
+
+
+
+
+
+<div class="toolbar_wrapper_dettaglio">
+	<div id="comandi_atto">
+		<div id="pulsanti_atto">
+			
+			
+				
+				
+				
+				
+
+			
+			<a href="/atto/vediMenuHTML?atto.dataPubblicazioneGazzetta=2007-10-31&atto.codiceRedazionale=007C1245&tipoSerie=corte_costituzionale&tipoVigenza=originario" target="_blank" class="stampabile"><span>Atto<br/>Completo</span> </a>
+			
+				
+				
+
+					<div class="ghost"><span>Avviso di rettifica<br/>Errata corrige</span></div>
+
+				
+			
+			
+			
+
+
+
+
+
+			
+			
+
+				
+
+			
+		</div>
+	</div>
+
+
+
+
+
+
+	
+	<div class="nobordo" id="comandi">
+<!-- BugFix -->
+	 
+				
+					
+					
+					
+					
+				
+			
+			
+					<a href="/atto/vediPermalink?atto.dataPubblicazioneGazzetta=2007-10-31&atto.codiceRedazionale=007C1245&tipoSerie=corte_costituzionale&tipoVigenza=originario&tipoProvvedimento=*" class="backtosearch" target="_blank"  title="Collegamento Permanente"><span>Permalink</span> </a>
+			
+		
+			
+
+			
+			
+
+			
+			
+				
+					
+					
+						
+							
+							
+							
+
+
+							
+
+
+
+							
+
+
+							
+
+
+
+							
+							
+							
+							
+							
+							
+							
+							
+						
+
+
+					
+				
+			
+
+
+		
+		
+		
+		
+		
+			
+		
+		
+ 	
+		
+
+	
+	</div>
+</div>
+</div>
+
+<div class="main_content">
+		<div id="corpaccio_atto">
+				<div id="titolo_atto">
+	    			
+
+
+
+
+ 
+
+
+
+<div id="testa_atto">
+	<h2 class="consultazione">
+	
+	N. 349
+	
+	SENTENZA
+	22  - 24 ottobre 2007
+	</h2>
+	
+	<h3 class="consultazione" style="border:none;">Giudizio di legittimita' costituzionale in via incidentale.
+
+Costituzione  ed  intervento nel giudizio incidentale - Intervento di
+  soggetti che non rivestono la qualita' parte nei giudizi a quibus -
+  Insussistenza  di un interesse qualificato - Inammissibilita' degli
+  interventi.
+Costituzione  ed  intervento  nel giudizio incidentale - Costituzione
+  delle   parti   del   giudizio  a  quo  effettuata  tardivamente  -
+  Inammissibilita'.
+- Legge  11 marzo  1953,  n. 87,  art. 25;  norme  integrative  per i
+  giudizi davanti alla Corte costituzionale, artt. 3 e 4.
+Questione  incidentale  di  legittimita'  costituzionale  - Oggetto -
+  Norma  abrogata - Motivazione non implausibile sulla applicabilita'
+  nel giudizio a quo - Ammissibilita' della questione.
+- D.L.  11 luglio  1992, n. 333 (convertito, con modificazioni, dalla
+  legge  8 agosto  1992, n. 359), art. 5-bis, comma 7-bis, introdotto
+  dall'art. 3, comma 65, della legge 23 dicembre 1996, n. 662; d.P.R.
+  8 giugno 2001, n. 327, art. 58.
+Questione  incidentale  di  legittimita'  costituzionale  - Oggetto -
+  Interpretazione risultante dal principio di diritto enunciato dalla
+  Corte di cassazione - Ammissibilita' della questione.
+- D.L.  11 luglio  1992, n. 333 (convertito, con modificazioni, dalla
+  legge  8 agosto  1992, n. 359), art. 5-bis, comma 7-bis, introdotto
+  dall'art. 3, comma 65, della legge 23 dicembre 1996, n. 662.
+Questione   incidentale   di   legittimita'  costituzionale  -  Thema
+  decidendum  -  Identificazione  in  base  alla  sola  ordinanza  di
+  rimessione  -  Impossibilita'  di  prendere  in  considerazione  le
+  censure svolte dalle parti del giudizio principale.
+- D.L.  11 luglio  1992, n. 333 (convertito, con modificazioni, dalla
+  legge  8 agosto  1992, n. 359), art. 5-bis, comma 7-bis, introdotto
+  dall'art. 3, comma 65, della legge 23 dicembre 1996, n. 662.
+Trattati  e  convenzioni  internazionali - Convenzione europea per la
+  salvaguardia  dei  diritti  dell'uomo e delle liberta' fondamentali
+  (CEDU) - Riconducibilita' all'ambito di operativita' degli artt. 10
+  e 11 Cost. - Esclusione.
+- Convenzione  per  la  salvaguardia  dei  diritti  dell'uomo e delle
+  liberta'   fondamentali,   firmata   a  Roma  il  4 novembre  1950,
+  ratificata con legge 4 agosto 1955, n. 848; Costituzione, artt. 10,
+  primo e secondo comma e 11.
+Trattati  e  convenzioni  internazionali - Convenzione europea per la
+  salvaguardia  dei  diritti  dell'uomo e delle liberta' fondamentali
+  (CEDU)   -  Qualificazione  dei  diritti  fondamentali  oggetto  di
+  disposizioni  della  CEDU  come  principi generali dell'ordinamento
+  comunitario  -  Rilevanza  ai  fini della diretta applicabilita' di
+  dette   disposizioni   nell'ordinamento   interno  -  Esclusione  -
+  Fondamento.
+- Convenzione  per  la  salvaguardia  dei  diritti  dell'uomo e delle
+  liberta'   fondamentali,   firmata   a  Roma  il  4 novembre  1950,
+  ratificata con legge 4 agosto 1955, n. 848; Costituzione, art. 11.
+Costituzione  e  leggi costituzionali - Potesta' legislativa - Limite
+  del  rispetto  dei vincoli derivanti dall'ordinamento comunitario e
+  dagli  obblighi  internazionali  (art. 117,  primo  comma, Cost.) -
+  Obblighi   derivanti   dalla  Convenzione  europea  per  i  diritti
+  dell'uomo  (CEDU)  -  Eventuale  contrasto  di norma interna con la
+  norma internazionale - Disapplicazione della norma interna da parte
+  del giudice comune - Esclusione - Impossibilita' di interpretare la
+  norma  interna  in modo conforme alla disposizione internazionale -
+  Proposizione   di   questione  di  legittimita'  costituzionale  in
+  riferimento all'art. 117, primo comma Cost. - Necessita'.
+- Costituzione, art. 117, primo comma.
+Costituzione  e  leggi costituzionali - Potesta' legislativa - Limite
+  del  rispetto  dei vincoli derivanti dall'ordinamento comunitario e
+  dagli  obblighi  internazionali  (art. 117,  primo  comma, Cost.) -
+  Obblighi  internazionali  derivanti  dalla  Convenzione europea dei
+  diritti  dell'uomo (CEDU) - Obbligo di adeguamento dell'ordinamento
+  interno  alle norme della Convenzione nella interpretazione ad essa
+  data  dalla  Corte  europea per i diritti dell'uomo - Sussistenza -
+  Limite  dell'accertamento  della  conformita'  a Costituzione delle
+  norme   pattizie   integrative   del   parametro  costituzionale  -
+  Fondamento.
+- Convenzione  per  la  salvaguardia  dei  diritti  dell'uomo e delle
+  liberta'   fondamentali,   firmata   a  Roma  il  4 novembre  1950,
+  ratificata  con  legge 4 agosto 1955, n. 848, art. 32, paragrafo 1;
+  Costituzione, art. 117, primo comma.
+Espropriazione  per  pubblica  utilita'  -  Occupazioni appropriative
+  intervenute   anteriormente  al  30 settembre  1996  -  Criteri  di
+  liquidazione  del danno in misura ridotta rispetto al valore venale
+  degli   immobili  -  Applicabilita'  ai  procedimenti  in  corso  -
+  Intervenuta  pronuncia della Corte europea dei diritti dell'uomo di
+  accertamento della violazione dell'art. 1 del primo protocollo CEDU
+  -  Violazione  degli  obblighi internazionali derivanti dalla CEDU,
+  non incompatibili con l'ordinamento costituzionale - Necessita' che
+  il  danno  in  caso  di  occupazione  appropriativa coincida con il
+  valore  di  mercato  del  bene  occupato  -  Criterio  vigente  non
+  rispondente  a  tale  necessita'  - Illegittimita' costituzionale -
+  Assorbimento di ulteriori censure.
+- D.L.  11 luglio  1992, n. 333 (convertito, con modificazioni, dalla
+  legge  8 agosto  1992, n. 359), art. 5-bis, comma 7-bis, introdotto
+  dall'art. 3, comma 65, della legge 23 dicembre 1996, n. 662.
+- Convenzione  per  la  salvaguardia  dei  diritti  dell'uomo e delle
+  liberta'   fondamentali,   firmata   a  Roma  il  4 novembre  1950,
+  ratificata  con  legge  4 agosto  1955,  n. 848;  Primo  Protocollo
+  addizionale  alla  Convenzione stessa, firmato a Parigi il 20 marzo
+  1952, art. 1; Costituzione, artt. 117, primo comma (e 111).
+(007C1245)
+
+ 	
+ 	<span class="riferimento">
+			
+			
+			
+			
+			
+			
+			
+			
+			
+				
+				
+					 
+					<span class="link_gazzetta">
+						
+						<a target="_blank" style="color:#4a970b; text-decoration:none;" href="https://www.gazzettaufficiale.it/eli/gu/2007/10/31/42/s1/pdf">(GU 1<sup>a</sup> Serie Speciale - Corte Costituzionale  n.42 del 31-10-2007)</a>
+					</span>
+				
+				
+			
+		
+		</span>
+ 	</h3>
+</div>
+	         	</div>
+	         	<!-- INIZIO RESP_002_053 TR00006 -->
+	         	 <script type="text/javascript">
+        
+	         	function burgerMenuAreeTematicheDisplay() {
+	         		var d = document;
+	    			var menu = d.getElementById("wrap_albero");
+	    			var corpo = d.getElementById("testo_atto");
+	    			var text = d.getElementsByClassName("dettaglio_atto_testo");
+	    			if (menu.style.display === "block") {
+	    				menu.style.display = "none";
+	    				corpo.style.width = "100%";
+	    			} else {
+	    				menu.style.display = "block";
+	    				corpo.style.width = "63%";
+	    				text.style.fontSize = "100% !important";
+	    			}
+	    		}
+        </script>
+        <span id="burgerMenuAreeTematiche"style="font-size:75px; margin-left:35px; color: #017fb3; display: none;" onclick="burgerMenuAreeTematicheDisplay()">☰</span>
+				<!-- FINE RESP_002_053 TR00006 -->
+				<div id="colonna" class="nopadding">
+	                   <div id="wrap_albero">
+	                   <!-- 002_053-ACCESS-4.1.1 -LV_A -->
+						<iframe class=".wrapped-iframe"
+							src="/atto/corte_costituzionale/caricaAlberoArticoli/originario?atto.dataPubblicazioneGazzetta=2007-10-31&atto.codiceRedazionale=007C1245#art"
+							name="leftFrame" id="leftFrame" title="leftFrame">
+						</iframe>
+				</div>
+		 </div>
+				<!-- 002_053-ACCESS-4.1.1 -LV_A -->
+				<div id="testo_atto">
+					<iframe class="wrapped-iframe2"
+					 	src="/atto/corte_costituzionale/caricaArticoloDefault/originario?atto.dataPubblicazioneGazzetta=2007-10-31&atto.codiceRedazionale=007C1245&atto.tipoProvvedimento=SENTENZA" 
+					  	name="mainFrame" id="mainFrame" title="mainFrame">
+					</iframe>
+					<!--END-->
+				</div>
+				<div class="clear" id="clear"></div>
+	</div>
+    </div>
+
+    <div class="wrap_footer">
+		
+<div class="container_16_f">
+<!-- <div class="grid_4">
+	<p style="padding: 10px 0px;">sommari G.U.</p>
+    <ul>
+	   	<li><a href="">Ultime Gazzette Ufficiali</a></li>
+	   	<li><a href="/archivioCompleto" title="Archivio Completo">Archivio Completo</a></li>
+     </ul>
+  </div> -->
+  <div class="grid_4" style="margin-left:0;">
+  	<p style="padding: 10px 0px;">informazioni</p>
+    <ul style="margin:5px 0px 0px 0px;">
+	   	<!-- <li><a href="">Modalit&agrave; di consultazione</a></li>
+	   	<li><a href="">Il Servizio</a></li> -->
+		<li><a href="/caricaHtml?nomeTiles=gazzettaCertificata" title="Gazzetta Ufficiale certificata" target="_blank">Gazzetta Ufficiale Certificata</a></li>
+		<li><a href="/caricaHtml?nomeTiles=privacySito" title="Privacy">Privacy</a></li>
+	   	<li><a href="/caricaHtml?nomeTiles=formatoGraficoPdf" title="Formato Grafico PDF">Formato Grafico PDF</a></li>        
+     </ul>
+  </div>
+  <div class="grid_4">
+  	<p style="padding: 10px 0px;">concessionari</p>
+    <ul style="margin:5px 0px 0px 0px;">
+    	<!-- <li><a href="caricaHtml?nomeTiles=abbonamentoCartaceo" title="Abbonamento Cartaceo">Abbonamento Cartaceo</a></li>
+	   	<li><a href="">Modalit&agrave; Pubblicazione</a></li> --> 
+	   	
+	   	<li><a href="/showConcessionariInserzioni" title="Concessionari Inserzioni">Inserzioni</a></li>         
+	   	<li><a href="/showLibrerieConcessionarie" title="Librerie Concessionarie">Librerie</a></li> 
+	   	<li><a href="https://form.agid.gov.it/view/0f40aa6e-8571-4ef7-b62f-83e65ed3e3f0" title="Dichiarazione di accessibilità" target="blank">Dichiarazione di accessibilità</a></li> 
+	   	<!-- <li><a href="caricaHtml?nomeTiles=modalitaInserzioni" title="Modalità Pubblicazioni e Inserzioni">Modalit&agrave; Pubblicazioni e Inserzioni</a></li>
+	   	<li><a href="caricaHtml?nomeTiles=venditaFascicoli" title="Vendita Fascicoli">Vendita Fascicoli</a></li> -->       
+     </ul>
+  </div>
+  <div class="grid_4" style="margin-right:0;">
+  	<p style="padding: 10px 0px;">contatti</p>
+    <ul style="margin:5px 0px 0px 0px;">
+    	<li><a  class="contatto" href="mailto:supportoGU@gazzettaufficiale.it" title="Informazioni sulla Gazzetta Ufficiale">Supporto Contenuti Gazzetta Ufficiale</a></li>
+    	<li><a  class="contatto" href="mailto:informazioni@ipzs.it" title="Informazioni Commerciali">Informazioni Commerciali</a></li>
+    	<!-- <li><a  class="contatto" href="mailto:supportotecnico@gazzettaufficiale.it" title="Supporto Tecnico">Supporto Tecnico</a></li> -->
+		<li class="nverde"><!--<label>Numero Verde:</label>-->800 864035</li>
+     </ul>
+  </div>
+  <!-- div class="grid_4">
+  	<p style="padding: 10px 0px;">archivio completo</p>
+    <ul style="margin:5px 0px 0px 0px;">
+    	<li><a href="">L'utenza privata</a></li>
+    	<li><a href="">La Pubblica Amministrazione Centrale</a></li>
+
+     </ul>
+  </div -->
+  <!-- script src="https://assets.adobedtm.com/1aaba0661858/f3615e8491bd/launch-53bf2fcc463f-development.min.js" async></script-->
+<!-- https://assets.adobedtm.com/1aaba0661858/f3615e8491bd/launch-735752f79152.min.js -->
+<!-- GA4 Config -->
+ <script>
+            // GA4 Configuration
+            var GA4_CONFIG = {
+            	    'www.sviluppo7.gazzettaufficiale.it': {
+              	      enabled: true,
+              	      trackingId: 'G-MP0S74CMHZ'
+              	    },
+              	    'www2.sviluppo7.gazzettaufficiale.it': {
+              	      enabled: true,
+              	      trackingId: 'G-MP0S74CMHZ'
+              	    },
+              	    'www.collaudo7.gazzettaufficiale.it': {
+              	      enabled: true,
+              	      trackingId: 'G-MP0S74CMHZ'
+              	    },
+              	    'www2.collaudo7.gazzettaufficiale.it': {
+              	      enabled: true,
+              	      trackingId: 'G-MP0S74CMHZ'
+              	    },
+              	    'www.gazzettaufficiale.it': {
+              	      enabled: true,
+              	      trackingId: 'G-FJM2V41JDD'
+              	    }
+            };
+            // GA4 Initialization Script
+            (function() {
+                var domain = window.location.hostname;
+                var config = GA4_CONFIG[domain];
+                
+                // Check if domain exists in config and is enabled
+                if (config && config.enabled) {
+                    // Create the first script element (gtag.js)
+                    var gtagScript = document.createElement('script');
+                    gtagScript.async = true;
+                    gtagScript.src = 'https://www.googletagmanager.com/gtag/js?id=' + config.trackingId;
+                    
+                    // Create the second script element (configuration)
+                    var configScript = document.createElement('script');
+                    configScript.text = '' + 
+                        'window.dataLayer = window.dataLayer || [];' +
+                        'function gtag(){dataLayer.push(arguments);}' +
+                        'gtag("js", new Date());' +
+                        'gtag("config", "' + config.trackingId + '");';
+                    
+                    // Add scripts to the document head
+                    document.head.appendChild(gtagScript);
+                    document.head.appendChild(configScript);
+                }
+            })();
+</script>
+</div>
+	</div>
+
+
+	<div class="crediti">
+		<div class="loghi_crediti">
+	<img src="/resources/img/logo_mef.png" alt="mef" />
+	<img src="/resources/img/logo_ipzs_2025.png"  alt="Istituto Poligrafico e Zecca dello Stato"/>
+</div>
+<div class="clear"></div>
+<div style="color:#edebeb; margin:0 auto; padding: 10px; width:960px; text-align:center; display: inline-block; font-size:12px">Realizzazione Istituto Poligrafico e Zecca dello Stato S.p.A.</div>
+
+
+
+
+	</div>
+</body>
+</html>

@@ -1106,6 +1106,174 @@ h2 {
   font-size: 13px;
 }
 
+.sourceLibrary {
+  display: grid;
+  grid-template-columns: minmax(260px, 360px) minmax(0, 1fr);
+  gap: 14px;
+  align-items: start;
+}
+
+.sourceList {
+  display: grid;
+  gap: 8px;
+  max-height: 760px;
+  overflow: auto;
+  padding-right: 4px;
+}
+
+.sourceListItem {
+  display: grid;
+  gap: 5px;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  background: #fbfcfd;
+  padding: 10px;
+}
+
+.sourceListItem.active {
+  border-color: #9ebbe0;
+  background: #edf5ff;
+}
+
+.sourceListItem strong {
+  line-height: 1.25;
+}
+
+.sourceListItem span,
+.sourceListItem code {
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.sourceListItem code {
+  overflow-wrap: anywhere;
+}
+
+.sourceReader {
+  min-width: 0;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  background: #fff;
+  padding: 14px;
+}
+
+.sourceReader header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 12px;
+  border-bottom: 1px solid var(--line);
+  margin-bottom: 12px;
+  padding-bottom: 10px;
+}
+
+.sourceReader h3 {
+  margin: 0;
+  font-size: 18px;
+  line-height: 1.25;
+}
+
+.sourceExternal {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  flex: 0 0 auto;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  padding: 7px 9px;
+  color: var(--blue);
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.sourceMetaGrid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 8px;
+  margin-bottom: 12px;
+}
+
+.sourceMetaGrid span {
+  display: grid;
+  gap: 4px;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  background: #fbfcfd;
+  padding: 8px;
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.sourceMetaGrid strong {
+  color: var(--ink);
+  font-size: 13px;
+}
+
+.sourceDocument {
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  margin-top: 10px;
+  background: #fff;
+}
+
+.sourceDocument summary {
+  cursor: pointer;
+  border-bottom: 1px solid var(--line);
+  padding: 10px 12px;
+  font-weight: 800;
+}
+
+.sourcePath {
+  display: block;
+  margin: 10px 12px 0;
+  overflow-wrap: anywhere;
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.markdownReader {
+  max-height: 640px;
+  overflow: auto;
+  padding: 12px;
+  color: #1d2733;
+  font-size: 14px;
+  line-height: 1.55;
+}
+
+.markdownReader h3,
+.markdownReader h4,
+.markdownReader h5,
+.markdownReader h6 {
+  margin: 18px 0 8px;
+  line-height: 1.25;
+}
+
+.markdownReader h3:first-child,
+.markdownReader h4:first-child,
+.markdownReader h5:first-child,
+.markdownReader h6:first-child {
+  margin-top: 0;
+}
+
+.markdownReader p,
+.markdownReader ul,
+.markdownReader pre {
+  margin: 0 0 12px;
+}
+
+.markdownReader ul {
+  padding-left: 20px;
+}
+
+.markdownReader pre {
+  overflow: auto;
+  white-space: pre-wrap;
+  border-radius: 4px;
+  background: #f1f4f7;
+  padding: 10px;
+  font-size: 12px;
+}
+
 .tableWrap {
   overflow-x: auto;
 }
@@ -1261,7 +1429,9 @@ meter {
   .writerGrid,
   .graphLayout,
   .studioStats,
-  .bookStudioLayout {
+  .bookStudioLayout,
+  .sourceLibrary,
+  .sourceMetaGrid {
     grid-template-columns: 1fr;
   }
 

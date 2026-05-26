@@ -33,6 +33,33 @@ When the user does not provide a URL, search from the document request:
 Cerca il testo ufficiale della legge 241/1990, scaricalo, convertilo in markdown e aggiungilo al capitolo procedimento-amministrativo.
 ```
 
+## Silence Policy
+
+Hermes is allowed to send no message.
+
+Do not reply when:
+
+- a group/channel message is clearly not addressed to Hermes;
+- the message is only an acknowledgement, thanks, duplicate, or noise;
+- there is no actionable ConcorsoBook import, OCR, source-linking, or writer request;
+- the request is outside this skill and no useful routing/action is available.
+
+In private Telegram chat, treat every message from an allowed user as addressed to Hermes, even if it does not mention the bot name.
+
+Never stay silent when the message contains:
+
+- verbs like `scarica`, `importa`, `aggiungi`, `cerca`, `integra`;
+- a list of laws, decrees, PDFs, official sources, or public-competition documents;
+- legal references such as `D.Lgs.`, `DPR`, `Legge`, `n.`, dates, or topic labels.
+
+If a relevant request is missing a required detail, ask one short clarification instead of staying silent.
+
+In API contexts that require a text body for silence, output exactly:
+
+```text
+__HERMES_NO_REPLY__
+```
+
 ## Required Local Setup
 
 The ConcorsoBook dashboard must be running locally:
@@ -53,18 +80,23 @@ If Hermes runs in WSL and the dashboard runs on Windows, `127.0.0.1` may not res
 ## Procedure
 
 1. Extract the source URL from the user's message. If there is no URL, extract a precise `query` from the requested document title, law/decree number, year, authority, and topic.
-2. Identify the target chapter.
+2. Identify whether the user supplied one source or multiple sources.
+   - If the user supplied a list, process each source separately and sequentially.
+   - Build one `query` and one clear `title` for each listed item.
+   - Use `--writer false` unless the user explicitly asks to integrate or rewrite a chapter.
+3. Identify the target chapter.
    - If the user gives a full path, use it.
    - If the user gives a slug, normalize it to `books/il-metodo-bando/chapters/<slug>.md`.
-   - If the chapter is missing, ask one short clarification before calling the API.
-3. Infer `sourceType`:
+   - If the chapter is missing and the user only asked to download/import sources, omit `--chapter` and import into the wiki without linking a chapter.
+   - Ask for clarification only when the user explicitly asks to link/integrate/update a chapter but does not say which one.
+4. Infer `sourceType`:
    - `law` for legge, normativa, regolamento unless a more specific type is clear;
    - `decree` for decreto, d.lgs., DPR, DM;
    - `manual`, `article`, `website`, or `transcript` when explicit.
-4. Decide whether to run the writer:
+5. Decide whether to run the writer:
    - default `runWriter=false`;
    - set `runWriter=true` only if the user explicitly asks to integrare, generare, scrivere, or aggiornare the chapter text.
-5. Call the helper script.
+6. Call the helper script.
 
    Preferred command on this Windows/WSL setup when the user did not provide a URL:
 
@@ -99,7 +131,19 @@ node ~/.hermes/skills/concorso-book-os/scripts/import-source.mjs \
   --writer false
 ```
 
-6. Report the result concisely:
+   Bulk example when the user sends a plain list without URLs or chapters:
+
+```bash
+python3 /mnt/c/Users/alber/.hermes/skills/concorso-book-os/scripts/import-source.py \
+  --query "D.Lgs. 30 marzo 2001 n. 165 pubblico impiego testo vigente PDF" \
+  --title "D.Lgs. 30 marzo 2001, n. 165 - pubblico impiego" \
+  --type decree \
+  --writer false
+```
+
+   Repeat one helper call per listed source. After the batch, report a compact summary with imported titles, source paths, and warnings.
+
+7. Report the result concisely:
    - source title;
    - linked chapter;
    - changed files;

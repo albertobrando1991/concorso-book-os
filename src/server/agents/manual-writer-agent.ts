@@ -1,4 +1,5 @@
-import { getHermesConfig, getOpenAiConfig, getWriterConfig } from "../config"
+import { getHermesConfig, getOpenAiConfig, getWriterConfig, type WriterProvider } from "../config"
+import { completeWithClaudeCode } from "../llm/claude-code-adapter"
 import { completeWithCodexCli } from "../llm/codex-cli-adapter"
 import { HermesLlmClient } from "../llm/hermes-adapter"
 import { OpenAiLlmClient } from "../llm/openai-adapter"
@@ -23,6 +24,7 @@ export interface ManualWriterInput {
   chapterPath: string
   instruction: string
   mode: ManualWriterMode
+  provider?: WriterProvider
 }
 
 export interface ManualWriterResult {
@@ -31,7 +33,7 @@ export interface ManualWriterResult {
   changedFiles: string[]
   knowledgeUsed: string[]
   draft: string
-  writerProvider: "codex" | "openai" | "hermes" | "local"
+  writerProvider: "codex" | "claude" | "openai" | "hermes" | "local"
   warnings: string[]
 }
 
@@ -40,6 +42,19 @@ interface KnowledgeItem {
   title: string
   summary: string
 }
+
+const BASE_WRITER_SYSTEM_PROMPT =
+  "Sei Manual Writer Agent di ConcorsoBook OS. Scrivi manuali e libri operativi per concorsi pubblici. Usa solo knowledge consolidata fornita: source notes, topic pages, entity pages. Non citare o usare raw sources direttamente. Scrivi in italiano, stile workbook professionale, chiaro e didattico."
+
+const ITALIAN_EDITORIAL_QUALITY_RULES = [
+  "Regole obbligatorie di qualita' linguistica: scrivi in italiano naturale, corretto e professionale.",
+  "Ogni frase deve avere soggetto, verbo e punteggiatura compiuta; evita frammenti telegrafici e frasi nominali usate come spiegazione.",
+  "Inserisci sempre articoli, preposizioni e connettivi quando l'italiano li richiede: scrivi 'il candidato', 'la commissione', 'un procedimento', 'l'amministrazione', non formule spezzate o appunti.",
+  "Usa virgole, punti, due punti e punti e virgola in modo controllato; non concatenare periodi lunghi senza pause.",
+  "Controlla accenti e apostrofi: e', perche', puo', piu', l'amministrazione, un'istanza. Non produrre testo con caratteri corrotti o parole tronche.",
+  "Spiega prima il concetto, poi la funzione, poi l'uso in prova; il lettore deve capire senza conoscere gia' la materia.",
+  "Prima di restituire il capitolo, fai una revisione interna di chiarezza, articoli, punteggiatura, coerenza e scorrevolezza, senza stampare la checklist."
+].join("\n")
 
 export class ManualWriterAgent {
   constructor(private readonly store: FileWikiStore) {}
@@ -83,6 +98,7 @@ export class ManualWriterAgent {
       title: String(chapter.data.title || input.chapterPath),
       instruction: input.instruction,
       mode: input.mode,
+      provider: input.provider,
       chapterContent,
       structureGuide,
       designGuide,
@@ -169,10 +185,12 @@ export class ManualWriterAgent {
     structureGuide: string
     designGuide: string
     knowledge: KnowledgeItem[]
+    provider?: WriterProvider
   }) {
     const writerConfig = getWriterConfig()
+    const provider = input.provider || writerConfig.provider
 
-    if (writerConfig.provider === "codex") {
+    if (provider === "codex") {
       try {
         const skill = await loadProfessionalWriterSkill()
         const response = await completeWithCodexCli(renderCodexPrompt(input, skill))
@@ -194,7 +212,29 @@ export class ManualWriterAgent {
       }
     }
 
-    if (writerConfig.provider === "hermes") {
+    if (provider === "claude") {
+      try {
+        const skill = await loadProfessionalWriterSkill()
+        const response = await completeWithClaudeCode(renderClaudePrompt(input, skill))
+        const text = response.text.trim()
+
+        if (text && !looksLikeMetaDraft(text)) {
+          return {
+            text,
+            provider: "claude" as const,
+            warnings: response.stderr.trim() ? [`Claude Code stderr: ${trimWords(response.stderr, 40)}`] : []
+          }
+        }
+      } catch (error) {
+        return {
+          text: renderDeterministicDraft(input),
+          provider: "local" as const,
+          warnings: [`Claude Code non disponibile o non autenticato: ${error instanceof Error ? error.message : "errore sconosciuto"}`]
+        }
+      }
+    }
+
+    if (provider === "hermes") {
       const config = getHermesConfig()
 
       if (!config.apiKey) {
@@ -223,7 +263,7 @@ export class ManualWriterAgent {
       }
     }
 
-    if (writerConfig.provider === "local") {
+    if (provider === "local") {
       return {
         text: renderDeterministicDraft(input),
         provider: "local" as const,
@@ -245,8 +285,7 @@ export class ManualWriterAgent {
     const response = await llm.complete([
       {
         role: "system",
-        content:
-          "Sei Manual Writer Agent di ConcorsoBook OS. Scrivi manuali e libri operativi per concorsi pubblici. Usa solo knowledge consolidata fornita: source notes, topic pages, entity pages. Non citare o usare raw sources direttamente. Scrivi in italiano, stile workbook professionale, chiaro e didattico."
+        content: `${BASE_WRITER_SYSTEM_PROMPT}\n\n${ITALIAN_EDITORIAL_QUALITY_RULES}`
       },
       {
         role: "user",
@@ -263,6 +302,8 @@ export class ManualWriterAgent {
           "\nCapitolo esistente e struttura editoriale da rispettare:",
           trimWords(input.chapterContent.replace(/^---[\s\S]*?---/, ""), 900),
           "\nProduci testo pronto per un manuale-workbook professionale. Formato obbligatorio: apertura editoriale, obiettivo, mappa BANDO, spiegazione strutturata, box da sapere in 5 righe, caso guidato, domanda da commissario, domanda-trappola, mini-esercizio, errore tipico, riferimenti consolidati, note di review. Integra la richiesta dell'utente e la conoscenza nuova senza cancellare tracciabilità.",
+          "\nRegole obbligatorie di italiano editoriale:",
+          ITALIAN_EDITORIAL_QUALITY_RULES,
           "Divieto assoluto: non scrivere sezioni meta come 'Aggiornamento generato', 'Istruzione ricevuta', 'Knowledge consolidata', 'questo blocco sviluppa'. Non riassumere le fonti. Scrivi direttamente il capitolo destinato al lettore.",
           "Se il capitolo richiede aggiornamenti web o verifica normativa corrente e le fonti consolidate non bastano, segnala in 'Note di review' quali ricerche web ufficiali servono. Non inventare dati non presenti."
         ].join("\n")
@@ -297,8 +338,7 @@ function renderManualWriterMessages(input: {
   return [
     {
       role: "system" as const,
-      content:
-        "Sei Manual Writer Agent di ConcorsoBook OS. Scrivi manuali e libri operativi per concorsi pubblici. Usa solo knowledge consolidata fornita: source notes, topic pages, entity pages. Non citare o usare raw sources direttamente. Scrivi in italiano, stile workbook professionale, chiaro e didattico."
+      content: `${BASE_WRITER_SYSTEM_PROMPT}\n\n${ITALIAN_EDITORIAL_QUALITY_RULES}`
     },
     {
       role: "user" as const,
@@ -315,6 +355,8 @@ function renderManualWriterMessages(input: {
         "\nCapitolo esistente e struttura editoriale da rispettare:",
         trimWords(input.chapterContent.replace(/^---[\s\S]*?---/, ""), 900),
         "\nProduci testo pronto per un manuale-workbook professionale. Formato obbligatorio: apertura editoriale, obiettivo, mappa BANDO, spiegazione strutturata, box da sapere in 5 righe, caso guidato, domanda da commissario, domanda-trappola, mini-esercizio, errore tipico, riferimenti consolidati, note di review. Integra la richiesta dell'utente e la conoscenza nuova senza cancellare tracciabilita.",
+        "\nRegole obbligatorie di italiano editoriale:",
+        ITALIAN_EDITORIAL_QUALITY_RULES,
         "Divieto assoluto: non scrivere sezioni meta come 'Aggiornamento generato', 'Istruzione ricevuta', 'Knowledge consolidata', 'questo blocco sviluppa'. Non riassumere le fonti. Scrivi direttamente il capitolo destinato al lettore.",
         "Se il capitolo richiede aggiornamenti web o verifica normativa corrente e le fonti consolidate non bastano, segnala in 'Note di review' quali ricerche web ufficiali servono. Non inventare dati non presenti."
       ].join("\n")
@@ -341,6 +383,66 @@ function renderCodexPrompt(input: {
     "Usa esclusivamente la knowledge consolidata fornita qui sotto: source notes, topic pages, entity pages.",
     "La knowledge consolidata del wiki e' il cervello obbligatorio del sistema: struttura madre, source notes, topic pages, entity pages, capitoli esistenti e quiz vengono prima di qualsiasi altra cosa.",
     "Scrivi in italiano, stile manuale-workbook professionale per concorsi pubblici, seguendo il Metodo BANDO.",
+    ITALIAN_EDITORIAL_QUALITY_RULES,
+    "Non devi spiegare che cosa stai facendo. Non devi riassumere il pacchetto conoscenza. Non scrivere 'Aggiornamento generato', 'Istruzione ricevuta', 'Knowledge consolidata', 'questo blocco sviluppa' o formule simili.",
+    "Il testo deve sembrare una pagina reale del libro, rivolta direttamente al lettore.",
+    "La ricerca web serve solo quando il cervello wiki non basta o quando servono aggiornamenti correnti. Dopo la ricerca, i risultati devono diventare source notes consolidate prima di essere trattati come conoscenza stabile.",
+    "Se servono aggiornamenti web, fonti ufficiali o verifica normativa corrente e non sono presenti nel pacchetto conoscenza, aggiungi in 'Note di review' una richiesta puntuale di ricerca web. Non inventare norme, date, soglie o aggiornamenti.",
+    "",
+    `Capitolo target: ${input.title}`,
+    `Modalita: ${input.mode}`,
+    `Istruzione utente: ${input.instruction || "Scrivi una bozza editoriale migliorata."}`,
+    "",
+    "Formato obbligatorio:",
+    "- apertura editoriale;",
+    "- obiettivo;",
+    "- mappa BANDO;",
+    "- spiegazione strutturata;",
+    "- box da sapere in 5 righe;",
+    "- caso guidato;",
+    "- domanda da commissario;",
+    "- domanda-trappola;",
+    "- mini-esercizio;",
+    "- errore tipico;",
+    "- riferimenti consolidati;",
+    "- note di review.",
+    "",
+    "Knowledge consolidata:",
+    ...input.knowledge.map((item) => `\n### ${item.title}\nPath: ${item.path}\n${item.summary}`),
+    "",
+    "## Guida operativa canonica del manuale",
+    trimWords(input.structureGuide.replace(/^---[\s\S]*?---/, ""), 1200),
+    "",
+    "## Design system editoriale canonico",
+    trimWords(input.designGuide.replace(/^---[\s\S]*?---/, ""), 900),
+    "",
+    "## Capitolo esistente e struttura editoriale da rispettare",
+    trimWords(input.chapterContent.replace(/^---[\s\S]*?---/, ""), 1200),
+    "",
+    "Restituisci solo markdown del capitolo, senza premesse operative e senza testo meta."
+  ].join("\n")
+}
+
+function renderClaudePrompt(input: {
+  title: string
+  instruction: string
+  mode: ManualWriterMode
+  chapterContent: string
+  structureGuide: string
+  designGuide: string
+  knowledge: KnowledgeItem[]
+}, skill: string) {
+  return [
+    "Sei Manual Writer Agent di ConcorsoBook OS, eseguito tramite Claude Code locale.",
+    "",
+    "## Skill di progetto caricata",
+    skill || "Skill non trovata: applica comunque le regole di AGENTS.md e del Metodo BANDO.",
+    "",
+    "Devi generare SOLO il markdown da inserire nel capitolo. Non modificare file, non eseguire comandi, non leggere raw sources.",
+    "Usa esclusivamente la knowledge consolidata fornita qui sotto: source notes, topic pages, entity pages.",
+    "La knowledge consolidata del wiki e' il cervello obbligatorio del sistema: struttura madre, source notes, topic pages, entity pages, capitoli esistenti e quiz vengono prima di qualsiasi altra cosa.",
+    "Scrivi in italiano, stile manuale-workbook professionale per concorsi pubblici, seguendo il Metodo BANDO.",
+    ITALIAN_EDITORIAL_QUALITY_RULES,
     "Non devi spiegare che cosa stai facendo. Non devi riassumere il pacchetto conoscenza. Non scrivere 'Aggiornamento generato', 'Istruzione ricevuta', 'Knowledge consolidata', 'questo blocco sviluppa' o formule simili.",
     "Il testo deve sembrare una pagina reale del libro, rivolta direttamente al lettore.",
     "La ricerca web serve solo quando il cervello wiki non basta o quando servono aggiornamenti correnti. Dopo la ricerca, i risultati devono diventare source notes consolidate prima di essere trattati come conoscenza stabile.",

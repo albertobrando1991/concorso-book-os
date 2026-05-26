@@ -1,0 +1,4208 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--@thymesVar id="m" type="it.senato.microservizi.schedeweb.model.leggi.SchedaLeggiPerTipologia"-->
+
+
+    <head>
+        <title>parlamento.it - Leggi costituzionali</title>
+        <link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon"/>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8"/>
+        <meta http-equiv="Content-Script-Type" content="text/javascript"/>
+        <meta name="description" content="Leggi costituzionali"/>
+        <meta name="canale" content="leggi"/>
+        
+        <meta name="dataUpdate" content="2026-05-25"/>
+        <link href="/css/style_parlamento.css" rel="stylesheet" type="text/css"/>
+        <link href="/css/style_parlamento_stampa.css" media="print" rel="stylesheet"
+              type="text/css"/>
+        <script type="text/javascript" src="/js/schede/schedeScript.js"></script>
+        <script src="/javascripts/jquery/jquery-1.5.1.min.js?1403785858" type="text/javascript"></script>
+<script src="/javascripts/jquery/jquery_noconflicts.js?1296649126" type="text/javascript"></script>
+<script src="/javascripts/prototype.js?1302774714" type="text/javascript"></script>
+<script src="/javascripts/builder.js?1302774714" type="text/javascript"></script>
+<script src="/javascripts/effects.js?1302774714" type="text/javascript"></script>
+<script src="/javascripts/dragdrop.js?1302774714" type="text/javascript"></script>
+<script src="/javascripts/controls.js?1302774714" type="text/javascript"></script>
+<script src="/javascripts/slider.js?1302774714" type="text/javascript"></script>
+<script src="/javascripts/lightbox.js?1444302056" type="text/javascript"></script>
+<script src="/javascripts/parlamento_analytics.js?1751383413" type="text/javascript"></script>
+<script src="/javascripts/cookiejar.js?1291303599" type="text/javascript"></script>
+<script src="/javascripts/xmanager_live.js?1372413000" type="text/javascript"></script>
+
+
+
+
+
+<!--[if IE]>
+  <link href="/application/xmanager/projects/parlamento/css/ie.css?1389882953" media="screen" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+        <!-- proprietà aggiuntive della composizione storica -->
+        <meta name="area" />
+        <meta name="legislatura" />
+        <meta name="tipodoc" />
+        <meta name="iddoc" />
+    </head>
+
+<body id="elenchileggi" onload="setPopup();">
+
+        <!-- INIZIO FUORI STAMPA --> 
+<div class="hidden"> 
+	Vai direttamente a: 
+	<a href="#nav">barra di navigazione
+	</a>, 
+	<a href="#content">contenuto della pagina
+	</a>, 
+	<a href="home">Home
+	</a> 
+</div> 
+<!-- FINE FUORI STAMPA --> 
+<div class="header"> 
+	<div class="sxHeader"> 
+		<img src="/projects/parlamento/img/testata/imm_parlamento.gif" alt=""/> 
+	</div> 
+	<div class="logo"> 
+		<h1> 
+			<a href="/"> 
+				<strong>PARLAMENTO
+				</strong> ITALIANO
+			</a> 
+		</h1> 
+	</div> 
+	<div class="dxHeader"> 
+		<img src="/projects/parlamento/img/testata/logo_camera.gif" alt=""/> 
+		<img src="/projects/parlamento/img/testata/logo_senato.gif" alt=""/> 
+	</div> 
+</div> 
+<!-- INIZIO  NAV 1 LIV --> 
+<div class="hidden"> 
+	<h2>Sezioni del sito (navigazione principale)
+	</h2> 
+	<p> 
+		<a href="#navigator">salta il menu di navigazione principale
+		</a> 
+	</p> 
+</div> 
+<!-- fine testata **************************** --> 
+    <div id="tree_menu_7" class="menu_orizzontale">
+
+<ul>
+<li class="Decreti_Legislativi url OnClick"><span><a href="/Parlamento/519" class="Decreti_Legislativi url OnClick">Leggi</a></span></li>
+<li class="Parlamento_Seduta_Comune OnClick"><span><a href="http://parlamento18.camera.it/13" class="Parlamento_Seduta_Comune OnClick">Parlamento in seduta comune</a></span></li>
+<li class="Organismi_Bicamerali url OnClick"><span><a href="/Parlamento/7025?legislatura_numero=19" class="Organismi_Bicamerali url OnClick">Organismi bicamerali</a></span></li>
+<li class="Rapporti_Internazionali url OnClick"><span><a href="/Parlamento/798" class="Rapporti_Internazionali url OnClick">Rapporti internazionali</a></span></li>
+<li class="Polo_Bibliotecario url OnClick"><span><a href="/Parlamento/806" class="Polo_Bibliotecario url OnClick">Polo Bibliotecario</a></span></li>
+</ul>
+<span class="clear"></span>
+</div>
+
+    <div id="free_code_5267">
+<!-- Free Code per le breadcrumbs -->
+<p id="navigator"><span class="headPath"> Sei in: </span>
+
+<a href="/Parlamento/home">Home</a> / <a href="/Parlamento/home_leggi_presentazione">Leggi</a> / <span class="pathOn">Indici delle leggi</span> </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="clear"></span>
+</div>
+
+    <!-- testata per la stampa --> 
+ 
+<div class="headerForPrint"> 
+	<div class="sxHeader"> 
+		<img src="/projects/parlamento/img/testata/emblema_repubblica_stampa.gif" alt=""/> 
+	</div> 
+	<div class="logo"> 
+		<h1> 
+			<a href="/"> 
+				<strong>PARLAMENTO
+				</strong> ITALIANO
+			</a> 
+		</h1> 
+	</div> 
+	<div class="dxHeader"> 
+		<img src="/projects/parlamento/img/testata/logo_camera_stampa.gif" alt=""/> 
+		<img src="/projects/parlamento/img/testata/logo_senato_stampa.gif" alt=""/> 
+	</div> 
+	<br/> 
+</div> 
+<!-- fine testata stampa ******************************* --> 
+<!-- FINE  NAV 1 LIV --> 
+<!-- INIZIO TABELLA CONTENUTO --> 
+<div class="hidden"> 
+	<h2>Navigazione secondaria
+	</h2> 
+	<p> 
+		<a href="#content">salta il menu di navigazione secondario e vai al contenuto della pagina
+		</a> 
+	</p> 
+</div> 
+
+    <!-- FINE TABELLA NAV 1 LIV -->
+
+    <!-- INIZIO TABELLA CONTENUTO -->
+    <div class="sx">
+        <div id="tree_menu_5248" class="menu_sx">
+
+<ul>
+<li class="url OnClick"><span><a href="/Parlamento/519" class="url OnClick">Presentazione</a></span></li>
+<li class="url OnClick"><span><a href="/Parlamento/841" class="url OnClick">Leggi maggiormente richieste</a></span></li>
+<li class="current active_alias_leggi_indici"><span><a href="/leg/ldl_new/v3/sldlelencoordcron.htm" class="current active_alias_leggi_indici">Indici delle leggi</a></span></li>
+<li class="url OnClick"><span><a href="/Parlamento/523?area_tematica=6" class="url OnClick">Leggi per area tematica</a></span></li>
+<li class="active_alias_apprnonpubbl OnClick"><span><a href="/leg/ldl_new/v3/sldlelencoddlappnonpub.htm" class="active_alias_apprnonpubbl OnClick">Progetti di legge approvati non promulgati o pubblicati</a></span></li>
+<li class="active_alias_ultimidl OnClick"><span><a href="/leg/ldl_new/v3/sldlelencodlconvers.htm" class="active_alias_ultimidl OnClick">Ultimi Decreti-Legge esaminati</a></span></li>
+<li class="OnClick"><span><a href="http://parlamento18.camera.it/229" class="OnClick">Decreti legislativi</a></span></li>
+</ul>
+<span class="clear"></span>
+</div>
+
+    </div>
+
+<div class="dx">
+    <div class="top" id="content">
+        <div class="sxSmall">
+            <h1>Leggi costituzionali</h1>
+            <br/>
+            
+
+            <!-- INIZIO CONTENUTO -->
+            
+    <dl class="leggi">
+
+        
+            <dt>
+            
+    <a rel="_blank" href="http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:2026;1">Legge Costituzionale 26 gennaio 2026, n. 1</a>
+    
+
+            </dt>
+            <dd>
+                <p class="titoloLegge">"Modifiche alla legge costituzionale 31 gennaio 1963, n. 1, recante Statuto speciale della Regione Friuli-Venezia Giulia"</p>
+                
+                <!-- ROBERTO INIZIO-->
+
+                
+
+                
+                <!-- ROBERTO FINE-->
+                <strong>Materia:</strong>
+                <span class="materiaLegge">
+                            STATUTI, REGIONI A STATUTO SPECIALE, FRIULI-VENEZIA GIULIA
+                        </span>
+                <br/>
+                
+                    
+    <strong>Pubblicazione:</strong>
+    G.U. n. 32 del 9 febbraio 2026
+    <br/>
+
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+                
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+                
+
+                <div class="iter">
+    <div class="bordoNero">
+        <table width="100%" border="0" cellspacing="2" cellpadding="4"
+               summary="Iter e lavori preparatori">
+            <caption>
+                <strong>Iter e lavori preparatori</strong>
+                <!--p th:utext="*{__${iter.numFase}__}"></p-->
+                <!--p th:utext="${iter.get(0)}"></p-->
+            </caption>
+            <col width="25%"/>
+            <col width="45%"/>
+            <col width="30%"/>
+            <tr valign="top" class="tab2">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=19&amp;id=56760">C.976</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>23 ottobre 2024:<br/>approvato</td>
+            </tr>
+            <tr valign="top" class="tab1">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=19&amp;id=58633">S.1279</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>27 maggio 2025:<br/>approvato</td>
+            </tr>
+            <tr valign="top" class="tab2">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=19&amp;id=59206">C.976-B</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>5 novembre 2025:<br/>approvato</td>
+            </tr>
+            <tr valign="top" class="tab1">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=19&amp;id=59695">S.1279-B</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>21 gennaio 2026:<br/>approvato definitivamente. Legge</td>
+            </tr>
+        </table>
+    </div>
+</div>
+            </dd>
+        
+            <dt>
+            
+    <a rel="_blank" href="http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:2023;1">Legge Costituzionale 26 settembre 2023, n. 1</a>
+    
+
+            </dt>
+            <dd>
+                <p class="titoloLegge">"Modifica all'articolo 33 della Costituzione, in materia di attività sportiva"</p>
+                
+                <!-- ROBERTO INIZIO-->
+
+                
+
+                
+                <!-- ROBERTO FINE-->
+                <strong>Materia:</strong>
+                <span class="materiaLegge">
+                            COSTITUZIONE DELLA REPUBBLICA, SPORT, TUTELA DELLA SALUTE
+                        </span>
+                <br/>
+                
+                    
+    <strong>Pubblicazione:</strong>
+    G.U. n. 235 del 7 ottobre 2023
+    <br/>
+
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+                
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+                
+
+                <div class="iter">
+    <div class="bordoNero">
+        <table width="100%" border="0" cellspacing="2" cellpadding="4"
+               summary="Iter e lavori preparatori">
+            <caption>
+                <strong>Iter e lavori preparatori</strong>
+                <!--p th:utext="*{__${iter.numFase}__}"></p-->
+                <!--p th:utext="${iter.get(0)}"></p-->
+            </caption>
+            <col width="25%"/>
+            <col width="45%"/>
+            <col width="30%"/>
+            <tr valign="top" class="tab2">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=19&amp;id=55189">S.13</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+        assorbe:
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=19&amp;id=55320">S.135</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=19&amp;id=55321">S.152</a>
+        
+    
+
+                    
+    
+
+                </td>
+                <td>13 dicembre 2022:<br/>approvato</td>
+            </tr>
+            <tr valign="top" class="tab1">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=19&amp;id=56319">C.715</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+        assorbe:
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=19&amp;id=55458">C.212</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=19&amp;id=55706">C.337</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=19&amp;id=55826">C.423</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=19&amp;id=56663">C.904</a>
+        
+    
+
+                    
+    
+
+                </td>
+                <td>4 aprile 2023:<br/>approvato</td>
+            </tr>
+            <tr valign="top" class="tab2">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=19&amp;id=56914">S.13-B</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>17 maggio 2023:<br/>approvato</td>
+            </tr>
+            <tr valign="top" class="tab1">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=19&amp;id=57083">C.715-B</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>20 settembre 2023:<br/>approvato definitivamente. Legge</td>
+            </tr>
+        </table>
+    </div>
+</div>
+            </dd>
+        
+            <dt>
+            
+    <a rel="_blank" href="http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:2022;2">Legge Costituzionale 7 novembre 2022, n. 2</a>
+    
+
+            </dt>
+            <dd>
+                <p class="titoloLegge">"Modifica all'articolo 119 della Costituzione, concernente il riconoscimento delle peculiarità delle Isole e il superamento degli svantaggi derivanti dall'insularità"</p>
+                
+                <!-- ROBERTO INIZIO-->
+
+                
+
+                
+                <!-- ROBERTO FINE-->
+                <strong>Materia:</strong>
+                <span class="materiaLegge">
+                            COSTITUZIONE DELLA REPUBBLICA, ISOLE
+                        </span>
+                <br/>
+                
+                    
+    <strong>Pubblicazione:</strong>
+    G.U. n. 267 del 15 novembre 2022
+    <br/>
+
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+                
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+                
+
+                <div class="iter">
+    <div class="bordoNero">
+        <table width="100%" border="0" cellspacing="2" cellpadding="4"
+               summary="Iter e lavori preparatori">
+            <caption>
+                <strong>Iter e lavori preparatori</strong>
+                <!--p th:utext="*{__${iter.numFase}__}"></p-->
+                <!--p th:utext="${iter.get(0)}"></p-->
+            </caption>
+            <col width="25%"/>
+            <col width="45%"/>
+            <col width="30%"/>
+            <tr valign="top" class="tab2">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=18&amp;id=50760">S.865</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>3 novembre 2021:<br/>approvato</td>
+            </tr>
+            <tr valign="top" class="tab1">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=18&amp;id=54546">C.3353</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>30 marzo 2022:<br/>approvato</td>
+            </tr>
+            <tr valign="top" class="tab2">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=18&amp;id=54883">S.865-B</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>27 aprile 2022:<br/>approvato</td>
+            </tr>
+            <tr valign="top" class="tab1">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=18&amp;id=54949">C.3353-B</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>28 luglio 2022:<br/>approvato definitivamente. Legge</td>
+            </tr>
+        </table>
+    </div>
+</div>
+            </dd>
+        
+            <dt>
+            
+    <a rel="_blank" href="http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:2022;1">Legge Costituzionale 11 febbraio 2022, n. 1</a>
+    
+
+            </dt>
+            <dd>
+                <p class="titoloLegge">"Modifiche agli articoli 9 e 41 della Costituzione in materia di tutela dell'ambiente"</p>
+                
+                <!-- ROBERTO INIZIO-->
+
+                
+
+                
+                <!-- ROBERTO FINE-->
+                <strong>Materia:</strong>
+                <span class="materiaLegge">
+                            AMBIENTE, COSTITUZIONE DELLA REPUBBLICA
+                        </span>
+                <br/>
+                
+                    
+    <strong>Pubblicazione:</strong>
+    G.U. n. 44 del 22 febbraio 2022
+    <br/>
+
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+                
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+                
+
+                <div class="iter">
+    <div class="bordoNero">
+        <table width="100%" border="0" cellspacing="2" cellpadding="4"
+               summary="Iter e lavori preparatori">
+            <caption>
+                <strong>Iter e lavori preparatori</strong>
+                <!--p th:utext="*{__${iter.numFase}__}"></p-->
+                <!--p th:utext="${iter.get(0)}"></p-->
+            </caption>
+            <col width="25%"/>
+            <col width="45%"/>
+            <col width="30%"/>
+            <tr valign="top" class="tab2">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=18&amp;id=48678">S.83</a>
+                </td>
+                <td>
+                    
+    
+        T. U. con:
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=18&amp;id=49283">S.212</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=18&amp;id=50930">S.938</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=18&amp;id=51603">S.1203</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=18&amp;id=52348">S.1532</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=18&amp;id=52565">S.1627</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=18&amp;id=52586">S.1632</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=18&amp;id=53870">S.2160</a>
+        
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>9 giugno 2021:<br/>approvato in testo unificato</td>
+            </tr>
+            <tr valign="top" class="tab1">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=18&amp;id=54171">C.3156</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+        assorbe:
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=18&amp;id=48791">C.15</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=18&amp;id=49112">C.143</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=18&amp;id=49029">C.240</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=18&amp;id=52300">C.2124</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=18&amp;id=52346">C.2150</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=18&amp;id=52395">C.2174</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=18&amp;id=52649">C.2315</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=18&amp;id=53611">C.2838</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=18&amp;id=53756">C.2914</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=18&amp;id=54225">C.3181</a>
+        
+    
+
+                    
+    
+
+                </td>
+                <td>12 ottobre 2021:<br/>approvato</td>
+            </tr>
+            <tr valign="top" class="tab2">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=18&amp;id=54475">S.83-212-938-1203-1532-1627-1632-2160-B</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>3 novembre 2021:<br/>approvato</td>
+            </tr>
+            <tr valign="top" class="tab1">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=18&amp;id=54547">C.3156-B</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>8 febbraio 2022:<br/>approvato definitivamente. Legge</td>
+            </tr>
+        </table>
+    </div>
+</div>
+            </dd>
+        
+            <dt>
+            
+    <a rel="_blank" href="http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:2021;1">Legge Costituzionale 18 ottobre 2021, n. 1</a>
+    
+
+            </dt>
+            <dd>
+                <p class="titoloLegge">"Modifica all'articolo 58 della Costituzione, in materia di elettorato per l'elezione del Senato della Repubblica"</p>
+                
+                <!-- ROBERTO INIZIO-->
+
+                
+
+                
+                <!-- ROBERTO FINE-->
+                <strong>Materia:</strong>
+                <span class="materiaLegge">
+                            COSTITUZIONE DELLA REPUBBLICA, ELETTORATO ATTIVO, SENATO DELLA REPUBBLICA
+                        </span>
+                <br/>
+                
+                    
+    <strong>Pubblicazione:</strong>
+    G.U. n. 251 del 20 ottobre 2021
+    <br/>
+
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+                
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+                
+
+                <div class="iter">
+    <div class="bordoNero">
+        <table width="100%" border="0" cellspacing="2" cellpadding="4"
+               summary="Iter e lavori preparatori">
+            <caption>
+                <strong>Iter e lavori preparatori</strong>
+                <!--p th:utext="*{__${iter.numFase}__}"></p-->
+                <!--p th:utext="${iter.get(0)}"></p-->
+            </caption>
+            <col width="25%"/>
+            <col width="45%"/>
+            <col width="30%"/>
+            <tr valign="top" class="tab2">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=18&amp;id=51157">C.1511</a>
+                </td>
+                <td>
+                    
+    
+        T. U. con:
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=18&amp;id=51424">C.1647</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=18&amp;id=51748">C.1826</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=18&amp;id=51844">C.1873</a>
+        
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>31 luglio 2019:<br/>approvato in testo unificato</td>
+            </tr>
+            <tr valign="top" class="tab1">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=18&amp;id=52141">S.1440</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+        assorbe:
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=18&amp;id=49458">S.307</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=18&amp;id=51202">S.1022</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=18&amp;id=51401">S.1116</a>
+        
+    
+
+                    
+    
+
+                </td>
+                <td>9 settembre 2020:<br/>approvato</td>
+            </tr>
+            <tr valign="top" class="tab2">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=18&amp;id=53276">C.1511-1647-1826-1873-B</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>9 giugno 2021:<br/>approvato</td>
+            </tr>
+            <tr valign="top" class="tab1">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=18&amp;id=54167">S.1440-B</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>8 luglio 2021:<br/>approvato definitivamente. Legge</td>
+            </tr>
+        </table>
+    </div>
+</div>
+            </dd>
+        
+            <dt>
+            
+    <a rel="_blank" href="http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:2020;1">Legge Costituzionale 19 ottobre 2020, n. 1</a>
+    
+
+            </dt>
+            <dd>
+                <p class="titoloLegge">"Modifiche agli articoli 56, 57 e 59 della Costituzione in materia di riduzione del numero dei parlamentari"</p>
+                
+                <!-- ROBERTO INIZIO-->
+
+                
+
+                
+                <!-- ROBERTO FINE-->
+                <strong>Materia:</strong>
+                <span class="materiaLegge">
+                            COSTITUZIONE DELLA REPUBBLICA, CAMERA DEI DEPUTATI, SENATO DELLA REPUBBLICA
+                        </span>
+                <br/>
+                
+                    
+    <strong>Pubblicazione:</strong>
+    G.U. n. 261 del 21 ottobre 2020
+    <br/>
+
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+                
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+                
+
+                <div class="iter">
+    <div class="bordoNero">
+        <table width="100%" border="0" cellspacing="2" cellpadding="4"
+               summary="Iter e lavori preparatori">
+            <caption>
+                <strong>Iter e lavori preparatori</strong>
+                <!--p th:utext="*{__${iter.numFase}__}"></p-->
+                <!--p th:utext="${iter.get(0)}"></p-->
+            </caption>
+            <col width="25%"/>
+            <col width="45%"/>
+            <col width="30%"/>
+            <tr valign="top" class="tab2">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=18&amp;id=49285">S.214</a>
+                </td>
+                <td>
+                    
+    
+        T. U. con:
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=18&amp;id=49891">S.515</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=18&amp;id=50605">S.805</a>
+        
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>7 febbraio 2019:<br/>approvato in testo unificato</td>
+            </tr>
+            <tr valign="top" class="tab1">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=18&amp;id=51280">C.1585</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+        assorbe:
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=18&amp;id=50619">C.1172</a>
+        
+    
+
+                    
+    
+
+                </td>
+                <td>9 maggio 2019:<br/>approvato</td>
+            </tr>
+            <tr valign="top" class="tab2">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=18&amp;id=51769">S.214-515-805-B</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>11 luglio 2019:<br/>approvato</td>
+            </tr>
+            <tr valign="top" class="tab1">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=18&amp;id=52051">C.1585-B</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>8 ottobre 2019:<br/>approvato definitivamente. Legge</td>
+            </tr>
+        </table>
+    </div>
+</div>
+            </dd>
+        
+            <dt>
+            
+    <a rel="_blank" href="http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:2017;1">Legge Costituzionale 4 dicembre 2017, n. 1</a>
+    
+
+            </dt>
+            <dd>
+                <p class="titoloLegge">"Modifiche allo statuto speciale per il Trentino-Alto Adige/Südtirol in materia di tutela della minoranza linguistica ladina"</p>
+                
+                <!-- ROBERTO INIZIO-->
+
+                
+
+                
+                <!-- ROBERTO FINE-->
+                <strong>Materia:</strong>
+                <span class="materiaLegge">
+                            MINORANZE LINGUISTICHE, STATUTI, TRENTINO-ALTO ADIGE, COSTITUZIONE DELLA REPUBBLICA, LINGUA LADINA
+                        </span>
+                <br/>
+                
+                    
+    <strong>Pubblicazione:</strong>
+    G.U. n. 291 del 14 dicembre 2017
+    <br/>
+
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+                
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+                
+
+                <div class="iter">
+    <div class="bordoNero">
+        <table width="100%" border="0" cellspacing="2" cellpadding="4"
+               summary="Iter e lavori preparatori">
+            <caption>
+                <strong>Iter e lavori preparatori</strong>
+                <!--p th:utext="*{__${iter.numFase}__}"></p-->
+                <!--p th:utext="${iter.get(0)}"></p-->
+            </caption>
+            <col width="25%"/>
+            <col width="45%"/>
+            <col width="30%"/>
+            <tr valign="top" class="tab2">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=17&amp;id=39584">C.56</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>11 gennaio 2017:<br/>approvato</td>
+            </tr>
+            <tr valign="top" class="tab1">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=17&amp;id=47565">S.2643</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+        assorbe:
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=17&amp;id=39316">S.31</a>
+        
+    
+
+                    
+    
+
+                </td>
+                <td>10 maggio 2017:<br/>approvato con modificazioni</td>
+            </tr>
+            <tr valign="top" class="tab2">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=17&amp;id=48044">C.56-B</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>20 giugno 2017:<br/>approvato</td>
+            </tr>
+            <tr valign="top" class="tab1">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=17&amp;id=48151">S.2643-B</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>4 ottobre 2017:<br/>approvato</td>
+            </tr>
+            <tr valign="top" class="tab2">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=17&amp;id=48362">C.56-D</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>15 novembre 2017:<br/>approvato definitivamente. Legge</td>
+            </tr>
+        </table>
+    </div>
+</div>
+            </dd>
+        
+            <dt>
+            
+    <a rel="_blank" href="http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:2016;1">Legge Costituzionale 28 luglio 2016, n. 1</a>
+    
+
+            </dt>
+            <dd>
+                <p class="titoloLegge">"Modifiche allo Statuto speciale della regione Friuli-Venezia Giulia, di cui alla legge costituzionale 31 gennaio 1963, n. 1, in materia di enti locali, di elettorato passivo alle elezioni regionali e di iniziativa legislativa popolare"</p>
+                
+                <!-- ROBERTO INIZIO-->
+
+                
+
+                
+                <!-- ROBERTO FINE-->
+                <strong>Materia:</strong>
+                <span class="materiaLegge">
+                            COSTITUZIONE DELLA REPUBBLICA, FRIULI-VENEZIA GIULIA, SOPPRESSIONE DI ENTI, PROVINCE, REGIONI A STATUTO SPECIALE
+                        </span>
+                <br/>
+                
+                    
+    <strong>Pubblicazione:</strong>
+    G.U. n. 184 dell'8 agosto 2016
+    <br/>
+
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+                
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+                
+
+                <div class="iter">
+    <div class="bordoNero">
+        <table width="100%" border="0" cellspacing="2" cellpadding="4"
+               summary="Iter e lavori preparatori">
+            <caption>
+                <strong>Iter e lavori preparatori</strong>
+                <!--p th:utext="*{__${iter.numFase}__}"></p-->
+                <!--p th:utext="${iter.get(0)}"></p-->
+            </caption>
+            <col width="25%"/>
+            <col width="45%"/>
+            <col width="30%"/>
+            <tr valign="top" class="tab2">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=17&amp;id=43898">S.1289</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+        assorbe:
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=17&amp;id=39373">S.77</a>
+        
+    
+
+                    
+    
+
+                </td>
+                <td>7 luglio 2015:<br/>approvato</td>
+            </tr>
+            <tr valign="top" class="tab1">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=17&amp;id=45850">C.3224</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+        assorbe:
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=17&amp;id=43911">C.2060</a>
+        
+    
+
+                    
+    
+
+                </td>
+                <td>2 febbraio 2016:<br/>approvato</td>
+            </tr>
+            <tr valign="top" class="tab2">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=17&amp;id=46455">S.1289-B</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>17 maggio 2016:<br/>approvato</td>
+            </tr>
+            <tr valign="top" class="tab1">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=17&amp;id=46920">C.3224-B</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>19 luglio 2016:<br/>approvato definitivamente. Legge</td>
+            </tr>
+        </table>
+    </div>
+</div>
+            </dd>
+        
+            <dt>
+            
+    <a rel="_blank" href="http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:2013;3">Legge Costituzionale 7 febbraio 2013, n. 3</a>
+    
+
+            </dt>
+            <dd>
+                <p class="titoloLegge">"Modifica degli articoli 15 e 16 dello Statuto speciale per la Sardegna, di cui alla legge costituzionale 26 febbraio 1948, n. 3, in materia di composizione ed elezione del Consiglio regionale"</p>
+                
+                <!-- ROBERTO INIZIO-->
+
+                
+
+                
+                <!-- ROBERTO FINE-->
+                <strong>Materia:</strong>
+                <span class="materiaLegge">
+                            COSTITUZIONE DELLA REPUBBLICA, REGIONI A STATUTO SPECIALE, SARDEGNA, CONSIGLI E ASSEMBLEE REGIONALI
+                        </span>
+                <br/>
+                
+                    
+    <strong>Pubblicazione:</strong>
+    G.U. n. 50 del 28 febbraio 2013
+    <br/>
+
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+                
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+                
+
+                <div class="iter">
+    <div class="bordoNero">
+        <table width="100%" border="0" cellspacing="2" cellpadding="4"
+               summary="Iter e lavori preparatori">
+            <caption>
+                <strong>Iter e lavori preparatori</strong>
+                <!--p th:utext="*{__${iter.numFase}__}"></p-->
+                <!--p th:utext="${iter.get(0)}"></p-->
+            </caption>
+            <col width="25%"/>
+            <col width="45%"/>
+            <col width="30%"/>
+            <tr valign="top" class="tab2">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=16&amp;id=37395">S.2923</a>
+                </td>
+                <td>
+                    
+    
+        T. U. con:
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=16&amp;id=37543">S.2991</a>
+        
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>18 aprile 2012:<br/>approvato in testo unificato</td>
+            </tr>
+            <tr valign="top" class="tab1">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=16&amp;id=38285">C.5149</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+        assorbe:
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=16&amp;id=37438">C.4664</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=16&amp;id=37541">C.4711</a>
+        
+    
+
+                    
+    
+
+                </td>
+                <td>3 ottobre 2012:<br/>approvato</td>
+            </tr>
+            <tr valign="top" class="tab2">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=16&amp;id=38894">S.2923-2991-B</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>18 ottobre 2012:<br/>approvato</td>
+            </tr>
+            <tr valign="top" class="tab1">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=16&amp;id=38984">C.5149-B</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>22 gennaio 2013:<br/>approvato definitivamente. Legge</td>
+            </tr>
+        </table>
+    </div>
+</div>
+            </dd>
+        
+            <dt>
+            
+    <a rel="_blank" href="http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:2013;2">Legge Costituzionale 7 febbraio 2013, n. 2</a>
+    
+
+            </dt>
+            <dd>
+                <p class="titoloLegge">"Modifiche all'articolo 3 dello Statuto della Regione siciliana, in materia di riduzione dei deputati dell'Assemblea regionale siciliana. Disposizioni transitorie"</p>
+                
+                <!-- ROBERTO INIZIO-->
+
+                
+
+                
+                <!-- ROBERTO FINE-->
+                <strong>Materia:</strong>
+                <span class="materiaLegge">
+                            COSTITUZIONE DELLA REPUBBLICA, SICILIA, STATUTI, REGIONI A STATUTO SPECIALE, CONSIGLI E ASSEMBLEE REGIONALI, CONSIGLIERI REGIONALI
+                        </span>
+                <br/>
+                
+                    
+    <strong>Pubblicazione:</strong>
+    G.U. n. 41 del 18 febbraio 2013
+    <br/>
+
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+                
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+                
+
+                <div class="iter">
+    <div class="bordoNero">
+        <table width="100%" border="0" cellspacing="2" cellpadding="4"
+               summary="Iter e lavori preparatori">
+            <caption>
+                <strong>Iter e lavori preparatori</strong>
+                <!--p th:utext="*{__${iter.numFase}__}"></p-->
+                <!--p th:utext="${iter.get(0)}"></p-->
+            </caption>
+            <col width="25%"/>
+            <col width="45%"/>
+            <col width="30%"/>
+            <tr valign="top" class="tab2">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=16&amp;id=37773">S.3073</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+        assorbe:
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=16&amp;id=37484">S.2962</a>
+        
+    
+
+                    
+    
+
+                </td>
+                <td>18 aprile 2012:<br/>approvato</td>
+            </tr>
+            <tr valign="top" class="tab1">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=16&amp;id=38286">C.5150</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+        assorbe:
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=16&amp;id=37777">C.4856</a>
+        
+    
+
+                    
+    
+
+                </td>
+                <td>3 ottobre 2012:<br/>approvato</td>
+            </tr>
+            <tr valign="top" class="tab2">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=16&amp;id=38892">S.3073-B</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>18 ottobre 2012:<br/>approvato</td>
+            </tr>
+            <tr valign="top" class="tab1">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=16&amp;id=38985">C.5150-B</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>22 gennaio 2013:<br/>approvato definitivamente. Legge</td>
+            </tr>
+        </table>
+    </div>
+</div>
+            </dd>
+        
+            <dt>
+            
+    <a rel="_blank" href="http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:2013;1">Legge Costituzionale 7 febbraio 2013, n. 1</a>
+    
+
+            </dt>
+            <dd>
+                <p class="titoloLegge">"Modifica dell'articolo 13 dello Statuto speciale della regione Friuli-Venezia Giulia, di cui alla legge costituzionale 31 gennaio 1963, n. 1"</p>
+                
+                <!-- ROBERTO INIZIO-->
+
+                
+
+                
+                <!-- ROBERTO FINE-->
+                <strong>Materia:</strong>
+                <span class="materiaLegge">
+                            COSTITUZIONE DELLA REPUBBLICA, CONSIGLI E ASSEMBLEE REGIONALI, FRIULI-VENEZIA GIULIA
+                        </span>
+                <br/>
+                
+                    
+    <strong>Pubblicazione:</strong>
+    G.U. n. 40 del 16 febbraio 2013
+    <br/>
+
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+                
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+                
+
+                <div class="iter">
+    <div class="bordoNero">
+        <table width="100%" border="0" cellspacing="2" cellpadding="4"
+               summary="Iter e lavori preparatori">
+            <caption>
+                <strong>Iter e lavori preparatori</strong>
+                <!--p th:utext="*{__${iter.numFase}__}"></p-->
+                <!--p th:utext="${iter.get(0)}"></p-->
+            </caption>
+            <col width="25%"/>
+            <col width="45%"/>
+            <col width="30%"/>
+            <tr valign="top" class="tab2">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=16&amp;id=37736">S.3057</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+        assorbe:
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=16&amp;id=37485">S.2963</a>
+        
+    
+
+                    
+    
+
+                </td>
+                <td>18 aprile 2012:<br/>approvato</td>
+            </tr>
+            <tr valign="top" class="tab1">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=16&amp;id=38284">C.5148</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+        assorbe:
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=16&amp;id=37744">C.4834</a>
+        
+    
+
+                    
+    
+
+                </td>
+                <td>3 ottobre 2012:<br/>approvato</td>
+            </tr>
+            <tr valign="top" class="tab2">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=16&amp;id=38893">S.3057-B</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>18 ottobre 2012:<br/>approvato</td>
+            </tr>
+            <tr valign="top" class="tab1">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=16&amp;id=38983">C.5148-B</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>22 gennaio 2013:<br/>approvato definitivamente. Legge</td>
+            </tr>
+        </table>
+    </div>
+</div>
+            </dd>
+        
+            <dt>
+            
+    <a rel="_blank" href="http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:2012;1">Legge Costituzionale 20 aprile 2012, n. 1</a>
+    
+
+            </dt>
+            <dd>
+                <p class="titoloLegge">"Introduzione del principio del pareggio di bilancio nella Carta costituzionale"</p>
+                
+                <!-- ROBERTO INIZIO-->
+
+                
+
+                
+                <!-- ROBERTO FINE-->
+                <strong>Materia:</strong>
+                <span class="materiaLegge">
+                            COSTITUZIONE DELLA REPUBBLICA, FINANZA PUBBLICA
+                        </span>
+                <br/>
+                
+                    
+    <strong>Pubblicazione:</strong>
+    G.U. n. 95 del 23 aprile 2012
+    <br/>
+
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+                
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+                
+
+                <div class="iter">
+    <div class="bordoNero">
+        <table width="100%" border="0" cellspacing="2" cellpadding="4"
+               summary="Iter e lavori preparatori">
+            <caption>
+                <strong>Iter e lavori preparatori</strong>
+                <!--p th:utext="*{__${iter.numFase}__}"></p-->
+                <!--p th:utext="${iter.get(0)}"></p-->
+            </caption>
+            <col width="25%"/>
+            <col width="45%"/>
+            <col width="30%"/>
+            <tr valign="top" class="tab2">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=16&amp;id=36636">C.4205</a>
+                </td>
+                <td>
+                    
+    
+        T. U. con:
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=16&amp;id=37188">C.4525</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=16&amp;id=37189">C.4526</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=16&amp;id=37314">C.4594</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=16&amp;id=37316">C.4596</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=16&amp;id=37327">C.4607</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=16&amp;id=37357">C.4620 (Gov.)</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=16&amp;id=37409">C.4646</a>
+        
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>30 novembre 2011:<br/>approvato in testo unificato</td>
+            </tr>
+            <tr valign="top" class="tab1">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=16&amp;id=37701">S.3047</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+        assorbe:
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=16&amp;id=37182">S.2834</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=16&amp;id=37230">S.2851</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=16&amp;id=37269">S.2871</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=16&amp;id=37279">S.2881</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=16&amp;id=37311">S.2890</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=16&amp;id=37487">S.2965</a>
+        
+    
+
+                    
+    
+
+                </td>
+                <td>15 dicembre 2011:<br/>approvato</td>
+            </tr>
+            <tr valign="top" class="tab2">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=16&amp;id=37760">C.4205-4525-4526-4594-4596-4607-4620-4646-B</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>6 marzo 2012:<br/>approvato</td>
+            </tr>
+            <tr valign="top" class="tab1">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=16&amp;id=38076">S.3047-B</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>17 aprile 2012:<br/>approvato definitivamente. Legge</td>
+            </tr>
+        </table>
+    </div>
+</div>
+            </dd>
+        
+            <dt>
+            
+    <a rel="_blank" href="http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:2007;1">Legge Costituzionale 2 ottobre 2007, n. 1</a>
+    
+
+            </dt>
+            <dd>
+                <p class="titoloLegge">"Modifica all' articolo 27 della Costituzione, concernente l' abolizione della pena di morte"</p>
+                
+                <!-- ROBERTO INIZIO-->
+
+                
+
+                
+                <!-- ROBERTO FINE-->
+                <strong>Materia:</strong>
+                <span class="materiaLegge">
+                            COSTITUZIONE DELLA REPUBBLICA, PENA DI MORTE
+                        </span>
+                <br/>
+                
+                    
+    <strong>Pubblicazione:</strong>
+    G.U. n. 236 del 10 ottobre 2007
+    <br/>
+
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+                
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+                
+
+                <div class="iter">
+    <div class="bordoNero">
+        <table width="100%" border="0" cellspacing="2" cellpadding="4"
+               summary="Iter e lavori preparatori">
+            <caption>
+                <strong>Iter e lavori preparatori</strong>
+                <!--p th:utext="*{__${iter.numFase}__}"></p-->
+                <!--p th:utext="${iter.get(0)}"></p-->
+            </caption>
+            <col width="25%"/>
+            <col width="45%"/>
+            <col width="30%"/>
+            <tr valign="top" class="tab2">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=15&amp;id=24323">C.193</a>
+                </td>
+                <td>
+                    
+    
+        T. U. con:
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=15&amp;id=24971">C.523</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=15&amp;id=25884">C.1175</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=15&amp;id=25972">C.1231</a>
+        
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>10 ottobre 2006:<br/>approvato in testo unificato</td>
+            </tr>
+            <tr valign="top" class="tab1">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=15&amp;id=26938">S.1084</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+        assorbe:
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=15&amp;id=26557">S.925</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=15&amp;id=26940">S.1086</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=15&amp;id=27162">S.1155</a>
+        
+    
+
+                    
+    
+
+                </td>
+                <td>7 marzo 2007:<br/>approvato</td>
+            </tr>
+            <tr valign="top" class="tab2">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=15&amp;id=27811">C.193-523-1175-1231-B</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>2 maggio 2007:<br/>approvato</td>
+            </tr>
+            <tr valign="top" class="tab1">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=15&amp;id=28198">S.1084-B</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>25 settembre 2007:<br/>approvato definitivamente. Legge</td>
+            </tr>
+        </table>
+    </div>
+</div>
+            </dd>
+        
+            <dt>
+            
+    <a rel="_blank" href="http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:2003;1">Legge Costituzionale 30 maggio 2003, n. 1</a>
+    
+
+            </dt>
+            <dd>
+                <p class="titoloLegge">"Modifica dell' articolo 51 della Costituzione"</p>
+                
+                <!-- ROBERTO INIZIO-->
+
+                
+
+                
+                <!-- ROBERTO FINE-->
+                <strong>Materia:</strong>
+                <span class="materiaLegge">
+                            PARITA' TRA SESSI, ELETTORATO PASSIVO, COSTITUZIONE DELLA REPUBBLICA
+                        </span>
+                <br/>
+                
+                    
+    <strong>Pubblicazione:</strong>
+    G.U. n. 134 del 12 giugno 2003
+    <br/>
+
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+                
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+                
+
+                <div class="iter">
+    <div class="bordoNero">
+        <table width="100%" border="0" cellspacing="2" cellpadding="4"
+               summary="Iter e lavori preparatori">
+            <caption>
+                <strong>Iter e lavori preparatori</strong>
+                <!--p th:utext="*{__${iter.numFase}__}"></p-->
+                <!--p th:utext="${iter.get(0)}"></p-->
+            </caption>
+            <col width="25%"/>
+            <col width="45%"/>
+            <col width="30%"/>
+            <tr valign="top" class="tab2">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=14&amp;id=15578">C.1583</a>
+                </td>
+                <td>
+                    
+    
+        T. U. con:
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=14&amp;id=13494">C.61</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=14&amp;id=13734">C.183</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=14&amp;id=13755">C.206</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=14&amp;id=13550">C.303</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=14&amp;id=13653">C.355</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=14&amp;id=13680">C.367</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=14&amp;id=13888">C.404</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=14&amp;id=13957">C.466</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=14&amp;id=15130">C.1313</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=14&amp;id=15131">C.1314</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=14&amp;id=15133">C.1316</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=14&amp;id=15911">C.1799</a>
+        
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>7 marzo 2002:<br/>approvato in testo unificato</td>
+            </tr>
+            <tr valign="top" class="tab1">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=14&amp;id=17072">S.1213</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+        assorbe:
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=14&amp;id=13352">S.10</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=14&amp;id=15107">S.467</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=14&amp;id=17116">S.1229</a>
+        
+    
+
+                    
+    
+
+                </td>
+                <td>29 maggio 2002:<br/>approvato</td>
+            </tr>
+            <tr valign="top" class="tab2">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=14&amp;id=17659">C.1583-B</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>3 luglio 2002:<br/>approvato</td>
+            </tr>
+            <tr valign="top" class="tab1">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=14&amp;id=17907">S.1213-B</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>20 febbraio 2003:<br/>approvato definitivamente. Legge</td>
+            </tr>
+        </table>
+    </div>
+</div>
+            </dd>
+        
+            <dt>
+            
+    <a rel="_blank" href="http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:2002;1">Legge Costituzionale 23 ottobre 2002, n. 1</a>
+    
+
+            </dt>
+            <dd>
+                <p class="titoloLegge">"Legge costituzionale per la cessazione degli effetti dei commi primo e secondo della XIII disposizione transitoria e finale della Costituzione"</p>
+                
+                <!-- ROBERTO INIZIO-->
+
+                
+
+                
+                <!-- ROBERTO FINE-->
+                <strong>Materia:</strong>
+                <span class="materiaLegge">
+                            ABROGAZIONE DI NORME, CASA SAVOIA, COSTITUZIONE DELLA REPUBBLICA
+                        </span>
+                <br/>
+                
+                    
+    <strong>Pubblicazione:</strong>
+    G.U. n. 252 del 26 ottobre 2002
+    <br/>
+
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+                
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+                
+
+                <div class="iter">
+    <div class="bordoNero">
+        <table width="100%" border="0" cellspacing="2" cellpadding="4"
+               summary="Iter e lavori preparatori">
+            <caption>
+                <strong>Iter e lavori preparatori</strong>
+                <!--p th:utext="*{__${iter.numFase}__}"></p-->
+                <!--p th:utext="${iter.get(0)}"></p-->
+            </caption>
+            <col width="25%"/>
+            <col width="45%"/>
+            <col width="30%"/>
+            <tr valign="top" class="tab2">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=14&amp;id=13793">S.77</a>
+                </td>
+                <td>
+                    
+    
+        T. U. con:
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=14&amp;id=14517">S.277</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=14&amp;id=14920">S.401</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=14&amp;id=14993">S.417</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=14&amp;id=15030">S.431</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=14&amp;id=15200">S.507</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=14&amp;id=15662">S.674</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=14&amp;id=15748">S.715</a>
+        
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>5 febbraio 2002:<br/>approvato in testo unificato</td>
+            </tr>
+            <tr valign="top" class="tab1">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=14&amp;id=16826">C.2288</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+        assorbe:
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=14&amp;id=13735">C.184</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=14&amp;id=13672">C.363</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=14&amp;id=13960">C.465</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=14&amp;id=14059">C.783</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=14&amp;id=14390">C.876</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=14&amp;id=14900">C.1166</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=14&amp;id=15065">C.1256</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=14&amp;id=15103">C.1294</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=14&amp;id=15337">C.1439</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=14&amp;id=15551">C.1575</a>
+        
+    
+
+                    
+    
+
+                </td>
+                <td>10 aprile 2002:<br/>approvato</td>
+            </tr>
+            <tr valign="top" class="tab2">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=14&amp;id=17316">S.77-277-401-417-431-507-674-715-B</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>15 maggio 2002:<br/>approvato</td>
+            </tr>
+            <tr valign="top" class="tab1">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=14&amp;id=17575">C.2288-B</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>11 luglio 2002:<br/>approvato definitivamente. Legge</td>
+            </tr>
+        </table>
+    </div>
+</div>
+            </dd>
+        
+            <dt>
+            
+    <a rel="_blank" href="http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:2001;3">Legge Costituzionale 18 ottobre 2001, n. 3</a>
+    
+
+            </dt>
+            <dd>
+                <p class="titoloLegge">"Modifiche al titolo V della parte seconda della Costituzione"</p>
+                
+                <!-- ROBERTO INIZIO-->
+
+                
+
+                
+                <!-- ROBERTO FINE-->
+                <strong>Materia:</strong>
+                <span class="materiaLegge">
+                            RAPPORTI TRA STATO E REGIONI, COSTITUZIONE DELLA REPUBBLICA, FEDERALISMO, REGIONI PROVINCE E COMUNI, CITTA' E AREE METROPOLITANE, AUTONOMIA AMMINISTRATIVA PATRIMONIALE E CONTABILE, ORDINAMENTO DELLA REPUBBLICA
+                        </span>
+                <br/>
+                
+                    
+    <strong>Pubblicazione:</strong>
+    G.U. n. 248 del 24 ottobre 2001
+    <br/>
+
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+                
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+                
+
+                <div class="iter">
+    <div class="bordoNero">
+        <table width="100%" border="0" cellspacing="2" cellpadding="4"
+               summary="Iter e lavori preparatori">
+            <caption>
+                <strong>Iter e lavori preparatori</strong>
+                <!--p th:utext="*{__${iter.numFase}__}"></p-->
+                <!--p th:utext="${iter.get(0)}"></p-->
+            </caption>
+            <col width="25%"/>
+            <col width="45%"/>
+            <col width="30%"/>
+            <tr valign="top" class="tab2">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=4655">C.4462</a>
+                </td>
+                <td>
+                    
+    
+        T. U. con:
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=5150">C.4995</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=5173">C.5017</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=5190">C.5036</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=5315">C.5181</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=5601">C.5467</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=5809">C.5671</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=5832">C.5695</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=5964">C.5830 (Gov.)</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=5990">C.5856</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=6007">C.5874</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=6021">C.5888</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=6051">C.5918</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=6052">C.5919</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=6080">C.5947</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=6081">C.5948</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=6082">C.5949</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=6171">C.6044</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=6421">C.6327</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=6470">C.6376</a>
+        
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>26 settembre 2000:<br/>approvato in testo unificato</td>
+            </tr>
+            <tr valign="top" class="tab1">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=12580">S.4809</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+        assorbe:
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=10616">S.3632</a>
+        
+    
+
+                    
+    
+
+                </td>
+                <td>17 novembre 2000:<br/>approvato</td>
+            </tr>
+            <tr valign="top" class="tab2">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=12844">C.4462-B</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>28 febbraio 2001:<br/>approvato</td>
+            </tr>
+            <tr valign="top" class="tab1">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=13229">S.4809-B</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>8 marzo 2001:<br/>approvato definitivamente. Legge</td>
+            </tr>
+        </table>
+    </div>
+</div>
+            </dd>
+        
+            <dt>
+            
+    <a rel="_blank" href="http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:2001;2">Legge Costituzionale 31 gennaio 2001, n. 2</a>
+    
+
+            </dt>
+            <dd>
+                <p class="titoloLegge">"Disposizioni concernenti l' elezione diretta dei Presidenti delle Regioni a Statuto speciale e delle Province autonome di Trento e di Bolzano"</p>
+                
+                <!-- ROBERTO INIZIO-->
+
+                
+
+                
+                <!-- ROBERTO FINE-->
+                <strong>Materia:</strong>
+                <span class="materiaLegge">
+                            COSTITUZIONE DELLA REPUBBLICA, ELEZIONI REGIONALI, REGIONI A STATUTO SPECIALE, PROVINCE AUTONOME, PRESIDENTE DELLA GIUNTA REGIONALE, ELEZIONI DIRETTE
+                        </span>
+                <br/>
+                
+                    
+    <strong>Pubblicazione:</strong>
+    G.U. n. 26 del 1 febbraio 2001
+    <br/>
+
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+                
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+    <strong>Testo ripubblicato:</strong>
+    G.U. n. 47 del 26 febbraio 2001 (suppl.ord.)
+    <br/>
+
+                
+                
+                    
+                
+
+                <div class="iter">
+    <div class="bordoNero">
+        <table width="100%" border="0" cellspacing="2" cellpadding="4"
+               summary="Iter e lavori preparatori">
+            <caption>
+                <strong>Iter e lavori preparatori</strong>
+                <!--p th:utext="*{__${iter.numFase}__}"></p-->
+                <!--p th:utext="${iter.get(0)}"></p-->
+            </caption>
+            <col width="25%"/>
+            <col width="45%"/>
+            <col width="30%"/>
+            <tr valign="top" class="tab2">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=179">C.168</a>
+                </td>
+                <td>
+                    
+    
+        T. U. con:
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=245">C.226</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=1461">C.1359</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=1725">C.1605</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=2165">C.2003</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=3185">C.2951</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=3298">C.3057</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=3548">C.3327</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=3850">C.3644</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=4135">C.3932</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=4797">C.4601</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=5552">C.5406</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=5602">C.5468</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=5603">C.5469</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=5604">C.5470</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=5605">C.5471</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=5606">C.5472</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=5699">C.5561</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=5755">C.5615</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=5847">C.5710</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=6024">C.5892</a>
+        
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>25 novembre 1999:<br/>approvato in testo unificato</td>
+            </tr>
+            <tr valign="top" class="tab1">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=11340">S.4368</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+        assorbe:
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=8212">S.1392</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=9584">S.2690</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=10114">S.3163</a>
+        
+    
+
+                    
+    
+
+                </td>
+                <td>22 giugno 2000:<br/>approvato con modificazioni</td>
+            </tr>
+            <tr valign="top" class="tab2">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=12278">C.168-B</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>19 luglio 2000:<br/>approvato</td>
+            </tr>
+            <tr valign="top" class="tab1">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=12430">S.4368-B</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>5 ottobre 2000:<br/>approvato</td>
+            </tr>
+            <tr valign="top" class="tab2">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=12649">C.168-D</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>25 ottobre 2000:<br/>approvato definitivamente. Legge</td>
+            </tr>
+        </table>
+    </div>
+</div>
+            </dd>
+        
+            <dt>
+            
+    <a rel="_blank" href="http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:2001;1">Legge Costituzionale 23 gennaio 2001, n. 1</a>
+    
+
+            </dt>
+            <dd>
+                <p class="titoloLegge">"Modifiche agli articoli 56 e 57 della Costituzione concernenti il numero di deputati e senatori in rappresentanza degli italiani all'estero"</p>
+                
+                <!-- ROBERTO INIZIO-->
+
+                
+
+                
+                <!-- ROBERTO FINE-->
+                <strong>Materia:</strong>
+                <span class="materiaLegge">
+                            COSTITUZIONE DELLA REPUBBLICA, ITALIANI RESIDENTI ALL'ESTERO, RIPARTIZIONE DI SEGGI, ELEZIONI POLITICHE
+                        </span>
+                <br/>
+                
+                    
+    <strong>Pubblicazione:</strong>
+    G.U. n. 19 del 24 gennaio 2001
+    <br/>
+
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+                
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+                
+
+                <div class="iter">
+    <div class="bordoNero">
+        <table width="100%" border="0" cellspacing="2" cellpadding="4"
+               summary="Iter e lavori preparatori">
+            <caption>
+                <strong>Iter e lavori preparatori</strong>
+                <!--p th:utext="*{__${iter.numFase}__}"></p-->
+                <!--p th:utext="${iter.get(0)}"></p-->
+            </caption>
+            <col width="25%"/>
+            <col width="45%"/>
+            <col width="30%"/>
+            <tr valign="top" class="tab2">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=5131">C.4979</a>
+                </td>
+                <td>
+                    
+    
+        T. U. con:
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=5324">C.5187</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=5871">C.5733</a>
+        
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>7 marzo 2000:<br/>approvato in testo unificato</td>
+            </tr>
+            <tr valign="top" class="tab1">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=11775">S.4518</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>28 giugno 2000:<br/>approvato con modificazioni</td>
+            </tr>
+            <tr valign="top" class="tab2">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=12293">C.4979-B</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>12 luglio 2000:<br/>approvato</td>
+            </tr>
+            <tr valign="top" class="tab1">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=12416">S.4518-B</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>5 ottobre 2000:<br/>approvato</td>
+            </tr>
+            <tr valign="top" class="tab2">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=12650">C.4979-D</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>18 ottobre 2000:<br/>approvato definitivamente. Legge</td>
+            </tr>
+        </table>
+    </div>
+</div>
+            </dd>
+        
+            <dt>
+            
+    <a rel="_blank" href="http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:2000;1">Legge Costituzionale 17 gennaio 2000, n. 1</a>
+    
+
+            </dt>
+            <dd>
+                <p class="titoloLegge">"Modifica all' articolo 48 della Costituzione concernente l' istituzione della circoscrizione Estero per l' esercizio del diritto di voto dei cittadini italiani residenti all' estero"</p>
+                
+                <!-- ROBERTO INIZIO-->
+
+                
+
+                
+                <!-- ROBERTO FINE-->
+                <strong>Materia:</strong>
+                <span class="materiaLegge">
+                            COSTITUZIONE DELLA REPUBBLICA, VOTO ALL' ESTERO
+                        </span>
+                <br/>
+                
+                    
+    <strong>Pubblicazione:</strong>
+    G.U. n. 15 del 20 gennaio 2000
+    <br/>
+
+                
+                
+                    
+    <strong>Rettifica:</strong>
+    G.U. n. 18 del 24 gennaio 2000
+    <br/>
+
+                
+                
+                    
+    <strong>Seconda rettifica:</strong>
+    G.U. n. 25 del 1 febbraio 2000
+    <br/>
+
+                
+                
+                    
+    <strong>Terza rettifica:</strong>
+    G.U. n. 78 del 3 aprile 2000
+    <br/>
+
+                
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+                
+
+                <div class="iter">
+    <div class="bordoNero">
+        <table width="100%" border="0" cellspacing="2" cellpadding="4"
+               summary="Iter e lavori preparatori">
+            <caption>
+                <strong>Iter e lavori preparatori</strong>
+                <!--p th:utext="*{__${iter.numFase}__}"></p-->
+                <!--p th:utext="${iter.get(0)}"></p-->
+            </caption>
+            <col width="25%"/>
+            <col width="45%"/>
+            <col width="30%"/>
+            <tr valign="top" class="tab2">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=5320">C.5186</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>24 febbraio 1999:<br/>approvato</td>
+            </tr>
+            <tr valign="top" class="tab1">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=5321">S.3841</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+        assorbe:
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=10470">S.3494</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=10474">S.3501</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=10525">S.3548</a>
+        
+    
+
+                    
+    
+
+                </td>
+                <td>28 aprile 1999:<br/>approvato</td>
+            </tr>
+            <tr valign="top" class="tab2">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=5322">C.5186-B</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>30 giugno 1999:<br/>approvato</td>
+            </tr>
+            <tr valign="top" class="tab1">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=5323">S.3841-B</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>29 settembre 1999:<br/>approvato definitivamente. Legge</td>
+            </tr>
+        </table>
+    </div>
+</div>
+            </dd>
+        
+            <dt>
+            
+    <a rel="_blank" href="http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1999;2">Legge Costituzionale 23 novembre 1999, n. 2</a>
+    
+
+            </dt>
+            <dd>
+                <p class="titoloLegge">"Inserimento dei principi del giusto processo nell' articolo 111 della Costituzione"</p>
+                
+                <!-- ROBERTO INIZIO-->
+
+                
+
+                
+                <!-- ROBERTO FINE-->
+                <strong>Materia:</strong>
+                <span class="materiaLegge">
+                            COSTITUZIONE DELLA REPUBBLICA, PROCESSO CIVILE, PROCESSO PENALE, EGUAGLIANZA
+                        </span>
+                <br/>
+                
+                    
+    <strong>Pubblicazione:</strong>
+    G.U. n. 300 del 23 dicembre 1999
+    <br/>
+
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+                
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+                
+
+                <div class="iter">
+    <div class="bordoNero">
+        <table width="100%" border="0" cellspacing="2" cellpadding="4"
+               summary="Iter e lavori preparatori">
+            <caption>
+                <strong>Iter e lavori preparatori</strong>
+                <!--p th:utext="*{__${iter.numFase}__}"></p-->
+                <!--p th:utext="${iter.get(0)}"></p-->
+            </caption>
+            <col width="25%"/>
+            <col width="45%"/>
+            <col width="30%"/>
+            <tr valign="top" class="tab2">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=10600">S.3619</a>
+                </td>
+                <td>
+                    
+    
+        T. U. con:
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=10607">S.3623</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=10614">S.3630</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=10621">S.3638</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=10650">S.3665</a>
+        
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>24 febbraio 1999:<br/>approvato in testo unificato</td>
+            </tr>
+            <tr valign="top" class="tab1">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=10601">C.5735</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+        assorbe:
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=5498">C.5359</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=5511">C.5370</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=5518">C.5377</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=5589">C.5443</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=5609">C.5475</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=5833">C.5696</a>
+        
+    
+
+                    
+    
+
+                </td>
+                <td>27 luglio 1999:<br/>approvato</td>
+            </tr>
+            <tr valign="top" class="tab2">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=10602">S.3619-3623-3630-3638-3665-B</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>29 settembre 1999:<br/>approvato</td>
+            </tr>
+            <tr valign="top" class="tab1">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=10603">C.5735-B</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>10 novembre 1999:<br/>approvato definitivamente. Legge</td>
+            </tr>
+        </table>
+    </div>
+</div>
+            </dd>
+        
+            <dt>
+            
+    <a rel="_blank" href="http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1999;1">Legge Costituzionale 22 novembre 1999, n. 1</a>
+    
+
+            </dt>
+            <dd>
+                <p class="titoloLegge">"Disposizioni concernenti l' elezione diretta del Presidente della Giunta regionale e l' autonomia statutaria delle Regioni"</p>
+                
+                <!-- ROBERTO INIZIO-->
+
+                
+
+                
+                <!-- ROBERTO FINE-->
+                <strong>Materia:</strong>
+                <span class="materiaLegge">
+                            PRESIDENTE DELLA GIUNTA REGIONALE, ELEZIONI DIRETTE, COSTITUZIONE DELLA REPUBBLICA, CONSIGLI E ASSEMBLEE REGIONALI
+                        </span>
+                <br/>
+                
+                    
+    <strong>Pubblicazione:</strong>
+    G.U. n. 299 del 22 dicembre 1999
+    <br/>
+
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+                
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+                
+
+                <div class="iter">
+    <div class="bordoNero">
+        <table width="100%" border="0" cellspacing="2" cellpadding="4"
+               summary="Iter e lavori preparatori">
+            <caption>
+                <strong>Iter e lavori preparatori</strong>
+                <!--p th:utext="*{__${iter.numFase}__}"></p-->
+                <!--p th:utext="${iter.get(0)}"></p-->
+            </caption>
+            <col width="25%"/>
+            <col width="45%"/>
+            <col width="30%"/>
+            <tr valign="top" class="tab2">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=5532">C.5389</a>
+                </td>
+                <td>
+                    
+    
+        T. U. con:
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=5607">C.5473</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=5635">C.5500</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=5705">C.5567</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=5724">C.5587</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=5766">C.5623</a>
+        
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>2 marzo 1999:<br/>approvato in testo unificato</td>
+            </tr>
+            <tr valign="top" class="tab1">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=5533">S.3859</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+        assorbe:
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=10835">S.3853</a>
+        
+    
+
+                    
+    
+
+                </td>
+                <td>23 giugno 1999:<br/>approvato con modificazioni</td>
+            </tr>
+            <tr valign="top" class="tab2">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=5534">C.5389-B</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>28 luglio 1999:<br/>approvato con modificazioni</td>
+            </tr>
+            <tr valign="top" class="tab1">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=5535">S.3859-B</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>29 luglio 1999:<br/>approvato</td>
+            </tr>
+            <tr valign="top" class="tab2">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=5536">C.5389-D</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>10 novembre 1999:<br/>approvato</td>
+            </tr>
+            <tr valign="top" class="tab1">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=5537">S.3859-D</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>12 novembre 1999:<br/>approvato definitivamente. Legge</td>
+            </tr>
+        </table>
+    </div>
+</div>
+            </dd>
+        
+            <dt>
+            
+    <a rel="_blank" href="http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1997;1">Legge Costituzionale 24 gennaio 1997, n. 1</a>
+    
+
+            </dt>
+            <dd>
+                <p class="titoloLegge">"Istituzione di una Commissione parlamentare per le riforme costituzionali"</p>
+                
+                <!-- ROBERTO INIZIO-->
+
+                
+
+                
+                <!-- ROBERTO FINE-->
+                <strong>Materia:</strong>
+                <span class="materiaLegge">
+                            COSTITUZIONE DELLA REPUBBLICA, COMMISSIONI BICAMERALI, ORDINAMENTO DELLA REPUBBLICA
+                        </span>
+                <br/>
+                
+                    
+    <strong>Pubblicazione:</strong>
+    G.U. n. 22 del 28 gennaio 1997
+    <br/>
+
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+                
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+                
+
+                <div class="iter">
+    <div class="bordoNero">
+        <table width="100%" border="0" cellspacing="2" cellpadding="4"
+               summary="Iter e lavori preparatori">
+            <caption>
+                <strong>Iter e lavori preparatori</strong>
+                <!--p th:utext="*{__${iter.numFase}__}"></p-->
+                <!--p th:utext="${iter.get(0)}"></p-->
+            </caption>
+            <col width="25%"/>
+            <col width="45%"/>
+            <col width="30%"/>
+            <tr valign="top" class="tab2">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=7861">S.1076</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>30 luglio 1996:<br/>approvato</td>
+            </tr>
+            <tr valign="top" class="tab1">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=7862">C.2050</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+        assorbe:
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=2124">C.1963</a>, 
+        
+            <a class="sddl"
+               rel="schedaweb"
+               href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=2149">C.1987</a>
+        
+    
+
+                    
+    
+
+                </td>
+                <td>2 agosto 1996:<br/>approvato</td>
+            </tr>
+            <tr valign="top" class="tab2">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=7863">S.1076-B</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>16 gennaio 1997:<br/>approvato</td>
+            </tr>
+            <tr valign="top" class="tab1">
+                <td>
+                    <a class="sddl"
+                       rel="schedaweb" href="/loc/link.asp?tipodoc=sddliter&amp;leg=13&amp;id=7864">C.2050-B</a>
+                </td>
+                <td>
+                    
+    
+
+                    
+    
+
+                    
+    
+
+                </td>
+                <td>22 gennaio 1997:<br/>approvato definitivamente. Legge</td>
+            </tr>
+        </table>
+    </div>
+</div>
+            </dd>
+        
+
+    </dl>
+
+
+        </div><!-- sxSmall -->
+        <div class="dxSmall">
+            
+
+    <!-- INIZIO BOX SPALLA ******************************** -->
+        <!-- INIZIO BOX STAMPA -->
+        <!-- INIZIO FUORI STAMPA -->
+        <h2 class="titBoxColDx">Scelta dell'elenco</h2>
+        <div class="divBoxColDx">
+
+            <form action="/loc/link.asp?" method="get">
+                <input type="hidden" name="tipodoc" value="IndiceLeggi"/>
+                <input type="hidden" name="versione" value="3"/>
+                <input type="hidden" name="mese" value="01"/>
+
+                <fieldset>
+
+                    <label for="sceltaAnno"><strong>Anno</strong></label>
+                    <p>
+                        <select name="anno" id="sceltaAnno">
+                            <option>2026</option>
+                            <option>2025</option>
+                            <option>2024</option>
+                            <option>2023</option>
+                            <option>2022</option>
+                            <option>2021</option>
+                            <option>2020</option>
+                            <option>2019</option>
+                            <option>2018</option>
+                            <option>2017</option>
+                            <option>2016</option>
+                            <option>2015</option>
+                            <option>2014</option>
+                            <option>2013</option>
+                            <option>2012</option>
+                            <option>2011</option>
+                            <option>2010</option>
+                            <option>2009</option>
+                            <option>2008</option>
+                            <option>2007</option>
+                            <option>2006</option>
+                            <option>2005</option>
+                            <option>2004</option>
+                            <option>2003</option>
+                            <option>2002</option>
+                            <option>2001</option>
+                            <option>2000</option>
+                            <option>1999</option>
+                            <option>1998</option>
+                            <option>1997</option>
+                            <option>1996</option>
+                        </select>
+                    </p>
+
+                    <p>
+                        <input type="radio" id="ECrono" value="ElencoMensile" name="tipo" onClick="javascript:document.getElementById('sceltaElenco').disabled=true"/> <label
+                            for="ECrono">Elenco cronologico generale</label>
+                        <br/>
+                        <input type="radio" id="ETipo" value="ElencoTipologia" name="tipo" onClick="javascript:document.getElementById('sceltaElenco').disabled=false" checked="checked"/> <label
+                            for="ETipo">Elenco per tipologia</label>
+                    </p>
+
+                    <p>
+                        <label for="sceltaElenco"><strong>Tipologia</strong></label>
+                        <br/><span class="annotazione">(se diversa da cronologico generale)</span>
+                    </p>
+                    <p>
+                        <select name="tipologia" id="sceltaElenco">
+                            <option value="2" selected="selected">Leggi Costituzionali</option>
+                            <option value="3">Di Bilancio</option>
+                            <option value="4">Di Conversione di D-L</option>
+                            <option value="5">Ratifica di Trattati</option>
+                            <option value="6">Delega al Governo</option>
+                            <option value="7">Altre leggi ordinarie</option>
+                        </select>
+                    </p>
+                    <div><br/></div>
+
+                    <button name="cerca" type="submit" value="MostraElenco">&lt;&lt; Mostra elenco</button>
+                </fieldset>
+            </form>
+            <br/>
+        </div>    <!-- FINE FUORI STAMPA -->
+    <!-- FINE  SPALLA **************************************** -->
+
+
+        </div>
+    </div>    <!-- content -->
+</div>    <!-- col dx -->
+
+    <!-- INIZIO TABELLA FOOTER -->
+    <!--	<h2 class="hidden">Link ai due rami del Parlamento</h2> -->
+	<div id="footer">
+		<div class="bordino">
+        <br />	</div>
+	</div>	
+
+
+    <!-- FINE TABELLA FOOTER -->
+
+</body>
+</html>

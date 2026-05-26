@@ -8,30 +8,30 @@ topics: ["studio concorsi","tipologie concorsi","metodo bando"]
 entities: ["Metodo BANDO","inPA"]
 source_refs: ["sources/struttura-madre-il-metodo-bando.md","sources/metodo-bando-progetto-editoriale.md"]
 book_refs: ["il-metodo-bando"]
-confidence: 0.88
-updated_at: "2026-05-10T13:16:00+02:00"
+confidence: 0.9
+updated_at: "2026-05-25T15:10:00Z"
 created_at: "2026-05-10T11:45:00+02:00"
 review_required: true
 canonical: true
-tags: ["book-chapter","part-1"]
+tags: ["book-chapter","part-1","editorial-review"]
 book_id: il-metodo-bando
 outline_section: 1
-draft_stage: editorial-draft
+draft_stage: reviewed-editorial-draft
 last_compiled_from: ["sources/struttura-madre-il-metodo-bando.md","topics/metodo-bando.md"]
-last_manual_writer_run: "2026-05-10T13:16:00+02:00"
+last_editorial_review: "2026-05-25T15:10:00Z"
 ---
 
 # Il nuovo candidato pubblico
 
 ## Obiettivo didattico
-Far capire che oggi il candidato vincente non accumula materiali, ma sa orientarsi, selezionare, pianificare e allenarsi.
+Far capire al lettore che oggi non basta studiare molto: bisogna leggere il concorso, scegliere le priorità, allenare il tipo di prova e trasformare gli errori in metodo.
 
 ## Specifica struttura madre
 - Come sono cambiati i concorsi pubblici.
-- Perche molti candidati studiano tanto ma male.
+- Perché molti candidati studiano tanto ma male.
 - Tipologie: esami, titoli ed esami, preselettiva, scritto unico, teorico-pratica, orale, titoli, prove digitali.
 - Aree di accesso: operatori, assistenti/istruttori, funzionari, elevate qualificazioni, dirigenti e carriere speciali.
-- Differenze tra concorsi comunali, ministeriali, agenzie fiscali, sanita amministrativa, scuola/universita, tecnici e polizia locale.
+- Differenze tra concorsi comunali, ministeriali, agenzie fiscali, sanità amministrativa, scuola/università, tecnici e polizia locale.
 - Errori comuni: troppi manuali, quiz prima del bando, materie non gerarchizzate, assenza simulazioni, errori non tracciati.
 
 ## Strumenti da inserire
@@ -40,143 +40,153 @@ Box errore tipico, box candidato principiante vs strategico, mini-test "Che tipo
 ## Testo editoriale
 
 ### Apertura editoriale
-Il candidato pubblico di oggi non è più soltanto una persona che studia molte pagine. È una persona che deve orientarsi tra bandi, profili professionali, prove digitali, quiz a tempo, casi pratici, colloqui orali, titoli valutabili e materie che cambiano da concorso a concorso.
 
-Questo non significa che vinca chi ha più materiali. Spesso accade il contrario: chi accumula manuali, corsi, file e quiz senza una strategia rischia di disperdere energie. Il candidato efficace non parte dalla domanda "che libro compro?", ma da una domanda più utile: "che concorso sto preparando e che cosa mi chiederà davvero la prova?".
+Il candidato pubblico di oggi non è più soltanto una persona che studia molte pagine. È una persona che deve prendere decisioni: quale concorso scegliere, quali materie mettere al centro, quali prove allenare, quali materiali scartare e quali errori correggere prima che diventino abitudini.
 
-Il nuovo candidato pubblico deve diventare strategico. Deve saper leggere un bando, riconoscere il profilo, capire le prove, scegliere le priorità, allenare gli output e correggere gli errori. La memoria serve, ma non basta. Serve metodo.
+Questa è la prima differenza rispetto alla preparazione tradizionale. Molti manuali partono dalle materie. Questo libro parte dal candidato davanti al bando. Prima ancora di studiare diritto amministrativo, Costituzione, pubblico impiego o logica, devi capire che tipo di gara stai affrontando e che tipo di prestazione ti verrà richiesta.
+
+Un concorso non premia chi possiede più file. Premia chi riesce a trasformare tempo limitato, informazioni ufficiali e studio in una risposta corretta nel momento giusto. Il nuovo candidato pubblico non accumula: seleziona. Non legge soltanto: produce. Non corregge l’errore e passa oltre: lo registra, lo interpreta e lo usa per migliorare.
+
+### Perché questo capitolo apre il libro
+
+Se parti subito dai contenuti, rischi di comportarti come quasi tutti: compri un manuale, apri una banca dati, guardi qualche video, sottolinei molto e dopo una settimana non sai se stai avanzando davvero. Il problema non è la mancanza di impegno. Il problema è l’assenza di una cabina di regia.
+
+La cabina di regia è il metodo. In questo libro il metodo si chiama BANDO: leggere il bando, ordinare le aree, scegliere i nuclei, tenere un diario e allenare gli output. Prima di applicarlo, però, devi cambiare posizione mentale. Non sei uno studente che deve “fare tutto”. Sei un candidato che deve costruire una prestazione adeguata a un concorso specifico, senza perdere il capitale di studio che potrà servire anche in altri concorsi.
 
 ### Obiettivo del capitolo
-Alla fine di questo capitolo devi saper distinguere tra candidato principiante e candidato strategico. Devi riconoscere le principali tipologie di concorso, capire perché non tutti i profili richiedono lo stesso percorso e individuare gli errori che fanno perdere tempo prima ancora di iniziare a studiare.
 
-### Mappa BANDO
-- **Bando**: prima di studiare, individua profilo, requisiti, prove, materie, scadenze e punteggi.
-- **Aree**: separa ciò che è comune a molti concorsi da ciò che appartiene solo a quel profilo.
-- **Nuclei**: scegli i concetti che hanno più probabilità di tornare in prova.
-- **Diario**: registra errori, simulazioni, materie deboli e decisioni di ripasso.
-- **Output**: allenati sulla forma richiesta: quiz, risposta sintetica, caso pratico, orale o quesito situazionale.
+Alla fine di questo capitolo devi saper fare quattro cose.
+
+1. Distinguere il candidato che studia a caso dal candidato che studia con metodo.
+2. Riconoscere le principali tipologie di concorso e capire che non richiedono lo stesso allenamento.
+3. Capire perché profilo, area, prove e punteggi contano più della semplice lista delle materie.
+4. Individuare i comportamenti che fanno perdere settimane: troppi materiali, quiz usati male, simulazioni rimandate e errori non tracciati.
+
+### BANDO in pratica
+
+| Lettera | Domanda decisiva | Errore da evitare |
+|---|---|---|
+| **B - Bando** | Che cosa chiede davvero questo concorso? | Iniziare dal manuale senza aver letto prove, punteggi e requisiti. |
+| **A - Aree** | Quali materie sono comuni e quali sono specifiche? | Trattare tutte le materie come se avessero lo stesso peso. |
+| **N - Nuclei** | Quali concetti hanno più probabilità di decidere la prova? | Studiare in ordine di pagina, non in ordine di priorità. |
+| **D - Diario** | Quali errori sto ripetendo? | Correggere un quiz senza capire perché è stato sbagliato. |
+| **O - Output** | Che cosa devo saper produrre in prova? | Leggere molto senza allenare quiz, risposta scritta, caso o orale. |
 
 ### Come sono cambiati i concorsi pubblici
-Per molto tempo molti candidati hanno immaginato il concorso come una sequenza abbastanza lineare: studio del manuale, quiz, prova, graduatoria. Oggi la realtà è più articolata.
 
-I bandi possono prevedere prove preselettive, prove scritte uniche, prove teorico-pratiche, colloqui orali, valutazione dei titoli, prove digitali o combinazioni diverse. Alcune procedure valorizzano rapidità e precisione nei quiz; altre richiedono capacità di ragionare su un caso; altre ancora misurano esposizione, collegamenti e comportamento professionale.
+Il concorso pubblico non è più un percorso uniforme. Puoi trovare una prova preselettiva a quiz, una prova scritta unica, una prova teorico-pratica, una prova orale, una valutazione dei titoli, una prova digitale o una combinazione di più passaggi. In alcuni bandi la velocità conta molto; in altri conta la capacità di ragionare su un caso; in altri ancora conta l’esposizione orale ordinata.
 
-Anche i profili sono diversi. Un operatore, un istruttore amministrativo, un funzionario, una posizione di elevata qualificazione o un dirigente non affrontano lo stesso livello di complessità. Cambiano responsabilità, materie, profondità e aspettative della commissione.
+Anche i profili sono diversi. Un operatore, un istruttore, un assistente, un funzionario, una posizione di elevata qualificazione o un dirigente non affrontano la stessa profondità. Cambiano le responsabilità attese, il livello di autonomia, il tipo di domande e la qualità della risposta richiesta.
+
+Il candidato debole non vede queste differenze. Si limita a dire: “devo studiare amministrativo, pubblico impiego, trasparenza, informatica”. Il candidato strategico fa un’altra domanda: “come verranno usate queste materie nella mia prova?”.
 
 ### Perché molti candidati studiano tanto ma male
-Lo studio dispersivo nasce quasi sempre da una partenza sbagliata. Il candidato apre un manuale prima di leggere bene il bando. Oppure comincia dai quiz perché danno l'impressione di misurare subito il progresso. Oppure prepara più concorsi come se fossero mondi separati, duplicando materiali e fatica.
 
-Il problema non è studiare molto. Il problema è studiare senza sapere:
+La preparazione dispersiva nasce quasi sempre da una falsa partenza. Il candidato apre un manuale prima di aver scomposto il bando. Oppure comincia dai quiz perché danno una sensazione immediata di movimento. Oppure prepara due concorsi come se fossero due mondi separati, duplicando materiali e fatica.
 
-- quali materie sono centrali;
-- quali materie sono accessorie;
-- quale prova peserà di più;
-- quali errori si stanno ripetendo;
-- quali contenuti possono essere riutilizzati in altri concorsi.
+Ci sono cinque segnali di studio debole:
 
-Il candidato strategico fa l'opposto: prima costruisce la mappa, poi sceglie il percorso.
+- il candidato non sa dire quali materie sono decisive;
+- non distingue tra prova a quiz, prova scritta, caso pratico e orale;
+- misura il progresso in pagine lette, non in risposte prodotte;
+- non registra gli errori, quindi li ripete;
+- cambia metodo ogni volta che cambia concorso.
 
-### Principiante vs candidato strategico
+Lo studio buono non è soltanto più disciplinato. È più leggibile. Se qualcuno ti chiede “che cosa stai facendo questa settimana e perché?”, devi saper rispondere con precisione.
+
+### Candidato principiante e candidato strategico
+
 | Candidato principiante | Candidato strategico |
-| --- | --- |
-| Compra materiali prima di leggere il bando. | Legge il bando e poi sceglie i materiali. |
-| Studia le materie nell'ordine del manuale. | Ordina le materie per priorità e prova. |
-| Fa quiz per sentirsi attivo. | Usa i quiz per diagnosticare errori. |
-| Cambia metodo a ogni concorso. | Costruisce un nucleo comune riutilizzabile. |
-| Corregge l'errore e passa oltre. | Registra l'errore e lo trasforma in ripasso. |
-| Prepara l'orale solo alla fine. | Allena esposizione e collegamenti già durante lo studio. |
+|---|---|
+| Compra materiali prima di leggere bene il bando. | Legge il bando e poi sceglie i materiali. |
+| Studia le materie nell’ordine del manuale. | Ordina le materie per peso, probabilità e tipo di prova. |
+| Fa quiz per sentirsi produttivo. | Usa i quiz per diagnosticare memoria, concetto, distrazione e strategia. |
+| Rimanda scritto e orale alla fine. | Allena da subito risposte brevi, esempi e collegamenti. |
+| Cambia piano quando si sente in ritardo. | Taglia, concentra e riprogramma senza perdere la mappa. |
+| Dimentica gli errori già corretti. | Trasforma ogni errore in ripasso o flashcard. |
 
-### Le principali tipologie di concorso
-Prima di scegliere come studiare, devi capire che tipo di procedura hai davanti. Le forme più frequenti sono:
+### Le tipologie di concorso non si studiano allo stesso modo
 
-- **concorso per esami**: conta il risultato delle prove;
-- **concorso per titoli ed esami**: oltre alle prove, alcuni titoli possono contribuire al punteggio;
-- **prova preselettiva**: serve a ridurre il numero dei candidati, spesso con quiz a tempo;
-- **prova scritta unica**: concentra la selezione in una prova teorica o pratica;
-- **prova teorico-pratica**: richiede applicazione, non solo definizioni;
-- **prova orale**: misura chiarezza, collegamenti e padronanza;
-- **valutazione titoli**: richiede attenzione a requisiti, documenti e punteggi;
-- **prove digitali**: impongono familiarità con procedure, tempi e strumenti informatici.
+Un concorso per soli esami richiede una strategia centrata sulle prove. Un concorso per titoli ed esami richiede anche attenzione ai titoli valutabili. Una preselettiva a quiz pretende velocità, esclusione delle alternative sbagliate e controllo dell’ansia. Una prova teorico-pratica richiede applicazione: non basta sapere la definizione, bisogna usarla. Un orale richiede esposizione, collegamenti e capacità di recuperare il ragionamento anche quando la domanda non è formulata come nel manuale.
 
-Ogni forma richiede allenamenti diversi. Se la prova è a quiz, devi lavorare su tempo, esclusione e diario errori. Se la prova è scritta, devi imparare a strutturare risposte. Se è orale, devi allenare esposizione, esempi e collegamenti.
+Questa distinzione cambia il modo di studiare.
 
-### Le principali aree di accesso
-I concorsi non si distinguono solo per materia, ma anche per livello e profilo. In modo semplificato puoi incontrare:
+| Tipo di prova | Che cosa misura | Allenamento principale |
+|---|---|---|
+| Quiz o preselettiva | Rapidità, memoria, precisione, gestione del tempo. | Batterie mirate, diario errori, simulazioni a tempo. |
+| Scritto teorico | Definizione, ordine, riferimenti essenziali. | Risposte in 10, 20 e 30 righe. |
+| Teorico-pratica | Capacità di applicare regole a un caso. | Casi guidati, schemi soggetti-problema-soluzione. |
+| Orale | Chiarezza, collegamenti, controllo emotivo. | Risposte ad alta voce, esempi, domande-trappola. |
+| Titoli | Coerenza del profilo e documentazione. | Verifica dei requisiti, punteggi, allegati e scadenze. |
 
-- **operatori**: profili esecutivi o di supporto;
-- **assistenti e istruttori**: profili amministrativi o tecnici intermedi;
-- **funzionari**: profili con maggiore autonomia, responsabilità e capacità istruttoria;
-- **elevate qualificazioni**: ruoli con funzioni organizzative e specialistiche più marcate;
-- **dirigenti e carriere speciali**: percorsi ad alta complessità, spesso con selezioni più articolate.
+### Le aree di accesso cambiano la profondità
 
-Questa distinzione è importante perché cambia la profondità. Un argomento come il procedimento amministrativo può essere chiesto in modo base a un istruttore, operativo a un funzionario e strategico-organizzativo a un dirigente.
+Il livello del profilo incide sulla profondità della risposta. Un argomento come il procedimento amministrativo può essere chiesto a un istruttore come nozione base, a un funzionario come strumento operativo e a un dirigente come problema di organizzazione, responsabilità e risultato.
 
-### Concorsi diversi, base comune
-Un concorso comunale, un concorso ministeriale, un concorso in un'agenzia fiscale, un profilo sanitario amministrativo, un concorso scuola/università, un concorso tecnico o un concorso per polizia locale hanno differenze reali.
+Per questo motivo il candidato non deve chiedersi soltanto “quali materie ci sono?”. Deve chiedersi: “a che livello devo saperle usare?”.
 
-Ma non tutto cambia. Una parte del nucleo resta comune: metodo, lettura del bando, Costituzione, principi della pubblica amministrazione, diritto amministrativo, pubblico impiego, trasparenza, competenze digitali, logica e gestione della prova.
+- **Operatori**: servono comprensione essenziale, procedure, compiti e comportamento corretto.
+- **Assistenti e istruttori**: servono basi amministrative, precisione nei quiz e capacità di orientarsi negli atti.
+- **Funzionari**: servono autonomia, ragionamento, casi, responsabilità e collegamenti tra materie.
+- **Elevate qualificazioni**: servono organizzazione, controllo, risultato e gestione dei processi.
+- **Dirigenti e carriere speciali**: servono visione sistemica, strategia amministrativa, responsabilità e capacità decisionale.
 
-Il punto è non confondere il nucleo comune con il modulo specifico. Il nucleo ti dà stabilità. Il modulo ti permette di adattarti.
+### Concorsi diversi, capitale comune
 
-### Errori comuni da evitare
-Gli errori più frequenti sono questi:
+Un concorso comunale, un concorso ministeriale, un concorso in un’agenzia fiscale, un profilo amministrativo sanitario, un concorso scuola/università, un concorso tecnico o un concorso per la polizia locale hanno differenze reali. Fingere che siano uguali sarebbe un errore.
 
-1. comprare troppi manuali e usarli tutti male;
-2. iniziare dai quiz senza aver letto il bando;
-3. ignorare profilo, prove e punteggi;
-4. non distinguere materie centrali e accessorie;
-5. rimandare simulazioni e orale alla fine;
-6. non tracciare gli errori;
-7. cambiare metodo ogni volta che cambia concorso.
+Il punto, però, è che non tutto cambia. Esiste un nucleo comune: metodo, lettura del bando, Costituzione, principi della pubblica amministrazione, diritto amministrativo, pubblico impiego, trasparenza, competenze digitali, logica, gestione della prova e capacità di spiegare.
 
-Il Metodo BANDO serve a intercettare questi errori prima che diventino settimane perse.
-
-### Da sapere in 5 righe
-1. Il candidato efficace non accumula materiali: costruisce un piano.
-2. Il bando viene prima del manuale e dei quiz.
-3. Ogni concorso ha una parte comune e una parte specifica.
-4. Le prove richiedono allenamenti diversi.
-5. Gli errori vanno registrati, classificati e trasformati in ripasso.
+Il candidato che ricomincia da zero a ogni bando disperde energia. Il candidato che costruisce capitale comune studia una volta e riusa più volte, adattando il modulo specifico al profilo.
 
 ### Caso guidato
-Marco vuole preparare due concorsi: istruttore amministrativo comunale e assistente amministrativo in un ente centrale. Il candidato principiante comprerebbe due percorsi separati e inizierebbe da capo.
 
-Marco applica invece il Metodo BANDO. Prima confronta i bandi. Scopre che alcune materie sono comuni: Costituzione, diritto amministrativo, pubblico impiego, trasparenza, competenze digitali. Poi individua le differenze: per il concorso comunale dovrà aggiungere enti locali; per l'altro dovrà approfondire organizzazione dell'amministrazione centrale e profilo specifico.
+Marco vuole partecipare a due concorsi: istruttore amministrativo comunale e assistente amministrativo in un ente centrale. Il candidato principiante comprerebbe due percorsi separati, aprirebbe due manuali e avrebbe l’impressione di dover ripartire da capo.
 
-In questo modo non prepara due concorsi separati. Costruisce una base e la adatta.
+Marco applica un’altra logica. Prima confronta i bandi. Trova una base comune: Costituzione, diritto amministrativo, pubblico impiego, trasparenza, informatica e logica. Poi separa le differenze: per il concorso comunale deve aggiungere enti locali; per l’ente centrale deve approfondire organizzazione amministrativa e profilo specifico.
+
+Il risultato è concreto: Marco non prepara due concorsi. Prepara un nucleo riutilizzabile e due moduli di adattamento.
 
 ### Domanda da commissario
-Perché due candidati che studiano lo stesso numero di ore possono ottenere risultati molto diversi?
 
-Risposta guidata: perché le ore non hanno tutte lo stesso valore. Conta il modo in cui sono collegate al bando, alle priorità, al tipo di prova, agli errori e agli output da allenare.
+**Domanda:** Perché due candidati che studiano lo stesso numero di ore possono ottenere risultati molto diversi?
+
+**Risposta efficace:** perché le ore non hanno tutte lo stesso valore. Conta il modo in cui sono collegate al bando, al tipo di prova, alle priorità, agli errori e all’output da produrre. Un candidato può leggere molto e allenarsi poco; un altro può leggere meno, ma trasformare ogni blocco di studio in quiz, risposta, caso o spiegazione orale.
 
 ### Domanda-trappola
-Fare molti quiz significa prepararsi bene?
 
-Risposta guidata: non necessariamente. I quiz sono utili se diventano diagnosi: devono dirti che cosa non sai, perché hai sbagliato e quale ripasso devi programmare. Se li fai senza analisi, rischiano di diventare solo movimento.
+**Domanda:** Fare molti quiz significa essere ben preparati?
+
+**Risposta:** non necessariamente. Il quiz è utile se diventa diagnosi. Deve dirti se hai sbagliato per memoria, concetto, distrazione, fretta o strategia. Se fai quiz senza analizzare gli errori, stai solo accumulando movimento.
+
+### Mini-test: che tipo di candidato sei?
+
+Segna la risposta che ti rappresenta di più.
+
+| Situazione | Risposta A | Risposta B |
+|---|---|---|
+| Trovi un nuovo bando. | Cerchi subito un manuale. | Leggi prima prove, materie, punteggi e requisiti. |
+| Sbagli un quiz. | Guardi la risposta corretta e vai avanti. | Classifichi l’errore e programmi il ripasso. |
+| Hai poco tempo. | Provi a fare tutto più velocemente. | Tagli le parti meno decisive e aumenti le simulazioni. |
+| Prepari due concorsi. | Apri due percorsi separati. | Cerchi base comune e moduli specifici. |
+| Devi preparare l’orale. | Aspetti di finire la teoria. | Alleni risposte brevi fin dall’inizio. |
+
+Se prevale la colonna A, il primo obiettivo è smettere di confondere attività e avanzamento. Se prevale la colonna B, il metodo ti servirà a rendere più stabile ciò che già fai in modo intuitivo.
+
+### Da sapere in 5 righe
+
+1. Il candidato pubblico efficace non accumula materiali: costruisce un sistema.
+2. Il bando viene prima del manuale, dei quiz e del calendario.
+3. Ogni concorso ha una parte comune e una parte specifica.
+4. Le prove richiedono allenamenti diversi: quiz, scritto, caso e orale non si preparano allo stesso modo.
+5. Gli errori non sono incidenti: sono dati di lavoro.
 
 ### Errore tipico
-Scambiare la sensazione di studio per avanzamento reale. Leggere, sottolineare e fare quiz danno l'impressione di lavorare, ma il vero progresso si vede quando sai rispondere, spiegare, applicare e correggere.
 
-### Mini-esercizio
-Segna con una X la frase che ti rappresenta di più.
-
-| Domanda | A | B |
-| --- | --- | --- |
-| Quando trovo un bando nuovo... | compro subito materiali | leggo prima prove e materie |
-| Quando sbaglio un quiz... | guardo la risposta corretta | classifico il tipo di errore |
-| Quando ho poco tempo... | provo a fare tutto | scelgo priorità e tagli |
-| Quando cambio concorso... | ricomincio da zero | separo base comune e modulo |
-| Quando preparo l'orale... | aspetto la fine | alleno spiegazioni brevi da subito |
-
-Se hai scelto soprattutto A, parti dalla prossima pagina con un obiettivo: diventare candidato strategico. Se hai scelto soprattutto B, il metodo ti aiuterà a rendere più stabile ciò che già fai.
-
-### Note layout e immagini
-- Inserire box comparativo "Candidato principiante vs candidato strategico".
-- Inserire mini-test visuale "Che tipo di candidato sei?".
-- Inserire schema: `Bando -> Priorità -> Studio -> Output -> Diario errori`.
+Il primo errore è studiare per sentirsi tranquilli, non per produrre una prestazione. Leggere, sottolineare e fare quiz possono dare l’impressione di lavorare. Il progresso reale, però, si vede quando sai rispondere, spiegare, applicare, correggere e ripetere sotto vincolo di tempo.
 
 ### Riferimenti consolidati
+
 - [[sources/struttura-madre-il-metodo-bando]]
 - [[sources/metodo-bando-progetto-editoriale]]
 - [[topics/metodo-bando]]
@@ -184,12 +194,7 @@ Se hai scelto soprattutto A, parti dalla prossima pagina con un obiettivo: diven
 - [[entities/inpa]]
 
 ### Note di review
-- Testo pronto per prima revisione editoriale.
-- Non sono state lette raw sources direttamente.
-- Applicare design system editoriale 17 x 24 cm con gerarchia manuale-workbook.
-- Verificare con ricerca web ufficiale eventuali riferimenti aggiornati al portale inPA e alle forme di pubblicazione dei bandi prima della pubblicazione finale.
 
-## Bozza agente
-
-## Note editoriali
-Capitolo di orientamento: deve creare immediata identificazione con il lettore.
+- Capitolo riscritto come apertura di posizionamento editoriale: deve mostrare subito la differenza tra manuale generico e metodo operativo.
+- Prima della pubblicazione finale, verificare con fonte ufficiale eventuali riferimenti operativi aggiornati al portale inPA.
+- Inserire in impaginazione un box visuale "Candidato principiante / candidato strategico" e il mini-test compilabile.

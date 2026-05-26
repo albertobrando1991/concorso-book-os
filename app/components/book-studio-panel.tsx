@@ -12,10 +12,11 @@ import {
 } from "lucide-react"
 import type { ManualWriterMode } from "@/src/server/agents/manual-writer-agent"
 import type { BookStudioChapter, BookStudioData, MarkdownBlock } from "@/src/server/book/book-preview"
+import type { WriterProvider } from "@/src/server/config"
 
 interface BookStudioPanelProps {
   initialData: BookStudioData
-  writerProvider: "codex" | "openai" | "hermes" | "local"
+  writerProvider: WriterProvider
   writerModel: string
   writerReasoningEffort: string
 }
@@ -49,6 +50,11 @@ const modeOptions: Array<{ value: ManualWriterMode; label: string }> = [
   { value: "draft", label: "Crea bozza" }
 ]
 
+const providerOptions: Array<{ value: WriterProvider; label: string }> = [
+  { value: "codex", label: "GPT" },
+  { value: "claude", label: "Claude" }
+]
+
 export function BookStudioPanel({
   initialData,
   writerProvider,
@@ -59,6 +65,9 @@ export function BookStudioPanel({
   const [selectedPath, setSelectedPath] = useState(initialData.chapters[0]?.path || "")
   const [viewMode, setViewMode] = useState<ViewMode>("chapter")
   const [writerMode, setWriterMode] = useState<ManualWriterMode>("integrate")
+  const [selectedProvider, setSelectedProvider] = useState<WriterProvider>(
+    writerProvider === "claude" ? "claude" : "codex"
+  )
   const [instruction, setInstruction] = useState(
     "Scrivi il capitolo effettivo per il lettore usando prima il cervello wiki: struttura madre, nota capitolo, source notes, topic pages, entity pages e design system. Integra ricerca web ufficiale solo se serve aggiornamento o verifica, poi segnala le fonti da consolidare. Non fare riepiloghi tecnici."
   )
@@ -135,7 +144,8 @@ export function BookStudioPanel({
         body: JSON.stringify({
           chapterPath: selectedChapter.path,
           instruction,
-          mode: writerMode
+          mode: writerMode,
+          provider: selectedProvider
         })
       })
       const payload = await response.json()
@@ -197,9 +207,9 @@ export function BookStudioPanel({
           <h2>Preview visuale e revisione del manuale</h2>
         </div>
         <div className="studioHeaderActions">
-          <span className={`writerLlmStatus ${writerProvider === "local" ? "disabled" : "enabled"}`}>
+          <span className={`writerLlmStatus ${selectedProvider === "local" ? "disabled" : "enabled"}`}>
             <BookOpenCheck size={18} aria-hidden />
-            <span>{writerProvider === "codex" ? "Codex attivo" : writerProvider === "hermes" ? "Hermes attivo" : writerProvider}</span>
+            <span>{selectedProvider === "claude" ? "Claude Code attivo" : "GPT attivo"}</span>
           </span>
           <button className="studioIconButton" onClick={refreshStudio} disabled={isRefreshing} title="Aggiorna anteprima">
             {isRefreshing ? <Loader2 size={17} className="spin" aria-hidden /> : <RefreshCw size={17} aria-hidden />}
@@ -326,6 +336,16 @@ export function BookStudioPanel({
               </select>
             </label>
             <label>
+              Modello
+              <select value={selectedProvider} onChange={(event) => setSelectedProvider(event.target.value as WriterProvider)}>
+                {providerOptions.map((option) => (
+                  <option value={option.value} key={option.value}>
+                    {option.label}
+                  </option>
+                ))}
+              </select>
+            </label>
+            <label>
               Richiesta
               <textarea value={instruction} onChange={(event) => setInstruction(event.target.value)} rows={8} />
             </label>
@@ -334,7 +354,7 @@ export function BookStudioPanel({
               {isWriting ? "Writer in corso" : "Applica al capitolo"}
             </button>
             <small className="controlNote">
-              Modello: {writerModel} | reasoning: {writerReasoningEffort}
+              Modello: {selectedProvider === "claude" ? "claude-opus-4-7" : writerModel} | reasoning: {writerReasoningEffort}
             </small>
           </section>
 

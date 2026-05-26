@@ -3,10 +3,11 @@
 import { useEffect, useMemo, useState } from "react"
 import { BookOpenCheck, Loader2, PenLine } from "lucide-react"
 import type { ChapterOption, ManualWriterMode } from "@/src/server/agents/manual-writer-agent"
+import type { WriterProvider } from "@/src/server/config"
 
 interface ManualWriterPanelProps {
   initialChapters: ChapterOption[]
-  writerProvider: "codex" | "openai" | "hermes" | "local"
+  writerProvider: WriterProvider
   writerModel: string
   writerReasoningEffort: string
 }
@@ -16,7 +17,7 @@ interface WriterResult {
   changedFiles: string[]
   knowledgeUsed: string[]
   draft: string
-  writerProvider: "codex" | "openai" | "hermes" | "local"
+  writerProvider: WriterProvider
   warnings: string[]
 }
 
@@ -28,6 +29,11 @@ const modeOptions: Array<{ value: ManualWriterMode; label: string }> = [
   { value: "draft", label: "Solo bozza" }
 ]
 
+const providerOptions: Array<{ value: WriterProvider; label: string }> = [
+  { value: "codex", label: "GPT" },
+  { value: "claude", label: "Claude" }
+]
+
 export function ManualWriterPanel({
   initialChapters,
   writerProvider,
@@ -37,6 +43,9 @@ export function ManualWriterPanel({
   const [chapters, setChapters] = useState(initialChapters)
   const [chapterPath, setChapterPath] = useState(initialChapters[0]?.path || "")
   const [mode, setMode] = useState<ManualWriterMode>("integrate")
+  const [selectedProvider, setSelectedProvider] = useState<WriterProvider>(
+    writerProvider === "claude" ? "claude" : "codex"
+  )
   const [instruction, setInstruction] = useState(
     "Scrivi il capitolo effettivo come testo da manuale Metodo BANDO, non un riepilogo tecnico. Usa prima il cervello wiki: struttura madre, nota capitolo, source notes, topic pages, entity pages e design system; aggiungi caso guidato, domanda-trappola, errori frequenti, mini-esercizio e note di ricerca web ufficiale se servono aggiornamenti."
   )
@@ -75,7 +84,8 @@ export function ManualWriterPanel({
         body: JSON.stringify({
           chapterPath,
           instruction,
-          mode
+          mode,
+          provider: selectedProvider
         })
       })
 
@@ -100,9 +110,9 @@ export function ManualWriterPanel({
           <span className="panelKicker">Manual Writer Agent</span>
           <h2>Scrittura automatica capitoli</h2>
         </div>
-        <div className={`writerLlmStatus ${writerProvider === "local" ? "disabled" : "enabled"}`}>
+        <div className={`writerLlmStatus ${selectedProvider === "local" ? "disabled" : "enabled"}`}>
           <BookOpenCheck size={18} aria-hidden />
-          <span>{writerProvider === "codex" ? "Codex attivo" : writerProvider === "openai" ? "OpenAI attivo" : writerProvider === "hermes" ? "Hermes attivo" : "Writer locale"}</span>
+          <span>{selectedProvider === "claude" ? "Claude Code attivo" : "GPT attivo"}</span>
         </div>
       </header>
 
@@ -129,12 +139,24 @@ export function ManualWriterPanel({
             ))}
           </select>
         </label>
+
+        <label>
+          Modello
+          <select value={selectedProvider} onChange={(event) => setSelectedProvider(event.target.value as WriterProvider)}>
+            {providerOptions.map((option) => (
+              <option value={option.value} key={option.value}>
+                {option.label}
+              </option>
+            ))}
+          </select>
+        </label>
       </div>
 
       {selectedChapter ? (
         <p className="writerMeta">
           File: <code>{selectedChapter.path}</code> | Stato: {selectedChapter.status} | Modello:{" "}
-          <code>{writerModel}</code> | Reasoning: <code>{writerReasoningEffort}</code>
+          <code>{selectedProvider === "claude" ? "claude-opus-4-7" : writerModel}</code> | Reasoning:{" "}
+          <code>{writerReasoningEffort}</code>
         </p>
       ) : null}
 

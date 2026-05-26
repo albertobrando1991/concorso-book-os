@@ -111,6 +111,20 @@ Esempi:
 /concorso-book-os importa questa fonte e poi integra il capitolo: https://example.gov/legge.pdf capitolo=diritto-amministrativo-per-candidati
 ```
 
+## 6. Silenzio intenzionale
+
+Hermes deve poter non rispondere. La skill `concorso-book-os` resta silenziosa quando un messaggio di gruppo/canale non e' rivolto a Hermes, e' solo una conferma, e' duplicato, oppure non contiene una richiesta operativa per import, OCR, collegamento fonti o writer.
+
+In chat privata Telegram, ogni messaggio dell'utente autorizzato va considerato rivolto a Hermes. Una lista di leggi o decreti con parole come `scarica`, `importa`, `aggiungi`, `cerca` o `integra` non deve mai generare silenzio: Hermes deve eseguire l'import oppure chiedere una sola chiarificazione se serve.
+
+Quando un contesto API richiede comunque un testo, Hermes deve produrre solo:
+
+```text
+__HERMES_NO_REPLY__
+```
+
+L'endpoint `POST /api/hermes/chat`, se chiamato con `allowNoReply: true`, converte quel token in `204 No Content`.
+
 ## Note operative
 
 - L'import salva il PDF in `wiki/raw/...`.

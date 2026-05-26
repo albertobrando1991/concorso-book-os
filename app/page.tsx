@@ -3,6 +3,7 @@ import {
   BookOpen,
   Bot,
   Database,
+  ExternalLink,
   FileSearch,
   GitBranch,
   Layers3,
@@ -19,10 +20,18 @@ import { BookStudioPanel } from "./components/book-studio-panel"
 import { ManualWriterAgent } from "@/src/server/agents/manual-writer-agent"
 import { DEFAULT_BOOK_ID, getWikiRoot, getWriterConfig } from "@/src/server/config"
 import { FileWikiStore } from "@/src/server/wiki/file-store"
+import { parseFrontmatter } from "@/src/server/wiki/frontmatter"
 import { buildKnowledgeGraph } from "@/src/server/wiki/graph"
+import type { DashboardSource } from "@/src/server/wiki/types"
 import { buildBookStudioData } from "@/src/server/book/book-preview"
 
 export const dynamic = "force-dynamic"
+
+type HomeProps = {
+  searchParams?: Promise<{
+    source?: string | string[]
+  }>
+}
 
 const navigation = [
   ["Overview", Database],
@@ -38,14 +47,18 @@ const navigation = [
   ["Settings", Settings]
 ] as const
 
-export default async function Home() {
+export default async function Home({ searchParams }: HomeProps) {
   const data = await getDashboardData()
   const store = new FileWikiStore(getWikiRoot())
   const chapters = await new ManualWriterAgent(store).listChapters()
   const graph = await buildKnowledgeGraph(store)
   const bookStudio = await buildBookStudioData(store, DEFAULT_BOOK_ID)
   const writerConfig = getWriterConfig()
-  const topSources = data.sources.slice(0, 5)
+  const allSources = [...data.sources].sort(compareSources)
+  const params = searchParams ? await searchParams : {}
+  const requestedSourcePath = firstParam(params.source)
+  const selectedSource = allSources.find((source) => source.path === requestedSourcePath) || allSources[0]
+  const sourceReader = selectedSource ? await loadSourceReader(store, selectedSource) : null
   const topTopics = data.topics.slice(0, 6)
   const topIssues = data.qualityIssues.slice(0, 6)
 
@@ -149,19 +162,13 @@ export default async function Home() {
 
         <KnowledgeGraphPanel graph={graph} />
 
-        <section className="grid three">
-          <Panel title="Sources" icon={<FileSearch size={19} aria-hidden />} id="sources">
-            <Table
-              headers={["Fonte", "Tipo", "Affidabilita", "Stato"]}
-              rows={topSources.map((source) => [
-                source.title,
-                source.sourceType,
-                source.authorityLevel,
-                source.status
-              ])}
-            />
+        <section className="grid">
+          <Panel title={`Sources (${allSources.length})`} icon={<FileSearch size={19} aria-hidden />} id="sources">
+            <SourceLibrary sources={allSources} selectedPath={selectedSource?.path || ""} reader={sourceReader} />
           </Panel>
+        </section>
 
+        <section className="grid two">
           <Panel title="Topics" icon={<Layers3 size={19} aria-hidden />} id="topics">
             <div className="topicList">
               {topTopics.map((topic) => (
@@ -234,6 +241,195 @@ function Metric({ label, value, accent }: { label: string; value: number; accent
   )
 }
 
+interface SourceReaderData {
+  source: DashboardSource
+  body: string
+  rawMarkdown?: {
+    path: string
+    body: string
+  }
+  metadata: {
+    sourceUrl: string
+    createdAt: string
+    updatedAt: string
+  }
+}
+
+async function loadSourceReader(store: FileWikiStore, source: DashboardSource): Promise<SourceReaderData> {
+  const parsed = parseFrontmatter(await store.readText(source.path))
+  const rawMarkdownPath = findRawMarkdownPath(parsed.body)
+  const rawMarkdown = rawMarkdownPath && (await store.exists(rawMarkdownPath))
+    ? {
+        path: rawMarkdownPath,
+        body: parseFrontmatter(await store.readText(rawMarkdownPath)).body.trim()
+      }
+    : undefined
+
+  return {
+    source,
+    body: parsed.body.trim(),
+    rawMarkdown,
+    metadata: {
+      sourceUrl: String(parsed.data.source_url || ""),
+      createdAt: String(parsed.data.created_at || ""),
+      updatedAt: String(parsed.data.updated_at || source.updatedAt || "")
+    }
+  }
+}
+
+function SourceLibrary({
+  sources,
+  selectedPath,
+  reader
+}: {
+  sources: DashboardSource[]
+  selectedPath: string
+  reader: SourceReaderData | null
+}) {
+  if (sources.length === 0) {
+    return <p className="muted">Nessuna fonte presente nel vault.</p>
+  }
+
+  return (
+    <div className="sourceLibrary">
+      <nav className="sourceList" aria-label="Fonti disponibili">
+        {sources.map((source) => {
+          const active = source.path === selectedPath
+
+          return (
+            <a
+              className={`sourceListItem${active ? " active" : ""}`}
+              href={`/?source=${encodeURIComponent(source.path)}#sources`}
+              key={source.path}
+            >
+              <strong>{source.title}</strong>
+              <span>{source.sourceType} | {source.status} | {source.authorityLevel}</span>
+              <code>{source.path}</code>
+            </a>
+          )
+        })}
+      </nav>
+
+      {reader ? (
+        <article className="sourceReader">
+          <header>
+            <div>
+              <span className="panelKicker">Fonte selezionata</span>
+              <h3>{reader.source.title}</h3>
+            </div>
+            {reader.metadata.sourceUrl ? (
+              <a className="sourceExternal" href={reader.metadata.sourceUrl} target="_blank" rel="noreferrer">
+                URL ufficiale
+                <ExternalLink size={14} aria-hidden />
+              </a>
+            ) : null}
+          </header>
+
+          <div className="sourceMetaGrid" aria-label="Metadati fonte">
+            <span>Tipo <strong>{reader.source.sourceType}</strong></span>
+            <span>Stato <strong>{reader.source.status}</strong></span>
+            <span>Affidabilita <strong>{reader.source.authorityLevel}</strong></span>
+            <span>Aggiornata <strong>{formatDateTime(reader.metadata.updatedAt)}</strong></span>
+          </div>
+
+          <details className="sourceDocument" open>
+            <summary>Source note consolidata</summary>
+            <MarkdownReader content={reader.body} />
+          </details>
+
+          {reader.rawMarkdown ? (
+            <details className="sourceDocument" open>
+              <summary>Documento convertito in Markdown</summary>
+              <code className="sourcePath">{reader.rawMarkdown.path}</code>
+              <MarkdownReader content={reader.rawMarkdown.body} />
+            </details>
+          ) : null}
+        </article>
+      ) : null}
+    </div>
+  )
+}
+
+function MarkdownReader({ content }: { content: string }) {
+  const blocks = content
+    .replace(/\r\n/g, "\n")
+    .split(/\n{2,}/)
+    .map((block) => block.trim())
+    .filter(Boolean)
+
+  return (
+    <div className="markdownReader">
+      {blocks.map((block, index) => renderMarkdownBlock(block, index))}
+    </div>
+  )
+}
+
+function renderMarkdownBlock(block: string, index: number) {
+  if (block.startsWith("```")) {
+    return <pre key={index}>{block.replace(/^```[a-z]*\n?/i, "").replace(/\n?```$/, "")}</pre>
+  }
+
+  const headingMatch = block.match(/^(#{1,4})\s+(.+)$/)
+  if (headingMatch) {
+    const level = Math.min(headingMatch[1].length + 2, 6)
+    if (level === 3) return <h3 key={index}>{headingMatch[2]}</h3>
+    if (level === 4) return <h4 key={index}>{headingMatch[2]}</h4>
+    if (level === 5) return <h5 key={index}>{headingMatch[2]}</h5>
+    return <h6 key={index}>{headingMatch[2]}</h6>
+  }
+
+  const lines = block.split("\n")
+  if (lines.every((line) => line.startsWith("- "))) {
+    return (
+      <ul key={index}>
+        {lines.map((line) => (
+          <li key={line}>{line.slice(2)}</li>
+        ))}
+      </ul>
+    )
+  }
+
+  if (lines.some((line) => line.includes("|")) && lines.length > 1) {
+    return <pre key={index}>{block}</pre>
+  }
+
+  return <p key={index}>{block}</p>
+}
+
+function findRawMarkdownPath(body: string) {
+  const match = body.match(/`wiki\/(raw\/[^`]+\.md)`/)
+  return match?.[1] || ""
+}
+
+function firstParam(value: string | string[] | undefined) {
+  return Array.isArray(value) ? value[0] : value
+}
+
+function formatDateTime(value: string) {
+  const time = Date.parse(value)
+
+  if (Number.isNaN(time)) return "-"
+
+  return new Intl.DateTimeFormat("it-IT", {
+    dateStyle: "short",
+    timeStyle: "short"
+  }).format(new Date(time))
+}
+
+function compareSources(a: { title: string; updatedAt: string }, b: { title: string; updatedAt: string }) {
+  const bTime = toSortableTime(b.updatedAt)
+  const aTime = toSortableTime(a.updatedAt)
+
+  if (bTime !== aTime) return bTime - aTime
+
+  return a.title.localeCompare(b.title, "it")
+}
+
+function toSortableTime(value: string) {
+  const time = Date.parse(value)
+  return Number.isNaN(time) ? 0 : time
+}
+
 function Panel({
   title,
   icon,
@@ -253,30 +449,5 @@ function Panel({
       </header>
       {children}
     </section>
-  )
-}
-
-function Table({ headers, rows }: { headers: string[]; rows: string[][] }) {
-  return (
-    <div className="tableWrap">
-      <table>
-        <thead>
-          <tr>
-            {headers.map((header) => (
-              <th key={header}>{header}</th>
-            ))}
-          </tr>
-        </thead>
-        <tbody>
-          {rows.map((row) => (
-            <tr key={row.join("-")}>
-              {row.map((cell, cellIndex) => (
-                <td key={`${cell}-${cellIndex}`}>{cell}</td>
-              ))}
-            </tr>
-          ))}
-        </tbody>
-      </table>
-    </div>
   )
 }
