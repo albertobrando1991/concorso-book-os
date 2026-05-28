@@ -64,6 +64,16 @@ Default provider: local `codex exec`, so the Writer can use your Codex/Antigravi
 The writer is configured to call `gpt-5.5` with `model_reasoning_effort=xhigh`.
 Run `codex login --device-auth` once on the PC if the launcher reports that Codex CLI is not authenticated.
 
+Supported writer providers share the same project memory layer: `codex`, `claude`, `kimi`, `openai`, `hermes`, and `local`.
+For Kimi, set:
+
+```text
+WRITER_PROVIDER=kimi
+KIMI_API_KEY=your-kimi-key
+KIMI_API_BASE=https://api.moonshot.ai/v1
+KIMI_MODEL=kimi-k2.6
+```
+
 Guide: [docs/WRITING_WITH_MANUAL_AGENT.md](docs/WRITING_WITH_MANUAL_AGENT.md).
 
 ## Hermes Agent
@@ -115,6 +125,18 @@ npm run hermes:install-skill
 ```
 
 Then configure Telegram in Hermes Gateway. Guide: [docs/HERMES_AGENT_TELEGRAM_SETUP.md](docs/HERMES_AGENT_TELEGRAM_SETUP.md).
+
+## Local Agent Memory
+
+The app includes a local file-based memory layer inspired by TencentDB Agent Memory. It stores raw conversations, extracts compact atomic memories, maintains scenario/persona files, and injects only relevant memories into Hermes chat and Manual Writer prompts.
+
+Default path:
+
+```text
+wiki/memory/agent/
+```
+
+Guide: [docs/AGENT_MEMORY.md](docs/AGENT_MEMORY.md).
 
 ## Commands
 

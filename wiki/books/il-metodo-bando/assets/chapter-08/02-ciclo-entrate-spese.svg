@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="880" viewBox="0 0 1600 880" role="img" aria-labelledby="title desc">
+  <title id="title">Ciclo delle entrate e delle spese</title>
+  <desc id="desc">Confronto tra fasi dell'entrata pubblica e fasi della spesa pubblica.</desc>
+  <defs>
+    <style>
+      .bg { fill: #f8fafc; }
+      .ink { fill: #172233; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 46px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 24px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 26px; font-weight: 800; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 21px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 19px; }
+      .panel { fill: #ffffff; stroke: #cfd8e3; stroke-width: 3; }
+      .step { fill: #eef4fb; stroke: #c5d7ea; stroke-width: 2.5; }
+      .note { fill: #fff7ed; stroke: #e7c18e; stroke-width: 2.5; }
+      .blue { fill: #1f4e79; }
+      .green { fill: #2f7d5a; }
+      .amber { fill: #b7791f; }
+      .red { fill: #a94442; }
+      .arrow { stroke: #1f4e79; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowHead); }
+    </style>
+    <marker id="arrowHead" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#1f4e79"/>
+    </marker>
+  </defs>
+
+  <rect class="bg" width="1600" height="880"/>
+  <text class="ink title" x="800" y="70" text-anchor="middle">Entrate e spese: due sequenze</text>
+  <text class="muted subtitle" x="800" y="110" text-anchor="middle">L'accertamento non è incasso; l'impegno non è pagamento.</text>
+
+  <g transform="translate(80 180)">
+    <rect class="panel" width="1440" height="250" rx="24"/>
+    <text class="green label" x="720" y="45" text-anchor="middle">Entrata pubblica</text>
+    <g transform="translate(80 95)">
+      <rect class="step" width="250" height="105" rx="18"/>
+      <text class="green label" x="125" y="38" text-anchor="middle">Accertamento</text>
+      <text class="muted small" x="125" y="70" text-anchor="middle">nasce il credito</text>
+    </g>
+    <path class="arrow" d="M 350 148 L 430 148"/>
+    <g transform="translate(450 95)">
+      <rect class="step" width="250" height="105" rx="18"/>
+      <text class="blue label" x="125" y="38" text-anchor="middle">Riscossione</text>
+      <text class="muted small" x="125" y="70" text-anchor="middle">entrata incassata</text>
+    </g>
+    <path class="arrow" d="M 720 148 L 800 148"/>
+    <g transform="translate(820 95)">
+      <rect class="step" width="250" height="105" rx="18"/>
+      <text class="amber label" x="125" y="38" text-anchor="middle">Versamento</text>
+      <text class="muted small" x="125" y="70" text-anchor="middle">somme al tesoriere</text>
+    </g>
+    <path class="arrow" d="M 1090 148 L 1170 148"/>
+    <g transform="translate(1190 95)">
+      <rect class="step" width="170" height="105" rx="18"/>
+      <text class="red label" x="85" y="38" text-anchor="middle">Bilancio</text>
+      <text class="muted small" x="85" y="70" text-anchor="middle">traccia</text>
+    </g>
+  </g>
+
+  <g transform="translate(80 490)">
+    <rect class="panel" width="1440" height="250" rx="24"/>
+    <text class="red label" x="720" y="45" text-anchor="middle">Spesa pubblica</text>
+    <g transform="translate(70 95)">
+      <rect class="step" width="230" height="105" rx="18"/>
+      <text class="blue label" x="115" y="38" text-anchor="middle">Impegno</text>
+      <text class="muted small" x="115" y="70" text-anchor="middle">vincolo la somma</text>
+    </g>
+    <path class="arrow" d="M 320 148 L 390 148"/>
+    <g transform="translate(410 95)">
+      <rect class="step" width="230" height="105" rx="18"/>
+      <text class="green label" x="115" y="38" text-anchor="middle">Liquidazione</text>
+      <text class="muted small" x="115" y="70" text-anchor="middle">verifico il titolo</text>
+    </g>
+    <path class="arrow" d="M 660 148 L 730 148"/>
+    <g transform="translate(750 95)">
+      <rect class="step" width="230" height="105" rx="18"/>
+      <text class="amber label" x="115" y="38" text-anchor="middle">Ordinazione</text>
+      <text class="muted small" x="115" y="70" text-anchor="middle">mandato</text>
+    </g>
+    <path class="arrow" d="M 1000 148 L 1070 148"/>
+    <g transform="translate(1090 95)">
+      <rect class="step" width="230" height="105" rx="18"/>
+      <text class="red label" x="115" y="38" text-anchor="middle">Pagamento</text>
+      <text class="muted small" x="115" y="70" text-anchor="middle">uscita di cassa</text>
+    </g>
+  </g>
+
+  <rect class="note" x="235" y="790" width="1130" height="55" rx="24"/>
+  <text class="amber" x="800" y="826" text-anchor="middle" style="font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:22px;font-weight:800;">Regola da quiz: il pagamento è l'ultima fase, non la nascita dell'obbligazione.</text>
+</svg>

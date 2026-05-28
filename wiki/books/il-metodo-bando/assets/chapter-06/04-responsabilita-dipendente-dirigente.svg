@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="820" viewBox="0 0 1600 820" role="img" aria-labelledby="title desc">
+  <title id="title">Responsabilità nel pubblico impiego</title>
+  <desc id="desc">Mappa delle responsabilità del dipendente e del dirigente pubblico: disciplinare, amministrativo-contabile, civile, penale e dirigenziale.</desc>
+  <defs>
+    <style>
+      .bg { fill: #f8fafc; }
+      .ink { fill: #172233; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 48px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 25px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 27px; font-weight: 800; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 21px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 19px; }
+      .hub { fill: #ffffff; stroke: #1f4e79; stroke-width: 5; }
+      .card { fill: #ffffff; stroke: #cfd8e3; stroke-width: 3; }
+      .band { fill: #fff2d7; stroke: #d9a441; stroke-width: 2; }
+      .blue { fill: #1f4e79; }
+      .green { fill: #2f7d5a; }
+      .amber { fill: #b7791f; }
+      .red { fill: #a94442; }
+      .gray { fill: #64748b; }
+      .line { stroke: #9db4ca; stroke-width: 4; stroke-linecap: round; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="1600" height="820"/>
+  <text class="ink title" x="800" y="70" text-anchor="middle">Responsabilità nel pubblico impiego</text>
+  <text class="muted subtitle" x="800" y="110" text-anchor="middle">Lo stesso fatto può avere più letture, ma ogni responsabilità ha presupposti propri.</text>
+
+  <g transform="translate(560 180)">
+    <rect class="hub" width="480" height="126" rx="24"/>
+    <text class="blue label" x="240" y="48" text-anchor="middle">Fatto da qualificare</text>
+    <text class="muted body" x="240" y="82" text-anchor="middle">dato consultato, regalo, ritardo</text>
+  </g>
+
+  <line class="line" x1="665" y1="306" x2="300" y2="395"/>
+  <line class="line" x1="745" y1="306" x2="620" y2="395"/>
+  <line class="line" x1="800" y1="306" x2="800" y2="395"/>
+  <line class="line" x1="855" y1="306" x2="980" y2="395"/>
+  <line class="line" x1="935" y1="306" x2="1300" y2="395"/>
+
+  <g transform="translate(100 395)">
+    <rect class="card" width="300" height="145" rx="18"/>
+    <text class="red label" x="150" y="42" text-anchor="middle">Disciplinare</text>
+    <text class="muted body" x="150" y="78" text-anchor="middle">violazione dei doveri</text>
+    <text class="muted body" x="150" y="108" text-anchor="middle">di servizio</text>
+  </g>
+
+  <g transform="translate(460 395)">
+    <rect class="card" width="320" height="145" rx="18"/>
+    <text class="amber label" x="160" y="42" text-anchor="middle">Contabile</text>
+    <text class="muted body" x="160" y="78" text-anchor="middle">danno a risorse</text>
+    <text class="muted body" x="160" y="108" text-anchor="middle">pubbliche</text>
+  </g>
+
+  <g transform="translate(840 395)">
+    <rect class="card" width="260" height="145" rx="18"/>
+    <text class="green label" x="130" y="42" text-anchor="middle">Civile</text>
+    <text class="muted body" x="130" y="78" text-anchor="middle">danno ingiusto</text>
+    <text class="muted body" x="130" y="108" text-anchor="middle">risarcibile</text>
+  </g>
+
+  <g transform="translate(1160 395)">
+    <rect class="card" width="260" height="145" rx="18"/>
+    <text class="blue label" x="130" y="42" text-anchor="middle">Penale</text>
+    <text class="muted body" x="130" y="78" text-anchor="middle">fatto previsto</text>
+    <text class="muted body" x="130" y="108" text-anchor="middle">come reato</text>
+  </g>
+
+  <g transform="translate(520 585)">
+    <rect class="card" width="560" height="100" rx="18"/>
+    <text class="gray label" x="280" y="38" text-anchor="middle">Dirigenziale e organizzativa</text>
+    <text class="muted body" x="280" y="70" text-anchor="middle">risultati, controlli, vigilanza e gestione del rischio</text>
+  </g>
+
+  <rect class="band" x="250" y="720" width="1100" height="52" rx="26"/>
+  <text class="amber" x="800" y="754" text-anchor="middle" style="font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:22px;font-weight:800;">Errore da evitare: trasformare ogni irregolarità in reato.</text>
+</svg>

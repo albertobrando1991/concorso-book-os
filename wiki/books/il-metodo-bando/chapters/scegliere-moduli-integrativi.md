@@ -22,22 +22,3 @@ last_compiled_from: ["sources/struttura-madre-il-metodo-bando.md","topics/moduli
 
 # Come scegliere i moduli integrativi
 
-## Obiettivo didattico
-Spiegare cosa va studiato nel libro base e cosa va lasciato ai moduli verticali.
-
-## Specifica struttura madre
-Perche il libro base non contiene tutto, evitare dispersione, scegliere modulo giusto, combinare core + modulo. Esempi: istruttore amministrativo comunale, funzionario tributario, assistente giudiziario, agente polizia locale, istruttore tecnico, assistente amministrativo ASL.
-
-## Strumenti da inserire
-Tabella profilo/cosa studiare/modulo, checklist "Mi serve davvero questo modulo?", box "Non comprare materiali a caso".
-
-## Testo editoriale
-Da sviluppare con Manual Writer Agent.
-
-## Bozza agente
-
-## Note editoriali
-- Da rivedere per nuova fonte [[sources/gazzetta-ufficiale-n-111-del-15-maggio-2025-decreto-pat-e-formweb]].
-
-- Da rivedere per nuova fonte [[sources/cedu-savino-ed-altri-c-italia-28-aprile-2009-concorsi-e-art-6-cedu]].
-

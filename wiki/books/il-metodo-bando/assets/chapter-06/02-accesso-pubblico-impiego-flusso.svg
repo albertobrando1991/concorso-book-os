@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="760" viewBox="0 0 1600 760" role="img" aria-labelledby="title desc">
+  <title id="title">Accesso al pubblico impiego</title>
+  <desc id="desc">Flusso dell'accesso al lavoro pubblico: fabbisogno, bando, prove, graduatoria e assunzione, con i principi da rispettare.</desc>
+  <defs>
+    <style>
+      .bg { fill: #f8fafc; }
+      .ink { fill: #172233; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 48px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 25px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 25px; font-weight: 800; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 21px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 19px; }
+      .card { fill: #ffffff; stroke: #cfd8e3; stroke-width: 3; }
+      .principle { fill: #eef4fb; stroke: #c5d7ea; stroke-width: 2; }
+      .band { fill: #e8f0f8; stroke: #b9cde1; stroke-width: 2; }
+      .blue { fill: #1f4e79; }
+      .green { fill: #2f7d5a; }
+      .amber { fill: #b7791f; }
+      .red { fill: #a94442; }
+      .gray { fill: #64748b; }
+      .arrow { stroke: #1f4e79; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowHead); }
+    </style>
+    <marker id="arrowHead" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#1f4e79"/>
+    </marker>
+  </defs>
+
+  <rect class="bg" width="1600" height="760"/>
+  <text class="ink title" x="800" y="70" text-anchor="middle">Accesso al pubblico impiego</text>
+  <text class="muted subtitle" x="800" y="110" text-anchor="middle">Il concorso collega fabbisogno, imparzialità e buon andamento.</text>
+
+  <path class="arrow" d="M 385 315 L 430 315"/>
+  <path class="arrow" d="M 640 315 L 685 315"/>
+  <path class="arrow" d="M 895 315 L 940 315"/>
+  <path class="arrow" d="M 1150 315 L 1195 315"/>
+
+  <g transform="translate(175 235)">
+    <rect class="card" width="210" height="160" rx="18"/>
+    <circle class="blue" cx="42" cy="42" r="24"/>
+    <text x="42" y="51" text-anchor="middle" style="fill:#fff;font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:24px;font-weight:900;">1</text>
+    <text class="blue label" x="78" y="50">Fabbisogno</text>
+    <text class="muted body" x="105" y="100" text-anchor="middle">profili e</text>
+    <text class="muted body" x="105" y="130" text-anchor="middle">competenze</text>
+  </g>
+
+  <g transform="translate(430 235)">
+    <rect class="card" width="210" height="160" rx="18"/>
+    <circle class="green" cx="42" cy="42" r="24"/>
+    <text x="42" y="51" text-anchor="middle" style="fill:#fff;font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:24px;font-weight:900;">2</text>
+    <text class="green label" x="85" y="50">Bando</text>
+    <text class="muted body" x="105" y="100" text-anchor="middle">requisiti, prove</text>
+    <text class="muted body" x="105" y="130" text-anchor="middle">e termini</text>
+  </g>
+
+  <g transform="translate(685 235)">
+    <rect class="card" width="210" height="160" rx="18"/>
+    <circle class="amber" cx="42" cy="42" r="24"/>
+    <text x="42" y="51" text-anchor="middle" style="fill:#fff;font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:24px;font-weight:900;">3</text>
+    <text class="amber label" x="85" y="50">Prove</text>
+    <text class="muted body" x="105" y="100" text-anchor="middle">criteri uguali</text>
+    <text class="muted body" x="105" y="130" text-anchor="middle">e valutazione</text>
+  </g>
+
+  <g transform="translate(940 235)">
+    <rect class="card" width="210" height="160" rx="18"/>
+    <circle class="red" cx="42" cy="42" r="24"/>
+    <text x="42" y="51" text-anchor="middle" style="fill:#fff;font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:24px;font-weight:900;">4</text>
+    <text class="red label" x="78" y="50">Graduatoria</text>
+    <text class="muted body" x="105" y="100" text-anchor="middle">ordine esiti</text>
+    <text class="muted body" x="105" y="130" text-anchor="middle">regole chiare</text>
+  </g>
+
+  <g transform="translate(1195 235)">
+    <rect class="card" width="210" height="160" rx="18"/>
+    <circle class="gray" cx="42" cy="42" r="24"/>
+    <text x="42" y="51" text-anchor="middle" style="fill:#fff;font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:24px;font-weight:900;">5</text>
+    <text class="gray label" x="78" y="50">Assunzione</text>
+    <text class="muted body" x="105" y="100" text-anchor="middle">rapporto</text>
+    <text class="muted body" x="105" y="130" text-anchor="middle">di lavoro</text>
+  </g>
+
+  <g transform="translate(235 500)">
+    <rect class="principle" width="310" height="82" rx="16"/>
+    <text class="blue label" x="155" y="36" text-anchor="middle">Pubblicità</text>
+    <text class="muted small" x="155" y="62" text-anchor="middle">regole conoscibili</text>
+  </g>
+  <g transform="translate(645 500)">
+    <rect class="principle" width="310" height="82" rx="16"/>
+    <text class="green label" x="155" y="36" text-anchor="middle">Imparzialità</text>
+    <text class="muted small" x="155" y="62" text-anchor="middle">criteri predeterminati</text>
+  </g>
+  <g transform="translate(1055 500)">
+    <rect class="principle" width="310" height="82" rx="16"/>
+    <text class="amber label" x="155" y="36" text-anchor="middle">Buon andamento</text>
+    <text class="muted small" x="155" y="62" text-anchor="middle">competenze adeguate</text>
+  </g>
+
+  <rect class="band" x="320" y="650" width="960" height="52" rx="26"/>
+  <text class="blue" x="800" y="684" text-anchor="middle" style="font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:22px;font-weight:800;">Errore da evitare: separare concorso, fabbisogno e organizzazione.</text>
+</svg>

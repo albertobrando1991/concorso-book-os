@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="820" viewBox="0 0 1600 820" role="img" aria-labelledby="title desc">
+  <title id="title">Doveri e codice di comportamento</title>
+  <desc id="desc">Schema per risolvere casi pratici su doveri del dipendente pubblico, condotta corretta e rischio da evitare.</desc>
+  <defs>
+    <style>
+      .bg { fill: #f8fafc; }
+      .ink { fill: #172233; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 48px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 25px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 27px; font-weight: 800; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 21px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 19px; }
+      .card { fill: #ffffff; stroke: #cfd8e3; stroke-width: 3; }
+      .step { fill: #eef4fb; stroke: #c5d7ea; stroke-width: 2; }
+      .risk { fill: #f7e0de; stroke: #d4a2a0; stroke-width: 2; }
+      .band { fill: #e8f0f8; stroke: #b9cde1; stroke-width: 2; }
+      .blue { fill: #1f4e79; }
+      .green { fill: #2f7d5a; }
+      .amber { fill: #b7791f; }
+      .red { fill: #a94442; }
+      .gray { fill: #64748b; }
+      .arrow { stroke: #1f4e79; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowHead); }
+    </style>
+    <marker id="arrowHead" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#1f4e79"/>
+    </marker>
+  </defs>
+
+  <rect class="bg" width="1600" height="820"/>
+  <text class="ink title" x="800" y="70" text-anchor="middle">Doveri e codice di comportamento</text>
+  <text class="muted subtitle" x="800" y="110" text-anchor="middle">Nel caso pratico devi passare dal fatto alla condotta corretta.</text>
+
+  <path class="arrow" d="M 390 245 L 470 245"/>
+  <path class="arrow" d="M 720 245 L 800 245"/>
+  <path class="arrow" d="M 1050 245 L 1130 245"/>
+
+  <g transform="translate(130 180)">
+    <rect class="step" width="260" height="130" rx="18"/>
+    <text class="blue label" x="130" y="45" text-anchor="middle">1. Fatto</text>
+    <text class="muted body" x="130" y="78" text-anchor="middle">regalo, dati</text>
+    <text class="muted body" x="130" y="106" text-anchor="middle">o conflitto</text>
+  </g>
+  <g transform="translate(470 180)">
+    <rect class="step" width="250" height="130" rx="18"/>
+    <text class="green label" x="125" y="45" text-anchor="middle">2. Dovere</text>
+    <text class="muted body" x="125" y="78" text-anchor="middle">regola violata</text>
+    <text class="muted body" x="125" y="106" text-anchor="middle">o da applicare</text>
+  </g>
+  <g transform="translate(800 180)">
+    <rect class="step" width="250" height="130" rx="18"/>
+    <text class="amber label" x="125" y="45" text-anchor="middle">3. Condotta</text>
+    <text class="muted body" x="125" y="78" text-anchor="middle">rifiutare, segnalare</text>
+    <text class="muted body" x="125" y="106" text-anchor="middle">o astenersi</text>
+  </g>
+  <g transform="translate(1130 180)">
+    <rect class="risk" width="340" height="130" rx="18"/>
+    <text class="red label" x="170" y="45" text-anchor="middle">4. Rischio evitato</text>
+    <text class="muted body" x="170" y="78" text-anchor="middle">favoritismo, abuso</text>
+    <text class="muted body" x="170" y="106" text-anchor="middle">o danno alla PA</text>
+  </g>
+
+  <g transform="translate(120 430)">
+    <rect class="card" width="260" height="118" rx="17"/>
+    <text class="red label" x="130" y="42" text-anchor="middle">Regali</text>
+    <text class="muted small" x="130" y="72" text-anchor="middle">rifiuta utilità</text>
+    <text class="muted small" x="130" y="98" text-anchor="middle">non compatibili</text>
+  </g>
+  <g transform="translate(410 430)">
+    <rect class="card" width="260" height="118" rx="17"/>
+    <text class="amber label" x="130" y="42" text-anchor="middle">Conflitto</text>
+    <text class="muted small" x="130" y="72" text-anchor="middle">segnala e valuta</text>
+    <text class="muted small" x="130" y="98" text-anchor="middle">astensione</text>
+  </g>
+  <g transform="translate(700 430)">
+    <rect class="card" width="260" height="118" rx="17"/>
+    <text class="blue label" x="130" y="42" text-anchor="middle">Dati</text>
+    <text class="muted small" x="130" y="72" text-anchor="middle">accesso solo</text>
+    <text class="muted small" x="130" y="98" text-anchor="middle">per servizio</text>
+  </g>
+  <g transform="translate(990 430)">
+    <rect class="card" width="260" height="118" rx="17"/>
+    <text class="green label" x="130" y="42" text-anchor="middle">Beni pubblici</text>
+    <text class="muted small" x="130" y="72" text-anchor="middle">uso per fini</text>
+    <text class="muted small" x="130" y="98" text-anchor="middle">istituzionali</text>
+  </g>
+  <g transform="translate(1280 430)">
+    <rect class="card" width="200" height="118" rx="17"/>
+    <text class="gray label" x="100" y="42" text-anchor="middle">Utenti</text>
+    <text class="muted small" x="100" y="72" text-anchor="middle">rispetto</text>
+    <text class="muted small" x="100" y="98" text-anchor="middle">e correttezza</text>
+  </g>
+
+  <rect class="band" x="250" y="660" width="1100" height="58" rx="29"/>
+  <text class="blue" x="800" y="697" text-anchor="middle" style="font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:23px;font-weight:800;">Schema risposta: fatto, dovere, rischio, comportamento corretto.</text>
+</svg>

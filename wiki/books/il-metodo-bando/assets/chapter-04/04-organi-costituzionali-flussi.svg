@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1100" viewBox="0 0 1600 1100" role="img" aria-labelledby="title desc">
+  <title id="title">Organi costituzionali e flussi decisivi</title>
+  <desc id="desc">Mappa delle relazioni tra Parlamento, Governo, Presidente della Repubblica, Corte costituzionale, Magistratura e autonomie.</desc>
+  <defs>
+    <style>
+      .bg { fill: #f8fafc; }
+      .ink { fill: #172233; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 50px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 27px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 29px; font-weight: 800; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 22px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 19px; }
+      .card { fill: #ffffff; stroke: #cfd8e3; stroke-width: 3; }
+      .blue { fill: #1f4e79; }
+      .green { fill: #2f7d5a; }
+      .amber { fill: #b7791f; }
+      .red { fill: #a94442; }
+      .gray { fill: #64748b; }
+      .line { stroke: #1f4e79; stroke-width: 5; stroke-linecap: round; }
+      .soft-line { stroke: #9db4ca; stroke-width: 4; stroke-linecap: round; }
+      .band { fill: #e8f0f8; stroke: #b9cde1; stroke-width: 2; }
+      .pill { fill: #eef4fb; stroke: #c5d7ea; stroke-width: 2; }
+    </style>
+    <marker id="arrowhead" markerWidth="24" markerHeight="24" refX="21" refY="12" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M 3 3 L 21 12 L 3 21 z" fill="#1f4e79"/>
+    </marker>
+    <marker id="arrow-soft" markerWidth="20" markerHeight="20" refX="18" refY="10" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M 3 3 L 18 10 L 3 17 z" fill="#9db4ca"/>
+    </marker>
+  </defs>
+
+  <rect class="bg" width="1600" height="1100"/>
+  <text class="ink title" x="800" y="82" text-anchor="middle">Organi costituzionali e flussi decisivi</text>
+  <text class="muted subtitle" x="800" y="126" text-anchor="middle">Studia gli organi per funzione e relazione, non come nomi isolati.</text>
+
+  <g transform="translate(500 168)">
+    <rect class="card" x="0" y="0" width="600" height="150" rx="18"/>
+    <text class="amber label" x="300" y="52" text-anchor="middle">Presidente della Repubblica</text>
+    <text class="muted body" x="300" y="92" text-anchor="middle">garanzia costituzionale e unità nazionale</text>
+    <text class="muted small" x="300" y="122" text-anchor="middle">nomina, promulga, rinvia, scioglie nei casi previsti</text>
+  </g>
+
+  <g transform="translate(90 390)">
+    <rect class="card" x="0" y="0" width="390" height="220" rx="18"/>
+    <text class="blue label" x="195" y="54" text-anchor="middle">Parlamento</text>
+    <text class="muted body" x="195" y="98" text-anchor="middle">legge, fiducia, indirizzo</text>
+    <text class="muted body" x="195" y="130" text-anchor="middle">e controllo politico</text>
+    <rect class="pill" x="78" y="162" width="234" height="42" rx="21"/>
+    <text class="ink small" x="195" y="190" text-anchor="middle">Camera + Senato</text>
+  </g>
+
+  <g transform="translate(605 410)">
+    <rect class="card" x="0" y="0" width="390" height="190" rx="18"/>
+    <text class="red label" x="195" y="54" text-anchor="middle">Corte costituzionale</text>
+    <text class="muted body" x="195" y="98" text-anchor="middle">controlla leggi e conflitti</text>
+    <text class="muted body" x="195" y="130" text-anchor="middle">garantisce la rigidità</text>
+    <rect class="pill" x="102" y="148" width="186" height="32" rx="16"/>
+    <text class="ink small" x="195" y="170" text-anchor="middle">15 giudici</text>
+  </g>
+
+  <g transform="translate(1120 390)">
+    <rect class="card" x="0" y="0" width="390" height="220" rx="18"/>
+    <text class="green label" x="195" y="54" text-anchor="middle">Governo</text>
+    <text class="muted body" x="195" y="98" text-anchor="middle">indirizzo politico-amministrativo</text>
+    <text class="muted body" x="195" y="130" text-anchor="middle">e atti normativi nei casi previsti</text>
+    <rect class="pill" x="72" y="162" width="246" height="42" rx="21"/>
+    <text class="ink small" x="195" y="190" text-anchor="middle">decreti + regolamenti</text>
+  </g>
+
+  <g transform="translate(185 705)">
+    <rect class="card" x="0" y="0" width="520" height="155" rx="18"/>
+    <text class="gray label" x="260" y="52" text-anchor="middle">Magistratura</text>
+    <text class="muted body" x="260" y="94" text-anchor="middle">funzione giurisdizionale autonoma</text>
+    <text class="muted small" x="260" y="124" text-anchor="middle">giudice, PM, CSM, giusto processo</text>
+  </g>
+
+  <g transform="translate(895 705)">
+    <rect class="card" x="0" y="0" width="520" height="155" rx="18"/>
+    <text class="blue label" x="260" y="52" text-anchor="middle">Regioni e autonomie</text>
+    <text class="muted body" x="260" y="94" text-anchor="middle">competenze legislative e funzioni amministrative</text>
+    <text class="muted small" x="260" y="124" text-anchor="middle">art. 117, 118, 119 e 120 Cost.</text>
+  </g>
+
+  <path class="line" marker-end="url(#arrowhead)" d="M500 635 H1100"/>
+  <path class="line" marker-end="url(#arrowhead)" d="M1100 672 H500"/>
+  <text class="blue small" x="800" y="626" text-anchor="middle" style="font-weight:800;">fiducia</text>
+  <text class="green small" x="800" y="664" text-anchor="middle" style="font-weight:800;">delega, conversione e controllo</text>
+
+  <path class="soft-line" marker-end="url(#arrow-soft)" d="M690 318 C575 340 460 360 365 390"/>
+  <path class="soft-line" marker-end="url(#arrow-soft)" d="M910 318 C1025 340 1140 360 1235 390"/>
+  <path class="soft-line" marker-end="url(#arrow-soft)" d="M800 318 V410"/>
+  <rect class="band" x="136" y="922" width="1328" height="68" rx="34"/>
+  <text class="blue" x="800" y="950" text-anchor="middle" style="font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:22px;font-weight:800;">Formula da prova: chi decide, con quale atto, sotto quale controllo e con quale rapporto con gli altri organi.</text>
+  <text class="muted small" x="800" y="980" text-anchor="middle">Legge: iniziativa, Camere, promulgazione, pubblicazione. Governo: decreto-legge e decreto legislativo sono atti diversi.</text>
+</svg>

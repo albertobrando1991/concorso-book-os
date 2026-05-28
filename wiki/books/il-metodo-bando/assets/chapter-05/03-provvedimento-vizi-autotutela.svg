@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Provvedimento, vizi e autotutela</title>
+  <desc id="desc">Schema per qualificare il provvedimento amministrativo, individuare i vizi e scegliere il rimedio corretto.</desc>
+  <defs>
+    <style>
+      .bg { fill: #f8fafc; }
+      .ink { fill: #172233; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 50px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 27px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 28px; font-weight: 800; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 22px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .panel { fill: #ffffff; stroke: #cfd8e3; stroke-width: 3; }
+      .card { fill: #f8fafc; stroke: #d3dce7; stroke-width: 2; }
+      .band { fill: #fff2d7; stroke: #d9a441; stroke-width: 2; }
+      .blue { fill: #1f4e79; }
+      .green { fill: #2f7d5a; }
+      .amber { fill: #b7791f; }
+      .red { fill: #a94442; }
+      .gray { fill: #64748b; }
+      .arrow { stroke: #1f4e79; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowHead); }
+    </style>
+    <marker id="arrowHead" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#1f4e79"/>
+    </marker>
+  </defs>
+
+  <rect class="bg" width="1600" height="1000"/>
+  <text class="ink title" x="800" y="82" text-anchor="middle">Provvedimento, vizi e autotutela</text>
+  <text class="muted subtitle" x="800" y="126" text-anchor="middle">Prima qualifica l'atto, poi individua vizio, effetti e rimedio.</text>
+
+  <path class="arrow" d="M 510 505 L 565 505"/>
+  <path class="arrow" d="M 1015 505 L 1070 505"/>
+
+  <g transform="translate(80 205)">
+    <rect class="panel" width="430" height="600" rx="20"/>
+    <text class="blue label" x="215" y="58" text-anchor="middle">1. Provvedimento</text>
+    <text class="muted small" x="215" y="90" text-anchor="middle">atto finale con effetti esterni</text>
+    <g transform="translate(42 130)">
+      <rect class="card" width="346" height="82" rx="14"/>
+      <text class="ink body" x="28" y="34" style="font-weight:800;">Soggetto competente</text>
+      <text class="muted small" x="28" y="62">chi può adottare l'atto</text>
+    </g>
+    <g transform="translate(42 230)">
+      <rect class="card" width="346" height="82" rx="14"/>
+      <text class="ink body" x="28" y="34" style="font-weight:800;">Oggetto e contenuto</text>
+      <text class="muted small" x="28" y="62">che cosa decide la PA</text>
+    </g>
+    <g transform="translate(42 330)">
+      <rect class="card" width="346" height="82" rx="14"/>
+      <text class="ink body" x="28" y="34" style="font-weight:800;">Motivazione</text>
+      <text class="muted small" x="28" y="62">fatti, norme e ragioni</text>
+    </g>
+    <g transform="translate(42 430)">
+      <rect class="card" width="346" height="82" rx="14"/>
+      <text class="ink body" x="28" y="34" style="font-weight:800;">Effetti esterni</text>
+      <text class="muted small" x="28" y="62">autorizza, nega, ordina</text>
+    </g>
+  </g>
+
+  <g transform="translate(585 205)">
+    <rect class="panel" width="430" height="600" rx="20"/>
+    <text class="red label" x="215" y="58" text-anchor="middle">2. Vizi da riconoscere</text>
+    <text class="muted small" x="215" y="90" text-anchor="middle">non ogni vizio produce nullità</text>
+    <g transform="translate(42 145)">
+      <rect class="card" width="346" height="95" rx="14"/>
+      <text class="red body" x="28" y="38" style="font-weight:800;">Violazione di legge</text>
+      <text class="muted small" x="28" y="68">norma non rispettata</text>
+    </g>
+    <g transform="translate(42 275)">
+      <rect class="card" width="346" height="95" rx="14"/>
+      <text class="red body" x="28" y="38" style="font-weight:800;">Incompetenza</text>
+      <text class="muted small" x="28" y="68">organo o ufficio errato</text>
+    </g>
+    <g transform="translate(42 405)">
+      <rect class="card" width="346" height="95" rx="14"/>
+      <text class="red body" x="28" y="38" style="font-weight:800;">Eccesso di potere</text>
+      <text class="muted small" x="28" y="68">illogicità, sviamento, disparità</text>
+    </g>
+  </g>
+
+  <g transform="translate(1090 205)">
+    <rect class="panel" width="430" height="600" rx="20"/>
+    <text class="green label" x="215" y="58" text-anchor="middle">3. Effetti e rimedi</text>
+    <text class="muted small" x="215" y="90" text-anchor="middle">scegli la categoria corretta</text>
+    <g transform="translate(42 130)">
+      <rect class="card" width="346" height="92" rx="14"/>
+      <text class="green body" x="28" y="36" style="font-weight:800;">Annullabilità</text>
+      <text class="muted small" x="28" y="64">effetti fino alla rimozione</text>
+    </g>
+    <g transform="translate(42 245)">
+      <rect class="card" width="346" height="92" rx="14"/>
+      <text class="green body" x="28" y="36" style="font-weight:800;">Nullità</text>
+      <text class="muted small" x="28" y="64">vizio radicale previsto</text>
+    </g>
+    <g transform="translate(42 360)">
+      <rect class="card" width="346" height="92" rx="14"/>
+      <text class="green body" x="28" y="36" style="font-weight:800;">Revoca</text>
+      <text class="muted small" x="28" y="64">rimuove per il futuro</text>
+    </g>
+    <g transform="translate(42 475)">
+      <rect class="card" width="346" height="92" rx="14"/>
+      <text class="green body" x="28" y="36" style="font-weight:800;">Annullamento d'ufficio</text>
+      <text class="muted small" x="28" y="64">o convalida motivata</text>
+    </g>
+  </g>
+
+  <rect class="band" x="260" y="885" width="1080" height="62" rx="31"/>
+  <text class="amber" x="800" y="925" text-anchor="middle" style="font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:24px;font-weight:800;">Errore da evitare: dire che ogni vizio rende nullo l'atto.</text>
+</svg>

@@ -22,21 +22,3 @@ last_compiled_from: ["sources/struttura-madre-il-metodo-bando.md"]
 
 # Appendice B - Le 100 parole chiave dei concorsi pubblici
 
-## Obiettivo didattico
-Offrire parole-concetto da usare nelle risposte scritte e orali.
-
-## Specifica struttura madre
-Parole: legalita, imparzialita, buon andamento, efficienza, efficacia, economicita, proporzionalita, trasparenza, semplificazione, digitalizzazione, responsabilita, partecipazione, controllo, programmazione, competenza, motivazione, tutela, interesse pubblico.
-
-Per ogni parola: definizione breve, perche e' importante, come usarla in una risposta.
-
-## Testo editoriale
-Da sviluppare con Manual Writer Agent.
-
-## Bozza agente
-
-## Note editoriali
-- Da rivedere per nuova fonte [[sources/gazzetta-ufficiale-n-111-del-15-maggio-2025-decreto-pat-e-formweb]].
-
-- Da rivedere per nuova fonte [[sources/cedu-savino-ed-altri-c-italia-28-aprile-2009-concorsi-e-art-6-cedu]].
-

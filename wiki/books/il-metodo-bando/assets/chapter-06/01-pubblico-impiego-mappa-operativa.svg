@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="940" viewBox="0 0 1600 940" role="img" aria-labelledby="title desc">
+  <title id="title">Pubblico impiego e organizzazione della PA</title>
+  <desc id="desc">Mappa operativa del pubblico impiego: rapporto di lavoro, servizio pubblico, accesso, doveri, responsabilità, dirigenza, performance e PIAO.</desc>
+  <defs>
+    <style>
+      .bg { fill: #f8fafc; }
+      .ink { fill: #172233; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 46px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 24px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 28px; font-weight: 800; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 22px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .card { fill: #ffffff; stroke: #cfd8e3; stroke-width: 3; }
+      .hub { fill: #ffffff; stroke: #1f4e79; stroke-width: 5; }
+      .chip { fill: #eef4fb; stroke: #c5d7ea; stroke-width: 2.5; }
+      .band { fill: #e8f0f8; stroke: #b9cde1; stroke-width: 2; }
+      .note { fill: #fff7ed; stroke: #e7c18e; stroke-width: 2.5; }
+      .blue { fill: #1f4e79; }
+      .green { fill: #2f7d5a; }
+      .amber { fill: #b7791f; }
+      .red { fill: #a94442; }
+      .gray { fill: #64748b; }
+      .line { stroke: #9db4ca; stroke-width: 4; stroke-linecap: round; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="1600" height="940"/>
+  <text class="ink title" x="800" y="70" text-anchor="middle">Pubblico impiego e organizzazione della PA</text>
+  <text class="muted subtitle" x="800" y="110" text-anchor="middle">Il lavoro pubblico unisce rapporto contrattuale, funzione amministrativa e responsabilità.</text>
+
+  <g transform="translate(110 165)">
+    <rect class="card" width="420" height="150" rx="18"/>
+    <text class="blue label" x="210" y="47" text-anchor="middle">Rapporto di lavoro</text>
+    <text class="muted body" x="210" y="84" text-anchor="middle">diritti, mansioni, CCNL</text>
+    <text class="muted body" x="210" y="116" text-anchor="middle">orario, ferie e trattamento</text>
+  </g>
+
+  <g transform="translate(1070 165)">
+    <rect class="card" width="420" height="150" rx="18"/>
+    <text class="green label" x="210" y="47" text-anchor="middle">Servizio pubblico</text>
+    <text class="muted body" x="210" y="84" text-anchor="middle">legalità e imparzialità</text>
+    <text class="muted body" x="210" y="116" text-anchor="middle">buon andamento e utenti</text>
+  </g>
+
+  <line class="line" x1="530" y1="240" x2="620" y2="340"/>
+  <line class="line" x1="1070" y1="240" x2="980" y2="340"/>
+
+  <g transform="translate(620 285)">
+    <rect class="hub" width="360" height="145" rx="24"/>
+    <text class="blue label" x="180" y="55" text-anchor="middle">Dipendente pubblico</text>
+    <text class="muted body" x="180" y="94" text-anchor="middle">persona, ufficio, funzione</text>
+  </g>
+
+  <line class="line" x1="800" y1="430" x2="800" y2="520"/>
+  <line class="line" x1="260" y1="520" x2="1340" y2="520"/>
+  <line class="line" x1="260" y1="520" x2="260" y2="550"/>
+  <line class="line" x1="530" y1="520" x2="530" y2="550"/>
+  <line class="line" x1="800" y1="520" x2="800" y2="550"/>
+  <line class="line" x1="1070" y1="520" x2="1070" y2="550"/>
+  <line class="line" x1="1340" y1="520" x2="1340" y2="550"/>
+
+  <g transform="translate(110 550)">
+    <rect class="chip" width="300" height="105" rx="18"/>
+    <text class="blue label" x="150" y="38" text-anchor="middle">Accesso</text>
+    <text class="muted small" x="150" y="69" text-anchor="middle">concorso pubblico</text>
+    <text class="muted small" x="150" y="94" text-anchor="middle">e fabbisogno</text>
+  </g>
+  <g transform="translate(380 675)">
+    <rect class="chip" width="300" height="105" rx="18"/>
+    <text class="green label" x="150" y="38" text-anchor="middle">Doveri</text>
+    <text class="muted small" x="150" y="69" text-anchor="middle">codice di comportamento</text>
+    <text class="muted small" x="150" y="94" text-anchor="middle">e condotte operative</text>
+  </g>
+  <g transform="translate(650 550)">
+    <rect class="chip" width="300" height="105" rx="18"/>
+    <text class="red label" x="150" y="38" text-anchor="middle">Responsabilità</text>
+    <text class="muted small" x="150" y="69" text-anchor="middle">disciplinare, contabile</text>
+    <text class="muted small" x="150" y="94" text-anchor="middle">civile, penale, dirigenziale</text>
+  </g>
+  <g transform="translate(920 675)">
+    <rect class="chip" width="300" height="105" rx="18"/>
+    <text class="amber label" x="150" y="38" text-anchor="middle">Dirigenza</text>
+    <text class="muted small" x="150" y="69" text-anchor="middle">gestione, personale</text>
+    <text class="muted small" x="150" y="94" text-anchor="middle">controlli e risultati</text>
+  </g>
+  <g transform="translate(1190 550)">
+    <rect class="chip" width="300" height="105" rx="18"/>
+    <text class="gray label" x="150" y="38" text-anchor="middle">Performance e PIAO</text>
+    <text class="muted small" x="150" y="69" text-anchor="middle">obiettivi, rischi</text>
+    <text class="muted small" x="150" y="94" text-anchor="middle">organizzazione integrata</text>
+  </g>
+
+  <rect class="band" x="170" y="820" width="610" height="78" rx="24"/>
+  <text class="blue" x="475" y="852" text-anchor="middle" style="font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:23px;font-weight:800;">Lettura da concorso</text>
+  <text class="muted" x="475" y="880" text-anchor="middle" style="font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:20px;">ogni condotta va collegata a ufficio, servizio e rischio.</text>
+
+  <rect class="note" x="820" y="820" width="610" height="78" rx="24"/>
+  <text class="amber" x="1125" y="852" text-anchor="middle" style="font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:23px;font-weight:800;">Errore da evitare</text>
+  <text class="muted" x="1125" y="880" text-anchor="middle" style="font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:20px;">studiare il rapporto senza organizzazione e responsabilità.</text>
+</svg>

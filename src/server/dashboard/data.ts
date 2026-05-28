@@ -1,6 +1,7 @@
 import { getWikiRoot } from "../config"
 import { listArtifacts } from "../artifacts/service"
 import { LintAgent } from "../agents/lint-agent"
+import { LocalAgentMemory } from "../memory/local-agent-memory"
 import { FileWikiStore } from "../wiki/file-store"
 import { parseFrontmatter } from "../wiki/frontmatter"
 import type {
@@ -22,6 +23,7 @@ export async function getDashboardData(): Promise<DashboardData> {
   const lint = new LintAgent(store)
   const qualityIssues = await lint.analyze()
   const draftChapters = books.reduce((count, book) => count + book.chapters, 0)
+  const memoryStats = await LocalAgentMemory.fromConfig().stats()
 
   return {
     metrics: {
@@ -30,7 +32,9 @@ export async function getDashboardData(): Promise<DashboardData> {
       recentTopics: topics.filter((topic) => isRecent(topic.updatedAt)).length,
       draftChapters,
       consolidatedChapters: books.filter((book) => book.status === "consolidated").length,
-      openConflicts: qualityIssues.filter((issue) => issue.issueType.includes("conflict")).length
+      openConflicts: qualityIssues.filter((issue) => issue.issueType.includes("conflict")).length,
+      memoryConversations: memoryStats.conversations,
+      memoryAtoms: memoryStats.atoms
     },
     sources,
     topics,

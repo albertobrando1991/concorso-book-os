@@ -15,6 +15,22 @@ export function getArtifactsRoot() {
   return path.resolve(getProjectRoot(), "artifacts")
 }
 
+export function getAgentMemoryConfig() {
+  const root = process.env.AGENT_MEMORY_ROOT
+    ? path.resolve(getProjectRoot(), process.env.AGENT_MEMORY_ROOT)
+    : path.join(getWikiRoot(), "memory", "agent")
+
+  return {
+    enabled: process.env.AGENT_MEMORY_ENABLED !== "false",
+    root,
+    recallMaxResults: readPositiveInt("AGENT_MEMORY_RECALL_MAX_RESULTS", 5),
+    recallMaxTotalChars: readPositiveInt("AGENT_MEMORY_RECALL_MAX_CHARS", 3500),
+    maxCharsPerMessage: readPositiveInt("AGENT_MEMORY_MAX_CHARS_PER_MESSAGE", 6000),
+    maxMessagesPerConversation: readPositiveInt("AGENT_MEMORY_MAX_MESSAGES_PER_CONVERSATION", 24),
+    maxAtomsPerConversation: readPositiveInt("AGENT_MEMORY_MAX_ATOMS_PER_CONVERSATION", 8)
+  }
+}
+
 export function getObsidianConfig() {
   return {
     baseUrl: process.env.OBSIDIAN_BASE_URL || "https://127.0.0.1:27124",
@@ -26,6 +42,14 @@ export function getOpenAiConfig() {
   return {
     apiKey: process.env.OPENAI_API_KEY || "",
     model: process.env.DEFAULT_LLM_MODEL || "gpt-4.1-mini"
+  }
+}
+
+export function getKimiConfig() {
+  return {
+    apiKey: process.env.KIMI_API_KEY || "",
+    baseUrl: normalizeBaseUrl(process.env.KIMI_API_BASE || "https://api.moonshot.ai/v1"),
+    model: process.env.KIMI_MODEL || "kimi-k2.6"
   }
 }
 
@@ -52,16 +76,19 @@ export function getGlmOcrConfig() {
   }
 }
 
-export type WriterProvider = "codex" | "claude" | "openai" | "hermes" | "local"
+export const WRITER_PROVIDERS = ["codex", "claude", "kimi", "openai", "hermes", "local"] as const
+
+export type WriterProvider = (typeof WRITER_PROVIDERS)[number]
 
 export function getWriterConfig() {
   const requestedProvider = process.env.WRITER_PROVIDER || "codex"
-  const provider: WriterProvider = ["codex", "claude", "openai", "hermes", "local"].includes(requestedProvider)
+  const provider: WriterProvider = WRITER_PROVIDERS.includes(requestedProvider as WriterProvider)
     ? (requestedProvider as WriterProvider)
     : "codex"
   const timeoutMs = Number(process.env.CODEX_WRITER_TIMEOUT_MS || 240000)
   const claudeTimeoutMs = Number(process.env.CLAUDE_WRITER_TIMEOUT_MS || timeoutMs || 240000)
   const openAiConfig = getOpenAiConfig()
+  const kimiConfig = getKimiConfig()
   const hermesConfig = getHermesConfig()
   const codexModel = process.env.CODEX_WRITER_MODEL || "gpt-5.5"
   const codexReasoningEffort = process.env.CODEX_WRITER_REASONING_EFFORT || "xhigh"
@@ -78,10 +105,15 @@ export function getWriterConfig() {
     claudeModel,
     claudeReasoningEffort,
     claudeTimeoutMs: Number.isFinite(claudeTimeoutMs) ? claudeTimeoutMs : 240000,
+    kimiApiKey: kimiConfig.apiKey,
+    kimiBaseUrl: kimiConfig.baseUrl,
+    kimiModel: kimiConfig.model,
     hermesModel: hermesConfig.model,
     writerModel:
       provider === "hermes"
         ? hermesConfig.model
+        : provider === "kimi"
+          ? kimiConfig.model
         : provider === "openai"
           ? openAiConfig.model
           : provider === "codex"
@@ -96,4 +128,10 @@ export function getWriterConfig() {
 
 function normalizeBaseUrl(value: string) {
   return value.replace(/\/+$/, "")
+}
+
+function readPositiveInt(name: string, fallback: number) {
+  const parsed = Number(process.env[name] || fallback)
+
+  return Number.isFinite(parsed) && parsed > 0 ? Math.floor(parsed) : fallback
 }

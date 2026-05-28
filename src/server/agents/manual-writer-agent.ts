@@ -1,8 +1,9 @@
-import { getHermesConfig, getOpenAiConfig, getWriterConfig, type WriterProvider } from "../config"
+import { getHermesConfig, getKimiConfig, getOpenAiConfig, getWriterConfig, type WriterProvider } from "../config"
 import { completeWithClaudeCode } from "../llm/claude-code-adapter"
 import { completeWithCodexCli } from "../llm/codex-cli-adapter"
 import { HermesLlmClient } from "../llm/hermes-adapter"
 import { OpenAiLlmClient } from "../llm/openai-adapter"
+import { LocalAgentMemory } from "../memory/local-agent-memory"
 import { parseFrontmatter } from "../wiki/frontmatter"
 import { FileWikiStore } from "../wiki/file-store"
 import { slugify } from "../wiki/slug"
@@ -33,7 +34,8 @@ export interface ManualWriterResult {
   changedFiles: string[]
   knowledgeUsed: string[]
   draft: string
-  writerProvider: "codex" | "claude" | "openai" | "hermes" | "local"
+  writerProvider: WriterProvider
+  memoryUsed: string[]
   warnings: string[]
 }
 
@@ -94,6 +96,18 @@ export class ManualWriterAgent {
     const knowledge = await this.loadKnowledgePack(chapter.data)
     const structureGuide = await this.loadStructureGuide(input.chapterPath)
     const designGuide = await this.loadDesignGuide(input.chapterPath)
+    const memory = LocalAgentMemory.fromConfig()
+    const memoryRecall = await memory.recall({
+      scope: "manual-writer",
+      query: [
+        String(chapter.data.title || input.chapterPath),
+        input.chapterPath,
+        input.mode,
+        input.instruction,
+        asStringArray(chapter.data.topics).join(" "),
+        asStringArray(chapter.data.source_refs).join(" ")
+      ].join("\n")
+    })
     const generation = await this.generateDraft({
       title: String(chapter.data.title || input.chapterPath),
       instruction: input.instruction,
@@ -102,7 +116,8 @@ export class ManualWriterAgent {
       chapterContent,
       structureGuide,
       designGuide,
-      knowledge
+      knowledge,
+      memoryContext: memoryRecall.context
     })
     const draft = generation.text
     const now = new Date().toISOString()
@@ -117,8 +132,34 @@ export class ManualWriterAgent {
     })
     await this.store.appendText(
       "log.md",
-      `\n- ${now} | manual_writer | ${input.chapterPath} | mode=${input.mode} | target_heading=${targetHeading} | knowledge=${knowledge.length}`
+      `\n- ${now} | manual_writer | ${input.chapterPath} | mode=${input.mode} | target_heading=${targetHeading} | knowledge=${knowledge.length} | memory=${memoryRecall.memories.length}`
     )
+    await memory.captureConversation({
+      scope: "manual-writer",
+      route: "ManualWriterAgent.writeChapter",
+      messages: [
+        {
+          role: "user",
+          content: [
+            `chapterPath=${input.chapterPath}`,
+            `mode=${input.mode}`,
+            `instruction=${input.instruction || "Scrivi una bozza editoriale migliorata."}`
+          ].join("\n")
+        }
+      ],
+      reply: [
+        `Manual Writer completato su ${input.chapterPath}.`,
+        `Provider: ${generation.provider}.`,
+        `Knowledge consolidata usata: ${knowledge.map((item) => item.path).join(", ") || "none"}.`,
+        generation.warnings.length > 0 ? `Warnings: ${generation.warnings.join(" | ")}` : ""
+      ].filter(Boolean).join("\n"),
+      metadata: {
+        chapterPath: input.chapterPath,
+        mode: input.mode,
+        provider: generation.provider,
+        recalledMemories: memoryRecall.memories.length
+      }
+    }).catch(() => undefined)
 
     return {
       status: "completed",
@@ -127,6 +168,7 @@ export class ManualWriterAgent {
       knowledgeUsed: knowledge.map((item) => item.path),
       draft,
       writerProvider: generation.provider,
+      memoryUsed: memoryRecall.memories.map((item) => item.id),
       warnings: generation.warnings
     }
   }
@@ -185,6 +227,7 @@ export class ManualWriterAgent {
     structureGuide: string
     designGuide: string
     knowledge: KnowledgeItem[]
+    memoryContext: string
     provider?: WriterProvider
   }) {
     const writerConfig = getWriterConfig()
@@ -271,6 +314,39 @@ export class ManualWriterAgent {
       }
     }
 
+    if (provider === "kimi") {
+      const config = getKimiConfig()
+
+      if (!config.apiKey) {
+        return {
+          text: renderDeterministicDraft(input),
+          provider: "local" as const,
+          warnings: ["KIMI_API_KEY non configurata: usata bozza locale strutturata."]
+        }
+      }
+
+      const llm = new OpenAiLlmClient({
+        apiKey: config.apiKey,
+        baseURL: config.baseUrl,
+        model: config.model
+      })
+      const response = await llm.complete(renderManualWriterMessages(input))
+
+      if (looksLikeMetaDraft(response)) {
+        return {
+          text: renderDeterministicDraft(input),
+          provider: "local" as const,
+          warnings: ["Risposta Kimi scartata perche conteneva testo meta invece di un capitolo editoriale."]
+        }
+      }
+
+      return {
+        text: response.trim() || renderDeterministicDraft(input),
+        provider: response.trim() ? ("kimi" as const) : ("local" as const),
+        warnings: response.trim() ? [] : ["Risposta Kimi vuota: usata bozza locale strutturata."]
+      }
+    }
+
     const config = getOpenAiConfig()
 
     if (!config.apiKey) {
@@ -293,6 +369,7 @@ export class ManualWriterAgent {
           `Capitolo target: ${input.title}`,
           `Modalita: ${input.mode}`,
           `Istruzione utente: ${input.instruction || "Scrivi una bozza editoriale migliorata."}`,
+          ...renderMemoryPromptSection(input.memoryContext),
           "Knowledge consolidata disponibile:",
           ...input.knowledge.map((item) => `\n### ${item.title}\nPath: ${item.path}\n${item.summary}`),
           "\nGuida operativa canonica del manuale:",
@@ -334,6 +411,7 @@ function renderManualWriterMessages(input: {
   structureGuide: string
   designGuide: string
   knowledge: KnowledgeItem[]
+  memoryContext: string
 }) {
   return [
     {
@@ -346,6 +424,7 @@ function renderManualWriterMessages(input: {
         `Capitolo target: ${input.title}`,
         `Modalita: ${input.mode}`,
         `Istruzione utente: ${input.instruction || "Scrivi una bozza editoriale migliorata."}`,
+        ...renderMemoryPromptSection(input.memoryContext),
         "Knowledge consolidata disponibile:",
         ...input.knowledge.map((item) => `\n### ${item.title}\nPath: ${item.path}\n${item.summary}`),
         "\nGuida operativa canonica del manuale:",
@@ -372,6 +451,7 @@ function renderCodexPrompt(input: {
   structureGuide: string
   designGuide: string
   knowledge: KnowledgeItem[]
+  memoryContext: string
 }, skill: string) {
   return [
     "Sei Manual Writer Agent di ConcorsoBook OS, eseguito tramite Codex CLI locale.",
@@ -392,6 +472,7 @@ function renderCodexPrompt(input: {
     `Capitolo target: ${input.title}`,
     `Modalita: ${input.mode}`,
     `Istruzione utente: ${input.instruction || "Scrivi una bozza editoriale migliorata."}`,
+    ...renderMemoryPromptSection(input.memoryContext),
     "",
     "Formato obbligatorio:",
     "- apertura editoriale;",
@@ -431,6 +512,7 @@ function renderClaudePrompt(input: {
   structureGuide: string
   designGuide: string
   knowledge: KnowledgeItem[]
+  memoryContext: string
 }, skill: string) {
   return [
     "Sei Manual Writer Agent di ConcorsoBook OS, eseguito tramite Claude Code locale.",
@@ -451,6 +533,7 @@ function renderClaudePrompt(input: {
     `Capitolo target: ${input.title}`,
     `Modalita: ${input.mode}`,
     `Istruzione utente: ${input.instruction || "Scrivi una bozza editoriale migliorata."}`,
+    ...renderMemoryPromptSection(input.memoryContext),
     "",
     "Formato obbligatorio:",
     "- apertura editoriale;",
@@ -488,6 +571,17 @@ async function loadProfessionalWriterSkill() {
   return readFile(skillPath, "utf8").catch(() => "")
 }
 
+function renderMemoryPromptSection(memoryContext: string) {
+  if (!memoryContext) return []
+
+  return [
+    "",
+    "Memoria operativa locale richiamata:",
+    memoryContext,
+    "Usa questa memoria solo per continuita di lavoro e preferenze operative; non sostituisce le source notes consolidate."
+  ]
+}
+
 function renderDeterministicDraft(input: {
   title: string
   instruction: string
@@ -496,6 +590,7 @@ function renderDeterministicDraft(input: {
   structureGuide: string
   designGuide: string
   knowledge: KnowledgeItem[]
+  memoryContext: string
 }) {
   const primary = input.knowledge.slice(0, 6)
   const references = primary.map((item) => `- [[${item.path.replace(".md", "")}]]`).join("\n")
@@ -510,6 +605,8 @@ function renderDeterministicDraft(input: {
   const toolBlock = toolItems.length > 0 ? renderToolBlock(toolItems) : renderDefaultToolBlock(input.title)
   const caseBlock = renderCaseBlock(input.title)
   const imageNotes = renderImageNotes(input.title)
+
+  const memoryReviewNote = input.memoryContext ? "Memoria locale richiamata e usata solo se pertinente alle istruzioni editoriali." : ""
 
   return `### Apertura editoriale
 ${opening}
@@ -568,6 +665,7 @@ ${references || "- Nessun riferimento consolidato disponibile."}
 ### Note di review
 - Bozza da revisionare prima della pubblicazione.
 - Non sono state lette raw sources direttamente.
+- ${memoryReviewNote || "Nessuna memoria locale rilevante richiamata."}
 - Applicare design system editoriale 17 x 24 cm con gerarchia manuale-workbook.
 - Modalità richiesta: ${input.mode}.
 - Lunghezza del capitolo da espandere in seconda revisione se serve maggiore profondità: ${countWords(chapterBody)} parole di struttura disponibili.`

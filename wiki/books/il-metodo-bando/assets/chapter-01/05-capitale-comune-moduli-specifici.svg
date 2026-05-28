@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1050" viewBox="0 0 1600 1050" role="img" aria-labelledby="title desc">
+  <title id="title">Capitale comune e moduli specifici</title>
+  <desc id="desc">Schema didattico che distingue il nucleo comune riutilizzabile dai moduli specifici richiesti dai singoli concorsi.</desc>
+  <defs>
+    <style>
+      .bg { fill: #f8fafc; }
+      .ink { fill: #172233; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 50px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 27px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 31px; font-weight: 800; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 24px; }
+      .pill-text { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 23px; }
+      .common { fill: #e8f0f8; stroke: #1f4e79; stroke-width: 4; }
+      .module-a { fill: #eef7f1; stroke: #2f7d5a; stroke-width: 4; }
+      .module-b { fill: #fff6ed; stroke: #b7791f; stroke-width: 4; }
+      .pill { fill: #ffffff; stroke: #cfd8e3; stroke-width: 2; }
+      .connector { stroke: #1f4e79; stroke-width: 5; stroke-linecap: round; fill: none; }
+      .blue { fill: #1f4e79; }
+      .green { fill: #2f7d5a; }
+      .amber { fill: #b7791f; }
+      .band { fill: #ffffff; stroke: #cfd8e3; stroke-width: 2; }
+    </style>
+    <marker id="arrowhead" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M 0 0 L 12 6 L 0 12 z" fill="#1f4e79"/>
+    </marker>
+  </defs>
+
+  <rect class="bg" width="1600" height="1050"/>
+  <text class="ink title" x="800" y="82" text-anchor="middle">Capitale comune + moduli specifici</text>
+  <text class="muted subtitle" x="800" y="126" text-anchor="middle">Preparare pi&#249; concorsi non significa ricominciare da zero.</text>
+
+  <g transform="translate(250 205)">
+    <rect class="common" x="0" y="0" width="1100" height="300" rx="24"/>
+    <text class="blue label" x="550" y="62" text-anchor="middle">Nucleo comune riutilizzabile</text>
+    <text class="muted body" x="550" y="104" text-anchor="middle">La base che studi una volta e adatti a pi&#249; bandi.</text>
+
+    <g transform="translate(110 150)">
+      <rect class="pill" x="0" y="0" width="200" height="58" rx="14"/>
+      <text class="ink pill-text" x="100" y="38" text-anchor="middle">Costituzione</text>
+    </g>
+    <g transform="translate(330 150)">
+      <rect class="pill" x="0" y="0" width="220" height="58" rx="14"/>
+      <text class="ink pill-text" x="110" y="38" text-anchor="middle">Diritto amm.</text>
+    </g>
+    <g transform="translate(570 150)">
+      <rect class="pill" x="0" y="0" width="245" height="58" rx="14"/>
+      <text class="ink pill-text" x="122" y="38" text-anchor="middle">Pubblico impiego</text>
+    </g>
+    <g transform="translate(835 150)">
+      <rect class="pill" x="0" y="0" width="190" height="58" rx="14"/>
+      <text class="ink pill-text" x="95" y="38" text-anchor="middle">Trasparenza</text>
+    </g>
+    <g transform="translate(260 225)">
+      <rect class="pill" x="0" y="0" width="190" height="58" rx="14"/>
+      <text class="ink pill-text" x="95" y="38" text-anchor="middle">Informatica</text>
+    </g>
+    <g transform="translate(470 225)">
+      <rect class="pill" x="0" y="0" width="170" height="58" rx="14"/>
+      <text class="ink pill-text" x="85" y="38" text-anchor="middle">Logica</text>
+    </g>
+    <g transform="translate(660 225)">
+      <rect class="pill" x="0" y="0" width="230" height="58" rx="14"/>
+      <text class="ink pill-text" x="115" y="38" text-anchor="middle">Metodo BANDO</text>
+    </g>
+  </g>
+
+  <path class="connector" marker-end="url(#arrowhead)" d="M610 530 C560 585, 505 620, 450 670"/>
+  <path class="connector" marker-end="url(#arrowhead)" d="M990 530 C1040 585, 1095 620, 1150 670"/>
+
+  <g transform="translate(115 690)">
+    <rect class="module-a" x="0" y="0" width="610" height="230" rx="22"/>
+    <text class="green label" x="305" y="58" text-anchor="middle">Modulo A: concorso comunale</text>
+    <text class="muted body" x="305" y="98" text-anchor="middle">Istruttore amministrativo comunale</text>
+    <g transform="translate(92 135)">
+      <rect class="pill" x="0" y="0" width="230" height="58" rx="14"/>
+      <text class="ink pill-text" x="115" y="38" text-anchor="middle">Enti locali</text>
+    </g>
+    <g transform="translate(344 135)">
+      <rect class="pill" x="0" y="0" width="230" height="58" rx="14"/>
+      <text class="ink pill-text" x="115" y="38" text-anchor="middle">Servizi comunali</text>
+    </g>
+  </g>
+
+  <g transform="translate(875 690)">
+    <rect class="module-b" x="0" y="0" width="610" height="230" rx="22"/>
+    <text class="amber label" x="305" y="58" text-anchor="middle">Modulo B: ente centrale</text>
+    <text class="muted body" x="305" y="98" text-anchor="middle">Assistente amministrativo in ente centrale</text>
+    <g transform="translate(92 135)">
+      <rect class="pill" x="0" y="0" width="230" height="58" rx="14"/>
+      <text class="ink pill-text" x="115" y="38" text-anchor="middle">Organizzazione PA</text>
+    </g>
+    <g transform="translate(344 135)">
+      <rect class="pill" x="0" y="0" width="230" height="58" rx="14"/>
+      <text class="ink pill-text" x="115" y="38" text-anchor="middle">Profilo specifico</text>
+    </g>
+  </g>
+
+  <rect class="band" x="375" y="965" width="850" height="58" rx="29"/>
+  <text class="blue" x="800" y="1003" text-anchor="middle" style="font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:24px;font-weight:800;">Una base comune, due adattamenti: meno dispersione, pi&#249; riuso.</text>
+</svg>

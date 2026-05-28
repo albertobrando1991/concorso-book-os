@@ -4,9 +4,9 @@ type: chapter
 title: Diritto amministrativo operativo
 status: revised_draft
 domain: concorsi pubblici italiani
-topics: ["diritto amministrativo","procedimento amministrativo","attività amministrativa","situazioni giuridiche soggettive","organizzazione amministrativa","semplificazione amministrativa","atti amministrativi","accesso e trasparenza","anticorruzione e privacy","documentazione amministrativa","amministrazione digitale","contratti pubblici","beni pubblici","servizi pubblici","controlli e responsabilità","giustizia amministrativa","enti territoriali","sanzioni amministrative","principio di legalità","responsabilità dirigenziale","performance amministrativa","governo del rischio","pubblico impiego"]
-entities: ["Legge 241/1990","ANAC","Pubblica amministrazione","Responsabile del procedimento","Dirigente pubblico","D.lgs. 165/2001","D.lgs. 150/2009","D.lgs. 36/2023","Corte dei conti","Consiglio di Stato"]
-source_refs: ["sources/struttura-madre-il-metodo-bando.md","sources/metodo-bando-progetto-editoriale.md","sources/legge-241-1990-procedimento-amministrativo.md","sources/legge-7-agosto-1990-n-241-procedimento-amministrativo-e-accesso-ai-documenti-amministrativi-testo-vigente-normattiva.md","sources/d-lgs-14-marzo-2013-n-33-trasparenza.md","sources/d-lgs-25-maggio-2016-n-97-foia-e-revisione-trasparenza.md","sources/d-lgs-7-marzo-2005-n-82-amministrazione-digitale.md","sources/legge-6-novembre-2012-n-190-anticorruzione.md","sources/d-lgs-10-marzo-2023-n-24-whistleblowing.md","sources/d-lgs-27-ottobre-2009-n-150-performance.md","sources/legge-14-gennaio-1994-n-20-responsabilita-erariale.md","sources/d-lgs-2-luglio-2010-n-104-processo-amministrativo.md","sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego.md","sources/d-lgs-30-luglio-1999-n-300-organizzazione-governo.md","sources/d-lgs-31-marzo-2023-n-36-contratti-pubblici.md","sources/d-lgs-18-agosto-2000-n-267-enti-locali.md","sources/d-p-r-28-dicembre-2000-n-445-documentazione-amministrativa.md","sources/codice-civile-beni-pubblici-demanio-patrimonio.md","sources/d-p-r-8-giugno-2001-n-327-espropriazione-pubblica-utilita.md","sources/legge-24-novembre-1981-n-689-sanzioni-amministrative.md","sources/regio-decreto-18-giugno-1931-n-773-tulps-polizia-amministrativa.md","sources/d-lgs-26-agosto-2016-n-174-codice-di-giustizia-contabile.md","sources/responsabilita-dirigenziale-legalita-organizzativa-performance-rischio.md","sources/manuale-diritto-amministrativo-lopilato.md"]
+topics: ["diritto amministrativo","procedimento amministrativo","attivita amministrativa","situazioni giuridiche soggettive","organizzazione amministrativa","semplificazione amministrativa","atti amministrativi","accesso e trasparenza","anticorruzione e privacy","documentazione amministrativa","amministrazione digitale","contratti pubblici","beni pubblici","servizi pubblici","controlli e responsabilità","giustizia amministrativa","enti territoriali","sanzioni amministrative","principio di legalità","responsabilità dirigenziale","performance amministrativa","governo del rischio","pubblico impiego"]
+entities: ["Legge 241/1990","ANAC","Pubblica amministrazione","Responsabile del procedimento","Dirigente pubblico","D.Lgs. 165/2001","D.Lgs. 150/2009","D.Lgs. 36/2023","Corte dei conti","Consiglio di Stato"]
+source_refs: ["sources/struttura-madre-il-metodo-bando.md","sources/metodo-bando-progetto-editoriale.md","sources/legge-241-1990-procedimento-amministrativo.md","sources/legge-7-agosto-1990-n-241-procedimento-amministrativo-e-accesso-ai-documenti-amministrativi-testo-vigente-normattiva.md","sources/d-lgs-14-marzo-2013-n-33-trasparenza.md","sources/d-lgs-25-maggio-2016-n-97-foia-e-revisione-trasparenza.md","sources/d-lgs-7-marzo-2005-n-82-amministrazione-digitale.md","sources/legge-6-novembre-2012-n-190-anticorruzione.md","sources/d-lgs-10-marzo-2023-n-24-whistleblowing.md","sources/d-lgs-27-ottobre-2009-n-150-performance.md","sources/legge-14-gennaio-1994-n-20-responsabilità-erariale.md","sources/d-lgs-2-luglio-2010-n-104-processo-amministrativo.md","sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego.md","sources/d-lgs-30-luglio-1999-n-300-organizzazione-governo.md","sources/d-lgs-31-marzo-2023-n-36-contratti-pubblici.md","sources/d-lgs-18-agosto-2000-n-267-enti-locali.md","sources/d-p-r-28-dicembre-2000-n-445-documentazione-amministrativa.md","sources/codice-civile-beni-pubblici-demanio-patrimonio.md","sources/d-p-r-8-giugno-2001-n-327-espropriazione-pubblica-utilita.md","sources/legge-24-novembre-1981-n-689-sanzioni-amministrative.md","sources/regio-decreto-18-giugno-1931-n-773-tulps-polizia-amministrativa.md","sources/d-lgs-26-agosto-2016-n-174-codice-di-giustizia-contabile.md","sources/responsabilità-dirigenziale-legalità-organizzativa-performance-rischio.md","sources/manuale-diritto-amministrativo-lopilato.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.9
 updated_at: "2026-05-25T21:25:00+02:00"
@@ -17,12 +17,12 @@ tags: ["book-chapter","common-subject","revised"]
 book_id: il-metodo-bando
 outline_section: 5
 draft_stage: editorial-revision
-last_compiled_from: ["topics/diritto-amministrativo-programma-concorsi-2026.md","topics/diritto-amministrativo.md","topics/attivita-amministrativa.md","topics/situazioni-giuridiche-soggettive.md","topics/principio-di-legalita.md","topics/procedimento-amministrativo.md","topics/anticorruzione-e-trasparenza.md","topics/responsabilita-dirigenziale.md","topics/performance-amministrativa.md","topics/governo-del-rischio.md","reviews/diritto-amministrativo-coverage-2026-05-25.md"]
+last_compiled_from: ["topics/diritto-amministrativo-programma-concorsi-2026.md","topics/diritto-amministrativo.md","topics/attivita-amministrativa.md","topics/situazioni-giuridiche-soggettive.md","topics/principio-di-legalità.md","topics/procedimento-amministrativo.md","topics/anticorruzione-e-trasparenza.md","topics/responsabilità-dirigenziale.md","topics/performance-amministrativa.md","topics/governo-del-rischio.md","reviews/diritto-amministrativo-coverage-2026-05-25.md"]
 ---
 
 # Capitolo 5 - Diritto amministrativo operativo
 
-## Apertura editoriale
+## Perché studiare il diritto amministrativo operativo
 
 Il diritto amministrativo è una materia comune in moltissimi concorsi pubblici, ma non va studiato come una raccolta di definizioni isolate. Per il candidato serve a rispondere a una domanda molto concreta: come decide la pubblica amministrazione e quali regole deve rispettare quando incide sulla posizione di cittadini, imprese, dipendenti o altri enti?
 
@@ -30,7 +30,7 @@ In una prova scritta o orale non basta dire che la pubblica amministrazione pers
 
 La chiave del capitolo è questa: la pubblica amministrazione non agisce come un privato libero di scegliere secondo convenienza. Agisce in base alla legge, per fini pubblici, con procedimento, tracciabilità, imparzialità, trasparenza, responsabilità e possibilità di controllo.
 
-## Obiettivo del blocco
+## Obiettivi del capitolo
 
 Al termine del capitolo devi saper:
 
@@ -50,7 +50,9 @@ Al termine del capitolo devi saper:
 - ragionare su responsabilità della PA, del dipendente e del dirigente;
 - costruire una risposta da concorso con lo schema: definizione, norma, funzione, esempio, conclusione.
 
-## Mappa BANDO
+![Figura 5.1 - Il diritto amministrativo operativo collega fonti, organizzazione, procedimento, provvedimento, accesso, silenzio e responsabilità.](../assets/chapter-05/01-diritto-amministrativo-mappa-operativa.png)
+
+## Come usare il Metodo BANDO
 
 | Fase | Come usare questo capitolo |
 |---|---|
@@ -60,7 +62,7 @@ Al termine del capitolo devi saper:
 | **Diario** | Registra gli errori: confondere accesso documentale e accesso civico, dire sempre "silenzio-assenso", dimenticare il responsabile, parlare di trasparenza senza limiti. |
 | **Output** | Produci una tabella comparativa, una risposta orale, una griglia di procedimento e un caso pratico su istanza senza risposta. |
 
-## Quadro teorico essenziale richiesto
+## Quadro essenziale
 
 Prima di applicare il diritto amministrativo ai casi, il candidato deve possedere una base teorica ordinata. La teoria non va imparata come definizione astratta, ma come mappa dei concetti che ricorrono nei bandi e nelle domande orali.
 
@@ -74,7 +76,7 @@ La regola da ricordare è questa: la disciplina generale offre lo schema, la dis
 |---|---|---|
 | Costituzione | Fissa principi come imparzialità, buon andamento, uguaglianza, responsabilità e accesso per concorso. | Domande su art. 97 Cost., PA e pubblico impiego. |
 | Legge 241/1990 | Disciplina procedimento, partecipazione, responsabile, accesso documentale, silenzio, conferenza di servizi, autotutela. | Casi su istanza, ritardo, provvedimento, accesso agli atti. |
-| D.lgs. 33/2013 e d.lgs. 97/2016 | Regolano trasparenza, obblighi di pubblicazione e accesso civico. | Domande su accesso civico semplice e generalizzato. |
+| D.Lgs. 33/2013 e D.Lgs. 97/2016 | Regolano trasparenza, obblighi di pubblicazione e accesso civico. | Domande su accesso civico semplice e generalizzato. |
 | Codice dell'amministrazione digitale | Collega procedimento, documenti, comunicazioni e servizi digitali. | Domande su fascicolo informatico, domicilio digitale, documenti informatici. |
 | Norme di settore | Adattano le regole generali a materie specifiche. | Contratti pubblici, pubblico impiego, enti locali, ambiente, edilizia. |
 
@@ -86,7 +88,7 @@ L'amministrazione è il soggetto o apparato. L'organo è il centro che manifesta
 
 Questa distinzione serve nei casi pratici. Se un provvedimento è adottato da un soggetto non competente, il problema non è solo organizzativo: può diventare un vizio dell'atto. Se un procedimento non ha un responsabile individuabile, il problema non è solo interno: incide su trasparenza, tempi, partecipazione e tutela dell'interessato.
 
-Nei profili da funzionario è importante anche il rapporto tra indirizzo politico e gestione amministrativa. Gli organi politici definiscono indirizzi, obiettivi e priorità; i dirigenti e gli apparati amministrativi curano la gestione, adottano atti di competenza e rispondono dei risultati secondo le regole sull'organizzazione e sulla performance. [[sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego]]
+Nei profili da funzionario è importante anche il rapporto tra indirizzo politico e gestione amministrativa. Gli organi politici definiscono indirizzi, obiettivi e priorità; i dirigenti e gli apparati amministrativi curano la gestione, adottano atti di competenza e rispondono dei risultati secondo le regole sull'organizzazione e sulla performance.
 
 ### Situazioni giuridiche soggettive
 
@@ -122,7 +124,7 @@ Il punto teorico da fissare è questo: semplificare non significa eliminare lega
 
 Il candidato deve conoscere almeno il quadro generale delle tutele. Davanti a un atto illegittimo o a un'inerzia della PA possono rilevare rimedi amministrativi, accesso agli atti, istanze di riesame, potere sostitutivo, ricorso al giudice amministrativo, azione contro il silenzio e, nei casi previsti, tutela risarcitoria.
 
-Non serve inserire in questo capitolo una trattazione processuale completa, che appartiene al processo amministrativo. Serve però capire il collegamento: procedimento, provvedimento, vizi e silenzio sono studiati anche perché determinano le forme di tutela del cittadino. Il Codice del processo amministrativo diventa rilevante quando il candidato deve spiegare come si reagisce a inerzia, diniego di accesso o provvedimento lesivo. [[sources/d-lgs-2-luglio-2010-n-104-processo-amministrativo]]
+Non serve inserire in questo capitolo una trattazione processuale completa, che appartiene al processo amministrativo. Serve però capire il collegamento: procedimento, provvedimento, vizi e silenzio sono studiati anche perché determinano le forme di tutela del cittadino. Il Codice del processo amministrativo diventa rilevante quando il candidato deve spiegare come si reagisce a inerzia, diniego di accesso o provvedimento lesivo.
 
 ### Moduli speciali collegati
 
@@ -138,7 +140,7 @@ Alcuni argomenti appartengono anche ad altri capitoli, ma qui devono essere rich
 
 Questi richiami non sostituiscono i capitoli dedicati. Servono a evitare una lacuna teorica: il candidato deve capire che il diritto amministrativo è la grammatica comune di molte materie concorsuali.
 
-## Copertura completa del programma di diritto amministrativo
+## Programma essenziale per i concorsi
 
 Questa sezione integra gli argomenti che ricorrono nei quiz e nei programmi estesi. Non sostituisce i capitoli specialistici su contratti, contabilità, enti locali o digitale, ma garantisce che il Capitolo 5 contenga almeno la mappa teorica minima di tutti i nuclei ad alta, media e bassa priorità.
 
@@ -174,7 +176,7 @@ Il candidato deve conoscere almeno queste distinzioni:
 | Enti pubblici | Soggetti distinti dallo Stato che perseguono fini pubblici. |
 | Prefetture | Uffici territoriali del Governo con funzioni di rappresentanza, coordinamento e raccordo sul territorio. |
 
-Il D.Lgs. 30 luglio 1999, n. 300 è il riferimento consolidato per la riforma dell'organizzazione del Governo, dei ministeri e delle agenzie. Per il concorso va usato per capire che l'amministrazione statale non coincide con un unico apparato indistinto: i ministeri curano settori di amministrazione, mentre le agenzie svolgono funzioni tecnico-operative o gestionali secondo il disegno organizzativo previsto dalla legge. [[sources/d-lgs-30-luglio-1999-n-300-organizzazione-governo]]
+Il D.Lgs. 30 luglio 1999, n. 300 è il riferimento consolidato per la riforma dell'organizzazione del Governo, dei ministeri e delle agenzie. Per il concorso va usato per capire che l'amministrazione statale non coincide con un unico apparato indistinto: i ministeri curano settori di amministrazione, mentre le agenzie svolgono funzioni tecnico-operative o gestionali secondo il disegno organizzativo previsto dalla legge.
 
 ### 3. Potere amministrativo e situazioni giuridiche
 
@@ -223,13 +225,13 @@ I temi da coprire sono elementi dell'atto, motivazione, efficacia, esecutività,
 
 Accesso documentale, accesso civico semplice e accesso civico generalizzato devono essere distinti con precisione. Il primo richiede un interesse diretto, concreto e attuale; il secondo riguarda obblighi di pubblicazione non rispettati; il terzo consente controllo diffuso nei limiti previsti.
 
-La trasparenza si collega al D.Lgs. 33/2013, l'anticorruzione alla Legge 190/2012 e al ruolo di ANAC. Il whistleblowing, oggi ricondotto al D.Lgs. 10 marzo 2023, n. 24, appartiene alla prevenzione dell'illegalità e alla tutela del segnalante: non è una lamentela generica, ma una segnalazione qualificata da gestire con canali corretti, riservatezza e protezione da ritorsioni. La privacy impone di bilanciare conoscibilità dell'azione amministrativa e protezione dei dati personali. Il GDPR e la disciplina nazionale sui dati richiedono attenzione particolare per dati personali, categorie particolari di dati e informazioni idonee a incidere sulla riservatezza. [[sources/d-lgs-10-marzo-2023-n-24-whistleblowing]]
+La trasparenza si collega al D.Lgs. 33/2013, l'anticorruzione alla Legge 190/2012 e al ruolo di ANAC. Il whistleblowing, oggi ricondotto al D.Lgs. 10 marzo 2023, n. 24, appartiene alla prevenzione dell'illegalità e alla tutela del segnalante: non è una lamentela generica, ma una segnalazione qualificata da gestire con canali corretti, riservatezza e protezione da ritorsioni. La privacy impone di bilanciare conoscibilità dell'azione amministrativa e protezione dei dati personali. Il GDPR e la disciplina nazionale sui dati richiedono attenzione particolare per dati personali, categorie particolari di dati e informazioni idonee a incidere sulla riservatezza.
 
 Regola da ricordare: trasparenza non significa diffusione indiscriminata; privacy non significa segreto generalizzato. Il concorso valuta la capacità di bilanciare.
 
 ### 8. Documentazione amministrativa
 
-La documentazione amministrativa è regolata dal D.P.R. 445/2000. I temi principali sono certificati, autocertificazione, dichiarazioni sostitutive di certificazione, dichiarazioni sostitutive dell'atto di notorietà, autenticazione, copie conformi e responsabilità per dichiarazioni false. [[sources/d-p-r-28-dicembre-2000-n-445-documentazione-amministrativa]]
+La documentazione amministrativa è regolata dal D.P.R. 445/2000. I temi principali sono certificati, autocertificazione, dichiarazioni sostitutive di certificazione, dichiarazioni sostitutive dell'atto di notorietà, autenticazione, copie conformi e responsabilità per dichiarazioni false.
 
 Per il candidato, il punto operativo è che la PA deve semplificare i rapporti con cittadini e imprese, evitando richieste documentali inutili quando l'ordinamento consente dichiarazioni sostitutive o acquisizioni d'ufficio. Le dichiarazioni false non sono un errore innocuo: possono produrre decadenza dai benefici e responsabilità secondo la disciplina applicabile.
 
@@ -241,7 +243,7 @@ In prova non scrivere che amministrazione digitale significa "informatizzare". S
 
 ### 10. Contratti pubblici e appalti
 
-I contratti pubblici sono parte essenziale del diritto amministrativo perché traducono l'interesse pubblico in acquisti, lavori, servizi, forniture e concessioni. Il Codice dei contratti pubblici disciplina principi, programmazione, affidamenti, gare, procedure aperte, ristrette e negoziate, RUP, bando, capitolato, offerte, aggiudicazione, soglie, MEPA/Consip, subappalto, collaudo ed esecuzione. [[sources/d-lgs-31-marzo-2023-n-36-contratti-pubblici]]
+I contratti pubblici sono parte essenziale del diritto amministrativo perché traducono l'interesse pubblico in acquisti, lavori, servizi, forniture e concessioni. Il Codice dei contratti pubblici disciplina principi, programmazione, affidamenti, gare, procedure aperte, ristrette e negoziate, RUP, bando, capitolato, offerte, aggiudicazione, soglie, MEPA/Consip, subappalto, collaudo ed esecuzione.
 
 Nel capitolo 5 basta fissare la mappa. L'approfondimento appartiene al capitolo sui contratti pubblici. Per i quiz, però, devi saper distinguere:
 
@@ -255,9 +257,9 @@ Nel capitolo 5 basta fissare la mappa. L'approfondimento appartiene al capitolo 
 
 ### 11. Beni pubblici, demanio ed espropriazione
 
-I beni pubblici comprendono beni demaniali, beni patrimoniali indisponibili e beni patrimoniali disponibili. Il demanio riguarda beni sottoposti a un regime pubblicistico intenso; il patrimonio indisponibile è vincolato a una destinazione pubblica; il patrimonio disponibile è gestito con maggiore vicinanza alle regole privatistiche, pur appartenendo a un soggetto pubblico. La base civilistica della distinzione va collegata alla destinazione del bene e al diverso regime di uso, circolazione e tutela. [[sources/codice-civile-beni-pubblici-demanio-patrimonio]]
+I beni pubblici comprendono beni demaniali, beni patrimoniali indisponibili e beni patrimoniali disponibili. Il demanio riguarda beni sottoposti a un regime pubblicistico intenso; il patrimonio indisponibile è vincolato a una destinazione pubblica; il patrimonio disponibile è gestito con maggiore vicinanza alle regole privatistiche, pur appartenendo a un soggetto pubblico. La base civilistica della distinzione va collegata alla destinazione del bene e al diverso regime di uso, circolazione e tutela.
 
-Le concessioni consentono l'uso o la gestione di beni pubblici secondo regole e limiti. L'Agenzia del demanio rileva nella gestione del patrimonio immobiliare statale. L'espropriazione per pubblica utilità, disciplinata dal D.P.R. 8 giugno 2001, n. 327, è il procedimento con cui la PA acquisisce coattivamente un bene privato per un'opera o finalità pubblica, con base legale, garanzie procedimentali e indennità. In sintesi da concorso, il decreto di esproprio presuppone vincolo preordinato all'esproprio, dichiarazione di pubblica utilità e determinazione dell'indennità. [[sources/d-p-r-8-giugno-2001-n-327-espropriazione-pubblica-utilita]]
+Le concessioni consentono l'uso o la gestione di beni pubblici secondo regole e limiti. L'Agenzia del demanio rileva nella gestione del patrimonio immobiliare statale. L'espropriazione per pubblica utilità, disciplinata dal D.P.R. 8 giugno 2001, n. 327, è il procedimento con cui la PA acquisisce coattivamente un bene privato per un'opera o finalità pubblica, con base legale, garanzie procedimentali e indennità. In sintesi da concorso, il decreto di esproprio presuppone vincolo preordinato all'esproprio, dichiarazione di pubblica utilità e determinazione dell'indennità.
 
 Il candidato deve ricordare tre parole: proprietà pubblica, destinazione pubblica, garanzie del privato.
 
@@ -271,11 +273,11 @@ La concessione di servizi si distingue perché il gestore assume un ruolo nella 
 
 I controlli servono a verificare legalità, regolarità, efficienza, risultati e corretto uso delle risorse. Possono essere interni o esterni, preventivi o successivi, di regolarità, di gestione, strategici o contabili.
 
-Le responsabilità da distinguere sono amministrativa, contabile, erariale, civile, penale e disciplinare. La Corte dei conti rileva per responsabilità amministrativo-contabile e danno erariale. L'agente contabile è il soggetto che maneggia denaro, valori o beni pubblici e deve rendere conto secondo le regole applicabili. [[sources/legge-14-gennaio-1994-n-20-responsabilita-erariale]] [[sources/d-lgs-26-agosto-2016-n-174-codice-di-giustizia-contabile]]
+Le responsabilità da distinguere sono amministrativa, contabile, erariale, civile, penale e disciplinare. La Corte dei conti rileva per responsabilità amministrativo-contabile e danno erariale. L'agente contabile è il soggetto che maneggia denaro, valori o beni pubblici e deve rendere conto secondo le regole applicabili.
 
 ### 14. Ricorsi e giustizia amministrativa
 
-La tutela può essere amministrativa o giurisdizionale. I ricorsi amministrativi comprendono ricorso gerarchico, ricorso in opposizione e ricorso straordinario al Presidente della Repubblica. La giustizia amministrativa riguarda TAR e Consiglio di Stato, giurisdizione amministrativa, tutela cautelare, ottemperanza e azioni contro silenzio o diniego di accesso nei casi previsti. [[sources/d-lgs-2-luglio-2010-n-104-processo-amministrativo]]
+La tutela può essere amministrativa o giurisdizionale. I ricorsi amministrativi comprendono ricorso gerarchico, ricorso in opposizione e ricorso straordinario al Presidente della Repubblica. La giustizia amministrativa riguarda TAR e Consiglio di Stato, giurisdizione amministrativa, tutela cautelare, ottemperanza e azioni contro silenzio o diniego di accesso nei casi previsti.
 
 | Rimedio | Idea chiave |
 |---|---|
@@ -288,15 +290,15 @@ La tutela può essere amministrativa o giurisdizionale. I ricorsi amministrativi
 
 ### 15. Enti territoriali e autonomie locali
 
-Regioni, Comuni, Province e Città metropolitane sono enti territoriali. Per gli enti locali rileva il TUEL, D.Lgs. 267/2000. Il candidato deve conoscere sindaco, giunta, consiglio, segretario comunale, statuto, regolamenti e servizi locali. [[sources/d-lgs-18-agosto-2000-n-267-enti-locali]]
+Regioni, Comuni, Province e Città metropolitane sono enti territoriali. Per gli enti locali rileva il TUEL, D.Lgs. 267/2000. Il candidato deve conoscere sindaco, giunta, consiglio, segretario comunale, statuto, regolamenti e servizi locali.
 
 Negli enti locali la distinzione tra indirizzo politico e gestione amministrativa è decisiva: consiglio e giunta definiscono scelte politiche e indirizzi; dirigenti e responsabili curano gestione, atti, procedimenti e responsabilità. Il segretario comunale svolge funzioni di collaborazione, assistenza giuridico-amministrativa e garanzia secondo l'ordinamento dell'ente.
 
 ### 16. Sanzioni amministrative e polizia amministrativa
 
-Le sanzioni amministrative riguardano illeciti non penali puniti con sanzioni amministrative. La Legge 24 novembre 1981, n. 689 è il riferimento generale consolidato per il regime degli illeciti amministrativi, per la logica della depenalizzazione e per istituti ricorrenti nei quiz come contestazione, pagamento in misura ridotta quando previsto e ordinanza-ingiunzione. [[sources/legge-24-novembre-1981-n-689-sanzioni-amministrative]]
+Le sanzioni amministrative riguardano illeciti non penali puniti con sanzioni amministrative. La Legge 24 novembre 1981, n. 689 è il riferimento generale consolidato per il regime degli illeciti amministrativi, per la logica della depenalizzazione e per istituti ricorrenti nei quiz come contestazione, pagamento in misura ridotta quando previsto e ordinanza-ingiunzione.
 
-La polizia amministrativa comprende funzioni di prevenzione, controllo, autorizzazione e vigilanza. Nei quiz compaiono termini come autorizzazioni, licenze, nulla osta e porto d'armi. Il TULPS, approvato con R.D. 18 giugno 1931, n. 773, resta una fonte di riferimento per molti istituti di pubblica sicurezza: va studiato in forma essenziale, perché la disciplina è settoriale e spesso modificata. La logica comune è questa: alcune attività private possono essere subordinate a controllo pubblico preventivo o successivo per tutelare sicurezza, ordine, salute, ambiente o altri interessi pubblici. [[sources/regio-decreto-18-giugno-1931-n-773-tulps-polizia-amministrativa]]
+La polizia amministrativa comprende funzioni di prevenzione, controllo, autorizzazione e vigilanza. Nei quiz compaiono termini come autorizzazioni, licenze, nulla osta e porto d'armi. Il TULPS, approvato con R.D. 18 giugno 1931, n. 773, resta una fonte di riferimento per molti istituti di pubblica sicurezza: va studiato in forma essenziale, perché la disciplina è settoriale e spesso modificata. La logica comune è questa: alcune attività private possono essere subordinate a controllo pubblico preventivo o successivo per tutelare sicurezza, ordine, salute, ambiente o altri interessi pubblici.
 
 ## Priorità di studio per quiz
 
@@ -334,7 +336,7 @@ Accanto alla legalità, il candidato deve padroneggiare almeno questi principi:
 | **Pubblicità e trasparenza** | L'azione amministrativa deve essere conoscibile nei modi previsti dalla legge. | Utile per distinguere pubblicazione, accesso documentale e accesso civico. |
 | **Collaborazione e buona fede** | Il rapporto tra cittadino e amministrazione non deve essere costruito come ostacolo reciproco. | Utile nei casi di istanza incompleta, richiesta di integrazioni, comunicazioni e partecipazione. |
 
-La Legge 241/1990 collega questi principi al procedimento amministrativo: l'amministrazione deve perseguire i fini determinati dalla legge, non può aggravare inutilmente il procedimento e deve concluderlo secondo regole conoscibili. [[sources/legge-241-1990-procedimento-amministrativo]]
+La Legge 241/1990 collega questi principi al procedimento amministrativo: l'amministrazione deve perseguire i fini determinati dalla legge, non può aggravare inutilmente il procedimento e deve concluderlo secondo regole conoscibili.
 
 ## 3. Procedimento amministrativo
 
@@ -351,6 +353,8 @@ Una risposta ordinata può seguire questa sequenza:
 7. **Controllo e tutela**: l'atto può essere conosciuto, riesaminato, impugnato o corretto.
 
 Il procedimento non è un formalismo. Serve a rendere l'azione amministrativa ordinata, motivata, partecipata e controllabile.
+
+![Figura 5.2 - Il procedimento amministrativo va letto come sequenza: avvio, responsabile, comunicazione, partecipazione, istruttoria, decisione e controllo.](../assets/chapter-05/02-procedimento-amministrativo-flusso.png)
 
 ## 4. Responsabile del procedimento
 
@@ -406,6 +410,8 @@ Un provvedimento può essere valido, illegittimo, inefficace, nullo o annullabil
 
 L'autotutela non è libertà illimitata. È un potere di riesame che richiede motivazione, interesse pubblico, rispetto dell'affidamento e valutazione degli interessi dei destinatari e dei controinteressati.
 
+![Figura 5.3 - Per rispondere su un provvedimento occorre distinguere elementi, vizi, effetti e rimedi di autotutela.](../assets/chapter-05/03-provvedimento-vizi-autotutela.png)
+
 ## 8. Silenzio amministrativo
 
 Il silenzio amministrativo è uno dei temi più insidiosi. Non ogni mancata risposta produce lo stesso effetto.
@@ -420,6 +426,8 @@ Devi distinguere:
 
 La frase da memorizzare è: prima qualifico il procedimento, poi valuto il regime del silenzio. Dire automaticamente "silenzio-assenso" è un errore da concorso.
 
+![Figura 5.4 - Il silenzio amministrativo si qualifica verificando procedimento, termine, disciplina applicabile e rimedio.](../assets/chapter-05/05-silenzio-rimedi-decisione.png)
+
 ## 9. Accesso documentale, accesso civico e accesso generalizzato
 
 L'accesso è il punto in cui trasparenza, partecipazione e controllo diventano strumenti pratici.
@@ -427,10 +435,12 @@ L'accesso è il punto in cui trasparenza, partecipazione e controllo diventano s
 | Tipo di accesso | Fonte e funzione | Presupposto principale | Attenzione in prova |
 |---|---|---|---|
 | **Accesso documentale** | Legge 241/1990. Serve a prendere visione ed estrarre copia di documenti amministrativi. | Interesse diretto, concreto e attuale collegato a una situazione giuridicamente tutelata. | Non è uno strumento per controllare genericamente tutta l'attività della PA. |
-| **Accesso civico semplice** | D.lgs. 33/2013. Serve a ottenere la pubblicazione di dati, documenti o informazioni che l'amministrazione era obbligata a pubblicare. | Mancata pubblicazione di un obbligo previsto. | Non richiede lo stesso interesse qualificato dell'accesso documentale. |
-| **Accesso civico generalizzato** | D.lgs. 33/2013, come modificato dal d.lgs. 97/2016. Serve a favorire controllo diffuso sull'attività amministrativa. | Richiesta di dati o documenti ulteriori rispetto agli obblighi di pubblicazione, nei limiti previsti. | Va bilanciato con interessi pubblici e privati, riservatezza, sicurezza, segreti e protezione dei dati. |
+| **Accesso civico semplice** | D.Lgs. 33/2013. Serve a ottenere la pubblicazione di dati, documenti o informazioni che l'amministrazione era obbligata a pubblicare. | Mancata pubblicazione di un obbligo previsto. | Non richiede lo stesso interesse qualificato dell'accesso documentale. |
+| **Accesso civico generalizzato** | D.Lgs. 33/2013, come modificato dal D.Lgs. 97/2016. Serve a favorire controllo diffuso sull'attività amministrativa. | Richiesta di dati o documenti ulteriori rispetto agli obblighi di pubblicazione, nei limiti previsti. | Va bilanciato con interessi pubblici e privati, riservatezza, sicurezza, segreti e protezione dei dati. |
 
 Trasparenza non significa pubblicare tutto. Significa rendere conoscibile ciò che deve essere conoscibile, con regole, limiti, responsabilità e bilanciamento.
+
+![Figura 5.5 - Accesso documentale, accesso civico semplice e accesso generalizzato hanno presupposti, funzioni e limiti diversi.](../assets/chapter-05/04-accessi-trasparenza-limiti.png)
 
 ## 10. Conferenza di servizi e semplificazione
 
@@ -453,7 +463,7 @@ Nel diritto amministrativo operativo, la digitalizzazione serve a:
 - formare, gestire e conservare correttamente documenti informatici;
 - migliorare tempi, controlli e qualità del servizio.
 
-Il Codice dell'amministrazione digitale e le linee guida sui documenti informatici vanno studiati come strumenti di organizzazione amministrativa, non come semplice informatica. [[sources/d-lgs-7-marzo-2005-n-82-amministrazione-digitale]]
+Il Codice dell'amministrazione digitale e le linee guida sui documenti informatici vanno studiati come strumenti di organizzazione amministrativa, non come semplice informatica.
 
 ## 12. Responsabilità della PA, del dipendente e del dirigente
 
@@ -581,7 +591,7 @@ Usa questa griglia ogni volta che incontri un caso pratico.
 | Silenzio | Il mancato riscontro ha un significato previsto? |  |
 | Rimedio | Che cosa può fare in caso di inerzia o atto illegittimo? |  |
 
-## Check finale
+## Checkpoint finale
 
 Prima di passare al capitolo successivo, verifica se sai rispondere senza appunti:
 
@@ -600,44 +610,3 @@ Prima di passare al capitolo successivo, verifica se sai rispondere senza appunt
 - Come distingui ricorso gerarchico, ricorso straordinario, TAR e Consiglio di Stato?
 - Quali sono gli organi principali di Comune, Provincia, Città metropolitana e Regione?
 - Che cosa sono ordinanza-ingiunzione, autorizzazione, licenza e nulla osta?
-
-## Riferimenti consolidati
-
-- [[sources/legge-241-1990-procedimento-amministrativo]]
-- [[sources/legge-7-agosto-1990-n-241-procedimento-amministrativo-e-accesso-ai-documenti-amministrativi-testo-vigente-normattiva]]
-- [[sources/d-lgs-14-marzo-2013-n-33-trasparenza]]
-- [[sources/d-lgs-25-maggio-2016-n-97-foia-e-revisione-trasparenza]]
-- [[sources/d-lgs-7-marzo-2005-n-82-amministrazione-digitale]]
-- [[sources/legge-6-novembre-2012-n-190-anticorruzione]]
-- [[sources/d-lgs-10-marzo-2023-n-24-whistleblowing]]
-- [[sources/d-lgs-27-ottobre-2009-n-150-performance]]
-- [[sources/legge-14-gennaio-1994-n-20-responsabilita-erariale]]
-- [[sources/d-lgs-30-luglio-1999-n-300-organizzazione-governo]]
-- [[sources/d-lgs-18-agosto-2000-n-267-enti-locali]]
-- [[sources/d-p-r-28-dicembre-2000-n-445-documentazione-amministrativa]]
-- [[sources/codice-civile-beni-pubblici-demanio-patrimonio]]
-- [[sources/d-p-r-8-giugno-2001-n-327-espropriazione-pubblica-utilita]]
-- [[sources/legge-24-novembre-1981-n-689-sanzioni-amministrative]]
-- [[sources/regio-decreto-18-giugno-1931-n-773-tulps-polizia-amministrativa]]
-- [[sources/d-lgs-26-agosto-2016-n-174-codice-di-giustizia-contabile]]
-- [[sources/manuale-diritto-amministrativo-lopilato]]
-- [[sources/responsabilita-dirigenziale-legalita-organizzativa-performance-rischio]]
-- [[topics/diritto-amministrativo-programma-concorsi-2026]]
-- [[topics/diritto-amministrativo]]
-- [[topics/attivita-amministrativa]]
-- [[topics/situazioni-giuridiche-soggettive]]
-- [[topics/principio-di-legalita]]
-- [[topics/procedimento-amministrativo]]
-- [[topics/anticorruzione-e-trasparenza]]
-- [[topics/responsabilita-dirigenziale]]
-- [[topics/performance-amministrativa]]
-- [[topics/governo-del-rischio]]
-- [[topics/processo-amministrativo]]
-- [[topics/contratti-pubblici]]
-- [[topics/pubblico-impiego]]
-
-## Controlli prima della stampa
-
-- Le fonti consolidate coprono il capitolo istituzionale, incluse organizzazione del Governo, sanzioni amministrative, beni pubblici, espropriazione e polizia amministrativa. Prima della pubblicazione finale vanno verificati solo eventuali box con articoli puntuali, termini speciali o aggiornamenti normativi successivi alla consultazione del 25 maggio 2026.
-- Non inserire massime specifiche di Consiglio di Stato, TAR, Cassazione o Corte dei conti senza una scheda giurisprudenziale dedicata e controllata.
-- Per casistiche avanzate di espropriazione, licenze di pubblica sicurezza, porto d'armi o sanzioni di settore, usare ulteriori schede specialistiche e non generalizzare dal solo quadro istituzionale.

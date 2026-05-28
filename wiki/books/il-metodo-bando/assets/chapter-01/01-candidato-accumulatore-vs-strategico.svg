@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Dal candidato accumulatore al candidato strategico</title>
+  <desc id="desc">Schema comparativo che mostra il passaggio dalla preparazione dispersiva alla preparazione orientata al bando, agli output e alla correzione degli errori.</desc>
+  <defs>
+    <style>
+      .bg { fill: #f8fafc; }
+      .ink { fill: #172233; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 50px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 27px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 32px; font-weight: 800; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 26px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 22px; }
+      .left { fill: #fff6ed; stroke: #b7791f; stroke-width: 4; }
+      .right { fill: #eef7f1; stroke: #2f7d5a; stroke-width: 4; }
+      .row { fill: #ffffff; stroke: #cfd8e3; stroke-width: 2; }
+      .badge-left { fill: #b7791f; }
+      .badge-right { fill: #2f7d5a; }
+      .line { stroke: #d5dde7; stroke-width: 2; }
+      .blue { fill: #1f4e79; }
+      .green { fill: #2f7d5a; }
+      .amber { fill: #b7791f; }
+      .band { fill: #e8f0f8; stroke: #b9cde1; stroke-width: 2; }
+    </style>
+    <marker id="arrowhead" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M 0 0 L 12 6 L 0 12 z" fill="#1f4e79"/>
+    </marker>
+  </defs>
+
+  <rect class="bg" width="1600" height="1000"/>
+  <text class="ink title" x="800" y="82" text-anchor="middle">Dal candidato accumulatore al candidato strategico</text>
+  <text class="muted subtitle" x="800" y="126" text-anchor="middle">Il progresso non si misura in materiali raccolti, ma in decisioni, output e correzione degli errori.</text>
+
+  <rect class="left" x="90" y="190" width="610" height="660" rx="22"/>
+  <rect class="right" x="900" y="190" width="610" height="660" rx="22"/>
+
+  <circle cx="155" cy="260" r="34" class="badge-left"/>
+  <text x="155" y="272" text-anchor="middle" style="fill:#fff;font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:34px;font-weight:900;">A</text>
+  <text class="ink label" x="210" y="252">Candidato accumulatore</text>
+  <text class="muted small" x="210" y="286">Fa molte attivit&#224;, ma non governa la prova.</text>
+
+  <circle cx="965" cy="260" r="34" class="badge-right"/>
+  <text x="965" y="272" text-anchor="middle" style="fill:#fff;font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:34px;font-weight:900;">S</text>
+  <text class="ink label" x="1020" y="252">Candidato strategico</text>
+  <text class="muted small" x="1020" y="286">Seleziona, produce, misura e corregge.</text>
+
+  <g transform="translate(130 345)">
+    <rect class="row" x="0" y="0" width="530" height="62" rx="12"/>
+    <text class="ink body" x="26" y="40">Compra materiali prima del bando</text>
+    <rect class="row" x="0" y="86" width="530" height="62" rx="12"/>
+    <text class="ink body" x="26" y="126">Studia in ordine di pagina</text>
+    <rect class="row" x="0" y="172" width="530" height="62" rx="12"/>
+    <text class="ink body" x="26" y="212">Fa quiz per sentirsi produttivo</text>
+    <rect class="row" x="0" y="258" width="530" height="62" rx="12"/>
+    <text class="ink body" x="26" y="298">Rimanda scritto e orale</text>
+    <rect class="row" x="0" y="344" width="530" height="62" rx="12"/>
+    <text class="ink body" x="26" y="384">Dimentica gli errori corretti</text>
+  </g>
+
+  <g transform="translate(940 345)">
+    <rect class="row" x="0" y="0" width="530" height="62" rx="12"/>
+    <text class="ink body" x="26" y="40">Legge prove, punteggi e requisiti</text>
+    <rect class="row" x="0" y="86" width="530" height="62" rx="12"/>
+    <text class="ink body" x="26" y="126">Ordina per peso e probabilit&#224;</text>
+    <rect class="row" x="0" y="172" width="530" height="62" rx="12"/>
+    <text class="ink body" x="26" y="212">Usa i quiz come diagnosi</text>
+    <rect class="row" x="0" y="258" width="530" height="62" rx="12"/>
+    <text class="ink body" x="26" y="298">Allena output fin dall'inizio</text>
+    <rect class="row" x="0" y="344" width="530" height="62" rx="12"/>
+    <text class="ink body" x="26" y="384">Trasforma errori in ripasso</text>
+  </g>
+
+  <line class="line" x1="740" y1="340" x2="860" y2="340"/>
+  <line class="line" x1="740" y1="750" x2="860" y2="750"/>
+  <path d="M735 545 H865" stroke="#1f4e79" stroke-width="6" stroke-linecap="round" marker-end="url(#arrowhead)"/>
+  <rect class="band" x="685" y="490" width="230" height="92" rx="46"/>
+  <text class="blue label" x="800" y="526" text-anchor="middle">cambio</text>
+  <text class="blue label" x="800" y="562" text-anchor="middle">di logica</text>
+
+  <rect class="band" x="260" y="895" width="1080" height="58" rx="29"/>
+  <text class="blue" x="800" y="933" text-anchor="middle" style="font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:24px;font-weight:800;">Messaggio chiave: il candidato efficace costruisce una prestazione adatta al concorso.</text>
+</svg>

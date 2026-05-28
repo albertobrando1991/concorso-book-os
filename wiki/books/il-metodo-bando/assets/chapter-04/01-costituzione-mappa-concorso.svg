@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Costituzione come mappa del concorso</title>
+  <desc id="desc">Mappa operativa che collega principi, diritti, fonti, organi, autonomie e pubblica amministrazione alle domande da concorso.</desc>
+  <defs>
+    <style>
+      .bg { fill: #f8fafc; }
+      .ink { fill: #172233; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 50px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 27px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 30px; font-weight: 800; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 23px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .card { fill: #ffffff; stroke: #cfd8e3; stroke-width: 3; }
+      .hub { fill: #ffffff; stroke: #1f4e79; stroke-width: 5; }
+      .chip { fill: #eef4fb; stroke: #c5d7ea; stroke-width: 2; }
+      .blue { fill: #1f4e79; }
+      .green { fill: #2f7d5a; }
+      .amber { fill: #b7791f; }
+      .red { fill: #a94442; }
+      .gray { fill: #64748b; }
+      .line { stroke: #9db4ca; stroke-width: 4; stroke-linecap: round; }
+      .band { fill: #e8f0f8; stroke: #b9cde1; stroke-width: 2; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="1600" height="1000"/>
+  <text class="ink title" x="800" y="82" text-anchor="middle">Costituzione come mappa del concorso</text>
+  <text class="muted subtitle" x="800" y="126" text-anchor="middle">Non basta ricordare gli articoli: devi collegarli a poteri, limiti, diritti e PA.</text>
+
+  <line class="line" x1="498" y1="295" x2="645" y2="425"/>
+  <line class="line" x1="800" y1="320" x2="800" y2="405"/>
+  <line class="line" x1="1102" y1="295" x2="955" y2="425"/>
+  <line class="line" x1="498" y1="678" x2="645" y2="565"/>
+  <line class="line" x1="800" y1="710" x2="800" y2="595"/>
+  <line class="line" x1="1102" y1="678" x2="955" y2="565"/>
+
+  <g transform="translate(590 392)">
+    <rect class="hub" x="0" y="0" width="420" height="216" rx="24"/>
+    <text class="blue label" x="210" y="70" text-anchor="middle">Costituzione</text>
+    <text class="muted body" x="210" y="113" text-anchor="middle">fonte suprema</text>
+    <text class="muted body" x="210" y="145" text-anchor="middle">organizza poteri, diritti,</text>
+    <text class="muted body" x="210" y="177" text-anchor="middle">doveri e garanzie</text>
+  </g>
+
+  <g transform="translate(92 205)">
+    <rect class="card" x="0" y="0" width="410" height="170" rx="18"/>
+    <circle class="blue" cx="54" cy="54" r="28"/>
+    <text x="54" y="64" text-anchor="middle" style="fill:#fff;font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:28px;font-weight:900;">1</text>
+    <text class="blue label" x="100" y="59">Principi</text>
+    <text class="muted body" x="38" y="106">eguaglianza, lavoro, autonomia</text>
+    <text class="muted body" x="38" y="137">e limiti al potere pubblico</text>
+  </g>
+
+  <g transform="translate(595 190)">
+    <rect class="card" x="0" y="0" width="410" height="170" rx="18"/>
+    <circle class="green" cx="54" cy="54" r="28"/>
+    <text x="54" y="64" text-anchor="middle" style="fill:#fff;font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:28px;font-weight:900;">2</text>
+    <text class="green label" x="100" y="59">Fonti</text>
+    <text class="muted body" x="38" y="106">gerarchia, competenza, legge,</text>
+    <text class="muted body" x="38" y="137">decreti e diritto UE</text>
+  </g>
+
+  <g transform="translate(1098 205)">
+    <rect class="card" x="0" y="0" width="410" height="170" rx="18"/>
+    <circle class="amber" cx="54" cy="54" r="28"/>
+    <text x="54" y="64" text-anchor="middle" style="fill:#fff;font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:28px;font-weight:900;">3</text>
+    <text class="amber label" x="100" y="59">Organi</text>
+    <text class="muted body" x="38" y="106">Parlamento, Governo, Presidente,</text>
+    <text class="muted body" x="38" y="137">Magistratura e Corte</text>
+  </g>
+
+  <g transform="translate(92 645)">
+    <rect class="card" x="0" y="0" width="410" height="170" rx="18"/>
+    <circle class="red" cx="54" cy="54" r="28"/>
+    <text x="54" y="64" text-anchor="middle" style="fill:#fff;font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:28px;font-weight:900;">4</text>
+    <text class="red label" x="100" y="59">Diritti</text>
+    <text class="muted body" x="38" y="106">libertà civili, sociali, economiche</text>
+    <text class="muted body" x="38" y="137">e partecipazione politica</text>
+  </g>
+
+  <g transform="translate(595 660)">
+    <rect class="card" x="0" y="0" width="410" height="170" rx="18"/>
+    <circle class="gray" cx="54" cy="54" r="28"/>
+    <text x="54" y="64" text-anchor="middle" style="fill:#fff;font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:28px;font-weight:900;">5</text>
+    <text class="gray label" x="100" y="59">PA</text>
+    <text class="muted body" x="38" y="106">artt. 97 e 98: imparzialità,</text>
+    <text class="muted body" x="38" y="137">concorso e servizio alla Nazione</text>
+  </g>
+
+  <g transform="translate(1098 645)">
+    <rect class="card" x="0" y="0" width="410" height="170" rx="18"/>
+    <circle class="green" cx="54" cy="54" r="28"/>
+    <text x="54" y="64" text-anchor="middle" style="fill:#fff;font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:28px;font-weight:900;">6</text>
+    <text class="green label" x="100" y="59">Autonomie</text>
+    <text class="muted body" x="38" y="106">Regioni, enti locali, sussidiarietà</text>
+    <text class="muted body" x="38" y="137">e riparto di competenze</text>
+  </g>
+
+  <rect class="band" x="250" y="885" width="1100" height="62" rx="31"/>
+  <text class="blue" x="800" y="925" text-anchor="middle" style="font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:24px;font-weight:800;">Schema di risposta: definizione, articolo o fonte, funzione, esempio, errore da evitare.</text>
+</svg>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Trasparenza, anticorruzione e privacy</title>
+  <desc id="desc">Mappa generale del capitolo: trasparenza, anticorruzione e privacy come tre logiche da coordinare nella risposta da concorso.</desc>
+  <defs>
+    <style>
+      .bg { fill: #f8fafc; }
+      .ink { fill: #172233; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 46px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 24px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 28px; font-weight: 800; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 22px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .card { fill: #ffffff; stroke: #cfd8e3; stroke-width: 3; }
+      .chip { fill: #eef4fb; stroke: #c5d7ea; stroke-width: 2.5; }
+      .note { fill: #fff7ed; stroke: #e7c18e; stroke-width: 2.5; }
+      .blue { fill: #1f4e79; }
+      .green { fill: #2f7d5a; }
+      .amber { fill: #b7791f; }
+      .red { fill: #a94442; }
+      .line { stroke: #9db4ca; stroke-width: 4; stroke-linecap: round; fill: none; marker-end: url(#arrowHead); }
+    </style>
+    <marker id="arrowHead" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#1f4e79"/>
+    </marker>
+  </defs>
+
+  <rect class="bg" width="1600" height="900"/>
+  <text class="ink title" x="800" y="70" text-anchor="middle">Trasparenza, anticorruzione e privacy</text>
+  <text class="muted subtitle" x="800" y="110" text-anchor="middle">Tre logiche da coordinare: conoscibilità, prevenzione e protezione dei dati.</text>
+
+  <g transform="translate(95 190)">
+    <rect class="card" width="430" height="250" rx="22"/>
+    <text class="blue label" x="215" y="52" text-anchor="middle">Trasparenza</text>
+    <text class="muted body" x="215" y="92" text-anchor="middle">conoscibilità dell'azione</text>
+    <text class="muted body" x="215" y="124" text-anchor="middle">amministrativa</text>
+    <rect class="chip" x="55" y="160" width="320" height="62" rx="16"/>
+    <text class="blue small" x="215" y="186" text-anchor="middle" style="font-weight:800;">pubblicazione, accesso,</text>
+    <text class="muted small" x="215" y="212" text-anchor="middle">controllo diffuso</text>
+  </g>
+
+  <g transform="translate(585 190)">
+    <rect class="card" width="430" height="250" rx="22"/>
+    <text class="green label" x="215" y="52" text-anchor="middle">Anticorruzione</text>
+    <text class="muted body" x="215" y="92" text-anchor="middle">prevenzione del rischio</text>
+    <text class="muted body" x="215" y="124" text-anchor="middle">di cattiva amministrazione</text>
+    <rect class="chip" x="55" y="160" width="320" height="62" rx="16"/>
+    <text class="green small" x="215" y="186" text-anchor="middle" style="font-weight:800;">PNA, PIAO, RPCT,</text>
+    <text class="muted small" x="215" y="212" text-anchor="middle">misure e monitoraggio</text>
+  </g>
+
+  <g transform="translate(1075 190)">
+    <rect class="card" width="430" height="250" rx="22"/>
+    <text class="amber label" x="215" y="52" text-anchor="middle">Privacy</text>
+    <text class="muted body" x="215" y="92" text-anchor="middle">protezione dei dati</text>
+    <text class="muted body" x="215" y="124" text-anchor="middle">delle persone fisiche</text>
+    <rect class="chip" x="55" y="160" width="320" height="62" rx="16"/>
+    <text class="amber small" x="215" y="186" text-anchor="middle" style="font-weight:800;">GDPR, basi giuridiche,</text>
+    <text class="muted small" x="215" y="212" text-anchor="middle">minimizzazione</text>
+  </g>
+
+  <path class="line" d="M 525 315 L 570 315"/>
+  <path class="line" d="M 1015 315 L 1060 315"/>
+
+  <g transform="translate(200 535)">
+    <rect class="note" width="1200" height="95" rx="28"/>
+    <text class="red label" x="600" y="40" text-anchor="middle">Domanda guida da concorso</text>
+    <text class="muted body" x="600" y="73" text-anchor="middle">si deve conoscere, prevenire il rischio o proteggere dati personali?</text>
+  </g>
+
+  <g transform="translate(120 715)">
+    <rect class="chip" width="300" height="92" rx="20"/>
+    <text class="blue label" x="150" y="38" text-anchor="middle">1. Qualifica</text>
+    <text class="muted small" x="150" y="68" text-anchor="middle">istituto e richiesta</text>
+  </g>
+  <g transform="translate(470 715)">
+    <rect class="chip" width="300" height="92" rx="20"/>
+    <text class="green label" x="150" y="38" text-anchor="middle">2. Fonte</text>
+    <text class="muted small" x="150" y="68" text-anchor="middle">norma applicabile</text>
+  </g>
+  <g transform="translate(820 715)">
+    <rect class="chip" width="300" height="92" rx="20"/>
+    <text class="amber label" x="150" y="38" text-anchor="middle">3. Limiti</text>
+    <text class="muted small" x="150" y="68" text-anchor="middle">privacy e interessi</text>
+  </g>
+  <g transform="translate(1170 715)">
+    <rect class="chip" width="300" height="92" rx="20"/>
+    <text class="red label" x="150" y="38" text-anchor="middle">4. Motiva</text>
+    <text class="muted small" x="150" y="68" text-anchor="middle">soluzione proporzionata</text>
+  </g>
+</svg>

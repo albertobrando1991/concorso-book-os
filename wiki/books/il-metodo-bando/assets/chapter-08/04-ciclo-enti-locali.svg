@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Ciclo finanziario degli enti locali</title>
+  <desc id="desc">Sequenza essenziale degli enti locali: DUP, bilancio, PEG, variazioni, salvaguardia, rendiconto e revisione.</desc>
+  <defs>
+    <style>
+      .bg { fill: #f8fafc; }
+      .ink { fill: #172233; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 46px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 24px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 25px; font-weight: 800; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 18px; }
+      .step { fill: #ffffff; stroke: #cfd8e3; stroke-width: 3; }
+      .chip { fill: #eef4fb; stroke: #c5d7ea; stroke-width: 2.5; }
+      .note { fill: #fff7ed; stroke: #e7c18e; stroke-width: 2.5; }
+      .blue { fill: #1f4e79; }
+      .green { fill: #2f7d5a; }
+      .amber { fill: #b7791f; }
+      .red { fill: #a94442; }
+      .gray { fill: #64748b; }
+      .arrow { stroke: #1f4e79; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowHead); }
+    </style>
+    <marker id="arrowHead" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#1f4e79"/>
+    </marker>
+  </defs>
+
+  <rect class="bg" width="1600" height="900"/>
+  <text class="ink title" x="800" y="70" text-anchor="middle">Enti locali: ciclo finanziario</text>
+  <text class="muted subtitle" x="800" y="110" text-anchor="middle">Programmazione, gestione, equilibri, rendiconto e revisione.</text>
+
+  <path class="arrow" d="M 315 300 L 395 300"/>
+  <path class="arrow" d="M 610 300 L 690 300"/>
+  <path class="arrow" d="M 905 300 L 985 300"/>
+  <path class="arrow" d="M 1200 300 L 1280 300"/>
+
+  <g transform="translate(90 220)">
+    <rect class="step" width="225" height="160" rx="20"/>
+    <text class="blue label" x="112" y="50" text-anchor="middle">DUP</text>
+    <text class="muted body" x="112" y="88" text-anchor="middle">indirizzi e</text>
+    <text class="muted body" x="112" y="118" text-anchor="middle">programmazione</text>
+  </g>
+  <g transform="translate(395 220)">
+    <rect class="step" width="215" height="160" rx="20"/>
+    <text class="green label" x="108" y="50" text-anchor="middle">Bilancio</text>
+    <text class="muted body" x="108" y="88" text-anchor="middle">autorizza</text>
+    <text class="muted body" x="108" y="118" text-anchor="middle">entrate e spese</text>
+  </g>
+  <g transform="translate(690 220)">
+    <rect class="step" width="215" height="160" rx="20"/>
+    <text class="amber label" x="108" y="50" text-anchor="middle">PEG</text>
+    <text class="muted body" x="108" y="88" text-anchor="middle">obiettivi e</text>
+    <text class="muted body" x="108" y="118" text-anchor="middle">responsabili</text>
+  </g>
+  <g transform="translate(985 220)">
+    <rect class="step" width="215" height="160" rx="20"/>
+    <text class="red label" x="108" y="50" text-anchor="middle">Gestione</text>
+    <text class="muted body" x="108" y="88" text-anchor="middle">variazioni,</text>
+    <text class="muted body" x="108" y="118" text-anchor="middle">assestamento</text>
+  </g>
+  <g transform="translate(1280 220)">
+    <rect class="step" width="230" height="160" rx="20"/>
+    <text class="gray label" x="115" y="50" text-anchor="middle">Rendiconto</text>
+    <text class="muted body" x="115" y="88" text-anchor="middle">risultati e</text>
+    <text class="muted body" x="115" y="118" text-anchor="middle">controllo finale</text>
+  </g>
+
+  <g transform="translate(260 525)">
+    <rect class="chip" width="380" height="120" rx="22"/>
+    <text class="blue label" x="190" y="42" text-anchor="middle">Servizio finanziario</text>
+    <text class="muted small" x="190" y="74" text-anchor="middle">visto di copertura, pareri,</text>
+    <text class="muted small" x="190" y="98" text-anchor="middle">equilibri e segnalazioni</text>
+  </g>
+  <g transform="translate(740 525)">
+    <rect class="chip" width="380" height="120" rx="22"/>
+    <text class="green label" x="190" y="42" text-anchor="middle">Revisori</text>
+    <text class="muted small" x="190" y="74" text-anchor="middle">pareri, verifiche di cassa,</text>
+    <text class="muted small" x="190" y="98" text-anchor="middle">relazioni e attendibilità</text>
+  </g>
+
+  <rect class="note" x="245" y="760" width="1110" height="64" rx="24"/>
+  <text class="amber" x="800" y="801" text-anchor="middle" style="font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:23px;font-weight:800;">Da ricordare: DUP orienta, bilancio autorizza, PEG traduce in gestione.</text>
+</svg>

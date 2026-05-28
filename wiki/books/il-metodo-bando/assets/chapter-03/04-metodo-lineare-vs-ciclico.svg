@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Metodo lineare e metodo ciclico</title>
+  <desc id="desc">Confronto tra studio lineare e ciclo BANDO con controllo continuo di bando, aree, nuclei, diario e output.</desc>
+  <defs>
+    <style>
+      .bg { fill: #f8fafc; }
+      .ink { fill: #172233; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 50px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 27px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 30px; font-weight: 800; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 23px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .panel { fill: #ffffff; stroke: #cfd8e3; stroke-width: 3; }
+      .step { fill: #f8fafc; stroke: #d3dce7; stroke-width: 2; }
+      .node { fill: #ffffff; stroke-width: 3; }
+      .blue { fill: #1f4e79; }
+      .green { fill: #2f7d5a; }
+      .amber { fill: #b7791f; }
+      .red { fill: #a94442; }
+      .gray { fill: #64748b; }
+      .band { fill: #e8f0f8; stroke: #b9cde1; stroke-width: 2; }
+      .line { stroke: #1f4e79; stroke-width: 5; stroke-linecap: round; fill: none; }
+      .muted-line { stroke: #b7791f; stroke-width: 5; stroke-linecap: round; fill: none; }
+    </style>
+    <marker id="arrowBlue" markerWidth="22" markerHeight="22" refX="19" refY="11" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M 3 3 L 19 11 L 3 19 z" fill="#1f4e79"/>
+    </marker>
+    <marker id="arrowAmber" markerWidth="22" markerHeight="22" refX="19" refY="11" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M 3 3 L 19 11 L 3 19 z" fill="#b7791f"/>
+    </marker>
+  </defs>
+
+  <rect class="bg" width="1600" height="1000"/>
+  <text class="ink title" x="800" y="82" text-anchor="middle">Metodo lineare e metodo ciclico</text>
+  <text class="muted subtitle" x="800" y="126" text-anchor="middle">Nei concorsi reali il piano deve correggersi dopo errori, prove e nuove informazioni.</text>
+
+  <g transform="translate(105 210)">
+    <rect class="panel" x="0" y="0" width="610" height="600" rx="22"/>
+    <text class="amber label" x="305" y="62" text-anchor="middle">Metodo lineare</text>
+    <g transform="translate(110 125)">
+      <rect class="step" x="0" y="0" width="390" height="60" rx="12"/>
+      <text class="ink body" x="195" y="39" text-anchor="middle">leggo tutto</text>
+      <path class="muted-line" marker-end="url(#arrowAmber)" d="M195 72 V100"/>
+      <rect class="step" x="0" y="105" width="390" height="60" rx="12"/>
+      <text class="ink body" x="195" y="144" text-anchor="middle">ripasso</text>
+      <path class="muted-line" marker-end="url(#arrowAmber)" d="M195 177 V205"/>
+      <rect class="step" x="0" y="210" width="390" height="60" rx="12"/>
+      <text class="ink body" x="195" y="249" text-anchor="middle">faccio quiz</text>
+      <path class="muted-line" marker-end="url(#arrowAmber)" d="M195 282 V310"/>
+      <rect class="step" x="0" y="315" width="390" height="60" rx="12"/>
+      <text class="ink body" x="195" y="354" text-anchor="middle">preparo l'orale</text>
+    </g>
+    <rect class="band" x="95" y="535" width="420" height="44" rx="22"/>
+    <text class="amber small" x="305" y="564" text-anchor="middle" style="font-weight:800;">rischio: scoprire tardi gli errori</text>
+  </g>
+
+  <g transform="translate(885 210)">
+    <rect class="panel" x="0" y="0" width="610" height="600" rx="22"/>
+    <text class="green label" x="305" y="62" text-anchor="middle">Metodo ciclico BANDO</text>
+    <path class="line" marker-end="url(#arrowBlue)" d="M305 122 C445 122 520 220 485 345 C452 465 338 520 218 475 C100 432 75 285 145 198 C185 150 238 128 305 122"/>
+
+    <g transform="translate(235 102)">
+      <rect class="node" x="0" y="0" width="140" height="56" rx="28" stroke="#1f4e79"/>
+      <text class="blue body" x="70" y="37" text-anchor="middle" style="font-weight:800;">Bando</text>
+    </g>
+    <g transform="translate(420 240)">
+      <rect class="node" x="0" y="0" width="132" height="56" rx="28" stroke="#2f7d5a"/>
+      <text class="green body" x="66" y="37" text-anchor="middle" style="font-weight:800;">Aree</text>
+    </g>
+    <g transform="translate(342 420)">
+      <rect class="node" x="0" y="0" width="150" height="56" rx="28" stroke="#b7791f"/>
+      <text class="amber body" x="75" y="37" text-anchor="middle" style="font-weight:800;">Nuclei</text>
+    </g>
+    <g transform="translate(118 420)">
+      <rect class="node" x="0" y="0" width="150" height="56" rx="28" stroke="#64748b"/>
+      <text class="gray body" x="75" y="37" text-anchor="middle" style="font-weight:800;">Diario</text>
+    </g>
+    <g transform="translate(58 240)">
+      <rect class="node" x="0" y="0" width="150" height="56" rx="28" stroke="#a94442"/>
+      <text class="red body" x="75" y="37" text-anchor="middle" style="font-weight:800;">Output</text>
+    </g>
+
+    <rect class="band" x="220" y="282" width="170" height="86" rx="18"/>
+    <text class="blue body" x="305" y="316" text-anchor="middle" style="font-weight:800;">correggi</text>
+    <text class="blue body" x="305" y="348" text-anchor="middle" style="font-weight:800;">la rotta</text>
+  </g>
+
+  <rect class="band" x="345" y="875" width="910" height="58" rx="29"/>
+  <text class="blue" x="800" y="913" text-anchor="middle" style="font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:24px;font-weight:800;">Ogni simulazione deve modificare il piano, non solo misurare un punteggio.</text>
+</svg>

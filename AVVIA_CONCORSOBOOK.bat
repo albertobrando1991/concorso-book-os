@@ -2,6 +2,9 @@
 setlocal
 cd /d "%~dp0"
 
+set AGENT_MEMORY_ENABLED=true
+set AGENT_MEMORY_ROOT=wiki\memory\agent
+
 echo ============================================
 echo ConcorsoBook OS
 echo ============================================
@@ -10,6 +13,8 @@ echo Questa finestra deve restare aperta mentre usi la dashboard.
 echo Quando compare "Ready", apri:
 echo.
 echo   http://127.0.0.1:3000
+echo.
+echo Memoria agentica locale: attiva
 echo.
 
 where codex >nul 2>nul

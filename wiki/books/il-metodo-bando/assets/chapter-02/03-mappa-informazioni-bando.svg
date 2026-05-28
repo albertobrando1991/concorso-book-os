@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1100" viewBox="0 0 1600 1100" role="img" aria-labelledby="title desc">
+  <title id="title">Dove trovo cosa nel bando</title>
+  <desc id="desc">Mappa a colonne delle informazioni principali contenute nel bando e del motivo per cui contano per il candidato.</desc>
+  <defs>
+    <style>
+      .bg { fill: #f8fafc; }
+      .ink { fill: #172233; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 50px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 27px; }
+      .header { fill: #1f4e79; }
+      .header-text { fill: #ffffff; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 26px; font-weight: 800; }
+      .cell { fill: #ffffff; stroke: #d3dce7; stroke-width: 2; }
+      .cell-alt { fill: #f2f6fa; stroke: #d3dce7; stroke-width: 2; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 25px; font-weight: 800; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 22px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .blue { fill: #1f4e79; }
+      .green { fill: #2f7d5a; }
+      .amber { fill: #b7791f; }
+      .red { fill: #a94442; }
+      .gray { fill: #64748b; }
+      .band { fill: #e8f0f8; stroke: #b9cde1; stroke-width: 2; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="1600" height="1100"/>
+  <text class="ink title" x="800" y="82" text-anchor="middle">Dove trovo cosa nel bando</text>
+  <text class="muted subtitle" x="800" y="126" text-anchor="middle">Ogni sezione del bando serve a evitare un errore o a costruire una scelta di studio.</text>
+
+  <g transform="translate(90 185)">
+    <rect class="header" x="0" y="0" width="1420" height="64" rx="12"/>
+    <text class="header-text" x="48" y="41">Informazione</text>
+    <text class="header-text" x="420" y="41">Dove cercarla</text>
+    <text class="header-text" x="955" y="41">Perch&#233; conta</text>
+
+    <g transform="translate(0 82)">
+      <rect class="cell" x="0" y="0" width="330" height="82"/>
+      <text class="ink label" x="34" y="51">Requisiti</text>
+      <rect class="cell" x="330" y="0" width="535" height="82"/>
+      <text class="muted body" x="360" y="51">sezione ammissione</text>
+      <rect class="cell" x="865" y="0" width="555" height="82"/>
+      <text class="ink body" x="895" y="51">decide se puoi partecipare</text>
+    </g>
+
+    <g transform="translate(0 164)">
+      <rect class="cell-alt" x="0" y="0" width="330" height="82"/>
+      <text class="ink label" x="34" y="51">Profilo</text>
+      <rect class="cell-alt" x="330" y="0" width="535" height="82"/>
+      <text class="muted body" x="360" y="51">oggetto, area, mansioni</text>
+      <rect class="cell-alt" x="865" y="0" width="555" height="82"/>
+      <text class="ink body" x="895" y="51">indica profondit&#224; e responsabilit&#224;</text>
+    </g>
+
+    <g transform="translate(0 246)">
+      <rect class="cell" x="0" y="0" width="330" height="82"/>
+      <text class="ink label" x="34" y="51">Domanda</text>
+      <rect class="cell" x="330" y="0" width="535" height="82"/>
+      <text class="muted body" x="360" y="51">modalit&#224;, portale, termini</text>
+      <rect class="cell" x="865" y="0" width="555" height="82"/>
+      <text class="ink body" x="895" y="51">evita esclusioni formali</text>
+    </g>
+
+    <g transform="translate(0 328)">
+      <rect class="cell-alt" x="0" y="0" width="330" height="82"/>
+      <text class="ink label" x="34" y="51">Prove</text>
+      <rect class="cell-alt" x="330" y="0" width="535" height="82"/>
+      <text class="muted body" x="360" y="51">procedura selettiva</text>
+      <rect class="cell-alt" x="865" y="0" width="555" height="82"/>
+      <text class="ink body" x="895" y="51">definisce l'allenamento</text>
+    </g>
+
+    <g transform="translate(0 410)">
+      <rect class="cell" x="0" y="0" width="330" height="82"/>
+      <text class="ink label" x="34" y="51">Materie</text>
+      <rect class="cell" x="330" y="0" width="535" height="82"/>
+      <text class="muted body" x="360" y="51">programma d'esame o allegati</text>
+      <rect class="cell" x="865" y="0" width="555" height="82"/>
+      <text class="ink body" x="895" y="51">costruisce il piano di studio</text>
+    </g>
+
+    <g transform="translate(0 492)">
+      <rect class="cell-alt" x="0" y="0" width="330" height="82"/>
+      <text class="ink label" x="34" y="51">Punteggi</text>
+      <rect class="cell-alt" x="330" y="0" width="535" height="82"/>
+      <text class="muted body" x="360" y="51">valutazione prove e titoli</text>
+      <rect class="cell-alt" x="865" y="0" width="555" height="82"/>
+      <text class="ink body" x="895" y="51">mostra dove perdi o guadagni punti</text>
+    </g>
+
+    <g transform="translate(0 574)">
+      <rect class="cell" x="0" y="0" width="330" height="82"/>
+      <text class="ink label" x="34" y="51">Comunicazioni</text>
+      <rect class="cell" x="330" y="0" width="535" height="82"/>
+      <text class="muted body" x="360" y="51">sito ente, inPA, PEC, diario</text>
+      <rect class="cell" x="865" y="0" width="555" height="82"/>
+      <text class="ink body" x="895" y="51">impedisce di perdere aggiornamenti</text>
+    </g>
+  </g>
+
+  <rect class="band" x="340" y="960" width="920" height="58" rx="29"/>
+  <text class="blue" x="800" y="998" text-anchor="middle" style="font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:24px;font-weight:800;">Il bando non si legge in ordine di pagina: si legge per decisioni.</text>
+</svg>

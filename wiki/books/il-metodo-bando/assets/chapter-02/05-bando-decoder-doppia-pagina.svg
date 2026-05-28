@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1050" viewBox="0 0 1600 1050" role="img" aria-labelledby="title desc">
+  <title id="title">Bando Decoder doppia pagina</title>
+  <desc id="desc">Schema del Bando Decoder: pagina 1 con dati del concorso e pagina 2 con prove, materie, punteggi e decisione finale.</desc>
+  <defs>
+    <style>
+      .bg { fill: #f8fafc; }
+      .ink { fill: #172233; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 50px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 27px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 30px; font-weight: 800; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 23px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .page { fill: #ffffff; stroke: #cfd8e3; stroke-width: 3; }
+      .header-a { fill: #1f4e79; }
+      .header-b { fill: #2f7d5a; }
+      .row { fill: #f8fafc; stroke: #d3dce7; stroke-width: 2; }
+      .blue { fill: #1f4e79; }
+      .green { fill: #2f7d5a; }
+      .amber { fill: #b7791f; }
+      .band { fill: #e8f0f8; stroke: #b9cde1; stroke-width: 2; }
+      .line { stroke: #1f4e79; stroke-width: 5; stroke-linecap: round; }
+    </style>
+    <marker id="arrowhead" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M 0 0 L 12 6 L 0 12 z" fill="#1f4e79"/>
+    </marker>
+  </defs>
+
+  <rect class="bg" width="1600" height="1050"/>
+  <text class="ink title" x="800" y="82" text-anchor="middle">Bando Decoder: dal testo al piano</text>
+  <text class="muted subtitle" x="800" y="126" text-anchor="middle">La doppia pagina trasforma un bando in decisioni, priorit&#224; e prime azioni.</text>
+
+  <g transform="translate(105 200)">
+    <rect class="page" x="0" y="0" width="620" height="660" rx="18"/>
+    <rect class="header-a" x="0" y="0" width="620" height="76" rx="18"/>
+    <text x="310" y="49" text-anchor="middle" style="fill:#fff;font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:30px;font-weight:850;">Pagina 1 - Identit&#224; del concorso</text>
+
+    <g transform="translate(42 112)">
+      <rect class="row" x="0" y="0" width="536" height="50" rx="10"/>
+      <text class="ink body" x="24" y="33">Ente e profilo</text>
+      <rect class="row" x="0" y="68" width="536" height="50" rx="10"/>
+      <text class="ink body" x="24" y="101">Area, posti e riserve</text>
+      <rect class="row" x="0" y="136" width="536" height="50" rx="10"/>
+      <text class="ink body" x="24" y="169">Requisiti e titolo di studio</text>
+      <rect class="row" x="0" y="204" width="536" height="50" rx="10"/>
+      <text class="ink body" x="24" y="237">Scadenza domanda</text>
+      <rect class="row" x="0" y="272" width="536" height="50" rx="10"/>
+      <text class="ink body" x="24" y="305">Modalit&#224; digitale e documenti</text>
+      <rect class="row" x="0" y="340" width="536" height="50" rx="10"/>
+      <text class="ink body" x="24" y="373">Dubbi da verificare</text>
+      <rect class="band" x="0" y="455" width="536" height="58" rx="29"/>
+      <text class="blue body" x="268" y="493" text-anchor="middle">obiettivo: posso partecipare?</text>
+    </g>
+  </g>
+
+  <path class="line" marker-end="url(#arrowhead)" d="M755 530 H845"/>
+
+  <g transform="translate(875 200)">
+    <rect class="page" x="0" y="0" width="620" height="660" rx="18"/>
+    <rect class="header-b" x="0" y="0" width="620" height="76" rx="18"/>
+    <text x="310" y="49" text-anchor="middle" style="fill:#fff;font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:30px;font-weight:850;">Pagina 2 - Strategia di prova</text>
+
+    <g transform="translate(42 112)">
+      <rect class="row" x="0" y="0" width="536" height="50" rx="10"/>
+      <text class="ink body" x="24" y="33">Prove previste</text>
+      <rect class="row" x="0" y="68" width="536" height="50" rx="10"/>
+      <text class="ink body" x="24" y="101">Materie obbligatorie e probabili</text>
+      <rect class="row" x="0" y="136" width="536" height="50" rx="10"/>
+      <text class="ink body" x="24" y="169">Materie accessorie, killer, orali</text>
+      <rect class="row" x="0" y="204" width="536" height="50" rx="10"/>
+      <text class="ink body" x="24" y="237">Punteggi e soglie</text>
+      <rect class="row" x="0" y="272" width="536" height="50" rx="10"/>
+      <text class="ink body" x="24" y="305">Prima simulazione</text>
+      <rect class="row" x="0" y="340" width="536" height="50" rx="10"/>
+      <text class="ink body" x="24" y="373">Decisione finale: alta, media, bassa</text>
+      <rect class="band" x="0" y="455" width="536" height="58" rx="29"/>
+      <text class="green body" x="268" y="493" text-anchor="middle">obiettivo: da dove parto?</text>
+    </g>
+  </g>
+
+  <rect class="band" x="315" y="935" width="970" height="58" rx="29"/>
+  <text class="blue" x="800" y="973" text-anchor="middle" style="font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:24px;font-weight:800;">Il Decoder trasforma il bando in decisioni operative.</text>
+</svg>

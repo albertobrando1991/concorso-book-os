@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Dal materiale disperso alla procedura</title>
+  <desc id="desc">Schema che mostra come il Metodo BANDO trasforma materiali sparsi in decisioni, priorita, calendario e simulazioni.</desc>
+  <defs>
+    <style>
+      .bg { fill: #f8fafc; }
+      .ink { fill: #172233; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 50px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 27px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 30px; font-weight: 800; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 23px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .panel { fill: #ffffff; stroke: #cfd8e3; stroke-width: 3; }
+      .item { fill: #f8fafc; stroke: #d3dce7; stroke-width: 2; }
+      .processor { fill: #eef4fb; stroke: #1f4e79; stroke-width: 4; }
+      .blue { fill: #1f4e79; }
+      .green { fill: #2f7d5a; }
+      .amber { fill: #b7791f; }
+      .gray { fill: #64748b; }
+      .band { fill: #e8f0f8; stroke: #b9cde1; stroke-width: 2; }
+      .line { stroke: #1f4e79; stroke-width: 5; stroke-linecap: round; }
+    </style>
+    <marker id="arrowhead" markerWidth="24" markerHeight="24" refX="21" refY="12" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M 3 3 L 21 12 L 3 21 z" fill="#1f4e79"/>
+    </marker>
+  </defs>
+
+  <rect class="bg" width="1600" height="1000"/>
+  <text class="ink title" x="800" y="82" text-anchor="middle">Dal materiale disperso alla procedura</text>
+  <text class="muted subtitle" x="800" y="126" text-anchor="middle">Il metodo non aggiunge materiali: decide come usarli.</text>
+
+  <g transform="translate(95 205)">
+    <rect class="panel" x="0" y="0" width="460" height="560" rx="22"/>
+    <text class="amber label" x="230" y="62" text-anchor="middle">Materiali non governati</text>
+    <g transform="translate(55 115)">
+      <rect class="item" x="0" y="0" width="350" height="58" rx="12"/>
+      <text class="ink body" x="32" y="38">manuale pi&#249; grande</text>
+      <rect class="item" x="0" y="78" width="350" height="58" rx="12"/>
+      <text class="ink body" x="32" y="116">raccolta di quiz</text>
+      <rect class="item" x="0" y="156" width="350" height="58" rx="12"/>
+      <text class="ink body" x="32" y="194">file salvati</text>
+      <rect class="item" x="0" y="234" width="350" height="58" rx="12"/>
+      <text class="ink body" x="32" y="272">gruppi e corsi</text>
+      <rect class="item" x="0" y="312" width="350" height="58" rx="12"/>
+      <text class="ink body" x="32" y="350">appunti scollegati</text>
+    </g>
+    <rect class="band" x="70" y="500" width="320" height="44" rx="22"/>
+    <text class="amber small" x="230" y="529" text-anchor="middle" style="font-weight:800;">rischio: dispersione</text>
+  </g>
+
+  <path class="line" marker-end="url(#arrowhead)" d="M575 485 H645"/>
+
+  <g transform="translate(665 280)">
+    <rect class="processor" x="0" y="0" width="270" height="360" rx="28"/>
+    <text class="blue label" x="135" y="74" text-anchor="middle">Cabina</text>
+    <text class="blue label" x="135" y="112" text-anchor="middle">BANDO</text>
+    <g transform="translate(42 155)">
+      <circle class="blue" cx="20" cy="20" r="20"/><text x="20" y="28" text-anchor="middle" style="fill:#fff;font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:22px;font-weight:900;">B</text>
+      <circle class="green" cx="68" cy="20" r="20"/><text x="68" y="28" text-anchor="middle" style="fill:#fff;font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:22px;font-weight:900;">A</text>
+      <circle class="amber" cx="116" cy="20" r="20"/><text x="116" y="28" text-anchor="middle" style="fill:#fff;font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:22px;font-weight:900;">N</text>
+      <circle class="gray" cx="164" cy="20" r="20"/><text x="164" y="28" text-anchor="middle" style="fill:#fff;font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:22px;font-weight:900;">D</text>
+      <circle fill="#a94442" cx="212" cy="20" r="20"/><text x="212" y="28" text-anchor="middle" style="fill:#fff;font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:22px;font-weight:900;">O</text>
+    </g>
+    <text class="muted body" x="135" y="245" text-anchor="middle">filtra</text>
+    <text class="muted body" x="135" y="276" text-anchor="middle">ordina</text>
+    <text class="muted body" x="135" y="307" text-anchor="middle">traduce in azione</text>
+  </g>
+
+  <path class="line" marker-end="url(#arrowhead)" d="M955 485 H1025"/>
+
+  <g transform="translate(1045 205)">
+    <rect class="panel" x="0" y="0" width="460" height="560" rx="22"/>
+    <text class="green label" x="230" y="62" text-anchor="middle">Preparazione governata</text>
+    <g transform="translate(55 115)">
+      <rect class="item" x="0" y="0" width="350" height="58" rx="12"/>
+      <text class="ink body" x="32" y="38">decisioni esplicite</text>
+      <rect class="item" x="0" y="78" width="350" height="58" rx="12"/>
+      <text class="ink body" x="32" y="116">priorit&#224; di studio</text>
+      <rect class="item" x="0" y="156" width="350" height="58" rx="12"/>
+      <text class="ink body" x="32" y="194">calendario unico</text>
+      <rect class="item" x="0" y="234" width="350" height="58" rx="12"/>
+      <text class="ink body" x="32" y="272">diario errori</text>
+      <rect class="item" x="0" y="312" width="350" height="58" rx="12"/>
+      <text class="ink body" x="32" y="350">simulazioni mirate</text>
+    </g>
+    <rect class="band" x="70" y="500" width="320" height="44" rx="22"/>
+    <text class="green small" x="230" y="529" text-anchor="middle" style="font-weight:800;">risultato: controllo</text>
+  </g>
+
+  <rect class="band" x="350" y="850" width="900" height="58" rx="29"/>
+  <text class="blue" x="800" y="888" text-anchor="middle" style="font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:24px;font-weight:800;">Il prodotto non &#232; il materiale: &#232; la decisione operativa.</text>
+</svg>

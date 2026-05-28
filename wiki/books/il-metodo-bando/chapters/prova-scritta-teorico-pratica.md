@@ -22,30 +22,3 @@ last_compiled_from: ["sources/struttura-madre-il-metodo-bando.md"]
 
 # La prova scritta e teorico-pratica
 
-## Obiettivo didattico
-Preparare a domande aperte, elaborati brevi e prove pratiche.
-
-## Specifica struttura madre
-Differenza tra quiz, risposta sintetica, elaborato e caso pratico; schema definizione, norma/principio, funzione, esempio, conclusione; evitare risposte scolastiche; parole chiave giuridiche senza prolissita; risposta in 10/20/30 righe; leggere traccia; rispondere quando non si conosce tutto.
-
-## Strumenti da inserire
-5 risposte modello, 5 risposte da correggere, checklist prima di consegnare, box risposta da manuale vs risposta da concorso.
-
-## Testo editoriale
-Da sviluppare con Manual Writer Agent.
-
-## Bozza agente
-
-## Note editoriali
-- Da rivedere per nuova fonte [[sources/d-lgs-27-ottobre-2009-n-150-performance]].
-
-- Da rivedere per nuova fonte [[sources/d-p-r-16-giugno-2023-n-82-modifiche-al-d-p-r-487-1994-sui-concorsi]].
-
-- Da rivedere per nuova fonte [[sources/agid-linee-guida-sulla-formazione-gestione-e-conservazione-dei-documenti-informatici]].
-
-- Da rivedere per nuova fonte [[sources/agid-catalogo-linee-guida-cad-e-domicilio-digitale]].
-
-- Da rivedere per nuova fonte [[sources/gazzetta-ufficiale-n-111-del-15-maggio-2025-decreto-pat-e-formweb]].
-
-- Da rivedere per nuova fonte [[sources/cedu-savino-ed-altri-c-italia-28-aprile-2009-concorsi-e-art-6-cedu]].
-

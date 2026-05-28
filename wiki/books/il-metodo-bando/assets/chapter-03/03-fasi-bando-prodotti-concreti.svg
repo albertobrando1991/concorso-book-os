@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1050" viewBox="0 0 1600 1050" role="img" aria-labelledby="title desc">
+  <title id="title">Ogni fase produce un artefatto</title>
+  <desc id="desc">Schema che collega ogni fase del Metodo BANDO al prodotto concreto da usare nello studio.</desc>
+  <defs>
+    <style>
+      .bg { fill: #f8fafc; }
+      .ink { fill: #172233; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 50px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 27px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 28px; font-weight: 800; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 22px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .card { fill: #ffffff; stroke: #cfd8e3; stroke-width: 3; }
+      .product { fill: #f1f6fb; stroke: #c5d7ea; stroke-width: 2; }
+      .blue { fill: #1f4e79; }
+      .green { fill: #2f7d5a; }
+      .amber { fill: #b7791f; }
+      .red { fill: #a94442; }
+      .gray { fill: #64748b; }
+      .band { fill: #e8f0f8; stroke: #b9cde1; stroke-width: 2; }
+      .line { stroke: #1f4e79; stroke-width: 5; stroke-linecap: round; }
+    </style>
+    <marker id="arrowhead" markerWidth="24" markerHeight="24" refX="21" refY="12" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M 3 3 L 21 12 L 3 21 z" fill="#1f4e79"/>
+    </marker>
+  </defs>
+
+  <rect class="bg" width="1600" height="1050"/>
+  <text class="ink title" x="800" y="82" text-anchor="middle">Ogni fase produce un artefatto</text>
+  <text class="muted subtitle" x="800" y="126" text-anchor="middle">Nel metodo, ogni passaggio deve lasciare una traccia utilizzabile.</text>
+
+  <g transform="translate(45 235)">
+    <rect class="card" x="0" y="0" width="255" height="500" rx="20"/>
+    <circle class="blue" cx="128" cy="64" r="38"/>
+    <text x="128" y="76" text-anchor="middle" style="fill:#fff;font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:40px;font-weight:900;">B</text>
+    <text class="blue label" x="128" y="134" text-anchor="middle">Bando</text>
+    <text class="muted body" x="128" y="180" text-anchor="middle">Quale concorso</text>
+    <text class="muted body" x="128" y="210" text-anchor="middle">sto preparando?</text>
+    <rect class="product" x="35" y="310" width="185" height="70" rx="16"/>
+    <text class="ink small" x="128" y="338" text-anchor="middle">Bando</text>
+    <text class="ink small" x="128" y="365" text-anchor="middle">Decoder</text>
+  </g>
+
+  <path class="line" marker-end="url(#arrowhead)" d="M310 485 H350"/>
+
+  <g transform="translate(360 235)">
+    <rect class="card" x="0" y="0" width="255" height="500" rx="20"/>
+    <circle class="green" cx="128" cy="64" r="38"/>
+    <text x="128" y="76" text-anchor="middle" style="fill:#fff;font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:40px;font-weight:900;">A</text>
+    <text class="green label" x="128" y="134" text-anchor="middle">Aree</text>
+    <text class="muted body" x="128" y="180" text-anchor="middle">Come divido</text>
+    <text class="muted body" x="128" y="210" text-anchor="middle">le materie?</text>
+    <rect class="product" x="35" y="310" width="185" height="70" rx="16"/>
+    <text class="ink small" x="128" y="338" text-anchor="middle">Mappa</text>
+    <text class="ink small" x="128" y="365" text-anchor="middle">materie</text>
+  </g>
+
+  <path class="line" marker-end="url(#arrowhead)" d="M625 485 H665"/>
+
+  <g transform="translate(675 235)">
+    <rect class="card" x="0" y="0" width="255" height="500" rx="20"/>
+    <circle class="amber" cx="128" cy="64" r="38"/>
+    <text x="128" y="76" text-anchor="middle" style="fill:#fff;font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:40px;font-weight:900;">N</text>
+    <text class="amber label" x="128" y="134" text-anchor="middle">Nuclei</text>
+    <text class="muted body" x="128" y="180" text-anchor="middle">Che cosa conta</text>
+    <text class="muted body" x="128" y="210" text-anchor="middle">davvero?</text>
+    <rect class="product" x="35" y="310" width="185" height="70" rx="16"/>
+    <text class="ink small" x="128" y="338" text-anchor="middle">Lista</text>
+    <text class="ink small" x="128" y="365" text-anchor="middle">prioritaria</text>
+  </g>
+
+  <path class="line" marker-end="url(#arrowhead)" d="M940 485 H980"/>
+
+  <g transform="translate(990 235)">
+    <rect class="card" x="0" y="0" width="255" height="500" rx="20"/>
+    <circle class="gray" cx="128" cy="64" r="38"/>
+    <text x="128" y="76" text-anchor="middle" style="fill:#fff;font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:40px;font-weight:900;">D</text>
+    <text class="gray label" x="128" y="134" text-anchor="middle">Diario</text>
+    <text class="muted body" x="128" y="180" text-anchor="middle">Che cosa devo</text>
+    <text class="muted body" x="128" y="210" text-anchor="middle">correggere?</text>
+    <rect class="product" x="35" y="310" width="185" height="70" rx="16"/>
+    <text class="ink small" x="128" y="338" text-anchor="middle">Errori e</text>
+    <text class="ink small" x="128" y="365" text-anchor="middle">scadenze</text>
+  </g>
+
+  <path class="line" marker-end="url(#arrowhead)" d="M1255 485 H1295"/>
+
+  <g transform="translate(1305 235)">
+    <rect class="card" x="0" y="0" width="255" height="500" rx="20"/>
+    <circle class="red" cx="128" cy="64" r="38"/>
+    <text x="128" y="76" text-anchor="middle" style="fill:#fff;font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:40px;font-weight:900;">O</text>
+    <text class="red label" x="128" y="134" text-anchor="middle">Output</text>
+    <text class="muted body" x="128" y="180" text-anchor="middle">Che cosa devo</text>
+    <text class="muted body" x="128" y="210" text-anchor="middle">produrre?</text>
+    <rect class="product" x="35" y="310" width="185" height="70" rx="16"/>
+    <text class="ink small" x="128" y="338" text-anchor="middle">Quiz, risposta</text>
+    <text class="ink small" x="128" y="365" text-anchor="middle">caso o orale</text>
+  </g>
+
+  <rect class="band" x="350" y="850" width="900" height="58" rx="29"/>
+  <text class="blue" x="800" y="888" text-anchor="middle" style="font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:24px;font-weight:800;">Se non produce un artefatto, la fase resta teoria.</text>
+</svg>

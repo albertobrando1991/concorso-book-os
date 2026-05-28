@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="560" viewBox="0 0 1600 560" role="img" aria-labelledby="title desc">
+  <title id="title">Diritto amministrativo operativo</title>
+  <desc id="desc">Mappa compatta del diritto amministrativo: fonti, organizzazione, procedimento, provvedimento, accesso, silenzio e responsabilità.</desc>
+  <defs>
+    <style>
+      .bg { fill: #f8fafc; }
+      .ink { fill: #172233; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 44px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 23px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 25px; font-weight: 800; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 18px; }
+      .panel { fill: #ffffff; stroke: #cfd8e3; stroke-width: 3; }
+      .hub { fill: #ffffff; stroke: #1f4e79; stroke-width: 5; }
+      .band { fill: #e8f0f8; stroke: #b9cde1; stroke-width: 2; }
+      .blue { fill: #1f4e79; }
+      .green { fill: #2f7d5a; }
+      .amber { fill: #b7791f; }
+      .red { fill: #a94442; }
+      .gray { fill: #64748b; }
+      .line { stroke: #9db4ca; stroke-width: 4; stroke-linecap: round; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="1600" height="560"/>
+  <text class="ink title" x="800" y="58" text-anchor="middle">Diritto amministrativo operativo</text>
+  <text class="muted subtitle" x="800" y="93" text-anchor="middle">Dal potere pubblico alla decisione: procedimento, controlli e tutela.</text>
+
+  <g transform="translate(95 142)">
+    <rect class="panel" x="0" y="0" width="300" height="112" rx="17"/>
+    <circle class="blue" cx="42" cy="42" r="24"/>
+    <text x="42" y="51" text-anchor="middle" style="fill:#fff;font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:24px;font-weight:900;">1</text>
+    <text class="blue label" x="82" y="47">Fonti</text>
+    <text class="muted small" x="32" y="82">Costituzione, L. 241/1990</text>
+  </g>
+
+  <g transform="translate(455 142)">
+    <rect class="panel" x="0" y="0" width="330" height="112" rx="17"/>
+    <circle class="green" cx="42" cy="42" r="24"/>
+    <text x="42" y="51" text-anchor="middle" style="fill:#fff;font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:24px;font-weight:900;">2</text>
+    <text class="green label" x="82" y="47">Organizzazione</text>
+    <text class="muted small" x="32" y="82">ente, ufficio, competenza</text>
+  </g>
+
+  <g transform="translate(845 142)">
+    <rect class="panel" x="0" y="0" width="330" height="112" rx="17"/>
+    <circle class="amber" cx="42" cy="42" r="24"/>
+    <text x="42" y="51" text-anchor="middle" style="fill:#fff;font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:24px;font-weight:900;">3</text>
+    <text class="amber label" x="82" y="47">Procedimento</text>
+    <text class="muted small" x="32" y="82">avvio, istruttoria, decisione</text>
+  </g>
+
+  <g transform="translate(1235 142)">
+    <rect class="panel" x="0" y="0" width="270" height="112" rx="17"/>
+    <circle class="red" cx="42" cy="42" r="24"/>
+    <text x="42" y="51" text-anchor="middle" style="fill:#fff;font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:24px;font-weight:900;">4</text>
+    <text class="red label" x="82" y="47">Atto</text>
+    <text class="muted small" x="32" y="82">provvedimento motivato</text>
+  </g>
+
+  <line class="line" x1="395" y1="198" x2="455" y2="198"/>
+  <line class="line" x1="785" y1="198" x2="845" y2="198"/>
+  <line class="line" x1="1175" y1="198" x2="1235" y2="198"/>
+
+  <g transform="translate(285 318)">
+    <rect class="hub" x="0" y="0" width="460" height="96" rx="22"/>
+    <text class="blue label" x="230" y="40" text-anchor="middle">Accesso e silenzio</text>
+    <text class="muted body" x="230" y="70" text-anchor="middle">conoscere gli atti e reagire all'inerzia</text>
+  </g>
+
+  <g transform="translate(855 318)">
+    <rect class="hub" x="0" y="0" width="460" height="96" rx="22"/>
+    <text class="gray label" x="230" y="40" text-anchor="middle">Responsabilità</text>
+    <text class="muted body" x="230" y="70" text-anchor="middle">controlli, tutela e buon andamento</text>
+  </g>
+
+  <rect class="band" x="255" y="470" width="1090" height="52" rx="26"/>
+  <text class="blue" x="800" y="504" text-anchor="middle" style="font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:22px;font-weight:800;">Schema risposta: soggetto, potere, procedimento, atto, rimedio.</text>
+</svg>

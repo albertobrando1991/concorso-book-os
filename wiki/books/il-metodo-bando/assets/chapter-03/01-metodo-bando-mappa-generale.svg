@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Il Metodo BANDO in una mappa</title>
+  <desc id="desc">Schema delle cinque fasi del Metodo BANDO: Bando, Aree, Nuclei, Diario e Output.</desc>
+  <defs>
+    <style>
+      .bg { fill: #f8fafc; }
+      .ink { fill: #172233; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 50px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 27px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 30px; font-weight: 800; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 23px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .card { fill: #ffffff; stroke: #cfd8e3; stroke-width: 3; }
+      .chip { fill: #eef4fb; stroke: #c5d7ea; stroke-width: 2; }
+      .blue { fill: #1f4e79; }
+      .green { fill: #2f7d5a; }
+      .amber { fill: #b7791f; }
+      .red { fill: #a94442; }
+      .gray { fill: #64748b; }
+      .band { fill: #e8f0f8; stroke: #b9cde1; stroke-width: 2; }
+      .line { stroke: #1f4e79; stroke-width: 5; stroke-linecap: round; }
+    </style>
+    <marker id="arrowhead" markerWidth="24" markerHeight="24" refX="21" refY="12" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M 3 3 L 21 12 L 3 21 z" fill="#1f4e79"/>
+    </marker>
+  </defs>
+
+  <rect class="bg" width="1600" height="1000"/>
+  <text class="ink title" x="800" y="82" text-anchor="middle">Il Metodo BANDO in una mappa</text>
+  <text class="muted subtitle" x="800" y="126" text-anchor="middle">Ogni fase trasforma il bando in decisioni, studio e prova.</text>
+
+  <g transform="translate(108 300)">
+    <rect class="card" x="0" y="0" width="235" height="300" rx="20"/>
+    <circle class="blue" cx="118" cy="58" r="38"/>
+    <text x="118" y="70" text-anchor="middle" style="fill:#fff;font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:40px;font-weight:900;">B</text>
+    <text class="blue label" x="118" y="128" text-anchor="middle">Bando</text>
+    <text class="muted body" x="118" y="171" text-anchor="middle">capire il</text>
+    <text class="muted body" x="118" y="202" text-anchor="middle">concorso reale</text>
+    <rect class="chip" x="38" y="235" width="159" height="42" rx="21"/>
+    <text class="ink small" x="118" y="263" text-anchor="middle">Decoder</text>
+  </g>
+
+  <path class="line" marker-end="url(#arrowhead)" d="M352 450 H386"/>
+
+  <g transform="translate(395 300)">
+    <rect class="card" x="0" y="0" width="235" height="300" rx="20"/>
+    <circle class="green" cx="118" cy="58" r="38"/>
+    <text x="118" y="70" text-anchor="middle" style="fill:#fff;font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:40px;font-weight:900;">A</text>
+    <text class="green label" x="118" y="128" text-anchor="middle">Aree</text>
+    <text class="muted body" x="118" y="171" text-anchor="middle">dividere le</text>
+    <text class="muted body" x="118" y="202" text-anchor="middle">materie</text>
+    <rect class="chip" x="38" y="235" width="159" height="42" rx="21"/>
+    <text class="ink small" x="118" y="263" text-anchor="middle">Mappa</text>
+  </g>
+
+  <path class="line" marker-end="url(#arrowhead)" d="M639 450 H673"/>
+
+  <g transform="translate(682 300)">
+    <rect class="card" x="0" y="0" width="235" height="300" rx="20"/>
+    <circle class="amber" cx="118" cy="58" r="38"/>
+    <text x="118" y="70" text-anchor="middle" style="fill:#fff;font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:40px;font-weight:900;">N</text>
+    <text class="amber label" x="118" y="128" text-anchor="middle">Nuclei</text>
+    <text class="muted body" x="118" y="171" text-anchor="middle">scegliere</text>
+    <text class="muted body" x="118" y="202" text-anchor="middle">priorit&#224;</text>
+    <rect class="chip" x="38" y="235" width="159" height="42" rx="21"/>
+    <text class="ink small" x="118" y="263" text-anchor="middle">Lista</text>
+  </g>
+
+  <path class="line" marker-end="url(#arrowhead)" d="M926 450 H960"/>
+
+  <g transform="translate(969 300)">
+    <rect class="card" x="0" y="0" width="235" height="300" rx="20"/>
+    <circle class="gray" cx="118" cy="58" r="38"/>
+    <text x="118" y="70" text-anchor="middle" style="fill:#fff;font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:40px;font-weight:900;">D</text>
+    <text class="gray label" x="118" y="128" text-anchor="middle">Diario</text>
+    <text class="muted body" x="118" y="171" text-anchor="middle">misurare errori</text>
+    <text class="muted body" x="118" y="202" text-anchor="middle">e scadenze</text>
+    <rect class="chip" x="38" y="235" width="159" height="42" rx="21"/>
+    <text class="ink small" x="118" y="263" text-anchor="middle">Traccia</text>
+  </g>
+
+  <path class="line" marker-end="url(#arrowhead)" d="M1213 450 H1247"/>
+
+  <g transform="translate(1256 300)">
+    <rect class="card" x="0" y="0" width="235" height="300" rx="20"/>
+    <circle class="red" cx="118" cy="58" r="38"/>
+    <text x="118" y="70" text-anchor="middle" style="fill:#fff;font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:40px;font-weight:900;">O</text>
+    <text class="red label" x="118" y="128" text-anchor="middle">Output</text>
+    <text class="muted body" x="118" y="171" text-anchor="middle">allenare ci&#242;</text>
+    <text class="muted body" x="118" y="202" text-anchor="middle">che produci</text>
+    <rect class="chip" x="38" y="235" width="159" height="42" rx="21"/>
+    <text class="ink small" x="118" y="263" text-anchor="middle">Prova</text>
+  </g>
+
+  <rect class="band" x="330" y="815" width="940" height="62" rx="31"/>
+  <text class="blue" x="800" y="855" text-anchor="middle" style="font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:24px;font-weight:800;">Procedura: dal bando ufficiale all'allenamento della prova.</text>
+</svg>

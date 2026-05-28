@@ -121,6 +121,8 @@ export interface DashboardData {
     draftChapters: number
     consolidatedChapters: number
     openConflicts: number
+    memoryConversations: number
+    memoryAtoms: number
   }
   sources: DashboardSource[]
   topics: DashboardTopic[]
@@ -130,4 +132,3 @@ export interface DashboardData {
   agentRuns: string[]
   artifacts: AgentArtifact[]
 }
-

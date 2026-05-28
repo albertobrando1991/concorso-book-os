@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Procedimento amministrativo</title>
+  <desc id="desc">Flusso del procedimento amministrativo: avvio, responsabile, comunicazione, partecipazione, istruttoria, decisione e controllo.</desc>
+  <defs>
+    <style>
+      .bg { fill: #f8fafc; }
+      .ink { fill: #172233; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 50px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 27px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 27px; font-weight: 800; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 21px; }
+      .card { fill: #ffffff; stroke: #cfd8e3; stroke-width: 3; }
+      .band { fill: #e8f0f8; stroke: #b9cde1; stroke-width: 2; }
+      .blue { fill: #1f4e79; }
+      .green { fill: #2f7d5a; }
+      .amber { fill: #b7791f; }
+      .red { fill: #a94442; }
+      .gray { fill: #64748b; }
+      .arrow { stroke: #1f4e79; stroke-width: 5; stroke-linecap: round; stroke-linejoin: round; fill: none; marker-end: url(#arrowHead); }
+    </style>
+    <marker id="arrowHead" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#1f4e79"/>
+    </marker>
+  </defs>
+
+  <rect class="bg" width="1600" height="1000"/>
+  <text class="ink title" x="800" y="82" text-anchor="middle">Procedimento amministrativo</text>
+  <text class="muted subtitle" x="800" y="126" text-anchor="middle">La Legge 241/1990 trasforma una domanda in una decisione controllabile.</text>
+
+  <path class="arrow" d="M 355 300 L 440 300"/>
+  <path class="arrow" d="M 730 300 L 815 300"/>
+  <path class="arrow" d="M 1105 300 L 1190 300"/>
+  <path class="arrow" d="M 1348 384 C 1348 485 1235 505 1188 560"/>
+  <path class="arrow" d="M 1000 630 L 905 630"/>
+  <path class="arrow" d="M 610 630 L 515 630"/>
+
+  <g transform="translate(70 225)">
+    <rect class="card" width="285" height="150" rx="18"/>
+    <circle class="blue" cx="42" cy="42" r="24"/>
+    <text x="42" y="51" text-anchor="middle" style="fill:#fff;font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:24px;font-weight:900;">1</text>
+    <text class="blue label" x="82" y="52">Avvio</text>
+    <text class="muted body" x="32" y="96">d'ufficio</text>
+    <text class="muted body" x="32" y="124">o su istanza</text>
+  </g>
+
+  <g transform="translate(445 225)">
+    <rect class="card" width="285" height="150" rx="18"/>
+    <circle class="green" cx="42" cy="42" r="24"/>
+    <text x="42" y="51" text-anchor="middle" style="fill:#fff;font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:24px;font-weight:900;">2</text>
+    <text class="green label" x="82" y="52">Responsabile</text>
+    <text class="muted body" x="32" y="96">ufficio e soggetto</text>
+    <text class="muted body" x="32" y="124">che curano la pratica</text>
+  </g>
+
+  <g transform="translate(820 225)">
+    <rect class="card" width="285" height="150" rx="18"/>
+    <circle class="amber" cx="42" cy="42" r="24"/>
+    <text x="42" y="51" text-anchor="middle" style="fill:#fff;font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:24px;font-weight:900;">3</text>
+    <text class="amber label" x="82" y="52">Comunicazione</text>
+    <text class="muted body" x="32" y="96">avvio, termini</text>
+    <text class="muted body" x="32" y="124">e accesso agli atti</text>
+  </g>
+
+  <g transform="translate(1195 225)">
+    <rect class="card" width="335" height="150" rx="18"/>
+    <circle class="red" cx="42" cy="42" r="24"/>
+    <text x="42" y="51" text-anchor="middle" style="fill:#fff;font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:24px;font-weight:900;">4</text>
+    <text class="red label" x="82" y="52">Partecipazione</text>
+    <text class="muted body" x="32" y="96">memorie, documenti</text>
+    <text class="muted body" x="32" y="124">e integrazioni</text>
+  </g>
+
+  <g transform="translate(1010 555)">
+    <rect class="card" width="310" height="150" rx="18"/>
+    <circle class="blue" cx="42" cy="42" r="24"/>
+    <text x="42" y="51" text-anchor="middle" style="fill:#fff;font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:24px;font-weight:900;">5</text>
+    <text class="blue label" x="82" y="52">Istruttoria</text>
+    <text class="muted body" x="32" y="96">fatti, pareri</text>
+    <text class="muted body" x="32" y="124">e valutazioni</text>
+  </g>
+
+  <g transform="translate(625 555)">
+    <rect class="card" width="280" height="150" rx="18"/>
+    <circle class="green" cx="42" cy="42" r="24"/>
+    <text x="42" y="51" text-anchor="middle" style="fill:#fff;font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:24px;font-weight:900;">6</text>
+    <text class="green label" x="82" y="52">Decisione</text>
+    <text class="muted body" x="32" y="96">provvedimento</text>
+    <text class="muted body" x="32" y="124">espresso</text>
+  </g>
+
+  <g transform="translate(225 555)">
+    <rect class="card" width="290" height="150" rx="18"/>
+    <circle class="gray" cx="42" cy="42" r="24"/>
+    <text x="42" y="51" text-anchor="middle" style="fill:#fff;font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:24px;font-weight:900;">7</text>
+    <text class="gray label" x="82" y="52">Controllo</text>
+    <text class="muted body" x="32" y="96">accesso, riesame</text>
+    <text class="muted body" x="32" y="124">e ricorso</text>
+  </g>
+
+  <rect class="band" x="270" y="860" width="1060" height="62" rx="31"/>
+  <text class="blue" x="800" y="900" text-anchor="middle" style="font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:24px;font-weight:800;">Domanda guida: chi decide, entro quando, con quali garanzie?</text>
+</svg>

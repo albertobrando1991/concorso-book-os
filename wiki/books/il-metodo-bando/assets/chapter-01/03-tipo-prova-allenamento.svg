@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1100" viewBox="0 0 1600 1100" role="img" aria-labelledby="title desc">
+  <title id="title">Tipo di prova e tipo di allenamento</title>
+  <desc id="desc">Matrice che collega le principali prove concorsuali alla competenza misurata, all'allenamento principale e all'output atteso.</desc>
+  <defs>
+    <style>
+      .bg { fill: #f8fafc; }
+      .ink { fill: #172233; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 50px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 27px; }
+      .header { fill: #1f4e79; }
+      .header-text { fill: #ffffff; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 27px; font-weight: 800; }
+      .cell { fill: #ffffff; stroke: #d3dce7; stroke-width: 2; }
+      .cell-alt { fill: #f2f6fa; stroke: #d3dce7; stroke-width: 2; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 29px; font-weight: 800; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 24px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 21px; }
+      .badge-text { fill: #ffffff; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 26px; font-weight: 900; }
+      .blue { fill: #1f4e79; }
+      .green { fill: #2f7d5a; }
+      .amber { fill: #b7791f; }
+      .red { fill: #a94442; }
+      .gray { fill: #64748b; }
+      .band { fill: #e8f0f8; stroke: #b9cde1; stroke-width: 2; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="1600" height="1100"/>
+  <text class="ink title" x="800" y="82" text-anchor="middle">Tipo di prova &#8594; tipo di allenamento</text>
+  <text class="muted subtitle" x="800" y="126" text-anchor="middle">La prova prevista dal bando decide come allenarti, non solo cosa leggere.</text>
+
+  <g transform="translate(90 190)">
+    <rect class="header" x="0" y="0" width="1420" height="64" rx="12"/>
+    <text class="header-text" x="72" y="41">Prova</text>
+    <text class="header-text" x="370" y="41">Che cosa misura</text>
+    <text class="header-text" x="800" y="41">Allenamento principale</text>
+    <text class="header-text" x="1180" y="41">Output atteso</text>
+
+    <g transform="translate(0 82)">
+      <rect class="cell" x="0" y="0" width="300" height="126" rx="10"/>
+      <circle cx="48" cy="63" r="29" class="blue"/>
+      <text class="badge-text" x="48" y="72" text-anchor="middle">Q</text>
+      <text class="ink label" x="92" y="56">Quiz</text>
+      <text class="muted small" x="92" y="90">preselettiva</text>
+      <rect class="cell" x="300" y="0" width="430" height="126"/>
+      <text class="ink body" x="330" y="51">Rapidit&#224;, memoria, precisione</text>
+      <text class="muted body" x="330" y="86">e gestione del tempo.</text>
+      <rect class="cell" x="730" y="0" width="450" height="126"/>
+      <text class="ink body" x="760" y="51">Batterie mirate e simulazioni</text>
+      <text class="muted body" x="760" y="86">con diario degli errori.</text>
+      <rect class="cell" x="1180" y="0" width="240" height="126"/>
+      <text class="ink body" x="1210" y="51">Risposta corretta</text>
+      <text class="muted body" x="1210" y="86">entro il tempo.</text>
+    </g>
+
+    <g transform="translate(0 208)">
+      <rect class="cell-alt" x="0" y="0" width="300" height="126" rx="10"/>
+      <circle cx="48" cy="63" r="29" class="green"/>
+      <text class="badge-text" x="48" y="72" text-anchor="middle">S</text>
+      <text class="ink label" x="92" y="56">Scritto</text>
+      <text class="muted small" x="92" y="90">teorico</text>
+      <rect class="cell-alt" x="300" y="0" width="430" height="126"/>
+      <text class="ink body" x="330" y="51">Definizione, ordine</text>
+      <text class="muted body" x="330" y="86">e riferimenti essenziali.</text>
+      <rect class="cell-alt" x="730" y="0" width="450" height="126"/>
+      <text class="ink body" x="760" y="51">Risposte in 10, 20, 30 righe</text>
+      <text class="muted body" x="760" y="86">con parole chiave.</text>
+      <rect class="cell-alt" x="1180" y="0" width="240" height="126"/>
+      <text class="ink body" x="1210" y="51">Risposta ordinata</text>
+      <text class="muted body" x="1210" y="86">e pertinente.</text>
+    </g>
+
+    <g transform="translate(0 334)">
+      <rect class="cell" x="0" y="0" width="300" height="126" rx="10"/>
+      <circle cx="48" cy="63" r="29" class="amber"/>
+      <text class="badge-text" x="48" y="72" text-anchor="middle">C</text>
+      <text class="ink label" x="92" y="56">Caso</text>
+      <text class="muted small" x="92" y="90">pratico</text>
+      <rect class="cell" x="300" y="0" width="430" height="126"/>
+      <text class="ink body" x="330" y="51">Applicazione di regole</text>
+      <text class="muted body" x="330" y="86">a una situazione concreta.</text>
+      <rect class="cell" x="730" y="0" width="450" height="126"/>
+      <text class="ink body" x="760" y="51">Schema: soggetti, problema,</text>
+      <text class="muted body" x="760" y="86">norma, soluzione.</text>
+      <rect class="cell" x="1180" y="0" width="240" height="126"/>
+      <text class="ink body" x="1210" y="51">Soluzione motivata</text>
+      <text class="muted body" x="1210" y="86">e operativa.</text>
+    </g>
+
+    <g transform="translate(0 460)">
+      <rect class="cell-alt" x="0" y="0" width="300" height="126" rx="10"/>
+      <circle cx="48" cy="63" r="29" class="red"/>
+      <text class="badge-text" x="48" y="72" text-anchor="middle">O</text>
+      <text class="ink label" x="92" y="56">Orale</text>
+      <text class="muted small" x="92" y="90">commissione</text>
+      <rect class="cell-alt" x="300" y="0" width="430" height="126"/>
+      <text class="ink body" x="330" y="51">Chiarezza, collegamenti</text>
+      <text class="muted body" x="330" y="86">e controllo emotivo.</text>
+      <rect class="cell-alt" x="730" y="0" width="450" height="126"/>
+      <text class="ink body" x="760" y="51">Risposte ad alta voce, esempi</text>
+      <text class="muted body" x="760" y="86">e domande-trappola.</text>
+      <rect class="cell-alt" x="1180" y="0" width="240" height="126"/>
+      <text class="ink body" x="1210" y="51">Spiegazione breve</text>
+      <text class="muted body" x="1210" y="86">e coerente.</text>
+    </g>
+
+    <g transform="translate(0 586)">
+      <rect class="cell" x="0" y="0" width="300" height="126" rx="10"/>
+      <circle cx="48" cy="63" r="29" class="gray"/>
+      <text class="badge-text" x="48" y="72" text-anchor="middle">T</text>
+      <text class="ink label" x="92" y="56">Titoli</text>
+      <text class="muted small" x="92" y="90">e requisiti</text>
+      <rect class="cell" x="300" y="0" width="430" height="126"/>
+      <text class="ink body" x="330" y="51">Coerenza del profilo</text>
+      <text class="muted body" x="330" y="86">e documentazione.</text>
+      <rect class="cell" x="730" y="0" width="450" height="126"/>
+      <text class="ink body" x="760" y="51">Verifica requisiti, allegati,</text>
+      <text class="muted body" x="760" y="86">punteggi e scadenze.</text>
+      <rect class="cell" x="1180" y="0" width="240" height="126"/>
+      <text class="ink body" x="1210" y="51">Domanda completa</text>
+      <text class="muted body" x="1210" y="86">e controllabile.</text>
+    </g>
+  </g>
+
+  <rect class="band" x="300" y="1000" width="1000" height="58" rx="29"/>
+  <text class="blue" x="800" y="1038" text-anchor="middle" style="font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:24px;font-weight:800;">Regola operativa: cambia prova, cambia allenamento.</text>
+</svg>

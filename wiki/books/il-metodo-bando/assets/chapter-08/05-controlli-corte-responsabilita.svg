@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Controlli, Corte dei conti e responsabilità</title>
+  <desc id="desc">Schema del sistema dei controlli, della Corte dei conti, della responsabilità erariale e degli agenti contabili.</desc>
+  <defs>
+    <style>
+      .bg { fill: #f8fafc; }
+      .ink { fill: #172233; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 46px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 24px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 26px; font-weight: 800; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 21px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 19px; }
+      .card { fill: #ffffff; stroke: #cfd8e3; stroke-width: 3; }
+      .chip { fill: #eef4fb; stroke: #c5d7ea; stroke-width: 2.5; }
+      .note { fill: #fff7ed; stroke: #e7c18e; stroke-width: 2.5; }
+      .warn { fill: #f7e0de; stroke: #d4a2a0; stroke-width: 2.5; }
+      .blue { fill: #1f4e79; }
+      .green { fill: #2f7d5a; }
+      .amber { fill: #b7791f; }
+      .red { fill: #a94442; }
+      .line { stroke: #9db4ca; stroke-width: 4; stroke-linecap: round; fill: none; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="1600" height="900"/>
+  <text class="ink title" x="800" y="70" text-anchor="middle">Controlli e responsabilità contabile</text>
+  <text class="muted subtitle" x="800" y="110" text-anchor="middle">Il controllo finanziario può portare a responsabilità quando c'è danno pubblico.</text>
+
+  <line class="line" x1="800" y1="330" x2="800" y2="405"/>
+  <line class="line" x1="260" y1="405" x2="1340" y2="405"/>
+  <line class="line" x1="260" y1="405" x2="260" y2="455"/>
+  <line class="line" x1="620" y1="405" x2="620" y2="455"/>
+  <line class="line" x1="980" y1="405" x2="980" y2="455"/>
+  <line class="line" x1="1340" y1="405" x2="1340" y2="455"/>
+
+  <g transform="translate(540 195)">
+    <rect class="card" width="520" height="135" rx="26"/>
+    <text class="blue label" x="260" y="50" text-anchor="middle">Corte dei conti</text>
+    <text class="muted body" x="260" y="88" text-anchor="middle">controllo sulla finanza pubblica</text>
+    <text class="muted small" x="260" y="114" text-anchor="middle">e giurisdizione contabile</text>
+  </g>
+
+  <g transform="translate(110 455)">
+    <rect class="chip" width="300" height="125" rx="20"/>
+    <text class="blue label" x="150" y="42" text-anchor="middle">Controlli interni</text>
+    <text class="muted small" x="150" y="74" text-anchor="middle">regolarità, gestione,</text>
+    <text class="muted small" x="150" y="99" text-anchor="middle">equilibri e performance</text>
+  </g>
+  <g transform="translate(470 455)">
+    <rect class="chip" width="300" height="125" rx="20"/>
+    <text class="green label" x="150" y="42" text-anchor="middle">Controlli esterni</text>
+    <text class="muted small" x="150" y="74" text-anchor="middle">legittimità, gestione,</text>
+    <text class="muted small" x="150" y="99" text-anchor="middle">rendiconti e referti</text>
+  </g>
+  <g transform="translate(830 455)">
+    <rect class="warn" width="300" height="125" rx="20"/>
+    <text class="red label" x="150" y="42" text-anchor="middle">Responsabilità</text>
+    <text class="muted small" x="150" y="74" text-anchor="middle">danno, condotta, nesso,</text>
+    <text class="muted small" x="150" y="99" text-anchor="middle">colpa o dolo</text>
+  </g>
+  <g transform="translate(1190 455)">
+    <rect class="note" width="300" height="125" rx="20"/>
+    <text class="amber label" x="150" y="42" text-anchor="middle">Agenti contabili</text>
+    <text class="muted small" x="150" y="74" text-anchor="middle">denaro, valori, beni</text>
+    <text class="muted small" x="150" y="99" text-anchor="middle">e conto giudiziale</text>
+  </g>
+
+  <rect class="chip" x="245" y="730" width="1110" height="72" rx="24"/>
+  <text class="blue" x="800" y="761" text-anchor="middle" style="font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:23px;font-weight:800;">Formula da orale</text>
+  <text class="muted" x="800" y="790" text-anchor="middle" style="font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:20px;">controllo, eventuale irregolarità, danno erariale e giudizio contabile sono piani diversi.</text>
+</svg>

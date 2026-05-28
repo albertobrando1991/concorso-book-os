@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="820" viewBox="0 0 1600 820" role="img" aria-labelledby="title desc">
+  <title id="title">Dirigenza, performance e PIAO</title>
+  <desc id="desc">Schema che collega indirizzo politico, gestione dirigenziale, performance, PIAO, anticorruzione, personale, formazione e lavoro agile.</desc>
+  <defs>
+    <style>
+      .bg { fill: #f8fafc; }
+      .ink { fill: #172233; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 48px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 25px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 27px; font-weight: 800; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 21px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 19px; }
+      .card { fill: #ffffff; stroke: #cfd8e3; stroke-width: 3; }
+      .hub { fill: #ffffff; stroke: #1f4e79; stroke-width: 5; }
+      .chip { fill: #eef4fb; stroke: #c5d7ea; stroke-width: 2; }
+      .band { fill: #dcf3e8; stroke: #99c8b4; stroke-width: 2; }
+      .blue { fill: #1f4e79; }
+      .green { fill: #2f7d5a; }
+      .amber { fill: #b7791f; }
+      .red { fill: #a94442; }
+      .gray { fill: #64748b; }
+      .arrow { stroke: #1f4e79; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowHead); }
+      .line { stroke: #9db4ca; stroke-width: 4; stroke-linecap: round; }
+    </style>
+    <marker id="arrowHead" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#1f4e79"/>
+    </marker>
+  </defs>
+
+  <rect class="bg" width="1600" height="820"/>
+  <text class="ink title" x="800" y="70" text-anchor="middle">Dirigenza, performance e PIAO</text>
+  <text class="muted subtitle" x="800" y="110" text-anchor="middle">La gestione pubblica collega obiettivi, persone, rischi e risultati.</text>
+
+  <g transform="translate(115 210)">
+    <rect class="card" width="350" height="135" rx="18"/>
+    <text class="amber label" x="175" y="48" text-anchor="middle">Indirizzo politico</text>
+    <text class="muted body" x="175" y="82" text-anchor="middle">obiettivi, programmi</text>
+    <text class="muted body" x="175" y="112" text-anchor="middle">e priorità</text>
+  </g>
+
+  <path class="arrow" d="M 465 278 L 565 278"/>
+
+  <g transform="translate(565 185)">
+    <rect class="hub" width="470" height="185" rx="24"/>
+    <text class="blue label" x="235" y="52" text-anchor="middle">Dirigente pubblico</text>
+    <text class="muted body" x="235" y="88" text-anchor="middle">organizza uffici e personale</text>
+    <text class="muted body" x="235" y="118" text-anchor="middle">controlla tempi, atti e rischi</text>
+    <text class="muted body" x="235" y="148" text-anchor="middle">risponde dei risultati</text>
+  </g>
+
+  <path class="arrow" d="M 1035 278 L 1135 278"/>
+
+  <g transform="translate(1135 210)">
+    <rect class="card" width="350" height="135" rx="18"/>
+    <text class="green label" x="175" y="48" text-anchor="middle">Gestione</text>
+    <text class="muted body" x="175" y="82" text-anchor="middle">atti, risorse</text>
+    <text class="muted body" x="175" y="112" text-anchor="middle">servizi e controlli</text>
+  </g>
+
+  <line class="line" x1="800" y1="370" x2="800" y2="440"/>
+
+  <g transform="translate(405 440)">
+    <rect class="hub" width="790" height="170" rx="24"/>
+    <text class="blue label" x="395" y="45" text-anchor="middle">PIAO come piano integrato</text>
+    <g transform="translate(48 72)">
+      <rect class="chip" width="190" height="56" rx="14"/>
+      <text class="blue small" x="95" y="35" text-anchor="middle" style="font-weight:800;">performance</text>
+    </g>
+    <g transform="translate(255 72)">
+      <rect class="chip" width="150" height="56" rx="14"/>
+      <text class="green small" x="75" y="35" text-anchor="middle" style="font-weight:800;">personale</text>
+    </g>
+    <g transform="translate(422 72)">
+      <rect class="chip" width="170" height="56" rx="14"/>
+      <text class="amber small" x="85" y="35" text-anchor="middle" style="font-weight:800;">rischi</text>
+    </g>
+    <g transform="translate(609 72)">
+      <rect class="chip" width="135" height="56" rx="14"/>
+      <text class="gray small" x="68" y="35" text-anchor="middle" style="font-weight:800;">agile</text>
+    </g>
+  </g>
+
+  <rect class="band" x="280" y="690" width="1040" height="58" rx="29"/>
+  <text class="green" x="800" y="727" text-anchor="middle" style="font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:23px;font-weight:800;">Risultato: uffici più coerenti, controllabili e orientati al servizio.</text>
+</svg>

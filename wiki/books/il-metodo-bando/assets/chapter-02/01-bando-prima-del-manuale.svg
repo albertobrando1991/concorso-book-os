@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Il bando viene prima del manuale</title>
+  <desc id="desc">Schema editoriale che mostra il passaggio corretto dal bando al piano operativo, evitando di partire subito dal manuale.</desc>
+  <defs>
+    <style>
+      .bg { fill: #f8fafc; }
+      .ink { fill: #172233; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 50px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 27px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 31px; font-weight: 800; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 24px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 21px; }
+      .panel { fill: #ffffff; stroke: #cfd8e3; stroke-width: 3; }
+      .wrong { fill: #fff6ed; stroke: #b7791f; stroke-width: 4; }
+      .right { fill: #eef7f1; stroke: #2f7d5a; stroke-width: 4; }
+      .step { fill: #ffffff; stroke: #cfd8e3; stroke-width: 2; }
+      .blue { fill: #1f4e79; }
+      .green { fill: #2f7d5a; }
+      .amber { fill: #b7791f; }
+      .red { fill: #a94442; }
+      .band { fill: #e8f0f8; stroke: #b9cde1; stroke-width: 2; }
+      .connector { stroke: #1f4e79; stroke-width: 5; stroke-linecap: round; }
+    </style>
+    <marker id="arrowhead" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M 0 0 L 12 6 L 0 12 z" fill="#1f4e79"/>
+    </marker>
+  </defs>
+
+  <rect class="bg" width="1600" height="1000"/>
+  <text class="ink title" x="800" y="82" text-anchor="middle">Il bando viene prima del manuale</text>
+  <text class="muted subtitle" x="800" y="126" text-anchor="middle">La preparazione professionale parte dal documento che decide requisiti, prove, materie e scadenze.</text>
+
+  <g transform="translate(115 205)">
+    <rect class="wrong" x="0" y="0" width="610" height="560" rx="24"/>
+    <circle cx="62" cy="68" r="34" class="amber"/>
+    <text x="62" y="80" text-anchor="middle" style="fill:#fff;font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:32px;font-weight:900;">!</text>
+    <text class="ink label" x="120" y="60">Partenza debole</text>
+    <text class="muted small" x="120" y="96">Prima materiali, poi bando letto di fretta.</text>
+
+    <g transform="translate(55 165)">
+      <rect class="step" x="0" y="0" width="500" height="66" rx="12"/>
+      <text class="ink body" x="28" y="42">Manuale generico</text>
+      <rect class="step" x="0" y="92" width="500" height="66" rx="12"/>
+      <text class="ink body" x="28" y="134">Quiz senza diagnosi</text>
+      <rect class="step" x="0" y="184" width="500" height="66" rx="12"/>
+      <text class="ink body" x="28" y="226">Bando controllato tardi</text>
+      <rect class="step" x="0" y="276" width="500" height="66" rx="12"/>
+      <text class="ink body" x="28" y="318">Piano dispersivo</text>
+    </g>
+  </g>
+
+  <g transform="translate(875 205)">
+    <rect class="right" x="0" y="0" width="610" height="560" rx="24"/>
+    <circle cx="62" cy="68" r="34" class="green"/>
+    <text x="62" y="80" text-anchor="middle" style="fill:#fff;font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:32px;font-weight:900;">✓</text>
+    <text class="ink label" x="120" y="60">Partenza professionale</text>
+    <text class="muted small" x="120" y="96">Prima bando, poi materiali e piano.</text>
+
+    <g transform="translate(55 165)">
+      <rect class="step" x="0" y="0" width="500" height="66" rx="12"/>
+      <text class="ink body" x="28" y="42">Requisiti e scadenze</text>
+      <rect class="step" x="0" y="92" width="500" height="66" rx="12"/>
+      <text class="ink body" x="28" y="134">Profilo, prove e punteggi</text>
+      <rect class="step" x="0" y="184" width="500" height="66" rx="12"/>
+      <text class="ink body" x="28" y="226">Materie classificate</text>
+      <rect class="step" x="0" y="276" width="500" height="66" rx="12"/>
+      <text class="ink body" x="28" y="318">Piano operativo</text>
+    </g>
+  </g>
+
+  <path class="connector" marker-end="url(#arrowhead)" d="M750 485 H850"/>
+
+  <rect class="band" x="360" y="855" width="880" height="58" rx="29"/>
+  <text class="blue" x="800" y="893" text-anchor="middle" style="font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:24px;font-weight:800;">Regola: prima capire il bando, poi scegliere cosa studiare.</text>
+</svg>

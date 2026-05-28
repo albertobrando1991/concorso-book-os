@@ -38,9 +38,9 @@ interface PreviewPage {
   isFirstPage: boolean
 }
 
-const FIRST_PAGE_HEADER_COST = 120
-const RUNNING_HEADER_COST = 36
-const PAGE_MEASURE_EXTRA_SPACE = 18
+const FIRST_PAGE_HEADER_COST = 150
+const RUNNING_HEADER_COST = 34
+const PAGE_MEASURE_GUARD_SPACE = 48
 
 const modeOptions: Array<{ value: ManualWriterMode; label: string }> = [
   { value: "integrate", label: "Integra richiesta" },
@@ -51,8 +51,12 @@ const modeOptions: Array<{ value: ManualWriterMode; label: string }> = [
 ]
 
 const providerOptions: Array<{ value: WriterProvider; label: string }> = [
-  { value: "codex", label: "GPT" },
-  { value: "claude", label: "Claude" }
+  { value: "codex", label: "Codex / GPT" },
+  { value: "claude", label: "Claude" },
+  { value: "kimi", label: "Kimi" },
+  { value: "openai", label: "OpenAI API" },
+  { value: "hermes", label: "Hermes" },
+  { value: "local", label: "Locale" }
 ]
 
 export function BookStudioPanel({
@@ -65,9 +69,7 @@ export function BookStudioPanel({
   const [selectedPath, setSelectedPath] = useState(initialData.chapters[0]?.path || "")
   const [viewMode, setViewMode] = useState<ViewMode>("chapter")
   const [writerMode, setWriterMode] = useState<ManualWriterMode>("integrate")
-  const [selectedProvider, setSelectedProvider] = useState<WriterProvider>(
-    writerProvider === "claude" ? "claude" : "codex"
-  )
+  const [selectedProvider, setSelectedProvider] = useState<WriterProvider>(writerProvider)
   const [instruction, setInstruction] = useState(
     "Scrivi il capitolo effettivo per il lettore usando prima il cervello wiki: struttura madre, nota capitolo, source notes, topic pages, entity pages e design system. Integra ricerca web ufficiale solo se serve aggiornamento o verifica, poi segnala le fonti da consolidare. Non fare riepiloghi tecnici."
   )
@@ -84,9 +86,13 @@ export function BookStudioPanel({
     () => data.chapters.find((chapter) => chapter.path === selectedPath) || data.chapters[0],
     [data.chapters, selectedPath]
   )
+  const publishableChapters = useMemo(
+    () => data.chapters.filter((chapter) => chapter.contentState !== "structure"),
+    [data.chapters]
+  )
   const previewChapters = useMemo(
-    () => (viewMode === "book" ? data.chapters : selectedChapter ? [selectedChapter] : []),
-    [data.chapters, selectedChapter, viewMode]
+    () => (viewMode === "book" ? publishableChapters : selectedChapter ? [selectedChapter] : []),
+    [publishableChapters, selectedChapter, viewMode]
   )
   const estimatedPages = useMemo(() => paginateChapters(previewChapters), [previewChapters])
   const measureRef = useRef<HTMLDivElement>(null)
@@ -95,13 +101,45 @@ export function BookStudioPanel({
 
   useLayoutEffect(() => {
     setMeasuredPages(null)
+    let cleanupImageListeners: (() => void) | null = null
+    let cancelled = false
 
-    const animationFrame = window.requestAnimationFrame(() => {
+    function measurePages() {
+      if (cancelled) return
+
       const pages = paginateMeasuredChapters(previewChapters, measureRef.current)
       setMeasuredPages(pages.length > 0 ? pages : null)
+    }
+
+    const animationFrame = window.requestAnimationFrame(() => {
+      measurePages()
+
+      const pendingImages = Array.from(measureRef.current?.querySelectorAll<HTMLImageElement>("img") || []).filter(
+        (image) => !image.complete
+      )
+
+      if (pendingImages.length === 0) return
+
+      const handleImageDone = () => measurePages()
+
+      pendingImages.forEach((image) => {
+        image.addEventListener("load", handleImageDone, { once: true })
+        image.addEventListener("error", handleImageDone, { once: true })
+      })
+
+      cleanupImageListeners = () => {
+        pendingImages.forEach((image) => {
+          image.removeEventListener("load", handleImageDone)
+          image.removeEventListener("error", handleImageDone)
+        })
+      }
     })
 
-    return () => window.cancelAnimationFrame(animationFrame)
+    return () => {
+      cancelled = true
+      window.cancelAnimationFrame(animationFrame)
+      cleanupImageListeners?.()
+    }
   }, [previewChapters])
 
   async function refreshStudio() {
@@ -209,7 +247,7 @@ export function BookStudioPanel({
         <div className="studioHeaderActions">
           <span className={`writerLlmStatus ${selectedProvider === "local" ? "disabled" : "enabled"}`}>
             <BookOpenCheck size={18} aria-hidden />
-            <span>{selectedProvider === "claude" ? "Claude Code attivo" : "GPT attivo"}</span>
+            <span>{providerStatusLabel(selectedProvider)}</span>
           </span>
           <button className="studioIconButton" onClick={refreshStudio} disabled={isRefreshing} title="Aggiorna anteprima">
             {isRefreshing ? <Loader2 size={17} className="spin" aria-hidden /> : <RefreshCw size={17} aria-hidden />}
@@ -251,7 +289,7 @@ export function BookStudioPanel({
               >
                 <span>{chapter.outlineSection ? `${chapter.outlineSection}. ` : ""}{chapter.title}</span>
                 <small>
-                  {chapter.contentState === "written" ? "scritto" : chapter.contentState === "draft" ? "bozza" : "struttura"}
+                  {chapterStateLabel(chapter.contentState)}
                   {" | "}
                   {chapter.wordCount} parole
                 </small>
@@ -264,12 +302,12 @@ export function BookStudioPanel({
           <div className="bookPreviewToolbar">
             <div>
               <strong>{data.title}</strong>
-              <span>Preview A4 paginata, testo giustificato | aggiornata {formatDate(data.updatedAt)}</span>
+              <span>Preview editoriale 16,8 x 24 cm, testo giustificato | aggiornata {formatDate(data.updatedAt)}</span>
             </div>
             <span className="studioBadge">{viewMode === "book" ? "vista libro" : "vista capitolo"}</span>
           </div>
 
-          <div className="bookPages" aria-label="Preview manuale A4 paginata">
+          <div className="bookPages" aria-label="Preview manuale editoriale paginata">
             {previewPages.map((page) => (
               <BookPagePreview page={page} key={`${page.chapter.path}-${page.chapterPageNumber}`} />
             ))}
@@ -283,8 +321,9 @@ export function BookStudioPanel({
                     <span className="chapterNumber">{chapter.outlineSection || "Libro"}</span>
                     <div>
                       <h2>{chapter.title}</h2>
+                      <BandoPhaseBar chapter={chapter} />
                       <p>
-                        {chapter.contentState === "written" ? "Testo editoriale" : chapter.contentState === "draft" ? "Bozza / struttura sviluppabile" : "Solo struttura"}
+                        {chapterStateLabel(chapter.contentState)}
                         {" | "}
                         {chapter.wordCount} parole
                         {" | "}
@@ -316,7 +355,7 @@ export function BookStudioPanel({
             {selectedChapter ? (
               <div className="selectedMeta">
                 <span>{selectedChapter.path}</span>
-                <span>Stato: {selectedChapter.status}</span>
+                <span>Stato: {chapterStatusLabel(selectedChapter.status)}</span>
                 <span>Fonti collegate: {selectedChapter.sourceRefs.length}</span>
                 <span>{selectedChapter.reviewRequired ? "Richiede revisione" : "Revisione non richiesta"}</span>
               </div>
@@ -354,7 +393,7 @@ export function BookStudioPanel({
               {isWriting ? "Writer in corso" : "Applica al capitolo"}
             </button>
             <small className="controlNote">
-              Modello: {selectedProvider === "claude" ? "claude-opus-4-7" : writerModel} | reasoning: {writerReasoningEffort}
+              Modello: {providerModelLabel(selectedProvider, writerModel)} | reasoning: {providerReasoningLabel(selectedProvider, writerReasoningEffort)}
             </small>
           </section>
 
@@ -406,6 +445,46 @@ export function BookStudioPanel({
   )
 }
 
+function chapterStateLabel(state: BookStudioChapter["contentState"]) {
+  if (state === "written") return "testo pronto"
+  if (state === "draft") return "in revisione"
+  return "da sviluppare"
+}
+
+function chapterStatusLabel(status: string) {
+  const labels: Record<string, string> = {
+    draft: "bozza",
+    professional_draft: "bozza professionale",
+    revised_draft: "revisione editoriale",
+    to_expand: "da sviluppare"
+  }
+  return labels[status] || status.replaceAll("_", " ")
+}
+
+function providerStatusLabel(provider: WriterProvider) {
+  if (provider === "codex") return "Codex / GPT attivo"
+  if (provider === "claude") return "Claude attivo"
+  if (provider === "kimi") return "Kimi attivo"
+  if (provider === "openai") return "OpenAI API attiva"
+  if (provider === "hermes") return "Hermes attivo"
+
+  return "Writer locale"
+}
+
+function providerModelLabel(provider: WriterProvider, configuredModel: string) {
+  if (provider === "claude") return "claude-opus-4-7"
+  if (provider === "kimi") return "kimi-k2.6"
+  if (provider === "local") return "local"
+
+  return configuredModel
+}
+
+function providerReasoningLabel(provider: WriterProvider, configuredReasoning: string) {
+  if (provider === "local" || provider === "kimi" || provider === "openai" || provider === "hermes") return "n/a"
+
+  return configuredReasoning
+}
+
 function Stat({ label, value }: { label: string; value: number }) {
   return (
     <div>
@@ -425,13 +504,7 @@ function BookPagePreview({ page }: { page: PreviewPage }) {
           <span className="chapterNumber">{chapter.outlineSection || "Libro"}</span>
           <div>
             <h2>{chapter.title}</h2>
-            <p>
-              {chapter.contentState === "written" ? "Testo editoriale" : chapter.contentState === "draft" ? "Bozza / struttura sviluppabile" : "Solo struttura"}
-              {" | "}
-              {chapter.wordCount} parole
-              {" | "}
-              {chapter.sourceRefs.length} fonti
-            </p>
+            <BandoPhaseBar chapter={chapter} />
           </div>
         </header>
       ) : (
@@ -464,14 +537,22 @@ function PreviewBlock({ block }: { block: MarkdownBlock }) {
   }
 
   if (block.type === "list") {
-    const Tag = block.ordered ? "ol" : "ul"
+    if (block.ordered) {
+      return (
+        <ol start={block.start || 1}>
+          {(block.items || []).map((item, index) => (
+            <li key={`${item}-${index}`}>{item}</li>
+          ))}
+        </ol>
+      )
+    }
 
     return (
-      <Tag>
+      <ul>
         {(block.items || []).map((item, index) => (
           <li key={`${item}-${index}`}>{item}</li>
         ))}
-      </Tag>
+      </ul>
     )
   }
 
@@ -519,7 +600,65 @@ function PreviewBlock({ block }: { block: MarkdownBlock }) {
     return <pre>{block.text}</pre>
   }
 
+  if (block.type === "callout") {
+    if (block.calloutType === "caption") {
+      return <p className="previewCaption">{block.text || block.title}</p>
+    }
+
+    const className = `previewCallout ${calloutClassName(block.calloutType)}`
+
+    return (
+      <aside className={className}>
+        {block.title ? <strong>{block.title}</strong> : null}
+        {block.text ? <p>{block.text}</p> : null}
+      </aside>
+    )
+  }
+
   return <p>{block.text}</p>
+}
+
+function BandoPhaseBar({ chapter }: { chapter: BookStudioChapter }) {
+  const phases = [
+    { letter: "B", label: "Bando" },
+    { letter: "A", label: "Aree" },
+    { letter: "N", label: "Nuclei" },
+    { letter: "D", label: "Diario" },
+    { letter: "O", label: "Output" }
+  ]
+  const activeIndex = getBandoPhaseIndex(chapter.outlineSection)
+
+  return (
+    <div className="bandoPhaseBar" aria-label="Fasi Metodo BANDO">
+      {phases.map((phase, index) => (
+        <span className={index === activeIndex ? "active" : ""} key={phase.letter}>
+          <strong>{phase.letter}</strong>
+          <small>{phase.label}</small>
+        </span>
+      ))}
+    </div>
+  )
+}
+
+function getBandoPhaseIndex(outlineSection: string) {
+  const section = Number.parseInt(outlineSection, 10)
+
+  if (!Number.isFinite(section)) return -1
+  if (section <= 3) return 0
+  if (section <= 8) return 1
+  if (section <= 13) return 2
+  if (section <= 18) return 3
+
+  return 4
+}
+
+function calloutClassName(calloutType = "") {
+  if (calloutType === "warning") return "warning"
+  if (calloutType === "tip") return "tip"
+  if (calloutType === "important") return "important"
+  if (calloutType === "quote") return "quote"
+
+  return "note"
 }
 
 function assetUrl(value: string) {
@@ -529,9 +668,13 @@ function assetUrl(value: string) {
 
   const normalized = value.replace(/\\/g, "/").replace(/^\/+/, "")
 
-  if (!normalized.startsWith("raw/assets/")) return ""
+  if (!isRenderableAssetPath(normalized)) return ""
 
   return `/api/book-studio/assets/file?path=${encodeURIComponent(normalized)}`
+}
+
+function isRenderableAssetPath(value: string) {
+  return value.startsWith("raw/assets/") || /^books\/[a-z0-9-]+\/assets\//.test(value)
 }
 
 function formatDate(value: string) {
@@ -572,7 +715,7 @@ function paginateMeasuredChapters(chapters: BookStudioChapter[], root: HTMLDivEl
   const pageHeight = measurePage.getBoundingClientRect().height
   const pageBudget = Math.max(
     0,
-    pageHeight - toPixels(pageStyle.paddingTop) - toPixels(pageStyle.paddingBottom) + PAGE_MEASURE_EXTRA_SPACE
+    pageHeight - toPixels(pageStyle.paddingTop) - toPixels(pageStyle.paddingBottom) - PAGE_MEASURE_GUARD_SPACE
   )
   const chapterElements = Array.from(root.querySelectorAll<HTMLElement>(".paginationMeasureChapter"))
   const pages: PreviewPage[] = []
@@ -641,7 +784,9 @@ function paginateBlocksByHeight(
       const lastBlock = blocks.at(-1)
       const lastBlockHeight = usedBlockHeights.at(-1) || 0
 
-      if (blocks.length > 1 && lastBlock?.type === "heading") {
+      if (blocks.length === 1 && lastBlock?.type === "heading") {
+        // Keep a heading with the following block; an orphan heading is worse than a tight page.
+      } else if (blocks.length > 1 && lastBlock?.type === "heading") {
         blocks.pop()
         usedBlockHeights.pop()
         used -= lastBlockHeight
@@ -697,7 +842,9 @@ function paginateBlocks(chapter: BookStudioChapter): Array<Omit<PreviewPage, "pa
       const lastBlock = blocks.at(-1)
       const lastBlockCost = usedBlockCosts.at(-1) || 0
 
-      if (blocks.length > 1 && lastBlock?.type === "heading") {
+      if (blocks.length === 1 && lastBlock?.type === "heading") {
+        // Keep a heading with the following block; an orphan heading is worse than a tight page.
+      } else if (blocks.length > 1 && lastBlock?.type === "heading") {
         blocks.pop()
         usedBlockCosts.pop()
         used -= lastBlockCost
@@ -730,7 +877,7 @@ function shouldKeepWithNext(block: MarkdownBlock, nextBlock?: MarkdownBlock) {
   }
 
   if (block.type === "paragraph" && wordCount(block.text || "") <= 24) {
-    return nextBlock.type === "table" || nextBlock.type === "image" || nextBlock.type === "code"
+    return nextBlock.type === "image" || nextBlock.type === "code"
   }
 
   return false
@@ -756,11 +903,15 @@ function estimateBlockCost(block: MarkdownBlock) {
   }
 
   if (block.type === "table") {
-    return ((block.rows?.length || 0) + 1) * 32 + 20
+    return ((block.rows?.length || 0) + 1) * 28 + 18
   }
 
   if (block.type === "image") {
-    return 270
+    return 315
+  }
+
+  if (block.type === "callout") {
+    return Math.ceil(wordCount(`${block.title || ""} ${block.text || ""}`) / 12) * 21 + 34
   }
 
   if (block.type === "code") {

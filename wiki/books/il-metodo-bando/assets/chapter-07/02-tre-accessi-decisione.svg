@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Tre accessi: come scegliere lo strumento corretto</title>
+  <desc id="desc">Schema decisionale per distinguere accesso documentale, accesso civico semplice e accesso civico generalizzato.</desc>
+  <defs>
+    <style>
+      .bg { fill: #f8fafc; }
+      .ink { fill: #172233; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 46px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 24px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 27px; font-weight: 800; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 22px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .panel { fill: #ffffff; stroke: #cfd8e3; stroke-width: 3; }
+      .chip { fill: #eef4fb; stroke: #c5d7ea; stroke-width: 2.5; }
+      .warning { fill: #f7e0de; stroke: #d4a2a0; stroke-width: 2.5; }
+      .blue { fill: #1f4e79; }
+      .green { fill: #2f7d5a; }
+      .amber { fill: #b7791f; }
+      .red { fill: #a94442; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="1600" height="900"/>
+  <text class="ink title" x="800" y="70" text-anchor="middle">Tre accessi: scelta dello strumento</text>
+  <text class="muted subtitle" x="800" y="110" text-anchor="middle">La domanda corretta non è “posso avere tutto?”, ma “quale istituto sto usando?”.</text>
+
+  <g transform="translate(110 185)">
+    <rect class="panel" width="400" height="455" rx="22"/>
+    <circle class="blue" cx="200" cy="58" r="34"/>
+    <text x="200" y="70" text-anchor="middle" style="fill:#fff;font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:32px;font-weight:900;">1</text>
+    <text class="blue label" x="200" y="125" text-anchor="middle">Accesso documentale</text>
+    <text class="muted small" x="200" y="156" text-anchor="middle">Legge 241/1990</text>
+    <rect class="chip" x="42" y="205" width="316" height="78" rx="16"/>
+    <text class="ink body" x="200" y="237" text-anchor="middle" style="font-weight:800;">C'è interesse qualificato?</text>
+    <text class="muted small" x="200" y="263" text-anchor="middle">diretto, concreto e attuale</text>
+    <rect class="chip" x="42" y="315" width="316" height="88" rx="16"/>
+    <text class="blue body" x="200" y="347" text-anchor="middle" style="font-weight:800;">Oggetto</text>
+    <text class="muted small" x="200" y="375" text-anchor="middle">documento amministrativo</text>
+  </g>
+
+  <g transform="translate(600 185)">
+    <rect class="panel" width="400" height="455" rx="22"/>
+    <circle class="green" cx="200" cy="58" r="34"/>
+    <text x="200" y="70" text-anchor="middle" style="fill:#fff;font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:32px;font-weight:900;">2</text>
+    <text class="green label" x="200" y="125" text-anchor="middle">Accesso civico semplice</text>
+    <text class="muted small" x="200" y="156" text-anchor="middle">D.Lgs. 33/2013</text>
+    <rect class="chip" x="42" y="205" width="316" height="78" rx="16"/>
+    <text class="ink body" x="200" y="237" text-anchor="middle" style="font-weight:800;">Manca una pubblicazione?</text>
+    <text class="muted small" x="200" y="263" text-anchor="middle">obbligatoria per legge</text>
+    <rect class="chip" x="42" y="315" width="316" height="88" rx="16"/>
+    <text class="green body" x="200" y="347" text-anchor="middle" style="font-weight:800;">Oggetto</text>
+    <text class="muted small" x="200" y="375" text-anchor="middle">pubblicare ciò che era dovuto</text>
+  </g>
+
+  <g transform="translate(1090 185)">
+    <rect class="panel" width="400" height="455" rx="22"/>
+    <circle class="amber" cx="200" cy="58" r="34"/>
+    <text x="200" y="70" text-anchor="middle" style="fill:#fff;font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:32px;font-weight:900;">3</text>
+    <text class="amber label" x="200" y="125" text-anchor="middle">Accesso generalizzato</text>
+    <text class="muted small" x="200" y="156" text-anchor="middle">FOIA italiano</text>
+    <rect class="chip" x="42" y="205" width="316" height="78" rx="16"/>
+    <text class="ink body" x="200" y="237" text-anchor="middle" style="font-weight:800;">Serve controllo diffuso?</text>
+    <text class="muted small" x="200" y="263" text-anchor="middle">su dati e documenti ulteriori</text>
+    <rect class="chip" x="42" y="315" width="316" height="88" rx="16"/>
+    <text class="amber body" x="200" y="347" text-anchor="middle" style="font-weight:800;">Filtro</text>
+    <text class="muted small" x="200" y="375" text-anchor="middle">limiti e pregiudizio concreto</text>
+  </g>
+
+  <g transform="translate(185 720)">
+    <rect class="warning" width="1230" height="92" rx="24"/>
+    <text class="red label" x="615" y="38" text-anchor="middle">Errore da evitare</text>
+    <text class="muted body" x="615" y="70" text-anchor="middle">usare FOIA come sinonimo di accesso illimitato a qualunque informazione.</text>
+  </g>
+</svg>

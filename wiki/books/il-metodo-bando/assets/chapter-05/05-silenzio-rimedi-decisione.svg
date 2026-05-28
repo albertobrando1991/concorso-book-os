@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Silenzio amministrativo</title>
+  <desc id="desc">Albero decisionale per distinguere silenzio-inadempimento, silenzio-assenso, silenzio-rigetto e rimedi.</desc>
+  <defs>
+    <style>
+      .bg { fill: #f8fafc; }
+      .ink { fill: #172233; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 50px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 27px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 28px; font-weight: 800; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 22px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .card { fill: #ffffff; stroke: #cfd8e3; stroke-width: 3; }
+      .decision { fill: #e8f0f8; stroke: #b9cde1; stroke-width: 3; }
+      .remedy { fill: #dcf3e8; stroke: #99c8b4; stroke-width: 3; }
+      .band { fill: #eef4fb; stroke: #c5d7ea; stroke-width: 2; }
+      .blue { fill: #1f4e79; }
+      .green { fill: #2f7d5a; }
+      .amber { fill: #b7791f; }
+      .red { fill: #a94442; }
+      .gray { fill: #64748b; }
+      .arrow { stroke: #1f4e79; stroke-width: 5; stroke-linecap: round; stroke-linejoin: round; fill: none; marker-end: url(#arrowHead); }
+    </style>
+    <marker id="arrowHead" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#1f4e79"/>
+    </marker>
+  </defs>
+
+  <rect class="bg" width="1600" height="1000"/>
+  <text class="ink title" x="800" y="82" text-anchor="middle">Silenzio amministrativo: prima qualifica</text>
+  <text class="muted subtitle" x="800" y="126" text-anchor="middle">La mancata risposta non significa sempre accoglimento.</text>
+
+  <path class="arrow" d="M 800 292 L 800 352"/>
+  <path class="arrow" d="M 800 452 C 800 500 290 490 290 535"/>
+  <path class="arrow" d="M 800 452 L 800 535"/>
+  <path class="arrow" d="M 800 452 C 800 500 1310 490 1310 535"/>
+  <path class="arrow" d="M 290 700 C 290 760 555 748 555 785"/>
+  <path class="arrow" d="M 800 700 L 800 785"/>
+  <path class="arrow" d="M 1310 700 C 1310 760 1045 748 1045 785"/>
+
+  <g transform="translate(520 190)">
+    <rect class="card" width="560" height="102" rx="20"/>
+    <text class="blue label" x="280" y="42" text-anchor="middle">Istanza o dovere di provvedere</text>
+    <text class="muted body" x="280" y="74" text-anchor="middle">c'è un procedimento da concludere?</text>
+  </g>
+
+  <g transform="translate(520 352)">
+    <rect class="decision" width="560" height="102" rx="20"/>
+    <text class="blue label" x="280" y="42" text-anchor="middle">Quale disciplina si applica?</text>
+    <text class="muted body" x="280" y="74" text-anchor="middle">termine, settore, esclusioni e rimedi</text>
+  </g>
+
+  <g transform="translate(80 535)">
+    <rect class="card" width="420" height="165" rx="20"/>
+    <circle class="red" cx="48" cy="50" r="25"/>
+    <text x="48" y="60" text-anchor="middle" style="fill:#fff;font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:25px;font-weight:900;">A</text>
+    <text class="red label" x="92" y="55">Inadempimento</text>
+    <text class="muted body" x="38" y="104">inerzia quando la PA</text>
+    <text class="muted body" x="38" y="134">doveva provvedere</text>
+  </g>
+
+  <g transform="translate(590 535)">
+    <rect class="card" width="420" height="165" rx="20"/>
+    <circle class="green" cx="48" cy="50" r="25"/>
+    <text x="48" y="60" text-anchor="middle" style="fill:#fff;font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:25px;font-weight:900;">B</text>
+    <text class="green label" x="92" y="55">Assenso</text>
+    <text class="muted body" x="38" y="104">accoglimento solo</text>
+    <text class="muted body" x="38" y="134">se previsto e non escluso</text>
+  </g>
+
+  <g transform="translate(1100 535)">
+    <rect class="card" width="420" height="165" rx="20"/>
+    <circle class="amber" cx="48" cy="50" r="25"/>
+    <text x="48" y="60" text-anchor="middle" style="fill:#fff;font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:25px;font-weight:900;">C</text>
+    <text class="amber label" x="92" y="55">Rigetto</text>
+    <text class="muted body" x="38" y="104">diniego solo nei casi</text>
+    <text class="muted body" x="38" y="134">previsti dalla legge</text>
+  </g>
+
+  <g transform="translate(360 785)">
+    <rect class="remedy" width="880" height="92" rx="22"/>
+    <text class="green label" x="440" y="38" text-anchor="middle">Rimedi e responsabilità</text>
+    <text class="muted body" x="440" y="70" text-anchor="middle">potere sostitutivo, accesso, ricorso, riesame e controllo organizzativo</text>
+  </g>
+
+  <rect class="band" x="305" y="910" width="990" height="48" rx="24"/>
+  <text class="blue" x="800" y="942" text-anchor="middle" style="font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:22px;font-weight:800;">Formula: procedimento → termine → regime del silenzio → rimedio.</text>
+</svg>

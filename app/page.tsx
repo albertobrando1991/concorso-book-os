@@ -108,6 +108,7 @@ export default async function Home({ searchParams }: HomeProps) {
           <Metric label="Capitoli in bozza" value={data.metrics.draftChapters} accent="blue" />
           <Metric label="Capitoli consolidati" value={data.metrics.consolidatedChapters} accent="green" />
           <Metric label="Conflitti aperti" value={data.metrics.openConflicts} accent="red" />
+          <Metric label="Memorie locali" value={data.metrics.memoryAtoms} accent="amber" />
         </section>
 
         <section className="grid two">

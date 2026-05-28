@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">La cabina di regia del candidato: Metodo BANDO</title>
+  <desc id="desc">Schema editoriale del Metodo BANDO con cinque passaggi: Bando, Aree, Nuclei, Diario e Output.</desc>
+  <defs>
+    <style>
+      .bg { fill: #f8fafc; }
+      .ink { fill: #172233; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 50px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 27px; }
+      .card-title { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 31px; font-weight: 800; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 23px; }
+      .letter { fill: #ffffff; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 42px; font-weight: 900; }
+      .card { fill: #ffffff; stroke: #cfd8e3; stroke-width: 3; }
+      .panel { fill: #ffffff; stroke: #d4dde8; stroke-width: 2; }
+      .line { stroke: #1f4e79; stroke-width: 5; stroke-linecap: round; }
+      .blue { fill: #1f4e79; }
+      .green { fill: #2f7d5a; }
+      .amber { fill: #b7791f; }
+      .red { fill: #a94442; }
+      .gray { fill: #64748b; }
+      .band { fill: #e8f0f8; stroke: #b9cde1; stroke-width: 2; }
+    </style>
+    <marker id="arrowhead" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M 0 0 L 12 6 L 0 12 z" fill="#1f4e79"/>
+    </marker>
+  </defs>
+
+  <rect class="bg" width="1600" height="1000"/>
+  <text class="ink title" x="800" y="82" text-anchor="middle">La cabina di regia del candidato</text>
+  <text class="muted subtitle" x="800" y="126" text-anchor="middle">Il Metodo BANDO trasforma il bando in priorit&#224;, controllo degli errori e output di prova.</text>
+
+  <rect class="band" x="390" y="170" width="820" height="76" rx="38"/>
+  <text class="blue" x="800" y="220" text-anchor="middle" style="font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:31px;font-weight:850;">Bando &#8594; Aree &#8594; Nuclei &#8594; Diario &#8594; Output</text>
+
+  <g transform="translate(90 315)">
+    <rect class="card" x="0" y="0" width="260" height="260" rx="20"/>
+    <circle cx="56" cy="58" r="36" class="blue"/>
+    <text class="letter" x="56" y="73" text-anchor="middle">B</text>
+    <text class="ink card-title" x="28" y="126">Bando</text>
+    <text class="muted body" x="28" y="168">Prove, punteggi,</text>
+    <text class="muted body" x="28" y="200">requisiti e scadenze.</text>
+    <text class="blue body" x="28" y="238">Input ufficiale</text>
+  </g>
+
+  <line class="line" x1="370" y1="445" x2="425" y2="445" marker-end="url(#arrowhead)"/>
+
+  <g transform="translate(445 315)">
+    <rect class="card" x="0" y="0" width="260" height="260" rx="20"/>
+    <circle cx="56" cy="58" r="36" class="green"/>
+    <text class="letter" x="56" y="73" text-anchor="middle">A</text>
+    <text class="ink card-title" x="28" y="126">Aree</text>
+    <text class="muted body" x="28" y="168">Materie comuni</text>
+    <text class="muted body" x="28" y="200">e parti specifiche.</text>
+    <text class="green body" x="28" y="238">Gerarchia</text>
+  </g>
+
+  <line class="line" x1="725" y1="445" x2="780" y2="445" marker-end="url(#arrowhead)"/>
+
+  <g transform="translate(800 315)">
+    <rect class="card" x="0" y="0" width="260" height="260" rx="20"/>
+    <circle cx="56" cy="58" r="36" class="amber"/>
+    <text class="letter" x="56" y="73" text-anchor="middle">N</text>
+    <text class="ink card-title" x="28" y="126">Nuclei</text>
+    <text class="muted body" x="28" y="168">Concetti che</text>
+    <text class="muted body" x="28" y="200">decidono la prova.</text>
+    <text class="amber body" x="28" y="238">Priorit&#224;</text>
+  </g>
+
+  <line class="line" x1="1080" y1="445" x2="1135" y2="445" marker-end="url(#arrowhead)"/>
+
+  <g transform="translate(1155 315)">
+    <rect class="card" x="0" y="0" width="260" height="260" rx="20"/>
+    <circle cx="56" cy="58" r="36" class="red"/>
+    <text class="letter" x="56" y="73" text-anchor="middle">D</text>
+    <text class="ink card-title" x="28" y="126">Diario</text>
+    <text class="muted body" x="28" y="168">Errori ripetuti,</text>
+    <text class="muted body" x="28" y="200">ripasso e correzioni.</text>
+    <text class="red body" x="28" y="238">Controllo</text>
+  </g>
+
+  <line class="line" x1="1285" y1="595" x2="1285" y2="650" marker-end="url(#arrowhead)"/>
+
+  <g transform="translate(1155 675)">
+    <rect class="card" x="0" y="0" width="260" height="190" rx="20"/>
+    <circle cx="56" cy="58" r="36" class="gray"/>
+    <text class="letter" x="56" y="73" text-anchor="middle">O</text>
+    <text class="ink card-title" x="112" y="61">Output</text>
+    <text class="muted body" x="28" y="116">Quiz, scritto, caso</text>
+    <text class="muted body" x="28" y="148">o spiegazione orale.</text>
+  </g>
+
+  <g transform="translate(170 700)">
+    <rect class="panel" x="0" y="0" width="780" height="130" rx="18"/>
+    <text class="blue" x="36" y="45" style="font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:28px;font-weight:850;">Che cosa cambia nella preparazione</text>
+    <text class="muted body" x="36" y="84">Il candidato non studia in ordine di pagina: decide cosa conta,</text>
+    <text class="muted body" x="36" y="114">misura gli errori e allena il tipo di risposta richiesto dal bando.</text>
+  </g>
+
+  <rect class="band" x="355" y="910" width="890" height="52" rx="26"/>
+  <text class="blue" x="800" y="945" text-anchor="middle" style="font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:24px;font-weight:800;">Il metodo funziona solo se ogni fase produce una decisione operativa.</text>
+</svg>

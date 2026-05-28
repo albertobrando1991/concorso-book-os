@@ -6,7 +6,7 @@ status: professional_draft
 domain: concorsi pubblici italiani
 topics: ["diritto costituzionale","ordinamento dello stato","stato","costituzione","principi fondamentali","fonti del diritto","diritti e liberta costituzionali","rapporti etico-sociali","rapporti economici e sociali","rapporti politici","parlamento","procedimento legislativo","presidente della repubblica","governo","pubblica amministrazione nella costituzione","organi ausiliari","magistratura","regioni ed enti locali","corte costituzionale","revisione costituzionale","unione europea","cedu","tutela multilivello dei diritti"]
 entities: ["Costituzione della Repubblica Italiana","Parlamento","Governo","Presidente della Repubblica","Corte costituzionale","Magistratura","Consiglio superiore della magistratura","Consiglio di Stato","Corte dei conti","CNEL","Regioni","Comune","Unione europea","CEDU"]
-source_refs: ["sources/struttura-madre-il-metodo-bando.md","sources/costituzione-repubblica-italiana-testo-vigente.md","sources/diritto-costituzionale-bin-pitruzzella.md","sources/diritto-costituzionale-corpus-fonti-ufficiali-2026-05-25.md","sources/legge-23-agosto-1988-n-400-governo-e-potesta-normativa.md","sources/d-lgs-18-agosto-2000-n-267-enti-locali.md","sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego.md","sources/d-p-r-9-maggio-1994-n-487-accesso-agli-impieghi-pubblici-e-concorsi.md","sources/d-p-r-16-giugno-2023-n-82-modifiche-al-d-p-r-487-1994-sui-concorsi.md","sources/d-lgs-2-luglio-2010-n-104-processo-amministrativo.md","sources/legge-14-gennaio-1994-n-20-responsabilita-erariale.md","sources/d-lgs-26-agosto-2016-n-174-codice-di-giustizia-contabile.md","sources/cedu-savino-ed-altri-c-italia-28-aprile-2009-concorsi-e-art-6-cedu.md","sources/giurisprudenza-costituzionale-recente-principio-del-concorso-pubblico-art-97-cost.md","sources/corte-costituzionale-pubblico-concorso-e-stabilizzazioni-g-u-5-maggio-2010.md","sources/corte-costituzionale-concorso-pubblico-e-pubblico-impiego-g-u-15-marzo-2017.md","sources/corte-costituzionale-deroghe-al-concorso-pubblico-e-buon-andamento-g-u-9-dicembre-2021.md","sources/corte-costituzionale-requisiti-concorsuali-polizia-di-stato-g-u-27-gennaio-2021.md"]
+source_refs: ["sources/struttura-madre-il-metodo-bando.md","sources/costituzione-repubblica-italiana-testo-vigente.md","sources/diritto-costituzionale-bin-pitruzzella.md","sources/diritto-costituzionale-corpus-fonti-ufficiali-2026-05-25.md","sources/legge-23-agosto-1988-n-400-governo-e-potesta-normativa.md","sources/d-lgs-18-agosto-2000-n-267-enti-locali.md","sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego.md","sources/d-p-r-9-maggio-1994-n-487-accesso-agli-impieghi-pubblici-e-concorsi.md","sources/d-p-r-16-giugno-2023-n-82-modifiche-al-d-p-r-487-1994-sui-concorsi.md","sources/d-lgs-2-luglio-2010-n-104-processo-amministrativo.md","sources/legge-14-gennaio-1994-n-20-responsabilità-erariale.md","sources/d-lgs-26-agosto-2016-n-174-codice-di-giustizia-contabile.md","sources/cedu-savino-ed-altri-c-italia-28-aprile-2009-concorsi-e-art-6-cedu.md","sources/giurisprudenza-costituzionale-recente-principio-del-concorso-pubblico-art-97-cost.md","sources/corte-costituzionale-pubblico-concorso-e-stabilizzazioni-g-u-5-maggio-2010.md","sources/corte-costituzionale-concorso-pubblico-e-pubblico-impiego-g-u-15-marzo-2017.md","sources/corte-costituzionale-deroghe-al-concorso-pubblico-e-buon-andamento-g-u-9-dicembre-2021.md","sources/corte-costituzionale-requisiti-concorsuali-polizia-di-stato-g-u-27-gennaio-2021.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.86
 updated_at: "2026-05-26T13:19:10+02:00"
@@ -23,7 +23,7 @@ last_manual_writer_run: "2026-05-26T13:19:10+02:00"
 
 # Capitolo 4 - Costituzione e ordinamento dello Stato
 
-## Apertura editoriale
+## Perché studiare l'ordinamento costituzionale
 
 Il diritto costituzionale è la grammatica comune dei concorsi pubblici. Non serve soltanto a ricordare articoli o organi: serve a capire da dove nasce il potere pubblico, quali limiti incontra, come si producono le norme, come vengono garantiti i diritti e perché la pubblica amministrazione deve agire con legalità, imparzialità e buon andamento.
 
@@ -31,7 +31,9 @@ Per il candidato, la Costituzione è una mappa di collegamento. Una domanda sul 
 
 L'obiettivo non è trasformare questo capitolo in un compendio universitario. L'obiettivo è costruire una base solida, ordinata e spendibile in quiz, orale e risposte sintetiche.
 
-## Obiettivo del blocco
+![Figura 4.1 - La Costituzione è una mappa di collegamento: principi, fonti, organi, diritti, autonomie e PA.](../assets/chapter-04/01-costituzione-mappa-concorso.png)
+
+## Obiettivi del capitolo
 
 Al termine del capitolo devi saper:
 
@@ -46,7 +48,7 @@ Al termine del capitolo devi saper:
 - comprendere revisione costituzionale, Unione europea, CEDU e tutela multilivello dei diritti;
 - costruire risposte da concorso con schema: definizione, articolo o fonte, funzione, esempio, errore da evitare.
 
-## Mappa BANDO
+## Come usare il Metodo BANDO
 
 | Fase | Come usare questo capitolo |
 |---|---|
@@ -55,14 +57,6 @@ Al termine del capitolo devi saper:
 | **Nuclei** | Studia prima organi costituzionali, procedimento legislativo, Governo, Presidente della Repubblica, Regioni, magistratura, Corte costituzionale, fonti e diritti. |
 | **Diario** | Registra gli errori tipici: confondere forma di Stato e forma di governo, attribuire al Presidente poteri di indirizzo politico, confondere decreto-legge e decreto legislativo, dimenticare il riparto Stato-Regioni. |
 | **Output** | Produci una mappa dello Stato, una tabella organo/funzione, dieci risposte orali e una griglia fonti/atti/controlli. |
-
-## Perimetro delle fonti usate
-
-Questo capitolo usa come base consolidata la Costituzione vigente, le fonti wiki già presenti e il corpus ufficiale scaricato il 25 maggio 2026. Il corpus comprende fonti da Normattiva, Camera, Senato, Parlamento, Corte costituzionale, Publications Office/Consilium, OHCHR, HUDOC/Ministero della giustizia e Gazzetta Ufficiale. [[sources/diritto-costituzionale-corpus-fonti-ufficiali-2026-05-25]]
-
-La trattazione è pensata per concorsi amministrativi, enti locali, ministeri, agenzie e profili generalisti. Non sostituisce una monografia specialistica di diritto costituzionale: seleziona ciò che serve per rispondere a quiz, prova orale, risposta sintetica e collegamenti con pubblica amministrazione, pubblico impiego e autonomie territoriali.
-
-La giurisprudenza costituzionale sul concorso pubblico è usata solo nei principi stabili già consolidati: concorso come regola ordinaria, deroghe solo eccezionali e ragionevoli, coerenza tra requisiti e mansioni, imparzialità e buon andamento. Le citazioni analitiche delle singole sentenze richiedono schede dedicate, perché il download diretto delle schede della Corte costituzionale è risultato bloccato da CAPTCHA e la copertura Gazzetta è solo parziale. [[reviews/diritto-costituzionale-coverage-2026-05-25]]
 
 ## Priorità di studio per quiz
 
@@ -85,13 +79,15 @@ La giurisprudenza costituzionale sul concorso pubblico è usata solo nei princip
 | Autonomie | Regioni ed enti locali sono componenti della Repubblica. | Pensare che autonomia significhi separazione dallo Stato. |
 | PA costituzionale | Art. 97 e 98 collegano uffici, concorsi, imparzialità e servizio alla Nazione. | Ridurre la PA a un tema solo amministrativo. |
 
+![Figura 4.2 - Stato, Costituzione, forma di Stato e forma di governo vanno tenuti distinti.](../assets/chapter-04/02-stato-costituzione-forme-v3.png)
+
 ## Percorso essenziale del programma di diritto costituzionale
 
 Questa sezione segue i nuclei richiesti nei programmi estesi e nei quiz. La trattazione è selettiva: offre la teoria necessaria, l'uso in prova e gli errori da evitare, senza trasformare il capitolo in un commentario articolo per articolo.
 
 ### 1. Stato, Costituzione e ordinamento costituzionale
 
-Lo Stato è un ordinamento politico-giuridico caratterizzato da popolo, territorio e sovranità. Il popolo è l'insieme dei cittadini legati allo Stato dal rapporto di cittadinanza; il territorio è lo spazio entro cui lo Stato esercita i propri poteri; la sovranità indica la posizione di supremazia dell'ordinamento statale, oggi esercitata nei limiti della Costituzione, dell'ordinamento internazionale e dell'ordinamento europeo. [[sources/costituzione-repubblica-italiana-testo-vigente]]
+Lo Stato è un ordinamento politico-giuridico caratterizzato da popolo, territorio e sovranità. Il popolo è l'insieme dei cittadini legati allo Stato dal rapporto di cittadinanza; il territorio è lo spazio entro cui lo Stato esercita i propri poteri; la sovranità indica la posizione di supremazia dell'ordinamento statale, oggi esercitata nei limiti della Costituzione, dell'ordinamento internazionale e dell'ordinamento europeo.
 
 La cittadinanza non va confusa con la residenza o con la semplice presenza sul territorio. È lo status che collega la persona alla comunità politica e consente l'esercizio pieno dei diritti politici, salvo discipline specifiche. Nei concorsi è sufficiente ricordare che la cittadinanza è regolata dalla legge e incide su diritti, doveri, elettorato e accesso ad alcune funzioni.
 
@@ -137,7 +133,9 @@ La gerarchia delle fonti indica che una fonte inferiore non può violare una fon
 
 La riserva di legge impone che una determinata materia sia disciplinata dalla legge, in modo assoluto, relativo o rinforzato a seconda dei casi. Serve a garantire che i limiti ai diritti e le scelte essenziali siano assunti da una fonte primaria e non lasciati alla discrezionalità amministrativa.
 
-L'abrogazione può essere espressa, tacita o derivare da nuova disciplina dell'intera materia. La vacatio legis è il periodo tra pubblicazione ed entrata in vigore della legge; di regola è di quindici giorni, salvo diversa previsione. [[topics/fonti-dell-ordinamento-italiano]]
+L'abrogazione può essere espressa, tacita o derivare da nuova disciplina dell'intera materia. La vacatio legis è il periodo tra pubblicazione ed entrata in vigore della legge; di regola è di quindici giorni, salvo diversa previsione.
+
+![Figura 4.3 - Le fonti si studiano con gerarchia, competenza, criterio cronologico e riserva di legge.](../assets/chapter-04/03-fonti-criteri-ordinamento-v3.png)
 
 ### 4. Diritti e libertà civili
 
@@ -216,7 +214,7 @@ L'iniziativa legislativa può provenire, secondo la Costituzione, dal Governo, d
 
 Il Presidente della Repubblica promulga la legge. Prima della promulgazione può chiedere alle Camere una nuova deliberazione con messaggio motivato: è il rinvio presidenziale. Se le Camere approvano nuovamente, la legge deve essere promulgata. Dopo la promulgazione vi sono pubblicazione e vacatio legis.
 
-I decreti legislativi derivano da legge delega: il Parlamento indica oggetto, principi e criteri direttivi, tempo e limiti della delega. I decreti-legge sono adottati dal Governo in casi straordinari di necessità e urgenza e devono essere convertiti in legge entro sessanta giorni, altrimenti perdono efficacia secondo il regime costituzionale. La Legge 400/1988 è la fonte ordinaria di riferimento per l'organizzazione del Governo e l'esercizio della potestà normativa governativa. [[sources/legge-23-agosto-1988-n-400-governo-e-potesta-normativa]]
+I decreti legislativi derivano da legge delega: il Parlamento indica oggetto, principi e criteri direttivi, tempo e limiti della delega. I decreti-legge sono adottati dal Governo in casi straordinari di necessità e urgenza e devono essere convertiti in legge entro sessanta giorni, altrimenti perdono efficacia secondo il regime costituzionale. La Legge 400/1988 è la fonte ordinaria di riferimento per l'organizzazione del Governo e l'esercizio della potestà normativa governativa.
 
 La legge di bilancio ha rilievo particolare perché collega Parlamento, Governo, risorse pubbliche e vincoli costituzionali sull'equilibrio di bilancio.
 
@@ -252,15 +250,19 @@ Il Governo partecipa alla produzione normativa attraverso decreti-legge, decreti
 - decreto-legge: atto provvisorio del Governo fondato su necessità e urgenza, da convertire;
 - regolamento: fonte secondaria, subordinata alla legge.
 
+![Figura 4.4 - Gli organi costituzionali vanno ricordati attraverso funzioni e rapporti reciproci.](../assets/chapter-04/04-organi-costituzionali-flussi.png)
+
 ### 12. Pubblica amministrazione nella Costituzione
 
 La pubblica amministrazione nella Costituzione si fonda soprattutto sugli articoli 97 e 98, da leggere insieme ad altri articoli come 28, 51, 54 e 113.
 
-L'art. 97 richiama buon andamento e imparzialità dell'amministrazione. Stabilisce inoltre il principio dell'accesso agli impieghi pubblici mediante concorso, salvo i casi stabiliti dalla legge. Questo principio spiega perché il concorso non è una formalità: tutela eguaglianza, imparzialità e qualità della selezione. [[sources/giurisprudenza-costituzionale-recente-principio-del-concorso-pubblico-art-97-cost]]
+L'art. 97 richiama buon andamento e imparzialità dell'amministrazione. Stabilisce inoltre il principio dell'accesso agli impieghi pubblici mediante concorso, salvo i casi stabiliti dalla legge. Questo principio spiega perché il concorso non è una formalità: tutela eguaglianza, imparzialità e qualità della selezione.
 
 L'art. 98 afferma che i pubblici impiegati sono al servizio esclusivo della Nazione. Questo significa che il dipendente pubblico non lavora per interessi personali, di parte o dell'ufficio inteso come gruppo chiuso, ma per l'interesse pubblico secondo legge.
 
 L'art. 28 riguarda la responsabilità dei funzionari e dipendenti pubblici per gli atti compiuti in violazione di diritti. L'art. 113 garantisce tutela giurisdizionale contro gli atti della pubblica amministrazione. Nei concorsi, questi articoli formano il ponte tra costituzionale, diritto amministrativo e pubblico impiego.
+
+![Figura 4.5 - Il concorso pubblico traduce principi costituzionali in requisiti, prove, valutazione e tutela.](../assets/chapter-04/05-costituzione-pa-concorso-v3.png)
 
 ### 13. Organi ausiliari
 
@@ -272,7 +274,7 @@ Gli organi ausiliari collaborano con gli organi costituzionali e con l'amministr
 | Consiglio di Stato | Consulenza giuridico-amministrativa e giustizia amministrativa. | Pareri, ricorsi, tutela contro PA. |
 | Corte dei conti | Controllo contabile, controllo preventivo e successivo sulla gestione finanziaria pubblica e giurisdizione contabile. | Controllo, responsabilità, danno erariale. |
 
-Il controllo della Corte dei conti può essere preventivo o successivo, a seconda degli atti e delle funzioni. Nei concorsi amministrativi, il punto centrale è il collegamento tra risorse pubbliche, legalità contabile, responsabilità erariale e buon andamento. [[sources/legge-14-gennaio-1994-n-20-responsabilita-erariale]] [[sources/d-lgs-26-agosto-2016-n-174-codice-di-giustizia-contabile]]
+Il controllo della Corte dei conti può essere preventivo o successivo, a seconda degli atti e delle funzioni. Nei concorsi amministrativi, il punto centrale è il collegamento tra risorse pubbliche, legalità contabile, responsabilità erariale e buon andamento.
 
 ### 14. Magistratura
 
@@ -290,9 +292,9 @@ La Repubblica è composta da Comuni, Province, Città metropolitane, Regioni e S
 
 Le Regioni hanno statuti regionali, organi e potestà legislative. Gli organi regionali principali sono Consiglio regionale, Giunta e Presidente della Regione. Le Regioni a statuto speciale hanno forme e condizioni particolari di autonomia.
 
-L'art. 117 disciplina il riparto della potestà legislativa tra Stato e Regioni: materie di competenza esclusiva statale, materie di legislazione concorrente e competenza residuale regionale. L'art. 118 richiama sussidiarietà, differenziazione e adeguatezza nell'attribuzione delle funzioni amministrative. L'art. 119 riguarda l'autonomia finanziaria e, dopo la revisione costituzionale sull'insularità, richiama anche il riconoscimento delle peculiarità delle isole e il superamento degli svantaggi derivanti dall'insularità. L'art. 120 prevede poteri sostitutivi nei casi costituzionalmente rilevanti. [[sources/diritto-costituzionale-corpus-fonti-ufficiali-2026-05-25]]
+L'art. 117 disciplina il riparto della potestà legislativa tra Stato e Regioni: materie di competenza esclusiva statale, materie di legislazione concorrente e competenza residuale regionale. L'art. 118 richiama sussidiarietà, differenziazione e adeguatezza nell'attribuzione delle funzioni amministrative. L'art. 119 riguarda l'autonomia finanziaria e, dopo la revisione costituzionale sull'insularità, richiama anche il riconoscimento delle peculiarità delle isole e il superamento degli svantaggi derivanti dall'insularità. L'art. 120 prevede poteri sostitutivi nei casi costituzionalmente rilevanti.
 
-Gli enti locali sono disciplinati anche dal TUEL, D.Lgs. 267/2000. Per il candidato è essenziale collegare la base costituzionale agli organi locali: sindaco, consiglio, giunta, provincia, città metropolitana e statuto dell'ente. [[sources/d-lgs-18-agosto-2000-n-267-enti-locali]]
+Gli enti locali sono disciplinati anche dal TUEL, D.Lgs. 267/2000. Per il candidato è essenziale collegare la base costituzionale agli organi locali: sindaco, consiglio, giunta, provincia, città metropolitana e statuto dell'ente.
 
 Errore da evitare: dire che il Comune è "sotto" la Regione in senso gerarchico generale. Il rapporto va spiegato in termini di autonomia, competenze e coordinamento, non come gerarchia semplice.
 
@@ -309,7 +311,7 @@ Le funzioni principali sono:
 
 Gli effetti delle sentenze dipendono dal tipo di decisione. Le sentenze di accoglimento eliminano dall'ordinamento la norma dichiarata incostituzionale secondo gli effetti previsti. Le sentenze di rigetto non dichiarano la norma costituzionalmente illegittima, ma non impediscono che la questione possa essere riproposta con argomenti o contesti diversi.
 
-Per il concorso basta dominare questa formula: la Corte non è un terzo ramo politico, ma un giudice costituzionale che garantisce il rispetto della Costituzione da parte delle fonti primarie e degli organi titolari di attribuzioni costituzionali. [[topics/giustizia-costituzionale]]
+Per il concorso basta dominare questa formula: la Corte non è un terzo ramo politico, ma un giudice costituzionale che garantisce il rispetto della Costituzione da parte delle fonti primarie e degli organi titolari di attribuzioni costituzionali.
 
 ### 17. Revisione costituzionale
 
@@ -323,7 +325,7 @@ Le disposizioni transitorie e finali completano il testo costituzionale e colloc
 
 Per un programma aggiornato, le revisioni recenti da ricordare sono almeno quattro: tutela dell'ambiente, della biodiversità e degli ecosistemi negli artt. 9 e 41; riconoscimento delle peculiarità delle isole nell'art. 119; valore dell'attività sportiva nell'art. 33; modifiche agli statuti speciali, tra cui quelle relative al Friuli-Venezia Giulia. Non serve memorizzare tutte le leggi costituzionali in ordine cronologico, ma devi sapere che il testo costituzionale vigente non coincide sempre con quello studiato in vecchi manuali.
 
-### 18. Unione Europea
+### 18. Unione europea
 
 L'Unione europea incide sull'ordinamento italiano attraverso istituzioni, fonti e principi. Le istituzioni da conoscere sono Parlamento europeo, Commissione europea, Consiglio europeo, Consiglio dell'Unione europea, Corte di giustizia dell'Unione europea e Banca centrale europea.
 
@@ -338,7 +340,7 @@ L'Unione europea incide sull'ordinamento italiano attraverso istituzioni, fonti 
 
 Le fonti UE comprendono trattati, regolamenti, direttive, decisioni, raccomandazioni e pareri. Il regolamento è direttamente applicabile; la direttiva vincola gli Stati al risultato da raggiungere e richiede normalmente attuazione interna; la decisione è vincolante per i destinatari.
 
-I rapporti tra ordinamento italiano e Unione europea si collegano agli artt. 11 e 117 Cost.: limitazioni di sovranità in condizioni di parità per un ordinamento che assicuri pace e giustizia fra le Nazioni, e obbligo della legislazione statale e regionale di rispettare i vincoli derivanti dall'ordinamento europeo. [[sources/diritto-costituzionale-corpus-fonti-ufficiali-2026-05-25]]
+I rapporti tra ordinamento italiano e Unione europea si collegano agli artt. 11 e 117 Cost.: limitazioni di sovranità in condizioni di parità per un ordinamento che assicuri pace e giustizia fra le Nazioni, e obbligo della legislazione statale e regionale di rispettare i vincoli derivanti dall'ordinamento europeo.
 
 ### 19. CEDU e tutela sovranazionale
 
@@ -352,7 +354,7 @@ La tutela multilivello significa che i diritti possono essere protetti da Costit
 2. il diritto UE può prevalere nei casi previsti dai principi di primato ed effetto diretto;
 3. la CEDU rileva come parametro esterno che incide sull'interpretazione e sul controllo di compatibilità della legge interna, secondo la giurisprudenza costituzionale.
 
-Nei casi sui concorsi, il richiamo alla CEDU può emergere per garanzie processuali e imparzialità degli organi decidenti, ma non va usato genericamente come formula risolutiva. [[sources/cedu-savino-ed-altri-c-italia-28-aprile-2009-concorsi-e-art-6-cedu]]
+Nei casi sui concorsi, il richiamo alla CEDU può emergere per garanzie processuali e imparzialità degli organi decidenti, ma non va usato genericamente come formula risolutiva.
 
 ## Organi, funzioni e parole chiave
 
@@ -463,7 +465,7 @@ Completa la tabella.
 9. Quali sono le funzioni principali della Corte costituzionale?
 10. Che cosa significa tutela multilivello dei diritti?
 
-## Check finale
+## Checkpoint finale
 
 Prima di passare al capitolo successivo, verifica se sai rispondere senza appunti:
 
@@ -486,47 +488,3 @@ Prima di passare al capitolo successivo, verifica se sai rispondere senza appunt
 - Come si svolge la revisione costituzionale?
 - Qual è la differenza tra regolamento UE e direttiva?
 - Come si collegano Costituzione, UE, CEDU e Carta dei diritti fondamentali?
-
-## Riferimenti consolidati
-
-- [[sources/costituzione-repubblica-italiana-testo-vigente]]
-- [[sources/diritto-costituzionale-bin-pitruzzella]]
-- [[sources/diritto-costituzionale-corpus-fonti-ufficiali-2026-05-25]]
-- [[sources/legge-23-agosto-1988-n-400-governo-e-potesta-normativa]]
-- [[sources/d-lgs-18-agosto-2000-n-267-enti-locali]]
-- [[sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego]]
-- [[sources/d-p-r-9-maggio-1994-n-487-accesso-agli-impieghi-pubblici-e-concorsi]]
-- [[sources/d-p-r-16-giugno-2023-n-82-modifiche-al-d-p-r-487-1994-sui-concorsi]]
-- [[sources/d-lgs-2-luglio-2010-n-104-processo-amministrativo]]
-- [[sources/legge-14-gennaio-1994-n-20-responsabilita-erariale]]
-- [[sources/d-lgs-26-agosto-2016-n-174-codice-di-giustizia-contabile]]
-- [[sources/cedu-savino-ed-altri-c-italia-28-aprile-2009-concorsi-e-art-6-cedu]]
-- [[sources/giurisprudenza-costituzionale-recente-principio-del-concorso-pubblico-art-97-cost]]
-- [[topics/diritto-costituzionale]]
-- [[topics/fonti-dell-ordinamento-italiano]]
-- [[topics/giustizia-costituzionale]]
-- [[topics/diritti-e-liberta-costituzionali]]
-- [[topics/regioni-e-governo-locale]]
-- [[entities/costituzione-della-repubblica-italiana]]
-- [[entities/parlamento]]
-- [[entities/governo]]
-- [[entities/presidente-della-repubblica]]
-- [[entities/corte-costituzionale]]
-- [[entities/magistratura]]
-- [[entities/comune]]
-
-## Note di review
-
-- La base normativa è stata aggiornata con il corpus ufficiale scaricato il 25 maggio 2026: 94 file raw validi, log SHA-256 e manifest in `wiki/raw/constitutional-law/`.
-- Le fonti UE sono state consolidate attraverso Publications Office/Consilium, non tramite download diretto EUR-Lex, per blocco tecnico CloudFront.
-- La Costituzione è coperta da Normattiva, Senato e Camera; il download diretto dal Quirinale ha restituito 403.
-- La giurisprudenza costituzionale indicata nel programma è coperta solo in parte con fonti Gazzetta Ufficiale e note già presenti: evitare nel capitolo massime puntuali non consolidate.
-- La giurisprudenza amministrativa citata nel programma richiede una fase separata su Giustizia amministrativa o banca dati autorizzata.
-- Prima della pubblicazione finale verificare eventuali modifiche costituzionali o fonti ufficiali successive al 25 maggio 2026.
-
-## Controlli prima della stampa
-
-- Il capitolo copre i nuclei principali richiesti: Stato, principi, fonti, diritti, rapporti etico-sociali, rapporti economici, rapporti politici, Parlamento, procedimento legislativo, Presidente della Repubblica, Governo, PA costituzionale, organi ausiliari, Magistratura, Regioni, Corte costituzionale, revisione, Unione europea e CEDU.
-- Prima della pubblicazione finale verificare eventuali aggiornamenti costituzionali o fonti ufficiali successive alla consultazione del corpus del 25 maggio 2026.
-- Non inserire massime giurisprudenziali estese o casi di dettaglio su Corte costituzionale, Corte EDU o Corte di giustizia UE senza scheda fonte dedicata e controllata.
-- Per quiz avanzati su sistema elettorale, regolamenti parlamentari, referendum, statuti speciali o disciplina analitica UE, creare schede specialistiche separate.

@@ -1,6 +1,7 @@
 import { NextResponse } from "next/server"
 import { parseHermesReply, withHermesNoReplyCapability } from "@/src/server/hermes/no-reply"
 import { HermesLlmClient } from "@/src/server/llm/hermes-adapter"
+import { LocalAgentMemory, withLocalMemoryContext } from "@/src/server/memory/local-agent-memory"
 import type { LlmMessage } from "@/src/server/llm/openai-adapter"
 
 export const runtime = "nodejs"
@@ -32,12 +33,27 @@ export async function POST(request: Request) {
   }
 
   const client = new HermesLlmClient()
-  const message = await client.complete(withHermesNoReplyCapability(messages, body.allowNoReply === true))
+  const memory = LocalAgentMemory.fromConfig()
+  const memoryRecall = await memory.recallForMessages(messages, "hermes-chat")
+  const message = await client.complete(
+    withHermesNoReplyCapability(withLocalMemoryContext(messages, memoryRecall), body.allowNoReply === true)
+  )
   const reply = parseHermesReply(message)
 
   if (body.allowNoReply === true && !reply.shouldReply) {
     return new Response(null, { status: 204 })
   }
+
+  await memory.captureConversation({
+    scope: "hermes-chat",
+    route: "/api/hermes/chat",
+    messages,
+    reply: reply.message,
+    metadata: {
+      shouldReply: reply.shouldReply,
+      recalledMemories: memoryRecall.memories.length
+    }
+  }).catch(() => undefined)
 
   return NextResponse.json({ message: reply.message, shouldReply: reply.shouldReply })
 }

@@ -4,9 +4,9 @@ type: chapter
 title: Pubblico impiego e organizzazione della PA
 status: revised_draft
 domain: concorsi pubblici italiani
-topics: ["pubblico impiego","accesso al pubblico impiego","rapporto di lavoro pubblico","organizzazione pubblica","concorsi pubblici","responsabilità disciplinare","responsabilità dirigenziale","performance amministrativa","anticorruzione e trasparenza","governo del rischio","codice di comportamento","etica pubblica","PIAO","lavoro agile","mansioni","orario di lavoro","trattamento economico","sicurezza sul lavoro","pari opportunità","benessere organizzativo"]
-entities: ["D.lgs. 165/2001","D.lgs. 150/2009","Dirigente pubblico","Dipendente pubblico","Piano Integrato di Attività e Organizzazione","ANAC","Corte dei conti","Comune","inPA"]
-source_refs: ["sources/struttura-madre-il-metodo-bando.md","sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego.md","sources/d-lgs-27-ottobre-2009-n-150-performance.md","sources/d-p-r-9-maggio-1994-n-487-accesso-agli-impieghi-pubblici-e-concorsi.md","sources/d-p-r-16-giugno-2023-n-82-modifiche-al-d-p-r-487-1994-sui-concorsi.md","sources/legge-6-novembre-2012-n-190-anticorruzione.md","sources/d-lgs-14-marzo-2013-n-33-trasparenza.md","sources/d-lgs-8-aprile-2013-n-39-inconferibilita-e-incompatibilita-incarichi.md","sources/d-p-r-16-aprile-2013-n-62-codice-comportamento-dipendenti-pubblici.md","sources/d-lgs-10-marzo-2023-n-24-whistleblowing.md","sources/d-p-r-24-giugno-2022-n-81-piao-adempimenti-assorbiti.md","sources/decreto-30-giugno-2022-n-132-piano-tipo-piao.md","sources/aran-contrattazione-collettiva-comparti-aree-pubblico-impiego.md","sources/d-lgs-9-aprile-2008-n-81-salute-sicurezza-lavoro.md","sources/d-lgs-26-agosto-2016-n-174-codice-di-giustizia-contabile.md","sources/d-l-14-marzo-2025-n-25-convertito-dalla-l-9-maggio-2025-n-69-capacita-amministrativa.md","sources/d-l-31-agosto-2013-n-101-trasformazione-civit-anac-e-pubblico-impiego.md","sources/responsabilita-dirigenziale-legalita-organizzativa-performance-rischio.md"]
+topics: ["pubblico impiego","accesso al pubblico impiego","rapporto di lavoro pubblico","organizzazione pubblica","concorsi pubblici","responsabilità disciplinare","responsabilità dirigenziale","performance amministrativa","anticorruzione e trasparenza","governo del rischio","codice di comportamento","etica pubblica","PIAO","lavoro agile","mansioni","orario di lavoro","trattamento economico","sicurezza sul lavoro","pari opportunita","benessere organizzativo"]
+entities: ["D.Lgs. 165/2001","D.Lgs. 150/2009","Dirigente pubblico","Dipendente pubblico","Piano Integrato di Attività e Organizzazione","ANAC","Corte dei conti","Comune","inPA"]
+source_refs: ["sources/struttura-madre-il-metodo-bando.md","sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego.md","sources/d-lgs-27-ottobre-2009-n-150-performance.md","sources/d-p-r-9-maggio-1994-n-487-accesso-agli-impieghi-pubblici-e-concorsi.md","sources/d-p-r-16-giugno-2023-n-82-modifiche-al-d-p-r-487-1994-sui-concorsi.md","sources/legge-6-novembre-2012-n-190-anticorruzione.md","sources/d-lgs-14-marzo-2013-n-33-trasparenza.md","sources/d-lgs-8-aprile-2013-n-39-inconferibilita-e-incompatibilita-incarichi.md","sources/d-p-r-16-aprile-2013-n-62-codice-comportamento-dipendenti-pubblici.md","sources/d-lgs-10-marzo-2023-n-24-whistleblowing.md","sources/d-p-r-24-giugno-2022-n-81-piao-adempimenti-assorbiti.md","sources/decreto-30-giugno-2022-n-132-piano-tipo-piao.md","sources/aran-contrattazione-collettiva-comparti-aree-pubblico-impiego.md","sources/d-lgs-9-aprile-2008-n-81-salute-sicurezza-lavoro.md","sources/d-lgs-26-agosto-2016-n-174-codice-di-giustizia-contabile.md","sources/d-l-14-marzo-2025-n-25-convertito-dalla-l-9-maggio-2025-n-69-capacita-amministrativa.md","sources/d-l-31-agosto-2013-n-101-trasformazione-civit-anac-e-pubblico-impiego.md","sources/responsabilità-dirigenziale-legalità-organizzativa-performance-rischio.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.9
 updated_at: "2026-05-25T21:25:00+02:00"
@@ -17,12 +17,12 @@ tags: ["book-chapter","common-subject","revised"]
 book_id: il-metodo-bando
 outline_section: 6
 draft_stage: editorial-revision
-last_compiled_from: ["wiki/books/il-metodo-bando/struttura-madre.md","topics/pubblico-impiego.md","topics/organizzazione-pubblica.md","topics/concorsi-pubblici.md","topics/performance-amministrativa.md","topics/responsabilita-dirigenziale.md","topics/governo-del-rischio.md","topics/anticorruzione-e-trasparenza.md","entities/piano-integrato-di-attivita-e-organizzazione.md","entities/dirigente-pubblico.md"]
+last_compiled_from: ["wiki/books/il-metodo-bando/struttura-madre.md","topics/pubblico-impiego.md","topics/organizzazione-pubblica.md","topics/concorsi-pubblici.md","topics/performance-amministrativa.md","topics/responsabilità-dirigenziale.md","topics/governo-del-rischio.md","topics/anticorruzione-e-trasparenza.md","entities/piano-integrato-di-attivita-e-organizzazione.md","entities/dirigente-pubblico.md"]
 ---
 
 # Capitolo 6 - Pubblico impiego e organizzazione della PA
 
-## Apertura editoriale
+## Perché studiare il pubblico impiego
 
 Il pubblico impiego non è soltanto una materia sul contratto di lavoro. È il punto in cui l'organizzazione della pubblica amministrazione incontra persone, competenze, responsabilità, etica pubblica e qualità dei servizi.
 
@@ -32,7 +32,9 @@ In concorso questa materia compare spesso in forma diretta: "pubblico impiego", 
 
 La chiave del capitolo è questa: nel pubblico impiego il comportamento individuale e l'organizzazione dell'ufficio non sono separati. Un dipendente scorretto espone l'amministrazione a rischio; un'organizzazione disordinata aumenta la probabilità di errori, ritardi, favoritismi e responsabilità.
 
-## Obiettivo del blocco
+Per studiarlo bene, non partire da definizioni isolate. Usa sempre il collegamento tra profilo messo a bando, ufficio di destinazione, doveri di servizio e rischio amministrativo: è questo passaggio che trasforma la materia in una risposta da concorso.
+
+## Obiettivi del capitolo
 
 Al termine del capitolo devi saper:
 
@@ -50,7 +52,11 @@ Al termine del capitolo devi saper:
 - inquadrare il lavoro agile come modalità organizzativa orientata a obiettivi e risultati;
 - risolvere casi situazionali su dati, regali, conflitti, ritardi e controlli.
 
-## Mappa BANDO
+![Figura 6.1 - Mappa del pubblico impiego: rapporto di lavoro, servizio pubblico, accesso, doveri, responsabilità, dirigenza, performance e PIAO.](../assets/chapter-06/01-pubblico-impiego-mappa-operativa.png)
+
+**Lettura operativa.** Usa la mappa come indice: concorso, rapporto, doveri, responsabilità, performance e rischio. È l'ordine da seguire anche all'orale.
+
+## Come usare il Metodo BANDO
 
 | Fase | Come usare questo capitolo |
 |---|---|
@@ -60,18 +66,18 @@ Al termine del capitolo devi saper:
 | **Diario** | Registra gli errori: confondere politico e dirigente, ridurre il codice di comportamento a regole formali, ignorare il conflitto potenziale, trattare il PIAO come burocrazia astratta. |
 | **Output** | Produci una tabella dovere/comportamento/rischio, una risposta orale sulla dirigenza, un caso su dati/regali/conflitto, una mappa responsabilità. |
 
-## Quadro teorico essenziale richiesto
+## Quadro essenziale
 
 ### Fonti del pubblico impiego
 
-Il pubblico impiego si fonda su più livelli di fonti. La Costituzione orienta l'organizzazione amministrativa con i principi di imparzialità, buon andamento, responsabilità e accesso agli impieghi pubblici secondo regole selettive. Il D.lgs. 165/2001 costituisce il riferimento generale per l'organizzazione del lavoro alle dipendenze delle amministrazioni pubbliche. Il D.lgs. 150/2009 rileva per misurazione e valutazione della performance. La disciplina anticorruzione e trasparenza incide su comportamento, prevenzione del rischio, pubblicità e controlli. [[sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego]] [[sources/d-lgs-27-ottobre-2009-n-150-performance]]
+Il pubblico impiego si fonda su più livelli di fonti. La Costituzione orienta l'organizzazione amministrativa con i principi di imparzialità, buon andamento, responsabilità e accesso agli impieghi pubblici secondo regole selettive. Il D.Lgs. 165/2001 costituisce il riferimento generale per l'organizzazione del lavoro alle dipendenze delle amministrazioni pubbliche. Il D.Lgs. 150/2009 rileva per misurazione e valutazione della performance. La disciplina anticorruzione e trasparenza incide su comportamento, prevenzione del rischio, pubblicità e controlli.
 
 Accanto alle norme generali operano contratti collettivi, codici di comportamento, regolamenti interni, piani organizzativi, discipline di settore e norme speciali per alcune categorie. Per il candidato è importante capire il rapporto tra regola generale e disciplina speciale: il lavoro pubblico ordinario è in larga parte contrattualizzato, ma resta inserito in un quadro pubblicistico.
 
 | Fonte o livello | Funzione nel concorso | Esempio di domanda |
 |---|---|---|
 | Costituzione | Collega accesso, imparzialità, buon andamento e responsabilità. | Perché il concorso pubblico tutela l'imparzialità? |
-| D.lgs. 165/2001 | Regola organizzazione del lavoro pubblico, rapporto di lavoro, dirigenza e separazione tra indirizzo e gestione. | Qual è la differenza tra organo politico e dirigente? |
+| D.Lgs. 165/2001 | Regola organizzazione del lavoro pubblico, rapporto di lavoro, dirigenza e separazione tra indirizzo e gestione. | Qual è la differenza tra organo politico e dirigente? |
 | Contratti collettivi | Disciplinano trattamento economico e normativo nei limiti previsti. | Qual è il ruolo della contrattazione nel pubblico impiego? |
 | Codici di comportamento | Traducono i doveri in condotte operative. | Come deve comportarsi un dipendente in conflitto di interessi? |
 | Performance e PIAO | Collegano organizzazione, obiettivi, risultati, rischi e personale. | Perché la performance non è solo valutazione individuale? |
@@ -102,7 +108,9 @@ Per rispondere bene in concorso, devi collegare l'accesso a tre elementi:
 | Imparzialità | I candidati devono essere valutati secondo criteri predeterminati e uguali. |
 | Buon andamento | L'amministrazione seleziona competenze adeguate ai propri fabbisogni. |
 
-Le deroghe al concorso vanno trattate come eccezioni, non come regola parallela. Richiedono base normativa e giustificazione coerente con i principi costituzionali. [[topics/concorsi-pubblici]]
+Le deroghe al concorso vanno trattate come eccezioni, non come regola parallela. Richiedono base normativa e giustificazione coerente con i principi costituzionali.
+
+![Figura 6.2 - Accesso al pubblico impiego: fabbisogno, bando, prove, graduatoria e assunzione nel rispetto di pubblicità, imparzialità e buon andamento.](../assets/chapter-06/02-accesso-pubblico-impiego-flusso.png)
 
 ### Diritti del dipendente pubblico
 
@@ -124,6 +132,8 @@ Il codice di comportamento traduce questi doveri in regole pratiche. Serve a pre
 | Correttezza | Tenere rapporti professionali con utenti, colleghi e superiori. | Pressioni, conflitti, comportamenti lesivi dell'immagine dell'ente. |
 | Astensione | Segnalare conflitti anche potenziali. | Decisioni sospette, parzialità reale o apparente. |
 | Cura dei beni pubblici | Usare strumenti, locali, dispositivi e tempo di lavoro per fini istituzionali. | Uso privato di risorse pubbliche. |
+
+![Figura 6.3 - Doveri e codice di comportamento: dal fatto concreto alla condotta corretta, passando per dovere violato e rischio.](../assets/chapter-06/03-doveri-codice-comportamento.png)
 
 ### Etica pubblica
 
@@ -151,6 +161,8 @@ Lo stesso fatto può produrre responsabilità diverse. Il candidato deve saperle
 
 Errore da evitare: trasformare ogni irregolarità in reato. La classificazione richiede prudenza: prima si qualifica il fatto, poi si individuano doveri violati, danni, intenzionalità, ruolo e conseguenze.
 
+![Figura 6.4 - Responsabilità nel pubblico impiego: una condotta può rilevare sul piano disciplinare, contabile, civile, penale o dirigenziale.](../assets/chapter-06/04-responsabilità-dipendente-dirigente.png)
+
 ### Indirizzo politico e gestione amministrativa
 
 La separazione tra indirizzo politico e gestione amministrativa è un nucleo centrale. Gli organi politici definiscono obiettivi, programmi, priorità e indirizzi. I dirigenti e i responsabili amministrativi curano la gestione concreta: personale, atti, procedimenti, risorse, controlli e risultati.
@@ -163,7 +175,7 @@ Esempio da orale: la giunta stabilisce di potenziare un servizio comunale; il di
 
 Il dirigente pubblico è il punto di collegamento tra organizzazione, personale, procedimenti, performance, controlli e risultati. Non è soltanto il soggetto che firma atti. È il responsabile della tenuta organizzativa del settore affidato.
 
-La responsabilità dirigenziale va spiegata come responsabilità di sistema. Il dirigente deve assegnare compiti, prevenire rischi, garantire tracciabilità, controllare tempi, curare qualità dei processi, verificare risultati e correggere disfunzioni. [[sources/responsabilita-dirigenziale-legalita-organizzativa-performance-rischio]]
+La responsabilità dirigenziale va spiegata come responsabilità di sistema. Il dirigente deve assegnare compiti, prevenire rischi, garantire tracciabilità, controllare tempi, curare qualità dei processi, verificare risultati e correggere disfunzioni.
 
 Nei casi pratici chiediti sempre:
 
@@ -187,11 +199,11 @@ Il candidato deve distinguere:
 | Valutazione | Misurazione ragionata di risultati, comportamenti e qualità della prestazione. |
 | Accountability | Dovere di rendere conto dei risultati e dell'uso delle risorse. |
 
-Un ufficio formalmente corretto ma sistematicamente lento, disorganizzato e incapace di misurare risultati presenta un problema di performance. Per questo performance, dirigenza e responsabilità organizzativa devono essere studiate insieme. [[topics/performance-amministrativa]]
+Un ufficio formalmente corretto ma sistematicamente lento, disorganizzato e incapace di misurare risultati presenta un problema di performance. Per questo performance, dirigenza e responsabilità organizzativa devono essere studiate insieme.
 
 ### PIAO essenziale
 
-Il Piano integrato di attività e organizzazione va letto come strumento di programmazione integrata. Il quadro normativo essenziale è composto dall'art. 6 del D.L. 80/2021, dal D.P.R. 24 giugno 2022, n. 81 sugli adempimenti assorbiti e dal D.M. 30 giugno 2022, n. 132 sul Piano tipo. Collega obiettivi, performance, organizzazione, anticorruzione, trasparenza, personale, formazione e lavoro agile. Non è un semplice documento: serve a evitare che l'amministrazione pianifichi a compartimenti separati. [[sources/d-p-r-24-giugno-2022-n-81-piao-adempimenti-assorbiti]] [[sources/decreto-30-giugno-2022-n-132-piano-tipo-piao]]
+Il Piano integrato di attività e organizzazione va letto come strumento di programmazione integrata. Il quadro normativo essenziale è composto dall'art. 6 del D.L. 80/2021, dal D.P.R. 24 giugno 2022, n. 81 sugli adempimenti assorbiti e dal D.M. 30 giugno 2022, n. 132 sul Piano tipo. Collega obiettivi, performance, organizzazione, anticorruzione, trasparenza, personale, formazione e lavoro agile. Non è un semplice documento: serve a evitare che l'amministrazione pianifichi a compartimenti separati.
 
 Per il livello base da concorso basta fissare tre idee:
 
@@ -199,7 +211,9 @@ Per il livello base da concorso basta fissare tre idee:
 2. collega personale, obiettivi e risultati;
 3. aiuta a rendere coerenti performance, trasparenza, anticorruzione e fabbisogni.
 
-Il PIAO è quindi un ponte tra questo capitolo e quelli su trasparenza, anticorruzione e metodo di studio dei profili amministrativi. [[entities/piano-integrato-di-attivita-e-organizzazione]]
+Il PIAO è quindi un ponte tra questo capitolo e quelli su trasparenza, anticorruzione e metodo di studio dei profili amministrativi.
+
+![Figura 6.5 - Dirigenza, performance e PIAO: indirizzo politico, gestione amministrativa, obiettivi, rischi e risultati.](../assets/chapter-06/05-dirigenza-performance-piao.png)
 
 ### Anticorruzione, trasparenza e governo del rischio
 
@@ -209,7 +223,7 @@ Il governo del rischio significa individuare processi esposti, prevedere misure 
 
 ### Whistleblowing
 
-Il whistleblowing riguarda la segnalazione di violazioni conosciute nel contesto lavorativo, secondo le forme e tutele previste dal D.Lgs. 10 marzo 2023, n. 24. La funzione è proteggere l'interesse pubblico, far emergere condotte scorrette, garantire riservatezza e prevenire ritorsioni contro chi segnala. [[sources/d-lgs-10-marzo-2023-n-24-whistleblowing]]
+Il whistleblowing riguarda la segnalazione di violazioni conosciute nel contesto lavorativo, secondo le forme e tutele previste dal D.Lgs. 10 marzo 2023, n. 24. La funzione è proteggere l'interesse pubblico, far emergere condotte scorrette, garantire riservatezza e prevenire ritorsioni contro chi segnala.
 
 In prova, non presentarlo come una denuncia generica o come conflitto personale tra colleghi. Va collegato a legalità, integrità, riservatezza del segnalante, canali corretti e divieto di ritorsione.
 
@@ -219,7 +233,7 @@ Il lavoro agile nel pubblico impiego è una modalità organizzativa della presta
 
 La domanda da farti è: il servizio pubblico resta garantito? Se la risposta è no, il lavoro agile non è organizzato correttamente. Se la risposta è sì, esso può contribuire a flessibilità, responsabilizzazione e miglioramento dell'organizzazione.
 
-## Copertura completa del programma di pubblico impiego
+## Programma essenziale per i concorsi
 
 Questa sezione rende espliciti i nuclei da trattare nei quiz e nei programmi estesi. Alcuni sono già sviluppati nel quadro teorico; qui vengono ordinati secondo la sequenza tipica delle prove concorsuali.
 
@@ -242,7 +256,7 @@ Il candidato deve collegare sempre accesso, fabbisogno e competenze: la PA non a
 
 ### 18. Rapporto di lavoro pubblico
 
-Il rapporto di lavoro pubblico ordinario è privatizzato o contrattualizzato, ma inserito in una cornice pubblicistica. Il D.Lgs. 165/2001 è il riferimento generale. Il rapporto con il codice civile e con le leggi sul lavoro si combina con regole speciali del pubblico impiego. [[sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego]]
+Il rapporto di lavoro pubblico ordinario è privatizzato o contrattualizzato, ma inserito in una cornice pubblicistica. Il D.Lgs. 165/2001 è il riferimento generale. Il rapporto con il codice civile e con le leggi sul lavoro si combina con regole speciali del pubblico impiego.
 
 I nuclei da coprire sono:
 
@@ -254,7 +268,7 @@ I nuclei da coprire sono:
 - diritti e obblighi del lavoratore;
 - disciplina speciale per organizzazione, accesso, responsabilità e incompatibilità.
 
-La formula utile per l'orale è: il rapporto è gestito con strumenti privatistici, ma nasce e si svolge dentro una pubblica amministrazione, quindi resta condizionato da finalità pubbliche, imparzialità, buon andamento e responsabilità. Per CCNL, comparti, aree e relazioni sindacali il riferimento operativo è ARAN, nel quadro del D.Lgs. 165/2001: non esiste un unico contratto valido per tutti i dipendenti, perché il CCNL applicabile dipende da comparto, area, profilo e amministrazione. [[sources/aran-contrattazione-collettiva-comparti-aree-pubblico-impiego]]
+La formula utile per l'orale è: il rapporto è gestito con strumenti privatistici, ma nasce e si svolge dentro una pubblica amministrazione, quindi resta condizionato da finalità pubbliche, imparzialità, buon andamento e responsabilità. Per CCNL, comparti, aree e relazioni sindacali il riferimento operativo è ARAN, nel quadro del D.Lgs. 165/2001: non esiste un unico contratto valido per tutti i dipendenti, perché il CCNL applicabile dipende da comparto, area, profilo e amministrazione.
 
 ### 19. Dirigenza, performance e PIAO
 
@@ -266,7 +280,7 @@ Il PIAO integra obiettivi, organizzazione, anticorruzione, trasparenza, personal
 
 ### 20. Doveri del dipendente pubblico
 
-Il codice di comportamento generale, contenuto nel D.P.R. 16 aprile 2013, n. 62 e integrato dai codici delle singole amministrazioni, traduce i doveri in condotte operative. I nuclei ricorrenti sono diligenza, lealtà, imparzialità, regali, conflitto di interessi, astensione, incompatibilità, inconferibilità, incarichi extraistituzionali, uso corretto delle tecnologie e rapporti con il pubblico. [[sources/d-p-r-16-aprile-2013-n-62-codice-comportamento-dipendenti-pubblici]]
+Il codice di comportamento generale, contenuto nel D.P.R. 16 aprile 2013, n. 62 e integrato dai codici delle singole amministrazioni, traduce i doveri in condotte operative. I nuclei ricorrenti sono diligenza, lealtà, imparzialità, regali, conflitto di interessi, astensione, incompatibilità, inconferibilità, incarichi extraistituzionali, uso corretto delle tecnologie e rapporti con il pubblico.
 
 | Tema | Regola di comportamento |
 |---|---|
@@ -281,7 +295,7 @@ L'obiettivo non è memorizzare formule, ma riconoscere situazioni rischiose: reg
 
 ### 21. Responsabilità disciplinare
 
-La responsabilità disciplinare riguarda la violazione dei doveri di servizio. Il procedimento disciplinare trova il proprio quadro generale nel D.Lgs. 165/2001 e deve essere letto insieme al codice di comportamento e al CCNL applicabile. Richiede contestazione degli addebiti, contraddittorio, valutazione del fatto e applicazione della sanzione secondo regole e competenze. L'UPD, ufficio per i procedimenti disciplinari, rileva nei casi in cui la competenza non resta al responsabile della struttura. [[sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego]] [[sources/d-p-r-16-aprile-2013-n-62-codice-comportamento-dipendenti-pubblici]]
+La responsabilità disciplinare riguarda la violazione dei doveri di servizio. Il procedimento disciplinare trova il proprio quadro generale nel D.Lgs. 165/2001 e deve essere letto insieme al codice di comportamento e al CCNL applicabile. Richiede contestazione degli addebiti, contraddittorio, valutazione del fatto e applicazione della sanzione secondo regole e competenze. L'UPD, ufficio per i procedimenti disciplinari, rileva nei casi in cui la competenza non resta al responsabile della struttura.
 
 I temi da conoscere sono:
 
@@ -304,11 +318,11 @@ Le mansioni individuano ciò che il dipendente è tenuto a svolgere secondo inqu
 
 L'orario di lavoro va collegato a servizio, organizzazione e controlli. Ferie e permessi sono diritti, ma devono essere gestiti compatibilmente con esigenze di servizio. La malattia comporta tutele ma anche obblighi di correttezza e controllabilità. La reperibilità serve a garantire continuità di funzioni o servizi quando prevista.
 
-Il trattamento economico comprende componenti fondamentali e accessorie. Il trattamento accessorio deve essere collegato a regole, risorse, contrattazione, performance o condizioni previste, non a discrezionalità libera. In prova va evitata una risposta generica: occorre dire che la disciplina concreta dipende da legge, CCNL, contrattazione integrativa nei limiti consentiti e sistema di valutazione. [[sources/aran-contrattazione-collettiva-comparti-aree-pubblico-impiego]]
+Il trattamento economico comprende componenti fondamentali e accessorie. Il trattamento accessorio deve essere collegato a regole, risorse, contrattazione, performance o condizioni previste, non a discrezionalità libera. In prova va evitata una risposta generica: occorre dire che la disciplina concreta dipende da legge, CCNL, contrattazione integrativa nei limiti consentiti e sistema di valutazione.
 
 ### 23. Sicurezza, pari opportunità e benessere
 
-La sicurezza sul lavoro riguarda anche la pubblica amministrazione. Il D.Lgs. 9 aprile 2008, n. 81 è la fonte consolidata per ruoli, obblighi, prevenzione e RLS. Il candidato deve sapere che la tutela della salute e sicurezza non è solo un tema aziendale privato: riguarda uffici, scuole, ospedali, enti locali, laboratori, archivi, cantieri e attività esterne. [[sources/d-lgs-9-aprile-2008-n-81-salute-sicurezza-lavoro]]
+La sicurezza sul lavoro riguarda anche la pubblica amministrazione. Il D.Lgs. 9 aprile 2008, n. 81 è la fonte consolidata per ruoli, obblighi, prevenzione e RLS. Il candidato deve sapere che la tutela della salute e sicurezza non è solo un tema aziendale privato: riguarda uffici, scuole, ospedali, enti locali, laboratori, archivi, cantieri e attività esterne.
 
 Pari opportunità, CUG, discriminazioni, mobbing, formazione e benessere organizzativo sono argomenti a priorità più bassa rispetto a procedimento, organizzazione e responsabilità, ma ricorrono nei quiz. Vanno trattati come strumenti per migliorare qualità del lavoro, prevenire discriminazioni, favorire inclusione e proteggere la dignità delle persone.
 
@@ -415,59 +429,17 @@ Completa la tabella collegando situazione, dovere, rischio e comportamento corre
 | Mancanza di controlli del dirigente | Responsabilità organizzativa, omessa vigilanza, governo del rischio. |
 | Segnalazione di illecito | Whistleblowing, tutela del segnalante, canali corretti, divieto di ritorsione. |
 
-## Check finale
+## Checkpoint finale
 
 Prima di passare al capitolo successivo, verifica se sai rispondere senza appunti:
 
-- Che cosa significa contrattualizzazione del pubblico impiego?
-- Perché il dipendente pubblico non è identico al dipendente privato?
-- Perché il concorso pubblico è collegato a imparzialità e buon andamento?
-- Qual è la differenza tra organo politico e dirigente?
-- Quali sono i doveri principali del dipendente pubblico?
-- Che funzione ha il codice di comportamento?
-- Qual è la differenza tra responsabilità disciplinare, amministrativo-contabile e dirigenziale?
-- Perché il conflitto di interessi può essere anche potenziale o apparente?
-- Perché la performance non è solo valutazione individuale?
-- Che funzione ha il PIAO?
-- Perché il lavoro agile è una modalità organizzativa e non un privilegio individuale?
-- Qual è il ruolo di ARAN e dei CCNL?
-- Che differenza c'è tra mobilità, progressione e nuova assunzione?
-- Che funzione ha l'UPD nel procedimento disciplinare?
-- Quali sono i temi essenziali su mansioni, orario, ferie, permessi, malattia e trattamento accessorio?
-- Perché sicurezza, pari opportunità, CUG e benessere organizzativo rientrano nel pubblico impiego?
-
-## Riferimenti consolidati
-
-- [[sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego]]
-- [[sources/d-lgs-27-ottobre-2009-n-150-performance]]
-- [[sources/d-p-r-9-maggio-1994-n-487-accesso-agli-impieghi-pubblici-e-concorsi]]
-- [[sources/d-p-r-16-giugno-2023-n-82-modifiche-al-d-p-r-487-1994-sui-concorsi]]
-- [[sources/legge-6-novembre-2012-n-190-anticorruzione]]
-- [[sources/d-lgs-14-marzo-2013-n-33-trasparenza]]
-- [[sources/d-lgs-8-aprile-2013-n-39-inconferibilita-e-incompatibilita-incarichi]]
-- [[sources/d-p-r-16-aprile-2013-n-62-codice-comportamento-dipendenti-pubblici]]
-- [[sources/d-lgs-10-marzo-2023-n-24-whistleblowing]]
-- [[sources/d-p-r-24-giugno-2022-n-81-piao-adempimenti-assorbiti]]
-- [[sources/decreto-30-giugno-2022-n-132-piano-tipo-piao]]
-- [[sources/aran-contrattazione-collettiva-comparti-aree-pubblico-impiego]]
-- [[sources/d-lgs-9-aprile-2008-n-81-salute-sicurezza-lavoro]]
-- [[sources/d-lgs-26-agosto-2016-n-174-codice-di-giustizia-contabile]]
-- [[sources/responsabilita-dirigenziale-legalita-organizzativa-performance-rischio]]
-- [[topics/pubblico-impiego]]
-- [[topics/organizzazione-pubblica]]
-- [[topics/concorsi-pubblici]]
-- [[topics/performance-amministrativa]]
-- [[topics/responsabilita-dirigenziale]]
-- [[topics/governo-del-rischio]]
-- [[topics/anticorruzione-e-trasparenza]]
-- [[entities/dirigente-pubblico]]
-- [[entities/piano-integrato-di-attivita-e-organizzazione]]
-- [[entities/dlgs-165-2001]]
-- [[entities/dlgs-150-2009]]
-
-## Controlli prima della stampa
-
-- Le fonti consolidate coprono codice di comportamento, PIAO, whistleblowing, sicurezza sul lavoro, ARAN/CCNL, UPD e trattamento accessorio al livello necessario per un capitolo istituzionale da concorso.
-- Prima della pubblicazione finale verificare soltanto aggiornamenti normativi o contrattuali successivi alla consultazione del 25 maggio 2026, soprattutto per CCNL di comparto, lavoro agile e linee guida operative.
-- Inserire massime giurisprudenziali su concorso, stabilizzazioni, responsabilità dirigenziale o danno erariale solo dopo scheda giurisprudenziale dedicata e controllata.
-- Per sanzioni disciplinari, termini procedimentali, istituti economici e orario, usare sempre il CCNL del comparto o dell'area indicato dal bando.
+| Verifica concettuale | Verifica applicativa |
+|---|---|
+| Che cosa significa contrattualizzazione? | Perché il dipendente pubblico non è identico al privato? |
+| Perché il concorso tutela imparzialità e buon andamento? | Qual è la differenza tra organo politico e dirigente? |
+| Quali sono i doveri principali del dipendente pubblico? | Che funzione ha il codice di comportamento? |
+| Come distingui responsabilità disciplinare, contabile e dirigenziale? | Perché il conflitto può essere potenziale o apparente? |
+| Perché la performance non è solo valutazione individuale? | Che funzione ha il PIAO? |
+| Perché il lavoro agile è modalità organizzativa? | Qual è il ruolo di ARAN e dei CCNL? |
+| Che differenza c'è tra mobilità, progressione e nuova assunzione? | Che funzione ha l'UPD nel procedimento disciplinare? |
+| Quali nuclei su mansioni, orario, assenze e trattamento accessorio? | Perché sicurezza, pari opportunità, CUG e benessere rientrano nel pubblico impiego? |

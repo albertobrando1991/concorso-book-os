@@ -6,15 +6,18 @@ import { FileWikiStore } from "../wiki/file-store"
 export type ChapterContentState = "written" | "draft" | "structure"
 
 export interface MarkdownBlock {
-  type: "heading" | "paragraph" | "list" | "image" | "code" | "table"
+  type: "heading" | "paragraph" | "list" | "image" | "code" | "table" | "callout"
   text?: string
   level?: number
   items?: string[]
   ordered?: boolean
+  start?: number
   path?: string
   alt?: string
   headers?: string[]
   rows?: string[][]
+  calloutType?: string
+  title?: string
 }
 
 export interface BookStudioChapter {
@@ -60,7 +63,24 @@ const EDITORIAL_PLACEHOLDERS = [
   "bozza da generare"
 ]
 
-const IMAGE_EXTENSIONS = new Set([".png", ".jpg", ".jpeg", ".webp", ".gif"])
+const STAFF_ONLY_HEADINGS = [
+  "Obiettivo didattico",
+  "Specifica struttura madre",
+  "Strumenti da inserire",
+  "Schede principali",
+  "Testo editoriale",
+  "Bozza agente",
+  "Note editoriali",
+  "Norme o riferimenti",
+  "Quiz collegati",
+  "Spiegazione",
+  "Punti chiave",
+  "Esempi",
+  "Errori frequenti"
+]
+
+const IMAGE_EXTENSIONS = new Set([".png", ".jpg", ".jpeg", ".webp", ".gif", ".svg"])
+const BOOK_ASSET_PATH = /^books\/[a-z0-9-]+\/assets\//
 
 export async function buildBookStudioData(store: FileWikiStore, bookId = "il-metodo-bando"): Promise<BookStudioData> {
   const bookPath = `books/${bookId}/index.md`
@@ -86,7 +106,7 @@ export async function buildBookStudioData(store: FileWikiStore, bookId = "il-met
       sourceRefs: asStringArray(parsed.data.source_refs),
       wordCount: countWords(preview.markdown),
       contentState: preview.state,
-      blocks: markdownToBlocks(preview.markdown)
+      blocks: markdownToBlocks(preview.markdown, file)
     })
   }
 
@@ -113,7 +133,7 @@ export async function buildBookStudioData(store: FileWikiStore, bookId = "il-met
 export function normalizeAssetPath(value: string) {
   const normalized = value.replace(/\\/g, "/").replace(/^\/+/, "")
 
-  if (!normalized.startsWith("raw/assets/")) {
+  if (!isAllowedAssetPath(normalized)) {
     throw new Error("Asset path non valido")
   }
 
@@ -124,6 +144,10 @@ export function normalizeAssetPath(value: string) {
   return normalized
 }
 
+function isAllowedAssetPath(value: string) {
+  return value.startsWith("raw/assets/") || BOOK_ASSET_PATH.test(value)
+}
+
 export function getAssetContentType(filePath: string) {
   const extension = path.extname(filePath).toLowerCase()
 
@@ -131,6 +155,7 @@ export function getAssetContentType(filePath: string) {
   if (extension === ".jpg" || extension === ".jpeg") return "image/jpeg"
   if (extension === ".webp") return "image/webp"
   if (extension === ".gif") return "image/gif"
+  if (extension === ".svg") return "image/svg+xml"
 
   return "application/octet-stream"
 }
@@ -148,27 +173,24 @@ function selectPreviewMarkdown(body: string): { state: ChapterContentState; mark
     return { state: "draft", markdown: agentDraft }
   }
 
-  const bodyWithoutEmptyEditorial = removeEmptyEditorialSections(body)
+  const bodyWithoutEmptyEditorial = removeHeadingSections(body, ["Testo editoriale", "Bozza agente"])
+  const publicBody = removeHeadingSections(bodyWithoutEmptyEditorial, STAFF_ONLY_HEADINGS)
 
-  if (isSubstantial(bodyWithoutEmptyEditorial)) {
-    return { state: "draft", markdown: bodyWithoutEmptyEditorial }
+  if (isSubstantial(publicBody)) {
+    return { state: "draft", markdown: publicBody }
   }
 
   return {
     state: "structure",
-    markdown: "## Struttura capitolo\nQuesto capitolo e' presente nell'outline, ma deve ancora essere sviluppato dal Manual Writer Agent."
+    markdown: "## Capitolo in preparazione\nQuesto capitolo è previsto nella struttura del manuale e sarà sviluppato nella versione completa."
   }
 }
 
-function removeEmptyEditorialSections(value: string) {
+function removeHeadingSections(value: string, headings: string[]) {
   let next = value
 
-  for (const heading of ["Testo editoriale", "Bozza agente"]) {
-    const section = extractHeadingSection(next, heading)
-
-    if (section && !isSubstantial(section)) {
-      next = replaceHeadingSectionWithPlaceholder(next, heading)
-    }
+  for (const heading of headings) {
+    next = replaceHeadingSectionWithPlaceholder(next, heading)
   }
 
   return next.trim()
@@ -216,14 +238,16 @@ function extractHeadingSection(content: string, heading: string) {
   return lines.slice(start + 1, end).join("\n").trim()
 }
 
-function markdownToBlocks(markdown: string): MarkdownBlock[] {
+function markdownToBlocks(markdown: string, sourcePath: string): MarkdownBlock[] {
   const blocks: MarkdownBlock[] = []
   const lines = markdown.replace(/\r\n/g, "\n").split("\n")
   let paragraph: string[] = []
   let listItems: string[] = []
   let listOrdered = false
+  let listStart: number | undefined
   let codeLines: string[] = []
   let tableLines: string[] = []
+  let calloutLines: string[] = []
   let inCode = false
 
   function flushParagraph() {
@@ -238,11 +262,17 @@ function markdownToBlocks(markdown: string): MarkdownBlock[] {
 
   function flushList() {
     if (listItems.length > 0) {
-      blocks.push({ type: "list", items: listItems.map(cleanInlineText), ordered: listOrdered })
+      blocks.push({
+        type: "list",
+        items: listItems.map(cleanInlineText),
+        ordered: listOrdered,
+        start: listOrdered ? listStart || 1 : undefined
+      })
     }
 
     listItems = []
     listOrdered = false
+    listStart = undefined
   }
 
   function flushTable() {
@@ -257,6 +287,14 @@ function markdownToBlocks(markdown: string): MarkdownBlock[] {
     }
 
     tableLines = []
+  }
+
+  function flushCallout() {
+    if (calloutLines.length > 0) {
+      blocks.push(parseCallout(calloutLines))
+    }
+
+    calloutLines = []
   }
 
   function flushCode() {
@@ -278,6 +316,7 @@ function markdownToBlocks(markdown: string): MarkdownBlock[] {
         flushParagraph()
         flushList()
         flushTable()
+        flushCallout()
         inCode = true
       }
       continue
@@ -288,7 +327,19 @@ function markdownToBlocks(markdown: string): MarkdownBlock[] {
       continue
     }
 
-    const image = parseImage(line.trim())
+    const callout = /^>\s?(.*)$/.exec(line.trim())
+
+    if (callout) {
+      flushParagraph()
+      flushList()
+      flushTable()
+      calloutLines.push(callout[1].trim())
+      continue
+    }
+
+    flushCallout()
+
+    const image = parseImage(line.trim(), sourcePath)
 
     if (image) {
       flushParagraph()
@@ -320,7 +371,7 @@ function markdownToBlocks(markdown: string): MarkdownBlock[] {
     }
 
     const unordered = /^\s*[-*]\s+(.+)$/.exec(line)
-    const ordered = /^\s*\d+[.)]\s+(.+)$/.exec(line)
+    const ordered = /^\s*(\d+)[.)]\s+(.+)$/.exec(line)
 
     if (unordered || ordered) {
       flushParagraph()
@@ -331,7 +382,10 @@ function markdownToBlocks(markdown: string): MarkdownBlock[] {
       }
 
       listOrdered = Boolean(ordered)
-      listItems.push((ordered?.[1] || unordered?.[1] || "").trim())
+      if (listItems.length === 0 && ordered) {
+        listStart = Number.parseInt(ordered[1], 10)
+      }
+      listItems.push((ordered?.[2] || unordered?.[1] || "").trim())
       continue
     }
 
@@ -339,6 +393,7 @@ function markdownToBlocks(markdown: string): MarkdownBlock[] {
       flushParagraph()
       flushList()
       flushTable()
+      flushCallout()
       continue
     }
 
@@ -349,9 +404,74 @@ function markdownToBlocks(markdown: string): MarkdownBlock[] {
   flushParagraph()
   flushList()
   flushTable()
+  flushCallout()
   flushCode()
 
-  return blocks.slice(0, 260)
+  return splitOversizedBlocks(blocks).slice(0, 260)
+}
+
+function splitOversizedBlocks(blocks: MarkdownBlock[]) {
+  const next: MarkdownBlock[] = []
+  const maxTableRows = 5
+  const maxListItems = 3
+
+  for (const block of blocks) {
+    if (block.type === "table" && (block.rows?.length || 0) > maxTableRows) {
+      const rows = block.rows || []
+
+      for (let index = 0; index < rows.length; index += maxTableRows) {
+        next.push({
+          ...block,
+          rows: rows.slice(index, index + maxTableRows)
+        })
+      }
+      continue
+    }
+
+    if (block.type === "list" && (block.items?.length || 0) > maxListItems) {
+      const items = block.items || []
+      const start = block.start || 1
+
+      for (let index = 0; index < items.length; index += maxListItems) {
+        next.push({
+          ...block,
+          items: items.slice(index, index + maxListItems),
+          start: block.ordered ? start + index : undefined
+        })
+      }
+      continue
+    }
+
+    next.push(block)
+  }
+
+  return next
+}
+
+function parseCallout(lines: string[]): MarkdownBlock {
+  const cleaned = lines.map((line) => cleanInlineText(line)).filter(Boolean)
+  const marker = /^\[!(\w+)\]/.exec(cleaned[0] || "")
+  const calloutType = marker ? marker[1].toLowerCase() : /^figura\s+\d+/i.test(cleaned[0] || "") ? "caption" : "quote"
+  const content = marker ? cleaned.slice(1) : cleaned
+  const titleLine = content[0] || ""
+  const title = titleLine.length <= 64 && content.length > 1 ? titleLine : defaultCalloutTitle(calloutType)
+  const body = titleLine.length <= 64 && content.length > 1 ? content.slice(1) : content
+
+  return {
+    type: "callout",
+    calloutType,
+    title,
+    text: body.join(" ")
+  }
+}
+
+function defaultCalloutTitle(calloutType: string) {
+  if (calloutType === "warning") return "Attenzione"
+  if (calloutType === "tip") return "BANDO in pratica"
+  if (calloutType === "important") return "Da ricordare"
+  if (calloutType === "caption") return ""
+
+  return "Nota"
 }
 
 function isTableLine(line: string) {
@@ -386,28 +506,54 @@ function parseTable(lines: string[]): MarkdownBlock | null {
   }
 }
 
-function parseImage(line: string): MarkdownBlock | null {
+function parseImage(line: string, sourcePath: string): MarkdownBlock | null {
   const obsidian = /^!\[\[([^\]|]+)(?:\|([^\]]+))?\]\]$/.exec(line)
 
   if (obsidian) {
+    const imagePath = resolveMarkdownAssetPath(obsidian[1].trim(), sourcePath)
+
     return {
       type: "image",
-      path: obsidian[1].trim(),
-      alt: obsidian[2]?.trim() || titleFromPath(obsidian[1])
+      path: imagePath,
+      alt: obsidian[2]?.trim() || titleFromPath(imagePath)
     }
   }
 
   const markdown = /^!\[([^\]]*)\]\(([^)]+)\)$/.exec(line)
 
   if (markdown) {
+    const imagePath = resolveMarkdownAssetPath(markdown[2].trim(), sourcePath)
+
     return {
       type: "image",
-      path: markdown[2].trim(),
-      alt: markdown[1].trim() || titleFromPath(markdown[2])
+      path: imagePath,
+      alt: markdown[1].trim() || titleFromPath(imagePath)
     }
   }
 
   return null
+}
+
+function resolveMarkdownAssetPath(value: string, sourcePath: string) {
+  const normalized = value.replace(/\\/g, "/").trim()
+
+  if (
+    normalized.startsWith("http://") ||
+    normalized.startsWith("https://") ||
+    normalized.startsWith("/api/")
+  ) {
+    return normalized
+  }
+
+  const withoutLeadingSlash = normalized.replace(/^\/+/, "")
+
+  if (isAllowedAssetPath(withoutLeadingSlash)) {
+    return withoutLeadingSlash
+  }
+
+  const sourceDirectory = path.posix.dirname(sourcePath.replace(/\\/g, "/"))
+
+  return path.posix.normalize(path.posix.join(sourceDirectory, normalized))
 }
 
 function cleanInlineText(value: string) {
@@ -421,12 +567,24 @@ function cleanInlineText(value: string) {
 }
 
 async function listBookAssets(store: FileWikiStore, bookId: string): Promise<BookStudioAsset[]> {
-  const assetRoot = store.resolve(`raw/assets/books/${bookId}`)
   const root = store.resolve("")
+  const assetsByPath = new Map<string, BookStudioAsset>()
+  const assetDirectories = [
+    `raw/assets/books/${bookId}`,
+    `books/${bookId}/assets`
+  ]
 
-  if (!assetRoot.startsWith(root)) return []
+  for (const directory of assetDirectories) {
+    const assetRoot = store.resolve(directory)
 
-  return walkAssets(assetRoot, root)
+    if (!assetRoot.startsWith(root)) continue
+
+    for (const asset of await walkAssets(assetRoot, root)) {
+      assetsByPath.set(asset.path, asset)
+    }
+  }
+
+  return Array.from(assetsByPath.values()).sort((left, right) => right.updatedAt.localeCompare(left.updatedAt))
 }
 
 async function walkAssets(directory: string, wikiRoot: string): Promise<BookStudioAsset[]> {

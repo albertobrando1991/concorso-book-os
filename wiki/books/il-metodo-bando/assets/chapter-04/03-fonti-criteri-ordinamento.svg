@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Fonti del diritto e criteri di soluzione</title>
+  <desc id="desc">Piramide delle fonti e criteri di gerarchia, competenza, cronologico e riserva di legge.</desc>
+  <defs>
+    <style>
+      .bg { fill: #f8fafc; }
+      .ink { fill: #172233; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 50px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 27px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 28px; font-weight: 800; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 22px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .card { fill: #ffffff; stroke: #cfd8e3; stroke-width: 3; }
+      .panel { fill: #ffffff; stroke: #d3dce7; stroke-width: 2; }
+      .blue { fill: #1f4e79; }
+      .green { fill: #2f7d5a; }
+      .amber { fill: #b7791f; }
+      .red { fill: #a94442; }
+      .gray { fill: #64748b; }
+      .level1 { fill: #dbeafe; stroke: #1f4e79; stroke-width: 3; }
+      .level2 { fill: #dcf3e8; stroke: #2f7d5a; stroke-width: 3; }
+      .level3 { fill: #fff2d7; stroke: #b7791f; stroke-width: 3; }
+      .level4 { fill: #f7e0de; stroke: #a94442; stroke-width: 3; }
+      .level5 { fill: #eef2f7; stroke: #64748b; stroke-width: 3; }
+      .band { fill: #e8f0f8; stroke: #b9cde1; stroke-width: 2; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="1600" height="1000"/>
+  <text class="ink title" x="800" y="82" text-anchor="middle">Fonti del diritto e criteri di soluzione</text>
+  <text class="muted subtitle" x="800" y="126" text-anchor="middle">Nei quiz conta sapere quale fonte prevale, chi è competente e quale limite opera.</text>
+
+  <g transform="translate(90 205)">
+    <text class="blue label" x="440" y="0" text-anchor="middle">Scala delle fonti</text>
+
+    <polygon class="level1" points="440,38 250,140 630,140"/>
+    <text class="ink body" x="440" y="102" text-anchor="middle" style="font-weight:800;">Costituzione</text>
+    <text class="muted small" x="440" y="128" text-anchor="middle">e leggi costituzionali</text>
+
+    <polygon class="level2" points="230,164 650,164 720,266 160,266"/>
+    <text class="ink body" x="440" y="218" text-anchor="middle" style="font-weight:800;">Diritto UE nei casi previsti</text>
+    <text class="muted small" x="440" y="245" text-anchor="middle">trattati, regolamenti, direttive, decisioni</text>
+
+    <polygon class="level3" points="140,290 740,290 810,392 70,392"/>
+    <text class="ink body" x="440" y="344" text-anchor="middle" style="font-weight:800;">Fonti primarie</text>
+    <text class="muted small" x="440" y="371" text-anchor="middle">legge, decreto-legge, decreto legislativo, legge regionale</text>
+
+    <polygon class="level4" points="50,416 830,416 880,518 0,518"/>
+    <text class="ink body" x="440" y="470" text-anchor="middle" style="font-weight:800;">Fonti secondarie</text>
+    <text class="muted small" x="440" y="497" text-anchor="middle">regolamenti governativi, ministeriali, regionali e locali</text>
+
+    <polygon class="level5" points="0,542 880,542 880,644 0,644"/>
+    <text class="ink body" x="440" y="596" text-anchor="middle" style="font-weight:800;">Fonti-fatto e prassi ammesse</text>
+    <text class="muted small" x="440" y="623" text-anchor="middle">consuetudine solo nei limiti riconosciuti</text>
+  </g>
+
+  <g transform="translate(1040 202)">
+    <rect class="card" x="0" y="0" width="470" height="650" rx="18"/>
+    <text class="blue label" x="235" y="58" text-anchor="middle">Quattro criteri</text>
+
+    <g transform="translate(42 98)">
+      <rect class="panel" x="0" y="0" width="386" height="106" rx="15"/>
+      <text class="blue label" x="32" y="43">Gerarchia</text>
+      <text class="muted small" x="32" y="70">fonte inferiore</text>
+      <text class="muted small" x="32" y="96">non viola la superiore</text>
+    </g>
+
+    <g transform="translate(42 228)">
+      <rect class="panel" x="0" y="0" width="386" height="106" rx="15"/>
+      <text class="green label" x="32" y="43">Competenza</text>
+      <text class="muted small" x="32" y="70">conta il livello</text>
+      <text class="muted small" x="32" y="96">abilitato</text>
+    </g>
+
+    <g transform="translate(42 358)">
+      <rect class="panel" x="0" y="0" width="386" height="106" rx="15"/>
+      <text class="amber label" x="32" y="43">Cronologico</text>
+      <text class="muted small" x="32" y="70">tra pari livello</text>
+      <text class="muted small" x="32" y="96">prevale la successiva</text>
+    </g>
+
+    <g transform="translate(42 488)">
+      <rect class="panel" x="0" y="0" width="386" height="106" rx="15"/>
+      <text class="red label" x="32" y="43">Riserva di legge</text>
+      <text class="muted small" x="32" y="70">alcune materie</text>
+      <text class="muted small" x="32" y="96">richiedono legge</text>
+    </g>
+  </g>
+
+  <rect class="band" x="410" y="890" width="780" height="62" rx="31"/>
+  <text class="blue" x="800" y="930" text-anchor="middle" style="font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:24px;font-weight:800;">Domanda guida: fonte, materia, controllo.</text>
+</svg>

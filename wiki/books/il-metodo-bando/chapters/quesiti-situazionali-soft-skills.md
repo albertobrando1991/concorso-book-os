@@ -22,22 +22,3 @@ last_compiled_from: ["sources/struttura-madre-il-metodo-bando.md"]
 
 # Quesiti situazionali e soft skills
 
-## Obiettivo didattico
-Preparare alle domande che valutano comportamento, priorita, comunicazione e problem solving.
-
-## Specifica struttura madre
-Cosa sono i quesiti situazionali, perche non sono buon senso, risposta coerente con PA, principi guida: legalita, imparzialita, trasparenza, collaborazione, responsabilita, orientamento al cittadino, riservatezza, proporzionalita. Situazioni: cittadino arrabbiato, collega in difficolta, superiore, documento riservato, errore ufficio, scadenza, conflitto utenti.
-
-## Strumenti da inserire
-20 quesiti situazionali commentati, tabella risposta impulsiva vs istituzionale, box come pensa la commissione.
-
-## Testo editoriale
-Da sviluppare con Manual Writer Agent.
-
-## Bozza agente
-
-## Note editoriali
-- Da rivedere per nuova fonte [[sources/gazzetta-ufficiale-n-111-del-15-maggio-2025-decreto-pat-e-formweb]].
-
-- Da rivedere per nuova fonte [[sources/cedu-savino-ed-altri-c-italia-28-aprile-2009-concorsi-e-art-6-cedu]].
-

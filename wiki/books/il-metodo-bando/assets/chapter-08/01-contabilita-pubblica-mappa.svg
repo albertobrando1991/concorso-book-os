@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Contabilità pubblica essenziale</title>
+  <desc id="desc">Mappa generale della contabilità pubblica: programmare, autorizzare, gestire, controllare e rendicontare le risorse pubbliche.</desc>
+  <defs>
+    <style>
+      .bg { fill: #f8fafc; }
+      .ink { fill: #172233; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 46px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 24px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 27px; font-weight: 800; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 21px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 19px; }
+      .card { fill: #ffffff; stroke: #cfd8e3; stroke-width: 3; }
+      .hub { fill: #ffffff; stroke: #1f4e79; stroke-width: 5; }
+      .chip { fill: #eef4fb; stroke: #c5d7ea; stroke-width: 2.5; }
+      .note { fill: #fff7ed; stroke: #e7c18e; stroke-width: 2.5; }
+      .blue { fill: #1f4e79; }
+      .green { fill: #2f7d5a; }
+      .amber { fill: #b7791f; }
+      .red { fill: #a94442; }
+      .gray { fill: #64748b; }
+      .line { stroke: #9db4ca; stroke-width: 4; stroke-linecap: round; fill: none; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="1600" height="900"/>
+  <text class="ink title" x="800" y="70" text-anchor="middle">Contabilità pubblica essenziale</text>
+  <text class="muted subtitle" x="800" y="110" text-anchor="middle">Il ciclo che rende visibile come la PA usa le risorse pubbliche.</text>
+
+  <g transform="translate(530 200)">
+    <rect class="hub" width="540" height="145" rx="28"/>
+    <text class="blue label" x="270" y="55" text-anchor="middle">Risorse pubbliche</text>
+    <text class="muted body" x="270" y="92" text-anchor="middle">entrate, spese, patrimonio,</text>
+    <text class="muted body" x="270" y="122" text-anchor="middle">controlli e responsabilità</text>
+  </g>
+
+  <line class="line" x1="800" y1="345" x2="800" y2="425"/>
+  <line class="line" x1="230" y1="425" x2="1370" y2="425"/>
+  <line class="line" x1="230" y1="425" x2="230" y2="465"/>
+  <line class="line" x1="515" y1="425" x2="515" y2="465"/>
+  <line class="line" x1="800" y1="425" x2="800" y2="465"/>
+  <line class="line" x1="1085" y1="425" x2="1085" y2="465"/>
+  <line class="line" x1="1370" y1="425" x2="1370" y2="465"/>
+
+  <g transform="translate(80 465)">
+    <rect class="card" width="300" height="130" rx="20"/>
+    <text class="blue label" x="150" y="44" text-anchor="middle">Programmare</text>
+    <text class="muted small" x="150" y="78" text-anchor="middle">DUP, bilancio,</text>
+    <text class="muted small" x="150" y="103" text-anchor="middle">obiettivi e vincoli</text>
+  </g>
+  <g transform="translate(365 615)">
+    <rect class="card" width="300" height="130" rx="20"/>
+    <text class="green label" x="150" y="44" text-anchor="middle">Autorizzare</text>
+    <text class="muted small" x="150" y="78" text-anchor="middle">stanziamenti,</text>
+    <text class="muted small" x="150" y="103" text-anchor="middle">copertura, variazioni</text>
+  </g>
+  <g transform="translate(650 465)">
+    <rect class="card" width="300" height="130" rx="20"/>
+    <text class="amber label" x="150" y="44" text-anchor="middle">Gestire</text>
+    <text class="muted small" x="150" y="78" text-anchor="middle">accertare, impegnare,</text>
+    <text class="muted small" x="150" y="103" text-anchor="middle">liquidare e pagare</text>
+  </g>
+  <g transform="translate(935 615)">
+    <rect class="card" width="300" height="130" rx="20"/>
+    <text class="red label" x="150" y="44" text-anchor="middle">Controllare</text>
+    <text class="muted small" x="150" y="78" text-anchor="middle">revisori, Corte,</text>
+    <text class="muted small" x="150" y="103" text-anchor="middle">regolarità e cassa</text>
+  </g>
+  <g transform="translate(1220 465)">
+    <rect class="card" width="300" height="130" rx="20"/>
+    <text class="gray label" x="150" y="44" text-anchor="middle">Rendicontare</text>
+    <text class="muted small" x="150" y="78" text-anchor="middle">risultati, residui,</text>
+    <text class="muted small" x="150" y="103" text-anchor="middle">avanzo e responsabilità</text>
+  </g>
+
+  <rect class="note" x="260" y="800" width="1080" height="58" rx="24"/>
+  <text class="amber" x="800" y="837" text-anchor="middle" style="font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:22px;font-weight:800;">Domanda guida: la PA aveva risorse, autorizzazione, controllo e prova della gestione?</text>
+</svg>

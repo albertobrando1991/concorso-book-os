@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Soggetti privacy nella pubblica amministrazione</title>
+  <desc id="desc">Mappa dei soggetti privacy: titolare, responsabile, autorizzati, contitolari, DPO, Garante e interessato.</desc>
+  <defs>
+    <style>
+      .bg { fill: #f8fafc; }
+      .ink { fill: #172233; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 46px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 24px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 26px; font-weight: 800; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 21px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 19px; }
+      .card { fill: #ffffff; stroke: #cfd8e3; stroke-width: 3; }
+      .hub { fill: #ffffff; stroke: #1f4e79; stroke-width: 5; }
+      .chip { fill: #eef4fb; stroke: #c5d7ea; stroke-width: 2.5; }
+      .note { fill: #fff7ed; stroke: #e7c18e; stroke-width: 2.5; }
+      .stop { fill: #f7e0de; stroke: #d4a2a0; stroke-width: 2.5; }
+      .blue { fill: #1f4e79; }
+      .green { fill: #2f7d5a; }
+      .amber { fill: #b7791f; }
+      .red { fill: #a94442; }
+      .line { stroke: #9db4ca; stroke-width: 4; stroke-linecap: round; fill: none; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="1600" height="900"/>
+  <text class="ink title" x="800" y="70" text-anchor="middle">Soggetti privacy nella PA</text>
+  <text class="muted subtitle" x="800" y="110" text-anchor="middle">Il titolare decide finalità e mezzi; gli altri ruoli non vanno confusi.</text>
+
+  <line class="line" x1="800" y1="320" x2="800" y2="430"/>
+  <line class="line" x1="800" y1="430" x2="280" y2="430"/>
+  <line class="line" x1="800" y1="430" x2="1320" y2="430"/>
+  <line class="line" x1="280" y1="430" x2="280" y2="500"/>
+  <line class="line" x1="540" y1="430" x2="540" y2="500"/>
+  <line class="line" x1="1060" y1="430" x2="1060" y2="500"/>
+  <line class="line" x1="1320" y1="430" x2="1320" y2="500"/>
+
+  <g transform="translate(560 190)">
+    <rect class="hub" width="480" height="130" rx="26"/>
+    <text class="blue label" x="240" y="48" text-anchor="middle">Titolare del trattamento</text>
+    <text class="muted body" x="240" y="84" text-anchor="middle">di norma l'amministrazione</text>
+    <text class="muted small" x="240" y="110" text-anchor="middle">decide finalità e mezzi</text>
+  </g>
+
+  <g transform="translate(110 500)">
+    <rect class="card" width="340" height="130" rx="20"/>
+    <text class="green label" x="170" y="44" text-anchor="middle">Responsabile</text>
+    <text class="muted small" x="170" y="78" text-anchor="middle">tratta dati per conto</text>
+    <text class="muted small" x="170" y="103" text-anchor="middle">del titolare</text>
+  </g>
+  <g transform="translate(470 500)">
+    <rect class="card" width="340" height="130" rx="20"/>
+    <text class="amber label" x="170" y="44" text-anchor="middle">Autorizzati</text>
+    <text class="muted small" x="170" y="78" text-anchor="middle">operano sotto autorità</text>
+    <text class="muted small" x="170" y="103" text-anchor="middle">e istruzioni</text>
+  </g>
+  <g transform="translate(790 500)">
+    <rect class="chip" width="340" height="130" rx="20"/>
+    <text class="blue label" x="170" y="44" text-anchor="middle">DPO / RPD</text>
+    <text class="muted small" x="170" y="78" text-anchor="middle">informa, consiglia,</text>
+    <text class="muted small" x="170" y="103" text-anchor="middle">sorveglia e coopera</text>
+  </g>
+  <g transform="translate(1150 500)">
+    <rect class="card" width="340" height="130" rx="20"/>
+    <text class="red label" x="170" y="44" text-anchor="middle">Interessato</text>
+    <text class="muted small" x="170" y="78" text-anchor="middle">persona fisica cui</text>
+    <text class="muted small" x="170" y="103" text-anchor="middle">i dati si riferiscono</text>
+  </g>
+
+  <g transform="translate(310 690)">
+    <rect class="chip" width="380" height="92" rx="20"/>
+    <text class="blue label" x="190" y="38" text-anchor="middle">Contitolari</text>
+    <text class="muted small" x="190" y="68" text-anchor="middle">finalità e mezzi determinati insieme</text>
+  </g>
+  <g transform="translate(910 690)">
+    <rect class="stop" width="380" height="92" rx="20"/>
+    <text class="red label" x="190" y="38" text-anchor="middle">Garante Privacy</text>
+    <text class="muted small" x="190" y="68" text-anchor="middle">autorità nazionale di controllo</text>
+  </g>
+
+  <rect class="note" x="250" y="820" width="1100" height="52" rx="24"/>
+  <text class="amber" x="800" y="854" text-anchor="middle" style="font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:22px;font-weight:800;">Errore da evitare: il DPO supporta e controlla, ma non sostituisce il titolare.</text>
+</svg>

@@ -22,22 +22,3 @@ last_compiled_from: ["sources/struttura-madre-il-metodo-bando.md","topics/diario
 
 # Il diario degli errori
 
-## Obiettivo didattico
-Insegnare a trasformare gli errori in programma di ripasso.
-
-## Specifica struttura madre
-Perche correggere non basta, categorie memoria/concetto/distrazione/strategia/ansia, compilare diario, trasformare errori in flashcard, individuare materie che peggiorano, organizzare ripasso dagli errori.
-
-## Strumenti da inserire
-10 pagine diario errori compilabile, esempio compilato, tabella revisione settimanale, box "L'errore e' un dato, non un fallimento".
-
-## Testo editoriale
-Da sviluppare con Manual Writer Agent.
-
-## Bozza agente
-
-## Note editoriali
-- Da rivedere per nuova fonte [[sources/gazzetta-ufficiale-n-111-del-15-maggio-2025-decreto-pat-e-formweb]].
-
-- Da rivedere per nuova fonte [[sources/cedu-savino-ed-altri-c-italia-28-aprile-2009-concorsi-e-art-6-cedu]].
-

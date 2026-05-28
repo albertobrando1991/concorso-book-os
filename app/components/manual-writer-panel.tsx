@@ -16,6 +16,7 @@ interface WriterResult {
   chapterPath: string
   changedFiles: string[]
   knowledgeUsed: string[]
+  memoryUsed?: string[]
   draft: string
   writerProvider: WriterProvider
   warnings: string[]
@@ -30,8 +31,12 @@ const modeOptions: Array<{ value: ManualWriterMode; label: string }> = [
 ]
 
 const providerOptions: Array<{ value: WriterProvider; label: string }> = [
-  { value: "codex", label: "GPT" },
-  { value: "claude", label: "Claude" }
+  { value: "codex", label: "Codex / GPT" },
+  { value: "claude", label: "Claude" },
+  { value: "kimi", label: "Kimi" },
+  { value: "openai", label: "OpenAI API" },
+  { value: "hermes", label: "Hermes" },
+  { value: "local", label: "Locale" }
 ]
 
 export function ManualWriterPanel({
@@ -43,9 +48,7 @@ export function ManualWriterPanel({
   const [chapters, setChapters] = useState(initialChapters)
   const [chapterPath, setChapterPath] = useState(initialChapters[0]?.path || "")
   const [mode, setMode] = useState<ManualWriterMode>("integrate")
-  const [selectedProvider, setSelectedProvider] = useState<WriterProvider>(
-    writerProvider === "claude" ? "claude" : "codex"
-  )
+  const [selectedProvider, setSelectedProvider] = useState<WriterProvider>(writerProvider)
   const [instruction, setInstruction] = useState(
     "Scrivi il capitolo effettivo come testo da manuale Metodo BANDO, non un riepilogo tecnico. Usa prima il cervello wiki: struttura madre, nota capitolo, source notes, topic pages, entity pages e design system; aggiungi caso guidato, domanda-trappola, errori frequenti, mini-esercizio e note di ricerca web ufficiale se servono aggiornamenti."
   )
@@ -112,7 +115,7 @@ export function ManualWriterPanel({
         </div>
         <div className={`writerLlmStatus ${selectedProvider === "local" ? "disabled" : "enabled"}`}>
           <BookOpenCheck size={18} aria-hidden />
-          <span>{selectedProvider === "claude" ? "Claude Code attivo" : "GPT attivo"}</span>
+          <span>{providerStatusLabel(selectedProvider)}</span>
         </div>
       </header>
 
@@ -155,8 +158,8 @@ export function ManualWriterPanel({
       {selectedChapter ? (
         <p className="writerMeta">
           File: <code>{selectedChapter.path}</code> | Stato: {selectedChapter.status} | Modello:{" "}
-          <code>{selectedProvider === "claude" ? "claude-opus-4-7" : writerModel}</code> | Reasoning:{" "}
-          <code>{writerReasoningEffort}</code>
+          <code>{providerModelLabel(selectedProvider, writerModel)}</code> | Reasoning:{" "}
+          <code>{providerReasoningLabel(selectedProvider, writerReasoningEffort)}</code>
         </p>
       ) : null}
 
@@ -199,8 +202,42 @@ export function ManualWriterPanel({
               ))}
             </ul>
           </details>
+          {result.memoryUsed && result.memoryUsed.length > 0 ? (
+            <details>
+              <summary>Memoria locale richiamata</summary>
+              <ul>
+                {result.memoryUsed.map((item, index) => (
+                  <li key={`${item}-${index}`}>{item}</li>
+                ))}
+              </ul>
+            </details>
+          ) : null}
         </div>
       ) : null}
     </section>
   )
+}
+
+function providerStatusLabel(provider: WriterProvider) {
+  if (provider === "codex") return "Codex / GPT attivo"
+  if (provider === "claude") return "Claude attivo"
+  if (provider === "kimi") return "Kimi attivo"
+  if (provider === "openai") return "OpenAI API attiva"
+  if (provider === "hermes") return "Hermes attivo"
+
+  return "Writer locale"
+}
+
+function providerModelLabel(provider: WriterProvider, configuredModel: string) {
+  if (provider === "claude") return "claude-opus-4-7"
+  if (provider === "kimi") return "kimi-k2.6"
+  if (provider === "local") return "local"
+
+  return configuredModel
+}
+
+function providerReasoningLabel(provider: WriterProvider, configuredReasoning: string) {
+  if (provider === "local" || provider === "kimi" || provider === "openai" || provider === "hermes") return "n/a"
+
+  return configuredReasoning
 }

@@ -9,7 +9,7 @@ entities: ["Metodo BANDO","Bando Decoder","Manual Writer Agent"]
 source_refs: ["sources/book-layout-typography-standards.md","sources/struttura-madre-il-metodo-bando.md","sources/metodo-bando-progetto-editoriale.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.92
-updated_at: 2026-05-10T12:59:21+02:00
+updated_at: 2026-05-28T13:50:00+02:00
 created_at: 2026-05-10T12:59:21+02:00
 review_required: false
 canonical: true
@@ -27,8 +27,37 @@ Non deve sembrare:
 - una raccolta generica di quiz;
 - una dispensa scolastica improvvisata.
 
+## Aggiornamento layout editoriale
+Il riferimento operativo aggiornato e' il documento:
+
+```text
+G:\Il mio Drive\PROGETTO CAPITALE PERSONALE SITO\PROG_LIBRO_CAPITALE PERSONALE\proposta_layout_editoriale_metodo_bando.docx
+```
+
+Decisione applicata:
+- impostare il libro come **manuale premium-workbook**;
+- usare gabbia editoriale compatta 16,8 x 24 cm / 17 x 24 cm;
+- mantenere il colore pagina gia' in uso nella preview;
+- adottare gerarchia Playfair Display + Montserrat;
+- usare palette controllata Navy, Bordeaux, Muted Gold, Off-White e Rich Black;
+- usare template ricorrenti riconoscibili: Ancora, Valore, Caso pratico, Diario, Profilo;
+- conservare margini ottimizzati per legatura, leggibilita e workbook.
+
 ## Formato fisico consigliato
-Formato operativo canonico per dashboard, revisione ed export di lavoro:
+Formato editoriale operativo attuale per libro e preview:
+
+```text
+16,8 x 24 cm
+alternativa equivalente: 17 x 24 cm
+```
+
+Motivo:
+- allinea la preview al formato libro proposto;
+- mantiene una pagina piu editoriale e meno da dispensa;
+- sostiene un volume da 300+ pagine con ritmo da manuale-workbook;
+- lascia spazio a box, tabelle compilabili, griglie e pagine operative.
+
+Formato di revisione interna/legacy:
 
 ```text
 A4 verticale
@@ -41,14 +70,14 @@ Motivo:
 - facilita revisione, stampa interna, annotazione e confronto tra versioni;
 - mantiene il libro autonomo su carta e pronto per conversioni editoriali successive.
 
-Formato commerciale alternativo per edizione stampa compatta:
+Formato commerciale compatto gia assorbito nella decisione attuale:
 
 ```text
 17 x 24 cm circa
 KDP equivalente: 6.69 x 9.61 in
 ```
 
-Usarlo solo in fase di impaginazione finale se si decide di produrre una versione piu compatta.
+Usarlo come riferimento di stampa quando si passa dall'anteprima operativa al file editoriale finale.
 
 Formato alternativo per edizione molto pratica/workbook:
 
@@ -59,7 +88,18 @@ Formato alternativo per edizione molto pratica/workbook:
 Usarlo solo se aumentano molto schede compilabili, griglie, tabelle e immagini e non si vuole mantenere A4.
 
 ## Margini e gabbia
-Per il formato A4 di dashboard/revisione:
+Per il formato editoriale 16,8 x 24 / 17 x 24:
+
+```text
+interno/gutter: 18 mm
+esterno: 16 mm
+alto: 17 mm
+basso: 20 mm
+area testo: colonna singola
+target riga: 58-64 caratteri medi
+```
+
+Per il formato A4 di revisione interna:
 
 ```text
 interno/gutter: 20 mm
@@ -69,7 +109,7 @@ basso: 22 mm
 area testo: colonna singola
 ```
 
-Per un eventuale formato 17 x 24 cm tra 300 e 500 pagine:
+Per una variante 17 x 24 cm con dorso molto spesso, solo se la tipografia richiede piu sicurezza lato legatura:
 
 ```text
 interno/gutter: 19 mm
@@ -83,7 +123,7 @@ Regola:
 - niente testo troppo vicino alla legatura;
 - no layout a due colonne per la spiegazione principale;
 - box e strumenti devono entrare nella colonna senza comprimere il testo;
-- la preview dashboard deve essere paginata in singole pagine A4, con footer e numerazione;
+- la preview dashboard deve essere paginata in singole pagine editoriali 16,8 x 24 cm, con footer e numerazione;
 - il testo corrente deve essere giustificato, con sillabazione italiana, vedove/orfani controllati e titoli non lasciati soli a fine pagina;
 - tabelle larghe possono usare pagina piena o orientamento dedicato solo in appendice/PDF.
 
@@ -93,19 +133,19 @@ Bleed:
 - se anche una sola pagina interna richiede bleed, preparare l'intero file secondo le regole di bleed della piattaforma di stampa.
 
 ## Font
-Scelta consigliata:
+Scelta applicata:
 
 ```text
-Testo principale: Source Serif 4
-Titoli, box, didascalie, tabelle: Source Sans 3
-Fallback testo: Charter, Georgia, serif
-Fallback sans: Segoe UI, Arial, sans-serif
+Titolo copertina e titoli capitolo: Playfair Display
+Sottotitoli, box, corpo testo, tabelle e workbook: Montserrat
+Fallback display: Georgia, Times New Roman, serif
+Fallback testo: Segoe UI, Arial, sans-serif
 ```
 
 Motivo:
-- Source Serif 4 e' adatto alla lettura lunga e ha optical sizes;
-- Source Sans 3 mantiene chiarezza operativa in titoli, box e tabelle;
-- entrambe le famiglie sono disponibili con licenza open source/commerciale tramite Adobe Fonts.
+- Playfair Display costruisce autorevolezza e memoria editoriale;
+- Montserrat mantiene istruzione, dati, liste e procedure molto leggibili;
+- non introdurre altri font e non usare piu di tre pesi nella stessa pagina.
 
 Alternative premium per impaginazione finale:
 - Minion Pro per corpo;
@@ -115,37 +155,39 @@ Alternative premium per impaginazione finale:
 Corpo principale:
 
 ```text
-10.8-11 pt
-interlinea: 14.2-14.8 pt
-spazio dopo paragrafo: 4-6 pt
-allineamento: preferibilmente bandiera sinistra per bozza e digitale; giustificato solo in PDF finale con sillabazione controllata
+Montserrat Regular 9,2-9,8 pt
+interlinea: 12,5-13,2 pt
+spazio dopo paragrafo: 3-5 pt
+allineamento: giustificato nella preview/PDF con sillabazione controllata
 ```
 
 Titoli:
 
 ```text
-H1 capitolo: 24-28 pt Source Sans 3 Bold
-H2 sezione: 15-17 pt Source Sans 3 Semibold
-H3 blocco operativo: 11.5-13 pt Source Sans 3 Semibold
-Didascalie: 8.5-9 pt Source Sans 3
-Note/fonti: 8.5-9 pt Source Sans 3
+H1 capitolo: 24-30 pt Playfair Display Semibold/Bold
+H2 sezione: 15-17 pt Playfair Display Semibold o Montserrat Bold
+H3 blocco operativo: 10-12 pt Montserrat Semibold/Bold
+Didascalie: 8-9 pt Montserrat
+Note/fonti: 8-9 pt Montserrat
+Tabelle/workbook: 7,5-8,5 pt Montserrat
 ```
 
 Riga:
 
 ```text
-target: 60-75 caratteri medi per riga
-limite accettabile: 45-90 caratteri
+target: 58-64 caratteri medi per riga
+limite accettabile: 45-75 caratteri
 ```
 
 ## Dimensioni digitali/dashboard
 Preview dashboard:
 
 ```text
-corpo: 17 px
-line-height: 1.56
-larghezza testo: max 68ch
-spaziatura paragrafo: 0.75rem
+formato pagina: 16,8 x 24 cm
+corpo: circa 12.8 px Montserrat
+line-height: 1.45
+larghezza testo: max 64ch
+spaziatura paragrafo: 0.55-0.65rem
 ```
 
 Il digitale deve restare accessibile: il layout non deve rompersi se il lettore aumenta interlinea o spaziatura.
@@ -155,15 +197,20 @@ Ogni capitolo deve seguire questa architettura visiva:
 
 1. Numero capitolo.
 2. Titolo chiaro e orientato al bisogno.
-3. Promessa/obiettivo del capitolo.
-4. Mappa BANDO del capitolo.
-5. Spiegazione principale in blocchi brevi.
-6. Box operativi.
-7. Caso guidato o esempio.
-8. Domande e mini-esercizi.
-9. Errori frequenti.
-10. Riferimenti consolidati.
-11. Note di review.
+3. Barra BANDO del capitolo.
+4. Promessa/obiettivo del capitolo.
+5. Mappa BANDO del capitolo.
+6. Spiegazione principale in blocchi brevi.
+7. Box operativi.
+8. Caso guidato o esempio.
+9. Domande e mini-esercizi.
+10. Errori frequenti.
+11. Riferimenti consolidati.
+12. Note di review.
+
+Numero capitolo:
+- usare Muted Gold come micro-accento;
+- non superare il 3-5% della pagina interna.
 
 ## Tassonomia box
 Usare box ricorrenti, con nomi stabili:
@@ -185,11 +232,17 @@ Da verificare
 ```
 
 Colori:
-- blu istituzionale: metodo, mappe, definizioni;
-- verde: checklist, conferme, output;
-- ambra: errori, trappole, attenzione;
-- rosso solo per blocchi critici o review;
-- grigio neutro per fonti, note, metadati.
+- Navy Dark `#0F172A`: aperture di parte, header, titoli istituzionali, dorso;
+- Rich Black `#020617`: testi scuri e profondita;
+- Aged Paper `#E7DDC4`: copertina, workbook, box concettuali, mai come unico colore pagina se la preview ha gia un colore stabilito;
+- Bordeaux `#7A2430`: CTA, griglie BANDO, casi pratici, errori e azioni;
+- Muted Gold `#D4AF37`: filetti, numeri, parole chiave, separatori;
+- Off-White `#F8FAFC`: schemi, mappe, respiro e pagine dense.
+
+Limiti:
+- oro come micro-accento: 3-5% interno, massimo 10% copertina;
+- bordeaux massimo 5-8% nella pagina;
+- Navy dominante solo nelle pagine-segnale.
 
 I box non devono diventare decorazione: ogni box deve produrre utilita didattica.
 

@@ -2,6 +2,7 @@ import { IngestAgent } from "../agents/ingest-agent"
 import { ManualWriterAgent, type ManualWriterMode } from "../agents/manual-writer-agent"
 import { classifySource } from "../agents/classifier"
 import { DEFAULT_BOOK_ID, getWriterConfig } from "../config"
+import { LocalAgentMemory } from "../memory/local-agent-memory"
 import { extractPdfMarkdownWithGlmOcr } from "../ocr/glm-ocr"
 import { parseFrontmatter } from "../wiki/frontmatter"
 import { FileWikiStore } from "../wiki/file-store"
@@ -149,6 +150,34 @@ export async function importSourceForHermes(input: HermesSourceImportInput, stor
     "log.md",
     `\n- ${new Date().toISOString()} | hermes_import | ${title} | url=${input.url} | source=${sourcePath} | chapter=${linkedChapterPath || "none"} | writer=${writerResult ? "yes" : "no"}`
   )
+  await LocalAgentMemory.fromConfig().captureConversation({
+    scope: "hermes-import",
+    route: "importSourceForHermes",
+    messages: [
+      {
+        role: "user",
+        content: [
+          input.query ? `query=${input.query}` : "",
+          input.url ? `url=${input.url}` : "",
+          input.chapterPath ? `chapterPath=${input.chapterPath}` : "",
+          input.instruction ? `instruction=${input.instruction}` : ""
+        ].filter(Boolean).join("\n")
+      }
+    ],
+    reply: [
+      `Fonte importata: ${title}.`,
+      `Source note: ${sourcePath}.`,
+      `Raw markdown: ${rawMarkdownPath}.`,
+      linkedChapterPath ? `Capitolo collegato: ${linkedChapterPath}.` : "",
+      writerResult ? `Writer eseguito con provider ${writerResult.writerProvider}.` : ""
+    ].filter(Boolean).join("\n"),
+    metadata: {
+      sourcePath,
+      rawMarkdownPath,
+      linkedChapterPath,
+      writer: Boolean(writerResult)
+    }
+  }).catch(() => undefined)
 
   return {
     status: "completed",

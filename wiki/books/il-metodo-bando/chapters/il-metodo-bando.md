@@ -2,14 +2,14 @@
 id: chapter-il-metodo-bando
 type: chapter
 title: Il Metodo BANDO
-status: to_expand
+status: revised_draft
 domain: concorsi pubblici italiani
 topics: ["metodo bando","piano 30 60 90 giorni","diario errori"]
 entities: ["Metodo BANDO","Piano 30/60/90 giorni","Diario degli errori","Bando Decoder"]
 source_refs: ["sources/struttura-madre-il-metodo-bando.md","sources/metodo-bando-progetto-editoriale.md","sources/d-p-r-9-maggio-1994-n-487-accesso-agli-impieghi-pubblici-e-concorsi.md","sources/d-p-r-16-giugno-2023-n-82-modifiche-al-d-p-r-487-1994-sui-concorsi.md","sources/d-lgs-27-ottobre-2009-n-150-performance.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.94
-updated_at: "2026-05-25T15:30:00Z"
+updated_at: 2026-05-28T17:35:00+02:00
 created_at: "2026-05-09T01:05:00.000Z"
 review_required: true
 canonical: true
@@ -21,19 +21,10 @@ last_compiled_from: ["topics/metodo-bando.md","topics/piano-30-60-90-giorni.md",
 last_editorial_review: "2026-05-25T15:30:00Z"
 ---
 
-# Il Metodo BANDO
+# Capitolo 3 - Il Metodo BANDO
 
-## Obiettivo didattico
-Far usare al lettore un sistema ripetibile: leggere il bando, dividere le materie, trovare i nuclei ad alta probabilità, costruire un diario e allenarsi sugli output.
 
-## Specifica struttura madre
-Il metodo deve diventare il cuore riconoscibile del prodotto: B = Bando, A = Aree, N = Nuclei, D = Diario, O = Output. Il capitolo deve spiegare le cinque fasi, mostrare esempi su concorso amministrativo, enti locali e ministeriale, distinguere metodo lineare e ciclico, e indicare come usarlo con 30 giorni, 60 giorni, 90 giorni o più concorsi contemporaneamente.
-
-Strumenti obbligatori: schema visivo BANDO, mini-mappa dal bando al piano, pagina compilabile "Il mio concorso in una pagina".
-
-## Testo editoriale
-
-### Apertura editoriale
+## Perché serve un metodo
 
 Il Metodo BANDO nasce da un problema semplice: molti candidati studiano, ma non governano la preparazione. Leggono pagine, fanno quiz, salvano file, seguono gruppi e corsi, ma non sempre sanno spiegare perché stanno studiando proprio quella materia, in quel modo, in quella settimana.
 
@@ -49,7 +40,11 @@ BANDO significa:
 
 Questa non è una formula motivazionale. È una procedura di lavoro.
 
-### Perché il metodo è il prodotto
+![Mappa generale delle cinque fasi del Metodo BANDO: Bando, Aree, Nuclei, Diario e Output.](../assets/chapter-03/01-metodo-bando-mappa-generale.png)
+
+> *Figura 3.1 - Il Metodo BANDO trasforma il bando ufficiale in studio governato e allenamento della prova.*
+
+## Perché il metodo è il prodotto
 
 La concorrenza spesso offre tre cose: un manuale più grande, una raccolta di quiz più lunga o un corso più fitto. Tutte possono essere utili, ma nessuna risolve da sola il problema principale: decidere che cosa fare con il tempo che hai.
 
@@ -63,7 +58,11 @@ Da questa domanda derivano tutte le altre:
 - quali errori stanno rallentando il percorso;
 - quale forma di allenamento serve davvero.
 
-### Lo schema generale
+![Schema che mostra il passaggio dai materiali dispersi alla procedura BANDO con decisioni, priorità, calendario e simulazioni.](../assets/chapter-03/02-materiali-dispersi-procedura-bando.png)
+
+> *Figura 3.2 - Il valore del metodo non è accumulare materiali, ma decidere come usarli.*
+
+## Lo schema generale
 
 | Fase | Funzione | Prodotto concreto |
 |---|---|---|
@@ -73,7 +72,11 @@ Da questa domanda derivano tutte le altre:
 | **D - Diario** | Rendere visibili errori, scadenze e ripassi. | Diario errori e calendario. |
 | **O - Output** | Allenare la forma della prova. | Quiz, risposta, caso, orale o simulazione. |
 
-### B - Bando
+![Schema che collega ogni fase del Metodo BANDO al relativo prodotto concreto: Decoder, mappa, lista, diario e output.](../assets/chapter-03/03-fasi-bando-prodotti-concreti.png)
+
+> *Figura 3.3 - Ogni fase del metodo deve produrre un artefatto operativo, non solo un’intenzione.*
+
+## B - Bando
 
 La prima fase è leggere il bando come un documento strategico. Non basta sapere che il concorso esiste. Devi capire se puoi partecipare, quale profilo viene selezionato, quali prove affronterai, quali materie saranno valutate, quali punteggi contano, quali soglie devi superare e quali scadenze non puoi sbagliare.
 
@@ -89,7 +92,7 @@ Questa fase produce il Bando Decoder. Se non hai compilato almeno una scheda sin
 - Quali punteggi e soglie modificano la strategia?
 - Quali scadenze e documenti devo controllare?
 
-### A - Aree
+## A - Aree
 
 La seconda fase divide le materie in aree. Questo passaggio impedisce di trattare il programma come una lista piatta. Non tutte le materie hanno lo stesso ruolo.
 
@@ -102,7 +105,7 @@ In un concorso amministrativo, per esempio, puoi distinguere:
 
 Questa divisione permette di evitare due errori opposti: studiare tutto allo stesso modo oppure tagliare senza criterio.
 
-### N - Nuclei
+## N - Nuclei
 
 La terza fase seleziona i nuclei. Un nucleo è un concetto che ha alta probabilità di tornare, alta utilità trasversale o alto rischio di errore. Non coincide necessariamente con il capitolo più lungo del manuale.
 
@@ -112,7 +115,7 @@ Il nucleo è ciò che devi saper riconoscere, spiegare e usare.
 
 **Regola pratica:** se un argomento non sai trasformarlo in una definizione, un esempio e una domanda da commissario, non lo possiedi ancora.
 
-### D - Diario
+## D - Diario
 
 La quarta fase è il diario. È la parte meno appariscente e spesso più decisiva. Il diario serve a non studiare al buio.
 
@@ -129,7 +132,7 @@ Il diario deve contenere almeno quattro elementi:
 
 Il diario non deve diventare un quaderno decorativo. Deve aiutarti a prendere decisioni migliori.
 
-### O - Output
+## O - Output
 
 La quinta fase è l’output. Ogni concorso chiede al candidato di produrre qualcosa: una risposta a quiz, una risposta scritta, una soluzione a un caso, un’esposizione orale, una scelta situazionale, un documento, una griglia o una procedura.
 
@@ -145,7 +148,7 @@ Nel Metodo BANDO ogni blocco di studio deve finire con un output.
 | Ho studiato un caso. | Scrivo una soluzione ordinata. |
 | Ho preparato l’orale. | Rispondo ad alta voce in due minuti. |
 
-### Metodo lineare e metodo ciclico
+## Metodo lineare e metodo ciclico
 
 Il metodo tradizionale è spesso lineare: leggo tutto, poi ripasso, poi faccio quiz, poi preparo l’orale. Funziona solo se hai molto tempo, poche materie e una memoria stabile. Nei concorsi reali, spesso non è così.
 
@@ -159,7 +162,11 @@ Bando -> Aree -> Nuclei -> Diario -> Output -> nuovo controllo del Bando
 
 Il metodo non è rigido. È una struttura per correggere la rotta.
 
-### Esempio: concorso amministrativo comunale
+![Confronto tra metodo lineare e metodo ciclico BANDO, con ritorno continuo su bando, aree, nuclei, diario e output.](../assets/chapter-03/04-metodo-lineare-vs-ciclico.png)
+
+> *Figura 3.4 - Il Metodo BANDO è ciclico: ogni errore e ogni simulazione possono modificare il piano.*
+
+## Esempio: concorso amministrativo comunale
 
 Un candidato prepara un concorso per istruttore amministrativo comunale.
 
@@ -171,7 +178,7 @@ Un candidato prepara un concorso per istruttore amministrativo comunale.
 
 Il risultato non è “studiare enti locali”. Il risultato è trasformare enti locali, amministrativo e pubblico impiego in risposte da prova.
 
-### Esempio: concorso ministeriale
+## Esempio: concorso ministeriale
 
 Un candidato prepara un concorso per assistente amministrativo in un ente centrale.
 
@@ -183,7 +190,7 @@ Un candidato prepara un concorso per assistente amministrativo in un ente centra
 
 Anche qui il metodo evita dispersione: non tutto ciò che è interessante è prioritario.
 
-### Usare BANDO con 30, 60 o 90 giorni
+## Usare BANDO con 30, 60 o 90 giorni
 
 Il metodo cambia intensità in base al tempo disponibile.
 
@@ -195,7 +202,11 @@ Il metodo cambia intensità in base al tempo disponibile.
 
 Con 30 giorni non devi fingere di poter fare tutto. Devi scegliere. Con 60 giorni devi consolidare. Con 90 giorni devi trasformare la preparazione in sistema riutilizzabile.
 
-### Più concorsi contemporaneamente
+![Schema comparativo dell’applicazione del Metodo BANDO con 30, 60 e 90 giorni disponibili.](../assets/chapter-03/05-piano-bando-30-60-90.png)
+
+> *Figura 3.5 - Il tempo disponibile cambia l’intensità del metodo: taglio, consolidamento o sistema riutilizzabile.*
+
+## Più concorsi contemporaneamente
 
 Molti candidati preparano più concorsi. Il rischio è duplicare tutto: un manuale per ogni bando, una cartella per ogni ente, un piano separato per ogni prova. È così che si perde controllo.
 
@@ -209,7 +220,7 @@ Il Metodo BANDO propone un’altra logica:
 
 Se due bandi condividono diritto amministrativo, pubblico impiego, trasparenza e informatica, quelle materie devono diventare capitale comune. Le differenze vanno aggiunte come moduli, non come ripartenze complete.
 
-### Il mio concorso in una pagina
+## Il mio concorso in una pagina
 
 Compila questa scheda dopo aver letto il bando.
 
@@ -230,45 +241,26 @@ Compila questa scheda dopo aver letto il bando.
 
 Questa pagina deve accompagnarti per tutto il percorso. Se non riesci a compilarla, significa che il bando non è ancora stato capito abbastanza.
 
-### Domanda da commissario
+## Domanda da commissario
 
 **Domanda:** Che cosa distingue il Metodo BANDO da un normale piano di studio?
 
 **Risposta efficace:** un piano di studio distribuisce il tempo; il Metodo BANDO parte dal bando e collega tempo, materie, nuclei, errori e output. Non dice solo “quando studiare”, ma decide che cosa ha priorità, come va allenato e quale risultato deve produrre.
 
-### Domanda-trappola
+## Domanda-trappola
 
 **Domanda:** Se applico un metodo, posso evitare di studiare molte parti del programma?
 
 **Risposta:** no. Il metodo non serve a giustificare superficialità. Serve a ordinare lo studio, scegliere le priorità e ridurre dispersione. Alcune parti potranno essere trattate in modo essenziale, altre in modo approfondito, ma la decisione deve derivare dal bando, non dalla voglia di tagliare.
 
-### Errore tipico
+## Errore tipico
 
 L’errore tipico è usare BANDO come acronimo da ricordare e non come procedura da applicare. Se dopo aver letto questo capitolo non hai compilato un Bando Decoder, non hai diviso le aree, non hai scelto nuclei, non hai aperto un diario e non hai prodotto almeno un output, non stai ancora usando il metodo.
 
-### Da sapere in 5 righe
+## Da sapere in 5 righe
 
 1. BANDO è una procedura, non uno slogan.
 2. Il bando decide il perimetro reale dello studio.
 3. Le aree impediscono di confondere nucleo comune e moduli specifici.
 4. I nuclei trasformano il programma in priorità.
 5. Diario e output rendono misurabile il miglioramento.
-
-### Riferimenti consolidati
-
-- [[sources/struttura-madre-il-metodo-bando]]
-- [[sources/metodo-bando-progetto-editoriale]]
-- [[topics/metodo-bando]]
-- [[topics/bando-decoder]]
-- [[topics/piano-30-60-90-giorni]]
-- [[topics/diario-errori]]
-- [[entities/metodo-bando]]
-- [[entities/bando-decoder]]
-- [[entities/piano-30-60-90-giorni]]
-- [[entities/diario-degli-errori]]
-
-### Note di review
-
-- Capitolo riscritto come cuore commerciale e didattico del libro: deve essere richiamato da tutti i capitoli successivi.
-- In impaginazione inserire schema visuale del ciclo BANDO e scheda "Il mio concorso in una pagina".
-- Verificare in fase finale se aggiungere QR code a modello digitale compilabile, mantenendo però il libro completo anche su carta.

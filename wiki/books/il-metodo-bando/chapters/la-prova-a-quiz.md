@@ -22,22 +22,3 @@ last_compiled_from: ["sources/struttura-madre-il-metodo-bando.md","topics/diario
 
 # La prova a quiz
 
-## Obiettivo didattico
-Insegnare a usare i quiz come allenamento e diagnosi, non come unica forma di studio.
-
-## Specifica struttura madre
-Banca dati, quiz senza banca dati, gestione tempo, esclusione, quando saltare, correzione errori, errore di memoria/concetto/distrazione/strategia, diario errori, ripasso dagli errori.
-
-## Strumenti da inserire
-Griglia diario errori, simulazione breve, soluzioni commentate, tabella errore/causa/azione correttiva.
-
-## Testo editoriale
-Da sviluppare con Manual Writer Agent.
-
-## Bozza agente
-
-## Note editoriali
-- Da rivedere per nuova fonte [[sources/gazzetta-ufficiale-n-111-del-15-maggio-2025-decreto-pat-e-formweb]].
-
-- Da rivedere per nuova fonte [[sources/cedu-savino-ed-altri-c-italia-28-aprile-2009-concorsi-e-art-6-cedu]].
-

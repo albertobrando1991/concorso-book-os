@@ -22,25 +22,3 @@ last_compiled_from: ["sources/struttura-madre-il-metodo-bando.md","topics/piano-
 
 # Appendice D - Piano di studio personale
 
-## Obiettivo didattico
-Fornire template di pianificazione per trasformare il metodo in calendario.
-
-## Specifica struttura madre
-Template: piano 30 giorni, piano 60 giorni, piano 90 giorni, calendario settimanale, calendario giornaliero, tracker ore, tracker materie, tracker simulazioni, tracker errori.
-
-## Testo editoriale
-Da sviluppare come workbook compilabile.
-
-## Bozza agente
-
-## Note editoriali
-- Da rivedere per nuova fonte [[sources/d-p-r-16-giugno-2023-n-82-modifiche-al-d-p-r-487-1994-sui-concorsi]].
-
-- Da rivedere per nuova fonte [[sources/legge-28-giugno-2024-n-90-cybersicurezza-nazionale-e-reati-informatici]].
-
-- Da rivedere per nuova fonte [[sources/gazzetta-ufficiale-n-111-del-15-maggio-2025-decreto-pat-e-formweb]].
-
-- Da rivedere per nuova fonte [[sources/corte-costituzionale-requisiti-concorsuali-polizia-di-stato-g-u-27-gennaio-2021]].
-
-- Da rivedere per nuova fonte [[sources/cedu-savino-ed-altri-c-italia-28-aprile-2009-concorsi-e-art-6-cedu]].
-

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">PNRR, pagamenti e rendicontazione</title>
+  <desc id="desc">Catena operativa per progetti PNRR e fondi UE: CUP, CIG, impegno, fattura, liquidazione, pagamento, monitoraggio e rendicontazione.</desc>
+  <defs>
+    <style>
+      .bg { fill: #f8fafc; }
+      .ink { fill: #172233; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 46px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 24px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 24px; font-weight: 800; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 18px; }
+      .step { fill: #ffffff; stroke: #cfd8e3; stroke-width: 3; }
+      .chip { fill: #eef4fb; stroke: #c5d7ea; stroke-width: 2.5; }
+      .note { fill: #fff7ed; stroke: #e7c18e; stroke-width: 2.5; }
+      .blue { fill: #1f4e79; }
+      .green { fill: #2f7d5a; }
+      .amber { fill: #b7791f; }
+      .red { fill: #a94442; }
+      .gray { fill: #64748b; }
+      .arrow { stroke: #1f4e79; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowHead); }
+    </style>
+    <marker id="arrowHead" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#1f4e79"/>
+    </marker>
+  </defs>
+
+  <rect class="bg" width="1600" height="900"/>
+  <text class="ink title" x="800" y="70" text-anchor="middle">PNRR, pagamenti e rendicontazione</text>
+  <text class="muted subtitle" x="800" y="110" text-anchor="middle">Non basta spendere: la spesa deve essere tracciabile, ammissibile e documentata.</text>
+
+  <path class="arrow" d="M 300 285 L 365 285"/>
+  <path class="arrow" d="M 565 285 L 630 285"/>
+  <path class="arrow" d="M 830 285 L 895 285"/>
+  <path class="arrow" d="M 1095 285 L 1160 285"/>
+
+  <g transform="translate(95 215)">
+    <rect class="step" width="205" height="140" rx="20"/>
+    <text class="blue label" x="102" y="42" text-anchor="middle">Progetto</text>
+    <text class="muted small" x="102" y="75" text-anchor="middle">obiettivo, CUP,</text>
+    <text class="muted small" x="102" y="100" text-anchor="middle">milestone e target</text>
+  </g>
+  <g transform="translate(365 215)">
+    <rect class="step" width="200" height="140" rx="20"/>
+    <text class="green label" x="100" y="42" text-anchor="middle">Gara</text>
+    <text class="muted small" x="100" y="75" text-anchor="middle">CIG, affidamento,</text>
+    <text class="muted small" x="100" y="100" text-anchor="middle">tracciabilità</text>
+  </g>
+  <g transform="translate(630 215)">
+    <rect class="step" width="200" height="140" rx="20"/>
+    <text class="amber label" x="100" y="42" text-anchor="middle">Impegno</text>
+    <text class="muted small" x="100" y="75" text-anchor="middle">copertura e</text>
+    <text class="muted small" x="100" y="100" text-anchor="middle">vincolo di spesa</text>
+  </g>
+  <g transform="translate(895 215)">
+    <rect class="step" width="200" height="140" rx="20"/>
+    <text class="red label" x="100" y="42" text-anchor="middle">Esecuzione</text>
+    <text class="muted small" x="100" y="75" text-anchor="middle">prestazione,</text>
+    <text class="muted small" x="100" y="100" text-anchor="middle">fattura, verifica</text>
+  </g>
+  <g transform="translate(1160 215)">
+    <rect class="step" width="250" height="140" rx="20"/>
+    <text class="gray label" x="125" y="42" text-anchor="middle">Pagamento</text>
+    <text class="muted small" x="125" y="75" text-anchor="middle">liquidazione, mandato,</text>
+    <text class="muted small" x="125" y="100" text-anchor="middle">uscita di cassa</text>
+  </g>
+
+  <g transform="translate(215 505)">
+    <rect class="chip" width="360" height="125" rx="22"/>
+    <text class="blue label" x="180" y="42" text-anchor="middle">Monitoraggio</text>
+    <text class="muted small" x="180" y="74" text-anchor="middle">tempi, avanzamento,</text>
+    <text class="muted small" x="180" y="99" text-anchor="middle">milestone e target</text>
+  </g>
+  <g transform="translate(620 505)">
+    <rect class="chip" width="360" height="125" rx="22"/>
+    <text class="green label" x="180" y="42" text-anchor="middle">Rendicontazione</text>
+    <text class="muted small" x="180" y="74" text-anchor="middle">spesa ammissibile,</text>
+    <text class="muted small" x="180" y="99" text-anchor="middle">documenti e controlli</text>
+  </g>
+  <g transform="translate(1025 505)">
+    <rect class="note" width="360" height="125" rx="22"/>
+    <text class="amber label" x="180" y="42" text-anchor="middle">Conservazione</text>
+    <text class="muted small" x="180" y="74" text-anchor="middle">fascicolo, prove,</text>
+    <text class="muted small" x="180" y="99" text-anchor="middle">audit e verifiche</text>
+  </g>
+
+  <rect class="note" x="245" y="765" width="1110" height="64" rx="24"/>
+  <text class="amber" x="800" y="806" text-anchor="middle" style="font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:23px;font-weight:800;">Errore da evitare: separare contabilità, tracciabilità, anticorruzione e controllo del progetto.</text>
+</svg>

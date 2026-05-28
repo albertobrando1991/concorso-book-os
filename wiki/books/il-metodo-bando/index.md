@@ -5,7 +5,7 @@ title: "Il Metodo BANDO"
 status: draft
 domain: "concorsi pubblici italiani"
 topics: ["metodo bando","anatomia del bando","bando decoder","nucleo comune concorsi pubblici","studio concorsi","prove concorsuali","mappe profilo","moduli integrativi","piano 30 60 90 giorni","diario errori","diritto amministrativo","pubblico impiego","trasparenza","anticorruzione","privacy","contabilità pubblica","contratti pubblici","pa digitale"]
-entities: ["Metodo BANDO","Bando Decoder","Moduli Profilo","Piano 30/60/90 giorni","Diario degli errori","inPA","Pubblica amministrazione","ANAC","RUP","D.lgs. 165/2001","D.lgs. 150/2009","D.lgs. 36/2023"]
+entities: ["Metodo BANDO","Bando Decoder","Moduli Profilo","Piano 30/60/90 giorni","Diario degli errori","inPA","Pubblica amministrazione","ANAC","RUP","D.Lgs. 165/2001","D.Lgs. 150/2009","D.Lgs. 36/2023"]
 source_refs: ["sources/metodo-bando-progetto-editoriale.md","sources/struttura-madre-il-metodo-bando.md","sources/legge-241-1990-procedimento-amministrativo.md","sources/anac-trasparenza-e-anticorruzione.md","sources/manuale-diritto-amministrativo-lopilato.md","sources/responsabilita-dirigenziale-legalita-organizzativa-performance-rischio.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.9
@@ -27,7 +27,7 @@ last_compiled_from: ["sources/struttura-madre-il-metodo-bando.md","topics/metodo
 **Sottotitolo alternativo:** Leggi il bando, costruisci il piano, studia le materie comuni, allenati sulle prove e adatta il metodo al tuo profilo.
 
 ## Promessa editoriale
-Questo libro non e' una semplice raccolta di quiz e non e' un manuale legato a un solo concorso. E' un sistema di preparazione universale: insegna a leggere il bando, costruire priorita, studiare il nucleo comune, allenarsi sugli output e riutilizzare il capitale di studio da un concorso all'altro.
+Questo libro non è una semplice raccolta di quiz e non è un manuale legato a un solo concorso. È un sistema di preparazione universale: insegna a leggere il bando, costruire priorità, studiare il nucleo comune, allenarsi sugli output e riutilizzare il capitale di studio da un concorso all'altro.
 
 ## Struttura madre
 - [[books/il-metodo-bando/struttura-madre|Struttura madre completa]]
@@ -36,7 +36,7 @@ Questo libro non e' una semplice raccolta di quiz e non e' un manuale legato a u
 ## Outline canonico
 
 ### Introduzione
-0. [[books/il-metodo-bando/chapters/introduzione|Perche questo libro e' diverso]]
+0. [[books/il-metodo-bando/chapters/introduzione|Perché questo libro è diverso]]
 
 ### Parte I - Capire il concorso prima di studiare
 1. [[books/il-metodo-bando/chapters/il-nuovo-candidato-pubblico|Il nuovo candidato pubblico]]
@@ -48,7 +48,7 @@ Questo libro non e' una semplice raccolta di quiz e non e' un manuale legato a u
 5. [[books/il-metodo-bando/chapters/diritto-amministrativo-per-candidati|Diritto amministrativo operativo]]
 6. [[books/il-metodo-bando/chapters/pubblico-impiego-e-organizzazione-pa|Pubblico impiego e organizzazione della PA]]
 7. [[books/il-metodo-bando/chapters/trasparenza-anticorruzione-privacy|Trasparenza, anticorruzione e privacy]]
-8. [[books/il-metodo-bando/chapters/contabilita-pubblica-essenziale|Contabilita pubblica essenziale]]
+8. [[books/il-metodo-bando/chapters/contabilita-pubblica-essenziale|Contabilità pubblica essenziale]]
 9. [[books/il-metodo-bando/chapters/contratti-pubblici-essenziali|Contratti pubblici essenziali]]
 10. [[books/il-metodo-bando/chapters/informatica-pa-digitale-competenze-digitali|Informatica, PA digitale e competenze digitali]]
 11. [[books/il-metodo-bando/chapters/inglese-concorsuale-essenziale|Inglese concorsuale essenziale]]
@@ -80,19 +80,5 @@ D. [[books/il-metodo-bando/chapters/appendice-d-piano-studio-personale|Piano di 
 E. [[books/il-metodo-bando/chapters/appendice-e-schema-universale-risposta-orale|Schema universale di risposta orale]]
 F. [[books/il-metodo-bando/chapters/appendice-f-matrice-materie-profili|Matrice materie/profili]]
 
-## Regole di sviluppo capitoli
-- Ogni capitolo deve seguire la struttura madre e contenere: perche serve, mappa, spiegazione operativa, come viene chiesto, errori tipici, domande guidate, mini-caso e checkpoint.
-- Il Manual Writer deve usare la nota capitolo come specifica editoriale, la source note come riferimento di prodotto e le topic/source pages come conoscenza consolidata.
-- Il libro base deve restare universale, leggibile e vendibile: i verticali specialistici vanno nei moduli integrativi.
-- Il digitale e i QR code sono acceleratori opzionali. Il cartaceo deve essere completo.
-
 ## Contenuti esclusi dal libro base
-Tributario avanzato, processo civile e penale, codice della strada dettagliato, edilizia e urbanistica avanzata, contabilita enti locali avanzata, contabilita sanitaria, ordinamento scolastico dettagliato, diritto del lavoro e previdenza avanzati, fondi UE e PNRR avanzati, diritto internazionale, magistratura, carriera diplomatica, concorsi militari, prove fisiche, discipline sanitarie professionali e discipline tecniche specialistiche.
-
-## Stato revisione
-Struttura madre riallineata alla nuova specifica utente del 2026-05-10. Mancano ancora fonti consolidate per alcuni capitoli del nucleo comune; i capitoli sono creati come target editoriali da sviluppare con Manual Writer Agent.
-
-## Revisioni
-- 2026-05-09T01:05:00.000Z | creato libro demo Metodo BANDO da fonte prodotto canonica.
-- 2026-05-10T00:00:00.000Z | integrate nuove fonti raw: Manuale di diritto amministrativo PDF e saggio su responsabilita dirigenziale.
-- 2026-05-10T11:45:00+02:00 | aggiornata struttura madre completa: introduzione, 24 capitoli, 6 appendici e contenuti esclusi dal libro base.
+Tributario avanzato, processo civile e penale, codice della strada dettagliato, edilizia e urbanistica avanzata, contabilità enti locali avanzata, contabilità sanitaria, ordinamento scolastico dettagliato, diritto del lavoro e previdenza avanzati, fondi UE e PNRR avanzati, diritto internazionale, magistratura, carriera diplomatica, concorsi militari, prove fisiche, discipline sanitarie professionali e discipline tecniche specialistiche.

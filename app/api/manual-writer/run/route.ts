@@ -1,6 +1,6 @@
 import { NextResponse } from "next/server"
 import { ManualWriterAgent } from "@/src/server/agents/manual-writer-agent"
-import { getWikiRoot, type WriterProvider } from "@/src/server/config"
+import { getWikiRoot, WRITER_PROVIDERS, type WriterProvider } from "@/src/server/config"
 import { FileWikiStore } from "@/src/server/wiki/file-store"
 import type { ManualWriterMode } from "@/src/server/agents/manual-writer-agent"
 
@@ -23,7 +23,7 @@ export async function POST(request: Request) {
       return NextResponse.json({ error: "Invalid mode" }, { status: 400 })
     }
 
-    if (body.provider && !["codex", "claude", "openai", "hermes", "local"].includes(body.provider)) {
+    if (body.provider && !WRITER_PROVIDERS.includes(body.provider)) {
       return NextResponse.json({ error: "Invalid provider" }, { status: 400 })
     }
 

@@ -10,6 +10,12 @@ npm-debug.log*
 .next-dev-*.log
 playwright-report/
 test-results/
+agentdb.rvf
+agentdb.rvf.lock
+artifacts/*dev*.log
+artifacts/*server*.log
+artifacts/*.err.log
+artifacts/*.out.log
 wiki/.obsidian/
 wiki/*.base
 wiki/**/*.base

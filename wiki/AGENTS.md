@@ -92,6 +92,19 @@ Campi specifici:
 - Usare raw sources solo per audit o verifica, mai come output finale.
 - Segnalare esplicitamente bassa confidenza o revisione umana richiesta.
 
+## Memoria agentica locale
+La memoria locale del progetto deve restare sempre attiva nel contesto ConcorsoBook OS, salvo disattivazione tecnica esplicita per debug.
+
+Regole:
+- Prima di generare output AI, richiamare le memorie pertinenti da `wiki/memory/agent/l1/atoms.jsonl` tramite il servizio `LocalAgentMemory`.
+- Dopo chat Hermes, import fonti, writer o altri flussi agentici, catturare una traccia sintetica della conversazione in memoria.
+- La memoria conserva preferenze, istruzioni operative, workflow ricorrenti, decisioni e risultati utili a migliorare gli output successivi.
+- La memoria e' condivisa da tutti gli agenti/provider usati nel progetto: Codex/GPT, Claude, Kimi, OpenAI API, Hermes e writer locale.
+- Ogni nuovo agente deve riusare `LocalAgentMemory` e lo store `wiki/memory/agent/`; non deve creare memorie parallele scollegate.
+- La memoria non sostituisce il wiki consolidato: per norme, date, fonti e claim editoriali restano vincolanti `sources/`, `topics/` ed `entities/`.
+- Ogni memoria richiamata deve essere considerata suggerimento operativo contestuale, non fonte normativa.
+- La preferenza utente stabile e': ricordare sempre cio' che e' stato detto nel contesto ConcorsoBook OS e usare la memoria per migliorare progressivamente gli output.
+
 ## Manual Writer Agent
 Il Manual Writer Agent e' l'agente specializzato nella scrittura effettiva dei capitoli. Deve comportarsi come elaboratore editoriale, non come semplice generatore di testo.
 
@@ -113,6 +126,7 @@ Regole:
 - Non deve mai produrre formule come "Aggiornamento generato", "Istruzione ricevuta" o riepiloghi delle fonti al posto del capitolo.
 - Deve integrare nuova conoscenza senza cancellare il lavoro umano preesistente fuori dalle sezioni gestite.
 - Provider consigliato: `WRITER_PROVIDER=codex`, che usa `codex exec` locale e la skill di progetto `.agents/skills/concorso-book-professional-writer/SKILL.md`.
+- Provider supportati con memoria condivisa: `codex`, `claude`, `kimi`, `openai`, `hermes`, `local`.
 - Modello obbligatorio per scrittura: `CODEX_WRITER_MODEL=gpt-5.5` con `CODEX_WRITER_REASONING_EFFORT=xhigh`.
 - Se Codex CLI non e' autenticato, il writer deve usare fallback locale tracciabile e segnalare l'avviso.
 

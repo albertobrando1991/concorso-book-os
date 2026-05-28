@@ -10,14 +10,27 @@ export interface LlmClient {
   complete(messages: LlmMessage[]): Promise<string>
 }
 
+interface OpenAiClientOptions {
+  apiKey?: string
+  baseURL?: string
+  model?: string
+}
+
 export class OpenAiLlmClient implements LlmClient {
   private readonly client: OpenAI | null
   private readonly model: string
 
-  constructor() {
+  constructor(options: OpenAiClientOptions = {}) {
     const config = getOpenAiConfig()
-    this.model = config.model
-    this.client = config.apiKey ? new OpenAI({ apiKey: config.apiKey }) : null
+    const apiKey = options.apiKey ?? config.apiKey
+
+    this.model = options.model || config.model
+    this.client = apiKey
+      ? new OpenAI({
+          apiKey,
+          baseURL: options.baseURL
+        })
+      : null
   }
 
   async complete(messages: LlmMessage[]) {
@@ -40,4 +53,3 @@ export function deterministicCompletion(messages: LlmMessage[]) {
 
   return compact.length > 500 ? `${compact.slice(0, 497)}...` : compact
 }
-

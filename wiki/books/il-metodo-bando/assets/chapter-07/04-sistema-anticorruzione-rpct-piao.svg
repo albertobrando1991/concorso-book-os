@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Sistema anticorruzione: PNA, PIAO e RPCT</title>
+  <desc id="desc">Schema del sistema di prevenzione della corruzione: indirizzi ANAC, PIAO, RPCT, mappatura del rischio, misure e monitoraggio.</desc>
+  <defs>
+    <style>
+      .bg { fill: #f8fafc; }
+      .ink { fill: #172233; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 46px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 24px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 26px; font-weight: 800; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 21px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 19px; }
+      .card { fill: #ffffff; stroke: #cfd8e3; stroke-width: 3; }
+      .chip { fill: #eef4fb; stroke: #c5d7ea; stroke-width: 2.5; }
+      .greenBox { fill: #e7f3ed; stroke: #a8d1bd; stroke-width: 2.5; }
+      .note { fill: #fff7ed; stroke: #e7c18e; stroke-width: 2.5; }
+      .blue { fill: #1f4e79; }
+      .green { fill: #2f7d5a; }
+      .amber { fill: #b7791f; }
+      .red { fill: #a94442; }
+      .line { stroke: #9db4ca; stroke-width: 4; stroke-linecap: round; fill: none; }
+      .arrow { stroke: #1f4e79; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowHead); }
+    </style>
+    <marker id="arrowHead" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#1f4e79"/>
+    </marker>
+  </defs>
+
+  <rect class="bg" width="1600" height="900"/>
+  <text class="ink title" x="800" y="70" text-anchor="middle">Sistema anticorruzione</text>
+  <text class="muted subtitle" x="800" y="110" text-anchor="middle">La prevenzione è organizzazione: indirizzi, rischio, misure e monitoraggio.</text>
+
+  <g transform="translate(105 190)">
+    <rect class="card" width="300" height="130" rx="20"/>
+    <text class="blue label" x="150" y="48" text-anchor="middle">ANAC e PNA</text>
+    <text class="muted small" x="150" y="80" text-anchor="middle">indirizzi, vigilanza,</text>
+    <text class="muted small" x="150" y="105" text-anchor="middle">priorità operative</text>
+  </g>
+
+  <g transform="translate(495 190)">
+    <rect class="card" width="300" height="130" rx="20"/>
+    <text class="green label" x="150" y="48" text-anchor="middle">PA e PIAO</text>
+    <text class="muted small" x="150" y="80" text-anchor="middle">sezione rischi</text>
+    <text class="muted small" x="150" y="105" text-anchor="middle">corruttivi e trasparenza</text>
+  </g>
+
+  <g transform="translate(885 190)">
+    <rect class="card" width="300" height="130" rx="20"/>
+    <text class="amber label" x="150" y="48" text-anchor="middle">RPCT</text>
+    <text class="muted small" x="150" y="80" text-anchor="middle">impulso, coordinamento,</text>
+    <text class="muted small" x="150" y="105" text-anchor="middle">proposta e monitoraggio</text>
+  </g>
+
+  <g transform="translate(1275 190)">
+    <rect class="card" width="220" height="130" rx="20"/>
+    <text class="red label" x="110" y="48" text-anchor="middle">Attori</text>
+    <text class="muted small" x="110" y="80" text-anchor="middle">dirigenti, organi,</text>
+    <text class="muted small" x="110" y="105" text-anchor="middle">dipendenti</text>
+  </g>
+
+  <path class="arrow" d="M 405 255 L 480 255"/>
+  <path class="arrow" d="M 795 255 L 870 255"/>
+  <path class="arrow" d="M 1185 255 L 1260 255"/>
+
+  <line class="line" x1="800" y1="350" x2="800" y2="395"/>
+  <line class="line" x1="280" y1="395" x2="1320" y2="395"/>
+  <line class="line" x1="280" y1="395" x2="280" y2="430"/>
+  <line class="line" x1="540" y1="395" x2="540" y2="430"/>
+  <line class="line" x1="800" y1="395" x2="800" y2="430"/>
+  <line class="line" x1="1060" y1="395" x2="1060" y2="430"/>
+  <line class="line" x1="1320" y1="395" x2="1320" y2="430"/>
+
+  <g transform="translate(130 430)">
+    <rect class="greenBox" width="300" height="125" rx="20"/>
+    <text class="green label" x="150" y="42" text-anchor="middle">Mappatura</text>
+    <text class="muted small" x="150" y="74" text-anchor="middle">processi esposti</text>
+    <text class="muted small" x="150" y="99" text-anchor="middle">e fattori abilitanti</text>
+  </g>
+  <g transform="translate(390 585)">
+    <rect class="chip" width="300" height="125" rx="20"/>
+    <text class="blue label" x="150" y="42" text-anchor="middle">Valutazione</text>
+    <text class="muted small" x="150" y="74" text-anchor="middle">rischio concreto</text>
+    <text class="muted small" x="150" y="99" text-anchor="middle">e priorità</text>
+  </g>
+  <g transform="translate(650 430)">
+    <rect class="note" width="300" height="125" rx="20"/>
+    <text class="amber label" x="150" y="42" text-anchor="middle">Misure</text>
+    <text class="muted small" x="150" y="74" text-anchor="middle">formazione, controlli,</text>
+    <text class="muted small" x="150" y="99" text-anchor="middle">rotazione, trasparenza</text>
+  </g>
+  <g transform="translate(910 585)">
+    <rect class="chip" width="300" height="125" rx="20"/>
+    <text class="blue label" x="150" y="42" text-anchor="middle">Monitoraggio</text>
+    <text class="muted small" x="150" y="74" text-anchor="middle">verifica risultati</text>
+    <text class="muted small" x="150" y="99" text-anchor="middle">e aggiornamento</text>
+  </g>
+  <g transform="translate(1170 430)">
+    <rect class="greenBox" width="300" height="125" rx="20"/>
+    <text class="green label" x="150" y="42" text-anchor="middle">Integrità</text>
+    <text class="muted small" x="150" y="74" text-anchor="middle">conflitto, codice,</text>
+    <text class="muted small" x="150" y="99" text-anchor="middle">whistleblowing</text>
+  </g>
+
+  <rect class="note" x="245" y="780" width="1110" height="64" rx="24"/>
+  <text class="amber" x="800" y="821" text-anchor="middle" style="font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:23px;font-weight:800;">Da ricordare: anticorruzione significa prevenzione organizzativa, non solo repressione penale.</text>
+</svg>

@@ -22,21 +22,3 @@ last_compiled_from: ["sources/struttura-madre-il-metodo-bando.md","topics/moduli
 
 # Appendice F - Matrice materie/profili
 
-## Obiettivo didattico
-Mostrare quali materie sono comuni, specialistiche e da modulo integrativo.
-
-## Specifica struttura madre
-Grande tabella finale: materie comuni, materie specialistiche, profili che richiedono moduli, contenuti del libro base sempre utili.
-
-Promessa commerciale da rafforzare: studi il nucleo comune una volta, poi aggiungi solo cio che serve.
-
-## Testo editoriale
-Da sviluppare come matrice workbook.
-
-## Bozza agente
-
-## Note editoriali
-- Da rivedere per nuova fonte [[sources/gazzetta-ufficiale-n-111-del-15-maggio-2025-decreto-pat-e-formweb]].
-
-- Da rivedere per nuova fonte [[sources/cedu-savino-ed-altri-c-italia-28-aprile-2009-concorsi-e-art-6-cedu]].
-

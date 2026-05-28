@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">BANDO con 30, 60 o 90 giorni</title>
+  <desc id="desc">Schema comparativo dell'applicazione del Metodo BANDO con trenta, sessanta e novanta giorni disponibili.</desc>
+  <defs>
+    <style>
+      .bg { fill: #f8fafc; }
+      .ink { fill: #172233; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 50px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 27px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 30px; font-weight: 800; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 23px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .card { fill: #ffffff; stroke: #cfd8e3; stroke-width: 3; }
+      .row { fill: #f8fafc; stroke: #d3dce7; stroke-width: 2; }
+      .blue { fill: #1f4e79; }
+      .green { fill: #2f7d5a; }
+      .amber { fill: #b7791f; }
+      .band { fill: #e8f0f8; stroke: #b9cde1; stroke-width: 2; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="1600" height="1000"/>
+  <text class="ink title" x="800" y="82" text-anchor="middle">BANDO con 30, 60 o 90 giorni</text>
+  <text class="muted subtitle" x="800" y="126" text-anchor="middle">Il tempo disponibile cambia l'intensit&#224;, non la logica del metodo.</text>
+
+  <g transform="translate(115 215)">
+    <rect class="card" x="0" y="0" width="420" height="540" rx="22"/>
+    <circle class="amber" cx="210" cy="80" r="48"/>
+    <text x="210" y="97" text-anchor="middle" style="fill:#fff;font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:48px;font-weight:900;">30</text>
+    <text class="amber label" x="210" y="158" text-anchor="middle">giorni</text>
+    <text class="muted body" x="210" y="197" text-anchor="middle">taglio forte</text>
+    <g transform="translate(45 245)">
+      <rect class="row" x="0" y="0" width="330" height="54" rx="12"/>
+      <text class="ink body" x="165" y="36" text-anchor="middle">nuclei decisivi</text>
+      <rect class="row" x="0" y="72" width="330" height="54" rx="12"/>
+      <text class="ink body" x="165" y="108" text-anchor="middle">simulazioni frequenti</text>
+      <rect class="row" x="0" y="144" width="330" height="54" rx="12"/>
+      <text class="ink body" x="165" y="180" text-anchor="middle">diario quotidiano</text>
+      <rect class="row" x="0" y="216" width="330" height="54" rx="12"/>
+      <text class="ink body" x="165" y="252" text-anchor="middle">orale essenziale</text>
+    </g>
+  </g>
+
+  <g transform="translate(590 215)">
+    <rect class="card" x="0" y="0" width="420" height="540" rx="22"/>
+    <circle class="blue" cx="210" cy="80" r="48"/>
+    <text x="210" y="97" text-anchor="middle" style="fill:#fff;font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:48px;font-weight:900;">60</text>
+    <text class="blue label" x="210" y="158" text-anchor="middle">giorni</text>
+    <text class="muted body" x="210" y="197" text-anchor="middle">consolidamento</text>
+    <g transform="translate(45 245)">
+      <rect class="row" x="0" y="0" width="330" height="54" rx="12"/>
+      <text class="ink body" x="165" y="36" text-anchor="middle">nucleo comune</text>
+      <rect class="row" x="0" y="72" width="330" height="54" rx="12"/>
+      <text class="ink body" x="165" y="108" text-anchor="middle">moduli specifici</text>
+      <rect class="row" x="0" y="144" width="330" height="54" rx="12"/>
+      <text class="ink body" x="165" y="180" text-anchor="middle">simulazioni settimanali</text>
+      <rect class="row" x="0" y="216" width="330" height="54" rx="12"/>
+      <text class="ink body" x="165" y="252" text-anchor="middle">ripassi programmati</text>
+    </g>
+  </g>
+
+  <g transform="translate(1065 215)">
+    <rect class="card" x="0" y="0" width="420" height="540" rx="22"/>
+    <circle class="green" cx="210" cy="80" r="48"/>
+    <text x="210" y="97" text-anchor="middle" style="fill:#fff;font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:48px;font-weight:900;">90</text>
+    <text class="green label" x="210" y="158" text-anchor="middle">giorni</text>
+    <text class="muted body" x="210" y="197" text-anchor="middle">sistema riutilizzabile</text>
+    <g transform="translate(45 245)">
+      <rect class="row" x="0" y="0" width="330" height="54" rx="12"/>
+      <text class="ink body" x="165" y="36" text-anchor="middle">studio completo</text>
+      <rect class="row" x="0" y="72" width="330" height="54" rx="12"/>
+      <text class="ink body" x="165" y="108" text-anchor="middle">casi guidati</text>
+      <rect class="row" x="0" y="144" width="330" height="54" rx="12"/>
+      <text class="ink body" x="165" y="180" text-anchor="middle">orale progressivo</text>
+      <rect class="row" x="0" y="216" width="330" height="54" rx="12"/>
+      <text class="ink body" x="165" y="252" text-anchor="middle">confronto tra bandi</text>
+    </g>
+  </g>
+
+  <rect class="band" x="355" y="850" width="890" height="58" rx="29"/>
+  <text class="blue" x="800" y="888" text-anchor="middle" style="font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:24px;font-weight:800;">Con poco tempo scegli; con pi&#249; tempo consolidi e rendi riutilizzabile.</text>
+</svg>

@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1100" viewBox="0 0 1600 1100" role="img" aria-labelledby="title desc">
+  <title id="title">Stato, Costituzione e forme da non confondere</title>
+  <desc id="desc">Schema con elementi dello Stato, caratteri della Costituzione e differenza tra forma di Stato e forma di governo.</desc>
+  <defs>
+    <style>
+      .bg { fill: #f8fafc; }
+      .ink { fill: #172233; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 50px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 27px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 30px; font-weight: 800; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 23px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .card { fill: #ffffff; stroke: #cfd8e3; stroke-width: 3; }
+      .panel { fill: #eef4fb; stroke: #c5d7ea; stroke-width: 2; }
+      .chip { fill: #ffffff; stroke: #d3dce7; stroke-width: 2; }
+      .blue { fill: #1f4e79; }
+      .green { fill: #2f7d5a; }
+      .amber { fill: #b7791f; }
+      .red { fill: #a94442; }
+      .gray { fill: #64748b; }
+      .band { fill: #e8f0f8; stroke: #b9cde1; stroke-width: 2; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="1600" height="1100"/>
+  <text class="ink title" x="800" y="82" text-anchor="middle">Stato, Costituzione e forme da non confondere</text>
+  <text class="muted subtitle" x="800" y="126" text-anchor="middle">La prima competenza da concorso è ordinare concetti simili ma diversi.</text>
+
+  <g transform="translate(92 190)">
+    <rect class="card" x="0" y="0" width="1416" height="238" rx="18"/>
+    <text class="blue label" x="44" y="58">Elementi dello Stato</text>
+    <g transform="translate(54 92)">
+      <rect class="panel" x="0" y="0" width="390" height="104" rx="16"/>
+      <text class="blue label" x="195" y="42" text-anchor="middle">Popolo</text>
+      <text class="muted body" x="195" y="76" text-anchor="middle">cittadini legati dallo status</text>
+    </g>
+    <g transform="translate(513 92)">
+      <rect class="panel" x="0" y="0" width="390" height="104" rx="16"/>
+      <text class="green label" x="195" y="42" text-anchor="middle">Territorio</text>
+      <text class="muted body" x="195" y="76" text-anchor="middle">spazio di esercizio dei poteri</text>
+    </g>
+    <g transform="translate(972 92)">
+      <rect class="panel" x="0" y="0" width="390" height="104" rx="16"/>
+      <text class="amber label" x="195" y="42" text-anchor="middle">Sovranità</text>
+      <text class="muted body" x="195" y="76" text-anchor="middle">potere nei limiti della Costituzione</text>
+    </g>
+  </g>
+
+  <g transform="translate(92 468)">
+    <rect class="card" x="0" y="0" width="1416" height="244" rx="18"/>
+    <text class="blue label" x="44" y="58">Caratteri della Costituzione italiana</text>
+    <g transform="translate(54 95)">
+      <rect class="chip" x="0" y="0" width="200" height="76" rx="15"/>
+      <text class="ink body" x="100" y="47" text-anchor="middle">scritta</text>
+    </g>
+    <g transform="translate(278 95)">
+      <rect class="chip" x="0" y="0" width="200" height="76" rx="15"/>
+      <text class="ink body" x="100" y="47" text-anchor="middle">rigida</text>
+    </g>
+    <g transform="translate(502 95)">
+      <rect class="chip" x="0" y="0" width="200" height="76" rx="15"/>
+      <text class="ink body" x="100" y="47" text-anchor="middle">lunga</text>
+    </g>
+    <g transform="translate(726 95)">
+      <rect class="chip" x="0" y="0" width="200" height="76" rx="15"/>
+      <text class="ink body" x="100" y="47" text-anchor="middle">votata</text>
+    </g>
+    <g transform="translate(950 95)">
+      <rect class="chip" x="0" y="0" width="200" height="76" rx="15"/>
+      <text class="ink body" x="100" y="47" text-anchor="middle">democratica</text>
+    </g>
+    <g transform="translate(1174 95)">
+      <rect class="chip" x="0" y="0" width="188" height="76" rx="15"/>
+      <text class="ink body" x="94" y="47" text-anchor="middle">garantita</text>
+    </g>
+    <text class="muted small" x="708" y="205" text-anchor="middle">Rigida significa che è modificabile solo con procedimento aggravato, non con legge ordinaria.</text>
+  </g>
+
+  <g transform="translate(92 760)">
+    <rect class="card" x="0" y="0" width="668" height="210" rx="18"/>
+    <circle class="red" cx="60" cy="58" r="30"/>
+    <text x="60" y="68" text-anchor="middle" style="fill:#fff;font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:28px;font-weight:900;">A</text>
+    <text class="red label" x="110" y="65">Forma di Stato</text>
+    <text class="muted body" x="44" y="116">rapporto tra autorità, società, diritti</text>
+    <text class="muted body" x="44" y="148">e territorio</text>
+    <text class="ink body" x="44" y="184">Italia: Repubblica democratica, sociale e autonomistica.</text>
+  </g>
+
+  <g transform="translate(840 760)">
+    <rect class="card" x="0" y="0" width="668" height="210" rx="18"/>
+    <circle class="gray" cx="60" cy="58" r="30"/>
+    <text x="60" y="68" text-anchor="middle" style="fill:#fff;font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:28px;font-weight:900;">B</text>
+    <text class="gray label" x="110" y="65">Forma di governo</text>
+    <text class="muted body" x="44" y="116">rapporto tra organi costituzionali,</text>
+    <text class="muted body" x="44" y="148">soprattutto Parlamento e Governo</text>
+    <text class="ink body" x="44" y="184">Italia: governo parlamentare fondato sulla fiducia.</text>
+  </g>
+
+  <rect class="band" x="525" y="1012" width="550" height="54" rx="27"/>
+  <text class="blue" x="800" y="1047" text-anchor="middle" style="font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:22px;font-weight:800;">Errore: confondere concetti diversi.</text>
+</svg>
