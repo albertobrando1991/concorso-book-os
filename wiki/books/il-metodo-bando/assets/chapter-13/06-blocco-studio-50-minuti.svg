@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Blocco di studio da 50 minuti</title>
+  <desc id="desc">Ogni sessione deve chiudersi con un output e una decisione per il prossimo passo.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; }
+      .softRed { fill: #F8E8EA; stroke: #E3B9BF; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E8D080; stroke-width: 2.5; }
+      .softGreen { fill: #E7F3ED; stroke: #A8D1BD; stroke-width: 2.5; }
+      .softTeal { fill: #E4F4F5; stroke: #A3D5D8; stroke-width: 2.5; }
+      .note { fill: #FFF7ED; stroke: #E7C18E; stroke-width: 2.5; }
+      .ink { fill: #0F172A; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 44px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 23px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 25px; font-weight: 800; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 18px; }
+      .navy { fill: #10233F; }
+      .bordeaux { fill: #7A2430; }
+      .gold { fill: #D4AF37; }
+      .green { fill: #2F7D5A; }
+      .teal { fill: #1F6F78; }
+      .line { stroke: #94A3B8; stroke-width: 4; stroke-linecap: round; fill: none; }
+      .thin { stroke: #CBD5E1; stroke-width: 2.5; stroke-linecap: round; fill: none; }
+      .dash { stroke: #94A3B8; stroke-width: 3.5; stroke-linecap: round; stroke-dasharray: 9 10; fill: none; }
+      .arrowNavy { stroke: #10233F; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowNavy); }
+      .arrowBordeaux { stroke: #7A2430; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowBordeaux); }
+      .arrowGold { stroke: #D4AF37; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGold); }
+      .arrowGreen { stroke: #2F7D5A; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGreen); }
+      .arrowTeal { stroke: #1F6F78; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowTeal); }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#10233F"/>
+    </marker>
+    <marker id="arrowBordeaux" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#7A2430"/>
+    </marker>
+    <marker id="arrowGold" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#D4AF37"/>
+    </marker>
+    <marker id="arrowGreen" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#2F7D5A"/>
+    </marker>
+    <marker id="arrowTeal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#1F6F78"/>
+    </marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <text class="ink title" x="800" y="68" text-anchor="middle">Blocco di studio da 50 minuti</text>
+  <text class="muted subtitle" x="800" y="108" text-anchor="middle">Ogni sessione deve chiudersi con un output e una decisione per il prossimo passo.</text>
+
+  <rect class="card" x="90" y="175" width="1420" height="610" rx="30"/>
+  <text class="navy label" x="800" y="232" text-anchor="middle">Una sessione efficace alterna comprensione, prova e correzione</text>
+  <g data-safe-box="140 320 205 145 0">
+    <rect class="softBlue" x="140" y="320" width="205" height="145" rx="20"/>
+    <rect x="140" y="320" width="205" height="38" rx="18" fill="#10233F"/>
+    <text class="label" x="242.5" y="348" text-anchor="middle" fill="#FFFFFF" style="font-size:21px">0-5</text>
+    <text class="navy label" x="242.5" y="402" text-anchor="middle" style="font-size:20px">Obiettivo</text>
+    <text class="muted small" x="242.5" y="433" text-anchor="middle" style="font-size:16px">cosa devo produrre</text>
+  </g>
+  <g data-safe-box="390 320 255 145 0">
+    <rect class="softRed" x="390" y="320" width="255" height="145" rx="20"/>
+    <rect x="390" y="320" width="255" height="38" rx="18" fill="#7A2430"/>
+    <text class="label" x="517.5" y="348" text-anchor="middle" fill="#FFFFFF" style="font-size:21px">5-25</text>
+    <text class="bordeaux label" x="517.5" y="402" text-anchor="middle" style="font-size:20px">Teoria breve</text>
+    <text class="muted small" x="517.5" y="433" text-anchor="middle" style="font-size:16px">nucleo ad alta resa</text>
+  </g>
+  <g data-safe-box="690 320 255 145 0">
+    <rect class="softGold" x="690" y="320" width="255" height="145" rx="20"/>
+    <rect x="690" y="320" width="255" height="38" rx="18" fill="#D4AF37"/>
+    <text class="label" x="817.5" y="348" text-anchor="middle" fill="#FFFFFF" style="font-size:21px">25-35</text>
+    <text class="gold label" x="817.5" y="402" text-anchor="middle" style="font-size:20px">Richiamo</text>
+    <text class="muted small" x="817.5" y="433" text-anchor="middle" style="font-size:16px">senza manuale</text>
+  </g>
+  <g data-safe-box="990 320 255 145 0">
+    <rect class="softGreen" x="990" y="320" width="255" height="145" rx="20"/>
+    <rect x="990" y="320" width="255" height="38" rx="18" fill="#2F7D5A"/>
+    <text class="label" x="1117.5" y="348" text-anchor="middle" fill="#FFFFFF" style="font-size:21px">35-45</text>
+    <text class="green label" x="1117.5" y="402" text-anchor="middle" style="font-size:20px">Quiz/output</text>
+    <text class="muted small" x="1117.5" y="433" text-anchor="middle" style="font-size:16px">5-10 domande</text>
+  </g>
+  <g data-safe-box="1290 320 205 145 0">
+    <rect class="softTeal" x="1290" y="320" width="205" height="145" rx="20"/>
+    <rect x="1290" y="320" width="205" height="38" rx="18" fill="#1F6F78"/>
+    <text class="label" x="1392.5" y="348" text-anchor="middle" fill="#FFFFFF" style="font-size:21px">45-50</text>
+    <text class="teal label" x="1392.5" y="402" text-anchor="middle" style="font-size:20px">Diario</text>
+    <text class="muted small" x="1392.5" y="433" text-anchor="middle" style="font-size:16px">errore e passo</text>
+  </g>
+  <path class="arrowNavy" d="M355 405 L380 405"/>
+  <path class="arrowBordeaux" d="M655 405 L680 405"/>
+  <path class="arrowGold" d="M955 405 L980 405"/>
+  <path class="arrowGreen" d="M1255 405 L1280 405"/>
+  <g data-safe-box="250 590 410 191 8">
+    <rect class="softBlue" x="250" y="590" width="410" height="191" rx="22"/>
+    <rect x="250" y="590" width="410" height="10" rx="5" fill="#10233F"/>
+    <text class="navy label" x="455" y="634" text-anchor="middle" style="font-size:21px">Se hai poca energia</text>
+    <path class="thin" d="M274 654 L636 654"/>
+    <text class="muted small" x="280" y="672" style="font-size:17px">blocco da 25 minuti</text>
+<text class="muted small" x="280" y="705" style="font-size:17px">un solo nucleo</text>
+<text class="muted small" x="280" y="738" style="font-size:17px">un output piccolo</text>
+  </g>
+  <g data-safe-box="760 590 410 191 8">
+    <rect class="softGreen" x="760" y="590" width="410" height="191" rx="22"/>
+    <rect x="760" y="590" width="410" height="10" rx="5" fill="#2F7D5A"/>
+    <text class="green label" x="965" y="634" text-anchor="middle" style="font-size:24px">Se hai piu tempo</text>
+    <path class="thin" d="M784 654 L1146 654"/>
+    <text class="muted small" x="790" y="672" style="font-size:17px">due blocchi</text>
+<text class="muted small" x="790" y="705" style="font-size:17px">pausa reale</text>
+<text class="muted small" x="790" y="738" style="font-size:17px">correzione finale</text>
+  </g>
+  <g data-safe-box="250 805 1100 64 8">
+    <rect class="note" x="250" y="805" width="1100" height="64" rx="24"/>
+    <text class="ink body" x="800" y="845" text-anchor="middle" style="font-weight:800;font-size:20px">Il timer serve a evitare studio passivo interminabile, non a riempire ore.</text>
+  </g>
+
+</svg>

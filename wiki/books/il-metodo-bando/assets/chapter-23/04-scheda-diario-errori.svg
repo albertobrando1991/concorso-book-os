@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Scheda professionale del diario</title>
+  <desc id="desc">Pochi campi, ma tutti orientati a una prossima azione verificabile.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; }
+      .softRed { fill: #F8E8EA; stroke: #E3B9BF; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E8D080; stroke-width: 2.5; }
+      .softGreen { fill: #E7F3ED; stroke: #A8D1BD; stroke-width: 2.5; }
+      .softTeal { fill: #E4F4F5; stroke: #A3D5D8; stroke-width: 2.5; }
+      .note { fill: #FFF7ED; stroke: #E7C18E; stroke-width: 2.5; }
+      .ink { fill: #0F172A; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 43px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 22px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 25px; font-weight: 800; letter-spacing: 0; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 18px; }
+      .navy { fill: #10233F; }
+      .bordeaux { fill: #7A2430; }
+      .gold { fill: #D4AF37; }
+      .green { fill: #2F7D5A; }
+      .teal { fill: #1F6F78; }
+      .line { stroke: #94A3B8; stroke-width: 4; stroke-linecap: round; fill: none; }
+      .thin { stroke: #CBD5E1; stroke-width: 2.5; stroke-linecap: round; fill: none; }
+      .arrowNavy { stroke: #10233F; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowNavy); }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#10233F"/></marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <text class="ink title" x="800" y="68" text-anchor="middle">Scheda professionale del diario</text>
+  <text class="muted subtitle" x="800" y="108" text-anchor="middle">Pochi campi, ma tutti orientati a una prossima azione verificabile.</text>
+
+  <rect class="card" x="70" y="165" width="1460" height="630" rx="30"/>
+  <text class="navy label" x="800" y="225" text-anchor="middle">La scheda deve portare a una decisione, non a una raccolta passiva</text>
+  <g data-safe-box="170 265 1260 468 8">
+    <g>
+    <rect x="170" y="265" width="1260" height="64" rx="12" fill="#EAF2FB" stroke="#CBD5E1" stroke-width="2"/>
+    <rect x="170" y="265" width="245" height="64" rx="12" fill="#10233F" opacity="0.96"/>
+    <text class="label" x="292" y="306" text-anchor="middle" fill="#FFFFFF" style="font-size:18px">Fonte</text>
+    <text class="muted small" x="470" y="306" style="font-size:18px">quiz / scritto / orale / caso</text>
+  </g>
+<g>
+    <rect x="170" y="343" width="1260" height="64" rx="12" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2"/>
+    <rect x="170" y="343" width="245" height="64" rx="12" fill="#10233F" opacity="0.96"/>
+    <text class="label" x="292" y="384" text-anchor="middle" fill="#FFFFFF" style="font-size:18px">Materia</text>
+    <text class="muted small" x="470" y="384" style="font-size:18px">area e modulo interessato</text>
+  </g>
+<g>
+    <rect x="170" y="421" width="1260" height="64" rx="12" fill="#EAF2FB" stroke="#CBD5E1" stroke-width="2"/>
+    <rect x="170" y="421" width="245" height="64" rx="12" fill="#10233F" opacity="0.96"/>
+    <text class="label" x="292" y="462" text-anchor="middle" fill="#FFFFFF" style="font-size:18px">Categoria</text>
+    <text class="muted small" x="470" y="462" style="font-size:18px">memoria, concetto, lettura, tempo</text>
+  </g>
+<g>
+    <rect x="170" y="499" width="1260" height="64" rx="12" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2"/>
+    <rect x="170" y="499" width="245" height="64" rx="12" fill="#10233F" opacity="0.96"/>
+    <text class="label" x="292" y="540" text-anchor="middle" fill="#FFFFFF" style="font-size:18px">Regola</text>
+    <text class="muted small" x="470" y="540" style="font-size:18px">versione corretta in parole proprie</text>
+  </g>
+<g>
+    <rect x="170" y="577" width="1260" height="64" rx="12" fill="#EAF2FB" stroke="#CBD5E1" stroke-width="2"/>
+    <rect x="170" y="577" width="245" height="64" rx="12" fill="#10233F" opacity="0.96"/>
+    <text class="label" x="292" y="618" text-anchor="middle" fill="#FFFFFF" style="font-size:18px">Azione</text>
+    <text class="muted small" x="470" y="618" style="font-size:18px">flashcard, schema, drill, simulazione</text>
+  </g>
+<g>
+    <rect x="170" y="655" width="1260" height="64" rx="12" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2"/>
+    <rect x="170" y="655" width="245" height="64" rx="12" fill="#10233F" opacity="0.96"/>
+    <text class="label" x="292" y="696" text-anchor="middle" fill="#FFFFFF" style="font-size:18px">Ripasso</text>
+    <text class="muted small" x="470" y="696" style="font-size:18px">data, esito, secondo tentativo</text>
+  </g>
+  </g>
+  <g data-safe-box="250 765 1100 64 8">
+    <rect class="note" x="250" y="765" width="1100" height="64" rx="24"/>
+    <text class="ink body" x="800" y="805" text-anchor="middle" style="font-weight:800;font-size:20px">La colonna piu importante e' Prossima azione: senza azione il diario diventa archivio.</text>
+  </g>
+</svg>

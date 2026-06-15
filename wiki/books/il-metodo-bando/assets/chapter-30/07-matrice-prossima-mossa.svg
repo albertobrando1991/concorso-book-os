@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Matrice della prossima mossa</title>
+  <desc id="desc">Dopo l'esito scegli un passo coerente, non una reazione impulsiva.</desc>
+  <style>
+    .bg { fill: #F8FAFC; }
+    .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+    .title { font: 800 43px Arial, sans-serif; fill: #0F172A; }
+    .subtitle { font: 400 21px Arial, sans-serif; fill: #526174; }
+    .label { font: 800 25px Arial, sans-serif; fill: #0F172A; }
+    .body { font: 400 19px Arial, sans-serif; fill: #0F172A; }
+    .small { font: 400 16px Arial, sans-serif; fill: #0F172A; }
+    .strong { font-weight: 800; }
+    .whiteText { fill: #FFFFFF; }
+    .line { stroke: #10233F; stroke-width: 6; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+  </style>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#10233F"/>
+    </marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <g data-safe-box="80 16 1440 118 0">
+    <text class="title" x="800" y="68" text-anchor="middle">Matrice della prossima mossa</text>
+    <text class="subtitle" x="800" y="108" text-anchor="middle">Dopo l'esito scegli un passo coerente, non una reazione impulsiva.</text>
+  </g>
+
+    <rect class="card" x="70" y="165" width="1460" height="630" rx="30"/>
+    <g data-safe-box="190 230 760 70 6">
+        <rect x="190" y="230" width="760" height="70" rx="20" fill="#E7F3ED" stroke="#2F7D5A" stroke-width="3"/>
+        <circle cx="234" cy="265" r="20" fill="#2F7D5A"/>
+        <text class="small strong" style="fill:#2F7D5A" x="360" y="273" text-anchor="middle">Superata</text>
+        <text class="small" x="690" y="273" text-anchor="middle">prepara fase successiva</text>
+      </g>
+<g data-safe-box="190 318 760 70 6">
+        <rect x="190" y="318" width="760" height="70" rx="20" fill="#EAF2FB" stroke="#10233F" stroke-width="3"/>
+        <circle cx="234" cy="353" r="20" fill="#10233F"/>
+        <text class="small strong" style="fill:#10233F" x="360" y="361" text-anchor="middle">Idoneita</text>
+        <text class="small" x="690" y="361" text-anchor="middle">monitora atti ufficiali</text>
+      </g>
+<g data-safe-box="190 406 760 70 6">
+        <rect x="190" y="406" width="760" height="70" rx="20" fill="#F8E8EA" stroke="#7A2430" stroke-width="3"/>
+        <circle cx="234" cy="441" r="20" fill="#7A2430"/>
+        <text class="small strong" style="fill:#7A2430" x="360" y="449" text-anchor="middle">Negativa</text>
+        <text class="small" x="690" y="449" text-anchor="middle">correggi lacune o metodo</text>
+      </g>
+<g data-safe-box="190 494 760 70 6">
+        <rect x="190" y="494" width="760" height="70" rx="20" fill="#FFF4CC" stroke="#D4AF37" stroke-width="3"/>
+        <circle cx="234" cy="529" r="20" fill="#D4AF37"/>
+        <text class="small strong" style="fill:#D4AF37" x="360" y="537" text-anchor="middle">Dubbio</text>
+        <text class="small" x="690" y="537" text-anchor="middle">valuta accesso documentale</text>
+      </g>
+<g data-safe-box="190 582 760 70 6">
+        <rect x="190" y="582" width="760" height="70" rx="20" fill="#E4F4F5" stroke="#1F6F78" stroke-width="3"/>
+        <circle cx="234" cy="617" r="20" fill="#1F6F78"/>
+        <text class="small strong" style="fill:#1F6F78" x="360" y="625" text-anchor="middle">Nuovo bando</text>
+        <text class="small" x="690" y="625" text-anchor="middle">trasferisci capitale</text>
+      </g>
+<g data-safe-box="190 670 760 70 6">
+        <rect x="190" y="670" width="760" height="70" rx="20" fill="#EFEAF7" stroke="#5B3B82" stroke-width="3"/>
+        <circle cx="234" cy="705" r="20" fill="#5B3B82"/>
+        <text class="small strong" style="fill:#5B3B82" x="360" y="713" text-anchor="middle">Stanchezza</text>
+        <text class="small" x="690" y="713" text-anchor="middle">recupero e revisione fredda</text>
+      </g>
+    <g data-safe-box="1030 305 380 250 8">
+    <rect x="1030" y="305" width="380" height="250" rx="26" fill="#EAF2FB" stroke="#10233F" stroke-width="3"/>
+    <text class="label" style="fill:#10233F" x="1220" y="361" text-anchor="middle">Criterio</text>
+    <text class="small" x="1220" y="405" text-anchor="middle">la mossa non deve</text>
+<text class="small" x="1220" y="437" text-anchor="middle">essere eroica</text>
+<text class="small" x="1220" y="469" text-anchor="middle">deve essere coerente</text>
+  </g>
+    <g data-safe-box="245 810 1110 66 8">
+    <rect x="245" y="810" width="1110" height="66" rx="22" fill="#FFF7ED" stroke="#EFC58D" stroke-width="3"/>
+    <text class="body strong" x="800" y="853" text-anchor="middle">La prossima decisione nasce da situazione, atti disponibili, energia e capitale riusabile.</text>
+  </g>
+
+</svg>

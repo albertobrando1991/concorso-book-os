@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Core, modulo e approfondimento</title>
+  <desc id="desc">Non tutto cio che e' interessante deve entrare nel piano di preparazione.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; }
+      .softRed { fill: #F8E8EA; stroke: #E3B9BF; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E8D080; stroke-width: 2.5; }
+      .softGreen { fill: #E7F3ED; stroke: #A8D1BD; stroke-width: 2.5; }
+      .softTeal { fill: #E4F4F5; stroke: #A3D5D8; stroke-width: 2.5; }
+      .note { fill: #FFF7ED; stroke: #E7C18E; stroke-width: 2.5; }
+      .ink { fill: #0F172A; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 43px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 22px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 25px; font-weight: 800; letter-spacing: 0; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 18px; }
+      .navy { fill: #10233F; }
+      .bordeaux { fill: #7A2430; }
+      .gold { fill: #D4AF37; }
+      .green { fill: #2F7D5A; }
+      .teal { fill: #1F6F78; }
+      .line { stroke: #94A3B8; stroke-width: 4; stroke-linecap: round; fill: none; }
+      .thin { stroke: #CBD5E1; stroke-width: 2.5; stroke-linecap: round; fill: none; }
+      .arrowNavy { stroke: #10233F; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowNavy); }
+      .arrowGold { stroke: #D4AF37; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGold); }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#10233F"/></marker>
+    <marker id="arrowGold" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#D4AF37"/></marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <text class="ink title" x="800" y="68" text-anchor="middle">Core, modulo e approfondimento</text>
+  <text class="muted subtitle" x="800" y="108" text-anchor="middle">Non tutto cio che e' interessante deve entrare nel piano di preparazione.</text>
+
+  <rect class="card" x="70" y="165" width="1460" height="630" rx="30"/>
+  <g data-safe-box="130 270 360 350 8">
+    <rect class="softBlue" x="130" y="270" width="360" height="350" rx="28"/>
+    <rect x="130" y="270" width="360" height="11" rx="5.5" fill="#10233F"/>
+    <text class="navy label" x="310" y="328" text-anchor="middle" style="font-size:24px">Nucleo comune</text>
+    <path class="thin" d="M168 352 L452 352"/>
+    <text class="muted small" x="310" y="390" text-anchor="middle">si riusa</text>
+<text class="muted small" x="310" y="435" text-anchor="middle">tra piu concorsi</text>
+<text class="muted small" x="310" y="480" text-anchor="middle">non si abbandona</text>
+  </g>
+  <g data-safe-box="620 270 360 350 8">
+    <rect class="softRed" x="620" y="270" width="360" height="350" rx="28"/>
+    <rect x="620" y="270" width="360" height="11" rx="5.5" fill="#7A2430"/>
+    <text class="bordeaux label" x="800" y="328" text-anchor="middle" style="font-size:24px">Modulo necessario</text>
+    <path class="thin" d="M658 352 L942 352"/>
+    <text class="muted small" x="800" y="390" text-anchor="middle">entra se il bando</text>
+<text class="muted small" x="800" y="435" text-anchor="middle">cambia profilo</text>
+<text class="muted small" x="800" y="480" text-anchor="middle">o prova</text>
+  </g>
+  <g data-safe-box="1110 270 360 350 8">
+    <rect class="softGold" x="1110" y="270" width="360" height="350" rx="28"/>
+    <rect x="1110" y="270" width="360" height="11" rx="5.5" fill="#D4AF37"/>
+    <text class="gold label" x="1290" y="328" text-anchor="middle" style="font-size:24px">Approfondimento</text>
+    <path class="thin" d="M1148 352 L1432 352"/>
+    <text class="muted small" x="1290" y="390" text-anchor="middle">resta fuori</text>
+<text class="muted small" x="1290" y="435" text-anchor="middle">se non produce</text>
+<text class="muted small" x="1290" y="480" text-anchor="middle">punteggio</text>
+  </g>
+  <path class="arrowNavy" d="M498 455 L608 455"/>
+  <path class="arrowGold" d="M988 455 L1098 455"/>
+  <g data-safe-box="395 690 810 128 8">
+    <rect class="softGreen" x="395" y="690" width="810" height="128" rx="25"/>
+    <rect x="395" y="690" width="810" height="11" rx="5.5" fill="#2F7D5A"/>
+    <text class="green label" x="800" y="734" text-anchor="middle">Regola pratica</text>
+    <text class="muted small" x="800" y="767" text-anchor="middle">prima garantisci il core minimo</text>
+<text class="muted small" x="800" y="794" text-anchor="middle">poi dai profondita al modulo decisivo</text>
+  </g>
+</svg>

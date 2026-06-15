@@ -47,4 +47,3 @@ Le linee guida ANAC del 2016 sono utili per distinguere accesso civico semplice,
 ## Capitoli collegati
 
 - [[books/il-metodo-bando/chapters/trasparenza-anticorruzione-privacy]]
-

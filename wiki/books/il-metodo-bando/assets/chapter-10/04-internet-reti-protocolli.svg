@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Internet, Web e protocolli</title>
+  <desc id="desc">Browser, DNS, HTTP, posta e cloud usano la rete, ma presidiano livelli diversi.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; }
+      .softRed { fill: #F8E8EA; stroke: #E3B9BF; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E8D080; stroke-width: 2.5; }
+      .softGreen { fill: #E7F3ED; stroke: #A8D1BD; stroke-width: 2.5; }
+      .note { fill: #FFF7ED; stroke: #E7C18E; stroke-width: 2.5; }
+      .ink { fill: #0F172A; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 44px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 23px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 25px; font-weight: 800; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 18px; }
+      .navy { fill: #10233F; }
+      .bordeaux { fill: #7A2430; }
+      .gold { fill: #D4AF37; }
+      .green { fill: #2F7D5A; }
+      .line { stroke: #94A3B8; stroke-width: 4; stroke-linecap: round; fill: none; }
+      .thin { stroke: #CBD5E1; stroke-width: 2.5; stroke-linecap: round; fill: none; }
+      .arrowNavy { stroke: #10233F; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowNavy); }
+      .arrowBordeaux { stroke: #7A2430; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowBordeaux); }
+      .arrowGold { stroke: #D4AF37; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGold); }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#10233F"/>
+    </marker>
+    <marker id="arrowBordeaux" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#7A2430"/>
+    </marker>
+    <marker id="arrowGold" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#D4AF37"/>
+    </marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <text class="ink title" x="800" y="68" text-anchor="middle">Internet, Web e protocolli</text>
+  <text class="muted subtitle" x="800" y="108" text-anchor="middle">Browser, DNS, HTTP, posta e cloud usano la rete, ma presidiano livelli diversi.</text>
+
+  <rect class="card" x="90" y="185" width="1420" height="565" rx="30"/>
+  <text class="navy label" x="800" y="240" text-anchor="middle">Internet e' l'infrastruttura; Web, posta e cloud sono servizi</text>
+  <g data-safe-box="135 330 255 130 8">
+    <rect class="softBlue" x="135" y="330" width="255" height="130" rx="22"/>
+    <rect x="135" y="330" width="255" height="10" rx="5" fill="#10233F"/>
+    <text class="navy label" x="262.5" y="372" text-anchor="middle" style="font-size:25px">Utente</text>
+    <text class="muted small" x="262.5" y="406" text-anchor="middle">browser</text>
+<text class="muted small" x="262.5" y="431" text-anchor="middle">app o client</text>
+  </g>
+  <g data-safe-box="475 330 255 130 8">
+    <rect class="softRed" x="475" y="330" width="255" height="130" rx="22"/>
+    <rect x="475" y="330" width="255" height="10" rx="5" fill="#7A2430"/>
+    <text class="bordeaux label" x="602.5" y="372" text-anchor="middle" style="font-size:25px">DNS</text>
+    <text class="muted small" x="602.5" y="406" text-anchor="middle">nome dominio</text>
+<text class="muted small" x="602.5" y="431" text-anchor="middle">indirizzo IP</text>
+  </g>
+  <g data-safe-box="815 330 255 130 8">
+    <rect class="softGold" x="815" y="330" width="255" height="130" rx="22"/>
+    <rect x="815" y="330" width="255" height="10" rx="5" fill="#D4AF37"/>
+    <text class="gold label" x="942.5" y="372" text-anchor="middle" style="font-size:25px">Server web</text>
+    <text class="muted small" x="942.5" y="406" text-anchor="middle">risorse</text>
+<text class="muted small" x="942.5" y="431" text-anchor="middle">pagine e API</text>
+  </g>
+  <g data-safe-box="1155 330 255 130 8">
+    <rect class="softGreen" x="1155" y="330" width="255" height="130" rx="22"/>
+    <rect x="1155" y="330" width="255" height="10" rx="5" fill="#2F7D5A"/>
+    <text class="green label" x="1282.5" y="372" text-anchor="middle" style="font-size:25px">Servizi</text>
+    <text class="muted small" x="1282.5" y="406" text-anchor="middle">web, email</text>
+<text class="muted small" x="1282.5" y="431" text-anchor="middle">cloud</text>
+  </g>
+  <path class="arrowNavy" d="M400 392 L460 392"/>
+  <path class="arrowBordeaux" d="M740 392 L800 392"/>
+  <path class="arrowGold" d="M1080 392 L1140 392"/>
+  <g data-safe-box="215 575 230 74 8">
+    <rect x="215" y="575" width="230" height="74" rx="20" fill="#10233F"/>
+    <text class="label" x="330" y="606" text-anchor="middle" fill="#FFFFFF" style="font-size:21px">HTTP/HTTPS</text>
+    <text class="small" x="330" y="631" text-anchor="middle" fill="#FFFFFF" style="font-size:16px">pagine web</text>
+  </g>
+  <g data-safe-box="505 575 230 74 8">
+    <rect x="505" y="575" width="230" height="74" rx="20" fill="#7A2430"/>
+    <text class="label" x="620" y="606" text-anchor="middle" fill="#FFFFFF" style="font-size:21px">SMTP/IMAP</text>
+    <text class="small" x="620" y="631" text-anchor="middle" fill="#FFFFFF" style="font-size:16px">posta elettronica</text>
+  </g>
+  <g data-safe-box="795 575 230 74 8">
+    <rect x="795" y="575" width="230" height="74" rx="20" fill="#D4AF37"/>
+    <text class="label" x="910" y="606" text-anchor="middle" fill="#FFFFFF" style="font-size:21px">TCP/IP</text>
+    <text class="small" x="910" y="631" text-anchor="middle" fill="#FFFFFF" style="font-size:16px">rete e trasporto</text>
+  </g>
+  <g data-safe-box="1085 575 230 74 8">
+    <rect x="1085" y="575" width="230" height="74" rx="20" fill="#2F7D5A"/>
+    <text class="label" x="1200" y="606" text-anchor="middle" fill="#FFFFFF" style="font-size:21px">URL</text>
+    <text class="small" x="1200" y="631" text-anchor="middle" fill="#FFFFFF" style="font-size:16px">risorsa sul Web</text>
+  </g>
+  <g data-safe-box="260 800 1080 64 8">
+    <rect class="note" x="260" y="800" width="1080" height="64" rx="24"/>
+    <text class="ink body" x="800" y="840" text-anchor="middle" style="font-weight:800;font-size:19px">Trappola ricorrente: browser, motore di ricerca, Web e Internet non sono sinonimi.</text>
+  </g>
+
+</svg>

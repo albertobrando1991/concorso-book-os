@@ -45,4 +45,3 @@ La fonte serve a spiegare il punto piu delicato del Capitolo 7: trasparenza non 
 ## Capitoli collegati
 
 - [[books/il-metodo-bando/chapters/trasparenza-anticorruzione-privacy]]
-

@@ -16,8 +16,8 @@ formato: "markdown convertito da HTML ufficiale Normattiva"
 
 **Oggetto:** DECRETO LEGISLATIVO 2 luglio 2010, n. 104 - Codice del processo amministrativo (C.P.A.)
 
-**Fonte ufficiale:** [Normattiva](https://www.normattiva.it/uri-res/N2Ls?urn=urn:nir:stato:decreto.legislativo:2010-07-02;104)  
-**Testo vigente / versione:** 2026-05-24  
+**Fonte ufficiale:** [Normattiva](https://www.normattiva.it/uri-res/N2Ls?urn=urn:nir:stato:decreto.legislativo:2010-07-02;104)
+**Testo vigente / versione:** 2026-05-24
 **Avvertenza:** conversione automatica in Markdown dal testo consolidato Normattiva; per uso legale verificare sempre la fonte ufficiale.
 
 ## IL PRESIDENTE DELLA REPUBBLICA

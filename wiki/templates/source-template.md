@@ -33,4 +33,3 @@ authority_level:
 ## Capitoli collegati
 
 ## Stato revisione
-

@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Diario e semaforo decisionale</title>
+  <desc id="desc">Gli errori dicono dove intervenire; il colore decide se continuare o parcheggiare.</desc>
+  <style>
+    .bg { fill: #F8FAFC; }
+    .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+    .title { font: 800 44px Arial, sans-serif; fill: #0F172A; }
+    .subtitle { font: 400 22px Arial, sans-serif; fill: #526174; }
+    .label { font: 800 25px Arial, sans-serif; fill: #0F172A; }
+    .body { font: 400 19px Arial, sans-serif; fill: #0F172A; }
+    .small { font: 400 16px Arial, sans-serif; fill: #0F172A; }
+    .strong { font-weight: 800; }
+    .muted { fill: #526174; }
+    .navy { fill: #10233F; }
+    .whiteText { fill: #FFFFFF; }
+    .line { stroke: #10233F; stroke-width: 6; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+  </style>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#10233F"/>
+    </marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <g data-safe-box="80 16 1440 118 0">
+    <text class="title" x="800" y="68" text-anchor="middle">Diario e semaforo decisionale</text>
+    <text class="subtitle" x="800" y="108" text-anchor="middle">Gli errori dicono dove intervenire; il colore decide se continuare o parcheggiare.</text>
+  </g>
+
+    <rect class="card" x="70" y="165" width="1460" height="630" rx="30"/>
+    <g data-safe-box="135 290 360 130 8">
+    <rect x="135" y="290" width="360" height="130" rx="22" fill="#EAF2FB" stroke="#10233F" stroke-width="3"/>
+    <text class="label" x="315" y="332" text-anchor="middle" fill="#10233F">COMUNE</text>
+    <text class="small" x="315" y="368" text-anchor="middle">vale per piu concorsi</text>
+    <text class="small strong" x="315" y="398" text-anchor="middle">ripasso prioritario</text>
+  </g>
+    <g data-safe-box="135 475 360 130 8">
+    <rect x="135" y="475" width="360" height="130" rx="22" fill="#F8E8EA" stroke="#7A2430" stroke-width="3"/>
+    <text class="label" x="315" y="517" text-anchor="middle" fill="#7A2430">PROFILO</text>
+    <text class="small" x="315" y="553" text-anchor="middle">modulo specifico</text>
+    <text class="small strong" x="315" y="583" text-anchor="middle">blocco mirato</text>
+  </g>
+    <g data-safe-box="135 660 360 130 8">
+    <rect x="135" y="660" width="360" height="130" rx="22" fill="#E4F4F5" stroke="#1F6F78" stroke-width="3"/>
+    <text class="label" x="315" y="702" text-anchor="middle" fill="#1F6F78">LOGISTICA</text>
+    <text class="small" x="315" y="738" text-anchor="middle">scadenze e documenti</text>
+    <text class="small strong" x="315" y="768" text-anchor="middle">checklist subito</text>
+  </g>
+    <path class="line" marker-end="url(#arrow)" d="M530 452 L660 452"/>
+    <g data-safe-box="690 275 780 540 4">
+    <rect x="690" y="275" width="780" height="540" rx="28" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="3"/>
+    <text class="label navy" x="1080" y="317" text-anchor="middle">Revisione settimanale</text>
+
+      <g data-safe-box="810 330 560 120 8">
+        <rect x="810" y="330" width="560" height="120" rx="22" fill="#E7F3ED" stroke="#2F7D5A" stroke-width="3"/>
+        <circle cx="865" cy="390" r="27" fill="#2F7D5A"/>
+        <text class="label" x="990" y="379" text-anchor="middle" fill="#2F7D5A">Verde</text>
+        <text class="small" x="1150" y="379" text-anchor="middle">compatibile</text>
+        <text class="small strong" x="1150" y="411" text-anchor="middle">resta attivo</text>
+      </g>
+
+      <g data-safe-box="810 480 560 120 8">
+        <rect x="810" y="480" width="560" height="120" rx="22" fill="#FFF4CC" stroke="#D4AF37" stroke-width="3"/>
+        <circle cx="865" cy="540" r="27" fill="#D4AF37"/>
+        <text class="label" x="990" y="529" text-anchor="middle" fill="#D4AF37">Giallo</text>
+        <text class="small" x="1150" y="529" text-anchor="middle">sotto pressione</text>
+        <text class="small strong" x="1150" y="561" text-anchor="middle">riduci o proteggi</text>
+      </g>
+
+      <g data-safe-box="810 630 560 120 8">
+        <rect x="810" y="630" width="560" height="120" rx="22" fill="#F8E8EA" stroke="#7A2430" stroke-width="3"/>
+        <circle cx="865" cy="690" r="27" fill="#7A2430"/>
+        <text class="label" x="990" y="679" text-anchor="middle" fill="#7A2430">Rosso</text>
+        <text class="small" x="1150" y="679" text-anchor="middle">rompe il sistema</text>
+        <text class="small strong" x="1150" y="711" text-anchor="middle">parcheggia</text>
+      </g>
+  </g>
+    <g data-safe-box="250 812 1100 66 8">
+    <rect x="250" y="812" width="1100" height="66" rx="22" fill="#FFF7ED" stroke="#EFC58D" stroke-width="3"/>
+    <text class="body strong" x="800" y="855" text-anchor="middle">Un concorso rosso non e' un fallimento: e' un segnale da trattare.</text>
+  </g>
+
+</svg>

@@ -1,4 +1,4 @@
-﻿---
+---
 id: source-diritto-costituzionale-corpus-fonti-ufficiali-2026-05-25
 type: source
 title: "Diritto costituzionale - corpus fonti ufficiali 2026-05-25"
@@ -41,5 +41,3 @@ Corpus raw scaricato da fonti istituzionali per coprire il programma indicato in
 
 ## Note di review
 La giurisprudenza amministrativa citata nel file programma va consolidata in una fase separata: il portale ufficiale della giustizia amministrativa non espone sempre URL stabili ricavabili dalla sola citazione breve. Non sono state scaricate fonti non ufficiali per non contaminare il corpus primario.
-
-

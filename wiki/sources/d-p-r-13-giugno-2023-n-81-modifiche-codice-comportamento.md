@@ -41,4 +41,3 @@ Il decreto aggiorna il codice generale di comportamento dei dipendenti pubblici,
 
 - [[books/il-metodo-bando/chapters/pubblico-impiego-e-organizzazione-pa]]
 - [[books/il-metodo-bando/chapters/trasparenza-anticorruzione-privacy]]
-

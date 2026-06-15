@@ -58,4 +58,3 @@ Fonte utile e specialistica. Richiede review umana per verificare giurisprudenza
 ## Note editoriali
 - Trasformare in unità operativa su responsabilità del dirigente: definizione, evoluzione, caso pratico, domanda-trappola.
 - Utile per profili funzionari/dirigenti, enti locali, contratti pubblici, PNRR e organizzazione della PA.
-

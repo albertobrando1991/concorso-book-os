@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Logistica, ansia e tenuta</title>
+  <desc id="desc">Il rischio pratico si riduce con procedure, margini e istruzioni concrete.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; }
+      .softRed { fill: #F8E8EA; stroke: #E3B9BF; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E8D080; stroke-width: 2.5; }
+      .softGreen { fill: #E7F3ED; stroke: #A8D1BD; stroke-width: 2.5; }
+      .softTeal { fill: #E4F4F5; stroke: #A3D5D8; stroke-width: 2.5; }
+      .note { fill: #FFF7ED; stroke: #E7C18E; stroke-width: 2.5; }
+      .ink { fill: #0F172A; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 43px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 22px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 25px; font-weight: 800; letter-spacing: 0; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 18px; }
+      .navy { fill: #10233F; }
+      .bordeaux { fill: #7A2430; }
+      .gold { fill: #D4AF37; }
+      .green { fill: #2F7D5A; }
+      .teal { fill: #1F6F78; }
+      .line { stroke: #94A3B8; stroke-width: 4; stroke-linecap: round; fill: none; }
+      .thin { stroke: #CBD5E1; stroke-width: 2.5; stroke-linecap: round; fill: none; }
+      .arrowNavy { stroke: #10233F; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowNavy); }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#10233F"/></marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <text class="ink title" x="800" y="68" text-anchor="middle">Logistica, ansia e tenuta</text>
+  <text class="muted subtitle" x="800" y="108" text-anchor="middle">Il rischio pratico si riduce con procedure, margini e istruzioni concrete.</text>
+
+  <rect class="card" x="70" y="165" width="1460" height="630" rx="30"/>
+  <text class="navy label" x="800" y="225" text-anchor="middle">L'ansia si gestisce con procedure, non con frasi vaghe</text>
+  <g data-safe-box="145 290 590 355 8">
+    <rect class="softBlue" x="145" y="290" width="590" height="355" rx="26"/>
+    <rect x="145" y="290" width="590" height="10" rx="5" fill="#10233F"/>
+    <text class="navy label" x="440" y="337" text-anchor="middle" style="font-size:23px">Rischi pratici</text>
+    <g>
+        <text class="navy label" x="260" y="378" text-anchor="middle" style="font-size:16px">Identita</text>
+        <text class="muted small" x="500" y="378" text-anchor="middle" style="font-size:16px">documento valido</text>
+      </g>
+<g>
+        <text class="navy label" x="260" y="426" text-anchor="middle" style="font-size:16px">Convocazione</text>
+        <text class="muted small" x="500" y="426" text-anchor="middle" style="font-size:16px">data, ora, sede</text>
+      </g>
+<g>
+        <text class="navy label" x="260" y="474" text-anchor="middle" style="font-size:16px">Accesso</text>
+        <text class="muted small" x="500" y="474" text-anchor="middle" style="font-size:16px">percorso e margine</text>
+      </g>
+<g>
+        <text class="navy label" x="260" y="522" text-anchor="middle" style="font-size:16px">Materiali</text>
+        <text class="muted small" x="500" y="522" text-anchor="middle" style="font-size:16px">solo ammessi</text>
+      </g>
+<g>
+        <text class="navy label" x="260" y="570" text-anchor="middle" style="font-size:16px">Divieti</text>
+        <text class="muted small" x="500" y="570" text-anchor="middle" style="font-size:16px">telefono, testi, strumenti</text>
+      </g>
+  </g>
+  <g data-safe-box="865 290 590 355 8">
+    <rect class="softRed" x="865" y="290" width="590" height="355" rx="26"/>
+    <rect x="865" y="290" width="590" height="10" rx="5" fill="#7A2430"/>
+    <text class="bordeaux label" x="1160" y="337" text-anchor="middle" style="font-size:23px">Procedure di tenuta</text>
+    <g>
+        <text class="bordeaux label" x="980" y="378" text-anchor="middle" style="font-size:16px">Prima prova</text>
+        <text class="muted small" x="1220" y="378" text-anchor="middle" style="font-size:16px">arriva con margine</text>
+      </g>
+<g>
+        <text class="bordeaux label" x="980" y="426" text-anchor="middle" style="font-size:16px">Inizio</text>
+        <text class="muted small" x="1220" y="426" text-anchor="middle" style="font-size:16px">leggi istruzioni</text>
+      </g>
+<g>
+        <text class="bordeaux label" x="980" y="474" text-anchor="middle" style="font-size:16px">Difficile</text>
+        <text class="muted small" x="1220" y="474" text-anchor="middle" style="font-size:16px">segna e salta</text>
+      </g>
+<g>
+        <text class="bordeaux label" x="980" y="522" text-anchor="middle" style="font-size:16px">Vuoto orale</text>
+        <text class="muted small" x="1220" y="522" text-anchor="middle" style="font-size:16px">definizione e funzione</text>
+      </g>
+<g>
+        <text class="bordeaux label" x="980" y="570" text-anchor="middle" style="font-size:16px">Tempo</text>
+        <text class="muted small" x="1220" y="570" text-anchor="middle" style="font-size:16px">priorita e punti probabili</text>
+      </g>
+  </g>
+  <path class="arrowNavy" d="M755 500 L845 500"/>
+  <g data-safe-box="275 700 330 78 8">
+    <rect x="275" y="700" width="330" height="78" rx="20" fill="#10233F"/>
+    <text class="label" x="440" y="731" text-anchor="middle" fill="#FFFFFF" style="font-size:20px">Verifica</text>
+    <text class="small" x="440" y="758" text-anchor="middle" fill="#FFFFFF" style="font-size:16px">bando e avviso decidono</text>
+  </g>
+  <g data-safe-box="635 700 330 78 8">
+    <rect x="635" y="700" width="330" height="78" rx="20" fill="#2F7D5A"/>
+    <text class="label" x="800" y="731" text-anchor="middle" fill="#FFFFFF" style="font-size:20px">Riduci</text>
+    <text class="small" x="800" y="758" text-anchor="middle" fill="#FFFFFF" style="font-size:16px">margini, percorso, materiali</text>
+  </g>
+  <g data-safe-box="995 700 330 78 8">
+    <rect x="995" y="700" width="330" height="78" rx="20" fill="#7A2430"/>
+    <text class="label" x="1160" y="731" text-anchor="middle" fill="#FFFFFF" style="font-size:20px">Esegui</text>
+    <text class="small" x="1160" y="758" text-anchor="middle" fill="#FFFFFF" style="font-size:16px">istruzioni concrete</text>
+  </g>
+  <g data-safe-box="250 812 1100 64 8">
+    <rect class="note" x="250" y="812" width="1100" height="64" rx="24"/>
+    <text class="ink body" x="800" y="852" text-anchor="middle" style="font-weight:800;font-size:20px">Se un oggetto non e' chiaramente ammesso, non darlo per ammesso.</text>
+  </g>
+</svg>

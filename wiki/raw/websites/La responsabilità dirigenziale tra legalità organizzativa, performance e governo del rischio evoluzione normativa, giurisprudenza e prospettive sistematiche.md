@@ -16,7 +16,7 @@ tags:
 
 ###### Di Palmiro Impera
 
-Consulta il PDF PDF-1  
+Consulta il PDF PDF-1
 
 ***La responsabilità dirigenziale tra legalità organizzativa, performance e governo del rischio: evoluzione normativa, giurisprudenza e prospettive sistematiche***
 
@@ -351,7 +351,7 @@ Art. 3, d.lgs. 27 ottobre 2009, n. 150.
 
 [^3]: La giurisprudenza amministrativa e contabile ha contribuito in modo decisivo a questa trasformazione, ampliando il perimetro degli obblighi di vigilanza, controllo e prevenzione, fino a delineare un modello di responsabilità che non riguarda solo gli atti adottati, ma la struttura organizzativa predisposta per garantirne la regolarità. Tale evoluzione ha condotto alla progressiva affermazione della categoria della colpa organizzativa, che rappresenta oggi uno dei cardini della responsabilità dirigenziale.
 
-Il presente contributo si propone di ricostruire criticamente tale evoluzione, articolando l’analisi in tre direttrici principali: 
+Il presente contributo si propone di ricostruire criticamente tale evoluzione, articolando l’analisi in tre direttrici principali:
 
 1. a) l’evoluzione normativa, dal d.lgs. 165/2001 al d.lgs. 150/2009, fino alle riforme più recenti (d.lgs. 36/2023; d.l. 77/2021);
 2. b) l’elaborazione giurisprudenziale, con particolare attenzione al ruolo del Consiglio di Stato e della Corte dei conti;

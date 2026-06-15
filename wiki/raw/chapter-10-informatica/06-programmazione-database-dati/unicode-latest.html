@@ -1,13 +1,13 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
 
-       "http://www.w3.org/TR/html4/loose.dtd"> 
+       "http://www.w3.org/TR/html4/loose.dtd">
 
 <html>
-<!-- 
+<!--
 This file is part of the content published with each Unicode release,
-including alpha and beta preview releases. Source for this file is 
-maintained in the websites/versions/latest folder of the utc-release-management 
-repo. For releases, it is deployed to a versioned folder under 
+including alpha and beta preview releases. Source for this file is
+maintained in the websites/versions/latest folder of the utc-release-management
+repo. For releases, it is deployed to a versioned folder under
 www.unicode.org/versions.
 -->
 <head>
@@ -17,20 +17,20 @@ www.unicode.org/versions.
 <title>Unicode 17.0.0</title>
 <meta name="revision" content="a71993a5e75773323755a695f87f009fc3edd17f">
 <link rel="stylesheet" type="text/css" href="https://www.unicode.org/webscripts/standard_styles.css">
-<style type="text/css"> 
+<style type="text/css">
 
 :root {
-  /* The following variable is used to control display of a 
-     (pre-release) "Status" paragraph at the top of the page. 
+  /* The following variable is used to control display of a
+     (pre-release) "Status" paragraph at the top of the page.
      The element is displayed during alpha and beta periods,
-     but hidden for the release. 
-  
-     Prior to release, set to: 
+     but hidden for the release.
+
+     Prior to release, set to:
         --status_display: block;
      For the release, set to:
         --status_display: none;
   */
-  --status_display: none; 
+  --status_display: none;
 }
 .status {
   background-color: aquamarine;
@@ -53,10 +53,10 @@ www.unicode.org/versions.
       <td colspan="2">
       <table width="100%" border="0" cellpadding="0" cellspacing="0">
         <tr>
-          
+
           <td class="icon" style="width:38px; height:35px">
           <a href="https://www.unicode.org/">
-          <img border="0" src="https://www.unicode.org/webscripts/logo60s2.gif" align="middle" 
+          <img border="0" src="https://www.unicode.org/webscripts/logo60s2.gif" align="middle"
           alt="[Unicode]" width="34" height="33"></a>
           </td>
 
@@ -66,7 +66,7 @@ www.unicode.org/versions.
           </td>
 
           <td class="bar">
-          <a href="https://www.unicode.org/main.html" class="bar">Tech Site</a> 
+          <a href="https://www.unicode.org/main.html" class="bar">Tech Site</a>
           | <a href="https://www.unicode.org/sitemap/" class="bar">Site Map</a> |
           <a href="https://www.unicode.org/search" class="bar">Search </a>
           </td>
@@ -86,10 +86,10 @@ www.unicode.org/versions.
           <blockquote>
             <h1>Unicode® 17.0.0</h1>
             <h3 align="center" style="margin-top:1em">2025 September 9 (<a href="https://blog.unicode.org/2025/09/unicode-170-release-announcement.html">Announcement</a>)</h3>
-            
+
 <blockquote class="status"><strong>STATUS:</strong> This is a preliminary draft page for an upcoming release. Some details may be missing or incorrect, and some links may be wrong or broken. During the alpha review period, errors are expected and feedback is not necessary. During the beta review period, feedback about errors on this page will be helpful and appreciated.</blockquote>
 
-            <p>This page summarizes the important changes for the Unicode Standard, Version 17.0.0. 
+            <p>This page summarizes the important changes for the Unicode Standard, Version 17.0.0.
               This version supersedes all previous versions of the Unicode Standard.</p>
 <blockquote>
             <ul class="nobullet">
@@ -114,11 +114,11 @@ www.unicode.org/versions.
               <li>I. <a href="#Components">List of Components</a></li>
               <li>M. <a href="#Migration">Implications for Migration</a></li>
             </ul>
-</blockquote>            
+</blockquote>
             <h2><a id="Summary"></a>A. Summary</h2>
-            <p>Unicode 17.0 adds 4803 characters, 
+            <p>Unicode 17.0 adds 4803 characters,
               for a total of 159,801 characters.
-              The new additions include 4 new scripts: 
+              The new additions include 4 new scripts:
             </p>
 
             <ul>
@@ -135,7 +135,7 @@ www.unicode.org/versions.
             </ul>
 
             <h3>Synchronization</h3>
-            <p>Several other important Unicode specifications have been updated for Version 17.0. 
+            <p>Several other important Unicode specifications have been updated for Version 17.0.
               The following four Unicode Technical Standards are versioned in
                 synchrony with the Unicode Standard, because their data files cover the same repertoire.
                 All have been updated to Version 17.0:</p>
@@ -170,9 +170,9 @@ www.unicode.org/versions.
                 </table>
             </div>
 
-<p>Some of the changes in Version 17.0 and associated Unicode Technical Standards 
-  may require modifications 
-  to implementations. For more information, see the migration and modification sections of 
+<p>Some of the changes in Version 17.0 and associated Unicode Technical Standards
+  may require modifications
+  to implementations. For more information, see the migration and modification sections of
   UTS #10, UTS #39, UTS #46, and UTS #51.</p>
 
 <p>See Sections D through H below for additional details regarding the changes in this version of
@@ -197,7 +197,7 @@ of the Unicode Consortium.</p>
           <li>
           <a href="https://www.unicode.org/emoji/techindex.html">Unicode Emoji</a></li>
       </ul>
-            
+
 <h2><a id="Technical_Overview"></a>B. Technical Overview</h2>
 
             <p>Version 17.0 of the Unicode Standard consists of:</p>
@@ -208,12 +208,12 @@ of the Unicode Consortium.</p>
               <li>The Unicode Character Database (UCD)</li>
             </ul>
 
-            <p>The core specification gives the general principles, 
-              requirements for conformance, and guidelines for implementers. The 
-              code charts show representative glyphs for all the Unicode 
-              characters. The Unicode Standard Annexes supply detailed normative 
-              information about particular aspects of the standard. The Unicode 
-              Character Database supplies normative and informative data for 
+            <p>The core specification gives the general principles,
+              requirements for conformance, and guidelines for implementers. The
+              code charts show representative glyphs for all the Unicode
+              characters. The Unicode Standard Annexes supply detailed normative
+              information about particular aspects of the standard. The Unicode
+              Character Database supplies normative and informative data for
               implementers to allow them to implement the Unicode Standard.</p>
 
 <h3><a id="Core_Specification"></a>Core Specification</h3>
@@ -235,8 +235,8 @@ of the Unicode Consortium.</p>
               a <a href="https://www.unicode.org/versions/Unicode17.0.0/UnicodeStandard-17.0.pdf">single pdf</a>. (13 MB)</p>
 
 <h3><a id="Code_Charts"></a>Code Charts</h3>
-            
-            <p>Several sets of code charts are available. They serve different 
+
+            <p>Several sets of code charts are available. They serve different
               purposes:</p>
 <div align="center">
             <table class="simple">
@@ -247,16 +247,16 @@ of the Unicode Consortium.</p>
               <tr>
                 <td nowrap><a href="https://www.unicode.org/charts/">Latest Code Charts</a></td>
                 <td>These charts are always the most current published
-                code charts available, and may be updated at any time. The charts are organized by 
-                scripts and blocks for easy reference. 
-                An online <a href="https://www.unicode.org/charts/charindex.html">index by character name</a> 
-                is also provided. <!-- The <a href="https://www.unicode.org/charts/fr/">Tableaux des caractères</a> 
+                code charts available, and may be updated at any time. The charts are organized by
+                scripts and blocks for easy reference.
+                An online <a href="https://www.unicode.org/charts/charindex.html">index by character name</a>
+                is also provided. <!-- The <a href="https://www.unicode.org/charts/fr/">Tableaux des caractères</a>
                 provides a French translation of these latest code charts. --></td>
               </tr>
               <tr>
                 <td nowrap><a href="https://www.unicode.org/charts/PDF/Unicode-17.0/">Delta Code Charts</a></td>
                 <td>These charts show the
-                new blocks and any blocks in which characters were added 
+                new blocks and any blocks in which characters were added
                 specifically for Unicode 17.0.0. The new characters and any major updates to the
                 representative glyphs are visually highlighted in these charts.</td>
               </tr>
@@ -268,7 +268,7 @@ of the Unicode Consortium.</p>
               </tr>
             </table>
 </div>
-            
+
             <p>The delta and archival code charts are a stable part of this release of the Unicode Standard. They will never be updated.</p>
 
 <h3><a id="Radical_Stroke"></a>Han Radical-Stroke Indices</h3>
@@ -289,12 +289,12 @@ of the Unicode Consortium.</p>
               </tr>
               <tr>
                 <td nowrap><a href="https://www.unicode.org/versions/IICoreRSIndex.pdf">IICore</a> (4.1 MB)</td>
-                <td>A static radical-stroke index PDF file limited to only the 
+                <td>A static radical-stroke index PDF file limited to only the
                   <a href="https://unicode.org/reports/tr38/#kIICore">IICore</a> repertoire. (This RS index is seldom updated.)</td>
               </tr>
               <tr>
                 <td nowrap><a href="https://www.unicode.org/versions/UnihanCore2020RSIndex.pdf">Unihan Core 2020</a> (8.9 MB)</td>
-                <td>A static radical-stroke index PDF file limited to only the 
+                <td>A static radical-stroke index PDF file limited to only the
                   <a href="https://unicode.org/reports/tr38/#kUnihanCore2020">Unihan
                 Core 2020</a> repertoire. (This RS index is seldom updated.)</td>
               </tr>
@@ -340,10 +340,10 @@ version of the document, for reference.</blockquote>
 
 <h3><a id="Version_References"></a>Version References</h3>
 
-            <p>Version 17.0.0 of the Unicode Standard 
+            <p>Version 17.0.0 of the Unicode Standard
               should be referenced as:</p>
             <blockquote>
-              <p>The Unicode Consortium. <em>The Unicode Standard, Version 17.0.0</em>, (South San Francisco: The Unicode Consortium, 
+              <p>The Unicode Consortium. <em>The Unicode Standard, Version 17.0.0</em>, (South San Francisco: The Unicode Consortium,
                 2025. ISBN 978-1-936213-35-1)<br>
                 <a href="https://www.unicode.org/versions/Unicode17.0.0/">https://www.unicode.org/versions/Unicode17.0.0/</a></p>
             </blockquote>
@@ -354,14 +354,14 @@ version of the document, for reference.</blockquote>
                 <a href="https://www.unicode.org/versions/latest/">https://www.unicode.org/versions/latest/</a></p>
             </blockquote>
 
-            <p>A complete specification of the contributory files for Unicode 
+            <p>A complete specification of the contributory files for Unicode
               17.0 is found below in <a href="#Components">Section I, List of Components</a>.
               For examples of how to cite particular portions of the Unicode Standard, see also the <a href="https://www.unicode.org/versions/#References">Reference Examples</a>.</p>
-              
+
 <h3><a id="Errata"></a>Errata</h3>
 
-            <p>Errata incorporated into Unicode 17.0 are listed by date in 
-              a <a href="erratafixed.html">separate table</a>. For corrigenda and errata after the release of Unicode 17.0, see the list of current  
+            <p>Errata incorporated into Unicode 17.0 are listed by date in
+              a <a href="erratafixed.html">separate table</a>. For corrigenda and errata after the release of Unicode 17.0, see the list of current
               <a href="https://www.unicode.org/errata/">Updates and Errata</a>.</p>
 
 <h2><a id="Stability_Policy"></a>C. Stability Policy Update</h2>
@@ -371,9 +371,9 @@ version of the document, for reference.</blockquote>
 <h2><a id="Character_Additions"></a>D. Textual Changes and Character Additions</h2>
 
             <p> Changes in the Unicode Standard Annexes are listed in <a href="#UAX_Changes">Section G</a>.</p>
-            
+
             <h3>Character Assignment Overview</h3>
-            
+
             <p>4803 characters have been added.
              Most character additions are in new blocks, but there are also character additions to a number of existing blocks. For details, see the <a href="https://www.unicode.org/charts/PDF/Unicode-17.0/">delta code charts</a>.</p>
 
@@ -428,15 +428,15 @@ version of the document, for reference.</blockquote>
             <p>There are no new conformance requirements for the core specification in Unicode 17.0.</p>
 
             <h2><a id="Database_Changes"></a>F. Changes in the Unicode Character Database</h2>
-            <p>The detailed listing of all changes to the contributory data files of the Unicode Character Database 
-              for Version 17.0 can be found in 
-              <a href="https://www.unicode.org/reports/tr44/tr44-36.html#Unicode_17.0.0">UAX #44, Unicode Character Database</a>. 
+            <p>The detailed listing of all changes to the contributory data files of the Unicode Character Database
+              for Version 17.0 can be found in
+              <a href="https://www.unicode.org/reports/tr44/tr44-36.html#Unicode_17.0.0">UAX #44, Unicode Character Database</a>.
               The changes listed there include character additions and property revisions to existing characters that will affect implementations.
-              Some of the important impacts on implementations migrating from earlier versions of the standard are highlighted in 
+              Some of the important impacts on implementations migrating from earlier versions of the standard are highlighted in
               <a href="#Migration">Section M</a>.</p>
 
 <h2><a id="UAX_Changes"></a>G. Changes in the Unicode Standard Annexes</h2>
-            <p>In Version 17.0, some of the Unicode Standard Annexes have had significant revisions. The most important of these changes are listed below. For the full details of all changes, see the Modifications section 
+            <p>In Version 17.0, some of the Unicode Standard Annexes have had significant revisions. The most important of these changes are listed below. For the full details of all changes, see the Modifications section
               of each UAX, linked directly from the following list of UAXes.</p>
             <div align="center">
                 <table class="subtle">
@@ -446,19 +446,19 @@ version of the document, for reference.</blockquote>
                   </tr>
                   <tr>
                     <td>
-                      <a href="https://www.unicode.org/reports/tr9/tr9-51.html#Modifications">UAX #9</a><br>Unicode Bidirectional Algorithm           
+                      <a href="https://www.unicode.org/reports/tr9/tr9-51.html#Modifications">UAX #9</a><br>Unicode Bidirectional Algorithm
                     </td>
                     <td><font color="#767676">No significant changes in this version.</font></td>
                   </tr>
                   <tr>
                     <td>
-                      <a href="https://www.unicode.org/reports/tr11/tr11-44.html#Modifications">UAX 
+                      <a href="https://www.unicode.org/reports/tr11/tr11-44.html#Modifications">UAX
                         #11</a><br>East Asian Width</td>
                     <td><font color="#767676">No significant changes in this version.</font></td>
                   </tr>
                   <tr>
                     <td>
-                      <a href="https://www.unicode.org/reports/tr14/tr14-55.html#Modifications">UAX 
+                      <a href="https://www.unicode.org/reports/tr14/tr14-55.html#Modifications">UAX
                         #14</a><br>Unicode Line Breaking Algorithm</td>
                     <td>A new class Unambiguous_Hyphen (HH) has been split off from the class BA. There are updates to rules LB20a, LB21a, LB12, and LB21.
                     The descriptions of classes CM and GL have been updated to reflect the change in the Line_Break property of U+034F COMBINING GRAPHEME JOINER.
@@ -466,28 +466,28 @@ version of the document, for reference.</blockquote>
                   </tr>
                   <tr>
                     <td>
-                      <a href="https://www.unicode.org/reports/tr15/tr15-57.html#Modifications">UAX 
+                      <a href="https://www.unicode.org/reports/tr15/tr15-57.html#Modifications">UAX
                         #15</a><br>Unicode Normalization Forms
                     </td>
                     <td><font color="#767676">No significant changes in this version.</font></td>
                   </tr>
                   <tr>
                     <td>
-                      <a href="https://www.unicode.org/reports/tr24/tr24-39.html#Modifications">UAX 
+                      <a href="https://www.unicode.org/reports/tr24/tr24-39.html#Modifications">UAX
                         #24</a><br>Unicode Script Property
                     </td>
                     <td><font color="#767676">No significant changes in this version.</font></td>
                   </tr>
                   <tr>
                     <td>
-                      <a href="https://www.unicode.org/reports/tr29/tr29-47.html#Modifications">UAX 
+                      <a href="https://www.unicode.org/reports/tr29/tr29-47.html#Modifications">UAX
                         #29</a><br>Unicode Text Segmentation</td>
                     <td>The derivation of Word_Break=ALetter was updated to include
                     U+00B8 CEDILLA, based on usage in Saanich.</td>
                   </tr>
                   <tr>
                     <td>
-                      <a href="https://www.unicode.org/reports/tr31/tr31-43.html#Modifications">UAX 
+                      <a href="https://www.unicode.org/reports/tr31/tr31-43.html#Modifications">UAX
                         #31</a><br>Unicode Identifiers and Syntax
                     </td>
                     <td>The description of the mathematical compatibility notation profile has been updated. A note was added about challenges
@@ -497,30 +497,30 @@ version of the document, for reference.</blockquote>
                   </tr>
                   <tr>
                     <td>
-                      <a href="https://www.unicode.org/reports/tr34/tr34-32.html#Modifications">UAX 
+                      <a href="https://www.unicode.org/reports/tr34/tr34-32.html#Modifications">UAX
                         #34</a><br>Unicode Named Character Sequences</td>
                     <td><font color="#767676">No significant changes in this version.</font></td>
                   </tr>
                   <tr>
                     <td>
-                      <a href="https://www.unicode.org/reports/tr38/tr38-39.html#Modifications">UAX 
+                      <a href="https://www.unicode.org/reports/tr38/tr38-39.html#Modifications">UAX
                         #38</a><br>Unicode Han Database (Unihan)</td>
                     <td>The provisional kGB7 and kJa properties were removed. The provisional kTayNumeric property was added. The description and syntax of numerous properties were updated. In particular, the kTotalStrokes property no longer supports multiple property values. The addition of UNC characters at the end of Extensions C and E, as well as the new Extension J block, were added to the table in Section 4.4.</td>
                   </tr>
                   <tr>
                     <td>
-                      <a href="https://www.unicode.org/reports/tr41/tr41-36.html">UAX 
+                      <a href="https://www.unicode.org/reports/tr41/tr41-36.html">UAX
                       #41</a><br>Common References for Unicode Standard Annexes</td>
                     <td>All references were updated for Unicode 17.0.</td>
                   </tr>
                   <tr>
                     <td>
-                      <a href="https://www.unicode.org/reports/tr42/tr42-38.html#Modifications">UAX 
+                      <a href="https://www.unicode.org/reports/tr42/tr42-38.html#Modifications">UAX
                       #42</a><br>Unicode Character Database in XML</td>
                     <td>New code point attributes, values, and patterns were added for Unicode 17.0. Attributes were removed for deprecated properties: Gr_Link, Hyphen, isc, kGB7, kJa, XO_NFC, XO_NFD, XO_NFKC, XO_NFKD, FC_NFKC. Elements that only contained historical information were removed: normalization-corrections, emoji-sources.</td>
                   </tr>
                   <tr>
-                    <td><a href="https://www.unicode.org/reports/tr44/tr44-36.html#Modifications">UAX 
+                    <td><a href="https://www.unicode.org/reports/tr44/tr44-36.html#Modifications">UAX
                       #44</a><br>
                       Unicode Character Database </td>
                     <td>The documentation was updated to describe the changes to the UCD for
@@ -562,16 +562,16 @@ version of the document, for reference.</blockquote>
                     description of kEH_NoMirror was updated. A new property kEH_AltSeq has been added.</td>
                   </tr>
                 </table>
-              
+
             </div>
-            
+
             <h2><a id="UTS_Changes"></a>H. Changes in Synchronized Unicode Technical Standards</h2>
-            
+
             <p>There are also significant revisions in the Unicode Technical Standards whose
-              versions are synchronized with the Unicode Standard. The most important of these changes are listed below. 
-              For the full details of all changes, see the Modifications section 
+              versions are synchronized with the Unicode Standard. The most important of these changes are listed below.
+              For the full details of all changes, see the Modifications section
               of each UTS, linked directly from the following list of UTSes.</p>
-            
+
             <div align="center">
                 <table class="subtle">
                   <tr>
@@ -610,13 +610,13 @@ version of the document, for reference.</blockquote>
                   </tr>
                   -->
                 </table>
-              
+
             </div>
 
             <h2><a id="Components"></a>I. List of Components</h2>
 
             <p>This section lists the components of Version 17.0.0 of the Unicode
-            Standard. The version numbering and the role of each component are 
+            Standard. The version numbering and the role of each component are
             explained in <a href="https://www.unicode.org/versions/">
             Versions of The Unicode Standard</a>.</p>
 
@@ -1026,8 +1026,8 @@ version of the document, for reference.</blockquote>
 
       <h2><a id="Migration"></a>M. Implications for Migration</h2>
 
-            <p>There are a significant number of changes in Unicode 17.0 which may impact implementations upgrading 
-              to Version 17.0 from earlier versions of the standard. The most important of these are listed 
+            <p>There are a significant number of changes in Unicode 17.0 which may impact implementations upgrading
+              to Version 17.0 from earlier versions of the standard. The most important of these are listed
               and explained here, to help focus on the issues most likely to cause unexpected trouble during upgrades.</p>
 
       <h3>Core Specification Changes</h3>
@@ -1091,7 +1091,7 @@ version of the document, for reference.</blockquote>
           <li>glyph changes for 26 V-source ideographs</li>
       </ul>
 
-      <p>See <a href="https://www.unicode.org/reports/tr38/tr38-39.html">UAX 
+      <p>See <a href="https://www.unicode.org/reports/tr38/tr38-39.html">UAX
                         #38</a>, Unicode Han Database (Unihan) for further details on these changes</p>
 
 <h3>Standardized Variation Sequences</h3>
@@ -1107,7 +1107,7 @@ version of the document, for reference.</blockquote>
 
       <ul>
         <li>There are a number of other Han glyph updates.</li>
-        <li>Other glyph updates are listed explicitly in the 
+        <li>Other glyph updates are listed explicitly in the
           <a href="https://www.unicode.org/charts/PDF/Unicode-17.0/">delta charts index page</a>.</li>
         <li>The two code charts for Egyptian hieroglyphs contain extensive functional and phonetic
         information derived from the data file Unikemet.txt, and have notable further updates for Version 17.0.</li>
@@ -1128,14 +1128,14 @@ version of the document, for reference.</blockquote>
               <h3>&nbsp;</h3>
 </blockquote>
           <hr width="50%">
-             
+
           <div align="center">
             <center>
             <table cellspacing="0" cellpadding="0" border="0">
               <tr>
                 <td><a href="https://www.unicode.org/copyright.html">
-                <img src="https://www.unicode.org/img/hb_notice.gif" border="0" 
-                alt="Access to Copyright and terms of use" width="216" 
+                <img src="https://www.unicode.org/img/hb_notice.gif" border="0"
+                alt="Access to Copyright and terms of use" width="216"
                 height="50"></a></td>
               </tr>
             </table>

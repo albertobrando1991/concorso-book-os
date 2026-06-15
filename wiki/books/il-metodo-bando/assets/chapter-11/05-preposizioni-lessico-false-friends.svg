@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Preposizioni, lessico PA e false friends</title>
+  <desc id="desc">Nei cloze contano collocazioni, contesto amministrativo e falsi amici.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; }
+      .softRed { fill: #F8E8EA; stroke: #E3B9BF; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E8D080; stroke-width: 2.5; }
+      .softGreen { fill: #E7F3ED; stroke: #A8D1BD; stroke-width: 2.5; }
+      .softTeal { fill: #E4F4F5; stroke: #A3D5D8; stroke-width: 2.5; }
+      .note { fill: #FFF7ED; stroke: #E7C18E; stroke-width: 2.5; }
+      .ink { fill: #0F172A; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 44px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 23px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 25px; font-weight: 800; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 18px; }
+      .navy { fill: #10233F; }
+      .bordeaux { fill: #7A2430; }
+      .gold { fill: #D4AF37; }
+      .green { fill: #2F7D5A; }
+      .teal { fill: #1F6F78; }
+      .line { stroke: #94A3B8; stroke-width: 4; stroke-linecap: round; fill: none; }
+      .thin { stroke: #CBD5E1; stroke-width: 2.5; stroke-linecap: round; fill: none; }
+      .arrowNavy { stroke: #10233F; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowNavy); }
+      .arrowBordeaux { stroke: #7A2430; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowBordeaux); }
+      .arrowGold { stroke: #D4AF37; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGold); }
+      .arrowGreen { stroke: #2F7D5A; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGreen); }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#10233F"/>
+    </marker>
+    <marker id="arrowBordeaux" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#7A2430"/>
+    </marker>
+    <marker id="arrowGold" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#D4AF37"/>
+    </marker>
+    <marker id="arrowGreen" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#2F7D5A"/>
+    </marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <text class="ink title" x="800" y="68" text-anchor="middle">Preposizioni, lessico PA e false friends</text>
+  <text class="muted subtitle" x="800" y="108" text-anchor="middle">Nei cloze contano collocazioni, contesto amministrativo e falsi amici.</text>
+
+  <rect class="card" x="85" y="185" width="1430" height="565" rx="30"/>
+  <text class="navy label" x="800" y="240" text-anchor="middle">Studia parole e preposizioni in coppie operative</text>
+  <g data-safe-box="130 310 310 228 8">
+    <rect class="softBlue" x="130" y="310" width="310" height="228" rx="22"/>
+    <rect x="130" y="310" width="310" height="10" rx="5" fill="#10233F"/>
+    <text class="navy label" x="285" y="354" text-anchor="middle" style="font-size:24px">Tempo e luogo</text>
+    <path class="thin" d="M154 374 L416 374"/>
+    <text class="muted small" x="162" y="392" style="font-size:18px">at 9 a.m.</text>
+<text class="muted small" x="162" y="426" style="font-size:18px">on Monday</text>
+<text class="muted small" x="162" y="460" style="font-size:18px">in 2026</text>
+<text class="muted small" x="162" y="494" style="font-size:18px">by 30 June</text>
+  </g>
+  <g data-safe-box="470 310 310 228 8">
+    <rect class="softRed" x="470" y="310" width="310" height="228" rx="22"/>
+    <rect x="470" y="310" width="310" height="10" rx="5" fill="#7A2430"/>
+    <text class="bordeaux label" x="625" y="354" text-anchor="middle" style="font-size:24px">Collocazioni</text>
+    <path class="thin" d="M494 374 L756 374"/>
+    <text class="muted small" x="502" y="392" style="font-size:18px">apply for</text>
+<text class="muted small" x="502" y="426" style="font-size:18px">interested in</text>
+<text class="muted small" x="502" y="460" style="font-size:18px">responsible for</text>
+<text class="muted small" x="502" y="494" style="font-size:18px">according to</text>
+  </g>
+  <g data-safe-box="810 310 310 228 8">
+    <rect class="softGreen" x="810" y="310" width="310" height="228" rx="22"/>
+    <rect x="810" y="310" width="310" height="10" rx="5" fill="#2F7D5A"/>
+    <text class="green label" x="965" y="354" text-anchor="middle" style="font-size:24px">Lessico PA</text>
+    <path class="thin" d="M834 374 L1096 374"/>
+    <text class="muted small" x="842" y="392" style="font-size:18px">application</text>
+<text class="muted small" x="842" y="426" style="font-size:18px">deadline</text>
+<text class="muted small" x="842" y="460" style="font-size:18px">receipt</text>
+<text class="muted small" x="842" y="494" style="font-size:18px">public office</text>
+  </g>
+  <g data-safe-box="1150 310 310 228 8">
+    <rect class="softGold" x="1150" y="310" width="310" height="228" rx="22"/>
+    <rect x="1150" y="310" width="310" height="10" rx="5" fill="#D4AF37"/>
+    <text class="gold label" x="1305" y="354" text-anchor="middle" style="font-size:24px">False friends</text>
+    <path class="thin" d="M1174 374 L1436 374"/>
+    <text class="muted small" x="1182" y="392" style="font-size:18px">actual = reale</text>
+<text class="muted small" x="1182" y="426" style="font-size:18px">library = biblioteca</text>
+<text class="muted small" x="1182" y="460" style="font-size:18px">eventually = alla fine</text>
+<text class="muted small" x="1182" y="494" style="font-size:18px">sensible = ragionevole</text>
+  </g>
+  <g data-safe-box="250 795 1100 64 8">
+    <rect class="note" x="250" y="795" width="1100" height="64" rx="24"/>
+    <text class="ink body" x="800" y="835" text-anchor="middle" style="font-weight:800;font-size:19px">Nel dubbio, scegli il significato coerente con ufficio, procedura, scadenza o servizio.</text>
+  </g>
+
+</svg>

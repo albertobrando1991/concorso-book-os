@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Anatomia del distrattore</title>
+  <desc id="desc">Le opzioni quasi vere si riconoscono da assoluti, inversioni e risposte fuori domanda.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; }
+      .softRed { fill: #F8E8EA; stroke: #E3B9BF; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E8D080; stroke-width: 2.5; }
+      .softGreen { fill: #E7F3ED; stroke: #A8D1BD; stroke-width: 2.5; }
+      .softTeal { fill: #E4F4F5; stroke: #A3D5D8; stroke-width: 2.5; }
+      .note { fill: #FFF7ED; stroke: #E7C18E; stroke-width: 2.5; }
+      .ink { fill: #0F172A; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 43px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 22px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 25px; font-weight: 800; letter-spacing: 0; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 18px; }
+      .navy { fill: #10233F; }
+      .bordeaux { fill: #7A2430; }
+      .gold { fill: #D4AF37; }
+      .green { fill: #2F7D5A; }
+      .teal { fill: #1F6F78; }
+      .line { stroke: #94A3B8; stroke-width: 4; stroke-linecap: round; fill: none; }
+      .thin { stroke: #CBD5E1; stroke-width: 2.5; stroke-linecap: round; fill: none; }
+      .dash { stroke: #94A3B8; stroke-width: 3.5; stroke-linecap: round; stroke-dasharray: 9 10; fill: none; }
+      .arrowNavy { stroke: #10233F; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowNavy); }
+      .arrowBordeaux { stroke: #7A2430; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowBordeaux); }
+      .arrowGold { stroke: #D4AF37; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGold); }
+      .arrowGreen { stroke: #2F7D5A; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGreen); }
+      .arrowTeal { stroke: #1F6F78; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowTeal); }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#10233F"/>
+    </marker>
+    <marker id="arrowBordeaux" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#7A2430"/>
+    </marker>
+    <marker id="arrowGold" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#D4AF37"/>
+    </marker>
+    <marker id="arrowGreen" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#2F7D5A"/>
+    </marker>
+    <marker id="arrowTeal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#1F6F78"/>
+    </marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <text class="ink title" x="800" y="68" text-anchor="middle">Anatomia del distrattore</text>
+  <text class="muted subtitle" x="800" y="108" text-anchor="middle">Le opzioni quasi vere si riconoscono da assoluti, inversioni e risposte fuori domanda.</text>
+
+  <rect class="card" x="90" y="165" width="1420" height="630" rx="30"/>
+  <g data-safe-box="565 205 470 120 8">
+    <rect class="card" x="565" y="205" width="470" height="120" rx="22"/>
+    <rect x="565" y="205" width="470" height="10" rx="5" fill="#10233F"/>
+    <text class="navy label" x="800" y="247" text-anchor="middle" style="font-size:22px">Risposta quasi vera</text>
+    <text class="muted small" x="800" y="279" text-anchor="middle" style="font-size:16px">sembra corretta</text>
+<text class="muted small" x="800" y="304" text-anchor="middle" style="font-size:16px">ma non risponde esattamente</text>
+  </g>
+  <path class="line" d="M800 325 L800 385"/>
+  <path class="line" d="M250 385 L1350 385"/>
+  <path class="line" d="M250 385 L250 465"/>
+  <path class="line" d="M470 385 L470 590"/>
+  <path class="line" d="M690 385 L690 465"/>
+  <path class="line" d="M910 385 L910 590"/>
+  <path class="line" d="M1130 385 L1130 465"/>
+  <path class="line" d="M1350 385 L1350 590"/>
+  <g data-safe-box="115 465 270 115 8">
+    <rect class="softRed" x="115" y="465" width="270" height="115" rx="22"/>
+    <rect x="115" y="465" width="270" height="10" rx="5" fill="#7A2430"/>
+    <text class="bordeaux label" x="250" y="507" text-anchor="middle" style="font-size:25px">Assoluto</text>
+    <text class="muted small" x="250" y="539" text-anchor="middle" style="font-size:18px">sempre, mai</text>
+<text class="muted small" x="250" y="564" text-anchor="middle" style="font-size:18px">tutti, nessuno</text>
+  </g>
+  <g data-safe-box="335 590 270 115 8">
+    <rect class="softBlue" x="335" y="590" width="270" height="115" rx="22"/>
+    <rect x="335" y="590" width="270" height="10" rx="5" fill="#10233F"/>
+    <text class="navy label" x="470" y="632" text-anchor="middle" style="font-size:25px">Inversione</text>
+    <text class="muted small" x="470" y="664" text-anchor="middle" style="font-size:18px">causa effetto</text>
+<text class="muted small" x="470" y="689" text-anchor="middle" style="font-size:18px">regola eccezione</text>
+  </g>
+  <g data-safe-box="555 465 270 115 8">
+    <rect class="softGold" x="555" y="465" width="270" height="115" rx="22"/>
+    <rect x="555" y="465" width="270" height="10" rx="5" fill="#D4AF37"/>
+    <text class="gold label" x="690" y="507" text-anchor="middle" style="font-size:25px">Termine simile</text>
+    <text class="muted small" x="690" y="539" text-anchor="middle" style="font-size:18px">parola vicina</text>
+<text class="muted small" x="690" y="564" text-anchor="middle" style="font-size:18px">istituto diverso</text>
+  </g>
+  <g data-safe-box="775 590 270 115 8">
+    <rect class="softGreen" x="775" y="590" width="270" height="115" rx="22"/>
+    <rect x="775" y="590" width="270" height="10" rx="5" fill="#2F7D5A"/>
+    <text class="green label" x="910" y="632" text-anchor="middle" style="font-size:25px">Mezza verita</text>
+    <text class="muted small" x="910" y="664" text-anchor="middle" style="font-size:18px">corretta in parte</text>
+<text class="muted small" x="910" y="689" text-anchor="middle" style="font-size:18px">ma incompleta</text>
+  </g>
+  <g data-safe-box="995 465 270 115 8">
+    <rect class="softTeal" x="995" y="465" width="270" height="115" rx="22"/>
+    <rect x="995" y="465" width="270" height="10" rx="5" fill="#1F6F78"/>
+    <text class="teal label" x="1130" y="507" text-anchor="middle" style="font-size:25px">Fuori domanda</text>
+    <text class="muted small" x="1130" y="539" text-anchor="middle" style="font-size:18px">vera in se</text>
+<text class="muted small" x="1130" y="564" text-anchor="middle" style="font-size:18px">non richiesta</text>
+  </g>
+  <g data-safe-box="1215 590 270 115 8">
+    <rect class="softRed" x="1215" y="590" width="270" height="115" rx="22"/>
+    <rect x="1215" y="590" width="270" height="10" rx="5" fill="#7A2430"/>
+    <text class="bordeaux label" x="1350" y="632" text-anchor="middle" style="font-size:25px">Dato inutile</text>
+    <text class="muted small" x="1350" y="664" text-anchor="middle" style="font-size:18px">numero presente</text>
+<text class="muted small" x="1350" y="689" text-anchor="middle" style="font-size:18px">ma irrilevante</text>
+  </g>
+  <g data-safe-box="250 812 1100 64 8">
+    <rect class="note" x="250" y="812" width="1100" height="64" rx="24"/>
+    <text class="ink body" x="800" y="852" text-anchor="middle" style="font-weight:800;font-size:20px">Allenati a spiegare perche le alternative sbagliate sono sbagliate.</text>
+  </g>
+
+</svg>

@@ -38,4 +38,3 @@ Da approfondire con fonti specifiche e giurisprudenza.
 
 ## Note editoriali
 Trasformare in schema risposta orale: definizione, funzione, esempio, tutela.
-

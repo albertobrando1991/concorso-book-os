@@ -17,7 +17,7 @@ outline_section: 10
 draft_stage: editorial-revision
 last_compiled_from: ["wiki/sources/informatica-concorsi-corpus-fonti-ufficiali-2026-05-27.md", "wiki/sources/informatica-operativa-office-sistemi-hardware.md", "wiki/sources/reti-web-protocolli-concorsi.md", "wiki/sources/database-programmazione-formati-concorsi.md", "wiki/sources/pa-digitale-cad-identita-documenti-servizi-dati.md", "wiki/sources/sicurezza-informatica-privacy-nis2-pa.md", "wiki/topics/informatica.md", "wiki/topics/competenze-digitali.md", "wiki/topics/pa-digitale.md"]
 created_at: "2026-05-10T11:45:00+02:00"
-updated_at: 2026-05-28T00:00:00+02:00
+updated_at: 2026-05-30T00:00:00+02:00
 ---
 
 # Capitolo 10 - Informatica, PA digitale e competenze digitali
@@ -48,6 +48,8 @@ Al termine del capitolo dovrai essere in grado di:
 > [!NOTE]
 > **Da sapere in 5 righe**
 > Nei concorsi la parola "informatica" non indica solo computer e programmi. Comprende strumenti di produttività, sistemi operativi, reti, sicurezza, basi di dati, linguaggi, formati e servizi digitali della PA. Le domande più frequenti premiano chi conosce definizioni precise e differenze operative. La parte normativa digitale va studiata insieme agli strumenti: PEC, firma, SPID, protocollo e conservazione non sono slogan, ma funzioni amministrative. L'obiettivo non è diventare tecnico informatico, ma riconoscere concetti, errori e responsabilità nel lavoro pubblico.
+
+![Figura 10.1 - Informatica e PA digitale: mappa dei blocchi ad alto rendimento per concorsi pubblici.](../assets/chapter-10/01-mappa-informatica-pa-digitale.png)
 
 ## Come usare il Metodo BANDO
 
@@ -110,6 +112,8 @@ I software si distinguono di solito in:
 > [!NOTE]
 > **Come lo chiede la commissione**
 > Una domanda può chiedere quale tra le opzioni è hardware o software. "Mouse", "stampante" e "RAM" sono hardware. "Sistema operativo", "browser" e "foglio elettronico" sono software. "Driver" non è una periferica: è un software che permette al sistema operativo di comunicare con una periferica.
+
+![Figura 10.2 - Hardware, software e dati: dal componente fisico all'informazione utile per l'azione amministrativa.](../assets/chapter-10/02-hardware-software-dati.png)
 
 ### Bit, byte e unità di misura
 
@@ -261,6 +265,8 @@ Le suite più note sono Microsoft Office, LibreOffice e soluzioni cloud. I progr
 | Database d'ufficio | Access, Base | gestire dati strutturati in tabelle, query, maschere e report |
 | Posta e calendario | Outlook, Thunderbird, webmail | gestire email, contatti, appuntamenti e messaggi |
 
+![Figura 10.3 - File, Office e dati strutturati: distinguere file system, produttivita personale e database.](../assets/chapter-10/03-file-office-dati.png)
+
 ### Videoscrittura: Word e programmi equivalenti
 
 Un programma di videoscrittura serve a creare, modificare, formattare, salvare, stampare ed esportare documenti. Le funzioni ricorrenti sono:
@@ -338,6 +344,8 @@ La distinzione è essenziale: Internet e Web non sono sinonimi. La posta elettro
 > [!WARNING]
 > **Domanda-trappola**
 > Il browser non è un motore di ricerca. Il browser è il programma con cui navighi, come Chrome, Edge, Firefox o Safari. Il motore di ricerca è un servizio che indicizza e cerca informazioni online.
+
+![Figura 10.4 - Internet, Web e protocolli: browser, DNS, server, posta e cloud su livelli diversi della rete.](../assets/chapter-10/04-internet-reti-protocolli.png)
 
 ### Browser, URL e navigazione
 
@@ -554,6 +562,8 @@ La disciplina europea e nazionale in materia di cybersicurezza ha rafforzato obb
 > **Da ricordare**
 > Per un concorso non basta dire "installare antivirus". La risposta completa sulla sicurezza deve citare misure tecniche, misure organizzative, formazione, controllo degli accessi, backup, gestione degli incidenti, protezione dei dati personali e continuità dei servizi.
 
+![Figura 10.5 - Sicurezza informatica nella PA: minacce, controlli e risposta agli incidenti.](../assets/chapter-10/05-sicurezza-informatica-pa.png)
+
 ## 7. Database e SQL
 
 Un **database** è una raccolta organizzata di dati, gestita in modo da consentire inserimento, ricerca, aggiornamento, eliminazione, controllo degli accessi e conservazione coerente. Un **DBMS** è il sistema software che gestisce il database. Esempi ricorrenti sono Access, MySQL, PostgreSQL, SQL Server e Oracle.
@@ -735,6 +745,8 @@ Nel quadro della cittadinanza digitale, cittadini e imprese devono poter interag
 > [!IMPORTANT]
 > **Da sapere**
 > La trasformazione digitale non elimina le garanzie amministrative. Le sposta dentro processi digitali: identificazione, protocollazione, tracciabilità, conservazione, accesso, trasparenza, sicurezza e responsabilità restano centrali.
+
+![Figura 10.6 - Ecosistema della PA digitale: CAD, identita, documenti, comunicazioni, pagamenti, dati e qualita dei servizi.](../assets/chapter-10/06-ecosistema-pa-digitale.png)
 
 ### Responsabile per la transizione digitale
 
@@ -1045,6 +1057,8 @@ Vediamo come si applicano i concetti del capitolo.
 > **Risposta modello**
 > In un procedimento digitale la PA non si limita a ricevere un file. Deve identificare l'utente, acquisire documenti informatici validi, protocollare e fascicolare quando previsto, proteggere i dati personali, consentire pagamenti digitali, comunicare con canali idonei e conservare correttamente gli atti. La qualità digitale è quindi insieme tecnica, giuridica e organizzativa.
 
+![Figura 10.7 - Dall'istanza online alla conservazione: flusso operativo del procedimento digitale.](../assets/chapter-10/07-istanza-online-conservazione.png)
+
 ## 20. Domande da commissario
 
 ### 1. Che differenza c'è tra hardware e software?
@@ -1202,4 +1216,3 @@ Prima di considerare concluso lo studio, verifica di saper rispondere senza esit
 - A cosa servono ANPR, pagoPA, FatturaPA, App IO, SEND e PDND?
 - Che cosa sono open data, API, interoperabilità, cloud e accessibilità?
 - Come si collegano GDPR, data breach, sicurezza informatica e servizi digitali?
-

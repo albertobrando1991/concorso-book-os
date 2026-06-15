@@ -51,4 +51,3 @@ I file EUR-Lex scaricati direttamente sono risultati vuoti e non vanno usati com
 ## Criterio editoriale
 
 Nel Capitolo 7 vanno sviluppati in modo autonomo i nuclei su accesso civico, trasparenza, anticorruzione e privacy. I temi gia trattati nei capitoli su diritto amministrativo e pubblico impiego non devono essere ripetuti integralmente: vanno richiamati solo quando servono a distinguere gli istituti o a risolvere una domanda da quiz.
-

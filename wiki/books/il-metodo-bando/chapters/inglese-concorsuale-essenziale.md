@@ -9,7 +9,7 @@ entities: ["Pubblica amministrazione", "CEFR", "QCER", "Council of Europe", "MIM
 source_refs: ["sources/struttura-madre-il-metodo-bando.md", "sources/inglese-concorsi-corpus-fonti-ufficiali-2026-05-28.md", "sources/inglese-grammatica-concorsuale-cloze-tempi-modali-preposizioni.md", "sources/inglese-lessico-funzioni-comunicative-comprensione.md", "sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego.md", "sources/d-p-r-9-maggio-1994-n-487-accesso-agli-impieghi-pubblici-e-concorsi.md", "sources/d-p-r-16-giugno-2023-n-82-modifiche-al-d-p-r-487-1994-sui-concorsi.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.88
-updated_at: 2026-05-28T17:10:00+02:00
+updated_at: 2026-05-30T00:00:00+02:00
 created_at: 2026-05-10T11:45:00+02:00
 review_required: true
 canonical: true
@@ -33,6 +33,8 @@ La cornice normativa dei concorsi pubblici valorizza l'accertamento della lingua
 > [!NOTE]
 > **Da sapere in 5 righe**
 > L'inglese concorsuale è inglese pratico da prova: completamento di frasi, tempi verbali, ausiliari, modali, preposizioni, lessico, brevi testi, risposte semplici ed email essenziali. La priorità non è sapere tutto, ma riconoscere rapidamente la forma corretta. I livelli QCER/CEFR aiutano a capire la difficoltà attesa, ma il bando decide il formato della prova. Per i profili generalisti, la preparazione efficace si colloca di solito tra A2, B1 e B2 operativo. Il candidato deve allenare grammatica, contesto e velocità.
+
+![Figura 11.1 - Inglese concorsuale essenziale: mappa dei blocchi ad alto rendimento per bando, cloze, grammatica, lessico e output.](../assets/chapter-11/01-mappa-inglese-concorsuale.png)
 
 ## Obiettivi del capitolo
 
@@ -150,6 +152,8 @@ Il segnale è `since 2020`: indica un'azione iniziata nel passato e ancora colle
 > **Domanda-trappola**
 > Se nel cloze compare un modale, controlla subito il verbo successivo. Dopo `can`, `must`, `should`, `may`, `might`, `could`, `would` si usa la forma base: `must send`, non `must to send` e non `must sends`.
 
+![Figura 11.2 - Cloze e completamento frase: metodo in sei passaggi per scegliere la forma corretta.](../assets/chapter-11/02-metodo-cloze.png)
+
 ## 2. Ordine della frase inglese
 
 La frase inglese ordinaria è più rigida di quella italiana. Lo schema base è:
@@ -179,6 +183,8 @@ Nei quiz, l'ordine errato è spesso un distrattore:
 ## 3. Tempi verbali essenziali
 
 I tempi verbali sono il secondo blocco più richiesto. Non devi memorizzare tutte le sfumature: devi riconoscere il tempo coerente con il contesto.
+
+![Figura 11.3 - Tempi verbali e segnali: collegare present, past, perfect, future, passive e conditionals agli indicatori della frase.](../assets/chapter-11/03-tempi-verbali-segnali.png)
 
 ### Present simple
 
@@ -355,6 +361,8 @@ Regola decisiva: dopo un modale semplice si usa la forma base.
 - `can access`, non `can accesses`;
 - `should check`, non `should checking`.
 
+![Figura 11.4 - Ausiliari e modali: be, do, have, modali e risposte brevi senza errori di forma.](../assets/chapter-11/04-ausiliari-modali.png)
+
 ### Risposte brevi
 
 Le risposte brevi riprendono l'ausiliare della domanda.
@@ -411,6 +419,8 @@ Le preposizioni sono tra gli argomenti più insidiosi perché non coincidono sem
 | in base a | `according to` |
 
 Nel cloze, la preposizione va verificata con la parola che la precede o la segue. `Apply for a job`, `send to an office`, `responsible for a procedure`: non basta tradurre.
+
+![Figura 11.5 - Preposizioni, lessico PA e false friends: studiare parole e collocazioni nel contesto amministrativo.](../assets/chapter-11/05-preposizioni-lessico-false-friends.png)
 
 ## 7. Lessico contestuale, sinonimi e false friends
 
@@ -572,6 +582,8 @@ Nei concorsi italiani, non serve discutere tutte le varianti: serve riconoscere 
 | dal 1° maggio al 31 maggio | `from 1 May to 31 May` |
 | il 15 giugno | `on 15 June` |
 | nel 2026 | `in 2026` |
+
+![Figura 11.6 - Reading, email e orale: tre output ricorrenti per comunicare in inglese in modo semplice e corretto.](../assets/chapter-11/06-reading-email-orale.png)
 
 ## 11. Funzioni comunicative e risposte brevi
 
@@ -845,6 +857,8 @@ Completa le frasi scegliendo la forma corretta.
 | 10 | If you submit the form late, it ___ rejected. | is / will be / was |
 
 Soluzioni: 1 `opens`; 2 `sent`; 3 `bring`; 4 `will be`; 5 `since`; 6 `much`; 7 `who`; 8 `by`; 9 `any`; 10 `will be`.
+
+![Figura 11.7 - Piano di ripasso e diario errori: priorita, simulazione e correzione per categoria.](../assets/chapter-11/07-ripasso-diario-errori.png)
 
 ## 18. Preparare inglese con poco tempo
 

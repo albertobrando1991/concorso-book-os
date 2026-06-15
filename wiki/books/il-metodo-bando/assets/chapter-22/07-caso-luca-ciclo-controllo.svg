@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Caso Luca: ciclo di controllo</title>
+  <desc id="desc">Un piano funziona se ogni settimana produce dati, correzioni e decisioni.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; }
+      .softRed { fill: #F8E8EA; stroke: #E3B9BF; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E8D080; stroke-width: 2.5; }
+      .softGreen { fill: #E7F3ED; stroke: #A8D1BD; stroke-width: 2.5; }
+      .softTeal { fill: #E4F4F5; stroke: #A3D5D8; stroke-width: 2.5; }
+      .note { fill: #FFF7ED; stroke: #E7C18E; stroke-width: 2.5; }
+      .ink { fill: #0F172A; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 43px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 22px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 25px; font-weight: 800; letter-spacing: 0; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 18px; }
+      .navy { fill: #10233F; }
+      .bordeaux { fill: #7A2430; }
+      .gold { fill: #D4AF37; }
+      .green { fill: #2F7D5A; }
+      .teal { fill: #1F6F78; }
+      .line { stroke: #94A3B8; stroke-width: 4; stroke-linecap: round; fill: none; }
+      .thin { stroke: #CBD5E1; stroke-width: 2.5; stroke-linecap: round; fill: none; }
+      .arrowNavy { stroke: #10233F; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowNavy); }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#10233F"/></marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <text class="ink title" x="800" y="68" text-anchor="middle">Caso Luca: ciclo di controllo</text>
+  <text class="muted subtitle" x="800" y="108" text-anchor="middle">Un piano funziona se ogni settimana produce dati, correzioni e decisioni.</text>
+
+  <rect class="card" x="70" y="165" width="1460" height="630" rx="30"/>
+  <text class="navy label" x="800" y="225" text-anchor="middle">Luca ha 60 giorni: il piano funziona perche produce prova</text>
+  <g data-safe-box="120 295 360 190 8">
+    <rect class="softBlue" x="120" y="295" width="360" height="190" rx="24"/>
+    <rect x="120" y="295" width="360" height="10" rx="5" fill="#10233F"/>
+    <text class="navy label" x="300" y="343" text-anchor="middle" style="font-size:22px">Giorni 1-10</text>
+    <path class="thin" d="M155 365 L445 365"/>
+    <text class="muted small" x="300" y="400" text-anchor="middle" style="font-size:17px">bando</text>
+<text class="muted small" x="300" y="436" text-anchor="middle" style="font-size:17px">core</text>
+<text class="muted small" x="300" y="472" text-anchor="middle" style="font-size:17px">diagnosi</text>
+  </g>
+  <g data-safe-box="510 295 360 190 8">
+    <rect class="softRed" x="510" y="295" width="360" height="190" rx="24"/>
+    <rect x="510" y="295" width="360" height="10" rx="5" fill="#7A2430"/>
+    <text class="bordeaux label" x="690" y="343" text-anchor="middle" style="font-size:22px">Giorni 11-25</text>
+    <path class="thin" d="M545 365 L835 365"/>
+    <text class="muted small" x="690" y="400" text-anchor="middle" style="font-size:17px">amministrativo</text>
+<text class="muted small" x="690" y="436" text-anchor="middle" style="font-size:17px">accesso</text>
+<text class="muted small" x="690" y="472" text-anchor="middle" style="font-size:17px">pubblico impiego</text>
+  </g>
+  <g data-safe-box="900 295 360 190 8">
+    <rect class="softGold" x="900" y="295" width="360" height="190" rx="24"/>
+    <rect x="900" y="295" width="360" height="10" rx="5" fill="#D4AF37"/>
+    <text class="gold label" x="1080" y="343" text-anchor="middle" style="font-size:22px">Giorni 26-40</text>
+    <path class="thin" d="M935 365 L1225 365"/>
+    <text class="muted small" x="1080" y="400" text-anchor="middle" style="font-size:17px">TUEL</text>
+<text class="muted small" x="1080" y="436" text-anchor="middle" style="font-size:17px">atti</text>
+<text class="muted small" x="1080" y="472" text-anchor="middle" style="font-size:17px">contabilita</text>
+  </g>
+  <g data-safe-box="330 550 360 190 8">
+    <rect class="softGreen" x="330" y="550" width="360" height="190" rx="24"/>
+    <rect x="330" y="550" width="360" height="10" rx="5" fill="#2F7D5A"/>
+    <text class="green label" x="510" y="598" text-anchor="middle" style="font-size:22px">Giorni 41-52</text>
+    <path class="thin" d="M365 620 L655 620"/>
+    <text class="muted small" x="510" y="655" text-anchor="middle" style="font-size:17px">quiz</text>
+<text class="muted small" x="510" y="691" text-anchor="middle" style="font-size:17px">casi</text>
+<text class="muted small" x="510" y="727" text-anchor="middle" style="font-size:17px">correzione</text>
+  </g>
+  <g data-safe-box="850 550 360 190 8">
+    <rect class="softTeal" x="850" y="550" width="360" height="190" rx="24"/>
+    <rect x="850" y="550" width="360" height="10" rx="5" fill="#1F6F78"/>
+    <text class="teal label" x="1030" y="598" text-anchor="middle" style="font-size:22px">Giorni 53-60</text>
+    <path class="thin" d="M885 620 L1175 620"/>
+    <text class="muted small" x="1030" y="655" text-anchor="middle" style="font-size:17px">simulazioni</text>
+<text class="muted small" x="1030" y="691" text-anchor="middle" style="font-size:17px">orale</text>
+<text class="muted small" x="1030" y="727" text-anchor="middle" style="font-size:17px">logistica</text>
+  </g>
+  <path class="arrowNavy" d="M490 405 L500 405"/>
+  <path class="arrowNavy" d="M880 405 L890 405"/>
+  <path class="arrowNavy" d="M1070 500 L935 540"/>
+  <path class="arrowNavy" d="M690 630 L835 630"/>
+  <g data-safe-box="250 812 1100 64 8">
+    <rect class="note" x="250" y="812" width="1100" height="64" rx="24"/>
+    <text class="ink body" x="800" y="852" text-anchor="middle" style="font-weight:800;font-size:20px">Ogni settimana: risultati, errori, tagli e decisione per la settimana successiva.</text>
+  </g>
+</svg>

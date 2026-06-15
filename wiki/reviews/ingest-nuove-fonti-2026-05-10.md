@@ -54,4 +54,3 @@ Sono state integrate due nuove raw sources:
 - Aggiungere fonte ufficiale su PNRR e rendicontazione.
 - Aggiungere fonte dedicata su contabilità pubblica.
 - Usare il manuale Lopilato come supporto concettuale, non come testo da riversare nel libro.
-

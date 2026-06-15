@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Dal fabbisogno all'esecuzione</title>
+  <desc id="desc">La sequenza che impedisce di ridurre il contratto pubblico alla sola gara.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; }
+      .softRed { fill: #F8E8EA; stroke: #E3B9BF; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E8D080; stroke-width: 2.5; }
+      .softGreen { fill: #E7F3ED; stroke: #A8D1BD; stroke-width: 2.5; }
+      .note { fill: #FFF7ED; stroke: #E7C18E; stroke-width: 2.5; }
+      .ink { fill: #0F172A; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 44px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 23px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 25px; font-weight: 800; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 18px; }
+      .tiny { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 16px; }
+      .navy { fill: #10233F; }
+      .bordeaux { fill: #7A2430; }
+      .gold { fill: #D4AF37; }
+      .green { fill: #2F7D5A; }
+      .line { stroke: #94A3B8; stroke-width: 4; stroke-linecap: round; fill: none; }
+      .thin { stroke: #CBD5E1; stroke-width: 2.5; stroke-linecap: round; fill: none; }
+      .arrowNavy { stroke: #10233F; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowNavy); }
+      .arrowBordeaux { stroke: #7A2430; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowBordeaux); }
+      .arrowGold { stroke: #D4AF37; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGold); }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#10233F"/>
+    </marker>
+    <marker id="arrowBordeaux" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#7A2430"/>
+    </marker>
+    <marker id="arrowGold" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#D4AF37"/>
+    </marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <text class="ink title" x="800" y="68" text-anchor="middle">Dal fabbisogno all'esecuzione</text>
+  <text class="muted subtitle" x="800" y="108" text-anchor="middle">La sequenza che impedisce di ridurre il contratto pubblico alla sola gara.</text>
+
+  <g data-safe-box="70 210 200 165 8">
+    <rect class="card" x="70" y="210" width="200" height="165" rx="20"/>
+    <circle cx="170" cy="249" r="25" fill="#D4AF37"/>
+    <text class="ink label" x="170" y="258" text-anchor="middle">1</text>
+    <text class="navy label" x="170" y="303" text-anchor="middle" style="font-size:20px">Fabbisogno</text>
+    <text class="muted small" x="170" y="335" text-anchor="middle" style="font-size:18px">bisogno pubblico</text>
+  </g>
+<g data-safe-box="315 210 200 165 8">
+    <rect class="card" x="315" y="210" width="200" height="165" rx="20"/>
+    <circle cx="415" cy="249" r="25" fill="#D4AF37"/>
+    <text class="ink label" x="415" y="258" text-anchor="middle">2</text>
+    <text class="navy label" x="415" y="303" text-anchor="middle" style="font-size:18px">Programmazione</text>
+    <text class="muted small" x="415" y="335" text-anchor="middle" style="font-size:18px">priorita e risorse</text>
+  </g>
+<g data-safe-box="560 210 200 165 8">
+    <rect class="card" x="560" y="210" width="200" height="165" rx="20"/>
+    <circle cx="660" cy="249" r="25" fill="#D4AF37"/>
+    <text class="ink label" x="660" y="258" text-anchor="middle">3</text>
+    <text class="navy label" x="660" y="303" text-anchor="middle" style="font-size:20px">Progettazione</text>
+    <text class="muted small" x="660" y="335" text-anchor="middle" style="font-size:18px">oggetto e qualita</text>
+  </g>
+<g data-safe-box="805 210 200 165 8">
+    <rect class="card" x="805" y="210" width="200" height="165" rx="20"/>
+    <circle cx="905" cy="249" r="25" fill="#D4AF37"/>
+    <text class="ink label" x="905" y="258" text-anchor="middle">4</text>
+    <text class="navy label" x="905" y="303" text-anchor="middle" style="font-size:20px">Decisione</text>
+    <text class="muted small" x="905" y="335" text-anchor="middle" style="font-size:18px">atto e copertura</text>
+  </g>
+<g data-safe-box="1050 210 200 165 8">
+    <rect class="card" x="1050" y="210" width="200" height="165" rx="20"/>
+    <circle cx="1150" cy="249" r="25" fill="#D4AF37"/>
+    <text class="ink label" x="1150" y="258" text-anchor="middle">5</text>
+    <text class="navy label" x="1150" y="303" text-anchor="middle" style="font-size:20px">Procedura</text>
+    <text class="muted small" x="1150" y="335" text-anchor="middle" style="font-size:18px">modello di scelta</text>
+  </g>
+<g data-safe-box="1295 210 200 165 8">
+    <rect class="card" x="1295" y="210" width="200" height="165" rx="20"/>
+    <circle cx="1395" cy="249" r="25" fill="#D4AF37"/>
+    <text class="ink label" x="1395" y="258" text-anchor="middle">6</text>
+    <text class="navy label" x="1395" y="303" text-anchor="middle" style="font-size:20px">Offerte</text>
+    <text class="muted small" x="1395" y="335" text-anchor="middle" style="font-size:17px">documenti e requisiti</text>
+  </g>
+  <path class="arrowNavy" d="M282 292 L297 292"/>
+<path class="arrowNavy" d="M527 292 L542 292"/>
+<path class="arrowNavy" d="M772 292 L787 292"/>
+<path class="arrowNavy" d="M1017 292 L1032 292"/>
+<path class="arrowNavy" d="M1262 292 L1277 292"/>
+  <path class="arrowGold" d="M1395 340 C1445 410 1340 480 1280 525"/>
+  <g data-safe-box="160 535 200 165 8">
+    <rect class="card" x="160" y="535" width="200" height="165" rx="20"/>
+    <circle cx="260" cy="574" r="25" fill="#D4AF37"/>
+    <text class="ink label" x="260" y="583" text-anchor="middle">7</text>
+    <text class="navy label" x="260" y="628" text-anchor="middle" style="font-size:20px">Valutazione</text>
+    <text class="muted small" x="260" y="660" text-anchor="middle" style="font-size:17px">criteri e controlli</text>
+  </g>
+<g data-safe-box="445 535 200 165 8">
+    <rect class="card" x="445" y="535" width="200" height="165" rx="20"/>
+    <circle cx="545" cy="574" r="25" fill="#D4AF37"/>
+    <text class="ink label" x="545" y="583" text-anchor="middle">8</text>
+    <text class="navy label" x="545" y="628" text-anchor="middle" style="font-size:18px">Aggiudicazione</text>
+    <text class="muted small" x="545" y="660" text-anchor="middle" style="font-size:18px">operatore scelto</text>
+  </g>
+<g data-safe-box="730 535 200 165 8">
+    <rect class="card" x="730" y="535" width="200" height="165" rx="20"/>
+    <circle cx="830" cy="574" r="25" fill="#D4AF37"/>
+    <text class="ink label" x="830" y="583" text-anchor="middle">9</text>
+    <text class="navy label" x="830" y="628" text-anchor="middle" style="font-size:20px">Stipula</text>
+    <text class="muted small" x="830" y="660" text-anchor="middle" style="font-size:17px">vincolo contrattuale</text>
+  </g>
+<g data-safe-box="1015 535 200 165 8">
+    <rect class="card" x="1015" y="535" width="200" height="165" rx="20"/>
+    <circle cx="1115" cy="574" r="25" fill="#D4AF37"/>
+    <text class="ink label" x="1115" y="583" text-anchor="middle">10</text>
+    <text class="navy label" x="1115" y="628" text-anchor="middle" style="font-size:20px">Esecuzione</text>
+    <text class="muted small" x="1115" y="660" text-anchor="middle" style="font-size:18px">prestazione reale</text>
+  </g>
+<g data-safe-box="1300 535 200 165 8">
+    <rect class="card" x="1300" y="535" width="200" height="165" rx="20"/>
+    <circle cx="1400" cy="574" r="25" fill="#D4AF37"/>
+    <text class="ink label" x="1400" y="583" text-anchor="middle">11</text>
+    <text class="navy label" x="1400" y="628" text-anchor="middle" style="font-size:18px">Verifica e dati</text>
+    <text class="muted small" x="1400" y="660" text-anchor="middle" style="font-size:18px">pagamento, BDNCP</text>
+  </g>
+  <path class="arrowBordeaux" d="M372 617 L427 617"/>
+<path class="arrowBordeaux" d="M657 617 L712 617"/>
+<path class="arrowBordeaux" d="M942 617 L997 617"/>
+<path class="arrowBordeaux" d="M1227 617 L1282 617"/>
+  <g data-safe-box="260 800 1080 64 8">
+    <rect class="note" x="260" y="800" width="1080" height="64" rx="24"/>
+    <text class="ink body" x="800" y="840" text-anchor="middle" style="font-weight:800;font-size:18px">Regola da concorso: non saltare dalla gara al pagamento; esecuzione e controlli chiudono il ciclo.</text>
+  </g>
+
+</svg>

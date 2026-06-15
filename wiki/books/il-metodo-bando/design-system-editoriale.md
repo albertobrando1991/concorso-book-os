@@ -280,6 +280,24 @@ Evitare:
 - grafiche a effetto senza funzione;
 - immagini scure o poco leggibili.
 
+## Infografiche pre-epilogative
+Nei capitoli densi o nei blocchi che chiudono un argomento principale, prevedere una **infografica pre-epilogativa** prima di `Da sapere in 5 righe`, `Caso guidato`, `Domanda da commissario` o `Mini-esercizio`.
+
+Funzione:
+- ricomporre i concetti studiati in una mappa unica;
+- aiutare il candidato a vedere nessi, sequenze e differenze;
+- preparare il passaggio dalla teoria all'output di prova;
+- offrire una pagina o mezza pagina riutilizzabile nel ripasso.
+
+Formato consigliato:
+- titolo breve e didattico;
+- massimo 5-7 nodi o passaggi;
+- palette Navy/Bordeaux/Muted Gold con grigi leggibili anche in bianco e nero;
+- didascalia che spieghi come usare lo schema;
+- collegamento al capitolo e al blocco che sintetizza.
+
+Non inserire infografiche pre-epilogative quando il blocco e' gia breve, quando ripetono una mappa iniziale senza aggiungere orientamento, o quando comprimono testo in modo illeggibile.
+
 ## Logica didattica
 Ogni doppia pagina deve idealmente rispondere a una domanda:
 

@@ -30,11 +30,11 @@ sha256: "97A4C5A0D2FD223746C92D38B989A52CB5A8C234A2FE3E7EEB7DC8875CBE2D5E"
 Fonte primaria ufficiale per la disciplina generale del procedimento amministrativo e del diritto di accesso ai documenti amministrativi. Il testo vigente della Legge 7 agosto 1990, n. 241 fonda i nuclei concorsuali su principi dell'attivita amministrativa, responsabile del procedimento, partecipazione, termini, conferenza di servizi, SCIA, silenzio assenso, autotutela, accesso documentale ed efficacia/invalidita del provvedimento.
 
 ## Fonti
-- Raw source aggiornata: 
+- Raw source aggiornata:
 - Fonte ufficiale Normattiva: https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241!vig=
 - Consultazione: 2026-05-24
 - Vigenza pagina Normattiva: 24/05/2026
-- Hash SHA-256 raw markdown: 
+- Hash SHA-256 raw markdown:
 
 ## Topic rilevati
 - [[topics/procedimento-amministrativo]]

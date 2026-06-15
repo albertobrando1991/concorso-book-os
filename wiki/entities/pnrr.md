@@ -30,4 +30,3 @@ Contesto di responsabilità amministrativa collegato a milestone, target, rendic
 
 ## Stato revisione
 Da integrare con fonti MEF/RGS e normativa primaria.
-

@@ -1,4 +1,4 @@
-﻿---
+---
 id: review-diritto-costituzionale-coverage-2026-05-25
 type: review
 title: "Diritto costituzionale - coverage fonti ufficiali 2026-05-25"

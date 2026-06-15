@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Banca dati o no: albero decisionale</title>
+  <desc id="desc">La presenza della banca dati cambia il piano: copertura completa o nuclei e tipologie.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; }
+      .softRed { fill: #F8E8EA; stroke: #E3B9BF; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E8D080; stroke-width: 2.5; }
+      .softGreen { fill: #E7F3ED; stroke: #A8D1BD; stroke-width: 2.5; }
+      .softTeal { fill: #E4F4F5; stroke: #A3D5D8; stroke-width: 2.5; }
+      .note { fill: #FFF7ED; stroke: #E7C18E; stroke-width: 2.5; }
+      .ink { fill: #0F172A; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 43px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 22px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 25px; font-weight: 800; letter-spacing: 0; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 18px; }
+      .navy { fill: #10233F; }
+      .bordeaux { fill: #7A2430; }
+      .gold { fill: #D4AF37; }
+      .green { fill: #2F7D5A; }
+      .teal { fill: #1F6F78; }
+      .line { stroke: #94A3B8; stroke-width: 4; stroke-linecap: round; fill: none; }
+      .thin { stroke: #CBD5E1; stroke-width: 2.5; stroke-linecap: round; fill: none; }
+      .dash { stroke: #94A3B8; stroke-width: 3.5; stroke-linecap: round; stroke-dasharray: 9 10; fill: none; }
+      .arrowNavy { stroke: #10233F; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowNavy); }
+      .arrowBordeaux { stroke: #7A2430; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowBordeaux); }
+      .arrowGold { stroke: #D4AF37; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGold); }
+      .arrowGreen { stroke: #2F7D5A; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGreen); }
+      .arrowTeal { stroke: #1F6F78; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowTeal); }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#10233F"/>
+    </marker>
+    <marker id="arrowBordeaux" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#7A2430"/>
+    </marker>
+    <marker id="arrowGold" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#D4AF37"/>
+    </marker>
+    <marker id="arrowGreen" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#2F7D5A"/>
+    </marker>
+    <marker id="arrowTeal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#1F6F78"/>
+    </marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <text class="ink title" x="800" y="68" text-anchor="middle">Banca dati o no: albero decisionale</text>
+  <text class="muted subtitle" x="800" y="108" text-anchor="middle">La presenza della banca dati cambia il piano: copertura completa o nuclei e tipologie.</text>
+
+  <rect class="card" x="95" y="165" width="1410" height="630" rx="30"/>
+  <g data-safe-box="565 205 470 105 8">
+    <rect class="softBlue" x="565" y="205" width="470" height="105" rx="22"/>
+    <rect x="565" y="205" width="470" height="10" rx="5" fill="#10233F"/>
+    <text class="navy label" x="800" y="247" text-anchor="middle" style="font-size:18px">Il bando prevede banca dati?</text>
+    <text class="muted small" x="800" y="279" text-anchor="middle" style="font-size:16px">controlla avviso, allegati e diario prova</text>
+  </g>
+  <path class="arrowNavy" d="M690 315 C560 365 405 400 305 445"/>
+  <path class="arrowBordeaux" d="M795 315 L795 435"/>
+  <path class="arrowGold" d="M910 315 C1035 365 1185 400 1295 445"/>
+  <g data-safe-box="130 450 350 181 8">
+    <rect class="softGreen" x="130" y="450" width="350" height="181" rx="22"/>
+    <rect x="130" y="450" width="350" height="10" rx="5" fill="#2F7D5A"/>
+    <text class="green label" x="305" y="492" text-anchor="middle" style="font-size:24px">Si, pubblicata</text>
+    <path class="thin" d="M154 510 L456 510"/>
+    <text class="muted small" x="160" y="530" style="font-size:17px">copri tutte le domande</text>
+<text class="muted small" x="160" y="561" style="font-size:17px">spiega alternative</text>
+<text class="muted small" x="160" y="592" style="font-size:17px">ripeti errori e incerte</text>
+  </g>
+  <g data-safe-box="625 440 350 181 8">
+    <rect class="softRed" x="625" y="440" width="350" height="181" rx="22"/>
+    <rect x="625" y="440" width="350" height="10" rx="5" fill="#7A2430"/>
+    <text class="bordeaux label" x="800" y="482" text-anchor="middle" style="font-size:24px">No</text>
+    <path class="thin" d="M649 500 L951 500"/>
+    <text class="muted small" x="655" y="520" style="font-size:17px">studia nuclei</text>
+<text class="muted small" x="655" y="551" style="font-size:17px">allena tipologie</text>
+<text class="muted small" x="655" y="582" style="font-size:17px">simula domande nuove</text>
+  </g>
+  <g data-safe-box="1120 450 350 181 8">
+    <rect class="softGold" x="1120" y="450" width="350" height="181" rx="22"/>
+    <rect x="1120" y="450" width="350" height="10" rx="5" fill="#D4AF37"/>
+    <text class="gold label" x="1295" y="492" text-anchor="middle" style="font-size:24px">Promessa o mista</text>
+    <path class="thin" d="M1144 510 L1446 510"/>
+    <text class="muted small" x="1150" y="530" style="font-size:17px">prepara base comune</text>
+<text class="muted small" x="1150" y="561" style="font-size:17px">tieni calendario elastico</text>
+<text class="muted small" x="1150" y="592" style="font-size:17px">separa gli output</text>
+  </g>
+  <path class="arrowGreen" d="M305 650 C480 735 1065 735 1295 650"/>
+  <g data-safe-box="500 690 600 78 8">
+    <rect x="500" y="690" width="600" height="78" rx="20" fill="#10233F"/>
+    <text class="label" x="800" y="721" text-anchor="middle" fill="#FFFFFF" style="font-size:19px">Decisione finale</text>
+    <text class="small" x="800" y="748" text-anchor="middle" fill="#FFFFFF" style="font-size:14px">scegli copertura, drill o simulazione in base allo scenario</text>
+  </g>
+  <g data-safe-box="250 812 1100 64 8">
+    <rect class="note" x="250" y="812" width="1100" height="64" rx="24"/>
+    <text class="ink body" x="800" y="852" text-anchor="middle" style="font-weight:800;font-size:20px">Regola: non applicare il metodo banca dati a una prova senza banca dati, e viceversa.</text>
+  </g>
+
+</svg>

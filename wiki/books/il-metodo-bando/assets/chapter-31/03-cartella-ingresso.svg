@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Cartella di ingresso</title>
+  <desc id="desc">L'ordine documentale e' gia un comportamento professionale.</desc>
+  <style>
+    .bg { fill: #F8FAFC; }
+    .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+    .title { font: 800 43px Arial, sans-serif; fill: #0F172A; }
+    .subtitle { font: 400 21px Arial, sans-serif; fill: #526174; }
+    .label { font: 800 25px Arial, sans-serif; fill: #0F172A; }
+    .body { font: 400 19px Arial, sans-serif; fill: #0F172A; }
+    .small { font: 400 16px Arial, sans-serif; fill: #0F172A; }
+    .strong { font-weight: 800; }
+    .whiteText { fill: #FFFFFF; }
+    .line { stroke: #10233F; stroke-width: 6; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+  </style>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#10233F"/>
+    </marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <g data-safe-box="80 16 1440 118 0">
+    <text class="title" x="800" y="68" text-anchor="middle">Cartella di ingresso</text>
+    <text class="subtitle" x="800" y="108" text-anchor="middle">L'ordine documentale e' gia un comportamento professionale.</text>
+  </g>
+
+    <rect class="card" x="70" y="165" width="1460" height="630" rx="30"/>
+    <g data-safe-box="150 240 650 350 8">
+    <rect x="150" y="240" width="650" height="350" rx="28" fill="#EAF2FB" stroke="#10233F" stroke-width="3"/>
+    <rect x="150" y="240" width="650" height="14" rx="7" fill="#10233F"/>
+    <text class="label" style="fill:#10233F" x="475" y="298" text-anchor="middle">Fonti e riscontri</text>
+    <g data-safe-box="185 334 580 48 4">
+        <rect x="185" y="334" width="580" height="48" rx="14" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2"/>
+        <text class="small strong" x="290" y="365" text-anchor="middle">Bando</text>
+        <text class="small" x="555" y="365" text-anchor="middle">bando e rettifiche</text>
+      </g>
+<g data-safe-box="185 400 580 48 4">
+        <rect x="185" y="400" width="580" height="48" rx="14" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2"/>
+        <text class="small strong" x="290" y="431" text-anchor="middle">Graduatoria</text>
+        <text class="small" x="555" y="431" text-anchor="middle">esito utile</text>
+      </g>
+<g data-safe-box="185 466 580 48 4">
+        <rect x="185" y="466" width="580" height="48" rx="14" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2"/>
+        <text class="small strong" x="290" y="497" text-anchor="middle">Comunicazioni</text>
+        <text class="small" x="555" y="497" text-anchor="middle">atto dell'ente</text>
+      </g>
+<g data-safe-box="185 532 580 48 4">
+        <rect x="185" y="532" width="580" height="48" rx="14" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2"/>
+        <text class="small strong" x="290" y="563" text-anchor="middle">Riscontro</text>
+        <text class="small" x="555" y="563" text-anchor="middle">accettazione o risposta</text>
+      </g>
+  </g>
+    <g data-safe-box="880 240 650 350 8">
+    <rect x="880" y="240" width="650" height="350" rx="28" fill="#E7F3ED" stroke="#2F7D5A" stroke-width="3"/>
+    <rect x="880" y="240" width="650" height="14" rx="7" fill="#2F7D5A"/>
+    <text class="label" style="fill:#2F7D5A" x="1205" y="298" text-anchor="middle">Ingresso operativo</text>
+    <g data-safe-box="915 334 580 48 4">
+        <rect x="915" y="334" width="580" height="48" rx="14" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2"/>
+        <text class="small strong" x="1020" y="365" text-anchor="middle">Documenti</text>
+        <text class="small" x="1285" y="365" text-anchor="middle">allegati richiesti</text>
+      </g>
+<g data-safe-box="915 400 580 48 4">
+        <rect x="915" y="400" width="580" height="48" rx="14" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2"/>
+        <text class="small strong" x="1020" y="431" text-anchor="middle">Sede</text>
+        <text class="small" x="1285" y="431" text-anchor="middle">data, orario, referente</text>
+      </g>
+<g data-safe-box="915 466 580 48 4">
+        <rect x="915" y="466" width="580" height="48" rx="14" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2"/>
+        <text class="small strong" x="1020" y="497" text-anchor="middle">Regole</text>
+        <text class="small" x="1285" y="497" text-anchor="middle">CCNL e codice</text>
+      </g>
+<g data-safe-box="915 532 580 48 4">
+        <rect x="915" y="532" width="580" height="48" rx="14" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2"/>
+        <text class="small strong" x="1020" y="563" text-anchor="middle">Appunti</text>
+        <text class="small" x="1285" y="563" text-anchor="middle">diario ingresso</text>
+      </g>
+  </g>
+    <g data-safe-box="520 615 560 150 8">
+    <rect x="520" y="615" width="560" height="150" rx="24" fill="#E4F4F5" stroke="#1F6F78" stroke-width="3"/>
+    <rect x="520" y="615" width="560" height="12" rx="6" fill="#1F6F78"/>
+    <text class="label" x="800" y="667" text-anchor="middle">Nome file utile</text>
+    <text class="small" x="800" y="697" text-anchor="middle">data, ente, profilo, documento</text>
+<text class="small" x="800" y="725" text-anchor="middle">copie e ricevute sempre insieme</text>
+  </g>
+    <g data-safe-box="245 810 1110 66 8">
+    <rect x="245" y="810" width="1110" height="66" rx="22" fill="#FFF7ED" stroke="#EFC58D" stroke-width="3"/>
+    <text class="body strong" x="800" y="853" text-anchor="middle">Quando l'ente chiede un riscontro, non devi cercare tra posta, download e chat.</text>
+  </g>
+
+</svg>

@@ -44,4 +44,3 @@ Il Codice privacy nazionale, come adeguato al GDPR dal D.Lgs. 101/2018, completa
 ## Capitoli collegati
 
 - [[books/il-metodo-bando/chapters/trasparenza-anticorruzione-privacy]]
-

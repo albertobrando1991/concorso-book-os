@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Vincoli, serie e pattern</title>
+  <desc id="desc">Trasforma informazioni sparse in blocchi, griglie e regole controllabili.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; }
+      .softRed { fill: #F8E8EA; stroke: #E3B9BF; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E8D080; stroke-width: 2.5; }
+      .softGreen { fill: #E7F3ED; stroke: #A8D1BD; stroke-width: 2.5; }
+      .softTeal { fill: #E4F4F5; stroke: #A3D5D8; stroke-width: 2.5; }
+      .note { fill: #FFF7ED; stroke: #E7C18E; stroke-width: 2.5; }
+      .ink { fill: #0F172A; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 44px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 23px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 25px; font-weight: 800; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 18px; }
+      .navy { fill: #10233F; }
+      .bordeaux { fill: #7A2430; }
+      .gold { fill: #D4AF37; }
+      .green { fill: #2F7D5A; }
+      .teal { fill: #1F6F78; }
+      .line { stroke: #94A3B8; stroke-width: 4; stroke-linecap: round; fill: none; }
+      .thin { stroke: #CBD5E1; stroke-width: 2.5; stroke-linecap: round; fill: none; }
+      .dash { stroke: #94A3B8; stroke-width: 3.5; stroke-linecap: round; stroke-dasharray: 9 10; fill: none; }
+      .arrowNavy { stroke: #10233F; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowNavy); }
+      .arrowBordeaux { stroke: #7A2430; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowBordeaux); }
+      .arrowGold { stroke: #D4AF37; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGold); }
+      .arrowGreen { stroke: #2F7D5A; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGreen); }
+      .arrowTeal { stroke: #1F6F78; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowTeal); }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#10233F"/>
+    </marker>
+    <marker id="arrowBordeaux" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#7A2430"/>
+    </marker>
+    <marker id="arrowGold" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#D4AF37"/>
+    </marker>
+    <marker id="arrowGreen" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#2F7D5A"/>
+    </marker>
+    <marker id="arrowTeal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#1F6F78"/>
+    </marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <text class="ink title" x="800" y="68" text-anchor="middle">Vincoli, serie e pattern</text>
+  <text class="muted subtitle" x="800" y="108" text-anchor="middle">Trasforma informazioni sparse in blocchi, griglie e regole controllabili.</text>
+
+  <rect class="card" x="90" y="175" width="1420" height="610" rx="30"/>
+  <text class="navy label" x="800" y="232" text-anchor="middle">Dalla frase alla struttura controllabile</text>
+  <g data-safe-box="135 315 275 120 8">
+    <rect class="softBlue" x="135" y="315" width="275" height="120" rx="22"/>
+    <rect x="135" y="315" width="275" height="10" rx="5" fill="#10233F"/>
+    <text class="navy label" x="272.5" y="357" text-anchor="middle" style="font-size:25px">Elementi</text>
+    <text class="muted small" x="272.5" y="391" text-anchor="middle" style="font-size:18px">persone, uffici</text>
+<text class="muted small" x="272.5" y="416" text-anchor="middle" style="font-size:18px">giorni, ruoli</text>
+  </g>
+  <g data-safe-box="475 315 275 120 8">
+    <rect class="softRed" x="475" y="315" width="275" height="120" rx="22"/>
+    <rect x="475" y="315" width="275" height="10" rx="5" fill="#7A2430"/>
+    <text class="bordeaux label" x="612.5" y="357" text-anchor="middle" style="font-size:25px">Vincoli certi</text>
+    <text class="muted small" x="612.5" y="391" text-anchor="middle" style="font-size:18px">non prima</text>
+<text class="muted small" x="612.5" y="416" text-anchor="middle" style="font-size:18px">subito dopo</text>
+  </g>
+  <g data-safe-box="815 315 275 120 8">
+    <rect class="softGold" x="815" y="315" width="275" height="120" rx="22"/>
+    <rect x="815" y="315" width="275" height="10" rx="5" fill="#D4AF37"/>
+    <text class="gold label" x="952.5" y="357" text-anchor="middle" style="font-size:25px">Struttura</text>
+    <text class="muted small" x="952.5" y="391" text-anchor="middle" style="font-size:18px">linea</text>
+<text class="muted small" x="952.5" y="416" text-anchor="middle" style="font-size:18px">tabella, griglia</text>
+  </g>
+  <g data-safe-box="1155 315 275 120 8">
+    <rect class="softGreen" x="1155" y="315" width="275" height="120" rx="22"/>
+    <rect x="1155" y="315" width="275" height="10" rx="5" fill="#2F7D5A"/>
+    <text class="green label" x="1292.5" y="357" text-anchor="middle" style="font-size:25px">Casi</text>
+    <text class="muted small" x="1292.5" y="391" text-anchor="middle" style="font-size:18px">prova e scarta</text>
+<text class="muted small" x="1292.5" y="416" text-anchor="middle" style="font-size:18px">controlla tutto</text>
+  </g>
+  <path class="arrowNavy" d="M420 375 L460 375"/>
+  <path class="arrowBordeaux" d="M760 375 L800 375"/>
+  <path class="arrowGold" d="M1100 375 L1140 375"/>
+  <g data-safe-box="160 555 260 78 8">
+    <rect x="160" y="555" width="260" height="78" rx="20" fill="#7A2430"/>
+    <text class="label" x="290" y="587" text-anchor="middle" fill="#FFFFFF" style="font-size:21px">B-C</text>
+    <text class="small" x="290" y="613" text-anchor="middle" fill="#FFFFFF" style="font-size:16px">blocca subito prima</text>
+  </g>
+  <g data-safe-box="480 555 260 78 8">
+    <rect x="480" y="555" width="260" height="78" rx="20" fill="#10233F"/>
+    <text class="label" x="610" y="587" text-anchor="middle" fill="#FFFFFF" style="font-size:21px">1 2 3 4</text>
+    <text class="small" x="610" y="613" text-anchor="middle" fill="#FFFFFF" style="font-size:16px">linea posizioni</text>
+  </g>
+  <g data-safe-box="800 555 260 78 8">
+    <rect x="800" y="555" width="260" height="78" rx="20" fill="#D4AF37"/>
+    <text class="label" x="930" y="587" text-anchor="middle" fill="#FFFFFF" style="font-size:21px">+4 +8 +16</text>
+    <text class="small" x="930" y="613" text-anchor="middle" fill="#FFFFFF" style="font-size:16px">serie numerica</text>
+  </g>
+  <g data-safe-box="1120 555 260 78 8">
+    <rect x="1120" y="555" width="260" height="78" rx="20" fill="#2F7D5A"/>
+    <text class="label" x="1250" y="587" text-anchor="middle" fill="#FFFFFF" style="font-size:21px">+2 +3 +4</text>
+    <text class="small" x="1250" y="613" text-anchor="middle" fill="#FFFFFF" style="font-size:16px">serie alfabetica</text>
+  </g>
+  <path class="dash" d="M290 520 C430 485 545 495 610 545"/>
+  <path class="dash" d="M930 520 C1020 490 1125 495 1245 545"/>
+  <g data-safe-box="250 805 1100 64 8">
+    <rect class="note" x="250" y="805" width="1100" height="64" rx="24"/>
+    <text class="ink body" x="800" y="845" text-anchor="middle" style="font-weight:800;font-size:20px">Se la griglia non parte entro pochi secondi, segna la domanda e proteggi il tempo.</text>
+  </g>
+
+</svg>

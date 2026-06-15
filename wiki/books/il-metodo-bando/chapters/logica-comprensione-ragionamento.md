@@ -9,7 +9,7 @@ entities: ["Formez", "RIPAM", "INVALSI", "OECD", "PISA", "Open Logic Project"]
 source_refs: ["sources/struttura-madre-il-metodo-bando.md", "sources/ripam-quesiti-attitudinali-logica-ragionamento-comprensione.md", "sources/ripam-giustizia-791-prove-logico-critico-verbale.md", "sources/framework-comprensione-ragionamento-invalsi-oecd.md", "sources/manuali-open-logica-ragionamento-critico.md", "sources/capitolo-12-corpus-fonti-logica-comprensione-ragionamento-2026-05-28.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.9
-updated_at: "2026-05-28T21:10:00+02:00"
+updated_at: "2026-06-01T15:24:42+02:00"
 created_at: "2026-05-10T11:45:00+02:00"
 review_required: true
 canonical: true
@@ -35,6 +35,8 @@ Le banche e le prove RIPAM confermano che questa area è composta da più famigl
 > [!NOTE]
 > **Da sapere in cinque righe**
 > In questa materia vince chi classifica il quesito prima di risolverlo. Se è un brano, cerchi evidenza nel testo. Se è una deduzione, traduci le premesse in regole. Se è un vincolo, costruisci una griglia. Se è un calcolo, separi dati utili e distrattori. Se è un argomento, distingui premessa, conclusione e assunzione.
+
+![Figura 12.1 - Logica, comprensione e ragionamento: mappa dei blocchi ad alto rendimento per brani, deduzioni, vincoli, serie, numerico e argomenti.](../assets/chapter-12/01-mappa-logica-comprensione-ragionamento.png)
 
 ## Obiettivi del capitolo
 
@@ -80,6 +82,8 @@ La prima competenza è riconoscere il tipo di domanda. Senza questa classificazi
 | Analogia verbale | coppie di parole | relazione tra termini |
 | Ragionamento numerico | percentuali, rapporti, dati, medie | formula breve e stima |
 | Ragionamento critico | argomento, conclusione, rafforza, indebolisce | premessa-conclusione-assunzione |
+
+![Figura 12.2 - Classifica prima di risolvere: scegliere lo strumento giusto per brano, premesse, vincoli, calcolo e serie.](../assets/chapter-12/02-classifica-prima-di-risolvere.png)
 
 La domanda non va letta una volta sola. Va letta in due passaggi: prima per capire cosa chiede, poi per risolvere. Molti errori nascono da una lettura unica, veloce e ansiosa.
 
@@ -154,6 +158,8 @@ La negazione corretta non è: "nessun ufficio invia ricevuta". La negazione corr
 
 Questa distinzione è decisiva nei quiz. "Non tutti" non significa "nessuno". Significa che almeno un caso fa eccezione.
 
+![Figura 12.3 - Le parole logiche decisive: connettivi, condizioni, quantificatori e negazioni da tradurre prima di scegliere l'opzione.](../assets/chapter-12/03-parole-logiche-decisive.png)
+
 ## Sillogismi e insiemi: non fidarti del buon senso
 
 Un sillogismo chiede se una conclusione segue necessariamente da alcune premesse. La risposta non dipende da ciò che è realistico nel mondo, ma da ciò che le premesse autorizzano.
@@ -215,6 +221,8 @@ Resta B-C in 1-2. Anna e Davide occupano 3-4 e Davide è dopo Anna. Ordine: Brun
 
 La chiave non era indovinare. Era trattare "subito prima" come blocco e testare i casi.
 
+![Figura 12.4 - Vincoli, serie e pattern: trasformare informazioni sparse in blocchi, griglie, linee e regole controllabili.](../assets/chapter-12/04-vincoli-serie-pattern.png)
+
 ## Serie e pattern: cerca la regola più semplice
 
 Le serie numeriche e alfabetiche non chiedono fantasia. Chiedono disciplina: cercare una regola semplice prima di inventare costruzioni complicate.
@@ -264,6 +272,8 @@ Le domande più frequenti chiedono:
 3. Decidi se la domanda chiede un dato, una sintesi, una inferenza o un giudizio sul testo.
 4. Elimina le opzioni troppo generiche, assolute o non supportate.
 5. Scegli la risposta che richiede meno ipotesi esterne.
+
+![Figura 12.5 - Testo e argomento: distinguere dato esplicito, inferenza, premessa, conclusione e assunzione nascosta.](../assets/chapter-12/05-testo-argomento-evidenza.png)
 
 ### Mini-brano guidato
 
@@ -333,6 +343,8 @@ I nuclei più frequenti sono:
 - tabelle;
 - problemi di tempo, distanza, lavoro;
 - distribuzioni e resti.
+
+![Figura 12.6 - Ragionamento numerico rapido: percentuali, proporzioni, tabelle e controllo di plausibilità partono dalla base corretta.](../assets/chapter-12/06-ragionamento-numerico-rapido.png)
 
 ### Percentuali
 
@@ -408,6 +420,8 @@ Opzioni: 10%, 20%, 25%, 30%.
 
 La differenza è 20. La percentuale va calcolata sul valore iniziale: 20/80 = 25%. Se scegli 20%, stai confondendo differenza assoluta e percentuale.
 
+![Figura 12.7 - Tempo, esclusione e diario errori: gestire la prova a più giri e correggere ogni errore per categoria.](../assets/chapter-12/07-tempo-esclusione-diario-errori.png)
+
 ## Gestione del tempo
 
 In una prova a quiz, logica e ragionamento vanno governati con una regola chiara: non tutte le domande meritano subito lo stesso investimento.
@@ -460,22 +474,14 @@ No. Nei quesiti di logica e comprensione, la risposta corretta deve essere suppo
 
 ## Mini-esercizio guidato
 
-Premesse:
+> [!tip]
+> Lavora sempre nello stesso ordine: prima leggi il quesito, poi scegli una risposta, infine confronta la soluzione. Le alternative non devono mai guidare la lettura del problema.
 
-- Tutte le domande complete vengono protocollate.
-- Alcune domande inviate online sono complete.
-- Nessuna domanda protocollata viene esclusa per mancanza di firma.
+| Quesito guidato | Risposte |
+|---|---|
+| Premesse: 1. tutte le domande complete vengono protocollate; 2. alcune domande inviate online sono complete; 3. nessuna domanda protocollata viene esclusa per mancanza di firma. Quale conclusione segue necessariamente? | A. Tutte le domande inviate online vengono protocollate. B. Alcune domande inviate online vengono protocollate. C. Nessuna domanda inviata online viene esclusa. D. Tutte le domande protocollate sono complete. |
 
-Quale conclusione segue necessariamente?
-
-A. Tutte le domande inviate online vengono protocollate.
-B. Alcune domande inviate online vengono protocollate.
-C. Nessuna domanda inviata online viene esclusa.
-D. Tutte le domande protocollate sono complete.
-
-Risposta corretta: B.
-
-Spiegazione: alcune domande online sono complete; tutte le complete sono protocollate; quindi alcune online sono protocollate. A estende "alcune" a "tutte". C aggiunge una esclusione generale non dimostrata. D inverte la prima premessa.
+**Soluzione guidata.** La risposta corretta è **B**. Alcune domande online sono complete; tutte le complete sono protocollate; quindi alcune domande online sono protocollate. A estende "alcune" a "tutte". C aggiunge una esclusione generale non dimostrata. D inverte la prima premessa.
 
 ## Mini-simulazione a tempo
 
@@ -483,155 +489,62 @@ Questa simulazione contiene quesiti originali ispirati alle tipologie concorsual
 
 ### Quesiti
 
-1. Se un atto è pubblicato all'albo, è conoscibile dai cittadini. L'atto X non è conoscibile dai cittadini. Che cosa si può concludere?
-   A. L'atto X è pubblicato all'albo.
-   B. L'atto X non è pubblicato all'albo.
-   C. Tutti gli atti non pubblicati sono inconoscibili.
-   D. Nessuna conclusione è possibile.
+Ogni riga è una scheda di lavoro. La colonna **Quesito** viene sempre prima della colonna **Risposte**: leggi il problema, copri mentalmente le alternative, poi scegli.
 
-2. La negazione corretta di "tutti i candidati hanno consegnato il documento" è:
-   A. nessun candidato ha consegnato il documento;
-   B. alcuni candidati non hanno consegnato il documento;
-   C. tutti i candidati non hanno consegnato il documento;
-   D. solo un candidato ha consegnato il documento.
+#### Blocco 1 - Deduzioni, negazioni, quantificatori
 
-3. Tutti i funzionari del settore A usano la piattaforma. Alcuni dipendenti che usano la piattaforma lavorano da remoto. Quale conclusione segue?
-   A. Tutti i funzionari del settore A lavorano da remoto.
-   B. Alcuni funzionari del settore A lavorano da remoto.
-   C. Alcuni dipendenti che lavorano da remoto usano la piattaforma.
-   D. Nessuna delle precedenti segue necessariamente.
+| Quesito | Risposte |
+|---|---|
+| **1 - Condizionale.** Se un atto è pubblicato all'albo, è conoscibile dai cittadini. L'atto X non è conoscibile dai cittadini. Che cosa si può concludere? | A. L'atto X è pubblicato all'albo. B. L'atto X non è pubblicato all'albo. C. Tutti gli atti non pubblicati sono inconoscibili. D. Nessuna conclusione è possibile. |
+| **2 - Negazione.** La negazione corretta di "tutti i candidati hanno consegnato il documento" è: | A. nessun candidato ha consegnato il documento. B. alcuni candidati non hanno consegnato il documento. C. tutti i candidati non hanno consegnato il documento. D. solo un candidato ha consegnato il documento. |
+| **3 - Quantificatori.** Tutti i funzionari del settore A usano la piattaforma. Alcuni dipendenti che usano la piattaforma lavorano da remoto. Quale conclusione segue? | A. Tutti i funzionari del settore A lavorano da remoto. B. Alcuni funzionari del settore A lavorano da remoto. C. Alcuni dipendenti che lavorano da remoto usano la piattaforma. D. Nessuna delle precedenti segue necessariamente. |
 
-4. Serie: 5, 9, 17, 33, ...
-   A. 49
-   B. 57
-   C. 65
-   D. 66
+#### Blocco 2 - Serie, vincoli, ordinamenti
 
-5. Serie alfabetica: B, D, G, K, ...
-   A. N
-   B. O
-   C. P
-   D. Q
+| Quesito | Risposte |
+|---|---|
+| **4 - Serie numerica.** Serie: 5, 9, 17, 33, ... | A. 49. B. 57. C. 65. D. 66. |
+| **5 - Serie alfabetica.** Serie alfabetica: B, D, G, K, ... | A. N. B. O. C. P. D. Q. |
+| **6 - Ordinamento.** Quattro uffici A, B, C, D sono visitati in ordine. B è subito dopo A. D non è ultimo. C è dopo D. Qual è l'ordine? | A. A-B-D-C. B. D-A-B-C. C. A-D-B-C. D. D-C-A-B. |
 
-6. Quattro uffici A, B, C, D sono visitati in ordine. B è subito dopo A. D non è ultimo. C è dopo D. Qual è l'ordine?
-   A. A-B-D-C
-   B. D-A-B-C
-   C. A-D-B-C
-   D. D-C-A-B
+#### Blocco 3 - Calcolo rapido
 
-7. Un candidato ottiene 36 risposte corrette su 45. Qual è la percentuale di risposte corrette?
-   A. 75%
-   B. 80%
-   C. 82%
-   D. 85%
+| Quesito | Risposte |
+|---|---|
+| **7 - Percentuale.** Un candidato ottiene 36 risposte corrette su 45. Qual è la percentuale di risposte corrette? | A. 75%. B. 80%. C. 82%. D. 85%. |
+| **8 - Proporzione diretta.** Un ufficio evade 240 pratiche in 6 giorni. A ritmo costante, quante pratiche evade in 10 giorni? | A. 360. B. 380. C. 400. D. 420. |
+| **9 - Variazione percentuale.** Il numero di domande passa da 500 a 600. L'aumento percentuale è: | A. 10%. B. 16,7%. C. 20%. D. 25%. |
+| **10 - Proporzione inversa.** Tre addetti completano un lavoro in 12 ore. A parità di ritmo, sei addetti completano lo stesso lavoro in: | A. 3 ore. B. 6 ore. C. 12 ore. D. 24 ore. |
+| **11 - Percentuale su totale.** In un archivio il 40% dei fascicoli è digitale. Se i fascicoli sono 750, quanti sono digitali? | A. 250. B. 280. C. 300. D. 350. |
 
-8. Un ufficio evade 240 pratiche in 6 giorni. A ritmo costante, quante pratiche evade in 10 giorni?
-   A. 360
-   B. 380
-   C. 400
-   D. 420
+#### Blocco 4 - Comprensione del testo e ragionamento critico
 
-9. Il numero di domande passa da 500 a 600. L'aumento percentuale è:
-   A. 10%
-   B. 16,7%
-   C. 20%
-   D. 25%
+| Quesito | Risposte |
+|---|---|
+| **12 - Evidenza nel brano.** "Il servizio è accessibile online, ma resta disponibile uno sportello fisico per gli utenti che non dispongono di strumenti digitali." Quale affermazione è corretta? | A. Il servizio è solo online. B. Lo sportello fisico è disponibile per tutti gli utenti senza limiti. C. Esiste un canale fisico per chi non dispone di strumenti digitali. D. Gli utenti senza strumenti digitali sono esclusi dal servizio. |
+| **13 - Connettivo logico.** Nel brano "L'ente ha rinviato la scadenza, pertanto i candidati possono integrare la domanda", la parola "pertanto" introduce: | A. una causa. B. una conclusione/conseguenza. C. una eccezione. D. un contrasto. |
+| **14 - Indebolimento.** "Da quando è stato introdotto il promemoria via email, le assenze agli appuntamenti sono diminuite. Il promemoria ha ridotto le assenze." Quale informazione indebolisce l'argomento? | A. Il promemoria viene inviato due giorni prima. B. Nello stesso periodo è stata introdotta una sanzione per chi non si presenta. C. Molti utenti leggono la posta elettronica. D. Il servizio riguarda appuntamenti amministrativi. |
+| **15 - Analogia.** Quale parola completa meglio l'analogia: bando : concorso = avviso : ? | A. comunicazione. B. protocollo. C. graduatoria. D. scadenza. |
 
-10. Tre addetti completano un lavoro in 12 ore. A parità di ritmo, sei addetti completano lo stesso lavoro in:
-   A. 3 ore
-   B. 6 ore
-   C. 12 ore
-   D. 24 ore
+#### Blocco 5 - Condizioni, graduatorie, deducibilità
 
-11. In un archivio il 40% dei fascicoli è digitale. Se i fascicoli sono 750, quanti sono digitali?
-   A. 250
-   B. 280
-   C. 300
-   D. 350
+| Quesito | Risposte |
+|---|---|
+| **16 - Condizione necessaria.** Se "solo chi possiede il requisito R può partecipare", quale affermazione è corretta? | A. Il requisito R basta sempre per vincere. B. Chi non possiede R non può partecipare. C. Chi possiede R partecipa necessariamente. D. Chi partecipa non possiede R. |
+| **17 - Graduatoria.** In una graduatoria Marco è prima di Sara. Luca è dopo Sara. Elena è prima di Marco. Chi è sicuramente prima di Luca? | A. solo Sara. B. Marco e Sara. C. Elena, Marco e Sara. D. non si può sapere nulla. |
+| **18 - Media.** Una media di 24 è ottenuta da tre punteggi: 20, 26 e x. Quanto vale x? | A. 24. B. 25. C. 26. D. 28. |
+| **19 - Non deducibile.** Una domanda chiede quale affermazione "non è deducibile" da un brano. Devi scegliere: | A. una frase falsa secondo il testo. B. una frase vera secondo il testo. C. una frase plausibile ma non supportata dal testo. D. una frase identica al testo. |
+| **20 - Contrapposizione.** Se nessun documento incompleto viene accettato, allora: | A. tutti i documenti completi vengono accettati. B. un documento accettato non è incompleto. C. tutti i documenti non accettati sono incompleti. D. nessun documento completo viene accettato. |
 
-12. Brano: "Il servizio è accessibile online, ma resta disponibile uno sportello fisico per gli utenti che non dispongono di strumenti digitali." Quale affermazione è corretta?
-   A. Il servizio è solo online.
-   B. Lo sportello fisico è disponibile per tutti gli utenti senza limiti.
-   C. Esiste un canale fisico per chi non dispone di strumenti digitali.
-   D. Gli utenti senza strumenti digitali sono esclusi dal servizio.
+#### Blocco 6 - Serie miste, variazioni, brani brevi
 
-13. Nel brano "L'ente ha rinviato la scadenza, pertanto i candidati possono integrare la domanda", la parola "pertanto" introduce:
-   A. una causa;
-   B. una conclusione/conseguenza;
-   C. una eccezione;
-   D. un contrasto.
-
-14. Argomento: "Da quando è stato introdotto il promemoria via email, le assenze agli appuntamenti sono diminuite. Il promemoria ha ridotto le assenze." Quale informazione indebolisce l'argomento?
-   A. Il promemoria viene inviato due giorni prima.
-   B. Nello stesso periodo è stata introdotta una sanzione per chi non si presenta.
-   C. Molti utenti leggono la posta elettronica.
-   D. Il servizio riguarda appuntamenti amministrativi.
-
-15. Quale parola completa meglio l'analogia: bando : concorso = avviso : ?
-   A. comunicazione
-   B. protocollo
-   C. graduatoria
-   D. scadenza
-
-16. Se "solo chi possiede il requisito R può partecipare", quale affermazione è corretta?
-   A. Il requisito R basta sempre per vincere.
-   B. Chi non possiede R non può partecipare.
-   C. Chi possiede R partecipa necessariamente.
-   D. Chi partecipa non possiede R.
-
-17. In una graduatoria Marco è prima di Sara. Luca è dopo Sara. Elena è prima di Marco. Chi è sicuramente prima di Luca?
-   A. solo Sara
-   B. Marco e Sara
-   C. Elena, Marco e Sara
-   D. non si può sapere nulla
-
-18. Una media di 24 è ottenuta da tre punteggi: 20, 26 e x. Quanto vale x?
-   A. 24
-   B. 25
-   C. 26
-   D. 28
-
-19. Una domanda chiede quale affermazione "non è deducibile" da un brano. Devi scegliere:
-   A. una frase falsa secondo il testo;
-   B. una frase vera secondo il testo;
-   C. una frase plausibile ma non supportata dal testo;
-   D. una frase identica al testo.
-
-20. Se nessun documento incompleto viene accettato, allora:
-   A. tutti i documenti completi vengono accettati;
-   B. un documento accettato non è incompleto;
-   C. tutti i documenti non accettati sono incompleti;
-   D. nessun documento completo viene accettato.
-
-21. Serie: 2A, 4C, 6E, 8G, ...
-   A. 9H
-   B. 10H
-   C. 10I
-   D. 12I
-
-22. Un prodotto passa da 120 a 90 unità. La diminuzione percentuale è:
-   A. 20%
-   B. 25%
-   C. 30%
-   D. 33,3%
-
-23. Brano: "La misura non elimina il canale tradizionale, ma lo affianca a una procedura digitale più rapida." Il testo sostiene che:
-   A. il canale tradizionale viene sostituito;
-   B. procedura digitale e canale tradizionale coesistono;
-   C. il canale tradizionale è più rapido;
-   D. la procedura digitale è obbligatoria.
-
-24. Quale informazione rafforza l'argomento: "La formazione ha migliorato la qualità delle risposte allo sportello"?
-   A. Dopo la formazione sono diminuiti gli errori nelle informazioni fornite agli utenti.
-   B. La formazione si è svolta in aula.
-   C. Alcuni dipendenti non hanno partecipato.
-   D. Lo sportello è aperto anche il martedì.
-
-25. Se alcune istanze urgenti sono trattate entro 48 ore e tutte le istanze trattate entro 48 ore ricevono una comunicazione automatica, quale conclusione segue?
-   A. Tutte le istanze urgenti ricevono una comunicazione automatica.
-   B. Alcune istanze urgenti ricevono una comunicazione automatica.
-   C. Nessuna istanza non urgente riceve comunicazione automatica.
-   D. Tutte le comunicazioni automatiche riguardano istanze urgenti.
+| Quesito | Risposte |
+|---|---|
+| **21 - Serie mista.** Serie: 2A, 4C, 6E, 8G, ... | A. 9H. B. 10H. C. 10I. D. 12I. |
+| **22 - Diminuzione percentuale.** Un prodotto passa da 120 a 90 unità. La diminuzione percentuale è: | A. 20%. B. 25%. C. 30%. D. 33,3%. |
+| **23 - Coesistenza di canali.** "La misura non elimina il canale tradizionale, ma lo affianca a una procedura digitale più rapida." Il testo sostiene che: | A. il canale tradizionale viene sostituito. B. procedura digitale e canale tradizionale coesistono. C. il canale tradizionale è più rapido. D. la procedura digitale è obbligatoria. |
+| **24 - Rafforzamento.** Quale informazione rafforza l'argomento: "La formazione ha migliorato la qualità delle risposte allo sportello"? | A. Dopo la formazione sono diminuiti gli errori nelle informazioni fornite agli utenti. B. La formazione si è svolta in aula. C. Alcuni dipendenti non hanno partecipato. D. Lo sportello è aperto anche il martedì. |
+| **25 - Catena deduttiva.** Se alcune istanze urgenti sono trattate entro 48 ore e tutte le istanze trattate entro 48 ore ricevono una comunicazione automatica, quale conclusione segue? | A. Tutte le istanze urgenti ricevono una comunicazione automatica. B. Alcune istanze urgenti ricevono una comunicazione automatica. C. Nessuna istanza non urgente riceve comunicazione automatica. D. Tutte le comunicazioni automatiche riguardano istanze urgenti. |
 
 ### Soluzioni ragionate
 

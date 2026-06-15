@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Struttura base di ogni piano</title>
+  <desc id="desc">Studio, richiamo, ripasso, output e correzione devono comparire ogni settimana.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; }
+      .softRed { fill: #F8E8EA; stroke: #E3B9BF; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E8D080; stroke-width: 2.5; }
+      .softGreen { fill: #E7F3ED; stroke: #A8D1BD; stroke-width: 2.5; }
+      .softTeal { fill: #E4F4F5; stroke: #A3D5D8; stroke-width: 2.5; }
+      .note { fill: #FFF7ED; stroke: #E7C18E; stroke-width: 2.5; }
+      .ink { fill: #0F172A; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 43px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 22px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 25px; font-weight: 800; letter-spacing: 0; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 18px; }
+      .navy { fill: #10233F; }
+      .bordeaux { fill: #7A2430; }
+      .gold { fill: #D4AF37; }
+      .green { fill: #2F7D5A; }
+      .teal { fill: #1F6F78; }
+      .line { stroke: #94A3B8; stroke-width: 4; stroke-linecap: round; fill: none; }
+      .thin { stroke: #CBD5E1; stroke-width: 2.5; stroke-linecap: round; fill: none; }
+      .arrowNavy { stroke: #10233F; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowNavy); }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#10233F"/></marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <text class="ink title" x="800" y="68" text-anchor="middle">Struttura base di ogni piano</text>
+  <text class="muted subtitle" x="800" y="108" text-anchor="middle">Studio, richiamo, ripasso, output e correzione devono comparire ogni settimana.</text>
+
+  <rect class="card" x="70" y="165" width="1460" height="630" rx="30"/>
+  <text class="navy label" x="800" y="230" text-anchor="middle">Un calendario con sola lettura non e' ancora un piano</text>
+  <g data-safe-box="105 330 205 205 8">
+    <rect class="softBlue" x="105" y="330" width="205" height="205" rx="24"/>
+    <circle cx="207.5" cy="373" r="28" fill="#10233F"/>
+    <text class="label" x="207.5" y="382" text-anchor="middle" fill="#FFFFFF">1</text>
+    <text class="navy label" x="207.5" y="424" text-anchor="middle" style="font-size:19px">Studio nuovo</text>
+    <text class="muted small" x="207.5" y="472" text-anchor="middle" style="font-size:15px">contenuti essenziali</text>
+  </g>
+<g data-safe-box="400 330 205 205 8">
+    <rect class="softRed" x="400" y="330" width="205" height="205" rx="24"/>
+    <circle cx="502.5" cy="373" r="28" fill="#7A2430"/>
+    <text class="label" x="502.5" y="382" text-anchor="middle" fill="#FFFFFF">2</text>
+    <text class="bordeaux label" x="502.5" y="424" text-anchor="middle" style="font-size:19px">Richiamo attivo</text>
+    <text class="muted small" x="502.5" y="472" text-anchor="middle" style="font-size:15px">rispondere senza testo</text>
+  </g>
+<g data-safe-box="695 330 205 205 8">
+    <rect class="softGold" x="695" y="330" width="205" height="205" rx="24"/>
+    <circle cx="797.5" cy="373" r="28" fill="#D4AF37"/>
+    <text class="label" x="797.5" y="382" text-anchor="middle" fill="#FFFFFF">3</text>
+    <text class="gold label" x="797.5" y="424" text-anchor="middle" style="font-size:19px">Ripasso</text>
+    <text class="muted small" x="797.5" y="472" text-anchor="middle" style="font-size:15px">tornare prima di dimenticare</text>
+  </g>
+<g data-safe-box="990 330 205 205 8">
+    <rect class="softGreen" x="990" y="330" width="205" height="205" rx="24"/>
+    <circle cx="1092.5" cy="373" r="28" fill="#2F7D5A"/>
+    <text class="label" x="1092.5" y="382" text-anchor="middle" fill="#FFFFFF">4</text>
+    <text class="green label" x="1092.5" y="424" text-anchor="middle" style="font-size:19px">Output</text>
+    <text class="muted small" x="1092.5" y="472" text-anchor="middle" style="font-size:14px">quiz, caso, orale, simulazione</text>
+  </g>
+<g data-safe-box="1285 330 205 205 8">
+    <rect class="softTeal" x="1285" y="330" width="205" height="205" rx="24"/>
+    <circle cx="1387.5" cy="373" r="28" fill="#1F6F78"/>
+    <text class="label" x="1387.5" y="382" text-anchor="middle" fill="#FFFFFF">5</text>
+    <text class="teal label" x="1387.5" y="424" text-anchor="middle" style="font-size:19px">Correzione</text>
+    <text class="muted small" x="1387.5" y="472" text-anchor="middle" style="font-size:15px">errori e passo successivo</text>
+  </g>
+  <path class="arrowNavy" d="M315 435 L390 435"/>
+  <path class="arrowNavy" d="M610 435 L685 435"/>
+  <path class="arrowNavy" d="M905 435 L980 435"/>
+  <path class="arrowNavy" d="M1200 435 L1275 435"/>
+  <g data-safe-box="250 705 1100 64 8">
+    <rect class="note" x="250" y="705" width="1100" height="64" rx="24"/>
+    <text class="ink body" x="800" y="745" text-anchor="middle" style="font-weight:800;font-size:20px">Ogni settimana deve dire: studio, richiamo, ripasso, produco e correggo.</text>
+  </g>
+</svg>

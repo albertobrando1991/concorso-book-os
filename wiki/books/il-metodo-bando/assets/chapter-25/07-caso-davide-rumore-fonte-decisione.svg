@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Caso Davide: dal rumore alla decisione</title>
+  <desc id="desc">Una voce non ufficiale diventa utile solo dopo verifica e impatto BANDO.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; }
+      .softRed { fill: #F8E8EA; stroke: #E3B9BF; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E8D080; stroke-width: 2.5; }
+      .softGreen { fill: #E7F3ED; stroke: #A8D1BD; stroke-width: 2.5; }
+      .softTeal { fill: #E4F4F5; stroke: #A3D5D8; stroke-width: 2.5; }
+      .note { fill: #FFF7ED; stroke: #E7C18E; stroke-width: 2.5; }
+      .ink { fill: #0F172A; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 43px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 22px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 25px; font-weight: 800; letter-spacing: 0; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 18px; }
+      .navy { fill: #10233F; }
+      .bordeaux { fill: #7A2430; }
+      .gold { fill: #D4AF37; }
+      .green { fill: #2F7D5A; }
+      .teal { fill: #1F6F78; }
+      .line { stroke: #94A3B8; stroke-width: 4; stroke-linecap: round; fill: none; }
+      .thin { stroke: #CBD5E1; stroke-width: 2.5; stroke-linecap: round; fill: none; }
+      .arrowNavy { stroke: #10233F; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowNavy); }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#10233F"/></marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <text class="ink title" x="800" y="68" text-anchor="middle">Caso Davide: dal rumore alla decisione</text>
+  <text class="muted subtitle" x="800" y="108" text-anchor="middle">Una voce non ufficiale diventa utile solo dopo verifica e impatto BANDO.</text>
+
+  <rect class="card" x="70" y="165" width="1460" height="630" rx="30"/>
+  <text class="navy label" x="800" y="225" text-anchor="middle">Privacy nel gruppo: Davide verifica prima di aprire un modulo avanzato</text>
+  <g data-safe-box="120 305 320 190 8">
+    <rect class="softRed" x="120" y="305" width="320" height="190" rx="24"/>
+    <rect x="120" y="305" width="320" height="10" rx="5" fill="#7A2430"/>
+    <text class="bordeaux label" x="280" y="353" text-anchor="middle" style="font-size:22px">Rumore</text>
+    <path class="thin" d="M165 375 L395 375"/>
+    <text class="muted small" x="280" y="405" text-anchor="middle" style="font-size:16px">voce in gruppo</text>
+<text class="muted small" x="280" y="435" text-anchor="middle" style="font-size:16px">piu privacy</text>
+  </g>
+  <path class="arrowNavy" d="M455 405 L535 405"/>
+  <g data-safe-box="560 305 320 190 8">
+    <rect class="softBlue" x="560" y="305" width="320" height="190" rx="24"/>
+    <rect x="560" y="305" width="320" height="10" rx="5" fill="#10233F"/>
+    <text class="navy label" x="720" y="353" text-anchor="middle" style="font-size:22px">Fonti</text>
+    <path class="thin" d="M605 375 L835 375"/>
+    <text class="muted small" x="720" y="405" text-anchor="middle" style="font-size:16px">bando</text>
+<text class="muted small" x="720" y="435" text-anchor="middle" style="font-size:16px">sito ente</text>
+<text class="muted small" x="720" y="465" text-anchor="middle" style="font-size:16px">nucleo comune</text>
+  </g>
+  <path class="arrowNavy" d="M895 405 L975 405"/>
+  <g data-safe-box="1000 305 360 190 8">
+    <rect class="softGold" x="1000" y="305" width="360" height="190" rx="24"/>
+    <rect x="1000" y="305" width="360" height="10" rx="5" fill="#D4AF37"/>
+    <text class="gold label" x="1180" y="353" text-anchor="middle" style="font-size:22px">Impatto</text>
+    <path class="thin" d="M1045 375 L1315 375"/>
+    <text class="muted small" x="1180" y="405" text-anchor="middle" style="font-size:16px">privacy essenziale</text>
+<text class="muted small" x="1180" y="435" text-anchor="middle" style="font-size:16px">nessuna rettifica</text>
+<text class="muted small" x="1180" y="465" text-anchor="middle" style="font-size:16px">nessun manuale nuovo</text>
+  </g>
+  <g data-safe-box="330 560 360 190 8">
+    <rect class="softGreen" x="330" y="560" width="360" height="190" rx="24"/>
+    <rect x="330" y="560" width="360" height="10" rx="5" fill="#2F7D5A"/>
+    <text class="green label" x="510" y="608" text-anchor="middle" style="font-size:22px">Decisione</text>
+    <path class="thin" d="M375 630 L645 630"/>
+    <text class="muted small" x="510" y="660" text-anchor="middle" style="font-size:16px">bilanciamento</text>
+<text class="muted small" x="510" y="690" text-anchor="middle" style="font-size:16px">2 casi pratici</text>
+<text class="muted small" x="510" y="720" text-anchor="middle" style="font-size:16px">simulazione mantenuta</text>
+  </g>
+  <path class="arrowNavy" d="M1180 500 L710 560"/>
+  <g data-safe-box="820 560 360 190 8">
+    <rect class="softTeal" x="820" y="560" width="360" height="190" rx="24"/>
+    <rect x="820" y="560" width="360" height="10" rx="5" fill="#1F6F78"/>
+    <text class="teal label" x="1000" y="608" text-anchor="middle" style="font-size:22px">Diario</text>
+    <path class="thin" d="M865 630 L1135 630"/>
+    <text class="muted small" x="1000" y="660" text-anchor="middle" style="font-size:16px">ansia da fonte</text>
+<text class="muted small" x="1000" y="690" text-anchor="middle" style="font-size:16px">non ufficiale</text>
+<text class="muted small" x="1000" y="720" text-anchor="middle" style="font-size:16px">prossimo controllo</text>
+  </g>
+  <path class="arrowNavy" d="M700 650 L805 650"/>
+  <g data-safe-box="250 812 1100 64 8">
+    <rect class="note" x="250" y="812" width="1100" height="64" rx="24"/>
+    <text class="ink body" x="800" y="852" text-anchor="middle" style="font-weight:800;font-size:20px">Davide non ignora la privacy: la studia al livello richiesto dal bando.</text>
+  </g>
+</svg>

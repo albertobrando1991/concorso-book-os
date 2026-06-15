@@ -39,4 +39,3 @@ Review obbligatoria: integrare fonti MEF/RGS e normativa primaria.
 
 ## Note editoriali
 Usare come esempio di concorso moderno in cui contano dati, tempi, rendicontazione e responsabilità.
-

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Scheda orale del bando</title>
+  <desc id="desc">Prima di parlare, delimita materie, prove accessorie, criteri e vincoli.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; }
+      .softRed { fill: #F8E8EA; stroke: #E3B9BF; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E8D080; stroke-width: 2.5; }
+      .softGreen { fill: #E7F3ED; stroke: #A8D1BD; stroke-width: 2.5; }
+      .softTeal { fill: #E4F4F5; stroke: #A3D5D8; stroke-width: 2.5; }
+      .note { fill: #FFF7ED; stroke: #E7C18E; stroke-width: 2.5; }
+      .ink { fill: #0F172A; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 43px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 22px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 25px; font-weight: 800; letter-spacing: 0; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 18px; }
+      .navy { fill: #10233F; }
+      .bordeaux { fill: #7A2430; }
+      .gold { fill: #D4AF37; }
+      .green { fill: #2F7D5A; }
+      .teal { fill: #1F6F78; }
+      .line { stroke: #94A3B8; stroke-width: 4; stroke-linecap: round; fill: none; }
+      .thin { stroke: #CBD5E1; stroke-width: 2.5; stroke-linecap: round; fill: none; }
+      .dash { stroke: #94A3B8; stroke-width: 3.5; stroke-linecap: round; stroke-dasharray: 9 10; fill: none; }
+      .arrowNavy { stroke: #10233F; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowNavy); }
+      .arrowBordeaux { stroke: #7A2430; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowBordeaux); }
+      .arrowGold { stroke: #D4AF37; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGold); }
+      .arrowGreen { stroke: #2F7D5A; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGreen); }
+      .arrowTeal { stroke: #1F6F78; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowTeal); }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#10233F"/>
+    </marker>
+    <marker id="arrowBordeaux" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#7A2430"/>
+    </marker>
+    <marker id="arrowGold" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#D4AF37"/>
+    </marker>
+    <marker id="arrowGreen" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#2F7D5A"/>
+    </marker>
+    <marker id="arrowTeal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#1F6F78"/>
+    </marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <text class="ink title" x="800" y="68" text-anchor="middle">Scheda orale del bando</text>
+  <text class="muted subtitle" x="800" y="108" text-anchor="middle">Prima di parlare, delimita materie, prove accessorie, criteri e vincoli.</text>
+
+  <rect class="card" x="90" y="165" width="1420" height="630" rx="30"/>
+  <text class="navy label" x="800" y="228" text-anchor="middle">La scheda orale delimita il colloquio prima dello studio</text>
+  <g data-safe-box="135 310 310 181 8">
+    <rect class="softBlue" x="135" y="310" width="310" height="181" rx="22"/>
+    <rect x="135" y="310" width="310" height="10" rx="5" fill="#10233F"/>
+    <text class="navy label" x="290" y="352" text-anchor="middle" style="font-size:24px">Perimetro</text>
+    <path class="thin" d="M159 370 L421 370"/>
+    <text class="muted small" x="165" y="390" style="font-size:17px">materie orali</text>
+<text class="muted small" x="165" y="421" style="font-size:17px">profilo specifico</text>
+<text class="muted small" x="165" y="452" style="font-size:17px">durata indicativa</text>
+  </g>
+  <g data-safe-box="495 310 310 181 8">
+    <rect class="softRed" x="495" y="310" width="310" height="181" rx="22"/>
+    <rect x="495" y="310" width="310" height="10" rx="5" fill="#7A2430"/>
+    <text class="bordeaux label" x="650" y="352" text-anchor="middle" style="font-size:24px">Prove accessorie</text>
+    <path class="thin" d="M519 370 L781 370"/>
+    <text class="muted small" x="525" y="390" style="font-size:17px">inglese</text>
+<text class="muted small" x="525" y="421" style="font-size:17px">informatica</text>
+<text class="muted small" x="525" y="452" style="font-size:17px">documenti</text>
+  </g>
+  <g data-safe-box="855 310 310 181 8">
+    <rect class="softGold" x="855" y="310" width="310" height="181" rx="22"/>
+    <rect x="855" y="310" width="310" height="10" rx="5" fill="#D4AF37"/>
+    <text class="gold label" x="1010" y="352" text-anchor="middle" style="font-size:24px">Valutazione</text>
+    <path class="thin" d="M879 370 L1141 370"/>
+    <text class="muted small" x="885" y="390" style="font-size:17px">criteri</text>
+<text class="muted small" x="885" y="421" style="font-size:17px">soglia minima</text>
+<text class="muted small" x="885" y="452" style="font-size:17px">commissione</text>
+  </g>
+  <g data-safe-box="1215 310 250 181 8">
+    <rect class="softGreen" x="1215" y="310" width="250" height="181" rx="22"/>
+    <rect x="1215" y="310" width="250" height="10" rx="5" fill="#2F7D5A"/>
+    <text class="green label" x="1340" y="352" text-anchor="middle" style="font-size:24px">Rischi</text>
+    <path class="thin" d="M1239 370 L1441 370"/>
+    <text class="muted small" x="1245" y="390" style="font-size:17px">materie deboli</text>
+<text class="muted small" x="1245" y="421" style="font-size:17px">lacune</text>
+<text class="muted small" x="1245" y="452" style="font-size:17px">logistica</text>
+  </g>
+  <path class="dash" d="M170 610 L1430 610"/>
+  <g data-safe-box="250 660 300 78 8">
+    <rect x="250" y="660" width="300" height="78" rx="20" fill="#7A2430"/>
+    <text class="label" x="400" y="691" text-anchor="middle" fill="#FFFFFF" style="font-size:21px">Da verificare</text>
+    <text class="small" x="400" y="718" text-anchor="middle" fill="#FFFFFF" style="font-size:16px">non affidarti alla memoria</text>
+  </g>
+  <g data-safe-box="650 660 300 78 8">
+    <rect x="650" y="660" width="300" height="78" rx="20" fill="#2F7D5A"/>
+    <text class="label" x="800" y="691" text-anchor="middle" fill="#FFFFFF" style="font-size:21px">Da allenare</text>
+    <text class="small" x="800" y="718" text-anchor="middle" fill="#FFFFFF" style="font-size:16px">domande e simulazioni</text>
+  </g>
+  <g data-safe-box="1050 660 300 78 8">
+    <rect x="1050" y="660" width="300" height="78" rx="20" fill="#1F6F78"/>
+    <text class="label" x="1200" y="691" text-anchor="middle" fill="#FFFFFF" style="font-size:21px">Da portare</text>
+    <text class="small" x="1200" y="718" text-anchor="middle" fill="#FFFFFF" style="font-size:16px">documenti e avvisi</text>
+  </g>
+  <g data-safe-box="250 812 1100 64 8">
+    <rect class="note" x="250" y="812" width="1100" height="64" rx="24"/>
+    <text class="ink body" x="800" y="852" text-anchor="middle" style="font-weight:800;font-size:19px">Il bando decide il perimetro: lingua, informatica, materie e criteri non sono dettagli.</text>
+  </g>
+
+</svg>

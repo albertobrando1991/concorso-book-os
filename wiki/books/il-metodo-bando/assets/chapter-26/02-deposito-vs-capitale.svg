@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Deposito o capitale?</title>
+  <desc id="desc">Conservare tutto non crea vantaggio: crea solo peso da gestire.</desc>
+  <style>
+    .bg { fill: #F8FAFC; }
+    .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+    .title { font: 800 44px Arial, sans-serif; fill: #0F172A; }
+    .subtitle { font: 400 22px Arial, sans-serif; fill: #526174; }
+    .label { font: 800 25px Arial, sans-serif; fill: #0F172A; }
+    .body { font: 400 19px Arial, sans-serif; fill: #0F172A; }
+    .small { font: 400 16px Arial, sans-serif; fill: #0F172A; }
+    .strong { font-weight: 800; }
+    .muted { fill: #526174; }
+    .navy { fill: #10233F; }
+    .line { stroke: #10233F; stroke-width: 6; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+  </style>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#10233F"/>
+    </marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <g data-safe-box="80 16 1440 118 0">
+    <text class="title" x="800" y="68" text-anchor="middle">Deposito o capitale?</text>
+    <text class="subtitle" x="800" y="108" text-anchor="middle">Conservare tutto non crea vantaggio: crea solo peso da gestire.</text>
+  </g>
+
+    <rect class="card" x="70" y="165" width="1460" height="630" rx="30"/>
+    <g data-safe-box="135 240 400 380 20">
+    <rect x="135" y="240" width="400" height="380" rx="26" fill="#F8E8EA" stroke="#7A2430" stroke-width="3"/>
+    <rect x="135" y="240" width="400" height="14" rx="7" fill="#7A2430"/>
+    <text class="label" x="335" y="308" text-anchor="middle" fill="#7A2430">Deposito</text>
+    <line x1="205" y1="335" x2="465" y2="335" stroke="#CBD5E1" stroke-width="3"/>
+    <text class="small" x="335" y="370" text-anchor="middle">PDF mai letti</text>
+<text class="small" x="335" y="404" text-anchor="middle">screenshot senza contesto</text>
+<text class="small" x="335" y="438" text-anchor="middle">appunti duplicati</text>
+<text class="small" x="335" y="472" text-anchor="middle">flashcard mai ripetute</text>
+<text class="small" x="335" y="506" text-anchor="middle">riassunti non verificati</text>
+  </g>
+    <g data-safe-box="650 312 300 275 18">
+    <rect x="650" y="312" width="300" height="275" rx="28" fill="#FFF7ED" stroke="#EFC58D" stroke-width="3"/>
+    <text class="label" x="800" y="374" text-anchor="middle">Filtro</text>
+    <text class="small" x="800" y="430" text-anchor="middle">corretto?</text>
+    <text class="small" x="800" y="466" text-anchor="middle">sintetico?</text>
+    <text class="small" x="800" y="502" text-anchor="middle">collegato al bando?</text>
+    <text class="small" x="800" y="538" text-anchor="middle">produce output?</text>
+  </g>
+    <g data-safe-box="985 240 400 380 20">
+    <rect x="985" y="240" width="400" height="380" rx="26" fill="#E7F3ED" stroke="#2F7D5A" stroke-width="3"/>
+    <rect x="985" y="240" width="400" height="14" rx="7" fill="#2F7D5A"/>
+    <text class="label" x="1185" y="308" text-anchor="middle" fill="#2F7D5A">Capitale</text>
+    <line x1="1055" y1="335" x2="1315" y2="335" stroke="#CBD5E1" stroke-width="3"/>
+    <text class="small" x="1185" y="370" text-anchor="middle">schemi corretti</text>
+<text class="small" x="1185" y="404" text-anchor="middle">domande riusabili</text>
+<text class="small" x="1185" y="438" text-anchor="middle">errori classificati</text>
+<text class="small" x="1185" y="472" text-anchor="middle">casi svolti</text>
+<text class="small" x="1185" y="506" text-anchor="middle">output datati e corretti</text>
+  </g>
+    <path class="line" marker-end="url(#arrow)" d="M590 450 L650 450"/>
+    <path class="line" marker-end="url(#arrow)" d="M950 450 L985 450"/>
+    <g data-safe-box="250 812 1100 66 12">
+    <rect x="250" y="812" width="1100" height="66" rx="22" fill="#FFF7ED" stroke="#EFC58D" stroke-width="3"/>
+    <text class="body strong" x="800" y="855" text-anchor="middle">Il capitale di studio non e' cio che hai letto: e' cio che puoi riusare.</text>
+  </g>
+
+</svg>

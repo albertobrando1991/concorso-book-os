@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Tempo, revisione e diario dello scritto</title>
+  <desc id="desc">La simulazione vale se corregge pertinenza, struttura, lessico e gestione tempo.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; }
+      .softRed { fill: #F8E8EA; stroke: #E3B9BF; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E8D080; stroke-width: 2.5; }
+      .softGreen { fill: #E7F3ED; stroke: #A8D1BD; stroke-width: 2.5; }
+      .softTeal { fill: #E4F4F5; stroke: #A3D5D8; stroke-width: 2.5; }
+      .note { fill: #FFF7ED; stroke: #E7C18E; stroke-width: 2.5; }
+      .ink { fill: #0F172A; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 43px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 22px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 25px; font-weight: 800; letter-spacing: 0; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 18px; }
+      .navy { fill: #10233F; }
+      .bordeaux { fill: #7A2430; }
+      .gold { fill: #D4AF37; }
+      .green { fill: #2F7D5A; }
+      .teal { fill: #1F6F78; }
+      .line { stroke: #94A3B8; stroke-width: 4; stroke-linecap: round; fill: none; }
+      .thin { stroke: #CBD5E1; stroke-width: 2.5; stroke-linecap: round; fill: none; }
+      .dash { stroke: #94A3B8; stroke-width: 3.5; stroke-linecap: round; stroke-dasharray: 9 10; fill: none; }
+      .arrowNavy { stroke: #10233F; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowNavy); }
+      .arrowBordeaux { stroke: #7A2430; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowBordeaux); }
+      .arrowGold { stroke: #D4AF37; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGold); }
+      .arrowGreen { stroke: #2F7D5A; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGreen); }
+      .arrowTeal { stroke: #1F6F78; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowTeal); }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#10233F"/>
+    </marker>
+    <marker id="arrowBordeaux" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#7A2430"/>
+    </marker>
+    <marker id="arrowGold" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#D4AF37"/>
+    </marker>
+    <marker id="arrowGreen" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#2F7D5A"/>
+    </marker>
+    <marker id="arrowTeal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#1F6F78"/>
+    </marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <text class="ink title" x="800" y="68" text-anchor="middle">Tempo, revisione e diario dello scritto</text>
+  <text class="muted subtitle" x="800" y="108" text-anchor="middle">La simulazione vale se corregge pertinenza, struttura, lessico e gestione tempo.</text>
+
+  <rect class="card" x="90" y="165" width="1420" height="630" rx="30"/>
+  <text class="navy label" x="800" y="228" text-anchor="middle">Una prova scritta si migliora correggendo il processo</text>
+  <g data-safe-box="145 322 245 153 8">
+    <rect class="softBlue" x="145" y="330" width="245" height="145" rx="20"/>
+    <rect x="145" y="330" width="245" height="38" rx="18" fill="#10233F"/>
+    <text class="label" x="267.5" y="358" text-anchor="middle" fill="#FFFFFF" style="font-size:21px">5-10%</text>
+    <text class="navy label" x="267.5" y="412" text-anchor="middle" style="font-size:21px">Lettura</text>
+    <text class="muted small" x="267.5" y="443" text-anchor="middle" style="font-size:16px">tracce e vincoli</text>
+  </g>
+  <g data-safe-box="440 322 245 153 8">
+    <rect class="softRed" x="440" y="330" width="245" height="145" rx="20"/>
+    <rect x="440" y="330" width="245" height="38" rx="18" fill="#7A2430"/>
+    <text class="label" x="562.5" y="358" text-anchor="middle" fill="#FFFFFF" style="font-size:21px">10%</text>
+    <text class="bordeaux label" x="562.5" y="412" text-anchor="middle" style="font-size:21px">Scaletta</text>
+    <text class="muted small" x="562.5" y="443" text-anchor="middle" style="font-size:16px">ordine prima</text>
+  </g>
+  <g data-safe-box="735 322 245 153 8">
+    <rect class="softGold" x="735" y="330" width="245" height="145" rx="20"/>
+    <rect x="735" y="330" width="245" height="38" rx="18" fill="#D4AF37"/>
+    <text class="label" x="857.5" y="358" text-anchor="middle" fill="#FFFFFF" style="font-size:21px">70-75%</text>
+    <text class="gold label" x="857.5" y="412" text-anchor="middle" style="font-size:21px">Scrittura</text>
+    <text class="muted small" x="857.5" y="443" text-anchor="middle" style="font-size:16px">risposta proporzionata</text>
+  </g>
+  <g data-safe-box="1030 322 245 153 8">
+    <rect class="softGreen" x="1030" y="330" width="245" height="145" rx="20"/>
+    <rect x="1030" y="330" width="245" height="38" rx="18" fill="#2F7D5A"/>
+    <text class="label" x="1152.5" y="358" text-anchor="middle" fill="#FFFFFF" style="font-size:21px">10%</text>
+    <text class="green label" x="1152.5" y="412" text-anchor="middle" style="font-size:21px">Revisione</text>
+    <text class="muted small" x="1152.5" y="443" text-anchor="middle" style="font-size:16px">forma e pertinenza</text>
+  </g>
+  <path class="arrowNavy" d="M405 410 L430 410"/>
+  <path class="arrowBordeaux" d="M700 410 L725 410"/>
+  <path class="arrowGold" d="M995 410 L1020 410"/>
+  <g data-safe-box="205 635 200 78 8">
+    <rect x="205" y="635" width="200" height="78" rx="20" fill="#10233F"/>
+    <text class="label" x="305" y="666" text-anchor="middle" fill="#FFFFFF" style="font-size:21px">Pertinenza</text>
+    <text class="small" x="305" y="693" text-anchor="middle" fill="#FFFFFF" style="font-size:16px">traccia</text>
+  </g>
+  <g data-safe-box="455 635 200 78 8">
+    <rect x="455" y="635" width="200" height="78" rx="20" fill="#7A2430"/>
+    <text class="label" x="555" y="666" text-anchor="middle" fill="#FFFFFF" style="font-size:21px">Struttura</text>
+    <text class="small" x="555" y="693" text-anchor="middle" fill="#FFFFFF" style="font-size:16px">inizio-sviluppo</text>
+  </g>
+  <g data-safe-box="705 635 200 78 8">
+    <rect x="705" y="635" width="200" height="78" rx="20" fill="#D4AF37"/>
+    <text class="label" x="805" y="666" text-anchor="middle" fill="#FFFFFF" style="font-size:21px">Completezza</text>
+    <text class="small" x="805" y="693" text-anchor="middle" fill="#FFFFFF" style="font-size:16px">essenziali</text>
+  </g>
+  <g data-safe-box="955 635 200 78 8">
+    <rect x="955" y="635" width="200" height="78" rx="20" fill="#2F7D5A"/>
+    <text class="label" x="1055" y="666" text-anchor="middle" fill="#FFFFFF" style="font-size:21px">Lessico</text>
+    <text class="small" x="1055" y="693" text-anchor="middle" fill="#FFFFFF" style="font-size:16px">termini corretti</text>
+  </g>
+  <g data-safe-box="1205 635 200 78 8">
+    <rect x="1205" y="635" width="200" height="78" rx="20" fill="#1F6F78"/>
+    <text class="label" x="1305" y="666" text-anchor="middle" fill="#FFFFFF" style="font-size:21px">Tempo</text>
+    <text class="small" x="1305" y="693" text-anchor="middle" fill="#FFFFFF" style="font-size:16px">limite</text>
+  </g>
+  <g data-safe-box="250 812 1100 64 8">
+    <rect class="note" x="250" y="812" width="1100" height="64" rx="24"/>
+    <text class="ink body" x="800" y="852" text-anchor="middle" style="font-weight:800;font-size:20px">Non correggere solo cosa sai: correggi come costruisci la risposta.</text>
+  </g>
+
+</svg>

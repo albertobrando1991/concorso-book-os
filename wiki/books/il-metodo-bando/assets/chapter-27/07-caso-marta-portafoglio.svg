@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Caso Marta: scegliere senza disperdersi</title>
+  <desc id="desc">Tre bandi aperti diventano guida, satellite e parcheggio.</desc>
+  <style>
+    .bg { fill: #F8FAFC; }
+    .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+    .title { font: 800 44px Arial, sans-serif; fill: #0F172A; }
+    .subtitle { font: 400 22px Arial, sans-serif; fill: #526174; }
+    .label { font: 800 25px Arial, sans-serif; fill: #0F172A; }
+    .body { font: 400 19px Arial, sans-serif; fill: #0F172A; }
+    .small { font: 400 16px Arial, sans-serif; fill: #0F172A; }
+    .strong { font-weight: 800; }
+    .muted { fill: #526174; }
+    .navy { fill: #10233F; }
+    .whiteText { fill: #FFFFFF; }
+    .line { stroke: #10233F; stroke-width: 6; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+  </style>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#10233F"/>
+    </marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <g data-safe-box="80 16 1440 118 0">
+    <text class="title" x="800" y="68" text-anchor="middle">Caso Marta: scegliere senza disperdersi</text>
+    <text class="subtitle" x="800" y="108" text-anchor="middle">Tre bandi aperti diventano guida, satellite e parcheggio.</text>
+  </g>
+
+    <rect class="card" x="70" y="165" width="1460" height="630" rx="30"/>
+    <g data-safe-box="105 295 340 330 8">
+    <rect x="105" y="295" width="340" height="330" rx="26" fill="#EAF2FB" stroke="#10233F" stroke-width="3"/>
+    <rect x="105" y="295" width="340" height="14" rx="7" fill="#10233F"/>
+    <text class="label" x="275" y="357" text-anchor="middle" fill="#10233F">Comune</text>
+    <text class="small strong" x="275" y="397" text-anchor="middle">GUIDA</text>
+    <line x1="169" y1="413" x2="381" y2="413" stroke="#CBD5E1" stroke-width="3"/>
+    <text class="small" x="275" y="440" text-anchor="middle">45 giorni</text>
+<text class="small" x="275" y="472" text-anchor="middle">prova scritta</text>
+<text class="small" x="275" y="504" text-anchor="middle">materie avviate</text>
+  </g>
+    <g data-safe-box="620 295 340 330 8">
+    <rect x="620" y="295" width="340" height="330" rx="26" fill="#FFF4CC" stroke="#D4AF37" stroke-width="3"/>
+    <rect x="620" y="295" width="340" height="14" rx="7" fill="#D4AF37"/>
+    <text class="label" x="790" y="357" text-anchor="middle" fill="#D4AF37">Ministero</text>
+    <text class="small strong" x="790" y="397" text-anchor="middle">SATELLITE</text>
+    <line x1="684" y1="413" x2="896" y2="413" stroke="#CBD5E1" stroke-width="3"/>
+    <text class="small" x="790" y="440" text-anchor="middle">quiz e orale</text>
+<text class="small" x="790" y="472" text-anchor="middle">molte materie comuni</text>
+<text class="small" x="790" y="504" text-anchor="middle">differenze gestibili</text>
+  </g>
+    <g data-safe-box="1135 295 340 330 8">
+    <rect x="1135" y="295" width="340" height="330" rx="26" fill="#E7F3ED" stroke="#2F7D5A" stroke-width="3"/>
+    <rect x="1135" y="295" width="340" height="14" rx="7" fill="#2F7D5A"/>
+    <text class="label" x="1305" y="357" text-anchor="middle" fill="#2F7D5A">Agenzia fiscale</text>
+    <text class="small strong" x="1305" y="397" text-anchor="middle">PARCHEGGIO</text>
+    <line x1="1199" y1="413" x2="1411" y2="413" stroke="#CBD5E1" stroke-width="3"/>
+    <text class="small" x="1305" y="440" text-anchor="middle">tributario nuovo</text>
+<text class="small" x="1305" y="472" text-anchor="middle">scadenza sovrapposta</text>
+<text class="small" x="1305" y="504" text-anchor="middle">prova diversa</text>
+  </g>
+    <path class="line" marker-end="url(#arrow)" d="M480 455 L620 455"/>
+    <path class="line" marker-end="url(#arrow)" d="M995 455 L1135 455"/>
+    <g data-safe-box="430 655 740 72 8">
+      <rect x="430" y="655" width="740" height="72" rx="22" fill="#FFF7ED" stroke="#EFC58D" stroke-width="3"/>
+      <text class="body strong" x="800" y="700" text-anchor="middle">La scelta non elimina il terzo concorso: lo rende innocuo.</text>
+    </g>
+    <g data-safe-box="250 812 1100 66 8">
+    <rect x="250" y="812" width="1100" height="66" rx="22" fill="#FFF7ED" stroke="#EFC58D" stroke-width="3"/>
+    <text class="body strong" x="800" y="855" text-anchor="middle">Il metodo premia chi trasforma tempo limitato in output ad alta probabilita.</text>
+  </g>
+
+</svg>

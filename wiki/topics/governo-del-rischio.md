@@ -41,4 +41,3 @@ Da verificare con fonti ufficiali su anticorruzione, PNRR e contratti pubblici.
 
 ## Note editoriali
 Trasformare in caso pratico: ufficio con ritardi, dati non coerenti e controlli assenti.
-

@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Graduatoria e accesso agli atti</title>
+  <desc id="desc">Punteggi e parole procedurali vanno letti sugli atti, non sulle ipotesi.</desc>
+  <style>
+    .bg { fill: #F8FAFC; }
+    .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+    .title { font: 800 43px Arial, sans-serif; fill: #0F172A; }
+    .subtitle { font: 400 21px Arial, sans-serif; fill: #526174; }
+    .label { font: 800 25px Arial, sans-serif; fill: #0F172A; }
+    .body { font: 400 19px Arial, sans-serif; fill: #0F172A; }
+    .small { font: 400 16px Arial, sans-serif; fill: #0F172A; }
+    .strong { font-weight: 800; }
+    .whiteText { fill: #FFFFFF; }
+    .line { stroke: #10233F; stroke-width: 6; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+  </style>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#10233F"/>
+    </marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <g data-safe-box="80 16 1440 118 0">
+    <text class="title" x="800" y="68" text-anchor="middle">Graduatoria e accesso agli atti</text>
+    <text class="subtitle" x="800" y="108" text-anchor="middle">Punteggi e parole procedurali vanno letti sugli atti, non sulle ipotesi.</text>
+  </g>
+
+    <rect class="card" x="70" y="165" width="1460" height="630" rx="30"/>
+    <g data-safe-box="455 220 690 150 8">
+    <rect x="455" y="220" width="690" height="150" rx="24" fill="#EAF2FB" stroke="#10233F" stroke-width="3"/>
+    <rect x="455" y="220" width="690" height="12" rx="6" fill="#10233F"/>
+    <text class="label" x="800" y="272" text-anchor="middle">Lettura prudente</text>
+    <text class="small" x="800" y="302" text-anchor="middle">non fare equivalenze automatiche</text>
+<text class="small" x="800" y="330" text-anchor="middle">rileggi bando, avvisi e atto pubblicato</text>
+  </g>
+    <g data-safe-box="135 405 250 165 8">
+    <rect x="135" y="405" width="250" height="165" rx="26" fill="#EAF2FB" stroke="#10233F" stroke-width="3"/>
+    <text class="label" style="fill:#10233F" x="260" y="463" text-anchor="middle">Punteggio</text>
+    <text class="small strong" x="260" y="513" text-anchor="middle">soglie e criteri</text>
+  </g>
+<g data-safe-box="405 405 250 165 8">
+    <rect x="405" y="405" width="250" height="165" rx="26" fill="#E7F3ED" stroke="#2F7D5A" stroke-width="3"/>
+    <text class="label" style="fill:#2F7D5A" x="530" y="463" text-anchor="middle">Idoneita</text>
+    <text class="small strong" x="530" y="513" text-anchor="middle">non sempre vincitore</text>
+  </g>
+<g data-safe-box="675 405 250 165 8">
+    <rect x="675" y="405" width="250" height="165" rx="26" fill="#FFF4CC" stroke="#D4AF37" stroke-width="3"/>
+    <text class="label" style="fill:#D4AF37" x="800" y="463" text-anchor="middle">Graduatoria</text>
+    <text class="small strong" x="800" y="513" text-anchor="middle">ordine, titoli, riserve</text>
+  </g>
+<g data-safe-box="945 405 250 165 8">
+    <rect x="945" y="405" width="250" height="165" rx="26" fill="#E4F4F5" stroke="#1F6F78" stroke-width="3"/>
+    <text class="label" style="fill:#1F6F78" x="1070" y="463" text-anchor="middle">Scorrimento</text>
+    <text class="small strong" x="1070" y="513" text-anchor="middle">atti e decisioni</text>
+  </g>
+<g data-safe-box="1215 405 250 165 8">
+    <rect x="1215" y="405" width="250" height="165" rx="26" fill="#F8E8EA" stroke="#7A2430" stroke-width="3"/>
+    <text class="label" style="fill:#7A2430" x="1340" y="463" text-anchor="middle">Accesso atti</text>
+    <text class="small strong" x="1340" y="513" text-anchor="middle">canali e motivi concreti</text>
+  </g>
+    <g data-safe-box="235 650 500 150 8">
+    <rect x="235" y="650" width="500" height="150" rx="24" fill="#E7F3ED" stroke="#2F7D5A" stroke-width="3"/>
+    <rect x="235" y="650" width="500" height="12" rx="6" fill="#2F7D5A"/>
+    <text class="label" x="485" y="702" text-anchor="middle">Se il dubbio e' fondato</text>
+    <text class="small" x="485" y="732" text-anchor="middle">definisci quale atto vuoi vedere</text>
+<text class="small" x="485" y="760" text-anchor="middle">usa modalita e canali ufficiali</text>
+  </g>
+    <g data-safe-box="865 650 500 150 8">
+    <rect x="865" y="650" width="500" height="150" rx="24" fill="#F8E8EA" stroke="#7A2430" stroke-width="3"/>
+    <rect x="865" y="650" width="500" height="12" rx="6" fill="#7A2430"/>
+    <text class="label" x="1115" y="702" text-anchor="middle">Se e' solo impulso</text>
+    <text class="small" x="1115" y="732" text-anchor="middle">aspetta una lettura fredda</text>
+<text class="small" x="1115" y="760" text-anchor="middle">non trasformare sfogo in procedura</text>
+  </g>
+    <g data-safe-box="245 810 1110 66 8">
+    <rect x="245" y="810" width="1110" height="66" rx="22" fill="#FFF7ED" stroke="#EFC58D" stroke-width="3"/>
+    <text class="body strong" x="800" y="853" text-anchor="middle">Per ricorsi, termini e scelte specifiche serve supporto qualificato.</text>
+  </g>
+
+</svg>

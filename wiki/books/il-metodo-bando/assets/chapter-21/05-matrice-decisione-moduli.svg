@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Matrice di decisione dei moduli</title>
+  <desc id="desc">La scelta corretta non e' aprire tutto: e' assegnare profondita e limite.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; }
+      .softRed { fill: #F8E8EA; stroke: #E3B9BF; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E8D080; stroke-width: 2.5; }
+      .softGreen { fill: #E7F3ED; stroke: #A8D1BD; stroke-width: 2.5; }
+      .softTeal { fill: #E4F4F5; stroke: #A3D5D8; stroke-width: 2.5; }
+      .note { fill: #FFF7ED; stroke: #E7C18E; stroke-width: 2.5; }
+      .ink { fill: #0F172A; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 43px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 22px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 25px; font-weight: 800; letter-spacing: 0; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 18px; }
+      .navy { fill: #10233F; }
+      .bordeaux { fill: #7A2430; }
+      .gold { fill: #D4AF37; }
+      .green { fill: #2F7D5A; }
+      .teal { fill: #1F6F78; }
+      .line { stroke: #94A3B8; stroke-width: 4; stroke-linecap: round; fill: none; }
+      .thin { stroke: #CBD5E1; stroke-width: 2.5; stroke-linecap: round; fill: none; }
+      .arrowNavy { stroke: #10233F; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowNavy); }
+      .arrowGold { stroke: #D4AF37; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGold); }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#10233F"/></marker>
+    <marker id="arrowGold" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#D4AF37"/></marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <text class="ink title" x="800" y="68" text-anchor="middle">Matrice di decisione dei moduli</text>
+  <text class="muted subtitle" x="800" y="108" text-anchor="middle">La scelta corretta non e' aprire tutto: e' assegnare profondita e limite.</text>
+
+  <rect class="card" x="70" y="165" width="1460" height="630" rx="30"/>
+  <text class="navy label" x="800" y="230" text-anchor="middle">Segnale del bando -> profondita del modulo -> limite operativo</text>
+  <g data-safe-box="145 275 1310 410 8">
+    <g>
+    <rect x="145" y="275" width="1310" height="68" rx="16" fill="#EAF2FB" stroke="#CBD5E1" stroke-width="2"/>
+    <circle cx="183" cy="309" r="14" fill="#10233F"/>
+    <text class="navy label" x="219" y="317" style="font-size:18px">Esplicita + centrale</text>
+    <text class="bordeaux label" x="660" y="317" style="font-size:18px">Modulo completo</text>
+    <text class="muted small" x="1010" y="317" style="font-size:17px">tributario in agenzia fiscale</text>
+  </g>
+<g>
+    <rect x="145" y="357" width="1310" height="68" rx="16" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2"/>
+    <circle cx="183" cy="391" r="14" fill="#7A2430"/>
+    <text class="navy label" x="219" y="399" style="font-size:18px">Esplicita ma marginale</text>
+    <text class="bordeaux label" x="660" y="399" style="font-size:18px">Modulo essenziale</text>
+    <text class="muted small" x="1010" y="399" style="font-size:17px">inglese solo idoneita</text>
+  </g>
+<g>
+    <rect x="145" y="439" width="1310" height="68" rx="16" fill="#EAF2FB" stroke="#CBD5E1" stroke-width="2"/>
+    <circle cx="183" cy="473" r="14" fill="#D4AF37"/>
+    <text class="navy label" x="219" y="481" style="font-size:18px">Core con taglio specialistico</text>
+    <text class="bordeaux label" x="660" y="481" style="font-size:18px">Mini-modulo</text>
+    <text class="muted small" x="1010" y="481" style="font-size:17px">contratti per PNRR</text>
+  </g>
+<g>
+    <rect x="145" y="521" width="1310" height="68" rx="16" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2"/>
+    <circle cx="183" cy="555" r="14" fill="#2F7D5A"/>
+    <text class="navy label" x="219" y="563" style="font-size:18px">Errore ricorrente ad alta resa</text>
+    <text class="bordeaux label" x="660" y="563" style="font-size:18px">Drill modulo</text>
+    <text class="muted small" x="1010" y="563" style="font-size:17px">accesso, termini, competenze</text>
+  </g>
+<g>
+    <rect x="145" y="603" width="1310" height="68" rx="16" fill="#EAF2FB" stroke="#CBD5E1" stroke-width="2"/>
+    <circle cx="183" cy="637" r="14" fill="#1F6F78"/>
+    <text class="navy label" x="219" y="645" style="font-size:18px">Interessante ma fuori prova</text>
+    <text class="bordeaux label" x="660" y="645" style="font-size:18px">Non attivare</text>
+    <text class="muted small" x="1010" y="645" style="font-size:17px">approfondimento universitario</text>
+  </g>
+  </g>
+  <g data-safe-box="250 725 1100 64 8">
+    <rect class="note" x="250" y="725" width="1100" height="64" rx="24"/>
+    <text class="ink body" x="800" y="765" text-anchor="middle" style="font-weight:800;font-size:20px">La matrice serve a scegliere profondita: completo, essenziale, mini, drill o taglio.</text>
+  </g>
+</svg>

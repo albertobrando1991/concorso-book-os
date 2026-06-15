@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Formati da riconoscere</title>
+  <desc id="desc">Quesito sintetico, elaborato, caso e prova mista richiedono output diversi.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; }
+      .softRed { fill: #F8E8EA; stroke: #E3B9BF; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E8D080; stroke-width: 2.5; }
+      .softGreen { fill: #E7F3ED; stroke: #A8D1BD; stroke-width: 2.5; }
+      .softTeal { fill: #E4F4F5; stroke: #A3D5D8; stroke-width: 2.5; }
+      .note { fill: #FFF7ED; stroke: #E7C18E; stroke-width: 2.5; }
+      .ink { fill: #0F172A; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 43px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 22px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 25px; font-weight: 800; letter-spacing: 0; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 18px; }
+      .navy { fill: #10233F; }
+      .bordeaux { fill: #7A2430; }
+      .gold { fill: #D4AF37; }
+      .green { fill: #2F7D5A; }
+      .teal { fill: #1F6F78; }
+      .line { stroke: #94A3B8; stroke-width: 4; stroke-linecap: round; fill: none; }
+      .thin { stroke: #CBD5E1; stroke-width: 2.5; stroke-linecap: round; fill: none; }
+      .dash { stroke: #94A3B8; stroke-width: 3.5; stroke-linecap: round; stroke-dasharray: 9 10; fill: none; }
+      .arrowNavy { stroke: #10233F; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowNavy); }
+      .arrowBordeaux { stroke: #7A2430; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowBordeaux); }
+      .arrowGold { stroke: #D4AF37; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGold); }
+      .arrowGreen { stroke: #2F7D5A; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGreen); }
+      .arrowTeal { stroke: #1F6F78; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowTeal); }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#10233F"/>
+    </marker>
+    <marker id="arrowBordeaux" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#7A2430"/>
+    </marker>
+    <marker id="arrowGold" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#D4AF37"/>
+    </marker>
+    <marker id="arrowGreen" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#2F7D5A"/>
+    </marker>
+    <marker id="arrowTeal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#1F6F78"/>
+    </marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <text class="ink title" x="800" y="68" text-anchor="middle">Formati da riconoscere</text>
+  <text class="muted subtitle" x="800" y="108" text-anchor="middle">Quesito sintetico, elaborato, caso e prova mista richiedono output diversi.</text>
+
+  <rect class="card" x="85" y="165" width="1430" height="630" rx="30"/>
+  <text class="navy label" x="800" y="228" text-anchor="middle">Ogni formato misura un output diverso</text>
+  <g data-safe-box="115 305 300 181 8">
+    <rect class="softBlue" x="115" y="305" width="300" height="181" rx="22"/>
+    <rect x="115" y="305" width="300" height="10" rx="5" fill="#10233F"/>
+    <text class="navy label" x="265" y="347" text-anchor="middle" style="font-size:21px">Risposta sintetica</text>
+    <path class="thin" d="M139 365 L391 365"/>
+    <text class="muted small" x="145" y="385" style="font-size:17px">nozione precisa</text>
+<text class="muted small" x="145" y="416" style="font-size:17px">punti essenziali</text>
+<text class="muted small" x="145" y="447" style="font-size:17px">spazio stretto</text>
+  </g>
+  <g data-safe-box="465 305 300 181 8">
+    <rect class="softRed" x="465" y="305" width="300" height="181" rx="22"/>
+    <rect x="465" y="305" width="300" height="10" rx="5" fill="#7A2430"/>
+    <text class="bordeaux label" x="615" y="347" text-anchor="middle" style="font-size:24px">Domanda teorica</text>
+    <path class="thin" d="M489 365 L741 365"/>
+    <text class="muted small" x="495" y="385" style="font-size:17px">istituto</text>
+<text class="muted small" x="495" y="416" style="font-size:17px">principi</text>
+<text class="muted small" x="495" y="447" style="font-size:17px">conseguenze</text>
+  </g>
+  <g data-safe-box="815 305 300 181 8">
+    <rect class="softGold" x="815" y="305" width="300" height="181" rx="22"/>
+    <rect x="815" y="305" width="300" height="10" rx="5" fill="#D4AF37"/>
+    <text class="gold label" x="965" y="347" text-anchor="middle" style="font-size:24px">Elaborato breve</text>
+    <path class="thin" d="M839 365 L1091 365"/>
+    <text class="muted small" x="845" y="385" style="font-size:17px">scaletta</text>
+<text class="muted small" x="845" y="416" style="font-size:17px">paragrafi</text>
+<text class="muted small" x="845" y="447" style="font-size:17px">chiusura</text>
+  </g>
+  <g data-safe-box="1165 305 300 181 8">
+    <rect class="softGreen" x="1165" y="305" width="300" height="181" rx="22"/>
+    <rect x="1165" y="305" width="300" height="10" rx="5" fill="#2F7D5A"/>
+    <text class="green label" x="1315" y="347" text-anchor="middle" style="font-size:24px">Caso pratico</text>
+    <path class="thin" d="M1189 365 L1441 365"/>
+    <text class="muted small" x="1195" y="385" style="font-size:17px">fatti</text>
+<text class="muted small" x="1195" y="416" style="font-size:17px">regola</text>
+<text class="muted small" x="1195" y="447" style="font-size:17px">soluzione</text>
+  </g>
+  <g data-safe-box="300 640 330 78 8">
+    <rect x="300" y="640" width="330" height="78" rx="20" fill="#1F6F78"/>
+    <text class="label" x="465" y="671" text-anchor="middle" fill="#FFFFFF" style="font-size:21px">Teorico-pratica</text>
+    <text class="small" x="465" y="698" text-anchor="middle" fill="#FFFFFF" style="font-size:16px">spiega la regola e usala</text>
+  </g>
+  <g data-safe-box="760 640 330 78 8">
+    <rect x="760" y="640" width="330" height="78" rx="20" fill="#10233F"/>
+    <text class="label" x="925" y="671" text-anchor="middle" fill="#FFFFFF" style="font-size:21px">Prova mista</text>
+    <text class="small" x="925" y="698" text-anchor="middle" fill="#FFFFFF" style="font-size:16px">separa tempi e parti</text>
+  </g>
+  <g data-safe-box="250 812 1100 64 8">
+    <rect class="note" x="250" y="812" width="1100" height="64" rx="24"/>
+    <text class="ink body" x="800" y="852" text-anchor="middle" style="font-weight:800;font-size:20px">Errore da evitare: preparare un caso pratico come se fosse una domanda solo teorica.</text>
+  </g>
+
+</svg>

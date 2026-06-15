@@ -30,4 +30,3 @@ Organo giurisdizionale e di controllo richiamato per responsabilità erariale, d
 
 ## Stato revisione
 Da collegare a pronunce specifiche verificate.
-

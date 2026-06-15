@@ -58,4 +58,3 @@ Fonte guida. Tutta la struttura del libro deve partire da questa idea prodotto: 
 - Promessa: non e' il manuale di un concorso; e' il metodo per prepararne molti senza ricominciare da zero.
 - Formula prodotto: libro cartaceo di circa 300 pagine + QR code + template digitali + moduli profilo aggiornabili.
 - Il libro deve restare completo anche senza sito; il digitale accelera e ottimizza, non sostituisce.
-

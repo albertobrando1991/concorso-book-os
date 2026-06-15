@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Scheda modulo e caso Sara</title>
+  <desc id="desc">Una decisione buona isola il modulo senza duplicare il nucleo comune.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; }
+      .softRed { fill: #F8E8EA; stroke: #E3B9BF; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E8D080; stroke-width: 2.5; }
+      .softGreen { fill: #E7F3ED; stroke: #A8D1BD; stroke-width: 2.5; }
+      .softTeal { fill: #E4F4F5; stroke: #A3D5D8; stroke-width: 2.5; }
+      .note { fill: #FFF7ED; stroke: #E7C18E; stroke-width: 2.5; }
+      .ink { fill: #0F172A; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 43px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 22px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 25px; font-weight: 800; letter-spacing: 0; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 18px; }
+      .navy { fill: #10233F; }
+      .bordeaux { fill: #7A2430; }
+      .gold { fill: #D4AF37; }
+      .green { fill: #2F7D5A; }
+      .teal { fill: #1F6F78; }
+      .line { stroke: #94A3B8; stroke-width: 4; stroke-linecap: round; fill: none; }
+      .thin { stroke: #CBD5E1; stroke-width: 2.5; stroke-linecap: round; fill: none; }
+      .arrowNavy { stroke: #10233F; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowNavy); }
+      .arrowGold { stroke: #D4AF37; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGold); }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#10233F"/></marker>
+    <marker id="arrowGold" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#D4AF37"/></marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <text class="ink title" x="800" y="68" text-anchor="middle">Scheda modulo e caso Sara</text>
+  <text class="muted subtitle" x="800" y="108" text-anchor="middle">Una decisione buona isola il modulo senza duplicare il nucleo comune.</text>
+
+  <rect class="card" x="70" y="165" width="1460" height="630" rx="30"/>
+  <text class="navy label" x="800" y="225" text-anchor="middle">Sara ha due concorsi: isola i moduli, non duplica il core</text>
+  <g data-safe-box="115 290 380 320 8">
+    <rect class="softBlue" x="115" y="290" width="380" height="320" rx="26"/>
+    <rect x="115" y="290" width="380" height="11" rx="5.5" fill="#10233F"/>
+    <text class="navy label" x="305" y="345" text-anchor="middle" style="font-size:23px">Core comune</text>
+    <path class="thin" d="M150 368 L460 368"/>
+    <text class="muted small" x="305" y="397" text-anchor="middle" style="font-size:17px">amministrativo</text>
+<text class="muted small" x="305" y="435" text-anchor="middle" style="font-size:17px">pubblico impiego</text>
+<text class="muted small" x="305" y="473" text-anchor="middle" style="font-size:17px">privacy e trasparenza</text>
+<text class="muted small" x="305" y="511" text-anchor="middle" style="font-size:17px">informatica, inglese</text>
+<text class="muted small" x="305" y="549" text-anchor="middle" style="font-size:17px">quiz settimanali</text>
+  </g>
+  <g data-safe-box="610 290 380 320 8">
+    <rect class="softRed" x="610" y="290" width="380" height="320" rx="26"/>
+    <rect x="610" y="290" width="380" height="11" rx="5.5" fill="#7A2430"/>
+    <text class="bordeaux label" x="800" y="345" text-anchor="middle" style="font-size:23px">Modulo Comune</text>
+    <path class="thin" d="M645 368 L955 368"/>
+    <text class="muted small" x="800" y="397" text-anchor="middle" style="font-size:17px">TUEL</text>
+<text class="muted small" x="800" y="435" text-anchor="middle" style="font-size:17px">atti locali</text>
+<text class="muted small" x="800" y="473" text-anchor="middle" style="font-size:17px">contabilita locale</text>
+<text class="muted small" x="800" y="511" text-anchor="middle" style="font-size:17px">caso su liquidazione</text>
+<text class="muted small" x="800" y="549" text-anchor="middle" style="font-size:17px">limite: 18 sessioni</text>
+  </g>
+  <g data-safe-box="1105 290 380 320 8">
+    <rect class="softGreen" x="1105" y="290" width="380" height="320" rx="26"/>
+    <rect x="1105" y="290" width="380" height="11" rx="5.5" fill="#2F7D5A"/>
+    <text class="green label" x="1295" y="345" text-anchor="middle" style="font-size:23px">Modulo Ministero</text>
+    <path class="thin" d="M1140 368 L1450 368"/>
+    <text class="muted small" x="1295" y="397" text-anchor="middle" style="font-size:17px">organizzazione settore</text>
+<text class="muted small" x="1295" y="435" text-anchor="middle" style="font-size:17px">funzioni centrali</text>
+<text class="muted small" x="1295" y="473" text-anchor="middle" style="font-size:17px">risposta orale</text>
+<text class="muted small" x="1295" y="511" text-anchor="middle" style="font-size:17px">quiz su procedimento</text>
+<text class="muted small" x="1295" y="549" text-anchor="middle" style="font-size:17px">limite: 10 sessioni</text>
+  </g>
+  <path class="arrowNavy" d="M505 455 L595 455"/>
+  <path class="arrowNavy" d="M1000 455 L1090 455"/>
+  <g data-safe-box="355 700 890 128 8">
+    <rect class="softGold" x="355" y="700" width="890" height="128" rx="25"/>
+    <rect x="355" y="700" width="890" height="11" rx="5.5" fill="#D4AF37"/>
+    <text class="gold label" x="800" y="744" text-anchor="middle">Scheda modulo</text>
+    <text class="muted small" x="800" y="777" text-anchor="middle">fonte nel bando, prova collegata, output, tempo massimo</text>
+<text class="muted small" x="800" y="804" text-anchor="middle">criterio di sufficienza e cosa non studiare</text>
+  </g>
+</svg>

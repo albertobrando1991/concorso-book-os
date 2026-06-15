@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Dal concorso al ruolo</title>
+  <desc id="desc">Graduatoria, chiamata, accettazione, documenti, contratto e presa di servizio sono passaggi diversi.</desc>
+  <style>
+    .bg { fill: #F8FAFC; }
+    .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+    .title { font: 800 43px Arial, sans-serif; fill: #0F172A; }
+    .subtitle { font: 400 21px Arial, sans-serif; fill: #526174; }
+    .label { font: 800 25px Arial, sans-serif; fill: #0F172A; }
+    .body { font: 400 19px Arial, sans-serif; fill: #0F172A; }
+    .small { font: 400 16px Arial, sans-serif; fill: #0F172A; }
+    .strong { font-weight: 800; }
+    .whiteText { fill: #FFFFFF; }
+    .line { stroke: #10233F; stroke-width: 6; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+  </style>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#10233F"/>
+    </marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <g data-safe-box="80 16 1440 118 0">
+    <text class="title" x="800" y="68" text-anchor="middle">Dal concorso al ruolo</text>
+    <text class="subtitle" x="800" y="108" text-anchor="middle">Graduatoria, chiamata, accettazione, documenti, contratto e presa di servizio sono passaggi diversi.</text>
+  </g>
+
+    <rect class="card" x="70" y="165" width="1460" height="630" rx="30"/>
+    <g data-safe-box="105 355 205 210 8">
+    <rect x="105" y="355" width="205" height="210" rx="24" fill="#EAF2FB" stroke="#10233F" stroke-width="3"/>
+    <circle cx="207.5" cy="410" r="30" fill="#10233F"/>
+    <text class="label whiteText" x="207.5" y="419" text-anchor="middle">1</text>
+    <text class="small strong" style="fill:#10233F" x="207.5" y="473" text-anchor="middle">Graduatoria</text>
+    <text class="small" x="207.5" y="515" text-anchor="middle">ordine e posizione</text>
+  </g>
+<g data-safe-box="345 355 205 210 8">
+    <rect x="345" y="355" width="205" height="210" rx="24" fill="#E7F3ED" stroke="#2F7D5A" stroke-width="3"/>
+    <circle cx="447.5" cy="410" r="30" fill="#2F7D5A"/>
+    <text class="label whiteText" x="447.5" y="419" text-anchor="middle">2</text>
+    <text class="small strong" style="fill:#2F7D5A" x="447.5" y="473" text-anchor="middle">Chiamata</text>
+    <text class="small" x="447.5" y="515" text-anchor="middle">atto o comunicazione</text>
+  </g>
+<g data-safe-box="585 355 205 210 8">
+    <rect x="585" y="355" width="205" height="210" rx="24" fill="#FFF4CC" stroke="#D4AF37" stroke-width="3"/>
+    <circle cx="687.5" cy="410" r="30" fill="#D4AF37"/>
+    <text class="label whiteText" x="687.5" y="419" text-anchor="middle">3</text>
+    <text class="small strong" style="fill:#D4AF37" x="687.5" y="473" text-anchor="middle">Accettazione</text>
+    <text class="small" x="687.5" y="515" text-anchor="middle">riscontro nei canali</text>
+  </g>
+<g data-safe-box="825 355 205 210 8">
+    <rect x="825" y="355" width="205" height="210" rx="24" fill="#E4F4F5" stroke="#1F6F78" stroke-width="3"/>
+    <circle cx="927.5" cy="410" r="30" fill="#1F6F78"/>
+    <text class="label whiteText" x="927.5" y="419" text-anchor="middle">4</text>
+    <text class="small strong" style="fill:#1F6F78" x="927.5" y="473" text-anchor="middle">Documenti</text>
+    <text class="small" x="927.5" y="515" text-anchor="middle">copie e ricevute</text>
+  </g>
+<g data-safe-box="1065 355 205 210 8">
+    <rect x="1065" y="355" width="205" height="210" rx="24" fill="#F8E8EA" stroke="#7A2430" stroke-width="3"/>
+    <circle cx="1167.5" cy="410" r="30" fill="#7A2430"/>
+    <text class="label whiteText" x="1167.5" y="419" text-anchor="middle">5</text>
+    <text class="small strong" style="fill:#7A2430" x="1167.5" y="473" text-anchor="middle">Contratto</text>
+    <text class="small" x="1167.5" y="515" text-anchor="middle">riferimenti ufficiali</text>
+  </g>
+<g data-safe-box="1305 355 205 210 8">
+    <rect x="1305" y="355" width="205" height="210" rx="24" fill="#EFEAF7" stroke="#5B3B82" stroke-width="3"/>
+    <circle cx="1407.5" cy="410" r="30" fill="#5B3B82"/>
+    <text class="label whiteText" x="1407.5" y="419" text-anchor="middle">6</text>
+    <text class="small strong" style="fill:#5B3B82" x="1407.5" y="473" text-anchor="middle">Servizio</text>
+    <text class="small" x="1407.5" y="515" text-anchor="middle">sede, data, ufficio</text>
+  </g>
+    <path class="line" marker-end="url(#arrow)" d="M310 455 L345 455"/>
+<path class="line" marker-end="url(#arrow)" d="M550 455 L585 455"/>
+<path class="line" marker-end="url(#arrow)" d="M790 455 L825 455"/>
+<path class="line" marker-end="url(#arrow)" d="M1030 455 L1065 455"/>
+<path class="line" marker-end="url(#arrow)" d="M1270 455 L1305 455"/>
+    <g data-safe-box="420 635 760 150 8">
+    <rect x="420" y="635" width="760" height="150" rx="24" fill="#E7F3ED" stroke="#2F7D5A" stroke-width="3"/>
+    <rect x="420" y="635" width="760" height="12" rx="6" fill="#2F7D5A"/>
+    <text class="label" x="800" y="687" text-anchor="middle">Domanda corretta</text>
+    <text class="small" x="800" y="717" text-anchor="middle">quale atto ufficiale mi dice il prossimo passo?</text>
+<text class="small" x="800" y="745" text-anchor="middle">entro quale termine e con quali documenti?</text>
+  </g>
+    <g data-safe-box="245 810 1110 66 8">
+    <rect x="245" y="810" width="1110" height="66" rx="22" fill="#FFF7ED" stroke="#EFC58D" stroke-width="3"/>
+    <text class="body strong" x="800" y="853" text-anchor="middle">Non usare una parola sola per tutto: ogni passaggio ha fonte, scadenza e prova documentale.</text>
+  </g>
+
+</svg>

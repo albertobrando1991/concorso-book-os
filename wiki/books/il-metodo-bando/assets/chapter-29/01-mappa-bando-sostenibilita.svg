@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Mappa BANDO della sostenibilita</title>
+  <desc id="desc">Quando la pressione sale, non moltiplicare lo studio: torna alla catena BANDO.</desc>
+  <style>
+    .bg { fill: #F8FAFC; }
+    .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+    .title { font: 800 44px Arial, sans-serif; fill: #0F172A; }
+    .subtitle { font: 400 22px Arial, sans-serif; fill: #526174; }
+    .label { font: 800 25px Arial, sans-serif; fill: #0F172A; }
+    .body { font: 400 19px Arial, sans-serif; fill: #0F172A; }
+    .small { font: 400 16px Arial, sans-serif; fill: #0F172A; }
+    .strong { font-weight: 800; }
+    .whiteText { fill: #FFFFFF; }
+    .line { stroke: #10233F; stroke-width: 6; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+  </style>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#10233F"/>
+    </marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <g data-safe-box="80 16 1440 118 0">
+    <text class="title" x="800" y="68" text-anchor="middle">Mappa BANDO della sostenibilita</text>
+    <text class="subtitle" x="800" y="108" text-anchor="middle">Quando la pressione sale, non moltiplicare lo studio: torna alla catena BANDO.</text>
+  </g>
+
+    <rect class="card" x="70" y="165" width="1460" height="630" rx="30"/>
+    <g data-safe-box="420 215 760 150 8">
+    <rect x="420" y="215" width="760" height="150" rx="24" fill="#EAF2FB" stroke="#10233F" stroke-width="3"/>
+    <rect x="420" y="215" width="760" height="12" rx="6" fill="#10233F"/>
+    <text class="label" x="800" y="267" text-anchor="middle">Tenuta del sistema</text>
+    <text class="small" x="800" y="297" text-anchor="middle">energia, ansia e imprevisti non cambiano il metodo</text>
+<text class="small" x="800" y="325" text-anchor="middle">cambiano la dose e la priorita</text>
+  </g>
+    <g data-safe-box="105 375 245 210 8">
+    <rect x="105" y="375" width="245" height="210" rx="24" fill="#EAF2FB" stroke="#10233F" stroke-width="3"/>
+    <circle cx="227.5" cy="427" r="32" fill="#10233F"/>
+    <text class="label whiteText" x="227.5" y="436" text-anchor="middle">B</text>
+    <text class="label" x="227.5" y="491" text-anchor="middle">Bando</text>
+    <text class="small" x="227.5" y="533" text-anchor="middle">decoder e priorita</text>
+  </g>
+<g data-safe-box="395 375 245 210 8">
+    <rect x="395" y="375" width="245" height="210" rx="24" fill="#F8E8EA" stroke="#7A2430" stroke-width="3"/>
+    <circle cx="517.5" cy="427" r="32" fill="#7A2430"/>
+    <text class="label whiteText" x="517.5" y="436" text-anchor="middle">A</text>
+    <text class="label" x="517.5" y="491" text-anchor="middle">Aree</text>
+    <text class="small" x="517.5" y="533" text-anchor="middle">una area alla volta</text>
+  </g>
+<g data-safe-box="685 375 245 210 8">
+    <rect x="685" y="375" width="245" height="210" rx="24" fill="#FFF4CC" stroke="#D4AF37" stroke-width="3"/>
+    <circle cx="807.5" cy="427" r="32" fill="#D4AF37"/>
+    <text class="label whiteText" x="807.5" y="436" text-anchor="middle">N</text>
+    <text class="label" x="807.5" y="491" text-anchor="middle">Nuclei</text>
+    <text class="small" x="807.5" y="533" text-anchor="middle">richiamo breve</text>
+  </g>
+<g data-safe-box="975 375 245 210 8">
+    <rect x="975" y="375" width="245" height="210" rx="24" fill="#E7F3ED" stroke="#2F7D5A" stroke-width="3"/>
+    <circle cx="1097.5" cy="427" r="32" fill="#2F7D5A"/>
+    <text class="label whiteText" x="1097.5" y="436" text-anchor="middle">D</text>
+    <text class="label" x="1097.5" y="491" text-anchor="middle">Diario</text>
+    <text class="small" x="1097.5" y="533" text-anchor="middle">causa e azione</text>
+  </g>
+<g data-safe-box="1265 375 245 210 8">
+    <rect x="1265" y="375" width="245" height="210" rx="24" fill="#E4F4F5" stroke="#1F6F78" stroke-width="3"/>
+    <circle cx="1387.5" cy="427" r="32" fill="#1F6F78"/>
+    <text class="label whiteText" x="1387.5" y="436" text-anchor="middle">O</text>
+    <text class="label" x="1387.5" y="491" text-anchor="middle">Output</text>
+    <text class="small" x="1387.5" y="533" text-anchor="middle">prova minima</text>
+  </g>
+    <path class="line" marker-end="url(#arrow)" d="M365 490 L395 490"/>
+<path class="line" marker-end="url(#arrow)" d="M655 490 L685 490"/>
+<path class="line" marker-end="url(#arrow)" d="M945 490 L975 490"/>
+<path class="line" marker-end="url(#arrow)" d="M1235 490 L1265 490"/>
+    <g data-safe-box="250 812 1100 66 8">
+    <rect x="250" y="812" width="1100" height="66" rx="22" fill="#FFF7ED" stroke="#EFC58D" stroke-width="3"/>
+    <text class="body strong" x="800" y="855" text-anchor="middle">La continuita nasce dal non perdere il filo, non dallo studiare sempre tanto.</text>
+  </g>
+
+</svg>

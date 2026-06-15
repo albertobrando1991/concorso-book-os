@@ -54,4 +54,3 @@ Fonte manualistica ampia: usare come supporto di struttura concettuale, non come
 ## Note editoriali
 - Utile per costruire mappe "da sapere in 5 righe" e unità didattiche del Metodo BANDO.
 - Non trasformare il libro in trattato: usare il manuale per selezionare nuclei essenziali e casi d'esame.
-

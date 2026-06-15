@@ -31,4 +31,3 @@ Figura gestionale della PA collegata a organizzazione, obiettivi, performance, v
 
 ## Stato revisione
 Da consolidare con disciplina primaria sul lavoro pubblico.
-

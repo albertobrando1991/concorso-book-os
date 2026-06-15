@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Mappa BANDO del capitale di studio</title>
+  <desc id="desc">Ogni concorso lascia capitale solo se produce strumenti riusabili.</desc>
+  <style>
+    .bg { fill: #F8FAFC; }
+    .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+    .title { font: 800 44px Arial, sans-serif; fill: #0F172A; }
+    .subtitle { font: 400 22px Arial, sans-serif; fill: #526174; }
+    .label { font: 800 25px Arial, sans-serif; fill: #0F172A; }
+    .body { font: 400 19px Arial, sans-serif; fill: #0F172A; }
+    .small { font: 400 16px Arial, sans-serif; fill: #0F172A; }
+    .strong { font-weight: 800; }
+    .muted { fill: #526174; }
+    .navy { fill: #10233F; }
+    .line { stroke: #10233F; stroke-width: 6; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+  </style>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#10233F"/>
+    </marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <g data-safe-box="80 16 1440 118 0">
+    <text class="title" x="800" y="68" text-anchor="middle">Mappa BANDO del capitale di studio</text>
+    <text class="subtitle" x="800" y="108" text-anchor="middle">Ogni concorso lascia capitale solo se produce strumenti riusabili.</text>
+  </g>
+
+    <rect class="card" x="70" y="165" width="1460" height="630" rx="30"/>
+    <g data-safe-box="460 205 680 150 8">
+    <rect x="460" y="205" width="680" height="150" rx="24" fill="#EAF2FB" stroke="#10233F" stroke-width="3"/>
+    <rect x="460" y="205" width="680" height="12" rx="6" fill="#10233F"/>
+    <text class="label" x="800" y="257" text-anchor="middle">Concorso concluso</text>
+    <text class="small" x="800" y="287" text-anchor="middle">non archiviare emozioni</text>
+<text class="small" x="800" y="315" text-anchor="middle">trasforma in prodotti riusabili</text>
+  </g>
+    <g data-safe-box="115 340 240 205 14">
+    <rect x="115" y="340" width="240" height="205" rx="24" fill="#EAF2FB" stroke="#10233F" stroke-width="3"/>
+    <circle cx="235" cy="390" r="32" fill="#10233F"/>
+    <text class="label" x="235" y="399" text-anchor="middle" fill="#FFFFFF">B</text>
+    <text class="label" x="235" y="452" text-anchor="middle">Bando</text>
+    <text class="small" x="235" y="492" text-anchor="middle">Decoder compilato</text>
+  </g>
+<g data-safe-box="400 340 240 205 14">
+    <rect x="400" y="340" width="240" height="205" rx="24" fill="#F8E8EA" stroke="#7A2430" stroke-width="3"/>
+    <circle cx="520" cy="390" r="32" fill="#7A2430"/>
+    <text class="label" x="520" y="399" text-anchor="middle" fill="#FFFFFF">A</text>
+    <text class="label" x="520" y="452" text-anchor="middle">Aree</text>
+    <text class="small" x="520" y="492" text-anchor="middle">core e moduli</text>
+  </g>
+<g data-safe-box="685 340 240 205 14">
+    <rect x="685" y="340" width="240" height="205" rx="24" fill="#FFF4CC" stroke="#D4AF37" stroke-width="3"/>
+    <circle cx="805" cy="390" r="32" fill="#D4AF37"/>
+    <text class="label" x="805" y="399" text-anchor="middle" fill="#FFFFFF">N</text>
+    <text class="label" x="805" y="452" text-anchor="middle">Nuclei</text>
+    <text class="small" x="805" y="492" text-anchor="middle">schemi e domande</text>
+  </g>
+<g data-safe-box="970 340 240 205 14">
+    <rect x="970" y="340" width="240" height="205" rx="24" fill="#E7F3ED" stroke="#2F7D5A" stroke-width="3"/>
+    <circle cx="1090" cy="390" r="32" fill="#2F7D5A"/>
+    <text class="label" x="1090" y="399" text-anchor="middle" fill="#FFFFFF">D</text>
+    <text class="label" x="1090" y="452" text-anchor="middle">Diario</text>
+    <text class="small" x="1090" y="492" text-anchor="middle">errori e ripassi</text>
+  </g>
+<g data-safe-box="1255 340 240 205 14">
+    <rect x="1255" y="340" width="240" height="205" rx="24" fill="#E4F4F5" stroke="#1F6F78" stroke-width="3"/>
+    <circle cx="1375" cy="390" r="32" fill="#1F6F78"/>
+    <text class="label" x="1375" y="399" text-anchor="middle" fill="#FFFFFF">O</text>
+    <text class="label" x="1375" y="452" text-anchor="middle">Output</text>
+    <text class="small" x="1375" y="492" text-anchor="middle">quiz, casi, orale</text>
+  </g>
+    <path class="line" marker-end="url(#arrow)" d="M365 460 L390 460"/>
+<path class="line" marker-end="url(#arrow)" d="M650 460 L675 460"/>
+<path class="line" marker-end="url(#arrow)" d="M935 460 L960 460"/>
+<path class="line" marker-end="url(#arrow)" d="M1220 460 L1245 460"/>
+    <g data-safe-box="500 650 600 150 8">
+    <rect x="500" y="650" width="600" height="150" rx="24" fill="#E7F3ED" stroke="#2F7D5A" stroke-width="3"/>
+    <rect x="500" y="650" width="600" height="12" rx="6" fill="#2F7D5A"/>
+    <text class="label" x="800" y="702" text-anchor="middle">Sistema trasferibile</text>
+    <text class="small" x="800" y="732" text-anchor="middle">base migliore per il prossimo bando</text>
+  </g>
+    <g data-safe-box="250 812 1100 66 12">
+    <rect x="250" y="812" width="1100" height="66" rx="22" fill="#FFF7ED" stroke="#EFC58D" stroke-width="3"/>
+    <text class="body strong" x="800" y="855" text-anchor="middle">Se manca una parte della catena BANDO, il materiale resta fragile.</text>
+  </g>
+
+</svg>

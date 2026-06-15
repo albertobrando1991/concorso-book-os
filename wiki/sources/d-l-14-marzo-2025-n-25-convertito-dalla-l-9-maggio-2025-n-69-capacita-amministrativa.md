@@ -23,7 +23,7 @@ authority_level: alta
 # D.L. 14 marzo 2025, n. 25 convertito dalla L. 9 maggio 2025, n. 69 - capacita amministrativa
 
 ## Sintesi
-# D.L. 14 marzo 2025, n. 25 convertito dalla L. 9 maggio 2025, n. 69 - capacita amministrativa URL: https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto-legge:2025;25!vig=/ --> --> DECRETO-LEGGE 14 marzo 2025, n. 25 - Normattiva Presidenza del Consiglio dei Ministri ITA ITA ENG Normattiva - Il portale della legge vigente close Home current Il progetto L&#39;obiettivo Il coordinamento delle iniziative pubbliche I caratteri qualificanti del progetto Obiettivi Raggiunti Obiettivi Futuri Collegamenti veloci Costituzione e Codici Elenco atti per data di emanazione Leggi approvate in attesa 
+# D.L. 14 marzo 2025, n. 25 convertito dalla L. 9 maggio 2025, n. 69 - capacita amministrativa URL: https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto-legge:2025;25!vig=/ --> --> DECRETO-LEGGE 14 marzo 2025, n. 25 - Normattiva Presidenza del Consiglio dei Ministri ITA ITA ENG Normattiva - Il portale della legge vigente close Home current Il progetto L&#39;obiettivo Il coordinamento delle iniziative pubbliche I caratteri qualificanti del progetto Obiettivi Raggiunti Obiettivi Futuri Collegamenti veloci Costituzione e Codici Elenco atti per data di emanazione Leggi approvate in attesa
 
 ## Fonti
 - Raw source collegata: `wiki/raw/decrees/d-l-14-marzo-2025-n-25-convertito-dalla-l-9-maggio-2025-n-69-capacita-amministrativa.md`

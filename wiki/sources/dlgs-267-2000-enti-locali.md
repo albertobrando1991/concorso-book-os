@@ -40,4 +40,3 @@ La fonte orienta lo studio degli enti locali, degli organi del Comune e della di
 
 ## Stato revisione
 Fonte demo ad alta autorevolezza. Integrare con riferimenti aggiornati prima della versione finale.
-

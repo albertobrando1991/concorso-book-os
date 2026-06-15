@@ -32,4 +32,3 @@ chapter_refs: []
 ## Stato revisione
 
 ## Note editoriali
-

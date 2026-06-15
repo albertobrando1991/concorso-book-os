@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Metodo con banca dati in quattro passaggi</title>
+  <desc id="desc">Copertura, errori, consolidamento e simulazione trasformano domande in competenza.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; }
+      .softRed { fill: #F8E8EA; stroke: #E3B9BF; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E8D080; stroke-width: 2.5; }
+      .softGreen { fill: #E7F3ED; stroke: #A8D1BD; stroke-width: 2.5; }
+      .softTeal { fill: #E4F4F5; stroke: #A3D5D8; stroke-width: 2.5; }
+      .note { fill: #FFF7ED; stroke: #E7C18E; stroke-width: 2.5; }
+      .ink { fill: #0F172A; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 43px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 22px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 25px; font-weight: 800; letter-spacing: 0; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 18px; }
+      .navy { fill: #10233F; }
+      .bordeaux { fill: #7A2430; }
+      .gold { fill: #D4AF37; }
+      .green { fill: #2F7D5A; }
+      .teal { fill: #1F6F78; }
+      .line { stroke: #94A3B8; stroke-width: 4; stroke-linecap: round; fill: none; }
+      .thin { stroke: #CBD5E1; stroke-width: 2.5; stroke-linecap: round; fill: none; }
+      .dash { stroke: #94A3B8; stroke-width: 3.5; stroke-linecap: round; stroke-dasharray: 9 10; fill: none; }
+      .arrowNavy { stroke: #10233F; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowNavy); }
+      .arrowBordeaux { stroke: #7A2430; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowBordeaux); }
+      .arrowGold { stroke: #D4AF37; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGold); }
+      .arrowGreen { stroke: #2F7D5A; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGreen); }
+      .arrowTeal { stroke: #1F6F78; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowTeal); }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#10233F"/>
+    </marker>
+    <marker id="arrowBordeaux" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#7A2430"/>
+    </marker>
+    <marker id="arrowGold" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#D4AF37"/>
+    </marker>
+    <marker id="arrowGreen" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#2F7D5A"/>
+    </marker>
+    <marker id="arrowTeal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#1F6F78"/>
+    </marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <text class="ink title" x="800" y="68" text-anchor="middle">Metodo con banca dati in quattro passaggi</text>
+  <text class="muted subtitle" x="800" y="108" text-anchor="middle">Copertura, errori, consolidamento e simulazione trasformano domande in competenza.</text>
+
+  <rect class="card" x="90" y="165" width="1420" height="630" rx="30"/>
+  <text class="navy label" x="800" y="228" text-anchor="middle">La banca dati si studia a giri, non in una sola lettura</text>
+  <g data-safe-box="145 315 290 210 8">
+    <rect class="softBlue" x="145" y="315" width="290" height="210" rx="24"/>
+    <circle cx="290" cy="357" r="28" fill="#10233F"/>
+    <text class="label" x="290" y="366" text-anchor="middle" fill="#FFFFFF">1</text>
+    <text class="navy label" x="290" y="393" text-anchor="middle" style="font-size:22px">Copertura</text>
+    <text class="muted small" x="290" y="407" text-anchor="middle">vedi tutto</text>
+<text class="muted small" x="290" y="434" text-anchor="middle">segna ignoti</text>
+  </g>
+  <g data-safe-box="470 315 290 210 8">
+    <rect class="softRed" x="470" y="315" width="290" height="210" rx="24"/>
+    <circle cx="615" cy="357" r="28" fill="#7A2430"/>
+    <text class="label" x="615" y="366" text-anchor="middle" fill="#FFFFFF">2</text>
+    <text class="bordeaux label" x="615" y="393" text-anchor="middle" style="font-size:22px">Errori</text>
+    <text class="muted small" x="615" y="407" text-anchor="middle">capisci perche</text>
+<text class="muted small" x="615" y="434" text-anchor="middle">classifica</text>
+  </g>
+  <g data-safe-box="795 315 290 210 8">
+    <rect class="softGold" x="795" y="315" width="290" height="210" rx="24"/>
+    <circle cx="940" cy="357" r="28" fill="#D4AF37"/>
+    <text class="label" x="940" y="366" text-anchor="middle" fill="#FFFFFF">3</text>
+    <text class="gold label" x="940" y="393" text-anchor="middle" style="font-size:22px">Consolida</text>
+    <text class="muted small" x="940" y="407" text-anchor="middle">velocizza corrette</text>
+<text class="muted small" x="940" y="434" text-anchor="middle">ripeti incerte</text>
+  </g>
+  <g data-safe-box="1120 315 290 210 8">
+    <rect class="softGreen" x="1120" y="315" width="290" height="210" rx="24"/>
+    <circle cx="1265" cy="357" r="28" fill="#2F7D5A"/>
+    <text class="label" x="1265" y="366" text-anchor="middle" fill="#FFFFFF">4</text>
+    <text class="green label" x="1265" y="393" text-anchor="middle" style="font-size:22px">Simula</text>
+    <text class="muted small" x="1265" y="407" text-anchor="middle">timer reale</text>
+<text class="muted small" x="1265" y="434" text-anchor="middle">correzione finale</text>
+  </g>
+  <path class="arrowNavy" d="M410 405 L455 405"/>
+  <path class="arrowBordeaux" d="M735 405 L780 405"/>
+  <path class="arrowGold" d="M1060 405 L1105 405"/>
+  <path class="dash" d="M1265 540 C1080 690 525 695 290 542"/>
+  <g data-safe-box="215 615 360 181 8">
+    <rect class="softRed" x="215" y="615" width="360" height="181" rx="22"/>
+    <rect x="215" y="615" width="360" height="10" rx="5" fill="#7A2430"/>
+    <text class="bordeaux label" x="395" y="657" text-anchor="middle" style="font-size:24px">Da non fare</text>
+    <path class="thin" d="M239 675 L551 675"/>
+    <text class="muted small" x="245" y="695" style="font-size:17px">memorizzare posizione</text>
+<text class="muted small" x="245" y="726" style="font-size:17px">saltare correzione</text>
+<text class="muted small" x="245" y="757" style="font-size:17px">simulare troppo presto</text>
+  </g>
+  <g data-safe-box="1025 615 360 181 8">
+    <rect class="softGreen" x="1025" y="615" width="360" height="181" rx="22"/>
+    <rect x="1025" y="615" width="360" height="10" rx="5" fill="#2F7D5A"/>
+    <text class="green label" x="1205" y="657" text-anchor="middle" style="font-size:24px">Risultato atteso</text>
+    <path class="thin" d="M1049 675 L1361 675"/>
+    <text class="muted small" x="1055" y="695" style="font-size:17px">punteggio stabile</text>
+<text class="muted small" x="1055" y="726" style="font-size:17px">tempi sotto controllo</text>
+<text class="muted small" x="1055" y="757" style="font-size:17px">errori sempre meno casuali</text>
+  </g>
+
+</svg>

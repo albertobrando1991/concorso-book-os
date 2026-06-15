@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Settimana tipo orientata agli output</title>
+  <desc id="desc">Core, modulo, ripasso, simulazione e diario devono restare nello stesso ciclo.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; }
+      .softRed { fill: #F8E8EA; stroke: #E3B9BF; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E8D080; stroke-width: 2.5; }
+      .softGreen { fill: #E7F3ED; stroke: #A8D1BD; stroke-width: 2.5; }
+      .softTeal { fill: #E4F4F5; stroke: #A3D5D8; stroke-width: 2.5; }
+      .note { fill: #FFF7ED; stroke: #E7C18E; stroke-width: 2.5; }
+      .ink { fill: #0F172A; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 43px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 22px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 25px; font-weight: 800; letter-spacing: 0; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 18px; }
+      .navy { fill: #10233F; }
+      .bordeaux { fill: #7A2430; }
+      .gold { fill: #D4AF37; }
+      .green { fill: #2F7D5A; }
+      .teal { fill: #1F6F78; }
+      .line { stroke: #94A3B8; stroke-width: 4; stroke-linecap: round; fill: none; }
+      .thin { stroke: #CBD5E1; stroke-width: 2.5; stroke-linecap: round; fill: none; }
+      .arrowNavy { stroke: #10233F; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowNavy); }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#10233F"/></marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <text class="ink title" x="800" y="68" text-anchor="middle">Settimana tipo orientata agli output</text>
+  <text class="muted subtitle" x="800" y="108" text-anchor="middle">Core, modulo, ripasso, simulazione e diario devono restare nello stesso ciclo.</text>
+
+  <rect class="card" x="70" y="165" width="1460" height="630" rx="30"/>
+  <text class="navy label" x="800" y="225" text-anchor="middle">Dimezza i blocchi se hai poco tempo, ma non eliminare output e diario</text>
+  <g data-safe-box="165 260 1270 434 8">
+    <g>
+    <rect x="165" y="260" width="1270" height="54" rx="12" fill="#EAF2FB" stroke="#CBD5E1" stroke-width="2"/>
+    <text class="navy label" x="199" y="296" style="font-size:18px">Lun</text>
+    <text class="muted small" x="395" y="296" style="font-size:17px">core</text>
+    <text class="muted small" x="735" y="296" style="font-size:17px">richiamo</text>
+    <text class="bordeaux label" x="1085" y="296" style="font-size:17px">10 domande</text>
+  </g>
+<g>
+    <rect x="165" y="322" width="1270" height="54" rx="12" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2"/>
+    <text class="navy label" x="199" y="358" style="font-size:18px">Mar</text>
+    <text class="muted small" x="395" y="358" style="font-size:17px">modulo</text>
+    <text class="muted small" x="735" y="358" style="font-size:17px">quiz</text>
+    <text class="bordeaux label" x="1085" y="358" style="font-size:17px">diario errori</text>
+  </g>
+<g>
+    <rect x="165" y="384" width="1270" height="54" rx="12" fill="#EAF2FB" stroke="#CBD5E1" stroke-width="2"/>
+    <text class="navy label" x="199" y="420" style="font-size:18px">Mer</text>
+    <text class="muted small" x="395" y="420" style="font-size:17px">ripasso</text>
+    <text class="muted small" x="735" y="420" style="font-size:17px">caso/orale</text>
+    <text class="bordeaux label" x="1085" y="420" style="font-size:17px">risposta breve</text>
+  </g>
+<g>
+    <rect x="165" y="446" width="1270" height="54" rx="12" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2"/>
+    <text class="navy label" x="199" y="482" style="font-size:18px">Gio</text>
+    <text class="muted small" x="395" y="482" style="font-size:17px">core</text>
+    <text class="muted small" x="735" y="482" style="font-size:17px">drill errori</text>
+    <text class="bordeaux label" x="1085" y="482" style="font-size:17px">flashcard</text>
+  </g>
+<g>
+    <rect x="165" y="508" width="1270" height="54" rx="12" fill="#EAF2FB" stroke="#CBD5E1" stroke-width="2"/>
+    <text class="navy label" x="199" y="544" style="font-size:18px">Ven</text>
+    <text class="muted small" x="395" y="544" style="font-size:17px">modulo</text>
+    <text class="muted small" x="735" y="544" style="font-size:17px">simulazione</text>
+    <text class="bordeaux label" x="1085" y="544" style="font-size:17px">correzione</text>
+  </g>
+<g>
+    <rect x="165" y="570" width="1270" height="54" rx="12" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2"/>
+    <text class="navy label" x="199" y="606" style="font-size:18px">Sab</text>
+    <text class="muted small" x="395" y="606" style="font-size:17px">simulazione</text>
+    <text class="muted small" x="735" y="606" style="font-size:17px">revisione</text>
+    <text class="bordeaux label" x="1085" y="606" style="font-size:17px">tagli</text>
+  </g>
+<g>
+    <rect x="165" y="632" width="1270" height="54" rx="12" fill="#EAF2FB" stroke="#CBD5E1" stroke-width="2"/>
+    <text class="navy label" x="199" y="668" style="font-size:18px">Dom</text>
+    <text class="muted small" x="395" y="668" style="font-size:17px">ripasso leggero</text>
+    <text class="muted small" x="735" y="668" style="font-size:17px">pianifica</text>
+    <text class="bordeaux label" x="1085" y="668" style="font-size:17px">settimana nuova</text>
+  </g>
+  </g>
+  <g data-safe-box="250 735 1100 64 8">
+    <rect class="note" x="250" y="735" width="1100" height="64" rx="24"/>
+    <text class="ink body" x="800" y="775" text-anchor="middle" style="font-weight:800;font-size:20px">La settimana tipo alterna teoria, richiamo, modulo, prova e correzione.</text>
+  </g>
+</svg>

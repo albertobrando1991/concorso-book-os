@@ -54,4 +54,3 @@ La fonte [[sources/legge-241-1990-procedimento-amministrativo]] fornisce il quad
 ## Note editoriali
 - Verificare articoli puntuali e aggiornamenti normativi prima della pubblicazione.
 - Capitolo generato da topic pages e source summaries, non da raw sources.
-

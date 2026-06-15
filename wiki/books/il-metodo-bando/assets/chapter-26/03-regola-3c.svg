@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Regola 3C piu taglio</title>
+  <desc id="desc">Conserva, correggi, converti; poi elimina cio che non produce output.</desc>
+  <style>
+    .bg { fill: #F8FAFC; }
+    .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+    .title { font: 800 44px Arial, sans-serif; fill: #0F172A; }
+    .subtitle { font: 400 22px Arial, sans-serif; fill: #526174; }
+    .label { font: 800 25px Arial, sans-serif; fill: #0F172A; }
+    .body { font: 400 19px Arial, sans-serif; fill: #0F172A; }
+    .small { font: 400 16px Arial, sans-serif; fill: #0F172A; }
+    .strong { font-weight: 800; }
+    .muted { fill: #526174; }
+    .navy { fill: #10233F; }
+    .line { stroke: #10233F; stroke-width: 6; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+  </style>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#10233F"/>
+    </marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <g data-safe-box="80 16 1440 118 0">
+    <text class="title" x="800" y="68" text-anchor="middle">Regola 3C piu taglio</text>
+    <text class="subtitle" x="800" y="108" text-anchor="middle">Conserva, correggi, converti; poi elimina cio che non produce output.</text>
+  </g>
+
+    <rect class="card" x="70" y="165" width="1460" height="630" rx="30"/>
+    <text class="label navy" x="800" y="225" text-anchor="middle">Ogni materiale deve ricevere una decisione, non solo una cartella</text>
+    <g data-safe-box="130 290 290 340 18">
+    <rect x="130" y="290" width="290" height="340" rx="26" fill="#EAF2FB" stroke="#10233F" stroke-width="3"/>
+    <circle cx="275" cy="358" r="42" fill="#10233F"/>
+    <text class="label" x="275" y="366" text-anchor="middle" fill="#FFFFFF">C</text>
+    <text class="label" x="275" y="432" text-anchor="middle" fill="#10233F">Conserva</text>
+    <text class="small" x="275" y="478" text-anchor="middle">corretto</text>
+<text class="small" x="275" y="516" text-anchor="middle">sintetico</text>
+<text class="small" x="275" y="554" text-anchor="middle">riusabile</text>
+  </g>
+<g data-safe-box="480 290 290 340 18">
+    <rect x="480" y="290" width="290" height="340" rx="26" fill="#F8E8EA" stroke="#7A2430" stroke-width="3"/>
+    <circle cx="625" cy="358" r="42" fill="#7A2430"/>
+    <text class="label" x="625" y="366" text-anchor="middle" fill="#FFFFFF">C</text>
+    <text class="label" x="625" y="432" text-anchor="middle" fill="#7A2430">Correggi</text>
+    <text class="small" x="625" y="478" text-anchor="middle">utile</text>
+<text class="small" x="625" y="516" text-anchor="middle">incompleto</text>
+<text class="small" x="625" y="554" text-anchor="middle">da chiarire</text>
+  </g>
+<g data-safe-box="830 290 290 340 18">
+    <rect x="830" y="290" width="290" height="340" rx="26" fill="#FFF4CC" stroke="#D4AF37" stroke-width="3"/>
+    <circle cx="975" cy="358" r="42" fill="#D4AF37"/>
+    <text class="label" x="975" y="366" text-anchor="middle" fill="#FFFFFF">C</text>
+    <text class="label" x="975" y="432" text-anchor="middle" fill="#D4AF37">Converti</text>
+    <text class="small" x="975" y="478" text-anchor="middle">passivo</text>
+<text class="small" x="975" y="516" text-anchor="middle">in domanda</text>
+<text class="small" x="975" y="554" text-anchor="middle">o caso</text>
+  </g>
+<g data-safe-box="1180 290 290 340 18">
+    <rect x="1180" y="290" width="290" height="340" rx="26" fill="#E7F3ED" stroke="#2F7D5A" stroke-width="3"/>
+    <circle cx="1325" cy="358" r="42" fill="#2F7D5A"/>
+    <text class="label" x="1325" y="366" text-anchor="middle" fill="#FFFFFF">E</text>
+    <text class="label" x="1325" y="432" text-anchor="middle" fill="#2F7D5A">Elimina</text>
+    <text class="small" x="1325" y="478" text-anchor="middle">duplicato</text>
+<text class="small" x="1325" y="516" text-anchor="middle">superato</text>
+<text class="small" x="1325" y="554" text-anchor="middle">senza output</text>
+  </g>
+    <g data-safe-box="250 812 1100 66 12">
+    <rect x="250" y="812" width="1100" height="66" rx="22" fill="#FFF7ED" stroke="#EFC58D" stroke-width="3"/>
+    <text class="body strong" x="800" y="855" text-anchor="middle">Studiare meglio significa anche buttare via meglio.</text>
+  </g>
+
+</svg>

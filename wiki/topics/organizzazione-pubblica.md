@@ -39,4 +39,3 @@ Da consolidare con fonti istituzionali.
 
 ## Note editoriali
 Usare come mappa base per capire organi, uffici e responsabilità.
-

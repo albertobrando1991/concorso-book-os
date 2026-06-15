@@ -42,4 +42,3 @@ tags: ["quiz","recall"]
 - Usare raw sources come output finale.
 - Non aggiornare topic pages dopo ingest.
 - Non marcare capitoli impattati da nuove fonti.
-

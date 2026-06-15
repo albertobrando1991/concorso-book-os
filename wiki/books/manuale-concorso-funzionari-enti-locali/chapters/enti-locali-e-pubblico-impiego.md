@@ -52,4 +52,3 @@ Il [[entities/comune|Comune]] e' il contesto operativo principale per esempi su 
 ## Note editoriali
 - Capitolo da espandere con contabilita pubblica e disciplina del lavoro pubblico.
 - Review richiesta per fonte unica e copertura bassa.
-

@@ -170,10 +170,10 @@ Il metodo non è rigido. È una struttura per correggere la rotta.
 
 Un candidato prepara un concorso per istruttore amministrativo comunale.
 
-**Bando:** scopre che ci sono quiz e orale.  
-**Aree:** distingue nucleo comune, enti locali, pubblico impiego, trasparenza, informatica e inglese.  
-**Nuclei:** mette al centro procedimento amministrativo, organi comunali, accesso, anticorruzione, doveri del dipendente e quiz a tempo.  
-**Diario:** registra errori su competenze degli organi, termini procedimentali e accesso civico.  
+**Bando:** scopre che ci sono quiz e orale.
+**Aree:** distingue nucleo comune, enti locali, pubblico impiego, trasparenza, informatica e inglese.
+**Nuclei:** mette al centro procedimento amministrativo, organi comunali, accesso, anticorruzione, doveri del dipendente e quiz a tempo.
+**Diario:** registra errori su competenze degli organi, termini procedimentali e accesso civico.
 **Output:** fa simulazioni a quiz, prepara risposte orali di due minuti e risolve casi brevi su istanza del cittadino.
 
 Il risultato non è “studiare enti locali”. Il risultato è trasformare enti locali, amministrativo e pubblico impiego in risposte da prova.
@@ -182,10 +182,10 @@ Il risultato non è “studiare enti locali”. Il risultato è trasformare enti
 
 Un candidato prepara un concorso per assistente amministrativo in un ente centrale.
 
-**Bando:** nota che il profilo richiede base amministrativa, competenze digitali, inglese e organizzazione dell’amministrazione.  
-**Aree:** separa materie comuni e organizzazione specifica dell’ente.  
-**Nuclei:** privilegia diritto amministrativo di base, pubblico impiego, documenti digitali, trasparenza e quiz.  
-**Diario:** registra errori su definizioni, sigle, competenze e distrazioni nei quiz.  
+**Bando:** nota che il profilo richiede base amministrativa, competenze digitali, inglese e organizzazione dell’amministrazione.
+**Aree:** separa materie comuni e organizzazione specifica dell’ente.
+**Nuclei:** privilegia diritto amministrativo di base, pubblico impiego, documenti digitali, trasparenza e quiz.
+**Diario:** registra errori su definizioni, sigle, competenze e distrazioni nei quiz.
 **Output:** alterna batterie a tempo, flashcard e risposte brevi.
 
 Anche qui il metodo evita dispersione: non tutto ciò che è interessante è prioritario.

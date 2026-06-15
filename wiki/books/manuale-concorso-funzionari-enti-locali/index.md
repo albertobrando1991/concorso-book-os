@@ -36,4 +36,3 @@ Manuale operativo per candidati a concorsi negli enti locali, costruito dalla kn
 
 ## Revisioni
 - 2026-05-09T00:20:00.000Z | compilazione iniziale demo.
-

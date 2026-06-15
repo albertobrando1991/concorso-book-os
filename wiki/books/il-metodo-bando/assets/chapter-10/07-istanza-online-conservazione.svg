@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Dall'istanza online alla conservazione</title>
+  <desc id="desc">Ogni passaggio digitale deve restare tracciabile, sicuro, accessibile e conservabile.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; }
+      .softRed { fill: #F8E8EA; stroke: #E3B9BF; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E8D080; stroke-width: 2.5; }
+      .softGreen { fill: #E7F3ED; stroke: #A8D1BD; stroke-width: 2.5; }
+      .note { fill: #FFF7ED; stroke: #E7C18E; stroke-width: 2.5; }
+      .ink { fill: #0F172A; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 44px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 23px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 25px; font-weight: 800; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 18px; }
+      .navy { fill: #10233F; }
+      .bordeaux { fill: #7A2430; }
+      .gold { fill: #D4AF37; }
+      .green { fill: #2F7D5A; }
+      .line { stroke: #94A3B8; stroke-width: 4; stroke-linecap: round; fill: none; }
+      .thin { stroke: #CBD5E1; stroke-width: 2.5; stroke-linecap: round; fill: none; }
+      .arrowNavy { stroke: #10233F; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowNavy); }
+      .arrowBordeaux { stroke: #7A2430; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowBordeaux); }
+      .arrowGold { stroke: #D4AF37; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGold); }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#10233F"/>
+    </marker>
+    <marker id="arrowBordeaux" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#7A2430"/>
+    </marker>
+    <marker id="arrowGold" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#D4AF37"/>
+    </marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <text class="ink title" x="800" y="68" text-anchor="middle">Dall'istanza online alla conservazione</text>
+  <text class="muted subtitle" x="800" y="108" text-anchor="middle">Ogni passaggio digitale deve restare tracciabile, sicuro, accessibile e conservabile.</text>
+
+  <g data-safe-box="95 215 220 160 8">
+    <rect class="card" x="95" y="215" width="220" height="160" rx="20"/>
+    <circle cx="205" cy="252" r="24" fill="#D4AF37"/>
+    <text class="ink label" x="205" y="261" text-anchor="middle" style="font-size:23px">1</text>
+    <text class="navy label" x="205" y="307" text-anchor="middle" style="font-size:20px">Accesso</text>
+    <text class="muted small" x="205" y="339" text-anchor="middle" style="font-size:17px">SPID, CIE, CNS</text>
+  </g>
+<g data-safe-box="385 215 220 160 8">
+    <rect class="card" x="385" y="215" width="220" height="160" rx="20"/>
+    <circle cx="495" cy="252" r="24" fill="#D4AF37"/>
+    <text class="ink label" x="495" y="261" text-anchor="middle" style="font-size:23px">2</text>
+    <text class="navy label" x="495" y="307" text-anchor="middle" style="font-size:20px">Modulo</text>
+    <text class="muted small" x="495" y="339" text-anchor="middle" style="font-size:17px">dati necessari</text>
+  </g>
+<g data-safe-box="675 215 220 160 8">
+    <rect class="card" x="675" y="215" width="220" height="160" rx="20"/>
+    <circle cx="785" cy="252" r="24" fill="#D4AF37"/>
+    <text class="ink label" x="785" y="261" text-anchor="middle" style="font-size:23px">3</text>
+    <text class="navy label" x="785" y="307" text-anchor="middle" style="font-size:20px">Allegati</text>
+    <text class="muted small" x="785" y="339" text-anchor="middle" style="font-size:17px">formati leggibili</text>
+  </g>
+<g data-safe-box="965 215 220 160 8">
+    <rect class="card" x="965" y="215" width="220" height="160" rx="20"/>
+    <circle cx="1075" cy="252" r="24" fill="#D4AF37"/>
+    <text class="ink label" x="1075" y="261" text-anchor="middle" style="font-size:23px">4</text>
+    <text class="navy label" x="1075" y="307" text-anchor="middle" style="font-size:20px">Pagamento</text>
+    <text class="muted small" x="1075" y="339" text-anchor="middle" style="font-size:17px">pagoPA</text>
+  </g>
+<g data-safe-box="1255 215 220 160 8">
+    <rect class="card" x="1255" y="215" width="220" height="160" rx="20"/>
+    <circle cx="1365" cy="252" r="24" fill="#D4AF37"/>
+    <text class="ink label" x="1365" y="261" text-anchor="middle" style="font-size:23px">5</text>
+    <text class="navy label" x="1365" y="307" text-anchor="middle" style="font-size:20px">Protocollo</text>
+    <text class="muted small" x="1365" y="339" text-anchor="middle" style="font-size:17px">registrazione</text>
+  </g>
+  <path class="arrowNavy" d="M327 297 L367 297"/>
+<path class="arrowNavy" d="M617 297 L657 297"/>
+<path class="arrowNavy" d="M907 297 L947 297"/>
+<path class="arrowNavy" d="M1197 297 L1237 297"/>
+  <path class="arrowGold" d="M1365 380 C1435 430 1415 492 1365 530"/>
+  <g data-safe-box="95 545 220 160 8">
+    <rect class="card" x="95" y="545" width="220" height="160" rx="20"/>
+    <circle cx="205" cy="582" r="24" fill="#D4AF37"/>
+    <text class="ink label" x="205" y="591" text-anchor="middle" style="font-size:23px">6</text>
+    <text class="navy label" x="205" y="637" text-anchor="middle" style="font-size:20px">Fascicolo</text>
+    <text class="muted small" x="205" y="669" text-anchor="middle" style="font-size:16px">documenti e metadati</text>
+  </g>
+<g data-safe-box="385 545 220 160 8">
+    <rect class="card" x="385" y="545" width="220" height="160" rx="20"/>
+    <circle cx="495" cy="582" r="24" fill="#D4AF37"/>
+    <text class="ink label" x="495" y="591" text-anchor="middle" style="font-size:23px">7</text>
+    <text class="navy label" x="495" y="637" text-anchor="middle" style="font-size:20px">Istruttoria</text>
+    <text class="muted small" x="495" y="669" text-anchor="middle" style="font-size:16px">database e permessi</text>
+  </g>
+<g data-safe-box="675 545 220 160 8">
+    <rect class="card" x="675" y="545" width="220" height="160" rx="20"/>
+    <circle cx="785" cy="582" r="24" fill="#D4AF37"/>
+    <text class="ink label" x="785" y="591" text-anchor="middle" style="font-size:23px">8</text>
+    <text class="navy label" x="785" y="637" text-anchor="middle" style="font-size:20px">Comunicazione</text>
+    <text class="muted small" x="785" y="669" text-anchor="middle" style="font-size:17px">PEC, IO, SEND</text>
+  </g>
+<g data-safe-box="965 545 220 160 8">
+    <rect class="card" x="965" y="545" width="220" height="160" rx="20"/>
+    <circle cx="1075" cy="582" r="24" fill="#D4AF37"/>
+    <text class="ink label" x="1075" y="591" text-anchor="middle" style="font-size:23px">9</text>
+    <text class="navy label" x="1075" y="637" text-anchor="middle" style="font-size:20px">Sicurezza</text>
+    <text class="muted small" x="1075" y="669" text-anchor="middle" style="font-size:17px">privacy e log</text>
+  </g>
+<g data-safe-box="1255 545 220 160 8">
+    <rect class="card" x="1255" y="545" width="220" height="160" rx="20"/>
+    <circle cx="1365" cy="582" r="24" fill="#D4AF37"/>
+    <text class="ink label" x="1365" y="591" text-anchor="middle" style="font-size:23px">10</text>
+    <text class="navy label" x="1365" y="637" text-anchor="middle" style="font-size:20px">Conservazione</text>
+    <text class="muted small" x="1365" y="669" text-anchor="middle" style="font-size:16px">integrita nel tempo</text>
+  </g>
+  <path class="arrowBordeaux" d="M327 627 L367 627"/>
+<path class="arrowBordeaux" d="M617 627 L657 627"/>
+<path class="arrowBordeaux" d="M907 627 L947 627"/>
+<path class="arrowBordeaux" d="M1197 627 L1237 627"/>
+  <g data-safe-box="250 800 1100 64 8">
+    <rect class="note" x="250" y="800" width="1100" height="64" rx="24"/>
+    <text class="ink body" x="800" y="840" text-anchor="middle" style="font-weight:800;font-size:20px">Controllo finale: identificare, tracciare, proteggere, comunicare e conservare.</text>
+  </g>
+
+</svg>

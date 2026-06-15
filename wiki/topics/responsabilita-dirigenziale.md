@@ -43,4 +43,3 @@ Da verificare con fonti normative e giurisprudenziali primarie.
 
 ## Note editoriali
 Nel Metodo BANDO trattare come tema avanzato: definizione, norme base, evoluzione, caso concreto, domanda-trappola e rischi negli enti locali.
-

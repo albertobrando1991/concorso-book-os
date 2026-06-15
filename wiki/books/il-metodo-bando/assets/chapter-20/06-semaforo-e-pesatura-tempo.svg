@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Semaforo e pesatura del tempo</title>
+  <desc id="desc">Colori e percentuali impediscono di studiare in base alla sola abitudine.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; }
+      .softRed { fill: #F8E8EA; stroke: #E3B9BF; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E8D080; stroke-width: 2.5; }
+      .softGreen { fill: #E7F3ED; stroke: #A8D1BD; stroke-width: 2.5; }
+      .softTeal { fill: #E4F4F5; stroke: #A3D5D8; stroke-width: 2.5; }
+      .note { fill: #FFF7ED; stroke: #E7C18E; stroke-width: 2.5; }
+      .ink { fill: #0F172A; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 43px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 22px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 25px; font-weight: 800; letter-spacing: 0; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 18px; }
+      .navy { fill: #10233F; }
+      .bordeaux { fill: #7A2430; }
+      .gold { fill: #D4AF37; }
+      .green { fill: #2F7D5A; }
+      .teal { fill: #1F6F78; }
+      .line { stroke: #94A3B8; stroke-width: 4; stroke-linecap: round; fill: none; }
+      .thin { stroke: #CBD5E1; stroke-width: 2.5; stroke-linecap: round; fill: none; }
+      .arrowNavy { stroke: #10233F; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowNavy); }
+      .arrowGold { stroke: #D4AF37; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGold); }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#10233F"/></marker>
+    <marker id="arrowGold" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#D4AF37"/></marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <text class="ink title" x="800" y="68" text-anchor="middle">Semaforo e pesatura del tempo</text>
+  <text class="muted subtitle" x="800" y="108" text-anchor="middle">Colori e percentuali impediscono di studiare in base alla sola abitudine.</text>
+
+  <rect class="card" x="70" y="165" width="1460" height="630" rx="30"/>
+  <text class="navy label" x="445" y="235" text-anchor="middle">Griglia semaforo</text>
+  <g data-safe-box="145 285 600 70 8">
+    <rect class="card" x="145" y="285" width="600" height="70" rx="20"/>
+    <circle cx="190" cy="320" r="18" fill="#2F7D5A"/>
+    <text class="navy label" x="235" y="328" style="font-size:20px">Verde</text>
+    <text class="muted small" x="390" y="328" style="font-size:17px">gia studiata</text>
+    <text class="muted small" x="570" y="328" style="font-size:17px">ripasso e quiz</text>
+  </g>
+  <g data-safe-box="145 380 600 70 8">
+    <rect class="card" x="145" y="380" width="600" height="70" rx="20"/>
+    <circle cx="190" cy="415" r="18" fill="#D4AF37"/>
+    <text class="navy label" x="235" y="423" style="font-size:20px">Giallo</text>
+    <text class="muted small" x="390" y="423" style="font-size:17px">da adattare</text>
+    <text class="muted small" x="570" y="423" style="font-size:17px">collegamenti e casi</text>
+  </g>
+  <g data-safe-box="145 475 600 70 8">
+    <rect class="card" x="145" y="475" width="600" height="70" rx="20"/>
+    <circle cx="190" cy="510" r="18" fill="#7A2430"/>
+    <text class="navy label" x="235" y="518" style="font-size:20px">Rosso</text>
+    <text class="muted small" x="390" y="518" style="font-size:17px">nuova o killer</text>
+    <text class="muted small" x="570" y="518" style="font-size:17px">blocchi dedicati</text>
+  </g>
+  <g data-safe-box="145 570 600 70 8">
+    <rect class="card" x="145" y="570" width="600" height="70" rx="20"/>
+    <circle cx="190" cy="605" r="18" fill="#94A3B8"/>
+    <text class="navy label" x="235" y="613" style="font-size:20px">Grigio</text>
+    <text class="muted small" x="390" y="613" style="font-size:17px">marginale</text>
+    <text class="muted small" x="570" y="613" style="font-size:17px">studio minimo</text>
+  </g>
+  <path class="thin" d="M795 255 L795 680"/>
+  <text class="navy label" x="1160" y="235" text-anchor="middle">Pesatura prudente</text>
+  <g data-safe-box="815 277 715 84 4">
+    <text class="muted small" x="910" y="296" style="font-size:15px">Profilo amm. generale</text>
+    <rect x="910" y="305" width="275" height="44" rx="12" fill="#10233F"/>
+    <rect x="1185" y="305" width="140" height="44" fill="#7A2430"/>
+    <rect x="1325" y="305" width="85" height="44" rx="12" fill="#2F7D5A"/>
+    <text class="small" x="1432" y="334" fill="#0F172A" style="font-size:15px">55 / 20 / 25</text>
+  </g>
+  <g data-safe-box="815 357 715 84 4">
+    <text class="muted small" x="910" y="376" style="font-size:15px">Amm.-contabile</text>
+    <rect x="910" y="385" width="200" height="44" rx="12" fill="#10233F"/>
+    <rect x="1110" y="385" width="140" height="44" fill="#7A2430"/>
+    <rect x="1250" y="385" width="160" height="44" rx="12" fill="#2F7D5A"/>
+    <text class="small" x="1432" y="414" fill="#0F172A" style="font-size:15px">40 / 35 / 25</text>
+  </g>
+  <g data-safe-box="815 437 715 84 4">
+    <text class="muted small" x="910" y="456" style="font-size:15px">Specialistico</text>
+    <rect x="910" y="465" width="150" height="44" rx="12" fill="#10233F"/>
+    <rect x="1060" y="465" width="140" height="44" fill="#7A2430"/>
+    <rect x="1200" y="465" width="210" height="44" rx="12" fill="#2F7D5A"/>
+    <text class="small" x="1432" y="494" fill="#0F172A" style="font-size:15px">30 / 45 / 25</text>
+  </g>
+  <g data-safe-box="815 517 715 84 4">
+    <text class="muted small" x="910" y="536" style="font-size:15px">Prova pratica</text>
+    <rect x="910" y="545" width="150" height="44" rx="12" fill="#10233F"/>
+    <rect x="1060" y="545" width="140" height="44" fill="#7A2430"/>
+    <rect x="1200" y="545" width="210" height="44" rx="12" fill="#2F7D5A"/>
+    <text class="small" x="1432" y="574" fill="#0F172A" style="font-size:15px">30 / 35 / 35</text>
+  </g>
+  <g data-safe-box="930 632 460 50 4">
+    <rect x="930" y="640" width="20" height="20" rx="5" fill="#10233F"/>
+    <text class="muted small" x="960" y="657" style="font-size:15px">core</text>
+    <rect x="1050" y="640" width="20" height="20" rx="5" fill="#7A2430"/>
+    <text class="muted small" x="1080" y="657" style="font-size:15px">modulo</text>
+    <rect x="1190" y="640" width="20" height="20" rx="5" fill="#2F7D5A"/>
+    <text class="muted small" x="1220" y="657" style="font-size:15px">output</text>
+  </g>
+  <g data-safe-box="250 812 1100 64 8">
+    <rect class="note" x="250" y="812" width="1100" height="64" rx="24"/>
+    <text class="ink body" x="800" y="852" text-anchor="middle" style="font-weight:800;font-size:20px">Il rosso non va lasciato alla fine; il grigio non deve rubare tempo al rosso.</text>
+  </g>
+</svg>

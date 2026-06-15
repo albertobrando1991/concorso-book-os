@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Active recall e ripasso distribuito</title>
+  <desc id="desc">Testarsi presto e tornare sugli errori batte rilettura e sottolineatura passiva.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; }
+      .softRed { fill: #F8E8EA; stroke: #E3B9BF; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E8D080; stroke-width: 2.5; }
+      .softGreen { fill: #E7F3ED; stroke: #A8D1BD; stroke-width: 2.5; }
+      .softTeal { fill: #E4F4F5; stroke: #A3D5D8; stroke-width: 2.5; }
+      .note { fill: #FFF7ED; stroke: #E7C18E; stroke-width: 2.5; }
+      .ink { fill: #0F172A; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 44px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 23px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 25px; font-weight: 800; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 18px; }
+      .navy { fill: #10233F; }
+      .bordeaux { fill: #7A2430; }
+      .gold { fill: #D4AF37; }
+      .green { fill: #2F7D5A; }
+      .teal { fill: #1F6F78; }
+      .line { stroke: #94A3B8; stroke-width: 4; stroke-linecap: round; fill: none; }
+      .thin { stroke: #CBD5E1; stroke-width: 2.5; stroke-linecap: round; fill: none; }
+      .dash { stroke: #94A3B8; stroke-width: 3.5; stroke-linecap: round; stroke-dasharray: 9 10; fill: none; }
+      .arrowNavy { stroke: #10233F; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowNavy); }
+      .arrowBordeaux { stroke: #7A2430; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowBordeaux); }
+      .arrowGold { stroke: #D4AF37; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGold); }
+      .arrowGreen { stroke: #2F7D5A; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGreen); }
+      .arrowTeal { stroke: #1F6F78; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowTeal); }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#10233F"/>
+    </marker>
+    <marker id="arrowBordeaux" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#7A2430"/>
+    </marker>
+    <marker id="arrowGold" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#D4AF37"/>
+    </marker>
+    <marker id="arrowGreen" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#2F7D5A"/>
+    </marker>
+    <marker id="arrowTeal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#1F6F78"/>
+    </marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <text class="ink title" x="800" y="68" text-anchor="middle">Active recall e ripasso distribuito</text>
+  <text class="muted subtitle" x="800" y="108" text-anchor="middle">Testarsi presto e tornare sugli errori batte rilettura e sottolineatura passiva.</text>
+
+  <rect class="card" x="90" y="175" width="1420" height="610" rx="30"/>
+  <text class="navy label" x="800" y="232" text-anchor="middle">Il test costruisce apprendimento, non misura soltanto</text>
+  <g data-safe-box="210 290 180 200 8">
+    <circle cx="300" cy="390" r="78" fill="#10233F"/>
+    <text class="label" x="300" y="362" text-anchor="middle" fill="#FFFFFF" style="font-size:24px">1</text>
+    <text class="label" x="300" y="396" text-anchor="middle" fill="#FFFFFF" style="font-size:20px">Leggi</text>
+    <text class="small" x="300" y="428" text-anchor="middle" fill="#FFFFFF" style="font-size:16px">blocco breve</text>
+  </g>
+  <g data-safe-box="480 290 180 200 8">
+    <circle cx="570" cy="390" r="78" fill="#7A2430"/>
+    <text class="label" x="570" y="362" text-anchor="middle" fill="#FFFFFF" style="font-size:24px">2</text>
+    <text class="label" x="570" y="396" text-anchor="middle" fill="#FFFFFF" style="font-size:20px">Richiama</text>
+    <text class="small" x="570" y="428" text-anchor="middle" fill="#FFFFFF" style="font-size:16px">senza testo</text>
+  </g>
+  <g data-safe-box="750 290 180 200 8">
+    <circle cx="840" cy="390" r="78" fill="#D4AF37"/>
+    <text class="label" x="840" y="362" text-anchor="middle" fill="#FFFFFF" style="font-size:24px">3</text>
+    <text class="label" x="840" y="396" text-anchor="middle" fill="#FFFFFF" style="font-size:20px">Controlla</text>
+    <text class="small" x="840" y="428" text-anchor="middle" fill="#FFFFFF" style="font-size:16px">correggi</text>
+  </g>
+  <g data-safe-box="1020 290 180 200 8">
+    <circle cx="1110" cy="390" r="78" fill="#2F7D5A"/>
+    <text class="label" x="1110" y="362" text-anchor="middle" fill="#FFFFFF" style="font-size:24px">4</text>
+    <text class="label" x="1110" y="396" text-anchor="middle" fill="#FFFFFF" style="font-size:20px">Flashcard</text>
+    <text class="small" x="1110" y="428" text-anchor="middle" fill="#FFFFFF" style="font-size:16px">domanda utile</text>
+  </g>
+  <g data-safe-box="1280 290 180 200 8">
+    <circle cx="1370" cy="390" r="78" fill="#1F6F78"/>
+    <text class="label" x="1370" y="362" text-anchor="middle" fill="#FFFFFF" style="font-size:24px">5</text>
+    <text class="label" x="1370" y="396" text-anchor="middle" fill="#FFFFFF" style="font-size:20px">Ripassa</text>
+    <text class="small" x="1370" y="428" text-anchor="middle" fill="#FFFFFF" style="font-size:16px">prima che sfugga</text>
+  </g>
+  <path class="arrowNavy" d="M400 390 L500 390"/>
+  <path class="arrowBordeaux" d="M670 390 L770 390"/>
+  <path class="arrowGold" d="M940 390 L1040 390"/>
+  <path class="arrowGreen" d="M1210 390 L1300 390"/>
+  <path class="dash" d="M1370 500 C1210 650 520 660 300 505"/>
+  <g data-safe-box="230 640 180 78 8">
+    <rect x="230" y="640" width="180" height="78" rx="20" fill="#10233F"/>
+    <text class="label" x="320" y="672" text-anchor="middle" fill="#FFFFFF" style="font-size:21px">D0</text>
+    <text class="small" x="320" y="698" text-anchor="middle" fill="#FFFFFF" style="font-size:16px">subito</text>
+  </g>
+  <g data-safe-box="455 640 180 78 8">
+    <rect x="455" y="640" width="180" height="78" rx="20" fill="#7A2430"/>
+    <text class="label" x="545" y="672" text-anchor="middle" fill="#FFFFFF" style="font-size:21px">D1</text>
+    <text class="small" x="545" y="698" text-anchor="middle" fill="#FFFFFF" style="font-size:16px">domani</text>
+  </g>
+  <g data-safe-box="680 640 180 78 8">
+    <rect x="680" y="640" width="180" height="78" rx="20" fill="#D4AF37"/>
+    <text class="label" x="770" y="672" text-anchor="middle" fill="#FFFFFF" style="font-size:21px">D3</text>
+    <text class="small" x="770" y="698" text-anchor="middle" fill="#FFFFFF" style="font-size:16px">breve</text>
+  </g>
+  <g data-safe-box="905 640 180 78 8">
+    <rect x="905" y="640" width="180" height="78" rx="20" fill="#2F7D5A"/>
+    <text class="label" x="995" y="672" text-anchor="middle" fill="#FFFFFF" style="font-size:21px">D7</text>
+    <text class="small" x="995" y="698" text-anchor="middle" fill="#FFFFFF" style="font-size:16px">settimana</text>
+  </g>
+  <g data-safe-box="1130 640 180 78 8">
+    <rect x="1130" y="640" width="180" height="78" rx="20" fill="#1F6F78"/>
+    <text class="label" x="1220" y="672" text-anchor="middle" fill="#FFFFFF" style="font-size:21px">D14</text>
+    <text class="small" x="1220" y="698" text-anchor="middle" fill="#FFFFFF" style="font-size:16px">stabile</text>
+  </g>
+  <g data-safe-box="250 805 1100 64 8">
+    <rect class="note" x="250" y="805" width="1100" height="64" rx="24"/>
+    <text class="ink body" x="800" y="845" text-anchor="middle" style="font-weight:800;font-size:20px">Rilettura e sottolineatura aiutano solo se diventano domande recuperabili.</text>
+  </g>
+
+</svg>

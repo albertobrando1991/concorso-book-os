@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Reading, email e orale</title>
+  <desc id="desc">La prova valuta comprensione essenziale e comunicazione breve, ordinata, cortese.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; }
+      .softRed { fill: #F8E8EA; stroke: #E3B9BF; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E8D080; stroke-width: 2.5; }
+      .softGreen { fill: #E7F3ED; stroke: #A8D1BD; stroke-width: 2.5; }
+      .softTeal { fill: #E4F4F5; stroke: #A3D5D8; stroke-width: 2.5; }
+      .note { fill: #FFF7ED; stroke: #E7C18E; stroke-width: 2.5; }
+      .ink { fill: #0F172A; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 44px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 23px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 25px; font-weight: 800; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 18px; }
+      .navy { fill: #10233F; }
+      .bordeaux { fill: #7A2430; }
+      .gold { fill: #D4AF37; }
+      .green { fill: #2F7D5A; }
+      .teal { fill: #1F6F78; }
+      .line { stroke: #94A3B8; stroke-width: 4; stroke-linecap: round; fill: none; }
+      .thin { stroke: #CBD5E1; stroke-width: 2.5; stroke-linecap: round; fill: none; }
+      .arrowNavy { stroke: #10233F; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowNavy); }
+      .arrowBordeaux { stroke: #7A2430; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowBordeaux); }
+      .arrowGold { stroke: #D4AF37; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGold); }
+      .arrowGreen { stroke: #2F7D5A; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGreen); }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#10233F"/>
+    </marker>
+    <marker id="arrowBordeaux" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#7A2430"/>
+    </marker>
+    <marker id="arrowGold" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#D4AF37"/>
+    </marker>
+    <marker id="arrowGreen" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#2F7D5A"/>
+    </marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <text class="ink title" x="800" y="68" text-anchor="middle">Reading, email e orale</text>
+  <text class="muted subtitle" x="800" y="108" text-anchor="middle">La prova valuta comprensione essenziale e comunicazione breve, ordinata, cortese.</text>
+
+  <rect class="card" x="90" y="185" width="1420" height="565" rx="30"/>
+  <text class="navy label" x="800" y="240" text-anchor="middle">Comprendere e rispondere: tre output ricorrenti</text>
+  <g data-safe-box="145 320 370 145 8">
+    <rect class="softBlue" x="145" y="320" width="370" height="145" rx="22"/>
+    <rect x="145" y="320" width="370" height="10" rx="5" fill="#10233F"/>
+    <text class="navy label" x="330" y="362" text-anchor="middle" style="font-size:25px">Reading</text>
+    <text class="muted small" x="330" y="396" text-anchor="middle" style="font-size:18px">leggi domanda</text>
+<text class="muted small" x="330" y="421" text-anchor="middle" style="font-size:18px">cerca date e keyword</text>
+<text class="muted small" x="330" y="446" text-anchor="middle" style="font-size:18px">rispondi dal testo</text>
+  </g>
+  <g data-safe-box="615 320 370 145 8">
+    <rect class="softRed" x="615" y="320" width="370" height="145" rx="22"/>
+    <rect x="615" y="320" width="370" height="10" rx="5" fill="#7A2430"/>
+    <text class="bordeaux label" x="800" y="362" text-anchor="middle" style="font-size:25px">Email</text>
+    <text class="muted small" x="800" y="396" text-anchor="middle" style="font-size:18px">saluto</text>
+<text class="muted small" x="800" y="421" text-anchor="middle" style="font-size:18px">motivo e richiesta</text>
+<text class="muted small" x="800" y="446" text-anchor="middle" style="font-size:18px">thanks + regards</text>
+  </g>
+  <g data-safe-box="1085 320 370 145 8">
+    <rect class="softGreen" x="1085" y="320" width="370" height="145" rx="22"/>
+    <rect x="1085" y="320" width="370" height="10" rx="5" fill="#2F7D5A"/>
+    <text class="green label" x="1270" y="362" text-anchor="middle" style="font-size:25px">Orale</text>
+    <text class="muted small" x="1270" y="396" text-anchor="middle" style="font-size:18px">frase semplice</text>
+<text class="muted small" x="1270" y="421" text-anchor="middle" style="font-size:18px">chiedi di ripetere</text>
+<text class="muted small" x="1270" y="446" text-anchor="middle" style="font-size:18px">risposta breve</text>
+  </g>
+  <path class="arrowNavy" d="M525 392 L600 392"/>
+  <path class="arrowBordeaux" d="M995 392 L1070 392"/>
+  <g data-safe-box="160 570 360 84 8">
+    <rect x="160" y="570" width="360" height="84" rx="22" fill="#10233F"/>
+    <text class="label" x="340" y="623" text-anchor="middle" fill="#FFFFFF" style="font-size:27px">From Tuesday morning.</text>
+  </g>
+  <g data-safe-box="620 570 360 84 8">
+    <rect x="620" y="570" width="360" height="84" rx="22" fill="#7A2430"/>
+    <text class="label" x="800" y="623" text-anchor="middle" fill="#FFFFFF" style="font-size:27px">Could you confirm...?</text>
+  </g>
+  <g data-safe-box="1080 570 360 84 8">
+    <rect x="1080" y="570" width="360" height="84" rx="22" fill="#2F7D5A"/>
+    <text class="label" x="1260" y="623" text-anchor="middle" fill="#FFFFFF" style="font-size:27px">I would like to...</text>
+  </g>
+  <g data-safe-box="250 795 1100 64 8">
+    <rect class="note" x="250" y="795" width="1100" height="64" rx="24"/>
+    <text class="ink body" x="800" y="835" text-anchor="middle" style="font-weight:800;font-size:20px">Meglio una frase breve e corretta che una frase lunga con errori strutturali.</text>
+  </g>
+
+</svg>

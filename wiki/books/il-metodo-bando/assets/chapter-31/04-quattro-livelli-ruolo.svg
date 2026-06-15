@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Quattro livelli del nuovo ruolo</title>
+  <desc id="desc">Profilo, area, comparto e ufficio non dicono la stessa cosa.</desc>
+  <style>
+    .bg { fill: #F8FAFC; }
+    .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+    .title { font: 800 43px Arial, sans-serif; fill: #0F172A; }
+    .subtitle { font: 400 21px Arial, sans-serif; fill: #526174; }
+    .label { font: 800 25px Arial, sans-serif; fill: #0F172A; }
+    .body { font: 400 19px Arial, sans-serif; fill: #0F172A; }
+    .small { font: 400 16px Arial, sans-serif; fill: #0F172A; }
+    .strong { font-weight: 800; }
+    .whiteText { fill: #FFFFFF; }
+    .line { stroke: #10233F; stroke-width: 6; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+  </style>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#10233F"/>
+    </marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <g data-safe-box="80 16 1440 118 0">
+    <text class="title" x="800" y="68" text-anchor="middle">Quattro livelli del nuovo ruolo</text>
+    <text class="subtitle" x="800" y="108" text-anchor="middle">Profilo, area, comparto e ufficio non dicono la stessa cosa.</text>
+  </g>
+
+    <rect class="card" x="70" y="165" width="1460" height="630" rx="30"/>
+    <g data-safe-box="130 285 300 345 8">
+    <rect x="130" y="285" width="300" height="345" rx="28" fill="#EAF2FB" stroke="#10233F" stroke-width="3"/>
+    <rect x="130" y="285" width="300" height="14" rx="7" fill="#10233F"/>
+    <text class="label" style="fill:#10233F" x="280" y="357" text-anchor="middle">Profilo</text>
+    <line x1="185" y1="400" x2="375" y2="400" stroke="#CBD5E1" stroke-width="3"/>
+    <text class="small strong" x="280" y="461" text-anchor="middle">ruolo selezionato</text>
+  </g>
+<g data-safe-box="490 285 300 345 8">
+    <rect x="490" y="285" width="300" height="345" rx="28" fill="#E7F3ED" stroke="#2F7D5A" stroke-width="3"/>
+    <rect x="490" y="285" width="300" height="14" rx="7" fill="#2F7D5A"/>
+    <text class="label" style="fill:#2F7D5A" x="640" y="357" text-anchor="middle">Area</text>
+    <line x1="545" y1="400" x2="735" y2="400" stroke="#CBD5E1" stroke-width="3"/>
+    <text class="small strong" x="640" y="461" text-anchor="middle">competenza attesa</text>
+<text class="small strong" x="640" y="499" text-anchor="middle">responsabilita</text>
+  </g>
+<g data-safe-box="850 285 300 345 8">
+    <rect x="850" y="285" width="300" height="345" rx="28" fill="#FFF4CC" stroke="#D4AF37" stroke-width="3"/>
+    <rect x="850" y="285" width="300" height="14" rx="7" fill="#D4AF37"/>
+    <text class="label" style="fill:#D4AF37" x="1000" y="357" text-anchor="middle">Comparto</text>
+    <line x1="905" y1="400" x2="1095" y2="400" stroke="#CBD5E1" stroke-width="3"/>
+    <text class="small strong" x="1000" y="461" text-anchor="middle">CCNL da verificare</text>
+  </g>
+<g data-safe-box="1210 285 300 345 8">
+    <rect x="1210" y="285" width="300" height="345" rx="28" fill="#E4F4F5" stroke="#1F6F78" stroke-width="3"/>
+    <rect x="1210" y="285" width="300" height="14" rx="7" fill="#1F6F78"/>
+    <text class="label" style="fill:#1F6F78" x="1360" y="357" text-anchor="middle">Ufficio</text>
+    <line x1="1265" y1="400" x2="1455" y2="400" stroke="#CBD5E1" stroke-width="3"/>
+    <text class="small strong" x="1360" y="461" text-anchor="middle">attivita concrete</text>
+<text class="small strong" x="1360" y="499" text-anchor="middle">della struttura</text>
+  </g>
+    <g data-safe-box="455 665 690 150 8">
+    <rect x="455" y="665" width="690" height="150" rx="24" fill="#F8E8EA" stroke="#7A2430" stroke-width="3"/>
+    <rect x="455" y="665" width="690" height="12" rx="6" fill="#7A2430"/>
+    <text class="label" x="800" y="717" text-anchor="middle">Verifica sempre</text>
+    <text class="small" x="800" y="747" text-anchor="middle">comunicazioni dell'ente</text>
+<text class="small" x="800" y="775" text-anchor="middle">CCNL applicabile, regolamenti e ufficio personale</text>
+  </g>
+    <g data-safe-box="245 810 1110 66 8">
+    <rect x="245" y="810" width="1110" height="66" rx="22" fill="#FFF7ED" stroke="#EFC58D" stroke-width="3"/>
+    <text class="body strong" x="800" y="853" text-anchor="middle">Il bando dice per cosa hai concorso; l'ufficio mostra il lavoro reale.</text>
+  </g>
+
+</svg>

@@ -58,4 +58,3 @@ Le pagine operative del Garante traducono il GDPR in categorie utili per i conco
 ## Capitoli collegati
 
 - [[books/il-metodo-bando/chapters/trasparenza-anticorruzione-privacy]]
-

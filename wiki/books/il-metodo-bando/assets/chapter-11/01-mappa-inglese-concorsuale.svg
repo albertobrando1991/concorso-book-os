@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Inglese concorsuale essenziale</title>
+  <desc id="desc">Dalla lettura del bando alle risposte brevi, corrette e verificabili.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; }
+      .softRed { fill: #F8E8EA; stroke: #E3B9BF; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E8D080; stroke-width: 2.5; }
+      .softGreen { fill: #E7F3ED; stroke: #A8D1BD; stroke-width: 2.5; }
+      .softTeal { fill: #E4F4F5; stroke: #A3D5D8; stroke-width: 2.5; }
+      .note { fill: #FFF7ED; stroke: #E7C18E; stroke-width: 2.5; }
+      .ink { fill: #0F172A; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 44px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 23px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 25px; font-weight: 800; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 18px; }
+      .navy { fill: #10233F; }
+      .bordeaux { fill: #7A2430; }
+      .gold { fill: #D4AF37; }
+      .green { fill: #2F7D5A; }
+      .teal { fill: #1F6F78; }
+      .line { stroke: #94A3B8; stroke-width: 4; stroke-linecap: round; fill: none; }
+      .thin { stroke: #CBD5E1; stroke-width: 2.5; stroke-linecap: round; fill: none; }
+      .arrowNavy { stroke: #10233F; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowNavy); }
+      .arrowBordeaux { stroke: #7A2430; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowBordeaux); }
+      .arrowGold { stroke: #D4AF37; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGold); }
+      .arrowGreen { stroke: #2F7D5A; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGreen); }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#10233F"/>
+    </marker>
+    <marker id="arrowBordeaux" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#7A2430"/>
+    </marker>
+    <marker id="arrowGold" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#D4AF37"/>
+    </marker>
+    <marker id="arrowGreen" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#2F7D5A"/>
+    </marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <text class="ink title" x="800" y="68" text-anchor="middle">Inglese concorsuale essenziale</text>
+  <text class="muted subtitle" x="800" y="108" text-anchor="middle">Dalla lettura del bando alle risposte brevi, corrette e verificabili.</text>
+
+  <g data-safe-box="555 180 490 145 8">
+    <rect class="card" x="555" y="180" width="490" height="145" rx="22"/>
+    <rect x="555" y="180" width="490" height="10" rx="5" fill="#10233F"/>
+    <text class="navy label" x="800" y="222" text-anchor="middle" style="font-size:23px">Prova di inglese</text>
+    <text class="muted small" x="800" y="256" text-anchor="middle" style="font-size:18px">formato + livello</text>
+<text class="muted small" x="800" y="281" text-anchor="middle" style="font-size:18px">peso nel bando</text>
+  </g>
+  <path class="line" d="M800 325 L800 388"/>
+  <path class="line" d="M245 388 L1355 388"/>
+  <path class="line" d="M245 388 L245 450"/>
+  <path class="line" d="M467 388 L467 575"/>
+  <path class="line" d="M689 388 L689 450"/>
+  <path class="line" d="M911 388 L911 575"/>
+  <path class="line" d="M1133 388 L1133 450"/>
+  <path class="line" d="M1355 388 L1355 575"/>
+  <g data-safe-box="105 450 280 130 8">
+    <rect class="softBlue" x="105" y="450" width="280" height="130" rx="22"/>
+    <rect x="105" y="450" width="280" height="10" rx="5" fill="#10233F"/>
+    <text class="navy label" x="245" y="492" text-anchor="middle" style="font-size:25px">Bando</text>
+    <text class="muted small" x="245" y="526" text-anchor="middle" style="font-size:18px">idoneita o punteggio</text>
+<text class="muted small" x="245" y="551" text-anchor="middle" style="font-size:18px">A2, B1, B2</text>
+  </g>
+  <g data-safe-box="327 575 280 130 8">
+    <rect class="softRed" x="327" y="575" width="280" height="130" rx="22"/>
+    <rect x="327" y="575" width="280" height="10" rx="5" fill="#7A2430"/>
+    <text class="bordeaux label" x="467" y="617" text-anchor="middle" style="font-size:25px">Cloze</text>
+    <text class="muted small" x="467" y="651" text-anchor="middle" style="font-size:18px">frase, segnale</text>
+<text class="muted small" x="467" y="676" text-anchor="middle" style="font-size:18px">scelta corretta</text>
+  </g>
+  <g data-safe-box="549 450 280 130 8">
+    <rect class="softGold" x="549" y="450" width="280" height="130" rx="22"/>
+    <rect x="549" y="450" width="280" height="10" rx="5" fill="#D4AF37"/>
+    <text class="gold label" x="689" y="492" text-anchor="middle" style="font-size:25px">Grammatica</text>
+    <text class="muted small" x="689" y="526" text-anchor="middle" style="font-size:18px">tempi, modali</text>
+<text class="muted small" x="689" y="551" text-anchor="middle" style="font-size:18px">articoli, pronomi</text>
+  </g>
+  <g data-safe-box="771 575 280 130 8">
+    <rect class="softGreen" x="771" y="575" width="280" height="130" rx="22"/>
+    <rect x="771" y="575" width="280" height="10" rx="5" fill="#2F7D5A"/>
+    <text class="green label" x="911" y="617" text-anchor="middle" style="font-size:25px">Lessico</text>
+    <text class="muted small" x="911" y="651" text-anchor="middle" style="font-size:18px">PA, scadenze</text>
+<text class="muted small" x="911" y="676" text-anchor="middle" style="font-size:18px">false friends</text>
+  </g>
+  <g data-safe-box="993 450 280 130 8">
+    <rect class="softTeal" x="993" y="450" width="280" height="130" rx="22"/>
+    <rect x="993" y="450" width="280" height="10" rx="5" fill="#1F6F78"/>
+    <text class="teal label" x="1133" y="492" text-anchor="middle" style="font-size:25px">Reading</text>
+    <text class="muted small" x="1133" y="526" text-anchor="middle" style="font-size:18px">testi brevi</text>
+<text class="muted small" x="1133" y="551" text-anchor="middle" style="font-size:18px">date e dettagli</text>
+  </g>
+  <g data-safe-box="1215 575 280 130 8">
+    <rect class="softRed" x="1215" y="575" width="280" height="130" rx="22"/>
+    <rect x="1215" y="575" width="280" height="10" rx="5" fill="#7A2430"/>
+    <text class="bordeaux label" x="1355" y="617" text-anchor="middle" style="font-size:25px">Output</text>
+    <text class="muted small" x="1355" y="651" text-anchor="middle" style="font-size:18px">email, orale</text>
+<text class="muted small" x="1355" y="676" text-anchor="middle" style="font-size:18px">diario errori</text>
+  </g>
+  <g data-safe-box="250 795 1100 64 8">
+    <rect class="note" x="250" y="795" width="1100" height="64" rx="24"/>
+    <text class="ink body" x="800" y="835" text-anchor="middle" style="font-weight:800;font-size:20px">Obiettivo: scegliere forme corrette e comunicare senza errori evitabili.</text>
+  </g>
+
+</svg>

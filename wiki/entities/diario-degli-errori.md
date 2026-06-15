@@ -29,4 +29,3 @@ Strumento per classificare errori, individuare pattern e decidere ripassi. Deve 
 
 ## Stato revisione
 Da trasformare in pagine compilabili e dashboard digitale opzionale.
-

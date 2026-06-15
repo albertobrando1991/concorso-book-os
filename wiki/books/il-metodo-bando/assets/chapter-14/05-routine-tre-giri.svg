@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Routine dei tre giri in prova</title>
+  <desc id="desc">Prima proteggi i punti rapidi, poi lavori le domande segnate e chiudi il rischio.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; }
+      .softRed { fill: #F8E8EA; stroke: #E3B9BF; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E8D080; stroke-width: 2.5; }
+      .softGreen { fill: #E7F3ED; stroke: #A8D1BD; stroke-width: 2.5; }
+      .softTeal { fill: #E4F4F5; stroke: #A3D5D8; stroke-width: 2.5; }
+      .note { fill: #FFF7ED; stroke: #E7C18E; stroke-width: 2.5; }
+      .ink { fill: #0F172A; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 43px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 22px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 25px; font-weight: 800; letter-spacing: 0; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 18px; }
+      .navy { fill: #10233F; }
+      .bordeaux { fill: #7A2430; }
+      .gold { fill: #D4AF37; }
+      .green { fill: #2F7D5A; }
+      .teal { fill: #1F6F78; }
+      .line { stroke: #94A3B8; stroke-width: 4; stroke-linecap: round; fill: none; }
+      .thin { stroke: #CBD5E1; stroke-width: 2.5; stroke-linecap: round; fill: none; }
+      .dash { stroke: #94A3B8; stroke-width: 3.5; stroke-linecap: round; stroke-dasharray: 9 10; fill: none; }
+      .arrowNavy { stroke: #10233F; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowNavy); }
+      .arrowBordeaux { stroke: #7A2430; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowBordeaux); }
+      .arrowGold { stroke: #D4AF37; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGold); }
+      .arrowGreen { stroke: #2F7D5A; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGreen); }
+      .arrowTeal { stroke: #1F6F78; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowTeal); }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#10233F"/>
+    </marker>
+    <marker id="arrowBordeaux" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#7A2430"/>
+    </marker>
+    <marker id="arrowGold" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#D4AF37"/>
+    </marker>
+    <marker id="arrowGreen" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#2F7D5A"/>
+    </marker>
+    <marker id="arrowTeal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#1F6F78"/>
+    </marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <text class="ink title" x="800" y="68" text-anchor="middle">Routine dei tre giri in prova</text>
+  <text class="muted subtitle" x="800" y="108" text-anchor="middle">Prima proteggi i punti rapidi, poi lavori le domande segnate e chiudi il rischio.</text>
+
+  <rect class="card" x="90" y="165" width="1420" height="630" rx="30"/>
+  <text class="navy label" x="800" y="228" text-anchor="middle">Ogni giro ha una funzione diversa</text>
+  <path class="line" d="M180 445 L1420 445"/>
+  <g data-safe-box="155 325 240 215 8">
+    <circle cx="275" cy="445" r="36" fill="#10233F"/>
+    <text class="label" x="275" y="454" text-anchor="middle" fill="#FFFFFF" style="font-size:24px">1</text>
+    <text class="label" x="275" y="375" text-anchor="middle" fill="#10233F" style="font-size:22px">Punti rapidi</text>
+    <text class="muted small" x="275" y="523" text-anchor="middle" style="font-size:16px">rispondi sicure</text>
+  </g>
+  <g data-safe-box="560 325 240 215 8">
+    <circle cx="680" cy="445" r="36" fill="#D4AF37"/>
+    <text class="label" x="680" y="454" text-anchor="middle" fill="#FFFFFF" style="font-size:24px">2</text>
+    <text class="label" x="680" y="375" text-anchor="middle" fill="#D4AF37" style="font-size:22px">Lavorabili</text>
+    <text class="muted small" x="680" y="523" text-anchor="middle" style="font-size:16px">torna sui segnati</text>
+  </g>
+  <g data-safe-box="970 325 240 215 8">
+    <circle cx="1090" cy="445" r="36" fill="#7A2430"/>
+    <text class="label" x="1090" y="454" text-anchor="middle" fill="#FFFFFF" style="font-size:24px">3</text>
+    <text class="label" x="1090" y="375" text-anchor="middle" fill="#7A2430" style="font-size:22px">Rischio</text>
+    <text class="muted small" x="1090" y="523" text-anchor="middle" style="font-size:16px">decidi con penalita</text>
+  </g>
+  <g data-safe-box="1255 325 240 215 8">
+    <circle cx="1375" cy="445" r="36" fill="#2F7D5A"/>
+    <text class="label" x="1375" y="454" text-anchor="middle" fill="#FFFFFF" style="font-size:24px">Fine</text>
+    <text class="label" x="1375" y="375" text-anchor="middle" fill="#2F7D5A" style="font-size:22px">controllo</text>
+    <text class="muted small" x="1375" y="523" text-anchor="middle" style="font-size:16px">consegna</text>
+  </g>
+  <g data-safe-box="130 610 365 181 8">
+    <rect class="softBlue" x="130" y="610" width="365" height="181" rx="22"/>
+    <rect x="130" y="610" width="365" height="10" rx="5" fill="#10233F"/>
+    <text class="navy label" x="312.5" y="652" text-anchor="middle" style="font-size:24px">Salta se</text>
+    <path class="thin" d="M154 670 L471 670"/>
+    <text class="muted small" x="160" y="690" style="font-size:17px">non capisci subito</text>
+<text class="muted small" x="160" y="721" style="font-size:17px">calcolo non parte</text>
+<text class="muted small" x="160" y="752" style="font-size:17px">brano da rileggere troppo</text>
+  </g>
+  <g data-safe-box="615 610 365 181 8">
+    <rect class="softGold" x="615" y="610" width="365" height="181" rx="22"/>
+    <rect x="615" y="610" width="365" height="10" rx="5" fill="#D4AF37"/>
+    <text class="gold label" x="797.5" y="652" text-anchor="middle" style="font-size:24px">Torna se</text>
+    <path class="thin" d="M639 670 L956 670"/>
+    <text class="muted small" x="645" y="690" style="font-size:17px">hai due opzioni</text>
+<text class="muted small" x="645" y="721" style="font-size:17px">serve solo calcolo</text>
+<text class="muted small" x="645" y="752" style="font-size:17px">hai recuperato indizio</text>
+  </g>
+  <g data-safe-box="1100 610 365 181 8">
+    <rect class="softGreen" x="1100" y="610" width="365" height="181" rx="22"/>
+    <rect x="1100" y="610" width="365" height="10" rx="5" fill="#2F7D5A"/>
+    <text class="green label" x="1282.5" y="652" text-anchor="middle" style="font-size:24px">Rispondi se</text>
+    <path class="thin" d="M1124 670 L1441 670"/>
+    <text class="muted small" x="1130" y="690" style="font-size:17px">penalita sostenibile</text>
+<text class="muted small" x="1130" y="721" style="font-size:17px">plausibilita alta</text>
+<text class="muted small" x="1130" y="752" style="font-size:17px">tempo residuo sufficiente</text>
+  </g>
+  <g data-safe-box="250 812 1100 64 8">
+    <rect class="note" x="250" y="812" width="1100" height="64" rx="24"/>
+    <text class="ink body" x="800" y="852" text-anchor="middle" style="font-weight:800;font-size:20px">Una domanda difficile non deve rubare il tempo a cinque domande facili.</text>
+  </g>
+
+</svg>

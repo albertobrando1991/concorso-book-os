@@ -23,7 +23,7 @@ authority_level: alta
 # D.L. 11 aprile 2025, n. 48 convertito dalla L. 9 giugno 2025, n. 80 - sicurezza urbana
 
 ## Sintesi
-# D.L. 11 aprile 2025, n. 48 convertito dalla L. 9 giugno 2025, n. 80 - sicurezza urbana URL: https://www.normattiva.it/eli/id/2025/06/09/25A03312/ORIGINAL --> --> TESTO COORDINATO DEL DECRETO-LEGGE 11 aprile 2025, n. 48 - Normattiva Presidenza del Consiglio dei Ministri ITA ITA ENG Normattiva - Il portale della legge vigente close Home current Il progetto L&#39;obiettivo Il coordinamento delle iniziative pubbliche I caratteri qualificanti del progetto Obiettivi Raggiunti Obiettivi Futuri Collegamenti veloci Costituzione e Codici Elenco atti per data di emanazione Leggi approvate in attesa di 
+# D.L. 11 aprile 2025, n. 48 convertito dalla L. 9 giugno 2025, n. 80 - sicurezza urbana URL: https://www.normattiva.it/eli/id/2025/06/09/25A03312/ORIGINAL --> --> TESTO COORDINATO DEL DECRETO-LEGGE 11 aprile 2025, n. 48 - Normattiva Presidenza del Consiglio dei Ministri ITA ITA ENG Normattiva - Il portale della legge vigente close Home current Il progetto L&#39;obiettivo Il coordinamento delle iniziative pubbliche I caratteri qualificanti del progetto Obiettivi Raggiunti Obiettivi Futuri Collegamenti veloci Costituzione e Codici Elenco atti per data di emanazione Leggi approvate in attesa di
 
 ## Fonti
 - Raw source collegata: `wiki/raw/decrees/d-l-11-aprile-2025-n-48-convertito-dalla-l-9-giugno-2025-n-80-sicurezza-urbana.md`

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Domande e simulazioni progressive</title>
+  <desc id="desc">Ogni nucleo diventa domanda base, confronto, applicazione e colloquio misto.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; }
+      .softRed { fill: #F8E8EA; stroke: #E3B9BF; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E8D080; stroke-width: 2.5; }
+      .softGreen { fill: #E7F3ED; stroke: #A8D1BD; stroke-width: 2.5; }
+      .softTeal { fill: #E4F4F5; stroke: #A3D5D8; stroke-width: 2.5; }
+      .note { fill: #FFF7ED; stroke: #E7C18E; stroke-width: 2.5; }
+      .ink { fill: #0F172A; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 43px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 22px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 25px; font-weight: 800; letter-spacing: 0; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 18px; }
+      .navy { fill: #10233F; }
+      .bordeaux { fill: #7A2430; }
+      .gold { fill: #D4AF37; }
+      .green { fill: #2F7D5A; }
+      .teal { fill: #1F6F78; }
+      .line { stroke: #94A3B8; stroke-width: 4; stroke-linecap: round; fill: none; }
+      .thin { stroke: #CBD5E1; stroke-width: 2.5; stroke-linecap: round; fill: none; }
+      .dash { stroke: #94A3B8; stroke-width: 3.5; stroke-linecap: round; stroke-dasharray: 9 10; fill: none; }
+      .arrowNavy { stroke: #10233F; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowNavy); }
+      .arrowBordeaux { stroke: #7A2430; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowBordeaux); }
+      .arrowGold { stroke: #D4AF37; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGold); }
+      .arrowGreen { stroke: #2F7D5A; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGreen); }
+      .arrowTeal { stroke: #1F6F78; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowTeal); }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#10233F"/>
+    </marker>
+    <marker id="arrowBordeaux" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#7A2430"/>
+    </marker>
+    <marker id="arrowGold" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#D4AF37"/>
+    </marker>
+    <marker id="arrowGreen" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#2F7D5A"/>
+    </marker>
+    <marker id="arrowTeal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#1F6F78"/>
+    </marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <text class="ink title" x="800" y="68" text-anchor="middle">Domande e simulazioni progressive</text>
+  <text class="muted subtitle" x="800" y="108" text-anchor="middle">Ogni nucleo diventa domanda base, confronto, applicazione e colloquio misto.</text>
+
+  <rect class="card" x="90" y="165" width="1420" height="630" rx="30"/>
+  <text class="navy label" x="800" y="228" text-anchor="middle">Ogni nucleo va trasformato in domande e poi in prestazione</text>
+  <g data-safe-box="140 325 250 160 8">
+    <rect class="softBlue" x="140" y="325" width="250" height="160" rx="22"/>
+    <text class="navy label" x="265" y="367" text-anchor="middle" style="font-size:21px">Domanda base</text>
+    <text class="muted small" x="265" y="403" text-anchor="middle" style="font-size:17px">che cos'e</text>
+<text class="muted small" x="265" y="430" text-anchor="middle" style="font-size:17px">funzione</text>
+  </g>
+  <g data-safe-box="470 325 250 160 8">
+    <rect class="softRed" x="470" y="325" width="250" height="160" rx="22"/>
+    <text class="bordeaux label" x="595" y="367" text-anchor="middle" style="font-size:21px">Confronto</text>
+    <text class="muted small" x="595" y="403" text-anchor="middle" style="font-size:17px">differenza</text>
+<text class="muted small" x="595" y="430" text-anchor="middle" style="font-size:17px">confini</text>
+  </g>
+  <g data-safe-box="800 325 250 160 8">
+    <rect class="softGold" x="800" y="325" width="250" height="160" rx="22"/>
+    <text class="gold label" x="925" y="367" text-anchor="middle" style="font-size:21px">Applicazione</text>
+    <text class="muted small" x="925" y="403" text-anchor="middle" style="font-size:17px">caso</text>
+<text class="muted small" x="925" y="430" text-anchor="middle" style="font-size:17px">soluzione</text>
+  </g>
+  <g data-safe-box="1130 325 250 160 8">
+    <rect class="softGreen" x="1130" y="325" width="250" height="160" rx="22"/>
+    <text class="green label" x="1255" y="367" text-anchor="middle" style="font-size:21px">Simulazione</text>
+    <text class="muted small" x="1255" y="403" text-anchor="middle" style="font-size:17px">materie miste</text>
+<text class="muted small" x="1255" y="430" text-anchor="middle" style="font-size:17px">follow-up</text>
+  </g>
+  <path class="arrowNavy" d="M405 405 L460 405"/>
+  <path class="arrowBordeaux" d="M735 405 L790 405"/>
+  <path class="arrowGold" d="M1065 405 L1120 405"/>
+  <path class="dash" d="M190 590 L1410 590"/>
+  <g data-safe-box="185 645 220 98 8">
+    <rect x="185" y="645" width="220" height="98" rx="22" fill="#10233F"/>
+    <text class="label" x="295" y="683" text-anchor="middle" fill="#FFFFFF" style="font-size:22px">60 secondi</text>
+    <text class="small" x="295" y="713" text-anchor="middle" fill="#FFFFFF" style="font-size:16px">definizione</text>
+  </g>
+  <g data-safe-box="500 645 220 98 8">
+    <rect x="500" y="645" width="220" height="98" rx="22" fill="#7A2430"/>
+    <text class="label" x="610" y="683" text-anchor="middle" fill="#FFFFFF" style="font-size:22px">2 minuti</text>
+    <text class="small" x="610" y="713" text-anchor="middle" fill="#FFFFFF" style="font-size:16px">esempio</text>
+  </g>
+  <g data-safe-box="815 645 220 98 8">
+    <rect x="815" y="645" width="220" height="98" rx="22" fill="#D4AF37"/>
+    <text class="label" x="925" y="683" text-anchor="middle" fill="#FFFFFF" style="font-size:22px">Follow-up</text>
+    <text class="small" x="925" y="713" text-anchor="middle" fill="#FFFFFF" style="font-size:16px">domanda nuova</text>
+  </g>
+  <g data-safe-box="1130 645 220 98 8">
+    <rect x="1130" y="645" width="220" height="98" rx="22" fill="#2F7D5A"/>
+    <text class="label" x="1240" y="683" text-anchor="middle" fill="#FFFFFF" style="font-size:22px">20-30 min</text>
+    <text class="small" x="1240" y="713" text-anchor="middle" fill="#FFFFFF" style="font-size:16px">colloquio misto</text>
+  </g>
+  <g data-safe-box="250 812 1100 64 8">
+    <rect class="note" x="250" y="812" width="1100" height="64" rx="24"/>
+    <text class="ink body" x="800" y="852" text-anchor="middle" style="font-weight:800;font-size:19px">La prima simulazione deve arrivare presto: parlare rivela lacune che la lettura nasconde.</text>
+  </g>
+
+</svg>

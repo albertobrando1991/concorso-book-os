@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Codice di comportamento come bussola</title>
+  <desc id="desc">Prima di agire chiediti se l'azione e' compatibile con servizio, imparzialita e fiducia.</desc>
+  <style>
+    .bg { fill: #F8FAFC; }
+    .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+    .title { font: 800 43px Arial, sans-serif; fill: #0F172A; }
+    .subtitle { font: 400 21px Arial, sans-serif; fill: #526174; }
+    .label { font: 800 25px Arial, sans-serif; fill: #0F172A; }
+    .body { font: 400 19px Arial, sans-serif; fill: #0F172A; }
+    .small { font: 400 16px Arial, sans-serif; fill: #0F172A; }
+    .strong { font-weight: 800; }
+    .whiteText { fill: #FFFFFF; }
+    .line { stroke: #10233F; stroke-width: 6; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+  </style>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#10233F"/>
+    </marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <g data-safe-box="80 16 1440 118 0">
+    <text class="title" x="800" y="68" text-anchor="middle">Codice di comportamento come bussola</text>
+    <text class="subtitle" x="800" y="108" text-anchor="middle">Prima di agire chiediti se l'azione e' compatibile con servizio, imparzialita e fiducia.</text>
+  </g>
+
+    <rect class="card" x="70" y="165" width="1460" height="630" rx="30"/>
+    <g data-safe-box="430 220 740 150 8">
+    <rect x="430" y="220" width="740" height="150" rx="24" fill="#EAF2FB" stroke="#10233F" stroke-width="3"/>
+    <rect x="430" y="220" width="740" height="12" rx="6" fill="#10233F"/>
+    <text class="label" x="800" y="272" text-anchor="middle">Domanda guida</text>
+    <text class="small" x="800" y="302" text-anchor="middle">questa azione e' compatibile con il servizio?</text>
+<text class="small" x="800" y="330" text-anchor="middle">protegge fiducia e imparzialita?</text>
+  </g>
+    <g data-safe-box="135 430 250 165 8">
+    <rect x="135" y="430" width="250" height="165" rx="26" fill="#EAF2FB" stroke="#10233F" stroke-width="3"/>
+    <text class="label" style="fill:#10233F" x="260" y="488" text-anchor="middle">Riservatezza</text>
+    <text class="small strong" x="260" y="538" text-anchor="middle">dati e pratiche</text>
+  </g>
+<g data-safe-box="405 430 250 165 8">
+    <rect x="405" y="430" width="250" height="165" rx="26" fill="#E7F3ED" stroke="#2F7D5A" stroke-width="3"/>
+    <text class="label" style="fill:#2F7D5A" x="530" y="488" text-anchor="middle">Imparzialita</text>
+    <text class="small strong" x="530" y="538" text-anchor="middle">conflitti e regali</text>
+  </g>
+<g data-safe-box="675 430 250 165 8">
+    <rect x="675" y="430" width="250" height="165" rx="26" fill="#FFF4CC" stroke="#D4AF37" stroke-width="3"/>
+    <text class="label" style="fill:#D4AF37" x="800" y="488" text-anchor="middle">Strumenti</text>
+    <text class="small strong" x="800" y="538" text-anchor="middle">email, PC, banche dati</text>
+  </g>
+<g data-safe-box="945 430 250 165 8">
+    <rect x="945" y="430" width="250" height="165" rx="26" fill="#E4F4F5" stroke="#1F6F78" stroke-width="3"/>
+    <text class="label" style="fill:#1F6F78" x="1070" y="488" text-anchor="middle">Pubblico</text>
+    <text class="small strong" x="1070" y="538" text-anchor="middle">correttezza e fiducia</text>
+  </g>
+<g data-safe-box="1215 430 250 165 8">
+    <rect x="1215" y="430" width="250" height="165" rx="26" fill="#F8E8EA" stroke="#7A2430" stroke-width="3"/>
+    <text class="label" style="fill:#7A2430" x="1340" y="488" text-anchor="middle">Dubbio</text>
+    <text class="small strong" x="1340" y="538" text-anchor="middle">chiedere prima di agire</text>
+  </g>
+    <g data-safe-box="485 660 630 150 8">
+    <rect x="485" y="660" width="630" height="150" rx="24" fill="#E7F3ED" stroke="#2F7D5A" stroke-width="3"/>
+    <rect x="485" y="660" width="630" height="12" rx="6" fill="#2F7D5A"/>
+    <text class="label" x="800" y="712" text-anchor="middle">Valore del neoassunto</text>
+    <text class="small" x="800" y="742" text-anchor="middle">non fare tutto subito</text>
+<text class="small" x="800" y="770" text-anchor="middle">evitare errori evitabili</text>
+  </g>
+    <g data-safe-box="245 810 1110 66 8">
+    <rect x="245" y="810" width="1110" height="66" rx="22" fill="#FFF7ED" stroke="#EFC58D" stroke-width="3"/>
+    <text class="body strong" x="800" y="853" text-anchor="middle">Il criterio non e' se puoi tecnicamente farlo, ma se hai titolo e ragione di servizio.</text>
+  </g>
+
+</svg>

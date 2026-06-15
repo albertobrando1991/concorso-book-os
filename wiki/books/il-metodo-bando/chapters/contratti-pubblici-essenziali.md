@@ -9,7 +9,7 @@ entities: ["D.Lgs. 36/2023","D.Lgs. 209/2024","RUP","ANAC","MEPA","Consip","BDNC
 source_refs: ["sources/struttura-madre-il-metodo-bando.md","sources/capitolo-9-corpus-fonti-ufficiali-contratti-pubblici-2026-05-26.md","sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024.md","sources/ciclo-contratti-pubblici-rup-stazione-appaltante-operatore-economico.md","sources/procedure-affidamento-gare-appalti-concessioni-soglie.md","sources/digitalizzazione-contratti-pubblici-anac-bdncp-fvoe-pcp.md","sources/mepa-consip-acquisti-in-rete-strumenti-acquisto-negoziazione.md","sources/trasparenza-anticorruzione-controlli-tracciabilita-contratti-pubblici.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.92
-updated_at: "2026-05-26T00:00:00+02:00"
+updated_at: "2026-05-29T10:30:00+02:00"
 created_at: "2026-05-10T11:45:00+02:00"
 review_required: false
 canonical: true
@@ -47,6 +47,8 @@ Al termine del capitolo devi saper:
 - distinguere Consip, Acquisti in Rete, MEPA, convenzioni, accordi quadro e SDAPA;
 - richiamare il ruolo di ANAC, CIG, tracciabilità, trasparenza e anticorruzione senza duplicare il Capitolo 7;
 - risolvere mini-casi da concorso su acquisti, affidamenti, gare e controlli.
+
+![Figura 9.1 - Contratti pubblici essenziali: dal fabbisogno pubblico a procedura, operatore, esecuzione e controllo.](../assets/chapter-09/01-contratti-pubblici-mappa.png)
 
 ## Come usare il Metodo BANDO
 
@@ -200,6 +202,8 @@ Per studiare i contratti pubblici usa sempre questo schema operativo:
 
 Questa tabella è il cuore del capitolo. Nei quiz, quando non ricordi un dettaglio, torna alla sequenza: bisogno, scelta, contratto, esecuzione, controllo.
 
+![Figura 9.2 - Dal fabbisogno all'esecuzione: la sequenza completa che impedisce di ridurre il contratto pubblico alla sola gara.](../assets/chapter-09/02-ciclo-fabbisogno-esecuzione.png)
+
 ### 8. Affidamento diretto e procedure di gara
 
 L'affidamento è il procedimento con cui la stazione appaltante sceglie l'operatore economico. Non tutte le procedure hanno la stessa complessità. La disciplina varia anche in base a importo, oggetto, soglia e presupposti normativi. Nel libro base non conviene memorizzare numeri destinati a cambiare; conviene capire la funzione delle procedure.
@@ -227,6 +231,8 @@ Le soglie distinguono regimi giuridici e livelli di formalità. In modo essenzia
 Nel manuale base è preferibile non costruire lo studio su valori numerici, perché le soglie possono essere aggiornate. La regola da concorso è questa: più cresce importo, complessità o impatto sul mercato, più aumentano formalità, concorrenza, pubblicità e controlli.
 
 Se una domanda chiede il valore puntuale di una soglia, occorre verificare la disciplina vigente nel momento del concorso. Se invece chiede la logica, la risposta è: le soglie servono a stabilire quale regime procedurale si applica e quale intensità di regole deve essere rispettata.
+
+![Figura 9.3 - Procedure di affidamento: al crescere di importo, complessità e impatto sul mercato aumentano concorrenza, pubblicità, formalità e controlli.](../assets/chapter-09/03-procedure-affidamento-concorrenza.png)
 
 ### 10. Documenti di gara: bando, disciplinare e capitolato
 
@@ -272,6 +278,8 @@ L'**aggiudicazione** individua l'operatore prescelto. La **stipula** perfeziona 
 
 Formula da ricordare: prima si sceglie l'operatore, poi si stipula il contratto, poi si controlla l'esecuzione. Saltare mentalmente dalla gara al pagamento è un errore.
 
+![Figura 9.4 - Documenti, requisiti e stipula: bando, disciplinare, capitolato, offerta, aggiudicazione e contratto hanno funzioni diverse.](../assets/chapter-09/04-documenti-gara-offerte-stipula.png)
+
 ### 13. Appalto, concessione e affidamento
 
 L'**appalto** ha per oggetto lavori, servizi o forniture, remunerati secondo il contratto dalla stazione appaltante. Esempi: manutenzione di edifici comunali, fornitura di computer, servizio di pulizia degli uffici.
@@ -290,7 +298,7 @@ La trappola più frequente è usare "appalto" per qualunque contratto pubblico. 
 
 ### 14. Esecuzione, subappalto, verifica e collaudo
 
-L'esecuzione è la fase in cui il contratto produce la prestazione attesa. E qui che il risultato diventa reale: un servizio viene svolto, un bene viene consegnato, un lavoro viene realizzato.
+L'esecuzione è la fase in cui il contratto produce la prestazione attesa. È qui che il risultato diventa reale: un servizio viene svolto, un bene viene consegnato, un lavoro viene realizzato.
 
 Gli elementi da conoscere sono:
 
@@ -331,6 +339,8 @@ Digitalizzazione significa:
 - monitoraggio e controllo.
 
 Non significa semplicemente "fare la gara online". La piattaforma digitale deve inserirsi nel ciclo giuridico e amministrativo del contratto.
+
+![Figura 9.5 - Ecosistema digitale dei contratti pubblici: BDNCP, PCP, FVOE, CIG e piattaforme presidiano passaggi diversi del ciclo.](../assets/chapter-09/05-ecosistema-digitale-contratti.png)
 
 ### 16. Consip, Acquisti in Rete, MEPA, convenzioni e accordi quadro
 
@@ -387,6 +397,8 @@ I contratti pubblici sono attraversati da controlli interni ed esterni. I contro
 La responsabilità può essere amministrativa, contabile, disciplinare, civile o penale, secondo i casi. In questo capitolo interessa soprattutto il nesso tra cattiva gestione del contratto e danno pubblico: affidamento non motivato, prestazione non controllata, pagamento non dovuto, mancato collaudo, alterazione della concorrenza o omissione di controlli possono produrre conseguenze rilevanti.
 
 Il candidato deve evitare due estremi: pensare che ogni irregolarità sia automaticamente reato, oppure pensare che la procedura sia solo forma senza effetti. Nei contratti pubblici forma e sostanza sono legate: le regole servono a proteggere concorrenza, risorse e risultato.
+
+![Figura 9.6 - Dal portale al controllo: Consip, Acquisti in Rete, MEPA e strumenti digitali restano dentro motivazione, tracciabilità, esecuzione e responsabilità.](../assets/chapter-09/06-acquisti-controlli-responsabilita.png)
 
 ## Schema operativo di risposta
 

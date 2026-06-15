@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Classifica prima di risolvere</title>
+  <desc id="desc">Ogni famiglia di quesiti richiede uno strumento diverso.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; }
+      .softRed { fill: #F8E8EA; stroke: #E3B9BF; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E8D080; stroke-width: 2.5; }
+      .softGreen { fill: #E7F3ED; stroke: #A8D1BD; stroke-width: 2.5; }
+      .softTeal { fill: #E4F4F5; stroke: #A3D5D8; stroke-width: 2.5; }
+      .note { fill: #FFF7ED; stroke: #E7C18E; stroke-width: 2.5; }
+      .ink { fill: #0F172A; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 44px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 23px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 25px; font-weight: 800; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 18px; }
+      .navy { fill: #10233F; }
+      .bordeaux { fill: #7A2430; }
+      .gold { fill: #D4AF37; }
+      .green { fill: #2F7D5A; }
+      .teal { fill: #1F6F78; }
+      .line { stroke: #94A3B8; stroke-width: 4; stroke-linecap: round; fill: none; }
+      .thin { stroke: #CBD5E1; stroke-width: 2.5; stroke-linecap: round; fill: none; }
+      .dash { stroke: #94A3B8; stroke-width: 3.5; stroke-linecap: round; stroke-dasharray: 9 10; fill: none; }
+      .arrowNavy { stroke: #10233F; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowNavy); }
+      .arrowBordeaux { stroke: #7A2430; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowBordeaux); }
+      .arrowGold { stroke: #D4AF37; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGold); }
+      .arrowGreen { stroke: #2F7D5A; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGreen); }
+      .arrowTeal { stroke: #1F6F78; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowTeal); }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#10233F"/>
+    </marker>
+    <marker id="arrowBordeaux" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#7A2430"/>
+    </marker>
+    <marker id="arrowGold" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#D4AF37"/>
+    </marker>
+    <marker id="arrowGreen" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#2F7D5A"/>
+    </marker>
+    <marker id="arrowTeal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#1F6F78"/>
+    </marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <text class="ink title" x="800" y="68" text-anchor="middle">Classifica prima di risolvere</text>
+  <text class="muted subtitle" x="800" y="108" text-anchor="middle">Ogni famiglia di quesiti richiede uno strumento diverso.</text>
+
+  <rect class="card" x="90" y="175" width="1420" height="610" rx="30"/>
+  <text class="navy label" x="800" y="232" text-anchor="middle">Prima domanda mentale: che tipo di quesito ho davanti?</text>
+  <g data-safe-box="135 310 250 135 8">
+    <rect class="softBlue" x="135" y="310" width="250" height="135" rx="20"/>
+    <rect x="135" y="310" width="250" height="10" rx="5" fill="#10233F"/>
+    <text class="navy label" x="260" y="353" text-anchor="middle" style="font-size:23px">Brano</text>
+    <text class="muted small" x="260" y="386" text-anchor="middle" style="font-size:15px">cerca prova nel testo</text>
+<text class="muted small" x="260" y="410" text-anchor="middle" style="font-size:15px">segna parole assolute</text>
+  </g>
+  <g data-safe-box="430 310 250 135 8">
+    <rect class="softRed" x="430" y="310" width="250" height="135" rx="20"/>
+    <rect x="430" y="310" width="250" height="10" rx="5" fill="#7A2430"/>
+    <text class="bordeaux label" x="555" y="353" text-anchor="middle" style="font-size:23px">Premesse</text>
+    <text class="muted small" x="555" y="386" text-anchor="middle" style="font-size:16px">traduci in regole</text>
+<text class="muted small" x="555" y="410" text-anchor="middle" style="font-size:16px">controlla necessita</text>
+  </g>
+  <g data-safe-box="725 310 250 135 8">
+    <rect class="softGold" x="725" y="310" width="250" height="135" rx="20"/>
+    <rect x="725" y="310" width="250" height="10" rx="5" fill="#D4AF37"/>
+    <text class="gold label" x="850" y="353" text-anchor="middle" style="font-size:23px">Vincoli</text>
+    <text class="muted small" x="850" y="386" text-anchor="middle" style="font-size:16px">disegna griglia</text>
+<text class="muted small" x="850" y="410" text-anchor="middle" style="font-size:16px">parti dai certi</text>
+  </g>
+  <g data-safe-box="1020 310 250 135 8">
+    <rect class="softGreen" x="1020" y="310" width="250" height="135" rx="20"/>
+    <rect x="1020" y="310" width="250" height="10" rx="5" fill="#2F7D5A"/>
+    <text class="green label" x="1145" y="353" text-anchor="middle" style="font-size:23px">Calcolo</text>
+    <text class="muted small" x="1145" y="386" text-anchor="middle" style="font-size:16px">trova base</text>
+<text class="muted small" x="1145" y="410" text-anchor="middle" style="font-size:16px">stima il risultato</text>
+  </g>
+  <g data-safe-box="1315 310 150 135 8">
+    <rect class="softTeal" x="1315" y="310" width="150" height="135" rx="20"/>
+    <rect x="1315" y="310" width="150" height="10" rx="5" fill="#1F6F78"/>
+    <text class="teal label" x="1390" y="353" text-anchor="middle" style="font-size:23px">Serie</text>
+    <text class="muted small" x="1390" y="386" text-anchor="middle" style="font-size:16px">regola</text>
+<text class="muted small" x="1390" y="410" text-anchor="middle" style="font-size:16px">salta</text>
+  </g>
+  <path class="arrowNavy" d="M390 382 L415 382"/>
+  <path class="arrowBordeaux" d="M685 382 L710 382"/>
+  <path class="arrowGold" d="M980 382 L1005 382"/>
+  <path class="arrowGreen" d="M1275 382 L1300 382"/>
+  <g data-safe-box="150 560 230 145 8">
+    <rect class="card" x="150" y="560" width="230" height="145" rx="20"/>
+    <circle cx="265" cy="594" r="23" fill="#D4AF37"/>
+    <text class="ink label" x="265" y="603" text-anchor="middle" style="font-size:22px">1</text>
+    <text class="navy label" x="265" y="644" text-anchor="middle" style="font-size:19px">Capisco</text>
+    <text class="muted small" x="265" y="676" text-anchor="middle" style="font-size:16px">domanda reale</text>
+  </g>
+  <g data-safe-box="430 560 230 145 8">
+    <rect class="card" x="430" y="560" width="230" height="145" rx="20"/>
+    <circle cx="545" cy="594" r="23" fill="#D4AF37"/>
+    <text class="ink label" x="545" y="603" text-anchor="middle" style="font-size:22px">2</text>
+    <text class="navy label" x="545" y="644" text-anchor="middle" style="font-size:19px">Separo</text>
+    <text class="muted small" x="545" y="676" text-anchor="middle" style="font-size:16px">dati e distrattori</text>
+  </g>
+  <g data-safe-box="710 560 230 145 8">
+    <rect class="card" x="710" y="560" width="230" height="145" rx="20"/>
+    <circle cx="825" cy="594" r="23" fill="#D4AF37"/>
+    <text class="ink label" x="825" y="603" text-anchor="middle" style="font-size:22px">3</text>
+    <text class="navy label" x="825" y="644" text-anchor="middle" style="font-size:19px">Applico</text>
+    <text class="muted small" x="825" y="676" text-anchor="middle" style="font-size:16px">schema o calcolo</text>
+  </g>
+  <g data-safe-box="990 560 230 145 8">
+    <rect class="card" x="990" y="560" width="230" height="145" rx="20"/>
+    <circle cx="1105" cy="594" r="23" fill="#D4AF37"/>
+    <text class="ink label" x="1105" y="603" text-anchor="middle" style="font-size:22px">4</text>
+    <text class="navy label" x="1105" y="644" text-anchor="middle" style="font-size:19px">Controllo</text>
+    <text class="muted small" x="1105" y="676" text-anchor="middle" style="font-size:16px">tutti i vincoli</text>
+  </g>
+  <g data-safe-box="1270 560 230 145 8">
+    <rect class="card" x="1270" y="560" width="230" height="145" rx="20"/>
+    <circle cx="1385" cy="594" r="23" fill="#D4AF37"/>
+    <text class="ink label" x="1385" y="603" text-anchor="middle" style="font-size:22px">5</text>
+    <text class="navy label" x="1385" y="644" text-anchor="middle" style="font-size:19px">Decido</text>
+    <text class="muted small" x="1385" y="676" text-anchor="middle" style="font-size:16px">rispondo o salto</text>
+  </g>
+  <g data-safe-box="250 805 1100 64 8">
+    <rect class="note" x="250" y="805" width="1100" height="64" rx="24"/>
+    <text class="ink body" x="800" y="845" text-anchor="middle" style="font-weight:800;font-size:20px">Le opzioni servono per controllare: non devono guidare la prima lettura.</text>
+  </g>
+
+</svg>

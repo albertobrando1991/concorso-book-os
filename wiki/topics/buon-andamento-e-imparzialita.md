@@ -39,4 +39,3 @@ Da verificare con testo costituzionale e fonti istituzionali.
 
 ## Note editoriali
 Collegare a responsabilità dirigenziale come qualità del sistema amministrativo.
-

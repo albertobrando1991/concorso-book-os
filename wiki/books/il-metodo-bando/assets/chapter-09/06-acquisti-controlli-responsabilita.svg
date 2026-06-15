@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Dal portale al controllo</title>
+  <desc id="desc">Consip, MEPA e strumenti digitali restano dentro responsabilita, tracciabilita e risultato.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; }
+      .softRed { fill: #F8E8EA; stroke: #E3B9BF; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E8D080; stroke-width: 2.5; }
+      .softGreen { fill: #E7F3ED; stroke: #A8D1BD; stroke-width: 2.5; }
+      .note { fill: #FFF7ED; stroke: #E7C18E; stroke-width: 2.5; }
+      .ink { fill: #0F172A; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 44px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 23px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 25px; font-weight: 800; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 18px; }
+      .tiny { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 16px; }
+      .navy { fill: #10233F; }
+      .bordeaux { fill: #7A2430; }
+      .gold { fill: #D4AF37; }
+      .green { fill: #2F7D5A; }
+      .line { stroke: #94A3B8; stroke-width: 4; stroke-linecap: round; fill: none; }
+      .thin { stroke: #CBD5E1; stroke-width: 2.5; stroke-linecap: round; fill: none; }
+      .arrowNavy { stroke: #10233F; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowNavy); }
+      .arrowBordeaux { stroke: #7A2430; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowBordeaux); }
+      .arrowGold { stroke: #D4AF37; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGold); }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#10233F"/>
+    </marker>
+    <marker id="arrowBordeaux" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#7A2430"/>
+    </marker>
+    <marker id="arrowGold" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#D4AF37"/>
+    </marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <text class="ink title" x="800" y="68" text-anchor="middle">Dal portale al controllo</text>
+  <text class="muted subtitle" x="800" y="108" text-anchor="middle">Consip, MEPA e strumenti digitali restano dentro responsabilita, tracciabilita e risultato.</text>
+
+  <rect class="card" x="80" y="190" width="1440" height="540" rx="30"/>
+  <text class="navy label" x="800" y="245" text-anchor="middle">La scelta digitale resta dentro il ciclo pubblico</text>
+  <g data-safe-box="135 315 260 125 8">
+    <rect class="softBlue" x="135" y="315" width="260" height="125" rx="22"/>
+    <rect x="135" y="315" width="260" height="10" rx="5" fill="#10233F"/>
+    <text class="navy label" x="265" y="357" text-anchor="middle" style="font-size:25px">Consip</text>
+    <text class="muted small" x="265" y="391" text-anchor="middle">programma</text>
+<text class="muted small" x="265" y="416" text-anchor="middle">razionalizzazione</text>
+  </g>
+  <g data-safe-box="425 315 260 125 8">
+    <rect class="softRed" x="425" y="315" width="260" height="125" rx="22"/>
+    <rect x="425" y="315" width="260" height="10" rx="5" fill="#7A2430"/>
+    <text class="bordeaux label" x="555" y="357" text-anchor="middle" style="font-size:24px">Acquisti in Rete</text>
+    <text class="muted small" x="555" y="391" text-anchor="middle">portale</text>
+<text class="muted small" x="555" y="416" text-anchor="middle">amministrazioni-imprese</text>
+  </g>
+  <g data-safe-box="715 315 260 125 8">
+    <rect class="softGold" x="715" y="315" width="260" height="125" rx="22"/>
+    <rect x="715" y="315" width="260" height="10" rx="5" fill="#D4AF37"/>
+    <text class="gold label" x="845" y="357" text-anchor="middle" style="font-size:25px">MEPA</text>
+    <text class="muted small" x="845" y="391" text-anchor="middle">mercato elettronico</text>
+<text class="muted small" x="845" y="416" text-anchor="middle">sotto soglia</text>
+  </g>
+  <g data-safe-box="1005 315 260 125 8">
+    <rect class="softGreen" x="1005" y="315" width="260" height="125" rx="22"/>
+    <rect x="1005" y="315" width="260" height="10" rx="5" fill="#2F7D5A"/>
+    <text class="green label" x="1135" y="357" text-anchor="middle" style="font-size:25px">Convenzioni</text>
+    <text class="muted small" x="1135" y="391" text-anchor="middle">condizioni</text>
+<text class="muted small" x="1135" y="416" text-anchor="middle">gia definite</text>
+  </g>
+  <g data-safe-box="1295 315 180 125 8">
+    <rect class="softBlue" x="1295" y="315" width="180" height="125" rx="22"/>
+    <rect x="1295" y="315" width="180" height="10" rx="5" fill="#10233F"/>
+    <text class="navy label" x="1385" y="357" text-anchor="middle" style="font-size:25px">SDAPA</text>
+    <text class="muted small" x="1385" y="391" text-anchor="middle">sistema</text>
+<text class="muted small" x="1385" y="416" text-anchor="middle">dinamico</text>
+  </g>
+  <path class="line" d="M800 475 L800 525"/>
+  <path class="line" d="M265 525 L1335 525"/>
+  <path class="line" d="M265 525 L265 560"/>
+  <path class="line" d="M535 525 L535 560"/>
+  <path class="line" d="M800 525 L800 560"/>
+  <path class="line" d="M1065 525 L1065 560"/>
+  <path class="line" d="M1335 525 L1335 560"/>
+  <g data-safe-box="150 575 230 58 8">
+    <rect x="150" y="575" width="230" height="58" rx="29" fill="#10233F"/>
+    <text class="label" x="265" y="613" text-anchor="middle" fill="#FFFFFF" style="font-size:21px">Motivazione</text>
+  </g>
+  <g data-safe-box="420 575 230 58 8">
+    <rect x="420" y="575" width="230" height="58" rx="29" fill="#7A2430"/>
+    <text class="label" x="535" y="613" text-anchor="middle" fill="#FFFFFF" style="font-size:21px">CIG e dati</text>
+  </g>
+  <g data-safe-box="685 575 230 58 8">
+    <rect x="685" y="575" width="230" height="58" rx="29" fill="#D4AF37"/>
+    <text class="label" x="800" y="613" text-anchor="middle" fill="#FFFFFF" style="font-size:21px">Controlli</text>
+  </g>
+  <g data-safe-box="950 575 230 58 8">
+    <rect x="950" y="575" width="230" height="58" rx="29" fill="#2F7D5A"/>
+    <text class="label" x="1065" y="613" text-anchor="middle" fill="#FFFFFF" style="font-size:21px">Esecuzione</text>
+  </g>
+  <g data-safe-box="1220 575 230 58 8">
+    <rect x="1220" y="575" width="230" height="58" rx="29" fill="#10233F"/>
+    <text class="label" x="1335" y="613" text-anchor="middle" fill="#FFFFFF" style="font-size:20px">Responsabilita</text>
+  </g>
+  <g data-safe-box="250 790 1100 64 8">
+    <rect class="note" x="250" y="790" width="1100" height="64" rx="24"/>
+    <text class="ink body" x="800" y="830" text-anchor="middle" style="font-weight:800;font-size:18px">Il portale aiuta la procedura, ma non sostituisce Codice, copertura, tracciabilita e verifica della prestazione.</text>
+  </g>
+
+</svg>

@@ -1,4 +1,4 @@
-﻿---
+---
 id: review-normattiva-link-diretti-fonti-scaricate-2026-05-26
 type: review
 title: "Normattiva - link diretti delle fonti scaricate e caricate nella conoscenza"

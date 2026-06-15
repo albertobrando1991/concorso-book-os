@@ -91,7 +91,7 @@ list for this fifth edition is available at <a href="https://www.w3.org/XML/xml-
 				the group; that page also includes instructions for disclosing a patent.
 				An individual who has actual knowledge of a patent which the individual
 				believes contains <a href="https://www.w3.org/Consortium/Patent-Policy-20040205/#def-essential">Essential
-				Claim(s)</a> must disclose the information in accordance with 
+				Claim(s)</a> must disclose the information in accordance with
 				<a href="https://www.w3.org/Consortium/Patent-Policy-20040205/#sec-Disclosure">section 6 of the W3C Patent Policy</a>.</p></div><div class="toc">
 <h2><a name="contents" id="contents"/>Table of Contents</h2><p class="toc">1 <a href="#sec-intro">Introduction</a><br/>
     1.1 <a href="#sec-origin-goals">Origin and Goals</a><br/>
@@ -374,7 +374,7 @@ of a general entity consisting of a single explicit <code>&lt;</code> in the lit
 this practice since any reference to that entity will cause a well-formedness
 error.</p></div></div><div class="div2">
 <h3><a name="syntax" id="syntax"/>2.4 Character Data and Markup</h3><p>
-					<a title="Text" href="#dt-text">Text</a> consists of intermingled <a title="Character Data" href="#dt-chardata">character data</a> and markup. [<a name="dt-markup" id="dt-markup" title="Markup">Definition</a>: 
+					<a title="Text" href="#dt-text">Text</a> consists of intermingled <a title="Character Data" href="#dt-chardata">character data</a> and markup. [<a name="dt-markup" id="dt-markup" title="Markup">Definition</a>:
 						<b>Markup</b> takes the form of <a title="Start-Tag" href="#dt-stag">start-tags</a>, <a title="End Tag" href="#dt-etag">end-tags</a>, <a title="Empty" href="#dt-empty">empty-element tags</a>, <a title="Entity Reference" href="#dt-entref">entity references</a>, <a title="Character Reference" href="#dt-charref">character
 references</a>, <a title="Comment" href="#dt-comment">comments</a>, <a title="CDATA Section" href="#dt-cdsection">CDATA section</a> delimiters, <a title="Document Type Declaration" href="#dt-doctype">document
 type declarations</a>, <a title="Processing instruction" href="#dt-pi">processing instructions</a>, <a href="#NT-XMLDecl">XML declarations</a>, <a href="#NT-TextDecl">text declarations</a>,
@@ -423,7 +423,7 @@ and the double-quote character (") as "
 					".</p>
 <h5><a name="d0e1106" id="d0e1106"/>Character Data</h5><table class="scrap" summary="Scrap"><tbody><tr valign="baseline"><td><a name="NT-CharData" id="NT-CharData"/>[14]   </td><td><code>CharData</code></td><td>   ::=   </td><td><code>[^&lt;&amp;]* - ([^&lt;&amp;]* ']]&gt;' [^&lt;&amp;]*)</code></td></tr></tbody></table></div><div class="div2">
 <h3><a name="sec-comments" id="sec-comments"/>2.5 Comments</h3><p>
-					[<a name="dt-comment" id="dt-comment" title="Comment">Definition</a>: 
+					[<a name="dt-comment" id="dt-comment" title="Comment">Definition</a>:
 						<b>Comments</b> may appear
 anywhere in a document outside other <a title="Markup" href="#dt-markup">markup</a>;
 in addition, they may appear within the document type declaration at places
@@ -440,7 +440,7 @@ entity references <em class="rfc2119" title="Keyword in RFC 2119 context">MUST N
 that the grammar does not allow a comment ending in <code>---&gt;</code>. The
 following example is <em>not</em> well-formed.</p><div class="exampleInner"><pre>&lt;!-- B+, B, or B---&gt;</pre></div></div><div class="div2">
 <h3><a name="sec-pi" id="sec-pi"/>2.6 Processing Instructions</h3><p>
-					[<a name="dt-pi" id="dt-pi" title="Processing instruction">Definition</a>: 
+					[<a name="dt-pi" id="dt-pi" title="Processing instruction">Definition</a>:
 						<b>Processing instructions</b>
 (PIs) allow documents to contain instructions for applications.]
 				</p>
@@ -460,7 +460,7 @@ specification. The XML <a title="Notation" href="#dt-notation">Notation</a> mech
 may be used for formal declaration of PI targets. Parameter
 entity references <em class="rfc2119" title="Keyword in RFC 2119 context">MUST NOT</em> be recognized within processing instructions.</p></div><div class="div2">
 <h3><a name="sec-cdata-sect" id="sec-cdata-sect"/>2.7 CDATA Sections</h3><p>
-					[<a name="dt-cdsection" id="dt-cdsection" title="CDATA Section">Definition</a>: 
+					[<a name="dt-cdsection" id="dt-cdsection" title="CDATA Section">Definition</a>:
 						<b>CDATA sections</b> may occur anywhere character data may occur; they are used to escape blocks
 of text containing characters which would otherwise be recognized as markup.
 CDATA sections begin with the string "
@@ -589,7 +589,7 @@ gives the address (a URI reference) of a DTD for the document.</p><p>The declara
   &lt;!ELEMENT greeting (#PCDATA)&gt;
 ]&gt;
 &lt;greeting&gt;Hello, world!&lt;/greeting&gt;</pre></div><p>If both the external and internal subsets are used, the internal subset
-<em class="rfc2119" title="Keyword in RFC 2119 context">MUST</em> be considered to occur before the external subset. 
+<em class="rfc2119" title="Keyword in RFC 2119 context">MUST</em> be considered to occur before the external subset.
 This has the effect that entity and attribute-list declarations in the internal
 subset take precedence over those in the external subset.</p></div><div class="div2">
 <h3><a name="sec-rmd" id="sec-rmd"/>2.9 Standalone Document Declaration</h3><p>Markup declarations can affect the content of the document, as passed from
@@ -887,7 +887,7 @@ pairs with <a title="Element" href="#dt-element">elements</a>. Attribute specifi
 recognize them appear in <a href="#sec-starttags"><b>3.1 Start-Tags, End-Tags, and Empty-Element Tags</b></a>. Attribute-list declarations
 may be used:</p><ul><li><p>To define the set of attributes pertaining to a given element type.</p></li><li><p>To establish type constraints for these attributes.</p></li><li><p>To provide <a title="Attribute Default" href="#dt-default">default values</a> for
 attributes.</p></li></ul><p>
-					[<a name="dt-attdecl" id="dt-attdecl" title="Attribute-List Declaration">Definition</a>: 
+					[<a name="dt-attdecl" id="dt-attdecl" title="Attribute-List Declaration">Definition</a>:
 						<b>Attribute-list
 declarations</b> specify the name, data type, and default value (if any)
 of each attribute associated with a given element type:]
@@ -940,7 +940,7 @@ i.e. <b>IDREF</b> values <em class="rfc2119" title="Keyword in RFC 2119 context"
 declared in the <a title="Document Type Declaration" href="#dt-doctype">DTD</a>.</p></div><div class="constraint"><p class="prefix"><a name="nmtok" id="nmtok"/><b>Validity constraint: Name Token</b></p><p>Values of type <b>NMTOKEN</b>
 							<em class="rfc2119" title="Keyword in RFC 2119 context">MUST</em> match the <a href="#NT-Nmtoken">Nmtoken</a> production; values of type <b>NMTOKENS</b>
 							<em class="rfc2119" title="Keyword in RFC 2119 context">MUST</em> match <a href="#NT-Nmtokens">Nmtokens</a>.</p></div><p>
-						[<a name="dt-enumerated" id="dt-enumerated" title="Enumerated Attribute Values">Definition</a>: 
+						[<a name="dt-enumerated" id="dt-enumerated" title="Enumerated Attribute Values">Definition</a>:
 							<b>Enumerated attributes</b>
 							have a list of allowed values in their declaration
 						]. They <em class="rfc2119" title="Keyword in RFC 2119 context">MUST</em> take one of those values.  There are two kinds of enumerated attribute types:</p>
@@ -1058,7 +1058,7 @@ xyz"</pre></div>
 								</td></tr></tbody></table><p>Note that the last example is invalid (but well-formed) if <code>a</code>
 is declared to be of type <b>NMTOKENS</b>.</p></div></div><div class="div2">
 <h3><a name="sec-condition-sect" id="sec-condition-sect"/>3.4 Conditional Sections</h3><p>
-					[<a name="dt-cond-section" id="dt-cond-section" title="conditional section">Definition</a>: 
+					[<a name="dt-cond-section" id="dt-cond-section" title="conditional section">Definition</a>:
 						<b>Conditional
 sections</b> are portions of the <a title="Document Type Declaration" href="#dt-doctype">document type
 declaration external subset</a> or
@@ -1122,12 +1122,12 @@ to the application, XML places no constraints on the contents of unparsed
 entities.]
 			</p><p>Parsed entities are invoked by name using entity references; unparsed entities
 by name, given in the value of <b>ENTITY</b> or <b>ENTITIES</b> attributes.</p><p>
-				[<a name="gen-entity" id="gen-entity" title="general entity">Definition</a>: 
+				[<a name="gen-entity" id="gen-entity" title="general entity">Definition</a>:
 					<b>General entities</b>
 are entities for use within the document content. In this specification, general
 entities are sometimes referred to with the unqualified term <em>entity</em>
 when this leads to no ambiguity.]
-				[<a name="dt-PE" id="dt-PE" title="Parameter entity">Definition</a>: 
+				[<a name="dt-PE" id="dt-PE" title="Parameter entity">Definition</a>:
 					<b>Parameter
 entities</b> are parsed entities for use within the DTD.]
 These two types of entities use different forms of reference and are recognized
@@ -1152,7 +1152,7 @@ provide a decimal representation of the character's code point.</p><p>
 refers to the content of a named entity.]
 					[<a name="dt-GERef" id="dt-GERef" title="General Entity Reference">Definition</a>: References to parsed general entities use
 ampersand (<code>&amp;</code>) and semicolon (<code>;</code>) as delimiters.]
-					[<a name="dt-PERef" id="dt-PERef" title="Parameter-entity reference">Definition</a>: 
+					[<a name="dt-PERef" id="dt-PERef" title="Parameter-entity reference">Definition</a>:
 						<b>Parameter-entity references</b>
 use percent-sign (<code>%</code>) and semicolon (<code>;</code>) as delimiters.]
 				</p>
@@ -1337,7 +1337,7 @@ can begin in one entity and end in another.</p></div><div class="div3">
 <h4><a name="charencoding" id="charencoding"/>4.3.3 Character Encoding in Entities</h4><p>Each external parsed entity in an XML document may use a different encoding
 for its characters. All XML processors <em class="rfc2119" title="Keyword in RFC 2119 context">MUST</em> be able to read entities in both
 the UTF-8 and UTF-16 encodings. The terms "UTF-8"
-and "UTF-16" in this specification do not apply to 
+and "UTF-16" in this specification do not apply to
 
 <span>related character encodings, including but not limited to UTF-16BE, UTF-16LE, or CESU-8.</span></p><p>Entities encoded in UTF-16 <em class="rfc2119" title="Keyword in RFC 2119 context">MUST</em> and entities
 encoded in UTF-8 <em class="rfc2119" title="Keyword in RFC 2119 context">MAY</em> begin with the Byte Order Mark described by
@@ -1632,13 +1632,13 @@ For example:</p><div class="exampleInner"><pre>&lt;!ENTITY lt     "&amp;#38;#60;
 &lt;!ENTITY apos   "&amp;#39;"&gt;
 &lt;!ENTITY quot   "&amp;#34;"&gt;</pre></div></div><div class="div2">
 <h3><a name="Notations" id="Notations"/>4.7 Notation Declarations</h3><p>
-					[<a name="dt-notation" id="dt-notation" title="Notation">Definition</a>: 
+					[<a name="dt-notation" id="dt-notation" title="Notation">Definition</a>:
 						<b>Notations</b> identify
 by name the format of <a title="Unparsed Entity" href="#dt-unparsed">unparsed entities</a>,
 the format of elements which bear a notation attribute, or the application
 to which a <a title="Processing instruction" href="#dt-pi">processing instruction</a> is addressed.]
 				</p><p>
-					[<a name="dt-notdecl" id="dt-notdecl" title="Notation Declaration">Definition</a>: 
+					[<a name="dt-notdecl" id="dt-notdecl" title="Notation Declaration">Definition</a>:
 						<b>Notation declarations</b>
 provide a name for the notation, for use in entity and attribute-list declarations
 and in attribute specifications, and an external identifier for the notation
@@ -1670,7 +1670,7 @@ on a processor input stream without any identification at all.</p></div></div><d
 two classes: validating and non-validating.</p><p>Validating and non-validating processors alike <em class="rfc2119" title="Keyword in RFC 2119 context">MUST</em> report violations of
 this specification's well-formedness constraints in the content of the <a title="Document Entity" href="#dt-docent">document entity</a> and any other <a title="Text Entity" href="#dt-parsedent">parsed
 entities</a> that they read.</p><p>
-					[<a name="dt-validating" id="dt-validating" title="Validating Processor">Definition</a>: 
+					[<a name="dt-validating" id="dt-validating" title="Validating Processor">Definition</a>:
 						<b>Validating
 processors</b>
 						<em class="rfc2119" title="Keyword in RFC 2119 context">MUST</em>,
@@ -1715,7 +1715,7 @@ For example, a non-validating processor may fail to <a href="#AVNormalize"><cite
 attribute values, <a href="#included"><cite>include</cite></a> the replacement
 text of internal entities, or supply <a href="#sec-attr-defaults"><cite>default
 attribute values</cite></a>, where doing so depends on having read declarations
-in external or parameter entities<span>, or in the internal subset after an unread 
+in external or parameter entities<span>, or in the internal subset after an unread
 parameter entity reference</span>.</p></li></ul><p>For maximum reliability in interoperating between different XML processors,
 applications which use non-validating processors <em class="rfc2119" title="Keyword in RFC 2119 context">SHOULD NOT</em> rely on any behaviors
 not required of such processors. Applications which require DTD facilities not related to validation (such
@@ -1839,10 +1839,10 @@ TC2. Information technology — Document Description and Processing Languages</c
 [Geneva]: International Organization for Standardization, 1998.  (See http://www.sgmlsource.com/8879/n0029.htm.)</dd><dt class="label"><a name="xml-names" id="xml-names"/>XML Names</dt><dd>Tim Bray,
 Dave Hollander, and Andrew Layman, editors. <a href="https://www.w3.org/TR/xml-names/"><cite>Namespaces in XML</cite></a>.
 Textuality, Hewlett-Packard, and Microsoft. World Wide Web Consortium, 1999.  (See http://www.w3.org/TR/xml-names/.)</dd></dl></div></div><div class="div1">
-<h2><a name="CharClasses" id="CharClasses"/>B Character Classes</h2><p>Because of changes to productions 
+<h2><a name="CharClasses" id="CharClasses"/>B Character Classes</h2><p>Because of changes to productions
 				<a href="#NT-NameStartChar">[4]</a> and <a href="#NT-Name">[5]</a>, the productions in
 				this Appendix are now orphaned and not used anymore in determining
-				name characters.  This Appendix may be removed in a future edition of 
+				name characters.  This Appendix may be removed in a future edition of
 				this specification; other specifications that wish to refer to the productions herein should
 				do so by means of a reference to the relevant production(s) in the
 				<a href="https://www.w3.org/TR/2006/REC-xml-20060816/">Fourth Edition</a> of this specification. </p><p>Following the characteristics defined in the Unicode standard, characters
@@ -2018,9 +2018,9 @@ has now been declared, with the replacement text "
 is recognized, and it is expanded, so the full content of the <code>test</code>
 element is the self-describing (and ungrammatical) string <em>This sample
 shows a error-prone method.</em>
-					</p></li></ul><p>In the following example</p><div class="exampleInner"><pre>&lt;!DOCTYPE foo [ 
-&lt;!ENTITY x "&amp;lt;"&gt; 
-]&gt; 
+					</p></li></ul><p>In the following example</p><div class="exampleInner"><pre>&lt;!DOCTYPE foo [
+&lt;!ENTITY x "&amp;lt;"&gt;
+]&gt;
 &lt;foo attr="&amp;x;"/&gt;</pre></div><p>the replacement text of x is the four characters "&amp;lt;" because
 				references to general entities in entity values are <a href="#bypass"><cite>bypassed</cite></a>.
 				The replacement text of lt is a character reference to

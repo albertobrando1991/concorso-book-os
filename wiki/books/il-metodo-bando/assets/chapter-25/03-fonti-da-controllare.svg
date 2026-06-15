@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Fonti da controllare davvero</title>
+  <desc id="desc">Ogni fonte ha una funzione: cercare, verificare, interpretare o aggiornare.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; }
+      .softRed { fill: #F8E8EA; stroke: #E3B9BF; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E8D080; stroke-width: 2.5; }
+      .softGreen { fill: #E7F3ED; stroke: #A8D1BD; stroke-width: 2.5; }
+      .softTeal { fill: #E4F4F5; stroke: #A3D5D8; stroke-width: 2.5; }
+      .note { fill: #FFF7ED; stroke: #E7C18E; stroke-width: 2.5; }
+      .ink { fill: #0F172A; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 43px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 22px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 25px; font-weight: 800; letter-spacing: 0; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 18px; }
+      .navy { fill: #10233F; }
+      .bordeaux { fill: #7A2430; }
+      .gold { fill: #D4AF37; }
+      .green { fill: #2F7D5A; }
+      .teal { fill: #1F6F78; }
+      .line { stroke: #94A3B8; stroke-width: 4; stroke-linecap: round; fill: none; }
+      .thin { stroke: #CBD5E1; stroke-width: 2.5; stroke-linecap: round; fill: none; }
+      .arrowNavy { stroke: #10233F; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowNavy); }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#10233F"/></marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <text class="ink title" x="800" y="68" text-anchor="middle">Fonti da controllare davvero</text>
+  <text class="muted subtitle" x="800" y="108" text-anchor="middle">Ogni fonte ha una funzione: cercare, verificare, interpretare o aggiornare.</text>
+
+  <rect class="card" x="70" y="165" width="1460" height="630" rx="30"/>
+  <text class="navy label" x="800" y="225" text-anchor="middle">Non controllare tutto: controlla la fonte giusta per la domanda giusta</text>
+  <g data-safe-box="155 270 390 190 8">
+    <rect class="softBlue" x="155" y="270" width="390" height="190" rx="24"/>
+    <rect x="155" y="270" width="390" height="10" rx="5" fill="#10233F"/>
+    <text class="navy label" x="350" y="328" text-anchor="middle" style="font-size:22px">inPA</text>
+    <path class="thin" d="M210 352 L490 352"/>
+    <text class="muted small" x="350" y="398" text-anchor="middle" style="font-size:17px">bandi e candidature</text>
+  </g>
+<g data-safe-box="605 270 390 190 8">
+    <rect class="softRed" x="605" y="270" width="390" height="190" rx="24"/>
+    <rect x="605" y="270" width="390" height="10" rx="5" fill="#7A2430"/>
+    <text class="bordeaux label" x="800" y="328" text-anchor="middle" style="font-size:22px">Sito ente</text>
+    <path class="thin" d="M660 352 L940 352"/>
+    <text class="muted small" x="800" y="398" text-anchor="middle" style="font-size:17px">diario prove e avvisi</text>
+  </g>
+<g data-safe-box="1055 270 390 190 8">
+    <rect class="softGold" x="1055" y="270" width="390" height="190" rx="24"/>
+    <rect x="1055" y="270" width="390" height="10" rx="5" fill="#D4AF37"/>
+    <text class="gold label" x="1250" y="328" text-anchor="middle" style="font-size:22px">Gazzetta</text>
+    <path class="thin" d="M1110 352 L1390 352"/>
+    <text class="muted small" x="1250" y="398" text-anchor="middle" style="font-size:17px">pubblicazioni ufficiali</text>
+  </g>
+<g data-safe-box="155 515 390 190 8">
+    <rect class="softGreen" x="155" y="515" width="390" height="190" rx="24"/>
+    <rect x="155" y="515" width="390" height="10" rx="5" fill="#2F7D5A"/>
+    <text class="green label" x="350" y="573" text-anchor="middle" style="font-size:22px">Normattiva</text>
+    <path class="thin" d="M210 597 L490 597"/>
+    <text class="muted small" x="350" y="643" text-anchor="middle" style="font-size:17px">norma vigente</text>
+  </g>
+<g data-safe-box="605 515 390 190 8">
+    <rect class="softTeal" x="605" y="515" width="390" height="190" rx="24"/>
+    <rect x="605" y="515" width="390" height="10" rx="5" fill="#1F6F78"/>
+    <text class="teal label" x="800" y="573" text-anchor="middle" style="font-size:22px">DFP / SNA</text>
+    <path class="thin" d="M660 597 L940 597"/>
+    <text class="muted small" x="800" y="643" text-anchor="middle" style="font-size:17px">competenze PA</text>
+  </g>
+<g data-safe-box="1055 515 390 190 8">
+    <rect class="softBlue" x="1055" y="515" width="390" height="190" rx="24"/>
+    <rect x="1055" y="515" width="390" height="10" rx="5" fill="#10233F"/>
+    <text class="navy label" x="1250" y="573" text-anchor="middle" style="font-size:22px">ANAC AgID Garante</text>
+    <path class="thin" d="M1110 597 L1390 597"/>
+    <text class="muted small" x="1250" y="643" text-anchor="middle" style="font-size:17px">settori specifici</text>
+  </g>
+  <g data-safe-box="250 812 1100 64 8">
+    <rect class="note" x="250" y="812" width="1100" height="64" rx="24"/>
+    <text class="ink body" x="800" y="852" text-anchor="middle" style="font-weight:800;font-size:20px">La fonte serve solo se cambia il modo in cui studi, rispondi o ti presenti alla prova.</text>
+  </g>
+</svg>

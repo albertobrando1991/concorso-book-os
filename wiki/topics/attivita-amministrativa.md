@@ -38,4 +38,3 @@ Da collegare a procedimento, provvedimento e tutela.
 
 ## Note editoriali
 Usare come ponte tra teoria generale e casi pratici.
-

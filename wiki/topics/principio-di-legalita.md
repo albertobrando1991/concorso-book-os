@@ -39,4 +39,3 @@ Da consolidare con fonti costituzionali e manualistiche.
 
 ## Note editoriali
 Ottimo candidato per box "da sapere in 5 righe".
-

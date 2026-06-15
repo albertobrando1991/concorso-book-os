@@ -41,4 +41,3 @@ La fonte consolida il ruolo della prevenzione della corruzione, della trasparenz
 
 ## Stato revisione
 Fonte demo da verificare su aggiornamenti annuali e linee guida applicabili.
-

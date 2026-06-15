@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Profili amministrativi e centrali</title>
+  <desc id="desc">Le prime mappe distinguono base comune, ente e modulo giuridico-contabile.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; }
+      .softRed { fill: #F8E8EA; stroke: #E3B9BF; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E8D080; stroke-width: 2.5; }
+      .softGreen { fill: #E7F3ED; stroke: #A8D1BD; stroke-width: 2.5; }
+      .softTeal { fill: #E4F4F5; stroke: #A3D5D8; stroke-width: 2.5; }
+      .note { fill: #FFF7ED; stroke: #E7C18E; stroke-width: 2.5; }
+      .ink { fill: #0F172A; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 43px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 22px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 25px; font-weight: 800; letter-spacing: 0; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 18px; }
+      .navy { fill: #10233F; }
+      .bordeaux { fill: #7A2430; }
+      .gold { fill: #D4AF37; }
+      .green { fill: #2F7D5A; }
+      .teal { fill: #1F6F78; }
+      .line { stroke: #94A3B8; stroke-width: 4; stroke-linecap: round; fill: none; }
+      .thin { stroke: #CBD5E1; stroke-width: 2.5; stroke-linecap: round; fill: none; }
+      .arrowNavy { stroke: #10233F; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowNavy); }
+      .arrowGold { stroke: #D4AF37; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGold); }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#10233F"/></marker>
+    <marker id="arrowGold" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#D4AF37"/></marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <text class="ink title" x="800" y="68" text-anchor="middle">Profili amministrativi e centrali</text>
+  <text class="muted subtitle" x="800" y="108" text-anchor="middle">Le prime mappe distinguono base comune, ente e modulo giuridico-contabile.</text>
+
+  <rect class="card" x="70" y="165" width="1460" height="630" rx="30"/>
+  <text class="navy label" x="800" y="225" text-anchor="middle">Prime schede: cambia il contesto, non sparisce il nucleo comune</text>
+  <g data-safe-box="115 255 405 170 8">
+    <rect class="softBlue" x="115" y="255" width="405" height="170" rx="24"/>
+    <rect x="115" y="255" width="405" height="10" rx="5" fill="#10233F"/>
+    <text class="navy label" x="317.5" y="300" text-anchor="middle" style="font-size:21px">Amm. generale</text>
+    <path class="thin" d="M150 321 L485 321"/>
+    <text class="muted small" x="317.5" y="359" text-anchor="middle" style="font-size:17px">core forte</text>
+    <text class="muted small" x="317.5" y="392" text-anchor="middle" style="font-size:16px">rischio: genericita</text>
+  </g>
+<g data-safe-box="600 255 405 170 8">
+    <rect class="softRed" x="600" y="255" width="405" height="170" rx="24"/>
+    <rect x="600" y="255" width="405" height="10" rx="5" fill="#7A2430"/>
+    <text class="bordeaux label" x="802.5" y="300" text-anchor="middle" style="font-size:21px">Amm.-contabile</text>
+    <path class="thin" d="M635 321 L970 321"/>
+    <text class="muted small" x="802.5" y="359" text-anchor="middle" style="font-size:17px">bilancio + atti</text>
+    <text class="muted small" x="802.5" y="392" text-anchor="middle" style="font-size:16px">rischio: rinvio contabile</text>
+  </g>
+<g data-safe-box="1085 255 405 170 8">
+    <rect class="softGold" x="1085" y="255" width="405" height="170" rx="24"/>
+    <rect x="1085" y="255" width="405" height="10" rx="5" fill="#D4AF37"/>
+    <text class="gold label" x="1287.5" y="300" text-anchor="middle" style="font-size:21px">Enti locali</text>
+    <path class="thin" d="M1120 321 L1455 321"/>
+    <text class="muted small" x="1287.5" y="359" text-anchor="middle" style="font-size:17px">organi + competenze</text>
+    <text class="muted small" x="1287.5" y="392" text-anchor="middle" style="font-size:16px">rischio: ruoli confusi</text>
+  </g>
+<g data-safe-box="115 490 405 170 8">
+    <rect class="softGreen" x="115" y="490" width="405" height="170" rx="24"/>
+    <rect x="115" y="490" width="405" height="10" rx="5" fill="#2F7D5A"/>
+    <text class="green label" x="317.5" y="535" text-anchor="middle" style="font-size:21px">Ministeri</text>
+    <path class="thin" d="M150 556 L485 556"/>
+    <text class="muted small" x="317.5" y="594" text-anchor="middle" style="font-size:17px">Stato + funzione</text>
+    <text class="muted small" x="317.5" y="627" text-anchor="middle" style="font-size:16px">rischio: ente ignorato</text>
+  </g>
+<g data-safe-box="600 490 405 170 8">
+    <rect class="softTeal" x="600" y="490" width="405" height="170" rx="24"/>
+    <rect x="600" y="490" width="405" height="10" rx="5" fill="#1F6F78"/>
+    <text class="teal label" x="802.5" y="535" text-anchor="middle" style="font-size:21px">Giustizia</text>
+    <path class="thin" d="M635 556 L970 556"/>
+    <text class="muted small" x="802.5" y="594" text-anchor="middle" style="font-size:17px">ufficio + procedura</text>
+    <text class="muted small" x="802.5" y="627" text-anchor="middle" style="font-size:16px">rischio: peso sbagliato</text>
+  </g>
+<g data-safe-box="1085 490 405 170 8">
+    <rect class="softBlue" x="1085" y="490" width="405" height="170" rx="24"/>
+    <rect x="1085" y="490" width="405" height="10" rx="5" fill="#10233F"/>
+    <text class="navy label" x="1287.5" y="535" text-anchor="middle" style="font-size:21px">Agenzie fiscali</text>
+    <path class="thin" d="M1120 556 L1455 556"/>
+    <text class="muted small" x="1287.5" y="594" text-anchor="middle" style="font-size:17px">tributario o catasto</text>
+    <text class="muted small" x="1287.5" y="627" text-anchor="middle" style="font-size:16px">rischio: modulo killer</text>
+  </g>
+  <g data-safe-box="250 812 1100 64 8">
+    <rect class="note" x="250" y="812" width="1100" height="64" rx="24"/>
+    <text class="ink body" x="800" y="852" text-anchor="middle" style="font-weight:800;font-size:20px">Qui la priorita e' bilanciare base amministrativa, amministrazione specifica e prova.</text>
+  </g>
+</svg>

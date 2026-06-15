@@ -1,4 +1,4 @@
-﻿# Corpus ufficiale - Diritto costituzionale per concorsi pubblici
+# Corpus ufficiale - Diritto costituzionale per concorsi pubblici
 
 Data download: 2026-05-25
 Programma di riferimento: C:\Users\alber\Downloads\Diritto_Costituzionale_Concorsi_Pubblici_Italia.md

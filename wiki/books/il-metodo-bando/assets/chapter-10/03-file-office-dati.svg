@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">File, Office e dati strutturati</title>
+  <desc id="desc">File system, produttivita e tabelle non sono la stessa cosa: cambia la funzione.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; }
+      .softRed { fill: #F8E8EA; stroke: #E3B9BF; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E8D080; stroke-width: 2.5; }
+      .softGreen { fill: #E7F3ED; stroke: #A8D1BD; stroke-width: 2.5; }
+      .note { fill: #FFF7ED; stroke: #E7C18E; stroke-width: 2.5; }
+      .ink { fill: #0F172A; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 44px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 23px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 25px; font-weight: 800; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 18px; }
+      .navy { fill: #10233F; }
+      .bordeaux { fill: #7A2430; }
+      .gold { fill: #D4AF37; }
+      .green { fill: #2F7D5A; }
+      .line { stroke: #94A3B8; stroke-width: 4; stroke-linecap: round; fill: none; }
+      .thin { stroke: #CBD5E1; stroke-width: 2.5; stroke-linecap: round; fill: none; }
+      .arrowNavy { stroke: #10233F; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowNavy); }
+      .arrowBordeaux { stroke: #7A2430; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowBordeaux); }
+      .arrowGold { stroke: #D4AF37; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGold); }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#10233F"/>
+    </marker>
+    <marker id="arrowBordeaux" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#7A2430"/>
+    </marker>
+    <marker id="arrowGold" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#D4AF37"/>
+    </marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <text class="ink title" x="800" y="68" text-anchor="middle">File, Office e dati strutturati</text>
+  <text class="muted subtitle" x="800" y="108" text-anchor="middle">File system, produttivita e tabelle non sono la stessa cosa: cambia la funzione.</text>
+
+  <rect class="card" x="90" y="190" width="600" height="555" rx="28"/>
+  <text class="navy label" x="390" y="245" text-anchor="middle">File system</text>
+  <g data-safe-box="150 310 180 74 8">
+    <rect x="150" y="310" width="180" height="74" rx="20" fill="#10233F"/>
+    <text class="label" x="240" y="341" text-anchor="middle" fill="#FFFFFF" style="font-size:21px">Unita</text>
+    <text class="small" x="240" y="366" text-anchor="middle" fill="#FFFFFF" style="font-size:16px">C: o disco</text>
+  </g>
+  <g data-safe-box="405 310 220 74 8">
+    <rect x="405" y="310" width="220" height="74" rx="20" fill="#7A2430"/>
+    <text class="label" x="515" y="341" text-anchor="middle" fill="#FFFFFF" style="font-size:21px">Cartelle</text>
+    <text class="small" x="515" y="366" text-anchor="middle" fill="#FFFFFF" style="font-size:16px">contenitori logici</text>
+  </g>
+  <g data-safe-box="150 445 180 74 8">
+    <rect x="150" y="445" width="180" height="74" rx="20" fill="#D4AF37"/>
+    <text class="label" x="240" y="476" text-anchor="middle" fill="#FFFFFF" style="font-size:21px">File</text>
+    <text class="small" x="240" y="501" text-anchor="middle" fill="#FFFFFF" style="font-size:16px">dati + nome</text>
+  </g>
+  <g data-safe-box="405 445 220 74 8">
+    <rect x="405" y="445" width="220" height="74" rx="20" fill="#2F7D5A"/>
+    <text class="label" x="515" y="476" text-anchor="middle" fill="#FFFFFF" style="font-size:21px">Estensione</text>
+    <text class="small" x="515" y="501" text-anchor="middle" fill="#FFFFFF" style="font-size:16px">.pdf, .xlsx, .zip</text>
+  </g>
+  <g data-safe-box="255 595 270 74 8">
+    <rect x="255" y="595" width="270" height="74" rx="20" fill="#10233F"/>
+    <text class="label" x="390" y="626" text-anchor="middle" fill="#FFFFFF" style="font-size:21px">Percorso</text>
+    <text class="small" x="390" y="651" text-anchor="middle" fill="#FFFFFF" style="font-size:16px">posizione completa</text>
+  </g>
+  <path class="arrowNavy" d="M332 340 L390 340"/>
+  <path class="arrowBordeaux" d="M515 445 L515 405"/>
+  <path class="arrowGold" d="M330 595 L255 515"/>
+  <rect class="card" x="805" y="190" width="705" height="555" rx="28"/>
+  <text class="navy label" x="1158" y="245" text-anchor="middle">Produttivita e dati</text>
+  <g data-safe-box="855 305 275 120 8">
+    <rect class="softBlue" x="855" y="305" width="275" height="120" rx="22"/>
+    <rect x="855" y="305" width="275" height="10" rx="5" fill="#10233F"/>
+    <text class="navy label" x="992.5" y="347" text-anchor="middle" style="font-size:25px">Word / Writer</text>
+    <text class="muted small" x="992.5" y="381" text-anchor="middle">testi, stili</text>
+<text class="muted small" x="992.5" y="406" text-anchor="middle">PDF e stampa</text>
+  </g>
+  <g data-safe-box="1180 305 275 120 8">
+    <rect class="softGold" x="1180" y="305" width="275" height="120" rx="22"/>
+    <rect x="1180" y="305" width="275" height="10" rx="5" fill="#D4AF37"/>
+    <text class="gold label" x="1317.5" y="347" text-anchor="middle" style="font-size:25px">Excel / Calc</text>
+    <text class="muted small" x="1317.5" y="381" text-anchor="middle">celle, formule</text>
+<text class="muted small" x="1317.5" y="406" text-anchor="middle">funzioni e grafici</text>
+  </g>
+  <g data-safe-box="855 505 275 120 8">
+    <rect class="softRed" x="855" y="505" width="275" height="120" rx="22"/>
+    <rect x="855" y="505" width="275" height="10" rx="5" fill="#7A2430"/>
+    <text class="bordeaux label" x="992.5" y="547" text-anchor="middle" style="font-size:25px">PowerPoint</text>
+    <text class="muted small" x="992.5" y="581" text-anchor="middle">slide, layout</text>
+<text class="muted small" x="992.5" y="606" text-anchor="middle">transizioni</text>
+  </g>
+  <g data-safe-box="1180 505 275 120 8">
+    <rect class="softGreen" x="1180" y="505" width="275" height="120" rx="22"/>
+    <rect x="1180" y="505" width="275" height="10" rx="5" fill="#2F7D5A"/>
+    <text class="green label" x="1317.5" y="547" text-anchor="middle" style="font-size:25px">Database</text>
+    <text class="muted small" x="1317.5" y="581" text-anchor="middle">tabelle, query</text>
+<text class="muted small" x="1317.5" y="606" text-anchor="middle">relazioni</text>
+  </g>
+  <g data-safe-box="260 800 1080 64 8">
+    <rect class="note" x="260" y="800" width="1080" height="64" rx="24"/>
+    <text class="ink body" x="800" y="840" text-anchor="middle" style="font-weight:800;font-size:19px">Domanda guida: sto gestendo un file, facendo calcoli o interrogando dati strutturati?</text>
+  </g>
+
+</svg>

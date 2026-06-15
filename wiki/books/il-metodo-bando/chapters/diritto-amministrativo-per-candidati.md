@@ -524,7 +524,7 @@ Non limitarti a scrivere: "la PA è inadempiente". In concorso devi mostrare il 
 
 ## Domanda da commissario
 
-**Domanda:** mi spieghi il procedimento amministrativo e il ruolo del responsabile del procedimento, facendo un esempio pratico?
+**Domanda:** Mi spieghi il procedimento amministrativo e il ruolo del responsabile del procedimento, facendo un esempio pratico?
 
 **Schema di risposta:**
 
@@ -536,7 +536,7 @@ Non limitarti a scrivere: "la PA è inadempiente". In concorso devi mostrare il 
 
 ## Domanda-trappola
 
-**Domanda:** se l'amministrazione non risponde entro il termine, la domanda del cittadino si considera sempre accolta?
+**Domanda:** Se l'amministrazione non risponde entro il termine, la domanda del cittadino si considera sempre accolta?
 
 **Risposta corretta:** no. La mancata risposta non produce sempre lo stesso effetto. Occorre verificare la disciplina applicabile al procedimento, distinguere il dovere di concludere, le ipotesi di silenzio significativo e i rimedi contro l'inerzia.
 

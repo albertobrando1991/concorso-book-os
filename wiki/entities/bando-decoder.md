@@ -30,4 +30,3 @@ Tool compilabile che traduce un bando in piano operativo: materie, prove, punteg
 
 ## Stato revisione
 Da trasformare in template libro, PDF e versione digitale opzionale.
-

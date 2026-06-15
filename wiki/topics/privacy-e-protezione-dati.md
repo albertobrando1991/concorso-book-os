@@ -35,4 +35,3 @@ Privacy e protezione dei dati personali sono materie ad alta frequenza nei conco
 ## Uso nel libro
 
 Nel Capitolo 7 il tema va trattato come materia autonoma, non come appendice della trasparenza. Occorre pero collegarlo agli accessi amministrativi e alla sezione "Amministrazione trasparente", perche molte domande da quiz chiedono proprio di distinguere pubblicazione lecita, oscuramento, diniego, differimento e tutela dei controinteressati.
-

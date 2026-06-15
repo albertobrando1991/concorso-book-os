@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Scheda unica di mappa profilo</title>
+  <desc id="desc">Una pagina per decidere priorita, rischio e prima azione di studio.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; }
+      .softRed { fill: #F8E8EA; stroke: #E3B9BF; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E8D080; stroke-width: 2.5; }
+      .softGreen { fill: #E7F3ED; stroke: #A8D1BD; stroke-width: 2.5; }
+      .softTeal { fill: #E4F4F5; stroke: #A3D5D8; stroke-width: 2.5; }
+      .note { fill: #FFF7ED; stroke: #E7C18E; stroke-width: 2.5; }
+      .ink { fill: #0F172A; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 43px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 22px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 25px; font-weight: 800; letter-spacing: 0; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 18px; }
+      .navy { fill: #10233F; }
+      .bordeaux { fill: #7A2430; }
+      .gold { fill: #D4AF37; }
+      .green { fill: #2F7D5A; }
+      .teal { fill: #1F6F78; }
+      .line { stroke: #94A3B8; stroke-width: 4; stroke-linecap: round; fill: none; }
+      .thin { stroke: #CBD5E1; stroke-width: 2.5; stroke-linecap: round; fill: none; }
+      .arrowNavy { stroke: #10233F; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowNavy); }
+      .arrowGold { stroke: #D4AF37; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGold); }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#10233F"/></marker>
+    <marker id="arrowGold" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#D4AF37"/></marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <text class="ink title" x="800" y="68" text-anchor="middle">Scheda unica di mappa profilo</text>
+  <text class="muted subtitle" x="800" y="108" text-anchor="middle">Una pagina per decidere priorita, rischio e prima azione di studio.</text>
+
+  <rect class="card" x="70" y="165" width="1460" height="630" rx="30"/>
+  <text class="navy label" x="800" y="225" text-anchor="middle">Compila la scheda prima di aprire nuovi materiali</text>
+  <g data-safe-box="200 260 1200 434 8">
+    <g>
+    <rect x="200" y="260" width="1200" height="54" rx="12" fill="#EAF2FB" stroke="#CBD5E1" stroke-width="2"/>
+    <text class="navy label" x="236" y="296" style="font-size:19px">Profilo</text>
+    <text class="muted small" x="550" y="296" style="font-size:18px">titolo, mansioni, amministrazione</text>
+  </g>
+<g>
+    <rect x="200" y="322" width="1200" height="54" rx="12" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2"/>
+    <text class="navy label" x="236" y="358" style="font-size:19px">Famiglia</text>
+    <text class="muted small" x="550" y="358" style="font-size:18px">area concorsuale operativa</text>
+  </g>
+<g>
+    <rect x="200" y="384" width="1200" height="54" rx="12" fill="#EAF2FB" stroke="#CBD5E1" stroke-width="2"/>
+    <text class="navy label" x="236" y="420" style="font-size:19px">Core</text>
+    <text class="muted small" x="550" y="420" style="font-size:18px">materie riutilizzabili</text>
+  </g>
+<g>
+    <rect x="200" y="446" width="1200" height="54" rx="12" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2"/>
+    <text class="navy label" x="236" y="482" style="font-size:19px">Modulo</text>
+    <text class="muted small" x="550" y="482" style="font-size:18px">materie che distinguono il profilo</text>
+  </g>
+<g>
+    <rect x="200" y="508" width="1200" height="54" rx="12" fill="#EAF2FB" stroke="#CBD5E1" stroke-width="2"/>
+    <text class="navy label" x="236" y="544" style="font-size:19px">Prove</text>
+    <text class="muted small" x="550" y="544" style="font-size:18px">formato, tempo, soglia, penalita</text>
+  </g>
+<g>
+    <rect x="200" y="570" width="1200" height="54" rx="12" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2"/>
+    <text class="navy label" x="236" y="606" style="font-size:19px">Rischio</text>
+    <text class="muted small" x="550" y="606" style="font-size:18px">punto in cui si perde punteggio</text>
+  </g>
+<g>
+    <rect x="200" y="632" width="1200" height="54" rx="12" fill="#EAF2FB" stroke="#CBD5E1" stroke-width="2"/>
+    <text class="navy label" x="236" y="668" style="font-size:19px">Prima cosa</text>
+    <text class="muted small" x="550" y="668" style="font-size:18px">sessione da fare subito</text>
+  </g>
+  </g>
+  <g data-safe-box="235 725 320 78 8">
+    <rect x="235" y="725" width="320" height="78" rx="20" fill="#10233F"/>
+    <text class="label" x="395" y="756" text-anchor="middle" fill="#FFFFFF" style="font-size:20px">Decisione</text>
+    <text class="small" x="395" y="783" text-anchor="middle" fill="#FFFFFF" style="font-size:16px">cosa studio oggi</text>
+  </g>
+  <g data-safe-box="640 725 320 78 8">
+    <rect x="640" y="725" width="320" height="78" rx="20" fill="#7A2430"/>
+    <text class="label" x="800" y="756" text-anchor="middle" fill="#FFFFFF" style="font-size:20px">Rinvio</text>
+    <text class="small" x="800" y="783" text-anchor="middle" fill="#FFFFFF" style="font-size:16px">cosa taglio o posticipo</text>
+  </g>
+  <g data-safe-box="1045 725 320 78 8">
+    <rect x="1045" y="725" width="320" height="78" rx="20" fill="#2F7D5A"/>
+    <text class="label" x="1205" y="756" text-anchor="middle" fill="#FFFFFF" style="font-size:20px">Output</text>
+    <text class="small" x="1205" y="783" text-anchor="middle" fill="#FFFFFF" style="font-size:16px">cosa produco entro 7 giorni</text>
+  </g>
+</svg>

@@ -49,4 +49,3 @@ Il download diretto da EUR-Lex ha prodotto file vuoti nel corpus locale; per la 
 ## Capitoli collegati
 
 - [[books/il-metodo-bando/chapters/trasparenza-anticorruzione-privacy]]
-

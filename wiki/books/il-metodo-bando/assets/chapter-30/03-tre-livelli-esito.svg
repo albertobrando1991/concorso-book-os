@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Tre livelli di esito</title>
+  <desc id="desc">Impressione, atto ufficiale e conseguenza procedurale non sono la stessa cosa.</desc>
+  <style>
+    .bg { fill: #F8FAFC; }
+    .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+    .title { font: 800 43px Arial, sans-serif; fill: #0F172A; }
+    .subtitle { font: 400 21px Arial, sans-serif; fill: #526174; }
+    .label { font: 800 25px Arial, sans-serif; fill: #0F172A; }
+    .body { font: 400 19px Arial, sans-serif; fill: #0F172A; }
+    .small { font: 400 16px Arial, sans-serif; fill: #0F172A; }
+    .strong { font-weight: 800; }
+    .whiteText { fill: #FFFFFF; }
+    .line { stroke: #10233F; stroke-width: 6; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+  </style>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#10233F"/>
+    </marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <g data-safe-box="80 16 1440 118 0">
+    <text class="title" x="800" y="68" text-anchor="middle">Tre livelli di esito</text>
+    <text class="subtitle" x="800" y="108" text-anchor="middle">Impressione, atto ufficiale e conseguenza procedurale non sono la stessa cosa.</text>
+  </g>
+
+    <rect class="card" x="70" y="165" width="1460" height="630" rx="30"/>
+    <g data-safe-box="120 285 390 355 8">
+    <rect x="120" y="285" width="390" height="355" rx="28" fill="#F8E8EA" stroke="#7A2430" stroke-width="3"/>
+    <rect x="120" y="285" width="390" height="14" rx="7" fill="#7A2430"/>
+    <text class="label" style="fill:#7A2430" x="315" y="357" text-anchor="middle">Impressione</text>
+    <text class="small" x="315" y="415" text-anchor="middle">sensazione personale</text>
+<text class="small" x="315" y="457" text-anchor="middle">memoria selettiva</text>
+<text class="small" x="315" y="499" text-anchor="middle">confronto con altri</text>
+  </g>
+<g data-safe-box="605 285 390 355 8">
+    <rect x="605" y="285" width="390" height="355" rx="28" fill="#EAF2FB" stroke="#10233F" stroke-width="3"/>
+    <rect x="605" y="285" width="390" height="14" rx="7" fill="#10233F"/>
+    <text class="label" style="fill:#10233F" x="800" y="357" text-anchor="middle">Esito ufficiale</text>
+    <text class="small" x="800" y="415" text-anchor="middle">punteggio o elenco</text>
+<text class="small" x="800" y="457" text-anchor="middle">atto dell'ente</text>
+<text class="small" x="800" y="499" text-anchor="middle">bando e avvisi</text>
+  </g>
+<g data-safe-box="1090 285 390 355 8">
+    <rect x="1090" y="285" width="390" height="355" rx="28" fill="#E7F3ED" stroke="#2F7D5A" stroke-width="3"/>
+    <rect x="1090" y="285" width="390" height="14" rx="7" fill="#2F7D5A"/>
+    <text class="label" style="fill:#2F7D5A" x="1285" y="357" text-anchor="middle">Conseguenza</text>
+    <text class="small" x="1285" y="415" text-anchor="middle">orale o titoli</text>
+<text class="small" x="1285" y="457" text-anchor="middle">graduatoria</text>
+<text class="small" x="1285" y="499" text-anchor="middle">archiviazione</text>
+  </g>
+    <path class="line" marker-end="url(#arrow)" d="M510 465 L605 465"/>
+    <path class="line" marker-end="url(#arrow)" d="M995 465 L1090 465"/>
+    <g data-safe-box="480 675 640 150 8">
+    <rect x="480" y="675" width="640" height="150" rx="24" fill="#FFF4CC" stroke="#D4AF37" stroke-width="3"/>
+    <rect x="480" y="675" width="640" height="12" rx="6" fill="#D4AF37"/>
+    <text class="label" x="800" y="727" text-anchor="middle">Regola</text>
+    <text class="small" x="800" y="757" text-anchor="middle">prima identifichi il livello</text>
+<text class="small" x="800" y="785" text-anchor="middle">poi scegli l'azione corretta</text>
+  </g>
+    <g data-safe-box="245 810 1110 66 8">
+    <rect x="245" y="810" width="1110" height="66" rx="22" fill="#FFF7ED" stroke="#EFC58D" stroke-width="3"/>
+    <text class="body strong" x="800" y="853" text-anchor="middle">Un'impressione negativa non e' esclusione; un buon punteggio non e' automaticamente assunzione.</text>
+  </g>
+
+</svg>

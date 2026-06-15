@@ -1,4 +1,4 @@
-﻿# Download manifest - fonti ufficiali diritto costituzionale
+# Download manifest - fonti ufficiali diritto costituzionale
 
 ## Portali ufficiali usati
 - Normattiva: Costituzione vigente, leggi costituzionali, leggi ordinarie, decreti legislativi e DPR.
@@ -17,4 +17,3 @@
 
 ## Verifica
 Vedi download-log.csv per hash SHA-256 e dimensioni.
-

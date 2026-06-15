@@ -16,8 +16,8 @@ formato: "markdown convertito da HTML ufficiale Normattiva"
 
 **Oggetto:** Nuove norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi.
 
-**Fonte ufficiale:** [Normattiva](https://www.normattiva.it/uri-res/N2Ls?urn=urn:publi:1990;241)  
-**Testo vigente / versione:** 2026-05-24  
+**Fonte ufficiale:** [Normattiva](https://www.normattiva.it/uri-res/N2Ls?urn=urn:publi:1990;241)
+**Testo vigente / versione:** 2026-05-24
 **Avvertenza:** conversione automatica in Markdown dal testo consolidato Normattiva; per uso legale verificare sempre la fonte ufficiale.
 
 La Camera dei deputati ed il Senato della Repubblica hanno approvato;

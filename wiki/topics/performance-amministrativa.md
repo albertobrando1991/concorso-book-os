@@ -39,4 +39,3 @@ Da integrare con fonte primaria sul ciclo della performance.
 
 ## Note editoriali
 Utile per profili amministrativi avanzati e per domande su organizzazione della PA.
-

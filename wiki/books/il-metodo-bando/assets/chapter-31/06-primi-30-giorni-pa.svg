@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Primi 30 giorni in PA</title>
+  <desc id="desc">Il primo obiettivo non e' sembrare esperto: e' diventare affidabile.</desc>
+  <style>
+    .bg { fill: #F8FAFC; }
+    .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+    .title { font: 800 43px Arial, sans-serif; fill: #0F172A; }
+    .subtitle { font: 400 21px Arial, sans-serif; fill: #526174; }
+    .label { font: 800 25px Arial, sans-serif; fill: #0F172A; }
+    .body { font: 400 19px Arial, sans-serif; fill: #0F172A; }
+    .small { font: 400 16px Arial, sans-serif; fill: #0F172A; }
+    .strong { font-weight: 800; }
+    .whiteText { fill: #FFFFFF; }
+    .line { stroke: #10233F; stroke-width: 6; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+  </style>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#10233F"/>
+    </marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <g data-safe-box="80 16 1440 118 0">
+    <text class="title" x="800" y="68" text-anchor="middle">Primi 30 giorni in PA</text>
+    <text class="subtitle" x="800" y="108" text-anchor="middle">Il primo obiettivo non e' sembrare esperto: e' diventare affidabile.</text>
+  </g>
+
+    <rect class="card" x="70" y="165" width="1460" height="630" rx="30"/>
+    <g data-safe-box="140 315 280 290 8">
+    <rect x="140" y="315" width="280" height="290" rx="28" fill="#EAF2FB" stroke="#10233F" stroke-width="3"/>
+    <circle cx="280" cy="377" r="42" fill="#10233F"/>
+    <text class="label whiteText" x="280" y="386" text-anchor="middle">1-3</text>
+    <text class="label" style="fill:#10233F" x="280" y="457" text-anchor="middle">orientamento</text>
+    <text class="small strong" x="280" y="520" text-anchor="middle">sede, orari, strumenti</text>
+  </g>
+<g data-safe-box="485 315 280 290 8">
+    <rect x="485" y="315" width="280" height="290" rx="28" fill="#E7F3ED" stroke="#2F7D5A" stroke-width="3"/>
+    <circle cx="625" cy="377" r="42" fill="#2F7D5A"/>
+    <text class="label whiteText" x="625" y="386" text-anchor="middle">4-10</text>
+    <text class="label" style="fill:#2F7D5A" x="625" y="457" text-anchor="middle">osservazione</text>
+    <text class="small strong" x="625" y="520" text-anchor="middle">flussi, documenti, scadenze</text>
+  </g>
+<g data-safe-box="830 315 280 290 8">
+    <rect x="830" y="315" width="280" height="290" rx="28" fill="#FFF4CC" stroke="#D4AF37" stroke-width="3"/>
+    <circle cx="970" cy="377" r="42" fill="#D4AF37"/>
+    <text class="label whiteText" x="970" y="386" text-anchor="middle">11-20</text>
+    <text class="label" style="fill:#D4AF37" x="970" y="457" text-anchor="middle">prime attivita</text>
+    <text class="small strong" x="970" y="520" text-anchor="middle">compiti controllati</text>
+  </g>
+<g data-safe-box="1175 315 280 290 8">
+    <rect x="1175" y="315" width="280" height="290" rx="28" fill="#E4F4F5" stroke="#1F6F78" stroke-width="3"/>
+    <circle cx="1315" cy="377" r="42" fill="#1F6F78"/>
+    <text class="label whiteText" x="1315" y="386" text-anchor="middle">21-30</text>
+    <text class="label" style="fill:#1F6F78" x="1315" y="457" text-anchor="middle">autonomia</text>
+    <text class="small strong" x="1315" y="520" text-anchor="middle">checklist personale</text>
+  </g>
+    <path class="line" marker-end="url(#arrow)" d="M420 455 L485 455"/>
+<path class="line" marker-end="url(#arrow)" d="M765 455 L830 455"/>
+<path class="line" marker-end="url(#arrow)" d="M1110 455 L1175 455"/>
+    <g data-safe-box="455 660 690 150 8">
+    <rect x="455" y="660" width="690" height="150" rx="24" fill="#EAF2FB" stroke="#10233F" stroke-width="3"/>
+    <rect x="455" y="660" width="690" height="12" rx="6" fill="#10233F"/>
+    <text class="label" x="800" y="712" text-anchor="middle">Affidabile significa</text>
+    <text class="small" x="800" y="742" text-anchor="middle">leggere prima di chiedere</text>
+<text class="small" x="800" y="770" text-anchor="middle">chiedere prima di improvvisare</text>
+  </g>
+    <g data-safe-box="245 810 1110 66 8">
+    <rect x="245" y="810" width="1110" height="66" rx="22" fill="#FFF7ED" stroke="#EFC58D" stroke-width="3"/>
+    <text class="body strong" x="800" y="853" text-anchor="middle">La scheda ufficio trasforma ordini isolati in mappa dell'organizzazione.</text>
+  </g>
+
+</svg>

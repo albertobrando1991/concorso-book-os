@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Mappa BANDO dei moduli integrativi</title>
+  <desc id="desc">Il modulo parte dal bando, passa dal diario e deve produrre output verificabile.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; }
+      .softRed { fill: #F8E8EA; stroke: #E3B9BF; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E8D080; stroke-width: 2.5; }
+      .softGreen { fill: #E7F3ED; stroke: #A8D1BD; stroke-width: 2.5; }
+      .softTeal { fill: #E4F4F5; stroke: #A3D5D8; stroke-width: 2.5; }
+      .note { fill: #FFF7ED; stroke: #E7C18E; stroke-width: 2.5; }
+      .ink { fill: #0F172A; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 43px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 22px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 25px; font-weight: 800; letter-spacing: 0; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 18px; }
+      .navy { fill: #10233F; }
+      .bordeaux { fill: #7A2430; }
+      .gold { fill: #D4AF37; }
+      .green { fill: #2F7D5A; }
+      .teal { fill: #1F6F78; }
+      .line { stroke: #94A3B8; stroke-width: 4; stroke-linecap: round; fill: none; }
+      .thin { stroke: #CBD5E1; stroke-width: 2.5; stroke-linecap: round; fill: none; }
+      .arrowNavy { stroke: #10233F; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowNavy); }
+      .arrowGold { stroke: #D4AF37; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGold); }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#10233F"/></marker>
+    <marker id="arrowGold" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#D4AF37"/></marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <text class="ink title" x="800" y="68" text-anchor="middle">Mappa BANDO dei moduli integrativi</text>
+  <text class="muted subtitle" x="800" y="108" text-anchor="middle">Il modulo parte dal bando, passa dal diario e deve produrre output verificabile.</text>
+
+  <rect class="card" x="70" y="165" width="1460" height="630" rx="30"/>
+  <g data-safe-box="490 205 620 128 8">
+    <rect class="softBlue" x="490" y="205" width="620" height="128" rx="25"/>
+    <rect x="490" y="205" width="620" height="11" rx="5.5" fill="#10233F"/>
+    <text class="navy label" x="800" y="249" text-anchor="middle">Modulo integrativo</text>
+    <text class="muted small" x="800" y="282" text-anchor="middle">un blocco mirato</text>
+<text class="muted small" x="800" y="309" text-anchor="middle">non un manuale in piu</text>
+  </g>
+  <path class="line" d="M800 332 L800 388"/>
+  <path class="line" d="M210 388 L1390 388"/>
+  <path class="line" d="M210 388 L210 462"/>
+  <path class="line" d="M505 388 L505 575"/>
+  <path class="line" d="M800 388 L800 462"/>
+  <path class="line" d="M1095 388 L1095 575"/>
+  <path class="line" d="M1390 388 L1390 462"/>
+  <g data-safe-box="80 462 260 142 8">
+    <rect class="softBlue" x="80" y="462" width="260" height="142" rx="22"/>
+    <rect x="80" y="462" width="260" height="10" rx="5" fill="#10233F"/>
+    <text class="navy label" x="210" y="504" text-anchor="middle" style="font-size:24px">Bando</text>
+    <text class="muted small" x="210" y="538" text-anchor="middle" style="font-size:17px">lista differenze</text>
+<text class="muted small" x="210" y="565" text-anchor="middle" style="font-size:17px">dal core</text>
+  </g>
+  <g data-safe-box="375 575 260 142 8">
+    <rect class="softRed" x="375" y="575" width="260" height="142" rx="22"/>
+    <rect x="375" y="575" width="260" height="10" rx="5" fill="#7A2430"/>
+    <text class="bordeaux label" x="505" y="617" text-anchor="middle" style="font-size:24px">Aree</text>
+    <text class="muted small" x="505" y="651" text-anchor="middle" style="font-size:17px">famiglia</text>
+<text class="muted small" x="505" y="678" text-anchor="middle" style="font-size:17px">specialistica</text>
+  </g>
+  <g data-safe-box="670 462 260 142 8">
+    <rect class="softGold" x="670" y="462" width="260" height="142" rx="22"/>
+    <rect x="670" y="462" width="260" height="10" rx="5" fill="#D4AF37"/>
+    <text class="gold label" x="800" y="504" text-anchor="middle" style="font-size:24px">Nuclei</text>
+    <text class="muted small" x="800" y="538" text-anchor="middle" style="font-size:17px">contenuti</text>
+<text class="muted small" x="800" y="565" text-anchor="middle" style="font-size:17px">ad alta resa</text>
+  </g>
+  <g data-safe-box="965 575 260 142 8">
+    <rect class="softGreen" x="965" y="575" width="260" height="142" rx="22"/>
+    <rect x="965" y="575" width="260" height="10" rx="5" fill="#2F7D5A"/>
+    <text class="green label" x="1095" y="617" text-anchor="middle" style="font-size:24px">Diario</text>
+    <text class="muted small" x="1095" y="651" text-anchor="middle" style="font-size:17px">errori</text>
+<text class="muted small" x="1095" y="678" text-anchor="middle" style="font-size:17px">tempo e limiti</text>
+  </g>
+  <g data-safe-box="1260 462 260 142 8">
+    <rect class="softTeal" x="1260" y="462" width="260" height="142" rx="22"/>
+    <rect x="1260" y="462" width="260" height="10" rx="5" fill="#1F6F78"/>
+    <text class="teal label" x="1390" y="504" text-anchor="middle" style="font-size:24px">Output</text>
+    <text class="muted small" x="1390" y="538" text-anchor="middle" style="font-size:17px">quiz</text>
+<text class="muted small" x="1390" y="565" text-anchor="middle" style="font-size:17px">caso</text>
+<text class="muted small" x="1390" y="592" text-anchor="middle" style="font-size:17px">orale</text>
+  </g>
+  <g data-safe-box="250 812 1100 64 8">
+    <rect class="note" x="250" y="812" width="1100" height="64" rx="24"/>
+    <text class="ink body" x="800" y="852" text-anchor="middle" style="font-weight:800;font-size:20px">Il modulo nasce dal bando, ma viene confermato dal diario e dagli output.</text>
+  </g>
+</svg>

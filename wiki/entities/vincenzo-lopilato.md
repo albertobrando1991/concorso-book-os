@@ -29,4 +29,3 @@ Autore del manuale di diritto amministrativo importato come fonte manualistica d
 
 ## Stato revisione
 Entità autore.
-

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Procedure e intensita delle regole</title>
+  <desc id="desc">Importo, complessita e impatto sul mercato aumentano formalita, pubblicita e controlli.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; }
+      .softRed { fill: #F8E8EA; stroke: #E3B9BF; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E8D080; stroke-width: 2.5; }
+      .softGreen { fill: #E7F3ED; stroke: #A8D1BD; stroke-width: 2.5; }
+      .note { fill: #FFF7ED; stroke: #E7C18E; stroke-width: 2.5; }
+      .ink { fill: #0F172A; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 44px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 23px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 25px; font-weight: 800; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 18px; }
+      .tiny { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 16px; }
+      .navy { fill: #10233F; }
+      .bordeaux { fill: #7A2430; }
+      .gold { fill: #D4AF37; }
+      .green { fill: #2F7D5A; }
+      .line { stroke: #94A3B8; stroke-width: 4; stroke-linecap: round; fill: none; }
+      .thin { stroke: #CBD5E1; stroke-width: 2.5; stroke-linecap: round; fill: none; }
+      .arrowNavy { stroke: #10233F; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowNavy); }
+      .arrowBordeaux { stroke: #7A2430; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowBordeaux); }
+      .arrowGold { stroke: #D4AF37; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGold); }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#10233F"/>
+    </marker>
+    <marker id="arrowBordeaux" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#7A2430"/>
+    </marker>
+    <marker id="arrowGold" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#D4AF37"/>
+    </marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <text class="ink title" x="800" y="68" text-anchor="middle">Procedure e intensita delle regole</text>
+  <text class="muted subtitle" x="800" y="108" text-anchor="middle">Importo, complessita e impatto sul mercato aumentano formalita, pubblicita e controlli.</text>
+
+  <rect class="card" x="105" y="190" width="510" height="560" rx="26"/>
+  <text class="navy label" x="360" y="245" text-anchor="middle">Scala operativa</text>
+  <g data-safe-box="170 305 330 72 8">
+    <rect x="170" y="305" width="330" height="72" rx="18" fill="#2F7D5A"/>
+    <text class="label" x="335" y="336" text-anchor="middle" fill="#FFFFFF" style="font-size:21px">Affidamento diretto</text>
+    <text class="small" x="335" y="361" text-anchor="middle" fill="#FFFFFF" style="font-size:17px">semplificato, non arbitrario</text>
+  </g>
+  <g data-safe-box="170 410 370 72 8">
+    <rect x="170" y="410" width="370" height="72" rx="18" fill="#D4AF37"/>
+    <text class="label" x="355" y="441" text-anchor="middle" fill="#FFFFFF" style="font-size:21px">Procedura negoziata</text>
+    <text class="small" x="355" y="466" text-anchor="middle" fill="#FFFFFF" style="font-size:17px">consultazione di operatori</text>
+  </g>
+  <g data-safe-box="170 515 410 72 8">
+    <rect x="170" y="515" width="410" height="72" rx="18" fill="#7A2430"/>
+    <text class="label" x="375" y="546" text-anchor="middle" fill="#FFFFFF" style="font-size:21px">Procedura ristretta</text>
+    <text class="small" x="375" y="571" text-anchor="middle" fill="#FFFFFF" style="font-size:17px">candidati selezionati, poi offerta</text>
+  </g>
+  <g data-safe-box="170 620 450 72 8">
+    <rect x="170" y="620" width="450" height="72" rx="18" fill="#10233F"/>
+    <text class="label" x="395" y="651" text-anchor="middle" fill="#FFFFFF" style="font-size:21px">Procedura aperta</text>
+    <text class="small" x="395" y="676" text-anchor="middle" fill="#FFFFFF" style="font-size:17px">partecipazione piu ampia</text>
+  </g>
+  <path class="arrowNavy" d="M705 665 L705 285"/>
+  <text class="ink label" x="760" y="320">Aumentano</text>
+  <text class="muted body" x="760" y="360">formalita</text>
+  <text class="muted body" x="760" y="392">pubblicita</text>
+  <text class="muted body" x="760" y="424">concorrenza</text>
+  <text class="muted body" x="760" y="456">controlli</text>
+  <g data-safe-box="930 235 470 150 8">
+    <rect class="softRed" x="930" y="235" width="470" height="150" rx="22"/>
+    <rect x="930" y="235" width="470" height="10" rx="5" fill="#7A2430"/>
+    <text class="bordeaux label" x="1165" y="277" text-anchor="middle" style="font-size:24px">Criterio pratico</text>
+    <text class="muted small" x="1165" y="311" text-anchor="middle">piu importo, complessita</text>
+<text class="muted small" x="1165" y="336" text-anchor="middle">o impatto sul mercato</text>
+<text class="muted small" x="1165" y="361" text-anchor="middle">piu procedura strutturata</text>
+  </g>
+  <g data-safe-box="930 445 470 150 8">
+    <rect class="softGold" x="930" y="445" width="470" height="150" rx="22"/>
+    <rect x="930" y="445" width="470" height="10" rx="5" fill="#D4AF37"/>
+    <text class="gold label" x="1165" y="487" text-anchor="middle" style="font-size:24px">Errore da evitare</text>
+    <text class="muted small" x="1165" y="521" text-anchor="middle">sotto soglia non significa</text>
+<text class="muted small" x="1165" y="546" text-anchor="middle">scelta fiduciaria libera</text>
+<text class="muted small" x="1165" y="571" text-anchor="middle">o assenza di motivazione</text>
+  </g>
+  <g data-safe-box="780 675 760 64 8">
+    <rect class="note" x="780" y="675" width="760" height="64" rx="24"/>
+    <text class="ink body" x="1160" y="715" text-anchor="middle" style="font-weight:800;font-size:20px">Prima qualifica oggetto e importo; poi scegli la procedura coerente.</text>
+  </g>
+
+</svg>

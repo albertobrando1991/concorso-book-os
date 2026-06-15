@@ -30,4 +30,3 @@ Giudice amministrativo richiamato nella fonte per valutazioni dirigenziali, oner
 
 ## Stato revisione
 Da collegare a pronunce specifiche verificate.
-

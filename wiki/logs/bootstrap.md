@@ -5,4 +5,3 @@
 - Create tre fonti demo.
 - Creato libro demo con outline e due capitoli.
 - Creati artifact iniziali.
-

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Nuclei ad alto rendimento</title>
+  <desc id="desc">Alcuni snodi sbloccano molti casi: competenza, termini, accesso, dati e tracciabilita.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; }
+      .softRed { fill: #F8E8EA; stroke: #E3B9BF; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E8D080; stroke-width: 2.5; }
+      .softGreen { fill: #E7F3ED; stroke: #A8D1BD; stroke-width: 2.5; }
+      .softTeal { fill: #E4F4F5; stroke: #A3D5D8; stroke-width: 2.5; }
+      .note { fill: #FFF7ED; stroke: #E7C18E; stroke-width: 2.5; }
+      .ink { fill: #0F172A; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 43px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 22px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 25px; font-weight: 800; letter-spacing: 0; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 18px; }
+      .navy { fill: #10233F; }
+      .bordeaux { fill: #7A2430; }
+      .gold { fill: #D4AF37; }
+      .green { fill: #2F7D5A; }
+      .teal { fill: #1F6F78; }
+      .line { stroke: #94A3B8; stroke-width: 4; stroke-linecap: round; fill: none; }
+      .thin { stroke: #CBD5E1; stroke-width: 2.5; stroke-linecap: round; fill: none; }
+      .dash { stroke: #94A3B8; stroke-width: 3.5; stroke-linecap: round; stroke-dasharray: 9 10; fill: none; }
+      .arrowNavy { stroke: #10233F; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowNavy); }
+      .arrowBordeaux { stroke: #7A2430; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowBordeaux); }
+      .arrowGold { stroke: #D4AF37; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGold); }
+      .arrowGreen { stroke: #2F7D5A; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGreen); }
+      .arrowTeal { stroke: #1F6F78; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowTeal); }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#10233F"/>
+    </marker>
+    <marker id="arrowBordeaux" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#7A2430"/>
+    </marker>
+    <marker id="arrowGold" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#D4AF37"/>
+    </marker>
+    <marker id="arrowGreen" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#2F7D5A"/>
+    </marker>
+    <marker id="arrowTeal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#1F6F78"/>
+    </marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <text class="ink title" x="800" y="68" text-anchor="middle">Nuclei ad alto rendimento</text>
+  <text class="muted subtitle" x="800" y="108" text-anchor="middle">Alcuni snodi sbloccano molti casi: competenza, termini, accesso, dati e tracciabilita.</text>
+
+  <rect class="card" x="70" y="165" width="1460" height="630" rx="30"/>
+  <text class="navy label" x="800" y="230" text-anchor="middle">Studia prima gli snodi che tornano in scenari diversi</text>
+  <g data-safe-box="95 285 238 124 8">
+    <rect class="softBlue" x="95" y="285" width="238" height="124" rx="20"/>
+    <rect x="95" y="285" width="238" height="9" rx="4.5" fill="#10233F"/>
+    <text class="navy label" x="214" y="328" text-anchor="middle" style="font-size:20px">Competenza</text>
+    <text class="muted small" x="214" y="363" text-anchor="middle" style="font-size:16px">chi deve agire</text>
+  </g>
+<g data-safe-box="387 285 238 124 8">
+    <rect class="softRed" x="387" y="285" width="238" height="124" rx="20"/>
+    <rect x="387" y="285" width="238" height="9" rx="4.5" fill="#7A2430"/>
+    <text class="bordeaux label" x="506" y="328" text-anchor="middle" style="font-size:20px">Responsabile</text>
+    <text class="muted small" x="506" y="363" text-anchor="middle" style="font-size:16px">istruttoria e tempi</text>
+  </g>
+<g data-safe-box="679 285 238 124 8">
+    <rect class="softGold" x="679" y="285" width="238" height="124" rx="20"/>
+    <rect x="679" y="285" width="238" height="9" rx="4.5" fill="#D4AF37"/>
+    <text class="gold label" x="798" y="328" text-anchor="middle" style="font-size:20px">Termini</text>
+    <text class="muted small" x="798" y="363" text-anchor="middle" style="font-size:16px">gestione del tempo</text>
+  </g>
+<g data-safe-box="971 285 238 124 8">
+    <rect class="softGreen" x="971" y="285" width="238" height="124" rx="20"/>
+    <rect x="971" y="285" width="238" height="9" rx="4.5" fill="#2F7D5A"/>
+    <text class="green label" x="1090" y="328" text-anchor="middle" style="font-size:20px">Motivazione</text>
+    <text class="muted small" x="1090" y="363" text-anchor="middle" style="font-size:16px">perche si decide</text>
+  </g>
+<g data-safe-box="1263 285 238 124 8">
+    <rect class="softTeal" x="1263" y="285" width="238" height="124" rx="20"/>
+    <rect x="1263" y="285" width="238" height="9" rx="4.5" fill="#1F6F78"/>
+    <text class="teal label" x="1382" y="328" text-anchor="middle" style="font-size:20px">Accesso</text>
+    <text class="muted small" x="1382" y="363" text-anchor="middle" style="font-size:16px">documenti e terzi</text>
+  </g>
+<g data-safe-box="95 465 238 124 8">
+    <rect class="softBlue" x="95" y="465" width="238" height="124" rx="20"/>
+    <rect x="95" y="465" width="238" height="9" rx="4.5" fill="#10233F"/>
+    <text class="navy label" x="214" y="508" text-anchor="middle" style="font-size:20px">Privacy</text>
+    <text class="muted small" x="214" y="543" text-anchor="middle" style="font-size:16px">dati e limiti</text>
+  </g>
+<g data-safe-box="387 465 238 124 8">
+    <rect class="softRed" x="387" y="465" width="238" height="124" rx="20"/>
+    <rect x="387" y="465" width="238" height="9" rx="4.5" fill="#7A2430"/>
+    <text class="bordeaux label" x="506" y="508" text-anchor="middle" style="font-size:20px">Trasparenza</text>
+    <text class="muted small" x="506" y="543" text-anchor="middle" style="font-size:16px">pubblicita non totale</text>
+  </g>
+<g data-safe-box="679 465 238 124 8">
+    <rect class="softGold" x="679" y="465" width="238" height="124" rx="20"/>
+    <rect x="679" y="465" width="238" height="9" rx="4.5" fill="#D4AF37"/>
+    <text class="gold label" x="798" y="508" text-anchor="middle" style="font-size:18px">Comportamento</text>
+    <text class="muted small" x="798" y="543" text-anchor="middle" style="font-size:16px">doveri e rischi</text>
+  </g>
+<g data-safe-box="971 465 238 124 8">
+    <rect class="softGreen" x="971" y="465" width="238" height="124" rx="20"/>
+    <rect x="971" y="465" width="238" height="9" rx="4.5" fill="#2F7D5A"/>
+    <text class="green label" x="1090" y="508" text-anchor="middle" style="font-size:20px">Contratti</text>
+    <text class="muted small" x="1090" y="543" text-anchor="middle" style="font-size:16px">RUP e tracciabilita</text>
+  </g>
+<g data-safe-box="1263 465 238 124 8">
+    <rect class="softTeal" x="1263" y="465" width="238" height="124" rx="20"/>
+    <rect x="1263" y="465" width="238" height="9" rx="4.5" fill="#1F6F78"/>
+    <text class="teal label" x="1382" y="508" text-anchor="middle" style="font-size:20px">Riesame</text>
+    <text class="muted small" x="1382" y="543" text-anchor="middle" style="font-size:16px">errore e autotutela</text>
+  </g>
+  <g data-safe-box="250 812 1100 64 8">
+    <rect class="note" x="250" y="812" width="1100" height="64" rx="24"/>
+    <text class="ink body" x="800" y="852" text-anchor="middle" style="font-weight:800;font-size:20px">Il nucleo giusto trasforma una traccia confusa in una sequenza amministrativa leggibile.</text>
+  </g>
+
+</svg>

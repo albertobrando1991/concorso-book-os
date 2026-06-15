@@ -31,4 +31,3 @@ Acronimo e framework centrale: Bando, Aree, Nuclei, Diario, Output.
 
 ## Stato revisione
 Entita canonica del prodotto.
-

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Matrice dei casi ricorrenti</title>
+  <desc id="desc">Ogni scenario va letto per problema, vincolo e output operativo.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; }
+      .softRed { fill: #F8E8EA; stroke: #E3B9BF; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E8D080; stroke-width: 2.5; }
+      .softGreen { fill: #E7F3ED; stroke: #A8D1BD; stroke-width: 2.5; }
+      .softTeal { fill: #E4F4F5; stroke: #A3D5D8; stroke-width: 2.5; }
+      .note { fill: #FFF7ED; stroke: #E7C18E; stroke-width: 2.5; }
+      .ink { fill: #0F172A; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 43px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 22px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 25px; font-weight: 800; letter-spacing: 0; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 18px; }
+      .navy { fill: #10233F; }
+      .bordeaux { fill: #7A2430; }
+      .gold { fill: #D4AF37; }
+      .green { fill: #2F7D5A; }
+      .teal { fill: #1F6F78; }
+      .line { stroke: #94A3B8; stroke-width: 4; stroke-linecap: round; fill: none; }
+      .thin { stroke: #CBD5E1; stroke-width: 2.5; stroke-linecap: round; fill: none; }
+      .dash { stroke: #94A3B8; stroke-width: 3.5; stroke-linecap: round; stroke-dasharray: 9 10; fill: none; }
+      .arrowNavy { stroke: #10233F; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowNavy); }
+      .arrowBordeaux { stroke: #7A2430; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowBordeaux); }
+      .arrowGold { stroke: #D4AF37; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGold); }
+      .arrowGreen { stroke: #2F7D5A; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGreen); }
+      .arrowTeal { stroke: #1F6F78; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowTeal); }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#10233F"/>
+    </marker>
+    <marker id="arrowBordeaux" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#7A2430"/>
+    </marker>
+    <marker id="arrowGold" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#D4AF37"/>
+    </marker>
+    <marker id="arrowGreen" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#2F7D5A"/>
+    </marker>
+    <marker id="arrowTeal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#1F6F78"/>
+    </marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <text class="ink title" x="800" y="68" text-anchor="middle">Matrice dei casi ricorrenti</text>
+  <text class="muted subtitle" x="800" y="108" text-anchor="middle">Ogni scenario va letto per problema, vincolo e output operativo.</text>
+
+  <rect class="card" x="70" y="165" width="1460" height="630" rx="30"/>
+  <text class="navy label" x="800" y="228" text-anchor="middle">Scenario tipico, vincolo dominante, output atteso</text>
+  <g data-safe-box="115 260 315 155 8">
+    <rect class="softBlue" x="115" y="260" width="315" height="155" rx="22"/>
+    <rect x="115" y="260" width="315" height="10" rx="5" fill="#10233F"/>
+    <text class="navy label" x="272.5" y="305" text-anchor="middle" style="font-size:18px">Istanza incompleta</text>
+    <path class="thin" d="M143 332 L402 332"/>
+    <text class="muted small" x="272.5" y="372" text-anchor="middle" style="font-size:16px">integrazione e traccia</text>
+  </g>
+<g data-safe-box="485 260 315 155 8">
+    <rect class="softRed" x="485" y="260" width="315" height="155" rx="22"/>
+    <rect x="485" y="260" width="315" height="10" rx="5" fill="#7A2430"/>
+    <text class="bordeaux label" x="642.5" y="305" text-anchor="middle" style="font-size:20px">Accesso con dati</text>
+    <path class="thin" d="M513 332 L772 332"/>
+    <text class="muted small" x="642.5" y="372" text-anchor="middle" style="font-size:16px">bilancia e oscura</text>
+  </g>
+<g data-safe-box="855 260 315 155 8">
+    <rect class="softGold" x="855" y="260" width="315" height="155" rx="22"/>
+    <rect x="855" y="260" width="315" height="10" rx="5" fill="#D4AF37"/>
+    <text class="gold label" x="1012.5" y="305" text-anchor="middle" style="font-size:20px">Ritardo pratica</text>
+    <path class="thin" d="M883 332 L1142 332"/>
+    <text class="muted small" x="1012.5" y="372" text-anchor="middle" style="font-size:16px">verifica e comunica</text>
+  </g>
+<g data-safe-box="1225 260 315 155 8">
+    <rect class="softGreen" x="1225" y="260" width="315" height="155" rx="22"/>
+    <rect x="1225" y="260" width="315" height="10" rx="5" fill="#2F7D5A"/>
+    <text class="green label" x="1382.5" y="305" text-anchor="middle" style="font-size:18px">Sportello sbagliato</text>
+    <path class="thin" d="M1253 332 L1512 332"/>
+    <text class="muted small" x="1382.5" y="372" text-anchor="middle" style="font-size:16px">orienta al canale</text>
+  </g>
+<g data-safe-box="115 485 315 155 8">
+    <rect class="softTeal" x="115" y="485" width="315" height="155" rx="22"/>
+    <rect x="115" y="485" width="315" height="10" rx="5" fill="#1F6F78"/>
+    <text class="teal label" x="272.5" y="530" text-anchor="middle" style="font-size:20px">Graduatoria</text>
+    <path class="thin" d="M143 557 L402 557"/>
+    <text class="muted small" x="272.5" y="597" text-anchor="middle" style="font-size:16px">canali tracciati</text>
+  </g>
+<g data-safe-box="485 485 315 155 8">
+    <rect class="softBlue" x="485" y="485" width="315" height="155" rx="22"/>
+    <rect x="485" y="485" width="315" height="10" rx="5" fill="#10233F"/>
+    <text class="navy label" x="642.5" y="530" text-anchor="middle" style="font-size:16px">Ufficio non competente</text>
+    <path class="thin" d="M513 557 L772 557"/>
+    <text class="muted small" x="642.5" y="597" text-anchor="middle" style="font-size:16px">inoltra senza inerzia</text>
+  </g>
+<g data-safe-box="855 485 315 155 8">
+    <rect class="softRed" x="855" y="485" width="315" height="155" rx="22"/>
+    <rect x="855" y="485" width="315" height="10" rx="5" fill="#7A2430"/>
+    <text class="bordeaux label" x="1012.5" y="530" text-anchor="middle" style="font-size:20px">Acquisto urgente</text>
+    <path class="thin" d="M883 557 L1142 557"/>
+    <text class="muted small" x="1012.5" y="597" text-anchor="middle" style="font-size:16px">procedura proporzionata</text>
+  </g>
+<g data-safe-box="1225 485 315 155 8">
+    <rect class="softGreen" x="1225" y="485" width="315" height="155" rx="22"/>
+    <rect x="1225" y="485" width="315" height="10" rx="5" fill="#2F7D5A"/>
+    <text class="green label" x="1382.5" y="530" text-anchor="middle" style="font-size:20px">Riesame</text>
+    <path class="thin" d="M1253 557 L1512 557"/>
+    <text class="muted small" x="1382.5" y="597" text-anchor="middle" style="font-size:16px">qualifica la richiesta</text>
+  </g>
+  <g data-safe-box="250 812 1100 64 8">
+    <rect class="note" x="250" y="812" width="1100" height="64" rx="24"/>
+    <text class="ink body" x="800" y="852" text-anchor="middle" style="font-weight:800;font-size:19px">Il caso cambia superficie, ma la domanda vera resta: quale passaggio corretto deve compiere la PA?</text>
+  </g>
+
+</svg>

@@ -32,4 +32,3 @@ La copertura demo e' sufficiente a mostrare il workflow end-to-end, ma il second
 - Aggiungere fonte su lavoro pubblico.
 - Aggiungere fonte su contabilita pubblica negli enti locali.
 - Rieseguire Book Writer Agent dopo consolidamento topic.
-

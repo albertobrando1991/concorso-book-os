@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Archivio minimo in cinque cartelle</title>
+  <desc id="desc">Lo strumento puo cambiare; la struttura deve restare stabile.</desc>
+  <style>
+    .bg { fill: #F8FAFC; }
+    .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+    .title { font: 800 44px Arial, sans-serif; fill: #0F172A; }
+    .subtitle { font: 400 22px Arial, sans-serif; fill: #526174; }
+    .label { font: 800 25px Arial, sans-serif; fill: #0F172A; }
+    .body { font: 400 19px Arial, sans-serif; fill: #0F172A; }
+    .small { font: 400 16px Arial, sans-serif; fill: #0F172A; }
+    .strong { font-weight: 800; }
+    .muted { fill: #526174; }
+    .navy { fill: #10233F; }
+    .line { stroke: #10233F; stroke-width: 6; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+  </style>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#10233F"/>
+    </marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <g data-safe-box="80 16 1440 118 0">
+    <text class="title" x="800" y="68" text-anchor="middle">Archivio minimo in cinque cartelle</text>
+    <text class="subtitle" x="800" y="108" text-anchor="middle">Lo strumento puo cambiare; la struttura deve restare stabile.</text>
+  </g>
+
+    <rect class="card" x="70" y="165" width="1460" height="630" rx="30"/>
+    <text class="label navy" x="800" y="225" text-anchor="middle">Carta, cloud o app: conta la struttura, non lo strumento</text>
+    <g data-safe-box="135 300 230 235 4">
+    <path d="M135 345 Q135 322 159 322 L227 322 Q245 322 259 345 L341 345 Q365 345 365 369 L365 510 Q365 535 340 535 L160 535 Q135 535 135 510 Z" fill="#EAF2FB" stroke="#10233F" stroke-width="3"/>
+    <circle cx="189" cy="386" r="28" fill="#10233F"/>
+    <text class="small strong" x="189" y="393" text-anchor="middle" fill="#FFFFFF">1</text>
+    <text class="label" x="250" y="440" text-anchor="middle" fill="#10233F">Bandi</text>
+    <text class="small" x="250" y="484" text-anchor="middle">decoder, avvisi, date</text>
+  </g>
+<g data-safe-box="405 300 230 235 4">
+    <path d="M405 345 Q405 322 429 322 L497 322 Q515 322 529 345 L611 345 Q635 345 635 369 L635 510 Q635 535 610 535 L430 535 Q405 535 405 510 Z" fill="#F8E8EA" stroke="#7A2430" stroke-width="3"/>
+    <circle cx="459" cy="386" r="28" fill="#7A2430"/>
+    <text class="small strong" x="459" y="393" text-anchor="middle" fill="#FFFFFF">2</text>
+    <text class="label" x="520" y="440" text-anchor="middle" fill="#7A2430">Nucleo comune</text>
+    <text class="small" x="520" y="484" text-anchor="middle">schemi ricorrenti</text>
+  </g>
+<g data-safe-box="675 300 230 235 4">
+    <path d="M675 345 Q675 322 699 322 L767 322 Q785 322 799 345 L881 345 Q905 345 905 369 L905 510 Q905 535 880 535 L700 535 Q675 535 675 510 Z" fill="#FFF4CC" stroke="#D4AF37" stroke-width="3"/>
+    <circle cx="729" cy="386" r="28" fill="#D4AF37"/>
+    <text class="small strong" x="729" y="393" text-anchor="middle" fill="#FFFFFF">3</text>
+    <text class="label" x="790" y="440" text-anchor="middle" fill="#D4AF37">Moduli</text>
+    <text class="small" x="790" y="484" text-anchor="middle">profili attivati</text>
+  </g>
+<g data-safe-box="945 300 230 235 4">
+    <path d="M945 345 Q945 322 969 322 L1037 322 Q1055 322 1069 345 L1151 345 Q1175 345 1175 369 L1175 510 Q1175 535 1150 535 L970 535 Q945 535 945 510 Z" fill="#E7F3ED" stroke="#2F7D5A" stroke-width="3"/>
+    <circle cx="999" cy="386" r="28" fill="#2F7D5A"/>
+    <text class="small strong" x="999" y="393" text-anchor="middle" fill="#FFFFFF">4</text>
+    <text class="label" x="1060" y="440" text-anchor="middle" fill="#2F7D5A">Output</text>
+    <text class="small" x="1060" y="484" text-anchor="middle">quiz, casi, orale</text>
+  </g>
+<g data-safe-box="1215 300 230 235 4">
+    <path d="M1215 345 Q1215 322 1239 322 L1307 322 Q1325 322 1339 345 L1421 345 Q1445 345 1445 369 L1445 510 Q1445 535 1420 535 L1240 535 Q1215 535 1215 510 Z" fill="#E4F4F5" stroke="#1F6F78" stroke-width="3"/>
+    <circle cx="1269" cy="386" r="28" fill="#1F6F78"/>
+    <text class="small strong" x="1269" y="393" text-anchor="middle" fill="#FFFFFF">5</text>
+    <text class="label" x="1330" y="440" text-anchor="middle" fill="#1F6F78">Diario</text>
+    <text class="small" x="1330" y="484" text-anchor="middle">errori e azioni</text>
+  </g>
+    <g data-safe-box="340 590 920 110 10">
+      <rect x="340" y="590" width="920" height="110" rx="22" fill="#FFF7ED" stroke="#EFC58D" stroke-width="3"/>
+      <text class="body strong" x="800" y="635" text-anchor="middle">Tre etichette rapide: core, modulo, solo questo bando</text>
+      <text class="small muted" x="800" y="675" text-anchor="middle">Servono a non trattare tutto come se fosse trasferibile</text>
+    </g>
+    <g data-safe-box="250 812 1100 66 12">
+    <rect x="250" y="812" width="1100" height="66" rx="22" fill="#FFF7ED" stroke="#EFC58D" stroke-width="3"/>
+    <text class="body strong" x="800" y="855" text-anchor="middle">Un archivio utile alleggerisce le decisioni del concorso successivo.</text>
+  </g>
+
+</svg>
