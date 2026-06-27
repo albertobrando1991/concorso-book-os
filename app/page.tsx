@@ -24,12 +24,15 @@ import { parseFrontmatter } from "@/src/server/wiki/frontmatter"
 import { buildKnowledgeGraph } from "@/src/server/wiki/graph"
 import type { DashboardSource } from "@/src/server/wiki/types"
 import { buildBookStudioData } from "@/src/server/book/book-preview"
+import { BookSelector } from "./components/book-selector"
+import { BookCreatorPanel } from "./components/book-creator-panel"
 
 export const dynamic = "force-dynamic"
 
 type HomeProps = {
   searchParams?: Promise<{
     source?: string | string[]
+    bookId?: string | string[]
   }>
 }
 
@@ -50,12 +53,13 @@ const navigation = [
 export default async function Home({ searchParams }: HomeProps) {
   const data = await getDashboardData()
   const store = new FileWikiStore(getWikiRoot())
-  const chapters = await new ManualWriterAgent(store).listChapters()
+  const params = searchParams ? await searchParams : {}
+  const requestedBookId = firstParam(params.bookId) || DEFAULT_BOOK_ID
+  const chapters = await new ManualWriterAgent(store).listChapters(requestedBookId)
   const graph = await buildKnowledgeGraph(store)
-  const bookStudio = await buildBookStudioData(store, DEFAULT_BOOK_ID)
+  const bookStudio = await buildBookStudioData(store, requestedBookId)
   const writerConfig = getWriterConfig()
   const allSources = [...data.sources].sort(compareSources)
-  const params = searchParams ? await searchParams : {}
   const requestedSourcePath = firstParam(params.source)
   const selectedSource = allSources.find((source) => source.path === requestedSourcePath) || allSources[0]
   const sourceReader = selectedSource ? await loadSourceReader(store, selectedSource) : null
@@ -95,9 +99,9 @@ export default async function Home({ searchParams }: HomeProps) {
             <p className="eyebrow">Dominio iniziale: concorsi pubblici italiani</p>
             <h1>Knowledge base agentica per libri incrementali</h1>
           </div>
-          <div className="topActions">
+          <div className="topActions" style={{ display: "flex", flexDirection: "column", gap: "4px" }}>
             <span>Active book</span>
-            <strong>Il Metodo BANDO</strong>
+            <BookSelector books={data.books} currentBookId={requestedBookId} />
           </div>
         </header>
 
@@ -147,6 +151,8 @@ export default async function Home({ searchParams }: HomeProps) {
           </Panel>
         </section>
 
+        <BookCreatorPanel />
+
         <BookStudioPanel
           initialData={bookStudio}
           writerProvider={writerConfig.provider}
@@ -185,13 +191,35 @@ export default async function Home({ searchParams }: HomeProps) {
           </Panel>
 
           <Panel title="Books" icon={<BookOpen size={19} aria-hidden />} id="books">
-            {data.books.map((book) => (
-              <div className="bookBlock" key={book.path}>
-                <strong>{book.title}</strong>
-                <span>{book.chapters} capitoli | {book.status}</span>
-                <small>{book.reviewRequired ? "review_required" : "stable"}</small>
-              </div>
-            ))}
+            <div className="booksGridList" style={{ display: "grid", gap: "10px" }}>
+              {data.books.map((book) => {
+                const bookId = book.path.replace("books/", "").replace("/index.md", "")
+                const active = bookId === requestedBookId
+                return (
+                  <a
+                    href={`/?bookId=${encodeURIComponent(bookId)}`}
+                    className={`bookBlock${active ? " active" : ""}`}
+                    key={book.path}
+                    style={{
+                      display: "block",
+                      border: active ? "1px solid #9ebbe0" : "1px solid var(--line)",
+                      background: active ? "#edf5ff" : "var(--panel)",
+                      borderRadius: "6px",
+                      padding: "12px",
+                      transition: "all 0.15s ease"
+                    }}
+                  >
+                    <strong style={{ display: "block" }}>{book.title}</strong>
+                    <span style={{ display: "block", fontSize: "13px", color: "var(--muted)", marginTop: "4px" }}>
+                      {book.chapters} capitoli | {book.status}
+                    </span>
+                    <small style={{ display: "block", fontSize: "11px", color: book.reviewRequired ? "var(--red)" : "var(--green)", marginTop: "4px", fontWeight: 600 }}>
+                      {book.reviewRequired ? "review_required" : "stable"}
+                    </small>
+                  </a>
+                )
+              })}
+            </div>
           </Panel>
         </section>
 

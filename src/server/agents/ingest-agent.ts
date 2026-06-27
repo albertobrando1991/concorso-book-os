@@ -64,14 +64,17 @@ export class IngestAgent {
   }
 
   private async markImpactedChapters(topics: string[], sourcePath: string) {
-    const chapters = await this.store.listMarkdown(`books/${DEFAULT_BOOK_ID}/chapters`)
-    const impacted: string[] = []
+    const files = await this.store.listMarkdown("books")
+    const chapters = files.filter((item) => item.includes("/chapters/"))
+    const impactedBooks = new Set<string>()
 
     for (const chapterPath of chapters) {
       const content = await this.store.readText(chapterPath)
       const isImpacted = topics.some((topic) => content.toLowerCase().includes(topic.toLowerCase()))
 
       if (!isImpacted) continue
+
+      const bookId = chapterPath.split("/")[1] || DEFAULT_BOOK_ID
 
       await this.store.updateFrontmatter(chapterPath, {
         status: "to_expand",
@@ -83,10 +86,10 @@ export class IngestAgent {
         "Note editoriali",
         `- Da rivedere per nuova fonte [[${sourcePath.replace(".md", "")}]].`
       )
-      impacted.push(chapterPath)
+      impactedBooks.add(bookId)
     }
 
-    return impacted.length > 0 ? [DEFAULT_BOOK_ID] : []
+    return Array.from(impactedBooks)
   }
 }
 

@@ -855,6 +855,350 @@ h1 {
   text-align: center;
 }
 
+.frontMatterPage {
+  padding: 17mm 15mm 18mm;
+}
+
+.frontMatterBrand {
+  position: relative;
+  z-index: 1;
+  border-bottom: 1px solid rgba(212, 175, 55, 0.72);
+  color: var(--book-bordeaux);
+  font-family: var(--book-body);
+  font-size: 9.5px;
+  font-weight: 800;
+  letter-spacing: 0;
+  margin-bottom: 18px;
+  padding-bottom: 6px;
+  text-transform: uppercase;
+}
+
+.frontMatterBlocks {
+  position: relative;
+  z-index: 1;
+  font-size: 11.8px;
+  line-height: 1.38;
+}
+
+.frontMatterBlocks > h3:first-child {
+  color: var(--book-navy);
+  font-family: var(--book-display);
+  font-size: 30px;
+  line-height: 1.08;
+  margin: 8px 0 18px;
+  text-align: center;
+}
+
+.frontMatterBlocks h3 {
+  color: var(--book-bordeaux);
+  font-size: 16px;
+}
+
+.frontMatterBlocks h4 {
+  color: var(--book-navy);
+  font-size: 11.4px;
+}
+
+.frontMatterFooter {
+  color: var(--book-navy);
+}
+
+.frontMatterMeasureHeader {
+  grid-column: 1 / -1;
+  color: var(--book-navy);
+  font-family: var(--book-body);
+  font-size: 10px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.frontMatter-title-page {
+  display: grid;
+  align-content: center;
+  min-height: 100%;
+  padding: 22mm 18mm;
+}
+
+.frontMatter-title-page .frontMatterBrand {
+  position: absolute;
+  top: 17mm;
+  left: 18mm;
+  right: 18mm;
+}
+
+.frontMatter-title-page .frontMatterBlocks {
+  align-self: center;
+  text-align: center;
+}
+
+.frontMatter-title-page .frontMatterBlocks > h3:first-child {
+  color: var(--book-navy);
+  font-size: 42px;
+  margin-bottom: 16px;
+}
+
+.frontMatter-title-page .frontMatterBlocks h3:not(:first-child) {
+  color: var(--book-bordeaux);
+  font-family: var(--book-body);
+  font-size: 15px;
+  margin-top: 42px;
+  text-transform: uppercase;
+}
+
+.frontMatter-title-page .frontMatterBlocks p {
+  max-width: 44ch;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}
+
+.titlePageWordmark {
+  position: absolute;
+  right: 0;
+  bottom: 28mm;
+  left: 0;
+  color: var(--book-navy);
+  font-family: var(--book-display);
+  font-size: 18px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.frontMatter-digital-services {
+  padding: 0;
+}
+
+.digitalServicesHero {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 128px;
+  gap: 18px;
+  min-height: 218px;
+  background: var(--book-navy);
+  color: var(--book-offwhite);
+  padding: 34px 34px 24px;
+}
+
+.digitalHeroCopy h3 {
+  color: var(--book-offwhite);
+  font-family: var(--book-display);
+  font-size: 30px;
+  line-height: 1.05;
+  margin: 0 0 12px;
+}
+
+.digitalHeroCopy p {
+  color: #e7edf6;
+  font-size: 11.4px;
+  line-height: 1.42;
+  margin: 0;
+  text-align: left;
+}
+
+.digitalQrBox {
+  align-self: center;
+  background: #fff;
+  border: 1px solid rgba(212, 175, 55, 0.75);
+  border-radius: 6px;
+  padding: 9px;
+}
+
+.digitalQrBox figure {
+  margin: 0;
+}
+
+.digitalQrBox figure img {
+  width: 100%;
+  max-width: none;
+  max-height: none;
+  border: 0;
+  background: #fff;
+}
+
+.digitalQrBox figcaption {
+  display: none;
+}
+
+.digitalServicesContent {
+  padding: 18px 34px 50px;
+  font-size: 10.7px;
+  line-height: 1.31;
+}
+
+.digitalServicesContent h3 {
+  color: var(--book-bordeaux);
+  font-family: var(--book-body);
+  font-size: 11.5px;
+  margin: 9px 0 5px;
+  text-transform: uppercase;
+}
+
+.digitalServicesContent .previewTable {
+  font-size: 8.7px;
+  line-height: 1.15;
+}
+
+.digitalServicesContent .previewTable th,
+.digitalServicesContent .previewTable td {
+  padding: 3.5px 4px;
+}
+
+.digitalServicesContent .previewCallout {
+  margin: 7px 0 8px;
+  padding: 7px 8px;
+}
+
+.digitalServicesContent .previewCallout strong {
+  font-size: 9.3px;
+}
+
+.digitalServicesContent .previewCallout p,
+.digitalServicesContent li,
+.digitalServicesContent p {
+  font-size: 10.2px;
+  line-height: 1.3;
+}
+
+.frontMatter-summary .frontMatterBlocks,
+.frontMatter-preface .frontMatterBlocks,
+.frontMatter-copyright .frontMatterBlocks {
+  font-size: 11.2px;
+}
+
+.frontMatter-summary .previewTable {
+  font-size: 9.2px;
+  line-height: 1.18;
+}
+
+.frontMatter-summary .previewTable th,
+.frontMatter-summary .previewTable td {
+  padding: 4px 4.5px;
+}
+
+.frontMatter-analytical-index .frontMatterBlocks {
+  font-size: 9.4px;
+  line-height: 1.16;
+}
+
+.frontMatter-analytical-index .frontMatterBlocks > h3:first-child {
+  border-bottom: 2px solid var(--book-gold);
+  color: var(--book-navy);
+  font-size: 27px;
+  margin: 0 0 10px;
+  padding-bottom: 6px;
+}
+
+.indexPart {
+  margin: 12px 0 7px;
+  text-align: center;
+}
+
+.indexPart span,
+.indexPart strong {
+  display: block;
+  font-family: var(--book-body);
+  letter-spacing: 0;
+  line-height: 1.15;
+}
+
+.indexPart span {
+  color: var(--book-bordeaux);
+  font-size: 10px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.indexPart strong {
+  color: var(--book-navy);
+  font-size: 13px;
+  font-weight: 800;
+}
+
+.indexLine {
+  display: flex;
+  align-items: baseline;
+  gap: 5px;
+  font-family: var(--book-body);
+  letter-spacing: 0;
+}
+
+.indexChapterLine {
+  margin: 7px 0 3px;
+  color: var(--book-rich-black);
+  font-size: 10px;
+  font-weight: 800;
+  line-height: 1.16;
+}
+
+.indexSubLine {
+  margin: 1.5px 0;
+  color: #111827;
+  font-size: 9px;
+  font-weight: 500;
+  line-height: 1.14;
+}
+
+.indexChapterLabel {
+  flex: 0 0 56px;
+  color: #334155;
+  font-size: 8.8px;
+  font-weight: 800;
+}
+
+.indexSubNumber {
+  flex: 0 0 30px;
+  color: #334155;
+  font-weight: 700;
+}
+
+.indexLineTitle {
+  min-width: 0;
+  flex: 0 1 auto;
+}
+
+.indexLeader {
+  flex: 1 1 18px;
+  min-width: 14px;
+  border-bottom: 1px dotted rgba(15, 23, 42, 0.72);
+  transform: translateY(-2px);
+}
+
+.indexPageNumber {
+  flex: 0 0 20px;
+  color: var(--book-rich-black);
+  font-weight: 700;
+  text-align: right;
+}
+
+.indexEntry {
+  break-inside: avoid;
+  border-bottom: 1px solid rgba(15, 23, 42, 0.18);
+  padding: 5px 0 6px;
+}
+
+.indexEntry h4 {
+  color: var(--book-navy);
+  font-family: var(--book-body);
+  font-size: 10.1px;
+  font-weight: 800;
+  line-height: 1.15;
+  margin: 0;
+  text-transform: none;
+}
+
+.indexEntryTopics {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5px 7px;
+  margin-top: 3px;
+  color: #334155;
+  font-size: 8.8px;
+  line-height: 1.28;
+}
+
+.indexEntryTopics span:not(:last-child)::after {
+  content: ";";
+}
+
 .missingAsset {
   border-left: 3px solid var(--amber);
   padding: 8px 10px;
@@ -1604,3 +1948,47 @@ meter {
     font-size: 24px;
   }
 }
+
+/* Multi-book styles */
+.bookSelectDropdown {
+  width: 100%;
+  padding: 8px 10px;
+  font-family: inherit;
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--ink);
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  cursor: pointer;
+  outline: none;
+  transition: border-color 0.15s ease;
+}
+
+.bookSelectDropdown:focus {
+  border-color: var(--blue);
+}
+
+.bookCreatorPanel {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  transition: all 0.2s ease;
+}
+
+.bookCreatorPanel header:hover h2 {
+  color: var(--blue);
+}
+
+.bookCreatorForm {
+  background: #fbfcfd;
+  border: 1px dashed var(--line);
+  border-radius: 6px;
+  padding: 16px;
+}
+
+.booksGridList .bookBlock:hover {
+  border-color: #9ebbe0;
+  background: #f4f9ff;
+}
+

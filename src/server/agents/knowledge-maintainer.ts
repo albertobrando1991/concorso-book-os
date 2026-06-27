@@ -38,13 +38,14 @@ export class KnowledgeMaintainer {
           `- Aggiornamento da [[${sourcePath.replace(".md", "")}]]: ${source.summary}`
         )
       } else {
+        const chapterRefs = await this.findChaptersForTopic(topic)
         await this.store.writeText(
           path,
           renderTopicNote({
             topic,
             sourceRefs,
             entities: source.entities,
-            chapterRefs: [`books/${DEFAULT_BOOK_ID}/chapters/${chapterForTopic(topic)}.md`],
+            chapterRefs,
             summary: source.summary
           })
         )
@@ -86,6 +87,27 @@ export class KnowledgeMaintainer {
     await this.updateIndex()
 
     return changedFiles
+  }
+
+  private async findChaptersForTopic(topic: string): Promise<string[]> {
+    const files = await this.store.listMarkdown("books")
+    const chapters: string[] = []
+
+    for (const file of files.filter((item) => item.includes("/chapters/"))) {
+      const content = await this.store.readText(file)
+      const parsed = parseFrontmatter(content)
+      const topics = asStringArray(parsed.data.topics).map((t) => t.toLowerCase())
+
+      if (topics.includes(topic.toLowerCase())) {
+        chapters.push(file)
+      }
+    }
+
+    if (chapters.length === 0) {
+      chapters.push(`books/${DEFAULT_BOOK_ID}/chapters/${chapterForTopic(topic)}.md`)
+    }
+
+    return chapters
   }
 
   async updateIndex() {

@@ -1,4 +1,4 @@
-import { getHermesConfig, getKimiConfig, getOpenAiConfig, getWriterConfig, type WriterProvider } from "../config"
+import { DEFAULT_BOOK_ID, getHermesConfig, getKimiConfig, getOpenAiConfig, getWriterConfig, type WriterProvider } from "../config"
 import { completeWithClaudeCode } from "../llm/claude-code-adapter"
 import { completeWithCodexCli } from "../llm/codex-cli-adapter"
 import { HermesLlmClient } from "../llm/hermes-adapter"
@@ -61,21 +61,27 @@ const ITALIAN_EDITORIAL_QUALITY_RULES = [
 export class ManualWriterAgent {
   constructor(private readonly store: FileWikiStore) {}
 
-  async listChapters(): Promise<ChapterOption[]> {
+  async listChapters(bookId?: string): Promise<ChapterOption[]> {
     const files = await this.store.listMarkdown("books")
     const chapters: ChapterOption[] = []
 
     for (const file of files.filter((item) => item.includes("/chapters/"))) {
       const content = await this.store.readText(file)
       const parsed = parseFrontmatter(content)
+      const data = parsed.data as any
+      const currentBookId = String(data.book_id || data.extra?.book_id || file.split("/")[1] || "unknown")
+
+      if (bookId && currentBookId !== bookId) {
+        continue
+      }
 
       chapters.push({
         path: file,
-        title: String(parsed.data.title || file),
-        bookId: String(parsed.data.book_id || file.split("/")[1] || "unknown"),
-        outlineSection: String(parsed.data.outline_section || ""),
-        status: String(parsed.data.status || "draft"),
-        reviewRequired: Boolean(parsed.data.review_required)
+        title: String(data.title || file),
+        bookId: currentBookId,
+        outlineSection: String(data.outline_section || data.extra?.outline_section || ""),
+        status: String(data.status || "draft"),
+        reviewRequired: Boolean(data.review_required)
       })
     }
 
@@ -202,18 +208,22 @@ export class ManualWriterAgent {
   }
 
   private async loadStructureGuide(chapterPath: string) {
-    if (!chapterPath.startsWith("books/il-metodo-bando/")) return ""
-
-    const path = "books/il-metodo-bando/struttura-madre.md"
+    const bookId = chapterPath.split("/")[1] || DEFAULT_BOOK_ID
+    let path = `books/${bookId}/struttura-madre.md`
+    if (!(await this.store.exists(path))) {
+      path = `books/${DEFAULT_BOOK_ID}/struttura-madre.md`
+    }
     if (!(await this.store.exists(path))) return ""
 
     return this.store.readText(path)
   }
 
   private async loadDesignGuide(chapterPath: string) {
-    if (!chapterPath.startsWith("books/il-metodo-bando/")) return ""
-
-    const path = "books/il-metodo-bando/design-system-editoriale.md"
+    const bookId = chapterPath.split("/")[1] || DEFAULT_BOOK_ID
+    let path = `books/${bookId}/design-system-editoriale.md`
+    if (!(await this.store.exists(path))) {
+      path = `books/${DEFAULT_BOOK_ID}/design-system-editoriale.md`
+    }
     if (!(await this.store.exists(path))) return ""
 
     return this.store.readText(path)
