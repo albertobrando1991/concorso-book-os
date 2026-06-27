@@ -118,11 +118,14 @@ export async function buildBookStudioData(store: FileWikiStore, bookId = "il-met
     const sectionType = file.includes("/front-matter/") || parsed.data.type === "front_matter"
       ? "front_matter"
       : "chapter"
+    const outlineSection = String(parsed.data.outline_section || "")
+
+    if (!shouldIncludeInBookStudio(bookId, sectionType, outlineSection)) continue
 
     chapters.push({
       path: file,
       title: String(parsed.data.title || titleFromPath(file)),
-      outlineSection: String(parsed.data.outline_section || ""),
+      outlineSection,
       sectionType,
       frontMatterLayout: String(parsed.data.front_matter_layout || ""),
       status: String(parsed.data.status || "draft"),
@@ -317,11 +320,25 @@ function indexPartForOutline(value: string) {
       title: "Allenarsi come in prova"
     }
   }
+  if (number <= 22) {
+    return {
+      key: "parte-4",
+      label: "Parte IV",
+      title: "Adattare il metodo ai profili concorsuali"
+    }
+  }
+  if (number <= 24) {
+    return {
+      key: "parte-5",
+      label: "Parte V",
+      title: "Kit finale del candidato"
+    }
+  }
 
   return {
-    key: "parte-4",
-    label: "Parte IV",
-    title: "Sistema adattabile e kit finale"
+    key: "ricettario-digitale",
+    label: "Ricettario digitale",
+    title: "Applicazione avanzata"
   }
 }
 
@@ -916,6 +933,18 @@ function countWords(value: string) {
 
 function compareStudioChapters(left: BookStudioChapter, right: BookStudioChapter) {
   return outlineRank(left.outlineSection) - outlineRank(right.outlineSection) || left.title.localeCompare(right.title)
+}
+
+function shouldIncludeInBookStudio(
+  bookId: string,
+  sectionType: BookStudioChapter["sectionType"],
+  outlineSection: string
+) {
+  if (bookId !== "il-metodo-bando" || sectionType !== "chapter") return true
+
+  const number = Number.parseInt(outlineSection, 10)
+
+  return !Number.isFinite(number) || number <= 24
 }
 
 function outlineRank(value: string) {

@@ -5,6 +5,8 @@ Usala come profilo di lavoro: le source notes e il wiki restano la base canonica
 
 ## Preferenze e istruzioni recenti
 
+- Per Il Metodo BANDO, i moduli specialistici vivono in wiki/books/moduli/<module-id>/ come libri di lavoro separati: 6 famiglie e 25 moduli canonici, con book_id uguale allo slug cartella, index.md e capitoli in chapters/. I moduli applicano libro principale e ricettario a profili, prove e materie specialistiche senza duplicare il nucleo comune. (mem-20260627195628-moduli-specialistici)
+- Per Il Metodo BANDO, i capitoli 1-24 restano nel volume principale senza riduzione strutturale; i capitoli 25-47 gia scritti vanno trattati come Ricettario operativo digitale, moduli R1-R23 collegati al libro e non come corpo cartaceo principale. (mem-20260627190442-ricettario-digitale)
 - Procedi con il prossimo capitolo professionale del Metodo BANDO dopo il Capitolo 43. (mem-20260615122137-kih0gv)
 - Procedi con il prossimo capitolo professionale del Metodo BANDO dopo il Capitolo 42. (mem-20260614201022-i3vvv9)
 - Procedi con il prossimo capitolo professionale del Metodo BANDO dopo il Capitolo 41. (mem-20260614161039-1oxwfiu)

@@ -4,12 +4,12 @@ type: book_structure
 title: "Struttura madre - Il Metodo BANDO"
 status: canonical
 domain: "concorsi pubblici italiani"
-topics: ["metodo bando","struttura libro","nucleo comune concorsi pubblici","prove concorsuali","mappe profilo","moduli integrativi"]
+topics: ["metodo bando","struttura libro","nucleo comune concorsi pubblici","prove concorsuali","mappe profilo","moduli integrativi","ricettario digitale","moduli specialistici"]
 entities: ["Metodo BANDO","Bando Decoder","Moduli Profilo","Piano 30/60/90 giorni","Diario degli errori"]
 source_refs: ["sources/struttura-madre-il-metodo-bando.md","sources/metodo-bando-progetto-editoriale.md"]
-book_refs: ["il-metodo-bando"]
+book_refs: ["il-metodo-bando","moduli-specialistici"]
 confidence: 0.96
-updated_at: 2026-05-10T11:45:00+02:00
+updated_at: 2026-06-27T19:56:28+02:00
 created_at: 2026-05-10T11:45:00+02:00
 review_required: false
 canonical: true
@@ -24,6 +24,27 @@ tags: ["book-structure","outline","metodo-bando"]
 Il sistema pratico per preparare concorsi pubblici diversi senza ricominciare da zero.
 
 Il libro insegna a leggere il bando, costruire il piano, studiare le materie comuni, allenarsi sulle prove e adattare il metodo al proprio profilo.
+
+## Architettura editoriale attuale
+Decisione del 2026-06-27: il prodotto si divide in volume principale autonomo piu [[books/il-metodo-bando/ricettario-digitale|Ricettario operativo digitale]].
+
+Il volume principale mantiene introduzione e capitoli 1-24 senza riduzione strutturale. Deve restare un manuale-workbook completo: metodo, materie comuni essenziali, allenamento alle prove, adattamento ai profili e kit finale.
+
+I capitoli gia scritti dal 25 al 47 non vengono eliminati e non diventano una seconda meta del cartaceo. Vengono riclassificati come moduli digitali di applicazione avanzata: protocolli, checklist, casi, schede, simulazioni, laboratori e strumenti duplicabili collegati ai capitoli del libro.
+
+Terzo livello: [[books/moduli/architettura-moduli-specialistici|moduli specialistici per famiglia concorsuale]]. I moduli sono libri di lavoro separati nella dashboard, con `book_id` autonomo, e servono a sviluppare profili, prove, materie specialistiche e casi tipici senza appesantire il volume principale.
+
+## Moduli specialistici collegati
+La tassonomia canonica dei moduli specialistici normalizza la nuova architettura in 6 famiglie e 25 moduli effettivamente elencati:
+
+- Funzioni Centrali: M-FC01 Ministeri, M-FC02 Agenzie fiscali, M-FC03 Enti pubblici non economici, M-FC04 Giustizia, M-FC05 Authority indipendenti.
+- Funzioni Locali: M-FL01 Comuni e Unioni, M-FL02 Regioni/Province/Citta Metropolitane, M-FL03 Camere di Commercio, M-FL04 Polizia locale.
+- Istruzione e Ricerca: M-IR01 Scuola, M-IR02 Universita e AFAM, M-IR03 Enti di ricerca, M-IR04 Cultura e beni culturali.
+- Sanita: M-SA01 Sanita amministrativa, M-SA02 Professioni sanitarie, M-SA03 Dirigenza medica e sanitaria, M-SA04 Tecnici sanitari e prevenzione.
+- Trasversali: M-TR01 ICT e trasformazione digitale, M-TR02 Appalti/PNRR/Fondi UE, M-TR03 Tecnico-ingegneristico, M-TR04 Ambiente e protezione civile.
+- Carriere Speciali: M-SP01 Polizia/Carabinieri/GdF, M-SP02 Vigili del Fuoco, M-SP03 Magistratura/Avvocatura/Notariato, M-SP04 Prefettizia/Diplomatica.
+
+I moduli MVP da sviluppare per primi sono M-FL01, M-IR01, M-FC03 e M-SA02.
 
 ## Design system editoriale
 Il design system canonico e':

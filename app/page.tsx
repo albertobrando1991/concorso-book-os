@@ -162,6 +162,7 @@ export default async function Home({ searchParams }: HomeProps) {
 
         <ManualWriterPanel
           initialChapters={chapters}
+          activeBookId={requestedBookId}
           writerProvider={writerConfig.provider}
           writerModel={writerConfig.writerModel}
           writerReasoningEffort={writerConfig.writerReasoningEffort}

@@ -562,3 +562,19 @@
 - l0: l0/conv-20260620033316-payn4r.md
 - atoms:
   - mem-20260620033316-1oeucbw | result | Esito codex/ch47-revisione-finale: prossimo capitolo -> Creato Capitolo 47 del Metodo BANDO: Revisione finale: controllare prima di consegnare.
+
+## 2026-06-27T19:04:42+02:00 - manual-writer
+
+- conversation_id: conv-20260627190442-ricettario-digitale
+- route: codex/editorial-architecture-ricettario-digitale
+- l0: l0/conv-20260627190442-ricettario-digitale.md
+- atoms:
+  - mem-20260627190442-ricettario-digitale | instruction | Per Il Metodo BANDO, i capitoli 1-24 restano nel volume principale senza riduzione strutturale; i capitoli 25-47 gia scritti vanno trattati come Ricettario operativo digitale, moduli R1-R23 collegati al libro e non come corpo cartaceo principale.
+
+## 2026-06-27T19:56:28+02:00 - manual-writer
+
+- conversation_id: conv-20260627195628-moduli-specialistici
+- route: codex/editorial-architecture-moduli-specialistici
+- l0: l0/conv-20260627195628-moduli-specialistici.md
+- atoms:
+  - mem-20260627195628-moduli-specialistici | instruction | Per Il Metodo BANDO, i moduli specialistici vivono in wiki/books/moduli/<module-id>/ come libri di lavoro separati: 6 famiglie e 25 moduli canonici, con book_id uguale allo slug cartella, index.md e capitoli in chapters/.

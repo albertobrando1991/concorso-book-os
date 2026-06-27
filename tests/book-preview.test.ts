@@ -64,7 +64,44 @@ describe("book preview assets", () => {
     expect(normalizeAssetPath("books/il-metodo-bando/assets/chapter-01/schema.png")).toBe(
       "books/il-metodo-bando/assets/chapter-01/schema.png"
     )
+    expect(normalizeAssetPath("raw/assets/books/moduli/m-fl01-comuni-unioni/schema.png")).toBe(
+      "raw/assets/books/moduli/m-fl01-comuni-unioni/schema.png"
+    )
     expect(() => normalizeAssetPath("books/il-metodo-bando/chapters/schema.png")).toThrow("Asset path non valido")
+  })
+
+  it("loads nested specialist module books", async () => {
+    const root = await mkdtemp(path.join(os.tmpdir(), "book-preview-module-"))
+
+    try {
+      await mkdir(path.join(root, "books/moduli/m-fl01-comuni-unioni/chapters"), { recursive: true })
+      await writeFile(
+        path.join(root, "books/moduli/m-fl01-comuni-unioni/index.md"),
+        "---\ntitle: M-FL01 - Comuni e Unioni\n---\n# M-FL01",
+        "utf8"
+      )
+      await writeFile(
+        path.join(root, "books/moduli/m-fl01-comuni-unioni/chapters/00-piano-editoriale.md"),
+        [
+          "---",
+          "title: Piano editoriale - M-FL01 Comuni e Unioni",
+          "outline_section: 0",
+          "---",
+          "# Piano editoriale",
+          "",
+          "Questo modulo contiene testo sufficiente per essere caricato come libro annidato nel Book Studio."
+        ].join("\n"),
+        "utf8"
+      )
+
+      const data = await buildBookStudioData(new FileWikiStore(root), "moduli/m-fl01-comuni-unioni")
+
+      expect(data.bookId).toBe("moduli/m-fl01-comuni-unioni")
+      expect(data.title).toBe("M-FL01 - Comuni e Unioni")
+      expect(data.chapters[0].path).toBe("books/moduli/m-fl01-comuni-unioni/chapters/00-piano-editoriale.md")
+    } finally {
+      await rm(root, { recursive: true, force: true })
+    }
   })
 
   it("loads front matter before chapters and generates the analytical index", async () => {
@@ -131,6 +168,19 @@ describe("book preview assets", () => {
         ].join("\n"),
         "utf8"
       )
+      await writeFile(
+        path.join(root, "books/il-metodo-bando/chapters/aggiornare-il-metodo-dopo-il-libro.md"),
+        [
+          "---",
+          "title: Aggiornare il metodo dopo il libro",
+          "outline_section: 25",
+          "---",
+          "# Aggiornare il metodo dopo il libro",
+          "",
+          "Questo modulo appartiene al ricettario digitale e non deve entrare nella preview del volume principale."
+        ].join("\n"),
+        "utf8"
+      )
 
       const data = await buildBookStudioData(new FileWikiStore(root), "il-metodo-bando")
       const index = data.chapters.find((chapter) => chapter.frontMatterLayout === "analytical-index")
@@ -138,6 +188,7 @@ describe("book preview assets", () => {
       expect(data.chapters[0].sectionType).toBe("front_matter")
       expect(data.chapters[0].title).toBe("Servizi digitali inclusi")
       expect(data.chapters[2].title).toBe("Anatomia del bando")
+      expect(data.chapters.some((chapter) => chapter.outlineSection === "25")).toBe(false)
       const indexPart = index?.blocks.find((block) => block.type === "index-part" && block.number === "Parte I")
       const chapterLine = index?.blocks.find((block) => block.type === "index-chapter" && block.text === "Anatomia del bando")
       const row = index?.blocks.find((block) => block.type === "index-row" && block.text === "Lettura del bando")

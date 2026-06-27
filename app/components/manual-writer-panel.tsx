@@ -7,6 +7,7 @@ import type { WriterProvider } from "@/src/server/config"
 
 interface ManualWriterPanelProps {
   initialChapters: ChapterOption[]
+  activeBookId: string
   writerProvider: WriterProvider
   writerModel: string
   writerReasoningEffort: string
@@ -41,6 +42,7 @@ const providerOptions: Array<{ value: WriterProvider; label: string }> = [
 
 export function ManualWriterPanel({
   initialChapters,
+  activeBookId,
   writerProvider,
   writerModel,
   writerReasoningEffort
@@ -57,16 +59,21 @@ export function ManualWriterPanel({
   const [error, setError] = useState("")
 
   useEffect(() => {
+    setChapters(initialChapters)
+    setChapterPath(initialChapters[0]?.path || "")
+  }, [activeBookId, initialChapters])
+
+  useEffect(() => {
     if (initialChapters.length > 0) return
 
-    fetch("/api/manual-writer/chapters")
+    fetch(`/api/manual-writer/chapters?bookId=${encodeURIComponent(activeBookId)}`)
       .then((response) => response.json())
       .then((data: { chapters: ChapterOption[] }) => {
         setChapters(data.chapters)
         setChapterPath(data.chapters[0]?.path || "")
       })
       .catch(() => setError("Impossibile caricare i capitoli."))
-  }, [initialChapters.length])
+  }, [activeBookId, initialChapters.length])
 
   const selectedChapter = useMemo(
     () => chapters.find((chapter) => chapter.path === chapterPath),

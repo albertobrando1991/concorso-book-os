@@ -69,9 +69,10 @@ export class ManualWriterAgent {
       const content = await this.store.readText(file)
       const parsed = parseFrontmatter(content)
       const data = parsed.data as any
-      const currentBookId = String(data.book_id || data.extra?.book_id || file.split("/")[1] || "unknown")
+      const declaredBookId = String(data.book_id || data.extra?.book_id || "")
+      const currentBookId = bookIdFromChapterPath(file) || declaredBookId || "unknown"
 
-      if (bookId && currentBookId !== bookId) {
+      if (bookId && currentBookId !== bookId && declaredBookId !== bookId) {
         continue
       }
 
@@ -208,7 +209,7 @@ export class ManualWriterAgent {
   }
 
   private async loadStructureGuide(chapterPath: string) {
-    const bookId = chapterPath.split("/")[1] || DEFAULT_BOOK_ID
+    const bookId = bookIdFromChapterPath(chapterPath) || DEFAULT_BOOK_ID
     let path = `books/${bookId}/struttura-madre.md`
     if (!(await this.store.exists(path))) {
       path = `books/${DEFAULT_BOOK_ID}/struttura-madre.md`
@@ -219,7 +220,7 @@ export class ManualWriterAgent {
   }
 
   private async loadDesignGuide(chapterPath: string) {
-    const bookId = chapterPath.split("/")[1] || DEFAULT_BOOK_ID
+    const bookId = bookIdFromChapterPath(chapterPath) || DEFAULT_BOOK_ID
     let path = `books/${bookId}/design-system-editoriale.md`
     if (!(await this.store.exists(path))) {
       path = `books/${DEFAULT_BOOK_ID}/design-system-editoriale.md`
@@ -892,6 +893,13 @@ function trimWords(value: string, limit: number) {
 
 function countWords(value: string) {
   return value.split(/\s+/).filter(Boolean).length
+}
+
+function bookIdFromChapterPath(chapterPath: string) {
+  const normalized = chapterPath.replace(/\\/g, "/")
+  const match = normalized.match(/^books\/(.+)\/chapters\/[^/]+\.md$/)
+
+  return match?.[1] || ""
 }
 
 function asStringArray(value: unknown) {

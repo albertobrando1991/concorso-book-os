@@ -1,7 +1,5 @@
 "use client"
 
-import { useRouter } from "next/navigation"
-
 interface BookSelectorProps {
   books: Array<{
     title: string
@@ -11,11 +9,11 @@ interface BookSelectorProps {
 }
 
 export function BookSelector({ books, currentBookId }: BookSelectorProps) {
-  const router = useRouter()
-
   const handleSelect = (e: React.ChangeEvent<HTMLSelectElement>) => {
     const bookId = e.target.value
-    router.push(`/?bookId=${encodeURIComponent(bookId)}`)
+    if (bookId === currentBookId) return
+
+    window.location.assign(`/?bookId=${encodeURIComponent(bookId)}`)
   }
 
   return (

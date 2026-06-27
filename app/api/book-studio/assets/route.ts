@@ -87,5 +87,7 @@ function validateChapterPath(value: string, bookId: string) {
 }
 
 function sanitizeBookId(value: string) {
-  return /^[a-z0-9-]+$/.test(value) ? value : DEFAULT_BOOK_ID
+  const normalized = value.replace(/\\/g, "/").replace(/^\/+|\/+$/g, "")
+
+  return /^[a-z0-9-]+(?:\/[a-z0-9-]+)*$/.test(normalized) ? normalized : DEFAULT_BOOK_ID
 }

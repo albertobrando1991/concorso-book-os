@@ -88,13 +88,14 @@ async function loadTopics(store: FileWikiStore): Promise<DashboardTopic[]> {
 
 async function loadBooks(store: FileWikiStore): Promise<DashboardBook[]> {
   const files = await store.listMarkdown("books")
-  const bookIndexes = files.filter((file) => file.endsWith("/index.md"))
+  const bookIndexes = files.filter((file) => file.endsWith("/index.md") && !file.includes("/_template-"))
   const books: DashboardBook[] = []
 
   for (const file of bookIndexes) {
     const parsed = parseFrontmatter(await store.readText(file))
     const bookFolder = file.replace("/index.md", "")
-    const chapters = (await store.listMarkdown(`${bookFolder}/chapters`)).length
+    const bookId = bookFolder.split("/").pop() || ""
+    const chapters = await countDashboardChapters(store, bookId, bookFolder)
 
     books.push({
       title: String(parsed.data.title || file),
@@ -107,6 +108,24 @@ async function loadBooks(store: FileWikiStore): Promise<DashboardBook[]> {
   }
 
   return books
+}
+
+async function countDashboardChapters(store: FileWikiStore, bookId: string, bookFolder: string) {
+  const chapterFiles = await store.listMarkdown(`${bookFolder}/chapters`)
+
+  if (bookId !== "il-metodo-bando") return chapterFiles.length
+
+  let count = 0
+
+  for (const chapterFile of chapterFiles) {
+    const parsed = parseFrontmatter(await store.readText(chapterFile))
+    const outlineSection = String(parsed.data.outline_section || "")
+    const number = Number.parseInt(outlineSection, 10)
+
+    if (!Number.isFinite(number) || number <= 24) count += 1
+  }
+
+  return count
 }
 
 async function loadLogs(store: FileWikiStore) {

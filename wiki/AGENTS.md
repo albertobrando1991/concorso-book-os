@@ -13,6 +13,22 @@ Regole non negoziabili:
 - Ogni capitolo deve contenere metodo, mappa, esercizio, errore tipico o tool compilabile quando possibile.
 - Le materie sono funzionali alla prova e al metodo, non enciclopedia.
 
+## Architettura editoriale Metodo BANDO
+La linea prodotto canonica e' a tre livelli:
+
+1. Libro principale `books/il-metodo-bando/`: volume autonomo con metodo, materie comuni, prove, adattamento ai profili e kit finale.
+2. Ricettario operativo digitale `books/il-metodo-bando/ricettario-digitale.md`: capitoli 25-47 riclassificati come protocolli, schede, casi, checklist e laboratori.
+3. Moduli specialistici `books/moduli/`: percorsi separati per famiglia concorsuale, lavorabili dalla dashboard come libri autonomi.
+
+Regole per i moduli specialistici:
+- La tassonomia canonica e' `books/moduli/architettura-moduli-specialistici.md`.
+- Ogni modulo deve stare in `books/moduli/<module-id>/` con `index.md` e capitoli in `chapters/`.
+- Il `book_id` dei capitoli deve coincidere con lo slug della cartella modulo.
+- Ogni modulo deve dichiarare `module_code`, `module_family`, `companion_to: il-metodo-bando` e `draft_stage`.
+- I moduli non duplicano il nucleo comune del libro principale: applicano il Metodo BANDO a profili, prove, materie specialistiche e rischi della famiglia.
+- Prima della scrittura finale servono source notes consolidate, topic/entity pages collegate e review umana per norme settoriali, sanita e carriere speciali.
+- La promessa pubblica corretta e': riusabile, aggiornabile, modulare. Evitare formule come copertura totale garantita o aggiornamento automatico.
+
 ## Struttura cartelle
 - `raw/`: sorgenti immutabili. Nessun agente deve modificarle dopo ingest.
 - `sources/`: una source summary note per ogni fonte.

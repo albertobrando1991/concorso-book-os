@@ -1,6 +1,6 @@
 "use client"
 
-import { useLayoutEffect, useMemo, useRef, useState } from "react"
+import { useEffect, useLayoutEffect, useMemo, useRef, useState } from "react"
 import {
   BookOpenCheck,
   FileText,
@@ -98,6 +98,16 @@ export function BookStudioPanel({
   const measureRef = useRef<HTMLDivElement>(null)
   const [measuredPages, setMeasuredPages] = useState<PreviewPage[] | null>(null)
   const previewPages = measuredPages || estimatedPages
+
+  useEffect(() => {
+    setData(initialData)
+    setSelectedPath(initialData.chapters[0]?.path || "")
+    setViewMode("chapter")
+    setMessage("")
+    setError("")
+    setLastResult(null)
+    setMeasuredPages(null)
+  }, [initialData.bookId])
 
   useLayoutEffect(() => {
     setMeasuredPages(null)
