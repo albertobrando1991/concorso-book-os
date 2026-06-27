@@ -4,13 +4,13 @@ type: topic
 title: "schede operative studio"
 status: processed
 domain: "concorsi pubblici italiani"
-topics: ["schede operative studio", "metodo bando", "metodo di studio", "active recall", "diario errori", "risposta concorsuale", "prova scritta teorico pratica", "prova orale", "capitale studio riutilizzabile", "simulazioni concorsuali"]
+topics: ["schede operative studio", "metodo bando", "metodo di studio", "active recall", "diario errori", "risposta concorsuale", "risposta integrata concorsi", "collegamenti materie concorsuali", "prova scritta teorico pratica", "prova orale", "capitale studio riutilizzabile", "simulazioni concorsuali"]
 entities: ["Metodo BANDO", "Bando Decoder", "Diario degli errori", "Piano 30/60/90 giorni"]
-source_refs: ["sources/schede-operative-studio-metodo-bando.md", "sources/apprendimento-efficace-active-recall-ripasso-distribuito.md", "sources/capitale-studio-riutilizzabile-metodo-bando.md", "sources/schema-universale-risposta-orale-metodo-bando.md", "sources/simulazioni-concorsuali-metodo-bando.md"]
+source_refs: ["sources/schede-operative-studio-metodo-bando.md", "sources/apprendimento-efficace-active-recall-ripasso-distribuito.md", "sources/capitale-studio-riutilizzabile-metodo-bando.md", "sources/schema-universale-risposta-orale-metodo-bando.md", "sources/simulazioni-concorsuali-metodo-bando.md", "sources/collegare-materie-risposta-integrata-metodo-bando.md"]
 book_refs: ["il-metodo-bando"]
-chapter_refs: ["books/il-metodo-bando/chapters/schede-operative-trasformare-studio-ed-errori-in-risposte.md"]
+chapter_refs: ["books/il-metodo-bando/chapters/schede-operative-trasformare-studio-ed-errori-in-risposte.md", "books/il-metodo-bando/chapters/collegare-le-materie-dal-programma-alla-risposta-integrata"]
 confidence: 0.9
-updated_at: 2026-06-09T09:45:44+02:00
+updated_at: 2026-06-16T22:01:00+02:00
 created_at: 2026-06-09T09:45:44+02:00
 review_required: true
 canonical: true
@@ -39,6 +39,7 @@ Non e' una copia del manuale. Non e' un riassunto completo. E' uno strumento di 
 | Norma | articoli, principi, soggetti, effetti | spiegazione sicura senza memoria cieca |
 | Procedimento | sequenze, fasi, termini, responsabilita | caso pratico |
 | Confronto | istituti simili | domanda-trappola |
+| Collegamento | argomenti che attraversano piu materie | risposta integrata |
 | Domanda orale | esposizione e collegamenti | risposta da 2 minuti |
 | Errore | lacuna ripetuta | correzione e ripasso |
 | Caso | applicazione concreta | soluzione ordinata |
@@ -62,6 +63,7 @@ Il candidato usa questo topic per decidere:
 
 ## Collegamenti
 - [[sources/schede-operative-studio-metodo-bando]]
+- [[sources/collegare-materie-risposta-integrata-metodo-bando]]
 - [[topics/metodo-bando]]
 - [[topics/metodo-di-studio]]
 - [[topics/diario-errori]]
@@ -71,3 +73,7 @@ Il candidato usa questo topic per decidere:
 - [[topics/capitale-studio-riutilizzabile]]
 - [[topics/simulazioni-concorsuali]]
 - [[books/il-metodo-bando/chapters/schede-operative-trasformare-studio-ed-errori-in-risposte]]
+- [[books/il-metodo-bando/chapters/collegare-le-materie-dal-programma-alla-risposta-integrata]]
+
+## Delta editoriale 2026-06-16
+Il Capitolo 45 aggiunge alla scheda operativa il campo "ponti utili": per ogni argomento ad alta frequenza il candidato deve preparare uno o due collegamenti pertinenti e una frase di ritorno alla domanda.

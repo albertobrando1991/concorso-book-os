@@ -522,3 +522,43 @@
 - l0: l0/conv-20260615122146-11zuqpx.md
 - atoms:
   - mem-20260615122146-1u3cwzr | result | Esito codex/chapter31-editorial-images: prossimo capitolo procedi -> Capitolo 31 Prendere servizio nella PA: dal concorso al ruolo illustrato con 7 figure professionali SVG+PNG in chapter-31: mappa BANDO della presa di servizio, sequenza dal concorso al ruolo, cartella di ingresso, qua...
+
+## 2026-06-16T20:13:12.023Z - manual-writer
+
+- conversation_id: conv-20260616201312-1vz86jl
+- route: codex/ch45-collegare-materie
+- l0: l0/conv-20260616201312-1vz86jl.md
+- atoms:
+  - mem-20260616201312-1tsmgby | result | Esito codex/ch45-collegare-materie: PROSSIMO CAPITOLO PROCEDI -> Creato Capitolo 45 del Metodo BANDO: Collegare le materie: dal programma alla risposta integrata.
+
+## 2026-06-16T23:11:39.534Z - manual-writer
+
+- conversation_id: conv-20260616231139-1ch2u9j
+- route: codex/chapter32-editorial-images
+- l0: l0/conv-20260616231139-1ch2u9j.md
+- atoms:
+  - mem-20260616231139-1qls1lf | result | Esito codex/chapter32-editorial-images: PROSSIMO CAPITOLO PROCEDI -> Capitolo 32 Il tuo sistema BANDO personale illustrato con 7 figure professionali SVG+PNG in chapter-32: mappa BANDO del sistema personale, cinque pagine vive, protocollo 15/30/60, cruscotto BANDO personale, mantieni-a...
+
+## 2026-06-17T14:39:25.856Z - manual-writer
+
+- conversation_id: conv-20260617143925-hzqp8m
+- route: codex/chapter33-editorial-images
+- l0: l0/conv-20260617143925-hzqp8m.md
+- atoms:
+  - mem-20260617143925-1sx4qq | result | Esito codex/chapter33-editorial-images: PROSSIMO CAPITOLO PROCEDI -> Capitolo 33 Manuali, corsi e banche dati: scegliere senza disperdersi illustrato con 7 figure professionali SVG+PNG in chapter-33: mappa BANDO dei materiali, prima bando poi materiale, pila minima, scorecard materiali...
+
+## 2026-06-17T14:41:23.180Z - manual-writer
+
+- conversation_id: conv-20260617144123-g8t0g1
+- route: codex/ch46-domande-impreviste
+- l0: l0/conv-20260617144123-g8t0g1.md
+- atoms:
+  - mem-20260617144123-1rzoyf9 | result | Esito codex/ch46-domande-impreviste: PROSSIMO CAPITOLO PROCEDI -> Creato Capitolo 46 del Metodo BANDO: Domande impreviste: rispondere senza inventare.
+
+## 2026-06-20T03:33:16.240Z - manual-writer
+
+- conversation_id: conv-20260620033316-payn4r
+- route: codex/ch47-revisione-finale
+- l0: l0/conv-20260620033316-payn4r.md
+- atoms:
+  - mem-20260620033316-1oeucbw | result | Esito codex/ch47-revisione-finale: prossimo capitolo -> Creato Capitolo 47 del Metodo BANDO: Revisione finale: controllare prima di consegnare.

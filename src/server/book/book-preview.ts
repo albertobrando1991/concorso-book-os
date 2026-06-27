@@ -6,9 +6,22 @@ import { FileWikiStore } from "../wiki/file-store"
 export type ChapterContentState = "written" | "draft" | "structure"
 
 export interface MarkdownBlock {
-  type: "heading" | "paragraph" | "list" | "image" | "code" | "table" | "callout"
+  type:
+    | "heading"
+    | "paragraph"
+    | "list"
+    | "image"
+    | "code"
+    | "table"
+    | "callout"
+    | "index-entry"
+    | "index-part"
+    | "index-chapter"
+    | "index-row"
   text?: string
   level?: number
+  number?: string
+  pageNumber?: number
   items?: string[]
   ordered?: boolean
   start?: number
@@ -24,6 +37,8 @@ export interface BookStudioChapter {
   path: string
   title: string
   outlineSection: string
+  sectionType: "front_matter" | "chapter"
+  frontMatterLayout: string
   status: string
   draftStage: string
   reviewRequired: boolean
@@ -81,36 +96,48 @@ const STAFF_ONLY_HEADINGS = [
 
 const IMAGE_EXTENSIONS = new Set([".png", ".jpg", ".jpeg", ".webp", ".gif", ".svg"])
 const BOOK_ASSET_PATH = /^books\/[a-z0-9-]+\/assets\//
+const MAX_PREVIEW_BLOCKS = 520
+const INDEX_PAGE_BUDGET = 920
+const INDEX_FIRST_PAGE_HEADER_COST = 150
+const INDEX_RUNNING_HEADER_COST = 34
 
 export async function buildBookStudioData(store: FileWikiStore, bookId = "il-metodo-bando"): Promise<BookStudioData> {
   const bookPath = `books/${bookId}/index.md`
   const bookContent = await store.exists(bookPath).then((exists) => exists ? store.readText(bookPath) : "")
   const book = parseFrontmatter(bookContent)
+  const frontMatterFiles = (await store.listMarkdown(`books/${bookId}/front-matter`))
+    .filter((file) => file.endsWith(".md"))
   const chapterFiles = (await store.listMarkdown(`books/${bookId}/chapters`))
     .filter((file) => file.endsWith(".md"))
   const chapters: BookStudioChapter[] = []
 
-  for (const file of chapterFiles) {
+  for (const file of [...frontMatterFiles, ...chapterFiles]) {
     const content = await store.readText(file)
     const parsed = parseFrontmatter(content)
     const preview = selectPreviewMarkdown(parsed.body)
+    const sectionType = file.includes("/front-matter/") || parsed.data.type === "front_matter"
+      ? "front_matter"
+      : "chapter"
 
     chapters.push({
       path: file,
       title: String(parsed.data.title || titleFromPath(file)),
       outlineSection: String(parsed.data.outline_section || ""),
+      sectionType,
+      frontMatterLayout: String(parsed.data.front_matter_layout || ""),
       status: String(parsed.data.status || "draft"),
       draftStage: String(parsed.data.draft_stage || ""),
       reviewRequired: Boolean(parsed.data.review_required),
       topics: asStringArray(parsed.data.topics),
       sourceRefs: asStringArray(parsed.data.source_refs),
       wordCount: countWords(preview.markdown),
-      contentState: preview.state,
+      contentState: sectionType === "front_matter" && preview.state !== "structure" ? "written" : preview.state,
       blocks: markdownToBlocks(preview.markdown, file)
     })
   }
 
   chapters.sort(compareStudioChapters)
+  hydrateGeneratedFrontMatter(chapters)
   const assets = await listBookAssets(store, bookId)
 
   return {
@@ -128,6 +155,240 @@ export async function buildBookStudioData(store: FileWikiStore, bookId = "il-met
     chapters,
     assets
   }
+}
+
+function hydrateGeneratedFrontMatter(sections: BookStudioChapter[]) {
+  const writtenChapters = sections.filter((section) =>
+    section.sectionType === "chapter" && section.contentState !== "structure"
+  )
+
+  for (const section of sections) {
+    if (section.frontMatterLayout !== "analytical-index") continue
+
+    section.blocks = buildAnalyticalIndexBlocks(writtenChapters)
+    section.wordCount = countBlockWords(section.blocks)
+    section.contentState = "written"
+  }
+}
+
+function buildAnalyticalIndexBlocks(chapters: BookStudioChapter[]): MarkdownBlock[] {
+  const blocks: MarkdownBlock[] = [
+    { type: "heading", level: 2, text: "Indice" }
+  ]
+  const chapterPages = buildChapterPageMap(chapters)
+  let currentPart = ""
+
+  for (const chapterPage of chapterPages) {
+    const { chapter, headings, startPage } = chapterPage
+    const part = indexPartForOutline(chapter.outlineSection)
+    const chapterNumber = chapterNumberFromOutline(chapter.outlineSection)
+
+    if (part && part.key !== currentPart) {
+      currentPart = part.key
+      blocks.push({
+        type: "index-part",
+        number: part.label,
+        text: part.title
+      })
+    }
+
+    blocks.push({
+      type: "index-chapter",
+      number: chapterNumber ? `Capitolo ${chapterNumber}` : "Introduzione",
+      text: chapter.title,
+      pageNumber: startPage
+    })
+
+    headings.forEach((heading, index) => {
+      blocks.push({
+        type: "index-row",
+        number: chapterNumber ? `${chapterNumber}.${index + 1}` : `${index + 1}`,
+        text: stripLeadingHeadingNumber(heading.text),
+        pageNumber: heading.pageNumber
+      })
+    })
+  }
+
+  return blocks
+}
+
+function buildChapterPageMap(chapters: BookStudioChapter[]) {
+  let pageCursor = 1
+
+  return chapters.map((chapter) => {
+    const estimate = estimateChapterPages(chapter, pageCursor)
+    const current = {
+      chapter,
+      startPage: pageCursor,
+      pageCount: estimate.pageCount,
+      headings: estimate.headings
+    }
+    pageCursor += estimate.pageCount
+
+    return current
+  })
+}
+
+function estimateChapterPages(chapter: BookStudioChapter, startPage: number) {
+  const headings: Array<{ text: string; pageNumber: number }> = []
+  let pageOffset = 0
+  let used = INDEX_FIRST_PAGE_HEADER_COST
+
+  for (const block of chapter.blocks) {
+    const cost = estimatePreviewBlockCost(block)
+
+    if (used > INDEX_RUNNING_HEADER_COST && used + cost > INDEX_PAGE_BUDGET) {
+      pageOffset += 1
+      used = INDEX_RUNNING_HEADER_COST
+    }
+
+    if (block.type === "heading" && (block.level || 0) === 2) {
+      const text = cleanIndexText(block.text || "")
+
+      if (isIndexHeading(text, chapter.title)) {
+        headings.push({
+          text,
+          pageNumber: startPage + pageOffset
+        })
+      }
+    }
+
+    used += cost
+  }
+
+  return {
+    headings,
+    pageCount: Math.max(1, pageOffset + 1)
+  }
+}
+
+function estimatePreviewBlockCost(block: MarkdownBlock) {
+  if (block.type === "heading") {
+    const level = block.level || 3
+
+    if (level <= 2) return 52
+    if (level === 3) return 40
+
+    return 32
+  }
+
+  if (block.type === "paragraph") return Math.ceil(countWords(block.text || "") / 13) * 23 + 8
+  if (block.type === "list") {
+    return (block.items || []).reduce((total, item) => total + Math.ceil(countWords(item) / 12) * 19 + 6, 18)
+  }
+  if (block.type === "table") return ((block.rows?.length || 0) + 1) * 28 + 18
+  if (block.type === "image") return 315
+  if (block.type === "callout") return Math.ceil(countWords(`${block.title || ""} ${block.text || ""}`) / 12) * 21 + 34
+  if (block.type === "code") return (block.text || "").split("\n").length * 18 + 24
+
+  return 36
+}
+
+function chapterNumberFromOutline(value: string) {
+  const number = Number.parseInt(value, 10)
+
+  if (!Number.isFinite(number) || number <= 0) return ""
+
+  return String(number)
+}
+
+function indexPartForOutline(value: string) {
+  const number = Number.parseInt(value, 10)
+
+  if (!Number.isFinite(number) || number <= 0) return null
+  if (number <= 3) {
+    return {
+      key: "parte-1",
+      label: "Parte I",
+      title: "Capire il concorso prima di studiare"
+    }
+  }
+  if (number <= 12) {
+    return {
+      key: "parte-2",
+      label: "Parte II",
+      title: "Il nucleo comune dei concorsi pubblici"
+    }
+  }
+  if (number <= 18) {
+    return {
+      key: "parte-3",
+      label: "Parte III",
+      title: "Allenarsi come in prova"
+    }
+  }
+
+  return {
+    key: "parte-4",
+    label: "Parte IV",
+    title: "Sistema adattabile e kit finale"
+  }
+}
+
+function stripLeadingHeadingNumber(value: string) {
+  return value.replace(/^\d+\.\s+/, "").trim()
+}
+
+function cleanIndexText(value: string) {
+  return value.replace(/\*\*/g, "").replace(/\s+/g, " ").trim()
+}
+
+function normalizeIndexText(value: string) {
+  return cleanIndexText(value)
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase()
+}
+
+function isIndexHeading(value: string, chapterTitle: string) {
+  const normalized = normalizeIndexText(value)
+  const normalizedTitle = normalizeIndexText(chapterTitle)
+
+  if (!normalized || normalized === normalizedTitle) return false
+
+  return !INDEX_HEADING_EXCLUSIONS.some((pattern) => pattern.test(normalized))
+}
+
+const INDEX_HEADING_EXCLUSIONS = [
+  /^obiettivi del capitolo$/,
+  /^come usare il metodo bando$/,
+  /^mappa bando$/,
+  /^da sapere in 5 righe$/,
+  /^caso guidato/,
+  /^domanda da commissario/,
+  /^domanda-trappola/,
+  /^errore tipico/,
+  /^errori tipici/,
+  /^mini-esercizio/,
+  /^checkpoint finale/,
+  /^glossario minimo/,
+  /^schema operativo di risposta/,
+  /^confini /,
+  /^priorita di studio/,
+  /^mini-test/,
+  /^10 domande ragionate/,
+  /^domande frequenti/,
+  /^mini-palestra/,
+  /^preparare .* con poco tempo/,
+  /^collegamenti con gli altri capitoli/,
+  /^checklist/,
+  /^\d+\.\s*(qualifica|collega|individua|risposta modello|chiusura operativa)/,
+  /^risposta modello/,
+  /^chiusura operativa/
+]
+
+function countBlockWords(blocks: MarkdownBlock[]) {
+  return blocks.reduce((total, block) => {
+    const values = [
+      block.text || "",
+      block.title || "",
+      ...(block.items || []),
+      ...(block.headers || []),
+      ...(block.rows || []).flat()
+    ]
+
+    return total + countWords(values.join(" "))
+  }, 0)
 }
 
 export function normalizeAssetPath(value: string) {
@@ -407,7 +668,7 @@ function markdownToBlocks(markdown: string, sourcePath: string): MarkdownBlock[]
   flushCallout()
   flushCode()
 
-  return splitOversizedBlocks(blocks).slice(0, 260)
+  return splitOversizedBlocks(blocks).slice(0, MAX_PREVIEW_BLOCKS)
 }
 
 function splitOversizedBlocks(blocks: MarkdownBlock[]) {
@@ -658,9 +919,13 @@ function compareStudioChapters(left: BookStudioChapter, right: BookStudioChapter
 }
 
 function outlineRank(value: string) {
-  if (!value) return 999
-  if (/^\d+$/.test(value)) return Number(value)
-  if (/^[A-Z]$/i.test(value)) return 100 + value.toUpperCase().charCodeAt(0) - 64
+  const normalized = value.trim()
+  const frontMatter = /^FM(\d+)$/i.exec(normalized)
+
+  if (frontMatter) return -100 + Number.parseInt(frontMatter[1], 10)
+  if (!normalized) return 999
+  if (/^\d+$/.test(normalized)) return Number(normalized)
+  if (/^[A-Z]$/i.test(normalized)) return 100 + normalized.toUpperCase().charCodeAt(0) - 64
 
   return 900
 }

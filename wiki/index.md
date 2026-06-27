@@ -1,6 +1,6 @@
 # ConcorsoBook OS Index
 
-Aggiornato: 2026-06-15T14:15:00+02:00
+Aggiornato: 2026-06-19T23:55:00+02:00
 
 ## Sources
 - [[sources/agid-catalogo-linee-guida-cad-e-domicilio-digitale]]
@@ -29,6 +29,9 @@ Aggiornato: 2026-06-15T14:15:00+02:00
 - [[sources/ccnl-comparti-aree-famiglie-professionali-pa]]
 - [[sources/codice-civile-beni-pubblici-demanio-patrimonio]]
 - [[sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024]]
+- [[sources/collegare-materie-risposta-integrata-metodo-bando]]
+- [[sources/domande-impreviste-risposta-sicura-metodo-bando]]
+- [[sources/revisione-finale-risposta-concorsuale-metodo-bando]]
 - [[sources/confrontare-istituti-simili-metodo-bando]]
 - [[sources/contabilita-economico-patrimoniale-universita-enti-pubblici]]
 - [[sources/contabilita-generale-stato-e-bilancio-stato]]
@@ -153,6 +156,9 @@ Aggiornato: 2026-06-15T14:15:00+02:00
 - [[topics/caso-completo-metodo-bando]]
 - [[topics/casi-pratici]]
 - [[topics/checklist-concorsi]]
+- [[topics/collegamenti-materie-concorsuali]]
+- [[topics/domande-impreviste-concorsi]]
+- [[topics/revisione-risposta-concorsuale]]
 - [[topics/competenze-digitali]]
 - [[topics/competenze-trasversali-pa]]
 - [[topics/comprensione-del-testo-concorsuale]]
@@ -300,6 +306,9 @@ Aggiornato: 2026-06-15T14:15:00+02:00
 - [[books/il-metodo-bando/chapters/casi-pratici-problem-solving-amministrativo]]
 - [[books/il-metodo-bando/chapters/caso-completo-bando-dal-bando-alla-prova]]
 - [[books/il-metodo-bando/chapters/checklist-operative]]
+- [[books/il-metodo-bando/chapters/collegare-le-materie-dal-programma-alla-risposta-integrata]]
+- [[books/il-metodo-bando/chapters/domande-impreviste-rispondere-senza-inventare]]
+- [[books/il-metodo-bando/chapters/revisione-finale-controllare-prima-di-consegnare]]
 - [[books/il-metodo-bando/chapters/confrontare-istituti-simili-differenze-che-fanno-punti]]
 - [[books/il-metodo-bando/chapters/contabilita-pubblica-essenziale]]
 - [[books/il-metodo-bando/chapters/contratti-pubblici-essenziali]]

@@ -256,7 +256,7 @@ export function BookStudioPanel({
       </header>
 
       <div className="studioStats" aria-label="Stato libro">
-        <Stat label="Capitoli" value={data.summary.chapters} />
+        <Stat label="Sezioni" value={data.summary.chapters} />
         <Stat label="Scritti" value={data.summary.written} />
         <Stat label="Bozze" value={data.summary.draft} />
         <Stat label="Solo struttura" value={data.summary.structure} />
@@ -265,11 +265,11 @@ export function BookStudioPanel({
       </div>
 
       <div className="bookStudioLayout">
-        <aside className="bookToc" aria-label="Indice manuale">
+        <aside className="bookToc" aria-label="Indice manuale e prime pagine">
           <div className="previewModeToggle">
             <button className={viewMode === "chapter" ? "active" : ""} onClick={() => setViewMode("chapter")}>
               <FileText size={15} aria-hidden />
-              Capitolo
+              Sezione
             </button>
             <button className={viewMode === "book" ? "active" : ""} onClick={() => setViewMode("book")}>
               <BookOpenCheck size={15} aria-hidden />
@@ -287,7 +287,7 @@ export function BookStudioPanel({
                   setViewMode("chapter")
                 }}
               >
-                <span>{chapter.outlineSection ? `${chapter.outlineSection}. ` : ""}{chapter.title}</span>
+                <span>{sectionLabel(chapter)}</span>
                 <small>
                   {chapterStateLabel(chapter.contentState)}
                   {" | "}
@@ -318,21 +318,29 @@ export function BookStudioPanel({
               {previewChapters.map((chapter) => (
                 <div className="paginationMeasureChapter" data-chapter-path={chapter.path} key={chapter.path}>
                   <header className="chapterPreviewHeader paginationFirstHeader">
-                    <span className="chapterNumber">{chapter.outlineSection || "Libro"}</span>
-                    <div>
-                      <h2>{chapter.title}</h2>
-                      <BandoPhaseBar chapter={chapter} />
-                      <p>
-                        {chapterStateLabel(chapter.contentState)}
-                        {" | "}
-                        {chapter.wordCount} parole
-                        {" | "}
-                        {chapter.sourceRefs.length} fonti
-                      </p>
-                    </div>
+                    {chapter.sectionType === "front_matter" ? (
+                      <div className="frontMatterMeasureHeader">
+                        <span>{sectionLabel(chapter)}</span>
+                      </div>
+                    ) : (
+                      <>
+                        <span className="chapterNumber">{chapter.outlineSection || "Libro"}</span>
+                        <div>
+                          <h2>{chapter.title}</h2>
+                          <BandoPhaseBar chapter={chapter} />
+                          <p>
+                            {chapterStateLabel(chapter.contentState)}
+                            {" | "}
+                            {chapter.wordCount} parole
+                            {" | "}
+                            {chapter.sourceRefs.length} fonti
+                          </p>
+                        </div>
+                      </>
+                    )}
                   </header>
                   <div className="runningHeader paginationRunningHeader">
-                    <span>{chapter.outlineSection ? `${chapter.outlineSection}. ` : ""}{chapter.title}</span>
+                    <span>{sectionLabel(chapter)}</span>
                     <span>continua</span>
                   </div>
                   <div className="previewBlocks">
@@ -350,7 +358,7 @@ export function BookStudioPanel({
 
         <aside className="studioControls" aria-label="Controlli revisione libro">
           <section>
-            <span className="panelKicker">Capitolo selezionato</span>
+            <span className="panelKicker">Sezione selezionata</span>
             <h3>{selectedChapter?.title || "Nessun capitolo"}</h3>
             {selectedChapter ? (
               <div className="selectedMeta">
@@ -461,6 +469,12 @@ function chapterStatusLabel(status: string) {
   return labels[status] || status.replaceAll("_", " ")
 }
 
+function sectionLabel(chapter: BookStudioChapter) {
+  if (chapter.sectionType === "front_matter") return chapter.title
+
+  return chapter.outlineSection ? `${chapter.outlineSection}. ${chapter.title}` : chapter.title
+}
+
 function providerStatusLabel(provider: WriterProvider) {
   if (provider === "codex") return "Codex / GPT attivo"
   if (provider === "claude") return "Claude attivo"
@@ -497,6 +511,10 @@ function Stat({ label, value }: { label: string; value: number }) {
 function BookPagePreview({ page }: { page: PreviewPage }) {
   const { chapter } = page
 
+  if (chapter.sectionType === "front_matter") {
+    return <FrontMatterPagePreview page={page} />
+  }
+
   return (
     <article className="bookPage" lang="it">
       {page.isFirstPage ? (
@@ -509,7 +527,7 @@ function BookPagePreview({ page }: { page: PreviewPage }) {
         </header>
       ) : (
         <div className="runningHeader">
-          <span>{chapter.outlineSection ? `${chapter.outlineSection}. ` : ""}{chapter.title}</span>
+          <span>{sectionLabel(chapter)}</span>
           <span>continua</span>
         </div>
       )}
@@ -528,12 +546,137 @@ function BookPagePreview({ page }: { page: PreviewPage }) {
   )
 }
 
+function FrontMatterPagePreview({ page }: { page: PreviewPage }) {
+  const { chapter } = page
+  const layoutClass = frontMatterLayoutClass(chapter.frontMatterLayout)
+
+  if (chapter.frontMatterLayout === "digital-services") {
+    return <DigitalServicesPagePreview page={page} layoutClass={layoutClass} />
+  }
+
+  return (
+    <article className={`bookPage frontMatterPage ${layoutClass}`} lang="it">
+      {page.chapterPageNumber > 1 ? (
+        <div className="runningHeader">
+          <span>{chapter.title}</span>
+          <span>continua</span>
+        </div>
+      ) : null}
+
+      <div className="frontMatterBrand">Capitale Personale</div>
+      <div className="previewBlocks frontMatterBlocks">
+        {page.blocks.map((block, index) => (
+          <PreviewBlock block={block} key={`${chapter.path}-${page.chapterPageNumber}-${index}`} />
+        ))}
+      </div>
+
+      {chapter.frontMatterLayout === "title-page" ? (
+        <div className="titlePageWordmark">Capitale Personale</div>
+      ) : (
+        <footer className="pageFooter frontMatterFooter">
+          <span>www.capitalepersonale.it</span>
+          <span>{page.pageNumber}</span>
+        </footer>
+      )}
+    </article>
+  )
+}
+
+function DigitalServicesPagePreview({ page, layoutClass }: { page: PreviewPage; layoutClass: string }) {
+  const imageIndex = page.blocks.findIndex((block) => block.type === "image")
+  const heroBlocks = imageIndex >= 0 ? page.blocks.slice(0, imageIndex) : page.blocks.slice(0, 2)
+  const imageBlock = imageIndex >= 0 ? page.blocks[imageIndex] : undefined
+  const bodyBlocks = imageIndex >= 0 ? page.blocks.slice(imageIndex + 1) : page.blocks.slice(2)
+
+  return (
+    <article className={`bookPage frontMatterPage ${layoutClass}`} lang="it">
+      <div className="digitalServicesHero">
+        <div className="digitalHeroCopy">
+          {heroBlocks.map((block, index) => (
+            <PreviewBlock block={block} key={`${page.chapter.path}-hero-${index}`} />
+          ))}
+        </div>
+        {imageBlock ? (
+          <div className="digitalQrBox">
+            <PreviewBlock block={imageBlock} />
+          </div>
+        ) : null}
+      </div>
+
+      <div className="previewBlocks digitalServicesContent">
+        {bodyBlocks.map((block, index) => (
+          <PreviewBlock block={block} key={`${page.chapter.path}-${page.chapterPageNumber}-${index}`} />
+        ))}
+      </div>
+
+      <footer className="pageFooter frontMatterFooter">
+        <span>www.capitalepersonale.it</span>
+        <span>{page.pageNumber}</span>
+      </footer>
+    </article>
+  )
+}
+
+function frontMatterLayoutClass(value: string) {
+  const normalized = value.replace(/[^a-z0-9-]/gi, "").toLowerCase()
+
+  return normalized ? `frontMatter-${normalized}` : "frontMatter-standard"
+}
+
 function PreviewBlock({ block }: { block: MarkdownBlock }) {
   if (block.type === "heading") {
     if ((block.level || 2) <= 2) return <h3>{block.text}</h3>
     if (block.level === 3) return <h4>{block.text}</h4>
 
     return <h5>{block.text}</h5>
+  }
+
+  if (block.type === "index-part") {
+    return (
+      <div className="indexPart">
+        {block.number ? <span>{block.number}</span> : null}
+        <strong>{block.text}</strong>
+      </div>
+    )
+  }
+
+  if (block.type === "index-chapter") {
+    return (
+      <div className="indexLine indexChapterLine">
+        <span className="indexChapterLabel">{block.number}</span>
+        <span className="indexLineTitle">{block.text}</span>
+        <span className="indexLeader" aria-hidden />
+        <span className="indexPageNumber">{block.pageNumber}</span>
+      </div>
+    )
+  }
+
+  if (block.type === "index-row") {
+    return (
+      <div className="indexLine indexSubLine">
+        <span className="indexSubNumber">{block.number}</span>
+        <span className="indexLineTitle">{block.text}</span>
+        <span className="indexLeader" aria-hidden />
+        <span className="indexPageNumber">{block.pageNumber}</span>
+      </div>
+    )
+  }
+
+  if (block.type === "index-entry") {
+    const items = block.items || []
+
+    return (
+      <section className="indexEntry">
+        <h4>{block.text}</h4>
+        {items.length > 0 ? (
+          <div className="indexEntryTopics">
+            {items.map((item, index) => (
+              <span key={`${item}-${index}`}>{item}</span>
+            ))}
+          </div>
+        ) : null}
+      </section>
+    )
   }
 
   if (block.type === "list") {
@@ -722,6 +865,14 @@ function paginateMeasuredChapters(chapters: BookStudioChapter[], root: HTMLDivEl
   let pageNumber = 1
 
   chapters.forEach((chapter, chapterIndex) => {
+    if (chapter.sectionType === "front_matter") {
+      for (const page of paginateBlocks(chapter)) {
+        pages.push({ ...page, pageNumber: pageNumber++ })
+      }
+
+      return
+    }
+
     const chapterElement = chapterElements[chapterIndex]
 
     if (!chapterElement || pageBudget <= 0) {
@@ -812,6 +963,15 @@ function paginateBlocksByHeight(
 }
 
 function paginateBlocks(chapter: BookStudioChapter): Array<Omit<PreviewPage, "pageNumber">> {
+  if (chapter.sectionType === "front_matter" && chapter.frontMatterLayout !== "analytical-index") {
+    return [{
+      chapter,
+      blocks: chapter.blocks,
+      chapterPageNumber: 1,
+      isFirstPage: true
+    }]
+  }
+
   const pages: Array<Omit<PreviewPage, "pageNumber">> = []
   let blocks: MarkdownBlock[] = []
   let usedBlockCosts: number[] = []
@@ -872,6 +1032,9 @@ function paginateBlocks(chapter: BookStudioChapter): Array<Omit<PreviewPage, "pa
 function shouldKeepWithNext(block: MarkdownBlock, nextBlock?: MarkdownBlock) {
   if (!nextBlock) return false
 
+  if (block.type === "index-part") return nextBlock.type === "index-chapter"
+  if (block.type === "index-chapter") return nextBlock.type === "index-row"
+
   if (block.type === "heading") {
     return nextBlock.type !== "heading"
   }
@@ -900,6 +1063,23 @@ function estimateBlockCost(block: MarkdownBlock) {
 
   if (block.type === "list") {
     return (block.items || []).reduce((total, item) => total + Math.ceil(wordCount(item) / 12) * 19 + 6, 18)
+  }
+
+  if (block.type === "index-entry") {
+    const items = block.items || []
+    return 36 + Math.ceil(wordCount(block.text || "") / 7) * 9 + Math.ceil(items.length / 2) * 18
+  }
+
+  if (block.type === "index-part") {
+    return 36
+  }
+
+  if (block.type === "index-chapter") {
+    return 21 + Math.max(0, Math.ceil(wordCount(block.text || "") / 10) - 1) * 10
+  }
+
+  if (block.type === "index-row") {
+    return 14 + Math.max(0, Math.ceil(wordCount(block.text || "") / 12) - 1) * 9
   }
 
   if (block.type === "table") {

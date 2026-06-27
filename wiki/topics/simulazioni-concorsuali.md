@@ -4,13 +4,13 @@ type: topic
 title: "simulazioni concorsuali"
 status: processed
 domain: "concorsi pubblici italiani"
-topics: ["simulazioni concorsuali", "metodo bando", "metodo di studio", "prova a quiz", "prova scritta teorico pratica", "prova orale", "casi pratici", "quesiti situazionali", "diario errori", "checklist concorsi"]
+topics: ["simulazioni concorsuali", "metodo bando", "metodo di studio", "prova a quiz", "prova scritta teorico pratica", "prova orale", "domande impreviste concorsi", "gestione incertezza concorsi", "revisione risposta concorsuale", "controllo finale risposta", "casi pratici", "quesiti situazionali", "diario errori", "checklist concorsi"]
 entities: ["Metodo BANDO", "Bando Decoder", "Diario degli errori", "Piano 30/60/90 giorni"]
-source_refs: ["sources/simulazioni-concorsuali-metodo-bando.md", "sources/apprendimento-efficace-active-recall-ripasso-distribuito.md", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md", "sources/checklist-operative-concorsi-metodo-bando.md", "sources/sostenibilita-preparazione-concorsi-metodo-bando.md"]
+source_refs: ["sources/simulazioni-concorsuali-metodo-bando.md", "sources/apprendimento-efficace-active-recall-ripasso-distribuito.md", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md", "sources/checklist-operative-concorsi-metodo-bando.md", "sources/sostenibilita-preparazione-concorsi-metodo-bando.md", "sources/domande-impreviste-risposta-sicura-metodo-bando.md", "sources/revisione-finale-risposta-concorsuale-metodo-bando.md"]
 book_refs: ["il-metodo-bando"]
-chapter_refs: ["books/il-metodo-bando/chapters/simulazioni-concorsuali-dalla-preparazione-alla-prova.md"]
+chapter_refs: ["books/il-metodo-bando/chapters/simulazioni-concorsuali-dalla-preparazione-alla-prova.md", "books/il-metodo-bando/chapters/domande-impreviste-rispondere-senza-inventare", "books/il-metodo-bando/chapters/revisione-finale-controllare-prima-di-consegnare"]
 confidence: 0.89
-updated_at: 2026-06-08T19:34:07+02:00
+updated_at: 2026-06-19T23:55:00+02:00
 created_at: 2026-06-08T19:34:07+02:00
 review_required: true
 canonical: true
@@ -41,6 +41,7 @@ Non coincide con fare esercizi. L'esercizio allena un punto. La simulazione veri
 | Simulazione mista | fase intermedia | gestione di cambio materia e attenzione |
 | Simulazione completa | fase finale | prova quasi reale con timer e correzione |
 | Simulazione post-errore | dopo lacuna ricorrente | verifica della correzione |
+| Simulazione imprevisto | prima di scritto o orale | follow-up, domande laterali e gestione dell'incertezza |
 
 ## Decisioni tipiche
 Il candidato usa questo topic per decidere:
@@ -62,12 +63,24 @@ Il candidato usa questo topic per decidere:
 
 ## Collegamenti
 - [[sources/simulazioni-concorsuali-metodo-bando]]
+- [[sources/domande-impreviste-risposta-sicura-metodo-bando]]
+- [[sources/revisione-finale-risposta-concorsuale-metodo-bando]]
 - [[topics/metodo-bando]]
 - [[topics/metodo-di-studio]]
 - [[topics/prova-a-quiz]]
 - [[topics/prova-scritta-teorico-pratica]]
 - [[topics/prova-orale]]
+- [[topics/domande-impreviste-concorsi]]
+- [[topics/revisione-risposta-concorsuale]]
 - [[topics/casi-pratici]]
 - [[topics/quesiti-situazionali]]
 - [[topics/diario-errori]]
 - [[books/il-metodo-bando/chapters/simulazioni-concorsuali-dalla-preparazione-alla-prova]]
+- [[books/il-metodo-bando/chapters/domande-impreviste-rispondere-senza-inventare]]
+- [[books/il-metodo-bando/chapters/revisione-finale-controllare-prima-di-consegnare]]
+
+## Delta editoriale 2026-06-17
+Il Capitolo 46 aggiunge alle simulazioni il mazzo delle domande laterali: follow-up, esempi, collegamenti, dettagli non ripassati e casi con dati incompleti, sempre con correzione nel Diario dell'incertezza.
+
+## Delta editoriale 2026-06-19
+Il Capitolo 47 aggiunge alle simulazioni la revisione finale 5P: ogni prova simulata deve riservare un minuto al controllo di pertinenza, perimetro, proporzione, precisione e punto finale.

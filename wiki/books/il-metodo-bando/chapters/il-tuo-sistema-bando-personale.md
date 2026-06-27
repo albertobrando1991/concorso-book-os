@@ -9,7 +9,7 @@ entities: ["Metodo BANDO", "Bando Decoder", "Diario degli errori", "Piano 30/60/
 source_refs: ["sources/sistema-bando-personale-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/struttura-madre-il-metodo-bando.md", "sources/capitale-studio-riutilizzabile-metodo-bando.md", "sources/fonti-ufficiali-aggiornamento-metodo-bando-2026-06-03.md", "sources/strumenti-digitali-metodo-bando.md", "sources/sostenibilita-preparazione-concorsi-metodo-bando.md", "sources/checklist-operative-concorsi-metodo-bando.md", "sources/presa-servizio-pa-metodo-bando.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.9
-updated_at: 2026-06-07T19:28:12+02:00
+updated_at: 2026-06-17T01:08:51.1513752+02:00
 created_at: 2026-06-07T19:28:12+02:00
 review_required: true
 canonical: true
@@ -57,6 +57,8 @@ La regola e' questa:
 
 ## Mappa BANDO del sistema personale
 
+![Figura 32.1 - Mappa BANDO del sistema personale: trasformare ogni nuovo bando in Decoder, matrice, nuclei, Diario e output.](../assets/chapter-32/01-mappa-bando-sistema-personale.png)
+
 | Fase | Domanda permanente | Strumento vivo |
 |---|---|---|
 | B - Bando | che cosa chiede davvero questa procedura? | Bando Decoder |
@@ -68,6 +70,8 @@ La regola e' questa:
 Ogni volta che ti senti perso, non cercare un nuovo metodo. Torna a questa tabella.
 
 ## Le cinque pagine vive
+
+![Figura 32.2 - Le cinque pagine vive del sistema BANDO: Decoder, matrice, piano, Diario e archivio capitale.](../assets/chapter-32/02-cinque-pagine-vive.png)
 
 Non devi mantenere vivo tutto il libro.
 
@@ -86,6 +90,8 @@ Se queste cinque pagine sono vive, il sistema respira.
 Se sono ferme da settimane, anche se studi molte ore, il sistema sta perdendo controllo.
 
 ## Il protocollo 15/30/60
+
+![Figura 32.3 - Protocollo 15/30/60: revisioni brevi per settimana, evento importante e correzione strategica.](../assets/chapter-32/03-protocollo-15-30-60.png)
 
 La manutenzione del Metodo BANDO deve essere breve. Se diventa un lavoro parallelo, non la farai.
 
@@ -106,6 +112,8 @@ La revisione da 60 minuti corregge rotta.
 Non usarle al contrario. Non serve fare una revisione strategica ogni volta che sbagli un quiz. Non basta un controllo di 15 minuti quando entra un nuovo bando importante.
 
 ## Il cruscotto personale
+
+![Figura 32.4 - Cruscotto BANDO personale: bandi, prove, output, errori, fonti, capitale, energia e decisione della settimana.](../assets/chapter-32/04-cruscotto-personale.png)
 
 Il tuo sistema deve avere un cruscotto semplice.
 
@@ -129,6 +137,8 @@ Il cruscotto non serve a decorare il metodo. Serve a togliere decisioni dalla te
 Quando non sai che cosa fare, leggi il cruscotto. Se e' vuoto, il problema non e' la motivazione. E' la mancanza di dati.
 
 ## Mantieni, aggiorna, archivia
+
+![Figura 32.5 - Mantieni, aggiorna, archivia: dare a ogni materiale un destino operativo.](../assets/chapter-32/05-mantieni-aggiorna-archivia.png)
 
 Ogni materiale deve avere un destino.
 
@@ -203,6 +213,8 @@ Se uno strumento non aggiorna una delle cinque pagine vive, probabilmente e' rum
 
 ## Il sistema dopo una prova
 
+![Figura 32.6 - Chiudere il sistema dopo una prova: salvare documenti, compilare la scheda, aggiornare Diario e capitale, decidere la prossima mossa.](../assets/chapter-32/06-chiusura-dopo-prova.png)
+
 Dopo ogni prova, il sistema va chiuso.
 
 Non importa se e' andata bene o male. Devi fare quattro passaggi:
@@ -217,6 +229,8 @@ Il risultato senza revisione produce memoria emotiva.
 Il risultato con revisione produce capitale.
 
 ## Il sistema davanti a un nuovo bando
+
+![Figura 32.7 - Nuovo bando: aprire prima il metodo, poi scegliere materiali, corsi, quiz e strumenti.](../assets/chapter-32/07-nuovo-bando-apri-metodo.png)
 
 Quando arriva un nuovo bando, non aprire subito tutti i materiali.
 

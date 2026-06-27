@@ -4,19 +4,19 @@ type: topic
 title: "Risposta sintetica concorsuale"
 status: consolidated
 domain: "concorsi pubblici italiani"
-topics: ["risposta sintetica concorsuale", "domande aperte concorsi", "risposta comparativa concorsi", "confronto istituti simili", "risposta concorsuale", "prova scritta", "lettura traccia", "strategia punteggio prova concorsuale"]
+topics: ["risposta sintetica concorsuale", "domande aperte concorsi", "risposta comparativa concorsi", "revisione risposta concorsuale", "controllo finale risposta", "confronto istituti simili", "risposta concorsuale", "prova scritta", "lettura traccia", "strategia punteggio prova concorsuale"]
 entities: ["Metodo BANDO", "Diario degli errori"]
-source_refs: ["sources/risposta-sintetica-domande-aperte-metodo-bando.md", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md", "sources/schede-operative-studio-metodo-bando.md", "sources/strategia-punteggio-prova-concorsuale-metodo-bando.md", "sources/parole-chiave-concorsi-metodo-bando.md", "sources/confrontare-istituti-simili-metodo-bando.md"]
+source_refs: ["sources/risposta-sintetica-domande-aperte-metodo-bando.md", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md", "sources/schede-operative-studio-metodo-bando.md", "sources/strategia-punteggio-prova-concorsuale-metodo-bando.md", "sources/parole-chiave-concorsi-metodo-bando.md", "sources/confrontare-istituti-simili-metodo-bando.md", "sources/revisione-finale-risposta-concorsuale-metodo-bando.md"]
 book_refs: ["il-metodo-bando"]
-chapter_refs: ["books/il-metodo-bando/chapters/risposta-sintetica-scrivere-poco-dire-tutto.md", "books/il-metodo-bando/chapters/confrontare-istituti-simili-differenze-che-fanno-punti.md"]
+chapter_refs: ["books/il-metodo-bando/chapters/risposta-sintetica-scrivere-poco-dire-tutto.md", "books/il-metodo-bando/chapters/confrontare-istituti-simili-differenze-che-fanno-punti.md", "books/il-metodo-bando/chapters/revisione-finale-controllare-prima-di-consegnare"]
 confidence: 0.9
-updated_at: 2026-06-15T14:15:00+02:00
+updated_at: 2026-06-19T23:55:00+02:00
 created_at: 2026-06-14T22:05:00+02:00
 review_required: true
 canonical: true
 tags: ["topic", "written-exam", "risposta-sintetica", "workbook"]
 parent_topics: ["risposta-concorsuale", "prova-scritta-teorico-pratica"]
-child_topics: ["lettura-traccia", "confronto-istituti-simili", "diario-errori", "schede-operative-studio"]
+child_topics: ["lettura-traccia", "confronto-istituti-simili", "revisione-risposta-concorsuale", "diario-errori", "schede-operative-studio"]
 ---
 
 # Risposta sintetica concorsuale
@@ -60,11 +60,15 @@ La difficolta principale e' la selezione. Il candidato deve togliere il superflu
 
 - [[books/il-metodo-bando/chapters/risposta-sintetica-scrivere-poco-dire-tutto]]
 - [[books/il-metodo-bando/chapters/confrontare-istituti-simili-differenze-che-fanno-punti]]
+- [[books/il-metodo-bando/chapters/revisione-finale-controllare-prima-di-consegnare]]
 - [[books/il-metodo-bando/chapters/prova-scritta-teorico-pratica]]
 - [[books/il-metodo-bando/chapters/schede-operative-trasformare-studio-ed-errori-in-risposte]]
 - [[books/il-metodo-bando/chapters/strategia-di-punteggio-soglie-tempo-rischio-prova]]
 - [[books/il-metodo-bando/chapters/diario-degli-errori]]
 - [[books/il-metodo-bando/chapters/appendice-b-100-parole-chiave-concorsi]]
+
+## Delta editoriale 2026-06-19
+Il Capitolo 47 aggiunge alla risposta sintetica la revisione 5P: controllo di pertinenza, perimetro, proporzione, precisione e punto finale prima della consegna.
 
 ## Stato revisione
 

@@ -9,7 +9,7 @@ entities: ["Metodo BANDO", "Bando Decoder", "Diario degli errori", "inPA"]
 source_refs: ["sources/scelta-materiali-studio-concorsi-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/struttura-madre-il-metodo-bando.md", "sources/metodo-bando-capitolo-13-bozza-sito-2026-05-30.md", "sources/apprendimento-efficace-active-recall-ripasso-distribuito.md", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md", "sources/fonti-ufficiali-aggiornamento-metodo-bando-2026-06-03.md", "sources/strumenti-digitali-metodo-bando.md", "sources/capitale-studio-riutilizzabile-metodo-bando.md", "sources/checklist-operative-concorsi-metodo-bando.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.88
-updated_at: 2026-06-07T19:55:28+02:00
+updated_at: 2026-06-17T16:33:16.6168184+02:00
 created_at: 2026-06-07T19:55:28+02:00
 review_required: true
 canonical: true
@@ -61,6 +61,8 @@ La regola e' questa:
 
 ## La mappa BANDO dei materiali
 
+![Figura 33.1 - Mappa BANDO dei materiali: scegliere manuali, corsi, banche dati e strumenti in funzione di bando, errori e output.](../assets/chapter-33/01-mappa-bando-materiali.png)
+
 Ogni materiale deve entrare nel Metodo BANDO. Se resta fuori, diventa rumore.
 
 | Fase | Domanda | Effetto sulla scelta |
@@ -74,6 +76,8 @@ Ogni materiale deve entrare nel Metodo BANDO. Se resta fuori, diventa rumore.
 Un materiale che non sai collocare in questa tabella non e' ancora pronto per entrare nel tuo piano.
 
 ## Prima il bando, poi il materiale
+
+![Figura 33.2 - Prima il bando, poi il materiale: il piano comanda manuali, corsi, quiz e strumenti.](../assets/chapter-33/02-prima-bando-poi-materiale.png)
 
 Il bando viene prima del materiale per una ragione semplice: il bando decide la partita.
 
@@ -100,6 +104,8 @@ La differenza e' enorme. Nel primo caso il materiale comanda il piano. Nel secon
 
 ## La pila minima
 
+![Figura 33.3 - Pila minima di studio: fonti ufficiali, base ordinata, allenamento, modulo specialistico, Diario e capitale.](../assets/chapter-33/03-pila-minima-studio.png)
+
 Non ti serve una biblioteca personale per ogni concorso.
 
 Ti serve una pila minima.
@@ -118,6 +124,8 @@ Puoi aggiungere materiali solo se rispondono a una mancanza precisa. Non perche 
 
 ## La scorecard prima di scegliere
 
+![Figura 33.4 - Scorecard dei materiali: allineamento al bando, aggiornamento, tracciabilita, formato, correzione e riuso.](../assets/chapter-33/04-scorecard-materiali.png)
+
 Prima di acquistare, aprire o mantenere un materiale, compilane la scorecard.
 
 | Criterio | Domanda | Segnale di rischio |
@@ -134,6 +142,8 @@ Prima di acquistare, aprire o mantenere un materiale, compilane la scorecard.
 Se un materiale fallisce due o tre criteri centrali, non e' un affare. E' una distrazione ben confezionata.
 
 ## Manuali: uno principale, non quattro paralleli
+
+![Figura 33.5 - Materiali, funzione e rischio: manuale, corso, quiz, dispense e AI servono solo se producono output.](../assets/chapter-33/05-funzione-rischio-materiali.png)
 
 Il manuale serve a costruire struttura.
 
@@ -184,6 +194,8 @@ Un corso non deve diventare il nuovo bando.
 Deve servire il tuo piano.
 
 ## Banche dati e quiz
+
+![Figura 33.6 - Banca dati ufficiale o allenamento: quando cambia il piano e quando serve solo per esercitarsi.](../assets/chapter-33/06-banca-dati-ufficiale-non-ufficiale.png)
 
 Qui serve una distinzione netta.
 
@@ -282,6 +294,8 @@ La domanda e': "quale decisione del mio piano rende possibile?".
 Se non rende possibile nessuna decisione, aspetta.
 
 ## Quando eliminare
+
+![Figura 33.7 - Decisione finale sui materiali: tenere, integrare o archiviare in base a bando, output ed errori.](../assets/chapter-33/07-decisione-materiali.png)
 
 Eliminare materiali e' parte del metodo.
 

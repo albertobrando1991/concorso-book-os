@@ -66,4 +66,90 @@ describe("book preview assets", () => {
     )
     expect(() => normalizeAssetPath("books/il-metodo-bando/chapters/schema.png")).toThrow("Asset path non valido")
   })
+
+  it("loads front matter before chapters and generates the analytical index", async () => {
+    const root = await mkdtemp(path.join(os.tmpdir(), "book-preview-front-matter-"))
+
+    try {
+      await mkdir(path.join(root, "books/il-metodo-bando/front-matter"), { recursive: true })
+      await mkdir(path.join(root, "books/il-metodo-bando/chapters"), { recursive: true })
+      await writeFile(
+        path.join(root, "books/il-metodo-bando/index.md"),
+        "---\ntitle: Il Metodo BANDO\n---\n# Il Metodo BANDO",
+        "utf8"
+      )
+      await writeFile(
+        path.join(root, "books/il-metodo-bando/front-matter/01-servizi.md"),
+        [
+          "---",
+          "title: Servizi digitali inclusi",
+          "type: front_matter",
+          "outline_section: FM1",
+          "front_matter_layout: digital-services",
+          "---",
+          "# Accedi ai servizi digitali",
+          "",
+          "Un testo sufficiente per la preview editoriale delle prime pagine del libro.",
+          "",
+          "![QR](../assets/front-matter/qr.png)"
+        ].join("\n"),
+        "utf8"
+      )
+      await writeFile(
+        path.join(root, "books/il-metodo-bando/front-matter/06-indice.md"),
+        [
+          "---",
+          "title: Indice",
+          "type: front_matter",
+          "outline_section: FM6",
+          "front_matter_layout: analytical-index",
+          "---",
+          "# Indice",
+          "",
+          "Indice generato."
+        ].join("\n"),
+        "utf8"
+      )
+      await writeFile(
+        path.join(root, "books/il-metodo-bando/chapters/anatomia-del-bando.md"),
+        [
+          "---",
+          "title: Anatomia del bando",
+          "outline_section: 2",
+          "---",
+          "# Anatomia del bando",
+          "",
+          "Questo capitolo contiene testo sufficiente per essere incluso nella preview del libro.",
+          "",
+          "## Lettura del bando",
+          "",
+          "Paragrafo operativo.",
+          "",
+          "### Requisiti e prove",
+          "",
+          "Sottosezione reale."
+        ].join("\n"),
+        "utf8"
+      )
+
+      const data = await buildBookStudioData(new FileWikiStore(root), "il-metodo-bando")
+      const index = data.chapters.find((chapter) => chapter.frontMatterLayout === "analytical-index")
+
+      expect(data.chapters[0].sectionType).toBe("front_matter")
+      expect(data.chapters[0].title).toBe("Servizi digitali inclusi")
+      expect(data.chapters[2].title).toBe("Anatomia del bando")
+      const indexPart = index?.blocks.find((block) => block.type === "index-part" && block.number === "Parte I")
+      const chapterLine = index?.blocks.find((block) => block.type === "index-chapter" && block.text === "Anatomia del bando")
+      const row = index?.blocks.find((block) => block.type === "index-row" && block.text === "Lettura del bando")
+
+      expect(indexPart?.text).toBe("Capire il concorso prima di studiare")
+      expect(chapterLine?.number).toBe("Capitolo 2")
+      expect(chapterLine?.pageNumber).toBe(1)
+      expect(row?.number).toBe("2.1")
+      expect(row?.pageNumber).toBe(1)
+      expect(index?.blocks.some((block) => block.type === "index-row" && block.text === "Requisiti e prove")).toBe(false)
+    } finally {
+      await rm(root, { recursive: true, force: true })
+    }
+  })
 })
