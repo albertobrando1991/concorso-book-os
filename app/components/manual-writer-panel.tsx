@@ -57,6 +57,7 @@ export function ManualWriterPanel({
   const [isLoading, setIsLoading] = useState(false)
   const [result, setResult] = useState<WriterResult | null>(null)
   const [error, setError] = useState("")
+  const [syncMessage, setSyncMessage] = useState("")
 
   useEffect(() => {
     setChapters(initialChapters)
@@ -84,6 +85,7 @@ export function ManualWriterPanel({
     setIsLoading(true)
     setError("")
     setResult(null)
+    setSyncMessage("")
 
     try {
       const response = await fetch("/api/manual-writer/run", {
@@ -106,6 +108,16 @@ export function ManualWriterPanel({
       }
 
       setResult(payload)
+      const updatedBookId = bookIdFromChapterPath(payload.chapterPath) || activeBookId
+      const nextMessage = `Preview aggiornata: ${payload.chapterPath}`
+      setSyncMessage(nextMessage)
+      window.dispatchEvent(new CustomEvent("book-studio:refresh", {
+        detail: {
+          bookId: updatedBookId,
+          chapterPath: payload.chapterPath,
+          message: nextMessage
+        }
+      }))
     } catch (currentError) {
       setError(currentError instanceof Error ? currentError.message : "Errore sconosciuto")
     } finally {
@@ -181,6 +193,7 @@ export function ManualWriterPanel({
       </button>
 
       {error ? <div className="writerError">{error}</div> : null}
+      {syncMessage ? <div className="studioMessage">{syncMessage}</div> : null}
 
       {result ? (
         <div className="writerResult">
@@ -247,4 +260,11 @@ function providerReasoningLabel(provider: WriterProvider, configuredReasoning: s
   if (provider === "local" || provider === "kimi" || provider === "openai" || provider === "hermes") return "n/a"
 
   return configuredReasoning
+}
+
+function bookIdFromChapterPath(chapterPath: string) {
+  const normalized = chapterPath.replace(/\\/g, "/")
+  const match = normalized.match(/^books\/(.+)\/chapters\/[^/]+\.md$/)
+
+  return match?.[1] || ""
 }

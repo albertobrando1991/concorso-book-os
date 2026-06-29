@@ -1,6 +1,6 @@
 "use client"
 
-import { useEffect, useLayoutEffect, useMemo, useRef, useState } from "react"
+import { useCallback, useEffect, useLayoutEffect, useMemo, useRef, useState } from "react"
 import {
   BookOpenCheck,
   FileText,
@@ -28,6 +28,12 @@ interface WriterResult {
   draft: string
   warnings: string[]
   revisionDiff?: RevisionDiffSummary
+}
+
+interface BookStudioRefreshDetail {
+  bookId?: string
+  chapterPath?: string
+  message?: string
 }
 
 type ViewMode = "chapter" | "book"
@@ -159,7 +165,7 @@ export function BookStudioPanel({
     }
   }, [previewChapters])
 
-  async function refreshStudio() {
+  const refreshStudio = useCallback(async (preferredPath = selectedPath, nextMessage = "") => {
     setIsRefreshing(true)
     setError("")
 
@@ -172,15 +178,36 @@ export function BookStudioPanel({
       }
 
       setData(payload)
-      if (!payload.chapters.some((chapter: BookStudioChapter) => chapter.path === selectedPath)) {
+      if (payload.chapters.some((chapter: BookStudioChapter) => chapter.path === preferredPath)) {
+        setSelectedPath(preferredPath)
+      } else if (!payload.chapters.some((chapter: BookStudioChapter) => chapter.path === selectedPath)) {
         setSelectedPath(payload.chapters[0]?.path || "")
+      }
+      if (nextMessage) {
+        setMessage(nextMessage)
       }
     } catch (currentError) {
       setError(currentError instanceof Error ? currentError.message : "Errore sconosciuto")
     } finally {
       setIsRefreshing(false)
     }
-  }
+  }, [data.bookId, selectedPath])
+
+  useEffect(() => {
+    function handleBookStudioRefresh(event: Event) {
+      const detail = (event as CustomEvent<BookStudioRefreshDetail>).detail
+      if (!detail?.bookId || detail.bookId !== data.bookId) return
+
+      void refreshStudio(
+        detail.chapterPath || selectedPath,
+        detail.message || "Preview aggiornata dopo Manual Writer."
+      )
+    }
+
+    window.addEventListener("book-studio:refresh", handleBookStudioRefresh)
+
+    return () => window.removeEventListener("book-studio:refresh", handleBookStudioRefresh)
+  }, [data.bookId, refreshStudio, selectedPath])
 
   async function runWriterRequest() {
     if (!selectedChapter) return
@@ -212,7 +239,7 @@ export function BookStudioPanel({
 
       setLastResult(payload)
       setMessage("Capitolo aggiornato. Anteprima ricaricata dal vault.")
-      await refreshStudio()
+      await refreshStudio(selectedChapter.path)
     } catch (currentError) {
       setError(currentError instanceof Error ? currentError.message : "Errore sconosciuto")
     } finally {
@@ -261,7 +288,7 @@ export function BookStudioPanel({
       setLastResult(payload)
       setRevisionStatus("Modifiche ricevute. Aggiorno preview e differenze.")
       setMessage(revisionResultMessage(payload))
-      await refreshStudio()
+      await refreshStudio(selectedChapter.path)
     } catch (currentError) {
       setError(currentError instanceof Error ? currentError.message : "Errore sconosciuto")
     } finally {
@@ -297,7 +324,7 @@ export function BookStudioPanel({
       setImageFile(null)
       setCaption("")
       setMessage(`Immagine aggiunta: ${payload.asset.path}`)
-      await refreshStudio()
+      await refreshStudio(selectedChapter.path)
     } catch (currentError) {
       setError(currentError instanceof Error ? currentError.message : "Errore sconosciuto")
     } finally {
@@ -317,7 +344,7 @@ export function BookStudioPanel({
             <BookOpenCheck size={18} aria-hidden />
             <span>{providerStatusLabel(selectedProvider)}</span>
           </span>
-          <button className="studioIconButton" onClick={refreshStudio} disabled={isRefreshing} title="Aggiorna anteprima">
+          <button className="studioIconButton" onClick={() => refreshStudio()} disabled={isRefreshing} title="Aggiorna anteprima">
             {isRefreshing ? <Loader2 size={17} className="spin" aria-hidden /> : <RefreshCw size={17} aria-hidden />}
           </button>
         </div>

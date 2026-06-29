@@ -9,36 +9,35 @@ entities: ["Bando Decoder","inPA"]
 source_refs: ["sources/struttura-madre-il-metodo-bando.md","sources/metodo-bando-progetto-editoriale.md","sources/d-p-r-9-maggio-1994-n-487-accesso-agli-impieghi-pubblici-e-concorsi.md","sources/d-p-r-16-giugno-2023-n-82-modifiche-al-d-p-r-487-1994-sui-concorsi.md","sources/d-p-r-28-dicembre-2000-n-445-documentazione-amministrativa.md","sources/d-lgs-7-marzo-2005-n-82-amministrazione-digitale.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.92
-updated_at: 2026-05-28T17:35:00+02:00
+updated_at: "2026-06-29T15:08:07.596Z"
 created_at: "2026-05-09T01:05:00.000Z"
 review_required: true
 canonical: true
 tags: ["book-chapter","workbook","editorial-review"]
 book_id: il-metodo-bando
 outline_section: 2
-draft_stage: reviewed-editorial-draft
+draft_stage: humanized-editorial-revision
 last_compiled_from: ["topics/anatomia-del-bando.md","topics/bando-decoder.md","sources/d-p-r-9-maggio-1994-n-487-accesso-agli-impieghi-pubblici-e-concorsi.md","sources/d-p-r-16-giugno-2023-n-82-modifiche-al-d-p-r-487-1994-sui-concorsi.md"]
 last_editorial_review: "2026-05-25T15:20:00Z"
+last_humanizer_revision: "2026-06-29T15:08:07.596Z"
 ---
-
 # Capitolo 2 - Anatomia del bando
-
 
 ## Perché il bando viene prima del manuale
 
-Il bando è il documento più importante del concorso. Non perché sia il più facile da leggere, ma perché decide tutto ciò che viene dopo: se puoi partecipare, quanto tempo hai, quali prove affronterai, quali materie pesano, quali documenti devi preparare e quale strategia di studio ha senso.
+Il bando è il documento più importante del concorso. Non perché sia il più semplice da leggere, ma perché decide ciò che viene dopo: se puoi partecipare, quanto tempo hai, quali prove affronterai, quali materie pesano, quali documenti devi preparare e quale strategia di studio ha senso.
 
-Il candidato medio scarica il bando, lo scorre velocemente e poi cerca subito un manuale o una banca dati. Il candidato forte fa l’opposto: prima smonta il bando, poi decide come studiare. Questa è una delle differenze più concrete tra preparazione generica e preparazione professionale.
+Il candidato medio scarica il bando, lo scorre in fretta e cerca subito un manuale o una banca dati. Il candidato preparato fa il contrario: prima smonta il bando, poi decide come studiare. Qui si vede subito la differenza tra una preparazione generica e una preparazione professionale.
 
-Il bando non è un testo da “capire più o meno”. È una mappa di lavoro. Se lo leggi male, puoi studiare materie sbagliate, ignorare una soglia, sottovalutare l’orale, perdere una scadenza o candidarti a un profilo che non è davvero coerente con il tuo tempo e con le tue competenze.
+Il bando non è un testo da "capire più o meno". È una mappa di lavoro. Se lo leggi male, puoi studiare materie sbagliate, ignorare una soglia, sottovalutare l’orale, perdere una scadenza o candidarti a un profilo che non è coerente con il tuo tempo e con le tue competenze.
 
 ![Schema che confronta la partenza debole dal manuale generico con la partenza professionale dal bando.](../assets/chapter-02/01-bando-prima-del-manuale.png)
 
 > *Figura 2.1 - Il bando viene prima del manuale perché decide requisiti, prove, materie e piano.*
 
-## La domanda giusta non è “che cosa devo studiare?”
+## La domanda giusta non è "che cosa devo studiare?"
 
-La prima domanda non è “quale manuale compro?”. La prima domanda è: “che cosa mi chiede questo bando e quale decisione devo prendere?”.
+La prima domanda non è "quale manuale compro?". La prima domanda è: "che cosa mi chiede questo bando e quale decisione devo prendere?".
 
 Un bando serve a rispondere a quattro domande operative:
 
@@ -82,9 +81,9 @@ Questo controllo deve essere freddo. Non devi innamorarti del concorso prima di 
 
 ## Seconda lettura: profilo, lavoro reale e livello atteso
 
-Il nome del concorso non basta. Devi capire quale figura l’amministrazione sta cercando. Un “istruttore amministrativo”, un “funzionario amministrativo-contabile”, un “assistente tecnico”, un profilo digitale o una posizione dirigenziale non richiedono lo stesso tipo di preparazione.
+Il nome del concorso non basta. Devi capire quale figura l’amministrazione sta cercando. Un "istruttore amministrativo", un "funzionario amministrativo-contabile", un "assistente tecnico", un profilo digitale o una posizione dirigenziale non richiedono la stessa preparazione.
 
-Il profilo ti dice come verranno usate le materie. Il diritto amministrativo può essere richiesto come base nozionistica, come capacità di gestire un procedimento o come capacità di risolvere un caso. Il pubblico impiego può essere una materia da quiz, ma può anche diventare un problema situazionale su doveri, conflitto di interessi o responsabilità.
+Il profilo ti dice come verranno usate le materie. Il diritto amministrativo può essere richiesto come base nozionistica, come capacità di gestire un procedimento o come capacità di risolvere un caso. Il pubblico impiego può comparire in un quiz, ma può anche diventare un problema situazionale su doveri, conflitto di interessi o responsabilità.
 
 Per questo motivo, nella lettura del bando devi sempre collegare tre elementi:
 
@@ -109,7 +108,7 @@ Non basta sapere che ci sarà una prova. Devi leggere punteggi e soglie. Una mat
 
 ## Classificare le materie: obbligatorie, probabili, accessorie, killer, solo orali
 
-Una delle funzioni più importanti del Bando Decoder è trasformare la lista delle materie in una gerarchia. La lista del bando spesso sembra piatta: diritto amministrativo, Costituzione, enti locali, pubblico impiego, trasparenza, informatica, inglese. Ma nel piano di studio queste materie non hanno tutte lo stesso peso.
+Il Bando Decoder serve a trasformare la lista delle materie in una gerarchia. La lista del bando spesso sembra piatta: diritto amministrativo, Costituzione, enti locali, pubblico impiego, trasparenza, informatica, inglese. Nel piano di studio, però, queste materie non hanno tutte lo stesso peso.
 
 | Tipo di materia | Come la riconosci | Come la studi |
 |---|---|---|
@@ -119,7 +118,7 @@ Una delle funzioni più importanti del Bando Decoder è trasformare la lista del
 | **Killer** | Può eliminare molti candidati o generare errori frequenti. | Va affrontata presto, con esercizi e ripassi. |
 | **Solo orale** | È più utile per collegamenti e colloquio finale. | Va preparata con risposte brevi e ordinate. |
 
-Questa classificazione è più importante della quantità di pagine. Una materia breve può essere killer. Una materia molto ampia può richiedere selezione, non studio enciclopedico.
+Questa classificazione conta più della quantità di pagine. Una materia breve può essere killer. Una materia molto ampia può richiedere selezione, non studio enciclopedico.
 
 ![Schema per classificare le materie del bando in obbligatorie, probabili, accessorie, killer e solo orali.](../assets/chapter-02/04-gerarchia-materie-bando.png)
 
@@ -185,11 +184,11 @@ Il Bando Decoder è la doppia pagina che trasforma il bando in piano. Non è una
 
 Immagina un bando per istruttore amministrativo presso un Comune. Il bando prevede una prova scritta a quiz e una prova orale. Le materie indicate sono: diritto amministrativo, ordinamento degli enti locali, pubblico impiego, trasparenza e anticorruzione, informatica e inglese.
 
-Il candidato debole inizia da un manuale generale. Il candidato strategico compila il Bando Decoder.
+Il candidato debole parte da un manuale generale. Il candidato strategico compila il Bando Decoder.
 
-Prima verifica il titolo di studio e la scadenza. Poi legge le prove: se lo scritto è a quiz, deve allenare rapidità, memoria e riconoscimento delle alternative sbagliate. Se l’orale è previsto, deve preparare anche risposte brevi e collegamenti. A questo punto classifica le materie: diritto amministrativo ed enti locali sono obbligatorie; trasparenza e anticorruzione possono diventare killer; informatica e inglese richiedono blocchi brevi ma costanti.
+Prima verifica il titolo di studio e la scadenza. Poi legge le prove: se lo scritto è a quiz, deve allenare rapidità, memoria e riconoscimento delle alternative sbagliate. Se è previsto l’orale, deve preparare anche risposte brevi e collegamenti. A questo punto classifica le materie: diritto amministrativo ed enti locali sono obbligatorie; trasparenza e anticorruzione possono diventare killer; informatica e inglese richiedono blocchi brevi ma costanti.
 
-La decisione non è “studiare tutto”. La decisione è: partire dalle materie che decidono lo scritto, costruire un diario errori, preparare l’orale fin dall’inizio con risposte sintetiche e controllare ogni comunicazione ufficiale dell’ente.
+La decisione non è "studiare tutto". La decisione è partire dalle materie che decidono lo scritto, costruire un diario errori, preparare l’orale fin dall’inizio con risposte sintetiche e controllare ogni comunicazione ufficiale dell’ente.
 
 ## Checklist prima della domanda
 
@@ -235,7 +234,7 @@ Prendi un bando reale o fittizio e compila questa scheda in dieci minuti.
 
 ## Errore tipico
 
-L’errore tipico è leggere il bando come un ostacolo burocratico. In realtà il bando è il primo strumento di selezione anche per il candidato: ti dice se vale la pena partecipare, come organizzare il tempo e dove rischi di sbagliare.
+L’errore tipico è leggere il bando come un ostacolo burocratico. In realtà il bando è già il primo strumento di selezione per il candidato: ti dice se vale la pena partecipare, come organizzare il tempo e dove rischi di sbagliare.
 
 ## Da sapere in 5 righe
 
