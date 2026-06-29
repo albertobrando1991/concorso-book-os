@@ -28,6 +28,12 @@ export interface ManualWriterInput {
   provider?: WriterProvider
 }
 
+export interface ManualRevisionInput {
+  chapterPath: string
+  instruction?: string
+  provider?: WriterProvider
+}
+
 export interface ManualWriterResult {
   status: "completed"
   chapterPath: string
@@ -37,6 +43,22 @@ export interface ManualWriterResult {
   writerProvider: WriterProvider
   memoryUsed: string[]
   warnings: string[]
+  revisionDiff?: RevisionDiffSummary
+}
+
+export interface RevisionDiffSummary {
+  changed: boolean
+  additions: number
+  deletions: number
+  beforeWordCount: number
+  afterWordCount: number
+  previewLines: RevisionDiffLine[]
+}
+
+export interface RevisionDiffLine {
+  type: "added" | "removed"
+  lineNumber: number
+  text: string
 }
 
 interface KnowledgeItem {
@@ -177,6 +199,103 @@ export class ManualWriterAgent {
       writerProvider: generation.provider,
       memoryUsed: memoryRecall.memories.map((item) => item.id),
       warnings: generation.warnings
+    }
+  }
+
+  async reviseChapter(input: ManualRevisionInput): Promise<ManualWriterResult> {
+    if (!input.chapterPath.startsWith("books/") || !input.chapterPath.endsWith(".md")) {
+      throw new Error("Manual Writer Agent can only revise markdown files under books/")
+    }
+
+    if (!(await this.store.exists(input.chapterPath))) {
+      throw new Error(`Chapter not found: ${input.chapterPath}`)
+    }
+
+    const chapterContent = await this.store.readText(input.chapterPath)
+    const chapter = parseFrontmatter(chapterContent)
+    const chapterBody = extractMarkdownBody(chapterContent)
+    const knowledge = await this.loadKnowledgePack(chapter.data)
+    const structureGuide = await this.loadStructureGuide(input.chapterPath)
+    const designGuide = await this.loadDesignGuide(input.chapterPath)
+    const memory = LocalAgentMemory.fromConfig()
+    const memoryRecall = await memory.recall({
+      scope: "manual-writer",
+      query: [
+        String(chapter.data.title || input.chapterPath),
+        input.chapterPath,
+        "humanizer revisione stile capitolo testo editoriale",
+        input.instruction || "",
+        asStringArray(chapter.data.topics).join(" "),
+        asStringArray(chapter.data.source_refs).join(" ")
+      ].join("\n")
+    })
+    const generation = await this.generateHumanizedRevision({
+      title: String(chapter.data.title || input.chapterPath),
+      instruction: input.instruction || "",
+      provider: input.provider,
+      chapterContent,
+      chapterBody,
+      structureGuide,
+      designGuide,
+      knowledge,
+      memoryContext: memoryRecall.context
+    })
+    const draft = sanitizeRevisionBody(generation.text, chapterBody)
+    const revisionDiff = buildRevisionDiff(chapterBody, draft)
+    const now = new Date().toISOString()
+    const nextContent = patchRawFrontmatter(
+      replaceMarkdownBodyPreservingFrontmatter(chapterContent, draft),
+      {
+        status: "revised_draft",
+        review_required: true,
+        updated_at: now,
+        draft_stage: "humanized-editorial-revision",
+        last_humanizer_revision: now
+      }
+    )
+
+    await this.store.writeText(input.chapterPath, nextContent)
+    await this.store.appendText(
+      "log.md",
+      `\n- ${now} | humanizer_revision | ${input.chapterPath} | provider=${generation.provider} | knowledge=${knowledge.length} | memory=${memoryRecall.memories.length}`
+    )
+    await memory.captureConversation({
+      scope: "manual-writer",
+      route: "ManualWriterAgent.reviseChapter",
+      messages: [
+        {
+          role: "user",
+          content: [
+            `chapterPath=${input.chapterPath}`,
+            "mode=humanizer_revision",
+            `instruction=${input.instruction || "Applica revisione humanizer al capitolo."}`
+          ].join("\n")
+        }
+      ],
+      reply: [
+        `Revisione humanizer completata su ${input.chapterPath}.`,
+        `Provider: ${generation.provider}.`,
+        `Knowledge consolidata usata: ${knowledge.map((item) => item.path).join(", ") || "none"}.`,
+        generation.warnings.length > 0 ? `Warnings: ${generation.warnings.join(" | ")}` : ""
+      ].filter(Boolean).join("\n"),
+      metadata: {
+        chapterPath: input.chapterPath,
+        mode: "humanizer_revision",
+        provider: generation.provider,
+        recalledMemories: memoryRecall.memories.length
+      }
+    }).catch(() => undefined)
+
+    return {
+      status: "completed",
+      chapterPath: input.chapterPath,
+      changedFiles: [input.chapterPath, "log.md"],
+      knowledgeUsed: knowledge.map((item) => item.path),
+      draft,
+      writerProvider: generation.provider,
+      memoryUsed: memoryRecall.memories.map((item) => item.id),
+      warnings: generation.warnings,
+      revisionDiff
     }
   }
 
@@ -412,6 +531,165 @@ export class ManualWriterAgent {
       warnings: response.trim() ? [] : ["Risposta OpenAI vuota: usata bozza locale strutturata."]
     }
   }
+
+  private async generateHumanizedRevision(input: {
+    title: string
+    instruction: string
+    chapterContent: string
+    chapterBody: string
+    structureGuide: string
+    designGuide: string
+    knowledge: KnowledgeItem[]
+    memoryContext: string
+    provider?: WriterProvider
+  }) {
+    const writerConfig = getWriterConfig()
+    const provider = input.provider || writerConfig.provider
+    const localRevision = () => renderDeterministicHumanizedRevision(input)
+
+    if (provider === "local") {
+      return {
+        text: localRevision(),
+        provider: "local" as const,
+        warnings: []
+      }
+    }
+
+    if (provider === "codex") {
+      try {
+        const [writerSkill, humanizerSkill] = await Promise.all([loadProfessionalWriterSkill(), loadHumanizerSkill()])
+        const response = await completeWithCodexCli(renderHumanizerPrompt(input, writerSkill, humanizerSkill, "Codex CLI locale"))
+        const text = response.text.trim()
+
+        if (isUsableRevision(text, input.chapterBody)) {
+          return {
+            text,
+            provider: "codex" as const,
+            warnings: response.stderr.trim() ? [`Codex CLI stderr: ${trimWords(response.stderr, 40)}`] : []
+          }
+        }
+
+        return {
+          text: localRevision(),
+          provider: "local" as const,
+          warnings: ["Risposta Codex scartata: non sembrava una revisione completa del capitolo."]
+        }
+      } catch (error) {
+        return {
+          text: localRevision(),
+          provider: "local" as const,
+          warnings: [`Codex CLI non disponibile o non autenticato: ${error instanceof Error ? error.message : "errore sconosciuto"}`]
+        }
+      }
+    }
+
+    if (provider === "claude") {
+      try {
+        const [writerSkill, humanizerSkill] = await Promise.all([loadProfessionalWriterSkill(), loadHumanizerSkill()])
+        const response = await completeWithClaudeCode(renderHumanizerPrompt(input, writerSkill, humanizerSkill, "Claude Code locale"))
+        const text = response.text.trim()
+
+        if (isUsableRevision(text, input.chapterBody)) {
+          return {
+            text,
+            provider: "claude" as const,
+            warnings: response.stderr.trim() ? [`Claude Code stderr: ${trimWords(response.stderr, 40)}`] : []
+          }
+        }
+
+        return {
+          text: localRevision(),
+          provider: "local" as const,
+          warnings: ["Risposta Claude scartata: non sembrava una revisione completa del capitolo."]
+        }
+      } catch (error) {
+        return {
+          text: localRevision(),
+          provider: "local" as const,
+          warnings: [`Claude Code non disponibile o non autenticato: ${error instanceof Error ? error.message : "errore sconosciuto"}`]
+        }
+      }
+    }
+
+    const humanizerSkill = await loadHumanizerSkill()
+
+    if (provider === "hermes") {
+      const config = getHermesConfig()
+
+      if (!config.apiKey) {
+        return {
+          text: localRevision(),
+          provider: "local" as const,
+          warnings: ["HERMES_API_KEY non configurata: usata revisione locale conservativa."]
+        }
+      }
+
+      const llm = new HermesLlmClient()
+      const response = await llm.complete(renderHumanizerMessages(input, humanizerSkill))
+
+      if (!isUsableRevision(response, input.chapterBody)) {
+        return {
+          text: localRevision(),
+          provider: "local" as const,
+          warnings: ["Risposta Hermes scartata: non sembrava una revisione completa del capitolo."]
+        }
+      }
+
+      return { text: response.trim(), provider: "hermes" as const, warnings: [] }
+    }
+
+    if (provider === "kimi") {
+      const config = getKimiConfig()
+
+      if (!config.apiKey) {
+        return {
+          text: localRevision(),
+          provider: "local" as const,
+          warnings: ["KIMI_API_KEY non configurata: usata revisione locale conservativa."]
+        }
+      }
+
+      const llm = new OpenAiLlmClient({
+        apiKey: config.apiKey,
+        baseURL: config.baseUrl,
+        model: config.model
+      })
+      const response = await llm.complete(renderHumanizerMessages(input, humanizerSkill))
+
+      if (!isUsableRevision(response, input.chapterBody)) {
+        return {
+          text: localRevision(),
+          provider: "local" as const,
+          warnings: ["Risposta Kimi scartata: non sembrava una revisione completa del capitolo."]
+        }
+      }
+
+      return { text: response.trim(), provider: "kimi" as const, warnings: [] }
+    }
+
+    const config = getOpenAiConfig()
+
+    if (!config.apiKey) {
+      return {
+        text: localRevision(),
+        provider: "local" as const,
+        warnings: ["OPENAI_API_KEY non configurata: usata revisione locale conservativa."]
+      }
+    }
+
+    const llm = new OpenAiLlmClient()
+    const response = await llm.complete(renderHumanizerMessages(input, humanizerSkill))
+
+    if (!isUsableRevision(response, input.chapterBody)) {
+      return {
+        text: localRevision(),
+        provider: "local" as const,
+        warnings: ["Risposta OpenAI scartata: non sembrava una revisione completa del capitolo."]
+      }
+    }
+
+    return { text: response.trim(), provider: "openai" as const, warnings: [] }
+  }
 }
 
 function renderManualWriterMessages(input: {
@@ -576,8 +854,113 @@ function renderClaudePrompt(input: {
   ].join("\n")
 }
 
+function renderHumanizerPrompt(input: {
+  title: string
+  instruction: string
+  chapterContent: string
+  chapterBody: string
+  structureGuide: string
+  designGuide: string
+  knowledge: KnowledgeItem[]
+  memoryContext: string
+}, writerSkill: string, humanizerSkill: string, runtimeLabel: string) {
+  return [
+    `Sei Manual Writer Agent di ConcorsoBook OS, eseguito tramite ${runtimeLabel}.`,
+    "",
+    "## Skill di progetto caricata",
+    writerSkill || "Skill writer non trovata: applica comunque AGENTS.md e Metodo BANDO.",
+    "",
+    "## Skill humanizer caricata",
+    humanizerSkill || "Skill humanizer non trovata: applica comunque revisione anti-AI conservativa.",
+    "",
+    ...renderHumanizerTask(input)
+  ].join("\n")
+}
+
+function renderHumanizerMessages(input: {
+  title: string
+  instruction: string
+  chapterContent: string
+  chapterBody: string
+  structureGuide: string
+  designGuide: string
+  knowledge: KnowledgeItem[]
+  memoryContext: string
+}, humanizerSkill: string) {
+  return [
+    {
+      role: "system" as const,
+      content: [
+        BASE_WRITER_SYSTEM_PROMPT,
+        ITALIAN_EDITORIAL_QUALITY_RULES,
+        "Applica revisione humanizer solo se migliora il testo. Conserva significato, struttura, riferimenti e voce professionale del manuale."
+      ].join("\n\n")
+    },
+    {
+      role: "user" as const,
+      content: [
+        "## Skill humanizer caricata",
+        trimWords(humanizerSkill, 2400),
+        "",
+        ...renderHumanizerTask(input)
+      ].join("\n")
+    }
+  ]
+}
+
+function renderHumanizerTask(input: {
+  title: string
+  instruction: string
+  chapterContent: string
+  chapterBody: string
+  structureGuide: string
+  designGuide: string
+  knowledge: KnowledgeItem[]
+  memoryContext: string
+}) {
+  return [
+    "## Obiettivo",
+    "Applica una revisione editoriale humanizer al capitolo selezionato: elimina segnali di testo generato da AI, riscrivi solo dove serve, rendi il ritmo piu naturale e conserva il taglio da manuale-workbook Metodo BANDO.",
+    "",
+    "## Vincoli non negoziabili",
+    "- Restituisci solo il corpo markdown completo e revisionato del capitolo.",
+    "- Non restituire frontmatter YAML.",
+    "- Non includere sezioni tipo 'Draft rewrite', 'What makes the below...', 'Final rewrite', audit, spiegazioni o riepiloghi del lavoro svolto.",
+    "- Mantieni titolo, gerarchia markdown, tabelle, checklist, callout, immagini, link wiki e riferimenti consolidati.",
+    "- Non inventare norme, date, soglie, statistiche, enti o fonti.",
+    "- Non cancellare note di review, riferimenti o avvisi di verifica normativa: puoi renderli piu chiari, non eliminarli.",
+    "- Non trasformare il manuale in tono personale o colloquiale: niente prima persona se non gia presente nel capitolo.",
+    "- Evita enfasi vuota, formule promozionali, triadi meccaniche, frasi meta, passivi inutili, conclusioni generiche e parole gonfiate.",
+    "- Se una frase e' gia naturale e precisa, lasciala invariata.",
+    "",
+    `Capitolo target: ${input.title}`,
+    `Istruzione aggiuntiva: ${input.instruction || "Revisione humanizer conservativa del capitolo."}`,
+    ...renderMemoryPromptSection(input.memoryContext),
+    "",
+    "## Knowledge consolidata disponibile",
+    ...input.knowledge.map((item) => `\n### ${item.title}\nPath: ${item.path}\n${item.summary}`),
+    "",
+    "## Guida operativa canonica del manuale",
+    trimWords(input.structureGuide.replace(/^---[\s\S]*?---/, ""), 900),
+    "",
+    "## Design system editoriale canonico",
+    trimWords(input.designGuide.replace(/^---[\s\S]*?---/, ""), 650),
+    "",
+    "## Corpo markdown attuale da revisionare",
+    input.chapterBody.trim(),
+    "",
+    "Restituisci ora solo il corpo markdown completo revisionato."
+  ]
+}
+
 async function loadProfessionalWriterSkill() {
   const skillPath = path.join(process.cwd(), ".agents", "skills", "concorso-book-professional-writer", "SKILL.md")
+
+  return readFile(skillPath, "utf8").catch(() => "")
+}
+
+async function loadHumanizerSkill() {
+  const skillPath = path.join(process.cwd(), ".agents", "skills", "humanizer", "SKILL.md")
 
   return readFile(skillPath, "utf8").catch(() => "")
 }
@@ -591,6 +974,71 @@ function renderMemoryPromptSection(memoryContext: string) {
     memoryContext,
     "Usa questa memoria solo per continuita di lavoro e preferenze operative; non sostituisce le source notes consolidate."
   ]
+}
+
+function renderDeterministicHumanizedRevision(input: {
+  title: string
+  instruction: string
+  chapterBody: string
+}) {
+  return applyHumanizerCleanup(input.chapterBody)
+}
+
+function applyHumanizerCleanup(value: string) {
+  return value
+    .split(/(```[\s\S]*?```)/g)
+    .map((part) => (part.startsWith("```") ? part : cleanupEditorialText(part)))
+    .join("")
+    .replace(/[ \t]+\n/g, "\n")
+    .replace(/\n{4,}/g, "\n\n\n")
+    .trim()
+}
+
+function cleanupEditorialText(value: string) {
+  const replacements: Array<[RegExp, string]> = [
+    [/[\u201c\u201d]/g, "\""],
+    [/[\u2018\u2019]/g, "'"],
+    [/\u2014/g, " - "],
+    [/\bIn order to\b/gi, "To"],
+    [/\bDue to the fact that\b/gi, "Because"],
+    [/\bAt this point in time\b/gi, "Now"],
+    [/\bIt is important to note that\s+/gi, ""],
+    [/\bE['\u2019]? importante sottolineare che\s+/gi, ""],
+    [/\bE['\u2019]? bene ricordare che\s+/gi, ""],
+    [/\bIn questo contesto,\s+/gi, ""],
+    [/\bIn conclusione,\s+/gi, ""],
+    [/\bNel complesso,\s+/gi, ""],
+    [/\bserve come\b/gi, "serve da"],
+    [/\bsi configura come\b/gi, "e'"],
+    [/\bsi pone come\b/gi, "e'"],
+    [/\brappresenta un elemento cruciale\b/gi, "conta"],
+    [/\brappresenta un elemento fondamentale\b/gi, "conta"],
+    [/\bcostituisce un elemento cruciale\b/gi, "conta"],
+    [/\bcostituisce un elemento fondamentale\b/gi, "conta"],
+    [/\bcruciale\b/gi, "importante"],
+    [/\bpivotal\b/gi, "importante"],
+    [/\bsignificativo\b/gi, "rilevante"],
+    [/\bdi fondamentale importanza\b/gi, "importante"],
+    [/\bmettere in evidenza\b/gi, "mostrare"],
+    [/\bevidenzia l'importanza di\b/gi, "mostra"],
+    [/\bsottolinea l'importanza di\b/gi, "mostra"],
+    [/\bnel panorama\b/gi, "nel contesto"],
+    [/\btessuto\b/gi, "insieme"],
+    [/\bdelve\b/gi, "analizzare"],
+    [/\bshowcase\b/gi, "mostrare"],
+    [/\bhighlight\b/gi, "mostrare"]
+  ]
+
+  let next = value
+
+  for (const [pattern, replacement] of replacements) {
+    next = next.replace(pattern, replacement)
+  }
+
+  return next
+    .replace(/([.!?])\s+Questo capitolo non e' solo\b/gi, "$1 Questo capitolo non e' soltanto")
+    .replace(/\s+-\s+/g, " - ")
+    .replace(/ {2,}/g, " ")
 }
 
 function renderDeterministicDraft(input: {
@@ -680,6 +1128,189 @@ ${references || "- Nessun riferimento consolidato disponibile."}
 - Applicare design system editoriale 17 x 24 cm con gerarchia manuale-workbook.
 - Modalità richiesta: ${input.mode}.
 - Lunghezza del capitolo da espandere in seconda revisione se serve maggiore profondità: ${countWords(chapterBody)} parole di struttura disponibili.`
+}
+
+function isUsableRevision(value: string, originalBody: string) {
+  const candidate = stripRevisionArtifacts(value)
+  const originalWords = countWords(originalBody)
+  const candidateWords = countWords(candidate)
+  const minimumWords = originalWords > 120 ? Math.max(80, Math.floor(originalWords * 0.35)) : Math.max(8, Math.floor(originalWords * 0.25))
+
+  if (!candidate.trim()) return false
+  if (looksLikeMetaDraft(candidate)) return false
+  if (/what makes the below so obviously ai generated/i.test(candidate)) return false
+  if (/now make it not obviously ai generated/i.test(candidate)) return false
+
+  return candidateWords >= minimumWords
+}
+
+function sanitizeRevisionBody(value: string, originalBody: string) {
+  const candidate = stripRevisionArtifacts(value).trim()
+
+  if (!isUsableRevision(candidate, originalBody)) {
+    return applyHumanizerCleanup(originalBody)
+  }
+
+  return `${candidate}\n`
+}
+
+function stripRevisionArtifacts(value: string) {
+  let next = value.trim()
+  const finalRewriteMatch = next.match(/(?:^|\n)(?:#{1,4}\s*)?(?:final rewrite|versione finale|riscrittura finale)\s*:?\s*\n/i)
+
+  if (finalRewriteMatch?.index !== undefined) {
+    next = next.slice(finalRewriteMatch.index + finalRewriteMatch[0].length).trim()
+  }
+
+  next = next
+    .replace(/^```(?:markdown|md)?\s*/i, "")
+    .replace(/```\s*$/i, "")
+    .trim()
+
+  if (next.startsWith("---\n")) {
+    const closingIndex = next.indexOf("\n---\n", 4)
+    if (closingIndex !== -1) {
+      next = next.slice(closingIndex + 5).trim()
+    }
+  }
+
+  return next
+}
+
+function extractMarkdownBody(content: string) {
+  const split = splitRawFrontmatter(content)
+
+  return split ? split.body : content.replace(/\r\n/g, "\n")
+}
+
+function replaceMarkdownBodyPreservingFrontmatter(content: string, nextBody: string) {
+  const split = splitRawFrontmatter(content)
+  const body = `${nextBody.trim()}\n`
+
+  if (!split) return body
+
+  return `${split.frontmatter}${body}`
+}
+
+function buildRevisionDiff(before: string, after: string): RevisionDiffSummary {
+  const beforeLines = normalizeDiffLines(before)
+  const afterLines = normalizeDiffLines(after)
+  const changes = diffLines(beforeLines, afterLines)
+  const previewLines = changes.slice(0, 140)
+
+  return {
+    changed: changes.length > 0,
+    additions: changes.filter((line) => line.type === "added").length,
+    deletions: changes.filter((line) => line.type === "removed").length,
+    beforeWordCount: countWords(before),
+    afterWordCount: countWords(after),
+    previewLines
+  }
+}
+
+function normalizeDiffLines(value: string) {
+  return value.replace(/\r\n/g, "\n").replace(/\s+$/g, "").split("\n")
+}
+
+function diffLines(beforeLines: string[], afterLines: string[]): RevisionDiffLine[] {
+  const rows = beforeLines.length
+  const columns = afterLines.length
+  const table: number[][] = Array.from({ length: rows + 1 }, () => Array(columns + 1).fill(0))
+
+  for (let row = rows - 1; row >= 0; row -= 1) {
+    for (let column = columns - 1; column >= 0; column -= 1) {
+      if (beforeLines[row] === afterLines[column]) {
+        table[row][column] = table[row + 1][column + 1] + 1
+      } else {
+        table[row][column] = Math.max(table[row + 1][column], table[row][column + 1])
+      }
+    }
+  }
+
+  const changes: RevisionDiffLine[] = []
+  let row = 0
+  let column = 0
+
+  while (row < rows && column < columns) {
+    if (beforeLines[row] === afterLines[column]) {
+      row += 1
+      column += 1
+    } else if (table[row + 1][column] >= table[row][column + 1]) {
+      changes.push({ type: "removed", lineNumber: row + 1, text: beforeLines[row] })
+      row += 1
+    } else {
+      changes.push({ type: "added", lineNumber: column + 1, text: afterLines[column] })
+      column += 1
+    }
+  }
+
+  while (row < rows) {
+    changes.push({ type: "removed", lineNumber: row + 1, text: beforeLines[row] })
+    row += 1
+  }
+
+  while (column < columns) {
+    changes.push({ type: "added", lineNumber: column + 1, text: afterLines[column] })
+    column += 1
+  }
+
+  return changes.filter((line) => line.text.trim())
+}
+
+function patchRawFrontmatter(content: string, patch: Record<string, unknown>) {
+  const split = splitRawFrontmatter(content)
+
+  if (!split) return content
+
+  const yaml = split.frontmatter.slice(4, -5)
+  const lines = yaml.split("\n")
+
+  for (const [key, value] of Object.entries(patch)) {
+    const lineIndex = lines.findIndex((line) => new RegExp(`^${escapeRegExp(key)}\\s*:`).test(line))
+    const nextLine = `${key}: ${stringifyInlineYamlValue(value)}`
+
+    if (lineIndex === -1) {
+      lines.push(nextLine)
+    } else {
+      lines[lineIndex] = nextLine
+    }
+  }
+
+  return `---\n${lines.join("\n")}\n---\n${split.body}`
+}
+
+function splitRawFrontmatter(content: string) {
+  const normalized = content.replace(/\r\n/g, "\n")
+
+  if (!normalized.startsWith("---\n")) return null
+
+  const closingIndex = normalized.indexOf("\n---\n", 4)
+
+  if (closingIndex === -1) return null
+
+  const frontmatterEnd = closingIndex + 5
+
+  return {
+    frontmatter: normalized.slice(0, frontmatterEnd),
+    body: normalized.slice(frontmatterEnd)
+  }
+}
+
+function stringifyInlineYamlValue(value: unknown) {
+  if (typeof value === "boolean" || typeof value === "number") return String(value)
+  if (value === null) return "null"
+
+  const text = String(value)
+
+  if (text === "" || /[:#\[\]{},"\n]/.test(text) || text !== text.trim()) {
+    return JSON.stringify(text)
+  }
+
+  return text
+}
+
+function escapeRegExp(value: string) {
+  return value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")
 }
 
 function looksLikeMetaDraft(value: string) {

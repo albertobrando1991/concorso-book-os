@@ -48,7 +48,7 @@ a {
 
 .shell {
   display: grid;
-  grid-template-columns: 280px minmax(0, 1fr);
+  grid-template-columns: 240px minmax(0, 1fr);
   min-height: 100vh;
 }
 
@@ -329,7 +329,7 @@ h1 {
 
 .bookStudioLayout {
   display: grid;
-  grid-template-columns: 280px minmax(0, 1fr);
+  grid-template-columns: minmax(190px, 240px) minmax(420px, 1fr) minmax(240px, 300px);
   gap: 14px;
   align-items: start;
 }
@@ -410,7 +410,7 @@ h1 {
   border: 1px solid var(--line);
   border-radius: 6px;
   background: #e7ebf0;
-  padding: 12px;
+  padding: 14px;
 }
 
 .bookPreviewToolbar {
@@ -424,6 +424,26 @@ h1 {
 .bookPreviewToolbar strong,
 .bookPreviewToolbar span {
   display: block;
+}
+
+.previewRevisionStatus {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  border: 1px solid #d8caa7;
+  border-left: 4px solid var(--book-gold);
+  border-radius: 6px;
+  background: #fffaf0;
+  color: #665016;
+  margin: 0 0 12px;
+  padding: 10px 12px;
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.previewRevisionStatus span {
+  min-width: 0;
+  overflow-wrap: anywhere;
 }
 
 .studioBadge {
@@ -440,6 +460,8 @@ h1 {
   display: grid;
   gap: 24px;
   justify-items: center;
+  overflow-x: auto;
+  padding-bottom: 2px;
 }
 
 .paginationMeasure {
@@ -1114,9 +1136,10 @@ h1 {
 }
 
 .indexLine {
-  display: flex;
-  align-items: baseline;
-  gap: 5px;
+  display: grid;
+  grid-template-columns: 56px minmax(0, 1fr) minmax(16px, 0.24fr) 24px;
+  align-items: end;
+  column-gap: 5px;
   font-family: var(--book-body);
   letter-spacing: 0;
 }
@@ -1130,6 +1153,7 @@ h1 {
 }
 
 .indexSubLine {
+  grid-template-columns: 32px minmax(0, 1fr) minmax(14px, 0.2fr) 22px;
   margin: 1.5px 0;
   color: #111827;
   font-size: 9px;
@@ -1138,32 +1162,28 @@ h1 {
 }
 
 .indexChapterLabel {
-  flex: 0 0 56px;
   color: #334155;
   font-size: 8.8px;
   font-weight: 800;
 }
 
 .indexSubNumber {
-  flex: 0 0 30px;
   color: #334155;
   font-weight: 700;
 }
 
 .indexLineTitle {
   min-width: 0;
-  flex: 0 1 auto;
+  overflow-wrap: anywhere;
 }
 
 .indexLeader {
-  flex: 1 1 18px;
   min-width: 14px;
   border-bottom: 1px dotted rgba(15, 23, 42, 0.72);
-  transform: translateY(-2px);
+  transform: translateY(-3px);
 }
 
 .indexPageNumber {
-  flex: 0 0 20px;
   color: var(--book-rich-black);
   font-weight: 700;
   text-align: right;
@@ -1210,21 +1230,26 @@ h1 {
 
 .studioControls {
   display: grid;
-  grid-column: 1 / -1;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 14px;
+  grid-template-columns: 1fr;
+  gap: 12px;
+  position: sticky;
+  top: 18px;
+  max-height: calc(100vh - 36px);
+  overflow: auto;
 }
 
 .studioControls section {
   display: grid;
   gap: 9px;
-  border-right: 1px solid var(--line);
-  padding-right: 14px;
+  border-right: 0;
+  border-bottom: 1px solid var(--line);
+  padding-right: 0;
+  padding-bottom: 12px;
 }
 
 .studioControls section:last-of-type {
-  border-right: 0;
-  padding-right: 0;
+  border-bottom: 0;
+  padding-bottom: 0;
 }
 
 .studioControls h3 {
@@ -1263,9 +1288,30 @@ h1 {
 }
 
 .writerButton.full,
+.revisionButton.full,
 .secondaryButton.full {
   width: 100%;
   justify-content: center;
+}
+
+.revisionButton {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  min-height: 40px;
+  border: 0;
+  border-radius: 6px;
+  background: #6f3f1f;
+  color: #fff;
+  font-weight: 700;
+  padding: 0 14px;
+  margin-top: 12px;
+  cursor: pointer;
+}
+
+.revisionButton:disabled {
+  cursor: not-allowed;
+  opacity: 0.65;
 }
 
 .secondaryButton {
@@ -1337,6 +1383,124 @@ h1 {
   border-radius: 4px;
   padding: 10px;
   font-size: 12px;
+}
+
+.revisionDiffPanel {
+  display: grid;
+  gap: 12px;
+  border: 1px solid var(--line);
+  border-left: 4px solid var(--book-bordeaux);
+  border-radius: 6px;
+  background: #fff;
+  margin-top: 14px;
+  padding: 14px;
+}
+
+.revisionDiffPanel > header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 12px;
+  border-bottom: 1px solid var(--line);
+  padding-bottom: 10px;
+}
+
+.revisionDiffPanel h3 {
+  margin: 0;
+  font-size: 18px;
+  line-height: 1.25;
+}
+
+.revisionDiffStats {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 7px;
+}
+
+.revisionDiffStats span {
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: #f8fafc;
+  color: var(--muted);
+  padding: 6px 9px;
+  font-size: 12px;
+  font-weight: 800;
+}
+
+.revisionDiffStats .diffAdded {
+  border-color: #b8e2ca;
+  background: #f1fbf5;
+  color: var(--green);
+}
+
+.revisionDiffStats .diffRemoved {
+  border-color: #efc1c1;
+  background: #fff5f5;
+  color: var(--red);
+}
+
+.revisionDiffList {
+  display: grid;
+  gap: 4px;
+  max-height: 420px;
+  overflow: auto;
+  border-radius: 6px;
+  background: #f8fafc;
+  padding: 8px;
+}
+
+.diffLine {
+  display: grid;
+  grid-template-columns: 20px 44px minmax(0, 1fr);
+  gap: 8px;
+  align-items: start;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  padding: 6px 8px;
+  font-size: 12px;
+}
+
+.diffLine.added {
+  border-color: #cdebd8;
+  background: #f2fbf5;
+}
+
+.diffLine.removed {
+  border-color: #f0caca;
+  background: #fff6f6;
+}
+
+.diffSign,
+.diffLineNumber {
+  color: var(--muted);
+  font-family: ui-monospace, SFMono-Regular, Consolas, "Liberation Mono", monospace;
+  font-weight: 800;
+}
+
+.diffLine.added .diffSign {
+  color: var(--green);
+}
+
+.diffLine.removed .diffSign {
+  color: var(--red);
+}
+
+.diffText {
+  min-width: 0;
+  color: var(--ink);
+  font-family: ui-monospace, SFMono-Regular, Consolas, "Liberation Mono", monospace;
+  line-height: 1.45;
+  overflow-wrap: anywhere;
+  white-space: pre-wrap;
+}
+
+.diffEmpty,
+.diffTruncated {
+  margin: 0;
+  color: var(--muted);
+  font-size: 13px;
+  line-height: 1.45;
 }
 
 .writerGrid {
@@ -1927,9 +2091,20 @@ meter {
 
   .bookStudioPanel > header,
   .bookPreviewToolbar,
+  .revisionDiffPanel > header,
   .studioHeaderActions {
     align-items: stretch;
     flex-direction: column;
+  }
+
+  .revisionDiffStats {
+    justify-content: flex-start;
+  }
+
+  .diffLine {
+    grid-template-columns: 18px 36px minmax(0, 1fr);
+    gap: 6px;
+    padding: 6px;
   }
 
   .chapterPreviewHeader {
@@ -1991,4 +2166,3 @@ meter {
   border-color: #9ebbe0;
   background: #f4f9ff;
 }
-

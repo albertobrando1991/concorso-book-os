@@ -8,9 +8,10 @@ import {
   Loader2,
   RefreshCw,
   Sparkles,
-  Upload
+  Upload,
+  WandSparkles
 } from "lucide-react"
-import type { ManualWriterMode } from "@/src/server/agents/manual-writer-agent"
+import type { ManualWriterMode, RevisionDiffSummary } from "@/src/server/agents/manual-writer-agent"
 import type { BookStudioChapter, BookStudioData, MarkdownBlock } from "@/src/server/book/book-preview"
 import type { WriterProvider } from "@/src/server/config"
 
@@ -26,6 +27,7 @@ interface WriterResult {
   changedFiles: string[]
   draft: string
   warnings: string[]
+  revisionDiff?: RevisionDiffSummary
 }
 
 type ViewMode = "chapter" | "book"
@@ -40,6 +42,9 @@ interface PreviewPage {
 
 const FIRST_PAGE_HEADER_COST = 150
 const RUNNING_HEADER_COST = 34
+const FRONT_MATTER_FIRST_PAGE_COST = 96
+const FRONT_MATTER_RUNNING_PAGE_COST = 66
+const FRONT_MATTER_PAGE_BUDGET = 835
 const PAGE_MEASURE_GUARD_SPACE = 48
 
 const modeOptions: Array<{ value: ManualWriterMode; label: string }> = [
@@ -77,10 +82,12 @@ export function BookStudioPanel({
   const [caption, setCaption] = useState("")
   const [isRefreshing, setIsRefreshing] = useState(false)
   const [isWriting, setIsWriting] = useState(false)
+  const [isRevising, setIsRevising] = useState(false)
   const [isUploading, setIsUploading] = useState(false)
   const [message, setMessage] = useState("")
   const [error, setError] = useState("")
   const [lastResult, setLastResult] = useState<WriterResult | null>(null)
+  const [revisionStatus, setRevisionStatus] = useState("")
 
   const selectedChapter = useMemo(
     () => data.chapters.find((chapter) => chapter.path === selectedPath) || data.chapters[0],
@@ -182,6 +189,7 @@ export function BookStudioPanel({
     setError("")
     setMessage("")
     setLastResult(null)
+    setRevisionStatus("")
 
     try {
       const response = await fetch("/api/manual-writer/run", {
@@ -209,6 +217,56 @@ export function BookStudioPanel({
       setError(currentError instanceof Error ? currentError.message : "Errore sconosciuto")
     } finally {
       setIsWriting(false)
+    }
+  }
+
+  async function runHumanizerRevision() {
+    if (!selectedChapter) return
+
+    setIsRevising(true)
+    setError("")
+    setMessage("")
+    setLastResult(null)
+    setRevisionStatus("Humanizer sta leggendo il capitolo selezionato e prepara il confronto.")
+    const revisionSteps = [
+      "Humanizer sta leggendo il capitolo selezionato e prepara il confronto.",
+      "Sto cercando frasi artificiali, formule ripetitive e passaggi da rendere piu naturali.",
+      "La revisione riscrive solo dove serve e conserva struttura, fonti e Metodo BANDO.",
+      "Appena il provider restituisce il testo mostro qui il prima/dopo della revisione."
+    ]
+    let revisionStepIndex = 0
+    const revisionTimer = window.setInterval(() => {
+      revisionStepIndex = (revisionStepIndex + 1) % revisionSteps.length
+      setRevisionStatus(revisionSteps[revisionStepIndex])
+    }, 2800)
+
+    try {
+      const response = await fetch("/api/manual-writer/revise", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json"
+        },
+        body: JSON.stringify({
+          chapterPath: selectedChapter.path,
+          provider: selectedProvider,
+          instruction: "Applica la skill humanizer al capitolo: rimuovi segnali di scrittura AI, conserva significato, riferimenti e struttura Metodo BANDO, riscrivi solo i passaggi necessari."
+        })
+      })
+      const payload = await response.json()
+
+      if (!response.ok) {
+        throw new Error(payload.error || "Revisione humanizer fallita")
+      }
+
+      setLastResult(payload)
+      setRevisionStatus("Modifiche ricevute. Aggiorno preview e differenze.")
+      setMessage(revisionResultMessage(payload))
+      await refreshStudio()
+    } catch (currentError) {
+      setError(currentError instanceof Error ? currentError.message : "Errore sconosciuto")
+    } finally {
+      window.clearInterval(revisionTimer)
+      setIsRevising(false)
     }
   }
 
@@ -317,6 +375,13 @@ export function BookStudioPanel({
             <span className="studioBadge">{viewMode === "book" ? "vista libro" : "vista capitolo"}</span>
           </div>
 
+          {isRevising ? (
+            <div className="previewRevisionStatus" role="status" aria-live="polite">
+              <Loader2 size={17} className="spin" aria-hidden />
+              <span>{revisionStatus || "Revisione Humanizer in corso."}</span>
+            </div>
+          ) : null}
+
           <div className="bookPages" aria-label="Preview manuale editoriale paginata">
             {previewPages.map((page) => (
               <BookPagePreview page={page} key={`${page.chapter.path}-${page.chapterPageNumber}`} />
@@ -380,6 +445,18 @@ export function BookStudioPanel({
             ) : null}
           </section>
 
+          <section className="revisionBox">
+            <span className="panelKicker">REVISIONE</span>
+            <h3>Humanizer editoriale</h3>
+            <button className="revisionButton full" onClick={runHumanizerRevision} disabled={isRevising || isWriting || !selectedChapter}>
+              {isRevising ? <Loader2 size={17} className="spin" aria-hidden /> : <WandSparkles size={17} aria-hidden />}
+              {isRevising ? "Revisione in corso" : "Rivedi e riscrivi dove serve"}
+            </button>
+            <small className="controlNote">
+              Provider: {providerModelLabel(selectedProvider, writerModel)} | skill: humanizer
+            </small>
+          </section>
+
           <section>
             <span className="panelKicker">Personalizzazione writer</span>
             <label>
@@ -406,7 +483,7 @@ export function BookStudioPanel({
               Richiesta
               <textarea value={instruction} onChange={(event) => setInstruction(event.target.value)} rows={8} />
             </label>
-            <button className="writerButton full" onClick={runWriterRequest} disabled={isWriting || !selectedChapter}>
+            <button className="writerButton full" onClick={runWriterRequest} disabled={isWriting || isRevising || !selectedChapter}>
               {isWriting ? <Loader2 size={17} className="spin" aria-hidden /> : <Sparkles size={17} aria-hidden />}
               {isWriting ? "Writer in corso" : "Applica al capitolo"}
             </button>
@@ -451,7 +528,7 @@ export function BookStudioPanel({
           {error ? <div className="writerError">{error}</div> : null}
           {lastResult ? (
             <details className="studioResult">
-              <summary>Ultimo output writer</summary>
+              <summary>Ultimo testo completo</summary>
               <span>{lastResult.chapterPath}</span>
               <pre>{lastResult.draft}</pre>
               {lastResult.warnings.length > 0 ? <small>{lastResult.warnings.join(" | ")}</small> : null}
@@ -459,6 +536,52 @@ export function BookStudioPanel({
           ) : null}
         </aside>
       </div>
+
+      {lastResult?.revisionDiff ? <RevisionDiffPanel result={lastResult} /> : null}
+    </section>
+  )
+}
+
+function RevisionDiffPanel({ result }: { result: WriterResult }) {
+  const diff = result.revisionDiff
+  if (!diff) return null
+
+  return (
+    <section className="revisionDiffPanel" aria-label="Modifiche Humanizer">
+      <header>
+        <div>
+          <span className="panelKicker">Modifiche Humanizer</span>
+          <h3>{diff.changed ? "Cosa e stato riscritto" : "Nessuna modifica testuale rilevata"}</h3>
+        </div>
+        <div className="revisionDiffStats" aria-label="Statistiche revisione">
+          <span className="diffAdded">+{diff.additions}</span>
+          <span className="diffRemoved">-{diff.deletions}</span>
+          <span>
+            {diff.beforeWordCount} a {diff.afterWordCount} parole
+          </span>
+        </div>
+      </header>
+
+      {diff.changed ? (
+        <div className="revisionDiffList">
+          {diff.previewLines.map((line, index) => (
+            <div className={`diffLine ${line.type}`} key={`${line.type}-${line.lineNumber}-${index}`}>
+              <span className="diffSign">{line.type === "added" ? "+" : "-"}</span>
+              <span className="diffLineNumber">{line.lineNumber}</span>
+              <code className="diffText">{line.text}</code>
+            </div>
+          ))}
+          {diff.additions + diff.deletions > diff.previewLines.length ? (
+            <p className="diffTruncated">
+              Mostrate {diff.previewLines.length} righe modificate su {diff.additions + diff.deletions}.
+            </p>
+          ) : null}
+        </div>
+      ) : (
+        <p className="diffEmpty">
+          Il testo restituito e equivalente al corpo precedente del capitolo: la revisione ha aggiornato solo metadati o non ha trovato passaggi da riscrivere.
+        </p>
+      )}
     </section>
   )
 }
@@ -477,6 +600,15 @@ function chapterStatusLabel(status: string) {
     to_expand: "da sviluppare"
   }
   return labels[status] || status.replaceAll("_", " ")
+}
+
+function revisionResultMessage(result: WriterResult) {
+  const diff = result.revisionDiff
+
+  if (!diff) return "REVISIONE applicata. Anteprima ricaricata dal vault."
+  if (!diff.changed) return "REVISIONE applicata. Nessuna modifica testuale rilevata; anteprima ricaricata."
+
+  return `REVISIONE applicata: ${diff.additions} righe aggiunte, ${diff.deletions} righe rimosse. Anteprima ricaricata.`
 }
 
 function sectionLabel(chapter: BookStudioChapter) {
@@ -973,7 +1105,7 @@ function paginateBlocksByHeight(
 }
 
 function paginateBlocks(chapter: BookStudioChapter): Array<Omit<PreviewPage, "pageNumber">> {
-  if (chapter.sectionType === "front_matter" && chapter.frontMatterLayout !== "analytical-index") {
+  if (chapter.sectionType === "front_matter" && isSinglePageFrontMatter(chapter.frontMatterLayout)) {
     return [{
       chapter,
       blocks: chapter.blocks,
@@ -986,7 +1118,7 @@ function paginateBlocks(chapter: BookStudioChapter): Array<Omit<PreviewPage, "pa
   let blocks: MarkdownBlock[] = []
   let usedBlockCosts: number[] = []
   let chapterPageNumber = 1
-  let used = FIRST_PAGE_HEADER_COST
+  let used = chapter.sectionType === "front_matter" ? FRONT_MATTER_FIRST_PAGE_COST : FIRST_PAGE_HEADER_COST
 
   function pushPage() {
     pages.push({
@@ -998,7 +1130,7 @@ function paginateBlocks(chapter: BookStudioChapter): Array<Omit<PreviewPage, "pa
     chapterPageNumber += 1
     blocks = []
     usedBlockCosts = []
-    used = RUNNING_HEADER_COST
+    used = chapter.sectionType === "front_matter" ? FRONT_MATTER_RUNNING_PAGE_COST : RUNNING_HEADER_COST
   }
 
   for (let index = 0; index < chapter.blocks.length; index += 1) {
@@ -1006,7 +1138,7 @@ function paginateBlocks(chapter: BookStudioChapter): Array<Omit<PreviewPage, "pa
     const nextBlock = chapter.blocks[index + 1]
     const cost = estimateBlockCost(block)
     const keepWithNextCost = shouldKeepWithNext(block, nextBlock) ? estimateBlockCost(nextBlock) : 0
-    const budget = 920
+    const budget = chapter.sectionType === "front_matter" ? FRONT_MATTER_PAGE_BUDGET : 920
 
     if (blocks.length > 0 && used + cost + keepWithNextCost > budget) {
       const lastBlock = blocks.at(-1)
@@ -1037,6 +1169,10 @@ function paginateBlocks(chapter: BookStudioChapter): Array<Omit<PreviewPage, "pa
   }
 
   return pages
+}
+
+function isSinglePageFrontMatter(layout: string) {
+  return layout === "digital-services" || layout === "title-page"
 }
 
 function shouldKeepWithNext(block: MarkdownBlock, nextBlock?: MarkdownBlock) {

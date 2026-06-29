@@ -115,6 +115,15 @@ export default async function Home({ searchParams }: HomeProps) {
           <Metric label="Memorie locali" value={data.metrics.memoryAtoms} accent="amber" />
         </section>
 
+        <BookStudioPanel
+          initialData={bookStudio}
+          writerProvider={writerConfig.provider}
+          writerModel={writerConfig.writerModel}
+          writerReasoningEffort={writerConfig.writerReasoningEffort}
+        />
+
+        <BookCreatorPanel />
+
         <section className="grid two">
           <Panel title="Pipeline stato" icon={<ListChecks size={19} aria-hidden />}>
             <ol className="timeline">
@@ -150,15 +159,6 @@ export default async function Home({ searchParams }: HomeProps) {
             </div>
           </Panel>
         </section>
-
-        <BookCreatorPanel />
-
-        <BookStudioPanel
-          initialData={bookStudio}
-          writerProvider={writerConfig.provider}
-          writerModel={writerConfig.writerModel}
-          writerReasoningEffort={writerConfig.writerReasoningEffort}
-        />
 
         <ManualWriterPanel
           initialChapters={chapters}
