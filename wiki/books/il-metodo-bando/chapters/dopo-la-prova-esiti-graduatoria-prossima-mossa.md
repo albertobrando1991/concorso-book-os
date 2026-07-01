@@ -8,19 +8,21 @@ topics: ["dopo prova concorsi", "esiti concorso", "graduatoria concorso", "acces
 entities: ["Metodo BANDO", "Bando Decoder", "Diario degli errori", "inPA", "D.P.R. 487/1994", "Legge 241/1990"]
 source_refs: ["sources/dopo-prova-esiti-graduatoria-metodo-bando.md", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md", "sources/checklist-operative-concorsi-metodo-bando.md", "sources/capitale-studio-riutilizzabile-metodo-bando.md", "sources/fonti-ufficiali-aggiornamento-metodo-bando-2026-06-03.md", "sources/legge-241-1990-procedimento-amministrativo.md", "sources/metodo-bando-progetto-editoriale.md", "sources/struttura-madre-il-metodo-bando.md"]
 book_refs: ["il-metodo-bando"]
-confidence: 0.86
-updated_at: 2026-06-14T21:16:09.0972870+02:00
+confidence: 0.91
+updated_at: 2026-07-01T16:00:00+02:00
 created_at: 2026-06-07T18:56:29+02:00
 review_required: true
 canonical: true
 tags: ["book-chapter", "extra-chapter", "after-exam", "graduatoria", "workbook"]
 book_id: il-metodo-bando
 outline_section: 30
-draft_stage: revised-editorial-draft
+draft_stage: professional-complete-draft
 last_compiled_from: ["sources/dopo-prova-esiti-graduatoria-metodo-bando.md", "topics/dopo-prova-concorsi.md", "topics/concorsi-pubblici.md", "topics/diario-errori.md", "topics/capitale-studio-riutilizzabile.md", "topics/aggiornamento-fonti-concorsi.md"]
 ---
 
 # Capitolo 30 - Dopo la prova: esiti, graduatoria e prossima mossa
+
+> Modulo ricettario **R6** — Checklist post-prova. Collega [[books/il-metodo-bando/chapters/checklist-operative|Cap. 24]], [[books/il-metodo-bando/chapters/trasformare-ogni-concorso-in-capitale-di-studio|R2 Cap. 26]] e [[books/il-metodo-bando/chapters/aggiornare-il-metodo-dopo-il-libro|R1 Cap. 25]].
 
 Molti candidati pensano che la prova finisca quando consegnano.
 
@@ -86,6 +88,24 @@ Fai solo tre cose:
 Non decidere di abbandonare un percorso. Non cambiare metodo. Non riscrivere tutto il piano mentre sei ancora dentro l'emozione della prova.
 
 Aspetta l'atto ufficiale o, almeno, una lettura piu fredda.
+
+## Protocollo 24-72 ore: chiudere il ciclo senza fretta
+
+Il dopo-prova funziona se ogni fascia temporale ha un compito preciso. Non mescolare conservazione documenti, analisi emotiva e decisioni strategiche nello stesso momento.
+
+| Fascia | Cosa fare | Cosa non fare |
+|---|---|---|
+| 0-24 ore | salvare documenti, memoria a caldo breve, un solo controllo avvisi ufficiali | abbandonare il concorso, riscrivere il piano, confrontarsi con chat come fonte |
+| 24-72 ore | scheda post-prova, Diario errori, classificazione capitale | aprire moduli nuovi, iscriversi a bandi a caso, refresh continuo del portale |
+| 72 ore - 7 giorni | matrice prossima mossa, aggiornamento Bando Decoder se fase successiva, piano mirato | dimenticare la prova senza estrarre nulla, studiare a caso senza priorita |
+
+Regola operativa:
+
+- entro **24 ore** conservi e annoti;
+- entro **72 ore** analizzi e registri;
+- entro **7 giorni** decidi la mossa successiva con dati minimi: esito, errori, calendario, energie, concorsi compatibili.
+
+Se la procedura e' ancora aperta (orale, graduatoria, scorrimento), il protocollo non si ferma: passi in modalita monitoraggio controllato.
 
 ## Tre livelli di esito
 
@@ -173,6 +193,7 @@ Nel linguaggio dei concorsi alcune parole sembrano semplici, ma producono effett
 | Graduatoria | atto da leggere considerando ordine, punteggi, titoli, riserve e avvisi |
 | Scorrimento | possibilita legata a decisioni dell'amministrazione e regole applicabili |
 | Riserva | condizione prevista dalla normativa o dal bando, da verificare sugli atti |
+| Rinuncia | effetto su posti e posizioni in graduatoria; verificare su avvisi ufficiali |
 
 Questa tabella non sostituisce il bando. Serve a impedirti di fare equivalenze automatiche.
 
@@ -268,6 +289,58 @@ Non scrivere un romanzo. Scrivi dati.
 
 Questa scheda diventa ponte tra prova appena fatta e preparazione successiva.
 
+## Scheda workbook: Post-prova in 30 minuti
+
+Compila entro 72 ore dalla prova. Una riga per campo, niente racconti.
+
+| Campo | Compilazione |
+|---|---|
+| Concorso / ente / profilo | |
+| Data e tipo prova | |
+| Durata e numero quesiti o tracce | |
+| Impressione generale (1 riga) | |
+| Materie forti (max 3) | |
+| Materie deboli (max 3) | |
+| Errore di contenuto principale | |
+| Errore di metodo principale | |
+| Domande o temi ricordati (parole chiave) | |
+| Atto ufficiale da attendere o controllare | |
+| Documenti salvati (spunta) | convocazione / ricevuta / avvisi / esito |
+| Prossima azione entro 48 ore | |
+| Collegamento Diario (categoria errore) | lacuna / richiamo / tempo / lettura / ansia / logistica |
+
+Checklist rapida post-compilazione:
+
+| Voce | Fatto |
+|---|---|
+| Ho distinto impressione ed esito ufficiale | |
+| Ho scritto una sola azione correttiva per errore principale | |
+| Ho indicato almeno un elemento riutilizzabile (nucleo, domanda, schema) | |
+| Ho evitato decisioni pesanti nelle prime 24 ore | |
+| Se la procedura continua, ho aggiornato il Bando Decoder | |
+
+Se la procedura si chiude (esclusione definitiva o fine percorso), passa alla **scheda dopo concorso** del modulo R2 (Cap. 26) entro sette giorni.
+
+## Registro avvisi post-prova
+
+Quando la procedura resta aperta, gli avvisi si moltiplicano: convocazioni orali, pubblicazione graduatoria, rettifiche, comunicazioni su titoli o documenti integrativi.
+
+Tieni un registro semplice, non un diario emotivo.
+
+| Data | Fonte ufficiale | Tipo avviso | Cosa cambia per me | Azione entro 48 ore | Prossimo controllo |
+|---|---|---|---|---|---|
+| | | | | | |
+| | | | | | |
+| | | | | | |
+
+Frequenza consigliata:
+
+- **fase attiva** (orale vicino, graduatoria attesa): controllo fonti 2-3 volte a settimana, finestra da 15 minuti (protocollo R1);
+- **monitoraggio passivo** (idoneita in attesa di scorrimento): controllo 1 volta a settimana;
+- **procedura chiusa**: archivia cartella e passa a R2.
+
+Non controllare il portale ogni ora: consuma energia senza produrre decisioni.
+
 ## Il Diario degli errori dopo la prova
 
 Il Diario degli errori non serve solo durante lo studio. Serve soprattutto dopo le prove vere.
@@ -337,6 +410,18 @@ Dopo l'esito, scegli con una matrice semplice.
 | stanchezza alta dopo prova | recupero breve, poi revisione fredda |
 
 La prossima mossa non deve essere eroica. Deve essere coerente.
+
+Prima di scegliere, verifica cinque dati minimi (dalla source consolidata):
+
+| Dato | Domanda |
+|---|---|
+| Esito | punteggio, ammissione, esclusione o idoneita secondo atto ufficiale |
+| Probabilita fase successiva | orale previsto, titoli, graduatoria, scorrimento plausibile |
+| Calendario | date certe vs date incerte nella procedura |
+| Capitale riutilizzabile | nuclei, schemi, simulazioni gia pronti per il passo successivo |
+| Energie reali | recupero necessario o studio attivo gia possibile |
+
+Se mancano due o piu dati, la mossa e' **monitoraggio + registrazione**, non un salto su un nuovo concorso.
 
 ## Caso guidato
 
@@ -427,6 +512,24 @@ Prima di archiviare una prova, verifica:
 
 Se mancano piu di tre voci, la prova non e' ancora chiusa.
 
+## Chiusura operativa
+
+Il dopo-prova e' chiuso quando hai convertito l'esperienza in sistema, non quando hai smesso di pensarci.
+
+| Azione | Fatto |
+|---|---|
+| Ho applicato il protocollo 24-72 ore | |
+| Ho distinto impressione, esito ufficiale e conseguenza procedurale | |
+| La cartella dopo-prova e' ordinata e nominata | |
+| Ho compilato la scheda workbook post-prova | |
+| Il Diario degli errori ha almeno un errore con azione unica | |
+| Ho estratto almeno cinque elementi di capitale (R2) | |
+| Ho definito la prossima mossa con la matrice decisionale | |
+| Se serve, ho attivato registro avvisi con frequenza controllata (R1) | |
+| Se la procedura e' finita, ho aperto la scheda dopo concorso (R2) | |
+
+Una prova chiusa bene alimenta la successiva. Una prova archiviata a caso ripete gli stessi errori.
+
 ## Riferimenti consolidati
 
 - [[sources/dopo-prova-esiti-graduatoria-metodo-bando]]
@@ -446,4 +549,5 @@ Se mancano piu di tre voci, la prova non e' ancora chiusa.
 - La struttura madre originaria non prevedeva il Capitolo 30. Questo capitolo e' un'estensione editoriale: in revisione decidere se mantenerlo numerato o trasformarlo in sezione conclusiva/tool.
 - Le parti su accesso agli atti, graduatorie, idoneita, scorrimenti e tutele devono essere verificate in revisione legale prima della pubblicazione.
 - Il capitolo mantiene taglio operativo e non fornisce consulenza legale: per termini, ricorsi e valutazioni specifiche rinvia a fonti ufficiali e supporto qualificato.
-- In impaginazione valutare una scheda workbook autonoma "Scheda post-prova in 30 minuti".
+- Scheda workbook "Post-prova in 30 minuti" e registro avvisi inseriti nel capitolo; in impaginazione valutare estrazione come PDF compilabile autonomo.
+- Coordinare rimandi con Cap. 24 (checklist operative), R2 (capitale e scheda dopo concorso), R1 (controllo fonti), R15 (tra una prova e l'altra).

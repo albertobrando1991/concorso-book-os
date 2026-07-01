@@ -8,19 +8,21 @@ topics: ["aggiornamento fonti concorsi", "metodo bando", "anatomia del bando", "
 entities: ["Metodo BANDO", "Bando Decoder", "Diario degli errori", "inPA", "Gazzetta Ufficiale", "Normattiva", "ANAC", "AgID", "Garante Privacy", "Dipartimento della Funzione Pubblica", "SNA"]
 source_refs: ["sources/fonti-ufficiali-aggiornamento-metodo-bando-2026-06-03.md", "sources/metodo-bando-progetto-editoriale.md", "sources/struttura-madre-il-metodo-bando.md", "sources/checklist-operative-concorsi-metodo-bando.md", "sources/matrice-materie-profili-metodo-bando.md", "sources/formazione-competenze-pa-syllabus-direttiva-2025.md", "sources/framework-competenze-trasversali-pa-dm-28-giugno-2023.md", "sources/anac-piano-nazionale-anticorruzione-2025-delibera-n-19-del-28-gennaio-2026.md", "sources/agid-linee-guida-sulla-formazione-gestione-e-conservazione-dei-documenti-informatici.md", "sources/garante-privacy-trasparenza-pa-accesso-civico-e-dati-personali.md"]
 book_refs: ["il-metodo-bando"]
-confidence: 0.88
-updated_at: 2026-06-09T19:15:47.9647389+02:00
+confidence: 0.91
+updated_at: 2026-07-01T15:00:00+02:00
 created_at: 2026-06-03T20:28:45+02:00
 review_required: true
 canonical: true
 tags: ["book-chapter", "extra-chapter", "maintenance", "official-sources"]
 book_id: il-metodo-bando
 outline_section: 25
-draft_stage: revised-editorial-draft
+draft_stage: professional-complete-draft
 last_compiled_from: ["sources/fonti-ufficiali-aggiornamento-metodo-bando-2026-06-03.md", "topics/aggiornamento-fonti-concorsi.md", "topics/metodo-bando.md", "topics/checklist-concorsi.md", "topics/diario-errori.md", "topics/moduli-integrativi.md"]
 ---
 
 # Capitolo 25 - Aggiornare il metodo dopo il libro
+
+> Modulo ricettario **R1** — Protocollo aggiornamenti e fonti ufficiali. Collega Introduzione, Cap. 2, Cap. 3 e [[books/il-metodo-bando/chapters/usare-il-digitale-senza-perdere-il-metodo|R4 Cap. 28]].
 
 Questo libro non finisce quando arrivi all'ultima pagina.
 
@@ -82,6 +84,30 @@ La regola pratica:
 > se il bando dice una cosa, il piano parte dal bando. Se una fonte esterna dice una cosa interessante ma il bando non la rende rilevante, la metti in attesa.
 
 ![Figura 25.2 - Gerarchia delle fonti](../assets/chapter-25/02-gerarchia-fonti.png)
+
+## Notizia, norma, avviso e bando: quattro livelli da non confondere
+
+Il candidato confuso mescola quattro tipi di informazione diversi. Ognuno produce un'azione diversa.
+
+| Tipo | Cosa e' | Esempio | Peso nel metodo | Errore tipico |
+|---|---|---|---|---|
+| Notizia | informazione generica su PA, concorsi o riforme | articolo su "nuove assunzioni" | Basso finche non tocca il tuo bando | aprire un modulo per un titolo di giornale |
+| Norma | testo legislativo o regolamentare vigente | modifica al D.lgs. sui concorsi | Medio-alto se citata nel programma | studiare una versione non verificata |
+| Avviso | comunicazione ufficiale della procedura | rettifica sede, diario prove, graduatoria | Alto se riguarda il concorso attivo | leggerlo tardi o non registrarlo |
+| Bando | atto base della selezione con requisiti e prove | bando e allegati pubblicati | Massimo: comanda piano e output | leggerlo una sola volta all'inizio |
+
+La domanda operativa e' sempre la stessa:
+
+> questa informazione e' notizia, norma, avviso o bando — e quale decisione mi costringe?
+
+Una notizia interessante non apre un modulo. Un avviso ufficiale si. Una norma conta se il programma la richiama o se cambia un nucleo che stai gia studiando. Il bando resta il filtro finale.
+
+Regola pratica:
+
+- **Notizia** → salva in "da verificare" solo se nomina il tuo ente, profilo o materia; altrimenti ignora.
+- **Norma** → controlla su Normattiva; aggiorna nuclei solo se il bando o il programma la rendono rilevante.
+- **Avviso** → compila subito la scheda aggiornamento e valuta impatto su calendario.
+- **Bando** → rileggi requisiti, prove, punteggi, documenti; aggiorna Bando Decoder e matrice.
 
 ## Le fonti da controllare davvero
 
@@ -240,6 +266,55 @@ Se la risposta e' no, non toccare il calendario.
 
 ![Figura 25.6 - Cambiare o non cambiare il piano](../assets/chapter-25/06-cambiare-o-non-cambiare-piano.png)
 
+## Quando aprire un modulo integrativo
+
+Un modulo integrativo non serve a "studiare di piu". Serve a colmare un vuoto verificato: materia nuova nel programma, profilo specialistico, prova diversa o nucleo settoriale reso obbligatorio da fonte ufficiale.
+
+Apri o intensifica un modulo integrativo solo se almeno una condizione e' vera:
+
+| Condizione | Segnale | Azione |
+|---|---|---|
+| Il bando aggiunge una materia non coperta dal nucleo comune | programma o allegato esplicito | inserisci modulo in matrice con priorita e output |
+| La prova cambia formato | da quiz a scritto, da scritto a orale, caso pratico nuovo | attiva modulo di allenamento specifico |
+| Una fonte ufficiale rende obbligatorio un nucleo settoriale | linea guida, FAQ istituzionale, rettifica | estrai nucleo essenziale, non enciclopedia |
+| Il profilo richiede competenze non trasversali | modulo ministeriale, sanitario, tecnico, giuridico avanzato | collega al modulo profilo della famiglia concorsuale |
+| Il diario segnala tre errori sulla stessa materia specialistica | errore ripetuto in simulazione | modulo mirato con casi e ripasso |
+
+Non aprire un modulo integrativo quando:
+
+- un articolo o un gruppo suggerisce "potrebbero chiedere";
+- un corso aggiunge lezioni non previste dal bando;
+- una norma e' interessante ma non citata nel programma;
+- hai ansia da aggiornamento e cerchi sicurezza accumulando materiale.
+
+In questi casi la decisione corretta e': verifica fonte, confronta con bando, registra "nessun cambio operativo" e torna al piano.
+
+## Proteggere il calendario dall'ansia da aggiornamento
+
+L'ansia da aggiornamento nasce quando ogni novita sembra urgente. Il metodo la riduce con tre regole.
+
+**Regola 1 — Finestra fissa, non controllo continuo**
+
+Controlla le fonti nel protocollo dei 20 minuti, non ogni volta che apri il telefono. Fuori dalla finestra, studia.
+
+**Regola 2 — Decisione scritta o nessun cambio**
+
+Se non compili la scheda aggiornamento, il piano non cambia. Un messaggio salvato, un link in chat o un PDF scaricato non sono decisioni.
+
+**Regola 3 — Un aggiornamento, una modifica**
+
+Non ricalcolare tutto il piano per un avviso logistico. Aggiorna solo lo strumento toccato: calendario, checklist, modulo, simulazione o diario.
+
+| Segnale di ansia | Risposta metodo |
+|---|---|
+| "Devo controllare di nuovo" senza nuova fonte | scrivi ultimo controllo e prossima data |
+| "Forse e' cambiato tutto" | rileggi solo bando e avvisi ufficiali |
+| "Apro un manuale nuovo per sicurezza" | verifica se la materia e' nel programma |
+| "Salto la simulazione per leggere novita" | simulazione prima, aggiornamento dopo |
+| "Studio due ore di notizie generiche" | taglia a 20 minuti e torna all'output |
+
+Il calendario e' il bene da proteggere. Le fonti servono a migliorarlo, non a sostituirlo ogni giorno.
+
 ## Aggiornare la matrice materie/profili
 
 La matrice non e' una fotografia definitiva. E' uno strumento vivo.
@@ -330,6 +405,55 @@ Davide non ignora la privacy. La studia al livello richiesto.
 
 No. Prima devi capire se la novita riguarda il tuo bando, la tua materia, la tua prova o il tuo output. Una novita ufficiale puo essere importante in generale ma irrilevante per il concorso che stai preparando.
 
+## Digitale e fonti: collegamento con R4
+
+Il controllo delle fonti puo fallire per due motivi opposti: non controlli abbastanza, oppure controlli in troppi posti senza metodo.
+
+Nel modulo **R4** (Cap. 28) hai il protocollo per usare digitale, cartelle, promemoria e AI senza perdere il filo. Qui restano valide tre regole incrociate:
+
+| Funzione digitale | Uso corretto per l'aggiornamento | Rischio |
+|---|---|---|
+| Catturare | salvare bando, avvisi, link ufficiali, ricevute | confondere riassunto e fonte |
+| Decidere | aggiornare Bando Decoder dopo ogni avviso rilevante | compilare schede senza tagliare |
+| Ricordare | promemoria settimanale "protocollo 20 minuti" | notifiche continue da gruppi e feed |
+
+Non chiedere a un assistente AI se il bando e' cambiato: chiedigli di organizzare cio che hai gia verificato su inPA, sito ente o Normattiva. La verifica resta tua.
+
+Se usi il ricettario digitale, tieni una cartella minima:
+
+- `bando-e-allegati/` — versione e data ultimo download;
+- `avvisi-ufficiali/` — PDF o screenshot con data;
+- `schede-aggiornamento/` — una scheda per ogni decisione;
+- `fonti-settoriali/` — solo documenti collegati al programma.
+
+Ogni file deve avere data e fonte nell'intestazione. Senza data, non e' aggiornamento: e' rumore archiviato.
+
+## Scheda workbook: Registro fonti settimanale
+
+Compila questa scheda ogni settimana dopo il protocollo dei 20 minuti. Se non trovi cambiamenti, scrivi comunque "nessun cambio operativo": chiude il ciclo e libera la testa.
+
+| Campo | Compilazione |
+|---|---|
+| Settimana / concorso | |
+| Data controllo | |
+| Fonti controllate (spunta) | inPA / sito ente / bando / Gazzetta / Normattiva / settoriale |
+| Novita rilevata | Si / No |
+| Tipo informazione | notizia / norma / avviso / bando |
+| Impatto su piano | nessuno / logistico / materia / prova / documento |
+| Strumento aggiornato | Bando Decoder / matrice / diario / checklist / modulo |
+| Decisione entro 48 ore | |
+| Prossimo controllo | |
+
+Checklist rapida post-controllo:
+
+| Voce | Fatto |
+|---|---|
+| Ho confrontato la novita con il bando | |
+| Ho scritto la decisione, non solo la novita | |
+| Ho evitato di aprire moduli non richiesti | |
+| Ho protetto almeno un blocco di studio o output | |
+| Ho registrato "nessun cambio" se non serve agire | |
+
 ## Mini-esercizio
 
 Prendi il concorso che stai preparando e compila la tabella.
@@ -381,7 +505,18 @@ Questo e' possibile solo se il tuo sistema resta aggiornato senza diventare inst
 - decisioni che hanno funzionato;
 - decisioni da correggere.
 
-Il prossimo concorso non parte da una pagina bianca. Parte da un sistema gia allenato.
+Prima del concorso successivo, verifica che il sistema di aggiornamento sia ancora vivo:
+
+| Azione | Fatto |
+|---|---|
+| Ho definito frequenza del protocollo 20 minuti | |
+| Ho indicato link o posizione di ogni fonte ufficiale | |
+| So distinguere notizia, norma, avviso e bando | |
+| Ho almeno una scheda aggiornamento compilata di prova | |
+| Il digitale (R4) non sostituisce la verifica sulle fonti | |
+| Il calendario e' protetto da controlli fuori finestra | |
+
+Il prossimo concorso non parte da una pagina bianca. Parte da un sistema gia allenato che sa quando cambiare e quando continuare.
 
 ## Riferimenti consolidati
 
@@ -406,3 +541,5 @@ Il prossimo concorso non parte da una pagina bianca. Parte da un sistema gia all
 - La struttura madre originaria arriva al Capitolo 24 e alle Appendici A-F. Questo capitolo e' un'estensione editoriale finale: in impaginazione decidere se mantenerlo come Capitolo 25 o trasformarlo in "Conclusione operativa".
 - Prima della pubblicazione finale verificare di nuovo le pagine ufficiali citate, in particolare inPA, Gazzetta Ufficiale, Normattiva, DFP/Syllabus, ANAC, AgID e Garante Privacy.
 - Evitare formule che promettono aggiornamento normativo completo: il capitolo insegna il metodo di verifica, non sostituisce le fonti ufficiali.
+- Scheda workbook "Registro fonti settimanale" inserita nel capitolo; in impaginazione valutare estrazione come PDF compilabile autonomo.
+- Coordinare rimandi con R4 (digitale), R2 (capitale di studio) e checklist operative del volume principale.

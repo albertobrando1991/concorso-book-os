@@ -8,19 +8,21 @@ topics: ["presa servizio PA", "assunzione pubblico impiego", "neoassunto PA", "p
 entities: ["Metodo BANDO", "Dipendente pubblico", "Pubblica amministrazione", "ARAN", "D.Lgs. 165/2001", "D.P.R. 62/2013", "Syllabus"]
 source_refs: ["sources/presa-servizio-pa-metodo-bando.md", "sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego.md", "sources/aran-contrattazione-collettiva-comparti-aree-pubblico-impiego.md", "sources/ccnl-comparti-aree-famiglie-professionali-pa.md", "sources/d-p-r-16-aprile-2013-n-62-codice-comportamento-dipendenti-pubblici.md", "sources/d-p-r-13-giugno-2023-n-81-modifiche-codice-comportamento.md", "sources/formazione-competenze-pa-syllabus-direttiva-2025.md", "sources/d-lgs-27-ottobre-2009-n-150-performance.md", "sources/responsabilita-dirigenziale-legalita-organizzativa-performance-rischio.md", "sources/dopo-prova-esiti-graduatoria-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/struttura-madre-il-metodo-bando.md"]
 book_refs: ["il-metodo-bando"]
-confidence: 0.85
-updated_at: 2026-06-15T14:17:46.7838501+02:00
+confidence: 0.91
+updated_at: 2026-07-01T17:00:00+02:00
 created_at: 2026-06-07T19:11:17+02:00
 review_required: true
 canonical: true
 tags: ["book-chapter", "extra-chapter", "onboarding", "public-employment", "workbook"]
 book_id: il-metodo-bando
 outline_section: 31
-draft_stage: revised-editorial-draft
+draft_stage: professional-complete-draft
 last_compiled_from: ["sources/presa-servizio-pa-metodo-bando.md", "topics/presa-servizio-pa.md", "topics/pubblico-impiego.md", "topics/organizzazione-pubblica.md", "topics/capitale-studio-riutilizzabile.md", "topics/etica-pubblica.md"]
 ---
 
 # Capitolo 31 - Prendere servizio nella PA: dal concorso al ruolo
+
+> Modulo ricettario **R7** — Scheda dalla graduatoria al ruolo. Collega [[books/il-metodo-bando/chapters/pubblico-impiego-e-organizzazione-pa|Cap. 6]], [[books/il-metodo-bando/chapters/checklist-operative|Cap. 24]] e [[books/il-metodo-bando/chapters/dopo-la-prova-esiti-graduatoria-prossima-mossa|R6 Cap. 30]].
 
 Il concorso non serve solo a superare una prova.
 
@@ -93,6 +95,33 @@ La domanda corretta non e': "Sono in graduatoria, quindi che succede?".
 
 La domanda corretta e': "Quale atto ufficiale mi dice il prossimo passo, entro quale termine e con quali documenti?".
 
+| Momento | Rischio tipico | Comportamento metodico |
+|---|---|---|
+| Rinuncia o mancata risposta | perdere il turno senza traccia | leggere termini, canale e conseguenze prima di decidere; conservare ogni risconto |
+| Documenti incompleti | slittamento o sospensione | checklist documentale, copie, verifica con ufficio personale |
+| Presa di servizio | arrivare impreparati | sede, orario, referente, strumenti, codice di comportamento |
+
+Se arrivi da R6, non chiudere la cartella dopo-prova: trasformala in cartella di ingresso aggiungendo comunicazioni, riscontri e documenti richiesti.
+
+## Protocollo ingresso: dalla comunicazione alla presa di servizio
+
+Il passaggio al ruolo funziona se ogni fase ha un compito preciso. Non mescolare euforia, fretta e improvvisazione nello stesso momento.
+
+| Fase | Cosa fare | Cosa non fare |
+|---|---|---|
+| Comunicazione ricevuta | leggere integralmente, segnare termini, canale, documenti, contatti | rispondere a caldo senza aver capito cosa e' richiesto |
+| 0-48 ore | creare cartella ingresso, elenco documenti, domande per ufficio personale | chiedere a chat o forum regole che valgono solo per il tuo ente |
+| Entro termine indicato | inviare risconto e documenti sul canale ufficiale, salvare ricevute | usare canali informali se il bando o l'avviso ne indicano altri |
+| Prima del primo giorno | verificare sede, orario, profilo, CCNL da controllare, codice di comportamento | studiare istituti contrattuali generici senza fonte dell'ente |
+| Giorni 1-30 | scheda ufficio, domande precise, diario ingresso, autonomia progressiva | dimostrare competenza improvvisando su dati, atti o applicativi |
+
+Regola operativa:
+
+- alla **comunicazione** rispondi con metodo, non con impulso;
+- entro il **termine ufficiale** consegni cio che e' richiesto e conservi prove;
+- **prima del primo giorno** sai dove andare, con chi parlare e cosa non fare;
+- nei **primi 30 giorni** impari l'organizzazione prima di cercare velocita.
+
 ## La cartella di ingresso
 
 ![Figura 31.3 - Cartella di ingresso: organizzare comunicazioni, riscontri, documenti, regole e appunti dei primi giorni.](../assets/chapter-31/03-cartella-ingresso.png)
@@ -127,6 +156,26 @@ Usa nomi semplici:
 | Appunti | 2026-ente-profilo-diario-ingresso.md |
 
 L'ordine documentale e' gia un comportamento professionale.
+
+## Registro comunicazioni di ingresso
+
+Quando la procedura di assunzione e' in corso, le comunicazioni possono moltiplicarsi: integrazioni documentali, date, sedi, referenti, istruzioni su contratto o presa di servizio.
+
+Tieni un registro operativo, non un diario emotivo.
+
+| Data | Fonte ufficiale | Tipo comunicazione | Cosa devo fare | Termine | Prossimo controllo |
+|---|---|---|---|---|---|
+| | | | | | |
+| | | | | | |
+| | | | | | |
+
+Frequenza consigliata:
+
+- **fase attiva** (documenti o date in sospeso): controllo fonti 2-3 volte a settimana, finestra da 15 minuti (protocollo R1);
+- **attesa presa di servizio** (data gia fissata): controllo 1 volta a settimana per eventuali aggiornamenti;
+- **dopo il primo giorno**: archivia la cartella ingresso e passa al diario dei primi 30 giorni.
+
+Non chiamare ogni giorno l'ufficio personale per ansia: prepara domande precise e rispetta i canali indicati.
 
 ## Da candidato a dipendente pubblico
 
@@ -399,6 +448,56 @@ Dopo i primi 30 giorni, verifica:
 
 Se molte risposte sono negative, non significa che sei inadeguato. Significa che devi chiedere orientamento e mettere ordine.
 
+## Scheda workbook: Ingresso in PA in 30 minuti
+
+Compila questa scheda quando ricevi una comunicazione utile o prima del primo giorno.
+
+| Domanda | Risposta |
+|---|---|
+| Quale atto o comunicazione definisce il prossimo passo? | |
+| Entro quale termine devo rispondere o consegnare documenti? | |
+| Su quale canale ufficiale devo inviare risconti? | |
+| Quali documenti sono richiesti e quali ho gia pronti? | |
+| Chi e' il referente (ufficio personale, responsabile)? | |
+| Data, sede e orario di presa di servizio? | |
+| Profilo, area e CCNL o comparto da verificare? | |
+| Tre doveri del codice di comportamento da rileggere subito? | |
+| Tre domande intelligenti da fare il primo giorno? | |
+| Quale rischio voglio evitare nei primi 30 giorni? | |
+
+La scheda e' utile solo se produce un'azione concreta: riscontro inviato, cartella ordinata, domande scritte, primo giorno preparato.
+
+## Cinque dati minimi prima del primo giorno
+
+Prima di entrare in ufficio verifica di avere almeno questi cinque dati, ciascuno con fonte ufficiale o indicazione dell'ente:
+
+1. **Atto o comunicazione** che fissa il passo successivo (non solo voce in graduatoria).
+2. **Termine e canale** per riscontri e documenti (PEC, portale, modulo, sportello).
+3. **Luogo e modalita** di ingresso (sede, orario, referente, eventuali credenziali).
+4. **Profilo e comparto** da incrociare con CCNL e organigramma dell'ente.
+5. **Primo referente operativo** (responsabile diretto o tutor di ingresso).
+
+Se manca anche uno solo, non improvvisare: chiedi all'ufficio personale con domanda precisa e conserva la risposta nella cartella.
+
+## Chiusura operativa
+
+L'ingresso in PA e' chiuso metodologicamente quando hai trasformato l'esito del concorso in comportamento professionale verificabile, non quando hai solo firmato un documento.
+
+| Azione | Fatto |
+|---|---|
+| Ho distinto graduatoria, chiamata, documenti, contratto e presa di servizio | |
+| Ho applicato il protocollo ingresso senza risposte a caldo | |
+| La cartella di ingresso e' ordinata e con ricevute | |
+| Ho compilato la scheda workbook ingresso in 30 minuti | |
+| Il registro comunicazioni e' attivo se la procedura e' ancora aperta | |
+| Conosco i cinque dati minimi prima del primo giorno | |
+| Ho riletto codice di comportamento e riservatezza (Cap. 6) | |
+| Ho preparato scheda ufficio e domande intelligenti | |
+| Il piano primi 30 giorni e' scritto (affidabilita prima di velocita) | |
+| Ho collegato capitale di studio (R2) a procedimenti reali dell'ufficio | |
+
+Il Metodo BANDO non termina con la graduatoria. Termina quando sai entrare in servizio con ordine, prudenza e capacita di imparare senza errori evitabili.
+
 ## Riferimenti consolidati
 
 - [[sources/presa-servizio-pa-metodo-bando]]
@@ -419,4 +518,5 @@ Se molte risposte sono negative, non significa che sei inadeguato. Significa che
 - La struttura madre originaria non prevedeva il Capitolo 31. Questo capitolo e' un'estensione editoriale: in revisione decidere se mantenerlo numerato o trasformarlo in chiusura del libro.
 - Le parti su assunzione, contratto, periodo di prova, sedi, orario, trattamento economico, ferie, permessi e istituti contrattuali devono essere verificate su bando, comunicazioni ufficiali, CCNL applicabile e atti dell'amministrazione.
 - Il capitolo non offre consulenza sul singolo rapporto di lavoro. Mantiene taglio metodologico e rinvia a ufficio personale, fonti ufficiali e supporto qualificato quando necessario.
-- In impaginazione valutare una scheda workbook autonoma "Primi 30 giorni in PA".
+- Scheda workbook "Ingresso in PA in 30 minuti", registro comunicazioni e protocollo ingresso inseriti nel capitolo; in impaginazione valutare estrazione come PDF compilabile autonomo.
+- Coordinare rimandi con Cap. 6 (pubblico impiego), Cap. 24 (checklist operative), R6 (dopo-prova e graduatoria), R2 (capitale di studio) e R1 (controllo fonti su comunicazioni dell'ente).

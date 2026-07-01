@@ -1,0 +1,690 @@
+sviluppa M-FC01
+
+Procedo come dossier operativo completo in 12 blocchi, usando la struttura ConcorsoBook e verificando online soprattutto bandi recenti, CCNL, fonti ufficiali e competitor.
+
+Prima base acquisita: il modulo deve seguire il template in 5 parti, non duplicare il libro core, e coprire Ministeri, PCM e Avvocatura dello Stato come perimetro “Funzioni Centrali”. Inserirò i dati non verificabili come “DATO DA VERIFICARE”, senza forzare numeri o ISBN.
+
+Ragionato per 5m 15s
+DOSSIER REDAZIONALE — M-FC01 Ministeri e Presidenza del Consiglio
+
+Data dossier: 27 giugno 2026.
+Perimetro editoriale: Ministeri, Presidenza del Consiglio dei ministri, Avvocatura dello Stato. Sono esclusi, salvo raccordi, Agenzie fiscali, EPNE, uffici giudiziari e Authority, coperti da moduli autonomi. Il modulo M-FC01 appartiene alla famiglia Funzioni Centrali e, nell’architettura ConcorsoBook OS, copre “15 Ministeri, PCM, Avvocatura dello Stato”, con stima di famiglia pari a circa 247.000 dipendenti e 8–12.000 posti/bandi annui stimati. Dato da validare su Conto annuale RGS e assetto ministeriale vigente prima della chiusura editoriale.
+
+1. PROFILO EDITORIALE
+Voce	Specifica redazionale
+Famiglia	A — Funzioni Centrali.
+Modulo	M-FC01 — Ministeri e Presidenza del Consiglio.
+Enti coperti	Ministeri; Presidenza del Consiglio dei ministri; Avvocatura dello Stato. Assetto puntuale dei ministeri vigenti: DATO DA VERIFICARE in prossimità della pubblicazione.
+Stima dipendenti	Famiglia Funzioni Centrali: circa 247.000 dipendenti nel modello ConcorsoBook. Ripartizione per Ministeri/PCM/Avvocatura: DATO DA VERIFICARE su Conto annuale RGS, PIAO e bilanci di ciascuna amministrazione.
+Profili tipici	Amministrativo-giuridico; amministrativo-contabile; economico-finanziario; informatico/digitale; statistico; comunicazione istituzionale; valutazione politiche pubbliche; procurement; supporto PNRR; personale; affari generali; segreterie tecniche.
+Aree CCNL 2022–2024	Operatori, Assistenti, Funzionari, Elevate professionalità/Elevate qualificazioni secondo CCNL Funzioni Centrali; per PCM, verificare comparto autonomo PCM.
+Bandi annui stimati	8–12.000 posti/bandi annui stimati nel modello editoriale. Dato commerciale-operativo, non statistica ufficiale.
+Target candidato	Candidato diplomato o laureato che concorre per ministeri e amministrazioni centrali, spesso tramite RIPAM/inPA, con prove a quiz, scritte, orali, situazionali e digitali.
+Pattern di acquisto	Libro principale + M-FC01. Combinazioni frequenti: M-TR01 ICT, M-TR02 Appalti/PNRR/Fondi UE, M-IR04 Cultura, M-SP04 Prefettizie/Diplomatiche per profili di fascia alta.
+Posizionamento commerciale	Volume specialistico ad alta domanda, con estensioni premium per PCM, policy evaluation, digital transformation e profili economico-finanziari.
+Promessa editoriale	Preparare concorsi ministeriali senza trattarli come concorsi comunali generici: ordinamento del Governo, organizzazione ministeriale, PCM, Avvocatura, PIAO, performance, contabilità dello Stato e bando RIPAM.
+2. OUTLINE CANONICO DEL MODULO
+
+Il modulo deve seguire il template canonico dei moduli specialistici: 12–15 capitoli, 25.000–35.000 parole, workbook operativo, output applicativo per capitolo, cross-link al libro principale e casi pratici.
+
+Target complessivo: circa 31.000 parole, 90–110 pagine equivalenti.
+
+Cap.	Titolo	Obiettivo didattico	Output applicativo	Cross-link libro core	Target parole
+1	Lavorare nelle Funzioni centrali	Capire differenza tra Ministeri, PCM, Avvocatura, Agenzie ed enti non economici.	Mappa “ente-profilo-atto”.	Vedi Libro principale, Cap. 19 — Le famiglie dei concorsi pubblici.	2.200
+2	Anatomia del bando ministeriale e RIPAM	Leggere bando, profilo, codice concorso, punteggi, soglie, prove.	Bando Decoder ministeriale.	Vedi Libro principale, Cap. 2 — Anatomia del bando.	2.400
+3	Aree professionali e profili CCNL	Collegare profilo, area, mansioni, competenze e prova.	Scheda area/profilo.	Vedi Libro principale, Cap. 6 — Pubblico impiego e organizzazione della PA.	2.000
+4	Governo, Ministeri e ordinamento centrale	Conoscere Costituzione, L. 400/1988, D.Lgs. 300/1999.	Organigramma Governo-Ministeri.	Vedi Libro principale, Cap. 4 — Costituzione e ordinamento dello Stato.	2.700
+5	Presidenza del Consiglio dei ministri	Comprendere funzioni di impulso, indirizzo e coordinamento.	Mappa PCM: Dipartimenti, uffici, missioni.	Materia esclusivamente specialistica, non trattata nel libro core.	2.500
+6	Ministeri: dipartimenti, direzioni, uffici periferici	Distinguere struttura centrale, articolazioni periferiche e atti tipici.	Scheda “come leggere un PIAO ministeriale”.	Vedi Libro principale, Cap. 6 — Pubblico impiego e organizzazione della PA.	2.500
+7	Avvocatura dello Stato	Collocare pareri, difesa erariale, patrocinio e rapporti con le amministrazioni.	Schema parere-contenzioso-difesa.	Materia esclusivamente specialistica, non trattata nel libro core.	2.000
+8	PIAO, performance, valore pubblico e capitale umano	Usare PIAO e performance in chiave concorsuale.	Mini-PIAO compilabile.	Vedi Libro principale, Cap. 6 — Pubblico impiego; Cap. 7 — Trasparenza, anticorruzione e privacy.	2.400
+9	Contabilità dello Stato e bilancio ministeriale	Collegare missioni, programmi, spesa, impegno, controlli.	Ciclo della spesa ministeriale.	Vedi Libro principale, Cap. 8 — Contabilità pubblica essenziale.	2.600
+10	Contratti, PNRR e digitalizzazione nelle amministrazioni centrali	Applicare contratti pubblici, CIG/CUP, BDNCP, PNRR, CAD.	Caso acquisto/PNRR/dati.	Vedi Libro principale, Cap. 9 — Contratti pubblici; Cap. 10 — PA digitale.	2.800
+11	Casi pratici ministeriali	Allenare risposta teorico-pratica su accesso, procedimento, graduatoria, spesa, privacy.	10 casi guidati.	Vedi Libro principale, Cap. 17 — Casi pratici e problem solving amministrativo.	2.600
+12	Quesiti situazionali e codice di comportamento	Rispondere a conflitti, regali, riservatezza, rapporto con utenza e superiori.	Griglia “scelta corretta PA”.	Vedi Libro principale, Cap. 18 — Quesiti situazionali e soft skills.	2.000
+13	Matrice materie e piano 30/60/90 giorni	Trasformare il bando ministeriale in piano mirato.	Piano 30/60/90 ministeri.	Vedi Libro principale, Cap. 22 — Piano 30/60/90 giorni.	2.000
+14	Simulazione finale e diario errori	Chiudere con quiz, risposta sintetica, orale e diario errori.	Simulazione + checklist.	Vedi Libro principale, Cap. 14 — Prova a quiz; Cap. 15 — Prova scritta; Cap. 23 — Diario degli errori.	2.300
+3. MAPPA NORMATIVA COMPLETA
+3.1 Normativa primaria
+
+Le norme trasversali già censite nel catalogo ConcorsoBook includono procedimento, pubblico impiego, organizzazione del Governo, performance, concorsi, trasparenza, digitale, contratti e contabilità pubblica.
+
+Fonte	Titolo ufficiale	Articoli rilevanti	URL Normattiva vigente	Ultimo aggiornamento noto	Rilevanza
+Costituzione	Costituzione della Repubblica italiana	Artt. 95, 97, 98, 100, 103, 113	https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione	Verificare a chiusura bozze	Alta: Governo, PA, imparzialità, concorso.
+L. 23 agosto 1988, n. 400	Disciplina dell’attività di Governo e ordinamento della PCM	Artt. 2, 5, 17, 19, 20	https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400	Verificare a chiusura bozze	Alta: atti del Governo, DPCM, regolamenti.
+D.Lgs. 30 luglio 1999, n. 300	Riforma dell’organizzazione del Governo	Artt. 2–6 e titoli sui Ministeri	https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300	Fonte base già censita	Alta: ministeri, dipartimenti, agenzie.
+D.Lgs. 30 luglio 1999, n. 303	Ordinamento della Presidenza del Consiglio dei ministri	Artt. 2–11	https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;303	Verificare a chiusura bozze	Alta: struttura e funzioni PCM.
+L. 7 agosto 1990, n. 241	Procedimento amministrativo e accesso	Artt. 1, 3, 4–6, 7–10-bis, 14 ss., 19, 20, 21-quinquies, 21-nonies, 22–28	https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241	Fonte base già censita	Alta: procedimento, accesso, motivazione.
+D.Lgs. 30 marzo 2001, n. 165	Ordinamento del lavoro alle dipendenze delle PA	Artt. 1, 2, 4, 5, 6, 7, 16–17, 35, 52–55	https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165	Fonte base già censita	Alta: pubblico impiego, dirigenza, reclutamento.
+D.Lgs. 27 ottobre 2009, n. 150	Ottimizzazione produttività lavoro pubblico, efficienza e trasparenza	Ciclo performance, OIV, valutazione	https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2009-10-27;150	Fonte base già censita	Alta: performance e valore pubblico.
+L. 6 novembre 2012, n. 190	Prevenzione della corruzione	RPCT, PNA, misure prevenzione	https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-11-06;190	Fonte base già censita	Alta: anticorruzione.
+D.Lgs. 14 marzo 2013, n. 33	Riordino disciplina trasparenza	Accesso civico, obblighi pubblicazione	https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2013-03-14;33	Fonte base già censita	Alta: Amministrazione trasparente.
+D.Lgs. 8 aprile 2013, n. 39	Inconferibilità e incompatibilità incarichi	Incarichi dirigenziali e amministrativi	https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2013-04-08;39	Fonte base già censita	Media: utile per profili funzionari e dirigenti.
+D.Lgs. 10 marzo 2023, n. 24	Whistleblowing	Canali, tutele, segnalazioni	https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-03-10;24	Fonte base già censita	Media-alta: quesiti situazionali.
+D.Lgs. 7 marzo 2005, n. 82	Codice dell’amministrazione digitale	Documento informatico, firme, domicilio digitale, servizi	https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82	Fonte base già censita	Alta: PA digitale.
+D.P.R. 28 dicembre 2000, n. 445	Testo unico documentazione amministrativa	Autocertificazioni, dichiarazioni, controlli	https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2000-12-28;445	Fonte base già censita	Alta: concorsi, titoli, dichiarazioni.
+D.Lgs. 31 marzo 2023, n. 36	Codice dei contratti pubblici	Principi, RUP, ciclo affidamento, digitalizzazione	https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-03-31;36	Correttivo D.Lgs. 209/2024 già censito	Alta: gare, affidamenti, PNRR.
+L. 31 dicembre 2009, n. 196	Contabilità e finanza pubblica	Bilancio Stato, programmazione, controlli	https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196	Verificare a chiusura bozze	Alta: bilancio ministeriale.
+D.Lgs. 26 agosto 2016, n. 174	Codice di giustizia contabile	Responsabilità e giudizio contabile	https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;174	Fonte base già censita	Media: responsabilità erariale.
+R.D. 30 ottobre 1933, n. 1611	Testo unico Avvocatura dello Stato	Patrocinio, pareri, rappresentanza	https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1611	DATO DA VERIFICARE	Alta per capitolo Avvocatura.
+3.2 Normativa secondaria
+Fonte	Oggetto	Articoli/parti rilevanti	URL ufficiale	Rilevanza
+D.P.R. 9 maggio 1994, n. 487	Accesso agli impieghi nelle PA	Requisiti, prove, graduatorie, commissioni	https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994-05-09;487	Alta.
+D.P.R. 16 giugno 2023, n. 82	Modifiche al D.P.R. 487/1994	Digitalizzazione concorsi, prove, banche dati	https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2023-06-16;82	Alta.
+D.P.R. 16 aprile 2013, n. 62	Codice di comportamento dipendenti pubblici	Doveri, regali, conflitti, comportamento in servizio	https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2013-04-16;62	Alta.
+D.P.R. 13 giugno 2023, n. 81	Modifiche al codice di comportamento	Social media, formazione, etica pubblica	https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2023-06-13;81	Media-alta.
+D.P.R. 24 giugno 2022, n. 81	PIAO e adempimenti assorbiti	Piani soppressi/assorbiti	https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2022-06-24;81	Alta.
+D.M. 30 giugno 2022, n. 132	Piano-tipo PIAO	Schema tipo, sezioni, sottosezioni	URL ufficiale: DATO DA VERIFICARE	Alta.
+D.P.R. 3 luglio 1997, n. 520	Organizzazione dei Dipartimenti e uffici PCM	Strutture PCM	URL Normattiva: DATO DA VERIFICARE	Media-alta per PCM.
+D.P.C.M. 1 ottobre 2012	Ordinamento strutture generali della PCM	Strutture generali della Presidenza	Citato nei bandi PCM; URL ufficiale: DATO DA VERIFICARE	Alta per PCM.
+D.P.C.M. 29 gennaio 2025	Autorizzazioni a bandire e assumere personale	Ministeri e amministrazioni centrali	Gazzetta Ufficiale, autorizzazioni 2025	Media: contesto reclutamento. Il DPCM autorizza assunzioni presso vari ministeri e amministrazioni centrali.
+Regolamenti organizzativi dei singoli Ministeri	Organizzazione interna	Dipartimenti, direzioni, uffici dirigenziali	URL singoli Ministeri/GU: DATO DA VERIFICARE	Alta per capitoli 4–6.
+3.3 Contrattazione collettiva
+Ambito	Fonte	Stato	Aree/profili	URL ufficiale	Rilevanza
+Comparto Funzioni Centrali	CCNL Funzioni Centrali 2022–2024	Sottoscritto il 27 gennaio 2025 secondo ARAN	Operatori, Assistenti, Funzionari, Elevate professionalità/EQ	ARAN contratti	Alta per Ministeri e Avvocatura.
+Area Funzioni Centrali	CCNL Area Funzioni Centrali 2022–2024	Periodo 1 gennaio 2022–31 dicembre 2024	Dirigenti, professionisti, alte professionalità secondo area	ARAN contratti	Media per profili dirigenziali e ordinamento.
+Comparto autonomo PCM	CCNL Presidenza del Consiglio dei ministri 2019–2021	Sottoscritto il 28 ottobre 2025 secondo ARAN	Personale non dirigente PCM; sistema autonomo da verificare nei dettagli	ARAN contratti	Alta per PCM.
+Area PCM	CCNL Area Presidenza del Consiglio dei ministri 2019–2021	Sottoscritto il 27 febbraio 2026 secondo ARAN	Dirigenza PCM	ARAN contratti	Media-alta per contesto istituzionale PCM.
+3.4 Soft law e prassi
+Autorità	Atto/prassi	Uso nel modulo	Stato
+Dipartimento Funzione Pubblica	Manuale operativo PIAO per amministrazioni centrali	Spiegare struttura PIAO, adempimenti assorbiti, valore pubblico	Fonte ufficiale; il manuale descrive il PIAO come strumento di razionalizzazione e integrazione di piani.
+Dipartimento Funzione Pubblica / inPA	Avvisi, FAQ, piattaforme domanda	Capitolo 2, Bando Decoder, comunicazioni ai candidati	Fonte da verificare bando per bando.
+ANAC	PNA, linee guida trasparenza, contratti, whistleblowing	Capitoli 7, 10, 12	PNA vigente: DATO DA VERIFICARE su ANAC al momento di redazione.
+AgID	Linee guida CAD, documenti informatici, accessibilità, interoperabilità	Capitoli 10 e glossario	Aggiornamento: DATO DA VERIFICARE su AgID.
+Garante Privacy	Provvedimenti e guide su accesso, trasparenza, dati personali	Casi su accesso, graduatorie, pubblicazione dati	Aggiornamento: DATO DA VERIFICARE.
+MEF/RGS	Circolari bilancio, SICOGE, controlli, conto annuale	Capitolo 9; stime dipendenti	Fonte obbligatoria per dati quantitativi.
+Formez/RIPAM	Bandi, diari prova, FAQ, graduatorie	Bandi-tipo e simulazioni	Fonte operativa per concorsi unici.
+4. MAPPA GIURISPRUDENZIALE
+Organo	Estremi	Link banca dati ufficiale	Principio operativo
+Corte costituzionale	Sent. n. 35/2010	Corte costituzionale	Il pubblico concorso è regola generale di accesso, derogabile solo entro limiti rigorosi. Serve per spiegare perché stabilizzazioni e procedure riservate non possono diventare canale ordinario.
+Corte costituzionale	Sent. n. 227/2021	Corte costituzionale	L’art. 97 Cost. collega concorso, imparzialità e buon andamento. Le deroghe devono essere puntuali, motivate e coerenti con l’interesse pubblico.
+Corte costituzionale	Sent. n. 57/2025	Corte costituzionale	La selezione per soli titoli e le procedure non comparative pongono questioni di compatibilità con l’art. 97 Cost.; utile per capitolo su reclutamento e graduatorie.
+Consiglio di Stato	Ad. Plen. n. 14/2011	Giustizia amministrativa — DATO DA VERIFICARE	Principio guida su rapporto tra scorrimento graduatoria e nuovo concorso: l’amministrazione deve motivare la scelta, specie quando esiste graduatoria valida.
+TAR Lazio	Sez. IV-ter, sent. 29 ottobre 2025, n. 18088	Giustizia amministrativa	In materia concorsuale, la pubblicazione rilevante riguarda gli atti finali e le graduatorie legittimamente approvate; utile per casi su graduatoria e interesse a ricorrere.
+Consiglio di Stato	Sentenza 2025 su graduatorie/scorrimento — estremi esatti DATO DA VERIFICARE	Giustizia amministrativa	Le graduatorie valide incidono sulla motivazione del nuovo reclutamento; il candidato deve distinguere idoneità, vincita e scorrimento.
+Corte dei conti	Sezioni riunite, n. 1/2025/QM	Corte dei conti	L’art. 53 D.Lgs. 165/2001 sugli incarichi non autorizzati resta centrale per responsabilità del dipendente e riversamento compensi.
+Cassazione	Lavoro pubblico, concorsi e giurisdizione — DATO DA VERIFICARE	ItalgiureWeb / Corte di cassazione	Inserire pronuncia solo dopo verifica ufficiale. Non usare massime editoriali non tracciate.
+CGUE/CEDU	Accesso a impieghi pubblici, non discriminazione, durata ragionevole — DATO DA VERIFICARE	CURIA / HUDOC	Da inserire solo se il bando/profilo richiede diritto UE o tutela sovranazionale.
+5. MAPPA ISTITUZIONALE
+5.1 Autorità e organi competenti
+Ambito	Soggetti/strutture	Funzione concorsuale
+Governo	Presidente del Consiglio, Consiglio dei ministri, Ministri, Sottosegretari, Viceministri	Indirizzo politico-amministrativo, regolamenti, DPCM, DM.
+PCM	Presidente, Segretario generale, Dipartimenti, Uffici autonomi, strutture di missione	Coordinamento, impulso, politiche trasversali. Il PIAO PCM 2026–2028 descrive strutture di diretta collaborazione, strutture generali e missioni.
+Ministeri	Ministro, Capo di Gabinetto, Segretario generale o Capi Dipartimento, Direttori generali	Organizzazione, programmazione, gestione, atti di indirizzo e gestione.
+Avvocatura dello Stato	Avvocato generale, Avvocature distrettuali, avvocati e procuratori dello Stato, personale amministrativo	Difesa erariale, pareri, rappresentanza e consulenza legale.
+Reclutamento	Dipartimento Funzione Pubblica, Formez PA/RIPAM, inPA, Commissioni esaminatrici	Bandi, prove, comunicazioni, graduatorie.
+Controllo/garanzie	Corte dei conti, ANAC, Garante Privacy, AgID, OIV, RPCT, RTD	Controlli, anticorruzione, privacy, digitale, performance.
+Finanza pubblica	MEF, RGS, UCB, Ragionerie territoriali	Bilancio, controlli, spesa, personale, conto annuale.
+5.2 Sigle e acronimi essenziali
+Sigla	Significato
+PCM	Presidenza del Consiglio dei ministri
+CdM	Consiglio dei ministri
+DAGL	Dipartimento per gli affari giuridici e legislativi
+DFP	Dipartimento della Funzione Pubblica
+DTD	Dipartimento per la trasformazione digitale
+DIPE	Dipartimento per la programmazione e il coordinamento della politica economica
+DARA	Dipartimento per gli affari regionali e le autonomie
+MEF	Ministero dell’economia e delle finanze
+RGS	Ragioneria generale dello Stato
+UCB	Ufficio centrale del bilancio
+RTS	Ragioneria territoriale dello Stato
+MIMIT	Ministero delle imprese e del made in Italy
+MIT	Ministero delle infrastrutture e dei trasporti
+MLPS	Ministero del lavoro e delle politiche sociali
+MAECI	Ministero degli affari esteri e della cooperazione internazionale
+MASE	Ministero dell’ambiente e della sicurezza energetica
+MiC	Ministero della cultura
+MIM	Ministero dell’istruzione e del merito
+MUR	Ministero dell’università e della ricerca
+AGS	Avvocatura generale dello Stato
+ARAN	Agenzia per la rappresentanza negoziale delle pubbliche amministrazioni
+ANAC	Autorità nazionale anticorruzione
+AgID	Agenzia per l’Italia digitale
+OIV	Organismo indipendente di valutazione
+RPCT	Responsabile prevenzione corruzione e trasparenza
+RTD	Responsabile per la transizione digitale
+RUP	Responsabile unico del progetto
+RP	Responsabile del procedimento
+PIAO	Piano integrato di attività e organizzazione
+PTFP	Piano triennale fabbisogni di personale
+PTPCT	Piano triennale prevenzione corruzione e trasparenza
+CAD	Codice dell’amministrazione digitale
+CIG	Codice identificativo gara
+CUP	Codice unico di progetto
+BDNCP	Banca dati nazionale contratti pubblici
+FVOE	Fascicolo virtuale operatore economico
+PCP	Piattaforma contratti pubblici
+MEPA	Mercato elettronico della PA
+inPA	Portale nazionale del reclutamento
+RIPAM	Riqualificazione delle pubbliche amministrazioni
+PEC	Posta elettronica certificata
+SPID	Sistema pubblico di identità digitale
+CIE	Carta d’identità elettronica
+CNS	Carta nazionale dei servizi
+FOIA	Accesso civico generalizzato
+GDPR	Regolamento UE 2016/679
+5.3 Atti amministrativi tipici
+Categoria	Atti
+Governo/PCM	DPCM, direttive del Presidente, decreti del Segretario generale, ordinanze nei casi previsti, atti di nomina.
+Ministeri	DM, decreti direttoriali, decreti dipartimentali, circolari, direttive generali, regolamenti ministeriali.
+Reclutamento	Bando, avviso, diario prove, verbale commissione, graduatoria, decreto approvazione atti.
+Gestione interna	Determina/decreto di impegno, provvedimento organizzativo, ordine di servizio, incarico, interpello.
+Contratti	Decisione a contrarre, determina di affidamento, aggiudicazione, stipula, verbale esecuzione, liquidazione.
+Avvocatura	Parere, memoria difensiva, atto di costituzione, richiesta documentale all’amministrazione.
+5.4 Documenti programmatici
+Documento	Uso nel modulo
+PIAO	Valore pubblico, performance, rischi corruttivi, fabbisogni, formazione, lavoro agile.
+Bilancio dello Stato	Missioni, programmi, stanziamenti, gestione della spesa.
+Nota integrativa al bilancio	Obiettivi e indicatori ministeriali.
+Rendiconto generale dello Stato	Consuntivo e controllo.
+Direttiva annuale del Ministro	Priorità politico-amministrative.
+Piano triennale informatica	Digitale, interoperabilità, sicurezza.
+Programma acquisti	Programmazione contratti pubblici.
+Piano formazione	Competenze, Syllabus, aggiornamento personale.
+6. BANDI-TIPO RECENTI
+
+I bandi sotto elencati sono selezionati come campione redazionale degli ultimi 24 mesi, con prevalenza di concorsi unici RIPAM e concorsi ministeriali/PCM. I dati di programma dettagliato devono essere verificati sui PDF di bando e sugli avvisi successivi prima della stesura finale.
+
+N.	Ente/procedura	Profilo	Posti	Riferimento	Programma/prove	Banca dati	Punteggi/soglie
+1	RIPAM — diverse amministrazioni centrali	Funzionari/EQ amministrativi, economici, informatici, comunicazione	1.340	inPA, pubblicato 30 dicembre 2025	Profili: 697 amministrativi, 219 economici, 271 informatici, 36 comunicazione, 2 EQ AgID e altri. Programma dettagliato: DATO DA VERIFICARE nel PDF.	DATO DA VERIFICARE	DATO DA VERIFICARE
+2	RIPAM — diverse amministrazioni	Assistenti amministrativi, economici, informatici, tecnici	3.997	inPA, dicembre 2025	2.913 assistenti amministrativi, 498 economici, 583 informatici, 3 tecnici. Prove e diario da avvisi successivi.	DATO DA VERIFICARE	DATO DA VERIFICARE
+3	PCM, MEF, Interno, Cultura, Turismo, MIMIT, MLPS, Giustizia e altri	EP e Funzionari per valutazione politiche pubbliche e spending review	294	inPA, 30 dicembre 2025	33 EP e 261 funzionari in profili di valutazione, revisione della spesa, analisi politiche pubbliche.	DATO DA VERIFICARE	DATO DA VERIFICARE
+4	MEF	Funzionari vari profili	485 funzionari su 548 complessivi	inPA, 30 dicembre 2025	Profili giuridico-tributari, amministrativo-contabili, statistici, informatici, economico-finanziari e giuridico-legali.	Il bando prevede che non sia pubblicata banca dati per eventuale preselezione.	Scritto: 3 quesiti aperti, 90 minuti, 30 punti, soglia 21/30; orale 30 punti, soglia 21/30.
+5	PCM — Dipartimento per la trasformazione digitale	Specialisti scientifico-tecnologici e comunicazione/sistemi	130	inPA, giugno 2026	80 specialisti scientifico-tecnologici; 50 comunicazione e sistemi di gestione.	Non è prevista pubblicazione banca dati.	Titoli 60, scritto 60, orale 60; scritto 60 quesiti in 80 minuti; orale soglia 42/60.
+6	MIMIT, MIT, MLPS	Funzionari amministrativi, giuridici, economici, statistici	327	inPA, dicembre 2025	161 MIMIT amministrativo/giuridico/economico; 6 MIMIT statistici; 160 legali-amministrativi tra MIT e MLPS.	DATO DA VERIFICARE	DATO DA VERIFICARE
+7	Avvocatura dello Stato, Consiglio di Stato, TAR	Funzionari amministrativi, giuridici, economici, informatici/statistici	32	inPA, ottobre 2025	10 funzionari Avvocatura; 19 CdS/TAR amministrativo/giuridico/economico; 3 informatico/statistico.	DATO DA VERIFICARE	DATO DA VERIFICARE
+7. MATERIE DEL BANDO-TIPO CLASSIFICATE
+
+Campione provvisorio: 7 bandi verificati tramite inPA + 3 bandi da integrare per completare la matrice a 10. Le percentuali sono da considerare redazionali provvisorie e vanno validate con lettura integrale di 10 PDF di bando.
+
+Materia	% presenza stimata	Prova Q/S/O/P	Peso	Capitolo modulo
+Diritto amministrativo, procedimento, accesso	100%	Q/S/O/P	Alto	Capp. 2, 11
+Pubblico impiego, codice comportamento, responsabilità	100%	Q/S/O	Alto	Capp. 3, 12
+Organizzazione Governo, Ministeri, PCM, ente di destinazione	85–100%	Q/S/O	Alto	Capp. 4–6
+Trasparenza, anticorruzione, privacy	85%	Q/S/O/P	Alto	Capp. 8, 11, 12
+Informatica, PA digitale, competenze digitali	85–100%	Q/O/P	Alto	Cap. 10
+Inglese	70–90%	O/Q	Medio-alto	Cap. 14 + core
+Contabilità pubblica, bilancio dello Stato, spesa	50–70%	S/O/P	Alto per profili MEF/economici	Cap. 9
+Contratti pubblici, CIG/CUP, PNRR	60–80%	Q/S/O/P	Medio-alto	Cap. 10
+Logica, ragionamento, situazionali	40–70%	Q/O	Medio	Capp. 12, 14
+Organizzazione specifica del Ministero	60–80%	O/S	Alto all’orale	Capp. 5–6
+Policy evaluation, spending review	15–30%	S/O/P	Alto solo profili dedicati	Capp. 8, 13
+Comunicazione pubblica e istituzionale	15–30%	S/O/P	Alto solo profili dedicati	Capp. 10–12
+
+La matrice non sostituisce il bando: serve a trasformare programma, prove, punteggi e soglie in piano operativo, secondo l’impostazione della matrice materie/profili del libro principale.
+
+8. GLOSSARIO TECNICO DEL SETTORE
+Termine	Categoria	Definizione operativa
+Amministrazione centrale	Istituzionale	PA statale con competenza nazionale: Ministeri, PCM e strutture centrali.
+Ministero	Istituzionale	Apparato statale posto sotto responsabilità politica di un Ministro.
+PCM	Sigla	Presidenza del Consiglio dei ministri; struttura di supporto al Presidente e al coordinamento governativo.
+Consiglio dei ministri	Istituzionale	Organo collegiale del Governo.
+Ministro	Istituzionale	Organo politico al vertice di un dicastero.
+Ministro senza portafoglio	Istituzionale	Ministro senza autonomo bilancio ministeriale, spesso avvalso di strutture PCM.
+Sottosegretario	Istituzionale	Collabora con Ministro o Presidente secondo deleghe.
+Viceministro	Istituzionale	Sottosegretario con deleghe ampie e titolo specifico.
+Gabinetto	Amministrativo	Ufficio di diretta collaborazione del Ministro o del Presidente.
+Capo di Gabinetto	Amministrativo	Coordina uffici di diretta collaborazione e raccordo politico-amministrativo.
+Segretario generale	Amministrativo	Vertice amministrativo in amministrazioni con modello a segretariato generale.
+Dipartimento	Amministrativo	Macrostruttura organizzativa per grandi aree di competenza.
+Direzione generale	Amministrativo	Struttura dirigenziale generale con funzioni gestionali settoriali.
+Capo Dipartimento	Amministrativo	Dirigente di vertice del dipartimento.
+Ufficio periferico	Amministrativo	Articolazione territoriale di amministrazione centrale.
+Avvocatura dello Stato	Istituzionale	Organo che assiste e difende lo Stato e amministrazioni ammesse.
+Avvocato generale	Istituzionale	Vertice dell’Avvocatura dello Stato.
+Avvocatura distrettuale	Istituzionale	Articolazione territoriale dell’Avvocatura.
+Patrocinio erariale	Giuridico	Difesa in giudizio dello Stato e degli enti ammessi.
+Parere	Atto	Valutazione giuridica o tecnica richiesta a organo competente.
+DPCM	Atto	Decreto del Presidente del Consiglio dei ministri.
+DM	Atto	Decreto ministeriale adottato dal Ministro competente.
+Decreto interministeriale	Atto	Decreto adottato da più Ministri quando competenze si intrecciano.
+Direttiva ministeriale	Atto	Atto di indirizzo politico-amministrativo.
+Circolare	Atto	Atto interno o interpretativo-operativo rivolto agli uffici.
+Atto di indirizzo	Giuridico	Definisce obiettivi e priorità, distinto dalla gestione.
+Atto gestionale	Giuridico	Atto di amministrazione concreta adottato dalla dirigenza.
+PIAO	Sigla	Piano integrato di attività e organizzazione.
+Valore pubblico	Amministrativo	Risultato utile per cittadini, imprese e collettività.
+Performance	Amministrativo	Misurazione e valutazione di risultati organizzativi e individuali.
+OIV	Sigla	Organismo indipendente di valutazione.
+RPCT	Sigla	Responsabile prevenzione corruzione e trasparenza.
+RTD	Sigla	Responsabile transizione digitale.
+RUP	Sigla	Responsabile unico del progetto nei contratti pubblici.
+Responsabile procedimento	Procedura	Figura che cura istruttoria e adempimenti del procedimento amministrativo.
+inPA	Sigla	Portale nazionale del reclutamento pubblico.
+RIPAM	Sigla	Programma/procedura di reclutamento e riqualificazione PA.
+Formez PA	Istituzionale	Soggetto spesso coinvolto nella gestione operativa delle procedure RIPAM.
+CCNL Funzioni Centrali	Contrattuale	Contratto collettivo del comparto Ministeri e amministrazioni centrali.
+Area Assistenti	Contrattuale	Area del personale con funzioni istruttorie/esecutive qualificate.
+Area Funzionari	Contrattuale	Area del personale con funzioni istruttorie complesse, specialistiche e responsabilità.
+EQ / Elevate professionalità	Contrattuale	Area/fascia di maggiore responsabilità professionale secondo CCNL applicabile.
+MEF	Sigla	Ministero dell’economia e delle finanze.
+RGS	Sigla	Ragioneria generale dello Stato.
+UCB	Sigla	Ufficio centrale del bilancio presso ministeri.
+RTS	Sigla	Ragioneria territoriale dello Stato.
+SICOGE	Sigla	Sistema informativo contabile usato nella gestione della spesa statale.
+NoiPA	Sigla	Sistema per gestione stipendi e servizi del personale PA.
+CUP	Sigla	Codice unico di progetto.
+CIG	Sigla	Codice identificativo gara.
+BDNCP	Sigla	Banca dati nazionale dei contratti pubblici.
+MEPA	Sigla	Mercato elettronico della pubblica amministrazione.
+CAD	Sigla	Codice dell’amministrazione digitale.
+Protocollo informatico	Digitale	Registrazione e tracciamento dei documenti dell’amministrazione.
+Fascicolo informatico	Digitale	Raccolta organizzata di documenti e dati di procedimento.
+Accesso documentale	Procedura	Accesso ex L. 241/1990 con interesse diretto, concreto e attuale.
+Accesso civico semplice	Procedura	Richiesta di pubblicazione di dati soggetti a obbligo.
+Accesso civico generalizzato	Procedura	Accesso a dati e documenti ulteriori, con limiti e bilanciamenti.
+Autotutela	Procedura	Riesame degli atti da parte della PA secondo presupposti normativi.
+Spending review	Settoriale	Revisione della spesa pubblica e valutazione di efficienza.
+Valutazione politiche pubbliche	Settoriale	Analisi di risultati, impatti e coerenza delle politiche.
+
+Il glossario deve essere coordinato con l’Appendice A del libro principale, che già contiene lessico essenziale PA, procedimento, digitale, contratti, contabilità e concorsi.
+
+9. CASI PRATICI TIPICI
+N.	Scenario	Domanda	Soluzione ragionata	Norma/principio	Errore tipico	Cap.
+1	Un candidato chiede accesso agli elaborati di altri concorrenti.	L’ufficio deve rilasciare tutto?	Verificare interesse, controinteressati, oscuramenti, bilanciamento privacy.	L. 241/1990; D.Lgs. 196/2003; GDPR.	Dire “privacy blocca sempre”.	11
+2	Il bando RIPAM prevede più codici profilo. Il candidato presenta domanda errata.	Può correggere dopo la scadenza?	Dipende da bando, piattaforma, termini e avvisi; dopo scadenza regola restrittiva.	D.P.R. 487/1994; bando.	Trattare inPA come modulo informale.	2
+3	Un Ministero deve scegliere tra DM e decreto direttoriale.	Quale atto è corretto?	Distinguere indirizzo politico/regolazione da gestione amministrativa.	L. 400/1988; D.Lgs. 165/2001.	Confondere Ministro e dirigente.	4
+4	PCM coordina progetto digitale con più amministrazioni.	Quali rischi giuridici gestire?	Competenza, governance, privacy, sicurezza, appalti, interoperabilità.	D.Lgs. 303/1999; CAD; D.Lgs. 36/2023.	Studiare informatica senza PA.	5, 10
+5	Un funzionario riceve regalo da fornitore.	Che deve fare?	Rifiuto/segnalazione secondo codice; valutare conflitto, astensione, tracciabilità.	D.P.R. 62/2013; D.P.R. 81/2023.	Rispondere con buon senso generico.	12
+6	Una fattura è pronta ma manca CIG.	Si può liquidare?	Verificare procedura, tracciabilità, documenti contrattuali, regolarità contabile.	D.Lgs. 36/2023; contabilità Stato.	Confondere liquidazione e pagamento.	9, 10
+7	Avvocatura chiede documenti a un Ministero per giudizio TAR.	Come risponde l’ufficio?	Trasmettere atti completi, cronologia, provvedimento, istruttoria, eventuali rischi.	R.D. 1611/1933; L. 241/1990.	Pensare che “ci pensa l’avvocato” senza istruttoria.	7
+8	Il PIAO segnala carenza di personale ICT.	Come collegarlo a bando e fabbisogni?	Leggere fabbisogni, performance, formazione, digitalizzazione, reclutamento.	D.P.R. 81/2022; DM 132/2022.	Considerare PIAO solo anticorruzione.	8
+9	Pubblicato avviso inPA con nuova data prova.	Serve PEC individuale?	Di norma prevale quanto previsto dal bando; monitorare avvisi ufficiali.	Bando; D.P.R. 487/1994.	Aspettare comunicazione personale.	2
+10	Esiste graduatoria valida ma l’amministrazione bandisce nuovo concorso.	È sempre illegittimo?	No; occorre valutare normativa, motivazione, fabbisogni, profilo e graduatoria.	Art. 97 Cost.; giurisprudenza scorrimento.	Dire “si scorre sempre”.	11
+10. ERRORI FREQUENTI DEI CANDIDATI
+Categoria	Errore	Perché si commette	Correzione
+Concetto giuridico	Preparare un Ministero come un Comune.	Si usa un manuale enti locali o amministrativo generico.	Studiare ordinamento Governo, D.Lgs. 300/1999, PIAO ministeriale.
+Concetto giuridico	Confondere indirizzo politico e gestione.	Si memorizzano organi senza atti.	Tabella Ministro/dirigente/atto/responsabilità.
+Concetto giuridico	Trattare PCM come un Ministero ordinario.	Non si conosce D.Lgs. 303/1999.	Mappa autonoma PCM: coordinamento, dipartimenti, missioni.
+Concetto giuridico	Confondere Avvocatura dello Stato e uffici giudiziari.	Entrambi sembrano “giustizia”.	Separare difesa erariale da amministrazione giudiziaria.
+Terminologico	Confondere DPCM, DM e decreto direttoriale.	Si studiano sigle isolate.	Collegare ogni atto al soggetto competente.
+Terminologico	Confondere RUP e responsabile del procedimento.	Sigle simili e funzioni vicine.	Distinguere contratti pubblici e procedimento generale.
+Terminologico	Confondere CIG e CUP.	Entrambi appaiono negli appalti/PNRR.	CIG = procedura gara; CUP = progetto investimento.
+Terminologico	Usare PIAO, PTPCT e performance come sinonimi.	Piani assorbiti non compresi.	Studiare sezioni PIAO.
+Procedurale	Non leggere avvisi successivi al bando.	Si scarica solo il PDF iniziale.	Monitorare inPA, Formez, sito ente fino alla prova.
+Procedurale	Ignorare codice profilo.	Si guarda solo numero posti.	Creare scheda profilo-codice-materie-prove.
+Procedurale	Dare per scontata banca dati.	Esperienze pregresse RIPAM.	Verificare sempre se il bando la esclude.
+Procedurale	Non controllare soglie.	Si studia senza conoscere punteggio minimo.	Inserire soglie nel Bando Decoder.
+Procedurale	Saltare i titoli valutabili.	Si pensa contino solo le prove.	Compilare griglia titoli prima domanda.
+Contesto	Ignorare organizzazione dell’ente di destinazione.	Si studia solo diritto amministrativo.	Leggere PIAO, sito istituzionale, organigramma.
+Contesto	Sottovalutare inglese e digitale.	Materie percepite come accessorie.	Allenamento breve ma costante.
+Contesto	Non adattare esempi all’amministrazione centrale.	Risposte generiche da manuale.	Usare esempi su Ministero, PCM, Avvocatura.
+Strategia	Studiare tutto con stesso peso.	Mancanza matrice materie/prove.	Classificare CORE/ALTA/MEDIA/MOD.
+Strategia	Trascurare prova orale.	Si punta solo al quiz.	Preparare risposta in 90 secondi per ogni materia.
+11. PRECEDENTI EDITORIALI E COMPETITOR
+Editore/prodotto	Anno	Pagine	Prezzo	ISBN	Punti di forza	Debolezze	Differenziazione ConcorsoBook
+EdiSES — Concorsi RIPAM 2026, 1340 Funzionari, 697 amministrativi	2026	DATO DA VERIFICARE	€39 listino; €37,05 scontato; ebook €26,99	DATO DA VERIFICARE	Prodotto tempestivo su bando RIPAM, orientato a prova.	Bando-specifico, non copre stabilmente PCM/Avvocatura come sistema.	Modulo riutilizzabile per Ministeri, PCM, Avvocatura; non manuale “usa e getta”.
+EdiSES — Concorsi RIPAM 2026, 3997 Assistenti	2026	824	€40 listino; €38 scontato; ebook €27,99	9791256026333	Copertura ampia assistenti, teoria e test.	Centrato su singola procedura.	M-FC01 separa core, profilo e prove ministeriali.
+Maggioli — Concorso RIPAM 1340 Funzionari	2026	DATO DA VERIFICARE	€39 listino; €37,05 scontato	8891680006	Manuale mirato a profili amministrativi/economici.	Rischio duplicazione materie core.	Metodo BANDO + schede ente/profilo/atto.
+Maggioli — RIPAM Assistenti Amministrativi 2913	2026	DATO DA VERIFICARE	€38 listino; €36,10 scontato	8891679956	Focus assistenti, taglio pratico concorsuale.	Non copre verticalmente PCM e Avvocatura.	“Compra una volta” per famiglia Funzioni centrali.
+Simone — Concorsi RIPAM 1340 Funzionari	2026	DATO DA VERIFICARE	€40 listino; €38 scontato	9788891444554	Teoria, quiz, software, espansioni.	Manuale bando-centrico, meno workbook.	Output per capitolo, casi pratici, diario errori.
+Simone — Concorso 327 RIPAM MIMIT-MIT-MLPS	2026	DATO DA VERIFICARE	€38 listino; €36,10 scontato	9788891444295	Specifico per concorso ministeriale.	Copertura limitata a tre ministeri.	M-FC01 copre l’intera famiglia ministeriale.
+Maggioli — Concorso Ministero Cultura 577 Funzionari	2026	DATO DA VERIFICARE	€44 listino; €41,80 scontato	8891679888	Prodotto verticale su MiC.	Più vicino a profilo cultura; non generale Funzioni centrali.	M-FC01 può raccordarsi a M-IR04 Cultura.
+Nel Diritto / NLD	2026	DATO DA VERIFICARE	DATO DA VERIFICARE	DATO DA VERIFICARE	Presenza forte nel mercato concorsi.	Prodotto diretto M-FC01 non verificato nei risultati consultati.	Posizionamento ConcorsoBook: metodo, riuso, tracciabilità, workbook.
+12. CHECKLIST REDAZIONALE
+ Norme citate da Normattiva vigente.
+ D.Lgs. 300/1999 e D.Lgs. 303/1999 verificati articolo per articolo.
+ L. 400/1988 aggiornata e collegata a DPCM, regolamenti, attività di Governo.
+ CCNL Funzioni Centrali 2022–2024 verificato su ARAN.
+ CCNL autonomo PCM verificato su ARAN.
+ Ogni capitolo contiene almeno un output applicativo.
+ Cross-link al libro principale presenti in tutti i capitoli.
+ Bandi-tipo aggiornati agli ultimi 24 mesi.
+ Matrice materie completata su 10 bandi reali, non solo 7.
+ Glossario coordinato con Appendice A del libro principale.
+ Casi pratici fondati su norme, bandi o giurisprudenza reale.
+ Giurisprudenza Cassazione/CGUE/CEDU inserita solo dopo verifica ufficiale.
+ Competitor: ISBN, pagine e prezzi verificati sulle pagine editore.
+ Lunghezza nel range 25.000–35.000 parole.
+ Fonti ufficiali tracciabili: Normattiva, GU, ARAN, inPA, ANAC, AgID, Garante, MEF/RGS.
+ Nessuna copertura parziale: Ministeri, PCM e Avvocatura dello Stato trattati.
+ Confini con M-FC02, M-FC03, M-FC04, M-FC05 esplicitati.
+ Dati “DATO DA VERIFICARE” risolti prima della bozza print-ready.
+ Impostazione workbook rispettata: box, tabelle, casi, errori, checkpoint.
+ Nessuna duplicazione enciclopedica del libro core: il modulo applica e verticalizza.
+sviluppa l'indice del libro 
+Ragionato per 8s
+INDICE DEL LIBRO — M-FC01 Ministeri e Presidenza del Consiglio
+
+Titolo di lavoro:
+Ministeri e Funzioni Centrali — Modulo specialistico per concorsi pubblici
+
+Collana: ConcorsoBook OS — Moduli Specialistici
+Modulo: M-FC01
+Famiglia: Funzioni Centrali
+Target: 25.000–35.000 parole, circa 80–120 pagine equivalenti.
+Impostazione: workbook operativo, non manuale enciclopedico. Ogni capitolo produce schede, mappe, casi, checklist o simulazioni.
+
+Frontmatter
+Come usare questo modulo
+A chi serve
+Quali concorsi copre
+Come combinarlo con il libro principale Il Metodo BANDO
+Come usare box, casi, checklist e simulazioni
+Legenda operativa
+Q = quiz
+S = scritto
+O = orale
+P = prova pratica
+CORE = materia del libro principale
+MOD = materia specialistica del modulo
+Mappa rapida del modulo
+Ministeri
+Presidenza del Consiglio
+Avvocatura dello Stato
+Profili amministrativi, giuridici, economici, informatici, comunicazione, policy
+PARTE I — PROFILO, ENTI E BANDI
+Capitolo 1 — Lavorare nei Ministeri e nelle Funzioni Centrali
+1.1 Che cosa sono le Funzioni Centrali
+1.2 Differenza tra Ministeri, Agenzie, EPNE, Authority e uffici giudiziari
+1.3 Il perimetro del modulo M-FC01
+1.4 Ministeri coperti dal modulo
+1.5 Presidenza del Consiglio dei ministri
+1.6 Avvocatura dello Stato
+1.7 Profili professionali ricorrenti
+1.8 Aree del personale: Operatori, Assistenti, Funzionari, Elevate professionalità
+1.9 Che cosa cambia rispetto a un concorso comunale
+1.10 Errore tipico: studiare un Ministero come un ente locale
+
+Output del capitolo: mappa “ente — profilo — materia — prova”.
+
+Cross-link: Vedi Libro principale, Cap. 19 — Le famiglie dei concorsi pubblici.
+
+Capitolo 2 — Anatomia del bando ministeriale
+2.1 Dove si trovano i bandi: inPA, Gazzetta Ufficiale, siti istituzionali
+2.2 Bandi RIPAM e bandi autonomi
+2.3 Codice concorso, codice profilo e sedi
+2.4 Requisiti di accesso
+2.5 Titoli valutabili e titoli non valutabili
+2.6 Prova preselettiva, scritta, orale e pratica
+2.7 Punteggi, soglie e graduatoria
+2.8 Banca dati: quando esiste e quando non esiste
+2.9 Avvisi successivi al bando
+2.10 Come compilare il Bando Decoder ministeriale
+
+Output del capitolo: Bando Decoder M-FC01 compilabile.
+
+Cross-link: Vedi Libro principale, Cap. 2 — Anatomia del bando.
+
+Capitolo 3 — Profili professionali, CCNL e mansioni
+3.1 Il CCNL Funzioni Centrali
+3.2 Area Operatori
+3.3 Area Assistenti
+3.4 Area Funzionari
+3.5 Elevate professionalità / Elevate qualificazioni
+3.6 Profili amministrativi
+3.7 Profili giuridico-legali
+3.8 Profili economico-finanziari
+3.9 Profili informatici e digitali
+3.10 Profili comunicazione, statistica e policy evaluation
+3.11 Come collegare area, mansioni e prove d’esame
+3.12 Errore tipico: leggere il profilo solo come titolo di studio
+
+Output del capitolo: scheda “profilo — area — competenze — materie”.
+
+Cross-link: Vedi Libro principale, Cap. 6 — Pubblico impiego e organizzazione della PA.
+
+PARTE II — ORDINAMENTO SPECIALISTICO DELLE FUNZIONI CENTRALI
+Capitolo 4 — Governo, Ministeri e amministrazione centrale
+4.1 Governo e pubblica amministrazione nella Costituzione
+4.2 Presidente del Consiglio, Ministri e Consiglio dei ministri
+4.3 La Legge 23 agosto 1988, n. 400
+4.4 Attività normativa del Governo
+4.5 DPCM, decreti ministeriali e regolamenti
+4.6 Il D.Lgs. 30 luglio 1999, n. 300
+4.7 Ministeri con dipartimenti e Ministeri con segretariato generale
+4.8 Direzioni generali e uffici dirigenziali
+4.9 Uffici di diretta collaborazione
+4.10 Organi politici e dirigenti: chi decide che cosa
+4.11 Atti tipici dei Ministeri
+4.12 Caso pratico: scegliere l’atto corretto
+
+Output del capitolo: tabella “soggetto — competenza — atto — errore tipico”.
+
+Cross-link: Vedi Libro principale, Cap. 4 — Costituzione e ordinamento dello Stato; Cap. 6 — Pubblico impiego e organizzazione della PA.
+
+Capitolo 5 — Presidenza del Consiglio dei ministri
+5.1 Perché la PCM non è un Ministero ordinario
+5.2 Il D.Lgs. 30 luglio 1999, n. 303
+5.3 Funzioni di impulso, indirizzo e coordinamento
+5.4 Presidente del Consiglio e Segretario generale
+5.5 Dipartimenti della Presidenza
+5.6 Uffici autonomi e strutture di missione
+5.7 Ministri senza portafoglio e deleghe
+5.8 Politiche trasversali: digitale, PNRR, disabilità, sport, affari regionali
+5.9 Atti e documenti della PCM
+5.10 Concorsi PCM: profili ricorrenti
+5.11 Caso pratico: coordinamento tra più amministrazioni
+
+Output del capitolo: mappa della PCM per concorsi.
+
+Cross-link: Materia esclusivamente specialistica, non trattata nel libro core.
+
+Capitolo 6 — Organizzazione interna dei Ministeri
+6.1 Come leggere un organigramma ministeriale
+6.2 Dipartimenti
+6.3 Direzioni generali
+6.4 Segretariato generale
+6.5 Uffici centrali e periferici
+6.6 Uffici di controllo interno
+6.7 Uffici centrali del bilancio
+6.8 Relazioni con MEF, RGS, Corte dei conti e Funzione Pubblica
+6.9 PIAO ministeriale e struttura organizzativa
+6.10 Atti di organizzazione
+6.11 Caso pratico: individuare l’ufficio competente
+
+Output del capitolo: scheda “come leggere PIAO e organigramma”.
+
+Cross-link: Vedi Libro principale, Cap. 6 — Pubblico impiego e organizzazione della PA.
+
+Capitolo 7 — Avvocatura dello Stato
+7.1 Che cos’è l’Avvocatura dello Stato
+7.2 Avvocatura generale e Avvocature distrettuali
+7.3 Patrocinio e difesa dello Stato
+7.4 Consulenza legale e pareri
+7.5 Rapporti tra Avvocatura e Ministeri
+7.6 Personale amministrativo dell’Avvocatura
+7.7 Documenti, fascicoli e gestione del contenzioso
+7.8 Differenza tra Avvocatura, Ministero della giustizia e uffici giudiziari
+7.9 Caso pratico: richiesta documentale dell’Avvocatura a un Ministero
+7.10 Errore tipico: confondere difesa erariale e funzione giurisdizionale
+
+Output del capitolo: schema “parere — contenzioso — difesa — documenti”.
+
+Cross-link: Materia esclusivamente specialistica, non trattata nel libro core.
+
+PARTE III — MATERIE SPECIALISTICHE APPLICATE
+Capitolo 8 — PIAO, performance, anticorruzione e valore pubblico
+8.1 Perché il PIAO è decisivo nei concorsi ministeriali
+8.2 Valore pubblico
+8.3 Performance organizzativa e individuale
+8.4 Fabbisogni di personale
+8.5 Formazione e competenze
+8.6 Lavoro agile e organizzazione
+8.7 Rischi corruttivi e trasparenza
+8.8 RPCT, OIV e responsabilità organizzative
+8.9 Come usare il PIAO per preparare l’orale
+8.10 Caso pratico: collegare fabbisogni, bando e performance
+
+Output del capitolo: mini-PIAO ministeriale compilabile.
+
+Cross-link: Vedi Libro principale, Cap. 6 — Pubblico impiego e organizzazione della PA; Cap. 7 — Trasparenza, anticorruzione e privacy.
+
+Capitolo 9 — Contabilità dello Stato e bilancio ministeriale
+9.1 Perché la contabilità dello Stato compare nei concorsi ministeriali
+9.2 Bilancio dello Stato: missioni e programmi
+9.3 Entrate e spese
+9.4 Stanziamento, impegno, liquidazione, ordinazione e pagamento
+9.5 Residui
+9.6 Rendiconto generale dello Stato
+9.7 Ragioneria generale dello Stato
+9.8 Uffici centrali del bilancio
+9.9 Corte dei conti e controlli
+9.10 Contabilità nei profili amministrativi e contabili
+9.11 Caso pratico: dalla richiesta di spesa alla liquidazione
+
+Output del capitolo: ciclo della spesa ministeriale in una pagina.
+
+Cross-link: Vedi Libro principale, Cap. 8 — Contabilità pubblica essenziale.
+
+Capitolo 10 — Contratti pubblici, PNRR e amministrazione digitale
+10.1 Il contratto pubblico in un Ministero
+10.2 Programmazione degli acquisti
+10.3 Decisione a contrarre
+10.4 RUP, CIG, CUP, BDNCP, FVOE e PCP
+10.5 MEPA e strumenti Consip
+10.6 Digitalizzazione del ciclo di vita dei contratti
+10.7 PNRR, milestone, target e rendicontazione
+10.8 CAD, protocollo informatico e fascicolo digitale
+10.9 Sicurezza informatica e protezione dei dati
+10.10 Caso pratico: affidamento di un servizio digitale ministeriale
+
+Output del capitolo: caso guidato “acquisto — progetto — gara — esecuzione — rendicontazione”.
+
+Cross-link: Vedi Libro principale, Cap. 9 — Contratti pubblici essenziali; Cap. 10 — Informatica, PA digitale e competenze digitali.
+
+PARTE IV — PROVE, CASI E QUESITI SITUAZIONALI
+Capitolo 11 — Casi pratici ministeriali
+11.1 Come ragiona un funzionario ministeriale
+11.2 Caso 1 — Accesso agli atti di un concorso
+11.3 Caso 2 — Avviso inPA successivo al bando
+11.4 Caso 3 — Scelta dell’atto corretto
+11.5 Caso 4 — Istanza incompleta
+11.6 Caso 5 — Trattamento di dati personali in graduatoria
+11.7 Caso 6 — Procedimento con più amministrazioni coinvolte
+11.8 Caso 7 — Liquidazione di una fattura
+11.9 Caso 8 — Richiesta dell’Avvocatura dello Stato
+11.10 Caso 9 — Nuovo concorso e graduatoria vigente
+11.11 Caso 10 — Progetto PNRR con ritardo operativo
+11.12 Griglia universale di soluzione
+
+Output del capitolo: 10 casi pratici con soluzione ragionata.
+
+Cross-link: Vedi Libro principale, Cap. 17 — Casi pratici e problem solving amministrativo.
+
+Capitolo 12 — Quesiti situazionali e codice di comportamento
+12.1 Perché i quesiti situazionali non sono domande di buon senso
+12.2 Legalità, imparzialità e buon andamento
+12.3 Regali, utilità e conflitto di interessi
+12.4 Rapporti con superiori, colleghi e utenti
+12.5 Riservatezza e gestione dei dati
+12.6 Uso dei social e immagine dell’amministrazione
+12.7 Whistleblowing e segnalazioni
+12.8 Pressioni politiche o esterne
+12.9 Quesiti situazionali nei concorsi ministeriali
+12.10 Schema di risposta corretta
+
+Output del capitolo: griglia “situazione — rischio — comportamento corretto — norma”.
+
+Cross-link: Vedi Libro principale, Cap. 18 — Quesiti situazionali e soft skills; Cap. 7 — Trasparenza, anticorruzione e privacy.
+
+PARTE V — STRATEGIA, SIMULAZIONI E STRUMENTI FINALI
+Capitolo 13 — Matrice materie e piano 30/60/90 giorni
+13.1 Materie quasi sempre presenti
+13.2 Materie ad alta probabilità
+13.3 Materie eventuali o specialistiche
+13.4 Materie killer nei concorsi ministeriali
+13.5 Come pesare quiz, scritto, orale e pratica
+13.6 Piano da 30 giorni
+13.7 Piano da 60 giorni
+13.8 Piano da 90 giorni
+13.9 Come combinare M-FC01 con moduli trasversali
+13.10 Scheda semaforo del candidato ministeriale
+
+Output del capitolo: piano 30/60/90 giorni per concorsi ministeriali.
+
+Cross-link: Vedi Libro principale, Cap. 22 — Piano 30/60/90 giorni; Appendice F — Matrice materie/profili.
+
+Capitolo 14 — Simulazione finale e diario degli errori
+14.1 Come simulare una prova ministeriale
+14.2 Simulazione a quiz
+14.3 Simulazione di risposta sintetica
+14.4 Simulazione orale
+14.5 Mini-caso teorico-pratico
+14.6 Correzione guidata
+14.7 Diario degli errori ministeriale
+14.8 Errori di contenuto
+14.9 Errori di procedura
+14.10 Errori di lessico istituzionale
+14.11 Checklist ultimi 7 giorni
+14.12 Checklist ultime 24 ore
+
+Output del capitolo: simulazione completa + diario errori M-FC01.
+
+Cross-link: Vedi Libro principale, Cap. 14 — La prova a quiz; Cap. 15 — La prova scritta e teorico-pratica; Cap. 16 — La prova orale; Cap. 23 — Il diario degli errori.
+
+APPENDICI
+Appendice A — Glossario M-FC01
+A.1 Sigle istituzionali
+A.2 Sigle contabili
+A.3 Sigle digitali
+A.4 Atti tipici
+A.5 Figure organizzative
+A.6 Procedure ricorrenti
+A.7 Errori terminologici da evitare
+Appendice B — Tabelle operative
+B.1 Ministro, dirigente, ufficio: chi fa che cosa
+B.2 DPCM, DM, decreto direttoriale, circolare
+B.3 Ministero, PCM, Avvocatura, Agenzia, EPNE
+B.4 Accesso documentale, civico semplice, civico generalizzato
+B.5 CIG, CUP, RUP, BDNCP, MEPA
+B.6 PIAO, performance, anticorruzione, fabbisogni
+Appendice C — Bando Decoder ministeriale
+C.1 Scheda ente
+C.2 Scheda profilo
+C.3 Scheda prove
+C.4 Scheda punteggi e soglie
+C.5 Scheda materie
+C.6 Scheda calendario
+C.7 Scheda rischio personale
+Appendice D — Checklist pre-domanda
+D.1 Requisiti
+D.2 Titoli
+D.3 Codice profilo
+D.4 Sede
+D.5 Documenti
+D.6 Ricevuta
+D.7 Avvisi successivi
+Appendice E — 100 domande di ripasso
+E.1 Organizzazione del Governo
+E.2 Ministeri
+E.3 PCM
+E.4 Avvocatura dello Stato
+E.5 Pubblico impiego
+E.6 PIAO e performance
+E.7 Contabilità dello Stato
+E.8 Contratti pubblici e digitale
+E.9 Trasparenza, privacy, anticorruzione
+E.10 Quesiti situazionali
+Appendice F — Schema di risposta orale
+F.1 Risposta su organo istituzionale
+F.2 Risposta su procedimento
+F.3 Risposta su atto amministrativo
+F.4 Risposta su caso pratico
+F.5 Risposta su quesito situazionale
+F.6 Risposta su profilo e motivazione
+QUADRO DI LUNGHEZZA TARGET
+Sezione	Parole target
+Frontmatter	1.000
+Parte I	6.600
+Parte II	9.700
+Parte III	5.400
+Parte IV	4.600
+Parte V	4.300
+Appendici	2.500
+Totale stimato	34.100
+STRUTTURA EDITORIALE FISSA DI OGNI CAPITOLO
+
+Ogni capitolo deve contenere:
+
+Apertura operativa
+Obiettivi del capitolo
+Mappa Metodo BANDO
+Quadro essenziale
+Tabelle comparative
+Casi pratici o esempi
+Box “Come lo chiede la commissione”
+Errore tipico
+Cross-link al libro principale
+Checkpoint finale
+Riferimenti normativi essenziali

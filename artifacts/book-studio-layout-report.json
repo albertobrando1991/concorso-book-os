@@ -1,0 +1,26 @@
+[
+  {
+    "id": "il-metodo-bando",
+    "label": "base",
+    "url": "http://127.0.0.1:3010/?bookId=il-metodo-bando#studio",
+    "diagnostics": [
+      {
+        "page": 1,
+        "overflow": 0,
+        "overlaps": []
+      }
+    ]
+  },
+  {
+    "id": "moduli/m-fc01-ministeri",
+    "label": "m-fc01",
+    "url": "http://127.0.0.1:3010/?bookId=moduli%2Fm-fc01-ministeri#studio",
+    "diagnostics": [
+      {
+        "page": 1,
+        "overflow": 0,
+        "overlaps": []
+      }
+    ]
+  }
+]

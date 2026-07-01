@@ -104,6 +104,75 @@ describe("book preview assets", () => {
     }
   })
 
+  it("generates a chapter-only analytical index for specialist modules", async () => {
+    const root = await mkdtemp(path.join(os.tmpdir(), "book-preview-module-index-"))
+
+    try {
+      await mkdir(path.join(root, "books/moduli/m-fc01-ministeri/front-matter"), { recursive: true })
+      await mkdir(path.join(root, "books/moduli/m-fc01-ministeri/chapters"), { recursive: true })
+      await writeFile(
+        path.join(root, "books/moduli/m-fc01-ministeri/index.md"),
+        "---\ntitle: M-FC01 - Ministeri\n---\n# M-FC01",
+        "utf8"
+      )
+      await writeFile(
+        path.join(root, "books/moduli/m-fc01-ministeri/front-matter/06-indice.md"),
+        [
+          "---",
+          "title: Indice",
+          "type: front_matter",
+          "outline_section: FM6",
+          "front_matter_layout: analytical-index",
+          "index_detail: chapters-only",
+          "---",
+          "# Indice"
+        ].join("\n"),
+        "utf8"
+      )
+      await writeFile(
+        path.join(root, "books/moduli/m-fc01-ministeri/chapters/01-lavorare-ministeri.md"),
+        [
+          "---",
+          "title: Lavorare nei Ministeri",
+          "outline_section: 1",
+          "---",
+          "# Lavorare nei Ministeri",
+          "",
+          "Questo capitolo contiene testo sufficiente per essere incluso nell'indice del modulo.",
+          "",
+          "## Sottosezione da non mostrare",
+          "",
+          "Questa intestazione non deve produrre una riga 1.1 nell'indice del modulo."
+        ].join("\n"),
+        "utf8"
+      )
+      await writeFile(
+        path.join(root, "books/moduli/m-fc01-ministeri/chapters/15-appendici.md"),
+        [
+          "---",
+          "title: Appendici operative",
+          "outline_section: A",
+          "---",
+          "# Appendici operative",
+          "",
+          "Strumenti finali del modulo con checklist, matrice di lavoro, glossario operativo e materiali da usare durante la revisione del bando."
+        ].join("\n"),
+        "utf8"
+      )
+
+      const data = await buildBookStudioData(new FileWikiStore(root), "moduli/m-fc01-ministeri")
+      const index = data.chapters.find((chapter) => chapter.frontMatterLayout === "analytical-index")
+      const chapterLine = index?.blocks.find((block) => block.type === "index-chapter" && block.text === "Lavorare nei Ministeri")
+      const appendixLine = index?.blocks.find((block) => block.type === "index-chapter" && block.text === "Appendici operative")
+
+      expect(index?.blocks.some((block) => block.type === "index-row")).toBe(false)
+      expect(chapterLine?.number).toBe("Capitolo 1")
+      expect(appendixLine?.number).toBe("Appendice A")
+    } finally {
+      await rm(root, { recursive: true, force: true })
+    }
+  })
+
   it("loads front matter before chapters and generates the analytical index", async () => {
     const root = await mkdtemp(path.join(os.tmpdir(), "book-preview-front-matter-"))
 

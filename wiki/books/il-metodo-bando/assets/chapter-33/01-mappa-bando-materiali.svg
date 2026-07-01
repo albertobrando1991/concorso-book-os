@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Mappa BANDO dei materiali</title>
+  <desc id="desc">Ogni materiale deve servire bando, piano, errori e output.</desc>
+  <style>
+    .bg { fill: #F8FAFC; }
+    .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+    .title { font: 800 43px Arial, sans-serif; fill: #0F172A; }
+    .subtitle { font: 400 21px Arial, sans-serif; fill: #526174; }
+    .label { font: 800 25px Arial, sans-serif; fill: #0F172A; }
+    .body { font: 400 19px Arial, sans-serif; fill: #0F172A; }
+    .small { font: 400 16px Arial, sans-serif; fill: #0F172A; }
+    .strong { font-weight: 800; }
+    .whiteText { fill: #FFFFFF; }
+    .line { stroke: #10233F; stroke-width: 6; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+  </style>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#10233F"/>
+    </marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <g data-safe-box="80 16 1440 118 0">
+    <text class="title" x="800" y="68" text-anchor="middle">Mappa BANDO dei materiali</text>
+    <text class="subtitle" x="800" y="108" text-anchor="middle">Ogni materiale deve servire bando, piano, errori e output.</text>
+  </g>
+  
+    <rect class="card" x="70" y="165" width="1460" height="630" rx="30"/>
+    <g data-safe-box="430 215 740 150 8">
+    <rect x="430" y="215" width="740" height="150" rx="24" fill="#EAF2FB" stroke="#10233F" stroke-width="3"/>
+    <rect x="430" y="215" width="740" height="12" rx="6" fill="#10233F"/>
+    <text class="label" x="800" y="267" text-anchor="middle">Materiale governato</text>
+    <text class="small" x="800" y="297" text-anchor="middle">entra nel metodo solo se ha una funzione</text>
+<text class="small" x="800" y="325" text-anchor="middle">e produce un output verificabile</text>
+  </g>
+    <g data-safe-box="105 370 245 210 8">
+    <rect x="105" y="370" width="245" height="210" rx="24" fill="#EAF2FB" stroke="#10233F" stroke-width="3"/>
+    <circle cx="227.5" cy="422" r="32" fill="#10233F"/>
+    <text class="label whiteText" x="227.5" y="431" text-anchor="middle">B</text>
+    <text class="label" x="227.5" y="486" text-anchor="middle">Bando</text>
+    <text class="small" x="227.5" y="528" text-anchor="middle">elimina rumore</text>
+  </g>
+<g data-safe-box="395 370 245 210 8">
+    <rect x="395" y="370" width="245" height="210" rx="24" fill="#F8E8EA" stroke="#7A2430" stroke-width="3"/>
+    <circle cx="517.5" cy="422" r="32" fill="#7A2430"/>
+    <text class="label whiteText" x="517.5" y="431" text-anchor="middle">A</text>
+    <text class="label" x="517.5" y="486" text-anchor="middle">Aree</text>
+    <text class="small" x="517.5" y="528" text-anchor="middle">comune e profilo</text>
+  </g>
+<g data-safe-box="685 370 245 210 8">
+    <rect x="685" y="370" width="245" height="210" rx="24" fill="#FFF4CC" stroke="#D4AF37" stroke-width="3"/>
+    <circle cx="807.5" cy="422" r="32" fill="#D4AF37"/>
+    <text class="label whiteText" x="807.5" y="431" text-anchor="middle">N</text>
+    <text class="label" x="807.5" y="486" text-anchor="middle">Nuclei</text>
+    <text class="small" x="807.5" y="528" text-anchor="middle">priorita</text>
+  </g>
+<g data-safe-box="975 370 245 210 8">
+    <rect x="975" y="370" width="245" height="210" rx="24" fill="#E7F3ED" stroke="#2F7D5A" stroke-width="3"/>
+    <circle cx="1097.5" cy="422" r="32" fill="#2F7D5A"/>
+    <text class="label whiteText" x="1097.5" y="431" text-anchor="middle">D</text>
+    <text class="label" x="1097.5" y="486" text-anchor="middle">Diario</text>
+    <text class="small" x="1097.5" y="528" text-anchor="middle">errori reali</text>
+  </g>
+<g data-safe-box="1265 370 245 210 8">
+    <rect x="1265" y="370" width="245" height="210" rx="24" fill="#E4F4F5" stroke="#1F6F78" stroke-width="3"/>
+    <circle cx="1387.5" cy="422" r="32" fill="#1F6F78"/>
+    <text class="label whiteText" x="1387.5" y="431" text-anchor="middle">O</text>
+    <text class="label" x="1387.5" y="486" text-anchor="middle">Output</text>
+    <text class="small" x="1387.5" y="528" text-anchor="middle">quiz, casi, orale</text>
+  </g>
+    <path class="line" marker-end="url(#arrow)" d="M365 485 L395 485"/>
+<path class="line" marker-end="url(#arrow)" d="M655 485 L685 485"/>
+<path class="line" marker-end="url(#arrow)" d="M945 485 L975 485"/>
+<path class="line" marker-end="url(#arrow)" d="M1235 485 L1265 485"/>
+    <g data-safe-box="245 810 1110 66 8">
+    <rect x="245" y="810" width="1110" height="66" rx="22" fill="#FFF7ED" stroke="#EFC58D" stroke-width="3"/>
+    <text class="body strong" x="800" y="853" text-anchor="middle">Un materiale che non sai collocare nella catena BANDO non e' ancora pronto per il piano.</text>
+  </g>
+    
+</svg>

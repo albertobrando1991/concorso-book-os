@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Cruscotto BANDO personale</title>
+  <desc id="desc">Il cruscotto toglie decisioni dalla testa e le mette in dati visibili.</desc>
+  <style>
+    .bg { fill: #F8FAFC; }
+    .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+    .title { font: 800 43px Arial, sans-serif; fill: #0F172A; }
+    .subtitle { font: 400 21px Arial, sans-serif; fill: #526174; }
+    .label { font: 800 25px Arial, sans-serif; fill: #0F172A; }
+    .body { font: 400 19px Arial, sans-serif; fill: #0F172A; }
+    .small { font: 400 16px Arial, sans-serif; fill: #0F172A; }
+    .strong { font-weight: 800; }
+    .whiteText { fill: #FFFFFF; }
+    .line { stroke: #10233F; stroke-width: 6; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+  </style>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#10233F"/>
+    </marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <g data-safe-box="80 16 1440 118 0">
+    <text class="title" x="800" y="68" text-anchor="middle">Cruscotto BANDO personale</text>
+    <text class="subtitle" x="800" y="108" text-anchor="middle">Il cruscotto toglie decisioni dalla testa e le mette in dati visibili.</text>
+  </g>
+  
+    <rect class="card" x="70" y="165" width="1460" height="630" rx="30"/>
+    <g data-safe-box="215 245 260 130 8">
+        <rect x="215" y="245" width="260" height="130" rx="22" fill="#EAF2FB" stroke="#10233F" stroke-width="3"/>
+        <text class="label" style="fill:#10233F" x="345" y="297" text-anchor="middle">Bandi</text>
+        <text class="small strong" x="345" y="337" text-anchor="middle">aperti</text>
+      </g>
+<g data-safe-box="510 245 260 130 8">
+        <rect x="510" y="245" width="260" height="130" rx="22" fill="#E7F3ED" stroke="#2F7D5A" stroke-width="3"/>
+        <text class="label" style="fill:#2F7D5A" x="640" y="297" text-anchor="middle">Prove</text>
+        <text class="small strong" x="640" y="337" text-anchor="middle">calendario</text>
+      </g>
+<g data-safe-box="805 245 260 130 8">
+        <rect x="805" y="245" width="260" height="130" rx="22" fill="#FFF4CC" stroke="#D4AF37" stroke-width="3"/>
+        <text class="label" style="fill:#D4AF37" x="935" y="297" text-anchor="middle">Output</text>
+        <text class="small strong" x="935" y="337" text-anchor="middle">prodotti</text>
+      </g>
+<g data-safe-box="1100 245 260 130 8">
+        <rect x="1100" y="245" width="260" height="130" rx="22" fill="#E4F4F5" stroke="#1F6F78" stroke-width="3"/>
+        <text class="label" style="fill:#1F6F78" x="1230" y="297" text-anchor="middle">Errori</text>
+        <text class="small strong" x="1230" y="337" text-anchor="middle">ricorrenti</text>
+      </g>
+<g data-safe-box="215 405 260 130 8">
+        <rect x="215" y="405" width="260" height="130" rx="22" fill="#F8E8EA" stroke="#7A2430" stroke-width="3"/>
+        <text class="label" style="fill:#7A2430" x="345" y="457" text-anchor="middle">Fonti</text>
+        <text class="small strong" x="345" y="497" text-anchor="middle">da controllare</text>
+      </g>
+<g data-safe-box="510 405 260 130 8">
+        <rect x="510" y="405" width="260" height="130" rx="22" fill="#EFEAF7" stroke="#5B3B82" stroke-width="3"/>
+        <text class="label" style="fill:#5B3B82" x="640" y="457" text-anchor="middle">Capitale</text>
+        <text class="small strong" x="640" y="497" text-anchor="middle">riutilizzabile</text>
+      </g>
+<g data-safe-box="805 405 260 130 8">
+        <rect x="805" y="405" width="260" height="130" rx="22" fill="#EAF2FB" stroke="#10233F" stroke-width="3"/>
+        <text class="label" style="fill:#10233F" x="935" y="457" text-anchor="middle">Energia</text>
+        <text class="small strong" x="935" y="497" text-anchor="middle">sostenibilita</text>
+      </g>
+<g data-safe-box="1100 405 260 130 8">
+        <rect x="1100" y="405" width="260" height="130" rx="22" fill="#E7F3ED" stroke="#2F7D5A" stroke-width="3"/>
+        <text class="label" style="fill:#2F7D5A" x="1230" y="457" text-anchor="middle">Decisione</text>
+        <text class="small strong" x="1230" y="497" text-anchor="middle">settimana</text>
+      </g>
+    <g data-safe-box="455 655 690 150 8">
+    <rect x="455" y="655" width="690" height="150" rx="24" fill="#EAF2FB" stroke="#10233F" stroke-width="3"/>
+    <rect x="455" y="655" width="690" height="12" rx="6" fill="#10233F"/>
+    <text class="label" x="800" y="707" text-anchor="middle">Regola</text>
+    <text class="small" x="800" y="737" text-anchor="middle">se il cruscotto e' vuoto</text>
+<text class="small" x="800" y="765" text-anchor="middle">mancano dati, non motivazione</text>
+  </g>
+    <g data-safe-box="245 810 1110 66 8">
+    <rect x="245" y="810" width="1110" height="66" rx="22" fill="#FFF7ED" stroke="#EFC58D" stroke-width="3"/>
+    <text class="body strong" x="800" y="853" text-anchor="middle">Quando non sai cosa fare, leggi il cruscotto e scegli la prossima azione verificabile.</text>
+  </g>
+    
+</svg>

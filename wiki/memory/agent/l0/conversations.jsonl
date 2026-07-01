@@ -64,3 +64,7 @@
 {"id":"conv-20260617143925-hzqp8m","createdAt":"2026-06-17T14:39:25.856Z","scope":"manual-writer","route":"codex/chapter33-editorial-images","l0Path":"l0\\conv-20260617143925-hzqp8m.md","messageCount":1,"replyChars":450}
 {"id":"conv-20260617144123-g8t0g1","createdAt":"2026-06-17T14:41:23.180Z","scope":"manual-writer","route":"codex/ch46-domande-impreviste","l0Path":"l0\\conv-20260617144123-g8t0g1.md","messageCount":1,"replyChars":148}
 {"id":"conv-20260620033316-payn4r","createdAt":"2026-06-20T03:33:16.240Z","scope":"manual-writer","route":"codex/ch47-revisione-finale","l0Path":"l0\\conv-20260620033316-payn4r.md","messageCount":1,"replyChars":151}
+{"id":"conv-20260629124807-1d0ax5h","createdAt":"2026-06-29T12:48:07.887Z","scope":"manual-writer","route":"ManualWriterAgent.reviseChapter","l0Path":"l0\\conv-20260629124807-1d0ax5h.md","messageCount":1,"replyChars":773}
+{"id":"conv-20260629150807-1282rhq","createdAt":"2026-06-29T15:08:07.606Z","scope":"manual-writer","route":"ManualWriterAgent.reviseChapter","l0Path":"l0\\conv-20260629150807-1282rhq.md","messageCount":1,"replyChars":1087}
+{"id":"conv-20260629151224-1qwkjb3","createdAt":"2026-06-29T15:12:24.544Z","scope":"manual-writer","route":"ManualWriterAgent.reviseChapter","l0Path":"l0\\conv-20260629151224-1qwkjb3.md","messageCount":1,"replyChars":714}
+{"id":"conv-20260629152136-v2ve0a","createdAt":"2026-06-29T15:21:36.094Z","scope":"manual-writer","route":"ManualWriterAgent.writeChapter","l0Path":"l0\\conv-20260629152136-v2ve0a.md","messageCount":1,"replyChars":828}

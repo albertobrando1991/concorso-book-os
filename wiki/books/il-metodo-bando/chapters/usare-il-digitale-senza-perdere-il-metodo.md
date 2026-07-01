@@ -8,31 +8,29 @@ topics: ["strumenti digitali metodo bando", "metodo bando", "bando decoder", "pi
 entities: ["Metodo BANDO", "Bando Decoder", "Diario degli errori", "Piano 30/60/90 giorni", "inPA"]
 source_refs: ["sources/strumenti-digitali-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/struttura-madre-il-metodo-bando.md", "sources/template-bando-decoder-metodo-bando.md", "sources/piano-studio-personale-metodo-bando.md", "sources/checklist-operative-concorsi-metodo-bando.md", "sources/capitale-studio-riutilizzabile-metodo-bando.md", "sources/fonti-ufficiali-aggiornamento-metodo-bando-2026-06-03.md", "sources/pa-digitale-cad-identita-documenti-servizi-dati.md"]
 book_refs: ["il-metodo-bando"]
-confidence: 0.88
-updated_at: 2026-06-12T11:42:42+02:00
+confidence: 0.91
+updated_at: 2026-07-01T12:00:00+02:00
 created_at: 2026-06-07T18:27:10+02:00
 review_required: true
 canonical: true
 tags: ["book-chapter", "extra-chapter", "digital-tools", "ai", "workbook"]
 book_id: il-metodo-bando
 outline_section: 28
-draft_stage: revised-editorial-draft
+draft_stage: professional-complete-draft
 last_compiled_from: ["sources/strumenti-digitali-metodo-bando.md", "topics/strumenti-digitali-metodo-bando.md", "topics/bando-decoder.md", "topics/piano-30-60-90-giorni.md", "topics/diario-errori.md", "topics/capitale-studio-riutilizzabile.md"]
 ---
 
 # Capitolo 28 - Usare il digitale senza perdere il metodo
 
-Il digitale puo farti risparmiare settimane.
+> Modulo ricettario **R4** — Protocollo digitale e AI sicura. Collega FM1, Cap. 3 e Cap. 13.
 
-Puo anche farti perdere il controllo in tre giorni.
+Il digitale puo farti risparmiare settimane. Puo anche farti perdere il controllo in tre giorni. Dipende da come lo usi.
 
-Dipende da come lo usi.
-
-Un candidato apre il bando, salva il PDF, copia il programma in una nota, chiede a un assistente AI di fare un piano, scarica una app per flashcard, apre un calendario, entra in un gruppo, salva dieci messaggi, crea una cartella cloud, poi dimentica dove ha messo la versione corretta. Dopo una settimana ha piu strumenti che decisioni.
+Un candidato apre il bando, salva il PDF, copia il programma in una nota, chiede a un assistente AI di fare un piano, scarica un'app per flashcard, apre un calendario, entra in un gruppo, salva dieci messaggi, crea una cartella cloud e poi dimentica dove ha messo la versione corretta. Dopo una settimana ha piu strumenti che decisioni.
 
 Questo capitolo serve a evitare proprio questo errore.
 
-Il Metodo BANDO non e' contro il digitale. Al contrario: il digitale puo accelerare il Bando Decoder, i promemoria, il confronto tra bandi, il Diario degli errori, le simulazioni e la costruzione del capitale di studio. Ma il digitale deve restare al servizio del metodo.
+Il Metodo BANDO non e' contro il digitale. Il digitale puo accelerare il Bando Decoder, i promemoria, il confronto tra bandi, il Diario degli errori, le simulazioni e la costruzione del capitale di studio. Ma deve restare al servizio del metodo, non sostituirlo.
 
 La regola e' questa:
 
@@ -51,9 +49,10 @@ Alla fine del capitolo saprai:
 - costruire una cartella minima del candidato;
 - esportare e proteggere i materiali essenziali;
 - trasformare digitale e carta in un unico sistema;
-- non perdere bando, scadenze, prove e diario dentro strumenti diversi.
+- non perdere bando, scadenze, prove e diario dentro strumenti diversi;
+- applicare la routine settimanale di backup, esportazione e verifica fonti.
 
-Questo capitolo non ti dice quale app usare. Ti dice che funzione deve avere ogni strumento.
+Questo capitolo non ti dice quale app usare. Ti dice che funzione deve avere ogni strumento e come mantenerlo vivo nel tempo.
 
 ## Mappa BANDO del digitale
 
@@ -68,6 +67,28 @@ Questo capitolo non ti dice quale app usare. Ti dice che funzione deve avere ogn
 | O - Output | Allenare quiz, casi, orale e simulazioni | studiare dentro l'app senza produrre prova |
 
 Uno strumento digitale e' utile se rende piu rapido uno di questi passaggi. Se non lo fa, e' rumore.
+
+## Le sette funzioni degli strumenti
+
+Prima di aggiungere un'app, un foglio o una chat, chiediti quale funzione deve svolgere. Nel Metodo BANDO ogni strumento digitale rientra in una di queste sette funzioni:
+
+| Funzione | Cosa fa | Esempio nel metodo | Segnale di abuso |
+|---|---|---|---|
+| Catturare | conserva fonti e materiali grezzi | salvare bando, avvisi, ricevute, link ufficiali | salvare tutto senza selezione |
+| Decidere | traduce il bando in scelte | Bando Decoder, matrice materie/profili | compilare schede senza tagliare |
+| Pianificare | distribuisce tempo e priorita | piano 30/60/90, settimana tipo | piani troppo dettagliati e irrealistici |
+| Ricordare | segnala scadenze e controlli | calendario, promemoria avvisi | notifiche continue e inutili |
+| Allenare | produce prove e richiamo attivo | quiz, casi, orale, simulazioni | flashcard infinite e passive |
+| Correggere | registra errori e azioni | Diario degli errori, seconda verifica | errori annotati ma mai ripassati |
+| Archiviare | mantiene versioni e capitale | cartelle, export, backup | duplicati e cartelle generiche |
+
+Uno strumento puo coprire piu funzioni, ma deve averne almeno una chiara. Se non riesci a dire "questa app serve a...", non ti serve ancora.
+
+La domanda operativa:
+
+> quale funzione del Metodo BANDO migliora questo strumento entro sette giorni?
+
+Se non rispondi con un output concreto, rimanda l'adozione.
 
 ## La regola 1-3-5
 
@@ -172,6 +193,54 @@ Non servono notifiche per ogni micro-attivita. Se il telefono vibra dieci volte 
 
 Il promemoria efficace segnala una decisione, non un senso di colpa.
 
+## Portali ufficiali del candidato
+
+Il digitale del candidato non coincide con il digitale della PA che studi per l'esame. Qui parliamo del primo: gli strumenti che usi per partecipare al concorso e per non perdere informazioni ufficiali.
+
+| Canale | Funzione per il candidato | Cosa salvare | Errore tipico |
+|---|---|---|---|
+| Portale concorsi / inPA | pubblicazione bandi, domanda, stato pratica | link bando, ricevuta domanda, credenziali accesso | fidarsi di screenshot non verificati |
+| Sito dell'ente banditore | avvisi, rettifiche, FAQ procedurali, calendario prove | PDF avvisi con data, pagina aggiornata | confondere news istituzionali e avvisi di gara |
+| Gazzetta Ufficiale / Normattiva | atti e norme quando richiamati dal bando | riferimento normativo verificato | studiare norme non nel programma |
+| PEC / SPID / CIE | autenticazione, domanda, comunicazioni certificate | ricevute, protocolli, conferme | usare email personale quando serve PEC |
+| Domicilio digitale / IPA | recapiti certificati dell'amministrazione, quando previsti | indirizzo IPA verificato | inventare recapiti da gruppi o forum |
+
+Per la parte sostanziale su CAD, documento informatico, firme, PEC, SPID e servizi digitali della PA fai riferimento al Cap. 10. In questo capitolo l'obiettivo e' operativo: usare i canali giusti, conservare le prove digitali utili e non delegare a chat o gruppi cio che solo la fonte ufficiale puo confermare.
+
+Regola pratica: ogni comunicazione rilevante deve finire in `01-bando-fonti` con data, canale e tipo documento (bando, avviso, ricevuta, rettifica).
+
+## Scheda settimanale: backup, esportazione e verifica fonti
+
+Il sistema digitale si deteriora in silenzio: file spostati, app disinstallate, link morti, versioni duplicate. Per evitarlo serve una routine breve e fissa.
+
+**Protocollo 15 minuti** — da fare una volta a settimana, preferibilmente lo stesso giorno (es. venerdi):
+
+| Min | Passaggio | Azione | Esito atteso |
+|---|---|---|---|
+| 0-3 | Verifica fonti | controlla bando, avvisi, sito ente, portale domanda | nessuna rettifica ignorata |
+| 3-6 | Allineamento Decoder | aggiorna Bando Decoder se qualcosa e' cambiato | una sola versione valida |
+| 6-9 | Export essenziale | esporta o stampa Decoder, piano settimana, diario errori | copia recuperabile senza app |
+| 9-12 | Backup | copia cartella concorso su secondo supporto o cloud secondario | almeno una copia fuori dal telefono |
+| 12-15 | Decisione | annota una modifica al piano o "nessun cambiamento" | chiusura del ciclo |
+
+Compila la scheda a fine routine:
+
+| Campo | Contenuto |
+|---|---|
+| Data routine | |
+| Concorso / cartella | |
+| Fonti controllate | bando / sito ente / portale / altro |
+| Novita rilevanti? | si / no — se si, quale |
+| Decoder aggiornato? | si / no |
+| File esportati | Decoder / piano / diario / output |
+| Backup eseguito | si / no — dove |
+| Decisione entro 48 ore | |
+| Prossima routine | |
+
+Se salti tre settimane consecutive, il rischio non e' solo tecnico. Perdi avvisi, ripeti errori gia registrati e studi su un programma non piu valido. La routine e' piccola, ma separa chi mantiene il controllo da chi rincorre il bando.
+
+Collegamento utile: il Cap. 25 (aggiornamento fonti) spiega *cosa* controllare; questo modulo spiega *come* non perdere il sistema digitale mentre lo fai.
+
 ## Digitale e carta devono parlarsi
 
 ![Figura 28.6 - Digitale e carta devono parlarsi: ogni contenuto essenziale deve essere ritrovabile, verificabile, esportabile e allenabile.](../assets/chapter-28/06-digitale-carta-output.png)
@@ -225,10 +294,10 @@ Dopo un'ora Luca non ha studiato nuove pagine, ma ha recuperato controllo. Il gi
 ## Da sapere in 5 righe
 
 1. Il digitale accelera il Metodo BANDO, ma non lo sostituisce.
-2. Ogni strumento deve servire a bando, aree, nuclei, diario o output.
-3. L'AI e' utile per trasformare materiale in esercizi verificabili, non per decidere requisiti e scadenze.
-4. Le fonti ufficiali restano il riferimento per bando, avvisi, prove e documenti.
-5. Se non puoi ritrovare, verificare o esportare un contenuto, non e' ancora capitale di studio.
+2. Ogni strumento deve avere una funzione chiara: catturare, decidere, pianificare, ricordare, allenare, correggere o archiviare.
+3. L'AI trasforma materiale gia verificato in esercizi; non decide requisiti, scadenze o prove.
+4. Portale concorsi, sito ente, PEC/SPID e ricevute vanno conservati in `01-bando-fonti`.
+5. La routine settimanale da 15 minuti (fonti, export, backup, decisione) evita di studiare sul sistema sbagliato.
 
 ## Domanda da commissario
 
@@ -308,6 +377,9 @@ Se la risposta e' negativa a tre voci, non aggiungere lo strumento.
 
 ## Note di review
 
-- La struttura madre originaria non prevedeva il Capitolo 28. Questo capitolo e' un'estensione editoriale: in revisione decidere se mantenerlo numerato, trasformarlo in bonus digitale o integrarlo nelle appendici.
+- Modulo ricettario R4: draft professionale completo con scheda settimanale backup/esportazione/verifica fonti (prevista in [[sources/strumenti-digitali-metodo-bando]]).
+- La struttura madre originaria non prevedeva il Capitolo 28. In impaginazione finale decidere se mantenerlo numerato nel ricettario digitale o come bonus collegato.
 - Il capitolo non deve essere letto come sostituzione digitale del libro-workbook. La promessa resta: il metodo funziona anche su carta.
-- Eventuali esempi futuri di app, AI o piattaforme specifiche vanno verificati al momento della pubblicazione per evitare riferimenti obsoleti.
+- Eventuali esempi di app, AI o piattaforme specifiche vanno verificati alla pubblicazione per evitare riferimenti obsoleti.
+- Valutare figura 28.8 dedicata alla scheda settimanale 15 minuti in un ciclo asset successivo.
+- Pass humanizer editoriale consigliato prima della stampa definitiva.

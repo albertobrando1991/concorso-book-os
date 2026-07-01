@@ -8,19 +8,21 @@ topics: ["sostenibilita preparazione concorsi", "metodo bando", "metodo di studi
 entities: ["Metodo BANDO", "Diario degli errori", "Piano 30/60/90 giorni", "Bando Decoder"]
 source_refs: ["sources/sostenibilita-preparazione-concorsi-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/struttura-madre-il-metodo-bando.md", "sources/metodo-bando-capitolo-13-bozza-sito-2026-05-30.md", "sources/apprendimento-efficace-active-recall-ripasso-distribuito.md", "sources/scienze-apprendimento-pianificazione-metacognizione-errori.md", "sources/piano-studio-personale-metodo-bando.md", "sources/checklist-operative-concorsi-metodo-bando.md"]
 book_refs: ["il-metodo-bando"]
-confidence: 0.88
-updated_at: 2026-06-14T17:00:50+02:00
+confidence: 0.91
+updated_at: 2026-07-01T14:30:00+02:00
 created_at: 2026-06-07T18:35:58+02:00
 review_required: true
 canonical: true
 tags: ["book-chapter", "extra-chapter", "study-method", "continuity", "workbook"]
 book_id: il-metodo-bando
 outline_section: 29
-draft_stage: revised-editorial-draft
+draft_stage: professional-complete-draft
 last_compiled_from: ["sources/sostenibilita-preparazione-concorsi-metodo-bando.md", "topics/sostenibilita-preparazione-concorsi.md", "topics/metodo-di-studio.md", "topics/piano-30-60-90-giorni.md", "topics/diario-errori.md", "topics/checklist-concorsi.md"]
 ---
 
 # Capitolo 29 - Reggere la preparazione: energia, ansia e continuita
+
+> Modulo ricettario **R5** — Sostenibilita, recupero e continuita. Collega Cap. 13, Cap. 22 e Cap. 24.
 
 La preparazione non si rompe quasi mai in un giorno.
 
@@ -102,6 +104,59 @@ Il minimo efficace puo essere:
 
 Il minimo efficace non sostituisce lo studio pieno. Serve a non uscire dal sistema. Quando torni ad avere tempo, riparti da un filo ancora integro.
 
+## La settimana tipo sostenibile
+
+Un piano sostenibile non e' una lista di capitoli da coprire. E' una settimana che contiene sei funzioni diverse, piu una finestra di recupero.
+
+| Funzione | Cosa fa | Output minimo |
+|---|---|---|
+| Studio | introduce o chiarisce nuclei nuovi | schema, pagina di appunti verificata o blocco completato |
+| Richiamo | verifica memoria senza rileggere tutto | flashcard, domande brevi, ripasso attivo |
+| Output | allena la prestazione | quiz, caso, risposta orale, simulazione |
+| Correzione | trasforma errori in azioni | voci nel Diario con causa e prossimo passo |
+| Ripasso | mantiene disponibili i nuclei gia studiati | sessione breve su errori ricorrenti o materie ad alta resa |
+| Finestra recupero | assorbe ritardi senza moltiplicare ore | 30-60 minuti leggeri, non un secondo piano parallelo |
+
+Esempio su una settimana da 8-10 ore reali:
+
+| Giorno | Blocco principale | Funzione |
+|---|---|---|
+| Lunedi | nucleo nuovo o difficile | studio |
+| Martedi | quiz mirati + correzione | output + correzione |
+| Mercoledi | richiamo su materia gia vista | richiamo |
+| Giovedi | caso o risposta sintetica | output |
+| Venerdi | ripasso errori ricorrenti | ripasso + correzione |
+| Sabato | simulazione breve o orale | output |
+| Domenica pomeriggio | recupero leggero + revisione piano | finestra recupero |
+
+Non devi replicare questa griglia alla lettera. Devi verificare che nella settimana compaiano tutte e sei le funzioni. Se manca l'output, stai leggendo ma non ti stai allenando. Se manca il ripasso, dimentichi cio che hai studiato. Se manca la correzione, ripeti gli stessi errori.
+
+La revisione di domenica o di fine settimana non serve a giudicarti. Serve a rispondere a tre domande:
+
+- quali funzioni ho saltato?
+- quale output devo proteggere la settimana prossima?
+- il piano resta sostenibile sulle ore reali?
+
+## Stanchezza, confusione di metodo e sovraccarico
+
+Non ogni difficolta va trattata allo stesso modo. Prima di aggiungere ore o cambiare materia, classifica il segnale.
+
+| Segnale | Come si riconosce | Risposta operativa |
+|---|---|---|
+| Stanchezza normale | hai studiato, capisci il metodo, ma oggi rendi poco | minimo efficace, sonno, blocco breve a energia bassa |
+| Confusione di metodo | leggi molto ma non sai cosa ripassare, simulare o tagliare | torna a BANDO Decoder, matrice materie, un solo output |
+| Sovraccarico | piano irrealistico, ritardi a catena, simulazioni saltate, ansia alta | semaforo rosso: taglia, sospendi moduli, proteggi il sistema |
+
+La stanchezza si gestisce modulando energia e recupero. La confusione di metodo si gestisce riordinando priorita e output. Il sovraccarico si gestisce tagliando, non accumulando.
+
+Segnali che il problema non e' solo studio:
+
+- non riesci a decidere cosa e' priorita anche con il bando davanti;
+- eviti simulazioni non per mancanza di tempo ma per evitare il risultato;
+- il disagio resta alto per piu settimane e interferisce con sonno, lavoro o relazioni.
+
+In questi casi il capitolo non sostituisce un supporto qualificato. Riduci il carico, semplifica il piano e, se il disagio persiste, cerca assistenza professionale. Continuare a studiare di piu senza capire il segnale peggiora spesso la situazione.
+
 ## Recuperare senza distruggere il piano
 
 ![Figura 29.4 - Recuperare senza distruggere il piano: essenziale, taglio e output da proteggere.](../assets/chapter-29/04-recuperare-senza-distruggere-piano.png)
@@ -123,6 +178,22 @@ Il recupero corretto usa tre domande:
 Se perdi due giorni, non devi ricostruire il piano come se nulla fosse. Devi aggiornare il piano.
 
 La revisione settimanale serve proprio a questo: non a giudicarti, ma a decidere.
+
+### Protocollo dopo giorni persi
+
+Usa questa sequenza entro 24 ore dal ritorno allo studio.
+
+| Passo | Azione | Domanda guida |
+|---|---|---|
+| 1 | Ferma il senso di colpa | Quanti giorni ho perso davvero? |
+| 2 | Elenca cosa era previsto | Studio, output, ripasso o solo logistica? |
+| 3 | Classifica | Cosa e' essenziale, rinviabile o eliminabile? |
+| 4 | Proteggi un output | Quale quiz, caso o simulazione non posso saltare? |
+| 5 | Applica minimo efficace | Cosa mantengo vivo oggi in 15-20 minuti? |
+| 6 | Aggiorna il piano | Cosa sposto, taglio o recupero in finestra leggera? |
+| 7 | Registra nel Diario | Ho perso tempo, metodo o energia? |
+
+Esempio pratico: perdi martedi e mercoledi per lavoro. Giovedi non recuperi sei ore. Fai 20 minuti di Diario, proteggi venerdi un quiz mirato, sposti un blocco passivo a domenica pomeriggio e tagli un dettaglio a bassa probabilita. Il piano resta leggibile.
 
 ## Ansia da prova: trasformarla in procedura
 
@@ -259,21 +330,38 @@ Quando senti urgenza, torna a tre domande:
 
 Se la risposta e' no, forse non e' priorita. E' rumore.
 
+## Scheda workbook: Semaforo settimanale della preparazione
+
+Compila questa scheda ogni settimana, in 10-15 minuti. Puoi usarla su carta o in digitale, ma mantieni una sola versione aggiornata.
+
+| Area | Domanda | Risposta |
+|---|---|---|
+| Piano | Ore previste / ore reali | |
+| Studio | Nuclei nuovi o chiariti | |
+| Richiamo | Sessioni di richiamo attivo | |
+| Output | Quiz, casi, orale, simulazioni | |
+| Correzione | Errori registrati con azione | |
+| Ripasso | Materie o errori ripassati | |
+| Recupero | Finestra usata o da programmare | |
+| Energia | Alta / media / bassa prevalente | |
+| Segnale | Stanchezza / confusione / sovraccarico | |
+| Taglio | Cosa ho ridotto o eliminato | |
+| Protezione | Output da non sacrificare | |
+| Semaforo | Verde / giallo / rosso | |
+| Prossima settimana | Una priorita concreta | |
+
+Se il semaforo e' giallo, riduci e proteggi output. Se e' rosso, taglia moduli o attivita a bassa resa prima di aggiungere altro studio.
+
 ## Mini-esercizio
 
-Compila questa scheda alla fine della settimana.
+Scegli l'ultima settimana difficile e compila solo quattro righe:
 
 | Domanda | Risposta |
 |---|---|
-| Qual era il mio piano reale? | |
-| Quali blocchi ho completato? | |
-| Quali output ho prodotto? | |
-| Quali errori sono tornati? | |
-| Che cosa ha consumato piu energia? | |
-| Quale contenuto posso tagliare o ridurre? | |
-| Quale simulazione devo proteggere? | |
-| Qual e' il minimo efficace per il prossimo giorno difficile? | |
-| Il mio semaforo e' verde, giallo o rosso? | |
+| Quale funzione ho saltato (studio, richiamo, output, correzione, ripasso, recupero)? | |
+| Quale errore e' tornato per stanchezza, metodo o ansia? | |
+| Quale minimo efficace avrei potuto fare nei giorni peggiori? | |
+| Quale decisione prendo per la prossima settimana? | |
 
 La scheda non serve a punirti. Serve a decidere il prossimo passo.
 
@@ -313,4 +401,4 @@ Se mancano piu di quattro voci, non aggiungere materia. Riduci e rimetti ordine.
 
 - La struttura madre originaria non prevedeva il Capitolo 29. Questo capitolo e' un'estensione editoriale: in revisione decidere se mantenerlo numerato o trasformarlo in sezione conclusiva/tool.
 - Il capitolo resta nel perimetro del metodo di studio e non offre consulenza medica o psicologica. Conservare la nota sul supporto qualificato nei casi di disagio intenso o persistente.
-- In impaginazione valutare una scheda workbook autonoma "Semaforo settimanale della preparazione".
+- Scheda workbook "Semaforo settimanale della preparazione" inserita nel capitolo; in impaginazione valutare estrazione come PDF compilabile autonomo.

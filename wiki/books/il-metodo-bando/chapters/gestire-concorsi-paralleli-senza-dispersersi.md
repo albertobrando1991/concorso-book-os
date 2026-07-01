@@ -8,19 +8,21 @@ topics: ["concorsi paralleli", "metodo bando", "bando decoder", "piano 30 60 90 
 entities: ["Metodo BANDO", "Bando Decoder", "Piano 30/60/90 giorni", "Diario degli errori", "Moduli Profilo"]
 source_refs: ["sources/gestione-concorsi-paralleli-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/struttura-madre-il-metodo-bando.md", "sources/template-bando-decoder-metodo-bando.md", "sources/piano-studio-personale-metodo-bando.md", "sources/checklist-operative-concorsi-metodo-bando.md", "sources/matrice-materie-profili-metodo-bando.md", "sources/capitale-studio-riutilizzabile-metodo-bando.md"]
 book_refs: ["il-metodo-bando"]
-confidence: 0.89
-updated_at: 2026-06-10T16:05:49.6900281+02:00
+confidence: 0.91
+updated_at: 2026-07-01T14:30:00+02:00
 created_at: 2026-06-07T16:41:24+02:00
 review_required: true
 canonical: true
 tags: ["book-chapter", "extra-chapter", "planning", "method", "workbook"]
 book_id: il-metodo-bando
 outline_section: 27
-draft_stage: revised-editorial-draft
+draft_stage: professional-complete-draft
 last_compiled_from: ["sources/gestione-concorsi-paralleli-metodo-bando.md", "topics/concorsi-paralleli.md", "topics/bando-decoder.md", "topics/piano-30-60-90-giorni.md", "topics/moduli-integrativi.md", "topics/capitale-studio-riutilizzabile.md"]
 ---
 
 # Capitolo 27 - Gestire concorsi paralleli senza disperdersi
+
+> Modulo ricettario **R3** — Portafoglio concorsi e calendario unico. Collega Cap. 26, Cap. 22 e Appendice D.
 
 Il problema non e' avere un solo concorso da preparare.
 
@@ -231,6 +233,45 @@ Il Metodo BANDO non premia chi tenta tutto. Premia chi trasforma tempo limitato 
 
 ![Figura 27.6 - Diario e semaforo decisionale](../assets/chapter-27/06-diario-semaforo-decisionale.png)
 
+## Scheda workbook: nuovo bando entra o resta fuori
+
+Ogni nuovo bando deve passare da questa scheda prima di entrare nel calendario attivo. Se non sai cosa tagliare, il bando resta fuori per ora.
+
+| Controllo | Si / No / Parziale | Nota |
+|---|---|---|
+| Ho compilato il Bando Decoder | | |
+| Conosco scadenza domanda e prove | | |
+| So quali materie sono comuni e quali nuove | | |
+| Il profilo e' coerente con il mio percorso | | |
+| Condivide nucleo, prova o modulo con un concorso attivo | | |
+| Posso assegnare ruolo: guida / satellite / parcheggio | | |
+| Ho indicato cosa taglio per far entrare il bando | | |
+| Ho previsto almeno un output nella settimana | | |
+| Il concorso guida resta protetto | | |
+| Decisione finale | Entra / Resta fuori / Solo monitoraggio | |
+
+Regola operativa:
+
+- **Entra** solo se almeno sette controlli sono "Si" e il taglio compensativo e' scritto.
+- **Resta fuori** se mancano scadenze chiare, prove allenabili o spazio nel calendario unico.
+- **Solo monitoraggio** se il bando e' interessante ma va parcheggiato: salvi Decoder minimo, scadenze e avvisi senza aprire moduli pesanti.
+
+## Protocollo di revisione settimanale del portafoglio
+
+Ogni settimana, in 15 minuti, aggiorna il portafoglio concorsi.
+
+| Passo | Azione |
+|---|---|
+| 1 | Rileggi scadenze e avvisi di guida, satellite e parcheggiati |
+| 2 | Assegna semaforo verde/giallo/rosso a ciascun concorso attivo |
+| 3 | Verifica che il calendario unico abbia blocchi comune, specifico, output e controllo |
+| 4 | Controlla errori COMUNE, PROFILO e LOGISTICA nel Diario |
+| 5 | Decidi se un satellite resta attivo, va ridotto o va parcheggiato |
+| 6 | Proteggi almeno un output per il concorso guida |
+| 7 | Aggiorna matrice compatibilita se e' uscito un nuovo bando |
+
+Se due concorsi sono entrambi rossi nella stessa settimana, il problema non sono i bandi: e' il carico totale. Sospendi un satellite o parcheggia una procedura prima di aggiungere altro studio.
+
 ## Caso guidato
 
 Marta sta preparando un concorso per istruttore amministrativo in un Comune. Ha 45 giorni alla prova scritta. Ha gia studiato procedimento amministrativo, accesso, pubblico impiego, trasparenza e contabilita base. Esce poi un bando per un ministero, profilo assistente amministrativo, con quiz e orale. Dopo una settimana esce anche un concorso in agenzia fiscale, con materie tributarie nuove.
@@ -339,4 +380,4 @@ Se tre voci restano vuote, il concorso non deve ancora entrare nel piano attivo.
 
 - La struttura madre originaria non prevedeva il Capitolo 27. Questo capitolo e' un'estensione editoriale: in revisione decidere se mantenerlo numerato, trasformarlo in epilogo operativo o integrarlo con Capitolo 26 e Appendice D.
 - Il capitolo non introduce nuove fonti normative: usa conoscenza metodologica e source notes consolidate. Se in una versione futura si aggiungono esempi basati su bandi reali, verificare date, requisiti, prove e avvisi ufficiali.
-- In impaginazione valutare una scheda workbook autonoma "Portafoglio concorsi" da estrarre anche come PDF compilabile.
+- Schede workbook "Nuovo bando entra o resta fuori" e revisione settimanale portafoglio inserite nel capitolo; in impaginazione valutare estrazione come PDF compilabile autonomo.

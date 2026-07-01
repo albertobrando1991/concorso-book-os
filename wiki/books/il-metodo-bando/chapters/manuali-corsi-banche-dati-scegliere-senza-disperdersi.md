@@ -8,19 +8,21 @@ topics: ["scelta materiali studio concorsi", "manuali concorsi", "corsi concorsi
 entities: ["Metodo BANDO", "Bando Decoder", "Diario degli errori", "inPA"]
 source_refs: ["sources/scelta-materiali-studio-concorsi-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/struttura-madre-il-metodo-bando.md", "sources/metodo-bando-capitolo-13-bozza-sito-2026-05-30.md", "sources/apprendimento-efficace-active-recall-ripasso-distribuito.md", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md", "sources/fonti-ufficiali-aggiornamento-metodo-bando-2026-06-03.md", "sources/strumenti-digitali-metodo-bando.md", "sources/capitale-studio-riutilizzabile-metodo-bando.md", "sources/checklist-operative-concorsi-metodo-bando.md"]
 book_refs: ["il-metodo-bando"]
-confidence: 0.88
-updated_at: 2026-06-17T16:33:16.6168184+02:00
+confidence: 0.91
+updated_at: 2026-07-01T19:00:00+02:00
 created_at: 2026-06-07T19:55:28+02:00
 review_required: true
 canonical: true
 tags: ["book-chapter", "extra-chapter", "study-materials", "method", "workbook"]
 book_id: il-metodo-bando
 outline_section: 33
-draft_stage: revised-editorial-draft
+draft_stage: professional-complete-draft
 last_compiled_from: ["sources/scelta-materiali-studio-concorsi-metodo-bando.md", "topics/scelta-materiali-studio-concorsi.md", "topics/metodo-bando.md", "topics/metodo-di-studio.md", "topics/prova-a-quiz.md", "topics/aggiornamento-fonti-concorsi.md", "topics/capitale-studio-riutilizzabile.md"]
 ---
 
 # Capitolo 33 - Manuali, corsi e banche dati: scegliere senza disperdersi
+
+> Modulo ricettario **R9** — Scorecard materiali di studio. Collega [[books/il-metodo-bando/chapters/scegliere-moduli-integrativi|Cap. 21]], [[books/il-metodo-bando/chapters/metodo-di-studio-per-concorsi|Cap. 13]] e [[books/il-metodo-bando/chapters/il-metodo-bando|Cap. 3]]; incrocia [[books/il-metodo-bando/chapters/aggiornare-il-metodo-dopo-il-libro|R1]], [[books/il-metodo-bando/chapters/trasformare-ogni-concorso-in-capitale-di-studio|R2]], [[books/il-metodo-bando/chapters/usare-il-digitale-senza-perdere-il-metodo|R4]] e [[books/il-metodo-bando/chapters/il-tuo-sistema-bando-personale|R8]].
 
 Molti candidati iniziano la preparazione con una domanda sbagliata:
 
@@ -271,11 +273,13 @@ Ogni output importante deve essere verificato con bando, fonte ufficiale o mater
 
 Una sintesi generata senza fonte puo sembrare chiara e contenere errori. Nel concorso, un errore chiaro resta un errore.
 
+Per il protocollo digitale completo (AI sicura, backup, promemoria) vedi **R4** (Cap. 28). Qui resta la regola: l'AI trasforma materiali in domande e schede, non sostituisce bando e fonti ufficiali.
+
 ## Quando comprare
 
-Compra o attiva un materiale solo dopo avere compilato il Bando Decoder.
+Compra o attiva un materiale solo dopo avere compilato il Bando Decoder (Cap. 3).
 
-Prima del Decoder puoi fare al massimo una ricognizione leggera.
+Prima del Decoder puoi fare al massimo una ricognizione leggera. Per il controllo delle fonti ufficiali vedi **R1** (Cap. 25); per il capitale gia posseduto vedi **R2** (Cap. 26).
 
 Dopo il Decoder puoi decidere:
 
@@ -421,6 +425,84 @@ Prima di fissare il tuo set di materiali, verifica:
 
 Se non puoi collegare un materiale a bando, output o errore, non e' priorita.
 
+## Scheda workbook: Scorecard materiali in 15 minuti
+
+Compila questa scheda prima di acquistare, attivare o mantenere un materiale. Se non hai ancora il Bando Decoder, fermati: la scheda non sostituisce la lettura del bando.
+
+| Domanda | Risposta |
+|---|---|
+| Nome o tipo di materiale (manuale / corso / quiz / dispensa / AI) | |
+| Quale parte del bando copre? (materia, prova, modulo) | |
+| Quale output produce? (quiz, caso, risposta breve, orale, simulazione) | |
+| Allineamento al bando (1-5) | |
+| Aggiornamento verificabile (data, edizione, base normativa) (1-5) | |
+| Tracciabilita alle fonti ufficiali (1-5) | |
+| Formato di prova allineato (1-5) | |
+| Correzione degli errori con spiegazione (1-5) | |
+| Tempo settimanale sostenibile (ore reali) | |
+| Capitale gia posseduto che copre la stessa materia (R2) | |
+| Decisione: tengo / integro / archivio / non acquisto | |
+| Prossima azione concreta entro sette giorni | |
+
+Soglia operativa: se due o piu criteri centrali (allineamento, aggiornamento, formato di prova) sono sotto 3, il materiale non entra nel piano. Archivia o rimanda.
+
+## Registro materiali attivi
+
+Tieni un registro semplice della pila minima. Non serve elencare tutto cio che hai mai comprato: serve governare cio che comanda la settimana.
+
+| Materiale | Tipo | Funzione nella pila | Parte bando coperta | Output prodotto | Decisione | Ultima revisione | Prossimo controllo |
+|---|---|---|---|---|---|---|---|
+| | | fonte / base / allenamento / modulo / diario | | | tengo / integro / archivio | | |
+| | | | | | | | |
+| | | | | | | | |
+
+Frequenza consigliata:
+
+- **revisione mensile**: ogni materiale riceve una decisione mantieni / aggiorna / archivia (R8);
+- **revisione dopo nuovo bando**: prima riusa capitale (R2), poi valuta acquisti;
+- **revisione dopo simulazione**: se un materiale non ha prodotto correzione di errori, va in archivio o integrazione.
+
+Massimo consigliato per concorso attivo: un manuale principale per area, un corso solo per lacune reali, una banca quiz con tracciamento errori, moduli specialistici mirati.
+
+## Cinque domande prima di comprare
+
+Prima di spendere tempo o denaro, rispondi per iscritto:
+
+1. **Ho il Bando Decoder compilato?** Senza bando letto, ogni acquisto e' ansia, non metodo.
+2. **Quale lacuna reale copre?** Deve colmare un vuoto dimostrato da simulazione, Diario o modulo mancante (Cap. 23), non una sensazione generica.
+3. **Quale output produce nella settimana?** Se non genera quiz, caso, risposta o spiegazione entro sette giorni, non e' priorita.
+4. **Posso riusare capitale esistente?** Schemi, domande, simulazioni e manuali gia validi (R2) vanno riaperti prima di aprire nuovi strumenti.
+5. **Quale materiale archivio per fare spazio?** Ogni ingresso richiede un'uscita: la pila minima non cresce all'infinito.
+
+Se anche una risposta e' debole, rimanda l'acquisto di una settimana e fai una simulazione mirata sulla lacuna dichiarata.
+
+## Cinque segnali che la pila funziona
+
+1. **Sai nominare il materiale della settimana**: non "studio amministrativo", ma "manuale X capitoli 4-6 + 40 quiz con correzione".
+2. **Ogni materiale ha un posto nella pila**: fonte, base, allenamento, modulo o diario — nessun file orfano.
+3. **Gli errori diminuiscono**: il Diario mostra correzioni verificate, non le stesse lacune ripetute.
+4. **Il piano non cambia per ansia**: nuovi acquisti seguono Decoder e scorecard, non commenti esterni.
+5. **Il capitale cresce**: schemi, domande e simulazioni riutilizzabili in concorsi successivi (R2).
+
+## Chiusura operativa
+
+La scelta dei materiali e' chiusa metodologicamente quando la pila minima e' governata, non quando la libreria e' piena.
+
+| Azione | Fatto |
+|---|---|
+| Ho compilato il Bando Decoder prima di fissare materiali | |
+| Ho definito la pila minima (fonte, base, allenamento, modulo, diario) | |
+| Ho applicato la scorecard a ogni materiale attivo | |
+| Ho distinto banca dati ufficiale e banca dati di allenamento | |
+| Ho un solo manuale principale per area, non pile parallele | |
+| Ho valutato corsi rispetto a output e tempo reale | |
+| Ho verificato data e origine di dispense, riassunti e output AI | |
+| Ho compilato il registro materiali attivi | |
+| Ho archiviato almeno un materiale duplicato o inutilizzato | |
+| Ogni materiale attivo e' collegato a piano, Diario e capitale (R8) | |
+
+Non scegli materiali per sentirti preparato. Li scegli per produrre l'output richiesto dal bando — e per trasformare ogni ora di studio in capitale riutilizzabile.
+
 ## Riferimenti consolidati
 
 - [[sources/scelta-materiali-studio-concorsi-metodo-bando]]
@@ -444,3 +526,5 @@ Se non puoi collegare un materiale a bando, output o errore, non e' priorita.
 - La struttura madre originaria non prevedeva il Capitolo 33. Questo capitolo e' un'estensione editoriale richiesta nel flusso di completamento del libro.
 - In revisione finale valutare se spostarlo prima del Capitolo 32, cosi da lasciare "Il tuo sistema BANDO personale" come epilogo conclusivo.
 - Evitare in futuro l'inserimento di nomi commerciali: il capitolo deve restare basato su criteri trasferibili e non su raccomandazioni soggette ad aggiornamento.
+- Scheda workbook "Scorecard materiali in 15 minuti", registro materiali attivi e chiusura operativa inseriti nel capitolo; in impaginazione valutare estrazione come PDF compilabile autonomo.
+- Coordinare rimandi con Cap. 21 (moduli integrativi), Cap. 13 (metodo di studio), R1 (fonti), R2 (capitale), R4 (digitale/AI), R8 (mantieni/aggiorna/archivia) e R18 (banca dati ufficiale, Cap. 42).

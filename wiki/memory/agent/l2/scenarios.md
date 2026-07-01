@@ -578,3 +578,38 @@
 - l0: l0/conv-20260627195628-moduli-specialistici.md
 - atoms:
   - mem-20260627195628-moduli-specialistici | instruction | Per Il Metodo BANDO, i moduli specialistici vivono in wiki/books/moduli/<module-id>/ come libri di lavoro separati: 6 famiglie e 25 moduli canonici, con book_id uguale allo slug cartella, index.md e capitoli in chapters/.
+
+## 2026-06-29T12:48:07.887Z - manual-writer
+
+- conversation_id: conv-20260629124807-1d0ax5h
+- route: ManualWriterAgent.reviseChapter
+- l0: l0/conv-20260629124807-1d0ax5h.md
+- atoms:
+  - mem-20260629124807-pg6ite | workflow | instruction=Applica la skill humanizer al capitolo: rimuovi segnali di scrittura AI, conserva significato, riferimenti e struttura Metodo BANDO, riscrivi solo i passaggi necessari.
+  - mem-20260629124807-1uojduy | result | Esito ManualWriterAgent.reviseChapter: chapterPath=books/il-metodo-bando/chapters/il-nuovo-candidato-pubblico.md mode=humanizer_revision instruction=Applica la skill humanizer al capitolo: rimuovi segnali di scrittura AI, conserva significato, riferimenti ... -> Revisione humanizer completata su books/il-metodo-bando/chapters/il-nuovo-candidato-pubblico.md.
+
+## 2026-06-29T15:08:07.606Z - manual-writer
+
+- conversation_id: conv-20260629150807-1282rhq
+- route: ManualWriterAgent.reviseChapter
+- l0: l0/conv-20260629150807-1282rhq.md
+- atoms:
+  - mem-20260629150807-hyeogg | result | Esito ManualWriterAgent.reviseChapter: chapterPath=books/il-metodo-bando/chapters/anatomia-del-bando.md mode=humanizer_revision instruction=Applica la skill humanizer al capitolo: rimuovi segnali di scrittura AI, conserva significato, riferimenti e struttu... -> Revisione humanizer completata su books/il-metodo-bando/chapters/anatomia-del-bando.md.
+
+## 2026-06-29T15:12:24.544Z - manual-writer
+
+- conversation_id: conv-20260629151224-1qwkjb3
+- route: ManualWriterAgent.reviseChapter
+- l0: l0/conv-20260629151224-1qwkjb3.md
+- atoms:
+  - mem-20260629151224-12xtpfh | result | Esito ManualWriterAgent.reviseChapter: chapterPath=books/moduli/m-fc01-ministeri/chapters/01-lavorare-ministeri-funzioni-centrali.md mode=humanizer_revision instruction=Applica la skill humanizer al capitolo: rimuovi segnali di scrittura AI, conserva signi... -> Revisione humanizer completata su books/moduli/m-fc01-ministeri/chapters/01-lavorare-ministeri-funzioni-centrali.md.
+
+## 2026-06-29T15:21:36.094Z - manual-writer
+
+- conversation_id: conv-20260629152136-v2ve0a
+- route: ManualWriterAgent.writeChapter
+- l0: l0/conv-20260629152136-v2ve0a.md
+- atoms:
+  - mem-20260629152136-1cg7i7s | workflow | instruction=Scrivi il capitolo effettivo , non un riepilogo tecnico.
+  - mem-20260629152136-195qkxl | instruction | Usa prima il cervello wiki: struttura madre, nota capitolo, source notes, topic pages, entity pages e design system; scarica altre fonti necessarie per la copertura totale della conoscenza e procedi poi alla scrittura professionale del capitolo completo
+  - mem-20260629152136-6r2rui | result | Esito ManualWriterAgent.writeChapter: chapterPath=books/moduli/m-fc01-ministeri/chapters/02-anatomia-bando-ministeriale-ripam.md mode=integrate instruction=Scrivi il capitolo effettivo , non un riepilogo tecnico. -> Manual Writer completato su books/moduli/m-fc01-ministeri/chapters/02-anatomia-bando-ministeriale-ripam.md.

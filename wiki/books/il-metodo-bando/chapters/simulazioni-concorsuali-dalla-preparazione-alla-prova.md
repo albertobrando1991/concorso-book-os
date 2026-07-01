@@ -8,19 +8,21 @@ topics: ["simulazioni concorsuali", "metodo bando", "metodo di studio", "prova a
 entities: ["Metodo BANDO", "Bando Decoder", "Diario degli errori", "Piano 30/60/90 giorni"]
 source_refs: ["sources/simulazioni-concorsuali-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/struttura-madre-il-metodo-bando.md", "sources/apprendimento-efficace-active-recall-ripasso-distribuito.md", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md", "sources/capitoli-21-23-corpus-moduli-piano-diario-2026-06-01.md", "sources/checklist-operative-concorsi-metodo-bando.md", "sources/sostenibilita-preparazione-concorsi-metodo-bando.md", "sources/scelta-materiali-studio-concorsi-metodo-bando.md"]
 book_refs: ["il-metodo-bando"]
-confidence: 0.89
-updated_at: 2026-06-08T19:34:07+02:00
+confidence: 0.91
+updated_at: 2026-07-01T20:00:00+02:00
 created_at: 2026-06-08T19:34:07+02:00
 review_required: true
 canonical: true
 tags: ["book-chapter", "extra-chapter", "simulation", "method", "workbook"]
 book_id: il-metodo-bando
 outline_section: 34
-draft_stage: revised-editorial-draft
+draft_stage: professional-complete-draft
 last_compiled_from: ["sources/simulazioni-concorsuali-metodo-bando.md", "topics/simulazioni-concorsuali.md", "topics/metodo-bando.md", "topics/metodo-di-studio.md", "topics/prova-a-quiz.md", "topics/prova-scritta-teorico-pratica.md", "topics/prova-orale.md", "topics/diario-errori.md"]
 ---
 
 # Capitolo 34 - Simulazioni concorsuali: dalla preparazione alla prova
+
+> Modulo ricettario **R10** — Laboratorio simulazioni. Collega [[books/il-metodo-bando/chapters/la-prova-a-quiz|Cap. 14]], [[books/il-metodo-bando/chapters/prova-scritta-teorico-pratica|Cap. 15]], [[books/il-metodo-bando/chapters/la-prova-orale|Cap. 16]] e [[books/il-metodo-bando/chapters/casi-pratici-problem-solving-amministrativo|Cap. 17]]; incrocia [[books/il-metodo-bando/chapters/diario-degli-errori|Cap. 23]], [[books/il-metodo-bando/chapters/manuali-corsi-banche-dati-scegliere-senza-disperdersi|R9]], [[books/il-metodo-bando/chapters/il-tuo-sistema-bando-personale|R8]], [[books/il-metodo-bando/chapters/strategia-di-punteggio-soglie-tempo-rischio-prova|R13]] e [[books/il-metodo-bando/chapters/banca-dati-ufficiale-studiarla-senza-memorizzare-male|R18]].
 
 Arriva un momento in cui leggere ancora non basta.
 
@@ -220,7 +222,7 @@ La simulazione a quiz deve riprodurre almeno quattro elementi:
 - materie mescolate;
 - regole su risposta errata, omessa e soglia.
 
-Se il bando prevede una banca dati ufficiale, la simulazione deve usare quella banca dati nella fase finale. Prima, pero, puoi fare micro-simulazioni su gruppi di errori.
+Se il bando prevede una banca dati ufficiale, la simulazione deve usare quella banca dati nella fase finale. Prima, pero, puoi fare micro-simulazioni su gruppi di errori. Per il protocollo di studio sulla banca ufficiale vedi [[books/il-metodo-bando/chapters/banca-dati-ufficiale-studiarla-senza-memorizzare-male|R18]]; per la scelta dei materiali di allenamento vedi [[books/il-metodo-bando/chapters/manuali-corsi-banche-dati-scegliere-senza-disperdersi|R9]].
 
 Se non esiste banca dati ufficiale, costruisci simulazioni miste con materiali affidabili e coerenti con il programma.
 
@@ -380,6 +382,8 @@ Esempio:
 
 Il punteggio e' un dato. Non e' una sentenza.
 
+Per soglie, tempo e gestione del rischio in prova, incrocia i risultati con [[books/il-metodo-bando/chapters/strategia-di-punteggio-soglie-tempo-rischio-prova|R13]].
+
 ## Caso guidato
 
 Sara prepara un concorso con prova scritta a quiz e orale successivo. Ha letto il manuale, fatto quiz per materia e compilato il Diario degli errori. Si sente abbastanza pronta, ma non ha mai simulato una prova intera.
@@ -518,6 +522,84 @@ Prima di considerare valida una simulazione, verifica:
 
 Una simulazione non chiusa con una decisione resta incompleta.
 
+## Scheda workbook: Prepara la simulazione in 15 minuti
+
+Compila questa scheda prima di ogni simulazione importante. Se non hai il Bando Decoder aggiornato, fermati: la simulazione senza bando misura il formato sbagliato.
+
+| Campo | Risposta |
+|---|---|
+| Concorso o profilo | |
+| Tipo prova (quiz / scritto / orale / caso / situazionale) | |
+| Riferimento libro (Cap. 14 / 15 / 16 / 17) | |
+| Durata reale o ridotta | |
+| Materie incluse e peso | |
+| Regole (penalita, soglia, strumenti ammessi) | |
+| Obiettivo (diagnosi / consolidamento / prova completa) | |
+| Errore ricorrente da osservare (Diario, Cap. 23) | |
+| Materiale usato (R9) | |
+| Condizioni (timer, ambiente, pause) | |
+| Decisione attesa entro 7 giorni | |
+
+Soglia operativa: se non sai nominare formato, durata e regole del bando, non fare una simulazione completa. Fai una micro-diagnosi ridotta.
+
+## Registro simulazioni
+
+Tieni un registro semplice del laboratorio. Non serve archiviare ogni quiz: serve tracciare le simulazioni che cambiano il piano.
+
+| Data | Prova simulata | Tipo | Condizioni | Punteggio / esito | Tre errori principali | Una cosa che funziona | Decisione 7 giorni | Verifica successiva |
+|---|---|---|---|---|---|---|---|---|
+| | | micro / mista / completa | timer si/no, ridotta si/no | | | | | |
+| | | | | | | | | |
+| | | | | | | | | |
+
+Frequenza consigliata:
+
+- **dopo ogni simulazione completa**: aggiorna Diario (Cap. 23) e registro in un'unica seduta;
+- **revisione settimanale (R8)**: conta errori ripetuti, non solo punteggi medi;
+- **revisione mensile**: archivia simulazioni che non hanno prodotto correzione; ripeti quelle che hanno cambiato il piano.
+
+Le simulazioni utili diventano capitale riutilizzabile (R2): griglie, set di domande, tracce scritte e audio orali da riaprire nel concorso successivo.
+
+## Cinque domande prima di simulare
+
+Prima di avviare il timer, rispondi per iscritto:
+
+1. **So che cosa sto misurando?** Deve emergere da bando e Decoder, non da un PDF casuale o da un commento esterno.
+2. **E' il momento giusto?** Se non conosci ancora i nuclei base, preferisci micro-diagnosi; la simulazione completa serve in consolidamento o fase finale.
+3. **Rispetto tempo e regole reali?** Timer, consegna, penalita e strumenti ammessi devono essere quelli del bando, anche in versione ridotta.
+4. **Ho previsto la correzione?** Senza griglia errori e decisione settimanale, la simulazione e' solo consumo di energia.
+5. **So dove finira l'output?** Diario, piano, R8 e — se serve — R9 (materiali) o R13 (strategia punteggio).
+
+Se anche una risposta e' debole, riduci durata e ambito, ma non saltare la correzione.
+
+## Cinque segnali che il laboratorio funziona
+
+1. **Ogni simulazione produce una decisione**: non solo un punteggio, ma un'azione verificabile entro sette giorni.
+2. **Gli errori si classificano per causa**: memoria, concetto, lettura, fretta, strategia — non solo per materia.
+3. **Il Diario si aggiorna**: le stesse lacune non ricompaiono identiche dopo due cicli di correzione.
+4. **Il calendario e' distribuito**: micro, miste e complete compaiono nel piano, non tutte nell'ultima settimana.
+5. **Il punteggio viene letto con R13**: soglie, tempo e rischio guidano la prossima mossa, non l'umore del giorno.
+
+## Chiusura operativa
+
+Il laboratorio simulazioni e' chiuso metodologicamente quando ogni prova lascia una traccia decisionale, non quando il punteggio e' alto.
+
+| Azione | Fatto |
+|---|---|
+| Ho verificato formato, durata e regole dal bando | |
+| Ho scelto micro, mista o completa in base alla fase | |
+| Ho rispettato timer e condizioni previste | |
+| Ho corretto per causa, non solo per materia | |
+| Ho aggiornato il Diario degli errori (Cap. 23) | |
+| Ho registrato la simulazione nel registro | |
+| Ho deciso un'azione verificabile entro 7 giorni | |
+| Ho evitato materiali nuovi solo per ansia (R9) | |
+| Ho incrociato soglie e tempo con R13 se utile | |
+| Ho programmato la prossima verifica | |
+| Ho protetto gli ultimi giorni da simulazioni pesanti non necessarie | |
+
+La simulazione non deve governare il tuo umore. Deve governare il piano.
+
 ## Riferimenti consolidati
 
 - [[sources/simulazioni-concorsuali-metodo-bando]]
@@ -541,4 +623,5 @@ Una simulazione non chiusa con una decisione resta incompleta.
 
 - La struttura madre originaria non prevedeva il Capitolo 34. Questo capitolo e' un'estensione editoriale richiesta nel flusso di completamento del libro.
 - In revisione finale valutare se collocarlo prima del Capitolo 24, come ponte tra Parte III e Kit finale, oppure mantenerlo tra le estensioni finali.
-- Verificare in impaginazione se il "dossier simulazione" debba diventare una pagina compilabile autonoma.
+- Verificare in impaginazione se il "dossier simulazione" e la scheda "Prepara la simulazione in 15 minuti" debbano diventare pagine compilabili autonome.
+- Coordinare rimandi con Cap. 14-17 (formati di prova), Cap. 23 (Diario), R8 (revisione sistema), R9 (materiali), R13 (strategia punteggio), R18 (banca dati ufficiale) e R22 (orale imprevisto, Cap. 46).

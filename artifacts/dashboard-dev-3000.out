@@ -1,0 +1,140 @@
+   ▲ Next.js 15.5.18
+   - Local:        http://localhost:3000
+   - Network:      http://10.2.0.2:3000
+   - Environments: .env.local
+
+ ✓ Starting...
+ ✓ Ready in 1806ms
+ ○ Compiling / ...
+ ✓ Compiled / in 1790ms (773 modules)
+ GET /?refresh=20260629 200 in 10218ms
+ ○ Compiling /api/book-studio ...
+ ✓ Compiled /api/book-studio in 774ms (781 modules)
+ GET /api/book-studio?bookId=il-metodo-bando 200 in 2204ms
+ GET /api/dashboard 200 in 3233ms
+ GET /?refresh=20260629 200 in 7115ms
+ ✓ Compiled /api/book-studio/assets/file in 473ms (783 modules)
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F07-decisione-materiali.png 200 in 626ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F06-banca-dati-ufficiale-non-ufficiale.png 200 in 629ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F05-funzione-rischio-materiali.png 200 in 631ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F04-scorecard-materiali.png 200 in 630ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Ffront-matter%2Fqr-capitale-personale.png 200 in 645ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F03-pila-minima-studio.png 200 in 31ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F02-prima-bando-poi-materiale.png 200 in 36ms
+ GET /?refresh=20260629 200 in 10273ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Ffront-matter%2Fqr-capitale-personale.png 200 in 35ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F07-decisione-materiali.png 200 in 47ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F06-banca-dati-ufficiale-non-ufficiale.png 200 in 48ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F05-funzione-rischio-materiali.png 200 in 49ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F04-scorecard-materiali.png 200 in 53ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F03-pila-minima-studio.png 200 in 43ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F02-prima-bando-poi-materiale.png 200 in 50ms
+ GET /?refresh=20260629 200 in 11724ms
+ GET /api/book-studio?bookId=il-metodo-bando 200 in 353ms
+ GET /api/dashboard 200 in 2025ms
+ GET /?refresh=final 200 in 9541ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-01%2F01-candidato-accumulatore-vs-strategico.png 200 in 134ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-01%2F02-cabina-regia-bando.png 200 in 154ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-01%2F03-tipo-prova-allenamento.png 200 in 155ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-01%2F04-scala-profondita-profilo.png 200 in 157ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-01%2F05-capitale-comune-moduli-specifici.png 200 in 159ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-02%2F01-bando-prima-del-manuale.png 200 in 36ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-02%2F02-tre-letture-del-bando.png 200 in 57ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-02%2F04-gerarchia-materie-bando.png 200 in 60ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-02%2F03-mappa-informazioni-bando.png 200 in 61ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-02%2F05-bando-decoder-doppia-pagina.png 200 in 62ms
+ ○ Compiling /api/manual-writer/revise ...
+ ✓ Compiled /api/manual-writer/revise in 644ms (501 modules)
+ POST /api/manual-writer/revise 200 in 102858ms
+ ✓ Compiled /api/book-studio in 98ms (109 modules)
+ GET /api/book-studio?bookId=il-metodo-bando 200 in 683ms
+ ✓ Compiled / in 184ms (536 modules)
+ ✓ Compiled /api/book-studio/assets/file in 327ms (538 modules)
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F06-banca-dati-ufficiale-non-ufficiale.png 200 in 523ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F07-decisione-materiali.png 200 in 528ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F05-funzione-rischio-materiali.png 200 in 501ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F04-scorecard-materiali.png 200 in 488ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Ffront-matter%2Fqr-capitale-personale.png 200 in 540ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F03-pila-minima-studio.png 200 in 58ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F02-prima-bando-poi-materiale.png 200 in 74ms
+ GET /?refresh=1782737137 200 in 9063ms
+ GET /?bookId=moduli%2Fm-fc01-ministeri 200 in 1083ms
+ GET /?bookId=moduli%2Fm-fc01-ministeri 200 in 555ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Ffront-matter%2Fqr-capitale-personale.png 200 in 27ms
+ GET /?bookId=moduli%2Fm-fc01-ministeri 200 in 13900ms
+ ✓ Compiled /api/manual-writer/revise in 193ms (538 modules)
+ POST /api/manual-writer/revise 200 in 142158ms
+ ✓ Compiled /api/book-studio in 131ms (536 modules)
+ GET /api/book-studio?bookId=moduli%2Fm-fc01-ministeri 200 in 259ms
+ ✓ Compiled /api/book-studio/assets/file in 149ms (536 modules)
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F07-decisione-materiali.png 200 in 284ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F06-banca-dati-ufficiale-non-ufficiale.png 200 in 282ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F05-funzione-rischio-materiali.png 200 in 282ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F04-scorecard-materiali.png 200 in 284ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Ffront-matter%2Fqr-capitale-personale.png 200 in 294ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F03-pila-minima-studio.png 200 in 37ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F02-prima-bando-poi-materiale.png 200 in 43ms
+ GET /?refresh=1782737137 200 in 9418ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Ffront-matter%2Fqr-capitale-personale.png 200 in 16ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-01%2F01-candidato-accumulatore-vs-strategico.png 200 in 25ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-01%2F02-cabina-regia-bando.png 200 in 101ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-01%2F03-tipo-prova-allenamento.png 200 in 109ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-01%2F04-scala-profondita-profilo.png 200 in 122ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-01%2F05-capitale-comune-moduli-specifici.png 200 in 123ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-02%2F01-bando-prima-del-manuale.png 200 in 20ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-02%2F02-tre-letture-del-bando.png 200 in 34ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-02%2F04-gerarchia-materie-bando.png 200 in 35ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-02%2F03-mappa-informazioni-bando.png 200 in 37ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-02%2F05-bando-decoder-doppia-pagina.png 200 in 39ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Ffront-matter%2Fqr-capitale-personale.png 200 in 32ms
+ GET /?bookId=moduli%2Fm-fc01-ministeri 200 in 8057ms
+ ✓ Compiled /api/manual-writer/run in 466ms (779 modules)
+ POST /api/manual-writer/run 200 in 109362ms
+ ✓ Compiled /api/book-studio/assets/file in 760ms (760 modules)
+ ✓ Compiled (779 modules)
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Ffront-matter%2Fqr-capitale-personale.png 200 in 563ms
+ ✓ Compiled in 392ms (760 modules)
+ GET /?bookId=moduli%2Fm-fc01-ministeri 200 in 6626ms
+ ✓ Compiled /api/book-studio/assets/file in 106ms (536 modules)
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Ffront-matter%2Fqr-capitale-personale.png 200 in 213ms
+ GET /?bookId=moduli%2Fm-fc01-ministeri 200 in 6978ms
+ ✓ Compiled /api/book-studio in 198ms (538 modules)
+ GET /api/book-studio?bookId=moduli%2Fm-fc01-ministeri 200 in 605ms
+ ○ Compiling /_error ...
+ ✓ Compiled /_error in 7.5s (1107 modules)
+ GET /?bookId=il-metodo-bando 500 in 9358ms
+ GET /?bookId=moduli%2Fm-fc01-ministeri 200 in 5853ms
+ ✓ Compiled /api/book-studio/assets/file in 246ms (730 modules)
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F07-decisione-materiali.png 500 in 1145ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F06-banca-dati-ufficiale-non-ufficiale.png 500 in 1145ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F05-funzione-rischio-materiali.png 500 in 1132ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F04-scorecard-materiali.png 500 in 1132ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Ffront-matter%2Fqr-capitale-personale.png 500 in 1147ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F03-pila-minima-studio.png 500 in 269ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F02-prima-bando-poi-materiale.png 500 in 292ms
+ GET /?bookId=il-metodo-bando 200 in 16505ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Ffront-matter%2Fqr-capitale-personale.png 500 in 481ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F07-decisione-materiali.png 500 in 481ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F06-banca-dati-ufficiale-non-ufficiale.png 500 in 480ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F05-funzione-rischio-materiali.png 500 in 481ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F04-scorecard-materiali.png 500 in 472ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F03-pila-minima-studio.png 500 in 303ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F02-prima-bando-poi-materiale.png 500 in 315ms
+ GET / 200 in 23094ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Ffront-matter%2Fqr-capitale-personale.png 500 in 532ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F07-decisione-materiali.png 500 in 541ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F06-banca-dati-ufficiale-non-ufficiale.png 500 in 541ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F05-funzione-rischio-materiali.png 500 in 621ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F04-scorecard-materiali.png 500 in 622ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F03-pila-minima-studio.png 500 in 462ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F02-prima-bando-poi-materiale.png 500 in 466ms
+ GET / 200 in 11925ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Ffront-matter%2Fqr-capitale-personale.png 500 in 320ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F07-decisione-materiali.png 500 in 411ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F06-banca-dati-ufficiale-non-ufficiale.png 500 in 412ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F05-funzione-rischio-materiali.png 500 in 412ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F04-scorecard-materiali.png 500 in 410ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F03-pila-minima-studio.png 500 in 255ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F02-prima-bando-poi-materiale.png 500 in 279ms
+ GET / 200 in 21564ms
+[?25h

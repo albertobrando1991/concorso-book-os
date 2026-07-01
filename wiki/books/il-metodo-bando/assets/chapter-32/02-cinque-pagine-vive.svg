@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Le cinque pagine vive</title>
+  <desc id="desc">Non devi mantenere vivo tutto il libro: devi mantenere vivo il sistema.</desc>
+  <style>
+    .bg { fill: #F8FAFC; }
+    .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+    .title { font: 800 43px Arial, sans-serif; fill: #0F172A; }
+    .subtitle { font: 400 21px Arial, sans-serif; fill: #526174; }
+    .label { font: 800 25px Arial, sans-serif; fill: #0F172A; }
+    .body { font: 400 19px Arial, sans-serif; fill: #0F172A; }
+    .small { font: 400 16px Arial, sans-serif; fill: #0F172A; }
+    .strong { font-weight: 800; }
+    .whiteText { fill: #FFFFFF; }
+    .line { stroke: #10233F; stroke-width: 6; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+  </style>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#10233F"/>
+    </marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <g data-safe-box="80 16 1440 118 0">
+    <text class="title" x="800" y="68" text-anchor="middle">Le cinque pagine vive</text>
+    <text class="subtitle" x="800" y="108" text-anchor="middle">Non devi mantenere vivo tutto il libro: devi mantenere vivo il sistema.</text>
+  </g>
+  
+    <rect class="card" x="70" y="165" width="1460" height="630" rx="30"/>
+    <g data-safe-box="125 340 240 230 8">
+    <rect x="125" y="340" width="240" height="230" rx="24" fill="#EAF2FB" stroke="#10233F" stroke-width="3"/>
+    <path d="M177 378 H313 V490 H177 Z" fill="#FFFFFF" stroke="#10233F" stroke-width="3"/>
+    <text class="label" style="fill:#10233F" x="245" y="432" text-anchor="middle">Decoder</text>
+    <text class="small strong" x="245" y="525" text-anchor="middle">ogni nuovo bando</text>
+  </g>
+<g data-safe-box="410 340 240 230 8">
+    <rect x="410" y="340" width="240" height="230" rx="24" fill="#F8E8EA" stroke="#7A2430" stroke-width="3"/>
+    <path d="M462 378 H598 V490 H462 Z" fill="#FFFFFF" stroke="#7A2430" stroke-width="3"/>
+    <text class="label" style="fill:#7A2430" x="530" y="432" text-anchor="middle">Matrice</text>
+    <text class="small strong" x="530" y="525" text-anchor="middle">confronto concorsi</text>
+  </g>
+<g data-safe-box="695 340 240 230 8">
+    <rect x="695" y="340" width="240" height="230" rx="24" fill="#FFF4CC" stroke="#D4AF37" stroke-width="3"/>
+    <path d="M747 378 H883 V490 H747 Z" fill="#FFFFFF" stroke="#D4AF37" stroke-width="3"/>
+    <text class="label" style="fill:#D4AF37" x="815" y="432" text-anchor="middle">Piano</text>
+    <text class="small strong" x="815" y="525" text-anchor="middle">ogni settimana</text>
+  </g>
+<g data-safe-box="980 340 240 230 8">
+    <rect x="980" y="340" width="240" height="230" rx="24" fill="#E7F3ED" stroke="#2F7D5A" stroke-width="3"/>
+    <path d="M1032 378 H1168 V490 H1032 Z" fill="#FFFFFF" stroke="#2F7D5A" stroke-width="3"/>
+    <text class="label" style="fill:#2F7D5A" x="1100" y="432" text-anchor="middle">Diario</text>
+    <text class="small strong" x="1100" y="525" text-anchor="middle">quiz e prove</text>
+  </g>
+<g data-safe-box="1265 340 240 230 8">
+    <rect x="1265" y="340" width="240" height="230" rx="24" fill="#E4F4F5" stroke="#1F6F78" stroke-width="3"/>
+    <path d="M1317 378 H1453 V490 H1317 Z" fill="#FFFFFF" stroke="#1F6F78" stroke-width="3"/>
+    <text class="label" style="fill:#1F6F78" x="1385" y="432" text-anchor="middle">Archivio</text>
+    <text class="small strong" x="1385" y="525" text-anchor="middle">chiusura concorso</text>
+  </g>
+    <g data-safe-box="455 640 690 150 8">
+    <rect x="455" y="640" width="690" height="150" rx="24" fill="#F8E8EA" stroke="#7A2430" stroke-width="3"/>
+    <rect x="455" y="640" width="690" height="12" rx="6" fill="#7A2430"/>
+    <text class="label" x="800" y="692" text-anchor="middle">Segnale di controllo</text>
+    <text class="small" x="800" y="722" text-anchor="middle">se queste pagine sono ferme</text>
+<text class="small" x="800" y="750" text-anchor="middle">il sistema sta perdendo controllo</text>
+  </g>
+    <g data-safe-box="245 810 1110 66 8">
+    <rect x="245" y="810" width="1110" height="66" rx="22" fill="#FFF7ED" stroke="#EFC58D" stroke-width="3"/>
+    <text class="body strong" x="800" y="853" text-anchor="middle">Cinque pagine vive valgono piu di cento file accumulati e mai riaperti.</text>
+  </g>
+    
+</svg>

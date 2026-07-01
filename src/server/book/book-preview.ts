@@ -39,6 +39,7 @@ export interface BookStudioChapter {
   outlineSection: string
   sectionType: "front_matter" | "chapter"
   frontMatterLayout: string
+  indexDetail: string
   status: string
   draftStage: string
   reviewRequired: boolean
@@ -128,6 +129,7 @@ export async function buildBookStudioData(store: FileWikiStore, bookId = "il-met
       outlineSection,
       sectionType,
       frontMatterLayout: String(parsed.data.front_matter_layout || ""),
+      indexDetail: String(parsed.data.index_detail || ""),
       status: String(parsed.data.status || "draft"),
       draftStage: String(parsed.data.draft_stage || ""),
       reviewRequired: Boolean(parsed.data.review_required),
@@ -140,7 +142,7 @@ export async function buildBookStudioData(store: FileWikiStore, bookId = "il-met
   }
 
   chapters.sort(compareStudioChapters)
-  hydrateGeneratedFrontMatter(chapters)
+  hydrateGeneratedFrontMatter(chapters, bookId)
   const assets = await listBookAssets(store, bookId)
 
   return {
@@ -160,7 +162,7 @@ export async function buildBookStudioData(store: FileWikiStore, bookId = "il-met
   }
 }
 
-function hydrateGeneratedFrontMatter(sections: BookStudioChapter[]) {
+function hydrateGeneratedFrontMatter(sections: BookStudioChapter[], bookId: string) {
   const writtenChapters = sections.filter((section) =>
     section.sectionType === "chapter" && section.contentState !== "structure"
   )
@@ -168,13 +170,19 @@ function hydrateGeneratedFrontMatter(sections: BookStudioChapter[]) {
   for (const section of sections) {
     if (section.frontMatterLayout !== "analytical-index") continue
 
-    section.blocks = buildAnalyticalIndexBlocks(writtenChapters)
+    section.blocks = buildAnalyticalIndexBlocks(writtenChapters, {
+      bookId,
+      includeHeadings: section.indexDetail !== "chapters-only"
+    })
     section.wordCount = countBlockWords(section.blocks)
     section.contentState = "written"
   }
 }
 
-function buildAnalyticalIndexBlocks(chapters: BookStudioChapter[]): MarkdownBlock[] {
+function buildAnalyticalIndexBlocks(
+  chapters: BookStudioChapter[],
+  options: { bookId: string; includeHeadings: boolean }
+): MarkdownBlock[] {
   const blocks: MarkdownBlock[] = [
     { type: "heading", level: 2, text: "Indice" }
   ]
@@ -183,7 +191,7 @@ function buildAnalyticalIndexBlocks(chapters: BookStudioChapter[]): MarkdownBloc
 
   for (const chapterPage of chapterPages) {
     const { chapter, headings, startPage } = chapterPage
-    const part = indexPartForOutline(chapter.outlineSection)
+    const part = indexPartForOutline(chapter.outlineSection, options.bookId)
     const chapterNumber = chapterNumberFromOutline(chapter.outlineSection)
 
     if (part && part.key !== currentPart) {
@@ -197,10 +205,12 @@ function buildAnalyticalIndexBlocks(chapters: BookStudioChapter[]): MarkdownBloc
 
     blocks.push({
       type: "index-chapter",
-      number: chapterNumber ? `Capitolo ${chapterNumber}` : "Introduzione",
+      number: chapterIndexLabel(chapter.outlineSection, chapterNumber),
       text: chapter.title,
       pageNumber: startPage
     })
+
+    if (!options.includeHeadings) continue
 
     headings.forEach((heading, index) => {
       blocks.push({
@@ -288,6 +298,10 @@ function estimatePreviewBlockCost(block: MarkdownBlock) {
 }
 
 function chapterNumberFromOutline(value: string) {
+  const normalized = value.trim()
+
+  if (/^[A-Z]$/i.test(normalized)) return normalized.toUpperCase()
+
   const number = Number.parseInt(value, 10)
 
   if (!Number.isFinite(number) || number <= 0) return ""
@@ -295,10 +309,57 @@ function chapterNumberFromOutline(value: string) {
   return String(number)
 }
 
-function indexPartForOutline(value: string) {
+function chapterIndexLabel(outlineSection: string, chapterNumber: string) {
+  if (/^[A-Z]$/i.test(outlineSection.trim())) return `Appendice ${chapterNumber}`
+
+  return chapterNumber ? `Capitolo ${chapterNumber}` : "Introduzione"
+}
+
+function indexPartForOutline(value: string, bookId: string) {
+  const normalized = value.trim()
+
+  if (/^[A-Z]$/i.test(normalized)) {
+    return {
+      key: "appendici",
+      label: "Appendici",
+      title: "Strumenti operativi"
+    }
+  }
+
   const number = Number.parseInt(value, 10)
 
   if (!Number.isFinite(number) || number <= 0) return null
+
+  if (bookId.startsWith("moduli/")) {
+    if (number <= 3) {
+      return {
+        key: "modulo-parte-1",
+        label: "Parte I",
+        title: "Orientarsi nel modulo"
+      }
+    }
+    if (number <= 7) {
+      return {
+        key: "modulo-parte-2",
+        label: "Parte II",
+        title: "Amministrazione e profili"
+      }
+    }
+    if (number <= 10) {
+      return {
+        key: "modulo-parte-3",
+        label: "Parte III",
+        title: "Materie ad alta probabilita"
+      }
+    }
+
+    return {
+      key: "modulo-parte-4",
+      label: "Parte IV",
+      title: "Allenamento e strumenti"
+    }
+  }
+
   if (number <= 3) {
     return {
       key: "parte-1",

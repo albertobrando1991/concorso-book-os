@@ -8,19 +8,21 @@ topics: ["capitale studio riutilizzabile", "metodo bando", "nucleo comune concor
 entities: ["Metodo BANDO", "Bando Decoder", "Diario degli errori", "Piano 30/60/90 giorni", "Moduli Profilo"]
 source_refs: ["sources/capitale-studio-riutilizzabile-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/struttura-madre-il-metodo-bando.md", "sources/apprendimento-efficace-active-recall-ripasso-distribuito.md", "sources/scienze-apprendimento-pianificazione-metacognizione-errori.md", "sources/capitoli-21-23-corpus-moduli-piano-diario-2026-06-01.md", "sources/checklist-operative-concorsi-metodo-bando.md", "sources/matrice-materie-profili-metodo-bando.md", "sources/fonti-ufficiali-aggiornamento-metodo-bando-2026-06-03.md"]
 book_refs: ["il-metodo-bando"]
-confidence: 0.89
-updated_at: 2026-06-10T14:49:47.7239855+02:00
+confidence: 0.91
+updated_at: 2026-07-01T14:30:00+02:00
 created_at: 2026-06-05T17:14:25+02:00
 review_required: true
 canonical: true
 tags: ["book-chapter", "extra-chapter", "method", "reuse", "workbook"]
 book_id: il-metodo-bando
 outline_section: 26
-draft_stage: revised-editorial-draft
+draft_stage: professional-complete-draft
 last_compiled_from: ["sources/capitale-studio-riutilizzabile-metodo-bando.md", "topics/capitale-studio-riutilizzabile.md", "topics/metodo-bando.md", "topics/nucleo-comune-concorsi-pubblici.md", "topics/diario-errori.md", "topics/moduli-integrativi.md"]
 ---
 
 # Capitolo 26 - Trasformare ogni concorso in capitale di studio
+
+> Modulo ricettario **R2** — Capitale di studio riutilizzabile. Collega Cap. 25, Cap. 22 e moduli profilo.
 
 Il vero vantaggio non nasce quando finisci un concorso.
 
@@ -93,6 +95,37 @@ Il capitale e' selettivo. Se conservi tutto, non hai capitale: hai deposito.
 
 ![Figura 26.2 - Deposito o capitale](../assets/chapter-26/02-deposito-vs-capitale.png)
 
+## Materiale vivo, in attesa e da archiviare
+
+Prima di riordinare cartelle, classifica ogni materiale in tre stati.
+
+| Stato | Significato | Esempio | Azione |
+|---|---|---|---|
+| Vivo | lo usi entro 30 giorni o in un concorso attivo | schema accesso, flashcard corrette, simulazioni recenti | tieni in primo piano |
+| In attesa | puo servire in un concorso futuro vicino | modulo tributario non ancora attivato, Bando Decoder parcheggiato | archivia con etichetta chiara |
+| Da archiviare | superato, duplicato o non verificato | PDF mai letti, appunti copiati, riassunti passivi | elimina o sposta fuori dal piano |
+
+Il capitale cresce quando aumenti il materiale vivo e riduci deposito e attesa confusa. Un file "in attesa" senza data, bando o modulo associato diventa presto rumore.
+
+## Inventario del capitale di studio
+
+Una volta al mese, o alla chiusura di un concorso, compila un inventario rapido.
+
+| Voce | Presente | Qualita (alta/media/bassa) | Core / Modulo / Solo bando |
+|---|---|---|---|
+| Bando Decoder compilato | | | |
+| Matrice materie-profili | | | |
+| Schemi nucleo comune | | | |
+| Moduli attivati | | | |
+| Quiz corretti con data | | | |
+| Casi svolti | | | |
+| Risposte orali provate | | | |
+| Diario errori aggiornato | | | |
+| Fonti ufficiali controllate | | | |
+| Materiali da eliminare | | | |
+
+Se piu di tre voci risultano assenti o a qualita bassa, non aprire un nuovo concorso: prima consolidi il capitale. Il inventario non serve a fare ordine estetico. Serve a capire cosa puoi riusare davvero.
+
 ## La regola 3C: conserva, correggi, converti
 
 Dopo ogni blocco di studio importante, usa tre azioni.
@@ -161,6 +194,43 @@ Invece devi salvare dati utili.
 Questa scheda vale anche se la prova e' andata male. Anzi, soprattutto in quel caso.
 
 Una prova sbagliata ma analizzata bene puo evitare due mesi di errori nel concorso successivo.
+
+## Scheda workbook: dopo concorso
+
+Compila entro 48 ore dalla prova, anche prima di conoscere l'esito.
+
+| Sezione | Campo | Risposta |
+|---|---|---|
+| Identificazione | Concorso / data prova / tipo prova | |
+| Prestazione | Tre punti forti osservati | |
+| Prestazione | Tre errori ricorrenti | |
+| Materiale | Tre strumenti che hanno funzionato | |
+| Materiale | Tre strumenti inutili o da eliminare | |
+| Capitale | Cosa riuso nel prossimo bando (core) | |
+| Capitale | Cosa riuso solo in moduli simili | |
+| Capitale | Cosa non ripeto nel metodo | |
+| Aggiornamento | Fonti o avvisi da verificare | |
+| Prossimo passo | Un ripasso leggero entro 7 giorni | |
+
+La scheda chiude il ciclo del concorso e alimenta il protocollo dei 30 minuti. Senza questa chiusura, il capitale resta teorico.
+
+## Matrice riuso e taglio
+
+Quando passi da un concorso al successivo, non riusi tutto. Decidi cosa portare avanti e cosa tagliare.
+
+| Materiale | Riuso (alto/medio/basso) | Azione (conserva/correggi/converti/elimina) | Motivo |
+|---|---|---|---|
+| Bando Decoder | | | |
+| Schema principale | | | |
+| Quiz corretti | | | |
+| Errori ricorrenti | | | |
+| Risposte orali | | | |
+| Casi pratici | | | |
+| Modulo profilo | | | |
+| Fonte ufficiale | | | |
+| Corso o manuale esterno | | | |
+
+Regola pratica: riuso alto su core, output e Diario; riuso medio su moduli vicini; riuso basso su materiali legati a un solo bando o non verificati. Tutto cio che resta a riuso basso senza conversione in output va eliminato o archiviato.
 
 ## Il protocollo dei 30 minuti
 
@@ -347,5 +417,5 @@ La differenza tra accumulare e crescere e' tutta qui: trasformare l'esperienza i
 ## Note di review
 
 - La struttura madre originaria non prevedeva il Capitolo 26. Questo capitolo e' un'estensione editoriale: in revisione decidere se mantenerlo numerato, unirlo al Capitolo 25 o trasformarlo in epilogo operativo.
-- Verificare la resa tipografica delle tabelle: alcune possono diventare schede workbook autonome.
+- Schede workbook "Dopo concorso", inventario capitale e matrice riuso/taglio inserite nel capitolo; in impaginazione valutare estrazione come PDF compilabile autonomo.
 - Coordinare il lessico con front matter e servizi digitali di Capitale Personale, evitando che il capitolo sembri dipendere dal digitale.
