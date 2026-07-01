@@ -884,16 +884,20 @@ function PreviewBlock({ block }: { block: MarkdownBlock }) {
   }
 
   if (block.type === "table") {
+    const showHeader = !block.continued
+
     return (
-      <div className="previewTableWrap">
+      <div className={`previewTableWrap${block.continued ? " continuedTable" : ""}`}>
         <table className="previewTable">
-          <thead>
-            <tr>
-              {(block.headers || []).map((header) => (
-                <th key={header}>{header}</th>
-              ))}
-            </tr>
-          </thead>
+          {showHeader ? (
+            <thead>
+              <tr>
+                {(block.headers || []).map((header, index) => (
+                  <th key={`${header}-${index}`}>{header}</th>
+                ))}
+              </tr>
+            </thead>
+          ) : null}
           <tbody>
             {(block.rows || []).map((row, rowIndex) => (
               <tr key={`${row.join("-")}-${rowIndex}`}>
@@ -1256,7 +1260,9 @@ function estimateBlockCost(block: MarkdownBlock) {
   }
 
   if (block.type === "table") {
-    return ((block.rows?.length || 0) + 1) * 28 + 18
+    const headerCost = block.continued ? 0 : 24
+
+    return headerCost + (block.rows?.length || 0) * 24 + 12
   }
 
   if (block.type === "image") {

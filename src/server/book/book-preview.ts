@@ -29,6 +29,7 @@ export interface MarkdownBlock {
   alt?: string
   headers?: string[]
   rows?: string[][]
+  continued?: boolean
   calloutType?: string
   title?: string
 }
@@ -289,7 +290,7 @@ function estimatePreviewBlockCost(block: MarkdownBlock) {
   if (block.type === "list") {
     return (block.items || []).reduce((total, item) => total + Math.ceil(countWords(item) / 12) * 19 + 6, 18)
   }
-  if (block.type === "table") return ((block.rows?.length || 0) + 1) * 28 + 18
+  if (block.type === "table") return estimateTableBlockCost(block)
   if (block.type === "image") return 315
   if (block.type === "callout") return Math.ceil(countWords(`${block.title || ""} ${block.text || ""}`) / 12) * 21 + 34
   if (block.type === "code") return (block.text || "").split("\n").length * 18 + 24
@@ -751,7 +752,7 @@ function markdownToBlocks(markdown: string, sourcePath: string): MarkdownBlock[]
 
 function splitOversizedBlocks(blocks: MarkdownBlock[]) {
   const next: MarkdownBlock[] = []
-  const maxTableRows = 5
+  const maxTableRows = 7
   const maxListItems = 3
 
   for (const block of blocks) {
@@ -761,6 +762,7 @@ function splitOversizedBlocks(blocks: MarkdownBlock[]) {
       for (let index = 0; index < rows.length; index += maxTableRows) {
         next.push({
           ...block,
+          continued: index > 0,
           rows: rows.slice(index, index + maxTableRows)
         })
       }
@@ -785,6 +787,13 @@ function splitOversizedBlocks(blocks: MarkdownBlock[]) {
   }
 
   return next
+}
+
+function estimateTableBlockCost(block: MarkdownBlock) {
+  const headerCost = block.continued ? 0 : 24
+  const rowCost = 24
+
+  return headerCost + (block.rows?.length || 0) * rowCost + 12
 }
 
 function parseCallout(lines: string[]): MarkdownBlock {

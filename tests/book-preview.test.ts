@@ -70,6 +70,45 @@ describe("book preview assets", () => {
     expect(() => normalizeAssetPath("books/il-metodo-bando/chapters/schema.png")).toThrow("Asset path non valido")
   })
 
+  it("splits long tables as visual continuations without repeating the header", async () => {
+    const root = await mkdtemp(path.join(os.tmpdir(), "book-preview-table-"))
+    const tableRows = Array.from({ length: 15 }, (_, index) => `| Fase ${index + 1} | Azione operativa ${index + 1} | Esito ${index + 1} |`)
+
+    try {
+      await mkdir(path.join(root, "books/il-metodo-bando/chapters"), { recursive: true })
+      await writeFile(
+        path.join(root, "books/il-metodo-bando/index.md"),
+        "---\ntitle: Il Metodo BANDO\n---\n# Il Metodo BANDO",
+        "utf8"
+      )
+      await writeFile(
+        path.join(root, "books/il-metodo-bando/chapters/tabella-operativa.md"),
+        [
+          "---",
+          "title: Tabella operativa",
+          "outline_section: 1",
+          "---",
+          "# Tabella operativa",
+          "",
+          "| Fase | Azione | Esito |",
+          "| --- | --- | --- |",
+          ...tableRows
+        ].join("\n"),
+        "utf8"
+      )
+
+      const data = await buildBookStudioData(new FileWikiStore(root), "il-metodo-bando")
+      const tableBlocks = data.chapters[0].blocks.filter((block) => block.type === "table")
+
+      expect(tableBlocks.length).toBeGreaterThan(1)
+      expect(tableBlocks[0].continued).toBeFalsy()
+      expect(tableBlocks.slice(1).every((block) => block.continued)).toBe(true)
+      expect(tableBlocks.flatMap((block) => block.rows || [])).toHaveLength(15)
+    } finally {
+      await rm(root, { recursive: true, force: true })
+    }
+  })
+
   it("loads nested specialist module books", async () => {
     const root = await mkdtemp(path.join(os.tmpdir(), "book-preview-module-"))
 
