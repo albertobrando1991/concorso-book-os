@@ -272,11 +272,21 @@ Scegli 15 termini del glossario e compila questa griglia.
 
 | Termine | Area | Definizione in 20 parole | Errore da evitare |
 |---|---|---|---|
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
+| 1. | | | |
+| 2. | | | |
+| 3. | | | |
+| 4. | | | |
+| 5. | | | |
+| 6. | | | |
+| 7. | | | |
+| 8. | | | |
+| 9. | | | |
+| 10. | | | |
+| 11. | | | |
+| 12. | | | |
+| 13. | | | |
+| 14. | | | |
+| 15. | | | |
 
 Poi ripeti a voce le 15 definizioni. Se una supera 30 secondi, è troppo lunga per l'orale.
 

@@ -15,7 +15,7 @@ asset_refs:
  - "books/il-metodo-bando/assets/chapter-01/04-scala-profondità-profilo.png"
  - "books/il-metodo-bando/assets/chapter-01/05-capitale-comune-moduli-specifici.png"
 confidence: 0.9
-updated_at: "2026-06-29T12:48:07.881Z"
+updated_at: "2026-07-01T11:00:17.390Z"
 created_at: "2026-05-10T11:45:00+02:00"
 review_required: true
 canonical: true
@@ -25,16 +25,15 @@ outline_section: 1
 draft_stage: humanized-editorial-revision
 last_compiled_from: ["sources/struttura-madre-il-metodo-bando.md", "topics/metodo-bando.md"]
 last_editorial_review: "2026-05-25T15:10:00Z"
-last_humanizer_revision: "2026-06-29T12:48:07.881Z"
+last_humanizer_revision: "2026-07-01T11:00:17.390Z"
 ---
 # Capitolo 1 - Il nuovo candidato pubblico
-
 
 ## Perché partire dal candidato
 
 Il candidato pubblico di oggi non è soltanto una persona che studia molte pagine. Deve prendere decisioni: quale concorso scegliere, quali materie mettere al centro, quali prove allenare, quali materiali scartare e quali errori correggere prima che diventino abitudini.
 
-Qui sta la prima differenza rispetto alla preparazione tradizionale. Molti manuali partono dalle materie. Questo libro parte dal candidato davanti al bando. Prima di studiare diritto amministrativo, Costituzione, pubblico impiego o logica, devi capire che tipo di gara stai affrontando e quale prestazione ti verrà richiesta.
+La prima differenza rispetto alla preparazione tradizionale è qui. Molti manuali partono dalle materie. Questo libro parte dal candidato davanti al bando. Prima di studiare diritto amministrativo, Costituzione, pubblico impiego o logica, devi capire che tipo di gara stai affrontando e quale prestazione ti verrà richiesta.
 
 Un concorso non premia chi possiede più file. Premia chi riesce a trasformare tempo limitato, informazioni ufficiali e studio in una risposta corretta nel momento giusto. Il nuovo candidato pubblico seleziona i materiali, produce risposte, registra gli errori e li usa per migliorare.
 
@@ -73,7 +72,7 @@ Alla fine di questo capitolo devi saper fare quattro cose.
 
 ## Come sono cambiati i concorsi pubblici
 
-Il concorso pubblico non segue più un modello unico. Puoi trovare una prova preselettiva a quiz, una prova scritta unica, una prova teorico-pratica, una prova orale, una valutazione dei titoli, una prova digitale o una combinazione di più passaggi. In alcuni bandi conta molto la velocità; in altri conta la capacità di ragionare su un caso; in altri ancora serve un’esposizione orale ordinata.
+Il concorso pubblico non segue più un modello unico. Puoi trovare una preselettiva a quiz, una prova scritta unica, una prova teorico-pratica, una prova orale, una valutazione dei titoli, una prova digitale o una combinazione di più passaggi. In alcuni bandi conta molto la velocità; in altri conta la capacità di ragionare su un caso; in altri ancora serve un’esposizione orale ordinata.
 
 Cambiano anche i profili. Un operatore, un istruttore, un assistente, un funzionario, una posizione di elevata qualificazione o un dirigente non affrontano la stessa profondità. Cambiano le responsabilità attese, il livello di autonomia, il tipo di domande e la qualità della risposta richiesta.
 
@@ -115,7 +114,7 @@ Questa distinzione cambia il modo di studiare.
 | Quiz o preselettiva | Rapidità, memoria, precisione, gestione del tempo. | Batterie mirate, diario errori, simulazioni a tempo. |
 | Scritto teorico | Definizione, ordine, riferimenti essenziali. | Risposte in 10, 20 e 30 righe. |
 | Teorico-pratica | Capacità di applicare regole a un caso. | Casi guidati, schemi soggetti-problema-soluzione. |
-| Orale | chiarezza, collegamenti, controllo emotivo. | Risposte ad alta voce, esempi, domande-trappola. |
+| Orale | Chiarezza, collegamenti, controllo emotivo. | Risposte ad alta voce, esempi, domande-trappola. |
 | Titoli | Coerenza del profilo e documentazione. | Verifica dei requisiti, punteggi, allegati e scadenze. |
 
 ![Mappa che collega ciascun tipo di prova concorsuale al relativo allenamento principale.](../assets/chapter-01/03-tipo-prova-allenamento.png)
@@ -156,7 +155,7 @@ Marco vuole partecipare a due concorsi: istruttore amministrativo comunale e ass
 
 Marco applica un’altra logica. Prima confronta i bandi. Trova una base comune: Costituzione, diritto amministrativo, pubblico impiego, trasparenza, informatica e logica. Poi separa le differenze: per il concorso comunale deve aggiungere enti locali; per l’ente centrale deve approfondire organizzazione amministrativa e profilo specifico.
 
-Il risultato è concreto: Marco non prepara due concorsi. Prepara un nucleo riutilizzabile e due moduli di adattamento.
+In pratica, Marco non prepara due concorsi da zero. Prepara un nucleo riutilizzabile e due moduli di adattamento.
 
 ## Domanda da commissario
 

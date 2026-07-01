@@ -68,3 +68,5 @@
 {"id":"conv-20260629150807-1282rhq","createdAt":"2026-06-29T15:08:07.606Z","scope":"manual-writer","route":"ManualWriterAgent.reviseChapter","l0Path":"l0\\conv-20260629150807-1282rhq.md","messageCount":1,"replyChars":1087}
 {"id":"conv-20260629151224-1qwkjb3","createdAt":"2026-06-29T15:12:24.544Z","scope":"manual-writer","route":"ManualWriterAgent.reviseChapter","l0Path":"l0\\conv-20260629151224-1qwkjb3.md","messageCount":1,"replyChars":714}
 {"id":"conv-20260629152136-v2ve0a","createdAt":"2026-06-29T15:21:36.094Z","scope":"manual-writer","route":"ManualWriterAgent.writeChapter","l0Path":"l0\\conv-20260629152136-v2ve0a.md","messageCount":1,"replyChars":828}
+{"id":"conv-20260701110017-93e87k","createdAt":"2026-07-01T11:00:17.445Z","scope":"manual-writer","route":"ManualWriterAgent.reviseChapter","l0Path":"l0\\conv-20260701110017-93e87k.md","messageCount":1,"replyChars":773}
+{"id":"conv-20260701110454-1epn91o","createdAt":"2026-07-01T11:04:54.420Z","scope":"editorial-reviewer","route":"EditorialReviewerAgent.runReview","l0Path":"l0\\conv-20260701110454-1epn91o.md","messageCount":1,"replyChars":140}

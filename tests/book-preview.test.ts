@@ -109,6 +109,46 @@ describe("book preview assets", () => {
     }
   })
 
+  it("splits long paragraphs into smaller preview blocks for tighter pagination", async () => {
+    const root = await mkdtemp(path.join(os.tmpdir(), "book-preview-paragraph-"))
+    const longParagraph = Array.from(
+      { length: 18 },
+      (_, index) =>
+        `Periodo ${index + 1} con contenuto editoriale operativo per verificare che la preview A4 possa riempire lo spazio senza spostare un intero blocco alla pagina successiva.`
+    ).join(" ")
+
+    try {
+      await mkdir(path.join(root, "books/il-metodo-bando/chapters"), { recursive: true })
+      await writeFile(
+        path.join(root, "books/il-metodo-bando/index.md"),
+        "---\ntitle: Il Metodo BANDO\n---\n# Il Metodo BANDO",
+        "utf8"
+      )
+      await writeFile(
+        path.join(root, "books/il-metodo-bando/chapters/paragrafo-lungo.md"),
+        [
+          "---",
+          "title: Paragrafo lungo",
+          "outline_section: 1",
+          "---",
+          "# Paragrafo lungo",
+          "",
+          longParagraph
+        ].join("\n"),
+        "utf8"
+      )
+
+      const data = await buildBookStudioData(new FileWikiStore(root), "il-metodo-bando")
+      const paragraphBlocks = data.chapters[0].blocks.filter((block) => block.type === "paragraph")
+
+      expect(paragraphBlocks.length).toBeGreaterThan(1)
+      expect(paragraphBlocks.slice(1).every((block) => block.continued)).toBe(true)
+      expect(paragraphBlocks.map((block) => block.text).join(" ")).toBe(longParagraph)
+    } finally {
+      await rm(root, { recursive: true, force: true })
+    }
+  })
+
   it("loads nested specialist module books", async () => {
     const root = await mkdtemp(path.join(os.tmpdir(), "book-preview-module-"))
 
@@ -296,7 +336,10 @@ describe("book preview assets", () => {
       expect(data.chapters[0].sectionType).toBe("front_matter")
       expect(data.chapters[0].title).toBe("Servizi digitali inclusi")
       expect(data.chapters[2].title).toBe("Anatomia del bando")
-      expect(data.chapters.some((chapter) => chapter.outlineSection === "25")).toBe(false)
+      const ricettarioChapter = data.chapters.find((chapter) => chapter.outlineSection === "25")
+
+      expect(ricettarioChapter?.bookScope).toBe("ricettario")
+      expect(index?.blocks.some((block) => block.type === "index-chapter" && block.text === "Aggiornare il metodo dopo il libro")).toBe(false)
       const indexPart = index?.blocks.find((block) => block.type === "index-part" && block.number === "Parte I")
       const chapterLine = index?.blocks.find((block) => block.type === "index-chapter" && block.text === "Anatomia del bando")
       const row = index?.blocks.find((block) => block.type === "index-row" && block.text === "Lettura del bando")

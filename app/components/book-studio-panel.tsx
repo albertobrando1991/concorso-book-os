@@ -13,6 +13,7 @@ import {
 } from "lucide-react"
 import type { ManualWriterMode, RevisionDiffSummary } from "@/src/server/agents/manual-writer-agent"
 import type { BookStudioChapter, BookStudioData, MarkdownBlock } from "@/src/server/book/book-preview"
+import { ricettarioModuleLabel } from "@/src/server/book/book-studio-labels"
 import type { WriterProvider } from "@/src/server/config"
 
 interface BookStudioPanelProps {
@@ -50,8 +51,9 @@ const FIRST_PAGE_HEADER_COST = 150
 const RUNNING_HEADER_COST = 34
 const FRONT_MATTER_FIRST_PAGE_COST = 96
 const FRONT_MATTER_RUNNING_PAGE_COST = 66
-const FRONT_MATTER_PAGE_BUDGET = 835
-const PAGE_MEASURE_GUARD_SPACE = 48
+const MAIN_PAGE_FALLBACK_BUDGET = 1000
+const FRONT_MATTER_PAGE_BUDGET = 940
+const PAGE_MEASURE_GUARD_SPACE = 8
 
 const modeOptions: Array<{ value: ManualWriterMode; label: string }> = [
   { value: "integrate", label: "Integra richiesta" },
@@ -99,8 +101,19 @@ export function BookStudioPanel({
     () => data.chapters.find((chapter) => chapter.path === selectedPath) || data.chapters[0],
     [data.chapters, selectedPath]
   )
+  const mainChapters = useMemo(
+    () => data.chapters.filter((chapter) => chapter.bookScope === "main"),
+    [data.chapters]
+  )
+  const ricettarioChapters = useMemo(
+    () => data.chapters.filter((chapter) => chapter.bookScope === "ricettario"),
+    [data.chapters]
+  )
   const publishableChapters = useMemo(
-    () => data.chapters.filter((chapter) => chapter.contentState !== "structure"),
+    () =>
+      data.chapters.filter(
+        (chapter) => chapter.contentState !== "structure" && chapter.bookScope === "main"
+      ),
     [data.chapters]
   )
   const previewChapters = useMemo(
@@ -352,6 +365,8 @@ export function BookStudioPanel({
 
       <div className="studioStats" aria-label="Stato libro">
         <Stat label="Sezioni" value={data.summary.chapters} />
+        <Stat label="Volume" value={data.summary.mainChapters} />
+        <Stat label="Ricettario" value={data.summary.ricettarioModules} />
         <Stat label="Scritti" value={data.summary.written} />
         <Stat label="Bozze" value={data.summary.draft} />
         <Stat label="Solo struttura" value={data.summary.structure} />
@@ -373,23 +388,34 @@ export function BookStudioPanel({
           </div>
 
           <div className="chapterList">
-            {data.chapters.map((chapter) => (
-              <button
-                className={chapter.path === selectedChapter?.path ? "chapterButton active" : "chapterButton"}
+            <p className="tocSectionLabel">Volume principale</p>
+            {mainChapters.map((chapter) => (
+              <ChapterTocButton
+                chapter={chapter}
+                isActive={chapter.path === selectedChapter?.path}
                 key={chapter.path}
-                onClick={() => {
+                onSelect={() => {
                   setSelectedPath(chapter.path)
                   setViewMode("chapter")
                 }}
-              >
-                <span>{sectionLabel(chapter)}</span>
-                <small>
-                  {chapterStateLabel(chapter.contentState)}
-                  {" | "}
-                  {chapter.wordCount} parole
-                </small>
-              </button>
+              />
             ))}
+            {ricettarioChapters.length > 0 ? (
+              <>
+                <p className="tocSectionLabel tocSectionLabelRicettario">Ricettario digitale</p>
+                {ricettarioChapters.map((chapter) => (
+                  <ChapterTocButton
+                    chapter={chapter}
+                    isActive={chapter.path === selectedChapter?.path}
+                    key={chapter.path}
+                    onSelect={() => {
+                      setSelectedPath(chapter.path)
+                      setViewMode("chapter")
+                    }}
+                  />
+                ))}
+              </>
+            ) : null}
           </div>
         </aside>
 
@@ -638,8 +664,35 @@ function revisionResultMessage(result: WriterResult) {
   return `REVISIONE applicata: ${diff.additions} righe aggiunte, ${diff.deletions} righe rimosse. Anteprima ricaricata.`
 }
 
+function ChapterTocButton({
+  chapter,
+  isActive,
+  onSelect
+}: {
+  chapter: BookStudioChapter
+  isActive: boolean
+  onSelect: () => void
+}) {
+  return (
+    <button className={isActive ? "chapterButton active" : "chapterButton"} onClick={onSelect}>
+      <span>{sectionLabel(chapter)}</span>
+      <small>
+        {chapterStateLabel(chapter.contentState)}
+        {" | "}
+        {chapter.wordCount} parole
+      </small>
+    </button>
+  )
+}
+
 function sectionLabel(chapter: BookStudioChapter) {
   if (chapter.sectionType === "front_matter") return chapter.title
+
+  if (chapter.bookScope === "ricettario") {
+    const moduleLabel = ricettarioModuleLabel(chapter.outlineSection)
+
+    return moduleLabel ? `${moduleLabel}. ${chapter.title}` : chapter.title
+  }
 
   return chapter.outlineSection ? `${chapter.outlineSection}. ${chapter.title}` : chapter.title
 }
@@ -935,6 +988,19 @@ function PreviewBlock({ block }: { block: MarkdownBlock }) {
 }
 
 function BandoPhaseBar({ chapter }: { chapter: BookStudioChapter }) {
+  if (chapter.bookScope === "ricettario") {
+    const moduleLabel = ricettarioModuleLabel(chapter.outlineSection)
+
+    return (
+      <div className="bandoPhaseBar ricettarioScopeBar" aria-label="Modulo ricettario digitale">
+        <span className="active">
+          <strong>{moduleLabel || "R"}</strong>
+          <small>Ricettario digitale</small>
+        </span>
+      </div>
+    )
+  }
+
   const phases = [
     { letter: "B", label: "Bando" },
     { letter: "A", label: "Aree" },
@@ -1169,7 +1235,7 @@ function paginateBlocks(chapter: BookStudioChapter): Array<Omit<PreviewPage, "pa
     const nextBlock = chapter.blocks[index + 1]
     const cost = estimateBlockCost(block)
     const keepWithNextCost = shouldKeepWithNext(block, nextBlock) ? estimateBlockCost(nextBlock) : 0
-    const budget = chapter.sectionType === "front_matter" ? FRONT_MATTER_PAGE_BUDGET : 920
+    const budget = chapter.sectionType === "front_matter" ? FRONT_MATTER_PAGE_BUDGET : MAIN_PAGE_FALLBACK_BUDGET
 
     if (blocks.length > 0 && used + cost + keepWithNextCost > budget) {
       const lastBlock = blocks.at(-1)
@@ -1227,19 +1293,19 @@ function estimateBlockCost(block: MarkdownBlock) {
   if (block.type === "heading") {
     const level = block.level || 3
 
-    if (level <= 2) return 52
-    if (level === 3) return 40
+    if (level <= 2) return 42
+    if (level === 3) return 32
 
-    return 32
+    return 26
   }
 
   if (block.type === "paragraph") {
     const words = wordCount(block.text || "")
-    return Math.ceil(words / 13) * 23 + 8
+    return Math.ceil(words / 17) * 18 + 5
   }
 
   if (block.type === "list") {
-    return (block.items || []).reduce((total, item) => total + Math.ceil(wordCount(item) / 12) * 19 + 6, 18)
+    return (block.items || []).reduce((total, item) => total + Math.ceil(wordCount(item) / 16) * 17 + 4, 12)
   }
 
   if (block.type === "index-entry") {
@@ -1262,7 +1328,7 @@ function estimateBlockCost(block: MarkdownBlock) {
   if (block.type === "table") {
     const headerCost = block.continued ? 0 : 24
 
-    return headerCost + (block.rows?.length || 0) * 24 + 12
+    return headerCost + (block.rows?.length || 0) * 22 + 8
   }
 
   if (block.type === "image") {
@@ -1270,7 +1336,7 @@ function estimateBlockCost(block: MarkdownBlock) {
   }
 
   if (block.type === "callout") {
-    return Math.ceil(wordCount(`${block.title || ""} ${block.text || ""}`) / 12) * 21 + 34
+    return Math.ceil(wordCount(`${block.title || ""} ${block.text || ""}`) / 16) * 18 + 28
   }
 
   if (block.type === "code") {

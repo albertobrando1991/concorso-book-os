@@ -22,12 +22,12 @@
   --book-gold: #d4af37;
   --book-offwhite: #f8fafc;
   --book-page-bg: #fffdf8;
-  --book-page-width: 168mm;
-  --book-page-height: 240mm;
-  --book-padding-top: clamp(24px, 7.6%, 48px);
-  --book-padding-right: clamp(22px, 7.3%, 46px);
-  --book-padding-bottom: clamp(30px, 8.8%, 56px);
-  --book-padding-left: clamp(24px, 7.8%, 50px);
+  --book-page-width: 210mm;
+  --book-page-height: 297mm;
+  --book-padding-top: clamp(22px, 6.2%, 46px);
+  --book-padding-right: clamp(20px, 6.3%, 48px);
+  --book-padding-bottom: clamp(24px, 6.2%, 46px);
+  --book-padding-left: clamp(22px, 6.6%, 50px);
 }
 
 * {
@@ -376,6 +376,30 @@ h1 {
   gap: 6px;
 }
 
+.tocSectionLabel {
+  margin: 10px 0 4px;
+  color: var(--muted);
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.tocSectionLabel:first-child {
+  margin-top: 0;
+}
+
+.tocSectionLabelRicettario {
+  margin-top: 14px;
+  padding-top: 10px;
+  border-top: 1px solid var(--line);
+  color: #5b6f8d;
+}
+
+.ricettarioScopeBar {
+  grid-template-columns: minmax(0, 1fr);
+}
+
 .chapterButton {
   display: grid;
   gap: 5px;
@@ -459,7 +483,7 @@ h1 {
 .bookPages {
   display: grid;
   gap: 24px;
-  justify-items: center;
+  justify-items: start;
   overflow-x: auto;
   padding-bottom: 2px;
 }
@@ -477,8 +501,10 @@ h1 {
 .bookPage {
   position: relative;
   box-sizing: border-box;
-  width: min(100%, var(--book-page-width));
-  aspect-ratio: 168 / 240;
+  width: var(--book-page-width);
+  min-width: var(--book-page-width);
+  height: var(--book-page-height);
+  aspect-ratio: auto;
   margin: 0 auto;
   background: var(--book-page-bg);
   border: 1px solid #d8d0bd;
@@ -516,7 +542,7 @@ h1 {
   grid-template-columns: 42px minmax(0, 1fr);
   gap: 12px;
   align-items: start;
-  margin-bottom: 14px;
+  margin-bottom: 11px;
 }
 
 .chapterNumber {
@@ -535,10 +561,10 @@ h1 {
 .chapterPreviewHeader h2 {
   color: var(--book-navy);
   font-family: var(--book-display);
-  font-size: clamp(24px, 4.6vw, 32px);
+  font-size: clamp(24px, 4vw, 31px);
   font-weight: 700;
   line-height: 1.05;
-  margin: 0 0 10px;
+  margin: 0 0 8px;
 }
 
 .chapterPreviewHeader p {
@@ -552,7 +578,7 @@ h1 {
   justify-content: space-between;
   gap: 18px;
   border-bottom: 1px solid rgba(212, 175, 55, 0.72);
-  margin-bottom: 13px;
+  margin-bottom: 10px;
   padding-bottom: 5px;
   color: var(--book-navy);
   font-family: var(--book-body);
@@ -566,8 +592,8 @@ h1 {
   max-width: 100%;
   margin: 0 auto;
   font-family: var(--book-body);
-  font-size: 12.4px;
-  line-height: 1.38;
+  font-size: 12.2px;
+  line-height: 1.34;
 }
 
 .previewBlocks h3,
@@ -581,7 +607,7 @@ h1 {
 }
 
 .previewBlocks h3 {
-  margin: 15px 0 5px;
+  margin: 12px 0 4px;
   color: var(--book-bordeaux);
   font-family: var(--book-display);
   font-size: 18px;
@@ -590,7 +616,7 @@ h1 {
 }
 
 .previewBlocks h4 {
-  margin: 11px 0 4px;
+  margin: 8px 0 3px;
   color: var(--book-navy);
   font-family: var(--book-body);
   font-size: 12.7px;
@@ -599,7 +625,7 @@ h1 {
 }
 
 .previewBlocks h5 {
-  margin: 9px 0 4px;
+  margin: 7px 0 3px;
   color: var(--book-bordeaux);
   font-family: var(--book-body);
   font-size: 11.5px;
@@ -608,7 +634,7 @@ h1 {
 }
 
 .previewBlocks p {
-  margin: 0 0 6px;
+  margin: 0 0 4px;
   hyphens: auto;
   orphans: 3;
   text-align: justify;
@@ -618,13 +644,13 @@ h1 {
 
 .previewBlocks ul,
 .previewBlocks ol {
-  margin: 0 0 8px 16px;
+  margin: 0 0 5px 14px;
   padding: 0;
 }
 
 .previewBlocks li {
   break-inside: avoid;
-  margin-bottom: 3px;
+  margin-bottom: 2px;
   hyphens: auto;
   orphans: 2;
   text-align: justify;
@@ -636,7 +662,7 @@ h1 {
   break-inside: avoid;
   page-break-inside: avoid;
   overflow: visible;
-  margin: 6px 0 8px;
+  margin: 4px 0 6px;
   max-width: 100%;
 }
 
@@ -648,8 +674,8 @@ h1 {
   width: 100%;
   border-collapse: collapse;
   font-family: var(--book-body);
-  font-size: 9.8px;
-  line-height: 1.17;
+  font-size: 9.6px;
+  line-height: 1.14;
   table-layout: fixed;
 }
 
@@ -666,7 +692,7 @@ h1 {
 .previewTable th,
 .previewTable td {
   border: 1px solid #ddd5c3;
-  padding: 3.5px 4px;
+  padding: 3px 3.5px;
   hyphens: auto;
   overflow-wrap: anywhere;
   text-align: left;
@@ -686,7 +712,7 @@ h1 {
 .previewBlocks figure {
   break-inside: avoid;
   page-break-inside: avoid;
-  margin: 14px auto 16px;
+  margin: 10px auto 11px;
   max-width: 100%;
   text-align: center;
   width: 100%;
@@ -696,7 +722,7 @@ h1 {
   display: block;
   width: auto;
   max-width: min(100%, 420px);
-  max-height: 250px;
+  max-height: 238px;
   height: auto;
   margin: 0 auto;
   object-fit: contain;
@@ -707,7 +733,7 @@ h1 {
 
 .previewBlocks figcaption {
   max-width: min(100%, 420px);
-  margin: 7px auto 0;
+  margin: 5px auto 0;
   color: var(--muted);
   font-family: var(--book-body);
   font-size: 10.5px;
@@ -726,7 +752,7 @@ h1 {
 }
 
 @page {
-  size: 168mm 240mm;
+  size: A4;
   margin: 0;
 }
 
@@ -766,7 +792,7 @@ h1 {
     border: 0;
     border-radius: 0;
     box-shadow: none;
-    padding: 17mm 16mm 20mm 18mm;
+    padding: 14mm 13mm 16mm 15mm;
     break-after: page;
     page-break-after: always;
   }
@@ -775,12 +801,18 @@ h1 {
     break-after: auto;
     page-break-after: auto;
   }
+
+  .pageFooter {
+    right: 13mm;
+    bottom: 5mm;
+    left: 15mm;
+  }
 }
 
 .pageFooter {
   position: absolute;
   right: var(--book-padding-right);
-  bottom: clamp(10px, 2.3%, 16px);
+  bottom: clamp(7px, 1.6%, 12px);
   left: var(--book-padding-left);
   display: flex;
   justify-content: space-between;
@@ -835,17 +867,17 @@ h1 {
 
 .previewCallout {
   break-inside: avoid;
-  margin: 10px 0 12px;
+  margin: 7px 0 8px;
   border: 1px solid #ded5c0;
   border-left: 4px solid var(--book-bordeaux);
   background: rgba(248, 250, 252, 0.78);
-  padding: 9px 10px;
+  padding: 7px 9px;
   font-family: var(--book-body);
 }
 
 .previewCallout strong {
   display: block;
-  margin-bottom: 4px;
+  margin-bottom: 3px;
   color: var(--book-bordeaux);
   font-size: 10.5px;
   font-weight: 800;
@@ -856,7 +888,7 @@ h1 {
 .previewCallout p {
   margin: 0;
   font-size: 11.2px;
-  line-height: 1.38;
+  line-height: 1.32;
   text-align: left;
 }
 
@@ -883,7 +915,7 @@ h1 {
 }
 
 .previewCaption {
-  margin: -8px auto 13px;
+  margin: -6px auto 9px;
   max-width: min(100%, 420px);
   color: #5c6471;
   font-family: var(--book-body);
@@ -893,7 +925,7 @@ h1 {
 }
 
 .frontMatterPage {
-  padding: 17mm 15mm 18mm;
+  padding: 15mm 13mm 16mm;
 }
 
 .frontMatterBrand {
@@ -2180,4 +2212,477 @@ meter {
 .booksGridList .bookBlock:hover {
   border-color: #9ebbe0;
   background: #f4f9ff;
+}
+
+/* ── Editorial Reviewer Panel ──────────────────────────────────────────────── */
+
+.editorialReviewerPanel {
+  min-width: 0;
+  border: 1px solid var(--line);
+  border-left: 4px solid var(--book-bordeaux);
+  background: var(--panel);
+  border-radius: 6px;
+  padding: 16px;
+  margin-bottom: 16px;
+}
+
+.editorialReviewerPanel > header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid var(--line);
+  padding-bottom: 10px;
+  margin-bottom: 14px;
+}
+
+.reviewerDescription {
+  margin: 0 0 14px;
+  color: var(--muted);
+  font-size: 13px;
+  line-height: 1.5;
+}
+
+.reviewerControls {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 10px;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  background: #fbfcfd;
+  padding: 14px;
+  margin-bottom: 14px;
+}
+
+.reviewerControls label {
+  display: grid;
+  gap: 6px;
+  color: var(--muted);
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.reviewerControls select,
+.reviewerControls input {
+  width: 100%;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  color: var(--ink);
+  background: #fff;
+  font: inherit;
+  padding: 10px;
+}
+
+.reviewerRunButton {
+  grid-column: 1 / -1;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  min-height: 44px;
+  border: 0;
+  border-radius: 6px;
+  background: var(--book-bordeaux);
+  color: #fff;
+  font-weight: 700;
+  font-size: 14px;
+  padding: 0 18px;
+  cursor: pointer;
+  transition: background 0.15s ease;
+}
+
+.reviewerRunButton:hover:not(:disabled) {
+  background: #5e1c26;
+}
+
+.reviewerRunButton:disabled {
+  cursor: not-allowed;
+  opacity: 0.65;
+}
+
+.reviewerProgressBar {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  border: 1px solid #d8caa7;
+  border-left: 4px solid var(--book-gold);
+  border-radius: 6px;
+  background: #fffaf0;
+  color: #665016;
+  margin-bottom: 14px;
+  padding: 10px 12px;
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.reviewerError {
+  border-left: 3px solid var(--red);
+  background: #fff5f5;
+  color: var(--red);
+  padding: 10px;
+  margin-bottom: 14px;
+  border-radius: 4px;
+}
+
+/* ── Publishability card ───────────────────────────────────────────────────── */
+
+.publishabilityCard {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  border-radius: 8px;
+  padding: 16px 18px;
+  margin-bottom: 14px;
+}
+
+.publishabilityCard.judgment-minor {
+  border: 1px solid #b8e2ca;
+  background: linear-gradient(135deg, #f1fbf5 0%, #e8f9ef 100%);
+}
+
+.publishabilityCard.judgment-medium {
+  border: 1px solid #f1d8aa;
+  background: linear-gradient(135deg, #fffaf0 0%, #fff4de 100%);
+}
+
+.publishabilityCard.judgment-not {
+  border: 1px solid #efc1c1;
+  background: linear-gradient(135deg, #fff5f5 0%, #ffe8e8 100%);
+}
+
+.publishabilityIcon {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 52px;
+  height: 52px;
+  border-radius: 50%;
+}
+
+.judgment-minor .publishabilityIcon {
+  background: #d7f3e3;
+  color: var(--green);
+}
+
+.judgment-medium .publishabilityIcon {
+  background: #fce8c3;
+  color: #8a5a00;
+}
+
+.judgment-not .publishabilityIcon {
+  background: #f8d4d4;
+  color: var(--red);
+}
+
+.publishabilityContent strong {
+  display: block;
+  font-size: 17px;
+  line-height: 1.25;
+  margin-bottom: 4px;
+}
+
+.judgment-minor .publishabilityContent strong {
+  color: var(--green);
+}
+
+.judgment-medium .publishabilityContent strong {
+  color: #8a5a00;
+}
+
+.judgment-not .publishabilityContent strong {
+  color: var(--red);
+}
+
+.publishabilityContent span {
+  display: block;
+  color: var(--muted);
+  font-size: 12px;
+}
+
+/* ── Review summary ────────────────────────────────────────────────────────── */
+
+.reviewSummaryBox {
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  background: #fff;
+  padding: 14px;
+  margin-bottom: 14px;
+}
+
+.reviewSummaryBox h3 {
+  margin: 0 0 8px;
+  font-size: 15px;
+  color: var(--ink);
+}
+
+.reviewSummaryBox p {
+  margin: 0;
+  color: #334155;
+  font-size: 13px;
+  line-height: 1.55;
+}
+
+/* ── Error table ───────────────────────────────────────────────────────────── */
+
+.reviewErrorTableWrap {
+  margin-bottom: 14px;
+}
+
+.reviewErrorTableWrap h3 {
+  margin: 0 0 10px;
+  font-size: 15px;
+}
+
+.reviewErrorTableScroll {
+  max-height: 420px;
+  overflow: auto;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+}
+
+.reviewErrorTable {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 12px;
+}
+
+.reviewErrorTable th,
+.reviewErrorTable td {
+  text-align: left;
+  border-bottom: 1px solid var(--line);
+  padding: 8px 8px;
+  vertical-align: top;
+}
+
+.reviewErrorTable th {
+  position: sticky;
+  top: 0;
+  background: var(--nav);
+  color: #f7fafc;
+  font-weight: 800;
+  font-size: 11px;
+  text-transform: uppercase;
+  z-index: 1;
+}
+
+.reviewErrorTable tr.severity-grave {
+  background: #fff5f5;
+}
+
+.reviewErrorTable tr.severity-media {
+  background: #fffaf0;
+}
+
+.reviewErrorTable tr.severity-lieve {
+  background: #f8fafc;
+}
+
+.severityBadge {
+  display: inline-block;
+  border-radius: 999px;
+  padding: 3px 8px;
+  font-size: 10px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.severityBadge.grave {
+  background: #f8d4d4;
+  color: var(--red);
+}
+
+.severityBadge.media {
+  background: #fce8c3;
+  color: #8a5a00;
+}
+
+.severityBadge.lieve {
+  background: #e0eaf5;
+  color: var(--blue);
+}
+
+/* ── Review sections ───────────────────────────────────────────────────────── */
+
+.reviewSection {
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  margin-bottom: 10px;
+  background: #fff;
+}
+
+.reviewSection summary {
+  cursor: pointer;
+  padding: 10px 14px;
+  border-bottom: 1px solid var(--line);
+}
+
+.reviewSection summary h3 {
+  display: inline;
+  margin: 0;
+  font-size: 14px;
+}
+
+.reviewSection > div,
+.reviewSection > ol,
+.reviewSection > ul,
+.reviewSection > p,
+.reviewSection > pre {
+  padding: 12px 14px;
+}
+
+.chapterObservationsList {
+  display: grid;
+  gap: 10px;
+  padding: 12px 14px;
+}
+
+.chapterObservation {
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  padding: 10px;
+}
+
+.chapterObservation strong {
+  display: block;
+  font-size: 13px;
+  margin-bottom: 6px;
+}
+
+.observationGrid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+}
+
+.observationStrength,
+.observationIssue {
+  display: flex;
+  align-items: flex-start;
+  gap: 6px;
+  font-size: 12px;
+  line-height: 1.45;
+  color: #334155;
+}
+
+.observationStrength svg {
+  flex: 0 0 auto;
+  color: var(--green);
+  margin-top: 2px;
+}
+
+.observationIssue svg {
+  flex: 0 0 auto;
+  color: var(--amber);
+  margin-top: 2px;
+}
+
+.reviewPriorityList {
+  margin: 0;
+  padding: 12px 14px 12px 32px;
+  font-size: 13px;
+  line-height: 1.55;
+  color: #334155;
+}
+
+.reviewPriorityList li {
+  margin-bottom: 4px;
+}
+
+.reviewBulletList {
+  margin: 0;
+  padding: 12px 14px 12px 32px;
+  font-size: 13px;
+  line-height: 1.55;
+  color: #334155;
+}
+
+.reviewBulletList li {
+  margin-bottom: 4px;
+}
+
+.reviewBulletList.verification li::marker {
+  color: var(--amber);
+}
+
+.reviewBulletList.suggestions li::marker {
+  color: var(--blue);
+}
+
+.reviewReasonText {
+  margin: 0;
+  font-size: 13px;
+  line-height: 1.55;
+  color: #334155;
+}
+
+.reviewLimitations {
+  border: 1px solid var(--line);
+  border-left: 3px solid var(--muted);
+  border-radius: 6px;
+  background: #f8fafc;
+  padding: 10px 14px;
+  margin-bottom: 10px;
+  font-size: 12px;
+  color: var(--muted);
+}
+
+.reviewLimitations strong {
+  display: block;
+  font-size: 12px;
+  margin-bottom: 4px;
+  color: var(--ink);
+}
+
+.reviewLimitations ul {
+  margin: 0;
+  padding-left: 18px;
+}
+
+.reviewLimitations li {
+  margin-bottom: 3px;
+}
+
+.reviewerWarnings {
+  display: grid;
+  gap: 4px;
+  margin-bottom: 10px;
+}
+
+.reviewerWarnings span {
+  border-left: 3px solid var(--amber);
+  background: #fffaf0;
+  color: #8a5a00;
+  padding: 8px 10px;
+  font-size: 12px;
+  border-radius: 4px;
+}
+
+.reviewRawReport {
+  max-height: 400px;
+  overflow: auto;
+  white-space: pre-wrap;
+  background: #f1f4f7;
+  border-radius: 4px;
+  padding: 12px;
+  font-size: 12px;
+  margin: 0;
+}
+
+.reviewerResultContainer {
+  margin-top: 14px;
+}
+
+@media (max-width: 720px) {
+  .reviewerControls {
+    grid-template-columns: 1fr;
+  }
+
+  .observationGrid {
+    grid-template-columns: 1fr;
+  }
+
+  .editorialReviewerPanel > header {
+    align-items: stretch;
+    flex-direction: column;
+  }
 }

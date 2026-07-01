@@ -162,3 +162,20 @@ Regole:
 - Richiedere review umana per interpretazioni normative puntuali.
 - Per il libro `Il Metodo BANDO`, l'outline base e' Parte I Orientarsi, Parte II Materie comuni, Parte III Allenamento, Parte IV Sistema adattabile, Appendici/tool.
 - Ogni strumento cartaceo deve essere completo anche senza sito; QR code e digitale devono aggiungere velocita, tracking o aggiornamenti.
+
+## Revisore Editoriale Totale
+Il Revisore Editoriale Totale e' la skill globale per la revisione finale pre-pubblicazione di libri, moduli e manuali.
+
+Regole:
+- La skill e' in `.agents/skills/revisore-editoriale-totale/SKILL.md` con riferimenti in `references/`.
+- E' globale e condivisa da tutti i provider: `codex`, `claude`, `kimi`, `openai`, `hermes`, `local`.
+- Si attiva quando un modulo o libro e' completato e deve essere revisionato prima della pubblicazione.
+- Copre 30 controlli su 4 livelli: struttura (macro), capitolo (meso), frase/paragrafo (micro), superficie.
+- Usa la checklist `references/checklist-30-punti.md` come criterio oggettivo.
+- Usa il template `references/template-report.md` come formato fisso del report.
+- L'agent server e' `src/server/agents/editorial-reviewer-agent.ts`.
+- L'endpoint API e' `POST /api/editorial-reviewer/run`.
+- Il pannello dashboard e' `app/components/editorial-reviewer-panel.tsx`.
+- Il risultato include: sintesi editoriale, tabella errori per gravita, osservazioni per capitolo, giudizio di pubblicabilita motivato, contenuto da verificare, suggerimenti facoltativi, priorita degli interventi e limiti della revisione.
+- Il revisore non riscrive il testo: segnala, spiega il motivo, propone una correzione concreta. L'autore decide.
+- I report di revisione sono salvati in `wiki/reviews/` e loggati in `log.md`.

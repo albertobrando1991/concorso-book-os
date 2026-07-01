@@ -26,6 +26,7 @@ import type { DashboardSource } from "@/src/server/wiki/types"
 import { buildBookStudioData } from "@/src/server/book/book-preview"
 import { BookSelector } from "./components/book-selector"
 import { BookCreatorPanel } from "./components/book-creator-panel"
+import { EditorialReviewerPanel } from "./components/editorial-reviewer-panel"
 
 export const dynamic = "force-dynamic"
 
@@ -120,6 +121,11 @@ export default async function Home({ searchParams }: HomeProps) {
           writerProvider={writerConfig.provider}
           writerModel={writerConfig.writerModel}
           writerReasoningEffort={writerConfig.writerReasoningEffort}
+        />
+
+        <EditorialReviewerPanel
+          bookId={requestedBookId}
+          chapters={bookStudio.chapters.map((ch) => ({ path: ch.path, title: ch.title }))}
         />
 
         <BookCreatorPanel />

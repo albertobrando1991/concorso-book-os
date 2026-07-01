@@ -3,6 +3,8 @@ import path from "node:path"
 import { parseFrontmatter } from "../wiki/frontmatter"
 import { FileWikiStore } from "../wiki/file-store"
 
+export { ricettarioModuleLabel } from "./book-studio-labels"
+
 export type ChapterContentState = "written" | "draft" | "structure"
 
 export interface MarkdownBlock {
@@ -34,10 +36,13 @@ export interface MarkdownBlock {
   title?: string
 }
 
+export type BookStudioScope = "main" | "ricettario"
+
 export interface BookStudioChapter {
   path: string
   title: string
   outlineSection: string
+  bookScope: BookStudioScope
   sectionType: "front_matter" | "chapter"
   frontMatterLayout: string
   indexDetail: string
@@ -64,6 +69,8 @@ export interface BookStudioData {
   updatedAt: string
   summary: {
     chapters: number
+    mainChapters: number
+    ricettarioModules: number
     written: number
     draft: number
     structure: number
@@ -99,9 +106,13 @@ const STAFF_ONLY_HEADINGS = [
 const IMAGE_EXTENSIONS = new Set([".png", ".jpg", ".jpeg", ".webp", ".gif", ".svg"])
 const BOOK_ASSET_PATH = /^books\/[a-z0-9-]+\/assets\//
 const MAX_PREVIEW_BLOCKS = 520
-const INDEX_PAGE_BUDGET = 920
+const INDEX_PAGE_BUDGET = 1000
 const INDEX_FIRST_PAGE_HEADER_COST = 150
 const INDEX_RUNNING_HEADER_COST = 34
+const DEFAULT_MAX_TABLE_ROWS_PER_PREVIEW_BLOCK = 5
+const VERBOSE_TABLE_ROWS_PER_PREVIEW_BLOCK = 1
+const MAX_LIST_ITEMS_PER_PREVIEW_BLOCK = 3
+const MAX_PARAGRAPH_WORDS_PER_PREVIEW_BLOCK = 86
 
 export async function buildBookStudioData(store: FileWikiStore, bookId = "il-metodo-bando"): Promise<BookStudioData> {
   const bookPath = `books/${bookId}/index.md`
@@ -121,13 +132,13 @@ export async function buildBookStudioData(store: FileWikiStore, bookId = "il-met
       ? "front_matter"
       : "chapter"
     const outlineSection = String(parsed.data.outline_section || "")
-
-    if (!shouldIncludeInBookStudio(bookId, sectionType, outlineSection)) continue
+    const bookScope = resolveBookStudioScope(bookId, sectionType, outlineSection)
 
     chapters.push({
       path: file,
       title: String(parsed.data.title || titleFromPath(file)),
       outlineSection,
+      bookScope,
       sectionType,
       frontMatterLayout: String(parsed.data.front_matter_layout || ""),
       indexDetail: String(parsed.data.index_detail || ""),
@@ -152,6 +163,8 @@ export async function buildBookStudioData(store: FileWikiStore, bookId = "il-met
     updatedAt: new Date().toISOString(),
     summary: {
       chapters: chapters.length,
+      mainChapters: chapters.filter((chapter) => chapter.bookScope === "main").length,
+      ricettarioModules: chapters.filter((chapter) => chapter.bookScope === "ricettario").length,
       written: chapters.filter((chapter) => chapter.contentState === "written").length,
       draft: chapters.filter((chapter) => chapter.contentState === "draft").length,
       structure: chapters.filter((chapter) => chapter.contentState === "structure").length,
@@ -165,7 +178,9 @@ export async function buildBookStudioData(store: FileWikiStore, bookId = "il-met
 
 function hydrateGeneratedFrontMatter(sections: BookStudioChapter[], bookId: string) {
   const writtenChapters = sections.filter((section) =>
-    section.sectionType === "chapter" && section.contentState !== "structure"
+    section.sectionType === "chapter" &&
+    section.bookScope === "main" &&
+    section.contentState !== "structure"
   )
 
   for (const section of sections) {
@@ -280,19 +295,19 @@ function estimatePreviewBlockCost(block: MarkdownBlock) {
   if (block.type === "heading") {
     const level = block.level || 3
 
-    if (level <= 2) return 52
-    if (level === 3) return 40
+    if (level <= 2) return 42
+    if (level === 3) return 32
 
-    return 32
+    return 26
   }
 
-  if (block.type === "paragraph") return Math.ceil(countWords(block.text || "") / 13) * 23 + 8
+  if (block.type === "paragraph") return Math.ceil(countWords(block.text || "") / 17) * 18 + 5
   if (block.type === "list") {
-    return (block.items || []).reduce((total, item) => total + Math.ceil(countWords(item) / 12) * 19 + 6, 18)
+    return (block.items || []).reduce((total, item) => total + Math.ceil(countWords(item) / 16) * 17 + 4, 12)
   }
   if (block.type === "table") return estimateTableBlockCost(block)
   if (block.type === "image") return 315
-  if (block.type === "callout") return Math.ceil(countWords(`${block.title || ""} ${block.text || ""}`) / 12) * 21 + 34
+  if (block.type === "callout") return Math.ceil(countWords(`${block.title || ""} ${block.text || ""}`) / 16) * 18 + 28
   if (block.type === "code") return (block.text || "").split("\n").length * 18 + 24
 
   return 36
@@ -752,31 +767,42 @@ function markdownToBlocks(markdown: string, sourcePath: string): MarkdownBlock[]
 
 function splitOversizedBlocks(blocks: MarkdownBlock[]) {
   const next: MarkdownBlock[] = []
-  const maxTableRows = 7
-  const maxListItems = 3
 
   for (const block of blocks) {
-    if (block.type === "table" && (block.rows?.length || 0) > maxTableRows) {
-      const rows = block.rows || []
-
-      for (let index = 0; index < rows.length; index += maxTableRows) {
+    if (block.type === "paragraph" && countWords(block.text || "") > MAX_PARAGRAPH_WORDS_PER_PREVIEW_BLOCK) {
+      splitTextIntoPreviewChunks(block.text || "", MAX_PARAGRAPH_WORDS_PER_PREVIEW_BLOCK).forEach((text, index) => {
         next.push({
           ...block,
           continued: index > 0,
-          rows: rows.slice(index, index + maxTableRows)
+          text
+        })
+      })
+      continue
+    }
+
+    if (block.type === "table" && (block.rows?.length || 0) > DEFAULT_MAX_TABLE_ROWS_PER_PREVIEW_BLOCK) {
+      const rows = block.rows || []
+      const rowsPerBlock = tableRowsPerPreviewBlock(block)
+
+      for (let index = 0; index < rows.length; index += rowsPerBlock) {
+        next.push({
+          ...block,
+          continued: index > 0,
+          rows: rows.slice(index, index + rowsPerBlock)
         })
       }
       continue
     }
 
-    if (block.type === "list" && (block.items?.length || 0) > maxListItems) {
+    if (block.type === "list" && (block.items?.length || 0) > MAX_LIST_ITEMS_PER_PREVIEW_BLOCK) {
       const items = block.items || []
       const start = block.start || 1
 
-      for (let index = 0; index < items.length; index += maxListItems) {
+      for (let index = 0; index < items.length; index += MAX_LIST_ITEMS_PER_PREVIEW_BLOCK) {
         next.push({
           ...block,
-          items: items.slice(index, index + maxListItems),
+          continued: index > 0,
+          items: items.slice(index, index + MAX_LIST_ITEMS_PER_PREVIEW_BLOCK),
           start: block.ordered ? start + index : undefined
         })
       }
@@ -789,11 +815,47 @@ function splitOversizedBlocks(blocks: MarkdownBlock[]) {
   return next
 }
 
+function tableRowsPerPreviewBlock(block: MarkdownBlock) {
+  const cells = (block.rows || []).flat().filter(Boolean)
+  const averageCellLength = cells.reduce((total, cell) => total + cell.length, 0) / Math.max(1, cells.length)
+  const maxCellLength = cells.reduce((max, cell) => Math.max(max, cell.length), 0)
+
+  if (averageCellLength >= 24 || maxCellLength >= 80) return VERBOSE_TABLE_ROWS_PER_PREVIEW_BLOCK
+
+  return DEFAULT_MAX_TABLE_ROWS_PER_PREVIEW_BLOCK
+}
+
+function splitTextIntoPreviewChunks(text: string, targetWords: number) {
+  const words = text.split(/\s+/).filter(Boolean)
+
+  if (words.length <= targetWords) return [text]
+
+  const chunks: string[] = []
+  let current: string[] = []
+  const hardLimit = Math.ceil(targetWords * 1.24)
+
+  for (const word of words) {
+    current.push(word)
+
+    const normalized = word.replace(/[)"'\]]+$/, "")
+    const endsSentence = /[.!?;:]$/.test(normalized)
+
+    if ((current.length >= targetWords && endsSentence) || current.length >= hardLimit) {
+      chunks.push(current.join(" "))
+      current = []
+    }
+  }
+
+  if (current.length > 0) chunks.push(current.join(" "))
+
+  return chunks
+}
+
 function estimateTableBlockCost(block: MarkdownBlock) {
   const headerCost = block.continued ? 0 : 24
-  const rowCost = 24
+  const rowCost = 22
 
-  return headerCost + (block.rows?.length || 0) * rowCost + 12
+  return headerCost + (block.rows?.length || 0) * rowCost + 8
 }
 
 function parseCallout(lines: string[]): MarkdownBlock {
@@ -1005,16 +1067,16 @@ function compareStudioChapters(left: BookStudioChapter, right: BookStudioChapter
   return outlineRank(left.outlineSection) - outlineRank(right.outlineSection) || left.title.localeCompare(right.title)
 }
 
-function shouldIncludeInBookStudio(
+export function resolveBookStudioScope(
   bookId: string,
   sectionType: BookStudioChapter["sectionType"],
   outlineSection: string
-) {
-  if (bookId !== "il-metodo-bando" || sectionType !== "chapter") return true
+): BookStudioScope {
+  if (bookId !== "il-metodo-bando" || sectionType !== "chapter") return "main"
 
   const number = Number.parseInt(outlineSection, 10)
 
-  return !Number.isFinite(number) || number <= 24
+  return Number.isFinite(number) && number >= 25 ? "ricettario" : "main"
 }
 
 function outlineRank(value: string) {

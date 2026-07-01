@@ -613,3 +613,11 @@
   - mem-20260629152136-1cg7i7s | workflow | instruction=Scrivi il capitolo effettivo , non un riepilogo tecnico.
   - mem-20260629152136-195qkxl | instruction | Usa prima il cervello wiki: struttura madre, nota capitolo, source notes, topic pages, entity pages e design system; scarica altre fonti necessarie per la copertura totale della conoscenza e procedi poi alla scrittura professionale del capitolo completo
   - mem-20260629152136-6r2rui | result | Esito ManualWriterAgent.writeChapter: chapterPath=books/moduli/m-fc01-ministeri/chapters/02-anatomia-bando-ministeriale-ripam.md mode=integrate instruction=Scrivi il capitolo effettivo , non un riepilogo tecnico. -> Manual Writer completato su books/moduli/m-fc01-ministeri/chapters/02-anatomia-bando-ministeriale-ripam.md.
+
+## 2026-07-01T11:04:54.420Z - editorial-reviewer
+
+- conversation_id: conv-20260701110454-1epn91o
+- route: EditorialReviewerAgent.runReview
+- l0: l0/conv-20260701110454-1epn91o.md
+- atoms:
+  - mem-20260701110454-kr0dhf | result | Esito EditorialReviewerAgent.runReview: bookId=moduli/m-tr04-ambiente-protezione-civile scope=full aspect=full -> Revisione editoriale completata su moduli/m-tr04-ambiente-protezione-civile.
