@@ -26,9 +26,9 @@ Prima o poi succede.
 
 Hai studiato. Hai ripassato. Hai preparato risposte, confronti, collegamenti, esempi. Poi arriva una domanda che non entra in nessuna delle forme previste.
 
-Non e' sempre una domanda impossibile.
+Non è sempre una domanda impossibile.
 
-Spesso e' una domanda leggermente spostata:
+Spesso è una domanda leggermente spostata:
 
 - un dettaglio non ripassato;
 - un esempio pratico chiesto all'improvviso;
@@ -38,15 +38,15 @@ Spesso e' una domanda leggermente spostata:
 - un follow-up orale dopo una risposta corretta;
 - una domanda semplice, ma formulata in modo diverso da come l'avevi studiata.
 
-In quel momento il rischio non e' solo non sapere.
+In quel momento il rischio non è solo non sapere.
 
-Il rischio e' inventare.
+Il rischio è inventare.
 
-Inventare una norma. Inventare un articolo. Inventare un effetto. Inventare un collegamento. Parlare molto per coprire il vuoto. Perdere il centro della domanda e trasformare una difficolta gestibile in una risposta fragile.
+Inventare una norma. Inventare un articolo. Inventare un effetto. Inventare un collegamento. Parlare molto per coprire il vuoto. Perdere il centro della domanda e trasformare una difficoltà gestibile in una risposta fragile.
 
 Questo capitolo serve a costruire una regola professionale:
 
-> quando non hai tutto, non fingere tutto. Delimita, usa cio che e' sicuro, rispondi in modo proporzionato.
+> quando non hai tutto, non fingere tutto. Delimita, usa ciò che è sicuro, rispondi in modo proporzionato.
 
 ## Obiettivo del capitolo
 
@@ -63,7 +63,7 @@ Alla fine del capitolo saprai:
 
 Il capitolo completa i tre precedenti: hai imparato a scrivere in modo sintetico, a confrontare istituti simili e a collegare materie. Ora impari a restare affidabile quando la prova non segue il tuo copione.
 
-## Perche le domande impreviste fanno selezione
+## Perché le domande impreviste fanno selezione
 
 La domanda imprevista misura una competenza diversa dalla memoria.
 
@@ -72,8 +72,8 @@ Misura ordine.
 Una commissione, una traccia scritta o un caso pratico possono verificare se sai:
 
 - capire la domanda reale;
-- selezionare cio che serve;
-- non forzare cio che non sai;
+- selezionare ciò che serve;
+- non forzare ciò che non sai;
 - ragionare su principi, funzioni, soggetti e fasi;
 - mantenere un linguaggio amministrativo sobrio;
 - chiudere la risposta senza scappare dal tema.
@@ -83,15 +83,15 @@ Il candidato fragile reagisce in due modi opposti:
 1. si blocca completamente;
 2. parla o scrive troppo.
 
-Il candidato preparato non e' quello che sa tutto. E' quello che sa proteggere la risposta anche quando non possiede ogni dettaglio.
+Il candidato preparato non è quello che sa tutto. È quello che sa proteggere la risposta anche quando non possiede ogni dettaglio.
 
 ## Il punto centrale: non inventare
 
-Nei concorsi pubblici una risposta incerta puo ancora contenere valore.
+Nei concorsi pubblici una risposta incerta può ancora contenere valore.
 
 Una risposta inventata, invece, crea un problema.
 
-La differenza e' netta:
+La differenza è netta:
 
 | Situazione | Che cosa fa il candidato | Effetto |
 |---|---|---|
@@ -99,9 +99,9 @@ La differenza e' netta:
 | Vuoto dichiarato male | Dice solo che non sa e si ferma. | Non produce risposta. |
 | Invenzione | Cita norme, date, effetti o competenze non sicure. | Aumenta il rischio di errore grave. |
 | Divagazione | Parla di un tema vicino ma non richiesto. | Perde pertinenza. |
-| Genericita | Usa frasi valide per tutto. | Non dimostra conoscenza concreta. |
+| genericità | Usa frasi valide per tutto. | Non dimostra conoscenza concreta. |
 
-La regola pratica e':
+La regola pratica è:
 
 > meglio una risposta parziale ma corretta che una risposta ampia ma falsa.
 
@@ -121,7 +121,7 @@ Il bando ti dice dove possono nascere domande impreviste:
 - casi pratici;
 - quesiti situazionali;
 - profilo professionale con competenze trasversali;
-- programmi che uniscono diritto, organizzazione, digitale, contabilita, contratti o comportamento.
+- programmi che uniscono diritto, organizzazione, digitale, contabilità, contratti o comportamento.
 
 Se il bando prevede una prova orale o una prova teorico-pratica, devi allenare anche l'imprevisto. Non basta ripetere domande perfette.
 
@@ -133,7 +133,7 @@ Le aree di rischio sono:
 - procedure con fasi;
 - soggetti e competenze;
 - accesso, trasparenza, privacy e dati;
-- pubblico impiego, doveri e responsabilita;
+- pubblico impiego, doveri e responsabilità;
 - contratti e controlli;
 - digitale, documenti e comunicazioni;
 - casi con cittadini, uffici, tempi e atti.
@@ -149,7 +149,7 @@ Quando non sai tutto, torna ai nuclei:
 - fase;
 - documento;
 - controllo;
-- responsabilita;
+- responsabilità;
 - profilo;
 - effetto pratico.
 
@@ -169,7 +169,7 @@ Il Diario degli errori deve distinguere cinque casi:
 
 ### Output
 
-L'output finale non e' "non avere mai incertezze".
+L'output finale non è "non avere mai incertezze".
 
 Gli output sono:
 
@@ -190,27 +190,27 @@ Chiediti:
 
 > Che cosa mi sta chiedendo davvero?
 
-Non partire dal panico. Non partire dalla materia piu vicina. Non partire dalla frase che hai memorizzato.
+Non partire dal panico. Non partire dalla materia più vicina. Non partire dalla frase che hai memorizzato.
 
 Parti dal perimetro:
 
-- e' una definizione?
-- e' una differenza?
-- e' una funzione?
-- e' un caso?
-- e' un collegamento?
-- e' un esempio?
-- e' una domanda sul profilo?
+- è una definizione?
+- è una differenza?
+- è una funzione?
+- è un caso?
+- è un collegamento?
+- è un esempio?
+- è una domanda sul profilo?
 
-Se capisci il tipo di domanda, hai gia ridotto il disordine.
+Se capisci il tipo di domanda, hai già ridotto il disordine.
 
 ### 2. Nucleo sicuro
 
 Chiediti:
 
-> Qual e' la parte che conosco con certezza?
+> qual è la parte che conosco con certezza?
 
-Puo essere:
+può essere:
 
 - una definizione essenziale;
 - una funzione;
@@ -221,21 +221,21 @@ Puo essere:
 - un esempio semplice;
 - una distinzione minima.
 
-Il nucleo sicuro e' il punto da cui ricostruisci.
+Il nucleo sicuro è il punto da cui ricostruisci.
 
 ### 3. Sviluppo prudente
 
-Sviluppare in modo prudente significa dire qualcosa di utile senza superare cio che sai.
+Sviluppare in modo prudente significa dire qualcosa di utile senza superare ciò che sai.
 
 Puoi usare formule come:
 
-- "Il punto centrale e'...";
+- "Il punto centrale è...";
 - "Restando al perimetro della domanda...";
-- "Il collegamento principale e'...";
-- "Sul piano pratico, questo rileva perche...";
-- "La distinzione essenziale e'...";
+- "Il collegamento principale è...";
+- "Sul piano pratico, questo rileva perché...";
+- "La distinzione essenziale è...";
 - "Nel caso concreto guarderei anzitutto...";
-- "Ai fini della risposta, il profilo da evidenziare e'...".
+- "Ai fini della risposta, il profilo da evidenziare è...".
 
 Non usare formule assolute se non sei sicuro:
 
@@ -243,8 +243,8 @@ Non usare formule assolute se non sei sicuro:
 - "mai";
 - "obbligatoriamente";
 - "in ogni caso";
-- "l'articolo e' sicuramente...";
-- "la conseguenza e' certamente...".
+- "l'articolo è sicuramente...";
+- "la conseguenza è certamente...".
 
 La prudenza non indebolisce la risposta. La rende credibile.
 
@@ -254,11 +254,11 @@ La chiusura serve a non lasciare la risposta sospesa.
 
 Frasi utili:
 
-- "Quindi, ai fini della domanda, il punto e'...";
+- "Quindi, ai fini della domanda, il punto è...";
 - "Per questo il tema va collegato a...";
 - "In sintesi, la risposta si concentra su...";
 - "Questo consente di evitare l'errore di...";
-- "Torno al quesito: l'elemento decisivo e'...".
+- "Torno al quesito: l'elemento decisivo è...".
 
 Se chiudi bene, anche una risposta non perfetta appare ordinata.
 
@@ -274,7 +274,7 @@ Se non sei sicuro del numero, non inventarlo.
 
 Risposta prudente all'orale:
 
-> "Non richiamerei un numero di articolo se non sono sicuro. Il punto che posso inquadrare e' la funzione della regola: serve a...".
+> "Non richiamerei un numero di articolo se non sono sicuro. Il punto che posso inquadrare è la funzione della regola: serve a...".
 
 Nello scritto, evita formule false. Se non ricordi il riferimento puntuale, lavora su definizione, funzione e applicazione, senza costruire una citazione inesistente.
 
@@ -294,13 +294,13 @@ Usa:
 
 Risposta:
 
-> "Il collegamento principale e' il documento o il dato prodotto dall'attivita amministrativa. Il digitale rileva perche incide su tracciabilita, comunicazione e gestione delle informazioni. Torno al tema: non basta conoscere l'istituto in astratto, bisogna capire come diventa attivita dell'ufficio."
+> "Il collegamento principale è il documento o il dato prodotto dall'attività amministrativa. Il digitale rileva perché incide su tracciabilità, comunicazione e gestione delle informazioni. Torno al tema: non basta conoscere l'istituto in astratto, bisogna capire come diventa attività dell'ufficio."
 
 ### 3. Domanda di confronto non preparato
 
 Esempio:
 
-> "Che differenza c'e' tra questi due strumenti?"
+> "Che differenza c'è tra questi due strumenti?"
 
 Non fare due monologhi.
 
@@ -336,7 +336,7 @@ Se un dato manca, puoi dire che la soluzione dipende da quel dato, ma devi comun
 
 ### 5. Follow-up orale
 
-Il follow-up arriva dopo una risposta gia data.
+Il follow-up arriva dopo una risposta già data.
 
 Esempio:
 
@@ -356,9 +356,9 @@ Struttura:
 
 ### 6. Vuoto di memoria
 
-Il vuoto di memoria e' diverso dal non sapere.
+Il vuoto di memoria è diverso dal non sapere.
 
-Nel vuoto di memoria il tema e' stato studiato, ma non esce.
+Nel vuoto di memoria il tema è stato studiato, ma non esce.
 
 Protocollo:
 
@@ -380,7 +380,7 @@ Usa questo protocollo in 20 secondi.
 
 ### Passo 1: pausa breve
 
-Una pausa breve non e' un fallimento.
+Una pausa breve non è un fallimento.
 
 Serve a non partire fuori strada.
 
@@ -414,13 +414,13 @@ Aggiungi:
 
 Chiudi prima di perderti.
 
-Una risposta breve e ordinata e' spesso migliore di una risposta lunga che si sfalda.
+Una risposta breve e ordinata è spesso migliore di una risposta lunga che si sfalda.
 
 ## Come rispondere nello scritto
 
 Nello scritto non puoi spiegare alla commissione che hai avuto un vuoto.
 
-Puoi pero evitare tre errori:
+Puoi però evitare tre errori:
 
 - lasciare bianco troppo presto;
 - scrivere una risposta generica;
@@ -450,14 +450,14 @@ Qui non devi scrivere una risposta prudente. Devi decidere.
 
 Regole:
 
-- leggi se il bando o le istruzioni prevedono penalita;
+- leggi se il bando o le istruzioni prevedono penalità;
 - elimina risposte palesemente incompatibili;
 - cerca parole assolute: sempre, mai, solo, tutti;
 - non cambiare risposta solo per ansia;
 - segna la domanda se puoi tornarci;
 - registra il motivo dell'incertezza dopo la prova.
 
-Il Diario non deve contenere solo "sbagliata". Deve contenere perche era incerta.
+Il Diario non deve contenere solo "sbagliata". Deve contenere perché era incerta.
 
 ## Frasi che aiutano e frasi da evitare
 
@@ -465,21 +465,21 @@ Il Diario non deve contenere solo "sbagliata". Deve contenere perche era incerta
 
 | Frase | Quando usarla |
 |---|---|
-| "Il punto centrale e'..." | Per tornare alla domanda. |
+| "Il punto centrale è..." | Per tornare alla domanda. |
 | "Restando al perimetro del quesito..." | Per evitare divagazioni. |
-| "La funzione dell'istituto e'..." | Quando manca il dettaglio puntuale. |
-| "La distinzione essenziale riguarda..." | Quando il confronto non e' completo. |
+| "La funzione dell'istituto è..." | Quando manca il dettaglio puntuale. |
+| "La distinzione essenziale riguarda..." | Quando il confronto non è completo. |
 | "Nel caso concreto verificherei prima..." | Nei casi con dati incompleti. |
-| "Il collegamento rileva perche..." | Nei follow-up tra materie. |
+| "Il collegamento rileva perché..." | Nei follow-up tra materie. |
 
 ### Frasi pericolose
 
-| Frase | Perche e' rischiosa |
+| Frase | perché è rischiosa |
 |---|---|
-| "Sicuramente l'articolo e'..." | Se non sei sicuro, crei errore puntuale. |
+| "Sicuramente l'articolo è..." | Se non sei sicuro, crei errore puntuale. |
 | "In ogni caso..." | Le regole amministrative hanno spesso condizioni. |
-| "E' sempre cosi..." | Espone a eccezioni. |
-| "Non so nulla di questo." | Blocca anche cio che potresti dire. |
+| "È sempre così..." | Espone a eccezioni. |
+| "Non so nulla di questo." | Blocca anche ciò che potresti dire. |
 | "Questo si collega a tutto..." | Diventa dispersione. |
 | "Parlo dell'altro argomento..." | Abbandona la domanda. |
 
@@ -489,15 +489,15 @@ Dopo una simulazione, compila questa scheda.
 
 | Campo | Domanda | Risposta |
 |---|---|---|
-| Domanda | Qual era il quesito? |  |
-| Tipo | Dettaglio, confronto, collegamento, caso, follow-up, vuoto? |  |
-| Reazione | Mi sono bloccato, ho inventato, ho divagato, ho recuperato? |  |
-| Nucleo sicuro | Che cosa sapevo davvero? |  |
-| Dettaglio mancante | Che cosa non ricordavo? |  |
-| Frase migliore | Come avrei potuto rispondere? |  |
-| Azione | Flashcard, ripasso, confronto, simulazione o taglio? |  |
+| Domanda | Qual era il quesito? | |
+| Tipo | Dettaglio, confronto, collegamento, caso, follow-up, vuoto? | |
+| Reazione | Mi sono bloccato, ho inventato, ho divagato, ho recuperato? | |
+| Nucleo sicuro | Che cosa sapevo davvero? | |
+| Dettaglio mancante | Che cosa non ricordavo? | |
+| Frase migliore | Come avrei potuto rispondere? | |
+| Azione | Flashcard, ripasso, confronto, simulazione o taglio? | |
 
-Questa scheda vale piu di un'altra ora di lettura passiva.
+Questa scheda vale più di un'altra ora di lettura passiva.
 
 ## Simulazione: il mazzo delle domande laterali
 
@@ -532,21 +532,21 @@ Poi valuta:
 
 Elena sta simulando l'orale.
 
-La domanda e':
+La domanda è:
 
-> "Mi colleghi questo istituto alla responsabilita del dipendente pubblico."
+> "Mi colleghi questo istituto alla responsabilità del dipendente pubblico."
 
 Elena non ha preparato quel collegamento.
 
 Prima risposta:
 
-> "La responsabilita del dipendente pubblico e' molto importante, perche nella pubblica amministrazione ci sono vari tipi di responsabilita. Si collega anche alla trasparenza, alla privacy, al procedimento, al codice di comportamento e alla performance."
+> "La responsabilità del dipendente pubblico è molto importante, perché nella pubblica amministrazione ci sono vari tipi di responsabilità. Si collega anche alla trasparenza, alla privacy, al procedimento, al codice di comportamento e alla performance."
 
 La risposta sembra ampia, ma non risponde.
 
 Seconda risposta:
 
-> "Restando al perimetro della domanda, partirei dalla funzione dell'istituto. Il collegamento con la responsabilita emerge quando l'attivita dell'ufficio produce effetti e deve essere svolta rispettando competenza, correttezza e tracciabilita. Il punto non e' citare ogni forma di responsabilita, ma capire che la regola amministrativa orienta il comportamento del dipendente e consente controlli se l'azione non e' corretta. Quindi il collegamento principale e' tra esercizio della funzione, doveri del dipendente e conseguenze dell'azione amministrativa."
+> "Restando al perimetro della domanda, partirei dalla funzione dell'istituto. Il collegamento con la responsabilità emerge quando l'attività dell'ufficio produce effetti e deve essere svolta rispettando competenza, correttezza e tracciabilità. Il punto non è citare ogni forma di responsabilità, ma capire che la regola amministrativa orienta il comportamento del dipendente e consente controlli se l'azione non è corretta. Quindi il collegamento principale è tra esercizio della funzione, doveri del dipendente e conseguenze dell'azione amministrativa."
 
 La seconda risposta non finge una conoscenza totale.
 
@@ -560,47 +560,47 @@ Risposta modello:
 
 > "Eviterei di citare un riferimento puntuale non sicuro. Imposterei la risposta dal perimetro della domanda: definizione essenziale, funzione dell'istituto, soggetti coinvolti e conseguenza pratica. Se la domanda richiede un caso, partirei dai fatti indicati; se richiede un collegamento, sceglierei un solo ponte pertinente. In questo modo la risposta resta utile e verificabile senza costruire dettagli non controllati."
 
-Questa non e' una scusa.
+Questa non è una scusa.
 
-E' una disciplina.
+È una disciplina.
 
 ## Domanda-trappola
 
-> "Se non so bene, devo parlare di piu per compensare."
+> "Se non so bene, devo parlare di più per compensare."
 
 Falso.
 
-Quando sei incerto, devi parlare meglio, non di piu.
+Quando sei incerto, devi parlare meglio, non di più.
 
-Parlare di piu aumenta:
+Parlare di più aumenta:
 
-- possibilita di errore;
+- possibilità di errore;
 - divagazione;
 - contraddizione;
 - perdita del tempo;
 - impressione di insicurezza.
 
-La risposta incerta deve essere piu controllata, non piu lunga.
+La risposta incerta deve essere più controllata, non più lunga.
 
 ## Errore tipico
 
-L'errore tipico e' cercare la risposta perfetta.
+L'errore tipico è cercare la risposta perfetta.
 
 Il candidato pensa:
 
 > "Se non ricordo tutto, non posso rispondere."
 
-In realta spesso puo rispondere a una parte della domanda.
+In realta spesso può rispondere a una parte della domanda.
 
-La sequenza corretta e':
+La sequenza corretta è:
 
 1. non so tutto;
-2. identifico cio che so;
-3. evito cio che non posso sostenere;
+2. identifico ciò che so;
+3. evito ciò che non posso sostenere;
 4. costruisco una risposta proporzionata;
 5. registro la lacuna.
 
-Questo e' comportamento da candidato maturo.
+Questo è comportamento da candidato maturo.
 
 ## Mini-esercizio
 
@@ -610,11 +610,11 @@ Per ciascuno, compila:
 
 | Argomento | Domanda imprevista | Nucleo sicuro | Frase prudente | Lacuna da correggere |
 |---|---|---|---|---|
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
 
 Poi trasformane uno in:
 
@@ -635,9 +635,9 @@ Prima di chiudere una risposta incerta, chiediti:
 - Ho chiuso tornando alla domanda?
 - Ho segnato la lacuna da recuperare?
 
-Se la risposta e' orale, aggiungi:
+Se la risposta è orale, aggiungi:
 
-- ho parlato meno per restare piu preciso?
+- ho parlato meno per restare più preciso?
 - ho evitato di scusarmi troppo?
 - ho mantenuto tono professionale?
 
@@ -666,6 +666,6 @@ La domanda imprevista non si vince inventando, ma delimitando. Prima capisci il 
 
 ## Note di review
 
-- Prima della pubblicazione finale, verificare con revisione editoriale se alcune frasi prudenziali per l'orale vanno rese piu brevi o piu naturali.
+- Prima della pubblicazione finale, verificare con revisione editoriale se alcune frasi prudenziali per l'orale vanno rese più brevi o più naturali.
 - Gli esempi restano metodologici: eventuali esempi normativi puntuali devono essere agganciati ai capitoli di materia e alle fonti ufficiali.
 - Il capitolo non deve diventare un invito a improvvisare: va letto come protocollo di ordine, prudenza e recupero.

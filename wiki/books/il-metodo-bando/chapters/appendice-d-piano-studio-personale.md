@@ -4,27 +4,27 @@ type: chapter
 title: Appendice D - Piano di studio personale
 status: revised_draft
 domain: concorsi pubblici italiani
-topics: ["piano studio personale","piano 30 60 90 giorni","tracker studio","metodo di studio","diario errori","ripasso distribuito"]
+topics: ["piano studio personale", "piano 30 60 90 giorni", "tracker studio", "metodo di studio", "diario errori", "ripasso distribuito"]
 entities: ["Piano 30/60/90 giorni"]
-source_refs: ["sources/piano-studio-personale-metodo-bando.md","sources/struttura-madre-il-metodo-bando.md","sources/metodo-bando-progetto-editoriale.md","sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md","sources/apprendimento-efficace-active-recall-ripasso-distribuito.md","sources/scienze-apprendimento-pianificazione-metacognizione-errori.md","sources/capitoli-21-23-corpus-moduli-piano-diario-2026-06-01.md"]
+source_refs: ["sources/piano-studio-personale-metodo-bando.md", "sources/struttura-madre-il-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md", "sources/apprendimento-efficace-active-recall-ripasso-distribuito.md", "sources/scienze-apprendimento-pianificazione-metacognizione-errori.md", "sources/capitoli-21-23-corpus-moduli-piano-diario-2026-06-01.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.86
 updated_at: "2026-06-01T16:50:00+02:00"
 created_at: "2026-05-10T11:45:00+02:00"
 review_required: true
 canonical: true
-tags: ["book-appendix","template"]
+tags: ["book-appendix", "template"]
 book_id: il-metodo-bando
 outline_section: D
 draft_stage: revised-editorial-draft
-last_compiled_from: ["sources/piano-studio-personale-metodo-bando.md","topics/piano-studio-personale.md","topics/piano-30-60-90-giorni.md","topics/metodo-di-studio.md","topics/diario-errori.md"]
+last_compiled_from: ["sources/piano-studio-personale-metodo-bando.md", "topics/piano-studio-personale.md", "topics/piano-30-60-90-giorni.md", "topics/metodo-di-studio.md", "topics/diario-errori.md"]
 ---
 
 # Appendice D - Piano di studio personale
 
 Questo template serve a trasformare il tuo concorso in settimane reali.
 
-Non e' un calendario motivazionale. E' una scheda di controllo: quante ore hai, quali materie contano, quali output devi produrre, quando ripassi, quando simuli, che cosa tagli se resti indietro.
+Non è un calendario motivazionale. È una scheda di controllo: quante ore hai, quali materie contano, quali output devi produrre, quando ripassi, quando simuli, che cosa tagli se resti indietro.
 
 Compilalo dopo il Bando Decoder. Se non hai ancora decodificato il bando, il piano rischia di essere una fantasia ordinata.
 
@@ -32,11 +32,11 @@ Compilalo dopo il Bando Decoder. Se non hai ancora decodificato il bando, il pia
 
 ### 1. Usa ore reali
 
-Non scrivere "studio tre ore ogni sera" se sai gia che non succedera. Il piano deve reggere anche nelle settimane normali, non solo nella settimana ideale.
+Non scrivere "studio tre ore ogni sera" se sai già che non succederà. Il piano deve reggere anche nelle settimane normali, non solo nella settimana ideale.
 
 ### 2. Ogni settimana deve produrre output
 
-Un output e' qualcosa che assomiglia alla prova: quiz, risposta scritta, caso, orale, simulazione, scheda errori. La lettura da sola non basta.
+Un output è qualcosa che assomiglia alla prova: quiz, risposta scritta, caso, orale, simulazione, scheda errori. La lettura da sola non basta.
 
 ### 3. Pianifica il ripasso prima di dimenticare
 
@@ -52,7 +52,7 @@ Se sbagli sempre la stessa materia, il piano deve cambiare. Se una simulazione r
 |---|---|---|
 | B - Bando | Che concorso sto preparando e quando si svolge? | Scheda iniziale |
 | A - Aree | Quali blocchi devo coprire? | Core, moduli, prove |
-| N - Nuclei | Che cosa ha priorita alta? | Nuclei settimanali |
+| N - Nuclei | Che cosa ha priorità alta? | Nuclei settimanali |
 | D - Diario | Dove sto sbagliando? | Tracker errori e revisione |
 | O - Output | Che cosa devo produrre? | Quiz, scritto, caso, orale, simulazione |
 
@@ -80,10 +80,10 @@ Se sbagli sempre la stessa materia, il piano deve cambiare. Se una simulazione r
 |---|---|---|
 | 15 giorni | Emergenza: prova molto vicina. | |
 | 30 giorni | Preparazione breve e selettiva. | |
-| 60 giorni | Percorso intermedio, il piu comune. | |
-| 90 giorni | Preparazione solida con piu correzione. | |
+| 60 giorni | Percorso intermedio, il più comune. | |
+| 90 giorni | Preparazione solida con più correzione. | |
 
-## Pagina 2 - Disponibilita reale
+## Pagina 2 - disponibilità reale
 
 Compila questa tabella prima di distribuire le materie.
 
@@ -101,15 +101,15 @@ Compila questa tabella prima di distribuire le materie.
 
 | Domanda | Risposta |
 |---|---|
-| Quale giorno salta piu facilmente? | |
-| Quale fascia e' davvero stabile? | |
+| Quale giorno salta più facilmente? | |
+| Quale fascia è davvero stabile? | |
 | Dove metto simulazioni o blocchi lunghi? | |
 | Dove metto ripassi brevi? | |
 | Quale giorno tengo per recupero leggero? | |
 
 ## Pagina 3 - Mappa core, modulo, output
 
-| Area | Materie o nuclei | Priorita | Output collegato |
+| Area | Materie o nuclei | priorità | Output collegato |
 |---|---|---|---|
 | Core comune | | Alta / Media / Bassa | |
 | Modulo profilo | | Alta / Media / Bassa | |
@@ -121,7 +121,7 @@ Compila questa tabella prima di distribuire le materie.
 
 ### Nuclei ad alta resa
 
-| N. | Nucleo | Perche conta | Primo output |
+| N. | Nucleo | perché conta | Primo output |
 |---|---|---|---|
 | 1 | | | |
 | 2 | | | |
@@ -153,7 +153,7 @@ Usa tutte le 12 righe se hai 90 giorni. Se hai 60 giorni usa le prime 8. Se hai 
 | 11 | | | | | | |
 | 12 | | | | | | |
 
-La colonna "Decisione" e' obbligatoria. Scrivi una scelta concreta: continuo, taglio, sposto tempo, anticipo simulazione, cambio materiale, recupero, alleggerisco.
+La colonna "Decisione" è obbligatoria. Scrivi una scelta concreta: continuo, taglio, sposto tempo, anticipo simulazione, cambio materiale, recupero, alleggerisco.
 
 ## Pagina 5 - Settimana tipo
 
@@ -194,7 +194,7 @@ Compila una riga per ogni giorno di studio.
 
 ### Regola
 
-Se non c'e' output, scrivi comunque che cosa hai letto. Ma nella revisione settimanale chiediti perche quella lettura non e' diventata prova.
+Se non c'è output, scrivi comunque che cosa hai letto. Ma nella revisione settimanale chiediti perché quella lettura non è diventata prova.
 
 ## Pagina 7 - Tracker simulazioni
 
@@ -244,7 +244,7 @@ Da compilare sempre nello stesso giorno.
 | Che cosa non ho completato? | |
 | Quale output ho prodotto? | |
 | Quale errore si ripete? | |
-| Quale materia richiede piu tempo? | |
+| Quale materia richiede più tempo? | |
 | Quale blocco posso tagliare o ridurre? | |
 | Quale simulazione faccio la prossima settimana? | |
 | Quale decisione prendo per il piano? | |
@@ -267,7 +267,7 @@ Usalo quando perdi giorni o quando una simulazione va male.
 | Ho letto ma non ricordo | | |
 | Sbaglio sempre quiz simili | | |
 | Non finisco in tempo | | |
-| L'orale e' disordinato | | |
+| L'orale è disordinato | | |
 | Il modulo mi blocca | | |
 | Ho troppi materiali | | |
 
@@ -281,7 +281,7 @@ Usalo quando perdi giorni o quando una simulazione va male.
 
 ## Pagina 11 - Ultimi 7 giorni
 
-| Giorno | Priorita | Fatto |
+| Giorno | priorità | Fatto |
 |---|---|---|
 | -7 | Simulazione completa o prova equivalente. | |
 | -6 | Correzione simulazione e ripasso errori. | |
@@ -355,15 +355,15 @@ Prima settimana:
 
 ## Domanda da commissario
 
-**Perche un piano di studio efficace deve prevedere anche simulazioni e revisione?**
+**perché un piano di studio efficace deve prevedere anche simulazioni e revisione?**
 
-Perche lo studio diventa utile solo se produce prestazione. Le simulazioni mostrano se il candidato sa usare le conoscenze nel formato della prova; la revisione trasforma errori e ritardi in decisioni operative.
+perché lo studio diventa utile solo se produce prestazione. Le simulazioni mostrano se il candidato sa usare le conoscenze nel formato della prova; la revisione trasforma errori e ritardi in decisioni operative.
 
 ## Domanda-trappola
 
-**Se ho poco tempo, conviene eliminare il diario e fare piu teoria?**
+**Se ho poco tempo, conviene eliminare il diario e fare più teoria?**
 
-No. Se hai poco tempo, il diario diventa ancora piu importante per capire quali errori correggere e quali contenuti tagliare. Senza diario rischi di aumentare lo studio ma non il risultato.
+No. Se hai poco tempo, il diario diventa ancora più importante per capire quali errori correggere e quali contenuti tagliare. Senza diario rischi di aumentare lo studio ma non il risultato.
 
 ## Mini-esercizio
 
@@ -377,7 +377,7 @@ Compila subito questi cinque campi:
 | Primo output entro 72 ore | |
 | Primo taglio se resto indietro | |
 
-Se non sai indicare il primo taglio, il piano non e' ancora abbastanza strategico.
+Se non sai indicare il primo taglio, il piano non è ancora abbastanza strategico.
 
 ## Errori tipici
 
@@ -405,5 +405,5 @@ Se non sai indicare il primo taglio, il piano non e' ancora abbastanza strategic
 ## Note di review
 
 - Prima della pubblicazione finale verificare se le pagine 4-12 vadano impaginate come schede workbook separate.
-- Valutare una versione PDF stampabile, mantenendo pero completa la versione cartacea.
+- Valutare una versione PDF stampabile, mantenendo però completa la versione cartacea.
 - Coordinare questa appendice con l'Appendice C e con l'Appendice F, per evitare duplicazione tra Bando Decoder, piano e matrice materie/profili.

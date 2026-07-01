@@ -4,27 +4,27 @@ type: chapter
 title: La prova orale
 status: revised_draft
 domain: concorsi pubblici italiani
-topics: ["prova orale","risposta orale","simulazione colloquio"]
+topics: ["prova orale", "risposta orale", "simulazione colloquio"]
 entities: ["Metodo BANDO"]
-source_refs: ["sources/struttura-madre-il-metodo-bando.md","sources/metodo-bando-progetto-editoriale.md","sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md","sources/apprendimento-efficace-active-recall-ripasso-distribuito.md","sources/metodo-bando-capitolo-13-bozza-sito-2026-05-30.md"]
+source_refs: ["sources/struttura-madre-il-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md", "sources/apprendimento-efficace-active-recall-ripasso-distribuito.md", "sources/metodo-bando-capitolo-13-bozza-sito-2026-05-30.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.89
 updated_at: "2026-06-07T19:41:54+02:00"
 created_at: "2026-05-10T11:45:00+02:00"
 review_required: true
 canonical: true
-tags: ["book-chapter","part-3"]
+tags: ["book-chapter", "part-3"]
 book_id: il-metodo-bando
 outline_section: 16
 draft_stage: revised-editorial-draft
-last_compiled_from: ["sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md","sources/apprendimento-efficace-active-recall-ripasso-distribuito.md","topics/prova-orale.md","topics/risposta-concorsuale.md","topics/metodo-di-studio.md"]
+last_compiled_from: ["sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md", "sources/apprendimento-efficace-active-recall-ripasso-distribuito.md", "topics/prova-orale.md", "topics/risposta-concorsuale.md", "topics/metodo-di-studio.md"]
 ---
 
 # Capitolo 16 - La prova orale
 
 ## Perché l'orale non è una ripetizione del manuale
 
-La prova orale mette il candidato davanti a una commissione e trasforma lo studio in parola. Non basta "sapere". Bisogna iniziare, ordinare, collegare, scegliere esempi, correggersi se si parte male e restare lucidi quando arriva una domanda inattesa.
+La prova orale mette il candidato davanti a una commissione e trasforma lo studio in parola. Non basta "sapere". Bisogna iniziare, ordinare, collegare, scegliere esempi, correggersi se sì parte male e restare lucidi quando arriva una domanda inattesa.
 
 Molti candidati rimandano l'orale alla fine. Pensano: prima studio, poi ripeto. È un errore. L'orale va preparato mentre studi, perché parlare rivela subito le lacune: definizioni confuse, passaggi saltati, esempi assenti, collegamenti deboli, frasi troppo lunghe.
 

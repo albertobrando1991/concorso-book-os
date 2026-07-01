@@ -4,41 +4,41 @@ type: chapter
 title: Casi pratici e problem solving amministrativo
 status: revised_draft
 domain: concorsi pubblici italiani
-topics: ["casi pratici","problem solving amministrativo","procedimento amministrativo","accesso agli atti","prova scritta teorico-pratica","orientamento al cittadino"]
-entities: ["Pubblica amministrazione","Comune","RUP","Dipendente pubblico"]
-source_refs: ["sources/struttura-madre-il-metodo-bando.md","sources/capitolo-17-18-corpus-casi-pratici-quesiti-situazionali-2026-05-30.md","sources/legge-241-1990-procedimento-amministrativo.md","sources/d-lgs-14-marzo-2013-n-33-trasparenza.md","sources/regolamento-ue-2016-679-gdpr-protezione-dati-personali.md","sources/d-lgs-31-marzo-2023-n-36-contratti-pubblici.md","sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md","sources/framework-competenze-trasversali-pa-dm-28-giugno-2023.md"]
+topics: ["casi pratici", "problem solving amministrativo", "procedimento amministrativo", "accesso agli atti", "prova scritta teorico-pratica", "orientamento al cittadino"]
+entities: ["Pubblica amministrazione", "Comune", "RUP", "Dipendente pubblico"]
+source_refs: ["sources/struttura-madre-il-metodo-bando.md", "sources/capitolo-17-18-corpus-casi-pratici-quesiti-situazionali-2026-05-30.md", "sources/legge-241-1990-procedimento-amministrativo.md", "sources/d-lgs-14-marzo-2013-n-33-trasparenza.md", "sources/regolamento-ue-2016-679-gdpr-protezione-dati-personali.md", "sources/d-lgs-31-marzo-2023-n-36-contratti-pubblici.md", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md", "sources/framework-competenze-trasversali-pa-dm-28-giugno-2023.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.9
 updated_at: "2026-06-07T20:00:16+02:00"
 created_at: "2026-05-10T11:45:00+02:00"
 review_required: true
 canonical: true
-tags: ["book-chapter","part-3"]
+tags: ["book-chapter", "part-3"]
 book_id: il-metodo-bando
 outline_section: 17
 draft_stage: revised-editorial-draft
-last_compiled_from: ["sources/capitolo-17-18-corpus-casi-pratici-quesiti-situazionali-2026-05-30.md","topics/casi-pratici.md","topics/problem-solving-amministrativo.md","topics/procedimento-amministrativo.md","topics/orientamento-al-cittadino.md"]
+last_compiled_from: ["sources/capitolo-17-18-corpus-casi-pratici-quesiti-situazionali-2026-05-30.md", "topics/casi-pratici.md", "topics/problem-solving-amministrativo.md", "topics/procedimento-amministrativo.md", "topics/orientamento-al-cittadino.md"]
 ---
 
 # Capitolo 17 - Casi pratici e problem solving amministrativo
 
-## Perche il caso pratico seleziona davvero
+## Perché il caso pratico seleziona davvero
 
-Il caso pratico e' il momento in cui il concorso smette di chiedere solo "che cosa sai" e inizia a chiedere "che cosa faresti". Non basta ricordare una definizione. Devi leggere una situazione, capire chi e' competente, individuare il problema, rispettare termini e vincoli, scegliere una soluzione e motivarla in modo ordinato.
+Il caso pratico è il momento in cui il concorso smette di chiedere solo "che cosa sai" e inizia a chiedere "che cosa faresti". Non basta ricordare una definizione. Devi leggere una situazione, capire chi è competente, individuare il problema, rispettare termini e vincoli, scegliere una soluzione e motivarla in modo ordinato.
 
-Questo tipo di prova mette in difficolta molti candidati per un motivo preciso: lo studio tradizionale prepara a ripetere argomenti, non a usarli. Un candidato puo conoscere il procedimento amministrativo, l'accesso agli atti, la privacy o il codice dei contratti, ma bloccarsi davanti a una traccia concreta: un cittadino presenta una domanda incompleta, un ufficio riceve una richiesta che non gli compete, un soggetto chiede documenti che contengono dati di terzi, una pratica e' in ritardo, un operatore economico sollecita una risposta.
+Questo tipo di prova mette in difficoltà molti candidati per un motivo preciso: lo studio tradizionale prepara a ripetere argomenti, non a usarli. Un candidato può conoscere il procedimento amministrativo, l'accesso agli atti, la privacy o il codice dei contratti, ma bloccarsi davanti a una traccia concreta: un cittadino presenta una domanda incompleta, un ufficio riceve una richiesta che non gli compete, un soggetto chiede documenti che contengono dati di terzi, una pratica è in ritardo, un operatore economico sollecita una risposta.
 
-In questi casi non vince chi scrive piu teoria. Vince chi ragiona come un funzionario pubblico.
+In questi casi non vince chi scrive più teoria. Vince chi ragiona come un funzionario pubblico.
 
 Ragionare come un funzionario significa tenere insieme cinque dimensioni:
 
-- la regola, perche la pubblica amministrazione non agisce a intuito;
-- il procedimento, perche ogni decisione nasce da passaggi ordinati;
-- la competenza, perche non tutti possono fare tutto;
-- l'interesse pubblico, perche la risposta non e' un favore personale;
-- l'utente, perche l'amministrazione deve comunicare in modo chiaro e responsabile.
+- la regola, perché la pubblica amministrazione non agisce a intuito;
+- il procedimento, perché ogni decisione nasce da passaggi ordinati;
+- la competenza, perché non tutti possono fare tutto;
+- l'interesse pubblico, perché la risposta non è un favore personale;
+- l'utente, perché l'amministrazione deve comunicare in modo chiaro e responsabile.
 
-Il caso pratico, quindi, non e' una domanda teorica mascherata. E' una prova di metodo.
+Il caso pratico, quindi, non è una domanda teorica mascherata. È una prova di metodo.
 
 ## Obiettivo del capitolo
 
@@ -51,7 +51,7 @@ Questo capitolo ti insegna a scomporre e risolvere un caso pratico amministrativ
 - proporre una soluzione realistica, motivata e proporzionata;
 - correggere gli errori tipici nei casi pratici.
 
-La regola di base e' questa:
+La regola di base è questa:
 
 > Nel caso pratico non devi dimostrare che hai studiato tutto. Devi dimostrare che sai decidere il prossimo passo corretto.
 
@@ -59,29 +59,29 @@ La regola di base e' questa:
 
 | Fase | Domanda guida | Prodotto concreto |
 |---|---|---|
-| **B - Bando** | Che tipo di caso puo uscire? Scritto, orale, quiz, risposta sintetica, atto, scenario? | Scheda formato caso. |
+| **B - Bando** | Che tipo di caso può uscire? Scritto, orale, quiz, risposta sintetica, atto, scenario? | Scheda formato caso. |
 | **A - Aree** | Quali materie possono convergere nel caso? Procedimento, accesso, privacy, pubblico impiego, contratti? | Mappa aree coinvolte. |
-| **N - Nuclei** | Quali nuclei sbloccano piu casi? Competenza, termini, motivazione, accesso, dati, responsabilita? | Lista nuclei ad alto rendimento. |
+| **N - Nuclei** | Quali nuclei sbloccano più casi? Competenza, termini, motivazione, accesso, dati, responsabilità? | Lista nuclei ad alto rendimento. |
 | **D - Diario** | Che errori ripeto nei casi? Fatti, regola, competenza, ordine, privacy, tempo? | Registro casi ed errori. |
 | **O - Output** | So scrivere una soluzione? So spiegarla a voce? So scegliere l'opzione corretta? | Risposte, mini-casi, simulazioni. |
 
 ![Figura 17.1 - Mappa BANDO del caso pratico: trasformare bando, aree, nuclei, diario e output in una soluzione amministrativa corretta.](../assets/chapter-17/01-mappa-bando-caso-pratico.png)
 
-## Il caso non e' una storia
+## Il caso non è una storia
 
-La traccia puo sembrare una piccola storia. Ma tu non devi leggerla come un racconto. Devi leggerla come un fascicolo amministrativo ridotto.
+La traccia può sembrare una piccola storia. Ma tu non devi leggerla come un racconto. Devi leggerla come un fascicolo amministrativo ridotto.
 
-Ogni caso contiene elementi utili e elementi secondari. Il primo lavoro e' separare cio che serve da cio che distrae.
+Ogni caso contiene elementi utili e elementi secondari. Il primo lavoro è separare ciò che serve da ciò che distrae.
 
 | Elemento | Domanda da farti |
 |---|---|
-| Fatti | Che cosa e' accaduto davvero? |
-| Soggetti | Chi chiede, chi decide, chi e' coinvolto? |
-| Ufficio | Quale ufficio o responsabile e' competente? |
+| Fatti | Che cosa è accaduto davvero? |
+| Soggetti | Chi chiede, chi decide, chi è coinvolto? |
+| Ufficio | Quale ufficio o responsabile è competente? |
 | Procedimento | Esiste una domanda, una fase istruttoria, una decisione, un termine? |
 | Regola | Quale principio o disciplina orienta la soluzione? |
 | Interessi | Quali interessi pubblici e privati sono in gioco? |
-| Vincoli | Ci sono privacy, trasparenza, imparzialita, risorse, urgenza, conflitto? |
+| Vincoli | Ci sono privacy, trasparenza, imparzialità, risorse, urgenza, conflitto? |
 | Output | Che cosa deve produrre l'amministrazione? |
 
 Se non compili mentalmente questa tabella, rischi di rispondere con frasi generiche: "l'amministrazione deve provvedere", "bisogna rispettare la legge", "occorre tutelare il cittadino". Sono formule vere, ma non risolvono il caso.
@@ -95,10 +95,10 @@ Usa questa griglia ogni volta che affronti un caso pratico.
 1. **Che cosa chiede la traccia?** Una soluzione, una valutazione, una risposta al cittadino, una sequenza di atti?
 2. **Quali sono i fatti essenziali?** Elimina dettagli emotivi o narrativi.
 3. **Chi sono i soggetti?** Cittadino, ufficio, responsabile, dirigente, controinteressato, operatore economico.
-4. **Chi e' competente?** L'ufficio che riceve non e' sempre quello che decide.
-5. **Quale procedimento o nucleo e' coinvolto?** Accesso, istanza, silenzio, graduatoria, acquisto, dati, riesame.
+4. **Chi è competente?** L'ufficio che riceve non è sempre quello che decide.
+5. **Quale procedimento o nucleo è coinvolto?** Accesso, istanza, silenzio, graduatoria, acquisto, dati, riesame.
 6. **Quali vincoli limitano la soluzione?** Termini, motivazione, privacy, trasparenza, anticorruzione, risorse.
-7. **Qual e' la soluzione corretta?** Deve essere possibile, legittima e proporzionata.
+7. **qual è la soluzione corretta?** Deve essere possibile, legittima e proporzionata.
 8. **Quale output finale serve?** Comunicazione, richiesta di integrazione, provvedimento, inoltro, segnalazione, istruttoria.
 
 Questa griglia vale per scritto, orale e quiz. Cambia solo la forma dell'output.
@@ -114,35 +114,35 @@ Per scrivere un caso pratico usa una struttura stabile:
 3. **Regola o principio**: richiama il quadro essenziale senza divagare.
 4. **Applicazione**: spiega come la regola opera nel caso.
 5. **Soluzione**: indica il comportamento dell'amministrazione.
-6. **Motivazione e cautele**: segnala termini, dati, tracciabilita, competenza.
+6. **Motivazione e cautele**: segnala termini, dati, tracciabilità, competenza.
 
 Esempio di apertura efficace:
 
-> Il caso riguarda una istanza incompleta presentata a un ufficio comunale. Il problema non e' respingere automaticamente la domanda, ma verificare se l'incompletezza impedisce l'istruttoria e quali integrazioni siano necessarie.
+> Il caso riguarda una istanza incompleta presentata a un ufficio comunale. Il problema non è respingere automaticamente la domanda, ma verificare se l'incompletezza impedisce l'istruttoria e quali integrazioni siano necessarie.
 
 Esempio di apertura debole:
 
-> Il procedimento amministrativo e' molto importante e la pubblica amministrazione deve sempre rispettare la legge.
+> Il procedimento amministrativo è molto importante e la pubblica amministrazione deve sempre rispettare la legge.
 
-La seconda frase non e' falsa, ma non entra nel caso.
+La seconda frase non è falsa, ma non entra nel caso.
 
 ![Figura 17.4 - Schema di risposta al caso pratico: fatti, problema, regola, applicazione, soluzione e cautele.](../assets/chapter-17/04-schema-risposta-caso-pratico.png)
 
-## I nuclei che rendono di piu
+## I nuclei che rendono di più
 
 Alcuni nuclei compaiono in molti casi pratici. Studiali prima.
 
-| Nucleo | Perche rende |
+| Nucleo | perché rende |
 |---|---|
 | Competenza | Permette di capire chi deve agire e chi no. |
 | Responsabile del procedimento | Collega istruttoria, comunicazioni, tempi e decisione. |
-| Termini | Trasforma il caso in gestione del tempo e responsabilita. |
-| Motivazione | Spiega perche l'amministrazione decide in un certo modo. |
+| Termini | Trasforma il caso in gestione del tempo e responsabilità. |
+| Motivazione | Spiega perché l'amministrazione decide in un certo modo. |
 | Accesso | Coinvolge documenti, interessati, controinteressati e dati. |
 | Privacy | Impedisce risposte troppo aperte o diffusioni non dovute. |
 | Trasparenza | Distingue pubblicazione, accesso civico e accesso documentale. |
 | Codice di comportamento | Serve nei casi di regali, pressioni, dati, conflitti. |
-| Contratti pubblici | Serve per acquisti, affidamenti, RUP, tracciabilita e rotazione. |
+| Contratti pubblici | Serve per acquisti, affidamenti, RUP, tracciabilità e rotazione. |
 | Autotutela e riesame | Serve quando qualcuno chiede di correggere o rivedere un atto. |
 
 ![Figura 17.5 - Nuclei ad alto rendimento nei casi pratici: competenza, responsabile, termini, motivazione, accesso, privacy, trasparenza, comportamento, contratti e riesame.](../assets/chapter-17/05-nuclei-alto-rendimento.png)
@@ -161,15 +161,15 @@ Un cittadino presenta al Comune una domanda per ottenere un beneficio, ma non al
 | Problema | Istruttoria non completa. |
 | Soggetti | Cittadino, ufficio competente, responsabile del procedimento. |
 | Nucleo | Procedimento, integrazione documentale, comunicazione. |
-| Vincoli | Termine, collaborazione, completezza dell'istruttoria, tracciabilita. |
+| Vincoli | Termine, collaborazione, completezza dell'istruttoria, tracciabilità. |
 
 ### Risposta modello
 
-L'amministrazione non deve ignorare l'istanza ne' respingerla automaticamente senza verificare il quadro applicabile. Deve anzitutto individuare il documento mancante e stabilire se sia essenziale per l'istruttoria. Se l'integrazione e' possibile, l'ufficio competente deve comunicare al cittadino in modo chiaro quali elementi devono essere prodotti, entro quali termini e con quali modalita. La gestione deve essere tracciata nel fascicolo e collegata al responsabile del procedimento. Se il cittadino integra, l'istruttoria prosegue; se non integra o l'assenza del documento impedisce la valutazione, l'amministrazione adottera l'esito previsto, motivandolo.
+L'amministrazione non deve ignorare l'istanza né respingerla automaticamente senza verificare il quadro applicabile. Deve anzitutto individuare il documento mancante e stabilire se sia essenziale per l'istruttoria. Se l'integrazione è possibile, l'ufficio competente deve comunicare al cittadino in modo chiaro quali elementi devono essere prodotti, entro quali termini e con quali modalità. La gestione deve essere tracciata nel fascicolo e collegata al responsabile del procedimento. Se il cittadino integra, l'istruttoria prosegue; se non integra o l'assenza del documento impedisce la valutazione, l'amministrazione adotterà l'esito previsto, motivandolo.
 
 ### Errore da evitare
 
-Dire solo: "la domanda e' incompleta, quindi va respinta". Nei casi pratici devi sempre verificare se esiste una fase di integrazione o regolarizzazione.
+Dire solo: "la domanda è incompleta, quindi va respinta". Nei casi pratici devi sempre verificare se esiste una fase di integrazione o regolarizzazione.
 
 ## Caso 2 - Richiesta di accesso con dati di terzi
 
@@ -179,7 +179,7 @@ Un cittadino chiede copia di documenti relativi a un procedimento che coinvolge 
 
 ### Lettura del caso
 
-Qui il problema non e' scegliere tra accesso totale e rifiuto totale. Il punto e' bilanciare diritto di accesso, interesse conoscitivo, eventuali controinteressati e protezione dei dati.
+Qui il problema non è scegliere tra accesso totale e rifiuto totale. Il punto è bilanciare diritto di accesso, interesse conoscitivo, eventuali controinteressati e protezione dei dati.
 
 ### Risposta modello
 
@@ -197,11 +197,11 @@ Una pratica non viene conclusa nei tempi previsti. Il cittadino sollecita l'uffi
 
 ### Lettura del caso
 
-Il ritardo non e' solo un problema di cortesia. Coinvolge termini, organizzazione, responsabilita, comunicazione e possibile tutela dell'interessato.
+Il ritardo non è solo un problema di cortesia. Coinvolge termini, organizzazione, responsabilità, comunicazione e possibile tutela dell'interessato.
 
 ### Risposta modello
 
-L'ufficio deve verificare lo stato della pratica, individuare la causa del ritardo e informare il cittadino con comunicazione chiara e non evasiva. Il responsabile deve riattivare l'istruttoria, acquisire gli elementi mancanti e programmare la conclusione secondo le regole applicabili. Se il ritardo dipende da altri uffici, occorre coordinare le attivita senza scaricare il problema sull'utente. La gestione deve essere tracciata, per consentire il controllo interno e prevenire il ripetersi della disfunzione.
+L'ufficio deve verificare lo stato della pratica, individuare la causa del ritardo e informare il cittadino con comunicazione chiara e non evasiva. Il responsabile deve riattivare l'istruttoria, acquisire gli elementi mancanti e programmare la conclusione secondo le regole applicabili. Se il ritardo dipende da altri uffici, occorre coordinare le attività senza scaricare il problema sull'utente. La gestione deve essere tracciata, per consentire il controllo interno e prevenire il ripetersi della disfunzione.
 
 ### Errore da evitare
 
@@ -215,15 +215,15 @@ Un cittadino si presenta a un ufficio per chiedere informazioni su una pratica c
 
 ### Lettura del caso
 
-La risposta corretta non e' occuparsi di tutto fuori competenza, ma neppure liquidare l'utente senza orientarlo.
+La risposta corretta non è occuparsi di tutto fuori competenza, ma neppure liquidare l'utente senza orientarlo.
 
 ### Risposta modello
 
-Il dipendente deve riconoscere il limite della propria competenza e indirizzare il cittadino verso l'ufficio corretto, fornendo informazioni verificate su canale, orari, modalita o riferimenti disponibili. Non deve promettere esiti, accedere a dati senza ragione di servizio o dare indicazioni improvvisate. Se l'ente prevede protocolli di instradamento o presa in carico, il dipendente deve seguirli. L'orientamento al cittadino consiste nel rendere comprensibile il percorso corretto, non nel sostituirsi all'ufficio competente.
+Il dipendente deve riconoscere il limite della propria competenza e indirizzare il cittadino verso l'ufficio corretto, fornendo informazioni verificate su canale, orari, modalità o riferimenti disponibili. Non deve promettere esiti, accedere a dati senza ragione di servizio o dare indicazioni improvvisate. Se l'ente prevede protocolli di instradamento o presa in carico, il dipendente deve seguirli. L'orientamento al cittadino consiste nel rendere comprensibile il percorso corretto, non nel sostituirsi all'ufficio competente.
 
 ### Errore da evitare
 
-Confondere disponibilita con invasione di competenza. Aiutare non significa decidere al posto di chi e' competente.
+Confondere disponibilità con invasione di competenza. Aiutare non significa decidere al posto di chi è competente.
 
 ## Caso 5 - Graduatoria e richiesta di chiarimenti
 
@@ -233,15 +233,15 @@ Un candidato contesta informalmente la propria posizione in graduatoria e chiede
 
 ### Lettura del caso
 
-Il caso coinvolge trasparenza, accesso, dati personali, imparzialita e canali corretti.
+Il caso coinvolge trasparenza, accesso, dati personali, imparzialità e canali corretti.
 
 ### Risposta modello
 
-Il dipendente deve evitare controlli informali e comunicazioni non tracciate su dati di altri candidati. Deve indicare al richiedente i canali corretti per chiedere chiarimenti, accesso o riesame, secondo le modalita previste dall'amministrazione. L'ufficio competente dovra verificare l'eventuale errore attraverso una procedura tracciata e, se necessario, adottare gli atti conseguenti. La tutela del candidato non giustifica la diffusione impropria di dati altrui o scorciatoie fuori procedimento.
+Il dipendente deve evitare controlli informali e comunicazioni non tracciate su dati di altri candidati. Deve indicare al richiedente i canali corretti per chiedere chiarimenti, accesso o riesame, secondo le modalità previste dall'amministrazione. L'ufficio competente dovrà verificare l'eventuale errore attraverso una procedura tracciata e, se necessario, adottare gli atti conseguenti. La tutela del candidato non giustifica la diffusione impropria di dati altrui o scorciatoie fuori procedimento.
 
 ### Errore da evitare
 
-Dire: "per trasparenza gli faccio vedere tutto". Anche nelle graduatorie esiste un rapporto tra pubblicita, accesso e protezione dei dati.
+Dire: "per trasparenza gli faccio vedere tutto". Anche nelle graduatorie esiste un rapporto tra pubblicità, accesso e protezione dei dati.
 
 ## Caso 6 - Pratica arrivata all'ufficio non competente
 
@@ -251,15 +251,15 @@ Una richiesta viene inviata all'ufficio sbagliato dell'amministrazione. Il dipen
 
 ### Lettura del caso
 
-Il punto e' evitare sia l'inerzia sia l'appropriazione indebita della competenza.
+Il punto è evitare sia l'inerzia sia l'appropriazione indebita della competenza.
 
 ### Risposta modello
 
-L'ufficio che riceve la richiesta deve verificare la competenza e, se la pratica appartiene ad altro settore, attivare l'inoltro o l'instradamento secondo le regole organizzative dell'ente. Se necessario, informa il cittadino del passaggio o del canale corretto, evitando formule generiche. Non deve trattenere la pratica senza titolo ne' decidere fuori competenza. La soluzione corretta e' garantire continuita del procedimento e chiarezza per l'utente, nel rispetto dell'organizzazione interna.
+L'ufficio che riceve la richiesta deve verificare la competenza e, se la pratica appartiene ad altro settore, attivare l'inoltro o l'instradamento secondo le regole organizzative dell'ente. Se necessario, informa il cittadino del passaggio o del canale corretto, evitando formule generiche. Non deve trattenere la pratica senza titolo né decidere fuori competenza. La soluzione corretta è garantire continuità del procedimento e chiarezza per l'utente, nel rispetto dell'organizzazione interna.
 
 ### Errore da evitare
 
-Limitarsi a dire "non e' affare mio". Nel settore pubblico il limite di competenza non autorizza il disinteresse organizzativo.
+Limitarsi a dire "non è affare mio". Nel settore pubblico il limite di competenza non autorizza il disinteresse organizzativo.
 
 ## Caso 7 - Acquisto urgente di beni o servizi
 
@@ -269,21 +269,21 @@ Un ufficio ha bisogno rapidamente di un servizio di modesto valore. Un fornitore
 
 ### Lettura del caso
 
-Il caso coinvolge contratti pubblici, tracciabilita, competenza, programmazione, rotazione, integrita e responsabilita.
+Il caso coinvolge contratti pubblici, tracciabilità, competenza, programmazione, rotazione, integrità e responsabilità.
 
 ### Risposta modello
 
-L'urgenza non consente di ignorare le regole dell'affidamento. L'ufficio deve verificare fabbisogno, valore, competenza, disponibilita delle risorse, strumenti di acquisto applicabili e procedure previste. Se esistono presupposti per una procedura semplificata, questa deve comunque essere formalizzata e tracciata. Il rapporto con un fornitore conosciuto non puo sostituire motivazione, trasparenza e rispetto delle regole. La soluzione corretta e' attivare il percorso di acquisto proporzionato al valore e al bisogno, coinvolgendo il responsabile competente.
+L'urgenza non consente di ignorare le regole dell'affidamento. L'ufficio deve verificare fabbisogno, valore, competenza, disponibilità delle risorse, strumenti di acquisto applicabili e procedure previste. Se esistono presupposti per una procedura semplificata, questa deve comunque essere formalizzata e tracciata. Il rapporto con un fornitore conosciuto non può sostituire motivazione, trasparenza e rispetto delle regole. La soluzione corretta è attivare il percorso di acquisto proporzionato al valore e al bisogno, coinvolgendo il responsabile competente.
 
 ### Errore da evitare
 
-Pensare che "piccolo valore" significhi "assenza di regole". La proporzionalita semplifica, ma non elimina tracciabilita e competenza.
+Pensare che "piccolo valore" significhi "assenza di regole". La proporzionalità semplifica, ma non elimina tracciabilità e competenza.
 
 ## Caso 8 - Richiesta di riesame
 
 ### Scenario
 
-Un cittadino riceve un provvedimento sfavorevole e chiede all'amministrazione di rivederlo perche ritiene che ci sia un errore.
+Un cittadino riceve un provvedimento sfavorevole e chiede all'amministrazione di rivederlo perché ritiene che ci sia un errore.
 
 ### Lettura del caso
 
@@ -291,7 +291,7 @@ La richiesta non va trattata come semplice lamentela. Deve essere qualificata: c
 
 ### Risposta modello
 
-L'amministrazione deve verificare il contenuto della richiesta e l'eventuale presenza di elementi nuovi o errori rilevanti. Se il cittadino chiede chiarimenti, l'ufficio deve spiegare il contenuto del provvedimento e i canali disponibili. Se chiede riesame, l'amministrazione valuta nei limiti della disciplina applicabile se sussistano presupposti per intervenire. Non esiste un obbligo generale di modificare l'atto solo perche il destinatario non lo condivide, ma esiste il dovere di gestire la richiesta in modo ordinato, motivato e tracciabile.
+L'amministrazione deve verificare il contenuto della richiesta e l'eventuale presenza di elementi nuovi o errori rilevanti. Se il cittadino chiede chiarimenti, l'ufficio deve spiegare il contenuto del provvedimento e i canali disponibili. Se chiede riesame, l'amministrazione valuta nei limiti della disciplina applicabile se sussistano presupposti per intervenire. Non esiste un obbligo generale di modificare l'atto solo perché il destinatario non lo condivide, ma esiste il dovere di gestire la richiesta in modo ordinato, motivato e tracciabile.
 
 ### Errore da evitare
 
@@ -301,12 +301,12 @@ Promettere la modifica dell'atto prima dell'istruttoria. Il funzionario non deve
 
 ## Come cambiano quiz, scritto e orale
 
-Lo stesso caso puo apparire in tre forme diverse.
+Lo stesso caso può apparire in tre forme diverse.
 
 | Forma | Che cosa devi fare |
 |---|---|
-| Quiz | Scegliere l'opzione piu coerente o escludere quelle scorrette. |
-| Scritto | Costruire una soluzione motivata in poche righe o in forma piu ampia. |
+| Quiz | Scegliere l'opzione più coerente o escludere quelle scorrette. |
+| Scritto | Costruire una soluzione motivata in poche righe o in forma più ampia. |
 | Orale | Spiegare il ragionamento, rispondere a domande e collegare materie. |
 
 Nel quiz devi riconoscere rapidamente l'opzione che rispetta competenza, procedura e vincoli. Nello scritto devi argomentare. All'orale devi mostrare ragionamento: "partirei dai fatti, qualificherei la richiesta, verificherei competenza e poi...".
@@ -319,10 +319,10 @@ Una risposta forte:
 - individua l'ufficio competente;
 - richiama solo principi pertinenti;
 - distingue diritto dell'utente e limiti dell'amministrazione;
-- considera privacy, trasparenza e tracciabilita;
+- considera privacy, trasparenza e tracciabilità;
 - propone un'azione concreta;
-- spiega perche quella azione e' corretta;
-- non promette cio che non dipende dal funzionario.
+- spiega perché quella azione è corretta;
+- non promette ciò che non dipende dal funzionario.
 
 Una risposta debole:
 
@@ -345,7 +345,7 @@ Dopo ogni esercizio, registra l'errore. Non basta dire "caso sbagliato".
 | Competenza | Ho capito chi doveva agire? |
 | Regola | Ho richiamato un principio pertinente? |
 | Applicazione | Ho applicato la regola al caso o ho fatto teoria? |
-| Privacy/trasparenza | Ho considerato dati, accesso e pubblicita? |
+| Privacy/trasparenza | Ho considerato dati, accesso e pubblicità? |
 | Output | Ho indicato un'azione concreta? |
 | Tempo | Ho impiegato troppo per iniziare? |
 
@@ -366,8 +366,8 @@ Risolvi questi tre casi in massimo 12 righe ciascuno.
 Traccia di correzione:
 
 - nel primo caso: identificazione, riservatezza, canali corretti, nessuna diffusione impropria;
-- nel secondo: verifica, richiesta di integrazione, tracciabilita, termine, esito motivato;
-- nel terzo: fabbisogno, competenza, procedura proporzionata, formalizzazione, tracciabilita.
+- nel secondo: verifica, richiesta di integrazione, tracciabilità, termine, esito motivato;
+- nel terzo: fabbisogno, competenza, procedura proporzionata, formalizzazione, tracciabilità.
 
 ## Domanda da commissario
 
@@ -377,16 +377,16 @@ Traccia di correzione:
 
 ## Domanda-trappola
 
-**Domanda:** Se il cittadino ha ragione sul piano sostanziale, l'ufficio puo saltare alcuni passaggi per aiutarlo piu rapidamente?
+**Domanda:** Se il cittadino ha ragione sul piano sostanziale, l'ufficio può saltare alcuni passaggi per aiutarlo più rapidamente?
 
-No. L'amministrazione deve essere utile e orientata al servizio, ma non puo sostituire la procedura con scorciatoie informali. La soluzione corretta e' accelerare cio che e' legittimamente accelerabile, chiarire i passaggi, evitare ritardi inutili e rispettare competenza, tracciabilita e imparzialita.
+No. L'amministrazione deve essere utile e orientata al servizio, ma non può sostituire la procedura con scorciatoie informali. La soluzione corretta è accelerare ciò che è legittimamente accelerabile, chiarire i passaggi, evitare ritardi inutili e rispettare competenza, tracciabilità e imparzialità.
 
 ## Da sapere in 5 righe
 
 1. Il caso pratico misura applicazione, non memoria libera.
 2. La traccia va scomposta in fatti, soggetti, competenza, regola, vincoli e output.
 3. La soluzione deve essere legittima, proporzionata, motivata e tracciabile.
-4. Privacy, trasparenza, accesso, termini e responsabilita sono vincoli ricorrenti.
+4. Privacy, trasparenza, accesso, termini e responsabilità sono vincoli ricorrenti.
 5. Il diario deve classificare gli errori per correggere il modo di ragionare.
 
 ## Fonti consolidate

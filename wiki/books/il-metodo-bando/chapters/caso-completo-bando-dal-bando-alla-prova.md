@@ -26,7 +26,7 @@ Finora hai visto il Metodo BANDO a pezzi.
 
 Hai imparato a leggere il bando, a distinguere aree e nuclei, a costruire un piano, a usare il Diario degli errori, a trasformare lo studio in output, a simulare, a tagliare, a ripassare e a proteggere il giorno della prova.
 
-Il rischio, adesso, e' pensare che questi strumenti siano separati.
+Il rischio, adesso, è pensare che questi strumenti siano separati.
 
 Non lo sono.
 
@@ -40,7 +40,7 @@ La simulazione non serve a dire se sei bravo o no.
 
 Tutto il sistema serve a una cosa sola: portarti da un bando reale a una prova eseguita con ordine.
 
-Questo capitolo e' un laboratorio. Useremo un bando fittizio ma realistico e seguiremo un candidato dall'apertura del file alla prova. Non dovrai ricordare nuove regole. Dovrai vedere il metodo in movimento.
+Questo capitolo è un laboratorio. Useremo un bando fittizio ma realistico e seguiremo un candidato dall'apertura del file alla prova. Non dovrai ricordare nuove regole. Dovrai vedere il metodo in movimento.
 
 ## Obiettivo del capitolo
 
@@ -48,23 +48,23 @@ Alla fine del capitolo saprai:
 
 - applicare il Metodo BANDO a un concorso concreto;
 - compilare un Bando Decoder senza perderti nei dettagli;
-- trasformare materie e prove in priorita settimanali;
+- trasformare materie e prove in priorità settimanali;
 - costruire un piano a 30 giorni realistico;
 - decidere che cosa studiare, che cosa allenare e che cosa lasciare;
 - usare il Diario degli errori per modificare il piano;
 - leggere una simulazione come dato operativo;
 - arrivare agli ultimi giorni con un fascicolo finale leggero;
-- chiudere il ciclo dopo la prova, senza disperdere cio che hai imparato.
+- chiudere il ciclo dopo la prova, senza disperdere ciò che hai imparato.
 
-La regola guida e':
+La regola guida è:
 
 > un metodo funziona solo se produce decisioni visibili.
 
 ## Il caso: Marta e il concorso amministrativo
 
-Marta lavora part-time e prepara concorsi amministrativi. Ha gia studiato diritto amministrativo di base, qualche nozione di pubblico impiego, un po' di trasparenza e una banca dati di quiz generica. Ha anche molti appunti, ma non sa piu quali siano davvero utili.
+Marta lavora part-time e prepara concorsi amministrativi. Ha già studiato diritto amministrativo di base, qualche nozione di pubblico impiego, un po' di trasparenza e una banca dati di quiz generica. Ha anche molti appunti, ma non sa più quali siano davvero utili.
 
-Trova un bando per un profilo amministrativo in un ente locale. Il bando e' fittizio: serve solo come esercizio.
+Trova un bando per un profilo amministrativo in un ente locale. Il bando è fittizio: serve solo come esercizio.
 
 La procedura prevede:
 
@@ -107,45 +107,45 @@ Marta compila il Bando Decoder in forma sintetica.
 | Rischio principale | sottovalutare enti locali e arrivare lenta sui quiz |
 | Prima decisione | costruire piano 30 giorni con simulazioni dalla seconda settimana |
 
-Questa tabella ha gia prodotto una scelta: Marta non studiera "tutto il diritto amministrativo". Studiera il nucleo amministrativo utile a quella prova, con attenzione al profilo ente locale.
+Questa tabella ha già prodotto una scelta: Marta non studierà "tutto il diritto amministrativo". Studierà il nucleo amministrativo utile a quella prova, con attenzione al profilo ente locale.
 
-**Errore evitato:** partire dal manuale piu grande solo per sentirsi al sicuro.
+**Errore evitato:** partire dal manuale più grande solo per sentirsi al sicuro.
 
 ## Fase A - Aree: dividere il concorso in blocchi governabili
 
-La lista delle materie del bando sembra piatta. Nel piano, invece, non puo restare piatta.
+La lista delle materie del bando sembra piatta. Nel piano, invece, non può restare piatta.
 
 Marta divide le aree in quattro gruppi.
 
 | Area | Funzione | Decisione |
 |---|---|---|
 | Core comune | materie che ricorrono in molti concorsi amministrativi | studiare e riutilizzare |
-| Profilo ente locale | contenuti specifici del concorso | priorita alta |
+| Profilo ente locale | contenuti specifici del concorso | priorità alta |
 | Strumenti di prova | logica, inglese, informatica | allenamento breve e costante |
-| Orale possibile | spiegazione dei concetti e collegamenti | preparazione leggera gia da subito |
+| Orale possibile | spiegazione dei concetti e collegamenti | preparazione leggera già da subito |
 
 Questa divisione impedisce un secondo errore: trattare informatica, enti locali e procedimento amministrativo come se avessero lo stesso peso.
 
 Non hanno lo stesso peso nel piano di Marta.
 
-Enti locali e quiz sono le due zone che possono farle perdere punti. Amministrativo generale e' una base da mantenere. Inglese e informatica vanno allenati, ma non devono divorare il calendario.
+Enti locali e quiz sono le due zone che possono farle perdere punti. Amministrativo generale è una base da mantenere. Inglese e informatica vanno allenati, ma non devono divorare il calendario.
 
-## Fase N - Nuclei: scegliere cio che deve restare disponibile
+## Fase N - Nuclei: scegliere ciò che deve restare disponibile
 
-Marta ora costruisce la lista dei nuclei. Non e' un programma completo. E' la lista dei concetti che devono diventare disponibili in prova.
+Marta ora costruisce la lista dei nuclei. Non è un programma completo. È la lista dei concetti che devono diventare disponibili in prova.
 
 | Area | Nuclei caldi | Output atteso |
 |---|---|---|
-| Amministrativo | procedimento, provvedimento, accesso, trasparenza, responsabilita | riconoscere definizioni, rispondere a quiz, spiegare all'orale |
-| Pubblico impiego | doveri, codice di comportamento, responsabilita, organizzazione | collegare regole e condotte |
+| Amministrativo | procedimento, provvedimento, accesso, trasparenza, responsabilità | riconoscere definizioni, rispondere a quiz, spiegare all'orale |
+| Pubblico impiego | doveri, codice di comportamento, responsabilità, organizzazione | collegare regole e condotte |
 | Enti locali | organi, competenze, atti, servizi, controlli | distinguere chi fa che cosa |
 | Privacy e trasparenza | accesso, pubblicazione, dati personali, bilanciamento | evitare risposte automatiche |
-| Informatica | file, PEC, identita digitale, sicurezza base | rispondere a quiz semplici |
+| Informatica | file, PEC, identità digitale, sicurezza base | rispondere a quiz semplici |
 | Logica | comprensione, esclusione alternative, tempo | non perdere minuti su quesiti bloccanti |
 
-La parola decisiva e' "disponibile".
+La parola decisiva è "disponibile".
 
-Un nucleo e' disponibile se Marta riesce a:
+Un nucleo è disponibile se Marta riesce a:
 
 - riconoscerlo in una domanda;
 - spiegarlo in poche righe;
@@ -153,7 +153,7 @@ Un nucleo e' disponibile se Marta riesce a:
 - usarlo in una risposta orale breve;
 - non confonderlo quando il tempo stringe.
 
-Studiare senza verificare disponibilita produce sicurezza apparente.
+Studiare senza verificare disponibilità produce sicurezza apparente.
 
 Il Metodo BANDO non chiede a Marta di "vedere" un argomento. Le chiede di produrre qualcosa con quell'argomento.
 
@@ -161,7 +161,7 @@ Il Metodo BANDO non chiede a Marta di "vedere" un argomento. Le chiede di produr
 
 Marta apre il Diario degli errori prima di fare molte prove.
 
-Questo sembra strano: molti candidati aprono il diario dopo avere sbagliato tanto. Il metodo lo apre prima, perche il diario non e' un registro di fallimenti. E' la cabina di regia.
+Questo sembra strano: molti candidati aprono il diario dopo avere sbagliato tanto. Il metodo lo apre prima, perché il diario non è un registro di fallimenti. È la cabina di regia.
 
 La prima pagina del diario contiene quattro colonne.
 
@@ -172,11 +172,11 @@ La prima pagina del diario contiene quattro colonne.
 | leggo troppo lentamente le domande | prova quiz | blocchi da 20 domande con timer | tre volte a settimana |
 | privacy e trasparenza mi sembrano uguali | materie comuni | tabella differenze | settimana 2 |
 
-Questa pagina vale piu di un riassunto di trenta pagine.
+Questa pagina vale più di un riassunto di trenta pagine.
 
-Perche?
+perché?
 
-Perche cambia il piano.
+perché cambia il piano.
 
 Se un errore non cambia il piano, resta memoria passiva.
 
@@ -195,9 +195,9 @@ Marta definisce quattro output.
 
 Il piano cambia tono.
 
-Non e' piu "lunedi amministrativo, martedi enti locali, mercoledi privacy".
+Non è più "lunedi amministrativo, martedi enti locali, mercoledi privacy".
 
-E' "che cosa devo essere capace di fare entro domenica?".
+È "che cosa devo essere capace di fare entro domenica?".
 
 Questa domanda rende il piano controllabile.
 
@@ -229,12 +229,12 @@ Output:
 
 ### Giorni 4-10: core comune e profilo
 
-Obiettivo: coprire i nuclei che hanno piu probabilita e piu riuso.
+Obiettivo: coprire i nuclei che hanno più probabilità e più riuso.
 
 Azioni:
 
 - amministrativo: procedimento, provvedimento, accesso;
-- pubblico impiego: doveri, responsabilita, organizzazione;
+- pubblico impiego: doveri, responsabilità, organizzazione;
 - enti locali: organi, competenze, atti;
 - 20 quiz al giorno su blocchi brevi;
 - due schede operative per ogni errore ricorrente;
@@ -315,7 +315,7 @@ Risultato:
 | Errori di lettura | 5 |
 | Domande saltate | 4 |
 | Tempo residuo | 2 minuti |
-| Materia piu debole | enti locali |
+| Materia più debole | enti locali |
 | Errore strategico | resta troppo sulle domande lunghe |
 
 Il candidato fragile legge solo il numero: 39.
@@ -324,13 +324,13 @@ Marta usa il metodo.
 
 La simulazione le dice:
 
-- enti locali resta priorita;
-- la conoscenza non e' l'unico problema;
+- enti locali resta priorità;
+- la conoscenza non è l'unico problema;
 - deve allenare salto e ritorno;
 - privacy/trasparenza richiede una scheda confronto;
-- il tempo e' quasi tutto consumato, quindi la prova va gestita in giri.
+- il tempo è quasi tutto consumato, quindi la prova va gestita in giri.
 
-La decisione per i successivi 5 giorni e':
+La decisione per i successivi 5 giorni è:
 
 | Problema | Azione |
 |---|---|
@@ -339,27 +339,27 @@ La decisione per i successivi 5 giorni e':
 | tempo scarso | primo giro domande sicure, secondo giro incerte, terzo giro residue |
 | privacy/trasparenza confuse | tabella accesso/pubblicazione/dato personale |
 
-Questo e' il punto centrale: una simulazione utile non produce umore. Produce decisioni.
+Questo è il punto centrale: una simulazione utile non produce umore. Produce decisioni.
 
 ## La matrice tengo, correggo, lascio
 
-Dopo la simulazione Marta non puo aumentare tutto.
+Dopo la simulazione Marta non può aumentare tutto.
 
 Usa una matrice.
 
 | Contenuto | Tengo vivo | Correggo | Lascio per ora |
 |---|---|---|---|
-| procedimento amministrativo | si | no | no |
-| enti locali organi | si | si | no |
-| inglese grammatica avanzata | no | no | si |
-| privacy/trasparenza | si | si | no |
-| teoria informatica troppo tecnica | no | no | si |
-| logica con quesiti lunghi | si | si | no |
-| manuale secondario | no | no | si |
+| procedimento amministrativo | sì | no | no |
+| enti locali organi | sì | si | no |
+| inglese grammatica avanzata | no | no | sì |
+| privacy/trasparenza | sì | si | no |
+| teoria informatica troppo tecnica | no | no | sì |
+| logica con quesiti lunghi | sì | si | no |
+| manuale secondario | no | no | sì |
 
-La colonna "lascio" non e' rinuncia.
+La colonna "lascio" non è rinuncia.
 
-E' protezione del piano.
+È protezione del piano.
 
 Senza questa colonna Marta aprirebbe nuovi fronti ogni volta che sente insicurezza.
 
@@ -418,11 +418,11 @@ Il metodo le fa fare una domanda:
 
 > questo nuovo materiale cambia davvero una decisione?
 
-La risposta e' no.
+La risposta è no.
 
 Quindi lo lascia fuori.
 
-Gli ultimi 7 giorni vengono divisi cosi:
+Gli ultimi 7 giorni vengono divisi così:
 
 | Giorno | Azione principale | Output |
 |---|---|---|
@@ -436,13 +436,13 @@ Gli ultimi 7 giorni vengono divisi cosi:
 
 Questo non garantisce il risultato.
 
-Ma riduce la probabilita di perdere punti per disordine.
+Ma riduce la probabilità di perdere punti per disordine.
 
 ## Giorno della prova: eseguire, non improvvisare
 
 Il giorno della prova Marta non deve inventare una strategia.
 
-La strategia e' gia stata provata.
+La strategia è già stata provata.
 
 Prima di uscire controlla:
 
@@ -476,52 +476,52 @@ La rende disponibile nel momento in cui serve.
 
 Finita la prova, Marta non sa ancora l'esito ufficiale.
 
-Pero puo gia salvare capitale di studio.
+però può già salvare capitale di studio.
 
 Compila una scheda post-prova a caldo.
 
 | Domanda | Risposta sintetica |
 |---|---|
-| Quali materie sono uscite di piu? | enti locali, amministrativo, trasparenza |
+| Quali materie sono uscite di più? | enti locali, amministrativo, trasparenza |
 | Quale errore ho evitato? | non mi sono bloccata sulle domande lunghe |
 | Quale errore resta? | qualche incertezza su competenze specifiche |
 | Che cosa riuso per altri concorsi? | schede enti locali, procedimento, strategia quiz |
 | Che cosa aggiorno entro 48 ore? | Diario e fascicolo nuclei |
-| Che cosa non decido oggi? | valore reale del risultato, finche non esce dato ufficiale |
+| Che cosa non decido oggi? | valore reale del risultato, finché non esce dato ufficiale |
 
-Questa chiusura e' importante.
+Questa chiusura è importante.
 
-Molti candidati escono dalla prova e buttano via il percorso: se e' andata male, per rabbia; se e' andata bene, per sollievo.
+Molti candidati escono dalla prova e buttano via il percorso: se è andata male, per rabbia; se è andata bene, per sollievo.
 
 Il Metodo BANDO fa il contrario.
 
 Ogni prova lascia dati.
 
-Ogni dato puo diventare capitale.
+Ogni dato può diventare capitale.
 
 ## Da sapere in 5 righe
 
 1. Il metodo non parte dai materiali: parte dal bando.
 2. Ogni fase BANDO deve produrre un artefatto concreto.
 3. Il piano va corretto con errori e simulazioni, non difeso per orgoglio.
-4. Il fascicolo finale deve ridurre rumore e aumentare disponibilita.
+4. Il fascicolo finale deve ridurre rumore e aumentare disponibilità.
 5. Dopo la prova il capitale di studio va salvato, non disperso.
 
-## Caso guidato: la decisione piu importante di Marta
+## Caso guidato: la decisione più importante di Marta
 
 A meta percorso Marta riceve da un gruppo online un file di 200 pagine.
 
-Il file sembra completo. Contiene schemi, quiz, appunti e commenti. Il primo impulso e' inserirlo nel piano.
+Il file sembra completo. Contiene schemi, quiz, appunti e commenti. Il primo impulso è inserirlo nel piano.
 
 Marta usa la griglia BANDO.
 
 | Domanda | Risposta |
 |---|---|
-| Bando: copre un punto che mi manca? | in parte, ma non e' fonte ufficiale |
-| Aree: riguarda una priorita alta? | solo alcune pagine su enti locali |
+| Bando: copre un punto che mi manca? | in parte, ma non è fonte ufficiale |
+| Aree: riguarda una priorità alta? | solo alcune pagine su enti locali |
 | Nuclei: risolve un nucleo debole? | forse organi e competenze |
-| Diario: corregge un errore registrato? | si, ma solo per una parte |
-| Output: mi aiuta in quiz o orale? | si, se estraggo una scheda |
+| Diario: corregge un errore registrato? | sì, ma solo per una parte |
+| Output: mi aiuta in quiz o orale? | sì, se estraggo una scheda |
 
 Decisione: non studia il file intero.
 
@@ -529,7 +529,7 @@ Estrae due pagine utili, verifica coerenza con il suo materiale principale e pro
 
 Il resto viene archiviato.
 
-Questa e' una decisione matura: usare una risorsa senza farsi usare dalla risorsa.
+Questa è una decisione matura: usare una risorsa senza farsi usare dalla risorsa.
 
 ## Domanda da commissario
 
@@ -545,7 +545,7 @@ Questa e' una decisione matura: usare una risorsa senza farsi usare dalla risors
 
 ## Errore tipico
 
-L'errore tipico e' usare il Metodo BANDO come archivio di schede.
+L'errore tipico è usare il Metodo BANDO come archivio di schede.
 
 Il candidato compila il Decoder, apre un diario, crea tabelle e poi continua a studiare come prima.
 
@@ -561,7 +561,7 @@ Un metodo funziona quando cambia una decisione:
 - quale output alleno;
 - quale rischio evito negli ultimi giorni.
 
-Se non cambia nessuna decisione, non e' metodo. E' burocrazia personale.
+Se non cambia nessuna decisione, non è metodo. È burocrazia personale.
 
 ## Mini-esercizio
 
@@ -583,7 +583,7 @@ Prendi un bando reale che stai valutando o preparando. Non serve completare tutt
 
 Scegli massimo 8 nuclei.
 
-| Nucleo | Perche conta | Output |
+| Nucleo | perché conta | Output |
 |---|---|---|
 | | | |
 | | | |
@@ -634,7 +634,7 @@ Prima di dire che stai usando davvero il Metodo BANDO, verifica:
 - ho una routine per il giorno della prova?
 - ho previsto una scheda post-prova?
 
-Se mancano troppi punti, non significa che il percorso e' fallito.
+Se mancano troppi punti, non significa che il percorso è fallito.
 
 Significa che il metodo ti sta mostrando dove rimettere ordine.
 
@@ -660,6 +660,6 @@ Significa che il metodo ti sta mostrando dove rimettere ordine.
 
 ## Note di review
 
-- Il bando usato nel capitolo e' fittizio e serve solo a mostrare l'applicazione del metodo; eventuali esempi reali richiedono verifica su fonti ufficiali della procedura specifica.
+- Il bando usato nel capitolo è fittizio e serve solo a mostrare l'applicazione del metodo; eventuali esempi reali richiedono verifica su fonti ufficiali della procedura specifica.
 - In impaginazione valutare se il capitolo debba diventare un laboratorio con pagine compilabili separate: Decoder ridotto, matrice nuclei, diario, dossier simulazione e scheda post-prova.
 - Coordinare in revisione finale con Appendice C, Appendice D e Capitoli 34, 38, 39 e 40 per evitare duplicazioni grafiche.

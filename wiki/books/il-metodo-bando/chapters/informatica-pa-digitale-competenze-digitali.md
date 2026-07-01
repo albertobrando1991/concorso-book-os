@@ -4,7 +4,7 @@ type: chapter
 title: "Informatica, PA digitale e competenze digitali"
 status: revised_draft
 domain: concorsi pubblici italiani
-topics: ["informatica", "competenze digitali", "office produttivita", "sistemi operativi e gestione file", "hardware e architettura pc", "internet web posta elettronica", "reti e protocolli", "sicurezza informatica", "database e sql", "programmazione e linguaggi", "pa digitale", "documento informatico firme pec", "open data interoperabilita cloud pa", "privacy e protezione dati"]
+topics: ["informatica", "competenze digitali", "office produttività", "sistemi operativi e gestione file", "hardware e architettura pc", "internet web posta elettronica", "reti e protocolli", "sicurezza informatica", "database e sql", "programmazione e linguaggi", "pa digitale", "documento informatico firme pec", "open data interoperabilità cloud pa", "privacy e protezione dati"]
 entities: ["SPID", "CIE", "CNS", "PEC", "CAD", "AgID", "ICDL", "LibreOffice", "PDND", "pagoPA", "FatturaPA", "ANPR", "NIS2", "GDPR", "SQL", "HTTP", "DNS", "TCP/IP", "firma digitale", "documento informatico", "open data", "cloud"]
 source_refs: ["sources/struttura-madre-il-metodo-bando.md", "sources/informatica-concorsi-corpus-fonti-ufficiali-2026-05-27.md", "sources/informatica-operativa-office-sistemi-hardware.md", "sources/reti-web-protocolli-concorsi.md", "sources/database-programmazione-formati-concorsi.md", "sources/pa-digitale-cad-identita-documenti-servizi-dati.md", "sources/sicurezza-informatica-privacy-nis2-pa.md"]
 book_refs: ["il-metodo-bando"]
@@ -191,12 +191,12 @@ Un **file** è un contenitore di dati identificato da un nome e, di solito, da u
 Esempio:
 
 ```text
-C:\Utenti\Mario\Documenti\relazione.docx
+C: \Utenti\Mario\Documenti\relazione.docx
 ```
 
 In questo percorso:
 
-- `C:` identifica l'unità;
+- `C: ` identifica l'unità;
 - `Utenti`, `Mario` e `Documenti` sono cartelle;
 - `relazione.docx` è il file;
 - `.docx` è l'estensione.
@@ -265,7 +265,7 @@ Le suite più note sono Microsoft Office, LibreOffice e soluzioni cloud. I progr
 | Database d'ufficio | Access, Base | gestire dati strutturati in tabelle, query, maschere e report |
 | Posta e calendario | Outlook, Thunderbird, webmail | gestire email, contatti, appuntamenti e messaggi |
 
-![Figura 10.3 - File, Office e dati strutturati: distinguere file system, produttivita personale e database.](../assets/chapter-10/03-file-office-dati.png)
+![Figura 10.3 - File, Office e dati strutturati: distinguere file system, produttività personale e database.](../assets/chapter-10/03-file-office-dati.png)
 
 ### Videoscrittura: Word e programmi equivalenti
 
@@ -309,9 +309,9 @@ Una **formula** è un'espressione inserita in una cella per calcolare un risulta
 |---|---|---|
 | Riferimento relativo | `A1` | cambia se copiato in altre celle |
 | Riferimento assoluto | `$A$1` | resta bloccato su colonna e riga |
-| Intervallo | `A1:A10` | insieme di celle |
+| Intervallo | `A1: A10` | insieme di celle |
 | Formula | `=A1+B1` | calcolo scritto dall'utente |
-| Funzione | `=SOMMA(A1:A10)` | calcolo predefinito |
+| Funzione | `=SOMMA(A1: A10)` | calcolo predefinito |
 
 > [!WARNING]
 > **Domanda-trappola**
@@ -370,7 +370,7 @@ Un **URL** individua una risorsa sul Web. Può contenere:
 Esempio:
 
 ```text
-https://www.comune.example.it/servizi/anagrafe
+https: //www.comune.example.it/servizi/anagrafe
 ```
 
 In un concorso, se una domanda chiede cosa indica `https`, la risposta corretta riguarda il protocollo di comunicazione sicura tra client e server, non il nome del sito.
@@ -746,7 +746,7 @@ Nel quadro della cittadinanza digitale, cittadini e imprese devono poter interag
 > **Da sapere**
 > La trasformazione digitale non elimina le garanzie amministrative. Le sposta dentro processi digitali: identificazione, protocollazione, tracciabilità, conservazione, accesso, trasparenza, sicurezza e responsabilità restano centrali.
 
-![Figura 10.6 - Ecosistema della PA digitale: CAD, identita, documenti, comunicazioni, pagamenti, dati e qualita dei servizi.](../assets/chapter-10/06-ecosistema-pa-digitale.png)
+![Figura 10.6 - Ecosistema della PA digitale: CAD, identità, documenti, comunicazioni, pagamenti, dati e qualità dei servizi.](../assets/chapter-10/06-ecosistema-pa-digitale.png)
 
 ### Responsabile per la transizione digitale
 

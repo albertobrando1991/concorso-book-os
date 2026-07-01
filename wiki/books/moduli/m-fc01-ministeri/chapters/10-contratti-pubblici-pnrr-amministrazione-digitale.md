@@ -4,16 +4,16 @@ type: book_chapter
 title: "Contratti pubblici, PNRR e amministrazione digitale"
 status: structure
 domain: "concorsi pubblici italiani"
-topics: ["contratti pubblici","pnrr","amministrazione digitale","cad"]
-entities: ["ANAC","AgID","Ministeri"]
-source_refs: ["sources/fonti-trasversali-m-fc01-piao-anac-agid.md","sources/d-lgs-31-marzo-2023-n-36-contratti-pubblici.md","sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024.md","sources/d-lgs-7-marzo-2005-n-82-amministrazione-digitale.md"]
-book_refs: ["m-fc01-ministeri","il-metodo-bando"]
+topics: ["contratti pubblici", "pnrr", "amministrazione digitale", "cad"]
+entities: ["ANAC", "AgID", "Ministeri"]
+source_refs: ["sources/fonti-trasversali-m-fc01-piao-anac-agid.md", "sources/d-lgs-31-marzo-2023-n-36-contratti-pubblici.md", "sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024.md", "sources/d-lgs-7-marzo-2005-n-82-amministrazione-digitale.md"]
+book_refs: ["m-fc01-ministeri", "il-metodo-bando"]
 confidence: 0.85
 updated_at: 2026-06-27T22:08:22+02:00
 created_at: 2026-06-27T22:08:22+02:00
 review_required: true
 canonical: true
-tags: ["book-chapter","module-code-m-fc01","structure"]
+tags: ["book-chapter", "module-code-m-fc01", "structure"]
 book_id: m-fc01-ministeri
 outline_section: 10
 draft_stage: source-ready

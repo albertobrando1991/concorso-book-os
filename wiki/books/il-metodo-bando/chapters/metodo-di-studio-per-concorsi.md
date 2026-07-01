@@ -4,20 +4,20 @@ type: chapter
 title: Metodo di studio per concorsi
 status: revised_draft
 domain: concorsi pubblici italiani
-topics: ["metodo di studio","active recall","ripetizione spaziata","piano 30 60 90 giorni","diario errori"]
-entities: ["Piano 30/60/90 giorni","Diario degli errori"]
-source_refs: ["sources/struttura-madre-il-metodo-bando.md","sources/metodo-bando-progetto-editoriale.md","sources/metodo-bando-capitolo-13-bozza-sito-2026-05-30.md","sources/apprendimento-efficace-active-recall-ripasso-distribuito.md","sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md"]
+topics: ["metodo di studio", "active recall", "ripetizione spaziata", "piano 30 60 90 giorni", "diario errori"]
+entities: ["Piano 30/60/90 giorni", "Diario degli errori"]
+source_refs: ["sources/struttura-madre-il-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/metodo-bando-capitolo-13-bozza-sito-2026-05-30.md", "sources/apprendimento-efficace-active-recall-ripasso-distribuito.md", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.9
 updated_at: "2026-06-03T20:30:07+02:00"
 created_at: "2026-05-10T11:45:00+02:00"
 review_required: true
 canonical: true
-tags: ["book-chapter","part-3"]
+tags: ["book-chapter", "part-3"]
 book_id: il-metodo-bando
 outline_section: 13
 draft_stage: revised-editorial-draft
-last_compiled_from: ["sources/struttura-madre-il-metodo-bando.md","sources/metodo-bando-capitolo-13-bozza-sito-2026-05-30.md","sources/apprendimento-efficace-active-recall-ripasso-distribuito.md","topics/metodo-di-studio.md","topics/piano-30-60-90-giorni.md","topics/diario-errori.md"]
+last_compiled_from: ["sources/struttura-madre-il-metodo-bando.md", "sources/metodo-bando-capitolo-13-bozza-sito-2026-05-30.md", "sources/apprendimento-efficace-active-recall-ripasso-distribuito.md", "topics/metodo-di-studio.md", "topics/piano-30-60-90-giorni.md", "topics/diario-errori.md"]
 ---
 
 # Capitolo 13 - Metodo di studio per concorsi
@@ -344,7 +344,7 @@ Il candidato maturo non recupera tutto. Recupera ciò che cambia il risultato.
 
 ## Caso guidato
 
-Sara prepara un concorso per istruttore amministrativo comunale. All'inizio studia diritto amministrativo dal primo capitolo del manuale, due ore al giorno. Dopo tre settimane ha sottolineato molto, ma nei quiz sbaglia accesso, procedimento e organi comunali.
+sarà prepara un concorso per istruttore amministrativo comunale. All'inizio studia diritto amministrativo dal primo capitolo del manuale, due ore al giorno. Dopo tre settimane ha sottolineato molto, ma nei quiz sbaglia accesso, procedimento e organi comunali.
 
 Con il Metodo BANDO riparte dal bando. Scopre che la prova è a quiz, con orale successivo, e che pesano molto diritto amministrativo, enti locali, pubblico impiego e trasparenza. Divide il programma in aree, sceglie nuclei ad alta resa, trasforma ogni capitolo in domande e apre un diario.
 
@@ -377,7 +377,7 @@ Scegli una materia del tuo bando e compila la griglia.
 
 | Area | Tre nuclei | Primo output | Errore da monitorare |
 |---|---|---|---|
-| | 1.  2.  3. | Quiz / risposta / orale / caso | |
+| | 1. 2. 3. | Quiz / risposta / orale / caso | |
 
 Poi trasforma uno dei tre nuclei in cinque domande. Se non riesci a formulare domande, significa che l'argomento è ancora troppo generico.
 

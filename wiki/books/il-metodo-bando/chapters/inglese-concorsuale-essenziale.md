@@ -858,7 +858,7 @@ Completa le frasi scegliendo la forma corretta.
 
 Soluzioni: 1 `opens`; 2 `sent`; 3 `bring`; 4 `will be`; 5 `since`; 6 `much`; 7 `who`; 8 `by`; 9 `any`; 10 `will be`.
 
-![Figura 11.7 - Piano di ripasso e diario errori: priorita, simulazione e correzione per categoria.](../assets/chapter-11/07-ripasso-diario-errori.png)
+![Figura 11.7 - Piano di ripasso e diario errori: priorità, simulazione e correzione per categoria.](../assets/chapter-11/07-ripasso-diario-errori.png)
 
 ## 18. Preparare inglese con poco tempo
 

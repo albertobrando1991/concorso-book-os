@@ -24,9 +24,9 @@ last_compiled_from: ["sources/capitoli-21-23-corpus-moduli-piano-diario-2026-06-
 
 Correggere non basta.
 
-Molti candidati fanno quiz, guardano il punteggio, leggono la risposta giusta e passano oltre. Dopo qualche giorno sbagliano di nuovo la stessa cosa: una negazione, un termine, un soggetto competente, una differenza tra istituti, una domanda letta di fretta. Il problema non e' l'errore. Il problema e' non usarlo.
+Molti candidati fanno quiz, guardano il punteggio, leggono la risposta giusta e passano oltre. Dopo qualche giorno sbagliano di nuovo la stessa cosa: una negazione, un termine, un soggetto competente, una differenza tra istituti, una domanda letta di fretta. Il problema non è l'errore. Il problema è non usarlo.
 
-Nel Metodo BANDO l'errore e' un dato. Dice dove il piano non sta funzionando, quale materia richiede ripasso, quale modulo e' fragile, quale strategia va cambiata e quale output deve essere allenato.
+Nel Metodo BANDO l'errore è un dato. Dice dove il piano non sta funzionando, quale materia richiede ripasso, quale modulo è fragile, quale strategia va cambiata e quale output deve essere allenato.
 
 Il diario degli errori serve a trasformare la correzione in decisione.
 
@@ -41,7 +41,7 @@ Alla fine del capitolo devi saper:
 - capire quando una materia sta peggiorando;
 - preparare gli ultimi giorni partendo dagli errori, non dall'umore.
 
-Il diario non e' una punizione. E' il cruscotto del candidato.
+Il diario non è una punizione. È il cruscotto del candidato.
 
 ## Mappa BANDO del diario
 
@@ -50,7 +50,7 @@ Il diario non e' una punizione. E' il cruscotto del candidato.
 | B - Bando | L'errore riguarda una materia o prova prevista? | Dai peso |
 | A - Aree | In quale area cade l'errore? | Raggruppa |
 | N - Nuclei | Quale concetto manca? | Seleziona ripasso |
-| D - Diario | Perche ho sbagliato? | Classifica causa |
+| D - Diario | perché ho sbagliato? | Classifica causa |
 | O - Output | Che cosa devo rifare? | Quiz, caso, orale, flashcard |
 
 Il diario collega studio e prova. Senza diario, il piano resta cieco.
@@ -68,7 +68,7 @@ Ogni errore deve entrare in una categoria. Se scrivi solo "sbagliato", non stai 
 | Lettura | Hai letto male domanda, negazione o eccezione | "Non rientra", "salvo", "eccetto" | Drill parole-spia |
 | Distrazione/tempo | Hai risposto troppo presto o sotto pressione | Hai saltato un dettaglio | Timer e doppio giro |
 | Strategia | Hai investito tempo nel punto sbagliato | 5 minuti su domanda a bassa resa | Regola di salto |
-| Ansia/tenuta | Hai perso ordine, lucidita o esposizione | Orale confuso, blocco in simulazione | Simulazione progressiva |
+| Ansia/tenuta | Hai perso ordine, lucidità o esposizione | Orale confuso, blocco in simulazione | Simulazione progressiva |
 
 La categoria decide il rimedio.
 
@@ -82,11 +82,11 @@ Dopo una batteria, una simulazione o un orale, registra gli errori principali en
 
 ### 2. Classifica
 
-Scrivi la categoria. Se un errore sembra appartenere a due categorie, scegli quella che produce l'azione piu utile.
+Scrivi la categoria. Se un errore sembra appartenere a due categorie, scegli quella che produce l'azione più utile.
 
 Esempio:
 
-- "Ho sbagliato perche non ricordavo la differenza tra accesso civico semplice e generalizzato."
+- "Ho sbagliato perché non ricordavo la differenza tra accesso civico semplice e generalizzato."
 - Categoria: concetto.
 - Azione: schema comparativo, non semplice flashcard.
 
@@ -96,7 +96,7 @@ Non limitarti a copiare la risposta. Scrivi la regola con parole tue.
 
 Formato:
 
-> La regola corretta e': ...
+> La regola corretta è: ...
 
 Se non riesci a scriverla, devi tornare alla fonte o al capitolo.
 
@@ -142,7 +142,7 @@ Segna:
 |---|---|---|---|---|---|---|---|---|
 | | Quiz / scritto / orale / caso | | | Memoria / concetto / lettura / tempo / strategia / ansia | | | | |
 
-La colonna piu importante e' "Prossima azione". Senza azione, il diario diventa archivio.
+La colonna più importante è "Prossima azione". Senza azione, il diario diventa archivio.
 
 ![Figura 23.4 - Scheda professionale del diario](../assets/chapter-23/04-scheda-diario-errori.png)
 
@@ -150,7 +150,7 @@ La colonna piu importante e' "Prossima azione". Senza azione, il diario diventa 
 
 Dopo ogni batteria, non registrare tutte le domande. Registra gli errori che insegnano qualcosa.
 
-Priorita:
+priorità:
 
 1. errori su materie ad alta resa;
 2. errori ripetuti;
@@ -159,11 +159,11 @@ Priorita:
 5. errori su modulo integrativo;
 6. domande giuste ma risposte con incertezza.
 
-Anche una risposta corretta puo entrare nel diario se l'hai indovinata. Il concorso non premia la fortuna ripetuta.
+Anche una risposta corretta può entrare nel diario se l'hai indovinata. Il concorso non premia la fortuna ripetuta.
 
 ## Come usare il diario nello scritto
 
-Nello scritto l'errore non e' solo contenuto. Puo riguardare struttura, ordine, esempi, proporzione, linguaggio e gestione del tempo.
+Nello scritto l'errore non è solo contenuto. può riguardare struttura, ordine, esempi, proporzione, linguaggio e gestione del tempo.
 
 Categorie utili:
 
@@ -179,7 +179,7 @@ Il diario deve conservare anche le scalette sbagliate. Spesso il problema nasce 
 
 ## Come usare il diario all'orale
 
-All'orale gli errori piu frequenti sono:
+All'orale gli errori più frequenti sono:
 
 - partire senza definizione;
 - saltare i passaggi;
@@ -199,7 +199,7 @@ La "prossima risposta" deve essere una versione migliorata in 5-7 righe. Non ser
 
 ## Come usare il diario nei casi pratici
 
-Nei casi pratici l'errore puo essere:
+Nei casi pratici l'errore può essere:
 
 - non individuare il problema;
 - scegliere l'atto sbagliato;
@@ -212,12 +212,12 @@ Schema di correzione:
 
 | Passaggio | Domanda |
 |---|---|
-| Fatti | Che cosa e' successo? |
+| Fatti | Che cosa è successo? |
 | Regola | Quale norma/istituto rileva? |
 | Competenza | Chi deve agire? |
 | Limite | Quali vincoli ci sono? |
 | Decisione | Che cosa propongo? |
-| Motivazione | Perche e' corretto? |
+| Motivazione | perché è corretto? |
 
 Se sbagli sempre lo stesso passaggio, quello diventa il tuo drill.
 
@@ -241,14 +241,14 @@ Esempi:
 |---|---|
 | Confondo accesso civico semplice e generalizzato | Quando uso accesso civico semplice e quando generalizzato? |
 | Dimentico organi del Comune | Quali funzioni essenziali hanno Consiglio, Giunta e dirigente/responsabile? |
-| Sbaglio termini | Qual e' il termine ordinario del procedimento amministrativo se non previsto diversamente? |
+| Sbaglio termini | qual è il termine ordinario del procedimento amministrativo se non previsto diversamente? |
 | Leggo male negazioni | Quali parole-spia devo cerchiare prima di rispondere? |
 
 Non trasformare ogni pagina in flashcard. Trasforma gli errori ad alta resa.
 
 ## Quando una materia peggiora
 
-Puo succedere che una materia peggiori anche se la stai studiando. Il diario lo mostra prima del panico.
+può succedere che una materia peggiori anche se la stai studiando. Il diario lo mostra prima del panico.
 
 Segnali:
 
@@ -283,18 +283,18 @@ Il diario corregge il piano. Ogni settimana chiediti:
 | Domanda | Decisione |
 |---|---|
 | Quale errore si ripete? | Aggiungi drill |
-| Quale materia e' stabile? | Riduci tempo |
+| Quale materia è stabile? | Riduci tempo |
 | Quale modulo resta fragile? | Aumenta output |
-| Quale prova crea piu ansia? | Simula prima |
-| Quale contenuto non rende? | Taglia o abbassa profondita |
+| Quale prova crea più ansia? | Simula prima |
+| Quale contenuto non rende? | Taglia o abbassa profondità |
 
 Il piano senza diario diventa rigido. Il diario senza piano diventa confuso. Devono lavorare insieme.
 
 ## Da sapere in 5 righe
 
-1. L'errore e' utile solo se produce una prossima azione.
+1. L'errore è utile solo se produce una prossima azione.
 2. Devi classificare la causa, non solo segnare la risposta giusta.
-3. Gli errori ricorrenti valgono piu degli errori isolati.
+3. Gli errori ricorrenti valgono più degli errori isolati.
 4. Flashcard, ripasso e simulazioni devono nascere dagli errori reali.
 5. Il diario serve a cambiare il piano prima che sia troppo tardi.
 
@@ -316,21 +316,21 @@ Decisione:
 - silenzio: flashcard e 10 quiz mirati;
 - negazioni: cerchiare parole-spia;
 - tempo: simulazione a due giri;
-- dettagli isolati: non priorita.
+- dettagli isolati: non priorità.
 
-Marta non deve "studiare tutto di piu". Deve correggere i pattern.
+Marta non deve "studiare tutto di più". Deve correggere i pattern.
 
 ![Figura 23.7 - Caso Marta: leggere i pattern](../assets/chapter-23/07-caso-marta-pattern-errori.png)
 
 ## Domanda da commissario
 
-**Perche il diario degli errori e' piu utile della semplice correzione della risposta?**
+**perché il diario degli errori è più utile della semplice correzione della risposta?**
 
-Perche identifica la causa dell'errore e produce una decisione di studio. La risposta corretta dice che cosa era giusto; il diario dice che cosa devi fare dopo.
+perché identifica la causa dell'errore e produce una decisione di studio. La risposta corretta dice che cosa era giusto; il diario dice che cosa devi fare dopo.
 
 ## Domanda-trappola
 
-**Se sbaglio per distrazione, non serve studiare: basta stare piu attento?**
+**Se sbaglio per distrazione, non serve studiare: basta stare più attento?**
 
 No. Anche la distrazione va allenata. Se leggi male negazioni, eccezioni o dati, devi introdurre una procedura: cerchiare parole-spia, leggere due volte la consegna, usare il doppio giro, controllare prima di confermare.
 
@@ -351,7 +351,7 @@ Prendi gli ultimi 10 errori fatti e compila:
 | 9 | | | | |
 | 10 | | | | |
 
-Poi conta le categorie. La categoria piu frequente diventa il tuo prossimo blocco di lavoro.
+Poi conta le categorie. La categoria più frequente diventa il tuo prossimo blocco di lavoro.
 
 ## Errori tipici
 

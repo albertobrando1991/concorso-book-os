@@ -30,13 +30,13 @@ Serve a entrare in un ruolo pubblico.
 
 Questa frase sembra ovvia, ma molti candidati arrivano alla fine del percorso con una preparazione fortissima sulle prove e una preparazione debole sul passaggio successivo: comunicazioni, documenti, presa di servizio, ufficio, codice di comportamento, rapporto con colleghi e utenti, apprendimento dei procedimenti.
 
-Il rischio e' pensare che il metodo finisca con la graduatoria.
+Il rischio è pensare che il metodo finisca con la graduatoria.
 
 Non finisce li.
 
-Finisce quando sai trasformare cio che hai studiato in comportamento professionale: leggere un atto, rispettare una scadenza, chiedere chiarimenti nel modo giusto, proteggere dati, riconoscere un conflitto di interessi, usare strumenti dell'ufficio per finalita di servizio, capire chi decide e chi esegue, imparare senza improvvisare.
+Finisce quando sai trasformare ciò che hai studiato in comportamento professionale: leggere un atto, rispettare una scadenza, chiedere chiarimenti nel modo giusto, proteggere dati, riconoscere un conflitto di interessi, usare strumenti dell'ufficio per finalità di servizio, capire chi decide e chi esegue, imparare senza improvvisare.
 
-Questo capitolo non e' una guida contrattuale. Non sostituisce bando, comunicazioni dell'ente, CCNL, ufficio personale o supporto qualificato. E' una guida di metodo per arrivare al primo giorno in PA con ordine.
+Questo capitolo non è una guida contrattuale. Non sostituisce bando, comunicazioni dell'ente, CCNL, ufficio personale o supporto qualificato. È una guida di metodo per arrivare al primo giorno in PA con ordine.
 
 ## Obiettivo del capitolo
 
@@ -45,18 +45,18 @@ Alla fine del capitolo saprai:
 - distinguere graduatoria, chiamata, accettazione, contratto e presa di servizio;
 - organizzare la cartella documentale di ingresso;
 - leggere profilo, area, comparto e ufficio senza confonderli;
-- capire perche il CCNL applicabile va verificato sul comparto e sull'amministrazione;
+- capire perché il CCNL applicabile va verificato sul comparto e sull'amministrazione;
 - usare il codice di comportamento come bussola pratica;
 - impostare i primi 30 giorni in ufficio;
 - trasformare il capitale di studio in capitale professionale;
 - fare domande precise al responsabile o all'ufficio personale;
 - evitare gli errori tipici del neoassunto pubblico.
 
-La regola e' questa:
+La regola è questa:
 
 > dopo il concorso non devi cambiare metodo. Devi cambiare output.
 
-Prima l'output era una risposta corretta. Ora e' un comportamento affidabile dentro un ufficio pubblico.
+Prima l'output era una risposta corretta. Ora è un comportamento affidabile dentro un ufficio pubblico.
 
 ## Mappa BANDO della presa di servizio
 
@@ -78,22 +78,22 @@ La stessa catena usata per studiare serve per entrare in servizio.
 
 Non usare una parola sola per tutto.
 
-Nel passaggio dal concorso al lavoro pubblico possono comparire atti e momenti diversi. La sequenza concreta dipende dalla procedura e dall'amministrazione, ma la distinzione concettuale e' utile.
+Nel passaggio dal concorso al lavoro pubblico possono comparire atti e momenti diversi. La sequenza concreta dipende dalla procedura e dall'amministrazione, ma la distinzione concettuale è utile.
 
 | Momento | Cosa indica | Attenzione |
 |---|---|---|
 | Graduatoria | ordine dei candidati secondo esito della procedura | non coincide sempre con assunzione immediata |
 | Chiamata o comunicazione | invito o istruzione dell'amministrazione | va letta integralmente, con termini e documenti richiesti |
-| Accettazione o riscontro | risposta del candidato secondo le modalita indicate | non improvvisare canali o formule |
+| Accettazione o riscontro | risposta del candidato secondo le modalità indicate | non improvvisare canali o formule |
 | Documentazione | dichiarazioni, certificazioni o dati richiesti | conservare copie e ricevute |
 | Contratto o atto di instaurazione | fase di avvio del rapporto, secondo regole applicabili | verificare contenuto e riferimenti ufficiali |
 | Presa di servizio | ingresso operativo secondo data, sede e istruzioni | preparare logistica, documenti, contatti e prime domande |
 
 Questa tabella non sostituisce la comunicazione dell'ente. Serve a evitare confusione.
 
-La domanda corretta non e': "Sono in graduatoria, quindi che succede?".
+La domanda corretta non è: "Sono in graduatoria, quindi che succede?".
 
-La domanda corretta e': "Quale atto ufficiale mi dice il prossimo passo, entro quale termine e con quali documenti?".
+La domanda corretta è: "Quale atto ufficiale mi dice il prossimo passo, entro quale termine e con quali documenti?".
 
 | Momento | Rischio tipico | Comportamento metodico |
 |---|---|---|
@@ -109,7 +109,7 @@ Il passaggio al ruolo funziona se ogni fase ha un compito preciso. Non mescolare
 
 | Fase | Cosa fare | Cosa non fare |
 |---|---|---|
-| Comunicazione ricevuta | leggere integralmente, segnare termini, canale, documenti, contatti | rispondere a caldo senza aver capito cosa e' richiesto |
+| Comunicazione ricevuta | leggere integralmente, segnare termini, canale, documenti, contatti | rispondere a caldo senza aver capito cosa è richiesto |
 | 0-48 ore | creare cartella ingresso, elenco documenti, domande per ufficio personale | chiedere a chat o forum regole che valgono solo per il tuo ente |
 | Entro termine indicato | inviare risconto e documenti sul canale ufficiale, salvare ricevute | usare canali informali se il bando o l'avviso ne indicano altri |
 | Prima del primo giorno | verificare sede, orario, profilo, CCNL da controllare, codice di comportamento | studiare istituti contrattuali generici senza fonte dell'ente |
@@ -118,9 +118,9 @@ Il passaggio al ruolo funziona se ogni fase ha un compito preciso. Non mescolare
 Regola operativa:
 
 - alla **comunicazione** rispondi con metodo, non con impulso;
-- entro il **termine ufficiale** consegni cio che e' richiesto e conservi prove;
+- entro il **termine ufficiale** consegni ciò che è richiesto e conservi prove;
 - **prima del primo giorno** sai dove andare, con chi parlare e cosa non fare;
-- nei **primi 30 giorni** impari l'organizzazione prima di cercare velocita.
+- nei **primi 30 giorni** impari l'organizzazione prima di cercare velocità.
 
 ## La cartella di ingresso
 
@@ -140,7 +140,7 @@ Prepara una cartella con:
 - documenti richiesti;
 - eventuali dichiarazioni rese;
 - riferimenti dell'ufficio personale o del responsabile;
-- indicazioni su sede, data, orario e modalita di presa di servizio;
+- indicazioni su sede, data, orario e modalità di presa di servizio;
 - CCNL o riferimento contrattuale indicato;
 - codice di comportamento generale e, se disponibile, codice integrativo dell'ente;
 - appunti sui primi giorni.
@@ -155,11 +155,11 @@ Usa nomi semplici:
 | Sede | 2026-ente-profilo-presa-servizio-sede-orario.pdf |
 | Appunti | 2026-ente-profilo-diario-ingresso.md |
 
-L'ordine documentale e' gia un comportamento professionale.
+L'ordine documentale è già un comportamento professionale.
 
 ## Registro comunicazioni di ingresso
 
-Quando la procedura di assunzione e' in corso, le comunicazioni possono moltiplicarsi: integrazioni documentali, date, sedi, referenti, istruzioni su contratto o presa di servizio.
+Quando la procedura di assunzione è in corso, le comunicazioni possono moltiplicarsi: integrazioni documentali, date, sedi, referenti, istruzioni su contratto o presa di servizio.
 
 Tieni un registro operativo, non un diario emotivo.
 
@@ -172,22 +172,22 @@ Tieni un registro operativo, non un diario emotivo.
 Frequenza consigliata:
 
 - **fase attiva** (documenti o date in sospeso): controllo fonti 2-3 volte a settimana, finestra da 15 minuti (protocollo R1);
-- **attesa presa di servizio** (data gia fissata): controllo 1 volta a settimana per eventuali aggiornamenti;
+- **attesa presa di servizio** (data già fissata): controllo 1 volta a settimana per eventuali aggiornamenti;
 - **dopo il primo giorno**: archivia la cartella ingresso e passa al diario dei primi 30 giorni.
 
 Non chiamare ogni giorno l'ufficio personale per ansia: prepara domande precise e rispetta i canali indicati.
 
 ## Da candidato a dipendente pubblico
 
-Il passaggio piu importante non e' amministrativo. E' mentale.
+Il passaggio più importante non è amministrativo. È mentale.
 
-Il candidato cerca la risposta giusta. Il dipendente pubblico deve produrre un'attivita corretta, tracciabile, utile e coerente con il servizio.
+Il candidato cerca la risposta giusta. Il dipendente pubblico deve produrre un'attività corretta, tracciabile, utile e coerente con il servizio.
 
 | Da candidato | A dipendente |
 |---|---|
 | studio per superare una prova | apprendo per svolgere una funzione |
 | leggo il bando | leggo atti, procedure, regolamenti e istruzioni |
-| cerco punteggio | cerco qualita, correttezza e risultato |
+| cerco punteggio | cerco qualità, correttezza e risultato |
 | difendo il mio tempo | rispetto tempi dell'ufficio e degli utenti |
 | accumulo nozioni | trasformo conoscenza in azioni |
 | rispondo da solo | lavoro dentro una catena organizzativa |
@@ -195,7 +195,7 @@ Il candidato cerca la risposta giusta. Il dipendente pubblico deve produrre un'a
 
 Questo non significa perdere autonomia. Significa capire dove sei entrato.
 
-La PA non e' un'aula d'esame. E' un'organizzazione che tratta interessi, dati, risorse, procedimenti e persone.
+La PA non è un'aula d'esame. È un'organizzazione che tratta interessi, dati, risorse, procedimenti e persone.
 
 ## Profilo, area, comparto, ufficio
 
@@ -206,29 +206,29 @@ Quando entri in servizio devi leggere quattro livelli.
 | Livello | Domanda |
 |---|---|
 | Profilo | per quale ruolo sono stato selezionato? |
-| Area o famiglia professionale | quale livello di competenze e responsabilita e' atteso? |
+| Area o famiglia professionale | quale livello di competenze e responsabilità è atteso? |
 | Comparto o CCNL | quale disciplina contrattuale di riferimento si applica? |
-| Ufficio o servizio | quali attivita concrete svolge la struttura? |
+| Ufficio o servizio | quali attività concrete svolge la struttura? |
 
 Non confondere questi livelli.
 
-Il profilo del bando ti dice per che cosa hai concorso. Il CCNL e il comparto aiutano a inquadrare il rapporto. L'ufficio ti mostra il lavoro reale: pratiche, utenti, applicativi, flussi documentali, responsabilita, tempi.
+Il profilo del bando ti dice per che cosa hai concorso. Il CCNL e il comparto aiutano a inquadrare il rapporto. L'ufficio ti mostra il lavoro reale: pratiche, utenti, applicativi, flussi documentali, responsabilità, tempi.
 
 Per trattamento economico, orario, ferie, permessi, periodo di prova, sedi, lavoro agile, progressioni e istituti concreti non usare formule generiche. Verifica sempre comunicazioni dell'ente, CCNL applicabile, regolamenti interni e ufficio personale.
 
 ## Il codice di comportamento come bussola
 
-![Figura 31.5 - Codice di comportamento come bussola pratica per servizio, imparzialita, riservatezza e uso degli strumenti.](../assets/chapter-31/05-codice-comportamento-bussola.png)
+![Figura 31.5 - Codice di comportamento come bussola pratica per servizio, imparzialità, riservatezza e uso degli strumenti.](../assets/chapter-31/05-codice-comportamento-bussola.png)
 
-Il codice di comportamento non e' un capitolo da ricordare solo per i quiz.
+Il codice di comportamento non è un capitolo da ricordare solo per i quiz.
 
-E' una bussola per il primo giorno.
+È una bussola per il primo giorno.
 
-Ti dice che il ruolo pubblico richiede diligenza, lealta, imparzialita, riservatezza, correttezza, cura delle risorse, attenzione ai conflitti di interessi e rapporti adeguati con il pubblico.
+Ti dice che il ruolo pubblico richiede diligenza, lealta, imparzialità, riservatezza, correttezza, cura delle risorse, attenzione ai conflitti di interessi e rapporti adeguati con il pubblico.
 
 Usalo con questa domanda:
 
-> questa azione e' compatibile con il servizio, con l'imparzialita e con la fiducia nell'amministrazione?
+> questa azione è compatibile con il servizio, con l'imparzialità e con la fiducia nell'amministrazione?
 
 Esempi:
 
@@ -236,8 +236,8 @@ Esempi:
 |---|---|
 | mi chiedono informazioni su una pratica | ho titolo e ragione di servizio per consultarla? |
 | conosco personalmente un utente | devo segnalare un possibile conflitto o astenermi? |
-| uso PC, email o telefono dell'ufficio | l'uso e' coerente con finalita di servizio? |
-| ricevo un regalo o una utilita | puo compromettere imparzialita o apparenza di imparzialita? |
+| uso PC, email o telefono dell'ufficio | l'uso è coerente con finalità di servizio? |
+| ricevo un regalo o una utilità | può compromettere imparzialità o apparenza di imparzialità? |
 | pubblico online contenuti sul lavoro | rispetto riservatezza, immagine dell'ente e regole interne? |
 | non so come procedere | chiedo al responsabile prima di improvvisare? |
 
@@ -245,7 +245,7 @@ Il neoassunto serio non dimostra valore facendo tutto subito. Dimostra valore ev
 
 ## I primi 30 giorni
 
-![Figura 31.6 - Primi 30 giorni in PA: orientamento, osservazione dei flussi, attivita controllate e autonomia progressiva.](../assets/chapter-31/06-primi-30-giorni-pa.png)
+![Figura 31.6 - Primi 30 giorni in PA: orientamento, osservazione dei flussi, attività controllate e autonomia progressiva.](../assets/chapter-31/06-primi-30-giorni-pa.png)
 
 Nei primi 30 giorni non devi sapere tutto. Devi imparare nel modo giusto.
 
@@ -255,10 +255,10 @@ Dividi il primo mese in quattro blocchi.
 |---|---|---|
 | Giorni 1-3 | orientamento minimo | sede, responsabile, orari, strumenti, credenziali, regole di base |
 | Giorni 4-10 | osservazione dei flussi | mappa di procedimenti, applicativi, documenti e scadenze |
-| Giorni 11-20 | prime attivita controllate | compiti semplici, verifica con colleghi, correzione errori |
+| Giorni 11-20 | prime attività controllate | compiti semplici, verifica con colleghi, correzione errori |
 | Giorni 21-30 | autonomia progressiva | checklist personale e piano di apprendimento |
 
-Il tuo obiettivo non e' sembrare esperto. E' diventare affidabile.
+Il tuo obiettivo non è sembrare esperto. È diventare affidabile.
 
 Affidabile significa:
 
@@ -277,8 +277,8 @@ Compila questa scheda nei primi giorni.
 
 | Domanda | Risposta |
 |---|---|
-| Qual e' il nome dell'ufficio o servizio? | |
-| Chi e' il responsabile diretto? | |
+| qual è il nome dell'ufficio o servizio? | |
+| Chi è il responsabile diretto? | |
 | Quali sono i procedimenti principali? | |
 | Quali utenti interni o esterni serviamo? | |
 | Quali applicativi si usano? | |
@@ -300,12 +300,12 @@ Il neoassunto metodico chiede meglio.
 
 | Domanda generica | Domanda utile |
 |---|---|
-| Che devo fare? | Qual e' il risultato atteso di questa attivita? |
-| Come si fa? | Esiste una procedura, un modello o un esempio gia validato? |
-| A chi chiedo? | Chi e' il referente per questo flusso? |
-| Entro quando? | Qual e' la scadenza interna e qual e' la scadenza esterna? |
+| Che devo fare? | qual è il risultato atteso di questa attività? |
+| Come si fa? | Esiste una procedura, un modello o un esempio già validato? |
+| A chi chiedo? | Chi è il referente per questo flusso? |
+| Entro quando? | qual è la scadenza interna e qual è la scadenza esterna? |
 | Posso aprire questa pratica? | Ho ragione di servizio e autorizzazione per accedere? |
-| Va bene cosi? | Quale controllo devo fare prima di inviare o protocollare? |
+| Va bene così? | Quale controllo devo fare prima di inviare o protocollare? |
 
 Le domande precise fanno risparmiare tempo a tutti.
 
@@ -313,17 +313,17 @@ Le domande precise fanno risparmiare tempo a tutti.
 
 ![Figura 31.7 - Da capitale di studio a capitale professionale: trasformare nozioni in lettura di atti, dati, ruoli e rischi.](../assets/chapter-31/07-capitale-studio-professionale.png)
 
-Tutto quello che hai studiato puo servirti, ma non nello stesso formato.
+Tutto quello che hai studiato può servirti, ma non nello stesso formato.
 
 | Capitale di studio | Capitale professionale |
 |---|---|
 | diritto amministrativo | leggere atti, procedimenti, competenze e termini |
-| pubblico impiego | capire ruolo, doveri, responsabilita e organizzazione |
+| pubblico impiego | capire ruolo, doveri, responsabilità e organizzazione |
 | trasparenza e privacy | trattare dati e pubblicazioni con prudenza |
 | anticorruzione | riconoscere conflitti, rischi e misure di prevenzione |
 | PA digitale | usare documenti, PEC, protocollo, firme e applicativi |
-| contabilita | comprendere impegni, pagamenti, bilancio e vincoli |
-| contratti pubblici | orientarsi in acquisti, CIG, procedure e responsabilita |
+| contabilità | comprendere impegni, pagamenti, bilancio e vincoli |
+| contratti pubblici | orientarsi in acquisti, CIG, procedure e responsabilità |
 | inglese/logica | leggere testi, istruzioni, dashboard e documentazione |
 
 Il Metodo BANDO ti ha insegnato a non studiare tutto allo stesso modo. Ora ti insegna a non imparare il lavoro in modo casuale.
@@ -331,28 +331,28 @@ Il Metodo BANDO ti ha insegnato a non studiare tutto allo stesso modo. Ora ti in
 Ogni volta che incontri una procedura, chiediti:
 
 - quale fonte la regola?
-- chi e' responsabile?
+- chi è responsabile?
 - quale documento entra?
 - quale documento esce?
 - quale controllo serve?
 - quale rischio devo evitare?
 - quale risultato atteso produce?
 
-Questa e' la stessa logica dei casi pratici, applicata all'ufficio.
+Questa è la stessa logica dei casi pratici, applicata all'ufficio.
 
 ## Errori tipici del primo periodo
 
-Il primo errore e' voler dimostrare competenza improvvisando.
+Il primo errore è voler dimostrare competenza improvvisando.
 
-Nel lavoro pubblico l'improvvisazione puo produrre errori su dati, atti, scadenze e responsabilita. Meglio chiedere una volta in piu che creare un problema documentale.
+Nel lavoro pubblico l'improvvisazione può produrre errori su dati, atti, scadenze e responsabilità. Meglio chiedere una volta in più che creare un problema documentale.
 
-Il secondo errore e' trattare gli strumenti dell'ufficio come strumenti personali. Email, banche dati, cartelle, applicativi e documenti servono a finalita di servizio. Non si consultano pratiche per curiosita, non si condividono informazioni fuori dai canali corretti, non si usano risorse pubbliche per comodita privata.
+Il secondo errore è trattare gli strumenti dell'ufficio come strumenti personali. Email, banche dati, cartelle, applicativi e documenti servono a finalità di servizio. Non si consultano pratiche per curiosità, non si condividono informazioni fuori dai canali corretti, non si usano risorse pubbliche per comodità privata.
 
-Il terzo errore e' confondere informalita e fiducia. Un ufficio puo essere collaborativo e cordiale, ma resta un'organizzazione pubblica. Le decisioni rilevanti devono restare tracciabili e coerenti con procedure e ruoli.
+Il terzo errore è confondere informalita e fiducia. Un ufficio può essere collaborativo e cordiale, ma resta un'organizzazione pubblica. Le decisioni rilevanti devono restare tracciabili e coerenti con procedure e ruoli.
 
 ## Caso guidato
 
-Marta ha superato un concorso per profilo amministrativo in un ente locale. Riceve la comunicazione dell'ufficio personale con data di presa di servizio e documenti richiesti. E' felice, ma anche disorientata: non sa se rispondere subito con una email breve, se chiamare il responsabile, se preparare altri certificati, se rileggere il manuale di pubblico impiego.
+Marta ha superato un concorso per profilo amministrativo in un ente locale. Riceve la comunicazione dell'ufficio personale con data di presa di servizio e documenti richiesti. È felice, ma anche disorientata: non sa se rispondere subito con una email breve, se chiamare il responsabile, se preparare altri certificati, se rileggere il manuale di pubblico impiego.
 
 Applica il Metodo BANDO.
 
@@ -366,14 +366,14 @@ Prima del primo giorno rilegge tre nuclei:
 
 Nei primi giorni non cerca di mostrarsi brillante. Compila la scheda ufficio:
 
-- chi e' il responsabile;
+- chi è il responsabile;
 - quali procedimenti segue il servizio;
 - quali applicativi si usano;
 - quali dati si trattano;
 - quali scadenze sono sensibili;
-- quali modelli sono gia validati.
+- quali modelli sono già validati.
 
-Quando riceve la prima attivita, non chiede solo "come faccio?". Chiede: "qual e' il modello corretto?", "quale controllo devo fare?", "chi valida prima dell'invio?".
+Quando riceve la prima attività, non chiede solo "come faccio?". Chiede: "qual è il modello corretto?", "quale controllo devo fare?", "chi valida prima dell'invio?".
 
 Marta non ha ancora esperienza. Ma ha metodo. E questo riduce il rischio di errori.
 
@@ -381,27 +381,27 @@ Marta non ha ancora esperienza. Ma ha metodo. E questo riduce il rischio di erro
 
 1. Graduatoria, chiamata, contratto e presa di servizio sono momenti diversi: segui sempre atti e comunicazioni ufficiali.
 2. Il CCNL applicabile dipende da comparto, area, profilo e amministrazione: non usare regole generiche.
-3. Il codice di comportamento e' una bussola pratica per imparzialita, riservatezza, conflitti e uso degli strumenti.
+3. Il codice di comportamento è una bussola pratica per imparzialità, riservatezza, conflitti e uso degli strumenti.
 4. Nei primi 30 giorni devi diventare affidabile prima che veloce.
 5. Il capitale di studio diventa capitale professionale quando ti aiuta a leggere atti, ruoli, procedimenti, dati e rischi.
 
 ## Domanda da commissario
 
-**Domanda:** Perche l'accesso tramite concorso non esaurisce il tema del pubblico impiego?
+**Domanda:** perché l'accesso tramite concorso non esaurisce il tema del pubblico impiego?
 
-**Risposta efficace:** perche il concorso e' la modalita ordinaria di selezione, collegata a imparzialita e buon andamento, ma dopo l'accesso si instaura un rapporto di lavoro pubblico inserito in una organizzazione amministrativa. Il dipendente opera secondo profilo, ufficio, CCNL applicabile, doveri di servizio, codice di comportamento, responsabilita e obiettivi dell'amministrazione. Il concorso seleziona; il ruolo richiede comportamento professionale e rispetto delle regole del lavoro pubblico.
+**Risposta efficace:** perché il concorso è la modalità ordinaria di selezione, collegata a imparzialità e buon andamento, ma dopo l'accesso si instaura un rapporto di lavoro pubblico inserito in una organizzazione amministrativa. Il dipendente opera secondo profilo, ufficio, CCNL applicabile, doveri di servizio, codice di comportamento, responsabilità e obiettivi dell'amministrazione. Il concorso seleziona; il ruolo richiede comportamento professionale e rispetto delle regole del lavoro pubblico.
 
 ## Domanda-trappola
 
-**Domanda:** Una volta assunto, il dipendente puo usare le banche dati dell'ufficio per consultare informazioni che lo interessano, se non le diffonde?
+**Domanda:** Una volta assunto, il dipendente può usare le banche dati dell'ufficio per consultare informazioni che lo interessano, se non le diffonde?
 
-**Risposta:** no. L'accesso a dati, pratiche e sistemi informativi deve essere collegato a ragioni di servizio e alle autorizzazioni previste. Anche una consultazione senza diffusione puo essere impropria se manca la finalita istituzionale. Il criterio non e' "non lo dico a nessuno", ma "ho titolo e ragione di servizio per farlo?".
+**Risposta:** no. L'accesso a dati, pratiche e sistemi informativi deve essere collegato a ragioni di servizio e alle autorizzazioni previste. Anche una consultazione senza diffusione può essere impropria se manca la finalità istituzionale. Il criterio non è "non lo dico a nessuno", ma "ho titolo e ragione di servizio per farlo?".
 
 ## Errore tipico
 
-L'errore tipico e' pensare: "Ho vinto, quindi adesso devo solo imparare il lavoro sul campo".
+L'errore tipico è pensare: "Ho vinto, quindi adesso devo solo imparare il lavoro sul campo".
 
-Il lavoro sul campo e' essenziale, ma senza metodo produce apprendimento casuale. Nei primi giorni devi osservare, chiedere, annotare, verificare fonti, capire ruoli e proteggere dati. L'esperienza diventa competenza solo se viene organizzata.
+Il lavoro sul campo è essenziale, ma senza metodo produce apprendimento casuale. Nei primi giorni devi osservare, chiedere, annotare, verificare fonti, capire ruoli e proteggere dati. L'esperienza diventa competenza solo se viene organizzata.
 
 ## Mini-esercizio
 
@@ -413,10 +413,10 @@ Completa la tabella.
 | Un collega ti chiede di consultare una pratica senza spiegare la ragione. | | |
 | Un utente che conosci personalmente ti chiede informazioni sulla propria pratica. | | |
 | Devi usare un applicativo che non conosci. | | |
-| Ti assegnano un'attivita con scadenza non chiara. | | |
+| Ti assegnano un'attività con scadenza non chiara. | | |
 | Trovi un modello vecchio usato da un collega. | | |
 
-Traccia di correzione: per ogni riga devi indicare fonte o referente, ragione di servizio, tracciabilita, controllo, scadenza e comportamento prudente.
+Traccia di correzione: per ogni riga devi indicare fonte o referente, ragione di servizio, tracciabilità, controllo, scadenza e comportamento prudente.
 
 ## Checklist di ingresso nella PA
 
@@ -426,7 +426,7 @@ Prima del primo giorno, verifica:
 - ho rispettato termini e canali indicati;
 - ho salvato copie e ricevute;
 - ho preparato i documenti richiesti;
-- conosco sede, orario, referente e modalita di ingresso;
+- conosco sede, orario, referente e modalità di ingresso;
 - so quale profilo e area riguardano il mio ruolo;
 - ho individuato il CCNL o il comparto da verificare;
 - ho riletto codice di comportamento e doveri essenziali;
@@ -440,7 +440,7 @@ Dopo i primi 30 giorni, verifica:
 - so quali dati tratto e con quali cautele;
 - so quali scadenze sono sensibili;
 - conosco modelli, applicativi e referenti;
-- ho capito quali attivita posso svolgere in autonomia e quali richiedono controllo;
+- ho capito quali attività posso svolgere in autonomia e quali richiedono controllo;
 - ho registrato dubbi ricorrenti e risposte verificate;
 - ho individuato i miei primi gap formativi;
 - ho evitato accessi, invii o decisioni improvvisate;
@@ -457,15 +457,15 @@ Compila questa scheda quando ricevi una comunicazione utile o prima del primo gi
 | Quale atto o comunicazione definisce il prossimo passo? | |
 | Entro quale termine devo rispondere o consegnare documenti? | |
 | Su quale canale ufficiale devo inviare risconti? | |
-| Quali documenti sono richiesti e quali ho gia pronti? | |
-| Chi e' il referente (ufficio personale, responsabile)? | |
+| Quali documenti sono richiesti e quali ho già pronti? | |
+| Chi è il referente (ufficio personale, responsabile)? | |
 | Data, sede e orario di presa di servizio? | |
 | Profilo, area e CCNL o comparto da verificare? | |
 | Tre doveri del codice di comportamento da rileggere subito? | |
 | Tre domande intelligenti da fare il primo giorno? | |
 | Quale rischio voglio evitare nei primi 30 giorni? | |
 
-La scheda e' utile solo se produce un'azione concreta: riscontro inviato, cartella ordinata, domande scritte, primo giorno preparato.
+La scheda è utile solo se produce un'azione concreta: riscontro inviato, cartella ordinata, domande scritte, primo giorno preparato.
 
 ## Cinque dati minimi prima del primo giorno
 
@@ -473,7 +473,7 @@ Prima di entrare in ufficio verifica di avere almeno questi cinque dati, ciascun
 
 1. **Atto o comunicazione** che fissa il passo successivo (non solo voce in graduatoria).
 2. **Termine e canale** per riscontri e documenti (PEC, portale, modulo, sportello).
-3. **Luogo e modalita** di ingresso (sede, orario, referente, eventuali credenziali).
+3. **Luogo e modalità** di ingresso (sede, orario, referente, eventuali credenziali).
 4. **Profilo e comparto** da incrociare con CCNL e organigramma dell'ente.
 5. **Primo referente operativo** (responsabile diretto o tutor di ingresso).
 
@@ -481,22 +481,22 @@ Se manca anche uno solo, non improvvisare: chiedi all'ufficio personale con doma
 
 ## Chiusura operativa
 
-L'ingresso in PA e' chiuso metodologicamente quando hai trasformato l'esito del concorso in comportamento professionale verificabile, non quando hai solo firmato un documento.
+L'ingresso in PA è chiuso metodologicamente quando hai trasformato l'esito del concorso in comportamento professionale verificabile, non quando hai solo firmato un documento.
 
 | Azione | Fatto |
 |---|---|
 | Ho distinto graduatoria, chiamata, documenti, contratto e presa di servizio | |
 | Ho applicato il protocollo ingresso senza risposte a caldo | |
-| La cartella di ingresso e' ordinata e con ricevute | |
+| La cartella di ingresso è ordinata e con ricevute | |
 | Ho compilato la scheda workbook ingresso in 30 minuti | |
-| Il registro comunicazioni e' attivo se la procedura e' ancora aperta | |
+| Il registro comunicazioni è attivo se la procedura è ancora aperta | |
 | Conosco i cinque dati minimi prima del primo giorno | |
 | Ho riletto codice di comportamento e riservatezza (Cap. 6) | |
 | Ho preparato scheda ufficio e domande intelligenti | |
-| Il piano primi 30 giorni e' scritto (affidabilita prima di velocita) | |
+| Il piano primi 30 giorni è scritto (affidabilità prima di velocità) | |
 | Ho collegato capitale di studio (R2) a procedimenti reali dell'ufficio | |
 
-Il Metodo BANDO non termina con la graduatoria. Termina quando sai entrare in servizio con ordine, prudenza e capacita di imparare senza errori evitabili.
+Il Metodo BANDO non termina con la graduatoria. Termina quando sai entrare in servizio con ordine, prudenza e capacità di imparare senza errori evitabili.
 
 ## Riferimenti consolidati
 
@@ -515,7 +515,7 @@ Il Metodo BANDO non termina con la graduatoria. Termina quando sai entrare in se
 
 ## Note di review
 
-- La struttura madre originaria non prevedeva il Capitolo 31. Questo capitolo e' un'estensione editoriale: in revisione decidere se mantenerlo numerato o trasformarlo in chiusura del libro.
+- La struttura madre originaria non prevedeva il Capitolo 31. Questo capitolo è un'estensione editoriale: in revisione decidere se mantenerlo numerato o trasformarlo in chiusura del libro.
 - Le parti su assunzione, contratto, periodo di prova, sedi, orario, trattamento economico, ferie, permessi e istituti contrattuali devono essere verificate su bando, comunicazioni ufficiali, CCNL applicabile e atti dell'amministrazione.
 - Il capitolo non offre consulenza sul singolo rapporto di lavoro. Mantiene taglio metodologico e rinvia a ufficio personale, fonti ufficiali e supporto qualificato quando necessario.
 - Scheda workbook "Ingresso in PA in 30 minuti", registro comunicazioni e protocollo ingresso inseriti nel capitolo; in impaginazione valutare estrazione come PDF compilabile autonomo.

@@ -24,17 +24,17 @@ last_compiled_from: ["sources/collegare-materie-risposta-integrata-metodo-bando.
 
 Nei concorsi pubblici le materie sembrano separate.
 
-Diritto amministrativo da una parte. Pubblico impiego da un'altra. Trasparenza, digitale, contabilita, contratti, inglese, logica e profilo professionale in caselle diverse.
+Diritto amministrativo da una parte. Pubblico impiego da un'altra. Trasparenza, digitale, contabilità, contratti, inglese, logica e profilo professionale in caselle diverse.
 
 Poi arriva la prova.
 
-La domanda non rispetta sempre quelle caselle. Un caso pratico puo partire da un procedimento e arrivare a responsabilita, accesso, trasparenza, dati, competenza, ufficio, tempi e decisione. Una domanda orale puo iniziare con una definizione e finire con: "Mi faccia un collegamento con l'organizzazione dell'ente". Una risposta scritta puo essere corretta ma povera perche resta chiusa dentro una sola materia.
+La domanda non rispetta sempre quelle caselle. Un caso pratico può partire da un procedimento e arrivare a responsabilità, accesso, trasparenza, dati, competenza, ufficio, tempi e decisione. Una domanda orale può iniziare con una definizione e finire con: "Mi faccia un collegamento con l'organizzazione dell'ente". Una risposta scritta può essere corretta ma povera perché resta chiusa dentro una sola materia.
 
-Il punto non e' collegare tutto.
+Il punto non è collegare tutto.
 
-Il punto e' collegare bene.
+Il punto è collegare bene.
 
-La regola del capitolo e':
+La regola del capitolo è:
 
 > un collegamento vale solo se ti riporta alla domanda.
 
@@ -47,13 +47,13 @@ Alla fine del capitolo saprai:
 - scegliere uno o due ponti pertinenti tra materie;
 - usare collegamenti nello scritto senza perdere sintesi;
 - usare collegamenti all'orale senza improvvisare;
-- leggere un caso pratico come intreccio di soggetti, fasi, documenti e responsabilita;
+- leggere un caso pratico come intreccio di soggetti, fasi, documenti e responsabilità;
 - costruire schede operative con il campo "ponti utili";
 - registrare nel Diario degli errori i collegamenti mancati o eccessivi.
 
-Questo capitolo completa il lavoro dei capitoli precedenti: prima hai imparato a scrivere poco, poi a distinguere istituti simili. Ora impari a mettere in relazione cio che sai.
+Questo capitolo completa il lavoro dei capitoli precedenti: prima hai imparato a scrivere poco, poi a distinguere istituti simili. Ora impari a mettere in relazione ciò che sai.
 
-## Perche i collegamenti fanno punti
+## Perché i collegamenti fanno punti
 
 Una commissione non cerca solo nozioni isolate.
 
@@ -67,22 +67,22 @@ Una risposta che collega bene mostra tre cose:
 
 Esempio semplice.
 
-Se ti chiedono un istituto di diritto amministrativo, puoi rispondere solo con una definizione. Oppure puoi spiegare anche chi lo usa, in quale fase del procedimento, quale documento produce, quali limiti incontra e perche interessa il cittadino o l'ufficio.
+Se ti chiedono un istituto di diritto amministrativo, puoi rispondere solo con una definizione. Oppure puoi spiegare anche chi lo usa, in quale fase del procedimento, quale documento produce, quali limiti incontra e perché interessa il cittadino o l'ufficio.
 
-La seconda risposta non e' piu lunga per forza.
+La seconda risposta non è più lunga per forza.
 
-E' piu matura.
+È più matura.
 
-Attenzione pero: collegare non significa fare una conferenza su tutto il programma. Il collegamento vale se aiuta a rispondere meglio alla domanda posta.
+Attenzione però: collegare non significa fare una conferenza su tutto il programma. Il collegamento vale se aiuta a rispondere meglio alla domanda posta.
 
 ## Collegamento utile e divagazione
 
-La differenza e' questa:
+La differenza è questa:
 
 | Situazione | Che cosa fa | Effetto |
 |---|---|---|
 | Collegamento utile | Parte dal tema, aggiunge un ponte pertinente, torna alla domanda. | Rafforza la risposta. |
-| Divagazione | Parte dal tema, apre una materia vicina, non torna piu indietro. | Disperde la risposta. |
+| Divagazione | Parte dal tema, apre una materia vicina, non torna più indietro. | Disperde la risposta. |
 | Elenco di materie | Nomina molte parole senza spiegare il rapporto. | Sembra preparazione fragile. |
 | Collegamento inventato | Cita norme, articoli o effetti non sicuri. | Aumenta il rischio di errore. |
 
@@ -90,13 +90,13 @@ Il collegamento utile ha sempre un ritorno.
 
 Frasi di ritorno:
 
-- "Questo collegamento rileva perche...";
-- "Ai fini della domanda, il punto e'...";
+- "Questo collegamento rileva perché...";
+- "Ai fini della domanda, il punto è...";
 - "Quindi l'istituto non va visto solo come definizione, ma come...";
 - "Per questo, nella prova pratica, devo verificare anche...";
 - "Torno al tema: il collegamento serve a chiarire che...".
 
-Se non sai dire perche il collegamento serve, probabilmente non serve.
+Se non sai dire perché il collegamento serve, probabilmente non serve.
 
 ## Mappa BANDO del collegamento
 
@@ -110,22 +110,22 @@ Nel bando i collegamenti si vedono in tre punti:
 
 Se il programma mette insieme diritto amministrativo, trasparenza, digitale e pubblico impiego, il candidato non deve studiarli come stanze separate. Deve chiedersi dove si incontrano.
 
-Se il profilo e' amministrativo, contabile, tecnico, vigilanza, digitale o servizi al cittadino, alcuni collegamenti diventano piu probabili.
+Se il profilo è amministrativo, contabile, tecnico, vigilanza, digitale o servizi al cittadino, alcuni collegamenti diventano più probabili.
 
-Se la prova e' orale o teorico-pratica, il collegamento diventa quasi inevitabile.
+Se la prova è orale o teorico-pratica, il collegamento diventa quasi inevitabile.
 
 ### Aree
 
 Le aree non sono capitoli chiusi. Sono campi che si toccano:
 
-- attivita amministrativa;
+- attività amministrativa;
 - organizzazione degli uffici;
 - rapporto di lavoro pubblico;
 - trasparenza e privacy;
 - digitale e documenti;
-- contabilita e risorse;
+- contabilità e risorse;
 - contratti e acquisti;
-- responsabilita e controlli;
+- responsabilità e controlli;
 - rapporto con cittadini, imprese e utenti.
 
 ### Nuclei
@@ -138,10 +138,10 @@ Per collegare senza disperderti, usa pochi nuclei:
 - documento;
 - dato;
 - controllo;
-- responsabilita;
+- responsabilità;
 - profilo.
 
-Questi nuclei sono piu stabili dei dettagli.
+Questi nuclei sono più stabili dei dettagli.
 
 ### Diario
 
@@ -151,9 +151,9 @@ Il Diario degli errori deve registrare tre tipi di problema:
 - collego troppo: apro troppe materie;
 - collego male: il ponte non c'entra con la domanda.
 
-La correzione non e': "studiare tutto meglio".
+La correzione non è: "studiare tutto meglio".
 
-La correzione e': "preparare due ponti utili per questo argomento".
+La correzione è: "preparare due ponti utili per questo argomento".
 
 ### Output
 
@@ -166,7 +166,7 @@ Il collegamento deve produrre output:
 - una domanda di simulazione;
 - una voce nel Diario degli errori.
 
-Se resta solo nella testa, non e' ancora allenato.
+Se resta solo nella testa, non è ancora allenato.
 
 ## I sette ponti sicuri
 
@@ -182,10 +182,10 @@ Il ponte di funzione evita risposte definitorie e fredde.
 
 Esempio:
 
-- non solo "che cos'e'";
+- non solo "che cos'è";
 - ma "a quale esigenza amministrativa risponde".
 
-Funzione significa utilita istituzionale: ordinare, controllare, garantire, semplificare, selezionare, autorizzare, pubblicare, motivare, responsabilizzare.
+Funzione significa utilità istituzionale: ordinare, controllare, garantire, semplificare, selezionare, autorizzare, pubblicare, motivare, responsabilizzare.
 
 ### 2. Ponte di soggetto
 
@@ -195,9 +195,9 @@ Domanda guida:
 
 Questo ponte collega la materia all'organizzazione.
 
-Molti errori nascono perche il candidato conosce la regola, ma non sa chi la usa.
+Molti errori nascono perché il candidato conosce la regola, ma non sa chi la usa.
 
-Nel caso pratico il soggetto e' spesso la chiave: ufficio, dirigente, responsabile, dipendente, cittadino, impresa, organo politico, organo tecnico, controllore.
+Nel caso pratico il soggetto è spesso la chiave: ufficio, dirigente, responsabile, dipendente, cittadino, impresa, organo politico, organo tecnico, controllore.
 
 ### 3. Ponte di fase
 
@@ -207,7 +207,7 @@ Domanda guida:
 
 Prima? Durante? Dopo? In istruttoria? Nella decisione? Nel controllo? Nell'esecuzione?
 
-Il ponte di fase e' molto utile nei casi pratici e nelle procedure.
+Il ponte di fase è molto utile nei casi pratici e nelle procedure.
 
 Se non sai collocare un istituto nel tempo, rischi di usarlo al momento sbagliato.
 
@@ -231,7 +231,7 @@ Molte materie diventano concrete quando producono documenti:
 - fascicolo;
 - attestazione.
 
-Il documento collega diritto, digitale, trasparenza, archiviazione e responsabilita.
+Il documento collega diritto, digitale, trasparenza, archiviazione e responsabilità.
 
 ### 5. Ponte di dato
 
@@ -241,7 +241,7 @@ Domanda guida:
 
 Questo ponte serve quando entrano in gioco trasparenza, privacy, digitale, accesso, pubblicazione, fascicoli, banche dati, protocolli e comunicazioni.
 
-Non devi diventare specialista di ogni sistema. Devi capire che l'amministrazione lavora anche con dati e che i dati hanno regole, limiti e finalita.
+Non devi diventare specialista di ogni sistema. Devi capire che l'amministrazione lavora anche con dati e che i dati hanno regole, limiti e finalità.
 
 ### 6. Ponte di controllo
 
@@ -249,7 +249,7 @@ Domanda guida:
 
 > Chi verifica che l'azione sia corretta?
 
-Il controllo collega legalita, trasparenza, performance, responsabilita, contabilita e organizzazione.
+Il controllo collega legalità, trasparenza, performance, responsabilità, contabilità e organizzazione.
 
 Una risposta matura non dice solo "l'amministrazione fa". Dice anche:
 
@@ -261,9 +261,9 @@ Una risposta matura non dice solo "l'amministrazione fa". Dice anche:
 
 Domanda guida:
 
-> Perche questo tema interessa il profilo del concorso?
+> perché questo tema interessa il profilo del concorso?
 
-Questo ponte e' decisivo nel Metodo BANDO.
+Questo ponte è decisivo nel Metodo BANDO.
 
 Lo stesso argomento non pesa allo stesso modo per tutti:
 
@@ -281,15 +281,15 @@ Per non perderti usa questa formula:
 
 1. **Centro:** rispondo alla domanda principale.
 2. **Ponte:** collego a una materia o funzione pertinente.
-3. **Ritorno:** spiego perche il ponte rafforza la risposta.
+3. **Ritorno:** spiego perché il ponte rafforza la risposta.
 
 Esempio di struttura:
 
-> "Il tema centrale e' X. Questo si collega a Y perche nella pratica amministrativa incide su Z. Ai fini della domanda, quindi, X non va visto solo come definizione, ma come strumento che produce questo effetto."
+> "Il tema centrale è X. Questo si collega a Y perché nella pratica amministrativa incide su Z. Ai fini della domanda, quindi, X non va visto solo come definizione, ma come strumento che produce questo effetto."
 
 La formula funziona nello scritto e all'orale.
 
-La parte piu importante e' il ritorno.
+La parte più importante è il ritorno.
 
 Senza ritorno, il ponte resta sospeso.
 
@@ -319,7 +319,7 @@ Schema:
 1. inquadramento;
 2. nucleo principale;
 3. ponte di soggetto o fase;
-4. ponte di documento, controllo o responsabilita;
+4. ponte di documento, controllo o responsabilità;
 5. chiusura.
 
 ### Risposta da 30 righe
@@ -339,17 +339,17 @@ In ogni formato resta una regola: il collegamento non deve mangiare la risposta.
 
 ## Come collegare all'orale
 
-All'orale il collegamento serve a dare profondita, ma va dosato.
+All'orale il collegamento serve a dare profondità, ma va dosato.
 
 Tre frasi ponte utili:
 
 - "Questo tema si collega anche a...";
-- "Nella pratica dell'ente, il collegamento principale e'...";
-- "Se lo guardo dal punto di vista del profilo, rileva perche...".
+- "Nella pratica dell'ente, il collegamento principale è...";
+- "Se lo guardo dal punto di vista del profilo, rileva perché...".
 
 Tre frasi di controllo:
 
-- "Resto pero sul punto della domanda...";
+- "Resto però sul punto della domanda...";
 - "Il collegamento serve a chiarire...";
 - "Quindi, tornando al tema principale...".
 
@@ -364,9 +364,9 @@ Risposta orale breve:
 
 ## Come collegare nel caso pratico
 
-Il caso pratico e' il luogo naturale dei collegamenti.
+Il caso pratico è il luogo naturale dei collegamenti.
 
-Non devi chiederti solo: "Che materia e'?".
+Non devi chiederti solo: "Che materia è?".
 
 Devi chiederti:
 
@@ -374,8 +374,8 @@ Devi chiederti:
 - quale fase del procedimento emerge?
 - quale documento serve?
 - quali dati o informazioni circolano?
-- quale controllo e' possibile?
-- quale responsabilita puo nascere?
+- quale controllo è possibile?
+- quale responsabilità può nascere?
 - quale soluzione risponde al caso?
 
 Queste domande trasformano il caso in una mappa di azione.
@@ -384,19 +384,19 @@ Non sempre userai tutte le risposte. Ma ti aiutano a non vedere il caso come un 
 
 ## Scheda operativa: argomento + ponti utili
 
-Per ogni argomento importante prepara una scheda cosi:
+Per ogni argomento importante prepara una scheda così:
 
 | Campo | Domanda | Compilazione |
 |---|---|---|
-| Argomento centrale | Qual e' il tema? |  |
-| Funzione | A che cosa serve? |  |
-| Soggetto | Chi agisce o controlla? |  |
-| Fase | Quando entra? |  |
-| Documento o dato | Che traccia produce? |  |
-| Controllo o responsabilita | Che limite o conseguenza ha? |  |
-| Profilo | Perche interessa il mio concorso? |  |
-| Frase ponte | Come lo collego in 15 secondi? |  |
-| Errore da evitare | Quale collegamento e' fuori tema? |  |
+| Argomento centrale | qual è il tema? | |
+| Funzione | A che cosa serve? | |
+| Soggetto | Chi agisce o controlla? | |
+| Fase | Quando entra? | |
+| Documento o dato | Che traccia produce? | |
+| Controllo o responsabilità | Che limite o conseguenza ha? | |
+| Profilo | perché interessa il mio concorso? | |
+| Frase ponte | Come lo collego in 15 secondi? | |
+| Errore da evitare | Quale collegamento è fuori tema? | |
 
 Questa scheda non sostituisce lo studio.
 
@@ -406,19 +406,19 @@ Lo rende utilizzabile.
 
 Marta sta preparando un orale per un profilo amministrativo.
 
-Studia un argomento e prova a rispondere cosi:
+Studia un argomento e prova a rispondere così:
 
-> "Questo tema e' importante. Si collega alla trasparenza, alla privacy, al digitale, al pubblico impiego, alla responsabilita, ai contratti e alla contabilita."
+> "Questo tema è importante. Si collega alla trasparenza, alla privacy, al digitale, al pubblico impiego, alla responsabilità, ai contratti e alla contabilità."
 
-La risposta sembra ricca, ma e' debole.
+La risposta sembra ricca, ma è debole.
 
-Perche?
+perché?
 
-Perche nomina materie, non costruisce collegamenti.
+perché nomina materie, non costruisce collegamenti.
 
 Marta corregge con la formula Centro - Ponte - Ritorno:
 
-> "Il centro della risposta e' la funzione dell'istituto nel procedimento. Il collegamento piu utile e' con l'organizzazione dell'ufficio, perche occorre capire chi cura l'istruttoria e chi adotta l'atto. Un secondo ponte e' con il documento prodotto: se l'attivita genera un atto o una comunicazione, entrano in gioco tracciabilita, conservazione e accessibilita. Torno quindi alla domanda: l'istituto non va visto solo come definizione, ma come passaggio operativo che collega regola, ufficio e risultato."
+> "Il centro della risposta è la funzione dell'istituto nel procedimento. Il collegamento più utile è con l'organizzazione dell'ufficio, perché occorre capire chi cura l'istruttoria e chi adotta l'atto. Un secondo ponte è con il documento prodotto: se l'attività genera un atto o una comunicazione, entrano in gioco tracciabilità, conservazione e accessibilità. Torno quindi alla domanda: l'istituto non va visto solo come definizione, ma come passaggio operativo che collega regola, ufficio e risultato."
 
 La seconda risposta non dice tutto.
 
@@ -430,19 +430,19 @@ Dice meglio.
 
 Risposta guidata:
 
-> "Partirei dal tema principale, cioe dalla funzione dell'istituto. Nel funzionamento concreto di un'amministrazione il primo collegamento e' con il soggetto competente: occorre capire quale ufficio interviene e con quale responsabilita. Il secondo collegamento e' con la fase del procedimento o con il documento prodotto, perche e' li che la regola diventa attivita amministrativa. Quindi il punto non e' solo conoscere la definizione, ma saperla collocare nel lavoro dell'ente."
+> "Partirei dal tema principale, cioè dalla funzione dell'istituto. Nel funzionamento concreto di un'amministrazione il primo collegamento è con il soggetto competente: occorre capire quale ufficio interviene e con quale responsabilità. Il secondo collegamento è con la fase del procedimento o con il documento prodotto, perché è li che la regola diventa attività amministrativa. Quindi il punto non è solo conoscere la definizione, ma saperla collocare nel lavoro dell'ente."
 
-Questa risposta e' volutamente generale.
+Questa risposta è volutamente generale.
 
 In simulazione devi sostituire "questo istituto" con il tema reale e scegliere un esempio coerente.
 
 ## Domanda-trappola
 
-> "Piu collegamenti faccio, piu dimostro preparazione."
+> "più collegamenti faccio, più dimostro preparazione."
 
 Falso.
 
-Piu collegamenti fai senza selezione, piu aumenti il rischio di dispersione.
+più collegamenti fai senza selezione, più aumenti il rischio di dispersione.
 
 La preparazione si vede quando scegli il collegamento giusto, non quando apri tutte le porte.
 
@@ -451,13 +451,13 @@ In una risposta concorsuale spesso bastano due ponti:
 - uno di funzione;
 - uno di applicazione.
 
-Il resto puo restare nella tua mappa di studio.
+Il resto può restare nella tua mappa di studio.
 
 ## Errore tipico
 
-L'errore piu comune e' il collegamento per associazione.
+L'errore più comune è il collegamento per associazione.
 
-Funziona cosi:
+Funziona così:
 
 1. la domanda nomina un tema;
 2. quel tema ti ricorda una parola;
@@ -465,11 +465,11 @@ Funziona cosi:
 4. inizi a parlare di quella materia;
 5. perdi la domanda.
 
-Il rimedio e' una domanda di controllo:
+Il rimedio è una domanda di controllo:
 
-> Questo collegamento risponde alla traccia o dimostra solo che mi e' venuta in mente un'altra cosa?
+> Questo collegamento risponde alla traccia o dimostra solo che mi è venuta in mente un'altra cosa?
 
-Se la risposta e' la seconda, taglia.
+Se la risposta è la seconda, taglia.
 
 ## Mini-esercizio
 
@@ -477,9 +477,9 @@ Scegli un argomento che stai studiando.
 
 Compila questa griglia:
 
-| Argomento | Ponte 1 | Perche serve | Ponte 2 | Perche serve | Frase di ritorno |
+| Argomento | Ponte 1 | perché serve | Ponte 2 | perché serve | Frase di ritorno |
 |---|---|---|---|---|---|
-|  |  |  |  |  |  |
+| | | | | | |
 
 Poi trasformala in tre versioni:
 
@@ -487,11 +487,11 @@ Poi trasformala in tre versioni:
 2. risposta orale da 60 secondi;
 3. domanda-trappola da inserire nel Diario degli errori.
 
-Se non riesci a scrivere la frase di ritorno, il collegamento non e' ancora pronto.
+Se non riesci a scrivere la frase di ritorno, il collegamento non è ancora pronto.
 
 ## Da sapere in 5 righe
 
-Collegare le materie non significa parlare di tutto. Significa scegliere ponti pertinenti tra argomento, funzione, soggetti, fasi, documenti, dati, controlli, responsabilita e profilo. Ogni collegamento deve partire dalla domanda e tornarci. Nello scritto bastano pochi ponti; all'orale servono frasi di transizione; nel caso pratico i collegamenti nascono dai fatti. Il Diario degli errori deve registrare collegamenti mancati, eccessivi o fuori tema.
+Collegare le materie non significa parlare di tutto. Significa scegliere ponti pertinenti tra argomento, funzione, soggetti, fasi, documenti, dati, controlli, responsabilità e profilo. Ogni collegamento deve partire dalla domanda e tornarci. Nello scritto bastano pochi ponti; all'orale servono frasi di transizione; nel caso pratico i collegamenti nascono dai fatti. Il Diario degli errori deve registrare collegamenti mancati, eccessivi o fuori tema.
 
 ## Riferimenti consolidati
 
@@ -517,4 +517,4 @@ Collegare le materie non significa parlare di tutto. Significa scegliere ponti p
 
 - Prima della pubblicazione finale, verificare se inserire esempi specifici per profilo amministrativo, contabile, tecnico, digitale e vigilanza.
 - Gli esempi normativi puntuali devono restare agganciati ai capitoli di materia e alle source note ufficiali.
-- Il capitolo e' metodologico: non sostituisce i capitoli sostanziali del manuale.
+- Il capitolo è metodologico: non sostituisce i capitoli sostanziali del manuale.

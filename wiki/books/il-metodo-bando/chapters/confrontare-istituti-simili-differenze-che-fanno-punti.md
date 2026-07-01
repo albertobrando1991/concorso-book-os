@@ -22,17 +22,17 @@ last_compiled_from: ["sources/confrontare-istituti-simili-metodo-bando.md", "top
 
 # Capitolo 44 - Confrontare istituti simili: differenze che fanno punti
 
-Nei concorsi, molte domande non chiedono solo: "Che cos'e'?".
+Nei concorsi, molte domande non chiedono solo: "Che cos'è?".
 
-Chiedono: "Che differenza c'e'?".
+Chiedono: "Che differenza c'è?".
 
-La differenza sembra una domanda semplice. In realta e' una delle prove piu severe: se conosci due istituti solo come definizioni isolate, appena devi metterli a confronto ti confondi.
+La differenza sembra una domanda semplice. In realta è una delle prove più severe: se conosci due istituti solo come definizioni isolate, appena devi metterli a confronto ti confondi.
 
-Succede con accessi diversi, atti diversi, responsabilita diverse, fasi diverse, strumenti digitali diversi, procedure diverse. Succede anche nel quiz: il distrattore non e' una risposta assurda, ma un istituto vicino messo nel posto sbagliato.
+Succede con accessi diversi, atti diversi, responsabilità diverse, fasi diverse, strumenti digitali diversi, procedure diverse. Succede anche nel quiz: il distrattore non è una risposta assurda, ma un istituto vicino messo nel posto sbagliato.
 
-Il confronto e' una competenza. Si puo allenare.
+Il confronto è una competenza. Si può allenare.
 
-La regola del capitolo e':
+La regola del capitolo è:
 
 > non basta sapere due cose; devi sapere dove si separano.
 
@@ -66,18 +66,18 @@ non ti sta chiedendo due definizioni complete.
 
 Ti sta chiedendo un confine.
 
-Una risposta debole fa cosi:
+Una risposta debole fa così:
 
 1. definisce il primo istituto;
 2. definisce il secondo istituto;
 3. finisce senza confronto.
 
-Una risposta forte fa cosi:
+Una risposta forte fa così:
 
 1. inquadra i due istituti;
 2. indica il criterio di distinzione;
 3. mostra due o tre differenze decisive;
-4. chiude dicendo perche non vanno confusi.
+4. chiude dicendo perché non vanno confusi.
 
 Il confronto deve essere visibile nella frase.
 
@@ -87,9 +87,9 @@ Parole utili:
 - invece;
 - a differenza di;
 - il primo riguarda, il secondo riguarda;
-- la distinzione centrale e';
+- la distinzione centrale è;
 - cambiano presupposti, funzione o effetti;
-- non coincidono perche.
+- non coincidono perché.
 
 Se nella risposta non compare nessuna di queste strutture, forse non stai confrontando. Stai solo parlando di due cose.
 
@@ -101,7 +101,7 @@ Il confronto entra nel Metodo BANDO in modo preciso.
 |---|---|---|
 | **B - Bando** | Il programma contiene istituti vicini o materie con confini sottili? | Lista coppie/triple da confrontare. |
 | **A - Aree** | In quale area cade la differenza? | Diritto amministrativo, trasparenza, contabile, contratti, digitale, impiego. |
-| **N - Nuclei** | Qual e' il criterio che separa gli istituti? | Oggetto, funzione, soggetto, fonte, presupposto, procedimento, effetti. |
+| **N - Nuclei** | qual è il criterio che separa gli istituti? | Oggetto, funzione, soggetto, fonte, presupposto, procedimento, effetti. |
 | **D - Diario** | Dove mi confondo? | Registro delle coppie confuse e del tipo di errore. |
 | **O - Output** | Come lo devo dire in prova? | Tabella, risposta sintetica, orale da 60 secondi, quiz mirato. |
 
@@ -128,11 +128,11 @@ Per confrontare bene devi scegliere il criterio giusto.
 
 Non tutti i criteri servono sempre. In una risposta sintetica ne bastano pochi.
 
-La domanda guida e':
+La domanda guida è:
 
 > quale differenza fa davvero cambiare la risposta?
 
-Se una differenza non cambia la risposta, forse non e' la differenza decisiva.
+Se una differenza non cambia la risposta, forse non è la differenza decisiva.
 
 ## La formula 1-3-1
 
@@ -146,9 +146,9 @@ Per le domande comparative usa la formula 1-3-1.
 
 Esempio di struttura:
 
-> I due istituti sono collegati perche entrambi riguardano ________, ma non coincidono. Il primo riguarda ________, mentre il secondo riguarda ________. Cambiano inoltre ________ e ________. Per questo, in prova, la distinzione centrale e' ________.
+> I due istituti sono collegati perché entrambi riguardano ________, ma non coincidono. Il primo riguarda ________, mentre il secondo riguarda ________. Cambiano inoltre ________ e ________. Per questo, in prova, la distinzione centrale è ________.
 
-Questa struttura e' semplice, ma impedisce l'errore piu comune: mettere due definizioni una accanto all'altra senza relazione.
+Questa struttura è semplice, ma impedisce l'errore più comune: mettere due definizioni una accanto all'altra senza relazione.
 
 ## La tabella A/B/criterio
 
@@ -164,7 +164,7 @@ Esempio neutro:
 
 | Istituto A | Istituto B | Criterio | Differenza decisiva | Frase pronta |
 |---|---|---|---|---|
-| Strumento A | Strumento B | Funzione | A serve a ricostruire un passaggio; B serve a produrre un effetto finale. | "La differenza non e' solo nominale: cambia la funzione." |
+| Strumento A | Strumento B | Funzione | A serve a ricostruire un passaggio; B serve a produrre un effetto finale. | "La differenza non è solo nominale: cambia la funzione." |
 | Strumento A | Strumento B | Effetti | A prepara la decisione; B incide sull'esito. | "A opera nella fase preparatoria, mentre B rileva nella fase conclusiva." |
 
 La tabella non sostituisce lo studio. Lo obbliga a diventare risposta.
@@ -183,13 +183,13 @@ In 10 righe non devi raccontare tutto.
 
 Devi dire:
 
-1. perche i due istituti sembrano vicini;
-2. qual e' il criterio che li separa;
+1. perché i due istituti sembrano vicini;
+2. qual è il criterio che li separa;
 3. quale conseguenza pratica produce la differenza.
 
 In 20 righe puoi aggiungere un esempio.
 
-In 30 righe puoi aggiungere un breve collegamento a principi, procedimento o responsabilita, se serve alla traccia.
+In 30 righe puoi aggiungere un breve collegamento a principi, procedimento o responsabilità, se serve alla traccia.
 
 ## Confronto orale da 60 secondi
 
@@ -197,8 +197,8 @@ All'orale la domanda di differenza richiede ordine immediato.
 
 Schema:
 
-1. "I due istituti sono vicini perche..."
-2. "La differenza centrale e'..."
+1. "I due istituti sono vicini perché..."
+2. "La differenza centrale è..."
 3. "Il primo..."
 4. "Il secondo..."
 5. "Cambia quindi..."
@@ -206,9 +206,9 @@ Schema:
 
 Esempio astratto:
 
-> I due strumenti sono vicini perche entrambi intervengono nello stesso ambito, ma hanno funzione diversa. Il primo serve a qualificare una situazione; il secondo produce un effetto operativo. Cambiano quindi presupposti, soggetto competente ed effetti. Per questo non basta usare i nomi come sinonimi: in prova bisogna indicare quale funzione svolge ciascuno.
+> I due strumenti sono vicini perché entrambi intervengono nello stesso ambito, ma hanno funzione diversa. Il primo serve a qualificare una situazione; il secondo produce un effetto operativo. Cambiano quindi presupposti, soggetto competente ed effetti. Per questo non basta usare i nomi come sinonimi: in prova bisogna indicare quale funzione svolge ciascuno.
 
-Questa risposta non e' lunga. Ma mostra controllo.
+Questa risposta non è lunga. Ma mostra controllo.
 
 ## Dove nascono le confusioni
 
@@ -262,24 +262,24 @@ Esempio di compilazione neutra:
 | Prossimo ripasso | Entro 48 ore |
 | Quiz o domanda orale collegata | Domanda di differenza da 60 secondi |
 
-Una coppia confusa e corretta bene vale piu di dieci pagine rilette.
+Una coppia confusa e corretta bene vale più di dieci pagine rilette.
 
 ## Dal confronto al quiz
 
 Nei quiz, gli istituti simili diventano distrattori.
 
-Il distrattore forte non e' falso in assoluto. E' vero per un altro istituto.
+Il distrattore forte non è falso in assoluto. È vero per un altro istituto.
 
 Quando correggi un quiz, non limitarti a segnare la risposta giusta. Chiediti:
 
-| Domanda | Perche serve |
+| Domanda | perché serve |
 |---|---|
 | Quale istituto mi ha attirato? | Identifica la coppia confusa. |
 | Quale parola-spia avrei dovuto vedere? | Migliora lettura. |
 | Quale criterio separa le due opzioni? | Trasforma errore in schema. |
 | Posso creare una domanda di differenza? | Collega quiz e orale/scritto. |
 
-Ogni distrattore serio puo diventare una scheda di confronto.
+Ogni distrattore serio può diventare una scheda di confronto.
 
 ## Dal confronto alla scheda operativa
 
@@ -290,7 +290,7 @@ Struttura:
 | Sezione | Contenuto |
 |---|---|
 | Coppia | Istituto A / Istituto B |
-| Perche si confondono | Nome, oggetto, funzione, fase, soggetto |
+| perché si confondono | Nome, oggetto, funzione, fase, soggetto |
 | Differenza 1 | |
 | Differenza 2 | |
 | Differenza 3 | |
@@ -304,7 +304,7 @@ La scheda funziona se puoi usarla in tre modi:
 - orale;
 - quiz.
 
-Se la scheda serve solo a conservare appunti, non e' ancora una scheda operativa.
+Se la scheda serve solo a conservare appunti, non è ancora una scheda operativa.
 
 ## Caso guidato: Elena risponde con due monologhi
 
@@ -312,9 +312,9 @@ Elena sta preparando una prova scritta. La traccia dice:
 
 > "Indicare la differenza tra due istituti affini, evidenziandone funzione ed effetti."
 
-Elena conosce entrambi. Scrive prima una definizione lunga del primo, poi una definizione lunga del secondo. La risposta e' corretta nei pezzi, ma debole nel confronto.
+Elena conosce entrambi. Scrive prima una definizione lunga del primo, poi una definizione lunga del secondo. La risposta è corretta nei pezzi, ma debole nel confronto.
 
-Il problema non e' la conoscenza. E' la forma.
+Il problema non è la conoscenza. È la forma.
 
 ### Diagnosi
 
@@ -327,7 +327,7 @@ Il problema non e' la conoscenza. E' la forma.
 
 ### Correzione con formula 1-3-1
 
-Elena riscrive cosi:
+Elena riscrive così:
 
 1. apertura: i due istituti sono affini ma non equivalenti;
 2. differenza 1: funzione;
@@ -335,7 +335,7 @@ Elena riscrive cosi:
 4. differenza 3: effetti;
 5. chiusura: la distinzione centrale evita di applicare all'uno la disciplina dell'altro.
 
-La risposta diventa piu breve e piu forte.
+La risposta diventa più breve e più forte.
 
 Non ha aggiunto informazioni. Ha aggiunto struttura.
 
@@ -348,15 +348,15 @@ Ecco una traccia di lavoro, da verificare nei capitoli di materia:
 | Area | Coppie o gruppi da controllare |
 |---|---|
 | Costituzionale | forma di Stato / forma di governo; decreto-legge / decreto legislativo; regolamento / direttiva |
-| Amministrativo | procedimento / provvedimento; nullita / annullabilita; accesso / partecipazione |
+| Amministrativo | procedimento / provvedimento; nullità / annullabilità; accesso / partecipazione |
 | Trasparenza e privacy | accesso documentale / civico semplice / civico generalizzato; comunicazione / diffusione |
-| Pubblico impiego | indirizzo politico / gestione; responsabilita disciplinare / dirigenziale / erariale |
-| Contabilita | competenza / cassa; impegno / liquidazione / pagamento; previsione / rendiconto |
+| Pubblico impiego | indirizzo politico / gestione; responsabilità disciplinare / dirigenziale / erariale |
+| contabilità | competenza / cassa; impegno / liquidazione / pagamento; previsione / rendiconto |
 | Contratti | appalto / concessione; aggiudicazione / stipula; MEPA / Consip |
 | Digitale | PEC / firma digitale; SPID / CIE / CNS; documento informatico / copia |
 | Metodo | esercizio / test / simulazione; banca dati ufficiale / banca dati non ufficiale |
 
-Questa tabella non e' una fonte normativa. E' una lista di allarme: ti dice dove e' probabile che una domanda chieda confini.
+Questa tabella non è una fonte normativa. È una lista di allarme: ti dice dove è probabile che una domanda chieda confini.
 
 Le risposte specifiche vanno sempre verificate nei capitoli di materia, nelle source note consolidate e, in revisione finale, nelle fonti ufficiali quando necessario.
 
@@ -372,17 +372,17 @@ Le risposte specifiche vanno sempre verificate nei capitoli di materia, nelle so
 
 **Domanda:** come si risponde in modo efficace a una richiesta di confronto tra due istituti?
 
-**Risposta efficace:** prima si riconosce che la domanda non richiede due definizioni separate, ma una distinzione. Il candidato deve indicare il criterio di confronto, per esempio funzione, presupposti, soggetti, procedimento o effetti. Poi seleziona due o tre differenze decisive e le esprime con frasi comparative chiare. La risposta si chiude indicando la differenza centrale, cosi la commissione vede che il candidato sa delimitare gli istituti e non li usa come sinonimi.
+**Risposta efficace:** prima si riconosce che la domanda non richiede due definizioni separate, ma una distinzione. Il candidato deve indicare il criterio di confronto, per esempio funzione, presupposti, soggetti, procedimento o effetti. Poi seleziona due o tre differenze decisive e le esprime con frasi comparative chiare. La risposta si chiude indicando la differenza centrale, così la commissione vede che il candidato sa delimitare gli istituti e non li usa come sinonimi.
 
 ## Domanda-trappola
 
 **Domanda:** se conosco bene i due istituti, basta definirli entrambi?
 
-**Risposta:** no. Due definizioni corrette possono non rispondere a una domanda di confronto. Se la traccia chiede una differenza, la risposta deve esplicitare il criterio che separa gli istituti. Altrimenti il candidato mostra memoria, ma non capacita di distinzione.
+**Risposta:** no. Due definizioni corrette possono non rispondere a una domanda di confronto. Se la traccia chiede una differenza, la risposta deve esplicitare il criterio che separa gli istituti. Altrimenti il candidato mostra memoria, ma non capacità di distinzione.
 
 ## Errore tipico
 
-L'errore tipico e' rispondere con due monologhi.
+L'errore tipico è rispondere con due monologhi.
 
 Il candidato scrive:
 
@@ -390,13 +390,13 @@ Il candidato scrive:
 - secondo istituto: definizione lunga;
 - nessuna frase di confronto.
 
-La correzione e' semplice:
+La correzione è semplice:
 
 - una frase comune di inquadramento;
 - due o tre criteri di differenza;
 - una chiusura comparativa.
 
-Meno testo, piu controllo.
+Meno testo, più controllo.
 
 ## Mini-esercizio
 
@@ -407,7 +407,7 @@ Compila:
 | Passaggio | Risposta |
 |---|---|
 | Coppia scelta | |
-| Perche si somigliano | |
+| perché si somigliano | |
 | Criterio 1 | |
 | Criterio 2 | |
 | Criterio 3 | |
@@ -450,4 +450,4 @@ Se riesci a produrre tutte e tre, la distinzione sta diventando operativa.
 
 Questo capitolo usa fonti consolidate interne su risposta sintetica, schema orale, schede operative, prove concorsuali, parole chiave, apprendimento efficace, strategia di punteggio e checklist operative.
 
-Prima della pubblicazione finale, le coppie di istituti elencate come esempi devono essere verificate nei capitoli di materia e, quando necessario, nelle fonti ufficiali aggiornate. Il capitolo non e' una tavola normativa esaustiva: e' un laboratorio di metodo per costruire confronti corretti e verificabili.
+Prima della pubblicazione finale, le coppie di istituti elencate come esempi devono essere verificate nei capitoli di materia e, quando necessario, nelle fonti ufficiali aggiornate. Il capitolo non è una tavola normativa esaustiva: è un laboratorio di metodo per costruire confronti corretti e verificabili.

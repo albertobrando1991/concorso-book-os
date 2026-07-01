@@ -22,11 +22,11 @@ last_compiled_from: ["sources/capitoli-21-23-corpus-moduli-piano-diario-2026-06-
 
 # Capitolo 22 - Piano 30/60/90 giorni
 
-Un piano di studio non serve a riempire caselle. Serve a prendere decisioni quando il tempo e' meno del programma.
+Un piano di studio non serve a riempire caselle. Serve a prendere decisioni quando il tempo è meno del programma.
 
-Molti candidati costruiscono calendari irrealistici: dieci materie al giorno, pagine da leggere senza output, recuperi infiniti, ripassi rimandati all'ultima settimana. Il risultato e' prevedibile: il piano si rompe, il candidato si sente in ritardo e prova a compensare aggiungendo ore, manuali e ansia.
+Molti candidati costruiscono calendari irrealistici: dieci materie al giorno, pagine da leggere senza output, recuperi infiniti, ripassi rimandati all'ultima settimana. Il risultato è prevedibile: il piano si rompe, il candidato si sente in ritardo e prova a compensare aggiungendo ore, manuali e ansia.
 
-Il Metodo BANDO usa il calendario in modo diverso. Il piano non e' una promessa. E' un sistema di controllo.
+Il Metodo BANDO usa il calendario in modo diverso. Il piano non è una promessa. È un sistema di controllo.
 
 > Ogni settimana deve dire che cosa studi, che cosa richiami, che cosa produci e che cosa correggi.
 
@@ -47,12 +47,12 @@ Il piano non deve essere bello da vedere. Deve funzionare quando arriva il ritar
 
 Non puoi costruire un piano se non conosci questi dati:
 
-| Dato | Perche serve |
+| Dato | perché serve |
 |---|---|
-| Giorni disponibili | Determina profondita e tagli |
+| Giorni disponibili | Determina profondità e tagli |
 | Ore realistiche settimanali | Evita piani impossibili |
 | Prove previste | Decide il tipo di output |
-| Materie ad alta resa | Decide priorita |
+| Materie ad alta resa | Decide priorità |
 | Moduli integrativi | Decide cosa aggiungere al core |
 
 Se manca uno di questi dati, torna al bando e alla mappa profilo.
@@ -65,7 +65,7 @@ Se manca uno di questi dati, torna al bando e alla mappa profilo.
 |---|---|---|
 | B - Bando | Quanto tempo ho e che prova devo sostenere? | Scheda concorso |
 | A - Aree | Quali blocchi devo coprire? | Mappa core + moduli |
-| N - Nuclei | Quali argomenti hanno resa piu alta? | Priorita settimanali |
+| N - Nuclei | Quali argomenti hanno resa più alta? | priorità settimanali |
 | D - Diario | Dove sto sbagliando o rallentando? | Correzione del piano |
 | O - Output | Che cosa devo produrre ogni settimana? | Quiz, caso, orale, simulazione |
 
@@ -85,15 +85,15 @@ Ogni piano, breve o lungo, deve contenere cinque tipi di blocchi.
 | Output di prova | Quiz, scritto, caso, orale, simulazione |
 | Correzione | Classificare errori e decidere il passo successivo |
 
-Se un calendario contiene solo "leggere capitolo X", non e' ancora un piano.
+Se un calendario contiene solo "leggere capitolo X", non è ancora un piano.
 
 ![Figura 22.3 - Struttura base di ogni piano](../assets/chapter-22/03-struttura-base-ogni-piano.png)
 
 ## Piano 30 giorni: emergenza ordinata
 
-Il piano da 30 giorni serve quando la prova e' vicina. Non permette perfezione. Permette selezione.
+Il piano da 30 giorni serve quando la prova è vicina. Non permette perfezione. Permette selezione.
 
-La domanda guida e':
+La domanda guida è:
 
 > Che cosa devo sapere e saper fare per non arrivare disarmato alla prova?
 
@@ -168,7 +168,7 @@ Taglia:
 - manuali doppi sulla stessa materia;
 - lettura senza quiz;
 - schemi decorativi;
-- argomenti rari se il core non e' stabile.
+- argomenti rari se il core non è stabile.
 
 Non tagliare:
 
@@ -181,7 +181,7 @@ Non tagliare:
 
 ## Piano 60 giorni: copertura e consolidamento
 
-Il piano da 60 giorni e' il piu comune. Permette di coprire il nucleo comune, inserire il modulo e fare simulazioni con margine di correzione.
+Il piano da 60 giorni è il più comune. Permette di coprire il nucleo comune, inserire il modulo e fare simulazioni con margine di correzione.
 
 ### Fase 1 - Giorni 1-10: impostazione
 
@@ -195,7 +195,7 @@ Prodotti:
 
 Domanda:
 
-> Quali materie producono piu punti o piu rischio?
+> Quali materie producono più punti o più rischio?
 
 ### Fase 2 - Giorni 11-30: core
 
@@ -256,7 +256,7 @@ Negli ultimi cinque giorni non si apre un nuovo manuale. Si chiude.
 
 ## Piano 90 giorni: preparazione solida
 
-Il piano da 90 giorni consente di studiare meglio, non di studiare tutto. La differenza e' importante.
+Il piano da 90 giorni consente di studiare meglio, non di studiare tutto. La differenza è importante.
 
 ### Mese 1 - Fondazione
 
@@ -265,7 +265,7 @@ Obiettivi:
 - decodifica bando;
 - nucleo comune;
 - metodo di studio;
-- prime prove a bassa intensita;
+- prime prove a bassa intensità;
 - diario errori.
 
 Output settimanali:
@@ -309,7 +309,7 @@ Output settimanali:
 - scheda tagli;
 - piano ultimi 7 giorni.
 
-Il vantaggio dei 90 giorni e' la correzione. Hai tempo per sbagliare, classificare e migliorare.
+Il vantaggio dei 90 giorni è la correzione. Hai tempo per sbagliare, classificare e migliorare.
 
 ![Figura 22.4 - Confronto operativo 30/60/90 giorni](../assets/chapter-22/04-confronto-30-60-90-giorni.png)
 
@@ -363,7 +363,7 @@ Adatta questa settimana a 30, 60 o 90 giorni.
 | Mercoledi | Ripasso core | Caso/orale | Risposta breve |
 | Giovedi | Studio core | Drill errori | Flashcard |
 | Venerdi | Modulo | Simulazione parziale | Correzione |
-| Sabato | Simulazione | Revisione | Tagli e priorita |
+| Sabato | Simulazione | Revisione | Tagli e priorità |
 | Domenica | Ripasso leggero | Pianificazione | Settimana nuova |
 
 Se lavori o hai poco tempo, dimezza i blocchi, non eliminare output e diario.
@@ -372,7 +372,7 @@ Se lavori o hai poco tempo, dimezza i blocchi, non eliminare output e diario.
 
 ## Esempio - Profilo amministrativo generale
 
-Priorita:
+priorità:
 
 1. bando e prova;
 2. amministrativo;
@@ -394,12 +394,12 @@ Output:
 
 ## Esempio - Ente locale
 
-Priorita:
+priorità:
 
 1. core amministrativo;
 2. TUEL e organi;
 3. atti locali;
-4. contabilita locale se richiesta;
+4. contabilità locale se richiesta;
 5. servizi al cittadino;
 6. casi pratici.
 
@@ -412,7 +412,7 @@ Output:
 
 ## Esempio - Ministero/funzioni centrali
 
-Priorita:
+priorità:
 
 1. costituzionale e amministrativo;
 2. pubblico impiego;
@@ -445,7 +445,7 @@ Output:
 | 11 | | | | | | |
 | 12 | | | | | | |
 
-La colonna "Decisione" e' obbligatoria. Ogni settimana devi decidere se continuare, tagliare, spostare tempo o cambiare metodo.
+La colonna "Decisione" è obbligatoria. Ogni settimana devi decidere se continuare, tagliare, spostare tempo o cambiare metodo.
 
 ## Da sapere in 5 righe
 
@@ -453,17 +453,17 @@ La colonna "Decisione" e' obbligatoria. Ogni settimana devi decidere se continua
 2. Ogni settimana deve produrre output, non solo lettura.
 3. Il ripasso va distribuito, non lasciato all'ultima settimana.
 4. Il diario corregge il piano con dati reali.
-5. Se il tempo e' poco, taglia contenuti a bassa resa, non simulazioni e correzione.
+5. Se il tempo è poco, taglia contenuti a bassa resa, non simulazioni e correzione.
 
 ## Caso guidato
 
-Luca ha 60 giorni per un concorso in Comune. Ha studiato amministrativo, ma e' debole su enti locali e contabilita.
+Luca ha 60 giorni per un concorso in Comune. Ha studiato amministrativo, ma è debole su enti locali e contabilità.
 
 Piano corretto:
 
 - primi 10 giorni: bando, core e prova diagnostica;
 - giorni 11-25: amministrativo, accesso, pubblico impiego, trasparenza;
-- giorni 26-40: TUEL, organi, atti, contabilita locale essenziale;
+- giorni 26-40: TUEL, organi, atti, contabilità locale essenziale;
 - giorni 41-52: quiz e casi;
 - giorni 53-60: simulazioni, errori, orale e logistica.
 
@@ -479,13 +479,13 @@ Il secondo piano sembra ordinato, ma non produce prova.
 
 ## Domanda da commissario
 
-**Perche un piano di studio deve contenere simulazioni anche prima della fine del programma?**
+**perché un piano di studio deve contenere simulazioni anche prima della fine del programma?**
 
-Perche la simulazione mostra se lo studio diventa output. Aspettare di "finire tutto" significa scoprire troppo tardi errori di tempo, lettura, memoria, strategia e formato.
+perché la simulazione mostra se lo studio diventa output. Aspettare di "finire tutto" significa scoprire troppo tardi errori di tempo, lettura, memoria, strategia e formato.
 
 ## Domanda-trappola
 
-**Se sono in ritardo, devo eliminare quiz e simulazioni per leggere piu teoria?**
+**Se sono in ritardo, devo eliminare quiz e simulazioni per leggere più teoria?**
 
 No. In ritardo devi ridurre teoria a bassa resa e aumentare verifica mirata. Senza quiz, casi o orale non sai cosa stai davvero imparando.
 
@@ -532,4 +532,4 @@ Se non sai cosa tagliare, non hai ancora un piano. Hai solo una lista.
 ## Note di review
 
 - Prima della pubblicazione finale valutare se trasformare le tabelle in pagine workbook compilabili.
-- Il piano 30/60/90 e' un modello operativo: deve sempre essere adattato al bando reale.
+- Il piano 30/60/90 è un modello operativo: deve sempre essere adattato al bando reale.

@@ -4,20 +4,20 @@ type: chapter
 title: Il Metodo BANDO
 status: revised_draft
 domain: concorsi pubblici italiani
-topics: ["metodo bando","piano 30 60 90 giorni","diario errori"]
-entities: ["Metodo BANDO","Piano 30/60/90 giorni","Diario degli errori","Bando Decoder"]
-source_refs: ["sources/struttura-madre-il-metodo-bando.md","sources/metodo-bando-progetto-editoriale.md","sources/d-p-r-9-maggio-1994-n-487-accesso-agli-impieghi-pubblici-e-concorsi.md","sources/d-p-r-16-giugno-2023-n-82-modifiche-al-d-p-r-487-1994-sui-concorsi.md","sources/d-lgs-27-ottobre-2009-n-150-performance.md"]
+topics: ["metodo bando", "piano 30 60 90 giorni", "diario errori"]
+entities: ["Metodo BANDO", "Piano 30/60/90 giorni", "Diario degli errori", "Bando Decoder"]
+source_refs: ["sources/struttura-madre-il-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/d-p-r-9-maggio-1994-n-487-accesso-agli-impieghi-pubblici-e-concorsi.md", "sources/d-p-r-16-giugno-2023-n-82-modifiche-al-d-p-r-487-1994-sui-concorsi.md", "sources/d-lgs-27-ottobre-2009-n-150-performance.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.94
 updated_at: 2026-05-28T17:35:00+02:00
 created_at: "2026-05-09T01:05:00.000Z"
 review_required: true
 canonical: true
-tags: ["book-chapter","method","editorial-review"]
+tags: ["book-chapter", "method", "editorial-review"]
 book_id: il-metodo-bando
 outline_section: 3
 draft_stage: reviewed-editorial-draft
-last_compiled_from: ["topics/metodo-bando.md","topics/piano-30-60-90-giorni.md","topics/diario-errori.md","sources/struttura-madre-il-metodo-bando.md"]
+last_compiled_from: ["topics/metodo-bando.md", "topics/piano-30-60-90-giorni.md", "topics/diario-errori.md", "sources/struttura-madre-il-metodo-bando.md"]
 last_editorial_review: "2026-05-25T15:30:00Z"
 ---
 
@@ -226,18 +226,18 @@ Compila questa scheda dopo aver letto il bando.
 
 | Campo | Risposta |
 |---|---|
-| Concorso |  |
-| Ente |  |
-| Profilo |  |
-| Prove |  |
-| Materie comuni |  |
-| Materie specifiche |  |
-| Materie killer |  |
-| Scadenza domanda |  |
-| Prima simulazione |  |
-| Tre nuclei da studiare subito |  |
-| Primo errore da monitorare |  |
-| Output principale da allenare |  |
+| Concorso | |
+| Ente | |
+| Profilo | |
+| Prove | |
+| Materie comuni | |
+| Materie specifiche | |
+| Materie killer | |
+| Scadenza domanda | |
+| Prima simulazione | |
+| Tre nuclei da studiare subito | |
+| Primo errore da monitorare | |
+| Output principale da allenare | |
 
 Questa pagina deve accompagnarti per tutto il percorso. Se non riesci a compilarla, significa che il bando non è ancora stato capito abbastanza.
 

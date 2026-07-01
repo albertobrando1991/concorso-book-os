@@ -4,20 +4,20 @@ type: chapter
 title: "Trasparenza, anticorruzione e privacy"
 status: revised_draft
 domain: concorsi pubblici italiani
-topics: ["anticorruzione e trasparenza","accesso documentale","accesso civico","FOIA","privacy e protezione dati","conflitto di interessi","whistleblowing","codice di comportamento"]
-entities: ["ANAC","Garante Privacy","RPCT","DPO","RPD","Piano Integrato di Attività e Organizzazione","Legge 241/1990","Pubblica amministrazione"]
-source_refs: ["sources/struttura-madre-il-metodo-bando.md","sources/capitolo-7-corpus-fonti-ufficiali-trasparenza-anticorruzione-privacy-2026-05-26.md","sources/d-lgs-14-marzo-2013-n-33-trasparenza.md","sources/d-lgs-25-maggio-2016-n-97-foia-e-revisione-trasparenza.md","sources/legge-7-agosto-1990-n-241-procedimento-amministrativo-e-accesso-ai-documenti-amministrativi-testo-vigente-normattiva.md","sources/legge-6-novembre-2012-n-190-anticorruzione.md","sources/anac-linee-guida-accesso-civico-e-obblighi-pubblicazione-2016.md","sources/anac-piano-nazionale-anticorruzione-2025-delibera-n-19-del-28-gennaio-2026.md","sources/d-lgs-8-aprile-2013-n-39-inconferibilita-e-incompatibilita-incarichi.md","sources/d-p-r-16-aprile-2013-n-62-codice-comportamento-dipendenti-pubblici.md","sources/d-p-r-13-giugno-2023-n-81-modifiche-codice-comportamento.md","sources/d-lgs-10-marzo-2023-n-24-whistleblowing.md","sources/regolamento-ue-2016-679-gdpr-protezione-dati-personali.md","sources/d-lgs-30-giugno-2003-n-196-codice-privacy-e-d-lgs-101-2018-adeguamento-gdpr.md","sources/garante-privacy-gdpr-guida-operativa-diritti-sicurezza-dpo.md","sources/garante-privacy-trasparenza-pa-accesso-civico-e-dati-personali.md","sources/d-p-r-24-giugno-2022-n-81-piao-adempimenti-assorbiti.md","sources/decreto-30-giugno-2022-n-132-piano-tipo-piao.md"]
+topics: ["anticorruzione e trasparenza", "accesso documentale", "accesso civico", "FOIA", "privacy e protezione dati", "conflitto di interessi", "whistleblowing", "codice di comportamento"]
+entities: ["ANAC", "Garante Privacy", "RPCT", "DPO", "RPD", "Piano Integrato di Attività e Organizzazione", "Legge 241/1990", "Pubblica amministrazione"]
+source_refs: ["sources/struttura-madre-il-metodo-bando.md", "sources/capitolo-7-corpus-fonti-ufficiali-trasparenza-anticorruzione-privacy-2026-05-26.md", "sources/d-lgs-14-marzo-2013-n-33-trasparenza.md", "sources/d-lgs-25-maggio-2016-n-97-foia-e-revisione-trasparenza.md", "sources/legge-7-agosto-1990-n-241-procedimento-amministrativo-e-accesso-ai-documenti-amministrativi-testo-vigente-normattiva.md", "sources/legge-6-novembre-2012-n-190-anticorruzione.md", "sources/anac-linee-guida-accesso-civico-e-obblighi-pubblicazione-2016.md", "sources/anac-piano-nazionale-anticorruzione-2025-delibera-n-19-del-28-gennaio-2026.md", "sources/d-lgs-8-aprile-2013-n-39-inconferibilita-e-incompatibilita-incarichi.md", "sources/d-p-r-16-aprile-2013-n-62-codice-comportamento-dipendenti-pubblici.md", "sources/d-p-r-13-giugno-2023-n-81-modifiche-codice-comportamento.md", "sources/d-lgs-10-marzo-2023-n-24-whistleblowing.md", "sources/regolamento-ue-2016-679-gdpr-protezione-dati-personali.md", "sources/d-lgs-30-giugno-2003-n-196-codice-privacy-e-d-lgs-101-2018-adeguamento-gdpr.md", "sources/garante-privacy-gdpr-guida-operativa-diritti-sicurezza-dpo.md", "sources/garante-privacy-trasparenza-pa-accesso-civico-e-dati-personali.md", "sources/d-p-r-24-giugno-2022-n-81-piao-adempimenti-assorbiti.md", "sources/decreto-30-giugno-2022-n-132-piano-tipo-piao.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.92
 updated_at: "2026-05-26T00:00:00+02:00"
 created_at: "2026-05-10T11:45:00+02:00"
 review_required: false
 canonical: true
-tags: ["book-chapter","common-subject","revised"]
+tags: ["book-chapter", "common-subject", "revised"]
 book_id: il-metodo-bando
 outline_section: 7
 draft_stage: editorial-revision
-last_compiled_from: ["wiki/books/il-metodo-bando/struttura-madre.md","topics/anticorruzione-e-trasparenza.md","topics/privacy-e-protezione-dati.md","entities/anac.md","sources/capitolo-7-corpus-fonti-ufficiali-trasparenza-anticorruzione-privacy-2026-05-26.md"]
+last_compiled_from: ["wiki/books/il-metodo-bando/struttura-madre.md", "topics/anticorruzione-e-trasparenza.md", "topics/privacy-e-protezione-dati.md", "entities/anac.md", "sources/capitolo-7-corpus-fonti-ufficiali-trasparenza-anticorruzione-privacy-2026-05-26.md"]
 ---
 
 # Capitolo 7 - Trasparenza, anticorruzione e privacy

@@ -4,16 +4,16 @@ type: front_matter
 title: "Frontespizio"
 status: structure
 domain: "concorsi pubblici italiani"
-topics: ["frontespizio","moduli specialistici","funzioni centrali"]
-entities: ["Capitale Personale","Metodo BANDO"]
-source_refs: ["sources/m-fc01-dossier-redazionale-ministeri-pcm-avvocatura.md","sources/metodo-bando-progetto-editoriale.md"]
-book_refs: ["m-fc01-ministeri","il-metodo-bando"]
+topics: ["frontespizio", "moduli specialistici", "funzioni centrali"]
+entities: ["Capitale Personale", "Metodo BANDO"]
+source_refs: ["sources/m-fc01-dossier-redazionale-ministeri-pcm-avvocatura.md", "sources/metodo-bando-progetto-editoriale.md"]
+book_refs: ["m-fc01-ministeri", "il-metodo-bando"]
 confidence: 0.86
 updated_at: 2026-06-28T12:38:57+02:00
 created_at: 2026-06-28T12:38:57+02:00
 review_required: false
 canonical: true
-tags: ["front-matter","title-page","module-code-m-fc01"]
+tags: ["front-matter", "title-page", "module-code-m-fc01"]
 book_id: m-fc01-ministeri
 outline_section: "FM2"
 front_matter_layout: title-page

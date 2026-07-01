@@ -13,7 +13,7 @@ updated_at: "2026-06-01T15:24:42+02:00"
 created_at: "2026-05-10T11:45:00+02:00"
 review_required: true
 canonical: true
-tags: ["book-chapter","common-subject"]
+tags: ["book-chapter", "common-subject"]
 book_id: il-metodo-bando
 outline_section: 12
 draft_stage: publication-editorial-cleanup
@@ -513,7 +513,7 @@ Ogni riga è una scheda di lavoro. La colonna **Quesito** viene sempre prima del
 |---|---|
 | **7 - Percentuale.** Un candidato ottiene 36 risposte corrette su 45. Qual è la percentuale di risposte corrette? | A. 75%. B. 80%. C. 82%. D. 85%. |
 | **8 - Proporzione diretta.** Un ufficio evade 240 pratiche in 6 giorni. A ritmo costante, quante pratiche evade in 10 giorni? | A. 360. B. 380. C. 400. D. 420. |
-| **9 - Variazione percentuale.** Il numero di domande passa da 500 a 600. L'aumento percentuale è: | A. 10%. B. 16,7%. C. 20%. D. 25%. |
+| **9 - Variazione percentuale.** Il numero di domande passa da 500 a 600. L'aumento percentuale è: | A. 10%. B. 16, 7%. C. 20%. D. 25%. |
 | **10 - Proporzione inversa.** Tre addetti completano un lavoro in 12 ore. A parità di ritmo, sei addetti completano lo stesso lavoro in: | A. 3 ore. B. 6 ore. C. 12 ore. D. 24 ore. |
 | **11 - Percentuale su totale.** In un archivio il 40% dei fascicoli è digitale. Se i fascicoli sono 750, quanti sono digitali? | A. 250. B. 280. C. 300. D. 350. |
 
@@ -524,14 +524,14 @@ Ogni riga è una scheda di lavoro. La colonna **Quesito** viene sempre prima del
 | **12 - Evidenza nel brano.** "Il servizio è accessibile online, ma resta disponibile uno sportello fisico per gli utenti che non dispongono di strumenti digitali." Quale affermazione è corretta? | A. Il servizio è solo online. B. Lo sportello fisico è disponibile per tutti gli utenti senza limiti. C. Esiste un canale fisico per chi non dispone di strumenti digitali. D. Gli utenti senza strumenti digitali sono esclusi dal servizio. |
 | **13 - Connettivo logico.** Nel brano "L'ente ha rinviato la scadenza, pertanto i candidati possono integrare la domanda", la parola "pertanto" introduce: | A. una causa. B. una conclusione/conseguenza. C. una eccezione. D. un contrasto. |
 | **14 - Indebolimento.** "Da quando è stato introdotto il promemoria via email, le assenze agli appuntamenti sono diminuite. Il promemoria ha ridotto le assenze." Quale informazione indebolisce l'argomento? | A. Il promemoria viene inviato due giorni prima. B. Nello stesso periodo è stata introdotta una sanzione per chi non si presenta. C. Molti utenti leggono la posta elettronica. D. Il servizio riguarda appuntamenti amministrativi. |
-| **15 - Analogia.** Quale parola completa meglio l'analogia: bando : concorso = avviso : ? | A. comunicazione. B. protocollo. C. graduatoria. D. scadenza. |
+| **15 - Analogia.** Quale parola completa meglio l'analogia: bando: concorso = avviso: ? | A. comunicazione. B. protocollo. C. graduatoria. D. scadenza. |
 
 #### Blocco 5 - Condizioni, graduatorie, deducibilità
 
 | Quesito | Risposte |
 |---|---|
 | **16 - Condizione necessaria.** Se "solo chi possiede il requisito R può partecipare", quale affermazione è corretta? | A. Il requisito R basta sempre per vincere. B. Chi non possiede R non può partecipare. C. Chi possiede R partecipa necessariamente. D. Chi partecipa non possiede R. |
-| **17 - Graduatoria.** In una graduatoria Marco è prima di Sara. Luca è dopo Sara. Elena è prima di Marco. Chi è sicuramente prima di Luca? | A. solo Sara. B. Marco e Sara. C. Elena, Marco e Sara. D. non si può sapere nulla. |
+| **17 - Graduatoria.** In una graduatoria Marco è prima di sarà. Luca è dopo sarà. Elena è prima di Marco. Chi è sicuramente prima di Luca? | A. solo sarà. B. Marco e sarà. C. Elena, Marco e sarà. D. non si può sapere nulla. |
 | **18 - Media.** Una media di 24 è ottenuta da tre punteggi: 20, 26 e x. Quanto vale x? | A. 24. B. 25. C. 26. D. 28. |
 | **19 - Non deducibile.** Una domanda chiede quale affermazione "non è deducibile" da un brano. Devi scegliere: | A. una frase falsa secondo il testo. B. una frase vera secondo il testo. C. una frase plausibile ma non supportata dal testo. D. una frase identica al testo. |
 | **20 - Contrapposizione.** Se nessun documento incompleto viene accettato, allora: | A. tutti i documenti completi vengono accettati. B. un documento accettato non è incompleto. C. tutti i documenti non accettati sono incompleti. D. nessun documento completo viene accettato. |
@@ -541,7 +541,7 @@ Ogni riga è una scheda di lavoro. La colonna **Quesito** viene sempre prima del
 | Quesito | Risposte |
 |---|---|
 | **21 - Serie mista.** Serie: 2A, 4C, 6E, 8G, ... | A. 9H. B. 10H. C. 10I. D. 12I. |
-| **22 - Diminuzione percentuale.** Un prodotto passa da 120 a 90 unità. La diminuzione percentuale è: | A. 20%. B. 25%. C. 30%. D. 33,3%. |
+| **22 - Diminuzione percentuale.** Un prodotto passa da 120 a 90 unità. La diminuzione percentuale è: | A. 20%. B. 25%. C. 30%. D. 33, 3%. |
 | **23 - Coesistenza di canali.** "La misura non elimina il canale tradizionale, ma lo affianca a una procedura digitale più rapida." Il testo sostiene che: | A. il canale tradizionale viene sostituito. B. procedura digitale e canale tradizionale coesistono. C. il canale tradizionale è più rapido. D. la procedura digitale è obbligatoria. |
 | **24 - Rafforzamento.** Quale informazione rafforza l'argomento: "La formazione ha migliorato la qualità delle risposte allo sportello"? | A. Dopo la formazione sono diminuiti gli errori nelle informazioni fornite agli utenti. B. La formazione si è svolta in aula. C. Alcuni dipendenti non hanno partecipato. D. Lo sportello è aperto anche il martedì. |
 | **25 - Catena deduttiva.** Se alcune istanze urgenti sono trattate entro 48 ore e tutte le istanze trattate entro 48 ore ricevono una comunicazione automatica, quale conclusione segue? | A. Tutte le istanze urgenti ricevono una comunicazione automatica. B. Alcune istanze urgenti ricevono una comunicazione automatica. C. Nessuna istanza non urgente riceve comunicazione automatica. D. Tutte le comunicazioni automatiche riguardano istanze urgenti. |
@@ -556,7 +556,7 @@ Ogni riga è una scheda di lavoro. La colonna **Quesito** viene sempre prima del
 | 4 | C | +4, +8, +16, quindi +32: 65. |
 | 5 | C | +2, +3, +4, quindi +5: P. |
 | 6 | B | A-B è blocco; D non ultimo e C dopo D. Ordine possibile e coerente: D-A-B-C. |
-| 7 | B | 36/45 = 0,8 = 80%. |
+| 7 | B | 36/45 = 0, 8 = 80%. |
 | 8 | C | 240/6 = 40 al giorno; in 10 giorni 400. |
 | 9 | C | Aumento 100 su base 500: 20%. |
 | 10 | B | Doppio degli addetti, metà del tempo: 6 ore. |
@@ -566,7 +566,7 @@ Ogni riga è una scheda di lavoro. La colonna **Quesito** viene sempre prima del
 | 14 | B | La sanzione è una causa alternativa della diminuzione. |
 | 15 | A | Il rapporto è documento/atto che comunica una selezione o informazione. |
 | 16 | B | "Solo chi possiede R" rende R necessario per partecipare. |
-| 17 | C | Elena prima di Marco, Marco prima di Sara, Sara prima di Luca. |
+| 17 | C | Elena prima di Marco, Marco prima di sarà, sarà prima di Luca. |
 | 18 | C | Totale necessario 72; 20 + 26 = 46; x = 26. |
 | 19 | C | Non deducibile significa plausibile ma non supportata. |
 | 20 | B | Se incompleto implica non accettato, accettato implica non incompleto. |

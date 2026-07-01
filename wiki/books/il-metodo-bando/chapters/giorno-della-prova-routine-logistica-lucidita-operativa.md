@@ -1,10 +1,10 @@
 ---
 id: chapter-giorno-della-prova-routine-logistica-lucidita-operativa
 type: chapter
-title: "Il giorno della prova: routine, logistica e lucidita operativa"
+title: "Il giorno della prova: routine, logistica e lucidità operativa"
 status: revised_draft
 domain: "concorsi pubblici italiani"
-topics: ["giorno prova concorso", "prove concorsuali", "checklist concorsi", "strategia punteggio prova concorsuale", "simulazioni concorsuali", "sostenibilita preparazione concorsi", "diario errori", "dopo prova concorsi", "metodo bando"]
+topics: ["giorno prova concorso", "prove concorsuali", "checklist concorsi", "strategia punteggio prova concorsuale", "simulazioni concorsuali", "sostenibilità preparazione concorsi", "diario errori", "dopo prova concorsi", "metodo bando"]
 entities: ["Metodo BANDO", "Bando Decoder", "Diario degli errori", "Piano 30/60/90 giorni"]
 source_refs: ["sources/giorno-prova-concorso-metodo-bando.md", "sources/checklist-operative-concorsi-metodo-bando.md", "sources/strategia-punteggio-prova-concorsuale-metodo-bando.md", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md", "sources/simulazioni-concorsuali-metodo-bando.md", "sources/sostenibilita-preparazione-concorsi-metodo-bando.md", "sources/dopo-prova-esiti-graduatoria-metodo-bando.md", "sources/scienze-apprendimento-pianificazione-metacognizione-errori.md"]
 book_refs: ["il-metodo-bando"]
@@ -20,15 +20,15 @@ draft_stage: revised-editorial-draft
 last_compiled_from: ["sources/giorno-prova-concorso-metodo-bando.md", "topics/giorno-prova-concorso.md", "topics/prove-concorsuali.md", "topics/checklist-concorsi.md", "topics/strategia-punteggio-prova-concorsuale.md", "topics/simulazioni-concorsuali.md", "topics/sostenibilita-preparazione-concorsi.md", "topics/diario-errori.md", "topics/dopo-prova-concorsi.md"]
 ---
 
-# Capitolo 38 - Il giorno della prova: routine, logistica e lucidita operativa
+# Capitolo 38 - Il giorno della prova: routine, logistica e lucidità operativa
 
-Il giorno della prova non e' il giorno in cui devi diventare un altro candidato.
+Il giorno della prova non è il giorno in cui devi diventare un altro candidato.
 
-E' il giorno in cui devi eseguire il candidato che hai costruito.
+È il giorno in cui devi eseguire il candidato che hai costruito.
 
-Se hai letto il bando, scelto materiali, fatto simulazioni, corretto errori, tagliato cio che non serviva e preparato una strategia di punteggio, l'obiettivo finale non e' aggiungere altra pressione.
+Se hai letto il bando, scelto materiali, fatto simulazioni, corretto errori, tagliato ciò che non serviva e preparato una strategia di punteggio, l'obiettivo finale non è aggiungere altra pressione.
 
-L'obiettivo e' non perdere il controllo.
+L'obiettivo è non perdere il controllo.
 
 Molti candidati arrivano alla prova con una preparazione sufficiente, ma sprecano energia su elementi evitabili: documenti non controllati, orario letto male, sede cercata all'ultimo, strumenti non ammessi, attesa gestita in modo confuso, istruzioni lette di fretta, cambio di strategia improvvisato, domanda bloccante trattata come emergenza.
 
@@ -44,14 +44,14 @@ Alla fine del capitolo saprai:
 
 - trasformare le ultime 24 ore in una routine semplice e controllabile;
 - costruire una scheda logistica basata solo su bando, convocazione e avvisi ufficiali;
-- evitare nuovo studio pesante quando non produce piu resa;
+- evitare nuovo studio pesante quando non produce più resa;
 - gestire arrivo, attesa e lettura delle istruzioni;
-- applicare la strategia di tempo e punteggio gia provata;
+- applicare la strategia di tempo e punteggio già provata;
 - affrontare imprevisti senza reazioni impulsive;
 - registrare a caldo le informazioni utili per il Diario post-prova;
 - distinguere impressione immediata, risultato ufficiale e prossima decisione.
 
-La regola e':
+La regola è:
 
 > il giorno della prova si riduce il rischio, non si aumenta il rumore.
 
@@ -73,7 +73,7 @@ Riguarda il tempo.
 
 Riguarda la lettura delle istruzioni.
 
-Riguarda la capacita di non farsi trascinare da una domanda, da una persona, da una frase ascoltata in attesa o da una sensazione momentanea.
+Riguarda la capacità di non farsi trascinare da una domanda, da una persona, da una frase ascoltata in attesa o da una sensazione momentanea.
 
 ## Le ultime 24 ore: ridurre rischio, non aumentare volume
 
@@ -95,10 +95,10 @@ Le ultime 24 ore hanno un compito diverso:
 - ripassare solo nuclei ad alta resa;
 - rileggere schede operative brevi;
 - rivedere errori ricorrenti;
-- proteggere sonno, orari e lucidita;
-- preparare una strategia gia provata, non inventarne una nuova.
+- proteggere sonno, orari e lucidità;
+- preparare una strategia già provata, non inventarne una nuova.
 
-### Regola "niente novita pesanti"
+### Regola "niente novità pesanti"
 
 Nelle ultime 24 ore puoi fare:
 
@@ -118,11 +118,11 @@ Evita invece:
 - studio notturno che rovina la prova;
 - ricerca casuale di ultime domande.
 
-La domanda pratica e':
+La domanda pratica è:
 
-> questa azione mi rende piu lucido domani o mi rende solo piu agitato oggi?
+> questa azione mi rende più lucido domani o mi rende solo più agitato oggi?
 
-Se la risposta e' la seconda, non farla.
+Se la risposta è la seconda, non farla.
 
 ## Scheda logistica ufficiale
 
@@ -134,7 +134,7 @@ Non usare memoria, screenshot isolati o messaggi di gruppo come fonte finale.
 |---|---|---|
 | Data e ora convocazione | | |
 | Sede completa | | |
-| Modalita di ingresso | | |
+| modalità di ingresso | | |
 | Documento richiesto | | |
 | Ricevuta/domanda/convocazione | | |
 | Strumenti ammessi | | |
@@ -147,7 +147,7 @@ Questa tabella non sostituisce le istruzioni ufficiali.
 
 Serve a costringerti a leggerle davvero.
 
-Il dettaglio piu pericoloso e' quello che "tanto lo so".
+Il dettaglio più pericoloso è quello che "tanto lo so".
 
 ## La mattina della prova
 
@@ -169,7 +169,7 @@ Non devi dimostrare a te stesso che sai tutto prima di entrare.
 
 Devi entrare nelle migliori condizioni possibili.
 
-Se senti il bisogno di ripassare, scegli solo materiali gia selezionati:
+Se senti il bisogno di ripassare, scegli solo materiali già selezionati:
 
 - scheda prova in una pagina;
 - errori frequenti;
@@ -179,11 +179,11 @@ Se senti il bisogno di ripassare, scegli solo materiali gia selezionati:
 
 Non aprire materiale che non hai mai usato.
 
-Il giorno della prova, la novita e' quasi sempre rumore.
+Il giorno della prova, la novità è quasi sempre rumore.
 
 ## L'attesa prima dell'ingresso
 
-L'attesa puo diventare una prova nella prova.
+L'attesa può diventare una prova nella prova.
 
 Altri candidati parlano, confrontano risposte, citano norme, raccontano voci, chiedono conferme, mostrano materiali.
 
@@ -194,7 +194,7 @@ Devi proteggere la tua traiettoria.
 Usa tre regole:
 
 - non cambiare piano per una frase ascoltata in coda;
-- non aprire discussioni su argomenti che non puoi piu controllare;
+- non aprire discussioni su argomenti che non puoi più controllare;
 - non misurare il tuo livello sulla sicurezza apparente degli altri.
 
 Se vuoi fare qualcosa, fai una micro-routine:
@@ -203,11 +203,11 @@ Se vuoi fare qualcosa, fai una micro-routine:
 respiro -> controllo documenti -> rileggo scheda prova -> chiudo materiale -> entro
 ```
 
-La sicurezza utile non e' sentirsi invincibile.
+La sicurezza utile non è sentirsi invincibile.
 
-E' sapere cosa fare al primo minuto.
+È sapere cosa fare al primo minuto.
 
-## La lettura delle istruzioni e' parte della prova
+## La lettura delle istruzioni è parte della prova
 
 Quando inizia la prova, molti candidati vogliono correre.
 
@@ -217,12 +217,12 @@ Poi saltano alla domanda.
 
 Poi scoprono tardi una regola.
 
-La lettura delle istruzioni non e' tempo perso. E' protezione del punteggio.
+La lettura delle istruzioni non è tempo perso. È protezione del punteggio.
 
 Devi verificare:
 
 - durata effettiva;
-- modalita di risposta;
+- modalità di risposta;
 - numero di domande o tracce;
 - eventuali sezioni;
 - regole su correzione, invio o consegna;
@@ -264,13 +264,13 @@ Se nell'orale hai allenato definizione, funzione, riferimento sicuro, esempio e 
 | Ansia in aumento | torna alla procedura, non alla paura |
 | Tempo che scende | proteggi revisione e domande ad alta resa |
 
-La lucidita non significa assenza di tensione.
+La lucidità non significa assenza di tensione.
 
 Significa avere una procedura anche quando la tensione arriva.
 
 ## Gli imprevisti
 
-Un imprevisto puo essere logistico, tecnico, emotivo, di tempo o di consegna.
+Un imprevisto può essere logistico, tecnico, emotivo, di tempo o di consegna.
 
 Il Metodo BANDO propone una risposta in quattro passaggi:
 
@@ -294,11 +294,11 @@ Non trasformare un problema parziale in una prova persa.
 | Tecnico | dispositivo, piattaforma, consegna | segnalare secondo procedura, senza improvvisare |
 | Contenuto | domanda inattesa | applicare perimetro, esclusione, nucleo minimo |
 | Tempo | ritardo su sezione | tagliare blocco bloccante e proteggere revisione |
-| Emotivo | agitazione, vuoto, confronto | tornare a routine e strategia gia provata |
+| Emotivo | agitazione, vuoto, confronto | tornare a routine e strategia già provata |
 
-Questa non e' una garanzia contro ogni problema.
+Questa non è una garanzia contro ogni problema.
 
-E' un modo per non aggiungere un secondo problema al primo.
+È un modo per non aggiungere un secondo problema al primo.
 
 ## Uscire dalla prova
 
@@ -309,9 +309,9 @@ Quando la prova finisce, il candidato spesso passa subito a una delle due reazio
 
 Entrambe possono essere premature.
 
-La prima impressione e' utile, ma non e' l'esito ufficiale.
+La prima impressione è utile, ma non è l'esito ufficiale.
 
-Il Metodo BANDO chiede una cosa piu sobria: salvare dati.
+Il Metodo BANDO chiede una cosa più sobria: salvare dati.
 
 Appena possibile, senza violare regole o riservatezza, annota:
 
@@ -330,7 +330,7 @@ Il Diario post-prova comincia qui.
 
 ## Da sapere in 5 righe
 
-1. Il giorno della prova non si improvvisa: si esegue una routine gia preparata.
+1. Il giorno della prova non si improvvisa: si esegue una routine già preparata.
 2. Le ultime 24 ore servono a ridurre rischio, non a cercare nuovo materiale.
 3. Documenti, sede, strumenti e divieti si verificano sempre su bando, convocazione e avvisi ufficiali.
 4. Le istruzioni lette in sede sono parte della prova e possono modificare la strategia.
@@ -340,13 +340,13 @@ Il Diario post-prova comincia qui.
 
 Elena ha preparato una prova scritta a quiz. Il giorno prima sente altri candidati parlare di una nuova raccolta di domande.
 
-La tentazione e' forte: aprirla e studiare fino a tardi.
+La tentazione è forte: aprirla e studiare fino a tardi.
 
 Invece applica il protocollo.
 
 Controlla convocazione, documento, ricevuta, sede e orario. Rilegge la scheda prova in una pagina. Ripassa solo gli errori ricorrenti e le regole di tempo. Prepara il tragitto con margine.
 
-La mattina arriva presto. In coda sente domande su argomenti che non ha ripassato, ma non cambia piano. Entra, legge le istruzioni, conferma durata e modalita, poi applica i tre giri gia provati in simulazione.
+La mattina arriva presto. In coda sente domande su argomenti che non ha ripassato, ma non cambia piano. Entra, legge le istruzioni, conferma durata e modalità, poi applica i tre giri già provati in simulazione.
 
 Alla fine non sa ancora l'esito.
 
@@ -356,25 +356,25 @@ Ha eseguito.
 
 ## Domanda da commissario
 
-Perche la logistica del giorno della prova fa parte della preparazione concorsuale?
+perché la logistica del giorno della prova fa parte della preparazione concorsuale?
 
-Risposta guidata: perche documenti, sede, orario, strumenti ammessi, lettura delle istruzioni e gestione del tempo incidono sulla possibilita concreta di sostenere bene la prova. Non sono contenuti di studio, ma condizioni operative. Trascurarle puo trasformare una preparazione adeguata in una prestazione fragile.
+Risposta guidata: perché documenti, sede, orario, strumenti ammessi, lettura delle istruzioni e gestione del tempo incidono sulla possibilità concreta di sostenere bene la prova. Non sono contenuti di studio, ma condizioni operative. Trascurarle può trasformare una preparazione adeguata in una prestazione fragile.
 
 ## Domanda-trappola
 
-Nelle ultime 24 ore conviene studiare il piu possibile per arrivare piu preparati?
+Nelle ultime 24 ore conviene studiare il più possibile per arrivare più preparati?
 
-Risposta guidata: non necessariamente. Nelle ultime 24 ore l'obiettivo principale e' ridurre rischio e proteggere lucidita. Il ripasso breve di nuclei, schede ed errori e' utile; aprire materiali nuovi, cambiare strategia o sacrificare il recupero puo peggiorare la prestazione.
+Risposta guidata: non necessariamente. Nelle ultime 24 ore l'obiettivo principale è ridurre rischio e proteggere lucidità. Il ripasso breve di nuclei, schede ed errori è utile; aprire materiali nuovi, cambiare strategia o sacrificare il recupero può peggiorare la prestazione.
 
 ## Errore tipico
 
 Il candidato tratta il giorno della prova come una giornata normale di studio.
 
-Si alza senza una sequenza, controlla documenti all'ultimo, legge messaggi di altri candidati, apre materiali nuovi, arriva agitato, salta istruzioni e cambia strategia alla prima difficolta.
+Si alza senza una sequenza, controlla documenti all'ultimo, legge messaggi di altri candidati, apre materiali nuovi, arriva agitato, salta istruzioni e cambia strategia alla prima difficoltà.
 
-Il problema non e' solo emotivo.
+Il problema non è solo emotivo.
 
-E' organizzativo.
+È organizzativo.
 
 Una routine semplice riduce decisioni inutili quando la mente deve essere disponibile per la prova.
 
@@ -401,7 +401,7 @@ Poi scrivi la tua frase di esecuzione:
 Il giorno della prova non cambio __________, proteggo __________, e se incontro un imprevisto faccio __________.
 ```
 
-Se non riesci a completarla, la routine e' ancora troppo vaga.
+Se non riesci a completarla, la routine è ancora troppo vaga.
 
 ## Checklist finale
 
@@ -412,8 +412,8 @@ Prima di chiudere la preparazione controlla:
 - conosco sede, orario e margine di arrivo?
 - so quali strumenti sono ammessi e quali vietati?
 - ho una scheda prova in una pagina?
-- ho deciso cosa ripassare e cosa non aprire piu?
-- ho gia provato la strategia in simulazione?
+- ho deciso cosa ripassare e cosa non aprire più?
+- ho già provato la strategia in simulazione?
 - so come leggere istruzioni e consegna prima di iniziare?
 - so cosa fare se una domanda mi blocca?
 - ho previsto una scheda post-prova a caldo?

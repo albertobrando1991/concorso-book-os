@@ -4,7 +4,7 @@ type: chapter
 title: "Strategia di punteggio: soglie, tempo e rischio nella prova"
 status: revised_draft
 domain: "concorsi pubblici italiani"
-topics: ["strategia punteggio prova concorsuale", "prove concorsuali", "prova a quiz", "prova scritta teorico pratica", "prova orale", "simulazioni concorsuali", "diario errori", "checklist concorsi", "taglio priorita studio concorsi", "metodo bando"]
+topics: ["strategia punteggio prova concorsuale", "prove concorsuali", "prova a quiz", "prova scritta teorico pratica", "prova orale", "simulazioni concorsuali", "diario errori", "checklist concorsi", "taglio priorità studio concorsi", "metodo bando"]
 entities: ["Metodo BANDO", "Bando Decoder", "Diario degli errori", "Piano 30/60/90 giorni"]
 source_refs: ["sources/strategia-punteggio-prova-concorsuale-metodo-bando.md", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md", "sources/simulazioni-concorsuali-metodo-bando.md", "sources/taglio-priorita-studio-concorsi-metodo-bando.md", "sources/checklist-operative-concorsi-metodo-bando.md", "sources/capitoli-21-23-corpus-moduli-piano-diario-2026-06-01.md", "sources/scienze-apprendimento-pianificazione-metacognizione-errori.md", "sources/apprendimento-efficace-active-recall-ripasso-distribuito.md"]
 book_refs: ["il-metodo-bando"]
@@ -28,7 +28,7 @@ Puoi conoscere la materia e perdere tempo su una domanda bloccante.
 
 Puoi sapere abbastanza e sbagliare per fretta.
 
-Puoi superare molte simulazioni e poi non leggere bene una soglia, una penalita, una sezione separata, una consegna o un vincolo operativo.
+Puoi superare molte simulazioni e poi non leggere bene una soglia, una penalità, una sezione separata, una consegna o un vincolo operativo.
 
 La prova non misura solo quello che sai.
 
@@ -41,11 +41,11 @@ Per questo il Metodo BANDO distingue due momenti:
 
 Questo capitolo lavora sul secondo momento.
 
-Non ti dira quali soglie o penalita valgono nel tuo concorso, perche queste informazioni dipendono dal bando e dagli avvisi specifici.
+Non ti dirà quali soglie o penalità valgono nel tuo concorso, perché queste informazioni dipendono dal bando e dagli avvisi specifici.
 
-Ti insegnera invece a leggerle, registrarle e trasformarle in decisioni pratiche.
+Ti insegnerà invece a leggerle, registrarle e trasformarle in decisioni pratiche.
 
-La regola e' semplice:
+La regola è semplice:
 
 > una regola di prova che non entra nella tua strategia resta solo una riga letta nel bando.
 
@@ -62,9 +62,9 @@ Alla fine del capitolo saprai:
 - adattare la strategia a quiz, scritto, orale e prove miste;
 - evitare errori di esecuzione negli ultimi minuti.
 
-Il punto non e' diventare freddo o meccanico.
+Il punto non è diventare freddo o meccanico.
 
-Il punto e' arrivare alla prova con decisioni gia provate.
+Il punto è arrivare alla prova con decisioni già provate.
 
 ## Prima regola: il bando decide il gioco
 
@@ -83,12 +83,12 @@ Il bando e gli avvisi collegati indicano, secondo la procedura concreta, element
 - materie o ambiti;
 - numero di quesiti o tracce;
 - punteggio massimo;
-- soglia di superamento o idoneita;
-- eventuali penalita;
+- soglia di superamento o idoneità;
+- eventuali penalità;
 - eventuali sezioni distinte;
 - strumenti ammessi o vietati;
 - lingua, informatica o prove aggiuntive;
-- modalita operative comunicate successivamente.
+- modalità operative comunicate successivamente.
 
 Non devi memorizzare questi dati in modo vago.
 
@@ -100,32 +100,32 @@ Se non sai rispondere a queste domande, non sei ancora pronto a simulare:
 |---|---|
 | Quanto dura la prova? | |
 | Quanti quesiti, tracce o parti contiene? | |
-| Qual e' il punteggio massimo? | |
+| qual è il punteggio massimo? | |
 | Esiste una soglia minima? | |
-| Sono previste penalita? | |
+| Sono previste penalità? | |
 | Ci sono sezioni con peso diverso? | |
 | Quali strumenti sono ammessi? | |
 | Quanto tempo voglio lasciare alla revisione? | |
 
-Questa pagina non e' burocrazia.
+Questa pagina non è burocrazia.
 
-E' la tua cabina di controllo.
+È la tua cabina di controllo.
 
 ## La mappa BANDO della strategia di punteggio
 
 | Fase | Domanda | Traduzione operativa |
 |---|---|---|
 | B - Bando | quali sono regole, durata, soglie e punteggi? | costruisco la scheda prova |
-| A - Aree | quali materie o sezioni pesano di piu? | distribuisco tempo e attenzione |
+| A - Aree | quali materie o sezioni pesano di più? | distribuisco tempo e attenzione |
 | N - Nuclei | quali contenuti devo salvare per non perdere punti facili? | proteggo le domande ad alta resa |
 | D - Diario | quali errori faccio sotto pressione? | preparo contromisure specifiche |
 | O - Output | che cosa devo consegnare o selezionare? | scelgo strategia per quiz, scritto, orale o caso |
 
-Questa mappa ha una conseguenza pratica: il punteggio non si prepara solo facendo piu domande.
+Questa mappa ha una conseguenza pratica: il punteggio non si prepara solo facendo più domande.
 
 Si prepara osservando come rispondi.
 
-Due candidati possono fare lo stesso numero di quiz e ottenere risultati diversi perche uno sa gestire tempo, incertezza e revisione, mentre l'altro procede in ordine rigido e si blocca.
+Due candidati possono fare lo stesso numero di quiz e ottenere risultati diversi perché uno sa gestire tempo, incertezza e revisione, mentre l'altro procede in ordine rigido e si blocca.
 
 La strategia non sostituisce lo studio.
 
@@ -133,9 +133,9 @@ Ma impedisce allo studio di disperdersi nel momento decisivo.
 
 ## Soglia: leggerla senza subirla
 
-La soglia e' una informazione operativa.
+La soglia è una informazione operativa.
 
-Non e' una sentenza psicologica.
+Non è una sentenza psicologica.
 
 Molti candidati leggono la soglia e reagiscono in due modi sbagliati:
 
@@ -150,11 +150,11 @@ Chiediti:
 2. quali materie o sezioni possono farmi perdere punti facili?
 3. quali errori ripetuti mi tengono sotto soglia?
 4. quanta distanza ho nelle simulazioni?
-5. quale parte della strategia puo migliorare subito il risultato?
+5. quale parte della strategia può migliorare subito il risultato?
 
 Non basta dire "sono sotto soglia".
 
-Devi capire perche.
+Devi capire perché.
 
 | Situazione | Interpretazione | Prossima azione |
 |---|---|---|
@@ -170,15 +170,15 @@ Serve a scegliere il prossimo lavoro.
 
 ## Tempo medio: utile, ma non assoluto
 
-Il tempo medio e' una guida, non una gabbia.
+Il tempo medio è una guida, non una gabbia.
 
-Se una prova ha molte domande, puoi stimare un tempo medio per domanda. Se ha tracce scritte, puoi distribuire tempo tra lettura, scaletta, stesura e revisione. Se e' orale, puoi allenarti a risposte di durata controllata.
+Se una prova ha molte domande, puoi stimare un tempo medio per domanda. Se ha tracce scritte, puoi distribuire tempo tra lettura, scaletta, stesura e revisione. Se è orale, puoi allenarti a risposte di durata controllata.
 
-Ma il tempo reale non e' uniforme.
+Ma il tempo reale non è uniforme.
 
-Ci sono domande immediate e domande lunghe. Ci sono tracce semplici e tracce che richiedono perimetro. Ci sono risposte orali che meritano trenta secondi in piu e altre che vanno chiuse.
+Ci sono domande immediate e domande lunghe. Ci sono tracce semplici e tracce che richiedono perimetro. Ci sono risposte orali che meritano trenta secondi in più e altre che vanno chiuse.
 
-La regola corretta e':
+La regola corretta è:
 
 > usa il tempo medio per non perderti, non per trattare tutte le domande come uguali.
 
@@ -198,15 +198,15 @@ Questa scheda va provata in simulazione.
 
 Non basta scriverla.
 
-Una strategia di tempo non testata e' solo un'intenzione.
+Una strategia di tempo non testata è solo un'intenzione.
 
 ## I tre giri nella prova a quiz
 
-Quando la prova e' a quiz, il candidato principiante spesso procede in ordine rigido: domanda 1, domanda 2, domanda 3, fino alla fine.
+Quando la prova è a quiz, il candidato principiante spesso procede in ordine rigido: domanda 1, domanda 2, domanda 3, fino alla fine.
 
-Questo metodo puo funzionare se la prova e' breve e lineare. Ma diventa rischioso quando incontri una domanda lunga, incerta o emotivamente bloccante.
+Questo metodo può funzionare se la prova è breve e lineare. Ma diventa rischioso quando incontri una domanda lunga, incerta o emotivamente bloccante.
 
-Una strategia piu solida usa tre giri.
+Una strategia più solida usa tre giri.
 
 | Giro | Che cosa fai | Obiettivo |
 |---|---|---|
@@ -214,15 +214,15 @@ Una strategia piu solida usa tre giri.
 | Secondo giro | lavori sulle domande probabili o ragionabili | recuperare punteggio senza blocco |
 | Terzo giro | rivedi incerte, omissioni e controlli formali | evitare errori di fretta |
 
-Il primo giro non e' superficialita.
+Il primo giro non è superficialità.
 
-E' gestione del rischio.
+È gestione del rischio.
 
-Se una domanda richiede troppo tempo, la segnali e vai avanti. In questo modo impedisci a una domanda di consumare il tempo di cinque domande piu semplici.
+Se una domanda richiede troppo tempo, la segnali e vai avanti. In questo modo impedisci a una domanda di consumare il tempo di cinque domande più semplici.
 
-La decisione su rispondere o lasciare una domanda incerta dipende dal bando: se sono previste penalita, il criterio cambia. Se non lo sai, non puoi decidere bene.
+La decisione su rispondere o lasciare una domanda incerta dipende dal bando: se sono previste penalità, il criterio cambia. Se non lo sai, non puoi decidere bene.
 
-Per questo la penalita non va scoperta durante la prova.
+Per questo la penalità non va scoperta durante la prova.
 
 Va registrata prima.
 
@@ -233,28 +233,28 @@ Usa questa matrice nelle simulazioni.
 | Tipo di domanda | Segnale | Azione possibile |
 |---|---|---|
 | Sicura | riconosci domanda e risposta senza dubbio serio | rispondi e vai avanti |
-| Probabile | hai una ragione forte, ma non piena certezza | segna, rispondi se il rischio e' compatibile |
+| Probabile | hai una ragione forte, ma non piena certezza | segna, rispondi se il rischio è compatibile |
 | Incerta | escludi qualcosa ma restano opzioni deboli | rinvia o valuta dopo secondo giro |
 | Lunga | sai farla ma richiede tempo | segna e torna se il tempo lo consente |
 | Bloccante | non capisci o ti agita | salta subito, non negoziare con la domanda |
 
-La parola chiave e' "compatibile".
+La parola chiave è "compatibile".
 
 Compatibile con cosa?
 
-Con le regole della prova, con la soglia, con il tempo rimasto, con le eventuali penalita, con il numero di domande ancora aperte e con il tuo livello di certezza.
+Con le regole della prova, con la soglia, con il tempo rimasto, con le eventuali penalità, con il numero di domande ancora aperte e con il tuo livello di certezza.
 
-La strategia non e' coraggio casuale.
+La strategia non è coraggio casuale.
 
-E' decisione informata.
+È decisione informata.
 
 ## La prova scritta: punteggio significa pertinenza
 
-Nella prova scritta il rischio principale non e' solo non sapere.
+Nella prova scritta il rischio principale non è solo non sapere.
 
-E' scrivere fuori bersaglio.
+È scrivere fuori bersaglio.
 
-Una risposta lunga, corretta in astratto ma non pertinente alla traccia, puo produrre meno valore di una risposta piu breve ma centrata.
+Una risposta lunga, corretta in astratto ma non pertinente alla traccia, può produrre meno valore di una risposta più breve ma centrata.
 
 Per questo il tempo va distribuito in quattro blocchi:
 
@@ -267,7 +267,7 @@ Per questo il tempo va distribuito in quattro blocchi:
 
 Il candidato sotto pressione tende a saltare la scaletta.
 
-E' un errore.
+È un errore.
 
 La scaletta non rallenta: impedisce di perdere tempo dopo.
 
@@ -292,7 +292,7 @@ Dipende anche da:
 - chiarezza;
 - collegamenti;
 - esempi;
-- capacita di non inventare;
+- capacità di non inventare;
 - gestione di una domanda imprevista;
 - chiusura.
 
@@ -306,11 +306,11 @@ Usa questa struttura:
 Definizione breve -> funzione -> riferimento sicuro -> esempio o collegamento -> chiusura
 ```
 
-Se hai un vuoto di memoria, non riempirlo con norme o dettagli incerti. Riparti da cio che sai:
+Se hai un vuoto di memoria, non riempirlo con norme o dettagli incerti. Riparti da ciò che sai:
 
 - il principio;
 - la funzione dell'istituto;
-- il collegamento con l'attivita amministrativa;
+- il collegamento con l'attività amministrativa;
 - un esempio prudente;
 - il perimetro della risposta.
 
@@ -320,7 +320,7 @@ Significa sapere come rientrare in carreggiata.
 
 ## Simulare il punteggio, non solo la prova
 
-Una simulazione e' utile solo se produce una decisione.
+Una simulazione è utile solo se produce una decisione.
 
 Dopo ogni simulazione devi compilare almeno questa griglia:
 
@@ -335,7 +335,7 @@ Dopo ogni simulazione devi compilare almeno questa griglia:
 | Errori di strategia | | |
 | Prossima modifica | | |
 
-La voce piu importante e' l'ultima.
+La voce più importante è l'ultima.
 
 Senza modifica, la simulazione resta una fotografia.
 
@@ -346,7 +346,7 @@ Esempi di decisione:
 - riduco il tempo massimo sulle domande bloccanti;
 - anticipo la revisione finale;
 - creo una scheda su un nucleo ricorrente;
-- alleno solo domande incerte con penalita simulata;
+- alleno solo domande incerte con penalità simulata;
 - faccio una micro-simulazione sulle tracce scritte;
 - registro nel Diario gli errori di lettura.
 
@@ -384,10 +384,10 @@ La prova mista premia il candidato che sa cambiare ritmo senza cambiare metodo.
 
 ## Da sapere in 5 righe
 
-1. Punteggi, soglie, penalita e durata si ricavano dal bando e dagli avvisi, non da regole generiche.
+1. Punteggi, soglie, penalità e durata si ricavano dal bando e dagli avvisi, non da regole generiche.
 2. La strategia di punteggio traduce quelle regole in tempo, ordine, rischio e revisione.
 3. Nella prova a quiz servono giri di risposta e classificazione della certezza.
-4. Nello scritto e nell'orale conta produrre l'output richiesto, non riversare tutto cio che si sa.
+4. Nello scritto e nell'orale conta produrre l'output richiesto, non riversare tutto ciò che si sa.
 5. Ogni simulazione deve generare una modifica concreta al piano o alla strategia.
 
 ## Caso guidato
@@ -402,10 +402,10 @@ Scopre che:
 
 - perde molto tempo sulle prime domande difficili;
 - cambia risposte corrette durante la revisione;
-- lascia domande facili alla fine, quando e' stanco;
+- lascia domande facili alla fine, quando è stanco;
 - non distingue domande incerte da domande bloccanti.
 
-La soluzione non e' solo studiare di piu.
+La soluzione non è solo studiare di più.
 
 Luca modifica la strategia:
 
@@ -417,15 +417,15 @@ Luca modifica la strategia:
 
 Dopo due simulazioni comparabili, il punteggio migliora.
 
-Non perche Luca abbia imparato improvvisamente tutto.
+Non perché Luca abbia imparato improvvisamente tutto.
 
-Perche ha smesso di perdere punti che gia poteva difendere.
+perché ha smesso di perdere punti che già poteva difendere.
 
 ## Domanda da commissario
 
-Perche il candidato deve conoscere le regole di punteggio prima di allenarsi?
+perché il candidato deve conoscere le regole di punteggio prima di allenarsi?
 
-Risposta guidata: perche punteggi, soglie, penalita, durata e formato della prova determinano il tipo di allenamento. Senza questi dati il candidato rischia di simulare una prova diversa da quella reale, gestire male il rischio, distribuire male il tempo e interpretare in modo errato i risultati delle simulazioni.
+Risposta guidata: perché punteggi, soglie, penalità, durata e formato della prova determinano il tipo di allenamento. Senza questi dati il candidato rischia di simulare una prova diversa da quella reale, gestire male il rischio, distribuire male il tempo e interpretare in modo errato i risultati delle simulazioni.
 
 ## Domanda-trappola
 
@@ -437,15 +437,15 @@ Risposta guidata: no. Conoscere una materia non garantisce saperla usare nel tem
 
 Il candidato corregge una simulazione guardando solo il numero finale.
 
-Se il punteggio e' basso, conclude che deve studiare tutto di piu.
+Se il punteggio è basso, conclude che deve studiare tutto di più.
 
-Se il punteggio e' alto, conclude che puo smettere di correggere.
+Se il punteggio è alto, conclude che può smettere di correggere.
 
 In entrambi i casi perde informazione.
 
 Il punteggio deve essere scomposto: materia, tempo, tipo di errore, certezza, domanda lasciata, revisione, ansia operativa, strategia.
 
-Solo cosi diventa una decisione.
+Solo così diventa una decisione.
 
 ## Mini-esercizio
 
@@ -456,8 +456,8 @@ Prendi il bando o l'avviso della prova che stai preparando e compila la scheda.
 | Tipo di prova | |
 | Durata | |
 | Punteggio massimo | |
-| Soglia o idoneita | |
-| Penalita previste | |
+| Soglia o idoneità | |
+| penalità previste | |
 | Numero di domande/tracce/parti | |
 | Tempo medio teorico | |
 | Tempo di revisione da proteggere | |
@@ -480,7 +480,7 @@ Prima della prova controlla:
 
 - ho letto bando e avvisi aggiornati?
 - conosco durata, formato, soglie e punteggi?
-- so se sono previste penalita?
+- so se sono previste penalità?
 - ho provato almeno una simulazione con timer?
 - ho classificato errori di conoscenza, lettura, tempo e strategia?
 - so quando saltare una domanda?
@@ -489,7 +489,7 @@ Prima della prova controlla:
 - ho controllato strumenti ammessi, documenti e convocazione?
 - ho scritto la mia scheda prova in una pagina?
 
-La strategia migliore e' quella che hai gia provato.
+La strategia migliore è quella che hai già provato.
 
 Il giorno della prova non deve essere il primo giorno in cui decidi come comportarti.
 
@@ -513,6 +513,6 @@ Il giorno della prova non deve essere il primo giorno in cui decidi come comport
 ## Note di review
 
 - Capitolo pronto come revised draft, da coordinare in revisione finale con i capitoli 14, 15, 16, 24, 34 e 36.
-- Le indicazioni su soglie, penalita e punteggi restano metodologiche: ogni dato numerico deve essere compilato dal candidato a partire dal bando e dagli avvisi ufficiali della procedura.
+- Le indicazioni su soglie, penalità e punteggi restano metodologiche: ogni dato numerico deve essere compilato dal candidato a partire dal bando e dagli avvisi ufficiali della procedura.
 - Prima della pubblicazione finale verificare il testo vigente della cornice normativa sui concorsi se il capitolo dovesse includere esempi normativi specifici.
 - In impaginazione valutare una pagina strumento "Regole della prova in una pagina" e una tabella compilabile per tempo medio, giri di risposta e revisione.

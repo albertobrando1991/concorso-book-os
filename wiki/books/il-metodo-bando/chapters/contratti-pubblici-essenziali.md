@@ -4,20 +4,20 @@ type: chapter
 title: "Contratti pubblici essenziali"
 status: revised_draft
 domain: concorsi pubblici italiani
-topics: ["contratti pubblici","appalti","concessioni","RUP","ANAC","MEPA","Consip","digitalizzazione contratti","procedure di affidamento","tracciabilita"]
-entities: ["D.Lgs. 36/2023","D.Lgs. 209/2024","RUP","ANAC","MEPA","Consip","BDNCP","FVOE","Stazione appaltante","Operatore economico","CIG"]
-source_refs: ["sources/struttura-madre-il-metodo-bando.md","sources/capitolo-9-corpus-fonti-ufficiali-contratti-pubblici-2026-05-26.md","sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024.md","sources/ciclo-contratti-pubblici-rup-stazione-appaltante-operatore-economico.md","sources/procedure-affidamento-gare-appalti-concessioni-soglie.md","sources/digitalizzazione-contratti-pubblici-anac-bdncp-fvoe-pcp.md","sources/mepa-consip-acquisti-in-rete-strumenti-acquisto-negoziazione.md","sources/trasparenza-anticorruzione-controlli-tracciabilita-contratti-pubblici.md"]
+topics: ["contratti pubblici", "appalti", "concessioni", "RUP", "ANAC", "MEPA", "Consip", "digitalizzazione contratti", "procedure di affidamento", "tracciabilità"]
+entities: ["D.Lgs. 36/2023", "D.Lgs. 209/2024", "RUP", "ANAC", "MEPA", "Consip", "BDNCP", "FVOE", "Stazione appaltante", "Operatore economico", "CIG"]
+source_refs: ["sources/struttura-madre-il-metodo-bando.md", "sources/capitolo-9-corpus-fonti-ufficiali-contratti-pubblici-2026-05-26.md", "sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024.md", "sources/ciclo-contratti-pubblici-rup-stazione-appaltante-operatore-economico.md", "sources/procedure-affidamento-gare-appalti-concessioni-soglie.md", "sources/digitalizzazione-contratti-pubblici-anac-bdncp-fvoe-pcp.md", "sources/mepa-consip-acquisti-in-rete-strumenti-acquisto-negoziazione.md", "sources/trasparenza-anticorruzione-controlli-tracciabilita-contratti-pubblici.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.92
 updated_at: "2026-05-29T10:30:00+02:00"
 created_at: "2026-05-10T11:45:00+02:00"
 review_required: false
 canonical: true
-tags: ["book-chapter","common-subject","revised"]
+tags: ["book-chapter", "common-subject", "revised"]
 book_id: il-metodo-bando
 outline_section: 9
 draft_stage: editorial-revision
-last_compiled_from: ["wiki/books/il-metodo-bando/struttura-madre.md","topics/contratti-pubblici.md","sources/capitolo-9-corpus-fonti-ufficiali-contratti-pubblici-2026-05-26.md","sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024.md","sources/ciclo-contratti-pubblici-rup-stazione-appaltante-operatore-economico.md","sources/procedure-affidamento-gare-appalti-concessioni-soglie.md","sources/digitalizzazione-contratti-pubblici-anac-bdncp-fvoe-pcp.md","sources/mepa-consip-acquisti-in-rete-strumenti-acquisto-negoziazione.md","sources/trasparenza-anticorruzione-controlli-tracciabilita-contratti-pubblici.md"]
+last_compiled_from: ["wiki/books/il-metodo-bando/struttura-madre.md", "topics/contratti-pubblici.md", "sources/capitolo-9-corpus-fonti-ufficiali-contratti-pubblici-2026-05-26.md", "sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024.md", "sources/ciclo-contratti-pubblici-rup-stazione-appaltante-operatore-economico.md", "sources/procedure-affidamento-gare-appalti-concessioni-soglie.md", "sources/digitalizzazione-contratti-pubblici-anac-bdncp-fvoe-pcp.md", "sources/mepa-consip-acquisti-in-rete-strumenti-acquisto-negoziazione.md", "sources/trasparenza-anticorruzione-controlli-tracciabilita-contratti-pubblici.md"]
 ---
 
 # Capitolo 9 - Contratti pubblici essenziali
@@ -253,7 +253,7 @@ Accanto a questi documenti possono comparire schema di contratto, modelli dichia
 Per partecipare a una procedura, l'operatore economico deve possedere requisiti. In forma essenziale, i requisiti possono riguardare:
 
 - ordine generale, cioè affidabilità e assenza di cause ostative rilevanti;
-- idoneita professionale;
+- idoneità professionale;
 - capacità economico-finanziaria;
 - capacità tecnico-professionale.
 
@@ -306,7 +306,7 @@ Gli elementi da conoscere sono:
 - controllo di tempi e qualità;
 - direzione dei lavori nei lavori pubblici;
 - direzione dell'esecuzione nei servizi e forniture quando prevista;
-- gestione di eventuali variazioni o criticita;
+- gestione di eventuali variazioni o criticità;
 - verifica di conformità o collaudo;
 - liquidazione e pagamento dopo i controlli necessari;
 - eventuali penali o rimedi se la prestazione non è corretta.
@@ -383,7 +383,7 @@ Il rischio corruttivo nei contratti è alto perché la PA sceglie operatori, ass
 
 I contratti pubblici sono attraversati da controlli interni ed esterni. I controlli possono riguardare:
 
-- legittimita degli atti;
+- legittimità degli atti;
 - regolarità amministrativa e contabile;
 - coerenza con programmazione e copertura finanziaria;
 - correttezza della procedura;
@@ -398,7 +398,7 @@ La responsabilità può essere amministrativa, contabile, disciplinare, civile o
 
 Il candidato deve evitare due estremi: pensare che ogni irregolarità sia automaticamente reato, oppure pensare che la procedura sia solo forma senza effetti. Nei contratti pubblici forma e sostanza sono legate: le regole servono a proteggere concorrenza, risorse e risultato.
 
-![Figura 9.6 - Dal portale al controllo: Consip, Acquisti in Rete, MEPA e strumenti digitali restano dentro motivazione, tracciabilità, esecuzione e responsabilità.](../assets/chapter-09/06-acquisti-controlli-responsabilita.png)
+![Figura 9.6 - Dal portale al controllo: Consip, Acquisti in Rete, MEPA e strumenti digitali restano dentro motivazione, tracciabilità, esecuzione e responsabilità.](../assets/chapter-09/06-acquisti-controlli-responsabilità.png)
 
 ## Schema operativo di risposta
 

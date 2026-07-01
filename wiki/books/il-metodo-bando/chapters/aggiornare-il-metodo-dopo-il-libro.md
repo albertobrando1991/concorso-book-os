@@ -26,9 +26,9 @@ last_compiled_from: ["sources/fonti-ufficiali-aggiornamento-metodo-bando-2026-06
 
 Questo libro non finisce quando arrivi all'ultima pagina.
 
-Finisce la lettura, ma non finisce il metodo. I bandi cambiano, le amministrazioni pubblicano avvisi, le piattaforme aggiornano funzioni, le graduatorie seguono regole di pubblicazione, alcune materie entrano o escono dai programmi e certe parole diventano piu frequenti nelle prove.
+Finisce la lettura, ma non finisce il metodo. I bandi cambiano, le amministrazioni pubblicano avvisi, le piattaforme aggiornano funzioni, le graduatorie seguono regole di pubblicazione, alcune materie entrano o escono dai programmi e certe parole diventano più frequenti nelle prove.
 
-Il rischio, pero, non e' solo restare indietro. Il rischio opposto e' inseguire ogni novita e perdere il piano.
+Il rischio, però, non è solo restare indietro. Il rischio opposto è inseguire ogni novità e perdere il piano.
 
 Aggiornare il Metodo BANDO significa fare una cosa molto precisa: controllare le fonti ufficiali, capire se cambia qualcosa per il tuo concorso e trasformare quel cambiamento in una decisione di studio.
 
@@ -46,19 +46,19 @@ Alla fine del capitolo avrai un protocollo per:
 - proteggere il calendario dall'ansia da aggiornamento;
 - mantenere il metodo vivo anche per il concorso successivo.
 
-Il principio e' semplice:
+Il principio è semplice:
 
 > un aggiornamento conta solo se cambia una decisione.
 
-Se non cambia requisiti, scadenze, prove, materie, punteggi, soglie, documenti, calendario, modalita di comunicazione o output richiesto, non deve far saltare il piano.
+Se non cambia requisiti, scadenze, prove, materie, punteggi, soglie, documenti, calendario, modalità di comunicazione o output richiesto, non deve far saltare il piano.
 
 ## Mappa BANDO dell'aggiornamento
 
 | Fase | Domanda di controllo | Azione |
 |---|---|---|
-| B - Bando | E' cambiato qualcosa nel bando, negli avvisi o nel portale? | Aggiorna requisiti, date, prove, documenti |
+| B - Bando | È cambiato qualcosa nel bando, negli avvisi o nel portale? | Aggiorna requisiti, date, prove, documenti |
 | A - Aree | L'aggiornamento tocca una materia o un modulo? | Riclassifica core, alta, modulo, verifica |
-| N - Nuclei | Cambia cio che devo sapere davvero? | Isola i concetti ad alta resa |
+| N - Nuclei | Cambia ciò che devo sapere davvero? | Isola i concetti ad alta resa |
 | D - Diario | Dove registro dubbio, errore o cambio piano? | Scrivi fonte, decisione e data di controllo |
 | O - Output | Cambia il tipo di prova o risposta da produrre? | Modifica quiz, caso, orale, simulazione |
 
@@ -68,7 +68,7 @@ La mappa evita due errori opposti: ignorare un avviso decisivo oppure trasformar
 
 ## La gerarchia delle fonti
 
-Non tutte le fonti hanno lo stesso peso. Quando due informazioni sembrano diverse, non devi chiederti quale ti piace di piu. Devi chiederti quale fonte comanda.
+Non tutte le fonti hanno lo stesso peso. Quando due informazioni sembrano diverse, non devi chiederti quale ti piace di più. Devi chiederti quale fonte comanda.
 
 | Livello | Fonte | Cosa controllare |
 |---|---|---|
@@ -76,7 +76,7 @@ Non tutte le fonti hanno lo stesso peso. Quando due informazioni sembrano divers
 | 2 | inPA | Bandi, candidature, comunicazioni, profilo, stato procedura |
 | 3 | Gazzetta Ufficiale | Pubblicazioni concorsuali e avvisi quando rilevanti |
 | 4 | Normattiva | Testo vigente di atti normativi |
-| 5 | Autorita e amministrazioni di settore | ANAC, AgID, Garante, DFP, SNA, ministeri competenti |
+| 5 | autorità e amministrazioni di settore | ANAC, AgID, Garante, DFP, SNA, ministeri competenti |
 | 6 | Manuali, corsi, articoli, gruppi | Spiegazione e supporto, mai fonte decisiva |
 
 La regola pratica:
@@ -89,18 +89,18 @@ La regola pratica:
 
 Il candidato confuso mescola quattro tipi di informazione diversi. Ognuno produce un'azione diversa.
 
-| Tipo | Cosa e' | Esempio | Peso nel metodo | Errore tipico |
+| Tipo | Cosa è | Esempio | Peso nel metodo | Errore tipico |
 |---|---|---|---|---|
-| Notizia | informazione generica su PA, concorsi o riforme | articolo su "nuove assunzioni" | Basso finche non tocca il tuo bando | aprire un modulo per un titolo di giornale |
+| Notizia | informazione generica su PA, concorsi o riforme | articolo su "nuove assunzioni" | Basso finché non tocca il tuo bando | aprire un modulo per un titolo di giornale |
 | Norma | testo legislativo o regolamentare vigente | modifica al D.lgs. sui concorsi | Medio-alto se citata nel programma | studiare una versione non verificata |
 | Avviso | comunicazione ufficiale della procedura | rettifica sede, diario prove, graduatoria | Alto se riguarda il concorso attivo | leggerlo tardi o non registrarlo |
 | Bando | atto base della selezione con requisiti e prove | bando e allegati pubblicati | Massimo: comanda piano e output | leggerlo una sola volta all'inizio |
 
-La domanda operativa e' sempre la stessa:
+La domanda operativa è sempre la stessa:
 
-> questa informazione e' notizia, norma, avviso o bando — e quale decisione mi costringe?
+> questa informazione è notizia, norma, avviso o bando — e quale decisione mi costringe?
 
-Una notizia interessante non apre un modulo. Un avviso ufficiale si. Una norma conta se il programma la richiama o se cambia un nucleo che stai gia studiando. Il bando resta il filtro finale.
+Una notizia interessante non apre un modulo. Un avviso ufficiale si. Una norma conta se il programma la richiama o se cambia un nucleo che stai già studiando. Il bando resta il filtro finale.
 
 Regola pratica:
 
@@ -113,16 +113,16 @@ Regola pratica:
 
 ### 1. inPA
 
-inPA e' la porta digitale del reclutamento pubblico. Serve per cercare bandi e avvisi, controllare procedure, leggere comunicazioni collegate e gestire candidature quando previsto.
+inPA è la porta digitale del reclutamento pubblico. Serve per cercare bandi e avvisi, controllare procedure, leggere comunicazioni collegate e gestire candidature quando previsto.
 
 Non usarlo come semplice motore di ricerca. Usalo con una domanda:
 
-- e' uscito un avviso nuovo?
-- e' cambiato lo stato della procedura?
+- è uscito un avviso nuovo?
+- è cambiato lo stato della procedura?
 - il bando rimanda a una pagina specifica?
 - ci sono istruzioni su domanda, allegati, graduatorie o comunicazioni?
 
-Ogni volta che trovi una novita, non copiarla soltanto. Scrivi che decisione produce.
+Ogni volta che trovi una novità, non copiarla soltanto. Scrivi che decisione produce.
 
 ### 2. Sito dell'amministrazione
 
@@ -136,7 +136,7 @@ Controllalo sempre quando:
 - hai dubbi su documenti o strumenti ammessi;
 - ci sono rinvii ad allegati o comunicazioni successive.
 
-Errore da evitare: leggere il bando una volta e poi non tornare piu sugli avvisi.
+Errore da evitare: leggere il bando una volta e poi non tornare più sugli avvisi.
 
 ### 3. Gazzetta Ufficiale
 
@@ -151,13 +151,13 @@ Non devi leggerla ogni giorno senza scopo. Devi usarla per verificare:
 
 ### 4. Normattiva
 
-Normattiva serve per controllare il testo vigente degli atti normativi nazionali. E' utile quando una materia cambia o quando devi verificare una norma citata nel programma.
+Normattiva serve per controllare il testo vigente degli atti normativi nazionali. È utile quando una materia cambia o quando devi verificare una norma citata nel programma.
 
 Usala per domande mirate:
 
-- qual e' il testo vigente del DPR sui concorsi?
-- il decreto legislativo richiamato e' stato modificato?
-- l'articolo che sto studiando e' ancora aggiornato?
+- qual è il testo vigente del DPR sui concorsi?
+- il decreto legislativo richiamato è stato modificato?
+- l'articolo che sto studiando è ancora aggiornato?
 - devo citare una norma in prova orale o scritta?
 
 Non usare Normattiva per studiare tutto da zero. Usala per verificare il fondamento.
@@ -168,7 +168,7 @@ Queste fonti aiutano a capire l'evoluzione delle competenze nella PA: formazione
 
 Nel Metodo BANDO servono soprattutto per:
 
-- capire perche i bandi chiedono competenze oltre la memoria;
+- capire perché i bandi chiedono competenze oltre la memoria;
 - leggere meglio quesiti situazionali e soft skill;
 - collegare profilo, comportamenti e valore pubblico;
 - costruire moduli di aggiornamento su competenze digitali, etica, trasparenza, sicurezza, inclusione.
@@ -179,21 +179,21 @@ Non trasformarle in un programma enciclopedico. Usale per capire la direzione de
 
 Alcune materie del nucleo comune cambiano per effetto di documenti, linee guida, FAQ o indicazioni istituzionali.
 
-ANAC e' rilevante per anticorruzione, trasparenza, contratti pubblici e amministrazione trasparente.
+ANAC è rilevante per anticorruzione, trasparenza, contratti pubblici e amministrazione trasparente.
 
-AgID e' rilevante per PA digitale, documenti informatici, servizi digitali, accessibilita, interoperabilita e gestione documentale.
+AgID è rilevante per PA digitale, documenti informatici, servizi digitali, accessibilità, interoperabilità e gestione documentale.
 
-Il Garante Privacy e' rilevante per protezione dei dati, pubblicazione di graduatorie, trasparenza online, dati dei candidati e bilanciamento tra pubblicita e riservatezza.
+Il Garante Privacy è rilevante per protezione dei dati, pubblicazione di graduatorie, trasparenza online, dati dei candidati e bilanciamento tra pubblicità e riservatezza.
 
-La domanda giusta non e': "Devo leggere tutto?"
+La domanda giusta non è: "Devo leggere tutto?"
 
-La domanda giusta e': "Questa fonte cambia il modo in cui rispondo a un quesito, risolvo un caso o leggo un avviso?"
+La domanda giusta è: "Questa fonte cambia il modo in cui rispondo a un quesito, risolvo un caso o leggo un avviso?"
 
 ![Figura 25.3 - Fonti da controllare davvero](../assets/chapter-25/03-fonti-da-controllare.png)
 
 ## Il protocollo dei 20 minuti
 
-Una volta a settimana, o piu spesso quando la prova e' vicina, usa questo controllo.
+Una volta a settimana, o più spesso quando la prova è vicina, usa questo controllo.
 
 | Minuti | Controllo | Esito |
 |---|---|---|
@@ -222,7 +222,7 @@ Ogni aggiornamento utile deve entrare in una scheda, non in un messaggio salvato
 |---|---|
 | Data controllo | Giorno in cui hai verificato |
 | Fonte | Bando, inPA, sito ente, Gazzetta, Normattiva, ANAC, AgID, Garante, DFP, SNA |
-| Cosa e' cambiato | Sintesi in una riga |
+| Cosa è cambiato | Sintesi in una riga |
 | Area BANDO toccata | Bando, Aree, Nuclei, Diario, Output |
 | Impatto | Scadenza, prova, materia, documento, modulo, ripasso |
 | Decisione | Cosa fai entro 48 ore |
@@ -234,7 +234,7 @@ Esempio:
 |---|---|
 | Data controllo | 3 giugno |
 | Fonte | Sito amministrazione |
-| Cosa e' cambiato | Pubblicato diario prova scritta |
+| Cosa è cambiato | Pubblicato diario prova scritta |
 | Area BANDO | Output |
 | Impatto | Serve simulazione con durata reale |
 | Decisione | Sabato simulazione completa |
@@ -250,31 +250,31 @@ Non ogni aggiornamento cambia il piano. Usa questa griglia.
 
 | Aggiornamento | Cambia il piano? | Cosa fare |
 |---|---|---|
-| Nuova data prova | Si | Ricalcola calendario e simulazioni |
-| Rettifica materie | Si | Aggiorna matrice e moduli |
+| Nuova data prova | Sì | Ricalcola calendario e simulazioni |
+| Rettifica materie | Sì | Aggiorna matrice e moduli |
 | Nuova sede | Non sempre | Aggiorna logistica e ultimi giorni |
-| FAQ su modalita domanda | Si, se tocca requisiti/documenti | Verifica domanda e ricevute |
+| FAQ su modalità domanda | Sì, se tocca requisiti/documenti | Verifica domanda e ricevute |
 | Nuova linea guida settoriale | Solo se materia/prova la rende rilevante | Inserisci nucleo essenziale |
 | Articolo di commento | No, se non rinvia a fonte ufficiale | Usa solo come spiegazione |
 | Discussione in gruppo | No | Verifica su fonte ufficiale |
 
 La domanda decisiva:
 
-> questa informazione mi costringe a cambiare un'azione gia pianificata?
+> questa informazione mi costringe a cambiare un'azione già pianificata?
 
-Se la risposta e' no, non toccare il calendario.
+Se la risposta è no, non toccare il calendario.
 
 ![Figura 25.6 - Cambiare o non cambiare il piano](../assets/chapter-25/06-cambiare-o-non-cambiare-piano.png)
 
 ## Quando aprire un modulo integrativo
 
-Un modulo integrativo non serve a "studiare di piu". Serve a colmare un vuoto verificato: materia nuova nel programma, profilo specialistico, prova diversa o nucleo settoriale reso obbligatorio da fonte ufficiale.
+Un modulo integrativo non serve a "studiare di più". Serve a colmare un vuoto verificato: materia nuova nel programma, profilo specialistico, prova diversa o nucleo settoriale reso obbligatorio da fonte ufficiale.
 
-Apri o intensifica un modulo integrativo solo se almeno una condizione e' vera:
+Apri o intensifica un modulo integrativo solo se almeno una condizione è vera:
 
 | Condizione | Segnale | Azione |
 |---|---|---|
-| Il bando aggiunge una materia non coperta dal nucleo comune | programma o allegato esplicito | inserisci modulo in matrice con priorita e output |
+| Il bando aggiunge una materia non coperta dal nucleo comune | programma o allegato esplicito | inserisci modulo in matrice con priorità e output |
 | La prova cambia formato | da quiz a scritto, da scritto a orale, caso pratico nuovo | attiva modulo di allenamento specifico |
 | Una fonte ufficiale rende obbligatorio un nucleo settoriale | linea guida, FAQ istituzionale, rettifica | estrai nucleo essenziale, non enciclopedia |
 | Il profilo richiede competenze non trasversali | modulo ministeriale, sanitario, tecnico, giuridico avanzato | collega al modulo profilo della famiglia concorsuale |
@@ -284,14 +284,14 @@ Non aprire un modulo integrativo quando:
 
 - un articolo o un gruppo suggerisce "potrebbero chiedere";
 - un corso aggiunge lezioni non previste dal bando;
-- una norma e' interessante ma non citata nel programma;
+- una norma è interessante ma non citata nel programma;
 - hai ansia da aggiornamento e cerchi sicurezza accumulando materiale.
 
-In questi casi la decisione corretta e': verifica fonte, confronta con bando, registra "nessun cambio operativo" e torna al piano.
+In questi casi la decisione corretta è: verifica fonte, confronta con bando, registra "nessun cambio operativo" e torna al piano.
 
 ## Proteggere il calendario dall'ansia da aggiornamento
 
-L'ansia da aggiornamento nasce quando ogni novita sembra urgente. Il metodo la riduce con tre regole.
+L'ansia da aggiornamento nasce quando ogni novità sembra urgente. Il metodo la riduce con tre regole.
 
 **Regola 1 — Finestra fissa, non controllo continuo**
 
@@ -308,16 +308,16 @@ Non ricalcolare tutto il piano per un avviso logistico. Aggiorna solo lo strumen
 | Segnale di ansia | Risposta metodo |
 |---|---|
 | "Devo controllare di nuovo" senza nuova fonte | scrivi ultimo controllo e prossima data |
-| "Forse e' cambiato tutto" | rileggi solo bando e avvisi ufficiali |
-| "Apro un manuale nuovo per sicurezza" | verifica se la materia e' nel programma |
-| "Salto la simulazione per leggere novita" | simulazione prima, aggiornamento dopo |
+| "Forse è cambiato tutto" | rileggi solo bando e avvisi ufficiali |
+| "Apro un manuale nuovo per sicurezza" | verifica se la materia è nel programma |
+| "Salto la simulazione per leggere novità" | simulazione prima, aggiornamento dopo |
 | "Studio due ore di notizie generiche" | taglia a 20 minuti e torna all'output |
 
-Il calendario e' il bene da proteggere. Le fonti servono a migliorarlo, non a sostituirlo ogni giorno.
+Il calendario è il bene da proteggere. Le fonti servono a migliorarlo, non a sostituirlo ogni giorno.
 
 ## Aggiornare la matrice materie/profili
 
-La matrice non e' una fotografia definitiva. E' uno strumento vivo.
+La matrice non è una fotografia definitiva. È uno strumento vivo.
 
 Devi aggiornarla quando:
 
@@ -348,7 +348,7 @@ Registra:
 - documento dimenticato;
 - materia sottovalutata;
 - cambio prova ignorato;
-- tempo perso su novita irrilevante;
+- tempo perso su novità irrilevante;
 - norma studiata su versione non verificata;
 - comunicazione salvata ma non trasformata in azione.
 
@@ -371,15 +371,15 @@ Un candidato migliora quando non ripete lo stesso errore di aggiornamento nel co
 
 ## Caso guidato
 
-Davide prepara un concorso amministrativo. Ha gia studiato procedimento, accesso, trasparenza, pubblico impiego e quiz.
+Davide prepara un concorso amministrativo. Ha già studiato procedimento, accesso, trasparenza, pubblico impiego e quiz.
 
-Una settimana prima della prova legge in un gruppo che "potrebbero chiedere piu privacy". Si agita e apre un manuale specialistico da 500 pagine.
+Una settimana prima della prova legge in un gruppo che "potrebbero chiedere più privacy". Si agita e apre un manuale specialistico da 500 pagine.
 
 Con il protocollo BANDO fa invece tre controlli:
 
-- rilegge il bando: privacy e' prevista come materia, ma in forma essenziale;
+- rilegge il bando: privacy è prevista come materia, ma in forma essenziale;
 - controlla il sito dell'amministrazione: nessuna rettifica del programma;
-- consulta le fonti consolidate del libro: trasparenza, accesso civico e protezione dati sono gia nel nucleo comune.
+- consulta le fonti consolidate del libro: trasparenza, accesso civico e protezione dati sono già nel nucleo comune.
 
 Decisione corretta:
 
@@ -395,19 +395,19 @@ Davide non ignora la privacy. La studia al livello richiesto.
 
 ## Domanda da commissario
 
-**Domanda:** Perche un candidato deve distinguere tra fonte ufficiale, manuale e commento?
+**Domanda:** perché un candidato deve distinguere tra fonte ufficiale, manuale e commento?
 
-**Risposta efficace:** perche la fonte ufficiale stabilisce il dato vincolante della procedura o della norma, mentre manuali e commenti servono a spiegare. Nel concorso il candidato deve partire da bando, avvisi, portali istituzionali e normativa vigente; poi puo usare strumenti didattici per comprendere e allenarsi. Se confonde questi livelli, rischia di studiare contenuti irrilevanti o di ignorare istruzioni decisive.
+**Risposta efficace:** perché la fonte ufficiale stabilisce il dato vincolante della procedura o della norma, mentre manuali e commenti servono a spiegare. Nel concorso il candidato deve partire da bando, avvisi, portali istituzionali e normativa vigente; poi può usare strumenti didattici per comprendere e allenarsi. Se confonde questi livelli, rischia di studiare contenuti irrilevanti o di ignorare istruzioni decisive.
 
 ## Domanda-trappola
 
-**Domanda:** Se una fonte ufficiale pubblica una novita, devo cambiare subito il piano?
+**Domanda:** Se una fonte ufficiale pubblica una novità, devo cambiare subito il piano?
 
-No. Prima devi capire se la novita riguarda il tuo bando, la tua materia, la tua prova o il tuo output. Una novita ufficiale puo essere importante in generale ma irrilevante per il concorso che stai preparando.
+No. Prima devi capire se la novità riguarda il tuo bando, la tua materia, la tua prova o il tuo output. Una novità ufficiale può essere importante in generale ma irrilevante per il concorso che stai preparando.
 
 ## Digitale e fonti: collegamento con R4
 
-Il controllo delle fonti puo fallire per due motivi opposti: non controlli abbastanza, oppure controlli in troppi posti senza metodo.
+Il controllo delle fonti può fallire per due motivi opposti: non controlli abbastanza, oppure controlli in troppi posti senza metodo.
 
 Nel modulo **R4** (Cap. 28) hai il protocollo per usare digitale, cartelle, promemoria e AI senza perdere il filo. Qui restano valide tre regole incrociate:
 
@@ -417,7 +417,7 @@ Nel modulo **R4** (Cap. 28) hai il protocollo per usare digitale, cartelle, prom
 | Decidere | aggiornare Bando Decoder dopo ogni avviso rilevante | compilare schede senza tagliare |
 | Ricordare | promemoria settimanale "protocollo 20 minuti" | notifiche continue da gruppi e feed |
 
-Non chiedere a un assistente AI se il bando e' cambiato: chiedigli di organizzare cio che hai gia verificato su inPA, sito ente o Normattiva. La verifica resta tua.
+Non chiedere a un assistente AI se il bando è cambiato: chiedigli di organizzare ciò che hai già verificato su inPA, sito ente o Normattiva. La verifica resta tua.
 
 Se usi il ricettario digitale, tieni una cartella minima:
 
@@ -426,7 +426,7 @@ Se usi il ricettario digitale, tieni una cartella minima:
 - `schede-aggiornamento/` — una scheda per ogni decisione;
 - `fonti-settoriali/` — solo documenti collegati al programma.
 
-Ogni file deve avere data e fonte nell'intestazione. Senza data, non e' aggiornamento: e' rumore archiviato.
+Ogni file deve avere data e fonte nell'intestazione. Senza data, non è aggiornamento: è rumore archiviato.
 
 ## Scheda workbook: Registro fonti settimanale
 
@@ -437,7 +437,7 @@ Compila questa scheda ogni settimana dopo il protocollo dei 20 minuti. Se non tr
 | Settimana / concorso | |
 | Data controllo | |
 | Fonti controllate (spunta) | inPA / sito ente / bando / Gazzetta / Normattiva / settoriale |
-| Novita rilevata | Si / No |
+| novità rilevata | Sì / No |
 | Tipo informazione | notizia / norma / avviso / bando |
 | Impatto su piano | nessuno / logistico / materia / prova / documento |
 | Strumento aggiornato | Bando Decoder / matrice / diario / checklist / modulo |
@@ -448,8 +448,8 @@ Checklist rapida post-controllo:
 
 | Voce | Fatto |
 |---|---|
-| Ho confrontato la novita con il bando | |
-| Ho scritto la decisione, non solo la novita | |
+| Ho confrontato la novità con il bando | |
+| Ho scritto la decisione, non solo la novità | |
 | Ho evitato di aprire moduli non richiesti | |
 | Ho protetto almeno un blocco di studio o output | |
 | Ho registrato "nessun cambio" se non serve agire | |
@@ -465,7 +465,7 @@ Prendi il concorso che stai preparando e compila la tabella.
 | Sito amministrazione | | | | |
 | Gazzetta Ufficiale | | | | |
 | Normattiva | | | | |
-| Autorita settoriale | | | | |
+| autorità settoriale | | | | |
 | Diario errori | | | | |
 
 Poi scegli una sola azione:
@@ -478,9 +478,9 @@ Se non devi aggiornare nulla, scrivi "nessun cambio operativo" e torna a studiar
 
 ## Errore tipico
 
-L'errore tipico e' chiamare "aggiornamento" qualsiasi informazione nuova.
+L'errore tipico è chiamare "aggiornamento" qualsiasi informazione nuova.
 
-Una notizia nuova non e' sempre una decisione nuova. Un PDF nuovo non e' sempre una materia nuova. Una discussione in gruppo non e' una fonte. Un corso che aggiunge lezioni non modifica il bando.
+Una notizia nuova non è sempre una decisione nuova. Un PDF nuovo non è sempre una materia nuova. Una discussione in gruppo non è una fonte. Un corso che aggiunge lezioni non modifica il bando.
 
 Correzione:
 
@@ -492,9 +492,9 @@ Correzione:
 
 ## Chiusura operativa
 
-Il Metodo BANDO serve a preparare piu concorsi senza ricominciare da zero.
+Il Metodo BANDO serve a preparare più concorsi senza ricominciare da zero.
 
-Questo e' possibile solo se il tuo sistema resta aggiornato senza diventare instabile. Dopo ogni concorso, conserva:
+Questo è possibile solo se il tuo sistema resta aggiornato senza diventare instabile. Dopo ogni concorso, conserva:
 
 - Bando Decoder compilato;
 - matrice materie/profili;
@@ -514,9 +514,9 @@ Prima del concorso successivo, verifica che il sistema di aggiornamento sia anco
 | So distinguere notizia, norma, avviso e bando | |
 | Ho almeno una scheda aggiornamento compilata di prova | |
 | Il digitale (R4) non sostituisce la verifica sulle fonti | |
-| Il calendario e' protetto da controlli fuori finestra | |
+| Il calendario è protetto da controlli fuori finestra | |
 
-Il prossimo concorso non parte da una pagina bianca. Parte da un sistema gia allenato che sa quando cambiare e quando continuare.
+Il prossimo concorso non parte da una pagina bianca. Parte da un sistema già allenato che sa quando cambiare e quando continuare.
 
 ## Riferimenti consolidati
 
@@ -538,7 +538,7 @@ Il prossimo concorso non parte da una pagina bianca. Parte da un sistema gia all
 
 ## Note di review
 
-- La struttura madre originaria arriva al Capitolo 24 e alle Appendici A-F. Questo capitolo e' un'estensione editoriale finale: in impaginazione decidere se mantenerlo come Capitolo 25 o trasformarlo in "Conclusione operativa".
+- La struttura madre originaria arriva al Capitolo 24 e alle Appendici A-F. Questo capitolo è un'estensione editoriale finale: in impaginazione decidere se mantenerlo come Capitolo 25 o trasformarlo in "Conclusione operativa".
 - Prima della pubblicazione finale verificare di nuovo le pagine ufficiali citate, in particolare inPA, Gazzetta Ufficiale, Normattiva, DFP/Syllabus, ANAC, AgID e Garante Privacy.
 - Evitare formule che promettono aggiornamento normativo completo: il capitolo insegna il metodo di verifica, non sostituisce le fonti ufficiali.
 - Scheda workbook "Registro fonti settimanale" inserita nel capitolo; in impaginazione valutare estrazione come PDF compilabile autonomo.

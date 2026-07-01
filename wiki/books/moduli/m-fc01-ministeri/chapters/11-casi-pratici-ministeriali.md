@@ -4,16 +4,16 @@ type: book_chapter
 title: "Casi pratici ministeriali"
 status: structure
 domain: "concorsi pubblici italiani"
-topics: ["casi pratici","problem solving amministrativo","ministeri"]
-entities: ["Ministeri","Presidenza del Consiglio dei ministri","Avvocatura dello Stato"]
-source_refs: ["sources/inpa-formez-ripam-concorsi-funzioni-centrali.md","sources/governo-presidenza-consiglio-ministeri-organizzazione.md","sources/avvocatura-stato-organizzazione-funzioni.md","sources/fonti-trasversali-m-fc01-piao-anac-agid.md"]
-book_refs: ["m-fc01-ministeri","il-metodo-bando"]
+topics: ["casi pratici", "problem solving amministrativo", "ministeri"]
+entities: ["Ministeri", "Presidenza del Consiglio dei ministri", "Avvocatura dello Stato"]
+source_refs: ["sources/inpa-formez-ripam-concorsi-funzioni-centrali.md", "sources/governo-presidenza-consiglio-ministeri-organizzazione.md", "sources/avvocatura-stato-organizzazione-funzioni.md", "sources/fonti-trasversali-m-fc01-piao-anac-agid.md"]
+book_refs: ["m-fc01-ministeri", "il-metodo-bando"]
 confidence: 0.82
 updated_at: 2026-06-27T22:08:22+02:00
 created_at: 2026-06-27T22:08:22+02:00
 review_required: true
 canonical: true
-tags: ["book-chapter","module-code-m-fc01","structure"]
+tags: ["book-chapter", "module-code-m-fc01", "structure"]
 book_id: m-fc01-ministeri
 outline_section: 11
 draft_stage: source-ready

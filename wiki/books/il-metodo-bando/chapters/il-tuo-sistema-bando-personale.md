@@ -4,7 +4,7 @@ type: chapter
 title: "Il tuo sistema BANDO personale"
 status: revised_draft
 domain: "concorsi pubblici italiani"
-topics: ["sistema bando personale", "metodo bando", "capitale studio riutilizzabile", "aggiornamento fonti concorsi", "diario errori", "piano 30 60 90 giorni", "strumenti digitali metodo bando", "sostenibilita preparazione concorsi"]
+topics: ["sistema bando personale", "metodo bando", "capitale studio riutilizzabile", "aggiornamento fonti concorsi", "diario errori", "piano 30 60 90 giorni", "strumenti digitali metodo bando", "sostenibilità preparazione concorsi"]
 entities: ["Metodo BANDO", "Bando Decoder", "Diario degli errori", "Piano 30/60/90 giorni", "Moduli Profilo", "inPA"]
 source_refs: ["sources/sistema-bando-personale-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/struttura-madre-il-metodo-bando.md", "sources/capitale-studio-riutilizzabile-metodo-bando.md", "sources/fonti-ufficiali-aggiornamento-metodo-bando-2026-06-03.md", "sources/strumenti-digitali-metodo-bando.md", "sources/sostenibilita-preparazione-concorsi-metodo-bando.md", "sources/checklist-operative-concorsi-metodo-bando.md", "sources/presa-servizio-pa-metodo-bando.md"]
 book_refs: ["il-metodo-bando"]
@@ -22,23 +22,23 @@ last_compiled_from: ["sources/sistema-bando-personale-metodo-bando.md", "topics/
 
 # Capitolo 32 - Il tuo sistema BANDO personale
 
-> Modulo ricettario **R8** — Cruscotto personale BANDO. Collega [[books/il-metodo-bando/chapters/il-metodo-bando|Cap. 3]], [[books/il-metodo-bando/chapters/sistema-adattabile|Cap. 22]] e [[books/il-metodo-bando/chapters/diario-degli-errori|Cap. 23]]; incrocia [[books/il-metodo-bando/chapters/aggiornare-il-metodo-dopo-il-libro|R1]], [[books/il-metodo-bando/chapters/trasformare-ogni-concorso-in-capitale-di-studio|R2]], [[books/il-metodo-bando/chapters/usare-il-digitale-senza-perdere-il-metodo|R4]], [[books/il-metodo-bando/chapters/reggere-la-preparazione-energia-ansia-continuita|R5]], [[books/il-metodo-bando/chapters/dopo-la-prova-esiti-graduatoria-prossima-mossa|R6]] e [[books/il-metodo-bando/chapters/prendere-servizio-nella-pa-dal-concorso-al-ruolo|R7]].
+> Modulo ricettario **R8** — Cruscotto personale BANDO. Collega [[books/il-metodo-bando/chapters/il-metodo-bando|Cap. 3]], [[books/il-metodo-bando/chapters/sistema-adattabile|Cap. 22]] e [[books/il-metodo-bando/chapters/diario-degli-errori|Cap. 23]]; incrocia [[books/il-metodo-bando/chapters/aggiornare-il-metodo-dopo-il-libro|R1]], [[books/il-metodo-bando/chapters/trasformare-ogni-concorso-in-capitale-di-studio|R2]], [[books/il-metodo-bando/chapters/usare-il-digitale-senza-perdere-il-metodo|R4]], [[books/il-metodo-bando/chapters/reggere-la-preparazione-energia-ansia-continuità|R5]], [[books/il-metodo-bando/chapters/dopo-la-prova-esiti-graduatoria-prossima-mossa|R6]] e [[books/il-metodo-bando/chapters/prendere-servizio-nella-pa-dal-concorso-al-ruolo|R7]].
 
 Un libro di metodo fallisce quando viene letto e poi lasciato chiuso.
 
 Funziona quando diventa un sistema.
 
-Il Metodo BANDO non e' una sequenza di capitoli da ricordare. E' un modo di lavorare: leggere il bando, ordinare le aree, scegliere i nuclei, registrare errori, produrre output, aggiornare il piano, riusare capitale.
+Il Metodo BANDO non è una sequenza di capitoli da ricordare. È un modo di lavorare: leggere il bando, ordinare le aree, scegliere i nuclei, registrare errori, produrre output, aggiornare il piano, riusare capitale.
 
 Se dopo aver chiuso questo libro riparti da zero al prossimo concorso, il libro non ha fatto il suo lavoro.
 
-Se invece apri un nuovo bando e sai subito dove guardare, che cosa copiare, che cosa cambiare, che cosa tagliare e quale output produrre, allora il metodo e' diventato tuo.
+Se invece apri un nuovo bando e sai subito dove guardare, che cosa copiare, che cosa cambiare, che cosa tagliare e quale output produrre, allora il metodo è diventato tuo.
 
-Questo capitolo serve a costruire il tuo sistema BANDO personale: poche pagine vive, poche revisioni ricorrenti, poche regole per non disperdere cio che hai costruito.
+Questo capitolo serve a costruire il tuo sistema BANDO personale: poche pagine vive, poche revisioni ricorrenti, poche regole per non disperdere ciò che hai costruito.
 
-Non e' una conclusione motivazionale.
+Non è una conclusione motivazionale.
 
-E' una procedura di manutenzione.
+È una procedura di manutenzione.
 
 ## Obiettivo del capitolo
 
@@ -53,9 +53,9 @@ Alla fine del capitolo saprai:
 - riaprire il sistema davanti a un nuovo bando;
 - capire quando il metodo sta funzionando davvero.
 
-La regola e' questa:
+La regola è questa:
 
-> il metodo non e' cio che hai letto. E' cio che sai ripetere quando arriva un nuovo bando.
+> il metodo non è ciò che hai letto. È ciò che sai ripetere quando arriva un nuovo bando.
 
 ## Mappa BANDO del sistema personale
 
@@ -85,7 +85,7 @@ Devi mantenere vive cinque pagine.
 | Matrice materie/profili | distingue comune e specialistico | quando confronti due concorsi |
 | Piano personale | trasforma tempo in output | ogni settimana |
 | Diario degli errori | corregge il sistema | dopo quiz, simulazioni e prove |
-| Archivio capitale | conserva cio che riusi | dopo ogni prova o chiusura concorso |
+| Archivio capitale | conserva ciò che riusi | dopo ogni prova o chiusura concorso |
 
 Se queste cinque pagine sono vive, il sistema respira.
 
@@ -101,11 +101,11 @@ Usa tre revisioni.
 
 | Tempo | Quando | Cosa fai |
 |---|---|---|
-| 15 minuti | fine settimana | controlli piano, output, errori principali e prossima priorita |
+| 15 minuti | fine settimana | controlli piano, output, errori principali e prossima priorità |
 | 30 minuti | dopo prova, nuovo bando o avviso importante | aggiorni Decoder, Diario, capitale e decisione |
-| 60 minuti | fine mese o cambio strategico | rivedi portafoglio concorsi, materiali, moduli e sostenibilita |
+| 60 minuti | fine mese o cambio strategico | rivedi portafoglio concorsi, materiali, moduli e sostenibilità |
 
-La revisione da 15 minuti mantiene continuita.
+La revisione da 15 minuti mantiene continuità.
 
 La revisione da 30 minuti chiude un evento.
 
@@ -131,12 +131,12 @@ Compila una tabella come questa.
 | Errori ricorrenti | | |
 | Fonti da controllare | | |
 | Capitale riutilizzabile | | |
-| Energia e sostenibilita | | |
+| Energia e sostenibilità | | |
 | Decisione della settimana | | |
 
 Il cruscotto non serve a decorare il metodo. Serve a togliere decisioni dalla testa.
 
-Quando non sai che cosa fare, leggi il cruscotto. Se e' vuoto, il problema non e' la motivazione. E' la mancanza di dati.
+Quando non sai che cosa fare, leggi il cruscotto. Se è vuoto, il problema non è la motivazione. È la mancanza di dati.
 
 ## Mantieni, aggiorna, archivia
 
@@ -150,9 +150,9 @@ Ogni materiale deve avere un destino.
 | Aggiorna | materiale utile ma superato o incompleto | tabella su fonti dopo nuovo avviso |
 | Archivia | materiale duplicato, passivo o non collegato a output | riassunto copiato e mai usato |
 
-La cartella piena non e' capitale.
+La cartella piena non è capitale.
 
-Il capitale e' cio che puoi riaprire tra un mese e usare senza ricostruire tutto.
+Il capitale è ciò che puoi riaprire tra un mese e usare senza ricostruire tutto.
 
 Ogni mese elimina almeno tre materiali inutili. Non per fare pulizia estetica, ma per proteggere attenzione.
 
@@ -189,9 +189,9 @@ Il metodo serve anche a dire no.
 
 ## Digitale minimo, carta sufficiente
 
-Il sistema BANDO puo vivere su carta, su file o in una combinazione dei due.
+Il sistema BANDO può vivere su carta, su file o in una combinazione dei due.
 
-La regola e' che deve essere esportabile e comprensibile anche senza l'app del momento.
+La regola è che deve essere esportabile e comprensibile anche senza l'app del momento.
 
 Il digitale serve a:
 
@@ -211,7 +211,7 @@ Non serve a:
 - spostare continuamente il sistema;
 - studiare senza output.
 
-Se uno strumento non aggiorna una delle cinque pagine vive, probabilmente e' rumore.
+Se uno strumento non aggiorna una delle cinque pagine vive, probabilmente è rumore.
 
 Per il protocollo digitale completo (catturare, decidere, ricordare, backup, AI sicura) vedi **R4** (Cap. 28). Qui resta la regola: il digitale alimenta le cinque pagine vive, non le sostituisce.
 
@@ -221,7 +221,7 @@ Per il protocollo digitale completo (catturare, decidere, ricordare, backup, AI 
 
 Dopo ogni prova, il sistema va chiuso.
 
-Non importa se e' andata bene o male. Devi fare quattro passaggi:
+Non importa se è andata bene o male. Devi fare quattro passaggi:
 
 1. salva esiti, avvisi e documenti;
 2. compila la scheda post-prova (modulo **R6**, Cap. 30);
@@ -245,7 +245,7 @@ Sequenza:
 1. leggi requisiti, scadenze, prove e materie;
 2. compila il Bando Decoder;
 3. confronta con Matrice materie/profili;
-4. recupera capitale gia valido;
+4. recupera capitale già valido;
 5. individua moduli mancanti;
 6. costruisci piano;
 7. definisci output della prima settimana.
@@ -256,7 +256,7 @@ Il bando viene prima del materiale.
 
 ## Caso guidato
 
-Elena ha chiuso questo libro e ha tre cartelle piene di appunti. Dopo due settimane esce un nuovo concorso per un profilo amministrativo-contabile. La prima reazione e' comprare un nuovo manuale e ricominciare da capo.
+Elena ha chiuso questo libro e ha tre cartelle piene di appunti. Dopo due settimane esce un nuovo concorso per un profilo amministrativo-contabile. La prima reazione è comprare un nuovo manuale e ricominciare da capo.
 
 Poi applica il sistema BANDO personale.
 
@@ -270,7 +270,7 @@ In 30 minuti compila il Decoder:
 - documenti;
 - canali ufficiali.
 
-Poi apre la Matrice materie/profili. Scopre che ha gia capitale su procedimento, pubblico impiego, trasparenza, privacy, PA digitale, logica e inglese. Le mancano contabilita e alcuni elementi specialistici del profilo.
+Poi apre la Matrice materie/profili. Scopre che ha già capitale su procedimento, pubblico impiego, trasparenza, privacy, PA digitale, logica e inglese. Le mancano contabilità e alcuni elementi specialistici del profilo.
 
 Aggiorna il piano:
 
@@ -292,9 +292,9 @@ Elena non ha fatto meno lavoro. Ha fatto meno lavoro inutile.
 
 ## Domanda da commissario
 
-**Domanda:** Perche un candidato che prepara piu concorsi non dovrebbe ricominciare ogni volta da zero?
+**Domanda:** perché un candidato che prepara più concorsi non dovrebbe ricominciare ogni volta da zero?
 
-**Risposta efficace:** perche molti concorsi condividono nuclei comuni, strumenti di metodo, materie trasversali e formati di prova. Ricominciare da zero disperde tempo e impedisce di consolidare errori corretti, schemi, domande, simulazioni e fonti gia verificate. Il candidato deve distinguere cio che resta comune da cio che cambia per profilo, aggiornando il piano in base al bando e trasformando ogni esperienza in capitale di studio riutilizzabile.
+**Risposta efficace:** perché molti concorsi condividono nuclei comuni, strumenti di metodo, materie trasversali e formati di prova. Ricominciare da zero disperde tempo e impedisce di consolidare errori corretti, schemi, domande, simulazioni e fonti già verificate. Il candidato deve distinguere ciò che resta comune da ciò che cambia per profilo, aggiornando il piano in base al bando e trasformando ogni esperienza in capitale di studio riutilizzabile.
 
 ## Domanda-trappola
 
@@ -304,9 +304,9 @@ Elena non ha fatto meno lavoro. Ha fatto meno lavoro inutile.
 
 ## Errore tipico
 
-L'errore tipico e' innamorarsi del proprio metodo.
+L'errore tipico è innamorarsi del proprio metodo.
 
-Il metodo e' utile finche produce decisioni, output e correzioni. Se diventa un insieme di template compilati per abitudine, senza collegamento a bando, prove ed errori, smette di funzionare.
+Il metodo è utile finché produce decisioni, output e correzioni. Se diventa un insieme di template compilati per abitudine, senza collegamento a bando, prove ed errori, smette di funzionare.
 
 Ogni mese chiediti:
 
@@ -316,7 +316,7 @@ Ogni mese chiediti:
 - mi ha fatto correggere errori?
 - mi ha fatto riusare capitale?
 
-Se la risposta e' no, non aggiungere strumenti. Semplifica.
+Se la risposta è no, non aggiungere strumenti. Semplifica.
 
 ## Mini-esercizio
 
@@ -324,16 +324,16 @@ Costruisci il tuo cruscotto BANDO personale.
 
 | Voce | Risposta |
 |---|---|
-| Qual e' il mio concorso principale ora? | |
-| Qual e' il mio concorso secondario, se esiste? | |
-| Quale capitale comune possiedo gia? | |
+| qual è il mio concorso principale ora? | |
+| qual è il mio concorso secondario, se esiste? | |
+| Quale capitale comune possiedo già? | |
 | Quale modulo specialistico manca? | |
 | Quale output devo produrre questa settimana? | |
 | Quale errore ricorrente devo correggere? | |
 | Quale fonte ufficiale devo controllare? | |
 | Quale materiale devo archiviare o eliminare? | |
 | Quale revisione devo fare: 15, 30 o 60 minuti? | |
-| Qual e' la prossima mossa verificabile? | |
+| qual è la prossima mossa verificabile? | |
 
 Non completare la tabella per fare ordine mentale. Completala per decidere un'azione.
 
@@ -369,15 +369,15 @@ Compila questa scheda ogni fine settimana, prima di aprire nuovi materiali o gru
 | Quale fonte ufficiale devo controllare (R1)? | |
 | Quale materiale mantengo, aggiorno o archivio? | |
 | Il cruscotto ha almeno una "prossima azione" per area attiva? | |
-| Energia e sostenibilita: semaforo verde, giallo o rosso (R5)? | |
-| Se c'e' un nuovo bando, ho aperto prima il metodo o i materiali? | |
-| Qual e' la prossima mossa verificabile entro sette giorni? | |
+| Energia e sostenibilità: semaforo verde, giallo o rosso (R5)? | |
+| Se c'è un nuovo bando, ho aperto prima il metodo o i materiali? | |
+| qual è la prossima mossa verificabile entro sette giorni? | |
 
-La scheda e' utile solo se produce un'azione concreta: aggiornamento di una pagina viva, archiviazione di un duplicato, simulazione programmata o controllo fonti con data.
+La scheda è utile solo se produce un'azione concreta: aggiornamento di una pagina viva, archiviazione di un duplicato, simulazione programmata o controllo fonti con data.
 
 ## Registro revisioni manutenzione
 
-Il registro non e' un diario motivazionale. E' la traccia minima che dimostra che il sistema respira.
+Il registro non è un diario motivazionale. È la traccia minima che dimostra che il sistema respira.
 
 | Data | Tipo revisione (15/30/60) | Evento scatenante | Pagina viva toccata | Decisione presa | Prossimo controllo |
 |---|---|---|---|---|---|
@@ -387,18 +387,18 @@ Il registro non e' un diario motivazionale. E' la traccia minima che dimostra ch
 
 Frequenza consigliata:
 
-- **15 minuti**: ogni fine settimana, anche senza novita;
+- **15 minuti**: ogni fine settimana, anche senza novità;
 - **30 minuti**: dopo prova, nuovo bando, avviso rilevante o chiusura concorso;
 - **60 minuti**: fine mese, cambio portafoglio concorsi o segnale di sovraccarico (R3, R5).
 
-Se il registro resta vuoto per piu di due settimane mentre studi molte ore, il problema non e' la motivazione: e' l'assenza di manutenzione.
+Se il registro resta vuoto per più di due settimane mentre studi molte ore, il problema non è la motivazione: è l'assenza di manutenzione.
 
 ## Cinque segnali che il sistema funziona
 
 Verifica periodicamente se il metodo produce effetti misurabili:
 
 1. **Apertura bando rapida**: davanti a un nuovo concorso compili il Decoder in meno di un'ora senza ricominciare da zero.
-2. **Capitale riutilizzato**: almeno il 40-60% del piano del nuovo bando deriva da nuclei, schemi o simulazioni gia validi (R2).
+2. **Capitale riutilizzato**: almeno il 40-60% del piano del nuovo bando deriva da nuclei, schemi o simulazioni già validi (R2).
 3. **Errori che non tornano**: il Diario mostra correzioni verificate, non le stesse lacune per tre prove consecutive.
 4. **Decisioni scritte**: ogni cambio di piano ha un dato reale (bando, prova, errore dimostrato), non ansia o commenti esterni.
 5. **Chiusura prove**: dopo ogni prova hai scheda post-prova, capitale aggiornato e prossima mossa (R6), anche prima dell'esito ufficiale.
@@ -415,11 +415,11 @@ Intervieni subito se compaiono questi sintomi:
 4. **Studio senza output**: ore di lettura ma zero quiz, simulazioni, schede o casi nella settimana.
 5. **Prove senza chiusura**: dopo l'esame non aggiorni Diario, capitale o registro avvisi (R6).
 
-La correzione non e' aggiungere strumenti. E' semplificare: una revisione da 30 minuti, un materiale da archiviare, un output da programmare, un controllo fonti con data (R1).
+La correzione non è aggiungere strumenti. È semplificare: una revisione da 30 minuti, un materiale da archiviare, un output da programmare, un controllo fonti con data (R1).
 
 ## Chiusura operativa
 
-Il sistema BANDO personale e' costruito quando le cinque pagine vive sono operative e la manutenzione e' ripetibile, non quando hai finito di leggere il libro.
+Il sistema BANDO personale è costruito quando le cinque pagine vive sono operative e la manutenzione è ripetibile, non quando hai finito di leggere il libro.
 
 | Azione | Fatto |
 |---|---|
@@ -432,7 +432,7 @@ Il sistema BANDO personale e' costruito quando le cinque pagine vive sono operat
 | So chiudere ogni prova con scheda post-prova e capitale (R6, R2) | |
 | So aprire un nuovo bando con il metodo prima dei materiali | |
 | Ho compilato la scheda workbook "Revisione sistema in 15 minuti" almeno una volta | |
-| Il registro revisioni manutenzione e' attivo o ho fissato la prima data di revisione | |
+| Il registro revisioni manutenzione è attivo o ho fissato la prima data di revisione | |
 
 Il Metodo BANDO non termina con l'ultimo capitolo. Termina quando sai riaprirlo davanti a ogni nuovo bando, ogni prova e ogni fase successiva — compreso l'ingresso in PA (R7) — senza ricominciare da zero.
 
@@ -454,7 +454,7 @@ Il Metodo BANDO non termina con l'ultimo capitolo. Termina quando sai riaprirlo 
 
 ## Note di review
 
-- La struttura madre originaria non prevedeva il Capitolo 32. Questo capitolo e' un'estensione editoriale: in revisione decidere se mantenerlo numerato o trasformarlo in epilogo fuori numerazione.
+- La struttura madre originaria non prevedeva il Capitolo 32. Questo capitolo è un'estensione editoriale: in revisione decidere se mantenerlo numerato o trasformarlo in epilogo fuori numerazione.
 - Coordinare il capitolo con Cap. 25 (R1), Cap. 26 (R2) e Appendici C-F per evitare ripetizioni sui template.
 - Scheda workbook "Revisione sistema in 15 minuti", registro revisioni manutenzione e chiusura operativa inseriti nel capitolo; in impaginazione valutare estrazione come PDF compilabile autonomo ("Il mio cruscotto BANDO personale").
-- Coordinare rimandi con Cap. 3 (metodo BANDO), Cap. 22 (piano 30/60/90), Cap. 23 (Diario), R4 (digitale), R5 (sostenibilita), R6 (dopo-prova), R7 (ingresso PA) e R3 (portafoglio concorsi).
+- Coordinare rimandi con Cap. 3 (metodo BANDO), Cap. 22 (piano 30/60/90), Cap. 23 (Diario), R4 (digitale), R5 (sostenibilità), R6 (dopo-prova), R7 (ingresso PA) e R3 (portafoglio concorsi).

@@ -4,20 +4,20 @@ type: chapter
 title: "Perché questo libro è diverso"
 status: revised_draft
 domain: concorsi pubblici italiani
-topics: ["metodo bando","struttura libro","studio concorsi"]
-entities: ["Metodo BANDO","Bando Decoder","Piano 30/60/90 giorni"]
-source_refs: ["sources/struttura-madre-il-metodo-bando.md","sources/metodo-bando-progetto-editoriale.md"]
+topics: ["metodo bando", "struttura libro", "studio concorsi"]
+entities: ["Metodo BANDO", "Bando Decoder", "Piano 30/60/90 giorni"]
+source_refs: ["sources/struttura-madre-il-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.9
 updated_at: 2026-05-28T17:35:00+02:00
 created_at: "2026-05-10T11:45:00+02:00"
 review_required: true
 canonical: true
-tags: ["book-chapter","introduction"]
+tags: ["book-chapter", "introduction"]
 book_id: il-metodo-bando
 outline_section: 0
 draft_stage: editorial-draft
-last_compiled_from: ["sources/struttura-madre-il-metodo-bando.md","topics/metodo-bando.md"]
+last_compiled_from: ["sources/struttura-madre-il-metodo-bando.md", "topics/metodo-bando.md"]
 last_manual_writer_run: "2026-05-10T13:16:00+02:00"
 ---
 

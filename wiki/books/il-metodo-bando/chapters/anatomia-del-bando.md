@@ -4,20 +4,20 @@ type: chapter
 title: Anatomia del bando
 status: revised_draft
 domain: concorsi pubblici italiani
-topics: ["anatomia del bando","bando decoder"]
-entities: ["Bando Decoder","inPA"]
-source_refs: ["sources/struttura-madre-il-metodo-bando.md","sources/metodo-bando-progetto-editoriale.md","sources/d-p-r-9-maggio-1994-n-487-accesso-agli-impieghi-pubblici-e-concorsi.md","sources/d-p-r-16-giugno-2023-n-82-modifiche-al-d-p-r-487-1994-sui-concorsi.md","sources/d-p-r-28-dicembre-2000-n-445-documentazione-amministrativa.md","sources/d-lgs-7-marzo-2005-n-82-amministrazione-digitale.md"]
+topics: ["anatomia del bando", "bando decoder"]
+entities: ["Bando Decoder", "inPA"]
+source_refs: ["sources/struttura-madre-il-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/d-p-r-9-maggio-1994-n-487-accesso-agli-impieghi-pubblici-e-concorsi.md", "sources/d-p-r-16-giugno-2023-n-82-modifiche-al-d-p-r-487-1994-sui-concorsi.md", "sources/d-p-r-28-dicembre-2000-n-445-documentazione-amministrativa.md", "sources/d-lgs-7-marzo-2005-n-82-amministrazione-digitale.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.92
 updated_at: "2026-06-29T15:08:07.596Z"
 created_at: "2026-05-09T01:05:00.000Z"
 review_required: true
 canonical: true
-tags: ["book-chapter","workbook","editorial-review"]
+tags: ["book-chapter", "workbook", "editorial-review"]
 book_id: il-metodo-bando
 outline_section: 2
 draft_stage: humanized-editorial-revision
-last_compiled_from: ["topics/anatomia-del-bando.md","topics/bando-decoder.md","sources/d-p-r-9-maggio-1994-n-487-accesso-agli-impieghi-pubblici-e-concorsi.md","sources/d-p-r-16-giugno-2023-n-82-modifiche-al-d-p-r-487-1994-sui-concorsi.md"]
+last_compiled_from: ["topics/anatomia-del-bando.md", "topics/bando-decoder.md", "sources/d-p-r-9-maggio-1994-n-487-accesso-agli-impieghi-pubblici-e-concorsi.md", "sources/d-p-r-16-giugno-2023-n-82-modifiche-al-d-p-r-487-1994-sui-concorsi.md"]
 last_editorial_review: "2026-05-25T15:20:00Z"
 last_humanizer_revision: "2026-06-29T15:08:07.596Z"
 ---
@@ -72,12 +72,12 @@ Questo controllo deve essere freddo. Non devi innamorarti del concorso prima di 
 
 | Controllo | Sì/No | Nota |
 |---|---:|---|
-| Possiedo il titolo di studio richiesto? |  |  |
-| Ci sono requisiti specifici ulteriori? |  |  |
-| Sono richiesti documenti, certificazioni o dichiarazioni particolari? |  |  |
-| La domanda deve essere inviata tramite portale o procedura digitale? |  |  |
-| La scadenza è compatibile con il tempo necessario per preparare domanda e studio? |  |  |
-| Ci sono dubbi da verificare su fonte ufficiale o FAQ dell’ente? |  |  |
+| Possiedo il titolo di studio richiesto? | | |
+| Ci sono requisiti specifici ulteriori? | | |
+| Sono richiesti documenti, certificazioni o dichiarazioni particolari? | | |
+| La domanda deve essere inviata tramite portale o procedura digitale? | | |
+| La scadenza è compatibile con il tempo necessario per preparare domanda e studio? | | |
+| Ci sono dubbi da verificare su fonte ufficiale o FAQ dell’ente? | | |
 
 ## Seconda lettura: profilo, lavoro reale e livello atteso
 
@@ -150,31 +150,31 @@ Il Bando Decoder è la doppia pagina che trasforma il bando in piano. Non è una
 
 | Campo | Da compilare |
 |---|---|
-| Ente |  |
-| Profilo |  |
-| Area/categoria |  |
-| Posti disponibili |  |
-| Riserve o preferenze |  |
-| Requisiti |  |
-| Scadenza domanda |  |
-| Modalità domanda |  |
-| Documenti o dichiarazioni |  |
-| Dubbi da verificare |  |
+| Ente | |
+| Profilo | |
+| Area/categoria | |
+| Posti disponibili | |
+| Riserve o preferenze | |
+| Requisiti | |
+| Scadenza domanda | |
+| Modalità domanda | |
+| Documenti o dichiarazioni | |
+| Dubbi da verificare | |
 
 **Bando Decoder - pagina 2**
 
 | Campo | Da compilare |
 |---|---|
-| Prove previste |  |
-| Materie obbligatorie |  |
-| Materie probabili |  |
-| Materie accessorie |  |
-| Materie killer |  |
-| Materie solo orali |  |
-| Punteggi e soglie |  |
-| Primo blocco di studio |  |
-| Prima simulazione |  |
-| Decisione finale: priorità alta/media/bassa |  |
+| Prove previste | |
+| Materie obbligatorie | |
+| Materie probabili | |
+| Materie accessorie | |
+| Materie killer | |
+| Materie solo orali | |
+| Punteggi e soglie | |
+| Primo blocco di studio | |
+| Prima simulazione | |
+| Decisione finale: priorità alta/media/bassa | |
 
 ![Schema della doppia pagina del Bando Decoder, dalla identità del concorso alla strategia di prova.](../assets/chapter-02/05-bando-decoder-doppia-pagina.png)
 
@@ -223,14 +223,14 @@ Prendi un bando reale o fittizio e compila questa scheda in dieci minuti.
 
 | Domanda | Risposta |
 |---|---|
-| Posso partecipare? Perché? |  |
-| Qual è il profilo reale? |  |
-| Qual è la prova che elimina più candidati? |  |
-| Quali sono le tre materie obbligatorie? |  |
-| Qual è la materia killer? |  |
-| Quale documento potrei dimenticare? |  |
-| Qual è il primo blocco di studio da fare? |  |
-| Questo concorso ha priorità alta, media o bassa? |  |
+| Posso partecipare? Perché? | |
+| Qual è il profilo reale? | |
+| Qual è la prova che elimina più candidati? | |
+| Quali sono le tre materie obbligatorie? | |
+| Qual è la materia killer? | |
+| Quale documento potrei dimenticare? | |
+| Qual è il primo blocco di studio da fare? | |
+| Questo concorso ha priorità alta, media o bassa? | |
 
 ## Errore tipico
 

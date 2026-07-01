@@ -4,20 +4,20 @@ type: chapter
 title: "Contabilità pubblica essenziale"
 status: revised_draft
 domain: concorsi pubblici italiani
-topics: ["contabilita pubblica","bilancio dello Stato","finanza pubblica","enti locali","armonizzazione contabile","Corte dei conti","responsabilità erariale","PNRR","pagamenti PA"]
-entities: ["Corte dei conti","Ragioneria generale dello Stato","MEF","OpenBDAP","SIOPE","Comune","Regioni","Organo di revisione","CUP","CIG","ItaliaDomani"]
-source_refs: ["sources/struttura-madre-il-metodo-bando.md","sources/capitolo-8-corpus-fonti-ufficiali-contabilita-pubblica-2026-05-26.md","sources/principi-costituzionali-finanza-pubblica-art-81-97-119.md","sources/contabilita-generale-stato-e-bilancio-stato.md","sources/armonizzazione-contabile-enti-territoriali-d-lgs-118-2011.md","sources/ordinamento-finanziario-enti-locali-tuel-dup-peg-rendiconto-revisione.md","sources/corte-conti-controlli-responsabilità-agenti-contabili.md","sources/pagamenti-tracciabilita-contratti-pnrr-rendicontazione.md","sources/contabilita-economico-patrimoniale-universita-enti-pubblici.md"]
+topics: ["contabilità pubblica", "bilancio dello Stato", "finanza pubblica", "enti locali", "armonizzazione contabile", "Corte dei conti", "responsabilità erariale", "PNRR", "pagamenti PA"]
+entities: ["Corte dei conti", "Ragioneria generale dello Stato", "MEF", "OpenBDAP", "SIOPE", "Comune", "Regioni", "Organo di revisione", "CUP", "CIG", "ItaliaDomani"]
+source_refs: ["sources/struttura-madre-il-metodo-bando.md", "sources/capitolo-8-corpus-fonti-ufficiali-contabilita-pubblica-2026-05-26.md", "sources/principi-costituzionali-finanza-pubblica-art-81-97-119.md", "sources/contabilita-generale-stato-e-bilancio-stato.md", "sources/armonizzazione-contabile-enti-territoriali-d-lgs-118-2011.md", "sources/ordinamento-finanziario-enti-locali-tuel-dup-peg-rendiconto-revisione.md", "sources/corte-conti-controlli-responsabilita-agenti-contabili.md", "sources/pagamenti-tracciabilita-contratti-pnrr-rendicontazione.md", "sources/contabilita-economico-patrimoniale-universita-enti-pubblici.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.92
 updated_at: "2026-05-26T00:00:00+02:00"
 created_at: "2026-05-10T11:45:00+02:00"
 review_required: false
 canonical: true
-tags: ["book-chapter","common-subject","revised"]
+tags: ["book-chapter", "common-subject", "revised"]
 book_id: il-metodo-bando
 outline_section: 8
 draft_stage: editorial-revision
-last_compiled_from: ["wiki/books/il-metodo-bando/struttura-madre.md","topics/contabilita-pubblica.md","sources/capitolo-8-corpus-fonti-ufficiali-contabilita-pubblica-2026-05-26.md","sources/principi-costituzionali-finanza-pubblica-art-81-97-119.md","sources/contabilita-generale-stato-e-bilancio-stato.md","sources/armonizzazione-contabile-enti-territoriali-d-lgs-118-2011.md","sources/ordinamento-finanziario-enti-locali-tuel-dup-peg-rendiconto-revisione.md","sources/corte-conti-controlli-responsabilità-agenti-contabili.md","sources/pagamenti-tracciabilita-contratti-pnrr-rendicontazione.md","sources/contabilita-economico-patrimoniale-universita-enti-pubblici.md"]
+last_compiled_from: ["wiki/books/il-metodo-bando/struttura-madre.md", "topics/contabilita-pubblica.md", "sources/capitolo-8-corpus-fonti-ufficiali-contabilita-pubblica-2026-05-26.md", "sources/principi-costituzionali-finanza-pubblica-art-81-97-119.md", "sources/contabilita-generale-stato-e-bilancio-stato.md", "sources/armonizzazione-contabile-enti-territoriali-d-lgs-118-2011.md", "sources/ordinamento-finanziario-enti-locali-tuel-dup-peg-rendiconto-revisione.md", "sources/corte-conti-controlli-responsabilita-agenti-contabili.md", "sources/pagamenti-tracciabilita-contratti-pnrr-rendicontazione.md", "sources/contabilita-economico-patrimoniale-universita-enti-pubblici.md"]
 ---
 
 # Capitolo 8 - Contabilità pubblica essenziale
@@ -50,7 +50,7 @@ Al termine del capitolo devi sapere:
 - richiamare la contabilità universitaria e degli enti pubblici senza confonderla con quella degli enti locali;
 - collegare contratti pubblici, CIG, CUP, fatturazione elettronica, tempi di pagamento, tracciabilità, PNRR e fondi UE.
 
-![Figura 8.1 - Contabilità pubblica essenziale: programmare, autorizzare, gestire, controllare e rendicontare le risorse pubbliche.](../assets/chapter-08/01-contabilita-pubblica-mappa.png)
+![Figura 8.1 - Contabilità pubblica essenziale: programmare, autorizzare, gestire, controllare e rendicontare le risorse pubbliche.](../assets/chapter-08/01-contabilità-pubblica-mappa.png)
 
 ## Come usare il Metodo BANDO
 
@@ -219,7 +219,7 @@ Gli indicatori sono importanti per tradurre la gestione in dati: costi, tempi, r
 
 Questa triade va letta insieme: la regolarità contabile non basta se l'azione è inefficiente, inefficace o antieconomica; per questo i controlli collegano dati, risultati e responsabilità.
 
-![Figura 8.5 - Controlli, Corte dei conti, responsabilità e agenti contabili.](../assets/chapter-08/05-controlli-corte-responsabilita.png)
+![Figura 8.5 - Controlli, Corte dei conti, responsabilità e agenti contabili.](../assets/chapter-08/05-controlli-corte-responsabilità.png)
 
 ### 11. Corte dei conti
 

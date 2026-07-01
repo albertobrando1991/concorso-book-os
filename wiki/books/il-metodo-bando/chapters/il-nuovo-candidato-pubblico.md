@@ -4,26 +4,26 @@ type: chapter
 title: Il nuovo candidato pubblico
 status: revised_draft
 domain: concorsi pubblici italiani
-topics: ["studio concorsi","tipologie concorsi","metodo bando"]
-entities: ["Metodo BANDO","inPA"]
-source_refs: ["sources/struttura-madre-il-metodo-bando.md","sources/metodo-bando-progetto-editoriale.md"]
+topics: ["studio concorsi", "tipologie concorsi", "metodo bando"]
+entities: ["Metodo BANDO", "inPA"]
+source_refs: ["sources/struttura-madre-il-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md"]
 book_refs: ["il-metodo-bando"]
 asset_refs:
-  - "books/il-metodo-bando/assets/chapter-01/01-candidato-accumulatore-vs-strategico.png"
-  - "books/il-metodo-bando/assets/chapter-01/02-cabina-regia-bando.png"
-  - "books/il-metodo-bando/assets/chapter-01/03-tipo-prova-allenamento.png"
-  - "books/il-metodo-bando/assets/chapter-01/04-scala-profondita-profilo.png"
-  - "books/il-metodo-bando/assets/chapter-01/05-capitale-comune-moduli-specifici.png"
+ - "books/il-metodo-bando/assets/chapter-01/01-candidato-accumulatore-vs-strategico.png"
+ - "books/il-metodo-bando/assets/chapter-01/02-cabina-regia-bando.png"
+ - "books/il-metodo-bando/assets/chapter-01/03-tipo-prova-allenamento.png"
+ - "books/il-metodo-bando/assets/chapter-01/04-scala-profondità-profilo.png"
+ - "books/il-metodo-bando/assets/chapter-01/05-capitale-comune-moduli-specifici.png"
 confidence: 0.9
 updated_at: "2026-06-29T12:48:07.881Z"
 created_at: "2026-05-10T11:45:00+02:00"
 review_required: true
 canonical: true
-tags: ["book-chapter","part-1","editorial-review"]
+tags: ["book-chapter", "part-1", "editorial-review"]
 book_id: il-metodo-bando
 outline_section: 1
 draft_stage: humanized-editorial-revision
-last_compiled_from: ["sources/struttura-madre-il-metodo-bando.md","topics/metodo-bando.md"]
+last_compiled_from: ["sources/struttura-madre-il-metodo-bando.md", "topics/metodo-bando.md"]
 last_editorial_review: "2026-05-25T15:10:00Z"
 last_humanizer_revision: "2026-06-29T12:48:07.881Z"
 ---
@@ -115,7 +115,7 @@ Questa distinzione cambia il modo di studiare.
 | Quiz o preselettiva | Rapidità, memoria, precisione, gestione del tempo. | Batterie mirate, diario errori, simulazioni a tempo. |
 | Scritto teorico | Definizione, ordine, riferimenti essenziali. | Risposte in 10, 20 e 30 righe. |
 | Teorico-pratica | Capacità di applicare regole a un caso. | Casi guidati, schemi soggetti-problema-soluzione. |
-| Orale | Chiarezza, collegamenti, controllo emotivo. | Risposte ad alta voce, esempi, domande-trappola. |
+| Orale | chiarezza, collegamenti, controllo emotivo. | Risposte ad alta voce, esempi, domande-trappola. |
 | Titoli | Coerenza del profilo e documentazione. | Verifica dei requisiti, punteggi, allegati e scadenze. |
 
 ![Mappa che collega ciascun tipo di prova concorsuale al relativo allenamento principale.](../assets/chapter-01/03-tipo-prova-allenamento.png)
@@ -134,7 +134,7 @@ Per questo il candidato non deve chiedersi soltanto "quali materie ci sono?". De
 - **Elevate qualificazioni**: servono organizzazione, controllo, risultato e gestione dei processi.
 - **Dirigenti e carriere speciali**: servono visione sistemica, strategia amministrativa, responsabilità e capacità decisionale.
 
-![Scala della profondità richiesta per operatori, istruttori, funzionari, elevate qualificazioni e dirigenti.](../assets/chapter-01/04-scala-profondita-profilo.png)
+![Scala della profondità richiesta per operatori, istruttori, funzionari, elevate qualificazioni e dirigenti.](../assets/chapter-01/04-scala-profondità-profilo.png)
 
 *Figura 1.4 - La stessa materia cambia profondità in base al profilo concorsuale.*
 

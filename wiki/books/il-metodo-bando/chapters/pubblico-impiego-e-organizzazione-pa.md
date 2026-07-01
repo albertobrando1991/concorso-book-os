@@ -4,20 +4,20 @@ type: chapter
 title: Pubblico impiego e organizzazione della PA
 status: revised_draft
 domain: concorsi pubblici italiani
-topics: ["pubblico impiego","accesso al pubblico impiego","rapporto di lavoro pubblico","organizzazione pubblica","concorsi pubblici","responsabilità disciplinare","responsabilità dirigenziale","performance amministrativa","anticorruzione e trasparenza","governo del rischio","codice di comportamento","etica pubblica","PIAO","lavoro agile","mansioni","orario di lavoro","trattamento economico","sicurezza sul lavoro","pari opportunita","benessere organizzativo"]
-entities: ["D.Lgs. 165/2001","D.Lgs. 150/2009","Dirigente pubblico","Dipendente pubblico","Piano Integrato di Attività e Organizzazione","ANAC","Corte dei conti","Comune","inPA"]
-source_refs: ["sources/struttura-madre-il-metodo-bando.md","sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego.md","sources/d-lgs-27-ottobre-2009-n-150-performance.md","sources/d-p-r-9-maggio-1994-n-487-accesso-agli-impieghi-pubblici-e-concorsi.md","sources/d-p-r-16-giugno-2023-n-82-modifiche-al-d-p-r-487-1994-sui-concorsi.md","sources/legge-6-novembre-2012-n-190-anticorruzione.md","sources/d-lgs-14-marzo-2013-n-33-trasparenza.md","sources/d-lgs-8-aprile-2013-n-39-inconferibilita-e-incompatibilita-incarichi.md","sources/d-p-r-16-aprile-2013-n-62-codice-comportamento-dipendenti-pubblici.md","sources/d-lgs-10-marzo-2023-n-24-whistleblowing.md","sources/d-p-r-24-giugno-2022-n-81-piao-adempimenti-assorbiti.md","sources/decreto-30-giugno-2022-n-132-piano-tipo-piao.md","sources/aran-contrattazione-collettiva-comparti-aree-pubblico-impiego.md","sources/d-lgs-9-aprile-2008-n-81-salute-sicurezza-lavoro.md","sources/d-lgs-26-agosto-2016-n-174-codice-di-giustizia-contabile.md","sources/d-l-14-marzo-2025-n-25-convertito-dalla-l-9-maggio-2025-n-69-capacita-amministrativa.md","sources/d-l-31-agosto-2013-n-101-trasformazione-civit-anac-e-pubblico-impiego.md","sources/responsabilità-dirigenziale-legalità-organizzativa-performance-rischio.md"]
+topics: ["pubblico impiego", "accesso al pubblico impiego", "rapporto di lavoro pubblico", "organizzazione pubblica", "concorsi pubblici", "responsabilità disciplinare", "responsabilità dirigenziale", "performance amministrativa", "anticorruzione e trasparenza", "governo del rischio", "codice di comportamento", "etica pubblica", "PIAO", "lavoro agile", "mansioni", "orario di lavoro", "trattamento economico", "sicurezza sul lavoro", "pari opportunità", "benessere organizzativo"]
+entities: ["D.Lgs. 165/2001", "D.Lgs. 150/2009", "Dirigente pubblico", "Dipendente pubblico", "Piano Integrato di Attività e Organizzazione", "ANAC", "Corte dei conti", "Comune", "inPA"]
+source_refs: ["sources/struttura-madre-il-metodo-bando.md", "sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego.md", "sources/d-lgs-27-ottobre-2009-n-150-performance.md", "sources/d-p-r-9-maggio-1994-n-487-accesso-agli-impieghi-pubblici-e-concorsi.md", "sources/d-p-r-16-giugno-2023-n-82-modifiche-al-d-p-r-487-1994-sui-concorsi.md", "sources/legge-6-novembre-2012-n-190-anticorruzione.md", "sources/d-lgs-14-marzo-2013-n-33-trasparenza.md", "sources/d-lgs-8-aprile-2013-n-39-inconferibilita-e-incompatibilita-incarichi.md", "sources/d-p-r-16-aprile-2013-n-62-codice-comportamento-dipendenti-pubblici.md", "sources/d-lgs-10-marzo-2023-n-24-whistleblowing.md", "sources/d-p-r-24-giugno-2022-n-81-piao-adempimenti-assorbiti.md", "sources/decreto-30-giugno-2022-n-132-piano-tipo-piao.md", "sources/aran-contrattazione-collettiva-comparti-aree-pubblico-impiego.md", "sources/d-lgs-9-aprile-2008-n-81-salute-sicurezza-lavoro.md", "sources/d-lgs-26-agosto-2016-n-174-codice-di-giustizia-contabile.md", "sources/d-l-14-marzo-2025-n-25-convertito-dalla-l-9-maggio-2025-n-69-capacita-amministrativa.md", "sources/d-l-31-agosto-2013-n-101-trasformazione-civit-anac-e-pubblico-impiego.md", "sources/responsabilita-dirigenziale-legalita-organizzativa-performance-rischio.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.9
 updated_at: "2026-05-25T21:25:00+02:00"
 created_at: "2026-05-10T11:45:00+02:00"
 review_required: true
 canonical: true
-tags: ["book-chapter","common-subject","revised"]
+tags: ["book-chapter", "common-subject", "revised"]
 book_id: il-metodo-bando
 outline_section: 6
 draft_stage: editorial-revision
-last_compiled_from: ["wiki/books/il-metodo-bando/struttura-madre.md","topics/pubblico-impiego.md","topics/organizzazione-pubblica.md","topics/concorsi-pubblici.md","topics/performance-amministrativa.md","topics/responsabilità-dirigenziale.md","topics/governo-del-rischio.md","topics/anticorruzione-e-trasparenza.md","entities/piano-integrato-di-attivita-e-organizzazione.md","entities/dirigente-pubblico.md"]
+last_compiled_from: ["wiki/books/il-metodo-bando/struttura-madre.md", "topics/pubblico-impiego.md", "topics/organizzazione-pubblica.md", "topics/concorsi-pubblici.md", "topics/performance-amministrativa.md", "topics/responsabilita-dirigenziale.md", "topics/governo-del-rischio.md", "topics/anticorruzione-e-trasparenza.md", "entities/piano-integrato-di-attivita-e-organizzazione.md", "entities/dirigente-pubblico.md"]
 ---
 
 # Capitolo 6 - Pubblico impiego e organizzazione della PA
@@ -411,11 +411,11 @@ Completa la tabella collegando situazione, dovere, rischio e comportamento corre
 
 | Situazione | Dovere coinvolto | Rischio | Comportamento corretto |
 |---|---|---|---|
-| Un dipendente consulta la pratica di un conoscente senza ragioni di servizio. |  |  |  |
-| Un responsabile ritarda sistematicamente i procedimenti senza monitorare i carichi di lavoro. |  |  |  |
-| Un funzionario riceve un regalo da un operatore economico interessato a una decisione dell'ufficio. |  |  |  |
-| Un dirigente non assegna responsabilità chiare nei procedimenti più esposti a rischio. |  |  |  |
-| Un dipendente segnala un illecito conosciuto nel contesto lavorativo. |  |  |  |
+| Un dipendente consulta la pratica di un conoscente senza ragioni di servizio. | | | |
+| Un responsabile ritarda sistematicamente i procedimenti senza monitorare i carichi di lavoro. | | | |
+| Un funzionario riceve un regalo da un operatore economico interessato a una decisione dell'ufficio. | | | |
+| Un dirigente non assegna responsabilità chiare nei procedimenti più esposti a rischio. | | | |
+| Un dipendente segnala un illecito conosciuto nel contesto lavorativo. | | | |
 
 **Traccia di correzione:** richiama riservatezza, uso corretto dei dati, diligenza, imparzialità, astensione, prevenzione del rischio, responsabilità organizzativa e tutela del segnalante. Non basta nominare il dovere: devi indicare il comportamento corretto.
 

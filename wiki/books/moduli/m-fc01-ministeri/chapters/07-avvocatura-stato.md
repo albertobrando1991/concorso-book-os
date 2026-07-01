@@ -4,16 +4,16 @@ type: book_chapter
 title: "Avvocatura dello Stato"
 status: structure
 domain: "concorsi pubblici italiani"
-topics: ["avvocatura dello stato","contenzioso pubblico","organizzazione amministrativa"]
-entities: ["Avvocatura dello Stato","Avvocatura generale dello Stato","Avvocature distrettuali"]
-source_refs: ["sources/rd-30-ottobre-1933-n-1611-avvocatura-stato.md","sources/avvocatura-stato-organizzazione-funzioni.md"]
+topics: ["avvocatura dello stato", "contenzioso pubblico", "organizzazione amministrativa"]
+entities: ["Avvocatura dello Stato", "Avvocatura generale dello Stato", "Avvocature distrettuali"]
+source_refs: ["sources/rd-30-ottobre-1933-n-1611-avvocatura-stato.md", "sources/avvocatura-stato-organizzazione-funzioni.md"]
 book_refs: ["m-fc01-ministeri"]
 confidence: 0.86
 updated_at: 2026-06-27T22:08:22+02:00
 created_at: 2026-06-27T22:08:22+02:00
 review_required: true
 canonical: true
-tags: ["book-chapter","module-code-m-fc01","structure"]
+tags: ["book-chapter", "module-code-m-fc01", "structure"]
 book_id: m-fc01-ministeri
 outline_section: 7
 draft_stage: source-ready

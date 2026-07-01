@@ -4,20 +4,20 @@ type: chapter
 title: La prova a quiz
 status: revised_draft
 domain: concorsi pubblici italiani
-topics: ["prova a quiz","diario errori","simulazioni","logica concorsuale","comprensione del testo concorsuale"]
+topics: ["prova a quiz", "diario errori", "simulazioni", "logica concorsuale", "comprensione del testo concorsuale"]
 entities: ["Diario degli errori"]
-source_refs: ["sources/struttura-madre-il-metodo-bando.md","sources/metodo-bando-progetto-editoriale.md","sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md","sources/apprendimento-efficace-active-recall-ripasso-distribuito.md","sources/ripam-quesiti-attitudinali-logica-ragionamento-comprensione.md","sources/capitolo-12-corpus-fonti-logica-comprensione-ragionamento-2026-05-28.md"]
+source_refs: ["sources/struttura-madre-il-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md", "sources/apprendimento-efficace-active-recall-ripasso-distribuito.md", "sources/ripam-quesiti-attitudinali-logica-ragionamento-comprensione.md", "sources/capitolo-12-corpus-fonti-logica-comprensione-ragionamento-2026-05-28.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.9
 updated_at: "2026-06-07T18:41:54+02:00"
 created_at: "2026-05-10T11:45:00+02:00"
 review_required: true
 canonical: true
-tags: ["book-chapter","part-3"]
+tags: ["book-chapter", "part-3"]
 book_id: il-metodo-bando
 outline_section: 14
 draft_stage: revised-editorial-draft
-last_compiled_from: ["sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md","sources/apprendimento-efficace-active-recall-ripasso-distribuito.md","topics/prova-a-quiz.md","topics/diario-errori.md","topics/logica-concorsuale.md","topics/comprensione-del-testo-concorsuale.md"]
+last_compiled_from: ["sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md", "sources/apprendimento-efficace-active-recall-ripasso-distribuito.md", "topics/prova-a-quiz.md", "topics/diario-errori.md", "topics/logica-concorsuale.md", "topics/comprensione-del-testo-concorsuale.md"]
 ---
 
 # Capitolo 14 - La prova a quiz
@@ -93,7 +93,7 @@ Compila questa tabella per ogni concorso.
 
 La riga più importante è il tempo medio. Se hai 60 domande in 60 minuti, il tempo teorico è un minuto. Ma non tutte le domande valgono lo stesso investimento: alcune si risolvono in 20 secondi, altre possono assorbire tre minuti. La strategia nasce da questa differenza.
 
-![Figura 14.3 - Scheda tecnica della prova: cruscotto per numero domande, tempo, materie, punteggi, soglia, banca dati, modalita e ritorno.](../assets/chapter-14/03-scheda-tecnica-prova.png)
+![Figura 14.3 - Scheda tecnica della prova: cruscotto per numero domande, tempo, materie, punteggi, soglia, banca dati, modalità e ritorno.](../assets/chapter-14/03-scheda-tecnica-prova.png)
 
 ## Come studiare con banca dati ufficiale
 
@@ -167,7 +167,7 @@ Solo alla fine decidi sulle domande dubbie. Qui conta il bando: se c'è penalit�
 > **Regola operativa**
 > Una domanda difficile non deve rubare il tempo a cinque domande facili. Il punteggio complessivo vale più dell'orgoglio sulla singola risposta.
 
-![Figura 14.5 - Routine dei tre giri in prova: punti rapidi, domande lavorabili e rischio controllato in base a tempo e penalita.](../assets/chapter-14/05-routine-tre-giri.png)
+![Figura 14.5 - Routine dei tre giri in prova: punti rapidi, domande lavorabili e rischio controllato in base a tempo e penalità.](../assets/chapter-14/05-routine-tre-giri.png)
 
 ## Quando saltare una domanda
 

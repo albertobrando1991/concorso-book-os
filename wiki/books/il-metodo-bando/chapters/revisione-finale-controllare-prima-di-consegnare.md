@@ -24,15 +24,15 @@ last_compiled_from: ["sources/revisione-finale-risposta-concorsuale-metodo-bando
 
 Molti candidati sbagliano la revisione.
 
-Non perche non rileggano.
+Non perché non rileggano.
 
-Perche rileggono senza sapere che cosa cercare.
+perché rileggono senza sapere che cosa cercare.
 
-Arrivano alla fine della risposta, guardano il testo, cambiano una parola, aggiungono una frase, riscrivono una definizione, correggono una virgola. Poi consegnano. A volte la risposta migliora. A volte peggiora. A volte resta fuori traccia, ma piu elegante.
+Arrivano alla fine della risposta, guardano il testo, cambiano una parola, aggiungono una frase, riscrivono una definizione, correggono una virgola. Poi consegnano. A volte la risposta migliora. A volte peggiora. A volte resta fuori traccia, ma più elegante.
 
-La revisione finale non e' abbellimento.
+La revisione finale non è abbellimento.
 
-E' controllo del punteggio.
+È controllo del punteggio.
 
 Serve a intercettare pochi errori ad alto impatto:
 
@@ -44,9 +44,9 @@ Serve a intercettare pochi errori ad alto impatto:
 - ho lasciato una risposta senza applicazione;
 - ho aperto un collegamento e non sono tornato alla traccia.
 
-La regola del capitolo e':
+La regola del capitolo è:
 
-> non rileggere tutto allo stesso modo. Controlla cio che puo farti perdere punti.
+> non rileggere tutto allo stesso modo. Controlla ciò che può farti perdere punti.
 
 ## Obiettivo del capitolo
 
@@ -79,7 +79,7 @@ Hai tempo per una revisione da candidato strategico.
 
 Devi chiederti:
 
-> quale controllo puo salvare piu punti in meno tempo?
+> quale controllo può salvare più punti in meno tempo?
 
 ## La formula 5P
 
@@ -114,12 +114,12 @@ Domanda:
 
 Il perimetro evita due errori:
 
-- risposta troppo corta perche manca il nucleo;
-- risposta troppo lunga perche contiene tutto il manuale.
+- risposta troppo corta perché manca il nucleo;
+- risposta troppo lunga perché contiene tutto il manuale.
 
-Nello scritto il perimetro e' visibile: righe, tempo, consegna, struttura.
+Nello scritto il perimetro è visibile: righe, tempo, consegna, struttura.
 
-All'orale il perimetro e' il tempo mentale: non devi continuare solo perche ti viene in mente altro.
+All'orale il perimetro è il tempo mentale: non devi continuare solo perché ti viene in mente altro.
 
 ### 3. Proporzione
 
@@ -127,7 +127,7 @@ Domanda:
 
 > Ho dato peso alle parti giuste?
 
-Una risposta puo essere corretta ma sbilanciata.
+Una risposta può essere corretta ma sbilanciata.
 
 Esempio:
 
@@ -152,7 +152,7 @@ Qui controlli:
 - termini amministrativi usati male;
 - collegamenti forzati.
 
-Se un riferimento non e' sicuro e non e' indispensabile, eliminalo o rendilo prudente.
+Se un riferimento non è sicuro e non è indispensabile, eliminalo o rendilo prudente.
 
 ### 5. Punto finale
 
@@ -160,12 +160,12 @@ Domanda:
 
 > Ho chiuso tornando alla traccia?
 
-La chiusura e' spesso il pezzo che manca.
+La chiusura è spesso il pezzo che manca.
 
 Frasi utili:
 
-- "Per questo, ai fini della domanda, il punto centrale e'...";
-- "In sintesi, la distinzione rilevante e'...";
+- "Per questo, ai fini della domanda, il punto centrale è...";
+- "In sintesi, la distinzione rilevante è...";
 - "Nel caso pratico, quindi, la soluzione passa da...";
 - "La risposta va letta non solo come definizione, ma come...";
 - "Questo consente di evitare l'errore di...".
@@ -186,7 +186,7 @@ Il bando e le istruzioni di prova definiscono:
 - soglie;
 - strumenti ammessi.
 
-La revisione non puo ignorare queste condizioni. Una risposta perfetta per un elaborato lungo puo essere sbagliata in una domanda sintetica.
+La revisione non può ignorare queste condizioni. Una risposta perfetta per un elaborato lungo può essere sbagliata in una domanda sintetica.
 
 ### Aree
 
@@ -245,9 +245,9 @@ Quando hai pochissimo tempo, non rileggere tutto con la stessa attenzione.
 Fai cinque domande:
 
 1. Ho risposto al verbo della traccia?
-2. C'e' almeno un nucleo chiaro?
+2. C'è almeno un nucleo chiaro?
 3. Ho inserito riferimenti non sicuri?
-4. La risposta e' proporzionata?
+4. La risposta è proporzionata?
 5. Ho una frase finale che torna alla domanda?
 
 Se trovi un problema, correggi solo quello.
@@ -260,11 +260,11 @@ Se hai tre minuti, usa questo ordine.
 
 | Tempo | Controllo | Azione |
 |---|---|---|
-| 0:00-0:30 | Traccia | Rileggi verbo, oggetto e vincolo. |
-| 0:30-1:00 | Struttura | Verifica apertura, sviluppo, chiusura. |
-| 1:00-1:40 | Proporzione | Taglia o riduci parti laterali. |
-| 1:40-2:20 | Precisione | Elimina riferimenti non sicuri. |
-| 2:20-3:00 | Punto finale | Aggiungi o correggi la chiusura. |
+| 0: 00-0: 30 | Traccia | Rileggi verbo, oggetto e vincolo. |
+| 0: 30-1: 00 | Struttura | Verifica apertura, sviluppo, chiusura. |
+| 1: 00-1: 40 | Proporzione | Taglia o riduci parti laterali. |
+| 1: 40-2: 20 | Precisione | Elimina riferimenti non sicuri. |
+| 2: 20-3: 00 | Punto finale | Aggiungi o correggi la chiusura. |
 
 La revisione deve avere timer.
 
@@ -276,10 +276,10 @@ In 10 righe controlli solo l'essenziale.
 
 Checklist:
 
-- definizione o inquadramento c'e'?
-- funzione c'e'?
-- una conseguenza o esempio c'e'?
-- chiusura c'e'?
+- definizione o inquadramento c'è?
+- funzione c'è?
+- una conseguenza o esempio c'è?
+- chiusura c'è?
 - ho scritto qualcosa fuori traccia?
 
 Non aggiungere un secondo collegamento se non serve.
@@ -307,7 +307,7 @@ Se perde solo volume, puoi tagliarla.
 
 ## Risposta da 30 righe
 
-In 30 righe la risposta puo avere struttura piu articolata.
+In 30 righe la risposta può avere struttura più articolata.
 
 Controlla:
 
@@ -322,7 +322,7 @@ Errore frequente:
 
 > aggiungere una nuova idea negli ultimi due minuti.
 
-Se la nuova idea non e' necessaria, non inserirla.
+Se la nuova idea non è necessaria, non inserirla.
 
 ## Revisione del caso pratico
 
@@ -346,7 +346,7 @@ Anche quando non sai tutto, devi mostrare come ragioni sui fatti.
 
 All'orale non puoi rileggere.
 
-Puoi pero revisionare mentre chiudi.
+Puoi però revisionare mentre chiudi.
 
 Tre mosse:
 
@@ -356,7 +356,7 @@ Tre mosse:
 
 Esempio:
 
-> "Quindi, per rispondere alla domanda, l'elemento decisivo e' la funzione dell'istituto nel procedimento e il suo collegamento con il soggetto competente."
+> "Quindi, per rispondere alla domanda, l'elemento decisivo è la funzione dell'istituto nel procedimento e il suo collegamento con il soggetto competente."
 
 Questa chiusura fa due cose:
 
@@ -370,8 +370,8 @@ Non tutte le correzioni migliorano una risposta.
 Tre correzioni pericolose:
 
 1. aggiungere un dettaglio non sicuro;
-2. cambiare una parola tecnica con una piu generica;
-3. riscrivere una frase chiara rendendola piu lunga.
+2. cambiare una parola tecnica con una più generica;
+3. riscrivere una frase chiara rendendola più lunga.
 
 Prima di correggere chiediti:
 
@@ -389,7 +389,7 @@ Rilegge e nota una frase:
 
 > "L'ufficio deve sempre procedere in questo modo."
 
-La frase gli sembra forte, ma non e' sicuro che valga sempre.
+La frase gli sembra forte, ma non è sicuro che valga sempre.
 
 Prima reazione:
 
@@ -401,11 +401,11 @@ Revisione corretta:
 
 > "In linea generale, l'ufficio deve verificare il perimetro del caso e adottare una soluzione coerente con la fase del procedimento."
 
-La frase e' meno brillante, ma piu sicura.
+La frase è meno brillante, ma più sicura.
 
 Poi Marco aggiunge una chiusura:
 
-> "Ai fini della traccia, quindi, il punto centrale non e' solo definire l'istituto, ma applicarlo al caso indicato."
+> "Ai fini della traccia, quindi, il punto centrale non è solo definire l'istituto, ma applicarlo al caso indicato."
 
 Ha usato la revisione per ridurre rischio e aumentare pertinenza.
 
@@ -415,7 +415,7 @@ Ha usato la revisione per ridurre rischio e aumentare pertinenza.
 
 Risposta modello:
 
-> "Non mi limiterei a rileggerla in modo generico. Controllerei prima la pertinenza rispetto alla traccia, poi il perimetro della risposta, la proporzione tra le parti, la precisione dei riferimenti e la chiusura. Se trovo un riferimento non sicuro, preferisco eliminarlo o renderlo prudente. L'obiettivo non e' riscrivere tutto, ma evitare errori ad alto impatto prima della consegna."
+> "Non mi limiterei a rileggerla in modo generico. Controllerei prima la pertinenza rispetto alla traccia, poi il perimetro della risposta, la proporzione tra le parti, la precisione dei riferimenti e la chiusura. Se trovo un riferimento non sicuro, preferisco eliminarlo o renderlo prudente. L'obiettivo non è riscrivere tutto, ma evitare errori ad alto impatto prima della consegna."
 
 ## Domanda-trappola
 
@@ -436,7 +436,7 @@ Meglio:
 
 ## Errore tipico
 
-L'errore tipico e' revisionare lo stile invece del punteggio.
+L'errore tipico è revisionare lo stile invece del punteggio.
 
 Il candidato corregge:
 
@@ -465,11 +465,11 @@ Applica la formula 5P:
 
 | Controllo | Esito | Correzione minima |
 |---|---|---|
-| Pertinenza |  |  |
-| Perimetro |  |  |
-| Proporzione |  |  |
-| Precisione |  |  |
-| Punto finale |  |  |
+| Pertinenza | | |
+| Perimetro | | |
+| Proporzione | | |
+| Precisione | | |
+| Punto finale | | |
 
 Poi scrivi nel Diario:
 
@@ -479,7 +479,7 @@ Completa la frase con una regola concreta.
 
 ## Da sapere in 5 righe
 
-La revisione finale non e' rilettura generica. E' controllo selettivo degli errori che possono far perdere punti: pertinenza, perimetro, proporzione, precisione e punto finale. In poco tempo non devi riscrivere tutto, ma proteggere la risposta: tagliare il superfluo, eliminare riferimenti non sicuri, correggere il fuori traccia e chiudere tornando alla domanda. Dopo ogni simulazione, gli errori intercettabili vanno trasformati in regole del Diario.
+La revisione finale non è rilettura generica. È controllo selettivo degli errori che possono far perdere punti: pertinenza, perimetro, proporzione, precisione e punto finale. In poco tempo non devi riscrivere tutto, ma proteggere la risposta: tagliare il superfluo, eliminare riferimenti non sicuri, correggere il fuori traccia e chiudere tornando alla domanda. Dopo ogni simulazione, gli errori intercettabili vanno trasformati in regole del Diario.
 
 ## Riferimenti consolidati
 

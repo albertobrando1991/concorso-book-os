@@ -4,20 +4,20 @@ type: chapter
 title: Costituzione e ordinamento dello Stato
 status: professional_draft
 domain: concorsi pubblici italiani
-topics: ["diritto costituzionale","ordinamento dello stato","stato","costituzione","principi fondamentali","fonti del diritto","diritti e liberta costituzionali","rapporti etico-sociali","rapporti economici e sociali","rapporti politici","parlamento","procedimento legislativo","presidente della repubblica","governo","pubblica amministrazione nella costituzione","organi ausiliari","magistratura","regioni ed enti locali","corte costituzionale","revisione costituzionale","unione europea","cedu","tutela multilivello dei diritti"]
-entities: ["Costituzione della Repubblica Italiana","Parlamento","Governo","Presidente della Repubblica","Corte costituzionale","Magistratura","Consiglio superiore della magistratura","Consiglio di Stato","Corte dei conti","CNEL","Regioni","Comune","Unione europea","CEDU"]
-source_refs: ["sources/struttura-madre-il-metodo-bando.md","sources/costituzione-repubblica-italiana-testo-vigente.md","sources/diritto-costituzionale-bin-pitruzzella.md","sources/diritto-costituzionale-corpus-fonti-ufficiali-2026-05-25.md","sources/legge-23-agosto-1988-n-400-governo-e-potesta-normativa.md","sources/d-lgs-18-agosto-2000-n-267-enti-locali.md","sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego.md","sources/d-p-r-9-maggio-1994-n-487-accesso-agli-impieghi-pubblici-e-concorsi.md","sources/d-p-r-16-giugno-2023-n-82-modifiche-al-d-p-r-487-1994-sui-concorsi.md","sources/d-lgs-2-luglio-2010-n-104-processo-amministrativo.md","sources/legge-14-gennaio-1994-n-20-responsabilità-erariale.md","sources/d-lgs-26-agosto-2016-n-174-codice-di-giustizia-contabile.md","sources/cedu-savino-ed-altri-c-italia-28-aprile-2009-concorsi-e-art-6-cedu.md","sources/giurisprudenza-costituzionale-recente-principio-del-concorso-pubblico-art-97-cost.md","sources/corte-costituzionale-pubblico-concorso-e-stabilizzazioni-g-u-5-maggio-2010.md","sources/corte-costituzionale-concorso-pubblico-e-pubblico-impiego-g-u-15-marzo-2017.md","sources/corte-costituzionale-deroghe-al-concorso-pubblico-e-buon-andamento-g-u-9-dicembre-2021.md","sources/corte-costituzionale-requisiti-concorsuali-polizia-di-stato-g-u-27-gennaio-2021.md"]
+topics: ["diritto costituzionale", "ordinamento dello stato", "stato", "costituzione", "principi fondamentali", "fonti del diritto", "diritti e liberta costituzionali", "rapporti etico-sociali", "rapporti economici e sociali", "rapporti politici", "parlamento", "procedimento legislativo", "presidente della repubblica", "governo", "pubblica amministrazione nella costituzione", "organi ausiliari", "magistratura", "regioni ed enti locali", "corte costituzionale", "revisione costituzionale", "unione europea", "cedu", "tutela multilivello dei diritti"]
+entities: ["Costituzione della Repubblica Italiana", "Parlamento", "Governo", "Presidente della Repubblica", "Corte costituzionale", "Magistratura", "Consiglio superiore della magistratura", "Consiglio di Stato", "Corte dei conti", "CNEL", "Regioni", "Comune", "Unione europea", "CEDU"]
+source_refs: ["sources/struttura-madre-il-metodo-bando.md", "sources/costituzione-repubblica-italiana-testo-vigente.md", "sources/diritto-costituzionale-bin-pitruzzella.md", "sources/diritto-costituzionale-corpus-fonti-ufficiali-2026-05-25.md", "sources/legge-23-agosto-1988-n-400-governo-e-potesta-normativa.md", "sources/d-lgs-18-agosto-2000-n-267-enti-locali.md", "sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego.md", "sources/d-p-r-9-maggio-1994-n-487-accesso-agli-impieghi-pubblici-e-concorsi.md", "sources/d-p-r-16-giugno-2023-n-82-modifiche-al-d-p-r-487-1994-sui-concorsi.md", "sources/d-lgs-2-luglio-2010-n-104-processo-amministrativo.md", "sources/legge-14-gennaio-1994-n-20-responsabilita-erariale.md", "sources/d-lgs-26-agosto-2016-n-174-codice-di-giustizia-contabile.md", "sources/cedu-savino-ed-altri-c-italia-28-aprile-2009-concorsi-e-art-6-cedu.md", "sources/giurisprudenza-costituzionale-recente-principio-del-concorso-pubblico-art-97-cost.md", "sources/corte-costituzionale-pubblico-concorso-e-stabilizzazioni-g-u-5-maggio-2010.md", "sources/corte-costituzionale-concorso-pubblico-e-pubblico-impiego-g-u-15-marzo-2017.md", "sources/corte-costituzionale-deroghe-al-concorso-pubblico-e-buon-andamento-g-u-9-dicembre-2021.md", "sources/corte-costituzionale-requisiti-concorsuali-polizia-di-stato-g-u-27-gennaio-2021.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.86
 updated_at: "2026-05-26T13:19:10+02:00"
 created_at: "2026-05-10T11:45:00+02:00"
 review_required: true
 canonical: true
-tags: ["book-chapter","common-subject","revised","diritto-costituzionale"]
+tags: ["book-chapter", "common-subject", "revised", "diritto-costituzionale"]
 book_id: il-metodo-bando
 outline_section: 4
 draft_stage: professional-writing
-last_compiled_from: ["sources/struttura-madre-il-metodo-bando.md","sources/costituzione-repubblica-italiana-testo-vigente.md","sources/diritto-costituzionale-bin-pitruzzella.md","sources/diritto-costituzionale-corpus-fonti-ufficiali-2026-05-25.md","reviews/diritto-costituzionale-coverage-2026-05-25.md","topics/diritto-costituzionale.md","topics/fonti-dell-ordinamento-italiano.md","topics/giustizia-costituzionale.md","topics/diritti-e-liberta-costituzionali.md","topics/regioni-e-governo-locale.md"]
+last_compiled_from: ["sources/struttura-madre-il-metodo-bando.md", "sources/costituzione-repubblica-italiana-testo-vigente.md", "sources/diritto-costituzionale-bin-pitruzzella.md", "sources/diritto-costituzionale-corpus-fonti-ufficiali-2026-05-25.md", "reviews/diritto-costituzionale-coverage-2026-05-25.md", "topics/diritto-costituzionale.md", "topics/fonti-dell-ordinamento-italiano.md", "topics/giustizia-costituzionale.md", "topics/diritti-e-liberta-costituzionali.md", "topics/regioni-e-governo-locale.md"]
 last_manual_writer_run: "2026-05-26T13:19:10+02:00"
 ---
 
@@ -443,12 +443,12 @@ Completa la tabella.
 
 | Caso | Tema costituzionale | Risposta sintetica |
 |---|---|---|
-| Il Governo adotta un atto urgente con forza di legge. |  |  |
-| Le Camere approvano una legge, ma il Presidente rinvia il testo. |  |  |
-| Una Regione disciplina una materia riservata allo Stato. |  |  |
-| Un cittadino contesta un limite alla libertà di riunione. |  |  |
-| Una legge sembra violare la Costituzione. |  |  |
-| Un ente locale invoca autonomia finanziaria. |  |  |
+| Il Governo adotta un atto urgente con forza di legge. | | |
+| Le Camere approvano una legge, ma il Presidente rinvia il testo. | | |
+| Una Regione disciplina una materia riservata allo Stato. | | |
+| Un cittadino contesta un limite alla libertà di riunione. | | |
+| Una legge sembra violare la Costituzione. | | |
+| Un ente locale invoca autonomia finanziaria. | | |
 
 **Traccia di correzione:** collega decreto-legge, promulgazione e rinvio, art. 117, libertà costituzionali, Corte costituzionale, art. 119 e autonomie territoriali.
 

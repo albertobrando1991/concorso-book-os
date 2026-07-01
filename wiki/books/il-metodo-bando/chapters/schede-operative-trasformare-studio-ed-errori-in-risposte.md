@@ -26,17 +26,17 @@ Molti candidati producono appunti.
 
 Pochi producono strumenti.
 
-La differenza si vede quando arriva una domanda: chi ha appunti cerca dove aveva scritto il concetto; chi ha strumenti sa gia come trasformarlo in risposta.
+La differenza si vede quando arriva una domanda: chi ha appunti cerca dove aveva scritto il concetto; chi ha strumenti sa già come trasformarlo in risposta.
 
 Una scheda operativa serve a questo.
 
-Non e' un riassunto piu ordinato.
+Non è un riassunto più ordinato.
 
-Non e' una pagina copiata dal manuale.
+Non è una pagina copiata dal manuale.
 
-Non e' una raccolta di frasi da imparare a memoria.
+Non è una raccolta di frasi da imparare a memoria.
 
-E' una pagina breve che collega quattro cose:
+È una pagina breve che collega quattro cose:
 
 - una domanda;
 - un nucleo;
@@ -60,7 +60,7 @@ Alla fine del capitolo saprai:
 - usare le schede come capitale di studio riutilizzabile;
 - preparare una risposta concorsuale partendo da una scheda, non dal manuale intero.
 
-La regola e' questa:
+La regola è questa:
 
 > una scheda non deve contenere tutto. Deve farti produrre qualcosa.
 
@@ -72,7 +72,7 @@ Ogni scheda deve stare dentro il Metodo BANDO.
 |---|---|---|
 | B - Bando | dove compare questo tema nel programma? | decide se la scheda serve davvero |
 | A - Aree | a quale materia o profilo appartiene? | collega core e modulo specifico |
-| N - Nuclei | qual e' il concetto ad alta resa? | evita riassunti troppo larghi |
+| N - Nuclei | qual è il concetto ad alta resa? | evita riassunti troppo larghi |
 | D - Diario | quale errore deve prevenire? | rende la scheda correttiva |
 | O - Output | che cosa devo saper produrre? | quiz, risposta breve, orale, caso o confronto |
 
@@ -90,9 +90,9 @@ Quattro strumenti, quattro funzioni diverse.
 
 | Strumento | Funzione | Rischio |
 |---|---|---|
-| Appunto | registra cio che hai capito o sentito | resta disordinato |
-| Riassunto | riduce un testo lungo | puo diventare lettura passiva |
-| Flashcard | forza richiamo rapido | puo isolare il concetto |
+| Appunto | registra ciò che hai capito o sentito | resta disordinato |
+| Riassunto | riduce un testo lungo | può diventare lettura passiva |
+| Flashcard | forza richiamo rapido | può isolare il concetto |
 | Scheda operativa | trasforma conoscenza in output | richiede selezione |
 
 Non devi eliminare appunti, riassunti o flashcard.
@@ -107,7 +107,7 @@ La flashcard allena memoria e riconoscimento.
 
 La scheda operativa prepara una prestazione.
 
-In un concorso, la prestazione puo essere:
+In un concorso, la prestazione può essere:
 
 - scegliere una risposta;
 - spiegare un concetto;
@@ -116,7 +116,7 @@ In un concorso, la prestazione puo essere:
 - rispondere a una domanda orale;
 - evitare un errore ricorrente.
 
-La scheda e' il ponte tra studio e prestazione.
+La scheda è il ponte tra studio e prestazione.
 
 ## La struttura minima
 
@@ -124,7 +124,7 @@ Una scheda operativa deve stare, se possibile, in una pagina.
 
 Non per estetica.
 
-Perche una pagina costringe a scegliere.
+perché una pagina costringe a scegliere.
 
 Usa questa struttura.
 
@@ -156,12 +156,12 @@ Esempio:
 
 Non scrivere una scheda su "trasparenza, anticorruzione e privacy".
 
-E' troppo vasta.
+È troppo vasta.
 
 Scrivi invece:
 
-- "Qual e' la differenza tra accesso civico semplice e generalizzato?";
-- "Perche trasparenza non significa pubblicare tutto?";
+- "qual è la differenza tra accesso civico semplice e generalizzato?";
+- "perché trasparenza non significa pubblicare tutto?";
 - "Come rispondo a un caso con dati personali e richiesta di accesso?";
 
 Ogni scheda deve avere un bersaglio.
@@ -180,7 +180,7 @@ Usala quando un tema torna spesso e devi spiegarlo in modo rapido.
 
 | Campo | Risposta |
 |---|---|
-| Domanda guida | Che cos'e'...? |
+| Domanda guida | Che cos'è...? |
 | Definizione breve | |
 | Funzione | a cosa serve nella PA o nella prova |
 | Parole chiave | 3-5 termini essenziali |
@@ -207,7 +207,7 @@ La scheda di norma non serve a copiare articoli.
 
 Serve a capire come usare un riferimento normativo senza memoria cieca.
 
-Nei concorsi e' utile sapere riconoscere:
+Nei concorsi è utile sapere riconoscere:
 
 - soggetto;
 - potere o obbligo;
@@ -233,13 +233,13 @@ Questa scheda non sostituisce la fonte.
 
 La rende interrogabile.
 
-Se devi citare un articolo in prova, cita solo cio che conosci con sicurezza. Se non sei sicuro del numero, spiega il principio e la funzione senza inventare.
+Se devi citare un articolo in prova, cita solo ciò che conosci con sicurezza. Se non sei sicuro del numero, spiega il principio e la funzione senza inventare.
 
 ## Scheda di procedimento
 
-La scheda di procedimento serve quando il tema ha fasi, soggetti, documenti, termini o responsabilita.
+La scheda di procedimento serve quando il tema ha fasi, soggetti, documenti, termini o responsabilità.
 
-E' utile per diritto amministrativo, pubblico impiego, contratti, accesso, controlli, domanda di concorso e gestione dei casi.
+È utile per diritto amministrativo, pubblico impiego, contratti, accesso, controlli, domanda di concorso e gestione dei casi.
 
 ### Modello
 
@@ -261,7 +261,7 @@ Sotto la tabella aggiungi:
 
 La scheda di procedimento deve farti ragionare come funzionario.
 
-Non basta ricordare le fasi. Devi sapere chi fa che cosa e perche.
+Non basta ricordare le fasi. Devi sapere chi fa che cosa e perché.
 
 ## Scheda di confronto
 
@@ -272,7 +272,7 @@ La scheda di confronto serve a evitare confusioni.
 Esempi:
 
 - accesso documentale, accesso civico semplice, accesso civico generalizzato;
-- annullabilita e nullita;
+- annullabilità e nullità;
 - organo politico e dirigente;
 - quiz con banca dati ufficiale e quiz senza banca dati;
 - manuale, corso e banca dati;
@@ -291,9 +291,9 @@ Esempi:
 
 Chiudi sempre con una frase:
 
-> la differenza decisiva e'...
+> la differenza decisiva è...
 
-Se non riesci a scriverla, la scheda non e' ancora chiara.
+Se non riesci a scriverla, la scheda non è ancora chiara.
 
 ## Scheda di domanda orale
 
@@ -348,7 +348,7 @@ Creala quando l'errore si ripete, costa punti o rivela una confusione profonda.
 
 Una scheda di errore deve finire con un drill.
 
-Se finisce con una spiegazione, e' ancora teoria.
+Se finisce con una spiegazione, è ancora teoria.
 
 ## Scheda di caso
 
@@ -363,15 +363,15 @@ Deve obbligarti a separare dati, soggetti, vincoli e soluzione.
 | Campo | Risposta |
 |---|---|
 | Situazione | fatto essenziale |
-| Soggetti | chi e' coinvolto |
-| Problema | qual e' la questione |
+| Soggetti | chi è coinvolto |
+| Problema | qual è la questione |
 | Vincoli | termini, dati, competenza, riservatezza, risorse |
-| Regola o principio | solo cio che e' sicuro |
+| Regola o principio | solo ciò che è sicuro |
 | Soluzione | cosa farei |
 | Comunicazione | come lo spiegherei |
 | Rischio | quale errore evitare |
 
-La scheda di caso e' utile soprattutto per:
+La scheda di caso è utile soprattutto per:
 
 - prova teorico-pratica;
 - quesiti situazionali;
@@ -390,7 +390,7 @@ Segui questo percorso.
 3. Studia la fonte o il manuale.
 4. Formula una domanda.
 5. Prova a rispondere senza guardare.
-6. Scrivi solo cio che serve a migliorare la risposta.
+6. Scrivi solo ciò che serve a migliorare la risposta.
 7. Aggiungi errore tipico e verifica.
 8. Inserisci la scheda nel piano o nel Diario.
 
@@ -408,9 +408,9 @@ Aggiorna una scheda se:
 - una simulazione mostra un errore ricorrente;
 - una risposta orale resta disordinata;
 - una norma o fonte va verificata;
-- hai aggiunto un esempio piu chiaro;
-- la scheda e' troppo lunga;
-- la scheda non produce piu output.
+- hai aggiunto un esempio più chiaro;
+- la scheda è troppo lunga;
+- la scheda non produce più output.
 
 Non aggiornare una scheda per perfezionismo.
 
@@ -423,18 +423,18 @@ Non deve diventare un manoscritto parallelo.
 Archivia una scheda quando:
 
 - duplica un'altra;
-- non e' collegata a nessun concorso;
+- non è collegata a nessun concorso;
 - non ha fonte;
 - non ha domanda;
 - non ha uso in prova;
-- e' vecchia e non verificata;
+- è vecchia e non verificata;
 - la apri spesso ma non la usi mai.
 
 Archiviare non significa perdere.
 
 Significa proteggere attenzione.
 
-Il capitale di studio non e' tutto cio che hai prodotto. E' cio che puoi riusare con fiducia.
+Il capitale di studio non è tutto ciò che hai prodotto. È ciò che puoi riusare con fiducia.
 
 ## Caso guidato
 
@@ -469,7 +469,7 @@ Aggiorna la scheda:
 
 Dopo due giorni riprova.
 
-La risposta e' piu breve, piu ordinata e piu vicina alla domanda.
+La risposta è più breve, più ordinata e più vicina alla domanda.
 
 Luca non ha fatto un riassunto migliore.
 
@@ -485,23 +485,23 @@ Ha creato una scheda che corregge un output.
 
 ## Domanda da commissario
 
-**Domanda:** Perche in una preparazione concorsuale gli appunti non bastano?
+**Domanda:** perché in una preparazione concorsuale gli appunti non bastano?
 
-**Risposta efficace:** perche gli appunti registrano informazioni, ma non garantiscono che il candidato sappia usarle nel formato della prova. Una scheda operativa trasforma il contenuto in domanda, risposta, esempio, errore da evitare e verifica. In questo modo collega studio, Diario degli errori e output concorsuale: quiz, scritto, orale, caso o simulazione.
+**Risposta efficace:** perché gli appunti registrano informazioni, ma non garantiscono che il candidato sappia usarle nel formato della prova. Una scheda operativa trasforma il contenuto in domanda, risposta, esempio, errore da evitare e verifica. In questo modo collega studio, Diario degli errori e output concorsuale: quiz, scritto, orale, caso o simulazione.
 
 ## Domanda-trappola
 
-**Domanda:** Se una scheda e' molto completa, e' automaticamente una buona scheda?
+**Domanda:** Se una scheda è molto completa, è automaticamente una buona scheda?
 
-**Risposta:** no. Una scheda troppo completa puo diventare un riassunto passivo. Una buona scheda e' proporzionata all'uso: contiene cio che serve per rispondere, correggere un errore o preparare una simulazione. Se non ha domanda guida, errore tipico e verifica, puo essere ordinata ma non operativa.
+**Risposta:** no. Una scheda troppo completa può diventare un riassunto passivo. Una buona scheda è proporzionata all'uso: contiene ciò che serve per rispondere, correggere un errore o preparare una simulazione. Se non ha domanda guida, errore tipico e verifica, può essere ordinata ma non operativa.
 
 ## Errore tipico
 
-L'errore tipico e' trasformare ogni capitolo in una scheda.
+L'errore tipico è trasformare ogni capitolo in una scheda.
 
 Questo produce molte pagine, ma poco controllo.
 
-Il candidato forte crea schede quando c'e':
+Il candidato forte crea schede quando c'è:
 
 - un nucleo ad alta resa;
 - un errore ricorrente;
@@ -540,7 +540,7 @@ Poi trasformala in un output.
 | Caso | applico il concetto a una situazione |
 | Simulazione | inserisco il punto nella prossima prova |
 
-La scheda e' finita solo quando l'hai provata.
+La scheda è finita solo quando l'hai provata.
 
 ## Checklist finale
 
@@ -554,14 +554,14 @@ Prima di salvare una scheda nel tuo sistema, controlla:
 - segnala un errore tipico;
 - prevede una verifica;
 - sta in una pagina o in un blocco breve;
-- non duplica una scheda gia esistente;
-- puo entrare nel Diario, nel piano o in una simulazione;
-- puo essere aggiornata senza riscrivere tutto;
-- puo essere riusata in un altro concorso simile.
+- non duplica una scheda già esistente;
+- può entrare nel Diario, nel piano o in una simulazione;
+- può essere aggiornata senza riscrivere tutto;
+- può essere riusata in un altro concorso simile.
 
-Se mancano domanda, errore e verifica, non e' ancora una scheda operativa.
+Se mancano domanda, errore e verifica, non è ancora una scheda operativa.
 
-E' solo un appunto piu ordinato.
+È solo un appunto più ordinato.
 
 ## Riferimenti consolidati
 
@@ -586,6 +586,6 @@ E' solo un appunto piu ordinato.
 
 ## Note di review
 
-- La struttura madre originaria non prevedeva il Capitolo 35. Questo capitolo e' un'estensione editoriale richiesta nel flusso di completamento del libro.
-- In revisione finale valutare se collocarlo dopo il Capitolo 13 o lasciarlo tra le estensioni finali, perche dialoga sia con il metodo di studio sia con il capitale riutilizzabile.
+- La struttura madre originaria non prevedeva il Capitolo 35. Questo capitolo è un'estensione editoriale richiesta nel flusso di completamento del libro.
+- In revisione finale valutare se collocarlo dopo il Capitolo 13 o lasciarlo tra le estensioni finali, perché dialoga sia con il metodo di studio sia con il capitale riutilizzabile.
 - Verificare in impaginazione se i modelli di scheda debbano diventare pagine workbook autonome o restare nel capitolo.

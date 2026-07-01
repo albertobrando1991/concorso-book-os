@@ -26,7 +26,7 @@ last_compiled_from: ["sources/capitale-studio-riutilizzabile-metodo-bando.md", "
 
 Il vero vantaggio non nasce quando finisci un concorso.
 
-Nasce quando non butti via cio che quel concorso ti ha insegnato.
+Nasce quando non butti via ciò che quel concorso ti ha insegnato.
 
 Ogni bando letto, ogni quiz sbagliato, ogni risposta orale provata, ogni tabella compilata, ogni materia tagliata e ogni avviso controllato possono diventare capitale di studio. Ma diventano capitale solo se li trasformi in un sistema riutilizzabile.
 
@@ -46,9 +46,9 @@ Alla fine del capitolo saprai:
 - chiudere ogni concorso con una scheda di apprendimento;
 - evitare di moltiplicare file, appunti e corsi senza metodo.
 
-La regola e' questa:
+La regola è questa:
 
-> il capitale di studio non e' cio che hai letto. E' cio che puoi riusare.
+> il capitale di studio non è ciò che hai letto. È ciò che puoi riusare.
 
 ## Mappa BANDO del capitale di studio
 
@@ -66,18 +66,18 @@ Se manca una di queste cinque parti, il materiale resta fragile. Potresti aver s
 
 ## Che cos'e il capitale di studio
 
-Il capitale di studio e' il patrimonio ordinato che puoi portare da un concorso al successivo.
+Il capitale di studio è il patrimonio ordinato che puoi portare da un concorso al successivo.
 
 Comprende:
 
-- concetti gia capiti;
+- concetti già capiti;
 - schemi verificati;
 - domande che sai usare per richiamare;
 - errori classificati;
 - casi svolti;
 - risposte orali provate;
 - fonti ufficiali controllate;
-- moduli di profilo gia avviati;
+- moduli di profilo già avviati;
 - decisioni di taglio che ti hanno fatto risparmiare tempo;
 - routine che ti hanno aiutato a simulare meglio.
 
@@ -91,7 +91,7 @@ Non comprende automaticamente:
 - tabelle compilate solo per sentirsi organizzati;
 - materiali superati da un bando successivo.
 
-Il capitale e' selettivo. Se conservi tutto, non hai capitale: hai deposito.
+Il capitale è selettivo. Se conservi tutto, non hai capitale: hai deposito.
 
 ![Figura 26.2 - Deposito o capitale](../assets/chapter-26/02-deposito-vs-capitale.png)
 
@@ -102,7 +102,7 @@ Prima di riordinare cartelle, classifica ogni materiale in tre stati.
 | Stato | Significato | Esempio | Azione |
 |---|---|---|---|
 | Vivo | lo usi entro 30 giorni o in un concorso attivo | schema accesso, flashcard corrette, simulazioni recenti | tieni in primo piano |
-| In attesa | puo servire in un concorso futuro vicino | modulo tributario non ancora attivato, Bando Decoder parcheggiato | archivia con etichetta chiara |
+| In attesa | può servire in un concorso futuro vicino | modulo tributario non ancora attivato, Bando Decoder parcheggiato | archivia con etichetta chiara |
 | Da archiviare | superato, duplicato o non verificato | PDF mai letti, appunti copiati, riassunti passivi | elimina o sposta fuori dal piano |
 
 Il capitale cresce quando aumenti il materiale vivo e riduci deposito e attesa confusa. Un file "in attesa" senza data, bando o modulo associato diventa presto rumore.
@@ -111,7 +111,7 @@ Il capitale cresce quando aumenti il materiale vivo e riduci deposito e attesa c
 
 Una volta al mese, o alla chiusura di un concorso, compila un inventario rapido.
 
-| Voce | Presente | Qualita (alta/media/bassa) | Core / Modulo / Solo bando |
+| Voce | Presente | qualità (alta/media/bassa) | Core / Modulo / Solo bando |
 |---|---|---|---|
 | Bando Decoder compilato | | | |
 | Matrice materie-profili | | | |
@@ -124,7 +124,7 @@ Una volta al mese, o alla chiusura di un concorso, compila un inventario rapido.
 | Fonti ufficiali controllate | | | |
 | Materiali da eliminare | | | |
 
-Se piu di tre voci risultano assenti o a qualita bassa, non aprire un nuovo concorso: prima consolidi il capitale. Il inventario non serve a fare ordine estetico. Serve a capire cosa puoi riusare davvero.
+Se più di tre voci risultano assenti o a qualità bassa, non aprire un nuovo concorso: prima consolidi il capitale. Il inventario non serve a fare ordine estetico. Serve a capire cosa puoi riusare davvero.
 
 ## La regola 3C: conserva, correggi, converti
 
@@ -132,24 +132,24 @@ Dopo ogni blocco di studio importante, usa tre azioni.
 
 | Azione | Quando usarla | Esempio |
 |---|---|---|
-| Conserva | Il materiale e' corretto, sintetico e riusabile | Schema accesso documentale/civico/generalizzato |
-| Correggi | Il materiale e' utile ma incompleto o confuso | Flashcard su silenzio assenso e silenzio inadempimento |
-| Converti | Il materiale e' passivo e va trasformato in output | Appunto su trasparenza convertito in caso pratico |
+| Conserva | Il materiale è corretto, sintetico e riusabile | Schema accesso documentale/civico/generalizzato |
+| Correggi | Il materiale è utile ma incompleto o confuso | Flashcard su silenzio assenso e silenzio inadempimento |
+| Converti | Il materiale è passivo e va trasformato in output | Appunto su trasparenza convertito in caso pratico |
 
-La quarta azione, spesso la piu difficile, e' eliminare.
+La quarta azione, spesso la più difficile, è eliminare.
 
-Elimina cio che:
+Elimina ciò che:
 
-- non e' collegato a un bando;
+- non è collegato a un bando;
 - non produce output;
 - duplica un materiale migliore;
-- e' troppo lungo per essere ripassato;
+- è troppo lungo per essere ripassato;
 - contiene dubbi non verificati;
 - appartiene a un modulo che hai deciso di non attivare.
 
 Studiare meglio significa anche buttare via meglio.
 
-![Figura 26.3 - Regola 3C piu taglio](../assets/chapter-26/03-regola-3c.png)
+![Figura 26.3 - Regola 3C più taglio](../assets/chapter-26/03-regola-3c.png)
 
 ## L'archivio minimo in cinque cartelle
 
@@ -161,11 +161,11 @@ Usa cinque contenitori.
 |---|---|---|
 | 1. Bandi | Bando Decoder, avvisi, requisiti, calendario | Un file o scheda per concorso |
 | 2. Nucleo comune | Schemi su materie ricorrenti | Solo materiali riusabili |
-| 3. Moduli | Enti locali, contabilita, tributario, ICT, sanita, scuola, vigilanza | Solo moduli attivati da bandi reali |
+| 3. Moduli | Enti locali, contabilità, tributario, ICT, sanità, scuola, vigilanza | Solo moduli attivati da bandi reali |
 | 4. Output | Quiz, casi, orale, simulazioni, risposte modello | Sempre con data e correzione |
 | 5. Diario | Errori, cause, azioni, ripassi, fonti da verificare | Ogni errore deve avere prossima azione |
 
-Se vuoi una versione ancora piu semplice, usa tre etichette:
+Se vuoi una versione ancora più semplice, usa tre etichette:
 
 - **core**: torna spesso;
 - **modulo**: torna in famiglie simili;
@@ -184,16 +184,16 @@ Invece devi salvare dati utili.
 | Domanda | Risposta da scrivere |
 |---|---|
 | Che tipo di prova era davvero? | Quiz, scritto, caso, orale, pratica, mix |
-| Quali materie pesavano di piu? | Core, modulo, dettagli, profilo |
+| Quali materie pesavano di più? | Core, modulo, dettagli, profilo |
 | Quali errori sono tornati? | Memoria, concetto, lettura, tempo, ansia |
 | Quale materiale ha funzionato? | Schema, flashcard, simulazione, caso |
 | Cosa era inutile? | Manuale, appunto, corso, dettaglio, tabella |
 | Cosa usero nel prossimo concorso? | Tre elementi riusabili |
 | Cosa non ripetero? | Una decisione da correggere |
 
-Questa scheda vale anche se la prova e' andata male. Anzi, soprattutto in quel caso.
+Questa scheda vale anche se la prova è andata male. Anzi, soprattutto in quel caso.
 
-Una prova sbagliata ma analizzata bene puo evitare due mesi di errori nel concorso successivo.
+Una prova sbagliata ma analizzata bene può evitare due mesi di errori nel concorso successivo.
 
 ## Scheda workbook: dopo concorso
 
@@ -230,7 +230,7 @@ Quando passi da un concorso al successivo, non riusi tutto. Decidi cosa portare 
 | Fonte ufficiale | | | |
 | Corso o manuale esterno | | | |
 
-Regola pratica: riuso alto su core, output e Diario; riuso medio su moduli vicini; riuso basso su materiali legati a un solo bando o non verificati. Tutto cio che resta a riuso basso senza conversione in output va eliminato o archiviato.
+Regola pratica: riuso alto su core, output e Diario; riuso medio su moduli vicini; riuso basso su materiali legati a un solo bando o non verificati. Tutto ciò che resta a riuso basso senza conversione in output va eliminato o archiviato.
 
 ## Il protocollo dei 30 minuti
 
@@ -242,7 +242,7 @@ Entro 48 ore da una prova, fai una revisione breve.
 | 5-10 | Elenca materie e tipi di domanda | Mappa prova |
 | 10-15 | Segna tre errori ricorrenti | Diario |
 | 15-20 | Individua tre materiali utili | Archivio core/modulo |
-| 20-25 | Taglia cio che non serve piu | Pulizia |
+| 20-25 | Taglia ciò che non serve più | Pulizia |
 | 25-30 | Scrivi il prossimo uso | Piano per concorso successivo |
 
 Non aspettare settimane. Dopo qualche giorno la memoria della prova diventa meno affidabile: restano emozioni, non dati.
@@ -255,22 +255,22 @@ Il Metodo BANDO non promette che tutti i concorsi siano uguali.
 
 Promette che non tutto cambia.
 
-Il capitale comune comprende cio che puoi usare spesso: logica di bando, diritto amministrativo essenziale, procedimento, pubblico impiego, trasparenza/privacy, digitale, inglese, logica, metodo quiz, risposta orale, diario errori.
+Il capitale comune comprende ciò che puoi usare spesso: logica di bando, diritto amministrativo essenziale, procedimento, pubblico impiego, trasparenza/privacy, digitale, inglese, logica, metodo quiz, risposta orale, diario errori.
 
 I moduli di profilo invece cambiano:
 
 - enti locali;
-- contabilita;
+- contabilità;
 - tributario;
 - previdenza e lavoro;
 - ICT;
-- sanita amministrativa;
-- scuola e universita;
+- sanità amministrativa;
+- scuola e università;
 - polizia locale;
 - tecnico;
 - appalti, PNRR e rendicontazione.
 
-Il problema non e' scegliere tra core e modulo. Il problema e' sapere quando il modulo diventa decisivo.
+Il problema non è scegliere tra core e modulo. Il problema è sapere quando il modulo diventa decisivo.
 
 Usa questa regola:
 
@@ -284,15 +284,15 @@ Usa questa regola:
 
 Il capitale ti fa partire avanti, ma non ti autorizza a smettere di leggere il bando.
 
-![Figura 26.6 - Core, moduli e trasferibilita](../assets/chapter-26/06-core-moduli-trasferibilita.png)
+![Figura 26.6 - Core, moduli e trasferibilità](../assets/chapter-26/06-core-moduli-trasferibilità.png)
 
 ## Da sapere in 5 righe
 
-1. Il capitale di studio e' cio che puoi riusare, non cio che hai accumulato.
+1. Il capitale di studio è ciò che puoi riusare, non ciò che hai accumulato.
 2. Ogni concorso deve lasciare Bando Decoder, matrice, output, diario e decisioni.
-3. Core e modulo vanno separati: non tutto ha lo stesso grado di trasferibilita.
+3. Core e modulo vanno separati: non tutto ha lo stesso grado di trasferibilità.
 4. Dopo una prova servono 30 minuti di revisione prima che i dati si perdano.
-5. Eliminare materiali inutili e' parte del metodo, non una perdita.
+5. Eliminare materiali inutili è parte del metodo, non una perdita.
 
 ## Caso guidato
 
@@ -314,28 +314,28 @@ Due mesi dopo trova un concorso amministrativo in una unione di comuni.
 
 Senza capitale, ripartirebbe da un nuovo manuale.
 
-Con il capitale, fa cosi:
+Con il capitale, fa così:
 
 - riusa core amministrativo, accessi, pubblico impiego e trasparenza;
 - riapre modulo enti locali;
 - aggiorna Bando Decoder;
 - controlla se cambia la prova;
-- trasforma gli errori piu frequenti in ripasso;
+- trasforma gli errori più frequenti in ripasso;
 - fa una simulazione entro sette giorni.
 
-Non ha gia vinto. Ma non riparte da zero.
+Non ha già vinto. Ma non riparte da zero.
 
 ![Figura 26.7 - Caso Elena: non ripartire da zero](../assets/chapter-26/07-caso-elena-capitale-riuso.png)
 
 ## Domanda da commissario
 
-**Domanda:** Perche il capitale di studio e' diverso da un semplice archivio di materiali?
+**Domanda:** perché il capitale di studio è diverso da un semplice archivio di materiali?
 
-**Risposta efficace:** perche un archivio conserva tutto, mentre il capitale di studio conserva solo cio che puo essere riusato in modo controllato. Un materiale diventa capitale quando e' corretto, sintetico, collegato a una fonte o a un bando, trasformabile in output e utile per una famiglia di concorsi. Appunti non verificati, file duplicati o riassunti passivi non sono capitale: possono persino rallentare la preparazione.
+**Risposta efficace:** perché un archivio conserva tutto, mentre il capitale di studio conserva solo ciò che può essere riusato in modo controllato. Un materiale diventa capitale quando è corretto, sintetico, collegato a una fonte o a un bando, trasformabile in output e utile per una famiglia di concorsi. Appunti non verificati, file duplicati o riassunti passivi non sono capitale: possono persino rallentare la preparazione.
 
 ## Domanda-trappola
 
-**Domanda:** Se ho gia preparato un concorso simile, posso saltare il Bando Decoder?
+**Domanda:** Se ho già preparato un concorso simile, posso saltare il Bando Decoder?
 
 No. Il capitale ti aiuta a partire avanti, ma ogni bando ha requisiti, prove, scadenze, soglie, materie, documenti e comunicazioni proprie. Puoi riusare materiali, non puoi riusare automaticamente la decisione.
 
@@ -364,20 +364,20 @@ Se non trovi nulla da riusare, probabilmente hai studiato senza lasciare tracce 
 
 ## Errore tipico
 
-L'errore tipico e' conservare per paura.
+L'errore tipico è conservare per paura.
 
-Il candidato tiene tutto perche pensa: "potrebbe servire". Dopo tre concorsi ha cartelle piene, appunti doppi, PDF superati, corsi iniziati e nessuna mappa affidabile.
+Il candidato tiene tutto perché pensa: "potrebbe servire". Dopo tre concorsi ha cartelle piene, appunti doppi, PDF superati, corsi iniziati e nessuna mappa affidabile.
 
 Correzione:
 
-- conserva solo cio che useresti entro 30 giorni;
+- conserva solo ciò che useresti entro 30 giorni;
 - trasforma appunti lunghi in domande;
 - archivia i materiali superati;
 - separa core e modulo;
 - elimina duplicati;
-- aggiorna solo cio che e' collegato a un bando o a un output.
+- aggiorna solo ciò che è collegato a un bando o a un output.
 
-Il disordine non e' neutralita. Il disordine consuma tempo.
+Il disordine non è neutralità. Il disordine consuma tempo.
 
 ## Chiusura operativa
 
@@ -387,15 +387,15 @@ Alla fine di ogni concorso, anche prima di sapere il risultato, chiudi il ciclo.
 |---|---|
 | Ho salvato il Bando Decoder compilato | |
 | Ho aggiornato la matrice materie/profili | |
-| Ho segnato gli errori piu ricorrenti | |
+| Ho segnato gli errori più ricorrenti | |
 | Ho indicato tre materiali riusabili | |
 | Ho eliminato duplicati o materiali inutili | |
 | Ho scritto cosa cambiero nel prossimo piano | |
 | Ho programmato un ripasso leggero del core | |
 
-Questa pagina e' il ponte tra un concorso e il successivo.
+Questa pagina è il ponte tra un concorso e il successivo.
 
-La differenza tra accumulare e crescere e' tutta qui: trasformare l'esperienza in metodo.
+La differenza tra accumulare e crescere è tutta qui: trasformare l'esperienza in metodo.
 
 ## Riferimenti consolidati
 
@@ -416,6 +416,6 @@ La differenza tra accumulare e crescere e' tutta qui: trasformare l'esperienza i
 
 ## Note di review
 
-- La struttura madre originaria non prevedeva il Capitolo 26. Questo capitolo e' un'estensione editoriale: in revisione decidere se mantenerlo numerato, unirlo al Capitolo 25 o trasformarlo in epilogo operativo.
+- La struttura madre originaria non prevedeva il Capitolo 26. Questo capitolo è un'estensione editoriale: in revisione decidere se mantenerlo numerato, unirlo al Capitolo 25 o trasformarlo in epilogo operativo.
 - Schede workbook "Dopo concorso", inventario capitale e matrice riuso/taglio inserite nel capitolo; in impaginazione valutare estrazione come PDF compilabile autonomo.
 - Coordinare il lessico con front matter e servizi digitali di Capitale Personale, evitando che il capitolo sembri dipendere dal digitale.

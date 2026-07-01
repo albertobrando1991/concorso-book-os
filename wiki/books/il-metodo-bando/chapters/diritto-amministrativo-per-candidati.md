@@ -4,20 +4,20 @@ type: chapter
 title: Diritto amministrativo operativo
 status: revised_draft
 domain: concorsi pubblici italiani
-topics: ["diritto amministrativo","procedimento amministrativo","attivita amministrativa","situazioni giuridiche soggettive","organizzazione amministrativa","semplificazione amministrativa","atti amministrativi","accesso e trasparenza","anticorruzione e privacy","documentazione amministrativa","amministrazione digitale","contratti pubblici","beni pubblici","servizi pubblici","controlli e responsabilità","giustizia amministrativa","enti territoriali","sanzioni amministrative","principio di legalità","responsabilità dirigenziale","performance amministrativa","governo del rischio","pubblico impiego"]
-entities: ["Legge 241/1990","ANAC","Pubblica amministrazione","Responsabile del procedimento","Dirigente pubblico","D.Lgs. 165/2001","D.Lgs. 150/2009","D.Lgs. 36/2023","Corte dei conti","Consiglio di Stato"]
-source_refs: ["sources/struttura-madre-il-metodo-bando.md","sources/metodo-bando-progetto-editoriale.md","sources/legge-241-1990-procedimento-amministrativo.md","sources/legge-7-agosto-1990-n-241-procedimento-amministrativo-e-accesso-ai-documenti-amministrativi-testo-vigente-normattiva.md","sources/d-lgs-14-marzo-2013-n-33-trasparenza.md","sources/d-lgs-25-maggio-2016-n-97-foia-e-revisione-trasparenza.md","sources/d-lgs-7-marzo-2005-n-82-amministrazione-digitale.md","sources/legge-6-novembre-2012-n-190-anticorruzione.md","sources/d-lgs-10-marzo-2023-n-24-whistleblowing.md","sources/d-lgs-27-ottobre-2009-n-150-performance.md","sources/legge-14-gennaio-1994-n-20-responsabilità-erariale.md","sources/d-lgs-2-luglio-2010-n-104-processo-amministrativo.md","sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego.md","sources/d-lgs-30-luglio-1999-n-300-organizzazione-governo.md","sources/d-lgs-31-marzo-2023-n-36-contratti-pubblici.md","sources/d-lgs-18-agosto-2000-n-267-enti-locali.md","sources/d-p-r-28-dicembre-2000-n-445-documentazione-amministrativa.md","sources/codice-civile-beni-pubblici-demanio-patrimonio.md","sources/d-p-r-8-giugno-2001-n-327-espropriazione-pubblica-utilita.md","sources/legge-24-novembre-1981-n-689-sanzioni-amministrative.md","sources/regio-decreto-18-giugno-1931-n-773-tulps-polizia-amministrativa.md","sources/d-lgs-26-agosto-2016-n-174-codice-di-giustizia-contabile.md","sources/responsabilità-dirigenziale-legalità-organizzativa-performance-rischio.md","sources/manuale-diritto-amministrativo-lopilato.md"]
+topics: ["diritto amministrativo", "procedimento amministrativo", "attività amministrativa", "situazioni giuridiche soggettive", "organizzazione amministrativa", "semplificazione amministrativa", "atti amministrativi", "accesso e trasparenza", "anticorruzione e privacy", "documentazione amministrativa", "amministrazione digitale", "contratti pubblici", "beni pubblici", "servizi pubblici", "controlli e responsabilità", "giustizia amministrativa", "enti territoriali", "sanzioni amministrative", "principio di legalità", "responsabilità dirigenziale", "performance amministrativa", "governo del rischio", "pubblico impiego"]
+entities: ["Legge 241/1990", "ANAC", "Pubblica amministrazione", "Responsabile del procedimento", "Dirigente pubblico", "D.Lgs. 165/2001", "D.Lgs. 150/2009", "D.Lgs. 36/2023", "Corte dei conti", "Consiglio di Stato"]
+source_refs: ["sources/struttura-madre-il-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/legge-241-1990-procedimento-amministrativo.md", "sources/legge-7-agosto-1990-n-241-procedimento-amministrativo-e-accesso-ai-documenti-amministrativi-testo-vigente-normattiva.md", "sources/d-lgs-14-marzo-2013-n-33-trasparenza.md", "sources/d-lgs-25-maggio-2016-n-97-foia-e-revisione-trasparenza.md", "sources/d-lgs-7-marzo-2005-n-82-amministrazione-digitale.md", "sources/legge-6-novembre-2012-n-190-anticorruzione.md", "sources/d-lgs-10-marzo-2023-n-24-whistleblowing.md", "sources/d-lgs-27-ottobre-2009-n-150-performance.md", "sources/legge-14-gennaio-1994-n-20-responsabilita-erariale.md", "sources/d-lgs-2-luglio-2010-n-104-processo-amministrativo.md", "sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego.md", "sources/d-lgs-30-luglio-1999-n-300-organizzazione-governo.md", "sources/d-lgs-31-marzo-2023-n-36-contratti-pubblici.md", "sources/d-lgs-18-agosto-2000-n-267-enti-locali.md", "sources/d-p-r-28-dicembre-2000-n-445-documentazione-amministrativa.md", "sources/codice-civile-beni-pubblici-demanio-patrimonio.md", "sources/d-p-r-8-giugno-2001-n-327-espropriazione-pubblica-utilita.md", "sources/legge-24-novembre-1981-n-689-sanzioni-amministrative.md", "sources/regio-decreto-18-giugno-1931-n-773-tulps-polizia-amministrativa.md", "sources/d-lgs-26-agosto-2016-n-174-codice-di-giustizia-contabile.md", "sources/responsabilita-dirigenziale-legalita-organizzativa-performance-rischio.md", "sources/manuale-diritto-amministrativo-lopilato.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.9
 updated_at: "2026-05-25T21:25:00+02:00"
 created_at: "2026-05-09T01:05:00.000Z"
 review_required: true
 canonical: true
-tags: ["book-chapter","common-subject","revised"]
+tags: ["book-chapter", "common-subject", "revised"]
 book_id: il-metodo-bando
 outline_section: 5
 draft_stage: editorial-revision
-last_compiled_from: ["topics/diritto-amministrativo-programma-concorsi-2026.md","topics/diritto-amministrativo.md","topics/attivita-amministrativa.md","topics/situazioni-giuridiche-soggettive.md","topics/principio-di-legalità.md","topics/procedimento-amministrativo.md","topics/anticorruzione-e-trasparenza.md","topics/responsabilità-dirigenziale.md","topics/performance-amministrativa.md","topics/governo-del-rischio.md","reviews/diritto-amministrativo-coverage-2026-05-25.md"]
+last_compiled_from: ["topics/diritto-amministrativo-programma-concorsi-2026.md", "topics/diritto-amministrativo.md", "topics/attivita-amministrativa.md", "topics/situazioni-giuridiche-soggettive.md", "topics/principio-di-legalita.md", "topics/procedimento-amministrativo.md", "topics/anticorruzione-e-trasparenza.md", "topics/responsabilita-dirigenziale.md", "topics/performance-amministrativa.md", "topics/governo-del-rischio.md", "reviews/diritto-amministrativo-coverage-2026-05-25.md"]
 ---
 
 # Capitolo 5 - Diritto amministrativo operativo
@@ -565,11 +565,11 @@ Un'impresa chiede a un'amministrazione l'accesso a documenti relativi a una proc
 
 | Punto da verificare | La tua risposta |
 |---|---|
-| Che tipo di accesso potrebbe essere rilevante? |  |
-| L'impresa ha un interesse diretto, concreto e attuale? |  |
-| La pubblicazione online sostituisce sempre l'accesso? |  |
-| Ci sono controinteressati o dati riservati? |  |
-| Quale errore compie l'ufficio nella risposta? |  |
+| Che tipo di accesso potrebbe essere rilevante? | |
+| L'impresa ha un interesse diretto, concreto e attuale? | |
+| La pubblicazione online sostituisce sempre l'accesso? | |
+| Ci sono controinteressati o dati riservati? | |
+| Quale errore compie l'ufficio nella risposta? | |
 
 **Traccia di correzione:** l'ufficio non deve usare genericamente la parola "trasparenza". Deve qualificare la richiesta, distinguere il tipo di accesso, valutare presupposti e limiti, motivare la risposta e considerare il bilanciamento tra conoscibilità, riservatezza e posizione del richiedente.
 
@@ -579,17 +579,17 @@ Usa questa griglia ogni volta che incontri un caso pratico.
 
 | Passaggio | Domanda da farti | Risposta nel caso |
 |---|---|---|
-| Istanza o avvio d'ufficio | Chi ha attivato il procedimento? |  |
-| Amministrazione competente | Quale ufficio deve procedere? |  |
-| Responsabile | È individuabile un responsabile del procedimento? |  |
-| Termine | Entro quando deve concludersi? |  |
-| Partecipazione | Chi deve essere informato o può intervenire? |  |
-| Istruttoria | Quali documenti, pareri o verifiche servono? |  |
-| Provvedimento | Quale decisione finale è attesa? |  |
-| Motivazione | Quali ragioni devono emergere? |  |
-| Accesso o trasparenza | Il cittadino può chiedere documenti o informazioni? |  |
-| Silenzio | Il mancato riscontro ha un significato previsto? |  |
-| Rimedio | Che cosa può fare in caso di inerzia o atto illegittimo? |  |
+| Istanza o avvio d'ufficio | Chi ha attivato il procedimento? | |
+| Amministrazione competente | Quale ufficio deve procedere? | |
+| Responsabile | È individuabile un responsabile del procedimento? | |
+| Termine | Entro quando deve concludersi? | |
+| Partecipazione | Chi deve essere informato o può intervenire? | |
+| Istruttoria | Quali documenti, pareri o verifiche servono? | |
+| Provvedimento | Quale decisione finale è attesa? | |
+| Motivazione | Quali ragioni devono emergere? | |
+| Accesso o trasparenza | Il cittadino può chiedere documenti o informazioni? | |
+| Silenzio | Il mancato riscontro ha un significato previsto? | |
+| Rimedio | Che cosa può fare in caso di inerzia o atto illegittimo? | |
 
 ## Checkpoint finale
 

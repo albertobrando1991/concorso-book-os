@@ -4,7 +4,7 @@ type: chapter
 title: "Simulazioni concorsuali: dalla preparazione alla prova"
 status: revised_draft
 domain: "concorsi pubblici italiani"
-topics: ["simulazioni concorsuali", "metodo bando", "metodo di studio", "prova a quiz", "prova scritta teorico pratica", "prova orale", "casi pratici", "quesiti situazionali", "diario errori", "checklist concorsi", "sostenibilita preparazione concorsi"]
+topics: ["simulazioni concorsuali", "metodo bando", "metodo di studio", "prova a quiz", "prova scritta teorico pratica", "prova orale", "casi pratici", "quesiti situazionali", "diario errori", "checklist concorsi", "sostenibilità preparazione concorsi"]
 entities: ["Metodo BANDO", "Bando Decoder", "Diario degli errori", "Piano 30/60/90 giorni"]
 source_refs: ["sources/simulazioni-concorsuali-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/struttura-madre-il-metodo-bando.md", "sources/apprendimento-efficace-active-recall-ripasso-distribuito.md", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md", "sources/capitoli-21-23-corpus-moduli-piano-diario-2026-06-01.md", "sources/checklist-operative-concorsi-metodo-bando.md", "sources/sostenibilita-preparazione-concorsi-metodo-bando.md", "sources/scelta-materiali-studio-concorsi-metodo-bando.md"]
 book_refs: ["il-metodo-bando"]
@@ -28,11 +28,11 @@ Arriva un momento in cui leggere ancora non basta.
 
 Hai studiato capitoli, fatto quiz, segnato errori, ascoltato spiegazioni, costruito schede. Ma la domanda decisiva resta una:
 
-> riesco a trasformare tutto questo in una prova completa, nel tempo dato, con lucidita sufficiente?
+> riesco a trasformare tutto questo in una prova completa, nel tempo dato, con lucidità sufficiente?
 
 La simulazione serve a rispondere.
 
-Non serve a dimostrare che sei bravo. Non serve a tranquillizzarti. Non serve a punirti quando il punteggio e' basso.
+Non serve a dimostrare che sei bravo. Non serve a tranquillizzarti. Non serve a punirti quando il punteggio è basso.
 
 Serve a misurare la distanza tra preparazione percepita e prestazione reale.
 
@@ -55,11 +55,11 @@ Alla fine del capitolo saprai:
 - evitare simulazioni troppo precoci, troppo facili o troppo emotive;
 - usare il risultato per scegliere materiali, ripasso e prossima azione.
 
-La regola e' questa:
+La regola è questa:
 
-> una simulazione e' utile solo se cambia una decisione.
+> una simulazione è utile solo se cambia una decisione.
 
-Se non modifica il piano, non corregge errori e non produce una prossima azione, e' solo un esercizio lungo.
+Se non modifica il piano, non corregge errori e non produce una prossima azione, è solo un esercizio lungo.
 
 ## La mappa BANDO della simulazione
 
@@ -67,9 +67,9 @@ Ogni simulazione deve nascere dal Metodo BANDO.
 
 | Fase | Domanda | Effetto sulla simulazione |
 |---|---|---|
-| B - Bando | che formato avra la prova? | decide durata, regole, materie e soglie |
+| B - Bando | che formato avrà la prova? | decide durata, regole, materie e soglie |
 | A - Aree | quali materie devo combinare? | evita prove troppo comode su una sola area |
-| N - Nuclei | quali concetti ad alta resa devo verificare? | concentra il test su cio che conta |
+| N - Nuclei | quali concetti ad alta resa devo verificare? | concentra il test su ciò che conta |
 | D - Diario | quali errori devo far emergere? | trasforma la simulazione in diagnosi |
 | O - Output | che cosa devo produrre in tempo? | quiz, risposta, caso, orale o soluzione situazionale |
 
@@ -85,13 +85,13 @@ Il punteggio va letto dentro il sistema.
 
 Non usare queste tre parole come sinonimi.
 
-| Attivita | Funzione | Esempio |
+| attività | Funzione | Esempio |
 |---|---|---|
 | Esercizio | allena un punto specifico | 20 quiz su accesso agli atti |
 | Test | verifica una parte del programma | 40 domande miste su amministrativo |
 | Simulazione | riproduce una prova o una sua porzione realistica | 60 domande in 60 minuti con correzione completa |
 
-L'esercizio costruisce abilita.
+L'esercizio costruisce abilità.
 
 Il test misura una sezione.
 
@@ -99,7 +99,7 @@ La simulazione misura tenuta complessiva.
 
 Ti servono tutti e tre, ma non nello stesso momento.
 
-Se non conosci ancora i concetti base, una simulazione completa puo solo confermare che sei in ritardo.
+Se non conosci ancora i concetti base, una simulazione completa può solo confermare che sei in ritardo.
 
 Se fai solo esercizi mirati, invece, potresti non accorgerti che crolli quando le materie si mescolano, il timer corre e la consegna cambia.
 
@@ -139,11 +139,11 @@ Prima di iniziare, scrivi:
 | Tipo prova | quiz / scritto / orale / caso / situazionale |
 | Materie incluse | |
 | Durata | |
-| Regole | penalita, soglia, strumenti, consegna |
+| Regole | penalità, soglia, strumenti, consegna |
 | Obiettivo | diagnosi / consolidamento / prova completa |
 | Errori da osservare | |
 
-Non partire finche non sai che cosa stai misurando.
+Non partire finché non sai che cosa stai misurando.
 
 ### 2. Esegui
 
@@ -163,7 +163,7 @@ Non deve diventare una recita impossibile. Se sei all'inizio, riduci durata e nu
 
 ### 3. Correggi
 
-La correzione e' la parte piu importante.
+La correzione è la parte più importante.
 
 Non scrivere solo "ho fatto 41 su 60".
 
@@ -179,12 +179,12 @@ Compila questa griglia.
 | Errori di lettura | |
 | Errori da fretta | |
 | Errori da strategia | |
-| Materia piu debole | |
+| Materia più debole | |
 | Prossima azione | |
 
 Il punteggio dice quanto hai ottenuto.
 
-La griglia dice perche.
+La griglia dice perché.
 
 ## Il dossier simulazione
 
@@ -206,12 +206,12 @@ Usa una pagina sola.
 
 Il dossier evita due errori opposti:
 
-- dimenticare rapidamente cio che hai scoperto;
+- dimenticare rapidamente ciò che hai scoperto;
 - ricordare solo la sensazione emotiva.
 
-Una simulazione andata male puo essere utilissima se produce una decisione corretta.
+Una simulazione andata male può essere utilissima se produce una decisione corretta.
 
-Una simulazione andata bene puo essere pericolosa se ti fa abbassare la guardia senza controllare i dettagli.
+Una simulazione andata bene può essere pericolosa se ti fa abbassare la guardia senza controllare i dettagli.
 
 ## Simulare la prova a quiz
 
@@ -222,15 +222,15 @@ La simulazione a quiz deve riprodurre almeno quattro elementi:
 - materie mescolate;
 - regole su risposta errata, omessa e soglia.
 
-Se il bando prevede una banca dati ufficiale, la simulazione deve usare quella banca dati nella fase finale. Prima, pero, puoi fare micro-simulazioni su gruppi di errori. Per il protocollo di studio sulla banca ufficiale vedi [[books/il-metodo-bando/chapters/banca-dati-ufficiale-studiarla-senza-memorizzare-male|R18]]; per la scelta dei materiali di allenamento vedi [[books/il-metodo-bando/chapters/manuali-corsi-banche-dati-scegliere-senza-disperdersi|R9]].
+Se il bando prevede una banca dati ufficiale, la simulazione deve usare quella banca dati nella fase finale. Prima, però, puoi fare micro-simulazioni su gruppi di errori. Per il protocollo di studio sulla banca ufficiale vedi [[books/il-metodo-bando/chapters/banca-dati-ufficiale-studiarla-senza-memorizzare-male|R18]]; per la scelta dei materiali di allenamento vedi [[books/il-metodo-bando/chapters/manuali-corsi-banche-dati-scegliere-senza-disperdersi|R9]].
 
 Se non esiste banca dati ufficiale, costruisci simulazioni miste con materiali affidabili e coerenti con il programma.
 
 ### Griglia quiz
 
-| Indicatore | Perche conta |
+| Indicatore | perché conta |
 |---|---|
-| Tempo medio per domanda | misura sostenibilita reale |
+| Tempo medio per domanda | misura sostenibilità reale |
 | Domande incerte | mostra rischio non visibile dal punteggio |
 | Errori per materia | guida il ripasso |
 | Errori per causa | guida il metodo |
@@ -239,7 +239,7 @@ Se non esiste banca dati ufficiale, costruisci simulazioni miste con materiali a
 
 Non correggere solo la risposta giusta.
 
-Correggi il distrattore che ti ha attratto. Spesso il tuo vero errore e' li.
+Correggi il distrattore che ti ha attratto. Spesso il tuo vero errore è li.
 
 ## Simulare lo scritto
 
@@ -275,9 +275,9 @@ Per un elaborato o un caso, aggiungi:
 | Esempio | ho mostrato l'applicazione pratica? |
 | Tempo | sono arrivato alla chiusura entro il limite? |
 
-Un buon scritto concorsuale non e' quello piu lungo.
+Un buon scritto concorsuale non è quello più lungo.
 
-E' quello che risponde alla domanda nel formato richiesto.
+È quello che risponde alla domanda nel formato richiesto.
 
 ## Simulare l'orale
 
@@ -326,20 +326,20 @@ Per i casi pratici usa questa sequenza:
 Per i quesiti situazionali usa questa sequenza:
 
 1. escludi risposte impulsive o arbitrarie;
-2. cerca legalita, imparzialita, trasparenza e responsabilita;
+2. cerca legalità, imparzialità, trasparenza e responsabilità;
 3. tutela cittadino, riservatezza e collaborazione;
 4. preferisci escalation corretta a iniziativa personale fuori ruolo;
-5. scegli la risposta piu coerente con comportamento pubblico.
+5. scegli la risposta più coerente con comportamento pubblico.
 
 ### Griglia caso/situazionale
 
 | Criterio | Controllo |
 |---|---|
 | Ruolo | sto ragionando come candidato pubblico, non come privato? |
-| Vincoli | ho visto termini, competenza, dati e responsabilita? |
-| Proporzionalita | la soluzione e' adeguata al problema? |
+| Vincoli | ho visto termini, competenza, dati e responsabilità? |
+| proporzionalità | la soluzione è adeguata al problema? |
 | Comunicazione | il cittadino o l'ufficio ricevono una risposta ordinata? |
-| Tracciabilita | la decisione lascia una traccia? |
+| tracciabilità | la decisione lascia una traccia? |
 
 ## Il calendario minimo
 
@@ -352,13 +352,13 @@ Distribuiscile.
 | Prima settimana | micro-diagnosi su formato principale |
 | Dopo ogni blocco materia | test breve con correzione |
 | Meta percorso | simulazione mista ridotta |
-| Ultime 2-3 settimane | una o piu simulazioni complete, se sostenibile |
+| Ultime 2-3 settimane | una o più simulazioni complete, se sostenibile |
 | Ultimi 7 giorni | una simulazione o prova parziale, poi correzione e stabilizzazione |
 | Ultime 24 ore | niente simulazioni pesanti |
 
 Le ultime 24 ore non servono a scoprire il tuo livello.
 
-Servono a proteggere lucidita, documenti, percorso e schede finali.
+Servono a proteggere lucidità, documenti, percorso e schede finali.
 
 ## Come leggere un punteggio
 
@@ -376,23 +376,23 @@ Esempio:
 | Risultato | Lettura sbagliata | Lettura utile |
 |---|---|---|
 | 80% senza timer | sono pronto | devo verificare il tempo |
-| 60% con timer stretto | non ce la faro | devo distinguere conoscenza e gestione tempo |
-| molti errori in una materia | la materia e' impossibile | serve blocco mirato e micro-simulazione |
+| 60% con timer stretto | non ce la farò | devo distinguere conoscenza e gestione tempo |
+| molti errori in una materia | la materia è impossibile | serve blocco mirato e micro-simulazione |
 | pochi errori ma tutti da lettura | so la teoria, devo rallentare consegne e negazioni |
 
-Il punteggio e' un dato. Non e' una sentenza.
+Il punteggio è un dato. Non è una sentenza.
 
 Per soglie, tempo e gestione del rischio in prova, incrocia i risultati con [[books/il-metodo-bando/chapters/strategia-di-punteggio-soglie-tempo-rischio-prova|R13]].
 
 ## Caso guidato
 
-Sara prepara un concorso con prova scritta a quiz e orale successivo. Ha letto il manuale, fatto quiz per materia e compilato il Diario degli errori. Si sente abbastanza pronta, ma non ha mai simulato una prova intera.
+sarà prepara un concorso con prova scritta a quiz e orale successivo. Ha letto il manuale, fatto quiz per materia e compilato il Diario degli errori. Si sente abbastanza pronta, ma non ha mai simulato una prova intera.
 
 Fa una simulazione da 60 domande in 60 minuti.
 
 Risultato: 42 corrette, 10 sbagliate, 8 omesse.
 
-La prima reazione e' pensare: "sono lontana".
+La prima reazione è pensare: "sono lontana".
 
 Poi compila la griglia.
 
@@ -401,12 +401,12 @@ Scopre che:
 - 4 errori sono di lettura della negazione;
 - 3 errori sono su pubblico impiego;
 - 2 errori derivano da fretta negli ultimi 10 minuti;
-- 1 errore e' su un concetto davvero non capito;
+- 1 errore è su un concetto davvero non capito;
 - le 8 omesse sono quasi tutte domande lunghe lasciate per ultime.
 
 La decisione cambia.
 
-Sara non apre un nuovo manuale.
+sarà non apre un nuovo manuale.
 
 Per sette giorni fa:
 
@@ -432,19 +432,19 @@ Le ha detto che cosa fare.
 
 ## Domanda da commissario
 
-**Domanda:** Perche la simulazione e' diversa da una semplice esercitazione?
+**Domanda:** perché la simulazione è diversa da una semplice esercitazione?
 
-**Risposta efficace:** perche l'esercitazione allena un contenuto o una abilita specifica, mentre la simulazione mette insieme formato della prova, tempo, consegna, materie, strategia e correzione. In una preparazione concorsuale la simulazione serve a verificare se il candidato sa trasformare la conoscenza in output nel contesto richiesto dal bando. Il risultato va letto con il Diario degli errori, non solo come punteggio.
+**Risposta efficace:** perché l'esercitazione allena un contenuto o una abilità specifica, mentre la simulazione mette insieme formato della prova, tempo, consegna, materie, strategia e correzione. In una preparazione concorsuale la simulazione serve a verificare se il candidato sa trasformare la conoscenza in output nel contesto richiesto dal bando. Il risultato va letto con il Diario degli errori, non solo come punteggio.
 
 ## Domanda-trappola
 
 **Domanda:** Se ottengo un buon punteggio in una simulazione, posso smettere di correggere gli errori?
 
-**Risposta:** no. Un buon punteggio puo nascondere incertezze, errori ripetuti, lentezza o dipendenza da condizioni troppo facili. Anche una simulazione positiva va corretta: serve a capire che cosa mantenere, che cosa consolidare e quale rischio resta prima della prova reale.
+**Risposta:** no. Un buon punteggio può nascondere incertezze, errori ripetuti, lentezza o dipendenza da condizioni troppo facili. Anche una simulazione positiva va corretta: serve a capire che cosa mantenere, che cosa consolidare e quale rischio resta prima della prova reale.
 
 ## Errore tipico
 
-L'errore tipico e' usare la simulazione come giudizio emotivo.
+L'errore tipico è usare la simulazione come giudizio emotivo.
 
 Se va bene, il candidato si rilassa troppo.
 
@@ -490,7 +490,7 @@ Costruisci una simulazione per il concorso che stai preparando.
 | Errori da fretta | |
 | Errori di strategia | |
 | Domande o parti saltate | |
-| Materia piu debole | |
+| Materia più debole | |
 | Output migliore | |
 
 ### 3. Decisione
@@ -501,7 +501,7 @@ Scrivi una sola azione per i prossimi 7 giorni.
 |---|---|---|
 | | | |
 
-Se la decisione non e' verificabile, non e' ancora una decisione.
+Se la decisione non è verificabile, non è ancora una decisione.
 
 ## Checklist finale
 
@@ -533,7 +533,7 @@ Compila questa scheda prima di ogni simulazione importante. Se non hai il Bando 
 | Riferimento libro (Cap. 14 / 15 / 16 / 17) | |
 | Durata reale o ridotta | |
 | Materie incluse e peso | |
-| Regole (penalita, soglia, strumenti ammessi) | |
+| Regole (penalità, soglia, strumenti ammessi) | |
 | Obiettivo (diagnosi / consolidamento / prova completa) | |
 | Errore ricorrente da osservare (Diario, Cap. 23) | |
 | Materiale usato (R9) | |
@@ -565,24 +565,24 @@ Le simulazioni utili diventano capitale riutilizzabile (R2): griglie, set di dom
 Prima di avviare il timer, rispondi per iscritto:
 
 1. **So che cosa sto misurando?** Deve emergere da bando e Decoder, non da un PDF casuale o da un commento esterno.
-2. **E' il momento giusto?** Se non conosci ancora i nuclei base, preferisci micro-diagnosi; la simulazione completa serve in consolidamento o fase finale.
-3. **Rispetto tempo e regole reali?** Timer, consegna, penalita e strumenti ammessi devono essere quelli del bando, anche in versione ridotta.
-4. **Ho previsto la correzione?** Senza griglia errori e decisione settimanale, la simulazione e' solo consumo di energia.
-5. **So dove finira l'output?** Diario, piano, R8 e — se serve — R9 (materiali) o R13 (strategia punteggio).
+2. **È il momento giusto?** Se non conosci ancora i nuclei base, preferisci micro-diagnosi; la simulazione completa serve in consolidamento o fase finale.
+3. **Rispetto tempo e regole reali?** Timer, consegna, penalità e strumenti ammessi devono essere quelli del bando, anche in versione ridotta.
+4. **Ho previsto la correzione?** Senza griglia errori e decisione settimanale, la simulazione è solo consumo di energia.
+5. **So dove finirà l'output?** Diario, piano, R8 e — se serve — R9 (materiali) o R13 (strategia punteggio).
 
-Se anche una risposta e' debole, riduci durata e ambito, ma non saltare la correzione.
+Se anche una risposta è debole, riduci durata e ambito, ma non saltare la correzione.
 
 ## Cinque segnali che il laboratorio funziona
 
 1. **Ogni simulazione produce una decisione**: non solo un punteggio, ma un'azione verificabile entro sette giorni.
 2. **Gli errori si classificano per causa**: memoria, concetto, lettura, fretta, strategia — non solo per materia.
 3. **Il Diario si aggiorna**: le stesse lacune non ricompaiono identiche dopo due cicli di correzione.
-4. **Il calendario e' distribuito**: micro, miste e complete compaiono nel piano, non tutte nell'ultima settimana.
+4. **Il calendario è distribuito**: micro, miste e complete compaiono nel piano, non tutte nell'ultima settimana.
 5. **Il punteggio viene letto con R13**: soglie, tempo e rischio guidano la prossima mossa, non l'umore del giorno.
 
 ## Chiusura operativa
 
-Il laboratorio simulazioni e' chiuso metodologicamente quando ogni prova lascia una traccia decisionale, non quando il punteggio e' alto.
+Il laboratorio simulazioni è chiuso metodologicamente quando ogni prova lascia una traccia decisionale, non quando il punteggio è alto.
 
 | Azione | Fatto |
 |---|---|
@@ -621,7 +621,7 @@ La simulazione non deve governare il tuo umore. Deve governare il piano.
 
 ## Note di review
 
-- La struttura madre originaria non prevedeva il Capitolo 34. Questo capitolo e' un'estensione editoriale richiesta nel flusso di completamento del libro.
+- La struttura madre originaria non prevedeva il Capitolo 34. Questo capitolo è un'estensione editoriale richiesta nel flusso di completamento del libro.
 - In revisione finale valutare se collocarlo prima del Capitolo 24, come ponte tra Parte III e Kit finale, oppure mantenerlo tra le estensioni finali.
 - Verificare in impaginazione se il "dossier simulazione" e la scheda "Prepara la simulazione in 15 minuti" debbano diventare pagine compilabili autonome.
 - Coordinare rimandi con Cap. 14-17 (formati di prova), Cap. 23 (Diario), R8 (revisione sistema), R9 (materiali), R13 (strategia punteggio), R18 (banca dati ufficiale) e R22 (orale imprevisto, Cap. 46).

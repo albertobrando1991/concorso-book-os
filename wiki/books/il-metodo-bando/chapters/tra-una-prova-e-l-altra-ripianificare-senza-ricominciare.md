@@ -24,15 +24,15 @@ last_compiled_from: ["sources/intervallo-tra-prove-concorsuali-metodo-bando.md",
 
 Una prova non finisce davvero quando esci dall'aula.
 
-Finisce quando hai trasformato quello che e' accaduto in una decisione.
+Finisce quando hai trasformato quello che è accaduto in una decisione.
 
-Se il concorso prevede piu fasi, l'errore piu frequente e' trattare ogni prova come un mondo separato: prima il quiz, poi si vedra; prima lo scritto, poi si vedra; prima l'esito, poi si vedra.
+Se il concorso prevede più fasi, l'errore più frequente è trattare ogni prova come un mondo separato: prima il quiz, poi si vedra; prima lo scritto, poi si vedra; prima l'esito, poi si vedra.
 
 Questo atteggiamento sembra prudente.
 
 In realta spesso fa perdere tempo.
 
-Perche tra una prova e l'altra il candidato puo fare tre cose molto diverse:
+perché tra una prova e l'altra il candidato può fare tre cose molto diverse:
 
 - fermarsi in attesa;
 - agitarsi controllando avvisi e gruppi ogni dieci minuti;
@@ -57,9 +57,9 @@ Alla fine del capitolo saprai:
 - decidere cosa mantenere, cosa alleggerire e cosa riattivare;
 - chiudere una prova intermedia come capitale per quella successiva.
 
-La regola e':
+La regola è:
 
-> l'intervallo non e' pausa dal metodo. E' manutenzione del metodo.
+> l'intervallo non è pausa dal metodo. È manutenzione del metodo.
 
 ## La mappa BANDO tra prove
 
@@ -68,8 +68,8 @@ La regola e':
 | B - Bando | quali fasi successive sono previste o possibili? | rileggo bando, avvisi e calendario |
 | A - Aree | quali materie tornano nella fase successiva? | separo nucleo comune e modulo specifico |
 | N - Nuclei | che cosa devo tenere vivo? | proteggo concetti ad alta resa |
-| D - Diario | che cosa e' emerso dalla prova appena fatta? | registro errori, tempi, dubbi e istruzioni |
-| O - Output | qual e' il prossimo prodotto richiesto? | scritto, orale, caso, simulazione o attesa attiva |
+| D - Diario | che cosa è emerso dalla prova appena fatta? | registro errori, tempi, dubbi e istruzioni |
+| O - Output | qual è il prossimo prodotto richiesto? | scritto, orale, caso, simulazione o attesa attiva |
 
 Questa mappa serve a una cosa precisa: impedire che l'intervallo venga occupato da sensazioni.
 
@@ -83,9 +83,9 @@ Per questo l'impressione a caldo va registrata, non trasformata subito in verdet
 
 ## Prime 24 ore: salvare dati, non giudicare tutto
 
-Nelle prime 24 ore dopo una prova il candidato e' spesso poco affidabile come giudice di se stesso.
+Nelle prime 24 ore dopo una prova il candidato è spesso poco affidabile come giudice di se stesso.
 
-E' stanco.
+È stanco.
 
 Ripensa alle domande.
 
@@ -95,16 +95,16 @@ Ascolta altri candidati.
 
 Cerca conferme.
 
-Il primo compito non e' decidere se sei dentro o fuori.
+Il primo compito non è decidere se sei dentro o fuori.
 
-Il primo compito e' salvare dati.
+Il primo compito è salvare dati.
 
 Compila una scheda breve:
 
 | Campo | Nota a caldo |
 |---|---|
 | Tipo di prova sostenuta | |
-| Materie o nuclei piu presenti | |
+| Materie o nuclei più presenti | |
 | Domande o tracce ricordate | |
 | Errori probabili | |
 | Problemi di tempo | |
@@ -125,11 +125,11 @@ Serve al Diario e al capitale di studio.
 
 Dopo la prima registrazione, arriva la conversione.
 
-La domanda non e':
+La domanda non è:
 
 > come mi sento?
 
-La domanda e':
+La domanda è:
 
 > che cosa faccio adesso con quello che ho appena imparato sulla prova?
 
@@ -142,19 +142,19 @@ Usa questa matrice.
 | Ho scritto fuori traccia | output da allenare | scalette e risposte brevi |
 | Ho avuto vuoti orali | esposizione debole | simulazione orale guidata |
 | Ho sottovalutato logistica | rischio operativo | checklist giorno prova |
-| La prova successiva e' probabile | attesa attiva | piano leggero sul prossimo output |
+| La prova successiva è probabile | attesa attiva | piano leggero sul prossimo output |
 
-Il punto non e' riempire subito il calendario.
+Il punto non è riempire subito il calendario.
 
-Il punto e' evitare che l'intervallo diventi sospensione totale.
+Il punto è evitare che l'intervallo diventi sospensione totale.
 
-Anche trenta minuti ben usati possono conservare continuita.
+Anche trenta minuti ben usati possono conservare continuità.
 
-## Se dopo il quiz puo arrivare lo scritto
+## Se dopo il quiz può arrivare lo scritto
 
 Dopo una prova a quiz, molti candidati aspettano l'esito prima di pensare allo scritto.
 
-A volte e' inevitabile, perche tempi, graduatorie e convocazioni dipendono dalla procedura.
+A volte è inevitabile, perché tempi, graduatorie e convocazioni dipendono dalla procedura.
 
 Ma se il bando prevede una prova scritta possibile, puoi iniziare una preparazione leggera e mirata senza consumarti.
 
@@ -176,9 +176,9 @@ Per questo l'intervallo serve a cambiare output.
 
 Non basta continuare a fare quiz se la fase successiva chiede scrittura.
 
-## Se dopo lo scritto puo arrivare l'orale
+## Se dopo lo scritto può arrivare l'orale
 
-L'orale e' la prova che piu spesso viene preparata troppo tardi.
+L'orale è la prova che più spesso viene preparata troppo tardi.
 
 Il candidato aspetta l'esito dello scritto, poi scopre che deve parlare di molte materie in poco tempo.
 
@@ -193,7 +193,7 @@ Usa tre livelli:
 | Livello | Cosa fai | Quando |
 |---|---|---|
 | Minimo | 3 domande orali a settimana sui nuclei comuni | mentre attendi |
-| Medio | risposte da 2 minuti su errori emersi nello scritto | se l'esito e' plausibile |
+| Medio | risposte da 2 minuti su errori emersi nello scritto | se l'esito è plausibile |
 | Intensivo | simulazioni complete, collegamenti, domande incrociate | dopo convocazione o esito positivo |
 
 Lo schema base resta:
@@ -202,17 +202,17 @@ Lo schema base resta:
 inquadramento -> definizione -> funzione -> riferimento sicuro -> esempio -> chiusura
 ```
 
-L'obiettivo dell'intervallo non e' sapere tutto oralmente.
+L'obiettivo dell'intervallo non è sapere tutto oralmente.
 
-E' evitare di partire da zero.
+È evitare di partire da zero.
 
 ## Se l'esito tarda
 
-L'attesa lunga e' una situazione delicata.
+L'attesa lunga è una situazione delicata.
 
-Troppo studio puo consumare energie.
+Troppo studio può consumare energie.
 
-Troppa pausa puo far perdere ritmo.
+Troppa pausa può far perdere ritmo.
 
 Serve una routine di attesa attiva.
 
@@ -226,13 +226,13 @@ Serve una routine di attesa attiva.
 
 Il controllo degli avvisi deve essere ordinato.
 
-Non serve controllare in modo compulsivo se non c'e una ragione operativa.
+Non serve controllare in modo compulsivo se non c'è una ragione operativa.
 
 Stabilisci un momento della giornata o della settimana, salva le fonti ufficiali e aggiorna il piano.
 
 Il resto del tempo deve restare disponibile per studio, recupero o altri concorsi.
 
-## Se la prova e' andata male
+## Se la prova è andata male
 
 Una prova andata male non deve produrre solo frustrazione.
 
@@ -248,26 +248,26 @@ Compila una scheda:
 |---|---|
 | Che cosa mi ha sorpreso? | |
 | Che cosa avrei potuto prevedere dal bando? | |
-| Quale errore e' contenuto? | |
-| Quale errore e' tempo? | |
-| Quale errore e' strategia? | |
+| Quale errore è contenuto? | |
+| Quale errore è tempo? | |
+| Quale errore è strategia? | |
 | Quale materiale non mi ha aiutato? | |
 | Quale scheda devo creare? | |
 | Che cosa riuso nel prossimo concorso? | |
 
-La prova non superata puo diventare una fonte molto concreta.
+La prova non superata può diventare una fonte molto concreta.
 
-Non e' una fonte normativa.
+Non è una fonte normativa.
 
-E' una fonte sul tuo metodo.
+È una fonte sul tuo metodo.
 
-## Se la prova e' andata bene
+## Se la prova è andata bene
 
-Anche una prova andata bene puo produrre errori.
+Anche una prova andata bene può produrre errori.
 
-Il rischio e' rilassarsi troppo, perdere ritmo e arrivare impreparati alla fase successiva.
+Il rischio è rilassarsi troppo, perdere ritmo e arrivare impreparati alla fase successiva.
 
-Se l'impressione e' positiva:
+Se l'impressione è positiva:
 
 - registra comunque errori e incertezze;
 - non smontare subito il piano;
@@ -276,7 +276,7 @@ Se l'impressione e' positiva:
 - non annunciare conclusioni prima degli atti ufficiali;
 - programma un controllo ordinato degli esiti.
 
-L'euforia e' comprensibile.
+L'euforia è comprensibile.
 
 Ma il metodo resta sobrio.
 
@@ -286,7 +286,7 @@ Il tuo piano decide come arrivi al passaggio successivo.
 
 ## La scheda di conversione tra prove
 
-Questa e' la pagina operativa del capitolo.
+Questa è la pagina operativa del capitolo.
 
 | Campo | Compilazione |
 |---|---|
@@ -309,7 +309,7 @@ Deve dirti che cosa fare nella prossima settimana.
 
 ## Da sapere in 5 righe
 
-1. L'intervallo tra prove non e' tempo morto: e' tempo di conversione.
+1. L'intervallo tra prove non è tempo morto: è tempo di conversione.
 2. L'impressione a caldo va registrata, ma non sostituisce l'esito ufficiale.
 3. Ogni prova deve generare Diario, schede, correzioni e capitale riutilizzabile.
 4. Se il bando prevede una prova successiva possibile, va preparato almeno il nucleo minimo dell'output.
@@ -319,11 +319,11 @@ Deve dirti che cosa fare nella prossima settimana.
 
 Marta ha appena sostenuto una prova scritta a quiz. Il bando prevede, per chi supera lo scritto, una prova orale.
 
-All'uscita e' incerta.
+All'uscita è incerta.
 
-Ricorda alcune domande su procedimento amministrativo, pubblico impiego e trasparenza. Ha perso tempo su due quesiti lunghi e si e' accorta di non saper spiegare bene alcuni concetti che pure riconosceva nel quiz.
+Ricorda alcune domande su procedimento amministrativo, pubblico impiego e trasparenza. Ha perso tempo su due quesiti lunghi e si è accorta di non saper spiegare bene alcuni concetti che pure riconosceva nel quiz.
 
-Il suo primo impulso e' aspettare l'esito senza fare nulla.
+Il suo primo impulso è aspettare l'esito senza fare nulla.
 
 Con il Metodo BANDO fa altro.
 
@@ -331,7 +331,7 @@ Nelle prime 24 ore compila la scheda post-prova. Nelle 72 ore successive crea tr
 
 Quando arriva l'esito positivo, Marta non parte da zero.
 
-Ha gia un nucleo orale.
+Ha già un nucleo orale.
 
 Non ha studiato tutto.
 
@@ -339,15 +339,15 @@ Ha tenuto aperta la traiettoria.
 
 ## Domanda da commissario
 
-Perche e' utile preparare il possibile orale prima di conoscere l'esito ufficiale dello scritto?
+perché è utile preparare il possibile orale prima di conoscere l'esito ufficiale dello scritto?
 
-Risposta guidata: perche, se il bando prevede una prova orale, il candidato puo mantenere attivo un nucleo minimo senza consumare energie eccessive. Non si tratta di anticipare l'esito, ma di evitare una ripartenza da zero. La preparazione resta proporzionata: domande brevi, schede, simulazioni leggere e controllo degli avvisi.
+Risposta guidata: perché, se il bando prevede una prova orale, il candidato può mantenere attivo un nucleo minimo senza consumare energie eccessive. Non si tratta di anticipare l'esito, ma di evitare una ripartenza da zero. La preparazione resta proporzionata: domande brevi, schede, simulazioni leggere e controllo degli avvisi.
 
 ## Domanda-trappola
 
-Se non conosco ancora l'esito, e' inutile studiare per la prova successiva?
+Se non conosco ancora l'esito, è inutile studiare per la prova successiva?
 
-Risposta guidata: no. E' inutile studiare in modo disordinato o intensivo senza dati. Ma puo essere molto utile mantenere vivo il nucleo comune, trasformare errori in schede e allenare l'output possibile. L'importante e' distinguere attesa attiva da consumo ansioso di energie.
+Risposta guidata: no. È inutile studiare in modo disordinato o intensivo senza dati. Ma può essere molto utile mantenere vivo il nucleo comune, trasformare errori in schede e allenare l'output possibile. L'importante è distinguere attesa attiva da consumo ansioso di energie.
 
 ## Errore tipico
 
@@ -363,7 +363,7 @@ Non prepara il possibile output successivo.
 
 Poi, quando arriva l'esito o la convocazione, deve ricostruire tutto da memoria incerta.
 
-Questo e' il contrario del Metodo BANDO.
+Questo è il contrario del Metodo BANDO.
 
 Ogni prova deve lasciare traccia.
 
@@ -402,7 +402,7 @@ Prima di chiudere l'intervallo tra prove controlla:
 - ho scelto un output da allenare?
 - ho creato o aggiornato almeno una scheda operativa?
 - ho stabilito quando controllare gli avvisi ufficiali?
-- ho evitato di aprire nuovi materiali prima di riordinare quelli gia prodotti?
+- ho evitato di aprire nuovi materiali prima di riordinare quelli già prodotti?
 - ho deciso cosa fare nella prossima settimana?
 
 Se rispondi "no" a troppe domande, non sei in pausa.

@@ -4,7 +4,7 @@ type: chapter
 title: "Ripasso finale: consolidare senza saturarsi"
 status: revised_draft
 domain: "concorsi pubblici italiani"
-topics: ["ripasso finale concorsi", "metodo bando", "metodo di studio", "ripasso distribuito", "active recall", "diario errori", "schede operative studio", "simulazioni concorsuali", "taglio priorita studio concorsi", "strategia punteggio prova concorsuale", "giorno prova concorso", "sostenibilita preparazione concorsi", "prove concorsuali"]
+topics: ["ripasso finale concorsi", "metodo bando", "metodo di studio", "ripasso distribuito", "active recall", "diario errori", "schede operative studio", "simulazioni concorsuali", "taglio priorità studio concorsi", "strategia punteggio prova concorsuale", "giorno prova concorso", "sostenibilità preparazione concorsi", "prove concorsuali"]
 entities: ["Metodo BANDO", "Bando Decoder", "Diario degli errori", "Piano 30/60/90 giorni"]
 source_refs: ["sources/ripasso-finale-concorsi-metodo-bando.md", "sources/apprendimento-efficace-active-recall-ripasso-distribuito.md", "sources/scienze-apprendimento-pianificazione-metacognizione-errori.md", "sources/schede-operative-studio-metodo-bando.md", "sources/simulazioni-concorsuali-metodo-bando.md", "sources/taglio-priorita-studio-concorsi-metodo-bando.md", "sources/strategia-punteggio-prova-concorsuale-metodo-bando.md", "sources/giorno-prova-concorso-metodo-bando.md", "sources/checklist-operative-concorsi-metodo-bando.md", "sources/sostenibilita-preparazione-concorsi-metodo-bando.md", "sources/capitoli-21-23-corpus-moduli-piano-diario-2026-06-01.md"]
 book_refs: ["il-metodo-bando"]
@@ -30,7 +30,7 @@ Aggiungere una banca dati.
 
 Aggiungere video, schemi, dispense, gruppi, appunti altrui.
 
-Aggiungere fino a non distinguere piu cio che sai, cio che devi tenere vivo e cio che ormai non puoi trasformare in punteggio.
+Aggiungere fino a non distinguere più ciò che sai, ciò che devi tenere vivo e ciò che ormai non puoi trasformare in punteggio.
 
 Il ripasso finale serve al contrario.
 
@@ -40,9 +40,9 @@ Serve a chiudere bene.
 
 Nel Metodo BANDO, chiudere bene significa portare in prova un sistema leggibile: bando sotto controllo, nuclei ad alta resa attivi, errori ricorrenti ridotti, output provati, logistica verificata e testa abbastanza libera da eseguire.
 
-Il candidato forte non e' quello che negli ultimi giorni studia piu di tutti.
+Il candidato forte non è quello che negli ultimi giorni studia più di tutti.
 
-E' quello che sa che cosa non deve piu complicare.
+È quello che sa che cosa non deve più complicare.
 
 ## Obiettivo del capitolo
 
@@ -55,31 +55,31 @@ Alla fine del capitolo saprai:
 - organizzare gli ultimi 7 giorni senza aprire troppi fronti;
 - adattare il ripasso a quiz, scritto, orale e casi;
 - decidere che cosa lasciare fuori senza sentirti irresponsabile;
-- arrivare alla prova con piu ordine, non con piu rumore.
+- arrivare alla prova con più ordine, non con più rumore.
 
-La regola guida e':
+La regola guida è:
 
-> negli ultimi giorni non devi dimostrare di avere studiato tanto. Devi rendere disponibile cio che hai studiato.
+> negli ultimi giorni non devi dimostrare di avere studiato tanto. Devi rendere disponibile ciò che hai studiato.
 
 ## La mappa BANDO del ripasso finale
 
 | Fase | Domanda | Azione finale |
 |---|---|---|
-| B - Bando | che cosa puo davvero uscire e in quale formato? | rileggo solo prove, materie, istruzioni, soglie e avvisi |
+| B - Bando | che cosa può davvero uscire e in quale formato? | rileggo solo prove, materie, istruzioni, soglie e avvisi |
 | A - Aree | quali aree devo mantenere vive? | scelgo nuclei comuni, aree deboli e moduli decisivi |
 | N - Nuclei | quali concetti non posso perdere? | creo il fascicolo dei nuclei caldi |
 | D - Diario | quali errori ricorrono ancora? | ripasso dagli errori, non dal senso di colpa |
 | O - Output | che cosa devo produrre in prova? | quiz, scaletta, risposta, orale, caso o decisione situazionale |
 
-Questa mappa protegge il ripasso da un errore frequente: confondere completezza e disponibilita.
+Questa mappa protegge il ripasso da un errore frequente: confondere completezza e disponibilità.
 
 La completezza assoluta raramente esiste.
 
-La disponibilita, invece, si costruisce.
+La disponibilità, invece, si costruisce.
 
-Un concetto e' disponibile quando riesci a richiamarlo, spiegarlo, applicarlo o riconoscerlo nel formato della prova.
+Un concetto è disponibile quando riesci a richiamarlo, spiegarlo, applicarlo o riconoscerlo nel formato della prova.
 
-Se negli ultimi giorni rileggi trenta pagine ma non sai produrre una risposta, hai aumentato familiarita, non necessariamente prestazione.
+Se negli ultimi giorni rileggi trenta pagine ma non sai produrre una risposta, hai aumentato familiarità, non necessariamente prestazione.
 
 ## Ripasso finale non significa studiare da zero
 
@@ -89,30 +89,30 @@ Durante lo studio ordinario puoi aprire un capitolo, costruire una scheda, confr
 
 Nel ripasso finale devi chiederti:
 
-- questo contenuto puo diventare punto?
+- questo contenuto può diventare punto?
 - questo errore si ripete?
 - questa scheda mi aiuta a produrre un output?
 - questo materiale riduce confusione o la aumenta?
 - questa simulazione cambia una decisione?
 
-Se la risposta e' no, quel materiale non entra nel ripasso finale.
+Se la risposta è no, quel materiale non entra nel ripasso finale.
 
-Non perche sia inutile in assoluto.
+Non perché sia inutile in assoluto.
 
-Perche non serve adesso.
+perché non serve adesso.
 
-## Quattro attivita da non confondere
+## Quattro attività da non confondere
 
-| Attivita | Serve a | Segnale buono | Segnale di rischio |
+| attività | Serve a | Segnale buono | Segnale di rischio |
 |---|---|---|---|
-| Ripasso | mantenere attivo cio che sai | rispondi senza guardare subito | rileggi e pensi "mi sembra familiare" |
+| Ripasso | mantenere attivo ciò che sai | rispondi senza guardare subito | rileggi e pensi "mi sembra familiare" |
 | Recupero | chiudere un buco essenziale | correggi un errore ripetuto | riapri intere materie |
 | Simulazione | verificare output e tempo | produce una decisione | produce solo ansia o euforia |
 | Routine finale | ridurre rischio pratico | documenti, orari, percorso e schede pronti | studio pesante fino all'ultimo |
 
-Il candidato disperso passa da una attivita all'altra senza decidere.
+Il candidato disperso passa da una attività all'altra senza decidere.
 
-Il candidato metodico assegna a ogni attivita una funzione.
+Il candidato metodico assegna a ogni attività una funzione.
 
 Oggi richiamo.
 
@@ -124,11 +124,11 @@ Poi stabilizzo.
 
 ## Il fascicolo finale
 
-Il fascicolo finale e' il materiale che puoi davvero usare negli ultimi giorni.
+Il fascicolo finale è il materiale che puoi davvero usare negli ultimi giorni.
 
-Non e' tutto il tuo archivio.
+Non è tutto il tuo archivio.
 
-E' una selezione.
+È una selezione.
 
 Deve stare in poche sezioni:
 
@@ -137,17 +137,17 @@ Deve stare in poche sezioni:
 | Bando essenziale | prove, materie, istruzioni, avvisi, documenti | solo parti operative |
 | Nuclei caldi | concetti ad alta resa | massimo 15-25 nuclei |
 | Errori ricorrenti | errori dal Diario | massimo 10-15 errori |
-| Schede operative | definizioni, confronti, procedimenti, risposte | solo schede gia usate |
+| Schede operative | definizioni, confronti, procedimenti, risposte | solo schede già usate |
 | Output | quiz, scalette, risposte orali, casi | pochi esempi mirati |
 | Checklist | ultimi giorni e giorno prova | una pagina leggibile |
 
-La parola chiave e' "usare".
+La parola chiave è "usare".
 
-Se una scheda e' bella ma non la usi per richiamo, risposta o correzione, non entra.
+Se una scheda è bella ma non la usi per richiamo, risposta o correzione, non entra.
 
-Se un appunto e' lungo ma non ti aiuta a decidere, resta fuori.
+Se un appunto è lungo ma non ti aiuta a decidere, resta fuori.
 
-Se un materiale ti apre dieci dubbi nuovi a due giorni dalla prova, non e' fascicolo finale: e' rumore.
+Se un materiale ti apre dieci dubbi nuovi a due giorni dalla prova, non è fascicolo finale: è rumore.
 
 ## La matrice tengo vivo / recupero / lascio
 
@@ -157,24 +157,24 @@ Usa questa matrice.
 
 | Nucleo o materia | Tengo vivo | Recupero | Lascio |
 |---|---|---|---|
-| Argomento frequente e gia studiato | richiamo breve | solo se errore ripetuto | no |
-| Argomento debole ma centrale | richiamo + scheda minima | si, con tempo limitato | no |
+| Argomento frequente e già studiato | richiamo breve | solo se errore ripetuto | no |
+| Argomento debole ma centrale | richiamo + scheda minima | sì, con tempo limitato | no |
 | Argomento raro e lungo | richiamo solo parole chiave | no, salvo bando esplicito | spesso si |
-| Errore di lettura | micro-drill | si | no |
-| Errore da fretta | simulazione breve | si | no |
-| Approfondimento specialistico | no | no | si, se fuori priorita |
+| Errore di lettura | micro-drill | sì | no |
+| Errore da fretta | simulazione breve | sì | no |
+| Approfondimento specialistico | no | no | sì, se fuori priorità |
 
-La colonna "lascio" non e' una sconfitta.
+La colonna "lascio" non è una sconfitta.
 
-E' una decisione.
+È una decisione.
 
 Senza una colonna "lascio", il ripasso finale diventa un deposito di ansia.
 
 ## Protocollo 7-3-1
 
-Il protocollo 7-3-1 non e' una regola rigida.
+Il protocollo 7-3-1 non è una regola rigida.
 
-E' una guida per distribuire il carico.
+È una guida per distribuire il carico.
 
 ### Ultimi 7 giorni: ordinare e misurare
 
@@ -184,9 +184,9 @@ Nei sette giorni finali fai tre cose:
 - fai una simulazione completa o ridotta, se sostenibile;
 - aggiorna il Diario con gli errori che contano davvero.
 
-Non e' il momento per scoprire dieci manuali nuovi.
+Non è il momento per scoprire dieci manuali nuovi.
 
-E' il momento per chiedere:
+È il momento per chiedere:
 
 ```text
 Quali 20 nuclei voglio avere disponibili il giorno della prova?
@@ -200,7 +200,7 @@ Negli ultimi tre giorni il carico deve scendere.
 
 Non significa smettere.
 
-Significa passare da accumulo a disponibilita.
+Significa passare da accumulo a disponibilità.
 
 Fai:
 
@@ -216,7 +216,7 @@ Evita:
 - nuove dispense lunghe;
 - simulazioni pesanti non programmate;
 - confronti compulsivi con altri candidati;
-- studio notturno che compromette lucidita;
+- studio notturno che compromette lucidità;
 - correzioni infinite senza decisione.
 
 ### Ultimo giorno: eseguire il protocollo
@@ -241,9 +241,9 @@ Trasformalo in una scheda minima: definizione, funzione, due parole chiave, erro
 
 Poi fermati.
 
-## Ripasso attivo: la prova e' richiamare
+## Ripasso attivo: la prova è richiamare
 
-Rileggere puo aiutare, ma non basta.
+Rileggere può aiutare, ma non basta.
 
 Il ripasso finale deve contenere richiamo attivo.
 
@@ -258,19 +258,19 @@ Esempi:
 | Orale | "Spiegalo in 90 secondi" | risposta parlata |
 | Quiz errori | rifai solo errori ricorrenti | correzione per causa |
 
-Il test del ripasso e' semplice:
+Il test del ripasso è semplice:
 
 > riesco a produrre qualcosa senza guardare subito?
 
-Se non riesci, il materiale non e' ancora disponibile.
+Se non riesci, il materiale non è ancora disponibile.
 
 Ma attenzione: negli ultimi giorni non devi rendere disponibile tutto.
 
-Devi rendere disponibili i nuclei che contano di piu.
+Devi rendere disponibili i nuclei che contano di più.
 
 ## Ripasso per tipo di prova
 
-### Se la prova e' a quiz
+### Se la prova è a quiz
 
 Proteggi:
 
@@ -281,7 +281,7 @@ Proteggi:
 - domande lunghe;
 - tempo medio.
 
-Negli ultimi giorni fai piu correzione che accumulo.
+Negli ultimi giorni fai più correzione che accumulo.
 
 Non basta ripetere batterie enormi.
 
@@ -292,7 +292,7 @@ Chiediti:
 - quali errori sono da lettura?
 - quali domande mi fanno perdere tempo?
 
-### Se la prova e' scritta
+### Se la prova è scritta
 
 Proteggi l'ordine della risposta.
 
@@ -308,9 +308,9 @@ Non serve scrivere elaborati lunghi ogni giorno.
 
 Serve sapere partire, restare in traccia e chiudere.
 
-Una risposta non conclusa vale meno di una risposta piu semplice ma governata.
+Una risposta non conclusa vale meno di una risposta più semplice ma governata.
 
-### Se la prova e' orale
+### Se la prova è orale
 
 Parla.
 
@@ -341,23 +341,23 @@ Ripassa sequenze, non frasi fatte.
 Per un caso amministrativo chiediti:
 
 1. chi sono i soggetti?
-2. qual e' la competenza?
-3. qual e' il problema?
+2. qual è la competenza?
+3. qual è il problema?
 4. quale principio o regola sicura richiamo?
 5. quale soluzione ordinata propongo?
 6. quale verifica resta necessaria?
 
 Per un quesito situazionale chiediti:
 
-- la risposta e' legale?
-- e' imparziale?
+- la risposta è legale?
+- è imparziale?
 - tutela cittadino, riservatezza e ufficio?
 - rispetta ruolo e gerarchia?
 - lascia traccia?
 
 ## Quando recuperare e quando no
 
-Recuperare un buco negli ultimi giorni ha senso solo se il buco e':
+Recuperare un buco negli ultimi giorni ha senso solo se il buco è:
 
 - centrale nel bando;
 - ricorrente nelle simulazioni;
@@ -371,21 +371,21 @@ Non ha senso se:
 - apre una materia intera;
 - riguarda dettaglio raro;
 - nasce solo dal confronto con altri candidati;
-- toglie tempo a nuclei piu probabili.
+- toglie tempo a nuclei più probabili.
 
-La domanda non e':
+La domanda non è:
 
-> questa cosa e' importante?
+> questa cosa è importante?
 
-La domanda e':
+La domanda è:
 
-> questa cosa, studiata adesso, puo migliorare davvero la mia prova?
+> questa cosa, studiata adesso, può migliorare davvero la mia prova?
 
 ## Il ruolo delle pause
 
-Nel ripasso finale la pausa non e' assenza di metodo.
+Nel ripasso finale la pausa non è assenza di metodo.
 
-E' parte del metodo.
+È parte del metodo.
 
 Un candidato stanco legge male, sbaglia consegne, non gestisce tempo e confonde concetti simili.
 
@@ -408,19 +408,19 @@ Non energia ideale.
 
 1. Il ripasso finale serve a consolidare, non ad aprire tutto.
 2. Il materiale finale deve essere poco, scelto e collegato al bando.
-3. Il Diario degli errori decide le priorita degli ultimi giorni.
-4. Il richiamo attivo vale piu della rilettura passiva.
-5. Le ultime 24 ore devono proteggere lucidita, logistica e istruzioni ufficiali.
+3. Il Diario degli errori decide le priorità degli ultimi giorni.
+4. Il richiamo attivo vale più della rilettura passiva.
+5. Le ultime 24 ore devono proteggere lucidità, logistica e istruzioni ufficiali.
 
 ## Caso guidato
 
 Luca ha una prova a quiz tra sette giorni.
 
-Ha studiato molto, ma ha un problema: il materiale e' ovunque.
+Ha studiato molto, ma ha un problema: il materiale è ovunque.
 
 Manuale, dispense, quiz, appunti, screenshot, messaggi, schede, video salvati.
 
-La prima reazione e' aggiungere ancora una raccolta di quiz consigliata da un gruppo.
+La prima reazione è aggiungere ancora una raccolta di quiz consigliata da un gruppo.
 
 Poi applica il Metodo BANDO.
 
@@ -445,19 +445,19 @@ Ma arriva con un sistema eseguibile.
 
 ## Domanda da commissario
 
-Perche negli ultimi giorni e' spesso piu utile il richiamo attivo della rilettura passiva?
+perché negli ultimi giorni è spesso più utile il richiamo attivo della rilettura passiva?
 
-Risposta guidata: perche la prova richiede di produrre o riconoscere una risposta, non solo di provare familiarita con il testo. Il richiamo attivo obbliga il candidato a recuperare definizioni, collegamenti, esempi e decisioni. Negli ultimi giorni permette di capire quali nuclei sono davvero disponibili e quali richiedono una scheda minima o un recupero mirato.
+Risposta guidata: perché la prova richiede di produrre o riconoscere una risposta, non solo di provare familiarità con il testo. Il richiamo attivo obbliga il candidato a recuperare definizioni, collegamenti, esempi e decisioni. Negli ultimi giorni permette di capire quali nuclei sono davvero disponibili e quali richiedono una scheda minima o un recupero mirato.
 
 ## Domanda-trappola
 
-Se mancano pochi giorni, conviene studiare piu ore possibile fino alla prova?
+Se mancano pochi giorni, conviene studiare più ore possibile fino alla prova?
 
-Risposta guidata: non necessariamente. Aumentare le ore senza criterio puo ridurre lucidita e peggiorare lettura, tempo e ordine della risposta. Negli ultimi giorni bisogna distinguere ore utili e ore rumorose: richiamo attivo, errori ricorrenti, schede essenziali e checklist sono utili; accumulo casuale, nuove fonti e simulazioni pesanti improvvisate possono essere controproducenti.
+Risposta guidata: non necessariamente. Aumentare le ore senza criterio può ridurre lucidità e peggiorare lettura, tempo e ordine della risposta. Negli ultimi giorni bisogna distinguere ore utili e ore rumorose: richiamo attivo, errori ricorrenti, schede essenziali e checklist sono utili; accumulo casuale, nuove fonti e simulazioni pesanti improvvisate possono essere controproducenti.
 
 ## Errore tipico
 
-L'errore tipico e' scambiare ansia per necessita.
+L'errore tipico è scambiare ansia per necessità.
 
 Il candidato sente pressione e apre tutto.
 
@@ -477,7 +477,7 @@ Il Metodo BANDO chiede una scelta diversa:
 - richiama;
 - correggi;
 - stabilizza;
-- proteggi lucidita.
+- proteggi lucidità.
 
 ## Mini-esercizio
 
@@ -487,7 +487,7 @@ Costruisci il tuo fascicolo finale.
 
 Scrivi da 10 a 20 nuclei che vuoi avere disponibili il giorno della prova.
 
-| Nucleo | Perche conta | Output da produrre |
+| Nucleo | perché conta | Output da produrre |
 |---|---|---|
 | | | |
 | | | |
@@ -533,7 +533,7 @@ Prima della prova controlla:
 - ho adattato il ripasso al tipo di prova?
 - ho evitato nuovi materiali non essenziali?
 - ho preparato checklist, documenti e routine del giorno prova?
-- ho lasciato spazio a recupero e lucidita?
+- ho lasciato spazio a recupero e lucidità?
 
 Se rispondi "no" a troppe domande, non aggiungere altro materiale.
 

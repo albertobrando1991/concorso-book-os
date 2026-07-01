@@ -4,47 +4,47 @@ type: chapter
 title: Appendice C - Template Bando Decoder
 status: revised_draft
 domain: concorsi pubblici italiani
-topics: ["bando decoder","anatomia del bando","template","metodo bando","checklist concorsi","domanda concorso"]
-entities: ["Bando Decoder","Metodo BANDO","inPA"]
-source_refs: ["sources/template-bando-decoder-metodo-bando.md","sources/struttura-madre-il-metodo-bando.md","sources/metodo-bando-progetto-editoriale.md","sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md","sources/checklist-operative-concorsi-metodo-bando.md"]
+topics: ["bando decoder", "anatomia del bando", "template", "metodo bando", "checklist concorsi", "domanda concorso"]
+entities: ["Bando Decoder", "Metodo BANDO", "inPA"]
+source_refs: ["sources/template-bando-decoder-metodo-bando.md", "sources/struttura-madre-il-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md", "sources/checklist-operative-concorsi-metodo-bando.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.9
 updated_at: "2026-06-01T16:30:00+02:00"
 created_at: "2026-05-10T11:45:00+02:00"
 review_required: true
 canonical: true
-tags: ["book-appendix","template"]
+tags: ["book-appendix", "template"]
 book_id: il-metodo-bando
 outline_section: C
 draft_stage: revised-editorial-draft
-last_compiled_from: ["sources/template-bando-decoder-metodo-bando.md","topics/bando-decoder.md","books/il-metodo-bando/chapters/anatomia-del-bando.md","books/il-metodo-bando/chapters/checklist-operative.md"]
+last_compiled_from: ["sources/template-bando-decoder-metodo-bando.md", "topics/bando-decoder.md", "books/il-metodo-bando/chapters/anatomia-del-bando.md", "books/il-metodo-bando/chapters/checklist-operative.md"]
 ---
 
 # Appendice C - Template Bando Decoder
 
-Il Bando Decoder e' la scheda che trasforma un bando in decisioni.
+Il Bando Decoder è la scheda che trasforma un bando in decisioni.
 
-Non serve a copiare tutto il bando. Serve a rispondere a una domanda piu pratica:
+Non serve a copiare tutto il bando. Serve a rispondere a una domanda più pratica:
 
-> questo concorso merita il mio tempo, e se si, da dove devo iniziare?
+> questo concorso merita il mio tempo, e se sì, da dove devo iniziare?
 
-Compila un Bando Decoder per ogni concorso che stai valutando. Se prepari piu concorsi, non fidarti della memoria: due bandi simili possono avere prove, soglie, scadenze o documenti diversi.
+Compila un Bando Decoder per ogni concorso che stai valutando. Se prepari più concorsi, non fidarti della memoria: due bandi simili possono avere prove, soglie, scadenze o documenti diversi.
 
 ## Regole di compilazione
 
 Usa quattro regole.
 
-### 1. Scrivi solo cio che trovi in fonte ufficiale
+### 1. Scrivi solo ciò che trovi in fonte ufficiale
 
-La fonte principale e' il bando o l'avviso ufficiale. I riassunti online possono aiutare a orientarti, ma non devono essere la base della compilazione.
+La fonte principale è il bando o l'avviso ufficiale. I riassunti online possono aiutare a orientarti, ma non devono essere la base della compilazione.
 
 ### 2. Segna i dubbi, non coprirli
 
-Se non trovi un'informazione, scrivi `da verificare`. Il campo vuoto e' pericoloso perche sembra dimenticanza; il dubbio scritto diventa azione.
+Se non trovi un'informazione, scrivi `da verificare`. Il campo vuoto è pericoloso perché sembra dimenticanza; il dubbio scritto diventa azione.
 
 ### 3. Trasforma ogni dato in una decisione
 
-Non basta scrivere "prova scritta". Devi chiederti: e' a quiz? e' teorica? e' pratica? ha soglia? elimina molti candidati? richiede simulazioni?
+Non basta scrivere "prova scritta". Devi chiederti: è a quiz? è teorica? è pratica? ha soglia? elimina molti candidati? richiede simulazioni?
 
 ### 4. Aggiorna il Decoder quando escono avvisi
 
@@ -56,11 +56,11 @@ Il Bando Decoder non si compila una volta sola. Va aggiornato se cambiano calend
 |---|---|---|
 | B - Bando | Fonte, requisiti, domanda, scadenze | Posso partecipare e come evito esclusioni |
 | A - Aree | Materie, profilo, moduli | Che cosa devo studiare e che cosa posso riusare |
-| N - Nuclei | Priorita, materie killer, prova decisiva | Da dove iniziare |
+| N - Nuclei | priorità, materie killer, prova decisiva | Da dove iniziare |
 | D - Diario | Dubbi, rischi, comunicazioni, errori attesi | Che cosa monitorare |
 | O - Output | Quiz, scritto, caso, orale, simulazione | Che allenamento serve |
 
-## Pagina 1 - Identita del concorso
+## Pagina 1 - identità del concorso
 
 Compila questa pagina appena apri il bando.
 
@@ -76,7 +76,7 @@ Compila questa pagina appena apri il bando.
 | Numero posti | |
 | Sedi o ambito territoriale | |
 | Scadenza domanda: data e ora | |
-| Portale o modalita domanda | |
+| Portale o modalità domanda | |
 | Dove saranno pubblicate le comunicazioni | |
 
 ### Nota fonte
@@ -89,11 +89,11 @@ Compila questa pagina appena apri il bando.
 | Punteggi | | |
 | Comunicazioni | | |
 
-## Pagina 2 - Ammissibilita
+## Pagina 2 - ammissibilità
 
 Questa pagina serve a non studiare per un concorso a cui non puoi partecipare.
 
-| Controllo | Si/No/Dubbio | Nota |
+| Controllo | Sì/No/Dubbio | Nota |
 |---|---|---|
 | Possiedo il titolo di studio richiesto. | | |
 | Possiedo eventuali requisiti professionali o abilitazioni. | | |
@@ -104,7 +104,7 @@ Questa pagina serve a non studiare per un concorso a cui non puoi partecipare.
 | Ho tempo per completare domanda e allegati. | | |
 | Ho chiarito eventuali equipollenze o dubbi sul titolo. | | |
 
-### Decisione ammissibilita
+### Decisione ammissibilità
 
 | Esito | Barrare | Azione |
 |---|---|---|
@@ -120,13 +120,13 @@ Il nome del profilo non basta. Devi capire quale lavoro e quale prova sta dietro
 |---|---|
 | Quale figura cerca l'amministrazione? | |
 | Quali mansioni o competenze emergono dal bando? | |
-| E' un profilo amministrativo, contabile, tecnico, digitale, vigilanza o altro? | |
+| È un profilo amministrativo, contabile, tecnico, digitale, vigilanza o altro? | |
 | Quali capitoli del libro sono nucleo comune? | |
 | Quale modulo integrativo serve? | |
 | Quale esperienza o conoscenza personale posso riutilizzare? | |
-| Quale parte del profilo mi e' piu debole? | |
+| Quale parte del profilo mi è più debole? | |
 
-### Compatibilita personale
+### compatibilità personale
 
 | Fattore | Alto/Medio/Basso | Nota |
 |---|---|---|
@@ -152,7 +152,7 @@ Il nome del profilo non basta. Devi capire quale lavoro e quale prova sta dietro
 
 ### Rischi formali
 
-| Rischio | Probabilita | Azione preventiva |
+| Rischio | probabilità | Azione preventiva |
 |---|---|---|
 | Scadenza dimenticata | | |
 | Allegato mancante | | |
@@ -173,22 +173,22 @@ Il nome del profilo non basta. Devi capire quale lavoro e quale prova sta dietro
 | Titoli | | |
 | Punteggio massimo | | |
 | Soglia minima | | |
-| Penalita o regole quiz | | |
+| penalità o regole quiz | | |
 
 ### Prova che decide
 
 | Domanda | Risposta |
 |---|---|
-| Quale prova elimina piu candidati? | |
-| Quale prova richiede piu allenamento? | |
-| Quale prova posso migliorare piu rapidamente? | |
+| Quale prova elimina più candidati? | |
+| Quale prova richiede più allenamento? | |
+| Quale prova posso migliorare più rapidamente? | |
 | Quale prova sto sottovalutando? | |
 
-## Pagina 6 - Materie e priorita
+## Pagina 6 - Materie e priorità
 
 Classifica le materie. Non limitarti a copiarle.
 
-| Materia | Tipo | Perche | Prima azione |
+| Materia | Tipo | perché | Prima azione |
 |---|---|---|---|
 | | Obbligatoria / Probabile / Accessoria / Killer / Solo orale | | |
 | | Obbligatoria / Probabile / Accessoria / Killer / Solo orale | | |
@@ -203,7 +203,7 @@ Classifica le materie. Non limitarti a copiarle.
 
 Scrivi i primi cinque nuclei da studiare o ripassare.
 
-| Priorita | Nucleo | Capitolo o fonte di studio | Output minimo |
+| priorità | Nucleo | Capitolo o fonte di studio | Output minimo |
 |---|---|---|---|
 | 1 | | | |
 | 2 | | | |
@@ -243,7 +243,7 @@ Questa pagina trasforma il bando in piano.
 | Quante ore realistiche a settimana? | |
 | Quale nucleo comune posso riusare? | |
 | Quale modulo integrativo serve? | |
-| Quale materia e' killer? | |
+| Quale materia è killer? | |
 | Quale output devo allenare prima? | |
 | Quando faccio la prima simulazione? | |
 | Quale errore voglio evitare subito? | |
@@ -261,21 +261,21 @@ Questa pagina trasforma il bando in piano.
 
 ## Pagina 9 - Decisione finale sul concorso
 
-Non tutti i concorsi meritano la stessa priorita.
+Non tutti i concorsi meritano la stessa priorità.
 
 | Criterio | Alto | Medio | Basso | Nota |
 |---|---|---|---|---|
-| Possibilita di partecipare | | | | |
-| Compatibilita con tempo disponibile | | | | |
-| Capitale di studio gia posseduto | | | | |
+| possibilità di partecipare | | | | |
+| compatibilità con tempo disponibile | | | | |
+| Capitale di studio già posseduto | | | | |
 | Coerenza con profilo desiderato | | | | |
-| Difficolta delle prove | | | | |
+| difficoltà delle prove | | | | |
 | Rischio documentale o logistico | | | | |
 | Sinergia con altri concorsi | | | | |
 
 ### Esito
 
-| Priorita | Quando sceglierla | Barrare |
+| priorità | Quando sceglierla | Barrare |
 |---|---|---|
 | Alta | Concorso coerente, fattibile e strategico. | |
 | Media | Concorso utile ma con vincoli o incertezza. | |
@@ -288,11 +288,11 @@ Scrivi una frase. Deve essere netta.
 
 | Decisione | Motivazione |
 |---|---|
-| Partecipo / Partecipo con priorita media / Archivio | |
+| Partecipo / Partecipo con priorità media / Archivio | |
 
 ## Versione compatta - Il mio concorso in una pagina
 
-Usa questa versione quando devi confrontare piu bandi.
+Usa questa versione quando devi confrontare più bandi.
 
 | Campo | Risposta |
 |---|---|
@@ -308,7 +308,7 @@ Usa questa versione quando devi confrontare piu bandi.
 | Primo blocco di studio | |
 | Prima simulazione | |
 | Rischio principale | |
-| Priorita finale | |
+| priorità finale | |
 
 ## Esempio compilato
 
@@ -326,9 +326,9 @@ Esempio fittizio: istruttore amministrativo comunale, prova scritta a quiz e ora
 | Primo blocco | Procedimento, organi comunali, accesso civico/documentale |
 | Prima simulazione | Entro 7 giorni |
 | Rischio | Studiare tutto senza allenare quiz |
-| Priorita | Alta |
+| priorità | Alta |
 
-La decisione non e': "compro un manuale di enti locali". La decisione e': "nei primi sette giorni faccio nucleo amministrativo, organi comunali, accessi, una simulazione quiz e apro il diario errori".
+La decisione non è: "compro un manuale di enti locali". La decisione è: "nei primi sette giorni faccio nucleo amministrativo, organi comunali, accessi, una simulazione quiz e apro il diario errori".
 
 ## Confronto tra due bandi
 
@@ -343,23 +343,23 @@ Se hai due concorsi aperti, usa questa tabella.
 | Tempo richiesto | | | |
 | Capitale riutilizzabile | | | |
 | Rischio principale | | | |
-| Priorita | | | |
+| priorità | | | |
 
-La scelta non deve essere emotiva. Se un concorso ha molte materie nuove, poco tempo e bassa coerenza con il tuo capitale di studio, puo essere sensato metterlo in priorita media o bassa.
+La scelta non deve essere emotiva. Se un concorso ha molte materie nuove, poco tempo e bassa coerenza con il tuo capitale di studio, può essere sensato metterlo in priorità media o bassa.
 
 ## Da sapere in 5 righe
 
 1. Il Bando Decoder non copia il bando: lo trasforma in decisioni.
 2. Ogni campo vuoto deve diventare un dubbio da verificare.
 3. Prove, punteggi e soglie contano quanto le materie.
-4. La priorita del concorso va decisa, non subita.
+4. La priorità del concorso va decisa, non subita.
 5. Il Decoder compilato alimenta piano, diario, checklist e simulazioni.
 
 ## Domanda da commissario
 
-**Perche il Bando Decoder aiuta il candidato prima ancora dello studio?**
+**perché il Bando Decoder aiuta il candidato prima ancora dello studio?**
 
-Perche costringe a distinguere cio che e' certo da cio che e' dubbio, cio che e' requisito da cio che e' strategia, cio che e' materia da cio che e' output. In questo modo il candidato evita di partire da materiali generici e costruisce un piano aderente alla procedura reale.
+perché costringe a distinguere ciò che è certo da ciò che è dubbio, ciò che è requisito da ciò che è strategia, ciò che è materia da ciò che è output. In questo modo il candidato evita di partire da materiali generici e costruisce un piano aderente alla procedura reale.
 
 ## Domanda-trappola
 
@@ -371,25 +371,25 @@ No. Puoi riusare parte del capitale di studio, ma ogni bando ha scadenze, prove,
 
 Prendi un bando reale e compila solo tre sezioni:
 
-1. ammissibilita;
+1. ammissibilità;
 2. prove e soglie;
-3. materie e priorita.
+3. materie e priorità.
 
 Poi scrivi questa frase:
 
-> Partecipo a questo concorso con priorita [alta/media/bassa] perche...
+> Partecipo a questo concorso con priorità [alta/media/bassa] perché...
 
-Se non riesci a motivarla, il bando non e' ancora stato decodificato.
+Se non riesci a motivarla, il bando non è ancora stato decodificato.
 
 ## Errori tipici
 
-- Compilare il Decoder dopo aver gia iniziato a studiare.
+- Compilare il Decoder dopo aver già iniziato a studiare.
 - Trascrivere tutto il bando senza decidere nulla.
 - Lasciare vuoti i dubbi invece di scrivere "da verificare".
 - Ignorare punteggi, soglie e prova eliminatoria.
 - Classificare tutte le materie come "obbligatorie".
 - Non aggiornare il Decoder quando escono avvisi successivi.
-- Preparare piu concorsi senza confrontarli.
+- Preparare più concorsi senza confrontarli.
 
 ## Riferimenti consolidati
 
