@@ -4,12 +4,12 @@ type: chapter
 title: "Come scegliere i moduli integrativi"
 status: revised_draft
 domain: "concorsi pubblici italiani"
-topics: ["moduli integrativi", "moduli profilo", "nucleo comune concorsi pubblici", "mappe profilo", "piano 30 60 90 giorni"]
-entities: ["Metodo BANDO", "Moduli Profilo", "Bando Decoder", "Syllabus"]
-source_refs: ["sources/struttura-madre-il-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/capitolo-19-20-corpus-profili-concorsuali-2026-05-30.md", "sources/bandi-rappresentativi-profili-concorsuali-inpa-agenzie-enti-2025-2026.md", "sources/formazione-competenze-pa-syllabus-direttiva-2025.md", "sources/capitoli-21-23-corpus-moduli-piano-diario-2026-06-01.md"]
+topics: ["moduli integrativi", "moduli profilo", "moduli specialistici", "nucleo comune concorsi pubblici", "mappe profilo", "capitale personale", "famiglie concorsuali"]
+entities: ["Metodo BANDO", "Moduli Profilo", "Capitale Personale", "ConcorsoBook", "Bando Decoder", "Syllabus"]
+source_refs: ["sources/idea-business-vendita-libri-capitale-personale.md", "sources/struttura-madre-il-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/capitolo-19-20-corpus-profili-concorsuali-2026-05-30.md", "sources/bandi-rappresentativi-profili-concorsuali-inpa-agenzie-enti-2025-2026.md", "sources/formazione-competenze-pa-syllabus-direttiva-2025.md", "sources/capitoli-21-23-corpus-moduli-piano-diario-2026-06-01.md", "books/moduli/architettura-moduli-specialistici.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.9
-updated_at: 2026-06-09T11:09:01.1681061+02:00
+updated_at: 2026-07-01T18:00:00+02:00
 created_at: "2026-05-10T11:45:00+02:00"
 review_required: true
 canonical: true
@@ -17,18 +17,28 @@ tags: ["book-chapter", "part-4", "modules"]
 book_id: il-metodo-bando
 outline_section: 21
 draft_stage: revised-editorial-draft
-last_compiled_from: ["sources/capitoli-21-23-corpus-moduli-piano-diario-2026-06-01.md", "sources/formazione-competenze-pa-syllabus-direttiva-2025.md", "topics/moduli-integrativi.md", "topics/moduli-profilo.md", "topics/nucleo-comune-concorsi-pubblici.md"]
+last_compiled_from: ["sources/idea-business-vendita-libri-capitale-personale.md", "books/moduli/architettura-moduli-specialistici.md", "sources/capitoli-21-23-corpus-moduli-piano-diario-2026-06-01.md", "topics/moduli-integrativi.md", "topics/moduli-profilo.md", "topics/nucleo-comune-concorsi-pubblici.md"]
 ---
 
 # Capitolo 21 - Come scegliere i moduli integrativi
 
-Nei capitoli precedenti hai costruito due strumenti: la famiglia concorsuale e la mappa profilo. Ora devi prendere una decisione più concreta:
+Nei capitoli precedenti hai costruito la famiglia concorsuale e la mappa profilo. Ora devi rispondere a una domanda concreta:
 
-> Che cosa devo aggiungere al libro base per questo concorso, e che cosa invece devo lasciare fuori?
+> Per questo concorso, che cosa aggiungo al libro base e che cosa posso lasciare fuori?
 
-Questa domanda sembra semplice, ma è una delle più importanti. Il candidato che non aggiunge nulla rischia di presentarsi a un concorso specialistico con una preparazione troppo generale. Il candidato che aggiunge tutto rischia di disperdersi, moltiplicare materiali, perdere tempo e arrivare alla prova senza output.
+Il mercato dei manuali spesso ti spinge nel senso opposto: un libro nuovo per ogni bando, anche quando l'80% delle materie è già la stessa. Il Metodo BANDO e l'ecosistema ConcorsoBook / Capitale Personale propongono un'altra logica:
 
-Il modulo integrativo serve proprio a evitare questi due errori. Non è un manuale in più da accumulare. È un blocco mirato che completa il nucleo comune quando il bando lo richiede.
+> non un libro per ogni concorso, ma un sistema riutilizzabile nel tempo.
+
+Il **libro base** (questo volume) lo studi una volta: metodo, materie comuni essenziali, prove. Il **modulo specialistico** lo aggiungi quando cambia famiglia di enti o profilo, non quando cambia Comune o sede. Lo compri una volta per quella famiglia e lo riusi su più bandi simili.
+
+Esempio pratico:
+
+- chi prepara concorsi in Comuni diversi non ha bisogno di un manuale per Napoli, uno per Melfi e uno per Bologna: serve il libro base più il modulo **Enti locali**;
+- chi punta a INPS, INAIL o enti della stessa famiglia non ricomincia da zero a ogni avviso: serve il libro base più il modulo **EPNE / previdenza / vigilanza**;
+- chi partecipa a concorsi ministeriali o RIPAM riusa la stessa specializzazione: libro base più modulo **Ministeri e PCM**.
+
+Il modulo integrativo non è un accumulo di materiali. È il **delta specialistico** che completa il nucleo comune quando bando, profilo e prova lo richiedono.
 
 ![Figura 21.1 - Mappa BANDO dei moduli integrativi](../assets/chapter-21/01-mappa-bando-moduli-integrativi.png)
 
@@ -36,20 +46,42 @@ Il modulo integrativo serve proprio a evitare questi due errori. Non è un manua
 
 Alla fine del capitolo devi saper:
 
-- distinguere nucleo comune, modulo profilo e approfondimento non necessario;
-- decidere quando attivare un modulo integrativo;
-- scegliere il modulo in base a bando, profilo, prova e rischio;
-- combinare libro base e modulo senza duplicare lo studio;
-- costruire una scheda modulo con obiettivo, contenuti, output e tagli;
-- evitare la trappola del "più materiale = più preparazione".
+- distinguere libro base, ricettario digitale e modulo specialistico;
+- capire perché un modulo vale per una **famiglia** di concorsi, non per un singolo bando;
+- applicare la formula standard **libro base + 1 modulo**;
+- riconoscere quando serve un secondo modulo (caso eccezionale);
+- scegliere il modulo giusto tra le sei famiglie del catalogo;
+- combinare core e modulo senza duplicare lo studio;
+- compilare una scheda modulo con obiettivo, contenuti, output e limiti;
+- evitare la trappola del «più materiale = più preparazione».
 
-Il risultato atteso è una decisione editoriale e personale: sapere che cosa studiare, con quale profondità, per quale prova e con quale limite.
+Il risultato atteso è una decisione chiara: cosa è già coperto dal libro base, cosa aggiunge il modulo, cosa non serve comprare o studiare.
 
-## Perché il libro base non può contenere tutto
+## I tre livelli del sistema
 
-Un libro base serio deve essere autonomo, ma non può essere enciclopedico. Se provasse a coprire in profondità ogni profilo, diventerebbe ingestibile: tributario, codice della strada, fondi europei, sanità, scuola, università, appalti avanzati, ambiente, protezione civile, ordinamento giudiziario, catasto, ICT specialistico, vigilanza lavoro, contabilità locale avanzata.
+La preparazione efficace si appoggia a tre livelli distinti. Confonderli è uno degli errori più costosi.
 
-Il punto del Metodo BANDO è diverso. Il libro base deve costruire il capitale comune:
+| Livello | Funzione | Cosa contiene | Quando lo usi |
+|---|---|---|---|
+| **Libro base** | Metodo e fondamento | Metodo BANDO, materie comuni essenziali, prove e strumenti base | Sempre: è il nucleo permanente |
+| **Ricettario digitale** | Allenamento | Quiz, casi, simulazioni, diario errori, schede operative, ripasso | Per applicare più velocemente ciò che il libro insegna |
+| **Modulo specialistico** | Specializzazione | Delta di settore: norme, lessico, prove tipiche, errori ricorrenti della famiglia | Quando il bando appartiene a una famiglia che il core non copre in profondità |
+
+La triade si ricorda così:
+
+- il **libro** ti insegna;
+- il **ricettario** ti allena;
+- il **modulo** ti specializza.
+
+Il ricettario non sostituisce il libro base e non sostituisce il modulo. Lo rende più performante. Se salti il libro base e compri solo moduli, perdi metodo e materie trasversali. Se studi solo il libro base su un concorso verticale, arrivi con lacune decisive.
+
+![Figura 21.2 - Core, modulo e approfondimento](../assets/chapter-21/02-core-modulo-approfondimento.png)
+
+## Perché il libro base non contiene tutto
+
+Un libro base serio deve essere autonomo, ma non enciclopedico. Se coprisse in profondità ogni profilo, diventerebbe ingestibile: tributario avanzato, codice della strada dettagliato, sanità specialistica, magistratura, fondi UE avanzati, urbanistica tecnica, carriere delle forze dell'ordine.
+
+Il libro base costruisce il **capitale comune**:
 
 - leggere il bando;
 - capire le prove;
@@ -58,161 +90,188 @@ Il punto del Metodo BANDO è diverso. Il libro base deve costruire il capitale c
 - allenare quiz, scritto, orale, casi e situazionali;
 - usare diario e simulazioni.
 
-Il modulo integrativo entra dopo, quando il bando mostra una differenza reale.
+Il modulo entra **dopo**, quando il bando mostra una differenza reale e stabile nel tempo.
 
-La regola è:
+La regola editoriale è ferrea:
 
-> Il modulo integra il core. Non lo sostituisce.
+> Ogni materia deve stare nel posto giusto.
 
-Se studi solo il modulo, perdi la base comune. Se studi solo il core, sottovaluti il profilo. La preparazione utile nasce dal bilanciamento.
+| Destinazione | Criterio |
+|---|---|
+| **Libro base** | Materia trasversale, ricorrente in molte famiglie |
+| **Modulo** | Materia tipica di una famiglia di enti/profili |
+| **Appendice del modulo** | Lacuna di sottoprofili interni alla stessa famiglia |
+| **Altro modulo** | Specializzazione che appartiene chiaramente a un'altra famiglia |
+| **Fuori perimetro** | Interessante ma non verificabile in prova o non nel bando |
 
-![Figura 21.2 - Core, modulo e approfondimento](../assets/chapter-21/02-core-modulo-approfondimento.png)
+Il modulo integra il core. Non lo sostituisce. Se studi solo il modulo, perdi la base comune. Se studi solo il core su un profilo verticale, sottovaluti il settore. La preparazione utile nasce dal bilanciamento.
 
-## Che cos'e un modulo integrativo
+## Che cos'è un modulo integrativo
 
-Un modulo integrativo è un blocco di preparazione con quattro caratteristiche:
+Un modulo integrativo è un blocco di preparazione verticale con quattro caratteristiche:
 
-1. nasce da un'esigenza del bando;
-2. copre una materia, una prova o una competenza non sviluppata abbastanza nel libro base;
-3. ha un output verificabile;
-4. ha un limite di profondità.
+1. nasce da un'esigenza **ricorrente** della famiglia concorsuale, confermata dai bandi reali;
+2. copre solo il **delta** non sviluppato abbastanza nel libro base;
+3. ha un **output** verificabile;
+4. ha un **limite** di profondità.
 
-Senza questi quattro elementi, non è un modulo. È dispersione.
+Senza questi quattro elementi non è un modulo. È dispersione o un secondo manuale generico.
 
 ![Figura 21.3 - Quattro requisiti del modulo](../assets/chapter-21/03-quattro-requisiti-del-modulo.png)
 
-Esempi:
+Il modulo **non ripete** amministrativo generale, pubblico impiego generale o logica di base già nel libro. Dice invece:
 
-| Situazione | Modulo utile | Output |
+- cosa conta per quella famiglia;
+- quali norme specialistiche vanno studiate;
+- come cambia la prova;
+- quali errori fanno i candidati di quel settore;
+- quali sottoprogrammi compaiono nei bandi reali;
+- quali appendici coprono lacune ricorrenti senza aprire un secondo modulo.
+
+In sintesi: il libro base spiega la struttura comune; il modulo specializza la preparazione.
+
+## La formula standard: libro base + 1 modulo
+
+La combinazione normale è una sola:
+
+> **Libro base + 1 modulo specialistico**
+
+Il cliente — e tu come candidato — deve capirla in pochi secondi.
+
+| Profilo / ente | Acquisto / percorso consigliato |
+|---|---|
+| Funzionario amministrativo INPS | Libro base + **M-FC03** (EPNE / previdenza / vigilanza) |
+| Funzionario amministrativo INAIL | Libro base + **M-FC03** |
+| Istruttore amministrativo in Comune | Libro base + **M-FL01** (Comuni e Unioni) |
+| Funzionario ministeriale RIPAM / PCM | Libro base + **M-FC01** (Ministeri e PCM) |
+| Infermiere concorsuale | Libro base + **M-SA02** (Professioni sanitarie) |
+| Profilo ICT trasversale | Libro base + **M-TR01** (ICT e digitale) |
+
+Il modulo si acquista **per famiglia**, non per singolo avviso. Chi ha M-FL01 non deve ripetere l'acquisto a ogni Comune nuovo: aggiorna il bando, non il sistema.
+
+### Appendici interne al modulo
+
+In alcuni casi il modulo principale include **appendici** per sottoprofili della stessa famiglia, senza costringerti a un secondo prodotto.
+
+Esempio sul modulo **M-FC01** (Ministeri e PCM): reati contro la PA, ragioneria generale e applicata, economia politica e pubblica possono restare appendici del modulo, non moduli separati.
+
+Regola: appendice sì se la lacuna è interna alla famiglia; secondo modulo solo se la specializzazione appartiene altrove.
+
+### Secondo modulo: solo eccezione motivata
+
+Un secondo modulo si attiva solo se il bando contiene una materia **fuori famiglia** con peso reale in prova.
+
+| Situazione | Scelta |
+|---|---|
+| Profilo ICT in ministero, prova dominata da digitale | Libro base + **M-TR01** (non accumulo casuale di moduli ministeriali) |
+| Tecnico urbanistica in Comune | Libro base + **M-TR03** (eventuale contesto locale nel piano, non modulo locale aggiuntivo) |
+| Amministrativo-contabile in Comune | Libro base + **M-FL01** (contabilità locale dentro il modulo, non un terzo manuale) |
+
+La eccezione va **motivata sul bando**, non sull'ansia o sull'upsell. Se non riesci a scrivere in una riga perché serve il secondo modulo, probabilmente non serve.
+
+## Il catalogo: sei famiglie, moduli riusabili
+
+L'ecosistema ConcorsoBook organizza i moduli specialistici in **sei famiglie**. Ogni modulo copre una categoria stabile di enti e profili che condivide lessico, materie ricorrenti, normativa di settore, prove tipiche e errori tipici.
+
+| Famiglia | Codici | Cosa copre |
 |---|---|---|
-| Comune, istruttore amministrativo-contabile | Ordinamento enti locali + contabilità locale | Schema atto, quiz TUEL, mini-caso |
-| Agenzia fiscale, funzionario giuridico-tributario | Tributario di base + accertamento + riscossione | Quiz e risposta sintetica |
-| Polizia locale | Codice della strada + sanzioni amministrative + TULPS essenziale | Caso operativo |
-| Profilo tecnico con prova amministrativa | Procedimento + contratti + sicurezza + settore tecnico | Caso tecnico-amministrativo |
-| Concorso con prova situazionale | Competenze trasversali PA + etica pubblica | Scelta opzione e motivazione |
-| Concorso ICT | PA digitale + sicurezza + dati + basi tecniche richieste | Quiz tecnico e spiegazione breve |
+| **Funzioni centrali** | M-FC01 … M-FC05 | Ministeri, PCM, agenzie fiscali, EPNE, giustizia, authority |
+| **Funzioni locali** | M-FL01 … M-FL04 | Comuni, regioni/province/città metropolitane, camere di commercio, polizia locale |
+| **Istruzione e ricerca** | M-IR01 … M-IR04 | Scuola, università/AFAM, enti di ricerca, cultura e beni culturali |
+| **Sanità** | M-SA01 … M-SA04 | Sanità amministrativa, professioni sanitarie, dirigenza medica, tecnici sanitari |
+| **Trasversali ad alta specializzazione** | M-TR01 … M-TR04 | ICT/digitale, appalti/PNRR/fondi UE, tecnico-ingegneristico, ambiente/protezione civile |
+| **Carriere speciali** | M-SP01 … M-SP04 | Forze dell'ordine, vigili del fuoco, magistratura/avvocatura, prefettizia/diplomatica |
 
-Il modulo non deve dire "studia tutto". Deve dire "studia questo, per ottenere questo risultato".
+Catalogo sintetico (25 moduli):
+
+| Codice | Modulo |
+|---|---|
+| M-FC01 | Ministeri e Presidenza del Consiglio |
+| M-FC02 | Agenzie fiscali |
+| M-FC03 | Enti pubblici non economici / previdenza / vigilanza |
+| M-FC04 | Giustizia |
+| M-FC05 | Authority indipendenti |
+| M-FL01 | Comuni e Unioni |
+| M-FL02 | Regioni, Province e Città metropolitane |
+| M-FL03 | Camere di commercio |
+| M-FL04 | Polizia locale |
+| M-IR01 | Scuola |
+| M-IR02 | Università e AFAM |
+| M-IR03 | Enti di ricerca |
+| M-IR04 | Cultura e beni culturali |
+| M-SA01 | Sanità amministrativa |
+| M-SA02 | Professioni sanitarie |
+| M-SA03 | Dirigenza medica e sanitaria |
+| M-SA04 | Tecnici sanitari e prevenzione |
+| M-TR01 | ICT e trasformazione digitale |
+| M-TR02 | Appalti, PNRR e fondi UE |
+| M-TR03 | Tecnico-ingegneristico |
+| M-TR04 | Ambiente e protezione civile |
+| M-SP01 | Polizia, Carabinieri e Guardia di Finanza |
+| M-SP02 | Vigili del fuoco |
+| M-SP03 | Magistratura, Avvocatura e Notariato |
+| M-SP04 | Prefettizia e diplomatica |
+
+Non devi possedere tutti i moduli. Devi possedere **quello giusto** per la famiglia su cui stai lavorando, più il libro base.
+
+La roadmap editoriale prevede uscita progressiva per famiglie (MVP su M-FL01, M-IR01, M-FC03, M-SA02, poi espansione). Se un modulo non è ancora disponibile, usa il criterio di questo capitolo per costruire un percorso provvisorio con fonti ufficiali e scheda modulo personale.
 
 ## Mappa BANDO del capitolo
 
 | Passaggio | Domanda | Prodotto |
 |---|---|---|
-| B - Bando | Quale parte del programma non è coperta dal core? | Lista differenze |
-| A - Aree | A quale famiglia appartiene il modulo? | Area specialistica |
-| N - Nuclei | Quali contenuti hanno resa alta? | Nuclei del modulo |
+| B - Bando | A quale famiglia appartiene questo concorso? | Famiglia + codice modulo |
+| A - Aree | Quale delta non è coperto dal core? | Lista differenze |
+| N - Nuclei | Quali contenuti specialistici hanno resa alta? | Nuclei del modulo |
 | D - Diario | Gli errori confermano che il modulo serve? | Decisione su tempo e profondità |
-| O - Output | Che cosa devo saper produrre? | Quiz, caso, orale, schema, mini-prova |
+| O - Output | Che cosa devo saper produrre? | Quiz, caso, orale, schema, simulazione |
 
-Il modulo nasce dal bando, ma viene confermato dal diario. Se una materia sembra importante ma non produce errori, casi o domande probabili, va ridotta.
+Il modulo nasce dal bando, ma viene **confermato** dal diario. Se una materia sembra importante ma non produce errori, casi o domande probabili, va ridotta.
 
 ## I cinque filtri di scelta
 
-Prima di comprare, scaricare o aprire materiale integrativo, passa da questi cinque filtri.
+Prima di attivare un modulo — o comprare materiale integrativo — passa da questi cinque filtri.
 
-### 1. Filtro bando
-
-La domanda è:
-
-> Il bando nomina questa materia, questa competenza o questa prova?
-
-Se la risposta è no, il modulo non parte. può restare in lista, ma non entra nel piano.
-
-Attenzione: il bando può indicare il modulo in modo esplicito o implicito.
-
-Esplicito:
-
-- "diritto tributario";
-- "ordinamento degli enti locali";
-- "codice della strada";
-- "contabilità pubblica";
-- "contratti pubblici";
-- "lingua inglese";
-- "competenze digitali".
-
-Implicito:
-
-- profilo tecnico in ufficio lavori pubblici;
-- istruttore amministrativo-contabile in Comune;
-- funzionario in agenzia fiscale;
-- ispettore di vigilanza;
-- prova pratica su atti o casi.
-
-Il bando resta la fonte principale. Il nome del profilo da solo non basta.
-
-### 2. Filtro profilo
+### 1. Filtro famiglia
 
 La domanda è:
 
-> Questa materia serve alla funzione concreta del profilo?
+> Questo concorso appartiene a una famiglia diversa da quella che sto già preparando con il modulo attuale?
 
-Un modulo è forte quando materia e funzione coincidono. Per esempio, contabilità locale per un istruttore amministrativo-contabile è più centrale di un approfondimento astratto sul diritto costituzionale. Tributario per agenzia fiscale è più centrale di un ripasso generico di tutte le materie amministrative.
+Se resti nella stessa famiglia (altro Comune, altro bando INPS), **non** serve un nuovo modulo: serve aggiornare Bando Decoder e piano. Se cambi famiglia (da Comune a ministero, da amministrativo a ICT), valuta il modulo della nuova famiglia.
 
-Il profilo dice dove userai la conoscenza.
+### 2. Filtro bando
 
-### 3. Filtro prova
+La domanda è:
+
+> Il bando nomina esplicitamente materie o prove che il core non copre in profondità?
+
+Il bando può indicare il modulo in modo esplicito (tributario, ordinamento enti locali, codice della strada) o implicito (profilo in ufficio tecnico, istruttore contabile in Comune, funzionario in agenzia fiscale). Il nome del profilo da solo non basta: serve il confronto con programma e prove.
+
+### 3. Filtro profilo
+
+La domanda è:
+
+> Questa materia serve alla funzione concreta del profilo nella famiglia?
+
+Un modulo è forte quando materia e funzione coincidono. Contabilità locale per istruttore amministrativo-contabile in Comune è centrale; tributario per agenzia fiscale è centrale; un approfondimento astratto non collegato alla prova non giustifica un modulo.
+
+### 4. Filtro prova
 
 La domanda è:
 
 > In quale forma questa materia può comparire in prova?
 
-La stessa materia cambia metodo se appare in:
+La stessa materia cambia metodo se appare in quiz, risposta aperta, caso, prova pratica, orale o quesito situazionale. Il modulo deve essere collegato al formato di prova, non restare studio passivo.
 
-- quiz a risposta multipla;
-- risposta aperta;
-- caso teorico-pratico;
-- prova pratica;
-- orale;
-- quesito situazionale.
+### 5. Filtro output e rischio
 
-Se il modulo non viene collegato a una forma di prova, resta studio passivo.
+Le domande sono:
 
-Esempio: "contratti pubblici" può diventare:
+> Se ignoro questo delta, che cosa rischio?
+> Dopo il modulo, che cosa devo saper fare senza guardare il materiale?
 
-- definizioni e principi nei quiz;
-- ciclo dell'affidamento in una risposta breve;
-- scelta procedurale in un caso;
-- esposizione ordinata all'orale;
-- rischio, trasparenza e tracciabilità in un quesito situazionale.
-
-### 4. Filtro rischio
-
-La domanda è:
-
-> Se ignoro questo modulo, che cosa rischio?
-
-Il rischio può essere:
-
-- perdere molte domande;
-- non superare una soglia;
-- sbagliare il caso pratico;
-- non reggere l'orale sul profilo;
-- confondere due istituti simili;
-- arrivare alla prova senza lessico tecnico.
-
-Il modulo è prioritario quando il rischio è alto e il tempo di recupero è ragionevole.
-
-### 5. Filtro output
-
-La domanda è:
-
-> Dopo questo modulo, che cosa devo saper fare senza guardare il materiale?
-
-Risposte valide:
-
-- risolvere 30 quiz mirati;
-- spiegare un procedimento in tre minuti;
-- scrivere uno schema di determina;
-- distinguere accesso documentale, civico semplice e civico generalizzato;
-- impostare un caso di affidamento;
-- motivare una risposta situazionale;
-- compilare una tabella di bilancio essenziale.
-
-Risposta non valida:
-
-- "aver letto il modulo".
-
-Nel Metodo BANDO il modulo è riuscito solo se genera output.
+Risposta non valida: «aver letto il modulo». Risposte valide: quiz mirati, caso impostato, spiegazione orale, schema di atto, motivazione situazionale.
 
 ![Figura 21.4 - I cinque filtri di scelta](../assets/chapter-21/04-cinque-filtri-di-scelta.png)
 
@@ -222,361 +281,176 @@ Usa questa tabella prima di attivare un modulo.
 
 | Segnale | Decisione | Esempio |
 |---|---|---|
-| Materia esplicita nel bando e centrale per il profilo | Attiva modulo completo | Tributario in agenzia fiscale |
-| Materia esplicita ma marginale nella prova | Attiva modulo essenziale | Inglese se verifica solo idoneità orale |
-| Materia implicita nella funzione, ma non nel programma | Attiva solo se collegata a casi/prova | Organizzazione ufficio tecnico |
-| Materia presente nel core ma con taglio specialistico | Integra con mini-modulo | Contratti pubblici per appalti/PNRR |
-| Materia interessante ma non collegata a prova | Non attivare | Approfondimenti universitari non richiesti |
-| Materia debole nel diario ma poco pesante | Ripasso mirato, non modulo | Dettaglio isolato di costituzionale |
-| Errore ricorrente in area ad alta resa | Attiva drill modulo | Accesso, silenzio, termini, competenze |
-
-La matrice impedisce due comportamenti opposti: ignorare il profilo o aprire troppi percorsi.
+| Nuova famiglia concorsuale rispetto al percorso attuale | Attiva modulo della famiglia | Da Comuni a Ministeri → M-FC01 |
+| Stessa famiglia, nuovo bando | Non comprare altro modulo; aggiorna piano | Altro Comune con M-FL01 già attivo |
+| Materia esplicita nel bando e centrale per il profilo | Modulo completo o essenziale | Tributario in agenzia fiscale → M-FC02 |
+| Materia fuori famiglia ma decisiva in prova | Secondo modulo eccezionale | ICT dominante → M-TR01 |
+| Materia già nel core | Non duplicare; usa ricettario | Procedimento amministrativo generale |
+| Materia in appendice del modulo | Appendice, non nuovo modulo | Reati PA in concorso ministeriale |
+| Materia interessante ma non in prova | Non attivare | Approfondimenti non richiesti |
+| Errore ricorrente in area ad alta resa | Drill nel modulo attivo | Termini, accesso, competenze locali |
 
 ![Figura 21.5 - Matrice di decisione dei moduli](../assets/chapter-21/05-matrice-decisione-moduli.png)
 
-## Tipi di moduli integrativi
+## Scheda «acquisto consigliato» (per te, non per il catalogo)
 
-### Modulo ente locale
-
-Serve quando il bando riguarda Comuni, Province, Unioni, Citta metropolitane o funzioni locali. Il candidato deve integrare:
-
-- ordinamento enti locali;
-- organi e competenze;
-- atti: deliberazione, determinazione, ordinanza;
-- procedimento e accesso in contesto locale;
-- contabilità e bilancio locale se richiesti;
-- servizi al cittadino;
-- responsabilità, trasparenza e anticorruzione.
-
-Output tipici:
-
-- spiegare differenza tra Giunta, Consiglio, dirigente/responsabile;
-- riconoscere l'atto corretto;
-- impostare un mini-caso di ufficio;
-- collegare bilancio, PEG, impegno, liquidazione.
-
-### Modulo amministrativo-contabile
-
-Serve quando il profilo combina ufficio amministrativo e gestione economico-finanziaria. Il rischio è studiare solo diritto amministrativo e arrivare impreparati su entrate, spese, bilancio, residui, controlli e pagamenti.
-
-Output:
-
-- ciclo entrata/spesa;
-- differenza tra competenza e cassa;
-- lettura di un caso su impegno o liquidazione;
-- collegamento tra provvedimento e copertura finanziaria.
-
-### Modulo tributario/fiscale
-
-Serve per agenzie fiscali, uffici tributi, accertamento, riscossione o profili giuridico-tributari. Non va confuso con un generico ripasso di diritto amministrativo.
-
-Output:
-
-- lessico tributario essenziale;
-- soggetti, atti, termini, accertamento, riscossione;
-- quiz e risposte sintetiche;
-- collegamenti con procedimento, accesso, privacy e contenzioso.
-
-### Modulo giustizia
-
-Serve quando il profilo opera in ministero, uffici giudiziari, amministrazione della giustizia o supporto tecnico-amministrativo. Il modulo può riguardare ordinamento giudiziario, servizi di cancelleria, organizzazione degli uffici, procedure o competenze tecniche indicate dal bando.
-
-Output:
-
-- mappa uffici e funzioni;
-- lessico della giustizia;
-- risposta orale ordinata;
-- quiz su organizzazione e competenze.
-
-### Modulo previdenza, lavoro e vigilanza
-
-Serve per INPS, INAIL, ispettorati, lavoro, previdenza, sicurezza sociale, vigilanza. Il rischio è usare solo il core amministrativo e sottovalutare la materia di settore.
-
-Output:
-
-- distinzione tra previdenza, assistenza, assicurazione, vigilanza;
-- casi su rapporto di lavoro, contributi, infortuni o controlli;
-- quiz tecnico-giuridici;
-- esposizione orale con esempi.
-
-### Modulo tecnico con prova amministrativa
-
-Serve quando il candidato ha profilo tecnico ma la prova contiene anche diritto amministrativo, contratti, sicurezza, procedimento, digitale o casi di ufficio. Qui il modulo deve collegare tecnica e PA.
-
-Output:
-
-- mini-caso su lavori, servizio, autorizzazione o controllo;
-- procedimento e responsabilità;
-- lessico tecnico-amministrativo;
-- scelta dell'atto o della sequenza.
-
-### Modulo ICT e digitale
-
-Serve quando il profilo è informatico o quando il bando pesa molto PA digitale, sicurezza, dati, interoperabilità, servizi online, documenti informatici. Non basta sapere usare il computer.
-
-Output:
-
-- spiegare concetti tecnici in linguaggio amministrativo;
-- collegare sicurezza, privacy e servizio digitale;
-- risolvere quiz tecnici;
-- distinguere strumenti, dati, reti, documenti e identità digitale.
-
-### Modulo situazionale e competenze trasversali
-
-Serve quando il bando prevede prove situazionali, assessment, soft skill, competenze trasversali, orientamento al cittadino, collaborazione, problem solving o integrità.
-
-Output:
-
-- scegliere l'opzione più coerente con ruolo, legalità e servizio;
-- motivare la scelta;
-- evitare scorciatoie "gentili" ma illegittime;
-- riconoscere conflitto, dato personale, urgenza, competenza, escalation.
-
-![Figura 21.6 - Atlante operativo dei moduli integrativi](../assets/chapter-21/06-atlante-moduli-integrativi.png)
-
-## Come combinare core e modulo
-
-Non esiste una percentuale valida per tutti, ma una regola pratica si può usare:
-
-> prima garantisci il core minimo, poi dai profondità al modulo decisivo, infine allena la prova.
-
-In un concorso molto specialistico, il modulo può occupare molto spazio. In un concorso amministrativo generale, il modulo può essere breve. In un concorso con orale forte, il modulo deve diventare esposizione. In un concorso a quiz, deve diventare batteria e correzione.
-
-### Schema di combinazione
-
-| Fase | Core | Modulo | Prova |
-|---|---|---|---|
-| Avvio | Decodifica bando e nucleo comune | Identifica il modulo | Capisci formato |
-| Studio | Materie trasversali | Nuclei specialistici | Quiz/casi/orale brevi |
-| Consolidamento | Ripasso e collegamenti | Errori e lacune | Simulazioni |
-| Rifinitura | Schemi finali | Solo punti deboli | Prova completa |
-
-La sequenza evita di studiare il modulo in isolamento.
-
-## Esempio 1 - Istruttore amministrativo-contabile in Comune
-
-Il bando richiede diritto amministrativo, ordinamento enti locali, contabilità pubblica, trasparenza, anticorruzione, privacy, informatica e inglese.
-
-Core:
-
-- procedimento;
-- provvedimento;
-- accesso;
-- pubblico impiego;
-- trasparenza;
-- informatica e inglese di base;
-- metodo quiz/orale.
-
-Modulo:
-
-- TUEL essenziale;
-- organi del Comune;
-- atti locali;
-- contabilità locale;
-- ciclo entrata/spesa;
-- controlli e responsabilità.
-
-Output:
-
-- spiegare una determinazione;
-- risolvere quiz su organi e competenze;
-- impostare un caso su accesso o liquidazione;
-- esporre il ciclo della spesa.
-
-Da non eccedere:
-
-- manuali universitari di scienza delle finanze;
-- contenzioso contabile avanzato se non richiesto;
-- dettagli non collegati al profilo.
-
-## Esempio 2 - Ministero o funzioni centrali
-
-Il bando riguarda un profilo amministrativo in amministrazione centrale.
-
-Core:
-
-- diritto costituzionale;
-- diritto amministrativo;
-- pubblico impiego;
-- procedimento;
-- trasparenza e privacy;
-- digitale;
-- prove concorsuali.
-
-Modulo:
-
-- organizzazione del ministero se indicata;
-- funzioni del settore;
-- competenze trasversali;
-- eventuale normativa speciale;
-- inglese e informatica se pesano nella prova.
-
-Output:
-
-- risposta ordinata su funzioni e struttura;
-- quiz su fonti, atti, procedimento;
-- orale con collegamenti tra amministrazione e servizio pubblico.
-
-Da non eccedere:
-
-- storia istituzionale non richiesta;
-- normativa di settore troppo profonda;
-- lettura passiva di siti senza scheda.
-
-## Esempio 3 - Agenzia fiscale
-
-Il profilo è giuridico-tributario. Qui il modulo non è accessorio: è centrale.
-
-Core:
-
-- amministrativo;
-- pubblico impiego;
-- trasparenza e privacy;
-- digitale;
-- metodo quiz e orale.
-
-Modulo:
-
-- diritto tributario;
-- accertamento;
-- riscossione;
-- sanzioni tributarie se previste;
-- procedura e atti dell'amministrazione finanziaria;
-- lessico tecnico.
-
-Output:
-
-- quiz mirati;
-- confronto tra istituti;
-- risposta breve;
-- orale con esempi di procedimento.
-
-Da non eccedere:
-
-- dottrina avanzata se la prova è a quiz;
-- dettagli processuali non richiesti;
-- studio senza domande.
-
-## Esempio 4 - Profilo tecnico con prova amministrativa
-
-Il candidato tecnico spesso commette un errore: prepara solo la materia tecnica o solo la parte amministrativa. Deve invece unire le due.
-
-Core:
-
-- procedimento;
-- atti;
-- contratti pubblici essenziali;
-- sicurezza e responsabilità se richieste;
-- trasparenza;
-- digitale.
-
-Modulo:
-
-- settore tecnico specifico;
-- normativa di settore;
-- casi pratici;
-- documenti, autorizzazioni, controlli, lavori o servizi.
-
-Output:
-
-- caso tecnico-amministrativo;
-- scelta dell'atto;
-- sequenza procedurale;
-- spiegazione all'orale.
-
-Da non eccedere:
-
-- manuali tecnici universitari non collegati al bando;
-- calcoli o norme settoriali non richieste;
-- glossari senza casi.
-
-## Scheda modulo integrativo
-
-Compila questa scheda per ogni modulo che vuoi attivare.
+Ogni volta che leggi un bando, compila questa scheda in quattro righe. È la stessa logica che dovrebbe restituire un sistema di consiglio automatico: fiducia e chiarezza.
 
 | Campo | Risposta |
 |---|---|
-| Concorso/profilo | |
+| **Acquisto / percorso consigliato** | Libro base + codice modulo (es. M-FL01) |
+| **Perché** | Famiglia, profilo, prove |
+| **Già coperto dal libro base** | Elenco sintetico (metodo, amministrativo, pubblico impiego, prove…) |
+| **Cosa aggiunge il modulo** | Delta specialistico |
+| **Cosa non serve** | Moduli o manuali da escludere |
+
+Se non riesci a compilare «cosa aggiunge il modulo» in modo specifico, non hai ancora scelto: hai solo etichettato un profilo.
+
+## Come combinare core, ricettario e modulo
+
+Regola pratica:
+
+> prima garantisci il core minimo, poi attiva il modulo decisivo, poi allena con il ricettario.
+
+| Fase | Libro base | Modulo | Ricettario / prova |
+|---|---|---|---|
+| Avvio | Bando Decoder, nucleo comune | Identifica famiglia e codice | Capisci formato prove |
+| Studio | Materie trasversali | Nuclei specialistici (delta) | Quiz, casi, schede brevi |
+| Consolidamento | Ripasso e collegamenti | Errori e lacune di settore | Simulazioni mirate |
+| Rifinitura | Schemi finali comuni | Solo punti deboli del modulo | Prova completa |
+
+In un concorso molto verticale il modulo può pesare di più nel tempo, ma il core resta la struttura portante. In un concorso amministrativo generale il modulo può essere breve. In un concorso con orale forte il modulo deve diventare esposizione; in un concorso a quiz, batteria e correzione.
+
+## Esempi guidati (formula libro base + 1 modulo)
+
+### Esempio A — Candidato INPS / INAIL
+
+**Messaggio:** non serve un manuale diverso per ogni bando INPS o INAIL.
+
+- **Percorso:** libro base + **M-FC03**
+- **Core:** amministrativo, pubblico impiego, procedimento, trasparenza, privacy, digitale, metodo prove
+- **Modulo:** previdenza, lavoro, vigilanza, lessico EPNE, casi e quiz di settore
+- **Non serve:** secondo modulo per ogni ente della stessa famiglia
+
+### Esempio B — Candidato enti locali
+
+**Messaggio:** non serve un libro per Napoli, Melfi e Bologna.
+
+- **Percorso:** libro base + **M-FL01** (Comuni e Unioni; per profili regionali valuta M-FL02)
+- **Core:** procedimento, accesso, pubblico impiego, trasparenza, informatica, inglese, prove
+- **Modulo:** TUEL essenziale, organi locali, atti, contabilità locale se richiesta, casi di ufficio
+- **Output:** determinazione, quiz su organi, caso su accesso o liquidazione
+
+### Esempio C — Candidato RIPAM ministeriale
+
+**Messaggio:** la parte comune si studia una volta; la specializzazione è nel modulo ministeriale.
+
+- **Percorso:** libro base + **M-FC01**
+- **Core:** costituzionale/amministrativo essenziale, pubblico impiego, prove
+- **Modulo:** organizzazione ministeriale, funzioni di settore, appendici eventuali (reati PA, ragioneria…)
+- **Non eccedere:** storia istituzionale non richiesta; normativa di settore non nel programma
+
+### Esempio D — Eccezione ICT
+
+Profilo in amministrazione centrale ma identità concorsuale **digitale**:
+
+- **Percorso:** libro base + **M-TR01** (non accumulo M-FC01 + altro senza motivo)
+- **Motivo bando:** programma e prove dominate da PA digitale, sicurezza, dati, sistemi
+
+![Figura 21.6 - Atlante operativo dei moduli integrativi](../assets/chapter-21/06-atlante-moduli-integrativi.png)
+
+## Scheda modulo integrativo
+
+Compila questa scheda per ogni modulo che attivi (acquistato o costruito con fonti ufficiali).
+
+| Campo | Risposta |
+|---|---|
+| Concorso / profilo | |
+| Famiglia concorsuale | |
+| Codice modulo (es. M-FL01) | |
 | Fonte nel bando | |
-| Materia o competenza | |
-| perché serve | |
+| Delta rispetto al core | |
+| Perché serve | |
 | Prova collegata | Quiz / scritto / caso / orale / pratica / situazionale |
 | Nuclei da studiare | |
-| Materiali ammessi | |
 | Output da produrre | |
 | Tempo massimo | |
 | Criterio di sufficienza | |
 | Cosa non studiare | |
-| Errori da monitorare | |
+| Errori da monitorare nel diario | |
 | Data di revisione | |
 
-Il campo "tempo massimo" è importante. Un modulo senza limite tende ad allargarsi.
+Il campo «tempo massimo» è decisivo. Un modulo senza limite tende ad allargarsi e a mangiare il core.
 
 ## Da sapere in 5 righe
 
-1. Il modulo integrativo serve solo se bando, profilo o prova lo giustificano.
-2. Il core non va abbandonato: il modulo lo completa.
-3. Ogni modulo deve avere un output: quiz, caso, orale, schema o simulazione.
-4. Un modulo senza limite di profondità diventa dispersione.
-5. Il diario decide se aumentare, ridurre o chiudere il modulo.
+1. Il sistema è **libro base + (al massimo) un modulo per famiglia**, non un manuale per bando.
+2. Il modulo contiene solo il **delta specialistico**; il core resta nel libro base.
+3. Il **ricettario** allena; non sostituisce né il core né il modulo.
+4. Il **secondo modulo** è eccezione: va motivato sul bando, non sull'ansia.
+5. Il **diario** decide se aumentare, ridurre o chiudere il modulo.
 
 ## Caso guidato
 
-sarà prepara due concorsi: un Comune per istruttore amministrativo-contabile e un ministero per assistente amministrativo. Ha 60 giorni.
+Sara prepara due concorsi: un Comune per istruttore amministrativo-contabile e un ministero per assistente amministrativo. Ha 60 giorni.
 
-Se apre due percorsi separati, studierà tutto due volte. Se usa il Metodo BANDO, costruisce:
+Se apre due percorsi separati, studierà tutto due volte. Con il Metodo BANDO costruisce:
 
-- core comune: amministrativo, pubblico impiego, trasparenza, privacy, informatica, inglese, quiz;
-- modulo Comune: TUEL, atti locali, contabilità locale;
-- modulo ministero: organizzazione del settore e funzioni centrali richieste dal bando;
-- output: quiz settimanali, un caso locale, una risposta orale per il ministero.
+- **libro base** (unico): amministrativo, pubblico impiego, trasparenza, privacy, informatica, inglese, metodo prove;
+- **M-FL01** per il Comune: TUEL, atti locali, contabilità locale;
+- **M-FC01** per il ministero: organizzazione e funzioni centrali richieste dal bando;
+- **ricettario**: quiz settimanali, un caso locale, una risposta orale per il ministero.
 
-La decisione non è "quale concorso scelgo?". La decisione è:
+La decisione non è «quale concorso scelgo?». È:
 
-> quale parte posso riutilizzare e quale parte devo isolare?
+> quale parte è comune, quale modulo per famiglia, e cosa taglio per non duplicare?
 
-![Figura 21.7 - Scheda modulo e caso sarà](../assets/chapter-21/07-scheda-modulo-e-caso-sarà.png)
+![Figura 21.7 - Scheda modulo e caso Sara](../assets/chapter-21/07-scheda-modulo-e-caso-sarà.png)
 
 ## Domanda da commissario
 
-**perché non è corretto preparare ogni concorso come se fosse completamente nuovo?**
+**Perché non è corretto preparare ogni concorso come se fosse completamente nuovo?**
 
-Risposta attesa: perché molti concorsi condividono un nucleo comune di materie e competenze. Il candidato deve riutilizzare quel capitale e aggiungere moduli mirati solo per le differenze rilevanti del bando e del profilo.
+Risposta attesa: perché molti concorsi condividono un nucleo comune di materie, metodo e prove. Il candidato deve accumulare **capitale preparatorio** con il libro base e aggiungere moduli mirati solo per le differenze stabili di famiglia, profilo e bando — non ricomprare o restudiare l'80% sovrapposto.
 
 ## Domanda-trappola
 
 **Se il modulo è specialistico, posso saltare il nucleo comune?**
 
-No. Nei concorsi pubblici il modulo specialistico di solito vive dentro un contesto amministrativo: procedimento, responsabilità, trasparenza, pubblico impiego, digitale, prove. Saltare il core rende fragile anche il modulo.
+No. Anche nei concorsi verticali il modulo specialistico vive dentro un contesto amministrativo: procedimento, responsabilità, trasparenza, pubblico impiego, digitale, prove. Saltare il core rende fragile anche il modulo. La formula resta: prima il libro base, poi il delta del modulo.
 
 ## Mini-esercizio
 
-Prendi un bando reale o simulato e compila questa griglia.
+Prendi un bando reale o simulato e compila la griglia.
 
 | Domanda | Risposta |
 |---|---|
-| qual è il nucleo comune? | |
-| qual è il modulo principale? | |
-| qual è il modulo secondario? | |
-| Quale modulo posso ignorare? | |
+| Qual è la famiglia concorsuale? | |
+| Qual è il codice modulo (libro base + …)? | |
+| Cosa è già coperto dal libro base? | |
+| Cosa aggiunge il modulo? | |
+| Serve un secondo modulo? Perché sì/no? | |
 | Quale prova verifica il modulo? | |
-| Quale output produrro entro 7 giorni? | |
-| Che cosa non studiero oltre il bando? | |
+| Quale output produrrò entro 7 giorni? | |
+| Cosa non studierò oltre bando e modulo? | |
 
 Se non riesci a scrivere l'output, il modulo non è ancora definito.
 
 ## Errori tipici
 
-- Attivare un modulo per ansia, non per bando.
-- Studiare il modulo come materia isolata.
-- Comprare troppi materiali e non chiuderne nessuno.
-- Non fissare un limite di profondità.
-- Confondere "materia presente" con "materia decisiva".
-- Trascurare la prova: quiz, caso e orale richiedono moduli diversi.
+- Comprare o attivare un modulo **per ogni bando** invece che per famiglia.
+- Confondere **ricettario** (allenamento) con **modulo** (specializzazione).
+- Studiare il modulo come secondo manuale generico, **duplicando** il core.
+- Attivare un secondo modulo senza motivazione sul bando.
+- Non fissare un **limite di profondità** al modulo.
+- Confondere «materia presente» con «materia decisiva».
+- Trascurare la prova: quiz, caso e orale richiedono output diversi.
 - Non usare il diario per decidere se continuare o tagliare.
 
 ## Riferimenti consolidati
 
+- [[sources/idea-business-vendita-libri-capitale-personale]]
+- [[books/moduli/architettura-moduli-specialistici]]
 - [[sources/capitolo-19-20-corpus-profili-concorsuali-2026-05-30]]
 - [[sources/bandi-rappresentativi-profili-concorsuali-inpa-agenzie-enti-2025-2026]]
 - [[sources/formazione-competenze-pa-syllabus-direttiva-2025]]
@@ -586,5 +460,6 @@ Se non riesci a scrivere l'output, il modulo non è ancora definito.
 
 ## Note di review
 
-- Prima della pubblicazione finale verificare eventuali aggiornamenti dei bandi rappresentativi usati come esempi.
-- I moduli specialistici completi restano materiali integrativi separati; questo capitolo insegna il criterio di scelta.
+- Verificare disponibilità commerciale e stato di pubblicazione dei singoli moduli (scaffold vs pubblicato) prima dell'edizione definitiva.
+- Allineare esempi a bandi rappresentativi aggiornati su inPA.
+- Il capitolo descrive il criterio di scelta nell'ecosistema ConcorsoBook / Capitale Personale; non sostituisce le schede interne dei singoli moduli specialistici.
