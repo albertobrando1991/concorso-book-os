@@ -104,7 +104,7 @@ const STAFF_ONLY_HEADINGS = [
 ]
 
 const IMAGE_EXTENSIONS = new Set([".png", ".jpg", ".jpeg", ".webp", ".gif", ".svg"])
-const BOOK_ASSET_PATH = /^books\/[a-z0-9-]+\/assets\//
+const BOOK_ASSET_PATH = /^books\/(?:[a-z0-9-]+\/)*[a-z0-9-]+\/assets\//
 const MAX_PREVIEW_BLOCKS = 520
 const INDEX_PAGE_BUDGET = 1000
 const INDEX_FIRST_PAGE_HEADER_COST = 150
@@ -223,6 +223,7 @@ function buildAnalyticalIndexBlocks(
       type: "index-chapter",
       number: chapterIndexLabel(chapter.outlineSection, chapterNumber),
       text: chapter.title,
+      path: chapter.path,
       pageNumber: startPage
     })
 

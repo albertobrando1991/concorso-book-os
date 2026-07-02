@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Come nasce e si sviluppa il tributo</title>
+  <desc id="desc">Una sequenza per leggere definizioni, adempimenti, controlli e riscossione.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; }
+      .softRed { fill: #F8E8EA; stroke: #E3B9BF; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E8D080; stroke-width: 2.5; }
+      .softGreen { fill: #E7F3ED; stroke: #A8D1BD; stroke-width: 2.5; }
+      .softTeal { fill: #E4F4F5; stroke: #A3D5D8; stroke-width: 2.5; }
+      .note { fill: #FFF7ED; stroke: #E7C18E; stroke-width: 2.5; }
+      .ink { fill: #0F172A; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 43px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 22px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 24px; font-weight: 800; letter-spacing: 0; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 18px; }
+      .navy { fill: #10233F; }
+      .bordeaux { fill: #7A2430; }
+      .gold { fill: #D4AF37; }
+      .green { fill: #2F7D5A; }
+      .teal { fill: #1F6F78; }
+      .line { stroke: #94A3B8; stroke-width: 4; stroke-linecap: round; fill: none; }
+      .thin { stroke: #CBD5E1; stroke-width: 2.5; stroke-linecap: round; fill: none; }
+      .arrowNavy { stroke: #10233F; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowNavy); }
+      .arrowBordeaux { stroke: #7A2430; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowBordeaux); }
+      .arrowGold { stroke: #D4AF37; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGold); }
+      .arrowGreen { stroke: #2F7D5A; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGreen); }
+      .arrowTeal { stroke: #1F6F78; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowTeal); }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#10233F"/></marker>
+    <marker id="arrowBordeaux" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#7A2430"/></marker>
+    <marker id="arrowGold" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#D4AF37"/></marker>
+    <marker id="arrowGreen" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2F7D5A"/></marker>
+    <marker id="arrowTeal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1F6F78"/></marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <text class="ink title" x="800" y="68" text-anchor="middle">Come nasce e si sviluppa il tributo</text>
+  <text class="muted subtitle" x="800" y="108" text-anchor="middle">Una sequenza per leggere definizioni, adempimenti, controlli e riscossione.</text>
+
+  <rect class="card" x="70" y="160" width="1460" height="640" rx="30"/>
+  <g data-safe-box="105 260 260 165 10">
+    <rect class="softBlue" x="105" y="260" width="260" height="165" rx="24"/>
+    <circle cx="148" cy="307" r="27" fill="#10233F"/>
+    <text x="148" y="317" text-anchor="middle" style="fill:#fff;font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:25px;font-weight:900">1</text>
+    <text class="navy label" x="193" y="307" text-anchor="start" style="font-size:18px">Fatto rilevante</text>
+    <text class="muted small" x="235" y="349" text-anchor="middle" style="font-size:17px">reddito</text>
+<text class="muted small" x="235" y="374" text-anchor="middle" style="font-size:17px">operazione</text>
+<text class="muted small" x="235" y="399" text-anchor="middle" style="font-size:17px">situazione</text>
+  </g>
+  <g data-safe-box="415 260 260 165 10">
+    <rect class="softRed" x="415" y="260" width="260" height="165" rx="24"/>
+    <circle cx="458" cy="307" r="27" fill="#7A2430"/>
+    <text x="458" y="317" text-anchor="middle" style="fill:#fff;font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:25px;font-weight:900">2</text>
+    <text class="bordeaux label" x="503" y="307" text-anchor="start" style="font-size:18px">Presupposto</text>
+    <text class="muted small" x="545" y="349" text-anchor="middle" style="font-size:17px">perche nasce</text>
+<text class="muted small" x="545" y="374" text-anchor="middle" style="font-size:17px">la rilevanza</text>
+  </g>
+  <g data-safe-box="725 260 260 165 10">
+    <rect class="softGold" x="725" y="260" width="260" height="165" rx="24"/>
+    <circle cx="768" cy="307" r="27" fill="#D4AF37"/>
+    <text x="768" y="317" text-anchor="middle" style="fill:#fff;font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:25px;font-weight:900">3</text>
+    <text class="gold label" x="813" y="307" text-anchor="start" style="font-size:18px">Soggetto</text>
+    <text class="muted small" x="855" y="349" text-anchor="middle" style="font-size:17px">chi e' tenuto</text>
+<text class="muted small" x="855" y="374" text-anchor="middle" style="font-size:17px">all'obbligo</text>
+  </g>
+  <g data-safe-box="1035 260 260 165 10">
+    <rect class="softGreen" x="1035" y="260" width="260" height="165" rx="24"/>
+    <circle cx="1078" cy="307" r="27" fill="#2F7D5A"/>
+    <text x="1078" y="317" text-anchor="middle" style="fill:#fff;font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:25px;font-weight:900">4</text>
+    <text class="green label" x="1123" y="307" text-anchor="start" style="font-size:18px">Base imponibile</text>
+    <text class="muted small" x="1165" y="349" text-anchor="middle" style="font-size:17px">su quale</text>
+<text class="muted small" x="1165" y="374" text-anchor="middle" style="font-size:17px">grandezza</text>
+  </g>
+  <path class="arrowNavy" d="M365 342 L405 342"/>
+  <path class="arrowBordeaux" d="M675 342 L715 342"/>
+  <path class="arrowGold" d="M985 342 L1025 342"/>
+  <g data-safe-box="260 520 260 165 10">
+    <rect class="softTeal" x="260" y="520" width="260" height="165" rx="24"/>
+    <circle cx="303" cy="567" r="27" fill="#1F6F78"/>
+    <text x="303" y="577" text-anchor="middle" style="fill:#fff;font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:25px;font-weight:900">5</text>
+    <text class="teal label" x="348" y="567" text-anchor="start" style="font-size:18px">Calcolo</text>
+    <text class="muted small" x="390" y="609" text-anchor="middle" style="font-size:17px">aliquota</text>
+<text class="muted small" x="390" y="634" text-anchor="middle" style="font-size:17px">imposta dovuta</text>
+  </g>
+  <g data-safe-box="570 520 260 165 10">
+    <rect class="softBlue" x="570" y="520" width="260" height="165" rx="24"/>
+    <circle cx="613" cy="567" r="27" fill="#10233F"/>
+    <text x="613" y="577" text-anchor="middle" style="fill:#fff;font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:25px;font-weight:900">6</text>
+    <text class="navy label" x="658" y="567" text-anchor="start" style="font-size:18px">Adempimento</text>
+    <text class="muted small" x="700" y="609" text-anchor="middle" style="font-size:17px">dichiarazione</text>
+<text class="muted small" x="700" y="634" text-anchor="middle" style="font-size:17px">versamento</text>
+  </g>
+  <g data-safe-box="880 520 260 165 10">
+    <rect class="softRed" x="880" y="520" width="260" height="165" rx="24"/>
+    <circle cx="923" cy="567" r="27" fill="#7A2430"/>
+    <text x="923" y="577" text-anchor="middle" style="fill:#fff;font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:25px;font-weight:900">7</text>
+    <text class="bordeaux label" x="968" y="567" text-anchor="start" style="font-size:18px">Controllo</text>
+    <text class="muted small" x="1010" y="609" text-anchor="middle" style="font-size:17px">verifica</text>
+<text class="muted small" x="1010" y="634" text-anchor="middle" style="font-size:17px">accertamento</text>
+  </g>
+  <g data-safe-box="1190 520 260 165 10">
+    <rect class="softGreen" x="1190" y="520" width="260" height="165" rx="24"/>
+    <circle cx="1233" cy="567" r="27" fill="#2F7D5A"/>
+    <text x="1233" y="577" text-anchor="middle" style="fill:#fff;font-family:'Source Sans 3','Segoe UI',Arial,sans-serif;font-size:25px;font-weight:900">8</text>
+    <text class="green label" x="1278" y="567" text-anchor="start" style="font-size:18px">Riscossione</text>
+    <text class="muted small" x="1320" y="609" text-anchor="middle" style="font-size:17px">credito</text>
+<text class="muted small" x="1320" y="634" text-anchor="middle" style="font-size:17px">pagamento</text>
+  </g>
+  <path class="arrowTeal" d="M520 602 L560 602"/>
+  <path class="arrowNavy" d="M830 602 L870 602"/>
+  <path class="arrowBordeaux" d="M1140 602 L1180 602"/>
+  <path class="arrowGold" d="M1170 425 C1060 485, 510 485, 382 520"/>
+  <g data-safe-box="255 815 1090 62 10">
+    <rect class="note" x="255" y="815" width="1090" height="62" rx="24"/>
+    <text class="ink body" x="800" y="854" text-anchor="middle" style="font-weight:800;font-size:20px">Se perdi un passaggio, confondi definizioni, procedimenti e atti.</text>
+  </g>
+
+</svg>

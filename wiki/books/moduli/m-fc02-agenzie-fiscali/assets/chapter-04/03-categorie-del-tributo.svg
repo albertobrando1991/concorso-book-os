@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Tributo, imposta, tassa e contributo</title>
+  <desc id="desc">La classificazione minima per non usare come sinonimi parole diverse.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; }
+      .softRed { fill: #F8E8EA; stroke: #E3B9BF; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E8D080; stroke-width: 2.5; }
+      .softGreen { fill: #E7F3ED; stroke: #A8D1BD; stroke-width: 2.5; }
+      .softTeal { fill: #E4F4F5; stroke: #A3D5D8; stroke-width: 2.5; }
+      .note { fill: #FFF7ED; stroke: #E7C18E; stroke-width: 2.5; }
+      .ink { fill: #0F172A; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 43px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 22px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 24px; font-weight: 800; letter-spacing: 0; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 18px; }
+      .navy { fill: #10233F; }
+      .bordeaux { fill: #7A2430; }
+      .gold { fill: #D4AF37; }
+      .green { fill: #2F7D5A; }
+      .teal { fill: #1F6F78; }
+      .line { stroke: #94A3B8; stroke-width: 4; stroke-linecap: round; fill: none; }
+      .thin { stroke: #CBD5E1; stroke-width: 2.5; stroke-linecap: round; fill: none; }
+      .arrowNavy { stroke: #10233F; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowNavy); }
+      .arrowBordeaux { stroke: #7A2430; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowBordeaux); }
+      .arrowGold { stroke: #D4AF37; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGold); }
+      .arrowGreen { stroke: #2F7D5A; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGreen); }
+      .arrowTeal { stroke: #1F6F78; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowTeal); }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#10233F"/></marker>
+    <marker id="arrowBordeaux" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#7A2430"/></marker>
+    <marker id="arrowGold" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#D4AF37"/></marker>
+    <marker id="arrowGreen" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2F7D5A"/></marker>
+    <marker id="arrowTeal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1F6F78"/></marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <text class="ink title" x="800" y="68" text-anchor="middle">Tributo, imposta, tassa e contributo</text>
+  <text class="muted subtitle" x="800" y="108" text-anchor="middle">La classificazione minima per non usare come sinonimi parole diverse.</text>
+
+  <rect class="card" x="70" y="160" width="1460" height="640" rx="30"/>
+  <g data-safe-box="585 220 430 125 10">
+    <rect class="softBlue" x="585" y="220" width="430" height="125" rx="22"/>
+    <rect x="585" y="220" width="430" height="10" rx="5" fill="#10233F"/>
+    <text class="navy label" x="800" y="261" text-anchor="middle" style="font-size:23px">Tributo</text>
+    <text class="muted small" x="800" y="294" text-anchor="middle" style="font-size:18px">categoria generale</text>
+<text class="muted small" x="800" y="320" text-anchor="middle" style="font-size:18px">prelievo pubblico previsto dalla legge</text>
+  </g>
+  <path class="line" d="M800 345 L800 415"/>
+  <path class="line" d="M280 415 L1320 415"/>
+  <path class="line" d="M280 415 L280 475"/>
+  <path class="line" d="M800 415 L800 475"/>
+  <path class="line" d="M1320 415 L1320 475"/>
+  <g data-safe-box="120 475 320 250 10">
+    <rect class="softRed" x="120" y="475" width="320" height="250" rx="26"/>
+    <rect x="120" y="475" width="320" height="11" rx="5.5" fill="#7A2430"/>
+    <text class="bordeaux label" x="280" y="527" text-anchor="middle">Imposta</text>
+    <path class="thin" d="M162 557 L398 557"/>
+    <circle cx="175" cy="594" r="6" fill="#D4AF37"/><text class="ink body" x="197" y="601" style="font-size:17px">capacita contributiva</text>
+<circle cx="175" cy="632" r="6" fill="#D4AF37"/><text class="ink body" x="197" y="639" style="font-size:17px">senza servizio individuale</text>
+<circle cx="175" cy="670" r="6" fill="#D4AF37"/><text class="ink body" x="197" y="677" style="font-size:17px">finanziamento generale</text>
+  </g>
+  <g data-safe-box="640 475 320 250 10">
+    <rect class="softGold" x="640" y="475" width="320" height="250" rx="26"/>
+    <rect x="640" y="475" width="320" height="11" rx="5.5" fill="#D4AF37"/>
+    <text class="gold label" x="800" y="527" text-anchor="middle">Tassa</text>
+    <path class="thin" d="M682 557 L918 557"/>
+    <circle cx="695" cy="594" r="6" fill="#D4AF37"/><text class="ink body" x="717" y="601" style="font-size:17px">servizio pubblico</text>
+<circle cx="695" cy="632" r="6" fill="#D4AF37"/><text class="ink body" x="717" y="639" style="font-size:17px">attivita amministrativa</text>
+<circle cx="695" cy="670" r="6" fill="#D4AF37"/><text class="ink body" x="717" y="677" style="font-size:17px">non prezzo privato</text>
+  </g>
+  <g data-safe-box="1160 475 320 250 10">
+    <rect class="softGreen" x="1160" y="475" width="320" height="250" rx="26"/>
+    <rect x="1160" y="475" width="320" height="11" rx="5.5" fill="#2F7D5A"/>
+    <text class="green label" x="1320" y="527" text-anchor="middle">Contributo</text>
+    <path class="thin" d="M1202 557 L1438 557"/>
+    <circle cx="1215" cy="594" r="6" fill="#D4AF37"/><text class="ink body" x="1237" y="601" style="font-size:17px">posizione specifica</text>
+<circle cx="1215" cy="632" r="6" fill="#D4AF37"/><text class="ink body" x="1237" y="639" style="font-size:17px">vantaggio o funzione</text>
+<circle cx="1215" cy="670" r="6" fill="#D4AF37"/><text class="ink body" x="1237" y="677" style="font-size:17px">collegamento particolare</text>
+  </g>
+  <g data-safe-box="250 815 1100 62 10">
+    <rect class="note" x="250" y="815" width="1100" height="62" rx="24"/>
+    <text class="ink body" x="800" y="854" text-anchor="middle" style="font-weight:800;font-size:20px">Nel linguaggio comune tutto diventa tassa; nel concorso la distinzione va mantenuta.</text>
+  </g>
+
+</svg>

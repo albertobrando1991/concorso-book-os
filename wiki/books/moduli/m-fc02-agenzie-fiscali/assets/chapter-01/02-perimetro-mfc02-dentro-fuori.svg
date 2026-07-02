@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Perimetro M-FC02: dentro, fuori, con cautela</title>
+  <desc id="desc">Il modulo guida solo quando il baricentro del bando e fiscale.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; }
+      .softRed { fill: #F8E8EA; stroke: #E3B9BF; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E8D080; stroke-width: 2.5; }
+      .softGreen { fill: #E7F3ED; stroke: #A8D1BD; stroke-width: 2.5; }
+      .softTeal { fill: #E4F4F5; stroke: #A3D5D8; stroke-width: 2.5; }
+      .note { fill: #FFF7ED; stroke: #E7C18E; stroke-width: 2.5; }
+      .ink { fill: #0F172A; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 43px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 22px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 25px; font-weight: 800; letter-spacing: 0; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 18px; }
+      .navy { fill: #10233F; }
+      .bordeaux { fill: #7A2430; }
+      .gold { fill: #D4AF37; }
+      .green { fill: #2F7D5A; }
+      .teal { fill: #1F6F78; }
+      .line { stroke: #94A3B8; stroke-width: 4; stroke-linecap: round; fill: none; }
+      .thin { stroke: #CBD5E1; stroke-width: 2.5; stroke-linecap: round; fill: none; }
+      .arrowNavy { stroke: #10233F; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowNavy); }
+      .arrowGold { stroke: #D4AF37; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGold); }
+      .arrowGreen { stroke: #2F7D5A; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGreen); }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#10233F"/></marker>
+    <marker id="arrowGold" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#D4AF37"/></marker>
+    <marker id="arrowGreen" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2F7D5A"/></marker>
+  </defs>
+  <rect class="bg" width="1600" height="1000"/>
+  <text class="ink title" x="800" y="72" text-anchor="middle">Perimetro M-FC02: dentro, fuori, con cautela</text>
+  <text class="muted subtitle" x="800" y="114" text-anchor="middle">Il modulo guida solo quando il baricentro del bando e fiscale.</text>
+
+  <rect class="card" x="70" y="165" width="1460" height="690" rx="30"/>
+
+  <g data-safe-box="120 250 380 460 8">
+    <rect class="softGreen" x="120" y="250" width="380" height="460" rx="28"/>
+    <rect x="120" y="250" width="380" height="12" rx="6" fill="#2F7D5A"/>
+    <text class="green label" x="310" y="306" text-anchor="middle">Dentro M-FC02</text>
+    <path class="thin" d="M162 336 L458 336"/>
+    <circle cx="182" cy="379" r="5" fill="#D4AF37"/><text class="muted small" x="202" y="385" style="font-size:19px">AE tributario</text>
+<circle cx="182" cy="434" r="5" fill="#D4AF37"/><text class="muted small" x="202" y="440" style="font-size:19px">AE territorio / SPI</text>
+<circle cx="182" cy="489" r="5" fill="#D4AF37"/><text class="muted small" x="202" y="495" style="font-size:19px">ADM dogane, accise</text>
+<circle cx="182" cy="544" r="5" fill="#D4AF37"/><text class="muted small" x="202" y="550" style="font-size:19px">ADM giochi, monopoli</text>
+<circle cx="182" cy="599" r="5" fill="#D4AF37"/><text class="muted small" x="202" y="605" style="font-size:19px">AdER riscossione</text>
+  </g>
+
+  <g data-safe-box="610 250 380 460 8">
+    <rect class="softGold" x="610" y="250" width="380" height="460" rx="28"/>
+    <rect x="610" y="250" width="380" height="12" rx="6" fill="#D4AF37"/>
+    <text class="gold label" x="800" y="306" text-anchor="middle">Con cautela</text>
+    <path class="thin" d="M652 336 L948 336"/>
+    <circle cx="672" cy="379" r="5" fill="#D4AF37"/><text class="muted small" x="692" y="385" style="font-size:19px">gestionale o RU AE</text>
+<circle cx="672" cy="434" r="5" fill="#D4AF37"/><text class="muted small" x="692" y="440" style="font-size:19px">materia fiscale secondaria</text>
+<circle cx="672" cy="489" r="5" fill="#D4AF37"/><text class="muted small" x="692" y="495" style="font-size:19px">profilo misto</text>
+<circle cx="672" cy="544" r="5" fill="#D4AF37"/><text class="muted small" x="692" y="550" style="font-size:19px">contesto fiscale</text>
+<circle cx="672" cy="599" r="5" fill="#D4AF37"/><text class="muted small" x="692" y="605" style="font-size:19px">programma da pesare</text>
+  </g>
+
+  <g data-safe-box="1100 250 380 460 8">
+    <rect class="softRed" x="1100" y="250" width="380" height="460" rx="28"/>
+    <rect x="1100" y="250" width="380" height="12" rx="6" fill="#7A2430"/>
+    <text class="bordeaux label" x="1290" y="306" text-anchor="middle">Fuori perimetro</text>
+    <path class="thin" d="M1142 336 L1438 336"/>
+    <circle cx="1162" cy="379" r="5" fill="#D4AF37"/><text class="muted small" x="1182" y="385" style="font-size:19px">ICT, AI, cybersecurity</text>
+<circle cx="1162" cy="434" r="5" fill="#D4AF37"/><text class="muted small" x="1182" y="440" style="font-size:19px">gare e appalti</text>
+<circle cx="1162" cy="489" r="5" fill="#D4AF37"/><text class="muted small" x="1182" y="495" style="font-size:19px">tecnico puro</text>
+<circle cx="1162" cy="544" r="5" fill="#D4AF37"/><text class="muted small" x="1182" y="550" style="font-size:19px">EPNE non fiscali</text>
+<circle cx="1162" cy="599" r="5" fill="#D4AF37"/><text class="muted small" x="1182" y="605" style="font-size:19px">ministeriale generale</text>
+  </g>
+  <path class="arrowGreen" d="M500 510 L595 510"/>
+  <path class="arrowGold" d="M990 510 L1085 510"/>
+
+  <g data-safe-box="255 790 1090 66 8">
+    <rect class="note" x="255" y="790" width="1090" height="66" rx="24"/>
+    <text class="ink body" x="800" y="831" text-anchor="middle" style="font-weight:800;font-size:20px">La domanda decisiva non e il nome dell'ente, ma la funzione richiesta dal profilo.</text>
+  </g>
+</svg>

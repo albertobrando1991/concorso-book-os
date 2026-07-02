@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Le tre porte di ingresso: AE, ADM, AdER</title>
+  <desc id="desc">Stesso mondo fiscale, funzioni concorsuali diverse.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; }
+      .softRed { fill: #F8E8EA; stroke: #E3B9BF; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E8D080; stroke-width: 2.5; }
+      .softGreen { fill: #E7F3ED; stroke: #A8D1BD; stroke-width: 2.5; }
+      .softTeal { fill: #E4F4F5; stroke: #A3D5D8; stroke-width: 2.5; }
+      .note { fill: #FFF7ED; stroke: #E7C18E; stroke-width: 2.5; }
+      .ink { fill: #0F172A; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 43px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-size: 22px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 25px; font-weight: 800; letter-spacing: 0; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 18px; }
+      .navy { fill: #10233F; }
+      .bordeaux { fill: #7A2430; }
+      .gold { fill: #D4AF37; }
+      .green { fill: #2F7D5A; }
+      .teal { fill: #1F6F78; }
+      .line { stroke: #94A3B8; stroke-width: 4; stroke-linecap: round; fill: none; }
+      .thin { stroke: #CBD5E1; stroke-width: 2.5; stroke-linecap: round; fill: none; }
+      .arrowNavy { stroke: #10233F; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowNavy); }
+      .arrowGold { stroke: #D4AF37; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGold); }
+      .arrowGreen { stroke: #2F7D5A; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGreen); }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#10233F"/></marker>
+    <marker id="arrowGold" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#D4AF37"/></marker>
+    <marker id="arrowGreen" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2F7D5A"/></marker>
+  </defs>
+  <rect class="bg" width="1600" height="1000"/>
+  <text class="ink title" x="800" y="72" text-anchor="middle">Le tre porte di ingresso: AE, ADM, AdER</text>
+  <text class="muted subtitle" x="800" y="114" text-anchor="middle">Stesso mondo fiscale, funzioni concorsuali diverse.</text>
+
+  <rect class="card" x="70" y="165" width="1460" height="690" rx="30"/>
+
+  <g data-safe-box="125 245 380 410 8">
+    <rect class="softBlue" x="125" y="245" width="380" height="410" rx="30"/>
+    <rect x="125" y="245" width="380" height="12" rx="6" fill="#10233F"/>
+    <circle cx="315" cy="330" r="52" fill="#10233F"/>
+    <text class="label" x="315" y="341" text-anchor="middle" fill="#FFFFFF" style="font-size:34px">AE</text>
+    <text class="navy label" x="315" y="411" text-anchor="middle" style="font-size:22px">Agenzia delle Entrate</text>
+    <path class="thin" d="M175 437 L455 437"/>
+    <circle cx="197" cy="477" r="5" fill="#D4AF37"/><text class="muted small" x="217" y="483" style="font-size:19px">tributi</text>
+<circle cx="197" cy="519" r="5" fill="#D4AF37"/><text class="muted small" x="217" y="525" style="font-size:19px">servizi fiscali</text>
+<circle cx="197" cy="561" r="5" fill="#D4AF37"/><text class="muted small" x="217" y="567" style="font-size:19px">accertamento</text>
+<circle cx="197" cy="603" r="5" fill="#D4AF37"/><text class="muted small" x="217" y="609" style="font-size:19px">catasto e SPI</text>
+  </g>
+
+  <g data-safe-box="610 245 380 410 8">
+    <rect class="softRed" x="610" y="245" width="380" height="410" rx="30"/>
+    <rect x="610" y="245" width="380" height="12" rx="6" fill="#7A2430"/>
+    <circle cx="800" cy="330" r="52" fill="#7A2430"/>
+    <text class="label" x="800" y="341" text-anchor="middle" fill="#FFFFFF" style="font-size:34px">ADM</text>
+    <text class="bordeaux label" x="800" y="411" text-anchor="middle" style="font-size:22px">Dogane e Monopoli</text>
+    <path class="thin" d="M660 437 L940 437"/>
+    <circle cx="682" cy="477" r="5" fill="#D4AF37"/><text class="muted small" x="702" y="483" style="font-size:19px">dogane</text>
+<circle cx="682" cy="519" r="5" fill="#D4AF37"/><text class="muted small" x="702" y="525" style="font-size:19px">accise</text>
+<circle cx="682" cy="561" r="5" fill="#D4AF37"/><text class="muted small" x="702" y="567" style="font-size:19px">giochi</text>
+<circle cx="682" cy="603" r="5" fill="#D4AF37"/><text class="muted small" x="702" y="609" style="font-size:19px">controlli su flussi</text>
+  </g>
+
+  <g data-safe-box="1095 245 380 410 8">
+    <rect class="softTeal" x="1095" y="245" width="380" height="410" rx="30"/>
+    <rect x="1095" y="245" width="380" height="12" rx="6" fill="#1F6F78"/>
+    <circle cx="1285" cy="330" r="52" fill="#1F6F78"/>
+    <text class="label" x="1285" y="341" text-anchor="middle" fill="#FFFFFF" style="font-size:34px">AdER</text>
+    <text class="teal label" x="1285" y="411" text-anchor="middle" style="font-size:22px">Entrate-Riscossione</text>
+    <path class="thin" d="M1145 437 L1425 437"/>
+    <circle cx="1167" cy="477" r="5" fill="#D4AF37"/><text class="muted small" x="1187" y="483" style="font-size:19px">cartelle</text>
+<circle cx="1167" cy="519" r="5" fill="#D4AF37"/><text class="muted small" x="1187" y="525" style="font-size:19px">pagamenti</text>
+<circle cx="1167" cy="561" r="5" fill="#D4AF37"/><text class="muted small" x="1187" y="567" style="font-size:19px">rateizzazioni</text>
+<circle cx="1167" cy="603" r="5" fill="#D4AF37"/><text class="muted small" x="1187" y="609" style="font-size:19px">front-office</text>
+  </g>
+  <path class="thin" d="M220 690 L1380 690"/>
+
+  <g data-safe-box="132 709 156 52 4">
+    <rect class="softGold" x="132" y="709" width="156" height="52" rx="22"/>
+    <text class="gold label" x="210" y="743" text-anchor="middle" style="font-size:19px">linguaggio</text>
+  </g>
+
+  <g data-safe-box="392 709 156 52 4">
+    <rect class="softGold" x="392" y="709" width="156" height="52" rx="22"/>
+    <text class="gold label" x="470" y="743" text-anchor="middle" style="font-size:19px">procedura</text>
+  </g>
+
+  <g data-safe-box="652 709 156 52 4">
+    <rect class="softGold" x="652" y="709" width="156" height="52" rx="22"/>
+    <text class="gold label" x="730" y="743" text-anchor="middle" style="font-size:19px">utente</text>
+  </g>
+
+  <g data-safe-box="912 709 156 52 4">
+    <rect class="softGold" x="912" y="709" width="156" height="52" rx="22"/>
+    <text class="gold label" x="990" y="743" text-anchor="middle" style="font-size:19px">controllo</text>
+  </g>
+
+  <g data-safe-box="1172 709 156 52 4">
+    <rect class="softGold" x="1172" y="709" width="156" height="52" rx="22"/>
+    <text class="gold label" x="1250" y="743" text-anchor="middle" style="font-size:19px">output</text>
+  </g>
+
+  <g data-safe-box="295 820 1010 66 8">
+    <rect class="note" x="295" y="820" width="1010" height="66" rx="24"/>
+    <text class="ink body" x="800" y="861" text-anchor="middle" style="font-weight:800;font-size:20px">Le tre porte condividono il nucleo pubblico, ma non le stesse priorita di studio.</text>
+  </g>
+</svg>

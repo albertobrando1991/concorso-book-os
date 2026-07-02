@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Mappa BANDO del Decoder fiscale</title>
+  <desc id="desc">Dal bando AE, ADM o AdER alla scheda operativa: famiglia, priorita, diario e output.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; }
+      .softRed { fill: #F8E8EA; stroke: #E3B9BF; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E8D080; stroke-width: 2.5; }
+      .softGreen { fill: #E7F3ED; stroke: #A8D1BD; stroke-width: 2.5; }
+      .softTeal { fill: #E4F4F5; stroke: #A3D5D8; stroke-width: 2.5; }
+      .note { fill: #FFF7ED; stroke: #E7C18E; stroke-width: 2.5; }
+      .ink { fill: #0F172A; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 43px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 22px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 25px; font-weight: 800; letter-spacing: 0; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 18px; }
+      .navy { fill: #10233F; }
+      .bordeaux { fill: #7A2430; }
+      .gold { fill: #D4AF37; }
+      .green { fill: #2F7D5A; }
+      .teal { fill: #1F6F78; }
+      .line { stroke: #94A3B8; stroke-width: 4; stroke-linecap: round; fill: none; }
+      .thin { stroke: #CBD5E1; stroke-width: 2.5; stroke-linecap: round; fill: none; }
+      .dash { stroke: #94A3B8; stroke-width: 3.5; stroke-linecap: round; stroke-dasharray: 9 10; fill: none; }
+      .arrowNavy { stroke: #10233F; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowNavy); }
+      .arrowBordeaux { stroke: #7A2430; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowBordeaux); }
+      .arrowGold { stroke: #D4AF37; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGold); }
+      .arrowGreen { stroke: #2F7D5A; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGreen); }
+      .arrowTeal { stroke: #1F6F78; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowTeal); }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#10233F"/></marker>
+    <marker id="arrowBordeaux" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#7A2430"/></marker>
+    <marker id="arrowGold" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#D4AF37"/></marker>
+    <marker id="arrowGreen" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2F7D5A"/></marker>
+    <marker id="arrowTeal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1F6F78"/></marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <text class="ink title" x="800" y="68" text-anchor="middle">Mappa BANDO del Decoder fiscale</text>
+  <text class="muted subtitle" x="800" y="108" text-anchor="middle">Dal bando AE, ADM o AdER alla scheda operativa: famiglia, priorita, diario e output.</text>
+
+  <g data-safe-box="575 162 450 120 10">
+    <rect class="card" x="575" y="162" width="450" height="120" rx="22"/>
+    <rect x="575" y="162" width="450" height="10" rx="5" fill="#10233F"/>
+    <text class="navy label" x="800" y="205" text-anchor="middle" style="font-size:25px">Bando fiscale</text>
+    <text class="muted small" x="800" y="238" text-anchor="middle" style="font-size:18px">AE, ADM o AdER</text>
+<text class="muted small" x="800" y="263" text-anchor="middle" style="font-size:18px">profilo e prove</text>
+  </g>
+  <path class="line" d="M800 282 L800 348"/>
+  <path class="line" d="M210 348 L1390 348"/>
+  <path class="line" d="M210 348 L210 440"/>
+  <path class="line" d="M505 348 L505 565"/>
+  <path class="line" d="M800 348 L800 440"/>
+  <path class="line" d="M1095 348 L1095 565"/>
+  <path class="line" d="M1390 348 L1390 440"/>
+  <g data-safe-box="70 440 280 130 10">
+    <rect class="softBlue" x="70" y="440" width="280" height="130" rx="22"/>
+    <rect x="70" y="440" width="280" height="10" rx="5" fill="#10233F"/>
+    <text class="navy label" x="210" y="483" text-anchor="middle" style="font-size:25px">Bando</text>
+    <text class="muted small" x="210" y="516" text-anchor="middle" style="font-size:18px">ente, codice</text>
+<text class="muted small" x="210" y="541" text-anchor="middle" style="font-size:18px">prove e scadenze</text>
+  </g>
+  <g data-safe-box="365 565 280 130 10">
+    <rect class="softRed" x="365" y="565" width="280" height="130" rx="22"/>
+    <rect x="365" y="565" width="280" height="10" rx="5" fill="#7A2430"/>
+    <text class="bordeaux label" x="505" y="608" text-anchor="middle" style="font-size:25px">Aree</text>
+    <text class="muted small" x="505" y="641" text-anchor="middle" style="font-size:18px">comune</text>
+<text class="muted small" x="505" y="666" text-anchor="middle" style="font-size:18px">delta fiscale</text>
+  </g>
+  <g data-safe-box="660 440 280 130 10">
+    <rect class="softGold" x="660" y="440" width="280" height="130" rx="22"/>
+    <rect x="660" y="440" width="280" height="10" rx="5" fill="#D4AF37"/>
+    <text class="gold label" x="800" y="483" text-anchor="middle" style="font-size:25px">Nuclei</text>
+    <text class="muted small" x="800" y="516" text-anchor="middle" style="font-size:18px">tributi, dogane</text>
+<text class="muted small" x="800" y="541" text-anchor="middle" style="font-size:18px">riscossione, catasto</text>
+  </g>
+  <g data-safe-box="955 565 280 130 10">
+    <rect class="softGreen" x="955" y="565" width="280" height="130" rx="22"/>
+    <rect x="955" y="565" width="280" height="10" rx="5" fill="#2F7D5A"/>
+    <text class="green label" x="1095" y="608" text-anchor="middle" style="font-size:25px">Diario</text>
+    <text class="muted small" x="1095" y="641" text-anchor="middle" style="font-size:18px">dubbi ufficiali</text>
+<text class="muted small" x="1095" y="666" text-anchor="middle" style="font-size:18px">errori e rischi</text>
+  </g>
+  <g data-safe-box="1250 440 280 130 10">
+    <rect class="softTeal" x="1250" y="440" width="280" height="130" rx="22"/>
+    <rect x="1250" y="440" width="280" height="10" rx="5" fill="#1F6F78"/>
+    <text class="teal label" x="1390" y="483" text-anchor="middle" style="font-size:25px">Output</text>
+    <text class="muted small" x="1390" y="516" text-anchor="middle" style="font-size:18px">quiz, caso</text>
+<text class="muted small" x="1390" y="541" text-anchor="middle" style="font-size:18px">orale, checklist</text>
+  </g>
+  <g data-safe-box="250 782 1100 64 10">
+    <rect class="note" x="250" y="782" width="1100" height="64" rx="24"/>
+    <text class="ink body" x="800" y="822" text-anchor="middle" style="font-weight:800;font-size:20px">Il Decoder fiscale non copia il bando: lo trasforma in classificazione, priorita e azione.</text>
+  </g>
+
+</svg>

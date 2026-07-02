@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Dalla teoria alle fonti operative</title>
+  <desc id="desc">TUIR, IVA, accertamento e riscossione come mappe diverse dello stesso rapporto.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; }
+      .softRed { fill: #F8E8EA; stroke: #E3B9BF; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E8D080; stroke-width: 2.5; }
+      .softGreen { fill: #E7F3ED; stroke: #A8D1BD; stroke-width: 2.5; }
+      .softTeal { fill: #E4F4F5; stroke: #A3D5D8; stroke-width: 2.5; }
+      .note { fill: #FFF7ED; stroke: #E7C18E; stroke-width: 2.5; }
+      .ink { fill: #0F172A; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 43px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 22px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 24px; font-weight: 800; letter-spacing: 0; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 18px; }
+      .navy { fill: #10233F; }
+      .bordeaux { fill: #7A2430; }
+      .gold { fill: #D4AF37; }
+      .green { fill: #2F7D5A; }
+      .teal { fill: #1F6F78; }
+      .line { stroke: #94A3B8; stroke-width: 4; stroke-linecap: round; fill: none; }
+      .thin { stroke: #CBD5E1; stroke-width: 2.5; stroke-linecap: round; fill: none; }
+      .arrowNavy { stroke: #10233F; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowNavy); }
+      .arrowBordeaux { stroke: #7A2430; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowBordeaux); }
+      .arrowGold { stroke: #D4AF37; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGold); }
+      .arrowGreen { stroke: #2F7D5A; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGreen); }
+      .arrowTeal { stroke: #1F6F78; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowTeal); }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#10233F"/></marker>
+    <marker id="arrowBordeaux" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#7A2430"/></marker>
+    <marker id="arrowGold" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#D4AF37"/></marker>
+    <marker id="arrowGreen" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2F7D5A"/></marker>
+    <marker id="arrowTeal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1F6F78"/></marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <text class="ink title" x="800" y="68" text-anchor="middle">Dalla teoria alle fonti operative</text>
+  <text class="muted subtitle" x="800" y="108" text-anchor="middle">TUIR, IVA, accertamento e riscossione come mappe diverse dello stesso rapporto.</text>
+
+  <rect class="card" x="70" y="160" width="1460" height="640" rx="30"/>
+  <g data-safe-box="575 208 450 96 10">
+    <rect class="softBlue" x="575" y="208" width="450" height="96" rx="24"/>
+    <rect x="575" y="208" width="450" height="10" rx="5" fill="#10233F"/>
+    <text class="navy label" x="800" y="247" text-anchor="middle" style="font-size:23px">Teoria dell'imposta</text>
+    <text class="muted small" x="800" y="278" text-anchor="middle" style="font-size:17px">concetti stabili per leggere fonti e procedure</text>
+  </g>
+  <path class="line" d="M800 304 L800 365"/>
+  <path class="line" d="M285 365 L1315 365"/>
+  <path class="line" d="M285 365 L285 445"/>
+  <path class="line" d="M628 365 L628 445"/>
+  <path class="line" d="M972 365 L972 445"/>
+  <path class="line" d="M1315 365 L1315 445"/>
+  <g data-safe-box="120 445 285 255 10">
+    <rect class="softBlue" x="120" y="445" width="285" height="255" rx="26"/>
+    <rect x="120" y="445" width="285" height="11" rx="5.5" fill="#10233F"/>
+    <text class="navy label" x="262.5" y="497" text-anchor="middle" style="font-size:25px">TUIR</text>
+    <circle cx="165" cy="545" r="6" fill="#D4AF37"/><text class="ink body" x="187" y="552" style="font-size:17px">soggetti</text>
+<circle cx="165" cy="583" r="6" fill="#D4AF37"/><text class="ink body" x="187" y="590" style="font-size:17px">redditi</text>
+<circle cx="165" cy="621" r="6" fill="#D4AF37"/><text class="ink body" x="187" y="628" style="font-size:17px">categorie</text>
+    <rect x="186" y="640" width="153" height="42" rx="17" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2"/>
+    <text class="ink small" x="262.5" y="667" text-anchor="middle" style="font-weight:800;font-size:17px">cap. 6</text>
+  </g>
+  <g data-safe-box="462 445 285 255 10">
+    <rect class="softRed" x="462" y="445" width="285" height="255" rx="26"/>
+    <rect x="462" y="445" width="285" height="11" rx="5.5" fill="#7A2430"/>
+    <text class="bordeaux label" x="604.5" y="497" text-anchor="middle" style="font-size:25px">IVA</text>
+    <circle cx="507" cy="545" r="6" fill="#D4AF37"/><text class="ink body" x="529" y="552" style="font-size:17px">operazioni</text>
+<circle cx="507" cy="583" r="6" fill="#D4AF37"/><text class="ink body" x="529" y="590" style="font-size:17px">rivalsa</text>
+<circle cx="507" cy="621" r="6" fill="#D4AF37"/><text class="ink body" x="529" y="628" style="font-size:17px">detrazione</text>
+    <rect x="528" y="640" width="153" height="42" rx="17" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2"/>
+    <text class="ink small" x="604.5" y="667" text-anchor="middle" style="font-weight:800;font-size:17px">cap. 6</text>
+  </g>
+  <g data-safe-box="805 445 285 255 10">
+    <rect class="softGold" x="805" y="445" width="285" height="255" rx="26"/>
+    <rect x="805" y="445" width="285" height="11" rx="5.5" fill="#D4AF37"/>
+    <text class="gold label" x="947.5" y="497" text-anchor="middle" style="font-size:25px">Accertamento</text>
+    <circle cx="850" cy="545" r="6" fill="#D4AF37"/><text class="ink body" x="872" y="552" style="font-size:17px">controllo</text>
+<circle cx="850" cy="583" r="6" fill="#D4AF37"/><text class="ink body" x="872" y="590" style="font-size:17px">poteri</text>
+<circle cx="850" cy="621" r="6" fill="#D4AF37"/><text class="ink body" x="872" y="628" style="font-size:17px">atti</text>
+    <rect x="871" y="640" width="153" height="42" rx="17" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2"/>
+    <text class="ink small" x="947.5" y="667" text-anchor="middle" style="font-weight:800;font-size:17px">cap. 5</text>
+  </g>
+  <g data-safe-box="1148 445 285 255 10">
+    <rect class="softGreen" x="1148" y="445" width="285" height="255" rx="26"/>
+    <rect x="1148" y="445" width="285" height="11" rx="5.5" fill="#2F7D5A"/>
+    <text class="green label" x="1290.5" y="497" text-anchor="middle" style="font-size:25px">Riscossione</text>
+    <circle cx="1193" cy="545" r="6" fill="#D4AF37"/><text class="ink body" x="1215" y="552" style="font-size:17px">cartella</text>
+<circle cx="1193" cy="583" r="6" fill="#D4AF37"/><text class="ink body" x="1215" y="590" style="font-size:17px">pagamento</text>
+<circle cx="1193" cy="621" r="6" fill="#D4AF37"/><text class="ink body" x="1215" y="628" style="font-size:17px">rateizzazione</text>
+    <rect x="1214" y="640" width="153" height="42" rx="17" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2"/>
+    <text class="ink small" x="1290.5" y="667" text-anchor="middle" style="font-weight:800;font-size:17px">cap. 7</text>
+  </g>
+  <g data-safe-box="245 815 1110 62 10">
+    <rect class="note" x="245" y="815" width="1110" height="62" rx="24"/>
+    <text class="ink body" x="800" y="854" text-anchor="middle" style="font-weight:800;font-size:20px">La teoria non chiude l'argomento: prepara la lettura dei capitoli operativi successivi.</text>
+  </g>
+
+</svg>

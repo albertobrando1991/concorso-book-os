@@ -34,6 +34,7 @@ type HomeProps = {
   searchParams?: Promise<{
     source?: string | string[]
     bookId?: string | string[]
+    chapterPath?: string | string[]
   }>
 }
 
@@ -56,6 +57,7 @@ export default async function Home({ searchParams }: HomeProps) {
   const store = new FileWikiStore(getWikiRoot())
   const params = searchParams ? await searchParams : {}
   const requestedBookId = firstParam(params.bookId) || DEFAULT_BOOK_ID
+  const requestedChapterPath = firstParam(params.chapterPath)
   const chapters = await new ManualWriterAgent(store).listChapters(requestedBookId)
   const graph = await buildKnowledgeGraph(store)
   const bookStudio = await buildBookStudioData(store, requestedBookId)
@@ -118,6 +120,7 @@ export default async function Home({ searchParams }: HomeProps) {
 
         <BookStudioPanel
           initialData={bookStudio}
+          initialChapterPath={requestedChapterPath}
           writerProvider={writerConfig.provider}
           writerModel={writerConfig.writerModel}
           writerReasoningEffort={writerConfig.writerReasoningEffort}

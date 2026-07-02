@@ -18,6 +18,7 @@ import type { WriterProvider } from "@/src/server/config"
 
 interface BookStudioPanelProps {
   initialData: BookStudioData
+  initialChapterPath?: string
   writerProvider: WriterProvider
   writerModel: string
   writerReasoningEffort: string
@@ -51,9 +52,10 @@ const FIRST_PAGE_HEADER_COST = 150
 const RUNNING_HEADER_COST = 34
 const FRONT_MATTER_FIRST_PAGE_COST = 96
 const FRONT_MATTER_RUNNING_PAGE_COST = 66
-const MAIN_PAGE_FALLBACK_BUDGET = 1000
-const FRONT_MATTER_PAGE_BUDGET = 940
-const PAGE_MEASURE_GUARD_SPACE = 8
+const MAIN_PAGE_FALLBACK_BUDGET = 920
+const FRONT_MATTER_PAGE_BUDGET = 835
+const PAGE_MEASURE_GUARD_SPACE = 180
+const PAGE_RENDER_GUARD_SPACE = 10
 
 const modeOptions: Array<{ value: ManualWriterMode; label: string }> = [
   { value: "integrate", label: "Integra richiesta" },
@@ -74,12 +76,13 @@ const providerOptions: Array<{ value: WriterProvider; label: string }> = [
 
 export function BookStudioPanel({
   initialData,
+  initialChapterPath,
   writerProvider,
   writerModel,
   writerReasoningEffort
 }: BookStudioPanelProps) {
   const [data, setData] = useState(initialData)
-  const [selectedPath, setSelectedPath] = useState(initialData.chapters[0]?.path || "")
+  const [selectedPath, setSelectedPath] = useState(getInitialChapterPath(initialData, initialChapterPath))
   const [viewMode, setViewMode] = useState<ViewMode>("chapter")
   const [writerMode, setWriterMode] = useState<ManualWriterMode>("integrate")
   const [selectedProvider, setSelectedProvider] = useState<WriterProvider>(writerProvider)
@@ -122,18 +125,27 @@ export function BookStudioPanel({
   )
   const estimatedPages = useMemo(() => paginateChapters(previewChapters), [previewChapters])
   const measureRef = useRef<HTMLDivElement>(null)
+  const bookPagesRef = useRef<HTMLDivElement>(null)
   const [measuredPages, setMeasuredPages] = useState<PreviewPage[] | null>(null)
   const previewPages = measuredPages || estimatedPages
 
   useEffect(() => {
     setData(initialData)
-    setSelectedPath(initialData.chapters[0]?.path || "")
+    setSelectedPath(getInitialChapterPath(initialData, initialChapterPath))
     setViewMode("chapter")
     setMessage("")
     setError("")
     setLastResult(null)
     setMeasuredPages(null)
-  }, [initialData.bookId])
+  }, [initialData.bookId, initialChapterPath])
+
+  const openChapter = useCallback((chapter: BookStudioChapter, event?: React.MouseEvent<HTMLAnchorElement>) => {
+    event?.preventDefault()
+    setSelectedPath(chapter.path)
+    setViewMode("chapter")
+    setMeasuredPages(null)
+    window.history.replaceState(null, "", chapterStudioHref(data.bookId, chapter.path))
+  }, [data.bookId])
 
   useLayoutEffect(() => {
     setMeasuredPages(null)
@@ -170,13 +182,29 @@ export function BookStudioPanel({
         })
       }
     })
+    window.addEventListener("resize", measurePages)
 
     return () => {
       cancelled = true
       window.cancelAnimationFrame(animationFrame)
+      window.removeEventListener("resize", measurePages)
       cleanupImageListeners?.()
     }
   }, [previewChapters])
+
+  useLayoutEffect(() => {
+    if (!measuredPages) return
+
+    const animationFrame = window.requestAnimationFrame(() => {
+      const refined = refineRenderedPageOverflows(measuredPages, bookPagesRef.current)
+
+      if (refined !== measuredPages) {
+        setMeasuredPages(refined)
+      }
+    })
+
+    return () => window.cancelAnimationFrame(animationFrame)
+  }, [measuredPages])
 
   const refreshStudio = useCallback(async (preferredPath = selectedPath, nextMessage = "") => {
     setIsRefreshing(true)
@@ -391,13 +419,11 @@ export function BookStudioPanel({
             <p className="tocSectionLabel">Volume principale</p>
             {mainChapters.map((chapter) => (
               <ChapterTocButton
+                bookId={data.bookId}
                 chapter={chapter}
                 isActive={chapter.path === selectedChapter?.path}
                 key={chapter.path}
-                onSelect={() => {
-                  setSelectedPath(chapter.path)
-                  setViewMode("chapter")
-                }}
+                onSelect={openChapter}
               />
             ))}
             {ricettarioChapters.length > 0 ? (
@@ -405,13 +431,11 @@ export function BookStudioPanel({
                 <p className="tocSectionLabel tocSectionLabelRicettario">Ricettario digitale</p>
                 {ricettarioChapters.map((chapter) => (
                   <ChapterTocButton
+                    bookId={data.bookId}
                     chapter={chapter}
                     isActive={chapter.path === selectedChapter?.path}
                     key={chapter.path}
-                    onSelect={() => {
-                      setSelectedPath(chapter.path)
-                      setViewMode("chapter")
-                    }}
+                    onSelect={openChapter}
                   />
                 ))}
               </>
@@ -435,9 +459,9 @@ export function BookStudioPanel({
             </div>
           ) : null}
 
-          <div className="bookPages" aria-label="Preview manuale editoriale paginata">
+          <div className="bookPages" aria-label="Preview manuale editoriale paginata" ref={bookPagesRef}>
             {previewPages.map((page) => (
-              <BookPagePreview page={page} key={`${page.chapter.path}-${page.chapterPageNumber}`} />
+              <BookPagePreview bookId={data.bookId} page={page} key={`${page.chapter.path}-${page.chapterPageNumber}`} />
             ))}
           </div>
 
@@ -474,7 +498,7 @@ export function BookStudioPanel({
                   <div className="previewBlocks">
                     {chapter.blocks.map((block, index) => (
                       <div className="paginationMeasureBlock" data-block-index={index} key={`${chapter.path}-measure-${index}`}>
-                        <PreviewBlock block={block} />
+                        <PreviewBlock block={block} bookId={data.bookId} />
                       </div>
                     ))}
                   </div>
@@ -595,6 +619,18 @@ export function BookStudioPanel({
   )
 }
 
+function getInitialChapterPath(data: BookStudioData, requestedPath?: string) {
+  if (requestedPath && data.chapters.some((chapter) => chapter.path === requestedPath)) {
+    return requestedPath
+  }
+
+  return data.chapters[0]?.path || ""
+}
+
+function chapterStudioHref(bookId: string, chapterPath: string) {
+  return `/?bookId=${encodeURIComponent(bookId)}&chapterPath=${encodeURIComponent(chapterPath)}#studio`
+}
+
 function RevisionDiffPanel({ result }: { result: WriterResult }) {
   const diff = result.revisionDiff
   if (!diff) return null
@@ -665,23 +701,30 @@ function revisionResultMessage(result: WriterResult) {
 }
 
 function ChapterTocButton({
+  bookId,
   chapter,
   isActive,
   onSelect
 }: {
+  bookId: string
   chapter: BookStudioChapter
   isActive: boolean
-  onSelect: () => void
+  onSelect: (chapter: BookStudioChapter, event: React.MouseEvent<HTMLAnchorElement>) => void
 }) {
   return (
-    <button className={isActive ? "chapterButton active" : "chapterButton"} onClick={onSelect}>
+    <a
+      href={chapterStudioHref(bookId, chapter.path)}
+      className={isActive ? "chapterButton active" : "chapterButton"}
+      onClick={(event) => onSelect(chapter, event)}
+      aria-current={isActive ? "page" : undefined}
+    >
       <span>{sectionLabel(chapter)}</span>
       <small>
         {chapterStateLabel(chapter.contentState)}
         {" | "}
         {chapter.wordCount} parole
       </small>
-    </button>
+    </a>
   )
 }
 
@@ -730,11 +773,11 @@ function Stat({ label, value }: { label: string; value: number }) {
   )
 }
 
-function BookPagePreview({ page }: { page: PreviewPage }) {
+function BookPagePreview({ bookId, page }: { bookId: string; page: PreviewPage }) {
   const { chapter } = page
 
   if (chapter.sectionType === "front_matter") {
-    return <FrontMatterPagePreview page={page} />
+    return <FrontMatterPagePreview bookId={bookId} page={page} />
   }
 
   return (
@@ -756,7 +799,7 @@ function BookPagePreview({ page }: { page: PreviewPage }) {
 
       <div className="previewBlocks">
         {page.blocks.map((block, index) => (
-          <PreviewBlock block={block} key={`${chapter.path}-${page.chapterPageNumber}-${index}`} />
+          <PreviewBlock block={block} bookId={bookId} key={`${chapter.path}-${page.chapterPageNumber}-${index}`} />
         ))}
       </div>
 
@@ -768,12 +811,12 @@ function BookPagePreview({ page }: { page: PreviewPage }) {
   )
 }
 
-function FrontMatterPagePreview({ page }: { page: PreviewPage }) {
+function FrontMatterPagePreview({ bookId, page }: { bookId: string; page: PreviewPage }) {
   const { chapter } = page
   const layoutClass = frontMatterLayoutClass(chapter.frontMatterLayout)
 
   if (chapter.frontMatterLayout === "digital-services") {
-    return <DigitalServicesPagePreview page={page} layoutClass={layoutClass} />
+    return <DigitalServicesPagePreview bookId={bookId} page={page} layoutClass={layoutClass} />
   }
 
   return (
@@ -788,7 +831,7 @@ function FrontMatterPagePreview({ page }: { page: PreviewPage }) {
       <div className="frontMatterBrand">Capitale Personale</div>
       <div className="previewBlocks frontMatterBlocks">
         {page.blocks.map((block, index) => (
-          <PreviewBlock block={block} key={`${chapter.path}-${page.chapterPageNumber}-${index}`} />
+          <PreviewBlock block={block} bookId={bookId} key={`${chapter.path}-${page.chapterPageNumber}-${index}`} />
         ))}
       </div>
 
@@ -804,7 +847,7 @@ function FrontMatterPagePreview({ page }: { page: PreviewPage }) {
   )
 }
 
-function DigitalServicesPagePreview({ page, layoutClass }: { page: PreviewPage; layoutClass: string }) {
+function DigitalServicesPagePreview({ bookId, page, layoutClass }: { bookId: string; page: PreviewPage; layoutClass: string }) {
   const imageIndex = page.blocks.findIndex((block) => block.type === "image")
   const heroBlocks = imageIndex >= 0 ? page.blocks.slice(0, imageIndex) : page.blocks.slice(0, 2)
   const imageBlock = imageIndex >= 0 ? page.blocks[imageIndex] : undefined
@@ -815,19 +858,19 @@ function DigitalServicesPagePreview({ page, layoutClass }: { page: PreviewPage; 
       <div className="digitalServicesHero">
         <div className="digitalHeroCopy">
           {heroBlocks.map((block, index) => (
-            <PreviewBlock block={block} key={`${page.chapter.path}-hero-${index}`} />
+            <PreviewBlock block={block} bookId={bookId} key={`${page.chapter.path}-hero-${index}`} />
           ))}
         </div>
         {imageBlock ? (
           <div className="digitalQrBox">
-            <PreviewBlock block={imageBlock} />
+            <PreviewBlock block={imageBlock} bookId={bookId} />
           </div>
         ) : null}
       </div>
 
       <div className="previewBlocks digitalServicesContent">
         {bodyBlocks.map((block, index) => (
-          <PreviewBlock block={block} key={`${page.chapter.path}-${page.chapterPageNumber}-${index}`} />
+          <PreviewBlock block={block} bookId={bookId} key={`${page.chapter.path}-${page.chapterPageNumber}-${index}`} />
         ))}
       </div>
 
@@ -845,7 +888,7 @@ function frontMatterLayoutClass(value: string) {
   return normalized ? `frontMatter-${normalized}` : "frontMatter-standard"
 }
 
-function PreviewBlock({ block }: { block: MarkdownBlock }) {
+function PreviewBlock({ block, bookId }: { block: MarkdownBlock; bookId?: string }) {
   if (block.type === "heading") {
     if ((block.level || 2) <= 2) return <h3>{block.text}</h3>
     if (block.level === 3) return <h4>{block.text}</h4>
@@ -863,12 +906,26 @@ function PreviewBlock({ block }: { block: MarkdownBlock }) {
   }
 
   if (block.type === "index-chapter") {
-    return (
-      <div className="indexLine indexChapterLine">
+    const content = (
+      <>
         <span className="indexChapterLabel">{block.number}</span>
         <span className="indexLineTitle">{block.text}</span>
         <span className="indexLeader" aria-hidden />
         <span className="indexPageNumber">{block.pageNumber}</span>
+      </>
+    )
+
+    if (bookId && block.path) {
+      return (
+        <a className="indexLine indexChapterLine" href={chapterStudioHref(bookId, block.path)}>
+          {content}
+        </a>
+      )
+    }
+
+    return (
+      <div className="indexLine indexChapterLine">
+        {content}
       </div>
     )
   }
@@ -1056,7 +1113,7 @@ function assetUrl(value: string) {
 }
 
 function isRenderableAssetPath(value: string) {
-  return value.startsWith("raw/assets/") || /^books\/[a-z0-9-]+\/assets\//.test(value)
+  return value.startsWith("raw/assets/") || /^books\/(?:[a-z0-9-]+\/)*[a-z0-9-]+\/assets\//.test(value)
 }
 
 function formatDate(value: string) {
@@ -1093,6 +1150,16 @@ function paginateMeasuredChapters(chapters: BookStudioChapter[], root: HTMLDivEl
   const measurePage = root.querySelector<HTMLElement>(".paginationMeasurePage")
   if (!measurePage) return []
 
+  const renderedPage = root.ownerDocument.querySelector<HTMLElement>(".bookPages > .bookPage")
+  const renderedPageRect = renderedPage?.getBoundingClientRect()
+  if (renderedPageRect && renderedPageRect.width > 0 && renderedPageRect.height > 0) {
+    measurePage.style.width = `${Math.round(renderedPageRect.width)}px`
+    measurePage.style.height = `${Math.round(renderedPageRect.height)}px`
+  } else {
+    measurePage.style.removeProperty("width")
+    measurePage.style.removeProperty("height")
+  }
+
   const pageStyle = window.getComputedStyle(measurePage)
   const pageHeight = measurePage.getBoundingClientRect().height
   const pageBudget = Math.max(
@@ -1125,7 +1192,9 @@ function paginateMeasuredChapters(chapters: BookStudioChapter[], root: HTMLDivEl
     const firstHeaderHeight = outerHeight(chapterElement.querySelector<HTMLElement>(".paginationFirstHeader")) || FIRST_PAGE_HEADER_COST
     const runningHeaderHeight = outerHeight(chapterElement.querySelector<HTMLElement>(".paginationRunningHeader")) || RUNNING_HEADER_COST
     const blockElements = Array.from(chapterElement.querySelectorAll<HTMLElement>(".paginationMeasureBlock"))
-    const blockHeights = chapter.blocks.map((block, index) => Math.ceil(outerHeight(blockElements[index]) || estimateBlockCost(block)))
+    const blockHeights = chapter.blocks.map((block, index) =>
+      Math.ceil(outerHeight(blockElements[index]) || estimateBlockCost(block)) + layoutSafetyCost(block)
+    )
     const chapterPages = paginateBlocksByHeight(chapter, blockHeights, pageBudget, firstHeaderHeight, runningHeaderHeight)
 
     for (const page of chapterPages) {
@@ -1134,6 +1203,70 @@ function paginateMeasuredChapters(chapters: BookStudioChapter[], root: HTMLDivEl
   })
 
   return pages
+}
+
+function refineRenderedPageOverflows(pages: PreviewPage[], root: HTMLDivElement | null): PreviewPage[] {
+  if (!root) return pages
+
+  const pageElements = Array.from(root.querySelectorAll<HTMLElement>(".bookPage"))
+  const nextPages = pages.map((page) => ({
+    ...page,
+    blocks: [...page.blocks]
+  }))
+
+  for (let index = 0; index < Math.min(pageElements.length, nextPages.length); index += 1) {
+    const pageElement = pageElements[index]
+    const previewBlocks = pageElement.querySelector<HTMLElement>(".previewBlocks")
+    const footer = pageElement.querySelector<HTMLElement>(".pageFooter")
+    const blockElements = Array.from(previewBlocks?.children || []) as HTMLElement[]
+
+    if (!footer || blockElements.length === 0) continue
+
+    const safeBottom = footer.getBoundingClientRect().top - PAGE_RENDER_GUARD_SPACE
+    const firstOverflowIndex = blockElements.findIndex(
+      (blockElement) => blockElement.getBoundingClientRect().bottom > safeBottom
+    )
+
+    if (firstOverflowIndex <= 0) continue
+
+    const movedBlocks = nextPages[index].blocks.splice(firstOverflowIndex)
+
+    if (movedBlocks.length === 0) continue
+
+    const targetIndex = index + 1
+
+    if (nextPages[targetIndex]?.chapter.path === nextPages[index].chapter.path) {
+      nextPages[targetIndex].blocks.unshift(...movedBlocks)
+    } else {
+      nextPages.splice(targetIndex, 0, {
+        chapter: nextPages[index].chapter,
+        blocks: movedBlocks,
+        pageNumber: 0,
+        chapterPageNumber: 0,
+        isFirstPage: false
+      })
+    }
+
+    return renumberPreviewPages(nextPages)
+  }
+
+  return pages
+}
+
+function renumberPreviewPages(pages: PreviewPage[]): PreviewPage[] {
+  const chapterPageCounts = new Map<string, number>()
+
+  return pages.map((page, index) => {
+    const chapterPageNumber = (chapterPageCounts.get(page.chapter.path) || 0) + 1
+    chapterPageCounts.set(page.chapter.path, chapterPageNumber)
+
+    return {
+      ...page,
+      pageNumber: index + 1,
+      chapterPageNumber,
+      isFirstPage: chapterPageNumber === 1
+    }
+  })
 }
 
 function paginateBlocksByHeight(
@@ -1233,8 +1366,10 @@ function paginateBlocks(chapter: BookStudioChapter): Array<Omit<PreviewPage, "pa
   for (let index = 0; index < chapter.blocks.length; index += 1) {
     const block = chapter.blocks[index]
     const nextBlock = chapter.blocks[index + 1]
-    const cost = estimateBlockCost(block)
-    const keepWithNextCost = shouldKeepWithNext(block, nextBlock) ? estimateBlockCost(nextBlock) : 0
+    const cost = estimateBlockCost(block) + layoutSafetyCost(block)
+    const keepWithNextCost = shouldKeepWithNext(block, nextBlock)
+      ? estimateBlockCost(nextBlock) + layoutSafetyCost(nextBlock)
+      : 0
     const budget = chapter.sectionType === "front_matter" ? FRONT_MATTER_PAGE_BUDGET : MAIN_PAGE_FALLBACK_BUDGET
 
     if (blocks.length > 0 && used + cost + keepWithNextCost > budget) {
@@ -1344,6 +1479,18 @@ function estimateBlockCost(block: MarkdownBlock) {
   }
 
   return 36
+}
+
+function layoutSafetyCost(block?: MarkdownBlock) {
+  if (!block) return 0
+
+  if (block.type === "image") return 64
+  if (block.type === "table") return 56
+  if (block.type === "paragraph") return 12
+  if (block.type === "list") return 16
+  if (block.type === "callout" || block.type === "code") return 18
+
+  return 8
 }
 
 function wordCount(value: string) {

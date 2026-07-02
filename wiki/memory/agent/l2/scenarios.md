@@ -621,3 +621,38 @@
 - l0: l0/conv-20260701110454-1epn91o.md
 - atoms:
   - mem-20260701110454-kr0dhf | result | Esito EditorialReviewerAgent.runReview: bookId=moduli/m-tr04-ambiente-protezione-civile scope=full aspect=full -> Revisione editoriale completata su moduli/m-tr04-ambiente-protezione-civile.
+## 2026-07-02T16:37:06.612Z - manual-writer
+
+- conversation_id: conv-20260702163706-1t4oml3
+- route: ManualWriterAgent.writeChapter
+- l0: l0/conv-20260702163706-1t4oml3.md
+- atoms:
+  - mem-20260702163706-1pr3th0 | workflow | PRODEGUI CON IL SECONDO CAPITOLO DEL LIBRO
+  - mem-20260702163706-1izkerd | result | Esito ManualWriterAgent.writeChapter: PRODEGUI CON IL SECONDO CAPITOLO DEL LIBRO -> M-FC02 capitolo 2 Bando Decoder fiscale completato in professional draft: trasformata la scheda source-ready in capitolo workbook da 444 righe con apertura editoriale, mappa BANDO, regole di compilazione, pagine opera...
+
+## 2026-07-02T17:24:56.314Z - manual-writer
+
+- conversation_id: conv-20260702172456-1es68u
+- route: codex/editorial-images/mfc02-chapter02
+- l0: l0/conv-20260702172456-1es68u.md
+- atoms:
+  - mem-20260702172456-xesxf9 | workflow | Integra immagini editoriali coerenti nel capitolo 2 M-FC02 Bando Decoder fiscale, con layout senza sovrapposizioni.
+  - mem-20260702172456-jajyrm | result | Esito codex/editorial-images/mfc02-chapter02: Integra immagini editoriali coerenti nel capitolo 2 M-FC02 Bando Decoder fiscale, con layout senza sovrapposizioni. -> Creati 5 asset SVG/PNG 1600x900 in stile libro base per il capitolo 2 M-FC02, inseriti nel markdown e verificati nel Book Studio.
+
+## 2026-07-02T17:26:18.733Z - manual-writer
+
+- conversation_id: conv-20260702172618-1am96gi
+- route: codex/editorial-images/mfc02-chapter02-correction
+- l0: l0/conv-20260702172618-1am96gi.md
+- atoms:
+  - mem-20260702172618-86ux49 | workflow | Correggi dettaglio memoria intervento immagini M-FC02 capitolo 2.
+  - mem-20260702172618-1a63obw | result | Esito codex/editorial-images/mfc02-chapter02-correction: Correggi dettaglio memoria intervento immagini M-FC02 capitolo 2. -> Correzione dettaglio: nel Book Studio il valore finale effettivo di PAGE_MEASURE_GUARD_SPACE per la paginazione misurata e 180.
+
+## 2026-07-02T17:42:54.296Z - manual-writer
+
+- conversation_id: conv-20260702174254-2ptyt9
+- route: codex/manual-writer/mfc02-chapter03
+- l0: l0/conv-20260702174254-2ptyt9.md
+- atoms:
+  - mem-20260702174254-iq6giv | instruction | Redigere il terzo capitolo del modulo M-FC02 con stile accademico/manualistico, fonti consolidate e struttura dei capitoli esistenti.
+  - mem-20260702174254-14g79zt | result | Esito codex/manual-writer/mfc02-chapter03: Redigere il terzo capitolo del modulo M-FC02 con stile accademico/manualistico, fonti consolidate e struttura dei capitoli esistenti. -> M-FC02 capitolo 3 completato in professional draft: ordinamento e organizzazione di Agenzia delle Entrate, ADM e Agenzia delle entrate-Riscossione; D.Lgs.

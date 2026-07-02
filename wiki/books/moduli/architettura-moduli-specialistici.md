@@ -56,7 +56,7 @@ Il file esterno "NUOVA ARCHITETTURA PROGETTO LIBRO.txt" contiene etichette numer
 | Famiglia | Codice | Modulo | Fase | Stato |
 | --- | --- | --- | --- | --- |
 | Funzioni Centrali | M-FC01 | [[books/moduli/m-fc01-ministeri/index|Ministeri e Presidenza del Consiglio]] | 2 | scaffold |
-| Funzioni Centrali | M-FC02 | [[books/moduli/m-fc02-agenzie-fiscali/index|Agenzie fiscali]] | 2 | scaffold |
+| Funzioni Centrali | M-FC02 | [[books/moduli/m-fc02-agenzie-fiscali/index|Agenzie fiscali]] | 2 | source_ready |
 | Funzioni Centrali | M-FC03 | [[books/moduli/m-fc03-enti-non-economici/index|Enti pubblici non economici]] | 1 | scaffold |
 | Funzioni Centrali | M-FC04 | [[books/moduli/m-fc04-giustizia/index|Giustizia]] | 3 | scaffold |
 | Funzioni Centrali | M-FC05 | [[books/moduli/m-fc05-authority-indipendenti/index|Authority indipendenti]] | 4 | scaffold |

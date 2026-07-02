@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Mappa BANDO del diritto tributario</title>
+  <desc id="desc">Dal programma fiscale alla mappa minima per quiz, orale e casi.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; }
+      .softRed { fill: #F8E8EA; stroke: #E3B9BF; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E8D080; stroke-width: 2.5; }
+      .softGreen { fill: #E7F3ED; stroke: #A8D1BD; stroke-width: 2.5; }
+      .softTeal { fill: #E4F4F5; stroke: #A3D5D8; stroke-width: 2.5; }
+      .note { fill: #FFF7ED; stroke: #E7C18E; stroke-width: 2.5; }
+      .ink { fill: #0F172A; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 43px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 22px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 24px; font-weight: 800; letter-spacing: 0; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 18px; }
+      .navy { fill: #10233F; }
+      .bordeaux { fill: #7A2430; }
+      .gold { fill: #D4AF37; }
+      .green { fill: #2F7D5A; }
+      .teal { fill: #1F6F78; }
+      .line { stroke: #94A3B8; stroke-width: 4; stroke-linecap: round; fill: none; }
+      .thin { stroke: #CBD5E1; stroke-width: 2.5; stroke-linecap: round; fill: none; }
+      .arrowNavy { stroke: #10233F; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowNavy); }
+      .arrowBordeaux { stroke: #7A2430; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowBordeaux); }
+      .arrowGold { stroke: #D4AF37; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGold); }
+      .arrowGreen { stroke: #2F7D5A; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGreen); }
+      .arrowTeal { stroke: #1F6F78; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowTeal); }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#10233F"/></marker>
+    <marker id="arrowBordeaux" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#7A2430"/></marker>
+    <marker id="arrowGold" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#D4AF37"/></marker>
+    <marker id="arrowGreen" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2F7D5A"/></marker>
+    <marker id="arrowTeal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1F6F78"/></marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <text class="ink title" x="800" y="68" text-anchor="middle">Mappa BANDO del diritto tributario</text>
+  <text class="muted subtitle" x="800" y="108" text-anchor="middle">Dal programma fiscale alla mappa minima per quiz, orale e casi.</text>
+
+  <rect class="card" x="70" y="160" width="1460" height="640" rx="30"/>
+  <g data-safe-box="585 205 430 122 10">
+    <rect class="softBlue" x="585" y="205" width="430" height="122" rx="22"/>
+    <rect x="585" y="205" width="430" height="10" rx="5" fill="#10233F"/>
+    <text class="navy label" x="800" y="246" text-anchor="middle" style="font-size:23px">Diritto tributario</text>
+    <text class="muted small" x="800" y="279" text-anchor="middle" style="font-size:18px">teoria minima</text>
+<text class="muted small" x="800" y="305" text-anchor="middle" style="font-size:18px">per prove fiscali</text>
+  </g>
+  <path class="line" d="M800 327 L800 370"/>
+  <path class="line" d="M205 370 L1395 370"/>
+  <path class="line" d="M205 370 L205 460"/>
+  <path class="line" d="M505 370 L505 585"/>
+  <path class="line" d="M800 370 L800 460"/>
+  <path class="line" d="M1095 370 L1095 585"/>
+  <path class="line" d="M1395 370 L1395 460"/>
+  <g data-safe-box="70 460 270 130 10">
+    <rect class="softBlue" x="70" y="460" width="270" height="130" rx="22"/>
+    <rect x="70" y="460" width="270" height="10" rx="5" fill="#10233F"/>
+    <text class="navy label" x="205" y="501" text-anchor="middle" style="font-size:23px">B - Bando</text>
+    <text class="muted small" x="205" y="534" text-anchor="middle" style="font-size:18px">TUIR, IVA</text>
+<text class="muted small" x="205" y="560" text-anchor="middle" style="font-size:18px">accertamento</text>
+  </g>
+  <g data-safe-box="370 585 270 130 10">
+    <rect class="softRed" x="370" y="585" width="270" height="130" rx="22"/>
+    <rect x="370" y="585" width="270" height="10" rx="5" fill="#7A2430"/>
+    <text class="bordeaux label" x="505" y="626" text-anchor="middle" style="font-size:23px">A - Aree</text>
+    <text class="muted small" x="505" y="659" text-anchor="middle" style="font-size:18px">teoria</text>
+<text class="muted small" x="505" y="685" text-anchor="middle" style="font-size:18px">redditi, IVA</text>
+  </g>
+  <g data-safe-box="665 460 270 130 10">
+    <rect class="softGold" x="665" y="460" width="270" height="130" rx="22"/>
+    <rect x="665" y="460" width="270" height="10" rx="5" fill="#D4AF37"/>
+    <text class="gold label" x="800" y="501" text-anchor="middle" style="font-size:23px">N - Nuclei</text>
+    <text class="muted small" x="800" y="534" text-anchor="middle" style="font-size:18px">presupposto</text>
+<text class="muted small" x="800" y="560" text-anchor="middle" style="font-size:18px">soggetto, base</text>
+  </g>
+  <g data-safe-box="960 585 270 130 10">
+    <rect class="softGreen" x="960" y="585" width="270" height="130" rx="22"/>
+    <rect x="960" y="585" width="270" height="10" rx="5" fill="#2F7D5A"/>
+    <text class="green label" x="1095" y="626" text-anchor="middle" style="font-size:23px">D - Diario</text>
+    <text class="muted small" x="1095" y="659" text-anchor="middle" style="font-size:18px">tassa/imposta</text>
+<text class="muted small" x="1095" y="685" text-anchor="middle" style="font-size:18px">accertamento/riscossione</text>
+  </g>
+  <g data-safe-box="1260 460 270 130 10">
+    <rect class="softTeal" x="1260" y="460" width="270" height="130" rx="22"/>
+    <rect x="1260" y="460" width="270" height="10" rx="5" fill="#1F6F78"/>
+    <text class="teal label" x="1395" y="501" text-anchor="middle" style="font-size:23px">O - Output</text>
+    <text class="muted small" x="1395" y="534" text-anchor="middle" style="font-size:18px">risposta orale</text>
+<text class="muted small" x="1395" y="560" text-anchor="middle" style="font-size:18px">quiz e casi</text>
+  </g>
+  <g data-safe-box="255 815 1090 62 10">
+    <rect class="note" x="255" y="815" width="1090" height="62" rx="24"/>
+    <text class="ink body" x="800" y="854" text-anchor="middle" style="font-weight:800;font-size:20px">Il capitolo seleziona il minimo stabile: concetti, sequenza e uso in prova.</text>
+  </g>
+
+</svg>

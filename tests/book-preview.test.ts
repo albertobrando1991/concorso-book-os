@@ -67,6 +67,9 @@ describe("book preview assets", () => {
     expect(normalizeAssetPath("raw/assets/books/moduli/m-fl01-comuni-unioni/schema.png")).toBe(
       "raw/assets/books/moduli/m-fl01-comuni-unioni/schema.png"
     )
+    expect(normalizeAssetPath("books/moduli/m-fc02-agenzie-fiscali/assets/chapter-01/schema.png")).toBe(
+      "books/moduli/m-fc02-agenzie-fiscali/assets/chapter-01/schema.png"
+    )
     expect(() => normalizeAssetPath("books/il-metodo-bando/chapters/schema.png")).toThrow("Asset path non valido")
   })
 
@@ -246,6 +249,7 @@ describe("book preview assets", () => {
 
       expect(index?.blocks.some((block) => block.type === "index-row")).toBe(false)
       expect(chapterLine?.number).toBe("Capitolo 1")
+      expect(chapterLine?.path).toBe("books/moduli/m-fc01-ministeri/chapters/01-lavorare-ministeri.md")
       expect(appendixLine?.number).toBe("Appendice A")
     } finally {
       await rm(root, { recursive: true, force: true })
@@ -346,6 +350,7 @@ describe("book preview assets", () => {
 
       expect(indexPart?.text).toBe("Capire il concorso prima di studiare")
       expect(chapterLine?.number).toBe("Capitolo 2")
+      expect(chapterLine?.path).toBe("books/il-metodo-bando/chapters/anatomia-del-bando.md")
       expect(chapterLine?.pageNumber).toBe(1)
       expect(row?.number).toBe("2.1")
       expect(row?.pageNumber).toBe(1)

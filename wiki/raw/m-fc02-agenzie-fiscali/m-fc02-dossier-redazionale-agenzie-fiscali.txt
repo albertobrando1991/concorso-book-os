@@ -1,0 +1,401 @@
+# Modulo M-FC02 – Agenzie Fiscali
+
+Base interna usata: architettura ConcorsoBook OS, struttura madre del libro base, matrice materie/profili, catalogo fonti base, glossario, template modulo v3, regole editoriali e workflow in 6 fasi. M-FC02 copre Agenzia delle Entrate, Agenzia delle Dogane e dei Monopoli e Agenzia delle Entrate-Riscossione. Il modulo deve specializzare il libro base senza duplicarlo, secondo il principio “delta content”.          
+
+Nota di metodo: il campione è costruito su bandi e avvisi ufficiali recenti, integrati da fonti concorsuali editoriali quando il PDF ufficiale non restituisce nel motore di ricerca tutte le materie. Le materie ricavate da fonti non istituzionali sono marcate `[DA VERIFICARE su bando ufficiale]`.
+
+---
+
+## FASE 1 – Perimetro modulo
+
+### Scheda perimetro – M-FC02 Agenzie Fiscali
+
+| Campo                                          | Decisione                                                                                                                                                                                                                                                                                                                |
+| ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Famiglia                                       | M-FC – Funzioni Centrali                                                                                                                                                                                                                                                                                                 |
+| Nome modulo                                    | M-FC02 – Agenzie Fiscali                                                                                                                                                                                                                                                                                                 |
+| Enti coperti                                   | Agenzia delle Entrate; Agenzia delle Dogane e dei Monopoli; Agenzia delle Entrate-Riscossione                                                                                                                                                                                                                            |
+| Profili coperti                                | Funzionari tributari; funzionari giuridico-tributari; funzionari per controlli fiscali e servizi fiscali; funzionari servizi di pubblicità immobiliare; funzionari tecnici catastali/cartografici/estimativi; funzionari ADM amministrativo-tributari; assistenti ADM amministrativo-tributari; addetti riscossione AdER |
+| Profili coperti con cautela                    | Profili gestionali AE se il bando contiene fiscalità, contabilità aziendale, organizzazione agenzia; profili comunicazione ADM se collegati a funzioni istituzionali ADM                                                                                                                                                 |
+| Profili esclusi                                | ICT, AI, cybersecurity, big data → M-TR01; gare, appalti, contratti, fondi → M-TR02; edilizia, logistica tecnica, sicurezza cantieri, prevenzione incendi → M-TR03; INPS/INAIL/ACI/ENAC/ISTAT → M-FC03                                                                                                                   |
+| Moduli confinanti                              | M-FC01 Ministeri e PCM; M-FC03 EPNE; M-TR01 ICT; M-TR02 Appalti/PNRR; M-TR03 Tecnico-ingegneristico                                                                                                                                                                                                                      |
+| Materie trasversali che restano nel libro base | Costituzionale; amministrativo generale; pubblico impiego generale; trasparenza, anticorruzione e privacy; CAD e informatica base; inglese base; logica; metodo BANDO; prove generali                                                                                                                                    |
+| Materie specialistiche del modulo              | Diritto tributario; teoria dell’imposta; accertamento; adempimenti fiscali; riscossione; dogane; accise; giochi e monopoli; catasto; pubblicità immobiliare; estimo; contabilità aziendale per profili fiscali; reati tributari; organizzazione AE/ADM/AdER                                                              |
+
+---
+
+## FASE 2 – Campione bandi
+
+Campione: 12 procedure 2023–2025, con aggiornamenti 2025–2026 dove disponibili. È coerente con la finestra 24–36 mesi rispetto al 1 luglio 2026.
+
+|  # | Ente                        | Profilo                                                                      |      Anno | Codice/Bando                                                        | Tipo prove                                           | Fonte/Stato                                                                                                     |
+| -: | --------------------------- | ---------------------------------------------------------------------------- | --------: | ------------------------------------------------------------------- | ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+|  1 | Agenzia Entrate             | 3.970 funzionari attività tributaria + 530 servizi pubblicità immobiliare    |      2023 | Concorso 4.500 funzionari                                           | Prova scritta a quiz                                 | Confermato da inPA e fonti AE; materie TRIB/SPI da verificare sul PDF ufficiale. ([Inpa][1])                    |
+|  2 | Agenzia Entrate             | 2.700 funzionari giuridico-tributari per controlli fiscali e servizi fiscali |      2025 | Bando 2700 tributari                                                | Prova scritta a quiz                                 | Confermato da inPA; materie fiscali da bando/portali concorsuali `[DA VERIFICARE]`. ([Inpa][2])                 |
+|  3 | Agenzia Entrate             | 350 funzionari per adempimento collaborativo e fiscalità internazionale      |      2025 | Bando 350 ACFI                                                      | Prova scritta a quiz                                 | Confermato da AE; materie specialistiche da fonti editoriali `[DA VERIFICARE]`. ([Agenzia delle Entrate][3])    |
+|  4 | Agenzia Entrate             | 250 funzionari tecnici per servizi catastali, cartografici, estimativi e OMI |      2025 | Bando 250 FT                                                        | Prova scritta                                        | Confermato da AE; materie tecniche da fonte concorsuale `[DA VERIFICARE]`. ([Agenzia delle Entrate][4])         |
+|  5 | Agenzia Entrate             | 190 funzionari tecnici e gestionali                                          |      2024 | 66 tecnici + 124 gestionali                                         | Prova scritta + orale                                | Confermato da inPA/Formez; materie per codice profilo da fonte concorsuale `[DA VERIFICARE]`. ([Inpa][5])       |
+|  6 | Agenzia Entrate             | 80 funzionari RU, poi 148                                                    | 2024–2025 | Selezione processi selezione, valutazione, formazione e sviluppo RU | Prova scritta/orale o prova asincrona secondo avvisi | Confermato da AE/inPA; materie RU da fonte concorsuale `[DA VERIFICARE]`. ([Agenzia delle Entrate][6])          |
+|  7 | Agenzia Entrate             | 27 unità Valle d’Aosta: assistenti e funzionari, codici TRIB/RU/SPI/FT       |      2024 | Bando Valle d’Aosta                                                 | Prove per codice profilo                             | Confermato da AE; dettagli materie per codice `[DA VERIFICARE]`. ([Agenzia delle Entrate][7])                   |
+|  8 | Agenzia Dogane e Monopoli   | 564 funzionari ADM                                                           |      2024 | ADM/FAMM, ADM/COM, ADM/ING e altri codici                           | Preselettiva + scritto + orale                       | Confermato da inPA/ADM; dettaglio materie da fonte concorsuale `[DA VERIFICARE]`. ([Inpa][8])                   |
+|  9 | Agenzia Dogane e Monopoli   | 415 assistenti, poi 461/569 secondo aggiornamenti                            | 2024–2026 | Assistenti amministrativo-tributari                                 | Prova scritta unica                                  | Confermato da ADM; materie da fonti concorsuali `[DA VERIFICARE]`. ([Accesso Negato][9])                        |
+| 10 | Agenzia Dogane e Monopoli   | 74 assistenti L. 68/1999                                                     |      2024 | ADM/L68                                                             | Prova scritta/orale `[DA VERIFICARE]`                | Confermato da inPA/ADM; materie specifiche `[DA VERIFICARE]`. ([Inpa][10])                                      |
+| 11 | Agenzia Dogane e Monopoli   | 39 funzionari tecnico-informatici, IA, dati                                  |      2025 | ADM ICT/AI                                                          | Prova scritta/orale                                  | Confermato da inPA; profilo fuori perimetro principale M-FC02, utile per rinvio M-TR01. ([Inpa][11])            |
+| 12 | Agenzia Entrate-Riscossione | 470 addetti riscossione                                                      | 2024–2025 | 2024-01-AdRisc470                                                   | Prova scritta tecnico-professionale                  | Confermato da AdER; materie da bando e fonti concorsuali `[DA VERIFICARE]`. ([Agenzia Entrate Riscossione][12]) |
+
+---
+
+## FASE 3 – Materie estratte
+
+Frequenze calcolate su 12 procedure. La frequenza indica la presenza della materia in almeno un profilo della procedura.
+
+| Materia normalizzata                                          | Profilo/ente prevalente     | Tipo prova prevalente | Peso apparente            |                   Frequenza nel campione |
+| ------------------------------------------------------------- | --------------------------- | --------------------- | ------------------------- | ---------------------------------------: |
+| Diritto amministrativo applicato alle Agenzie fiscali         | AE, ADM, AdER               | Quiz, scritto, orale  | Alto ma trasversale       |                              11/12 = 92% |
+| Inglese e informatica base                                    | AE, ADM, AdER               | Quiz/orale            | Medio                     |                              10/12 = 83% |
+| Diritto tributario e teoria dell’imposta                      | AE TRIB, AE 2700, ADM, AdER | Quiz, scritto, orale  | Molto alto                |                               9/12 = 75% |
+| Diritto civile/commerciale/obbligazioni                       | AE, ADM, AdER               | Quiz/scritto          | Alto                      |                               8/12 = 67% |
+| Contabilità aziendale/economia aziendale                      | AE, ADM, AdER               | Quiz/scritto          | Alto                      |                               8/12 = 67% |
+| Organizzazione, fini istituzionali e attribuzioni AE/ADM/AdER | AE, ADM, AdER               | Orale, scritto        | Alto                      |                               7/12 = 58% |
+| Accertamento, controlli, compliance fiscale                   | AE TRIB, AE ACFI, AdER      | Quiz/scritto/orale    | Molto alto                |                               7/12 = 58% |
+| Diritto UE fiscale/doganale                                   | ADM, AE ACFI, AE TRIB       | Quiz/orale            | Medio-alto                |                               5/12 = 42% |
+| Reati tributari e reati contro la PA                          | AE, ADM                     | Quiz/orale            | Medio-alto                |                               5/12 = 42% |
+| Catasto, cartografia, estimo, pubblicità immobiliare          | AE SPI, AE FT, territorio   | Scritto/orale         | Alto nel sottoprofilo     |                               4/12 = 33% |
+| Competenze trasversali/situazionali                           | ADM, AE profili gestionali  | Quiz/situazionale     | Medio                     |                               4/12 = 33% |
+| Riscossione nazionale e procedure AdER                        | AdER, AE fiscale            | Scritto/orale         | Alto nel sottoprofilo     | 3/12 = 25%; 100% nel sotto-campione AdER |
+| Dogane, accise, giochi e monopoli                             | ADM                         | Scritto/orale         | Alto nel sottoprofilo     |  3/12 = 25%; 100% nel sotto-campione ADM |
+| Contratti pubblici, gare, data protection, logistica          | AE gestionale, ADM tecnico  | Scritto/orale         | Alto solo in sottoprofilo |                               2/12 = 17% |
+| Edilizia, sicurezza, prevenzione incendi, normativa tecnica   | AE tecnico/logistica        | Scritto/orale         | Alto solo in sottoprofilo |                               2/12 = 17% |
+| ICT, IA, big data, cybersecurity, data science                | ADM ICT/AI                  | Scritto/orale         | Alto solo in profilo ICT  |                                1/12 = 8% |
+| Organizzazione HR, selezione, formazione, performance RU      | AE RU                       | Scritto/orale         | Alto solo in profilo RU   |                                1/12 = 8% |
+| Diritto fallimentare/crisi d’impresa                          | AE 2700                     | Quiz/scritto          | Alto nel singolo bando    |                                1/12 = 8% |
+
+---
+
+## FASE 4 – Copertura attuale
+
+| Materia normalizzata                                 | Frequenza | Stato copertura       | Decisione                                                                                                                   |
+| ---------------------------------------------------- | --------: | --------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| Diritto amministrativo applicato                     |       92% | COPERTA-BASE          | Richiamo al libro base cap. 5; nel modulo solo casi fiscali, accertamento, autotutela tributaria, accesso in ambito fiscale |
+| Inglese/informatica base                             |       83% | COPERTA-BASE          | Richiamo ai cap. 10–11; nel modulo solo lessico fiscale-doganale essenziale                                                 |
+| Diritto tributario e teoria imposta                  |       75% | NON-COPERTA           | Capitoli centrali M-FC02                                                                                                    |
+| Diritto civile/commerciale/obbligazioni              |       67% | PARZIALE              | Libro base non copre il taglio civil-commerciale fiscale; capitolo applicativo                                              |
+| Contabilità aziendale/economia aziendale             |       67% | NON-COPERTA           | Capitolo specialistico                                                                                                      |
+| Organizzazione/fini istituzionali AE/ADM/AdER        |       58% | PARZIALE              | D.Lgs. 300/1999 è nel base, ma serve capitolo di settore                                                                    |
+| Accertamento, controlli, compliance                  |       58% | NON-COPERTA           | Capitolo specialistico                                                                                                      |
+| Diritto UE fiscale/doganale                          |       42% | PARZIALE              | Appendice specialistica                                                                                                     |
+| Reati tributari e reati PA                           |       42% | NON-COPERTA           | Appendice specialistica                                                                                                     |
+| Catasto, cartografia, estimo, pubblicità immobiliare |       33% | NON-COPERTA           | Capitolo specialistico per sottoprofilo AE Territorio                                                                       |
+| Riscossione nazionale/AdER                           |       25% | NON-COPERTA           | Capitolo specialistico per ente coperto                                                                                     |
+| Dogane, accise, giochi e monopoli                    |       25% | NON-COPERTA           | Capitoli specialistici ADM                                                                                                  |
+| Competenze situazionali                              |       33% | COPERTA-BASE/PARZIALE | Richiamo cap. 18; nel modulo casi fiscali e front-office                                                                    |
+| Contratti pubblici/gare/data protection/logistica    |       17% | FUORI-PERIMETRO       | Rinvio M-TR02 o libro base cap. 9/7                                                                                         |
+| Edilizia/sicurezza/prevenzione incendi               |       17% | FUORI-PERIMETRO       | Rinvio M-TR03                                                                                                               |
+| ICT/AI/big data/cybersecurity                        |        8% | FUORI-PERIMETRO       | Rinvio M-TR01                                                                                                               |
+| HR/selezione/formazione                              |        8% | COPERTA-BASE/PARZIALE | Non genera modulo aggiuntivo; scheda di allerta se presente nel bando                                                       |
+| Crisi d’impresa/fallimentare                         |        8% | NON-COPERTA           | Non diventa capitolo; box mirato nel capitolo civile-commerciale                                                            |
+
+---
+
+## FASE 5 – Decisioni di collocazione
+
+### Soglie applicate
+
+| Regola               | Soglia                                                                                                                     | Esito                                |
+| -------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+| A – Libro base       | Presenza in almeno 4 famiglie, materia stabile, alta riusabilità                                                           | Nessuna nuova proposta al libro base |
+| B – Capitolo modulo  | Frequenza globale ≥50–60% oppure materia identitaria di un ente coperto con frequenza ≥50% nel sotto-campione ente/profilo | Capitoli principali                  |
+| C – Appendice modulo | Frequenza 20–50%, materia ricorrente ma non identitaria per tutta la famiglia                                              | Appendici                            |
+| D – Altro modulo     | Materia specialistica di altra famiglia                                                                                    | Rinvio cross-module                  |
+
+### Capitoli principali del modulo – Regola B
+
+|  # | Capitolo                                                     | Materia                           |                          Frequenza |
+| -: | ------------------------------------------------------------ | --------------------------------- | ---------------------------------: |
+|  1 | Mappa delle Agenzie fiscali e dei profili concorsuali        | Organizzazione/fini istituzionali |                                58% |
+|  2 | Bando Decoder fiscale: TRIB, SPI, ADM, AdER                  | Prove e profili                   |    100% come strumento applicativo |
+|  3 | Ordinamento e organizzazione di AE, ADM e AdER               | Agenzie fiscali                   |                                58% |
+|  4 | Diritto tributario e teoria dell’imposta                     | Tributario                        |                                75% |
+|  5 | Accertamento, controlli e compliance fiscale                 | Accertamento/compliance           |                                58% |
+|  6 | Adempimenti fiscali: redditi, IVA, dichiarazioni             | Tributario operativo              |                                75% |
+|  7 | Riscossione nazionale e lavoro in AdER                       | Riscossione                       |             25% globale; 100% AdER |
+|  8 | Dogane e procedure doganali ADM                              | Dogane                            |              25% globale; 100% ADM |
+|  9 | Accise, giochi e monopoli                                    | ADM                               |              25% globale; 100% ADM |
+| 10 | Catasto, cartografia, estimo e pubblicità immobiliare        | AE Territorio                     | 33% globale; alta nel sottoprofilo |
+| 11 | Contabilità aziendale ed economia d’impresa per il fisco     | Contabilità aziendale             |                                67% |
+| 12 | Civile e commerciale applicati a fisco, dogane e riscossione | Civile/commerciale                |                                67% |
+| 13 | Casi pratici, quiz e orale nelle Agenzie fiscali             | Output di prova                   |  Trasversale ai bandi del campione |
+
+### Appendici del modulo – Regola C
+
+| Appendice | Titolo                                                                              | Materia                           |                      Frequenza |
+| --------- | ----------------------------------------------------------------------------------- | --------------------------------- | -----------------------------: |
+| A         | Reati tributari e reati contro la PA nei concorsi fiscali                           | Penale specialistico              |                            42% |
+| B         | Diritto UE fiscale e doganale                                                       | UE fiscale/doganale               |                            42% |
+| C         | Front-office, comunicazione, data protection e relazione con contribuente/operatore | Comunicazione e privacy applicata |                         20–33% |
+| D         | Glossario fiscale-doganale-catastale M-FC02                                         | Strumento operativo               |     Supporto a tutti i profili |
+| E         | Schede di allerta bando: crisi d’impresa, HR, gare, ICT                             | Materie a bassa frequenza         | <20%, solo se citate dal bando |
+
+### Proposte di modifica al libro base – Regola A
+
+Nessuna proposta.
+
+Motivo: le materie centrali emerse sono troppo settoriali. Diritto tributario, dogane, accise, catasto, riscossione e reati tributari non devono entrare nel libro base. Restano nel modulo M-FC02.
+
+### Rinvii a moduli confinanti – Regola D
+
+| Materia/profilo                                                   | Rinvio | Motivo                                                                                                                    |
+| ----------------------------------------------------------------- | ------ | ------------------------------------------------------------------------------------------------------------------------- |
+| ICT, IA, big data, cybersecurity, data science                    | M-TR01 | Il bando ADM 39 funzionari tecnico-informatici richiede competenze ICT/AI profonde, non fiscali generaliste. ([Inpa][11]) |
+| Gare, appalti, acquisti, contratti, anticorruzione di procurement | M-TR02 | Se il profilo è gare/contratti, il baricentro è contrattualistica pubblica, non fiscalità.                                |
+| Edilizia, logistica tecnica, sicurezza, prevenzione incendi       | M-TR03 | Profilo tecnico-ingegneristico.                                                                                           |
+| INPS, INAIL, ACI, ENAC, ISTAT                                     | M-FC03 | Enti pubblici non economici, non agenzie fiscali.                                                                         |
+| Ministeri/PCM                                                     | M-FC01 | Contesto centrale, ma non sostituisce M-FC02 per AE/ADM/AdER.                                                             |
+
+---
+
+## FASE 6 – Scheda compatibilità commerciale
+
+### Acquisto consigliato standard
+
+**Libro Base + M-FC02 Agenzie Fiscali**
+
+Copre il candidato per:
+
+* Agenzia delle Entrate – funzionari tributari, giuridico-tributari, servizi fiscali;
+* Agenzia delle Entrate – pubblicità immobiliare, catasto, servizi estimativi;
+* Agenzia delle Dogane e dei Monopoli – profili amministrativo-tributari, funzionari/assistenti;
+* Agenzia Entrate-Riscossione – addetti riscossione.
+
+### Varianti per sottoprofilo
+
+| Sottoprofilo                                                         | Acquisto                                                                               |
+| -------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| Agenzia Entrate TRIB / giuridico-tributario                          | Libro Base + M-FC02                                                                    |
+| Agenzia Entrate fiscalità internazionale / adempimento collaborativo | Libro Base + M-FC02, con focus cap. 5 e appendice B                                    |
+| Agenzia Entrate SPI / catasto / FT                                   | Libro Base + M-FC02, con focus cap. 10                                                 |
+| ADM amministrativo-tributario                                        | Libro Base + M-FC02, con focus cap. 8–9                                                |
+| ADM assistenti amministrativo-tributari                              | Libro Base + M-FC02                                                                    |
+| AdER addetti riscossione                                             | Libro Base + M-FC02, con focus cap. 7                                                  |
+| ADM ICT/AI                                                           | Libro Base + M-TR01; M-FC02 solo come contesto se il bando cita ordinamento ADM        |
+| AE gare/contratti/logistica tecnica                                  | Libro Base + M-TR02 o M-TR03; M-FC02 solo se il bando include materie fiscali          |
+| AE RU                                                                | Libro Base; M-FC02 solo se il bando include organizzazione fiscale o servizi tributari |
+
+### Cosa NON serve comprare al cliente
+
+| Modulo                        | Quando NON serve                                                              |
+| ----------------------------- | ----------------------------------------------------------------------------- |
+| M-FC01 Ministeri e PCM        | Non serve per AE, ADM, AdER salvo concorsi ministeriali veri                  |
+| M-FC03 EPNE                   | Non serve per Agenzia Entrate, ADM, AdER                                      |
+| M-FL01 Enti locali            | Non serve per tributi erariali; serve solo per tributi locali/comuni          |
+| M-TR01 ICT                    | Non serve se il profilo non è informatico/AI/data/cyber                       |
+| M-TR02 Appalti/PNRR           | Non serve se il bando fiscale cita solo contratti pubblici in modo accessorio |
+| M-TR03 Tecnico-ingegneristico | Non serve per TRIB, ADM amministrativo, AdER riscossione                      |
+
+### Casi di copertura
+
+| Caso                                         | Copertura                                                                     |
+| -------------------------------------------- | ----------------------------------------------------------------------------- |
+| Funzionario tributario AE                    | Piena                                                                         |
+| Funzionario giuridico-tributario AE          | Piena, con scheda crisi d’impresa se il bando la cita                         |
+| Funzionario AE fiscalità internazionale      | Piena con appendice B                                                         |
+| AE SPI / servizi pubblicità immobiliare      | Piena con cap. 10                                                             |
+| AE tecnico catastale/cartografico/estimativo | Piena per catasto-estimo; parziale se prevalgono edilizia/sicurezza/logistica |
+| ADM amministrativo-tributario                | Piena                                                                         |
+| ADM assistenti amministrativo-tributari      | Piena                                                                         |
+| ADM tecnico-informatico IA                   | Parziale; richiede M-TR01                                                     |
+| AdER addetto riscossione                     | Piena                                                                         |
+| AE gare/contratti                            | Parziale; richiede M-TR02                                                     |
+| AE tecnico-logistica                         | Parziale; richiede M-TR03                                                     |
+| INPS/INAIL/ISTAT                             | Fuori perimetro; M-FC03                                                       |
+
+---
+
+# OUTPUT A – Mappa Fonti e Normative Specialistiche
+
+## 1. Normativa primaria di settore
+
+| Fonte                                                                   | Rilevanza per M-FC02                                                                                           | Capitoli collegati  | Stato                                                                     |
+| ----------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ------------------- | ------------------------------------------------------------------------- |
+| Cfr. libro base – D.Lgs. 300/1999, organizzazione del Governo e agenzie | Base istituzionale delle agenzie fiscali                                                                       | Cap. 3              | Già in catalogo base; non duplicare                                       |
+| Cfr. libro base – L. 241/1990                                           | Procedimento, accesso, autotutela amministrativa; da applicare ai casi fiscali                                 | Cap. 5, 7, 13       | Già in catalogo base                                                      |
+| Cfr. libro base – D.Lgs. 165/2001 e CCNL Funzioni Centrali              | Rapporto di lavoro pubblico AE/ADM                                                                             | Cap. 1, 3           | Già in catalogo base                                                      |
+| D.P.R. 22 dicembre 1986, n. 917 – TUIR                                  | Imposte sui redditi, soggetti, redditi, base imponibile                                                        | Cap. 4, 6           | Fonte specialistica. ([Normattiva][13])                                   |
+| D.P.R. 29 settembre 1973, n. 600                                        | Accertamento imposte sui redditi                                                                               | Cap. 5              | Fonte specialistica. ([Normattiva][14])                                   |
+| D.P.R. 26 ottobre 1972, n. 633                                          | IVA                                                                                                            | Cap. 6              | Fonte specialistica. ([Normattiva][15])                                   |
+| D.P.R. 29 settembre 1973, n. 602                                        | Riscossione                                                                                                    | Cap. 7              | `[DA VERIFICARE link Normattiva diretto]`; coordinare con D.Lgs. 110/2024 |
+| D.Lgs. 29 luglio 2024, n. 110                                           | Riordino sistema nazionale della riscossione                                                                   | Cap. 7              | Fonte specialistica recente. ([Normattiva][16])                           |
+| D.Lgs. 10 marzo 2000, n. 74                                             | Reati tributari                                                                                                | Appendice A         | Fonte specialistica. ([Normattiva][17])                                   |
+| D.Lgs. 5 novembre 2024, n. 173                                          | Testo unico sanzioni tributarie amministrative e penali                                                        | Cap. 5, Appendice A | Fonte specialistica recente. ([Normattiva][18])                           |
+| D.Lgs. 26 settembre 2024, n. 141                                        | Disposizioni nazionali complementari al Codice doganale UE e revisione sanzioni accise/altre imposte indirette | Cap. 8–9            | Fonte specialistica recente. ([Normattiva][19])                           |
+| Regolamento UE n. 952/2013 – Codice doganale dell’Unione                | Base doganale UE                                                                                               | Cap. 8, Appendice B | `[DA VERIFICARE su EUR-Lex]`                                              |
+| D.Lgs. 128/2015 e D.Lgs. 108/2024                                       | Adempimento collaborativo, certezza del diritto, tax control framework                                         | Cap. 5              | Fonte specialistica per ACFI. ([Normattiva][20])                          |
+| Normativa catastale: R.D.L. 652/1939; D.P.R. 650/1972; D.M. 701/1994    | Catasto edilizio urbano, cartografia, procedure catastali                                                      | Cap. 10             | `[DA VERIFICARE su Normattiva/GU]`                                        |
+
+## 2. Normativa secondaria e regolamenti
+
+| Fonte                                                                | Uso editoriale                                                     | Stato                                        |
+| -------------------------------------------------------------------- | ------------------------------------------------------------------ | -------------------------------------------- |
+| Statuti e regolamenti di amministrazione AE, ADM, AdER               | Cap. 3, mappa organizzativa                                        | `[DA VERIFICARE su siti ente]`               |
+| Provvedimenti del Direttore Agenzia Entrate                          | Adempimenti, dichiarazioni, accertamento, servizi digitali fiscali | `[DA VERIFICARE per versione vigente]`       |
+| Circolari e risoluzioni Agenzia Entrate                              | Interpretazione operativa tributaria                               | Fonti operative, non sostitutive della norma |
+| Determinazioni direttoriali ADM                                      | Procedure doganali, accise, giochi, organizzazione ADM             | `[DA VERIFICARE]`                            |
+| Atti e guide AdER su cartelle, rateizzazione, sospensione, pagamenti | Capitolo riscossione                                               | `[DA VERIFICARE]`                            |
+| Provvedimenti MEF/Dipartimento Finanze                               | Coordinamento fiscalità, riforma tributaria, agenzie               | Fonte istituzionale                          |
+
+## 3. Contrattazione collettiva
+
+| Fonte                                                   | Ambito                      | Uso                                                                                                                            |
+| ------------------------------------------------------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| Cfr. libro base – CCNL Funzioni Centrali 2019–2021 ARAN | Agenzia Entrate e ADM       | Richiamo per aree, famiglie professionali, diritti/doveri; non duplicare                                                       |
+| Contratto collettivo AdER                               | Agenzia Entrate-Riscossione | Da trattare solo per specificità di rapporto AdER; il bando 470 richiama il CCNL del personale AdER. ([Concorsi Pubblici][21]) |
+
+## 4. Soft law e linee guida
+
+| Fonte                                                | Rilevanza                                                          | Uso nel modulo                                                 |
+| ---------------------------------------------------- | ------------------------------------------------------------------ | -------------------------------------------------------------- |
+| Cfr. libro base – ANAC, AgID, Garante Privacy        | Trasparenza, anticorruzione, privacy, digitale                     | Solo richiamo; nel modulo casi fiscali e dati del contribuente |
+| MEF – Dipartimento Finanze                           | Contesto istituzionale agenzie fiscali                             | Cap. 3–6                                                       |
+| Agenzia Entrate – guide, circolari, FiscoOggi        | Prassi fiscale e servizi al contribuente                           | Casi pratici e glossario                                       |
+| ADM – istruzioni operative e portale dogane/monopoli | Dogane, accise, giochi                                             | Cap. 8–9                                                       |
+| AdER – guide operative                               | Riscossione, cartelle, rateizzazione, pagamenti                    | Cap. 7                                                         |
+| Commissione UE / TAXUD                               | Dogane e fiscalità UE                                              | Appendice B `[DA VERIFICARE]`                                  |
+| OCSE                                                 | Fiscalità internazionale, cooperative compliance, transfer pricing | Solo per ACFI `[DA VERIFICARE]`                                |
+
+## 5. Giurisprudenza rilevante
+
+Non inserire sentenze non verificate nel testo finale. Costruire una banca giurisprudenziale prima della redazione.
+
+| Area                    | Giurisprudenza da cercare                                                             | Stato             |
+| ----------------------- | ------------------------------------------------------------------------------------- | ----------------- |
+| Accertamento tributario | Cassazione sezione tributaria su motivazione atti, contraddittorio, onere della prova | `[DA VERIFICARE]` |
+| Riscossione             | Cassazione/Corte cost. su cartella, notifica, prescrizione, rateizzazione             | `[DA VERIFICARE]` |
+| IVA                     | CGUE e Cassazione su detrazione, operazioni imponibili, frodi IVA                     | `[DA VERIFICARE]` |
+| Dogane                  | CGUE/Cassazione su origine, valore, classificazione, dichiarazione doganale           | `[DA VERIFICARE]` |
+| Catasto                 | Cassazione su classamento, rendita, estimo catastale                                  | `[DA VERIFICARE]` |
+| Reati tributari         | Cassazione penale su dichiarazione infedele, omesso versamento, frode fiscale         | `[DA VERIFICARE]` |
+| Concorsi AE/ADM         | TAR/Consiglio di Stato su bandi, prove, graduatorie                                   | `[DA VERIFICARE]` |
+
+## 6. Fonti operative
+
+| Fonte                                | Uso                                                                                                                           |
+| ------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
+| Portale Agenzia Entrate              | Guide, modelli, servizi telematici, provvedimenti, concorsi                                                                   |
+| Portale ADM                          | Dogane, accise, giochi, avvisi, concorsi                                                                                      |
+| Portale AdER                         | Cartelle, pagamenti, rateizzazioni, sospensioni, modulistica                                                                  |
+| Portale MEF – Agenzie fiscali        | Quadro istituzionale: Agenzia Entrate, ADM, Demanio; utile per la mappa ente. ([Ministero dell'Economia e delle Finanze][22]) |
+| inPA                                 | Fonte ufficiale per bandi e avvisi                                                                                            |
+| Formez/RIPAM                         | Procedure gestite da Formez, avvisi prova, graduatorie                                                                        |
+| Gazzetta Ufficiale 4ª Serie speciale | Pubblicazione ufficiale dei bandi                                                                                             |
+
+## 7. Bandi-tipo recenti
+
+I bandi-tipo sono quelli del campione Fase 2:
+
+1. AE 4.500 funzionari TRIB/SPI 2023. ([Inpa][1])
+2. AE 2.700 funzionari giuridico-tributari 2025. ([Inpa][2])
+3. AE 350 ACFI 2025. ([Agenzia delle Entrate][3])
+4. AE 250 funzionari tecnici catastali/cartografici/estimativi 2025. ([Agenzia delle Entrate][4])
+5. AE 190 funzionari tecnici e gestionali 2024. ([Inpa][5])
+6. AE 148 funzionari RU 2024–2025. ([Agenzia delle Entrate][6])
+7. AE Valle d’Aosta 27 unità 2024. ([Agenzia delle Entrate][7])
+8. ADM 564 funzionari 2024. ([Inpa][8])
+9. ADM 415/569 assistenti 2024–2026. ([Accesso Negato][9])
+10. ADM 74 assistenti L. 68/1999. ([Inpa][10])
+11. ADM 39 funzionari ICT/AI 2025. ([Inpa][11])
+12. AdER 470 addetti riscossione 2024–2025. ([Agenzia Entrate Riscossione][12])
+
+## 8. Manualistica e dottrina di riferimento
+
+| Fonte                                                            | Uso                                                         | Nota                                                            |
+| ---------------------------------------------------------------- | ----------------------------------------------------------- | --------------------------------------------------------------- |
+| Manuali concorso Agenzia Entrate – Simone, Edises, Maggioli, NLD | Taratura materie, quiz, casi                                | Non sono fonti normative                                        |
+| Manuali concorso ADM                                             | Taratura dogane, accise, giochi, profili FAMM/assistenti    | Verificare sempre sul bando                                     |
+| Manuali AdER addetti riscossione                                 | Taratura riscossione, contabilità aziendale, organizzazione | Verificare sempre sul bando                                     |
+| Manuali universitari di diritto tributario                       | Approfondimento autore                                      | Usare solo per redazione capitoli fiscali                       |
+| Manuali di contabilità aziendale                                 | Capitolo 11                                                 | Taglio concorsuale, non corso universitario                     |
+| Commentari TUIR, IVA, riscossione, dogane                        | Approfondimento autore                                      | Solo per fonti redazionali, non per sovraccaricare il candidato |
+
+---
+
+# OUTPUT B – Indice del libro di testo del modulo
+
+Target complessivo: **circa 33.000–34.500 parole**, 80–120 pagine.
+
+## Frontmatter obbligatorio – 1.700 parole
+
+| Sezione                                  | Contenuto                                                                                                   | Cross-link                    |
+| ---------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ----------------------------- |
+| Come usare questo modulo                 | Attivare M-FC02 solo dopo lettura del bando; usare Bando Decoder fiscale                                    | Cfr. libro base cap. 2        |
+| Target del modulo                        | AE, ADM, AdER; funzionari, assistenti, addetti riscossione                                                  | Cfr. libro base cap. 20       |
+| Profili coperti/esclusi                  | TRIB, SPI, FT, ADM/FAMM, assistenti ADM, AdER; esclusione ICT/appalti/tecnico puro                          | Cfr. libro base Appendice F   |
+| Mappa ente/profilo/prova                 | Tabella AE/ADM/AdER × materia × output                                                                      | Cfr. libro base cap. 21       |
+| Collegamento con libro base e ricettario | Il base spiega; il modulo specializza; il ricettario allena                                                 | Cfr. libro base cap. 3, 14–18 |
+| Metodo B-A-N-D-O applicato               | Bando fiscale → Aree fiscali → Nuclei tributari/doganali/catastali → Diario errori → Output quiz/orale/caso | Cfr. libro base cap. 3        |
+| Piano 30/60/90 M-FC02                    | Percorso standard per Agenzie fiscali                                                                       | Cfr. libro base cap. 22       |
+
+## Capitoli principali
+
+|  # | Titolo                                                        | Target parole | Materie                                                                         |                             Frequenza bandi | Output tipici                                                                  | Cross-link libro base                               |
+| -: | ------------------------------------------------------------- | ------------: | ------------------------------------------------------------------------------- | ------------------------------------------: | ------------------------------------------------------------------------------ | --------------------------------------------------- |
+|  1 | Mappa delle Agenzie fiscali e dei profili concorsuali         |         1.800 | AE, ADM, AdER; ruoli; profili; prove                                            |                                         58% | Mappa ente/profilo; tabella “dove lavoro/cosa faccio”; checklist scelta modulo | Cap. 20–21                                          |
+|  2 | Bando Decoder fiscale: leggere TRIB, SPI, ADM e AdER          |         2.000 | Struttura bandi fiscali, codici profilo, prove                                  |                            100% strumentale | Bando Decoder compilato; griglia materie killer; schema priorità               | Cap. 2–3                                            |
+|  3 | Ordinamento e organizzazione di AE, ADM e AdER                |         2.400 | Fini istituzionali, attribuzioni, uffici, rapporto con MEF                      |                                         58% | Mappa organizzativa; glossario ente; domande da orale                          | Cap. 6; cfr. fonte base D.Lgs. 300/1999             |
+|  4 | Diritto tributario e teoria dell’imposta per concorsi fiscali |         2.600 | Tributo, imposta, soggetto passivo, base imponibile, obbligazione tributaria    |                                         75% | Mappa concetti; quiz ragionati; scheda errori                                  | Cap. 5 per procedimento                             |
+|  5 | Accertamento, controlli e compliance fiscale                  |         2.700 | Accertamento, controlli, rischio fiscale, compliance, adempimento collaborativo |                                         58% | Caso guidato “controllo fiscale”; checklist atto/istruttoria; orale            | Cap. 5 e 17                                         |
+|  6 | Adempimenti fiscali: redditi, IVA, dichiarazioni              |         2.300 | TUIR, IVA, dichiarazioni, versamenti, servizi fiscali                           |                                         75% | Mappa IVA/redditi; quiz; mini-casi contribuente                                | Cap. 10 per servizi digitali                        |
+|  7 | Riscossione nazionale e lavoro in AdER                        |         2.500 | Cartella, pagamento, rateizzazione, sospensione, ruolo AdER                     |                      25% globale; 100% AdER | Flusso riscossione; caso cartella; checklist front-office                      | Cap. 5, 7, 17                                       |
+|  8 | Dogane e procedure doganali ADM                               |         2.400 | Codice doganale UE, dichiarazione, controlli, origine, valore, classificazione  |                       25% globale; 100% ADM | Mappa dichiarazione doganale; quiz; caso operatore economico                   | Cap. 5, 10                                          |
+|  9 | Accise, giochi e monopoli                                     |         1.900 | Accise, tabacchi, giochi, controlli ADM                                         |                       25% globale; 100% ADM | Glossario ADM; mappa controlli; domande orali                                  | Cap. 5, 18                                          |
+| 10 | Catasto, cartografia, estimo e pubblicità immobiliare         |         2.500 | Catasto, pubblicità immobiliare, cartografia, estimo, OMI                       | 33% globale; alta nei profili AE Territorio | Mappa procedimento catastale; caso classamento; schema risposta orale          | Cap. 5, 10                                          |
+| 11 | Contabilità aziendale ed economia d’impresa per il fisco      |         2.200 | Bilancio civilistico, scritture essenziali, costi/ricavi, lettura economica     |                                         67% | Mappa bilancio; quiz; mini-caso su conto economico                             | Cap. 8 solo come confronto con contabilità pubblica |
+| 12 | Civile e commerciale applicati a fisco, dogane e riscossione  |         2.000 | Obbligazioni, contratti, impresa, crisi d’impresa se prevista                   |                                         67% | Scheda “civile che serve al fisco”; box crisi d’impresa; quiz                  | Cap. 5, 15                                          |
+| 13 | Casi pratici, quiz e orale nelle Agenzie fiscali              |         2.400 | Prove fiscali, situazionali, orale, front-office, errori tipici                 |                                 Trasversale | Simulazione finale; diario errori fiscale; Piano 30/60/90 operativo            | Cap. 14–18, 22–23                                   |
+
+## Appendici
+
+| Appendice | Titolo                                                                              | Target parole | Derivazione                            | Output                                                  |
+| --------- | ----------------------------------------------------------------------------------- | ------------: | -------------------------------------- | ------------------------------------------------------- |
+| A         | Reati tributari e reati contro la PA nei concorsi fiscali                           |           900 | Frequenza 42%                          | Tabella reato/condotta/errore; quiz essenziali          |
+| B         | Diritto UE fiscale e doganale                                                       |           800 | Frequenza 42%                          | Mappa UE; scheda dogane/IVA/fiscalità internazionale    |
+| C         | Front-office, comunicazione, data protection e relazione con contribuente/operatore |           700 | Frequenza 20–33%                       | Casi situazionali; risposta corretta/errata             |
+| D         | Glossario fiscale-doganale-catastale M-FC02                                         |           700 | Strumento trasversale                  | 80–100 voci operative                                   |
+| E         | Schede di allerta bando: crisi d’impresa, HR, gare, ICT                             |           700 | Materie <20%, solo se citate dal bando | Tabella “se compare, cosa fare e quale modulo attivare” |
+
+---
+
+# Checklist finale
+
+* [x] Le 6 fasi sono state eseguite e dichiarate
+* [x] Campione di almeno 8 bandi presente
+* [x] Tabella materie con frequenze esplicite presente
+* [x] Ogni materia ha uno stato di copertura
+* [x] Regola decisionale applicata con soglie esplicite
+* [x] Nessun capitolo duplica il libro base
+* [x] Scheda compatibilità commerciale presente
+* [x] Blocco “Cosa NON serve comprare al cliente” presente
+* [x] Cross-link al libro base presenti
+* [x] Assunzioni incerte marcate `[DA VERIFICARE]`
+
+[1]: https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=19b7e49b426a4544bbda1617aed943bd&utm_source=chatgpt.com "Agenzia delle Entrate Selezione pubblica per l'assunzione ..."
+[2]: https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=93f000fb34484792956384b2521865eb&utm_source=chatgpt.com "Agenzia delle Entrate - Selezione pubblica per l' ..."
+[3]: https://www.agenziaentrate.gov.it/portale/avviso-del-18-aprile-2025?utm_source=chatgpt.com "Avviso del 18 aprile 2025 - Bando per 350 funzionari per ..."
+[4]: https://www.agenziaentrate.gov.it/portale/bando-di-concorso-per-250-funzionari-tecnici-servizi-catastali-e-cartografici?utm_source=chatgpt.com "Bando di concorso per 250 funzionari tecnici servizi catastali e ..."
+[5]: https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=215389ce8be3470dbe5d48dd96503f64&utm_source=chatgpt.com "Agenzia delle Entrate - Selezione pubblica per l' ..."
+[6]: https://www.agenziaentrate.gov.it/portale/selezione-80-funzionari?utm_source=chatgpt.com "Selezione pubblica per n. 80 funzionari aumentati a 148 ..."
+[7]: https://www.agenziaentrate.gov.it/portale/bando-per-27-unit%C3%A0-per-la-valle-aosta?utm_source=chatgpt.com "Bando per 27 unità per la Valle d'Aosta - Agenzia delle Entrate"
+[8]: https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0ad0062d4a834173b52d3fd48c3b2582&utm_source=chatgpt.com "presso l'agenzia delle dogane e dei monopoli"
+[9]: https://www.adm.gov.it/portale/documents/20182/207968399/840246RU%2B-%2BBANDO%2B415%2Bassistenti%2B30_12_signed.pdf/66caa6bf-2c3d-de69-4992-180fb6f6be55?t=1736850370930&utm_source=chatgpt.com "Prot.: 840246 RU Roma, 30 dicembre 2024 CONCORSO ..."
+[10]: https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=69b28ab7120f4280a84b03b5af49e0fd&utm_source=chatgpt.com "CONCORSO PUBBLICO, PER ESAMI, PER L' ..."
+[11]: https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4f2b59283e2a435bb6694b90cd3849b8&utm_source=chatgpt.com "PRESSO L'AGENZIA DELLE DOGANE E DEI MONOPOLI"
+[12]: https://www.agenziaentrateriscossione.gov.it/it/il-gruppo/amministrazionetrasparente/selezionepersonale/selezioni-concluse-e-esiti/Avviso-di-selezione-per-lassunzione-a-tempo-indeterminato-di-470-addetti-riscossione?utm_source=chatgpt.com "Agenzia delle entrate-Riscossione - Avviso di selezione ..."
+[13]: https://www.normattiva.it/uri-res/N2Ls?urn%3Anir%3Apresidente.repubblica%3Adecreto%3A1986%3B917=&utm_source=chatgpt.com "Approvazione del testo unico delle imposte sui redditi."
+[14]: https://www.normattiva.it/uri-res/N2Ls?urn%3Anir%3Apresidente.repubblica%3Adecreto%3A1973-09-29%3B600=&utm_source=chatgpt.com "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ..."
+[15]: https://www.normattiva.it/atto/caricaDettaglioAtto?atto.articolo.numero=0&atto.articolo.sottoArticolo=1&atto.articolo.sottoArticolo1=10&atto.codiceRedazionale=072U0633&atto.dataPubblicazioneGazzetta=1972-11-11&generaTabId=true&qId=0b43ee00-ca1c-43fa-b3a2-f6410ab02259&tabID=0.2194358226577494&title=lbl.dettaglioAtto&utm_source=chatgpt.com "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 ..."
+[16]: https://www.normattiva.it/uri-res/N2Ls?urn%3Anir%3Astato%3Adecreto.legislativo%3A2024-07-29%3B110%21vig=&utm_source=chatgpt.com "DECRETO LEGISLATIVO 29 luglio 2024, n. 110"
+[17]: https://www.normattiva.it/uri-res/N2Ls?urn%3Anir%3Astato%3Adecreto.legislativo%3A2000-03-10%3B74%21vig=2014-04-08&utm_source=chatgpt.com "DECRETO LEGISLATIVO 10 marzo 2000, n. 74"
+[18]: https://www.normattiva.it/uri-res/N2Ls?urn%3Anir%3Astato%3Adecreto.legislativo%3A2024-11-05%3B173=&utm_source=chatgpt.com "DECRETO LEGISLATIVO 5 novembre 2024, n. 173"
+[19]: https://www.normattiva.it/atto/caricaDettaglioAtto?atto.articolo.numero=0&atto.articolo.sottoArticolo=1&atto.articolo.sottoArticolo1=0&atto.codiceRedazionale=24G00156&atto.dataPubblicazioneGazzetta=2024-10-03&qId=72264682-a376-4175-8aca-49ed0e1f7385&tabID=0.7269589991494634&title=lbl.dettaglioAtto&utm_source=chatgpt.com "DECRETO LEGISLATIVO 26 settembre 2024, n. 141"
+[20]: https://www.normattiva.it/atto/caricaDettaglioAtto?atto.articolo.numero=0&atto.articolo.sottoArticolo=1&atto.articolo.sottoArticolo1=0&atto.codiceRedazionale=24G00127&atto.dataPubblicazioneGazzetta=2024-08-05&qId=2c637ad3-5ad6-4cea-aaf9-075c421d5a40&tabID=0.9083898465462334&title=lbl.dettaglioAtto&utm_source=chatgpt.com "DECRETO LEGISLATIVO 5 agosto 2024, n. 108"
+[21]: https://www.concorsipubblici.com/agenzia-delle-entrate-concorso-impiegato-amministrativo-tutta-italia-2024?utm_source=chatgpt.com "Agenzia delle Entrate, 470 posti per addetto riscossione"
+[22]: https://www.mef.gov.it/ministero/struttura/agenzie.html?utm_source=chatgpt.com "Agenzie"
