@@ -9,6 +9,7 @@ Usala come profilo di lavoro: le source notes e il wiki restano la base canonica
 - Correggi dettaglio memoria intervento immagini M-FC02 capitolo 2. (mem-20260702172618-86ux49)
 - Integra immagini editoriali coerenti nel capitolo 2 M-FC02 Bando Decoder fiscale, con layout senza sovrapposizioni. (mem-20260702172456-xesxf9)
 - PRODEGUI CON IL SECONDO CAPITOLO DEL LIBRO (mem-20260702163706-1pr3th0)
+- Analizzare il DOCX Idea di business e vendita libri Capitale Personale e ristrutturare dashboard e lista testi in funzione della nuova struttura dei volumi. (mem-20260703153748-pv65mj)
 - Usa prima il cervello wiki: struttura madre, nota capitolo, source notes, topic pages, entity pages e design system; scarica altre fonti necessarie per la copertura totale della conoscenza e procedi poi alla scrittura professionale del capitolo completo (mem-20260629152136-195qkxl)
 - instruction=Scrivi il capitolo effettivo , non un riepilogo tecnico. (mem-20260629152136-1cg7i7s)
 - instruction=Applica la skill humanizer al capitolo: rimuovi segnali di scrittura AI, conserva significato, riferimenti e struttura Metodo BANDO, riscrivi solo i passaggi necessari. (mem-20260629124807-pg6ite)

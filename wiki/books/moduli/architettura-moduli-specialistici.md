@@ -6,16 +6,17 @@ status: canonical
 domain: "concorsi pubblici italiani"
 topics: ["moduli specialistici","famiglie concorsuali","metodo bando","capitale personale"]
 entities: ["Metodo BANDO","Capitale Personale"]
-source_refs: ["sources/metodo-bando-progetto-editoriale.md","sources/struttura-madre-il-metodo-bando.md"]
+source_refs: ["sources/metodo-bando-progetto-editoriale.md","sources/struttura-madre-il-metodo-bando.md","sources/idea-business-vendita-libri-capitale-personale-2026-07-03.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.82
-updated_at: 2026-06-27T19:56:28+02:00
+updated_at: 2026-07-03T15:34:27+02:00
 created_at: 2026-06-27T19:56:28+02:00
 review_required: true
 canonical: true
 tags: ["book-architecture","specialist-modules","metodo-bando"]
 module_families: 6
 module_count: 25
+commercial_volumes: 12
 ---
 
 # Architettura moduli specialistici Metodo BANDO
@@ -30,6 +31,17 @@ Il prodotto Metodo BANDO usa tre livelli:
 ## Normalizzazione della nuova architettura
 Il file esterno "NUOVA ARCHITETTURA PROGETTO LIBRO.txt" contiene etichette numeriche non coerenti tra loro: parla di "5 Famiglie x 23 Moduli" e in altri punti di 27 moduli. La tabella effettiva fornita elenca 6 famiglie e 25 moduli. Questa nota rende canonica la tabella effettiva: 6 famiglie, 25 moduli.
 
+## Aggiornamento commerciale 2026-07-03
+Il documento strategico [[sources/idea-business-vendita-libri-capitale-personale-2026-07-03|Idea di business e vendita libri Capitale Personale - aggiornamento catalogo 12 volumi]] conferma la tassonomia a 25 moduli, ma cambia il modo in cui la dashboard e la vendita devono presentarli: non una lista piatta di moduli, ma 12 volumi editoriali riconoscibili dal cliente.
+
+La gerarchia operativa diventa:
+
+1. Volume base: `Il Metodo BANDO`, con nucleo comune B-PA01/B-PA11 e ricettario digitale collegato.
+2. Volumi commerciali specialistici: 11 volumi che aggregano i 25 moduli per affinita editoriale e commerciale.
+3. Verticali e appendici: innesti profondi per profili tecnici, sanitari, ispettivi, ICT/cyber, premium o ad alta barriera.
+
+Nota di riconciliazione: nella descrizione dei 12 volumi il documento non cita esplicitamente M-FC01 e M-FL03, pur confermando 25 moduli. Per non lasciare moduli orfani, M-FC01 e' collocato in VOL-03 e M-FL03 in VOL-02.
+
 ## Famiglie canoniche
 - Funzioni Centrali: M-FC01, M-FC02, M-FC03, M-FC04, M-FC05
 - Funzioni Locali: M-FL01, M-FL02, M-FL03, M-FL04
@@ -43,14 +55,32 @@ Il file esterno "NUOVA ARCHITETTURA PROGETTO LIBRO.txt" contiene etichette numer
 - Ogni modulo ha un index.md e almeno un capitolo in chapters/.
 - Il book_id dei capitoli coincide con lo slug della cartella modulo.
 - I moduli sono compagni del libro principale: non duplicano il nucleo comune, ma lo applicano a profili, prove e materie specialistiche.
+- La dashboard deve mostrare i moduli dentro i 12 volumi commerciali, ma lo Studio e il Writer continuano a lavorare sul singolo book_id del modulo.
+- Il pacchetto cliente standard e': libro base + 1 modulo di famiglia. I pacchetti verticali aggiungono un modulo/appendice profonda. I pacchetti premium richiedono pricing e review piu rigorosi.
 - Le carriere speciali e i moduli sanitari richiedono source notes settoriali e review umana prima della pubblicazione.
 - La promessa corretta e': riusabile, aggiornabile, modulare. Evitare formule come copertura totale garantita o aggiornamento normativo automatico.
 
+## Catalogo commerciale 12 volumi
+| Volume | Titolo operativo | Moduli | Pacchetto |
+| --- | --- | --- | --- |
+| VOL-01 | Manuale base PA | B-PA01/B-PA11 + ricettario digitale | Base |
+| VOL-02 | Enti locali, Camere di commercio e Polizia locale | M-FL01, M-FL02, M-FL03, M-FL04 | Standard |
+| VOL-03 | Funzioni centrali, Fisco, Previdenza e Ispettivo | M-FC01, M-FC02, M-FC03 | Standard |
+| VOL-04 | Giustizia e UPP | M-FC04 | Standard |
+| VOL-05 | Authority e regolazione | M-FC05 | Premium |
+| VOL-06 | Scuola, Universita, Ricerca, Cultura | M-IR01, M-IR02, M-IR03, M-IR04 | Standard |
+| VOL-07 | Sanita amministrativa e professioni sanitarie | M-SA01, M-SA02, M-SA03, M-SA04 | Verticale |
+| VOL-08 | ICT, digitale, cybersecurity e dati | M-TR01 | Verticale |
+| VOL-09 | Appalti, PNRR e procurement | M-TR02 | Verticale |
+| VOL-10 | Tecnico-ingegneristico, territorio, lavori pubblici | M-TR03 | Verticale |
+| VOL-11 | Ambiente, protezione civile e sostenibilita | M-TR04 | Verticale |
+| VOL-12 | Carriere speciali premium | M-SP01, M-SP02, M-SP03, M-SP04 | Premium |
+
 ## Roadmap
-- Fase 1 MVP: M-FL01, M-IR01, M-FC03, M-SA02.
-- Fase 2 espansione commerciale: M-FC01, M-FC02, M-FL04, M-SA01, M-TR01, M-TR02.
-- Fase 3 profondita settoriale: M-FC04, M-FL02, M-FL03, M-IR02, M-IR03, M-IR04, M-SA03, M-SA04.
-- Fase 4 premium/speciali: M-FC05, M-TR03, M-TR04, M-SP01, M-SP02, M-SP03, M-SP04.
+- Prima ondata 3-6 mesi: libro base, ricettario digitale MVP, M-FL01, M-IR01, M-FC03, M-SA02, M-TR02.
+- Seconda ondata 6-12 mesi: M-FC01, M-FC02, M-FL04, M-IR02, M-SA01, M-TR01, M-TR03.
+- Terza ondata 12-18 mesi: M-FC05, M-FC04, M-FL02, M-FL03, M-IR03, M-IR04, M-SA03, M-SA04, M-TR04, M-SP01, M-SP02, M-SP03, M-SP04.
+- Ondata continua: audit bandi verso 150+ fonti, obiettivo 5-6 bandi per cluster, aggiornamento normativo su piattaforma e revisione semestrale dei moduli.
 
 ## Catalogo moduli
 | Famiglia | Codice | Modulo | Fase | Stato |

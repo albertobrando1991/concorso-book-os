@@ -162,7 +162,7 @@ h1 {
 
 .metrics {
   display: grid;
-  grid-template-columns: repeat(6, minmax(120px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(135px, 1fr));
   gap: 12px;
   margin-bottom: 18px;
 }
@@ -180,6 +180,247 @@ h1 {
   display: block;
   margin-top: 12px;
   font-size: 28px;
+}
+
+.activeVolumeNote {
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.catalogStrategy {
+  margin-bottom: 16px;
+}
+
+.catalogLevelGrid,
+.packageGrid {
+  display: grid;
+  gap: 10px;
+}
+
+.catalogLevelGrid {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  margin-bottom: 12px;
+}
+
+.catalogLevelGrid div,
+.packageCard,
+.activeVolumeCard,
+.launchRow,
+.textVolumeCard {
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  background: #fbfcfd;
+}
+
+.catalogLevelGrid div,
+.packageCard,
+.activeVolumeCard {
+  padding: 12px;
+}
+
+.catalogLevelGrid span,
+.packageCard span,
+.activeVolumeCard span,
+.launchRow span,
+.textVolumeCard small,
+.volumeVerticals span,
+.missingBooks {
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.catalogLevelGrid strong,
+.packageCard strong,
+.activeVolumeCard strong,
+.launchRow strong {
+  display: block;
+  margin-top: 4px;
+  color: var(--ink);
+}
+
+.catalogLevelGrid p,
+.packageCard p,
+.activeVolumeCard p,
+.textVolumeCard p {
+  margin: 7px 0 0;
+  color: #334155;
+  font-size: 13px;
+  line-height: 1.45;
+}
+
+.packageGrid {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.packageCard {
+  border-left: 3px solid var(--blue);
+}
+
+.packageCard:nth-child(2) {
+  border-left-color: var(--amber);
+}
+
+.packageCard:nth-child(3) {
+  border-left-color: var(--book-bordeaux);
+}
+
+.launchStack,
+.textCatalogList,
+.volumeBooks,
+.volumeVerticals {
+  display: grid;
+  gap: 8px;
+}
+
+.launchRow {
+  display: grid;
+  grid-template-columns: minmax(120px, 0.72fr) minmax(0, 1fr);
+  gap: 10px;
+  padding: 10px;
+}
+
+.launchRow p {
+  margin: 0;
+  color: #314158;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 1.45;
+}
+
+.activeVolumeCard {
+  margin-top: 12px;
+  border-left: 3px solid var(--green);
+}
+
+.textCatalogList {
+  max-height: 860px;
+  overflow: auto;
+  padding-right: 4px;
+}
+
+.textVolumeCard {
+  padding: 12px;
+}
+
+.textVolumeCard > header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 10px;
+  border-bottom: 0;
+  margin: 0 0 8px;
+  padding: 0;
+}
+
+.textVolumeCard h3 {
+  margin: 5px 0 0;
+  font-size: 15px;
+  line-height: 1.25;
+}
+
+.volumeTier {
+  display: inline-flex;
+  border: 1px solid #cdd6e2;
+  border-radius: 999px;
+  background: #fff;
+  color: var(--muted);
+  padding: 3px 8px;
+  font-size: 10px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.volumeTier.base {
+  border-color: #b8e2ca;
+  color: var(--green);
+  background: #f1fbf5;
+}
+
+.volumeTier.standard {
+  border-color: #b9d1f1;
+  color: var(--blue);
+  background: #f4f9ff;
+}
+
+.volumeTier.vertical {
+  border-color: #f1d8aa;
+  color: #8a5a00;
+  background: #fff8e8;
+}
+
+.volumeTier.premium {
+  border-color: #d8caa7;
+  color: var(--book-bordeaux);
+  background: #fffaf0;
+}
+
+.moduleChips,
+.volumeVerticals {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 10px;
+}
+
+.moduleChips span {
+  border-radius: 999px;
+  background: #e8edf3;
+  color: #314158;
+  padding: 4px 7px;
+  font-size: 11px;
+  font-weight: 800;
+}
+
+.volumeVerticals span {
+  border-left: 2px solid var(--line);
+  padding-left: 7px;
+}
+
+.volumeBooks {
+  margin-top: 10px;
+}
+
+.catalogBookLink {
+  display: grid;
+  grid-template-columns: 56px minmax(0, 1fr);
+  gap: 5px 8px;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  background: #fff;
+  padding: 9px;
+  transition: border-color 0.15s ease, background 0.15s ease;
+}
+
+.catalogBookLink:hover,
+.catalogBookLink.active {
+  border-color: #9ebbe0;
+  background: #edf5ff;
+}
+
+.catalogBookLink > span {
+  grid-row: span 2;
+  align-self: center;
+  color: var(--blue);
+  font-size: 11px;
+  font-weight: 800;
+}
+
+.catalogBookLink strong {
+  min-width: 0;
+  overflow-wrap: anywhere;
+  font-size: 13px;
+  line-height: 1.25;
+}
+
+.catalogBookLink small {
+  display: block;
+}
+
+.missingBooks {
+  border: 1px dashed var(--line);
+  border-radius: 6px;
+  padding: 8px;
 }
 
 .metric.green {
@@ -2089,6 +2330,8 @@ meter {
   .metrics,
   .grid.two,
   .grid.three,
+  .catalogLevelGrid,
+  .packageGrid,
   .timeline,
   .writerGrid,
   .graphLayout,
@@ -2144,6 +2387,8 @@ meter {
   .metrics,
   .grid.two,
   .grid.three,
+  .catalogLevelGrid,
+  .packageGrid,
   .timeline,
   .artifactList,
   .writerGrid,
@@ -2179,6 +2424,11 @@ meter {
   }
 
   .chapterPreviewHeader {
+    grid-template-columns: 1fr;
+  }
+
+  .launchRow,
+  .catalogBookLink {
     grid-template-columns: 1fr;
   }
 

@@ -27,6 +27,18 @@ import { buildBookStudioData } from "@/src/server/book/book-preview"
 import { BookSelector } from "./components/book-selector"
 import { BookCreatorPanel } from "./components/book-creator-panel"
 import { EditorialReviewerPanel } from "./components/editorial-reviewer-panel"
+import {
+  TEXT_CATALOG_MODULE_COUNT,
+  TEXT_CATALOG_PACKAGE_RULES,
+  TEXT_VOLUME_CATALOG,
+  type TextVolume,
+  findTextVolumeForBookId,
+  normalizeTextBookId,
+  textBookIdFromPath,
+  textCatalogSortRank,
+  textLaunchWaveLabel,
+  textVolumeTierLabel
+} from "@/src/catalog/text-volumes"
 
 export const dynamic = "force-dynamic"
 
@@ -39,17 +51,18 @@ type HomeProps = {
 }
 
 const navigation = [
-  ["Overview", Database],
-  ["Sources", FileSearch],
-  ["Topics", Layers3],
-  ["Books", BookOpen],
-  ["Studio", BookOpen],
-  ["Writer", PenIcon],
-  ["Graph", GitBranch],
-  ["Agents", Bot],
-  ["Quality", ShieldCheck],
-  ["Logs", ScrollText],
-  ["Settings", Settings]
+  { label: "Strategia", id: "overview", Icon: Database },
+  { label: "Catalogo", id: "catalogo", Icon: Library },
+  { label: "Studio", id: "studio", Icon: BookOpen },
+  { label: "Writer", id: "writer", Icon: PenIcon },
+  { label: "Testi", id: "testi", Icon: BookOpen },
+  { label: "Fonti", id: "sources", Icon: FileSearch },
+  { label: "Topic", id: "topics", Icon: Layers3 },
+  { label: "Graph", id: "graph", Icon: GitBranch },
+  { label: "Agents", id: "agents", Icon: Bot },
+  { label: "Quality", id: "quality", Icon: ShieldCheck },
+  { label: "Logs", id: "logs", Icon: ScrollText },
+  { label: "Settings", id: "settings", Icon: Settings }
 ] as const
 
 export default async function Home({ searchParams }: HomeProps) {
@@ -68,6 +81,10 @@ export default async function Home({ searchParams }: HomeProps) {
   const sourceReader = selectedSource ? await loadSourceReader(store, selectedSource) : null
   const topTopics = data.topics.slice(0, 6)
   const topIssues = data.qualityIssues.slice(0, 6)
+  const catalogVolumes = buildCatalogVolumes(data.books)
+  const activeCatalogVolume = findTextVolumeForBookId(requestedBookId)
+  const availableCatalogTexts = catalogVolumes.reduce((count, volume) => count + volume.availableBooks.length, 0)
+  const reviewRequiredTexts = data.books.filter((book) => book.reviewRequired).length
 
   return (
     <main className="shell">
@@ -80,8 +97,8 @@ export default async function Home({ searchParams }: HomeProps) {
           </div>
         </div>
         <nav className="navList">
-          {navigation.map(([label, Icon]) => (
-            <a href={`#${label.toLowerCase()}`} key={label}>
+          {navigation.map(({ label, id, Icon }) => (
+            <a href={`#${id}`} key={id}>
               <Icon size={18} aria-hidden />
               {label}
             </a>
@@ -99,24 +116,33 @@ export default async function Home({ searchParams }: HomeProps) {
       <section className="workspace">
         <header className="topbar" id="overview">
           <div>
-            <p className="eyebrow">Dominio iniziale: concorsi pubblici italiani</p>
-            <h1>Knowledge base agentica per libri incrementali</h1>
+            <p className="eyebrow">Libro base + ricettario digitale + 12 volumi specialistici</p>
+            <h1>Dashboard catalogo testi e produzione editoriale</h1>
           </div>
           <div className="topActions" style={{ display: "flex", flexDirection: "column", gap: "4px" }}>
-            <span>Active book</span>
+            <span>Testo attivo</span>
             <BookSelector books={data.books} currentBookId={requestedBookId} />
+            {activeCatalogVolume ? (
+              <small className="activeVolumeNote">
+                {activeCatalogVolume.code} | {textVolumeTierLabel(activeCatalogVolume.tier)} | {textLaunchWaveLabel(activeCatalogVolume.launchWave)}
+              </small>
+            ) : (
+              <small className="activeVolumeNote">Testo fuori catalogo commerciale</small>
+            )}
           </div>
         </header>
 
         <section className="metrics" aria-label="Metriche operative">
-          <Metric label="Fonti totali" value={data.metrics.totalSources} accent="blue" />
-          <Metric label="Fonti non processate" value={data.metrics.unprocessedSources} accent="amber" />
-          <Metric label="Topic recenti" value={data.metrics.recentTopics} accent="green" />
-          <Metric label="Capitoli in bozza" value={data.metrics.draftChapters} accent="blue" />
-          <Metric label="Capitoli consolidati" value={data.metrics.consolidatedChapters} accent="green" />
+          <Metric label="Volumi catalogo" value={TEXT_VOLUME_CATALOG.length} accent="blue" />
+          <Metric label="Moduli specialistici" value={TEXT_CATALOG_MODULE_COUNT} accent="green" />
+          <Metric label="Testi in dashboard" value={availableCatalogTexts} accent="blue" />
+          <Metric label="Fonti totali" value={data.metrics.totalSources} accent="green" />
+          <Metric label="Review richieste" value={reviewRequiredTexts} accent="amber" />
           <Metric label="Conflitti aperti" value={data.metrics.openConflicts} accent="red" />
           <Metric label="Memorie locali" value={data.metrics.memoryAtoms} accent="amber" />
         </section>
+
+        <CatalogStrategyPanel volumes={catalogVolumes} activeVolume={activeCatalogVolume} />
 
         <BookStudioPanel
           initialData={bookStudio}
@@ -137,25 +163,25 @@ export default async function Home({ searchParams }: HomeProps) {
           <Panel title="Pipeline stato" icon={<ListChecks size={19} aria-hidden />}>
             <ol className="timeline">
               <li>
-                <strong>Entrato</strong>
-                <span>{data.sources.length} source notes tracciate nel vault.</span>
+                <strong>Fondazione</strong>
+                <span>Libro base, 11 nuclei comuni e ricettario digitale restano il centro del sistema.</span>
               </li>
               <li>
-                <strong>Capito</strong>
-                <span>{data.topics.length} topic pages e knowledge link disponibili.</span>
+                <strong>Catalogo</strong>
+                <span>{TEXT_VOLUME_CATALOG.length} volumi commerciali coprono {TEXT_CATALOG_MODULE_COUNT} moduli specialistici.</span>
               </li>
               <li>
-                <strong>Aggiornato</strong>
-                <span>{data.books.length} libro demo con capitoli modulari.</span>
+                <strong>Produzione</strong>
+                <span>{availableCatalogTexts} testi sono selezionabili in dashboard e lavorabili nello Studio.</span>
               </li>
               <li>
-                <strong>Da fare</strong>
-                <span>{data.qualityIssues.length} issue aperte da lint/review.</span>
+                <strong>Controllo</strong>
+                <span>{data.qualityIssues.length} issue aperte da lint/review prima della pubblicazione.</span>
               </li>
             </ol>
           </Panel>
 
-          <Panel title="Agent queue" icon={<Bot size={19} aria-hidden />}>
+          <Panel title="Agent queue" icon={<Bot size={19} aria-hidden />} id="agents">
             <div className="agentGrid">
               {["Ingest Agent", "Knowledge Maintainer", "Manual Writer Agent", "Book Writer", "Quiz Agent", "Lint Agent", "Review Agent"].map(
                 (agent, index) => (
@@ -200,36 +226,8 @@ export default async function Home({ searchParams }: HomeProps) {
             </div>
           </Panel>
 
-          <Panel title="Books" icon={<BookOpen size={19} aria-hidden />} id="books">
-            <div className="booksGridList" style={{ display: "grid", gap: "10px" }}>
-              {data.books.map((book) => {
-                const bookId = book.path.replace("books/", "").replace("/index.md", "")
-                const active = bookId === requestedBookId
-                return (
-                  <a
-                    href={`/?bookId=${encodeURIComponent(bookId)}`}
-                    className={`bookBlock${active ? " active" : ""}`}
-                    key={book.path}
-                    style={{
-                      display: "block",
-                      border: active ? "1px solid #9ebbe0" : "1px solid var(--line)",
-                      background: active ? "#edf5ff" : "var(--panel)",
-                      borderRadius: "6px",
-                      padding: "12px",
-                      transition: "all 0.15s ease"
-                    }}
-                  >
-                    <strong style={{ display: "block" }}>{book.title}</strong>
-                    <span style={{ display: "block", fontSize: "13px", color: "var(--muted)", marginTop: "4px" }}>
-                      {book.chapters} capitoli | {book.status}
-                    </span>
-                    <small style={{ display: "block", fontSize: "11px", color: book.reviewRequired ? "var(--red)" : "var(--green)", marginTop: "4px", fontWeight: 600 }}>
-                      {book.reviewRequired ? "review_required" : "stable"}
-                    </small>
-                  </a>
-                )
-              })}
-            </div>
+          <Panel title="Lista testi" icon={<BookOpen size={19} aria-hidden />} id="testi">
+            <TextCatalogList volumes={catalogVolumes} currentBookId={requestedBookId} />
           </Panel>
         </section>
 
@@ -276,6 +274,193 @@ function Metric({ label, value, accent }: { label: string; value: number; accent
     <div className={`metric ${accent}`}>
       <span>{label}</span>
       <strong>{value}</strong>
+    </div>
+  )
+}
+
+type DashboardBookItem = Awaited<ReturnType<typeof getDashboardData>>["books"][number]
+
+type CatalogBookItem = {
+  book: DashboardBookItem
+  bookId: string
+  moduleCode: string
+}
+
+type CatalogVolumeView = TextVolume & {
+  availableBooks: CatalogBookItem[]
+  missingBookIds: string[]
+}
+
+function buildCatalogVolumes(books: DashboardBookItem[]): CatalogVolumeView[] {
+  const booksById = new Map(
+    books.map((book) => [normalizeTextBookId(textBookIdFromPath(book.path)), book])
+  )
+
+  return TEXT_VOLUME_CATALOG.map((volume) => {
+    const availableBooks = volume.bookIds
+      .map((bookId, index) => {
+        const normalized = normalizeTextBookId(bookId)
+        const book = booksById.get(normalized)
+
+        if (!book) return null
+
+        return {
+          book,
+          bookId: textBookIdFromPath(book.path),
+          moduleCode: volume.modules[index] || "BASE"
+        }
+      })
+      .filter((book): book is CatalogBookItem => Boolean(book))
+      .sort((left, right) => textCatalogSortRank(left.bookId) - textCatalogSortRank(right.bookId))
+
+    return {
+      ...volume,
+      availableBooks,
+      missingBookIds: volume.bookIds.filter((bookId) => !booksById.has(normalizeTextBookId(bookId)))
+    }
+  })
+}
+
+function CatalogStrategyPanel({
+  volumes,
+  activeVolume
+}: {
+  volumes: CatalogVolumeView[]
+  activeVolume?: TextVolume
+}) {
+  const firstWaveModules = volumes
+    .filter((volume) => volume.launchWave === "first")
+    .flatMap((volume) => volume.modules)
+  const secondWaveModules = volumes
+    .filter((volume) => volume.launchWave === "second")
+    .flatMap((volume) => volume.modules)
+  const premiumModules = volumes
+    .filter((volume) => volume.tier === "premium")
+    .flatMap((volume) => volume.modules)
+
+  return (
+    <section className="grid two catalogStrategy" id="catalogo">
+      <Panel title="Architettura commerciale" icon={<Library size={19} aria-hidden />}>
+        <div className="catalogLevelGrid">
+          <div>
+            <span>Livello 1</span>
+            <strong>Libro base</strong>
+            <p>Manuale universale con Metodo BANDO, nucleo comune e prove.</p>
+          </div>
+          <div>
+            <span>Livello 2</span>
+            <strong>Ricettario digitale</strong>
+            <p>Allenamento, schede, casi, planner, quiz e dashboard su capitalepersonale.it.</p>
+          </div>
+          <div>
+            <span>Livello 3</span>
+            <strong>Moduli specialistici</strong>
+            <p>{TEXT_CATALOG_MODULE_COUNT} moduli raccolti in {TEXT_VOLUME_CATALOG.length} volumi commerciali.</p>
+          </div>
+        </div>
+
+        <div className="packageGrid" aria-label="Pacchetti commerciali">
+          {TEXT_CATALOG_PACKAGE_RULES.map((rule) => (
+            <div className="packageCard" key={rule.key}>
+              <strong>{rule.label}</strong>
+              <span>{rule.formula}</span>
+              <p>{rule.description}</p>
+            </div>
+          ))}
+        </div>
+      </Panel>
+
+      <Panel title="Priorita produzione" icon={<ListChecks size={19} aria-hidden />}>
+        <div className="launchStack">
+          <LaunchRow label="Prima ondata" modules={firstWaveModules} note="Moduli a domanda alta e bando ricorrente." />
+          <LaunchRow label="Seconda ondata" modules={secondWaveModules} note="Espansione ampia: centrali, fiscale, ICT, tecnico." />
+          <LaunchRow label="Premium" modules={premiumModules} note="Target ristretto, prezzo alto, review settoriale obbligatoria." />
+        </div>
+
+        <div className="activeVolumeCard">
+          <span>Testo attivo</span>
+          <strong>{activeVolume ? `${activeVolume.code} - ${activeVolume.title}` : "Fuori catalogo"}</strong>
+          <p>{activeVolume?.promise || "Il testo selezionato non appartiene ancora alla mappa commerciale a 12 volumi."}</p>
+        </div>
+      </Panel>
+    </section>
+  )
+}
+
+function LaunchRow({ label, modules, note }: { label: string; modules: string[]; note: string }) {
+  return (
+    <div className="launchRow">
+      <div>
+        <strong>{label}</strong>
+        <span>{note}</span>
+      </div>
+      <p>{modules.join(" | ") || "Da definire"}</p>
+    </div>
+  )
+}
+
+function TextCatalogList({
+  volumes,
+  currentBookId
+}: {
+  volumes: CatalogVolumeView[]
+  currentBookId: string
+}) {
+  const normalizedCurrent = normalizeTextBookId(currentBookId)
+
+  return (
+    <div className="textCatalogList">
+      {volumes.map((volume) => (
+        <article className="textVolumeCard" key={volume.code}>
+          <header>
+            <div>
+              <span className={`volumeTier ${volume.tier}`}>{textVolumeTierLabel(volume.tier)}</span>
+              <h3>{volume.code} - {volume.title}</h3>
+            </div>
+            <small>{textLaunchWaveLabel(volume.launchWave)}</small>
+          </header>
+
+          <p>{volume.promise}</p>
+
+          <div className="moduleChips" aria-label={`Moduli ${volume.code}`}>
+            {(volume.modules.length > 0 ? volume.modules : ["B-PA01/B-PA11"]).map((module) => (
+              <span key={module}>{module}</span>
+            ))}
+          </div>
+
+          <div className="volumeVerticals">
+            {volume.verticals.map((vertical) => (
+              <span key={vertical}>{vertical}</span>
+            ))}
+          </div>
+
+          <div className="volumeBooks">
+            {volume.availableBooks.map(({ book, bookId, moduleCode }) => {
+              const active = normalizeTextBookId(bookId) === normalizedCurrent
+
+              return (
+                <a
+                  href={`/?bookId=${encodeURIComponent(bookId)}#studio`}
+                  className={`catalogBookLink${active ? " active" : ""}`}
+                  key={book.path}
+                >
+                  <span>{moduleCode}</span>
+                  <strong>{book.title}</strong>
+                  <small>
+                    {book.chapters} capitoli | {book.status} | {book.reviewRequired ? "review_required" : "stable"}
+                  </small>
+                </a>
+              )
+            })}
+
+            {volume.missingBookIds.length > 0 ? (
+              <div className="missingBooks">
+                Da inizializzare: {volume.missingBookIds.map((bookId) => bookId.replace("moduli/", "")).join(", ")}
+              </div>
+            ) : null}
+          </div>
+        </article>
+      ))}
     </div>
   )
 }

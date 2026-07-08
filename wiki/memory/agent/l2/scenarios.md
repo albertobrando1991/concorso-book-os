@@ -656,3 +656,12 @@
 - atoms:
   - mem-20260702174254-iq6giv | instruction | Redigere il terzo capitolo del modulo M-FC02 con stile accademico/manualistico, fonti consolidate e struttura dei capitoli esistenti.
   - mem-20260702174254-14g79zt | result | Esito codex/manual-writer/mfc02-chapter03: Redigere il terzo capitolo del modulo M-FC02 con stile accademico/manualistico, fonti consolidate e struttura dei capitoli esistenti. -> M-FC02 capitolo 3 completato in professional draft: ordinamento e organizzazione di Agenzia delle Entrate, ADM e Agenzia delle entrate-Riscossione; D.Lgs.
+
+## 2026-07-03T15:37:48.293Z - concorso-book-os
+
+- conversation_id: conv-20260703153748-oyh59l
+- route: codex/dashboard-catalog-restructure
+- l0: l0/conv-20260703153748-oyh59l.md
+- atoms:
+  - mem-20260703153748-pv65mj | workflow | Analizzare il DOCX Idea di business e vendita libri Capitale Personale e ristrutturare dashboard e lista testi in funzione della nuova struttura dei volumi.
+  - mem-20260703153748-1g54jxj | result | Esito codex/dashboard-catalog-restructure: Analizzare il DOCX Idea di business e vendita libri Capitale Personale e ristrutturare dashboard e lista testi in funzione della nuova struttura dei volumi. -> Dashboard ristrutturata intorno al catalogo commerciale a 12 volumi.
