@@ -5,11 +5,16 @@ Usala come profilo di lavoro: le source notes e il wiki restano la base canonica
 
 ## Preferenze e istruzioni recenti
 
+- Analizzare integralmente VOL-01, usare le skill writer e revisore, verificare le 11 aree B-PA, correggere grammatica e impaginazione professionale, usare come struttura canonica il file VOL-01 del 14 luglio 2026 e conservare tutte le immagini esistenti. (mem-20260714165808-1lx9tc2)
+- Completa le sezioni mancanti di VOL-01 e analizza le modifiche al layout dei capitoli. (mem-20260714155755-1pwxyid)
+- Nel catalogo dashboard, il Volume 1 Il Metodo BANDO non deve essere toccato. (mem-20260710221334-zq2w8j)
+- Analizzare il DOCX Idea di business e vendita libri Capitale Personale e ristrutturare dashboard e lista testi in funzione della nuova struttura dei volumi. (mem-20260703153748-pv65mj)
+- Integra immagini editoriali coerenti con il libro base nel capitolo attuale M-FC02, scegliendo numero, tema e posizione, senza sovrapposizioni di testo o immagini. (mem-20260702202003-mfc02-cap04-images-workflow)
+- Redigere il quarto capitolo del modulo M-FC02 con stile accademico/manualistico, struttura coerente con gli altri capitoli esistenti, fonti consolidate e fonti autorevoli se necessarie. (mem-20260702200540-mfc02-cap04-instruction)
 - Redigere il terzo capitolo del modulo M-FC02 con stile accademico/manualistico, fonti consolidate e struttura dei capitoli esistenti. (mem-20260702174254-iq6giv)
 - Correggi dettaglio memoria intervento immagini M-FC02 capitolo 2. (mem-20260702172618-86ux49)
 - Integra immagini editoriali coerenti nel capitolo 2 M-FC02 Bando Decoder fiscale, con layout senza sovrapposizioni. (mem-20260702172456-xesxf9)
 - PRODEGUI CON IL SECONDO CAPITOLO DEL LIBRO (mem-20260702163706-1pr3th0)
-- Analizzare il DOCX Idea di business e vendita libri Capitale Personale e ristrutturare dashboard e lista testi in funzione della nuova struttura dei volumi. (mem-20260703153748-pv65mj)
 - Usa prima il cervello wiki: struttura madre, nota capitolo, source notes, topic pages, entity pages e design system; scarica altre fonti necessarie per la copertura totale della conoscenza e procedi poi alla scrittura professionale del capitolo completo (mem-20260629152136-195qkxl)
 - instruction=Scrivi il capitolo effettivo , non un riepilogo tecnico. (mem-20260629152136-1cg7i7s)
 - instruction=Applica la skill humanizer al capitolo: rimuovi segnali di scrittura AI, conserva significato, riferimenti e struttura Metodo BANDO, riscrivi solo i passaggi necessari. (mem-20260629124807-pg6ite)

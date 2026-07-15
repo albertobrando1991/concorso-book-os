@@ -304,7 +304,7 @@ Decisione: collega ogni strumento a servizio pubblico, sicurezza, privacy e inte
 
 Decisione: costruisci casi su cittadino, controllo, verbale, ordinanza, sanzione.
 
-### 11. sanità amministrativa
+### 11. Sanità amministrativa
 
 | Area | priorità |
 |---|---|

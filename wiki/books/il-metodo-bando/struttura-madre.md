@@ -6,10 +6,10 @@ status: canonical
 domain: "concorsi pubblici italiani"
 topics: ["metodo bando","struttura libro","nucleo comune concorsi pubblici","prove concorsuali","mappe profilo","moduli integrativi","ricettario digitale","moduli specialistici"]
 entities: ["Metodo BANDO","Bando Decoder","Moduli Profilo","Piano 30/60/90 giorni","Diario degli errori"]
-source_refs: ["sources/struttura-madre-il-metodo-bando.md","sources/metodo-bando-progetto-editoriale.md"]
+source_refs: ["sources/struttura-madre-il-metodo-bando.md","sources/metodo-bando-progetto-editoriale.md","sources/vol-01-il-metodo-bando-struttura-2026-07-14.md","sources/logica-volumi-copertura-concorsobook-v4.md"]
 book_refs: ["il-metodo-bando","moduli-specialistici"]
 confidence: 0.96
-updated_at: 2026-06-27T19:56:28+02:00
+updated_at: 2026-07-14T19:00:00+02:00
 created_at: 2026-05-10T11:45:00+02:00
 review_required: false
 canonical: true
@@ -34,6 +34,8 @@ I capitoli gia scritti dal 25 al 47 non vengono eliminati e non diventano una se
 
 Terzo livello: [[books/moduli/architettura-moduli-specialistici|moduli specialistici per famiglia concorsuale]]. I moduli sono libri di lavoro separati nella dashboard, con `book_id` autonomo, e servono a sviluppare profili, prove, materie specialistiche e casi tipici senza appesantire il volume principale.
 
+La specifica strutturale del 14 luglio 2026 rende vincolanti per VOL-01 le undici aree `B-PA01/B-PA11`, l'introduzione, i capitoli 1-24 e le appendici A-F. Il target di circa 130.000 parole e una misura di lavorazione da ridurre in editing: completezza, leggibilita e utilita operativa prevalgono sul conteggio meccanico.
+
 ## Moduli specialistici collegati
 La tassonomia canonica dei moduli specialistici normalizza la nuova architettura in 6 famiglie e 25 moduli effettivamente elencati:
 
@@ -51,7 +53,7 @@ Il design system canonico e':
 
 `books/il-metodo-bando/design-system-editoriale.md`
 
-Decisione: il libro deve essere impaginato come manuale-workbook professionale in formato 17 x 24 cm circa, con corpo serif leggibile, titoli e box sans serif, colonna singola, strumenti compilabili e box operativi ricorrenti.
+Decisione: il master di scrittura, revisione e anteprima deve essere impaginato in A4 verticale, con corpo serif leggibile, titoli e box sans serif, colonna singola, strumenti compilabili e box operativi ricorrenti. Il formato 17 x 24 cm circa e la derivazione commerciale compatta successiva.
 
 Ogni capitolo deve essere scritto pensando alla pagina: spiegazione, box, caso, esercizio, errore tipico, riferimenti e note di review non sono accessori, ma parti della struttura didattica.
 

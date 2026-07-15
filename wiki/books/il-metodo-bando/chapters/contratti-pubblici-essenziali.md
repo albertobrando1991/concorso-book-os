@@ -9,7 +9,7 @@ entities: ["D.Lgs. 36/2023", "D.Lgs. 209/2024", "RUP", "ANAC", "MEPA", "Consip",
 source_refs: ["sources/struttura-madre-il-metodo-bando.md", "sources/capitolo-9-corpus-fonti-ufficiali-contratti-pubblici-2026-05-26.md", "sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024.md", "sources/ciclo-contratti-pubblici-rup-stazione-appaltante-operatore-economico.md", "sources/procedure-affidamento-gare-appalti-concessioni-soglie.md", "sources/digitalizzazione-contratti-pubblici-anac-bdncp-fvoe-pcp.md", "sources/mepa-consip-acquisti-in-rete-strumenti-acquisto-negoziazione.md", "sources/trasparenza-anticorruzione-controlli-tracciabilita-contratti-pubblici.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.92
-updated_at: "2026-05-29T10:30:00+02:00"
+updated_at: "2026-07-14T19:00:00+02:00"
 created_at: "2026-05-10T11:45:00+02:00"
 review_required: false
 canonical: true
@@ -326,7 +326,7 @@ La digitalizzazione dei contratti pubblici non è un accessorio informatico. Dal
 | FVOE | Fascicolo virtuale dell'operatore economico, rilevante per la verifica dei requisiti. |
 | Piattaforme digitali | Strumenti di approvvigionamento che gestiscono procedure, dati, comunicazioni e interoperabilità. |
 
-La BDNCP riguarda dati e informazioni sui contratti. Il FVOE riguarda la verifica dei requisiti dell'operatore economico. Confonderli è un errore tipico.
+La BDNCP riguarda dati e informazioni sui contratti. Il FVOE riguarda la verifica dei requisiti dell'operatore economico. Confonderli è un errore tipico. Dal 2024 le piattaforme di approvvigionamento digitale certificate trasmettono i dati alla BDNCP; nella sezione «Amministrazione trasparente» l'amministrazione pubblica il collegamento ai dati del ciclo di vita del contratto e gli eventuali dati o atti residui richiesti dalla disciplina vigente.
 
 Digitalizzazione significa:
 
@@ -398,7 +398,7 @@ La responsabilità può essere amministrativa, contabile, disciplinare, civile o
 
 Il candidato deve evitare due estremi: pensare che ogni irregolarità sia automaticamente reato, oppure pensare che la procedura sia solo forma senza effetti. Nei contratti pubblici forma e sostanza sono legate: le regole servono a proteggere concorrenza, risorse e risultato.
 
-![Figura 9.6 - Dal portale al controllo: Consip, Acquisti in Rete, MEPA e strumenti digitali restano dentro motivazione, tracciabilità, esecuzione e responsabilità.](../assets/chapter-09/06-acquisti-controlli-responsabilità.png)
+![Figura 9.6 - Dal portale al controllo: Consip, Acquisti in Rete, MEPA e strumenti digitali restano dentro motivazione, tracciabilità, esecuzione e responsabilità.](../assets/chapter-09/06-acquisti-controlli-responsabilita.png)
 
 ## Schema operativo di risposta
 

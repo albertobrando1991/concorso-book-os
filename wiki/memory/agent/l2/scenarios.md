@@ -665,3 +665,47 @@
 - atoms:
   - mem-20260703153748-pv65mj | workflow | Analizzare il DOCX Idea di business e vendita libri Capitale Personale e ristrutturare dashboard e lista testi in funzione della nuova struttura dei volumi.
   - mem-20260703153748-1g54jxj | result | Esito codex/dashboard-catalog-restructure: Analizzare il DOCX Idea di business e vendita libri Capitale Personale e ristrutturare dashboard e lista testi in funzione della nuova struttura dei volumi. -> Dashboard ristrutturata intorno al catalogo commerciale a 12 volumi.
+
+## 2026-07-10T22:13:34.957Z - catalog-dashboard
+
+- conversation_id: conv-20260710221334-8fk3vl
+- route: catalog-volume-scope-correction
+- l0: l0/conv-20260710221334-8fk3vl.md
+- atoms:
+  - mem-20260710221334-zq2w8j | workflow | Nel catalogo dashboard, il Volume 1 Il Metodo BANDO non deve essere toccato.
+  - mem-20260710221334-1xcl483 | result | Esito catalog-volume-scope-correction: Nel catalogo dashboard, il Volume 1 Il Metodo BANDO non deve essere toccato. -> Correzione applicata: VOL-01 resta il libro base originale; l'aggregazione editoriale resta limitata ai volumi specialistici VOL-02-VOL-12.
+
+## 2026-07-14T15:57:55.466Z - il-metodo-bando
+
+- conversation_id: conv-20260714155755-1ueyp44
+- route: codex/manual-writer
+- l0: l0/conv-20260714155755-1ueyp44.md
+- atoms:
+  - mem-20260714155755-1pwxyid | workflow | Completa le sezioni mancanti di VOL-01 e analizza le modifiche al layout dei capitoli.
+  - mem-20260714155755-1hbj0xm | result | Esito codex/manual-writer: Completa le sezioni mancanti di VOL-01 e analizza le modifiche al layout dei capitoli. -> Completate B-PA04 con un quadro essenziale sui reati contro la PA nel capitolo 6 e B-PA11 con il laboratorio di redazione atti nel capitolo 15.
+
+## 2026-07-14T16:06:49.823Z - catalog-governance
+
+- conversation_id: conv-20260714160649-lfigmj
+- route: Codex.volume-coverage-v4
+- l0: l0/conv-20260714160649-lfigmj.md
+- atoms:
+  - mem-20260714160649-18ljyby | project_fact | Rendere logica_volumi_copertura_concorsobook_v4.md la base vincolante per sviluppo dei volumi, prossimi passi e revisioni.
+  - mem-20260714160649-18qc8ta | result | Esito Codex.volume-coverage-v4: Rendere logica_volumi_copertura_concorsobook_v4.md la base vincolante per sviluppo dei volumi, prossimi passi e revisioni. -> Ingestita la fonte v4 e applicata a architettura, AGENTS, Manual Writer e Revisore Editoriale.
+
+## 2026-07-14T16:58:08.462Z - vol01-editorial-review
+
+- conversation_id: conv-20260714165808-w505d2
+- route: Codex.fullVolumeReview
+- l0: l0/conv-20260714165808-w505d2.md
+- atoms:
+  - mem-20260714165808-1lx9tc2 | instruction | Analizzare integralmente VOL-01, usare le skill writer e revisore, verificare le 11 aree B-PA, correggere grammatica e impaginazione professionale, usare come struttura canonica il file VOL-01 del 14 luglio 2026 e conservare tutte le immagini esistenti.
+  - mem-20260714165808-1ke3qis | result | Esito Codex.fullVolumeReview: Analizzare integralmente VOL-01, usare le skill writer e revisore, verificare le 11 aree B-PA, correggere grammatica e impaginazione professionale, usare come struttura canonica il file VOL-01 del 14 luglio 2026 e con... -> Revisione completa eseguita.
+
+## 2026-07-15T19:02:10.448Z - editorial-layout
+
+- conversation_id: conv-20260715190210-13qj2ug
+- route: Codex.volume01LayoutOptimization
+- l0: l0/conv-20260715190210-13qj2ug.md
+- atoms:
+  - mem-20260715190210-1b65r83 | result | Esito Codex.volume01LayoutOptimization: Le pagine del Volume 1 non sono ottimizzate: c'e troppo spazio vuoto tra le pagine. -> Ottimizzata la paginazione A4 del VOL-01 Il Metodo BANDO.

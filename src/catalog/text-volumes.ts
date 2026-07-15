@@ -14,6 +14,8 @@ export interface TextVolume {
   verticals: string[]
 }
 
+export const TEXT_VOLUME_BOOK_ID_PREFIX = "volumi/"
+
 export const TEXT_VOLUME_CATALOG: TextVolume[] = [
   {
     code: "VOL-01",
@@ -187,6 +189,10 @@ export const TEXT_VOLUME_CATALOG: TextVolume[] = [
 
 export const TEXT_CATALOG_MODULE_COUNT = new Set(TEXT_VOLUME_CATALOG.flatMap((volume) => volume.modules)).size
 
+export function isSpecialistTextVolume(volume: TextVolume) {
+  return volume.code !== "VOL-01" && volume.modules.length > 0
+}
+
 export const TEXT_CATALOG_PACKAGE_RULES = [
   {
     key: "standard",
@@ -214,16 +220,48 @@ export function textBookIdFromPath(bookPath: string) {
 
 export function normalizeTextBookId(bookId: string) {
   const normalized = bookId.replace(/^books\//, "").replace(/\/index\.md$/, "")
+  const lowercase = normalized.toLowerCase()
+  const volumeCode = lowercase.replace(/^volumi\//, "")
 
-  if (/^m-[a-z0-9-]+$/.test(normalized)) return `moduli/${normalized}`
+  if (/^vol-\d{2}$/.test(volumeCode)) {
+    const volume = TEXT_VOLUME_CATALOG.find((item) => item.code.toLowerCase() === volumeCode)
+
+    if (volume && !isSpecialistTextVolume(volume)) return volume.bookIds[0] || normalized
+
+    return `${TEXT_VOLUME_BOOK_ID_PREFIX}${volumeCode}`
+  }
+
+  if (/^m-[a-z0-9-]+$/.test(lowercase)) return `moduli/${lowercase}`
 
   return normalized
+}
+
+export function textVolumeBookId(volume: TextVolume) {
+  if (!isSpecialistTextVolume(volume)) return volume.bookIds[0] || "il-metodo-bando"
+
+  return `${TEXT_VOLUME_BOOK_ID_PREFIX}${volume.code.toLowerCase()}`
+}
+
+export function isTextVolumeBookId(bookId: string) {
+  return normalizeTextBookId(bookId).startsWith(TEXT_VOLUME_BOOK_ID_PREFIX)
 }
 
 export function findTextVolumeForBookId(bookId: string) {
   const normalized = normalizeTextBookId(bookId)
 
+  if (normalized.startsWith(TEXT_VOLUME_BOOK_ID_PREFIX)) {
+    const code = normalized.replace(TEXT_VOLUME_BOOK_ID_PREFIX, "")
+
+    return TEXT_VOLUME_CATALOG.find((volume) => volume.code.toLowerCase() === code)
+  }
+
   return TEXT_VOLUME_CATALOG.find((volume) => volume.bookIds.includes(normalized))
+}
+
+export function bookIdsForTextVolumeBookId(bookId: string) {
+  const volume = findTextVolumeForBookId(bookId)
+
+  return volume && isTextVolumeBookId(bookId) ? volume.bookIds : []
 }
 
 export function textVolumeTierLabel(tier: TextVolumeTier) {
@@ -245,6 +283,13 @@ export function textLaunchWaveLabel(wave: TextLaunchWave) {
 
 export function textCatalogSortRank(bookId: string) {
   const normalized = normalizeTextBookId(bookId)
+
+  if (normalized.startsWith(TEXT_VOLUME_BOOK_ID_PREFIX)) {
+    const volumeIndex = TEXT_VOLUME_CATALOG.findIndex((volume) => textVolumeBookId(volume) === normalized)
+
+    return volumeIndex === -1 ? 10_000 : volumeIndex * 100
+  }
+
   const volumeIndex = TEXT_VOLUME_CATALOG.findIndex((volume) => volume.bookIds.includes(normalized))
 
   if (volumeIndex === -1) return 10_000

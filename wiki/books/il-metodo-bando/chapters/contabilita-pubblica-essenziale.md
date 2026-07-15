@@ -50,7 +50,7 @@ Al termine del capitolo devi sapere:
 - richiamare la contabilità universitaria e degli enti pubblici senza confonderla con quella degli enti locali;
 - collegare contratti pubblici, CIG, CUP, fatturazione elettronica, tempi di pagamento, tracciabilità, PNRR e fondi UE.
 
-![Figura 8.1 - Contabilità pubblica essenziale: programmare, autorizzare, gestire, controllare e rendicontare le risorse pubbliche.](../assets/chapter-08/01-contabilità-pubblica-mappa.png)
+![Figura 8.1 - Contabilità pubblica essenziale: programmare, autorizzare, gestire, controllare e rendicontare le risorse pubbliche.](../assets/chapter-08/01-contabilita-pubblica-mappa.png)
 
 ## Come usare il Metodo BANDO
 
@@ -219,7 +219,7 @@ Gli indicatori sono importanti per tradurre la gestione in dati: costi, tempi, r
 
 Questa triade va letta insieme: la regolarità contabile non basta se l'azione è inefficiente, inefficace o antieconomica; per questo i controlli collegano dati, risultati e responsabilità.
 
-![Figura 8.5 - Controlli, Corte dei conti, responsabilità e agenti contabili.](../assets/chapter-08/05-controlli-corte-responsabilità.png)
+![Figura 8.5 - Controlli, Corte dei conti, responsabilità e agenti contabili.](../assets/chapter-08/05-controlli-corte-responsabilita.png)
 
 ### 11. Corte dei conti
 

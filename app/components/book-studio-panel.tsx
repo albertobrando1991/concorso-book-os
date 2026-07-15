@@ -50,11 +50,11 @@ interface PreviewPage {
 
 const FIRST_PAGE_HEADER_COST = 150
 const RUNNING_HEADER_COST = 34
-const FRONT_MATTER_FIRST_PAGE_COST = 96
-const FRONT_MATTER_RUNNING_PAGE_COST = 66
+const FRONT_MATTER_FIRST_PAGE_COST = 64
+const FRONT_MATTER_RUNNING_PAGE_COST = 36
 const MAIN_PAGE_FALLBACK_BUDGET = 920
-const FRONT_MATTER_PAGE_BUDGET = 835
-const PAGE_MEASURE_GUARD_SPACE = 180
+const FRONT_MATTER_PAGE_BUDGET = 980
+const PAGE_MEASURE_GUARD_SPACE = 12
 const PAGE_RENDER_GUARD_SPACE = 10
 
 const modeOptions: Array<{ value: ManualWriterMode; label: string }> = [
@@ -104,6 +104,8 @@ export function BookStudioPanel({
     () => data.chapters.find((chapter) => chapter.path === selectedPath) || data.chapters[0],
     [data.chapters, selectedPath]
   )
+  const isVolumeBook = data.bookId.startsWith("volumi/")
+  const selectedChapterIsGenerated = Boolean(selectedChapter?.isGenerated)
   const mainChapters = useMemo(
     () => data.chapters.filter((chapter) => chapter.bookScope === "main"),
     [data.chapters]
@@ -115,9 +117,9 @@ export function BookStudioPanel({
   const publishableChapters = useMemo(
     () =>
       data.chapters.filter(
-        (chapter) => chapter.contentState !== "structure" && chapter.bookScope === "main"
+        (chapter) => chapter.bookScope === "main" && (isVolumeBook || chapter.contentState !== "structure")
       ),
-    [data.chapters]
+    [data.chapters, isVolumeBook]
   )
   const previewChapters = useMemo(
     () => (viewMode === "book" ? publishableChapters : selectedChapter ? [selectedChapter] : []),
@@ -251,7 +253,7 @@ export function BookStudioPanel({
   }, [data.bookId, refreshStudio, selectedPath])
 
   async function runWriterRequest() {
-    if (!selectedChapter) return
+    if (!selectedChapter || selectedChapter.isGenerated) return
 
     setIsWriting(true)
     setError("")
@@ -289,7 +291,7 @@ export function BookStudioPanel({
   }
 
   async function runHumanizerRevision() {
-    if (!selectedChapter) return
+    if (!selectedChapter || selectedChapter.isGenerated) return
 
     setIsRevising(true)
     setError("")
@@ -339,7 +341,7 @@ export function BookStudioPanel({
   }
 
   async function uploadImage() {
-    if (!imageFile || !selectedChapter) return
+    if (!imageFile || !selectedChapter || selectedChapter.isGenerated) return
 
     setIsUploading(true)
     setError("")
@@ -348,7 +350,7 @@ export function BookStudioPanel({
     try {
       const formData = new FormData()
       formData.set("file", imageFile)
-      formData.set("bookId", data.bookId)
+      formData.set("bookId", bookIdFromChapterPath(selectedChapter.path) || data.bookId)
       formData.set("chapterPath", selectedChapter.path)
       formData.set("caption", caption)
 
@@ -416,7 +418,7 @@ export function BookStudioPanel({
           </div>
 
           <div className="chapterList">
-            <p className="tocSectionLabel">Volume principale</p>
+            <p className="tocSectionLabel">{isVolumeBook ? "Volume completo" : "Volume principale"}</p>
             {mainChapters.map((chapter) => (
               <ChapterTocButton
                 bookId={data.bookId}
@@ -447,7 +449,7 @@ export function BookStudioPanel({
           <div className="bookPreviewToolbar">
             <div>
               <strong>{data.title}</strong>
-              <span>Preview editoriale 16,8 x 24 cm, testo giustificato | aggiornata {formatDate(data.updatedAt)}</span>
+              <span>Master editoriale A4, testo giustificato | aggiornato {formatDate(data.updatedAt)}</span>
             </div>
             <span className="studioBadge">{viewMode === "book" ? "vista libro" : "vista capitolo"}</span>
           </div>
@@ -476,7 +478,7 @@ export function BookStudioPanel({
                       </div>
                     ) : (
                       <>
-                        <span className="chapterNumber">{chapter.outlineSection || "Libro"}</span>
+                        <span className="chapterNumber">{chapterNumberLabel(chapter)}</span>
                         <div>
                           <h2>{chapter.title}</h2>
                           <BandoPhaseBar chapter={chapter} />
@@ -515,6 +517,7 @@ export function BookStudioPanel({
             {selectedChapter ? (
               <div className="selectedMeta">
                 <span>{selectedChapter.path}</span>
+                {selectedChapter.isGenerated ? <span>Sezione generata dal layout volume</span> : null}
                 <span>Stato: {chapterStatusLabel(selectedChapter.status)}</span>
                 <span>Fonti collegate: {selectedChapter.sourceRefs.length}</span>
                 <span>{selectedChapter.reviewRequired ? "Richiede revisione" : "Revisione non richiesta"}</span>
@@ -525,7 +528,7 @@ export function BookStudioPanel({
           <section className="revisionBox">
             <span className="panelKicker">REVISIONE</span>
             <h3>Humanizer editoriale</h3>
-            <button className="revisionButton full" onClick={runHumanizerRevision} disabled={isRevising || isWriting || !selectedChapter}>
+            <button className="revisionButton full" onClick={runHumanizerRevision} disabled={isRevising || isWriting || !selectedChapter || selectedChapterIsGenerated}>
               {isRevising ? <Loader2 size={17} className="spin" aria-hidden /> : <WandSparkles size={17} aria-hidden />}
               {isRevising ? "Revisione in corso" : "Rivedi e riscrivi dove serve"}
             </button>
@@ -560,7 +563,7 @@ export function BookStudioPanel({
               Richiesta
               <textarea value={instruction} onChange={(event) => setInstruction(event.target.value)} rows={8} />
             </label>
-            <button className="writerButton full" onClick={runWriterRequest} disabled={isWriting || isRevising || !selectedChapter}>
+            <button className="writerButton full" onClick={runWriterRequest} disabled={isWriting || isRevising || !selectedChapter || selectedChapterIsGenerated}>
               {isWriting ? <Loader2 size={17} className="spin" aria-hidden /> : <Sparkles size={17} aria-hidden />}
               {isWriting ? "Writer in corso" : "Applica al capitolo"}
             </button>
@@ -584,7 +587,7 @@ export function BookStudioPanel({
               Didascalia
               <input value={caption} onChange={(event) => setCaption(event.target.value)} placeholder="Es. Schema Metodo BANDO" />
             </label>
-            <button className="secondaryButton full" onClick={uploadImage} disabled={isUploading || !imageFile || !selectedChapter}>
+            <button className="secondaryButton full" onClick={uploadImage} disabled={isUploading || !imageFile || !selectedChapter || selectedChapterIsGenerated}>
               {isUploading ? <Loader2 size={17} className="spin" aria-hidden /> : <Upload size={17} aria-hidden />}
               {isUploading ? "Caricamento" : "Aggiungi al capitolo"}
             </button>
@@ -731,6 +734,12 @@ function ChapterTocButton({
 function sectionLabel(chapter: BookStudioChapter) {
   if (chapter.sectionType === "front_matter") return chapter.title
 
+  if (chapter.volumeModuleCode) {
+    const prefix = chapter.outlineSection ? `${chapter.volumeModuleCode} ${compactOutlineLabel(chapter.outlineSection)}` : chapter.volumeModuleCode
+
+    return `${prefix}. ${chapter.title}`
+  }
+
   if (chapter.bookScope === "ricettario") {
     const moduleLabel = ricettarioModuleLabel(chapter.outlineSection)
 
@@ -738,6 +747,24 @@ function sectionLabel(chapter: BookStudioChapter) {
   }
 
   return chapter.outlineSection ? `${chapter.outlineSection}. ${chapter.title}` : chapter.title
+}
+
+function chapterNumberLabel(chapter: BookStudioChapter) {
+  if (chapter.volumeModuleCode) {
+    const outline = compactOutlineLabel(chapter.outlineSection)
+
+    return outline ? `${chapter.volumeModuleCode} ${outline}` : chapter.volumeModuleCode
+  }
+
+  return chapter.outlineSection || "Libro"
+}
+
+function compactOutlineLabel(outlineSection: string) {
+  const normalized = outlineSection.trim()
+
+  if (/^[A-Z]$/i.test(normalized)) return `App. ${normalized.toUpperCase()}`
+
+  return normalized
 }
 
 function providerStatusLabel(provider: WriterProvider) {
@@ -784,7 +811,7 @@ function BookPagePreview({ bookId, page }: { bookId: string; page: PreviewPage }
     <article className="bookPage" lang="it">
       {page.isFirstPage ? (
         <header className="chapterPreviewHeader">
-          <span className="chapterNumber">{chapter.outlineSection || "Libro"}</span>
+          <span className="chapterNumber">{chapterNumberLabel(chapter)}</span>
           <div>
             <h2>{chapter.title}</h2>
             <BandoPhaseBar chapter={chapter} />
@@ -1112,6 +1139,13 @@ function assetUrl(value: string) {
   return `/api/book-studio/assets/file?path=${encodeURIComponent(normalized)}`
 }
 
+function bookIdFromChapterPath(chapterPath: string) {
+  const normalized = chapterPath.replace(/\\/g, "/")
+  const match = normalized.match(/^books\/(.+)\/chapters\/[^/]+\.md$/)
+
+  return match?.[1] || ""
+}
+
 function isRenderableAssetPath(value: string) {
   return value.startsWith("raw/assets/") || /^books\/(?:[a-z0-9-]+\/)*[a-z0-9-]+\/assets\//.test(value)
 }
@@ -1192,9 +1226,16 @@ function paginateMeasuredChapters(chapters: BookStudioChapter[], root: HTMLDivEl
     const firstHeaderHeight = outerHeight(chapterElement.querySelector<HTMLElement>(".paginationFirstHeader")) || FIRST_PAGE_HEADER_COST
     const runningHeaderHeight = outerHeight(chapterElement.querySelector<HTMLElement>(".paginationRunningHeader")) || RUNNING_HEADER_COST
     const blockElements = Array.from(chapterElement.querySelectorAll<HTMLElement>(".paginationMeasureBlock"))
-    const blockHeights = chapter.blocks.map((block, index) =>
-      Math.ceil(outerHeight(blockElements[index]) || estimateBlockCost(block)) + layoutSafetyCost(block)
-    )
+    const blockBounds = blockElements.map(measureBlockBounds)
+    const blockHeights = chapter.blocks.map((block, index) => {
+      const current = blockBounds[index]
+      const next = blockBounds[index + 1]
+      const measuredHeight = current
+        ? Math.max(0, (next?.top ?? current.bottom) - current.top)
+        : 0
+
+      return Math.ceil(measuredHeight || estimateBlockCost(block)) + measuredLayoutSafetyCost(block)
+    })
     const chapterPages = paginateBlocksByHeight(chapter, blockHeights, pageBudget, firstHeaderHeight, runningHeaderHeight)
 
     for (const page of chapterPages) {
@@ -1404,7 +1445,7 @@ function paginateBlocks(chapter: BookStudioChapter): Array<Omit<PreviewPage, "pa
 }
 
 function isSinglePageFrontMatter(layout: string) {
-  return layout === "digital-services" || layout === "title-page"
+  return layout === "digital-services" || layout === "title-page" || layout === "module-opening"
 }
 
 function shouldKeepWithNext(block: MarkdownBlock, nextBlock?: MarkdownBlock) {
@@ -1449,15 +1490,15 @@ function estimateBlockCost(block: MarkdownBlock) {
   }
 
   if (block.type === "index-part") {
-    return 36
+    return 28
   }
 
   if (block.type === "index-chapter") {
-    return 21 + Math.max(0, Math.ceil(wordCount(block.text || "") / 10) - 1) * 10
+    return 17 + Math.max(0, Math.ceil(wordCount(block.text || "") / 10) - 1) * 9
   }
 
   if (block.type === "index-row") {
-    return 14 + Math.max(0, Math.ceil(wordCount(block.text || "") / 12) - 1) * 9
+    return 11 + Math.max(0, Math.ceil(wordCount(block.text || "") / 12) - 1) * 8
   }
 
   if (block.type === "table") {
@@ -1484,6 +1525,12 @@ function estimateBlockCost(block: MarkdownBlock) {
 function layoutSafetyCost(block?: MarkdownBlock) {
   if (!block) return 0
 
+  if (
+    block.type === "index-entry" ||
+    block.type === "index-part" ||
+    block.type === "index-chapter" ||
+    block.type === "index-row"
+  ) return 0
   if (block.type === "image") return 64
   if (block.type === "table") return 56
   if (block.type === "paragraph") return 12
@@ -1491,6 +1538,34 @@ function layoutSafetyCost(block?: MarkdownBlock) {
   if (block.type === "callout" || block.type === "code") return 18
 
   return 8
+}
+
+function measuredLayoutSafetyCost(block?: MarkdownBlock) {
+  if (!block) return 0
+
+  if (block.type === "image") return 4
+  if (block.type === "table") return 2
+  if (block.type === "list") return 1
+  if (block.type === "callout" || block.type === "code") return 2
+  if (block.type === "paragraph") return 0
+
+  return 1
+}
+
+function measureBlockBounds(element?: HTMLElement | null) {
+  if (!element) return null
+
+  const children = Array.from(element.children) as HTMLElement[]
+  const visibleRects = children
+    .map((child) => child.getBoundingClientRect())
+    .filter((rect) => rect.width > 0 && rect.height > 0)
+
+  if (visibleRects.length === 0) return null
+
+  return {
+    top: Math.min(...visibleRects.map((rect) => rect.top)),
+    bottom: Math.max(...visibleRects.map((rect) => rect.bottom))
+  }
 }
 
 function wordCount(value: string) {

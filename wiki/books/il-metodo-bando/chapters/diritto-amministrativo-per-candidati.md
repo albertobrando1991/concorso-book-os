@@ -26,7 +26,7 @@ last_compiled_from: ["topics/diritto-amministrativo-programma-concorsi-2026.md",
 
 Il diritto amministrativo è una materia comune in moltissimi concorsi pubblici, ma non va studiato come una raccolta di definizioni isolate. Per il candidato serve a rispondere a una domanda molto concreta: come decide la pubblica amministrazione e quali regole deve rispettare quando incide sulla posizione di cittadini, imprese, dipendenti o altri enti?
 
-In una prova scritta o orale non basta dire che la pubblica amministrazione persegue l'interesse pubblico. Occorre mostrare come quell'interesse diventa azione amministrativa: un procedimento viene avviato, un responsabile cura l'istruttoria, gli interessati possono partecipare, l'amministrazione deve rispettare termini e motivazione, il provvedimento produce effetti, eventuali vizi possono determinare annullabilità o nullità, il silenzio può avere conseguenze diverse e il cittadino può chiedere documenti o attivare rimedi.
+In una prova scritta o orale non basta dire che la pubblica amministrazione persegue l'interesse pubblico. Occorre mostrare come quell'interesse diventa azione amministrativa. Il procedimento viene avviato, il responsabile cura l'istruttoria e gli interessati possono partecipare. L'amministrazione rispetta termini e motivazione; il provvedimento produce effetti; vizi, silenzio, accesso e rimedi hanno conseguenze diverse.
 
 La chiave del capitolo è questa: la pubblica amministrazione non agisce come un privato libero di scegliere secondo convenienza. Agisce in base alla legge, per fini pubblici, con procedimento, tracciabilità, imparzialità, trasparenza, responsabilità e possibilità di controllo.
 

@@ -4,12 +4,12 @@ type: chapter
 title: La prova scritta e teorico-pratica
 status: revised_draft
 domain: concorsi pubblici italiani
-topics: ["prova scritta teorico-pratica", "risposta concorsuale", "metodo di studio"]
+topics: ["prova scritta teorico-pratica", "risposta concorsuale", "redazione atti amministrativi", "casi pratici", "metodo di studio"]
 entities: ["Metodo BANDO"]
-source_refs: ["sources/struttura-madre-il-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md", "sources/apprendimento-efficace-active-recall-ripasso-distribuito.md", "sources/metodo-bando-capitolo-13-bozza-sito-2026-05-30.md"]
+source_refs: ["sources/struttura-madre-il-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md", "sources/legge-7-agosto-1990-n-241-procedimento-amministrativo-e-accesso-ai-documenti-amministrativi-testo-vigente-normattiva.md", "sources/d-p-r-28-dicembre-2000-n-445-documentazione-amministrativa.md", "sources/apprendimento-efficace-active-recall-ripasso-distribuito.md", "sources/metodo-bando-capitolo-13-bozza-sito-2026-05-30.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.89
-updated_at: "2026-06-07T19:02:58+02:00"
+updated_at: "2026-07-14T00:00:00+02:00"
 created_at: "2026-05-10T11:45:00+02:00"
 review_required: true
 canonical: true
@@ -17,7 +17,7 @@ tags: ["book-chapter", "part-3"]
 book_id: il-metodo-bando
 outline_section: 15
 draft_stage: revised-editorial-draft
-last_compiled_from: ["sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md", "sources/apprendimento-efficace-active-recall-ripasso-distribuito.md", "topics/prova-scritta-teorico-pratica.md", "topics/risposta-concorsuale.md", "topics/metodo-di-studio.md"]
+last_compiled_from: ["sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md", "sources/legge-7-agosto-1990-n-241-procedimento-amministrativo-e-accesso-ai-documenti-amministrativi-testo-vigente-normattiva.md", "sources/d-p-r-28-dicembre-2000-n-445-documentazione-amministrativa.md", "sources/apprendimento-efficace-active-recall-ripasso-distribuito.md", "topics/prova-scritta-teorico-pratica.md", "topics/risposta-concorsuale.md", "topics/casi-pratici.md", "topics/metodo-di-studio.md"]
 ---
 
 # Capitolo 15 - La prova scritta e teorico-pratica
@@ -204,6 +204,64 @@ Usa questa forma:
 
 La scaletta impedisce di partire bene e perdersi a metà. È particolarmente utile quando la traccia è ampia.
 
+## Laboratorio: redigere un atto senza inventare
+
+In alcune prove teorico-pratiche la traccia non chiede soltanto di spiegare una regola: chiede di redigere una comunicazione, una nota, un verbale, uno schema di atto o un provvedimento. In questo caso non basta conoscere il contenuto. Devi dare al testo una forma amministrativa ordinata, leggibile e coerente con il soggetto competente indicato dalla traccia.
+
+La regola più utile è questa: non completare con la fantasia ciò che la traccia non fornisce. Se mancano dati, usa formule neutre come «ai sensi della disciplina applicabile», «l'ufficio competente», «entro il termine indicato» o campi da compilare. Un riferimento normativo inesatto è più dannoso di una formula prudente.
+
+### La struttura comune dell'atto
+
+| Blocco | Domanda da farti | Funzione |
+|---|---|---|
+| Intestazione | Chi scrive e a chi? | Identifica amministrazione, ufficio, destinatario e oggetto. |
+| Presupposti | Quali fatti sono già noti? | Riporta solo gli elementi della traccia utili alla decisione o comunicazione. |
+| Valutazione | Quale problema va risolto? | Collega fatti, competenza, istruttoria e regola applicabile. |
+| Dispositivo o richiesta | Che cosa deve accadere ora? | Formula una richiesta, una decisione, un invito o una presa d'atto chiara. |
+| Chiusura | Come si rende efficace e tracciabile? | Indica termine, eventuale comunicazione, firma del soggetto competente e canale. |
+
+### Quattro formati da riconoscere
+
+| Formato | Quando usarlo | Elementi irrinunciabili |
+|---|---|---|
+| Comunicazione o richiesta di integrazione | Devi informare il cittadino o chiedere elementi mancanti. | Oggetto, pratica, cosa manca, termine, canale di risposta, ufficio competente. |
+| Nota istruttoria | Devi rappresentare fatti e valutazioni a un responsabile o ad altro ufficio. | Oggetto, fatti verificati, elementi mancanti, proposta operativa o richiesta di istruzioni. |
+| Verbale | Devi documentare un'attività, un incontro o un accertamento. | Data, luogo, soggetti presenti, attività svolta, fatti rilevati, esito e sottoscrizione. |
+| Schema di determinazione o provvedimento | La traccia identifica il soggetto competente e chiede una decisione. | Oggetto, presupposti, motivazione essenziale, decisione o dispositivo, adempimenti successivi. |
+
+> **BANDO in pratica**
+>
+> Se la traccia usa il verbo «redigere», prima cerchia tre parole: destinatario, atto richiesto e risultato atteso. Sono il perimetro del tuo testo. La forma non sostituisce la sostanza, ma rende verificabile che hai capito procedura, competenza e output.
+
+### Caso guidato: richiesta di integrazione documentale
+
+**Traccia.** Un cittadino presenta una domanda incompleta per un contributo comunale. Redigi una richiesta di integrazione, senza inventare dati non presenti nella traccia.
+
+**Schema di risposta.**
+
+> **Oggetto: richiesta di integrazione documentale - pratica [riferimento]**
+>
+> Con riferimento alla domanda presentata in data [data], l'ufficio comunica che, ai fini del completamento dell'istruttoria, risultano necessari i seguenti elementi: [documenti o informazioni indicati dalla traccia].
+>
+> Si invita pertanto l'interessato a trasmettere l'integrazione entro il termine indicato nella comunicazione, attraverso il canale previsto dall'amministrazione. Decorso il termine, l'ufficio procederà secondo la disciplina applicabile e sulla base degli elementi disponibili.
+>
+> Per informazioni è possibile rivolgersi all'ufficio competente. Il responsabile del procedimento cura la prosecuzione dell'istruttoria e la tracciabilità della comunicazione.
+
+Questo non è un modello da copiare in ogni situazione. È una griglia: pratica, carenza, richiesta, termine, canale, responsabilità e tracciabilità.
+
+### Checklist di consegna dell'atto
+
+- ho prodotto proprio l'atto richiesto dalla traccia;
+- ho indicato soggetto, destinatario e oggetto;
+- ho separato fatti, valutazione e decisione;
+- non ho attribuito competenze a un soggetto diverso da quello indicato;
+- non ho inventato articoli, dati, termini o firme;
+- ho scritto una chiusura operativa e verificabile.
+
+> **Errore tipico**
+>
+> Scrivere un tema sulla materia invece dell'atto richiesto. Se la traccia chiede una richiesta di integrazione, non basta spiegare il procedimento amministrativo: devi produrre una comunicazione che il cittadino possa capire e che l'ufficio possa utilizzare.
+
 ## Lessico: precisione senza rigidità
 
 Una risposta concorsuale deve usare parole corrette. Non deve sembrare una sentenza. Evita formule vaghe:
@@ -285,7 +343,7 @@ No. Una risposta lunga può essere debole se non risponde alla traccia. Nello sc
 
 ## Mini-esercizio
 
-Scegli un argomento studiato e scrivi tre versioni della risposta:
+Scegli un argomento studiato e scrivi tre versioni della risposta; poi trasforma una delle tre in un atto breve, scegliendo tra comunicazione, nota istruttoria, verbale o schema di provvedimento.
 
 | Versione | Vincolo |
 |---|---|
@@ -300,15 +358,18 @@ Poi confronta le tre versioni. Se la risposta da 10 righe non è chiara, non hai
 1. Lo scritto non premia chi scrive tutto, ma chi risponde alla traccia.
 2. Ogni risposta deve avere definizione, funzione, sviluppo e chiusura.
 3. Nel caso pratico devi applicare la regola, non solo spiegarla.
-4. I riferimenti normativi vanno usati solo se sicuri e pertinenti.
-5. Scaletta, tempo e revisione sono parte della prova.
+4. Nella redazione di un atto devi distinguere presupposti, valutazione, dispositivo e chiusura.
+5. I riferimenti normativi vanno usati solo se sicuri e pertinenti; scaletta, tempo e revisione sono parte della prova.
 
 ## Fonti consolidate
 
 - [[sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994]]
+- [[sources/legge-7-agosto-1990-n-241-procedimento-amministrativo-e-accesso-ai-documenti-amministrativi-testo-vigente-normattiva]]
+- [[sources/d-p-r-28-dicembre-2000-n-445-documentazione-amministrativa]]
 - [[sources/apprendimento-efficace-active-recall-ripasso-distribuito]]
 - [[topics/prova-scritta-teorico-pratica]]
 - [[topics/risposta-concorsuale]]
+- [[topics/casi-pratici]]
 - [[topics/metodo-di-studio]]
 
 ## Note di review

@@ -1,0 +1,1302 @@
+# VOL-01 – IL METODO BANDO
+
+## Il sistema pratico per preparare concorsi pubblici diversi senza ricominciare da zero
+
+---
+
+## 1. Identità editoriale del volume
+
+| Campo                  | Definizione                                                                                                   |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------- |
+| Codice editoriale      | VOL-01                                                                                                        |
+| Titolo                 | **Il Metodo BANDO**                                                                                           |
+| Sottotitolo            | Il sistema pratico per preparare concorsi pubblici diversi senza ricominciare da zero                         |
+| Funzione nel sistema   | Libro base universale di ConcorsoBook OS                                                                      |
+| Target                 | Candidati a concorsi pubblici amministrativi, contabili, tecnici, sanitari, scolastici e specialistici        |
+| Posizionamento         | Manuale-workbook di metodo, orientamento, materie comuni e allenamento                                        |
+| Promessa               | Preparare più concorsi costruendo un capitale di conoscenze e strumenti riutilizzabili                        |
+| Relazione con i moduli | VOL-01 contiene il nucleo comune; i volumi specialistici contengono esclusivamente il delta settoriale        |
+| Autonomia              | Il libro deve essere utilizzabile integralmente senza piattaforma digitale                                    |
+| Digitale               | Il ricettario digitale aggiunge aggiornamento, allenamento, tracking e velocità, ma non sostituisce il volume |
+
+VOL-01 costituisce lo **strato fondamentale** del sistema editoriale a tre livelli: libro base, ricettario digitale e moduli specialistici.
+
+---
+
+# 2. Promessa editoriale
+
+Il volume non deve presentarsi come:
+
+* un’enciclopedia di diritto pubblico;
+* una semplice raccolta di quiz;
+* un manuale riferito a un solo concorso;
+* un catalogo indistinto di norme;
+* un sostituto del bando.
+
+Deve insegnare al candidato a:
+
+1. leggere e classificare un bando;
+2. riconoscere il proprio profilo concorsuale;
+3. distinguere materie comuni, specialistiche e accessorie;
+4. trasformare il programma in un piano di studio;
+5. studiare attraverso nuclei ad alta resa;
+6. allenarsi sugli output realmente richiesti;
+7. registrare e correggere gli errori;
+8. trasferire il capitale acquisito da un concorso al successivo.
+
+La north star del prodotto è il **libro-workbook autonomo**: ogni capitolo deve produrre una decisione, un esercizio, una mappa o uno strumento utilizzabile.
+
+---
+
+# 3. Architettura didattica del Metodo BANDO
+
+| Lettera        | Funzione                  | Domanda del candidato                      | Output                      |
+| -------------- | ------------------------- | ------------------------------------------ | --------------------------- |
+| **B – Bando**  | Decodificare la procedura | Che cosa richiede davvero questo concorso? | Bando Decoder               |
+| **A – Aree**   | Classificare le materie   | Quali aree devo studiare?                  | Mappa delle aree            |
+| **N – Nuclei** | Selezionare le priorità   | Che cosa devo sapere davvero?              | Nuclei ad alta resa         |
+| **D – Diario** | Correggere gli errori     | Dove e perché sbaglio?                     | Diario degli errori         |
+| **O – Output** | Allenarsi sulla prova     | Come devo dimostrare ciò che so?           | Quiz, risposta, caso, orale |
+
+Il metodo va applicato in modo ciclico:
+
+> Bando → Aree → Nuclei → Diario → Output → nuova lettura del bando.
+
+---
+
+# 4. Perimetro del VOL-01
+
+## 4.1 Contenuti inclusi
+
+VOL-01 comprende:
+
+* Metodo BANDO;
+* orientamento nel sistema dei concorsi;
+* lettura e decodifica del bando;
+* pianificazione 30/60/90 giorni;
+* 11 aree comuni B-PA;
+* metodo di studio;
+* preparazione a quiz, scritto, orale e casi;
+* quesiti situazionali;
+* mappe delle famiglie concorsuali;
+* strumenti compilabili;
+* glossario e template operativi.
+
+## 4.2 Contenuti esclusi
+
+Restano fuori dal libro base:
+
+* tributario avanzato;
+* diritto doganale e accise;
+* previdenza e legislazione sociale avanzata;
+* procedure civile e penale specialistiche;
+* ordinamento giudiziario avanzato;
+* contabilità locale, scolastica, universitaria o sanitaria approfondita;
+* codice della strada e polizia locale;
+* edilizia, urbanistica e discipline ingegneristiche;
+* legislazione scolastica e sanitaria avanzata;
+* discipline professionali sanitarie;
+* ICT, cybersecurity e dati avanzati;
+* appalti, procurement e PNRR avanzati;
+* ambiente e protezione civile;
+* carriere militari, diplomatiche, prefettizie e magistrature.
+
+Questi contenuti appartengono ai volumi specialistici e non devono essere anticipati in forma sostanziale nel VOL-01.
+
+---
+
+# 5. Le 11 aree comuni B-PA
+
+| Codice | Area                                | Collocazione principale               |
+| ------ | ----------------------------------- | ------------------------------------- |
+| B-PA01 | Diritto costituzionale e pubblico   | Capitolo 4                            |
+| B-PA02 | Diritto amministrativo              | Capitolo 5                            |
+| B-PA03 | Pubblico impiego                    | Capitolo 6                            |
+| B-PA04 | Reati contro la PA e responsabilità | Integrato nei capitoli 6-7 e nei casi |
+| B-PA05 | Contabilità pubblica essenziale     | Capitolo 8                            |
+| B-PA06 | Contratti pubblici essenziali       | Capitolo 9                            |
+| B-PA07 | Privacy, CAD e trasparenza digitale | Capitoli 7 e 10                       |
+| B-PA08 | Lingua inglese                      | Capitolo 11                           |
+| B-PA09 | Informatica di base                 | Capitolo 10                           |
+| B-PA10 | Logica, attitudinali e situazionali | Capitoli 12, 14 e 18                  |
+| B-PA11 | Redazione atti e casi pratici       | Capitoli 15 e 17                      |
+
+La matrice canonica vieta la duplicazione di queste aree nei moduli specialistici.
+
+---
+
+# 6. Dimensionamento editoriale proposto
+
+## 6.1 Target complessivo
+
+| Componente                        |      Target parole |
+| --------------------------------- | -----------------: |
+| Introduzione                      |              3.000 |
+| Parte I – Orientarsi              |             14.000 |
+| Parte II – Nucleo comune          |             45.000 |
+| Parte III – Allenamento           |             27.000 |
+| Parte IV – Adattamento ai profili |             18.000 |
+| Parte V – Kit finale              |              8.000 |
+| Appendici e strumenti             |             15.000 |
+| **Totale stimato**                | **130.000 parole** |
+
+Il target è una **proposta editoriale di lavorazione**, da ridurre in sede di editing mantenendo priorità, leggibilità e strumenti.
+
+## 6.2 Formato
+
+* Master di lavorazione e revisione: A4 verticale.
+* Testo giustificato, colonna singola.
+* Corpo serif professionale.
+* Titoli, box e strumenti in sans serif.
+* Pagine numerate.
+* Formato commerciale compatto eventuale: circa 17 × 24 cm.
+* QR code e risorse digitali esclusivamente opzionali.
+
+---
+
+# 7. Struttura generale
+
+## Introduzione – Perché questo libro è diverso
+
+**Target:** 3.000 parole.
+
+### Contenuti
+
+1. Perché molti candidati studiano molto ma non costruiscono un sistema.
+2. La differenza tra manuale, quizario e metodo.
+3. La promessa “non ricominciare da zero”.
+4. Il capitale concorsuale riutilizzabile.
+5. Le cinque fasi BANDO.
+6. Come usare il volume con 30, 60 o 90 giorni.
+7. Come integrare un modulo specialistico.
+8. Come usare gli strumenti cartacei e digitali.
+
+### Output
+
+* Manifesto del candidato strategico.
+* Autovalutazione iniziale.
+* Prima mappa del proprio concorso.
+* Patto di studio personale.
+
+---
+
+# PARTE I – CAPIRE IL CONCORSO PRIMA DI STUDIARE
+
+## Capitolo 1 – Il nuovo candidato pubblico
+
+**Target:** 3.500 parole.
+
+### Obiettivo
+
+Trasformare il lettore da candidato reattivo a candidato strategico.
+
+### Nuclei
+
+* evoluzione delle procedure concorsuali;
+* concorsi centralizzati e concorsi gestiti dai singoli enti;
+* aree e famiglie professionali;
+* differenze tra assistenti, istruttori, funzionari, tecnici e dirigenti;
+* rapporto tra titolo di studio, profilo e mansioni;
+* studio generalista e specializzazione;
+* capitale riutilizzabile;
+* principali errori iniziali.
+
+### Strumenti
+
+* Test “Che tipo di candidato sei?”.
+* Tabella candidato principiante/candidato strategico.
+* Mappa delle famiglie concorsuali.
+* Scheda del capitale già posseduto.
+
+---
+
+## Capitolo 2 – Anatomia del bando
+
+**Target:** 5.500 parole.
+
+### Obiettivo
+
+Insegnare a trasformare qualsiasi bando in un documento operativo.
+
+### Nuclei
+
+* ente e profilo;
+* posti e sedi;
+* requisiti generali e specifici;
+* riserve e preferenze;
+* titoli valutabili;
+* termini e modalità della domanda;
+* prove e punteggi;
+* soglie;
+* materie;
+* accertamenti linguistici e informatici;
+* graduatoria;
+* comunicazioni;
+* allegati;
+* modifiche e rettifiche.
+
+### Strumenti
+
+* Bando Decoder.
+* Checklist requisiti.
+* Tabella “Dove trovo cosa”.
+* Bando fittizio completamente analizzato.
+* Semaforo compatibilità: verde, giallo, rosso.
+* Scheda confronto tra due bandi.
+
+---
+
+## Capitolo 3 – Il Metodo BANDO
+
+**Target:** 5.000 parole.
+
+### Obiettivo
+
+Presentare il metodo proprietario e insegnarne l’uso completo.
+
+### Nuclei
+
+* B – lettura del bando;
+* A – classificazione delle aree;
+* N – selezione dei nuclei;
+* D – diario degli errori;
+* O – allenamento sugli output;
+* applicazione lineare;
+* applicazione ciclica;
+* concorso singolo;
+* più concorsi contemporanei;
+* adattamento a 30/60/90 giorni.
+
+### Strumenti
+
+* Mappa BANDO.
+* “Il mio concorso in una pagina”.
+* Scheda dei nuclei.
+* Primo diario degli errori.
+* Piano di uscita operativo.
+
+---
+
+# PARTE II – IL NUCLEO COMUNE DEI CONCORSI PUBBLICI
+
+Ogni capitolo della Parte II segue la stessa architettura didattica:
+
+1. Perché serve.
+2. Mappa della materia.
+3. Nuclei ad alta resa.
+4. Spiegazione operativa.
+5. Come viene chiesta.
+6. Errori tipici.
+7. Domanda da commissario.
+8. Domanda-trappola.
+9. Caso o esercizio.
+10. Checkpoint.
+11. Riferimenti normativi.
+
+Le fonti normative trasversali devono essere tratte prioritariamente dal catalogo base verificato.
+
+---
+
+## Capitolo 4 – Costituzione e ordinamento dello Stato
+
+**Codice:** B-PA01
+**Target:** 5.500 parole.
+
+### Nuclei
+
+* principi fondamentali;
+* diritti e doveri;
+* fonti del diritto;
+* Parlamento;
+* Governo;
+* Presidente della Repubblica;
+* Corte costituzionale;
+* Magistratura;
+* autonomie territoriali;
+* rapporti Stato-Regioni;
+* principi costituzionali della PA;
+* diritto dell’Unione europea essenziale.
+
+### Output
+
+* Stato in una pagina.
+* Tabella organo/funzione/atto.
+* Dieci domande ragionate.
+* Mappa delle fonti.
+* Caso sul riparto di competenze.
+
+---
+
+## Capitolo 5 – Diritto amministrativo operativo
+
+**Codice:** B-PA02
+**Target:** 9.000 parole.
+
+### Nuclei
+
+* amministrazione e interesse pubblico;
+* principi dell’azione amministrativa;
+* procedimento;
+* responsabile del procedimento;
+* partecipazione;
+* termini;
+* istruttoria;
+* motivazione;
+* provvedimento;
+* efficacia;
+* invalidità;
+* autotutela;
+* silenzi;
+* SCIA;
+* conferenza di servizi;
+* accesso documentale;
+* tutela amministrativa e giurisdizionale essenziale;
+* responsabilità della PA.
+
+### Output
+
+* Griglia del procedimento.
+* Caso di istanza senza risposta.
+* Tabella procedimento/provvedimento.
+* Tabella accessi.
+* Schema universale di risposta orale.
+* Caso su autotutela.
+* Domande-trappola su nullità e annullabilità.
+
+---
+
+## Capitolo 6 – Pubblico impiego e organizzazione della PA
+
+**Codici:** B-PA03 e quota B-PA04
+**Target:** 7.000 parole.
+
+### Nuclei
+
+* contrattualizzazione;
+* accesso all’impiego;
+* aree professionali;
+* indirizzo politico e gestione;
+* dirigenza;
+* diritti e doveri;
+* codice di comportamento;
+* incompatibilità;
+* conflitto di interessi;
+* responsabilità disciplinare;
+* responsabilità dirigenziale;
+* responsabilità amministrativo-contabile;
+* performance;
+* OIV;
+* PIAO;
+* lavoro agile;
+* whistleblowing.
+
+### Output
+
+* Tabella dovere/comportamento/rischio.
+* Caso sul conflitto di interessi.
+* Caso su regali e utilità.
+* Mappa delle responsabilità.
+* Scheda indirizzo politico/gestione.
+
+---
+
+## Capitolo 7 – Trasparenza, anticorruzione e privacy
+
+**Codici:** B-PA04 e B-PA07
+**Target:** 6.000 parole.
+
+### Nuclei
+
+* trasparenza amministrativa;
+* obblighi di pubblicazione;
+* accesso civico semplice;
+* accesso civico generalizzato;
+* prevenzione della corruzione;
+* RPCT;
+* PNA;
+* PIAO e rischi corruttivi;
+* dati personali;
+* principi GDPR;
+* ruoli privacy;
+* bilanciamento;
+* trasparenza digitale;
+* whistleblowing.
+
+### Output
+
+* Matrice dei tre accessi.
+* Caso trasparenza/privacy.
+* Checklist prima della pubblicazione.
+* Box “Trasparenza non significa pubblicare tutto”.
+* Domande situazionali.
+
+---
+
+## Capitolo 8 – Contabilità pubblica essenziale
+
+**Codice:** B-PA05
+**Target:** 5.500 parole.
+
+### Nuclei
+
+* funzione del bilancio;
+* programmazione;
+* previsione e rendiconto;
+* entrate e spese;
+* accertamento;
+* impegno;
+* liquidazione;
+* ordinazione;
+* riscossione e pagamento;
+* residui;
+* controlli;
+* Corte dei conti;
+* differenze essenziali tra Stato, enti locali, scuola, università e sanità.
+
+### Esclusioni
+
+* schemi tecnici avanzati;
+* armonizzazione locale approfondita;
+* contabilità sanitaria;
+* contabilità scolastica;
+* contabilità economico-patrimoniale avanzata.
+
+### Output
+
+* Ciclo dell’entrata.
+* Ciclo della spesa.
+* Caso di acquisto.
+* Tabella previsione/rendiconto.
+* Domande-trappola sulle fasi contabili.
+
+---
+
+## Capitolo 9 – Contratti pubblici essenziali
+
+**Codice:** B-PA06
+**Target:** 5.500 parole.
+
+### Nuclei
+
+* principi;
+* ciclo del contratto;
+* stazione appaltante;
+* operatore economico;
+* RUP;
+* programmazione;
+* progettazione;
+* affidamento;
+* procedure;
+* affidamento diretto;
+* esecuzione;
+* controlli;
+* digitalizzazione;
+* BDNCP;
+* MEPA e Consip;
+* appalto e concessione;
+* CIG e CUP.
+
+### Esclusioni
+
+* soglie analitiche;
+* contenzioso avanzato;
+* progettazione tecnica;
+* PNRR;
+* fondi UE;
+* project management.
+
+### Output
+
+* Mappa del ciclo del contratto.
+* Caso di acquisto sotto soglia.
+* Tabella CIG/CUP.
+* Tabella appalto/concessione.
+* Checklist del RUP essenziale.
+
+---
+
+## Capitolo 10 – Informatica, PA digitale e competenze digitali
+
+**Codici:** B-PA07 e B-PA09
+**Target:** 5.000 parole.
+
+### Nuclei
+
+* hardware e software;
+* sistemi operativi;
+* file e cartelle;
+* suite da ufficio;
+* web e posta elettronica;
+* sicurezza di base;
+* CAD;
+* documento informatico;
+* firma digitale;
+* PEC;
+* SPID, CIE e CNS;
+* domicilio digitale;
+* protocollo;
+* fascicolo informatico;
+* conservazione;
+* interoperabilità;
+* accessibilità;
+* servizi digitali;
+* cloud essenziale.
+
+### Output
+
+* Tabella PEC/firma/SPID.
+* Checklist sicurezza.
+* Caso su documento e protocollo.
+* Mappa del documento informatico.
+* Mini-prova informatica.
+
+---
+
+## Capitolo 11 – Inglese concorsuale essenziale
+
+**Codice:** B-PA08
+**Target:** 3.500 parole.
+
+### Nuclei
+
+* lessico amministrativo;
+* lavoro pubblico;
+* uffici e documenti;
+* lettura di brevi testi;
+* email semplici;
+* verbi modali;
+* tempi verbali ricorrenti;
+* preposizioni;
+* false friends;
+* domande frequenti all’orale.
+
+### Output
+
+* Glossario bilingue essenziale.
+* Dieci mini-brani.
+* Email amministrativa guidata.
+* Frasi per l’orale.
+* Error log linguistico.
+
+---
+
+## Capitolo 12 – Logica, comprensione e ragionamento
+
+**Codice:** B-PA10
+**Target:** 4.000 parole.
+
+### Nuclei
+
+* comprensione del testo;
+* logica verbale;
+* deduzioni;
+* sillogismi;
+* serie numeriche;
+* serie alfabetiche;
+* proporzioni;
+* problemi;
+* ragionamento critico;
+* gestione del tempo;
+* tecniche di esclusione;
+* errori da fretta.
+
+### Output
+
+* Protocollo di risoluzione.
+* Tabella delle famiglie di quesiti.
+* Esercizi guidati.
+* Scheda degli errori logici.
+* Strategia per preselettiva.
+
+---
+
+# PARTE III – ALLENARSI COME IN PROVA
+
+## Capitolo 13 – Metodo di studio per concorsi
+
+**Target:** 4.500 parole.
+
+### Nuclei
+
+* studio attivo;
+* active recall;
+* ripetizione dilazionata;
+* alternanza teoria-quiz-casi;
+* gestione del tempo;
+* blocchi di studio;
+* priorità;
+* recupero dei giorni persi;
+* ripasso;
+* sovraccarico;
+* burnout;
+* cosa non studiare.
+
+### Output
+
+* Settimana-tipo.
+* Registro delle sessioni.
+* Scheda di ripasso.
+* Piano minimo sostenibile.
+* Protocollo di recupero.
+
+---
+
+## Capitolo 14 – La prova a quiz
+
+**Target:** 4.000 parole.
+
+### Nuclei
+
+* quiz con banca dati;
+* quiz senza banca dati;
+* lettura del quesito;
+* distrattori;
+* esclusione;
+* gestione del rischio;
+* tempo;
+* quando saltare;
+* correzione;
+* classificazione degli errori.
+
+### Output
+
+* Strategia in tre passaggi.
+* Scheda correzione quiz.
+* Simulazione cronometrata.
+* Diario specifico della prova.
+* Protocollo ultimi sette giorni.
+
+---
+
+## Capitolo 15 – La prova scritta e teorico-pratica
+
+**Codice collegato:** B-PA11
+**Target:** 5.000 parole.
+
+### Nuclei
+
+* risposta sintetica;
+* elaborato;
+* quesito aperto;
+* caso;
+* atto;
+* lettura della traccia;
+* parole-chiave;
+* struttura definizione-norma-funzione-esempio-conclusione;
+* risposte da 10, 20 e 30 righe;
+* revisione finale.
+
+### Output
+
+* Griglie per tre lunghezze.
+* Traccia guidata.
+* Checklist di revisione.
+* Esempio annotato.
+* Foglio di autovalutazione.
+
+---
+
+## Capitolo 16 – La prova orale
+
+**Target:** 4.000 parole.
+
+### Nuclei
+
+* struttura della risposta;
+* apertura;
+* sviluppo;
+* esempi;
+* collegamenti;
+* norma senza recitazione;
+* gestione del vuoto;
+* domande incrociate;
+* linguaggio;
+* chiusura;
+* simulazione.
+
+### Output
+
+* Schema universale di risposta.
+* Risposta da 30, 60 e 120 secondi.
+* Griglia di simulazione.
+* Scheda del commissario.
+* Registro delle domande difficili.
+
+---
+
+## Capitolo 17 – Casi pratici e problem solving amministrativo
+
+**Codice:** B-PA11
+**Target:** 5.500 parole.
+
+### Nuclei
+
+* soggetti;
+* competenza;
+* fatti;
+* interessi;
+* vincoli;
+* procedimento;
+* termini;
+* dati mancanti;
+* alternative;
+* motivazione;
+* soluzione;
+* controllo finale.
+
+### Casi
+
+* istanza incompleta;
+* accesso;
+* ritardo;
+* graduatoria;
+* informazione al cittadino;
+* trattamento di dati;
+* affidamento;
+* riesame;
+* conflitto di interessi;
+* errore procedimentale.
+
+### Output
+
+* Griglia universale del caso.
+* Dieci casi guidati.
+* Scheda di autovalutazione.
+* Errori tipici.
+* Checklist della soluzione.
+
+---
+
+## Capitolo 18 – Quesiti situazionali e soft skills
+
+**Codice collegato:** B-PA10
+**Target:** 4.000 parole.
+
+### Nuclei
+
+* legalità;
+* imparzialità;
+* collaborazione;
+* responsabilità;
+* orientamento al cittadino;
+* riservatezza;
+* comunicazione;
+* gestione del conflitto;
+* priorità;
+* proporzionalità;
+* escalation;
+* comportamento organizzativo.
+
+### Output
+
+* Matrice valore/comportamento.
+* Casi situazionali.
+* Analisi delle alternative.
+* Scheda competenze.
+* Diario degli errori comportamentali.
+
+---
+
+# PARTE IV – ADATTARE IL METODO AI PROFILI CONCORSUALI
+
+## Capitolo 19 – Le famiglie dei concorsi pubblici
+
+**Target:** 4.500 parole.
+
+### Famiglie
+
+* amministrativo generale;
+* amministrativo-contabile;
+* enti locali;
+* ministeri;
+* agenzie fiscali;
+* previdenza e vigilanza;
+* giustizia;
+* scuola e università;
+* cultura;
+* sanità;
+* tecnico;
+* ICT;
+* polizia locale;
+* ambiente;
+* appalti e PNRR;
+* carriere speciali.
+
+### Output
+
+* Atlante delle famiglie.
+* Tabella ente/profilo/materie/prove.
+* Scheda di classificazione del proprio concorso.
+
+---
+
+## Capitolo 20 – Mappe profilo: cosa resta comune e cosa cambia
+
+**Target:** 6.000 parole.
+
+### Per ogni famiglia
+
+* profili tipici;
+* materie quasi sempre presenti;
+* materie probabili;
+* materie accessorie;
+* prove frequenti;
+* difficoltà;
+* rischio di dispersione;
+* sequenza di studio;
+* contenuti da non approfondire nel base;
+* modulo specialistico pertinente.
+
+### Output
+
+* Dodici mappe profilo.
+* Matrice comune/specialistico.
+* Percorso consigliato.
+* Scheda di compatibilità.
+
+---
+
+## Capitolo 21 – Come scegliere i moduli integrativi
+
+**Target:** 3.000 parole.
+
+### Nuclei
+
+* principio del delta content;
+* quando basta VOL-01;
+* quando serve un volume specialistico;
+* pacchetto Standard;
+* pacchetto Verticale;
+* pacchetto Premium;
+* combinazioni tra volume di ente e volume trasversale;
+* rischio di acquisto eccessivo;
+* riutilizzo futuro.
+
+### Output
+
+* Albero decisionale.
+* Tabella concorso/volumi.
+* Checklist “Cosa non comprare”.
+* Scheda del percorso editoriale.
+
+---
+
+## Capitolo 22 – Piano 30/60/90 giorni
+
+**Target:** 4.500 parole.
+
+### Nuclei
+
+* valutazione del tempo disponibile;
+* pianificazione delle aree;
+* alternanza;
+* ripassi;
+* simulazioni;
+* recupero;
+* ultimi 15 giorni;
+* più concorsi;
+* candidati lavoratori;
+* priorità e tagli.
+
+### Output
+
+* Piano 30 giorni.
+* Piano 60 giorni.
+* Piano 90 giorni.
+* Piano di emergenza 15 giorni.
+* Calendari compilabili.
+
+---
+
+# PARTE V – KIT FINALE DEL CANDIDATO
+
+## Capitolo 23 – Il diario degli errori
+
+**Target:** 4.000 parole.
+
+### Nuclei
+
+* errore di memoria;
+* errore di concetto;
+* errore di lettura;
+* errore di strategia;
+* errore da ansia;
+* errore di esposizione;
+* azione correttiva;
+* trasformazione in flashcard;
+* ripasso guidato dagli errori.
+
+### Output
+
+* Diario completo.
+* Tassonomia degli errori.
+* Scheda di revisione settimanale.
+* Dashboard personale.
+* Protocollo di chiusura dell’errore.
+
+---
+
+## Capitolo 24 – Checklist operative
+
+**Target:** 4.000 parole.
+
+### Checklist
+
+* prima di scegliere il concorso;
+* prima di inviare la domanda;
+* dopo l’invio;
+* prima di iniziare lo studio;
+* prima dello scritto;
+* prima dell’orale;
+* ultimi sette giorni;
+* ultime 24 ore;
+* documenti;
+* logistica;
+* gestione dell’ansia;
+* dopo la prova;
+* dopo la pubblicazione della graduatoria.
+
+### Output
+
+* Kit di checklist staccabili o fotocopiabili.
+* Registro scadenze.
+* Scheda documenti.
+* Protocollo giorno della prova.
+
+---
+
+# 8. Appendici
+
+## Appendice A – Glossario essenziale della PA
+
+**Target:** 5.000 parole.
+
+Contiene 100-150 termini ad alta frequenza, organizzati per area:
+
+* concorso e graduatoria;
+* procedimento;
+* organizzazione;
+* trasparenza;
+* digitale;
+* contratti;
+* contabilità.
+
+Per ogni voce:
+
+1. significato essenziale;
+2. uso in prova;
+3. errore da evitare.
+
+La bozza canonica del glossario è già disponibile e va coordinata con il resto del volume.
+
+---
+
+## Appendice B – 100 parole chiave per scritto e orale
+
+**Target:** 3.000 parole.
+
+Per ogni parola:
+
+* definizione;
+* materia;
+* perché è importante;
+* frase d’uso;
+* collegamento;
+* errore frequente.
+
+Non deve duplicare il glossario: il glossario spiega il termine, questa appendice insegna a usarlo.
+
+---
+
+## Appendice C – Bando Decoder
+
+Strumento compilabile completo:
+
+* ente;
+* profilo;
+* requisiti;
+* domanda;
+* prove;
+* materie;
+* punteggi;
+* soglie;
+* riserve;
+* titoli;
+* scadenze;
+* rischi;
+* compatibilità;
+* volume specialistico.
+
+---
+
+## Appendice D – Piano di studio personale
+
+Contiene:
+
+* audit iniziale;
+* disponibilità settimanale;
+* priorità;
+* calendario;
+* ripassi;
+* simulazioni;
+* recuperi;
+* registro avanzamento;
+* revisione settimanale.
+
+---
+
+## Appendice E – Schema universale di risposta
+
+Tre formati:
+
+1. risposta da quiz ragionato;
+2. risposta scritta;
+3. risposta orale.
+
+Struttura principale:
+
+> Definizione → riferimento → funzione → applicazione → esempio → conclusione.
+
+---
+
+## Appendice F – Matrice materie/profili
+
+Versione editoriale semplificata della matrice canonica:
+
+* profilo;
+* area comune;
+* materia specialistica;
+* prova prevalente;
+* volume consigliato;
+* contenuti da non acquistare.
+
+La matrice completa resta la fonte canonica del sistema.
+
+---
+
+# 9. Template obbligatorio di capitolo
+
+Ogni capitolo deve contenere, quando pertinente:
+
+1. Apertura editoriale.
+2. Obiettivo del capitolo.
+3. Perché serve in concorso.
+4. Mappa BANDO.
+5. Mappa dei concetti.
+6. Spiegazione in paragrafi brevi.
+7. Box “Da sapere in 5 righe”.
+8. Tabella operativa.
+9. Caso guidato.
+10. Domanda da commissario.
+11. Domanda-trappola.
+12. Mini-esercizio.
+13. Errore tipico.
+14. Checkpoint finale.
+15. Riferimenti normativi o consolidati.
+16. Collegamento al diario degli errori.
+17. Rinvio facoltativo al ricettario digitale.
+
+---
+
+# 10. Sistema dei box
+
+| Box                           | Funzione                    |
+| ----------------------------- | --------------------------- |
+| Da sapere in 5 righe          | Sintesi ad alta resa        |
+| Attenzione                    | Rischio di confusione       |
+| Errore tipico                 | Comportamento da correggere |
+| Domanda-trappola              | Distinzione concettuale     |
+| Caso guidato                  | Applicazione                |
+| Prova tu                      | Esercizio                   |
+| Come lo chiede la commissione | Collegamento alla prova     |
+| Nel tuo bando                 | Applicazione del metodo     |
+| Diario degli errori           | Registrazione dell’errore   |
+| Cfr. modulo specialistico     | Rinvio al delta settoriale  |
+
+---
+
+# 11. Fonti normative del VOL-01
+
+Il volume deve partire dalle fonti già consolidate nel catalogo base:
+
+* Costituzione;
+* Legge 241/1990;
+* D.Lgs. 165/2001;
+* D.P.R. 487/1994 e D.P.R. 82/2023;
+* D.P.R. 62/2013;
+* D.Lgs. 150/2009;
+* Legge 190/2012;
+* D.Lgs. 33/2013;
+* D.Lgs. 39/2013;
+* D.Lgs. 24/2023;
+* GDPR e D.Lgs. 196/2003;
+* CAD;
+* D.P.R. 445/2000;
+* D.Lgs. 36/2023;
+* normativa essenziale di contabilità pubblica;
+* CCNL dei comparti ARAN.
+
+Le fonti vanno presentate in forma funzionale alla prova, non come repertorio normativo autonomo.
+
+---
+
+# 12. Regole anti-duplicazione
+
+1. VOL-01 spiega il nucleo comune.
+2. I volumi specialistici non riscrivono il nucleo comune.
+3. VOL-01 non anticipa manuali verticali.
+4. Gli esempi settoriali servono a mostrare l’applicazione, non a trattare la disciplina completa.
+5. Contabilità locale, sanitaria, scolastica e universitaria sono solo distinte e contestualizzate.
+6. Appalti avanzati e PNRR sono rinviati a VOL-09.
+7. ICT avanzato è rinviato a VOL-08.
+8. Tecnica, urbanistica e lavori pubblici sono rinviati a VOL-10.
+9. Ambiente e protezione civile sono rinviati a VOL-11.
+10. Carriere speciali sono rinviate a VOL-12.
+
+---
+
+# 13. Sequenza consigliata di scrittura
+
+## Blocco 1 – Fondazione del metodo
+
+1. Introduzione.
+2. Capitolo 2.
+3. Capitolo 3.
+4. Capitolo 1.
+
+## Blocco 2 – Materie comuni principali
+
+5. Capitolo 5.
+6. Capitolo 6.
+7. Capitolo 7.
+8. Capitolo 4.
+
+## Blocco 3 – Materie applicative
+
+9. Capitolo 8.
+10. Capitolo 9.
+11. Capitolo 10.
+12. Capitolo 11.
+13. Capitolo 12.
+
+## Blocco 4 – Prove
+
+14. Capitolo 13.
+15. Capitolo 14.
+16. Capitolo 15.
+17. Capitolo 16.
+18. Capitolo 17.
+19. Capitolo 18.
+
+## Blocco 5 – Sistema adattabile
+
+20. Capitolo 19.
+21. Capitolo 20.
+22. Capitolo 21.
+23. Capitolo 22.
+
+## Blocco 6 – Workbook e chiusura
+
+24. Capitolo 23.
+25. Capitolo 24.
+26. Appendici A-F.
+
+Questa sequenza consente di scrivere prima il motore del metodo e poi allineare materie, prove e strumenti.
+
+---
+
+# 14. Criteri di validazione di ogni capitolo
+
+Un capitolo è pronto per l’editing soltanto quando:
+
+* ha un obiettivo didattico esplicito;
+* è collegato a una fase del Metodo BANDO;
+* distingue nozione e applicazione;
+* presenta almeno uno strumento;
+* contiene almeno un errore tipico;
+* mostra come la materia viene chiesta;
+* contiene un output utilizzabile;
+* usa fonti consolidate;
+* non invade un modulo specialistico;
+* può essere letto senza accesso al sito;
+* è impaginabile in colonna singola;
+* usa paragrafi brevi;
+* evita elenchi normativi non spiegati;
+* include una verifica finale;
+* presenta rinvii coerenti.
+
+---
+
+# 15. Scheda commerciale
+
+## Pacchetto base
+
+**VOL-01 – Il Metodo BANDO**
+
+Adatto a:
+
+* candidati all’inizio;
+* candidati che preparano più concorsi;
+* profili amministrativi generalisti;
+* candidati che possiedono già manuali specialistici ma non un metodo;
+* candidati che devono costruire le materie comuni.
+
+## Pacchetto Standard
+
+**VOL-01 + volume specialistico pertinente**
+
+Esempi:
+
+* Comune → VOL-01 + VOL-02;
+* Agenzia fiscale → VOL-01 + VOL-03;
+* Scuola → VOL-01 + VOL-06;
+* Sanità → VOL-01 + VOL-07;
+* ICT → VOL-01 + VOL-08.
+
+## Cosa non serve comprare
+
+Il candidato non deve acquistare:
+
+* più volumi specialistici per concorsi appartenenti alla stessa famiglia, salvo reale profilo trasversale;
+* un manuale specialistico quando il bando contiene esclusivamente materie comuni;
+* VOL-08 per un semplice accertamento informatico;
+* VOL-09 per nozioni introduttive sui contratti;
+* VOL-10 per un profilo amministrativo comunale;
+* VOL-12 per concorsi ordinari non appartenenti alle carriere speciali.
+
+---
+
+# 16. Checklist finale VOL-01
+
+* [x] Promessa del Metodo BANDO esplicitata.
+* [x] Architettura a tre livelli rispettata.
+* [x] VOL-01 configurato come libro autonomo.
+* [x] Struttura madre mantenuta.
+* [x] Parti e capitoli numerati.
+* [x] Tutte le 11 aree B-PA coperte.
+* [x] Materie specialistiche escluse o rinviate.
+* [x] Principio del delta content applicato.
+* [x] Metodo BANDO presente in tutto il volume.
+* [x] Strumenti compilabili previsti.
+* [x] Quiz, scritto, orale e casi coperti.
+* [x] Diario degli errori integrato.
+* [x] Piano 30/60/90 previsto.
+* [x] Glossario coordinato.
+* [x] Matrice profili prevista.
+* [x] Fonti normative base non replicate inutilmente.
+* [x] Digitale configurato come supporto opzionale.
+* [x] Regola “cosa non comprare” presente.
+* [x] Sequenza di scrittura definita.
+* [x] Criteri di validazione editoriale definiti.
+
+---
+
+## Decisione editoriale conclusiva
+
+VOL-01 deve essere sviluppato come **sistema operativo personale del candidato**, non come manuale enciclopedico.
+
+Il criterio di selezione di ogni pagina è:
+
+> Questa pagina aiuta il candidato a capire, decidere, studiare, correggere o produrre una risposta migliore?
+
+Se la risposta è negativa, il contenuto deve essere ridotto, trasformato in strumento oppure spostato nel volume specialistico pertinente.

@@ -25,9 +25,9 @@ last_manual_writer_run: "2026-05-26T13:19:10+02:00"
 
 ## Perché studiare l'ordinamento costituzionale
 
-Il diritto costituzionale è la grammatica comune dei concorsi pubblici. Non serve soltanto a ricordare articoli o organi: serve a capire da dove nasce il potere pubblico, quali limiti incontra, come si producono le norme, come vengono garantiti i diritti e perché la pubblica amministrazione deve agire con legalità, imparzialità e buon andamento.
+Il diritto costituzionale è la grammatica comune dei concorsi pubblici. Non serve soltanto a ricordare articoli o organi. Aiuta a capire da dove nasce il potere pubblico, quali limiti incontra, come si producono le norme e come vengono garantiti i diritti. Spiega inoltre perché la pubblica amministrazione deve agire con legalità, imparzialità e buon andamento.
 
-Per il candidato, la Costituzione è una mappa di collegamento. Una domanda sul bando di concorso può sembrare amministrativa, ma spesso ha una base costituzionale: accesso agli impieghi pubblici, eguaglianza, responsabilità dei funzionari, riparto di competenze tra Stato e Regioni, libertà dei cittadini, poteri del Parlamento e del Governo, tutela giurisdizionale contro gli atti della pubblica amministrazione.
+Per il candidato, la Costituzione è una mappa di collegamento. Una domanda può sembrare soltanto amministrativa, ma avere una base costituzionale. Accade per l'accesso agli impieghi pubblici, l'eguaglianza, la responsabilità dei funzionari, il riparto di competenze tra Stato e Regioni, le libertà, i poteri di Parlamento e Governo e la tutela contro gli atti della PA.
 
 L'obiettivo non è trasformare questo capitolo in un compendio universitario. L'obiettivo è costruire una base solida, ordinata e spendibile in quiz, orale e risposte sintetiche.
 

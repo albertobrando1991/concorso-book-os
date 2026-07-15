@@ -6,10 +6,10 @@ status: canonical
 domain: "concorsi pubblici italiani"
 topics: ["book design","typography","manual layout","workbook","metodo bando"]
 entities: ["Metodo BANDO","Bando Decoder","Manual Writer Agent"]
-source_refs: ["sources/book-layout-typography-standards.md","sources/struttura-madre-il-metodo-bando.md","sources/metodo-bando-progetto-editoriale.md"]
+source_refs: ["sources/book-layout-typography-standards.md","sources/struttura-madre-il-metodo-bando.md","sources/metodo-bando-progetto-editoriale.md","sources/vol-01-il-metodo-bando-struttura-2026-07-14.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.92
-updated_at: 2026-05-28T13:50:00+02:00
+updated_at: 2026-07-14T19:00:00+02:00
 created_at: 2026-05-10T12:59:21+02:00
 review_required: false
 canonical: true
@@ -36,28 +36,16 @@ G:\Il mio Drive\PROGETTO CAPITALE PERSONALE SITO\PROG_LIBRO_CAPITALE PERSONALE\p
 
 Decisione applicata:
 - impostare il libro come **manuale premium-workbook**;
-- usare gabbia editoriale compatta 16,8 x 24 cm / 17 x 24 cm;
+- usare un master A4 verticale per scrittura, revisione e anteprima;
+- derivare dal master il formato commerciale compatto 17 x 24 cm;
 - mantenere il colore pagina gia' in uso nella preview;
-- adottare gerarchia Playfair Display + Montserrat;
+- adottare Source Serif 4 per il corpo e Source Sans 3 per titoli, box e strumenti; Playfair Display resta limitato alle aperture di capitolo e agli elementi display;
 - usare palette controllata Navy, Bordeaux, Muted Gold, Off-White e Rich Black;
 - usare template ricorrenti riconoscibili: Ancora, Valore, Caso pratico, Diario, Profilo;
 - conservare margini ottimizzati per legatura, leggibilita e workbook.
 
 ## Formato fisico consigliato
-Formato editoriale operativo attuale per libro e preview:
-
-```text
-16,8 x 24 cm
-alternativa equivalente: 17 x 24 cm
-```
-
-Motivo:
-- allinea la preview al formato libro proposto;
-- mantiene una pagina piu editoriale e meno da dispensa;
-- sostiene un volume da 300+ pagine con ritmo da manuale-workbook;
-- lascia spazio a box, tabelle compilabili, griglie e pagine operative.
-
-Formato di revisione interna/legacy:
+Formato editoriale operativo attuale per master e preview:
 
 ```text
 A4 verticale
@@ -65,19 +53,20 @@ A4 verticale
 ```
 
 Motivo:
-- rende visibile una pagina reale alla volta nella dashboard;
-- offre spazio sufficiente per tabelle, box, mappe, checklist e schede compilabili;
-- facilita revisione, stampa interna, annotazione e confronto tra versioni;
-- mantiene il libro autonomo su carta e pronto per conversioni editoriali successive.
+- rende verificabili pagina, margini, tabelle, immagini e strumenti nella dashboard;
+- sostiene un volume articolato con ritmo da manuale-workbook;
+- lascia spazio a box, tabelle compilabili, griglie e pagine operative.
 
-Formato commerciale compatto gia assorbito nella decisione attuale:
+Formato commerciale compatto derivato:
 
 ```text
 17 x 24 cm circa
 KDP equivalente: 6.69 x 9.61 in
 ```
 
-Usarlo come riferimento di stampa quando si passa dall'anteprima operativa al file editoriale finale.
+Motivo:
+- conserva una proporzione editoriale professionale;
+- viene generato solo dopo il controllo del master, con una nuova verifica di riflusso, tabelle, immagini, vedove e orfani.
 
 Formato alternativo per edizione molto pratica/workbook:
 
@@ -123,7 +112,7 @@ Regola:
 - niente testo troppo vicino alla legatura;
 - no layout a due colonne per la spiegazione principale;
 - box e strumenti devono entrare nella colonna senza comprimere il testo;
-- la preview dashboard deve essere paginata in singole pagine editoriali 16,8 x 24 cm, con footer e numerazione;
+- la preview dashboard deve essere paginata in singole pagine A4, con footer e numerazione;
 - il testo corrente deve essere giustificato, con sillabazione italiana, vedove/orfani controllati e titoli non lasciati soli a fine pagina;
 - tabelle larghe possono usare pagina piena o orientamento dedicato solo in appendice/PDF.
 
@@ -136,15 +125,17 @@ Bleed:
 Scelta applicata:
 
 ```text
-Titolo copertina e titoli capitolo: Playfair Display
-Sottotitoli, box, corpo testo, tabelle e workbook: Montserrat
-Fallback display: Georgia, Times New Roman, serif
-Fallback testo: Segoe UI, Arial, sans-serif
+Corpo testo: Source Serif 4
+Titoli, box, tabelle e workbook: Source Sans 3
+Aperture capitolo e titoli display: Playfair Display, con uso limitato
+Fallback corpo: Charter, Georgia, Times New Roman, serif
+Fallback sans: Segoe UI, Arial, sans-serif
 ```
 
 Motivo:
-- Playfair Display costruisce autorevolezza e memoria editoriale;
-- Montserrat mantiene istruzione, dati, liste e procedure molto leggibili;
+- Source Serif 4 garantisce una lettura lunga piu naturale;
+- Source Sans 3 distingue istruzioni, dati, liste e procedure;
+- Playfair Display costruisce autorevolezza nelle sole aperture;
 - non introdurre altri font e non usare piu di tre pesi nella stessa pagina.
 
 Alternative premium per impaginazione finale:
@@ -155,7 +146,7 @@ Alternative premium per impaginazione finale:
 Corpo principale:
 
 ```text
-Montserrat Regular 9,2-9,8 pt
+Source Serif 4 Regular 10-10,5 pt
 interlinea: 12,5-13,2 pt
 spazio dopo paragrafo: 3-5 pt
 allineamento: giustificato nella preview/PDF con sillabazione controllata
@@ -165,11 +156,11 @@ Titoli:
 
 ```text
 H1 capitolo: 24-30 pt Playfair Display Semibold/Bold
-H2 sezione: 15-17 pt Playfair Display Semibold o Montserrat Bold
-H3 blocco operativo: 10-12 pt Montserrat Semibold/Bold
-Didascalie: 8-9 pt Montserrat
-Note/fonti: 8-9 pt Montserrat
-Tabelle/workbook: 7,5-8,5 pt Montserrat
+H2 sezione: 15-17 pt Source Sans 3 Bold
+H3 blocco operativo: 10-12 pt Source Sans 3 Semibold/Bold
+Didascalie: 8-9 pt Source Sans 3
+Note/fonti: 8-9 pt Source Sans 3
+Tabelle/workbook: 7,5-8,5 pt Source Sans 3
 ```
 
 Riga:
@@ -183,8 +174,8 @@ limite accettabile: 45-75 caratteri
 Preview dashboard:
 
 ```text
-formato pagina: 16,8 x 24 cm
-corpo: circa 12.8 px Montserrat
+formato pagina: A4 verticale
+corpo: circa 13 px Source Serif 4
 line-height: 1.45
 larghezza testo: max 64ch
 spaziatura paragrafo: 0.55-0.65rem

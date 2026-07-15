@@ -107,13 +107,13 @@ La risposta migliore è quella che combina servizio, competenza, prudenza e trac
 
 Quando hai dubbi, usa questa gerarchia.
 
-### 1. legalità e competenza
+### 1. Legalità e competenza
 
 Prima domanda: l'opzione rispetta regole, ruoli e competenza?
 
 Se un'opzione propone di aggirare una procedura, usare dati senza titolo, promettere un esito o decidere fuori ruolo, di solito è debole anche se sembra utile.
 
-### 2. imparzialità e integrità
+### 2. Imparzialità e integrità
 
 Seconda domanda: l'opzione tratta persone e interessi in modo imparziale?
 
@@ -129,7 +129,7 @@ Un comportamento molto collaborativo ma indiscreto è scorretto.
 
 Quarta domanda: l'opzione aiuta l'utente o il collega a trovare il percorso corretto?
 
-legalità non significa freddezza. Una risposta corretta deve essere anche chiara, rispettosa e utile.
+La legalità non significa freddezza. Una risposta corretta deve essere anche chiara, rispettosa e utile.
 
 ### 5. Collaborazione
 
@@ -137,7 +137,7 @@ Quinta domanda: l'opzione coinvolge la persona giusta quando serve?
 
 Risolvere tutto da soli può essere sbagliato se il problema supera il proprio ruolo. Scaricare tutto su altri può essere altrettanto sbagliato.
 
-### 6. tracciabilità e responsabilità
+### 6. Tracciabilità e responsabilità
 
 Sesta domanda: l'opzione lascia traccia e consente controllo?
 

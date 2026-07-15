@@ -108,7 +108,7 @@ export function ManualWriterPanel({
       }
 
       setResult(payload)
-      const updatedBookId = bookIdFromChapterPath(payload.chapterPath) || activeBookId
+      const updatedBookId = activeBookId.startsWith("volumi/") ? activeBookId : bookIdFromChapterPath(payload.chapterPath) || activeBookId
       const nextMessage = `Preview aggiornata: ${payload.chapterPath}`
       setSyncMessage(nextMessage)
       window.dispatchEvent(new CustomEvent("book-studio:refresh", {

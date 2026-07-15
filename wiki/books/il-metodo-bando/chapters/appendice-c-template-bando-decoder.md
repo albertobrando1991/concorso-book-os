@@ -44,7 +44,7 @@ Se non trovi un'informazione, scrivi `da verificare`. Il campo vuoto è pericolo
 
 ### 3. Trasforma ogni dato in una decisione
 
-Non basta scrivere "prova scritta". Devi chiederti: è a quiz? è teorica? è pratica? ha soglia? elimina molti candidati? richiede simulazioni?
+Non basta scrivere "prova scritta". Devi chiederti: è a quiz? È teorica? È pratica? Ha una soglia? Elimina molti candidati? Richiede simulazioni?
 
 ### 4. Aggiorna il Decoder quando escono avvisi
 
@@ -126,7 +126,7 @@ Il nome del profilo non basta. Devi capire quale lavoro e quale prova sta dietro
 | Quale esperienza o conoscenza personale posso riutilizzare? | |
 | Quale parte del profilo mi è più debole? | |
 
-### compatibilità personale
+### Compatibilità personale
 
 | Fattore | Alto/Medio/Basso | Nota |
 |---|---|---|

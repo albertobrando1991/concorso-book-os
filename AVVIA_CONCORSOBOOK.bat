@@ -22,7 +22,7 @@ if errorlevel 1 (
   echo ATTENZIONE: Codex CLI non trovato. Il Manual Writer usera' il fallback locale.
   echo.
 ) else (
-  codex login status >nul 2>nul
+  call codex login status >nul 2>nul
   if errorlevel 1 (
     echo ATTENZIONE: Codex CLI non e' autenticato.
     echo Per usare il Manual Writer con il tuo account Codex, apri un nuovo terminale qui ed esegui:
@@ -34,7 +34,7 @@ if errorlevel 1 (
 
 if not exist node_modules (
   echo Dipendenze non trovate. Eseguo npm install...
-  npm install
+  call npm install
   if errorlevel 1 (
     echo.
     echo ERRORE: npm install non riuscito.
@@ -43,7 +43,7 @@ if not exist node_modules (
   )
 )
 
-npm run dev -- -H 127.0.0.1 -p 3000
+call npm run dev -- -H 127.0.0.1 -p 3000
 
 echo.
 echo Il server si e' fermato.

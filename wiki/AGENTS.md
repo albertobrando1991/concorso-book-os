@@ -26,6 +26,7 @@ Regole per i moduli specialistici:
 - Il `book_id` dei capitoli deve coincidere con lo slug della cartella modulo.
 - Ogni modulo deve dichiarare `module_code`, `module_family`, `companion_to: il-metodo-bando` e `draft_stage`.
 - I moduli non duplicano il nucleo comune del libro principale: applicano il Metodo BANDO a profili, prove, materie specialistiche e rischi della famiglia.
+- La logica vincolante di copertura e sviluppo e' [[sources/logica-volumi-copertura-concorsobook-v4]]: comune solo in VOL-01, famiglia nel relativo specialistico, sottoprofilo in appendice/verticale necessario, altra famiglia tramite rinvio senza duplicazioni. Per il catalogo e le riconciliazioni dei 25 moduli usare anche [[books/moduli/architettura-moduli-specialistici]].
 - Prima della scrittura finale servono source notes consolidate, topic/entity pages collegate e review umana per norme settoriali, sanita e carriere speciali.
 - La promessa pubblica corretta e': riusabile, aggiornabile, modulare. Evitare formule come copertura totale garantita o aggiornamento automatico.
 
@@ -128,6 +129,7 @@ Regole:
 - Deve usare `books/il-metodo-bando/struttura-madre.md` come guida operativa canonica per ogni sviluppo del manuale.
 - Deve applicare `books/il-metodo-bando/design-system-editoriale.md` per formato, gerarchia, box, font, layout e logica workbook.
 - Deve leggere la nota capitolo selezionata e rispettare la sezione `Specifica struttura madre` prima di generare o integrare testo.
+- Per ogni capitolo di volume o modulo deve applicare la scheda di copertura v4: famiglia, profilo, B-PA gia' nel base, specialistico, eventuale sottoprofilo, rinvio cross-family, pacchetto minimo ed esclusioni. La stessa verifica vale per integrazioni e revisioni: non duplicare il B-PA, non collocare materie nella famiglia sbagliata e non creare verticali non necessari.
 - Legge solo `sources/`, `topics/`, `entities/`, `quizzes/` e capitoli esistenti.
 - Il cervello wiki e' la base obbligatoria della conoscenza: source notes, topic pages, entity pages, struttura madre, design system, capitoli e quiz vengono sempre prima.
 - Non legge mai direttamente `raw/` per produrre testo editoriale finale.
@@ -178,4 +180,5 @@ Regole:
 - Il pannello dashboard e' `app/components/editorial-reviewer-panel.tsx`.
 - Il risultato include: sintesi editoriale, tabella errori per gravita, osservazioni per capitolo, giudizio di pubblicabilita motivato, contenuto da verificare, suggerimenti facoltativi, priorita degli interventi e limiti della revisione.
 - Il revisore non riscrive il testo: segnala, spiega il motivo, propone una correzione concreta. L'autore decide.
+- Per ogni volume o modulo il revisore applica anche [[sources/logica-volumi-copertura-concorsobook-v4]] prima della checklist a 30 punti: segnala come errore grave duplicazioni B-PA, materia nella famiglia errata o lacune su materie ricorrenti/pesate; verifica rinvii cross-family, necessita' di verticali e congruenza del pacchetto minimo.
 - I report di revisione sono salvati in `wiki/reviews/` e loggati in `log.md`.

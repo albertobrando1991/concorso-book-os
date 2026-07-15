@@ -137,7 +137,7 @@ Non serve una precisione matematica. Serve una decisione visibile.
 
 Se non riesci a compilare la matrice, non sei pronto a distribuire le ore. Prima decodifica i bandi, poi pianifica.
 
-![Figura 27.3 - Matrice di compatibilità](../assets/chapter-27/03-matrice-compatibilità.png)
+![Figura 27.3 - Matrice di compatibilità](../assets/chapter-27/03-matrice-compatibilita.png)
 
 ## La regola 70/20/10
 

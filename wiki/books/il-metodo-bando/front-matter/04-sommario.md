@@ -32,7 +32,7 @@ last_compiled_from: ["wiki/books/il-metodo-bando/struttura-madre.md", "wiki/book
 | **Parte IV - Adattare il metodo ai profili concorsuali** | Famiglie dei concorsi; Mappe profilo; Moduli integrativi; Piano 30/60/90 giorni |
 | **Parte V - Kit finale del candidato** | Diario degli errori; Checklist operative |
 | **Appendici** | Glossario PA; 100 parole chiave; Bando Decoder; Piano personale; Schema risposta orale; Matrice materie/profili |
-| **Ricettario operativo digitale** | Aggiornamenti; concorsi paralleli; simulazioni; schede operative; priorita; ripasso; casi; banca dati; risposta sintetica; orale; revisione finale |
+| **Ricettario operativo digitale** | Aggiornamenti; concorsi paralleli; simulazioni; schede operative; priorità; ripasso; casi; banca dati; risposta sintetica; orale; revisione finale |
 
 > [!TIP]
 > Orientamento alla lettura

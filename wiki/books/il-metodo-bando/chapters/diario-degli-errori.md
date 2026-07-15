@@ -163,7 +163,7 @@ Anche una risposta corretta può entrare nel diario se l'hai indovinata. Il conc
 
 ## Come usare il diario nello scritto
 
-Nello scritto l'errore non è solo contenuto. può riguardare struttura, ordine, esempi, proporzione, linguaggio e gestione del tempo.
+Nello scritto l'errore non riguarda solo il contenuto. Può dipendere anche da struttura, ordine, esempi, proporzione, linguaggio e gestione del tempo.
 
 Categorie utili:
 

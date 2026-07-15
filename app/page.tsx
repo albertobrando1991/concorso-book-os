@@ -33,10 +33,13 @@ import {
   TEXT_VOLUME_CATALOG,
   type TextVolume,
   findTextVolumeForBookId,
+  isSpecialistTextVolume,
+  isTextVolumeBookId,
   normalizeTextBookId,
   textBookIdFromPath,
   textCatalogSortRank,
   textLaunchWaveLabel,
+  textVolumeBookId,
   textVolumeTierLabel
 } from "@/src/catalog/text-volumes"
 
@@ -69,7 +72,7 @@ export default async function Home({ searchParams }: HomeProps) {
   const data = await getDashboardData()
   const store = new FileWikiStore(getWikiRoot())
   const params = searchParams ? await searchParams : {}
-  const requestedBookId = firstParam(params.bookId) || DEFAULT_BOOK_ID
+  const requestedBookId = normalizeDashboardBookId(firstParam(params.bookId) || DEFAULT_BOOK_ID)
   const requestedChapterPath = firstParam(params.chapterPath)
   const chapters = await new ManualWriterAgent(store).listChapters(requestedBookId)
   const graph = await buildKnowledgeGraph(store)
@@ -83,7 +86,7 @@ export default async function Home({ searchParams }: HomeProps) {
   const topIssues = data.qualityIssues.slice(0, 6)
   const catalogVolumes = buildCatalogVolumes(data.books)
   const activeCatalogVolume = findTextVolumeForBookId(requestedBookId)
-  const availableCatalogTexts = catalogVolumes.reduce((count, volume) => count + volume.availableBooks.length, 0)
+  const availableCatalogTexts = catalogVolumes.filter((volume) => volume.availableBooks.length > 0).length
   const reviewRequiredTexts = data.books.filter((book) => book.reviewRequired).length
 
   return (
@@ -287,6 +290,8 @@ type CatalogBookItem = {
 }
 
 type CatalogVolumeView = TextVolume & {
+  volumeBookId: string
+  isSpecialistVolume: boolean
   availableBooks: CatalogBookItem[]
   missingBookIds: string[]
 }
@@ -297,6 +302,7 @@ function buildCatalogVolumes(books: DashboardBookItem[]): CatalogVolumeView[] {
   )
 
   return TEXT_VOLUME_CATALOG.map((volume) => {
+    const isSpecialistVolume = isSpecialistTextVolume(volume)
     const availableBooks = volume.bookIds
       .map((bookId, index) => {
         const normalized = normalizeTextBookId(bookId)
@@ -315,6 +321,8 @@ function buildCatalogVolumes(books: DashboardBookItem[]): CatalogVolumeView[] {
 
     return {
       ...volume,
+      volumeBookId: textVolumeBookId(volume),
+      isSpecialistVolume,
       availableBooks,
       missingBookIds: volume.bookIds.filter((bookId) => !booksById.has(normalizeTextBookId(bookId)))
     }
@@ -422,6 +430,15 @@ function TextCatalogList({
 
           <p>{volume.promise}</p>
 
+          {volume.isSpecialistVolume ? (
+            <a
+              href={`/?bookId=${encodeURIComponent(volume.volumeBookId)}#studio`}
+              className={`catalogVolumeLink${normalizedCurrent === volume.volumeBookId ? " active" : ""}`}
+            >
+              Apri volume completo
+            </a>
+          ) : null}
+
           <div className="moduleChips" aria-label={`Moduli ${volume.code}`}>
             {(volume.modules.length > 0 ? volume.modules : ["B-PA01/B-PA11"]).map((module) => (
               <span key={module}>{module}</span>
@@ -436,19 +453,33 @@ function TextCatalogList({
 
           <div className="volumeBooks">
             {volume.availableBooks.map(({ book, bookId, moduleCode }) => {
-              const active = normalizeTextBookId(bookId) === normalizedCurrent
-
-              return (
-                <a
-                  href={`/?bookId=${encodeURIComponent(bookId)}#studio`}
-                  className={`catalogBookLink${active ? " active" : ""}`}
-                  key={book.path}
-                >
+              const active = volume.isSpecialistVolume
+                ? normalizedCurrent === volume.volumeBookId || normalizeTextBookId(bookId) === normalizedCurrent
+                : normalizeTextBookId(bookId) === normalizedCurrent
+              const details = (
+                <>
                   <span>{moduleCode}</span>
                   <strong>{book.title}</strong>
                   <small>
                     {book.chapters} capitoli | {book.status} | {book.reviewRequired ? "review_required" : "stable"}
                   </small>
+                </>
+              )
+
+              return volume.isSpecialistVolume ? (
+                <div
+                  className={`catalogBookLink moduleBookStatus${active ? " active" : ""}`}
+                  key={book.path}
+                >
+                  {details}
+                </div>
+              ) : (
+                <a
+                  href={`/?bookId=${encodeURIComponent(bookId)}#studio`}
+                  className={`catalogBookLink${active ? " active" : ""}`}
+                  key={book.path}
+                >
+                  {details}
                 </a>
               )
             })}
@@ -652,6 +683,16 @@ function compareSources(a: { title: string; updatedAt: string }, b: { title: str
 function toSortableTime(value: string) {
   const time = Date.parse(value)
   return Number.isNaN(time) ? 0 : time
+}
+
+function normalizeDashboardBookId(bookId: string) {
+  const normalized = normalizeTextBookId(bookId)
+  const volume = findTextVolumeForBookId(normalized)
+
+  if (!volume || !isSpecialistTextVolume(volume)) return normalized
+  if (isTextVolumeBookId(normalized)) return normalized
+
+  return textVolumeBookId(volume)
 }
 
 function Panel({

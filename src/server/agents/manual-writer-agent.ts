@@ -7,6 +7,7 @@ import { LocalAgentMemory } from "../memory/local-agent-memory"
 import { parseFrontmatter } from "../wiki/frontmatter"
 import { FileWikiStore } from "../wiki/file-store"
 import { slugify } from "../wiki/slug"
+import { bookIdsForTextVolumeBookId, isTextVolumeBookId, normalizeTextBookId } from "../../catalog/text-volumes"
 import { readFile } from "node:fs/promises"
 import path from "node:path"
 
@@ -86,6 +87,7 @@ export class ManualWriterAgent {
   async listChapters(bookId?: string): Promise<ChapterOption[]> {
     const files = await this.store.listMarkdown("books")
     const chapters: ChapterOption[] = []
+    const requestedBookIds = bookId ? resolveRequestedBookIds(bookId) : null
 
     for (const file of files.filter((item) => item.includes("/chapters/"))) {
       const content = await this.store.readText(file)
@@ -94,7 +96,11 @@ export class ManualWriterAgent {
       const declaredBookId = String(data.book_id || data.extra?.book_id || "")
       const currentBookId = bookIdFromChapterPath(file) || declaredBookId || "unknown"
 
-      if (bookId && currentBookId !== bookId && declaredBookId !== bookId) {
+      if (
+        requestedBookIds &&
+        !requestedBookIds.has(normalizeTextBookId(currentBookId)) &&
+        !requestedBookIds.has(normalizeTextBookId(declaredBookId))
+      ) {
         continue
       }
 
@@ -311,7 +317,9 @@ export class ManualWriterAgent {
       .map((entity) => `entities/${slugify(entity)}.md`)
       .slice(0, 10)
 
-    for (const ref of [...sourceRefs, ...topicRefs, ...entityRefs]) {
+    const mandatoryCoverageRefs = ["sources/logica-volumi-copertura-concorsobook-v4.md"]
+
+    for (const ref of [...sourceRefs, ...topicRefs, ...entityRefs, ...mandatoryCoverageRefs]) {
       if (ref.startsWith("raw/")) continue
       if (!(await this.store.exists(ref))) continue
 
@@ -1531,6 +1539,16 @@ function bookIdFromChapterPath(chapterPath: string) {
   const match = normalized.match(/^books\/(.+)\/chapters\/[^/]+\.md$/)
 
   return match?.[1] || ""
+}
+
+function resolveRequestedBookIds(bookId: string) {
+  const normalized = normalizeTextBookId(bookId)
+
+  if (isTextVolumeBookId(normalized)) {
+    return new Set(bookIdsForTextVolumeBookId(normalized).map(normalizeTextBookId))
+  }
+
+  return new Set([normalized])
 }
 
 function asStringArray(value: unknown) {

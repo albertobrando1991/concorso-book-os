@@ -42,6 +42,7 @@ describe("book preview assets", () => {
       )
 
       const data = await buildBookStudioData(new FileWikiStore(root), "il-metodo-bando")
+      const volumeOneAlias = await buildBookStudioData(new FileWikiStore(root), "volumi/vol-01")
       const imageBlock = data.chapters[0].blocks.find((block) => block.type === "image")
       const calloutBlock = data.chapters[0].blocks.find((block) => block.type === "callout")
 
@@ -52,6 +53,8 @@ describe("book preview assets", () => {
       expect(data.assets.map((asset) => asset.path)).toContain(
         "books/il-metodo-bando/assets/chapter-01/04-scala-profondita-profilo.png"
       )
+      expect(volumeOneAlias.bookId).toBe("il-metodo-bando")
+      expect(volumeOneAlias.chapters.some((chapter) => chapter.isGenerated)).toBe(false)
     } finally {
       await rm(root, { recursive: true, force: true })
     }
@@ -107,6 +110,48 @@ describe("book preview assets", () => {
       expect(tableBlocks[0].continued).toBeFalsy()
       expect(tableBlocks.slice(1).every((block) => block.continued)).toBe(true)
       expect(tableBlocks.flatMap((block) => block.rows || [])).toHaveLength(15)
+    } finally {
+      await rm(root, { recursive: true, force: true })
+    }
+  })
+
+  it("groups verbose table rows instead of creating sparse one-row pages", async () => {
+    const root = await mkdtemp(path.join(os.tmpdir(), "book-preview-verbose-table-"))
+    const verboseRows = Array.from(
+      { length: 8 },
+      (_, index) =>
+        `| Passaggio ${index + 1} | Descrizione operativa abbastanza articolata da richiedere più righe senza diventare una tabella a una riga per blocco | Esito verificabile ${index + 1} |`
+    )
+
+    try {
+      await mkdir(path.join(root, "books/il-metodo-bando/chapters"), { recursive: true })
+      await writeFile(
+        path.join(root, "books/il-metodo-bando/index.md"),
+        "---\ntitle: Il Metodo BANDO\n---\n# Il Metodo BANDO",
+        "utf8"
+      )
+      await writeFile(
+        path.join(root, "books/il-metodo-bando/chapters/tabella-verbosa.md"),
+        [
+          "---",
+          "title: Tabella verbosa",
+          "outline_section: 1",
+          "---",
+          "# Tabella verbosa",
+          "",
+          "| Fase | Descrizione | Esito |",
+          "| --- | --- | --- |",
+          ...verboseRows
+        ].join("\n"),
+        "utf8"
+      )
+
+      const data = await buildBookStudioData(new FileWikiStore(root), "il-metodo-bando")
+      const tableBlocks = data.chapters[0].blocks.filter((block) => block.type === "table")
+
+      expect(tableBlocks).toHaveLength(4)
+      expect(tableBlocks.every((block) => block.rows?.length === 2)).toBe(true)
+      expect(tableBlocks.flatMap((block) => block.rows || [])).toHaveLength(8)
     } finally {
       await rm(root, { recursive: true, force: true })
     }
@@ -251,6 +296,102 @@ describe("book preview assets", () => {
       expect(chapterLine?.number).toBe("Capitolo 1")
       expect(chapterLine?.path).toBe("books/moduli/m-fc01-ministeri/chapters/01-lavorare-ministeri.md")
       expect(appendixLine?.number).toBe("Appendice A")
+    } finally {
+      await rm(root, { recursive: true, force: true })
+    }
+  })
+
+  it("builds commercial volume previews as one book over internal modules", async () => {
+    const root = await mkdtemp(path.join(os.tmpdir(), "book-preview-volume-"))
+
+    try {
+      await mkdir(path.join(root, "books/moduli/m-fc01-ministeri/front-matter"), { recursive: true })
+      await mkdir(path.join(root, "books/moduli/m-fc01-ministeri/chapters"), { recursive: true })
+      await mkdir(path.join(root, "books/moduli/m-fc02-agenzie-fiscali/front-matter"), { recursive: true })
+      await mkdir(path.join(root, "books/moduli/m-fc02-agenzie-fiscali/chapters"), { recursive: true })
+      await writeFile(
+        path.join(root, "books/moduli/m-fc01-ministeri/index.md"),
+        "---\ntitle: M-FC01 - Ministeri\n---\n# M-FC01",
+        "utf8"
+      )
+      await writeFile(
+        path.join(root, "books/moduli/m-fc01-ministeri/front-matter/01-servizi.md"),
+        [
+          "---",
+          "title: Servizi digitali inclusi",
+          "type: front_matter",
+          "outline_section: FM1",
+          "---",
+          "# Servizi digitali interni da non duplicare nel volume"
+        ].join("\n"),
+        "utf8"
+      )
+      await writeFile(
+        path.join(root, "books/moduli/m-fc01-ministeri/chapters/01-ministeri.md"),
+        [
+          "---",
+          "title: Lavorare nei Ministeri",
+          "outline_section: 1",
+          "---",
+          "# Lavorare nei Ministeri",
+          "",
+          "Questo capitolo contiene testo sufficiente per entrare nel volume commerciale completo."
+        ].join("\n"),
+        "utf8"
+      )
+      await writeFile(
+        path.join(root, "books/moduli/m-fc02-agenzie-fiscali/index.md"),
+        "---\ntitle: M-FC02 - Agenzie fiscali\n---\n# M-FC02",
+        "utf8"
+      )
+      await writeFile(
+        path.join(root, "books/moduli/m-fc02-agenzie-fiscali/front-matter/03-copyright.md"),
+        [
+          "---",
+          "title: Copyright interno",
+          "type: front_matter",
+          "outline_section: FM3",
+          "---",
+          "# Copyright interno da non duplicare nel volume"
+        ].join("\n"),
+        "utf8"
+      )
+      await writeFile(
+        path.join(root, "books/moduli/m-fc02-agenzie-fiscali/chapters/01-fisco.md"),
+        [
+          "---",
+          "title: Agenzie fiscali e profili",
+          "outline_section: 1",
+          "---",
+          "# Agenzie fiscali e profili",
+          "",
+          "Questo capitolo contiene testo sufficiente per essere mostrato dopo l'apertura modulo."
+        ].join("\n"),
+        "utf8"
+      )
+
+      const data = await buildBookStudioData(new FileWikiStore(root), "volumi/vol-03")
+      const generatedTitles = data.chapters.filter((chapter) => chapter.isGenerated).map((chapter) => chapter.title)
+      const index = data.chapters.find((chapter) => chapter.title === "Indice completo")
+      const moduleOpening = data.chapters.find((chapter) => chapter.frontMatterLayout === "module-opening")
+
+      expect(data.bookId).toBe("volumi/vol-03")
+      expect(data.title).toBe("VOL-03 - Funzioni centrali, Fisco, Previdenza e Ispettivo")
+      expect(generatedTitles.slice(0, 6)).toEqual([
+        "Servizi digitali inclusi",
+        "Frontespizio",
+        "Copyright e note editoriali",
+        "Sommario",
+        "Premessa",
+        "Indice completo"
+      ])
+      expect(data.chapters.some((chapter) => chapter.path.includes("/front-matter/01-servizi.md"))).toBe(false)
+      expect(data.chapters.some((chapter) => chapter.path.includes("/front-matter/03-copyright.md"))).toBe(false)
+      expect(index?.blocks.some((block) => block.type === "index-part" && block.number === "M-FC01")).toBe(true)
+      expect(index?.blocks.some((block) => block.type === "index-part" && block.number === "M-FC02")).toBe(true)
+      expect(moduleOpening?.title).toContain("M-FC01")
+      expect(data.chapters.find((chapter) => chapter.title === "Lavorare nei Ministeri")?.volumeModuleCode).toBe("M-FC01")
+      expect(data.chapters.find((chapter) => chapter.title === "Agenzie fiscali e profili")?.volumeModuleCode).toBe("M-FC02")
     } finally {
       await rm(root, { recursive: true, force: true })
     }

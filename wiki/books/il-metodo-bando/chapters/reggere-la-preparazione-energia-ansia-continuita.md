@@ -55,7 +55,7 @@ La regola è questa:
 
 ## Mappa BANDO della sostenibilità
 
-![Figura 29.1 - Mappa BANDO della sostenibilità: quando la pressione sale, torna a bando, aree, nuclei, diario e output.](../assets/chapter-29/01-mappa-bando-sostenibilità.png)
+![Figura 29.1 - Mappa BANDO della sostenibilità: quando la pressione sale, torna a bando, aree, nuclei, diario e output.](../assets/chapter-29/01-mappa-bando-sostenibilita.png)
 
 | Fase | Rischio quando sei sotto pressione | Azione di tenuta |
 |---|---|---|
@@ -273,7 +273,7 @@ Il semaforo rosso non significa fallimento. Significa che il piano non è più s
 
 ## Caso guidato
 
-![Figura 29.7 - Caso sarà: una settimana difficile si recupera proteggendo gli output e correggendo gli errori ricorrenti.](../assets/chapter-29/07-caso-sarà-piano-sostenibile.png)
+![Figura 29.7 - Caso Sara: una settimana difficile si recupera proteggendo gli output e correggendo gli errori ricorrenti.](../assets/chapter-29/07-caso-sara-piano-sostenibile.png)
 
 sarà prepara un concorso amministrativo-contabile. Ha costruito un piano da 60 giorni, ma alla quarta settimana accumula ritardo: lavoro intenso, due sere saltate, una simulazione andata male. La prima reazione è aggiungere ore nel fine settimana e riaprire tutti i capitoli di contabilità.
 

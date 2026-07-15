@@ -152,7 +152,7 @@ Esempio:
 | 59 | Accesso al mercato | Apertura concorrenziale e non discriminatoria agli operatori. | "L'accesso al mercato tutela concorrenza, imparzialità e pluralità." |
 | 60 | tracciabilità | possibilità di seguire atti, flussi e decisioni. | "La tracciabilità riduce opacità e facilità controlli." |
 
-## 7. contabilità e controlli
+## 7. Contabilità e controlli
 
 | N. | Parola chiave | Definizione essenziale | Uso in risposta |
 |---|---|---|---|

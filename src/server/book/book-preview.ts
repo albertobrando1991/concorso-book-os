@@ -2,6 +2,15 @@ import { readdir, stat } from "node:fs/promises"
 import path from "node:path"
 import { parseFrontmatter } from "../wiki/frontmatter"
 import { FileWikiStore } from "../wiki/file-store"
+import {
+  TEXT_VOLUME_CATALOG,
+  bookIdsForTextVolumeBookId,
+  findTextVolumeForBookId,
+  isTextVolumeBookId,
+  normalizeTextBookId,
+  textVolumeBookId,
+  type TextVolume
+} from "../../catalog/text-volumes"
 
 export { ricettarioModuleLabel } from "./book-studio-labels"
 
@@ -49,6 +58,9 @@ export interface BookStudioChapter {
   status: string
   draftStage: string
   reviewRequired: boolean
+  isGenerated?: boolean
+  volumeModuleCode?: string
+  volumeModuleTitle?: string
   topics: string[]
   sourceRefs: string[]
   wordCount: number
@@ -109,12 +121,26 @@ const MAX_PREVIEW_BLOCKS = 520
 const INDEX_PAGE_BUDGET = 1000
 const INDEX_FIRST_PAGE_HEADER_COST = 150
 const INDEX_RUNNING_HEADER_COST = 34
-const DEFAULT_MAX_TABLE_ROWS_PER_PREVIEW_BLOCK = 5
-const VERBOSE_TABLE_ROWS_PER_PREVIEW_BLOCK = 1
-const MAX_LIST_ITEMS_PER_PREVIEW_BLOCK = 3
-const MAX_PARAGRAPH_WORDS_PER_PREVIEW_BLOCK = 86
+const DEFAULT_MAX_TABLE_ROWS_PER_PREVIEW_BLOCK = 4
+const VERBOSE_TABLE_ROWS_PER_PREVIEW_BLOCK = 2
+const MAX_LIST_ITEMS_PER_PREVIEW_BLOCK = 4
+const MAX_PARAGRAPH_WORDS_PER_PREVIEW_BLOCK = 72
 
 export async function buildBookStudioData(store: FileWikiStore, bookId = "il-metodo-bando"): Promise<BookStudioData> {
+  const normalizedBookId = normalizeTextBookId(bookId)
+
+  if (isTextVolumeBookId(normalizedBookId)) {
+    const volume = findTextVolumeForBookId(normalizedBookId)
+
+    if (volume) {
+      return buildVolumeBookStudioData(store, volume)
+    }
+  }
+
+  return buildSingleBookStudioData(store, normalizedBookId)
+}
+
+async function buildSingleBookStudioData(store: FileWikiStore, bookId: string): Promise<BookStudioData> {
   const bookPath = `books/${bookId}/index.md`
   const bookContent = await store.exists(bookPath).then((exists) => exists ? store.readText(bookPath) : "")
   const book = parseFrontmatter(bookContent)
@@ -145,6 +171,7 @@ export async function buildBookStudioData(store: FileWikiStore, bookId = "il-met
       status: String(parsed.data.status || "draft"),
       draftStage: String(parsed.data.draft_stage || ""),
       reviewRequired: Boolean(parsed.data.review_required),
+      isGenerated: false,
       topics: asStringArray(parsed.data.topics),
       sourceRefs: asStringArray(parsed.data.source_refs),
       wordCount: countWords(preview.markdown),
@@ -174,6 +201,400 @@ export async function buildBookStudioData(store: FileWikiStore, bookId = "il-met
     chapters,
     assets
   }
+}
+
+async function buildVolumeBookStudioData(store: FileWikiStore, volume: TextVolume): Promise<BookStudioData> {
+  const bookId = textVolumeBookId(volume)
+  const moduleBooks = await loadVolumeModuleBooks(store, volume)
+  const volumeFrontMatter = buildVolumeFrontMatter(volume, moduleBooks, bookId)
+  const moduleSections = moduleBooks.flatMap(({ moduleCode, moduleTitle, chapters }) => [
+    buildModuleOpeningSection({
+      bookId,
+      moduleCode,
+      moduleTitle,
+      volume,
+      chapters
+    }),
+    ...chapters
+  ])
+  const chapters = [...volumeFrontMatter, ...moduleSections]
+  const assets = moduleBooks.flatMap((moduleBook) => moduleBook.assets)
+  const uniqueAssets = Array.from(new Map(assets.map((asset) => [asset.path, asset])).values())
+    .sort((left, right) => right.updatedAt.localeCompare(left.updatedAt))
+
+  return {
+    bookId,
+    title: `${volume.code} - ${volume.title}`,
+    updatedAt: new Date().toISOString(),
+    summary: {
+      chapters: chapters.length,
+      mainChapters: chapters.filter((chapter) => chapter.bookScope === "main").length,
+      ricettarioModules: 0,
+      written: chapters.filter((chapter) => chapter.contentState === "written").length,
+      draft: chapters.filter((chapter) => chapter.contentState === "draft").length,
+      structure: chapters.filter((chapter) => chapter.contentState === "structure").length,
+      reviewRequired: chapters.filter((chapter) => chapter.reviewRequired).length,
+      assets: uniqueAssets.length
+    },
+    chapters,
+    assets: uniqueAssets
+  }
+}
+
+interface VolumeModuleBook {
+  bookId: string
+  moduleCode: string
+  moduleTitle: string
+  chapters: BookStudioChapter[]
+  assets: BookStudioAsset[]
+}
+
+async function loadVolumeModuleBooks(store: FileWikiStore, volume: TextVolume): Promise<VolumeModuleBook[]> {
+  const moduleBooks: VolumeModuleBook[] = []
+
+  for (const [index, rawBookId] of volume.bookIds.entries()) {
+    const moduleBookId = normalizeTextBookId(rawBookId)
+
+    if (!(await store.exists(`books/${moduleBookId}/index.md`))) continue
+
+    const moduleData = await buildSingleBookStudioData(store, moduleBookId)
+    const moduleCode = volume.modules[index] || (moduleBookId === "il-metodo-bando" ? "BASE" : moduleCodeFromBookId(moduleBookId))
+    const moduleTitle = moduleData.title
+    const chapters = moduleData.chapters
+      .filter((chapter) => chapter.sectionType === "chapter" && chapter.bookScope === "main")
+      .map((chapter) => ({
+        ...chapter,
+        bookScope: "main" as const,
+        volumeModuleCode: moduleCode,
+        volumeModuleTitle: moduleTitle
+      }))
+
+    moduleBooks.push({
+      bookId: moduleBookId,
+      moduleCode,
+      moduleTitle,
+      chapters,
+      assets: moduleData.assets
+    })
+  }
+
+  return moduleBooks
+}
+
+function buildVolumeFrontMatter(volume: TextVolume, moduleBooks: VolumeModuleBook[], bookId: string): BookStudioChapter[] {
+  const missingBookIds = volume.bookIds.filter((moduleBookId) =>
+    !moduleBooks.some((moduleBook) => moduleBook.bookId === normalizeTextBookId(moduleBookId))
+  )
+
+  return [
+    buildGeneratedFrontMatterSection({
+      bookId,
+      title: "Servizi digitali inclusi",
+      outlineSection: "FM1",
+      frontMatterLayout: "digital-services",
+      markdown: buildVolumeDigitalServicesMarkdown(volume)
+    }),
+    buildGeneratedFrontMatterSection({
+      bookId,
+      title: "Frontespizio",
+      outlineSection: "FM2",
+      frontMatterLayout: "title-page",
+      markdown: buildVolumeTitlePageMarkdown(volume)
+    }),
+    buildGeneratedFrontMatterSection({
+      bookId,
+      title: "Copyright e note editoriali",
+      outlineSection: "FM3",
+      frontMatterLayout: "copyright",
+      markdown: buildVolumeCopyrightMarkdown(volume)
+    }),
+    buildGeneratedFrontMatterSection({
+      bookId,
+      title: "Sommario",
+      outlineSection: "FM4",
+      frontMatterLayout: "summary",
+      markdown: buildVolumeSummaryMarkdown(volume, moduleBooks, missingBookIds)
+    }),
+    buildGeneratedFrontMatterSection({
+      bookId,
+      title: "Premessa",
+      outlineSection: "FM5",
+      frontMatterLayout: "preface",
+      markdown: buildVolumePrefaceMarkdown(volume, moduleBooks)
+    }),
+    buildGeneratedFrontMatterSection({
+      bookId,
+      title: "Indice completo",
+      outlineSection: "FM6",
+      frontMatterLayout: "analytical-index",
+      blocks: buildVolumeIndexBlocks(moduleBooks)
+    })
+  ]
+}
+
+function buildGeneratedFrontMatterSection(input: {
+  bookId: string
+  title: string
+  outlineSection: string
+  frontMatterLayout: string
+  markdown?: string
+  blocks?: MarkdownBlock[]
+}): BookStudioChapter {
+  const sectionPath = `books/${input.bookId}/front-matter/${input.outlineSection.toLowerCase()}-${slugForGeneratedPath(input.title)}.md`
+  const blocks = input.blocks || markdownToBlocks(input.markdown || `# ${input.title}`, sectionPath)
+
+  return {
+    path: sectionPath,
+    title: input.title,
+    outlineSection: input.outlineSection,
+    bookScope: "main",
+    sectionType: "front_matter",
+    frontMatterLayout: input.frontMatterLayout,
+    indexDetail: input.frontMatterLayout === "analytical-index" ? "volume-modules" : "",
+    status: "generated",
+    draftStage: "generated-volume-layout",
+    reviewRequired: false,
+    isGenerated: true,
+    topics: [],
+    sourceRefs: [],
+    wordCount: countBlockWords(blocks),
+    contentState: "written",
+    blocks
+  }
+}
+
+function buildModuleOpeningSection(input: {
+  bookId: string
+  moduleCode: string
+  moduleTitle: string
+  volume: TextVolume
+  chapters: BookStudioChapter[]
+}): BookStudioChapter {
+  const path = `books/${input.bookId}/modules/${input.moduleCode.toLowerCase()}/frontespizio-sommario.md`
+  const markdown = buildModuleOpeningMarkdown(input.moduleCode, input.moduleTitle, input.volume, input.chapters)
+  const blocks = markdownToBlocks(markdown, path)
+
+  return {
+    path,
+    title: `${input.moduleCode} - ${stripModuleCode(input.moduleTitle)}`,
+    outlineSection: input.moduleCode,
+    bookScope: "main",
+    sectionType: "front_matter",
+    frontMatterLayout: "module-opening",
+    indexDetail: "",
+    status: "generated",
+    draftStage: "generated-module-opening",
+    reviewRequired: false,
+    isGenerated: true,
+    volumeModuleCode: input.moduleCode,
+    volumeModuleTitle: input.moduleTitle,
+    topics: [],
+    sourceRefs: [],
+    wordCount: countBlockWords(blocks),
+    contentState: "written",
+    blocks
+  }
+}
+
+function buildVolumeDigitalServicesMarkdown(volume: TextVolume) {
+  return [
+    "# Servizi digitali inclusi",
+    "",
+    `Questo volume (${volume.code}) e collegato ai servizi digitali Capitale Personale: aggiornamenti operativi, schede compilabili, planner, Bando Decoder e materiali di lavoro collegati ai moduli interni.`,
+    "",
+    "## Cosa aggiunge il digitale",
+    "",
+    "| Servizio | Funzione |",
+    "| --- | --- |",
+    "| Bando Decoder | Trasforma il bando in piano di studio e priorita. |",
+    "| Planner | Organizza tempi, prove, ripassi e simulazioni. |",
+    "| Schede modulo | Adatta il Metodo BANDO alla famiglia concorsuale del volume. |",
+    "| Aggiornamenti | Segnala fonti ufficiali da verificare prima della pubblicazione o della prova. |",
+    "",
+    "> [!TIP]",
+    "> Il volume resta utilizzabile anche senza piattaforma: il digitale accelera compilazione, verifica e aggiornamento, ma non sostituisce il libro."
+  ].join("\n")
+}
+
+function buildVolumeTitlePageMarkdown(volume: TextVolume) {
+  return [
+    `# ${volume.code}`,
+    "",
+    `## ${volume.title}`,
+    "",
+    volume.promise,
+    "",
+    "### Capitale Personale",
+    "",
+    `Volume operativo Metodo BANDO per ${volume.audience.toLowerCase()}.`
+  ].join("\n")
+}
+
+function buildVolumeCopyrightMarkdown(volume: TextVolume) {
+  return [
+    "# Copyright e note editoriali",
+    "",
+    "Questo volume appartiene alla linea ConcorsoBook OS / Capitale Personale ed e costruito come libro-workbook per la preparazione ai concorsi pubblici italiani.",
+    "",
+    "Le informazioni normative e procedurali devono essere verificate sulle fonti ufficiali vive prima dell'uso professionale o della pubblicazione definitiva.",
+    "",
+    "Il volume non promette copertura totale di ogni bando, ne aggiornamento automatico: offre un metodo riusabile, una struttura modulare e strumenti di lavoro collegati al perimetro editoriale dichiarato.",
+    "",
+    `Perimetro volume: ${volume.title}.`
+  ].join("\n")
+}
+
+function buildVolumeSummaryMarkdown(volume: TextVolume, moduleBooks: VolumeModuleBook[], missingBookIds: string[]) {
+  const rows = moduleBooks.map((moduleBook) =>
+    `| ${escapeTableCell(moduleBook.moduleCode)} | ${escapeTableCell(stripModuleCode(moduleBook.moduleTitle))} | ${moduleBook.chapters.length} sezioni |`
+  )
+  const missing = missingBookIds.length > 0
+    ? [
+        "",
+        "## Moduli da inizializzare",
+        "",
+        missingBookIds.map((moduleBookId) => `- ${moduleBookId.replace("moduli/", "")}`).join("\n")
+      ].join("\n")
+    : ""
+
+  return [
+    "# Sommario",
+    "",
+    volume.promise,
+    "",
+    "| Modulo | Percorso interno | Stato |",
+    "| --- | --- | --- |",
+    ...(rows.length > 0 ? rows : ["| - | Nessun modulo disponibile nel vault | Da inizializzare |"]),
+    "",
+    "## Verticali del volume",
+    "",
+    volume.verticals.map((vertical) => `- ${vertical}`).join("\n"),
+    missing
+  ].filter(Boolean).join("\n")
+}
+
+function buildVolumePrefaceMarkdown(volume: TextVolume, moduleBooks: VolumeModuleBook[]) {
+  const moduleList = moduleBooks.map((moduleBook) => moduleBook.moduleCode).join(", ") || "moduli in preparazione"
+
+  return [
+    "# Premessa",
+    "",
+    `Questo volume tratta ${volume.title.toLowerCase()} come un unico libro. I moduli interni (${moduleList}) non sono libri separati per il lettore: sono sezioni coordinate dello stesso percorso editoriale.`,
+    "",
+    "La struttura segue una regola precisa: prima le pagine comuni del volume, poi il sommario, la premessa e l'indice completo; solo dopo iniziano i moduli interni, ciascuno con una pagina unica di frontespizio e sommario.",
+    "",
+    "Il lettore deve poter partire dal volume, capire subito il perimetro, vedere l'indice completo e poi attraversare i moduli nell'ordine previsto, senza incontrare di nuovo servizi digitali, copyright o premessa generale a ogni cambio modulo."
+  ].join("\n")
+}
+
+function buildModuleOpeningMarkdown(moduleCode: string, moduleTitle: string, volume: TextVolume, chapters: BookStudioChapter[]) {
+  const chapterRows = chunk(chapters, Math.max(1, Math.ceil(chapters.length / 4))).map((group, index) => {
+    const label = index === 0 ? "Avvio" : index === 1 ? "Sviluppo" : index === 2 ? "Allenamento" : "Strumenti"
+    const text = group.map((chapter) => `${compactOutlineLabel(chapter.outlineSection)} ${chapter.title}`.trim()).join("; ")
+
+    return `| ${label} | ${escapeTableCell(text)} |`
+  })
+
+  return [
+    `# ${moduleCode}`,
+    "",
+    `## ${stripModuleCode(moduleTitle)}`,
+    "",
+    `Sezione interna del volume ${volume.code} - ${volume.title}.`,
+    "",
+    "| Blocco | Sommario del modulo |",
+    "| --- | --- |",
+    ...(chapterRows.length > 0 ? chapterRows : ["| Struttura | Capitoli da inizializzare |"])
+  ].join("\n")
+}
+
+function buildVolumeIndexBlocks(moduleBooks: VolumeModuleBook[]): MarkdownBlock[] {
+  const blocks: MarkdownBlock[] = [
+    { type: "heading", level: 2, text: "Indice completo" }
+  ]
+  let pageCursor = 1
+
+  for (const moduleBook of moduleBooks) {
+    blocks.push({
+      type: "index-part",
+      number: moduleBook.moduleCode,
+      text: stripModuleCode(moduleBook.moduleTitle)
+    })
+    pageCursor += 1
+
+    for (const chapter of moduleBook.chapters) {
+      const estimate = estimateChapterPages(chapter, pageCursor)
+      blocks.push({
+        type: "index-chapter",
+        number: compactIndexLabel(chapter.outlineSection),
+        text: chapter.title,
+        path: chapter.path,
+        pageNumber: pageCursor
+      })
+      pageCursor += estimate.pageCount
+    }
+  }
+
+  if (moduleBooks.length === 0) {
+    blocks.push({
+      type: "paragraph",
+      text: "Nessun modulo del volume e ancora disponibile nel vault."
+    })
+  }
+
+  return blocks
+}
+
+function moduleCodeFromBookId(bookId: string) {
+  const slug = bookId.split("/").pop() || bookId
+  const match = /^(m-[a-z]{2}\d{2})/.exec(slug)
+
+  return match ? match[1].toUpperCase() : slug.toUpperCase()
+}
+
+function compactOutlineLabel(outlineSection: string) {
+  const normalized = outlineSection.trim()
+
+  if (/^[A-Z]$/i.test(normalized)) return `App. ${normalized.toUpperCase()}`
+  if (/^\d+$/.test(normalized)) return normalized
+
+  return normalized
+}
+
+function compactIndexLabel(outlineSection: string) {
+  const normalized = outlineSection.trim()
+
+  if (/^[A-Z]$/i.test(normalized)) return `App. ${normalized.toUpperCase()}`
+  if (/^\d+$/.test(normalized)) return `Cap. ${normalized}`
+
+  return normalized || "Modulo"
+}
+
+function stripModuleCode(value: string) {
+  return value.replace(/^M-[A-Z]{2}\d{2}\s*[-–]\s*/i, "").trim()
+}
+
+function slugForGeneratedPath(value: string) {
+  return value
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "") || "sezione"
+}
+
+function escapeTableCell(value: string) {
+  return value.replace(/\|/g, "/").replace(/\s+/g, " ").trim()
+}
+
+function chunk<T>(items: T[], size: number) {
+  const chunks: T[][] = []
+
+  for (let index = 0; index < items.length; index += size) {
+    chunks.push(items.slice(index, index + size))
+  }
+
+  return chunks
 }
 
 function hydrateGeneratedFrontMatter(sections: BookStudioChapter[], bookId: string) {

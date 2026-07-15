@@ -12,7 +12,7 @@ asset_refs:
  - "books/il-metodo-bando/assets/chapter-01/01-candidato-accumulatore-vs-strategico.png"
  - "books/il-metodo-bando/assets/chapter-01/02-cabina-regia-bando.png"
  - "books/il-metodo-bando/assets/chapter-01/03-tipo-prova-allenamento.png"
- - "books/il-metodo-bando/assets/chapter-01/04-scala-profondità-profilo.png"
+ - "books/il-metodo-bando/assets/chapter-01/04-scala-profondita-profilo.png"
  - "books/il-metodo-bando/assets/chapter-01/05-capitale-comune-moduli-specifici.png"
 confidence: 0.9
 updated_at: "2026-07-01T11:00:17.390Z"
@@ -133,7 +133,7 @@ Per questo il candidato non deve chiedersi soltanto "quali materie ci sono?". De
 - **Elevate qualificazioni**: servono organizzazione, controllo, risultato e gestione dei processi.
 - **Dirigenti e carriere speciali**: servono visione sistemica, strategia amministrativa, responsabilità e capacità decisionale.
 
-![Scala della profondità richiesta per operatori, istruttori, funzionari, elevate qualificazioni e dirigenti.](../assets/chapter-01/04-scala-profondità-profilo.png)
+![Scala della profondità richiesta per operatori, istruttori, funzionari, elevate qualificazioni e dirigenti.](../assets/chapter-01/04-scala-profondita-profilo.png)
 
 *Figura 1.4 - La stessa materia cambia profondità in base al profilo concorsuale.*
 

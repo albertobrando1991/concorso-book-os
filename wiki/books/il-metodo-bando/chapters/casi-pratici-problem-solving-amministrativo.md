@@ -26,7 +26,7 @@ last_compiled_from: ["sources/capitolo-17-18-corpus-casi-pratici-quesiti-situazi
 
 Il caso pratico è il momento in cui il concorso smette di chiedere solo "che cosa sai" e inizia a chiedere "che cosa faresti". Non basta ricordare una definizione. Devi leggere una situazione, capire chi è competente, individuare il problema, rispettare termini e vincoli, scegliere una soluzione e motivarla in modo ordinato.
 
-Questo tipo di prova mette in difficoltà molti candidati per un motivo preciso: lo studio tradizionale prepara a ripetere argomenti, non a usarli. Un candidato può conoscere il procedimento amministrativo, l'accesso agli atti, la privacy o il codice dei contratti, ma bloccarsi davanti a una traccia concreta: un cittadino presenta una domanda incompleta, un ufficio riceve una richiesta che non gli compete, un soggetto chiede documenti che contengono dati di terzi, una pratica è in ritardo, un operatore economico sollecita una risposta.
+Questo tipo di prova mette in difficoltà molti candidati per un motivo preciso: lo studio tradizionale prepara a ripetere argomenti, non a usarli. Un candidato può conoscere procedimento, accesso, privacy e contratti, ma bloccarsi davanti a una traccia concreta. Può trattarsi di una domanda incompleta, di una richiesta inviata all'ufficio sbagliato, di documenti con dati di terzi, di una pratica in ritardo o del sollecito di un operatore economico.
 
 In questi casi non vince chi scrive più teoria. Vince chi ragiona come un funzionario pubblico.
 

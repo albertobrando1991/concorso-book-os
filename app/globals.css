@@ -14,7 +14,7 @@
   --manual-serif: "Source Serif 4", Charter, Georgia, "Times New Roman", serif;
   --manual-sans: "Source Sans 3", "Segoe UI", Arial, Helvetica, sans-serif;
   --book-display: "Playfair Display", Georgia, "Times New Roman", serif;
-  --book-body: "Montserrat", "Segoe UI", Arial, Helvetica, sans-serif;
+  --book-body: var(--manual-serif);
   --book-navy: #0f172a;
   --book-rich-black: #020617;
   --book-paper: #e7ddc4;
@@ -381,6 +381,27 @@ h1 {
   margin-top: 10px;
 }
 
+.catalogVolumeLink {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 38px;
+  margin-top: 12px;
+  border: 1px solid rgba(35, 104, 196, 0.35);
+  border-radius: 6px;
+  background: #eef5ff;
+  color: var(--blue);
+  font-size: 13px;
+  font-weight: 800;
+}
+
+.catalogVolumeLink:hover,
+.catalogVolumeLink.active {
+  border-color: var(--blue);
+  background: var(--blue);
+  color: #fff;
+}
+
 .catalogBookLink {
   display: grid;
   grid-template-columns: 56px minmax(0, 1fr);
@@ -396,6 +417,10 @@ h1 {
 .catalogBookLink.active {
   border-color: #9ebbe0;
   background: #edf5ff;
+}
+
+.moduleBookStatus {
+  cursor: default;
 }
 
 .catalogBookLink > span {
@@ -571,7 +596,7 @@ h1 {
 
 .bookStudioLayout {
   display: grid;
-  grid-template-columns: minmax(190px, 240px) minmax(420px, 1fr) minmax(240px, 300px);
+  grid-template-columns: minmax(220px, 280px) minmax(320px, 1fr);
   gap: 14px;
   align-items: start;
 }
@@ -678,6 +703,8 @@ h1 {
 }
 
 .bookPreviewShell {
+  grid-column: 1 / -1;
+  order: 3;
   min-width: 0;
   border: 1px solid var(--line);
   border-radius: 6px;
@@ -732,8 +759,8 @@ h1 {
 
 .bookPages {
   display: grid;
-  gap: 24px;
-  justify-items: start;
+  gap: 14px;
+  justify-items: center;
   overflow-x: auto;
   padding-bottom: 2px;
 }
@@ -760,7 +787,7 @@ h1 {
   border: 1px solid #d8d0bd;
   border-radius: 4px;
   padding: var(--book-padding-top) var(--book-padding-right) var(--book-padding-bottom) var(--book-padding-left);
-  box-shadow: 0 18px 48px rgba(15, 23, 42, 0.14);
+  box-shadow: 0 12px 32px rgba(15, 23, 42, 0.13);
   overflow: hidden;
   font-kerning: normal;
   text-rendering: optimizeLegibility;
@@ -784,7 +811,7 @@ h1 {
 }
 
 .paginationMeasureBlock {
-  display: flow-root;
+  display: contents;
 }
 
 .chapterPreviewHeader {
@@ -799,7 +826,7 @@ h1 {
   display: block;
   border-top: 2px solid var(--book-gold);
   color: var(--book-gold);
-  font-family: var(--book-body);
+  font-family: var(--manual-sans);
   font-size: 14px;
   font-weight: 800;
   letter-spacing: 0;
@@ -831,7 +858,7 @@ h1 {
   margin-bottom: 10px;
   padding-bottom: 5px;
   color: var(--book-navy);
-  font-family: var(--book-body);
+  font-family: var(--manual-sans);
   font-size: 9.5px;
   font-weight: 700;
   text-transform: uppercase;
@@ -859,7 +886,7 @@ h1 {
 .previewBlocks h3 {
   margin: 12px 0 4px;
   color: var(--book-bordeaux);
-  font-family: var(--book-display);
+  font-family: var(--manual-sans);
   font-size: 18px;
   font-weight: 700;
   line-height: 1.12;
@@ -868,7 +895,7 @@ h1 {
 .previewBlocks h4 {
   margin: 8px 0 3px;
   color: var(--book-navy);
-  font-family: var(--book-body);
+  font-family: var(--manual-sans);
   font-size: 12.7px;
   font-weight: 800;
   text-transform: uppercase;
@@ -877,7 +904,7 @@ h1 {
 .previewBlocks h5 {
   margin: 7px 0 3px;
   color: var(--book-bordeaux);
-  font-family: var(--book-body);
+  font-family: var(--manual-sans);
   font-size: 11.5px;
   font-weight: 800;
   text-transform: uppercase;
@@ -923,7 +950,7 @@ h1 {
 .previewTable {
   width: 100%;
   border-collapse: collapse;
-  font-family: var(--book-body);
+  font-family: var(--manual-sans);
   font-size: 9.6px;
   line-height: 1.14;
   table-layout: fixed;
@@ -1379,8 +1406,38 @@ h1 {
 
 .frontMatter-summary .frontMatterBlocks,
 .frontMatter-preface .frontMatterBlocks,
-.frontMatter-copyright .frontMatterBlocks {
+.frontMatter-copyright .frontMatterBlocks,
+.frontMatter-module-opening .frontMatterBlocks {
   font-size: 11.2px;
+}
+
+.frontMatter-module-opening {
+  display: grid;
+  align-content: center;
+  padding: 18mm 15mm;
+}
+
+.frontMatter-module-opening .frontMatterBlocks > h3:first-child {
+  color: var(--book-bordeaux);
+  font-size: 38px;
+  margin-bottom: 8px;
+}
+
+.frontMatter-module-opening .frontMatterBlocks h3:nth-of-type(2) {
+  color: var(--book-navy);
+  font-family: var(--book-display);
+  font-size: 22px;
+  text-align: center;
+}
+
+.frontMatter-module-opening .previewTable {
+  font-size: 8.8px;
+  line-height: 1.14;
+}
+
+.frontMatter-module-opening .previewTable th,
+.frontMatter-module-opening .previewTable td {
+  padding: 3.5px 4px;
 }
 
 .frontMatter-summary .previewTable {
@@ -2403,6 +2460,10 @@ meter {
   .bookPreviewShell {
     grid-column: auto;
     order: initial;
+  }
+
+  .bookPages {
+    justify-items: start;
   }
 
   .bookStudioPanel > header,

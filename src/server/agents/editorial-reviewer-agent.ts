@@ -14,6 +14,7 @@ import { OpenAiLlmClient } from "../llm/openai-adapter"
 import { LocalAgentMemory } from "../memory/local-agent-memory"
 import { FileWikiStore } from "../wiki/file-store"
 import { parseFrontmatter } from "../wiki/frontmatter"
+import { bookIdsForTextVolumeBookId, isTextVolumeBookId, normalizeTextBookId } from "../../catalog/text-volumes"
 
 // ── Types ──────────────────────────────────────────────────────────────────────
 
@@ -69,10 +70,11 @@ export class EditorialReviewerAgent {
   constructor(private readonly store: FileWikiStore) {}
 
   async runReview(input: EditorialReviewInput): Promise<EditorialReviewResult> {
-    const [skillText, checklistText, templateText] = await Promise.all([
+    const [skillText, checklistText, templateText, volumeLogicText] = await Promise.all([
       loadSkillFile("SKILL.md"),
       loadSkillFile("references/checklist-30-punti.md"),
-      loadSkillFile("references/template-report.md")
+      loadSkillFile("references/template-report.md"),
+      loadVolumeLogicGuide()
     ])
 
     const chapterContents = await this.loadChapterContents(input)
@@ -98,7 +100,8 @@ export class EditorialReviewerAgent {
       chapterContents,
       scope: input.scope,
       aspect: input.aspect,
-      memoryContext: memoryRecall.context
+      memoryContext: memoryRecall.context,
+      volumeLogicText
     })
 
     const writerConfig = getWriterConfig()
@@ -176,10 +179,11 @@ export class EditorialReviewerAgent {
     const files = await this.store.listMarkdown("books")
     const chapterFiles = files.filter((file) => file.includes("/chapters/"))
     const results: Array<{ path: string; title: string; body: string }> = []
+    const requestedBookIds = resolveRequestedBookIds(input.bookId)
 
     for (const file of chapterFiles) {
       const bookId = bookIdFromPath(file)
-      if (bookId !== input.bookId) continue
+      if (!requestedBookIds.has(normalizeTextBookId(bookId))) continue
       if (input.scope === "chapter" && input.chapterPath && file !== input.chapterPath) continue
 
       const content = await this.store.readText(file)
@@ -296,6 +300,7 @@ function buildReviewPrompt(input: {
   scope: ReviewScope
   aspect?: string
   memoryContext: string
+  volumeLogicText: string
 }) {
   const chapterSection = input.chapterContents.map((chapter) => [
     `\n### Capitolo: ${chapter.title}`,
@@ -323,6 +328,9 @@ function buildReviewPrompt(input: {
     "## Template di report (formato obbligatorio)",
     input.templateText,
     "",
+    "## Regola canonica di copertura dei volumi",
+    trimWords(input.volumeLogicText.replace(/^---[\s\S]*?---/, ""), 1100) || "Fonte non disponibile: applica comunque la regola comune/famiglia/sottoprofilo/rinvio.",
+    "",
     `## Perimetro: ${scopeLabel}`,
     memorySection,
     "## Capitoli da revisionare",
@@ -332,6 +340,7 @@ function buildReviewPrompt(input: {
     "Produci ora il report editoriale completo seguendo esattamente il template fornito.",
     "La tabella errori deve usare il formato markdown con colonne: ID | Posizione | Categoria | Gravita | Descrizione | Correzione proposta | Stato.",
     "Ordina gli errori per gravita decrescente poi per posizione.",
+    "Per i volumi e moduli verifica sempre: assenza di duplicazione B-PA dal VOL-01, famiglia corretta, copertura delle materie ricorrenti/pesate del profilo, rinvii cross-family, necessita' di appendici/verticali e congruenza del pacchetto minimo. Duplicazione B-PA, famiglia errata o lacuna ricorrente/pesata sono errori gravi.",
     "Alla fine esprimi il giudizio di pubblicabilita con una delle tre formule esatte:",
     "- 'Pubblicabile con correzioni minori'",
     "- 'Pubblicabile dopo intervento medio'",
@@ -481,10 +490,25 @@ async function loadSkillFile(relativePath: string) {
   return readFile(fullPath, "utf8").catch(() => "")
 }
 
+async function loadVolumeLogicGuide() {
+  const fullPath = path.join(process.cwd(), "wiki", "sources", "logica-volumi-copertura-concorsobook-v4.md")
+  return readFile(fullPath, "utf8").catch(() => "")
+}
+
 function bookIdFromPath(filePath: string) {
   const normalized = filePath.replace(/\\/g, "/")
   const match = normalized.match(/^books\/(.+?)\/chapters\//)
   return match?.[1] || ""
+}
+
+function resolveRequestedBookIds(bookId: string) {
+  const normalized = normalizeTextBookId(bookId)
+
+  if (isTextVolumeBookId(normalized)) {
+    return new Set(bookIdsForTextVolumeBookId(normalized).map(normalizeTextBookId))
+  }
+
+  return new Set([normalized])
 }
 
 function trimWords(value: string, limit: number) {

@@ -6,10 +6,10 @@ status: revised_draft
 domain: "concorsi pubblici italiani"
 topics: ["moduli integrativi", "moduli profilo", "moduli specialistici", "nucleo comune concorsi pubblici", "mappe profilo", "capitale personale", "famiglie concorsuali"]
 entities: ["Metodo BANDO", "Moduli Profilo", "Capitale Personale", "ConcorsoBook", "Bando Decoder", "Syllabus"]
-source_refs: ["sources/idea-business-vendita-libri-capitale-personale.md", "sources/struttura-madre-il-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/capitolo-19-20-corpus-profili-concorsuali-2026-05-30.md", "sources/bandi-rappresentativi-profili-concorsuali-inpa-agenzie-enti-2025-2026.md", "sources/formazione-competenze-pa-syllabus-direttiva-2025.md", "sources/capitoli-21-23-corpus-moduli-piano-diario-2026-06-01.md", "books/moduli/architettura-moduli-specialistici.md"]
+source_refs: ["sources/vol-01-il-metodo-bando-struttura-2026-07-14.md", "sources/logica-volumi-copertura-concorsobook-v4.md", "sources/idea-business-vendita-libri-capitale-personale-2026-07-03.md", "sources/struttura-madre-il-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/capitolo-19-20-corpus-profili-concorsuali-2026-05-30.md", "sources/bandi-rappresentativi-profili-concorsuali-inpa-agenzie-enti-2025-2026.md", "sources/formazione-competenze-pa-syllabus-direttiva-2025.md", "sources/capitoli-21-23-corpus-moduli-piano-diario-2026-06-01.md", "books/moduli/architettura-moduli-specialistici.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.9
-updated_at: 2026-07-01T18:00:00+02:00
+updated_at: 2026-07-14T19:00:00+02:00
 created_at: "2026-05-10T11:45:00+02:00"
 review_required: true
 canonical: true
@@ -30,7 +30,7 @@ Il mercato dei manuali spesso ti spinge nel senso opposto: un libro nuovo per og
 
 > non un libro per ogni concorso, ma un sistema riutilizzabile nel tempo.
 
-Il **libro base** (questo volume) lo studi una volta: metodo, materie comuni essenziali, prove. Il **modulo specialistico** lo aggiungi quando cambia famiglia di enti o profilo, non quando cambia Comune o sede. Lo compri una volta per quella famiglia e lo riusi su più bandi simili.
+Il **volume base VOL-01** lo studi una volta: metodo, materie comuni essenziali e prove. Il **volume specialistico** lo aggiungi quando cambia famiglia di enti o profilo, non quando cambia Comune o sede. Nel catalogo rivolto al lettore si parla di volumi; i codici `M-...` restano una tassonomia interna utile a distinguere i moduli e i sottoprofili contenuti in ciascun volume.
 
 Esempio pratico:
 
@@ -48,9 +48,10 @@ Alla fine del capitolo devi saper:
 
 - distinguere libro base, ricettario digitale e modulo specialistico;
 - capire perché un modulo vale per una **famiglia** di concorsi, non per un singolo bando;
-- applicare la formula standard **libro base + 1 modulo**;
+- applicare la formula standard **VOL-01 + 1 volume specialistico**;
 - riconoscere quando serve un secondo modulo (caso eccezionale);
-- scegliere il modulo giusto tra le sei famiglie del catalogo;
+- scegliere il volume giusto tra le sei famiglie del catalogo;
+- distinguere i pacchetti Standard, Verticale e Premium;
 - combinare core e modulo senza duplicare lo studio;
 - compilare una scheda modulo con obiettivo, contenuti, output e limiti;
 - evitare la trappola del «più materiale = più preparazione».
@@ -130,22 +131,21 @@ Il modulo **non ripete** amministrativo generale, pubblico impiego generale o lo
 
 In sintesi: il libro base spiega la struttura comune; il modulo specializza la preparazione.
 
-## La formula standard: libro base + 1 modulo
+## La formula standard: VOL-01 + un volume specialistico
 
 La combinazione normale è una sola:
 
-> **Libro base + 1 modulo specialistico**
+> **VOL-01 + un volume specialistico pertinente**
 
 Il cliente — e tu come candidato — deve capirla in pochi secondi.
 
 | Profilo / ente | Acquisto / percorso consigliato |
 |---|---|
-| Funzionario amministrativo INPS | Libro base + **M-FC03** (EPNE / previdenza / vigilanza) |
-| Funzionario amministrativo INAIL | Libro base + **M-FC03** |
-| Istruttore amministrativo in Comune | Libro base + **M-FL01** (Comuni e Unioni) |
-| Funzionario ministeriale RIPAM / PCM | Libro base + **M-FC01** (Ministeri e PCM) |
-| Infermiere concorsuale | Libro base + **M-SA02** (Professioni sanitarie) |
-| Profilo ICT trasversale | Libro base + **M-TR01** (ICT e digitale) |
+| Funzionario amministrativo INPS o INAIL | VOL-01 + **VOL-03** (percorso M-FC03) |
+| Istruttore amministrativo in Comune | VOL-01 + **VOL-02** (percorso M-FL01) |
+| Funzionario ministeriale RIPAM / PCM | VOL-01 + **VOL-03** (percorso M-FC01) |
+| Infermiere concorsuale | VOL-01 + **VOL-07** (percorso M-SA02) |
+| Profilo ICT trasversale | VOL-01 + **VOL-08** (percorso M-TR01) |
 
 Il modulo si acquista **per famiglia**, non per singolo avviso. Chi ha M-FL01 non deve ripetere l'acquisto a ogni Comune nuovo: aggiorna il bando, non il sistema.
 
@@ -153,7 +153,7 @@ Il modulo si acquista **per famiglia**, non per singolo avviso. Chi ha M-FL01 no
 
 In alcuni casi il modulo principale include **appendici** per sottoprofili della stessa famiglia, senza costringerti a un secondo prodotto.
 
-Esempio sul modulo **M-FC01** (Ministeri e PCM): reati contro la PA, ragioneria generale e applicata, economia politica e pubblica possono restare appendici del modulo, non moduli separati.
+Esempio sul percorso **M-FC01** (Ministeri e PCM): il quadro generale dei reati contro la PA resta in VOL-01; un'appendice può contenere soltanto applicazioni settoriali. Ragioneria applicata ed economia pubblica possono invece essere appendici del percorso quando il bando le richiede senza giustificare un volume autonomo.
 
 Regola: appendice sì se la lacuna è interna alla famiglia; secondo modulo solo se la specializzazione appartiene altrove.
 
@@ -167,11 +167,29 @@ Un secondo modulo si attiva solo se il bando contiene una materia **fuori famigl
 | Tecnico urbanistica in Comune | Libro base + **M-TR03** (eventuale contesto locale nel piano, non modulo locale aggiuntivo) |
 | Amministrativo-contabile in Comune | Libro base + **M-FL01** (contabilità locale dentro il modulo, non un terzo manuale) |
 
-La eccezione va **motivata sul bando**, non sull'ansia o sull'upsell. Se non riesci a scrivere in una riga perché serve il secondo modulo, probabilmente non serve.
+L'eccezione va **motivata sul bando**, non sull'ansia o sull'upsell. Se non riesci a scrivere in una riga perché serve il secondo volume, probabilmente non serve.
 
 ## Il catalogo: sei famiglie, moduli riusabili
 
 L'ecosistema ConcorsoBook organizza i moduli specialistici in **sei famiglie**. Ogni modulo copre una categoria stabile di enti e profili che condivide lessico, materie ricorrenti, normativa di settore, prove tipiche e errori tipici.
+
+Per il lettore la mappa commerciale e questa:
+
+| Volume | Ambito | Moduli interni |
+|---|---|---|
+| VOL-02 | Enti locali, Camere di commercio e Polizia locale | M-FL01, M-FL02, M-FL03, M-FL04 |
+| VOL-03 | Funzioni centrali, Fisco, Previdenza e Ispettivo | M-FC01, M-FC02, M-FC03 |
+| VOL-04 | Giustizia e UPP | M-FC04 |
+| VOL-05 | Authority e regolazione | M-FC05 |
+| VOL-06 | Scuola, Università, Ricerca e Cultura | M-IR01, M-IR02, M-IR03, M-IR04 |
+| VOL-07 | Sanità amministrativa e professioni sanitarie | M-SA01, M-SA02, M-SA03, M-SA04 |
+| VOL-08 | ICT, digitale, cybersecurity e dati | M-TR01 |
+| VOL-09 | Appalti, PNRR e procurement | M-TR02 |
+| VOL-10 | Tecnico-ingegneristico, territorio e lavori pubblici | M-TR03 |
+| VOL-11 | Ambiente, protezione civile e sostenibilità | M-TR04 |
+| VOL-12 | Carriere speciali premium | M-SP01, M-SP02, M-SP03, M-SP04 |
+
+I pacchetti seguono una logica minima e trasparente: **Standard** = VOL-01 più uno specialistico; **Verticale** = base, famiglia e appendice/verticale realmente necessario; **Premium** = percorso ad alta barriera. Il pacchetto non autorizza l'accumulo di volumi non richiesti dal bando.
 
 | Famiglia | Codici | Cosa copre |
 |---|---|---|
@@ -286,7 +304,7 @@ Usa questa tabella prima di attivare un modulo.
 | Materia esplicita nel bando e centrale per il profilo | Modulo completo o essenziale | Tributario in agenzia fiscale → M-FC02 |
 | Materia fuori famiglia ma decisiva in prova | Secondo modulo eccezionale | ICT dominante → M-TR01 |
 | Materia già nel core | Non duplicare; usa ricettario | Procedimento amministrativo generale |
-| Materia in appendice del modulo | Appendice, non nuovo modulo | Reati PA in concorso ministeriale |
+| Materia in appendice del volume | Appendice, non nuovo volume | Applicazione settoriale di un nucleo già coperto in VOL-01 |
 | Materia interessante ma non in prova | Non attivare | Approfondimenti non richiesti |
 | Errore ricorrente in area ad alta resa | Drill nel modulo attivo | Termini, accesso, competenze locali |
 
@@ -347,7 +365,7 @@ In un concorso molto verticale il modulo può pesare di più nel tempo, ma il co
 
 - **Percorso:** libro base + **M-FC01**
 - **Core:** costituzionale/amministrativo essenziale, pubblico impiego, prove
-- **Modulo:** organizzazione ministeriale, funzioni di settore, appendici eventuali (reati PA, ragioneria…)
+- **Modulo:** organizzazione ministeriale, funzioni di settore, ragioneria applicata o altre appendici realmente richieste; i reati contro la PA in generale restano nel core
 - **Non eccedere:** storia istituzionale non richiesta; normativa di settore non nel programma
 
 ### Esempio D — Eccezione ICT
@@ -405,7 +423,7 @@ La decisione non è «quale concorso scelgo?». È:
 
 > quale parte è comune, quale modulo per famiglia, e cosa taglio per non duplicare?
 
-![Figura 21.7 - Scheda modulo e caso Sara](../assets/chapter-21/07-scheda-modulo-e-caso-sarà.png)
+![Figura 21.7 - Scheda modulo e caso Sara](../assets/chapter-21/07-scheda-modulo-e-caso-sara.png)
 
 ## Domanda da commissario
 
@@ -449,7 +467,9 @@ Se non riesci a scrivere l'output, il modulo non è ancora definito.
 
 ## Riferimenti consolidati
 
-- [[sources/idea-business-vendita-libri-capitale-personale]]
+- [[sources/vol-01-il-metodo-bando-struttura-2026-07-14]]
+- [[sources/logica-volumi-copertura-concorsobook-v4]]
+- [[sources/idea-business-vendita-libri-capitale-personale-2026-07-03]]
 - [[books/moduli/architettura-moduli-specialistici]]
 - [[sources/capitolo-19-20-corpus-profili-concorsuali-2026-05-30]]
 - [[sources/bandi-rappresentativi-profili-concorsuali-inpa-agenzie-enti-2025-2026]]

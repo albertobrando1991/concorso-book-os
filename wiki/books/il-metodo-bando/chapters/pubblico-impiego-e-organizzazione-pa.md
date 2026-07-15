@@ -4,12 +4,12 @@ type: chapter
 title: Pubblico impiego e organizzazione della PA
 status: revised_draft
 domain: concorsi pubblici italiani
-topics: ["pubblico impiego", "accesso al pubblico impiego", "rapporto di lavoro pubblico", "organizzazione pubblica", "concorsi pubblici", "responsabilità disciplinare", "responsabilità dirigenziale", "performance amministrativa", "anticorruzione e trasparenza", "governo del rischio", "codice di comportamento", "etica pubblica", "PIAO", "lavoro agile", "mansioni", "orario di lavoro", "trattamento economico", "sicurezza sul lavoro", "pari opportunità", "benessere organizzativo"]
+topics: ["pubblico impiego", "accesso al pubblico impiego", "rapporto di lavoro pubblico", "organizzazione pubblica", "concorsi pubblici", "responsabilità disciplinare", "responsabilità dirigenziale", "responsabilità penale", "reati contro la pubblica amministrazione", "performance amministrativa", "anticorruzione e trasparenza", "governo del rischio", "codice di comportamento", "etica pubblica", "PIAO", "lavoro agile", "mansioni", "orario di lavoro", "trattamento economico", "sicurezza sul lavoro", "pari opportunità", "benessere organizzativo"]
 entities: ["D.Lgs. 165/2001", "D.Lgs. 150/2009", "Dirigente pubblico", "Dipendente pubblico", "Piano Integrato di Attività e Organizzazione", "ANAC", "Corte dei conti", "Comune", "inPA"]
-source_refs: ["sources/struttura-madre-il-metodo-bando.md", "sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego.md", "sources/d-lgs-27-ottobre-2009-n-150-performance.md", "sources/d-p-r-9-maggio-1994-n-487-accesso-agli-impieghi-pubblici-e-concorsi.md", "sources/d-p-r-16-giugno-2023-n-82-modifiche-al-d-p-r-487-1994-sui-concorsi.md", "sources/legge-6-novembre-2012-n-190-anticorruzione.md", "sources/d-lgs-14-marzo-2013-n-33-trasparenza.md", "sources/d-lgs-8-aprile-2013-n-39-inconferibilita-e-incompatibilita-incarichi.md", "sources/d-p-r-16-aprile-2013-n-62-codice-comportamento-dipendenti-pubblici.md", "sources/d-lgs-10-marzo-2023-n-24-whistleblowing.md", "sources/d-p-r-24-giugno-2022-n-81-piao-adempimenti-assorbiti.md", "sources/decreto-30-giugno-2022-n-132-piano-tipo-piao.md", "sources/aran-contrattazione-collettiva-comparti-aree-pubblico-impiego.md", "sources/d-lgs-9-aprile-2008-n-81-salute-sicurezza-lavoro.md", "sources/d-lgs-26-agosto-2016-n-174-codice-di-giustizia-contabile.md", "sources/d-l-14-marzo-2025-n-25-convertito-dalla-l-9-maggio-2025-n-69-capacita-amministrativa.md", "sources/d-l-31-agosto-2013-n-101-trasformazione-civit-anac-e-pubblico-impiego.md", "sources/responsabilita-dirigenziale-legalita-organizzativa-performance-rischio.md"]
+source_refs: ["sources/struttura-madre-il-metodo-bando.md", "sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego.md", "sources/d-lgs-27-ottobre-2009-n-150-performance.md", "sources/d-p-r-9-maggio-1994-n-487-accesso-agli-impieghi-pubblici-e-concorsi.md", "sources/d-p-r-16-giugno-2023-n-82-modifiche-al-d-p-r-487-1994-sui-concorsi.md", "sources/legge-6-novembre-2012-n-190-anticorruzione.md", "sources/delitti-contro-pa-codice-penale-2026.md", "sources/d-lgs-14-marzo-2013-n-33-trasparenza.md", "sources/d-lgs-8-aprile-2013-n-39-inconferibilita-e-incompatibilita-incarichi.md", "sources/d-p-r-16-aprile-2013-n-62-codice-comportamento-dipendenti-pubblici.md", "sources/d-lgs-10-marzo-2023-n-24-whistleblowing.md", "sources/d-p-r-24-giugno-2022-n-81-piao-adempimenti-assorbiti.md", "sources/decreto-30-giugno-2022-n-132-piano-tipo-piao.md", "sources/aran-contrattazione-collettiva-comparti-aree-pubblico-impiego.md", "sources/d-lgs-9-aprile-2008-n-81-salute-sicurezza-lavoro.md", "sources/d-lgs-26-agosto-2016-n-174-codice-di-giustizia-contabile.md", "sources/d-l-14-marzo-2025-n-25-convertito-dalla-l-9-maggio-2025-n-69-capacita-amministrativa.md", "sources/d-l-31-agosto-2013-n-101-trasformazione-civit-anac-e-pubblico-impiego.md", "sources/responsabilita-dirigenziale-legalita-organizzativa-performance-rischio.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.9
-updated_at: "2026-05-25T21:25:00+02:00"
+updated_at: "2026-07-14T00:00:00+02:00"
 created_at: "2026-05-10T11:45:00+02:00"
 review_required: true
 canonical: true
@@ -17,7 +17,7 @@ tags: ["book-chapter", "common-subject", "revised"]
 book_id: il-metodo-bando
 outline_section: 6
 draft_stage: editorial-revision
-last_compiled_from: ["wiki/books/il-metodo-bando/struttura-madre.md", "topics/pubblico-impiego.md", "topics/organizzazione-pubblica.md", "topics/concorsi-pubblici.md", "topics/performance-amministrativa.md", "topics/responsabilita-dirigenziale.md", "topics/governo-del-rischio.md", "topics/anticorruzione-e-trasparenza.md", "entities/piano-integrato-di-attivita-e-organizzazione.md", "entities/dirigente-pubblico.md"]
+last_compiled_from: ["wiki/books/il-metodo-bando/struttura-madre.md", "topics/pubblico-impiego.md", "topics/reati-contro-pubblica-amministrazione.md", "topics/organizzazione-pubblica.md", "topics/concorsi-pubblici.md", "topics/performance-amministrativa.md", "topics/responsabilita-dirigenziale.md", "topics/governo-del-rischio.md", "topics/anticorruzione-e-trasparenza.md", "entities/piano-integrato-di-attivita-e-organizzazione.md", "entities/dirigente-pubblico.md"]
 ---
 
 # Capitolo 6 - Pubblico impiego e organizzazione della PA
@@ -161,7 +161,58 @@ Lo stesso fatto può produrre responsabilità diverse. Il candidato deve saperle
 
 Errore da evitare: trasformare ogni irregolarità in reato. La classificazione richiede prudenza: prima si qualifica il fatto, poi si individuano doveri violati, danni, intenzionalità, ruolo e conseguenze.
 
-![Figura 6.4 - Responsabilità nel pubblico impiego: una condotta può rilevare sul piano disciplinare, contabile, civile, penale o dirigenziale.](../assets/chapter-06/04-responsabilità-dipendente-dirigente.png)
+![Figura 6.4 - Responsabilità nel pubblico impiego: una condotta può rilevare sul piano disciplinare, contabile, civile, penale o dirigenziale.](../assets/chapter-06/04-responsabilita-dipendente-dirigente.png)
+
+### Reati contro la pubblica amministrazione: il quadro essenziale
+
+Quando il bando richiama i reati contro la pubblica amministrazione, non serve trasformare lo studio in un corso completo di diritto penale. Devi però riconoscere quando il fatto supera il piano disciplinare o organizzativo e può assumere rilievo penale.
+
+Il primo passaggio è sempre lo stesso: individua il soggetto, la relazione con l'ufficio, la condotta e il vantaggio o danno in gioco. Distingui in particolare il **pubblico ufficiale**, che esercita una pubblica funzione, dall'**incaricato di pubblico servizio**, che presta un pubblico servizio senza i poteri tipici della pubblica funzione. La qualifica si ricava dall'attività concretamente svolta, non dal solo nome del posto. Evita poi di attribuire un nome al reato solo perché una condotta appare scorretta.
+
+| Figura da riconoscere | Nucleo del fatto | Cosa ricordare in prova |
+|---|---|---|
+| Peculato | Il pubblico agente si appropria di denaro o altra cosa mobile altrui di cui dispone per ragioni d'ufficio o di servizio. | Il punto decisivo è l'appropriazione di risorse già nella disponibilità funzionale dell'ufficio. |
+| Indebita destinazione di denaro o cose mobili | Il pubblico agente destina, nei presupposti dell'art. 314-bis c.p., denaro o cose mobili a un uso diverso da quello previsto dalla specifica disciplina vincolante. | Non confonderla con l'appropriazione: qui il nucleo è la destinazione indebita della risorsa. |
+| Concussione | Il pubblico ufficiale, abusando della qualità o dei poteri, costringe qualcuno a dare o promettere un'utilità indebita. | La parola chiave è costringe: la pressione annulla la libertà di scelta del privato. |
+| Corruzione per l'esercizio della funzione | Il pubblico ufficiale riceve o accetta la promessa di un'utilità indebita in relazione alle sue funzioni o poteri. | Il nucleo è l'accordo illecito, non la sola irregolarità dell'atto. |
+| Corruzione per un atto contrario ai doveri d'ufficio | L'utilità indebita è collegata all'omissione, al ritardo o al compimento di un atto contrario ai doveri d'ufficio. | Collega accordo illecito e deviazione concreta dall'interesse pubblico. |
+| Induzione indebita | Il pubblico agente induce, abusando della qualità o dei poteri, qualcuno a dare o promettere un'utilità indebita. | Non confonderla con la concussione: qui non c'è costrizione, ma una pressione che orienta la scelta. |
+
+Altre figure ricorrenti nei programmi vanno almeno riconosciute: **istigazione alla corruzione**, **traffico di influenze illecite**, **rifiuto od omissione di atti d'ufficio** e **rivelazione o utilizzazione di segreti d'ufficio**. A livello base è sufficiente saper collegare ciascuna espressione al tipo di condotta; pene, concorsi di reati e questioni giurisprudenziali appartengono all'approfondimento specialistico.
+
+> **Come lo chiede la commissione**
+>
+> La domanda non chiede quasi mai di recitare tutte le fattispecie. Più spesso presenta un fatto: un funzionario usa denaro dell'ufficio per fini propri, un privato è costretto a pagare, oppure un operatore offre un vantaggio per ottenere un trattamento favorevole. Rispondi qualificando prima il comportamento e distinguendo appropriazione, costrizione, induzione e accordo corruttivo.
+
+#### Costrizione, induzione e corruzione: il confronto che evita errori
+
+| Situazione | Dinamica | Errore da evitare |
+|---|---|---|
+| Il privato subisce una pressione irresistibile dal pubblico ufficiale. | Costrizione: il privato non negozia su un piano di libertà effettiva. | Chiamare automaticamente corruzione qualunque richiesta indebita. |
+| Il privato è spinto o persuaso dall'abuso del pubblico agente. | Induzione: la condotta orienta la scelta senza costrizione. | Confondere induzione e concussione. |
+| Pubblico agente e privato convergono su uno scambio illecito. | Accordo corruttivo: l'utilità è il corrispettivo illecito della funzione o dell'atto. | Dimenticare il rapporto tra utilità indebita e funzione pubblica. |
+
+> **Domanda-trappola**
+>
+> Ogni comportamento scorretto del dipendente pubblico è un reato contro la PA?
+>
+> No. Una condotta può essere solo disciplinarmente rilevante, può generare un danno erariale, può richiedere una correzione organizzativa o può avere anche rilievo penale. La qualificazione dipende dalla fattispecie prevista dalla legge e dagli elementi concreti del fatto.
+
+#### Attenzione all'abuso d'ufficio
+
+Nel quadro normativo attuale non devi indicare l'abuso d'ufficio come reato vigente: l'art. 323 del codice penale è stato abrogato dalla legge 9 agosto 2024, n. 114. Per i concorsi di base è sufficiente ricordare questo dato e non sostituirlo con etichette improprie. Fatti anteriori, norme transitorie e profili specialistici richiedono invece una verifica giuridica puntuale.
+
+#### Caso guidato: il vantaggio richiesto all'operatore economico
+
+Un funzionario dice a un operatore economico che la sua pratica potrà essere esaminata più rapidamente se offrirà un'utilità personale. Il candidato non deve decidere il caso con una formula automatica. Deve spiegare che la situazione è incompatibile con imparzialità, doveri d'ufficio e prevenzione della corruzione; deve poi distinguere, in base ai fatti indicati dalla traccia, tra accordo corruttivo, costrizione o induzione.
+
+La risposta prudente è: «Occorre interrompere la gestione informale, attivare i canali competenti, conservare la tracciabilità della pratica e qualificare i fatti secondo la disciplina applicabile. Non ogni pressione ha la stessa struttura giuridica: la traccia deve chiarire se vi sia accordo, induzione o costrizione».
+
+> **Errore tipico**
+>
+> Usare “corruzione” come sinonimo di ogni favoritismo o “abuso d'ufficio” come etichetta universale. In prova conta mostrare metodo: fatti, soggetti, poteri, utilità, libertà del privato e norma applicabile.
+
+**Mini-esercizio.** Collega ciascun fatto al nucleo corretto: a) un dipendente usa per sé somme che gestisce per servizio; b) un pubblico ufficiale costringe un cittadino a consegnare denaro; c) un operatore e un funzionario concordano un vantaggio per ottenere un atto favorevole. Poi scrivi per ogni caso una riga che spieghi perché non va confuso con un mero illecito disciplinare.
 
 ### Indirizzo politico e gestione amministrativa
 
@@ -237,7 +288,7 @@ La domanda da farti è: il servizio pubblico resta garantito? Se la risposta è 
 
 Questa sezione rende espliciti i nuclei da trattare nei quiz e nei programmi estesi. Alcuni sono già sviluppati nel quadro teorico; qui vengono ordinati secondo la sequenza tipica delle prove concorsuali.
 
-### 17. Accesso al pubblico impiego
+### 1. Accesso al pubblico impiego
 
 L'accesso al pubblico impiego si collega all'art. 97 Cost. e al principio del concorso pubblico. I temi da conoscere sono reclutamento, assunzioni, graduatorie, mobilità, progressioni, riserve e fabbisogno di personale.
 
@@ -254,7 +305,7 @@ L'accesso al pubblico impiego si collega all'art. 97 Cost. e al principio del co
 
 Il candidato deve collegare sempre accesso, fabbisogno e competenze: la PA non assume in astratto, ma per coprire bisogni organizzativi coerenti con funzioni, servizi e risorse.
 
-### 18. Rapporto di lavoro pubblico
+### 2. Rapporto di lavoro pubblico
 
 Il rapporto di lavoro pubblico ordinario è privatizzato o contrattualizzato, ma inserito in una cornice pubblicistica. Il D.Lgs. 165/2001 è il riferimento generale. Il rapporto con il codice civile e con le leggi sul lavoro si combina con regole speciali del pubblico impiego.
 
@@ -270,7 +321,7 @@ I nuclei da coprire sono:
 
 La formula utile per l'orale è: il rapporto è gestito con strumenti privatistici, ma nasce e si svolge dentro una pubblica amministrazione, quindi resta condizionato da finalità pubbliche, imparzialità, buon andamento e responsabilità. Per CCNL, comparti, aree e relazioni sindacali il riferimento operativo è ARAN, nel quadro del D.Lgs. 165/2001: non esiste un unico contratto valido per tutti i dipendenti, perché il CCNL applicabile dipende da comparto, area, profilo e amministrazione.
 
-### 19. Dirigenza, performance e PIAO
+### 3. Dirigenza, performance e PIAO
 
 La dirigenza pubblica collega indirizzo politico e gestione amministrativa. I dirigenti curano organizzazione degli uffici, personale, obiettivi, procedimenti, controlli e risultati. Gli incarichi dirigenziali devono essere letti in rapporto a competenza, responsabilità e obiettivi.
 
@@ -278,7 +329,7 @@ Il ciclo della performance riguarda programmazione, misurazione, valutazione e r
 
 Il PIAO integra obiettivi, organizzazione, anticorruzione, trasparenza, personale, formazione e lavoro agile. Nei quiz è frequente l'errore di trattarlo come documento solo formale: va invece spiegato come strumento di programmazione integrata.
 
-### 20. Doveri del dipendente pubblico
+### 4. Doveri del dipendente pubblico
 
 Il codice di comportamento generale, contenuto nel D.P.R. 16 aprile 2013, n. 62 e integrato dai codici delle singole amministrazioni, traduce i doveri in condotte operative. I nuclei ricorrenti sono diligenza, lealtà, imparzialità, regali, conflitto di interessi, astensione, incompatibilità, inconferibilità, incarichi extraistituzionali, uso corretto delle tecnologie e rapporti con il pubblico.
 
@@ -293,7 +344,7 @@ Il codice di comportamento generale, contenuto nel D.P.R. 16 aprile 2013, n. 62 
 
 L'obiettivo non è memorizzare formule, ma riconoscere situazioni rischiose: regalo, favore, consultazione impropria, rapporto personale, attività esterna non autorizzata, uso privato di strumenti pubblici.
 
-### 21. Responsabilità disciplinare
+### 5. Responsabilità disciplinare
 
 La responsabilità disciplinare riguarda la violazione dei doveri di servizio. Il procedimento disciplinare trova il proprio quadro generale nel D.Lgs. 165/2001 e deve essere letto insieme al codice di comportamento e al CCNL applicabile. Richiede contestazione degli addebiti, contraddittorio, valutazione del fatto e applicazione della sanzione secondo regole e competenze. L'UPD, ufficio per i procedimenti disciplinari, rileva nei casi in cui la competenza non resta al responsabile della struttura.
 
@@ -310,7 +361,7 @@ I temi da conoscere sono:
 
 Errore da evitare: dire che ogni illecito disciplinare è automaticamente reato o danno erariale. Lo stesso fatto può generare più responsabilità, ma ciascuna ha presupposti propri.
 
-### 22. Mansioni, orario e trattamento economico
+### 6. Mansioni, orario e trattamento economico
 
 Il rapporto di lavoro pubblico comprende mansioni, inquadramento, orario, ferie, permessi, malattia, reperibilità, part-time, lavoro agile, retribuzione e trattamento accessorio. La base generale è nel D.Lgs. 165/2001, ma molti istituti concreti sono regolati dal CCNL del comparto o dell'area applicabile.
 
@@ -320,7 +371,7 @@ L'orario di lavoro va collegato a servizio, organizzazione e controlli. Ferie e 
 
 Il trattamento economico comprende componenti fondamentali e accessorie. Il trattamento accessorio deve essere collegato a regole, risorse, contrattazione, performance o condizioni previste, non a discrezionalità libera. In prova va evitata una risposta generica: occorre dire che la disciplina concreta dipende da legge, CCNL, contrattazione integrativa nei limiti consentiti e sistema di valutazione.
 
-### 23. Sicurezza, pari opportunità e benessere
+### 7. Sicurezza, pari opportunità e benessere
 
 La sicurezza sul lavoro riguarda anche la pubblica amministrazione. Il D.Lgs. 9 aprile 2008, n. 81 è la fonte consolidata per ruoli, obblighi, prevenzione e RLS. Il candidato deve sapere che la tutela della salute e sicurezza non è solo un tema aziendale privato: riguarda uffici, scuole, ospedali, enti locali, laboratori, archivi, cantieri e attività esterne.
 
@@ -428,6 +479,7 @@ Completa la tabella collegando situazione, dovere, rischio e comportamento corre
 | Regalo da utente interessato | Imparzialità, etica pubblica, conflitto di interessi, astensione. |
 | Mancanza di controlli del dirigente | Responsabilità organizzativa, omessa vigilanza, governo del rischio. |
 | Segnalazione di illecito | Whistleblowing, tutela del segnalante, canali corretti, divieto di ritorsione. |
+| Utilità indebita collegata alla funzione | Verificare soggetti, accordo, costrizione o induzione; non usare etichette penali automatiche. |
 
 ## Checkpoint finale
 
@@ -439,6 +491,7 @@ Prima di passare al capitolo successivo, verifica se sai rispondere senza appunt
 | Perché il concorso tutela imparzialità e buon andamento? | Qual è la differenza tra organo politico e dirigente? |
 | Quali sono i doveri principali del dipendente pubblico? | Che funzione ha il codice di comportamento? |
 | Come distingui responsabilità disciplinare, contabile e dirigenziale? | Perché il conflitto può essere potenziale o apparente? |
+| Quali elementi distinguono peculato, concussione, corruzione e induzione indebita? | Perché non ogni comportamento scorretto integra un reato? |
 | Perché la performance non è solo valutazione individuale? | Che funzione ha il PIAO? |
 | Perché il lavoro agile è modalità organizzativa? | Qual è il ruolo di ARAN e dei CCNL? |
 | Che differenza c'è tra mobilità, progressione e nuova assunzione? | Che funzione ha l'UPD nel procedimento disciplinare? |

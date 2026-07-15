@@ -284,7 +284,7 @@ Usa questa regola:
 
 Il capitale ti fa partire avanti, ma non ti autorizza a smettere di leggere il bando.
 
-![Figura 26.6 - Core, moduli e trasferibilità](../assets/chapter-26/06-core-moduli-trasferibilità.png)
+![Figura 26.6 - Core, moduli e trasferibilità](../assets/chapter-26/06-core-moduli-trasferibilita.png)
 
 ## Da sapere in 5 righe
 
