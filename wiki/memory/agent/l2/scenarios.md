@@ -709,3 +709,12 @@
 - l0: l0/conv-20260715190210-13qj2ug.md
 - atoms:
   - mem-20260715190210-1b65r83 | result | Esito Codex.volume01LayoutOptimization: Le pagine del Volume 1 non sono ottimizzate: c'e troppo spazio vuoto tra le pagine. -> Ottimizzata la paginazione A4 del VOL-01 Il Metodo BANDO.
+
+## 2026-07-16T16:51:02.569Z - editorial-layout
+
+- conversation_id: conv-20260716165102-18b2mx0
+- route: Codex.bookStudioPreviewRegressionFix
+- l0: l0/conv-20260716165102-18b2mx0.md
+- atoms:
+  - mem-20260716165102-16yuo3g | project_fact | Sistema l'anteprima del libro: e cambiata, le immagini sono sotto e non e ottimizzata come prima.
+  - mem-20260716165102-vdvg0c | result | Esito Codex.bookStudioPreviewRegressionFix: Sistema l'anteprima del libro: e cambiata, le immagini sono sotto e non e ottimizzata come prima. -> Individuata una sovrapposizione tra il pannello Asset libro e la preview A4 causata dalla griglia desktop a due colonne con controlli sticky.

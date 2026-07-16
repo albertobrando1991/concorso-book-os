@@ -87,3 +87,4 @@
 {"id":"conv-20260714160649-lfigmj","createdAt":"2026-07-14T16:06:49.823Z","scope":"catalog-governance","route":"Codex.volume-coverage-v4","l0Path":"l0\\conv-20260714160649-lfigmj.md","messageCount":1,"replyChars":286}
 {"id":"conv-20260714165808-w505d2","createdAt":"2026-07-14T16:58:08.462Z","scope":"vol01-editorial-review","route":"Codex.fullVolumeReview","l0Path":"l0\\conv-20260714165808-w505d2.md","messageCount":1,"replyChars":406}
 {"id":"conv-20260715190210-13qj2ug","createdAt":"2026-07-15T19:02:10.448Z","scope":"editorial-layout","route":"Codex.volume01LayoutOptimization","l0Path":"l0\\conv-20260715190210-13qj2ug.md","messageCount":1,"replyChars":317}
+{"id":"conv-20260716165102-18b2mx0","createdAt":"2026-07-16T16:51:02.569Z","scope":"editorial-layout","route":"Codex.bookStudioPreviewRegressionFix","l0Path":"l0\\conv-20260716165102-18b2mx0.md","messageCount":1,"replyChars":414}

@@ -596,7 +596,7 @@ h1 {
 
 .bookStudioLayout {
   display: grid;
-  grid-template-columns: minmax(220px, 280px) minmax(320px, 1fr);
+  grid-template-columns: minmax(190px, 240px) minmax(420px, 1fr) minmax(240px, 300px);
   gap: 14px;
   align-items: start;
 }
@@ -703,8 +703,6 @@ h1 {
 }
 
 .bookPreviewShell {
-  grid-column: 1 / -1;
-  order: 3;
   min-width: 0;
   border: 1px solid var(--line);
   border-radius: 6px;
@@ -760,7 +758,7 @@ h1 {
 .bookPages {
   display: grid;
   gap: 14px;
-  justify-items: center;
+  justify-items: start;
   overflow-x: auto;
   padding-bottom: 2px;
 }

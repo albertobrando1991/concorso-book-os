@@ -21,6 +21,39 @@ try {
     await page.waitForTimeout(900)
     await page.screenshot({ path: `artifacts/book-studio-${current.label}.png`, fullPage: true })
 
+    const studio = await page.evaluate(() => {
+      const getRect = (selector) => {
+        const element = document.querySelector(selector)
+        if (!element) return null
+        const rect = element.getBoundingClientRect()
+
+        return {
+          top: rect.top,
+          right: rect.right,
+          bottom: rect.bottom,
+          left: rect.left,
+          width: rect.width,
+          height: rect.height
+        }
+      }
+      const overlapArea = (left, right) => {
+        if (!left || !right) return 0
+        const width = Math.max(0, Math.min(left.right, right.right) - Math.max(left.left, right.left))
+        const height = Math.max(0, Math.min(left.bottom, right.bottom) - Math.max(left.top, right.top))
+
+        return Math.round(width * height)
+      }
+      const preview = getRect(".bookPreviewShell")
+      const assets = getRect(".assetStrip")
+
+      return {
+        gridTemplateColumns: getComputedStyle(document.querySelector(".bookStudioLayout")).gridTemplateColumns,
+        preview,
+        assets,
+        assetPreviewOverlap: overlapArea(preview, assets)
+      }
+    })
+
     const diagnostics = await page.$$eval(".bookPages .bookPage", (pages) => pages.map((bookPage, index) => {
       const pageRect = bookPage.getBoundingClientRect()
       const footer = bookPage.querySelector(".pageFooter")
@@ -66,7 +99,7 @@ try {
       }
     }))
 
-    report.push({ ...current, diagnostics })
+    report.push({ ...current, studio, diagnostics })
     await page.close()
   }
 } finally {
@@ -76,9 +109,14 @@ try {
 await fs.writeFile("artifacts/book-studio-layout-report.json", JSON.stringify(report, null, 2), "utf8")
 
 const failures = report.flatMap((entry) =>
-  entry.diagnostics
-    .filter((page) => page.overflow > 8 || page.overlaps.length > 0)
-    .map((page) => `${entry.label} page ${page.page}: overflow=${page.overflow}, overlaps=${page.overlaps.join("; ")}`)
+  [
+    ...(entry.studio.assetPreviewOverlap > 0
+      ? [`${entry.label}: asset strip overlaps preview by ${entry.studio.assetPreviewOverlap}px2`]
+      : []),
+    ...entry.diagnostics
+      .filter((page) => page.overflow > 8 || page.overlaps.length > 0)
+      .map((page) => `${entry.label} page ${page.page}: overflow=${page.overflow}, overlaps=${page.overlaps.join("; ")}`)
+  ]
 )
 
 if (failures.length > 0) {
