@@ -9,7 +9,7 @@ entities: ["Agenzia delle Entrate", "ADM", "AdER"]
 source_refs: ["sources/principio-copertura-didattica-integrale-2026-07-17", "sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026"]
 book_refs: ["m-fc02-agenzie-fiscali"]
 confidence: 0.9
-updated_at: 2026-07-17T00:00:00+02:00
+updated_at: 2026-07-18T00:00:00+02:00
 created_at: 2026-07-17T00:00:00+02:00
 review_required: true
 canonical: false
@@ -26,7 +26,7 @@ affected_pages: ["books/moduli/m-fc02-agenzie-fiscali"]
 - Genere editoriale: manuale-workbook specialistico per concorsi nelle Agenzie fiscali.
 - Pubblico target: candidati AE, ADM, AdER e profili Territorio/SPI, con nucleo comune nel VOL-01.
 - Perimetro di questa revisione: index, piano, indice analitico e tutti i 14 capitoli; confronto con source/topic/entity consolidate.
-- Stato generale in una frase: impianto didattico forte nei capitoli 1-11 e 13, ma non pubblicabile per due capitoli ancora source-ready, promesse d'indice mancanti e numerosi nuclei parziali.
+- Stato generale in una frase: capitoli 12 e 14 ora sviluppati e approvati nei rispettivi perimetri, ma modulo ancora non pubblicabile per 22 blocker residui: 17 nuclei parziali, 1 solo nominato e 4 mancanti.
 
 ## 2. Punti applicati della checklist
 
@@ -36,8 +36,8 @@ Applicati i punti 1-15 e 17-21, 29-30, oltre al gate aggiuntivo di copertura int
 
 | ID | Posizione | Categoria | Gravita | Descrizione | Correzione proposta | Stato |
 | --- | --- | --- | --- | --- | --- | --- |
-| E01 | Cap. 12, intero | Completezza spiegazioni/gate | Grave | Civile e commerciale e' una scheda `source_ready`: obbligazioni, contratti, impresa, societa e crisi non sono insegnati. | Scrivere il testo editoriale completo dai riferimenti consolidati; aggiungere fonti dedicate alla crisi d'impresa. | Aperto |
-| E02 | Cap. 14, intero | Completezza spiegazioni/gate | Grave | Tutte le cinque appendici sono promesse ma non sviluppate. | Sviluppare reati, UE, front-office/privacy, glossario e schede allerta con teoria, casi e verifiche. | Aperto |
+| E01 | Cap. 12, intero | Completezza spiegazioni/gate | Grave | Il precedente stato `source_ready` e' superato: civile, contratti, impresa e societa sono sviluppati con casi e verifiche. La crisi resta deliberatamente parziale. | Mantenere chiuso il gap strutturale; consolidare una source ufficiale dedicata prima di ampliare la crisi d'impresa. | Chiuso per civile/commerciale; crisi aperta |
+| E02 | Cap. 14, intero | Completezza spiegazioni/gate | Grave | Il precedente placeholder e' superato: il capitolo e' un workbook autonomo con glossario di 80 voci, tavole, scadenziario, schemi, canvas, orale e ripasso. Non sostituisce i nuclei teorici mancanti o parziali. | Mantenere chiuso il gap workbook; sviluppare separatamente sanzioni, reati, processo, UE, privacy e destinazioni cross-family. | Chiuso per workbook; nuclei teorici aperti |
 | E03 | Indice analitico, punto 11 | Promessa non mantenuta | Grave | Le sanzioni amministrative tributarie sono promesse ma non hanno un blocco didattico. | Inserire una collocazione responsabile con sistema, principi, rapporti con ravvedimento e verifiche. | Aperto |
 | E04 | Indice analitico, punto 12 | Promessa non mantenuta | Grave | Il processo tributario essenziale e' solo sfiorato come tutela giurisdizionale. | Creare blocco su giurisdizione, atti impugnabili, ricorso, termini, fasi ed esiti, con fonte vigente. | Aperto |
 | E05 | Cap. 5, `Profili ACFI e fiscalita internazionale` | Solo nominato | Grave | La fiscalita internazionale e' dichiarata necessaria ma priva di istituti, caso e verifica dedicati. | Definire perimetro ACFI e consolidare fonti su operazioni transnazionali prima dello sviluppo. | Aperto |
@@ -100,22 +100,22 @@ Applicati i punti 1-15 e 17-21, 29-30, oltre al gate aggiuntivo di copertura int
 - Criticita: servono esercizi svolti su partita doppia, indici e variazioni fiscali.
 
 ### Capitolo 12 - Civile e commerciale
-- Punti di forza: perimetro e fonti iniziali sono dichiarati.
-- Criticita: testo editoriale interamente mancante.
+- Punti di forza: civile, obbligazioni, contratti, impresa, azienda, societa, governance e responsabilita sono sviluppati con casi, quiz, orale e tracciabilita consolidata.
+- Criticita: crisi e insolvenza restano un nucleo prudenziale parziale; procedure, misure ed effetti sui crediti pubblici richiedono source ufficiale dedicata e review umana.
 
 ### Capitolo 13 - Laboratorio prove
 - Punti di forza: casi differenziati, quiz, orale, diario e piano 30/60/90 formano un laboratorio autonomo.
 - Criticita: casi e quiz devono essere riesaminati dopo gli aggiornamenti normativi dei capitoli tecnici.
 
 ### Capitolo 14 - Appendici operative
-- Punti di forza: architettura delle appendici pertinente al modulo.
-- Criticita: testo editoriale interamente mancante.
+- Punti di forza: workbook autonomo con 80 voci di glossario, tavole comparative, scadenziario, checklist, schemi, canvas, orale e piano 1-3-7-14-30; rinvii verificati ai capitoli.
+- Criticita: i presidi su sanzioni, reati, UE e privacy sono solo avvertenze operative; crisi e rinvii cross-family restano parziali e non vanno scambiati per teoria validata.
 
 ## 5. Coerenza globale
 
 - Terminologia: generalmente coerente; distinzione accertamento/riscossione ben presidiata.
-- Struttura vs indice: non coerente allo stato attuale; l'indice promette sanzioni e processo non sviluppati e i capitoli 12/14 sono placeholder.
-- Promesse dell'introduzione mantenute: no. Orientamento e performance sono forti, ma la copertura delle materie specialistiche e' incompleta.
+- Struttura vs indice: capitoli 12 e 14 non sono piu placeholder; restano non mantenute le promesse teoriche su sanzioni, reati, processo e sintesi UE, oltre ai nuclei parziali censiti.
+- Promesse dell'introduzione mantenute: solo in parte. Orientamento, performance, civile/commerciale e workbook sono forti; i 22 blocker impediscono ancora la copertura integrale.
 
 ## 6. Contenuto da verificare
 
@@ -134,16 +134,39 @@ Applicati i punti 1-15 e 17-21, 29-30, oltre al gate aggiuntivo di copertura int
 
 ## 8. Priorita degli interventi
 
-1. Scrivere integralmente i capitoli 12 e 14.
-2. Chiudere sanzioni, processo tributario e fiscalita internazionale.
-3. Espandere redditi/IVA, tutela, riscossione esecutiva, dogane, accise/giochi, estimo e contabilita.
-4. Consolidare fonti mancanti e svolgere review normativa/tecnica.
-5. Verificare destinazioni cross-family e aggiornare matrice e laboratorio finale.
+1. Sviluppare i quattro nuclei mancanti: sanzioni amministrative tributarie, reati tributari/contro la PA, processo tributario e sintesi UE fiscale-doganale trasversale.
+2. Sviluppare la fiscalita internazionale, oggi solo nominata.
+3. Chiudere i 17 nuclei parziali elencati nel giudizio di pubblicabilita, senza usare il workbook come sostituto della teoria.
+4. Consolidare le fonti mancanti e svolgere review normativa, contabile, estimativa, privacy e crisi.
+5. Validare le destinazioni cross-family e aggiornare laboratorio e matrice soltanto dopo la verifica dei contenuti riceventi.
 
 ## 9. Giudizio di pubblicabilita
 
-**Non pubblicabile allo stato attuale.** Motivazione: E01-E05 sono promesse mancanti o solo nominate; E06-E15 mostrano nuclei parziali incompatibili con il gate; E16 richiede review normativa prima della pubblicazione. La matrice registra blocker espliciti.
+**Non pubblicabile allo stato attuale.** La matrice registra 80 nuclei: 58 `completo`, 17 `parziale`, 1 `solo-nominato`, 0 `rinviato`, 4 `mancante`. I blocker editoriali sono quindi 22.
+
+I 17 nuclei `parziale` sono:
+
+1. IRPEF/IRES, categorie reddituali e reddito d'impresa;
+2. IVA, casistica ed esclusioni;
+3. autotutela, definizione e tutela giurisdizionale;
+4. dichiarazione, versamento, compensazione e correzioni;
+5. misure cautelari ed esecuzione forzata AdER;
+6. regimi doganali;
+7. debito doganale e garanzia;
+8. prodotti energetici, alcole e tabacchi;
+9. tutela del giocatore, illegalita, prelievi e controlli;
+10. DOCFA, PREGEO e voltura;
+11. estimo e applicazioni OMI;
+12. conti e partita doppia;
+13. indici ed equilibri aziendali;
+14. utile civilistico e reddito imponibile;
+15. crisi d'impresa;
+16. comunicazione, front-office e privacy;
+17. schede e destinazioni cross-family per crisi, HR, gare e ICT.
+
+Il nucleo `solo-nominato` e' la fiscalita internazionale ACFI. I quattro nuclei `mancante` sono sanzioni amministrative tributarie, reati tributari/contro la PA, processo tributario essenziale e diritto UE fiscale-doganale trasversale.
+
+E01 ed E02 sono chiusi soltanto come gap strutturali: il capitolo 12 insegna civile/commerciale e il capitolo 14 fornisce il workbook promesso. Non risultano invece chiusi crisi, sanzioni, reati, processo, UE, privacy o i rinvii cross-family. E16 mantiene inoltre obbligatoria la review normativa e tecnica prima della pubblicazione.
 
 ## 10. Limiti di questa revisione
-
 Audit eseguito sul markdown e sulle note consolidate presenti nel wiki, senza usare `raw/` e senza ricerca web. Non sono stati verificati layout impaginato, vigenza articolo-per-articolo, correttezza specialistica contabile/estimativa o aggiornamento dei sistemi telematici. Lo stato `completo` indica completezza didattica rispetto alla promessa locale osservata, non certificazione normativa finale.
