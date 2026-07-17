@@ -141,6 +141,7 @@ Regole:
 - Deve preservare tracciabilita: ogni blocco deve indicare riferimenti consolidati usati.
 - Deve mantenere stile workbook Metodo BANDO: apertura editoriale, obiettivo, mappa BANDO, spiegazione, box "da sapere in 5 righe", caso guidato, domanda da commissario, domanda-trappola, mini-esercizio, errore tipico, riferimenti, note di review.
 - Deve scrivere in modo impaginabile: paragrafi brevi, titoli non orfani, tabelle leggibili in pagina A4, box autonomi e note layout solo quando servono alla revisione visiva.
+- Deve rispettare la gerarchia tipografica canonica di collana: H1 Arial Bold 18-20 pt, H2 Arial Bold 14 pt, H3 Arial Bold 12 pt, corpo Garamond Regular 11 pt con interlinea 1,15-1,20, tabelle/quiz/schemi/box Arial 9,5-10 pt. La regola vale per tutti i volumi, moduli, integrazioni e revisioni.
 - Non deve mai produrre formule come "Aggiornamento generato", "Istruzione ricevuta" o riepiloghi delle fonti al posto del capitolo.
 - Deve integrare nuova conoscenza senza cancellare il lavoro umano preesistente fuori dalle sezioni gestite.
 - Provider consigliato: `WRITER_PROVIDER=codex`, che usa `codex exec` locale e la skill di progetto `.agents/skills/concorso-book-professional-writer/SKILL.md`.
@@ -159,7 +160,7 @@ Regole:
 - Un capitolo finale non deve mai derivare solo da una raw source.
 - Ogni capitolo deve includere obiettivo didattico, spiegazione, punti chiave, riferimenti, esempi, errori frequenti e quiz collegati.
 - La scrittura e' incrementale: integrare, chiarire e migliorare senza distruggere lavoro precedente.
-- Il formato operativo canonico per dashboard, revisione ed export di lavoro di `Il Metodo BANDO` e' A4 verticale, testo giustificato, pagine singole numerate, corpo serif professionale, titoli/box sans serif, colonna singola, box operativi ricorrenti e strumenti compilabili. Il 17 x 24 cm resta solo eventuale formato commerciale compatto finale.
+- Il formato operativo canonico per dashboard, revisione ed export di lavoro di `Il Metodo BANDO` e' A4 verticale, testo giustificato, pagine singole numerate, corpo Garamond 11 pt, titoli Arial Bold 20/14/12 pt, tabelle/quiz/schemi/box Arial 9,5-10 pt, colonna singola, box operativi ricorrenti e strumenti compilabili. Il 17 x 24 cm resta solo eventuale formato commerciale compatto finale.
 - Separare note canoniche da note di lavoro.
 - Richiedere review umana per interpretazioni normative puntuali.
 - Per il libro `Il Metodo BANDO`, l'outline base e' Parte I Orientarsi, Parte II Materie comuni, Parte III Allenamento, Parte IV Sistema adattabile, Appendici/tool.

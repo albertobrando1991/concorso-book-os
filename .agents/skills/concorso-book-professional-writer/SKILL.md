@@ -78,14 +78,19 @@ Default publication format:
 - manual/workbook, not novel;
 - dashboard/revision/export target: A4 vertical pages, 210 x 297 mm, one visible page at a time;
 - compact commercial print target, only if later requested: around 17 x 24 cm, KDP equivalent 6.69 x 9.61 in;
-- body text: Source Serif 4 or high-quality serif fallback;
-- headings, boxes, captions, tables: Source Sans 3 or high-quality sans fallback;
+- body text: Garamond Regular 11 pt, line-height 1.15-1.20 (target 1.18);
+- chapter headings: Arial Bold 18-20 pt (target 20 pt);
+- section headings: Arial Bold 14 pt;
+- subsection headings: Arial Bold 12 pt;
+- boxes, captions, tables, quizzes and schemes: Arial 9.5-10 pt;
 - single-column explanation;
 - justified body text with Italian hyphenation where possible;
 - no orphan headings at the bottom of a page;
 - recurring operational boxes;
 - short paragraphs, clear hierarchy, tables only when they remain readable;
 - every image must have a didactic function.
+
+This Arial/Garamond hierarchy is canonical for every existing and future volume or specialist module. Existing books inherit it through the shared A4 renderer; new markdown must preserve a clean H1/H2/H3 hierarchy so the renderer can apply it consistently. Raster images are preserved; when a diagram is regenerated, its internal text must use Arial.
 
 When formatting a chapter, think in A4 pages: explanation, BANDO map, operational box, case, exercise, error, references and review state. A page should feel like a professional manual page, not a long web article.
 

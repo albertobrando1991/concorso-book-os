@@ -16,6 +16,7 @@ Aggiornato: 2026-07-08T22:50:00+02:00
 - [[sources/banca-dati-ufficiale-quiz-metodo-bando]]
 - [[sources/bandi-rappresentativi-profili-concorsuali-inpa-agenzie-enti-2025-2026]]
 - [[sources/book-layout-typography-standards]]
+- [[sources/specifica-tipografica-arial-garamond-2026-07-16]]
 - [[sources/capitale-studio-riutilizzabile-metodo-bando]]
 - [[sources/capitoli-21-23-corpus-moduli-piano-diario-2026-06-01]]
 - [[sources/capitolo-12-corpus-fonti-logica-comprensione-ragionamento-2026-05-28]]

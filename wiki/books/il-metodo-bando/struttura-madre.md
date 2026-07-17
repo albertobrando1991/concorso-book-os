@@ -53,7 +53,7 @@ Il design system canonico e':
 
 `books/il-metodo-bando/design-system-editoriale.md`
 
-Decisione: il master di scrittura, revisione e anteprima deve essere impaginato in A4 verticale, con corpo serif leggibile, titoli e box sans serif, colonna singola, strumenti compilabili e box operativi ricorrenti. Il formato 17 x 24 cm circa e la derivazione commerciale compatta successiva.
+Decisione: il master di scrittura, revisione e anteprima deve essere impaginato in A4 verticale, con corpo Garamond Regular 11 pt e interlinea 1,15-1,20; titoli Arial Bold 20/14/12 pt; tabelle, quiz, schemi e box Arial 9,5-10 pt; colonna singola, strumenti compilabili e box operativi ricorrenti. Questa gerarchia si applica a tutti i libri gia scritti e a ogni sviluppo successivo. Il formato 17 x 24 cm circa e la derivazione commerciale compatta successiva.
 
 Ogni capitolo deve essere scritto pensando alla pagina: spiegazione, box, caso, esercizio, errore tipico, riferimenti e note di review non sono accessori, ma parti della struttura didattica.
 

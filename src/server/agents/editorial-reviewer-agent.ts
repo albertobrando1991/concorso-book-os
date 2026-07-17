@@ -70,11 +70,12 @@ export class EditorialReviewerAgent {
   constructor(private readonly store: FileWikiStore) {}
 
   async runReview(input: EditorialReviewInput): Promise<EditorialReviewResult> {
-    const [skillText, checklistText, templateText, volumeLogicText] = await Promise.all([
+    const [skillText, checklistText, templateText, volumeLogicText, designSystemText] = await Promise.all([
       loadSkillFile("SKILL.md"),
       loadSkillFile("references/checklist-30-punti.md"),
       loadSkillFile("references/template-report.md"),
-      loadVolumeLogicGuide()
+      loadVolumeLogicGuide(),
+      loadDesignSystemGuide()
     ])
 
     const chapterContents = await this.loadChapterContents(input)
@@ -101,7 +102,8 @@ export class EditorialReviewerAgent {
       scope: input.scope,
       aspect: input.aspect,
       memoryContext: memoryRecall.context,
-      volumeLogicText
+      volumeLogicText,
+      designSystemText
     })
 
     const writerConfig = getWriterConfig()
@@ -301,6 +303,7 @@ function buildReviewPrompt(input: {
   aspect?: string
   memoryContext: string
   volumeLogicText: string
+  designSystemText: string
 }) {
   const chapterSection = input.chapterContents.map((chapter) => [
     `\n### Capitolo: ${chapter.title}`,
@@ -331,6 +334,9 @@ function buildReviewPrompt(input: {
     "## Regola canonica di copertura dei volumi",
     trimWords(input.volumeLogicText.replace(/^---[\s\S]*?---/, ""), 1100) || "Fonte non disponibile: applica comunque la regola comune/famiglia/sottoprofilo/rinvio.",
     "",
+    "## Design system tipografico canonico",
+    trimWords(input.designSystemText.replace(/^---[\s\S]*?---/, ""), 900) || "Applica Arial ai titoli e agli strumenti e Garamond al corpo secondo la specifica di collana.",
+    "",
     `## Perimetro: ${scopeLabel}`,
     memorySection,
     "## Capitoli da revisionare",
@@ -341,6 +347,7 @@ function buildReviewPrompt(input: {
     "La tabella errori deve usare il formato markdown con colonne: ID | Posizione | Categoria | Gravita | Descrizione | Correzione proposta | Stato.",
     "Ordina gli errori per gravita decrescente poi per posizione.",
     "Per i volumi e moduli verifica sempre: assenza di duplicazione B-PA dal VOL-01, famiglia corretta, copertura delle materie ricorrenti/pesate del profilo, rinvii cross-family, necessita' di appendici/verticali e congruenza del pacchetto minimo. Duplicazione B-PA, famiglia errata o lacuna ricorrente/pesata sono errori gravi.",
+    "Nel controllo layout verifica la gerarchia canonica: H1 Arial Bold 18-20 pt, H2 Arial Bold 14 pt, H3 Arial Bold 12 pt, corpo Garamond Regular 11 pt con interlinea 1,15-1,20, tabelle/quiz/schemi/box Arial 9,5-10 pt.",
     "Alla fine esprimi il giudizio di pubblicabilita con una delle tre formule esatte:",
     "- 'Pubblicabile con correzioni minori'",
     "- 'Pubblicabile dopo intervento medio'",
@@ -492,6 +499,11 @@ async function loadSkillFile(relativePath: string) {
 
 async function loadVolumeLogicGuide() {
   const fullPath = path.join(process.cwd(), "wiki", "sources", "logica-volumi-copertura-concorsobook-v4.md")
+  return readFile(fullPath, "utf8").catch(() => "")
+}
+
+async function loadDesignSystemGuide() {
+  const fullPath = path.join(process.cwd(), "wiki", "books", "il-metodo-bando", "design-system-editoriale.md")
   return readFile(fullPath, "utf8").catch(() => "")
 }
 

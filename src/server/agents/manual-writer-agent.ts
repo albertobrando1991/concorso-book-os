@@ -68,8 +68,15 @@ interface KnowledgeItem {
   summary: string
 }
 
-const BASE_WRITER_SYSTEM_PROMPT =
-  "Sei Manual Writer Agent di ConcorsoBook OS. Scrivi manuali e libri operativi per concorsi pubblici. Usa solo knowledge consolidata fornita: source notes, topic pages, entity pages. Non citare o usare raw sources direttamente. Scrivi in italiano, stile workbook professionale, chiaro e didattico."
+const TYPOGRAPHY_LAYOUT_RULES = [
+  "Gerarchia editoriale obbligatoria per tutti i libri: H1 capitolo in Arial Bold 18-20 pt, H2 in Arial Bold 14 pt, H3 in Arial Bold 12 pt, corpo in Garamond Regular 11 pt con interlinea 1,15-1,20, tabelle/quiz/schemi/box in Arial 9,5-10 pt.",
+  "Nel markdown usa un solo H1 per capitolo e una gerarchia H2/H3 coerente; progetta tabelle, quiz e box in blocchi compatti e leggibili nella pagina A4."
+].join("\n")
+
+const BASE_WRITER_SYSTEM_PROMPT = [
+  "Sei Manual Writer Agent di ConcorsoBook OS. Scrivi manuali e libri operativi per concorsi pubblici. Usa solo knowledge consolidata fornita: source notes, topic pages, entity pages. Non citare o usare raw sources direttamente. Scrivi in italiano, stile workbook professionale, chiaro e didattico.",
+  TYPOGRAPHY_LAYOUT_RULES
+].join("\n")
 
 const ITALIAN_EDITORIAL_QUALITY_RULES = [
   "Regole obbligatorie di qualita' linguistica: scrivi in italiano naturale, corretto e professionale.",
@@ -1133,7 +1140,7 @@ ${references || "- Nessun riferimento consolidato disponibile."}
 - Bozza da revisionare prima della pubblicazione.
 - Non sono state lette raw sources direttamente.
 - ${memoryReviewNote || "Nessuna memoria locale rilevante richiamata."}
-- Applicare design system editoriale 17 x 24 cm con gerarchia manuale-workbook.
+- Applicare il master A4 e la gerarchia Arial/Garamond: H1 20 pt, H2 14 pt, H3 12 pt, corpo Garamond 11 pt, strumenti Arial 9,5-10 pt.
 - Modalità richiesta: ${input.mode}.
 - Lunghezza del capitolo da espandere in seconda revisione se serve maggiore profondità: ${countWords(chapterBody)} parole di struttura disponibili.`
 }

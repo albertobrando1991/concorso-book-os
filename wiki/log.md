@@ -16,12 +16,10 @@
 - 2026-05-10T12:35:00+02:00 | rights_confirmed_process | Diritto costituzionale - manuale Bin/Pitruzzella | source=sources/diritto-costituzionale-bin-pitruzzella.md | raw=wiki/raw/manuals/diritto-costituzionale-bin-pitruzzella-authorized.pdf | policy=summaries_no_long_verbatim | impacted=books/il-metodo-bando/chapters/costituzione-e-ordinamento-dello-stato.md
 - 2026-05-10T12:59:21+02:00 | editorial_design_system | Il Metodo BANDO | design=books/il-metodo-bando/design-system-editoriale.md | source=sources/book-layout-typography-standards.md | format=17x24cm | fonts=source-serif-4/source-sans-3 | dashboard_preview=updated
 - 2026-05-10T13:16:00+02:00 | manual_writer_correction | Il Metodo BANDO | fixed=books/il-metodo-bando/chapters/introduzione.md,books/il-metodo-bando/chapters/il-nuovo-candidato-pubblico.md | policy=write_actual_chapters_from_wiki_brain | web_research=review_only_until_consolidated
-
 - 2026-05-10T11:10:49.244Z | manual_writer | books/il-metodo-bando/chapters/introduzione.md | mode=integrate | target_heading=Testo editoriale | knowledge=6
 - 2026-05-10T11:11:22.156Z | manual_writer | books/il-metodo-bando/chapters/il-nuovo-candidato-pubblico.md | mode=integrate | target_heading=Testo editoriale | knowledge=5
 - 2026-05-10T13:46:00+02:00 | dashboard_formatting_fix | Book Studio | format=A4_paginated | text=justified | pagination=anti_orphan_headings | screenshot=artifacts/dashboard-screenshot.png | verification=typecheck,test,build,screenshot
 - 2026-05-10T14:22:00+02:00 | dashboard_pagination_optimization | Book Studio | pagination=measured_rendered_a4_blocks | tables=compact_manual_layout | headings=no_orphans | screenshot=artifacts/dashboard-screenshot.png | verification=typecheck,test,build,screenshot
-
 - 2026-05-23T23:00:16.247Z | ingest | Legge 7 agosto 1990, n. 241 - Procedimento amministrativo e accesso ai documenti amministrativi (testo vigente Normattiva) | source=sources/legge-7-agosto-1990-n-241-procedimento-amministrativo-e-accesso-ai-documenti-amministrativi-testo-vigente-normattiva.md | topics=anatomia del bando, diritto costituzionale, diritto amministrativo, enti locali, contabilita pubblica, anticorruzione e trasparenza, procedimento amministrativo, contratti pubblici | impacted=il-metodo-bando
 - 2026-05-23T23:00:16.252Z | hermes_import | Legge 7 agosto 1990, n. 241 - Procedimento amministrativo e accesso ai documenti amministrativi (testo vigente Normattiva) | url=https://www.normattiva.it/uri-res/N2Ls?urn=urn:publi:1990;241 | source=sources/legge-7-agosto-1990-n-241-procedimento-amministrativo-e-accesso-ai-documenti-amministrativi-testo-vigente-normattiva.md | chapter=books/il-metodo-bando/chapters/diritto-amministrativo-per-candidati.md | writer=no
 - 2026-05-24T12:25:26.639Z | ingest | Decreto legislativo 2 luglio 2010, n. 104 - Codice del processo amministrativo (C.P.A.) - testo vigente Normattiva | source=sources/decreto-legislativo-2-luglio-2010-n-104-codice-del-processo-amministrativo-c-p-a-testo-vigente-normattiva.md | topics=anatomia del bando, diritto costituzionale, diritto amministrativo, enti locali, contabilita pubblica, anticorruzione e trasparenza, procedimento amministrativo, contratti pubblici | impacted=il-metodo-bando
@@ -248,7 +246,6 @@
 - 2026-06-28T12:44:04+02:00 | verify | M-FC01 front matter numbering | checks=book_studio_api,rg-old-plan-path,select-string-numbered-title-h1,rg-trailing-whitespace,git-diff-check,npm-test | result=passed | tests=21 | note=git-diff-check_CRLF_warnings_on_touched_markdown_files
 - 2026-06-28T13:03:32+02:00 | book_studio_layout_fix | Indici libro base e M-FC01 | changes=frontmatter_pagination,index_grid_layout,module_chapters_only_analytical_index | module_index=analytical-index_chapters-only | screenshots=artifacts/book-studio-base.png,artifacts/book-studio-m-fc01.png | verify=book-studio-layout-report,npm-test,typecheck | result=passed
 - 2026-06-28T13:20:14+02:00 | manual_writer | M-FC01 capitolo 1 Lavorare nei Ministeri e nelle Funzioni Centrali | mode=professional_draft | output=revised_draft | lines=530 | source_refs=9 | note=perimetro_bando_decoder_checklist_caso_review_rgs_inpa_governo
-
 - 2026-06-29T12:48:07.881Z | humanizer_revision | books/il-metodo-bando/chapters/il-nuovo-candidato-pubblico.md | provider=codex | knowledge=5 | memory=5
 - 2026-06-29T15:08:07.596Z | humanizer_revision | books/il-metodo-bando/chapters/anatomia-del-bando.md | provider=codex | knowledge=10 | memory=5
 - 2026-06-29T15:12:24.539Z | humanizer_revision | books/moduli/m-fc01-ministeri/chapters/01-lavorare-ministeri-funzioni-centrali.md | provider=codex | knowledge=3 | memory=5
@@ -284,71 +281,49 @@
 - 2026-07-15T21:00:00+02:00 | book_studio_layout_optimization | VOL-01 Il Metodo BANDO | issue=excessive_blank_space_between_pages | baseline=593_pages,median_free_514px | result=317_pages,median_free_91px,average_free_116px,overflow_0 | changes=measured_block_bounds,guard_space_reduced,table_rows_grouped,index_costs_recalibrated,A4_preview_full_width | images=all_preserved | verification=volume01_page_fill,book_studio_layout_base_mfc01
 - 2026-07-16T18:55:00+02:00 | book_studio_layout_regression_fix | VOL-01 Il Metodo BANDO | issue=asset_strip_overlapping_A4_preview | cause=two_column_desktop_grid_with_sticky_controls | fix=restore_three_column_toc_preview_controls_layout | result=preview_center_1150px,controls_300px,asset_thumbnails_87px,asset_preview_overlap_0 | images=all_preserved | verification=volume01_317_pages,overflow_0,book_studio_layout_base_mfc01,typecheck,test_28
 - 2026-07-01T19:59:00+02:00 | dashboard_launch | http://127.0.0.1:3000 | status=completed
-
 - 2026-07-02T18:24:00+02:00 | dashboard_launch | http://127.0.0.1:3000 | status=completed
-
 - 2026-07-02T19:30:00+02:00 | source_ingest | books/moduli/m-fc03-enti-non-economici | output=source_ready_detailed_index | raw=23 | sources=2 | planning=1 | frontmatter_index=updated | memory=local
-
 - 2026-07-02T20:20:00+02:00 | module_scaffold | books/moduli/m-fc03-enti-non-economici/chapters | output=dashboard_visible_chapter_files | chapters=13 | appendices=5 | note=created_real_chapter_markdown_files
-
 - 2026-07-02T20:50:00+02:00 | coverage_matrix | books/moduli/m-fc03-enti-non-economici/planning/01-matrice-copertura-materie.md | scope=file_allegato_mfc03 | result=base_plus_module_plus_appendices_complete_editorial_coverage | caveat=source_verification_before_publication
-
 - 2026-07-02T21:25:00+02:00 | module_update | books/moduli/m-fc03-enti-non-economici | output=inail_safety_and_appendix_f_integrative_subjects | raw=bando-ripam-inail-308-unita-2024.pdf | source=source-m-fc03-bando-ripam-inail-308-funzionari-assistenti-sociali-2024
-
 - 2026-07-02T22:10:00+02:00 | manual_writer | books/moduli/m-fc03-enti-non-economici/chapters/01-lavorare-enti-pubblici-non-economici.md | mode=professional_draft | output=revised_draft | knowledge=mfc03_sources_topics_entities_memory | review_required=true
-
 - 2026-07-02T20:23:46+02:00 | manual_writer | books/moduli/m-fc03-enti-non-economici/chapters/03-inps-previdenza-servizi-prestazioni.md | mode=professional_draft | output=revised_draft | knowledge=mfc03_sources_topics_entities_memory | review_required=true
-
 - 2026-07-02T20:26:26+02:00 | manual_writer | books/moduli/m-fc03-enti-non-economici/chapters/05-procedimenti-epne-cittadini-imprese.md | mode=professional_draft | output=revised_draft | knowledge=mfc03_sources_topics_entities_memory | review_required=true
-
 - 2026-07-02T23:10:00+02:00 | manual_writer | books/moduli/m-fc03-enti-non-economici/chapters/06-bilancio-patrimonio-controlli-epne.md | mode=professional_draft | output=revised_draft | knowledge=mfc03_sources_contabilita_base_rgs_corte_conti | review_required=true
-
 - 2026-07-02T20:31:49+02:00 | manual_writer | books/moduli/m-fc03-enti-non-economici/chapters/08-personale-epne-ccnl-funzioni-centrali.md | mode=professional_draft | output=revised_draft | knowledge=mfc03_sources_topics_entities_memory | review_required=true
-
 - 2026-07-02T20:41:17+02:00 | manual_writer | books/moduli/m-fc03-enti-non-economici/chapters/09-contratti-acquisti-forniture-epne.md | mode=professional_draft | output=revised_draft | knowledge=mfc03_contracts_sources_topics_memory | review_required=true
-
 - 2026-07-02T23:40:00+02:00 | manual_writer | books/moduli/m-fc03-enti-non-economici/chapters/11-casi-pratici-epne.md | mode=professional_draft | output=revised_draft | knowledge=mfc03_sources_cases_base_response_synthesis | review_required=true
-
 - 2026-07-08T20:12:00+02:00 - Redatto capitolo 12 M-FC03, Quesiti situazionali EPNE, come professional-draft; verificati frontmatter, markdown e book-preview con 12 test passati.
-
 - 2026-07-08T20:20:00+02:00 | manual_writer | books/moduli/m-fc03-enti-non-economici/chapters/13-piano-30-60-90-inps-inail-epne.md | mode=professional_draft | output=revised_draft | knowledge=mfc03_sources_topics_memory | review_required=true
-
 - 2026-07-08T20:17:00+02:00 - Corretto capitolo 12 M-FC03, Quesiti situazionali EPNE: normalizzati accenti italiani, punteggiatura e prima pagina; test frontmatter/markdown/book-preview 12/12 passati.
-
 - 2026-07-08T20:20:00+02:00 | manual_writer | books/moduli/m-fc03-enti-non-economici/chapters/13-piano-30-60-90-inps-inail-epne.md | mode=cleanup | output=frontmatter_hidden_texto_editoriale_italian_punctuation | verification=book-preview.test.ts_7_passed
-
 - 2026-07-08T20:24:00+02:00 - Corretto capitolo 12 M-FC03: rimossa BOM iniziale che rendeva visibile il frontmatter come codice; test frontmatter/markdown/book-preview 12/12 passati.
-
 - 2026-07-08T21:55:00+02:00 | manual_writer | books/moduli/m-fc03-enti-non-economici/chapters/appendice-b-glossario-previdenza-assicurazione-prestazioni.md | mode=professional_draft | output=revised_draft | knowledge=mfc03_sources_topics_entities_chapters_memory | verification=book-preview.test.ts_7_passed | review_required=true
-
 ## 2026-07-08 - M-FC03 Appendice A vigilanza ispettiva INPS-INAIL
 - Redatta l'Appendice A `wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-a-vigilanza-ispettiva-inps-inail.md` come professional-draft.
 - Creata la source note `wiki/sources/m-fc03-inl-vigilanza-lavoro-previdenziale.md` da fonte istituzionale INL per delimitare il perimetro della vigilanza in materia di lavoro, legislazione sociale, contribuzione, assicurazione e sicurezza.
 - Verifica: `npm test -- tests/frontmatter.test.ts tests/markdown.test.ts tests/book-preview.test.ts` eseguito con successo, 13 test passati.
-
 ## 2026-07-08 - M-FC03 Appendice C schede rapide enti
 - Redatta l'Appendice C `wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-c-schede-rapide-aci-enac-istat-enea-asi-cri.md` come professional-draft.
 - Creata la source note `wiki/sources/m-fc03-fonti-ufficiali-appendice-c-enti-orientamento-2026.md` e riacquisita fonte ufficiale CONI.
-- Verifica: `npm test -- tests/frontmatter.test.ts tests/markdown.test.ts tests/book-preview.test.ts` eseguito con successo, 13 test passati.
-
 ## 2026-07-08 - M-FC03 Appendice D errori tipici nei bandi EPNE
 - Redatta l'Appendice D `wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-d-errori-tipici-bandi-epne.md` come professional-draft.
 - Impostata come guida operativa agli errori di lettura del bando: portale, gestore, ente, materie, rettifiche, allegati, prove e dati instabili.
 - Verifica: `npm test -- tests/book-preview.test.ts` eseguito con successo, 7 test passati.
-
 ## 2026-07-08 - M-FC03 Appendice E rinvii ragionati
 - Redatta l'Appendice E `wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-e-rinvii-ragionati-altri-moduli.md` come professional-draft.
 - Definiti rinvii ragionati verso M-IR03, M-TR01, M-TR02, M-FC02, M-FC05, moduli sanitari e carriere speciali, in coerenza con architettura moduli e matrice M-FC03.
-- Verifica: `npm test -- tests/frontmatter.test.ts tests/markdown.test.ts tests/book-preview.test.ts` eseguito con successo, 13 test passati.
-
 ## 2026-07-08 - VOL-03 Fisco, Dogane, Previdenza e Ispettivo
 - Analizzato il file `C:/Users/aless/OneDrive/Desktop/Sviluppo VOL-03 come volume composi.txt` e impostato VOL-03 come volume composito M-FC02 + M-FC03, senza duplicare VOL-01.
 - Scaricate fonti ufficiali aggiuntive in `wiki/raw/vol-03-fisco-dogane-previdenza-ispettivo/`: Statuto contribuente, sanzioni tributarie, processo tributario, vigilanza lavoro, sicurezza lavoro, riforma pensionistica, Reg. UE 952/2013, INAIL concorsi e INL vigilanza.
 - Creata la source note `wiki/sources/vol-03-fonti-specialistiche-fisco-dogane-previdenza-ispettivo.md`.
 - Creato il volume `wiki/books/volumi/vol-03-fisco-dogane-previdenza-ispettivo/` con index, piano editoriale e front matter: servizi digitali, frontespizio, copyright/note editoriali, sommario, premessa e indice dettagliato.
-
 ## 2026-07-08 - Correzione gerarchia VOL-03 libro/moduli
 - Recepita la regola editoriale: ogni volume corrisponde a un libro; i moduli sono sezioni interne del libro.
 - Aggiornati index, piano editoriale, front matter e source note VOL-03 per dichiarare M-FC02 come Modulo 1 e M-FC03 come Modulo 2 del libro VOL-03.
-
 - 2026-07-17T20:30:00+02:00 | vol-03-rebuild | audit, 20 fonti ufficiali acquisite, corpus consolidato, indice analitico e front matter sostituiti | status=source_ready | review_required=true
+- 2026-05-10T00:00:00.000Z | ingest | Manuale di diritto amministrativo | source=sources/manuale-diritto-amministrativo-lopilato.md | topics=diritto amministrativo, fonti del diritto, organizzazione pubblica, principio di legalità | impacted=il-metodo-bando
+- 2026-05-10T00:00:00.000Z | ingest | Responsabilità dirigenziale, performance e governo del rischio | source=sources/responsabilita-dirigenziale-legalita-organizzativa-performance-rischio.md | topics=responsabilità dirigenziale, performance amministrativa, governo del rischio, contratti pubblici, PNRR | impacted=il-metodo-bando
+- 2026-05-25T10:35:26.538Z | ingest | Legge 14 gennaio 1994, n. 20 - responsabilità erariale | source=sources/legge-14-gennaio-1994-n-20-responsabilita-erariale.md | topics=diritto costituzionale, diritto amministrativo, contabilita pubblica | impacted=il-metodo-bando
+- 2026-05-25T10:35:26.538Z | hermes_import | Legge 14 gennaio 1994, n. 20 - responsabilità erariale | url=https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;20!vig=/ | source=sources/legge-14-gennaio-1994-n-20-responsabilita-erariale.md | chapter=none | writer=no
+- 2026-07-16T19:55:00+02:00 | canonical_typography_update | all_volumes_and_modules | rule=H1_Arial_Bold_20pt,H2_Arial_Bold_14pt,H3_Arial_Bold_12pt,body_Garamond_Regular_11pt_lineheight_1.18,tables_quiz_schemes_boxes_Arial_9.5pt | scope=shared_renderer,manual_writer,editorial_reviewer,design_system,existing_and_future_books | VOL01=375_pages,median_free_96px,average_free_111px,overflow_0 | images=all_preserved | verification=typecheck,test_30,build,book_studio_layout_base_mfc01,volume01_page_fill

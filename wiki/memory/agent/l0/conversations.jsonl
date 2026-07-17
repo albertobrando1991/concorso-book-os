@@ -95,3 +95,6 @@
 {"id":"conv-20260708215500-mfc03-appendice-b-glossario","scope":"manual-writer","createdAt":"2026-07-08T21:55:00+02:00","l0Path":"l0/conv-20260708215500-mfc03-appendice-b-glossario.md","route":"codex/mfc03-appendice-b-glossario","messageCount":1,"replyChars":500}
 {"id":"conv-20260708221000-mfc03-appendice-d-errori-bandi","scope":"manual-writer","createdAt":"2026-07-08T22:10:00+02:00","l0Path":"l0/conv-20260708221000-mfc03-appendice-d-errori-bandi.md","route":"codex/mfc03-appendice-d-errori-bandi","messageCount":1,"replyChars":520}
 {"id":"conv-20260717174310-hh9y2e","createdAt":"2026-07-17T17:43:10.899Z","scope":"manual-writer","route":"Codex.vol03.rebuild","l0Path":"l0\\conv-20260717174310-hh9y2e.md","messageCount":1,"replyChars":185}
+{"id":"conv-20260716175048-14p2j85","createdAt":"2026-07-16T17:50:48.140Z","scope":"editorial-layout","route":"Codex.canonicalTypographySystem","l0Path":"l0\\conv-20260716175048-14p2j85.md","messageCount":1,"replyChars":368}
+{"id":"conv-20260717142423-9pa203","createdAt":"2026-07-17T14:24:23.074Z","scope":"global","route":"codex/dashboard-open","l0Path":"l0\\conv-20260717142423-9pa203.md","messageCount":1,"replyChars":242}
+{"id":"conv-20260717143553-1cfo53p","createdAt":"2026-07-17T14:35:53.605Z","scope":"global","route":"codex/git-delivery","l0Path":"l0\\conv-20260717143553-1cfo53p.md","messageCount":1,"replyChars":359}
