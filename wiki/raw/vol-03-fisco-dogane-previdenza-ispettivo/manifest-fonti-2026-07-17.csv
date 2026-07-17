@@ -1,0 +1,29 @@
+module;area;source_id;title;authority;url;local_path;source_date;retrieved_at;status;sha256;notes
+VOL-03;dossier;vol-03-dossier-v4;Dossier editoriale v4;autore;local;wiki/raw/vol-03-fisco-dogane-previdenza-ispettivo/vol-03-fisco-dogane-previdenza-ispettivo-dossier-v4.md;2026-07-17;2026-07-17;riutilizzabile;;fonte editoriale non normativa
+M-FC02;tributario;statuto-contribuente;Legge 212/2000;Normattiva;https://www.normattiva.it/;wiki/raw/vol-03-fisco-dogane-previdenza-ispettivo/normattiva-legge-2000-212.html;2000;2026-07-17;da_aggiornare;;verificare versione vigente
+M-FC02;redditi;tuir;DPR 917/1986;Normattiva;https://www.normattiva.it/;wiki/raw/m-fc02-agenzie-fiscali/normattiva-dpr-917-1986.html;1986;2026-07-17;riutilizzabile;;testo locale presente
+M-FC02;iva;iva;DPR 633/1972;Normattiva;https://www.normattiva.it/;wiki/raw/m-fc02-agenzie-fiscali/normattiva-dpr-633-1972.html;1972;2026-07-17;riutilizzabile;;testo locale presente
+M-FC02;accertamento;accertamento;DPR 600/1973;Normattiva;https://www.normattiva.it/;wiki/raw/m-fc02-agenzie-fiscali/normattiva-dpr-600-1973.html;1973;2026-07-17;da_aggiornare;;verificare riforme
+M-FC02;riscossione;riscossione;DPR 602/1973;Normattiva;https://www.normattiva.it/;wiki/raw/m-fc02-agenzie-fiscali/normattiva-dpr-602-1973.html;1973;2026-07-17;da_aggiornare;;verificare riforma
+M-FC02;compliance;adempimento-collaborativo;D.Lgs. 128/2015;Normattiva;https://www.normattiva.it/;wiki/raw/m-fc02-agenzie-fiscali/normattiva-dlgs-128-2015.html;2015;2026-07-17;da_aggiornare;;soglie mobili
+M-FC02;sanzioni;sanzioni-tributarie;D.Lgs. 471 e 472/1997;Normattiva;https://www.normattiva.it/;;1997;2026-07-17;mancante;;acquisire testi coordinati
+M-FC02;penale;reati-tributari;D.Lgs. 74/2000;Normattiva;https://www.normattiva.it/;wiki/raw/m-fc02-agenzie-fiscali/normattiva-dlgs-74-2000.html;2000;2026-07-17;da_aggiornare;;verificare testo vigente
+M-FC02;processo;processo-tributario;D.Lgs. 546/1992;Normattiva;https://www.normattiva.it/;;1992;2026-07-17;mancante;;acquisire testo vigente
+M-FC02;dogane;cdu;Regolamento UE 952/2013;EUR-Lex;https://eur-lex.europa.eu/;wiki/raw/m-fc02-agenzie-fiscali/eurlex-reg-ue-952-2013-cdu.html;2013;2026-07-17;da_aggiornare;;integrare atti collegati
+M-FC02;accise;tua;D.Lgs. 504/1995;Normattiva;https://www.normattiva.it/;wiki/raw/m-fc02-agenzie-fiscali/normattiva-dlgs-504-1995.html;1995;2026-07-17;da_aggiornare;;testo vigente
+M-FC02;bandi;bandi-ae-adm-ader;Bandi rappresentativi 2023-2026;inPA e enti;https://www.inpa.gov.it/;wiki/raw/m-fc02-agenzie-fiscali/;2023-2026;2026-07-17;riutilizzabile;;12 avvisi presenti
+M-FC03;previdenza;assicurazioni-sociali;RDL 1827/1935;Normattiva;https://www.normattiva.it/;wiki/raw/vol-03-fisco-dogane-previdenza-ispettivo/normattiva-rdl-1935-1827.html;1935;2026-07-17;da_aggiornare;;schedare
+M-FC03;previdenza;riforma-pensioni;Legge 335/1995;Normattiva;https://www.normattiva.it/;wiki/raw/m-fc03-enti-non-economici/normattiva-legge-1995-335.html;1995;2026-07-17;da_aggiornare;;requisiti mobili
+M-FC03;ordinamento;enti-previdenza;D.Lgs. 479/1994;Normattiva;https://www.normattiva.it/;wiki/raw/m-fc03-enti-non-economici/normattiva-dlgs-1994-479.html;1994;2026-07-17;riutilizzabile;;testo locale
+M-FC03;inail;tu-infortuni;DPR 1124/1965;Normattiva;https://www.normattiva.it/;wiki/raw/m-fc03-enti-non-economici/normattiva-dpr-1965-1124.html;1965;2026-07-17;riutilizzabile;;testo locale
+M-FC03;inail;riforma-inail;D.Lgs. 38/2000;Normattiva;https://www.normattiva.it/;wiki/raw/m-fc03-enti-non-economici/normattiva-dlgs-2000-38.html;2000;2026-07-17;riutilizzabile;;testo locale
+M-FC03;isee;isee;DPCM 159/2013;Normattiva;https://www.normattiva.it/;;2013;2026-07-17;mancante;;acquisire
+M-FC03;ammortizzatori;ammortizzatori;D.Lgs. 148/2015;Normattiva;https://www.normattiva.it/;;2015;2026-07-17;mancante;;acquisire
+M-FC03;vigilanza;funzioni-ispettive;D.Lgs. 124/2004;Normattiva;https://www.normattiva.it/;;2004;2026-07-17;mancante;;acquisire
+M-FC03;sicurezza;sicurezza-lavoro;D.Lgs. 81/2008;Normattiva;https://www.normattiva.it/;;2008;2026-07-17;da_aggiornare;;corpus trasversale
+M-FC03;sanzioni;sanzioni-amministrative;Legge 689/1981;Normattiva;https://www.normattiva.it/;;1981;2026-07-17;mancante;;acquisire
+M-FC03;personale;ccnl-funzioni-centrali;CCNL vigente;ARAN;https://www.aranagenzia.it/;;vigente;2026-07-17;da_aggiornare;;verificare contratto
+M-FC03;bandi;bando-inail-308;RIPAM INAIL 308;inPA/Formez;https://www.inpa.gov.it/;wiki/raw/m-fc03-enti-non-economici/bando-ripam-inail-308-funzionari-assistenti-sociali-2024.pdf;2024;2026-07-17;riutilizzabile;;fonte locale
+M-FC03;bandi;bando-cps-inps;Consulente protezione sociale INPS;INPS/inPA;https://www.inpa.gov.it/;;2023-2026;2026-07-17;mancante;;acquisire avviso e allegati
+M-FC03;bandi;bando-ispettori-inps-inail;Ispettori vigilanza INPS-INAIL;inPA/Formez;https://www.inpa.gov.it/;;2023-2026;2026-07-17;mancante;;acquisire avviso e allegati
+
