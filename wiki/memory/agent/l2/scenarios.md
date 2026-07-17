@@ -718,3 +718,27 @@
 - atoms:
   - mem-20260716165102-16yuo3g | project_fact | Sistema l'anteprima del libro: e cambiata, le immagini sono sotto e non e ottimizzata come prima.
   - mem-20260716165102-vdvg0c | result | Esito Codex.bookStudioPreviewRegressionFix: Sistema l'anteprima del libro: e cambiata, le immagini sono sotto e non e ottimizzata come prima. -> Individuata una sovrapposizione tra il pannello Asset libro e la preview A4 causata dalla griglia desktop a due colonne con controlli sticky.
+
+## 2026-07-16T17:50:48.140Z - editorial-layout
+
+- conversation_id: conv-20260716175048-14p2j85
+- route: Codex.canonicalTypographySystem
+- l0: l0/conv-20260716175048-14p2j85.md
+- atoms:
+  - mem-20260716175048-savrbb | result | Esito Codex.canonicalTypographySystem: Applicare a tutti i libri, esistenti e futuri, questa struttura: H1/H2/H3 Arial Bold 18-20/14/12 pt; corpo Garamond Regular 11 pt con interlinea 1,15-1,20; tabelle, quiz, schemi e box Arial 9,5-10 pt. -> Standard canonico applicato al renderer condiviso, al Manual Writer, al Revisore Editoriale e alla documentazione di collana.
+
+## 2026-07-17T14:24:23.074Z - global
+
+- conversation_id: conv-20260717142423-9pa203
+- route: codex/dashboard-open
+- l0: l0/conv-20260717142423-9pa203.md
+- atoms:
+  - mem-20260717142423-1r6zl25 | result | Esito codex/dashboard-open: apri dashboard -> Dashboard ConcorsoBook ripristinata sulla porta 3000: fermata l'istanza Next bloccata, rimossa esclusivamente la cache generata .next, riavviato il launcher ufficiale, verificati homepage e CSS con HTTP 200 e aperto i...
+
+## 2026-07-17T14:35:53.605Z - global
+
+- conversation_id: conv-20260717143553-1cfo53p
+- route: codex/git-delivery
+- l0: l0/conv-20260717143553-1cfo53p.md
+- atoms:
+  - mem-20260717143553-gu8wy8 | result | Esito codex/git-delivery: fai commit e push del progetto attuale -> Preparata la consegna su main dell'aggiornamento tipografico canonico Arial/Garamond.

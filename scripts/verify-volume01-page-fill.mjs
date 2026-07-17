@@ -12,6 +12,8 @@ try {
   await page.locator("#studio").scrollIntoViewIfNeeded()
   await page.getByRole("button", { name: "Libro", exact: true }).click()
   await page.waitForSelector(".bookPages .bookPage", { timeout: 120_000 })
+  await page.evaluate(() => document.fonts.ready)
+  await waitForBookImages(page)
   await waitForStablePagination(page)
 
   const pages = await page.$$eval(".bookPages .bookPage", (elements) => {
@@ -25,12 +27,14 @@ try {
         return rect.width > 0 && rect.height > 0
       })
       const lastChild = visibleChildren.at(-1)
-      const lastRect = lastChild?.getBoundingClientRect()
       const firstTitle = element.querySelector(".chapterPreviewHeader h2")?.textContent?.trim()
       const runningTitle = element.querySelector(".runningHeader span")?.textContent?.trim()
       const title = firstTitle || runningTitle || "Front matter"
       const safeBottom = footerRect?.top ?? pageRect.bottom
-      const contentBottom = lastRect?.bottom ?? content?.getBoundingClientRect().bottom ?? pageRect.top
+      const contentBottom = Math.max(
+        content?.getBoundingClientRect().bottom ?? pageRect.top,
+        ...visibleChildren.map((child) => child.getBoundingClientRect().bottom)
+      )
 
       return {
         page: index + 1,
@@ -49,7 +53,9 @@ try {
     }))
   })
 
-  const nonFinalPages = pages.filter((item) => !item.isLastChapterPage)
+  const nonFinalPages = pages.filter(
+    (item) => !item.isLastChapterPage && item.title !== "Front matter" && item.title !== "Indice"
+  )
   const report = {
     generatedAt: new Date().toISOString(),
     pageCount: pages.length,
@@ -99,17 +105,49 @@ function median(values) {
 }
 
 async function waitForStablePagination(page) {
-  let previous = -1
+  let previous = ""
   let stableChecks = 0
 
-  for (let attempt = 0; attempt < 30; attempt += 1) {
-    const current = await page.locator(".bookPages .bookPage").count()
-    if (current === previous && current > 0) stableChecks += 1
+  for (let attempt = 0; attempt < 60; attempt += 1) {
+    const current = await page.$$eval(".bookPages .bookPage", (pages) =>
+      pages.map((bookPage) => {
+        const text = bookPage.textContent?.replace(/\s+/g, " ").trim() || ""
+        return `${text.length}:${text.slice(-80)}`
+      }).join("|")
+    )
+    if (current === previous && current.length > 0) stableChecks += 1
     else stableChecks = 0
-    if (stableChecks >= 3) return
+    if (stableChecks >= 4) {
+      await page.waitForTimeout(1_500)
+      const confirmation = await page.$$eval(".bookPages .bookPage", (pages) =>
+        pages.map((bookPage) => {
+          const text = bookPage.textContent?.replace(/\s+/g, " ").trim() || ""
+          return `${text.length}:${text.slice(-80)}`
+        }).join("|")
+      )
+      if (confirmation === current) return
+      previous = confirmation
+      stableChecks = 0
+      continue
+    }
     previous = current
-    await page.waitForTimeout(500)
+    await page.waitForTimeout(750)
   }
+}
+
+async function waitForBookImages(page) {
+  await page.$$eval(".bookPages img", async (images) => {
+    for (const image of images) image.loading = "eager"
+    await Promise.all(images.map(async (image) => {
+      if (!image.complete) {
+        await new Promise((resolve) => {
+          image.addEventListener("load", resolve, { once: true })
+          image.addEventListener("error", resolve, { once: true })
+        })
+      }
+      await image.decode?.().catch(() => undefined)
+    }))
+  })
 }
 
 async function launchBrowser() {

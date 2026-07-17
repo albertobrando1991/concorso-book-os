@@ -6,10 +6,10 @@ status: canonical
 domain: "concorsi pubblici italiani"
 topics: ["book design","typography","manual layout","workbook","metodo bando"]
 entities: ["Metodo BANDO","Bando Decoder","Manual Writer Agent"]
-source_refs: ["sources/book-layout-typography-standards.md","sources/struttura-madre-il-metodo-bando.md","sources/metodo-bando-progetto-editoriale.md","sources/vol-01-il-metodo-bando-struttura-2026-07-14.md"]
-book_refs: ["il-metodo-bando"]
+source_refs: ["sources/book-layout-typography-standards.md","sources/struttura-madre-il-metodo-bando.md","sources/metodo-bando-progetto-editoriale.md","sources/vol-01-il-metodo-bando-struttura-2026-07-14.md","sources/specifica-tipografica-arial-garamond-2026-07-16.md"]
+book_refs: ["il-metodo-bando","moduli-specialistici","volumi-concorsobook"]
 confidence: 0.92
-updated_at: 2026-07-14T19:00:00+02:00
+updated_at: 2026-07-16T19:30:00+02:00
 created_at: 2026-05-10T12:59:21+02:00
 review_required: false
 canonical: true
@@ -39,7 +39,7 @@ Decisione applicata:
 - usare un master A4 verticale per scrittura, revisione e anteprima;
 - derivare dal master il formato commerciale compatto 17 x 24 cm;
 - mantenere il colore pagina gia' in uso nella preview;
-- adottare Source Serif 4 per il corpo e Source Sans 3 per titoli, box e strumenti; Playfair Display resta limitato alle aperture di capitolo e agli elementi display;
+- adottare Garamond per il corpo e Arial per titoli, box, tabelle, quiz e strumenti;
 - usare palette controllata Navy, Bordeaux, Muted Gold, Off-White e Rich Black;
 - usare template ricorrenti riconoscibili: Ancora, Valore, Caso pratico, Diario, Profilo;
 - conservare margini ottimizzati per legatura, leggibilita e workbook.
@@ -125,29 +125,27 @@ Bleed:
 Scelta applicata:
 
 ```text
-Corpo testo: Source Serif 4
-Titoli, box, tabelle e workbook: Source Sans 3
-Aperture capitolo e titoli display: Playfair Display, con uso limitato
-Fallback corpo: Charter, Georgia, Times New Roman, serif
-Fallback sans: Segoe UI, Arial, sans-serif
+Corpo testo: Garamond Regular
+Titoli H1/H2/H3: Arial Bold
+Tabelle, quiz, schemi, box e workbook: Arial Regular/Bold
+Fallback corpo: Adobe Garamond Pro, EB Garamond, Georgia, Times New Roman, serif
+Fallback sans: Helvetica, sans-serif
 ```
 
 Motivo:
-- Source Serif 4 garantisce una lettura lunga piu naturale;
-- Source Sans 3 distingue istruzioni, dati, liste e procedure;
-- Playfair Display costruisce autorevolezza nelle sole aperture;
-- non introdurre altri font e non usare piu di tre pesi nella stessa pagina.
+- Garamond alleggerisce la lettura prolungata di spiegazioni e normativa;
+- Arial crea una gerarchia immediata nei titoli e rende dati e strumenti facilmente scansionabili;
+- la coppia Arial/Garamond deve restare identica in tutti i volumi, moduli, revisioni ed export;
+- non introdurre font display aggiuntivi nel corpo libro e non usare piu di tre pesi nella stessa pagina.
 
-Alternative premium per impaginazione finale:
-- Minion Pro per corpo;
-- Myriad Pro o Source Sans 3 per titoli e box.
+La specifica e' retroattiva: il renderer A4 condiviso applica Arial/Garamond a tutti i libri gia scritti senza modificare o eliminare testo, tabelle, box e immagini. Le immagini raster gia prodotte restano integre; quando uno schema viene rigenerato, il testo interno deve usare Arial.
 
 ## Dimensioni tipografiche stampa
 Corpo principale:
 
 ```text
-Source Serif 4 Regular 10-10,5 pt
-interlinea: 12,5-13,2 pt
+Garamond Regular 11 pt
+interlinea: 1,15-1,20 (target 1,18)
 spazio dopo paragrafo: 3-5 pt
 allineamento: giustificato nella preview/PDF con sillabazione controllata
 ```
@@ -155,12 +153,12 @@ allineamento: giustificato nella preview/PDF con sillabazione controllata
 Titoli:
 
 ```text
-H1 capitolo: 24-30 pt Playfair Display Semibold/Bold
-H2 sezione: 15-17 pt Source Sans 3 Bold
-H3 blocco operativo: 10-12 pt Source Sans 3 Semibold/Bold
-Didascalie: 8-9 pt Source Sans 3
-Note/fonti: 8-9 pt Source Sans 3
-Tabelle/workbook: 7,5-8,5 pt Source Sans 3
+H1 capitolo: 18-20 pt Arial Bold (target 20 pt)
+H2 sezione/paragrafo: 14 pt Arial Bold
+H3 sotto-paragrafo: 12 pt Arial Bold
+Didascalie: 9 pt Arial
+Note/fonti: 8,5-9 pt Arial
+Tabelle, quiz, schemi e box: 9,5-10 pt Arial
 ```
 
 Riga:
@@ -175,10 +173,10 @@ Preview dashboard:
 
 ```text
 formato pagina: A4 verticale
-corpo: circa 13 px Source Serif 4
-line-height: 1.45
+corpo: Garamond Regular 11 pt
+line-height: 1.18
 larghezza testo: max 64ch
-spaziatura paragrafo: 0.55-0.65rem
+spaziatura paragrafo: 4 pt
 ```
 
 Il digitale deve restare accessibile: il layout non deve rompersi se il lettore aumenta interlinea o spaziatura.
@@ -239,7 +237,8 @@ I box non devono diventare decorazione: ogni box deve produrre utilita didattica
 
 ## Tabelle e schemi
 Tabelle:
-- intestazioni sans serif;
+- testo e intestazioni Arial 9,5-10 pt;
+- intestazioni Arial Bold;
 - righe leggere;
 - zebra striping molto tenue;
 - evitare tabelle fitte dentro il testo principale;
@@ -309,6 +308,8 @@ Il testo deve alternare:
 
 ## Regole per Manual Writer Agent
 Quando il writer riceve `format`, `improve`, `integrate` o `expand`, deve applicare questo design system:
+- usare Garamond 11 pt come corpo editoriale e gerarchie Arial Bold 20/14/12 pt;
+- progettare tabelle, quiz, schemi e box per Arial 9,5-10 pt;
 - non produrre blocchi lunghi senza sottotitoli;
 - usare box ricorrenti quando aggiungono funzione;
 - mantenere paragrafi brevi;

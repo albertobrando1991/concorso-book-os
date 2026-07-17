@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&family=Playfair+Display:wght@600;700&family=Source+Sans+3:wght@400;600;700;800&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600;700;800&display=swap");
 
 :root {
   --bg: #f6f7f9;
@@ -11,9 +11,10 @@
   --amber: #ad6b00;
   --red: #b42318;
   --nav: #202936;
-  --manual-serif: "Source Serif 4", Charter, Georgia, "Times New Roman", serif;
-  --manual-sans: "Source Sans 3", "Segoe UI", Arial, Helvetica, sans-serif;
-  --book-display: "Playfair Display", Georgia, "Times New Roman", serif;
+  --ui-sans: "Source Sans 3", "Segoe UI", Arial, Helvetica, sans-serif;
+  --manual-serif: Garamond, "Adobe Garamond Pro", "EB Garamond", Georgia, "Times New Roman", serif;
+  --manual-sans: Arial, Helvetica, sans-serif;
+  --book-display: Arial, Helvetica, sans-serif;
   --book-body: var(--manual-serif);
   --book-navy: #0f172a;
   --book-rich-black: #020617;
@@ -38,7 +39,7 @@ body {
   margin: 0;
   background: var(--bg);
   color: var(--ink);
-  font-family: var(--manual-sans);
+  font-family: var(--ui-sans);
 }
 
 a {
@@ -825,7 +826,7 @@ h1 {
   border-top: 2px solid var(--book-gold);
   color: var(--book-gold);
   font-family: var(--manual-sans);
-  font-size: 14px;
+  font-size: 10pt;
   font-weight: 800;
   letter-spacing: 0;
   line-height: 1;
@@ -836,16 +837,17 @@ h1 {
 .chapterPreviewHeader h2 {
   color: var(--book-navy);
   font-family: var(--book-display);
-  font-size: clamp(24px, 4vw, 31px);
+  font-size: 20pt;
   font-weight: 700;
-  line-height: 1.05;
+  line-height: 1.1;
   margin: 0 0 8px;
 }
 
 .chapterPreviewHeader p {
   margin: 0;
   color: var(--muted);
-  font-size: 13px;
+  font-family: var(--manual-sans);
+  font-size: 9.5pt;
 }
 
 .runningHeader {
@@ -857,7 +859,7 @@ h1 {
   padding-bottom: 5px;
   color: var(--book-navy);
   font-family: var(--manual-sans);
-  font-size: 9.5px;
+  font-size: 8pt;
   font-weight: 700;
   text-transform: uppercase;
 }
@@ -867,8 +869,8 @@ h1 {
   max-width: 100%;
   margin: 0 auto;
   font-family: var(--book-body);
-  font-size: 12.2px;
-  line-height: 1.34;
+  font-size: 11pt;
+  line-height: 1.18;
 }
 
 .previewBlocks h3,
@@ -876,40 +878,40 @@ h1 {
 .previewBlocks h5 {
   font-family: var(--manual-sans);
   letter-spacing: 0;
-  line-height: 1.25;
+  line-height: 1.15;
   break-after: avoid;
   page-break-after: avoid;
 }
 
 .previewBlocks h3 {
-  margin: 12px 0 4px;
+  margin: 10pt 0 4pt;
   color: var(--book-bordeaux);
   font-family: var(--manual-sans);
-  font-size: 18px;
+  font-size: 14pt;
   font-weight: 700;
-  line-height: 1.12;
+  line-height: 1.15;
 }
 
 .previewBlocks h4 {
-  margin: 8px 0 3px;
+  margin: 7pt 0 3pt;
   color: var(--book-navy);
   font-family: var(--manual-sans);
-  font-size: 12.7px;
-  font-weight: 800;
+  font-size: 12pt;
+  font-weight: 700;
   text-transform: uppercase;
 }
 
 .previewBlocks h5 {
-  margin: 7px 0 3px;
+  margin: 6pt 0 3pt;
   color: var(--book-bordeaux);
   font-family: var(--manual-sans);
-  font-size: 11.5px;
-  font-weight: 800;
+  font-size: 11pt;
+  font-weight: 700;
   text-transform: uppercase;
 }
 
 .previewBlocks p {
-  margin: 0 0 4px;
+  margin: 0 0 4pt;
   hyphens: auto;
   orphans: 3;
   text-align: justify;
@@ -919,13 +921,13 @@ h1 {
 
 .previewBlocks ul,
 .previewBlocks ol {
-  margin: 0 0 5px 14px;
+  margin: 0 0 5pt 14pt;
   padding: 0;
 }
 
 .previewBlocks li {
   break-inside: avoid;
-  margin-bottom: 2px;
+  margin-bottom: 2pt;
   hyphens: auto;
   orphans: 2;
   text-align: justify;
@@ -949,8 +951,8 @@ h1 {
   width: 100%;
   border-collapse: collapse;
   font-family: var(--manual-sans);
-  font-size: 9.6px;
-  line-height: 1.14;
+  font-size: 9.5pt;
+  line-height: 1.15;
   table-layout: fixed;
 }
 
@@ -967,7 +969,7 @@ h1 {
 .previewTable th,
 .previewTable td {
   border: 1px solid #ddd5c3;
-  padding: 3px 3.5px;
+  padding: 3pt 3.5pt;
   hyphens: auto;
   overflow-wrap: anywhere;
   text-align: left;
@@ -1010,9 +1012,9 @@ h1 {
   max-width: min(100%, 420px);
   margin: 5px auto 0;
   color: var(--muted);
-  font-family: var(--book-body);
-  font-size: 10.5px;
-  line-height: 1.35;
+  font-family: var(--manual-sans);
+  font-size: 9pt;
+  line-height: 1.2;
 }
 
 .previewBlocks pre {
@@ -1094,9 +1096,9 @@ h1 {
   border-top: 1px solid rgba(212, 175, 55, 0.72);
   padding-top: 6px;
   color: var(--book-navy);
-  font-family: var(--book-body);
-  font-size: 9.5px;
-  font-weight: 600;
+  font-family: var(--manual-sans);
+  font-size: 8.5pt;
+  font-weight: 700;
 }
 
 .bandoPhaseBar {
@@ -1121,7 +1123,7 @@ h1 {
 .bandoPhaseBar strong,
 .bandoPhaseBar small {
   display: block;
-  font-family: var(--book-body);
+  font-family: var(--manual-sans);
   line-height: 1.05;
 }
 
@@ -1147,14 +1149,14 @@ h1 {
   border-left: 4px solid var(--book-bordeaux);
   background: rgba(248, 250, 252, 0.78);
   padding: 7px 9px;
-  font-family: var(--book-body);
+  font-family: var(--manual-sans);
 }
 
 .previewCallout strong {
   display: block;
   margin-bottom: 3px;
   color: var(--book-bordeaux);
-  font-size: 10.5px;
+  font-size: 9.5pt;
   font-weight: 800;
   line-height: 1.2;
   text-transform: uppercase;
@@ -1162,8 +1164,8 @@ h1 {
 
 .previewCallout p {
   margin: 0;
-  font-size: 11.2px;
-  line-height: 1.32;
+  font-size: 9.5pt;
+  line-height: 1.2;
   text-align: left;
 }
 
@@ -1193,9 +1195,9 @@ h1 {
   margin: -6px auto 9px;
   max-width: min(100%, 420px);
   color: #5c6471;
-  font-family: var(--book-body);
-  font-size: 10.2px;
-  line-height: 1.32;
+  font-family: var(--manual-sans);
+  font-size: 9pt;
+  line-height: 1.2;
   text-align: center;
 }
 
@@ -1208,8 +1210,8 @@ h1 {
   z-index: 1;
   border-bottom: 1px solid rgba(212, 175, 55, 0.72);
   color: var(--book-bordeaux);
-  font-family: var(--book-body);
-  font-size: 9.5px;
+  font-family: var(--manual-sans);
+  font-size: 9pt;
   font-weight: 800;
   letter-spacing: 0;
   margin-bottom: 18px;
@@ -1220,14 +1222,15 @@ h1 {
 .frontMatterBlocks {
   position: relative;
   z-index: 1;
-  font-size: 11.8px;
-  line-height: 1.38;
+  font-family: var(--book-body);
+  font-size: 11pt;
+  line-height: 1.18;
 }
 
 .frontMatterBlocks > h3:first-child {
   color: var(--book-navy);
   font-family: var(--book-display);
-  font-size: 30px;
+  font-size: 20pt;
   line-height: 1.08;
   margin: 8px 0 18px;
   text-align: center;
@@ -1235,12 +1238,14 @@ h1 {
 
 .frontMatterBlocks h3 {
   color: var(--book-bordeaux);
-  font-size: 16px;
+  font-family: var(--manual-sans);
+  font-size: 14pt;
 }
 
 .frontMatterBlocks h4 {
   color: var(--book-navy);
-  font-size: 11.4px;
+  font-family: var(--manual-sans);
+  font-size: 12pt;
 }
 
 .frontMatterFooter {
@@ -1250,8 +1255,8 @@ h1 {
 .frontMatterMeasureHeader {
   grid-column: 1 / -1;
   color: var(--book-navy);
-  font-family: var(--book-body);
-  font-size: 10px;
+  font-family: var(--manual-sans);
+  font-size: 9pt;
   font-weight: 800;
   text-transform: uppercase;
 }
@@ -1277,14 +1282,14 @@ h1 {
 
 .frontMatter-title-page .frontMatterBlocks > h3:first-child {
   color: var(--book-navy);
-  font-size: 42px;
+  font-size: 30pt;
   margin-bottom: 16px;
 }
 
 .frontMatter-title-page .frontMatterBlocks h3:not(:first-child) {
   color: var(--book-bordeaux);
-  font-family: var(--book-body);
-  font-size: 15px;
+  font-family: var(--manual-sans);
+  font-size: 12pt;
   margin-top: 42px;
   text-transform: uppercase;
 }
@@ -1303,7 +1308,7 @@ h1 {
   left: 0;
   color: var(--book-navy);
   font-family: var(--book-display);
-  font-size: 18px;
+  font-size: 14pt;
   font-weight: 700;
   text-align: center;
 }
@@ -1325,15 +1330,16 @@ h1 {
 .digitalHeroCopy h3 {
   color: var(--book-offwhite);
   font-family: var(--book-display);
-  font-size: 30px;
+  font-size: 20pt;
   line-height: 1.05;
   margin: 0 0 12px;
 }
 
 .digitalHeroCopy p {
   color: #e7edf6;
-  font-size: 11.4px;
-  line-height: 1.42;
+  font-family: var(--book-body);
+  font-size: 11pt;
+  line-height: 1.18;
   margin: 0;
   text-align: left;
 }
@@ -1364,20 +1370,21 @@ h1 {
 
 .digitalServicesContent {
   padding: 18px 34px 50px;
-  font-size: 10.7px;
-  line-height: 1.31;
+  font-family: var(--book-body);
+  font-size: 11pt;
+  line-height: 1.18;
 }
 
 .digitalServicesContent h3 {
   color: var(--book-bordeaux);
-  font-family: var(--book-body);
-  font-size: 11.5px;
+  font-family: var(--manual-sans);
+  font-size: 14pt;
   margin: 9px 0 5px;
   text-transform: uppercase;
 }
 
 .digitalServicesContent .previewTable {
-  font-size: 8.7px;
+  font-size: 9.5pt;
   line-height: 1.15;
 }
 
@@ -1392,21 +1399,26 @@ h1 {
 }
 
 .digitalServicesContent .previewCallout strong {
-  font-size: 9.3px;
+  font-size: 9.5pt;
 }
 
-.digitalServicesContent .previewCallout p,
-.digitalServicesContent li,
-.digitalServicesContent p {
-  font-size: 10.2px;
-  line-height: 1.3;
+.digitalServicesContent > p,
+.digitalServicesContent > ul li,
+.digitalServicesContent > ol li {
+  font-size: 11pt;
+  line-height: 1.18;
+}
+
+.digitalServicesContent .previewCallout p {
+  font-size: 9.5pt;
+  line-height: 1.2;
 }
 
 .frontMatter-summary .frontMatterBlocks,
 .frontMatter-preface .frontMatterBlocks,
 .frontMatter-copyright .frontMatterBlocks,
 .frontMatter-module-opening .frontMatterBlocks {
-  font-size: 11.2px;
+  font-size: 11pt;
 }
 
 .frontMatter-module-opening {
@@ -1417,19 +1429,19 @@ h1 {
 
 .frontMatter-module-opening .frontMatterBlocks > h3:first-child {
   color: var(--book-bordeaux);
-  font-size: 38px;
+  font-size: 20pt;
   margin-bottom: 8px;
 }
 
 .frontMatter-module-opening .frontMatterBlocks h3:nth-of-type(2) {
   color: var(--book-navy);
   font-family: var(--book-display);
-  font-size: 22px;
+  font-size: 14pt;
   text-align: center;
 }
 
 .frontMatter-module-opening .previewTable {
-  font-size: 8.8px;
+  font-size: 9.5pt;
   line-height: 1.14;
 }
 
@@ -1439,7 +1451,7 @@ h1 {
 }
 
 .frontMatter-summary .previewTable {
-  font-size: 9.2px;
+  font-size: 9.5pt;
   line-height: 1.18;
 }
 
@@ -1449,14 +1461,15 @@ h1 {
 }
 
 .frontMatter-analytical-index .frontMatterBlocks {
-  font-size: 9.4px;
-  line-height: 1.16;
+  font-family: var(--manual-sans);
+  font-size: 9.5pt;
+  line-height: 1.15;
 }
 
 .frontMatter-analytical-index .frontMatterBlocks > h3:first-child {
   border-bottom: 2px solid var(--book-gold);
   color: var(--book-navy);
-  font-size: 27px;
+  font-size: 18pt;
   margin: 0 0 10px;
   padding-bottom: 6px;
 }
@@ -1469,7 +1482,7 @@ h1 {
 .indexPart span,
 .indexPart strong {
   display: block;
-  font-family: var(--book-body);
+  font-family: var(--manual-sans);
   letter-spacing: 0;
   line-height: 1.15;
 }
@@ -1492,7 +1505,7 @@ h1 {
   grid-template-columns: 56px minmax(0, 1fr) minmax(16px, 0.24fr) 24px;
   align-items: end;
   column-gap: 5px;
-  font-family: var(--book-body);
+  font-family: var(--manual-sans);
   letter-spacing: 0;
 }
 
@@ -1564,7 +1577,7 @@ h1 {
 
 .indexEntry h4 {
   color: var(--book-navy);
-  font-family: var(--book-body);
+  font-family: var(--manual-sans);
   font-size: 10.1px;
   font-weight: 800;
   line-height: 1.15;
@@ -2489,14 +2502,6 @@ meter {
   .launchRow,
   .catalogBookLink {
     grid-template-columns: 1fr;
-  }
-
-  .chapterPreviewHeader h2 {
-    font-size: 23px;
-  }
-
-  .previewBlocks {
-    font-size: 14px;
   }
 
   h1 {

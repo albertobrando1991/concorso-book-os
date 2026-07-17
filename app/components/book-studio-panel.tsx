@@ -164,6 +164,8 @@ export function BookStudioPanel({
     const animationFrame = window.requestAnimationFrame(() => {
       measurePages()
 
+      void document.fonts?.ready.then(() => measurePages())
+
       const pendingImages = Array.from(measureRef.current?.querySelectorAll<HTMLImageElement>("img") || []).filter(
         (image) => !image.complete
       )

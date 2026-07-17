@@ -160,9 +160,10 @@
 - Promesse dell'introduzione mantenute: si. Il libro e autonomo, operativo, riutilizzabile e non richiede il digitale per essere compreso.
 - Copertura: B-PA01 cap. 4; B-PA02 cap. 5; B-PA03/B-PA04 cap. 6; B-PA05 cap. 8; B-PA06 cap. 9; B-PA07 cap. 7 e 10; B-PA08 cap. 11; B-PA09 cap. 10; B-PA10 cap. 12, 14 e 18; B-PA11 cap. 15 e 17.
 - Dimensione: circa 117.000 parole tra front matter, introduzione, capitoli 1-24 e appendici. Il target di 130.000 e di lavorazione e non richiede riempitivi.
-- Impaginazione A4: 317 pagine dopo il riflusso, contro le 593 iniziali; mediana dello spazio residuo non finale ridotta da 514 a 91 px e media finale pari a 116 px.
+- Impaginazione A4 aggiornata al 16 luglio 2026: 375 pagine dopo l'applicazione retroattiva di Garamond 11 pt e della gerarchia Arial 20/14/12 pt, contro le 593 iniziali; nelle pagine interne non finali la mediana dello spazio residuo e 96 px e la media 111 px.
 - Integrita del layout: zero pagine in overflow; immagini, tabelle, box, header e footer restano entro l'area utile. Le pause residue piu ampie dipendono da blocchi indivisibili o da front matter deliberatamente monografico.
-- Regressione automatica: `scripts/verify-volume01-page-fill.mjs` misura riempimento e overflow dell'intero volume; `scripts/verify-book-studio-layout.mjs` valida inoltre VOL-01 e M-FC01 nella preview A4.
+- Tipografia: corpo Garamond Regular 11 pt con interlinea 1,18; H1/H2/H3 Arial Bold 20/14/12 pt; tabelle, quiz, schemi e box Arial 9,5-10 pt. La stessa regola e applicata dal renderer condiviso a volumi e moduli.
+- Regressione automatica: `scripts/verify-volume01-page-fill.mjs` misura riempimento e overflow dell'intero volume dopo il caricamento dei font e delle immagini; `scripts/verify-book-studio-layout.mjs` valida inoltre tipografia, sovrapposizioni e preview A4 su VOL-01 e M-FC01.
 
 ## 6. Contenuto da verificare
 - Prima di ogni ristampa: vigenza delle fattispecie penali contro la PA.
@@ -183,7 +184,7 @@
 ## 9. Giudizio di pubblicabilita
 Pubblicabile con correzioni minori.
 
-Motivazione: le undici aree comuni sono tutte coperte, le incoerenze gravi sono state chiuse, immagini e fonti risultano integre e il test dell'intero volume A4 non rileva overflow o sovrapposizioni. Il riflusso riduce le pagine da 593 a 317 senza eliminare contenuti o immagini. Restano il normale controllo normativo pre-stampa e il futuro collaudo del formato commerciale compatto.
+Motivazione: le undici aree comuni sono tutte coperte, le incoerenze gravi sono state chiuse, immagini e fonti risultano integre e il test dell'intero volume A4 non rileva overflow o sovrapposizioni. Il riflusso aggiornato produce 375 pagine con la nuova tipografia professionale, senza eliminare contenuti o immagini e mantenendo una mediana di 96 px di spazio residuo nelle pagine interne non finali. Restano il normale controllo normativo pre-stampa e il futuro collaudo del formato commerciale compatto.
 
 ## 10. Limiti di questa revisione
 La revisione ha verificato il master digitale A4, non una prova tipografica fisica ne il PDF commerciale 17 x 24. La correttezza normativa e stata aggiornata sui punti modificati, ma un manuale giuridico richiede comunque verifica delle fonti ufficiali a ogni nuova edizione. Il controllo grammaticale e stato editoriale e statico sull'intero corpus, con lettura approfondita dei passaggi segnalati; non sostituisce una seconda correzione di bozze indipendente sul PDF definitivo.

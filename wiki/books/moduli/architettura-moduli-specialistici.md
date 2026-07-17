@@ -128,3 +128,5 @@ Per coerenza con la tassonomia a 25 moduli, M-FL03 resta in `VOL-02`. M-FC01 res
 
 ## Modalita di scrittura
 La scrittura parte dal piano editoriale del modulo. Prima di generare testo finale occorre consolidare le fonti specifiche in sources/, collegarle a topic/entity pages e poi usare Manual Writer Agent sul capitolo del modulo selezionato in dashboard.
+
+Tutti i moduli condividono il [[books/il-metodo-bando/design-system-editoriale|design system editoriale della collana]]: titoli Arial Bold 20/14/12 pt, corpo Garamond Regular 11 pt con interlinea 1,15-1,20, tabelle/quiz/schemi/box Arial 9,5-10 pt. La regola vale sia per i capitoli gia scritti sia per ogni nuova scrittura o revisione.
