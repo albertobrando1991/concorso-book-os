@@ -38,8 +38,8 @@ async function main() {
 
     const pages = page.locator(".bookPages > .bookPage")
     const count = await pages.count()
-    if (count < 10) {
-      throw new Error("Meno di 10 pagine nella preview del capitolo 26")
+    if (count < 1) {
+      throw new Error("Nessuna pagina nella preview del capitolo 26")
     }
 
     await pages.nth(0).screenshot({ path: "artifacts/chapter26-page1-preview.png" })

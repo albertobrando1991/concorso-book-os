@@ -136,20 +136,20 @@ function figureMappaBandoCapitale() {
   ]
   const boxes = items
     .map(([letter, title, body, color, fill], index) =>
-      verticalStep(115 + index * 285, 340, letter, title, body, color, fill)
+      verticalStep(115 + index * 285, 385, letter, title, body, color, fill)
     )
     .join("\n")
-  const arrows = [0, 1, 2, 3].map((index) => arrow(365 + index * 285, 460, 390 + index * 285, 460)).join("\n")
+  const arrows = [0, 1, 2, 3].map((index) => arrow(365 + index * 285, 505, 390 + index * 285, 505)).join("\n")
 
   return shell(
     "Mappa BANDO del capitale di studio",
     "Ogni concorso lascia capitale solo se produce strumenti riusabili.",
     `
     <rect class="card" x="70" y="165" width="1460" height="630" rx="30"/>
-    ${wideCard(460, 205, 680, "Concorso concluso", ["non archiviare emozioni", "trasforma in prodotti riusabili"], palette.navy, palette.blueSoft)}
+    ${wideCard(460, 195, 680, "Concorso concluso", ["non archiviare emozioni", "trasforma in prodotti riusabili"], palette.navy, palette.blueSoft)}
     ${boxes}
     ${arrows}
-    ${wideCard(500, 650, 600, "Sistema trasferibile", ["base migliore per il prossimo bando"], palette.green, palette.greenSoft)}
+    ${wideCard(500, 640, 600, "Sistema trasferibile", ["base migliore per il prossimo bando"], palette.green, palette.greenSoft)}
     ${note(250, 812, 1100, "Se manca una parte della catena BANDO, il materiale resta fragile.")}
     `
   )
@@ -241,16 +241,16 @@ function figureProtocollo30() {
     [palette.navy, palette.blueSoft]
   ]
   const cards = steps
-    .map(([time, title, body], index) => timeStep(145 + index * 220, 340, time, title, body, colors[index][0], colors[index][1]))
+    .map(([time, title, body], index) => timeStep(145 + index * 220, 430, time, title, body, colors[index][0], colors[index][1]))
     .join("\n")
-  const arrows = [0, 1, 2, 3, 4].map((index) => arrow(330 + index * 220, 455, 365 + index * 220, 455)).join("\n")
+  const arrows = [0, 1, 2, 3, 4].map((index) => arrow(330 + index * 220, 545, 365 + index * 220, 545)).join("\n")
 
   return shell(
     "Protocollo dei 30 minuti",
     "Entro 48 ore dalla prova trasforma memoria fresca in dati utili.",
     `
     <rect class="card" x="70" y="165" width="1460" height="630" rx="30"/>
-    ${wideCard(480, 215, 640, "Dopo la prova", ["prima che restino solo emozioni"], palette.navy, palette.blueSoft)}
+    ${wideCard(480, 210, 640, "Dopo la prova", ["prima che restino solo emozioni"], palette.navy, palette.blueSoft)}
     ${cards}
     ${arrows}
     ${note(250, 812, 1100, "Una prova analizzata bene puo evitare settimane di errori nel concorso successivo.")}

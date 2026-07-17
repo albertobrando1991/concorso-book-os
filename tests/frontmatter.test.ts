@@ -32,5 +32,11 @@ describe("frontmatter", () => {
     expect(parsed.data.review_required).toBe(true)
     expect(parsed.body.trim()).toBe("# Chapter")
   })
+  it("handles UTF-8 BOM before frontmatter", () => {
+    const parsed = parseFrontmatter("\uFEFF---\nid: chapter-12\n---\n# Capitolo")
+
+    expect(parsed.data.id).toBe("chapter-12")
+    expect(parsed.body.trim()).toBe("# Capitolo")
+  })
 })
 

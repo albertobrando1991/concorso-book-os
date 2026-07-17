@@ -1,4 +1,4 @@
-# Agent Memory Scenarios
+﻿# Agent Memory Scenarios
 
 ## 2026-05-27T21:45:00.000Z - global
 
@@ -128,8 +128,8 @@
 - route: codex/chapter09-image-audit
 - l0: l0/conv-20260529182213-djvsvf.md
 - atoms:
-  - mem-20260529182213-16onnkx | workflow | Effettua un controllo capillare sulle immagini inserite all'interno del capitolo 9, perché i testi di alcune escono dai margini e non sono ottimizzate.
-  - mem-20260529182213-jo8qr4 | result | Esito codex/chapter09-image-audit: Effettua un controllo capillare sulle immagini inserite all'interno del capitolo 9, perché i testi di alcune escono dai margini e non sono ottimizzate. -> Rifiniti i master SVG/PNG del capitolo 9, in particolare figura 9.3 con barre e nota ampliate; aggiunto audit Playwright dei bounding box testuali negli SVG e controllo di impaginazione A4 per tutte le sei immagini.
+  - mem-20260529182213-16onnkx | workflow | Effettua un controllo capillare sulle immagini inserite all'interno del capitolo 9, perchÃ© i testi di alcune escono dai margini e non sono ottimizzate.
+  - mem-20260529182213-jo8qr4 | result | Esito codex/chapter09-image-audit: Effettua un controllo capillare sulle immagini inserite all'interno del capitolo 9, perchÃ© i testi di alcune escono dai margini e non sono ottimizzate. -> Rifiniti i master SVG/PNG del capitolo 9, in particolare figura 9.3 con barre e nota ampliate; aggiunto audit Playwright dei bounding box testuali negli SVG e controllo di impaginazione A4 per tutte le sei immagini.
 
 ## 2026-05-30T12:18:00+02:00 - manual-writer
 
@@ -718,3 +718,63 @@
 - atoms:
   - mem-20260716165102-16yuo3g | project_fact | Sistema l'anteprima del libro: e cambiata, le immagini sono sotto e non e ottimizzata come prima.
   - mem-20260716165102-vdvg0c | result | Esito Codex.bookStudioPreviewRegressionFix: Sistema l'anteprima del libro: e cambiata, le immagini sono sotto e non e ottimizzata come prima. -> Individuata una sovrapposizione tra il pannello Asset libro e la preview A4 causata dalla griglia desktop a due colonne con controlli sticky.
+## 2026-07-08T20:12:00+02:00 - manual-writer
+
+- conversation_id: conv-20260708201200-mfc03-ch12-quesiti-situazionali
+- route: codex/mfc03-ch12-quesiti-situazionali
+- l0: l0/conv-20260708201200-mfc03-ch12-quesiti-situazionali.md
+- atoms:
+  - mem-20260708201200-mfc03-ch12-quesiti-situazionali | result | M-FC03 capitolo 12 Quesiti situazionali EPNE redatto come professional-draft; test frontmatter/markdown/book-preview 12/12 passati.
+
+## 2026-07-08T20:20:00+02:00 - manual-writer
+
+- conversation_id: conv-20260708202000-mfc03-ch13-piano-30-60-90
+- route: codex/mfc03-ch13-piano-30-60-90
+- l0: l0/conv-20260708202000-mfc03-ch13-piano-30-60-90.md
+- atoms:
+  - mem-20260708202000-mfc03-ch13-piano-30-60-90 | result | M-FC03 capitolo 13 Piano 30/60/90 redatto come professional-draft/revised_draft.
+
+## 2026-07-08T20:20:00+02:00 - manual-writer
+
+- conversation_id: conv-20260708202000-mfc03-ch13-frontmatter-cleanup
+- route: codex/mfc03-ch13-frontmatter-cleanup
+- l0: l0/conv-20260708202000-mfc03-ch13-frontmatter-cleanup.md
+- atoms:
+  - mem-20260708202000-mfc03-ch13-frontmatter-cleanup | result | Capitolo 13 M-FC03 ripulito da metadati visibili, accenti e punteggiatura corretti, book-preview test 7/7.
+
+## 2026-07-08T21:55:00+02:00 - manual-writer
+
+- conversation_id: conv-20260708215500-mfc03-appendice-b-glossario
+- route: codex/mfc03-appendice-b-glossario
+- l0: l0/conv-20260708215500-mfc03-appendice-b-glossario.md
+- atoms:
+  - mem-20260708215500-mfc03-appendice-b-glossario | result | Appendice B M-FC03 redatta come glossario operativo INPS/INAIL; book-preview test 7/7.
+
+## M-FC03 - Appendice A vigilanza ispettiva INPS-INAIL
+- Data: 2026-07-08
+- Quando si redigono appendici M-FC03 su sottoprofili ispettivi, mantenere la funzione di orientamento al bando: non trasformare l'appendice in manuale autonomo di lavoro/sicurezza.
+- Distinguere sempre INPS, INAIL e INL; citare numeri di posti o prove solo dopo verifica su avviso e allegati ufficiali.
+- Struttura efficace: apertura, obiettivo, Mappa BANDO, perimetri, materie da attivare, scheda compilabile, caso guidato, domanda da commissario, domanda-trappola, errore tipico, mini-esercizio, checklist, riferimenti e note di review.
+
+## M-FC03 - Appendice C schede rapide enti
+- Data: 2026-07-08
+- Appendice C deve restare strumento di orientamento ente-specifico: schede rapide, Bando Decoder, confini e rinvii, non manuale autonomo su ogni ente.
+- Per CONI usare fonte ufficiale riacquisita il 2026-07-08; per CRI mantenere cautela sulla natura giuridica e verificare sempre il singolo bando.
+- Per ENEA, ASI e ISTAT separare profili amministrativi da ricerca, tecnologi, profili scientifici o statistici avanzati.
+## 2026-07-08T22:10:00+02:00 - manual-writer
+
+- conversation_id: conv-20260708221000-mfc03-appendice-d-errori-bandi
+- route: codex/mfc03-appendice-d-errori-bandi
+- l0: l0/conv-20260708221000-mfc03-appendice-d-errori-bandi.md
+- atoms:
+  - mem-20260708221000-mfc03-appendice-d-errori-bandi | result | Appendice D M-FC03 redatta sugli errori tipici nei bandi EPNE; book-preview test 7/7.
+
+## M-FC03 - Appendice D errori tipici nei bandi EPNE
+- Data: 2026-07-08
+- L'appendice deve funzionare come strumento di prevenzione degli errori di lettura del bando, non come repertorio astratto di irregolaritÃ  amministrative.
+- Mantenere sempre la distinzione tra portale di pubblicazione, gestore della procedura ed ente destinatario del profilo.
+- Per contenuti instabili, come prove, soglie, calendari, rettifiche e allegati, richiamare la verifica dell'avviso ufficiale piÃ¹ aggiornato.
+## M-FC03 - Appendice E rinvii ragionati
+- Data: 2026-07-08
+- Appendice E deve funzionare come routing del bando: M-FC03 resta principale per profili amministrativi/giuridici/economici/contabili/servizi/vigilanza non tecnica; ricerca, ICT puro, appalti-PNRR specialistici, agenzie fiscali e authority vanno rinviati ai moduli corretti.
+- Non presentare i rinvii come perdita del lavoro svolto: libro base e parti M-FC03 restano capitale di studio, ma il modulo principale cambia se profilo e prove lo richiedono.

@@ -26,57 +26,57 @@
   </g>
 
     <rect class="card" x="70" y="165" width="1460" height="630" rx="30"/>
-    <g data-safe-box="460 205 680 150 8">
-    <rect x="460" y="205" width="680" height="150" rx="24" fill="#EAF2FB" stroke="#10233F" stroke-width="3"/>
-    <rect x="460" y="205" width="680" height="12" rx="6" fill="#10233F"/>
-    <text class="label" x="800" y="257" text-anchor="middle">Concorso concluso</text>
-    <text class="small" x="800" y="287" text-anchor="middle">non archiviare emozioni</text>
-<text class="small" x="800" y="315" text-anchor="middle">trasforma in prodotti riusabili</text>
+    <g data-safe-box="460 195 680 150 8">
+    <rect x="460" y="195" width="680" height="150" rx="24" fill="#EAF2FB" stroke="#10233F" stroke-width="3"/>
+    <rect x="460" y="195" width="680" height="12" rx="6" fill="#10233F"/>
+    <text class="label" x="800" y="247" text-anchor="middle">Concorso concluso</text>
+    <text class="small" x="800" y="277" text-anchor="middle">non archiviare emozioni</text>
+<text class="small" x="800" y="305" text-anchor="middle">trasforma in prodotti riusabili</text>
   </g>
-    <g data-safe-box="115 340 240 205 14">
-    <rect x="115" y="340" width="240" height="205" rx="24" fill="#EAF2FB" stroke="#10233F" stroke-width="3"/>
-    <circle cx="235" cy="390" r="32" fill="#10233F"/>
-    <text class="label" x="235" y="399" text-anchor="middle" fill="#FFFFFF">B</text>
-    <text class="label" x="235" y="452" text-anchor="middle">Bando</text>
-    <text class="small" x="235" y="492" text-anchor="middle">Decoder compilato</text>
+    <g data-safe-box="115 385 240 205 14">
+    <rect x="115" y="385" width="240" height="205" rx="24" fill="#EAF2FB" stroke="#10233F" stroke-width="3"/>
+    <circle cx="235" cy="435" r="32" fill="#10233F"/>
+    <text class="label" x="235" y="444" text-anchor="middle" fill="#FFFFFF">B</text>
+    <text class="label" x="235" y="497" text-anchor="middle">Bando</text>
+    <text class="small" x="235" y="537" text-anchor="middle">Decoder compilato</text>
   </g>
-<g data-safe-box="400 340 240 205 14">
-    <rect x="400" y="340" width="240" height="205" rx="24" fill="#F8E8EA" stroke="#7A2430" stroke-width="3"/>
-    <circle cx="520" cy="390" r="32" fill="#7A2430"/>
-    <text class="label" x="520" y="399" text-anchor="middle" fill="#FFFFFF">A</text>
-    <text class="label" x="520" y="452" text-anchor="middle">Aree</text>
-    <text class="small" x="520" y="492" text-anchor="middle">core e moduli</text>
+<g data-safe-box="400 385 240 205 14">
+    <rect x="400" y="385" width="240" height="205" rx="24" fill="#F8E8EA" stroke="#7A2430" stroke-width="3"/>
+    <circle cx="520" cy="435" r="32" fill="#7A2430"/>
+    <text class="label" x="520" y="444" text-anchor="middle" fill="#FFFFFF">A</text>
+    <text class="label" x="520" y="497" text-anchor="middle">Aree</text>
+    <text class="small" x="520" y="537" text-anchor="middle">core e moduli</text>
   </g>
-<g data-safe-box="685 340 240 205 14">
-    <rect x="685" y="340" width="240" height="205" rx="24" fill="#FFF4CC" stroke="#D4AF37" stroke-width="3"/>
-    <circle cx="805" cy="390" r="32" fill="#D4AF37"/>
-    <text class="label" x="805" y="399" text-anchor="middle" fill="#FFFFFF">N</text>
-    <text class="label" x="805" y="452" text-anchor="middle">Nuclei</text>
-    <text class="small" x="805" y="492" text-anchor="middle">schemi e domande</text>
+<g data-safe-box="685 385 240 205 14">
+    <rect x="685" y="385" width="240" height="205" rx="24" fill="#FFF4CC" stroke="#D4AF37" stroke-width="3"/>
+    <circle cx="805" cy="435" r="32" fill="#D4AF37"/>
+    <text class="label" x="805" y="444" text-anchor="middle" fill="#FFFFFF">N</text>
+    <text class="label" x="805" y="497" text-anchor="middle">Nuclei</text>
+    <text class="small" x="805" y="537" text-anchor="middle">schemi e domande</text>
   </g>
-<g data-safe-box="970 340 240 205 14">
-    <rect x="970" y="340" width="240" height="205" rx="24" fill="#E7F3ED" stroke="#2F7D5A" stroke-width="3"/>
-    <circle cx="1090" cy="390" r="32" fill="#2F7D5A"/>
-    <text class="label" x="1090" y="399" text-anchor="middle" fill="#FFFFFF">D</text>
-    <text class="label" x="1090" y="452" text-anchor="middle">Diario</text>
-    <text class="small" x="1090" y="492" text-anchor="middle">errori e ripassi</text>
+<g data-safe-box="970 385 240 205 14">
+    <rect x="970" y="385" width="240" height="205" rx="24" fill="#E7F3ED" stroke="#2F7D5A" stroke-width="3"/>
+    <circle cx="1090" cy="435" r="32" fill="#2F7D5A"/>
+    <text class="label" x="1090" y="444" text-anchor="middle" fill="#FFFFFF">D</text>
+    <text class="label" x="1090" y="497" text-anchor="middle">Diario</text>
+    <text class="small" x="1090" y="537" text-anchor="middle">errori e ripassi</text>
   </g>
-<g data-safe-box="1255 340 240 205 14">
-    <rect x="1255" y="340" width="240" height="205" rx="24" fill="#E4F4F5" stroke="#1F6F78" stroke-width="3"/>
-    <circle cx="1375" cy="390" r="32" fill="#1F6F78"/>
-    <text class="label" x="1375" y="399" text-anchor="middle" fill="#FFFFFF">O</text>
-    <text class="label" x="1375" y="452" text-anchor="middle">Output</text>
-    <text class="small" x="1375" y="492" text-anchor="middle">quiz, casi, orale</text>
+<g data-safe-box="1255 385 240 205 14">
+    <rect x="1255" y="385" width="240" height="205" rx="24" fill="#E4F4F5" stroke="#1F6F78" stroke-width="3"/>
+    <circle cx="1375" cy="435" r="32" fill="#1F6F78"/>
+    <text class="label" x="1375" y="444" text-anchor="middle" fill="#FFFFFF">O</text>
+    <text class="label" x="1375" y="497" text-anchor="middle">Output</text>
+    <text class="small" x="1375" y="537" text-anchor="middle">quiz, casi, orale</text>
   </g>
-    <path class="line" marker-end="url(#arrow)" d="M365 460 L390 460"/>
-<path class="line" marker-end="url(#arrow)" d="M650 460 L675 460"/>
-<path class="line" marker-end="url(#arrow)" d="M935 460 L960 460"/>
-<path class="line" marker-end="url(#arrow)" d="M1220 460 L1245 460"/>
-    <g data-safe-box="500 650 600 150 8">
-    <rect x="500" y="650" width="600" height="150" rx="24" fill="#E7F3ED" stroke="#2F7D5A" stroke-width="3"/>
-    <rect x="500" y="650" width="600" height="12" rx="6" fill="#2F7D5A"/>
-    <text class="label" x="800" y="702" text-anchor="middle">Sistema trasferibile</text>
-    <text class="small" x="800" y="732" text-anchor="middle">base migliore per il prossimo bando</text>
+    <path class="line" marker-end="url(#arrow)" d="M365 505 L390 505"/>
+<path class="line" marker-end="url(#arrow)" d="M650 505 L675 505"/>
+<path class="line" marker-end="url(#arrow)" d="M935 505 L960 505"/>
+<path class="line" marker-end="url(#arrow)" d="M1220 505 L1245 505"/>
+    <g data-safe-box="500 640 600 150 8">
+    <rect x="500" y="640" width="600" height="150" rx="24" fill="#E7F3ED" stroke="#2F7D5A" stroke-width="3"/>
+    <rect x="500" y="640" width="600" height="12" rx="6" fill="#2F7D5A"/>
+    <text class="label" x="800" y="692" text-anchor="middle">Sistema trasferibile</text>
+    <text class="small" x="800" y="722" text-anchor="middle">base migliore per il prossimo bando</text>
   </g>
     <g data-safe-box="250 812 1100 66 12">
     <rect x="250" y="812" width="1100" height="66" rx="22" fill="#FFF7ED" stroke="#EFC58D" stroke-width="3"/>

@@ -26,59 +26,59 @@
   </g>
 
     <rect class="card" x="70" y="165" width="1460" height="630" rx="30"/>
-    <g data-safe-box="480 215 640 150 8">
-    <rect x="480" y="215" width="640" height="150" rx="24" fill="#EAF2FB" stroke="#10233F" stroke-width="3"/>
-    <rect x="480" y="215" width="640" height="12" rx="6" fill="#10233F"/>
-    <text class="label" x="800" y="267" text-anchor="middle">Dopo la prova</text>
-    <text class="small" x="800" y="297" text-anchor="middle">prima che restino solo emozioni</text>
+    <g data-safe-box="480 210 640 150 8">
+    <rect x="480" y="210" width="640" height="150" rx="24" fill="#EAF2FB" stroke="#10233F" stroke-width="3"/>
+    <rect x="480" y="210" width="640" height="12" rx="6" fill="#10233F"/>
+    <text class="label" x="800" y="262" text-anchor="middle">Dopo la prova</text>
+    <text class="small" x="800" y="292" text-anchor="middle">prima che restino solo emozioni</text>
   </g>
-    <g data-safe-box="127 300 216 270 0">
-    <rect x="145" y="340" width="180" height="230" rx="24" fill="#EAF2FB" stroke="#10233F" stroke-width="3"/>
-    <rect x="175" y="306" width="120" height="68" rx="34" fill="#10233F"/>
-    <text class="small strong" x="235" y="348" text-anchor="middle" fill="#FFFFFF">0-5</text>
-    <text class="body strong" x="235" y="432" text-anchor="middle" fill="#10233F">Formato reale</text>
-    <text class="small" x="235" y="484" text-anchor="middle">scrivi a memoria</text>
+    <g data-safe-box="127 390 216 270 0">
+    <rect x="145" y="430" width="180" height="230" rx="24" fill="#EAF2FB" stroke="#10233F" stroke-width="3"/>
+    <rect x="175" y="396" width="120" height="68" rx="34" fill="#10233F"/>
+    <text class="small strong" x="235" y="438" text-anchor="middle" fill="#FFFFFF">0-5</text>
+    <text class="body strong" x="235" y="522" text-anchor="middle" fill="#10233F">Formato reale</text>
+    <text class="small" x="235" y="574" text-anchor="middle">scrivi a memoria</text>
   </g>
-<g data-safe-box="347 300 216 270 0">
-    <rect x="365" y="340" width="180" height="230" rx="24" fill="#F8E8EA" stroke="#7A2430" stroke-width="3"/>
-    <rect x="395" y="306" width="120" height="68" rx="34" fill="#7A2430"/>
-    <text class="small strong" x="455" y="348" text-anchor="middle" fill="#FFFFFF">5-10</text>
-    <text class="body strong" x="455" y="432" text-anchor="middle" fill="#7A2430">Mappa prova</text>
-    <text class="small" x="455" y="484" text-anchor="middle">materie e domande</text>
+<g data-safe-box="347 390 216 270 0">
+    <rect x="365" y="430" width="180" height="230" rx="24" fill="#F8E8EA" stroke="#7A2430" stroke-width="3"/>
+    <rect x="395" y="396" width="120" height="68" rx="34" fill="#7A2430"/>
+    <text class="small strong" x="455" y="438" text-anchor="middle" fill="#FFFFFF">5-10</text>
+    <text class="body strong" x="455" y="522" text-anchor="middle" fill="#7A2430">Mappa prova</text>
+    <text class="small" x="455" y="574" text-anchor="middle">materie e domande</text>
   </g>
-<g data-safe-box="567 300 216 270 0">
-    <rect x="585" y="340" width="180" height="230" rx="24" fill="#FFF4CC" stroke="#D4AF37" stroke-width="3"/>
-    <rect x="615" y="306" width="120" height="68" rx="34" fill="#D4AF37"/>
-    <text class="small strong" x="675" y="348" text-anchor="middle" fill="#FFFFFF">10-15</text>
-    <text class="body strong" x="675" y="432" text-anchor="middle" fill="#D4AF37">Tre errori</text>
-    <text class="small" x="675" y="484" text-anchor="middle">diario operativo</text>
+<g data-safe-box="567 390 216 270 0">
+    <rect x="585" y="430" width="180" height="230" rx="24" fill="#FFF4CC" stroke="#D4AF37" stroke-width="3"/>
+    <rect x="615" y="396" width="120" height="68" rx="34" fill="#D4AF37"/>
+    <text class="small strong" x="675" y="438" text-anchor="middle" fill="#FFFFFF">10-15</text>
+    <text class="body strong" x="675" y="522" text-anchor="middle" fill="#D4AF37">Tre errori</text>
+    <text class="small" x="675" y="574" text-anchor="middle">diario operativo</text>
   </g>
-<g data-safe-box="787 300 216 270 0">
-    <rect x="805" y="340" width="180" height="230" rx="24" fill="#E7F3ED" stroke="#2F7D5A" stroke-width="3"/>
-    <rect x="835" y="306" width="120" height="68" rx="34" fill="#2F7D5A"/>
-    <text class="small strong" x="895" y="348" text-anchor="middle" fill="#FFFFFF">15-20</text>
-    <text class="body strong" x="895" y="432" text-anchor="middle" fill="#2F7D5A">Tre materiali</text>
-    <text class="small" x="895" y="484" text-anchor="middle">core o modulo</text>
+<g data-safe-box="787 390 216 270 0">
+    <rect x="805" y="430" width="180" height="230" rx="24" fill="#E7F3ED" stroke="#2F7D5A" stroke-width="3"/>
+    <rect x="835" y="396" width="120" height="68" rx="34" fill="#2F7D5A"/>
+    <text class="small strong" x="895" y="438" text-anchor="middle" fill="#FFFFFF">15-20</text>
+    <text class="body strong" x="895" y="522" text-anchor="middle" fill="#2F7D5A">Tre materiali</text>
+    <text class="small" x="895" y="574" text-anchor="middle">core o modulo</text>
   </g>
-<g data-safe-box="1007 300 216 270 0">
-    <rect x="1025" y="340" width="180" height="230" rx="24" fill="#E4F4F5" stroke="#1F6F78" stroke-width="3"/>
-    <rect x="1055" y="306" width="120" height="68" rx="34" fill="#1F6F78"/>
-    <text class="small strong" x="1115" y="348" text-anchor="middle" fill="#FFFFFF">20-25</text>
-    <text class="body strong" x="1115" y="432" text-anchor="middle" fill="#1F6F78">Taglio</text>
-    <text class="small" x="1115" y="484" text-anchor="middle">pulizia mirata</text>
+<g data-safe-box="1007 390 216 270 0">
+    <rect x="1025" y="430" width="180" height="230" rx="24" fill="#E4F4F5" stroke="#1F6F78" stroke-width="3"/>
+    <rect x="1055" y="396" width="120" height="68" rx="34" fill="#1F6F78"/>
+    <text class="small strong" x="1115" y="438" text-anchor="middle" fill="#FFFFFF">20-25</text>
+    <text class="body strong" x="1115" y="522" text-anchor="middle" fill="#1F6F78">Taglio</text>
+    <text class="small" x="1115" y="574" text-anchor="middle">pulizia mirata</text>
   </g>
-<g data-safe-box="1227 300 216 270 0">
-    <rect x="1245" y="340" width="180" height="230" rx="24" fill="#EAF2FB" stroke="#10233F" stroke-width="3"/>
-    <rect x="1275" y="306" width="120" height="68" rx="34" fill="#10233F"/>
-    <text class="small strong" x="1335" y="348" text-anchor="middle" fill="#FFFFFF">25-30</text>
-    <text class="body strong" x="1335" y="432" text-anchor="middle" fill="#10233F">Prossimo uso</text>
-    <text class="small" x="1335" y="484" text-anchor="middle">piano successivo</text>
+<g data-safe-box="1227 390 216 270 0">
+    <rect x="1245" y="430" width="180" height="230" rx="24" fill="#EAF2FB" stroke="#10233F" stroke-width="3"/>
+    <rect x="1275" y="396" width="120" height="68" rx="34" fill="#10233F"/>
+    <text class="small strong" x="1335" y="438" text-anchor="middle" fill="#FFFFFF">25-30</text>
+    <text class="body strong" x="1335" y="522" text-anchor="middle" fill="#10233F">Prossimo uso</text>
+    <text class="small" x="1335" y="574" text-anchor="middle">piano successivo</text>
   </g>
-    <path class="line" marker-end="url(#arrow)" d="M330 455 L365 455"/>
-<path class="line" marker-end="url(#arrow)" d="M550 455 L585 455"/>
-<path class="line" marker-end="url(#arrow)" d="M770 455 L805 455"/>
-<path class="line" marker-end="url(#arrow)" d="M990 455 L1025 455"/>
-<path class="line" marker-end="url(#arrow)" d="M1210 455 L1245 455"/>
+    <path class="line" marker-end="url(#arrow)" d="M330 545 L365 545"/>
+<path class="line" marker-end="url(#arrow)" d="M550 545 L585 545"/>
+<path class="line" marker-end="url(#arrow)" d="M770 545 L805 545"/>
+<path class="line" marker-end="url(#arrow)" d="M990 545 L1025 545"/>
+<path class="line" marker-end="url(#arrow)" d="M1210 545 L1245 545"/>
     <g data-safe-box="250 812 1100 66 12">
     <rect x="250" y="812" width="1100" height="66" rx="22" fill="#FFF7ED" stroke="#EFC58D" stroke-width="3"/>
     <text class="body strong" x="800" y="855" text-anchor="middle">Una prova analizzata bene puo evitare settimane di errori nel concorso successivo.</text>

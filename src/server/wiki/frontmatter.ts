@@ -6,7 +6,7 @@ export interface ParsedMarkdown {
 }
 
 export function parseFrontmatter(content: string): ParsedMarkdown {
-  const normalized = content.replace(/\r\n/g, "\n")
+  const normalized = content.replace(/^\uFEFF/, "").replace(/\r\n/g, "\n")
 
   if (!normalized.startsWith("---\n")) {
     return { data: {}, body: normalized }

@@ -1,6 +1,6 @@
-# ConcorsoBook OS Index
+﻿# ConcorsoBook OS Index
 
-Aggiornato: 2026-07-03T15:34:55.753Z
+Aggiornato: 2026-07-08T22:50:00+02:00
 
 ## Sources
 - [[sources/agid-catalogo-linee-guida-cad-e-domicilio-digitale]]
@@ -125,7 +125,7 @@ Aggiornato: 2026-07-03T15:34:55.753Z
 - [[sources/riscossione-agenzia-entrate-riscossione-m-fc02]]
 - [[sources/dogane-accise-giochi-monopoli-adm-m-fc02]]
 - [[sources/catasto-pubblicita-immobiliare-estimo-m-fc02]]
-- [[sources/reati-e-sanzioni-tributarie-m-fc02]]
+- [[sources/reati-e-sanzioni-tributarie-m-fc02]]`r`n- [[sources/vol-03-fonti-specialistiche-fisco-dogane-previdenza-ispettivo]]
 - [[sources/manuale-diritto-amministrativo-lopilato]]
 - [[sources/manuali-open-logica-ragionamento-critico]]
 - [[sources/matrice-materie-profili-metodo-bando]]
@@ -423,6 +423,14 @@ Aggiornato: 2026-07-03T15:34:55.753Z
 - [[books/il-metodo-bando/ricettario-digitale]]
 - [[books/il-metodo-bando/sources/idea-business-vendita-libri-capitale-personale]]
 - [[books/il-metodo-bando/struttura-madre]]
+- [[books/volumi/vol-03-fisco-dogane-previdenza-ispettivo/index]]
+- [[books/volumi/vol-03-fisco-dogane-previdenza-ispettivo/planning/00-piano-editoriale]]
+- [[books/volumi/vol-03-fisco-dogane-previdenza-ispettivo/front-matter/01-servizi-digitali]]
+- [[books/volumi/vol-03-fisco-dogane-previdenza-ispettivo/front-matter/02-frontespizio]]
+- [[books/volumi/vol-03-fisco-dogane-previdenza-ispettivo/front-matter/03-copyright-note-editoriali]]
+- [[books/volumi/vol-03-fisco-dogane-previdenza-ispettivo/front-matter/04-sommario]]
+- [[books/volumi/vol-03-fisco-dogane-previdenza-ispettivo/front-matter/05-premessa]]
+- [[books/volumi/vol-03-fisco-dogane-previdenza-ispettivo/front-matter/06-indice]]
 - [[books/manuale-concorso-funzionari-enti-locali/chapters/enti-locali-e-pubblico-impiego]]
 - [[books/manuale-concorso-funzionari-enti-locali/chapters/procedimento-amministrativo]]
 - [[books/manuale-concorso-funzionari-enti-locali/index]]
@@ -526,3 +534,15 @@ Aggiornato: 2026-07-03T15:34:55.753Z
 - Raw sources restano immutabili in `raw/`.
 - I capitoli devono essere generati da source summaries, topic pages ed entity pages.
 - Ogni ingest deve appenderne traccia in `log.md`.
+
+
+## VOL-03 - Ricostruzione 2026
+
+- [[sources/vol-03-corpus-ufficiale-2026-07-17]]
+- [[sources/m-fc02-corpus-ufficiale-integrativo-2026-07-17]]
+- [[sources/m-fc03-corpus-ufficiale-integrativo-2026-07-17]]
+- [[topics/vol-03-ciclo-fiscale-doganale]]
+- [[topics/vol-03-previdenza-vigilanza-epne]]
+- [[books/volumi/vol-03-fisco-dogane-previdenza-ispettivo/planning/02-indice-analitico-ricostruito-2026]]
+- [[reviews/vol-03-audit-iniziale-2026-07-17]]
+- [[reviews/vol-03-gap-report-2026-07-17]]
