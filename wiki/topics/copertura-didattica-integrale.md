@@ -35,3 +35,10 @@ Nessun livello sostituisce gli altri. Un capitolo con esercizi ma senza teoria n
 
 - [[sources/principio-copertura-didattica-integrale-2026-07-17]]
 - [[sources/logica-volumi-copertura-concorsobook-v4]]
+
+## Collegamenti operativi
+
+- [[books/moduli/architettura-moduli-specialistici]]
+- [[books/il-metodo-bando/struttura-madre]]
+- .agents/skills/concorso-book-professional-writer/SKILL.md
+- .agents/skills/revisore-editoriale-totale/SKILL.md
