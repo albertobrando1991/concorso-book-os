@@ -8,6 +8,18 @@ import {
 } from "../src/catalog/text-volumes"
 
 describe("commercial text volumes", () => {
+  it("keeps VOL-03 aligned with the fiscal and social-security modules shown in its chapter sidebar", () => {
+    const volume = TEXT_VOLUME_CATALOG.find((item) => item.code === "VOL-03")
+
+    expect(volume?.title).toBe("Fisco, Dogane, Previdenza e Ispettivo")
+    expect(volume?.shortTitle).toBe("Fisco e previdenza")
+    expect(volume?.modules).toEqual(["M-FC02", "M-FC03"])
+    expect(volume?.bookIds).toEqual([
+      "moduli/m-fc02-agenzie-fiscali",
+      "moduli/m-fc03-enti-non-economici"
+    ])
+  })
+
   it("keeps the base manual outside the specialist volume aggregator", () => {
     const baseVolume = TEXT_VOLUME_CATALOG.find((volume) => volume.code === "VOL-01")
     const specialistVolume = TEXT_VOLUME_CATALOG.find((volume) => volume.code === "VOL-02")

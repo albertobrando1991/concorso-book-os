@@ -376,7 +376,7 @@ describe("book preview assets", () => {
       const moduleOpening = data.chapters.find((chapter) => chapter.frontMatterLayout === "module-opening")
 
       expect(data.bookId).toBe("volumi/vol-03")
-      expect(data.title).toBe("VOL-03 - Funzioni centrali, Fisco, Previdenza e Ispettivo")
+      expect(data.title).toBe("VOL-03 - Fisco, Dogane, Previdenza e Ispettivo")
       expect(generatedTitles.slice(0, 6)).toEqual([
         "Servizi digitali inclusi",
         "Frontespizio",
@@ -387,10 +387,10 @@ describe("book preview assets", () => {
       ])
       expect(data.chapters.some((chapter) => chapter.path.includes("/front-matter/01-servizi.md"))).toBe(false)
       expect(data.chapters.some((chapter) => chapter.path.includes("/front-matter/03-copyright.md"))).toBe(false)
-      expect(index?.blocks.some((block) => block.type === "index-part" && block.number === "M-FC01")).toBe(true)
+      expect(index?.blocks.some((block) => block.type === "index-part" && block.number === "M-FC01")).toBe(false)
       expect(index?.blocks.some((block) => block.type === "index-part" && block.number === "M-FC02")).toBe(true)
-      expect(moduleOpening?.title).toContain("M-FC01")
-      expect(data.chapters.find((chapter) => chapter.title === "Lavorare nei Ministeri")?.volumeModuleCode).toBe("M-FC01")
+      expect(moduleOpening?.title).toContain("M-FC02")
+      expect(data.chapters.some((chapter) => chapter.title === "Lavorare nei Ministeri")).toBe(false)
       expect(data.chapters.find((chapter) => chapter.title === "Agenzie fiscali e profili")?.volumeModuleCode).toBe("M-FC02")
     } finally {
       await rm(root, { recursive: true, force: true })
