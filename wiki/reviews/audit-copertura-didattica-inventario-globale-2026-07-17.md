@@ -31,13 +31,13 @@ Legenda: **assenza filesystem** = nessuna cartella/index dedicata; **scaffold** 
 
 ## Catalogo dei volumi commerciali
 
-Le parole sono conteggi indicativi su token non vuoti nei capitoli propri. I riferimenti sono source ref distinti dichiarati nei capitoli, salvo nota.
+Le parole sono conteggi indicativi su token non vuoti nei capitoli propri. I riferimenti sono source ref distinti dichiarati nei capitoli; i riferimenti dell'index sono indicati separatamente. Per "matrice" si intende esclusivamente una matrice didattica dedicata conforme al nuovo gate. Tabelle o matrici editoriali preesistenti sono censite come strumenti da riallineare, non come matrici conformi.
 
 | ID | Titolo/famiglia e moduli | Cartella/index | Capitoli propri | Stati capitoli | Parole | Placeholder/source-ready | Source refs | Matrice | Classificazione strutturale |
 | --- | --- | --- | ---: | --- | ---: | --- | ---: | --- | --- |
 | VOL-01 | Manuale base PA; B-PA01/B-PA11 + ricettario | `books/il-metodo-bando/index.md` presente | 54 | revised_draft 53; professional_draft 1 | 191.026 | draft/revised | 129 | assente | contenuto esteso, non pubblicabilita verificata |
 | VOL-02 | Enti locali, Camere di commercio e Polizia locale; M-FL01/04 | cartella/index volume assente | 0 | - | 0 | aggregatore | 0 | assente | aggregatore commerciale; moduli scaffold |
-| VOL-03 | Funzioni centrali, Fisco, Previdenza e Ispettivo; M-FC01/03 | cartella/index presente | 1 | revised_draft 1 | 3.607 | source-ready + draft | 0 nei capitoli (2 dichiarati nell'index) | assente | aggregatore con contenuto proprio iniziale |
+| VOL-03 | Funzioni centrali, Fisco, Previdenza e Ispettivo; M-FC01/03 | cartella/index presente | 1 | revised_draft 1 | 3.607 | source-ready + draft | 6 nei capitoli (2 dichiarati nell'index) | assente | aggregatore con contenuto proprio iniziale |
 | VOL-04 | Giustizia e UPP; M-FC04 | cartella/index volume assente | 0 | - | 0 | aggregatore | 0 | assente | aggregatore commerciale; modulo scaffold |
 | VOL-05 | Authority e regolazione; M-FC05 | cartella/index volume assente | 0 | - | 0 | aggregatore | 0 | assente | aggregatore commerciale; modulo scaffold |
 | VOL-06 | Scuola, Universita, Ricerca, Cultura; M-IR01/04 | cartella/index volume assente | 0 | - | 0 | aggregatore | 0 | assente | aggregatore commerciale; moduli scaffold |
@@ -58,7 +58,7 @@ Un aggregatore senza capitoli propri non e' automaticamente mancante quando iden
 | --- | --- | --- | ---: | --- | ---: | --- | ---: | --- |
 | M-FC01 | Ministeri e Presidenza del Consiglio - Funzioni Centrali | presente | 15 | structure 13; to_expand 1; revised_draft 1 | 8.902 | source-ready/draft | 28 (13 index) | assente |
 | M-FC02 | Agenzie fiscali - Funzioni Centrali | presente | 14 | revised_draft 11; source_ready 2; draft 1 | 43.147 | source-ready/draft/revised | 27 (12 index) | assente |
-| M-FC03 | Enti pubblici non economici - Funzioni Centrali | presente | 19 | revised_draft 18; structure 1 | 58.790 | source-ready/draft/revised | 10 (6 index) | presente, matrice materie |
+| M-FC03 | Enti pubblici non economici - Funzioni Centrali | presente | 19 | revised_draft 18; structure 1 | 58.790 | source-ready/draft/revised | 10 (6 index) | no; matrice materie preesistente da riallineare |
 | M-FC04 | Giustizia - Funzioni Centrali | presente | 0 | - | 0 | scaffold | 0 (2 index) | assente |
 | M-FC05 | Authority indipendenti - Funzioni Centrali | presente | 0 | - | 0 | scaffold | 0 (2 index) | assente |
 | M-FL01 | Comuni e Unioni - Funzioni Locali | presente | 0 | - | 0 | scaffold | 0 (2 index) | assente |
@@ -82,16 +82,16 @@ Un aggregatore senza capitoli propri non e' automaticamente mancante quando iden
 | M-SP03 | Magistratura, Avvocatura e Notariato - Carriere Speciali | presente | 0 | - | 0 | scaffold | 0 (2 index) | assente |
 | M-SP04 | Prefettizia e diplomatica - Carriere Speciali | presente | 0 | - | 0 | scaffold | 0 (2 index) | assente |
 
-Totale moduli: 25/25 cartelle e index presenti; 48 capitoli sostanziali; circa 110.839 parole. Distribuzione strutturale: 3 moduli source-ready con capitoli in lavorazione e 22 scaffold senza capitoli sostanziali. Matrici rinvenute: 1, ma e' una matrice di copertura materie preesistente, non prova automatica di conformita al nuovo schema didattico.
+Totale moduli: 25/25 cartelle e index presenti; 48 capitoli sostanziali; circa 110.839 parole. Distribuzione strutturale: 3 moduli source-ready con capitoli in lavorazione e 22 scaffold senza capitoli sostanziali. Matrici didattiche dedicate conformi al nuovo gate: 0. L'Appendice F di VOL-01 e la matrice materie di M-FC03 sono strumenti preesistenti da classificare e riallineare; non provano conformita al nuovo schema.
 
 ## Blocker e priorita
 
-1. **P0 - matrici:** manca una matrice didattica conforme per tutti gli elementi; quella di M-FC03 va verificata rispetto al nuovo template.
+1. **P0 - matrici:** manca una matrice didattica dedicata conforme per tutti gli elementi; l'Appendice F di VOL-01 e la matrice materie di M-FC03 vanno riallineate al nuovo template.
 2. **P0 - audit semantico:** nessun volume o modulo puo essere dichiarato pubblicabile sulla base di questo inventario.
 3. **P1 - scaffold:** 22 moduli hanno index e piano ma zero capitoli sostanziali.
 4. **P1 - aggregatori:** dieci volumi non hanno cartella/index dedicata; la relazione commerciale e' documentata soltanto nell'architettura canonica.
 5. **P1 - stati:** M-FC01 contiene 13 capitoli `structure`; M-FC02 conserva due `source_ready` e un `draft`; M-FC03 conserva un `structure`.
-6. **P2 - tracciabilita:** VOL-03 ha un capitolo proprio senza source ref in frontmatter; i rinvii ai moduli non sono stati verificati semanticamente.
+6. **P2 - tracciabilita:** VOL-03 dichiara 6 source refs nel capitolo proprio e 2 nell'index; completezza, qualita e rinvii ai moduli non sono stati verificati semanticamente.
 
 ## Conclusione
 

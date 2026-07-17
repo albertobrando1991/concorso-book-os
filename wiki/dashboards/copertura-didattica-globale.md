@@ -32,8 +32,10 @@ tags: ["dashboard", "inventory", "didactic-coverage"]
 | Parole indicative nei volumi | 194.633 | non include i moduli aggregati |
 | Capitoli dei moduli | 48 | 15 + 14 + 19 |
 | Parole indicative nei moduli | 110.839 | non misura completezza |
-| Matrici rinvenute | 1 | matrice materie M-FC03; conformita al nuovo schema da verificare |
+| Matrici didattiche dedicate conformi | 0 | Appendice F VOL-01 e matrice materie M-FC03 sono strumenti preesistenti da riallineare |
 | Elementi dichiarabili pubblicabili | 0 | audit semantico e review non ancora eseguiti |
+
+Convenzione: `Source refs` conta i riferimenti distinti dei capitoli e indica separatamente quelli dell'index. `Matrice` significa matrice didattica dedicata conforme al nuovo gate; l'Appendice F di VOL-01 e altre matrici editoriali preesistenti non sono conteggiate come conformi finche' non riallineate.
 
 ## Semaforo volumi
 
@@ -41,7 +43,7 @@ tags: ["dashboard", "inventory", "didactic-coverage"]
 | --- | --- | --- | ---: | ---: | --- |
 | VOL-01 | draft/revised esteso, non verificato | base + ricettario | 54 / 191.026 | 129 | no |
 | VOL-02 | aggregatore, cartella assente | M-FL01/04 | 0 / 0 | 0 | no |
-| VOL-03 | aggregatore source-ready con draft | M-FC01/03 | 1 / 3.607 | 0 capitolo; 2 index | no |
+| VOL-03 | aggregatore source-ready con draft | M-FC01/03 | 1 / 3.607 | 6 capitolo; 2 index | no |
 | VOL-04 | aggregatore, cartella assente | M-FC04 | 0 / 0 | 0 | no |
 | VOL-05 | aggregatore, cartella assente | M-FC05 | 0 / 0 | 0 | no |
 | VOL-06 | aggregatore, cartella assente | M-IR01/04 | 0 / 0 | 0 | no |
@@ -60,7 +62,7 @@ Un volume aggregatore privo di capitoli propri non e' automaticamente mancante s
 | --- | --- | --- | ---: | --- |
 | Funzioni Centrali | M-FC01 | source-ready; structure/revised | 15 / 8.902 | no |
 | Funzioni Centrali | M-FC02 | source-ready; draft/revised | 14 / 43.147 | no |
-| Funzioni Centrali | M-FC03 | source-ready; structure/revised | 19 / 58.790 | si, da riallineare |
+| Funzioni Centrali | M-FC03 | source-ready; structure/revised | 19 / 58.790 | no; matrice materie da riallineare |
 | Funzioni Centrali | M-FC04, M-FC05 | scaffold | 0 / 0 | no |
 | Funzioni Locali | M-FL01, M-FL02, M-FL03, M-FL04 | scaffold | 0 / 0 | no |
 | Istruzione e Ricerca | M-IR01, M-IR02, M-IR03, M-IR04 | scaffold | 0 / 0 | no |
