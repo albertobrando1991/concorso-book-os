@@ -162,3 +162,13 @@ Before finishing a chapter block, verify:
 - It contains an error-prevention element.
 - It includes references to consolidated wiki knowledge.
 - It flags human review where needed.
+
+## Integral Didactic Coverage Gate
+
+Metodo BANDO organizes required theory and turns it into exam performance, but never replaces theory. Every learning promise (the candidate must know, recognize, distinguish, or explain X) must map to an actual explanation or a precise, complete, verified destination.
+
+For every required concept cover, when applicable: definition, function, theoretical/legal framework, constituent elements, distinctions, practical consequences, example/case, exam use, common error, learning check, and consolidated references.
+
+Use the volume/module matrix and these states: `completo`, `parziale`, `solo-nominato`, `rinviato`, `mancante`. `solo-nominato` and `mancante` block publication; `parziale` is not publishable; `rinviato` is valid only with a precise, complete, current destination.
+
+Do not infer completeness from word count, headings, quizzes, or cases. Operational guidance never substitutes for required theory. Before completion, verify every learning promise against the actual explanation and the matrix.

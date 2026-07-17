@@ -183,3 +183,17 @@ Regole:
 - Il revisore non riscrive il testo: segnala, spiega il motivo, propone una correzione concreta. L'autore decide.
 - Per ogni volume o modulo il revisore applica anche [[sources/logica-volumi-copertura-concorsobook-v4]] prima della checklist a 30 punti: segnala come errore grave duplicazioni B-PA, materia nella famiglia errata o lacune su materie ricorrenti/pesate; verifica rinvii cross-family, necessita' di verticali e congruenza del pacchetto minimo.
 - I report di revisione sono salvati in `wiki/reviews/` e loggati in `log.md`.
+
+## Gate globale di copertura didattica integrale
+
+La regola canonica e' [[sources/principio-copertura-didattica-integrale-2026-07-17]]. Il Metodo BANDO organizza la teoria richiesta e la trasforma in performance concorsuale, ma non la sostituisce.
+
+Regole non negoziabili:
+- ogni concetto promesso deve essere spiegato oppure rinviato con destinazione precisa, completa e verificata;
+- progressione logica, completezza, accuratezza delle definizioni, autonomia didattica, coerenza promessa-contenuto, esempi, casi e verifiche sono requisiti globali;
+- ogni volume/modulo mantiene una matrice con materia, concetti, fonti, collocazione, teoria, applicazione, output, verifica, stato e review normativa;
+- per ogni nucleo si coprono, quando applicabili, definizione, funzione, inquadramento, elementi, distinzioni, conseguenze, esempio/caso, modalita d'esame, errore tipico, verifica e fonti;
+- `solo-nominato` e `mancante` sono bloccanti; `parziale` non e' pubblicabile; `rinviato` richiede destinazione precisa e completa;
+- la formula "il candidato deve sapere/riconoscere/distinguere" crea una promessa formativa verificabile;
+- la guida operativa non sostituisce la copertura teorica e la lunghezza non dimostra completezza;
+- il Revisore Editoriale Totale classifica i nuclei e tratta promessa non mantenuta, rinvio generico e autonomia insufficiente come errori gravi.

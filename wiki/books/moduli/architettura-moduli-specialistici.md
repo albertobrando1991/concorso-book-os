@@ -130,3 +130,11 @@ Per coerenza con la tassonomia a 25 moduli, M-FL03 resta in `VOL-02`. M-FC01 res
 La scrittura parte dal piano editoriale del modulo. Prima di generare testo finale occorre consolidare le fonti specifiche in sources/, collegarle a topic/entity pages e poi usare Manual Writer Agent sul capitolo del modulo selezionato in dashboard.
 
 Tutti i moduli condividono il [[books/il-metodo-bando/design-system-editoriale|design system editoriale della collana]]: titoli Arial Bold 20/14/12 pt, corpo Garamond Regular 11 pt con interlinea 1,15-1,20, tabelle/quiz/schemi/box Arial 9,5-10 pt. La regola vale sia per i capitoli gia scritti sia per ogni nuova scrittura o revisione.
+
+## Gate di copertura didattica integrale
+
+La non duplicazione opera insieme a [[sources/principio-copertura-didattica-integrale-2026-07-17]]. Il Metodo BANDO rende la teoria operativa ma non la sostituisce. Ogni materia assegnata deve essere insegnata e ogni concetto promesso spiegato o rinviato a una destinazione precisa, completa e verificata.
+
+Ogni modulo mantiene una matrice con materia, concetti, fonti, collocazione, teoria, applicazione, output, verifica, stato e review normativa. `solo-nominato` e `mancante` bloccano la pubblicazione; `parziale` richiede integrazione; `rinviato` e' valido solo dopo verifica della destinazione.
+
+Non duplicazione e completezza non sono alternative: un rinvio sostituisce la duplicazione soltanto quando la destinazione insegna davvero il concetto.

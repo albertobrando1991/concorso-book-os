@@ -57,3 +57,13 @@ Organizzata sui 4 livelli di revisione di SKILL.md §6 (dal macro al micro). Spu
 ## Nota sull'uso
 
 Non tutti i 30 punti si applicano con lo stesso peso a ogni tipo di libro (una dispensa concisa avrà meno apparato bibliografico di un manuale accademico): applica il buon senso editoriale, ma dichiara esplicitamente quali punti hai considerato "non applicabili" e perché, invece di ometterli silenziosamente dal report.
+
+## Gate aggiuntivo - Copertura didattica integrale
+
+- Ogni promessa formativa corrisponde a spiegazione effettiva o rinvio preciso e verificato.
+- Nessun concetto richiesto resta `solo-nominato`, `mancante` o `parziale` in un contenuto pubblicabile.
+- Ogni nucleo principale include definizione, funzione, inquadramento, elementi e distinzioni nella profondita richiesta.
+- Esempi, casi e verifiche applicano concetti gia insegnati e non sostituiscono la teoria.
+- La matrice corrisponde al contenuto reale del capitolo.
+
+Qualsiasi violazione e' grave e blocca la pubblicazione.

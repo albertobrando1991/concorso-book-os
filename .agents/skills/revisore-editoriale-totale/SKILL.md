@@ -165,3 +165,9 @@ Se non puoi verificare un dato, una normativa, una citazione o un fatto con sicu
 ## 26. Formato finale del risultato
 
 Testo in chat per report + tabella errori (usa markdown, tabelle vere). Se l'utente ha fornito un .docx e vuole un file consegnabile, produci anche il file con tracked changes/commenti via skill `docx` e presentalo come file scaricabile. Non usare mai un artifact per il solo report testuale (è contenuto conversazionale, non un deliverable standalone) a meno che l'utente non chieda esplicitamente un documento Word/PDF finale.
+
+## 27. Gate di copertura didattica integrale
+
+Applicare [[sources/principio-copertura-didattica-integrale-2026-07-17]] confrontando promesse formative, contenuto reale e matrice del volume/modulo. Classificare i nuclei come `completo`, `parziale`, `solo-nominato`, `rinviato` o `mancante`.
+
+Sono errori gravi e bloccanti: promessa formativa non mantenuta; concetto necessario solo nominato o mancante; rinvio generico o verso contenuto incompleto; autonomia didattica insufficiente; guida operativa usata al posto della teoria. `parziale` impedisce la pubblicabilita; `rinviato` richiede verifica della destinazione.
