@@ -3,6 +3,7 @@ export type CoverageStatus = (typeof COVERAGE_STATUSES)[number]
 export interface CoverageRow { familyProfile: string; subject: string; concepts: string; frequencyWeight: string; sources: string; location: string; theoreticalCoverage: string; application: string; competitionOutput: string; verification: string; status: string; normativeReview: string; referralDestination: string }
 export interface CoverageIssue { row: number; code: "blocking-status" | "missing-referral-destination" | "missing-source" | "invalid-status" | "incomplete-complete-row"; message: string }
 const FIELDS: Record<string, keyof CoverageRow> = { "famiglia/profilo": "familyProfile", "famiglia e profilo": "familyProfile", materia: "subject", "concetto/sotto-concetti": "concepts", "concetto e sotto-concetti": "concepts", "frequenza/peso": "frequencyWeight", "fonti consolidate": "sources", fonti: "sources", collocazione: "location", "copertura teorica": "theoreticalCoverage", applicazione: "application", "output concorsuale": "competitionOutput", "verifica apprendimento": "verification", verifica: "verification", stato: "status", "review normativa": "normativeReview", "destinazione rinvio": "referralDestination" }
+
 export function parseCoverageMatrix(markdown: string): CoverageRow[] {
   const lines = markdown.split(/\r?\n/), rows: CoverageRow[] = []
   for (let i = 0; i < lines.length - 1; i += 1) {
@@ -15,13 +16,14 @@ export function parseCoverageMatrix(markdown: string): CoverageRow[] {
   }
   return rows
 }
+
 export function auditCoverageRows(rows: CoverageRow[]) {
   const blockers: CoverageIssue[] = [], warnings: CoverageIssue[] = []; let complete = 0
   rows.forEach((row, index) => {
     const number = index + 1, status = row.status.trim().toLowerCase()
     if (!COVERAGE_STATUSES.includes(status as CoverageStatus)) blockers.push(issue(number, "invalid-status", `Stato non valido: ${row.status || "(vuoto)"}.`))
     else if (["solo-nominato", "mancante", "parziale"].includes(status)) blockers.push(issue(number, "blocking-status", `Lo stato ${status} non supera il gate editoriale.`))
-    if (status === "rinviato" && !row.referralDestination.trim()) blockers.push(issue(number, "missing-referral-destination", "Il rinvio non indica una destinazione precisa."))
+    if (status === "rinviato" && !isPreciseReferral(row.referralDestination)) blockers.push(issue(number, "missing-referral-destination", "Il rinvio non indica una destinazione precisa."))
     if (!row.sources.trim()) warnings.push(issue(number, "missing-source", "Manca una fonte consolidata."))
     if (status === "completo") {
       if (!row.theoreticalCoverage.trim() || !row.application.trim() || !row.verification.trim()) blockers.push(issue(number, "incomplete-complete-row", "Una riga completa richiede teoria, applicazione e verifica."))
@@ -30,7 +32,29 @@ export function auditCoverageRows(rows: CoverageRow[]) {
   })
   return { blockers, warnings, complete }
 }
+
+export function isPreciseReferral(destination: string): boolean {
+  const value = destination.trim()
+  if (!value || /^(?:volume base|altrove|vedi sopra)$/i.test(value)) return false
+  if (/\[\[[^\]]+#[^\]]+\]\]/.test(value)) return true
+  const hasTarget = /\[\[[^\]]+\]\]/.test(value) || /(?:^|\s)(?:\.{0,2}\/)?[\w./-]+\.md\b/i.test(value)
+  const hasSection = /\bcap(?:itolo)?\.?\s*[\w-]+/i.test(value) || /(?:§|\bpar(?:agrafo)?\.?)\s*[\w-]+/i.test(value)
+  return hasTarget && hasSection
+}
+
 function emptyRow(): CoverageRow { return { familyProfile: "", subject: "", concepts: "", frequencyWeight: "", sources: "", location: "", theoreticalCoverage: "", application: "", competitionOutput: "", verification: "", status: "", normativeReview: "", referralDestination: "" } }
-function tableLine(line: string) { const value = line.trim(); return value.startsWith("|") && value.endsWith("|") ? value.slice(1, -1).split("|").map((cell) => cell.trim()) : null }
+function tableLine(line: string) { const value = line.trim(); return value.startsWith("|") && value.endsWith("|") ? tokenize(value.slice(1, -1)) : null }
+function tokenize(value: string) {
+  const cells: string[] = []; let cell = "", inCode = false, inWikilink = false
+  for (let index = 0; index < value.length; index += 1) {
+    const char = value[index], next = value[index + 1]
+    if (char === "\\" && next === "|") { cell += "|"; index += 1; continue }
+    if (!inCode && char === "[" && next === "[") { inWikilink = true; cell += "[["; index += 1; continue }
+    if (!inCode && inWikilink && char === "]" && next === "]") { inWikilink = false; cell += "]]"; index += 1; continue }
+    if (!inWikilink && char === "`") { inCode = !inCode; cell += char; continue }
+    if (char === "|" && !inCode && !inWikilink) { cells.push(cell.trim()); cell = "" } else cell += char
+  }
+  cells.push(cell.trim()); return cells
+}
 function separator(line: string) { const cells = tableLine(line); return Boolean(cells?.length && cells.every((cell) => /^:?-{3,}:?$/.test(cell))) }
 function issue(row: number, code: CoverageIssue["code"], message: string): CoverageIssue { return { row, code, message } }

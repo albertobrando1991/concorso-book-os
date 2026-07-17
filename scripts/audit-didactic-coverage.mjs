@@ -5,13 +5,14 @@ const files = find(process.cwd())
 if (!files.length) { console.log("Audit copertura didattica: nessuna matrice *-matrice-copertura-didattica.md trovata."); process.exit(0) }
 let blockers = 0, warnings = 0, complete = 0
 for (const file of files) {
-  const rows = parse(fs.readFileSync(file, "utf8")); const result = audit(rows)
+  const rows = parse(fs.readFileSync(file, "utf8")), result = audit(rows)
   blockers += result.blockers.length; warnings += result.warnings.length; complete += result.complete
   console.log(`${path.relative(process.cwd(), file)}: ${rows.length} righe, ${result.complete} complete, ${result.blockers.length} blocker, ${result.warnings.length} warning`)
   for (const item of [...result.blockers, ...result.warnings]) console.log(`  riga ${item.row}: ${item.message}`)
 }
 console.log(`Totale: ${files.length} matrici, ${complete} righe complete, ${blockers} blocker, ${warnings} warning.`)
 process.exitCode = blockers ? 1 : 0
+
 function find(root) { const found = []; for (const entry of fs.readdirSync(root, { withFileTypes: true })) { if ([".git", "node_modules"].includes(entry.name)) continue; const target = path.join(root, entry.name); if (entry.isDirectory()) found.push(...find(target)); else if (entry.name.endsWith("-matrice-copertura-didattica.md")) found.push(target) } return found.sort() }
 function parse(markdown) {
   const lines = markdown.split(/\r?\n/), rows = []
@@ -26,8 +27,10 @@ function parse(markdown) {
 }
 function audit(rows) {
   const blockers = [], warnings = []; let complete = 0
-  rows.forEach((row, i) => { const number = i + 1, status = row.status.trim().toLowerCase(); if (!valid.has(status)) blockers.push({ row: number, message: `stato non valido: ${row.status || "(vuoto)"}` }); else if (["parziale", "solo-nominato", "mancante"].includes(status)) blockers.push({ row: number, message: `stato bloccante: ${status}` }); if (status === "rinviato" && !row.referral.trim()) blockers.push({ row: number, message: "rinvio senza destinazione precisa" }); if (!row.sources.trim()) warnings.push({ row: number, message: "fonte consolidata mancante" }); if (status === "completo") { if (!row.theory.trim() || !row.application.trim() || !row.verification.trim()) blockers.push({ row: number, message: "riga completa priva di teoria, applicazione o verifica" }); else complete += 1 } })
+  rows.forEach((row, i) => { const number = i + 1, status = row.status.trim().toLowerCase(); if (!valid.has(status)) blockers.push({ row: number, message: `stato non valido: ${row.status || "(vuoto)"}` }); else if (["parziale", "solo-nominato", "mancante"].includes(status)) blockers.push({ row: number, message: `stato bloccante: ${status}` }); if (status === "rinviato" && !precise(row.referral)) blockers.push({ row: number, message: "rinvio senza destinazione precisa" }); if (!row.sources.trim()) warnings.push({ row: number, message: "fonte consolidata mancante" }); if (status === "completo") { if (!row.theory.trim() || !row.application.trim() || !row.verification.trim()) blockers.push({ row: number, message: "riga completa priva di teoria, applicazione o verifica" }); else complete += 1 } })
   return { blockers, warnings, complete }
 }
-function line(text) { const value = text.trim(); return value.startsWith("|") && value.endsWith("|") ? value.slice(1, -1).split("|").map((cell) => cell.trim()) : null }
+function precise(destination) { const value = destination.trim(); if (!value || /^(?:volume base|altrove|vedi sopra)$/i.test(value)) return false; if (/\[\[[^\]]+#[^\]]+\]\]/.test(value)) return true; const target = /\[\[[^\]]+\]\]/.test(value) || /(?:^|\s)(?:\.{0,2}\/)?[\w./-]+\.md\b/i.test(value), section = /\bcap(?:itolo)?\.?\s*[\w-]+/i.test(value) || /(?:§|\bpar(?:agrafo)?\.?)\s*[\w-]+/i.test(value); return target && section }
+function line(text) { const value = text.trim(); return value.startsWith("|") && value.endsWith("|") ? tokenize(value.slice(1, -1)) : null }
+function tokenize(value) { const cells = []; let cell = "", inCode = false, inWikilink = false; for (let i = 0; i < value.length; i += 1) { const char = value[i], next = value[i + 1]; if (char === "\\" && next === "|") { cell += "|"; i += 1; continue } if (!inCode && char === "[" && next === "[") { inWikilink = true; cell += "[["; i += 1; continue } if (!inCode && inWikilink && char === "]" && next === "]") { inWikilink = false; cell += "]]"; i += 1; continue } if (!inWikilink && char === "`") { inCode = !inCode; cell += char; continue } if (char === "|" && !inCode && !inWikilink) { cells.push(cell.trim()); cell = "" } else cell += char } cells.push(cell.trim()); return cells }
 function separator(text) { const cells = line(text); return Boolean(cells?.length && cells.every((cell) => /^:?-{3,}:?$/.test(cell))) }
