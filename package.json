@@ -9,6 +9,7 @@
     "start": "next start",
     "screenshot": "node scripts/capture-screenshot.mjs",
     "hermes:install-skill": "node scripts/install-hermes-concorsobook-skill.mjs",
+    "audit:coverage": "node scripts/audit-didactic-coverage.mjs",
     "typecheck": "tsc --noEmit",
     "test": "vitest run",
     "test:watch": "vitest"
