@@ -37,22 +37,29 @@ export function isPreciseReferral(destination: string): boolean {
   const value = destination.trim()
   if (!value || /^(?:volume base|altrove|vedi sopra)$/i.test(value)) return false
   if (/\[\[[^\]]+#[^\]]+\]\]/.test(value)) return true
-  const hasTarget = /\[\[[^\]]+\]\]/.test(value) || /(?:^|\s)(?:\.{0,2}\/)?[\w./-]+\.md\b/i.test(value)
-  const hasSection = /\bcap(?:itolo)?\.?\s*[\w-]+/i.test(value) || /(?:§|\bpar(?:agrafo)?\.?)\s*[\w-]+/i.test(value)
-  return hasTarget && hasSection
+  const hasPathTarget = /\[\[[^\]]+\]\]/.test(value) || /(?:^|\s)(?:\.{0,2}\/)?[\w./-]+\.md\b/i.test(value)
+  const hasHumanTarget = /(?:\bVOL-\d+\b|\bM-[A-Z]{2}\d+\b|\bvolume\s+\d+\b)/i.test(value)
+  const hasChapter = /\bcap(?:itolo)?\.?\s*[\w-]+/i.test(value)
+  const hasParagraph = /(?:§|\bpar(?:agrafo)?\.?)\s*[\w-]+/i.test(value)
+  return (hasPathTarget && (hasChapter || hasParagraph)) || (hasHumanTarget && hasChapter && hasParagraph)
 }
 
 function emptyRow(): CoverageRow { return { familyProfile: "", subject: "", concepts: "", frequencyWeight: "", sources: "", location: "", theoreticalCoverage: "", application: "", competitionOutput: "", verification: "", status: "", normativeReview: "", referralDestination: "" } }
 function tableLine(line: string) { const value = line.trim(); return value.startsWith("|") && value.endsWith("|") ? tokenize(value.slice(1, -1)) : null }
 function tokenize(value: string) {
-  const cells: string[] = []; let cell = "", inCode = false, inWikilink = false
+  const cells: string[] = []; let cell = "", codeDelimiterLength = 0, inWikilink = false
   for (let index = 0; index < value.length; index += 1) {
     const char = value[index], next = value[index + 1]
     if (char === "\\" && next === "|") { cell += "|"; index += 1; continue }
-    if (!inCode && char === "[" && next === "[") { inWikilink = true; cell += "[["; index += 1; continue }
-    if (!inCode && inWikilink && char === "]" && next === "]") { inWikilink = false; cell += "]]"; index += 1; continue }
-    if (!inWikilink && char === "`") { inCode = !inCode; cell += char; continue }
-    if (char === "|" && !inCode && !inWikilink) { cells.push(cell.trim()); cell = "" } else cell += char
+    if (!codeDelimiterLength && char === "[" && next === "[") { inWikilink = true; cell += "[["; index += 1; continue }
+    if (!codeDelimiterLength && inWikilink && char === "]" && next === "]") { inWikilink = false; cell += "]]"; index += 1; continue }
+    if (!inWikilink && char === "`") {
+      let run = 1; while (value[index + run] === "`") run += 1
+      if (!codeDelimiterLength) codeDelimiterLength = run
+      else if (run === codeDelimiterLength) codeDelimiterLength = 0
+      cell += "`".repeat(run); index += run - 1; continue
+    }
+    if (char === "|" && !codeDelimiterLength && !inWikilink) { cells.push(cell.trim()); cell = "" } else cell += char
   }
   cells.push(cell.trim()); return cells
 }

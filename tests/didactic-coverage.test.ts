@@ -25,8 +25,13 @@ describe("didactic coverage matrix", () => {
     const rows = parseCoverageMatrix(matrix(`| M-FC02 | Amministrativo | Accesso | media | [[sources/accesso]] | rinvio | contesto | esempio | quiz | checkpoint | rinviato | review | ${destination} |`))
     expect(auditCoverageRows(rows).blockers).toEqual(expect.arrayContaining([expect.objectContaining({ code: "missing-referral-destination" })]))
   })
-  it.each(["[[books/base#accesso-documentale]]", "books/base.md, capitolo 4, paragrafo 2"])("accepts the precise referral %s", (destination) => {
+  it.each(["[[books/base#accesso-documentale]]", "books/base.md, capitolo 4, paragrafo 2", "VOL-01, capitolo 4, paragrafo 2", "M-FC02, capitolo 3, paragrafo Organi", "volume 1, capitolo 4, paragrafo 2"])("accepts the precise referral %s", (destination) => {
     const rows = parseCoverageMatrix(matrix(`| M-FC02 | Amministrativo | Accesso | media | [[sources/accesso]] | rinvio | contesto | esempio | quiz | checkpoint | rinviato | review | ${destination} |`))
+    expect(auditCoverageRows(rows).blockers).toEqual([])
+  })
+  it("keeps pipes inside multi-backtick code spans", () => {
+    const rows = parseCoverageMatrix(matrix("| M-FC02 | Tributario | ``x | ` y`` | alta | [[sources/imposta]] | cap. 4 | definizione | caso | quiz | domanda | completo | review | |"))
+    expect(rows[0]).toMatchObject({ concepts: "``x | ` y``", status: "completo" })
     expect(auditCoverageRows(rows).blockers).toEqual([])
   })
   it("warns when a consolidated source is missing", () => {
