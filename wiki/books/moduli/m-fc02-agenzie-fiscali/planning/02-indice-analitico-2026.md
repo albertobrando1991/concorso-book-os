@@ -2,14 +2,14 @@
 id: planning-m-fc02-indice-analitico-2026
 type: module_planning
 title: "M-FC02 - Indice analitico Agenzie fiscali"
-status: source_ready
+status: revised_draft
 domain: "concorsi pubblici italiani"
 topics: ["agenzie fiscali", "diritto tributario", "dogane", "riscossione"]
 entities: ["Agenzia delle Entrate", "ADM", "AdER"]
 source_refs: ["sources/m-fc02-corpus-ufficiale-integrativo-2026-07-17"]
 book_refs: ["m-fc02-agenzie-fiscali", "vol-03-fisco-dogane-previdenza-ispettivo"]
 confidence: 0.96
-updated_at: 2026-07-17T20:20:00+02:00
+updated_at: 2026-07-18T00:00:00+02:00
 created_at: 2026-07-17T20:20:00+02:00
 review_required: true
 canonical: true
@@ -18,7 +18,7 @@ book_id: m-fc02-agenzie-fiscali
 module_code: M-FC02
 module_family: funzioni-centrali
 companion_to: il-metodo-bando
-draft_stage: source-ready
+draft_stage: revised-editorial-draft
 ---
 
 # M-FC02 - Agenzie fiscali
@@ -31,15 +31,15 @@ draft_stage: source-ready
 
 ## Blocco B - Ciclo tributario
 
-4. Principi, fonti e obbligazione tributaria.
+4. Principi, fonti UE/nazionali e obbligazione tributaria — cap. 4.
 5. IRPEF, IRES e reddito d'impresa.
 6. IVA e imposte indirette.
 7. Dichiarazioni, versamenti e adempimenti.
 8. Accertamento, istruttoria e contraddittorio.
 9. Interpello, compliance e adempimento collaborativo.
 10. Riscossione e AdER.
-11. Sanzioni amministrative e reati tributari.
-12. Processo tributario essenziale.
+11. Sanzioni amministrative e reati tributari — intercalare 5A, sviluppato.
+12. Tutela e processo tributario secondo TU 175 vigente — intercalare 5B, sviluppato.
 
 ## Blocco C - Dogane e monopoli
 
@@ -55,5 +55,5 @@ draft_stage: source-ready
 19. Civile e commerciale applicati.
 20. Laboratorio M-FC02.
 
-Ogni capitolo usa la struttura: apertura, obiettivo, Mappa BANDO, spiegazione, cinque righe, caso, domanda, trappola, errore, esercizio, fonti e review. La scomposizione completa è in [[books/volumi/vol-03-fisco-dogane-previdenza-ispettivo/planning/02-indice-analitico-ricostruito-2026]].
+Le 20 voci analitiche sono distribuite nei 14 capitoli numerati e nei due intercalari 5A/5B, senza rinumerare 6-14. Ogni capitolo usa la struttura: apertura, obiettivo, Mappa BANDO, spiegazione, cinque righe, caso, domanda, trappola, errore, esercizio, fonti e review. La scomposizione completa è in [[books/volumi/vol-03-fisco-dogane-previdenza-ispettivo/planning/02-indice-analitico-ricostruito-2026]].
 

@@ -25,8 +25,8 @@ affected_pages: ["books/moduli/m-fc02-agenzie-fiscali"]
 
 - Genere editoriale: manuale-workbook specialistico per concorsi nelle Agenzie fiscali.
 - Pubblico target: candidati AE, ADM, AdER e profili Territorio/SPI, con nucleo comune nel VOL-01.
-- Perimetro di questa revisione: index, piano, indice analitico e tutti i 14 capitoli; confronto con source/topic/entity consolidate.
-- Stato generale in una frase: capitoli 12 e 14 ora sviluppati e approvati nei rispettivi perimetri, ma modulo ancora non pubblicabile per 22 blocker residui: 17 nuclei parziali, 1 solo nominato e 4 mancanti.
+- Perimetro di questa revisione: index, piano, indice analitico, 14 capitoli numerati e intercalari 5A/5B; confronto con source/topic/entity consolidate.
+- Stato generale in una frase: sanzioni, reati, processo e quadro UE sono ora sviluppati e tracciati, ma il modulo resta non pubblicabile per 18 blocker residui: 17 nuclei parziali e 1 solo nominato.
 
 ## 2. Punti applicati della checklist
 
@@ -37,13 +37,13 @@ Applicati i punti 1-15 e 17-21, 29-30, oltre al gate aggiuntivo di copertura int
 | ID | Posizione | Categoria | Gravita | Descrizione | Correzione proposta | Stato |
 | --- | --- | --- | --- | --- | --- | --- |
 | E01 | Cap. 12, intero | Completezza spiegazioni/gate | Grave | Il precedente stato `source_ready` e' superato: civile, contratti, impresa e societa sono sviluppati con casi e verifiche. La crisi resta deliberatamente parziale. | Mantenere chiuso il gap strutturale; consolidare una source ufficiale dedicata prima di ampliare la crisi d'impresa. | Chiuso per civile/commerciale; crisi aperta |
-| E02 | Cap. 14, intero | Completezza spiegazioni/gate | Grave | Il precedente placeholder e' superato: il capitolo e' un workbook autonomo con glossario di 80 voci, tavole, scadenziario, schemi, canvas, orale e ripasso. Non sostituisce i nuclei teorici mancanti o parziali. | Mantenere chiuso il gap workbook; sviluppare separatamente sanzioni, reati, processo, UE, privacy e destinazioni cross-family. | Chiuso per workbook; nuclei teorici aperti |
-| E03 | Indice analitico, punto 11 | Promessa non mantenuta | Grave | Le sanzioni amministrative tributarie sono promesse ma non hanno un blocco didattico. | Inserire una collocazione responsabile con sistema, principi, rapporti con ravvedimento e verifiche. | Aperto |
-| E04 | Indice analitico, punto 12 | Promessa non mantenuta | Grave | Il processo tributario essenziale e' solo sfiorato come tutela giurisdizionale. | Creare blocco su giurisdizione, atti impugnabili, ricorso, termini, fasi ed esiti, con fonte vigente. | Aperto |
+| E02 | Cap. 14, intero | Completezza spiegazioni/gate | Grave | Il precedente placeholder e' superato: il capitolo e' un workbook autonomo con glossario di 80 voci, tavole, scadenziario, schemi, canvas, orale e ripasso. Non sostituisce i nuclei teorici mancanti o parziali. | Mantenere chiuso il gap workbook; sviluppare separatamente privacy e destinazioni cross-family, senza attribuire al workbook funzioni teoriche ulteriori. | Chiuso per workbook; nuclei teorici aperti |
+| E03 | Cap. 5A | Promessa didattica | Grave | Sanzioni amministrative e reati tributari sono ora sviluppati con fonti vigenti, casi, quiz e verifiche. | Mantenere review tributaria/penal-tributaria e controllo del passaggio al TU 173 dal 2027. | Chiuso |
+| E04 | Cap. 5B | Promessa didattica | Grave | Tutela e processo tributario sono ora sviluppati autonomamente secondo il TU 175 vigente, con cautela, prova, impugnazioni ed esecuzione. | Mantenere verifica articolo-specifica e review processual-tributaria. | Chiuso |
 | E05 | Cap. 5, `Profili ACFI e fiscalita internazionale` | Solo nominato | Grave | La fiscalita internazionale e' dichiarata necessaria ma priva di istituti, caso e verifica dedicati. | Definire perimetro ACFI e consolidare fonti su operazioni transnazionali prima dello sviluppo. | Aperto |
 | E06 | Capp. 4 e 6, redditi | Completezza spiegazioni | Grave | IRPEF, IRES, categorie e reddito d'impresa restano una mappa introduttiva rispetto al peso promesso. | Integrare soggetti, categorie, determinazione e distinzioni ad alta frequenza con casi e quiz. | Aperto |
 | E07 | Capp. 4 e 6, IVA | Completezza spiegazioni | Grave | Architettura IVA presente, ma casistica, esclusioni e applicazione sono troppo sintetiche per autonomia specialistica. | Ampliare presupposti/operazioni, detrazione, documentazione e liquidazione con casi graduati. | Aperto |
-| E08 | Cap. 5, tutela | Progressione/completezza | Grave | Autotutela, definizione e tutela giurisdizionale sono inquadrate ma non insegnate sistematicamente. | Separare istituti, presupposti, competenze, conseguenze e raccordo col processo. | Aperto |
+| E08 | Capp. 5 e 5B, tutela amministrativa/deflativa | Progressione/completezza | Grave | Il cap. 5B copre sistematicamente tutela giurisdizionale e processo. Restano parziali le condizioni e gli effetti articolo-specifici di autotutela e degli ulteriori strumenti amministrativi/deflativi richiamati nei capp. 5 e 5B. | Sviluppare per ciascuno strumento amministrativo/deflativo presupposti, competenza, procedimento ed effetti, senza riaprire il nucleo processuale gia coperto. | Aperto, perimetro delimitato |
 | E09 | Cap. 7, misure cautelari/esecutive | Completezza | Grave | Categorie presenti, ma presupposti, limiti e distinzioni non raggiungono autonomia didattica. | Integrare schema comparativo e caso, dopo verifica delle soglie vigenti. | Aperto |
 | E10 | Cap. 8, regimi e debito doganale | Completezza | Grave | Regimi, debito e garanzia sono corretti come mappa ma insufficienti per il peso ADM. | Sviluppare condizioni, effetti, responsabilita e casi distinti con CDU consolidato. | Aperto |
 | E11 | Cap. 9, settori accise e giochi | Completezza | Grave | Prodotti, prelievi e controlli sono volutamente sintetici; l'output specialistico resta parziale. | Integrare nucleo stabile e rinviare solo dati mobili a fonti vive precise. | Aperto |
@@ -68,13 +68,20 @@ Applicati i punti 1-15 e 17-21, 29-30, oltre al gate aggiuntivo di copertura int
 - Criticita: assetti e regolamenti sono mobili e correttamente marcati per review.
 
 ### Capitolo 4 - Diritto tributario e teoria dell'imposta
-- Punti di forza: nucleo teorico di base completo, progressivo e verificato.
+- Punti di forza: nucleo teorico di base e Livello 3 UE completi, con competenze, fonti, IVA armonizzata e sistema CDU tracciati.
 - Criticita: TUIR/IVA non raggiungono da soli la profondita specialistica promessa dai capitoli successivi.
 
 ### Capitolo 5 - Accertamento, controlli e compliance
 - Punti di forza: ciclo del controllo, contraddittorio e compliance sono ben strutturati.
 - Criticita: tutela e fiscalita internazionale sono rispettivamente parziale e solo nominata.
 
+### Capitolo 5A - Sanzioni amministrative e reati tributari
+- Punti di forza: distingue tributo, interessi, sanzione e reato; sviluppa parte generale, fattispecie, ravvedimento e D.Lgs. 74/2000 con casi e verifiche.
+- Criticita: soglie, pene e disciplina temporale richiedono review umana; il TU 173 resta applicabile dal 2027.
+
+### Capitolo 5B - Tutela e processo tributario
+- Punti di forza: percorso autonomo dal riesame all'ottemperanza secondo TU 175, con prova, cautela, PTT, conciliazione e impugnazioni.
+- Criticita: termini, specifiche telematiche e singoli articoli richiedono controllo sulla versione coordinata vigente.
 ### Capitolo 6 - Adempimenti fiscali
 - Punti di forza: sequenza economica-documentale-dichiarativa chiara e applicata.
 - Criticita: redditi, IVA, dichiarazioni correttive/integrative e compensazioni richiedono espansione.
@@ -109,13 +116,13 @@ Applicati i punti 1-15 e 17-21, 29-30, oltre al gate aggiuntivo di copertura int
 
 ### Capitolo 14 - Appendici operative
 - Punti di forza: workbook autonomo con 80 voci di glossario, tavole comparative, scadenziario, checklist, schemi, canvas, orale e piano 1-3-7-14-30; rinvii verificati ai capitoli.
-- Criticita: i presidi su sanzioni, reati, UE e privacy sono solo avvertenze operative; crisi e rinvii cross-family restano parziali e non vanno scambiati per teoria validata.
+- Criticita: i presidi su privacy, crisi e rinvii cross-family restano parziali e non vanno scambiati per teoria validata.
 
 ## 5. Coerenza globale
 
 - Terminologia: generalmente coerente; distinzione accertamento/riscossione ben presidiata.
-- Struttura vs indice: capitoli 12 e 14 non sono piu placeholder; restano non mantenute le promesse teoriche su sanzioni, reati, processo e sintesi UE, oltre ai nuclei parziali censiti.
-- Promesse dell'introduzione mantenute: solo in parte. Orientamento, performance, civile/commerciale e workbook sono forti; i 22 blocker impediscono ancora la copertura integrale.
+- Struttura vs indice: coerente per sanzioni, reati, processo e quadro UE, ora collocati nei capp. 5A, 5B e 4; restano i 18 blocker parziali/solo nominati censiti.
+- Promesse dell'introduzione mantenute: solo in parte. Orientamento, performance, civile/commerciale, sanzioni/processo, quadro UE e workbook sono forti; i 18 blocker impediscono ancora la copertura integrale.
 
 ## 6. Contenuto da verificare
 
@@ -134,21 +141,21 @@ Applicati i punti 1-15 e 17-21, 29-30, oltre al gate aggiuntivo di copertura int
 
 ## 8. Priorita degli interventi
 
-1. Sviluppare i quattro nuclei mancanti: sanzioni amministrative tributarie, reati tributari/contro la PA, processo tributario e sintesi UE fiscale-doganale trasversale.
-2. Sviluppare la fiscalita internazionale, oggi solo nominata.
-3. Chiudere i 17 nuclei parziali elencati nel giudizio di pubblicabilita, senza usare il workbook come sostituto della teoria.
-4. Consolidare le fonti mancanti e svolgere review normativa, contabile, estimativa, privacy e crisi.
-5. Validare le destinazioni cross-family e aggiornare laboratorio e matrice soltanto dopo la verifica dei contenuti riceventi.
+1. Chiudere i 17 nuclei parziali senza usare capitoli operativi o rinvii generici come sostituti della teoria.
+2. Sviluppare la fiscalita internazionale ACFI, unico nucleo ancora solo nominato.
+3. Consolidare le fonti mancanti per crisi, privacy e verticali tecnici e svolgere review specialistiche.
+4. Riesaminare casi, quiz e laboratorio dopo la chiusura dei nuclei tecnici.
+5. Validare le destinazioni cross-family prima di trasformare i gap in rinvii editoriali.
 
 ## 9. Giudizio di pubblicabilita
 
-**Non pubblicabile allo stato attuale.** La matrice registra 80 nuclei: 58 `completo`, 17 `parziale`, 1 `solo-nominato`, 0 `rinviato`, 4 `mancante`. I blocker editoriali sono quindi 22.
+**Non pubblicabile allo stato attuale.** La matrice registra 80 nuclei: 62 `completo`, 17 `parziale`, 1 `solo-nominato`, 0 `rinviato`, 0 `mancante`. I blocker editoriali sono quindi 18.
 
-I 17 nuclei `parziale` sono:
+I 17 nuclei `parziale` restano:
 
 1. IRPEF/IRES, categorie reddituali e reddito d'impresa;
 2. IVA, casistica ed esclusioni;
-3. autotutela, definizione e tutela giurisdizionale;
+3. condizioni ed effetti articolo-specifici di autotutela e degli ulteriori strumenti amministrativi/deflativi;
 4. dichiarazione, versamento, compensazione e correzioni;
 5. misure cautelari ed esecuzione forzata AdER;
 6. regimi doganali;
@@ -164,9 +171,7 @@ I 17 nuclei `parziale` sono:
 16. comunicazione, front-office e privacy;
 17. schede e destinazioni cross-family per crisi, HR, gare e ICT.
 
-Il nucleo `solo-nominato` e' la fiscalita internazionale ACFI. I quattro nuclei `mancante` sono sanzioni amministrative tributarie, reati tributari/contro la PA, processo tributario essenziale e diritto UE fiscale-doganale trasversale.
-
-E01 ed E02 sono chiusi soltanto come gap strutturali: il capitolo 12 insegna civile/commerciale e il capitolo 14 fornisce il workbook promesso. Non risultano invece chiusi crisi, sanzioni, reati, processo, UE, privacy o i rinvii cross-family. E16 mantiene inoltre obbligatoria la review normativa e tecnica prima della pubblicazione.
+Il nucleo `solo-nominato` e' la fiscalita internazionale ACFI. Non restano nuclei `mancante`: sanzioni, reati, processo e quadro UE sono stati chiusi didatticamente nei capp. 5A, 5B e 4. Questo non chiude gli altri 18 blocker ne' rende il modulo pubblicabile. E16 mantiene obbligatoria la review normativa e tecnica prima della pubblicazione.
 
 ## 10. Limiti di questa revisione
 Audit eseguito sul markdown e sulle note consolidate presenti nel wiki, senza usare `raw/` e senza ricerca web. Non sono stati verificati layout impaginato, vigenza articolo-per-articolo, correttezza specialistica contabile/estimativa o aggiornamento dei sistemi telematici. Lo stato `completo` indica completezza didattica rispetto alla promessa locale osservata, non certificazione normativa finale.

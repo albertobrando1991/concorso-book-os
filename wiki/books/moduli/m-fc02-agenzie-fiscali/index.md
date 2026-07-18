@@ -2,7 +2,7 @@
 id: m-fc02-agenzie-fiscali
 type: specialist_module
 title: "M-FC02 - Agenzie Fiscali"
-status: source_ready
+status: revised_draft
 domain: "concorsi pubblici italiani"
 topics: ["moduli specialistici","funzioni-centrali","agenzie fiscali","metodo bando"]
 entities: ["Metodo BANDO","Capitale Personale","Agenzia delle Entrate","Agenzia delle Dogane e dei Monopoli","Agenzia delle Entrate-Riscossione"]
@@ -16,26 +16,29 @@ source_refs: [
   "sources/catasto-pubblicita-immobiliare-estimo-m-fc02.md",
   "sources/adempimento-collaborativo-compliance-fiscale-m-fc02.md",
   "sources/adempimenti-contabilita-civile-commerciale-m-fc02.md",
-  "sources/reati-e-sanzioni-tributarie-m-fc02.md",
+  "sources/sanzioni-amministrative-tributarie-aggiornamento-2026-07-18.md",
+  "sources/reati-tributari-dlgs-74-2000-aggiornamento-2026-07-18.md",
+  "sources/processo-tributario-dlgs-175-2024-aggiornamento-2026-07-18.md",
+  "sources/diritto-ue-fiscale-doganale-iva-cdu-2026-07-18.md",
   "sources/metodo-bando-progetto-editoriale.md",
   "sources/struttura-madre-il-metodo-bando.md"
 ]
 book_refs: ["il-metodo-bando","moduli-specialistici"]
 confidence: 0.86
-updated_at: 2026-07-01T21:00:00+02:00
+updated_at: 2026-07-18T00:00:00+02:00
 created_at: 2026-06-27T19:56:28+02:00
 review_required: true
 canonical: true
-tags: ["specialist-module","module-family-funzioni-centrali","module-code-m-fc02","source-ready"]
+tags: ["specialist-module","module-family-funzioni-centrali","module-code-m-fc02","revised-draft"]
 book_id: m-fc02-agenzie-fiscali
 module_code: M-FC02
 module_family: funzioni-centrali
 module_family_title: "Funzioni Centrali"
-module_status: source_ready
+module_status: revised_draft
 roadmap_phase: "2"
 companion_to: il-metodo-bando
-draft_stage: source-ready
-last_compiled_from: ["wiki/books/moduli/architettura-moduli-specialistici.md","wiki/sources/m-fc02-dossier-redazionale-agenzie-fiscali.md"]
+draft_stage: revised-editorial-draft
+last_compiled_from: ["wiki/books/moduli/architettura-moduli-specialistici.md","wiki/sources/m-fc02-dossier-redazionale-agenzie-fiscali.md","wiki/sources/sanzioni-amministrative-tributarie-aggiornamento-2026-07-18.md","wiki/sources/reati-tributari-dlgs-74-2000-aggiornamento-2026-07-18.md","wiki/sources/processo-tributario-dlgs-175-2024-aggiornamento-2026-07-18.md","wiki/sources/diritto-ue-fiscale-doganale-iva-cdu-2026-07-18.md"]
 ---
 
 # M-FC02 - Agenzie Fiscali
@@ -50,7 +53,7 @@ Modulo specialistico collegato a [[books/il-metodo-bando/index|Il Metodo BANDO]]
 - Con cautela: profili AE gestionali/RU se il bando contiene fiscalita o organizzazione fiscale.
 - Fuori: ICT/AI/cybersecurity e big data (M-TR01), gare/appalti/PNRR (M-TR02), tecnico-ingegneristico puro/logistica/sicurezza (M-TR03), EPNE non fiscali (M-FC03).
 - Fase roadmap: 2
-- Stato: struttura predisposta e fonti ufficiali scaricate/schedate per avvio scrittura.
+- Stato: 14 capitoli numerati piu due intercalari 5A/5B sviluppati; restano 18 blocker didattici e review normative/tecniche.
 
 ## Confine editoriale
 Il modulo non sostituisce il libro principale. Parte dal nucleo comune del Metodo BANDO e aggiunge profili, prove, materie specialistiche, rischi, fonti e casi tipici della famiglia fiscale.
@@ -74,6 +77,8 @@ FM6. [[books/moduli/m-fc02-agenzie-fiscali/front-matter/06-indice|Indice]]
 3. [[books/moduli/m-fc02-agenzie-fiscali/chapters/03-ordinamento-organizzazione-ae-adm-ader|Ordinamento e organizzazione di AE, ADM e AdER]]
 4. [[books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta|Diritto tributario e teoria dell'imposta]]
 5. [[books/moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale|Accertamento, controlli e compliance fiscale]]
+5A. [[books/moduli/m-fc02-agenzie-fiscali/chapters/05a-sanzioni-amministrative-reati-tributari|Sanzioni amministrative e reati tributari]]
+5B. [[books/moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario|Tutela e processo tributario]]
 6. [[books/moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni|Adempimenti fiscali: redditi, IVA, dichiarazioni]]
 7. [[books/moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader|Riscossione nazionale e lavoro in AdER]]
 8. [[books/moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm|Dogane e procedure doganali ADM]]
@@ -94,10 +99,13 @@ FM6. [[books/moduli/m-fc02-agenzie-fiscali/front-matter/06-indice|Indice]]
 - [[sources/riscossione-agenzia-entrate-riscossione-m-fc02]]
 - [[sources/dogane-accise-giochi-monopoli-adm-m-fc02]]
 - [[sources/catasto-pubblicita-immobiliare-estimo-m-fc02]]
-- [[sources/reati-e-sanzioni-tributarie-m-fc02]]
+- [[sources/sanzioni-amministrative-tributarie-aggiornamento-2026-07-18]]
+- [[sources/reati-tributari-dlgs-74-2000-aggiornamento-2026-07-18]]
+- [[sources/processo-tributario-dlgs-175-2024-aggiornamento-2026-07-18]]
+- [[sources/diritto-ue-fiscale-doganale-iva-cdu-2026-07-18]]
 
 ## Fonti raw scaricate
-Le fonti grezze del modulo sono in `wiki/raw/m-fc02-agenzie-fiscali/`: dossier utente, bandi inPA/AE/ADM/AdER, Normattiva, MEF ed EUR-Lex. Nota: EUR-Lex Reg. UE 952/2013 ha restituito una challenge WAF nel download locale e va sostituito manualmente con copia ufficiale prima della pubblicazione.
+Le fonti grezze del modulo sono in `wiki/raw/m-fc02-agenzie-fiscali/`: dossier utente, bandi inPA/AE/ADM/AdER, Normattiva, Gazzetta Ufficiale, MEF ed EUR-Lex. Il quadro UE dispone ora di raw ufficiali consolidati per Trattati, direttiva IVA, CDU e atti 2446/2447; restano necessari controllo di versione e review umana al cut-off.
 
 ## Prossimo passo
-Scrivere i capitoli in sequenza con Manual Writer Agent usando questo modulo come `book_id`, il libro principale come base, il ricettario digitale come laboratorio operativo e le source notes M-FC02 come vincolo di tracciabilita.
+Chiudere i 18 blocker residui della matrice, aggiornare i casi dopo le review specialistiche e sottoporre il modulo a revisione normativa/tecnica prima di qualunque stato pubblicabile.
