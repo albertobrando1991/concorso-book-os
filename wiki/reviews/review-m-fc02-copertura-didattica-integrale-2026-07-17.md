@@ -26,7 +26,7 @@ affected_pages: ["books/moduli/m-fc02-agenzie-fiscali"]
 - Genere editoriale: manuale-workbook specialistico per concorsi nelle Agenzie fiscali.
 - Pubblico target: candidati AE, ADM, AdER e profili Territorio/SPI, con nucleo comune nel VOL-01.
 - Perimetro di questa revisione: index, piano, indice analitico, 14 capitoli numerati e intercalari 5A/5B; confronto con source/topic/entity consolidate.
-- Stato generale in una frase: sanzioni, reati, processo e quadro UE sono ora sviluppati e tracciati, ma il modulo resta non pubblicabile per 18 blocker residui: 17 nuclei parziali e 1 solo nominato.
+- Stato generale in una frase: sanzioni, reati, processo, quadro UE e perimetro selettivo ACFI sono ora sviluppati e tracciati, ma il modulo resta non pubblicabile per 17 blocker residui, tutti nuclei parziali.
 
 ## 2. Punti applicati della checklist
 
@@ -40,7 +40,7 @@ Applicati i punti 1-15 e 17-21, 29-30, oltre al gate aggiuntivo di copertura int
 | E02 | Cap. 14, intero | Completezza spiegazioni/gate | Grave | Il precedente placeholder e' superato: il capitolo e' un workbook autonomo con glossario di 80 voci, tavole, scadenziario, schemi, canvas, orale e ripasso. Non sostituisce i nuclei teorici mancanti o parziali. | Mantenere chiuso il gap workbook; sviluppare separatamente privacy e destinazioni cross-family, senza attribuire al workbook funzioni teoriche ulteriori. | Chiuso per workbook; nuclei teorici aperti |
 | E03 | Cap. 5A | Promessa didattica | Grave | Sanzioni amministrative e reati tributari sono ora sviluppati con fonti vigenti, casi, quiz e verifiche. | Mantenere review tributaria/penal-tributaria e controllo del passaggio al TU 173 dal 2027. | Chiuso |
 | E04 | Cap. 5B | Promessa didattica | Grave | Tutela e processo tributario sono ora sviluppati autonomamente secondo il TU 175 vigente, con cautela, prova, impugnazioni ed esecuzione. | Mantenere verifica articolo-specifica e review processual-tributaria. | Chiuso |
-| E05 | Cap. 5, `Profili ACFI e fiscalita internazionale` | Solo nominato | Grave | La fiscalita internazionale e' dichiarata necessaria ma priva di istituti, caso e verifica dedicati. | Definire perimetro ACFI e consolidare fonti su operazioni transnazionali prima dello sviluppo. | Aperto |
+| E05 | Cap. 5, `Profili ACFI e fiscalita internazionale` | Copertura selettiva ACFI | Grave | Il perimetro ACFI sviluppa residenza, stabile organizzazione, convenzioni e doppia imposizione, transfer pricing, documentazione e operazioni infragruppo, rischio fiscale e TCF, con fonti consolidate, caso, verifiche e quiz dedicati. | Mantenere il perimetro selettivo e la review normativa/editoriale; non estendere la promessa all'intera fiscalita internazionale. | Chiuso |
 | E06 | Capp. 4 e 6, redditi | Completezza spiegazioni | Grave | IRPEF, IRES, categorie e reddito d'impresa restano una mappa introduttiva rispetto al peso promesso. | Integrare soggetti, categorie, determinazione e distinzioni ad alta frequenza con casi e quiz. | Aperto |
 | E07 | Capp. 4 e 6, IVA | Completezza spiegazioni | Grave | Architettura IVA presente, ma casistica, esclusioni e applicazione sono troppo sintetiche per autonomia specialistica. | Ampliare presupposti/operazioni, detrazione, documentazione e liquidazione con casi graduati. | Aperto |
 | E08 | Capp. 5 e 5B, tutela amministrativa/deflativa | Progressione/completezza | Grave | Il cap. 5B copre sistematicamente tutela giurisdizionale e processo. Restano parziali le condizioni e gli effetti articolo-specifici di autotutela e degli ulteriori strumenti amministrativi/deflativi richiamati nei capp. 5 e 5B. | Sviluppare per ciascuno strumento amministrativo/deflativo presupposti, competenza, procedimento ed effetti, senza riaprire il nucleo processuale gia coperto. | Aperto, perimetro delimitato |
@@ -72,8 +72,8 @@ Applicati i punti 1-15 e 17-21, 29-30, oltre al gate aggiuntivo di copertura int
 - Criticita: TUIR/IVA non raggiungono da soli la profondita specialistica promessa dai capitoli successivi.
 
 ### Capitolo 5 - Accertamento, controlli e compliance
-- Punti di forza: ciclo del controllo, contraddittorio e compliance sono ben strutturati.
-- Criticita: tutela e fiscalita internazionale sono rispettivamente parziale e solo nominata.
+- Punti di forza: ciclo del controllo, contraddittorio e compliance sono ben strutturati; il blocco ACFI tratta con metodo operativo gli istituti internazionali selezionati, fino a caso, verifiche e quiz.
+- Criticita: la tutela resta parziale; il blocco ACFI richiede manutenzione normativa sulle fonti e convenzioni vigenti, senza promettere una trattazione integrale della fiscalita internazionale.
 
 ### Capitolo 5A - Sanzioni amministrative e reati tributari
 - Punti di forza: distingue tributo, interessi, sanzione e reato; sviluppa parte generale, fattispecie, ravvedimento e D.Lgs. 74/2000 con casi e verifiche.
@@ -121,8 +121,8 @@ Applicati i punti 1-15 e 17-21, 29-30, oltre al gate aggiuntivo di copertura int
 ## 5. Coerenza globale
 
 - Terminologia: generalmente coerente; distinzione accertamento/riscossione ben presidiata.
-- Struttura vs indice: coerente per sanzioni, reati, processo e quadro UE, ora collocati nei capp. 5A, 5B e 4; restano i 18 blocker parziali/solo nominati censiti.
-- Promesse dell'introduzione mantenute: solo in parte. Orientamento, performance, civile/commerciale, sanzioni/processo, quadro UE e workbook sono forti; i 18 blocker impediscono ancora la copertura integrale.
+- Struttura vs indice: coerente per sanzioni, reati, processo, quadro UE e perimetro ACFI, collocati nei capp. 5A, 5B, 4 e 5; restano i 17 blocker parziali censiti.
+- Promesse dell'introduzione mantenute: solo in parte. Orientamento, performance, civile/commerciale, sanzioni/processo, quadro UE, perimetro ACFI e workbook sono forti; i 17 blocker impediscono ancora la copertura integrale.
 
 ## 6. Contenuto da verificare
 
@@ -142,14 +142,14 @@ Applicati i punti 1-15 e 17-21, 29-30, oltre al gate aggiuntivo di copertura int
 ## 8. Priorita degli interventi
 
 1. Chiudere i 17 nuclei parziali senza usare capitoli operativi o rinvii generici come sostituti della teoria.
-2. Sviluppare la fiscalita internazionale ACFI, unico nucleo ancora solo nominato.
+2. Mantenere aggiornato e sottoposto a review il perimetro selettivo ACFI, senza ampliarlo implicitamente all'intera fiscalita internazionale.
 3. Consolidare le fonti mancanti per crisi, privacy e verticali tecnici e svolgere review specialistiche.
 4. Riesaminare casi, quiz e laboratorio dopo la chiusura dei nuclei tecnici.
 5. Validare le destinazioni cross-family prima di trasformare i gap in rinvii editoriali.
 
 ## 9. Giudizio di pubblicabilita
 
-**Non pubblicabile allo stato attuale.** La matrice registra 80 nuclei: 62 `completo`, 17 `parziale`, 1 `solo-nominato`, 0 `rinviato`, 0 `mancante`. I blocker editoriali sono quindi 18.
+**Non pubblicabile allo stato attuale.** La matrice registra 80 nuclei: 63 `completo`, 17 `parziale`, 0 `solo-nominato`, 0 `rinviato`, 0 `mancante`. I blocker editoriali sono quindi 17.
 
 I 17 nuclei `parziale` restano:
 
@@ -171,7 +171,7 @@ I 17 nuclei `parziale` restano:
 16. comunicazione, front-office e privacy;
 17. schede e destinazioni cross-family per crisi, HR, gare e ICT.
 
-Il nucleo `solo-nominato` e' la fiscalita internazionale ACFI. Non restano nuclei `mancante`: sanzioni, reati, processo e quadro UE sono stati chiusi didatticamente nei capp. 5A, 5B e 4. Questo non chiude gli altri 18 blocker ne' rende il modulo pubblicabile. E16 mantiene obbligatoria la review normativa e tecnica prima della pubblicazione.
+Il perimetro selettivo della fiscalita internazionale ACFI e' chiuso didatticamente nel cap. 5; non equivale a una promessa di copertura integrale della materia. Non restano nuclei `solo-nominato` o `mancante`: sanzioni, reati, processo, quadro UE e ACFI sono stati chiusi didatticamente nei capp. 5A, 5B, 4 e 5. Restano 17 blocker parziali e il modulo non e' pubblicabile. E16 mantiene obbligatoria la review normativa e tecnica prima della pubblicazione.
 
 ## 10. Limiti di questa revisione
 Audit eseguito sul markdown e sulle note consolidate presenti nel wiki, senza usare `raw/` e senza ricerca web. Non sono stati verificati layout impaginato, vigenza articolo-per-articolo, correttezza specialistica contabile/estimativa o aggiornamento dei sistemi telematici. Lo stato `completo` indica completezza didattica rispetto alla promessa locale osservata, non certificazione normativa finale.
