@@ -32,11 +32,11 @@ draft_stage: revised-editorial-draft
 ## Blocco B - Ciclo tributario
 
 4. Principi, fonti UE/nazionali e obbligazione tributaria — cap. 4.
-5. IRPEF, IRES e reddito d'impresa.
+5. IRPEF e IRES: quadro sistematico e soggetti - cap. 4, `IRPEF e IRES: il quadro sistematico`; categorie reddituali, determinazione, reddito d'impresa, casi e verifiche - cap. 6, da `Imposte sui redditi: qualificare prima di calcolare` a `Trappole e checklist operativa sui redditi`; raccordo civilistico-contabile e variazioni fiscali - cap. 11, `14. Dal bilancio al reddito imponibile`.
 6. IVA e imposte indirette.
 7. Dichiarazioni, versamenti e adempimenti.
 8. Accertamento, istruttoria e contraddittorio.
-9. Interpello, compliance e adempimento collaborativo.
+9. Interpello, compliance, adempimento collaborativo e verticale ACFI: residenza, stabile organizzazione, convenzioni e doppia imposizione, transfer pricing, documentazione e operazioni infragruppo, rischio fiscale e Tax Control Framework - cap. 5.
 10. Riscossione e AdER.
 11. Sanzioni amministrative e reati tributari — intercalare 5A, sviluppato.
 12. Tutela e processo tributario secondo TU 175 vigente — intercalare 5B, sviluppato.
