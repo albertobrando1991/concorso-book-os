@@ -41,11 +41,11 @@ Il primo raw locale conserva metadati e art. 1, poiche' il portale carica dinami
 
 ## Perimetro e divisione funzionale
 
-- Capitolo 4: presupposto, soggetti, categorie, reddito complessivo e architettura IRPEF/IRES.
-- Capitolo 6: sequenza dichiarativa, liquidazione, versamento e adempimenti.
-- Capitolo 11: risultato civilistico, principi contabili, variazioni fiscali e lettura economica del reddito d'impresa.
+- Capitolo 4: quadro sistematico, presupposto, soggetti, classificazione delle categorie, reddito complessivo e architettura IRPEF/IRES.
+- Capitolo 6: trattazione tributaria selettiva completa delle sei categorie, relative regole di determinazione, IRES, applicazioni, sequenza dichiarativa e adempimenti.
+- Capitolo 11: raccordo contabile, risultato civilistico, principi contabili, variazioni fiscali e lettura economica del reddito d'impresa.
 
-La fonte non autorizza nuovi capitoli. Il capitolo 4 non diventa un trattato contabile; il 6 non rispiega le categorie; l'11 non sostituisce la qualificazione tributaria.
+La fonte non autorizza nuovi capitoli. Il capitolo 6 sviluppa le categorie e l'IRES senza duplicare il quadro sistematico e classificatorio gia affidato al capitolo 4, ne' la base contabile e il ponte civilistico-fiscale affidati al capitolo 11. Il capitolo 4 non anticipa la trattazione selettiva completa del capitolo 6; il capitolo 11 non sostituisce la qualificazione tributaria delle categorie.
 
 ## Mappa normativa
 
