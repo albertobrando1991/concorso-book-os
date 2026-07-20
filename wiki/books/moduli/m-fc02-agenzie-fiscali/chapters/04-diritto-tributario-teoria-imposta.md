@@ -4,9 +4,9 @@ type: book_chapter
 title: "Diritto tributario e teoria dell'imposta"
 status: revised_draft
 domain: "concorsi pubblici italiani"
-topics: ["diritto tributario","teoria imposta","agenzie fiscali","obbligazione tributaria","imposte sui redditi","iva","diritto tributario UE","IVA armonizzata","diritto doganale UE"]
+topics: ["diritto tributario","teoria imposta","agenzie fiscali","obbligazione tributaria","imposte sui redditi","IRPEF","IRES","categorie reddituali","reddito complessivo","reddito d'impresa","iva","diritto tributario UE","IVA armonizzata","diritto doganale UE"]
 entities: ["Agenzia delle Entrate","Agenzia delle Dogane e dei Monopoli","Agenzia delle Entrate-Riscossione","Normattiva","Unione europea","Commissione europea","EUR-Lex"]
-source_refs: ["sources/normativa-tributaria-tuir-iva-accertamento-m-fc02.md","sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026.md","sources/costituzione-repubblica-italiana-testo-vigente.md","sources/diritto-ue-fiscale-doganale-iva-cdu-2026-07-18.md","sources/vol-03-fonti-specialistiche-fisco-dogane-previdenza-ispettivo.md","sources/m-fc02-corpus-ufficiale-integrativo-2026-07-17.md"]
+source_refs: ["sources/normativa-tributaria-tuir-iva-accertamento-m-fc02.md","sources/irpef-ires-categorie-reddito-impresa-aggiornamento-2026-07-18.md","sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026.md","sources/costituzione-repubblica-italiana-testo-vigente.md","sources/diritto-ue-fiscale-doganale-iva-cdu-2026-07-18.md","sources/vol-03-fonti-specialistiche-fisco-dogane-previdenza-ispettivo.md","sources/m-fc02-corpus-ufficiale-integrativo-2026-07-17.md"]
 book_refs: ["m-fc02-agenzie-fiscali","il-metodo-bando"]
 asset_refs:
   - "books/moduli/m-fc02-agenzie-fiscali/assets/chapter-04/01-mappa-bando-diritto-tributario.png"
@@ -15,7 +15,7 @@ asset_refs:
   - "books/moduli/m-fc02-agenzie-fiscali/assets/chapter-04/04-presupposto-base-aliquota.png"
   - "books/moduli/m-fc02-agenzie-fiscali/assets/chapter-04/05-tuir-iva-accertamento-riscossione.png"
 confidence: 0.95
-updated_at: 2026-07-18T00:00:00+02:00
+updated_at: 2026-07-20T00:00:00+02:00
 created_at: 2026-07-01T21:00:00+02:00
 review_required: true
 canonical: true
@@ -26,7 +26,7 @@ outline_section: 4
 draft_stage: revised-editorial-draft
 module_code: M-FC02
 module_family: funzioni-centrali
-last_compiled_from: ["wiki/sources/normativa-tributaria-tuir-iva-accertamento-m-fc02.md","wiki/topics/diritto-tributario-concorsi-agenzie-fiscali.md","wiki/sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026.md","wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md","wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/02-bando-decoder-fiscale.md","wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/03-ordinamento-organizzazione-ae-adm-ader.md","wiki/sources/costituzione-repubblica-italiana-testo-vigente.md","wiki/sources/diritto-ue-fiscale-doganale-iva-cdu-2026-07-18.md","wiki/sources/vol-03-fonti-specialistiche-fisco-dogane-previdenza-ispettivo.md","wiki/sources/m-fc02-corpus-ufficiale-integrativo-2026-07-17.md"]
+last_compiled_from: ["wiki/sources/normativa-tributaria-tuir-iva-accertamento-m-fc02.md","wiki/sources/irpef-ires-categorie-reddito-impresa-aggiornamento-2026-07-18.md","wiki/entities/agenzia-delle-entrate.md","wiki/topics/diritto-tributario-concorsi-agenzie-fiscali.md","wiki/sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026.md","wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md","wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/02-bando-decoder-fiscale.md","wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/03-ordinamento-organizzazione-ae-adm-ader.md","wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md","wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco.md","wiki/sources/costituzione-repubblica-italiana-testo-vigente.md","wiki/sources/diritto-ue-fiscale-doganale-iva-cdu-2026-07-18.md","wiki/sources/vol-03-fonti-specialistiche-fisco-dogane-previdenza-ispettivo.md","wiki/sources/m-fc02-corpus-ufficiale-integrativo-2026-07-17.md"]
 ---
 
 # Diritto tributario e teoria dell'imposta
@@ -271,6 +271,90 @@ Per non perdersi, usa tre domande:
 - quale conseguenza produce sul piano dichiarativo o di controllo?
 
 Se non sai rispondere, stai leggendo il TUIR come un elenco e non come una mappa.
+
+## IRPEF e IRES: il quadro sistematico
+
+Le imposte sui redditi si affrontano partendo dal soggetto, non dall'aliquota. La prima domanda e': chi realizza o possiede il reddito? La risposta orienta verso l'IRPEF o l'IRES e permette di scegliere le regole successive senza confondere qualificazione, determinazione e adempimento.
+
+### Soggetti IRPEF e soggetti IRES
+
+Sono soggetti passivi IRPEF le persone fisiche. La residenza fiscale incide sull'estensione del reddito rilevante: in termini generali, per il residente si considera il reddito secondo il criterio mondiale, mentre per il non residente rilevano i redditi collegati al territorio dello Stato secondo le regole applicabili. La sola cittadinanza non risolve la qualificazione e la residenza va verificata sul testo vigente e sui fatti del periodo.
+
+L'IRES riguarda le categorie di societa ed enti individuate dal TUIR: societa di capitali ed enti commerciali residenti, enti non commerciali residenti, societa ed enti non residenti. Questa mappa non rende identico il modo di determinare la base imponibile. Prima si identificano tipo di soggetto, residenza e natura commerciale o non commerciale; poi si applica la disciplina propria. Per le societa commerciali residenti, il reddito complessivo e' qualificato come reddito d'impresa.
+
+La distinzione essenziale e' quindi questa:
+
+| Domanda | IRPEF | IRES |
+|---|---|---|
+| Chi e' il soggetto? | Persona fisica | Societa o ente appartenente a una categoria dell'art. 73 TUIR |
+| Quale verifica viene prima? | Residenza e fonte del reddito | Tipo di ente, residenza e natura commerciale |
+| Come si costruisce il reddito? | Qualificazione nelle categorie e aggregazione secondo le regole applicabili | Disciplina della categoria di soggetto; per le societa commerciali residenti, reddito complessivo d'impresa |
+
+### La sequenza dell'IRPEF
+
+Per l'IRPEF, il calcolo si comprende come una successione di grandezze diverse:
+
+```text
+redditi delle categorie
+-> reddito complessivo
+-> oneri deducibili
+-> reddito imponibile
+-> imposta lorda
+-> detrazioni e altri scomputi applicabili
+-> imposta netta
+```
+
+Il **reddito complessivo** deriva dall'aggregazione dei redditi determinati nelle rispettive categorie, tenendo conto delle regole sulle perdite e delle esclusioni previste. Gli **oneri deducibili** riducono la grandezza reddituale e conducono al **reddito imponibile**. Sul reddito imponibile si determina l'**imposta lorda**. Le **detrazioni** operano invece sull'imposta lorda; crediti, ritenute e altri scomputi hanno funzioni proprie e devono essere collocati nel passaggio corretto.
+
+La formula da ricordare non e' numerica ma logica: la deduzione riduce il reddito, la detrazione riduce l'imposta. Aliquote, scaglioni, importi, limiti e regimi sostitutivi sono dati mobili: non appartengono a questo nucleo stabile e vanno controllati sulla disciplina vigente.
+
+### Le sei categorie dell'art. 6 TUIR
+
+L'art. 6 ordina i redditi in sei categorie:
+
+1. redditi fondiari;
+2. redditi di capitale;
+3. redditi di lavoro dipendente;
+4. redditi di lavoro autonomo;
+5. redditi d'impresa;
+6. redditi diversi.
+
+La categoria non e' un'etichetta descrittiva. Serve a selezionare le regole di determinazione, imputazione temporale, trattamento delle perdite e concorso al reddito complessivo. Per questo si qualifica prima e si calcola dopo. I redditi diversi, in particolare, non sono un contenitore libero per tutto cio' che non si riconosce: raccolgono fattispecie residuali tipizzate dalla legge.
+
+Questo capitolo non sviluppa la determinazione analitica delle singole categorie. Fissa invece il metodo necessario per affrontarle:
+
+```text
+fonte e causa del provento -> categoria -> criterio di determinazione e imputazione
+```
+
+La **fonte o il provento** e' il fatto economico da qualificare: un immobile, un investimento, un rapporto di lavoro, un'attivita professionale o imprenditoriale. La **categoria** e' la qualificazione tributaria risultante dai presupposti normativi. Il **criterio di determinazione** stabilisce come e quando la grandezza concorre al reddito. I tre piani non coincidono: un provento immobiliare, per esempio, non e' automaticamente reddito fondiario; puo' assumere altra qualificazione se mancano i requisiti della categoria o se il bene e' attratto nell'attivita d'impresa.
+
+Per la sequenza dichiarativa e il passaggio da imponibile a dichiarazione, liquidazione e versamento, la destinazione responsabile e' il [[books/moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni#Il ciclo dell'adempimento fiscale|capitolo 6, Il ciclo dell'adempimento fiscale]].
+
+### IRES e primo raccordo con il reddito d'impresa
+
+Nel caso paradigmatico della societa commerciale residente, il reddito complessivo e' reddito d'impresa. La sua determinazione muove dal risultato del conto economico e applica le variazioni in aumento o in diminuzione previste dalla disciplina fiscale. Il risultato civilistico e il reddito fiscale hanno dunque una relazione, ma non sono identici.
+
+Il bilancio rappresenta il risultato secondo le regole civilistiche e contabili. Il TUIR qualifica fiscalmente i componenti e puo' modificarne rilevanza, misura o periodo di imputazione. Un costo correttamente contabilizzato puo' essere indeducibile, deducibile solo in parte o in un periodo diverso; la conseguenza non e' riscrivere il bilancio, ma operare il raccordo fiscale previsto.
+
+La sequenza introduttiva e':
+
+```text
+risultato civilistico -> qualificazione fiscale dei componenti
+-> variazioni in aumento o in diminuzione -> reddito imponibile
+```
+
+Questo capitolo spiega perche' il raccordo esiste. La meccanica contabile e gli esercizi sulle variazioni competono al [[books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco#14. Dal bilancio al reddito imponibile|capitolo 11, Dal bilancio al reddito imponibile]].
+
+### Verifica risolta
+
+**Caso.** Una persona fisica riceve nello stesso periodo un compenso da lavoro dipendente, il provento di un investimento e una somma per una prestazione occasionale. Da quale importo deve partire per calcolare subito l'IRPEF?
+
+**Soluzione.** Non si parte dalla somma aritmetica degli incassi ne' dall'aliquota. Si identificano fonte e causa di ciascun provento, si verifica la categoria applicabile, si determina ogni reddito con le regole proprie e solo dopo si forma il reddito complessivo nei limiti previsti. Seguono oneri deducibili, imponibile, imposta lorda, detrazioni e altri scomputi. La prestazione occasionale non diventa lavoro autonomo abituale per il solo fatto di essere remunerata e neppure confluisce automaticamente nei redditi diversi senza verificare la fattispecie normativa.
+
+### Errore tipico
+
+Confondere il denaro ricevuto con il reddito imponibile. L'incasso e' un fatto finanziario; il reddito e' una grandezza qualificata e determinata dalla disciplina tributaria. Prima di calcolare occorre rispondere, nell'ordine: chi e' il soggetto, quale fonte ha prodotto il provento, in quale categoria rientra, quale criterio di determinazione e imputazione si applica.
 
 ## IVA: operazioni, soggetti, detrazione e adempimenti
 
@@ -574,7 +658,9 @@ Se manca uno di questi punti, il rischio e' portare nei capitoli successivi una 
 Questo capitolo e' costruito sulle note e sulle pagine consolidate del wiki del progetto:
 
 - [[sources/normativa-tributaria-tuir-iva-accertamento-m-fc02]]
+- [[sources/irpef-ires-categorie-reddito-impresa-aggiornamento-2026-07-18]]
 - [[topics/diritto-tributario-concorsi-agenzie-fiscali]]
+- [[entities/agenzia-delle-entrate]]
 - [[sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026]]
 - [[sources/costituzione-repubblica-italiana-testo-vigente]]
 - [[sources/diritto-ue-fiscale-doganale-iva-cdu-2026-07-18]]
@@ -583,12 +669,16 @@ Questo capitolo e' costruito sulle note e sulle pagine consolidate del wiki del 
 - [[books/moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali]]
 - [[books/moduli/m-fc02-agenzie-fiscali/chapters/02-bando-decoder-fiscale]]
 - [[books/moduli/m-fc02-agenzie-fiscali/chapters/03-ordinamento-organizzazione-ae-adm-ader]]
+- [[books/moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni]]
+- [[books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco]]
 
 Le fonti consolidate sostengono il nucleo teorico e concorsuale del capitolo. Per citazioni articolo-per-articolo e per dettagli su TUIR, IVA, accertamento, riscossione, riforma fiscale e decreti attuativi, resta necessaria una verifica su Normattiva e sulle fonti istituzionali aggiornate prima della pubblicazione.
 
 ## Note di review
 
 - Verificare su Normattiva il testo vigente del D.P.R. 917/1986, del D.P.R. 633/1972, del D.P.R. 600/1973 e della L. 111/2023 prima di inserire articoli, commi, soglie, date o esempi numerici.
+- Il quadro IRPEF/IRES consolida l'architettura stabile, non aliquote, scaglioni, soglie, importi, percentuali, termini o regimi mobili: verificarli sulla fonte ufficiale vigente prima della pubblicazione.
+- Sottoporre a review normativa articolo per articolo soggetti, residenza, categorie, formazione del reddito complessivo e raccordo civilistico-fiscale; verificare separatamente derivazione rafforzata ed eccezioni quando il bando richiede dettaglio.
 - Coordinare la terminologia con i capitoli 5, 6 e 7, cosi' che accertamento, adempimenti e riscossione mantengano lo stesso significato in tutto il modulo.
 - Integrare eventuali riferimenti allo Statuto dei diritti del contribuente solo dopo una source note consolidata dedicata, per evitare richiami non tracciati.
 - I quiz presenti in questa bozza sono didattici e non articolo-specifici; prima dell'export finale possono essere ampliati con quesiti normativi puntuali dopo review umana.
