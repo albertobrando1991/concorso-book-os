@@ -1591,3 +1591,11 @@
 - l0: l0/conv-20260721135706-iuija9.md
 - atoms:
   - mem-20260721135706-qa6u8k | result | Esito vol-01-intervento-p6: Procedere con il prossimo passo della revisione professionale del Volume 1. -> Completato l'intervento P6 sul nucleo B-PA02 del Capitolo 5.
+
+## 2026-07-21T14:15:22.100Z - editorial-reviewer
+
+- conversation_id: conv-20260721141522-105euax
+- route: vol-01-intervento-p7
+- l0: l0/conv-20260721141522-105euax.md
+- atoms:
+  - mem-20260721141522-1yxvlvx | result | Esito vol-01-intervento-p7: Procedere con il prossimo passo della revisione professionale del Volume 1. -> Completato P7 B-PA03 Capitolo 6: fonti D.Lgs.

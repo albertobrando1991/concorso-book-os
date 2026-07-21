@@ -8,15 +8,15 @@ topics: ["pubblico impiego","codice di comportamento","anticorruzione e traspare
 entities: ["Dipendente pubblico","Pubblica amministrazione"]
 source_refs: ["sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego.md","sources/legge-6-novembre-2012-n-190-anticorruzione.md"]
 book_refs: ["il-metodo-bando"]
-confidence: 0.92
-updated_at: "2026-05-25T21:25:00+02:00"
+confidence: 0.97
+updated_at: "2026-07-21T16:10:00+02:00"
 created_at: "2026-05-25T21:25:00+02:00"
-review_required: false
+review_required: true
 canonical: true
 tags: ["source","decree","normattiva","codice-comportamento"]
 source_type: decree
 source_url: "https://www.normattiva.it/atto/caricaDettaglioAtto?atto.codiceRedazionale=13G00104&atto.dataPubblicazioneGazzetta=2013-06-04&tipoDettaglio=vigente"
-source_date: "2013-04-16"
+source_date: "testo vigente verificato il 2026-07-21"
 authority_level: alta
 ---
 
@@ -39,4 +39,4 @@ Il decreto contiene il codice generale di comportamento dei dipendenti pubblici,
 
 ## Stato revisione
 
-Fonte ufficiale Normattiva consolidata per uso manualistico; ultimo aggiornamento dell'atto pubblicato segnalato da Normattiva: 29/06/2023. Prima di costruire casi disciplinari avanzati, verificare il codice integrativo della singola amministrazione e il CCNL applicabile.
+Fonte ufficiale Normattiva verificata in P7; la pagina consultata risulta vigente al 29 aprile 2026. Prima di costruire casi disciplinari avanzati, verificare il codice integrativo della singola amministrazione e il CCNL applicabile.

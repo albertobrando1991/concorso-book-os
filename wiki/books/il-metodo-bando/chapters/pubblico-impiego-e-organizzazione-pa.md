@@ -9,7 +9,7 @@ entities: ["D.Lgs. 165/2001", "D.Lgs. 150/2009", "Dirigente pubblico", "Dipenden
 source_refs: ["sources/struttura-madre-il-metodo-bando.md", "sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego.md", "sources/d-lgs-27-ottobre-2009-n-150-performance.md", "sources/d-p-r-9-maggio-1994-n-487-accesso-agli-impieghi-pubblici-e-concorsi.md", "sources/d-p-r-16-giugno-2023-n-82-modifiche-al-d-p-r-487-1994-sui-concorsi.md", "sources/legge-6-novembre-2012-n-190-anticorruzione.md", "sources/delitti-contro-pa-codice-penale-2026.md", "sources/d-lgs-14-marzo-2013-n-33-trasparenza.md", "sources/d-lgs-8-aprile-2013-n-39-inconferibilita-e-incompatibilita-incarichi.md", "sources/d-p-r-16-aprile-2013-n-62-codice-comportamento-dipendenti-pubblici.md", "sources/d-lgs-10-marzo-2023-n-24-whistleblowing.md", "sources/d-p-r-24-giugno-2022-n-81-piao-adempimenti-assorbiti.md", "sources/decreto-30-giugno-2022-n-132-piano-tipo-piao.md", "sources/aran-contrattazione-collettiva-comparti-aree-pubblico-impiego.md", "sources/d-lgs-9-aprile-2008-n-81-salute-sicurezza-lavoro.md", "sources/d-lgs-26-agosto-2016-n-174-codice-di-giustizia-contabile.md", "sources/d-l-14-marzo-2025-n-25-convertito-dalla-l-9-maggio-2025-n-69-capacita-amministrativa.md", "sources/d-l-31-agosto-2013-n-101-trasformazione-civit-anac-e-pubblico-impiego.md", "sources/responsabilita-dirigenziale-legalita-organizzativa-performance-rischio.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.9
-updated_at: "2026-07-14T00:00:00+02:00"
+updated_at: "2026-07-21T16:10:00+02:00"
 created_at: "2026-05-10T11:45:00+02:00"
 review_required: true
 canonical: true
@@ -218,7 +218,7 @@ La risposta prudente è: «Occorre interrompere la gestione informale, attivare 
 
 La separazione tra indirizzo politico e gestione amministrativa è un nucleo centrale. Gli organi politici definiscono obiettivi, programmi, priorità e indirizzi. I dirigenti e i responsabili amministrativi curano la gestione concreta: personale, atti, procedimenti, risorse, controlli e risultati.
 
-Questa separazione serve a garantire imparzialità e chiarezza delle responsabilità. L'organo politico non deve gestire la singola pratica come se fosse un funzionario; il dirigente non decide l'indirizzo politico dell'ente, ma realizza gli obiettivi con atti gestionali e responsabilità proprie.
+Questa separazione serve a garantire imparzialità e chiarezza delle responsabilità. Ai sensi dell'art. 4 del D.Lgs. 165/2001, gli organi di governo definiscono obiettivi e programmi e verificano i risultati; ai dirigenti spettano atti e provvedimenti amministrativi, compresi quelli che impegnano l'amministrazione verso l'esterno, nonché gestione finanziaria, tecnica e amministrativa nei limiti delle competenze attribuite. L'organo politico non deve gestire la singola pratica come se fosse un funzionario; il dirigente non decide l'indirizzo politico dell'ente, ma realizza gli obiettivi con atti gestionali e responsabilità proprie.
 
 Esempio da orale: la giunta stabilisce di potenziare un servizio comunale; il dirigente organizza personale, tempi, atti, procedure e controlli necessari per attuare quell'obiettivo.
 
@@ -346,7 +346,7 @@ L'obiettivo non è memorizzare formule, ma riconoscere situazioni rischiose: reg
 
 ### 5. Responsabilità disciplinare
 
-La responsabilità disciplinare riguarda la violazione dei doveri di servizio. Il procedimento disciplinare trova il proprio quadro generale nel D.Lgs. 165/2001 e deve essere letto insieme al codice di comportamento e al CCNL applicabile. Richiede contestazione degli addebiti, contraddittorio, valutazione del fatto e applicazione della sanzione secondo regole e competenze. L'UPD, ufficio per i procedimenti disciplinari, rileva nei casi in cui la competenza non resta al responsabile della struttura.
+La responsabilità disciplinare riguarda la violazione dei doveri di servizio. Il procedimento disciplinare trova il proprio quadro generale negli artt. 55 e seguenti del D.Lgs. 165/2001 e deve essere letto insieme al codice di comportamento e al CCNL applicabile. Richiede contestazione degli addebiti, contraddittorio, valutazione del fatto e applicazione della sanzione secondo regole e competenze. L'UPD, ufficio per i procedimenti disciplinari, rileva nei casi in cui la competenza non resta al responsabile della struttura.
 
 I temi da conoscere sono:
 
@@ -385,6 +385,28 @@ Pari opportunità, CUG, discriminazioni, mobbing, formazione e benessere organiz
 | CUG | Comitato unico di garanzia, collegato a pari opportunità e benessere. |
 | Mobbing e discriminazioni | Condotte lesive della dignità e del benessere lavorativo. |
 | Benessere organizzativo | Qualità dell'ambiente di lavoro, clima, carichi, comunicazione e prevenzione dei conflitti. |
+
+## Riferimenti normativi essenziali
+
+| Nucleo da concorso | Riferimento primario | Che cosa devi saper fare |
+|---|---|---|
+| Accesso e organizzazione del lavoro | D.Lgs. 165/2001, artt. 1-2 e 35 | Distinguere quadro pubblicistico, contrattualizzazione e accesso selettivo. |
+| Indirizzo e gestione | D.Lgs. 165/2001, art. 4 | Attribuire obiettivi e controllo agli organi di governo; atti e gestione ai dirigenti. |
+| Dirigenza | D.Lgs. 165/2001, artt. 4, 19 e 21 | Collegare incarico, risultati, organizzazione e responsabilità. |
+| Disciplina | D.Lgs. 165/2001, artt. 55 e seguenti | Distinguere illecito disciplinare, contraddittorio, competenza e altri tipi di responsabilità. |
+| Codice di comportamento | D.P.R. 62/2013, artt. 3, 6, 7 e 16 | Riconoscere doveri, conflitto, astensione e conseguenze disciplinari. |
+| Performance e PIAO | D.Lgs. 150/2009; art. 6 D.L. 80/2021 | Spiegare il raccordo tra obiettivi, organizzazione, risultati e prevenzione del rischio. |
+
+## Riferimenti consolidati
+
+- [[sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego]]
+- [[sources/d-p-r-16-aprile-2013-n-62-codice-comportamento-dipendenti-pubblici]]
+- [[sources/d-lgs-27-ottobre-2009-n-150-performance]]
+- [[sources/d-l-14-marzo-2025-n-25-convertito-dalla-l-9-maggio-2025-n-69-capacita-amministrativa]]
+
+## Note di review
+
+L'audit P7 ha verificato il testo vigente del D.Lgs. 165/2001 e del D.P.R. 62/2013 su Normattiva. CCNL, codici integrativi e regole organizzative della singola amministrazione richiedono controllo umano sul bando e sul testo impaginato prima della pubblicazione.
 
 ## Da sapere in 5 righe
 
