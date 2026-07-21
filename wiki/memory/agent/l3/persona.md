@@ -5,6 +5,8 @@ Usala come profilo di lavoro: le source notes e il wiki restano la base canonica
 
 ## Preferenze e istruzioni recenti
 
+- Effettua un controllo capillare sulle immagini inserite all'interno del capitolo 9, perché i testi di alcune escono dai margini e non sono ottimizzate. (mem-20260529182213-16onnkx)
+- Regola editoriale confermata: ogni volume corrisponde a un libro; i moduli sono divisioni interne del libro. Per VOL-03, M-FC02 e M-FC03 vanno trattati come Modulo 1 e Modulo 2 del libro, non come libri separati. (mem-20260708225500-vol03-book-modules-rule)
 - Analizzare integralmente VOL-01, usare le skill writer e revisore, verificare le 11 aree B-PA, correggere grammatica e impaginazione professionale, usare come struttura canonica il file VOL-01 del 14 luglio 2026 e conservare tutte le immagini esistenti. (mem-20260714165808-1lx9tc2)
 - Completa le sezioni mancanti di VOL-01 e analizza le modifiche al layout dei capitoli. (mem-20260714155755-1pwxyid)
 - Nel catalogo dashboard, il Volume 1 Il Metodo BANDO non deve essere toccato. (mem-20260710221334-zq2w8j)
@@ -54,6 +56,6 @@ Usala come profilo di lavoro: le source notes e il wiki restano la base canonica
 - Individua ora le immagini necessarie nel capitolo 12, cosi come gli altri capitoli, genera e inseriscile in maniera professionale e perfetta all'interno del capitolo. (mem-20260601141052-odwaqo)
 - Procedi per il capitolo undici come fatto per il capitolo precedente: analisi, immagini necessarie, elaborazione, inserimento professionale e controllo capillare. (mem-20260530174402-1ro8bhv)
 - Passa all'analisi del capitolo 10 e quindi alle immagini necessarie alla loro elaborazione e all'inserimento professionale e capillare, come fatto con il capitolo precedente. (mem-20260530115430-2t6ohh)
-- Effettua un controllo capillare sulle immagini inserite all'interno del capitolo 9, perché i testi di alcune escono dai margini e non sono ottimizzate. (mem-20260529182213-16onnkx)
+- Effettua un controllo capillare sulle immagini inserite all'interno del capitolo 9, perchÃ© i testi di alcune escono dai margini e non sono ottimizzate. (mem-20260529182213-16onnkx)
 - La memoria persistente del progetto deve essere condivisa da tutti gli agenti e provider usati: Codex/GPT, Claude, Kimi, OpenAI API, Hermes e locale. (mem-20260527215500-shared-provider-memory)
 - Nel contesto ConcorsoBook OS la memoria locale deve restare sempre attiva per ricordare cio' che e' stato detto e migliorare progressivamente gli output. (mem-20260527214500-always-on-memory)

@@ -1526,3 +1526,11 @@
 - l0: l0/conv-20260717143553-1cfo53p.md
 - atoms:
   - mem-20260717143553-gu8wy8 | result | Esito codex/git-delivery: fai commit e push del progetto attuale -> Preparata la consegna su main dell'aggiornamento tipografico canonico Arial/Garamond.
+
+## 2026-07-21T10:30:44.862Z - vol01-editorial-review
+
+- conversation_id: conv-20260721103044-14ay82y
+- route: codex.professional-review
+- l0: l0/conv-20260721103044-14ay82y.md
+- atoms:
+  - mem-20260721103044-c6a3gf | result | Esito codex.professional-review: Effettuare la revisione professionale del VOL-01 con matrice didattica obbligatoria, audit retroattivo, integrazione editoriale e gate finale; nessun completo con concetti solo nominati, rinvii generici o review norma... -> Creata la matrice VOL-01 con 17 nuclei: 2 completi e 15 parziali.

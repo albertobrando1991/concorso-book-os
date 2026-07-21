@@ -531,6 +531,11 @@ Aggiornato: 2026-07-08T22:50:00+02:00
 - [[books/moduli/m-tr04-ambiente-protezione-civile/chapters/00-piano-editoriale]]
 - [[books/moduli/m-tr04-ambiente-protezione-civile/index]]
 
+## VOL-01 - Revisione professionale 2026-07-21
+
+- [[books/il-metodo-bando/planning/02-matrice-copertura-didattica]]
+- [[reviews/review-vol-01-revisione-editoriale-professionale-2026-07-21]]
+
 ## Operational Notes
 - Raw sources restano immutabili in `raw/`.
 - I capitoli devono essere generati da source summaries, topic pages ed entity pages.
