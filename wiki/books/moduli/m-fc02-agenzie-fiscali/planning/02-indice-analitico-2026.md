@@ -33,8 +33,8 @@ draft_stage: revised-editorial-draft
 
 4. Principi, fonti UE/nazionali e obbligazione tributaria — cap. 4.
 5. IRPEF e IRES: quadro sistematico e soggetti - cap. 4, `IRPEF e IRES: il quadro sistematico`; categorie reddituali, determinazione, reddito d'impresa, casi e verifiche - cap. 6, da `Imposte sui redditi: qualificare prima di calcolare` a `Trappole e checklist operativa sui redditi`; raccordo civilistico-contabile e variazioni fiscali - cap. 11, `14. Dal bilancio al reddito imponibile`.
-6. IVA e imposte indirette.
-7. Dichiarazioni, versamenti e adempimenti.
+6. IVA e imposte indirette - cap. 4, `IVA: operazioni, soggetti, detrazione e adempimenti` per funzione, presupposti, soggetti, rivalsa, detrazione e classi di operazioni; cap. 6, `Operazioni IVA e ciclo degli adempimenti` per qualificazione, documentazione, registrazione, liquidazione, dichiarazione, casi e verifiche.
+7. Dichiarazioni, versamenti e adempimenti - cap. 6, `Il ciclo dell'adempimento fiscale` e `Dichiarazioni, versamenti e compensazioni`, con dichiarazione originaria/correttiva/integrativa/omessa, F24, compensazione verticale e orizzontale, correzione, casi e verifiche.
 8. Accertamento, istruttoria e contraddittorio.
 9. Interpello, compliance, adempimento collaborativo e verticale ACFI: residenza, stabile organizzazione, convenzioni e doppia imposizione, transfer pricing, documentazione e operazioni infragruppo, rischio fiscale e Tax Control Framework - cap. 5.
 10. Riscossione e AdER.
