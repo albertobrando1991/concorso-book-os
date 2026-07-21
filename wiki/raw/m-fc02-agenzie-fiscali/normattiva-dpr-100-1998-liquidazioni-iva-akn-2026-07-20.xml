@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?><akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:eli="http://data.europa.eu/eli/ontology#" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:gu="http://www.gazzettaufficiale.it/eli/" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:na="http://www.normattiva.it/eli/" xmlns:nakn="http://normattiva.it/akn/vocabulary" xmlns:nrdfa="http://www.normattiva.it/rdfa/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfa="http://www.w3.org/1999/xhtml#">
+    <act name="monovigente">
+        <meta>
+            <identification source="">
+                <FRBRWork>
+                    <FRBRthis value="/akn/it/act/decreto_del_presidente_della_repubblica/stato/1998-03-23/100/!main"/>
+                    <FRBRuri value="/akn/it/act/decreto_del_presidente_della_repubblica/stato/1998-03-23/100"/>
+                    <FRBRalias name="urn:nir" value="urn:nir:stato:decreto.del.presidente.della.repubblica:1998-03-23;100"/>
+                    <FRBRalias name="eli" value="eli/id/1998/04/16/098G0158/CONSOLIDATED/20240806"/>
+                    <FRBRdate date="1998-03-23" name=""/>
+                    <FRBRauthor as="#author" href=""/>
+                    <preservation>
+                        <nrdfa:eli about="na:id/1998/04/16/098G0158/CONSOLIDATED/20240806" aknrelname="eli/id/1998/04/16/098G0158/CONSOLIDATED/20240806">
+                            <nrdfa:span property="rdf:type" resource="eli:LegalResource"/>
+                            <nrdfa:span content=" Regolamento recante norme per la semplificazione e la razionalizzazione di alcuni adempimenti contabili in materia di imposta sul valore aggiunto, ai sensi dell'articolo 3, comma 136, della legge 23 dicembre 1996, n. 662. " lang="it" property="eli:title" xml:lang="it"/>
+                            <nrdfa:span content="http://www.normattiva.it/eli/id/{yyyy}/{mm}/{dd}/{codiceRedazionale}/{tipoVersione}" property="eli:uri_schema"/>
+                            <nrdfa:span content="098G0158" property="eli:id_local"/>
+                            <nrdfa:span property="eli:type_document" resource="gu:tables/resource-type#DECRETO DEL PRESIDENTE DELLA REPUBBLICA"/>
+                            <nrdfa:span content="1998-03-23" datatype="xsd:date" property="eli:date_document"/>
+                            <nrdfa:span property="eli:version" resource="gu:tables/versions#ORIGINAL"/>
+                        </nrdfa:eli>
+                    </preservation>
+                    <FRBRcountry value="it"/>
+                </FRBRWork>
+                <FRBRExpression>
+                    <FRBRthis value="/akn/it/act/decreto_del_presidente_della_repubblica/stato/1998-03-23/100/ita@2024-08-06/!main"/>
+                    <FRBRuri value="/akn/it/act/decreto_del_presidente_della_repubblica/stato/1998-03-23/100/ita@2024-08-06"/>
+                    <FRBRdate date="2024-08-06" name=""/>
+                    <FRBRauthor as="#author" href=""/>
+                    <preservation>
+                        <nrdfa:eli about="na:id/1998/04/16/098G0158/CONSOLIDATED/20240806/ita">
+                            <nrdfa:span property="rdf:type" resource="eli:LegalExpression"/>
+                            <nrdfa:span property="eli:realizes" resource="na:id/1998/04/16/098G0158/CONSOLIDATED/20240806"/>
+                            <nrdfa:span property="eli:is_embodied_by" resource="na:id/1998/04/16/098G0158/CONSOLIDATED/20240806/ita/akn"/>
+                            <nrdfa:span property="eli:language" resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+                            <nrdfa:span property="eli:publisher_agent" resource="http://www.ipzs.it"/>
+                        </nrdfa:eli>
+                    </preservation>
+                    <FRBRlanguage language="ita"/>
+                </FRBRExpression>
+                <FRBRManifestation>
+                    <FRBRthis value="/akn/it/act/decreto_del_presidente_della_repubblica/stato/1998-03-23/100/ita@2024-08-06/!main.xml"/>
+                    <FRBRuri value="/akn/it/act/decreto_del_presidente_della_repubblica/stato/1998-03-23/100/ita@2024-08-06.xml"/>
+                    <FRBRdate date="1998-03-23" name=""/>
+                    <FRBRauthor as="#author" href=""/>
+                    <preservation>
+                        <nrdfa:eli about="na:id/1998/04/16/098G0158/CONSOLIDATED/20240806/ita/akn">
+                            <nrdfa:span property="rdf:type" resource="eli:Format"/>
+                            <nrdfa:span property="eli:format" resource="http://www.iana.org/assignments/media-types/xml"/>
+                        </nrdfa:eli>
+                    </preservation>
+                </FRBRManifestation>
+            </identification>
+            <publication date="1998-04-16" name="" number="88" showAs=""/>
+            <lifecycle source="">
+                <eventRef date="1998-04-16" eId="eventRef_0" source="ro1"/>
+                <eventRef date="1998-04-23" eId="eventRef_1" source="rp1"/>
+                <eventRef date="2000-02-17" eId="eventRef_2" source="rp2"/>
+                <eventRef date="2001-12-17" eId="eventRef_3" source="rp3"/>
+                <eventRef date="2018-10-23" eId="eventRef_4" source="rp4"/>
+                <eventRef date="2024-01-12" eId="eventRef_5" source="rp5"/>
+                <eventRef date="2024-08-05" eId="eventRef_6" source="rp6"/>
+            </lifecycle>
+            <analysis source="">
+                <activeModifications>
+                    <textualMod eId="amod_0" type="insertion">
+                        <source href="urn:nir:stato:decreto.del.presidente.della.repubblica:1998-03-23;100#2"/>
+                        <destination href="urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633#27"/>
+                        <new>
+                            <nakn:text>ha disposto (con l'art. 2, comma 1) l'abrogazione dei commi 1 e 2 dell'art. 27.</nakn:text>
+                        </new>
+                    </textualMod>
+                </activeModifications>
+                <passiveModifications>
+                    <textualMod eId="pmod_0" type="insertion">
+                        <source href="#"/>
+                        <destination href="#ins_1"/>
+                        <new>
+                            <nakn:text>((Il versamento relativo al mese di dicembre e' effettuato entro il giorno 16 del mese successivo.))</nakn:text>
+                        </new>
+                    </textualMod>
+                </passiveModifications>
+            </analysis>
+            <references source="">
+                <original eId="ro1" href="/akn/it/act/DECRETO_DEL_PRESIDENTE_DELLA_REPUBBLICA/stato/1998-03-23/100/!main" showAs=""/>
+                <passiveRef eId="rp1" href="" showAs=""/>
+                <passiveRef eId="rp2" href="/akn/it/act/DECRETO_DEL_PRESIDENTE_DELLA_REPUBBLICA/stato/1999-10-14/542/!main" showAs=""/>
+                <passiveRef eId="rp3" href="/akn/it/act/DECRETO_DEL_PRESIDENTE_DELLA_REPUBBLICA/stato/2001-12-07/435/!main" showAs=""/>
+                <passiveRef eId="rp4" href="/akn/it/act/DECRETO-LEGGE/stato/2018-10-23/119/!main" showAs=""/>
+                <passiveRef eId="rp5" href="/akn/it/act/DECRETO_LEGISLATIVO/stato/2024-01-08/1/!main" showAs=""/>
+                <passiveRef eId="rp6" href="/akn/it/act/DECRETO_LEGISLATIVO/stato/2024-08-05/108/!main" showAs=""/>
+            </references>
+            <proprietary source="">
+                <rdf:RDF>
+                    <rdf:Description rdf:about="na:id/1998/04/16/098G0158/CONSOLIDATED/20240806">
+                        <rdf:type rdf:resource="eli:LegalResource"/>
+                        <eli:title xml:lang="it"> Regolamento recante norme per la semplificazione e la razionalizzazione di alcuni adempimenti contabili in materia di imposta sul valore aggiunto, ai sensi dell'articolo 3, comma 136, della legge 23 dicembre 1996, n. 662. </eli:title>
+                        <eli:uri_schema>http://www.normattiva.it/eli/id/{yyyy}/{mm}/{dd}/{codiceRedazionale}/{tipoVersione}</eli:uri_schema>
+                        <eli:id_local>098G0158</eli:id_local>
+                        <eli:type_document rdf:resource="gu:tables/resource-type#DECRETO DEL PRESIDENTE DELLA REPUBBLICA"/>
+                        <eli:date_document rdf:datatype="xsd:date">1998-03-23</eli:date_document>
+                        <eli:version rdf:resource="gu:tables/versions#ORIGINAL"/>
+                    </rdf:Description>
+                    <rdf:Description rdf:about="na:id/1998/04/16/098G0158/CONSOLIDATED/20240806/ita">
+                        <rdf:type rdf:resource="eli:LegalExpression"/>
+                        <eli:realizes rdf:resource="na:id/1998/04/16/098G0158/CONSOLIDATED/20240806"/>
+                        <eli:is_embodied_by rdf:resource="na:id/1998/04/16/098G0158/CONSOLIDATED/20240806/ita/akn"/>
+                        <eli:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+                        <eli:publisher_agent rdf:resource="http://www.ipzs.it"/>
+                    </rdf:Description>
+                    <rdf:Description rdf:about="na:id/1998/04/16/098G0158/CONSOLIDATED/20240806/ita/akn">
+                        <rdf:type rdf:resource="eli:format"/>
+                        <eli:format rdf:resource="http://www.iana.org/assignments/media-types/xml"/>
+                    </rdf:Description>
+                </rdf:RDF>
+            </proprietary>
+        </meta>
+        <preface>
+            <p>
+                <docType>DECRETO DEL PRESIDENTE DELLA REPUBBLICA</docType>
+                <docDate date="1998-03-23">23 marzo 1998</docDate>
+                <docNumber>100</docNumber>
+                <docTitle> Regolamento recante norme per la semplificazione e la razionalizzazione di alcuni adempimenti contabili in materia di
+imposta sul valore aggiunto, ai sensi dell'articolo 3, comma 136,
+della legge 23 dicembre 1996, n. 662.
+</docTitle>
+            </p>
+            <p>
+                <authorialNote eId="atn1" placement="bottom">
+                    <p>Entrata in vigore del decreto: 1-5-1998</p>
+                </authorialNote>
+            </p>
+        </preface>
+        <preamble>
+            <formula name="formulaInizialePreambolo">
+                <p>IL PRESIDENTE DELLA REPUBBLICA</p>
+            </formula>
+            <citations eId="cits_1">
+                <citation eId="cits_1__cit_1">
+                    <p>Visto l'<ref eId="ref_1" href="/akn/it/act/costituzione/stato/1947-12-27/const/!main#art_87-com5">articolo 87, quinto comma, della Costituzione</ref>;</p>
+                </citation>
+            </citations>
+            <citations eId="cits_2">
+                <citation eId="cits_2__cit_1">
+                    <p>Visto il <ref eId="ref_2" href="/akn/it/act/decretoDelPresidenteDellaRepubblica/stato/1972-10-26/633/!main">decreto del Presidente della Repubblica 26 ottobre 1972, n. 633</ref>, concernente l'istituzione e la disciplina dell'imposta sul valore aggiunto;</p>
+                </citation>
+            </citations>
+            <citations eId="cits_3">
+                <citation eId="cits_3__cit_1">
+                    <p>Visto il <ref eId="ref_3" href="/akn/it/act/decretoLegislativo/stato/1997-09-02/313/!main">decreto legislativo 2 settembre 1997, n. 313</ref>, recante norme in materia di imposta sul valore aggiunto;</p>
+                </citation>
+            </citations>
+            <citations eId="cits_4">
+                <citation eId="cits_4__cit_1">
+                    <p>Visto l'<ref eId="ref_4" href="/akn/it/act/legge/stato/1996-12-23/662/!main#art_3-com136">articolo 3, comma 136, della legge 23 dicembre 1996, n. 662</ref>, con il quale si stabilisce che, per la semplificazione e la razionalizzazione delle procedure di attuazione delle norme tributarie, gli adempimenti contabili e formali dei contribuenti sono disciplinati con regolamenti da emanare ai sensi dell'<ref eId="ref_5" href="/akn/it/act/legge/stato/1988-08-23/400/!main#art_17-com2">articolo 17, comma 2, della legge 23 agosto 1988, n. 400</ref>, tenuto conto dell'adozione di nuove tecnologie per il trattamento e la conservazione delle informazioni e del progressivo sviluppo degli studi di settore;</p>
+                </citation>
+            </citations>
+            <citations eId="cits_5">
+                <citation eId="cits_5__cit_1">
+                    <p>Visto l'<ref eId="ref_6" href="/akn/it/act/legge/stato/1988-08-23/400/!main#art_17-com2">articolo 17, comma 2, della legge 23 agosto 1988, n. 400</ref>;</p>
+                </citation>
+            </citations>
+            <p>Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gli atti normativi nell'adunanza del 9 febbraio 1998;</p>
+            <citations eId="cits_6">
+                <citation eId="cits_6__cit_1">
+                    <p>Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 13 marzo 1998;</p>
+                </citation>
+            </citations>
+            <p>Sulla proposta del Ministro delle finanze;</p>
+            <formula name="formulaFinalePreambolo">
+                <p>Emana il seguente regolamento:</p>
+            </formula>
+        </preamble>
+        <body>
+            <article eId="art_1">
+                <num>Art. 1.</num>
+                <heading> Dichiarazioni e versamenti periodici</heading>
+                <paragraph eId="art_1__para_1">
+                    <num>1.</num>
+                    <content>
+                        <p>Entro il giorno 16 di ciascun mese, il contribuente determina la differenza tra l'ammontare complessivo dell'imposta sul valore aggiunto esigibile nel mese precedente, risultante dalle annotazioni eseguite o da eseguire nei registri relativi alle fatture emesse o ai corrispettivi delle operazioni imponibili, e quello dell'imposta, risultante dalle annotazioni eseguite, nei registri relativi ai beni ed ai servizi acquistati, sulla base dei documenti di acquisto di cui e' in possesso e per i quali il diritto alla detrazione viene esercitato nello stesso mese ai sensi dell'<ref eId="content__ref_7" href="/akn/it/act/decretoDelPresidenteDellaRepubblica/stato/1972-10-26/633/!main#art_19">articolo 19 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633</ref>. Entro il medesimo termine di cui al periodo precedente puo' essere esercitato il diritto alla detrazione dell'imposta relativa ai documenti di acquisto ricevuti e annotati entro il 15 del mese successivo a quello di effettuazione dell'operazione, fatta eccezione per i documenti di acquisto relativi ad operazioni effettuate nell'anno precedente. Il contribuente, qualora richiesto dagli organi dell'Amministrazione finanziaria, fornisce gli elementi in base ai quali ha operato la liquidazione periodica. 
+</p>
+                    </content>
+                </paragraph>
+                <paragraph eId="art_1__para_1-bis">
+                    <num>1-bis.</num>
+                    <content>
+                        <p>Le disposizioni di cui al comma 1, ultimo periodo, si applicano anche ai soggetti di cui all'<ref eId="content__ref_8" href="/akn/it/act/decretoDelPresidenteDellaRepubblica/stato/1999-10-14/542/!main#art_7">articolo 7 del decreto del Presidente della Repubblica 14 ottobre 1999, n. 542</ref>. 
+</p>
+                    </content>
+                </paragraph>
+                <paragraph eId="art_1__para_1-ter">
+                    <num>1-ter.</num>
+                    <content>
+                        <p>Resta ferma la possibilita' per gli aventi diritto di presentare istanza di rimborso infrannuale. 
+</p>
+                    </content>
+                </paragraph>
+                <paragraph eId="art_1__para_2">
+                    <num>2.</num>
+                    <content>
+                        <p>COMMA ABROGATO DAL <ref eId="content__ref_9" href="/akn/it/act/decretoDelPresidenteDellaRepubblica/stato/2001-12-07/435/!main">D.P.R. 7 DICEMBRE 2001, N. 435</ref>. 
+</p>
+                    </content>
+                </paragraph>
+                <paragraph eId="art_1__para_2-bis">
+                    <num>2-bis.</num>
+                    <content>
+                        <p>COMMA ABROGATO DAL <ref eId="content__ref_10" href="/akn/it/act/decretoDelPresidenteDellaRepubblica/stato/2001-12-07/435/!main">D.P.R. 7 DICEMBRE 2001, N. 435</ref>. 
+</p>
+                    </content>
+                </paragraph>
+                <paragraph eId="art_1__para_2-ter">
+                    <num>2-ter.</num>
+                    <content>
+                        <p>COMMA ABROGATO DAL <ref eId="content__ref_11" href="/akn/it/act/decretoDelPresidenteDellaRepubblica/stato/2001-12-07/435/!main">D.P.R. 7 DICEMBRE 2001, N. 435</ref>. 
+</p>
+                    </content>
+                </paragraph>
+                <paragraph eId="art_1__para_3">
+                    <num>3.</num>
+                    <content>
+                        <p>A partire dal periodo di imposta in corso alla data di entrata in vigore del presente regolamento, il contribuente che affida a terzi la tenuta della contabilita' e ne abbia dato comunicazione all'ufficio dell'imposta sul valore aggiunto competente nella prima dichiarazione annuale presentata nell'anno successivo alla scelta operata puo' fare riferimento, ai fini del calcolo della differenza di imposta relativa al mese precedente, all'imposta divenuta esigibile nel secondo mese precedente. Per coloro che iniziano l'attivita, l'opzione ha effetto dalla seconda liquidazione periodica. 
+</p>
+                    </content>
+                </paragraph>
+                <paragraph eId="art_1__para_4">
+                    <num>4.</num>
+                    <content>
+                        <p>Entro il termine stabilito nel comma 1, il contribuente versa l'importo della differenza nei modi di cui all'<ref eId="content__ref_12" href="/akn/it/act/decretoDelPresidenteDellaRepubblica/stato/1972-10-26/633/!main#art_38">articolo 38 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633</ref>. Se l'importo dovuto non supera il limite di euro 100, il versamento e' effettuato insieme a quello relativo al mese successivo e comunque entro il 16 dicembre dello stesso anno. <ins eId="ins_1">((Il versamento relativo al mese di dicembre e' effettuato entro il giorno 16 del mese successivo.))</ins> PERIODO SOPPRESSO DAL <ref eId="content__ref_13" href="/akn/it/act/decretoDelPresidenteDellaRepubblica/stato/1999-10-14/542/!main">D.P.R. 14 OTTOBRE 1999, N. 542</ref>. (5) 
+</p>
+                    </content>
+                </paragraph>
+                <paragraph eId="art_1__para_5">
+                    <num>5.</num>
+                    <content>
+                        <p>Le disposizioni di cui ai commi 1, 2, 2-bis, 2-ter e 4 si applicano anche nei confronti dei soggetti di cui agli <ref eId="content__ref_14" href="/akn/it/act/decretoDelPresidenteDellaRepubblica/stato/1972/633/!main#art_33">articoli 33</ref> e <ref eId="content__ref_15" href="/akn/it/act/decretoDelPresidenteDellaRepubblica/stato/1972/633/!main#art_73-com1-lete">73, primo comma, lettera e)</ref>, e <ref eId="content__ref_16" href="/akn/it/act/decretoDelPresidenteDellaRepubblica/stato/1972/633/!main#art_74-com4">74 quarto comma, del decreto del Presidente della Repubblica n. 633 del 1972</ref>, con riferimento ai termini ivi stabiliti. (3) 
+ 
+</p>
+                    </content>
+                </paragraph>
+                <paragraph>
+                    <content>
+                        <p>---------------</p>
+                        <p>AGGIORNAMENTO (3)</p>
+                        <p>
+ Il <ref eId="17" href="/akn/it/act/decretoDelPresidenteDellaRepubblica/stato/2001-12-07/435/!main">D.P.R. 7 dicembre 2001, n. 435</ref> ha disposto (con l'art. 19, comma 4) che gli effetti delle presenti modifiche decorrono dalle liquidazioni relative al 2002. </p>
+                        <p>---------------</p>
+                        <p>AGGIORNAMENTO (5)</p>
+                        <p>
+ Il <ref eId="18" href="/akn/it/act/decretoLegislativo/stato/2024-01-08/1/!main">D.Lgs. 8 gennaio 2024, n. 1</ref> ha disposto (con l'art. 9, comma 3) che le presenti modifiche si applicano a decorrere dalle somme dovute con riferimento alle liquidazioni periodiche relative all'anno d'imposta 2024. </p>
+                    </content>
+                </paragraph>
+            </article>
+            <article eId="art_2">
+                <num>Art. 2.</num>
+                <heading> Abrogazioni</heading>
+                <paragraph eId="art_2__para_1">
+                    <num>1.</num>
+                    <content>
+                        <p>Con effetto dalla data di entrata in vigore del presente regolamento, il primo e il <ref eId="content__ref_19" href="/akn/it/act/decretoDelPresidenteDellaRepubblica/stato/1972-10-26/633/!main#art_27-com2">secondo comma dell'articolo 27 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633</ref>, si intendono abrogati ai sensi dell'<ref eId="content__ref_20" href="/akn/it/act/legge/stato/1988-08-23/400/!main#art_17-com2">articolo 17, comma 2, della legge 23 agosto 1988, n. 400</ref>.
+</p>
+                    </content>
+                </paragraph>
+                <paragraph eId="art_2__para_2">
+                    <num>2.</num>
+                    <content>
+                        <p>I riferimenti alle disposizioni indicate nel comma 1, contenuti in ogni altro atto normativo, si intendono fatti all'articolo 1 del presente regolamento.
+ </p>
+                    </content>
+                </paragraph>
+                <section>
+                    <content>
+                        <p>
+                            <authorialNote eId="authorialNote_1" placement="bottom">
+                                <p> Note all'art. 2:
+ - Si riporta il testo dell'art. 27, comma primo e secondo, del gia' citato <ref eId="content__ref_21" href="/akn/it/act/decretoDelPresidenteDellaRepubblica/stato/1972-10-26/633/!main">D.P.R. 26 ottobre 1972, n. 633</ref>:
+ "Art. 27 (Liquidazioni e versamenti mensili). - Entro il giorno 18 (giorno 15, n.d.r.) di ciascun mese il contribuente deve calcolare in apposita sezione del registro di cui all'art. 23 o del registro di cui all'art. 24, la differenza tra l'ammontare complessivo dell'imposta divenuta esigibile nel mese precedente e quello dell'imposta per la quale il diritto alla detrazione viene esercitato nello stesso mese ai sensi dell'art. 19.
+ Entro il termine previsto dal primo comma il contribuente deve versare l'importo della differenza a norma dell'art. 38, annotando sul registro gli estremi della relativa attestazione. Qualora l'importo non superi il limite di lire cinquantamila il versamento dovra' essere effettuato insieme a quello relativo al mese successivo".
+ - Per il testo dell'<ref eId="content__ref_22" href="/akn/it/act/legge/stato/1988-08-23/400/!main#art_17-com2">art. 17, comma 2, della legge 23 agosto 1988, n. 400</ref>, si veda nelle note alle premesse.
+</p>
+                            </authorialNote>
+                        </p>
+                    </content>
+                </section>
+            </article>
+        </body>
+        <conclusions>
+            <formula name="formulaFinaleConclusioni">
+                <p>Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.</p>
+            </formula>
+            <p> Dato a Roma, addi' 23 marzo 1998</p>
+            <p>SCALFARO Prodi, Presidente del Consiglio dei Ministri Visco, Ministro delle finanze Visto, il Guardasigilli: Flick Registrato alla Corte dei conti il 9 aprile 1998 Atti di Governo, registro n. 113, foglio n. 6</p>
+        </conclusions>
+    </act>
+</akomaNtoso>
