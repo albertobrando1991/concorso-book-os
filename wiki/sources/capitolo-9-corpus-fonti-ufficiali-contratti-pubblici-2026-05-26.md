@@ -9,9 +9,9 @@ entities: ["Codice dei contratti pubblici","D.Lgs. 36/2023","D.Lgs. 209/2024","A
 source_refs: ["sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024.md","sources/ciclo-contratti-pubblici-rup-stazione-appaltante-operatore-economico.md","sources/procedure-affidamento-gare-appalti-concessioni-soglie.md","sources/digitalizzazione-contratti-pubblici-anac-bdncp-fvoe-pcp.md","sources/mepa-consip-acquisti-in-rete-strumenti-acquisto-negoziazione.md","sources/trasparenza-anticorruzione-controlli-tracciabilita-contratti-pubblici.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.94
-updated_at: "2026-05-26T00:00:00+02:00"
+updated_at: "2026-07-21T14:10:00+02:00"
 created_at: "2026-05-26T00:00:00+02:00"
-review_required: false
+review_required: true
 canonical: true
 tags: ["source","corpus","chapter-9","contratti-pubblici"]
 source_type: corpus
@@ -32,11 +32,13 @@ La cartella raw di riferimento e:
 
 Il capitolo deve restare "essenziale": vanno coperti gli istituti richiesti nei concorsi, senza trasformare il testo in un commentario specialistico del Codice.
 
+La fonte canonica sul Codice e stata ricontrollata il 21 luglio 2026 sul testo Normattiva vigente al 30 giugno 2026. Normattiva segnala un ultimo aggiornamento dell'atto pubblicato il 23 marzo 2026: il correttivo D.Lgs. 209/2024 resta centrale, ma non esaurisce la storia normativa successiva. La review articolo per articolo resta aperta.
+
 ## Copertura per il Capitolo 9
 
 | Area concorsuale | Fonte consolidata principale | Uso nel capitolo |
 |---|---|---|
-| Codice contratti e correttivo | [[sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024]] | Quadro normativo, principi, definizioni, struttura del Codice. |
+| Codice contratti nel testo vigente | [[sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024]] | Quadro normativo, principi, definizioni, struttura del Codice e data di vigenza verificata. |
 | Perche la PA stipula contratti | [[sources/ciclo-contratti-pubblici-rup-stazione-appaltante-operatore-economico]] | Fabbisogno pubblico, acquisto di lavori, servizi e forniture, realizzazione dell'interesse pubblico. |
 | Principi | [[sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024]] | Risultato, fiducia, accesso al mercato, concorrenza, trasparenza, buona fede, proporzionalita. |
 | Soggetti | [[sources/ciclo-contratti-pubblici-rup-stazione-appaltante-operatore-economico]] | Stazione appaltante, ente concedente, operatore economico, RUP, commissione, centrale di committenza. |

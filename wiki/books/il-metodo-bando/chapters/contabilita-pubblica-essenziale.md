@@ -360,7 +360,7 @@ Per gli enti pubblici non territoriali occorre guardare alla disciplina propria 
 
 I contratti pubblici sono già stati trattati nel capitolo di diritto amministrativo. Qui interessano per il loro effetto contabile: un appalto produce programmazione, copertura, impegno, esecuzione, fatturazione, liquidazione, pagamento, collaudo o verifica, tracciabilità e possibile rendicontazione.
 
-Il D.Lgs. 36/2023, aggiornato dal correttivo D.Lgs. 209/2024, è il riferimento principale per i contratti pubblici. Nel capitolo contabile non occorre ripetere tutte le procedure di gara, ma bisogna capire come l'affidamento si traduce in spesa.
+Il D.Lgs. 36/2023 nel testo vigente è il riferimento principale per i contratti pubblici; il D.Lgs. 209/2024 è un correttivo di particolare rilievo. Nel capitolo contabile non occorre ripetere tutte le procedure di gara, ma bisogna capire come l'affidamento si traduce in spesa.
 
 Il **CIG** identifica la procedura o il contratto ai fini di tracciabilità e monitoraggio. Il **CUP** identifica un progetto di investimento pubblico. Confondere CIG e CUP è un errore frequente.
 

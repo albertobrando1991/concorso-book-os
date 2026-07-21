@@ -1550,3 +1550,12 @@
 - l0: l0/conv-20260721112136-adr3zc.md
 - atoms:
   - mem-20260721112136-t0xprf | result | Esito vol01-p1-surface-structure: Procedere con il secondo blocco della revisione professionale del Volume 1. -> Risolti E08 ed E13: le sezioni Note di review sono escluse dalla preview pubblica con test di regressione e le heading Sanità amministrativa sono uniformate.
+
+## 2026-07-21T11:36:02.046Z - editorial-reviewer
+
+- conversation_id: conv-20260721113602-1cz9436
+- route: vol-01-intervento-p2
+- l0: l0/conv-20260721113602-1cz9436.md
+- atoms:
+  - mem-20260721113602-1xejkc | instruction | Procedere con la revisione professionale del VOL-01 usando matrice didattica, audit retroattivo, integrazione editoriale e gate finale, preservando il lavoro e usando rinvii solo quando il contenuto completo esiste davvero altrove.
+  - mem-20260721113602-1d3kmd4 | result | Esito vol-01-intervento-p2: Procedere con la revisione professionale del VOL-01 usando matrice didattica, audit retroattivo, integrazione editoriale e gate finale, preservando il lavoro e usando rinvii solo quando il contenuto completo esiste da... -> Intervento P2 completato: il Capitolo 9 e la source note canonica sono riallineati al D.Lgs.

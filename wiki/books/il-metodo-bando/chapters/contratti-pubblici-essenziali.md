@@ -9,9 +9,9 @@ entities: ["D.Lgs. 36/2023", "D.Lgs. 209/2024", "RUP", "ANAC", "MEPA", "Consip",
 source_refs: ["sources/struttura-madre-il-metodo-bando.md", "sources/capitolo-9-corpus-fonti-ufficiali-contratti-pubblici-2026-05-26.md", "sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024.md", "sources/ciclo-contratti-pubblici-rup-stazione-appaltante-operatore-economico.md", "sources/procedure-affidamento-gare-appalti-concessioni-soglie.md", "sources/digitalizzazione-contratti-pubblici-anac-bdncp-fvoe-pcp.md", "sources/mepa-consip-acquisti-in-rete-strumenti-acquisto-negoziazione.md", "sources/trasparenza-anticorruzione-controlli-tracciabilita-contratti-pubblici.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.92
-updated_at: "2026-07-14T19:00:00+02:00"
+updated_at: "2026-07-21T14:10:00+02:00"
 created_at: "2026-05-10T11:45:00+02:00"
-review_required: false
+review_required: true
 canonical: true
 tags: ["book-chapter", "common-subject", "revised"]
 book_id: il-metodo-bando
@@ -35,7 +35,7 @@ La chiave di studio è quindi il ciclo: programmazione, progettazione, decisione
 Al termine del capitolo devi saper:
 
 - spiegare perché la pubblica amministrazione stipula contratti e perché tali contratti non sono equivalenti a normali contratti privati;
-- collocare il D.Lgs. 36/2023 e il correttivo D.Lgs. 209/2024 come quadro normativo essenziale;
+- collocare il D.Lgs. 36/2023 nel testo vigente e riconoscere il D.Lgs. 209/2024 come correttivo di particolare rilievo;
 - richiamare i principi del risultato, della fiducia e dell'accesso al mercato, collegandoli a legalità, concorrenza, trasparenza, imparzialità e buon andamento;
 - distinguere stazione appaltante, ente concedente, operatore economico, RUP, centrale di committenza e soggetto aggregatore;
 - descrivere il ciclo del contratto pubblico dal fabbisogno all'esecuzione;
@@ -92,9 +92,11 @@ Nei concorsi è utile distinguere tre livelli:
 
 Una risposta corretta non riduce l'appalto alla "gara". La gara è una fase possibile e importante, ma il contratto pubblico comprende anche programmazione, documenti, controlli, esecuzione e tracciabilità.
 
-### 2. Fonti essenziali: Codice 2023 e correttivo 2024
+### 2. Fonti essenziali: Codice vigente e correttivo 2024
 
-La fonte centrale è il Codice dei contratti pubblici, contenuto nel D.Lgs. 36/2023. Il D.Lgs. 209/2024 è il correttivo che aggiorna il quadro e deve essere considerato per una trattazione non superata.
+La fonte centrale è il Codice dei contratti pubblici, contenuto nel D.Lgs. 36/2023 e da consultare nel testo vigente. Il D.Lgs. 209/2024 è un correttivo di particolare rilievo, ma non deve essere presentato come l'ultimo aggiornamento disponibile senza un nuovo controllo della fonte consolidata.
+
+> **Data della verifica normativa.** Il controllo editoriale del 21 luglio 2026 ha utilizzato il testo Normattiva vigente al 30 giugno 2026. La banca dati segnala come ultimo aggiornamento dell'atto una pubblicazione del 23 marzo 2026. Questa data rende attuale il riferimento generale del capitolo, ma non sostituisce la verifica puntuale di soglie, termini, allegati e regole transitorie alla data del bando.
 
 Per un manuale da concorso non serve analizzare articolo per articolo. Serve invece comprendere la logica del sistema:
 
@@ -419,7 +421,7 @@ Questa sequenza funziona nei quiz, nell'orale e nei casi pratici. Evita risposte
 
 ## Da sapere in 5 righe
 
-I contratti pubblici servono alla PA per acquisire lavori, servizi e forniture o affidare concessioni nel rispetto dell'interesse pubblico. Il quadro essenziale è il D.Lgs. 36/2023, aggiornato dal D.Lgs. 209/2024, con principi di risultato, fiducia e accesso al mercato. Il ciclo va dal fabbisogno alla programmazione, procedura, aggiudicazione, stipula, esecuzione, verifica, pagamento e controllo. RUP, stazione appaltante, operatore economico, ANAC, BDNCP, FVOE, CIG, MEPA e Consip sono parole chiave da concorso. Non basta conoscere la gara: bisogna capire esecuzione, trasparenza, tracciabilità e responsabilità.
+I contratti pubblici servono alla PA per acquisire lavori, servizi e forniture o affidare concessioni nel rispetto dell'interesse pubblico. Il quadro essenziale è il D.Lgs. 36/2023 nel testo vigente; il D.Lgs. 209/2024 è un correttivo di particolare rilievo, non l'etichetta definitiva dell'aggiornamento. Il ciclo va dal fabbisogno alla programmazione, procedura, aggiudicazione, stipula, esecuzione, verifica, pagamento e controllo. RUP, stazione appaltante, operatore economico, ANAC, BDNCP, FVOE, CIG, MEPA e Consip sono parole chiave da concorso. Non basta conoscere la gara: bisogna capire esecuzione, trasparenza, tracciabilità e responsabilità.
 
 ## Caso guidato
 
@@ -487,7 +489,7 @@ Classifica le seguenti affermazioni.
 | Termine | Significato essenziale |
 |---|---|
 | Contratto pubblico | Strumento con cui la PA acquisisce lavori, servizi, forniture o affida concessioni. |
-| Codice dei contratti pubblici | D.Lgs. 36/2023, aggiornato dal D.Lgs. 209/2024. |
+| Codice dei contratti pubblici | D.Lgs. 36/2023 nel testo vigente; il D.Lgs. 209/2024 è un correttivo di particolare rilievo. |
 | Stazione appaltante | Soggetto che affida un contratto di appalto. |
 | Ente concedente | Soggetto che affida una concessione. |
 | Operatore economico | Soggetto che offre lavori, servizi o forniture sul mercato. |
