@@ -1575,3 +1575,11 @@
 - l0: l0/conv-20260721120832-x833iz.md
 - atoms:
   - mem-20260721120832-7619i7 | result | Esito vol-01-intervento-p4: Prossimo passo nella revisione professionale del Volume 1, mantenendo M-TR01 e M-TR02 aperti finche non saranno scritti. -> Completato l'intervento P4 sul raccordo B-PA07 fra Capitolo 7 e Capitolo 10.
+
+## 2026-07-21T12:22:05.022Z - editorial-reviewer
+
+- conversation_id: conv-20260721122205-qgmkwh
+- route: vol-01-intervento-p5
+- l0: l0/conv-20260721122205-qgmkwh.md
+- atoms:
+  - mem-20260721122205-wocr9o | result | Esito vol-01-intervento-p5: Prossimo passo nella revisione professionale del Volume 1. -> Completato l'intervento P5 sul nucleo B-PA01 del Capitolo 4.
