@@ -6,10 +6,10 @@ status: revised_draft
 domain: concorsi pubblici italiani
 topics: ["diritto amministrativo", "procedimento amministrativo", "attività amministrativa", "situazioni giuridiche soggettive", "organizzazione amministrativa", "semplificazione amministrativa", "atti amministrativi", "accesso e trasparenza", "anticorruzione e privacy", "documentazione amministrativa", "amministrazione digitale", "contratti pubblici", "beni pubblici", "servizi pubblici", "controlli e responsabilità", "giustizia amministrativa", "enti territoriali", "sanzioni amministrative", "principio di legalità", "responsabilità dirigenziale", "performance amministrativa", "governo del rischio", "pubblico impiego"]
 entities: ["Legge 241/1990", "ANAC", "Pubblica amministrazione", "Responsabile del procedimento", "Dirigente pubblico", "D.Lgs. 165/2001", "D.Lgs. 150/2009", "D.Lgs. 36/2023", "Corte dei conti", "Consiglio di Stato"]
-source_refs: ["sources/struttura-madre-il-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/legge-241-1990-procedimento-amministrativo.md", "sources/legge-7-agosto-1990-n-241-procedimento-amministrativo-e-accesso-ai-documenti-amministrativi-testo-vigente-normattiva.md", "sources/d-lgs-14-marzo-2013-n-33-trasparenza.md", "sources/d-lgs-25-maggio-2016-n-97-foia-e-revisione-trasparenza.md", "sources/d-lgs-7-marzo-2005-n-82-amministrazione-digitale.md", "sources/legge-6-novembre-2012-n-190-anticorruzione.md", "sources/d-lgs-10-marzo-2023-n-24-whistleblowing.md", "sources/d-lgs-27-ottobre-2009-n-150-performance.md", "sources/legge-14-gennaio-1994-n-20-responsabilita-erariale.md", "sources/d-lgs-2-luglio-2010-n-104-processo-amministrativo.md", "sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego.md", "sources/d-lgs-30-luglio-1999-n-300-organizzazione-governo.md", "sources/d-lgs-31-marzo-2023-n-36-contratti-pubblici.md", "sources/d-lgs-18-agosto-2000-n-267-enti-locali.md", "sources/d-p-r-28-dicembre-2000-n-445-documentazione-amministrativa.md", "sources/codice-civile-beni-pubblici-demanio-patrimonio.md", "sources/d-p-r-8-giugno-2001-n-327-espropriazione-pubblica-utilita.md", "sources/legge-24-novembre-1981-n-689-sanzioni-amministrative.md", "sources/regio-decreto-18-giugno-1931-n-773-tulps-polizia-amministrativa.md", "sources/d-lgs-26-agosto-2016-n-174-codice-di-giustizia-contabile.md", "sources/responsabilita-dirigenziale-legalita-organizzativa-performance-rischio.md", "sources/manuale-diritto-amministrativo-lopilato.md"]
+source_refs: ["sources/struttura-madre-il-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/legge-241-1990-procedimento-amministrativo.md", "sources/legge-7-agosto-1990-n-241-procedimento-amministrativo-e-accesso-ai-documenti-amministrativi-testo-vigente-normattiva.md", "sources/legge-2-dicembre-2025-n-182-semplificazioni-autotutela.md", "sources/d-lgs-14-marzo-2013-n-33-trasparenza.md", "sources/d-lgs-25-maggio-2016-n-97-foia-e-revisione-trasparenza.md", "sources/d-lgs-7-marzo-2005-n-82-amministrazione-digitale.md", "sources/legge-6-novembre-2012-n-190-anticorruzione.md", "sources/d-lgs-10-marzo-2023-n-24-whistleblowing.md", "sources/d-lgs-27-ottobre-2009-n-150-performance.md", "sources/legge-14-gennaio-1994-n-20-responsabilita-erariale.md", "sources/d-lgs-2-luglio-2010-n-104-processo-amministrativo.md", "sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego.md", "sources/d-lgs-30-luglio-1999-n-300-organizzazione-governo.md", "sources/d-lgs-31-marzo-2023-n-36-contratti-pubblici.md", "sources/d-lgs-18-agosto-2000-n-267-enti-locali.md", "sources/d-p-r-28-dicembre-2000-n-445-documentazione-amministrativa.md", "sources/codice-civile-beni-pubblici-demanio-patrimonio.md", "sources/d-p-r-8-giugno-2001-n-327-espropriazione-pubblica-utilita.md", "sources/legge-24-novembre-1981-n-689-sanzioni-amministrative.md", "sources/regio-decreto-18-giugno-1931-n-773-tulps-polizia-amministrativa.md", "sources/d-lgs-26-agosto-2016-n-174-codice-di-giustizia-contabile.md", "sources/responsabilita-dirigenziale-legalita-organizzativa-performance-rischio.md", "sources/manuale-diritto-amministrativo-lopilato.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.9
-updated_at: "2026-05-25T21:25:00+02:00"
+updated_at: "2026-07-21T14:45:00+02:00"
 created_at: "2026-05-09T01:05:00.000Z"
 review_required: true
 canonical: true
@@ -377,7 +377,7 @@ La comunicazione di avvio informa gli interessati che il procedimento è iniziat
 
 La partecipazione consente agli interessati di incidere sull'istruttoria. Chi partecipa può prendere visione degli atti, nei limiti previsti, e presentare memorie o documenti che l'amministrazione deve valutare se pertinenti.
 
-Il preavviso di rigetto, nei procedimenti a istanza di parte, impone all'amministrazione di comunicare i motivi ostativi prima di adottare un provvedimento negativo. L'interessato può presentare osservazioni e l'amministrazione deve motivare l'eventuale mancato accoglimento. È uno strumento importante perché evita rigetti improvvisi e migliora la qualità della decisione.
+Il preavviso di rigetto, nei procedimenti a istanza di parte, impone all'amministrazione di comunicare i motivi ostativi prima di adottare un provvedimento negativo. L'interessato ha dieci giorni dal ricevimento per presentare osservazioni e documenti; i termini del procedimento sono sospesi e riprendono secondo l'art. 10-bis. Se le osservazioni non sono accolte, il diniego finale deve darne ragione. Attenzione: l'art. 10-bis non si applica alle procedure concorsuali né ai procedimenti previdenziali e assistenziali gestiti dagli enti previdenziali su istanza di parte.
 
 Questi istituti hanno una funzione comune: riducono l'opacità del procedimento e trasformano il cittadino da destinatario passivo a soggetto che può contribuire alla decisione.
 
@@ -405,10 +405,12 @@ Un provvedimento può essere valido, illegittimo, inefficace, nullo o annullabil
 | **Annullabilità** | Riguarda il provvedimento adottato in violazione di legge, viziato da eccesso di potere o incompetenza. L'atto produce effetti finché non viene annullato. | Dire che ogni vizio rende l'atto nullo. |
 | **Nullità** | Riguarda vizi radicali, come mancanza degli elementi essenziali, difetto assoluto di attribuzione, violazione o elusione del giudicato o altri casi previsti dalla legge. | Usare la nullità come categoria generica. |
 | **Revoca** | Rimuove per il futuro un provvedimento per ragioni legate all'interesse pubblico, a mutamenti della situazione di fatto o a nuova valutazione consentita nei limiti di legge. | Confonderla con l'annullamento per illegittimità originaria. |
-| **Annullamento d'ufficio** | La PA rimuove un proprio atto illegittimo, se vi sono ragioni di interesse pubblico e nel rispetto dei limiti temporali e degli interessi coinvolti. | Dire che la PA può annullare sempre e senza limiti. |
+| **Annullamento d'ufficio** | La PA rimuove un proprio atto illegittimo se vi sono ragioni di interesse pubblico, entro un termine ragionevole e valutando destinatari e controinteressati. Per autorizzazioni e vantaggi economici, anche formatisi per silenzio-assenso, il limite massimo ordinario è sei mesi dall'adozione. | Dire che la PA può annullare sempre e senza limiti, oppure usare il precedente limite di dodici mesi. |
 | **Convalida** | Corregge un atto annullabile quando sussistono ragioni di interesse pubblico ed entro un termine ragionevole. | Presentarla come sanatoria automatica di ogni vizio. |
 
 L'autotutela non è libertà illimitata. È un potere di riesame che richiede motivazione, interesse pubblico, rispetto dell'affidamento e valutazione degli interessi dei destinatari e dei controinteressati.
+
+Il termine di sei mesi non sostituisce la regola generale: l'annullamento d'ufficio richiede comunque illegittimità, interesse pubblico e valutazione dell'affidamento. Nei casi di false rappresentazioni o dichiarazioni sostitutive false o mendaci costituenti reato, accertate con sentenza passata in giudicato, la legge prevede un regime specifico anche oltre il termine ordinario.
 
 ![Figura 5.3 - Per rispondere su un provvedimento occorre distinguere elementi, vizi, effetti e rimedi di autotutela.](../assets/chapter-05/03-provvedimento-vizi-autotutela.png)
 
@@ -483,6 +485,31 @@ Un ufficio che accumula pratiche senza responsabile, non comunica i termini, non
 | **Provvedimento** | Quale atto finale produce effetti? | Definizione, elementi, motivazione, effetti, eventuali vizi. |
 | **Accesso** | Chi può conoscere cosa e perché? | Distinzione tra accesso documentale, civico semplice e civico generalizzato. |
 | **Silenzio** | Che conseguenze ha la mancata risposta? | Verifica del dovere di concludere, della disciplina applicabile e dei rimedi. |
+
+## Riferimenti normativi essenziali
+
+| Nucleo da concorso | Riferimento primario | Che cosa devi saper fare |
+|---|---|---|
+| Principi dell'azione amministrativa | Legge 241/1990, art. 1 | Collegare legalità, economicità, efficacia, imparzialità, pubblicità, trasparenza, collaborazione e buona fede. |
+| Termine e inerzia | Legge 241/1990, artt. 2 e 2-bis | Distinguere dovere di provvedere, termine applicabile, responsabilità da ritardo e rimedi. |
+| Responsabile e istruttoria | Legge 241/1990, artt. 4-6 | Spiegare perché responsabile del procedimento e organo decisore possono non coincidere. |
+| Partecipazione e preavviso | Legge 241/1990, artt. 7-10-bis | Individuare comunicazione di avvio, memorie, osservazioni e l'eccezione delle procedure concorsuali. |
+| Conferenza, SCIA e silenzio-assenso | Legge 241/1990, artt. 14-20 | Qualificare il procedimento prima di attribuire effetti al silenzio o alla segnalazione. |
+| Motivazione e vizi | Legge 241/1990, artt. 3, 21-septies e 21-octies | Distinguere motivazione, nullità e annullabilità. |
+| Revoca, annullamento e convalida | Legge 241/1990, artt. 21-quinquies e 21-nonies; Legge 182/2025 | Distinguere illegittimità originaria, nuova valutazione dell'interesse pubblico e il limite ordinario di sei mesi. |
+| Accesso documentale | Legge 241/1990, artt. 22-25 | Collegare interesse qualificato, documenti, limiti e tutela. |
+
+## Riferimenti consolidati
+
+- [[sources/legge-241-1990-procedimento-amministrativo]]
+- [[sources/legge-7-agosto-1990-n-241-procedimento-amministrativo-e-accesso-ai-documenti-amministrativi-testo-vigente-normattiva]]
+- [[sources/legge-2-dicembre-2025-n-182-semplificazioni-autotutela]]
+- [[sources/d-lgs-14-marzo-2013-n-33-trasparenza]]
+- [[sources/d-lgs-7-marzo-2005-n-82-amministrazione-digitale]]
+
+## Note di review
+
+L'audit P6 ha verificato la Legge 241/1990 su Normattiva e la modifica dell'art. 21-nonies introdotta dalla Legge 2 dicembre 2025, n. 182. Prima della pubblicazione serve un controllo umano sul testo impaginato e sulle modifiche normative intervenute nel frattempo.
 
 ## Da sapere in 5 righe
 

@@ -1583,3 +1583,11 @@
 - l0: l0/conv-20260721122205-qgmkwh.md
 - atoms:
   - mem-20260721122205-wocr9o | result | Esito vol-01-intervento-p5: Prossimo passo nella revisione professionale del Volume 1. -> Completato l'intervento P5 sul nucleo B-PA01 del Capitolo 4.
+
+## 2026-07-21T13:57:06.919Z - editorial-reviewer
+
+- conversation_id: conv-20260721135706-iuija9
+- route: vol-01-intervento-p6
+- l0: l0/conv-20260721135706-iuija9.md
+- atoms:
+  - mem-20260721135706-qa6u8k | result | Esito vol-01-intervento-p6: Procedere con il prossimo passo della revisione professionale del Volume 1. -> Completato l'intervento P6 sul nucleo B-PA02 del Capitolo 5.
