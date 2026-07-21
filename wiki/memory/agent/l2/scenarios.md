@@ -1599,3 +1599,11 @@
 - l0: l0/conv-20260721141522-105euax.md
 - atoms:
   - mem-20260721141522-1yxvlvx | result | Esito vol-01-intervento-p7: Procedere con il prossimo passo della revisione professionale del Volume 1. -> Completato P7 B-PA03 Capitolo 6: fonti D.Lgs.
+
+## 2026-07-21T14:26:22.870Z - editorial-reviewer
+
+- conversation_id: conv-20260721142622-8lixn
+- route: vol-01-intervento-p8
+- l0: l0/conv-20260721142622-8lixn.md
+- atoms:
+  - mem-20260721142622-19omj44 | result | Esito vol-01-intervento-p8: Procedere con il prossimo passo della revisione professionale del Volume 1. -> P8 B-PA04: consolidate distinzioni tra reato, illecito disciplinare e responsabilita contabile; aggiunta mappa delle fattispecie e report.

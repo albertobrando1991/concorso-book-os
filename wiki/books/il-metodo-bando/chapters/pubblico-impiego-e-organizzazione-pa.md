@@ -9,7 +9,7 @@ entities: ["D.Lgs. 165/2001", "D.Lgs. 150/2009", "Dirigente pubblico", "Dipenden
 source_refs: ["sources/struttura-madre-il-metodo-bando.md", "sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego.md", "sources/d-lgs-27-ottobre-2009-n-150-performance.md", "sources/d-p-r-9-maggio-1994-n-487-accesso-agli-impieghi-pubblici-e-concorsi.md", "sources/d-p-r-16-giugno-2023-n-82-modifiche-al-d-p-r-487-1994-sui-concorsi.md", "sources/legge-6-novembre-2012-n-190-anticorruzione.md", "sources/delitti-contro-pa-codice-penale-2026.md", "sources/d-lgs-14-marzo-2013-n-33-trasparenza.md", "sources/d-lgs-8-aprile-2013-n-39-inconferibilita-e-incompatibilita-incarichi.md", "sources/d-p-r-16-aprile-2013-n-62-codice-comportamento-dipendenti-pubblici.md", "sources/d-lgs-10-marzo-2023-n-24-whistleblowing.md", "sources/d-p-r-24-giugno-2022-n-81-piao-adempimenti-assorbiti.md", "sources/decreto-30-giugno-2022-n-132-piano-tipo-piao.md", "sources/aran-contrattazione-collettiva-comparti-aree-pubblico-impiego.md", "sources/d-lgs-9-aprile-2008-n-81-salute-sicurezza-lavoro.md", "sources/d-lgs-26-agosto-2016-n-174-codice-di-giustizia-contabile.md", "sources/d-l-14-marzo-2025-n-25-convertito-dalla-l-9-maggio-2025-n-69-capacita-amministrativa.md", "sources/d-l-31-agosto-2013-n-101-trasformazione-civit-anac-e-pubblico-impiego.md", "sources/responsabilita-dirigenziale-legalita-organizzativa-performance-rischio.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.9
-updated_at: "2026-07-21T16:10:00+02:00"
+updated_at: "2026-07-21T16:25:00+02:00"
 created_at: "2026-05-10T11:45:00+02:00"
 review_required: true
 canonical: true
@@ -201,6 +201,26 @@ Altre figure ricorrenti nei programmi vanno almeno riconosciute: **istigazione a
 #### Attenzione all'abuso d'ufficio
 
 Nel quadro normativo attuale non devi indicare l'abuso d'ufficio come reato vigente: l'art. 323 del codice penale è stato abrogato dalla legge 9 agosto 2024, n. 114. Per i concorsi di base è sufficiente ricordare questo dato e non sostituirlo con etichette improprie. Fatti anteriori, norme transitorie e profili specialistici richiedono invece una verifica giuridica puntuale.
+
+#### Riferimenti essenziali per qualificare il fatto
+
+| Nucleo | Riferimento | Operazione da concorso |
+|---|---|---|
+| Qualifica soggettiva | artt. 357 e 358 c.p. | Verificare funzione o servizio svolto in concreto. |
+| Appropriazione e destinazione indebita | artt. 314 e 314-bis c.p. | Distinguere appropriazione della risorsa e uso contrario al vincolo di destinazione. |
+| Costrizione, induzione e accordo | artt. 317, 319-quater, 318 e 319 c.p. | Ricostruire libertà del privato e struttura della relazione illecita. |
+| Condotte ulteriori | artt. 319-quater, 322, 346-bis, 328 e 326 c.p. | Riconoscere l'area della fattispecie senza inventare qualificazioni. |
+| Abuso d'ufficio | Legge 9 agosto 2024, n. 114 | Non indicare l'art. 323 c.p. come reato vigente per fatti attuali. |
+
+## Riferimenti consolidati per B-PA04
+
+- [[sources/delitti-contro-pa-codice-penale-2026]]
+- [[sources/legge-6-novembre-2012-n-190-anticorruzione]]
+- [[sources/legge-14-gennaio-1994-n-20-responsabilita-erariale]]
+
+## Note di review B-PA04
+
+L'audit P8 conferma la separazione didattica tra responsabilità disciplinare, amministrativo-contabile e penale. Pene, circostanze, successione di leggi nel tempo e singole qualificazioni richiedono revisione penalistica umana prima della pubblicazione.
 
 #### Caso guidato: il vantaggio richiesto all'operatore economico
 

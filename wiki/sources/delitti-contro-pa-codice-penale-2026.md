@@ -8,15 +8,15 @@ topics: ["reati contro la pubblica amministrazione", "pubblico impiego", "antico
 entities: ["Codice penale", "Pubblico ufficiale", "Incaricato di pubblico servizio"]
 source_refs: ["sources/legge-6-novembre-2012-n-190-anticorruzione.md"]
 book_refs: ["il-metodo-bando"]
-confidence: 0.92
-updated_at: "2026-07-14T00:00:00+02:00"
+confidence: 0.96
+updated_at: "2026-07-21T16:25:00+02:00"
 created_at: "2026-07-14T00:00:00+02:00"
 review_required: true
 canonical: true
 tags: ["source", "law", "criminal-law", "common-subject"]
 source_type: law
 source_url: "https://www.normattiva.it/atto/caricaDettaglioAtto?atto.codiceRedazionale=24G00111&atto.dataPubblicazioneGazzetta=2024-07-04"
-source_date: "2026-07-14"
+source_date: "fonti ufficiali riesaminate il 2026-07-21"
 authority_level: alta
 ---
 
@@ -45,4 +45,4 @@ Per una copertura concorsuale essenziale vanno inoltre riconosciute, senza entra
 
 ## Stato revisione
 
-Quadro essenziale verificato sulle fonti ufficiali il 14 luglio 2026. Il capitolo non riporta pene o dettagli processuali non necessari al livello base; tali profili richiedono revisione specialistica.
+Quadro essenziale riesaminato sulle fonti ufficiali il 21 luglio 2026. Il capitolo non riporta pene o dettagli processuali non necessari al livello base; tali profili richiedono revisione specialistica.
