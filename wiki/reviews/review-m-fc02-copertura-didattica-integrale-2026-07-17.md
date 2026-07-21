@@ -26,7 +26,7 @@ affected_pages: ["books/moduli/m-fc02-agenzie-fiscali"]
 - Genere editoriale: manuale-workbook specialistico per concorsi nelle Agenzie fiscali.
 - Pubblico target: candidati AE, ADM, AdER e profili Territorio/SPI, con nucleo comune nel VOL-01.
 - Perimetro di questa revisione: index, piano, indice analitico, 14 capitoli numerati e intercalari 5A/5B; confronto con source/topic/entity consolidate.
-- Stato generale in una frase: sanzioni, reati, processo, quadro UE, perimetro selettivo ACFI e nucleo IRPEF/IRES sono ora sviluppati e tracciati, ma il modulo resta non pubblicabile per 16 blocker residui, tutti nuclei parziali.
+- Stato generale in una frase: sanzioni, reati, processo, quadro UE, perimetro selettivo ACFI, IRPEF/IRES, IVA e adempimenti sono ora sviluppati e tracciati, ma il modulo resta non pubblicabile per 14 blocker residui, tutti nuclei parziali.
 
 ## 2. Punti applicati della checklist
 
@@ -42,7 +42,7 @@ Applicati i punti 1-15 e 17-21, 29-30, oltre al gate aggiuntivo di copertura int
 | E04 | Cap. 5B | Promessa didattica | Grave | Tutela e processo tributario sono ora sviluppati autonomamente secondo il TU 175 vigente, con cautela, prova, impugnazioni ed esecuzione. | Mantenere verifica articolo-specifica e review processual-tributaria. | Chiuso |
 | E05 | Cap. 5, `Profili ACFI e fiscalita internazionale` | Copertura selettiva ACFI | Grave | Il perimetro ACFI sviluppa residenza, stabile organizzazione, convenzioni e doppia imposizione, transfer pricing, documentazione e operazioni infragruppo, rischio fiscale e TCF, con fonti consolidate, caso, verifiche e quiz dedicati. | Mantenere il perimetro selettivo e la review normativa/editoriale; non estendere la promessa all'intera fiscalita internazionale. | Chiuso |
 | E06 | Capp. 4, 6 e 11, redditi | Completezza spiegazioni | Grave | Il cap. 4 inquadra soggetti e architettura IRPEF/IRES; il cap. 6 sviluppa le sei categorie, qualificazione e determinazione, reddito d'impresa, soggetti e struttura IRES con casi, quiz e orale; il cap. 11 completa il raccordo civilistico-contabile e le variazioni fiscali. | Mantenere review TUIR articolo-specifica e aggiornare le discipline mobili senza riaprire il nucleo didattico. | Chiuso |
-| E07 | Capp. 4 e 6, IVA | Completezza spiegazioni | Grave | Architettura IVA presente, ma casistica, esclusioni e applicazione sono troppo sintetiche per autonomia specialistica. | Ampliare presupposti/operazioni, detrazione, documentazione e liquidazione con casi graduati. | Aperto |
+| E07 | Capp. 4 e 6, IVA e adempimenti | Completezza spiegazioni | Grave | Funzione, presupposti, soggetti, classi di operazioni, rivalsa, detrazione, documentazione e liquidazione sono sviluppati; dichiarazioni successive, F24, compensazioni e correzioni hanno casi e verifiche dedicate, con fonti ufficiali consolidate al 20 luglio 2026. | Mantenere review tributaria/UE e verificare soltanto i dati mobili prima della pubblicazione. | Chiuso |
 | E08 | Capp. 5 e 5B, tutela amministrativa/deflativa | Progressione/completezza | Grave | Il cap. 5B copre sistematicamente tutela giurisdizionale e processo. Restano parziali le condizioni e gli effetti articolo-specifici di autotutela e degli ulteriori strumenti amministrativi/deflativi richiamati nei capp. 5 e 5B. | Sviluppare per ciascuno strumento amministrativo/deflativo presupposti, competenza, procedimento ed effetti, senza riaprire il nucleo processuale gia coperto. | Aperto, perimetro delimitato |
 | E09 | Cap. 7, misure cautelari/esecutive | Completezza | Grave | Categorie presenti, ma presupposti, limiti e distinzioni non raggiungono autonomia didattica. | Integrare schema comparativo e caso, dopo verifica delle soglie vigenti. | Aperto |
 | E10 | Cap. 8, regimi e debito doganale | Completezza | Grave | Regimi, debito e garanzia sono corretti come mappa ma insufficienti per il peso ADM. | Sviluppare condizioni, effetti, responsabilita e casi distinti con CDU consolidato. | Aperto |
@@ -69,7 +69,7 @@ Applicati i punti 1-15 e 17-21, 29-30, oltre al gate aggiuntivo di copertura int
 
 ### Capitolo 4 - Diritto tributario e teoria dell'imposta
 - Punti di forza: nucleo teorico di base, quadro sistematico IRPEF/IRES e Livello 3 UE completi, con competenze, fonti, IVA armonizzata e sistema CDU tracciati.
-- Criticita: l'IVA non raggiunge ancora la profondita specialistica promessa dai capitoli successivi; il quadro dei redditi resta soggetto a review normativa articolo-specifica.
+- Criticita: IVA e quadro dei redditi restano soggetti a review normativa articolo-specifica e alla verifica dei dati mobili, senza gap didattico locale aperto.
 
 ### Capitolo 5 - Accertamento, controlli e compliance
 - Punti di forza: ciclo del controllo, contraddittorio e compliance sono ben strutturati; il blocco ACFI tratta con metodo operativo gli istituti internazionali selezionati, fino a caso, verifiche e quiz.
@@ -84,7 +84,7 @@ Applicati i punti 1-15 e 17-21, 29-30, oltre al gate aggiuntivo di copertura int
 - Criticita: termini, specifiche telematiche e singoli articoli richiedono controllo sulla versione coordinata vigente.
 ### Capitolo 6 - Adempimenti fiscali
 - Punti di forza: sequenza economica-documentale-dichiarativa chiara e applicata; categorie IRPEF, determinazione, reddito d'impresa e struttura IRES sono sviluppati con esempi, casi, quiz, orale e checklist.
-- Criticita: IVA, dichiarazioni correttive/integrative e compensazioni richiedono espansione; i redditi richiedono manutenzione normativa sul TUIR vigente.
+- Criticita: IVA, dichiarazioni e compensazioni richiedono manutenzione normativa sui dati mobili; i redditi richiedono manutenzione sul TUIR vigente.
 
 ### Capitolo 7 - Riscossione e AdER
 - Punti di forza: competenze, sequenze, front-office e principali alternative sono chiare.
@@ -121,8 +121,8 @@ Applicati i punti 1-15 e 17-21, 29-30, oltre al gate aggiuntivo di copertura int
 ## 5. Coerenza globale
 
 - Terminologia: generalmente coerente; distinzione accertamento/riscossione ben presidiata.
-- Struttura vs indice: coerente per sanzioni, reati, processo, quadro UE, perimetro ACFI e IRPEF/IRES, collocati nei capp. 4, 5, 5A, 5B, 6 e 11; restano i 16 blocker parziali censiti.
-- Promesse dell'introduzione mantenute: solo in parte. Orientamento, performance, civile/commerciale, sanzioni/processo, quadro UE, perimetro ACFI, IRPEF/IRES e workbook sono forti; i 16 blocker impediscono ancora la copertura integrale.
+- Struttura vs indice: coerente per sanzioni, reati, processo, quadro UE, perimetro ACFI, IRPEF/IRES, IVA e adempimenti, collocati nei capp. 4, 5, 5A, 5B, 6 e 11; restano i 14 blocker parziali censiti.
+- Promesse dell'introduzione mantenute: solo in parte. Orientamento, performance, civile/commerciale, sanzioni/processo, quadro UE, perimetro ACFI, IRPEF/IRES, IVA, adempimenti e workbook sono forti; i 14 blocker impediscono ancora la copertura integrale.
 
 ## 6. Contenuto da verificare
 
@@ -141,7 +141,7 @@ Applicati i punti 1-15 e 17-21, 29-30, oltre al gate aggiuntivo di copertura int
 
 ## 8. Priorita degli interventi
 
-1. Chiudere i 16 nuclei parziali senza usare capitoli operativi o rinvii generici come sostituti della teoria.
+1. Chiudere i 14 nuclei parziali senza usare capitoli operativi o rinvii generici come sostituti della teoria.
 2. Mantenere aggiornato e sottoposto a review il perimetro selettivo ACFI, senza ampliarlo implicitamente all'intera fiscalita internazionale.
 3. Consolidare le fonti mancanti per crisi, privacy e verticali tecnici e svolgere review specialistiche.
 4. Riesaminare casi, quiz e laboratorio dopo la chiusura dei nuclei tecnici.
@@ -149,28 +149,26 @@ Applicati i punti 1-15 e 17-21, 29-30, oltre al gate aggiuntivo di copertura int
 
 ## 9. Giudizio di pubblicabilita
 
-**Non pubblicabile allo stato attuale.** La matrice registra 80 nuclei: 64 `completo`, 16 `parziale`, 0 `solo-nominato`, 0 `rinviato`, 0 `mancante`. I blocker editoriali sono quindi 16.
+**Non pubblicabile allo stato attuale.** La matrice registra 80 nuclei: 66 `completo`, 14 `parziale`, 0 `solo-nominato`, 0 `rinviato`, 0 `mancante`. I blocker editoriali sono quindi 14.
 
-I 16 nuclei `parziale` restano:
+I 14 nuclei `parziale` restano:
 
-1. IVA, casistica ed esclusioni;
-2. condizioni ed effetti articolo-specifici di autotutela e degli ulteriori strumenti amministrativi/deflativi;
-3. dichiarazione, versamento, compensazione e correzioni;
-4. misure cautelari ed esecuzione forzata AdER;
-5. regimi doganali;
-6. debito doganale e garanzia;
-7. prodotti energetici, alcole e tabacchi;
-8. tutela del giocatore, illegalita, prelievi e controlli;
-9. DOCFA, PREGEO e voltura;
-10. estimo e applicazioni OMI;
-11. conti e partita doppia;
-12. indici ed equilibri aziendali;
-13. utile civilistico e reddito imponibile;
-14. crisi d'impresa;
-15. comunicazione, front-office e privacy;
-16. schede e destinazioni cross-family per crisi, HR, gare e ICT.
+1. condizioni ed effetti articolo-specifici di autotutela e degli ulteriori strumenti amministrativi/deflativi;
+2. misure cautelari ed esecuzione forzata AdER;
+3. regimi doganali;
+4. debito doganale e garanzia;
+5. prodotti energetici, alcole e tabacchi;
+6. tutela del giocatore, illegalita, prelievi e controlli;
+7. DOCFA, PREGEO e voltura;
+8. estimo e applicazioni OMI;
+9. conti e partita doppia;
+10. indici ed equilibri aziendali;
+11. utile civilistico e reddito imponibile;
+12. crisi d'impresa;
+13. comunicazione, front-office e privacy;
+14. schede e destinazioni cross-family per crisi, HR, gare e ICT.
 
-Il perimetro selettivo della fiscalita internazionale ACFI e' chiuso didatticamente nel cap. 5; non equivale a una promessa di copertura integrale della materia. Non restano nuclei `solo-nominato` o `mancante`: sanzioni, reati, processo, quadro UE, ACFI e IRPEF/IRES sono stati chiusi didatticamente nei capp. 4, 5, 5A, 5B, 6 e 11. Restano 16 blocker parziali e il modulo non e' pubblicabile. E16 mantiene obbligatoria la review normativa e tecnica prima della pubblicazione.
+Il perimetro selettivo della fiscalita internazionale ACFI e' chiuso didatticamente nel cap. 5; non equivale a una promessa di copertura integrale della materia. Non restano nuclei `solo-nominato` o `mancante`: sanzioni, reati, processo, quadro UE, ACFI, IRPEF/IRES, IVA e adempimenti sono stati chiusi didatticamente nei capp. 4, 5, 5A, 5B, 6 e 11. Restano 14 blocker parziali e il modulo non e' pubblicabile. E16 mantiene obbligatoria la review normativa e tecnica prima della pubblicazione.
 
 ## 10. Limiti di questa revisione
 Audit eseguito sul markdown e sulle note consolidate presenti nel wiki, senza usare `raw/` e senza ricerca web. Non sono stati verificati layout impaginato, vigenza articolo-per-articolo, correttezza specialistica contabile/estimativa o aggiornamento dei sistemi telematici. Lo stato `completo` indica completezza didattica rispetto alla promessa locale osservata, non certificazione normativa finale.
