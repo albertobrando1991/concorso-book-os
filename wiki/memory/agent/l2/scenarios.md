@@ -1534,3 +1534,11 @@
 - l0: l0/conv-20260721103044-14ay82y.md
 - atoms:
   - mem-20260721103044-c6a3gf | result | Esito codex.professional-review: Effettuare la revisione professionale del VOL-01 con matrice didattica obbligatoria, audit retroattivo, integrazione editoriale e gate finale; nessun completo con concetti solo nominati, rinvii generici o review norma... -> Creata la matrice VOL-01 con 17 nuclei: 2 completi e 15 parziali.
+
+## 2026-07-21T11:08:10.978Z - manual-writer
+
+- conversation_id: conv-20260721110810-1sqoqx4
+- route: vol01-p0-content-integration
+- l0: l0/conv-20260721110810-1sqoqx4.md
+- atoms:
+  - mem-20260721110810-1sj6tti | result | Esito vol01-p0-content-integration: Procedere con le competenze editoriali per modificare e implementare il Volume 1 secondo la matrice obbligatoria e il gate di copertura didattica integrale. -> Integrati nei capitoli 11, 17, 23 e 24 dieci mini-reading con spiegazione, dieci casi pratici, un cruscotto cartaceo settimanale e dodici checklist.

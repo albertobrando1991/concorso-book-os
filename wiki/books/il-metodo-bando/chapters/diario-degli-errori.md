@@ -9,7 +9,7 @@ entities: ["Metodo BANDO", "Diario degli errori", "Piano 30/60/90 giorni"]
 source_refs: ["sources/struttura-madre-il-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/metodo-bando-capitolo-13-bozza-sito-2026-05-30.md", "sources/apprendimento-efficace-active-recall-ripasso-distribuito.md", "sources/scienze-apprendimento-pianificazione-metacognizione-errori.md", "sources/capitoli-21-23-corpus-moduli-piano-diario-2026-06-01.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.9
-updated_at: "2026-06-09T14:21:46.3595543+02:00"
+updated_at: "2026-07-21T00:00:00+02:00"
 created_at: "2026-05-10T11:45:00+02:00"
 review_required: true
 canonical: true
@@ -290,6 +290,61 @@ Il diario corregge il piano. Ogni settimana chiediti:
 
 Il piano senza diario diventa rigido. Il diario senza piano diventa confuso. Devono lavorare insieme.
 
+## Cruscotto personale settimanale
+
+Il diario raccoglie i singoli errori; il cruscotto li trasforma in una decisione settimanale. Compilalo su carta sempre nello stesso giorno, usando solo dati realmente registrati. Non serve ottenere numeri perfetti: serve vedere se gli errori diminuiscono, si spostano o si ripetono.
+
+### Intestazione
+
+| Settimana | Concorso/profilo | Prova prioritaria | Ore previste | Ore svolte |
+|---|---|---|---:|---:|
+| Dal ____ al ____ | | quiz / scritto / orale / caso | | |
+
+### Indicatori essenziali
+
+| Indicatore | Valore settimana | Valore precedente | Tendenza | Soglia di intervento |
+|---|---:|---:|---|---|
+| Quiz svolti | | | ↑ / = / ↓ | Meno del volume pianificato: ridurre dispersioni. |
+| Risposte corrette | ____% | ____% | ↑ / = / ↓ | Due settimane in calo: fermare nuovi contenuti e diagnosticare. |
+| Errori registrati nel diario | | | ↑ / = / ↓ | Molti errori non registrati: completare il diario prima di proseguire. |
+| Errori ricorrenti | | | ↑ / = / ↓ | Lo stesso errore compare almeno 3 volte: creare drill mirato. |
+| Secondi tentativi riusciti | ____ / ____ | ____ / ____ | ↑ / = / ↓ | Meno del 70%: anticipare il ripasso e cambiare tecnica. |
+| Output completati | | | ↑ / = / ↓ | Nessun output: programmare una simulazione o risposta. |
+| Materie stabili | | | ↑ / = / ↓ | Nessuna materia stabile: restringere le priorità. |
+| Materie fragili | | | ↑ / = / ↓ | Più di 2 fragili: scegliere quella più pesata nel bando. |
+
+La percentuale di risposte corrette è `risposte corrette / quiz svolti × 100`. Il tasso di secondo tentativo è `errori corretti al controllo / errori ricontrollati × 100`. Le soglie sono segnali di lavoro, non voti assoluti: vanno adattate al formato e alla penalità della prova.
+
+### Le tre priorità della prossima settimana
+
+| Priorità | Materia o abilità | Evidenza dal diario | Prossima azione concreta | Entro il | Verifica prevista |
+|---:|---|---|---|---|---|
+| 1 | | | | | quiz / risposta / caso / orale |
+| 2 | | | | | quiz / risposta / caso / orale |
+| 3 | | | | | quiz / risposta / caso / orale |
+
+Scrivi azioni osservabili: `20 quiz su accesso con correzione`, `due risposte orali da 2 minuti`, `un caso con scaletta in 15 minuti`. Evita formule come `studiare meglio` o `ripassare tutto`.
+
+### Controllo degli errori ad alta resa
+
+| Errore o confusione | Categoria | Regola corretta | Data ripasso | Esito secondo tentativo | Decisione |
+|---|---|---|---|---|---|
+| | memoria / concetto / lettura / tempo / strategia / ansia | | | corretto / incerto / errato | archivia / ripeti / cambia tecnica |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+
+### Chiusura del cruscotto
+
+Prima di chiudere la settimana, completa tre frasi:
+
+1. **Mantengo** ____________________, perché ____________________.
+2. **Correggo** ____________________, con questa azione: ____________________.
+3. **Smetto di fare** ____________________, perché non produce risultati verificabili.
+
+Il cruscotto è completo solo se contiene almeno una prossima azione con data e una verifica programmata. Se i dati non bastano, la prima azione della settimana successiva è produrre un campione misurabile: quiz, risposta scritta, esposizione orale o caso pratico.
+
 ## Da sapere in 5 righe
 
 1. L'errore è utile solo se produce una prossima azione.
@@ -376,5 +431,5 @@ Poi conta le categorie. La categoria più frequente diventa il tuo prossimo bloc
 
 ## Note di review
 
-- Valutare in impaginazione se la scheda diario va ripetuta anche in appendice come tool compilabile.
-- Per dashboard digitale futura, i campi minimi sono categoria, materia, causa, prossima azione, data ripasso ed esito secondo tentativo.
+- Valutare in impaginazione se la scheda diario e il cruscotto settimanale vanno ripetuti anche in appendice come tool compilabili.
+- Un'eventuale dashboard digitale deve estendere, non sostituire, il cruscotto cartaceo e conservarne almeno categoria, materia, causa, prossima azione, data ripasso ed esito del secondo tentativo.

@@ -9,7 +9,7 @@ entities: ["Pubblica amministrazione", "Comune", "RUP", "Dipendente pubblico"]
 source_refs: ["sources/struttura-madre-il-metodo-bando.md", "sources/capitolo-17-18-corpus-casi-pratici-quesiti-situazionali-2026-05-30.md", "sources/legge-241-1990-procedimento-amministrativo.md", "sources/d-lgs-14-marzo-2013-n-33-trasparenza.md", "sources/regolamento-ue-2016-679-gdpr-protezione-dati-personali.md", "sources/d-lgs-31-marzo-2023-n-36-contratti-pubblici.md", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md", "sources/framework-competenze-trasversali-pa-dm-28-giugno-2023.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.9
-updated_at: "2026-06-07T20:00:16+02:00"
+updated_at: "2026-07-21T00:00:00+02:00"
 created_at: "2026-05-10T11:45:00+02:00"
 review_required: true
 canonical: true
@@ -297,7 +297,63 @@ L'amministrazione deve verificare il contenuto della richiesta e l'eventuale pre
 
 Promettere la modifica dell'atto prima dell'istruttoria. Il funzionario non deve confondere ascolto con esito favorevole.
 
-![Figura 17.6 - Matrice dei casi ricorrenti: istanza incompleta, accesso con dati, ritardo, sportello sbagliato, graduatoria, ufficio non competente, acquisto urgente e riesame.](../assets/chapter-17/06-matrice-casi-ricorrenti.png)
+![Figura 17.6 - Matrice degli otto casi ricorrenti di base: istanza incompleta, accesso con dati, ritardo, sportello sbagliato, graduatoria, ufficio non competente, acquisto urgente e riesame.](../assets/chapter-17/06-matrice-casi-ricorrenti.png)
+
+## Caso 9 - Conflitto di interessi nell'istruttoria
+
+### Scenario
+
+Un dipendente riceve una pratica relativa a un'impresa amministrata da un proprio familiare. Il dipendente conosce bene il settore e pensa di poter istruire la pratica con particolare rapidità, dichiarando di essere comunque imparziale.
+
+### Lettura del caso
+
+| Elemento | Risposta |
+|---|---|
+| Fatti | Il dipendente deve trattare una pratica collegata a un proprio familiare. |
+| Problema | La relazione personale può compromettere o far apparire compromessa l'imparzialità. |
+| Soggetti | Dipendente, responsabile dell'ufficio, impresa interessata, amministrazione. |
+| Nucleo | Conflitto di interessi, obbligo di segnalazione, astensione, tracciabilità. |
+| Vincoli | Imparzialità, codice di comportamento, organizzazione interna e continuità dell'azione amministrativa. |
+
+### Risposta modello
+
+Il dipendente non deve valutare da solo se la propria correttezza personale sia sufficiente a escludere il problema. Deve rappresentare tempestivamente la situazione al responsabile competente, fornendo gli elementi necessari alla valutazione secondo il codice di comportamento e le regole interne dell'amministrazione. Fino alla decisione organizzativa deve evitare attività che possano incidere sulla pratica, salvo gli adempimenti indifferibili espressamente gestiti dall'ufficio. Se viene disposta l'astensione, la pratica deve essere riassegnata in modo tracciato, assicurando continuità e rispetto dei termini. La relazione familiare non dimostra automaticamente un illecito, ma impone di prevenire il rischio reale o apparente di parzialità.
+
+### Errore da evitare
+
+Pensare: "sono imparziale, quindi posso procedere". Nel conflitto di interessi conta anche la corretta emersione della situazione e la valutazione da parte del soggetto competente.
+
+### Verifica rapida
+
+Qual è la prima azione corretta? **Segnalare tempestivamente la situazione al responsabile competente e attenersi alla decisione organizzativa, senza gestire informalmente la pratica.**
+
+## Caso 10 - Documento protocollato ma non valutato
+
+### Scenario
+
+Dopo l'adozione di un provvedimento sfavorevole, l'ufficio scopre che un documento inviato nei termini dall'interessato era stato protocollato, ma classificato nel fascicolo sbagliato e quindi non considerato durante l'istruttoria.
+
+### Lettura del caso
+
+| Elemento | Risposta |
+|---|---|
+| Fatti | Un documento tempestivo non è entrato nell'istruttoria per un errore interno. |
+| Problema | Il provvedimento può essere fondato su un quadro istruttorio incompleto. |
+| Soggetti | Interessato, responsabile del procedimento, ufficio che ha adottato l'atto. |
+| Nucleo | Completezza dell'istruttoria, motivazione, riesame, autotutela, tracciabilità. |
+| Vincoli | Competenza, termini, affidamento, motivazione e disciplina applicabile al caso concreto. |
+
+### Risposta modello
+
+L'ufficio deve acquisire il documento nel fascicolo corretto, ricostruire l'errore e verificare se il contenuto avrebbe potuto incidere sull'istruttoria o sull'esito. Non può modificare informalmente il provvedimento né ignorare il problema perché l'atto è già stato adottato. Il responsabile deve attivare il percorso di riesame previsto, coinvolgendo l'organo competente e valutando presupposti, limiti e conseguenze dell'eventuale intervento in autotutela. L'interessato deve ricevere una comunicazione chiara attraverso i canali corretti. Ogni passaggio, compresa l'eventuale conferma dell'esito originario, deve essere motivato e tracciato. L'ufficio deve inoltre correggere la causa organizzativa dell'errore per evitare che si ripeta.
+
+### Errore da evitare
+
+Sostituire il provvedimento con una semplice email di scuse o, all'opposto, sostenere che non sia più possibile verificare nulla. Un errore procedimentale richiede qualificazione, competenza, istruttoria e decisione formale.
+
+### Verifica rapida
+
+La presenza del documento impone automaticamente un esito favorevole? **No. Impone una nuova valutazione corretta e tracciata; l'esito dipende dal contenuto del documento e dalla disciplina applicabile.**
 
 ## Come cambiano quiz, scritto e orale
 

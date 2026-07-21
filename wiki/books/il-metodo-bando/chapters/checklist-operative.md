@@ -9,7 +9,7 @@ entities: ["Metodo BANDO", "Bando Decoder", "Diario degli errori", "Piano 30/60/
 source_refs: ["sources/struttura-madre-il-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md", "sources/capitoli-21-23-corpus-moduli-piano-diario-2026-06-01.md", "sources/checklist-operative-concorsi-metodo-bando.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.9
-updated_at: "2026-06-09T16:23:58.2526623+02:00"
+updated_at: "2026-07-21T00:00:00+02:00"
 created_at: "2026-05-10T11:45:00+02:00"
 review_required: true
 canonical: true
@@ -39,11 +39,13 @@ Alla fine del capitolo avrai checklist pronte per:
 - decidere se un concorso merita il tuo tempo;
 - inviare la domanda senza errori evitabili;
 - controllare ricevute, comunicazioni e calendario;
+- avviare lo studio con perimetro, priorità e misure verificabili;
 - preparare scritto, quiz, orale e casi;
 - gestire ultimi 7 giorni e ultime 24 ore;
 - organizzare documenti e logistica;
 - proteggere lucidità e tenuta;
-- usare il dopo prova per migliorare il prossimo concorso.
+- usare il dopo prova per migliorare il prossimo concorso;
+- gestire la pubblicazione della graduatoria con fonti e scadenze sotto controllo.
 
 Le checklist sono pensate per carta e penna. Il digitale può aiutare con promemoria, allegati e archiviazione, ma non deve essere indispensabile.
 
@@ -76,7 +78,7 @@ Ogni checklist ha punti essenziali. Se un punto essenziale non è chiaro, non pr
 | Fase | Checklist collegata | Scopo |
 |---|---|---|
 | B - Bando | Prima scelta, domanda, comunicazioni | Evitare esclusioni e letture incomplete |
-| A - Aree | Materie, moduli, piano | Dare priorità |
+| A - Aree | Avvio studio, materie, moduli, piano | Dare priorità |
 | N - Nuclei | Prova, ultimi giorni | Concentrarsi su alta resa |
 | D - Diario | Errori, ansia, dopo prova | Correggere |
 | O - Output | Scritto, quiz, orale, caso | Allenare ciò che verrà chiesto |
@@ -165,7 +167,43 @@ Dopo l'invio molti candidati si rilassano troppo. Invece inizia la fase di contr
 
 ![Figura 24.3 - Percorso domanda e comunicazioni](../assets/chapter-24/03-percorso-domanda-comunicazioni.png)
 
-## Checklist 4 - Prima dello scritto o quiz
+## Checklist 4 - Prima di iniziare lo studio
+
+Usala dopo aver decodificato il bando e prima di riempire il calendario. Serve a trasformare il programma ufficiale in un piano misurabile, evitando di iniziare dal manuale o dalla materia più comoda.
+
+| Controllo | Sì/No | Nota |
+|---|---|---|
+| Ho davanti il bando, il programma e gli eventuali allegati ufficiali. | | |
+| Ho elencato tutte le materie senza eliminarne nessuna per abitudine. | | |
+| Ho separato nucleo comune, modulo specialistico e abilità di prova. | | |
+| Ho segnato materie ricorrenti, pesi, soglie e possibili prove eliminatorie. | | |
+| Ho stimato il mio livello iniziale con un test o un output diagnostico. | | |
+| Ho scelto non più di tre priorità per il primo ciclo di studio. | | |
+| Ho definito ore realistiche, giorni di recupero e data della prima simulazione. | | |
+| Ho previsto active recall, quiz o output, non solo lettura. | | |
+| Ho predisposto il diario degli errori e il cruscotto settimanale. | | |
+| Ho associato a ogni materia una fonte consolidata e un materiale principale. | | |
+| Ho deciso che cosa rinviare e perché. | | |
+| Ho scritto il primo obiettivo verificabile dei prossimi 7 giorni. | | |
+
+### Scheda di avvio
+
+| Campo | Compilazione |
+|---|---|
+| Data prova o orizzonte stimato | |
+| Ore disponibili a settimana | |
+| Priorità 1 | |
+| Priorità 2 | |
+| Priorità 3 | |
+| Prima simulazione | |
+| Primo controllo del diario | |
+| Output atteso entro 7 giorni | |
+
+### Criterio di stop
+
+Non iniziare una sequenza casuale di capitoli se non hai definito almeno perimetro, tre priorità, primo output e data di verifica. Se il calendario della prova non è noto, lavora con un ciclo breve di 14 giorni e rivalutalo alla scadenza.
+
+## Checklist 5 - Prima dello scritto o quiz
 
 Questa checklist vale per quiz, prova scritta a risposta multipla, prova sintetica, scritto teorico-pratico e casi. Adattala al formato reale.
 
@@ -204,7 +242,7 @@ Questa checklist vale per quiz, prova scritta a risposta multipla, prova sinteti
 | Ho una struttura base: definizione, funzione, riferimento, esempio, chiusura. | |
 | Ho corretto pertinenza, ordine, lessico e completezza. | |
 
-## Checklist 5 - Prima dell'orale
+## Checklist 6 - Prima dell'orale
 
 L'orale non si prepara leggendo in silenzio. Si prepara parlando.
 
@@ -234,7 +272,7 @@ L'orale non si prepara leggendo in silenzio. Si prepara parlando.
 
 ![Figura 24.4 - Preparazione delle prove](../assets/chapter-24/04-checklist-preparazione-prove.png)
 
-## Checklist 6 - Ultimi 7 giorni
+## Checklist 7 - Ultimi 7 giorni
 
 Gli ultimi 7 giorni non servono ad aprire nuovi mondi. Servono a stabilizzare.
 
@@ -257,7 +295,7 @@ Gli ultimi 7 giorni non servono ad aprire nuovi mondi. Servono a stabilizzare.
 - Ignorare documenti e logistica.
 - Restare sveglio fino a tardi per recuperare.
 
-## Checklist 7 - Ultime 24 ore
+## Checklist 8 - Ultime 24 ore
 
 | Controllo | Sì/No | Nota |
 |---|---|---|
@@ -279,7 +317,7 @@ Nelle ultime 24 ore devi ridurre rischio, non aumentare volume. L'obiettivo è a
 
 ![Figura 24.5 - Ultimi 7 giorni e ultime 24 ore](../assets/chapter-24/05-ultimi-sette-giorni-ventiquattro-ore.png)
 
-## Checklist 8 - Documenti e logistica
+## Checklist 9 - Documenti e logistica
 
 Verifica sempre il bando e l'avviso di convocazione. Questa checklist non sostituisce le istruzioni ufficiali.
 
@@ -298,7 +336,7 @@ Verifica sempre il bando e l'avviso di convocazione. Questa checklist non sostit
 
 Se un oggetto non è chiaramente ammesso, non darlo per ammesso. Verifica nell'avviso o nelle istruzioni della commissione.
 
-## Checklist 9 - Ansia e tenuta
+## Checklist 10 - Ansia e tenuta
 
 L'ansia non si elimina con una frase motivazionale. Si gestisce con procedure.
 
@@ -324,7 +362,7 @@ Non usare frasi vaghe come "devo stare calmo". Usa istruzioni:
 
 ![Figura 24.6 - Logistica, ansia e tenuta](../assets/chapter-24/06-logistica-ansia-tenuta.png)
 
-## Checklist 10 - Dopo la prova
+## Checklist 11 - Dopo la prova
 
 Il dopo prova serve a migliorare, non solo ad aspettare.
 
@@ -353,6 +391,42 @@ Il dopo prova serve a migliorare, non solo ad aspettare.
 | Che cosa non usero più? | |
 
 Il candidato strategico non riparte da zero. Trasforma ogni prova in dati per la successiva.
+
+## Checklist 12 - Dopo la pubblicazione della graduatoria
+
+La graduatoria non va letta soltanto come un numero. Devi verificare l'atto ufficiale, capire quale fase si è chiusa, proteggere eventuali termini e decidere la prossima azione senza affidarti a indiscrezioni.
+
+| Controllo | Sì/No | Nota |
+|---|---|---|
+| Ho consultato la graduatoria o l'atto sul canale ufficiale indicato dal bando. | | |
+| Ho salvato copia dell'atto con data di pubblicazione e riferimenti. | | |
+| Ho verificato posizione, punteggio e dati che mi riguardano. | | |
+| Ho distinto graduatoria provvisoria, definitiva, approvata o successivamente rettificata. | | |
+| Ho letto gli avvisi collegati e non solo la tabella dei nominativi. | | |
+| Ho annotato eventuali termini, canali e uffici indicati per chiarimenti o iniziative. | | |
+| Se rilevo un possibile errore, ho raccolto ricevute, titoli e documenti pertinenti. | | |
+| Ho evitato richieste informali di dati relativi ad altri candidati. | | |
+| Ho verificato eventuali convocazioni, scorrimenti o adempimenti successivi. | | |
+| Ho aggiornato la scheda concorso e il calendario dei controlli. | | |
+| Ho aggiornato il diario con ciò che la prova ha realmente misurato. | | |
+| Ho deciso se attendere, chiedere chiarimenti, attivare una tutela qualificata o spostare il focus sul prossimo concorso. | | |
+
+### Scheda decisione graduatoria
+
+| Campo | Compilazione |
+|---|---|
+| Atto e data di pubblicazione | |
+| Mia posizione e punteggio | |
+| Stato della graduatoria | |
+| Prossima comunicazione da controllare | |
+| Termine da proteggere | |
+| Documento mancante da recuperare | |
+| Prossima azione | |
+| Data del prossimo controllo | |
+
+### Criterio di stop
+
+Non inviare contestazioni generiche e non lasciare decorrere un termine basandoti su chat o ricordi. Se la questione può incidere sulla tua posizione, conserva gli atti e rivolgiti tempestivamente al canale ufficiale o a un professionista qualificato. Il manuale aiuta a organizzare i controlli, ma non sostituisce la valutazione del caso concreto.
 
 ## Checklist unica BANDO
 

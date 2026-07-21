@@ -535,6 +535,7 @@ Aggiornato: 2026-07-08T22:50:00+02:00
 
 - [[books/il-metodo-bando/planning/02-matrice-copertura-didattica]]
 - [[reviews/review-vol-01-revisione-editoriale-professionale-2026-07-21]]
+- [[reviews/review-vol-01-intervento-p0-2026-07-21]]
 
 ## Operational Notes
 - Raw sources restano immutabili in `raw/`.
