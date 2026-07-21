@@ -8,10 +8,10 @@ topics: ["anticorruzione e trasparenza","accesso documentale","accesso civico","
 entities: ["ANAC","Garante Privacy","RPCT","DPO","Pubblica amministrazione","Legge 241/1990"]
 source_refs: []
 book_refs: ["il-metodo-bando"]
-confidence: 0.94
-updated_at: "2026-05-26T00:00:00+02:00"
+confidence: 0.96
+updated_at: "2026-07-21T14:20:00+02:00"
 created_at: "2026-05-26T00:00:00+02:00"
-review_required: false
+review_required: true
 canonical: true
 tags: ["source","corpus","chapter-7","trasparenza","anticorruzione","privacy"]
 source_type: corpus
@@ -51,3 +51,18 @@ I file EUR-Lex scaricati direttamente sono risultati vuoti e non vanno usati com
 ## Criterio editoriale
 
 Nel Capitolo 7 vanno sviluppati in modo autonomo i nuclei su accesso civico, trasparenza, anticorruzione e privacy. I temi gia trattati nei capitoli su diritto amministrativo e pubblico impiego non devono essere ripetuti integralmente: vanno richiamati solo quando servono a distinguere gli istituti o a risolvere una domanda da quiz.
+
+## Aggiornamento P4 - audit 21 luglio 2026
+
+L'audit ha confermato il nucleo essenziale del capitolo e ha riallineato il raccordo con il Capitolo 10. I claim sono stati verificati contro fonti istituzionali correnti: PNA 2025, delibera ANAC n. 19 del 28 gennaio 2026 per la programmazione 2026-2028; pagine ANAC su accesso civico generalizzato e delibera n. 1309/2016; CAD nel testo vigente; Aggiornamento 2026 del Piano Triennale AgID; linee guida del Garante sul rapporto tra pubblicazione online e dati personali.
+
+| Nucleo | Riferimento essenziale | Esito P4 |
+|---|---|---|
+| Accesso civico generalizzato | D.Lgs. 33/2013, artt. 5 e 5-bis; delibera ANAC n. 1309/2016 | Confermata la distinzione da accesso documentale e la valutazione dei limiti. |
+| PNA, PIAO e RPCT | PNA 2025, delibera ANAC n. 19/2026; disciplina PIAO | Inserita la validita della programmazione 2026-2028; il PNA resta indirizzo, non sostituto dell'organizzazione dell'ente. |
+| Trasparenza e privacy | D.Lgs. 33/2013; fonti del Garante | Confermati necessita, proporzionalita, oscuramento e divieto di diffusione eccedente. |
+| Digitale, interoperabilita e dati | CAD; Piano Triennale AgID Aggiornamento 2026 | Creato raccordo esplicito con Capitolo 10: scambio e pubblicazione di dati richiedono finalita, autorizzazioni, sicurezza e protezione dei dati personali. |
+
+## Stato revisione
+
+Il corpus e i capitoli collegati non sono certificati per la pubblicazione: restano necessari controllo del testo vigente alla data di impaginazione e revisione umana delle applicazioni normative puntuali.

@@ -6,9 +6,9 @@ status: revised_draft
 domain: concorsi pubblici italiani
 topics: ["informatica", "competenze digitali", "office produttività", "sistemi operativi e gestione file", "hardware e architettura pc", "internet web posta elettronica", "reti e protocolli", "sicurezza informatica", "database e sql", "programmazione e linguaggi", "pa digitale", "documento informatico firme pec", "open data interoperabilità cloud pa", "privacy e protezione dati"]
 entities: ["SPID", "CIE", "CNS", "PEC", "CAD", "AgID", "ICDL", "LibreOffice", "PDND", "pagoPA", "FatturaPA", "ANPR", "NIS2", "GDPR", "SQL", "HTTP", "DNS", "TCP/IP", "firma digitale", "documento informatico", "open data", "cloud"]
-source_refs: ["sources/struttura-madre-il-metodo-bando.md", "sources/informatica-concorsi-corpus-fonti-ufficiali-2026-05-27.md", "sources/informatica-operativa-office-sistemi-hardware.md", "sources/reti-web-protocolli-concorsi.md", "sources/database-programmazione-formati-concorsi.md", "sources/pa-digitale-cad-identita-documenti-servizi-dati.md", "sources/sicurezza-informatica-privacy-nis2-pa.md"]
+source_refs: ["sources/struttura-madre-il-metodo-bando.md", "sources/informatica-concorsi-corpus-fonti-ufficiali-2026-05-27.md", "sources/informatica-operativa-office-sistemi-hardware.md", "sources/reti-web-protocolli-concorsi.md", "sources/database-programmazione-formati-concorsi.md", "sources/pa-digitale-cad-identita-documenti-servizi-dati.md", "sources/agid-piano-triennale-informatica-pa-2024-2026-aggiornamento-2026.md", "sources/sicurezza-informatica-privacy-nis2-pa.md", "sources/capitolo-7-corpus-fonti-ufficiali-trasparenza-anticorruzione-privacy-2026-05-26.md"]
 book_refs: ["il-metodo-bando"]
-confidence: 0.9
+confidence: 0.93
 review_required: true
 canonical: true
 tags: ["book-chapter", "common-subject"]
@@ -17,7 +17,7 @@ outline_section: 10
 draft_stage: editorial-revision
 last_compiled_from: ["wiki/sources/informatica-concorsi-corpus-fonti-ufficiali-2026-05-27.md", "wiki/sources/informatica-operativa-office-sistemi-hardware.md", "wiki/sources/reti-web-protocolli-concorsi.md", "wiki/sources/database-programmazione-formati-concorsi.md", "wiki/sources/pa-digitale-cad-identita-documenti-servizi-dati.md", "wiki/sources/sicurezza-informatica-privacy-nis2-pa.md", "wiki/topics/informatica.md", "wiki/topics/competenze-digitali.md", "wiki/topics/pa-digitale.md"]
 created_at: "2026-05-10T11:45:00+02:00"
-updated_at: 2026-05-30T00:00:00+02:00
+updated_at: 2026-07-21T14:20:00+02:00
 ---
 
 # Capitolo 10 - Informatica, PA digitale e competenze digitali
@@ -78,6 +78,8 @@ Questo capitolo dialoga con molte parti del manuale:
 | Privacy | Sicurezza informatica, data breach, minimizzazione e responsabilità del titolare sono parte dell'organizzazione digitale. |
 | Organizzazione della PA | Il responsabile per la transizione digitale, i servizi online e l'interoperabilità cambiano processi e competenze. |
 | Contratti pubblici e gestione documentale | Piattaforme digitali, firme, comunicazioni elettroniche e conservazione hanno effetti procedurali. |
+
+Per evitare duplicazioni: il Capitolo 10 spiega come funzionano strumenti, documenti, identita, dati e controlli tecnici; il Capitolo 7 stabilisce il test giuridico da applicare quando quei processi comportano accesso, pubblicazione, diffusione o trattamento di dati personali.
 
 ## Quadro di priorità per lo studio
 
@@ -903,9 +905,9 @@ L'**App IO** è un punto di accesso ai servizi pubblici digitali e alle comunica
 
 La piattaforma per le notifiche digitali, nota anche come SEND, supporta la gestione delle notifiche a valore legale in modalità digitale. Va collegata al tema più ampio delle comunicazioni digitali, del domicilio digitale e della semplificazione dei rapporti tra PA e cittadini.
 
-### PA Digitale 2026
+### Piano Triennale per l'informatica nella PA: Aggiornamento 2026
 
-Le misure di trasformazione digitale finanziate e coordinate a livello nazionale hanno spinto gli enti verso migrazione al cloud, servizi online, esperienza utente, pagoPA, App IO, identità digitale, notifiche digitali e interoperabilità. Ai fini concorsuali, il punto non è memorizzare bandi o scadenze mutevoli, ma capire la direzione: servizi più semplici, digitali, accessibili, sicuri e interoperabili.
+L'Aggiornamento 2026 del Piano Triennale per l'informatica nella PA 2024-2026 è il quadro di programmazione che accompagna le amministrazioni verso servizi più interoperabili, semplici, sicuri e inclusivi. L'aggiornamento consolida, tra l'altro, gestione documentale, interoperabilità, servizi centrati sull'utente e strumenti di supporto alle amministrazioni. Ai fini concorsuali, il punto non è memorizzare bandi o scadenze mutevoli, ma capire la direzione e tradurla in funzioni amministrative concrete.
 
 > [!TIP]
 > **Come lo chiede la commissione**
@@ -1033,6 +1035,8 @@ La risposta organizzativa deve prevedere:
 > [!WARNING]
 > **Errore tipico**
 > La privacy non impedisce la digitalizzazione. Impone di digitalizzare con basi giuridiche, minimizzazione, sicurezza, trasparenza, controllo degli accessi, tempi di conservazione e responsabilità chiare.
+
+Per la risposta giuridica completa, il Capitolo 7 distingue sicurezza, base giuridica, minimizzazione, comunicazione e diffusione. Qui devi trattenere soprattutto la sequenza operativa: prevenire, rilevare, contenere, valutare, documentare e attivare gli adempimenti eventualmente dovuti.
 
 ## 19. Caso guidato: dall'istanza online alla conservazione
 
@@ -1191,6 +1195,19 @@ WHERE Ufficio = 'Protocollo';
 ```
 
 La parte decisiva è `WHERE`, perché filtra i record in base a una condizione.
+
+## Riferimenti consolidati
+
+- [[sources/pa-digitale-cad-identita-documenti-servizi-dati]]
+- [[sources/agid-piano-triennale-informatica-pa-2024-2026-aggiornamento-2026]]
+- [[sources/d-lgs-7-marzo-2005-n-82-amministrazione-digitale]]
+- [[sources/sicurezza-informatica-privacy-nis2-pa]]
+- [[sources/capitolo-7-corpus-fonti-ufficiali-trasparenza-anticorruzione-privacy-2026-05-26]]
+
+## Note di review
+
+- P4 ha verificato il raccordo con il Capitolo 7 e ha aggiornato il riferimento al Piano Triennale per l'informatica nella PA 2024-2026, Aggiornamento 2026.
+- Restano separati e non migrati i nuclei ICT avanzati finche M-TR01 non contiene capitoli completi e verificati; prima della pubblicazione sono comunque necessarie review tecnica e normativa umane.
 
 ## 24. Checklist finale del capitolo
 

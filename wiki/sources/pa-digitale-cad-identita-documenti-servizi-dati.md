@@ -8,8 +8,8 @@ topics: ["pa digitale","informatica","competenze digitali","documento informatic
 entities: ["CAD","AgID","SPID","CIE","CNS","PEC","INAD","IPA","ANPR","pagoPA","FatturaPA","App IO","PDND","Piano Triennale ICT","Cloud Italia","eIDAS"]
 source_refs: ["sources/d-lgs-7-marzo-2005-n-82-amministrazione-digitale.md","sources/agid-linee-guida-sulla-formazione-gestione-e-conservazione-dei-documenti-informatici.md","sources/agid-catalogo-linee-guida-cad-e-domicilio-digitale.md"]
 book_refs: ["il-metodo-bando"]
-confidence: 0.9
-updated_at: "2026-05-27T23:00:00+02:00"
+confidence: 0.94
+updated_at: "2026-07-21T14:20:00+02:00"
 created_at: "2026-05-27T23:00:00+02:00"
 review_required: true
 canonical: true
@@ -94,6 +94,9 @@ La PA digitale va spiegata come infrastruttura giuridico-organizzativa, non come
 ## Note di review
 
 - Usare Normattiva per articoli e commi del CAD.
+- P4, 21 luglio 2026: verificato il CAD nel testo vigente e collegato l'Aggiornamento 2026 del Piano Triennale per l'informatica nella PA alla fonte [[sources/agid-piano-triennale-informatica-pa-2024-2026-aggiornamento-2026]].
+- Il Capitolo 10 deve distinguere interoperabilita e open data dalla diffusione indiscriminata: accesso, pubblicazione e dati personali restano disciplinati anche da D.Lgs. 33/2013 e GDPR, sviluppati nel Capitolo 7.
+- Prima della pubblicazione, verificare norme tecniche, piattaforme, scadenze e obblighi puntuali applicabili alla singola amministrazione.
 - Usare AgID per linee guida e regole tecniche.
 - Usare EUR-Lex per eIDAS e regolamenti UE.
 - Verificare sempre eventuali novita 2026 prima di scrivere date o scadenze nel capitolo.

@@ -8,10 +8,10 @@ topics: ["anticorruzione e trasparenza", "accesso documentale", "accesso civico"
 entities: ["ANAC", "Garante Privacy", "RPCT", "DPO", "RPD", "Piano Integrato di Attività e Organizzazione", "Legge 241/1990", "Pubblica amministrazione"]
 source_refs: ["sources/struttura-madre-il-metodo-bando.md", "sources/capitolo-7-corpus-fonti-ufficiali-trasparenza-anticorruzione-privacy-2026-05-26.md", "sources/d-lgs-14-marzo-2013-n-33-trasparenza.md", "sources/d-lgs-25-maggio-2016-n-97-foia-e-revisione-trasparenza.md", "sources/legge-7-agosto-1990-n-241-procedimento-amministrativo-e-accesso-ai-documenti-amministrativi-testo-vigente-normattiva.md", "sources/legge-6-novembre-2012-n-190-anticorruzione.md", "sources/anac-linee-guida-accesso-civico-e-obblighi-pubblicazione-2016.md", "sources/anac-piano-nazionale-anticorruzione-2025-delibera-n-19-del-28-gennaio-2026.md", "sources/d-lgs-8-aprile-2013-n-39-inconferibilita-e-incompatibilita-incarichi.md", "sources/d-p-r-16-aprile-2013-n-62-codice-comportamento-dipendenti-pubblici.md", "sources/d-p-r-13-giugno-2023-n-81-modifiche-codice-comportamento.md", "sources/d-lgs-10-marzo-2023-n-24-whistleblowing.md", "sources/regolamento-ue-2016-679-gdpr-protezione-dati-personali.md", "sources/d-lgs-30-giugno-2003-n-196-codice-privacy-e-d-lgs-101-2018-adeguamento-gdpr.md", "sources/garante-privacy-gdpr-guida-operativa-diritti-sicurezza-dpo.md", "sources/garante-privacy-trasparenza-pa-accesso-civico-e-dati-personali.md", "sources/d-p-r-24-giugno-2022-n-81-piao-adempimenti-assorbiti.md", "sources/decreto-30-giugno-2022-n-132-piano-tipo-piao.md"]
 book_refs: ["il-metodo-bando"]
-confidence: 0.92
-updated_at: "2026-05-26T00:00:00+02:00"
+confidence: 0.95
+updated_at: "2026-07-21T14:20:00+02:00"
 created_at: "2026-05-10T11:45:00+02:00"
-review_required: false
+review_required: true
 canonical: true
 tags: ["book-chapter", "common-subject", "revised"]
 book_id: il-metodo-bando
@@ -66,6 +66,7 @@ Questo capitolo è costruito per evitare ripetizioni. Alcuni istituti sono già 
 | Codice di comportamento | Capitolo 6 | Solo come presidio anticorruzione: conflitto di interessi, regali, astensione, uso corretto di dati e strumenti. |
 | Responsabilità disciplinare | Capitolo 6 | Solo come conseguenza possibile di violazioni di doveri, privacy, accessi o misure di integrità. |
 | Whistleblowing | Capitolo 6 | Qui rileva come misura di emersione del rischio e canale protetto nel sistema anticorruzione. |
+| PA digitale e servizi online | Capitolo 10 | Qui si qualificano base giuridica, limiti di diffusione, minimizzazione e responsabilita; il Capitolo 10 spiega gli strumenti tecnici e organizzativi che rendono sicuro il processo digitale. |
 
 La domanda guida è quindi: questo istituto serve a spiegare il lavoro pubblico in generale, oppure serve a capire trasparenza, controllo diffuso, prevenzione del rischio e protezione dei dati? Nel secondo caso appartiene a questo capitolo.
 
@@ -226,6 +227,8 @@ La mappatura dei processi è il passaggio operativo centrale. L'amministrazione 
 Nei quiz, la parola chiave è "prevenzione": l'anticorruzione non coincide con il diritto penale.
 
 ### 8. PNA, PIAO e RPCT
+
+Alla data dell'audit P4, il PNA 2025 e' stato approvato in via definitiva con delibera ANAC n. 19 del 28 gennaio 2026 e le sue indicazioni valgono per la programmazione anticorruzione del triennio 2026-2028.
 
 Il Piano Nazionale Anticorruzione è l'atto di indirizzo dell'ANAC che orienta le amministrazioni nella prevenzione del rischio corruttivo. Il PNA non sostituisce la responsabilità della singola amministrazione: fornisce criteri, indicazioni e priorità.
 
@@ -421,6 +424,19 @@ La pubblicazione nella sezione "Amministrazione trasparente" è una forma di dif
 
 Regola da risposta orale: se la legge impone la pubblicazione, si pubblica nei limiti previsti; se non la impone, occorre valutare se l'accesso possa essere soddisfatto con forme meno invasive, come accesso parziale o oscuramento.
 
+## Raccordo operativo con il Capitolo 10
+
+Nei casi digitali non basta riconoscere la piattaforma: occorre applicare anche le garanzie di trasparenza e protezione dei dati. Usa questa sequenza per non confondere strumenti e regole.
+
+| Situazione digitale | Il Capitolo 10 chiarisce | Questo capitolo fa verificare |
+|---|---|---|
+| Istanza presentata online con SPID o CIE | identificazione, documento informatico, protocollo e conservazione | base giuridica del trattamento, minimizzazione, ruoli e diritti dell'interessato |
+| Dati scambiati tramite interoperabilita o PDND | interoperabilita, autorizzazioni, tracciabilita e sicurezza | finalita del trattamento, pertinenza dei dati e responsabilita dell'amministrazione |
+| Dato pubblicato o reso riutilizzabile | formato aperto, accessibilita e qualita del dato | obbligo di pubblicazione, limiti, oscuramento e divieto di diffusione eccedente |
+| Incidente su un servizio digitale | misure tecniche, controlli di accesso e continuita operativa | qualificazione dell'eventuale data breach, valutazione del rischio e adempimenti privacy |
+
+**Distinzione da ricordare:** la sicurezza informatica protegge sistemi e dati con misure tecniche e organizzative; la protezione dei dati personali impone anche finalita, base giuridica, minimizzazione e tutela delle persone. Un incidente informatico non coincide automaticamente con un data breach, ma puo diventarlo quando coinvolge la sicurezza di dati personali.
+
 ## Schema operativo di risposta
 
 Quando una traccia mette insieme trasparenza, accesso e dati personali, usa sempre questa sequenza:
@@ -486,6 +502,19 @@ Classifica le seguenti situazioni:
 | Un'associazione chiede dati sui tempi medi di conclusione di procedimenti comunali. | Accesso civico generalizzato. | Valutare limiti, dati personali, eventuale rielaborazione. |
 | Un dipendente segnala tramite canale interno una violazione conosciuta in ufficio. | Whistleblowing. | Riservatezza e divieto di ritorsione. |
 | Un ufficio pubblica online graduatorie con dati sanitari non necessari. | Problema privacy/trasparenza. | Minimizzazione, oscuramento, base normativa. |
+
+## Riferimenti consolidati
+
+- [[sources/capitolo-7-corpus-fonti-ufficiali-trasparenza-anticorruzione-privacy-2026-05-26]]
+- [[sources/anac-piano-nazionale-anticorruzione-2025-delibera-n-19-del-28-gennaio-2026]]
+- [[sources/regolamento-ue-2016-679-gdpr-protezione-dati-personali]]
+- [[sources/garante-privacy-trasparenza-pa-accesso-civico-e-dati-personali]]
+- [[sources/pa-digitale-cad-identita-documenti-servizi-dati]]
+
+## Note di review
+
+- P4 ha riallineato PNA, accesso civico, trasparenza/privacy e raccordo con il Capitolo 10 alle fonti istituzionali consultate il 21 luglio 2026.
+- Prima della pubblicazione restano obbligatori il controllo del testo vigente e la validazione umana delle applicazioni normative puntuali.
 
 ## Checkpoint finale
 

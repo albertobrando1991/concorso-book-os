@@ -1567,3 +1567,11 @@
 - l0: l0/conv-20260721114943-9gtjny.md
 - atoms:
   - mem-20260721114943-7p0ao9 | result | Esito vol-01-intervento-p3: M-TR01 e M-TR02 saranno scritti a breve: mantenerli aperti e procedere con il passo successivo della revisione professionale del Volume 1. -> Completato l'intervento P3 sul Capitolo 9, Contratti pubblici essenziali.
+
+## 2026-07-21T12:08:32.882Z - editorial-reviewer
+
+- conversation_id: conv-20260721120832-x833iz
+- route: vol-01-intervento-p4
+- l0: l0/conv-20260721120832-x833iz.md
+- atoms:
+  - mem-20260721120832-7619i7 | result | Esito vol-01-intervento-p4: Prossimo passo nella revisione professionale del Volume 1, mantenendo M-TR01 e M-TR02 aperti finche non saranno scritti. -> Completato l'intervento P4 sul raccordo B-PA07 fra Capitolo 7 e Capitolo 10.
