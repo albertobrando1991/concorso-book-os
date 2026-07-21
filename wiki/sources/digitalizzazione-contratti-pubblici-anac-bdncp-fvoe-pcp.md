@@ -9,14 +9,14 @@ entities: ["ANAC","BDNCP","FVOE","Piattaforma Contratti Pubblici","Stazione appa
 source_refs: ["sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.93
-updated_at: "2026-05-26T00:00:00+02:00"
+updated_at: "2026-07-21T15:30:00+02:00"
 created_at: "2026-05-26T00:00:00+02:00"
-review_required: false
+review_required: true
 canonical: true
 tags: ["source","digitalizzazione","anac","bdncp","fvoe","pcp","chapter-9"]
 source_type: official_guidance
-source_url: "https://www.anticorruzione.it/-/digitalizzazione-contratti-pubblici"
-source_date: "2026-05-26"
+source_url: "https://www.anticorruzione.it/-/piattaforma-contratti%2Bpubblici"
+source_date: "2025-09-29"
 authority_level: alta
 ---
 
@@ -57,3 +57,13 @@ Dal 2024 la digitalizzazione e parte ordinaria del ciclo di vita dei contratti p
 - Confondere BDNCP e FVOE: la prima e banca dati dei contratti; il secondo riguarda la verifica dei requisiti dell'operatore economico.
 - Trattare la digitalizzazione come tema informatico separato dal Codice: e parte del procedimento contrattuale.
 - Dimenticare il collegamento tra digitalizzazione, trasparenza e anticorruzione.
+
+## Riferimenti normativi e operativi verificati
+
+- principi e ciclo digitale: articoli 19-22 del D.Lgs. 36/2023;
+- BDNCP: articolo 23;
+- FVOE: articolo 24;
+- piattaforme di approvvigionamento digitale: articoli 25-26;
+- pubblicita legale e trasparenza: articoli 27-28;
+- interoperabilita PCP-BDNCP-FVOE-PDND: pagina ufficiale ANAC "Piattaforma Contratti Pubblici", aggiornata il 29 settembre 2025;
+- acquisizione del CIG dal 1 gennaio 2024: pagina ufficiale ANAC "Digitalizzazione dei contratti pubblici".

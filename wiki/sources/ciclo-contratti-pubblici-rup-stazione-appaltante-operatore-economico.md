@@ -9,14 +9,14 @@ entities: ["RUP","Stazione appaltante","Operatore economico","Centrale di commit
 source_refs: ["sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.92
-updated_at: "2026-05-26T00:00:00+02:00"
+updated_at: "2026-07-21T15:30:00+02:00"
 created_at: "2026-05-26T00:00:00+02:00"
-review_required: false
+review_required: true
 canonical: true
 tags: ["source","rup","stazione-appaltante","operatore-economico","chapter-9"]
 source_type: consolidated_official_sources
 source_url: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-03-31;36!vig=/"
-source_date: "2026-05-26"
+source_date: "2026-06-30"
 authority_level: alta
 ---
 
@@ -52,7 +52,7 @@ Per i concorsi il contratto pubblico va spiegato come ciclo. L'amministrazione p
 1. Fabbisogno pubblico.
 2. Programmazione.
 3. Progettazione o definizione tecnica della prestazione.
-4. Decisione a contrarre o atto equivalente.
+4. Decisione di contrarre o atto equivalente, ai sensi dell'articolo 17.
 5. Scelta della procedura.
 6. Pubblicita o invito, se previsti.
 7. Presentazione e valutazione delle offerte.
@@ -61,6 +61,16 @@ Per i concorsi il contratto pubblico va spiegato come ciclo. L'amministrazione p
 10. Esecuzione.
 11. Verifica, collaudo o controllo di conformita.
 12. Pagamento e archiviazione/rendicontazione.
+
+## Riferimenti normativi verificati
+
+- soggetti: Allegato I.1;
+- RUP: articolo 15 e Allegato I.2;
+- programmazione: articolo 37 e Allegato I.5;
+- decisione di contrarre e aggiudicazione: articolo 17;
+- stipula: articolo 18;
+- qualificazione: articoli 62-63 e Allegato II.4;
+- direzione, controllo e verifica: articoli 114-116 e Allegato II.14.
 
 ## Errori da evitare
 

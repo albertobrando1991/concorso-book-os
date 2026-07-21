@@ -9,14 +9,14 @@ entities: ["Consip","MEPA","Acquisti in Rete","Pubblica amministrazione","Operat
 source_refs: []
 book_refs: ["il-metodo-bando"]
 confidence: 0.91
-updated_at: "2026-05-26T00:00:00+02:00"
+updated_at: "2026-07-21T15:30:00+02:00"
 created_at: "2026-05-26T00:00:00+02:00"
-review_required: false
+review_required: true
 canonical: true
 tags: ["source","mepa","consip","acquisti-in-rete","chapter-9"]
 source_type: official_website
-source_url: "https://www.acquistinretepa.it/"
-source_date: "2026-05-26"
+source_url: "https://www.consip.it/chi-siamo/attivit%C3%A0/programma-acquisti"
+source_date: "2026-07-21"
 authority_level: alta
 ---
 
@@ -54,3 +54,12 @@ MEPA, Consip e Acquisti in Rete sono ricorrenti nei concorsi, soprattutto enti l
 - Dire che MEPA e sinonimo di Consip: MEPA e uno strumento; Consip e il soggetto/struttura che opera nel programma di razionalizzazione.
 - Presentare il portale come scorciatoia fuori dal Codice: anche gli acquisti digitali rispettano principi, competenze, copertura, tracciabilita e controlli.
 - Confondere convenzione, accordo quadro e mercato elettronico.
+
+## Verifica istituzionale del 21 luglio 2026
+
+- Il Programma di razionalizzazione e realizzato dal MEF tramite Consip.
+- Acquisti in Rete e il canale operativo del Programma.
+- Convenzioni e accordi quadro sono contratti pronti all'uso o cornici di acquisto; MEPA, SDAPA e Gare in ASP sono strumenti di negoziazione per acquisti autonomi.
+- La pagina istituzionale Consip "Negoziazioni" definisce il MEPA come mercato digitale per acquisti di beni, servizi e lavori sotto la soglia europea, da fornitori abilitati.
+
+Fonti: <https://www.consip.it/chi-siamo/attivit%C3%A0/programma-acquisti> e <https://www.consip.it/amministrazioni/negoziazioni>.

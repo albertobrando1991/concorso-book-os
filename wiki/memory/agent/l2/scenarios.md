@@ -1559,3 +1559,11 @@
 - atoms:
   - mem-20260721113602-1xejkc | instruction | Procedere con la revisione professionale del VOL-01 usando matrice didattica, audit retroattivo, integrazione editoriale e gate finale, preservando il lavoro e usando rinvii solo quando il contenuto completo esiste davvero altrove.
   - mem-20260721113602-1d3kmd4 | result | Esito vol-01-intervento-p2: Procedere con la revisione professionale del VOL-01 usando matrice didattica, audit retroattivo, integrazione editoriale e gate finale, preservando il lavoro e usando rinvii solo quando il contenuto completo esiste da... -> Intervento P2 completato: il Capitolo 9 e la source note canonica sono riallineati al D.Lgs.
+
+## 2026-07-21T11:49:43.026Z - editorial-reviewer
+
+- conversation_id: conv-20260721114943-9gtjny
+- route: vol-01-intervento-p3
+- l0: l0/conv-20260721114943-9gtjny.md
+- atoms:
+  - mem-20260721114943-7p0ao9 | result | Esito vol-01-intervento-p3: M-TR01 e M-TR02 saranno scritti a breve: mantenerli aperti e procedere con il passo successivo della revisione professionale del Volume 1. -> Completato l'intervento P3 sul Capitolo 9, Contratti pubblici essenziali.

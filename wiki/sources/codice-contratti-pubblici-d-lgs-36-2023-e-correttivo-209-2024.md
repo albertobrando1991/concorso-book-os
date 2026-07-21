@@ -9,7 +9,7 @@ entities: ["Codice dei contratti pubblici","D.Lgs. 36/2023","D.Lgs. 209/2024","A
 source_refs: []
 book_refs: ["il-metodo-bando"]
 confidence: 0.96
-updated_at: "2026-07-21T14:10:00+02:00"
+updated_at: "2026-07-21T15:30:00+02:00"
 created_at: "2026-05-26T00:00:00+02:00"
 review_required: true
 canonical: true
@@ -62,6 +62,30 @@ Il D.Lgs. 36/2023, consultato nel testo vigente, e la fonte centrale del Capitol
 - Non fissare nel manuale numeri mobili di soglie e termini se non sono indispensabili; quando una prova chiede il dato puntuale, prescriverne la verifica alla data del concorso.
 - Datare ogni futura review normativa del capitolo e ripetere il controllo sul testo consolidato prima della pubblicazione.
 - Usare la pagina ufficiale ANAC sulla Piattaforma Contratti Pubblici per BDNCP, FVOE, pubblicita legale e interoperabilita con le piattaforme digitali.
+
+## Matrice claim-articolo del Capitolo 9
+
+| Blocco editoriale | Claim controllato | Fonte primaria o istituzionale | Esito al 21 luglio 2026 |
+|---|---|---|---|
+| Principi | Risultato, fiducia e accesso al mercato sono i tre principi iniziali ad alta resa concorsuale | D.Lgs. 36/2023, artt. 1-3; art. 5 per buona fede e affidamento | Coerente |
+| Soggetti | Stazione appaltante, ente concedente, operatore economico e centrale di committenza hanno funzioni distinte | Allegato I.1 | Coerente |
+| RUP | La formula vigente e "responsabile unico del progetto" | Art. 15 e Allegato I.2 | Coerente |
+| Programmazione | Lavori e acquisti sono collocati nella programmazione prevista dal Codice | Art. 37 e Allegato I.5 | Coerente; nessuna soglia numerica fissata nel capitolo |
+| Avvio affidamento | Il Codice usa la formula "decisione di contrarre" | Art. 17, comma 1 | Corretto nel capitolo; rimossa la formula "decisione a contrarre" |
+| Affidamento diretto | Non e scelta arbitraria; l'atto individua oggetto, importo, contraente, ragioni della scelta e requisiti | Art. 17, comma 2; artt. 48-50 | Coerente dopo precisazione |
+| Procedure | Aperta, ristretta e negoziata rispondono a strutture e presupposti diversi | Artt. 70-76 | Coerente; eliminata una gerarchia troppo assoluta basata sul solo importo |
+| Documenti di gara | Bando o avviso o invito, disciplinare, capitolato e condizioni contrattuali hanno funzioni distinte | Art. 82 | Coerente dopo richiamo espresso |
+| Requisiti e soccorso | Cause di esclusione, requisiti speciali e soccorso istruttorio non sono la stessa cosa; il soccorso non riscrive l'offerta | Artt. 94-101 | Coerente dopo richiamo espresso all'art. 101 |
+| Aggiudicazione e stipula | L'aggiudicazione immediatamente efficace segue la verifica dei requisiti; il contratto si conclude con la stipula | Artt. 17-18 | Precisato nel capitolo |
+| Criteri | Prezzo o costo e miglior rapporto qualita/prezzo operano secondo documenti di gara e casi previsti | Art. 108 | Coerente in forma essenziale |
+| Esecuzione | Direzione, controllo, collaudo, conformita e subappalto appartengono alla fase esecutiva | Artt. 114-120 e Allegato II.14 | Coerente |
+| Concessione | Il trasferimento del rischio operativo deve essere effettivo e non nominale | Artt. 176-177; Allegato I.1 | Precisato nel capitolo |
+| Digitale | BDNCP, FVOE, piattaforme e trasparenza sono componenti distinte dello stesso ecosistema | Artt. 19-28; pagina ANAC PCP | Coerente dopo precisazione |
+| CIG | Dal 1 gennaio 2024 l'acquisizione avviene di regola tramite piattaforme certificate interoperabili con BDNCP | ANAC, Digitalizzazione dei contratti pubblici; legge 136/2010, art. 3 | Precisato nel capitolo |
+| ANAC | Vigilanza e controllo sui contratti pubblici sono attribuiti ad ANAC nei limiti del Codice | Art. 222 | Coerente dopo richiamo espresso |
+| Consip e MEPA | Consip, portale Acquisti in Rete e MEPA non sono sinonimi | Programma MEF-Consip e pagine istituzionali Consip | Coerente |
+
+La matrice verifica i claim effettivamente presenti nel capitolo base. Non equivale a un commentario di tutti gli articoli del Codice e non certifica casi speciali non trattati.
 
 ## Fonti ufficiali consultate
 

@@ -8,8 +8,8 @@ topics: ["contratti pubblici", "appalti", "concessioni", "RUP", "ANAC", "MEPA", 
 entities: ["D.Lgs. 36/2023", "D.Lgs. 209/2024", "RUP", "ANAC", "MEPA", "Consip", "BDNCP", "FVOE", "Stazione appaltante", "Operatore economico", "CIG"]
 source_refs: ["sources/struttura-madre-il-metodo-bando.md", "sources/capitolo-9-corpus-fonti-ufficiali-contratti-pubblici-2026-05-26.md", "sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024.md", "sources/ciclo-contratti-pubblici-rup-stazione-appaltante-operatore-economico.md", "sources/procedure-affidamento-gare-appalti-concessioni-soglie.md", "sources/digitalizzazione-contratti-pubblici-anac-bdncp-fvoe-pcp.md", "sources/mepa-consip-acquisti-in-rete-strumenti-acquisto-negoziazione.md", "sources/trasparenza-anticorruzione-controlli-tracciabilita-contratti-pubblici.md"]
 book_refs: ["il-metodo-bando"]
-confidence: 0.92
-updated_at: "2026-07-21T14:10:00+02:00"
+confidence: 0.95
+updated_at: "2026-07-21T15:30:00+02:00"
 created_at: "2026-05-10T11:45:00+02:00"
 review_required: true
 canonical: true
@@ -28,7 +28,7 @@ I contratti pubblici sono il punto in cui l'amministrazione trasforma un fabbiso
 
 Per questo la materia compare spesso nei concorsi, anche quando il profilo non è specialistico. La commissione non pretende sempre la conoscenza dettagliata di ogni articolo del Codice, ma verifica se il candidato sa riconoscere soggetti, principi, fasi, strumenti, responsabilità e controlli. La domanda tipica non è solo "che cos'è una gara?", ma "come passa la PA dal fabbisogno all'esecuzione corretta del contratto?".
 
-La chiave di studio è quindi il ciclo: programmazione, progettazione, decisione a contrarre, scelta della procedura, pubblicità o invito, offerte, valutazione, aggiudicazione, stipula, esecuzione, verifica, pagamento, trasparenza e controllo. Studiare solo la fase di gara produce risposte incomplete. Un contratto pubblico non finisce quando si individua il vincitore: deve essere eseguito, controllato, pagato e reso tracciabile.
+La chiave di studio è quindi il ciclo: programmazione, progettazione, decisione di contrarre, scelta della procedura, pubblicità o invito, offerte, valutazione, aggiudicazione, stipula, esecuzione, verifica, pagamento, trasparenza e controllo. Studiare solo la fase di gara produce risposte incomplete. Un contratto pubblico non finisce quando si individua il vincitore: deve essere eseguito, controllato, pagato e reso tracciabile.
 
 ## Obiettivi del capitolo
 
@@ -117,7 +117,7 @@ Gli allegati del Codice hanno rilievo pratico e normativo, ma nel libro base van
 
 Il Codice 2023 mette i principi all'inizio. Questo è importante per i concorsi, perché molte domande chiedono di distinguere il nuovo impianto da una visione puramente formalistica.
 
-I tre principi da fissare subito sono:
+I tre principi da fissare subito sono collocati negli articoli 1, 2 e 3 del Codice:
 
 | Principio | Significato essenziale | Errore da evitare |
 |---|---|---|
@@ -149,7 +149,7 @@ Centrali di committenza e soggetti aggregatori servono a professionalizzare gli 
 
 ### 5. Il RUP: responsabile unico del progetto
 
-Nel Codice 2023 il RUP è il **responsabile unico del progetto**. Questa formula va usata con precisione. Non è un semplice "responsabile del procedimento" in senso generico e non va confuso automaticamente con il dirigente che firma l'atto finale.
+Nel Codice 2023 il RUP è il **responsabile unico del progetto**. Questa formula va usata con precisione. L'articolo 15 e l'Allegato I.2 ne disciplinano nomina, requisiti e compiti. Non è un semplice "responsabile del procedimento" in senso generico e non va confuso automaticamente con il dirigente che firma l'atto finale.
 
 Il RUP presidia il ciclo del contratto secondo la disciplina applicabile. Il suo ruolo collega programmazione, affidamento ed esecuzione. In termini concorsuali, il RUP è la figura che consente di vedere il contratto come progetto amministrativo complessivo.
 
@@ -191,7 +191,7 @@ Per studiare i contratti pubblici usa sempre questo schema operativo:
 | Fabbisogno | L'amministrazione individua una necessità pubblica. | Interesse pubblico, bisogno, utilità. |
 | Programmazione | L'acquisto o l'opera viene collocato nella pianificazione. | Programmi, risorse, priorità. |
 | Progettazione | La prestazione viene definita tecnicamente ed economicamente. | Oggetto, capitolato, importo, qualità. |
-| Decisione a contrarre | L'amministrazione formalizza l'intenzione di affidare. | Atto, motivazione, procedura, copertura. |
+| Decisione di contrarre | L'amministrazione formalizza l'intenzione di affidare. | Atto, elementi essenziali, procedura, criteri. |
 | Scelta procedura | Si individua il modello di affidamento. | Aperta, ristretta, negoziata, affidamento diretto. |
 | Pubblicità o invito | Si rende conoscibile la procedura o si invitano operatori. | Bando, avviso, invito, piattaforma. |
 | Offerte | Gli operatori presentano la proposta. | Requisiti, documenti, offerta tecnica/economica. |
@@ -217,9 +217,9 @@ L'affidamento è il procedimento con cui la stazione appaltante sceglie l'operat
 | Procedura ristretta | Prima si selezionano i candidati, poi gli invitati presentano offerta. |
 | Procedura negoziata | L'amministrazione consulta e negozia con operatori selezionati nei presupposti previsti. |
 
-L'affidamento diretto è una delle fonti principali di errori. Non è "libertà assoluta" dell'ufficio. Anche quando la procedura è semplificata, restano principi, motivazione, tracciabilità, rotazione quando rilevante, controlli, corretta individuazione del fabbisogno e copertura finanziaria.
+L'affidamento diretto è una delle fonti principali di errori. Non è "libertà assoluta" dell'ufficio. L'articolo 17, comma 2, richiede che l'atto individui oggetto, importo e contraente, insieme alle ragioni della scelta e ai requisiti richiesti. Restano inoltre principi, tracciabilità, rotazione quando applicabile ai sensi dell'articolo 49, controlli, corretta individuazione del fabbisogno e copertura finanziaria. Le modalità sotto soglia sono disciplinate, in particolare, dall'articolo 50.
 
-La procedura aperta è più competitiva per struttura, perché consente ampia partecipazione. La procedura ristretta distingue una fase di selezione dei candidati e una fase di offerta. La procedura negoziata richiede presupposti e modalità specifiche, e non va descritta come trattativa informale priva di regole.
+Nella procedura aperta ogni operatore interessato può presentare un'offerta. La procedura ristretta distingue una fase di selezione dei candidati e una fase di offerta riservata agli invitati. La procedura negoziata richiede presupposti e modalità specifiche, e non va descritta come trattativa informale priva di regole.
 
 ### 9. Soglie e scelta della procedura
 
@@ -230,7 +230,7 @@ Le soglie distinguono regimi giuridici e livelli di formalità. In modo essenzia
 - discipline particolari per lavori, servizi, forniture e concessioni;
 - obblighi specifici collegati a importi, oggetto e qualificazione della stazione appaltante.
 
-Nel manuale base è preferibile non costruire lo studio su valori numerici, perché le soglie possono essere aggiornate. La regola da concorso è questa: più cresce importo, complessità o impatto sul mercato, più aumentano formalità, concorrenza, pubblicità e controlli.
+Nel manuale base è preferibile non costruire lo studio su valori numerici, perché le soglie possono essere aggiornate. Come regola orientativa, al crescere dell'importo e dell'impatto sul mercato il Codice prevede normalmente procedure e obblighi più strutturati; restano però determinanti oggetto, settore, presupposti ed eventuali regimi speciali. Non è quindi corretto dedurre la procedura dal solo importo.
 
 Se una domanda chiede il valore puntuale di una soglia, occorre verificare la disciplina vigente nel momento del concorso. Se invece chiede la logica, la risposta è: le soglie servono a stabilire quale regime procedurale si applica e quale intensità di regole deve essere rispettata.
 
@@ -238,7 +238,7 @@ Se una domanda chiede il valore puntuale di una soglia, occorre verificare la di
 
 ### 10. Documenti di gara: bando, disciplinare e capitolato
 
-Tre documenti ricorrono spesso nei quiz:
+L'articolo 82 colloca tra i documenti di gara il bando o avviso o lettera d'invito, il disciplinare, il capitolato speciale e le condizioni contrattuali proposte. Tre documenti ricorrono spesso nei quiz:
 
 | Documento | Funzione |
 |---|---|
@@ -261,7 +261,7 @@ Per partecipare a una procedura, l'operatore economico deve possedere requisiti.
 
 L'offerta può contenere una componente tecnica e una economica, secondo il criterio di aggiudicazione. La parte tecnica descrive qualità, soluzioni, organizzazione, tempi o modalità di esecuzione. La parte economica riguarda prezzo, ribasso o condizioni economiche.
 
-Il **soccorso istruttorio** consente, nei limiti previsti, di sanare o integrare elementi documentali o dichiarativi. Non serve a modificare l'offerta sostanziale né a rimediare a qualunque carenza. Nei quiz, se una risposta dice che il soccorso istruttorio permette di riscrivere l'offerta, normalmente è errata.
+Il **soccorso istruttorio**, disciplinato dall'articolo 101, consente nei limiti previsti di sanare o integrare elementi documentali o dichiarativi. Non serve a modificare l'offerta tecnica o economica né a rimediare a qualunque carenza. Nei quiz, se una risposta dice che permette di riscrivere l'offerta, è errata.
 
 La logica è bilanciare due esigenze: evitare esclusioni inutilmente formalistiche e proteggere parità di trattamento, concorrenza e serietà dell'offerta.
 
@@ -276,7 +276,7 @@ I criteri di aggiudicazione più ricorrenti nei concorsi sono:
 
 L'offerta economicamente più vantaggiosa non significa scegliere "quella che piace di più". I criteri devono essere definiti, conoscibili e applicati in modo coerente.
 
-L'**aggiudicazione** individua l'operatore prescelto. La **stipula** perfeziona il contratto secondo le regole applicabili. Aggiudicazione e stipula non sono sinonimi. La prima chiude la fase selettiva; la seconda crea il vincolo contrattuale nei termini previsti.
+L'articolo 17 distingue proposta di aggiudicazione e aggiudicazione: l'organo competente, dopo la verifica dei requisiti e la valutazione di legittimità e conformità all'interesse pubblico, dispone l'aggiudicazione, che è immediatamente efficace. La **stipula**, disciplinata dall'articolo 18, perfeziona il contratto secondo le regole applicabili. Aggiudicazione e stipula non sono sinonimi e l'aggiudicazione non equivale alla conclusione del contratto.
 
 Formula da ricordare: prima si sceglie l'operatore, poi si stipula il contratto, poi si controlla l'esecuzione. Saltare mentalmente dalla gara al pagamento è un errore.
 
@@ -286,7 +286,7 @@ Formula da ricordare: prima si sceglie l'operatore, poi si stipula il contratto,
 
 L'**appalto** ha per oggetto lavori, servizi o forniture, remunerati secondo il contratto dalla stazione appaltante. Esempi: manutenzione di edifici comunali, fornitura di computer, servizio di pulizia degli uffici.
 
-La **concessione** riguarda lavori o servizi nei quali assume rilievo il trasferimento del rischio operativo al concessionario. Il concessionario può essere remunerato attraverso la gestione dell'opera o del servizio, eventualmente insieme a un prezzo, secondo la disciplina applicabile.
+La **concessione** riguarda lavori o servizi nei quali assume rilievo il trasferimento del rischio operativo al concessionario. L'articolo 177 richiede un'esposizione effettiva alle fluttuazioni del mercato, non meramente nominale o trascurabile. Il concessionario può essere remunerato attraverso la gestione dell'opera o del servizio, eventualmente insieme a un prezzo, secondo la disciplina applicabile.
 
 L'**affidamento** è invece il processo con cui l'amministrazione individua l'operatore. Non è una categoria identica ad appalto o concessione: indica la scelta del contraente.
 
@@ -302,7 +302,7 @@ La trappola più frequente è usare "appalto" per qualunque contratto pubblico. 
 
 L'esecuzione è la fase in cui il contratto produce la prestazione attesa. È qui che il risultato diventa reale: un servizio viene svolto, un bene viene consegnato, un lavoro viene realizzato.
 
-Gli elementi da conoscere sono:
+Gli articoli 114-116 regolano direzione, controllo, collaudo e verifica di conformità; l'articolo 119 disciplina il subappalto. Gli elementi da conoscere sono:
 
 - avvio dell'esecuzione secondo contratto;
 - controllo di tempi e qualità;
@@ -319,7 +319,7 @@ Nei concorsi, il punto è non fermarsi all'aggiudicazione. La fase esecutiva pu�
 
 ### 15. Digitalizzazione: BDNCP, PCP, FVOE e piattaforme
 
-La digitalizzazione dei contratti pubblici non è un accessorio informatico. Dal 2024 è parte ordinaria del ciclo di vita dei contratti. Per i concorsi devi conoscere i concetti, non i passaggi operativi minuto per minuto.
+La digitalizzazione dei contratti pubblici non è un accessorio informatico. Gli articoli 19-28 la collocano nel ciclo di vita dei contratti; dal 1° gennaio 2024 il sistema digitale è divenuto operativo secondo le regole e i provvedimenti attuativi. Per i concorsi devi conoscere i concetti, non i passaggi operativi minuto per minuto.
 
 | Strumento | Funzione essenziale |
 |---|---|
@@ -328,7 +328,7 @@ La digitalizzazione dei contratti pubblici non è un accessorio informatico. Dal
 | FVOE | Fascicolo virtuale dell'operatore economico, rilevante per la verifica dei requisiti. |
 | Piattaforme digitali | Strumenti di approvvigionamento che gestiscono procedure, dati, comunicazioni e interoperabilità. |
 
-La BDNCP riguarda dati e informazioni sui contratti. Il FVOE riguarda la verifica dei requisiti dell'operatore economico. Confonderli è un errore tipico. Dal 2024 le piattaforme di approvvigionamento digitale certificate trasmettono i dati alla BDNCP; nella sezione «Amministrazione trasparente» l'amministrazione pubblica il collegamento ai dati del ciclo di vita del contratto e gli eventuali dati o atti residui richiesti dalla disciplina vigente.
+La BDNCP, disciplinata dall'articolo 23, riguarda dati e informazioni sui contratti. Il FVOE, previsto dall'articolo 24, opera presso la BDNCP ed è utilizzato per la verifica dei requisiti dell'operatore economico. Confonderli è un errore tipico. Le piattaforme di approvvigionamento digitale certificate interagiscono con la BDNCP; l'articolo 28 collega la sezione «Amministrazione trasparente» alla banca dati e agli ulteriori obblighi previsti. Dal 1° gennaio 2024 anche l'acquisizione del CIG avviene, di regola, tramite le piattaforme certificate mediante interoperabilità con la BDNCP.
 
 Digitalizzazione significa:
 
@@ -371,9 +371,9 @@ Nei quiz devi distinguere:
 
 ### 17. ANAC, trasparenza, anticorruzione e tracciabilità
 
-ANAC ha un ruolo rilevante nei contratti pubblici: vigilanza, digitalizzazione, BDNCP, trasparenza, tracciabilità, atti tipo e supporto al sistema. Non va descritta solo come autorità anticorruzione in senso generale.
+L'articolo 222 attribuisce ad ANAC, nei limiti stabiliti dal Codice, vigilanza e controllo sui contratti pubblici. A queste funzioni si collegano digitalizzazione, BDNCP, trasparenza, prevenzione dell'illegalità, bandi-tipo e altri atti tipo. ANAC non va descritta solo come autorità anticorruzione in senso generale.
 
-Il **CIG** identifica la procedura o il contratto ai fini di tracciabilità e monitoraggio. Nel Capitolo 8 lo hai visto dal punto di vista contabile; qui lo devi collegare al ciclo contrattuale e alla legalità dell'affidamento.
+Il **CIG** è il codice identificativo associato alla procedura o al lotto e sostiene tracciabilità, monitoraggio e collegamento dei dati contrattuali. Nel Capitolo 8 lo hai visto dal punto di vista contabile; qui lo devi collegare al ciclo contrattuale, alla BDNCP e agli obblighi della legge 136/2010.
 
 La tracciabilità dei flussi finanziari consente di seguire il percorso delle risorse pubbliche collegate ai contratti. Serve a prevenire opacità, infiltrazioni, pagamenti non controllabili e uso distorto del denaro pubblico.
 
@@ -510,6 +510,33 @@ Classifica le seguenti affermazioni.
 | CIG | Codice identificativo collegato a gara/procedura/contratto. |
 | MEPA | Mercato elettronico della pubblica amministrazione. |
 | Consip | Soggetto del programma di razionalizzazione degli acquisti della PA. |
+
+## Riferimenti normativi essenziali
+
+Questa mappa serve a ritrovare la fonte, non a sostituire lo studio del testo vigente.
+
+| Nucleo del capitolo | Riferimento principale |
+|---|---|
+| Principi di risultato, fiducia e accesso al mercato | D.Lgs. 36/2023, artt. 1-3; buona fede e affidamento, art. 5 |
+| Soggetti e tipi contrattuali | Allegato I.1 al D.Lgs. 36/2023 |
+| RUP | Art. 15 e Allegato I.2 |
+| Programmazione | Art. 37 e Allegato I.5 |
+| Decisione di contrarre, aggiudicazione ed esecuzione anticipata | Art. 17 |
+| Stipula del contratto | Art. 18 |
+| Digitalizzazione, BDNCP, FVOE, piattaforme e trasparenza | Artt. 19-28 |
+| Qualificazione delle stazioni appaltanti | Artt. 62-63 e Allegato II.4 |
+| Affidamenti sotto soglia e rotazione | Artt. 48-50 |
+| Procedure ordinarie | Artt. 70-76 |
+| Documenti di gara | Art. 82 |
+| Cause di esclusione, requisiti e verifica | Artt. 94-100 |
+| Soccorso istruttorio | Art. 101 |
+| Criteri di aggiudicazione | Art. 108 |
+| Direzione, controllo, collaudo e verifica di conformità | Artt. 114-116 e Allegato II.14 |
+| Subappalto e modifiche in esecuzione | Artt. 119-120 |
+| Concessioni e rischio operativo | Artt. 176-177 |
+| ANAC | Art. 222 |
+| CIG e tracciabilità finanziaria | Legge 136/2010, art. 3; provvedimenti e servizi ANAC |
+| Consip, MEPA e Acquisti in Rete | Programma MEF-Consip per la razionalizzazione degli acquisti della PA |
 
 ## Checkpoint finale
 

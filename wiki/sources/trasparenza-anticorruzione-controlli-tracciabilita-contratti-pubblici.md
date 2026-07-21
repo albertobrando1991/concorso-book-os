@@ -9,14 +9,14 @@ entities: ["ANAC","CIG","BDNCP","Stazione appaltante","Corte dei conti"]
 source_refs: ["sources/digitalizzazione-contratti-pubblici-anac-bdncp-fvoe-pcp.md","sources/anac-piano-nazionale-anticorruzione-2025-delibera-n-19-del-28-gennaio-2026.md","sources/pagamenti-tracciabilita-contratti-pnrr-rendicontazione.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.92
-updated_at: "2026-05-26T00:00:00+02:00"
+updated_at: "2026-07-21T15:30:00+02:00"
 created_at: "2026-05-26T00:00:00+02:00"
-review_required: false
+review_required: true
 canonical: true
 tags: ["source","trasparenza","anticorruzione","tracciabilita","contratti-pubblici","chapter-9"]
 source_type: consolidated_official_sources
 source_url: "https://www.anticorruzione.it/"
-source_date: "2026-05-26"
+source_date: "2026-07-21"
 authority_level: alta
 ---
 
@@ -57,3 +57,10 @@ Il Capitolo 7 tratta trasparenza e anticorruzione in generale. Qui si deve spieg
 - Pensare che la tracciabilita riguardi solo la contabilita: nei contratti e presidio di legalita.
 - Ridurre ANAC a "autorita anticorruzione" senza collegarla a contratti, BDNCP, vigilanza e digitalizzazione.
 - Dimenticare che trasparenza e pubblicita non autorizzano pubblicazioni disordinate o eccedenti.
+
+## Riferimenti normativi verificati
+
+- trasparenza dei contratti e collegamento con BDNCP: articolo 28 del D.Lgs. 36/2023 e articolo 37 del D.Lgs. 33/2013;
+- funzioni ANAC: articolo 222 del D.Lgs. 36/2023;
+- tracciabilita dei flussi finanziari: articolo 3 della legge 136/2010;
+- acquisizione digitale del CIG e comunicazione dati: indicazioni ufficiali ANAC sulla digitalizzazione dei contratti pubblici.

@@ -9,7 +9,7 @@ entities: ["Codice dei contratti pubblici","D.Lgs. 36/2023","D.Lgs. 209/2024","A
 source_refs: ["sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024.md","sources/ciclo-contratti-pubblici-rup-stazione-appaltante-operatore-economico.md","sources/procedure-affidamento-gare-appalti-concessioni-soglie.md","sources/digitalizzazione-contratti-pubblici-anac-bdncp-fvoe-pcp.md","sources/mepa-consip-acquisti-in-rete-strumenti-acquisto-negoziazione.md","sources/trasparenza-anticorruzione-controlli-tracciabilita-contratti-pubblici.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.94
-updated_at: "2026-07-21T14:10:00+02:00"
+updated_at: "2026-07-21T15:40:00+02:00"
 created_at: "2026-05-26T00:00:00+02:00"
 review_required: true
 canonical: true
@@ -33,6 +33,8 @@ La cartella raw di riferimento e:
 Il capitolo deve restare "essenziale": vanno coperti gli istituti richiesti nei concorsi, senza trasformare il testo in un commentario specialistico del Codice.
 
 La fonte canonica sul Codice e stata ricontrollata il 21 luglio 2026 sul testo Normattiva vigente al 30 giugno 2026. Normattiva segnala un ultimo aggiornamento dell'atto pubblicato il 23 marzo 2026: il correttivo D.Lgs. 209/2024 resta centrale, ma non esaurisce la storia normativa successiva. La review articolo per articolo resta aperta.
+
+Il follow-up P3 ha completato una matrice claim-articolo per tutti i nuclei effettivamente trattati nel Capitolo 9. Sono stati corretti il lessico della decisione di contrarre, la sequenza proposta-aggiudicazione-stipula, la regola orientativa sulle soglie e i raccordi puntuali a RUP, documenti di gara, soccorso istruttorio, rischio operativo, digitale, CIG e ANAC. Resta obbligatoria la review giuridica umana e il ricontrollo immediatamente precedente alla pubblicazione.
 
 ## Copertura per il Capitolo 9
 
