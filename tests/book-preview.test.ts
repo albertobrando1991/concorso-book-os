@@ -32,7 +32,10 @@ describe("book preview assets", () => {
           "> **Errore tipico**",
           "> Studiare in ordine di pagina senza trasformare il bando in priorita operative.",
           "",
-          "![Scala profilo](../assets/chapter-01/04-scala-profondita-profilo.png)"
+          "![Scala profilo](../assets/chapter-01/04-scala-profondita-profilo.png)",
+          "",
+          "## Note di review",
+          "Questa nota è riservata allo staff editoriale e non deve comparire nella preview pubblica."
         ].join("\n"),
         "utf8"
       )
@@ -50,6 +53,7 @@ describe("book preview assets", () => {
       expect(calloutBlock?.calloutType).toBe("warning")
       expect(calloutBlock?.title).toBe("Errore tipico")
       expect(calloutBlock?.text).toContain("priorita operative")
+      expect(JSON.stringify(data.chapters[0].blocks)).not.toContain("riservata allo staff editoriale")
       expect(data.assets.map((asset) => asset.path)).toContain(
         "books/il-metodo-bando/assets/chapter-01/04-scala-profondita-profilo.png"
       )

@@ -107,6 +107,7 @@ const STAFF_ONLY_HEADINGS = [
   "Testo editoriale",
   "Bozza agente",
   "Note editoriali",
+  "Note di review",
   "Norme o riferimenti",
   "Quiz collegati",
   "Spiegazione",

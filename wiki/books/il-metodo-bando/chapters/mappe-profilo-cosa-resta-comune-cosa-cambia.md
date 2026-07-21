@@ -9,7 +9,7 @@ entities: ["Metodo BANDO", "Moduli Profilo", "Bando Decoder", "inPA", "ARAN"]
 source_refs: ["sources/struttura-madre-il-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/capitolo-19-20-corpus-profili-concorsuali-2026-05-30.md", "sources/ccnl-comparti-aree-famiglie-professionali-pa.md", "sources/bandi-rappresentativi-profili-concorsuali-inpa-agenzie-enti-2025-2026.md", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.9
-updated_at: 2026-06-09T10:45:18.7134495+02:00
+updated_at: 2026-07-21T00:00:00+02:00
 created_at: 2026-05-10T11:45:00+02:00
 review_required: true
 canonical: true
@@ -291,7 +291,7 @@ Strategia:
 
 Costruisci casi: controllo, verbale, cittadino, ordinanza, regolamento, sanzione, sicurezza. La prova premia chi unisce regola, comportamento e competenza.
 
-## Mappa 11 - sanità amministrativa
+## Mappa 11 - Sanità amministrativa
 
 | Voce | Indicazione |
 |---|---|

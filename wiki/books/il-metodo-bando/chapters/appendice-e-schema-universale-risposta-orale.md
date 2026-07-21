@@ -9,7 +9,7 @@ entities: ["Metodo BANDO"]
 source_refs: ["sources/schema-universale-risposta-orale-metodo-bando.md", "sources/struttura-madre-il-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md", "sources/apprendimento-efficace-active-recall-ripasso-distribuito.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.86
-updated_at: "2026-06-01T19:13:00+02:00"
+updated_at: "2026-07-21T00:00:00+02:00"
 created_at: "2026-05-10T11:45:00+02:00"
 review_required: true
 canonical: true
@@ -27,6 +27,8 @@ Questa appendice serve a trasformare quello che hai studiato in una risposta ora
 Non è un copione da imparare a memoria. È una struttura flessibile: ti aiuta a iniziare, selezionare, collegare, chiudere e recuperare quando la domanda cambia forma.
 
 Usala dopo aver studiato un argomento e prima di ogni simulazione. Se una risposta non entra nello schema, di solito il problema non è la commissione: è che il nucleo non è ancora chiaro.
+
+I tre formati di questa appendice sono tre durate della stessa prestazione orale: risposta lampo da 30 secondi, risposta standard da 2 minuti e risposta estesa da 5 minuti. Quiz e prova scritta hanno procedure autonome nei capitoli 14 e 15; qui non vengono duplicati.
 
 ## Regole d'uso
 
@@ -52,7 +54,7 @@ Leggere lo schema in silenzio non prepara l'orale. Devi parlare, cronometrarti, 
 |---|---|---|
 | B - Bando | Quali materie e competenze può chiedere la commissione? | Elenco domande probabili |
 | A - Aree | A quale area appartiene la domanda? | Contesto della risposta |
-| N - Nuclei | qual è il nucleo che devo spiegare? | Definizione, funzione, differenza, caso |
+| N - Nuclei | Qual è il nucleo che devo spiegare? | Definizione, funzione, differenza, caso |
 | D - Diario | Dove mi blocco o divago? | Correzione mirata |
 | O - Output | Come rispondo a voce in tempo reale? | Risposta da 30 secondi, 2 minuti o 5 minuti |
 
@@ -69,7 +71,7 @@ Usa questa sequenza per quasi tutte le domande orali:
 | 5. Applica | Aggiungi esempio, caso o collegamento. | "Per esempio, in un ufficio..." |
 | 6. Chiudi | Torni alla domanda. | "Quindi, il punto decisivo è..." |
 
-Non devi sempre dire tutte le mosse con le stesse parole. Devi però' farle sentire. Una risposta senza definizione è vaga. Una risposta senza funzione è mnemonica. Una risposta senza esempio resta astratta. Una risposta senza chiusura sembra interrotta.
+Non devi sempre dire tutte le mosse con le stesse parole. Devi però farle sentire. Una risposta senza definizione è vaga. Una risposta senza funzione è mnemonica. Una risposta senza esempio resta astratta. Una risposta senza chiusura sembra interrotta.
 
 ## Versione lampo: 30 secondi
 

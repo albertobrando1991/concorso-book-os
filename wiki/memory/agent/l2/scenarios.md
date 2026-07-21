@@ -1542,3 +1542,11 @@
 - l0: l0/conv-20260721110810-1sqoqx4.md
 - atoms:
   - mem-20260721110810-1sj6tti | result | Esito vol01-p0-content-integration: Procedere con le competenze editoriali per modificare e implementare il Volume 1 secondo la matrice obbligatoria e il gate di copertura didattica integrale. -> Integrati nei capitoli 11, 17, 23 e 24 dieci mini-reading con spiegazione, dieci casi pratici, un cruscotto cartaceo settimanale e dodici checklist.
+
+## 2026-07-21T11:21:36.956Z - manual-writer
+
+- conversation_id: conv-20260721112136-adr3zc
+- route: vol01-p1-surface-structure
+- l0: l0/conv-20260721112136-adr3zc.md
+- atoms:
+  - mem-20260721112136-t0xprf | result | Esito vol01-p1-surface-structure: Procedere con il secondo blocco della revisione professionale del Volume 1. -> Risolti E08 ed E13: le sezioni Note di review sono escluse dalla preview pubblica con test di regressione e le heading Sanità amministrativa sono uniformate.
