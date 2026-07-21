@@ -90,9 +90,9 @@ Questa nota consolida classificazione e routing, non la disciplina completa di c
 
 - **Capitolo 5 — accertamento, controlli e compliance:** selezione, liquidazione e controllo delle dichiarazioni; poteri e atti. Riceve il caso dopo la fase dichiarativa.
 - **Capitolo 5A — sanzioni:** qualificazione della violazione, elemento soggettivo quando rilevante, ravvedimento e conseguenze sanzionatorie.
-- **Capitolo 5B — riscossione:** recupero e riscossione delle somme risultanti, accertate o indebitamente compensate.
+- **Capitolo 5B — tutela e processo tributario:** tutela giurisdizionale, contenzioso e rimedi contro atti e dinieghi.
 - **Capitolo 6 — adempimenti fiscali:** funzione, presentazione e correzione della dichiarazione; versamento unitario; F24; distinzione verticale/orizzontale; sequenza errore-correzione. È il capitolo responsabile di questa nota.
-- **Capitolo 7 — contenzioso/rimedi:** tutela contro atti e dinieghi secondo la disciplina processuale e amministrativa pertinente.
+- **Capitolo 7 — riscossione nazionale e lavoro in AdER:** recupero e riscossione delle somme risultanti, accertate o indebitamente compensate.
 
 Il capitolo 6 non deve assorbire la disciplina completa dei capitoli 5, 5A, 5B e 7; questi ultimi non devono ripetere la meccanica ordinaria dell'adempimento.
 
