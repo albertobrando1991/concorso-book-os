@@ -209,11 +209,11 @@ Novita' emerse in questa passata:
 
 Motivazione: rispetto al 21 luglio sono chiuse le promesse formative che dominavano il giudizio (E02, E03, E04, E09, E10, E13) ed e' eliminata la fuga di contenuto redazionale in stampa (E08). I blocchi residui non sono strutturali ma di certificazione: la review normativa umana (E01, E15, E07), due decisioni di perimetro legate ai volumi specialistici (E05, E06) e l'ispezione del PDF impaginato. Chiusi questi, il volume puo' passare a `publication-ready`. Non serve riscrittura; serve certificazione tracciata.
 
-### Esito P13 - avanzamento selettivo autorizzato dall'autore
+### Esito P34 - avanzamento selettivo autorizzato dall'autore
 
 Su decisione dell'autore (mantenere il gate giuridico, deferire il perimetro capp. 8/10), quattordici file privi di dottrina giuridica aperta e di fonti mobili non ricontrollate sono stati portati a `publication-ready` con `review_required: false`: Introduzione, capitoli 1, 3, 11, 12, 13, 14, 16, 22, 23, 24 e appendici C, D, E. Per i capitoli 11 e 12 la review residua e' consigliata e non bloccante.
 
-Restano a `editorial-review` con `review_required: true` i diciassette file con gate giuridico/normativo umano o fonti mobili: capitolo 2, capitoli 4-10, 15, 17, 18, 19-21 e appendici A, B, F. Il loro passaggio a `publication-ready` richiede la review giuridica umana articolo per articolo e il ricontrollo delle fonti mobili datate; non e' delegabile all'agente. Dettaglio in `books/il-metodo-bando/planning/03-workflow-editoriale.md`, regola P13.
+Restano a `editorial-review` con `review_required: true` i diciassette file con gate giuridico/normativo umano o fonti mobili: capitolo 2, capitoli 4-10, 15, 17, 18, 19-21 e appendici A, B, F. Il loro passaggio a `publication-ready` richiede la review giuridica umana articolo per articolo e il ricontrollo delle fonti mobili datate; non e' delegabile all'agente. Dettaglio in `books/il-metodo-bando/planning/03-workflow-editoriale.md`, regola P34.
 
 **Stato del volume:** parzialmente pubblicabile. La parte metodologica e gli strumenti sono pronti; il nucleo giuridico-normativo attende la certificazione umana.
 

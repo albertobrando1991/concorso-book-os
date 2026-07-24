@@ -25,9 +25,9 @@ Il volume cartaceo principale (introduzione, Capitoli 1-24 e Appendici A-F) è u
 
 Il Ricettario digitale mantiene il proprio stato fino alla sua revisione dedicata: non è stato usato per simulare la chiusura del cartaceo.
 
-## Regola applicata con P13
+## Regola applicata con P34
 
-Con P13 il gate viene aperto in modo selettivo e onesto: avanzano a `publication-ready` (`review_required: false`) solo i file **privi di dottrina giuridica aperta e privi di fonti mobili non ricontrollate** (bandi, catalogo, norme in evoluzione). Restano a `editorial-review` con `review_required: true` tutti i capitoli che dipendono da un gate giuridico o normativo umano non ancora eseguito.
+Con P34 il gate viene aperto in modo selettivo e onesto: avanzano a `publication-ready` (`review_required: false`) solo i file **privi di dottrina giuridica aperta e privi di fonti mobili non ricontrollate** (bandi, catalogo, norme in evoluzione). Restano a `editorial-review` con `review_required: true` tutti i capitoli che dipendono da un gate giuridico o normativo umano non ancora eseguito.
 
 **Avanzati a `publication-ready` (14 file):** Introduzione; Cap. 1 Il nuovo candidato; Cap. 3 Il Metodo BANDO; Cap. 11 Inglese; Cap. 12 Logica; Cap. 13 Metodo di studio; Cap. 14 La prova a quiz; Cap. 16 La prova orale; Cap. 22 Piano 30/60/90; Cap. 23 Diario degli errori; Cap. 24 Checklist operative; Appendici C, D, E.
 
