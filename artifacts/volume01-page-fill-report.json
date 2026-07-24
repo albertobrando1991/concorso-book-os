@@ -1,0 +1,4063 @@
+{
+  "generatedAt": "2026-07-16T17:42:16.927Z",
+  "pageCount": 375,
+  "overflowPages": 0,
+  "nonFinalPages": 302,
+  "nonFinalOver120": 97,
+  "averageNonFinalFreeSpace": 111,
+  "medianNonFinalFreeSpace": 96,
+  "worstNonFinalPages": [
+    {
+      "page": 282,
+      "title": "22. Piano 30/60/90 giorni",
+      "isFirstPage": false,
+      "freeSpace": 322,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 174,
+      "title": "12. Logica, comprensione del testo e ragionamento",
+      "isFirstPage": false,
+      "freeSpace": 315,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 142,
+      "title": "10. Informatica, PA digitale e competenze digitali",
+      "isFirstPage": false,
+      "freeSpace": 309,
+      "overflow": 0,
+      "lastBlock": "ASIDE",
+      "lastBlockClass": "previewCallout note",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 220,
+      "title": "17. Casi pratici e problem solving amministrativo",
+      "isFirstPage": false,
+      "freeSpace": 306,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 186,
+      "title": "13. Metodo di studio per concorsi",
+      "isFirstPage": false,
+      "freeSpace": 284,
+      "overflow": 0,
+      "lastBlock": "OL",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 97,
+      "title": "8. Contabilità pubblica essenziale",
+      "isFirstPage": false,
+      "freeSpace": 277,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 263,
+      "title": "20. Mappe profilo: cosa resta comune e cosa cambia",
+      "isFirstPage": false,
+      "freeSpace": 274,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 308,
+      "title": "24. Checklist operative",
+      "isFirstPage": false,
+      "freeSpace": 268,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 135,
+      "title": "10. Informatica, PA digitale e competenze digitali",
+      "isFirstPage": false,
+      "freeSpace": 266,
+      "overflow": 0,
+      "lastBlock": "ASIDE",
+      "lastBlockClass": "previewCallout important",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 16,
+      "title": "1. Il nuovo candidato pubblico",
+      "isFirstPage": false,
+      "freeSpace": 260,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 155,
+      "title": "11. Inglese concorsuale essenziale",
+      "isFirstPage": false,
+      "freeSpace": 249,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 365,
+      "title": "F. Appendice F - Matrice materie/profili",
+      "isFirstPage": false,
+      "freeSpace": 241,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 40,
+      "title": "4. Costituzione e ordinamento dello Stato",
+      "isFirstPage": false,
+      "freeSpace": 237,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 265,
+      "title": "20. Mappe profilo: cosa resta comune e cosa cambia",
+      "isFirstPage": false,
+      "freeSpace": 237,
+      "overflow": 0,
+      "lastBlock": "OL",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 71,
+      "title": "6. Pubblico impiego e organizzazione della PA",
+      "isFirstPage": false,
+      "freeSpace": 234,
+      "overflow": 0,
+      "lastBlock": "OL",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 358,
+      "title": "E. Appendice E - Schema universale di risposta orale",
+      "isFirstPage": false,
+      "freeSpace": 232,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 22,
+      "title": "2. Anatomia del bando",
+      "isFirstPage": false,
+      "freeSpace": 231,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 66,
+      "title": "6. Pubblico impiego e organizzazione della PA",
+      "isFirstPage": false,
+      "freeSpace": 230,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 239,
+      "title": "19. Le famiglie dei concorsi pubblici",
+      "isFirstPage": false,
+      "freeSpace": 228,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 277,
+      "title": "21. Come scegliere i moduli integrativi",
+      "isFirstPage": false,
+      "freeSpace": 228,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 131,
+      "title": "10. Informatica, PA digitale e competenze digitali",
+      "isFirstPage": false,
+      "freeSpace": 223,
+      "overflow": 0,
+      "lastBlock": "ASIDE",
+      "lastBlockClass": "previewCallout important",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 234,
+      "title": "18. Quesiti situazionali e soft skills",
+      "isFirstPage": false,
+      "freeSpace": 220,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 264,
+      "title": "20. Mappe profilo: cosa resta comune e cosa cambia",
+      "isFirstPage": false,
+      "freeSpace": 202,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 211,
+      "title": "16. La prova orale",
+      "isFirstPage": false,
+      "freeSpace": 199,
+      "overflow": 0,
+      "lastBlock": "OL",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 113,
+      "title": "9. Contratti pubblici essenziali",
+      "isFirstPage": false,
+      "freeSpace": 192,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 184,
+      "title": "13. Metodo di studio per concorsi",
+      "isFirstPage": false,
+      "freeSpace": 192,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 258,
+      "title": "20. Mappe profilo: cosa resta comune e cosa cambia",
+      "isFirstPage": false,
+      "freeSpace": 190,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 259,
+      "title": "20. Mappe profilo: cosa resta comune e cosa cambia",
+      "isFirstPage": false,
+      "freeSpace": 190,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 67,
+      "title": "6. Pubblico impiego e organizzazione della PA",
+      "isFirstPage": false,
+      "freeSpace": 182,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 250,
+      "title": "19. Le famiglie dei concorsi pubblici",
+      "isFirstPage": false,
+      "freeSpace": 182,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    }
+  ],
+  "pages": [
+    {
+      "page": 1,
+      "title": "Front matter",
+      "isFirstPage": false,
+      "freeSpace": 257,
+      "overflow": 0,
+      "lastBlock": "OL",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 2,
+      "title": "Front matter",
+      "isFirstPage": false,
+      "freeSpace": 432,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 3,
+      "title": "Front matter",
+      "isFirstPage": false,
+      "freeSpace": 551,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 4,
+      "title": "Front matter",
+      "isFirstPage": false,
+      "freeSpace": 539,
+      "overflow": 0,
+      "lastBlock": "ASIDE",
+      "lastBlockClass": "previewCallout tip",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 5,
+      "title": "Front matter",
+      "isFirstPage": false,
+      "freeSpace": 500,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 6,
+      "title": "Front matter",
+      "isFirstPage": false,
+      "freeSpace": 16,
+      "overflow": 0,
+      "lastBlock": "A",
+      "lastBlockClass": "indexLine indexChapterLine",
+      "isLastChapterPage": true
+    },
+    {
+      "page": 7,
+      "title": "Indice",
+      "isFirstPage": false,
+      "freeSpace": 15,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "indexLine indexSubLine",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 8,
+      "title": "Indice",
+      "isFirstPage": false,
+      "freeSpace": 14,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "indexLine indexSubLine",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 9,
+      "title": "Indice",
+      "isFirstPage": false,
+      "freeSpace": 11,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "indexLine indexSubLine",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 10,
+      "title": "Indice",
+      "isFirstPage": false,
+      "freeSpace": 17,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "indexLine indexSubLine",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 11,
+      "title": "Indice",
+      "isFirstPage": false,
+      "freeSpace": 14,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "indexLine indexSubLine",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 12,
+      "title": "Indice",
+      "isFirstPage": false,
+      "freeSpace": 827,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "indexLine indexSubLine",
+      "isLastChapterPage": true
+    },
+    {
+      "page": 13,
+      "title": "Il nuovo candidato pubblico",
+      "isFirstPage": true,
+      "freeSpace": 114,
+      "overflow": 0,
+      "lastBlock": "OL",
+      "lastBlockClass": "",
+      "isLastChapterPage": true
+    },
+    {
+      "page": 14,
+      "title": "1. Il nuovo candidato pubblico",
+      "isFirstPage": false,
+      "freeSpace": 58,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 15,
+      "title": "1. Il nuovo candidato pubblico",
+      "isFirstPage": false,
+      "freeSpace": 89,
+      "overflow": 0,
+      "lastBlock": "FIGURE",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 16,
+      "title": "1. Il nuovo candidato pubblico",
+      "isFirstPage": false,
+      "freeSpace": 260,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 17,
+      "title": "1. Il nuovo candidato pubblico",
+      "isFirstPage": false,
+      "freeSpace": 85,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 18,
+      "title": "1. Il nuovo candidato pubblico",
+      "isFirstPage": false,
+      "freeSpace": 748,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": true
+    },
+    {
+      "page": 19,
+      "title": "Anatomia del bando",
+      "isFirstPage": true,
+      "freeSpace": 191,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": true
+    },
+    {
+      "page": 20,
+      "title": "2. Anatomia del bando",
+      "isFirstPage": false,
+      "freeSpace": 141,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 21,
+      "title": "2. Anatomia del bando",
+      "isFirstPage": false,
+      "freeSpace": 125,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 22,
+      "title": "2. Anatomia del bando",
+      "isFirstPage": false,
+      "freeSpace": 231,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 23,
+      "title": "2. Anatomia del bando",
+      "isFirstPage": false,
+      "freeSpace": 102,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 24,
+      "title": "2. Anatomia del bando",
+      "isFirstPage": false,
+      "freeSpace": 102,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 25,
+      "title": "2. Anatomia del bando",
+      "isFirstPage": false,
+      "freeSpace": 377,
+      "overflow": 0,
+      "lastBlock": "OL",
+      "lastBlockClass": "",
+      "isLastChapterPage": true
+    },
+    {
+      "page": 26,
+      "title": "Il Metodo BANDO",
+      "isFirstPage": true,
+      "freeSpace": 90,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": true
+    },
+    {
+      "page": 27,
+      "title": "3. Il Metodo BANDO",
+      "isFirstPage": false,
+      "freeSpace": 65,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 28,
+      "title": "3. Il Metodo BANDO",
+      "isFirstPage": false,
+      "freeSpace": 99,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 29,
+      "title": "3. Il Metodo BANDO",
+      "isFirstPage": false,
+      "freeSpace": 119,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 30,
+      "title": "3. Il Metodo BANDO",
+      "isFirstPage": false,
+      "freeSpace": 90,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 31,
+      "title": "3. Il Metodo BANDO",
+      "isFirstPage": false,
+      "freeSpace": 143,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 32,
+      "title": "3. Il Metodo BANDO",
+      "isFirstPage": false,
+      "freeSpace": 884,
+      "overflow": 0,
+      "lastBlock": "OL",
+      "lastBlockClass": "",
+      "isLastChapterPage": true
+    },
+    {
+      "page": 33,
+      "title": "Costituzione e ordinamento dello Stato",
+      "isFirstPage": true,
+      "freeSpace": 184,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": true
+    },
+    {
+      "page": 34,
+      "title": "4. Costituzione e ordinamento dello Stato",
+      "isFirstPage": false,
+      "freeSpace": 98,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 35,
+      "title": "4. Costituzione e ordinamento dello Stato",
+      "isFirstPage": false,
+      "freeSpace": 53,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 36,
+      "title": "4. Costituzione e ordinamento dello Stato",
+      "isFirstPage": false,
+      "freeSpace": 124,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 37,
+      "title": "4. Costituzione e ordinamento dello Stato",
+      "isFirstPage": false,
+      "freeSpace": 118,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 38,
+      "title": "4. Costituzione e ordinamento dello Stato",
+      "isFirstPage": false,
+      "freeSpace": 58,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 39,
+      "title": "4. Costituzione e ordinamento dello Stato",
+      "isFirstPage": false,
+      "freeSpace": 127,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 40,
+      "title": "4. Costituzione e ordinamento dello Stato",
+      "isFirstPage": false,
+      "freeSpace": 237,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 41,
+      "title": "4. Costituzione e ordinamento dello Stato",
+      "isFirstPage": false,
+      "freeSpace": 103,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 42,
+      "title": "4. Costituzione e ordinamento dello Stato",
+      "isFirstPage": false,
+      "freeSpace": 113,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 43,
+      "title": "4. Costituzione e ordinamento dello Stato",
+      "isFirstPage": false,
+      "freeSpace": 70,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 44,
+      "title": "4. Costituzione e ordinamento dello Stato",
+      "isFirstPage": false,
+      "freeSpace": 85,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 45,
+      "title": "4. Costituzione e ordinamento dello Stato",
+      "isFirstPage": false,
+      "freeSpace": 132,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 46,
+      "title": "4. Costituzione e ordinamento dello Stato",
+      "isFirstPage": false,
+      "freeSpace": 325,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": true
+    },
+    {
+      "page": 47,
+      "title": "Diritto amministrativo operativo",
+      "isFirstPage": true,
+      "freeSpace": 153,
+      "overflow": 0,
+      "lastBlock": "FIGURE",
+      "lastBlockClass": "",
+      "isLastChapterPage": true
+    },
+    {
+      "page": 48,
+      "title": "5. Diritto amministrativo operativo",
+      "isFirstPage": false,
+      "freeSpace": 77,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 49,
+      "title": "5. Diritto amministrativo operativo",
+      "isFirstPage": false,
+      "freeSpace": 96,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 50,
+      "title": "5. Diritto amministrativo operativo",
+      "isFirstPage": false,
+      "freeSpace": 97,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 51,
+      "title": "5. Diritto amministrativo operativo",
+      "isFirstPage": false,
+      "freeSpace": 105,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 52,
+      "title": "5. Diritto amministrativo operativo",
+      "isFirstPage": false,
+      "freeSpace": 74,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 53,
+      "title": "5. Diritto amministrativo operativo",
+      "isFirstPage": false,
+      "freeSpace": 131,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 54,
+      "title": "5. Diritto amministrativo operativo",
+      "isFirstPage": false,
+      "freeSpace": 133,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 55,
+      "title": "5. Diritto amministrativo operativo",
+      "isFirstPage": false,
+      "freeSpace": 89,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 56,
+      "title": "5. Diritto amministrativo operativo",
+      "isFirstPage": false,
+      "freeSpace": 80,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 57,
+      "title": "5. Diritto amministrativo operativo",
+      "isFirstPage": false,
+      "freeSpace": 34,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 58,
+      "title": "5. Diritto amministrativo operativo",
+      "isFirstPage": false,
+      "freeSpace": 86,
+      "overflow": 0,
+      "lastBlock": "FIGURE",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 59,
+      "title": "5. Diritto amministrativo operativo",
+      "isFirstPage": false,
+      "freeSpace": 84,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 60,
+      "title": "5. Diritto amministrativo operativo",
+      "isFirstPage": false,
+      "freeSpace": 99,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 61,
+      "title": "5. Diritto amministrativo operativo",
+      "isFirstPage": false,
+      "freeSpace": 54,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 62,
+      "title": "5. Diritto amministrativo operativo",
+      "isFirstPage": false,
+      "freeSpace": 104,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 63,
+      "title": "5. Diritto amministrativo operativo",
+      "isFirstPage": false,
+      "freeSpace": 613,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": true
+    },
+    {
+      "page": 64,
+      "title": "Pubblico impiego e organizzazione della PA",
+      "isFirstPage": true,
+      "freeSpace": 253,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": true
+    },
+    {
+      "page": 65,
+      "title": "6. Pubblico impiego e organizzazione della PA",
+      "isFirstPage": false,
+      "freeSpace": 101,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 66,
+      "title": "6. Pubblico impiego e organizzazione della PA",
+      "isFirstPage": false,
+      "freeSpace": 230,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 67,
+      "title": "6. Pubblico impiego e organizzazione della PA",
+      "isFirstPage": false,
+      "freeSpace": 182,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 68,
+      "title": "6. Pubblico impiego e organizzazione della PA",
+      "isFirstPage": false,
+      "freeSpace": 116,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 69,
+      "title": "6. Pubblico impiego e organizzazione della PA",
+      "isFirstPage": false,
+      "freeSpace": 111,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 70,
+      "title": "6. Pubblico impiego e organizzazione della PA",
+      "isFirstPage": false,
+      "freeSpace": 85,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 71,
+      "title": "6. Pubblico impiego e organizzazione della PA",
+      "isFirstPage": false,
+      "freeSpace": 234,
+      "overflow": 0,
+      "lastBlock": "OL",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 72,
+      "title": "6. Pubblico impiego e organizzazione della PA",
+      "isFirstPage": false,
+      "freeSpace": 67,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 73,
+      "title": "6. Pubblico impiego e organizzazione della PA",
+      "isFirstPage": false,
+      "freeSpace": 95,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 74,
+      "title": "6. Pubblico impiego e organizzazione della PA",
+      "isFirstPage": false,
+      "freeSpace": 117,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 75,
+      "title": "6. Pubblico impiego e organizzazione della PA",
+      "isFirstPage": false,
+      "freeSpace": 63,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 76,
+      "title": "6. Pubblico impiego e organizzazione della PA",
+      "isFirstPage": false,
+      "freeSpace": 68,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 77,
+      "title": "6. Pubblico impiego e organizzazione della PA",
+      "isFirstPage": false,
+      "freeSpace": 81,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 78,
+      "title": "6. Pubblico impiego e organizzazione della PA",
+      "isFirstPage": false,
+      "freeSpace": 924,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": true
+    },
+    {
+      "page": 79,
+      "title": "Trasparenza, anticorruzione e privacy",
+      "isFirstPage": true,
+      "freeSpace": 155,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": true
+    },
+    {
+      "page": 80,
+      "title": "7. Trasparenza, anticorruzione e privacy",
+      "isFirstPage": false,
+      "freeSpace": 87,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 81,
+      "title": "7. Trasparenza, anticorruzione e privacy",
+      "isFirstPage": false,
+      "freeSpace": 86,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 82,
+      "title": "7. Trasparenza, anticorruzione e privacy",
+      "isFirstPage": false,
+      "freeSpace": 144,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 83,
+      "title": "7. Trasparenza, anticorruzione e privacy",
+      "isFirstPage": false,
+      "freeSpace": 146,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 84,
+      "title": "7. Trasparenza, anticorruzione e privacy",
+      "isFirstPage": false,
+      "freeSpace": 47,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 85,
+      "title": "7. Trasparenza, anticorruzione e privacy",
+      "isFirstPage": false,
+      "freeSpace": 55,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 86,
+      "title": "7. Trasparenza, anticorruzione e privacy",
+      "isFirstPage": false,
+      "freeSpace": 75,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 87,
+      "title": "7. Trasparenza, anticorruzione e privacy",
+      "isFirstPage": false,
+      "freeSpace": 128,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 88,
+      "title": "7. Trasparenza, anticorruzione e privacy",
+      "isFirstPage": false,
+      "freeSpace": 103,
+      "overflow": 0,
+      "lastBlock": "FIGURE",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 89,
+      "title": "7. Trasparenza, anticorruzione e privacy",
+      "isFirstPage": false,
+      "freeSpace": 164,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 90,
+      "title": "7. Trasparenza, anticorruzione e privacy",
+      "isFirstPage": false,
+      "freeSpace": 62,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 91,
+      "title": "7. Trasparenza, anticorruzione e privacy",
+      "isFirstPage": false,
+      "freeSpace": 290,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": true
+    },
+    {
+      "page": 92,
+      "title": "Contabilità pubblica essenziale",
+      "isFirstPage": true,
+      "freeSpace": 310,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": true
+    },
+    {
+      "page": 93,
+      "title": "8. Contabilità pubblica essenziale",
+      "isFirstPage": false,
+      "freeSpace": 84,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 94,
+      "title": "8. Contabilità pubblica essenziale",
+      "isFirstPage": false,
+      "freeSpace": 59,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 95,
+      "title": "8. Contabilità pubblica essenziale",
+      "isFirstPage": false,
+      "freeSpace": 52,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 96,
+      "title": "8. Contabilità pubblica essenziale",
+      "isFirstPage": false,
+      "freeSpace": 84,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 97,
+      "title": "8. Contabilità pubblica essenziale",
+      "isFirstPage": false,
+      "freeSpace": 277,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 98,
+      "title": "8. Contabilità pubblica essenziale",
+      "isFirstPage": false,
+      "freeSpace": 56,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 99,
+      "title": "8. Contabilità pubblica essenziale",
+      "isFirstPage": false,
+      "freeSpace": 69,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 100,
+      "title": "8. Contabilità pubblica essenziale",
+      "isFirstPage": false,
+      "freeSpace": 122,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 101,
+      "title": "8. Contabilità pubblica essenziale",
+      "isFirstPage": false,
+      "freeSpace": 84,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 102,
+      "title": "8. Contabilità pubblica essenziale",
+      "isFirstPage": false,
+      "freeSpace": 91,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 103,
+      "title": "8. Contabilità pubblica essenziale",
+      "isFirstPage": false,
+      "freeSpace": 93,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 104,
+      "title": "8. Contabilità pubblica essenziale",
+      "isFirstPage": false,
+      "freeSpace": 725,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": true
+    },
+    {
+      "page": 105,
+      "title": "Contratti pubblici essenziali",
+      "isFirstPage": true,
+      "freeSpace": 281,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": true
+    },
+    {
+      "page": 106,
+      "title": "9. Contratti pubblici essenziali",
+      "isFirstPage": false,
+      "freeSpace": 75,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 107,
+      "title": "9. Contratti pubblici essenziali",
+      "isFirstPage": false,
+      "freeSpace": 82,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 108,
+      "title": "9. Contratti pubblici essenziali",
+      "isFirstPage": false,
+      "freeSpace": 102,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 109,
+      "title": "9. Contratti pubblici essenziali",
+      "isFirstPage": false,
+      "freeSpace": 75,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 110,
+      "title": "9. Contratti pubblici essenziali",
+      "isFirstPage": false,
+      "freeSpace": 102,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 111,
+      "title": "9. Contratti pubblici essenziali",
+      "isFirstPage": false,
+      "freeSpace": 82,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 112,
+      "title": "9. Contratti pubblici essenziali",
+      "isFirstPage": false,
+      "freeSpace": 86,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 113,
+      "title": "9. Contratti pubblici essenziali",
+      "isFirstPage": false,
+      "freeSpace": 192,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 114,
+      "title": "9. Contratti pubblici essenziali",
+      "isFirstPage": false,
+      "freeSpace": 54,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 115,
+      "title": "9. Contratti pubblici essenziali",
+      "isFirstPage": false,
+      "freeSpace": 53,
+      "overflow": 0,
+      "lastBlock": "OL",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 116,
+      "title": "9. Contratti pubblici essenziali",
+      "isFirstPage": false,
+      "freeSpace": 61,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 117,
+      "title": "9. Contratti pubblici essenziali",
+      "isFirstPage": false,
+      "freeSpace": 85,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 118,
+      "title": "9. Contratti pubblici essenziali",
+      "isFirstPage": false,
+      "freeSpace": 115,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": true
+    },
+    {
+      "page": 119,
+      "title": "Informatica, PA digitale e competenze digitali",
+      "isFirstPage": true,
+      "freeSpace": 245,
+      "overflow": 0,
+      "lastBlock": "ASIDE",
+      "lastBlockClass": "previewCallout note",
+      "isLastChapterPage": true
+    },
+    {
+      "page": 120,
+      "title": "10. Informatica, PA digitale e competenze digitali",
+      "isFirstPage": false,
+      "freeSpace": 113,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 121,
+      "title": "10. Informatica, PA digitale e competenze digitali",
+      "isFirstPage": false,
+      "freeSpace": 69,
+      "overflow": 0,
+      "lastBlock": "ASIDE",
+      "lastBlockClass": "previewCallout note",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 122,
+      "title": "10. Informatica, PA digitale e competenze digitali",
+      "isFirstPage": false,
+      "freeSpace": 82,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 123,
+      "title": "10. Informatica, PA digitale e competenze digitali",
+      "isFirstPage": false,
+      "freeSpace": 97,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 124,
+      "title": "10. Informatica, PA digitale e competenze digitali",
+      "isFirstPage": false,
+      "freeSpace": 104,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 125,
+      "title": "10. Informatica, PA digitale e competenze digitali",
+      "isFirstPage": false,
+      "freeSpace": 112,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 126,
+      "title": "10. Informatica, PA digitale e competenze digitali",
+      "isFirstPage": false,
+      "freeSpace": 82,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 127,
+      "title": "10. Informatica, PA digitale e competenze digitali",
+      "isFirstPage": false,
+      "freeSpace": 76,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 128,
+      "title": "10. Informatica, PA digitale e competenze digitali",
+      "isFirstPage": false,
+      "freeSpace": 81,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 129,
+      "title": "10. Informatica, PA digitale e competenze digitali",
+      "isFirstPage": false,
+      "freeSpace": 155,
+      "overflow": 0,
+      "lastBlock": "ASIDE",
+      "lastBlockClass": "previewCallout note",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 130,
+      "title": "10. Informatica, PA digitale e competenze digitali",
+      "isFirstPage": false,
+      "freeSpace": 51,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 131,
+      "title": "10. Informatica, PA digitale e competenze digitali",
+      "isFirstPage": false,
+      "freeSpace": 223,
+      "overflow": 0,
+      "lastBlock": "ASIDE",
+      "lastBlockClass": "previewCallout important",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 132,
+      "title": "10. Informatica, PA digitale e competenze digitali",
+      "isFirstPage": false,
+      "freeSpace": 62,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 133,
+      "title": "10. Informatica, PA digitale e competenze digitali",
+      "isFirstPage": false,
+      "freeSpace": 56,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 134,
+      "title": "10. Informatica, PA digitale e competenze digitali",
+      "isFirstPage": false,
+      "freeSpace": 76,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 135,
+      "title": "10. Informatica, PA digitale e competenze digitali",
+      "isFirstPage": false,
+      "freeSpace": 266,
+      "overflow": 0,
+      "lastBlock": "ASIDE",
+      "lastBlockClass": "previewCallout important",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 136,
+      "title": "10. Informatica, PA digitale e competenze digitali",
+      "isFirstPage": false,
+      "freeSpace": 56,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 137,
+      "title": "10. Informatica, PA digitale e competenze digitali",
+      "isFirstPage": false,
+      "freeSpace": 82,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 138,
+      "title": "10. Informatica, PA digitale e competenze digitali",
+      "isFirstPage": false,
+      "freeSpace": 123,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 139,
+      "title": "10. Informatica, PA digitale e competenze digitali",
+      "isFirstPage": false,
+      "freeSpace": 134,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 140,
+      "title": "10. Informatica, PA digitale e competenze digitali",
+      "isFirstPage": false,
+      "freeSpace": 90,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 141,
+      "title": "10. Informatica, PA digitale e competenze digitali",
+      "isFirstPage": false,
+      "freeSpace": 104,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 142,
+      "title": "10. Informatica, PA digitale e competenze digitali",
+      "isFirstPage": false,
+      "freeSpace": 309,
+      "overflow": 0,
+      "lastBlock": "ASIDE",
+      "lastBlockClass": "previewCallout note",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 143,
+      "title": "10. Informatica, PA digitale e competenze digitali",
+      "isFirstPage": false,
+      "freeSpace": 127,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 144,
+      "title": "10. Informatica, PA digitale e competenze digitali",
+      "isFirstPage": false,
+      "freeSpace": 94,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 145,
+      "title": "10. Informatica, PA digitale e competenze digitali",
+      "isFirstPage": false,
+      "freeSpace": 85,
+      "overflow": 0,
+      "lastBlock": "PRE",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 146,
+      "title": "10. Informatica, PA digitale e competenze digitali",
+      "isFirstPage": false,
+      "freeSpace": 523,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": true
+    },
+    {
+      "page": 147,
+      "title": "Inglese concorsuale essenziale",
+      "isFirstPage": true,
+      "freeSpace": 71,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": true
+    },
+    {
+      "page": 148,
+      "title": "11. Inglese concorsuale essenziale",
+      "isFirstPage": false,
+      "freeSpace": 108,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 149,
+      "title": "11. Inglese concorsuale essenziale",
+      "isFirstPage": false,
+      "freeSpace": 148,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 150,
+      "title": "11. Inglese concorsuale essenziale",
+      "isFirstPage": false,
+      "freeSpace": 72,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 151,
+      "title": "11. Inglese concorsuale essenziale",
+      "isFirstPage": false,
+      "freeSpace": 77,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 152,
+      "title": "11. Inglese concorsuale essenziale",
+      "isFirstPage": false,
+      "freeSpace": 101,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 153,
+      "title": "11. Inglese concorsuale essenziale",
+      "isFirstPage": false,
+      "freeSpace": 110,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 154,
+      "title": "11. Inglese concorsuale essenziale",
+      "isFirstPage": false,
+      "freeSpace": 58,
+      "overflow": 0,
+      "lastBlock": "ASIDE",
+      "lastBlockClass": "previewCallout warning",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 155,
+      "title": "11. Inglese concorsuale essenziale",
+      "isFirstPage": false,
+      "freeSpace": 249,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 156,
+      "title": "11. Inglese concorsuale essenziale",
+      "isFirstPage": false,
+      "freeSpace": 61,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 157,
+      "title": "11. Inglese concorsuale essenziale",
+      "isFirstPage": false,
+      "freeSpace": 82,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 158,
+      "title": "11. Inglese concorsuale essenziale",
+      "isFirstPage": false,
+      "freeSpace": 78,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 159,
+      "title": "11. Inglese concorsuale essenziale",
+      "isFirstPage": false,
+      "freeSpace": 55,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 160,
+      "title": "11. Inglese concorsuale essenziale",
+      "isFirstPage": false,
+      "freeSpace": 106,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 161,
+      "title": "11. Inglese concorsuale essenziale",
+      "isFirstPage": false,
+      "freeSpace": 96,
+      "overflow": 0,
+      "lastBlock": "OL",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 162,
+      "title": "11. Inglese concorsuale essenziale",
+      "isFirstPage": false,
+      "freeSpace": 127,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 163,
+      "title": "11. Inglese concorsuale essenziale",
+      "isFirstPage": false,
+      "freeSpace": 59,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 164,
+      "title": "11. Inglese concorsuale essenziale",
+      "isFirstPage": false,
+      "freeSpace": 178,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 165,
+      "title": "11. Inglese concorsuale essenziale",
+      "isFirstPage": false,
+      "freeSpace": 100,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 166,
+      "title": "11. Inglese concorsuale essenziale",
+      "isFirstPage": false,
+      "freeSpace": 685,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": true
+    },
+    {
+      "page": 167,
+      "title": "Logica, comprensione del testo e ragionamento",
+      "isFirstPage": true,
+      "freeSpace": 100,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": true
+    },
+    {
+      "page": 168,
+      "title": "12. Logica, comprensione del testo e ragionamento",
+      "isFirstPage": false,
+      "freeSpace": 110,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 169,
+      "title": "12. Logica, comprensione del testo e ragionamento",
+      "isFirstPage": false,
+      "freeSpace": 89,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 170,
+      "title": "12. Logica, comprensione del testo e ragionamento",
+      "isFirstPage": false,
+      "freeSpace": 88,
+      "overflow": 0,
+      "lastBlock": "FIGURE",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 171,
+      "title": "12. Logica, comprensione del testo e ragionamento",
+      "isFirstPage": false,
+      "freeSpace": 132,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 172,
+      "title": "12. Logica, comprensione del testo e ragionamento",
+      "isFirstPage": false,
+      "freeSpace": 74,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 173,
+      "title": "12. Logica, comprensione del testo e ragionamento",
+      "isFirstPage": false,
+      "freeSpace": 58,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 174,
+      "title": "12. Logica, comprensione del testo e ragionamento",
+      "isFirstPage": false,
+      "freeSpace": 315,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 175,
+      "title": "12. Logica, comprensione del testo e ragionamento",
+      "isFirstPage": false,
+      "freeSpace": 96,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 176,
+      "title": "12. Logica, comprensione del testo e ragionamento",
+      "isFirstPage": false,
+      "freeSpace": 117,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 177,
+      "title": "12. Logica, comprensione del testo e ragionamento",
+      "isFirstPage": false,
+      "freeSpace": 74,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 178,
+      "title": "12. Logica, comprensione del testo e ragionamento",
+      "isFirstPage": false,
+      "freeSpace": 172,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 179,
+      "title": "12. Logica, comprensione del testo e ragionamento",
+      "isFirstPage": false,
+      "freeSpace": 86,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 180,
+      "title": "12. Logica, comprensione del testo e ragionamento",
+      "isFirstPage": false,
+      "freeSpace": 86,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 181,
+      "title": "12. Logica, comprensione del testo e ragionamento",
+      "isFirstPage": false,
+      "freeSpace": 694,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": true
+    },
+    {
+      "page": 182,
+      "title": "Metodo di studio per concorsi",
+      "isFirstPage": true,
+      "freeSpace": 81,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap",
+      "isLastChapterPage": true
+    },
+    {
+      "page": 183,
+      "title": "13. Metodo di studio per concorsi",
+      "isFirstPage": false,
+      "freeSpace": 170,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 184,
+      "title": "13. Metodo di studio per concorsi",
+      "isFirstPage": false,
+      "freeSpace": 192,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 185,
+      "title": "13. Metodo di studio per concorsi",
+      "isFirstPage": false,
+      "freeSpace": 62,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 186,
+      "title": "13. Metodo di studio per concorsi",
+      "isFirstPage": false,
+      "freeSpace": 284,
+      "overflow": 0,
+      "lastBlock": "OL",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 187,
+      "title": "13. Metodo di studio per concorsi",
+      "isFirstPage": false,
+      "freeSpace": 58,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 188,
+      "title": "13. Metodo di studio per concorsi",
+      "isFirstPage": false,
+      "freeSpace": 71,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 189,
+      "title": "13. Metodo di studio per concorsi",
+      "isFirstPage": false,
+      "freeSpace": 65,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 190,
+      "title": "13. Metodo di studio per concorsi",
+      "isFirstPage": false,
+      "freeSpace": 62,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 191,
+      "title": "13. Metodo di studio per concorsi",
+      "isFirstPage": false,
+      "freeSpace": 220,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": true
+    },
+    {
+      "page": 192,
+      "title": "La prova a quiz",
+      "isFirstPage": true,
+      "freeSpace": 259,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": true
+    },
+    {
+      "page": 193,
+      "title": "14. La prova a quiz",
+      "isFirstPage": false,
+      "freeSpace": 83,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 194,
+      "title": "14. La prova a quiz",
+      "isFirstPage": false,
+      "freeSpace": 109,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 195,
+      "title": "14. La prova a quiz",
+      "isFirstPage": false,
+      "freeSpace": 61,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 196,
+      "title": "14. La prova a quiz",
+      "isFirstPage": false,
+      "freeSpace": 80,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 197,
+      "title": "14. La prova a quiz",
+      "isFirstPage": false,
+      "freeSpace": 175,
+      "overflow": 0,
+      "lastBlock": "OL",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 198,
+      "title": "14. La prova a quiz",
+      "isFirstPage": false,
+      "freeSpace": 135,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 199,
+      "title": "14. La prova a quiz",
+      "isFirstPage": false,
+      "freeSpace": 413,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": true
+    },
+    {
+      "page": 200,
+      "title": "La prova scritta e teorico-pratica",
+      "isFirstPage": true,
+      "freeSpace": 302,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": true
+    },
+    {
+      "page": 201,
+      "title": "15. La prova scritta e teorico-pratica",
+      "isFirstPage": false,
+      "freeSpace": 98,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 202,
+      "title": "15. La prova scritta e teorico-pratica",
+      "isFirstPage": false,
+      "freeSpace": 125,
+      "overflow": 0,
+      "lastBlock": "OL",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 203,
+      "title": "15. La prova scritta e teorico-pratica",
+      "isFirstPage": false,
+      "freeSpace": 155,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 204,
+      "title": "15. La prova scritta e teorico-pratica",
+      "isFirstPage": false,
+      "freeSpace": 129,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 205,
+      "title": "15. La prova scritta e teorico-pratica",
+      "isFirstPage": false,
+      "freeSpace": 168,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 206,
+      "title": "15. La prova scritta e teorico-pratica",
+      "isFirstPage": false,
+      "freeSpace": 147,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 207,
+      "title": "15. La prova scritta e teorico-pratica",
+      "isFirstPage": false,
+      "freeSpace": 147,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 208,
+      "title": "15. La prova scritta e teorico-pratica",
+      "isFirstPage": false,
+      "freeSpace": 77,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 209,
+      "title": "15. La prova scritta e teorico-pratica",
+      "isFirstPage": false,
+      "freeSpace": 372,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": true
+    },
+    {
+      "page": 210,
+      "title": "La prova orale",
+      "isFirstPage": true,
+      "freeSpace": 102,
+      "overflow": 0,
+      "lastBlock": "FIGURE",
+      "lastBlockClass": "",
+      "isLastChapterPage": true
+    },
+    {
+      "page": 211,
+      "title": "16. La prova orale",
+      "isFirstPage": false,
+      "freeSpace": 199,
+      "overflow": 0,
+      "lastBlock": "OL",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 212,
+      "title": "16. La prova orale",
+      "isFirstPage": false,
+      "freeSpace": 77,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 213,
+      "title": "16. La prova orale",
+      "isFirstPage": false,
+      "freeSpace": 57,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 214,
+      "title": "16. La prova orale",
+      "isFirstPage": false,
+      "freeSpace": 68,
+      "overflow": 0,
+      "lastBlock": "OL",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 215,
+      "title": "16. La prova orale",
+      "isFirstPage": false,
+      "freeSpace": 66,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 216,
+      "title": "16. La prova orale",
+      "isFirstPage": false,
+      "freeSpace": 132,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 217,
+      "title": "16. La prova orale",
+      "isFirstPage": false,
+      "freeSpace": 135,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 218,
+      "title": "16. La prova orale",
+      "isFirstPage": false,
+      "freeSpace": 648,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": true
+    },
+    {
+      "page": 219,
+      "title": "Casi pratici e problem solving amministrativo",
+      "isFirstPage": true,
+      "freeSpace": 74,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": true
+    },
+    {
+      "page": 220,
+      "title": "17. Casi pratici e problem solving amministrativo",
+      "isFirstPage": false,
+      "freeSpace": 306,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 221,
+      "title": "17. Casi pratici e problem solving amministrativo",
+      "isFirstPage": false,
+      "freeSpace": 76,
+      "overflow": 0,
+      "lastBlock": "OL",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 222,
+      "title": "17. Casi pratici e problem solving amministrativo",
+      "isFirstPage": false,
+      "freeSpace": 117,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 223,
+      "title": "17. Casi pratici e problem solving amministrativo",
+      "isFirstPage": false,
+      "freeSpace": 58,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 224,
+      "title": "17. Casi pratici e problem solving amministrativo",
+      "isFirstPage": false,
+      "freeSpace": 148,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 225,
+      "title": "17. Casi pratici e problem solving amministrativo",
+      "isFirstPage": false,
+      "freeSpace": 73,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 226,
+      "title": "17. Casi pratici e problem solving amministrativo",
+      "isFirstPage": false,
+      "freeSpace": 78,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 227,
+      "title": "17. Casi pratici e problem solving amministrativo",
+      "isFirstPage": false,
+      "freeSpace": 88,
+      "overflow": 0,
+      "lastBlock": "FIGURE",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 228,
+      "title": "17. Casi pratici e problem solving amministrativo",
+      "isFirstPage": false,
+      "freeSpace": 54,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": true
+    },
+    {
+      "page": 229,
+      "title": "Quesiti situazionali e soft skills",
+      "isFirstPage": true,
+      "freeSpace": 110,
+      "overflow": 0,
+      "lastBlock": "FIGURE",
+      "lastBlockClass": "",
+      "isLastChapterPage": true
+    },
+    {
+      "page": 230,
+      "title": "18. Quesiti situazionali e soft skills",
+      "isFirstPage": false,
+      "freeSpace": 52,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 231,
+      "title": "18. Quesiti situazionali e soft skills",
+      "isFirstPage": false,
+      "freeSpace": 67,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 232,
+      "title": "18. Quesiti situazionali e soft skills",
+      "isFirstPage": false,
+      "freeSpace": 150,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 233,
+      "title": "18. Quesiti situazionali e soft skills",
+      "isFirstPage": false,
+      "freeSpace": 84,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 234,
+      "title": "18. Quesiti situazionali e soft skills",
+      "isFirstPage": false,
+      "freeSpace": 220,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 235,
+      "title": "18. Quesiti situazionali e soft skills",
+      "isFirstPage": false,
+      "freeSpace": 72,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 236,
+      "title": "18. Quesiti situazionali e soft skills",
+      "isFirstPage": false,
+      "freeSpace": 136,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 237,
+      "title": "18. Quesiti situazionali e soft skills",
+      "isFirstPage": false,
+      "freeSpace": 564,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": true
+    },
+    {
+      "page": 238,
+      "title": "Le famiglie dei concorsi pubblici",
+      "isFirstPage": true,
+      "freeSpace": 74,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap",
+      "isLastChapterPage": true
+    },
+    {
+      "page": 239,
+      "title": "19. Le famiglie dei concorsi pubblici",
+      "isFirstPage": false,
+      "freeSpace": 228,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 240,
+      "title": "19. Le famiglie dei concorsi pubblici",
+      "isFirstPage": false,
+      "freeSpace": 165,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 241,
+      "title": "19. Le famiglie dei concorsi pubblici",
+      "isFirstPage": false,
+      "freeSpace": 68,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 242,
+      "title": "19. Le famiglie dei concorsi pubblici",
+      "isFirstPage": false,
+      "freeSpace": 73,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 243,
+      "title": "19. Le famiglie dei concorsi pubblici",
+      "isFirstPage": false,
+      "freeSpace": 64,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 244,
+      "title": "19. Le famiglie dei concorsi pubblici",
+      "isFirstPage": false,
+      "freeSpace": 62,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 245,
+      "title": "19. Le famiglie dei concorsi pubblici",
+      "isFirstPage": false,
+      "freeSpace": 88,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 246,
+      "title": "19. Le famiglie dei concorsi pubblici",
+      "isFirstPage": false,
+      "freeSpace": 68,
+      "overflow": 0,
+      "lastBlock": "ASIDE",
+      "lastBlockClass": "previewCallout quote",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 247,
+      "title": "19. Le famiglie dei concorsi pubblici",
+      "isFirstPage": false,
+      "freeSpace": 73,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 248,
+      "title": "19. Le famiglie dei concorsi pubblici",
+      "isFirstPage": false,
+      "freeSpace": 86,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 249,
+      "title": "19. Le famiglie dei concorsi pubblici",
+      "isFirstPage": false,
+      "freeSpace": 88,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 250,
+      "title": "19. Le famiglie dei concorsi pubblici",
+      "isFirstPage": false,
+      "freeSpace": 182,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 251,
+      "title": "19. Le famiglie dei concorsi pubblici",
+      "isFirstPage": false,
+      "freeSpace": 60,
+      "overflow": 0,
+      "lastBlock": "OL",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 252,
+      "title": "19. Le famiglie dei concorsi pubblici",
+      "isFirstPage": false,
+      "freeSpace": 145,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 253,
+      "title": "19. Le famiglie dei concorsi pubblici",
+      "isFirstPage": false,
+      "freeSpace": 83,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 254,
+      "title": "19. Le famiglie dei concorsi pubblici",
+      "isFirstPage": false,
+      "freeSpace": 911,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": true
+    },
+    {
+      "page": 255,
+      "title": "Mappe profilo: cosa resta comune e cosa cambia",
+      "isFirstPage": true,
+      "freeSpace": 188,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": true
+    },
+    {
+      "page": 256,
+      "title": "20. Mappe profilo: cosa resta comune e cosa cambia",
+      "isFirstPage": false,
+      "freeSpace": 73,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 257,
+      "title": "20. Mappe profilo: cosa resta comune e cosa cambia",
+      "isFirstPage": false,
+      "freeSpace": 148,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 258,
+      "title": "20. Mappe profilo: cosa resta comune e cosa cambia",
+      "isFirstPage": false,
+      "freeSpace": 190,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 259,
+      "title": "20. Mappe profilo: cosa resta comune e cosa cambia",
+      "isFirstPage": false,
+      "freeSpace": 190,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 260,
+      "title": "20. Mappe profilo: cosa resta comune e cosa cambia",
+      "isFirstPage": false,
+      "freeSpace": 108,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 261,
+      "title": "20. Mappe profilo: cosa resta comune e cosa cambia",
+      "isFirstPage": false,
+      "freeSpace": 94,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 262,
+      "title": "20. Mappe profilo: cosa resta comune e cosa cambia",
+      "isFirstPage": false,
+      "freeSpace": 137,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 263,
+      "title": "20. Mappe profilo: cosa resta comune e cosa cambia",
+      "isFirstPage": false,
+      "freeSpace": 274,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 264,
+      "title": "20. Mappe profilo: cosa resta comune e cosa cambia",
+      "isFirstPage": false,
+      "freeSpace": 202,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 265,
+      "title": "20. Mappe profilo: cosa resta comune e cosa cambia",
+      "isFirstPage": false,
+      "freeSpace": 237,
+      "overflow": 0,
+      "lastBlock": "OL",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 266,
+      "title": "20. Mappe profilo: cosa resta comune e cosa cambia",
+      "isFirstPage": false,
+      "freeSpace": 67,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 267,
+      "title": "20. Mappe profilo: cosa resta comune e cosa cambia",
+      "isFirstPage": false,
+      "freeSpace": 121,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 268,
+      "title": "20. Mappe profilo: cosa resta comune e cosa cambia",
+      "isFirstPage": false,
+      "freeSpace": 894,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": true
+    },
+    {
+      "page": 269,
+      "title": "Come scegliere i moduli integrativi",
+      "isFirstPage": true,
+      "freeSpace": 100,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": true
+    },
+    {
+      "page": 270,
+      "title": "21. Come scegliere i moduli integrativi",
+      "isFirstPage": false,
+      "freeSpace": 102,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 271,
+      "title": "21. Come scegliere i moduli integrativi",
+      "isFirstPage": false,
+      "freeSpace": 129,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 272,
+      "title": "21. Come scegliere i moduli integrativi",
+      "isFirstPage": false,
+      "freeSpace": 67,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 273,
+      "title": "21. Come scegliere i moduli integrativi",
+      "isFirstPage": false,
+      "freeSpace": 47,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 274,
+      "title": "21. Come scegliere i moduli integrativi",
+      "isFirstPage": false,
+      "freeSpace": 118,
+      "overflow": 0,
+      "lastBlock": "ASIDE",
+      "lastBlockClass": "previewCallout quote",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 275,
+      "title": "21. Come scegliere i moduli integrativi",
+      "isFirstPage": false,
+      "freeSpace": 70,
+      "overflow": 0,
+      "lastBlock": "FIGURE",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 276,
+      "title": "21. Come scegliere i moduli integrativi",
+      "isFirstPage": false,
+      "freeSpace": 80,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 277,
+      "title": "21. Come scegliere i moduli integrativi",
+      "isFirstPage": false,
+      "freeSpace": 228,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 278,
+      "title": "21. Come scegliere i moduli integrativi",
+      "isFirstPage": false,
+      "freeSpace": 83,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 279,
+      "title": "21. Come scegliere i moduli integrativi",
+      "isFirstPage": false,
+      "freeSpace": 66,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 280,
+      "title": "21. Come scegliere i moduli integrativi",
+      "isFirstPage": false,
+      "freeSpace": 447,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": true
+    },
+    {
+      "page": 281,
+      "title": "Piano 30/60/90 giorni",
+      "isFirstPage": true,
+      "freeSpace": 80,
+      "overflow": 0,
+      "lastBlock": "FIGURE",
+      "lastBlockClass": "",
+      "isLastChapterPage": true
+    },
+    {
+      "page": 282,
+      "title": "22. Piano 30/60/90 giorni",
+      "isFirstPage": false,
+      "freeSpace": 322,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 283,
+      "title": "22. Piano 30/60/90 giorni",
+      "isFirstPage": false,
+      "freeSpace": 66,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 284,
+      "title": "22. Piano 30/60/90 giorni",
+      "isFirstPage": false,
+      "freeSpace": 53,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 285,
+      "title": "22. Piano 30/60/90 giorni",
+      "isFirstPage": false,
+      "freeSpace": 90,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 286,
+      "title": "22. Piano 30/60/90 giorni",
+      "isFirstPage": false,
+      "freeSpace": 182,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 287,
+      "title": "22. Piano 30/60/90 giorni",
+      "isFirstPage": false,
+      "freeSpace": 134,
+      "overflow": 0,
+      "lastBlock": "ASIDE",
+      "lastBlockClass": "previewCallout quote",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 288,
+      "title": "22. Piano 30/60/90 giorni",
+      "isFirstPage": false,
+      "freeSpace": 78,
+      "overflow": 0,
+      "lastBlock": "OL",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 289,
+      "title": "22. Piano 30/60/90 giorni",
+      "isFirstPage": false,
+      "freeSpace": 85,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 290,
+      "title": "22. Piano 30/60/90 giorni",
+      "isFirstPage": false,
+      "freeSpace": 89,
+      "overflow": 0,
+      "lastBlock": "FIGURE",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 291,
+      "title": "22. Piano 30/60/90 giorni",
+      "isFirstPage": false,
+      "freeSpace": 108,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 292,
+      "title": "22. Piano 30/60/90 giorni",
+      "isFirstPage": false,
+      "freeSpace": 948,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": true
+    },
+    {
+      "page": 293,
+      "title": "Il diario degli errori",
+      "isFirstPage": true,
+      "freeSpace": 104,
+      "overflow": 0,
+      "lastBlock": "FIGURE",
+      "lastBlockClass": "",
+      "isLastChapterPage": true
+    },
+    {
+      "page": 294,
+      "title": "23. Il diario degli errori",
+      "isFirstPage": false,
+      "freeSpace": 100,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 295,
+      "title": "23. Il diario degli errori",
+      "isFirstPage": false,
+      "freeSpace": 170,
+      "overflow": 0,
+      "lastBlock": "FIGURE",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 296,
+      "title": "23. Il diario degli errori",
+      "isFirstPage": false,
+      "freeSpace": 71,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 297,
+      "title": "23. Il diario degli errori",
+      "isFirstPage": false,
+      "freeSpace": 57,
+      "overflow": 0,
+      "lastBlock": "FIGURE",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 298,
+      "title": "23. Il diario degli errori",
+      "isFirstPage": false,
+      "freeSpace": 176,
+      "overflow": 0,
+      "lastBlock": "OL",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 299,
+      "title": "23. Il diario degli errori",
+      "isFirstPage": false,
+      "freeSpace": 73,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 300,
+      "title": "23. Il diario degli errori",
+      "isFirstPage": false,
+      "freeSpace": 75,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 301,
+      "title": "23. Il diario degli errori",
+      "isFirstPage": false,
+      "freeSpace": 662,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": true
+    },
+    {
+      "page": 302,
+      "title": "Checklist operative",
+      "isFirstPage": true,
+      "freeSpace": 276,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": true
+    },
+    {
+      "page": 303,
+      "title": "24. Checklist operative",
+      "isFirstPage": false,
+      "freeSpace": 57,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 304,
+      "title": "24. Checklist operative",
+      "isFirstPage": false,
+      "freeSpace": 81,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 305,
+      "title": "24. Checklist operative",
+      "isFirstPage": false,
+      "freeSpace": 74,
+      "overflow": 0,
+      "lastBlock": "FIGURE",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 306,
+      "title": "24. Checklist operative",
+      "isFirstPage": false,
+      "freeSpace": 96,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 307,
+      "title": "24. Checklist operative",
+      "isFirstPage": false,
+      "freeSpace": 138,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 308,
+      "title": "24. Checklist operative",
+      "isFirstPage": false,
+      "freeSpace": 268,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 309,
+      "title": "24. Checklist operative",
+      "isFirstPage": false,
+      "freeSpace": 102,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 310,
+      "title": "24. Checklist operative",
+      "isFirstPage": false,
+      "freeSpace": 151,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 311,
+      "title": "24. Checklist operative",
+      "isFirstPage": false,
+      "freeSpace": 93,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 312,
+      "title": "24. Checklist operative",
+      "isFirstPage": false,
+      "freeSpace": 56,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 313,
+      "title": "24. Checklist operative",
+      "isFirstPage": false,
+      "freeSpace": 752,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": true
+    },
+    {
+      "page": 314,
+      "title": "Appendice A - Glossario essenziale della PA",
+      "isFirstPage": true,
+      "freeSpace": 95,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap",
+      "isLastChapterPage": true
+    },
+    {
+      "page": 315,
+      "title": "A. Appendice A - Glossario essenziale della PA",
+      "isFirstPage": false,
+      "freeSpace": 111,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 316,
+      "title": "A. Appendice A - Glossario essenziale della PA",
+      "isFirstPage": false,
+      "freeSpace": 118,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 317,
+      "title": "A. Appendice A - Glossario essenziale della PA",
+      "isFirstPage": false,
+      "freeSpace": 67,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 318,
+      "title": "A. Appendice A - Glossario essenziale della PA",
+      "isFirstPage": false,
+      "freeSpace": 81,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 319,
+      "title": "A. Appendice A - Glossario essenziale della PA",
+      "isFirstPage": false,
+      "freeSpace": 58,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 320,
+      "title": "A. Appendice A - Glossario essenziale della PA",
+      "isFirstPage": false,
+      "freeSpace": 148,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 321,
+      "title": "A. Appendice A - Glossario essenziale della PA",
+      "isFirstPage": false,
+      "freeSpace": 106,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 322,
+      "title": "A. Appendice A - Glossario essenziale della PA",
+      "isFirstPage": false,
+      "freeSpace": 110,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 323,
+      "title": "A. Appendice A - Glossario essenziale della PA",
+      "isFirstPage": false,
+      "freeSpace": 138,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 324,
+      "title": "A. Appendice A - Glossario essenziale della PA",
+      "isFirstPage": false,
+      "freeSpace": 911,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": true
+    },
+    {
+      "page": 325,
+      "title": "Appendice B - Le 100 parole chiave dei concorsi pubblici",
+      "isFirstPage": true,
+      "freeSpace": 152,
+      "overflow": 0,
+      "lastBlock": "ASIDE",
+      "lastBlockClass": "previewCallout quote",
+      "isLastChapterPage": true
+    },
+    {
+      "page": 326,
+      "title": "B. Appendice B - Le 100 parole chiave dei concorsi pubblici",
+      "isFirstPage": false,
+      "freeSpace": 62,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 327,
+      "title": "B. Appendice B - Le 100 parole chiave dei concorsi pubblici",
+      "isFirstPage": false,
+      "freeSpace": 106,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 328,
+      "title": "B. Appendice B - Le 100 parole chiave dei concorsi pubblici",
+      "isFirstPage": false,
+      "freeSpace": 76,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 329,
+      "title": "B. Appendice B - Le 100 parole chiave dei concorsi pubblici",
+      "isFirstPage": false,
+      "freeSpace": 152,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 330,
+      "title": "B. Appendice B - Le 100 parole chiave dei concorsi pubblici",
+      "isFirstPage": false,
+      "freeSpace": 145,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 331,
+      "title": "B. Appendice B - Le 100 parole chiave dei concorsi pubblici",
+      "isFirstPage": false,
+      "freeSpace": 121,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 332,
+      "title": "B. Appendice B - Le 100 parole chiave dei concorsi pubblici",
+      "isFirstPage": false,
+      "freeSpace": 66,
+      "overflow": 0,
+      "lastBlock": "ASIDE",
+      "lastBlockClass": "previewCallout quote",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 333,
+      "title": "B. Appendice B - Le 100 parole chiave dei concorsi pubblici",
+      "isFirstPage": false,
+      "freeSpace": 95,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 334,
+      "title": "B. Appendice B - Le 100 parole chiave dei concorsi pubblici",
+      "isFirstPage": false,
+      "freeSpace": 740,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": true
+    },
+    {
+      "page": 335,
+      "title": "Appendice C - Template Bando Decoder",
+      "isFirstPage": true,
+      "freeSpace": 68,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap",
+      "isLastChapterPage": true
+    },
+    {
+      "page": 336,
+      "title": "C. Appendice C - Template Bando Decoder",
+      "isFirstPage": false,
+      "freeSpace": 103,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 337,
+      "title": "C. Appendice C - Template Bando Decoder",
+      "isFirstPage": false,
+      "freeSpace": 167,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 338,
+      "title": "C. Appendice C - Template Bando Decoder",
+      "isFirstPage": false,
+      "freeSpace": 71,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 339,
+      "title": "C. Appendice C - Template Bando Decoder",
+      "isFirstPage": false,
+      "freeSpace": 140,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 340,
+      "title": "C. Appendice C - Template Bando Decoder",
+      "isFirstPage": false,
+      "freeSpace": 124,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 341,
+      "title": "C. Appendice C - Template Bando Decoder",
+      "isFirstPage": false,
+      "freeSpace": 106,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 342,
+      "title": "C. Appendice C - Template Bando Decoder",
+      "isFirstPage": false,
+      "freeSpace": 127,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 343,
+      "title": "C. Appendice C - Template Bando Decoder",
+      "isFirstPage": false,
+      "freeSpace": 692,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": true
+    },
+    {
+      "page": 344,
+      "title": "Appendice D - Piano di studio personale",
+      "isFirstPage": true,
+      "freeSpace": 107,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": true
+    },
+    {
+      "page": 345,
+      "title": "D. Appendice D - Piano di studio personale",
+      "isFirstPage": false,
+      "freeSpace": 89,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 346,
+      "title": "D. Appendice D - Piano di studio personale",
+      "isFirstPage": false,
+      "freeSpace": 66,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 347,
+      "title": "D. Appendice D - Piano di studio personale",
+      "isFirstPage": false,
+      "freeSpace": 103,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 348,
+      "title": "D. Appendice D - Piano di studio personale",
+      "isFirstPage": false,
+      "freeSpace": 177,
+      "overflow": 0,
+      "lastBlock": "OL",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 349,
+      "title": "D. Appendice D - Piano di studio personale",
+      "isFirstPage": false,
+      "freeSpace": 85,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 350,
+      "title": "D. Appendice D - Piano di studio personale",
+      "isFirstPage": false,
+      "freeSpace": 148,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 351,
+      "title": "D. Appendice D - Piano di studio personale",
+      "isFirstPage": false,
+      "freeSpace": 484,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": true
+    },
+    {
+      "page": 352,
+      "title": "Appendice E - Schema universale di risposta orale",
+      "isFirstPage": true,
+      "freeSpace": 104,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": true
+    },
+    {
+      "page": 353,
+      "title": "E. Appendice E - Schema universale di risposta orale",
+      "isFirstPage": false,
+      "freeSpace": 170,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 354,
+      "title": "E. Appendice E - Schema universale di risposta orale",
+      "isFirstPage": false,
+      "freeSpace": 67,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 355,
+      "title": "E. Appendice E - Schema universale di risposta orale",
+      "isFirstPage": false,
+      "freeSpace": 164,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 356,
+      "title": "E. Appendice E - Schema universale di risposta orale",
+      "isFirstPage": false,
+      "freeSpace": 70,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 357,
+      "title": "E. Appendice E - Schema universale di risposta orale",
+      "isFirstPage": false,
+      "freeSpace": 76,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 358,
+      "title": "E. Appendice E - Schema universale di risposta orale",
+      "isFirstPage": false,
+      "freeSpace": 232,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 359,
+      "title": "E. Appendice E - Schema universale di risposta orale",
+      "isFirstPage": false,
+      "freeSpace": 122,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 360,
+      "title": "E. Appendice E - Schema universale di risposta orale",
+      "isFirstPage": false,
+      "freeSpace": 127,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 361,
+      "title": "E. Appendice E - Schema universale di risposta orale",
+      "isFirstPage": false,
+      "freeSpace": 133,
+      "overflow": 0,
+      "lastBlock": "OL",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 362,
+      "title": "E. Appendice E - Schema universale di risposta orale",
+      "isFirstPage": false,
+      "freeSpace": 727,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": true
+    },
+    {
+      "page": 363,
+      "title": "Appendice F - Matrice materie/profili",
+      "isFirstPage": true,
+      "freeSpace": 60,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap",
+      "isLastChapterPage": true
+    },
+    {
+      "page": 364,
+      "title": "F. Appendice F - Matrice materie/profili",
+      "isFirstPage": false,
+      "freeSpace": 63,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 365,
+      "title": "F. Appendice F - Matrice materie/profili",
+      "isFirstPage": false,
+      "freeSpace": 241,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 366,
+      "title": "F. Appendice F - Matrice materie/profili",
+      "isFirstPage": false,
+      "freeSpace": 88,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 367,
+      "title": "F. Appendice F - Matrice materie/profili",
+      "isFirstPage": false,
+      "freeSpace": 127,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 368,
+      "title": "F. Appendice F - Matrice materie/profili",
+      "isFirstPage": false,
+      "freeSpace": 156,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 369,
+      "title": "F. Appendice F - Matrice materie/profili",
+      "isFirstPage": false,
+      "freeSpace": 112,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 370,
+      "title": "F. Appendice F - Matrice materie/profili",
+      "isFirstPage": false,
+      "freeSpace": 155,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 371,
+      "title": "F. Appendice F - Matrice materie/profili",
+      "isFirstPage": false,
+      "freeSpace": 54,
+      "overflow": 0,
+      "lastBlock": "OL",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 372,
+      "title": "F. Appendice F - Matrice materie/profili",
+      "isFirstPage": false,
+      "freeSpace": 581,
+      "overflow": 0,
+      "lastBlock": "UL",
+      "lastBlockClass": "",
+      "isLastChapterPage": true
+    },
+    {
+      "page": 373,
+      "title": "Perché questo libro è diverso",
+      "isFirstPage": true,
+      "freeSpace": 101,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 374,
+      "title": "Perché questo libro è diverso",
+      "isFirstPage": false,
+      "freeSpace": 50,
+      "overflow": 0,
+      "lastBlock": "P",
+      "lastBlockClass": "",
+      "isLastChapterPage": false
+    },
+    {
+      "page": 375,
+      "title": "Perché questo libro è diverso",
+      "isFirstPage": false,
+      "freeSpace": 606,
+      "overflow": 0,
+      "lastBlock": "DIV",
+      "lastBlockClass": "previewTableWrap continuedTable",
+      "isLastChapterPage": true
+    }
+  ]
+}

@@ -1607,3 +1607,311 @@
 - l0: l0/conv-20260721142622-8lixn.md
 - atoms:
   - mem-20260721142622-19omj44 | result | Esito vol-01-intervento-p8: Procedere con il prossimo passo della revisione professionale del Volume 1. -> P8 B-PA04: consolidate distinzioni tra reato, illecito disciplinare e responsabilita contabile; aggiunta mappa delle fattispecie e report.
+
+## 2026-07-21T15:03:07.156Z - manual-writer
+
+- conversation_id: conv-20260721150307-qke7qs
+- route: codex/p9-capitolo-8-tracciabilita
+- l0: l0/conv-20260721150307-qke7qs.md
+- atoms:
+  - mem-20260721150307-h0t58v | workflow | Il Capitolo 8 contiene gia controlli, parificazione, agenti contabili e responsabilita erariale; il prossimo intervento deve essere mirato a tracciabilita normativa e mappa di studio, senza duplicare contenuti.
+  - mem-20260721150307-1axikhx | workflow | Proseguo con P9: il Capitolo 8 e confermato completo sul piano didattico di base; applica fonti, riferimenti normativi e matrice, senza duplicazioni.
+  - mem-20260721150307-1yo55ka | result | Esito codex/p9-capitolo-8-tracciabilita: Il Capitolo 8 contiene gia controlli, parificazione, agenti contabili e responsabilita erariale; il prossimo intervento deve essere mirato a tracciabilita normativa e mappa di studio, senza duplicare contenuti. -> P9 applicato al Capitolo 8: aggiunte solo traccia normativa, matrice fonte-nucleo-output e checkpoint; aggiornato B-PA05 a completo con review giuridica umana ancora obbligatoria.
+
+## 2026-07-23T08:24:51.501Z - editorial-reviewer
+
+- conversation_id: conv-20260723082451-ki8kz4
+- route: vol-01-intervento-p10
+- l0: l0/conv-20260723082451-ki8kz4.md
+- atoms:
+  - mem-20260723082451-1cxr7t6 | workflow | continua la revisione professionale del volume 1 in base alla nuova matrice, da dove ci siamo fermati anche dopo il lavoro di Claude
+  - mem-20260723082451-1myqto7 | result | Esito vol-01-intervento-p10: continua la revisione professionale del volume 1 in base alla nuova matrice, da dove ci siamo fermati anche dopo il lavoro di Claude -> Verificato e formalizzato P10 sui Capitoli 12, 14 e 18: i collegamenti interni già inseriti sono coerenti, B-PA10 resta completo nella matrice; aperta la sola verifica psicometrica/metodologica umana.
+
+## 2026-07-23T08:29:35.152Z - editorial-reviewer
+
+- conversation_id: conv-20260723082935-ob1n7n
+- route: vol-01-intervento-p11
+- l0: l0/conv-20260723082935-ob1n7n.md
+- atoms:
+  - mem-20260723082935-1tbaou6 | result | Esito vol-01-intervento-p11: prossimo passo -> P11 ha verificato l'apparato di riferimenti dei Capitoli 4-10 e ha chiuso E11 come rilievo superato.
+
+## 2026-07-23T08:35:13.566Z - editorial-reviewer
+
+- conversation_id: conv-20260723083513-1g7jre6
+- route: vol-01-intervento-p12
+- l0: l0/conv-20260723083513-1g7jre6.md
+- atoms:
+  - mem-20260723083513-1v24f7h | result | Esito vol-01-intervento-p12: prossimo passo -> P12 ha normalizzato il workflow del cartaceo principale: 31 file sono ora in editorial-review, con review_required invariato.
+
+## 2026-07-23T08:37:23.056Z - editorial-reviewer
+
+- conversation_id: conv-20260723083723-uopb1x
+- route: vol-01-intervento-p13
+- l0: l0/conv-20260723083723-uopb1x.md
+- atoms:
+  - mem-20260723083723-1il7t92 | result | Esito vol-01-intervento-p13: prossimo passo -> P13 ha controllato il Capitolo 11: dieci mini-reading con domanda, risposta e spiegazione sono presenti.
+
+## 2026-07-23T08:39:37.089Z - editorial-reviewer
+
+- conversation_id: conv-20260723083937-rpxesw
+- route: vol-01-intervento-p14
+- l0: l0/conv-20260723083937-rpxesw.md
+- atoms:
+  - mem-20260723083937-j4ulwl | result | Esito vol-01-intervento-p14: prossimo passo -> P14 ha verificato i Capitoli 15 e 17: sono presenti dieci casi completi con scenario, lettura, risposta modello ed errore da evitare.
+
+## 2026-07-23T08:46:25.153Z - editorial-reviewer
+
+- conversation_id: conv-20260723084625-3az0yu
+- route: vol-01-intervento-p15
+- l0: l0/conv-20260723084625-3az0yu.md
+- atoms:
+  - mem-20260723084625-13id8wj | result | Esito vol-01-intervento-p15: prossimo passo -> P15 ha verificato i Capitoli 13 e 16, chiudendo l'audit editoriale del blocco prove.
+
+## 2026-07-23T08:48:18.522Z - editorial-reviewer
+
+- conversation_id: conv-20260723084818-19wntuz
+- route: vol-01-intervento-p16
+- l0: l0/conv-20260723084818-19wntuz.md
+- atoms:
+  - mem-20260723084818-1mzfddi | result | Esito vol-01-intervento-p16: prosimo passo -> P16 ha verificato i Capitoli 19-22, confermando la logica core/modulo/prova e i piani 15/30/60/90 giorni.
+
+## 2026-07-23T08:55:04.182Z - editorial-reviewer
+
+- conversation_id: conv-20260723085504-18gd7zq
+- route: vol-01-intervento-p17
+- l0: l0/conv-20260723085504-18gd7zq.md
+- atoms:
+  - mem-20260723085504-p6vn6x | result | Esito vol-01-intervento-p17: prossimo passo -> P17 ha verificato diario, cruscotto e dodici checklist.
+
+## 2026-07-23T08:57:14.538Z - editorial-reviewer
+
+- conversation_id: conv-20260723085714-1dwdv7e
+- route: vol-01-intervento-p18
+- l0: l0/conv-20260723085714-1dwdv7e.md
+- atoms:
+  - mem-20260723085714-4hc1is | result | Esito vol-01-intervento-p18: prossimo passo -> P18 ha rieseguito il gate: VOL-01 ha 4 nuclei completi, 13 parziali, nessun nucleo solo nominato o mancante.
+
+## 2026-07-23T09:19:03.552Z - editorial-reviewer
+
+- conversation_id: conv-20260723091903-1lmzvyv
+- route: wiki/reviews/review-vol-01-intervento-p19-preview-a4-2026-07-23.md
+- l0: l0/conv-20260723091903-1lmzvyv.md
+- atoms:
+  - mem-20260723091903-c3ybel | result | Esito wiki/reviews/review-vol-01-intervento-p19-preview-a4-2026-07-23.md: Prossimo passo: continuare la revisione professionale di VOL-01 con la preview A4. -> P19 completata: la preview A4 runtime del Book Studio ha prodotto 349 pagine; il controllo DOM ha rilevato 0 overflow oltre 8 px e massimo 0 px.
+
+## 2026-07-23T09:25:44.695Z - editorial-reviewer
+
+- conversation_id: conv-20260723092544-y7m6al
+- route: wiki/reviews/review-vol-01-intervento-p20-prova-stampa-2026-07-23.md
+- l0: l0/conv-20260723092544-y7m6al.md
+- atoms:
+  - mem-20260723092544-19st2ne | result | Esito wiki/reviews/review-vol-01-intervento-p20-prova-stampa-2026-07-23.md: Prossimo passo. -> P20 completata: il Book Studio ha una preview A4 runtime ma non espone export PDF, stampa o endpoint di generazione PDF.
+
+## 2026-07-23T09:31:20.634Z - editorial-reviewer
+
+- conversation_id: conv-20260723093120-n33fve
+- route: wiki/reviews/review-vol-01-intervento-p21-costituzionale-2026-07-23.md
+- l0: l0/conv-20260723093120-n33fve.md
+- atoms:
+  - mem-20260723093120-jqh9oo | result | Esito wiki/reviews/review-vol-01-intervento-p21-costituzionale-2026-07-23.md: Procediamo in ordine a completarli. -> P21 ha chiuso B-PA01 a completo sul piano della copertura didattica e della verifica documentale: fonte Senato, Normattiva e Corte costituzionale ricontrollate il 23 luglio 2026.
+
+## 2026-07-23T09:32:52.562Z - editorial-reviewer
+
+- conversation_id: conv-20260723093252-xi8vas
+- route: wiki/reviews/review-vol-01-intervento-p22-amministrativo-2026-07-23.md
+- l0: l0/conv-20260723093252-xi8vas.md
+- atoms:
+  - mem-20260723093252-14eye2y | result | Esito wiki/reviews/review-vol-01-intervento-p22-amministrativo-2026-07-23.md: Procediamo in ordine a completarli. -> P21 e P22 completati in sequenza.
+
+## 2026-07-23T09:35:28.086Z - editorial-reviewer
+
+- conversation_id: conv-20260723093528-1ioks7a
+- route: wiki/reviews/review-vol-01-intervento-p23-pubblico-impiego-2026-07-23.md
+- l0: l0/conv-20260723093528-1ioks7a.md
+- atoms:
+  - mem-20260723093528-1vc565g | result | Esito wiki/reviews/review-vol-01-intervento-p23-pubblico-impiego-2026-07-23.md: Procedi. -> P23 ha chiuso B-PA03 a completo per copertura didattica e verifica documentale: D.Lgs.
+
+## 2026-07-23T09:48:51.417Z - editorial-reviewer
+
+- conversation_id: conv-20260723094851-1lgjba8
+- route: wiki/reviews/review-vol-01-intervento-p24-reati-pa-2026-07-23.md
+- l0: l0/conv-20260723094851-1lgjba8.md
+- atoms:
+  - mem-20260723094851-zxgal6 | result | Esito wiki/reviews/review-vol-01-intervento-p24-reati-pa-2026-07-23.md: Prossimo passo. -> P24 ha chiuso B-PA04 a completo per copertura didattica e verifica documentale: art.
+
+## 2026-07-23T09:53:44.151Z - editorial-reviewer
+
+- conversation_id: conv-20260723095344-1kjir9z
+- route: wiki/reviews/review-vol-01-intervento-p25-contratti-2026-07-23.md
+- l0: l0/conv-20260723095344-1kjir9z.md
+- atoms:
+  - mem-20260723095344-mgzi1z | result | Esito wiki/reviews/review-vol-01-intervento-p25-contratti-2026-07-23.md: Procedi. -> P25 ha chiuso B-PA06 a completo per copertura didattica e verifica documentale: D.Lgs.
+
+## 2026-07-23T10:23:15.626Z - editorial-reviewer
+
+- conversation_id: conv-20260723102315-x38pcw
+- route: wiki/reviews/review-vol-01-intervento-p26-privacy-digitale-2026-07-23.md
+- l0: l0/conv-20260723102315-x38pcw.md
+- atoms:
+  - mem-20260723102315-zlhsts | result | Esito wiki/reviews/review-vol-01-intervento-p26-privacy-digitale-2026-07-23.md: Prossimo passo. -> P26 ha chiuso B-PA07 a completo per copertura didattica e verifica documentale: CAD, GDPR e Piano Triennale AgID 2026 ricontrollati.
+
+## 2026-07-23T11:57:43.253Z - editorial-reviewer
+
+- conversation_id: conv-20260723115743-1mb7bcz
+- route: wiki/reviews/review-vol-01-intervento-p27-inglese-2026-07-23.md
+- l0: l0/conv-20260723115743-1mb7bcz.md
+- atoms:
+  - mem-20260723115743-1tovrut | result | Esito wiki/reviews/review-vol-01-intervento-p27-inglese-2026-07-23.md: Procedi. -> P27 ha chiuso B-PA08: verificati dieci mini-reading con testo, domanda, risposta e spiegazione e dieci chiavi grammaticali.
+
+## 2026-07-23T12:52:57.263Z - editorial-reviewer
+
+- conversation_id: conv-20260723125257-uc36nn
+- route: wiki/reviews/review-vol-01-intervento-p28-informatica-2026-07-23.md
+- l0: l0/conv-20260723125257-uc36nn.md
+- atoms:
+  - mem-20260723125257-4vfjsf | result | Esito wiki/reviews/review-vol-01-intervento-p28-informatica-2026-07-23.md: PROSSIMO PASSO? -> P28 ha chiuso B-PA09: verificati core operativo, caso guidato, otto domande da commissario, quattro mini-esercizi e checklist.
+
+## 2026-07-23T13:01:12.129Z - editorial-reviewer
+
+- conversation_id: conv-20260723130112-1suisc7
+- route: wiki/reviews/review-vol-01-intervento-p29-atti-casi-2026-07-23.md
+- l0: l0/conv-20260723130112-1suisc7.md
+- atoms:
+  - mem-20260723130112-17oc2md | result | Esito wiki/reviews/review-vol-01-intervento-p29-atti-casi-2026-07-23.md: procedi -> P29 ha chiuso B-PA11: verificati dieci casi completi, atto guidato, checklist, mini-simulazione e quadro delle prove teorico-pratiche.
+
+## 2026-07-23T13:10:08.615Z - editorial-reviewer
+
+- conversation_id: conv-20260723131008-5lfhfj
+- route: wiki/reviews/review-vol-01-intervento-p30-prove-2026-07-23.md
+- l0: l0/conv-20260723131008-5lfhfj.md
+- atoms:
+  - mem-20260723131008-1leyzuf | result | Esito wiki/reviews/review-vol-01-intervento-p30-prove-2026-07-23.md: procedi -> P30 ha chiuso V01-PROVE: verificati Capitoli 13-16, sequenza BANDO, schede, simulazioni, esercizi e diari.
+
+## 2026-07-23T17:41:48.401Z - editorial-reviewer
+
+- conversation_id: conv-20260723174148-18jlys
+- route: wiki/reviews/review-vol-01-intervento-p31-profili-2026-07-23.md
+- l0: l0/conv-20260723174148-18jlys.md
+- atoms:
+  - mem-20260723174148-h1a6uy | result | Esito wiki/reviews/review-vol-01-intervento-p31-profili-2026-07-23.md: procedi -> P31 ha chiuso V01-PROFILI: verificati core/delta, mappe, moduli e piani 15/30/60/90.
+
+## 2026-07-23T17:56:08.016Z - editorial-reviewer
+
+- conversation_id: conv-20260723175608-s0ggek
+- route: wiki/reviews/review-vol-01-intervento-p32-kit-2026-07-23.md
+- l0: l0/conv-20260723175608-s0ggek.md
+- atoms:
+  - mem-20260723175608-17wx1lb | result | Esito wiki/reviews/review-vol-01-intervento-p32-kit-2026-07-23.md: procedi -> P32 ha chiuso V01-KIT: verificati diario con sei categorie e cruscotto, piu dodici checklist autonome.
+
+## 2026-07-23T18:26:06.568Z - editorial-reviewer
+
+- conversation_id: conv-20260723182606-p52p7h
+- route: manual-p33-vol01-appendici
+- l0: l0/conv-20260723182606-p52p7h.md
+- atoms:
+  - mem-20260723182606-188tvtt | result | Esito manual-p33-vol01-appendici: Procedi con la revisione del volume 1. -> P33 ha chiuso V01-APP: 144 voci di glossario, 100 parole, Decoder di 9 pagine, piano di 12 pagine, tre durate orali e 13 profili.
+
+## 2026-07-23T18:35:46.778Z - editorial-reviewer
+
+- conversation_id: conv-20260723183546-ub6nam
+- route: humanizer-vol01-h1
+- l0: l0/conv-20260723183546-ub6nam.md
+- atoms:
+  - mem-20260723183546-1ep4dhr | workflow | Effettuare la revisione Humanizer su ogni capitolo del Volume 1 e applicare le correzioni necessarie.
+  - mem-20260723183546-dgmhrq | result | Esito humanizer-vol01-h1: Effettuare la revisione Humanizer su ogni capitolo del Volume 1 e applicare le correzioni necessarie. -> H1 ha umanizzato introduzione e Capitoli 1-3: rimosse negazioni formulaiche, enfasi generiche e segnali metatestuali, preservando fonti, struttura e strumenti workbook.
+
+## 2026-07-23T18:48:03.991Z - editorial-reviewer
+
+- conversation_id: conv-20260723184803-1gol61z
+- route: humanizer-vol01-h2
+- l0: l0/conv-20260723184803-1gol61z.md
+- atoms:
+  - mem-20260723184803-hzm1p8 | result | Esito humanizer-vol01-h2: Procedi. -> H2 ha umanizzato i Capitoli 4-6: Costituzione, diritto amministrativo e pubblico impiego.
+
+## 2026-07-23T18:50:09.913Z - editorial-reviewer
+
+- conversation_id: conv-20260723185009-12eznim
+- route: humanizer-vol01-h3
+- l0: l0/conv-20260723185009-12eznim.md
+- atoms:
+  - mem-20260723185009-1g5v5g2 | result | Esito humanizer-vol01-h3: Procedi. -> H3 ha umanizzato i Capitoli 7-9: trasparenza/anticorruzione/privacy, contabilita pubblica e contratti pubblici.
+
+## 2026-07-24T07:39:55.617Z - editorial-reviewer
+
+- conversation_id: conv-20260724073955-128k9id
+- route: humanizer-vol01-h4
+- l0: l0/conv-20260724073955-128k9id.md
+- atoms:
+  - mem-20260724073955-1ly7yk | result | Esito humanizer-vol01-h4: Procedi. -> H4 ha umanizzato i Capitoli 10-12: informatica/PA digitale, inglese e logica.
+
+## 2026-07-24T07:41:53.587Z - editorial-reviewer
+
+- conversation_id: conv-20260724074153-1kv27e7
+- route: humanizer-vol01-h5
+- l0: l0/conv-20260724074153-1kv27e7.md
+- atoms:
+  - mem-20260724074153-db9dn4 | result | Esito humanizer-vol01-h5: Procedi. -> H5 ha umanizzato i Capitoli 13-15: metodo di studio, quiz e prova scritta teorico-pratica.
+
+## 2026-07-24T08:03:51.298Z - editorial-reviewer
+
+- conversation_id: conv-20260724080351-17w17mt
+- route: humanizer-vol01-h6
+- l0: l0/conv-20260724080351-17w17mt.md
+- atoms:
+  - mem-20260724080351-3r8kvt | result | Esito humanizer-vol01-h6: Procedi. -> H6 ha umanizzato i Capitoli 16-18: orale, casi pratici e quesiti situazionali.
+
+## 2026-07-24T08:06:03.362Z - editorial-reviewer
+
+- conversation_id: conv-20260724080603-1m7ktl7
+- route: humanizer-vol01-h7
+- l0: l0/conv-20260724080603-1m7ktl7.md
+- atoms:
+  - mem-20260724080603-53m760 | result | Esito humanizer-vol01-h7: Procedi. -> H7 ha umanizzato i Capitoli 19-21: famiglie concorsuali, mappe profilo e moduli integrativi.
+
+## 2026-07-24T08:09:40.520Z - editorial-reviewer
+
+- conversation_id: conv-20260724080940-1il3gmo
+- route: humanizer-vol01-h8
+- l0: l0/conv-20260724080940-1il3gmo.md
+- atoms:
+  - mem-20260724080940-164qidb | result | Esito humanizer-vol01-h8: Procedi. -> H8 ha umanizzato i Capitoli 22-24: piano 30/60/90, diario degli errori e checklist.
+
+## 2026-07-24T08:19:08.965Z - editorial-reviewer
+
+- conversation_id: conv-20260724081908-1j1bpiz
+- route: humanizer-vol01-h9-final
+- l0: l0/conv-20260724081908-1j1bpiz.md
+- atoms:
+  - mem-20260724081908-zb7ilj | result | Esito humanizer-vol01-h9-final: Procedi. -> H9 ha completato la revisione Humanizer del Volume 1 cartaceo: Introduzione, capitoli 1-24 e Appendici A-F, per 31 file.
+
+## 2026-07-24T14:15:37.495Z - editorial-reviewer
+
+- conversation_id: conv-20260724141537-4sw2fm
+- route: ricettario-digitale-h1
+- l0: l0/conv-20260724141537-4sw2fm.md
+- atoms:
+  - mem-20260724141537-xdiyma | result | Esito ricettario-digitale-h1: Procedi. -> Avviato il primo blocco del Ricettario digitale: R1-R5, capitoli 25-29.
+
+## 2026-07-24T14:25:18.372Z - editorial-reviewer
+
+- conversation_id: conv-20260724142518-1j9pwao
+- route: ricettario-digitale-h2
+- l0: l0/conv-20260724142518-1j9pwao.md
+- atoms:
+  - mem-20260724142518-4ovvt8 | result | Esito ricettario-digitale-h2: Procedi. -> Revisione micro-editoriale e Humanizer applicata ai moduli R6-R10 del Ricettario digitale, capitoli 30-34.
+
+## 2026-07-24T14:31:48.826Z - editorial-reviewer
+
+- conversation_id: conv-20260724143148-cyi81n
+- route: ricettario-digitale-h3
+- l0: l0/conv-20260724143148-cyi81n.md
+- atoms:
+  - mem-20260724143148-14j19dp | result | Esito ricettario-digitale-h3: Procedi. -> Revisione micro-editoriale e Humanizer applicata ai moduli R11-R15 del Ricettario digitale, capitoli 35-39.
+
+## 2026-07-24T14:58:17.688Z - editorial-reviewer
+
+- conversation_id: conv-20260724145817-qirewl
+- route: ricettario-digitale-final
+- l0: l0/conv-20260724145817-qirewl.md
+- atoms:
+  - mem-20260724145817-19jg7n | result | Esito ricettario-digitale-final: Completa. -> Completata la revisione editoriale e Humanizer del Ricettario operativo digitale: 23 moduli, R1-R23, capitoli 25-47.

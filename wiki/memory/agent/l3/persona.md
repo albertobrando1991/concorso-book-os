@@ -5,6 +5,10 @@ Usala come profilo di lavoro: le source notes e il wiki restano la base canonica
 
 ## Preferenze e istruzioni recenti
 
+- Effettuare la revisione Humanizer su ogni capitolo del Volume 1 e applicare le correzioni necessarie. (mem-20260723183546-1ep4dhr)
+- continua la revisione professionale del volume 1 in base alla nuova matrice, da dove ci siamo fermati anche dopo il lavoro di Claude (mem-20260723082451-1cxr7t6)
+- Proseguo con P9: il Capitolo 8 e confermato completo sul piano didattico di base; applica fonti, riferimenti normativi e matrice, senza duplicazioni. (mem-20260721150307-1axikhx)
+- Il Capitolo 8 contiene gia controlli, parificazione, agenti contabili e responsabilita erariale; il prossimo intervento deve essere mirato a tracciabilita normativa e mappa di studio, senza duplicare contenuti. (mem-20260721150307-h0t58v)
 - Procedere con la revisione professionale del VOL-01 usando matrice didattica, audit retroattivo, integrazione editoriale e gate finale, preservando il lavoro e usando rinvii solo quando il contenuto completo esiste davvero altrove. (mem-20260721113602-1xejkc)
 - Effettua un controllo capillare sulle immagini inserite all'interno del capitolo 9, perché i testi di alcune escono dai margini e non sono ottimizzate. (mem-20260529182213-16onnkx)
 - Regola editoriale confermata: ogni volume corrisponde a un libro; i moduli sono divisioni interne del libro. Per VOL-03, M-FC02 e M-FC03 vanno trattati come Modulo 1 e Modulo 2 del libro, non come libri separati. (mem-20260708225500-vol03-book-modules-rule)
