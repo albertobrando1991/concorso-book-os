@@ -9,7 +9,7 @@ entities: ["AgID", "Piano Triennale ICT", "Pubblica amministrazione"]
 source_refs: ["sources/pa-digitale-cad-identita-documenti-servizi-dati.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.97
-updated_at: "2026-07-21T14:20:00+02:00"
+updated_at: "2026-07-23T00:00:00+02:00"
 created_at: "2026-07-21T14:20:00+02:00"
 review_required: true
 canonical: true
@@ -44,4 +44,4 @@ Il Piano non sostituisce CAD, GDPR o D.Lgs. 33/2013. Quando un processo digitale
 
 ## Stato revisione
 
-Fonte istituzionale verificata il 21 luglio 2026. Non usare per attribuire obblighi, scadenze o piattaforme a una singola amministrazione senza controllo della disciplina applicabile e del bando.
+Fonte istituzionale ricontrollata il 23 luglio 2026. AgID indica il Piano 2024-2026, aggiornato nel 2025 e nel 2026, come quello attualmente in vigore. Non usare la fonte per attribuire obblighi, scadenze o piattaforme a una singola amministrazione senza controllo della disciplina applicabile e del bando.

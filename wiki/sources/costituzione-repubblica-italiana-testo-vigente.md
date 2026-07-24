@@ -9,7 +9,7 @@ entities: ["Costituzione della Repubblica Italiana","Parlamento","Governo","Pres
 source_refs: ["sources/corte-costituzionale-composizione-e-funzioni-2026.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.98
-updated_at: 2026-07-21T14:30:00+02:00
+updated_at: 2026-07-23T00:00:00+02:00
 created_at: 2026-05-10T12:25:00+02:00
 review_required: true
 canonical: true
@@ -51,7 +51,7 @@ Fonte primaria per il capitolo `Costituzione e ordinamento dello Stato`. Il cont
 - [[books/il-metodo-bando/chapters/costituzione-e-ordinamento-dello-stato]]
 
 ## Stato revisione
-Fonte primaria verificata il 21 luglio 2026. Prima della pubblicazione finale, ricontrollare il testo vigente sul sito del Senato e su Normattiva.
+Fonte primaria ricontrollata il 23 luglio 2026 sul sito del Senato e su Normattiva: il testo istituzionale resta aggiornato alla legge costituzionale 26 settembre 2023, n. 1. Prima della pubblicazione finale, ricontrollare il testo vigente sul sito del Senato e su Normattiva.
 
 ## Note editoriali
 Usare questa fonte per fondare struttura, termini e riferimenti del capitolo costituzionale. Per la scrittura didattica, non riportare lunghi blocchi normativi: trasformare in spiegazione concorsuale, mappe, tabelle e domande ragionate.

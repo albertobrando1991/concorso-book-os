@@ -9,7 +9,7 @@ entities: ["Costituzione della Repubblica Italiana"]
 source_refs: []
 book_refs: []
 confidence: 0.98
-updated_at: "2026-07-21T16:10:00+02:00"
+updated_at: "2026-07-23T00:00:00+02:00"
 created_at: "2026-05-25T10:34:52.221Z"
 review_required: true
 canonical: true
@@ -43,4 +43,4 @@ Fonte primaria generale sul lavoro alle dipendenze delle amministrazioni pubblic
 - [[books/il-metodo-bando/chapters/pubblico-impiego-e-organizzazione-pa]]
 
 ## Stato revisione
-Fonte consolidata in P7. Verifica umana richiesta per CCNL, codici integrativi, termini disciplinari e disciplina applicabile alla singola amministrazione.
+Fonte ricontrollata in P23 su Normattiva: ultimo aggiornamento dell'atto rilevato il 23 maggio 2026; artt. 4 e 55 e seguenti confermati. Verifica umana richiesta per CCNL, codici integrativi, termini disciplinari e disciplina applicabile alla singola amministrazione.

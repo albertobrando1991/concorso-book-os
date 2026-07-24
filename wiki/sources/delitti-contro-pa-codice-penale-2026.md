@@ -9,7 +9,7 @@ entities: ["Codice penale", "Pubblico ufficiale", "Incaricato di pubblico serviz
 source_refs: ["sources/legge-6-novembre-2012-n-190-anticorruzione.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.96
-updated_at: "2026-07-21T16:25:00+02:00"
+updated_at: "2026-07-23T00:00:00+02:00"
 created_at: "2026-07-14T00:00:00+02:00"
 review_required: true
 canonical: true
@@ -45,4 +45,4 @@ Per una copertura concorsuale essenziale vanno inoltre riconosciute, senza entra
 
 ## Stato revisione
 
-Quadro essenziale riesaminato sulle fonti ufficiali il 21 luglio 2026. Il capitolo non riporta pene o dettagli processuali non necessari al livello base; tali profili richiedono revisione specialistica.
+Quadro essenziale ricontrollato sulle fonti ufficiali il 23 luglio 2026: l'art. 314-bis c.p. resta vigente e l'art. 323 c.p. resta abrogato. Il capitolo non riporta pene o dettagli processuali non necessari al livello base; tali profili richiedono revisione specialistica.

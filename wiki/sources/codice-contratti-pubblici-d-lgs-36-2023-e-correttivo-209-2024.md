@@ -9,7 +9,7 @@ entities: ["Codice dei contratti pubblici","D.Lgs. 36/2023","D.Lgs. 209/2024","A
 source_refs: []
 book_refs: ["il-metodo-bando"]
 confidence: 0.96
-updated_at: "2026-07-21T15:30:00+02:00"
+updated_at: "2026-07-23T00:00:00+02:00"
 created_at: "2026-05-26T00:00:00+02:00"
 review_required: true
 canonical: true
@@ -25,7 +25,7 @@ authority_level: alta
 ## Esito della verifica normativa
 
 - **Fonte primaria consolidata:** Normattiva, D.Lgs. 31 marzo 2023, n. 36.
-- **Data di verifica editoriale:** 21 luglio 2026.
+- **Data di verifica editoriale:** 23 luglio 2026.
 - **Vigenza mostrata dalla fonte:** 30 giugno 2026.
 - **Ultimo aggiornamento dell'atto segnalato da Normattiva:** atto pubblicato il 23 marzo 2026.
 - **Conseguenza editoriale:** il D.Lgs. 209/2024 resta un correttivo fondamentale, ma non puo essere presentato come l'ultimo aggiornamento disponibile del Codice.
@@ -90,7 +90,7 @@ La matrice verifica i claim effettivamente presenti nel capitolo base. Non equiv
 ## Fonti ufficiali consultate
 
 - Normattiva, testo vigente del D.Lgs. 36/2023: <https://www.normattiva.it/atto/caricaDettaglioAtto?atto.codiceRedazionale=23G00044&atto.dataPubblicazioneGazzetta=2023-03-31&bloccoAggiornamentoBreadCrumb=true&classica=true&dataVigenza=&generaTabId=true&qId=&tabID=0.3940759726277189&tipoDettaglio=vigente&title=lbl.dettaglioAtto>
-- ANAC, Piattaforma Contratti Pubblici, aggiornata il 29 settembre 2025: <https://www.anticorruzione.it/-/piattaforma-contratti%2Bpubblici>
+- ANAC, Piattaforma Contratti Pubblici, aggiornata il 29 settembre 2025 e ricontrollata il 23 luglio 2026: <https://www.anticorruzione.it/-/piattaforma-contratti%2Bpubblici>
 
 ## Errori da evitare
 

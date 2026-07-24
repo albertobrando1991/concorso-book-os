@@ -9,7 +9,7 @@ entities: ["Legge 241/1990", "Responsabile del procedimento", "Conferenza di ser
 source_refs: ["sources/legge-2-dicembre-2025-n-182-semplificazioni-autotutela.md"]
 book_refs: ["manuale-concorso-funzionari-enti-locali", "il-metodo-bando"]
 confidence: 0.98
-updated_at: 2026-07-21T14:45:00+02:00
+updated_at: 2026-07-23T00:00:00+02:00
 created_at: 2026-05-09T00:05:00.000Z
 review_required: true
 canonical: true
@@ -61,7 +61,7 @@ Fonte primaria ufficiale per la disciplina generale del procedimento amministrat
 - [[books/il-metodo-bando/chapters/diritto-amministrativo-per-candidati]]
 
 ## Stato revisione
-Fonte primaria verificata su Normattiva il 21 luglio 2026. Resta richiesta la review umana su modifiche, note normative e rinvii immediatamente prima della pubblicazione.
+Fonte primaria ricontrollata su Normattiva il 23 luglio 2026: pagina generale vigente al 25 febbraio 2026, ultimo aggiornamento dell'atto rilevato il 10 dicembre 2025. Resta richiesta la review umana su modifiche, note normative e rinvii immediatamente prima della pubblicazione.
 
 ## Note editoriali
 Usare questa fonte come base normativa ufficiale; trasformare gli articoli in spiegazione concorsuale, mappe, casi pratici e domande, evitando lunghe riproduzioni nel testo del libro.

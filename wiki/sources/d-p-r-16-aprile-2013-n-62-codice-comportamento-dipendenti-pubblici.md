@@ -9,7 +9,7 @@ entities: ["Dipendente pubblico","Pubblica amministrazione"]
 source_refs: ["sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego.md","sources/legge-6-novembre-2012-n-190-anticorruzione.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.97
-updated_at: "2026-07-21T16:10:00+02:00"
+updated_at: "2026-07-23T00:00:00+02:00"
 created_at: "2026-05-25T21:25:00+02:00"
 review_required: true
 canonical: true
@@ -39,4 +39,4 @@ Il decreto contiene il codice generale di comportamento dei dipendenti pubblici,
 
 ## Stato revisione
 
-Fonte ufficiale Normattiva verificata in P7; la pagina consultata risulta vigente al 29 aprile 2026. Prima di costruire casi disciplinari avanzati, verificare il codice integrativo della singola amministrazione e il CCNL applicabile.
+Fonte ufficiale Normattiva ricontrollata in P23; la pagina consultata risulta vigente al 10 luglio 2026. Prima di costruire casi disciplinari avanzati, verificare il codice integrativo della singola amministrazione e il CCNL applicabile.
