@@ -9,7 +9,7 @@ entities: ["Metodo BANDO", "Bando Decoder", "Diario degli errori", "Piano 30/60/
 source_refs: ["sources/giorno-prova-concorso-metodo-bando.md", "sources/checklist-operative-concorsi-metodo-bando.md", "sources/strategia-punteggio-prova-concorsuale-metodo-bando.md", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md", "sources/simulazioni-concorsuali-metodo-bando.md", "sources/sostenibilita-preparazione-concorsi-metodo-bando.md", "sources/dopo-prova-esiti-graduatoria-metodo-bando.md", "sources/scienze-apprendimento-pianificazione-metacognizione-errori.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.88
-updated_at: 2026-06-09T16:23:01+02:00
+updated_at: 2026-07-24T00:00:00+02:00
 created_at: 2026-06-09T16:23:01+02:00
 review_required: true
 canonical: true
@@ -22,9 +22,7 @@ last_compiled_from: ["sources/giorno-prova-concorso-metodo-bando.md", "topics/gi
 
 # Capitolo 38 - Il giorno della prova: routine, logistica e lucidità operativa
 
-Il giorno della prova non è il giorno in cui devi diventare un altro candidato.
-
-È il giorno in cui devi eseguire il candidato che hai costruito.
+Il giorno della prova richiede di eseguire ciò che hai già preparato.
 
 Se hai letto il bando, scelto materiali, fatto simulazioni, corretto errori, tagliato ciò che non serviva e preparato una strategia di punteggio, l'obiettivo finale non è aggiungere altra pressione.
 

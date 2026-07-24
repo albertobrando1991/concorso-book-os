@@ -9,7 +9,7 @@ entities: ["Metodo BANDO", "Bando Decoder", "Diario degli errori", "Piano 30/60/
 source_refs: ["sources/caso-completo-bando-prova-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/struttura-madre-il-metodo-bando.md", "sources/template-bando-decoder-metodo-bando.md", "sources/piano-studio-personale-metodo-bando.md", "sources/checklist-operative-concorsi-metodo-bando.md", "sources/simulazioni-concorsuali-metodo-bando.md", "sources/schede-operative-studio-metodo-bando.md", "sources/strategia-punteggio-prova-concorsuale-metodo-bando.md", "sources/giorno-prova-concorso-metodo-bando.md", "sources/ripasso-finale-concorsi-metodo-bando.md", "sources/intervallo-tra-prove-concorsuali-metodo-bando.md", "sources/capitale-studio-riutilizzabile-metodo-bando.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.9
-updated_at: 2026-06-12T10:30:00+02:00
+updated_at: 2026-07-24T00:00:00+02:00
 created_at: 2026-06-12T10:30:00+02:00
 review_required: true
 canonical: true
@@ -32,13 +32,7 @@ Non lo sono.
 
 Il Bando Decoder non serve a fare una bella scheda.
 
-Il piano non serve a riempire caselle.
-
-Il Diario degli errori non serve a registrare colpe.
-
-La simulazione non serve a dire se sei bravo o no.
-
-Tutto il sistema serve a una cosa sola: portarti da un bando reale a una prova eseguita con ordine.
+Piano, Diario degli errori e simulazione lavorano insieme per portarti da un bando reale a una prova eseguita con ordine.
 
 Questo capitolo è un laboratorio. Useremo un bando fittizio ma realistico e seguiremo un candidato dall'apertura del file alla prova. Non dovrai ricordare nuove regole. Dovrai vedere il metodo in movimento.
 

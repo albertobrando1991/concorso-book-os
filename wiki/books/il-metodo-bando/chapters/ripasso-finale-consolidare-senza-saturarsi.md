@@ -9,7 +9,7 @@ entities: ["Metodo BANDO", "Bando Decoder", "Diario degli errori", "Piano 30/60/
 source_refs: ["sources/ripasso-finale-concorsi-metodo-bando.md", "sources/apprendimento-efficace-active-recall-ripasso-distribuito.md", "sources/scienze-apprendimento-pianificazione-metacognizione-errori.md", "sources/schede-operative-studio-metodo-bando.md", "sources/simulazioni-concorsuali-metodo-bando.md", "sources/taglio-priorita-studio-concorsi-metodo-bando.md", "sources/strategia-punteggio-prova-concorsuale-metodo-bando.md", "sources/giorno-prova-concorso-metodo-bando.md", "sources/checklist-operative-concorsi-metodo-bando.md", "sources/sostenibilita-preparazione-concorsi-metodo-bando.md", "sources/capitoli-21-23-corpus-moduli-piano-diario-2026-06-01.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.88
-updated_at: 2026-06-10T15:08:28+02:00
+updated_at: 2026-07-24T00:00:00+02:00
 created_at: 2026-06-10T15:08:28+02:00
 review_required: true
 canonical: true
@@ -40,9 +40,7 @@ Serve a chiudere bene.
 
 Nel Metodo BANDO, chiudere bene significa portare in prova un sistema leggibile: bando sotto controllo, nuclei ad alta resa attivi, errori ricorrenti ridotti, output provati, logistica verificata e testa abbastanza libera da eseguire.
 
-Il candidato forte non è quello che negli ultimi giorni studia più di tutti.
-
-È quello che sa che cosa non deve più complicare.
+Negli ultimi giorni serve sapere che cosa mantenere attivo e che cosa non complicare.
 
 ## Obiettivo del capitolo
 
@@ -59,7 +57,7 @@ Alla fine del capitolo saprai:
 
 La regola guida è:
 
-> negli ultimi giorni non devi dimostrare di avere studiato tanto. Devi rendere disponibile ciò che hai studiato.
+> negli ultimi giorni rendi disponibile ciò che hai studiato.
 
 ## La mappa BANDO del ripasso finale
 

@@ -9,7 +9,7 @@ entities: ["Metodo BANDO", "Bando Decoder", "Diario degli errori"]
 source_refs: ["sources/banca-dati-ufficiale-quiz-metodo-bando.md", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md", "sources/apprendimento-efficace-active-recall-ripasso-distribuito.md", "sources/scelta-materiali-studio-concorsi-metodo-bando.md", "sources/simulazioni-concorsuali-metodo-bando.md", "sources/strategia-punteggio-prova-concorsuale-metodo-bando.md", "sources/ripasso-finale-concorsi-metodo-bando.md", "sources/checklist-operative-concorsi-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/struttura-madre-il-metodo-bando.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.9
-updated_at: 2026-06-14T17:00:00+02:00
+updated_at: 2026-07-24T00:00:00+02:00
 created_at: 2026-06-14T17:00:00+02:00
 review_required: true
 canonical: true
@@ -26,7 +26,7 @@ La banca dati ufficiale sembra una scorciatoia.
 
 Hai le domande. Hai le risposte. Sai che cosa può uscire. Il problema, almeno in apparenza, è risolto.
 
-In realta, molti candidati peggiorano proprio quando esce la banca dati. Entrano in modalità accumulo: mille quiz al giorno, screenshot, file duplicati, app, gruppi, ripassi casuali, classifiche di percentuale. Dopo pochi giorni riconoscono molte domande, ma non sanno più se stanno capendo o solo ricordando l'ordine delle opzioni.
+Molti candidati peggiorano proprio quando esce la banca dati. Entrano in modalità accumulo: mille quiz al giorno, screenshot, file duplicati, app, gruppi, ripassi casuali e classifiche di percentuale. Dopo pochi giorni riconoscono molte domande, ma non sanno più se stanno capendo o ricordando solo l'ordine delle opzioni.
 
 La banca dati ufficiale è potente solo se la tratti come uno strumento di procedura, non come una giostra di domande.
 
@@ -34,7 +34,7 @@ Questo capitolo ti insegna a usarla senza memorizzare male.
 
 La regola è semplice:
 
-> la banca dati ufficiale non si consuma; si governa.
+> la banca dati ufficiale va governata, non consumata.
 
 ## Obiettivo del capitolo
 

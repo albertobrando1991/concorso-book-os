@@ -9,7 +9,7 @@ entities: ["Metodo BANDO", "Bando Decoder", "Diario degli errori", "Piano 30/60/
 source_refs: ["sources/taglio-priorita-studio-concorsi-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/struttura-madre-il-metodo-bando.md", "sources/capitoli-21-23-corpus-moduli-piano-diario-2026-06-01.md", "sources/apprendimento-efficace-active-recall-ripasso-distribuito.md", "sources/scienze-apprendimento-pianificazione-metacognizione-errori.md", "sources/scelta-materiali-studio-concorsi-metodo-bando.md", "sources/simulazioni-concorsuali-metodo-bando.md", "sources/schede-operative-studio-metodo-bando.md", "sources/sostenibilita-preparazione-concorsi-metodo-bando.md", "sources/capitale-studio-riutilizzabile-metodo-bando.md", "sources/checklist-operative-concorsi-metodo-bando.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.89
-updated_at: 2026-06-09T11:08:53+02:00
+updated_at: 2026-07-24T00:00:00+02:00
 created_at: 2026-06-09T11:08:53+02:00
 review_required: true
 canonical: true
@@ -71,9 +71,7 @@ La preparazione per un concorso pubblico non avviene in un laboratorio perfetto.
 
 Avviene tra lavoro, famiglia, imprevisti, scadenze, notifiche, nuovi bandi, manuali lunghi, corsi, quiz, gruppi online e aggiornamenti.
 
-Il problema non è solo studiare.
-
-Il problema è scegliere.
+La difficoltà sta nello scegliere.
 
 Scegliere cosa aprire oggi. Scegliere cosa chiudere. Scegliere quando passare dalla lettura al quiz. Scegliere quando una materia è sufficientemente coperta per il livello richiesto. Scegliere quando un errore richiede ripasso e quando invece è un caso isolato.
 
@@ -83,7 +81,7 @@ Ma spesso "poi" non arriva.
 
 Arriva la prova.
 
-Per questo il taglio non è una rinuncia al metodo. È una parte del metodo.
+Per questo il taglio fa parte del metodo.
 
 Le fonti consolidate del libro indicano già una direzione precisa: il piano deve alternare studio, richiamo attivo, output, correzione, ripasso e simulazione. Quando il tempo si contrae, non devi eliminare proprio queste azioni. Devi eliminare ciò che le impedisce.
 

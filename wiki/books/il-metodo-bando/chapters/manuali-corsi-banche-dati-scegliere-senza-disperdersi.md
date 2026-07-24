@@ -9,7 +9,7 @@ entities: ["Metodo BANDO", "Bando Decoder", "Diario degli errori", "inPA"]
 source_refs: ["sources/scelta-materiali-studio-concorsi-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/struttura-madre-il-metodo-bando.md", "sources/metodo-bando-capitolo-13-bozza-sito-2026-05-30.md", "sources/apprendimento-efficace-active-recall-ripasso-distribuito.md", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md", "sources/fonti-ufficiali-aggiornamento-metodo-bando-2026-06-03.md", "sources/strumenti-digitali-metodo-bando.md", "sources/capitale-studio-riutilizzabile-metodo-bando.md", "sources/checklist-operative-concorsi-metodo-bando.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.91
-updated_at: 2026-07-01T19:00:00+02:00
+updated_at: 2026-07-24T00:00:00+02:00
 created_at: 2026-06-07T19:55:28+02:00
 review_required: true
 canonical: true
@@ -17,6 +17,7 @@ tags: ["book-chapter", "extra-chapter", "study-materials", "method", "workbook"]
 book_id: il-metodo-bando
 outline_section: 33
 draft_stage: professional-complete-draft
+last_humanizer_revision: 2026-07-24
 last_compiled_from: ["sources/scelta-materiali-studio-concorsi-metodo-bando.md", "topics/scelta-materiali-studio-concorsi.md", "topics/metodo-bando.md", "topics/metodo-di-studio.md", "topics/prova-a-quiz.md", "topics/aggiornamento-fonti-concorsi.md", "topics/capitale-studio-riutilizzabile.md"]
 ---
 
@@ -28,7 +29,7 @@ Molti candidati iniziano la preparazione con una domanda sbagliata:
 
 > quale manuale devo comprare?
 
-La domanda sembra concreta. In realta arriva troppo presto.
+La domanda è concreta, ma arriva troppo presto.
 
 Prima di sapere che cosa chiede il bando, quale prova dovrai affrontare, quanto tempo hai, quali materie pesano davvero e quale capitale possiedi già, nessun materiale può essere valutato bene.
 
@@ -38,11 +39,11 @@ Un corso può essere serio e incompatibile con il tuo calendario.
 
 Una banca dati può contenere migliaia di quiz e non allenare il ragionamento che ti serve.
 
-Il problema non è avere pochi materiali. Il problema è avere materiali non governati.
+Il problema nasce quando i materiali non hanno una funzione nel piano.
 
 Questo capitolo ti insegna a scegliere senza accumulare.
 
-Non troverai nomi di prodotti, editori o piattaforme. Troverai criteri. perché i prodotti cambiano, i criteri restano.
+Il capitolo propone criteri, non nomi di prodotti, editori o piattaforme: i prodotti cambiano, i criteri restano.
 
 ## Obiettivo del capitolo
 
@@ -59,7 +60,7 @@ Alla fine del capitolo saprai:
 
 La regola è questa:
 
-> non scegli il materiale per sentirti preparato. Lo scegli per produrre l'output richiesto dal bando.
+> scegli il materiale in funzione dell'output richiesto dal bando.
 
 ## La mappa BANDO dei materiali
 

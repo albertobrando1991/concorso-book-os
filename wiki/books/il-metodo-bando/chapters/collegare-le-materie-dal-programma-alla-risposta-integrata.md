@@ -9,7 +9,7 @@ entities: ["Metodo BANDO", "Bando Decoder", "Diario degli errori"]
 source_refs: ["sources/collegare-materie-risposta-integrata-metodo-bando.md", "sources/schema-universale-risposta-orale-metodo-bando.md", "sources/risposta-sintetica-domande-aperte-metodo-bando.md", "sources/confrontare-istituti-simili-metodo-bando.md", "sources/schede-operative-studio-metodo-bando.md", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md", "sources/parole-chiave-concorsi-metodo-bando.md", "sources/simulazioni-concorsuali-metodo-bando.md", "sources/matrice-materie-profili-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/struttura-madre-il-metodo-bando.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.9
-updated_at: 2026-06-16T22:01:00+02:00
+updated_at: 2026-07-24T00:00:00+02:00
 created_at: 2026-06-16T22:01:00+02:00
 review_required: true
 canonical: true
@@ -30,13 +30,11 @@ Poi arriva la prova.
 
 La domanda non rispetta sempre quelle caselle. Un caso pratico può partire da un procedimento e arrivare a responsabilità, accesso, trasparenza, dati, competenza, ufficio, tempi e decisione. Una domanda orale può iniziare con una definizione e finire con: "Mi faccia un collegamento con l'organizzazione dell'ente". Una risposta scritta può essere corretta ma povera perché resta chiusa dentro una sola materia.
 
-Il punto non è collegare tutto.
-
-Il punto è collegare bene.
+Conta collegare bene, senza aprire collegamenti inutili.
 
 La regola del capitolo è:
 
-> un collegamento vale solo se ti riporta alla domanda.
+> un collegamento vale quando ti riporta alla domanda.
 
 ## Obiettivo del capitolo
 

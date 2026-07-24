@@ -9,7 +9,7 @@ entities: ["Metodo BANDO", "Bando Decoder", "Diario degli errori", "Piano 30/60/
 source_refs: ["sources/strategia-punteggio-prova-concorsuale-metodo-bando.md", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md", "sources/simulazioni-concorsuali-metodo-bando.md", "sources/taglio-priorita-studio-concorsi-metodo-bando.md", "sources/checklist-operative-concorsi-metodo-bando.md", "sources/capitoli-21-23-corpus-moduli-piano-diario-2026-06-01.md", "sources/scienze-apprendimento-pianificazione-metacognizione-errori.md", "sources/apprendimento-efficace-active-recall-ripasso-distribuito.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.88
-updated_at: 2026-06-09T13:08:02+02:00
+updated_at: 2026-07-24T00:00:00+02:00
 created_at: 2026-06-09T13:08:02+02:00
 review_required: true
 canonical: true
@@ -62,9 +62,7 @@ Alla fine del capitolo saprai:
 - adattare la strategia a quiz, scritto, orale e prove miste;
 - evitare errori di esecuzione negli ultimi minuti.
 
-Il punto non è diventare freddo o meccanico.
-
-Il punto è arrivare alla prova con decisioni già provate.
+L'obiettivo è arrivare alla prova con decisioni già provate.
 
 ## Prima regola: il bando decide il gioco
 

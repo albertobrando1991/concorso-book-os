@@ -9,7 +9,7 @@ entities: ["Metodo BANDO", "Bando Decoder", "Diario degli errori"]
 source_refs: ["sources/risposta-sintetica-domande-aperte-metodo-bando.md", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md", "sources/schede-operative-studio-metodo-bando.md", "sources/strategia-punteggio-prova-concorsuale-metodo-bando.md", "sources/scelta-materiali-studio-concorsi-metodo-bando.md", "sources/apprendimento-efficace-active-recall-ripasso-distribuito.md", "sources/parole-chiave-concorsi-metodo-bando.md", "sources/schema-universale-risposta-orale-metodo-bando.md", "sources/checklist-operative-concorsi-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/struttura-madre-il-metodo-bando.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.9
-updated_at: 2026-06-14T22:05:00+02:00
+updated_at: 2026-07-24T00:00:00+02:00
 created_at: 2026-06-14T22:05:00+02:00
 review_required: true
 canonical: true
@@ -26,7 +26,7 @@ La risposta sintetica è una prova di selezione.
 
 Non selezione tra candidati, almeno non solo. Selezione tra ciò che sai e ciò che serve.
 
-Molti candidati pensano che una risposta breve sia più facile di un elaborato lungo. In realta, spesso è più difficile: non hai spazio per riscaldarti, per girare intorno al tema, per recuperare dopo un avvio confuso. Devi capire subito la traccia e scegliere subito che cosa mettere.
+Molti candidati pensano che una risposta breve sia più facile di un elaborato lungo. Spesso richiede più precisione: lo spazio è ridotto e la traccia va capita subito.
 
 La risposta sintetica non premia chi scrive meno.
 

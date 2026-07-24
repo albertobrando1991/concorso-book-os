@@ -9,7 +9,7 @@ entities: ["Metodo BANDO", "Bando Decoder", "Diario degli errori", "Piano 30/60/
 source_refs: ["sources/schede-operative-studio-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/struttura-madre-il-metodo-bando.md", "sources/apprendimento-efficace-active-recall-ripasso-distribuito.md", "sources/capitale-studio-riutilizzabile-metodo-bando.md", "sources/scelta-materiali-studio-concorsi-metodo-bando.md", "sources/schema-universale-risposta-orale-metodo-bando.md", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md", "sources/simulazioni-concorsuali-metodo-bando.md", "sources/checklist-operative-concorsi-metodo-bando.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.9
-updated_at: 2026-06-09T09:45:44+02:00
+updated_at: 2026-07-24T00:00:00+02:00
 created_at: 2026-06-09T09:45:44+02:00
 review_required: true
 canonical: true
@@ -30,13 +30,7 @@ La differenza si vede quando arriva una domanda: chi ha appunti cerca dove aveva
 
 Una scheda operativa serve a questo.
 
-Non è un riassunto più ordinato.
-
-Non è una pagina copiata dal manuale.
-
-Non è una raccolta di frasi da imparare a memoria.
-
-È una pagina breve che collega quattro cose:
+Una scheda operativa è una pagina breve che collega quattro elementi:
 
 - una domanda;
 - un nucleo;

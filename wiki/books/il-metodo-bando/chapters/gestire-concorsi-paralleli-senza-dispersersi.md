@@ -9,7 +9,7 @@ entities: ["Metodo BANDO", "Bando Decoder", "Piano 30/60/90 giorni", "Diario deg
 source_refs: ["sources/gestione-concorsi-paralleli-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/struttura-madre-il-metodo-bando.md", "sources/template-bando-decoder-metodo-bando.md", "sources/piano-studio-personale-metodo-bando.md", "sources/checklist-operative-concorsi-metodo-bando.md", "sources/matrice-materie-profili-metodo-bando.md", "sources/capitale-studio-riutilizzabile-metodo-bando.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.91
-updated_at: 2026-07-01T14:30:00+02:00
+updated_at: 2026-07-24T00:00:00+02:00
 created_at: 2026-06-07T16:41:24+02:00
 review_required: true
 canonical: true
@@ -18,19 +18,18 @@ book_id: il-metodo-bando
 outline_section: 27
 draft_stage: professional-complete-draft
 last_compiled_from: ["sources/gestione-concorsi-paralleli-metodo-bando.md", "topics/concorsi-paralleli.md", "topics/bando-decoder.md", "topics/piano-30-60-90-giorni.md", "topics/moduli-integrativi.md", "topics/capitale-studio-riutilizzabile.md"]
+last_humanizer_revision: 2026-07-24
 ---
 
 # Capitolo 27 - Gestire concorsi paralleli senza disperdersi
 
 > Modulo ricettario **R3** — Portafoglio concorsi e calendario unico. Collega Cap. 26, Cap. 22 e Appendice D.
 
-Il problema non è avere un solo concorso da preparare.
-
-Il problema vero arriva quando i bandi diventano due, tre, quattro. Uno scade tra venti giorni, uno ha materie simili ma una prova diversa, uno sembra più vicino al tuo profilo, un altro ha più posti. A quel punto molti candidati fanno una cosa pericolosa: aprono un calendario per ogni concorso, una cartella per ogni bando, un gruppo di appunti per ogni materia e iniziano a rincorrere tutto.
+La preparazione cambia quando i bandi diventano due, tre o quattro. Uno scade tra venti giorni, uno ha materie simili ma una prova diversa, uno sembra più vicino al tuo profilo, un altro ha più posti. A quel punto molti candidati aprono un calendario per ogni concorso, una cartella per ogni bando e un gruppo di appunti per ogni materia, poi iniziano a rincorrere tutto.
 
 Il risultato è prevedibile. Le ore aumentano sulla carta, ma diminuiscono nella realta. Il candidato legge molto, cambia priorità ogni giorno, salta simulazioni, accumula materiali e arriva alle prove con la sensazione di non aver chiuso nulla.
 
-Il Metodo BANDO serve proprio qui: non per convincerti a tentare ogni procedura, ma per decidere quali concorsi possono convivere nello stesso sistema di studio.
+Il Metodo BANDO aiuta a decidere quali concorsi possono convivere nello stesso sistema di studio.
 
 Preparare concorsi paralleli non significa studiare tutto insieme. Significa costruire un portafoglio ordinato: un concorso guida, uno o due concorsi satellite e, se necessario, alcuni concorsi parcheggiati.
 
@@ -67,7 +66,7 @@ Questa mappa evita l'errore più frequente: decidere in base all'ansia. Non è u
 
 ## Il portafoglio concorsi
 
-Quando hai più bandi davanti, non devi trattarli tutti allo stesso modo. Devi assegnare un ruolo.
+Quando hai più bandi davanti, assegna a ciascuno un ruolo.
 
 ### Concorso guida
 

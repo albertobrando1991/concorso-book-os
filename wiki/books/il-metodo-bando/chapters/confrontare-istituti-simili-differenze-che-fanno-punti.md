@@ -9,7 +9,7 @@ entities: ["Metodo BANDO", "Diario degli errori", "Bando Decoder"]
 source_refs: ["sources/confrontare-istituti-simili-metodo-bando.md", "sources/risposta-sintetica-domande-aperte-metodo-bando.md", "sources/schema-universale-risposta-orale-metodo-bando.md", "sources/schede-operative-studio-metodo-bando.md", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md", "sources/parole-chiave-concorsi-metodo-bando.md", "sources/apprendimento-efficace-active-recall-ripasso-distribuito.md", "sources/strategia-punteggio-prova-concorsuale-metodo-bando.md", "sources/checklist-operative-concorsi-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/struttura-madre-il-metodo-bando.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.9
-updated_at: 2026-06-15T14:15:00+02:00
+updated_at: 2026-07-24T00:00:00+02:00
 created_at: 2026-06-15T14:15:00+02:00
 review_required: true
 canonical: true
@@ -26,7 +26,7 @@ Nei concorsi, molte domande non chiedono solo: "Che cos'è?".
 
 Chiedono: "Che differenza c'è?".
 
-La differenza sembra una domanda semplice. In realta è una delle prove più severe: se conosci due istituti solo come definizioni isolate, appena devi metterli a confronto ti confondi.
+La domanda sulle differenze sembra semplice, ma richiede precisione: se conosci due istituti solo come definizioni isolate, nel confronto rischi di confonderti.
 
 Succede con accessi diversi, atti diversi, responsabilità diverse, fasi diverse, strumenti digitali diversi, procedure diverse. Succede anche nel quiz: il distrattore non è una risposta assurda, ma un istituto vicino messo nel posto sbagliato.
 
@@ -34,7 +34,7 @@ Il confronto è una competenza. Si può allenare.
 
 La regola del capitolo è:
 
-> non basta sapere due cose; devi sapere dove si separano.
+> per confrontare due istituti devi sapere dove si separano.
 
 ## Obiettivo del capitolo
 

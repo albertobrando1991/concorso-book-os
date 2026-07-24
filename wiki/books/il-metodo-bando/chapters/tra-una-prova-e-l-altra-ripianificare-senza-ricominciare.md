@@ -9,7 +9,7 @@ entities: ["Metodo BANDO", "Bando Decoder", "Diario degli errori", "Piano 30/60/
 source_refs: ["sources/intervallo-tra-prove-concorsuali-metodo-bando.md", "sources/dopo-prova-esiti-graduatoria-metodo-bando.md", "sources/giorno-prova-concorso-metodo-bando.md", "sources/strategia-punteggio-prova-concorsuale-metodo-bando.md", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md", "sources/capitale-studio-riutilizzabile-metodo-bando.md", "sources/schema-universale-risposta-orale-metodo-bando.md", "sources/simulazioni-concorsuali-metodo-bando.md", "sources/checklist-operative-concorsi-metodo-bando.md", "sources/sostenibilita-preparazione-concorsi-metodo-bando.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.88
-updated_at: 2026-06-09T18:04:45+02:00
+updated_at: 2026-07-24T00:00:00+02:00
 created_at: 2026-06-09T18:04:45+02:00
 review_required: true
 canonical: true
@@ -28,9 +28,7 @@ Finisce quando hai trasformato quello che è accaduto in una decisione.
 
 Se il concorso prevede più fasi, l'errore più frequente è trattare ogni prova come un mondo separato: prima il quiz, poi si vedra; prima lo scritto, poi si vedra; prima l'esito, poi si vedra.
 
-Questo atteggiamento sembra prudente.
-
-In realta spesso fa perdere tempo.
+Questo atteggiamento sembra prudente, ma spesso fa perdere tempo.
 
 perché tra una prova e l'altra il candidato può fare tre cose molto diverse:
 
@@ -40,9 +38,7 @@ perché tra una prova e l'altra il candidato può fare tre cose molto diverse:
 
 Il Metodo BANDO sceglie la terza strada.
 
-Tra una prova e l'altra non devi ricominciare da zero.
-
-Devi ripianificare.
+Tra una prova e l'altra ripianifica il lavoro già svolto.
 
 ## Obiettivo del capitolo
 
@@ -59,7 +55,7 @@ Alla fine del capitolo saprai:
 
 La regola è:
 
-> l'intervallo non è pausa dal metodo. È manutenzione del metodo.
+> l'intervallo serve alla manutenzione del metodo.
 
 ## La mappa BANDO tra prove
 
