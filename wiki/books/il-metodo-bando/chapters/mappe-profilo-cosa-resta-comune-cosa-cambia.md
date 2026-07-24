@@ -9,14 +9,14 @@ entities: ["Metodo BANDO", "Moduli Profilo", "Bando Decoder", "inPA", "ARAN"]
 source_refs: ["sources/struttura-madre-il-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/capitolo-19-20-corpus-profili-concorsuali-2026-05-30.md", "sources/ccnl-comparti-aree-famiglie-professionali-pa.md", "sources/bandi-rappresentativi-profili-concorsuali-inpa-agenzie-enti-2025-2026.md", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.9
-updated_at: 2026-07-21T00:00:00+02:00
+updated_at: 2026-07-24T00:00:00+02:00
 created_at: 2026-05-10T11:45:00+02:00
 review_required: true
 canonical: true
 tags: ["book-chapter", "part-4", "profile-map"]
 book_id: il-metodo-bando
 outline_section: 20
-draft_stage: revised-editorial-draft
+draft_stage: editorial-review
 last_compiled_from: ["sources/capitolo-19-20-corpus-profili-concorsuali-2026-05-30.md", "topics/mappe-profilo.md", "topics/famiglie-concorsuali.md", "topics/nucleo-comune-concorsi-pubblici.md"]
 ---
 
@@ -47,7 +47,7 @@ Alla fine del capitolo devi saper costruire una scheda rapida per qualunque prof
 - cosa studiare prima;
 - cosa non approfondire troppo.
 
-Il risultato non è una previsione perfetta. È una decisione migliore.
+La mappa non offre una previsione perfetta; aiuta a prendere una decisione migliore.
 
 ## La regola base: core più modulo
 
@@ -173,7 +173,7 @@ Studia il comune come macchina decisionale. Per ogni tema chiediti: consiglio, g
 
 Strategia:
 
-Costruisci prima il core, poi dedica un blocco al ministero. Non basta sapere "pubblica amministrazione": devi conoscere la funzione dell'amministrazione che assume e il lessico del settore.
+Costruisci prima il core, poi dedica un blocco al ministero. Conoscere la "pubblica amministrazione" in generale non basta: devi capire la funzione dell'amministrazione che assume e il lessico del settore.
 
 ## Mappa 5 - Giustizia
 
@@ -482,7 +482,7 @@ Se mancano tre o più risposte, non sei ancora nella fase di studio: sei ancora 
 
 ## Da sapere in 5 righe
 
-La mappa profilo trasforma il bando in strategia. Il nucleo comune permette di non ricominciare da zero; il modulo profilo impedisce di restare generici. Ogni materia va pesata rispetto alla prova reale. Le mappe non servono a prevedere tutto, ma a scegliere meglio. Il candidato efficace non studia solo di più: rialloca il tempo dove il bando crea selezione.
+La mappa profilo traduce il bando in una strategia. Il nucleo comune evita di ricominciare da zero, mentre il modulo profilo dà precisione alla preparazione. Pesa ogni materia rispetto alla prova reale e rialloca il tempo dove il bando crea selezione.
 
 ## Fonti consolidate
 

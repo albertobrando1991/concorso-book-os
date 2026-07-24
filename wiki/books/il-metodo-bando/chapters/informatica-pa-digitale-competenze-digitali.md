@@ -14,17 +14,17 @@ canonical: true
 tags: ["book-chapter", "common-subject"]
 book_id: il-metodo-bando
 outline_section: 10
-draft_stage: editorial-revision
+draft_stage: editorial-review
 last_compiled_from: ["wiki/sources/informatica-concorsi-corpus-fonti-ufficiali-2026-05-27.md", "wiki/sources/informatica-operativa-office-sistemi-hardware.md", "wiki/sources/reti-web-protocolli-concorsi.md", "wiki/sources/database-programmazione-formati-concorsi.md", "wiki/sources/pa-digitale-cad-identita-documenti-servizi-dati.md", "wiki/sources/sicurezza-informatica-privacy-nis2-pa.md", "wiki/topics/informatica.md", "wiki/topics/competenze-digitali.md", "wiki/topics/pa-digitale.md"]
 created_at: "2026-05-10T11:45:00+02:00"
-updated_at: 2026-07-21T14:20:00+02:00
+updated_at: 2026-07-23T00:00:00+02:00
 ---
 
 # Capitolo 10 - Informatica, PA digitale e competenze digitali
 
 ## Perché questo capitolo pesa nei concorsi
 
-L'informatica nei concorsi pubblici non è una materia unica e compatta. È un blocco di competenze che va dall'uso quotidiano del computer alla normativa sulla PA digitale. Nelle banche dati compaiono domande molto pratiche, come la differenza tra file e cartella, il significato di una formula in un foglio elettronico o la funzione di un browser. Accanto a queste, però, compaiono quesiti su PEC, SPID, documento informatico, firma digitale, protezione dei dati, sicurezza e servizi digitali della pubblica amministrazione.
+L'informatica nei concorsi pubblici raccoglie competenze che vanno dall'uso quotidiano del computer alla PA digitale. Nelle banche dati compaiono domande pratiche, come la differenza tra file e cartella, il significato di una formula in un foglio elettronico o la funzione di un browser, insieme a quesiti su PEC, SPID, documento informatico, firma digitale, protezione dei dati, sicurezza e servizi digitali della pubblica amministrazione.
 
 Il candidato efficace deve evitare due errori opposti. Il primo è studiare solo la parte normativa, trascurando videoscrittura, fogli elettronici, sistemi operativi, posta e reti. Il secondo è trattare l'informatica come un insieme di nozioni isolate. Nei concorsi la tecnologia è spesso collegata all'azione amministrativa: protocollo, comunicazioni, conservazione, identità digitale, protezione dei dati, accessibilità e riuso delle informazioni.
 
@@ -792,7 +792,7 @@ Il protocollo non è un semplice timbro digitale. È parte del sistema di gestio
 
 ### Conservazione digitale
 
-La **conservazione** mira a garantire nel tempo autenticità, integrità, affidabilità, leggibilità e reperibilità dei documenti informatici. Non basta salvare un file in una cartella o su un disco. La conservazione richiede processi, responsabilità, metadati, formati idonei, pacchetti di conservazione e regole.
+La **conservazione** garantisce nel tempo autenticità, integrità, affidabilità, leggibilità e reperibilità dei documenti informatici. Richiede processi, responsabilità, metadati, formati idonei, pacchetti di conservazione e regole: salvare un file in una cartella o su un disco non basta.
 
 > [!WARNING]
 > **Errore tipico**
@@ -962,7 +962,7 @@ Caratteristiche essenziali:
 
 ## 17. Cloud, accessibilità e qualità dei servizi digitali
 
-La trasformazione digitale della PA non si esaurisce nella messa online di moduli. Richiede servizi progettati per essere usabili, accessibili, sicuri, affidabili e coerenti.
+Mettere moduli online non basta a digitalizzare la PA. I servizi devono essere usabili, accessibili, sicuri, affidabili e coerenti.
 
 ### Cloud nella PA
 
@@ -1206,7 +1206,7 @@ La parte decisiva è `WHERE`, perché filtra i record in base a una condizione.
 
 ## Note di review
 
-- P4 ha verificato il raccordo con il Capitolo 7 e ha aggiornato il riferimento al Piano Triennale per l'informatica nella PA 2024-2026, Aggiornamento 2026.
+- P4 e P28 hanno verificato il raccordo con il Capitolo 7 e hanno ricontrollato il riferimento al Piano Triennale per l'informatica nella PA 2024-2026, Aggiornamento 2026.
 - Restano separati e non migrati i nuclei ICT avanzati finche M-TR01 non contiene capitoli completi e verificati; prima della pubblicazione sono comunque necessarie review tecnica e normativa umane.
 
 ## 24. Checklist finale del capitolo

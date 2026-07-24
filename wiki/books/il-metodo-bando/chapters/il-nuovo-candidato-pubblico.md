@@ -15,17 +15,17 @@ asset_refs:
  - "books/il-metodo-bando/assets/chapter-01/04-scala-profondita-profilo.png"
  - "books/il-metodo-bando/assets/chapter-01/05-capitale-comune-moduli-specifici.png"
 confidence: 0.9
-updated_at: "2026-07-01T11:00:17.390Z"
+updated_at: "2026-07-23T00:00:00+02:00"
 created_at: "2026-05-10T11:45:00+02:00"
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "part-1", "editorial-review"]
 book_id: il-metodo-bando
 outline_section: 1
-draft_stage: humanized-editorial-revision
+draft_stage: publication-ready
 last_compiled_from: ["sources/struttura-madre-il-metodo-bando.md", "topics/metodo-bando.md"]
 last_editorial_review: "2026-05-25T15:10:00Z"
-last_humanizer_revision: "2026-07-01T11:00:17.390Z"
+last_humanizer_revision: "2026-07-23T00:00:00+02:00"
 ---
 # Capitolo 1 - Il nuovo candidato pubblico
 
@@ -35,7 +35,7 @@ Il candidato pubblico di oggi non è soltanto una persona che studia molte pagin
 
 La prima differenza rispetto alla preparazione tradizionale è qui. Molti manuali partono dalle materie. Questo libro parte dal candidato davanti al bando. Prima di studiare diritto amministrativo, Costituzione, pubblico impiego o logica, devi capire che tipo di gara stai affrontando e quale prestazione ti verrà richiesta.
 
-Un concorso non premia chi possiede più file. Premia chi riesce a trasformare tempo limitato, informazioni ufficiali e studio in una risposta corretta nel momento giusto. Il nuovo candidato pubblico seleziona i materiali, produce risposte, registra gli errori e li usa per migliorare.
+In un concorso conta la capacità di usare tempo limitato, informazioni ufficiali e studio per dare la risposta richiesta. Il candidato efficace seleziona i materiali, produce risposte e usa gli errori per correggere il percorso.
 
 ![Schema comparativo tra candidato accumulatore e candidato strategico.](../assets/chapter-01/01-candidato-accumulatore-vs-strategico.png)
 
@@ -141,7 +141,7 @@ Per questo il candidato non deve chiedersi soltanto "quali materie ci sono?". De
 
 Un concorso comunale, un concorso ministeriale, un concorso in un’agenzia fiscale, un profilo amministrativo sanitario, un concorso scuola/università, un concorso tecnico e un concorso per la polizia locale hanno differenze reali. Trattarli come se fossero uguali sarebbe un errore.
 
-Non tutto, però, cambia. Esiste un nucleo comune: metodo, lettura del bando, Costituzione, principi della pubblica amministrazione, diritto amministrativo, pubblico impiego, trasparenza, competenze digitali, logica, gestione della prova e capacità di spiegare.
+Restano però materie e abilità comuni: metodo, lettura del bando, Costituzione, principi della pubblica amministrazione, diritto amministrativo, pubblico impiego, trasparenza, competenze digitali, logica, gestione della prova e capacità di spiegare.
 
 Il candidato che ricomincia da zero a ogni bando disperde energia. Il candidato che costruisce capitale comune studia una volta e riusa più volte, adattando il modulo specifico al profilo.
 

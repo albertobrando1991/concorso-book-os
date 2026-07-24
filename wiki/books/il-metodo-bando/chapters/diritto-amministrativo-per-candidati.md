@@ -9,24 +9,25 @@ entities: ["Legge 241/1990", "ANAC", "Pubblica amministrazione", "Responsabile d
 source_refs: ["sources/struttura-madre-il-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/legge-241-1990-procedimento-amministrativo.md", "sources/legge-7-agosto-1990-n-241-procedimento-amministrativo-e-accesso-ai-documenti-amministrativi-testo-vigente-normattiva.md", "sources/legge-2-dicembre-2025-n-182-semplificazioni-autotutela.md", "sources/d-lgs-14-marzo-2013-n-33-trasparenza.md", "sources/d-lgs-25-maggio-2016-n-97-foia-e-revisione-trasparenza.md", "sources/d-lgs-7-marzo-2005-n-82-amministrazione-digitale.md", "sources/legge-6-novembre-2012-n-190-anticorruzione.md", "sources/d-lgs-10-marzo-2023-n-24-whistleblowing.md", "sources/d-lgs-27-ottobre-2009-n-150-performance.md", "sources/legge-14-gennaio-1994-n-20-responsabilita-erariale.md", "sources/d-lgs-2-luglio-2010-n-104-processo-amministrativo.md", "sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego.md", "sources/d-lgs-30-luglio-1999-n-300-organizzazione-governo.md", "sources/d-lgs-31-marzo-2023-n-36-contratti-pubblici.md", "sources/d-lgs-18-agosto-2000-n-267-enti-locali.md", "sources/d-p-r-28-dicembre-2000-n-445-documentazione-amministrativa.md", "sources/codice-civile-beni-pubblici-demanio-patrimonio.md", "sources/d-p-r-8-giugno-2001-n-327-espropriazione-pubblica-utilita.md", "sources/legge-24-novembre-1981-n-689-sanzioni-amministrative.md", "sources/regio-decreto-18-giugno-1931-n-773-tulps-polizia-amministrativa.md", "sources/d-lgs-26-agosto-2016-n-174-codice-di-giustizia-contabile.md", "sources/responsabilita-dirigenziale-legalita-organizzativa-performance-rischio.md", "sources/manuale-diritto-amministrativo-lopilato.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.9
-updated_at: "2026-07-21T14:45:00+02:00"
+updated_at: "2026-07-23T00:00:00+02:00"
 created_at: "2026-05-09T01:05:00.000Z"
 review_required: true
 canonical: true
 tags: ["book-chapter", "common-subject", "revised"]
 book_id: il-metodo-bando
 outline_section: 5
-draft_stage: editorial-revision
+draft_stage: editorial-review
 last_compiled_from: ["topics/diritto-amministrativo-programma-concorsi-2026.md", "topics/diritto-amministrativo.md", "topics/attivita-amministrativa.md", "topics/situazioni-giuridiche-soggettive.md", "topics/principio-di-legalita.md", "topics/procedimento-amministrativo.md", "topics/anticorruzione-e-trasparenza.md", "topics/responsabilita-dirigenziale.md", "topics/performance-amministrativa.md", "topics/governo-del-rischio.md", "reviews/diritto-amministrativo-coverage-2026-05-25.md"]
+last_humanizer_revision: "2026-07-23T00:00:00+02:00"
 ---
 
 # Capitolo 5 - Diritto amministrativo operativo
 
 ## Perché studiare il diritto amministrativo operativo
 
-Il diritto amministrativo è una materia comune in moltissimi concorsi pubblici, ma non va studiato come una raccolta di definizioni isolate. Per il candidato serve a rispondere a una domanda molto concreta: come decide la pubblica amministrazione e quali regole deve rispettare quando incide sulla posizione di cittadini, imprese, dipendenti o altri enti?
+Il diritto amministrativo ricorre in moltissimi concorsi pubblici. Studialo partendo da una domanda concreta: come decide la pubblica amministrazione e quali regole deve rispettare quando incide sulla posizione di cittadini, imprese, dipendenti o altri enti?
 
-In una prova scritta o orale non basta dire che la pubblica amministrazione persegue l'interesse pubblico. Occorre mostrare come quell'interesse diventa azione amministrativa. Il procedimento viene avviato, il responsabile cura l'istruttoria e gli interessati possono partecipare. L'amministrazione rispetta termini e motivazione; il provvedimento produce effetti; vizi, silenzio, accesso e rimedi hanno conseguenze diverse.
+In una prova scritta o orale devi mostrare come l'interesse pubblico diventa azione amministrativa. Il procedimento si avvia, il responsabile cura l'istruttoria e gli interessati possono partecipare. L'amministrazione rispetta termini e motivazione; il provvedimento produce effetti; vizi, silenzio, accesso e rimedi hanno conseguenze diverse.
 
 La chiave del capitolo è questa: la pubblica amministrazione non agisce come un privato libero di scegliere secondo convenienza. Agisce in base alla legge, per fini pubblici, con procedimento, tracciabilità, imparzialità, trasparenza, responsabilità e possibilità di controllo.
 
@@ -110,7 +111,7 @@ Il merito amministrativo, invece, riguarda l'opportunità della scelta amministr
 
 Non tutti gli atti amministrativi sono provvedimenti. Gli atti endoprocedimentali preparano la decisione finale: pareri, comunicazioni, richieste di integrazione, verbali, valutazioni, proposte, atti istruttori. Il provvedimento è invece l'atto finale o comunque l'atto che produce effetti esterni diretti.
 
-Questa distinzione è fondamentale nei quiz e nei casi. Se una commissione chiede "che differenza c'è tra procedimento e provvedimento?", la risposta deve chiarire che il procedimento è la sequenza, mentre il provvedimento è l'esito decisorio. Se chiede "che cosa sono gli atti endoprocedimentali?", la risposta deve collegarli alla fase istruttoria e alla preparazione della decisione.
+Nei quiz e nei casi questa distinzione conta. Se una commissione chiede "che differenza c'è tra procedimento e provvedimento?", chiarisci che il procedimento è la sequenza, mentre il provvedimento è l'esito decisorio. Gli atti endoprocedimentali appartengono alla fase istruttoria e preparano la decisione.
 
 ### Moduli consensuali, SCIA e semplificazione
 
@@ -352,7 +353,7 @@ Una risposta ordinata può seguire questa sequenza:
 6. **Decisione**: il procedimento si conclude con un provvedimento espresso, salvo discipline specifiche sul silenzio.
 7. **Controllo e tutela**: l'atto può essere conosciuto, riesaminato, impugnato o corretto.
 
-Il procedimento non è un formalismo. Serve a rendere l'azione amministrativa ordinata, motivata, partecipata e controllabile.
+Il procedimento rende l'azione amministrativa ordinata, motivata, partecipata e controllabile.
 
 ![Figura 5.2 - Il procedimento amministrativo va letto come sequenza: avvio, responsabile, comunicazione, partecipazione, istruttoria, decisione e controllo.](../assets/chapter-05/02-procedimento-amministrativo-flusso.png)
 

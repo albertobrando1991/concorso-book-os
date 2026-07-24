@@ -9,15 +9,16 @@ entities: ["D.Lgs. 165/2001", "D.Lgs. 150/2009", "Dirigente pubblico", "Dipenden
 source_refs: ["sources/struttura-madre-il-metodo-bando.md", "sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego.md", "sources/d-lgs-27-ottobre-2009-n-150-performance.md", "sources/d-p-r-9-maggio-1994-n-487-accesso-agli-impieghi-pubblici-e-concorsi.md", "sources/d-p-r-16-giugno-2023-n-82-modifiche-al-d-p-r-487-1994-sui-concorsi.md", "sources/legge-6-novembre-2012-n-190-anticorruzione.md", "sources/delitti-contro-pa-codice-penale-2026.md", "sources/d-lgs-14-marzo-2013-n-33-trasparenza.md", "sources/d-lgs-8-aprile-2013-n-39-inconferibilita-e-incompatibilita-incarichi.md", "sources/d-p-r-16-aprile-2013-n-62-codice-comportamento-dipendenti-pubblici.md", "sources/d-lgs-10-marzo-2023-n-24-whistleblowing.md", "sources/d-p-r-24-giugno-2022-n-81-piao-adempimenti-assorbiti.md", "sources/decreto-30-giugno-2022-n-132-piano-tipo-piao.md", "sources/aran-contrattazione-collettiva-comparti-aree-pubblico-impiego.md", "sources/d-lgs-9-aprile-2008-n-81-salute-sicurezza-lavoro.md", "sources/d-lgs-26-agosto-2016-n-174-codice-di-giustizia-contabile.md", "sources/d-l-14-marzo-2025-n-25-convertito-dalla-l-9-maggio-2025-n-69-capacita-amministrativa.md", "sources/d-l-31-agosto-2013-n-101-trasformazione-civit-anac-e-pubblico-impiego.md", "sources/responsabilita-dirigenziale-legalita-organizzativa-performance-rischio.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.9
-updated_at: "2026-07-21T16:25:00+02:00"
+updated_at: "2026-07-23T00:00:00+02:00"
 created_at: "2026-05-10T11:45:00+02:00"
 review_required: true
 canonical: true
 tags: ["book-chapter", "common-subject", "revised"]
 book_id: il-metodo-bando
 outline_section: 6
-draft_stage: editorial-revision
+draft_stage: editorial-review
 last_compiled_from: ["wiki/books/il-metodo-bando/struttura-madre.md", "topics/pubblico-impiego.md", "topics/reati-contro-pubblica-amministrazione.md", "topics/organizzazione-pubblica.md", "topics/concorsi-pubblici.md", "topics/performance-amministrativa.md", "topics/responsabilita-dirigenziale.md", "topics/governo-del-rischio.md", "topics/anticorruzione-e-trasparenza.md", "entities/piano-integrato-di-attivita-e-organizzazione.md", "entities/dirigente-pubblico.md"]
+last_humanizer_revision: "2026-07-23T00:00:00+02:00"
 ---
 
 # Capitolo 6 - Pubblico impiego e organizzazione della PA
@@ -32,7 +33,7 @@ In concorso questa materia compare spesso in forma diretta: "pubblico impiego", 
 
 La chiave del capitolo è questa: nel pubblico impiego il comportamento individuale e l'organizzazione dell'ufficio non sono separati. Un dipendente scorretto espone l'amministrazione a rischio; un'organizzazione disordinata aumenta la probabilità di errori, ritardi, favoritismi e responsabilità.
 
-Per studiarlo bene, non partire da definizioni isolate. Usa sempre il collegamento tra profilo messo a bando, ufficio di destinazione, doveri di servizio e rischio amministrativo: è questo passaggio che trasforma la materia in una risposta da concorso.
+Per studiarlo bene, collega il profilo messo a bando, l'ufficio di destinazione, i doveri di servizio e il rischio amministrativo. Così la materia diventa una risposta da concorso.
 
 ## Obiettivi del capitolo
 
@@ -98,7 +99,7 @@ Questa distinzione serve nei casi pratici. Se un ufficio non assegna le pratiche
 
 ### Accesso al lavoro pubblico
 
-L'accesso al pubblico impiego avviene ordinariamente mediante concorso o procedura selettiva pubblica. Il concorso tutela imparzialità, eguaglianza, buon andamento e qualità del reclutamento. Non è un rito formale: serve a scegliere personale coerente con il profilo professionale e con i compiti dell'amministrazione.
+L'accesso al pubblico impiego avviene ordinariamente mediante concorso o procedura selettiva pubblica. Il concorso tutela imparzialità, eguaglianza, buon andamento e qualità del reclutamento, perché seleziona personale coerente con il profilo professionale e con i compiti dell'amministrazione.
 
 Per rispondere bene in concorso, devi collegare l'accesso a tre elementi:
 
@@ -259,7 +260,7 @@ Nei casi pratici chiediti sempre:
 
 ### Performance amministrativa
 
-La performance amministrativa collega obiettivi, attività, indicatori, risultati, valutazione e accountability. Non coincide con un premio economico. Serve a capire se l'amministrazione usa risorse e personale per produrre risultati effettivi e servizi adeguati.
+La performance amministrativa collega obiettivi, attività, indicatori, risultati, valutazione e accountability. Misura se l'amministrazione usa risorse e personale per produrre risultati effettivi e servizi adeguati; non coincide con un premio economico.
 
 Il candidato deve distinguere:
 

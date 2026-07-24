@@ -9,14 +9,14 @@ entities: ["Metodo BANDO", "Moduli Profilo", "Capitale Personale", "ConcorsoBook
 source_refs: ["sources/vol-01-il-metodo-bando-struttura-2026-07-14.md", "sources/logica-volumi-copertura-concorsobook-v4.md", "sources/idea-business-vendita-libri-capitale-personale-2026-07-03.md", "sources/struttura-madre-il-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/capitolo-19-20-corpus-profili-concorsuali-2026-05-30.md", "sources/bandi-rappresentativi-profili-concorsuali-inpa-agenzie-enti-2025-2026.md", "sources/formazione-competenze-pa-syllabus-direttiva-2025.md", "sources/capitoli-21-23-corpus-moduli-piano-diario-2026-06-01.md", "books/moduli/architettura-moduli-specialistici.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.9
-updated_at: 2026-07-14T19:00:00+02:00
+updated_at: 2026-07-24T00:00:00+02:00
 created_at: "2026-05-10T11:45:00+02:00"
 review_required: true
 canonical: true
 tags: ["book-chapter", "part-4", "modules"]
 book_id: il-metodo-bando
 outline_section: 21
-draft_stage: revised-editorial-draft
+draft_stage: editorial-review
 last_compiled_from: ["sources/idea-business-vendita-libri-capitale-personale.md", "books/moduli/architettura-moduli-specialistici.md", "sources/capitoli-21-23-corpus-moduli-piano-diario-2026-06-01.md", "topics/moduli-integrativi.md", "topics/moduli-profilo.md", "topics/nucleo-comune-concorsi-pubblici.md"]
 ---
 
@@ -38,7 +38,7 @@ Esempio pratico:
 - chi punta a INPS, INAIL o enti della stessa famiglia non ricomincia da zero a ogni avviso: serve il libro base più il modulo **EPNE / previdenza / vigilanza**;
 - chi partecipa a concorsi ministeriali o RIPAM riusa la stessa specializzazione: libro base più modulo **Ministeri e PCM**.
 
-Il modulo integrativo non è un accumulo di materiali. È il **delta specialistico** che completa il nucleo comune quando bando, profilo e prova lo richiedono.
+Il modulo integrativo è il **delta specialistico** che completa il nucleo comune quando bando, profilo e prova lo richiedono, non un accumulo di materiali.
 
 ![Figura 21.1 - Mappa BANDO dei moduli integrativi](../assets/chapter-21/01-mappa-bando-moduli-integrativi.png)
 
@@ -116,7 +116,7 @@ Un modulo integrativo è un blocco di preparazione verticale con quattro caratte
 3. ha un **output** verificabile;
 4. ha un **limite** di profondità.
 
-Senza questi quattro elementi non è un modulo. È dispersione o un secondo manuale generico.
+Senza questi quattro elementi si tratta di dispersione o di un secondo manuale generico, non di un modulo.
 
 ![Figura 21.3 - Quattro requisiti del modulo](../assets/chapter-21/03-quattro-requisiti-del-modulo.png)
 
@@ -129,7 +129,7 @@ Il modulo **non ripete** amministrativo generale, pubblico impiego generale o lo
 - quali sottoprogrammi compaiono nei bandi reali;
 - quali appendici coprono lacune ricorrenti senza aprire un secondo modulo.
 
-In sintesi: il libro base spiega la struttura comune; il modulo specializza la preparazione.
+Il libro base spiega la struttura comune; il modulo specializza la preparazione.
 
 ## La formula standard: VOL-01 + un volume specialistico
 

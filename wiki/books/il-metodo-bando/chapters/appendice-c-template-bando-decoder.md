@@ -9,22 +9,22 @@ entities: ["Bando Decoder", "Metodo BANDO", "inPA"]
 source_refs: ["sources/template-bando-decoder-metodo-bando.md", "sources/struttura-madre-il-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md", "sources/checklist-operative-concorsi-metodo-bando.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.9
-updated_at: "2026-06-01T16:30:00+02:00"
+updated_at: "2026-07-24T00:00:00+02:00"
 created_at: "2026-05-10T11:45:00+02:00"
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-appendix", "template"]
 book_id: il-metodo-bando
 outline_section: C
-draft_stage: revised-editorial-draft
+draft_stage: publication-ready
 last_compiled_from: ["sources/template-bando-decoder-metodo-bando.md", "topics/bando-decoder.md", "books/il-metodo-bando/chapters/anatomia-del-bando.md", "books/il-metodo-bando/chapters/checklist-operative.md"]
 ---
 
 # Appendice C - Template Bando Decoder
 
-Il Bando Decoder è la scheda che trasforma un bando in decisioni.
+Il Bando Decoder porta dal bando a decisioni operative.
 
-Non serve a copiare tutto il bando. Serve a rispondere a una domanda più pratica:
+Non copia tutto il bando: risponde a una domanda più pratica:
 
 > questo concorso merita il mio tempo, e se sì, da dove devo iniziare?
 

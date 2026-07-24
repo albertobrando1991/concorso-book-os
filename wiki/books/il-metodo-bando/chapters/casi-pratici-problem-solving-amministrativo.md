@@ -9,14 +9,14 @@ entities: ["Pubblica amministrazione", "Comune", "RUP", "Dipendente pubblico"]
 source_refs: ["sources/struttura-madre-il-metodo-bando.md", "sources/capitolo-17-18-corpus-casi-pratici-quesiti-situazionali-2026-05-30.md", "sources/legge-241-1990-procedimento-amministrativo.md", "sources/d-lgs-14-marzo-2013-n-33-trasparenza.md", "sources/regolamento-ue-2016-679-gdpr-protezione-dati-personali.md", "sources/d-lgs-31-marzo-2023-n-36-contratti-pubblici.md", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md", "sources/framework-competenze-trasversali-pa-dm-28-giugno-2023.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.9
-updated_at: "2026-07-21T00:00:00+02:00"
+updated_at: "2026-07-24T00:00:00+02:00"
 created_at: "2026-05-10T11:45:00+02:00"
 review_required: true
 canonical: true
 tags: ["book-chapter", "part-3"]
 book_id: il-metodo-bando
 outline_section: 17
-draft_stage: revised-editorial-draft
+draft_stage: editorial-review
 last_compiled_from: ["sources/capitolo-17-18-corpus-casi-pratici-quesiti-situazionali-2026-05-30.md", "topics/casi-pratici.md", "topics/problem-solving-amministrativo.md", "topics/procedimento-amministrativo.md", "topics/orientamento-al-cittadino.md"]
 ---
 
@@ -24,7 +24,7 @@ last_compiled_from: ["sources/capitolo-17-18-corpus-casi-pratici-quesiti-situazi
 
 ## Perché il caso pratico seleziona davvero
 
-Il caso pratico è il momento in cui il concorso smette di chiedere solo "che cosa sai" e inizia a chiedere "che cosa faresti". Non basta ricordare una definizione. Devi leggere una situazione, capire chi è competente, individuare il problema, rispettare termini e vincoli, scegliere una soluzione e motivarla in modo ordinato.
+Nel caso pratico il concorso chiede che cosa faresti, non solo che cosa sai. Leggi la situazione, individua il soggetto competente e il problema, rispetta termini e vincoli, scegli una soluzione e motivala con ordine.
 
 Questo tipo di prova mette in difficoltà molti candidati per un motivo preciso: lo studio tradizionale prepara a ripetere argomenti, non a usarli. Un candidato può conoscere procedimento, accesso, privacy e contratti, ma bloccarsi davanti a una traccia concreta. Può trattarsi di una domanda incompleta, di una richiesta inviata all'ufficio sbagliato, di documenti con dati di terzi, di una pratica in ritardo o del sollecito di un operatore economico.
 
@@ -38,7 +38,7 @@ Ragionare come un funzionario significa tenere insieme cinque dimensioni:
 - l'interesse pubblico, perché la risposta non è un favore personale;
 - l'utente, perché l'amministrazione deve comunicare in modo chiaro e responsabile.
 
-Il caso pratico, quindi, non è una domanda teorica mascherata. È una prova di metodo.
+Il caso pratico verifica il metodo, non una teoria travestita da domanda.
 
 ## Obiettivo del capitolo
 
@@ -98,7 +98,7 @@ Usa questa griglia ogni volta che affronti un caso pratico.
 4. **Chi è competente?** L'ufficio che riceve non è sempre quello che decide.
 5. **Quale procedimento o nucleo è coinvolto?** Accesso, istanza, silenzio, graduatoria, acquisto, dati, riesame.
 6. **Quali vincoli limitano la soluzione?** Termini, motivazione, privacy, trasparenza, anticorruzione, risorse.
-7. **qual è la soluzione corretta?** Deve essere possibile, legittima e proporzionata.
+7. **Qual è la soluzione corretta?** Deve essere possibile, legittima e proporzionata.
 8. **Quale output finale serve?** Comunicazione, richiesta di integrazione, provvedimento, inoltro, segnalazione, istruttoria.
 
 Questa griglia vale per scritto, orale e quiz. Cambia solo la forma dell'output.
@@ -392,7 +392,7 @@ Una risposta debole:
 
 ## Diario dei casi pratici
 
-Dopo ogni esercizio, registra l'errore. Non basta dire "caso sbagliato".
+Dopo ogni esercizio, registra l'errore: "caso sbagliato" non è una diagnosi utile.
 
 | Categoria errore | Domanda di correzione |
 |---|---|

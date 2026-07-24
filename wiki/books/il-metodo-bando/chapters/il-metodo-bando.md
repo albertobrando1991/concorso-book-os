@@ -9,16 +9,17 @@ entities: ["Metodo BANDO", "Piano 30/60/90 giorni", "Diario degli errori", "Band
 source_refs: ["sources/struttura-madre-il-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/d-p-r-9-maggio-1994-n-487-accesso-agli-impieghi-pubblici-e-concorsi.md", "sources/d-p-r-16-giugno-2023-n-82-modifiche-al-d-p-r-487-1994-sui-concorsi.md", "sources/d-lgs-27-ottobre-2009-n-150-performance.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.94
-updated_at: 2026-05-28T17:35:00+02:00
+updated_at: 2026-07-23T00:00:00+02:00
 created_at: "2026-05-09T01:05:00.000Z"
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "method", "editorial-review"]
 book_id: il-metodo-bando
 outline_section: 3
-draft_stage: reviewed-editorial-draft
+draft_stage: publication-ready
 last_compiled_from: ["topics/metodo-bando.md", "topics/piano-30-60-90-giorni.md", "topics/diario-errori.md", "sources/struttura-madre-il-metodo-bando.md"]
 last_editorial_review: "2026-05-25T15:30:00Z"
+last_humanizer_revision: "2026-07-23T00:00:00+02:00"
 ---
 
 # Capitolo 3 - Il Metodo BANDO
@@ -28,7 +29,7 @@ last_editorial_review: "2026-05-25T15:30:00Z"
 
 Il Metodo BANDO nasce da un problema semplice: molti candidati studiano, ma non governano la preparazione. Leggono pagine, fanno quiz, salvano file, seguono gruppi e corsi, ma non sempre sanno spiegare perché stanno studiando proprio quella materia, in quel modo, in quella settimana.
 
-Un metodo serve a questo: trasformare una massa di materiali in una sequenza di decisioni. Il punto non è promettere che esista una scorciatoia. Il punto è evitare che ogni nuovo concorso ti costringa a ricominciare da zero.
+Un metodo ordina i materiali e li traduce in decisioni. Non elimina lo studio, ma evita di ricominciare da zero a ogni concorso.
 
 BANDO significa:
 
@@ -38,7 +39,7 @@ BANDO significa:
 - **Diario**: registra errori, ripassi, scadenze e decisioni.
 - **Output**: allena ciò che la prova ti chiederà di produrre.
 
-Questa non è una formula motivazionale. È una procedura di lavoro.
+È una procedura di lavoro, da applicare al bando che stai preparando.
 
 ![Mappa generale delle cinque fasi del Metodo BANDO: Bando, Aree, Nuclei, Diario e Output.](../assets/chapter-03/01-metodo-bando-mappa-generale.png)
 
@@ -48,7 +49,7 @@ Questa non è una formula motivazionale. È una procedura di lavoro.
 
 La concorrenza spesso offre tre cose: un manuale più grande, una raccolta di quiz più lunga o un corso più fitto. Tutte possono essere utili, ma nessuna risolve da sola il problema principale: decidere che cosa fare con il tempo che hai.
 
-Il Metodo BANDO deve essere riconoscibile perché cambia la domanda di partenza. Non ti chiede: “quante pagine riesci a studiare?”. Ti chiede: “quale prova devi superare e quale output devi produrre?”.
+Il Metodo BANDO parte da una domanda diversa: quale prova devi superare e quale output devi produrre?
 
 Da questa domanda derivano tutte le altre:
 
@@ -78,7 +79,7 @@ Da questa domanda derivano tutte le altre:
 
 ## B - Bando
 
-La prima fase è leggere il bando come un documento strategico. Non basta sapere che il concorso esiste. Devi capire se puoi partecipare, quale profilo viene selezionato, quali prove affronterai, quali materie saranno valutate, quali punteggi contano, quali soglie devi superare e quali scadenze non puoi sbagliare.
+La prima fase è leggere il bando come documento di lavoro. Verifica se puoi partecipare, quale profilo viene selezionato, quali prove affronterai, quali materie saranno valutate, quali punteggi contano, quali soglie devi superare e quali scadenze devi rispettare.
 
 Questa fase produce il Bando Decoder. Se non hai compilato almeno una scheda sintetica del concorso, non hai ancora iniziato davvero la preparazione. Hai solo raccolto materiali.
 
@@ -117,9 +118,9 @@ Il nucleo è ciò che devi saper riconoscere, spiegare e usare.
 
 ## D - Diario
 
-La quarta fase è il diario. È la parte meno appariscente e spesso più decisiva. Il diario serve a non studiare al buio.
+La quarta fase è il diario. Tiene sotto controllo errori, scadenze e ripassi.
 
-Un errore non registrato torna. Una scadenza non scritta si dimentica. Una materia debole non misurata sembra sempre “quasi pronta”. Il diario trasforma impressioni vaghe in dati di lavoro.
+Se non registri un errore, è facile rifarlo; una scadenza non annotata può sfuggire. Il diario rende visibili le materie deboli e le decisioni da prendere.
 
 Il diario deve contenere almeno quattro elementi:
 
@@ -130,7 +131,7 @@ Il diario deve contenere almeno quattro elementi:
 | Scadenze | Controllare domanda, prove, documenti e comunicazioni ufficiali. |
 | Decisioni | Tracciare tagli, priorità e cambi di piano. |
 
-Il diario non deve diventare un quaderno decorativo. Deve aiutarti a prendere decisioni migliori.
+Usalo per decidere che cosa ripassare, che cosa correggere e dove spostare il tempo.
 
 ## O - Output
 
@@ -176,7 +177,7 @@ Un candidato prepara un concorso per istruttore amministrativo comunale.
 **Diario:** registra errori su competenze degli organi, termini procedimentali e accesso civico.
 **Output:** fa simulazioni a quiz, prepara risposte orali di due minuti e risolve casi brevi su istanza del cittadino.
 
-Il risultato non è “studiare enti locali”. Il risultato è trasformare enti locali, amministrativo e pubblico impiego in risposte da prova.
+L'obiettivo è arrivare a risposte da prova su enti locali, amministrativo e pubblico impiego.
 
 ## Esempio: concorso ministeriale
 
@@ -188,7 +189,7 @@ Un candidato prepara un concorso per assistente amministrativo in un ente centra
 **Diario:** registra errori su definizioni, sigle, competenze e distrazioni nei quiz.
 **Output:** alterna batterie a tempo, flashcard e risposte brevi.
 
-Anche qui il metodo evita dispersione: non tutto ciò che è interessante è prioritario.
+Anche qui il metodo evita dispersione: un argomento interessante non è automaticamente prioritario.
 
 ## Usare BANDO con 30, 60 o 90 giorni
 
@@ -200,7 +201,7 @@ Il metodo cambia intensità in base al tempo disponibile.
 | **60 giorni** | Nucleo comune solido, moduli specifici, simulazioni settimanali, ripassi programmati. |
 | **90 giorni** | Studio più completo, casi guidati, orale progressivo, consolidamento e confronto tra bandi. |
 
-Con 30 giorni non devi fingere di poter fare tutto. Devi scegliere. Con 60 giorni devi consolidare. Con 90 giorni devi trasformare la preparazione in sistema riutilizzabile.
+Con 30 giorni scegli i nuclei indispensabili. Con 60 giorni consolidi. Con 90 giorni puoi costruire una preparazione riutilizzabile.
 
 ![Schema comparativo dell’applicazione del Metodo BANDO con 30, 60 e 90 giorni disponibili.](../assets/chapter-03/05-piano-bando-30-60-90.png)
 

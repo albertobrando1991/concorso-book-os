@@ -9,26 +9,26 @@ entities: ["Metodo BANDO", "Diario degli errori", "Piano 30/60/90 giorni"]
 source_refs: ["sources/struttura-madre-il-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/metodo-bando-capitolo-13-bozza-sito-2026-05-30.md", "sources/apprendimento-efficace-active-recall-ripasso-distribuito.md", "sources/scienze-apprendimento-pianificazione-metacognizione-errori.md", "sources/capitoli-21-23-corpus-moduli-piano-diario-2026-06-01.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.9
-updated_at: "2026-07-21T00:00:00+02:00"
+updated_at: "2026-07-24T00:00:00+02:00"
 created_at: "2026-05-10T11:45:00+02:00"
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "part-5", "diary", "workbook-tool"]
 book_id: il-metodo-bando
 outline_section: 23
-draft_stage: revised-editorial-draft
+draft_stage: publication-ready
 last_compiled_from: ["sources/capitoli-21-23-corpus-moduli-piano-diario-2026-06-01.md", "sources/scienze-apprendimento-pianificazione-metacognizione-errori.md", "topics/diario-errori.md", "topics/metodo-di-studio.md", "topics/prova-a-quiz.md", "topics/piano-30-60-90-giorni.md"]
 ---
 
 # Capitolo 23 - Il diario degli errori
 
-Correggere non basta.
+Correggere è il primo passo.
 
 Molti candidati fanno quiz, guardano il punteggio, leggono la risposta giusta e passano oltre. Dopo qualche giorno sbagliano di nuovo la stessa cosa: una negazione, un termine, un soggetto competente, una differenza tra istituti, una domanda letta di fretta. Il problema non è l'errore. Il problema è non usarlo.
 
 Nel Metodo BANDO l'errore è un dato. Dice dove il piano non sta funzionando, quale materia richiede ripasso, quale modulo è fragile, quale strategia va cambiata e quale output deve essere allenato.
 
-Il diario degli errori serve a trasformare la correzione in decisione.
+Il diario degli errori porta dalla correzione a una decisione concreta.
 
 ## Obiettivo del capitolo
 
@@ -41,7 +41,7 @@ Alla fine del capitolo devi saper:
 - capire quando una materia sta peggiorando;
 - preparare gli ultimi giorni partendo dagli errori, non dall'umore.
 
-Il diario non è una punizione. È il cruscotto del candidato.
+Il diario è il cruscotto del candidato, non una punizione.
 
 ## Mappa BANDO del diario
 
@@ -50,7 +50,7 @@ Il diario non è una punizione. È il cruscotto del candidato.
 | B - Bando | L'errore riguarda una materia o prova prevista? | Dai peso |
 | A - Aree | In quale area cade l'errore? | Raggruppa |
 | N - Nuclei | Quale concetto manca? | Seleziona ripasso |
-| D - Diario | perché ho sbagliato? | Classifica causa |
+| D - Diario | Perché ho sbagliato? | Classifica causa |
 | O - Output | Che cosa devo rifare? | Quiz, caso, orale, flashcard |
 
 Il diario collega studio e prova. Senza diario, il piano resta cieco.
@@ -292,7 +292,7 @@ Il piano senza diario diventa rigido. Il diario senza piano diventa confuso. Dev
 
 ## Cruscotto personale settimanale
 
-Il diario raccoglie i singoli errori; il cruscotto li trasforma in una decisione settimanale. Compilalo su carta sempre nello stesso giorno, usando solo dati realmente registrati. Non serve ottenere numeri perfetti: serve vedere se gli errori diminuiscono, si spostano o si ripetono.
+Il diario raccoglie i singoli errori; il cruscotto li usa per una decisione settimanale. Compilalo su carta sempre nello stesso giorno, usando solo dati realmente registrati. I numeri non devono essere perfetti: devono mostrare se gli errori diminuiscono, si spostano o si ripetono.
 
 ### Intestazione
 
@@ -381,7 +381,7 @@ Marta non deve "studiare tutto di più". Deve correggere i pattern.
 
 **perché il diario degli errori è più utile della semplice correzione della risposta?**
 
-perché identifica la causa dell'errore e produce una decisione di studio. La risposta corretta dice che cosa era giusto; il diario dice che cosa devi fare dopo.
+Perché identifica la causa dell'errore e produce una decisione di studio. La risposta corretta dice che cosa era giusto; il diario dice che cosa devi fare dopo.
 
 ## Domanda-trappola
 

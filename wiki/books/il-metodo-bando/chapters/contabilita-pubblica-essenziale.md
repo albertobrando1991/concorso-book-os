@@ -9,7 +9,7 @@ entities: ["Corte dei conti", "Ragioneria generale dello Stato", "MEF", "OpenBDA
 source_refs: ["sources/struttura-madre-il-metodo-bando.md", "sources/capitolo-8-corpus-fonti-ufficiali-contabilita-pubblica-2026-05-26.md", "sources/principi-costituzionali-finanza-pubblica-art-81-97-119.md", "sources/contabilita-generale-stato-e-bilancio-stato.md", "sources/armonizzazione-contabile-enti-territoriali-d-lgs-118-2011.md", "sources/ordinamento-finanziario-enti-locali-tuel-dup-peg-rendiconto-revisione.md", "sources/corte-conti-controlli-responsabilita-agenti-contabili.md", "sources/pagamenti-tracciabilita-contratti-pnrr-rendicontazione.md", "sources/contabilita-economico-patrimoniale-universita-enti-pubblici.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.94
-updated_at: "2026-07-21T00:00:00+02:00"
+updated_at: "2026-07-23T00:00:00+02:00"
 created_at: "2026-05-10T11:45:00+02:00"
 review_required: true
 normative_checked_at: "2026-07-21"
@@ -17,7 +17,7 @@ canonical: true
 tags: ["book-chapter", "common-subject", "revised", "p9-tracciabilita"]
 book_id: il-metodo-bando
 outline_section: 8
-draft_stage: editorial-revision
+draft_stage: editorial-review
 last_compiled_from: ["wiki/books/il-metodo-bando/struttura-madre.md", "topics/contabilita-pubblica.md", "sources/capitolo-8-corpus-fonti-ufficiali-contabilita-pubblica-2026-05-26.md", "sources/principi-costituzionali-finanza-pubblica-art-81-97-119.md", "sources/contabilita-generale-stato-e-bilancio-stato.md", "sources/armonizzazione-contabile-enti-territoriali-d-lgs-118-2011.md", "sources/ordinamento-finanziario-enti-locali-tuel-dup-peg-rendiconto-revisione.md", "sources/corte-conti-controlli-responsabilita-agenti-contabili.md", "sources/pagamenti-tracciabilita-contratti-pnrr-rendicontazione.md", "sources/contabilita-economico-patrimoniale-universita-enti-pubblici.md"]
 ---
 
@@ -25,7 +25,7 @@ last_compiled_from: ["wiki/books/il-metodo-bando/struttura-madre.md", "topics/co
 
 ## Perché studiare la contabilità pubblica
 
-La contabilità pubblica è il linguaggio con cui la pubblica amministrazione rende visibile una scelta fondamentale: come usa le risorse pubbliche. Non riguarda solo ragionieri, revisori o funzionari finanziari. Riguarda ogni dipendente pubblico che propone un acquisto, gestisce un procedimento con effetti di spesa, firma un provvedimento, controlla un servizio, partecipa a un progetto PNRR o risponde a un cittadino su bilanci, pagamenti e responsabilità.
+La contabilità pubblica mostra come la pubblica amministrazione usa le risorse. Riguarda ragionieri, revisori e funzionari finanziari, ma anche chi propone un acquisto, gestisce un procedimento con effetti di spesa, firma un provvedimento, controlla un servizio, partecipa a un progetto PNRR o risponde a un cittadino su bilanci, pagamenti e responsabilità.
 
 Per questo nei concorsi la materia compare spesso anche nei profili amministrativi. Le domande non chiedono sempre calcoli complessi; più spesso verificano se il candidato sa distinguere bilancio di previsione e rendiconto, entrata e spesa, competenza e cassa, impegno e pagamento, residui e risultato di amministrazione, controlli interni e controlli della Corte dei conti.
 
@@ -204,7 +204,7 @@ Nel linguaggio concorsuale, la distinzione essenziale è questa.
 | Risultato di amministrazione | Sintetizza l'esito della gestione finanziaria secondo le regole dell'ente. |
 | Parificazione | Controllo della Corte dei conti sul rendiconto, con particolare rilievo per Stato e Regioni. |
 
-Il rendiconto non è un nuovo bilancio preventivo. È il documento che consente controllo, responsabilità e valutazione della gestione.
+Il rendiconto documenta la gestione conclusa e consente controllo, responsabilità e valutazione; non è un nuovo bilancio preventivo.
 
 ### 10. Controlli interni
 
@@ -286,7 +286,7 @@ Negli enti locali il riferimento centrale è il TUEL, coordinato con la discipli
 
 Il responsabile del servizio finanziario ha un ruolo essenziale. Presidia gli equilibri di bilancio, esprime pareri di regolarità contabile quando dovuti, appone il visto di copertura finanziaria sugli atti che comportano spesa e segnala situazioni critiche.
 
-Il parere di regolarità contabile non è un dettaglio burocratico: collega la decisione amministrativa alla sostenibilità finanziaria. Il visto di copertura finanziaria attesta che la spesa trova copertura nello stanziamento disponibile.
+Il parere di regolarità contabile collega la decisione amministrativa alla sostenibilità finanziaria. Il visto di copertura finanziaria attesta che la spesa trova copertura nello stanziamento disponibile.
 
 L'autonomia finanziaria degli enti locali deve sempre rispettare coordinamento della finanza pubblica, vincoli di bilancio, regole sull'indebitamento e disciplina dei trasferimenti.
 
@@ -371,7 +371,7 @@ La tracciabilità dei flussi finanziari serve a rendere verificabili i pagamenti
 
 ### 22. PNRR, fondi UE e rendicontazione
 
-PNRR e fondi UE hanno rafforzato l'importanza della contabilità di progetto. Non basta spendere: occorre dimostrare che la spesa è ammissibile, tracciabile, collegata a un intervento, documentata e coerente con obiettivi, milestone e target.
+PNRR e fondi UE hanno rafforzato il peso della contabilità di progetto. La spesa deve essere ammissibile, tracciabile, collegata a un intervento, documentata e coerente con obiettivi, milestone e target.
 
 I concetti essenziali sono:
 

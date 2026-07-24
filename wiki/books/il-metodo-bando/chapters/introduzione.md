@@ -9,16 +9,17 @@ entities: ["Metodo BANDO", "Bando Decoder", "Piano 30/60/90 giorni"]
 source_refs: ["sources/struttura-madre-il-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.9
-updated_at: 2026-05-28T17:35:00+02:00
+updated_at: 2026-07-23T00:00:00+02:00
 created_at: "2026-05-10T11:45:00+02:00"
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "introduction"]
 book_id: il-metodo-bando
 outline_section: 0
-draft_stage: editorial-draft
+draft_stage: publication-ready
 last_compiled_from: ["sources/struttura-madre-il-metodo-bando.md", "topics/metodo-bando.md"]
 last_manual_writer_run: "2026-05-10T13:16:00+02:00"
+last_humanizer_revision: "2026-07-23T00:00:00+02:00"
 ---
 
 # Introduzione - Perché questo libro è diverso
@@ -26,7 +27,7 @@ last_manual_writer_run: "2026-05-10T13:16:00+02:00"
 ## Il punto di partenza
 Se stai preparando un concorso pubblico, probabilmente hai già incontrato il problema principale: non mancano i materiali, manca un criterio per usarli. Manuali, quiz, gruppi online, video, appunti, schemi e banche dati possono aiutarti, ma possono anche confonderti. Senza un metodo, ogni nuova fonte sembra urgente, ogni materia sembra decisiva e ogni concorso sembra costringerti a ripartire da zero.
 
-Questo libro nasce per evitare proprio questo. Non è una raccolta di quiz e non è un manuale legato a un solo bando. È un sistema pratico per leggere concorsi diversi, capire che cosa conta, costruire un piano di studio, allenare le prove e trasformare ciò che impari in capitale riutilizzabile.
+Questo libro nasce da quel problema. Ti offre un metodo per leggere concorsi diversi, capire che cosa conta, costruire un piano di studio, allenare le prove e riutilizzare ciò che hai già imparato.
 
 La promessa è semplice: non devi studiare tutto nello stesso modo. Devi imparare a leggere il bando, distinguere le priorità, costruire il tuo nucleo comune e aggiungere solo ciò che serve al profilo che stai preparando.
 
@@ -39,7 +40,7 @@ La promessa è semplice: non devi studiare tutto nello stesso modo. Devi imparar
 4. trasformare errori, quiz e simulazioni in un diario di miglioramento;
 5. produrre output reali: risposte, casi, schemi, checklist, simulazioni e ripassi.
 
-Il risultato non è solo "sapere di più". Il risultato è sapere che cosa fare domani mattina quando apri il libro, quando leggi un bando nuovo o quando sbagli una simulazione.
+Alla fine devi sapere che cosa fare quando apri il libro, quando leggi un bando nuovo o quando sbagli una simulazione.
 
 ## Il problema: troppi materiali, poca strategia
 Molti candidati studiano tanto ma male. Comprano un manuale completo, poi un secondo manuale più aggiornato, poi una raccolta di quiz, poi un corso, poi un file condiviso da altri candidati. All'inizio tutto sembra utile. Dopo qualche settimana, però, il materiale diventa ingestibile.
@@ -86,10 +87,10 @@ Il libro non ti chiede di seguire un calendario rigido. Ti offre una logica per 
 ## Cartaceo completo, digitale acceleratore
 Il libro deve funzionare anche da solo. Le schede, le checklist, il Bando Decoder, il diario degli errori e i piani 30/60/90 devono essere utilizzabili su carta.
 
-Il digitale può accelerare alcune operazioni: duplicare schede, aggiornare fonti, compilare griglie, salvare progressi, collegare quiz e simulazioni. Ma non deve diventare una dipendenza. Se hai solo il libro, devi poter studiare comunque.
+Il digitale può velocizzare alcune operazioni: duplicare schede, aggiornare fonti, compilare griglie, salvare progressi e collegare quiz e simulazioni. Il libro, però, deve bastare anche da solo.
 
 ## Da sapere in 5 righe
-1. Questo non è un manuale da leggere passivamente: è un sistema da usare.
+1. Il libro richiede un uso attivo: pianifica, rispondi, verifica e correggi.
 2. Il bando viene prima dei materiali.
 3. Le materie non hanno tutte lo stesso peso.
 4. Ciò che studi bene può servire in più concorsi.

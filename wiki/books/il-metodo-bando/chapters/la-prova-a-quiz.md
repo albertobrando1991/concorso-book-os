@@ -9,14 +9,14 @@ entities: ["Diario degli errori"]
 source_refs: ["sources/struttura-madre-il-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md", "sources/apprendimento-efficace-active-recall-ripasso-distribuito.md", "sources/ripam-quesiti-attitudinali-logica-ragionamento-comprensione.md", "sources/capitolo-12-corpus-fonti-logica-comprensione-ragionamento-2026-05-28.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.9
-updated_at: "2026-06-07T18:41:54+02:00"
+updated_at: "2026-07-24T00:00:00+02:00"
 created_at: "2026-05-10T11:45:00+02:00"
-review_required: true
+review_required: false
 canonical: true
-tags: ["book-chapter", "part-3"]
+tags: ["book-chapter", "part-3", "p10-chiusura-editoriale"]
 book_id: il-metodo-bando
 outline_section: 14
-draft_stage: revised-editorial-draft
+draft_stage: publication-ready
 last_compiled_from: ["sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md", "sources/apprendimento-efficace-active-recall-ripasso-distribuito.md", "topics/prova-a-quiz.md", "topics/diario-errori.md", "topics/logica-concorsuale.md", "topics/comprensione-del-testo-concorsuale.md"]
 ---
 
@@ -24,7 +24,7 @@ last_compiled_from: ["sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.
 
 ## Perché il quiz è una prova diversa dallo studio
 
-La prova a quiz sembra semplice perché offre già le risposte. In realtà è una prova molto selettiva: misura conoscenza, rapidità, precisione di lettura e gestione del rischio. Una risposta può essere sbagliata non perché non conosci la materia, ma perché hai ignorato una negazione, confuso due istituti, letto una parola assoluta o perso troppo tempo su una domanda.
+La prova a quiz offre già le risposte, ma resta molto selettiva: misura conoscenza, rapidità, precisione di lettura e gestione del rischio. Una risposta può essere sbagliata per una negazione ignorata, due istituti confusi, una parola assoluta letta male o troppo tempo speso su una domanda.
 
 Il quiz non premia chi ha sottolineato di più. Premia chi riconosce il nucleo della domanda, elimina i distrattori e decide in pochi secondi se rispondere, segnare o saltare. Per questo va preparato come una prova specifica, non come un semplice accessorio alla teoria.
 
@@ -68,7 +68,7 @@ La prima differenza è decisiva.
 
 Con banca dati ufficiale, il problema non è "trovare domande". È coprirle tutte senza memorizzare meccanicamente la posizione della risposta. Devi conoscere perché una risposta è corretta e perché le altre sono sbagliate.
 
-Senza banca dati, il problema cambia: non puoi inseguire ogni raccolta online. Devi studiare nuclei e tipologie. Per diritto amministrativo, per esempio, non basta fare mille quiz casuali: devi capire procedimento, provvedimento, accesso, silenzio, responsabilità. Per logica devi distinguere brani, deduzioni, serie, percentuali e vincoli.
+Senza banca dati devi studiare nuclei e tipologie, senza inseguire ogni raccolta online. Per diritto amministrativo servono procedimento, provvedimento, accesso, silenzio e responsabilità; per logica, brani, deduzioni, serie, percentuali e vincoli.
 
 ![Figura 14.2 - Banca dati o no: albero decisionale per scegliere copertura completa, lavoro sui nuclei o calendario flessibile.](../assets/chapter-14/02-banca-dati-albero-decisionale.png)
 
@@ -111,7 +111,7 @@ Nel primo giro devi vedere tutte le domande. Non cercare subito la perfezione. D
 
 ### Secondo passaggio: errori
 
-Nel secondo giro lavori sugli errori. Non basta rifare la domanda sbagliata. Devi capire perché è sbagliata.
+Nel secondo giro lavori sugli errori: non limitarti a rifare la domanda, individua perché è sbagliata.
 
 | Tipo errore | Esempio | Azione |
 |---|---|---|
@@ -276,6 +276,15 @@ Prendi 20 quiz già svolti e classifica ogni errore.
 | Stress/distrazione | |
 
 Poi scegli la categoria più frequente e costruisci un drill da 15 minuti. Non passare a una nuova batteria prima di aver corretto il pattern principale.
+
+## Collegamenti con gli altri capitoli
+
+| Capitolo collegato | Collegamento |
+|---|---|
+| Logica, comprensione del testo e ragionamento | Fornisce gli strumenti di classificazione ed esclusione da applicare qui alla banca dati o alla simulazione. |
+| Quesiti situazionali e soft skills | Segue la stessa logica di prova a risposta multipla, con distrattori costruiti su comportamenti invece che su calcoli. |
+| Anatomia del bando | Indica formato, numero di quesiti, penalità e banca dati da verificare prima di impostare il piano di studio. |
+| Il diario degli errori | Raccoglie e classifica gli errori registrati durante i giri di ripasso e le simulazioni descritte in questo capitolo. |
 
 ## Da sapere in 5 righe
 

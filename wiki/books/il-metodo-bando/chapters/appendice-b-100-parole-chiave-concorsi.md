@@ -9,24 +9,24 @@ entities: ["Pubblica amministrazione", "Metodo BANDO", "ANAC", "AgID", "RUP", "i
 source_refs: ["sources/parole-chiave-concorsi-metodo-bando.md", "sources/glossario-essenziale-pa-metodo-bando.md", "sources/struttura-madre-il-metodo-bando.md", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md", "sources/legge-241-1990-procedimento-amministrativo.md", "sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego.md", "sources/d-lgs-14-marzo-2013-n-33-trasparenza.md", "sources/pa-digitale-cad-identita-documenti-servizi-dati.md", "sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024.md", "sources/scienze-apprendimento-pianificazione-metacognizione-errori.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.86
-updated_at: "2026-06-01T16:10:00+02:00"
+updated_at: "2026-07-24T00:00:00+02:00"
 created_at: "2026-05-10T11:45:00+02:00"
 review_required: true
 canonical: true
 tags: ["book-appendix", "workbook"]
 book_id: il-metodo-bando
 outline_section: B
-draft_stage: revised-editorial-draft
+draft_stage: editorial-review
 last_compiled_from: ["sources/parole-chiave-concorsi-metodo-bando.md", "topics/parole-chiave-concorsi.md", "topics/risposta-concorsuale.md", "topics/glossario-pa.md"]
 ---
 
 # Appendice B - Le 100 parole chiave dei concorsi pubblici
 
-Questa appendice non ripete il glossario. Il glossario ti dice che cosa significa un termine. Le parole chiave ti insegnano come usarlo in una risposta.
+Questa appendice completa il glossario: il glossario spiega che cosa significa un termine, qui impari a usarlo in una risposta.
 
 In un concorso pubblico, soprattutto nello scritto e nell'orale, una risposta non viene valutata solo per la quantità di informazioni. Conta anche la capacità di usare il lessico giusto: legalità, imparzialità, procedimento, motivazione, trasparenza, competenza, responsabilità, performance, tracciabilità, output.
 
-Le parole chiave sono segnali. Mostrano alla commissione che hai capito il perimetro della domanda.
+Le parole chiave mostrano alla commissione che hai capito il perimetro della domanda.
 
 ## Come usare queste 100 parole
 
@@ -38,7 +38,7 @@ Per ogni parola devi allenare tre livelli.
 | Importanza | perché conta in PA o nel concorso? | Colleghi la parola alla funzione. |
 | Uso | Come la inserisco in una frase? | Costruisci risposte scritte e orali. |
 
-Non devi usare tutte le parole in ogni risposta. Devi scegliere quelle pertinenti.
+In ogni risposta scegli solo le parole pertinenti.
 
 Una buona risposta di concorso contiene poche parole chiave, ma usate bene.
 

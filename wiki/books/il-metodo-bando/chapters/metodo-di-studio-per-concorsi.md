@@ -9,14 +9,14 @@ entities: ["Piano 30/60/90 giorni", "Diario degli errori"]
 source_refs: ["sources/struttura-madre-il-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/metodo-bando-capitolo-13-bozza-sito-2026-05-30.md", "sources/apprendimento-efficace-active-recall-ripasso-distribuito.md", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.9
-updated_at: "2026-06-03T20:30:07+02:00"
+updated_at: "2026-07-24T00:00:00+02:00"
 created_at: "2026-05-10T11:45:00+02:00"
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "part-3"]
 book_id: il-metodo-bando
 outline_section: 13
-draft_stage: revised-editorial-draft
+draft_stage: publication-ready
 last_compiled_from: ["sources/struttura-madre-il-metodo-bando.md", "sources/metodo-bando-capitolo-13-bozza-sito-2026-05-30.md", "sources/apprendimento-efficace-active-recall-ripasso-distribuito.md", "topics/metodo-di-studio.md", "topics/piano-30-60-90-giorni.md", "topics/diario-errori.md"]
 ---
 
@@ -32,7 +32,7 @@ Il punto di partenza corretto è diverso:
 
 > Non si studia prima di aver capito che cosa il concorso richiede davvero.
 
-Questo capitolo trasforma il Metodo BANDO in un metodo di studio quotidiano. Non sostituisce le materie già viste nella Parte II. Ti insegna a usarle: che cosa leggere, che cosa trasformare in domanda, quando ripassare, quando fare quiz, quando simulare, quando tagliare e quando recuperare.
+Questo capitolo porta il Metodo BANDO nella routine di studio. Le materie della Parte II restano le stesse; qui impari a usarle: che cosa leggere, che cosa trasformare in domanda, quando ripassare, quando fare quiz, quando simulare, quando tagliare e quando recuperare.
 
 ![Figura 13.1 - Metodo di studio per concorsi: il Metodo BANDO trasforma bando, aree, nuclei, diario e output in una settimana governata.](../assets/chapter-13/01-mappa-metodo-studio-bando.png)
 
@@ -56,7 +56,7 @@ Questa mappa va usata ogni settimana. Se ti senti bloccato, non aggiungere subit
 
 ## B - Bando: decodificare prima di studiare
 
-Il bando è il documento più importante della preparazione. Non è una formalità amministrativa: è la mappa del concorso. Prima di aprire un manuale devi estrarre almeno cinque informazioni:
+Il bando è la mappa del concorso. Prima di aprire un manuale estrai almeno cinque informazioni:
 
 1. requisiti di partecipazione;
 2. scadenze e modalità di iscrizione;
@@ -160,7 +160,7 @@ Per studiare i nuclei usa una sequenza semplice:
 
 ![Figura 13.4 - SQ3R per i nuclei ad alta resa: survey, question, read, recite e review trasformano la lettura in verifica.](../assets/chapter-13/04-sq3r-nuclei-alta-resa.png)
 
-Il passaggio decisivo è trasformare lo studio in domande. Non basta leggere "il responsabile del procedimento". Devi chiederti:
+Lo studio diventa utile quando genera domande. Dopo aver letto "il responsabile del procedimento", chiediti:
 
 - chi lo individua?
 - quali funzioni svolge?
@@ -344,7 +344,7 @@ Il candidato maturo non recupera tutto. Recupera ciò che cambia il risultato.
 
 ## Caso guidato
 
-sarà prepara un concorso per istruttore amministrativo comunale. All'inizio studia diritto amministrativo dal primo capitolo del manuale, due ore al giorno. Dopo tre settimane ha sottolineato molto, ma nei quiz sbaglia accesso, procedimento e organi comunali.
+Sara prepara un concorso per istruttore amministrativo comunale. All'inizio studia diritto amministrativo dal primo capitolo del manuale, due ore al giorno. Dopo tre settimane ha sottolineato molto, ma nei quiz sbaglia accesso, procedimento e organi comunali.
 
 Con il Metodo BANDO riparte dal bando. Scopre che la prova è a quiz, con orale successivo, e che pesano molto diritto amministrativo, enti locali, pubblico impiego e trasparenza. Divide il programma in aree, sceglie nuclei ad alta resa, trasforma ogni capitolo in domande e apre un diario.
 

@@ -9,14 +9,14 @@ entities: ["D.Lgs. 36/2023", "D.Lgs. 209/2024", "RUP", "ANAC", "MEPA", "Consip",
 source_refs: ["sources/struttura-madre-il-metodo-bando.md", "sources/capitolo-9-corpus-fonti-ufficiali-contratti-pubblici-2026-05-26.md", "sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024.md", "sources/ciclo-contratti-pubblici-rup-stazione-appaltante-operatore-economico.md", "sources/procedure-affidamento-gare-appalti-concessioni-soglie.md", "sources/digitalizzazione-contratti-pubblici-anac-bdncp-fvoe-pcp.md", "sources/mepa-consip-acquisti-in-rete-strumenti-acquisto-negoziazione.md", "sources/trasparenza-anticorruzione-controlli-tracciabilita-contratti-pubblici.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.95
-updated_at: "2026-07-21T15:30:00+02:00"
+updated_at: "2026-07-23T00:00:00+02:00"
 created_at: "2026-05-10T11:45:00+02:00"
 review_required: true
 canonical: true
 tags: ["book-chapter", "common-subject", "revised"]
 book_id: il-metodo-bando
 outline_section: 9
-draft_stage: editorial-revision
+draft_stage: editorial-review
 last_compiled_from: ["wiki/books/il-metodo-bando/struttura-madre.md", "topics/contratti-pubblici.md", "sources/capitolo-9-corpus-fonti-ufficiali-contratti-pubblici-2026-05-26.md", "sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024.md", "sources/ciclo-contratti-pubblici-rup-stazione-appaltante-operatore-economico.md", "sources/procedure-affidamento-gare-appalti-concessioni-soglie.md", "sources/digitalizzazione-contratti-pubblici-anac-bdncp-fvoe-pcp.md", "sources/mepa-consip-acquisti-in-rete-strumenti-acquisto-negoziazione.md", "sources/trasparenza-anticorruzione-controlli-tracciabilita-contratti-pubblici.md"]
 ---
 
@@ -24,7 +24,7 @@ last_compiled_from: ["wiki/books/il-metodo-bando/struttura-madre.md", "topics/co
 
 ## Perché studiare i contratti pubblici
 
-I contratti pubblici sono il punto in cui l'amministrazione trasforma un fabbisogno in una prestazione concreta: un lavoro, un servizio, una fornitura o una concessione. Un Comune che acquista software, un ministero che affida un servizio di vigilanza, una Regione che realizza un'opera, un'università che stipula un contratto di manutenzione non stanno compiendo una semplice operazione commerciale. Stanno usando risorse pubbliche, secondo regole pubbliche, per realizzare un interesse pubblico.
+I contratti pubblici regolano il passaggio dal fabbisogno a una prestazione concreta: un lavoro, un servizio, una fornitura o una concessione. Quando un Comune acquista software, un ministero affida un servizio di vigilanza, una Regione realizza un'opera o un'università stipula un contratto di manutenzione, usa risorse pubbliche secondo regole pubbliche per realizzare un interesse pubblico.
 
 Per questo la materia compare spesso nei concorsi, anche quando il profilo non è specialistico. La commissione non pretende sempre la conoscenza dettagliata di ogni articolo del Codice, ma verifica se il candidato sa riconoscere soggetti, principi, fasi, strumenti, responsabilità e controlli. La domanda tipica non è solo "che cos'è una gara?", ma "come passa la PA dal fabbisogno all'esecuzione corretta del contratto?".
 
@@ -80,7 +80,7 @@ La domanda guida è: "Questo elemento serve a capire come la PA compra, affida, 
 
 La pubblica amministrazione non produce sempre direttamente tutto ciò che serve all'interesse pubblico. Per costruire una scuola, acquistare computer, gestire un servizio di pulizia, manutenere un software o affidare la gestione di un servizio, può rivolgersi al mercato.
 
-Il contratto pubblico è quindi uno strumento di azione amministrativa. Non è solo un accordo economico: è il risultato di una sequenza regolata, perché l'amministrazione usa risorse pubbliche e deve rispettare legalità, concorrenza, trasparenza, imparzialità, buon andamento e controllo.
+Il contratto pubblico è uno strumento di azione amministrativa. Nasce da una sequenza regolata, perché l'amministrazione usa risorse pubbliche e deve rispettare legalità, concorrenza, trasparenza, imparzialità, buon andamento e controllo.
 
 Nei concorsi è utile distinguere tre livelli:
 
@@ -98,7 +98,7 @@ La fonte centrale è il Codice dei contratti pubblici, contenuto nel D.Lgs. 36/2
 
 > **Data della verifica normativa.** Il controllo editoriale del 21 luglio 2026 ha utilizzato il testo Normattiva vigente al 30 giugno 2026. La banca dati segnala come ultimo aggiornamento dell'atto una pubblicazione del 23 marzo 2026. Questa data rende attuale il riferimento generale del capitolo, ma non sostituisce la verifica puntuale di soglie, termini, allegati e regole transitorie alla data del bando.
 
-Per un manuale da concorso non serve analizzare articolo per articolo. Serve invece comprendere la logica del sistema:
+In un manuale da concorso conta comprendere la logica del sistema, senza analizzare il Codice articolo per articolo:
 
 - principi generali;
 - soggetti del ciclo contrattuale;
@@ -319,7 +319,7 @@ Nei concorsi, il punto è non fermarsi all'aggiudicazione. La fase esecutiva pu�
 
 ### 15. Digitalizzazione: BDNCP, PCP, FVOE e piattaforme
 
-La digitalizzazione dei contratti pubblici non è un accessorio informatico. Gli articoli 19-28 la collocano nel ciclo di vita dei contratti; dal 1° gennaio 2024 il sistema digitale è divenuto operativo secondo le regole e i provvedimenti attuativi. Per i concorsi devi conoscere i concetti, non i passaggi operativi minuto per minuto.
+La digitalizzazione dei contratti pubblici riguarda l'intero ciclo di vita dei contratti. Gli articoli 19-28 la disciplinano e, dal 1° gennaio 2024, il sistema digitale opera secondo le regole e i provvedimenti attuativi. Per i concorsi devi conoscere i concetti, non ogni passaggio operativo.
 
 | Strumento | Funzione essenziale |
 |---|---|

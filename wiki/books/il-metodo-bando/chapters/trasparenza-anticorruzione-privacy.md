@@ -9,14 +9,14 @@ entities: ["ANAC", "Garante Privacy", "RPCT", "DPO", "RPD", "Piano Integrato di 
 source_refs: ["sources/struttura-madre-il-metodo-bando.md", "sources/capitolo-7-corpus-fonti-ufficiali-trasparenza-anticorruzione-privacy-2026-05-26.md", "sources/d-lgs-14-marzo-2013-n-33-trasparenza.md", "sources/d-lgs-25-maggio-2016-n-97-foia-e-revisione-trasparenza.md", "sources/legge-7-agosto-1990-n-241-procedimento-amministrativo-e-accesso-ai-documenti-amministrativi-testo-vigente-normattiva.md", "sources/legge-6-novembre-2012-n-190-anticorruzione.md", "sources/anac-linee-guida-accesso-civico-e-obblighi-pubblicazione-2016.md", "sources/anac-piano-nazionale-anticorruzione-2025-delibera-n-19-del-28-gennaio-2026.md", "sources/d-lgs-8-aprile-2013-n-39-inconferibilita-e-incompatibilita-incarichi.md", "sources/d-p-r-16-aprile-2013-n-62-codice-comportamento-dipendenti-pubblici.md", "sources/d-p-r-13-giugno-2023-n-81-modifiche-codice-comportamento.md", "sources/d-lgs-10-marzo-2023-n-24-whistleblowing.md", "sources/regolamento-ue-2016-679-gdpr-protezione-dati-personali.md", "sources/d-lgs-30-giugno-2003-n-196-codice-privacy-e-d-lgs-101-2018-adeguamento-gdpr.md", "sources/garante-privacy-gdpr-guida-operativa-diritti-sicurezza-dpo.md", "sources/garante-privacy-trasparenza-pa-accesso-civico-e-dati-personali.md", "sources/d-p-r-24-giugno-2022-n-81-piao-adempimenti-assorbiti.md", "sources/decreto-30-giugno-2022-n-132-piano-tipo-piao.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.95
-updated_at: "2026-07-21T14:20:00+02:00"
+updated_at: "2026-07-23T00:00:00+02:00"
 created_at: "2026-05-10T11:45:00+02:00"
 review_required: true
 canonical: true
 tags: ["book-chapter", "common-subject", "revised"]
 book_id: il-metodo-bando
 outline_section: 7
-draft_stage: editorial-revision
+draft_stage: editorial-review
 last_compiled_from: ["wiki/books/il-metodo-bando/struttura-madre.md", "topics/anticorruzione-e-trasparenza.md", "topics/privacy-e-protezione-dati.md", "entities/anac.md", "sources/capitolo-7-corpus-fonti-ufficiali-trasparenza-anticorruzione-privacy-2026-05-26.md"]
 ---
 
@@ -24,9 +24,9 @@ last_compiled_from: ["wiki/books/il-metodo-bando/struttura-madre.md", "topics/an
 
 ## Perché studiare trasparenza, anticorruzione e privacy
 
-Trasparenza, anticorruzione e privacy compaiono spesso nei bandi come tre parole vicine. In realtà non sono sinonimi e non spingono sempre nella stessa direzione. La trasparenza rende conoscibile l'attività pubblica; l'anticorruzione prova a prevenire il cattivo uso del potere; la privacy protegge i dati personali quando l'amministrazione raccoglie, usa, comunica o pubblica informazioni su persone fisiche.
+Trasparenza, anticorruzione e privacy compaiono spesso vicine nei bandi, ma hanno funzioni diverse. La trasparenza rende conoscibile l'attività pubblica; l'anticorruzione previene il cattivo uso del potere; la privacy protegge i dati personali quando l'amministrazione raccoglie, usa, comunica o pubblica informazioni su persone fisiche.
 
-Per il candidato la regola è semplice ma decisiva: non basta dire che "la PA deve essere trasparente". Occorre sapere chi può chiedere cosa, con quale strumento, entro quali limiti, con quali cautele per i dati personali e con quali responsabilità organizzative.
+Per il candidato la regola è chiara: indica chi può chiedere cosa, con quale strumento, entro quali limiti, con quali cautele per i dati personali e con quali responsabilità organizzative.
 
 Questo capitolo non ripete per intero il procedimento amministrativo già trattato nel Capitolo 5 né i doveri del dipendente già trattati nel Capitolo 6. Qui li richiama solo quando servono a risolvere le domande più frequenti: accesso documentale o accesso civico? Pubblicazione obbligatoria o diffusione illecita? Prevenzione della corruzione o sanzione disciplinare? Consenso privacy o obbligo legale della PA?
 
@@ -485,7 +485,7 @@ Risposta da concorso: l'amministrazione deve distinguere accesso civico semplice
 
 ## Errore tipico
 
-L'errore più frequente è usare "trasparenza" come parola magica. In una risposta da concorso non basta dire che la PA deve essere trasparente. Devi sempre specificare: quale istituto si applica, quale fonte lo disciplina, chi può attivarlo, qual è l'oggetto, quali sono i limiti e come si bilancia con privacy, segreti, buon andamento e interessi pubblici.
+L'errore più frequente è usare "trasparenza" come parola magica. In una risposta da concorso specifica l'istituto applicabile, la fonte, chi può attivarlo, l'oggetto, i limiti e il bilanciamento con privacy, segreti, buon andamento e interessi pubblici.
 
 Secondo errore frequente: applicare il consenso privacy a qualunque trattamento della PA. Nel settore pubblico spesso il trattamento si fonda su obbligo legale, interesse pubblico o esercizio di pubblici poteri.
 

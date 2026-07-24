@@ -9,14 +9,14 @@ entities: ["Pubblica amministrazione", "CEFR", "QCER", "Council of Europe", "MIM
 source_refs: ["sources/struttura-madre-il-metodo-bando.md", "sources/inglese-concorsi-corpus-fonti-ufficiali-2026-05-28.md", "sources/inglese-grammatica-concorsuale-cloze-tempi-modali-preposizioni.md", "sources/inglese-lessico-funzioni-comunicative-comprensione.md", "sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego.md", "sources/d-p-r-9-maggio-1994-n-487-accesso-agli-impieghi-pubblici-e-concorsi.md", "sources/d-p-r-16-giugno-2023-n-82-modifiche-al-d-p-r-487-1994-sui-concorsi.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.88
-updated_at: 2026-07-21T00:00:00+02:00
+updated_at: 2026-07-23T00:00:00+02:00
 created_at: 2026-05-10T11:45:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "common-subject", "inglese"]
 book_id: il-metodo-bando
 outline_section: 11
-draft_stage: editorial-revision
+draft_stage: publication-ready
 last_compiled_from: ["wiki/sources/inglese-concorsi-corpus-fonti-ufficiali-2026-05-28.md", "wiki/sources/inglese-grammatica-concorsuale-cloze-tempi-modali-preposizioni.md", "wiki/sources/inglese-lessico-funzioni-comunicative-comprensione.md", "wiki/topics/inglese-concorsuale.md", "wiki/topics/cloze-test-inglese.md", "wiki/topics/grammatica-inglese-concorsi.md", "wiki/topics/lessico-inglese-pa.md"]
 ---
 
@@ -24,7 +24,7 @@ last_compiled_from: ["wiki/sources/inglese-concorsi-corpus-fonti-ufficiali-2026-
 
 ## Perché l'inglese conta nei concorsi
 
-L'inglese nei concorsi pubblici non è una materia ornamentale. Serve a verificare se il candidato sa comprendere messaggi semplici, riconoscere forme grammaticali corrette, interpretare un breve testo e usare formule essenziali in un contesto di lavoro. La prova può comparire come gruppo di quiz, come parte dell'orale, come lettura di un brano, come domanda situazionale o come accertamento collegato al profilo.
+L'inglese nei concorsi pubblici verifica se il candidato sa comprendere messaggi semplici, riconoscere forme grammaticali corrette, interpretare un breve testo e usare formule essenziali in un contesto di lavoro. La prova può comparire come gruppo di quiz, parte dell'orale, lettura di un brano, domanda situazionale o accertamento collegato al profilo.
 
 Per molti candidati l'errore è studiare inglese come se dovessero sostenere un esame scolastico completo. Nei concorsi, invece, l'obiettivo è più preciso: rispondere bene a domande ricorrenti, evitare le trappole grammaticali, capire il senso di email e avvisi, saper formulare frasi brevi e corrette. Non serve dimostrare uno stile raffinato; serve essere affidabili.
 
@@ -116,7 +116,7 @@ Nel bando l'inglese può apparire in modi diversi. La strategia cambia in base a
 
 ## 1. Cloze e completamento frase
 
-Il cloze è il formato più importante. Una frase contiene uno spazio vuoto e il candidato deve scegliere l'opzione corretta. La difficoltà non è solo conoscere la parola, ma capire quale parola funziona nella struttura della frase.
+Il cloze ricorre spesso nelle prove. Una frase contiene uno spazio vuoto e il candidato deve scegliere l'opzione corretta, valutando quale parola funziona nella struttura della frase.
 
 Esempio:
 
@@ -654,7 +654,7 @@ Mario Rossi
 
 ## 13. Lessico amministrativo essenziale
 
-Questa tabella non sostituisce un dizionario. Serve a costruire il vocabolario minimo per leggere avvisi, quiz e brevi testi amministrativi.
+Questa tabella costruisce il vocabolario minimo per leggere avvisi, quiz e brevi testi amministrativi; non sostituisce un dizionario.
 
 | Italiano | Inglese |
 |---|---|
@@ -959,7 +959,7 @@ Completa le frasi scegliendo la forma corretta.
 
 | N. | Frase | Opzioni |
 |---:|---|---|
-| 1 | The office ___ at 9 a.m. | open / opens / is open |
+| 1 | The office ___ every morning at 9 a.m. | open / opens / is open |
 | 2 | She ___ the application yesterday. | sends / sent / has sent |
 | 3 | Candidates must ___ an identity document. | bring / to bring / bringing |
 | 4 | The results ___ published online tomorrow. | will be / were / have |

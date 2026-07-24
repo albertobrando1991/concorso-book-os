@@ -9,14 +9,14 @@ entities: ["Metodo BANDO", "Bando Decoder", "Diario degli errori", "Piano 30/60/
 source_refs: ["sources/struttura-madre-il-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md", "sources/capitoli-21-23-corpus-moduli-piano-diario-2026-06-01.md", "sources/checklist-operative-concorsi-metodo-bando.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.9
-updated_at: "2026-07-21T00:00:00+02:00"
+updated_at: "2026-07-24T00:00:00+02:00"
 created_at: "2026-05-10T11:45:00+02:00"
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "part-5", "workbook", "checklist"]
 book_id: il-metodo-bando
 outline_section: 24
-draft_stage: revised-editorial-draft
+draft_stage: publication-ready
 last_compiled_from: ["sources/checklist-operative-concorsi-metodo-bando.md", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md", "topics/checklist-concorsi.md", "topics/piano-30-60-90-giorni.md", "topics/diario-errori.md"]
 ---
 
@@ -24,9 +24,9 @@ last_compiled_from: ["sources/checklist-operative-concorsi-metodo-bando.md", "so
 
 Questo capitolo è il kit finale del candidato.
 
-Non introduce una nuova materia. Trasforma tutto ciò che hai visto nel libro in controlli pratici: scegliere, verificare, inviare, studiare, simulare, arrivare alla prova, gestire gli ultimi giorni e imparare dal risultato.
+Non introduce una nuova materia. Raccoglie in controlli pratici ciò che hai visto nel libro: scegliere, verificare, inviare, studiare, simulare, arrivare alla prova, gestire gli ultimi giorni e imparare dal risultato.
 
-Una checklist non serve a tranquillizzarti. Serve a impedirti di dimenticare ciò che conta quando sei stanco, in ritardo o sotto pressione.
+Una checklist impedisce di dimenticare ciò che conta quando sei stanco, in ritardo o sotto pressione; non serve soltanto a tranquillizzarti.
 
 Nel Metodo BANDO la checklist è un atto di metodo:
 
@@ -276,7 +276,7 @@ L'orale non si prepara leggendo in silenzio. Si prepara parlando.
 
 Gli ultimi 7 giorni non servono ad aprire nuovi mondi. Servono a stabilizzare.
 
-| Giorno | priorità | Fatto |
+| Giorno | Priorità | Fatto |
 |---|---|---|
 | -7 | Simulazione o prova completa, correzione profonda. | |
 | -6 | Ripasso errori principali, flashcard, modulo debole. | |
@@ -364,7 +364,7 @@ Non usare frasi vaghe come "devo stare calmo". Usa istruzioni:
 
 ## Checklist 11 - Dopo la prova
 
-Il dopo prova serve a migliorare, non solo ad aspettare.
+Il dopo prova è il momento per migliorare, non solo per aspettare.
 
 | Controllo | Sì/No | Nota |
 |---|---|---|
@@ -475,9 +475,9 @@ Non aggiunge un nuovo manuale. Riduce il rischio.
 
 ## Domanda da commissario
 
-**perché una checklist è utile anche a un candidato ben preparato?**
+**Perché una checklist è utile anche a un candidato ben preparato?**
 
-perché la preparazione non elimina il rischio pratico. Scadenze, documenti, formato prova, tempo, sede, comunicazioni, regole e gestione dell'ansia possono compromettere anche chi ha studiato. La checklist rende controllabili i passaggi essenziali.
+Perché la preparazione non elimina il rischio pratico. Scadenze, documenti, formato prova, tempo, sede, comunicazioni, regole e gestione dell'ansia possono compromettere anche chi ha studiato. La checklist rende controllabili i passaggi essenziali.
 
 ## Domanda-trappola
 

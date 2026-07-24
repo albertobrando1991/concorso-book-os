@@ -9,22 +9,22 @@ entities: ["Metodo BANDO"]
 source_refs: ["sources/schema-universale-risposta-orale-metodo-bando.md", "sources/struttura-madre-il-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md", "sources/apprendimento-efficace-active-recall-ripasso-distribuito.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.86
-updated_at: "2026-07-21T00:00:00+02:00"
+updated_at: "2026-07-24T00:00:00+02:00"
 created_at: "2026-05-10T11:45:00+02:00"
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-appendix", "template"]
 book_id: il-metodo-bando
 outline_section: E
-draft_stage: revised-editorial-draft
+draft_stage: publication-ready
 last_compiled_from: ["sources/schema-universale-risposta-orale-metodo-bando.md", "topics/schema-risposta-orale.md", "topics/prova-orale.md", "topics/risposta-concorsuale.md"]
 ---
 
 # Appendice E - Schema universale di risposta orale
 
-Questa appendice serve a trasformare quello che hai studiato in una risposta orale ordinata.
+Questa appendice ti aiuta a portare ciò che hai studiato in una risposta orale ordinata.
 
-Non è un copione da imparare a memoria. È una struttura flessibile: ti aiuta a iniziare, selezionare, collegare, chiudere e recuperare quando la domanda cambia forma.
+È una struttura flessibile, non un copione da imparare a memoria: ti aiuta a iniziare, selezionare, collegare, chiudere e recuperare quando la domanda cambia forma.
 
 Usala dopo aver studiato un argomento e prima di ogni simulazione. Se una risposta non entra nello schema, di solito il problema non è la commissione: è che il nucleo non è ancora chiaro.
 
