@@ -146,3 +146,7 @@
 {"id":"conv-20260724142518-1j9pwao","createdAt":"2026-07-24T14:25:18.372Z","scope":"editorial-reviewer","route":"ricettario-digitale-h2","l0Path":"l0\\conv-20260724142518-1j9pwao.md","messageCount":2,"replyChars":250}
 {"id":"conv-20260724143148-cyi81n","createdAt":"2026-07-24T14:31:48.826Z","scope":"editorial-reviewer","route":"ricettario-digitale-h3","l0Path":"l0\\conv-20260724143148-cyi81n.md","messageCount":2,"replyChars":255}
 {"id":"conv-20260724145817-qirewl","createdAt":"2026-07-24T14:58:17.688Z","scope":"editorial-reviewer","route":"ricettario-digitale-final","l0Path":"l0\\conv-20260724145817-qirewl.md","messageCount":2,"replyChars":340}
+{"id":"conv-20260724170619-473ga","createdAt":"2026-07-24T17:06:19.238Z","scope":"concorso-book","route":"codex/kdp-print-profile","l0Path":"l0\\conv-20260724170619-473ga.md","messageCount":1,"replyChars":293}
+{"id":"conv-20260724172200-99qela","createdAt":"2026-07-24T17:22:00.168Z","scope":"concorso-book","route":"codex/kdp-format-conversion","l0Path":"l0\\conv-20260724172200-99qela.md","messageCount":1,"replyChars":238}
+{"id":"conv-20260724183715-x8ht71","createdAt":"2026-07-24T18:37:15.849Z","scope":"concorso-book","route":"codex/kdp-layout-audit","l0Path":"l0\\conv-20260724183715-x8ht71.md","messageCount":1,"replyChars":239}
+{"id":"conv-20260725111642-15ottoq","createdAt":"2026-07-25T11:16:42.791Z","scope":"concorso-book","route":"codex/volume1-print-master","l0Path":"l0\\conv-20260725111642-15ottoq.md","messageCount":1,"replyChars":216}

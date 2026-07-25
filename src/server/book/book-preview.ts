@@ -124,6 +124,8 @@ const INDEX_FIRST_PAGE_HEADER_COST = 150
 const INDEX_RUNNING_HEADER_COST = 34
 const DEFAULT_MAX_TABLE_ROWS_PER_PREVIEW_BLOCK = 4
 const VERBOSE_TABLE_ROWS_PER_PREVIEW_BLOCK = 2
+const VERY_VERBOSE_TABLE_ROWS_PER_PREVIEW_BLOCK = 1
+const VERY_VERBOSE_TABLE_CELL_LENGTH = 160
 const MAX_LIST_ITEMS_PER_PREVIEW_BLOCK = 4
 const MAX_PARAGRAPH_WORDS_PER_PREVIEW_BLOCK = 72
 
@@ -1203,9 +1205,14 @@ function splitOversizedBlocks(blocks: MarkdownBlock[]) {
       continue
     }
 
-    if (block.type === "table" && (block.rows?.length || 0) > DEFAULT_MAX_TABLE_ROWS_PER_PREVIEW_BLOCK) {
+    if (block.type === "table") {
       const rows = block.rows || []
       const rowsPerBlock = tableRowsPerPreviewBlock(block)
+
+      if (rows.length <= rowsPerBlock) {
+        next.push(block)
+        continue
+      }
 
       for (let index = 0; index < rows.length; index += rowsPerBlock) {
         next.push({
@@ -1242,6 +1249,12 @@ function tableRowsPerPreviewBlock(block: MarkdownBlock) {
   const cells = (block.rows || []).flat().filter(Boolean)
   const averageCellLength = cells.reduce((total, cell) => total + cell.length, 0) / Math.max(1, cells.length)
   const maxCellLength = cells.reduce((max, cell) => Math.max(max, cell.length), 0)
+
+  // A two-row fragment with an exceptionally long cell can be taller than the
+  // remaining printable area. Keeping it intact pushes the whole fragment to
+  // the next page and leaves a large blank area behind. Split only these
+  // exceptional rows; regular verbose tables keep their denser two-row layout.
+  if (maxCellLength >= VERY_VERBOSE_TABLE_CELL_LENGTH) return VERY_VERBOSE_TABLE_ROWS_PER_PREVIEW_BLOCK
 
   if (averageCellLength >= 24 || maxCellLength >= 80) return VERBOSE_TABLE_ROWS_PER_PREVIEW_BLOCK
 

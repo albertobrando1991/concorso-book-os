@@ -5,6 +5,8 @@ Usala come profilo di lavoro: le source notes e il wiki restano la base canonica
 
 ## Preferenze e istruzioni recenti
 
+- Procedi con il controllo di riflusso del Volume 1 nel formato KDP. (mem-20260724183715-1cqjnjg)
+- Adattiamo tutti i volumi al formato professionale 17 x 24 circa per Amazon KDP in maniera precisa. (mem-20260724172200-1rbnci4)
 - Effettuare la revisione Humanizer su ogni capitolo del Volume 1 e applicare le correzioni necessarie. (mem-20260723183546-1ep4dhr)
 - continua la revisione professionale del volume 1 in base alla nuova matrice, da dove ci siamo fermati anche dopo il lavoro di Claude (mem-20260723082451-1cxr7t6)
 - Proseguo con P9: il Capitolo 8 e confermato completo sul piano didattico di base; applica fonti, riferimenti normativi e matrice, senza duplicazioni. (mem-20260721150307-1axikhx)

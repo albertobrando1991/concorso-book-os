@@ -1915,3 +1915,38 @@
 - l0: l0/conv-20260724145817-qirewl.md
 - atoms:
   - mem-20260724145817-19jg7n | result | Esito ricettario-digitale-final: Completa. -> Completata la revisione editoriale e Humanizer del Ricettario operativo digitale: 23 moduli, R1-R23, capitoli 25-47.
+
+## 2026-07-24T17:06:19.238Z - concorso-book
+
+- conversation_id: conv-20260724170619-473ga
+- route: codex/kdp-print-profile
+- l0: l0/conv-20260724170619-473ga.md
+- atoms:
+  - mem-20260724170619-1qhvvbc | project_fact | Vorrei impostare il libro con tutti i parametri previsti per la stampa con Amazon.
+  - mem-20260724170619-h8qhdq | result | Esito codex/kdp-print-profile: Vorrei impostare il libro con tutti i parametri previsti per la stampa con Amazon. -> Impostato il profilo di stampa Amazon KDP per Il Metodo BANDO: paperback A4 210 x 297 mm, bianco e nero su carta bianca, senza abbondanza, margini di sicurezza 18 mm sopra/sotto e 16 mm sui lati.
+
+## 2026-07-24T17:22:00.168Z - concorso-book
+
+- conversation_id: conv-20260724172200-99qela
+- route: codex/kdp-format-conversion
+- l0: l0/conv-20260724172200-99qela.md
+- atoms:
+  - mem-20260724172200-1rbnci4 | instruction | Adattiamo tutti i volumi al formato professionale 17 x 24 circa per Amazon KDP in maniera precisa.
+  - mem-20260724172200-v0ylt4 | result | Esito codex/kdp-format-conversion: Adattiamo tutti i volumi al formato professionale 17 x 24 circa per Amazon KDP in maniera precisa. -> Tutto il Book Studio e le istruzioni editoriali usano ora il paperback KDP 6,69 x 9,61 in (16,99 x 24,41 cm), bianco e nero su carta bianca senza bleed, con margini speculari e gutter da 23 mm compatibile con tutti i ...
+
+## 2026-07-24T18:37:15.849Z - concorso-book
+
+- conversation_id: conv-20260724183715-x8ht71
+- route: codex/kdp-layout-audit
+- l0: l0/conv-20260724183715-x8ht71.md
+- atoms:
+  - mem-20260724183715-1cqjnjg | instruction | Procedi con il controllo di riflusso del Volume 1 nel formato KDP.
+  - mem-20260724183715-1wm2j1f | result | Esito codex/kdp-layout-audit: Procedi con il controllo di riflusso del Volume 1 nel formato KDP. -> Audit visuale KDP eseguito sul Volume 1: 554 pagine, nessun overflow.
+
+## 2026-07-25T11:16:42.791Z - concorso-book
+
+- conversation_id: conv-20260725111642-15ottoq
+- route: codex/volume1-print-master
+- l0: l0/conv-20260725111642-15ottoq.md
+- atoms:
+  - mem-20260725111642-1af28fv | result | Esito codex/volume1-print-master: Il Volume 1 deve mantenere immagini, testo giustificato, pagine allineate e tipografia professionale coerente. -> Master corretto: immagini senza compattazione selettiva, Garamond 11 pt per il corpo giustificato, gerarchia Arial per titoli e strumenti, margini speculari KDP 20/13 mm e controllo automatico di immagini e overflow.

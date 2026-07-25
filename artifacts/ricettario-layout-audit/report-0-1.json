@@ -1,0 +1,315 @@
+{
+  "generatedAt": "2026-07-25T11:03:34.169Z",
+  "chapters": [
+    {
+      "path": "books/il-metodo-bando/chapters/aggiornare-il-metodo-dopo-il-libro.md",
+      "title": "Aggiornare il metodo dopo il libro",
+      "pages": [
+        {
+          "page": 1,
+          "freeSpace": 140,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 2,
+          "freeSpace": 206,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 3,
+          "freeSpace": 128,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 4,
+          "freeSpace": 0,
+          "overflow": 20,
+          "lastBlock": "UL",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 5,
+          "freeSpace": 172,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 6,
+          "freeSpace": 91,
+          "overflow": 0,
+          "lastBlock": "FIGURE",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 7,
+          "freeSpace": 174,
+          "overflow": 0,
+          "lastBlock": "FIGURE",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 8,
+          "freeSpace": 268,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 9,
+          "freeSpace": 160,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 10,
+          "freeSpace": 174,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 11,
+          "freeSpace": 212,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 12,
+          "freeSpace": 196,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 13,
+          "freeSpace": 114,
+          "overflow": 0,
+          "lastBlock": "UL",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 14,
+          "freeSpace": 166,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 15,
+          "freeSpace": 241,
+          "overflow": 0,
+          "lastBlock": "DIV",
+          "lastBlockClass": "previewTableWrap continuedTable"
+        },
+        {
+          "page": 16,
+          "freeSpace": 400,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 17,
+          "freeSpace": 145,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 18,
+          "freeSpace": 154,
+          "overflow": 0,
+          "lastBlock": "UL",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 19,
+          "freeSpace": 551,
+          "overflow": 0,
+          "lastBlock": "UL",
+          "lastBlockClass": ""
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "chapterCount": 1,
+    "range": "0-1",
+    "pageCount": 19,
+    "overflowPages": 1,
+    "nonFinalOver120": 15,
+    "worst": [
+      {
+        "page": 16,
+        "freeSpace": 400,
+        "overflow": 0,
+        "lastBlock": "P",
+        "lastBlockClass": "",
+        "chapter": "Aggiornare il metodo dopo il libro",
+        "path": "books/il-metodo-bando/chapters/aggiornare-il-metodo-dopo-il-libro.md"
+      },
+      {
+        "page": 8,
+        "freeSpace": 268,
+        "overflow": 0,
+        "lastBlock": "P",
+        "lastBlockClass": "",
+        "chapter": "Aggiornare il metodo dopo il libro",
+        "path": "books/il-metodo-bando/chapters/aggiornare-il-metodo-dopo-il-libro.md"
+      },
+      {
+        "page": 15,
+        "freeSpace": 241,
+        "overflow": 0,
+        "lastBlock": "DIV",
+        "lastBlockClass": "previewTableWrap continuedTable",
+        "chapter": "Aggiornare il metodo dopo il libro",
+        "path": "books/il-metodo-bando/chapters/aggiornare-il-metodo-dopo-il-libro.md"
+      },
+      {
+        "page": 11,
+        "freeSpace": 212,
+        "overflow": 0,
+        "lastBlock": "P",
+        "lastBlockClass": "",
+        "chapter": "Aggiornare il metodo dopo il libro",
+        "path": "books/il-metodo-bando/chapters/aggiornare-il-metodo-dopo-il-libro.md"
+      },
+      {
+        "page": 2,
+        "freeSpace": 206,
+        "overflow": 0,
+        "lastBlock": "P",
+        "lastBlockClass": "",
+        "chapter": "Aggiornare il metodo dopo il libro",
+        "path": "books/il-metodo-bando/chapters/aggiornare-il-metodo-dopo-il-libro.md"
+      },
+      {
+        "page": 12,
+        "freeSpace": 196,
+        "overflow": 0,
+        "lastBlock": "P",
+        "lastBlockClass": "",
+        "chapter": "Aggiornare il metodo dopo il libro",
+        "path": "books/il-metodo-bando/chapters/aggiornare-il-metodo-dopo-il-libro.md"
+      },
+      {
+        "page": 7,
+        "freeSpace": 174,
+        "overflow": 0,
+        "lastBlock": "FIGURE",
+        "lastBlockClass": "",
+        "chapter": "Aggiornare il metodo dopo il libro",
+        "path": "books/il-metodo-bando/chapters/aggiornare-il-metodo-dopo-il-libro.md"
+      },
+      {
+        "page": 10,
+        "freeSpace": 174,
+        "overflow": 0,
+        "lastBlock": "P",
+        "lastBlockClass": "",
+        "chapter": "Aggiornare il metodo dopo il libro",
+        "path": "books/il-metodo-bando/chapters/aggiornare-il-metodo-dopo-il-libro.md"
+      },
+      {
+        "page": 5,
+        "freeSpace": 172,
+        "overflow": 0,
+        "lastBlock": "P",
+        "lastBlockClass": "",
+        "chapter": "Aggiornare il metodo dopo il libro",
+        "path": "books/il-metodo-bando/chapters/aggiornare-il-metodo-dopo-il-libro.md"
+      },
+      {
+        "page": 14,
+        "freeSpace": 166,
+        "overflow": 0,
+        "lastBlock": "P",
+        "lastBlockClass": "",
+        "chapter": "Aggiornare il metodo dopo il libro",
+        "path": "books/il-metodo-bando/chapters/aggiornare-il-metodo-dopo-il-libro.md"
+      },
+      {
+        "page": 9,
+        "freeSpace": 160,
+        "overflow": 0,
+        "lastBlock": "P",
+        "lastBlockClass": "",
+        "chapter": "Aggiornare il metodo dopo il libro",
+        "path": "books/il-metodo-bando/chapters/aggiornare-il-metodo-dopo-il-libro.md"
+      },
+      {
+        "page": 18,
+        "freeSpace": 154,
+        "overflow": 0,
+        "lastBlock": "UL",
+        "lastBlockClass": "",
+        "chapter": "Aggiornare il metodo dopo il libro",
+        "path": "books/il-metodo-bando/chapters/aggiornare-il-metodo-dopo-il-libro.md"
+      },
+      {
+        "page": 17,
+        "freeSpace": 145,
+        "overflow": 0,
+        "lastBlock": "P",
+        "lastBlockClass": "",
+        "chapter": "Aggiornare il metodo dopo il libro",
+        "path": "books/il-metodo-bando/chapters/aggiornare-il-metodo-dopo-il-libro.md"
+      },
+      {
+        "page": 1,
+        "freeSpace": 140,
+        "overflow": 0,
+        "lastBlock": "P",
+        "lastBlockClass": "",
+        "chapter": "Aggiornare il metodo dopo il libro",
+        "path": "books/il-metodo-bando/chapters/aggiornare-il-metodo-dopo-il-libro.md"
+      },
+      {
+        "page": 3,
+        "freeSpace": 128,
+        "overflow": 0,
+        "lastBlock": "P",
+        "lastBlockClass": "",
+        "chapter": "Aggiornare il metodo dopo il libro",
+        "path": "books/il-metodo-bando/chapters/aggiornare-il-metodo-dopo-il-libro.md"
+      },
+      {
+        "page": 13,
+        "freeSpace": 114,
+        "overflow": 0,
+        "lastBlock": "UL",
+        "lastBlockClass": "",
+        "chapter": "Aggiornare il metodo dopo il libro",
+        "path": "books/il-metodo-bando/chapters/aggiornare-il-metodo-dopo-il-libro.md"
+      },
+      {
+        "page": 6,
+        "freeSpace": 91,
+        "overflow": 0,
+        "lastBlock": "FIGURE",
+        "lastBlockClass": "",
+        "chapter": "Aggiornare il metodo dopo il libro",
+        "path": "books/il-metodo-bando/chapters/aggiornare-il-metodo-dopo-il-libro.md"
+      },
+      {
+        "page": 4,
+        "freeSpace": 0,
+        "overflow": 20,
+        "lastBlock": "UL",
+        "lastBlockClass": "",
+        "chapter": "Aggiornare il metodo dopo il libro",
+        "path": "books/il-metodo-bando/chapters/aggiornare-il-metodo-dopo-il-libro.md"
+      }
+    ]
+  }
+}

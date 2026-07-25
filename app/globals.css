@@ -23,12 +23,18 @@
   --book-gold: #d4af37;
   --book-offwhite: #f8fafc;
   --book-page-bg: #fffdf8;
-  --book-page-width: 210mm;
-  --book-page-height: 297mm;
-  --book-padding-top: clamp(22px, 6.2%, 46px);
-  --book-padding-right: clamp(20px, 6.3%, 48px);
-  --book-padding-bottom: clamp(24px, 6.2%, 46px);
-  --book-padding-left: clamp(22px, 6.6%, 50px);
+  /* Amazon KDP paperback profile: 6.69 x 9.61 in (16.99 x 24.41 cm),
+     black ink, white paper, no bleed, with mirrored recto/verso margins. */
+  --book-page-width: 6.69in;
+  --book-page-height: 9.61in;
+  --book-padding-top: 18mm;
+  /* Paperback KDP: 20 mm al dorso mantiene la sicurezza di rilegatura del
+     Volume 1 e restituisce una colonna di lettura equilibrata. */
+  --book-padding-outside: 13mm;
+  --book-padding-inside: 20mm;
+  --book-padding-right: var(--book-padding-outside);
+  --book-padding-bottom: 18mm;
+  --book-padding-left: var(--book-padding-inside);
 }
 
 * {
@@ -792,6 +798,11 @@ h1 {
   text-rendering: optimizeLegibility;
 }
 
+.bookPageVerso {
+  --book-padding-right: var(--book-padding-inside);
+  --book-padding-left: var(--book-padding-outside);
+}
+
 .paginationMeasurePage {
   width: var(--book-page-width);
   height: var(--book-page-height);
@@ -1029,7 +1040,7 @@ h1 {
 }
 
 @page {
-  size: A4;
+  size: 6.69in 9.61in;
   margin: 0;
 }
 
@@ -1069,7 +1080,7 @@ h1 {
     border: 0;
     border-radius: 0;
     box-shadow: none;
-    padding: 14mm 13mm 16mm 15mm;
+    padding: var(--book-padding-top) var(--book-padding-right) var(--book-padding-bottom) var(--book-padding-left);
     break-after: page;
     page-break-after: always;
   }
@@ -1080,9 +1091,7 @@ h1 {
   }
 
   .pageFooter {
-    right: 13mm;
-    bottom: 5mm;
-    left: 15mm;
+    bottom: 7mm;
   }
 }
 

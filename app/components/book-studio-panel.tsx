@@ -56,7 +56,6 @@ const MAIN_PAGE_FALLBACK_BUDGET = 920
 const FRONT_MATTER_PAGE_BUDGET = 980
 const PAGE_MEASURE_GUARD_SPACE = 12
 const PAGE_RENDER_GUARD_SPACE = 10
-
 const modeOptions: Array<{ value: ManualWriterMode; label: string }> = [
   { value: "integrate", label: "Integra richiesta" },
   { value: "format", label: "Sistema impaginazione" },
@@ -451,7 +450,7 @@ export function BookStudioPanel({
           <div className="bookPreviewToolbar">
             <div>
               <strong>{data.title}</strong>
-              <span>Master editoriale A4, testo giustificato | aggiornato {formatDate(data.updatedAt)}</span>
+              <span>Master cartaceo KDP 16,99 × 24,41 cm, testo giustificato | aggiornato {formatDate(data.updatedAt)}</span>
             </div>
             <span className="studioBadge">{viewMode === "book" ? "vista libro" : "vista capitolo"}</span>
           </div>
@@ -810,7 +809,7 @@ function BookPagePreview({ bookId, page }: { bookId: string; page: PreviewPage }
   }
 
   return (
-    <article className="bookPage" lang="it">
+    <article className={`bookPage ${bookPageSideClass(page.pageNumber)}`} lang="it">
       {page.isFirstPage ? (
         <header className="chapterPreviewHeader">
           <span className="chapterNumber">{chapterNumberLabel(chapter)}</span>
@@ -849,7 +848,7 @@ function FrontMatterPagePreview({ bookId, page }: { bookId: string; page: Previe
   }
 
   return (
-    <article className={`bookPage frontMatterPage ${layoutClass}`} lang="it">
+    <article className={`bookPage ${bookPageSideClass(page.pageNumber)} frontMatterPage ${layoutClass}`} lang="it">
       {page.chapterPageNumber > 1 ? (
         <div className="runningHeader">
           <span>{chapter.title}</span>
@@ -883,7 +882,7 @@ function DigitalServicesPagePreview({ bookId, page, layoutClass }: { bookId: str
   const bodyBlocks = imageIndex >= 0 ? page.blocks.slice(imageIndex + 1) : page.blocks.slice(2)
 
   return (
-    <article className={`bookPage frontMatterPage ${layoutClass}`} lang="it">
+    <article className={`bookPage ${bookPageSideClass(page.pageNumber)} frontMatterPage ${layoutClass}`} lang="it">
       <div className="digitalServicesHero">
         <div className="digitalHeroCopy">
           {heroBlocks.map((block, index) => (
@@ -915,6 +914,10 @@ function frontMatterLayoutClass(value: string) {
   const normalized = value.replace(/[^a-z0-9-]/gi, "").toLowerCase()
 
   return normalized ? `frontMatter-${normalized}` : "frontMatter-standard"
+}
+
+function bookPageSideClass(pageNumber: number) {
+  return pageNumber % 2 === 0 ? "bookPageVerso" : "bookPageRecto"
 }
 
 function PreviewBlock({ block, bookId }: { block: MarkdownBlock; bookId?: string }) {
@@ -1009,7 +1012,6 @@ function PreviewBlock({ block, bookId }: { block: MarkdownBlock; bookId?: string
 
   if (block.type === "image") {
     const src = block.path ? assetUrl(block.path) : ""
-
     if (!src) {
       return <p className="missingAsset">Immagine non disponibile: {block.path}</p>
     }
@@ -1265,7 +1267,8 @@ function refineRenderedPageOverflows(pages: PreviewPage[], root: HTMLDivElement 
 
     if (!footer || blockElements.length === 0) continue
 
-    const safeBottom = footer.getBoundingClientRect().top - PAGE_RENDER_GUARD_SPACE
+    const pageGuard = nextPages[index].chapter.bookScope === "ricettario" ? 30 : PAGE_RENDER_GUARD_SPACE
+    const safeBottom = footer.getBoundingClientRect().top - pageGuard
     const firstOverflowIndex = blockElements.findIndex(
       (blockElement) => blockElement.getBoundingClientRect().bottom > safeBottom
     )
@@ -1509,9 +1512,7 @@ function estimateBlockCost(block: MarkdownBlock) {
     return headerCost + (block.rows?.length || 0) * 22 + 8
   }
 
-  if (block.type === "image") {
-    return 315
-  }
+  if (block.type === "image") return 315
 
   if (block.type === "callout") {
     return Math.ceil(wordCount(`${block.title || ""} ${block.text || ""}`) / 16) * 18 + 28

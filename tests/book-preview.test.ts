@@ -161,6 +161,48 @@ describe("book preview assets", () => {
     }
   })
 
+  it("splits exceptionally tall table rows to avoid moving an oversized fragment to the next page", async () => {
+    const root = await mkdtemp(path.join(os.tmpdir(), "book-preview-very-verbose-table-"))
+    const veryVerboseRows = Array.from(
+      { length: 4 },
+      (_, index) =>
+        `| Passaggio ${index + 1} | ${"Descrizione operativa molto estesa ".repeat(7)}| Esito verificabile ${index + 1} |`
+    )
+
+    try {
+      await mkdir(path.join(root, "books/il-metodo-bando/chapters"), { recursive: true })
+      await writeFile(
+        path.join(root, "books/il-metodo-bando/index.md"),
+        "---\ntitle: Il Metodo BANDO\n---\n# Il Metodo BANDO",
+        "utf8"
+      )
+      await writeFile(
+        path.join(root, "books/il-metodo-bando/chapters/tabella-molto-verbosa.md"),
+        [
+          "---",
+          "title: Tabella molto verbosa",
+          "outline_section: 1",
+          "---",
+          "# Tabella molto verbosa",
+          "",
+          "| Fase | Descrizione | Esito |",
+          "| --- | --- | --- |",
+          ...veryVerboseRows
+        ].join("\n"),
+        "utf8"
+      )
+
+      const data = await buildBookStudioData(new FileWikiStore(root), "il-metodo-bando")
+      const tableBlocks = data.chapters[0].blocks.filter((block) => block.type === "table")
+
+      expect(tableBlocks).toHaveLength(4)
+      expect(tableBlocks.every((block) => block.rows?.length === 1)).toBe(true)
+      expect(tableBlocks.flatMap((block) => block.rows || [])).toHaveLength(4)
+    } finally {
+      await rm(root, { recursive: true, force: true })
+    }
+  })
+
   it("splits long paragraphs into smaller preview blocks for tighter pagination", async () => {
     const root = await mkdtemp(path.join(os.tmpdir(), "book-preview-paragraph-"))
     const longParagraph = Array.from(

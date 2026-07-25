@@ -8,10 +8,11 @@ const browser = await launchBrowser()
 const page = await browser.newPage({ viewport: { width: 1500, height: 1050 } })
 
 try {
-  await page.goto(`${baseUrl}/?bookId=il-metodo-bando#studio`, { waitUntil: "domcontentloaded", timeout: 120_000 })
+  await page.goto(`${baseUrl}/?bookId=il-metodo-bando#studio`, { waitUntil: "domcontentloaded", timeout: 180_000 })
   await page.locator("#studio").scrollIntoViewIfNeeded()
   await page.getByRole("button", { name: "Libro", exact: true }).click()
   await page.waitForSelector(".bookPages .bookPage", { timeout: 120_000 })
+  await page.waitForTimeout(1_500)
   await page.evaluate(() => document.fonts.ready)
   await waitForBookImages(page)
   await waitForStablePagination(page)
