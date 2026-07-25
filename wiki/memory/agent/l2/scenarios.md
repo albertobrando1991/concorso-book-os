@@ -1950,3 +1950,28 @@
 - l0: l0/conv-20260725111642-15ottoq.md
 - atoms:
   - mem-20260725111642-1af28fv | result | Esito codex/volume1-print-master: Il Volume 1 deve mantenere immagini, testo giustificato, pagine allineate e tipografia professionale coerente. -> Master corretto: immagini senza compattazione selettiva, Garamond 11 pt per il corpo giustificato, gerarchia Arial per titoli e strumenti, margini speculari KDP 20/13 mm e controllo automatico di immagini e overflow.
+
+## 2026-07-25T14:18:29.635Z - concorso-book
+
+- conversation_id: conv-20260725141829-1h2gv8
+- route: codex/volume1-layout-balance
+- l0: l0/conv-20260725141829-1h2gv8.md
+- atoms:
+  - mem-20260725141829-1yzxeeb | result | Esito codex/volume1-layout-balance: Procedi con il bilanciamento professionale delle pagine del Volume 1 mantenendo immagini, giustificazione e coerenza tipografica. -> Corretto il doppio accantonamento del margine inferiore nel budget di paginazione.
+
+## 2026-07-25T14:59:56.382Z - concorso-book
+
+- conversation_id: conv-20260725145956-1lpsf9l
+- route: codex/dashboard-essential-performance
+- l0: l0/conv-20260725145956-1lpsf9l.md
+- atoms:
+  - mem-20260725145956-yzalpc | workflow | Alleggerire molto la dashboard sulle funzioni essenziali per praticità e velocità di esecuzione.
+  - mem-20260725145956-a7dw5x | result | Esito codex/dashboard-essential-performance: Alleggerire molto la dashboard sulle funzioni essenziali per praticità e velocità di esecuzione. -> Dashboard essenziale implementata con selezione testo, Studio, Writer e Revisione.
+
+## 2026-07-25T15:08:09.350Z - concorso-book
+
+- conversation_id: conv-20260725150809-m7r0we
+- route: codex/github-team-sync
+- l0: l0/conv-20260725150809-m7r0we.md
+- atoms:
+  - mem-20260725150809-1djo0lm | result | Esito codex/github-team-sync: Portare tutte le modifiche su GitHub preservando eventuali modifiche dello staff non ancora scaricate localmente. -> Prima del commit e del push è stato eseguito fetch di origin/main e verificata l'assenza di divergenze remote.

@@ -151,9 +151,7 @@ async function buildSingleBookStudioData(store: FileWikiStore, bookId: string): 
     .filter((file) => file.endsWith(".md"))
   const chapterFiles = (await store.listMarkdown(`books/${bookId}/chapters`))
     .filter((file) => file.endsWith(".md"))
-  const chapters: BookStudioChapter[] = []
-
-  for (const file of [...frontMatterFiles, ...chapterFiles]) {
+  const chapters = await Promise.all([...frontMatterFiles, ...chapterFiles].map(async (file): Promise<BookStudioChapter> => {
     const content = await store.readText(file)
     const parsed = parseFrontmatter(content)
     const preview = selectPreviewMarkdown(parsed.body)
@@ -163,7 +161,7 @@ async function buildSingleBookStudioData(store: FileWikiStore, bookId: string): 
     const outlineSection = String(parsed.data.outline_section || "")
     const bookScope = resolveBookStudioScope(bookId, sectionType, outlineSection)
 
-    chapters.push({
+    return {
       path: file,
       title: String(parsed.data.title || titleFromPath(file)),
       outlineSection,
@@ -180,8 +178,8 @@ async function buildSingleBookStudioData(store: FileWikiStore, bookId: string): 
       wordCount: countWords(preview.markdown),
       contentState: sectionType === "front_matter" && preview.state !== "structure" ? "written" : preview.state,
       blocks: markdownToBlocks(preview.markdown, file)
-    })
-  }
+    }
+  }))
 
   chapters.sort(compareStudioChapters)
   hydrateGeneratedFrontMatter(chapters, bookId)
@@ -1420,12 +1418,16 @@ async function listBookAssets(store: FileWikiStore, bookId: string): Promise<Boo
     `books/${bookId}/assets`
   ]
 
-  for (const directory of assetDirectories) {
+  const assetGroups = await Promise.all(assetDirectories.map(async (directory) => {
     const assetRoot = store.resolve(directory)
 
-    if (!assetRoot.startsWith(root)) continue
+    if (!assetRoot.startsWith(root)) return []
 
-    for (const asset of await walkAssets(assetRoot, root)) {
+    return walkAssets(assetRoot, root)
+  }))
+
+  for (const assets of assetGroups) {
+    for (const asset of assets) {
       assetsByPath.set(asset.path, asset)
     }
   }
@@ -1442,28 +1444,25 @@ async function walkAssets(directory: string, wikiRoot: string): Promise<BookStud
     return []
   }
 
-  const assets: BookStudioAsset[] = []
-
-  for (const entry of entries) {
+  const nestedAssets = await Promise.all(entries.map(async (entry): Promise<BookStudioAsset[]> => {
     const absolute = path.join(directory, entry.name)
 
     if (entry.isDirectory()) {
-      assets.push(...await walkAssets(absolute, wikiRoot))
-      continue
+      return walkAssets(absolute, wikiRoot)
     }
 
-    if (!IMAGE_EXTENSIONS.has(path.extname(entry.name).toLowerCase())) continue
+    if (!IMAGE_EXTENSIONS.has(path.extname(entry.name).toLowerCase())) return []
 
     const details = await stat(absolute)
-    assets.push({
+    return [{
       path: path.relative(wikiRoot, absolute).replace(/\\/g, "/"),
       name: entry.name,
       size: details.size,
       updatedAt: details.mtime.toISOString()
-    })
-  }
+    }]
+  }))
 
-  return assets.sort((left, right) => right.updatedAt.localeCompare(left.updatedAt))
+  return nestedAssets.flat().sort((left, right) => right.updatedAt.localeCompare(left.updatedAt))
 }
 
 function findHeading(lines: string[], heading: string) {

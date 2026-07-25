@@ -46,13 +46,40 @@ export async function getDashboardData(): Promise<DashboardData> {
   }
 }
 
+export async function getEssentialDashboardData(): Promise<DashboardData> {
+  const store = new FileWikiStore(getWikiRoot())
+  const [sourceFiles, books, memoryStats] = await Promise.all([
+    store.listMarkdown("sources"),
+    loadBooks(store),
+    LocalAgentMemory.fromConfig().stats()
+  ])
+
+  return {
+    metrics: {
+      totalSources: sourceFiles.length,
+      unprocessedSources: 0,
+      recentTopics: 0,
+      draftChapters: books.reduce((count, book) => count + book.chapters, 0),
+      consolidatedChapters: books.filter((book) => book.status === "consolidated").length,
+      openConflicts: 0,
+      memoryConversations: memoryStats.conversations,
+      memoryAtoms: memoryStats.atoms
+    },
+    sources: [],
+    topics: [],
+    books,
+    qualityIssues: [],
+    logEntries: [],
+    agentRuns: [],
+    artifacts: []
+  }
+}
+
 async function loadSources(store: FileWikiStore): Promise<DashboardSource[]> {
   const files = await store.listMarkdown("sources")
-  const sources: DashboardSource[] = []
-
-  for (const file of files) {
+  return Promise.all(files.map(async (file) => {
     const parsed = parseFrontmatter(await store.readText(file))
-    sources.push({
+    return {
       title: String(parsed.data.title || file),
       path: file,
       status: String(parsed.data.status || "unknown"),
@@ -60,19 +87,15 @@ async function loadSources(store: FileWikiStore): Promise<DashboardSource[]> {
       authorityLevel: String(parsed.data.authority_level || "unknown"),
       topics: asStringArray(parsed.data.topics),
       updatedAt: String(parsed.data.updated_at || "")
-    })
-  }
-
-  return sources
+    }
+  }))
 }
 
 async function loadTopics(store: FileWikiStore): Promise<DashboardTopic[]> {
   const files = await store.listMarkdown("topics")
-  const topics: DashboardTopic[] = []
-
-  for (const file of files) {
+  return Promise.all(files.map(async (file) => {
     const parsed = parseFrontmatter(await store.readText(file))
-    topics.push({
+    return {
       title: String(parsed.data.title || file),
       path: file,
       status: String(parsed.data.status || "unknown"),
@@ -80,34 +103,28 @@ async function loadTopics(store: FileWikiStore): Promise<DashboardTopic[]> {
       chapterRefs: asStringArray(parsed.data.chapter_refs),
       confidence: Number(parsed.data.confidence || 0),
       updatedAt: String(parsed.data.updated_at || "")
-    })
-  }
-
-  return topics
+    }
+  }))
 }
 
 async function loadBooks(store: FileWikiStore): Promise<DashboardBook[]> {
   const files = await store.listMarkdown("books")
   const bookIndexes = files.filter((file) => file.endsWith("/index.md") && !file.includes("/_template-"))
-  const books: DashboardBook[] = []
-
-  for (const file of bookIndexes) {
+  return Promise.all(bookIndexes.map(async (file) => {
     const parsed = parseFrontmatter(await store.readText(file))
     const bookFolder = file.replace("/index.md", "")
     const bookId = bookFolder.split("/").pop() || ""
     const chapters = await countDashboardChapters(store, bookId, bookFolder)
 
-    books.push({
+    return {
       title: String(parsed.data.title || file),
       path: file,
       status: String(parsed.data.status || "unknown"),
       chapters,
       reviewRequired: Boolean(parsed.data.review_required),
       updatedAt: String(parsed.data.updated_at || "")
-    })
-  }
-
-  return books
+    }
+  }))
 }
 
 async function countDashboardChapters(store: FileWikiStore, bookId: string, bookFolder: string) {
@@ -115,17 +132,15 @@ async function countDashboardChapters(store: FileWikiStore, bookId: string, book
 
   if (bookId !== "il-metodo-bando") return chapterFiles.length
 
-  let count = 0
-
-  for (const chapterFile of chapterFiles) {
+  const included = await Promise.all(chapterFiles.map(async (chapterFile) => {
     const parsed = parseFrontmatter(await store.readText(chapterFile))
     const outlineSection = String(parsed.data.outline_section || "")
     const number = Number.parseInt(outlineSection, 10)
 
-    if (!Number.isFinite(number) || number <= 24) count += 1
-  }
+    return !Number.isFinite(number) || number <= 24
+  }))
 
-  return count
+  return included.filter(Boolean).length
 }
 
 async function loadLogs(store: FileWikiStore) {

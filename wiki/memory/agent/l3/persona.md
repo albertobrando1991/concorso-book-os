@@ -5,6 +5,7 @@ Usala come profilo di lavoro: le source notes e il wiki restano la base canonica
 
 ## Preferenze e istruzioni recenti
 
+- Alleggerire molto la dashboard sulle funzioni essenziali per praticità e velocità di esecuzione. (mem-20260725145956-yzalpc)
 - Procedi con il controllo di riflusso del Volume 1 nel formato KDP. (mem-20260724183715-1cqjnjg)
 - Adattiamo tutti i volumi al formato professionale 17 x 24 circa per Amazon KDP in maniera precisa. (mem-20260724172200-1rbnci4)
 - Effettuare la revisione Humanizer su ogni capitolo del Volume 1 e applicare le correzioni necessarie. (mem-20260723183546-1ep4dhr)

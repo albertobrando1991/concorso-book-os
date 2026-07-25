@@ -56,6 +56,7 @@ const MAIN_PAGE_FALLBACK_BUDGET = 920
 const FRONT_MATTER_PAGE_BUDGET = 980
 const PAGE_MEASURE_GUARD_SPACE = 12
 const PAGE_RENDER_GUARD_SPACE = 10
+const PAGE_FOOTER_RESERVED_SPACE = 30
 const modeOptions: Array<{ value: ManualWriterMode; label: string }> = [
   { value: "integrate", label: "Integra richiesta" },
   { value: "format", label: "Sistema impaginazione" },
@@ -1200,9 +1201,10 @@ function paginateMeasuredChapters(chapters: BookStudioChapter[], root: HTMLDivEl
 
   const pageStyle = window.getComputedStyle(measurePage)
   const pageHeight = measurePage.getBoundingClientRect().height
+  const footerReserve = Math.min(toPixels(pageStyle.paddingBottom), PAGE_FOOTER_RESERVED_SPACE)
   const pageBudget = Math.max(
     0,
-    pageHeight - toPixels(pageStyle.paddingTop) - toPixels(pageStyle.paddingBottom) - PAGE_MEASURE_GUARD_SPACE
+    pageHeight - toPixels(pageStyle.paddingTop) - footerReserve - PAGE_MEASURE_GUARD_SPACE
   )
   const chapterElements = Array.from(root.querySelectorAll<HTMLElement>(".paginationMeasureChapter"))
   const pages: PreviewPage[] = []
