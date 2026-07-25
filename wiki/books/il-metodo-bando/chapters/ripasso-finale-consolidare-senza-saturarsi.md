@@ -61,6 +61,16 @@ La regola guida è:
 
 ## La mappa BANDO del ripasso finale
 
+### Atlante visivo del capitolo
+
+![Mappa del ripasso](../assets/chapter-40/01-mappa-ripasso-finale.png)
+![Attività di ripasso](../assets/chapter-40/02-quattro-attivita-ripasso.png)
+![Fascicolo finale](../assets/chapter-40/03-fascicolo-finale.png)
+![Matrice finale](../assets/chapter-40/04-matrice-tengo-recupero-lascio.png)
+![Protocollo temporale](../assets/chapter-40/05-protocollo-sette-tre-uno.png)
+![Richiamo attivo](../assets/chapter-40/06-ripasso-attivo.png)
+![Caso di ripasso](../assets/chapter-40/07-caso-ripasso.png)
+
 | Fase | Domanda | Azione finale |
 |---|---|---|
 | B - Bando | che cosa può davvero uscire e in quale formato? | rileggo solo prove, materie, istruzioni, soglie e avvisi |

@@ -85,6 +85,16 @@ Se non sai rispondere a queste domande, non sei ancora pronto per fare quiz. Sei
 
 ## La mappa BANDO della banca dati
 
+### Atlante visivo del capitolo
+
+![Mappa banca dati](../assets/chapter-42/01-mappa-banca-dati.png)
+![Verifica fonte](../assets/chapter-42/02-verifica-ufficialita.png)
+![Protocollo in fasi](../assets/chapter-42/03-protocollo-quattro-fasi.png)
+![Domanda e spiegazione](../assets/chapter-42/04-domanda-spiegazione.png)
+![Diario errori](../assets/chapter-42/05-diario-errori-banca-dati.png)
+![Piano banca dati](../assets/chapter-42/06-piano-banca-dati.png)
+![Caso banca dati](../assets/chapter-42/07-caso-banca-dati.png)
+
 La banca dati ufficiale va inserita dentro il Metodo BANDO.
 
 | Fase BANDO | Domanda guida | Output pratico |

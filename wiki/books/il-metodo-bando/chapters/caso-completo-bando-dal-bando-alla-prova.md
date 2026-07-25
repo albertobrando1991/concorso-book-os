@@ -56,6 +56,16 @@ La regola guida è:
 
 ## Il caso: Marta e il concorso amministrativo
 
+### Atlante visivo del capitolo
+
+![Mappa del caso completo](../assets/chapter-41/01-mappa-caso-completo.png)
+![Dati del bando](../assets/chapter-41/02-estrazione-dati-bando.png)
+![Aree e nuclei](../assets/chapter-41/03-aree-nuclei.png)
+![Diario decisioni](../assets/chapter-41/04-diario-decisioni.png)
+![Output settimanali](../assets/chapter-41/05-output-settimanale.png)
+![Piano a trenta giorni](../assets/chapter-41/06-piano-trenta-giorni.png)
+![Caso Marta](../assets/chapter-41/07-caso-marta.png)
+
 Marta lavora part-time e prepara concorsi amministrativi. Ha già studiato diritto amministrativo di base, qualche nozione di pubblico impiego, un po' di trasparenza e una banca dati di quiz generica. Ha anche molti appunti, ma non sa più quali siano davvero utili.
 
 Trova un bando per un profilo amministrativo in un ente locale. Il bando è fittizio: serve solo come esercizio.

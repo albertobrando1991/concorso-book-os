@@ -64,6 +64,8 @@ Se non modifica il piano, non corregge errori e non produce una prossima azione,
 
 ## La mappa BANDO della simulazione
 
+![Ciclo operativo della simulazione: studio, prova, correzione e consolidamento](../assets/chapter-34/01-ciclo-simulazione.png)
+
 Ogni simulazione deve nascere dal Metodo BANDO.
 
 | Fase | Domanda | Effetto sulla simulazione |
@@ -128,6 +130,8 @@ La simulazione finale non deve aggiungere caos. Deve stabilizzare.
 
 ## Il protocollo in tre tempi
 
+![Diagnosi visiva degli errori da trasformare in un piano di recupero](../assets/chapter-34/02-diagnosi-errori.png)
+
 Ogni simulazione ha tre tempi.
 
 ### 1. Prepara
@@ -189,6 +193,8 @@ La griglia dice perché.
 
 ## Il dossier simulazione
 
+![Assetto essenziale per impostare una simulazione a tempo](../assets/chapter-34/03-setup-simulazione.png)
+
 Ogni simulazione importante deve lasciare una traccia.
 
 Usa una pagina sola.
@@ -215,6 +221,8 @@ Una simulazione andata male può essere utilissima se produce una decisione corr
 Una simulazione andata bene può essere pericolosa se ti fa abbassare la guardia senza controllare i dettagli.
 
 ## Simulare la prova a quiz
+
+![Matrice visiva per decidere quando rispondere, saltare e tornare su un quesito](../assets/chapter-34/04-matrice-tempo-risposta.png)
 
 La simulazione a quiz deve riprodurre almeno quattro elementi:
 
@@ -243,6 +251,8 @@ Non correggere solo la risposta giusta.
 Correggi il distrattore che ti ha attratto. Spesso il tuo vero errore è li.
 
 ## Simulare lo scritto
+
+![Protocollo di correzione che converte l'errore in una scheda di studio](../assets/chapter-34/05-protocollo-correzione.png)
 
 La prova scritta non si simula leggendo tracce.
 
@@ -344,6 +354,8 @@ Per i quesiti situazionali usa questa sequenza:
 
 ## Il calendario minimo
 
+![Registro delle simulazioni per rilevare continuità e andamento](../assets/chapter-34/06-registro-simulazioni.png)
+
 Non fare tutte le simulazioni negli ultimi giorni.
 
 Distribuiscile.
@@ -386,6 +398,8 @@ Il punteggio è un dato. Non è una sentenza.
 Per soglie, tempo e gestione del rischio in prova, incrocia i risultati con [[books/il-metodo-bando/chapters/strategia-di-punteggio-soglie-tempo-rischio-prova|R13]].
 
 ## Caso guidato
+
+![Schema decisionale per affrontare un caso simulato e verificarne l'esito](../assets/chapter-34/07-caso-decisione.png)
 
 sarà prepara un concorso con prova scritta a quiz e orale successivo. Ha letto il manuale, fatto quiz per materia e compilato il Diario degli errori. Si sente abbastanza pronta, ma non ha mai simulato una prova intera.
 

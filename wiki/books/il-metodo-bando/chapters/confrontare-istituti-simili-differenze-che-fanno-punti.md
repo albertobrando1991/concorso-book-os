@@ -95,6 +95,16 @@ Se nella risposta non compare nessuna di queste strutture, forse non stai confro
 
 ## La mappa BANDO del confronto
 
+### Atlante visivo del capitolo
+
+![Mappa confronto](../assets/chapter-44/01-mappa-confronto.png)
+![Criteri di distinzione](../assets/chapter-44/02-criteri-distinzione.png)
+![Formula confronto](../assets/chapter-44/03-formula-confronto.png)
+![Tabella confronto](../assets/chapter-44/04-tabella-confronto.png)
+![Confusioni tipiche](../assets/chapter-44/05-confusioni-tipiche.png)
+![Diario differenze](../assets/chapter-44/06-diario-differenze.png)
+![Caso confronto](../assets/chapter-44/07-caso-confronto.png)
+
 Il confronto entra nel Metodo BANDO in modo preciso.
 
 | Fase BANDO | Domanda guida | Output pratico |

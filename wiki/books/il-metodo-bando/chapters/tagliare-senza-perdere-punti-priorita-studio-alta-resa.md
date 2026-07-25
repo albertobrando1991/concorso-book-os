@@ -91,6 +91,8 @@ La prima cosa da proteggere non è la pagina successiva del manuale.
 
 ## La mappa BANDO del taglio ragionato
 
+![Mappa delle priorità che filtra i materiali verso il nucleo ad alta resa](../assets/chapter-36/01-mappa-priorita-studio.png)
+
 Ogni decisione di taglio deve passare per la catena BANDO.
 
 | Fase | Domanda | Decisione di taglio |
@@ -143,6 +145,8 @@ Se non sai scriverlo, probabilmente non stai tagliando: stai reagendo.
 
 ## Il triage in tre colonne
 
+![Triage visivo per tenere attivo, rinviare o togliere un argomento](../assets/chapter-36/02-triage-tre-colonne.png)
+
 Quando il programma è troppo largo, usa tre colonne.
 
 | Colonna | Che cosa contiene | Azione |
@@ -170,6 +174,8 @@ La risposta diventa il nucleo minimo.
 
 ## Il semaforo del programma
 
+![Semaforo operativo per attribuire priorità ai temi di studio](../assets/chapter-36/03-semaforo-programma.png)
+
 Dopo il triage, assegna un colore.
 
 | Colore | Stato | Come agire |
@@ -192,6 +198,8 @@ Molti candidati non tagliano il grigio per paura.
 Poi non hanno tempo per il rosso.
 
 ## La regola prova-materia-nucleo-output
+
+![Catena strategica dalla prova alla risposta utile](../assets/chapter-36/04-regola-prova-materia-nucleo-output.png)
 
 Prima di decidere cosa eliminare, compila questa sequenza:
 
@@ -238,6 +246,8 @@ Tutto ciò che non entra in questa catena va ridotto.
 
 ## La matrice resa, rischio, tempo e riuso
 
+![Matrice per selezionare gli argomenti con il migliore rapporto tra resa e costo](../assets/chapter-36/05-matrice-resa-rischio-tempo-riuso.png)
+
 Quando devi scegliere tra due attività, usa quattro domande.
 
 | Criterio | Domanda | Segnale operativo |
@@ -264,6 +274,8 @@ La stessa materia può essere indispensabile in un concorso e rinviabile in un a
 Per questo si parte sempre dal bando.
 
 ## Come tagliare i materiali
+
+![Filtro ragionato che riduce i materiali a un kit di studio essenziale](../assets/chapter-36/06-taglio-materiali.png)
 
 Prima di tagliare contenuti, taglia materiali.
 
@@ -388,6 +400,8 @@ Il criterio non è il comfort.
 Il criterio è la prova.
 
 ## Scheda decisione di taglio
+
+![Schema decisionale per mantenere, rinviare o interrompere un approfondimento](../assets/chapter-36/07-scheda-decisione-taglio.png)
 
 Usa questa scheda ogni volta che senti di non riuscire a fare tutto.
 

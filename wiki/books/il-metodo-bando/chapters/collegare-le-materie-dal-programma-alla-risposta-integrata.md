@@ -98,6 +98,16 @@ Se non sai dire perché il collegamento serve, probabilmente non serve.
 
 ## Mappa BANDO del collegamento
 
+### Atlante visivo del capitolo
+
+![Mappa collegamenti](../assets/chapter-45/01-mappa-collegamenti.png)
+![Sette ponti](../assets/chapter-45/02-sette-ponti.png)
+![Centro ponte ritorno](../assets/chapter-45/03-centro-ponte-ritorno.png)
+![Collegamento nello scritto](../assets/chapter-45/04-collegare-scritto.png)
+![Collegamento orale](../assets/chapter-45/05-collegare-orale.png)
+![Scheda ponti utili](../assets/chapter-45/06-scheda-ponti-utili.png)
+![Caso collegamento](../assets/chapter-45/07-caso-collegamento.png)
+
 ### Bando
 
 Nel bando i collegamenti si vedono in tre punti:

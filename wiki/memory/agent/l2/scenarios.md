@@ -1975,3 +1975,11 @@
 - l0: l0/conv-20260725150809-m7r0we.md
 - atoms:
   - mem-20260725150809-1djo0lm | result | Esito codex/github-team-sync: Portare tutte le modifiche su GitHub preservando eventuali modifiche dello staff non ancora scaricate localmente. -> Prima del commit e del push è stato eseguito fetch di origin/main e verificata l'assenza di divergenze remote.
+
+## 2026-07-25T16:47:36.445Z - book:il-metodo-bando:ricettario
+
+- conversation_id: conv-20260725164736-yisggn
+- route: manual-image-integration
+- l0: l0/conv-20260725164736-yisggn.md
+- atoms:
+  - mem-20260725164736-12k8ltn | result | Esito manual-image-integration: Integra immagini professionali coerenti nel Ricettario digitale. -> Audit conclusivo: capitoli 34-47 con 7 riferimenti Markdown e 7 PNG ciascuno; 98 nuove immagini in totale, palette avorio-blu notte-bordeaux-oro e iconografia non testuale.

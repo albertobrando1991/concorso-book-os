@@ -172,6 +172,16 @@ La chiusura non deve essere lunga. Deve essere orientata.
 
 ## Mappa BANDO della revisione
 
+### Atlante visivo del capitolo
+
+![Mappa revisione finale](../assets/chapter-47/01-mappa-revisione-finale.png)
+![Formula in passaggi](../assets/chapter-47/02-formula-cinque-passaggi.png)
+![Checklist rapida](../assets/chapter-47/03-checklist-rapida.png)
+![Revisione per lunghezza](../assets/chapter-47/04-risposte-lunghezza.png)
+![Revisione caso pratico](../assets/chapter-47/05-revisione-caso-pratico.png)
+![Correggere senza peggiorare](../assets/chapter-47/06-correggere-senza-peggiorare.png)
+![Caso consegna](../assets/chapter-47/07-caso-consegna.png)
+
 ### Bando
 
 Il bando e le istruzioni di prova definiscono:

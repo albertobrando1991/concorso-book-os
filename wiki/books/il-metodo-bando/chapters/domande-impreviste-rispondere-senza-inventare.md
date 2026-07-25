@@ -109,6 +109,16 @@ Significa usare una tecnica.
 
 ## Mappa BANDO della domanda imprevista
 
+### Atlante visivo del capitolo
+
+![Mappa domanda imprevista](../assets/chapter-46/01-mappa-domanda-imprevista.png)
+![Perimetro nucleo sviluppo](../assets/chapter-46/02-perimetro-nucleo-sviluppo.png)
+![Tipi di domanda](../assets/chapter-46/03-tipi-domande-impreviste.png)
+![Risposta orale](../assets/chapter-46/04-risposta-orale-imprevista.png)
+![Quiz quando non sai](../assets/chapter-46/05-quiz-non-so.png)
+![Diario incertezza](../assets/chapter-46/06-diario-incertezza.png)
+![Caso imprevisto](../assets/chapter-46/07-caso-imprevisto.png)
+
 ### Bando
 
 Il bando ti dice dove possono nascere domande impreviste:

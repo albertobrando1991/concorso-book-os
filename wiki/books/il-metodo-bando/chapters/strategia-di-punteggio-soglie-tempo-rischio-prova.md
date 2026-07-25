@@ -111,6 +111,8 @@ Questa pagina non è burocrazia.
 
 ## La mappa BANDO della strategia di punteggio
 
+![Mappa strategica che collega punteggio-obiettivo, tempo e rischio](../assets/chapter-37/01-mappa-strategia-punteggio.png)
+
 | Fase | Domanda | Traduzione operativa |
 |---|---|---|
 | B - Bando | quali sono regole, durata, soglie e punteggi? | costruisco la scheda prova |
@@ -130,6 +132,8 @@ La strategia non sostituisce lo studio.
 Ma impedisce allo studio di disperdersi nel momento decisivo.
 
 ## Soglia: leggerla senza subirla
+
+![Relazione tra soglia di superamento, scelta prudente e gestione del rischio](../assets/chapter-37/02-soglia-rischio.png)
 
 La soglia è una informazione operativa.
 
@@ -182,6 +186,8 @@ La regola corretta è:
 
 ### Scheda tempo
 
+![Distribuzione visiva del tempo tra svolgimento, controllo e recupero](../assets/chapter-37/03-scheda-tempo.png)
+
 | Elemento | Compilazione |
 |---|---|
 | Durata totale | |
@@ -199,6 +205,8 @@ Non basta scriverla.
 Una strategia di tempo non testata è solo un'intenzione.
 
 ## I tre giri nella prova a quiz
+
+![Strategia a passaggi per affrontare un quiz e tornare sulle domande dubbie](../assets/chapter-37/04-tre-giri-quiz.png)
 
 Quando la prova è a quiz, il candidato principiante spesso procede in ordine rigido: domanda 1, domanda 2, domanda 3, fino alla fine.
 
@@ -225,6 +233,8 @@ Per questo la penalità non va scoperta durante la prova.
 Va registrata prima.
 
 ## Matrice certezza, rischio e tempo
+
+![Matrice di decisione per rispondere, saltare o rimandare un quesito](../assets/chapter-37/05-matrice-certezza-rischio-tempo.png)
 
 Usa questa matrice nelle simulazioni.
 
@@ -318,6 +328,8 @@ Significa sapere come rientrare in carreggiata.
 
 ## Simulare il punteggio, non solo la prova
 
+![Cruscotto visivo per stimare andamento e margine sul punteggio-obiettivo](../assets/chapter-37/06-simulare-punteggio.png)
+
 Una simulazione è utile solo se produce una decisione.
 
 Dopo ogni simulazione devi compilare almeno questa griglia:
@@ -389,6 +401,8 @@ La prova mista premia il candidato che sa cambiare ritmo senza cambiare metodo.
 5. Ogni simulazione deve generare una modifica concreta al piano o alla strategia.
 
 ## Caso guidato
+
+![Percorso strategico per attraversare una prova con punti di controllo](../assets/chapter-37/07-caso-strategia-prova.png)
 
 Luca prepara una prova a quiz con durata limitata e materie miste. Nelle simulazioni conosce abbastanza il programma, ma resta spesso sotto il risultato atteso.
 

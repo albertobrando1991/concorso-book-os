@@ -59,6 +59,16 @@ La regola è:
 
 ## La mappa BANDO tra prove
 
+### Atlante visivo del capitolo
+
+![Transizione tra prove](../assets/chapter-39/01-mappa-tra-prove.png)
+![Prime ventiquattro ore](../assets/chapter-39/02-prime-24-ore.png)
+![Conversione in piano](../assets/chapter-39/03-conversione-piano.png)
+![Bivio tra prove](../assets/chapter-39/04-bivio-scritto-orale.png)
+![Calendario di riallineamento](../assets/chapter-39/05-calendario-riallineamento.png)
+![Gestione dell'esito incerto](../assets/chapter-39/06-esito-incerto.png)
+![Caso di ripianificazione](../assets/chapter-39/07-caso-ripianificazione.png)
+
 | Fase | Domanda | Azione nell'intervallo |
 |---|---|---|
 | B - Bando | quali fasi successive sono previste o possibili? | rileggo bando, avvisi e calendario |

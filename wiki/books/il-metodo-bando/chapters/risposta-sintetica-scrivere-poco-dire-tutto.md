@@ -81,6 +81,16 @@ La sintesi funziona quando il lettore capisce subito tre cose:
 
 ## La mappa BANDO della risposta sintetica
 
+### Atlante visivo del capitolo
+
+![Mappa risposta sintetica](../assets/chapter-43/01-mappa-risposta-sintetica.png)
+![Lettura della traccia](../assets/chapter-43/02-lettura-traccia.png)
+![Schema base](../assets/chapter-43/03-schema-base-risposta.png)
+![Micro scaletta](../assets/chapter-43/04-micro-scaletta.png)
+![Parole chiave](../assets/chapter-43/05-parole-chiave.png)
+![Griglia di revisione](../assets/chapter-43/06-griglia-revisione.png)
+![Caso risposta](../assets/chapter-43/07-caso-risposta.png)
+
 Anche una domanda di poche righe si prepara con il Metodo BANDO.
 
 | Fase BANDO | Domanda guida | Output pratico |

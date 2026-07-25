@@ -55,6 +55,8 @@ La regola è:
 
 ## La mappa BANDO del giorno della prova
 
+![Routine completa del giorno della prova](../assets/chapter-38/01-mappa-routine-prova.png)
+
 | Fase | Domanda | Azione nel giorno della prova |
 |---|---|---|
 | B - Bando | quali istruzioni ufficiali devo rispettare? | controllo avvisi, convocazione, documenti, strumenti |
@@ -74,6 +76,8 @@ Riguarda la lettura delle istruzioni.
 Riguarda la capacità di non farsi trascinare da una domanda, da una persona, da una frase ascoltata in attesa o da una sensazione momentanea.
 
 ## Le ultime 24 ore: ridurre rischio, non aumentare volume
+
+![Linea del tempo delle ventiquattro ore prima della prova](../assets/chapter-38/02-linea-tempo-24-ore.png)
 
 Nelle ultime 24 ore il candidato tende a cercare sicurezza aggiungendo materiale.
 
@@ -124,6 +128,8 @@ Se la risposta è la seconda, non farla.
 
 ## Scheda logistica ufficiale
 
+![Checklist visiva della logistica essenziale](../assets/chapter-38/03-checklist-logistica.png)
+
 Questa scheda va compilata solo con informazioni presenti in bando, avviso di convocazione, portale ufficiale o comunicazioni dell'amministrazione.
 
 Non usare memoria, screenshot isolati o messaggi di gruppo come fonte finale.
@@ -148,6 +154,8 @@ Serve a costringerti a leggerle davvero.
 Il dettaglio più pericoloso è quello che "tanto lo so".
 
 ## La mattina della prova
+
+![Routine essenziale della mattina della prova](../assets/chapter-38/04-routine-mattino.png)
 
 La mattina della prova non deve essere piena.
 
@@ -206,6 +214,8 @@ La sicurezza utile non è sentirsi invincibile.
 È sapere cosa fare al primo minuto.
 
 ## La lettura delle istruzioni è parte della prova
+
+![Lettura deliberata delle istruzioni prima di iniziare](../assets/chapter-38/05-lettura-istruzioni.png)
 
 Quando inizia la prova, molti candidati vogliono correre.
 
@@ -267,6 +277,8 @@ La lucidità non significa assenza di tensione.
 Significa avere una procedura anche quando la tensione arriva.
 
 ## Gli imprevisti
+
+![Protocollo visivo per gestire un imprevisto](../assets/chapter-38/06-protocollo-imprevisti.png)
 
 Un imprevisto può essere logistico, tecnico, emotivo, di tempo o di consegna.
 
@@ -335,6 +347,8 @@ Il Diario post-prova comincia qui.
 5. Dopo la prova si registrano dati a caldo, ma si giudica solo sugli atti ufficiali.
 
 ## Caso guidato
+
+![Percorso operativo di un giorno di prova](../assets/chapter-38/07-caso-giorno-prova.png)
 
 Elena ha preparato una prova scritta a quiz. Il giorno prima sente altri candidati parlare di una nuova raccolta di domande.
 
