@@ -2016,3 +2016,12 @@
 - atoms:
   - mem-20260727115044-1he47al | project_fact | Nel Ricettario diverse tabelle mostrano pipe e righe |---| come testo non formattato, per esempio Fonte controllata e Cosa aggiorno oggi.
   - mem-20260727115044-t31tw8 | result | Esito codex/ricettario-workbook-table-fix: Nel Ricettario diverse tabelle mostrano pipe e righe |---| come testo non formattato, per esempio Fonte controllata e Cosa aggiorno oggi. -> Corretto il parser Book Studio: le righe vuote intenzionali delle schede workbook vengono ora preservate come celle compilabili.
+
+## 2026-07-27T12:59:34.665Z - concorso-book
+
+- conversation_id: conv-20260727125934-1xn4hyq
+- route: codex/staff-editorial-prompts
+- l0: l0/conv-20260727125934-1xn4hyq.md
+- atoms:
+  - mem-20260727125934-rxrmvh | instruction | Servono i prompt in ordine cronologico da fornire allo staff per applicare a tutti i volumi il processo di completamento e pubblicabilità usato sul Volume 1.
+  - mem-20260727125934-bp4yxm | result | Esito codex/staff-editorial-prompts: Servono i prompt in ordine cronologico da fornire allo staff per applicare a tutti i volumi il processo di completamento e pubblicabilità usato sul Volume 1. -> Creato il template canonico wiki/templates/prompt-staff-revisione-completa-volumi.md con 25 prompt e 25 gate: presa in carico, raccolta e consolidamento contributi, riconciliazione catalogo, perimetro, bandi, fonti, m...

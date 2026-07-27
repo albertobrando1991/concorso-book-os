@@ -5,6 +5,7 @@ Usala come profilo di lavoro: le source notes e il wiki restano la base canonica
 
 ## Preferenze e istruzioni recenti
 
+- Servono i prompt in ordine cronologico da fornire allo staff per applicare a tutti i volumi il processo di completamento e pubblicabilità usato sul Volume 1. (mem-20260727125934-rxrmvh)
 - Alleggerire molto la dashboard sulle funzioni essenziali per praticità e velocità di esecuzione. (mem-20260725145956-yzalpc)
 - Procedi con il controllo di riflusso del Volume 1 nel formato KDP. (mem-20260724183715-1cqjnjg)
 - Adattiamo tutti i volumi al formato professionale 17 x 24 circa per Amazon KDP in maniera precisa. (mem-20260724172200-1rbnci4)

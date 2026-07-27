@@ -538,6 +538,10 @@ Aggiornato: 2026-07-08T22:50:00+02:00
 - [[reviews/review-vol-01-intervento-p0-2026-07-21]]
 - [[reviews/review-vol-01-intervento-p1-superficie-struttura-2026-07-21]]
 
+## Workflow templates
+
+- [[templates/prompt-staff-revisione-completa-volumi]]
+
 ## Operational Notes
 - Raw sources restano immutabili in `raw/`.
 - I capitoli devono essere generati da source summaries, topic pages ed entity pages.
