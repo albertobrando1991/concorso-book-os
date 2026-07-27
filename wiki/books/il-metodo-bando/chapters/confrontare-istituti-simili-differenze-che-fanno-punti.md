@@ -95,15 +95,7 @@ Se nella risposta non compare nessuna di queste strutture, forse non stai confro
 
 ## La mappa BANDO del confronto
 
-### Atlante visivo del capitolo
-
 ![Mappa confronto](../assets/chapter-44/01-mappa-confronto.png)
-![Criteri di distinzione](../assets/chapter-44/02-criteri-distinzione.png)
-![Formula confronto](../assets/chapter-44/03-formula-confronto.png)
-![Tabella confronto](../assets/chapter-44/04-tabella-confronto.png)
-![Confusioni tipiche](../assets/chapter-44/05-confusioni-tipiche.png)
-![Diario differenze](../assets/chapter-44/06-diario-differenze.png)
-![Caso confronto](../assets/chapter-44/07-caso-confronto.png)
 
 Il confronto entra nel Metodo BANDO in modo preciso.
 
@@ -120,6 +112,8 @@ Il candidato medio studia capitoli.
 Il candidato forte studia anche confini.
 
 ## I criteri di distinzione
+
+![Criteri stabili per distinguere istituti simili](../assets/chapter-44/02-criteri-distinzione.png)
 
 Per confrontare bene devi scegliere il criterio giusto.
 
@@ -146,6 +140,8 @@ Se una differenza non cambia la risposta, forse non è la differenza decisiva.
 
 ## La formula 1-3-1
 
+![Formula di confronto in passaggi essenziali](../assets/chapter-44/03-formula-confronto.png)
+
 Per le domande comparative usa la formula 1-3-1.
 
 | Passaggio | Funzione |
@@ -161,6 +157,8 @@ Esempio di struttura:
 Questa struttura è semplice, ma impedisce l'errore più comune: mettere due definizioni una accanto all'altra senza relazione.
 
 ## La tabella A/B/criterio
+
+![Tabella visiva per confrontare istituti simili](../assets/chapter-44/04-tabella-confronto.png)
 
 Quando studi, non scrivere pagine intere di confronto. Usa una tabella breve.
 
@@ -222,6 +220,8 @@ Questa risposta non è lunga. Ma mostra controllo.
 
 ## Dove nascono le confusioni
 
+![Confusioni tipiche e modo di risolverle](../assets/chapter-44/05-confusioni-tipiche.png)
+
 Le confusioni tra istituti simili non nascono solo dalla mancanza di studio.
 
 Nascono da somiglianze reali.
@@ -245,6 +245,8 @@ Scrivi:
 - quale frase usero la prossima volta.
 
 ## Il Diario delle differenze
+
+![Diario delle differenze da richiamare nel ripasso](../assets/chapter-44/06-diario-differenze.png)
 
 Quando sbagli una distinzione, compila questa scheda.
 
@@ -317,6 +319,8 @@ La scheda funziona se puoi usarla in tre modi:
 Se la scheda serve solo a conservare appunti, non è ancora una scheda operativa.
 
 ## Caso guidato: Elena risponde con due monologhi
+
+![Caso guidato di confronto sintetico e pertinente](../assets/chapter-44/07-caso-confronto.png)
 
 Elena sta preparando una prova scritta. La traccia dice:
 

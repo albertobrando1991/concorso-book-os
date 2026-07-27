@@ -98,15 +98,7 @@ Se non sai dire perché il collegamento serve, probabilmente non serve.
 
 ## Mappa BANDO del collegamento
 
-### Atlante visivo del capitolo
-
 ![Mappa collegamenti](../assets/chapter-45/01-mappa-collegamenti.png)
-![Sette ponti](../assets/chapter-45/02-sette-ponti.png)
-![Centro ponte ritorno](../assets/chapter-45/03-centro-ponte-ritorno.png)
-![Collegamento nello scritto](../assets/chapter-45/04-collegare-scritto.png)
-![Collegamento orale](../assets/chapter-45/05-collegare-orale.png)
-![Scheda ponti utili](../assets/chapter-45/06-scheda-ponti-utili.png)
-![Caso collegamento](../assets/chapter-45/07-caso-collegamento.png)
 
 ### Bando
 
@@ -177,6 +169,8 @@ Il collegamento deve produrre output:
 Se resta solo nella testa, non è ancora allenato.
 
 ## I sette ponti sicuri
+
+![Sette ponti sicuri per costruire collegamenti pertinenti](../assets/chapter-45/02-sette-ponti.png)
 
 Quando non sai da dove partire, usa questi ponti.
 
@@ -285,6 +279,8 @@ Il ponte di profilo evita studio generico.
 
 ## Formula Centro - Ponte - Ritorno
 
+![Formula che collega un tema a un secondo nucleo e torna alla domanda](../assets/chapter-45/03-centro-ponte-ritorno.png)
+
 Per non perderti usa questa formula:
 
 1. **Centro:** rispondo alla domanda principale.
@@ -302,6 +298,8 @@ La parte più importante è il ritorno.
 Senza ritorno, il ponte resta sospeso.
 
 ## Come collegare nello scritto
+
+![Collegamento efficace nella risposta scritta](../assets/chapter-45/04-collegare-scritto.png)
 
 Nello scritto il collegamento deve essere selettivo.
 
@@ -346,6 +344,8 @@ Schema:
 In ogni formato resta una regola: il collegamento non deve mangiare la risposta.
 
 ## Come collegare all'orale
+
+![Collegamento efficace nella risposta orale](../assets/chapter-45/05-collegare-orale.png)
 
 All'orale il collegamento serve a dare profondità, ma va dosato.
 
@@ -392,6 +392,8 @@ Non sempre userai tutte le risposte. Ma ti aiutano a non vedere il caso come un 
 
 ## Scheda operativa: argomento + ponti utili
 
+![Scheda operativa per selezionare solo i ponti utili](../assets/chapter-45/06-scheda-ponti-utili.png)
+
 Per ogni argomento importante prepara una scheda così:
 
 | Campo | Domanda | Compilazione |
@@ -411,6 +413,8 @@ Questa scheda non sostituisce lo studio.
 Lo rende utilizzabile.
 
 ## Caso guidato
+
+![Caso guidato di risposta integrata](../assets/chapter-45/07-caso-collegamento.png)
 
 Marta sta preparando un orale per un profilo amministrativo.
 
@@ -483,11 +487,16 @@ Se la risposta è la seconda, taglia.
 
 Scegli un argomento che stai studiando.
 
-Compila questa griglia:
+Compila prima i due ponti e poi scrivi una sola frase di ritorno alla domanda.
 
-| Argomento | Ponte 1 | perché serve | Ponte 2 | perché serve | Frase di ritorno |
-|---|---|---|---|---|---|
-| | | | | | |
+| Argomento | Ponte utile | Perché serve |
+|---|---|---|
+| | | |
+| | | |
+
+| Frase di ritorno alla domanda |
+|---|
+| |
 
 Poi trasformala in tre versioni:
 

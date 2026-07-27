@@ -342,16 +342,23 @@ No. Il capitale ti aiuta a partire avanti, ma ogni bando ha requisiti, prove, sc
 
 Scegli l'ultimo concorso che hai preparato e compila.
 
-| Materiale | Core / Modulo / Solo bando | Lo riuso? | Cosa devo fare |
-|---|---|---|---|
-| Bando Decoder | | | |
-| Schema principale | | | |
-| Quiz corretti | | | |
-| Errori ricorrenti | | | |
-| Risposte orali | | | |
-| Casi pratici | | | |
-| Fonte ufficiale controllata | | | |
-| Materiale da eliminare | | | |
+| Materiale | Core / Modulo / Solo bando | Lo riuso? |
+|---|---|---|
+| Bando Decoder | | |
+| Schema principale | | |
+| Quiz corretti | | |
+| Errori ricorrenti | | |
+| Risposte orali | | |
+| Casi pratici | | |
+| Fonte ufficiale controllata | | |
+| Materiale da eliminare | | |
+
+| Materiale | Azione da compiere |
+|---|---|
+| | |
+| | |
+| | |
+| | |
 
 Poi scrivi tre righe:
 

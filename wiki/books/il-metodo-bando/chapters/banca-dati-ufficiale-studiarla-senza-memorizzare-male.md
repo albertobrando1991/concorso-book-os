@@ -85,15 +85,7 @@ Se non sai rispondere a queste domande, non sei ancora pronto per fare quiz. Sei
 
 ## La mappa BANDO della banca dati
 
-### Atlante visivo del capitolo
-
 ![Mappa banca dati](../assets/chapter-42/01-mappa-banca-dati.png)
-![Verifica fonte](../assets/chapter-42/02-verifica-ufficialita.png)
-![Protocollo in fasi](../assets/chapter-42/03-protocollo-quattro-fasi.png)
-![Domanda e spiegazione](../assets/chapter-42/04-domanda-spiegazione.png)
-![Diario errori](../assets/chapter-42/05-diario-errori-banca-dati.png)
-![Piano banca dati](../assets/chapter-42/06-piano-banca-dati.png)
-![Caso banca dati](../assets/chapter-42/07-caso-banca-dati.png)
 
 La banca dati ufficiale va inserita dentro il Metodo BANDO.
 
@@ -110,6 +102,8 @@ Questa tabella impedisce l'errore più frequente: aprire la banca dati e partire
 Una banca dati non è una fila di quiz. È una mappa della prova.
 
 ## Il protocollo in quattro fasi
+
+![Verifica dell'ufficialità della fonte](../assets/chapter-42/02-verifica-ufficialita.png)
 
 Con banca dati ufficiale, il lavoro procede in quattro fasi.
 
@@ -229,6 +223,8 @@ Se una simulazione non produce almeno una decisione, è solo intrattenimento con
 
 ## Come studiare una singola domanda
 
+![Protocollo dalla fonte verificata alla correzione dell'errore](../assets/chapter-42/03-protocollo-quattro-fasi.png)
+
 Il modo in cui studi una domanda determina la qualità della memoria.
 
 Metodo debole:
@@ -285,6 +281,8 @@ Per questo devi allenare il contenuto, non lo schermo.
 
 ## Il Diario degli errori per banca dati
 
+![Dalla domanda alla spiegazione sicura](../assets/chapter-42/04-domanda-spiegazione.png)
+
 Il Diario degli errori cambia forma quando lavori su banca dati ufficiale.
 
 Non basta scrivere "sbagliata". Devi sapere perché.
@@ -309,6 +307,8 @@ Esempio:
 Il Diario è utile solo se modifica il piano. Se oggi sbagli tre domande sullo stesso nucleo, domani quel nucleo entra nel piano. Se dopo una settimana l'errore resta vivo, entra nel fascicolo finale.
 
 ## Il piano 21/14/7 giorni
+
+![Diario degli errori dedicato alla banca dati](../assets/chapter-42/05-diario-errori-banca-dati.png)
 
 Non sempre hai mesi. Spesso la banca dati viene pubblicata quando il calendario è già vicino.
 
@@ -432,6 +432,8 @@ Secondo: evita che la banca dati ti renda muto davanti a una domanda orale. Se s
 
 ## Caso guidato: Luca e la banca dati da 3.000 quiz
 
+![Piano a finestre per una banca dati ampia](../assets/chapter-42/06-piano-banca-dati.png)
+
 Luca prepara una prova preselettiva con banca dati ufficiale. Il file contiene 3.000 quesiti. Mancano 18 giorni.
 
 Il primo impulso è fare più quiz possibile ogni giorno.
@@ -521,6 +523,8 @@ La banca dati ufficiale permette copertura. Senza banca dati, devi costruire pro
 Confondere i due scenari è un errore serio.
 
 ## Da sapere in 5 righe
+
+![Caso guidato: gestione sicura di una banca dati estesa](../assets/chapter-42/07-caso-banca-dati.png)
 
 1. La banca dati ufficiale è materiale di procedura: va verificata su bando e avvisi.
 2. Prima si copre, poi si classifica, poi si ripete, poi si simula.

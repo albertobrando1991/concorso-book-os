@@ -1983,3 +1983,11 @@
 - l0: l0/conv-20260725164736-yisggn.md
 - atoms:
   - mem-20260725164736-12k8ltn | result | Esito manual-image-integration: Integra immagini professionali coerenti nel Ricettario digitale. -> Audit conclusivo: capitoli 34-47 con 7 riferimenti Markdown e 7 PNG ciascuno; 98 nuove immagini in totale, palette avorio-blu notte-bordeaux-oro e iconografia non testuale.
+
+## 2026-07-26T17:02:16.955Z - book:il-metodo-bando:ricettario
+
+- conversation_id: conv-20260726170216-1teh099
+- route: ricettario-layout-audit
+- l0: l0/conv-20260726170216-1teh099.md
+- atoms:
+  - mem-20260726170216-1u9e4fx | result | Esito ricettario-layout-audit: R22 ha immagini consecutive e alcuni esercizi sono formattati male; controlla tutto il Ricettario. -> Corretti R15-R23: immagini redistribuite nelle sezioni didattiche.

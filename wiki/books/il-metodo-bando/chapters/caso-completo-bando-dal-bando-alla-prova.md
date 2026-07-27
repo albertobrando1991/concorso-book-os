@@ -56,15 +56,7 @@ La regola guida è:
 
 ## Il caso: Marta e il concorso amministrativo
 
-### Atlante visivo del capitolo
-
 ![Mappa del caso completo](../assets/chapter-41/01-mappa-caso-completo.png)
-![Dati del bando](../assets/chapter-41/02-estrazione-dati-bando.png)
-![Aree e nuclei](../assets/chapter-41/03-aree-nuclei.png)
-![Diario decisioni](../assets/chapter-41/04-diario-decisioni.png)
-![Output settimanali](../assets/chapter-41/05-output-settimanale.png)
-![Piano a trenta giorni](../assets/chapter-41/06-piano-trenta-giorni.png)
-![Caso Marta](../assets/chapter-41/07-caso-marta.png)
 
 Marta lavora part-time e prepara concorsi amministrativi. Ha già studiato diritto amministrativo di base, qualche nozione di pubblico impiego, un po' di trasparenza e una banca dati di quiz generica. Ha anche molti appunti, ma non sa più quali siano davvero utili.
 
@@ -93,6 +85,8 @@ Prima del materiale, viene il bando.
 
 ## Fase B - Bando: estrarre i dati che comandano
 
+![Estrazione dei dati decisivi dal bando](../assets/chapter-41/02-estrazione-dati-bando.png)
+
 La prima fase non chiede: "che cosa devo studiare?".
 
 Chiede: "quale prova devo superare?".
@@ -116,6 +110,8 @@ Questa tabella ha già prodotto una scelta: Marta non studierà "tutto il diritt
 **Errore evitato:** partire dal manuale più grande solo per sentirsi al sicuro.
 
 ## Fase A - Aree: dividere il concorso in blocchi governabili
+
+![Dalle aree del programma ai nuclei indispensabili](../assets/chapter-41/03-aree-nuclei.png)
 
 La lista delle materie del bando sembra piatta. Nel piano, invece, non può restare piatta.
 
@@ -163,6 +159,8 @@ Il Metodo BANDO non chiede a Marta di "vedere" un argomento. Le chiede di produr
 
 ## Fase D - Diario: rendere visibili errori e decisioni
 
+![Diario che trasforma gli errori in decisioni](../assets/chapter-41/04-diario-decisioni.png)
+
 Marta apre il Diario degli errori prima di fare molte prove.
 
 Questo sembra strano: molti candidati aprono il diario dopo avere sbagliato tanto. Il metodo lo apre prima, perché il diario non è un registro di fallimenti. È la cabina di regia.
@@ -186,6 +184,8 @@ Se un errore non cambia il piano, resta memoria passiva.
 
 ## Fase O - Output: decidere che cosa deve uscire ogni settimana
 
+![Output settimanali che rendono verificabile lo studio](../assets/chapter-41/05-output-settimanale.png)
+
 Ogni settimana deve produrre almeno un output misurabile.
 
 Marta definisce quattro output.
@@ -206,6 +206,8 @@ Non è più "lunedi amministrativo, martedi enti locali, mercoledi privacy".
 Questa domanda rende il piano controllabile.
 
 ## Piano a 30 giorni del caso
+
+![Piano a trenta giorni con traguardi e simulazione](../assets/chapter-41/06-piano-trenta-giorni.png)
 
 Marta ha circa 18 ore a settimana. Non sono poche, ma non sono infinite.
 
@@ -512,6 +514,8 @@ Ogni dato può diventare capitale.
 5. Dopo la prova il capitale di studio va salvato, non disperso.
 
 ## Caso guidato: la decisione più importante di Marta
+
+![Caso completo: dal bando al giorno della prova](../assets/chapter-41/07-caso-marta.png)
 
 A meta percorso Marta riceve da un gruppo online un file di 200 pagine.
 

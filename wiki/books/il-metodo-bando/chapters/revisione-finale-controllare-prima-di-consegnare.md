@@ -172,15 +172,7 @@ La chiusura non deve essere lunga. Deve essere orientata.
 
 ## Mappa BANDO della revisione
 
-### Atlante visivo del capitolo
-
 ![Mappa revisione finale](../assets/chapter-47/01-mappa-revisione-finale.png)
-![Formula in passaggi](../assets/chapter-47/02-formula-cinque-passaggi.png)
-![Checklist rapida](../assets/chapter-47/03-checklist-rapida.png)
-![Revisione per lunghezza](../assets/chapter-47/04-risposte-lunghezza.png)
-![Revisione caso pratico](../assets/chapter-47/05-revisione-caso-pratico.png)
-![Correggere senza peggiorare](../assets/chapter-47/06-correggere-senza-peggiorare.png)
-![Caso consegna](../assets/chapter-47/07-caso-consegna.png)
 
 ### Bando
 
@@ -248,6 +240,8 @@ Gli output del capitolo sono:
 
 ## Checklist da 60 secondi
 
+![Formula di revisione in passaggi ordinati](../assets/chapter-47/02-formula-cinque-passaggi.png)
+
 Quando hai pochissimo tempo, non rileggere tutto con la stessa attenzione.
 
 Fai cinque domande:
@@ -264,6 +258,8 @@ Non aprire una riscrittura generale.
 
 ## Checklist da 3 minuti
 
+![Checklist rapida prima della consegna](../assets/chapter-47/03-checklist-rapida.png)
+
 Se hai tre minuti, usa questo ordine.
 
 | Tempo | Controllo | Azione |
@@ -279,6 +275,8 @@ La revisione deve avere timer.
 Senza timer diventa riscrittura.
 
 ## Risposta da 10 righe
+
+![Revisione proporzionata alla lunghezza della risposta](../assets/chapter-47/04-risposte-lunghezza.png)
 
 In 10 righe controlli solo l'essenziale.
 
@@ -334,6 +332,8 @@ Se la nuova idea non è necessaria, non inserirla.
 
 ## Revisione del caso pratico
 
+![Revisione mirata del caso pratico](../assets/chapter-47/05-revisione-caso-pratico.png)
+
 Nel caso pratico non basta controllare la forma.
 
 Controlla cinque elementi:
@@ -373,6 +373,8 @@ Questa chiusura fa due cose:
 
 ## Correggere senza peggiorare
 
+![Correzione controllata senza introdurre nuovi errori](../assets/chapter-47/06-correggere-senza-peggiorare.png)
+
 Non tutte le correzioni migliorano una risposta.
 
 Tre correzioni pericolose:
@@ -388,6 +390,8 @@ Prima di correggere chiediti:
 Se nasce dall'ansia, fermati.
 
 ## Caso guidato
+
+![Caso guidato: revisione finale e consegna](../assets/chapter-47/07-caso-consegna.png)
 
 Marco ha scritto una risposta da 20 righe su una domanda teorico-pratica.
 

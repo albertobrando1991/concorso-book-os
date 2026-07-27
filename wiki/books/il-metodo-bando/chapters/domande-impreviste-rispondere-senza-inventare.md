@@ -109,15 +109,7 @@ Significa usare una tecnica.
 
 ## Mappa BANDO della domanda imprevista
 
-### Atlante visivo del capitolo
-
 ![Mappa domanda imprevista](../assets/chapter-46/01-mappa-domanda-imprevista.png)
-![Perimetro nucleo sviluppo](../assets/chapter-46/02-perimetro-nucleo-sviluppo.png)
-![Tipi di domanda](../assets/chapter-46/03-tipi-domande-impreviste.png)
-![Risposta orale](../assets/chapter-46/04-risposta-orale-imprevista.png)
-![Quiz quando non sai](../assets/chapter-46/05-quiz-non-so.png)
-![Diario incertezza](../assets/chapter-46/06-diario-incertezza.png)
-![Caso imprevisto](../assets/chapter-46/07-caso-imprevisto.png)
 
 ### Bando
 
@@ -189,6 +181,8 @@ Gli output sono:
 - una scheda corretta.
 
 ## Formula: Perimetro - Nucleo sicuro - Sviluppo prudente - Chiusura
+
+![Sequenza prudente per costruire una risposta senza inventare](../assets/chapter-46/02-perimetro-nucleo-sviluppo.png)
 
 Quando arriva una domanda imprevista, usa quattro mosse.
 
@@ -271,6 +265,8 @@ Frasi utili:
 Se chiudi bene, anche una risposta non perfetta appare ordinata.
 
 ## Tipi di domanda imprevista
+
+![Tipologie di domanda imprevista e punto di partenza sicuro](../assets/chapter-46/03-tipi-domande-impreviste.png)
 
 ### 1. Domanda di dettaglio
 
@@ -380,6 +376,8 @@ Il vuoto peggiora se cerchi subito la formula perfetta.
 
 ## Come rispondere all'orale
 
+![Protocollo dell'orale per una domanda non prevista](../assets/chapter-46/04-risposta-orale-imprevista.png)
+
 All'orale hai un vantaggio: puoi mostrare ordine nel ragionamento.
 
 Hai anche un rischio: puoi parlare troppo.
@@ -452,6 +450,8 @@ Se serve solo a riempire spazio, taglia.
 
 ## Come gestire il quiz quando non sai
 
+![Decisione controllata nel quiz quando il richiamo non è sufficiente](../assets/chapter-46/05-quiz-non-so.png)
+
 Nel quiz la domanda imprevista ha un'altra forma: una domanda che non riconosci o un distrattore che assomiglia alla risposta.
 
 Qui non devi scrivere una risposta prudente. Devi decidere.
@@ -492,6 +492,8 @@ Il Diario non deve contenere solo "sbagliata". Deve contenere perché era incert
 | "Parlo dell'altro argomento..." | Abbandona la domanda. |
 
 ## Scheda operativa: Diario dell'incertezza
+
+![Diario dell'incertezza: dalla domanda dubbia al recupero mirato](../assets/chapter-46/06-diario-incertezza.png)
 
 Dopo una simulazione, compila questa scheda.
 
@@ -537,6 +539,8 @@ Poi valuta:
 - frase da migliorare.
 
 ## Caso guidato
+
+![Caso guidato: trasformare un imprevisto in una risposta credibile](../assets/chapter-46/07-caso-imprevisto.png)
 
 Elena sta simulando l'orale.
 
@@ -614,15 +618,23 @@ Questo è comportamento da candidato maturo.
 
 Scegli cinque argomenti che conosci solo in parte.
 
-Per ciascuno, compila:
+Per ciascuno, compila prima la scheda di risposta e poi quella di recupero.
 
-| Argomento | Domanda imprevista | Nucleo sicuro | Frase prudente | Lacuna da correggere |
-|---|---|---|---|---|
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
+| Argomento | Domanda imprevista | Nucleo sicuro |
+|---|---|---|
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+
+| Frase prudente | Lacuna da correggere |
+|---|---|
+| | |
+| | |
+| | |
+| | |
+| | |
 
 Poi trasformane uno in:
 

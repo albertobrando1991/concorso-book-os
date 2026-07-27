@@ -455,17 +455,27 @@ Checklist rapida post-controllo:
 
 ## Mini-esercizio
 
-Prendi il concorso che stai preparando e compila la tabella.
+Prendi il concorso che stai preparando e compila due schede distinte: prima il monitoraggio, poi la decisione.
 
-| Fonte da controllare | Link o posizione | Frequenza | Ultimo controllo | Azione se cambia |
-|---|---|---|---|---|
-| Bando/allegati | | | | |
-| inPA | | | | |
-| Sito amministrazione | | | | |
-| Gazzetta Ufficiale | | | | |
-| Normattiva | | | | |
-| autorità settoriale | | | | |
-| Diario errori | | | | |
+| Fonte da controllare | Link o posizione | Frequenza |
+|---|---|---|
+| Bando/allegati | | |
+| inPA | | |
+| Sito amministrazione | | |
+| Gazzetta Ufficiale | | |
+| Normattiva | | |
+| Autorità settoriale | | |
+| Diario degli errori | | |
+
+| Fonte controllata | Ultimo controllo | Azione se cambia |
+|---|---|---|
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
 
 Poi scegli una sola azione:
 

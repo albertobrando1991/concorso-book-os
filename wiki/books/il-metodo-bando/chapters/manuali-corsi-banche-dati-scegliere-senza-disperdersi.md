@@ -387,23 +387,39 @@ Scegli tre materiali che stai usando o vorresti usare.
 
 Compila la tabella.
 
-| Materiale | Parte del bando coperta | Output prodotto | Decisione |
-|---|---|---|---|
-| | | | tengo / integro / archivio |
-| | | | tengo / integro / archivio |
-| | | | tengo / integro / archivio |
+| Materiale | Parte del bando coperta | Output prodotto |
+|---|---|---|
+| | | |
+| | | |
+| | | |
+
+| Materiale | Decisione |
+|---|---|
+| | tengo / integro / archivio |
+| | tengo / integro / archivio |
+| | tengo / integro / archivio |
 
 Poi aggiungi un voto da 1 a 5 per ciascun criterio.
 
-| Criterio | Materiale 1 | Materiale 2 | Materiale 3 |
-|---|---:|---:|---:|
-| Allineamento al bando | | | |
-| Aggiornamento | | | |
-| tracciabilità | | | |
-| Formato di prova | | | |
-| Correzione degli errori | | | |
-| Tempo sostenibile | | | |
-| Riuso futuro | | | |
+| Criterio | Materiale 1 | Materiale 2 |
+|---|---:|---:|
+| Allineamento al bando | | |
+| Aggiornamento | | |
+| Tracciabilità | | |
+| Formato di prova | | |
+| Correzione degli errori | | |
+| Tempo sostenibile | | |
+| Riuso futuro | | |
+
+| Criterio | Materiale 3 |
+|---|---:|
+| Allineamento al bando | |
+| Aggiornamento | |
+| Tracciabilità | |
+| Formato di prova | |
+| Correzione degli errori | |
+| Tempo sostenibile | |
+| Riuso futuro | |
 
 Non scegliere il materiale con il punteggio emotivo più alto. Scegli quello che serve di più alla prossima prova.
 

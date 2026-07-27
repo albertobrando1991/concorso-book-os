@@ -61,15 +61,7 @@ La regola guida è:
 
 ## La mappa BANDO del ripasso finale
 
-### Atlante visivo del capitolo
-
 ![Mappa del ripasso](../assets/chapter-40/01-mappa-ripasso-finale.png)
-![Attività di ripasso](../assets/chapter-40/02-quattro-attivita-ripasso.png)
-![Fascicolo finale](../assets/chapter-40/03-fascicolo-finale.png)
-![Matrice finale](../assets/chapter-40/04-matrice-tengo-recupero-lascio.png)
-![Protocollo temporale](../assets/chapter-40/05-protocollo-sette-tre-uno.png)
-![Richiamo attivo](../assets/chapter-40/06-ripasso-attivo.png)
-![Caso di ripasso](../assets/chapter-40/07-caso-ripasso.png)
 
 | Fase | Domanda | Azione finale |
 |---|---|---|
@@ -132,6 +124,8 @@ Poi stabilizzo.
 
 ## Il fascicolo finale
 
+![Le attività e il fascicolo essenziale del ripasso finale](../assets/chapter-40/02-quattro-attivita-ripasso.png)
+
 Il fascicolo finale è il materiale che puoi davvero usare negli ultimi giorni.
 
 Non è tutto il tuo archivio.
@@ -159,6 +153,8 @@ Se un materiale ti apre dieci dubbi nuovi a due giorni dalla prova, non è fasci
 
 ## La matrice tengo vivo / recupero / lascio
 
+![Struttura del fascicolo finale](../assets/chapter-40/03-fascicolo-finale.png)
+
 Negli ultimi giorni devi prendere decisioni esplicite.
 
 Usa questa matrice.
@@ -179,6 +175,8 @@ La colonna "lascio" non è una sconfitta.
 Senza una colonna "lascio", il ripasso finale diventa un deposito di ansia.
 
 ## Protocollo 7-3-1
+
+![Matrice per selezionare cosa tenere vivo, recuperare o lasciare](../assets/chapter-40/04-matrice-tengo-recupero-lascio.png)
 
 Il protocollo 7-3-1 non è una regola rigida.
 
@@ -250,6 +248,8 @@ Trasformalo in una scheda minima: definizione, funzione, due parole chiave, erro
 Poi fermati.
 
 ## Ripasso attivo: la prova è richiamare
+
+![Protocollo di ripasso con finestre temporali progressive](../assets/chapter-40/05-protocollo-sette-tre-uno.png)
 
 Rileggere può aiutare, ma non basta.
 
@@ -422,6 +422,8 @@ Non energia ideale.
 
 ## Caso guidato
 
+![Richiamo attivo con verifica immediata](../assets/chapter-40/06-ripasso-attivo.png)
+
 Luca ha una prova a quiz tra sette giorni.
 
 Ha studiato molto, ma ha un problema: il materiale è ovunque.
@@ -452,6 +454,8 @@ Arriva alla prova senza avere studiato "tutto".
 Ma arriva con un sistema eseguibile.
 
 ## Domanda da commissario
+
+![Caso guidato: organizzare il ripasso dell'ultima settimana](../assets/chapter-40/07-caso-ripasso.png)
 
 perché negli ultimi giorni è spesso più utile il richiamo attivo della rilettura passiva?
 
@@ -513,11 +517,17 @@ Scegli massimo 10 errori dal Diario.
 
 ### 3. Matrice finale
 
-| Contenuto | Tengo vivo | Recupero | Lascio |
-|---|---|---|---|
-| | | | |
-| | | | |
-| | | | |
+| Contenuto | Tengo vivo | Recupero |
+|---|---|---|
+| | | |
+| | | |
+| | | |
+
+| Contenuto | Lascio |
+|---|---|
+| | |
+| | |
+| | |
 
 ### 4. Frase operativa
 

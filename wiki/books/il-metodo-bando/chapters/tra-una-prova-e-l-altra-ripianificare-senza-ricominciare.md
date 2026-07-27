@@ -59,15 +59,7 @@ La regola è:
 
 ## La mappa BANDO tra prove
 
-### Atlante visivo del capitolo
-
 ![Transizione tra prove](../assets/chapter-39/01-mappa-tra-prove.png)
-![Prime ventiquattro ore](../assets/chapter-39/02-prime-24-ore.png)
-![Conversione in piano](../assets/chapter-39/03-conversione-piano.png)
-![Bivio tra prove](../assets/chapter-39/04-bivio-scritto-orale.png)
-![Calendario di riallineamento](../assets/chapter-39/05-calendario-riallineamento.png)
-![Gestione dell'esito incerto](../assets/chapter-39/06-esito-incerto.png)
-![Caso di ripianificazione](../assets/chapter-39/07-caso-ripianificazione.png)
 
 | Fase | Domanda | Azione nell'intervallo |
 |---|---|---|
@@ -88,6 +80,8 @@ Puoi uscire convinto di avere fatto bene e poi accorgerti di avere sottovalutato
 Per questo l'impressione a caldo va registrata, non trasformata subito in verdetto.
 
 ## Prime 24 ore: salvare dati, non giudicare tutto
+
+![Prime ventiquattro ore: raccogliere dati senza giudizi impulsivi](../assets/chapter-39/02-prime-24-ore.png)
 
 Nelle prime 24 ore dopo una prova il candidato è spesso poco affidabile come giudice di se stesso.
 
@@ -128,6 +122,8 @@ Questa scheda non sostituisce l'esito ufficiale.
 Serve al Diario e al capitale di studio.
 
 ## Prime 72 ore: convertire la prova in piano
+
+![Conversione del riscontro della prova in piano operativo](../assets/chapter-39/03-conversione-piano.png)
 
 Dopo la prima registrazione, arriva la conversione.
 
@@ -292,6 +288,8 @@ Il tuo piano decide come arrivi al passaggio successivo.
 
 ## La scheda di conversione tra prove
 
+![Bivio preparatorio tra scritto e orale](../assets/chapter-39/04-bivio-scritto-orale.png)
+
 Questa è la pagina operativa del capitolo.
 
 | Campo | Compilazione |
@@ -315,6 +313,8 @@ Deve dirti che cosa fare nella prossima settimana.
 
 ## Da sapere in 5 righe
 
+![Calendario per riallineare studio e priorità](../assets/chapter-39/05-calendario-riallineamento.png)
+
 1. L'intervallo tra prove non è tempo morto: è tempo di conversione.
 2. L'impressione a caldo va registrata, ma non sostituisce l'esito ufficiale.
 3. Ogni prova deve generare Diario, schede, correzioni e capitale riutilizzabile.
@@ -322,6 +322,8 @@ Deve dirti che cosa fare nella prossima settimana.
 5. L'attesa va gestita con ritmo sostenibile: controllo avvisi, richiamo, simulazioni mirate e recupero.
 
 ## Caso guidato
+
+![Routine minima da mantenere con un esito ancora incerto](../assets/chapter-39/06-esito-incerto.png)
 
 Marta ha appena sostenuto una prova scritta a quiz. Il bando prevede, per chi supera lo scritto, una prova orale.
 
@@ -344,6 +346,8 @@ Non ha studiato tutto.
 Ha tenuto aperta la traiettoria.
 
 ## Domanda da commissario
+
+![Caso guidato: ripianificare senza ripartire da zero](../assets/chapter-39/07-caso-ripianificazione.png)
 
 perché è utile preparare il possibile orale prima di conoscere l'esito ufficiale dello scritto?
 
