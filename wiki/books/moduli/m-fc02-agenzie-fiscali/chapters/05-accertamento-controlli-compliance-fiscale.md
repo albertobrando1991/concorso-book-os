@@ -68,7 +68,7 @@ Il candidato deve evitare una scorciatoia: "il sistema rileva una differenza, qu
 
 ## Controllo automatico, formale e sostanziale
 
-Le tre categorie aiutano a ordinare lo studio, purché non vengano usate come sinonimi.
+Le tre categorie aiutano a ordinare lo studio, purchÃ© non vengano usate come sinonimi.
 
 | Tipo | Oggetto prevalente | Esito possibile | Errore tipico |
 | --- | --- | --- | --- |
@@ -76,7 +76,7 @@ Le tre categorie aiutano a ordinare lo studio, purché non vengano usate come si
 | Formale | Riscontro di dati e documenti indicati nella dichiarazione. | Richiesta documentale e comunicazione dell'esito. | Pensare che sia privo di istruttoria. |
 | Sostanziale | Ricostruzione e valutazione della posizione fiscale mediante i poteri previsti. | Atto impositivo motivato, se ne ricorrono i presupposti. | Confonderlo con una mera correzione aritmetica. |
 
-Il controllo automatico lavora principalmente sui dati disponibili e sulle operazioni di liquidazione previste. Il controllo formale può richiedere il riscontro di documenti e condizioni dichiarate. Il controllo sostanziale entra più profondamente nella ricostruzione della fattispecie e nell'esercizio dei poteri istruttori.
+Il controllo automatico lavora principalmente sui dati disponibili e sulle operazioni di liquidazione previste. Il controllo formale puÃ² richiedere il riscontro di documenti e condizioni dichiarate. Il controllo sostanziale entra piÃ¹ profondamente nella ricostruzione della fattispecie e nell'esercizio dei poteri istruttori.
 
 La classificazione serve anche per il contraddittorio: non tutti gli atti e non tutte le comunicazioni seguono lo stesso regime. Prima di applicare una garanzia occorre identificare la natura dell'attivita e l'atto finale.
 
@@ -96,7 +96,7 @@ Non serve anticipare ogni dettaglio procedurale. Serve capire il vincolo di lega
 
 ## La prova e la motivazione
 
-Nel procedimento tributario occorre distinguere acquisizione dell'elemento, valutazione probatoria e motivazione dell'atto. Un dato può costituire un indizio, richiedere riscontri oppure concorrere con altri elementi. La qualificazione dipende dalle norme applicabili e dalla fattispecie.
+Nel procedimento tributario occorre distinguere acquisizione dell'elemento, valutazione probatoria e motivazione dell'atto. Un dato puÃ² costituire un indizio, richiedere riscontri oppure concorrere con altri elementi. La qualificazione dipende dalle norme applicabili e dalla fattispecie.
 
 La motivazione rende conoscibile il percorso seguito dall'amministrazione. Deve consentire al destinatario di comprendere ragioni di fatto e di diritto della pretesa e di esercitare le proprie difese. Una motivazione apparente o generica non svolge questa funzione.
 
@@ -120,7 +120,7 @@ Termini, atti esclusi ed effetti dell'omissione devono essere verificati sul tes
 
 Lo schema di atto apre il confronto; non coincide con l'atto definitivo. Presenta la ricostruzione che l'ufficio intende porre a fondamento della pretesa e consente al contribuente di reagire prima della decisione finale.
 
-L'atto conclusivo deve tenere conto dell'istruttoria nel suo complesso. Se le osservazioni sono accolte, la ricostruzione può cambiare o la pretesa può non essere formalizzata. Se non sono accolte, la motivazione deve spiegare il percorso seguito.
+L'atto conclusivo deve tenere conto dell'istruttoria nel suo complesso. Se le osservazioni sono accolte, la ricostruzione puÃ² cambiare o la pretesa puÃ² non essere formalizzata. Se non sono accolte, la motivazione deve spiegare il percorso seguito.
 
 La sequenza da ricordare e':
 
@@ -132,13 +132,24 @@ Non ogni controllo percorre necessariamente tutti questi passaggi nello stesso m
 
 ## Autotutela, definizione e tutela giurisdizionale
 
-L'autotutela consente all'amministrazione di riesaminare i propri atti secondo la disciplina vigente. Non va descritta come un ricorso informale né come una garanzia che sospende automaticamente termini e riscossione. Il candidato deve distinguerla dalla definizione concordata della pretesa e dall'impugnazione davanti al giudice tributario.
+L'autotutela consente all'amministrazione di riesaminare i propri atti secondo la disciplina vigente. Non va descritta come un ricorso informale ne' come una garanzia che sospende automaticamente termini e riscossione. Il candidato deve distinguerla dalla definizione concordata della pretesa e dall'impugnazione davanti al giudice tributario.
+
+Il punto teorico e' semplice: l'autotutela agisce dentro l'amministrazione, la definizione concordata usa un istituto tipizzato previsto dalla legge, il ricorso apre la tutela giurisdizionale. Se il commissario chiede "chi decide?", la risposta cambia: nell'autotutela decide o rivaluta l'ufficio; nella definizione concordata la disciplina consente un assetto già predeterminato; nel ricorso decide il giudice.
 
 Tre domande aiutano:
 
-- l'ufficio sta riesaminando un proprio errore? Il tema e' l'autotutela;
+- l'ufficio sta riesaminando un proprio errore o un atto illegittimo? Il tema e' l'autotutela;
 - amministrazione e contribuente stanno utilizzando uno strumento definitorio previsto dalla legge? Il tema e' la definizione;
 - il contribuente contesta l'atto davanti all'organo giurisdizionale? Il tema e' la tutela processuale.
+
+### Funzione dei tre piani
+
+| Piano | Funzione | Effetto da ricordare | Errore tipico |
+| --- | --- | --- | --- |
+| Autotutela | Corregge o ritira l'atto viziato secondo legge. | Agisce sull'atto amministrativo, non sul giudicato. | Trattarla come un ricorso mascherato. |
+| Definizione concordata | Chiude o ridetermina la pretesa mediante una fattispecie tipizzata. | Produce effetti solo nei limiti previsti dalla disciplina. | Confonderla con una rinuncia libera e discrezionale dell'ufficio. |
+| Ricorso | Attiva la tutela davanti al giudice tributario. | Sposta la questione sul piano processuale. | Crederlo un semplice reclamo interno. |
+| Tutela cautelare | Evita un pregiudizio grave o irreparabile durante il giudizio, nei casi previsti. | Non coincide con la sospensione automatica della riscossione. | Pensare che ogni impugnazione blocchi tutto. |
 
 La disciplina puntuale appartiene al capitolo sul processo tributario e alla source note processuale consolidata. Qui conta la classificazione: il controllo produce una pretesa, l'autotutela corregge o ritira l'atto secondo legge, la definizione concordata chiude o ridetermina la lite, il ricorso attiva la tutela giurisdizionale.
 
@@ -151,18 +162,26 @@ La disciplina puntuale appartiene al capitolo sul processo tributario e alla sou
 | Ricorso | Contestazione dell'atto davanti al giudice tributario. | Istanza interna all'ufficio. |
 | Tutela cautelare | Evita un pregiudizio irreparabile o grave durante il giudizio, nei casi previsti. | Sospensione automatica di ogni riscossione. |
 
+### Caso guidato
+
+Un candidato riceve una domanda in cui il commissario chiede se l'ufficio "puo annullare tutto" dopo aver riscontrato un errore. La risposta corretta non e' generica. Se il vizio e' dell'atto amministrativo, si ragiona in autotutela; se il problema riguarda una pretesa che puo essere definita con uno strumento previsto dalla legge, si individua la definizione applicabile; se invece si parla di impugnazione davanti al giudice, la via e' il ricorso.
+
 In prova, il candidato deve prima classificare lo strumento e solo dopo richiamare il dettaglio applicabile. Se la domanda chiede "che cosa puo fare il contribuente?", la risposta non puo mescolare autotutela, definizione e ricorso come se fossero la stessa cosa.
+
+### Errore da evitare
+
+Il piu frequente e' confondere il piano amministrativo con quello processuale: si parla di autotutela quando si dovrebbe parlare di ricorso, oppure si attribuisce alla definizione concordata una funzione generale di correzione dell'atto. Il candidato deve ricordare che ogni istituto ha un soggetto decisore, un oggetto e un effetto proprio.
 ## Accertamento e riscossione non coincidono
 
 L'accertamento forma o rettifica la pretesa attraverso l'atto previsto. La riscossione riguarda il pagamento e, quando necessario, le procedure con cui il credito viene portato a esecuzione. AdER opera nel secondo baricentro; l'Agenzia delle Entrate svolge le funzioni di amministrazione, controllo e accertamento dei tributi di propria competenza.
 
-La domanda-trappola e' frequente: "La cartella di pagamento e' un atto di accertamento?". La risposta non può ridursi a un sì o a un no astratto. Occorre identificare la funzione dell'atto e la fase in cui interviene. La cartella appartiene alla riscossione; l'accertamento appartiene alla formazione della pretesa, salvo i particolari effetti che la legge attribuisce ai diversi atti.
+La domanda-trappola e' frequente: "La cartella di pagamento e' un atto di accertamento?". La risposta non puÃ² ridursi a un sÃ¬ o a un no astratto. Occorre identificare la funzione dell'atto e la fase in cui interviene. La cartella appartiene alla riscossione; l'accertamento appartiene alla formazione della pretesa, salvo i particolari effetti che la legge attribuisce ai diversi atti.
 
 ## Compliance fiscale ordinaria
 
-Compliance significa favorire l'adempimento corretto prima che l'anomalia diventi una violazione consolidata o una controversia. L'amministrazione può utilizzare dati e analisi per segnalare incoerenze, invitare il contribuente a verificare la propria posizione e rendere disponibili canali di correzione previsti dall'ordinamento.
+Compliance significa favorire l'adempimento corretto prima che l'anomalia diventi una violazione consolidata o una controversia. L'amministrazione puÃ² utilizzare dati e analisi per segnalare incoerenze, invitare il contribuente a verificare la propria posizione e rendere disponibili canali di correzione previsti dall'ordinamento.
 
-Questa logica non elimina il controllo. Lo rende più selettivo. Il contribuente che riceve una comunicazione deve valutarne contenuto e fondamento; l'ufficio deve distinguere errore, anomalia e condotta evasiva. La compliance funziona quando l'informazione e' comprensibile e la regolarizzazione avviene secondo regole conoscibili.
+Questa logica non elimina il controllo. Lo rende piÃ¹ selettivo. Il contribuente che riceve una comunicazione deve valutarne contenuto e fondamento; l'ufficio deve distinguere errore, anomalia e condotta evasiva. La compliance funziona quando l'informazione e' comprensibile e la regolarizzazione avviene secondo regole conoscibili.
 
 Per il concorso, la formula utile e':
 
@@ -257,9 +276,9 @@ Un ufficio rileva una divergenza tra i dati dichiarati da una societa e le infor
 
 Il funzionario non parte dall'atto finale. Prima identifica la fonte del dato e il periodo interessato. Verifica la competenza dell'ufficio e sceglie il potere istruttorio adeguato. Acquisisce documenti e chiarimenti, distingue i fatti dalle ipotesi e ricostruisce la disciplina applicabile.
 
-Se il procedimento rientra nel contraddittorio, lo schema di atto espone la ricostruzione e consente alla societa di presentare osservazioni. La societa produce un documento che chiarisce una parte della divergenza e contesta la qualificazione di un'altra operazione. L'ufficio deve valutare entrambe le difese. Non può ignorarle perché l'ipotesi iniziale era gia stata formulata.
+Se il procedimento rientra nel contraddittorio, lo schema di atto espone la ricostruzione e consente alla societa di presentare osservazioni. La societa produce un documento che chiarisce una parte della divergenza e contesta la qualificazione di un'altra operazione. L'ufficio deve valutare entrambe le difese. Non puÃ² ignorarle perchÃ© l'ipotesi iniziale era gia stata formulata.
 
-L'esito può essere una rideterminazione della pretesa, l'abbandono di una parte dei rilievi oppure l'adozione dell'atto motivato. Solo dopo si aprono gli eventuali percorsi di definizione, impugnazione e riscossione.
+L'esito puÃ² essere una rideterminazione della pretesa, l'abbandono di una parte dei rilievi oppure l'adozione dell'atto motivato. Solo dopo si aprono gli eventuali percorsi di definizione, impugnazione e riscossione.
 
 Il caso mostra il criterio centrale: un buon accertamento non e' quello che conferma sempre l'ipotesi iniziale. E' quello che ricostruisce correttamente i fatti e applica la norma attraverso un procedimento verificabile.
 
@@ -275,22 +294,22 @@ Il caso mostra il criterio centrale: un buon accertamento non e' quello che conf
 
 **Domanda.** Descriva la sequenza essenziale di un accertamento tributario e la funzione del contraddittorio.
 
-**Risposta guida.** L'accertamento può prendere avvio dalla selezione di una posizione sulla base di dati o indicatori di rischio. L'ufficio svolge quindi l'istruttoria attraverso i poteri previsti, acquisisce e valuta gli elementi e ricostruisce la fattispecie. Quando si applica l'art. 6-bis dello Statuto del contribuente, prima dell'atto definitivo comunica lo schema di atto e consente un contraddittorio informato ed effettivo. Le osservazioni devono essere valutate; l'atto finale espone le ragioni di fatto e di diritto e motiva rispetto alle controdeduzioni non accolte. Accertamento e riscossione restano fasi distinte.
+**Risposta guida.** L'accertamento puÃ² prendere avvio dalla selezione di una posizione sulla base di dati o indicatori di rischio. L'ufficio svolge quindi l'istruttoria attraverso i poteri previsti, acquisisce e valuta gli elementi e ricostruisce la fattispecie. Quando si applica l'art. 6-bis dello Statuto del contribuente, prima dell'atto definitivo comunica lo schema di atto e consente un contraddittorio informato ed effettivo. Le osservazioni devono essere valutate; l'atto finale espone le ragioni di fatto e di diritto e motiva rispetto alle controdeduzioni non accolte. Accertamento e riscossione restano fasi distinte.
 
 ## Domanda-trappola
 
 **Domanda.** La compliance fiscale sostituisce l'attivita di accertamento?
 
-**Risposta corretta.** No. La compliance favorisce adempimento spontaneo, prevenzione e gestione del rischio. Può ridurre errori e conflitti, ma non elimina i poteri di controllo. L'adempimento collaborativo e' un regime specifico, non un'esenzione dall'applicazione della legge tributaria.
+**Risposta corretta.** No. La compliance favorisce adempimento spontaneo, prevenzione e gestione del rischio. PuÃ² ridurre errori e conflitti, ma non elimina i poteri di controllo. L'adempimento collaborativo e' un regime specifico, non un'esenzione dall'applicazione della legge tributaria.
 
 ## Errore tipico
 
-L'errore più comune e' raccontare l'accertamento partendo dall'avviso. In questo modo scompaiono selezione, istruttoria, prova e contraddittorio. La risposta diventa un elenco di effetti dell'atto e non dimostra la comprensione del lavoro dell'ufficio.
+L'errore piÃ¹ comune e' raccontare l'accertamento partendo dall'avviso. In questo modo scompaiono selezione, istruttoria, prova e contraddittorio. La risposta diventa un elenco di effetti dell'atto e non dimostra la comprensione del lavoro dell'ufficio.
 
 La correzione consiste nel ripetere sempre cinque domande:
 
 1. quale anomalia o rischio e' stato individuato?;
-2. quale potere può usare l'ufficio?;
+2. quale potere puÃ² usare l'ufficio?;
 3. quali elementi sono stati acquisiti?;
 4. quale garanzia partecipativa si applica?;
 5. come viene motivato l'esito?
@@ -361,7 +380,7 @@ D. elimina i controlli dell'Agenzia.
 - Non confondo autotutela, definizione e ricorso.
 - Non confondo accertamento e riscossione.
 - So definire compliance fiscale e tax control framework.
-- So spiegare perché l'adempimento collaborativo non elimina il controllo.
+- So spiegare perchÃ© l'adempimento collaborativo non elimina il controllo.
 - Ho svolto il caso guidato e i quiz.
 - Ho verificato sul bando il livello di dettaglio normativo richiesto.
 
