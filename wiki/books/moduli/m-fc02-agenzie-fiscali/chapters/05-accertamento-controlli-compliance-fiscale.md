@@ -6,7 +6,7 @@ status: revised_draft
 domain: "concorsi pubblici italiani"
 topics: ["accertamento tributario","controlli fiscali","compliance fiscale","contraddittorio","adempimento collaborativo","fiscalita internazionale","residenza fiscale","stabile organizzazione","transfer pricing","tax control framework"]
 entities: ["Agenzia delle Entrate","Normattiva","OCSE","Ministero dell'economia e delle finanze"]
-source_refs: ["sources/normativa-tributaria-tuir-iva-accertamento-m-fc02.md","sources/adempimento-collaborativo-compliance-fiscale-m-fc02.md","sources/vol-03-fonti-specialistiche-fisco-dogane-previdenza-ispettivo.md","sources/accertamento-contraddittorio-compliance-aggiornamento-2026-07-17.md","sources/fiscalita-internazionale-acfi-aggiornamento-2026-07-18.md"]
+source_refs: ["sources/normativa-tributaria-tuir-iva-accertamento-m-fc02.md","sources/adempimento-collaborativo-compliance-fiscale-m-fc02.md","sources/vol-03-fonti-specialistiche-fisco-dogane-previdenza-ispettivo.md","sources/accertamento-contraddittorio-compliance-aggiornamento-2026-07-17.md","sources/processo-tributario-dlgs-175-2024-aggiornamento-2026-07-18.md","sources/fiscalita-internazionale-acfi-aggiornamento-2026-07-18.md"]
 book_refs: ["m-fc02-agenzie-fiscali","il-metodo-bando"]
 confidence: 0.95
 updated_at: 2026-07-18T00:00:00+02:00
@@ -20,7 +20,7 @@ outline_section: 5
 draft_stage: revised-editorial-draft
 module_code: M-FC02
 module_family: funzioni-centrali
-last_compiled_from: ["wiki/sources/normativa-tributaria-tuir-iva-accertamento-m-fc02.md","wiki/sources/adempimento-collaborativo-compliance-fiscale-m-fc02.md","wiki/sources/vol-03-fonti-specialistiche-fisco-dogane-previdenza-ispettivo.md","wiki/sources/accertamento-contraddittorio-compliance-aggiornamento-2026-07-17.md","wiki/sources/fiscalita-internazionale-acfi-aggiornamento-2026-07-18.md","wiki/topics/accertamento-compliance-fiscale.md","wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md","wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md","wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco.md"]
+last_compiled_from: ["wiki/sources/normativa-tributaria-tuir-iva-accertamento-m-fc02.md","wiki/sources/adempimento-collaborativo-compliance-fiscale-m-fc02.md","wiki/sources/vol-03-fonti-specialistiche-fisco-dogane-previdenza-ispettivo.md","wiki/sources/accertamento-contraddittorio-compliance-aggiornamento-2026-07-17.md","wiki/sources/processo-tributario-dlgs-175-2024-aggiornamento-2026-07-18.md","wiki/sources/fiscalita-internazionale-acfi-aggiornamento-2026-07-18.md","wiki/topics/accertamento-compliance-fiscale.md","wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md","wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md","wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco.md"]
 ---
 
 # Accertamento, controlli e compliance fiscale
@@ -140,8 +140,18 @@ Tre domande aiutano:
 - amministrazione e contribuente stanno utilizzando uno strumento definitorio previsto dalla legge? Il tema e' la definizione;
 - il contribuente contesta l'atto davanti all'organo giurisdizionale? Il tema e' la tutela processuale.
 
-Le discipline puntuali appartengono ai capitoli e alle appendici dedicate. Qui conta la classificazione.
+La disciplina puntuale appartiene al capitolo sul processo tributario e alla source note processuale consolidata. Qui conta la classificazione: il controllo produce una pretesa, l'autotutela corregge o ritira l'atto secondo legge, la definizione concordata chiude o ridetermina la lite, il ricorso attiva la tutela giurisdizionale.
 
+### Strumenti da non confondere
+
+| Strumento | Funzione | Non va confuso con |
+| --- | --- | --- |
+| Autotutela | Riesame o ritiro dell'atto da parte dell'ufficio secondo i presupposti di legge. | Ricorso o annullamento automatico. |
+| Definizione concordata | Riduzione o chiusura della pretesa mediante istituto tipizzato. | Rinuncia ai controlli o favore discrezionale. |
+| Ricorso | Contestazione dell'atto davanti al giudice tributario. | Istanza interna all'ufficio. |
+| Tutela cautelare | Evita un pregiudizio irreparabile o grave durante il giudizio, nei casi previsti. | Sospensione automatica di ogni riscossione. |
+
+In prova, il candidato deve prima classificare lo strumento e solo dopo richiamare il dettaglio applicabile. Se la domanda chiede "che cosa puo fare il contribuente?", la risposta non puo mescolare autotutela, definizione e ricorso come se fossero la stessa cosa.
 ## Accertamento e riscossione non coincidono
 
 L'accertamento forma o rettifica la pretesa attraverso l'atto previsto. La riscossione riguarda il pagamento e, quando necessario, le procedure con cui il credito viene portato a esecuzione. AdER opera nel secondo baricentro; l'Agenzia delle Entrate svolge le funzioni di amministrazione, controllo e accertamento dei tributi di propria competenza.
