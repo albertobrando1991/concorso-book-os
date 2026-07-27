@@ -2,369 +2,282 @@
 id: chapter-m-fc02-civile-commerciale-applicati-fisco-dogane-riscossione
 type: book_chapter
 title: "Civile e commerciale applicati a fisco, dogane e riscossione"
-status: revised_draft
+status: professional_draft
 domain: "concorsi pubblici italiani"
-topics: ["diritto civile","diritto commerciale","crisi impresa","agenzie fiscali"]
-entities: ["Agenzia delle Entrate","Agenzia delle Dogane e dei Monopoli","Agenzia delle Entrate-Riscossione"]
-source_refs: ["sources/adempimenti-contabilita-civile-commerciale-m-fc02.md","sources/diritto-civile-obbligazioni-contratti-m-fc02-2026-07-17.md","sources/diritto-commerciale-impresa-societa-m-fc02-2026-07-17.md","sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026.md","sources/contabilita-aziendale-bilancio-reddito-impresa-aggiornamento-2026-07-18.md","sources/riscossione-ader-aggiornamento-istituzionale-2026-07-17.md","sources/codice-doganale-unione-procedure-adm-aggiornamento-2026-07-17.md"]
-book_refs: ["m-fc02-agenzie-fiscali"]
-confidence: 0.9
-updated_at: 2026-07-18T00:00:00+02:00
+topics: ["diritto civile", "diritto commerciale", "obbligazioni", "contratti", "impresa", "societa", "crisi impresa", "agenzie fiscali"]
+entities: ["Agenzia delle Entrate", "Agenzia delle Dogane e dei Monopoli", "Agenzia delle Entrate-Riscossione"]
+source_refs: ["sources/adempimenti-contabilita-civile-commerciale-m-fc02.md", "sources/codice-civile-beni-pubblici-demanio-patrimonio.md"]
+book_refs: ["m-fc02-agenzie-fiscali", "il-metodo-bando"]
+confidence: 0.82
+updated_at: 2026-07-17T23:40:00+02:00
 created_at: 2026-07-01T21:00:00+02:00
 review_required: true
 canonical: true
-tags: ["book-chapter","module-code-m-fc02","revised-draft","civil-commercial-law"]
+tags: ["book-chapter", "module-code-m-fc02", "professional-draft"]
 book_id: m-fc02-agenzie-fiscali
 outline_section: 12
-draft_stage: revised-editorial-draft
+draft_stage: professional-draft
 module_code: M-FC02
 module_family: funzioni-centrali
-last_compiled_from: ["wiki/sources/adempimenti-contabilita-civile-commerciale-m-fc02.md","wiki/sources/diritto-civile-obbligazioni-contratti-m-fc02-2026-07-17.md","wiki/sources/diritto-commerciale-impresa-societa-m-fc02-2026-07-17.md","wiki/sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026.md","wiki/sources/contabilita-aziendale-bilancio-reddito-impresa-aggiornamento-2026-07-18.md","wiki/sources/riscossione-ader-aggiornamento-istituzionale-2026-07-17.md","wiki/sources/codice-doganale-unione-procedure-adm-aggiornamento-2026-07-17.md","wiki/books/moduli/m-fc02-agenzie-fiscali/planning/02-matrice-copertura-didattica.md","wiki/reviews/review-m-fc02-copertura-didattica-integrale-2026-07-17.md"]
+last_compiled_from: ["wiki/sources/adempimenti-contabilita-civile-commerciale-m-fc02.md", "wiki/sources/codice-civile-beni-pubblici-demanio-patrimonio.md", "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader.md", "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm.md", "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare.md", "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco.md"]
 ---
 
 # Civile e commerciale applicati a fisco, dogane e riscossione
 
 ## Apertura editoriale
 
-Il diritto civile e commerciale entra nei concorsi fiscali quando serve a leggere i rapporti economici sui quali operano imposte, controlli, dogane e riscossione. Un credito nasce da un rapporto giuridico. Un contratto produce obblighi. Un'impresa organizza beni e persone. Una societa imputa attivita, patrimonio e responsabilita a un soggetto distinto dai soci. Una crisi modifica la capacita concreta del debitore di adempiere.
+Un'impresa importa componenti, li trasforma e vende il prodotto finito. Dietro questa operazione si trovano molti rapporti: il contratto con il fornitore, l'obbligo di pagare, il trasferimento dei beni, il trasporto, le garanzie offerte, i crediti verso i clienti e la responsabilita patrimoniale. A questi rapporti si sovrappongono gli effetti fiscali e doganali e, se i debiti non vengono adempiuti, le regole della riscossione.
 
-Il candidato non deve trasformare questo capitolo in un corso generale di diritto privato. Deve pero possedere le categorie senza le quali fattura, garanzia, cessione, pagamento, importazione o riscossione diventano parole isolate. Il taglio e' selettivo ma autonomo: prima la teoria essenziale, poi il raccordo con il lavoro fiscale.
+Il diritto civile e commerciale fornisce il lessico con cui ricostruire l'operazione prima di applicare la disciplina pubblicistica. Chi e' il soggetto obbligato? Qual e' la fonte del debito? Il contratto e' efficace? Il credito e' stato ceduto? Esiste una garanzia? Il debitore agisce personalmente oppure attraverso una societa?
+
+Il candidato non deve studiare qui un intero corso di diritto privato. Deve riconoscere gli istituti che spiegano la struttura economica e giuridica dei fatti esaminati da AE, ADM e AdER.
 
 ## Obiettivo del capitolo
 
-Al termine devi saper:
+Al termine del capitolo devi saper:
 
-1. distinguere soggetto, capacita giuridica, capacita di agire e rappresentanza;
-2. ricostruire un'obbligazione dal titolo fino all'adempimento o all'inadempimento;
-3. distinguere responsabilita patrimoniale e principali garanzie del credito;
-4. spiegare formazione, effetti e patologie essenziali del contratto;
-5. distinguere imprenditore, impresa, azienda, societa e patrimonio sociale;
-6. riconoscere crisi e insolvenza senza improvvisare procedure o soglie;
-7. applicare queste categorie a un caso AE, ADM o AdER.
+1. distinguere soggetto, rapporto giuridico, obbligo e responsabilita;
+2. riconoscere fonti, oggetto e soggetti dell'obbligazione;
+3. spiegare adempimento, inadempimento, mora e modi essenziali di estinzione;
+4. distinguere modificazioni del credito e del debito;
+5. separare responsabilita contrattuale ed extracontrattuale;
+6. ricostruire formazione, effetti, invalidita e scioglimento del contratto;
+7. confrontare garanzie reali, personali e tutela patrimoniale;
+8. distinguere imprenditore, impresa, azienda e societa;
+9. confrontare societa di persone e di capitali;
+10. riconoscere una situazione di crisi senza confonderla con una perdita isolata.
 
-## Mappa BANDO del capitolo
+## Mappa BANDO
 
-| Passaggio | Domanda | Output |
-| --- | --- | --- |
-| B - Bando | Il programma chiede civile, commerciale, societa o crisi? | Perimetro da studiare. |
-| A - Aree | Il fatto riguarda soggetto, credito, contratto, impresa o crisi? | Area prevalente. |
-| N - Nuclei | Quale categoria giuridica spiega il fatto? | Definizione e distinzione. |
-| D - Diario | Quale confusione altera la soluzione? | Errore da correggere. |
-| O - Output | Serve quiz, risposta orale, mini-caso o front-office? | Risposta verificabile. |
+| Passaggio | Applicazione al capitolo |
+|---|---|
+| **Bando** | Cerca diritto civile, obbligazioni, contratti, responsabilita, diritto commerciale, impresa, societa e crisi d'impresa. |
+| **Aree** | Collega diritto privato, contabilita, tributi, dogane, riscossione, catasto e pubblicita immobiliare. |
+| **Nuclei** | Debitore, creditore, adempimento, mora, contratto, garanzia patrimoniale, impresa, azienda, societa. |
+| **Diario** | Registra le coppie da non confondere: debito/responsabilita, impresa/azienda, nullita/annullabilita, credito/garanzia, crisi/insolvenza. |
+| **Output** | Qualifica un'operazione, individua soggetti e garanzie e costruisci una risposta orale ordinata. |
 
-## 1. Soggetti, capacita e rappresentanza
+## 1. Rapporto giuridico e soggetti
 
-Il soggetto di diritto e' il centro al quale l'ordinamento imputa diritti, obblighi, poteri e responsabilita. La persona fisica e' l'essere umano considerato dall'ordinamento. Gli enti possono acquistare una distinta soggettivita e, nei casi previsti, personalita giuridica.
+Il rapporto giuridico e' una relazione tra soggetti regolata dall'ordinamento. A una situazione attiva, come un diritto, corrisponde una situazione passiva, come un obbligo. Il primo controllo consiste nell'identificare chi sia titolare del rapporto: una persona agisce in proprio, per una societa o per conto di un altro soggetto?
 
-La **capacita giuridica** e' l'idoneita a essere titolare di diritti e doveri. La **capacita di agire** e' l'idoneita a compiere validamente atti giuridici che producono effetti nella propria sfera. Le due nozioni non coincidono: si puo essere titolari di una situazione senza poter esercitare autonomamente tutti gli atti che la riguardano.
+La capacita giuridica e' l'idoneita a essere titolare di situazioni giuridiche; la capacita di agire riguarda il compimento valido di atti. Gli enti operano attraverso organi e rappresentanti. Attribuire il rapporto alla persona che materialmente firma, senza verificare i poteri, puo assegnare ricavi, debiti o garanzie al soggetto sbagliato.
 
-Nel caso concorsuale bisogna chiedersi chi e' titolare del rapporto, chi compie l'atto, con quale potere e su chi ricadono gli effetti. Un debito della societa non passa automaticamente a ogni socio; la risposta dipende dal tipo societario, dal titolo e dalla disciplina applicabile.
+## 2. L'obbligazione
 
-La **rappresentanza** consente al rappresentante di compiere un atto in nome e per conto del rappresentato. Se il potere esiste ed e' esercitato nei limiti conferiti, gli effetti si producono nella sfera del rappresentato. La procura conferisce il potere rappresentativo e non va confusa con il rapporto interno che spiega perche il rappresentante agisce.
+L'obbligazione vincola un debitore a una prestazione nell'interesse di un creditore. La prestazione deve avere contenuto patrimoniale ed essere possibile, lecita e determinata o determinabile. Puo consistere nel dare, fare o non fare.
 
-Se chi agisce non ha potere o ne supera i limiti, l'atto non puo essere trattato come regolarmente compiuto dal rappresentato. Effetti e ratifica richiedono la verifica del testo vigente e del caso. Il metodo resta stabile: prima titolarita e potere, poi validita ed effetti.
+Le obbligazioni derivano dal contratto, dal fatto illecito o da altri atti e fatti riconosciuti dall'ordinamento. La fonte identifica la ragione del vincolo. Non ogni uscita e' un pagamento ne ogni entrata e' una vendita: possono esistere restituzioni, finanziamenti, risarcimenti, conferimenti e anticipazioni.
 
-## 2. Obbligazioni: struttura e fonti
+Quando vi sono piu debitori occorre distinguere solidarieta e parziarieta. Nella solidarieta passiva il creditore puo chiedere l'intera prestazione a uno dei condebitori, ferma la regolazione interna. Nella parziarieta ciascuno risponde della propria quota. La solidarieta non deve essere applicata senza verificarne il fondamento.
 
-L'obbligazione e' un rapporto nel quale il debitore e' tenuto a una prestazione nell'interesse del creditore. I suoi elementi sono soggetti, prestazione e vincolo giuridico. La prestazione puo consistere in dare, fare o non fare, deve essere suscettibile di valutazione economica e corrispondere a un interesse del creditore.
+## 3. Adempimento, inadempimento e mora
 
-Le obbligazioni non nascono soltanto dal contratto. Possono derivare da fatto illecito o da altri atti e fatti ai quali l'ordinamento collega l'effetto obbligatorio. “Obbligazione” non significa quindi “contratto”: il contratto e' una fonte, non l'intera categoria.
+Adempiere significa eseguire esattamente la prestazione dovuta. La verifica riguarda soggetto, destinatario, oggetto, luogo e tempo. Se esistono piu debiti, l'imputazione chiarisce quale rapporto venga estinto. Questo evita di associare automaticamente un bonifico alla fattura piu vicina nel tempo.
 
-Nelle obbligazioni pecuniarie la prestazione consiste nel pagamento di una somma. Occorre distinguere credito, debito, pagamento e documento: la fattura documenta un'operazione, ma non coincide con tutta la vicenda giuridica.
+L'inadempimento ricorre quando la prestazione manca, e' tardiva o inesatta. La conseguenza tipica e' la responsabilita del debitore, salvo la prova della causa non imputabile secondo la disciplina applicabile. La mora qualifica il ritardo e produce effetti specifici; non coincide in ogni caso con il semplice superamento della scadenza.
 
-Quando vi sono piu debitori bisogna verificare se l'obbligazione sia solidale o parziaria. Nella solidarieta passiva il creditore puo chiedere l'intera prestazione a uno dei debitori secondo la disciplina applicabile, ferma la ripartizione nei rapporti interni. La solidarieta non va presunta fuori dai casi previsti.
+Il danno risarcibile richiede un collegamento con l'inadempimento. La clausola penale predetermina la prestazione dovuta per inadempimento o ritardo; la caparra svolge una funzione diversa e non ne e' sinonimo.
 
-Il credito puo circolare. Nella cessione cambia il creditore mentre, di regola, resta lo stesso rapporto. La cessione va distinta da delegazione, espromissione e accollo, che incidono con logiche diverse sulla posizione debitoria. Nel raccordo con la riscossione non va confusa la cessione privata con l'affidamento di un carico pubblico: AdER non e' un normale cessionario del credito.
+## 4. Modificazioni ed estinzione
 
-## 3. Adempimento e inadempimento
+Nella cessione del credito cambia il creditore, mentre il rapporto prosegue. Occorre verificare a chi il debitore possa pagare con effetto liberatorio e quali eccezioni possa opporre. La cessione non equivale a novazione.
 
-L'adempimento e' l'esatta esecuzione della prestazione dovuta. “Esatta” significa conforme quanto a soggetto, oggetto, quantita, qualita, tempo e luogo. Non basta dire che un pagamento esiste: occorre verificare chi ha pagato, a chi, che cosa, quando e con quale imputazione.
+Delegazione, espromissione e accollo intervengono sul lato passivo con strutture differenti. La domanda decisiva e' se il debitore originario venga liberato oppure resti obbligato insieme al nuovo soggetto.
 
-Correttezza e buona fede orientano il comportamento delle parti nell'esecuzione. Non modificano liberamente il titolo, ma richiedono cooperazione leale e protezione dell'affidamento nei limiti del rapporto.
+L'obbligazione si estingue normalmente con l'adempimento. Puo estinguersi anche mediante compensazione, confusione, novazione, remissione o impossibilita sopravvenuta non imputabile, se ne ricorrono i presupposti. La compensazione civilistica non va confusa con quella tributaria, sottoposta a regole proprie.
 
-L'inadempimento ricorre quando la prestazione manca o e' eseguita in modo inesatto. Il ritardo e' una forma di inesatto adempimento, ma la mora non coincide con ogni scadenza: presupposti ed effetti dipendono dalla disciplina applicabile.
+## 5. Responsabilita civile
 
-Per valutare la responsabilita bisogna ricostruire:
+La responsabilita contrattuale nasce dalla violazione di un'obbligazione preesistente. Il termine e' ampio: il vincolo non deve necessariamente derivare da un contratto. La responsabilita extracontrattuale deriva invece dalla lesione ingiusta arrecata al di fuori di uno specifico rapporto obbligatorio.
 
-1. la prestazione dovuta;
-2. l'esecuzione mancata, tardiva o inesatta;
-3. l'imputabilita della causa;
-4. il danno e il nesso con l'inadempimento;
-5. i rimedi disponibili.
+Cambiano struttura, prova, criteri d'imputazione e prescrizione. Una stessa vicenda puo coinvolgere entrambi i piani. Il candidato deve partire dal rapporto tra le parti, non dall'etichetta del danno.
 
-Impossibilita e maggiore onerosita non sono sinonimi. La prima riguarda l'eseguibilita della prestazione; la seconda il peso economico. Una difficolta finanziaria non equivale automaticamente a impossibilita giuridicamente rilevante. Neppure ogni inadempimento produce lo stesso risarcimento: danno e nesso causale vanno dimostrati secondo le regole applicabili.
+## 6. Contratto: formazione ed effetti
 
-## 4. Responsabilita patrimoniale e garanzie
+Il contratto e' l'accordo con cui le parti costituiscono, regolano o estinguono un rapporto patrimoniale. I suoi elementi essenziali riguardano accordo, causa, oggetto e forma quando richiesta. La conclusione puo avvenire attraverso proposta e accettazione o altre sequenze ammesse.
 
-Il patrimonio del debitore costituisce la garanzia generale delle obbligazioni nei limiti di legge. Cio non significa che ogni bene sia aggredibile nello stesso modo: esistono limiti, regimi speciali e cause di prelazione.
+Il contratto produce effetti tra le parti e deve essere eseguito secondo buona fede. L'interpretazione ricostruisce la comune intenzione e coordina le clausole. La forma puo essere richiesta per validita, prova o pubblicita: i tre piani non coincidono. La registrazione fiscale non sana da sola un vizio civilistico.
 
-| Garanzia | Logica | Domanda da porsi |
-| --- | --- | --- |
-| Generale | Il patrimonio risponde delle obbligazioni. | Quali beni e quali limiti? |
-| Reale | Un bene e' specificamente vincolato. | Quale bene e quale titolo? |
-| Personale | Un altro soggetto assume un obbligo di garanzia. | Chi garantisce e entro quali limiti? |
-| Privilegio | La legge attribuisce preferenza per la causa del credito. | Quale fonte riconosce la prelazione? |
+Nei beni immobili occorre distinguere titolo, forma, trascrizione e voltura catastale. Il capitolo 10 approfondisce pubblicita immobiliare e catasto.
 
-Pegno e ipoteca sono garanzie reali ma non intercambiabili. La fideiussione e' personale: il garante assume un'obbligazione verso il creditore. Il privilegio dipende dalla legge, non dalla semplice volonta delle parti.
+## 7. Invalidita e scioglimento
 
-Nel caso fiscale bisogna evitare due sovrapposizioni: una garanzia civilistica non coincide con una misura cautelare della riscossione; la responsabilita patrimoniale generale non consente di ignorare competenza, titolo e procedura esecutiva.
+La nullita colpisce il contratto per vizi gravi individuati dall'ordinamento. L'annullabilita tutela interessi diversi e l'atto produce effetti finche non intervenga l'annullamento. La rescissione reagisce a specifiche alterazioni originarie; la risoluzione riguarda problemi sopravvenuti nell'attuazione di un contratto valido.
 
-## 5. Contratto: formazione ed effetti
+Il recesso e' il potere unilaterale di sciogliere il rapporto quando legge o contratto lo consentono. Nei quiz la sequenza utile e': vizio originario, problema sopravvenuto o potere di uscita?
 
-Il contratto e' l'accordo con cui due o piu parti costituiscono, regolano o estinguono un rapporto giuridico patrimoniale. Gli elementi essenziali comprendono accordo, causa, oggetto e forma quando richiesta dalla legge a pena di invalidita.
+## 8. Contratti dell'impresa
 
-La causa esprime la funzione giuridico-economica dell'operazione. L'oggetto e' il contenuto sul quale cade l'accordo e deve possedere i requisiti previsti. La forma non e' sempre solenne: diventa requisito essenziale nei casi stabiliti.
+La vendita trasferisce un diritto verso il prezzo. La somministrazione soddisfa bisogni periodici o continuativi. L'appalto organizza mezzi e gestione a rischio dell'appaltatore per un'opera o un servizio. Il mandato riguarda atti giuridici per conto altrui; la rappresentanza determina se gli effetti si producano direttamente per il rappresentato.
 
-Il contratto si forma attraverso l'incontro delle manifestazioni di volonta secondo le regole applicabili. Proposta e accettazione vanno lette come atti diretti alla conclusione. Durante le trattative opera la buona fede. La responsabilita precontrattuale riguarda la fase anteriore; l'inadempimento presuppone invece un'obbligazione gia sorta.
+Nel deposito prevalgono custodia e restituzione; nel trasporto il trasferimento di persone o cose; nella locazione il godimento di un bene verso corrispettivo. Per fisco e dogane la qualificazione contrattuale aiuta a leggere l'operazione, ma non sostituisce la relativa disciplina pubblicistica. Il nome scelto dalle parti non prevale automaticamente sulla struttura concreta.
 
-Il contratto vincola le parti. L'interpretazione non isola una parola, ma ricostruisce il significato dell'accordo usando i criteri previsti, il comportamento complessivo e la buona fede. Di regola gli effetti diretti riguardano le parti, salvi i casi ammessi per i terzi.
+## 9. Garanzia patrimoniale e garanzie specifiche
 
-## 6. Patologie e rimedi
+In linea generale il debitore risponde con il proprio patrimonio. La garanzia generica non attribuisce al creditore un diritto immediato su un bene determinato.
 
-Le patologie contrattuali non sono sinonimi.
+Privilegio, pegno e ipoteca attribuiscono prelazione secondo presupposti differenti. Il pegno riguarda tipicamente mobili o crediti; l'ipoteca immobili o altri beni registrati ammessi. La fideiussione e' invece personale: un terzo garantisce il debito altrui.
 
-- **Nullita:** vizio radicale nei casi previsti, legato alla struttura o al contrasto con norme imperative secondo la disciplina applicabile.
-- **Annullabilita:** tutela il soggetto legittimato in ipotesi come incapacita o vizi del consenso; errore, violenza e dolo richiedono i rispettivi presupposti.
-- **Rescissione:** riguarda specifiche condizioni anomale presenti nella fase genetica.
-- **Risoluzione:** incide sul funzionamento di un contratto valido per inadempimento o altre cause disciplinate.
+L'azione surrogatoria reagisce all'inerzia patrimoniale del debitore; la revocatoria mira all'inefficacia verso il creditore di determinati atti pregiudizievoli; il sequestro conservativo vincola cautelarmente beni. Questi strumenti non coincidono con la riscossione pubblica e non trasferiscono automaticamente i beni al creditore.
 
-| Categoria | Momento del problema | Errore da evitare |
-| --- | --- | --- |
-| Nullita | Struttura/contrasto radicale | “Ogni irregolarita rende nullo il contratto”. |
-| Annullabilita | Capacita o consenso protetto | Confonderla con nullita automatica. |
-| Rescissione | Formazione in condizioni tipiche anomale | Usarla come sinonimo di recesso. |
-| Risoluzione | Funzionamento del rapporto | Dire che il contratto non e' mai esistito. |
+## 10. Imprenditore, impresa e azienda
 
-Prima di scegliere il rimedio si descrive il fatto. La parola “inadempimento” orienta verso responsabilita e rimedi funzionali; non dimostra nullita o annullabilita.
+L'imprenditore esercita professionalmente un'attivita economica organizzata diretta alla produzione o allo scambio di beni o servizi. L'impresa e' l'attivita; l'azienda e' il complesso dei beni organizzati per esercitarla.
 
-## 7. Imprenditore e statuto dell'impresa
+La cessione dell'azienda non coincide con la cessione delle partecipazioni societarie. Il valore aziendale non e' la semplice somma dei beni: organizzazione, clientela, procedure e capacita reddituale concorrono all'avviamento.
 
-L'**imprenditore** e' chi esercita professionalmente un'attivita economica organizzata diretta alla produzione o allo scambio di beni o servizi. La definizione richiede di verificare insieme attivita, economicita, organizzazione, professionalita e destinazione produttiva o di scambio. Un singolo affare occasionale non basta; la ricerca di un risultato economico non coincide necessariamente con la produzione immediata di utile.
+Le scritture contabili sostengono informazione e controllo. Il capitolo 11 ne approfondisce la logica economica; qui rilevano come documentazione dell'organizzazione e dei rapporti. Chi firma per l'impresa deve inoltre disporre di poteri adeguati: qualifica interna, procura e pubblicita non sono dati intercambiabili.
 
-L'**impresa** e' l'attivita esercitata. L'**azienda** e' il complesso dei beni organizzati dall'imprenditore per esercitarla. Le tre nozioni indicano soggetto, attivita e strumento organizzato. L'impresa non acquista soggettivita autonoma per il solo fatto di esistere; gli atti e le responsabilita vanno imputati all'imprenditore individuale o al soggetto societario.
+## 11. Societa e autonomia patrimoniale
 
-### Categorie essenziali
+La societa organizza l'esercizio comune di un'attivita economica secondo il tipo scelto. Nelle societa di persone sono centrali il rapporto tra soci e, secondo il tipo, la responsabilita personale. Nelle societa di capitali il patrimonio sociale e' maggiormente separato da quello dei partecipanti.
 
-| Categoria | Nucleo distintivo | Errore da evitare |
-| --- | --- | --- |
-| Imprenditore commerciale | Esercita una delle attivita commerciali individuate dal Codice; pubblicita e statuto dipendono dalla disciplina applicabile. | Chiamare commerciale ogni attivita che produce ricavi. |
-| Piccolo imprenditore | Organizza l'attivita prevalentemente con il lavoro proprio e familiare, nelle figure e condizioni previste. | Ricavare la qualifica soltanto dal fatturato o dal numero di addetti. |
-| Imprenditore agricolo | Esercita coltivazione, selvicoltura, allevamento e attivita connesse nei termini di legge. | Considerare agricola ogni attivita svolta in area rurale. |
+| Profilo | Societa di persone | Societa di capitali |
+|---|---|---|
+| Centralita | Rapporto personale tra soci | Organizzazione e capitale |
+| Autonomia patrimoniale | Imperfetta, con regimi diversi | Perfetta in linea generale |
+| Responsabilita dei soci | Puo essere personale e illimitata | Di regola limitata al conferimento |
+| Organizzazione | Tendenzialmente semplice | Organi e regole articolati |
 
-Le categorie incidono sullo statuto applicabile, ma non autorizzano scorciatoie. La qualifica concreta va coordinata con la legislazione speciale vigente. Nei quiz la sequenza corretta e': identificare l'attivita; verificare organizzazione e professionalita; classificare la categoria; applicare le conseguenze previste.
+Responsabilita limitata non significa assenza di responsabilita. La societa risponde col proprio patrimonio; soci e amministratori rispondono personalmente nei casi previsti. Il debito sociale non puo essere trasferito automaticamente al socio.
 
-### Statuto e assetti organizzativi
+Capitale sociale, patrimonio e patrimonio netto sono grandezze diverse. Il bilancio informa sulla situazione e sul risultato, ma non coincide con la dichiarazione fiscale. Redazione, approvazione, controllo e pubblicita del bilancio spettano a soggetti e fasi differenti.
 
-Lo statuto dell'imprenditore commerciale comprende nuclei come iscrizione nel registro delle imprese, scritture contabili, rappresentanza commerciale e disciplina della crisi secondo ambito e condizioni di legge. Non tutti gli imprenditori vi sono assoggettati nello stesso modo.
+## 12. Crisi d'impresa: box di allerta
 
-L'imprenditore che opera in forma societaria o collettiva deve istituire assetti organizzativi, amministrativi e contabili adeguati anche a rilevare tempestivamente la crisi. “Adeguato” non indica un modello identico per ogni impresa: va rapportato a natura, dimensioni e complessita. Il candidato deve cogliere la funzione degli assetti, senza inventare procedure o soglie non consolidate.
+> **Da ricordare**
+>
+> Una perdita, un ritardo o un indice negativo non equivalgono automaticamente a crisi o insolvenza. La crisi riguarda la prospettica inadeguatezza dei flussi rispetto alle obbligazioni; l'insolvenza si manifesta nell'incapacita di adempiere regolarmente. Servono andamento, scadenze e dati attendibili.
 
-Institore, procuratore e commesso sono figure della rappresentanza commerciale con poteri collegati alla funzione esercitata. Qualifica, procura, pubblicita e limiti non sono sinonimi. Nel caso pratico si verifica quale ruolo il soggetto ricopra, quale potere gli spetti e se l'atto rientri nell'attivita affidata.
+L'organizzazione deve rilevare tempestivamente gli squilibri. Contabilita, tesoreria, scadenzario e previsioni finanziarie permettono di intercettare il deterioramento. Il Codice della crisi offre strumenti differenziati: nel modulo basta comprenderne la logica. Definizioni operative, requisiti ed effetti delle procedure vanno aggiornati quando richiesti dal bando.
 
-### Azienda e trasferimento
+## 13. Applicazioni ad AE, ADM e AdER
 
-L'azienda non e' la somma casuale dei beni: e' un complesso organizzato per l'impresa. Il suo trasferimento conserva rilievo unitario e coinvolge forma e pubblicita dell'atto, concorrenza, successione nei contratti, crediti e debiti. Gli effetti non operano tutti allo stesso modo: contano natura del rapporto, posizione dei terzi, risultanze contabili e discipline speciali.
+**AE.** Gli istituti civilistici qualificano vendita o finanziamento, cessione d'azienda o di beni, rapporto societario, titolarita di crediti e rappresentanza. La conseguenza fiscale deriva poi dalla disciplina tributaria.
 
-**Caso breve.** Gamma S.r.l. vende un ramo operativo con macchinari, dipendenti e contratti, ma conserva il marchio e alcune passivita. Non basta dire “ha venduto dei beni”. Occorre delimitare il complesso trasferito, distinguere rapporti compresi ed esclusi e verificare separatamente effetti civilistici, fiscali e doganali. Il trasferimento non dimostra da solo che ogni debito precedente passi all'acquirente.
+**ADM.** Rilevano titolarita delle merci, vendita, trasporto, rappresentanza e garanzie. Le clausole commerciali distribuiscono costi e rischi, ma l'obbligazione doganale segue la normativa doganale.
 
-## 8. Societa, capitale e governance
+**AdER.** Obbligazione, coobbligazione, successione, garanzia patrimoniale, pegno, ipoteca e fideiussione costituiscono il lessico di base. La riscossione pubblica conserva pero atti, poteri e limiti propri, sviluppati nel capitolo 7.
 
-La societa e' l'organizzazione mediante la quale piu persone, o nei casi ammessi anche un solo soggetto, conferiscono risorse per esercitare un'attivita economica secondo uno dei tipi regolati. Il tipo non e' una semplice etichetta: determina struttura, autonomia patrimoniale, amministrazione e responsabilita.
+## Caso guidato: importazione e tensione finanziaria
 
-### Tipi societari principali
+Beta Srl importa componenti, incarica un rappresentante per le formalita, vende con pagamento differito e ottiene credito bancario garantito. Gli incassi rallentano e la societa non rispetta alcune scadenze.
 
-Le **societa di persone** sono societa semplice, societa in nome collettivo e societa in accomandita semplice. Il rapporto personale tra soci ha rilievo intenso e l'autonomia patrimoniale e' meno forte. Nella SNC i soci rispondono solidalmente e illimitatamente secondo la disciplina del tipo. Nella SAS l'amministrazione puo essere conferita soltanto ai soci accomandatari, ma non deve necessariamente spettare a tutti loro; gli accomandatari rispondono solidalmente e illimitatamente per le obbligazioni sociali. Gli accomandanti seguono invece il distinto regime di responsabilita e i limiti di ingerenza previsti per la loro categoria.
+**1. Soggetto.** La parte e' Beta Srl, non automaticamente il socio o l'amministratore che firma. Vanno verificati i poteri.
 
-Le **societa di capitali** sono societa per azioni, societa in accomandita per azioni e societa a responsabilita limitata. Hanno personalita giuridica e separazione patrimoniale piu intensa. In SPA e SRL, in via generale, per le obbligazioni sociali risponde la societa con il proprio patrimonio, ferme eccezioni e specifiche responsabilita personali previste dalla legge.
+**2. Rapporti.** Acquisto, trasporto, vendita e finanziamento generano obbligazioni distinte.
 
-La societa semplice non e' il tipo destinato all'esercizio dell'attivita commerciale. SPA e SRL non differiscono soltanto per dimensione: hanno modelli organizzativi e regole proprie. La societa in accomandita, sia personale sia azionaria, richiede sempre di distinguere le categorie di soci.
+**3. Crediti.** Le vendite differite producono crediti; l'incasso successivo estingue il credito senza creare una seconda vendita.
 
-### Costituzione, conferimenti e capitale
+**4. Garanzia.** La fideiussione e' personale; l'ipoteca e' reale e riguarda il bene indicato.
 
-La costituzione richiede atto, contenuto, forma, controlli e iscrizione stabiliti per il tipo. Non e' corretto applicare a ogni societa lo stesso procedimento. Anche l'unipersonalita e' ammessa soltanto nei tipi e alle condizioni previste.
+**5. Crisi.** Il ritardo e' un segnale, non una diagnosi. Occorre confrontare flussi, scadenze, patrimonio e continuita.
 
-I **conferimenti** sono gli apporti destinati alla societa. Denaro, beni, crediti e prestazioni non sono ammessi o valutati nello stesso modo in tutti i tipi. Il **capitale sociale** e' una grandezza giuridico-contabile soggetta alle regole del tipo; non coincide con patrimonio sociale, patrimonio netto, liquidita o valore dell'azienda.
-
-Esempio: una societa ha capitale nominale di 50, patrimonio netto di 80 e liquidita di 5. Le tre cifre misurano realta diverse. Dire che “ha capitale 50, quindi possiede 50 in banca” e' un errore concettuale.
-
-### Soci, amministratori, rappresentanti e controlli
-
-La governance separa funzioni differenti:
-
-| Funzione | Domanda guida |
-| --- | --- |
-| Decisione dei soci/assemblea | Quale materia e' riservata ai partecipanti? |
-| Gestione | Chi assume le decisioni imprenditoriali e cura gli assetti? |
-| Rappresentanza | Chi manifesta all'esterno la volonta sociale e con quali poteri? |
-| Controllo/revisione | Chi vigila su legalita, assetti o informazione contabile? |
-
-Il socio partecipa al rapporto sociale; l'amministratore gestisce; il rappresentante vincola la societa verso l'esterno nei limiti applicabili; l'organo di controllo non si sostituisce normalmente alla gestione. Una persona puo cumulare ruoli, ma i ruoli restano concettualmente distinti.
-
-Per attribuire responsabilita non basta la qualifica. Occorre identificare funzione, potere, dovere violato, condotta e collegamento con il danno o l'obbligazione. Neppure la responsabilita dell'amministratore rende automaticamente il socio debitore della societa.
-
-### Autonomia patrimoniale e responsabilita differenziata
-
-La responsabilita patrimoniale opera sul patrimonio del debitore; il primo problema e' dunque identificare chi sia debitore. Nelle societa di persone l'autonomia patrimoniale si combina, con intensita diversa, con la responsabilita personale di determinate categorie di soci. Nelle societa di capitali risponde normalmente la societa; responsabilita di soci, amministratori, liquidatori o altri soggetti richiede uno specifico titolo.
-
-Non e' corretto opporre “soci sempre responsabili” a “soci mai responsabili”. La risposta concorsuale usa questa griglia:
-
-1. tipo societario e fase della societa;
-2. soggetto titolare dell'obbligazione;
-3. posizione del socio o amministratore;
-4. conferimenti e patrimonio interessato;
-5. eventuale titolo speciale o garanzia personale;
-6. disciplina fiscale, doganale o della riscossione applicabile.
-
-### Applicazione M-FC02
-
-**Fisco.** La societa e' il soggetto di rapporti e adempimenti secondo la disciplina tributaria; soci e amministratori non diventano automaticamente debitori. Bilancio civilistico e reddito imponibile hanno funzioni diverse. In un controllo si identificano soggetto, operazione, poteri di chi ha agito e specifico titolo di responsabilita.
-
-**Dogane.** Una societa importatrice puo operare tramite rappresentante. Bisogna distinguere soggetto dichiarante, rappresentanza diretta o indiretta e responsabilita secondo il CDU. Forma societaria e contratto commerciale non sostituiscono classificazione, origine, valore e procedura doganale.
-
-**Riscossione.** Un carico intestato alla societa non consente di agire indistintamente contro soci o amministratori. Si verificano titolo, soggetto debitore, patrimonio, garanzie e regole speciali. AdER gestisce la riscossione ma non crea autonomamente un titolo personale contro un soggetto diverso.
-
-**Caso d'esame.** Delta S.r.l. trasferisce un ramo d'azienda a Epsilon S.p.A.; un socio di Delta ha anche prestato fideiussione. Dopo il trasferimento emerge un debito fiscale anteriore. La risposta corretta separa: debitore originario; effetti civilistici del trasferimento; eventuale disciplina speciale sui crediti pubblici; posizione del garante; patrimoni sociali; competenze dell'ente creditore e di AdER. Sono errate sia la conclusione “paga sempre l'acquirente” sia “pagano sempre i soci”.
-
-**Domanda da orale.** Qual e' la differenza tra autonomia patrimoniale nelle societa di persone e di capitali? Una risposta sufficiente spiega che entrambe hanno un patrimonio sociale, ma nelle prime la separazione si combina con responsabilita personali differenziate dei soci, mentre nelle seconde la societa risponde normalmente con il proprio patrimonio. Deve poi precisare che tipo, posizione e titolo specifico impediscono conclusioni assolute.
-
-**Errori ricorrenti:** classificare il piccolo imprenditore solo dalla dimensione; confondere impresa e azienda; trattare capitale come denaro disponibile; equiparare socio e amministratore; attribuire ogni debito sociale ai soci; presumere che il trasferimento d'azienda trasferisca indistintamente ogni rapporto; usare la forma societaria per saltare la disciplina tributaria o doganale.
-## 9. Crisi e insolvenza: nucleo essenziale
-
-La disciplina della crisi richiede una fonte aggiornata. Il nucleo stabile e' intenzionalmente limitato.
-
-La **crisi** descrive una difficolta che rende probabile l'insolvenza e impone una valutazione prospettica della capacita dell'impresa di far fronte alle obbligazioni. L'**insolvenza** indica l'incapacita di soddisfare regolarmente le obbligazioni, manifestata attraverso inadempimenti o altri fatti esteriori secondo la disciplina vigente.
-
-Crisi, insolvenza e tensione di liquidita non sono sinonimi. La crisi guarda al rischio prospettico; l'insolvenza all'incapacita attuale manifestata. Un utile contabile non esclude problemi finanziari e un ritardo isolato non dimostra da solo insolvenza.
-
-Un'impresa in difficolta puo avere debiti fiscali, doganali, commerciali e finanziari. L'operatore deve distinguere titolo del credito, ente competente, fase della riscossione ed eventuale procedura che incide sulle iniziative individuali. Non deve promettere sospensioni, annullamenti o priorita senza fonte vigente.
-
-> **Allerta normativa.** Accesso alle procedure, misure protettive, effetti sui creditori, privilegi e trattamento dei crediti pubblici devono essere verificati sul Codice della crisi vigente e su una source note ufficiale dedicata prima della pubblicazione.
-
-## 10. Raccordi con AE, ADM e AdER
-
-### Agenzia delle Entrate
-
-Le categorie civili identificano soggetto, titolo, contratto, operazione, credito e patrimonio. Ma la qualificazione civile non determina da sola il trattamento tributario: un costo esistente non e' automaticamente deducibile e un corrispettivo contrattuale va letto anche secondo le regole fiscali.
-
-### ADM
-
-Contratto di vendita, prezzo, rappresentanza e garanzie sono rilevanti, ma operano dentro il sistema unionale doganale. Il prezzo di fattura non coincide necessariamente con il valore in dogana; il rappresentante doganale segue il CDU; il contratto non sostituisce dichiarazione, classificazione, origine o regime.
-
-### AdER
-
-Va separato il diritto sostanziale del credito dalla funzione della riscossione. L'ente creditore decide sul merito della pretesa nei limiti della disciplina; AdER gestisce atti e servizi di riscossione. Un pagamento o una contestazione contrattuale non autorizzano l'operatore ad annullare autonomamente il carico.
-
-## Caso guidato
-
-Alfa S.r.l. importa componenti tramite un intermediario, li usa per produrre dispositivi e vende una partita a Beta S.p.A. Il contratto prevede consegna entro trenta giorni. Alfa consegna tardi; Beta sospende il saldo e contesta danni. Nel frattempo Alfa riceve una cartella relativa a un debito che sostiene di avere gia pagato e manifesta difficolta di liquidita.
-
-**Soggetti e poteri.** Alfa e Beta sono distinte dai soci. Va verificato chi ha firmato e con quale potere. L'intermediario doganale non diventa automaticamente parte della vendita.
-
-**Rapporti.** Esistono almeno tre rapporti: doganale sull'importazione, contrattuale Alfa-Beta e di riscossione sulla cartella. Fonderli produce una soluzione errata.
-
-**Contratto.** La consegna tardiva richiede di verificare prestazione, termine, imputabilita, danno e rimedi. Non rende automaticamente nullo il contratto.
-
-**Dogane.** Prezzo e fattura sono rilevanti, ma classificazione, origine e valore seguono le regole doganali.
-
-**Riscossione e crisi.** Se Alfa prova il pagamento, si identificano ente creditore, atto, documento e procedura. AdER non decide fuori dalle proprie competenze. La difficolta di liquidita non prova automaticamente insolvenza e non garantisce sospensione o cancellazione.
+**6. Agenzie.** AE verifica gli effetti fiscali, ADM applica la disciplina doganale e AdER riscuote i carichi affidati secondo regole proprie.
 
 ## Da sapere in 5 righe
 
-1. Soggetto, rappresentante e titolare del rapporto non sono la stessa persona.
-2. Il contratto e' una fonte di obbligazioni, non l'unica.
-3. Nullita, annullabilita, rescissione e risoluzione rispondono a problemi diversi.
-4. Imprenditore, impresa, azienda e societa indicano realta differenti.
-5. Crisi, insolvenza e difficolta di liquidita non sono sinonimi.
+1. L'obbligazione lega debitore, creditore e prestazione sulla base di una fonte.
+2. Adempimento, inadempimento e mora descrivono fasi diverse.
+3. Il contratto va distinto dai suoi effetti fiscali, doganali e pubblicitari.
+4. Impresa, azienda e societa non sono sinonimi.
+5. Crisi e insolvenza non derivano da un solo indice.
 
 ## Domanda da commissario
 
-**Domanda.** Illustri le categorie civilistiche utili per leggere un rapporto fiscale o di riscossione.
+**Qual e' il rapporto tra garanzia patrimoniale generica e garanzie specifiche?**
 
-**Risposta guida.** Si parte dai soggetti, distinguendo titolare, rappresentante e poteri. Si identifica poi la fonte: il contratto puo generare obbligazioni, ma non e' l'unica fonte. Nell'obbligazione si distinguono creditore, debitore, prestazione, adempimento e conseguenze dell'inadempimento. Se opera un'impresa, bisogna separare imprenditore, attivita, azienda e forma societaria, verificando autonomia patrimoniale e responsabilita. Queste categorie ricostruiscono il fatto, ma non sostituiscono le discipline tributarie, doganali o della riscossione.
+Traccia: responsabilita patrimoniale del debitore; assenza di diritto immediato del creditore ordinario su un singolo bene; privilegio, pegno e ipoteca; fideiussione come garanzia personale; mezzi di conservazione; differenza rispetto alla riscossione pubblica.
 
 ## Domanda-trappola
 
-**Domanda.** Se una societa non paga, il creditore puo sempre agire direttamente contro qualunque socio?
+**Il socio di una societa di capitali risponde sempre dei debiti tributari della societa?**
 
-**Risposta corretta.** No. Occorre verificare tipo societario, autonomia patrimoniale, titolo e regole sulla responsabilita. La qualita di socio non produce in ogni societa gli stessi effetti.
+No. Societa e socio sono posizioni distinte. La responsabilita personale deve derivare dalla disciplina applicabile e dai fatti accertati; la partecipazione non trasferisce automaticamente ogni debito sociale.
 
-## Errori tipici
+## Errore tipico
 
-| Errore | Perche e' grave | Correzione |
-| --- | --- | --- |
-| Confondere soggetto e rappresentante | Imputa effetti alla persona sbagliata. | Verificare titolare, potere e nome speso. |
-| Trattare ogni obbligazione come contratto | Ignora altre fonti. | Identificare il fatto generatore. |
-| Dire che ogni inadempimento causa nullita | Confonde genesi e funzionamento. | Separare validita ed esecuzione. |
-| Confondere impresa e azienda | Mescola attivita e beni organizzati. | Usare la triade imprenditore-impresa-azienda. |
-| Equiparare crisi e insolvenza | Produce conclusioni arbitrarie. | Descrivere i dati e verificare la fonte. |
-| Applicare il civile al posto del tributario | Deduce effetti fiscali dal solo contratto. | Tenere distinti titolo civile e regola fiscale. |
+Partire dall'effetto fiscale senza qualificare il rapporto. Prima di decidere se una somma sia ricavo, finanziamento, restituzione o risarcimento bisogna ricostruire soggetti, titolo, documenti ed esecuzione concreta.
 
 ## Mini-esercizio
 
-Classifica e motiva in due righe:
+Classifica le situazioni:
 
-1. Un direttore firma in nome della societa: soggettivita, rappresentanza o cessione?
-2. Il debitore paga solo una parte: adempimento esatto o inesatto?
-3. Il consenso e' ottenuto con raggiro determinante: nullita, annullabilita o risoluzione?
-4. Macchinari, contratti e organizzazione sono trasferiti unitariamente: impresa, azienda o societa?
-5. L'impresa prevede di non sostenere regolarmente i flussi futuri: crisi, insolvenza gia manifestata o semplice utile ridotto?
+1. Un terzo garantisce personalmente il debito dell'impresa.
+2. Due crediti reciproci si estinguono nei limiti corrispondenti.
+3. Il creditore reagisce a un atto che pregiudica il patrimonio del debitore.
+4. I soci vendono tutte le quote di una Srl che conserva la propria azienda.
 
-Poi rispondi in dieci righe:
+### Soluzione ragionata
 
-> Una societa contesta una cartella sostenendo che il credito deriva da un contratto nullo. Quali soggetti, rapporti e competenze distingui prima di proporre un esito?
-
-La risposta deve separare societa e rappresentante, rapporto contrattuale e credito pubblico, ente creditore e AdER, patologia invocata e prova disponibile.
+1. Fideiussione o altra garanzia personale secondo il titolo.
+2. Compensazione civilistica, distinta da quella tributaria.
+3. Possibile azione revocatoria, se ne ricorrono i presupposti.
+4. Cessione di partecipazioni, non cessione dell'azienda.
 
 ## Quiz di verifica
 
-1. La capacita di agire e': A) titolarita di diritti; B) idoneita a compiere validamente atti; C) rappresentanza universale; D) solvibilita.
-2. La risoluzione riguarda: A) sempre la forma; B) un problema funzionale di un contratto valido; C) sempre un vizio del consenso; D) la nascita della societa.
-3. L'azienda e': A) il soggetto; B) l'attivita; C) il complesso dei beni organizzati; D) ogni societa.
-4. Se il debitore contesta nel merito una cartella: A) AdER annulla sempre; B) si distinguono ente creditore e AdER; C) il credito diventa privato; D) basta invocare crisi.
+**1. Nella cessione del credito:** A. cambia il debitore; B. cambia il creditore; C. il debito si estingue sempre; D. nasce una societa. **Risposta: B.**
 
-**Soluzioni:** 1-B; 2-B; 3-C; 4-B.
+**2. La fideiussione e':** A. garanzia personale; B. trascrizione; C. societa; D. azienda. **Risposta: A.**
+
+**3. L'azienda e':** A. l'imprenditore; B. ogni societa; C. il complesso organizzato per l'impresa; D. il patrimonio netto. **Risposta: C.**
+
+**4. La risoluzione riguarda tipicamente:** A. un problema nell'attuazione di un contratto valido; B. la capacita giuridica; C. l'ipoteca; D. la costituzione societaria. **Risposta: A.**
+
+**5. Una perdita:** A. prova l'insolvenza; B. non rileva mai; C. va letta con flussi, scadenze e patrimonio; D. estingue i debiti. **Risposta: C.**
+
+## Glossario operativo
+
+| Termine | Significato essenziale |
+|---|---|
+| Adempimento | Esecuzione esatta della prestazione. |
+| Azienda | Complesso organizzato per l'esercizio dell'impresa. |
+| Cessione del credito | Trasferimento della posizione creditoria. |
+| Fideiussione | Garanzia personale per un debito altrui. |
+| Impresa | Attivita economica organizzata esercitata professionalmente. |
+| Inadempimento | Mancata o inesatta esecuzione della prestazione. |
+| Ipoteca | Garanzia reale soggetta alla pubblicita prevista. |
+| Mora | Ritardo qualificato con specifici effetti. |
 
 ## Diario degli errori
 
-| Errore osservato | Categoria | Azione di recupero |
-| --- | --- | --- |
-| Confondo titolare e firmatario | Soggetti | Rifaccio la mappa soggetto-potere-effetti. |
-| Scelgo la patologia dalla parola “irregolare” | Contratto | Ricostruisco formazione, validita ed esecuzione. |
-| Attribuisco il debito al socio senza verificare il tipo | Societa | Compilo autonomia/responsabilita. |
-| Prometto sospensione perche l'impresa e' in crisi | Riscossione | Verifico atto, competenza e procedura. |
+| Errore | Regola corretta | Recupero |
+|---|---|---|
+| Confondo impresa e azienda | Attivita e complesso organizzato sono distinti | Riscrivere le definizioni |
+| Attribuisco il debito al socio | Societa e socio sono distinti | Verificare tipo e titolo |
+| Equiparo fideiussione e ipoteca | Una e' personale, l'altra reale | Tabella delle garanzie |
+| Chiamo nullita ogni vizio | Nullita e annullabilita sono diverse | Classificare il vizio |
+| Deduco la crisi da una perdita | Servono flussi e prospettiva | Ripetere il caso Beta |
 
 ## Checklist finale
 
-- [ ] Distinguo capacita giuridica, capacita di agire e rappresentanza.
-- [ ] Identifico soggetti, prestazione e fonte dell'obbligazione.
-- [ ] Distinguo adempimento, ritardo, inadempimento e impossibilita.
-- [ ] Distinguo garanzia generale, reale e personale.
-- [ ] Separo nullita, annullabilita, rescissione e risoluzione.
+- [ ] Distinguo soggetto, rapporto, obbligo e responsabilita.
+- [ ] Ricostruisco fonte, soggetti e prestazione.
+- [ ] Distinguo adempimento, inadempimento e mora.
+- [ ] Riconosco cessione del credito e modificazioni del debito.
+- [ ] Distinguo responsabilita contrattuale ed extracontrattuale.
+- [ ] Distinguo nullita, annullabilita, rescissione, risoluzione e recesso.
+- [ ] Confronto garanzie reali e personali.
 - [ ] Distinguo imprenditore, impresa, azienda e societa.
-- [ ] Verifico il tipo societario prima della responsabilita dei soci.
-- [ ] Distinguo crisi, insolvenza e tensione di liquidita.
-- [ ] Tengo separati titolo civile e disciplina fiscale/doganale.
-- [ ] In un caso AdER individuo ente creditore, atto e competenza.
+- [ ] Confronto societa di persone e di capitali.
+- [ ] Leggo la crisi attraverso flussi, scadenze e patrimonio.
+- [ ] Collego gli istituti ad AE, ADM e AdER senza confondere le discipline.
 
 ## Riferimenti consolidati
 
 - [[sources/adempimenti-contabilita-civile-commerciale-m-fc02]]
-- [[sources/diritto-commerciale-impresa-societa-m-fc02-2026-07-17]]
-- [[sources/diritto-civile-obbligazioni-contratti-m-fc02-2026-07-17]]
-- [[sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026]]
-- [[sources/contabilita-aziendale-bilancio-reddito-impresa-aggiornamento-2026-07-18]]
-- [[sources/riscossione-ader-aggiornamento-istituzionale-2026-07-17]]
-- [[sources/codice-doganale-unione-procedure-adm-aggiornamento-2026-07-17]]
-- [[entities/agenzia-delle-entrate]]
-- [[entities/agenzia-delle-dogane-e-dei-monopoli]]
-- [[entities/agenzia-entrate-riscossione]]
+- [[sources/codice-civile-beni-pubblici-demanio-patrimonio]]
 - [[books/moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader]]
 - [[books/moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm]]
+- [[books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare]]
 - [[books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco]]
 
 ## Note di review
 
-- Verificare sul Codice civile vigente gli articoli su capacita, rappresentanza, obbligazioni, garanzie, contratto, impresa e societa prima di inserire citazioni puntuali.
-- Consolidare una source note ufficiale dedicata al Codice della crisi vigente prima di ampliare procedure, misure protettive, effetti sui creditori e trattamento dei crediti pubblici.
-- Sottoporre responsabilita societaria, garanzie e crisi a review giuridica umana prima della pubblicazione.
-- Il capitolo fornisce categorie concorsuali e non costituisce consulenza civile, societaria, fiscale o sulla crisi d'impresa.
+- Consolidare una source note specialistica sul Codice civile per obbligazioni, contratti, garanzie, impresa e societa prima della pubblicazione definitiva.
+- Verificare con revisore giuridico terminologia e regimi vigenti di invalidita, responsabilita, solidarieta e rappresentanza.
+- Aggiornare il box sul Codice della crisi alla data del bando, con attenzione a definizioni, assetti, strumenti e procedure.
+- Verificare i raccordi tra garanzie civilistiche, obbligazione doganale e riscossione pubblica senza estendere per analogia regole settoriali.
+- Inserire titoli di credito e proprieta industriale solo se richiesti dal programma del singolo concorso.
