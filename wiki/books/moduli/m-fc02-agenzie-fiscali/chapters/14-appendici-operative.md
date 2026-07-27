@@ -7,13 +7,19 @@ domain: "concorsi pubblici italiani"
 topics: ["appendici operative","glossario","front-office","adempimenti fiscali","ripasso"]
 entities: ["Agenzia delle Entrate","Agenzia delle Dogane e dei Monopoli","Agenzia delle Entrate-Riscossione","Metodo BANDO"]
 source_refs: ["sources/m-fc02-dossier-redazionale-agenzie-fiscali.md","sources/normativa-tributaria-tuir-iva-accertamento-m-fc02.md","sources/accertamento-contraddittorio-compliance-aggiornamento-2026-07-17.md","sources/riscossione-ader-aggiornamento-istituzionale-2026-07-17.md","sources/codice-doganale-unione-procedure-adm-aggiornamento-2026-07-17.md","sources/accise-giochi-monopoli-adm-aggiornamento-2026-07-17.md","sources/catasto-cartografia-estimo-pubblicita-immobiliare-aggiornamento-2026-07-18.md","sources/contabilita-aziendale-bilancio-reddito-impresa-aggiornamento-2026-07-18.md","sources/reati-e-sanzioni-tributarie-m-fc02.md","sources/regolamento-ue-2016-679-gdpr-protezione-dati-personali.md"]
+asset_refs:
+  - "books/moduli/m-fc02-agenzie-fiscali/assets/chapter-14/01-mappa-bando-appendici-operative.png"
+  - "books/moduli/m-fc02-agenzie-fiscali/assets/chapter-14/02-glossario-per-azione.png"
+  - "books/moduli/m-fc02-agenzie-fiscali/assets/chapter-14/03-tavole-confronto-modulo.png"
+  - "books/moduli/m-fc02-agenzie-fiscali/assets/chapter-14/04-canvas-caso-specialistico.png"
+  - "books/moduli/m-fc02-agenzie-fiscali/assets/chapter-14/05-piano-ripasso-errori.png"
 book_refs: ["m-fc02-agenzie-fiscali","il-metodo-bando"]
 confidence: 0.88
 updated_at: 2026-07-18T00:30:00+02:00
 created_at: 2026-07-01T21:00:00+02:00
 review_required: true
 canonical: true
-tags: ["book-chapter","module-code-m-fc02","professional-draft","appendices","workbook"]
+tags: ["book-chapter","module-code-m-fc02","professional-draft","appendices","workbook","illustrated"]
 book_id: m-fc02-agenzie-fiscali
 outline_section: 14
 draft_stage: professional-draft

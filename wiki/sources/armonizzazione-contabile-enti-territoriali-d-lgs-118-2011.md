@@ -4,12 +4,12 @@ type: source
 title: "Armonizzazione contabile degli enti territoriali - D.Lgs. 118/2011"
 status: processed
 domain: concorsi pubblici italiani
-topics: ["contabilita pubblica","armonizzazione contabile","enti locali","bilancio enti territoriali"]
-entities: ["Regioni","Comuni","Province","Citta metropolitane","Ragioneria generale dello Stato"]
-source_refs: ["sources/ordinamento-finanziario-enti-locali-tuel-dup-peg-rendiconto-revisione.md"]
+topics: ["contabilita pubblica","armonizzazione contabile","enti locali","bilancio enti territoriali","rendiconto","residui","fpv","fcde"]
+entities: ["Regioni","Comuni","Province","Citta metropolitane","Ragioneria generale dello Stato","Responsabile finanziario"]
+source_refs: ["sources/ordinamento-finanziario-enti-locali-tuel-dup-peg-rendiconto-revisione.md", "sources/tesoreria-unica-siope-siope-plus.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.94
-updated_at: "2026-05-26T00:00:00+02:00"
+updated_at: "2026-07-18T18:05:00+02:00"
 created_at: "2026-05-26T00:00:00+02:00"
 review_required: false
 canonical: true
@@ -25,6 +25,12 @@ authority_level: alta
 ## Sintesi per il manuale
 
 L'armonizzazione contabile rende confrontabili i bilanci delle amministrazioni territoriali e collega programmazione, gestione e rendicontazione. Per i concorsi e un nucleo ad alta priorita per enti locali, profili amministrativi e profili contabili.
+
+## Verifica ufficiale 2026
+- D.Lgs. 23 giugno 2011, n. 118: verificato su Normattiva il 18/07/2026; la scheda dell'atto indica ultimo aggiornamento pubblicato il 26/03/2026 e testo vigente al 30/06/2026.
+- Art. 3 D.Lgs. 118/2011: conferma il ruolo dei principi contabili generali e applicati, tra cui programmazione, contabilita finanziaria, contabilita economico-patrimoniale e bilancio consolidato.
+- Portale RGS/Arconet: da usare per aggiornamenti tecnici agli allegati, principi applicati e schemi armonizzati. Prima della pubblicazione verificare eventuali decreti MEF di aggiornamento degli allegati.
+- Per M-FL01 capitolo 10 usare l'armonizzazione come chiave per spiegare competenza finanziaria potenziata, esigibilita, residui, riaccertamento, FPV, FCDE, rendiconto, conto economico e stato patrimoniale senza trasformare il capitolo in contabilita specialistica avanzata.
 
 ## Fonti raw collegate
 
@@ -47,6 +53,7 @@ L'armonizzazione contabile rende confrontabili i bilanci delle amministrazioni t
 - Il piano dei conti integrato consente raccordo tra contabilita finanziaria, economico-patrimoniale e classificazioni comuni.
 - Il riaccertamento dei residui verifica le ragioni del mantenimento in bilancio di crediti e debiti non chiusi nell'esercizio.
 - Gli schemi armonizzati rendono leggibili e confrontabili bilancio di previsione, rendiconto e allegati.
+- Il rendiconto degli enti locali deve essere letto nel raccordo tra contabilita finanziaria, economico-patrimoniale e sistema degli allegati armonizzati.
 
 ## Termini da spiegare bene
 

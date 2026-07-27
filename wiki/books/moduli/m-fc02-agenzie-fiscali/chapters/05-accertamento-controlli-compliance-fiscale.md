@@ -7,13 +7,19 @@ domain: "concorsi pubblici italiani"
 topics: ["accertamento tributario","controlli fiscali","compliance fiscale","contraddittorio","adempimento collaborativo","fiscalita internazionale","residenza fiscale","stabile organizzazione","transfer pricing","tax control framework"]
 entities: ["Agenzia delle Entrate","Normattiva","OCSE","Ministero dell'economia e delle finanze"]
 source_refs: ["sources/normativa-tributaria-tuir-iva-accertamento-m-fc02.md","sources/adempimento-collaborativo-compliance-fiscale-m-fc02.md","sources/vol-03-fonti-specialistiche-fisco-dogane-previdenza-ispettivo.md","sources/accertamento-contraddittorio-compliance-aggiornamento-2026-07-17.md","sources/fiscalita-internazionale-acfi-aggiornamento-2026-07-18.md"]
+asset_refs:
+  - "books/moduli/m-fc02-agenzie-fiscali/assets/chapter-05/01-mappa-bando-accertamento-compliance.png"
+  - "books/moduli/m-fc02-agenzie-fiscali/assets/chapter-05/02-sequenza-controllo-accertamento.png"
+  - "books/moduli/m-fc02-agenzie-fiscali/assets/chapter-05/03-poteri-garanzie-atto.png"
+  - "books/moduli/m-fc02-agenzie-fiscali/assets/chapter-05/04-compliance-rischio-fiscale.png"
+  - "books/moduli/m-fc02-agenzie-fiscali/assets/chapter-05/05-adempimento-collaborativo-tcf.png"
 book_refs: ["m-fc02-agenzie-fiscali","il-metodo-bando"]
 confidence: 0.95
 updated_at: 2026-07-18T00:00:00+02:00
 created_at: 2026-07-01T21:00:00+02:00
 review_required: true
 canonical: true
-tags: ["book-chapter","module-code-m-fc02","professional-draft","revised-draft"]
+tags: ["book-chapter","module-code-m-fc02","professional-draft","revised-draft","illustrated"]
 book_id: m-fc02-agenzie-fiscali
 companion_to: il-metodo-bando
 outline_section: 5

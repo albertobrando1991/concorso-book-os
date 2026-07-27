@@ -1,55 +1,88 @@
 ---
 id: m-fc04-giustizia
 type: specialist_module
-title: "M-FC04 - Giustizia"
-status: scaffold
+title: "M-FC04 - Giustizia e Ufficio per il processo"
+status: drafting
 domain: "concorsi pubblici italiani"
-topics: ["moduli specialistici","funzioni-centrali","metodo bando"]
-entities: ["Metodo BANDO","Capitale Personale"]
-source_refs: ["sources/metodo-bando-progetto-editoriale.md","sources/struttura-madre-il-metodo-bando.md"]
-book_refs: ["il-metodo-bando","moduli-specialistici"]
-confidence: 0.55
-updated_at: 2026-06-27T19:56:28+02:00
+topics: ["moduli specialistici", "funzioni-centrali", "giustizia", "ufficio per il processo", "cancelleria", "unep", "dap", "dgmc", "metodo bando"]
+entities: ["Metodo BANDO", "Capitale Personale", "Ministero della giustizia", "Ufficio per il processo", "UNEP", "DAP", "DGMC"]
+source_refs: [
+  "sources/vol-04-dossier-redazionale-giustizia-upp.md",
+  "sources/vol-04-fonti-ufficiali-scaricate-2026-07-17.md",
+  "sources/ordinamento-giudiziario-upp-riforme-processuali-m-fc04.md",
+  "sources/ministero-giustizia-organizzazione-dipartimenti-m-fc04.md",
+  "sources/cancelleria-spese-casellario-unep-m-fc04.md",
+  "sources/giustizia-digitale-pct-ppt-m-fc04.md",
+  "sources/minorile-comunita-giustizia-riparativa-m-fc04.md",
+  "sources/ordinamento-penitenziario-trattamento-misure-m-fc04.md",
+  "sources/ccnl-funzioni-centrali-giustizia-2022-2027.md",
+  "sources/bandi-rappresentativi-vol-04-giustizia-upp.md",
+  "sources/giurisprudenza-penitenziaria-m-fc04.md"
+]
+book_refs: ["il-metodo-bando", "moduli-specialistici", "vol-04-giustizia-upp"]
+confidence: 0.9
+updated_at: 2026-07-20T10:51:40+02:00
 created_at: 2026-06-27T19:56:28+02:00
 review_required: true
 canonical: true
-tags: ["specialist-module","module-family-funzioni-centrali","module-code-m-fc04","scaffold"]
+tags: ["specialist-module", "module-family-funzioni-centrali", "module-code-m-fc04", "source-ready"]
 book_id: m-fc04-giustizia
 module_code: M-FC04
 module_family: funzioni-centrali
 module_family_title: "Funzioni Centrali"
-module_status: scaffold
+module_status: drafting
 roadmap_phase: "3"
 companion_to: il-metodo-bando
-draft_stage: structure-ready
-last_compiled_from: ["wiki/books/moduli/architettura-moduli-specialistici.md"]
+volume_code: VOL-04
+volume_id: vol-04-giustizia-upp
+draft_stage: professional-draft-complete
+last_compiled_from: ["wiki/books/vol-04-giustizia-upp/front-matter/06-indice.md", "wiki/books/vol-04-giustizia-upp/planning/01-indice-dettagliato-volume-moduli-v4.md", "wiki/sources/vol-04-fonti-ufficiali-scaricate-2026-07-17.md", "wiki/books/moduli/m-fc04-giustizia/chapters/01-sistema-giustizia-visto-dal-candidato.md", "wiki/books/moduli/m-fc04-giustizia/chapters/02-ministero-dipartimenti-amministrazioni-giustizia.md", "wiki/books/moduli/m-fc04-giustizia/chapters/03-uffici-giudiziari-ordinamento-lavoro-ufficio.md", "wiki/books/moduli/m-fc04-giustizia/chapters/04-ufficio-per-il-processo-struttura-progetto-flussi.md", "wiki/books/moduli/m-fc04-giustizia/chapters/05-lavoro-aupp-fascicolo-udienza-ricerca-scheda.md", "wiki/books/moduli/m-fc04-giustizia/chapters/06-processo-civile-operativo-upp-cancelleria.md", "wiki/books/moduli/m-fc04-giustizia/chapters/07-processo-penale-operativo-upp-cancelleria.md", "wiki/books/moduli/m-fc04-giustizia/chapters/08-servizi-cancelleria-registri-comunicazioni-certificazioni.md", "wiki/books/moduli/m-fc04-giustizia/chapters/09-spese-giustizia-patrocinio-recupero.md", "wiki/books/moduli/m-fc04-giustizia/chapters/10-casellario-carichi-pendenti-archivi-certificati.md", "wiki/books/moduli/m-fc04-giustizia/chapters/11-unep-notificazioni-esecuzioni-protesti.md", "wiki/books/moduli/m-fc04-giustizia/chapters/12-giustizia-digitale-pct-ppt-fascicolo.md", "wiki/books/moduli/m-fc04-giustizia/chapters/13-giustizia-minorile-comunita-mediazione-riparativa.md", "wiki/books/moduli/m-fc04-giustizia/chapters/14-amministrazione-penitenziaria-trattamento-istituti-esecuzione-esterna.md"]
 ---
 
-# M-FC04 - Giustizia
+# M-FC04 - Giustizia e Ufficio per il processo
 
 ## Ruolo del modulo
-Modulo specialistico collegato a [[books/il-metodo-bando/index|Il Metodo BANDO]]. Serve ad applicare il metodo, le materie comuni e la logica workbook a una famiglia concorsuale specifica.
+M-FC04 e' il modulo specialistico del VOL-04. Serve ad applicare il Metodo BANDO ai concorsi del sistema Giustizia: Ufficio per il processo, cancellerie, UNEP, amministrazione penitenziaria, giustizia minorile e giustizia di comunita.
+
+Il modulo non sostituisce il VOL-01. Parte dalle materie comuni del libro base e sviluppa solo il delta Giustizia: uffici, flussi processuali operativi, servizi, registri, fascicolo, spese, casellario, processo telematico, minorile, comunita e penitenziario.
 
 ## Perimetro
-- Famiglia: Funzioni Centrali
-- Codice modulo: M-FC04
-- Copertura: Ministero della Giustizia, cancellieri, funzionari giudiziari e profili amministrativi giudiziari.
-- Fase roadmap: 3
-- Stato: scaffold pronto per scrittura.
+- Famiglia: Funzioni Centrali.
+- Codice modulo: M-FC04.
+- Volume: [[books/vol-04-giustizia-upp/index|VOL-04 - Giustizia e Ufficio per il processo]].
+- Profili: AUPP, funzionario giudiziario, cancelleria, UNEP, funzionario giuridico-pedagogico, profili DAP e DGMC.
+- Esclusioni: magistratura come concorso autonomo; Polizia penitenziaria come corpo; ICT specialistico; tecnico-patrimoniale avanzato; procurement avanzato.
 
-## Confine editoriale
-Il modulo non sostituisce il libro principale. Parte dal nucleo comune del Metodo BANDO e aggiunge profili, prove, materie specialistiche, rischi, fonti e casi tipici della famiglia.
+## Sommario operativo del modulo
+| Cap. modulo | Cap. volume | Capitolo | Funzione didattica | Output prevalente |
+|---:|---:|---|---|---|
+| 1 | 1 | [[books/moduli/m-fc04-giustizia/chapters/01-sistema-giustizia-visto-dal-candidato|Il sistema Giustizia visto dal candidato]] | Orientamento profilo-bando-materie | Bando Decoder Giustizia |
+| 2 | 2 | [[books/moduli/m-fc04-giustizia/chapters/02-ministero-dipartimenti-amministrazioni-giustizia|Ministero, dipartimenti e amministrazioni della Giustizia]] | Mappa istituzionale | Schema dipartimento-ufficio-profilo |
+| 3 | 3 | [[books/moduli/m-fc04-giustizia/chapters/03-uffici-giudiziari-ordinamento-lavoro-ufficio|Uffici giudiziari e ordinamento applicato al lavoro d'ufficio]] | Ordinamento giudiziario operativo | Schema ufficio-funzione-output |
+| 4 | 4 | [[books/moduli/m-fc04-giustizia/chapters/04-ufficio-per-il-processo-struttura-progetto-flussi|Ufficio per il processo: struttura, progetto e flussi]] | UPP e organizzazione | Mappa UPP/flussi |
+| 5 | 5 | [[books/moduli/m-fc04-giustizia/chapters/05-lavoro-aupp-fascicolo-udienza-ricerca-scheda|Il lavoro dell'AUPP: fascicolo, udienza, ricerca e scheda]] | Output dell'addetto UPP | Scheda fascicolo/udienza |
+| 6 | 6 | [[books/moduli/m-fc04-giustizia/chapters/06-processo-civile-operativo-upp-cancelleria|Processo civile operativo per UPP e cancelleria]] | Processo civile in chiave d'ufficio | Flusso causa civile |
+| 7 | 7 | [[books/moduli/m-fc04-giustizia/chapters/07-processo-penale-operativo-upp-cancelleria|Processo penale operativo per UPP e cancelleria]] | Processo penale in chiave d'ufficio | Cronologia fascicolo penale |
+| 8 | 8 | [[books/moduli/m-fc04-giustizia/chapters/08-servizi-cancelleria-registri-comunicazioni-certificazioni|Servizi di cancelleria, registri, comunicazioni e certificazioni]] | Servizi e utenza giudiziaria | Check-list cancelleria |
+| 9 | 9 | [[books/moduli/m-fc04-giustizia/chapters/09-spese-giustizia-patrocinio-recupero|Spese di giustizia, patrocinio e recupero]] | Ciclo spese/patrocinio/recupero | Tavola spesa-evento-ufficio |
+| 10 | 10 | [[books/moduli/m-fc04-giustizia/chapters/10-casellario-carichi-pendenti-archivi-certificati|Casellario, carichi pendenti, archivi e certificati]] | Certificazioni e dati giudiziari | Tavola certificato-soggetto-finalita |
+| 11 | 11 | [[books/moduli/m-fc04-giustizia/chapters/11-unep-notificazioni-esecuzioni-protesti|UNEP: notificazioni, esecuzioni, protesti e attivita dell'ufficiale giudiziario]] | Profilo UNEP autonomo | Flusso notifica/esecuzione |
+| 12 | 12 | [[books/moduli/m-fc04-giustizia/chapters/12-giustizia-digitale-pct-ppt-fascicolo|Giustizia digitale: PCT, processo penale telematico e fascicolo]] | Telematico in chiave operativa | Scheda deposito telematico |
+| 13 | 13 | [[books/moduli/m-fc04-giustizia/chapters/13-giustizia-minorile-comunita-mediazione-riparativa|Giustizia minorile e di comunita: servizi, mediazione e riparativa]] | Profili DGMC e pedagogici | Caso servizio minorile/comunita |
+| 14 | 14 | [[books/moduli/m-fc04-giustizia/chapters/14-amministrazione-penitenziaria-trattamento-istituti-esecuzione-esterna|Amministrazione penitenziaria: trattamento, istituti ed esecuzione esterna]] | Profili DAP e penitenziari | Scheda trattamento/misura |
 
-Non deve promettere copertura totale di ogni bando o aggiornamento normativo automatico. Le sezioni normative e specialistiche richiedono source notes consolidate e review umana.
+## Fonti consolidate principali
+- [[sources/vol-04-dossier-redazionale-giustizia-upp]]
+- [[sources/vol-04-fonti-ufficiali-scaricate-2026-07-17]]
+- [[sources/bandi-rappresentativi-vol-04-giustizia-upp]]
+- [[sources/ordinamento-giudiziario-upp-riforme-processuali-m-fc04]]
+- [[sources/ministero-giustizia-organizzazione-dipartimenti-m-fc04]]
+- [[sources/cancelleria-spese-casellario-unep-m-fc04]]
+- [[sources/giustizia-digitale-pct-ppt-m-fc04]]
+- [[sources/minorile-comunita-giustizia-riparativa-m-fc04]]
+- [[sources/ordinamento-penitenziario-trattamento-misure-m-fc04]]
+- [[sources/ccnl-funzioni-centrali-giustizia-2022-2027]]
+- [[sources/giurisprudenza-penitenziaria-m-fc04]]
 
-## Capitoli di lavoro
-- [[books/moduli/m-fc04-giustizia/chapters/00-piano-editoriale|Piano editoriale del modulo]]
-
-## Fonti da consolidare
-- Bandi rappresentativi recenti della famiglia.
-- Normativa e regolamenti ufficiali del settore.
-- Topic pages e source notes gia presenti nel wiki.
-- Eventuali manuali o banche dati solo dopo schedatura in sources/.
-
-## Prossimo passo
-Compilare il piano editoriale, poi sviluppare il testo con Manual Writer Agent usando il libro principale, il ricettario digitale e le source notes del modulo.
+## Stato
+Il modulo e' in bozza professionale completa. I capitoli 1-14 sono stati redatti come revised draft: [[books/moduli/m-fc04-giustizia/chapters/01-sistema-giustizia-visto-dal-candidato|Il sistema Giustizia visto dal candidato]], [[books/moduli/m-fc04-giustizia/chapters/02-ministero-dipartimenti-amministrazioni-giustizia|Ministero, dipartimenti e amministrazioni della Giustizia]], [[books/moduli/m-fc04-giustizia/chapters/03-uffici-giudiziari-ordinamento-lavoro-ufficio|Uffici giudiziari e ordinamento applicato al lavoro d'ufficio]], [[books/moduli/m-fc04-giustizia/chapters/04-ufficio-per-il-processo-struttura-progetto-flussi|Ufficio per il processo: struttura, progetto e flussi]], [[books/moduli/m-fc04-giustizia/chapters/05-lavoro-aupp-fascicolo-udienza-ricerca-scheda|Il lavoro dell'AUPP: fascicolo, udienza, ricerca e scheda]], [[books/moduli/m-fc04-giustizia/chapters/06-processo-civile-operativo-upp-cancelleria|Processo civile operativo per UPP e cancelleria]], [[books/moduli/m-fc04-giustizia/chapters/07-processo-penale-operativo-upp-cancelleria|Processo penale operativo per UPP e cancelleria]], [[books/moduli/m-fc04-giustizia/chapters/08-servizi-cancelleria-registri-comunicazioni-certificazioni|Servizi di cancelleria, registri, comunicazioni e certificazioni]], [[books/moduli/m-fc04-giustizia/chapters/09-spese-giustizia-patrocinio-recupero|Spese di giustizia, patrocinio e recupero]], [[books/moduli/m-fc04-giustizia/chapters/10-casellario-carichi-pendenti-archivi-certificati|Casellario, carichi pendenti, archivi e certificati]], [[books/moduli/m-fc04-giustizia/chapters/11-unep-notificazioni-esecuzioni-protesti|UNEP: notificazioni, esecuzioni, protesti e attivita dell'ufficiale giudiziario]], [[books/moduli/m-fc04-giustizia/chapters/12-giustizia-digitale-pct-ppt-fascicolo|Giustizia digitale: PCT, processo penale telematico e fascicolo]], [[books/moduli/m-fc04-giustizia/chapters/13-giustizia-minorile-comunita-mediazione-riparativa|Giustizia minorile e di comunita: servizi, mediazione e riparativa]] e [[books/moduli/m-fc04-giustizia/chapters/14-amministrazione-penitenziaria-trattamento-istituti-esecuzione-esterna|Amministrazione penitenziaria: trattamento, istituti ed esecuzione esterna]]. Prima della pubblicazione servono review normativa su conversione D.L. 100/2026, processo penale telematico, organizzazione ministeriale, casellario nazionale/carichi pendenti, UNEP/notificazioni/esecuzioni/protesti, DGMC/giustizia riparativa, amministrazione penitenziaria/trattamento/misure alternative, TUSG/spese/patrocinio/recupero e CCNL 2025-2027.
