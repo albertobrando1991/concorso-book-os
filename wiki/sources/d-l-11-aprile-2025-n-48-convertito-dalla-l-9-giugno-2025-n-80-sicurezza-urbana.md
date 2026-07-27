@@ -3,43 +3,39 @@ id: source-d-l-11-aprile-2025-n-48-convertito-dalla-l-9-giugno-2025-n-80-sicurez
 type: source
 title: "D.L. 11 aprile 2025, n. 48 convertito dalla L. 9 giugno 2025, n. 80 - sicurezza urbana"
 status: processed
-domain: concorsi pubblici italiani
-topics: ["diritto costituzionale","anticorruzione e trasparenza","contratti pubblici"]
-entities: ["Costituzione della Repubblica Italiana","RUP"]
-source_refs: []
-book_refs: []
-confidence: 0.9
-updated_at: "2026-05-25T11:26:33.408Z"
-created_at: "2026-05-25T11:26:33.408Z"
-review_required: false
+domain: "concorsi pubblici italiani"
+topics: ["polizia locale", "sicurezza urbana", "pubblica sicurezza", "enti locali"]
+entities: ["Polizia locale", "Comune", "Prefetto", "Ministero dell'interno"]
+source_refs: ["sources/regio-decreto-18-giugno-1931-n-773-tulps-polizia-amministrativa.md"]
+book_refs: ["vol-02-enti-locali-polizia-locale", "m-fl04-polizia-locale"]
+confidence: 0.88
+updated_at: 2026-07-17T20:15:00+02:00
+created_at: 2026-05-25T11:26:33+02:00
+review_required: true
 canonical: true
-tags: ["source","decree"]
-source_type: decree
-source_url: "https://www.normattiva.it/eli/id/2025/06/09/25A03312/ORIGINAL"
-source_date: ""
+tags: ["source", "decree", "sicurezza-urbana", "polizia-locale", "m-fl04"]
+source_type: decree_law_converted
+source_url: "https://www.normattiva.it/atto/caricaDettaglioAtto?atto.codiceRedazionale=25G00060&atto.dataPubblicazioneGazzetta=2025-04-11&tipoDettaglio=vigente"
+source_date: 2025-04-11
 authority_level: alta
+raw_path: "wiki/raw/decrees/d-l-11-aprile-2025-n-48-convertito-dalla-l-9-giugno-2025-n-80-sicurezza-urbana.md"
 ---
 
 # D.L. 11 aprile 2025, n. 48 convertito dalla L. 9 giugno 2025, n. 80 - sicurezza urbana
 
-## Sintesi
-# D.L. 11 aprile 2025, n. 48 convertito dalla L. 9 giugno 2025, n. 80 - sicurezza urbana URL: https://www.normattiva.it/eli/id/2025/06/09/25A03312/ORIGINAL --> --> TESTO COORDINATO DEL DECRETO-LEGGE 11 aprile 2025, n. 48 - Normattiva Presidenza del Consiglio dei Ministri ITA ITA ENG Normattiva - Il portale della legge vigente close Home current Il progetto L&#39;obiettivo Il coordinamento delle iniziative pubbliche I caratteri qualificanti del progetto Obiettivi Raggiunti Obiettivi Futuri Collegamenti veloci Costituzione e Codici Elenco atti per data di emanazione Leggi approvate in attesa di
+## Sintesi per il manuale
+Il D.L. 48/2025, convertito dalla L. 80/2025, e' una fonte di aggiornamento per i capitoli M-FL04 su sicurezza urbana, controlli di polizia e tutela del personale in servizio. Non sostituisce la L. 65/1986, il TULPS, il Codice della strada o la disciplina regionale della Polizia locale: serve a segnalare al candidato che il tema "sicurezza urbana" e' mobile e deve essere verificato sul testo vigente.
 
-## Fonti
-- Raw source collegata: `wiki/raw/decrees/d-l-11-aprile-2025-n-48-convertito-dalla-l-9-giugno-2025-n-80-sicurezza-urbana.md`
-- URL: https://www.normattiva.it/eli/id/2025/06/09/25A03312/ORIGINAL
+## Nuclei da usare
+- La sicurezza urbana va distinta dall'ordine pubblico in senso stretto.
+- Il candidato deve collegare sicurezza urbana, regolamenti, ordinanze, coordinamento interistituzionale e limiti di competenza.
+- Nei casi di Polizia locale occorre distinguere Comune, sindaco, Prefetto, Questore, organo accertatore e autorita giudiziaria.
+- Le norme recenti sulla tutela del personale e sui controlli richiedono revisione puntuale prima di citazioni analitiche.
 
-## Topic rilevati
-- [[diritto-costituzionale|diritto costituzionale]]
-- [[anticorruzione-e-trasparenza|anticorruzione e trasparenza]]
-- [[contratti-pubblici|contratti pubblici]]
-
-## Entita rilevate
-- [[costituzione-della-repubblica-italiana|Costituzione della Repubblica Italiana]]
-- [[rup|RUP]]
-
-## Capitoli collegati
-- Da determinare durante la manutenzione del libro.
+## Uso nel VOL-02
+- M-FL04 capitolo 9: sicurezza urbana, ordinanze e coordinamento.
+- M-FL04 capitolo 14: ufficiale PL, comando, emergenze e tutela del personale.
+- Appendice D: verbali e cronologie sanzionatorie, solo per i profili davvero ricorrenti nei bandi.
 
 ## Stato revisione
-Fonte processata automaticamente. Verifica umana richiesta solo per claim normativi di dettaglio.
+Fonte ufficiale Normattiva verificata in ricognizione web del 2026-07-17. Prima della pubblicazione controllare il testo vigente, eventuali circolari del Ministero dell'interno e gli atti locali collegati ai bandi target.

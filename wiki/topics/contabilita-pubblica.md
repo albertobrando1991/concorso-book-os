@@ -5,18 +5,18 @@ title: contabilita pubblica
 status: consolidated
 domain: concorsi pubblici italiani
 topics: ["contabilita pubblica","bilancio pubblico","finanza pubblica","enti locali","Corte dei conti","PNRR"]
-entities: ["Corte dei conti","Ragioneria generale dello Stato","MEF","OpenBDAP","SIOPE","Comune","Regioni","ANAC","ItaliaDomani"]
-source_refs: ["sources/capitolo-8-corpus-fonti-ufficiali-contabilita-pubblica-2026-05-26.md","sources/principi-costituzionali-finanza-pubblica-art-81-97-119.md","sources/contabilita-generale-stato-e-bilancio-stato.md","sources/armonizzazione-contabile-enti-territoriali-d-lgs-118-2011.md","sources/ordinamento-finanziario-enti-locali-tuel-dup-peg-rendiconto-revisione.md","sources/corte-conti-controlli-responsabilita-agenti-contabili.md","sources/pagamenti-tracciabilita-contratti-pnrr-rendicontazione.md","sources/contabilita-economico-patrimoniale-universita-enti-pubblici.md"]
+entities: ["Corte dei conti","Ragioneria generale dello Stato","MEF","OpenBDAP","SIOPE","Comune","Regioni","ANAC","ItaliaDomani","Responsabile finanziario","Tesoriere","Organo di revisione","Agente contabile","Economo comunale"]
+source_refs: ["sources/capitolo-8-corpus-fonti-ufficiali-contabilita-pubblica-2026-05-26.md","sources/principi-costituzionali-finanza-pubblica-art-81-97-119.md","sources/contabilita-generale-stato-e-bilancio-stato.md","sources/armonizzazione-contabile-enti-territoriali-d-lgs-118-2011.md","sources/ordinamento-finanziario-enti-locali-tuel-dup-peg-rendiconto-revisione.md","sources/corte-conti-controlli-responsabilita-agenti-contabili.md","sources/pagamenti-tracciabilita-contratti-pnrr-rendicontazione.md","sources/contabilita-economico-patrimoniale-universita-enti-pubblici.md","sources/tesoreria-unica-siope-siope-plus.md","sources/entrate-tributi-locali-patrimonio-riscossione-comunale.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.91
-updated_at: "2026-05-26T00:00:00+02:00"
+updated_at: "2026-07-18T18:30:00+02:00"
 created_at: "2026-05-10T00:00:00.000Z"
 review_required: false
 canonical: true
 tags: ["topic","contabilita","chapter-8"]
 parent_topics: []
-child_topics: ["PNRR","enti locali","contratti pubblici"]
-chapter_refs: ["books/il-metodo-bando/chapters/contabilita-pubblica-essenziale"]
+child_topics: ["PNRR","enti locali","contratti pubblici","entrate-tributi-locali-comunali"]
+chapter_refs: ["books/il-metodo-bando/chapters/contabilita-pubblica-essenziale", "books/moduli/m-fl01-comuni-unioni/chapters/09-programmazione-integrata-comunale-dup-bilancio-peg-piao-performance", "books/moduli/m-fl01-comuni-unioni/chapters/10-gestione-finanziaria-rendiconto-tesoreria-controlli", "books/moduli/m-fl01-comuni-unioni/chapters/11-entrate-tributi-locali-patrimonio-economato-riscossione"]
 ---
 
 # contabilita pubblica
@@ -34,6 +34,8 @@ La contabilita pubblica e il sistema di regole con cui le amministrazioni progra
 - Corte dei conti e responsabilita: controlli, parifica, responsabilita erariale, giudizio contabile, agenti contabili e conto giudiziale.
 - Enti locali: TUEL, DUP, PEG, bilancio, variazioni, salvaguardia equilibri, rendiconto, revisione, dissesto e riequilibrio.
 - Armonizzazione: D.Lgs. 118/2011, principi contabili applicati, piano dei conti, competenza finanziaria potenziata, FPV e FCDE.
+- Gestione finanziaria comunale: fasi dell'entrata e della spesa, residui, tesoreria, SIOPE/SIOPE+, rendiconto, controlli interni, revisione e Corte dei conti.
+- Entrate e tributi locali comunali: autonomia regolamentare, IMU, TARI, canone unico, patrimonio, economato, riscossione locale, residui attivi e agenti contabili.
 
 ## Nuclei di media priorita
 
@@ -74,6 +76,8 @@ La contabilita pubblica e il sistema di regole con cui le amministrazioni progra
 - [[sources/corte-conti-controlli-responsabilita-agenti-contabili]]
 - [[sources/pagamenti-tracciabilita-contratti-pnrr-rendicontazione]]
 - [[sources/contabilita-economico-patrimoniale-universita-enti-pubblici]]
+- [[sources/tesoreria-unica-siope-siope-plus]]
+- [[sources/entrate-tributi-locali-patrimonio-riscossione-comunale]]
 
 ## Stato revisione
 

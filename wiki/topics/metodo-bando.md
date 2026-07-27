@@ -7,16 +7,16 @@ domain: concorsi pubblici italiani
 topics: ["metodo bando"]
 entities: ["Metodo BANDO","Bando Decoder","Piano 30/60/90 giorni","Diario degli errori","Costituzione della Repubblica Italiana","RUP","Comune","inPA","Legge 241/1990"]
 source_refs: ["sources/metodo-bando-progetto-editoriale.md","sources/d-lgs-27-ottobre-2009-n-150-performance.md","sources/d-p-r-16-giugno-2023-n-82-modifiche-al-d-p-r-487-1994-sui-concorsi.md","sources/agid-linee-guida-sulla-formazione-gestione-e-conservazione-dei-documenti-informatici.md","sources/agid-catalogo-linee-guida-cad-e-domicilio-digitale.md"]
-book_refs: ["il-metodo-bando"]
+book_refs: ["il-metodo-bando","vol-02-enti-locali-polizia-locale"]
 confidence: 0.96
-updated_at: "2026-05-25T11:30:33.427Z"
+updated_at: "2026-07-09T18:55:00+02:00"
 created_at: "2026-05-09T01:00:00.000Z"
 review_required: false
 canonical: true
 tags: ["topic","product-core"]
 parent_topics: []
 child_topics: ["anatomia del bando","bando decoder","piano 30 60 90 giorni","diario errori"]
-chapter_refs: ["books/il-metodo-bando/chapters/il-metodo-bando.md"]
+chapter_refs: ["books/il-metodo-bando/chapters/il-metodo-bando.md","books/vol-02-enti-locali-polizia-locale/chapters/01-come-usare-vol-02-insieme-a-vol-01.md","books/moduli/m-fl01-comuni-unioni/chapters/01-tuel-operativo-autonomia-organi-funzioni-comune.md"]
 ---
 
 # metodo bando
@@ -44,6 +44,8 @@ Il Metodo BANDO e' il framework centrale del libro: Bando, Aree, Nuclei, Diario,
 
 ## Capitoli collegati
 - [[books/il-metodo-bando/chapters/il-metodo-bando]]
+- [[books/vol-02-enti-locali-polizia-locale/chapters/01-come-usare-vol-02-insieme-a-vol-01]]
+- [[books/moduli/m-fl01-comuni-unioni/chapters/01-tuel-operativo-autonomia-organi-funzioni-comune]]
 
 ## Stato revisione
 Canonico: ogni outline, capitolo e tool editoriale deve essere coerente con questo metodo.

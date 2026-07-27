@@ -49,6 +49,13 @@ MEPA, Consip e Acquisti in Rete sono ricorrenti nei concorsi, soprattutto enti l
 - Gli strumenti operativi possono includere ordine diretto, richiesta di offerta e trattativa diretta, secondo la disciplina e il portale.
 - Centrali di committenza e soggetti aggregatori servono a professionalizzare, aggregare e rendere piu efficiente la domanda pubblica.
 
+## Aggiornamento web ufficiale 2026-07-18
+
+- Acquisti in Rete, programma e strumenti: `https://www.acquistinretepa.it/opencms/opencms/programma_approfondimenti.html`. Il portale distingue Mercato elettronico, Convenzioni, Sistema dinamico, Accordi quadro e iniziative d'acquisto.
+- Wiki Acquisti in Rete, Mercato elettronico - MePA: `https://wiki.acquistinretepa.it/index.php/Mercato_Elettronico_-_MePA`. Il MePA e' il mercato digitale per acquisti sotto soglia comunitaria di beni, servizi e lavori di manutenzione; le amministrazioni possono acquistare da catalogo o negoziare con fornitori abilitati.
+- Wiki Acquisti in Rete, RdO MePA: `https://wiki.acquistinretepa.it/index.php/Risposta_RdO_MePA`. Le modalita di negoziazione includono trattativa diretta, confronto di preventivi, RdO semplice e RdO evoluta, secondo le regole della piattaforma e della procedura.
+- Nei capitoli per profili comunali spiegare gli strumenti senza trasformare il manuale in guida al portale: la scelta tra convenzione, MePA, accordo quadro, sistema dinamico o altra procedura resta subordinata a fabbisogno, oggetto, importo, regole del Codice, copertura finanziaria e controlli.
+
 ## Errori da evitare
 
 - Dire che MEPA e sinonimo di Consip: MEPA e uno strumento; Consip e il soggetto/struttura che opera nel programma di razionalizzazione.

@@ -7,13 +7,19 @@ domain: "concorsi pubblici italiani"
 topics: ["diritto civile","diritto commerciale","crisi impresa","agenzie fiscali"]
 entities: ["Agenzia delle Entrate","Agenzia delle Dogane e dei Monopoli","Agenzia delle Entrate-Riscossione"]
 source_refs: ["sources/adempimenti-contabilita-civile-commerciale-m-fc02.md","sources/diritto-civile-obbligazioni-contratti-m-fc02-2026-07-17.md","sources/diritto-commerciale-impresa-societa-m-fc02-2026-07-17.md","sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026.md","sources/contabilita-aziendale-bilancio-reddito-impresa-aggiornamento-2026-07-18.md","sources/riscossione-ader-aggiornamento-istituzionale-2026-07-17.md","sources/codice-doganale-unione-procedure-adm-aggiornamento-2026-07-17.md"]
+asset_refs:
+  - "books/moduli/m-fc02-agenzie-fiscali/assets/chapter-12/01-mappa-bando-civile-commerciale.png"
+  - "books/moduli/m-fc02-agenzie-fiscali/assets/chapter-12/02-credito-debito-piani-giuridici.png"
+  - "books/moduli/m-fc02-agenzie-fiscali/assets/chapter-12/03-contratto-fattura-pagamento.png"
+  - "books/moduli/m-fc02-agenzie-fiscali/assets/chapter-12/04-impresa-societa-applicazioni-agenzie.png"
+  - "books/moduli/m-fc02-agenzie-fiscali/assets/chapter-12/05-checklist-civile-commerciale-fisco.png"
 book_refs: ["m-fc02-agenzie-fiscali"]
 confidence: 0.9
 updated_at: 2026-07-18T00:00:00+02:00
 created_at: 2026-07-01T21:00:00+02:00
 review_required: true
 canonical: true
-tags: ["book-chapter","module-code-m-fc02","revised-draft","civil-commercial-law"]
+tags: ["book-chapter","module-code-m-fc02","revised-draft","civil-commercial-law","illustrated"]
 book_id: m-fc02-agenzie-fiscali
 outline_section: 12
 draft_stage: revised-editorial-draft

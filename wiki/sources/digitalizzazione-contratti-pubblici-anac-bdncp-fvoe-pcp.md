@@ -52,6 +52,14 @@ Dal 2024 la digitalizzazione e parte ordinaria del ciclo di vita dei contratti p
 - Le piattaforme di approvvigionamento digitale devono dialogare con l'ecosistema nazionale secondo le regole ANAC/MIT/AgID.
 - Nei quiz, digitalizzazione non significa solo "gara online": significa tracciabilita, dati, interoperabilita, pubblicita, verifica requisiti e controllo.
 
+## Aggiornamento web ufficiale 2026-07-18
+
+- ANAC, Piattaforma Contratti Pubblici: `https://www.anticorruzione.it/en/-/piattaforma-contratti-pubblici`. La pagina ANAC aggiornata al 29 settembre 2025 qualifica la PCP come piattaforma che abilita la digitalizzazione del ciclo di vita dei contratti pubblici e l'accesso a BDNCP, FVOE e pubblicita legale.
+- ANAC, Digitalizzazione dei contratti pubblici: `https://www.anticorruzione.it/-/digitalizzazione-dei-contratti-pubblici`. La disciplina della digitalizzazione ha piena efficacia dal 1 gennaio 2024; il CIG si acquisisce tramite piattaforme di approvvigionamento digitale certificate, con scambio dati con la BDNCP; non e' piu previsto il rilascio di SmartCIG.
+- ANAC, FVOE 2.0: la verifica dei requisiti passa dal fascicolo virtuale dell'operatore economico; il PassOE non e' piu necessario per le procedure indette dal 1 gennaio 2024, secondo le indicazioni ANAC.
+- ANAC, obblighi di pubblicazione art. 37 D.Lgs. 33/2013: `https://www.anticorruzione.it/-/pubblicazione-dei-dati-relativi-ai-contratti-pubblici-di-lavori-servizi-e-forniture-art.-37-/1000`. Per contratti con bandi o avvisi pubblicati dal 1 gennaio 2024, i dati sono comunicati tramite piattaforme digitali certificate alla BDNCP e la stazione appaltante pubblica in Amministrazione trasparente il collegamento ipertestuale ai dati del ciclo di vita del contratto, oltre ai dati residui non comunicati alla BDNCP secondo delibere ANAC.
+- Nei moduli comunali trattare questi punti come controllo operativo: l'ufficio non deve "prendere un codice" a valle, ma impostare il contratto dentro un ciclo digitale tracciato, dalla decisione di acquisire alla pubblicazione, alla verifica requisiti e all'esecuzione.
+
 ## Errori da evitare
 
 - Confondere BDNCP e FVOE: la prima e banca dati dei contratti; il secondo riguarda la verifica dei requisiti dell'operatore economico.
