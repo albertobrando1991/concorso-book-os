@@ -184,6 +184,15 @@ Regole:
 - Per ogni volume o modulo il revisore applica anche [[sources/logica-volumi-copertura-concorsobook-v4]] prima della checklist a 30 punti: segnala come errore grave duplicazioni B-PA, materia nella famiglia errata o lacune su materie ricorrenti/pesate; verifica rinvii cross-family, necessita' di verticali e congruenza del pacchetto minimo.
 - I report di revisione sono salvati in `wiki/reviews/` e loggati in `log.md`.
 
+## Canvas Design per immagini editoriali
+
+- La skill condivisa e' `.agents/skills/canvas-design/SKILL.md`.
+- Si applica a copertine, mappe, diagrammi, immagini di capitolo e audit visivi di `Il Metodo BANDO`, Ricettario e moduli specialistici.
+- Prima di creare o ottimizzare un'immagine, definire una filosofia visiva in `.md`; gli output grafici finali sono solo `.png` o `.pdf`.
+- Nella revisione, verificare resa nel Book Studio, margini, contrasto, leggibilita' a formato paperback KDP, rapporto tra immagine e didascalia, asset path e assenza di overflow o sovrapposizioni.
+- Le immagini devono essere distribuite accanto alla sezione didattica che spiegano; non creare sequenze decorative di figure senza testo o struttura intermedia.
+- Gli esercizi stampabili privilegiano campi leggibili: dividere tabelle dense anziche' comprimere testo, tipografia o spaziatura.
+
 ## Gate globale di copertura didattica integrale
 
 La regola canonica e' [[sources/principio-copertura-didattica-integrale-2026-07-17]]. Il Metodo BANDO organizza la teoria richiesta e la trasforma in performance concorsuale, ma non la sostituisce.

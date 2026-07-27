@@ -119,6 +119,57 @@ describe("book preview assets", () => {
     }
   })
 
+  it("preserves blank workbook rows as real table fields", async () => {
+    const root = await mkdtemp(path.join(os.tmpdir(), "book-preview-workbook-table-"))
+
+    try {
+      await mkdir(path.join(root, "books/il-metodo-bando/chapters"), { recursive: true })
+      await writeFile(
+        path.join(root, "books/il-metodo-bando/index.md"),
+        "---\ntitle: Il Metodo BANDO\n---\n# Il Metodo BANDO",
+        "utf8"
+      )
+      await writeFile(
+        path.join(root, "books/il-metodo-bando/chapters/registro-fonti.md"),
+        [
+          "---",
+          "title: Registro fonti",
+          "outline_section: 25",
+          "---",
+          "# Registro fonti",
+          "",
+          "| Fonte controllata | Ultimo controllo | Azione se cambia |",
+          "|---|---|---|",
+          "| | | |",
+          "| | | |",
+          "| | | |"
+        ].join("\n"),
+        "utf8"
+      )
+
+      const data = await buildBookStudioData(new FileWikiStore(root), "il-metodo-bando")
+      const tableBlocks = data.chapters[0].blocks.filter((block) => block.type === "table")
+      const rawParagraphs = data.chapters[0].blocks.filter(
+        (block) => block.type === "paragraph" && block.text?.includes("|---|")
+      )
+
+      expect(tableBlocks).toHaveLength(1)
+      expect(tableBlocks[0].headers).toEqual([
+        "Fonte controllata",
+        "Ultimo controllo",
+        "Azione se cambia"
+      ])
+      expect(tableBlocks[0].rows).toEqual([
+        ["", "", ""],
+        ["", "", ""],
+        ["", "", ""]
+      ])
+      expect(rawParagraphs).toHaveLength(0)
+    } finally {
+      await rm(root, { recursive: true, force: true })
+    }
+  })
+
   it("groups verbose table rows instead of creating sparse one-row pages", async () => {
     const root = await mkdtemp(path.join(os.tmpdir(), "book-preview-verbose-table-"))
     const verboseRows = Array.from(

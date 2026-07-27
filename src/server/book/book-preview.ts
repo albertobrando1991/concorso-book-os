@@ -1339,7 +1339,10 @@ function parseTable(lines: string[]): MarkdownBlock | null {
   if (separatorIndex !== 1) return null
 
   const headers = parsedRows[0]
-  const rows = parsedRows.slice(2).filter((row) => row.some(Boolean))
+  // Blank rows are intentional in workbook tables: they are writable fields,
+  // not disposable Markdown noise. Dropping them turns a valid empty worksheet
+  // into a paragraph that exposes pipes and separator markers in Book Studio.
+  const rows = parsedRows.slice(2)
 
   if (headers.length === 0 || rows.length === 0) return null
 

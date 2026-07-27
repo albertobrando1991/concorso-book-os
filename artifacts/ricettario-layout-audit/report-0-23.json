@@ -1,0 +1,2789 @@
+{
+  "generatedAt": "2026-07-27T11:50:24.169Z",
+  "chapters": [
+    {
+      "path": "books/il-metodo-bando/chapters/aggiornare-il-metodo-dopo-il-libro.md",
+      "title": "Aggiornare il metodo dopo il libro",
+      "pages": [
+        {
+          "page": 1,
+          "freeSpace": 140,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 2,
+          "freeSpace": 154,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 3,
+          "freeSpace": 55,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 4,
+          "freeSpace": 77,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 5,
+          "freeSpace": 89,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 6,
+          "freeSpace": 39,
+          "overflow": 0,
+          "lastBlock": "FIGURE",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 7,
+          "freeSpace": 64,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 8,
+          "freeSpace": 54,
+          "overflow": 0,
+          "lastBlock": "FIGURE",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 9,
+          "freeSpace": 108,
+          "overflow": 0,
+          "lastBlock": "FIGURE",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 10,
+          "freeSpace": 42,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 11,
+          "freeSpace": 58,
+          "overflow": 0,
+          "lastBlock": "UL",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 12,
+          "freeSpace": 31,
+          "overflow": 0,
+          "lastBlock": "UL",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 13,
+          "freeSpace": 107,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 14,
+          "freeSpace": 74,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 15,
+          "freeSpace": 48,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 16,
+          "freeSpace": 85,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 17,
+          "freeSpace": 437,
+          "overflow": 0,
+          "lastBlock": "UL",
+          "lastBlockClass": ""
+        }
+      ]
+    },
+    {
+      "path": "books/il-metodo-bando/chapters/trasformare-ogni-concorso-in-capitale-di-studio.md",
+      "title": "Trasformare ogni concorso in capitale di studio",
+      "pages": [
+        {
+          "page": 1,
+          "freeSpace": 149,
+          "overflow": 0,
+          "lastBlock": "ASIDE",
+          "lastBlockClass": "previewCallout quote"
+        },
+        {
+          "page": 2,
+          "freeSpace": 54,
+          "overflow": 0,
+          "lastBlock": "UL",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 3,
+          "freeSpace": 36,
+          "overflow": 0,
+          "lastBlock": "DIV",
+          "lastBlockClass": "previewTableWrap continuedTable"
+        },
+        {
+          "page": 4,
+          "freeSpace": 42,
+          "overflow": 0,
+          "lastBlock": "DIV",
+          "lastBlockClass": "previewTableWrap"
+        },
+        {
+          "page": 5,
+          "freeSpace": 111,
+          "overflow": 0,
+          "lastBlock": "DIV",
+          "lastBlockClass": "previewTableWrap"
+        },
+        {
+          "page": 6,
+          "freeSpace": 61,
+          "overflow": 0,
+          "lastBlock": "DIV",
+          "lastBlockClass": "previewTableWrap continuedTable"
+        },
+        {
+          "page": 7,
+          "freeSpace": 144,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 8,
+          "freeSpace": 171,
+          "overflow": 0,
+          "lastBlock": "DIV",
+          "lastBlockClass": "previewTableWrap continuedTable"
+        },
+        {
+          "page": 9,
+          "freeSpace": 58,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 10,
+          "freeSpace": 41,
+          "overflow": 0,
+          "lastBlock": "UL",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 11,
+          "freeSpace": 57,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 12,
+          "freeSpace": 45,
+          "overflow": 0,
+          "lastBlock": "UL",
+          "lastBlockClass": ""
+        }
+      ]
+    },
+    {
+      "path": "books/il-metodo-bando/chapters/gestire-concorsi-paralleli-senza-dispersersi.md",
+      "title": "Gestire concorsi paralleli senza disperdersi",
+      "pages": [
+        {
+          "page": 1,
+          "freeSpace": 49,
+          "overflow": 0,
+          "lastBlock": "ASIDE",
+          "lastBlockClass": "previewCallout quote"
+        },
+        {
+          "page": 2,
+          "freeSpace": 65,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 3,
+          "freeSpace": 66,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 4,
+          "freeSpace": 92,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 5,
+          "freeSpace": 261,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 6,
+          "freeSpace": 180,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 7,
+          "freeSpace": 55,
+          "overflow": 0,
+          "lastBlock": "OL",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 8,
+          "freeSpace": 187,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 9,
+          "freeSpace": 41,
+          "overflow": 0,
+          "lastBlock": "DIV",
+          "lastBlockClass": "previewTableWrap continuedTable"
+        },
+        {
+          "page": 10,
+          "freeSpace": 101,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 11,
+          "freeSpace": 59,
+          "overflow": 0,
+          "lastBlock": "H3",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 12,
+          "freeSpace": 33,
+          "overflow": 0,
+          "lastBlock": "DIV",
+          "lastBlockClass": "previewTableWrap continuedTable"
+        },
+        {
+          "page": 13,
+          "freeSpace": 153,
+          "overflow": 0,
+          "lastBlock": "UL",
+          "lastBlockClass": ""
+        }
+      ]
+    },
+    {
+      "path": "books/il-metodo-bando/chapters/usare-il-digitale-senza-perdere-il-metodo.md",
+      "title": "Usare il digitale senza perdere il metodo",
+      "pages": [
+        {
+          "page": 1,
+          "freeSpace": 84,
+          "overflow": 0,
+          "lastBlock": "UL",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 2,
+          "freeSpace": 104,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 3,
+          "freeSpace": 267,
+          "overflow": 0,
+          "lastBlock": "H3",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 4,
+          "freeSpace": 81,
+          "overflow": 0,
+          "lastBlock": "H3",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 5,
+          "freeSpace": 178,
+          "overflow": 0,
+          "lastBlock": "H3",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 6,
+          "freeSpace": 141,
+          "overflow": 0,
+          "lastBlock": "H3",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 7,
+          "freeSpace": 81,
+          "overflow": 0,
+          "lastBlock": "UL",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 8,
+          "freeSpace": 44,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 9,
+          "freeSpace": 82,
+          "overflow": 0,
+          "lastBlock": "H3",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 10,
+          "freeSpace": 52,
+          "overflow": 0,
+          "lastBlock": "DIV",
+          "lastBlockClass": "previewTableWrap"
+        },
+        {
+          "page": 11,
+          "freeSpace": 43,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 12,
+          "freeSpace": 37,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 13,
+          "freeSpace": 82,
+          "overflow": 0,
+          "lastBlock": "UL",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 14,
+          "freeSpace": 588,
+          "overflow": 0,
+          "lastBlock": "UL",
+          "lastBlockClass": ""
+        }
+      ]
+    },
+    {
+      "path": "books/il-metodo-bando/chapters/reggere-la-preparazione-energia-ansia-continuita.md",
+      "title": "Reggere la preparazione: energia, ansia e continuità",
+      "pages": [
+        {
+          "page": 1,
+          "freeSpace": 92,
+          "overflow": 0,
+          "lastBlock": "ASIDE",
+          "lastBlockClass": "previewCallout quote"
+        },
+        {
+          "page": 2,
+          "freeSpace": 191,
+          "overflow": 0,
+          "lastBlock": "H3",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 3,
+          "freeSpace": 166,
+          "overflow": 0,
+          "lastBlock": "H3",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 4,
+          "freeSpace": 88,
+          "overflow": 0,
+          "lastBlock": "DIV",
+          "lastBlockClass": "previewTableWrap"
+        },
+        {
+          "page": 5,
+          "freeSpace": 32,
+          "overflow": 0,
+          "lastBlock": "DIV",
+          "lastBlockClass": "previewTableWrap"
+        },
+        {
+          "page": 6,
+          "freeSpace": 80,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 7,
+          "freeSpace": 169,
+          "overflow": 0,
+          "lastBlock": "H3",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 8,
+          "freeSpace": 33,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 9,
+          "freeSpace": 191,
+          "overflow": 0,
+          "lastBlock": "H3",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 10,
+          "freeSpace": 276,
+          "overflow": 0,
+          "lastBlock": "H3",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 11,
+          "freeSpace": 108,
+          "overflow": 0,
+          "lastBlock": "H3",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 12,
+          "freeSpace": 56,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 13,
+          "freeSpace": 62,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 14,
+          "freeSpace": 279,
+          "overflow": 0,
+          "lastBlock": "UL",
+          "lastBlockClass": ""
+        }
+      ]
+    },
+    {
+      "path": "books/il-metodo-bando/chapters/dopo-la-prova-esiti-graduatoria-prossima-mossa.md",
+      "title": "Dopo la prova: esiti, graduatoria e prossima mossa",
+      "pages": [
+        {
+          "page": 1,
+          "freeSpace": 83,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 2,
+          "freeSpace": 88,
+          "overflow": 0,
+          "lastBlock": "H3",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 3,
+          "freeSpace": 156,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 4,
+          "freeSpace": 94,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 5,
+          "freeSpace": 143,
+          "overflow": 0,
+          "lastBlock": "H3",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 6,
+          "freeSpace": 53,
+          "overflow": 0,
+          "lastBlock": "DIV",
+          "lastBlockClass": "previewTableWrap continuedTable"
+        },
+        {
+          "page": 7,
+          "freeSpace": 44,
+          "overflow": 0,
+          "lastBlock": "DIV",
+          "lastBlockClass": "previewTableWrap continuedTable"
+        },
+        {
+          "page": 8,
+          "freeSpace": 74,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 9,
+          "freeSpace": 208,
+          "overflow": 0,
+          "lastBlock": "H3",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 10,
+          "freeSpace": 63,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 11,
+          "freeSpace": 89,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 12,
+          "freeSpace": 64,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 13,
+          "freeSpace": 53,
+          "overflow": 0,
+          "lastBlock": "FIGURE",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 14,
+          "freeSpace": 57,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 15,
+          "freeSpace": 46,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        }
+      ]
+    },
+    {
+      "path": "books/il-metodo-bando/chapters/prendere-servizio-nella-pa-dal-concorso-al-ruolo.md",
+      "title": "Prendere servizio nella PA: dal concorso al ruolo",
+      "pages": [
+        {
+          "page": 1,
+          "freeSpace": 49,
+          "overflow": 0,
+          "lastBlock": "UL",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 2,
+          "freeSpace": 35,
+          "overflow": 0,
+          "lastBlock": "DIV",
+          "lastBlockClass": "previewTableWrap continuedTable"
+        },
+        {
+          "page": 3,
+          "freeSpace": 58,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 4,
+          "freeSpace": 91,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 5,
+          "freeSpace": 35,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 6,
+          "freeSpace": 67,
+          "overflow": 0,
+          "lastBlock": "DIV",
+          "lastBlockClass": "previewTableWrap"
+        },
+        {
+          "page": 7,
+          "freeSpace": 45,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 8,
+          "freeSpace": 31,
+          "overflow": 0,
+          "lastBlock": "DIV",
+          "lastBlockClass": "previewTableWrap continuedTable"
+        },
+        {
+          "page": 9,
+          "freeSpace": 43,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 10,
+          "freeSpace": 35,
+          "overflow": 0,
+          "lastBlock": "DIV",
+          "lastBlockClass": "previewTableWrap continuedTable"
+        },
+        {
+          "page": 11,
+          "freeSpace": 115,
+          "overflow": 0,
+          "lastBlock": "DIV",
+          "lastBlockClass": "previewTableWrap continuedTable"
+        },
+        {
+          "page": 12,
+          "freeSpace": 49,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 13,
+          "freeSpace": 70,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 14,
+          "freeSpace": 107,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 15,
+          "freeSpace": 74,
+          "overflow": 0,
+          "lastBlock": "DIV",
+          "lastBlockClass": "previewTableWrap continuedTable"
+        },
+        {
+          "page": 16,
+          "freeSpace": 69,
+          "overflow": 0,
+          "lastBlock": "DIV",
+          "lastBlockClass": "previewTableWrap continuedTable"
+        },
+        {
+          "page": 17,
+          "freeSpace": 248,
+          "overflow": 0,
+          "lastBlock": "UL",
+          "lastBlockClass": ""
+        }
+      ]
+    },
+    {
+      "path": "books/il-metodo-bando/chapters/il-tuo-sistema-bando-personale.md",
+      "title": "Il tuo sistema BANDO personale",
+      "pages": [
+        {
+          "page": 1,
+          "freeSpace": 112,
+          "overflow": 0,
+          "lastBlock": "ASIDE",
+          "lastBlockClass": "previewCallout quote"
+        },
+        {
+          "page": 2,
+          "freeSpace": 240,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 3,
+          "freeSpace": 186,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 4,
+          "freeSpace": 153,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 5,
+          "freeSpace": 110,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 6,
+          "freeSpace": 45,
+          "overflow": 0,
+          "lastBlock": "UL",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 7,
+          "freeSpace": 74,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 8,
+          "freeSpace": 246,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 9,
+          "freeSpace": 84,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 10,
+          "freeSpace": 58,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 11,
+          "freeSpace": 73,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 12,
+          "freeSpace": 51,
+          "overflow": 0,
+          "lastBlock": "DIV",
+          "lastBlockClass": "previewTableWrap continuedTable"
+        },
+        {
+          "page": 13,
+          "freeSpace": 64,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 14,
+          "freeSpace": 71,
+          "overflow": 0,
+          "lastBlock": "DIV",
+          "lastBlockClass": "previewTableWrap continuedTable"
+        },
+        {
+          "page": 15,
+          "freeSpace": 433,
+          "overflow": 0,
+          "lastBlock": "UL",
+          "lastBlockClass": ""
+        }
+      ]
+    },
+    {
+      "path": "books/il-metodo-bando/chapters/manuali-corsi-banche-dati-scegliere-senza-disperdersi.md",
+      "title": "Manuali, corsi e banche dati: scegliere senza disperdersi",
+      "pages": [
+        {
+          "page": 1,
+          "freeSpace": 55,
+          "overflow": 0,
+          "lastBlock": "UL",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 2,
+          "freeSpace": 67,
+          "overflow": 0,
+          "lastBlock": "H3",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 3,
+          "freeSpace": 117,
+          "overflow": 0,
+          "lastBlock": "H3",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 4,
+          "freeSpace": 141,
+          "overflow": 0,
+          "lastBlock": "H3",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 5,
+          "freeSpace": 87,
+          "overflow": 0,
+          "lastBlock": "H3",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 6,
+          "freeSpace": 44,
+          "overflow": 0,
+          "lastBlock": "UL",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 7,
+          "freeSpace": 42,
+          "overflow": 0,
+          "lastBlock": "H4",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 8,
+          "freeSpace": 59,
+          "overflow": 0,
+          "lastBlock": "UL",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 9,
+          "freeSpace": 58,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 10,
+          "freeSpace": 101,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 11,
+          "freeSpace": 36,
+          "overflow": 0,
+          "lastBlock": "H3",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 12,
+          "freeSpace": 74,
+          "overflow": 0,
+          "lastBlock": "DIV",
+          "lastBlockClass": "previewTableWrap continuedTable"
+        },
+        {
+          "page": 13,
+          "freeSpace": 52,
+          "overflow": 0,
+          "lastBlock": "DIV",
+          "lastBlockClass": "previewTableWrap"
+        },
+        {
+          "page": 14,
+          "freeSpace": 32,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 15,
+          "freeSpace": 45,
+          "overflow": 0,
+          "lastBlock": "DIV",
+          "lastBlockClass": "previewTableWrap continuedTable"
+        },
+        {
+          "page": 16,
+          "freeSpace": 199,
+          "overflow": 0,
+          "lastBlock": "UL",
+          "lastBlockClass": ""
+        }
+      ]
+    },
+    {
+      "path": "books/il-metodo-bando/chapters/simulazioni-concorsuali-dalla-preparazione-alla-prova.md",
+      "title": "Simulazioni concorsuali: dalla preparazione alla prova",
+      "pages": [
+        {
+          "page": 1,
+          "freeSpace": 45,
+          "overflow": 0,
+          "lastBlock": "UL",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 2,
+          "freeSpace": 50,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 3,
+          "freeSpace": 33,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 4,
+          "freeSpace": 108,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 5,
+          "freeSpace": 185,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 6,
+          "freeSpace": 66,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 7,
+          "freeSpace": 55,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 8,
+          "freeSpace": 143,
+          "overflow": 0,
+          "lastBlock": "UL",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 9,
+          "freeSpace": 77,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 10,
+          "freeSpace": 228,
+          "overflow": 0,
+          "lastBlock": "DIV",
+          "lastBlockClass": "previewTableWrap continuedTable"
+        },
+        {
+          "page": 11,
+          "freeSpace": 43,
+          "overflow": 0,
+          "lastBlock": "OL",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 12,
+          "freeSpace": 71,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 13,
+          "freeSpace": 65,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 14,
+          "freeSpace": 145,
+          "overflow": 0,
+          "lastBlock": "DIV",
+          "lastBlockClass": "previewTableWrap continuedTable"
+        },
+        {
+          "page": 15,
+          "freeSpace": 41,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 16,
+          "freeSpace": 48,
+          "overflow": 0,
+          "lastBlock": "UL",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 17,
+          "freeSpace": 76,
+          "overflow": 0,
+          "lastBlock": "DIV",
+          "lastBlockClass": "previewTableWrap"
+        },
+        {
+          "page": 18,
+          "freeSpace": 142,
+          "overflow": 0,
+          "lastBlock": "UL",
+          "lastBlockClass": ""
+        }
+      ]
+    },
+    {
+      "path": "books/il-metodo-bando/chapters/schede-operative-trasformare-studio-ed-errori-in-risposte.md",
+      "title": "Schede operative: trasformare studio ed errori in risposte",
+      "pages": [
+        {
+          "page": 1,
+          "freeSpace": 87,
+          "overflow": 0,
+          "lastBlock": "ASIDE",
+          "lastBlockClass": "previewCallout quote"
+        },
+        {
+          "page": 2,
+          "freeSpace": 69,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 3,
+          "freeSpace": 321,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 4,
+          "freeSpace": 86,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 5,
+          "freeSpace": 187,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 6,
+          "freeSpace": 52,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 7,
+          "freeSpace": 245,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 8,
+          "freeSpace": 44,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 9,
+          "freeSpace": 42,
+          "overflow": 0,
+          "lastBlock": "DIV",
+          "lastBlockClass": "previewTableWrap"
+        },
+        {
+          "page": 10,
+          "freeSpace": 161,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 11,
+          "freeSpace": 55,
+          "overflow": 0,
+          "lastBlock": "UL",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 12,
+          "freeSpace": 47,
+          "overflow": 0,
+          "lastBlock": "UL",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 13,
+          "freeSpace": 69,
+          "overflow": 0,
+          "lastBlock": "DIV",
+          "lastBlockClass": "previewTableWrap"
+        },
+        {
+          "page": 14,
+          "freeSpace": 47,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 15,
+          "freeSpace": 46,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 16,
+          "freeSpace": 36,
+          "overflow": 0,
+          "lastBlock": "UL",
+          "lastBlockClass": ""
+        }
+      ]
+    },
+    {
+      "path": "books/il-metodo-bando/chapters/tagliare-senza-perdere-punti-priorita-studio-alta-resa.md",
+      "title": "Tagliare senza perdere punti: priorità e studio ad alta resa",
+      "pages": [
+        {
+          "page": 1,
+          "freeSpace": 84,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 2,
+          "freeSpace": 33,
+          "overflow": 0,
+          "lastBlock": "DIV",
+          "lastBlockClass": "previewTableWrap continuedTable"
+        },
+        {
+          "page": 3,
+          "freeSpace": 101,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 4,
+          "freeSpace": 109,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 5,
+          "freeSpace": 105,
+          "overflow": 0,
+          "lastBlock": "PRE",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 6,
+          "freeSpace": 35,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 7,
+          "freeSpace": 79,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 8,
+          "freeSpace": 34,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 9,
+          "freeSpace": 141,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 10,
+          "freeSpace": 87,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 11,
+          "freeSpace": 41,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 12,
+          "freeSpace": 117,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 13,
+          "freeSpace": 435,
+          "overflow": 0,
+          "lastBlock": "UL",
+          "lastBlockClass": ""
+        }
+      ]
+    },
+    {
+      "path": "books/il-metodo-bando/chapters/strategia-di-punteggio-soglie-tempo-rischio-prova.md",
+      "title": "Strategia di punteggio: soglie, tempo e rischio nella prova",
+      "pages": [
+        {
+          "page": 1,
+          "freeSpace": 60,
+          "overflow": 0,
+          "lastBlock": "UL",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 2,
+          "freeSpace": 58,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 3,
+          "freeSpace": 101,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 4,
+          "freeSpace": 79,
+          "overflow": 0,
+          "lastBlock": "DIV",
+          "lastBlockClass": "previewTableWrap"
+        },
+        {
+          "page": 5,
+          "freeSpace": 72,
+          "overflow": 0,
+          "lastBlock": "FIGURE",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 6,
+          "freeSpace": 128,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 7,
+          "freeSpace": 48,
+          "overflow": 0,
+          "lastBlock": "DIV",
+          "lastBlockClass": "previewTableWrap"
+        },
+        {
+          "page": 8,
+          "freeSpace": 69,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 9,
+          "freeSpace": 91,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 10,
+          "freeSpace": 45,
+          "overflow": 0,
+          "lastBlock": "UL",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 11,
+          "freeSpace": 44,
+          "overflow": 0,
+          "lastBlock": "OL",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 12,
+          "freeSpace": 48,
+          "overflow": 0,
+          "lastBlock": "H3",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 13,
+          "freeSpace": 31,
+          "overflow": 0,
+          "lastBlock": "DIV",
+          "lastBlockClass": "previewTableWrap continuedTable"
+        },
+        {
+          "page": 14,
+          "freeSpace": 48,
+          "overflow": 0,
+          "lastBlock": "UL",
+          "lastBlockClass": ""
+        }
+      ]
+    },
+    {
+      "path": "books/il-metodo-bando/chapters/giorno-della-prova-routine-logistica-lucidita-operativa.md",
+      "title": "Il giorno della prova: routine, logistica e lucidità operativa",
+      "pages": [
+        {
+          "page": 1,
+          "freeSpace": 118,
+          "overflow": 0,
+          "lastBlock": "ASIDE",
+          "lastBlockClass": "previewCallout quote"
+        },
+        {
+          "page": 2,
+          "freeSpace": 85,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 3,
+          "freeSpace": 35,
+          "overflow": 0,
+          "lastBlock": "UL",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 4,
+          "freeSpace": 49,
+          "overflow": 0,
+          "lastBlock": "DIV",
+          "lastBlockClass": "previewTableWrap"
+        },
+        {
+          "page": 5,
+          "freeSpace": 90,
+          "overflow": 0,
+          "lastBlock": "OL",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 6,
+          "freeSpace": 119,
+          "overflow": 0,
+          "lastBlock": "H3",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 7,
+          "freeSpace": 34,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 8,
+          "freeSpace": 33,
+          "overflow": 0,
+          "lastBlock": "PRE",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 9,
+          "freeSpace": 38,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 10,
+          "freeSpace": 42,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 11,
+          "freeSpace": 36,
+          "overflow": 0,
+          "lastBlock": "DIV",
+          "lastBlockClass": "previewTableWrap continuedTable"
+        },
+        {
+          "page": 12,
+          "freeSpace": 67,
+          "overflow": 0,
+          "lastBlock": "UL",
+          "lastBlockClass": ""
+        }
+      ]
+    },
+    {
+      "path": "books/il-metodo-bando/chapters/tra-una-prova-e-l-altra-ripianificare-senza-ricominciare.md",
+      "title": "Tra una prova e l'altra: ripianificare senza ricominciare",
+      "pages": [
+        {
+          "page": 1,
+          "freeSpace": 107,
+          "overflow": 0,
+          "lastBlock": "ASIDE",
+          "lastBlockClass": "previewCallout quote"
+        },
+        {
+          "page": 2,
+          "freeSpace": 111,
+          "overflow": 0,
+          "lastBlock": "H3",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 3,
+          "freeSpace": 46,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 4,
+          "freeSpace": 76,
+          "overflow": 0,
+          "lastBlock": "DIV",
+          "lastBlockClass": "previewTableWrap"
+        },
+        {
+          "page": 5,
+          "freeSpace": 102,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 6,
+          "freeSpace": 50,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 7,
+          "freeSpace": 76,
+          "overflow": 0,
+          "lastBlock": "H3",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 8,
+          "freeSpace": 143,
+          "overflow": 0,
+          "lastBlock": "H3",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 9,
+          "freeSpace": 42,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 10,
+          "freeSpace": 46,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 11,
+          "freeSpace": 78,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 12,
+          "freeSpace": 213,
+          "overflow": 0,
+          "lastBlock": "UL",
+          "lastBlockClass": ""
+        }
+      ]
+    },
+    {
+      "path": "books/il-metodo-bando/chapters/ripasso-finale-consolidare-senza-saturarsi.md",
+      "title": "Ripasso finale: consolidare senza saturarsi",
+      "pages": [
+        {
+          "page": 1,
+          "freeSpace": 107,
+          "overflow": 0,
+          "lastBlock": "ASIDE",
+          "lastBlockClass": "previewCallout quote"
+        },
+        {
+          "page": 2,
+          "freeSpace": 39,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 3,
+          "freeSpace": 178,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 4,
+          "freeSpace": 83,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 5,
+          "freeSpace": 124,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 6,
+          "freeSpace": 104,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 7,
+          "freeSpace": 215,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 8,
+          "freeSpace": 57,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 9,
+          "freeSpace": 45,
+          "overflow": 0,
+          "lastBlock": "UL",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 10,
+          "freeSpace": 90,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 11,
+          "freeSpace": 49,
+          "overflow": 0,
+          "lastBlock": "OL",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 12,
+          "freeSpace": 74,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 13,
+          "freeSpace": 39,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 14,
+          "freeSpace": 67,
+          "overflow": 0,
+          "lastBlock": "PRE",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 15,
+          "freeSpace": 56,
+          "overflow": 0,
+          "lastBlock": "UL",
+          "lastBlockClass": ""
+        }
+      ]
+    },
+    {
+      "path": "books/il-metodo-bando/chapters/caso-completo-bando-dal-bando-alla-prova.md",
+      "title": "Caso completo BANDO: dal bando alla prova",
+      "pages": [
+        {
+          "page": 1,
+          "freeSpace": 95,
+          "overflow": 0,
+          "lastBlock": "ASIDE",
+          "lastBlockClass": "previewCallout quote"
+        },
+        {
+          "page": 2,
+          "freeSpace": 70,
+          "overflow": 0,
+          "lastBlock": "DIV",
+          "lastBlockClass": "previewTableWrap continuedTable"
+        },
+        {
+          "page": 3,
+          "freeSpace": 79,
+          "overflow": 0,
+          "lastBlock": "DIV",
+          "lastBlockClass": "previewTableWrap continuedTable"
+        },
+        {
+          "page": 4,
+          "freeSpace": 46,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 5,
+          "freeSpace": 127,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 6,
+          "freeSpace": 79,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 7,
+          "freeSpace": 141,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 8,
+          "freeSpace": 74,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 9,
+          "freeSpace": 36,
+          "overflow": 0,
+          "lastBlock": "UL",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 10,
+          "freeSpace": 45,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 11,
+          "freeSpace": 113,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 12,
+          "freeSpace": 92,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 13,
+          "freeSpace": 37,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 14,
+          "freeSpace": 50,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 15,
+          "freeSpace": 73,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 16,
+          "freeSpace": 102,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 17,
+          "freeSpace": 52,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 18,
+          "freeSpace": 89,
+          "overflow": 0,
+          "lastBlock": "UL",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 19,
+          "freeSpace": 692,
+          "overflow": 0,
+          "lastBlock": "UL",
+          "lastBlockClass": ""
+        }
+      ]
+    },
+    {
+      "path": "books/il-metodo-bando/chapters/banca-dati-ufficiale-studiarla-senza-memorizzare-male.md",
+      "title": "Banca dati ufficiale: studiarla senza memorizzare male",
+      "pages": [
+        {
+          "page": 1,
+          "freeSpace": 83,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 2,
+          "freeSpace": 81,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 3,
+          "freeSpace": 162,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 4,
+          "freeSpace": 47,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 5,
+          "freeSpace": 45,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 6,
+          "freeSpace": 69,
+          "overflow": 0,
+          "lastBlock": "UL",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 7,
+          "freeSpace": 36,
+          "overflow": 0,
+          "lastBlock": "OL",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 8,
+          "freeSpace": 70,
+          "overflow": 0,
+          "lastBlock": "DIV",
+          "lastBlockClass": "previewTableWrap continuedTable"
+        },
+        {
+          "page": 9,
+          "freeSpace": 57,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 10,
+          "freeSpace": 35,
+          "overflow": 0,
+          "lastBlock": "DIV",
+          "lastBlockClass": "previewTableWrap"
+        },
+        {
+          "page": 11,
+          "freeSpace": 119,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 12,
+          "freeSpace": 35,
+          "overflow": 0,
+          "lastBlock": "OL",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 13,
+          "freeSpace": 250,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 14,
+          "freeSpace": 128,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 15,
+          "freeSpace": 48,
+          "overflow": 0,
+          "lastBlock": "UL",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 16,
+          "freeSpace": 117,
+          "overflow": 0,
+          "lastBlock": "FIGURE",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 17,
+          "freeSpace": 89,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 18,
+          "freeSpace": 64,
+          "overflow": 0,
+          "lastBlock": "DIV",
+          "lastBlockClass": "previewTableWrap continuedTable"
+        },
+        {
+          "page": 19,
+          "freeSpace": 428,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        }
+      ]
+    },
+    {
+      "path": "books/il-metodo-bando/chapters/risposta-sintetica-scrivere-poco-dire-tutto.md",
+      "title": "Risposta sintetica: scrivere poco, dire tutto",
+      "pages": [
+        {
+          "page": 1,
+          "freeSpace": 117,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 2,
+          "freeSpace": 65,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 3,
+          "freeSpace": 36,
+          "overflow": 0,
+          "lastBlock": "H3",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 4,
+          "freeSpace": 36,
+          "overflow": 0,
+          "lastBlock": "FIGURE",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 5,
+          "freeSpace": 128,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 6,
+          "freeSpace": 38,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 7,
+          "freeSpace": 50,
+          "overflow": 0,
+          "lastBlock": "FIGURE",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 8,
+          "freeSpace": 44,
+          "overflow": 0,
+          "lastBlock": "ASIDE",
+          "lastBlockClass": "previewCallout quote"
+        },
+        {
+          "page": 9,
+          "freeSpace": 45,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 10,
+          "freeSpace": 44,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 11,
+          "freeSpace": 37,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 12,
+          "freeSpace": 193,
+          "overflow": 0,
+          "lastBlock": "H3",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 13,
+          "freeSpace": 122,
+          "overflow": 0,
+          "lastBlock": "H3",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 14,
+          "freeSpace": 51,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 15,
+          "freeSpace": 31,
+          "overflow": 0,
+          "lastBlock": "DIV",
+          "lastBlockClass": "previewTableWrap continuedTable"
+        },
+        {
+          "page": 16,
+          "freeSpace": 328,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        }
+      ]
+    },
+    {
+      "path": "books/il-metodo-bando/chapters/confrontare-istituti-simili-differenze-che-fanno-punti.md",
+      "title": "Confrontare istituti simili: differenze che fanno punti",
+      "pages": [
+        {
+          "page": 1,
+          "freeSpace": 118,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 2,
+          "freeSpace": 165,
+          "overflow": 0,
+          "lastBlock": "H3",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 3,
+          "freeSpace": 150,
+          "overflow": 0,
+          "lastBlock": "H3",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 4,
+          "freeSpace": 67,
+          "overflow": 0,
+          "lastBlock": "H3",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 5,
+          "freeSpace": 177,
+          "overflow": 0,
+          "lastBlock": "H3",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 6,
+          "freeSpace": 51,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 7,
+          "freeSpace": 61,
+          "overflow": 0,
+          "lastBlock": "H3",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 8,
+          "freeSpace": 34,
+          "overflow": 0,
+          "lastBlock": "H3",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 9,
+          "freeSpace": 143,
+          "overflow": 0,
+          "lastBlock": "DIV",
+          "lastBlockClass": "previewTableWrap"
+        },
+        {
+          "page": 10,
+          "freeSpace": 84,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 11,
+          "freeSpace": 61,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 12,
+          "freeSpace": 89,
+          "overflow": 0,
+          "lastBlock": "H3",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 13,
+          "freeSpace": 60,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 14,
+          "freeSpace": 91,
+          "overflow": 0,
+          "lastBlock": "H3",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 15,
+          "freeSpace": 506,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        }
+      ]
+    },
+    {
+      "path": "books/il-metodo-bando/chapters/collegare-le-materie-dal-programma-alla-risposta-integrata.md",
+      "title": "Collegare le materie: dal programma alla risposta integrata",
+      "pages": [
+        {
+          "page": 1,
+          "freeSpace": 44,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 2,
+          "freeSpace": 103,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 3,
+          "freeSpace": 51,
+          "overflow": 0,
+          "lastBlock": "UL",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 4,
+          "freeSpace": 179,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 5,
+          "freeSpace": 42,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 6,
+          "freeSpace": 54,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 7,
+          "freeSpace": 268,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 8,
+          "freeSpace": 229,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 9,
+          "freeSpace": 46,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 10,
+          "freeSpace": 82,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 11,
+          "freeSpace": 73,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 12,
+          "freeSpace": 102,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 13,
+          "freeSpace": 50,
+          "overflow": 0,
+          "lastBlock": "ASIDE",
+          "lastBlockClass": "previewCallout quote"
+        },
+        {
+          "page": 14,
+          "freeSpace": 63,
+          "overflow": 0,
+          "lastBlock": "OL",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 15,
+          "freeSpace": 257,
+          "overflow": 0,
+          "lastBlock": "UL",
+          "lastBlockClass": ""
+        }
+      ]
+    },
+    {
+      "path": "books/il-metodo-bando/chapters/domande-impreviste-rispondere-senza-inventare.md",
+      "title": "Domande impreviste: rispondere senza inventare",
+      "pages": [
+        {
+          "page": 1,
+          "freeSpace": 98,
+          "overflow": 0,
+          "lastBlock": "UL",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 2,
+          "freeSpace": 97,
+          "overflow": 0,
+          "lastBlock": "DIV",
+          "lastBlockClass": "previewTableWrap"
+        },
+        {
+          "page": 3,
+          "freeSpace": 124,
+          "overflow": 0,
+          "lastBlock": "UL",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 4,
+          "freeSpace": 150,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 5,
+          "freeSpace": 44,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 6,
+          "freeSpace": 69,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 7,
+          "freeSpace": 276,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 8,
+          "freeSpace": 79,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 9,
+          "freeSpace": 71,
+          "overflow": 0,
+          "lastBlock": "UL",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 10,
+          "freeSpace": 170,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 11,
+          "freeSpace": 104,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 12,
+          "freeSpace": 182,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 13,
+          "freeSpace": 76,
+          "overflow": 0,
+          "lastBlock": "DIV",
+          "lastBlockClass": "previewTableWrap continuedTable"
+        },
+        {
+          "page": 14,
+          "freeSpace": 107,
+          "overflow": 0,
+          "lastBlock": "DIV",
+          "lastBlockClass": "previewTableWrap"
+        },
+        {
+          "page": 15,
+          "freeSpace": 122,
+          "overflow": 0,
+          "lastBlock": "UL",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 16,
+          "freeSpace": 38,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 17,
+          "freeSpace": 40,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 18,
+          "freeSpace": 83,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 19,
+          "freeSpace": 241,
+          "overflow": 0,
+          "lastBlock": "UL",
+          "lastBlockClass": ""
+        }
+      ]
+    },
+    {
+      "path": "books/il-metodo-bando/chapters/revisione-finale-controllare-prima-di-consegnare.md",
+      "title": "Revisione finale: controllare prima di consegnare",
+      "pages": [
+        {
+          "page": 1,
+          "freeSpace": 47,
+          "overflow": 0,
+          "lastBlock": "UL",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 2,
+          "freeSpace": 73,
+          "overflow": 0,
+          "lastBlock": "UL",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 3,
+          "freeSpace": 68,
+          "overflow": 0,
+          "lastBlock": "UL",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 4,
+          "freeSpace": 96,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 5,
+          "freeSpace": 45,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 6,
+          "freeSpace": 45,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 7,
+          "freeSpace": 195,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 8,
+          "freeSpace": 67,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 9,
+          "freeSpace": 53,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 10,
+          "freeSpace": 243,
+          "overflow": 0,
+          "lastBlock": "H3",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 11,
+          "freeSpace": 282,
+          "overflow": 0,
+          "lastBlock": "H3",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 12,
+          "freeSpace": 37,
+          "overflow": 0,
+          "lastBlock": "P",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 13,
+          "freeSpace": 34,
+          "overflow": 0,
+          "lastBlock": "UL",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 14,
+          "freeSpace": 70,
+          "overflow": 0,
+          "lastBlock": "UL",
+          "lastBlockClass": ""
+        },
+        {
+          "page": 15,
+          "freeSpace": 608,
+          "overflow": 0,
+          "lastBlock": "UL",
+          "lastBlockClass": ""
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "chapterCount": 23,
+    "range": "0-23",
+    "pageCount": 351,
+    "overflowPages": 0,
+    "nonFinalOver120": 62,
+    "worst": [
+      {
+        "page": 3,
+        "freeSpace": 321,
+        "overflow": 0,
+        "lastBlock": "P",
+        "lastBlockClass": "",
+        "chapter": "Schede operative: trasformare studio ed errori in risposte",
+        "path": "books/il-metodo-bando/chapters/schede-operative-trasformare-studio-ed-errori-in-risposte.md"
+      },
+      {
+        "page": 11,
+        "freeSpace": 282,
+        "overflow": 0,
+        "lastBlock": "H3",
+        "lastBlockClass": "",
+        "chapter": "Revisione finale: controllare prima di consegnare",
+        "path": "books/il-metodo-bando/chapters/revisione-finale-controllare-prima-di-consegnare.md"
+      },
+      {
+        "page": 10,
+        "freeSpace": 276,
+        "overflow": 0,
+        "lastBlock": "H3",
+        "lastBlockClass": "",
+        "chapter": "Reggere la preparazione: energia, ansia e continuità",
+        "path": "books/il-metodo-bando/chapters/reggere-la-preparazione-energia-ansia-continuita.md"
+      },
+      {
+        "page": 7,
+        "freeSpace": 276,
+        "overflow": 0,
+        "lastBlock": "P",
+        "lastBlockClass": "",
+        "chapter": "Domande impreviste: rispondere senza inventare",
+        "path": "books/il-metodo-bando/chapters/domande-impreviste-rispondere-senza-inventare.md"
+      },
+      {
+        "page": 7,
+        "freeSpace": 268,
+        "overflow": 0,
+        "lastBlock": "P",
+        "lastBlockClass": "",
+        "chapter": "Collegare le materie: dal programma alla risposta integrata",
+        "path": "books/il-metodo-bando/chapters/collegare-le-materie-dal-programma-alla-risposta-integrata.md"
+      },
+      {
+        "page": 3,
+        "freeSpace": 267,
+        "overflow": 0,
+        "lastBlock": "H3",
+        "lastBlockClass": "",
+        "chapter": "Usare il digitale senza perdere il metodo",
+        "path": "books/il-metodo-bando/chapters/usare-il-digitale-senza-perdere-il-metodo.md"
+      },
+      {
+        "page": 5,
+        "freeSpace": 261,
+        "overflow": 0,
+        "lastBlock": "P",
+        "lastBlockClass": "",
+        "chapter": "Gestire concorsi paralleli senza disperdersi",
+        "path": "books/il-metodo-bando/chapters/gestire-concorsi-paralleli-senza-dispersersi.md"
+      },
+      {
+        "page": 13,
+        "freeSpace": 250,
+        "overflow": 0,
+        "lastBlock": "P",
+        "lastBlockClass": "",
+        "chapter": "Banca dati ufficiale: studiarla senza memorizzare male",
+        "path": "books/il-metodo-bando/chapters/banca-dati-ufficiale-studiarla-senza-memorizzare-male.md"
+      },
+      {
+        "page": 8,
+        "freeSpace": 246,
+        "overflow": 0,
+        "lastBlock": "P",
+        "lastBlockClass": "",
+        "chapter": "Il tuo sistema BANDO personale",
+        "path": "books/il-metodo-bando/chapters/il-tuo-sistema-bando-personale.md"
+      },
+      {
+        "page": 7,
+        "freeSpace": 245,
+        "overflow": 0,
+        "lastBlock": "P",
+        "lastBlockClass": "",
+        "chapter": "Schede operative: trasformare studio ed errori in risposte",
+        "path": "books/il-metodo-bando/chapters/schede-operative-trasformare-studio-ed-errori-in-risposte.md"
+      },
+      {
+        "page": 10,
+        "freeSpace": 243,
+        "overflow": 0,
+        "lastBlock": "H3",
+        "lastBlockClass": "",
+        "chapter": "Revisione finale: controllare prima di consegnare",
+        "path": "books/il-metodo-bando/chapters/revisione-finale-controllare-prima-di-consegnare.md"
+      },
+      {
+        "page": 2,
+        "freeSpace": 240,
+        "overflow": 0,
+        "lastBlock": "P",
+        "lastBlockClass": "",
+        "chapter": "Il tuo sistema BANDO personale",
+        "path": "books/il-metodo-bando/chapters/il-tuo-sistema-bando-personale.md"
+      },
+      {
+        "page": 8,
+        "freeSpace": 229,
+        "overflow": 0,
+        "lastBlock": "P",
+        "lastBlockClass": "",
+        "chapter": "Collegare le materie: dal programma alla risposta integrata",
+        "path": "books/il-metodo-bando/chapters/collegare-le-materie-dal-programma-alla-risposta-integrata.md"
+      },
+      {
+        "page": 10,
+        "freeSpace": 228,
+        "overflow": 0,
+        "lastBlock": "DIV",
+        "lastBlockClass": "previewTableWrap continuedTable",
+        "chapter": "Simulazioni concorsuali: dalla preparazione alla prova",
+        "path": "books/il-metodo-bando/chapters/simulazioni-concorsuali-dalla-preparazione-alla-prova.md"
+      },
+      {
+        "page": 7,
+        "freeSpace": 215,
+        "overflow": 0,
+        "lastBlock": "P",
+        "lastBlockClass": "",
+        "chapter": "Ripasso finale: consolidare senza saturarsi",
+        "path": "books/il-metodo-bando/chapters/ripasso-finale-consolidare-senza-saturarsi.md"
+      },
+      {
+        "page": 9,
+        "freeSpace": 208,
+        "overflow": 0,
+        "lastBlock": "H3",
+        "lastBlockClass": "",
+        "chapter": "Dopo la prova: esiti, graduatoria e prossima mossa",
+        "path": "books/il-metodo-bando/chapters/dopo-la-prova-esiti-graduatoria-prossima-mossa.md"
+      },
+      {
+        "page": 7,
+        "freeSpace": 195,
+        "overflow": 0,
+        "lastBlock": "P",
+        "lastBlockClass": "",
+        "chapter": "Revisione finale: controllare prima di consegnare",
+        "path": "books/il-metodo-bando/chapters/revisione-finale-controllare-prima-di-consegnare.md"
+      },
+      {
+        "page": 12,
+        "freeSpace": 193,
+        "overflow": 0,
+        "lastBlock": "H3",
+        "lastBlockClass": "",
+        "chapter": "Risposta sintetica: scrivere poco, dire tutto",
+        "path": "books/il-metodo-bando/chapters/risposta-sintetica-scrivere-poco-dire-tutto.md"
+      },
+      {
+        "page": 2,
+        "freeSpace": 191,
+        "overflow": 0,
+        "lastBlock": "H3",
+        "lastBlockClass": "",
+        "chapter": "Reggere la preparazione: energia, ansia e continuità",
+        "path": "books/il-metodo-bando/chapters/reggere-la-preparazione-energia-ansia-continuita.md"
+      },
+      {
+        "page": 9,
+        "freeSpace": 191,
+        "overflow": 0,
+        "lastBlock": "H3",
+        "lastBlockClass": "",
+        "chapter": "Reggere la preparazione: energia, ansia e continuità",
+        "path": "books/il-metodo-bando/chapters/reggere-la-preparazione-energia-ansia-continuita.md"
+      }
+    ]
+  }
+}

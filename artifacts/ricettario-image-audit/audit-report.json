@@ -1,0 +1,1339 @@
+{
+  "generatedAt": "2026-07-27T11:05:27.549Z",
+  "expectedChapters": 23,
+  "expectedPngTotal": 161,
+  "inventory": [
+    {
+      "chapter": 25,
+      "module": "R1",
+      "relativeDir": "wiki/books/il-metodo-bando/assets/chapter-25",
+      "png": [
+        "01-mappa-bando-aggiornamento.png",
+        "02-gerarchia-fonti.png",
+        "03-fonti-da-controllare.png",
+        "04-protocollo-venti-minuti.png",
+        "05-scheda-aggiornamento.png",
+        "06-cambiare-o-non-cambiare-piano.png",
+        "07-caso-davide-rumore-fonte-decisione.png"
+      ],
+      "svg": [
+        "01-mappa-bando-aggiornamento.svg",
+        "02-gerarchia-fonti.svg",
+        "03-fonti-da-controllare.svg",
+        "04-protocollo-venti-minuti.svg",
+        "05-scheda-aggiornamento.svg",
+        "06-cambiare-o-non-cambiare-piano.svg",
+        "07-caso-davide-rumore-fonte-decisione.svg"
+      ],
+      "issues": []
+    },
+    {
+      "chapter": 26,
+      "module": "R2",
+      "relativeDir": "wiki/books/il-metodo-bando/assets/chapter-26",
+      "png": [
+        "01-mappa-bando-capitale.png",
+        "02-deposito-vs-capitale.png",
+        "03-regola-3c.png",
+        "04-archivio-minimo-cinque-cartelle.png",
+        "05-protocollo-trenta-minuti.png",
+        "06-core-moduli-trasferibilita.png",
+        "07-caso-elena-capitale-riuso.png"
+      ],
+      "svg": [
+        "01-mappa-bando-capitale.svg",
+        "02-deposito-vs-capitale.svg",
+        "03-regola-3c.svg",
+        "04-archivio-minimo-cinque-cartelle.svg",
+        "05-protocollo-trenta-minuti.svg",
+        "06-core-moduli-trasferibilita.svg",
+        "07-caso-elena-capitale-riuso.svg"
+      ],
+      "issues": []
+    },
+    {
+      "chapter": 27,
+      "module": "R3",
+      "relativeDir": "wiki/books/il-metodo-bando/assets/chapter-27",
+      "png": [
+        "01-mappa-bando-concorsi-paralleli.png",
+        "02-portafoglio-concorsi.png",
+        "03-matrice-compatibilita.png",
+        "04-regola-70-20-10.png",
+        "05-calendario-unico-blocchi.png",
+        "06-diario-semaforo-decisionale.png",
+        "07-caso-marta-portafoglio.png"
+      ],
+      "svg": [
+        "01-mappa-bando-concorsi-paralleli.svg",
+        "02-portafoglio-concorsi.svg",
+        "03-matrice-compatibilita.svg",
+        "04-regola-70-20-10.svg",
+        "05-calendario-unico-blocchi.svg",
+        "06-diario-semaforo-decisionale.svg",
+        "07-caso-marta-portafoglio.svg"
+      ],
+      "issues": []
+    },
+    {
+      "chapter": 28,
+      "module": "R4",
+      "relativeDir": "wiki/books/il-metodo-bando/assets/chapter-28",
+      "png": [
+        "01-mappa-bando-digitale.png",
+        "02-regola-1-3-5.png",
+        "03-cartella-minima-candidato.png",
+        "04-ai-assistente-non-fonte.png",
+        "05-protocollo-ai-sicuro.png",
+        "06-digitale-carta-output.png",
+        "07-caso-luca-riordino-digitale.png"
+      ],
+      "svg": [
+        "01-mappa-bando-digitale.svg",
+        "02-regola-1-3-5.svg",
+        "03-cartella-minima-candidato.svg",
+        "04-ai-assistente-non-fonte.svg",
+        "05-protocollo-ai-sicuro.svg",
+        "06-digitale-carta-output.svg",
+        "07-caso-luca-riordino-digitale.svg"
+      ],
+      "issues": []
+    },
+    {
+      "chapter": 29,
+      "module": "R5",
+      "relativeDir": "wiki/books/il-metodo-bando/assets/chapter-29",
+      "png": [
+        "01-mappa-bando-sostenibilita.png",
+        "02-scala-energia-studio.png",
+        "03-minimo-efficace.png",
+        "04-recuperare-senza-distruggere-piano.png",
+        "05-ansia-in-procedura.png",
+        "06-semaforo-sovraccarico.png",
+        "07-caso-sara-piano-sostenibile.png"
+      ],
+      "svg": [
+        "01-mappa-bando-sostenibilita.svg",
+        "02-scala-energia-studio.svg",
+        "03-minimo-efficace.svg",
+        "04-recuperare-senza-distruggere-piano.svg",
+        "05-ansia-in-procedura.svg",
+        "06-semaforo-sovraccarico.svg",
+        "07-caso-sara-piano-sostenibile.svg"
+      ],
+      "issues": []
+    },
+    {
+      "chapter": 30,
+      "module": "R6",
+      "relativeDir": "wiki/books/il-metodo-bando/assets/chapter-30",
+      "png": [
+        "01-mappa-bando-dopo-prova.png",
+        "02-prime-24-ore.png",
+        "03-tre-livelli-esito.png",
+        "04-cartella-dopo-prova.png",
+        "05-graduatoria-accesso-atti.png",
+        "06-scheda-diario-capitale.png",
+        "07-matrice-prossima-mossa.png"
+      ],
+      "svg": [
+        "01-mappa-bando-dopo-prova.svg",
+        "02-prime-24-ore.svg",
+        "03-tre-livelli-esito.svg",
+        "04-cartella-dopo-prova.svg",
+        "05-graduatoria-accesso-atti.svg",
+        "06-scheda-diario-capitale.svg",
+        "07-matrice-prossima-mossa.svg"
+      ],
+      "issues": []
+    },
+    {
+      "chapter": 31,
+      "module": "R7",
+      "relativeDir": "wiki/books/il-metodo-bando/assets/chapter-31",
+      "png": [
+        "01-mappa-bando-presa-servizio.png",
+        "02-dal-concorso-al-ruolo.png",
+        "03-cartella-ingresso.png",
+        "04-quattro-livelli-ruolo.png",
+        "05-codice-comportamento-bussola.png",
+        "06-primi-30-giorni-pa.png",
+        "07-capitale-studio-professionale.png"
+      ],
+      "svg": [
+        "01-mappa-bando-presa-servizio.svg",
+        "02-dal-concorso-al-ruolo.svg",
+        "03-cartella-ingresso.svg",
+        "04-quattro-livelli-ruolo.svg",
+        "05-codice-comportamento-bussola.svg",
+        "06-primi-30-giorni-pa.svg",
+        "07-capitale-studio-professionale.svg"
+      ],
+      "issues": []
+    },
+    {
+      "chapter": 32,
+      "module": "R8",
+      "relativeDir": "wiki/books/il-metodo-bando/assets/chapter-32",
+      "png": [
+        "01-mappa-bando-sistema-personale.png",
+        "02-cinque-pagine-vive.png",
+        "03-protocollo-15-30-60.png",
+        "04-cruscotto-personale.png",
+        "05-mantieni-aggiorna-archivia.png",
+        "06-chiusura-dopo-prova.png",
+        "07-nuovo-bando-apri-metodo.png"
+      ],
+      "svg": [
+        "01-mappa-bando-sistema-personale.svg",
+        "02-cinque-pagine-vive.svg",
+        "03-protocollo-15-30-60.svg",
+        "04-cruscotto-personale.svg",
+        "05-mantieni-aggiorna-archivia.svg",
+        "06-chiusura-dopo-prova.svg",
+        "07-nuovo-bando-apri-metodo.svg"
+      ],
+      "issues": []
+    },
+    {
+      "chapter": 33,
+      "module": "R9",
+      "relativeDir": "wiki/books/il-metodo-bando/assets/chapter-33",
+      "png": [
+        "01-mappa-bando-materiali.png",
+        "02-prima-bando-poi-materiale.png",
+        "03-pila-minima-studio.png",
+        "04-scorecard-materiali.png",
+        "05-funzione-rischio-materiali.png",
+        "06-banca-dati-ufficiale-non-ufficiale.png",
+        "07-decisione-materiali.png"
+      ],
+      "svg": [
+        "01-mappa-bando-materiali.svg",
+        "02-prima-bando-poi-materiale.svg",
+        "03-pila-minima-studio.svg",
+        "04-scorecard-materiali.svg",
+        "05-funzione-rischio-materiali.svg",
+        "06-banca-dati-ufficiale-non-ufficiale.svg",
+        "07-decisione-materiali.svg"
+      ],
+      "issues": []
+    },
+    {
+      "chapter": 34,
+      "module": "R10",
+      "relativeDir": "wiki/books/il-metodo-bando/assets/chapter-34",
+      "png": [
+        "01-ciclo-simulazione.png",
+        "02-diagnosi-errori.png",
+        "03-setup-simulazione.png",
+        "04-matrice-tempo-risposta.png",
+        "05-protocollo-correzione.png",
+        "06-registro-simulazioni.png",
+        "07-caso-decisione.png"
+      ],
+      "svg": [],
+      "issues": []
+    },
+    {
+      "chapter": 35,
+      "module": "R11",
+      "relativeDir": "wiki/books/il-metodo-bando/assets/chapter-35",
+      "png": [
+        "01-mappa-scheda-operativa.png",
+        "02-struttura-minima-scheda.png",
+        "03-regola-uno-uno-uno.png",
+        "04-scheda-concetto.png",
+        "05-scheda-procedimento.png",
+        "06-scheda-errore.png",
+        "07-ciclo-aggiornamento.png"
+      ],
+      "svg": [],
+      "issues": []
+    },
+    {
+      "chapter": 36,
+      "module": "R12",
+      "relativeDir": "wiki/books/il-metodo-bando/assets/chapter-36",
+      "png": [
+        "01-mappa-priorita-studio.png",
+        "02-triage-tre-colonne.png",
+        "03-semaforo-programma.png",
+        "04-regola-prova-materia-nucleo-output.png",
+        "05-matrice-resa-rischio-tempo-riuso.png",
+        "06-taglio-materiali.png",
+        "07-scheda-decisione-taglio.png"
+      ],
+      "svg": [],
+      "issues": []
+    },
+    {
+      "chapter": 37,
+      "module": "R13",
+      "relativeDir": "wiki/books/il-metodo-bando/assets/chapter-37",
+      "png": [
+        "01-mappa-strategia-punteggio.png",
+        "02-soglia-rischio.png",
+        "03-scheda-tempo.png",
+        "04-tre-giri-quiz.png",
+        "05-matrice-certezza-rischio-tempo.png",
+        "06-simulare-punteggio.png",
+        "07-caso-strategia-prova.png"
+      ],
+      "svg": [],
+      "issues": []
+    },
+    {
+      "chapter": 38,
+      "module": "R14",
+      "relativeDir": "wiki/books/il-metodo-bando/assets/chapter-38",
+      "png": [
+        "01-mappa-routine-prova.png",
+        "02-linea-tempo-24-ore.png",
+        "03-checklist-logistica.png",
+        "04-routine-mattino.png",
+        "05-lettura-istruzioni.png",
+        "06-protocollo-imprevisti.png",
+        "07-caso-giorno-prova.png"
+      ],
+      "svg": [],
+      "issues": []
+    },
+    {
+      "chapter": 39,
+      "module": "R15",
+      "relativeDir": "wiki/books/il-metodo-bando/assets/chapter-39",
+      "png": [
+        "01-mappa-tra-prove.png",
+        "02-prime-24-ore.png",
+        "03-conversione-piano.png",
+        "04-bivio-scritto-orale.png",
+        "05-calendario-riallineamento.png",
+        "06-esito-incerto.png",
+        "07-caso-ripianificazione.png"
+      ],
+      "svg": [],
+      "issues": []
+    },
+    {
+      "chapter": 40,
+      "module": "R16",
+      "relativeDir": "wiki/books/il-metodo-bando/assets/chapter-40",
+      "png": [
+        "01-mappa-ripasso-finale.png",
+        "02-quattro-attivita-ripasso.png",
+        "03-fascicolo-finale.png",
+        "04-matrice-tengo-recupero-lascio.png",
+        "05-protocollo-sette-tre-uno.png",
+        "06-ripasso-attivo.png",
+        "07-caso-ripasso.png"
+      ],
+      "svg": [],
+      "issues": []
+    },
+    {
+      "chapter": 41,
+      "module": "R17",
+      "relativeDir": "wiki/books/il-metodo-bando/assets/chapter-41",
+      "png": [
+        "01-mappa-caso-completo.png",
+        "02-estrazione-dati-bando.png",
+        "03-aree-nuclei.png",
+        "04-diario-decisioni.png",
+        "05-output-settimanale.png",
+        "06-piano-trenta-giorni.png",
+        "07-caso-marta.png"
+      ],
+      "svg": [],
+      "issues": []
+    },
+    {
+      "chapter": 42,
+      "module": "R18",
+      "relativeDir": "wiki/books/il-metodo-bando/assets/chapter-42",
+      "png": [
+        "01-mappa-banca-dati.png",
+        "02-verifica-ufficialita.png",
+        "03-protocollo-quattro-fasi.png",
+        "04-domanda-spiegazione.png",
+        "05-diario-errori-banca-dati.png",
+        "06-piano-banca-dati.png",
+        "07-caso-banca-dati.png"
+      ],
+      "svg": [],
+      "issues": []
+    },
+    {
+      "chapter": 43,
+      "module": "R19",
+      "relativeDir": "wiki/books/il-metodo-bando/assets/chapter-43",
+      "png": [
+        "01-mappa-risposta-sintetica.png",
+        "02-lettura-traccia.png",
+        "03-schema-base-risposta.png",
+        "04-micro-scaletta.png",
+        "05-parole-chiave.png",
+        "06-griglia-revisione.png",
+        "07-caso-risposta.png"
+      ],
+      "svg": [],
+      "issues": []
+    },
+    {
+      "chapter": 44,
+      "module": "R20",
+      "relativeDir": "wiki/books/il-metodo-bando/assets/chapter-44",
+      "png": [
+        "01-mappa-confronto.png",
+        "02-criteri-distinzione.png",
+        "03-formula-confronto.png",
+        "04-tabella-confronto.png",
+        "05-confusioni-tipiche.png",
+        "06-diario-differenze.png",
+        "07-caso-confronto.png"
+      ],
+      "svg": [],
+      "issues": []
+    },
+    {
+      "chapter": 45,
+      "module": "R21",
+      "relativeDir": "wiki/books/il-metodo-bando/assets/chapter-45",
+      "png": [
+        "01-mappa-collegamenti.png",
+        "02-sette-ponti.png",
+        "03-centro-ponte-ritorno.png",
+        "04-collegare-scritto.png",
+        "05-collegare-orale.png",
+        "06-scheda-ponti-utili.png",
+        "07-caso-collegamento.png"
+      ],
+      "svg": [],
+      "issues": []
+    },
+    {
+      "chapter": 46,
+      "module": "R22",
+      "relativeDir": "wiki/books/il-metodo-bando/assets/chapter-46",
+      "png": [
+        "01-mappa-domanda-imprevista.png",
+        "02-perimetro-nucleo-sviluppo.png",
+        "03-tipi-domande-impreviste.png",
+        "04-risposta-orale-imprevista.png",
+        "05-quiz-non-so.png",
+        "06-diario-incertezza.png",
+        "07-caso-imprevisto.png"
+      ],
+      "svg": [],
+      "issues": []
+    },
+    {
+      "chapter": 47,
+      "module": "R23",
+      "relativeDir": "wiki/books/il-metodo-bando/assets/chapter-47",
+      "png": [
+        "01-mappa-revisione-finale.png",
+        "02-formula-cinque-passaggi.png",
+        "03-checklist-rapida.png",
+        "04-risposte-lunghezza.png",
+        "05-revisione-caso-pratico.png",
+        "06-correggere-senza-peggiorare.png",
+        "07-caso-consegna.png"
+      ],
+      "svg": [],
+      "issues": []
+    }
+  ],
+  "svgGeometry": [
+    {
+      "chapter": 25,
+      "module": "R1",
+      "file": "01-mappa-bando-aggiornamento.svg",
+      "relativePath": "wiki/books/il-metodo-bando/assets/chapter-25/01-mappa-bando-aggiornamento.svg",
+      "viewBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1600,
+        "height": 900
+      },
+      "textCount": 23,
+      "issues": []
+    },
+    {
+      "chapter": 25,
+      "module": "R1",
+      "file": "02-gerarchia-fonti.svg",
+      "relativePath": "wiki/books/il-metodo-bando/assets/chapter-25/02-gerarchia-fonti.svg",
+      "viewBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1600,
+        "height": 900
+      },
+      "textCount": 22,
+      "issues": []
+    },
+    {
+      "chapter": 25,
+      "module": "R1",
+      "file": "03-fonti-da-controllare.svg",
+      "relativePath": "wiki/books/il-metodo-bando/assets/chapter-25/03-fonti-da-controllare.svg",
+      "viewBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1600,
+        "height": 900
+      },
+      "textCount": 16,
+      "issues": []
+    },
+    {
+      "chapter": 25,
+      "module": "R1",
+      "file": "04-protocollo-venti-minuti.svg",
+      "relativePath": "wiki/books/il-metodo-bando/assets/chapter-25/04-protocollo-venti-minuti.svg",
+      "viewBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1600,
+        "height": 900
+      },
+      "textCount": 22,
+      "issues": []
+    },
+    {
+      "chapter": 25,
+      "module": "R1",
+      "file": "05-scheda-aggiornamento.svg",
+      "relativePath": "wiki/books/il-metodo-bando/assets/chapter-25/05-scheda-aggiornamento.svg",
+      "viewBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1600,
+        "height": 900
+      },
+      "textCount": 18,
+      "issues": []
+    },
+    {
+      "chapter": 25,
+      "module": "R1",
+      "file": "06-cambiare-o-non-cambiare-piano.svg",
+      "relativePath": "wiki/books/il-metodo-bando/assets/chapter-25/06-cambiare-o-non-cambiare-piano.svg",
+      "viewBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1600,
+        "height": 900
+      },
+      "textCount": 26,
+      "issues": []
+    },
+    {
+      "chapter": 25,
+      "module": "R1",
+      "file": "07-caso-davide-rumore-fonte-decisione.svg",
+      "relativePath": "wiki/books/il-metodo-bando/assets/chapter-25/07-caso-davide-rumore-fonte-decisione.svg",
+      "viewBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1600,
+        "height": 900
+      },
+      "textCount": 23,
+      "issues": []
+    },
+    {
+      "chapter": 26,
+      "module": "R2",
+      "file": "01-mappa-bando-capitale.svg",
+      "relativePath": "wiki/books/il-metodo-bando/assets/chapter-26/01-mappa-bando-capitale.svg",
+      "viewBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1600,
+        "height": 900
+      },
+      "textCount": 23,
+      "issues": []
+    },
+    {
+      "chapter": 26,
+      "module": "R2",
+      "file": "02-deposito-vs-capitale.svg",
+      "relativePath": "wiki/books/il-metodo-bando/assets/chapter-26/02-deposito-vs-capitale.svg",
+      "viewBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1600,
+        "height": 900
+      },
+      "textCount": 20,
+      "issues": []
+    },
+    {
+      "chapter": 26,
+      "module": "R2",
+      "file": "03-regola-3c.svg",
+      "relativePath": "wiki/books/il-metodo-bando/assets/chapter-26/03-regola-3c.svg",
+      "viewBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1600,
+        "height": 900
+      },
+      "textCount": 24,
+      "issues": []
+    },
+    {
+      "chapter": 26,
+      "module": "R2",
+      "file": "04-archivio-minimo-cinque-cartelle.svg",
+      "relativePath": "wiki/books/il-metodo-bando/assets/chapter-26/04-archivio-minimo-cinque-cartelle.svg",
+      "viewBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1600,
+        "height": 900
+      },
+      "textCount": 21,
+      "issues": []
+    },
+    {
+      "chapter": 26,
+      "module": "R2",
+      "file": "05-protocollo-trenta-minuti.svg",
+      "relativePath": "wiki/books/il-metodo-bando/assets/chapter-26/05-protocollo-trenta-minuti.svg",
+      "viewBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1600,
+        "height": 900
+      },
+      "textCount": 23,
+      "issues": []
+    },
+    {
+      "chapter": 26,
+      "module": "R2",
+      "file": "06-core-moduli-trasferibilita.svg",
+      "relativePath": "wiki/books/il-metodo-bando/assets/chapter-26/06-core-moduli-trasferibilita.svg",
+      "viewBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1600,
+        "height": 900
+      },
+      "textCount": 19,
+      "issues": []
+    },
+    {
+      "chapter": 26,
+      "module": "R2",
+      "file": "07-caso-elena-capitale-riuso.svg",
+      "relativePath": "wiki/books/il-metodo-bando/assets/chapter-26/07-caso-elena-capitale-riuso.svg",
+      "viewBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1600,
+        "height": 900
+      },
+      "textCount": 17,
+      "issues": []
+    },
+    {
+      "chapter": 27,
+      "module": "R3",
+      "file": "01-mappa-bando-concorsi-paralleli.svg",
+      "relativePath": "wiki/books/il-metodo-bando/assets/chapter-27/01-mappa-bando-concorsi-paralleli.svg",
+      "viewBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1600,
+        "height": 900
+      },
+      "textCount": 21,
+      "issues": []
+    },
+    {
+      "chapter": 27,
+      "module": "R3",
+      "file": "02-portafoglio-concorsi.svg",
+      "relativePath": "wiki/books/il-metodo-bando/assets/chapter-27/02-portafoglio-concorsi.svg",
+      "viewBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1600,
+        "height": 900
+      },
+      "textCount": 15,
+      "issues": []
+    },
+    {
+      "chapter": 27,
+      "module": "R3",
+      "file": "03-matrice-compatibilita.svg",
+      "relativePath": "wiki/books/il-metodo-bando/assets/chapter-27/03-matrice-compatibilita.svg",
+      "viewBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1600,
+        "height": 900
+      },
+      "textCount": 31,
+      "issues": []
+    },
+    {
+      "chapter": 27,
+      "module": "R3",
+      "file": "04-regola-70-20-10.svg",
+      "relativePath": "wiki/books/il-metodo-bando/assets/chapter-27/04-regola-70-20-10.svg",
+      "viewBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1600,
+        "height": 900
+      },
+      "textCount": 18,
+      "issues": []
+    },
+    {
+      "chapter": 27,
+      "module": "R3",
+      "file": "05-calendario-unico-blocchi.svg",
+      "relativePath": "wiki/books/il-metodo-bando/assets/chapter-27/05-calendario-unico-blocchi.svg",
+      "viewBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1600,
+        "height": 900
+      },
+      "textCount": 22,
+      "issues": []
+    },
+    {
+      "chapter": 27,
+      "module": "R3",
+      "file": "06-diario-semaforo-decisionale.svg",
+      "relativePath": "wiki/books/il-metodo-bando/assets/chapter-27/06-diario-semaforo-decisionale.svg",
+      "viewBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1600,
+        "height": 900
+      },
+      "textCount": 22,
+      "issues": []
+    },
+    {
+      "chapter": 27,
+      "module": "R3",
+      "file": "07-caso-marta-portafoglio.svg",
+      "relativePath": "wiki/books/il-metodo-bando/assets/chapter-27/07-caso-marta-portafoglio.svg",
+      "viewBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1600,
+        "height": 900
+      },
+      "textCount": 19,
+      "issues": []
+    },
+    {
+      "chapter": 28,
+      "module": "R4",
+      "file": "01-mappa-bando-digitale.svg",
+      "relativePath": "wiki/books/il-metodo-bando/assets/chapter-28/01-mappa-bando-digitale.svg",
+      "viewBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1600,
+        "height": 900
+      },
+      "textCount": 21,
+      "issues": []
+    },
+    {
+      "chapter": 28,
+      "module": "R4",
+      "file": "02-regola-1-3-5.svg",
+      "relativePath": "wiki/books/il-metodo-bando/assets/chapter-28/02-regola-1-3-5.svg",
+      "viewBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1600,
+        "height": 900
+      },
+      "textCount": 20,
+      "issues": []
+    },
+    {
+      "chapter": 28,
+      "module": "R4",
+      "file": "03-cartella-minima-candidato.svg",
+      "relativePath": "wiki/books/il-metodo-bando/assets/chapter-28/03-cartella-minima-candidato.svg",
+      "viewBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1600,
+        "height": 900
+      },
+      "textCount": 24,
+      "issues": []
+    },
+    {
+      "chapter": 28,
+      "module": "R4",
+      "file": "04-ai-assistente-non-fonte.svg",
+      "relativePath": "wiki/books/il-metodo-bando/assets/chapter-28/04-ai-assistente-non-fonte.svg",
+      "viewBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1600,
+        "height": 900
+      },
+      "textCount": 16,
+      "issues": []
+    },
+    {
+      "chapter": 28,
+      "module": "R4",
+      "file": "05-protocollo-ai-sicuro.svg",
+      "relativePath": "wiki/books/il-metodo-bando/assets/chapter-28/05-protocollo-ai-sicuro.svg",
+      "viewBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1600,
+        "height": 900
+      },
+      "textCount": 17,
+      "issues": []
+    },
+    {
+      "chapter": 28,
+      "module": "R4",
+      "file": "06-digitale-carta-output.svg",
+      "relativePath": "wiki/books/il-metodo-bando/assets/chapter-28/06-digitale-carta-output.svg",
+      "viewBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1600,
+        "height": 900
+      },
+      "textCount": 23,
+      "issues": []
+    },
+    {
+      "chapter": 28,
+      "module": "R4",
+      "file": "07-caso-luca-riordino-digitale.svg",
+      "relativePath": "wiki/books/il-metodo-bando/assets/chapter-28/07-caso-luca-riordino-digitale.svg",
+      "viewBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1600,
+        "height": 900
+      },
+      "textCount": 18,
+      "issues": []
+    },
+    {
+      "chapter": 29,
+      "module": "R5",
+      "file": "01-mappa-bando-sostenibilita.svg",
+      "relativePath": "wiki/books/il-metodo-bando/assets/chapter-29/01-mappa-bando-sostenibilita.svg",
+      "viewBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1600,
+        "height": 900
+      },
+      "textCount": 21,
+      "issues": []
+    },
+    {
+      "chapter": 29,
+      "module": "R5",
+      "file": "02-scala-energia-studio.svg",
+      "relativePath": "wiki/books/il-metodo-bando/assets/chapter-29/02-scala-energia-studio.svg",
+      "viewBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1600,
+        "height": 900
+      },
+      "textCount": 26,
+      "issues": []
+    },
+    {
+      "chapter": 29,
+      "module": "R5",
+      "file": "03-minimo-efficace.svg",
+      "relativePath": "wiki/books/il-metodo-bando/assets/chapter-29/03-minimo-efficace.svg",
+      "viewBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1600,
+        "height": 900
+      },
+      "textCount": 15,
+      "issues": []
+    },
+    {
+      "chapter": 29,
+      "module": "R5",
+      "file": "04-recuperare-senza-distruggere-piano.svg",
+      "relativePath": "wiki/books/il-metodo-bando/assets/chapter-29/04-recuperare-senza-distruggere-piano.svg",
+      "viewBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1600,
+        "height": 900
+      },
+      "textCount": 11,
+      "issues": []
+    },
+    {
+      "chapter": 29,
+      "module": "R5",
+      "file": "05-ansia-in-procedura.svg",
+      "relativePath": "wiki/books/il-metodo-bando/assets/chapter-29/05-ansia-in-procedura.svg",
+      "viewBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1600,
+        "height": 900
+      },
+      "textCount": 14,
+      "issues": []
+    },
+    {
+      "chapter": 29,
+      "module": "R5",
+      "file": "06-semaforo-sovraccarico.svg",
+      "relativePath": "wiki/books/il-metodo-bando/assets/chapter-29/06-semaforo-sovraccarico.svg",
+      "viewBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1600,
+        "height": 900
+      },
+      "textCount": 15,
+      "issues": []
+    },
+    {
+      "chapter": 29,
+      "module": "R5",
+      "file": "07-caso-sara-piano-sostenibile.svg",
+      "relativePath": "wiki/books/il-metodo-bando/assets/chapter-29/07-caso-sara-piano-sostenibile.svg",
+      "viewBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1600,
+        "height": 900
+      },
+      "textCount": 15,
+      "issues": []
+    },
+    {
+      "chapter": 30,
+      "module": "R6",
+      "file": "01-mappa-bando-dopo-prova.svg",
+      "relativePath": "wiki/books/il-metodo-bando/assets/chapter-30/01-mappa-bando-dopo-prova.svg",
+      "viewBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1600,
+        "height": 900
+      },
+      "textCount": 21,
+      "issues": []
+    },
+    {
+      "chapter": 30,
+      "module": "R6",
+      "file": "02-prime-24-ore.svg",
+      "relativePath": "wiki/books/il-metodo-bando/assets/chapter-30/02-prime-24-ore.svg",
+      "viewBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1600,
+        "height": 900
+      },
+      "textCount": 18,
+      "issues": []
+    },
+    {
+      "chapter": 30,
+      "module": "R6",
+      "file": "03-tre-livelli-esito.svg",
+      "relativePath": "wiki/books/il-metodo-bando/assets/chapter-30/03-tre-livelli-esito.svg",
+      "viewBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1600,
+        "height": 900
+      },
+      "textCount": 18,
+      "issues": []
+    },
+    {
+      "chapter": 30,
+      "module": "R6",
+      "file": "04-cartella-dopo-prova.svg",
+      "relativePath": "wiki/books/il-metodo-bando/assets/chapter-30/04-cartella-dopo-prova.svg",
+      "viewBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1600,
+        "height": 900
+      },
+      "textCount": 24,
+      "issues": []
+    },
+    {
+      "chapter": 30,
+      "module": "R6",
+      "file": "05-graduatoria-accesso-atti.svg",
+      "relativePath": "wiki/books/il-metodo-bando/assets/chapter-30/05-graduatoria-accesso-atti.svg",
+      "viewBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1600,
+        "height": 900
+      },
+      "textCount": 22,
+      "issues": []
+    },
+    {
+      "chapter": 30,
+      "module": "R6",
+      "file": "06-scheda-diario-capitale.svg",
+      "relativePath": "wiki/books/il-metodo-bando/assets/chapter-30/06-scheda-diario-capitale.svg",
+      "viewBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1600,
+        "height": 900
+      },
+      "textCount": 17,
+      "issues": []
+    },
+    {
+      "chapter": 30,
+      "module": "R6",
+      "file": "07-matrice-prossima-mossa.svg",
+      "relativePath": "wiki/books/il-metodo-bando/assets/chapter-30/07-matrice-prossima-mossa.svg",
+      "viewBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1600,
+        "height": 900
+      },
+      "textCount": 19,
+      "issues": []
+    },
+    {
+      "chapter": 31,
+      "module": "R7",
+      "file": "01-mappa-bando-presa-servizio.svg",
+      "relativePath": "wiki/books/il-metodo-bando/assets/chapter-31/01-mappa-bando-presa-servizio.svg",
+      "viewBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1600,
+        "height": 900
+      },
+      "textCount": 21,
+      "issues": []
+    },
+    {
+      "chapter": 31,
+      "module": "R7",
+      "file": "02-dal-concorso-al-ruolo.svg",
+      "relativePath": "wiki/books/il-metodo-bando/assets/chapter-31/02-dal-concorso-al-ruolo.svg",
+      "viewBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1600,
+        "height": 900
+      },
+      "textCount": 24,
+      "issues": []
+    },
+    {
+      "chapter": 31,
+      "module": "R7",
+      "file": "03-cartella-ingresso.svg",
+      "relativePath": "wiki/books/il-metodo-bando/assets/chapter-31/03-cartella-ingresso.svg",
+      "viewBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1600,
+        "height": 900
+      },
+      "textCount": 24,
+      "issues": []
+    },
+    {
+      "chapter": 31,
+      "module": "R7",
+      "file": "04-quattro-livelli-ruolo.svg",
+      "relativePath": "wiki/books/il-metodo-bando/assets/chapter-31/04-quattro-livelli-ruolo.svg",
+      "viewBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1600,
+        "height": 900
+      },
+      "textCount": 16,
+      "issues": []
+    },
+    {
+      "chapter": 31,
+      "module": "R7",
+      "file": "05-codice-comportamento-bussola.svg",
+      "relativePath": "wiki/books/il-metodo-bando/assets/chapter-31/05-codice-comportamento-bussola.svg",
+      "viewBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1600,
+        "height": 900
+      },
+      "textCount": 19,
+      "issues": []
+    },
+    {
+      "chapter": 31,
+      "module": "R7",
+      "file": "06-primi-30-giorni-pa.svg",
+      "relativePath": "wiki/books/il-metodo-bando/assets/chapter-31/06-primi-30-giorni-pa.svg",
+      "viewBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1600,
+        "height": 900
+      },
+      "textCount": 18,
+      "issues": []
+    },
+    {
+      "chapter": 31,
+      "module": "R7",
+      "file": "07-capitale-studio-professionale.svg",
+      "relativePath": "wiki/books/il-metodo-bando/assets/chapter-31/07-capitale-studio-professionale.svg",
+      "viewBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1600,
+        "height": 900
+      },
+      "textCount": 18,
+      "issues": []
+    },
+    {
+      "chapter": 32,
+      "module": "R8",
+      "file": "01-mappa-bando-sistema-personale.svg",
+      "relativePath": "wiki/books/il-metodo-bando/assets/chapter-32/01-mappa-bando-sistema-personale.svg",
+      "viewBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1600,
+        "height": 900
+      },
+      "textCount": 21,
+      "issues": []
+    },
+    {
+      "chapter": 32,
+      "module": "R8",
+      "file": "02-cinque-pagine-vive.svg",
+      "relativePath": "wiki/books/il-metodo-bando/assets/chapter-32/02-cinque-pagine-vive.svg",
+      "viewBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1600,
+        "height": 900
+      },
+      "textCount": 16,
+      "issues": []
+    },
+    {
+      "chapter": 32,
+      "module": "R8",
+      "file": "03-protocollo-15-30-60.svg",
+      "relativePath": "wiki/books/il-metodo-bando/assets/chapter-32/03-protocollo-15-30-60.svg",
+      "viewBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1600,
+        "height": 900
+      },
+      "textCount": 18,
+      "issues": []
+    },
+    {
+      "chapter": 32,
+      "module": "R8",
+      "file": "04-cruscotto-personale.svg",
+      "relativePath": "wiki/books/il-metodo-bando/assets/chapter-32/04-cruscotto-personale.svg",
+      "viewBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1600,
+        "height": 900
+      },
+      "textCount": 22,
+      "issues": []
+    },
+    {
+      "chapter": 32,
+      "module": "R8",
+      "file": "05-mantieni-aggiorna-archivia.svg",
+      "relativePath": "wiki/books/il-metodo-bando/assets/chapter-32/05-mantieni-aggiorna-archivia.svg",
+      "viewBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1600,
+        "height": 900
+      },
+      "textCount": 18,
+      "issues": []
+    },
+    {
+      "chapter": 32,
+      "module": "R8",
+      "file": "06-chiusura-dopo-prova.svg",
+      "relativePath": "wiki/books/il-metodo-bando/assets/chapter-32/06-chiusura-dopo-prova.svg",
+      "viewBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1600,
+        "height": 900
+      },
+      "textCount": 18,
+      "issues": []
+    },
+    {
+      "chapter": 32,
+      "module": "R8",
+      "file": "07-nuovo-bando-apri-metodo.svg",
+      "relativePath": "wiki/books/il-metodo-bando/assets/chapter-32/07-nuovo-bando-apri-metodo.svg",
+      "viewBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1600,
+        "height": 900
+      },
+      "textCount": 27,
+      "issues": []
+    },
+    {
+      "chapter": 33,
+      "module": "R9",
+      "file": "01-mappa-bando-materiali.svg",
+      "relativePath": "wiki/books/il-metodo-bando/assets/chapter-33/01-mappa-bando-materiali.svg",
+      "viewBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1600,
+        "height": 900
+      },
+      "textCount": 21,
+      "issues": []
+    },
+    {
+      "chapter": 33,
+      "module": "R9",
+      "file": "02-prima-bando-poi-materiale.svg",
+      "relativePath": "wiki/books/il-metodo-bando/assets/chapter-33/02-prima-bando-poi-materiale.svg",
+      "viewBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1600,
+        "height": 900
+      },
+      "textCount": 24,
+      "issues": []
+    },
+    {
+      "chapter": 33,
+      "module": "R9",
+      "file": "03-pila-minima-studio.svg",
+      "relativePath": "wiki/books/il-metodo-bando/assets/chapter-33/03-pila-minima-studio.svg",
+      "viewBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1600,
+        "height": 900
+      },
+      "textCount": 17,
+      "issues": []
+    },
+    {
+      "chapter": 33,
+      "module": "R9",
+      "file": "04-scorecard-materiali.svg",
+      "relativePath": "wiki/books/il-metodo-bando/assets/chapter-33/04-scorecard-materiali.svg",
+      "viewBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1600,
+        "height": 900
+      },
+      "textCount": 18,
+      "issues": []
+    },
+    {
+      "chapter": 33,
+      "module": "R9",
+      "file": "05-funzione-rischio-materiali.svg",
+      "relativePath": "wiki/books/il-metodo-bando/assets/chapter-33/05-funzione-rischio-materiali.svg",
+      "viewBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1600,
+        "height": 900
+      },
+      "textCount": 22,
+      "issues": []
+    },
+    {
+      "chapter": 33,
+      "module": "R9",
+      "file": "06-banca-dati-ufficiale-non-ufficiale.svg",
+      "relativePath": "wiki/books/il-metodo-bando/assets/chapter-33/06-banca-dati-ufficiale-non-ufficiale.svg",
+      "viewBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1600,
+        "height": 900
+      },
+      "textCount": 16,
+      "issues": []
+    },
+    {
+      "chapter": 33,
+      "module": "R9",
+      "file": "07-decisione-materiali.svg",
+      "relativePath": "wiki/books/il-metodo-bando/assets/chapter-33/07-decisione-materiali.svg",
+      "viewBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1600,
+        "height": 900
+      },
+      "textCount": 18,
+      "issues": []
+    }
+  ],
+  "contactSheets": [
+    "artifacts/ricettario-image-audit/contact-r1-r4.png",
+    "artifacts/ricettario-image-audit/contact-r5-r8.png",
+    "artifacts/ricettario-image-audit/contact-r9-r12.png",
+    "artifacts/ricettario-image-audit/contact-r13-r16.png",
+    "artifacts/ricettario-image-audit/contact-r17-r20.png",
+    "artifacts/ricettario-image-audit/contact-r21-r23.png"
+  ]
+}

@@ -1991,3 +1991,28 @@
 - l0: l0/conv-20260726170216-1teh099.md
 - atoms:
   - mem-20260726170216-1u9e4fx | result | Esito ricettario-layout-audit: R22 ha immagini consecutive e alcuni esercizi sono formattati male; controlla tutto il Ricettario. -> Corretti R15-R23: immagini redistribuite nelle sezioni didattiche.
+
+## 2026-07-27T10:47:57.394Z - book:il-metodo-bando:design
+
+- conversation_id: conv-20260727104757-1c3ky3g
+- route: skill-installation
+- l0: l0/conv-20260727104757-1c3ky3g.md
+- atoms:
+  - mem-20260727104757-wj8ooo | result | Esito skill-installation: Aggiungi canvas-design al progetto per la revisione e l'ottimizzazione delle immagini. -> Aggiunta la skill condivisa .agents/skills/canvas-design/SKILL.md e registrato il suo uso in wiki/AGENTS.md: filosofia visiva, output PNG/PDF, audit Book Studio, controllo di overflow e tabelle stampabili.
+
+## 2026-07-27T11:19:51.723Z - book:il-metodo-bando:ricettario
+
+- conversation_id: conv-20260727111951-uqr8sg
+- route: codex/ricettario-image-review
+- l0: l0/conv-20260727111951-uqr8sg.md
+- atoms:
+  - mem-20260727111951-14o30t3 | result | Esito codex/ricettario-image-review: Attiva canvas-design e revisiona tutte le immagini del Ricettario: voci, rettangoli, sovrapposizioni e allineamenti devono essere perfetti. -> Completato audit di 161 immagini R1-R23.
+
+## 2026-07-27T11:50:44.746Z - book:il-metodo-bando:ricettario
+
+- conversation_id: conv-20260727115044-3p18bi
+- route: codex/ricettario-workbook-table-fix
+- l0: l0/conv-20260727115044-3p18bi.md
+- atoms:
+  - mem-20260727115044-1he47al | project_fact | Nel Ricettario diverse tabelle mostrano pipe e righe |---| come testo non formattato, per esempio Fonte controllata e Cosa aggiorno oggi.
+  - mem-20260727115044-t31tw8 | result | Esito codex/ricettario-workbook-table-fix: Nel Ricettario diverse tabelle mostrano pipe e righe |---| come testo non formattato, per esempio Fonte controllata e Cosa aggiorno oggi. -> Corretto il parser Book Studio: le righe vuote intenzionali delle schede workbook vengono ora preservate come celle compilabili.
