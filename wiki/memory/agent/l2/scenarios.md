@@ -2025,3 +2025,11 @@
 - atoms:
   - mem-20260727125934-rxrmvh | instruction | Servono i prompt in ordine cronologico da fornire allo staff per applicare a tutti i volumi il processo di completamento e pubblicabilità usato sul Volume 1.
   - mem-20260727125934-bp4yxm | result | Esito codex/staff-editorial-prompts: Servono i prompt in ordine cronologico da fornire allo staff per applicare a tutti i volumi il processo di completamento e pubblicabilità usato sul Volume 1. -> Creato il template canonico wiki/templates/prompt-staff-revisione-completa-volumi.md con 25 prompt e 25 gate: presa in carico, raccolta e consolidamento contributi, riconciliazione catalogo, perimetro, bandi, fonti, m...
+
+## 2026-07-27T15:08:27.185Z - catalog-governance
+
+- conversation_id: conv-20260727150827-hyd8z4
+- route: codex/catalog-coherence-audit
+- l0: l0/conv-20260727150827-hyd8z4.md
+- atoms:
+  - mem-20260727150827-xvae26 | result | Esito codex/catalog-coherence-audit: Verificare la coerenza tra text-volumes.ts, architettura canonica, cartelle reali e frontmatter dei moduli; mantenere 12 volumi e 25 moduli; applicare solo correzioni catalogo non ambigue secondo la copertura v4. -> Audit completato: 25 cartelle modulo, 25 index e 54 capitoli coerenti.

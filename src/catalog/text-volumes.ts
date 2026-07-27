@@ -48,18 +48,25 @@ export const TEXT_VOLUME_CATALOG: TextVolume[] = [
   },
   {
     code: "VOL-03",
-    title: "Fisco, Dogane, Previdenza e Ispettivo",
-    shortTitle: "Fisco e previdenza",
+    title: "Funzioni centrali, Fisco, Previdenza e Ispettivo",
+    shortTitle: "Funzioni centrali e fisco",
     tier: "standard",
     launchWave: "first",
-    modules: ["M-FC02", "M-FC03"],
+    modules: ["M-FC01", "M-FC02", "M-FC03"],
     bookIds: [
+      "moduli/m-fc01-ministeri",
       "moduli/m-fc02-agenzie-fiscali",
       "moduli/m-fc03-enti-non-economici"
     ],
-    audience: "Agenzie fiscali, riscossione, INPS, INAIL ed enti pubblici non economici",
-    promise: "Percorso specialistico fiscale, doganale, previdenziale e ispettivo.",
-    verticals: ["ADM dogane e accise", "Tecniche ispettive INPS/INAIL", "Previdenza e servizi EPNE"]
+    audience:
+      "Ministeri, PCM, Avvocatura dello Stato, Agenzie fiscali, riscossione, INPS, INAIL ed enti pubblici non economici",
+    promise: "Percorso specialistico per funzioni centrali generaliste, fisco, dogane, previdenza e ispettivo.",
+    verticals: [
+      "Ministeri, PCM e Avvocatura dello Stato",
+      "ADM dogane e accise",
+      "Tecniche ispettive INPS/INAIL",
+      "Previdenza e servizi EPNE"
+    ]
   },
   {
     code: "VOL-04",
