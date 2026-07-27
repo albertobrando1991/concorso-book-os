@@ -205,6 +205,40 @@ L'agente della riscossione gestisce la riscossione. Non sempre puo' decidere sul
 
 Questa distinzione protegge tutti: il debitore, perche' viene indirizzato verso il canale corretto; l'ufficio, perche' non promette cio' che non puo' fare; l'interesse pubblico, perche' evita soluzioni improvvisate.
 
+### Misure cautelari ed esecuzione forzata
+
+Se il debito non viene pagato e non opera una causa di sospensione, AdER puo' avviare le attivita' previste per il recupero. Il sistema distingue misure cautelari, che proteggono la possibilita' di riscossione, e procedure esecutive, dirette a soddisfare il credito sul patrimonio del debitore.
+
+Le misure cautelari non servono a punire il debitore: conservano la garanzia patrimoniale del credito quando ricorrono i presupposti di legge. Le procedure esecutive intervengono invece quando la riscossione deve tradursi in un prelievo forzoso nei limiti consentiti dal titolo e dalle notifiche effettuate. Per il candidato cambia il momento procedurale, cambia il bene coinvolto e cambia la risposta da dare all'utente.
+
+Tra gli istituti piu' ricorrenti figurano fermo amministrativo, ipoteca e pignoramento. Non basta memorizzarne i nomi. Per ciascuno occorre associare presupposto, bene interessato, comunicazioni preventive, limiti e rimedi. Soglie quantitative ed esclusioni sono mobili e vanno verificate sul testo vigente.
+
+| Istituto | Funzione pratica | Cosa colpisce | Errore da evitare |
+|---|---|---|---|
+| Fermo amministrativo | Limita la disponibilita' del veicolo secondo la disciplina applicabile | Beni mobili registrati | Pensare che coincida sempre con il pignoramento |
+| Ipoteca | Rafforza la garanzia sul bene immobile secondo i presupposti di legge | Immobili | Confonderla con la vendita forzata |
+| Pignoramento | Avvia la fase esecutiva sui beni o sui crediti del debitore | Beni mobili, immobili o crediti | Trattarlo come semplice sollecito di pagamento |
+
+La sequenza concorsuale da ricordare e': atto, notifica, decorso del termine quando richiesto, eventuale pagamento o tutela e, solo dopo, le misure previste. Prima di trattare la pratica l'addetto verifica notifiche, termini, pagamenti, sospensioni e vincoli. L'azione deve restare tracciabile, proporzionata e conforme alla sequenza legale.
+
+#### Cosa deve saper dire il candidato
+
+- Le misure cautelari tutelano la futura riscossione.
+- Le procedure esecutive servono al recupero coattivo vero e proprio.
+- Non ogni atto di AdER apre subito l'esecuzione.
+- Prima di applicare una misura occorre verificare notifica, termini, importi e cause ostative.
+- La risposta all'utenza deve distinguere informazione, preavviso, misura e rimedio.
+
+#### Caso guidato
+
+Un contribuente riceve un preavviso relativo a un veicolo e sostiene che, avendo appena presentato una domanda di rateizzazione, non possa piu' accadere nulla. L'operatore non offre una risposta automatica: verifica stato della richiesta, posizione del carico, eventuali effetti sospensivi e disciplina applicabile. Solo dopo chiarisce se il procedimento puo' proseguire, e' sospeso o deve essere rielaborato.
+
+#### Domanda-trappola
+
+**Le misure cautelari e le procedure esecutive sono la stessa cosa?**
+
+No. Le prime preservano la garanzia del credito; le seconde realizzano il recupero coattivo secondo la procedura prevista. Confonderle significa perdere la sequenza logica della riscossione.
+
 ### AdER come contesto di lavoro
 
 Nei concorsi AdER la riscossione non e' solo materia giuridica. E' un ambiente di lavoro.
