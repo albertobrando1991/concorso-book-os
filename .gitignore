@@ -22,6 +22,9 @@ wiki/**/*.base
 wiki/raw/manuals/*z-library*.pdf
 wiki/raw/manuals/*z-lib*.pdf
 
+# pipeline: prompt renderizzati e report intermedi (il run-state in pipeline/ resta versionato)
+artifacts/pipeline/
+
 # local tool state / transient outputs
 debug.log
 mcps/
