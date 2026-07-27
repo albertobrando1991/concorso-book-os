@@ -59,7 +59,7 @@ Agenzia delle entrate-Riscossione e' un ente pubblico economico istituito dall'a
 
 La qualificazione conta. AdER non e' una direzione interna dell'Agenzia delle Entrate e non e' una delle agenzie fiscali disciplinate dal D.Lgs. 300/1999 nello stesso senso di AE e ADM. E' un ente strumentale distinto, con propri organi e una specifica missione istituzionale. Il Direttore coincide con il Direttore dell'Agenzia delle Entrate; completano la governance il Comitato di gestione e il Collegio dei revisori dei conti.
 
-L'espressione Â«riscossione nazionaleÂ» indica una funzione esercitata per crediti affidati da amministrazioni ed enti diversi. Dietro una cartella puo esserci un tributo erariale, un'entrata locale, una sanzione amministrativa o un'altra entrata prevista dalla legge. Per questo l'operatore deve sempre leggere il campo relativo all'ente creditore: la natura del credito orienta competenza, tutela e autorita cui rivolgere la contestazione.
+L'espressione "riscossione nazionale" indica una funzione esercitata per crediti affidati da amministrazioni ed enti diversi. Dietro una cartella puo esserci un tributo erariale, un'entrata locale, una sanzione amministrativa o un'altra entrata prevista dalla legge. Per questo l'operatore deve sempre leggere il campo relativo all'ente creditore: la natura del credito orienta competenza, tutela e autorita cui rivolgere la contestazione.
 
 ## 2. Accertamento e riscossione: la separazione essenziale
 
@@ -90,9 +90,9 @@ Il pagamento chiude o riduce la posizione per la parte versata. AdER riversa le 
 
 Non tutti i crediti passano attraverso una cartella. Per gli atti ai quali la legge attribuisce efficacia esecutiva, l'avviso contiene gia l'intimazione a pagare e diventa titolo per la riscossione dopo i passaggi previsti. L'ente creditore affida quindi il carico ad AdER senza una successiva iscrizione a ruolo seguita da cartella.
 
-L'avviso di presa in carico informa il debitore che AdER ha ricevuto il carico. Non e' un nuovo accertamento e non sostituisce l'atto originario. In sede concorsuale conviene usare una formula netta: Â«cartella e accertamento esecutivo sono due percorsi di formazione della pretesa esecutiva; non sono due atti consecutivi necessari per lo stesso creditoÂ».
+L'avviso di presa in carico informa il debitore che AdER ha ricevuto il carico. Non e' un nuovo accertamento e non sostituisce l'atto originario. In sede concorsuale conviene usare una formula netta: "cartella e accertamento esecutivo sono due percorsi di formazione della pretesa esecutiva; non sono due atti consecutivi necessari per lo stesso credito".
 
-La prima domanda al front-office deve quindi essere: quale atto ha ricevuto l'utente? Leggere solo la parola Â«AgenziaÂ» o l'importo porta facilmente a fornire informazioni riferite al procedimento sbagliato.
+La prima domanda al front-office deve quindi essere: quale atto ha ricevuto l'utente? Leggere solo la parola "Agenzia" o l'importo porta facilmente a fornire informazioni riferite al procedimento sbagliato.
 
 ## 5. Rateizzazione: pagare nel tempo senza cancellare il debito
 
@@ -103,7 +103,7 @@ L'art. 19 del D.P.R. 602/1973 e' la disposizione centrale. Il D.Lgs. 110/2024 ha
 > **Dato mobile 2026**
 > Soglie, numero di rate e cause di decadenza devono essere verificate alla data del bando. Il candidato deve conoscere il meccanismo e poi aggiornare i valori sul portale AdER e sul testo vigente dell'art. 19.
 
-Nel lavoro d'ufficio occorre controllare quali carichi sono compresi nella domanda, se la competenza alla dilazione spetta ad AdER, quale documentazione sia necessaria e se esistano piani precedenti. Una risposta generica come Â«puo sempre rateizzareÂ» e' scorretta: la decisione dipende dalla disciplina vigente e dalla posizione concreta.
+Nel lavoro d'ufficio occorre controllare quali carichi sono compresi nella domanda, se la competenza alla dilazione spetta ad AdER, quale documentazione sia necessaria e se esistano piani precedenti. Una risposta generica come "puo sempre rateizzare" e' scorretta: la decisione dipende dalla disciplina vigente e dalla posizione concreta.
 
 ## 6. Sospensione, sgravio e ricorso non sono sinonimi
 
@@ -119,9 +119,39 @@ La sospensione amministrativa puo inoltre derivare da un provvedimento dell'ente
 
 Se il debito non viene pagato e non opera una causa di sospensione, AdER puo avviare le attivita previste per il recupero. Il sistema distingue misure cautelari, che proteggono la possibilita di riscossione, e procedure esecutive, dirette a soddisfare il credito sul patrimonio del debitore.
 
+Le misure cautelari non servono a punire il debitore: servono a conservare la garanzia patrimoniale del credito quando ricorrono i presupposti di legge. Le procedure esecutive, invece, intervengono quando la riscossione deve tradursi in un prelievo forzoso nei limiti consentiti dal titolo e dalle notifiche effettuate. Per il candidato la distinzione non e' solo teorica: cambia il momento procedurale, cambia il bene coinvolto e cambia la risposta da dare all'utente.
+
 Tra gli istituti piu ricorrenti nello studio figurano fermo amministrativo, ipoteca e pignoramento. Non basta memorizzarne i nomi. Per ciascuno occorre associare presupposto, bene interessato, comunicazioni preventive, limiti e rimedi. Le soglie quantitative e le esclusioni sono soggette a modifiche: vanno studiate sul testo vigente, non su riassunti non datati.
 
+| Istituto | Funzione pratica | Cosa colpisce | Errore da evitare |
+|---|---|---|---|
+| Fermo amministrativo | Impedisce la libera disponibilita del veicolo fino alla regolarizzazione o alla definizione del debito | Beni mobili registrati | Pensare che coincida sempre con il pignoramento |
+| Ipoteca | Rafforza la garanzia sul bene immobile secondo i presupposti di legge | Immobili | Confonderla con la vendita forzata |
+| Pignoramento | Avvia la fase esecutiva sui beni o sui crediti del debitore | Beni mobili, immobili o crediti | Trattarlo come semplice sollecito di pagamento |
+
+La sequenza concorsuale da ricordare e' questa: atto, notifica, eventuale decorso del termine, eventuale pagamento o tutela, e solo dopo le misure successive previste. Se manca un passaggio, la risposta non puo saltare direttamente alla misura piu forte. Il candidato deve quindi domandarsi: il debito e' certo nei limiti della procedura? Il termine e' decorso? Esistono sospensioni, rateazioni o contestazioni che incidono sul corso della riscossione?
+
 Il principio operativo e' che l'azione di riscossione deve restare tracciabile, proporzionata e conforme alla sequenza legale. L'addetto verifica notifiche, decorso dei termini, pagamenti, sospensioni e vincoli prima di trattare la pratica. Una procedura basata su dati incompleti produce costi per l'ente e un danno immediato per il cittadino.
+
+### Cosa deve saper dire il candidato
+
+In un orale il candidato deve saper spiegare che:
+
+- le misure cautelari tutelano la futura riscossione;
+- le procedure esecutive servono al recupero coattivo vero e proprio;
+- non ogni atto di AdER apre subito l'esecuzione;
+- prima di applicare una misura occorre verificare notifica, termini, importi e cause ostative;
+- la risposta all'utenza deve distinguere informazione, preavviso, misura e rimedio.
+
+### Caso guidato
+
+Un contribuente riceve un preavviso relativo a un veicolo e sostiene che, avendo appena presentato una domanda di rateizzazione, "non puo piu succedere nulla". L'operatore non deve dare una risposta automatica. Prima verifica lo stato della richiesta, la posizione del carico, gli eventuali effetti sospensivi e la disciplina applicabile alla fattispecie. Solo dopo chiarisce se il procedimento cautelare puo proseguire, se e' sospeso o se deve essere rielaborato.
+
+### Domanda-trappola
+
+**Le misure cautelari e le procedure esecutive sono la stessa cosa?**
+
+No. Le prime servono a preservare la garanzia del credito; le seconde realizzano il recupero coattivo secondo la procedura prevista. Mescolarle significa perdere la sequenza logica della riscossione e rischiare una risposta errata al commissario.
 
 ## 8. Il lavoro in AdER: pratica, servizio e responsabilita
 
@@ -140,7 +170,7 @@ AdER, quale ente pubblico economico, adotta regole proprie per selezione e gesti
 - comunicazione chiara anche in situazioni conflittuali;
 - tutela della riservatezza e accesso ai soli dati necessari;
 - tracciatura delle operazioni e gestione ordinata dei documenti;
-- capacitÃ  di distinguere informazione, istruttoria e decisione.
+- capacita di distinguere informazione, istruttoria e decisione.
 
 ## 9. Front-office: una checklist che evita errori
 
@@ -159,7 +189,7 @@ Una comunicazione corretta non usa formule evasive. Se il cittadino e' davanti a
 
 ## Caso guidato: cartella per una somma gia pagata
 
-Una cittadina presenta una cartella relativa a una sanzione comunale e mostra una ricevuta di pagamento anteriore alla formazione del ruolo. Chiede all'operatore AdER di Â«cancellare subito la multaÂ».
+Una cittadina presenta una cartella relativa a una sanzione comunale e mostra una ricevuta di pagamento anteriore alla formazione del ruolo. Chiede all'operatore AdER di "cancellare subito la multa".
 
 **1. Classificazione.** La contestazione riguarda il permanere del credito, ma la documentazione indica uno dei casi che possono fondare la sospensione legale.
 
