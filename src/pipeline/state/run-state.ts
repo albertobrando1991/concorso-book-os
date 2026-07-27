@@ -118,54 +118,76 @@ export function blockedSteps(state: RunState) {
   return state.steps.filter((step) => step.status === "blocked")
 }
 
-export function mergeRunStates(local: RunState, remote: RunState): MergeResult {
+export function mergeRunStates(base: RunState, local: RunState, remote: RunState): MergeResult {
   if (local.volumeCode !== remote.volumeCode) {
     throw new Error(`Impossibile unire run-state di volumi diversi: ${local.volumeCode} e ${remote.volumeCode}.`)
   }
 
+  const baseByKey = new Map(base.steps.map((step) => [step.key, step]))
+  const localByKey = new Map(local.steps.map((step) => [step.key, step]))
   const remoteByKey = new Map(remote.steps.map((step) => [step.key, step]))
+  const keys = new Set([...localByKey.keys(), ...remoteByKey.keys()])
   const conflicts: MergeResult["conflicts"] = []
-  const steps = local.steps.map((step) => {
-    const other = remoteByKey.get(step.key)
-    remoteByKey.delete(step.key)
+  const steps: StepRecord[] = []
 
-    if (!other) return step
+  for (const key of keys) {
+    const localStep = localByKey.get(key)
+    const remoteStep = remoteByKey.get(key)
 
-    const reason = describeConflict(step, other)
+    if (!localStep) {
+      if (remoteStep) steps.push(remoteStep)
+      continue
+    }
 
-    if (reason) conflicts.push({ key: step.key, reason })
+    if (!remoteStep) {
+      steps.push(localStep)
+      continue
+    }
 
-    return preferred(step, other)
-  })
+    if (sameStep(localStep, remoteStep)) {
+      steps.push(localStep)
+      continue
+    }
+
+    const baseStep = baseByKey.get(key)
+
+    if (baseStep && sameStep(localStep, baseStep)) {
+      steps.push(remoteStep)
+      continue
+    }
+
+    if (baseStep && sameStep(remoteStep, baseStep)) {
+      steps.push(localStep)
+      continue
+    }
+
+    const reason = describeConflict(localStep, remoteStep)
+
+    if (reason) conflicts.push({ key, reason })
+
+    steps.push(preferred(localStep, remoteStep))
+  }
 
   return {
     state: {
       ...local,
       updatedAt: local.updatedAt > remote.updatedAt ? local.updatedAt : remote.updatedAt,
-      steps: [...steps, ...remoteByKey.values()]
+      steps
     },
     conflicts
   }
 }
 
+function sameStep(a: StepRecord, b: StepRecord) {
+  return JSON.stringify(a) === JSON.stringify(b)
+}
+
 function describeConflict(local: StepRecord, remote: StepRecord) {
-  if (isTerminal(local.status) && isTerminal(remote.status) && local.status !== remote.status) {
-    return `esiti diversi: ${local.owner ?? "?"} ha chiuso come ${local.status}, ${remote.owner ?? "?"} come ${remote.status}.`
+  if (local.owner && remote.owner && local.owner !== remote.owner) {
+    return `${local.owner} ha portato lo step a "${local.status}", ${remote.owner} a "${remote.status}": due persone hanno lavorato sullo stesso step con esiti diversi, decidi quale tenere.`
   }
 
-  if (local.status === "done" && remote.status === "blocked") {
-    return `${local.owner ?? "?"} ha chiuso lo step, ${remote.owner ?? "?"} lo ha lasciato bloccato: verificare quale gate è valido.`
-  }
-
-  if (remote.status === "done" && local.status === "blocked") {
-    return `${remote.owner ?? "?"} ha chiuso lo step, ${local.owner ?? "?"} lo ha lasciato bloccato: verificare quale gate è valido.`
-  }
-
-  if (local.status === "in-progress" && remote.status === "in-progress" && local.owner !== remote.owner) {
-    return `lo step è in carico a ${local.owner ?? "?"} e a ${remote.owner ?? "?"} contemporaneamente.`
-  }
-
-  return ""
+  return `Due versioni divergenti dello stesso step (nessuna coincide con la base comune): confronta manualmente ${JSON.stringify(local)} e ${JSON.stringify(remote)}.`
 }
 
 function preferred(local: StepRecord, remote: StepRecord) {

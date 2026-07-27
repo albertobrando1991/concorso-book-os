@@ -111,32 +111,42 @@ describe("nextStep", () => {
 })
 
 describe("mergeRunStates", () => {
+  const base = state
   const done = (value: RunState, id: string, owner: string) =>
     completeStep(startStep(value, stepKey(id, chapter), { owner, agent: "codex-cli", now }), stepKey(id, chapter), { gate: { passed: true, blockers: [], warnings: [] }, now: later })
 
-  it("keeps the more advanced record for each step", () => {
-    const merged = mergeRunStates(done(state(), "08", "a"), done(state(), "09", "b"))
+  it("keeps the more advanced record for each step when both changed different steps", () => {
+    const merged = mergeRunStates(base(), done(base(), "08", "a"), done(base(), "09", "b"))
     expect([statusOf(merged.state, "08"), statusOf(merged.state, "09"), statusOf(merged.state, "10")]).toEqual(["done", "done", "pending"])
     expect(merged.conflicts).toEqual([])
   })
   it("reports a conflict when both sides finished the same step differently", () => {
-    const mine = done(state(), "08", "a")
-    const theirs = completeStep(startStep(state(), stepKey("08", chapter), { owner: "b", agent: "claude-code", now }), stepKey("08", chapter), {
+    const mine = done(base(), "08", "a")
+    const theirs = completeStep(startStep(base(), stepKey("08", chapter), { owner: "b", agent: "claude-code", now }), stepKey("08", chapter), {
       gate: { passed: false, blockers: [{ code: "x", message: "y" }], warnings: [] },
       now: later
     })
-    expect(mergeRunStates(mine, theirs).conflicts.map((conflict) => conflict.key)).toEqual([stepKey("08", chapter)])
+    expect(mergeRunStates(base(), mine, theirs).conflicts.map((conflict) => conflict.key)).toEqual([stepKey("08", chapter)])
   })
   it("reports a conflict when two people hold the same step", () => {
-    const mine = startStep(state(), stepKey("08", chapter), { owner: "a", agent: "codex-cli", now })
-    const theirs = startStep(state(), stepKey("08", chapter), { owner: "b", agent: "claude-code", now })
-    expect(mergeRunStates(mine, theirs).conflicts[0]).toMatchObject({ key: stepKey("08", chapter), reason: expect.stringContaining("a") })
+    const mine = startStep(base(), stepKey("08", chapter), { owner: "a", agent: "codex-cli", now })
+    const theirs = startStep(base(), stepKey("08", chapter), { owner: "b", agent: "claude-code", now })
+    expect(mergeRunStates(base(), mine, theirs).conflicts[0]).toMatchObject({ key: stepKey("08", chapter), reason: expect.stringContaining("a") })
+  })
+  it("does NOT report a conflict when only one side actually touched the step", () => {
+    const withOwner = startStep(base(), stepKey("08", chapter), { owner: "alber", agent: "codex-cli", now })
+    const mine = startStep(withOwner, stepKey("08", chapter), { owner: "alice", agent: "codex-cli", now: later, force: true })
+    const theirs = withOwner // never touched again: identical to the common ancestor for this step
+    const merged = mergeRunStates(withOwner, mine, theirs)
+    expect(merged.conflicts).toEqual([])
+    expect(statusOf(merged.state, "08")).toBe("in-progress")
+    expect(merged.state.steps.find((step) => step.id === "08")?.owner).toBe("alice")
   })
   it("adds steps present only on the other side", () => {
-    const theirs = { ...state(), steps: [...state().steps, { ...draft("11"), status: "pending" as const, attempts: 0, evidence: [] }] }
-    expect(mergeRunStates(state(), theirs).state.steps).toHaveLength(4)
+    const theirs = { ...base(), steps: [...base().steps, { ...draft("11"), status: "pending" as const, attempts: 0, evidence: [] }] }
+    expect(mergeRunStates(base(), base(), theirs).state.steps).toHaveLength(4)
   })
   it("refuses to merge run states of different volumes", () => {
-    expect(() => mergeRunStates(state(), { ...state(), volumeCode: "VOL-09" })).toThrow(/VOL-09/)
+    expect(() => mergeRunStates(base(), base(), { ...base(), volumeCode: "VOL-09" })).toThrow(/VOL-09/)
   })
 })

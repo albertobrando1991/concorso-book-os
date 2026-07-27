@@ -29,7 +29,7 @@ Aggiungi `--json` a qualunque comando per ottenere l'esito strutturato invece de
 ## Regole non negoziabili
 
 - Non saltare un gate. Non chiudere uno step il cui gate non è passato.
-- Non modificare a mano `pipeline/<VOL>/run-state.json`: è stato condiviso e versionato.
+- Non modificare a mano `pipeline/<VOL>/run-state.json`: è stato condiviso e versionato. Un merge driver dedicato lo unisce per-step a ogni `git pull`; se compaiono marcatori `<<<<<<< HEAD / ======= / >>>>>>> incoming`, è un vero conflitto (due persone sullo stesso step) — risolvilo leggendo entrambi i blocchi, non sceglierne uno alla cieca.
 - Se uno step è in carico a un'altra persona, `next` lo rifiuta. Subentra con `--force` solo dopo esserti accordato.
 - `--accept` chiude uno step il cui gate non è ancora automatizzato e richiede `--note` con la motivazione. Usalo solo dopo aver eseguito la verifica a mano.
 - Vale tutto ciò che impone `AGENTS.md` e `wiki/AGENTS.md`: niente testo finale da `raw/`, nessuna norma o data inventata, nessun contenuto dichiarato completo con nuclei parziali.

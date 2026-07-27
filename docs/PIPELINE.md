@@ -44,6 +44,46 @@ Il run-state vive in `pipeline/<VOL>/run-state.json` ed è **versionato in git**
 
 Ogni step registra `owner` e `agent`. `next` rifiuta uno step già in carico ad altri; `--force` serve a subentrare dopo essersi accordati. Dopo un `git pull`, `sync` riallinea il piano alla scheda e segnala gli step spariti che non erano in stato `pending`.
 
+### Se due persone lavorano sullo stesso volume
+
+Il primo argine è la scelta stessa dei target: ogni step è identificato da `id:capitolo` (es. `09:moduli/m-fc02-agenzie-fiscali/chapters/01-perimetro.md`). Due persone su **capitoli diversi** dello stesso volume non si scontrano mai: sono chiavi diverse nel run-state.
+
+Il secondo argine è il lock applicativo: `next` rifiuta di assegnare uno step già `in-progress` a un altro owner (vedi sopra). Ma questo lock vale solo finché entrambi lavorano sullo stesso file locale — se due persone fanno `next` su macchine diverse **prima** di essersi allineate via `git pull`, possono entrambe reclamare lo stesso capitolo in locale senza saperlo. È esattamente il caso che il terzo argine copre.
+
+Il terzo argine è un **merge driver Git dedicato** su `pipeline/*/run-state.json` (dichiarato in `.gitattributes`, registrato automaticamente da `pipeline doctor` la prima volta che lo esegui). Quando fai `git pull`/`git merge` e quel file è cambiato su entrambi i lati, Git non usa il merge testuale grezzo (che produrrebbe marcatori `<<<<<<<` in mezzo a un oggetto JSON, illeggibili e rischiosi): usa la logica di `runMergeDriver`, che ragiona per singolo step, confrontando anche la base comune:
+
+- **Step diversi cambiati da persone diverse** → uniti automaticamente, nessun conflitto, nessun avanzamento perso.
+- **Stesso step, ma una delle due parti non lo ha mai toccato** (è rimasto identico alla base comune) → si prende senza conflitto la versione di chi lo ha effettivamente lavorato.
+- **Stesso step, cambiato in modo diverso da entrambi** (es. alice lo ha preso in carico, bruno lo ha completato e bloccato) → **conflitto esplicito**: il file resta con marcatori `<<<<<<< HEAD` / `=======` / `>>>>>>> incoming` attorno alle due versioni JSON complete, e Git stampa in chiaro quale step, quali owner, quali esiti. Va risolto a mano: decidi quale versione tenere (o accordati con l'altra persona), rimuovi i marcatori, `git add pipeline/<VOL>/run-state.json`, poi continua il merge (`git commit`).
+
+Questo meccanismo non tocca i **file dei capitoli** (`wiki/books/.../chapters/*.md`): se due persone scrivono davvero lo stesso capitolo in prosa senza rispettare il lock del `next`, quello resta un normale conflitto di testo Git, da risolvere come qualunque conflitto di contenuto — motivo in più per non bypassare mai `next`/`--force` senza essersi prima accordati.
+
+### Allinearsi al lavoro degli altri, a ogni sessione
+
+Più persone (e agenti) commettono direttamente su `main`. Prima di iniziare a lavorare:
+
+```
+git pull
+npm ci                              # solo se package.json/package-lock.json sono cambiati
+npm run pipeline -- doctor          # se qualcosa nell'ambiente è cambiato
+npm run pipeline -- sync VOL-03     # se lavori su un volume: riallinea il run-state alla scheda
+npm run pipeline -- status VOL-03   # vedi chi ha in carico cosa
+```
+
+**Se `git pull` va in conflitto**, quasi sempre è sui file append-only condivisi da tutti — `wiki/log.md` e i tre file in `wiki/memory/agent/` (`l0/conversations.jsonl`, `l1/atoms.jsonl`, `l2/scenarios.md`) — perché due sessioni hanno scritto in coda nello stesso punto nello stesso momento. Non è un vero conflitto di contenuto: è un doppio append. La regola di risoluzione è sempre la stessa:
+
+1. **Tieni entrambe le appendici.** Mai cancellare o riscrivere una riga esistente, mai scegliere "la mia versione" scartando l'altra.
+2. Per i `.jsonl`, verifica che ogni riga resti JSON valido dopo la risoluzione (una virgola o una parentesi di troppo rompe silenziosamente `LocalAgentMemory`).
+3. Prima di chiudere il merge:
+   ```
+   git diff --cached --check
+   npm test
+   npm run typecheck
+   ```
+4. Solo dopo, `git commit` (senza `--no-edit` se vuoi rivedere il messaggio) e `git push`.
+
+Se il conflitto coinvolge `pipeline/<VOL>/run-state.json`, non lo vedrai quasi mai come marker JSON grezzi in mezzo a un oggetto: il merge driver dedicato (sezione successiva) lo risolve da solo quando le persone hanno lavorato su step diversi, e lo segnala in modo leggibile — step, owner, esiti — solo quando è un vero conflitto sullo stesso step. Dopo aver risolto (o quando il merge è passato pulito), esegui comunque `npm run pipeline -- sync VOL-03`: non serve a fondere conflitti, ma riallinea l'elenco degli step alla scheda se nel frattempo qualcuno ha aggiunto o tolto moduli/capitoli.
+
 ## Fasi e gate
 
 | Fase | Step | Stato |
