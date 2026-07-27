@@ -6,7 +6,7 @@ status: revised_draft
 domain: "concorsi pubblici italiani"
 topics: ["agenzie fiscali","profili concorsuali","moduli specialistici","bando decoder fiscale"]
 entities: ["Agenzia delle Entrate","Agenzia delle Dogane e dei Monopoli","Agenzia delle Entrate-Riscossione"]
-source_refs: ["sources/m-fc02-dossier-redazionale-agenzie-fiscali.md","sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026.md","sources/agenzie-fiscali-organizzazione-ae-adm-ader.md","sources/d-lgs-30-luglio-1999-n-300-organizzazione-governo.md"]
+source_refs: ["sources/m-fc02-dossier-redazionale-agenzie-fiscali.md","sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026.md","sources/agenzie-fiscali-organizzazione-ae-adm-ader.md","sources/d-lgs-30-luglio-1999-n-300-organizzazione-governo.md","sources/riscossione-agenzia-entrate-riscossione-m-fc02.md","sources/m-fc02-corpus-ufficiale-integrativo-2026-07-17.md"]
 book_refs: ["m-fc02-agenzie-fiscali","il-metodo-bando"]
 asset_refs:
   - "books/moduli/m-fc02-agenzie-fiscali/assets/chapter-01/01-mappa-bando-agenzie-fiscali.png"
@@ -14,18 +14,18 @@ asset_refs:
   - "books/moduli/m-fc02-agenzie-fiscali/assets/chapter-01/03-tre-porte-ae-adm-ader.png"
   - "books/moduli/m-fc02-agenzie-fiscali/assets/chapter-01/04-nucleo-comune-delta-fiscale.png"
   - "books/moduli/m-fc02-agenzie-fiscali/assets/chapter-01/05-bando-decoder-fiscale.png"
-confidence: 0.88
-updated_at: 2026-07-02T19:35:15+02:00
+confidence: 0.94
+updated_at: 2026-07-17T21:10:00+02:00
 created_at: 2026-07-01T21:00:00+02:00
 review_required: true
 canonical: true
 tags: ["book-chapter","module-code-m-fc02","professional-draft","revised-draft","illustrated"]
 book_id: m-fc02-agenzie-fiscali
 outline_section: 1
-draft_stage: professional-draft
+draft_stage: revised-editorial-draft
 module_code: M-FC02
 module_family: funzioni-centrali
-last_compiled_from: ["wiki/sources/m-fc02-dossier-redazionale-agenzie-fiscali.md","wiki/sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026.md","wiki/sources/agenzie-fiscali-organizzazione-ae-adm-ader.md","wiki/topics/profili-agenzie-fiscali.md","wiki/topics/bando-decoder-fiscale.md","wiki/entities/agenzia-delle-entrate.md","wiki/entities/agenzia-delle-dogane-e-dei-monopoli.md","wiki/entities/agenzia-entrate-riscossione.md","wiki/books/moduli/m-fc02-agenzie-fiscali/planning/00-piano-editoriale.md","wiki/books/il-metodo-bando/chapters/famiglie-concorsi-pubblici.md"]
+last_compiled_from: ["wiki/sources/m-fc02-dossier-redazionale-agenzie-fiscali.md","wiki/sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026.md","wiki/sources/agenzie-fiscali-organizzazione-ae-adm-ader.md","wiki/topics/profili-agenzie-fiscali.md","wiki/topics/bando-decoder-fiscale.md","wiki/entities/agenzia-delle-entrate.md","wiki/entities/agenzia-delle-dogane-e-dei-monopoli.md","wiki/entities/agenzia-entrate-riscossione.md","wiki/books/moduli/m-fc02-agenzie-fiscali/planning/00-piano-editoriale.md","wiki/books/il-metodo-bando/chapters/famiglie-concorsi-pubblici.md","wiki/sources/riscossione-agenzia-entrate-riscossione-m-fc02.md","wiki/sources/m-fc02-corpus-ufficiale-integrativo-2026-07-17.md"]
 ---
 
 # Mappa delle Agenzie fiscali e dei profili concorsuali
@@ -69,25 +69,34 @@ La risposta a queste domande decide il piano. Il candidato che non le formula al
 | Fase BANDO | Cosa devi osservare nel bando fiscale | Output del capitolo |
 | --- | --- | --- |
 | B - Bando | Ente, profilo, codice, prove, materie, sede, eventuali riserve o requisiti specifici. | Scheda di classificazione AE/ADM/AdER. |
-| A - Analisi | Peso delle materie comuni e peso delle materie fiscali specialistiche. | Lista priorita': comune, fiscale, rinvii. |
+| A - Aree | Peso delle materie comuni, delle aree fiscali specialistiche e degli eventuali rinvii. | Matrice comune/specialistico. |
 | N - Nuclei | Tributi, accertamento, adempimenti, riscossione, dogane, accise, giochi, catasto, pubblicita' immobiliare. | Mappa ente/profilo/materia. |
-| D - Domande | Tipologie di domanda prevedibili: definizioni, applicazioni, casi, differenze, procedimenti. | Diario rischi e domande-trappola. |
-| O - Organizzazione | Sequenza di studio e moduli da affiancare. | Piano operativo per il sottopercorso scelto. |
+| D - Diario | Errori di classificazione, lacune, domande-trappola e scostamenti dal piano. | Diario dei rischi di perimetro. |
+| O - Output | Prestazione richiesta: quiz, risposta argomentata, caso, orale o simulazione operativa. | Piano di allenamento coerente con la prova. |
 
 Il metodo BANDO, qui, non parte dal manuale. Parte dal bando e ricostruisce il manuale necessario.
 
 ## Il perimetro di M-FC02
 
-M-FC02 copre i concorsi che hanno come centro di gravita' le Agenzie fiscali e le funzioni fiscali in senso ampio. Il modulo comprende tre famiglie principali.
+M-FC02 copre i concorsi che hanno come centro di gravita' le Agenzie fiscali e le funzioni fiscali in senso ampio. Sul piano didattico il modulo riunisce tre porte di accesso: Agenzia delle Entrate, Agenzia delle Dogane e dei Monopoli e Agenzia delle Entrate-Riscossione. Questa tripartizione serve a costruire il piano di studio; non implica che i tre soggetti abbiano la stessa natura istituzionale.
 
 La prima e' l'Agenzia delle Entrate. Qui rientrano i profili collegati alle entrate tributarie, ai servizi fiscali, alla compliance, all'accertamento, ai controlli, ai servizi catastali, cartografici, estimativi e alla pubblicita' immobiliare.
 
 La seconda e' l'Agenzia delle Dogane e dei Monopoli. Qui il baricentro si sposta su dogane, accise, giochi, monopoli, flussi economici regolati, operatori economici, controlli su merci e prodotti soggetti ad accisa.
 
-La terza e' l'Agenzia delle Entrate-Riscossione. Qui il focus e' la riscossione nazionale: cartelle, pagamenti, rateizzazioni, sospensioni, rapporto con il contribuente-debitore, gestione del front-office e applicazione delle regole procedurali in un contesto ad alta esposizione con l'utenza.
+La terza porta e' l'Agenzia delle Entrate-Riscossione. Qui il focus e' la riscossione nazionale: cartelle, pagamenti, rateizzazioni, sospensioni, rapporto con il contribuente-debitore, gestione del front-office e applicazione delle regole procedurali in un contesto ad alta esposizione con l'utenza.
 
 Queste tre famiglie hanno un tratto comune: non basta sapere "diritto amministrativo". Occorre collegare amministrazione, procedimento, tributo e servizio. La dimensione fiscale modifica il linguaggio, le priorita' e anche il tipo di ragionamento richiesto in prova.
 
+## Inquadramento istituzionale: una distinzione da non saltare
+
+La mappa concorsuale deve restare fedele all'ordinamento. Il D.Lgs. 30 luglio 1999, n. 300 costituisce il riferimento generale per comprendere il rapporto tra Ministero dell'economia e delle finanze e agenzie fiscali. In questa cornice, Agenzia delle Entrate e Agenzia delle Dogane e dei Monopoli esercitano funzioni diverse, ma entrambe appartengono all'amministrazione finanziaria e operano attraverso strutture specializzate.
+
+Agenzia delle Entrate-Riscossione entra nello stesso modulo per una ragione funzionale: presidia la riscossione nazionale e si colloca nel tratto finale del ciclo fiscale. Il candidato deve quindi studiarla insieme ad accertamento, ruolo, cartella, pagamento, rateizzazione, sospensione e tutele, senza confonderne compiti e posizione con quelli dell'Agenzia delle Entrate.
+
+La distinzione produce un effetto immediato in sede concorsuale. Dire che AE, ADM e AdER appartengono allo stesso percorso di preparazione e' corretto; attribuire loro funzioni intercambiabili non lo e'. AE amministra entrate e servizi fiscali, oltre alle funzioni catastali e immobiliari richiamate dai bandi. ADM presidia dogane, accise, giochi e monopoli. AdER opera nella riscossione e nel rapporto procedurale con il contribuente-debitore.
+
+Questa e' anche una regola di risposta all'orale: prima si identifica il soggetto, poi la funzione, infine il procedimento. L'ordine evita formule generiche come "l'ente controlla e riscuote i tributi", che sovrappongono fasi diverse e non mostrano padronanza istituzionale.
 ## Che cosa entra nel modulo
 
 Entrano nel modulo M-FC02, in via principale:
@@ -409,6 +418,8 @@ Questo capitolo e' costruito sulle note e sulle pagine consolidate del wiki del 
 - [[sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026]]
 - [[sources/agenzie-fiscali-organizzazione-ae-adm-ader]]
 - [[sources/d-lgs-30-luglio-1999-n-300-organizzazione-governo]]
+- [[sources/riscossione-agenzia-entrate-riscossione-m-fc02]]
+- [[sources/m-fc02-corpus-ufficiale-integrativo-2026-07-17]]
 - [[topics/profili-agenzie-fiscali]]
 - [[topics/bando-decoder-fiscale]]
 - [[entities/agenzia-delle-entrate]]

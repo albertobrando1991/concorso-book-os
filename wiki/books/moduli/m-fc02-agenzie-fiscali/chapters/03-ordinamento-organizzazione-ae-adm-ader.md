@@ -6,48 +6,25 @@ status: revised_draft
 domain: "concorsi pubblici italiani"
 topics: ["agenzie fiscali","organizzazione amministrativa","funzioni centrali"]
 entities: ["Agenzia delle Entrate","Agenzia delle Dogane e dei Monopoli","Agenzia delle Entrate-Riscossione","MEF"]
-source_refs: ["sources/agenzie-fiscali-organizzazione-ae-adm-ader.md","sources/d-lgs-30-luglio-1999-n-300-organizzazione-governo.md","sources/m-fc02-dossier-redazionale-agenzie-fiscali.md","sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026.md","sources/riscossione-agenzia-entrate-riscossione-m-fc02.md","sources/dogane-accise-giochi-monopoli-adm-m-fc02.md"]
+source_refs: ["sources/agenzie-fiscali-organizzazione-ae-adm-ader.md","sources/d-lgs-30-luglio-1999-n-300-organizzazione-governo.md","sources/m-fc02-dossier-redazionale-agenzie-fiscali.md","sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026.md","sources/riscossione-agenzia-entrate-riscossione-m-fc02.md","sources/dogane-accise-giochi-monopoli-adm-m-fc02.md","sources/assetti-organizzativi-ae-adm-ader-verifica-2026-07-17.md"]
 book_refs: ["m-fc02-agenzie-fiscali","il-metodo-bando"]
-confidence: 0.84
-updated_at: 2026-07-02T19:40:00+02:00
+confidence: 0.95
+updated_at: 2026-07-17T21:45:00+02:00
 created_at: 2026-07-01T21:00:00+02:00
 review_required: true
 canonical: true
 tags: ["book-chapter","module-code-m-fc02","professional-draft"]
 book_id: m-fc02-agenzie-fiscali
 outline_section: 3
-draft_stage: professional-draft
+draft_stage: revised-editorial-draft
 module_code: M-FC02
 module_family: funzioni-centrali
-last_compiled_from: ["wiki/sources/agenzie-fiscali-organizzazione-ae-adm-ader.md","wiki/sources/d-lgs-30-luglio-1999-n-300-organizzazione-governo.md","wiki/sources/m-fc02-dossier-redazionale-agenzie-fiscali.md","wiki/sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026.md","wiki/sources/riscossione-agenzia-entrate-riscossione-m-fc02.md","wiki/sources/dogane-accise-giochi-monopoli-adm-m-fc02.md","wiki/topics/profili-agenzie-fiscali.md","wiki/entities/agenzia-delle-entrate.md","wiki/entities/agenzia-delle-dogane-e-dei-monopoli.md","wiki/entities/agenzia-entrate-riscossione.md"]
+last_compiled_from: ["wiki/sources/agenzie-fiscali-organizzazione-ae-adm-ader.md","wiki/sources/d-lgs-30-luglio-1999-n-300-organizzazione-governo.md","wiki/sources/m-fc02-dossier-redazionale-agenzie-fiscali.md","wiki/sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026.md","wiki/sources/riscossione-agenzia-entrate-riscossione-m-fc02.md","wiki/sources/dogane-accise-giochi-monopoli-adm-m-fc02.md","wiki/topics/profili-agenzie-fiscali.md","wiki/entities/agenzia-delle-entrate.md","wiki/entities/agenzia-delle-dogane-e-dei-monopoli.md","wiki/entities/agenzia-entrate-riscossione.md","wiki/sources/assetti-organizzativi-ae-adm-ader-verifica-2026-07-17.md"]
 ---
 
 # Ordinamento e organizzazione di AE, ADM e AdER
 
-## Specifica struttura madre
-
-### Obiettivo
-Spiegare l'ordinamento delle agenzie fiscali quanto basta per quiz, orale e comprensione del ruolo.
-
-### Nuclei
-- D.Lgs. 300/1999 come base istituzionale.
-- Rapporto con MEF e differenza tra agenzie.
-- Funzioni di AE, ADM e AdER.
-- Lessico organizzativo da orale.
-
-### Output operativo
-Mappa AE/ADM/AdER, glossario ente, domande da commissario e tabella "funzione/profilo/prova".
-
-### Riferimenti consolidati
-- [[sources/agenzie-fiscali-organizzazione-ae-adm-ader]]
-- [[sources/d-lgs-30-luglio-1999-n-300-organizzazione-governo]]
-
-## Scheda di lavoro
-Questo capitolo e' source-ready: fonti, perimetro, nuclei didattici e output operativi sono stati predisposti. La scrittura professionale dovra trasformare questa scheda in testo editoriale completo, con metodo BANDO, caso guidato, domanda da commissario, domanda-trappola, mini-esercizio e riferimenti consolidati.
-
-## Testo editoriale
-
-### Apertura editoriale
+## Apertura editoriale
 
 Nei concorsi delle Agenzie fiscali l'organizzazione non e' un capitolo ornamentale. Non serve solo a rispondere a una domanda da manuale sul D.Lgs. 300/1999. Serve a capire dove si colloca il profilo, quale funzione pubblica andra' a sostenere e quale linguaggio dovra' usare il candidato in prova.
 
@@ -57,7 +34,7 @@ Per questo l'ordinamento degli enti va studiato in modo operativo. Il candidato 
 
 Il punto non e' imparare a memoria un organigramma. Gli organigrammi cambiano e vanno sempre verificati sui siti istituzionali prima della pubblicazione o della prova. Il punto e' costruire una mappa stabile: quale ente fa che cosa, con quale funzione, con quale rapporto con il MEF, con quali parole chiave e con quali conseguenze sullo studio.
 
-### Obiettivo del capitolo
+## Obiettivo del capitolo
 
 Al termine del capitolo devi saper fare cinque operazioni.
 
@@ -71,7 +48,7 @@ Quarta: collegare l'organizzazione al profilo concorsuale. Un funzionario tribut
 
 Quinta: preparare una risposta orale breve, ordinata e non enciclopedica sull'organizzazione degli enti fiscali.
 
-### Come usare questo capitolo
+## Come usare questo capitolo
 
 Leggi il capitolo con tre domande aperte accanto al bando.
 
@@ -83,7 +60,7 @@ Se il bando riguarda Agenzia delle Entrate, la parola guida puo' essere "adempim
 
 Queste parole non sono etichette. Sono bussole. Ti dicono quali parti della teoria diventano prioritarie e quali esempi usare quando la commissione chiede: "Mi spieghi che cosa fa questo ente?".
 
-### Mappa BANDO del capitolo
+## Mappa BANDO del capitolo
 
 | Fase BANDO | Domanda organizzativa | Output di studio |
 | --- | --- | --- |
@@ -95,21 +72,23 @@ Queste parole non sono etichette. Sono bussole. Ti dicono quali parti della teor
 
 In questo capitolo il metodo BANDO non ti chiede di studiare tutta l'amministrazione finanziaria. Ti chiede di estrarre l'organizzazione che serve alla prova.
 
-### Il punto di partenza: il D.Lgs. 300/1999
+## Il punto di partenza: il D.Lgs. 300/1999
 
 Il D.Lgs. 30 luglio 1999, n. 300 e' la fonte di riferimento per capire la riorganizzazione del Governo e il modello delle agenzie. Nel modulo M-FC02 va usato con un taglio preciso: non come capitolo generale sui Ministeri, ma come chiave per spiegare perche' le agenzie fiscali hanno autonomia organizzativa e funzioni tecnico-operative collegate all'area economico-finanziaria dello Stato.
 
-Per il candidato bastano tre idee solide.
+Per il candidato contano quattro idee.
 
-La prima: le agenzie non sono un nome di fantasia. Sono strutture pubbliche costruite per esercitare funzioni amministrative con un grado di autonomia piu' marcato rispetto al modello ministeriale classico.
+La prima: Agenzia delle Entrate e Agenzia delle Dogane e dei Monopoli hanno personalita giuridica di diritto pubblico e dispongono delle autonomie riconosciute dal quadro normativo. Non sono direzioni interne del Ministero con una diversa denominazione.
 
-La seconda: autonomia non significa isolamento. Le agenzie fiscali operano nel perimetro dell'indirizzo e della vigilanza del Ministero dell'economia e delle finanze, secondo le fonti e gli strumenti che regolano il rapporto istituzionale.
+La seconda: autonomia non significa isolamento. Le agenzie fiscali operano nel sistema dell'amministrazione finanziaria e il rapporto con il Ministero dell'economia e delle finanze si esprime attraverso indirizzo, vigilanza e approvazione degli atti generali nei casi previsti.
 
-La terza: nei concorsi l'organizzazione va collegata alla funzione. Una domanda su AE, ADM o AdER non vuole una lista di uffici. Vuole capire se il candidato distingue entrate tributarie, dogane/monopoli e riscossione.
+La terza: AdER appartiene allo stesso percorso didattico per la funzione esercitata, ma ha natura diversa. E' un ente pubblico economico istituito dal D.L. 193/2016, convertito dalla L. 225/2016, ed e' ente strumentale dell'Agenzia delle Entrate.
+
+La quarta: nei concorsi l'organizzazione va collegata alla funzione. Una domanda su AE, ADM o AdER non richiede una lista di uffici. Verifica, piuttosto, se il candidato distingue entrate tributarie, dogane e monopoli, riscossione.
 
 Se devi rispondere all'orale, evita due estremi. Non dire soltanto: "Sono enti collegati al MEF". E non recitare un organigramma minuto. La risposta efficace spiega il modello, poi lo applica ai tre enti.
 
-### Ministero, agenzia, ente della riscossione
+## Ministero, agenzia, ente della riscossione
 
 Il primo nodo da sciogliere e' il rapporto tra Ministero e agenzie.
 
@@ -117,9 +96,9 @@ Il MEF e' il riferimento istituzionale dell'area economico-finanziaria. Le agenz
 
 Questa distinzione aiuta anche nei quiz. Se la domanda chiede "chi esercita la funzione di accertamento tributario?", non devi rispondere genericamente "il MEF". Devi collegare la funzione all'Agenzia delle Entrate, nei limiti e secondo il quadro normativo di riferimento. Se la domanda riguarda dogane e accise, il baricentro e' ADM. Se riguarda riscossione nazionale, il baricentro diventa AdER.
 
-AdER merita una cautela ulteriore. Non va descritta come una semplice articolazione dell'Agenzia delle Entrate. Nel modulo va presentata come soggetto distinto, collegato alla riscossione nazionale e al rapporto operativo con il contribuente-debitore, con una disciplina e una governance che richiedono verifica puntuale sulle fonti aggiornate. Per lo studio di questo capitolo, il punto essenziale e' separare la fase dell'accertamento dalla fase della riscossione.
+AdER merita una cautela ulteriore. E' un ente pubblico economico, distinto dall'Agenzia delle Entrate ma strumentale a essa, con autonomia organizzativa, patrimoniale, contabile e di gestione. Il portale istituzionale precisa che l'Agenzia delle Entrate esercita indirizzo operativo e controllo sull'ente. Questa relazione non autorizza a sovrapporre le rispettive funzioni: AE presidia amministrazione dei tributi, servizi e accertamento; AdER esercita la riscossione nazionale. Per lo studio del capitolo, la distinzione tra fase impositiva e fase di riscossione resta il passaggio decisivo.
 
-### Le tre funzioni da non confondere
+## Le tre funzioni da non confondere
 
 Nel modulo M-FC02 devi tenere distinte tre funzioni.
 
@@ -139,7 +118,7 @@ La tabella seguente ti serve per fissare il nucleo.
 
 Questa tabella non sostituisce lo studio dei capitoli specialistici successivi. Serve a non sbagliare l'ingresso.
 
-### Agenzia delle Entrate: servizi, controlli e territorio
+## Agenzia delle Entrate: servizi, controlli e territorio
 
 L'Agenzia delle Entrate e' l'ente che il candidato associa piu' facilmente al fisco. Proprio per questo puo' generare l'errore piu' sottile: pensare che basti studiare diritto tributario in astratto.
 
@@ -155,7 +134,7 @@ Per un profilo tributario, la risposta forte collega tre livelli:
 
 Per un profilo territorio/SPI, devi aggiungere il lessico immobiliare: catasto, pubblicita immobiliare, cartografia, estimo, mercato immobiliare. Non sono accessori. Se il bando li indica come nucleo, cambiano la preparazione.
 
-### ADM: dogane, accise, giochi e monopoli
+## ADM: dogane, accise, giochi e monopoli
 
 ADM richiede un cambio di lingua. Qui non basta portare dentro il capitolo la stessa struttura usata per AE. Il candidato deve entrare nella logica dei flussi, dei controlli, delle merci, dei prodotti soggetti ad accisa, del gioco pubblico e dei monopoli.
 
@@ -165,7 +144,7 @@ Per il candidato la conseguenza e' pratica. Una risposta su ADM deve contenere a
 
 Questo vale soprattutto nei concorsi per funzionari e assistenti ADM. Il profilo puo' contenere diritto amministrativo, pubblico impiego, anticorruzione, informatica e inglese. Ma se il programma richiama dogane, accise o monopoli, il piano di studio deve costruire subito un glossario specialistico. Senza glossario, il candidato risponde con categorie generiche a domande che chiedono un linguaggio tecnico.
 
-### AdER: riscossione e rapporto con il contribuente-debitore
+## AdER: riscossione e rapporto con il contribuente-debitore
 
 Agenzia delle Entrate-Riscossione e' il terzo ingresso del modulo. Qui il candidato deve spostare il centro dalla fase impositiva alla fase di riscossione.
 
@@ -177,7 +156,7 @@ Il rischio tipico e' studiare AdER come appendice dell'Agenzia delle Entrate. In
 
 Per questo nel diario errori devi avere una riga dedicata: "Sto confondendo accertamento e riscossione?". Se la risposta e' si', torna alla mappa funzionale.
 
-### Organizzazione centrale e rete territoriale
+## Organizzazione centrale e rete territoriale
 
 Le agenzie fiscali hanno strutture centrali e articolazioni territoriali. Per il candidato non serve memorizzare ogni ufficio aggiornato, salvo che il bando lo richieda. Serve capire la logica.
 
@@ -193,7 +172,16 @@ Nei casi pratici, aiuta a ragionare su dove nasce il problema: servizio al contr
 
 Attenzione: gli organigrammi cambiano. Prima della pubblicazione definitiva del modulo e prima di una prova reale, verifica sempre statuto, regolamento di amministrazione, amministrazione trasparente e pagine istituzionali aggiornate.
 
-### Come lo chiede la commissione
+## Organi, regolamenti e responsabilita organizzativa
+
+La conoscenza dell'organizzazione non coincide con la memorizzazione dell'organigramma. Il candidato deve riconoscere le fonti che rendono leggibile l'ente: legge istitutiva, statuto, regolamento di amministrazione, atti organizzativi, PIAO e sezioni di amministrazione trasparente. Questi documenti hanno funzioni diverse. La legge definisce il quadro; statuto e regolamenti disciplinano organi e funzionamento; gli atti organizzativi distribuiscono competenze e responsabilita; i documenti di programmazione collegano struttura, obiettivi e risorse.
+
+Per AE e ADM il Direttore e il Comitato di gestione appartengono al lessico essenziale del modello agenziale. Non occorre imparare ogni direzione centrale, salvo espressa richiesta del bando. Occorre invece saper spiegare che l'organizzazione serve ad attribuire competenze, individuare responsabilita e coordinare strutture centrali e territoriali.
+
+Per AdER la fonte istituzionale aggiornata indica tre organi: Direttore, Comitato di gestione e Collegio dei revisori dei conti. Il Direttore dell'ente coincide con il Direttore dell'Agenzia delle Entrate. Questo dato rende visibile il collegamento tra i due soggetti, ma non elimina la distinta natura giuridica e funzionale di AdER.
+
+Gli assetti sono mobili. Il portale ADM, per esempio, registra un regolamento di amministrazione aggiornato nel 2026. La regola di studio e' quindi selettiva: memorizza il modello e la funzione degli organi; verifica nomi, articolazioni e regolamenti vigenti quando esce il bando.
+## Come lo chiede la commissione
 
 La commissione puo' chiedere l'organizzazione in quattro modi.
 
@@ -207,7 +195,7 @@ Il quarto e' il quesito situazionale: "Un contribuente/debitore si presenta allo
 
 La risposta migliore non e' la piu' lunga. E' quella che distingue i piani: fonte, ente, funzione, ufficio, utente, atto, output.
 
-### Glossario minimo del capitolo
+## Glossario minimo del capitolo
 
 | Termine | Significato operativo per il candidato |
 | --- | --- |
@@ -224,7 +212,7 @@ La risposta migliore non e' la piu' lunga. E' quella che distingue i piani: font
 
 Se una parola del glossario non produce un esempio, non e' ancora davvero studiata.
 
-### Scheda funzione/profilo/prova
+## Scheda funzione/profilo/prova
 
 Usa questa scheda quando il bando richiama l'organizzazione degli enti.
 
@@ -241,11 +229,11 @@ Usa questa scheda quando il bando richiama l'organizzazione degli enti.
 
 Compilarla richiede pochi minuti. Evita settimane di studio generico.
 
-### Risposta modello da due minuti
+## Risposta modello da due minuti
 
 **Domanda.** Inquadri sinteticamente l'organizzazione delle Agenzie fiscali e distingua AE, ADM e AdER.
 
-**Risposta guida.** Le agenzie fiscali si collocano nel quadro della riorganizzazione amministrativa delineata dal D.Lgs. 300/1999. Sono soggetti pubblici con funzioni tecnico-operative e autonomia organizzativa, regolamentare e gestionale nei limiti previsti, collegati all'area economico-finanziaria e al Ministero dell'economia e delle finanze per indirizzo e vigilanza.
+**Risposta guida.** L'Agenzia delle Entrate e l'Agenzia delle Dogane e dei Monopoli si collocano nel modello delle agenzie fiscali delineato dal D.Lgs. 300/1999. Hanno personalita giuridica di diritto pubblico, funzioni tecnico-operative e le autonomie riconosciute dalle fonti, nel quadro dei rapporti di indirizzo e vigilanza con il Ministero dell'economia e delle finanze. AdER va distinta: e' un ente pubblico economico istituito dal D.L. 193/2016 ed e' ente strumentale dell'Agenzia delle Entrate.
 
 Nel modulo fiscale occorre distinguere le funzioni. L'Agenzia delle Entrate e' il riferimento per entrate tributarie, servizi fiscali, adempimenti, controlli, accertamento e, per alcuni profili, servizi catastali, cartografici, estimativi e di pubblicita immobiliare. L'Agenzia delle Dogane e dei Monopoli opera su dogane, accise, giochi, monopoli e controlli su flussi e operatori economici. Agenzia delle Entrate-Riscossione riguarda invece la riscossione nazionale e il rapporto operativo con il contribuente-debitore.
 
@@ -253,7 +241,7 @@ La distinzione e' importante anche nei concorsi. Un profilo AE, un profilo ADM e
 
 Questa risposta puo' essere adattata al profilo. Se il bando e' ADM, aggiungi un esempio su dogane o accise. Se e' AdER, aggiungi la distinzione tra accertamento e riscossione. Se e' AE territorio, richiama catasto e pubblicita immobiliare.
 
-### Caso guidato
+## Caso guidato
 
 Sara sta preparando due procedure nello stesso mese.
 
@@ -269,7 +257,7 @@ Per ADM scrive: funzione dogane/accise/monopoli, parole obbligatorie "merce, dic
 
 Sara non ha studiato di piu'. Ha studiato meglio. Ha capito che il D.Lgs. 300/1999 e' la cornice, mentre la funzione dell'ente decide la preparazione.
 
-### Da sapere in 5 righe
+## Da sapere in 5 righe
 
 1. Il D.Lgs. 300/1999 e' la fonte di base per inquadrare il modello delle agenzie.
 2. Le agenzie fiscali operano con autonomia, ma nel perimetro di indirizzo e vigilanza del MEF.
@@ -277,13 +265,13 @@ Sara non ha studiato di piu'. Ha studiato meglio. Ha capito che il D.Lgs. 300/19
 4. AE richiama entrate, servizi fiscali, accertamento e territorio; ADM dogane, accise, giochi e monopoli; AdER riscossione.
 5. Nei concorsi l'organizzazione va studiata come mappa funzionale, non come elenco di uffici.
 
-### Domanda da commissario
+## Domanda da commissario
 
 **Domanda.** Perche' e' importante distinguere l'organizzazione dell'Agenzia delle Entrate da quella di ADM e AdER?
 
 **Risposta guida.** Perche' nei concorsi la struttura dell'ente e' collegata alla funzione del profilo. L'Agenzia delle Entrate opera su entrate tributarie, servizi fiscali, controlli, accertamento e anche su funzioni territoriali come catasto e pubblicita immobiliare. ADM ha un baricentro diverso: dogane, accise, giochi, monopoli e controlli su flussi e operatori economici. AdER riguarda la riscossione nazionale e il rapporto con il contribuente-debitore. Se il candidato non distingue queste funzioni, rischia di preparare materie comuni senza costruire il lessico specialistico richiesto dal bando.
 
-### Domanda-trappola
+## Domanda-trappola
 
 **Domanda.** Le Agenzie fiscali sono semplici uffici del Ministero dell'economia e delle finanze?
 
@@ -291,7 +279,7 @@ Sara non ha studiato di piu'. Ha studiato meglio. Ha capito che il D.Lgs. 300/19
 
 **Perche' e' una trappola.** La domanda confonde collegamento istituzionale e immedesimazione organizzativa. Collegamento al MEF non significa identita con il Ministero.
 
-### Errore tipico
+## Errore tipico
 
 L'errore tipico e' studiare l'organizzazione come una pagina da memorizzare.
 
@@ -305,7 +293,7 @@ La correzione e' semplice: ogni nozione organizzativa deve diventare una frase f
 
 Se non sai completare queste frasi, hai studiato nomi, non funzioni.
 
-### Mini-esercizio
+## Mini-esercizio
 
 Compila la tabella per il bando che stai preparando.
 
@@ -326,7 +314,7 @@ Poi scrivi una risposta di massimo dieci righe a questa traccia:
 
 Rileggi la risposta. Se potrebbe valere identica per AE, ADM e AdER, e' troppo generica.
 
-### Diario errori organizzativi
+## Diario errori organizzativi
 
 Apri una sezione del diario con queste tre righe.
 
@@ -338,7 +326,7 @@ Apri una sezione del diario con queste tre righe.
 
 Il diario non deve diventare lungo. Deve intercettare l'errore prima che entri nella risposta orale.
 
-### Checklist operativa finale
+## Checklist operativa finale
 
 Prima di passare al capitolo successivo, controlla questi punti.
 
@@ -355,7 +343,7 @@ Prima di passare al capitolo successivo, controlla questi punti.
 
 Se manca uno di questi punti, non passare subito alle materie tecniche. Prima chiudi la mappa organizzativa.
 
-### Riferimenti consolidati
+## Riferimenti consolidati
 
 Questo capitolo e' costruito sulle note e sulle pagine consolidate del wiki del progetto:
 
@@ -365,6 +353,7 @@ Questo capitolo e' costruito sulle note e sulle pagine consolidate del wiki del 
 - [[sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026]]
 - [[sources/riscossione-agenzia-entrate-riscossione-m-fc02]]
 - [[sources/dogane-accise-giochi-monopoli-adm-m-fc02]]
+- [[sources/assetti-organizzativi-ae-adm-ader-verifica-2026-07-17]]
 - [[topics/profili-agenzie-fiscali]]
 - [[topics/bando-decoder-fiscale]]
 - [[entities/agenzia-delle-entrate]]
@@ -375,7 +364,7 @@ Questo capitolo e' costruito sulle note e sulle pagine consolidate del wiki del 
 
 Le fonti consolidate sono sufficienti per una bozza professionale del capitolo. Per dati puntuali su statuti, regolamenti di amministrazione, organigrammi, direzioni centrali e articolazioni territoriali aggiornate, resta necessaria una verifica sulle pagine istituzionali ufficiali prima della pubblicazione.
 
-### Note di review
+## Note di review
 
 - Verificare, prima della pubblicazione definitiva, statuti, regolamenti di amministrazione e sezioni "Amministrazione trasparente" di Agenzia delle Entrate, ADM e AdER.
 - Evitare numeri di uffici, direzioni o personale se non sono stati confermati da fonte ufficiale aggiornata nel wiki.
