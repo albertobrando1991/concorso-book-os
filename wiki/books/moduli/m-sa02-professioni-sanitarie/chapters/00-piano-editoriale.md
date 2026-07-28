@@ -6,10 +6,10 @@ status: structure
 domain: "concorsi pubblici italiani"
 topics: ["moduli specialistici","sanita","metodo bando"]
 entities: ["Metodo BANDO"]
-source_refs: ["sources/metodo-bando-progetto-editoriale.md","sources/struttura-madre-il-metodo-bando.md"]
-book_refs: ["m-sa02-professioni-sanitarie","il-metodo-bando"]
+source_refs: ["sources/metodo-bando-progetto-editoriale.md","sources/struttura-madre-il-metodo-bando.md","sources/vol-07-dossier-fonti-materie-sanita-2026-07-28"]
+book_refs: ["m-sa02-professioni-sanitarie","il-metodo-bando","vol-07-sanita-amministrativa-professioni-sanitarie"]
 confidence: 0.55
-updated_at: 2026-06-27T19:56:28+02:00
+updated_at: 2026-07-28T00:00:00+02:00
 created_at: 2026-06-27T19:56:28+02:00
 review_required: true
 canonical: true
@@ -48,12 +48,20 @@ Candidato che ha letto o sta usando Il Metodo BANDO e deve adattare metodo, mate
 - Struttura madre: [[books/il-metodo-bando/struttura-madre|Struttura madre]]
 - Ricettario operativo: [[books/il-metodo-bando/ricettario-digitale|Ricettario operativo digitale]]
 - Architettura moduli: [[books/moduli/architettura-moduli-specialistici|Architettura moduli specialistici]]
+- Volume sanitario: [[books/volumi/vol-07-sanita-amministrativa-professioni-sanitarie/index|VOL-07]]
+- Dossier source-ready: [[books/volumi/vol-07-sanita-amministrativa-professioni-sanitarie/planning/01-dossier-source-ready]]
+- Matrice di copertura: [[books/volumi/vol-07-sanita-amministrativa-professioni-sanitarie/planning/02-matrice-copertura-didattica]]
+
+### Materie assegnate dal dossier VOL-07
+Scienze infermieristiche; tecniche assistenziali; clinica generale ed emergenza; prevenzione; discipline professionali; evidenze; igiene ed epidemiologia; controlli, verbalizzazione e sanzioni.
 
 ### Fonti da consolidare prima della scrittura
+- [[sources/vol-07-dossier-fonti-materie-sanita-2026-07-28]]
+- [[books/volumi/vol-07-sanita-amministrativa-professioni-sanitarie/planning/03-mappa-fonti-specialistiche]]
 - Bandi rappresentativi della famiglia.
 - Normativa ufficiale di settore.
 - Topic pages gia presenti nel wiki.
 - Source notes nuove se il modulo richiede aggiornamento o specialismo.
 
 ## Testo editoriale
-Da sviluppare con Manual Writer Agent dopo consolidamento delle fonti specifiche.
+Non avviato: lo scaffold documenta soltanto struttura e assegnazioni. La scrittura inizierà dopo il consolidamento delle fonti specifiche e i gate della pipeline.

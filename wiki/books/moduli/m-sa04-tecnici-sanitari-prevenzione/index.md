@@ -6,10 +6,10 @@ status: scaffold
 domain: "concorsi pubblici italiani"
 topics: ["moduli specialistici","sanita","metodo bando"]
 entities: ["Metodo BANDO","Capitale Personale"]
-source_refs: ["sources/metodo-bando-progetto-editoriale.md","sources/struttura-madre-il-metodo-bando.md"]
-book_refs: ["il-metodo-bando","moduli-specialistici"]
+source_refs: ["sources/metodo-bando-progetto-editoriale.md","sources/struttura-madre-il-metodo-bando.md","sources/vol-07-dossier-fonti-materie-sanita-2026-07-28"]
+book_refs: ["il-metodo-bando","moduli-specialistici","vol-07-sanita-amministrativa-professioni-sanitarie"]
 confidence: 0.55
-updated_at: 2026-06-27T19:56:28+02:00
+updated_at: 2026-07-28T00:00:00+02:00
 created_at: 2026-06-27T19:56:28+02:00
 review_required: true
 canonical: true
@@ -45,11 +45,20 @@ Non deve promettere copertura totale di ogni bando o aggiornamento normativo aut
 ## Capitoli di lavoro
 - [[books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/00-piano-editoriale|Piano editoriale del modulo]]
 
+## Collegamento al VOL-07
+- Volume: [[books/volumi/vol-07-sanita-amministrativa-professioni-sanitarie/index]]
+- Dossier source-ready: [[books/volumi/vol-07-sanita-amministrativa-professioni-sanitarie/planning/01-dossier-source-ready]]
+- Matrice di copertura: [[books/volumi/vol-07-sanita-amministrativa-professioni-sanitarie/planning/02-matrice-copertura-didattica]]
+- Priorità di sviluppo: quarta.
+- Materie assegnate: laboratorio, biochimica/microbiologia/ematologia applicate, biosicurezza, radiologia, dosimetria, radioprotezione, apparecchiature, biomedicale e rischio tecnologico.
+
 ## Fonti da consolidare
+- [[sources/vol-07-dossier-fonti-materie-sanita-2026-07-28]]
+- [[books/volumi/vol-07-sanita-amministrativa-professioni-sanitarie/planning/03-mappa-fonti-specialistiche]]
 - Bandi rappresentativi recenti della famiglia.
 - Normativa e regolamenti ufficiali del settore.
 - Topic pages e source notes gia presenti nel wiki.
 - Eventuali manuali o banche dati solo dopo schedatura in sources/.
 
 ## Prossimo passo
-Compilare il piano editoriale, poi sviluppare il testo con Manual Writer Agent usando il libro principale, il ricettario digitale e le source notes del modulo.
+Completare le fasi A e B della pipeline VOL-07. Lo scaffold resta privo di testo editoriale finché le fonti specialistiche non superano i gate source-ready.

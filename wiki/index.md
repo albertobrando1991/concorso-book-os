@@ -686,6 +686,15 @@ Aggiornato: 2026-07-20T10:20:00+02:00
 - [[reviews/review-vol-01-intervento-p0-2026-07-21]]
 - [[reviews/review-vol-01-intervento-p1-superficie-struttura-2026-07-21]]
 
+## VOL-07 - Sanità amministrativa e professioni sanitarie
+
+- [[books/volumi/vol-07-sanita-amministrativa-professioni-sanitarie/index]]
+- [[sources/vol-07-dossier-fonti-materie-sanita-2026-07-28]]
+- [[topics/sanita-amministrativa-professioni-sanitarie]]
+- [[books/volumi/vol-07-sanita-amministrativa-professioni-sanitarie/planning/01-dossier-source-ready]]
+- [[books/volumi/vol-07-sanita-amministrativa-professioni-sanitarie/planning/02-matrice-copertura-didattica]]
+- [[books/volumi/vol-07-sanita-amministrativa-professioni-sanitarie/planning/03-mappa-fonti-specialistiche]]
+
 ## Workflow templates
 
 - [[templates/prompt-staff-revisione-completa-volumi]]
