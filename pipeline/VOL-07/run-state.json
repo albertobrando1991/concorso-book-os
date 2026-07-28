@@ -1,0 +1,183 @@
+{
+  "volumeCode": "VOL-07",
+  "specPath": "books/volumi/vol-07-sanita-amministrativa-professioni-sanitarie/planning/00-scheda-pipeline.md",
+  "specHash": "sha256:8e463e899503d3e5616384479c20dd61f25ee1751f707f00ebb7745109f2a094",
+  "createdAt": "2026-07-28T12:27:05.417Z",
+  "updatedAt": "2026-07-28T12:31:21.902Z",
+  "steps": [
+    {
+      "key": "00:VOL-07",
+      "id": "00",
+      "phase": "A",
+      "scope": "catalog",
+      "target": "VOL-07",
+      "status": "in-progress",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-28T12:31:21.902Z"
+    },
+    {
+      "key": "01:VOL-07",
+      "id": "01",
+      "phase": "A",
+      "scope": "catalog",
+      "target": "VOL-07",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "02:VOL-07",
+      "id": "02",
+      "phase": "A",
+      "scope": "catalog",
+      "target": "VOL-07",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "03:VOL-07",
+      "id": "03",
+      "phase": "A",
+      "scope": "catalog",
+      "target": "VOL-07",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "04:VOL-07",
+      "id": "04",
+      "phase": "B",
+      "scope": "volume",
+      "target": "VOL-07",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "05:moduli/m-sa02-professioni-sanitarie",
+      "id": "05",
+      "phase": "B",
+      "scope": "module",
+      "target": "moduli/m-sa02-professioni-sanitarie",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "06:moduli/m-sa02-professioni-sanitarie",
+      "id": "06",
+      "phase": "B",
+      "scope": "module",
+      "target": "moduli/m-sa02-professioni-sanitarie",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "07:moduli/m-sa02-professioni-sanitarie",
+      "id": "07",
+      "phase": "B",
+      "scope": "module",
+      "target": "moduli/m-sa02-professioni-sanitarie",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "05:moduli/m-sa01-sanita-amministrativa",
+      "id": "05",
+      "phase": "B",
+      "scope": "module",
+      "target": "moduli/m-sa01-sanita-amministrativa",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "06:moduli/m-sa01-sanita-amministrativa",
+      "id": "06",
+      "phase": "B",
+      "scope": "module",
+      "target": "moduli/m-sa01-sanita-amministrativa",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "07:moduli/m-sa01-sanita-amministrativa",
+      "id": "07",
+      "phase": "B",
+      "scope": "module",
+      "target": "moduli/m-sa01-sanita-amministrativa",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "05:moduli/m-sa03-dirigenza-medica-sanitaria",
+      "id": "05",
+      "phase": "B",
+      "scope": "module",
+      "target": "moduli/m-sa03-dirigenza-medica-sanitaria",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "06:moduli/m-sa03-dirigenza-medica-sanitaria",
+      "id": "06",
+      "phase": "B",
+      "scope": "module",
+      "target": "moduli/m-sa03-dirigenza-medica-sanitaria",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "07:moduli/m-sa03-dirigenza-medica-sanitaria",
+      "id": "07",
+      "phase": "B",
+      "scope": "module",
+      "target": "moduli/m-sa03-dirigenza-medica-sanitaria",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "05:moduli/m-sa04-tecnici-sanitari-prevenzione",
+      "id": "05",
+      "phase": "B",
+      "scope": "module",
+      "target": "moduli/m-sa04-tecnici-sanitari-prevenzione",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "06:moduli/m-sa04-tecnici-sanitari-prevenzione",
+      "id": "06",
+      "phase": "B",
+      "scope": "module",
+      "target": "moduli/m-sa04-tecnici-sanitari-prevenzione",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "07:moduli/m-sa04-tecnici-sanitari-prevenzione",
+      "id": "07",
+      "phase": "B",
+      "scope": "module",
+      "target": "moduli/m-sa04-tecnici-sanitari-prevenzione",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    }
+  ]
+}

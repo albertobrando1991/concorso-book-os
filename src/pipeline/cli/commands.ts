@@ -154,7 +154,7 @@ async function next(context: Context): Promise<CommandResult> {
 
   const definition = requireStepDefinition(step.id)
   const catalog = await promptCatalog(context)
-  const rendered = renderPrompt(catalog, step.id, promptValues(spec, step))
+  const rendered = renderPrompt(catalog, step.id, promptValuesFor(spec, step))
   const contract = deliveryContract(context, spec, step, definition.gate)
   const prompt = `${contract}\n\n---\n\n${rendered}`
   const promptFile = await writePrompt(context, step, prompt)
@@ -391,7 +391,7 @@ function gateContext(spec: VolumeSpec, step: StepRecord, context: Context) {
   }
 }
 
-function promptValues(spec: VolumeSpec, step: StepRecord) {
+export function promptValuesFor(spec: VolumeSpec, step: StepRecord) {
   const module = moduleOf(spec, step)
 
   return {
@@ -399,8 +399,8 @@ function promptValues(spec: VolumeSpec, step: StepRecord) {
     VOLUME_TITLE: spec.volumeTitle,
     CUT_OFF_DATE: spec.cutOffDate,
     RESPONSABILE: spec.responsabileNormativo,
-    MODULE_CODE: module?.code ?? "",
-    MODULE_ID: module?.moduleId ?? "",
+    MODULE_CODE: module?.code ?? spec.modules.map((item) => item.code).join(", "),
+    MODULE_ID: module?.moduleId ?? spec.modules.map((item) => item.moduleId).join(", "),
     CHAPTER_FILE: step.scope === "chapter" ? `wiki/books/${step.target}` : "",
     CHAPTER_NUMBER: chapterNumberOf(spec, step) ?? ""
   }
