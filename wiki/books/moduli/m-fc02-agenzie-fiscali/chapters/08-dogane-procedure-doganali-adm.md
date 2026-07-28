@@ -109,7 +109,7 @@ Prima dello svincolo, la dichiarazione puo essere rettificata nei casi e nei lim
 
 Classificare significa attribuire alla merce il codice corretto della nomenclatura combinata e, nel sistema TARIC, considerare le ulteriori misure unionali applicabili. Il codice orienta aliquota daziaria, sospensioni, contingenti, misure antidumping, divieti, licenze e dati statistici.
 
-La classificazione non dipende dal nome commerciale scelto dall'importatore. Si fonda sulle caratteristiche oggettive della merce, sulla composizione, sulla funzione, sul grado di lavorazione e sulle regole generali di interpretazione. Una «parte di macchina» puo essere classificata altrove se possiede una funzione autonoma prevista dalla tariffa.
+La classificazione non dipende dal nome commerciale scelto dall'importatore. Si fonda sulle caratteristiche oggettive della merce, sulla composizione, sulla funzione, sul grado di lavorazione e sulle regole generali di interpretazione. Una "parte di macchina" puo essere classificata altrove se possiede una funzione autonoma prevista dalla tariffa.
 
 Quando l'operatore necessita di certezza preventiva puo ricorrere, secondo il CDU, all'informazione tariffaria vincolante. Il provvedimento vincola autorita e titolare nei limiti, per le merci e per il periodo previsti; non sana dichiarazioni inesatte relative a prodotti diversi.
 
@@ -131,28 +131,69 @@ Se il valore di transazione non e' utilizzabile, si applicano i metodi secondari
 
 ## 9. I principali regimi doganali
 
-### Immissione in libera pratica
+Il regime doganale non e' un'etichetta burocratica. E' la destinazione giuridica che l'operatore sceglie per la merce e che determina diritti, obblighi, controlli e appuramento finale. Per il candidato il punto non e' memorizzare una lista, ma riconoscere la funzione di ciascun regime e il suo effetto sulla merce.
 
-Consente alle merci non unionali di acquisire lo status unionale. Comporta applicazione dei dazi e degli altri oneri dovuti, delle misure di politica commerciale e delle prescrizioni su divieti e restrizioni. «Libera pratica» e «immissione in consumo» appartengono a piani distinti, doganale e fiscale, anche se spesso operano insieme.
+| Regime | Funzione | Condizione essenziale | Errore da evitare |
+|---|---|---|---|
+| Immissione in libera pratica | Attribuisce alle merci non unionali lo status unionale. | Assolvimento dei dazi e delle altre misure applicabili. | Confonderla con la semplice immissione nel mercato. |
+| Esportazione | Regola l'uscita delle merci unionali dal territorio doganale. | Dichiarazione e prova dell'uscita effettiva. | Pensare che basti la sola fattura estera. |
+| Transito | Consente la circolazione sotto controllo doganale con sospensione dei diritti. | Presa in carico del movimento e rispetto del percorso autorizzato. | Scambiarlo per una vendita o per un'importazione. |
+| Deposito | Consente di tenere merci sotto vigilanza senza assolvere subito i diritti dovuti. | Regime autorizzato e corretta custodia/appuramento. | Trattarlo come magazzino libero da regole. |
+| Uso particolare | Permette un utilizzo specifico della merce alle condizioni del CDU. | Rispetto della finalita autorizzata e delle limitazioni. | Crederlo un regime generico senza vincoli. |
+| Perfezionamento | Consente lavorazioni e riesportazione o reintroduzione secondo la disciplina prevista. | Autorizzazione, operazioni ammesse e appuramento. | Ridurlo a un semplice conto lavorazione. |
 
-### Esportazione
-
-Regola l'uscita delle merci unionali dal territorio doganale. La dichiarazione e' presentata all'ufficio competente e l'uscita effettiva deve essere attestata. Esportare non significa semplicemente emettere una fattura verso un cliente estero: occorre collegare dichiarazione, merce e prova dell'uscita.
-
-### Regimi speciali
-
-Il CDU raggruppa tra i regimi speciali transito, deposito, uso particolare e perfezionamento. Il transito permette la circolazione sotto controllo doganale con sospensione dei diritti. Il deposito comprende deposito doganale e zone franche. L'uso particolare include ammissione temporanea e uso finale. Il perfezionamento comprende perfezionamento attivo e passivo.
+Immissione in libera pratica e esportazione sono i due poli piu facilmente richiamati ai concorsi, ma non esauriscono la materia. Il transito protegge la circolazione; il deposito sospende l'impatto immediato dei diritti; l'uso particolare e il perfezionamento collegano il regime doganale alla finalita economica concreta. Il candidato deve quindi domandarsi: la merce deve entrare definitivamente nel mercato, attraversarlo, essere custodita o essere lavorata?
 
 Questi regimi differiscono per funzione, condizioni e appuramento. Spesso richiedono autorizzazione, garanzia, registrazioni e rispetto di un termine. Il vantaggio finanziario non e' definitivo finche la procedura non e' regolarmente conclusa.
+
+### Cosa deve saper dire il candidato
+
+In un orale il candidato deve saper spiegare che il regime doganale:
+
+- orienta il destino giuridico della merce;
+- determina quali dazi e misure si applicano o si sospendono;
+- richiede condizioni formali e sostanziali diverse;
+- non si identifica con la sola spedizione o con il solo trasporto;
+- deve essere concluso correttamente con l'appuramento o con l'uscita del bene dal circuito previsto.
+
+### Caso guidato
+
+Un'impresa importa merci non unionali e chiede di tenerle in un magazzino interno in attesa di una successiva lavorazione. L'operatore deve prima chiedersi se l'impresa sta descrivendo un deposito doganale, un transito, un'immissione in libera pratica o un perfezionamento. La risposta non dipende dal linguaggio commerciale usato dall'utente, ma dalla finalita giuridica e dalle condizioni che la disciplina consente.
 
 ## 10. Debito doganale e garanzia
 
 Il debito doganale e' l'obbligo di pagare i dazi all'importazione o all'esportazione applicabili a una determinata merce. Puo sorgere per regolare vincolo a un regime oppure per inosservanza degli obblighi doganali. Il debitore e il momento di insorgenza dipendono dalla fattispecie.
 
+Il punto teorico da ricordare e' che il debito doganale non coincide con il valore della merce ne con la semplice dichiarazione. E' l'obbligazione pubblicistica che nasce quando ricorrono i presupposti previsti dal CDU. Se il regime e' corretto, il debito nasce e si quantifica secondo le regole del sistema; se vi e' violazione, possono sorgere conseguenze ulteriori previste dalla disciplina.
+
 La garanzia tutela l'adempimento di un debito esistente o potenziale. Puo essere isolata o globale e, nei casi previsti, beneficiare di riduzioni o esoneri. Non sostituisce il debito: assicura che l'amministrazione possa riscuoterlo se l'obbligazione diventa esigibile.
+
+| Concetto | Funzione | Domanda da farsi | Errore da evitare |
+|---|---|---|---|
+| Debito doganale | Obbligo di pagamento dei diritti dovuti. | Esiste un presupposto normativo per farlo nascere? | Ridurlo a un semplice importo da fattura. |
+| Garanzia | Copre il rischio di mancato pagamento o di obbligazioni potenziali. | La procedura richiede una garanzia e quale tipo? | Considerarla una sanzione o un costo accessorio. |
+| Sgravio | Evita o elimina l'esazione nei casi previsti. | C'e un motivo legale per non riscuotere? | Confonderlo con il rimborso. |
+| Rimborso | Restituisce quanto gia pagato. | La somma e' stata versata e poi deve tornare indietro? | Usarlo per ogni ipotesi di annullamento. |
 
 L'obbligazione puo estinguersi nei casi disciplinati dal CDU, tra cui pagamento, sgravio, rimborso o altre cause tipiche. Anche qui il lessico conta: rimborso restituisce un importo pagato; sgravio evita la contabilizzazione o l'esazione nei presupposti normativi.
 
+### Cosa deve saper dire il candidato
+
+In un orale il candidato deve distinguere tre piani:
+
+- il regime doganale scelto per la merce;
+- il sorgere del debito doganale;
+- la garanzia o la diversa causa di estinzione o non esazione.
+
+### Domanda-trappola
+
+**Se una merce e' vincolata a un regime speciale, il debito doganale non puo mai sorgere?**
+
+No. Il regime speciale puo sospendere o modulare l'impatto dei diritti, ma il debito puo comunque sorgere se i presupposti legali lo prevedono o se vi e' inosservanza degli obblighi del regime. Il candidato deve quindi separare funzione del regime, insorgenza del debito ed eventuale appuramento.
+
+### Errore tipico
+
+Il piu comune e' usare "regime", "debito" e "garanzia" come sinonimi. In realta il regime e' il contenitore procedurale, il debito e' l'obbligazione di pagamento e la garanzia e' lo strumento di tutela dell'amministrazione. Se il commissario chiede uno di questi tre piani, la risposta deve restare sul piano corretto.
 ## 11. Controlli doganali e analisi del rischio
 
 Le autorita doganali possono verificare dichiarazioni, documenti, contabilita e merci; prelevare campioni; controllare mezzi di trasporto, bagagli e luoghi nei limiti di legge. La selezione si fonda sull'analisi del rischio, integrata da controlli casuali e obblighi derivanti da normative specifiche.
@@ -173,7 +214,7 @@ La dimensione europea e' quotidiana. Dati, autorizzazioni e rischi possono inter
 
 ## Caso guidato: componenti elettronici importati
 
-Una societa italiana importa da un fornitore turco componenti prodotti in Cina. La fattura li descrive come «accessori elettronici», applica un prezzo molto basso rispetto a merci comparabili e allega una dichiarazione che indica origine preferenziale turca.
+Una societa italiana importa da un fornitore turco componenti prodotti in Cina. La fattura li descrive come "accessori elettronici", applica un prezzo molto basso rispetto a merci comparabili e allega una dichiarazione che indica origine preferenziale turca.
 
 **1. Regime.** La societa chiede l'immissione in libera pratica. Occorre verificare dichiarazione, soggetto, documenti e misure applicabili.
 
@@ -213,7 +254,7 @@ Calcolare subito il dazio partendo dal prezzo di fattura. Prima bisogna identifi
 
 Associa ogni situazione all'elemento da verificare per primo:
 
-1. Il prodotto e' definito in fattura «ricambio universale».
+1. Il prodotto e' definito in fattura "ricambio universale".
 2. La merce arriva dal Vietnam ma e' stata fabbricata in Cina.
 3. Il compratore ha fornito gratuitamente uno stampo al produttore.
 4. Merci non unionali devono raggiungere l'ufficio interno di destinazione senza pagamento immediato dei dazi.
