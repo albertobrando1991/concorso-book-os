@@ -1,0 +1,631 @@
+# VOL-07 – Sanità amministrativa e professioni sanitarie
+
+**Codici coperti:** M-SA01, M-SA02, M-SA03, M-SA04
+**Linea editoriale:** Sanità
+**Dimensione proposta:** circa 32.000 parole, 100–120 pagine, escluse le appendici professionali verticali.
+
+La matrice canonica assegna al VOL-07 quattro moduli distinti: sanità amministrativa, professioni sanitarie, dirigenza medica e sanitaria, profili tecnici sanitari. Il volume deve quindi avere un nucleo sanitario condiviso, senza trasformarsi in un manuale clinico universale, e percorsi specialistici chiaramente separati. 
+
+---
+
+## FASE 1 – Perimetro del volume
+
+### 1.1 Identità editoriale
+
+| Campo                | Definizione                                                                                     |
+| -------------------- | ----------------------------------------------------------------------------------------------- |
+| Volume               | VOL-07                                                                                          |
+| Titolo di lavoro     | **Sanità amministrativa e professioni sanitarie**                                               |
+| Famiglia             | Sanità                                                                                          |
+| Moduli               | M-SA01, M-SA02, M-SA03, M-SA04                                                                  |
+| Enti principali      | ASL, ATS, aziende ospedaliere, aziende ospedaliero-universitarie, IRCCS, enti e aziende del SSN |
+| Priorità             | Da Altissima a Media, secondo profilo                                                           |
+| Pacchetto prevalente | STANDARD                                                                                        |
+| Pacchetti verticali  | Infermiere, professioni sanitarie, dirigenza per disciplina, TSLB, TSRM                         |
+| Principio editoriale | Delta sanitario rispetto al VOL-01                                                              |
+
+Il sistema editoriale prevede che il VOL-07 integri, senza duplicarlo, il libro base. Le materie generali di diritto amministrativo, pubblico impiego, privacy, contabilità, contratti, informatica, inglese, logica e redazione degli atti devono essere richiamate attraverso i moduli B-PA del VOL-01.  
+
+### 1.2 Moduli e profili coperti
+
+| Modulo                                    | Profili canonici                                                                                                                           |
+| ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| **M-SA01 – Sanità amministrativa**        | Assistente amministrativo; collaboratore amministrativo professionale; profilo contabile/acquisti; URP, privacy e documentazione sanitaria |
+| **M-SA02 – Professioni sanitarie**        | Infermiere; ostetrica, fisioterapista e altre professioni sanitarie; tecnico della prevenzione                                             |
+| **M-SA03 – Dirigenza medica e sanitaria** | Dirigente medico di disciplina clinica; dirigente di igiene/organizzazione sanitaria; dirigenza sanitaria non medica                       |
+| **M-SA04 – Tecnici sanitari**             | TSLB; TSRM; altri tecnici dell’area sanitaria                                                                                              |
+
+I profili sono quelli espressamente indicati nella sezione 2 della matrice. Non vengono aggiunti profili ulteriori non supportati dalla knowledge canonica. 
+
+### 1.3 Esclusioni
+
+Sono fuori dal nucleo comune del VOL-07:
+
+* trattazione completa delle singole discipline mediche;
+* manuali clinici completi per tutte le specializzazioni;
+* manuali completi di infermieristica, ostetricia, fisioterapia e riabilitazione;
+* microbiologia, ematologia, biochimica e radiologia trattate come testi universitari;
+* ingegneria clinica e tecnologie biomedicali avanzate;
+* sicurezza sul lavoro generale, salvo declinazione sanitaria;
+* appalti generali, salvo procurement sanitario;
+* cybersecurity e architetture informatiche sanitarie avanzate.
+
+Questi contenuti diventano appendici o manuali verticali soltanto quando la matrice li assegna a uno specifico profilo.
+
+### 1.4 Moduli confinanti
+
+| Contenuto                                        | Rinvio                             |
+| ------------------------------------------------ | ---------------------------------- |
+| Appalti e procurement avanzato                   | M-TR02 / VOL-09                    |
+| ICT sanitario, sistemi, interoperabilità tecnica | M-TR01 / VOL-08                    |
+| Ambiente, igiene ambientale, ARPA                | M-TR04 / VOL-11                    |
+| Tecnologie e impianti biomedicali avanzati       | M-TR03 / VOL-10, quando pertinente |
+| Materie generali PA                              | VOL-01, B-PA01…B-PA11              |
+
+### 1.5 Materie del VOL-01 solo richiamate
+
+| Codice | Richiamo nel VOL-07                                        |
+| ------ | ---------------------------------------------------------- |
+| B-PA01 | Principi costituzionali e tutela della salute              |
+| B-PA02 | Procedimento, provvedimento, accesso, autotutela           |
+| B-PA03 | Pubblico impiego, responsabilità disciplinare, performance |
+| B-PA04 | Reati contro la PA e responsabilità                        |
+| B-PA05 | Contabilità pubblica generale                              |
+| B-PA06 | Contratti pubblici generali                                |
+| B-PA07 | Privacy, CAD e trasparenza digitale                        |
+| B-PA08 | Inglese concorsuale                                        |
+| B-PA09 | Informatica di base                                        |
+| B-PA10 | Logica e quesiti situazionali                              |
+| B-PA11 | Redazione atti e casi pratici generali                     |
+
+Il glossario condiviso del VOL-01 resta il riferimento per termini quali procedimento, provvedimento, PIAO, accesso, PEC, firma digitale, RUP, bilancio e responsabilità. Il VOL-07 deve aggiungere esclusivamente il lessico sanitario. 
+
+---
+
+## FASE 2 – Campione bandi
+
+### 2.1 Stato dell’audit della matrice
+
+| Modulo | URL mappati | Target |   Gap |
+| ------ | ----------: | -----: | ----: |
+| M-SA01 |           1 |      6 | **5** |
+| M-SA02 |           3 |      6 | **3** |
+| M-SA03 |           3 |      6 | **3** |
+| M-SA04 |           2 |      6 | **4** |
+
+Il campione non consente di attribuire percentuali statisticamente affidabili alle singole materie. Le frequenze numeriche restano quindi **ND – non determinabili** fino all’espansione e alla codifica analitica dei bandi. 
+
+### 2.2 Bandi-tipo presenti nella matrice
+
+| ID             | Ente/cluster      | Profili rappresentati                  | Evidenze principali                                                                               |
+| -------------- | ----------------- | -------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| ASL-BARI       | Azienda sanitaria | Amministrativi e professioni sanitarie | SSN, documentazione sanitaria, profilo professionale, deontologia, privacy, inglese e informatica |
+| ASL-NOVARA-INF | Azienda sanitaria | Infermiere                             | Legislazione sanitaria, disciplina professionale, documentazione, deontologia                     |
+| AUSL-VDA-MED   | Azienda sanitaria | Dirigenza medica                       | Disciplina specialistica, SSN, responsabilità, organizzazione sanitaria                           |
+| AZZERO-TSLB    | Azienda Zero      | TSLB e tecnici sanitari                | Tecniche di laboratorio, qualità, biosicurezza, normativa professionale                           |
+
+### 2.3 Valutazione del campione
+
+**Esito:** campione editoriale utilizzabile per stabilire il perimetro, ma insufficiente per calcolare frequenze percentuali.
+
+Occorre ampliare il campione con almeno:
+
+* due bandi di assistente amministrativo;
+* due bandi di collaboratore amministrativo professionale;
+* un bando procurement/contabilità sanitaria;
+* ulteriori bandi per infermiere e altre professioni;
+* bandi distinti per TSRM e TSLB;
+* bandi di dirigenza medica e sanitaria non medica.
+
+Tali integrazioni sono **[DA VERIFICARE]** e dovranno essere acquisite attraverso inPA, Gazzette e portali regionali/aziendali, secondo il workflow canonico. 
+
+---
+
+## FASE 3 – Materie estratte
+
+### 3.1 Nucleo specialistico condiviso
+
+| Materia                                     | Moduli interessati              | Origine            |
+| ------------------------------------------- | ------------------------------- | ------------------ |
+| Struttura e principi del SSN                | Tutti                           | Matrice, colonna 6 |
+| Organizzazione delle aziende sanitarie      | Tutti, con profondità diversa   | Matrice            |
+| LEA e articolazione dell’assistenza         | Tutti                           | Delta sanitario    |
+| Documentazione sanitaria                    | Tutti                           | Matrice            |
+| Privacy e accesso in ambito sanitario       | M-SA01, M-SA02, M-SA03, M-SA04  | Matrice            |
+| Consenso informato                          | M-SA02, M-SA03, M-SA04          | Matrice            |
+| Deontologia professionale                   | M-SA02, M-SA03, M-SA04          | Matrice            |
+| Responsabilità professionale sanitaria      | M-SA02, M-SA03, M-SA04          | Matrice            |
+| Sicurezza delle cure e rischio clinico      | M-SA02, M-SA03, M-SA04          | Matrice            |
+| Sicurezza sul lavoro nel contesto sanitario | M-SA02, M-SA04                  | Matrice            |
+| Qualità e accreditamento                    | M-SA03, M-SA04; parziale M-SA01 | Matrice            |
+| Flussi informativi sanitari                 | M-SA01 e M-SA03                 | Matrice            |
+
+### 3.2 Materie M-SA01
+
+| Materia specialistica                               | Profili                           |
+| --------------------------------------------------- | --------------------------------- |
+| Organizzazione delle aziende sanitarie              | Tutti                             |
+| Atti e procedimenti delle aziende sanitarie         | Assistente e collaboratore        |
+| Documentazione sanitaria e accesso                  | Assistente; URP/privacy           |
+| Front-office sanitario e comunicazione con l’utenza | Assistente; URP                   |
+| Contabilità economico-patrimoniale sanitaria        | Collaboratore; contabile          |
+| Budget e ciclo di programmazione aziendale          | Collaboratore; contabile          |
+| Procurement sanitario                               | Collaboratore; contabile/acquisti |
+| Farmaci, dispositivi, magazzino e ciclo passivo     | Contabile/acquisti                |
+| Flussi informativi sanitari                         | Collaboratore; URP/documentazione |
+
+### 3.3 Materie M-SA02
+
+| Materia specialistica                 | Profili                           |
+| ------------------------------------- | --------------------------------- |
+| Scienze infermieristiche              | Infermiere                        |
+| Tecniche assistenziali                | Infermiere                        |
+| Clinica generale ed emergenza         | Infermiere                        |
+| Prevenzione e presa in carico         | Infermiere e altre professioni    |
+| Discipline professionali specifiche   | Ostetrica, fisioterapista e altre |
+| Evidenze scientifiche                 | Professioni sanitarie             |
+| Igiene pubblica ed epidemiologia      | Tecnico della prevenzione         |
+| Controlli, verbalizzazione e sanzioni | Tecnico della prevenzione         |
+
+### 3.4 Materie M-SA03
+
+| Materia specialistica                                            | Profili                        |
+| ---------------------------------------------------------------- | ------------------------------ |
+| Disciplina clinica specialistica                                 | Dirigenti medici               |
+| Casi clinici e decisione diagnostico-terapeutica                 | Dirigenti medici               |
+| Linee guida e appropriatezza                                     | Dirigenti medici e sanitari    |
+| Clinical governance                                              | Tutti                          |
+| Programmazione sanitaria                                         | Igiene/organizzazione          |
+| Epidemiologia e sanità pubblica                                  | Igiene/organizzazione          |
+| HTA, qualità e accreditamento                                    | Igiene/organizzazione          |
+| Rischio clinico                                                  | Tutti                          |
+| Discipline biologiche, farmaceutiche, psicologiche o veterinarie | Dirigenza sanitaria non medica |
+
+### 3.5 Materie M-SA04
+
+| Materia specialistica                             | Profili       |
+| ------------------------------------------------- | ------------- |
+| Tecniche di laboratorio                           | TSLB          |
+| Biochimica, microbiologia ed ematologia applicate | TSLB          |
+| Qualità e biosicurezza di laboratorio             | TSLB          |
+| Tecniche radiologiche e diagnostica per immagini  | TSRM          |
+| Dosimetria e radioprotezione                      | TSRM          |
+| Qualità dell’immagine e apparecchiature           | TSRM          |
+| Tecnologie biomedicali                            | Altri tecnici |
+| Dispositivi medici e manutenzione                 | Altri tecnici |
+| Gestione del rischio tecnologico                  | Altri tecnici |
+
+### 3.6 Delta oltre matrice
+
+Non è inserito alcun delta strutturale certo oltre la matrice.
+
+Possibili temi da verificare nei nuovi bandi:
+
+* telemedicina e sanità digitale;
+* fascicolo sanitario elettronico e interoperabilità;
+* infezioni correlate all’assistenza;
+* gestione delle liste d’attesa;
+* assistenza territoriale e Case della comunità;
+* regolamenti regionali specifici.
+
+Tutti restano **[DA VERIFICARE]** prima della promozione a capitolo o appendice.
+
+---
+
+## FASE 4 – Copertura
+
+| Materia                                         | Stato           | Collocazione                             |
+| ----------------------------------------------- | --------------- | ---------------------------------------- |
+| Diritto amministrativo generale                 | COPERTA-BASE    | Cfr. VOL-01, B-PA02                      |
+| Pubblico impiego generale                       | COPERTA-BASE    | Cfr. VOL-01, B-PA03                      |
+| Reati e responsabilità generali                 | COPERTA-BASE    | Cfr. VOL-01, B-PA04                      |
+| Contabilità pubblica generale                   | COPERTA-BASE    | Cfr. VOL-01, B-PA05                      |
+| Contratti pubblici generali                     | COPERTA-BASE    | Cfr. VOL-01, B-PA06                      |
+| Privacy e CAD generali                          | COPERTA-BASE    | Cfr. VOL-01, B-PA07                      |
+| SSN e organizzazione sanitaria                  | COPERTA-MODULO  | Nucleo condiviso VOL-07                  |
+| Aziendalizzazione e organizzazione di ASL/AO    | COPERTA-MODULO  | M-SA01                                   |
+| Documentazione sanitaria                        | COPERTA-MODULO  | Trasversale sanitario                    |
+| Privacy sanitaria e accesso alla documentazione | PARZIALE        | Delta applicativo rispetto a B-PA07      |
+| Contabilità economico-patrimoniale sanitaria    | COPERTA-MODULO  | M-SA01                                   |
+| Procurement sanitario                           | PARZIALE        | M-SA01; rinvio VOL-09 per parte avanzata |
+| Deontologia professionale                       | COPERTA-MODULO  | M-SA02, M-SA03, M-SA04                   |
+| Responsabilità professionale sanitaria          | COPERTA-MODULO  | M-SA02, M-SA03, M-SA04                   |
+| Sicurezza delle cure e rischio clinico          | COPERTA-MODULO  | M-SA02 e M-SA03                          |
+| Discipline cliniche                             | PARZIALE        | Manuali verticali                        |
+| Infermieristica                                 | PARZIALE        | Manuale verticale infermiere             |
+| Tecniche di laboratorio                         | PARZIALE        | Manuale verticale TSLB                   |
+| Tecniche radiologiche                           | PARZIALE        | Manuale verticale TSRM                   |
+| ICT sanitario avanzato                          | FUORI-PERIMETRO | M-TR01 / VOL-08                          |
+| Appalti sanitari avanzati                       | FUORI-PERIMETRO | M-TR02 / VOL-09                          |
+| Ingegneria clinica avanzata                     | FUORI-PERIMETRO | M-TR03 / VOL-10                          |
+| Igiene ambientale avanzata                      | FUORI-PERIMETRO | M-TR04 / VOL-11                          |
+
+---
+
+## FASE 5 – Decisioni di collocazione
+
+### 5.1 Capitoli core del volume
+
+Sono ammessi nel corpo principale:
+
+1. orientamento ai concorsi sanitari;
+2. architettura del SSN;
+3. organizzazione delle aziende sanitarie;
+4. documentazione sanitaria;
+5. privacy, accesso e consenso in sanità;
+6. sicurezza delle cure e responsabilità sanitaria;
+7. gestione amministrativa delle aziende sanitarie;
+8. contabilità, budget e controlli sanitari;
+9. acquisti sanitari, farmaci e dispositivi;
+10. deontologia e organizzazione delle professioni;
+11. qualità, accreditamento e rischio clinico;
+12. sanità pubblica, epidemiologia e prevenzione;
+13. laboratori, diagnostica e tecnologie sanitarie;
+14. prove e casi sanitari;
+15. percorsi di studio per profilo.
+
+### 5.2 Appendici e manuali verticali
+
+| Asset                                                | Modulo | Decisione                            |
+| ---------------------------------------------------- | ------ | ------------------------------------ |
+| Manuale collaboratore amministrativo sanità          | M-SA01 | Appendice verticale                  |
+| Manuale infermiere                                   | M-SA02 | Manuale verticale                    |
+| Schede ostetrica, fisioterapista e altre professioni | M-SA02 | Appendici professionali              |
+| Manuale tecnico della prevenzione                    | M-SA02 | Appendice verticale                  |
+| Manuale per disciplina medica                        | M-SA03 | Prodotto verticale, non corpo comune |
+| Appendice igiene e organizzazione sanitaria          | M-SA03 | Appendice verticale                  |
+| Appendice dirigenza sanitaria non medica             | M-SA03 | Appendice verticale                  |
+| Manuale TSLB                                         | M-SA04 | Manuale verticale                    |
+| Manuale TSRM                                         | M-SA04 | Manuale verticale                    |
+| Appendice altri tecnici sanitari                     | M-SA04 | Appendice compatta                   |
+
+### 5.3 Frequenze
+
+Le frequenze percentuali non sono pubblicabili allo stato attuale.
+
+Per tutti i capitoli la dicitura editoriale sarà:
+
+* **presenza nella matrice:** sì;
+* **profili interessati:** espliciti;
+* **frequenza nei bandi:** ND, campione insufficiente;
+* **decisione:** provvisoria in base alla colonna 6 o 7 della matrice.
+
+Non vengono inventate percentuali.
+
+### 5.4 Modifiche al VOL-01
+
+**Nessuna proposta.**
+
+Il VOL-01 è già chiuso sulle undici aree B-PA. Il VOL-07 deve applicare tali materie al contesto sanitario, non ampliare il nucleo comune. 
+
+---
+
+## FASE 6 – Scheda compatibilità commerciale
+
+### Pacchetto STANDARD
+
+**Comprare:** VOL-01 + VOL-07.
+
+Adatto a:
+
+* assistente amministrativo sanitario;
+* collaboratore amministrativo professionale;
+* profili URP e documentazione;
+* concorsi sanitari con prevalente componente legislativa e organizzativa;
+* professionisti sanitari che necessitano del nucleo normativo comune, affiancato alla preparazione disciplinare già posseduta.
+
+### Pacchetto VERTICALE
+
+**Comprare:** VOL-01 + VOL-07 + appendice/manuale del profilo.
+
+| Profilo                                            | Asset verticale                        |
+| -------------------------------------------------- | -------------------------------------- |
+| Infermiere                                         | Manuale infermiere                     |
+| Ostetrica/fisioterapista/altra professione         | Appendice professionale corrispondente |
+| Tecnico della prevenzione                          | Appendice prevenzione                  |
+| Dirigente medico                                   | Manuale della disciplina               |
+| Igiene e organizzazione sanitaria                  | Appendice sanità pubblica e management |
+| Dirigente biologo/farmacista/psicologo/veterinario | Appendice disciplinare                 |
+| TSLB                                               | Manuale TSLB                           |
+| TSRM                                               | Manuale TSRM                           |
+
+### Pacchetto PREMIUM
+
+Non previsto come pacchetto ordinario del VOL-07.
+
+Può essere adottato soltanto per prodotti professionali ad alta specializzazione, ma non deriva automaticamente dalla matrice.
+
+### Cosa NON serve comprare
+
+* VOL-08, salvo profilo ICT sanitario;
+* VOL-09, salvo profilo dedicato a gare e procurement avanzato;
+* VOL-10, salvo profilo di ingegneria clinica o tecnica;
+* VOL-11, salvo profilo ambientale o ARPA;
+* VOL-12, non pertinente ai concorsi sanitari ordinari;
+* più manuali professionali contemporaneamente, quando il bando riguarda una sola professione.
+
+---
+
+# OUTPUT A – Mappa fonti specialistiche
+
+Le fonti generali già censite nel catalogo base non vengono duplicate. Per Costituzione, procedimento amministrativo, pubblico impiego, anticorruzione, trasparenza, privacy, CAD, contratti e contabilità generale si userà il rinvio: **“Cfr. VOL-01 – fonte corrispondente”**. 
+
+## 1. Normativa primaria di settore
+
+| Fonte                                                                     | Funzione nel volume                                                                  | Moduli                 |
+| ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ---------------------- |
+| **Legge 23 dicembre 1978, n. 833**                                        | Istituzione, principi e architettura originaria del SSN                              | Tutti                  |
+| **D.Lgs. 30 dicembre 1992, n. 502**                                       | Riordino del SSN, aziende sanitarie, programmazione, LEA, accreditamento e personale | Tutti                  |
+| **D.Lgs. 7 dicembre 1993, n. 517**                                        | Correttivo e integrazione del riordino sanitario                                     | Tutti                  |
+| **D.Lgs. 19 giugno 1999, n. 229**                                         | Razionalizzazione e regionalizzazione del SSN                                        | Tutti                  |
+| **Legge 8 marzo 2017, n. 24**                                             | Sicurezza delle cure e responsabilità professionale                                  | M-SA02, M-SA03, M-SA04 |
+| **Legge 22 dicembre 2017, n. 219**                                        | Consenso informato e disposizioni anticipate di trattamento                          | M-SA02, M-SA03, M-SA04 |
+| **Legge 1º febbraio 2006, n. 43**                                         | Professioni sanitarie e funzioni di coordinamento                                    | M-SA02, M-SA04         |
+| **Legge 10 agosto 2000, n. 251**                                          | Professioni infermieristiche, tecniche, riabilitative e della prevenzione            | M-SA02, M-SA04         |
+| **Legge 11 gennaio 2018, n. 3**                                           | Ordini professionali e riordino delle professioni sanitarie                          | M-SA02, M-SA03, M-SA04 |
+| **D.Lgs. 9 aprile 2008, n. 81**                                           | Sicurezza sul lavoro, nella declinazione sanitaria e laboratoristica                 | M-SA02, M-SA04         |
+| **D.Lgs. 26 maggio 2000, n. 187** e disciplina vigente di radioprotezione | Da sostituire nel testo con l’attuale quadro vigente, in particolare D.Lgs. 101/2020 | M-SA04                 |
+
+Normattiva conferma che la legge n. 833/1978 resta la fonte istitutiva del SSN e che il D.Lgs. n. 502/1992 disciplina il riordino del sistema, i livelli assistenziali e l’organizzazione sanitaria. ([Normattiva][1])
+
+La legge n. 24/2017 individua la sicurezza delle cure come componente del diritto alla salute e collega la gestione del rischio all’attività di tutto il personale delle strutture sanitarie e sociosanitarie. ([Normattiva][2])
+
+## 2. Normativa secondaria e regolamenti
+
+| Fonte                           | Ambito                                                               |
+| ------------------------------- | -------------------------------------------------------------------- |
+| D.P.C.M. 12 gennaio 2017        | Definizione e aggiornamento dei LEA                                  |
+| D.M. 2 aprile 2015, n. 70       | Standard dell’assistenza ospedaliera                                 |
+| D.M. 23 maggio 2022, n. 77      | Modelli e standard dell’assistenza territoriale                      |
+| D.M. 14 settembre 1994, n. 739  | Profilo professionale dell’infermiere                                |
+| D.M. 14 settembre 1994, n. 740  | Profilo professionale dell’ostetrica/o                               |
+| D.M. 14 settembre 1994, n. 741  | Profilo professionale del fisioterapista                             |
+| D.M. 26 settembre 1994, n. 745  | Profilo professionale del tecnico sanitario di laboratorio biomedico |
+| D.M. 26 settembre 1994, n. 746  | Profilo professionale del tecnico sanitario di radiologia medica     |
+| D.M. 17 gennaio 1997, n. 58     | Profilo del tecnico della prevenzione                                |
+| D.P.R. 10 dicembre 1997, n. 483 | Disciplina concorsuale del personale dirigenziale del SSN            |
+| D.P.R. 27 marzo 2001, n. 220    | Disciplina concorsuale del personale non dirigenziale del SSN        |
+| D.P.R. 10 dicembre 1997, n. 484 | Accesso alla dirigenza sanitaria e incarichi                         |
+| D.Lgs. 31 luglio 2020, n. 101   | Radioprotezione e sicurezza dalle radiazioni ionizzanti              |
+
+**Nota editoriale:** i decreti relativi ai singoli profili professionali devono essere collocati nelle appendici verticali, non ripetuti integralmente nel corpo comune.
+
+## 3. Contrattazione collettiva
+
+| Fonte ARAN                                      | Uso                                                                                           |
+| ----------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| CCNL Comparto Sanità 2019–2021, 2 novembre 2022 | Aree, profili, incarichi, rapporto di lavoro, orario, responsabilità e sviluppo professionale |
+| CCNL Area Sanità 2019–2021                      | Dirigenza medica, veterinaria, sanitaria e delle professioni                                  |
+| CCNQ comparti e aree                            | Perimetro contrattuale degli enti sanitari                                                    |
+
+Il CCNL Comparto Sanità 2019–2021 si applica alle aziende ed enti ricompresi nel comparto e costituisce la fonte contrattuale specialistica principale del personale non dirigente. ([Aran Agenzia][3])
+
+Le regole generali sul lavoro pubblico restano nel VOL-01: nel VOL-07 si approfondiscono soltanto classificazione sanitaria, incarichi, specificità organizzative, pronta disponibilità e responsabilità collegate ai profili.
+
+## 4. Soft law e linee guida
+
+1. Ministero della Salute – linee guida su sicurezza delle cure, rischio clinico, prevenzione e organizzazione sanitaria.
+2. Agenas – documenti su qualità, accreditamento, performance, HTA e organizzazione delle reti.
+3. Istituto Superiore di Sanità – linee guida, rapporti tecnici, epidemiologia e buone pratiche.
+4. Sistema Nazionale Linee Guida – raccomandazioni clinico-assistenziali.
+5. Garante per la protezione dei dati personali – provvedimenti su dati sanitari, dossier e fascicolo sanitario.
+6. FNOPI – codice deontologico e documenti professionali infermieristici.
+7. FNO TSRM e PSTRP – codici e indirizzi delle professioni tecniche, riabilitative e della prevenzione.
+8. FNOMCeO – codice deontologico medico.
+9. Ministero della Salute – raccomandazioni per la sicurezza dei pazienti.
+10. INAIL – istruzioni per rischio biologico, movimentazione, dispositivi e sicurezza degli operatori.
+
+## 5. Giurisprudenza rilevante
+
+La giurisprudenza non deve diventare un repertorio indiscriminato.
+
+Aree da censire:
+
+* responsabilità della struttura e dell’esercente la professione sanitaria;
+* consenso informato;
+* perdita di chance e nesso causale;
+* accesso alla cartella clinica;
+* riservatezza dei dati sanitari;
+* responsabilità disciplinare del personale;
+* responsabilità erariale in ambito sanitario;
+* concorsi del SSN, equivalenza dei titoli e requisiti professionali;
+* incarichi di dirigenza sanitaria.
+
+Gli estremi delle singole pronunce devono essere verificati prima della pubblicazione. In assenza di una scheda consolidata nel wiki: **[DA VERIFICARE – non inserire numeri di sentenza non auditati]**.
+
+## 6. Fonti operative
+
+| Fonte                         | Utilizzo                                            |
+| ----------------------------- | --------------------------------------------------- |
+| Ministero della Salute        | Normativa, organizzazione, professioni, sicurezza   |
+| Agenas                        | Performance sanitaria, qualità, accreditamento, HTA |
+| Istituto Superiore di Sanità  | Linee guida e documentazione tecnico-scientifica    |
+| Regioni                       | Organizzazione del SSR e disciplina regionale       |
+| Portali di ASL/AO/IRCCS       | Atti aziendali, regolamenti e concorsi              |
+| inPA                          | Ricerca dei bandi                                   |
+| ARAN                          | Contratti e orientamenti                            |
+| Garante privacy               | Dati sanitari e accesso                             |
+| FNOPI                         | Infermieristica                                     |
+| FNO TSRM e PSTRP              | Professioni tecniche e della prevenzione            |
+| FNOMCeO                       | Professione medica                                  |
+| Co.Ge.A.P.S. / ECM            | Formazione continua, ove pertinente                 |
+| AIFA                          | Farmaci e governance farmaceutica                   |
+| Banca dati dispositivi medici | Procurement e vigilanza sui dispositivi             |
+
+## 7. Bandi-tipo
+
+Bandi canonici iniziali:
+
+* ASL Bari;
+* ASL Novara – infermiere;
+* AUSL Valle d’Aosta – dirigenza medica;
+* Azienda Zero Piemonte – TSLB.
+
+Il campione deve essere ampliato, mantenendo distinti:
+
+1. amministrativi;
+2. infermieri;
+3. altre professioni;
+4. dirigenza medica;
+5. dirigenza sanitaria non medica;
+6. tecnici di laboratorio;
+7. tecnici di radiologia;
+8. prevenzione.
+
+## 8. Manualistica e dottrina
+
+La bibliografia secondaria dovrà essere selezionata per funzione:
+
+* manuale di legislazione sanitaria;
+* manuale di organizzazione del SSN;
+* manuale di diritto sanitario;
+* manuale di contabilità delle aziende sanitarie;
+* manuale di management e programmazione sanitaria;
+* manuale di responsabilità professionale;
+* manuali disciplinari professionali;
+* testi di risk management e clinical governance;
+* manuali di igiene, epidemiologia e sanità pubblica;
+* manuali tecnici TSLB e TSRM.
+
+Non devono essere usati manuali commerciali come fonte normativa primaria.
+
+---
+
+# OUTPUT B – Indice del libro di testo
+
+## Frontmatter standard
+
+### FM.1 – Come usare il VOL-07
+
+* rapporto tra VOL-01 e VOL-07;
+* principio delta content;
+* individuazione del proprio percorso;
+* uso del volume per quiz, scritto, orale e prova pratica;
+* rinvio al ricettario digitale.
+
+### FM.2 – A chi serve
+
+Tabella completa dei tredici profili della matrice M-SA01…M-SA04.
+
+### FM.3 – Cosa non troverai
+
+* diritto amministrativo generale;
+* pubblico impiego generale;
+* privacy generale;
+* contabilità pubblica generale;
+* appalti generali;
+* manuali clinici completi;
+* discipline professionali non pertinenti al proprio profilo.
+
+### FM.4 – Mappa ente-profilo-materia-prova
+
+Schema:
+
+**Azienda sanitaria → profilo → nucleo sanitario comune → disciplina professionale → output di prova.**
+
+### FM.5 – Bando Decoder sanitario
+
+* requisiti e iscrizione all’albo;
+* titoli ed equipollenze;
+* riserve;
+* prova scritta, pratica e orale;
+* normativa sanitaria;
+* disciplina professionale;
+* accertamenti;
+* graduatoria.
+
+### FM.6 – Piano 30/60/90 giorni
+
+Tre percorsi:
+
+* amministrativo;
+* professione sanitaria;
+* dirigente o tecnico specialistico.
+
+---
+
+## Capitoli
+
+| N. | Titolo e contenuto                                                                                                                | Parole | Materia matrice                            | Profili                                   | Frequenza                      | Output tipici                                    |
+| -: | --------------------------------------------------------------------------------------------------------------------------------- | -----: | ------------------------------------------ | ----------------------------------------- | ------------------------------ | ------------------------------------------------ |
+|  1 | **Orientarsi nei concorsi del Servizio sanitario** – enti, profili, prove, requisiti, albi e titoli                               |  1.600 | Architettura concorsuale sanitaria         | Tutti                                     | ND; trasversale in matrice     | Bando Decoder; checklist requisiti               |
+|  2 | **Il Servizio sanitario nazionale e regionale** – principi, livelli istituzionali, LEA, programmazione                            |  2.400 | SSN e legislazione sanitaria               | Tutti                                     | ND; presente in tutti i gruppi | Mappa Stato-Regione-azienda; quiz ragionati      |
+|  3 | **Come funziona un’azienda sanitaria** – ASL, AO, AOU, IRCCS, distretti, dipartimenti e direzioni                                 |  2.300 | Organizzazione aziende sanitarie           | Tutti                                     | ND; centrale M-SA01            | Organigramma; caso di competenza                 |
+|  4 | **Atti, procedimenti e flussi amministrativi sanitari** – declinazione sanitaria di delibere, determine, protocollo e fascicoli   |  2.000 | Gestione procedimenti e atti               | M-SA01                                    | ND                             | Schema atto; caso istruttorio; rinvio B-PA11     |
+|  5 | **Documentazione sanitaria, accesso e conservazione** – cartella clinica, documenti, rilascio, tracciabilità                      |  2.100 | Documentazione sanitaria                   | Tutti                                     | ND; ricorrente in matrice      | Caso accesso cartella; checklist documentale     |
+|  6 | **Privacy sanitaria, consenso e comunicazione al cittadino** – dati particolari, consenso, URP, bilanciamento                     |  2.200 | Privacy sanitaria e consenso               | Tutti                                     | ND                             | Caso privacy; risposta orale; rinvio B-PA07      |
+|  7 | **Sicurezza delle cure e responsabilità professionale** – rischio clinico, responsabilità della struttura e del professionista    |  2.500 | Responsabilità e sicurezza                 | M-SA02, M-SA03, M-SA04                    | ND                             | Caso evento avverso; mappa responsabilità        |
+|  8 | **Personale sanitario, profili, deontologia e lavoro in équipe** – aree, incarichi, ordini, doveri e collaborazione               |  2.200 | Deontologia e organizzazione professionale | Tutti                                     | ND                             | Mappa profili; quesiti situazionali              |
+|  9 | **Programmazione, budget e contabilità sanitaria** – ciclo economico-patrimoniale, budget, centri di responsabilità, controlli    |  2.400 | Contabilità sanitaria                      | M-SA01                                    | ND                             | Caso budget; lettura di prospetto; rinvio B-PA05 |
+| 10 | **Acquisti sanitari, farmaci, dispositivi e magazzino** – fabbisogno, approvvigionamento, tracciabilità, ciclo passivo            |  2.200 | Procurement sanitario                      | M-SA01                                    | ND                             | Caso acquisto; schema fabbisogno-procedura       |
+| 11 | **Qualità, accreditamento e governo clinico** – standard, indicatori, audit, appropriatezza, HTA essenziale                       |  2.100 | Qualità e clinical governance              | M-SA03; M-SA04; parziale M-SA01           | ND                             | Cruscotto indicatori; caso audit                 |
+| 12 | **Prevenzione, epidemiologia e sanità pubblica** – prevenzione collettiva, sorveglianza, controlli e promozione della salute      |  2.300 | Igiene ed epidemiologia                    | M-SA02 tecnico prevenzione; M-SA03 igiene | ND                             | Indagine guidata; schema epidemiologico          |
+| 13 | **Laboratori, diagnostica e tecnologie sanitarie: quadro comune** – qualità, biosicurezza, apparecchiature, dispositivi e rischio |  1.900 | Tecnologie e qualità                       | M-SA04                                    | ND                             | Checklist qualità; caso non conformità           |
+| 14 | **Le prove sanitarie: quiz, pratica, caso clinico e orale** – output differenziati per profilo                                    |  2.000 | Prove tipiche                              | Tutti                                     | ND                             | Griglie di risposta; simulazioni                 |
+| 15 | **Piani di preparazione per profilo** – percorsi amministrativo, infermiere, prevenzione, dirigente, TSLB e TSRM                  |  1.700 | Sintesi matrice profili                    | Tutti                                     | Non applicabile                | Piano 30/60/90; diario errori                    |
+
+**Totale corpo principale:** circa **31.900 parole**.
+
+### Struttura didattica minima di ogni capitolo
+
+1. obiettivo;
+2. richiamo al bando;
+3. mappa BANDO;
+4. spiegazione operativa;
+5. box “da sapere in 5 righe”;
+6. caso guidato;
+7. domanda da commissario;
+8. domanda-trappola;
+9. mini-esercizio;
+10. errore tipico;
+11. rinvii al VOL-01;
+12. fonti consolidate.
+
+Questa impostazione riprende il modello workbook e operativo del Metodo BANDO, nel quale mappe, esercizi, errori e strumenti compilabili sono parti strutturali del testo. 
+
+---
+
+## Appendici
+
+| Codice | Titolo                                                      | Target | Moduli/profili                    | Motivazione                                   |
+| ------ | ----------------------------------------------------------- | -----: | --------------------------------- | --------------------------------------------- |
+| A      | **Lessico sanitario essenziale**                            |  1.200 | Tutti                             | Delta rispetto al glossario PA del VOL-01     |
+| B      | **Schemi di atti e documenti sanitari**                     |  1.500 | M-SA01                            | Colonna 7: manuale sanità amministrativa      |
+| C      | **Contabilità e procurement sanitario operativo**           |  1.500 | M-SA01 contabile/acquisti         | Appendice specialistica                       |
+| D      | **Schede professioni sanitarie**                            |  1.500 | M-SA02                            | Ostetrica, fisioterapista e altre professioni |
+| E      | **Sanità pubblica, prevenzione e verbalizzazione**          |  1.300 | M-SA02 prevenzione; M-SA03 igiene | Appendice di profilo                          |
+| F      | **Laboratorio, radiologia e tecnologie: mappe comparative** |  1.500 | M-SA04                            | Introduzione ai manuali TSLB/TSRM             |
+
+### Manuali verticali esterni al conteggio
+
+* V7-INF – Manuale infermiere;
+* V7-DIR-MED – Manuale per disciplina medica;
+* V7-DIR-SAN – Dirigenza sanitaria non medica;
+* V7-TSLB – Manuale tecnico sanitario di laboratorio biomedico;
+* V7-TSRM – Manuale tecnico sanitario di radiologia medica.
+
+---
+
+## Checklist finale v4
+
+* [x] Matrice canonica file 09 utilizzata.
+* [x] Workflow file 08 seguito nelle sei fasi.
+* [x] Codici M-SA01, M-SA02, M-SA03 e M-SA04 dichiarati.
+* [x] Collocazione nel VOL-07 verificata.
+* [x] Tutti i profili della matrice sono tracciati.
+* [x] Fonti del VOL-01 non duplicate.
+* [x] Materie B-PA richiamate mediante cross-link.
+* [x] Principio delta content rispettato.
+* [x] Capitoli tracciati a materie e profili.
+* [x] Appendici motivate dalla matrice.
+* [x] Bandi canonici dichiarati.
+* [x] Gap dell’audit dichiarati.
+* [x] Frequenze non inventate e indicate come ND.
+* [x] Rinvii a VOL-08, VOL-09, VOL-10 e VOL-11 motivati.
+* [x] Pacchetti STANDARD e VERTICALE indicati, con esplicitazione di cosa non comprare.
+
+Il VOL-07 risulta quindi sviluppabile come **manuale sanitario comune compatto**, mentre la preparazione clinica e tecnico-professionale resta affidata ad appendici o manuali verticali, evitando un volume generalista e ingestibile. 
+
+[1]: https://www.normattiva.it/eli/id/1978/12/28/078U0833/CONSOLIDATED/?utm_source=chatgpt.com "LEGGE 23 dicembre 1978, n. 833 - Normattiva"
+[2]: https://www.normattiva.it/atto/caricaDettaglioAtto?atto.codiceRedazionale=17G00041&atto.dataPubblicazioneGazzetta=2017-03-17&bloccoAggiornamentoBreadCrumb=true&classica=true&dataVigenza=21%2F08%2F2025&generaTabId=true&tipoDettaglio=singolavigenza&title=lbl.dettaglioAtto&utm_source=chatgpt.com "LEGGE 8 marzo 2017, n. 24 - Normattiva"
+[3]: https://www.aranagenzia.it/wp-content/uploads/2024/05/2022.11.02-CCNL-comparto-sanita-Definitivo-f.to_.pdf?utm_source=chatgpt.com "CONTRATTO COLLETTIVO NAZIONALE DI LAVORO RELATIVO AL PERSONALE DEL COMPARTO SANITA’"
