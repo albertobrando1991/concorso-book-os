@@ -249,8 +249,29 @@ Il capitolo non puo' sostituire un manuale completo di diritto doganale. Tuttavi
 | Deposito | Collocazione temporanea o regime di stoccaggio. | Non confondere custodia logistica e regime doganale. |
 | Immissione in libera pratica | Regime che consente alle merci non unionali di acquisire posizione unionale, quando ricorrono le condizioni. | Collegare dazi, misure e formalita. |
 | Ammissione temporanea | Uso temporaneo a condizioni determinate. | Non trattarla come importazione ordinaria definitiva. |
+| Uso finale | Impiego della merce per una finalita' prevista alle condizioni applicabili. | Non considerarlo un regime generico privo di vincoli. |
+| Perfezionamento | Lavorazione e successiva destinazione della merce secondo il regime autorizzato. | Non ridurlo a un semplice conto lavorazione commerciale. |
 
 Questi esempi servono per riconoscere i nomi in un bando o in un quiz. I regimi puntuali, i presupposti e le autorizzazioni devono essere verificati sulla disciplina vigente.
+
+Il regime doganale non e' un'etichetta burocratica: determina la destinazione giuridica della merce, gli obblighi, i controlli e l'appuramento finale. Il candidato deve domandarsi se la merce entra definitivamente nel mercato, attraversa il territorio, viene custodita, utilizzata per uno scopo particolare o lavorata. Autorizzazione, garanzia, registrazioni e termini dipendono dal regime applicabile.
+
+#### Debito doganale, garanzia, sgravio e rimborso
+
+Il debito doganale e' l'obbligo di pagare i dazi all'importazione o all'esportazione applicabili a una determinata merce quando ricorrono i presupposti previsti. Non coincide con il valore della merce né con la semplice dichiarazione. Puo' sorgere per il regolare vincolo a un regime oppure in conseguenza dell'inosservanza di obblighi doganali, secondo la fattispecie vigente.
+
+La garanzia tutela l'adempimento di un debito esistente o potenziale. Non sostituisce il debito e non e' una sanzione: assicura la riscossione quando l'obbligazione diviene esigibile. Anche rimborso e sgravio vanno distinti: il primo restituisce una somma gia' pagata nei casi previsti; il secondo evita o elimina l'esazione secondo la disciplina applicabile.
+
+| Concetto | Funzione | Errore da evitare |
+|---|---|---|
+| Debito doganale | Obbligo di pagamento dei diritti dovuti | Ridurlo all'importo indicato in fattura |
+| Garanzia | Copertura del rischio di mancato pagamento o di obbligazioni potenziali | Considerarla una sanzione |
+| Sgravio | Non esazione o eliminazione del debito nei casi previsti | Confonderlo con la restituzione di una somma |
+| Rimborso | Restituzione di quanto gia' versato | Usarlo come sinonimo di annullamento |
+
+**Domanda-trappola.** Se una merce e' vincolata a un regime speciale, il debito doganale non puo' mai sorgere?
+
+No. Il regime puo' sospendere o modulare l'impatto dei diritti, ma il debito puo' sorgere quando lo prevedono i presupposti legali o in caso di inosservanza degli obblighi. Regime, debito e garanzia restano tre piani distinti.
 
 ### ADM come contesto di lavoro
 
