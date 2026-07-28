@@ -1,4 +1,4 @@
-﻿# Agent Memory Scenarios
+# Agent Memory Scenarios
 
 ## 2026-05-27T21:45:00.000Z - global
 
@@ -128,8 +128,8 @@
 - route: codex/chapter09-image-audit
 - l0: l0/conv-20260529182213-djvsvf.md
 - atoms:
-  - mem-20260529182213-16onnkx | workflow | Effettua un controllo capillare sulle immagini inserite all'interno del capitolo 9, perchÃ© i testi di alcune escono dai margini e non sono ottimizzate.
-  - mem-20260529182213-jo8qr4 | result | Esito codex/chapter09-image-audit: Effettua un controllo capillare sulle immagini inserite all'interno del capitolo 9, perchÃ© i testi di alcune escono dai margini e non sono ottimizzate. -> Rifiniti i master SVG/PNG del capitolo 9, in particolare figura 9.3 con barre e nota ampliate; aggiunto audit Playwright dei bounding box testuali negli SVG e controllo di impaginazione A4 per tutte le sei immagini.
+  - mem-20260529182213-16onnkx | workflow | Effettua un controllo capillare sulle immagini inserite all'interno del capitolo 9, perché i testi di alcune escono dai margini e non sono ottimizzate.
+  - mem-20260529182213-jo8qr4 | result | Esito codex/chapter09-image-audit: Effettua un controllo capillare sulle immagini inserite all'interno del capitolo 9, perché i testi di alcune escono dai margini e non sono ottimizzate. -> Rifiniti i master SVG/PNG del capitolo 9, in particolare figura 9.3 con barre e nota ampliate; aggiunto audit Playwright dei bounding box testuali negli SVG e controllo di impaginazione A4 per tutte le sei immagini.
 
 ## 2026-05-30T12:18:00+02:00 - manual-writer
 
@@ -1449,6 +1449,113 @@
 - atoms:
   - mem-20260703153748-pv65mj | workflow | Analizzare il DOCX Idea di business e vendita libri Capitale Personale e ristrutturare dashboard e lista testi in funzione della nuova struttura dei volumi.
   - mem-20260703153748-1g54jxj | result | Esito codex/dashboard-catalog-restructure: Analizzare il DOCX Idea di business e vendita libri Capitale Personale e ristrutturare dashboard e lista testi in funzione della nuova struttura dei volumi. -> Dashboard ristrutturata intorno al catalogo commerciale a 12 volumi.
+## 2026-07-03T20:50:49.057Z - editorial-design
+
+- conversation_id: conv-20260703205049-1i6c700
+- route: codex/editorial-images/mfc02-chapter03
+- l0: l0/conv-20260703205049-1i6c700.md
+- atoms:
+  - mem-20260703205049-xs17hp | workflow | Integra immagini editoriali coerenti con il libro base nel capitolo 3 M-FC02 Ordinamento e organizzazione AE, ADM e AdER.
+  - mem-20260703205049-18xtqz9 | result | Esito codex/editorial-images/mfc02-chapter03: Integra immagini editoriali coerenti con il libro base nel capitolo 3 M-FC02 Ordinamento e organizzazione AE, ADM e AdER. -> Capitolo 3 M-FC02 illustrato con 5 figure SVG+PNG 1600x900 in stile libro base: mappa BANDO organizzativa, schema MEF/agenzie/riscossione, tre funzioni AE/ADM/AdER, centro-territorio-canali, accertamento/riscossione.
+
+## 2026-07-06T21:11:41.359Z - manual-writer
+
+- conversation_id: conv-20260706211141-v0iekc
+- route: codex/manual-writer/mfc02-chapter11
+- l0: l0/conv-20260706211141-v0iekc.md
+- atoms:
+  - mem-20260706211141-1dd8fmu | workflow | Redigere il capitolo 11 del modulo M-FC02 con struttura editoriale degli altri capitoli, fonti consolidate e fonti autorevoli se mancanti.
+  - mem-20260706211141-9c8454 | result | Esito codex/manual-writer/mfc02-chapter11: Redigere il capitolo 11 del modulo M-FC02 con struttura editoriale degli altri capitoli, fonti consolidate e fonti autorevoli se mancanti. -> M-FC02 capitolo 11 Contabilita aziendale ed economia d impresa per il fisco redatto come revised_draft/professional_draft.
+
+## 2026-07-06T21:24:03.503Z - editorial-design
+
+- conversation_id: conv-20260706212403-1k1l8ux
+- route: codex/editorial-images/mfc02-chapter11
+- l0: l0/conv-20260706212403-1k1l8ux.md
+- atoms:
+  - mem-20260706212403-m0fcby | workflow | Integra immagini editoriali coerenti con il libro base nel capitolo attuale M-FC02 capitolo 11.
+  - mem-20260706212403-1qzkitd | result | Esito codex/editorial-images/mfc02-chapter11: Integra immagini editoriali coerenti con il libro base nel capitolo attuale M-FC02 capitolo 11. -> M-FC02 capitolo 11 illustrato con 5 figure SVG+PNG 1600x900 in stile libro base: mappa BANDO bilancio-fisco, documenti del bilancio, ricavi/costi/incassi/pagamenti, utile/reddito/imposta, checklist bilancio-fisco.
+
+## 2026-07-06T21:33:56.542Z - manual-writer
+
+- conversation_id: conv-20260706213356-9r9bqa
+- route: codex/manual-writer/mfc02-chapter12
+- l0: l0/conv-20260706213356-9r9bqa.md
+- atoms:
+  - mem-20260706213356-1hq87i5 | workflow | Redigere il capitolo 12 del modulo didattico M-FC02 con struttura editoriale coerente, fonti consolidate e fonti autorevoli se mancanti.
+  - mem-20260706213356-1b7dk0n | result | Esito codex/manual-writer/mfc02-chapter12: Redigere il capitolo 12 del modulo didattico M-FC02 con struttura editoriale coerente, fonti consolidate e fonti autorevoli se mancanti. -> M-FC02 capitolo 12 Civile e commerciale applicati a fisco dogane e riscossione redatto come revised_draft/professional_draft.
+
+## 2026-07-06T21:48:36.891Z - editorial-design
+
+- conversation_id: conv-20260706214836-naeabt
+- route: codex/editorial-images/mfc02-chapter12
+- l0: l0/conv-20260706214836-naeabt.md
+- atoms:
+  - mem-20260706214836-cwxpgw | workflow | Integra immagini editoriali coerenti con il libro base nel capitolo attuale M-FC02 capitolo 12.
+  - mem-20260706214836-1vvw6u9 | result | Esito codex/editorial-images/mfc02-chapter12: Integra immagini editoriali coerenti con il libro base nel capitolo attuale M-FC02 capitolo 12. -> M-FC02 capitolo 12 illustrato con 5 figure SVG+PNG 1600x900 in stile libro base: mappa BANDO civile-commerciale, credito/debito e piani giuridici, contratto/fattura/pagamento, impresa-societa applicata ad AE ADM AdER,...
+
+## 2026-07-06T22:00:41.644Z - manual-writer
+
+- conversation_id: conv-20260706220041-18p68m3
+- route: codex/manual-writer/mfc02-chapter13
+- l0: l0/conv-20260706220041-18p68m3.md
+- atoms:
+  - mem-20260706220041-n7wvs4 | workflow | Redigere il capitolo 13 del modulo didattico M-FC02 con struttura editoriale coerente, fonti consolidate e fonti autorevoli se mancanti.
+  - mem-20260706220041-7og49 | result | Esito codex/manual-writer/mfc02-chapter13: Redigere il capitolo 13 del modulo didattico M-FC02 con struttura editoriale coerente, fonti consolidate e fonti autorevoli se mancanti. -> M-FC02 capitolo 13 Casi pratici quiz e orale nelle Agenzie fiscali redatto come revised_draft/professional_draft.
+
+## 2026-07-06T22:13:34.177Z - manual-writer
+
+- conversation_id: conv-20260706221334-lv8z9f
+- route: codex/editorial-images/mfc02-chapter13
+- l0: l0/conv-20260706221334-lv8z9f.md
+- atoms:
+  - mem-20260706221334-ju1vi6 | workflow | Creare e inserire immagini editoriali coerenti nel capitolo attuale del modulo M-FC02.
+  - mem-20260706221334-156olq4 | result | Esito codex/editorial-images/mfc02-chapter13: Creare e inserire immagini editoriali coerenti nel capitolo attuale del modulo M-FC02. -> M-FC02 capitolo 13 illustrato con 5 figure SVG+PNG 1600x900 in stile basebook_vector_diagrams: mappa BANDO della prestazione finale, quiz quattro mosse, casi AE ADM AdER, risposta orale 90 secondi, simulazione diario ...
+
+## 2026-07-09T14:46:29.594Z - manual-writer
+
+- conversation_id: conv-20260709144629-1fjp5w
+- route: codex/manual-writer/mfc02-chapter14
+- l0: l0/conv-20260709144629-1fjp5w.md
+- atoms:
+  - mem-20260709144629-pr9cvt | workflow | Redigere il capitolo 14 del modulo didattico M-FC02 con struttura editoriale coerente, fonti consolidate e fonti autorevoli se mancanti.
+  - mem-20260709144629-ohy39 | result | Esito codex/manual-writer/mfc02-chapter14: Redigere il capitolo 14 del modulo didattico M-FC02 con struttura editoriale coerente, fonti consolidate e fonti autorevoli se mancanti. -> M-FC02 capitolo 14 Appendici operative redatto come revised_draft/professional_draft.
+
+## 2026-07-09T16:46:06.602Z - global
+
+- conversation_id: conv-20260709164606-1lnjiwi
+- route: codex-vol-02-source-ready-outline
+- l0: l0/conv-20260709164606-1lnjiwi.md
+- atoms:
+  - mem-20260709164606-129nw28 | result | Esito codex-vol-02-source-ready-outline: Analizza VOL-02 Enti locali e Polizia locale, scarica fonti normative ufficiali e crea indice dettagliato del volume e moduli con front matter solo iniziale. -> Creato dossier source-ready VOL-02: 28 raw ufficiali scaricati, 14 source notes, 3 topic, 10 entity pages, volume index con FM1-FM6, quattro frontespizi/sommari modulo, piano editoriale e log.
+
+## 2026-07-09T17:07:48.201Z - editorial-vol-02
+
+- conversation_id: conv-20260709170748-1fi6g7j
+- route: manual_writer
+- l0: l0/conv-20260709170748-1fi6g7j.md
+- atoms:
+  - mem-20260709170748-1tspdy2 | instruction | Redigere il primo capitolo del modulo didattico VOL-02 in stile accademico/manualistico, coerente con gli altri capitoli, usando conoscenza consolidata e fonti autorevoli.
+  - mem-20260709170748-16ap4xb | result | Esito manual_writer: Redigere il primo capitolo del modulo didattico VOL-02 in stile accademico/manualistico, coerente con gli altri capitoli, usando conoscenza consolidata e fonti autorevoli. -> Creato il capitolo wiki/books/vol-02-enti-locali-polizia-locale/chapters/01-come-usare-vol-02-insieme-a-vol-01.md; aggiornati indice volume, indice wiki, topic enti locali, polizia locale, metodo bando e log; fonti co...
+
+## 2026-07-09T17:36:31.067Z - editorial-m-fl01
+
+- conversation_id: conv-20260709173631-4i7001
+- route: manual_writer
+- l0: l0/conv-20260709173631-4i7001.md
+- atoms:
+  - mem-20260709173631-rydjt8 | instruction | Redigere il capitolo M-FL01 del modulo didattico in stile accademico/manualistico, coerente con gli altri capitoli, con fonti consolidate e fonti autorevoli se necessarie.
+  - mem-20260709173631-zh6apd | result | Esito manual_writer: Redigere il capitolo M-FL01 del modulo didattico in stile accademico/manualistico, coerente con gli altri capitoli, con fonti consolidate e fonti autorevoli se necessarie. -> Creato il capitolo wiki/books/moduli/m-fl01-comuni-unioni/chapters/01-tuel-operativo-autonomia-organi-funzioni-comune.md, titolo TUEL operativo: autonomia, organi e funzioni del Comune; aggiornata source note TUEL, mo...
+
+## 2026-07-10T17:00:27.091Z - manual-writer
+
+- conversation_id: conv-20260710170027-n1qx9g
+- route: ManualWriterAgent.writeChapter
+- l0: l0/conv-20260710170027-n1qx9g.md
+- atoms:
+  - mem-20260710170027-1ay3e9n | workflow | instruction=Scrivi il capitolo effettivo come testo da manuale Metodo BANDO, non un riepilogo tecnico.
+  - mem-20260710170027-1egmkm2 | instruction | Usa prima il cervello wiki: struttura madre, nota capitolo, source notes, topic pages, entity pages e design system; aggiungi caso guidato, domanda-trappola, errori frequenti, mini-esercizio e note di ricerca web ufficiale se servono aggiornamenti.
+  - mem-20260710170027-ujvbjw | result | Esito ManualWriterAgent.writeChapter: chapterPath=books/moduli/m-fl01-comuni-unioni/chapters/01-tuel-operativo-autonomia-organi-funzioni-comune.md mode=integrate instruction=Scrivi il capitolo effettivo come testo da manuale Metodo BANDO, non un riepilogo... -> Manual Writer completato su books/moduli/m-fl01-comuni-unioni/chapters/01-tuel-operativo-autonomia-organi-funzioni-comune.md.
 
 ## 2026-07-10T22:13:34.957Z - catalog-dashboard
 
@@ -1510,19 +1617,712 @@
 - l0: l0/conv-20260716175048-14p2j85.md
 - atoms:
   - mem-20260716175048-savrbb | result | Esito Codex.canonicalTypographySystem: Applicare a tutti i libri, esistenti e futuri, questa struttura: H1/H2/H3 Arial Bold 18-20/14/12 pt; corpo Garamond Regular 11 pt con interlinea 1,15-1,20; tabelle, quiz, schemi e box Arial 9,5-10 pt. -> Standard canonico applicato al renderer condiviso, al Manual Writer, al Revisore Editoriale e alla documentazione di collana.
-
 ## 2026-07-17T14:24:23.074Z - global
-
 - conversation_id: conv-20260717142423-9pa203
 - route: codex/dashboard-open
 - l0: l0/conv-20260717142423-9pa203.md
-- atoms:
   - mem-20260717142423-1r6zl25 | result | Esito codex/dashboard-open: apri dashboard -> Dashboard ConcorsoBook ripristinata sulla porta 3000: fermata l'istanza Next bloccata, rimossa esclusivamente la cache generata .next, riavviato il launcher ufficiale, verificati homepage e CSS con HTTP 200 e aperto i...
-
 ## 2026-07-17T14:35:53.605Z - global
-
 - conversation_id: conv-20260717143553-1cfo53p
 - route: codex/git-delivery
 - l0: l0/conv-20260717143553-1cfo53p.md
-- atoms:
   - mem-20260717143553-gu8wy8 | result | Esito codex/git-delivery: fai commit e push del progetto attuale -> Preparata la consegna su main dell'aggiornamento tipografico canonico Arial/Garamond.
+
+## 2026-07-21T10:30:44.862Z - vol01-editorial-review
+
+- conversation_id: conv-20260721103044-14ay82y
+- route: codex.professional-review
+- l0: l0/conv-20260721103044-14ay82y.md
+- atoms:
+  - mem-20260721103044-c6a3gf | result | Esito codex.professional-review: Effettuare la revisione professionale del VOL-01 con matrice didattica obbligatoria, audit retroattivo, integrazione editoriale e gate finale; nessun completo con concetti solo nominati, rinvii generici o review norma... -> Creata la matrice VOL-01 con 17 nuclei: 2 completi e 15 parziali.
+
+## 2026-07-21T11:08:10.978Z - manual-writer
+
+- conversation_id: conv-20260721110810-1sqoqx4
+- route: vol01-p0-content-integration
+- l0: l0/conv-20260721110810-1sqoqx4.md
+- atoms:
+  - mem-20260721110810-1sj6tti | result | Esito vol01-p0-content-integration: Procedere con le competenze editoriali per modificare e implementare il Volume 1 secondo la matrice obbligatoria e il gate di copertura didattica integrale. -> Integrati nei capitoli 11, 17, 23 e 24 dieci mini-reading con spiegazione, dieci casi pratici, un cruscotto cartaceo settimanale e dodici checklist.
+
+## 2026-07-21T11:21:36.956Z - manual-writer
+
+- conversation_id: conv-20260721112136-adr3zc
+- route: vol01-p1-surface-structure
+- l0: l0/conv-20260721112136-adr3zc.md
+- atoms:
+  - mem-20260721112136-t0xprf | result | Esito vol01-p1-surface-structure: Procedere con il secondo blocco della revisione professionale del Volume 1. -> Risolti E08 ed E13: le sezioni Note di review sono escluse dalla preview pubblica con test di regressione e le heading Sanità amministrativa sono uniformate.
+
+## 2026-07-21T11:36:02.046Z - editorial-reviewer
+
+- conversation_id: conv-20260721113602-1cz9436
+- route: vol-01-intervento-p2
+- l0: l0/conv-20260721113602-1cz9436.md
+- atoms:
+  - mem-20260721113602-1xejkc | instruction | Procedere con la revisione professionale del VOL-01 usando matrice didattica, audit retroattivo, integrazione editoriale e gate finale, preservando il lavoro e usando rinvii solo quando il contenuto completo esiste davvero altrove.
+  - mem-20260721113602-1d3kmd4 | result | Esito vol-01-intervento-p2: Procedere con la revisione professionale del VOL-01 usando matrice didattica, audit retroattivo, integrazione editoriale e gate finale, preservando il lavoro e usando rinvii solo quando il contenuto completo esiste da... -> Intervento P2 completato: il Capitolo 9 e la source note canonica sono riallineati al D.Lgs.
+
+## 2026-07-21T11:49:43.026Z - editorial-reviewer
+
+- conversation_id: conv-20260721114943-9gtjny
+- route: vol-01-intervento-p3
+- l0: l0/conv-20260721114943-9gtjny.md
+- atoms:
+  - mem-20260721114943-7p0ao9 | result | Esito vol-01-intervento-p3: M-TR01 e M-TR02 saranno scritti a breve: mantenerli aperti e procedere con il passo successivo della revisione professionale del Volume 1. -> Completato l'intervento P3 sul Capitolo 9, Contratti pubblici essenziali.
+
+## 2026-07-21T12:08:32.882Z - editorial-reviewer
+
+- conversation_id: conv-20260721120832-x833iz
+- route: vol-01-intervento-p4
+- l0: l0/conv-20260721120832-x833iz.md
+- atoms:
+  - mem-20260721120832-7619i7 | result | Esito vol-01-intervento-p4: Prossimo passo nella revisione professionale del Volume 1, mantenendo M-TR01 e M-TR02 aperti finche non saranno scritti. -> Completato l'intervento P4 sul raccordo B-PA07 fra Capitolo 7 e Capitolo 10.
+
+## 2026-07-21T12:22:05.022Z - editorial-reviewer
+
+- conversation_id: conv-20260721122205-qgmkwh
+- route: vol-01-intervento-p5
+- l0: l0/conv-20260721122205-qgmkwh.md
+- atoms:
+  - mem-20260721122205-wocr9o | result | Esito vol-01-intervento-p5: Prossimo passo nella revisione professionale del Volume 1. -> Completato l'intervento P5 sul nucleo B-PA01 del Capitolo 4.
+
+## 2026-07-21T13:57:06.919Z - editorial-reviewer
+
+- conversation_id: conv-20260721135706-iuija9
+- route: vol-01-intervento-p6
+- l0: l0/conv-20260721135706-iuija9.md
+- atoms:
+  - mem-20260721135706-qa6u8k | result | Esito vol-01-intervento-p6: Procedere con il prossimo passo della revisione professionale del Volume 1. -> Completato l'intervento P6 sul nucleo B-PA02 del Capitolo 5.
+
+## 2026-07-21T14:15:22.100Z - editorial-reviewer
+
+- conversation_id: conv-20260721141522-105euax
+- route: vol-01-intervento-p7
+- l0: l0/conv-20260721141522-105euax.md
+- atoms:
+  - mem-20260721141522-1yxvlvx | result | Esito vol-01-intervento-p7: Procedere con il prossimo passo della revisione professionale del Volume 1. -> Completato P7 B-PA03 Capitolo 6: fonti D.Lgs.
+
+## 2026-07-21T14:26:22.870Z - editorial-reviewer
+
+- conversation_id: conv-20260721142622-8lixn
+- route: vol-01-intervento-p8
+- l0: l0/conv-20260721142622-8lixn.md
+- atoms:
+  - mem-20260721142622-19omj44 | result | Esito vol-01-intervento-p8: Procedere con il prossimo passo della revisione professionale del Volume 1. -> P8 B-PA04: consolidate distinzioni tra reato, illecito disciplinare e responsabilita contabile; aggiunta mappa delle fattispecie e report.
+
+## 2026-07-21T15:03:07.156Z - manual-writer
+
+- conversation_id: conv-20260721150307-qke7qs
+- route: codex/p9-capitolo-8-tracciabilita
+- l0: l0/conv-20260721150307-qke7qs.md
+- atoms:
+  - mem-20260721150307-h0t58v | workflow | Il Capitolo 8 contiene gia controlli, parificazione, agenti contabili e responsabilita erariale; il prossimo intervento deve essere mirato a tracciabilita normativa e mappa di studio, senza duplicare contenuti.
+  - mem-20260721150307-1axikhx | workflow | Proseguo con P9: il Capitolo 8 e confermato completo sul piano didattico di base; applica fonti, riferimenti normativi e matrice, senza duplicazioni.
+  - mem-20260721150307-1yo55ka | result | Esito codex/p9-capitolo-8-tracciabilita: Il Capitolo 8 contiene gia controlli, parificazione, agenti contabili e responsabilita erariale; il prossimo intervento deve essere mirato a tracciabilita normativa e mappa di studio, senza duplicare contenuti. -> P9 applicato al Capitolo 8: aggiunte solo traccia normativa, matrice fonte-nucleo-output e checkpoint; aggiornato B-PA05 a completo con review giuridica umana ancora obbligatoria.
+
+## 2026-07-23T08:24:51.501Z - editorial-reviewer
+
+- conversation_id: conv-20260723082451-ki8kz4
+- route: vol-01-intervento-p10
+- l0: l0/conv-20260723082451-ki8kz4.md
+- atoms:
+  - mem-20260723082451-1cxr7t6 | workflow | continua la revisione professionale del volume 1 in base alla nuova matrice, da dove ci siamo fermati anche dopo il lavoro di Claude
+  - mem-20260723082451-1myqto7 | result | Esito vol-01-intervento-p10: continua la revisione professionale del volume 1 in base alla nuova matrice, da dove ci siamo fermati anche dopo il lavoro di Claude -> Verificato e formalizzato P10 sui Capitoli 12, 14 e 18: i collegamenti interni già inseriti sono coerenti, B-PA10 resta completo nella matrice; aperta la sola verifica psicometrica/metodologica umana.
+
+## 2026-07-23T08:29:35.152Z - editorial-reviewer
+
+- conversation_id: conv-20260723082935-ob1n7n
+- route: vol-01-intervento-p11
+- l0: l0/conv-20260723082935-ob1n7n.md
+- atoms:
+  - mem-20260723082935-1tbaou6 | result | Esito vol-01-intervento-p11: prossimo passo -> P11 ha verificato l'apparato di riferimenti dei Capitoli 4-10 e ha chiuso E11 come rilievo superato.
+
+## 2026-07-23T08:35:13.566Z - editorial-reviewer
+
+- conversation_id: conv-20260723083513-1g7jre6
+- route: vol-01-intervento-p12
+- l0: l0/conv-20260723083513-1g7jre6.md
+- atoms:
+  - mem-20260723083513-1v24f7h | result | Esito vol-01-intervento-p12: prossimo passo -> P12 ha normalizzato il workflow del cartaceo principale: 31 file sono ora in editorial-review, con review_required invariato.
+
+## 2026-07-23T08:37:23.056Z - editorial-reviewer
+
+- conversation_id: conv-20260723083723-uopb1x
+- route: vol-01-intervento-p13
+- l0: l0/conv-20260723083723-uopb1x.md
+- atoms:
+  - mem-20260723083723-1il7t92 | result | Esito vol-01-intervento-p13: prossimo passo -> P13 ha controllato il Capitolo 11: dieci mini-reading con domanda, risposta e spiegazione sono presenti.
+
+## 2026-07-23T08:39:37.089Z - editorial-reviewer
+
+- conversation_id: conv-20260723083937-rpxesw
+- route: vol-01-intervento-p14
+- l0: l0/conv-20260723083937-rpxesw.md
+- atoms:
+  - mem-20260723083937-j4ulwl | result | Esito vol-01-intervento-p14: prossimo passo -> P14 ha verificato i Capitoli 15 e 17: sono presenti dieci casi completi con scenario, lettura, risposta modello ed errore da evitare.
+
+## 2026-07-23T08:46:25.153Z - editorial-reviewer
+
+- conversation_id: conv-20260723084625-3az0yu
+- route: vol-01-intervento-p15
+- l0: l0/conv-20260723084625-3az0yu.md
+- atoms:
+  - mem-20260723084625-13id8wj | result | Esito vol-01-intervento-p15: prossimo passo -> P15 ha verificato i Capitoli 13 e 16, chiudendo l'audit editoriale del blocco prove.
+
+## 2026-07-23T08:48:18.522Z - editorial-reviewer
+
+- conversation_id: conv-20260723084818-19wntuz
+- route: vol-01-intervento-p16
+- l0: l0/conv-20260723084818-19wntuz.md
+- atoms:
+  - mem-20260723084818-1mzfddi | result | Esito vol-01-intervento-p16: prosimo passo -> P16 ha verificato i Capitoli 19-22, confermando la logica core/modulo/prova e i piani 15/30/60/90 giorni.
+
+## 2026-07-23T08:55:04.182Z - editorial-reviewer
+
+- conversation_id: conv-20260723085504-18gd7zq
+- route: vol-01-intervento-p17
+- l0: l0/conv-20260723085504-18gd7zq.md
+- atoms:
+  - mem-20260723085504-p6vn6x | result | Esito vol-01-intervento-p17: prossimo passo -> P17 ha verificato diario, cruscotto e dodici checklist.
+
+## 2026-07-23T08:57:14.538Z - editorial-reviewer
+
+- conversation_id: conv-20260723085714-1dwdv7e
+- route: vol-01-intervento-p18
+- l0: l0/conv-20260723085714-1dwdv7e.md
+- atoms:
+  - mem-20260723085714-4hc1is | result | Esito vol-01-intervento-p18: prossimo passo -> P18 ha rieseguito il gate: VOL-01 ha 4 nuclei completi, 13 parziali, nessun nucleo solo nominato o mancante.
+
+## 2026-07-23T09:19:03.552Z - editorial-reviewer
+
+- conversation_id: conv-20260723091903-1lmzvyv
+- route: wiki/reviews/review-vol-01-intervento-p19-preview-a4-2026-07-23.md
+- l0: l0/conv-20260723091903-1lmzvyv.md
+- atoms:
+  - mem-20260723091903-c3ybel | result | Esito wiki/reviews/review-vol-01-intervento-p19-preview-a4-2026-07-23.md: Prossimo passo: continuare la revisione professionale di VOL-01 con la preview A4. -> P19 completata: la preview A4 runtime del Book Studio ha prodotto 349 pagine; il controllo DOM ha rilevato 0 overflow oltre 8 px e massimo 0 px.
+
+## 2026-07-23T09:25:44.695Z - editorial-reviewer
+
+- conversation_id: conv-20260723092544-y7m6al
+- route: wiki/reviews/review-vol-01-intervento-p20-prova-stampa-2026-07-23.md
+- l0: l0/conv-20260723092544-y7m6al.md
+- atoms:
+  - mem-20260723092544-19st2ne | result | Esito wiki/reviews/review-vol-01-intervento-p20-prova-stampa-2026-07-23.md: Prossimo passo. -> P20 completata: il Book Studio ha una preview A4 runtime ma non espone export PDF, stampa o endpoint di generazione PDF.
+
+## 2026-07-23T09:31:20.634Z - editorial-reviewer
+
+- conversation_id: conv-20260723093120-n33fve
+- route: wiki/reviews/review-vol-01-intervento-p21-costituzionale-2026-07-23.md
+- l0: l0/conv-20260723093120-n33fve.md
+- atoms:
+  - mem-20260723093120-jqh9oo | result | Esito wiki/reviews/review-vol-01-intervento-p21-costituzionale-2026-07-23.md: Procediamo in ordine a completarli. -> P21 ha chiuso B-PA01 a completo sul piano della copertura didattica e della verifica documentale: fonte Senato, Normattiva e Corte costituzionale ricontrollate il 23 luglio 2026.
+
+## 2026-07-23T09:32:52.562Z - editorial-reviewer
+
+- conversation_id: conv-20260723093252-xi8vas
+- route: wiki/reviews/review-vol-01-intervento-p22-amministrativo-2026-07-23.md
+- l0: l0/conv-20260723093252-xi8vas.md
+- atoms:
+  - mem-20260723093252-14eye2y | result | Esito wiki/reviews/review-vol-01-intervento-p22-amministrativo-2026-07-23.md: Procediamo in ordine a completarli. -> P21 e P22 completati in sequenza.
+
+## 2026-07-23T09:35:28.086Z - editorial-reviewer
+
+- conversation_id: conv-20260723093528-1ioks7a
+- route: wiki/reviews/review-vol-01-intervento-p23-pubblico-impiego-2026-07-23.md
+- l0: l0/conv-20260723093528-1ioks7a.md
+- atoms:
+  - mem-20260723093528-1vc565g | result | Esito wiki/reviews/review-vol-01-intervento-p23-pubblico-impiego-2026-07-23.md: Procedi. -> P23 ha chiuso B-PA03 a completo per copertura didattica e verifica documentale: D.Lgs.
+
+## 2026-07-23T09:48:51.417Z - editorial-reviewer
+
+- conversation_id: conv-20260723094851-1lgjba8
+- route: wiki/reviews/review-vol-01-intervento-p24-reati-pa-2026-07-23.md
+- l0: l0/conv-20260723094851-1lgjba8.md
+- atoms:
+  - mem-20260723094851-zxgal6 | result | Esito wiki/reviews/review-vol-01-intervento-p24-reati-pa-2026-07-23.md: Prossimo passo. -> P24 ha chiuso B-PA04 a completo per copertura didattica e verifica documentale: art.
+
+## 2026-07-23T09:53:44.151Z - editorial-reviewer
+
+- conversation_id: conv-20260723095344-1kjir9z
+- route: wiki/reviews/review-vol-01-intervento-p25-contratti-2026-07-23.md
+- l0: l0/conv-20260723095344-1kjir9z.md
+- atoms:
+  - mem-20260723095344-mgzi1z | result | Esito wiki/reviews/review-vol-01-intervento-p25-contratti-2026-07-23.md: Procedi. -> P25 ha chiuso B-PA06 a completo per copertura didattica e verifica documentale: D.Lgs.
+
+## 2026-07-23T10:23:15.626Z - editorial-reviewer
+
+- conversation_id: conv-20260723102315-x38pcw
+- route: wiki/reviews/review-vol-01-intervento-p26-privacy-digitale-2026-07-23.md
+- l0: l0/conv-20260723102315-x38pcw.md
+- atoms:
+  - mem-20260723102315-zlhsts | result | Esito wiki/reviews/review-vol-01-intervento-p26-privacy-digitale-2026-07-23.md: Prossimo passo. -> P26 ha chiuso B-PA07 a completo per copertura didattica e verifica documentale: CAD, GDPR e Piano Triennale AgID 2026 ricontrollati.
+
+## 2026-07-23T11:57:43.253Z - editorial-reviewer
+
+- conversation_id: conv-20260723115743-1mb7bcz
+- route: wiki/reviews/review-vol-01-intervento-p27-inglese-2026-07-23.md
+- l0: l0/conv-20260723115743-1mb7bcz.md
+- atoms:
+  - mem-20260723115743-1tovrut | result | Esito wiki/reviews/review-vol-01-intervento-p27-inglese-2026-07-23.md: Procedi. -> P27 ha chiuso B-PA08: verificati dieci mini-reading con testo, domanda, risposta e spiegazione e dieci chiavi grammaticali.
+
+## 2026-07-23T12:52:57.263Z - editorial-reviewer
+
+- conversation_id: conv-20260723125257-uc36nn
+- route: wiki/reviews/review-vol-01-intervento-p28-informatica-2026-07-23.md
+- l0: l0/conv-20260723125257-uc36nn.md
+- atoms:
+  - mem-20260723125257-4vfjsf | result | Esito wiki/reviews/review-vol-01-intervento-p28-informatica-2026-07-23.md: PROSSIMO PASSO? -> P28 ha chiuso B-PA09: verificati core operativo, caso guidato, otto domande da commissario, quattro mini-esercizi e checklist.
+
+## 2026-07-23T13:01:12.129Z - editorial-reviewer
+
+- conversation_id: conv-20260723130112-1suisc7
+- route: wiki/reviews/review-vol-01-intervento-p29-atti-casi-2026-07-23.md
+- l0: l0/conv-20260723130112-1suisc7.md
+- atoms:
+  - mem-20260723130112-17oc2md | result | Esito wiki/reviews/review-vol-01-intervento-p29-atti-casi-2026-07-23.md: procedi -> P29 ha chiuso B-PA11: verificati dieci casi completi, atto guidato, checklist, mini-simulazione e quadro delle prove teorico-pratiche.
+
+## 2026-07-23T13:10:08.615Z - editorial-reviewer
+
+- conversation_id: conv-20260723131008-5lfhfj
+- route: wiki/reviews/review-vol-01-intervento-p30-prove-2026-07-23.md
+- l0: l0/conv-20260723131008-5lfhfj.md
+- atoms:
+  - mem-20260723131008-1leyzuf | result | Esito wiki/reviews/review-vol-01-intervento-p30-prove-2026-07-23.md: procedi -> P30 ha chiuso V01-PROVE: verificati Capitoli 13-16, sequenza BANDO, schede, simulazioni, esercizi e diari.
+
+## 2026-07-23T17:41:48.401Z - editorial-reviewer
+
+- conversation_id: conv-20260723174148-18jlys
+- route: wiki/reviews/review-vol-01-intervento-p31-profili-2026-07-23.md
+- l0: l0/conv-20260723174148-18jlys.md
+- atoms:
+  - mem-20260723174148-h1a6uy | result | Esito wiki/reviews/review-vol-01-intervento-p31-profili-2026-07-23.md: procedi -> P31 ha chiuso V01-PROFILI: verificati core/delta, mappe, moduli e piani 15/30/60/90.
+
+## 2026-07-23T17:56:08.016Z - editorial-reviewer
+
+- conversation_id: conv-20260723175608-s0ggek
+- route: wiki/reviews/review-vol-01-intervento-p32-kit-2026-07-23.md
+- l0: l0/conv-20260723175608-s0ggek.md
+- atoms:
+  - mem-20260723175608-17wx1lb | result | Esito wiki/reviews/review-vol-01-intervento-p32-kit-2026-07-23.md: procedi -> P32 ha chiuso V01-KIT: verificati diario con sei categorie e cruscotto, piu dodici checklist autonome.
+
+## 2026-07-23T18:26:06.568Z - editorial-reviewer
+
+- conversation_id: conv-20260723182606-p52p7h
+- route: manual-p33-vol01-appendici
+- l0: l0/conv-20260723182606-p52p7h.md
+- atoms:
+  - mem-20260723182606-188tvtt | result | Esito manual-p33-vol01-appendici: Procedi con la revisione del volume 1. -> P33 ha chiuso V01-APP: 144 voci di glossario, 100 parole, Decoder di 9 pagine, piano di 12 pagine, tre durate orali e 13 profili.
+
+## 2026-07-23T18:35:46.778Z - editorial-reviewer
+
+- conversation_id: conv-20260723183546-ub6nam
+- route: humanizer-vol01-h1
+- l0: l0/conv-20260723183546-ub6nam.md
+- atoms:
+  - mem-20260723183546-1ep4dhr | workflow | Effettuare la revisione Humanizer su ogni capitolo del Volume 1 e applicare le correzioni necessarie.
+  - mem-20260723183546-dgmhrq | result | Esito humanizer-vol01-h1: Effettuare la revisione Humanizer su ogni capitolo del Volume 1 e applicare le correzioni necessarie. -> H1 ha umanizzato introduzione e Capitoli 1-3: rimosse negazioni formulaiche, enfasi generiche e segnali metatestuali, preservando fonti, struttura e strumenti workbook.
+
+## 2026-07-23T18:48:03.991Z - editorial-reviewer
+
+- conversation_id: conv-20260723184803-1gol61z
+- route: humanizer-vol01-h2
+- l0: l0/conv-20260723184803-1gol61z.md
+- atoms:
+  - mem-20260723184803-hzm1p8 | result | Esito humanizer-vol01-h2: Procedi. -> H2 ha umanizzato i Capitoli 4-6: Costituzione, diritto amministrativo e pubblico impiego.
+
+## 2026-07-23T18:50:09.913Z - editorial-reviewer
+
+- conversation_id: conv-20260723185009-12eznim
+- route: humanizer-vol01-h3
+- l0: l0/conv-20260723185009-12eznim.md
+- atoms:
+  - mem-20260723185009-1g5v5g2 | result | Esito humanizer-vol01-h3: Procedi. -> H3 ha umanizzato i Capitoli 7-9: trasparenza/anticorruzione/privacy, contabilita pubblica e contratti pubblici.
+
+## 2026-07-24T07:39:55.617Z - editorial-reviewer
+
+- conversation_id: conv-20260724073955-128k9id
+- route: humanizer-vol01-h4
+- l0: l0/conv-20260724073955-128k9id.md
+- atoms:
+  - mem-20260724073955-1ly7yk | result | Esito humanizer-vol01-h4: Procedi. -> H4 ha umanizzato i Capitoli 10-12: informatica/PA digitale, inglese e logica.
+
+## 2026-07-24T07:41:53.587Z - editorial-reviewer
+
+- conversation_id: conv-20260724074153-1kv27e7
+- route: humanizer-vol01-h5
+- l0: l0/conv-20260724074153-1kv27e7.md
+- atoms:
+  - mem-20260724074153-db9dn4 | result | Esito humanizer-vol01-h5: Procedi. -> H5 ha umanizzato i Capitoli 13-15: metodo di studio, quiz e prova scritta teorico-pratica.
+
+## 2026-07-24T08:03:51.298Z - editorial-reviewer
+
+- conversation_id: conv-20260724080351-17w17mt
+- route: humanizer-vol01-h6
+- l0: l0/conv-20260724080351-17w17mt.md
+- atoms:
+  - mem-20260724080351-3r8kvt | result | Esito humanizer-vol01-h6: Procedi. -> H6 ha umanizzato i Capitoli 16-18: orale, casi pratici e quesiti situazionali.
+
+## 2026-07-24T08:06:03.362Z - editorial-reviewer
+
+- conversation_id: conv-20260724080603-1m7ktl7
+- route: humanizer-vol01-h7
+- l0: l0/conv-20260724080603-1m7ktl7.md
+- atoms:
+  - mem-20260724080603-53m760 | result | Esito humanizer-vol01-h7: Procedi. -> H7 ha umanizzato i Capitoli 19-21: famiglie concorsuali, mappe profilo e moduli integrativi.
+
+## 2026-07-24T08:09:40.520Z - editorial-reviewer
+
+- conversation_id: conv-20260724080940-1il3gmo
+- route: humanizer-vol01-h8
+- l0: l0/conv-20260724080940-1il3gmo.md
+- atoms:
+  - mem-20260724080940-164qidb | result | Esito humanizer-vol01-h8: Procedi. -> H8 ha umanizzato i Capitoli 22-24: piano 30/60/90, diario degli errori e checklist.
+
+## 2026-07-24T08:19:08.965Z - editorial-reviewer
+
+- conversation_id: conv-20260724081908-1j1bpiz
+- route: humanizer-vol01-h9-final
+- l0: l0/conv-20260724081908-1j1bpiz.md
+- atoms:
+  - mem-20260724081908-zb7ilj | result | Esito humanizer-vol01-h9-final: Procedi. -> H9 ha completato la revisione Humanizer del Volume 1 cartaceo: Introduzione, capitoli 1-24 e Appendici A-F, per 31 file.
+
+## 2026-07-24T14:15:37.495Z - editorial-reviewer
+
+- conversation_id: conv-20260724141537-4sw2fm
+- route: ricettario-digitale-h1
+- l0: l0/conv-20260724141537-4sw2fm.md
+- atoms:
+  - mem-20260724141537-xdiyma | result | Esito ricettario-digitale-h1: Procedi. -> Avviato il primo blocco del Ricettario digitale: R1-R5, capitoli 25-29.
+
+## 2026-07-24T14:25:18.372Z - editorial-reviewer
+
+- conversation_id: conv-20260724142518-1j9pwao
+- route: ricettario-digitale-h2
+- l0: l0/conv-20260724142518-1j9pwao.md
+- atoms:
+  - mem-20260724142518-4ovvt8 | result | Esito ricettario-digitale-h2: Procedi. -> Revisione micro-editoriale e Humanizer applicata ai moduli R6-R10 del Ricettario digitale, capitoli 30-34.
+
+## 2026-07-24T14:31:48.826Z - editorial-reviewer
+
+- conversation_id: conv-20260724143148-cyi81n
+- route: ricettario-digitale-h3
+- l0: l0/conv-20260724143148-cyi81n.md
+- atoms:
+  - mem-20260724143148-14j19dp | result | Esito ricettario-digitale-h3: Procedi. -> Revisione micro-editoriale e Humanizer applicata ai moduli R11-R15 del Ricettario digitale, capitoli 35-39.
+
+## 2026-07-24T14:58:17.688Z - editorial-reviewer
+
+- conversation_id: conv-20260724145817-qirewl
+- route: ricettario-digitale-final
+- l0: l0/conv-20260724145817-qirewl.md
+- atoms:
+  - mem-20260724145817-19jg7n | result | Esito ricettario-digitale-final: Completa. -> Completata la revisione editoriale e Humanizer del Ricettario operativo digitale: 23 moduli, R1-R23, capitoli 25-47.
+
+## 2026-07-24T17:06:19.238Z - concorso-book
+
+- conversation_id: conv-20260724170619-473ga
+- route: codex/kdp-print-profile
+- l0: l0/conv-20260724170619-473ga.md
+- atoms:
+  - mem-20260724170619-1qhvvbc | project_fact | Vorrei impostare il libro con tutti i parametri previsti per la stampa con Amazon.
+  - mem-20260724170619-h8qhdq | result | Esito codex/kdp-print-profile: Vorrei impostare il libro con tutti i parametri previsti per la stampa con Amazon. -> Impostato il profilo di stampa Amazon KDP per Il Metodo BANDO: paperback A4 210 x 297 mm, bianco e nero su carta bianca, senza abbondanza, margini di sicurezza 18 mm sopra/sotto e 16 mm sui lati.
+
+## 2026-07-24T17:22:00.168Z - concorso-book
+
+- conversation_id: conv-20260724172200-99qela
+- route: codex/kdp-format-conversion
+- l0: l0/conv-20260724172200-99qela.md
+- atoms:
+  - mem-20260724172200-1rbnci4 | instruction | Adattiamo tutti i volumi al formato professionale 17 x 24 circa per Amazon KDP in maniera precisa.
+  - mem-20260724172200-v0ylt4 | result | Esito codex/kdp-format-conversion: Adattiamo tutti i volumi al formato professionale 17 x 24 circa per Amazon KDP in maniera precisa. -> Tutto il Book Studio e le istruzioni editoriali usano ora il paperback KDP 6,69 x 9,61 in (16,99 x 24,41 cm), bianco e nero su carta bianca senza bleed, con margini speculari e gutter da 23 mm compatibile con tutti i ...
+
+## 2026-07-24T18:37:15.849Z - concorso-book
+
+- conversation_id: conv-20260724183715-x8ht71
+- route: codex/kdp-layout-audit
+- l0: l0/conv-20260724183715-x8ht71.md
+- atoms:
+  - mem-20260724183715-1cqjnjg | instruction | Procedi con il controllo di riflusso del Volume 1 nel formato KDP.
+  - mem-20260724183715-1wm2j1f | result | Esito codex/kdp-layout-audit: Procedi con il controllo di riflusso del Volume 1 nel formato KDP. -> Audit visuale KDP eseguito sul Volume 1: 554 pagine, nessun overflow.
+
+## 2026-07-25T11:16:42.791Z - concorso-book
+
+- conversation_id: conv-20260725111642-15ottoq
+- route: codex/volume1-print-master
+- l0: l0/conv-20260725111642-15ottoq.md
+- atoms:
+  - mem-20260725111642-1af28fv | result | Esito codex/volume1-print-master: Il Volume 1 deve mantenere immagini, testo giustificato, pagine allineate e tipografia professionale coerente. -> Master corretto: immagini senza compattazione selettiva, Garamond 11 pt per il corpo giustificato, gerarchia Arial per titoli e strumenti, margini speculari KDP 20/13 mm e controllo automatico di immagini e overflow.
+
+## 2026-07-25T14:18:29.635Z - concorso-book
+
+- conversation_id: conv-20260725141829-1h2gv8
+- route: codex/volume1-layout-balance
+- l0: l0/conv-20260725141829-1h2gv8.md
+- atoms:
+  - mem-20260725141829-1yzxeeb | result | Esito codex/volume1-layout-balance: Procedi con il bilanciamento professionale delle pagine del Volume 1 mantenendo immagini, giustificazione e coerenza tipografica. -> Corretto il doppio accantonamento del margine inferiore nel budget di paginazione.
+
+## 2026-07-25T14:59:56.382Z - concorso-book
+
+- conversation_id: conv-20260725145956-1lpsf9l
+- route: codex/dashboard-essential-performance
+- l0: l0/conv-20260725145956-1lpsf9l.md
+- atoms:
+  - mem-20260725145956-yzalpc | workflow | Alleggerire molto la dashboard sulle funzioni essenziali per praticità e velocità di esecuzione.
+  - mem-20260725145956-a7dw5x | result | Esito codex/dashboard-essential-performance: Alleggerire molto la dashboard sulle funzioni essenziali per praticità e velocità di esecuzione. -> Dashboard essenziale implementata con selezione testo, Studio, Writer e Revisione.
+
+## 2026-07-25T15:08:09.350Z - concorso-book
+
+- conversation_id: conv-20260725150809-m7r0we
+- route: codex/github-team-sync
+- l0: l0/conv-20260725150809-m7r0we.md
+- atoms:
+  - mem-20260725150809-1djo0lm | result | Esito codex/github-team-sync: Portare tutte le modifiche su GitHub preservando eventuali modifiche dello staff non ancora scaricate localmente. -> Prima del commit e del push è stato eseguito fetch di origin/main e verificata l'assenza di divergenze remote.
+
+## 2026-07-25T16:47:36.445Z - book:il-metodo-bando:ricettario
+
+- conversation_id: conv-20260725164736-yisggn
+- route: manual-image-integration
+- l0: l0/conv-20260725164736-yisggn.md
+- atoms:
+  - mem-20260725164736-12k8ltn | result | Esito manual-image-integration: Integra immagini professionali coerenti nel Ricettario digitale. -> Audit conclusivo: capitoli 34-47 con 7 riferimenti Markdown e 7 PNG ciascuno; 98 nuove immagini in totale, palette avorio-blu notte-bordeaux-oro e iconografia non testuale.
+
+## 2026-07-26T17:02:16.955Z - book:il-metodo-bando:ricettario
+
+- conversation_id: conv-20260726170216-1teh099
+- route: ricettario-layout-audit
+- l0: l0/conv-20260726170216-1teh099.md
+- atoms:
+  - mem-20260726170216-1u9e4fx | result | Esito ricettario-layout-audit: R22 ha immagini consecutive e alcuni esercizi sono formattati male; controlla tutto il Ricettario. -> Corretti R15-R23: immagini redistribuite nelle sezioni didattiche.
+
+## 2026-07-27T10:47:57.394Z - book:il-metodo-bando:design
+
+- conversation_id: conv-20260727104757-1c3ky3g
+- route: skill-installation
+- l0: l0/conv-20260727104757-1c3ky3g.md
+- atoms:
+  - mem-20260727104757-wj8ooo | result | Esito skill-installation: Aggiungi canvas-design al progetto per la revisione e l'ottimizzazione delle immagini. -> Aggiunta la skill condivisa .agents/skills/canvas-design/SKILL.md e registrato il suo uso in wiki/AGENTS.md: filosofia visiva, output PNG/PDF, audit Book Studio, controllo di overflow e tabelle stampabili.
+
+## 2026-07-27T11:19:51.723Z - book:il-metodo-bando:ricettario
+
+- conversation_id: conv-20260727111951-uqr8sg
+- route: codex/ricettario-image-review
+- l0: l0/conv-20260727111951-uqr8sg.md
+- atoms:
+  - mem-20260727111951-14o30t3 | result | Esito codex/ricettario-image-review: Attiva canvas-design e revisiona tutte le immagini del Ricettario: voci, rettangoli, sovrapposizioni e allineamenti devono essere perfetti. -> Completato audit di 161 immagini R1-R23.
+
+## 2026-07-27T11:50:44.746Z - book:il-metodo-bando:ricettario
+
+- conversation_id: conv-20260727115044-3p18bi
+- route: codex/ricettario-workbook-table-fix
+- l0: l0/conv-20260727115044-3p18bi.md
+- atoms:
+  - mem-20260727115044-1he47al | project_fact | Nel Ricettario diverse tabelle mostrano pipe e righe |---| come testo non formattato, per esempio Fonte controllata e Cosa aggiorno oggi.
+  - mem-20260727115044-t31tw8 | result | Esito codex/ricettario-workbook-table-fix: Nel Ricettario diverse tabelle mostrano pipe e righe |---| come testo non formattato, per esempio Fonte controllata e Cosa aggiorno oggi. -> Corretto il parser Book Studio: le righe vuote intenzionali delle schede workbook vengono ora preservate come celle compilabili.
+
+## 2026-07-27T12:59:34.665Z - concorso-book
+
+- conversation_id: conv-20260727125934-1xn4hyq
+- route: codex/staff-editorial-prompts
+- l0: l0/conv-20260727125934-1xn4hyq.md
+- atoms:
+  - mem-20260727125934-rxrmvh | instruction | Servono i prompt in ordine cronologico da fornire allo staff per applicare a tutti i volumi il processo di completamento e pubblicabilità usato sul Volume 1.
+  - mem-20260727125934-bp4yxm | result | Esito codex/staff-editorial-prompts: Servono i prompt in ordine cronologico da fornire allo staff per applicare a tutti i volumi il processo di completamento e pubblicabilità usato sul Volume 1. -> Creato il template canonico wiki/templates/prompt-staff-revisione-completa-volumi.md con 25 prompt e 25 gate: presa in carico, raccolta e consolidamento contributi, riconciliazione catalogo, perimetro, bandi, fonti, m...
+## 2026-07-17T14:11:04.922Z - vol-02-editorial
+- conversation_id: conv-20260717141104-2ktu9q
+- route: codex-vol02-dossier-v4-source-ready-index
+- l0: l0/conv-20260717141104-2ktu9q.md
+  - mem-20260717141104-1qpui69 | result | Esito codex-vol02-dossier-v4-source-ready-index: Analisi dossier VOL-02 v4; download fonti normative ufficiali; creazione indice dettagliato volume e moduli. -> Creato indice dettagliato source-ready per VOL-02 Enti locali e Polizia locale: front matter solo a inizio volume; frontespizi modulo con sommario; 46 raw ufficiali; source notes su ARAN Area FL 2022-2024, Legge 177/2...
+## 2026-07-17T15:07:58.782Z - vol-02-editorial
+- conversation_id: conv-20260717150758-1ro7y6e
+- route: codex-mfl01-module-summary-chapter01-draft
+- l0: l0/conv-20260717150758-1ro7y6e.md
+  - mem-20260717150758-1cal745 | workflow | Sviluppare sommario e capitoli del modulo M-FL01, quindi iniziare la scrittura professionale del primo capitolo.
+  - mem-20260717150758-1sa7htx | result | Esito codex-mfl01-module-summary-chapter01-draft: Sviluppare sommario e capitoli del modulo M-FL01, quindi iniziare la scrittura professionale del primo capitolo. -> Aggiornato M-FL01: sommario operativo del modulo, schede capitolo 02-14 source-ready, capitolo 01 TUEL operativo riscritto in bozza professionale di circa 4085 parole con struttura Metodo BANDO, riferimenti consolidat...
+## 2026-07-17T16:11:54.154Z - vol-02-editorial
+- conversation_id: conv-20260717161154-1xvlb4g
+- route: codex-mfl02-module-summary-chapter01-draft
+- l0: l0/conv-20260717161154-1xvlb4g.md
+  - mem-20260717161154-1w49ccg | workflow | Redigere il modulo M-FL02 Regioni Province e Citta metropolitane: sviluppare sommario modulo e capitoli, poi scrivere professionalmente il primo capitolo con fonti consolidate e autorevoli.
+  - mem-20260717161154-zglrl2 | result | Esito codex-mfl02-module-summary-chapter01-draft: Redigere il modulo M-FL02 Regioni Province e Citta metropolitane: sviluppare sommario modulo e capitoli, poi scrivere professionalmente il primo capitolo con fonti consolidate e autorevoli. -> Creati sommario operativo M-FL02, frontespizio-sommario del volume, 12 schede capitolo e bozza professionale del capitolo 1 Il sistema territoriale multilivello.
+## 2026-07-17T16:54:43.803Z - vol-02-editorial
+- conversation_id: conv-20260717165443-1eykv0t
+- route: codex-mfl02-chapter01-editorial-images
+- l0: l0/conv-20260717165443-1eykv0t.md
+  - mem-20260717165443-1atahmy | instruction | Integrare immagini editoriali nel capitolo attuale M-FL02 capitolo 1, coerenti con stile del libro base e senza sovrapposizioni.
+  - mem-20260717165443-ujp7h1 | result | Esito codex-mfl02-chapter01-editorial-images: Integrare immagini editoriali nel capitolo attuale M-FL02 capitolo 1, coerenti con stile del libro base e senza sovrapposizioni. -> Creati 5 diagrammi editoriali SVG/PNG 1600x900 per M-FL02 capitolo 1: mappa BANDO, architettura multilivello, principi di allocazione, catena avviso regionale, area vasta.
+## 2026-07-17T17:26:10.645Z - manual-writer
+- conversation_id: conv-20260717172610-om2let
+- route: codex-mfl03-module-summary-chapter01-draft
+- l0: l0/conv-20260717172610-om2let.md
+  - mem-20260717172610-owjsjj | workflow | Sviluppare sommario del modulo, capitoli previsti e primo capitolo professionale.
+  - mem-20260717172610-1tz3d73 | instruction | Usare fonti wiki e fonti autorevoli ufficiali, in italiano formale e professionale.
+  - mem-20260717172610-3q28ov | result | Esito codex-mfl03-module-summary-chapter01-draft: Richiesta: redigere il modulo M-FL03 Camere di commercio. -> M-FL03 aggiornato a professional-draft-started.
+## 2026-07-17T17:52:40.731Z - manual-writer
+- conversation_id: conv-20260717175240-1snlp6t
+- route: codex-mfl03-chapter01-editorial-images
+- l0: l0/conv-20260717175240-1snlp6t.md
+  - mem-20260717175240-p6x9yi | workflow | Inserire immagini editoriali nel capitolo M-FL03 capitolo 1 Camere di commercio, sistema camerale e Unioncamere, coerenti con il libro base.
+  - mem-20260717175240-73vltt | result | Esito codex-mfl03-chapter01-editorial-images: Inserire immagini editoriali nel capitolo M-FL03 capitolo 1 Camere di commercio, sistema camerale e Unioncamere, coerenti con il libro base. -> Creati 5 asset didattici SVG+PNG 1600x900 in stile basebook_vector_diagrams per M-FL03 capitolo 1: mappa BANDO sistema camerale, autonomia funzionale Camera di commercio, sistema camerale e Unioncamere, funzioni camer...
+## 2026-07-17T18:18:21.278Z - manual-writer
+- conversation_id: conv-20260717181821-in8v2c
+- route: codex-mfl04-professional-draft-start
+- l0: l0/conv-20260717181821-in8v2c.md
+  - mem-20260717181821-1cttte0 | instruction | Redigere il modulo M-FL04 Polizia locale: sviluppare sommario e capitoli, poi scrivere il primo capitolo in stile accademico/manualistico con fonti consolidate e autorevoli.
+  - mem-20260717181821-ez8mmy | result | Esito codex-mfl04-professional-draft-start: Redigere il modulo M-FL04 Polizia locale: sviluppare sommario e capitoli, poi scrivere il primo capitolo in stile accademico/manualistico con fonti consolidate e autorevoli. -> Aggiornato M-FL04 Polizia locale: index modulo con sommario operativo a 15 capitoli, frontespizio-sommario VOL-02, schede source-ready capitoli 2-15, capitolo 1 completo 'Diventare agente o ufficiale di Polizia locale...
+## 2026-07-17T20:31:31.510Z - manual-writer
+- conversation_id: conv-20260717203131-163xl4v
+- route: codex-mfl01-chapter03-professional-draft
+- l0: l0/conv-20260717203131-163xl4v.md
+  - mem-20260717203131-15xe60i | workflow | Scrivere in maniera professionale il capitolo M-FL01 3 Organizzazione comunale, uffici, servizi e gestioni associate, attivando le skill necessarie.
+  - mem-20260717203131-1przcca | result | Esito codex-mfl01-chapter03-professional-draft: Scrivere in maniera professionale il capitolo M-FL01 3 Organizzazione comunale, uffici, servizi e gestioni associate, attivando le skill necessarie. -> Completato M-FL01 capitolo 3 come revised_draft professionale di 4129 parole e 444 righe.
+## 2026-07-17T20:42:34.401Z - manual-writer
+- conversation_id: conv-20260717204234-1llimhm
+- route: codex-mfl01-chapter04-professional-draft
+- l0: l0/conv-20260717204234-1llimhm.md
+  - mem-20260717204234-1rxflag | workflow | Scrivere in maniera professionale il capitolo M-FL01 4 Deliberazioni, determinazioni, decreti, ordinanze e pareri, attivando le skill necessarie.
+  - mem-20260717204234-1sr7vxu | result | Esito codex-mfl01-chapter04-professional-draft: Scrivere in maniera professionale il capitolo M-FL01 4 Deliberazioni, determinazioni, decreti, ordinanze e pareri, attivando le skill necessarie. -> Completato M-FL01 capitolo 4 come revised_draft professionale di 3859 parole e 438 righe.
+## 2026-07-17T20:54:34.149Z - manual-writer
+- conversation_id: conv-20260717205434-xtqnki
+- route: codex-mfl01-cap05-procedimento-accesso
+- l0: l0/conv-20260717205434-xtqnki.md
+  - mem-20260717205434-1bxkf23 | workflow | Scrivere in maniera professionale il capitolo M-FL01 5 Procedimento locale, protocollo, albo, URP e accesso, attivando le skill necessarie.
+  - mem-20260717205434-13hmre6 | result | Esito codex-mfl01-cap05-procedimento-accesso: Scrivere in maniera professionale il capitolo M-FL01 5 Procedimento locale, protocollo, albo, URP e accesso, attivando le skill necessarie. -> Redatto il capitolo M-FL01 5 in bozza professionale: procedimento locale, protocollo, fascicolo, responsabile del procedimento, albo pretorio online, amministrazione trasparente, URP, accesso documentale, accesso civi...
+## 2026-07-17T21:14:40.304Z - manual-writer
+- conversation_id: conv-20260717211440-mdakhq
+- route: codex-mfl01-cap06-servizi-digitali
+- l0: l0/conv-20260717211440-mdakhq.md
+  - mem-20260717211440-y2unpm | workflow | Scrivere in maniera professionale il capitolo M-FL01 6 Servizi digitali comunali, CAD, ANPR e gestione documentale, attivando tutte le skill necessarie.
+  - mem-20260717211440-1b0vsoo | result | Esito codex-mfl01-cap06-servizi-digitali: Scrivere in maniera professionale il capitolo M-FL01 6 Servizi digitali comunali, CAD, ANPR e gestione documentale, attivando tutte le skill necessarie. -> Redatto il capitolo M-FL01 6 in bozza professionale: servizi digitali comunali, CAD, identita digitale, domicilio digitale, PEC, firma elettronica/digitale, documento informatico, protocollo e fascicolo informatico, m...
+## 2026-07-17T21:29:40.110Z - manual-writer
+- conversation_id: conv-20260717212940-9751o2
+- route: codex-mfl01-cap07-servizi-demografici-elettorali
+- l0: l0/conv-20260717212940-9751o2.md
+  - mem-20260717212940-u1488m | workflow | Scrivere in maniera professionale il capitolo M-FL01 7 Servizi demografici ed elettorali, attivando tutte le skill necessarie.
+  - mem-20260717212940-mcwsh | result | Esito codex-mfl01-cap07-servizi-demografici-elettorali: Scrivere in maniera professionale il capitolo M-FL01 7 Servizi demografici ed elettorali, attivando tutte le skill necessarie. -> Redatto il capitolo M-FL01 7 in bozza professionale: servizi demografici ed elettorali come funzioni pubbliche comunali, anagrafe e ANPR, residenza e variazioni, stato civile e ANSC, elettorale, certificati, dichiaraz...
+## 2026-07-17T21:43:39.328Z - manual-writer
+- conversation_id: conv-20260717214339-1q3vo2j
+- route: codex-mfl01-cap08-welfare-locale
+- l0: l0/conv-20260717214339-1q3vo2j.md
+  - mem-20260717214339-19vyijf | workflow | Scrivere in maniera professionale il capitolo M-FL01 8 Welfare locale, servizi sociali, ISEE, minori e servizi educativi, attivando tutte le skill necessarie.
+  - mem-20260717214339-hznf2i | result | Esito codex-mfl01-cap08-welfare-locale: Scrivere in maniera professionale il capitolo M-FL01 8 Welfare locale, servizi sociali, ISEE, minori e servizi educativi, attivando tutte le skill necessarie. -> Redatto il capitolo M-FL01 8 in bozza professionale: welfare locale come sistema amministrativo, L.
+## 2026-07-18T15:41:17.237Z - manual-writer
+- conversation_id: conv-20260718154117-lptga7
+- route: codex-mfl01-cap09-programmazione-integrata
+- l0: l0/conv-20260718154117-lptga7.md
+  - mem-20260718154117-1088c4c | workflow | Scrivere in maniera professionale il capitolo M-FL01 9 Programmazione integrata comunale: DUP, bilancio, PEG, PIAO e performance, attivando tutte le skill necessarie.
+  - mem-20260718154117-n62bt4 | result | Esito codex-mfl01-cap09-programmazione-integrata: Scrivere in maniera professionale il capitolo M-FL01 9 Programmazione integrata comunale: DUP, bilancio, PEG, PIAO e performance, attivando tutte le skill necessarie. -> Redatto il capitolo M-FL01 9 in bozza professionale: programmazione integrata comunale come catena indirizzo-risorse-obiettivi-organizzazione-risultati; DUP, bilancio di previsione, PEG, PIAO, performance, ruolo di Co...
+## 2026-07-18T16:16:22.582Z - manual-writer
+- conversation_id: conv-20260718161622-sir6dd
+- route: m-fl01-capitolo-10-gestione-finanziaria-rendiconto-tesoreria-controlli
+- l0: l0/conv-20260718161622-sir6dd.md
+  - mem-20260718161622-bg2a1q | workflow | Scrivere in maniera professionale il capitolo M-FL01 10 Gestione finanziaria, rendiconto, tesoreria e controlli.
+  - mem-20260718161622-u86hpb | result | Esito m-fl01-capitolo-10-gestione-finanziaria-rendiconto-tesoreria-controlli: Scrivere in maniera professionale il capitolo M-FL01 10 Gestione finanziaria, rendiconto, tesoreria e controlli. -> Capitolo M-FL01 10 redatto come professional draft, con source notes aggiornate, nuova fonte tesoreria/SIOPE, topic gestione finanziaria comunale, entity Tesoriere e Organo di revisione, indici allineati e log aggiorn...
+## 2026-07-18T16:41:43.957Z - manual-writer
+- conversation_id: conv-20260718164143-zmbo2o
+- route: codex-mfl01-chapter11
+- l0: l0/conv-20260718164143-zmbo2o.md
+  - mem-20260718164143-s5vwsq | workflow | Scrivere in maniera professionale il capitolo M-FL01 11 Entrate, tributi locali, patrimonio, economato e riscossione.
+  - mem-20260718164143-gdvpxz | result | Esito codex-mfl01-chapter11: Scrivere in maniera professionale il capitolo M-FL01 11 Entrate, tributi locali, patrimonio, economato e riscossione. -> Redatto il capitolo M-FL01 11 in bozza professionale: entrate comunali, autonomia regolamentare, IMU, TARI, canone unico, riscossione, patrimonio, economato, agenti contabili e casi guidati.
+## 2026-07-18T17:30:12.346Z - manual-writer
+- conversation_id: conv-20260718173012-1cyktzo
+- route: codex-mfc04-chapter10-professional-draft
+- l0: l0/conv-20260718173012-1cyktzo.md
+  - mem-20260718173012-bzbjll | instruction | continua: proseguire con il prossimo capitolo M-FC04 dopo il capitolo 9, redigendo il capitolo 10 Casellario, carichi pendenti, archivi e certificati con fonti consolidate, verifica ufficiale e stile workbook Metodo BANDO.
+  - mem-20260718173012-14v3k0k | result | Esito codex-mfc04-chapter10-professional-draft: continua: proseguire con il prossimo capitolo M-FC04 dopo il capitolo 9, redigendo il capitolo 10 Casellario, carichi pendenti, archivi e certificati con fonti consolidate, verifica ufficiale e stile workbook Metodo B... -> M-FC04 capitolo 10 redatto come revised_draft professionale: casellario come sistema SIC/ECRIS, certificati, visure, carichi pendenti, PA/CERPA, decertificazione, datore lavoro, privacy, casi g...
+## 2026-07-18T17:58:35.529Z - manual-writer
+- conversation_id: conv-20260718175835-1hr0c9i
+- route: codex-mfc04-cap11-unep
+- l0: l0/conv-20260718175835-1hr0c9i.md
+  - mem-20260718175835-1txps9x | workflow | Continua con il capitolo 11 del modulo M-FC04 Giustizia e Ufficio per il processo: UNEP, notificazioni, esecuzioni, protesti e attivita dell'ufficiale giudiziario.
+  - mem-20260718175835-1xwmq72 | result | Esito codex-mfc04-cap11-unep: Continua con il capitolo 11 del modulo M-FC04 Giustizia e Ufficio per il processo: UNEP, notificazioni, esecuzioni, protesti e attivita dell'ufficiale giudiziario. -> Redatto il capitolo M-FC04 11 come bozza professionale Metodo BANDO, con fonti consolidate e verifica ufficiale su D.P.R.
+## 2026-07-18T18:08:34.680Z - manual-writer
+- conversation_id: conv-20260718180834-1ct8k58
+- route: codex-mfl01-cap12-procurement
+- l0: l0/conv-20260718180834-1ct8k58.md
+  - mem-20260718180834-1j2f796 | result | Esito codex-mfl01-cap12-procurement: Fermarsi su M-FC04 perche un altro terminale sta gia lavorando li; proseguire invece con M-FL01 12 Procurement operativo dell'ufficio comunale. -> Esito: M-FL01 capitolo 12 Procurement operativo dell'ufficio comunale redatto come bozza professionale Metodo BANDO.
+## 2026-07-20T08:00:02.875Z - manual-writer
+- conversation_id: conv-20260720080002-1i71fxh
+- route: codex-mfl01-cap13-territorio-patrimonio-edilizia-lavori
+- l0: l0/conv-20260720080002-1i71fxh.md
+  - mem-20260720080002-hrm3mk | workflow | Scrivere in maniera professionale il capitolo M-FL01 13 Territorio, patrimonio, edilizia e lavori: interfaccia amministrativa, attivando le skill necessarie.
+  - mem-20260720080002-1l3albx | result | Esito codex-mfl01-cap13-territorio-patrimonio-edilizia-lavori: Scrivere in maniera professionale il capitolo M-FL01 13 Territorio, patrimonio, edilizia e lavori: interfaccia amministrativa, attivando le skill necessarie. -> Redatto il capitolo M-FL01 13 in bozza professionale Metodo BANDO: interfaccia amministrativa tra SUE, SUAP, ufficio tecnico, patrimonio, lavori pubblici, Polizia locale, RUP e responsabile finanziario; inclusi mappa ...
+## 2026-07-20T08:09:58.631Z - manual-writer
+- conversation_id: conv-20260720080958-5ov4ov
+- route: codex-mfc04-cap12-giustizia-digitale
+- l0: l0/conv-20260720080958-5ov4ov.md
+  - mem-20260720080958-17i7yws | workflow | ora scrivi in maniera professionale attivando tutte e skill necessarie il capitolo M-FC04 12 Giustizia digitale: PCT, processo penale telematico e fascicolo
+  - mem-20260720080958-1vnyj99 | result | Esito codex-mfc04-cap12-giustizia-digitale: ora scrivi in maniera professionale attivando tutte e skill necessarie il capitolo M-FC04 12 Giustizia digitale: PCT, processo penale telematico e fascicolo -> Redatto M-FC04 capitolo 12 come revised_draft professionale: giustizia digitale, PCT, PST, processo penale telematico in transizione, fascicolo informatico, deposito, busta, ricevute, anomalie, privacy e scheda deposi...
+## 2026-07-20T08:13:31.659Z - manual-writer
+- conversation_id: conv-20260720081331-8qg25a
+- route: codex-mfl01-cap14-laboratorio-profili-comunali
+- l0: l0/conv-20260720081331-8qg25a.md
+  - mem-20260720081331-14qre3e | workflow | Scrivere in maniera professionale il capitolo M-FL01 14 Laboratorio teorico-pratico per i quattro profili comunali, attivando tutte le skill necessarie.
+  - mem-20260720081331-13tjrso | result | Esito codex-mfl01-cap14-laboratorio-profili-comunali: Scrivere in maniera professionale il capitolo M-FL01 14 Laboratorio teorico-pratico per i quattro profili comunali, attivando tutte le skill necessarie. -> Redatto il capitolo M-FL01 14 in bozza professionale Metodo BANDO: laboratorio finale per profili amministrativo, contabile, tecnico di interfaccia e servizi locali; incluse griglie profilo-materia-output, protocollo ...
+## 2026-07-20T08:29:02.814Z - manual-writer
+- conversation_id: conv-20260720082902-cxcno7
+- route: codex-mfl02-cap02-statuti-organi-organizzazione-regionale
+- l0: l0/conv-20260720082902-cxcno7.md
+  - mem-20260720082902-1bynca3 | workflow | Scrivere in maniera professionale il capitolo M-FL02 2 Statuti, organi e organizzazione regionale, attivando tutte le skill necessarie.
+  - mem-20260720082902-qdya6c | result | Esito codex-mfl02-cap02-statuti-organi-organizzazione-regionale: Scrivere in maniera professionale il capitolo M-FL02 2 Statuti, organi e organizzazione regionale, attivando tutte le skill necessarie. -> Redatto il capitolo M-FL02 02 in bozza professionale Metodo BANDO: statuto regionale, organi necessari, Consiglio, Giunta, Presidente, assessori, organizzazione amministrativa, direzioni, agenzie, enti strumentali, di...
+## 2026-07-20T08:34:58.139Z - manual-writer
+- conversation_id: conv-20260720083458-kxn1tl
+- route: codex-mfc04-cap13-minorile-comunita
+- l0: l0/conv-20260720083458-kxn1tl.md
+  - mem-20260720083458-1q7c9er | workflow | Scrivere in maniera professionale il capitolo M-FC04 13 Giustizia minorile e di comunita: servizi, mediazione e riparativa.
+## 2026-07-20T08:43:51.405Z - manual-writer
+- conversation_id: conv-20260720084351-1lsb8fm
+- route: codex-mfl02-cap03-funzioni-regionali-rapporti-stato-enti-locali
+- l0: l0/conv-20260720084351-1lsb8fm.md
+  - mem-20260720084351-1lsea7g | workflow | Scrivere in maniera professionale il capitolo M-FL02 3 Funzioni regionali e rapporti con Stato ed enti locali, attivando tutte le skill necessarie.
+  - mem-20260720084351-1ir2sv3 | result | Esito codex-mfl02-cap03-funzioni-regionali-rapporti-stato-enti-locali: Scrivere in maniera professionale il capitolo M-FL02 3 Funzioni regionali e rapporti con Stato ed enti locali, attivando tutte le skill necessarie. -> Redatto il capitolo M-FL02 03 in bozza professionale Metodo BANDO: funzioni regionali, rapporti Stato-Regioni-enti locali, distinzione materia competenza funzione, art.
+## 2026-07-20T09:00:29.797Z - manual-writer
+- conversation_id: conv-20260720090029-1nj01yc
+- route: codex-mfl02-cap04-procedimenti-atti-organizzazione-amministrativa-regionale
+- l0: l0/conv-20260720090029-1nj01yc.md
+  - mem-20260720090029-1h4zmdi | workflow | Scrivere in maniera professionale il capitolo M-FL02 4 Procedimenti, atti e organizzazione amministrativa regionale, attivando tutte le skill necessarie.
+  - mem-20260720090029-6gkjzt | result | Esito codex-mfl02-cap04-procedimenti-atti-organizzazione-amministrativa-regionale: Scrivere in maniera professionale il capitolo M-FL02 4 Procedimenti, atti e organizzazione amministrativa regionale, attivando tutte le skill necessarie. -> Redatto il capitolo M-FL02 04 in bozza professionale Metodo BANDO: procedimento regionale applicato, organizzazione e procedimento, deliberazioni decreti determinazioni, atti di programmazione e atti gestionali, avvis...
+## 2026-07-20T09:03:51.601Z - manual-writer
+- conversation_id: conv-20260720090351-1vihofn
+- route: codex-mfc04-cap14-penitenziario
+- l0: l0/conv-20260720090351-1vihofn.md
+  - mem-20260720090351-6ho3zw | workflow | Scrivere in maniera professionale il capitolo M-FC04 14 Amministrazione penitenziaria: trattamento, istituti ed esecuzione esterna.
+  - mem-20260720090351-1aq63k8 | result | Esito codex-mfc04-cap14-penitenziario: Scrivere in maniera professionale il capitolo M-FC04 14 Amministrazione penitenziaria: trattamento, istituti ed esecuzione esterna. -> Redatto il capitolo 14 come revised_draft da 813 righe e 7152 parole, con source note aggiornata tramite verifiche ufficiali Normattiva e Ministero su L.354/1975, DPR230/2000, D.Lgs.123/124 2018, D.Lgs.124/2018, D.L.9...
+## 2026-07-20T09:19:12.217Z - manual-writer
+- conversation_id: conv-20260720091912-w85osm
+- route: codex-mfl02-cap05-programmazione-bilancio-controlli-regionali
+- l0: l0/conv-20260720091912-w85osm.md
+  - mem-20260720091912-dsf9lo | workflow | Scrivere in maniera professionale il capitolo M-FL02 5 Programmazione, bilancio e controlli regionali, attivando tutte le skill necessarie.
+  - mem-20260720091912-odqnc7 | result | Esito codex-mfl02-cap05-programmazione-bilancio-controlli-regionali: Scrivere in maniera professionale il capitolo M-FL02 5 Programmazione, bilancio e controlli regionali, attivando tutte le skill necessarie. -> Redatto il capitolo M-FL02 05 in bozza professionale Metodo BANDO: programmazione finanziaria regionale, principi costituzionali di equilibrio copertura e autonomia, D.Lgs.
+## 2026-07-20T09:52:27.502Z - manual-writer
+- conversation_id: conv-20260720095227-16ov0f8
+- route: codex-mfl02-cap06-tecnica-legislativa-air-vir-drafting
+- l0: l0/conv-20260720095227-16ov0f8.md
+  - mem-20260720095227-s46tly | workflow | Scrivere in maniera professionale il capitolo M-FL02 6 Tecnica legislativa, AIR/VIR e drafting, attivando tutte le skill necessarie.
+  - mem-20260720095227-1nho7kf | result | Esito codex-mfl02-cap06-tecnica-legislativa-air-vir-drafting: Scrivere in maniera professionale il capitolo M-FL02 6 Tecnica legislativa, AIR/VIR e drafting, attivando tutte le skill necessarie. -> Redatto il capitolo M-FL02 06 in bozza professionale Metodo BANDO: tecnica legislativa regionale, competenza e problema pubblico, AIR ex ante, VIR ex post, consultazione, istruttoria normativa, analisi tecnico-normati...
+## 2026-07-20T10:07:23.390Z - manual-writer
+- conversation_id: conv-20260720100723-cjrc51
+- route: codex-mfl02-cap07-politiche-coesione-fondi-ue
+- l0: l0/conv-20260720100723-cjrc51.md
+  - mem-20260720100723-efdzt | workflow | Scrivere in maniera professionale il capitolo M-FL02 7 Politiche di coesione e fondi UE, attivando tutte le skill necessarie.
+  - mem-20260720100723-z42vbs | result | Esito codex-mfl02-cap07-politiche-coesione-fondi-ue: Scrivere in maniera professionale il capitolo M-FL02 7 Politiche di coesione e fondi UE, attivando tutte le skill necessarie. -> Redatto il capitolo M-FL02 07 in bozza professionale Metodo BANDO: politiche di coesione 2021-2027, Programmi regionali, FESR, FSE+, plurifondo, JTF, CTE, FSC, Accordi per la coesione, Autorita di Gestione, Comitato d...
+## 2026-07-20T10:29:49.558Z - manual-writer
+- conversation_id: conv-20260720102949-4tyuqc
+- route: codex-mfl02-cap08-pnrr-regis-dnsh
+- l0: l0/conv-20260720102949-4tyuqc.md
+  - mem-20260720102949-1sjrit3 | workflow | ora scrivi in maniera professionale attivando tutte e skill necessarie il capitolo M-FL02 8 PNRR territoriale, ReGiS, DNSH e controlli
+  - mem-20260720102949-13idya7 | result | Esito codex-mfl02-cap08-pnrr-regis-dnsh: ora scrivi in maniera professionale attivando tutte e skill necessarie il capitolo M-FL02 8 PNRR territoriale, ReGiS, DNSH e controlli -> Redatto capitolo M-FL02 8 in bozza professionale; aggiornata source note PNRR/ReGiS/DNSH con verifica ufficiale 2026; aggiornati index, piano editoriale e log.
+
+## 2026-07-27T15:08:27.185Z - catalog-governance
+
+- conversation_id: conv-20260727150827-hyd8z4
+- route: codex/catalog-coherence-audit
+- l0: l0/conv-20260727150827-hyd8z4.md
+- atoms:
+  - mem-20260727150827-xvae26 | result | Esito codex/catalog-coherence-audit: Verificare la coerenza tra text-volumes.ts, architettura canonica, cartelle reali e frontmatter dei moduli; mantenere 12 volumi e 25 moduli; applicare solo correzioni catalogo non ambigue secondo la copertura v4. -> Audit completato: 25 cartelle modulo, 25 index e 54 capitoli coerenti.
+
+## 2026-07-28T18:02:46.305Z - concorso-book-os
+
+- conversation_id: conv-20260728180246-5fpiwu
+- route: codex-github-staff-sync-2026-07-28
+- l0: l0/conv-20260728180246-5fpiwu.md
+- atoms:
+  - mem-20260728180246-1skn11c | result | Esito codex-github-staff-sync-2026-07-28: Allineare il codice attuale a GitHub con le modifiche apportate dallo staff, preservando i contenuti già scritti dall'utente. -> Integrato origin/main nella branch mfc02-didactic-coverage-20260727 con merge conservativo.

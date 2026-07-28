@@ -9,7 +9,7 @@ entities: ["Metodo BANDO", "Bando Decoder", "Diario degli errori", "Piano 30/60/
 source_refs: ["sources/simulazioni-concorsuali-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/struttura-madre-il-metodo-bando.md", "sources/apprendimento-efficace-active-recall-ripasso-distribuito.md", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md", "sources/capitoli-21-23-corpus-moduli-piano-diario-2026-06-01.md", "sources/checklist-operative-concorsi-metodo-bando.md", "sources/sostenibilita-preparazione-concorsi-metodo-bando.md", "sources/scelta-materiali-studio-concorsi-metodo-bando.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.91
-updated_at: 2026-07-01T20:00:00+02:00
+updated_at: 2026-07-24T00:00:00+02:00
 created_at: 2026-06-08T19:34:07+02:00
 review_required: true
 canonical: true
@@ -17,6 +17,7 @@ tags: ["book-chapter", "extra-chapter", "simulation", "method", "workbook"]
 book_id: il-metodo-bando
 outline_section: 34
 draft_stage: professional-complete-draft
+last_humanizer_revision: 2026-07-24
 last_compiled_from: ["sources/simulazioni-concorsuali-metodo-bando.md", "topics/simulazioni-concorsuali.md", "topics/metodo-bando.md", "topics/metodo-di-studio.md", "topics/prova-a-quiz.md", "topics/prova-scritta-teorico-pratica.md", "topics/prova-orale.md", "topics/diario-errori.md"]
 ---
 
@@ -24,7 +25,7 @@ last_compiled_from: ["sources/simulazioni-concorsuali-metodo-bando.md", "topics/
 
 > Modulo ricettario **R10** — Laboratorio simulazioni. Collega [[books/il-metodo-bando/chapters/la-prova-a-quiz|Cap. 14]], [[books/il-metodo-bando/chapters/prova-scritta-teorico-pratica|Cap. 15]], [[books/il-metodo-bando/chapters/la-prova-orale|Cap. 16]] e [[books/il-metodo-bando/chapters/casi-pratici-problem-solving-amministrativo|Cap. 17]]; incrocia [[books/il-metodo-bando/chapters/diario-degli-errori|Cap. 23]], [[books/il-metodo-bando/chapters/manuali-corsi-banche-dati-scegliere-senza-disperdersi|R9]], [[books/il-metodo-bando/chapters/il-tuo-sistema-bando-personale|R8]], [[books/il-metodo-bando/chapters/strategia-di-punteggio-soglie-tempo-rischio-prova|R13]] e [[books/il-metodo-bando/chapters/banca-dati-ufficiale-studiarla-senza-memorizzare-male|R18]].
 
-Arriva un momento in cui leggere ancora non basta.
+Quando la lettura non produce più risposte verificabili, entra in gioco la simulazione.
 
 Hai studiato capitoli, fatto quiz, segnato errori, ascoltato spiegazioni, costruito schede. Ma la domanda decisiva resta una:
 
@@ -57,11 +58,13 @@ Alla fine del capitolo saprai:
 
 La regola è questa:
 
-> una simulazione è utile solo se cambia una decisione.
+> una simulazione è utile quando cambia una decisione.
 
 Se non modifica il piano, non corregge errori e non produce una prossima azione, è solo un esercizio lungo.
 
 ## La mappa BANDO della simulazione
+
+![Ciclo operativo della simulazione: studio, prova, correzione e consolidamento](../assets/chapter-34/01-ciclo-simulazione.png)
 
 Ogni simulazione deve nascere dal Metodo BANDO.
 
@@ -127,6 +130,8 @@ La simulazione finale non deve aggiungere caos. Deve stabilizzare.
 
 ## Il protocollo in tre tempi
 
+![Diagnosi visiva degli errori da trasformare in un piano di recupero](../assets/chapter-34/02-diagnosi-errori.png)
+
 Ogni simulazione ha tre tempi.
 
 ### 1. Prepara
@@ -188,6 +193,8 @@ La griglia dice perché.
 
 ## Il dossier simulazione
 
+![Assetto essenziale per impostare una simulazione a tempo](../assets/chapter-34/03-setup-simulazione.png)
+
 Ogni simulazione importante deve lasciare una traccia.
 
 Usa una pagina sola.
@@ -214,6 +221,8 @@ Una simulazione andata male può essere utilissima se produce una decisione corr
 Una simulazione andata bene può essere pericolosa se ti fa abbassare la guardia senza controllare i dettagli.
 
 ## Simulare la prova a quiz
+
+![Matrice visiva per decidere quando rispondere, saltare e tornare su un quesito](../assets/chapter-34/04-matrice-tempo-risposta.png)
 
 La simulazione a quiz deve riprodurre almeno quattro elementi:
 
@@ -242,6 +251,8 @@ Non correggere solo la risposta giusta.
 Correggi il distrattore che ti ha attratto. Spesso il tuo vero errore è li.
 
 ## Simulare lo scritto
+
+![Protocollo di correzione che converte l'errore in una scheda di studio](../assets/chapter-34/05-protocollo-correzione.png)
 
 La prova scritta non si simula leggendo tracce.
 
@@ -343,6 +354,8 @@ Per i quesiti situazionali usa questa sequenza:
 
 ## Il calendario minimo
 
+![Registro delle simulazioni per rilevare continuità e andamento](../assets/chapter-34/06-registro-simulazioni.png)
+
 Non fare tutte le simulazioni negli ultimi giorni.
 
 Distribuiscile.
@@ -385,6 +398,8 @@ Il punteggio è un dato. Non è una sentenza.
 Per soglie, tempo e gestione del rischio in prova, incrocia i risultati con [[books/il-metodo-bando/chapters/strategia-di-punteggio-soglie-tempo-rischio-prova|R13]].
 
 ## Caso guidato
+
+![Schema decisionale per affrontare un caso simulato e verificarne l'esito](../assets/chapter-34/07-caso-decisione.png)
 
 sarà prepara un concorso con prova scritta a quiz e orale successivo. Ha letto il manuale, fatto quiz per materia e compilato il Diario degli errori. Si sente abbastanza pronta, ma non ha mai simulato una prova intera.
 

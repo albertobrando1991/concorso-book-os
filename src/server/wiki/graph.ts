@@ -24,11 +24,14 @@ export async function buildKnowledgeGraph(store: FileWikiStore): Promise<Knowled
   const files = (await store.listMarkdown(""))
     .filter((file) => !file.startsWith("raw/"))
     .filter((file) => !file.startsWith("templates/"))
+  const documents = await Promise.all(files.map(async (file) => ({
+    file,
+    content: await store.readText(file)
+  })))
   const nodes = new Map<string, GraphNode>()
   const links: GraphLink[] = []
 
-  for (const file of files) {
-    const content = await store.readText(file)
+  for (const { file, content } of documents) {
     const parsed = parseFrontmatter(content)
     const id = toNodeId(file)
     const type = inferNodeType(file, String(parsed.data.type || ""))
@@ -41,8 +44,7 @@ export async function buildKnowledgeGraph(store: FileWikiStore): Promise<Knowled
     })
   }
 
-  for (const file of files) {
-    const content = await store.readText(file)
+  for (const { file, content } of documents) {
     const parsed = parseFrontmatter(content)
     const source = toNodeId(file)
 

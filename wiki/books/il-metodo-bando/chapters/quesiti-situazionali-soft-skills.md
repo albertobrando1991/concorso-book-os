@@ -9,14 +9,14 @@ entities: ["Pubblica amministrazione", "Dipendente pubblico", "Dipartimento dell
 source_refs: ["sources/struttura-madre-il-metodo-bando.md", "sources/capitolo-17-18-corpus-casi-pratici-quesiti-situazionali-2026-05-30.md", "sources/framework-competenze-trasversali-pa-dm-28-giugno-2023.md", "sources/prove-situazionali-concorsi-ripam-maeci-sna.md", "sources/ripam-giustizia-791-prove-logico-critico-verbale.md", "sources/d-p-r-16-aprile-2013-n-62-codice-comportamento-dipendenti-pubblici.md", "sources/d-p-r-13-giugno-2023-n-81-modifiche-codice-comportamento.md", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.9
-updated_at: "2026-06-08T13:23:01+02:00"
+updated_at: "2026-07-24T00:00:00+02:00"
 created_at: "2026-05-10T11:45:00+02:00"
 review_required: true
 canonical: true
-tags: ["book-chapter", "part-3"]
+tags: ["book-chapter", "part-3", "p10-chiusura-editoriale"]
 book_id: il-metodo-bando
 outline_section: 18
-draft_stage: revised-editorial-draft
+draft_stage: editorial-review
 last_compiled_from: ["sources/framework-competenze-trasversali-pa-dm-28-giugno-2023.md", "sources/prove-situazionali-concorsi-ripam-maeci-sna.md", "topics/quesiti-situazionali.md", "topics/competenze-trasversali-pa.md", "topics/soft-skills-pa.md", "topics/etica-pubblica.md", "topics/orientamento-al-cittadino.md"]
 ---
 
@@ -293,7 +293,7 @@ perché: protegge il servizio, l'immagine dell'ente e la gestione organizzativa.
 
 ## Come allenarsi
 
-L'allenamento sui quesiti situazionali deve essere diverso dal ripasso teorico. Non basta leggere soluzioni. Devi spiegare perché un'opzione è migliore.
+L'allenamento sui quesiti situazionali è diverso dal ripasso teorico. Non limitarti a leggere le soluzioni: spiega perché un'opzione è migliore.
 
 Usa questa routine:
 
@@ -357,6 +357,16 @@ Traccia di correzione:
 **Domanda:** Nei quesiti situazionali bisogna sempre scegliere l'opzione più disponibile verso il cittadino?
 
 No. L'orientamento al cittadino è essenziale, ma non può violare regole, dati, competenze o imparzialità. La migliore risposta è quella che aiuta l'utente nel percorso corretto, senza promettere esiti, senza favoritismi e senza scorciatoie informali.
+
+## Collegamenti con gli altri capitoli
+
+| Capitolo collegato | Collegamento |
+|---|---|
+| Logica, comprensione del testo e ragionamento | La stessa disciplina di eliminazione delle opzioni scorrette prima di scegliere la risposta migliore. |
+| La prova a quiz | Stesso formato a risposta multipla, con distrattori costruiti su comportamento invece che su calcolo. |
+| Casi pratici e problem solving amministrativo | Condivide fatti, competenza e proporzionalità come criteri di selezione della risposta corretta. |
+| Pubblico impiego e organizzazione della PA | Fornisce il quadro di doveri, incompatibilità e codice di comportamento richiamato negli esempi. |
+| Il diario degli errori | Registra le trappole ricorrenti (buonismo, rigidità, passività, iniziativa fuori ruolo) per il ripasso mirato. |
 
 ## Da sapere in 5 righe
 

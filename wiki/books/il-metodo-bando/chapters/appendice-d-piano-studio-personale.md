@@ -9,22 +9,22 @@ entities: ["Piano 30/60/90 giorni"]
 source_refs: ["sources/piano-studio-personale-metodo-bando.md", "sources/struttura-madre-il-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md", "sources/apprendimento-efficace-active-recall-ripasso-distribuito.md", "sources/scienze-apprendimento-pianificazione-metacognizione-errori.md", "sources/capitoli-21-23-corpus-moduli-piano-diario-2026-06-01.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.86
-updated_at: "2026-06-01T16:50:00+02:00"
+updated_at: "2026-07-24T00:00:00+02:00"
 created_at: "2026-05-10T11:45:00+02:00"
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-appendix", "template"]
 book_id: il-metodo-bando
 outline_section: D
-draft_stage: revised-editorial-draft
+draft_stage: publication-ready
 last_compiled_from: ["sources/piano-studio-personale-metodo-bando.md", "topics/piano-studio-personale.md", "topics/piano-30-60-90-giorni.md", "topics/metodo-di-studio.md", "topics/diario-errori.md"]
 ---
 
 # Appendice D - Piano di studio personale
 
-Questo template serve a trasformare il tuo concorso in settimane reali.
+Questo template traduce il concorso in settimane reali.
 
-Non è un calendario motivazionale. È una scheda di controllo: quante ore hai, quali materie contano, quali output devi produrre, quando ripassi, quando simuli, che cosa tagli se resti indietro.
+È una scheda di controllo: quante ore hai, quali materie contano, quali output devi produrre, quando ripassi, quando simuli e che cosa tagli se resti indietro.
 
 Compilalo dopo il Bando Decoder. Se non hai ancora decodificato il bando, il piano rischia di essere una fantasia ordinata.
 

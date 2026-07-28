@@ -9,22 +9,22 @@ entities: ["Moduli Profilo"]
 source_refs: ["sources/matrice-materie-profili-metodo-bando.md", "sources/struttura-madre-il-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/capitolo-19-20-corpus-profili-concorsuali-2026-05-30.md", "sources/bandi-rappresentativi-profili-concorsuali-inpa-agenzie-enti-2025-2026.md", "sources/capitoli-21-23-corpus-moduli-piano-diario-2026-06-01.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.86
-updated_at: "2026-06-01T20:21:00+02:00"
+updated_at: "2026-07-24T00:00:00+02:00"
 created_at: "2026-05-10T11:45:00+02:00"
 review_required: true
 canonical: true
 tags: ["book-appendix", "matrix"]
 book_id: il-metodo-bando
 outline_section: F
-draft_stage: revised-editorial-draft
+draft_stage: editorial-review
 last_compiled_from: ["sources/matrice-materie-profili-metodo-bando.md", "topics/matrice-materie-profili.md", "topics/mappe-profilo.md", "topics/moduli-profilo.md", "topics/moduli-integrativi.md"]
 ---
 
 # Appendice F - Matrice materie/profili
 
-Questa appendice serve a decidere rapidamente che cosa studiare, che cosa adattare e che cosa non approfondire troppo.
+Questa appendice aiuta a decidere rapidamente che cosa studiare, che cosa adattare e che cosa non approfondire troppo.
 
-Non sostituisce il bando. Il bando resta sempre la fonte decisiva. La matrice ti aiuta a leggere il bando con più ordine: individua il nucleo comune, separa il modulo di profilo, riconosce le materie a rischio e trasforma la scelta in piano di studio.
+Il bando resta la fonte decisiva. La matrice lo rende più ordinato da leggere: individua il nucleo comune, separa il modulo di profilo, riconosce le materie a rischio e porta la scelta nel piano di studio.
 
 Usala dopo il Bando Decoder e prima del piano personale. Se la compili bene, il calendario non nasce più da sensazioni, ma da una decisione ragionata.
 

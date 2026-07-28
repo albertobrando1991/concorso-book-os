@@ -8,15 +8,15 @@ topics: ["anatomia del bando","diritto costituzionale","diritto amministrativo",
 entities: ["Costituzione della Repubblica Italiana","Legge 241/1990"]
 source_refs: []
 book_refs: []
-confidence: 0.9
-updated_at: "2026-05-25T10:35:20.431Z"
+confidence: 0.95
+updated_at: "2026-07-21T14:20:00+02:00"
 created_at: "2026-05-25T10:35:20.431Z"
-review_required: false
+review_required: true
 canonical: true
 tags: ["source","decree"]
 source_type: decree
 source_url: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig=/"
-source_date: ""
+source_date: "2005-03-07"
 authority_level: alta
 ---
 
@@ -24,6 +24,12 @@ authority_level: alta
 
 ## Sintesi
 # D.Lgs. 7 marzo 2005, n. 82 - amministrazione digitale URL: https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig=/ --> --> DECRETO LEGISLATIVO 7 marzo 2005, n.
+
+## Consolidamento P4
+
+Il D.Lgs. 82/2005, Codice dell'amministrazione digitale, e' stato ricontrollato sul testo vigente di Normattiva nel corso dell'audit P4. Per il volume base sostiene le distinzioni su documento informatico, fascicolo, pagamenti elettronici, servizi in rete, siti delle PA, identita digitale, comunicazioni, interoperabilita e dati.
+
+Il CAD non sostituisce la disciplina su accesso, trasparenza e protezione dei dati personali: quando un servizio digitale tratta, scambia o pubblica dati, il claim deve essere raccordato anche alle fonti del Capitolo 7.
 
 ## Fonti
 - Raw source collegata: `wiki/raw/decrees/d-lgs-7-marzo-2005-n-82-amministrazione-digitale.md`

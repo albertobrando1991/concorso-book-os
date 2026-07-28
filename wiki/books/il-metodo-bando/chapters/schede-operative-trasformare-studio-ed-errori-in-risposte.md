@@ -9,7 +9,7 @@ entities: ["Metodo BANDO", "Bando Decoder", "Diario degli errori", "Piano 30/60/
 source_refs: ["sources/schede-operative-studio-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/struttura-madre-il-metodo-bando.md", "sources/apprendimento-efficace-active-recall-ripasso-distribuito.md", "sources/capitale-studio-riutilizzabile-metodo-bando.md", "sources/scelta-materiali-studio-concorsi-metodo-bando.md", "sources/schema-universale-risposta-orale-metodo-bando.md", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md", "sources/simulazioni-concorsuali-metodo-bando.md", "sources/checklist-operative-concorsi-metodo-bando.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.9
-updated_at: 2026-06-09T09:45:44+02:00
+updated_at: 2026-07-24T00:00:00+02:00
 created_at: 2026-06-09T09:45:44+02:00
 review_required: true
 canonical: true
@@ -30,13 +30,7 @@ La differenza si vede quando arriva una domanda: chi ha appunti cerca dove aveva
 
 Una scheda operativa serve a questo.
 
-Non è un riassunto più ordinato.
-
-Non è una pagina copiata dal manuale.
-
-Non è una raccolta di frasi da imparare a memoria.
-
-È una pagina breve che collega quattro cose:
+Una scheda operativa è una pagina breve che collega quattro elementi:
 
 - una domanda;
 - un nucleo;
@@ -65,6 +59,8 @@ La regola è questa:
 > una scheda non deve contenere tutto. Deve farti produrre qualcosa.
 
 ## La mappa BANDO della scheda operativa
+
+![Ciclo operativo della scheda: fonte, sintesi, richiamo, risposta e feedback](../assets/chapter-35/01-mappa-scheda-operativa.png)
 
 Ogni scheda deve stare dentro il Metodo BANDO.
 
@@ -120,6 +116,8 @@ La scheda è il ponte tra studio e prestazione.
 
 ## La struttura minima
 
+![Anatomia visiva di una scheda di studio essenziale](../assets/chapter-35/02-struttura-minima-scheda.png)
+
 Una scheda operativa deve stare, se possibile, in una pagina.
 
 Non per estetica.
@@ -146,6 +144,8 @@ Se non ha uso in prova, non sai quando riaprirla.
 
 ## Regola 1-1-1
 
+![Regola visiva che collega un concetto, una distinzione e un output utile](../assets/chapter-35/03-regola-uno-uno-uno.png)
+
 Per evitare schede infinite, usa la regola 1-1-1:
 
 - una scheda;
@@ -171,6 +171,8 @@ Le schede larghe fanno sentire ordinati.
 Le schede mirate fanno rispondere meglio.
 
 ## Scheda di concetto
+
+![Schema per trasformare un concetto in richiamo attivo e risposta](../assets/chapter-35/04-scheda-concetto.png)
 
 La scheda di concetto serve per definizioni, funzioni e parole chiave.
 
@@ -236,6 +238,8 @@ La rende interrogabile.
 Se devi citare un articolo in prova, cita solo ciò che conosci con sicurezza. Se non sei sicuro del numero, spiega il principio e la funzione senza inventare.
 
 ## Scheda di procedimento
+
+![Flusso essenziale per sintetizzare e richiamare un procedimento](../assets/chapter-35/05-scheda-procedimento.png)
 
 La scheda di procedimento serve quando il tema ha fasi, soggetti, documenti, termini o responsabilità.
 
@@ -328,6 +332,8 @@ Usala per controllare ordine e completezza.
 
 ## Scheda di errore
 
+![Conversione dell'errore in una correzione riutilizzabile](../assets/chapter-35/06-scheda-errore.png)
+
 La scheda di errore nasce dal Diario.
 
 Non la creare per ogni errore.
@@ -401,6 +407,8 @@ Prima dell'errore pensi di sapere.
 Dopo l'errore sai che cosa manca.
 
 ## Quando aggiornare una scheda
+
+![Ciclo di aggiornamento e archiviazione delle schede operative](../assets/chapter-35/07-ciclo-aggiornamento.png)
 
 Aggiorna una scheda se:
 

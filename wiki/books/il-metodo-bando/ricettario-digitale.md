@@ -2,14 +2,14 @@
 id: ricettario-digitale-metodo-bando
 type: book_companion
 title: "Ricettario operativo digitale - Metodo BANDO"
-status: editorial_plan
+status: revised_draft
 domain: "concorsi pubblici italiani"
 topics: ["ricettario digitale", "metodo bando", "allenamento concorsi", "prove concorsuali", "schede operative"]
 entities: ["Metodo BANDO", "Capitale Personale", "Bando Decoder", "Diario degli errori"]
 source_refs: ["sources/metodo-bando-progetto-editoriale.md", "sources/struttura-madre-il-metodo-bando.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.9
-updated_at: 2026-06-27T19:04:42+02:00
+updated_at: 2026-07-24T00:00:00+02:00
 created_at: 2026-06-27T19:04:42+02:00
 review_required: true
 canonical: true

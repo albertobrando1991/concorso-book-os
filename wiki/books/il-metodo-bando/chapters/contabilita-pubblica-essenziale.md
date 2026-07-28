@@ -8,15 +8,16 @@ topics: ["contabilità pubblica", "bilancio dello Stato", "finanza pubblica", "e
 entities: ["Corte dei conti", "Ragioneria generale dello Stato", "MEF", "OpenBDAP", "SIOPE", "Comune", "Regioni", "Organo di revisione", "CUP", "CIG", "ItaliaDomani"]
 source_refs: ["sources/struttura-madre-il-metodo-bando.md", "sources/capitolo-8-corpus-fonti-ufficiali-contabilita-pubblica-2026-05-26.md", "sources/principi-costituzionali-finanza-pubblica-art-81-97-119.md", "sources/contabilita-generale-stato-e-bilancio-stato.md", "sources/armonizzazione-contabile-enti-territoriali-d-lgs-118-2011.md", "sources/ordinamento-finanziario-enti-locali-tuel-dup-peg-rendiconto-revisione.md", "sources/corte-conti-controlli-responsabilita-agenti-contabili.md", "sources/pagamenti-tracciabilita-contratti-pnrr-rendicontazione.md", "sources/contabilita-economico-patrimoniale-universita-enti-pubblici.md"]
 book_refs: ["il-metodo-bando"]
-confidence: 0.92
-updated_at: "2026-05-26T00:00:00+02:00"
+confidence: 0.94
+updated_at: "2026-07-23T00:00:00+02:00"
 created_at: "2026-05-10T11:45:00+02:00"
-review_required: false
+review_required: true
+normative_checked_at: "2026-07-21"
 canonical: true
-tags: ["book-chapter", "common-subject", "revised"]
+tags: ["book-chapter", "common-subject", "revised", "p9-tracciabilita"]
 book_id: il-metodo-bando
 outline_section: 8
-draft_stage: editorial-revision
+draft_stage: editorial-review
 last_compiled_from: ["wiki/books/il-metodo-bando/struttura-madre.md", "topics/contabilita-pubblica.md", "sources/capitolo-8-corpus-fonti-ufficiali-contabilita-pubblica-2026-05-26.md", "sources/principi-costituzionali-finanza-pubblica-art-81-97-119.md", "sources/contabilita-generale-stato-e-bilancio-stato.md", "sources/armonizzazione-contabile-enti-territoriali-d-lgs-118-2011.md", "sources/ordinamento-finanziario-enti-locali-tuel-dup-peg-rendiconto-revisione.md", "sources/corte-conti-controlli-responsabilita-agenti-contabili.md", "sources/pagamenti-tracciabilita-contratti-pnrr-rendicontazione.md", "sources/contabilita-economico-patrimoniale-universita-enti-pubblici.md"]
 ---
 
@@ -24,7 +25,7 @@ last_compiled_from: ["wiki/books/il-metodo-bando/struttura-madre.md", "topics/co
 
 ## Perché studiare la contabilità pubblica
 
-La contabilità pubblica è il linguaggio con cui la pubblica amministrazione rende visibile una scelta fondamentale: come usa le risorse pubbliche. Non riguarda solo ragionieri, revisori o funzionari finanziari. Riguarda ogni dipendente pubblico che propone un acquisto, gestisce un procedimento con effetti di spesa, firma un provvedimento, controlla un servizio, partecipa a un progetto PNRR o risponde a un cittadino su bilanci, pagamenti e responsabilità.
+La contabilità pubblica mostra come la pubblica amministrazione usa le risorse. Riguarda ragionieri, revisori e funzionari finanziari, ma anche chi propone un acquisto, gestisce un procedimento con effetti di spesa, firma un provvedimento, controlla un servizio, partecipa a un progetto PNRR o risponde a un cittadino su bilanci, pagamenti e responsabilità.
 
 Per questo nei concorsi la materia compare spesso anche nei profili amministrativi. Le domande non chiedono sempre calcoli complessi; più spesso verificano se il candidato sa distinguere bilancio di previsione e rendiconto, entrata e spesa, competenza e cassa, impegno e pagamento, residui e risultato di amministrazione, controlli interni e controlli della Corte dei conti.
 
@@ -203,7 +204,7 @@ Nel linguaggio concorsuale, la distinzione essenziale è questa.
 | Risultato di amministrazione | Sintetizza l'esito della gestione finanziaria secondo le regole dell'ente. |
 | Parificazione | Controllo della Corte dei conti sul rendiconto, con particolare rilievo per Stato e Regioni. |
 
-Il rendiconto non è un nuovo bilancio preventivo. È il documento che consente controllo, responsabilità e valutazione della gestione.
+Il rendiconto documenta la gestione conclusa e consente controllo, responsabilità e valutazione; non è un nuovo bilancio preventivo.
 
 ### 10. Controlli interni
 
@@ -285,7 +286,7 @@ Negli enti locali il riferimento centrale è il TUEL, coordinato con la discipli
 
 Il responsabile del servizio finanziario ha un ruolo essenziale. Presidia gli equilibri di bilancio, esprime pareri di regolarità contabile quando dovuti, appone il visto di copertura finanziaria sugli atti che comportano spesa e segnala situazioni critiche.
 
-Il parere di regolarità contabile non è un dettaglio burocratico: collega la decisione amministrativa alla sostenibilità finanziaria. Il visto di copertura finanziaria attesta che la spesa trova copertura nello stanziamento disponibile.
+Il parere di regolarità contabile collega la decisione amministrativa alla sostenibilità finanziaria. Il visto di copertura finanziaria attesta che la spesa trova copertura nello stanziamento disponibile.
 
 L'autonomia finanziaria degli enti locali deve sempre rispettare coordinamento della finanza pubblica, vincoli di bilancio, regole sull'indebitamento e disciplina dei trasferimenti.
 
@@ -360,7 +361,7 @@ Per gli enti pubblici non territoriali occorre guardare alla disciplina propria 
 
 I contratti pubblici sono già stati trattati nel capitolo di diritto amministrativo. Qui interessano per il loro effetto contabile: un appalto produce programmazione, copertura, impegno, esecuzione, fatturazione, liquidazione, pagamento, collaudo o verifica, tracciabilità e possibile rendicontazione.
 
-Il D.Lgs. 36/2023, aggiornato dal correttivo D.Lgs. 209/2024, è il riferimento principale per i contratti pubblici. Nel capitolo contabile non occorre ripetere tutte le procedure di gara, ma bisogna capire come l'affidamento si traduce in spesa.
+Il D.Lgs. 36/2023 nel testo vigente è il riferimento principale per i contratti pubblici; il D.Lgs. 209/2024 è un correttivo di particolare rilievo. Nel capitolo contabile non occorre ripetere tutte le procedure di gara, ma bisogna capire come l'affidamento si traduce in spesa.
 
 Il **CIG** identifica la procedura o il contratto ai fini di tracciabilità e monitoraggio. Il **CUP** identifica un progetto di investimento pubblico. Confondere CIG e CUP è un errore frequente.
 
@@ -370,7 +371,7 @@ La tracciabilità dei flussi finanziari serve a rendere verificabili i pagamenti
 
 ### 22. PNRR, fondi UE e rendicontazione
 
-PNRR e fondi UE hanno rafforzato l'importanza della contabilità di progetto. Non basta spendere: occorre dimostrare che la spesa è ammissibile, tracciabile, collegata a un intervento, documentata e coerente con obiettivi, milestone e target.
+PNRR e fondi UE hanno rafforzato il peso della contabilità di progetto. La spesa deve essere ammissibile, tracciabile, collegata a un intervento, documentata e coerente con obiettivi, milestone e target.
 
 I concetti essenziali sono:
 
@@ -387,6 +388,30 @@ I concetti essenziali sono:
 La gestione PNRR richiede una catena ordinata: progetto, CUP, eventuale gara e CIG, impegno, esecuzione, fattura, liquidazione, pagamento, monitoraggio, rendicontazione e conservazione dei documenti.
 
 **Da non sbagliare:** un progetto PNRR non è solo una spesa finanziata. È una gestione vincolata, misurata e controllata.
+
+## Traccia normativa e mappa di studio P9
+
+Questa sezione non aggiunge nuovi istituti: serve a collegare i nuclei già studiati alle fonti da richiamare e all'output da produrre in prova. Il riferimento è sempre al **testo vigente** alla data del concorso; una norma non va memorizzata come un numero isolato, ma associata alla domanda a cui consente di rispondere.
+
+| Fonte da riconoscere | Nucleo già trattato | Domanda che risolve |
+|---|---|---|
+| Artt. 81, 97 e 119 Cost.; L. cost. 1/2012 e L. 243/2012 | Equilibrio, copertura, sostenibilità del debito e autonomia finanziaria | Perché la contabilità è collegata al buon andamento e non è soltanto tecnica? |
+| R.D. 2440/1923, R.D. 827/1924 e L. 196/2009 | Contabilità generale dello Stato, bilancio, entrate, spese e rendiconto | Quale quadro orienta il ciclo statale e la sua lettura per missioni, programmi e capitoli? |
+| D.Lgs. 118/2011, D.Lgs. 126/2014 e D.Lgs. 267/2000 (TUEL) | Armonizzazione, competenza finanziaria potenziata, DUP, PEG, equilibri e rendiconto locale | Quale disciplina distingue la gestione degli enti territoriali da quella statale? |
+| D.Lgs. 286/1999, L. 20/1994, R.D. 1214/1934 e D.Lgs. 174/2016 | Controlli, parifica, responsabilità erariale, giudizio di conto e agenti contabili | Chi controlla, chi risponde e quale conto deve essere reso? |
+| L. 136/2010, art. 3; L. 3/2003, art. 11; D.Lgs. 36/2023 nel testo vigente | Tracciabilità dei flussi, CIG, CUP, spesa contrattuale e pagamento | Perché CIG e CUP devono accompagnare correttamente il flusso di un investimento o di un contratto? |
+| D.L. 77/2021 e fonti attuative del progetto finanziato | Monitoraggio, milestone, target, rendicontazione e conservazione documentale | Perché una spesa PNRR non è verificabile con la sola fattura? |
+
+### Matrice di ripasso rapido
+
+| Nucleo | Fonte consolidata nel wiki | Output di studio | Verifica personale |
+|---|---|---|---|
+| Ciclo statale | [[sources/contabilita-generale-stato-e-bilancio-stato]] | Schema previsione → gestione → rendiconto | So distinguere autorizzazione e consuntivazione senza usare sinonimi impropri? |
+| Enti territoriali e armonizzazione | [[sources/armonizzazione-contabile-enti-territoriali-d-lgs-118-2011]]; [[sources/ordinamento-finanziario-enti-locali-tuel-dup-peg-rendiconto-revisione]] | Tabella DUP → bilancio → PEG → rendiconto | So spiegare perché esigibilità, FPV e FCDE appartengono alla logica armonizzata? |
+| Controlli e resa del conto | [[sources/corte-conti-controlli-responsabilita-agenti-contabili]] | Mappa: controllo interno / Corte dei conti / agente contabile | So separare controllo, responsabilità erariale e giudizio di conto? |
+| Pagamenti e tracciabilità | [[sources/pagamenti-tracciabilita-contratti-pnrr-rendicontazione]] | Catena CIG o CUP → impegno → fattura → liquidazione → pagamento → prova documentale | So motivare la distinzione tra identificativo del contratto e identificativo del progetto? |
+
+**Checkpoint P9.** Prima di chiudere il ripasso, prova a costruire in due minuti una risposta che contenga: fonte applicabile, fase del ciclo finanziario, soggetto responsabile, documento o codice che rende il passaggio verificabile e controllo finale. Se uno di questi elementi manca, annota l'errore nel Diario e torna alla riga corrispondente della matrice.
 
 ## Da sapere in 5 righe
 

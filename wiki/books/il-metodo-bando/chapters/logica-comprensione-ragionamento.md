@@ -9,14 +9,14 @@ entities: ["Formez", "RIPAM", "INVALSI", "OECD", "PISA", "Open Logic Project"]
 source_refs: ["sources/struttura-madre-il-metodo-bando.md", "sources/ripam-quesiti-attitudinali-logica-ragionamento-comprensione.md", "sources/ripam-giustizia-791-prove-logico-critico-verbale.md", "sources/framework-comprensione-ragionamento-invalsi-oecd.md", "sources/manuali-open-logica-ragionamento-critico.md", "sources/capitolo-12-corpus-fonti-logica-comprensione-ragionamento-2026-05-28.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.9
-updated_at: "2026-06-01T15:24:42+02:00"
+updated_at: "2026-07-24T00:00:00+02:00"
 created_at: "2026-05-10T11:45:00+02:00"
-review_required: true
+review_required: false
 canonical: true
-tags: ["book-chapter", "common-subject"]
+tags: ["book-chapter", "common-subject", "p10-chiusura-editoriale"]
 book_id: il-metodo-bando
 outline_section: 12
-draft_stage: publication-editorial-cleanup
+draft_stage: publication-ready
 last_compiled_from: ["wiki/sources/ripam-quesiti-attitudinali-logica-ragionamento-comprensione.md", "wiki/sources/ripam-giustizia-791-prove-logico-critico-verbale.md", "wiki/sources/framework-comprensione-ragionamento-invalsi-oecd.md", "wiki/sources/manuali-open-logica-ragionamento-critico.md", "wiki/sources/capitolo-12-corpus-fonti-logica-comprensione-ragionamento-2026-05-28.md", "wiki/topics/logica-concorsuale.md", "wiki/topics/comprensione-del-testo-concorsuale.md", "wiki/topics/ragionamento-concorsuale.md", "wiki/topics/test-attitudinali-ripam.md"]
 ---
 
@@ -28,7 +28,7 @@ Logica, comprensione del testo e ragionamento sono le materie che più spesso fa
 
 In diritto amministrativo puoi recuperare con la memoria e con il ragionamento generale. In una domanda logica, invece, un "non", un "solo se", un "alcuni" o una percentuale letta male bastano a spostare la risposta corretta. Il candidato non viene valutato solo su ciò che sa, ma su come ragiona quando il tempo scorre.
 
-Questo capitolo non è un trattato di logica. È una palestra. Ti insegna a riconoscere il tipo di quesito, scegliere lo strumento giusto, eliminare le opzioni sbagliate e registrare l'errore in modo utile. La promessa è semplice: non devi diventare un matematico o un filosofo della logica; devi diventare un candidato che legge bene, ragiona ordinatamente e non regala punti.
+Questo capitolo è una palestra, non un trattato di logica. Ti insegna a riconoscere il tipo di quesito, scegliere lo strumento giusto, eliminare le opzioni sbagliate e registrare l'errore in modo utile. L'obiettivo è leggere bene, ragionare con ordine e non regalare punti.
 
 Le banche e le prove RIPAM confermano che questa area è composta da più famiglie: comprensione verbale, ragionamento verbale, ragionamento critico verbale, ragionamento numerico, ragionamento numerico-deduttivo e ragionamento critico numerico. A queste si aggiungono le formulazioni presenti nei bandi: logica deduttiva, quesiti attitudinali, ragionamento logico-matematico, comprensione del testo, capacità logico-critica. Cambiano le etichette, ma il lavoro del candidato resta lo stesso: capire la domanda prima di cercare la risposta.
 
@@ -443,7 +443,7 @@ La prova non premia l'eroismo sulla singola domanda. Premia il punteggio comples
 
 ## Diario degli errori
 
-Per questa materia, correggere "giusta/sbagliata" non basta. Devi registrare il tipo di errore.
+Per questa materia registra il tipo di errore: limitarti a "giusta/sbagliata" non basta.
 
 | Categoria errore | Esempio | Correzione |
 |---|---|---|
@@ -575,6 +575,19 @@ Ogni riga è una scheda di lavoro. La colonna **Quesito** viene sempre prima del
 | 23 | B | "Affianca" indica coesistenza, non sostituzione. |
 | 24 | A | Diminuzione degli errori è evidenza coerente con il miglioramento. |
 | 25 | B | Alcune urgenti sono entro 48 ore; tutte quelle entro 48 ore ricevono comunicazione. |
+
+## Collegamenti con gli altri capitoli
+
+Logica, comprensione e ragionamento non restano confinati a questo capitolo: allenano un modo di leggere e decidere che serve anche altrove nel manuale.
+
+| Capitolo collegato | Collegamento |
+|---|---|
+| La prova a quiz | Applica classificazione del quesito, metodo di esclusione e gestione del tempo alla banca dati reale o alla simulazione mista. |
+| Quesiti situazionali e soft skills | Usa la stessa disciplina di eliminazione delle opzioni scorrette prima di scegliere la risposta migliore. |
+| Casi pratici e problem solving amministrativo | Riutilizza premessa, conclusione e assunzione per leggere un caso prima di individuare la soluzione. |
+| La prova scritta e teorico-pratica | Il ragionamento critico aiuta a costruire un argomento ordinato invece di un elenco di affermazioni. |
+| La prova orale | La stessa griglia di esclusione e la stessa attenzione ai connettivi logici valgono per rispondere a una domanda-trappola orale. |
+| Il diario degli errori | Le categorie di errore logico (necessario/sufficiente, quantificatori, assunzione) alimentano lo stesso diario usato nelle altre materie. |
 
 ## Checklist finale
 

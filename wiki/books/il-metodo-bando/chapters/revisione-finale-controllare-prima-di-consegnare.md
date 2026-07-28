@@ -9,7 +9,7 @@ entities: ["Metodo BANDO", "Bando Decoder", "Diario degli errori"]
 source_refs: ["sources/revisione-finale-risposta-concorsuale-metodo-bando.md", "sources/risposta-sintetica-domande-aperte-metodo-bando.md", "sources/confrontare-istituti-simili-metodo-bando.md", "sources/collegare-materie-risposta-integrata-metodo-bando.md", "sources/domande-impreviste-risposta-sicura-metodo-bando.md", "sources/simulazioni-concorsuali-metodo-bando.md", "sources/checklist-operative-concorsi-metodo-bando.md", "sources/strategia-punteggio-prova-concorsuale-metodo-bando.md", "sources/schema-universale-risposta-orale-metodo-bando.md", "sources/apprendimento-efficace-active-recall-ripasso-distribuito.md", "sources/metodo-bando-progetto-editoriale.md", "sources/struttura-madre-il-metodo-bando.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.9
-updated_at: 2026-06-19T23:55:00+02:00
+updated_at: 2026-07-24T00:00:00+02:00
 created_at: 2026-06-19T23:55:00+02:00
 review_required: true
 canonical: true
@@ -30,9 +30,7 @@ perché rileggono senza sapere che cosa cercare.
 
 Arrivano alla fine della risposta, guardano il testo, cambiano una parola, aggiungono una frase, riscrivono una definizione, correggono una virgola. Poi consegnano. A volte la risposta migliora. A volte peggiora. A volte resta fuori traccia, ma più elegante.
 
-La revisione finale non è abbellimento.
-
-È controllo del punteggio.
+La revisione finale controlla gli elementi che incidono sul punteggio.
 
 Serve a intercettare pochi errori ad alto impatto:
 
@@ -46,7 +44,7 @@ Serve a intercettare pochi errori ad alto impatto:
 
 La regola del capitolo è:
 
-> non rileggere tutto allo stesso modo. Controlla ciò che può farti perdere punti.
+> controlla prima ciò che può farti perdere punti.
 
 ## Obiettivo del capitolo
 
@@ -174,6 +172,8 @@ La chiusura non deve essere lunga. Deve essere orientata.
 
 ## Mappa BANDO della revisione
 
+![Mappa revisione finale](../assets/chapter-47/01-mappa-revisione-finale.png)
+
 ### Bando
 
 Il bando e le istruzioni di prova definiscono:
@@ -240,6 +240,8 @@ Gli output del capitolo sono:
 
 ## Checklist da 60 secondi
 
+![Formula di revisione in passaggi ordinati](../assets/chapter-47/02-formula-cinque-passaggi.png)
+
 Quando hai pochissimo tempo, non rileggere tutto con la stessa attenzione.
 
 Fai cinque domande:
@@ -256,6 +258,8 @@ Non aprire una riscrittura generale.
 
 ## Checklist da 3 minuti
 
+![Checklist rapida prima della consegna](../assets/chapter-47/03-checklist-rapida.png)
+
 Se hai tre minuti, usa questo ordine.
 
 | Tempo | Controllo | Azione |
@@ -271,6 +275,8 @@ La revisione deve avere timer.
 Senza timer diventa riscrittura.
 
 ## Risposta da 10 righe
+
+![Revisione proporzionata alla lunghezza della risposta](../assets/chapter-47/04-risposte-lunghezza.png)
 
 In 10 righe controlli solo l'essenziale.
 
@@ -326,6 +332,8 @@ Se la nuova idea non è necessaria, non inserirla.
 
 ## Revisione del caso pratico
 
+![Revisione mirata del caso pratico](../assets/chapter-47/05-revisione-caso-pratico.png)
+
 Nel caso pratico non basta controllare la forma.
 
 Controlla cinque elementi:
@@ -365,6 +373,8 @@ Questa chiusura fa due cose:
 
 ## Correggere senza peggiorare
 
+![Correzione controllata senza introdurre nuovi errori](../assets/chapter-47/06-correggere-senza-peggiorare.png)
+
 Non tutte le correzioni migliorano una risposta.
 
 Tre correzioni pericolose:
@@ -380,6 +390,8 @@ Prima di correggere chiediti:
 Se nasce dall'ansia, fermati.
 
 ## Caso guidato
+
+![Caso guidato: revisione finale e consegna](../assets/chapter-47/07-caso-consegna.png)
 
 Marco ha scritto una risposta da 20 righe su una domanda teorico-pratica.
 

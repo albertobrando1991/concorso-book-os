@@ -9,7 +9,7 @@ entities: ["Metodo BANDO", "Bando Decoder", "Diario degli errori", "inPA", "D.P.
 source_refs: ["sources/dopo-prova-esiti-graduatoria-metodo-bando.md", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md", "sources/checklist-operative-concorsi-metodo-bando.md", "sources/capitale-studio-riutilizzabile-metodo-bando.md", "sources/fonti-ufficiali-aggiornamento-metodo-bando-2026-06-03.md", "sources/legge-241-1990-procedimento-amministrativo.md", "sources/metodo-bando-progetto-editoriale.md", "sources/struttura-madre-il-metodo-bando.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.91
-updated_at: 2026-07-01T16:00:00+02:00
+updated_at: 2026-07-24T00:00:00+02:00
 created_at: 2026-06-07T18:56:29+02:00
 review_required: true
 canonical: true
@@ -17,6 +17,7 @@ tags: ["book-chapter", "extra-chapter", "after-exam", "graduatoria", "workbook"]
 book_id: il-metodo-bando
 outline_section: 30
 draft_stage: professional-complete-draft
+last_humanizer_revision: 2026-07-24
 last_compiled_from: ["sources/dopo-prova-esiti-graduatoria-metodo-bando.md", "topics/dopo-prova-concorsi.md", "topics/concorsi-pubblici.md", "topics/diario-errori.md", "topics/capitale-studio-riutilizzabile.md", "topics/aggiornamento-fonti-concorsi.md"]
 ---
 
@@ -53,7 +54,7 @@ Alla fine del capitolo saprai:
 
 La regola è questa:
 
-> dopo la prova non devi inseguire emozioni. Devi chiudere il ciclo.
+> dopo la prova chiudi il ciclo: raccogli i dati, valuta l'esito e scegli la prossima azione.
 
 ## Mappa BANDO dopo la prova
 
@@ -67,7 +68,7 @@ La regola è questa:
 | D - Diario | perché ho perso punti, tempo o lucidità? | registra causa, prova e azione correttiva |
 | O - Output | qual è il prossimo prodotto verificabile? | orale, accesso documentale, nuovo piano, simulazione o bando successivo |
 
-Il dopo-prova non è pausa totale e non è studio casuale. È una fase di conversione: trasformi esperienza in dati.
+Il dopo-prova è una fase di conversione: trasformi l'esperienza in dati.
 
 ## Le prime 24 ore: non decidere sul rumore
 

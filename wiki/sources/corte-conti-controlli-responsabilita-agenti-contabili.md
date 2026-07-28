@@ -5,11 +5,11 @@ title: "Corte dei conti, controlli, responsabilita erariale e agenti contabili"
 status: processed
 domain: concorsi pubblici italiani
 topics: ["contabilita pubblica","Corte dei conti","responsabilita erariale","controlli interni","agenti contabili"]
-entities: ["Corte dei conti","Agente contabile","Procura contabile","Pubblica amministrazione"]
-source_refs: []
+entities: ["Corte dei conti","Agente contabile","Procura contabile","Pubblica amministrazione","Organo di revisione","Tesoriere"]
+source_refs: ["sources/d-lgs-26-agosto-2016-n-174-codice-di-giustizia-contabile.md", "sources/legge-7-gennaio-2026-n-1-corte-dei-conti-e-responsabilita-erariale.md", "sources/ordinamento-finanziario-enti-locali-tuel-dup-peg-rendiconto-revisione.md", "sources/entrate-tributi-locali-patrimonio-riscossione-comunale.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.93
-updated_at: "2026-05-26T00:00:00+02:00"
+updated_at: "2026-07-18T18:30:00+02:00"
 created_at: "2026-05-26T00:00:00+02:00"
 review_required: false
 canonical: true
@@ -37,17 +37,26 @@ Questa fonte consolida il blocco concorsuale su controlli e responsabilita: cont
 - `wiki/raw/chapter-8-contabilita-pubblica/normattiva-dpr-254-2002-consegnatari-cassieri.html`
 - `wiki/raw/chapter-8-contabilita-pubblica/normattiva-rd-827-1924-regolamento-contabilita-stato.html`
 
+## Verifica ufficiale 2026
+- D.Lgs. 26 agosto 2016, n. 174: verificato su Normattiva/DEF il 18/07/2026 come codice di giustizia contabile; la fonte conferma la giurisdizione della Corte dei conti nei giudizi di conto, di responsabilita amministrativa per danno all'erario e negli altri giudizi in materia di contabilita pubblica.
+- L. 14 gennaio 1994, n. 20: verificata su Normattiva il 18/07/2026; la scheda indica ultimo aggiornamento all'atto pubblicato il 28/02/2026. Usare con prudenza per controlli e responsabilita, verificando il testo vigente dell'articolo puntuale prima della pubblicazione.
+- Gazzetta Ufficiale, Delibera Corte dei conti 5 febbraio 2026, n. 8/SEZAUT/2026/INPR: verificata il 18/07/2026; contiene linee guida per la relazione dell'organo di revisione economico-finanziaria di Comuni, Citta metropolitane e Province sul rendiconto 2025.
+- Conferenza Stato-Citta, comunicazione 25 febbraio 2026: segnala nuove linee guida Corte dei conti 2026 sul sistema dei controlli interni negli enti locali, con attenzione a equilibrio, liquidita, residui, riscossioni, FCDE e piano dei flussi di cassa.
+- Per M-FL01 capitolo 11 usare la fonte anche per economo, tesoriere, consegnatari, concessionari della riscossione, maneggio di denaro o beni pubblici, resa del conto e responsabilita contabile.
+
 ## Nuclei da usare nel Capitolo 8
 
 - I controlli interni verificano regolarita amministrativa e contabile, gestione, risultati, efficienza, efficacia ed economicita.
 - La Corte dei conti svolge funzioni di controllo e funzioni giurisdizionali in materia di contabilita pubblica.
 - Il controllo preventivo di legittimita, il controllo successivo sulla gestione, la parificazione e il referto hanno finalita diverse e non vanno sovrapposti.
 - Le sezioni regionali della Corte dei conti sono centrali per il controllo sugli enti territoriali e sugli equilibri finanziari.
+- Le linee guida Corte dei conti per revisori e controlli interni sono strumenti operativi ricorrenti: il candidato deve sapere che i questionari e le relazioni alimentano il controllo esterno sui bilanci, sui rendiconti e sugli equilibri locali.
 - La responsabilita amministrativa/erariale presuppone un danno pubblico, una condotta riferibile al soggetto, elemento soggettivo e nesso causale.
 - La responsabilita contabile riguarda chi maneggia denaro, valori o beni pubblici ed e collegata alla resa del conto.
 - Il giudizio di conto verifica la regolarita del conto giudiziale presentato dall'agente contabile.
 - L'invito a dedurre e un passaggio tipico della fase preprocessuale della responsabilita erariale.
 - Agenti contabili, cassieri, economi e consegnatari devono essere spiegati con esempi concreti: riscossione, custodia, pagamento, gestione di beni.
+- Il tesoriere e altri soggetti con maneggio di denaro, beni o valori pubblici possono assumere rilievo nella logica della responsabilita contabile e della resa del conto.
 
 ## Schema utile per il capitolo
 

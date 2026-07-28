@@ -1,59 +1,70 @@
 ---
 id: chapter-m-fc04-giustizia-piano-editoriale
 type: book_chapter
-title: "Piano editoriale - M-FC04 Giustizia"
-status: structure
+title: "Piano editoriale - M-FC04 Giustizia e Ufficio per il processo"
+status: source_ready
 domain: "concorsi pubblici italiani"
-topics: ["moduli specialistici","funzioni-centrali","metodo bando"]
-entities: ["Metodo BANDO"]
-source_refs: ["sources/metodo-bando-progetto-editoriale.md","sources/struttura-madre-il-metodo-bando.md"]
-book_refs: ["m-fc04-giustizia","il-metodo-bando"]
-confidence: 0.55
-updated_at: 2026-06-27T19:56:28+02:00
+topics: ["moduli specialistici", "funzioni-centrali", "giustizia", "upp", "cancelleria", "unep", "penitenziario"]
+entities: ["Metodo BANDO", "Ministero della giustizia", "Ufficio per il processo", "UNEP", "DAP", "DGMC"]
+source_refs: ["sources/vol-04-dossier-redazionale-giustizia-upp.md", "sources/vol-04-fonti-ufficiali-scaricate-2026-07-17.md"]
+book_refs: ["m-fc04-giustizia", "vol-04-giustizia-upp", "il-metodo-bando"]
+confidence: 0.9
+updated_at: 2026-07-17T23:50:00+02:00
 created_at: 2026-06-27T19:56:28+02:00
 review_required: true
 canonical: true
-tags: ["book-chapter","specialist-module-plan","module-code-m-fc04"]
+tags: ["book-chapter", "specialist-module-plan", "module-code-m-fc04", "source-ready"]
 book_id: m-fc04-giustizia
 outline_section: 0
-draft_stage: structure-ready
+draft_stage: source-ready-detailed-outline
 module_code: M-FC04
 module_family: funzioni-centrali
-last_compiled_from: ["wiki/books/moduli/architettura-moduli-specialistici.md","wiki/books/moduli/m-fc04-giustizia/index.md"]
+last_compiled_from: ["wiki/books/vol-04-giustizia-upp/front-matter/06-indice.md", "wiki/sources/vol-04-fonti-ufficiali-scaricate-2026-07-17.md"]
 ---
 
-# Piano editoriale - M-FC04 Giustizia
+# Piano editoriale - M-FC04 Giustizia e Ufficio per il processo
 
-## Specifica struttura modulo
+## Obiettivo
+Trasformare il Metodo BANDO in un percorso operativo per i concorsi del sistema Giustizia. Il modulo prepara il candidato a leggere bandi, riconoscere profili, studiare le fonti giuste e produrre output coerenti con uffici giudiziari, UPP, cancellerie, UNEP, DAP e DGMC.
 
-### Obiettivo
-Trasformare il Metodo BANDO in un percorso operativo per la famiglia "Funzioni Centrali", con focus su Ministero della Giustizia, cancellieri, funzionari giudiziari e profili amministrativi giudiziari.
+## Lettore
+Candidato che usa il VOL-01 per il nucleo comune e deve affrontare un bando Giustizia. Il lettore puo' provenire da percorsi giuridici, amministrativi, pedagogici o generalisti; il modulo deve portarlo dal bando al lavoro concreto d'ufficio.
 
-### Lettore
-Candidato che ha letto o sta usando Il Metodo BANDO e deve adattare metodo, materie comuni, prove e priorita a questa famiglia concorsuale.
+## Criterio editoriale
+- Ogni capitolo parte dal bando e termina con un output.
+- Le materie comuni sono richiamate dal VOL-01 senza duplicazione.
+- Le norme processuali sono spiegate solo per il lavoro di UPP, cancelleria, UNEP, DGMC e DAP.
+- Magistratura, ICT specialistico, Polizia penitenziaria e profili tecnici avanzati sono solo oggetto di rinvio.
 
-### Struttura prevista
-1. Mappa della famiglia concorsuale.
-2. Profili tipici e prove ricorrenti.
-3. Materie comuni da riusare dal libro principale.
-4. Materie specialistiche da aggiungere.
-5. Bando Decoder adattato alla famiglia.
-6. Piano 30/60/90 giorni specifico.
-7. Errori frequenti e tagli da evitare.
-8. Casi guidati, quiz o risposte sintetiche tipiche.
-9. Checklist finale del modulo.
+## Sequenza capitoli
+| Cap. | Titolo | Funzione | Source note guida |
+|---:|---|---|---|
+| 1 | Il sistema Giustizia visto dal candidato | Orientamento iniziale | [[sources/bandi-rappresentativi-vol-04-giustizia-upp]] |
+| 2 | Ministero, dipartimenti e amministrazioni della Giustizia | Mappa istituzionale | [[sources/ministero-giustizia-organizzazione-dipartimenti-m-fc04]] |
+| 3 | Uffici giudiziari e ordinamento applicato al lavoro d'ufficio | Ordinamento giudiziario operativo | [[sources/ordinamento-giudiziario-upp-riforme-processuali-m-fc04]] |
+| 4 | Ufficio per il processo: struttura, progetto e flussi | UPP | [[sources/ordinamento-giudiziario-upp-riforme-processuali-m-fc04]] |
+| 5 | Il lavoro dell'AUPP: fascicolo, udienza, ricerca e scheda | Output AUPP | [[sources/bandi-rappresentativi-vol-04-giustizia-upp]] |
+| 6 | Processo civile operativo per UPP e cancelleria | Rito civile utile | [[sources/ordinamento-giudiziario-upp-riforme-processuali-m-fc04]] |
+| 7 | Processo penale operativo per UPP e cancelleria | Rito penale utile | [[sources/ordinamento-giudiziario-upp-riforme-processuali-m-fc04]] |
+| 8 | Servizi di cancelleria, registri, comunicazioni e certificazioni | Cancelleria | [[sources/cancelleria-spese-casellario-unep-m-fc04]] |
+| 9 | Spese di giustizia, patrocinio e recupero | Spese | [[sources/cancelleria-spese-casellario-unep-m-fc04]] |
+| 10 | Casellario, carichi pendenti, archivi e certificati | Casellario | [[sources/cancelleria-spese-casellario-unep-m-fc04]] |
+| 11 | UNEP: notificazioni, esecuzioni, protesti e attivita dell'ufficiale giudiziario | UNEP | [[sources/cancelleria-spese-casellario-unep-m-fc04]] |
+| 12 | Giustizia digitale: PCT, processo penale telematico e fascicolo | Digitale | [[sources/giustizia-digitale-pct-ppt-m-fc04]] |
+| 13 | Giustizia minorile e di comunita: servizi, mediazione e riparativa | DGMC | [[sources/minorile-comunita-giustizia-riparativa-m-fc04]] |
+| 14 | Amministrazione penitenziaria: trattamento, istituti ed esecuzione esterna | DAP | [[sources/ordinamento-penitenziario-trattamento-misure-m-fc04]] |
 
-### Collegamenti obbligatori
-- Libro principale: [[books/il-metodo-bando/index|Il Metodo BANDO]]
-- Struttura madre: [[books/il-metodo-bando/struttura-madre|Struttura madre]]
-- Ricettario operativo: [[books/il-metodo-bando/ricettario-digitale|Ricettario operativo digitale]]
-- Architettura moduli: [[books/moduli/architettura-moduli-specialistici|Architettura moduli specialistici]]
+## Appendici previste
+- Appendice A - Toolkit UPP.
+- Appendice B - Tavole cancelleria, spese, casellario e UNEP.
+- Appendice C - Minorile, comunita e giustizia riparativa.
+- Appendice D - Penitenziario, misure alternative e trattamento.
+- Appendice E - Ponte a M-SP03 Magistratura.
 
-### Fonti da consolidare prima della scrittura
-- Bandi rappresentativi della famiglia.
-- Normativa ufficiale di settore.
-- Topic pages gia presenti nel wiki.
-- Source notes nuove se il modulo richiede aggiornamento o specialismo.
-
-## Testo editoriale
-Da sviluppare con Manual Writer Agent dopo consolidamento delle fonti specifiche.
+## Review obbligatoria
+Prima della redazione definitiva verificare:
+- conversione e testo coordinato del D.L. 100/2026;
+- D.M. e specifiche DGSIA sul processo penale telematico;
+- assetto aggiornato del Ministero della giustizia;
+- testo finale del CCNL Funzioni Centrali 2025-2027, se sottoscritto;
+- PDF integrali dei bandi e allegati.

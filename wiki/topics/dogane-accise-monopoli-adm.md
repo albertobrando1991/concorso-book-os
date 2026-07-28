@@ -6,7 +6,7 @@ status: source_ready
 domain: "concorsi pubblici italiani"
 topics: ["dogane","accise","giochi","monopoli","adm"]
 entities: ["Agenzia delle Dogane e dei Monopoli","Unione europea"]
-source_refs: ["sources/dogane-accise-giochi-monopoli-adm-m-fc02.md","sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026.md"]
+source_refs: ["sources/dogane-accise-giochi-monopoli-adm-m-fc02.md","sources/codice-doganale-unione-procedure-doganali-m-fc02.md","sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026.md"]
 book_refs: ["m-fc02-agenzie-fiscali"]
 confidence: 0.8
 updated_at: 2026-07-01T21:00:00+02:00
@@ -30,9 +30,11 @@ ADM ha un baricentro diverso da AE: dogane, accise, giochi e monopoli. Per il ca
 - accise e prodotti soggetti a imposta;
 - giochi e monopoli come funzioni regolatorie e di controllo;
 - diritto UE doganale come cornice da verificare su EUR-Lex.
+- Codice doganale dell'Unione, origine, classificazione, valore, controlli e AEO come base del capitolo dogane.
 
 ## Fonti
 - [[sources/dogane-accise-giochi-monopoli-adm-m-fc02]]
+- [[sources/codice-doganale-unione-procedure-doganali-m-fc02]]
 - [[sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026]]
 
 ## Stato revisione

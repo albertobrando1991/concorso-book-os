@@ -107,6 +107,7 @@ const STAFF_ONLY_HEADINGS = [
   "Testo editoriale",
   "Bozza agente",
   "Note editoriali",
+  "Note di review",
   "Norme o riferimenti",
   "Quiz collegati",
   "Spiegazione",
@@ -123,6 +124,8 @@ const INDEX_FIRST_PAGE_HEADER_COST = 150
 const INDEX_RUNNING_HEADER_COST = 34
 const DEFAULT_MAX_TABLE_ROWS_PER_PREVIEW_BLOCK = 4
 const VERBOSE_TABLE_ROWS_PER_PREVIEW_BLOCK = 2
+const VERY_VERBOSE_TABLE_ROWS_PER_PREVIEW_BLOCK = 1
+const VERY_VERBOSE_TABLE_CELL_LENGTH = 160
 const MAX_LIST_ITEMS_PER_PREVIEW_BLOCK = 4
 const MAX_PARAGRAPH_WORDS_PER_PREVIEW_BLOCK = 72
 
@@ -148,9 +151,7 @@ async function buildSingleBookStudioData(store: FileWikiStore, bookId: string): 
     .filter((file) => file.endsWith(".md"))
   const chapterFiles = (await store.listMarkdown(`books/${bookId}/chapters`))
     .filter((file) => file.endsWith(".md"))
-  const chapters: BookStudioChapter[] = []
-
-  for (const file of [...frontMatterFiles, ...chapterFiles]) {
+  const chapters = await Promise.all([...frontMatterFiles, ...chapterFiles].map(async (file): Promise<BookStudioChapter> => {
     const content = await store.readText(file)
     const parsed = parseFrontmatter(content)
     const preview = selectPreviewMarkdown(parsed.body)
@@ -160,7 +161,7 @@ async function buildSingleBookStudioData(store: FileWikiStore, bookId: string): 
     const outlineSection = String(parsed.data.outline_section || "")
     const bookScope = resolveBookStudioScope(bookId, sectionType, outlineSection)
 
-    chapters.push({
+    return {
       path: file,
       title: String(parsed.data.title || titleFromPath(file)),
       outlineSection,
@@ -177,8 +178,8 @@ async function buildSingleBookStudioData(store: FileWikiStore, bookId: string): 
       wordCount: countWords(preview.markdown),
       contentState: sectionType === "front_matter" && preview.state !== "structure" ? "written" : preview.state,
       blocks: markdownToBlocks(preview.markdown, file)
-    })
-  }
+    }
+  }))
 
   chapters.sort(compareStudioChapters)
   hydrateGeneratedFrontMatter(chapters, bookId)
@@ -1202,9 +1203,14 @@ function splitOversizedBlocks(blocks: MarkdownBlock[]) {
       continue
     }
 
-    if (block.type === "table" && (block.rows?.length || 0) > DEFAULT_MAX_TABLE_ROWS_PER_PREVIEW_BLOCK) {
+    if (block.type === "table") {
       const rows = block.rows || []
       const rowsPerBlock = tableRowsPerPreviewBlock(block)
+
+      if (rows.length <= rowsPerBlock) {
+        next.push(block)
+        continue
+      }
 
       for (let index = 0; index < rows.length; index += rowsPerBlock) {
         next.push({
@@ -1241,6 +1247,12 @@ function tableRowsPerPreviewBlock(block: MarkdownBlock) {
   const cells = (block.rows || []).flat().filter(Boolean)
   const averageCellLength = cells.reduce((total, cell) => total + cell.length, 0) / Math.max(1, cells.length)
   const maxCellLength = cells.reduce((max, cell) => Math.max(max, cell.length), 0)
+
+  // A two-row fragment with an exceptionally long cell can be taller than the
+  // remaining printable area. Keeping it intact pushes the whole fragment to
+  // the next page and leaves a large blank area behind. Split only these
+  // exceptional rows; regular verbose tables keep their denser two-row layout.
+  if (maxCellLength >= VERY_VERBOSE_TABLE_CELL_LENGTH) return VERY_VERBOSE_TABLE_ROWS_PER_PREVIEW_BLOCK
 
   if (averageCellLength >= 24 || maxCellLength >= 80) return VERBOSE_TABLE_ROWS_PER_PREVIEW_BLOCK
 
@@ -1327,7 +1339,10 @@ function parseTable(lines: string[]): MarkdownBlock | null {
   if (separatorIndex !== 1) return null
 
   const headers = parsedRows[0]
-  const rows = parsedRows.slice(2).filter((row) => row.some(Boolean))
+  // Blank rows are intentional in workbook tables: they are writable fields,
+  // not disposable Markdown noise. Dropping them turns a valid empty worksheet
+  // into a paragraph that exposes pipes and separator markers in Book Studio.
+  const rows = parsedRows.slice(2)
 
   if (headers.length === 0 || rows.length === 0) return null
 
@@ -1406,12 +1421,16 @@ async function listBookAssets(store: FileWikiStore, bookId: string): Promise<Boo
     `books/${bookId}/assets`
   ]
 
-  for (const directory of assetDirectories) {
+  const assetGroups = await Promise.all(assetDirectories.map(async (directory) => {
     const assetRoot = store.resolve(directory)
 
-    if (!assetRoot.startsWith(root)) continue
+    if (!assetRoot.startsWith(root)) return []
 
-    for (const asset of await walkAssets(assetRoot, root)) {
+    return walkAssets(assetRoot, root)
+  }))
+
+  for (const assets of assetGroups) {
+    for (const asset of assets) {
       assetsByPath.set(asset.path, asset)
     }
   }
@@ -1428,28 +1447,25 @@ async function walkAssets(directory: string, wikiRoot: string): Promise<BookStud
     return []
   }
 
-  const assets: BookStudioAsset[] = []
-
-  for (const entry of entries) {
+  const nestedAssets = await Promise.all(entries.map(async (entry): Promise<BookStudioAsset[]> => {
     const absolute = path.join(directory, entry.name)
 
     if (entry.isDirectory()) {
-      assets.push(...await walkAssets(absolute, wikiRoot))
-      continue
+      return walkAssets(absolute, wikiRoot)
     }
 
-    if (!IMAGE_EXTENSIONS.has(path.extname(entry.name).toLowerCase())) continue
+    if (!IMAGE_EXTENSIONS.has(path.extname(entry.name).toLowerCase())) return []
 
     const details = await stat(absolute)
-    assets.push({
+    return [{
       path: path.relative(wikiRoot, absolute).replace(/\\/g, "/"),
       name: entry.name,
       size: details.size,
       updatedAt: details.mtime.toISOString()
-    })
-  }
+    }]
+  }))
 
-  return assets.sort((left, right) => right.updatedAt.localeCompare(left.updatedAt))
+  return nestedAssets.flat().sort((left, right) => right.updatedAt.localeCompare(left.updatedAt))
 }
 
 function findHeading(lines: string[], heading: string) {

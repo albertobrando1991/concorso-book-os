@@ -9,14 +9,14 @@ entities: ["Metodo BANDO", "Moduli Profilo", "inPA", "ARAN", "Comune", "Agenzia 
 source_refs: ["sources/struttura-madre-il-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/capitolo-19-20-corpus-profili-concorsuali-2026-05-30.md", "sources/ccnl-comparti-aree-famiglie-professionali-pa.md", "sources/bandi-rappresentativi-profili-concorsuali-inpa-agenzie-enti-2025-2026.md", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.9
-updated_at: 2026-06-08T19:36:19+02:00
+updated_at: 2026-07-24T00:00:00+02:00
 created_at: 2026-05-10T11:45:00+02:00
 review_required: true
 canonical: true
 tags: ["book-chapter", "part-4", "profili"]
 book_id: il-metodo-bando
 outline_section: 19
-draft_stage: revised-editorial-draft
+draft_stage: editorial-review
 last_compiled_from: ["sources/capitolo-19-20-corpus-profili-concorsuali-2026-05-30.md", "topics/famiglie-concorsuali.md", "topics/moduli-profilo.md", "topics/nucleo-comune-concorsi-pubblici.md"]
 ---
 
@@ -24,15 +24,15 @@ last_compiled_from: ["sources/capitolo-19-20-corpus-profili-concorsuali-2026-05-
 
 Un candidato che prepara concorsi pubblici senza distinguere le famiglie concorsuali rischia di fare due errori opposti.
 
-Il primo errore è pensare che tutti i concorsi siano uguali: stesso diritto amministrativo, stessa contabilità, stessi quiz, stesso orale. In questo modo si perde la parte specifica del profilo e si arriva alla prova con una preparazione generica.
+Il primo errore è trattare tutti i concorsi allo stesso modo: stesso diritto amministrativo, stessa contabilità, stessi quiz, stesso orale. Così si perde la parte specifica del profilo e si arriva alla prova con una preparazione generica.
 
-Il secondo errore è pensare che ogni concorso sia completamente diverso dagli altri. In questo modo si ricomincia da zero ogni volta, si comprano nuovi manuali, si moltiplicano materiali e si disperde il capitale di studio già costruito.
+L'errore opposto è pensare che ogni concorso sia completamente diverso dagli altri. Si ricomincia da zero, si comprano nuovi manuali, si moltiplicano i materiali e si disperde il capitale di studio già costruito.
 
 La logica corretta sta in mezzo:
 
 > molti concorsi condividono un nucleo comune, ma ogni famiglia cambia priorità, linguaggio, prove e rischio principale.
 
-Questo capitolo serve a costruire la mappa. Non sostituisce il bando e non pretende di classificare ogni procedura possibile. Ti insegna a riconoscere il terreno su cui stai giocando.
+Questo capitolo costruisce una mappa di orientamento. Non sostituisce il bando né classifica ogni procedura possibile; ti aiuta a riconoscere il terreno su cui stai giocando.
 
 ![Figura 19.1 - Mappa BANDO delle famiglie concorsuali: usare la famiglia per leggere bando, aree, nuclei, diario e output senza saltare il bando.](../assets/chapter-19/01-mappa-bando-famiglie-concorsuali.png)
 
@@ -475,7 +475,7 @@ Strategia:
 - allena casi situazionali con cittadini;
 - cura forma fisica o requisiti solo se previsti dal bando, senza presumere.
 
-## Famiglia 11 - sanità amministrativa
+## Famiglia 11 - Sanità amministrativa
 
 La sanità amministrativa non coincide con le professioni sanitarie. Riguarda amministrazione, personale, acquisti, servizi, front office, CUP, documentazione, privacy, bilancio e organizzazione sanitaria.
 

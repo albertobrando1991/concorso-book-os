@@ -9,7 +9,7 @@ entities: ["Metodo BANDO", "Bando Decoder", "Diario degli errori", "Piano 30/60/
 source_refs: ["sources/caso-completo-bando-prova-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/struttura-madre-il-metodo-bando.md", "sources/template-bando-decoder-metodo-bando.md", "sources/piano-studio-personale-metodo-bando.md", "sources/checklist-operative-concorsi-metodo-bando.md", "sources/simulazioni-concorsuali-metodo-bando.md", "sources/schede-operative-studio-metodo-bando.md", "sources/strategia-punteggio-prova-concorsuale-metodo-bando.md", "sources/giorno-prova-concorso-metodo-bando.md", "sources/ripasso-finale-concorsi-metodo-bando.md", "sources/intervallo-tra-prove-concorsuali-metodo-bando.md", "sources/capitale-studio-riutilizzabile-metodo-bando.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.9
-updated_at: 2026-06-12T10:30:00+02:00
+updated_at: 2026-07-24T00:00:00+02:00
 created_at: 2026-06-12T10:30:00+02:00
 review_required: true
 canonical: true
@@ -32,13 +32,7 @@ Non lo sono.
 
 Il Bando Decoder non serve a fare una bella scheda.
 
-Il piano non serve a riempire caselle.
-
-Il Diario degli errori non serve a registrare colpe.
-
-La simulazione non serve a dire se sei bravo o no.
-
-Tutto il sistema serve a una cosa sola: portarti da un bando reale a una prova eseguita con ordine.
+Piano, Diario degli errori e simulazione lavorano insieme per portarti da un bando reale a una prova eseguita con ordine.
 
 Questo capitolo è un laboratorio. Useremo un bando fittizio ma realistico e seguiremo un candidato dall'apertura del file alla prova. Non dovrai ricordare nuove regole. Dovrai vedere il metodo in movimento.
 
@@ -61,6 +55,8 @@ La regola guida è:
 > un metodo funziona solo se produce decisioni visibili.
 
 ## Il caso: Marta e il concorso amministrativo
+
+![Mappa del caso completo](../assets/chapter-41/01-mappa-caso-completo.png)
 
 Marta lavora part-time e prepara concorsi amministrativi. Ha già studiato diritto amministrativo di base, qualche nozione di pubblico impiego, un po' di trasparenza e una banca dati di quiz generica. Ha anche molti appunti, ma non sa più quali siano davvero utili.
 
@@ -89,6 +85,8 @@ Prima del materiale, viene il bando.
 
 ## Fase B - Bando: estrarre i dati che comandano
 
+![Estrazione dei dati decisivi dal bando](../assets/chapter-41/02-estrazione-dati-bando.png)
+
 La prima fase non chiede: "che cosa devo studiare?".
 
 Chiede: "quale prova devo superare?".
@@ -112,6 +110,8 @@ Questa tabella ha già prodotto una scelta: Marta non studierà "tutto il diritt
 **Errore evitato:** partire dal manuale più grande solo per sentirsi al sicuro.
 
 ## Fase A - Aree: dividere il concorso in blocchi governabili
+
+![Dalle aree del programma ai nuclei indispensabili](../assets/chapter-41/03-aree-nuclei.png)
 
 La lista delle materie del bando sembra piatta. Nel piano, invece, non può restare piatta.
 
@@ -159,6 +159,8 @@ Il Metodo BANDO non chiede a Marta di "vedere" un argomento. Le chiede di produr
 
 ## Fase D - Diario: rendere visibili errori e decisioni
 
+![Diario che trasforma gli errori in decisioni](../assets/chapter-41/04-diario-decisioni.png)
+
 Marta apre il Diario degli errori prima di fare molte prove.
 
 Questo sembra strano: molti candidati aprono il diario dopo avere sbagliato tanto. Il metodo lo apre prima, perché il diario non è un registro di fallimenti. È la cabina di regia.
@@ -182,6 +184,8 @@ Se un errore non cambia il piano, resta memoria passiva.
 
 ## Fase O - Output: decidere che cosa deve uscire ogni settimana
 
+![Output settimanali che rendono verificabile lo studio](../assets/chapter-41/05-output-settimanale.png)
+
 Ogni settimana deve produrre almeno un output misurabile.
 
 Marta definisce quattro output.
@@ -202,6 +206,8 @@ Non è più "lunedi amministrativo, martedi enti locali, mercoledi privacy".
 Questa domanda rende il piano controllabile.
 
 ## Piano a 30 giorni del caso
+
+![Piano a trenta giorni con traguardi e simulazione](../assets/chapter-41/06-piano-trenta-giorni.png)
 
 Marta ha circa 18 ore a settimana. Non sono poche, ma non sono infinite.
 
@@ -508,6 +514,8 @@ Ogni dato può diventare capitale.
 5. Dopo la prova il capitale di studio va salvato, non disperso.
 
 ## Caso guidato: la decisione più importante di Marta
+
+![Caso completo: dal bando al giorno della prova](../assets/chapter-41/07-caso-marta.png)
 
 A meta percorso Marta riceve da un gruppo online un file di 200 pagine.
 

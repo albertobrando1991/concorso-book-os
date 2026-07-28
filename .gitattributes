@@ -1,3 +1,6 @@
 * text=auto eol=lf
 *.png binary
 
+# stato pipeline: merge per-step invece del testuale grezzo (vedi docs/PIPELINE.md)
+pipeline/*/run-state.json merge=pipeline-run-state
+

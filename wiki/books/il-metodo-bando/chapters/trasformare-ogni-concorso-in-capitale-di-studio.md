@@ -9,7 +9,7 @@ entities: ["Metodo BANDO", "Bando Decoder", "Diario degli errori", "Piano 30/60/
 source_refs: ["sources/capitale-studio-riutilizzabile-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/struttura-madre-il-metodo-bando.md", "sources/apprendimento-efficace-active-recall-ripasso-distribuito.md", "sources/scienze-apprendimento-pianificazione-metacognizione-errori.md", "sources/capitoli-21-23-corpus-moduli-piano-diario-2026-06-01.md", "sources/checklist-operative-concorsi-metodo-bando.md", "sources/matrice-materie-profili-metodo-bando.md", "sources/fonti-ufficiali-aggiornamento-metodo-bando-2026-06-03.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.91
-updated_at: 2026-07-01T14:30:00+02:00
+updated_at: 2026-07-24T00:00:00+02:00
 created_at: 2026-06-05T17:14:25+02:00
 review_required: true
 canonical: true
@@ -18,21 +18,20 @@ book_id: il-metodo-bando
 outline_section: 26
 draft_stage: professional-complete-draft
 last_compiled_from: ["sources/capitale-studio-riutilizzabile-metodo-bando.md", "topics/capitale-studio-riutilizzabile.md", "topics/metodo-bando.md", "topics/nucleo-comune-concorsi-pubblici.md", "topics/diario-errori.md", "topics/moduli-integrativi.md"]
+last_humanizer_revision: 2026-07-24
 ---
 
 # Capitolo 26 - Trasformare ogni concorso in capitale di studio
 
 > Modulo ricettario **R2** — Capitale di studio riutilizzabile. Collega Cap. 25, Cap. 22 e moduli profilo.
 
-Il vero vantaggio non nasce quando finisci un concorso.
+Il vantaggio di un concorso resta disponibile quando conservi e riordini ciò che hai imparato.
 
-Nasce quando non butti via ciò che quel concorso ti ha insegnato.
+Bandi letti, quiz sbagliati, risposte orali, tabelle, materie tagliate e avvisi controllati diventano capitale di studio se entrano in un sistema riutilizzabile.
 
-Ogni bando letto, ogni quiz sbagliato, ogni risposta orale provata, ogni tabella compilata, ogni materia tagliata e ogni avviso controllato possono diventare capitale di studio. Ma diventano capitale solo se li trasformi in un sistema riutilizzabile.
+Chi ricomincia sempre da zero accumula fatica. Chi conserva materiali verificati parte dal lavoro già fatto.
 
-Il candidato che ricomincia sempre da zero accumula fatica. Il candidato che costruisce capitale accumula vantaggio.
-
-Questo capitolo serve a chiudere il cerchio del Metodo BANDO: non basta preparare bene un concorso. Devi far si che il concorso successivo parta da una base migliore.
+Questo capitolo chiude il cerchio del Metodo BANDO: prepara il materiale utile perché il concorso successivo inizi da una base migliore.
 
 ## Obiettivo del capitolo
 
@@ -64,7 +63,7 @@ Se manca una di queste cinque parti, il materiale resta fragile. Potresti aver s
 
 ![Figura 26.1 - Mappa BANDO del capitale di studio](../assets/chapter-26/01-mappa-bando-capitale.png)
 
-## Che cos'e il capitale di studio
+## Che cos'è il capitale di studio
 
 Il capitale di studio è il patrimonio ordinato che puoi portare da un concorso al successivo.
 
@@ -343,16 +342,23 @@ No. Il capitale ti aiuta a partire avanti, ma ogni bando ha requisiti, prove, sc
 
 Scegli l'ultimo concorso che hai preparato e compila.
 
-| Materiale | Core / Modulo / Solo bando | Lo riuso? | Cosa devo fare |
-|---|---|---|---|
-| Bando Decoder | | | |
-| Schema principale | | | |
-| Quiz corretti | | | |
-| Errori ricorrenti | | | |
-| Risposte orali | | | |
-| Casi pratici | | | |
-| Fonte ufficiale controllata | | | |
-| Materiale da eliminare | | | |
+| Materiale | Core / Modulo / Solo bando | Lo riuso? |
+|---|---|---|
+| Bando Decoder | | |
+| Schema principale | | |
+| Quiz corretti | | |
+| Errori ricorrenti | | |
+| Risposte orali | | |
+| Casi pratici | | |
+| Fonte ufficiale controllata | | |
+| Materiale da eliminare | | |
+
+| Materiale | Azione da compiere |
+|---|---|
+| | |
+| | |
+| | |
+| | |
 
 Poi scrivi tre righe:
 

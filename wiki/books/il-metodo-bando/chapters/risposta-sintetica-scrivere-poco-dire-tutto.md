@@ -9,7 +9,7 @@ entities: ["Metodo BANDO", "Bando Decoder", "Diario degli errori"]
 source_refs: ["sources/risposta-sintetica-domande-aperte-metodo-bando.md", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md", "sources/schede-operative-studio-metodo-bando.md", "sources/strategia-punteggio-prova-concorsuale-metodo-bando.md", "sources/scelta-materiali-studio-concorsi-metodo-bando.md", "sources/apprendimento-efficace-active-recall-ripasso-distribuito.md", "sources/parole-chiave-concorsi-metodo-bando.md", "sources/schema-universale-risposta-orale-metodo-bando.md", "sources/checklist-operative-concorsi-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/struttura-madre-il-metodo-bando.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.9
-updated_at: 2026-06-14T22:05:00+02:00
+updated_at: 2026-07-24T00:00:00+02:00
 created_at: 2026-06-14T22:05:00+02:00
 review_required: true
 canonical: true
@@ -26,7 +26,7 @@ La risposta sintetica è una prova di selezione.
 
 Non selezione tra candidati, almeno non solo. Selezione tra ciò che sai e ciò che serve.
 
-Molti candidati pensano che una risposta breve sia più facile di un elaborato lungo. In realta, spesso è più difficile: non hai spazio per riscaldarti, per girare intorno al tema, per recuperare dopo un avvio confuso. Devi capire subito la traccia e scegliere subito che cosa mettere.
+Molti candidati pensano che una risposta breve sia più facile di un elaborato lungo. Spesso richiede più precisione: lo spazio è ridotto e la traccia va capita subito.
 
 La risposta sintetica non premia chi scrive meno.
 
@@ -80,6 +80,8 @@ La sintesi funziona quando il lettore capisce subito tre cose:
 3. sa usarlo in modo ordinato.
 
 ## La mappa BANDO della risposta sintetica
+
+![Mappa risposta sintetica](../assets/chapter-43/01-mappa-risposta-sintetica.png)
 
 Anche una domanda di poche righe si prepara con il Metodo BANDO.
 
@@ -138,6 +140,8 @@ Se dice "indicare", non serve una premessa lunga.
 Se dice "applicare", una definizione generale è solo l'inizio, non la risposta.
 
 ## Lo schema base
+
+![Lettura della traccia con estrazione delle informazioni utili](../assets/chapter-43/02-lettura-traccia.png)
 
 Per molte risposte sintetiche puoi usare questo schema:
 
@@ -246,6 +250,8 @@ Una scaletta da sei parole può salvare una risposta da trenta righe.
 
 ## Micro-scaletta in 90 secondi
 
+![Schema essenziale della risposta sintetica](../assets/chapter-43/03-schema-base-risposta.png)
+
 Quando il tempo è stretto, non devi fare una scaletta bella. Devi fare una scaletta utile.
 
 Formula:
@@ -269,6 +275,8 @@ Esempio:
 Con questa micro-scaletta eviti di scrivere tre definizioni scollegate.
 
 ## Parole chiave: poche, vive, pertinenti
+
+![Micro-scaletta per ordinare una risposta sotto tempo](../assets/chapter-43/04-micro-scaletta.png)
 
 Le parole chiave aiutano solo se lavorano nella frase.
 
@@ -320,6 +328,8 @@ Scrivere "secondo la disciplina sul procedimento amministrativo" può essere meg
 La precisione non è ostentazione. È controllo.
 
 ## La griglia di revisione finale
+
+![Selezione delle parole chiave che reggono la risposta](../assets/chapter-43/05-parole-chiave.png)
 
 La revisione non è un lusso. È parte della prova.
 
@@ -413,6 +423,8 @@ Questa risposta non dice tutto sulla motivazione. Dice ciò che la traccia chied
 
 ## Allenare la risposta sintetica
 
+![Griglia per controllare una risposta prima della consegna](../assets/chapter-43/06-griglia-revisione.png)
+
 Non migliori la risposta sintetica solo leggendo esempi.
 
 Devi produrla.
@@ -443,6 +455,8 @@ Prendi due istituti vicini e compila:
 Molte domande aperte brevi non chiedono una nozione isolata, ma una distinzione.
 
 ## Da sapere in 5 righe
+
+![Caso guidato: ridurre una risposta senza perdere precisione](../assets/chapter-43/07-caso-risposta.png)
 
 1. La risposta sintetica non è un riassunto: è una risposta proporzionata alla traccia.
 2. Prima di scrivere devi leggere verbo, oggetto, perimetro, spazio e tempo.

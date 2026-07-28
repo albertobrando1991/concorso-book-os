@@ -9,7 +9,7 @@ entities: ["Metodo BANDO", "Bando Decoder", "Diario degli errori", "inPA", "Gazz
 source_refs: ["sources/fonti-ufficiali-aggiornamento-metodo-bando-2026-06-03.md", "sources/metodo-bando-progetto-editoriale.md", "sources/struttura-madre-il-metodo-bando.md", "sources/checklist-operative-concorsi-metodo-bando.md", "sources/matrice-materie-profili-metodo-bando.md", "sources/formazione-competenze-pa-syllabus-direttiva-2025.md", "sources/framework-competenze-trasversali-pa-dm-28-giugno-2023.md", "sources/anac-piano-nazionale-anticorruzione-2025-delibera-n-19-del-28-gennaio-2026.md", "sources/agid-linee-guida-sulla-formazione-gestione-e-conservazione-dei-documenti-informatici.md", "sources/garante-privacy-trasparenza-pa-accesso-civico-e-dati-personali.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.91
-updated_at: 2026-07-01T15:00:00+02:00
+updated_at: 2026-07-24T00:00:00+02:00
 created_at: 2026-06-03T20:28:45+02:00
 review_required: true
 canonical: true
@@ -18,21 +18,20 @@ book_id: il-metodo-bando
 outline_section: 25
 draft_stage: professional-complete-draft
 last_compiled_from: ["sources/fonti-ufficiali-aggiornamento-metodo-bando-2026-06-03.md", "topics/aggiornamento-fonti-concorsi.md", "topics/metodo-bando.md", "topics/checklist-concorsi.md", "topics/diario-errori.md", "topics/moduli-integrativi.md"]
+last_humanizer_revision: 2026-07-24
 ---
 
 # Capitolo 25 - Aggiornare il metodo dopo il libro
 
 > Modulo ricettario **R1** — Protocollo aggiornamenti e fonti ufficiali. Collega Introduzione, Cap. 2, Cap. 3 e [[books/il-metodo-bando/chapters/usare-il-digitale-senza-perdere-il-metodo|R4 Cap. 28]].
 
-Questo libro non finisce quando arrivi all'ultima pagina.
+Con l'ultima pagina comincia il lavoro di aggiornamento. I bandi cambiano, le amministrazioni pubblicano avvisi, le piattaforme aggiornano funzioni, le graduatorie seguono regole di pubblicazione e alcune materie entrano o escono dai programmi.
 
-Finisce la lettura, ma non finisce il metodo. I bandi cambiano, le amministrazioni pubblicano avvisi, le piattaforme aggiornano funzioni, le graduatorie seguono regole di pubblicazione, alcune materie entrano o escono dai programmi e certe parole diventano più frequenti nelle prove.
-
-Il rischio, però, non è solo restare indietro. Il rischio opposto è inseguire ogni novità e perdere il piano.
+Il rischio è doppio: restare indietro oppure inseguire ogni novità fino a perdere il piano.
 
 Aggiornare il Metodo BANDO significa fare una cosa molto precisa: controllare le fonti ufficiali, capire se cambia qualcosa per il tuo concorso e trasformare quel cambiamento in una decisione di studio.
 
-Non devi diventare un osservatorio normativo. Devi diventare un candidato che sa distinguere una notizia utile da un rumore.
+Serve un controllo mirato delle fonti, con criteri chiari per distinguere una notizia utile dal rumore.
 
 ## Obiettivo del capitolo
 
@@ -100,7 +99,7 @@ La domanda operativa è sempre la stessa:
 
 > questa informazione è notizia, norma, avviso o bando — e quale decisione mi costringe?
 
-Una notizia interessante non apre un modulo. Un avviso ufficiale si. Una norma conta se il programma la richiama o se cambia un nucleo che stai già studiando. Il bando resta il filtro finale.
+Una notizia interessante non apre un modulo. Un avviso ufficiale sì. Una norma conta se il programma la richiama o se cambia un nucleo che stai già studiando. Il bando resta il filtro finale.
 
 Regola pratica:
 
@@ -357,7 +356,7 @@ Formato:
 | Errore | Fonte corretta | Causa | Azione |
 |---|---|---|---|
 | Ho studiato una materia non prevista | Bando e programma | Ansia da accumulo | Taglio modulo e recupero simulazione |
-| Ho visto tardi l'avviso sulla sede | Sito amministrazione | Nessun controllo settimanale | Promemoria ogni venerdi |
+| Ho visto tardi l'avviso sulla sede | Sito amministrazione | Nessun controllo settimanale | Promemoria ogni venerdì |
 
 Un candidato migliora quando non ripete lo stesso errore di aggiornamento nel concorso successivo.
 
@@ -456,17 +455,27 @@ Checklist rapida post-controllo:
 
 ## Mini-esercizio
 
-Prendi il concorso che stai preparando e compila la tabella.
+Prendi il concorso che stai preparando e compila due schede distinte: prima il monitoraggio, poi la decisione.
 
-| Fonte da controllare | Link o posizione | Frequenza | Ultimo controllo | Azione se cambia |
-|---|---|---|---|---|
-| Bando/allegati | | | | |
-| inPA | | | | |
-| Sito amministrazione | | | | |
-| Gazzetta Ufficiale | | | | |
-| Normattiva | | | | |
-| autorità settoriale | | | | |
-| Diario errori | | | | |
+| Fonte da controllare | Link o posizione | Frequenza |
+|---|---|---|
+| Bando/allegati | | |
+| inPA | | |
+| Sito amministrazione | | |
+| Gazzetta Ufficiale | | |
+| Normattiva | | |
+| Autorità settoriale | | |
+| Diario degli errori | | |
+
+| Fonte controllata | Ultimo controllo | Azione se cambia |
+|---|---|---|
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
 
 Poi scegli una sola azione:
 
@@ -516,7 +525,7 @@ Prima del concorso successivo, verifica che il sistema di aggiornamento sia anco
 | Il digitale (R4) non sostituisce la verifica sulle fonti | |
 | Il calendario è protetto da controlli fuori finestra | |
 
-Il prossimo concorso non parte da una pagina bianca. Parte da un sistema già allenato che sa quando cambiare e quando continuare.
+Per il concorso successivo usa il sistema già allenato: conserva le decisioni utili, correggi gli errori e aggiorna solo ciò che il nuovo bando richiede.
 
 ## Riferimenti consolidati
 

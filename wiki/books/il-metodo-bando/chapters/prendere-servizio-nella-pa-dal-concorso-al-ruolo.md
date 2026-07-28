@@ -9,7 +9,7 @@ entities: ["Metodo BANDO", "Dipendente pubblico", "Pubblica amministrazione", "A
 source_refs: ["sources/presa-servizio-pa-metodo-bando.md", "sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego.md", "sources/aran-contrattazione-collettiva-comparti-aree-pubblico-impiego.md", "sources/ccnl-comparti-aree-famiglie-professionali-pa.md", "sources/d-p-r-16-aprile-2013-n-62-codice-comportamento-dipendenti-pubblici.md", "sources/d-p-r-13-giugno-2023-n-81-modifiche-codice-comportamento.md", "sources/formazione-competenze-pa-syllabus-direttiva-2025.md", "sources/d-lgs-27-ottobre-2009-n-150-performance.md", "sources/responsabilita-dirigenziale-legalita-organizzativa-performance-rischio.md", "sources/dopo-prova-esiti-graduatoria-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/struttura-madre-il-metodo-bando.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.91
-updated_at: 2026-07-01T17:00:00+02:00
+updated_at: 2026-07-24T00:00:00+02:00
 created_at: 2026-06-07T19:11:17+02:00
 review_required: true
 canonical: true
@@ -17,6 +17,7 @@ tags: ["book-chapter", "extra-chapter", "onboarding", "public-employment", "work
 book_id: il-metodo-bando
 outline_section: 31
 draft_stage: professional-complete-draft
+last_humanizer_revision: 2026-07-24
 last_compiled_from: ["sources/presa-servizio-pa-metodo-bando.md", "topics/presa-servizio-pa.md", "topics/pubblico-impiego.md", "topics/organizzazione-pubblica.md", "topics/capitale-studio-riutilizzabile.md", "topics/etica-pubblica.md"]
 ---
 
@@ -36,7 +37,7 @@ Non finisce li.
 
 Finisce quando sai trasformare ciò che hai studiato in comportamento professionale: leggere un atto, rispettare una scadenza, chiedere chiarimenti nel modo giusto, proteggere dati, riconoscere un conflitto di interessi, usare strumenti dell'ufficio per finalità di servizio, capire chi decide e chi esegue, imparare senza improvvisare.
 
-Questo capitolo non è una guida contrattuale. Non sostituisce bando, comunicazioni dell'ente, CCNL, ufficio personale o supporto qualificato. È una guida di metodo per arrivare al primo giorno in PA con ordine.
+Questo capitolo è una guida di metodo per arrivare al primo giorno in PA con ordine. Per contratto, comunicazioni dell'ente, CCNL e questioni personali, verifica bando, ufficio del personale e supporto qualificato.
 
 ## Obiettivo del capitolo
 
@@ -54,7 +55,7 @@ Alla fine del capitolo saprai:
 
 La regola è questa:
 
-> dopo il concorso non devi cambiare metodo. Devi cambiare output.
+> dopo il concorso il metodo continua, con output diversi: comportamenti affidabili dentro l'ufficio pubblico.
 
 Prima l'output era una risposta corretta. Ora è un comportamento affidabile dentro un ufficio pubblico.
 
@@ -247,7 +248,7 @@ Il neoassunto serio non dimostra valore facendo tutto subito. Dimostra valore ev
 
 ![Figura 31.6 - Primi 30 giorni in PA: orientamento, osservazione dei flussi, attività controllate e autonomia progressiva.](../assets/chapter-31/06-primi-30-giorni-pa.png)
 
-Nei primi 30 giorni non devi sapere tutto. Devi imparare nel modo giusto.
+Nei primi 30 giorni concentrati su domande precise, procedure verificate e correzione degli errori.
 
 Dividi il primo mese in quattro blocchi.
 

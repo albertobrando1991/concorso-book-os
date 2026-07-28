@@ -36,8 +36,7 @@ G:\Il mio Drive\PROGETTO CAPITALE PERSONALE SITO\PROG_LIBRO_CAPITALE PERSONALE\p
 
 Decisione applicata:
 - impostare il libro come **manuale premium-workbook**;
-- usare un master A4 verticale per scrittura, revisione e anteprima;
-- derivare dal master il formato commerciale compatto 17 x 24 cm;
+- usare il master cartaceo KDP 6,69 x 9,61 in (16,99 x 24,41 cm) per scrittura, revisione e anteprima;
 - mantenere il colore pagina gia' in uso nella preview;
 - adottare Garamond per il corpo e Arial per titoli, box, tabelle, quiz e strumenti;
 - usare palette controllata Navy, Bordeaux, Muted Gold, Off-White e Rich Black;
@@ -45,28 +44,18 @@ Decisione applicata:
 - conservare margini ottimizzati per legatura, leggibilita e workbook.
 
 ## Formato fisico consigliato
-Formato editoriale operativo attuale per master e preview:
+Formato editoriale operativo attuale per master, preview ed export KDP:
 
 ```text
-A4 verticale
-210 x 297 mm
-```
-
-Motivo:
-- rende verificabili pagina, margini, tabelle, immagini e strumenti nella dashboard;
-- sostiene un volume articolato con ritmo da manuale-workbook;
-- lascia spazio a box, tabelle compilabili, griglie e pagine operative.
-
-Formato commerciale compatto derivato:
-
-```text
-17 x 24 cm circa
-KDP equivalente: 6.69 x 9.61 in
+Paperback KDP verticale
+6.69 x 9.61 in
+16.99 x 24.41 cm
 ```
 
 Motivo:
 - conserva una proporzione editoriale professionale;
-- viene generato solo dopo il controllo del master, con una nuova verifica di riflusso, tabelle, immagini, vedove e orfani.
+- sostiene un volume articolato con ritmo da manuale-workbook, senza l'ingombro dell'A4;
+- rende verificabili pagina, margini, tabelle, immagini e strumenti direttamente nel formato di stampa.
 
 Formato alternativo per edizione molto pratica/workbook:
 
@@ -74,45 +63,27 @@ Formato alternativo per edizione molto pratica/workbook:
 7 x 10 in
 ```
 
-Usarlo solo se aumentano molto schede compilabili, griglie, tabelle e immagini e non si vuole mantenere A4.
+Usarlo solo se aumentano molto schede compilabili, griglie, tabelle e immagini e non si vuole mantenere il formato standard KDP.
 
 ## Margini e gabbia
 Per il formato editoriale 16,8 x 24 / 17 x 24:
 
 ```text
-interno/gutter: 18 mm
-esterno: 16 mm
-alto: 17 mm
-basso: 20 mm
+interno/gutter: 23 mm, speculare tra recto e verso
+esterno: 12 mm
+alto: 18 mm
+basso: 18 mm
 area testo: colonna singola
 target riga: 58-64 caratteri medi
 ```
 
-Per il formato A4 di revisione interna:
-
-```text
-interno/gutter: 20 mm
-esterno: 18 mm
-alto: 18 mm
-basso: 22 mm
-area testo: colonna singola
-```
-
-Per una variante 17 x 24 cm con dorso molto spesso, solo se la tipografia richiede piu sicurezza lato legatura:
-
-```text
-interno/gutter: 19 mm
-esterno: 15 mm
-alto: 18 mm
-basso: 22 mm
-area testo: colonna singola
-```
+Il margine interno di 23 mm copre anche la fascia KDP fino a 828 pagine. In export finale va comunque controllato il conteggio effettivo del singolo volume.
 
 Regola:
 - niente testo troppo vicino alla legatura;
 - no layout a due colonne per la spiegazione principale;
 - box e strumenti devono entrare nella colonna senza comprimere il testo;
-- la preview dashboard deve essere paginata in singole pagine A4, con footer e numerazione;
+- la preview dashboard deve essere paginata in singole pagine 6,69 x 9,61 in, con footer e numerazione;
 - il testo corrente deve essere giustificato, con sillabazione italiana, vedove/orfani controllati e titoli non lasciati soli a fine pagina;
 - tabelle larghe possono usare pagina piena o orientamento dedicato solo in appendice/PDF.
 
@@ -138,7 +109,7 @@ Motivo:
 - la coppia Arial/Garamond deve restare identica in tutti i volumi, moduli, revisioni ed export;
 - non introdurre font display aggiuntivi nel corpo libro e non usare piu di tre pesi nella stessa pagina.
 
-La specifica e' retroattiva: il renderer A4 condiviso applica Arial/Garamond a tutti i libri gia scritti senza modificare o eliminare testo, tabelle, box e immagini. Le immagini raster gia prodotte restano integre; quando uno schema viene rigenerato, il testo interno deve usare Arial.
+La specifica e' retroattiva: il renderer KDP condiviso applica Arial/Garamond a tutti i libri gia scritti senza modificare o eliminare testo, tabelle, box e immagini. Le immagini raster gia prodotte restano integre; quando uno schema viene rigenerato, il testo interno deve usare Arial.
 
 ## Dimensioni tipografiche stampa
 Corpo principale:
@@ -169,10 +140,10 @@ limite accettabile: 45-75 caratteri
 ```
 
 ## Dimensioni digitali/dashboard
-Preview dashboard:
+Preview dashboard e stampa:
 
 ```text
-formato pagina: A4 verticale
+formato pagina: 6.69 x 9.61 in verticale (16.99 x 24.41 cm)
 corpo: Garamond Regular 11 pt
 line-height: 1.18
 larghezza testo: max 64ch

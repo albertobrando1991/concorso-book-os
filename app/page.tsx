@@ -13,20 +13,16 @@ import {
   Settings,
   ShieldCheck
 } from "lucide-react"
-import { getDashboardData } from "@/src/server/dashboard/data"
-import { ManualWriterPanel } from "./components/manual-writer-panel"
+import { getDashboardData, getEssentialDashboardData } from "@/src/server/dashboard/data"
 import { KnowledgeGraphPanel } from "./components/knowledge-graph-panel"
-import { BookStudioPanel } from "./components/book-studio-panel"
-import { ManualWriterAgent } from "@/src/server/agents/manual-writer-agent"
 import { DEFAULT_BOOK_ID, getWikiRoot, getWriterConfig } from "@/src/server/config"
 import { FileWikiStore } from "@/src/server/wiki/file-store"
 import { parseFrontmatter } from "@/src/server/wiki/frontmatter"
 import { buildKnowledgeGraph } from "@/src/server/wiki/graph"
 import type { DashboardSource } from "@/src/server/wiki/types"
-import { buildBookStudioData } from "@/src/server/book/book-preview"
 import { BookSelector } from "./components/book-selector"
 import { BookCreatorPanel } from "./components/book-creator-panel"
-import { EditorialReviewerPanel } from "./components/editorial-reviewer-panel"
+import { EssentialEditorialWorkspace } from "./components/essential-editorial-workspace"
 import {
   TEXT_CATALOG_MODULE_COUNT,
   TEXT_CATALOG_PACKAGE_RULES,
@@ -50,6 +46,7 @@ type HomeProps = {
     source?: string | string[]
     bookId?: string | string[]
     chapterPath?: string | string[]
+    advanced?: string | string[]
   }>
 }
 
@@ -58,6 +55,7 @@ const navigation = [
   { label: "Catalogo", id: "catalogo", Icon: Library },
   { label: "Studio", id: "studio", Icon: BookOpen },
   { label: "Writer", id: "writer", Icon: PenIcon },
+  { label: "Revisione", id: "editorial-review", Icon: ShieldCheck },
   { label: "Testi", id: "testi", Icon: BookOpen },
   { label: "Fonti", id: "sources", Icon: FileSearch },
   { label: "Topic", id: "topics", Icon: Layers3 },
@@ -69,25 +67,29 @@ const navigation = [
 ] as const
 
 export default async function Home({ searchParams }: HomeProps) {
-  const data = await getDashboardData()
-  const store = new FileWikiStore(getWikiRoot())
   const params = searchParams ? await searchParams : {}
   const requestedBookId = normalizeDashboardBookId(firstParam(params.bookId) || DEFAULT_BOOK_ID)
   const requestedChapterPath = firstParam(params.chapterPath)
-  const chapters = await new ManualWriterAgent(store).listChapters(requestedBookId)
-  const graph = await buildKnowledgeGraph(store)
-  const bookStudio = await buildBookStudioData(store, requestedBookId)
+  const advancedMode = firstParam(params.advanced) === "1"
+  const store = new FileWikiStore(getWikiRoot())
+  const [data, graph] = await Promise.all([
+    advancedMode ? getDashboardData() : getEssentialDashboardData(),
+    advancedMode ? buildKnowledgeGraph(store) : Promise.resolve({ nodes: [], links: [] })
+  ])
   const writerConfig = getWriterConfig()
   const allSources = [...data.sources].sort(compareSources)
   const requestedSourcePath = firstParam(params.source)
   const selectedSource = allSources.find((source) => source.path === requestedSourcePath) || allSources[0]
-  const sourceReader = selectedSource ? await loadSourceReader(store, selectedSource) : null
+  const sourceReader = advancedMode && selectedSource ? await loadSourceReader(store, selectedSource) : null
   const topTopics = data.topics.slice(0, 6)
   const topIssues = data.qualityIssues.slice(0, 6)
   const catalogVolumes = buildCatalogVolumes(data.books)
   const activeCatalogVolume = findTextVolumeForBookId(requestedBookId)
   const availableCatalogTexts = catalogVolumes.filter((volume) => volume.availableBooks.length > 0).length
   const reviewRequiredTexts = data.books.filter((book) => book.reviewRequired).length
+  const visibleNavigation = advancedMode
+    ? navigation
+    : navigation.filter((item) => ["overview", "catalogo", "studio", "writer", "editorial-review"].includes(item.id))
 
   return (
     <main className="shell">
@@ -100,7 +102,7 @@ export default async function Home({ searchParams }: HomeProps) {
           </div>
         </div>
         <nav className="navList">
-          {navigation.map(({ label, id, Icon }) => (
+          {visibleNavigation.map(({ label, id, Icon }) => (
             <a href={`#${id}`} key={id}>
               <Icon size={18} aria-hidden />
               {label}
@@ -132,37 +134,58 @@ export default async function Home({ searchParams }: HomeProps) {
             ) : (
               <small className="activeVolumeNote">Testo fuori catalogo commerciale</small>
             )}
+            <a
+              className="dashboardModeLink"
+              href={advancedMode ? `/?bookId=${encodeURIComponent(requestedBookId)}` : `/?bookId=${encodeURIComponent(requestedBookId)}&advanced=1`}
+            >
+              {advancedMode ? "Torna alla dashboard essenziale" : "Apri strumenti avanzati"}
+            </a>
           </div>
         </header>
 
         <section className="metrics" aria-label="Metriche operative">
           <Metric label="Volumi catalogo" value={TEXT_VOLUME_CATALOG.length} accent="blue" />
-          <Metric label="Moduli specialistici" value={TEXT_CATALOG_MODULE_COUNT} accent="green" />
           <Metric label="Testi in dashboard" value={availableCatalogTexts} accent="blue" />
-          <Metric label="Fonti totali" value={data.metrics.totalSources} accent="green" />
           <Metric label="Review richieste" value={reviewRequiredTexts} accent="amber" />
-          <Metric label="Conflitti aperti" value={data.metrics.openConflicts} accent="red" />
-          <Metric label="Memorie locali" value={data.metrics.memoryAtoms} accent="amber" />
+          <Metric label="Moduli specialistici" value={TEXT_CATALOG_MODULE_COUNT} accent="green" />
+          {advancedMode ? (
+            <>
+              <Metric label="Fonti totali" value={data.metrics.totalSources} accent="green" />
+              <Metric label="Conflitti aperti" value={data.metrics.openConflicts} accent="red" />
+              <Metric label="Memorie locali" value={data.metrics.memoryAtoms} accent="amber" />
+            </>
+          ) : null}
         </section>
 
-        <CatalogStrategyPanel volumes={catalogVolumes} activeVolume={activeCatalogVolume} />
+        {advancedMode ? (
+          <CatalogStrategyPanel volumes={catalogVolumes} activeVolume={activeCatalogVolume} />
+        ) : (
+          <section className="essentialWorkflow" aria-label="Azioni editoriali principali">
+            <div>
+              <span>Testo attivo</span>
+              <strong>{activeCatalogVolume ? `${activeCatalogVolume.code} - ${activeCatalogVolume.shortTitle}` : requestedBookId}</strong>
+            </div>
+            <nav aria-label="Flusso operativo essenziale">
+              <a href="#studio">Apri Studio</a>
+              <a href="#writer">Apri Writer</a>
+              <a href="#editorial-review">Apri Revisione</a>
+            </nav>
+          </section>
+        )}
 
-        <BookStudioPanel
-          initialData={bookStudio}
+        <EssentialEditorialWorkspace
+          bookId={requestedBookId}
           initialChapterPath={requestedChapterPath}
           writerProvider={writerConfig.provider}
           writerModel={writerConfig.writerModel}
           writerReasoningEffort={writerConfig.writerReasoningEffort}
         />
 
-        <EditorialReviewerPanel
-          bookId={requestedBookId}
-          chapters={bookStudio.chapters.map((ch) => ({ path: ch.path, title: ch.title }))}
-        />
+        {advancedMode ? (
+          <>
+            <BookCreatorPanel />
 
-        <BookCreatorPanel />
-
-        <section className="grid two">
+            <section className="grid two">
           <Panel title="Pipeline stato" icon={<ListChecks size={19} aria-hidden />}>
             <ol className="timeline">
               <li>
@@ -196,25 +219,17 @@ export default async function Home({ searchParams }: HomeProps) {
               )}
             </div>
           </Panel>
-        </section>
+            </section>
 
-        <ManualWriterPanel
-          initialChapters={chapters}
-          activeBookId={requestedBookId}
-          writerProvider={writerConfig.provider}
-          writerModel={writerConfig.writerModel}
-          writerReasoningEffort={writerConfig.writerReasoningEffort}
-        />
+            <KnowledgeGraphPanel graph={graph} />
 
-        <KnowledgeGraphPanel graph={graph} />
-
-        <section className="grid">
+            <section className="grid">
           <Panel title={`Sources (${allSources.length})`} icon={<FileSearch size={19} aria-hidden />} id="sources">
             <SourceLibrary sources={allSources} selectedPath={selectedSource?.path || ""} reader={sourceReader} />
           </Panel>
-        </section>
+            </section>
 
-        <section className="grid two">
+            <section className="grid two">
           <Panel title="Topics" icon={<Layers3 size={19} aria-hidden />} id="topics">
             <div className="topicList">
               {topTopics.map((topic) => (
@@ -232,9 +247,9 @@ export default async function Home({ searchParams }: HomeProps) {
           <Panel title="Lista testi" icon={<BookOpen size={19} aria-hidden />} id="testi">
             <TextCatalogList volumes={catalogVolumes} currentBookId={requestedBookId} />
           </Panel>
-        </section>
+            </section>
 
-        <section className="grid two">
+            <section className="grid two">
           <Panel title="Quality" icon={<AlertTriangle size={19} aria-hidden />} id="quality">
             <div className="issueList">
               {topIssues.length === 0 ? (
@@ -262,7 +277,9 @@ export default async function Home({ searchParams }: HomeProps) {
               ))}
             </div>
           </Panel>
-        </section>
+            </section>
+          </>
+        ) : null}
       </section>
     </main>
   )

@@ -9,7 +9,7 @@ entities: ["Metodo BANDO", "Bando Decoder", "Diario degli errori"]
 source_refs: ["sources/banca-dati-ufficiale-quiz-metodo-bando.md", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md", "sources/apprendimento-efficace-active-recall-ripasso-distribuito.md", "sources/scelta-materiali-studio-concorsi-metodo-bando.md", "sources/simulazioni-concorsuali-metodo-bando.md", "sources/strategia-punteggio-prova-concorsuale-metodo-bando.md", "sources/ripasso-finale-concorsi-metodo-bando.md", "sources/checklist-operative-concorsi-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/struttura-madre-il-metodo-bando.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.9
-updated_at: 2026-06-14T17:00:00+02:00
+updated_at: 2026-07-24T00:00:00+02:00
 created_at: 2026-06-14T17:00:00+02:00
 review_required: true
 canonical: true
@@ -26,7 +26,7 @@ La banca dati ufficiale sembra una scorciatoia.
 
 Hai le domande. Hai le risposte. Sai che cosa può uscire. Il problema, almeno in apparenza, è risolto.
 
-In realta, molti candidati peggiorano proprio quando esce la banca dati. Entrano in modalità accumulo: mille quiz al giorno, screenshot, file duplicati, app, gruppi, ripassi casuali, classifiche di percentuale. Dopo pochi giorni riconoscono molte domande, ma non sanno più se stanno capendo o solo ricordando l'ordine delle opzioni.
+Molti candidati peggiorano proprio quando esce la banca dati. Entrano in modalità accumulo: mille quiz al giorno, screenshot, file duplicati, app, gruppi, ripassi casuali e classifiche di percentuale. Dopo pochi giorni riconoscono molte domande, ma non sanno più se stanno capendo o ricordando solo l'ordine delle opzioni.
 
 La banca dati ufficiale è potente solo se la tratti come uno strumento di procedura, non come una giostra di domande.
 
@@ -34,7 +34,7 @@ Questo capitolo ti insegna a usarla senza memorizzare male.
 
 La regola è semplice:
 
-> la banca dati ufficiale non si consuma; si governa.
+> la banca dati ufficiale va governata, non consumata.
 
 ## Obiettivo del capitolo
 
@@ -85,6 +85,8 @@ Se non sai rispondere a queste domande, non sei ancora pronto per fare quiz. Sei
 
 ## La mappa BANDO della banca dati
 
+![Mappa banca dati](../assets/chapter-42/01-mappa-banca-dati.png)
+
 La banca dati ufficiale va inserita dentro il Metodo BANDO.
 
 | Fase BANDO | Domanda guida | Output pratico |
@@ -100,6 +102,8 @@ Questa tabella impedisce l'errore più frequente: aprire la banca dati e partire
 Una banca dati non è una fila di quiz. È una mappa della prova.
 
 ## Il protocollo in quattro fasi
+
+![Verifica dell'ufficialità della fonte](../assets/chapter-42/02-verifica-ufficialita.png)
 
 Con banca dati ufficiale, il lavoro procede in quattro fasi.
 
@@ -219,6 +223,8 @@ Se una simulazione non produce almeno una decisione, è solo intrattenimento con
 
 ## Come studiare una singola domanda
 
+![Protocollo dalla fonte verificata alla correzione dell'errore](../assets/chapter-42/03-protocollo-quattro-fasi.png)
+
 Il modo in cui studi una domanda determina la qualità della memoria.
 
 Metodo debole:
@@ -275,6 +281,8 @@ Per questo devi allenare il contenuto, non lo schermo.
 
 ## Il Diario degli errori per banca dati
 
+![Dalla domanda alla spiegazione sicura](../assets/chapter-42/04-domanda-spiegazione.png)
+
 Il Diario degli errori cambia forma quando lavori su banca dati ufficiale.
 
 Non basta scrivere "sbagliata". Devi sapere perché.
@@ -299,6 +307,8 @@ Esempio:
 Il Diario è utile solo se modifica il piano. Se oggi sbagli tre domande sullo stesso nucleo, domani quel nucleo entra nel piano. Se dopo una settimana l'errore resta vivo, entra nel fascicolo finale.
 
 ## Il piano 21/14/7 giorni
+
+![Diario degli errori dedicato alla banca dati](../assets/chapter-42/05-diario-errori-banca-dati.png)
 
 Non sempre hai mesi. Spesso la banca dati viene pubblicata quando il calendario è già vicino.
 
@@ -422,6 +432,8 @@ Secondo: evita che la banca dati ti renda muto davanti a una domanda orale. Se s
 
 ## Caso guidato: Luca e la banca dati da 3.000 quiz
 
+![Piano a finestre per una banca dati ampia](../assets/chapter-42/06-piano-banca-dati.png)
+
 Luca prepara una prova preselettiva con banca dati ufficiale. Il file contiene 3.000 quesiti. Mancano 18 giorni.
 
 Il primo impulso è fare più quiz possibile ogni giorno.
@@ -511,6 +523,8 @@ La banca dati ufficiale permette copertura. Senza banca dati, devi costruire pro
 Confondere i due scenari è un errore serio.
 
 ## Da sapere in 5 righe
+
+![Caso guidato: gestione sicura di una banca dati estesa](../assets/chapter-42/07-caso-banca-dati.png)
 
 1. La banca dati ufficiale è materiale di procedura: va verificata su bando e avvisi.
 2. Prima si copre, poi si classifica, poi si ripete, poi si simula.

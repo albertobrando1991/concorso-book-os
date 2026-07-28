@@ -7,6 +7,12 @@ domain: "concorsi pubblici italiani"
 topics: ["agenzie fiscali","organizzazione amministrativa","funzioni centrali"]
 entities: ["Agenzia delle Entrate","Agenzia delle Dogane e dei Monopoli","Agenzia delle Entrate-Riscossione","MEF"]
 source_refs: ["sources/agenzie-fiscali-organizzazione-ae-adm-ader.md","sources/d-lgs-30-luglio-1999-n-300-organizzazione-governo.md","sources/m-fc02-dossier-redazionale-agenzie-fiscali.md","sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026.md","sources/riscossione-agenzia-entrate-riscossione-m-fc02.md","sources/dogane-accise-giochi-monopoli-adm-m-fc02.md","sources/assetti-organizzativi-ae-adm-ader-verifica-2026-07-17.md"]
+asset_refs:
+  - "books/moduli/m-fc02-agenzie-fiscali/assets/chapter-03/01-mappa-bando-organizzazione-fiscale.png"
+  - "books/moduli/m-fc02-agenzie-fiscali/assets/chapter-03/02-modello-mef-agenzie-fiscali.png"
+  - "books/moduli/m-fc02-agenzie-fiscali/assets/chapter-03/03-tre-funzioni-ae-adm-ader.png"
+  - "books/moduli/m-fc02-agenzie-fiscali/assets/chapter-03/04-centro-territorio-canali.png"
+  - "books/moduli/m-fc02-agenzie-fiscali/assets/chapter-03/05-accertamento-riscossione.png"
 book_refs: ["m-fc02-agenzie-fiscali","il-metodo-bando"]
 confidence: 0.95
 updated_at: 2026-07-17T21:45:00+02:00
@@ -73,6 +79,9 @@ Queste parole non sono etichette. Sono bussole. Ti dicono quali parti della teor
 In questo capitolo il metodo BANDO non ti chiede di studiare tutta l'amministrazione finanziaria. Ti chiede di estrarre l'organizzazione che serve alla prova.
 
 ## Il punto di partenza: il D.Lgs. 300/1999
+![Figura 3.1 - Mappa BANDO dell'organizzazione fiscale: dal bando alla risposta orale su ente, funzione, lessico e rischio.](../assets/chapter-03/01-mappa-bando-organizzazione-fiscale.png)
+
+### Il punto di partenza: il D.Lgs. 300/1999
 
 Il D.Lgs. 30 luglio 1999, n. 300 e' la fonte di riferimento per capire la riorganizzazione del Governo e il modello delle agenzie. Nel modulo M-FC02 va usato con un taglio preciso: non come capitolo generale sui Ministeri, ma come chiave per spiegare perche' le agenzie fiscali hanno autonomia organizzativa e funzioni tecnico-operative collegate all'area economico-finanziaria dello Stato.
 
@@ -99,6 +108,9 @@ Questa distinzione aiuta anche nei quiz. Se la domanda chiede "chi esercita la f
 AdER merita una cautela ulteriore. E' un ente pubblico economico, distinto dall'Agenzia delle Entrate ma strumentale a essa, con autonomia organizzativa, patrimoniale, contabile e di gestione. Il portale istituzionale precisa che l'Agenzia delle Entrate esercita indirizzo operativo e controllo sull'ente. Questa relazione non autorizza a sovrapporre le rispettive funzioni: AE presidia amministrazione dei tributi, servizi e accertamento; AdER esercita la riscossione nazionale. Per lo studio del capitolo, la distinzione tra fase impositiva e fase di riscossione resta il passaggio decisivo.
 
 ## Le tre funzioni da non confondere
+![Figura 3.2 - MEF, agenzie fiscali e riscossione: indirizzo e vigilanza non coincidono con le funzioni tecnico-operative.](../assets/chapter-03/02-modello-mef-agenzie-fiscali.png)
+
+### Le tre funzioni da non confondere
 
 Nel modulo M-FC02 devi tenere distinte tre funzioni.
 
@@ -119,6 +131,9 @@ La tabella seguente ti serve per fissare il nucleo.
 Questa tabella non sostituisce lo studio dei capitoli specialistici successivi. Serve a non sbagliare l'ingresso.
 
 ## Agenzia delle Entrate: servizi, controlli e territorio
+![Figura 3.3 - Le tre funzioni da non confondere: AE, ADM e AdER hanno lessici e prove operative diverse.](../assets/chapter-03/03-tre-funzioni-ae-adm-ader.png)
+
+### Agenzia delle Entrate: servizi, controlli e territorio
 
 L'Agenzia delle Entrate e' l'ente che il candidato associa piu' facilmente al fisco. Proprio per questo puo' generare l'errore piu' sottile: pensare che basti studiare diritto tributario in astratto.
 
@@ -182,6 +197,9 @@ Per AdER la fonte istituzionale aggiornata indica tre organi: Direttore, Comitat
 
 Gli assetti sono mobili. Il portale ADM, per esempio, registra un regolamento di amministrazione aggiornato nel 2026. La regola di studio e' quindi selettiva: memorizza il modello e la funzione degli organi; verifica nomi, articolazioni e regolamenti vigenti quando esce il bando.
 ## Come lo chiede la commissione
+![Figura 3.4 - Organizzazione centrale e rete territoriale: il centro coordina e il territorio incontra contribuenti, operatori e debitori.](../assets/chapter-03/04-centro-territorio-canali.png)
+
+### Come lo chiede la commissione
 
 La commissione puo' chiedere l'organizzazione in quattro modi.
 
@@ -280,6 +298,9 @@ Sara non ha studiato di piu'. Ha studiato meglio. Ha capito che il D.Lgs. 300/19
 **Perche' e' una trappola.** La domanda confonde collegamento istituzionale e immedesimazione organizzativa. Collegamento al MEF non significa identita con il Ministero.
 
 ## Errore tipico
+![Figura 3.5 - Accertamento e riscossione: due fasi collegate ma diverse, dalla pretesa al pagamento.](../assets/chapter-03/05-accertamento-riscossione.png)
+
+### Errore tipico
 
 L'errore tipico e' studiare l'organizzazione come una pagina da memorizzare.
 
@@ -368,6 +389,6 @@ Le fonti consolidate sono sufficienti per una bozza professionale del capitolo. 
 
 - Verificare, prima della pubblicazione definitiva, statuti, regolamenti di amministrazione e sezioni "Amministrazione trasparente" di Agenzia delle Entrate, ADM e AdER.
 - Evitare numeri di uffici, direzioni o personale se non sono stati confermati da fonte ufficiale aggiornata nel wiki.
-- Integrare eventuali immagini o mappe organizzative solo se leggibili e utili al ripasso; non inserire organigrammi decorativi o troppo dettagliati.
+- Le immagini inserite sono mappe didattiche leggibili e orientate al ripasso; non sostituiscono la verifica finale degli organigrammi ufficiali aggiornati.
 - Coordinare questo capitolo con i capitoli 7, 8, 9 e 10, dove riscossione, dogane, accise, giochi, monopoli, catasto e pubblicita immobiliare verranno sviluppati in modo specialistico.
 - Prima dell'export finale, controllare che la distinzione "accertamento/riscossione" sia coerente in tutto il modulo.

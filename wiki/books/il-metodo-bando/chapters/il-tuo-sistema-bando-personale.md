@@ -9,7 +9,7 @@ entities: ["Metodo BANDO", "Bando Decoder", "Diario degli errori", "Piano 30/60/
 source_refs: ["sources/sistema-bando-personale-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/struttura-madre-il-metodo-bando.md", "sources/capitale-studio-riutilizzabile-metodo-bando.md", "sources/fonti-ufficiali-aggiornamento-metodo-bando-2026-06-03.md", "sources/strumenti-digitali-metodo-bando.md", "sources/sostenibilita-preparazione-concorsi-metodo-bando.md", "sources/checklist-operative-concorsi-metodo-bando.md", "sources/presa-servizio-pa-metodo-bando.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.91
-updated_at: 2026-07-01T18:00:00+02:00
+updated_at: 2026-07-24T00:00:00+02:00
 created_at: 2026-06-07T19:28:12+02:00
 review_required: true
 canonical: true
@@ -17,6 +17,7 @@ tags: ["book-chapter", "extra-chapter", "epilogue", "method", "workbook"]
 book_id: il-metodo-bando
 outline_section: 32
 draft_stage: professional-complete-draft
+last_humanizer_revision: 2026-07-24
 last_compiled_from: ["sources/sistema-bando-personale-metodo-bando.md", "topics/sistema-bando-personale.md", "topics/metodo-bando.md", "topics/capitale-studio-riutilizzabile.md", "topics/aggiornamento-fonti-concorsi.md", "topics/strumenti-digitali-metodo-bando.md", "topics/sostenibilita-preparazione-concorsi.md"]
 ---
 
@@ -28,7 +29,7 @@ Un libro di metodo fallisce quando viene letto e poi lasciato chiuso.
 
 Funziona quando diventa un sistema.
 
-Il Metodo BANDO non è una sequenza di capitoli da ricordare. È un modo di lavorare: leggere il bando, ordinare le aree, scegliere i nuclei, registrare errori, produrre output, aggiornare il piano, riusare capitale.
+Il Metodo BANDO è un modo di lavorare: leggere il bando, ordinare le aree, scegliere i nuclei, registrare errori, produrre output, aggiornare il piano e riusare capitale.
 
 Se dopo aver chiuso questo libro riparti da zero al prossimo concorso, il libro non ha fatto il suo lavoro.
 
@@ -36,9 +37,7 @@ Se invece apri un nuovo bando e sai subito dove guardare, che cosa copiare, che 
 
 Questo capitolo serve a costruire il tuo sistema BANDO personale: poche pagine vive, poche revisioni ricorrenti, poche regole per non disperdere ciò che hai costruito.
 
-Non è una conclusione motivazionale.
-
-È una procedura di manutenzione.
+È una procedura di manutenzione del sistema personale.
 
 ## Obiettivo del capitolo
 
@@ -55,7 +54,7 @@ Alla fine del capitolo saprai:
 
 La regola è questa:
 
-> il metodo non è ciò che hai letto. È ciò che sai ripetere quando arriva un nuovo bando.
+> il metodo vive nelle azioni che sai ripetere quando arriva un nuovo bando.
 
 ## Mappa BANDO del sistema personale
 

@@ -9,14 +9,14 @@ entities: ["Metodo BANDO"]
 source_refs: ["sources/struttura-madre-il-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md", "sources/legge-7-agosto-1990-n-241-procedimento-amministrativo-e-accesso-ai-documenti-amministrativi-testo-vigente-normattiva.md", "sources/d-p-r-28-dicembre-2000-n-445-documentazione-amministrativa.md", "sources/apprendimento-efficace-active-recall-ripasso-distribuito.md", "sources/metodo-bando-capitolo-13-bozza-sito-2026-05-30.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.89
-updated_at: "2026-07-14T00:00:00+02:00"
+updated_at: "2026-07-24T00:00:00+02:00"
 created_at: "2026-05-10T11:45:00+02:00"
 review_required: true
 canonical: true
 tags: ["book-chapter", "part-3"]
 book_id: il-metodo-bando
 outline_section: 15
-draft_stage: revised-editorial-draft
+draft_stage: editorial-review
 last_compiled_from: ["sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md", "sources/legge-7-agosto-1990-n-241-procedimento-amministrativo-e-accesso-ai-documenti-amministrativi-testo-vigente-normattiva.md", "sources/d-p-r-28-dicembre-2000-n-445-documentazione-amministrativa.md", "sources/apprendimento-efficace-active-recall-ripasso-distribuito.md", "topics/prova-scritta-teorico-pratica.md", "topics/risposta-concorsuale.md", "topics/casi-pratici.md", "topics/metodo-di-studio.md"]
 ---
 
@@ -24,7 +24,7 @@ last_compiled_from: ["sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.
 
 ## Perché lo scritto non è un tema libero
 
-La prova scritta e teorico-pratica è il punto in cui lo studio deve diventare risposta. Non basta conoscere un istituto. Devi usarlo in una forma precisa: poche righe, quesito aperto, elaborato breve, caso amministrativo, risposta sintetica, soluzione motivata.
+Nella prova scritta e teorico-pratica lo studio diventa risposta. Usa l'istituto nella forma richiesta: poche righe, quesito aperto, elaborato breve, caso amministrativo, risposta sintetica o soluzione motivata.
 
 Molti candidati preparano lo scritto come se fosse un'estensione della lettura: studiano capitoli, memorizzano definizioni e sperano di ricordare abbastanza. Ma lo scritto non chiede solo memoria. Chiede selezione. Devi capire la traccia, delimitare il tema, scegliere le informazioni pertinenti, ordinarle e concludere.
 
@@ -247,7 +247,7 @@ La regola più utile è questa: non completare con la fantasia ciò che la tracc
 >
 > Per informazioni è possibile rivolgersi all'ufficio competente. Il responsabile del procedimento cura la prosecuzione dell'istruttoria e la tracciabilità della comunicazione.
 
-Questo non è un modello da copiare in ogni situazione. È una griglia: pratica, carenza, richiesta, termine, canale, responsabilità e tracciabilità.
+È una griglia, non un modello da copiare in ogni situazione: pratica, carenza, richiesta, termine, canale, responsabilità e tracciabilità.
 
 ### Checklist di consegna dell'atto
 
@@ -293,7 +293,7 @@ Ogni prova scritta deve essere simulata con tempi reali. Una distribuzione possi
 | Scrittura | 70-75% |
 | Revisione | 10% |
 
-La revisione non è un lusso. Serve a correggere errori di pertinenza, frasi incomplete, ripetizioni, termini impropri, salti logici.
+La revisione corregge errori di pertinenza, frasi incomplete, ripetizioni, termini impropri e salti logici.
 
 Se la prova contiene più quesiti, non sacrificare tutto per il primo. Meglio risposte complete e proporzionate che un capolavoro iniziale e due risposte deboli.
 

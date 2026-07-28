@@ -10,6 +10,7 @@
     "screenshot": "node scripts/capture-screenshot.mjs",
     "hermes:install-skill": "node scripts/install-hermes-concorsobook-skill.mjs",
     "audit:coverage": "node scripts/audit-didactic-coverage.mjs",
+    "pipeline": "tsx scripts/pipeline/cli.ts",
     "typecheck": "tsc --noEmit",
     "test": "vitest run",
     "test:watch": "vitest"
@@ -21,11 +22,15 @@
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
+  "engines": {
+    "node": ">=20.11.0"
+  },
   "devDependencies": {
     "@playwright/test": "^1.49.0",
     "@types/node": "^22.10.0",
     "@types/react": "^19.0.0",
     "@types/react-dom": "^19.0.0",
+    "tsx": "^4.19.0",
     "typescript": "^5.7.0",
     "vitest": "^2.1.0"
   }

@@ -1,0 +1,1767 @@
+{
+  "volumeCode": "VOL-03",
+  "specPath": "books/volumi/vol-03-fisco-dogane-previdenza-ispettivo/planning/00-scheda-pipeline.md",
+  "specHash": "sha256:7a5be32028a6026f42eac9b7a221a5879330c694249c48b679a9f6ab5999df16",
+  "createdAt": "2026-07-27T20:05:30.039Z",
+  "updatedAt": "2026-07-27T20:31:07.209Z",
+  "steps": [
+    {
+      "key": "08:moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md",
+      "status": "in-progress",
+      "attempts": 2,
+      "evidence": [],
+      "owner": "alber",
+      "agent": "claude-code",
+      "provider": "codex",
+      "startedAt": "2026-07-27T20:25:14.209Z"
+    },
+    {
+      "key": "09:moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md",
+      "status": "in-progress",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "alber",
+      "agent": "claude-code",
+      "provider": "codex",
+      "startedAt": "2026-07-27T20:31:07.209Z"
+    },
+    {
+      "key": "12:moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fc02-agenzie-fiscali/chapters/02-bando-decoder-fiscale.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/02-bando-decoder-fiscale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fc02-agenzie-fiscali/chapters/02-bando-decoder-fiscale.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/02-bando-decoder-fiscale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fc02-agenzie-fiscali/chapters/02-bando-decoder-fiscale.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/02-bando-decoder-fiscale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fc02-agenzie-fiscali/chapters/02-bando-decoder-fiscale.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/02-bando-decoder-fiscale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fc02-agenzie-fiscali/chapters/02-bando-decoder-fiscale.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/02-bando-decoder-fiscale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fc02-agenzie-fiscali/chapters/03-ordinamento-organizzazione-ae-adm-ader.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/03-ordinamento-organizzazione-ae-adm-ader.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fc02-agenzie-fiscali/chapters/03-ordinamento-organizzazione-ae-adm-ader.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/03-ordinamento-organizzazione-ae-adm-ader.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fc02-agenzie-fiscali/chapters/03-ordinamento-organizzazione-ae-adm-ader.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/03-ordinamento-organizzazione-ae-adm-ader.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fc02-agenzie-fiscali/chapters/03-ordinamento-organizzazione-ae-adm-ader.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/03-ordinamento-organizzazione-ae-adm-ader.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fc02-agenzie-fiscali/chapters/03-ordinamento-organizzazione-ae-adm-ader.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/03-ordinamento-organizzazione-ae-adm-ader.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fc02-agenzie-fiscali/chapters/05a-sanzioni-amministrative-reati-tributari.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/05a-sanzioni-amministrative-reati-tributari.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fc02-agenzie-fiscali/chapters/05a-sanzioni-amministrative-reati-tributari.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/05a-sanzioni-amministrative-reati-tributari.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fc02-agenzie-fiscali/chapters/05a-sanzioni-amministrative-reati-tributari.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/05a-sanzioni-amministrative-reati-tributari.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fc02-agenzie-fiscali/chapters/05a-sanzioni-amministrative-reati-tributari.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/05a-sanzioni-amministrative-reati-tributari.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fc02-agenzie-fiscali/chapters/05a-sanzioni-amministrative-reati-tributari.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/05a-sanzioni-amministrative-reati-tributari.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fc02-agenzie-fiscali/chapters/09-accise-giochi-monopoli.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/09-accise-giochi-monopoli.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fc02-agenzie-fiscali/chapters/09-accise-giochi-monopoli.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/09-accise-giochi-monopoli.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fc02-agenzie-fiscali/chapters/09-accise-giochi-monopoli.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/09-accise-giochi-monopoli.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fc02-agenzie-fiscali/chapters/09-accise-giochi-monopoli.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/09-accise-giochi-monopoli.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fc02-agenzie-fiscali/chapters/09-accise-giochi-monopoli.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/09-accise-giochi-monopoli.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fc02-agenzie-fiscali/chapters/13-casi-pratici-quiz-orale-agenzie-fiscali.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/13-casi-pratici-quiz-orale-agenzie-fiscali.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fc02-agenzie-fiscali/chapters/13-casi-pratici-quiz-orale-agenzie-fiscali.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/13-casi-pratici-quiz-orale-agenzie-fiscali.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fc02-agenzie-fiscali/chapters/13-casi-pratici-quiz-orale-agenzie-fiscali.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/13-casi-pratici-quiz-orale-agenzie-fiscali.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fc02-agenzie-fiscali/chapters/13-casi-pratici-quiz-orale-agenzie-fiscali.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/13-casi-pratici-quiz-orale-agenzie-fiscali.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fc02-agenzie-fiscali/chapters/13-casi-pratici-quiz-orale-agenzie-fiscali.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/13-casi-pratici-quiz-orale-agenzie-fiscali.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "13:moduli/m-fc02-agenzie-fiscali",
+      "id": "13",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-fc02-agenzie-fiscali",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "14:moduli/m-fc02-agenzie-fiscali",
+      "id": "14",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-fc02-agenzie-fiscali",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "15:moduli/m-fc02-agenzie-fiscali",
+      "id": "15",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-fc02-agenzie-fiscali",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "16:moduli/m-fc02-agenzie-fiscali",
+      "id": "16",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-fc02-agenzie-fiscali",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fc01-ministeri/chapters/01-lavorare-ministeri-funzioni-centrali.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/01-lavorare-ministeri-funzioni-centrali.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fc01-ministeri/chapters/01-lavorare-ministeri-funzioni-centrali.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/01-lavorare-ministeri-funzioni-centrali.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fc01-ministeri/chapters/01-lavorare-ministeri-funzioni-centrali.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/01-lavorare-ministeri-funzioni-centrali.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fc01-ministeri/chapters/01-lavorare-ministeri-funzioni-centrali.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/01-lavorare-ministeri-funzioni-centrali.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fc01-ministeri/chapters/01-lavorare-ministeri-funzioni-centrali.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/01-lavorare-ministeri-funzioni-centrali.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fc01-ministeri/chapters/02-anatomia-bando-ministeriale-ripam.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/02-anatomia-bando-ministeriale-ripam.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fc01-ministeri/chapters/02-anatomia-bando-ministeriale-ripam.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/02-anatomia-bando-ministeriale-ripam.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fc01-ministeri/chapters/02-anatomia-bando-ministeriale-ripam.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/02-anatomia-bando-ministeriale-ripam.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fc01-ministeri/chapters/02-anatomia-bando-ministeriale-ripam.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/02-anatomia-bando-ministeriale-ripam.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fc01-ministeri/chapters/02-anatomia-bando-ministeriale-ripam.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/02-anatomia-bando-ministeriale-ripam.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fc01-ministeri/chapters/03-profili-professionali-ccnl-mansioni.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/03-profili-professionali-ccnl-mansioni.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fc01-ministeri/chapters/03-profili-professionali-ccnl-mansioni.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/03-profili-professionali-ccnl-mansioni.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fc01-ministeri/chapters/03-profili-professionali-ccnl-mansioni.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/03-profili-professionali-ccnl-mansioni.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fc01-ministeri/chapters/03-profili-professionali-ccnl-mansioni.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/03-profili-professionali-ccnl-mansioni.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fc01-ministeri/chapters/03-profili-professionali-ccnl-mansioni.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/03-profili-professionali-ccnl-mansioni.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fc01-ministeri/chapters/04-governo-ministeri-amministrazione-centrale.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/04-governo-ministeri-amministrazione-centrale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fc01-ministeri/chapters/04-governo-ministeri-amministrazione-centrale.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/04-governo-ministeri-amministrazione-centrale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fc01-ministeri/chapters/04-governo-ministeri-amministrazione-centrale.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/04-governo-ministeri-amministrazione-centrale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fc01-ministeri/chapters/04-governo-ministeri-amministrazione-centrale.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/04-governo-ministeri-amministrazione-centrale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fc01-ministeri/chapters/04-governo-ministeri-amministrazione-centrale.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/04-governo-ministeri-amministrazione-centrale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fc01-ministeri/chapters/05-presidenza-consiglio-ministri.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/05-presidenza-consiglio-ministri.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fc01-ministeri/chapters/05-presidenza-consiglio-ministri.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/05-presidenza-consiglio-ministri.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fc01-ministeri/chapters/05-presidenza-consiglio-ministri.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/05-presidenza-consiglio-ministri.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fc01-ministeri/chapters/05-presidenza-consiglio-ministri.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/05-presidenza-consiglio-ministri.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fc01-ministeri/chapters/05-presidenza-consiglio-ministri.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/05-presidenza-consiglio-ministri.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fc01-ministeri/chapters/06-organizzazione-interna-ministeri.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/06-organizzazione-interna-ministeri.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fc01-ministeri/chapters/06-organizzazione-interna-ministeri.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/06-organizzazione-interna-ministeri.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fc01-ministeri/chapters/06-organizzazione-interna-ministeri.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/06-organizzazione-interna-ministeri.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fc01-ministeri/chapters/06-organizzazione-interna-ministeri.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/06-organizzazione-interna-ministeri.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fc01-ministeri/chapters/06-organizzazione-interna-ministeri.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/06-organizzazione-interna-ministeri.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fc01-ministeri/chapters/07-avvocatura-stato.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/07-avvocatura-stato.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fc01-ministeri/chapters/07-avvocatura-stato.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/07-avvocatura-stato.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fc01-ministeri/chapters/07-avvocatura-stato.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/07-avvocatura-stato.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fc01-ministeri/chapters/07-avvocatura-stato.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/07-avvocatura-stato.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fc01-ministeri/chapters/07-avvocatura-stato.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/07-avvocatura-stato.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fc01-ministeri/chapters/08-piao-performance-anticorruzione-valore-pubblico.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/08-piao-performance-anticorruzione-valore-pubblico.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fc01-ministeri/chapters/08-piao-performance-anticorruzione-valore-pubblico.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/08-piao-performance-anticorruzione-valore-pubblico.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fc01-ministeri/chapters/08-piao-performance-anticorruzione-valore-pubblico.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/08-piao-performance-anticorruzione-valore-pubblico.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fc01-ministeri/chapters/08-piao-performance-anticorruzione-valore-pubblico.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/08-piao-performance-anticorruzione-valore-pubblico.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fc01-ministeri/chapters/08-piao-performance-anticorruzione-valore-pubblico.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/08-piao-performance-anticorruzione-valore-pubblico.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fc01-ministeri/chapters/09-contabilita-stato-bilancio-ministeriale.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/09-contabilita-stato-bilancio-ministeriale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fc01-ministeri/chapters/09-contabilita-stato-bilancio-ministeriale.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/09-contabilita-stato-bilancio-ministeriale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fc01-ministeri/chapters/09-contabilita-stato-bilancio-ministeriale.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/09-contabilita-stato-bilancio-ministeriale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fc01-ministeri/chapters/09-contabilita-stato-bilancio-ministeriale.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/09-contabilita-stato-bilancio-ministeriale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fc01-ministeri/chapters/09-contabilita-stato-bilancio-ministeriale.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/09-contabilita-stato-bilancio-ministeriale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fc01-ministeri/chapters/10-contratti-pubblici-pnrr-amministrazione-digitale.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/10-contratti-pubblici-pnrr-amministrazione-digitale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fc01-ministeri/chapters/10-contratti-pubblici-pnrr-amministrazione-digitale.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/10-contratti-pubblici-pnrr-amministrazione-digitale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fc01-ministeri/chapters/10-contratti-pubblici-pnrr-amministrazione-digitale.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/10-contratti-pubblici-pnrr-amministrazione-digitale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fc01-ministeri/chapters/10-contratti-pubblici-pnrr-amministrazione-digitale.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/10-contratti-pubblici-pnrr-amministrazione-digitale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fc01-ministeri/chapters/10-contratti-pubblici-pnrr-amministrazione-digitale.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/10-contratti-pubblici-pnrr-amministrazione-digitale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fc01-ministeri/chapters/11-casi-pratici-ministeriali.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/11-casi-pratici-ministeriali.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fc01-ministeri/chapters/11-casi-pratici-ministeriali.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/11-casi-pratici-ministeriali.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fc01-ministeri/chapters/11-casi-pratici-ministeriali.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/11-casi-pratici-ministeriali.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fc01-ministeri/chapters/11-casi-pratici-ministeriali.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/11-casi-pratici-ministeriali.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fc01-ministeri/chapters/11-casi-pratici-ministeriali.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/11-casi-pratici-ministeriali.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fc01-ministeri/chapters/12-quesiti-situazionali-codice-comportamento.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/12-quesiti-situazionali-codice-comportamento.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fc01-ministeri/chapters/12-quesiti-situazionali-codice-comportamento.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/12-quesiti-situazionali-codice-comportamento.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fc01-ministeri/chapters/12-quesiti-situazionali-codice-comportamento.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/12-quesiti-situazionali-codice-comportamento.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fc01-ministeri/chapters/12-quesiti-situazionali-codice-comportamento.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/12-quesiti-situazionali-codice-comportamento.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fc01-ministeri/chapters/12-quesiti-situazionali-codice-comportamento.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/12-quesiti-situazionali-codice-comportamento.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fc01-ministeri/chapters/13-matrice-materie-piano-30-60-90.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/13-matrice-materie-piano-30-60-90.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fc01-ministeri/chapters/13-matrice-materie-piano-30-60-90.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/13-matrice-materie-piano-30-60-90.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fc01-ministeri/chapters/13-matrice-materie-piano-30-60-90.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/13-matrice-materie-piano-30-60-90.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fc01-ministeri/chapters/13-matrice-materie-piano-30-60-90.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/13-matrice-materie-piano-30-60-90.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fc01-ministeri/chapters/13-matrice-materie-piano-30-60-90.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/13-matrice-materie-piano-30-60-90.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fc01-ministeri/chapters/14-simulazione-finale-diario-errori.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/14-simulazione-finale-diario-errori.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fc01-ministeri/chapters/14-simulazione-finale-diario-errori.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/14-simulazione-finale-diario-errori.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fc01-ministeri/chapters/14-simulazione-finale-diario-errori.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/14-simulazione-finale-diario-errori.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fc01-ministeri/chapters/14-simulazione-finale-diario-errori.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/14-simulazione-finale-diario-errori.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fc01-ministeri/chapters/14-simulazione-finale-diario-errori.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/14-simulazione-finale-diario-errori.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fc01-ministeri/chapters/15-appendici-operative.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/15-appendici-operative.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fc01-ministeri/chapters/15-appendici-operative.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/15-appendici-operative.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fc01-ministeri/chapters/15-appendici-operative.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/15-appendici-operative.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fc01-ministeri/chapters/15-appendici-operative.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/15-appendici-operative.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fc01-ministeri/chapters/15-appendici-operative.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc01-ministeri/chapters/15-appendici-operative.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "13:moduli/m-fc01-ministeri",
+      "id": "13",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-fc01-ministeri",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "14:moduli/m-fc01-ministeri",
+      "id": "14",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-fc01-ministeri",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "15:moduli/m-fc01-ministeri",
+      "id": "15",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-fc01-ministeri",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "16:moduli/m-fc01-ministeri",
+      "id": "16",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-fc01-ministeri",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fc03-enti-non-economici/chapters/00-piano-editoriale.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc03-enti-non-economici/chapters/00-piano-editoriale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fc03-enti-non-economici/chapters/00-piano-editoriale.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc03-enti-non-economici/chapters/00-piano-editoriale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fc03-enti-non-economici/chapters/00-piano-editoriale.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc03-enti-non-economici/chapters/00-piano-editoriale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fc03-enti-non-economici/chapters/00-piano-editoriale.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc03-enti-non-economici/chapters/00-piano-editoriale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fc03-enti-non-economici/chapters/00-piano-editoriale.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fc03-enti-non-economici/chapters/00-piano-editoriale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "13:moduli/m-fc03-enti-non-economici",
+      "id": "13",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-fc03-enti-non-economici",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "14:moduli/m-fc03-enti-non-economici",
+      "id": "14",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-fc03-enti-non-economici",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "15:moduli/m-fc03-enti-non-economici",
+      "id": "15",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-fc03-enti-non-economici",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "16:moduli/m-fc03-enti-non-economici",
+      "id": "16",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-fc03-enti-non-economici",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "21:VOL-03",
+      "id": "21",
+      "phase": "F",
+      "scope": "volume",
+      "target": "VOL-03",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "22:VOL-03",
+      "id": "22",
+      "phase": "F",
+      "scope": "volume",
+      "target": "VOL-03",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "23:VOL-03",
+      "id": "23",
+      "phase": "F",
+      "scope": "volume",
+      "target": "VOL-03",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    }
+  ]
+}

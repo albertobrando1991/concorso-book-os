@@ -9,7 +9,7 @@ entities: ["Metodo BANDO", "Bando Decoder", "Diario degli errori", "Piano 30/60/
 source_refs: ["sources/strumenti-digitali-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/struttura-madre-il-metodo-bando.md", "sources/template-bando-decoder-metodo-bando.md", "sources/piano-studio-personale-metodo-bando.md", "sources/checklist-operative-concorsi-metodo-bando.md", "sources/capitale-studio-riutilizzabile-metodo-bando.md", "sources/fonti-ufficiali-aggiornamento-metodo-bando-2026-06-03.md", "sources/pa-digitale-cad-identita-documenti-servizi-dati.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.91
-updated_at: 2026-07-01T12:00:00+02:00
+updated_at: 2026-07-24T00:00:00+02:00
 created_at: 2026-06-07T18:27:10+02:00
 review_required: true
 canonical: true
@@ -18,19 +18,20 @@ book_id: il-metodo-bando
 outline_section: 28
 draft_stage: professional-complete-draft
 last_compiled_from: ["sources/strumenti-digitali-metodo-bando.md", "topics/strumenti-digitali-metodo-bando.md", "topics/bando-decoder.md", "topics/piano-30-60-90-giorni.md", "topics/diario-errori.md", "topics/capitale-studio-riutilizzabile.md"]
+last_humanizer_revision: 2026-07-24
 ---
 
 # Capitolo 28 - Usare il digitale senza perdere il metodo
 
 > Modulo ricettario **R4** — Protocollo digitale e AI sicura. Collega FM1, Cap. 3 e Cap. 13.
 
-Il digitale può farti risparmiare settimane. può anche farti perdere il controllo in tre giorni. Dipende da come lo usi.
+Il digitale può farti risparmiare settimane. Può anche farti perdere il controllo in tre giorni: dipende da come lo usi.
 
 Un candidato apre il bando, salva il PDF, copia il programma in una nota, chiede a un assistente AI di fare un piano, scarica un'app per flashcard, apre un calendario, entra in un gruppo, salva dieci messaggi, crea una cartella cloud e poi dimentica dove ha messo la versione corretta. Dopo una settimana ha più strumenti che decisioni.
 
 Questo capitolo serve a evitare proprio questo errore.
 
-Il Metodo BANDO non è contro il digitale. Il digitale può accelerare il Bando Decoder, i promemoria, il confronto tra bandi, il Diario degli errori, le simulazioni e la costruzione del capitale di studio. Ma deve restare al servizio del metodo, non sostituirlo.
+Il Metodo BANDO usa il digitale per accelerare Bando Decoder, promemoria, confronto tra bandi, Diario degli errori, simulazioni e costruzione del capitale di studio. Ogni strumento resta al servizio del metodo.
 
 La regola è questa:
 
@@ -52,7 +53,7 @@ Alla fine del capitolo saprai:
 - non perdere bando, scadenze, prove e diario dentro strumenti diversi;
 - applicare la routine settimanale di backup, esportazione e verifica fonti.
 
-Questo capitolo non ti dice quale app usare. Ti dice che funzione deve avere ogni strumento e come mantenerlo vivo nel tempo.
+Il capitolo definisce la funzione di ogni strumento e come mantenerlo utile nel tempo, senza indicare un'app specifica.
 
 ## Mappa BANDO del digitale
 

@@ -1,5 +1,7 @@
 "use client"
 
+import { useRouter } from "next/navigation"
+
 import {
   TEXT_VOLUME_CATALOG,
   findTextVolumeForBookId,
@@ -19,6 +21,7 @@ interface BookSelectorProps {
 }
 
 export function BookSelector({ books, currentBookId }: BookSelectorProps) {
+  const router = useRouter()
   const currentVolume = findTextVolumeForBookId(currentBookId)
   const currentValue = isTextVolumeBookId(currentBookId)
     ? normalizeTextBookId(currentBookId)
@@ -30,7 +33,7 @@ export function BookSelector({ books, currentBookId }: BookSelectorProps) {
     const bookId = e.target.value
     if (bookId === currentValue) return
 
-    window.location.assign(`/?bookId=${encodeURIComponent(bookId)}`)
+    router.push(`/?bookId=${encodeURIComponent(bookId)}`)
   }
 
   return (

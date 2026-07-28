@@ -140,7 +140,7 @@ Regole:
 - In modalita `integrate`, `format`, `improve`, `expand` aggiorna la sezione `Testo editoriale`.
 - Deve preservare tracciabilita: ogni blocco deve indicare riferimenti consolidati usati.
 - Deve mantenere stile workbook Metodo BANDO: apertura editoriale, obiettivo, mappa BANDO, spiegazione, box "da sapere in 5 righe", caso guidato, domanda da commissario, domanda-trappola, mini-esercizio, errore tipico, riferimenti, note di review.
-- Deve scrivere in modo impaginabile: paragrafi brevi, titoli non orfani, tabelle leggibili in pagina A4, box autonomi e note layout solo quando servono alla revisione visiva.
+- Deve scrivere in modo impaginabile: paragrafi brevi, titoli non orfani, tabelle leggibili nella pagina paperback KDP 6,69 x 9,61 in, box autonomi e note layout solo quando servono alla revisione visiva.
 - Deve rispettare la gerarchia tipografica canonica di collana: H1 Arial Bold 18-20 pt, H2 Arial Bold 14 pt, H3 Arial Bold 12 pt, corpo Garamond Regular 11 pt con interlinea 1,15-1,20, tabelle/quiz/schemi/box Arial 9,5-10 pt. La regola vale per tutti i volumi, moduli, integrazioni e revisioni.
 - Non deve mai produrre formule come "Aggiornamento generato", "Istruzione ricevuta" o riepiloghi delle fonti al posto del capitolo.
 - Deve integrare nuova conoscenza senza cancellare il lavoro umano preesistente fuori dalle sezioni gestite.
@@ -160,7 +160,7 @@ Regole:
 - Un capitolo finale non deve mai derivare solo da una raw source.
 - Ogni capitolo deve includere obiettivo didattico, spiegazione, punti chiave, riferimenti, esempi, errori frequenti e quiz collegati.
 - La scrittura e' incrementale: integrare, chiarire e migliorare senza distruggere lavoro precedente.
-- Il formato operativo canonico per dashboard, revisione ed export di lavoro di `Il Metodo BANDO` e' A4 verticale, testo giustificato, pagine singole numerate, corpo Garamond 11 pt, titoli Arial Bold 20/14/12 pt, tabelle/quiz/schemi/box Arial 9,5-10 pt, colonna singola, box operativi ricorrenti e strumenti compilabili. Il 17 x 24 cm resta solo eventuale formato commerciale compatto finale.
+- Il formato operativo canonico per dashboard, revisione ed export di lavoro di `Il Metodo BANDO` e' il paperback KDP 6,69 x 9,61 in (16,99 x 24,41 cm), testo giustificato, pagine singole numerate, corpo Garamond 11 pt, titoli Arial Bold 20/14/12 pt, tabelle/quiz/schemi/box Arial 9,5-10 pt, colonna singola, box operativi ricorrenti e strumenti compilabili. L'edizione standard usa bianco e nero su carta bianca, senza bleed, con margini speculari compatibili KDP.
 - Separare note canoniche da note di lavoro.
 - Richiedere review umana per interpretazioni normative puntuali.
 - Per il libro `Il Metodo BANDO`, l'outline base e' Parte I Orientarsi, Parte II Materie comuni, Parte III Allenamento, Parte IV Sistema adattabile, Appendici/tool.
@@ -183,6 +183,15 @@ Regole:
 - Il revisore non riscrive il testo: segnala, spiega il motivo, propone una correzione concreta. L'autore decide.
 - Per ogni volume o modulo il revisore applica anche [[sources/logica-volumi-copertura-concorsobook-v4]] prima della checklist a 30 punti: segnala come errore grave duplicazioni B-PA, materia nella famiglia errata o lacune su materie ricorrenti/pesate; verifica rinvii cross-family, necessita' di verticali e congruenza del pacchetto minimo.
 - I report di revisione sono salvati in `wiki/reviews/` e loggati in `log.md`.
+
+## Canvas Design per immagini editoriali
+
+- La skill condivisa e' `.agents/skills/canvas-design/SKILL.md`.
+- Si applica a copertine, mappe, diagrammi, immagini di capitolo e audit visivi di `Il Metodo BANDO`, Ricettario e moduli specialistici.
+- Prima di creare o ottimizzare un'immagine, definire una filosofia visiva in `.md`; gli output grafici finali sono solo `.png` o `.pdf`.
+- Nella revisione, verificare resa nel Book Studio, margini, contrasto, leggibilita' a formato paperback KDP, rapporto tra immagine e didascalia, asset path e assenza di overflow o sovrapposizioni.
+- Le immagini devono essere distribuite accanto alla sezione didattica che spiegano; non creare sequenze decorative di figure senza testo o struttura intermedia.
+- Gli esercizi stampabili privilegiano campi leggibili: dividere tabelle dense anziche' comprimere testo, tipografia o spaziatura.
 
 ## Gate globale di copertura didattica integrale
 

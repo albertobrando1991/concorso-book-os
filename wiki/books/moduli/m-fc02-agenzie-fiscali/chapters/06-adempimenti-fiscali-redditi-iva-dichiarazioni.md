@@ -7,6 +7,12 @@ domain: "concorsi pubblici italiani"
 topics: ["adempimenti fiscali","IRPEF","IRES","categorie reddituali","reddito d'impresa","iva","dichiarazioni fiscali","versamenti"]
 entities: ["Agenzia delle Entrate"]
 source_refs: ["sources/normativa-tributaria-tuir-iva-accertamento-m-fc02.md","sources/irpef-ires-categorie-reddito-impresa-aggiornamento-2026-07-18.md","sources/adempimenti-contabilita-civile-commerciale-m-fc02.md","sources/iva-dpr-633-1972-aggiornamento-2026-07-20.md","sources/dichiarazioni-versamenti-compensazioni-aggiornamento-2026-07-20.md"]
+asset_refs:
+  - "books/moduli/m-fc02-agenzie-fiscali/assets/chapter-06/01-mappa-bando-adempimenti-fiscali.png"
+  - "books/moduli/m-fc02-agenzie-fiscali/assets/chapter-06/02-redditi-iva-due-logiche.png"
+  - "books/moduli/m-fc02-agenzie-fiscali/assets/chapter-06/03-flusso-dichiarazione-versamento-controllo.png"
+  - "books/moduli/m-fc02-agenzie-fiscali/assets/chapter-06/04-credito-rimborso-compensazione.png"
+  - "books/moduli/m-fc02-agenzie-fiscali/assets/chapter-06/05-servizi-compliance-controllo.png"
 book_refs: ["m-fc02-agenzie-fiscali"]
 confidence: 0.84
 updated_at: 2026-07-20T00:00:00+02:00

@@ -32,7 +32,10 @@ describe("book preview assets", () => {
           "> **Errore tipico**",
           "> Studiare in ordine di pagina senza trasformare il bando in priorita operative.",
           "",
-          "![Scala profilo](../assets/chapter-01/04-scala-profondita-profilo.png)"
+          "![Scala profilo](../assets/chapter-01/04-scala-profondita-profilo.png)",
+          "",
+          "## Note di review",
+          "Questa nota è riservata allo staff editoriale e non deve comparire nella preview pubblica."
         ].join("\n"),
         "utf8"
       )
@@ -50,6 +53,7 @@ describe("book preview assets", () => {
       expect(calloutBlock?.calloutType).toBe("warning")
       expect(calloutBlock?.title).toBe("Errore tipico")
       expect(calloutBlock?.text).toContain("priorita operative")
+      expect(JSON.stringify(data.chapters[0].blocks)).not.toContain("riservata allo staff editoriale")
       expect(data.assets.map((asset) => asset.path)).toContain(
         "books/il-metodo-bando/assets/chapter-01/04-scala-profondita-profilo.png"
       )
@@ -115,6 +119,57 @@ describe("book preview assets", () => {
     }
   })
 
+  it("preserves blank workbook rows as real table fields", async () => {
+    const root = await mkdtemp(path.join(os.tmpdir(), "book-preview-workbook-table-"))
+
+    try {
+      await mkdir(path.join(root, "books/il-metodo-bando/chapters"), { recursive: true })
+      await writeFile(
+        path.join(root, "books/il-metodo-bando/index.md"),
+        "---\ntitle: Il Metodo BANDO\n---\n# Il Metodo BANDO",
+        "utf8"
+      )
+      await writeFile(
+        path.join(root, "books/il-metodo-bando/chapters/registro-fonti.md"),
+        [
+          "---",
+          "title: Registro fonti",
+          "outline_section: 25",
+          "---",
+          "# Registro fonti",
+          "",
+          "| Fonte controllata | Ultimo controllo | Azione se cambia |",
+          "|---|---|---|",
+          "| | | |",
+          "| | | |",
+          "| | | |"
+        ].join("\n"),
+        "utf8"
+      )
+
+      const data = await buildBookStudioData(new FileWikiStore(root), "il-metodo-bando")
+      const tableBlocks = data.chapters[0].blocks.filter((block) => block.type === "table")
+      const rawParagraphs = data.chapters[0].blocks.filter(
+        (block) => block.type === "paragraph" && block.text?.includes("|---|")
+      )
+
+      expect(tableBlocks).toHaveLength(1)
+      expect(tableBlocks[0].headers).toEqual([
+        "Fonte controllata",
+        "Ultimo controllo",
+        "Azione se cambia"
+      ])
+      expect(tableBlocks[0].rows).toEqual([
+        ["", "", ""],
+        ["", "", ""],
+        ["", "", ""]
+      ])
+      expect(rawParagraphs).toHaveLength(0)
+    } finally {
+      await rm(root, { recursive: true, force: true })
+    }
+  })
+
   it("groups verbose table rows instead of creating sparse one-row pages", async () => {
     const root = await mkdtemp(path.join(os.tmpdir(), "book-preview-verbose-table-"))
     const verboseRows = Array.from(
@@ -152,6 +207,48 @@ describe("book preview assets", () => {
       expect(tableBlocks).toHaveLength(4)
       expect(tableBlocks.every((block) => block.rows?.length === 2)).toBe(true)
       expect(tableBlocks.flatMap((block) => block.rows || [])).toHaveLength(8)
+    } finally {
+      await rm(root, { recursive: true, force: true })
+    }
+  })
+
+  it("splits exceptionally tall table rows to avoid moving an oversized fragment to the next page", async () => {
+    const root = await mkdtemp(path.join(os.tmpdir(), "book-preview-very-verbose-table-"))
+    const veryVerboseRows = Array.from(
+      { length: 4 },
+      (_, index) =>
+        `| Passaggio ${index + 1} | ${"Descrizione operativa molto estesa ".repeat(7)}| Esito verificabile ${index + 1} |`
+    )
+
+    try {
+      await mkdir(path.join(root, "books/il-metodo-bando/chapters"), { recursive: true })
+      await writeFile(
+        path.join(root, "books/il-metodo-bando/index.md"),
+        "---\ntitle: Il Metodo BANDO\n---\n# Il Metodo BANDO",
+        "utf8"
+      )
+      await writeFile(
+        path.join(root, "books/il-metodo-bando/chapters/tabella-molto-verbosa.md"),
+        [
+          "---",
+          "title: Tabella molto verbosa",
+          "outline_section: 1",
+          "---",
+          "# Tabella molto verbosa",
+          "",
+          "| Fase | Descrizione | Esito |",
+          "| --- | --- | --- |",
+          ...veryVerboseRows
+        ].join("\n"),
+        "utf8"
+      )
+
+      const data = await buildBookStudioData(new FileWikiStore(root), "il-metodo-bando")
+      const tableBlocks = data.chapters[0].blocks.filter((block) => block.type === "table")
+
+      expect(tableBlocks).toHaveLength(4)
+      expect(tableBlocks.every((block) => block.rows?.length === 1)).toBe(true)
+      expect(tableBlocks.flatMap((block) => block.rows || [])).toHaveLength(4)
     } finally {
       await rm(root, { recursive: true, force: true })
     }
@@ -376,7 +473,7 @@ describe("book preview assets", () => {
       const moduleOpening = data.chapters.find((chapter) => chapter.frontMatterLayout === "module-opening")
 
       expect(data.bookId).toBe("volumi/vol-03")
-      expect(data.title).toBe("VOL-03 - Fisco, Dogane, Previdenza e Ispettivo")
+      expect(data.title).toBe("VOL-03 - Funzioni centrali, Fisco, Previdenza e Ispettivo")
       expect(generatedTitles.slice(0, 6)).toEqual([
         "Servizi digitali inclusi",
         "Frontespizio",
@@ -387,10 +484,10 @@ describe("book preview assets", () => {
       ])
       expect(data.chapters.some((chapter) => chapter.path.includes("/front-matter/01-servizi.md"))).toBe(false)
       expect(data.chapters.some((chapter) => chapter.path.includes("/front-matter/03-copyright.md"))).toBe(false)
-      expect(index?.blocks.some((block) => block.type === "index-part" && block.number === "M-FC01")).toBe(false)
+      expect(index?.blocks.some((block) => block.type === "index-part" && block.number === "M-FC01")).toBe(true)
       expect(index?.blocks.some((block) => block.type === "index-part" && block.number === "M-FC02")).toBe(true)
-      expect(moduleOpening?.title).toContain("M-FC02")
-      expect(data.chapters.some((chapter) => chapter.title === "Lavorare nei Ministeri")).toBe(false)
+      expect(moduleOpening?.title).toContain("M-FC01")
+      expect(data.chapters.some((chapter) => chapter.title === "Lavorare nei Ministeri")).toBe(true)
       expect(data.chapters.find((chapter) => chapter.title === "Agenzie fiscali e profili")?.volumeModuleCode).toBe("M-FC02")
     } finally {
       await rm(root, { recursive: true, force: true })

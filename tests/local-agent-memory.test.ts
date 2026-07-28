@@ -61,4 +61,57 @@ describe("LocalAgentMemory", () => {
     expect(withMemory[0].role).toBe("system")
     expect(withMemory[1]).toBe(messages[0])
   })
+
+  it("recalls legacy atoms without keywords and skips records without text", async () => {
+    const root = await fs.mkdtemp(path.join(os.tmpdir(), "concorso-memory-legacy-"))
+    const memory = new LocalAgentMemory({
+      enabled: true,
+      root,
+      recallMaxResults: 3,
+      recallMaxTotalChars: 1200,
+      maxCharsPerMessage: 2000,
+      maxMessagesPerConversation: 8,
+      maxAtomsPerConversation: 5
+    })
+
+    try {
+      await fs.mkdir(path.join(root, "l1"), { recursive: true })
+      await fs.writeFile(
+        path.join(root, "l1", "atoms.jsonl"),
+        [
+          JSON.stringify({
+            id: "legacy-without-keywords",
+            createdAt: "2026-07-01T00:00:00.000Z",
+            scope: "editorial-reviewer",
+            kind: "instruction",
+            text: "Revisionare integralmente il volume uno prima della pubblicazione.",
+            sourceConversationId: "legacy-conversation",
+            sourceRef: "l0/legacy.md",
+            weight: 1
+          }),
+          JSON.stringify({
+            id: "legacy-without-text",
+            createdAt: "2026-07-01T00:00:00.000Z",
+            scope: "editorial-reviewer",
+            kind: "instruction",
+            sourceConversationId: "legacy-conversation",
+            sourceRef: "l0/legacy.md",
+            weight: 1
+          })
+        ].join("\n") + "\n",
+        "utf8"
+      )
+
+      const recall = await memory.recall({
+        scope: "editorial-reviewer",
+        query: "revisione integrale volume uno"
+      })
+
+      expect(recall.memories).toHaveLength(1)
+      expect(recall.memories[0].id).toBe("legacy-without-keywords")
+      expect(recall.context).toContain("prima della pubblicazione")
+    } finally {
+      await fs.rm(root, { recursive: true, force: true })
+    }
+  })
 })

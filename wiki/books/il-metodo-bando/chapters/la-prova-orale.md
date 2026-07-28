@@ -9,14 +9,14 @@ entities: ["Metodo BANDO"]
 source_refs: ["sources/struttura-madre-il-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md", "sources/apprendimento-efficace-active-recall-ripasso-distribuito.md", "sources/metodo-bando-capitolo-13-bozza-sito-2026-05-30.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.89
-updated_at: "2026-06-07T19:41:54+02:00"
+updated_at: "2026-07-24T00:00:00+02:00"
 created_at: "2026-05-10T11:45:00+02:00"
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "part-3"]
 book_id: il-metodo-bando
 outline_section: 16
-draft_stage: revised-editorial-draft
+draft_stage: publication-ready
 last_compiled_from: ["sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md", "sources/apprendimento-efficace-active-recall-ripasso-distribuito.md", "topics/prova-orale.md", "topics/risposta-concorsuale.md", "topics/metodo-di-studio.md"]
 ---
 
@@ -24,7 +24,7 @@ last_compiled_from: ["sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.
 
 ## Perché l'orale non è una ripetizione del manuale
 
-La prova orale mette il candidato davanti a una commissione e trasforma lo studio in parola. Non basta "sapere". Bisogna iniziare, ordinare, collegare, scegliere esempi, correggersi se sì parte male e restare lucidi quando arriva una domanda inattesa.
+La prova orale porta lo studio davanti alla commissione. Il candidato deve iniziare, ordinare, collegare, scegliere esempi, correggersi se parte male e restare lucido davanti a una domanda inattesa.
 
 Molti candidati rimandano l'orale alla fine. Pensano: prima studio, poi ripeto. È un errore. L'orale va preparato mentre studi, perché parlare rivela subito le lacune: definizioni confuse, passaggi saltati, esempi assenti, collegamenti deboli, frasi troppo lunghe.
 
@@ -150,7 +150,7 @@ Formula utile:
 
 > Questo tema si collega anche a..., perché...
 
-Una frase basta. Non devi trasformare ogni risposta in un capitolo.
+Una frase può bastare: non trasformare ogni risposta in un capitolo.
 
 ## Vuoti di memoria
 
@@ -209,7 +209,7 @@ Questa tecnica impedisce di preparare solo definizioni. L'orale reale spesso par
 
 ## Simulazioni orali
 
-La simulazione orale deve essere concreta. Non basta "ripetere mentalmente".
+La simulazione orale deve essere concreta: ripetere mentalmente non basta.
 
 Regole:
 

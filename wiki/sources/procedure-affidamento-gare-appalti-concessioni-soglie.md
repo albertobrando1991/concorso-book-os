@@ -9,14 +9,14 @@ entities: ["Stazione appaltante","Operatore economico","ANAC","Codice dei contra
 source_refs: ["sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.91
-updated_at: "2026-05-26T00:00:00+02:00"
+updated_at: "2026-07-21T15:30:00+02:00"
 created_at: "2026-05-26T00:00:00+02:00"
-review_required: false
+review_required: true
 canonical: true
 tags: ["source","procedure-affidamento","appalti","concessioni","soglie","chapter-9"]
 source_type: consolidated_official_sources
 source_url: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-03-31;36!vig=/"
-source_date: "2026-05-26"
+source_date: "2026-06-30"
 authority_level: alta
 ---
 
@@ -53,6 +53,18 @@ Questa fonte consolida la parte piu concorsuale sulle procedure. Il capitolo dev
 ## Soglie
 
 Le soglie distinguono regimi procedurali e obblighi. Nel manuale base vanno spiegate come criterio di intensita delle regole: sotto-soglia, sopra-soglia UE, affidamenti semplificati, procedure ordinarie. I valori puntuali possono cambiare e vanno verificati in sede di aggiornamento editoriale o modulo specialistico.
+
+## Riferimenti normativi verificati
+
+- affidamenti sotto soglia e rotazione: articoli 48-50;
+- procedure ordinarie: articoli 70-76;
+- documenti di gara: articolo 82;
+- cause di esclusione, verifica e requisiti: articoli 94-100;
+- soccorso istruttorio: articolo 101;
+- criteri di aggiudicazione: articolo 108;
+- aggiudicazione e stipula: articoli 17-18;
+- subappalto: articolo 119;
+- concessioni e rischio operativo: articoli 176-177 e Allegato I.1.
 
 ## Errori da evitare
 

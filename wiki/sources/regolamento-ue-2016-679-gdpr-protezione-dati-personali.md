@@ -11,7 +11,7 @@ book_refs: ["il-metodo-bando"]
 confidence: 0.95
 updated_at: "2026-05-26T00:00:00+02:00"
 created_at: "2026-05-26T00:00:00+02:00"
-review_required: false
+review_required: true
 canonical: true
 tags: ["source","gdpr","privacy","garante"]
 source_type: regulation
@@ -44,7 +44,7 @@ Il GDPR e la fonte centrale per spiegare la protezione dei dati personali nei co
 
 ## Note di consolidamento
 
-Il download diretto da EUR-Lex ha prodotto file vuoti nel corpus locale; per la scrittura del capitolo non usare quei file. Il testo del Regolamento viene assunto dal portale del Garante Privacy, che pubblica il testo aggiornato alle rettifiche della Gazzetta ufficiale dell'Unione europea.
+Il download diretto da EUR-Lex ha prodotto file vuoti nel corpus locale; per la scrittura del capitolo non usare quei file. Il testo del Regolamento viene assunto dal portale del Garante Privacy, che pubblica il testo aggiornato alle rettifiche della Gazzetta ufficiale dell'Unione europea. Fonte ricontrollata in P26 il 23 luglio 2026.
 
 ## Capitoli collegati
 

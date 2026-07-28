@@ -9,7 +9,7 @@ entities: ["Metodo BANDO", "inPA", "D.P.R. 487/1994", "D.P.R. 82/2023"]
 source_refs: ["sources/d-p-r-9-maggio-1994-n-487-accesso-agli-impieghi-pubblici-e-concorsi.md", "sources/d-p-r-16-giugno-2023-n-82-modifiche-al-d-p-r-487-1994-sui-concorsi.md", "sources/struttura-madre-il-metodo-bando.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.88
-updated_at: 2026-05-30T12:18:00+02:00
+updated_at: 2026-07-23T00:00:00+02:00
 created_at: 2026-05-30T12:18:00+02:00
 review_required: true
 canonical: true
@@ -47,4 +47,4 @@ I capitoli devono evitare affermazioni assolute su soglie, punteggi o penalita. 
 - [[books/il-metodo-bando/chapters/la-prova-orale]]
 
 ## Stato revisione
-Fonte editoriale pronta per scrittura. Prima della pubblicazione finale verificare su Normattiva il testo vigente del D.P.R. 487/1994 e integrare eventuali aggiornamenti successivi al D.P.R. 82/2023.
+Fonte editoriale ricontrollata il 23 luglio 2026: il D.P.R. 82/2023 resta il regolamento che modifica il D.P.R. 487/1994; i bandi inPA recenti confermano l'uso di quesiti aperti o sintetici, elaborati teorico-pratici, casi e schemi di atti. Prima della pubblicazione finale verificare il testo vigente e il formato del singolo bando.

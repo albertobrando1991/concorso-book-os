@@ -9,7 +9,7 @@ entities: ["Metodo BANDO", "Bando Decoder", "Diario degli errori", "Piano 30/60/
 source_refs: ["sources/taglio-priorita-studio-concorsi-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/struttura-madre-il-metodo-bando.md", "sources/capitoli-21-23-corpus-moduli-piano-diario-2026-06-01.md", "sources/apprendimento-efficace-active-recall-ripasso-distribuito.md", "sources/scienze-apprendimento-pianificazione-metacognizione-errori.md", "sources/scelta-materiali-studio-concorsi-metodo-bando.md", "sources/simulazioni-concorsuali-metodo-bando.md", "sources/schede-operative-studio-metodo-bando.md", "sources/sostenibilita-preparazione-concorsi-metodo-bando.md", "sources/capitale-studio-riutilizzabile-metodo-bando.md", "sources/checklist-operative-concorsi-metodo-bando.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.89
-updated_at: 2026-06-09T11:08:53+02:00
+updated_at: 2026-07-24T00:00:00+02:00
 created_at: 2026-06-09T11:08:53+02:00
 review_required: true
 canonical: true
@@ -71,9 +71,7 @@ La preparazione per un concorso pubblico non avviene in un laboratorio perfetto.
 
 Avviene tra lavoro, famiglia, imprevisti, scadenze, notifiche, nuovi bandi, manuali lunghi, corsi, quiz, gruppi online e aggiornamenti.
 
-Il problema non è solo studiare.
-
-Il problema è scegliere.
+La difficoltà sta nello scegliere.
 
 Scegliere cosa aprire oggi. Scegliere cosa chiudere. Scegliere quando passare dalla lettura al quiz. Scegliere quando una materia è sufficientemente coperta per il livello richiesto. Scegliere quando un errore richiede ripasso e quando invece è un caso isolato.
 
@@ -83,7 +81,7 @@ Ma spesso "poi" non arriva.
 
 Arriva la prova.
 
-Per questo il taglio non è una rinuncia al metodo. È una parte del metodo.
+Per questo il taglio fa parte del metodo.
 
 Le fonti consolidate del libro indicano già una direzione precisa: il piano deve alternare studio, richiamo attivo, output, correzione, ripasso e simulazione. Quando il tempo si contrae, non devi eliminare proprio queste azioni. Devi eliminare ciò che le impedisce.
 
@@ -92,6 +90,8 @@ La prima cosa da proteggere non è la pagina successiva del manuale.
 È la capacità di produrre una risposta.
 
 ## La mappa BANDO del taglio ragionato
+
+![Mappa delle priorità che filtra i materiali verso il nucleo ad alta resa](../assets/chapter-36/01-mappa-priorita-studio.png)
 
 Ogni decisione di taglio deve passare per la catena BANDO.
 
@@ -145,6 +145,8 @@ Se non sai scriverlo, probabilmente non stai tagliando: stai reagendo.
 
 ## Il triage in tre colonne
 
+![Triage visivo per tenere attivo, rinviare o togliere un argomento](../assets/chapter-36/02-triage-tre-colonne.png)
+
 Quando il programma è troppo largo, usa tre colonne.
 
 | Colonna | Che cosa contiene | Azione |
@@ -172,6 +174,8 @@ La risposta diventa il nucleo minimo.
 
 ## Il semaforo del programma
 
+![Semaforo operativo per attribuire priorità ai temi di studio](../assets/chapter-36/03-semaforo-programma.png)
+
 Dopo il triage, assegna un colore.
 
 | Colore | Stato | Come agire |
@@ -194,6 +198,8 @@ Molti candidati non tagliano il grigio per paura.
 Poi non hanno tempo per il rosso.
 
 ## La regola prova-materia-nucleo-output
+
+![Catena strategica dalla prova alla risposta utile](../assets/chapter-36/04-regola-prova-materia-nucleo-output.png)
 
 Prima di decidere cosa eliminare, compila questa sequenza:
 
@@ -240,6 +246,8 @@ Tutto ciò che non entra in questa catena va ridotto.
 
 ## La matrice resa, rischio, tempo e riuso
 
+![Matrice per selezionare gli argomenti con il migliore rapporto tra resa e costo](../assets/chapter-36/05-matrice-resa-rischio-tempo-riuso.png)
+
 Quando devi scegliere tra due attività, usa quattro domande.
 
 | Criterio | Domanda | Segnale operativo |
@@ -266,6 +274,8 @@ La stessa materia può essere indispensabile in un concorso e rinviabile in un a
 Per questo si parte sempre dal bando.
 
 ## Come tagliare i materiali
+
+![Filtro ragionato che riduce i materiali a un kit di studio essenziale](../assets/chapter-36/06-taglio-materiali.png)
 
 Prima di tagliare contenuti, taglia materiali.
 
@@ -390,6 +400,8 @@ Il criterio non è il comfort.
 Il criterio è la prova.
 
 ## Scheda decisione di taglio
+
+![Schema decisionale per mantenere, rinviare o interrompere un approfondimento](../assets/chapter-36/07-scheda-decisione-taglio.png)
 
 Usa questa scheda ogni volta che senti di non riuscire a fare tutto.
 

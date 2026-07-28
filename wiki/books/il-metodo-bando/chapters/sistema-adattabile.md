@@ -9,24 +9,24 @@ entities: ["Metodo BANDO", "Piano 30/60/90 giorni", "Diario degli errori", "Modu
 source_refs: ["sources/struttura-madre-il-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md", "sources/apprendimento-efficace-active-recall-ripasso-distribuito.md", "sources/scienze-apprendimento-pianificazione-metacognizione-errori.md", "sources/formazione-competenze-pa-syllabus-direttiva-2025.md", "sources/capitoli-21-23-corpus-moduli-piano-diario-2026-06-01.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.9
-updated_at: 2026-06-09T13:11:05.2041653+02:00
+updated_at: 2026-07-24T00:00:00+02:00
 created_at: "2026-05-09T01:05:00.000Z"
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "part-4", "planning"]
 book_id: il-metodo-bando
 outline_section: 22
-draft_stage: revised-editorial-draft
+draft_stage: publication-ready
 last_compiled_from: ["sources/capitoli-21-23-corpus-moduli-piano-diario-2026-06-01.md", "sources/scienze-apprendimento-pianificazione-metacognizione-errori.md", "topics/piano-30-60-90-giorni.md", "topics/moduli-integrativi.md", "topics/diario-errori.md"]
 ---
 
 # Capitolo 22 - Piano 30/60/90 giorni
 
-Un piano di studio non serve a riempire caselle. Serve a prendere decisioni quando il tempo è meno del programma.
+Un piano di studio aiuta a prendere decisioni quando il tempo è meno del programma, non a riempire caselle.
 
 Molti candidati costruiscono calendari irrealistici: dieci materie al giorno, pagine da leggere senza output, recuperi infiniti, ripassi rimandati all'ultima settimana. Il risultato è prevedibile: il piano si rompe, il candidato si sente in ritardo e prova a compensare aggiungendo ore, manuali e ansia.
 
-Il Metodo BANDO usa il calendario in modo diverso. Il piano non è una promessa. È un sistema di controllo.
+Nel Metodo BANDO il calendario è un sistema di controllo, non una promessa.
 
 > Ogni settimana deve dire che cosa studi, che cosa richiami, che cosa produci e che cosa correggi.
 
@@ -47,7 +47,7 @@ Il piano non deve essere bello da vedere. Deve funzionare quando arriva il ritar
 
 Non puoi costruire un piano se non conosci questi dati:
 
-| Dato | perché serve |
+| Dato | Perché serve |
 |---|---|
 | Giorni disponibili | Determina profondità e tagli |
 | Ore realistiche settimanali | Evita piani impossibili |
@@ -235,7 +235,7 @@ Prodotti:
 - lista errori ricorrenti;
 - tagli finali.
 
-La simulazione non serve solo a misurare punteggio. Serve a scoprire:
+La simulazione misura il punteggio e aiuta a scoprire:
 
 - dove perdi tempo;
 - quali domande leggi male;
@@ -372,7 +372,7 @@ Se lavori o hai poco tempo, dimezza i blocchi, non eliminare output e diario.
 
 ## Esempio - Profilo amministrativo generale
 
-priorità:
+Priorità:
 
 1. bando e prova;
 2. amministrativo;
@@ -479,9 +479,9 @@ Il secondo piano sembra ordinato, ma non produce prova.
 
 ## Domanda da commissario
 
-**perché un piano di studio deve contenere simulazioni anche prima della fine del programma?**
+**Perché un piano di studio deve contenere simulazioni anche prima della fine del programma?**
 
-perché la simulazione mostra se lo studio diventa output. Aspettare di "finire tutto" significa scoprire troppo tardi errori di tempo, lettura, memoria, strategia e formato.
+Perché la simulazione mostra se lo studio diventa output. Aspettare di "finire tutto" significa scoprire troppo tardi errori di tempo, lettura, memoria, strategia e formato.
 
 ## Domanda-trappola
 

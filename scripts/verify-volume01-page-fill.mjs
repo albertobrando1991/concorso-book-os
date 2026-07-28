@@ -8,10 +8,11 @@ const browser = await launchBrowser()
 const page = await browser.newPage({ viewport: { width: 1500, height: 1050 } })
 
 try {
-  await page.goto(`${baseUrl}/?bookId=il-metodo-bando#studio`, { waitUntil: "domcontentloaded", timeout: 120_000 })
+  await page.goto(`${baseUrl}/?bookId=il-metodo-bando#studio`, { waitUntil: "domcontentloaded", timeout: 180_000 })
   await page.locator("#studio").scrollIntoViewIfNeeded()
   await page.getByRole("button", { name: "Libro", exact: true }).click()
   await page.waitForSelector(".bookPages .bookPage", { timeout: 120_000 })
+  await page.waitForTimeout(1_500)
   await page.evaluate(() => document.fonts.ready)
   await waitForBookImages(page)
   await waitForStablePagination(page)
@@ -49,8 +50,16 @@ try {
 
     return diagnostics.map((item, index) => ({
       ...item,
-      isLastChapterPage: index === diagnostics.length - 1 || diagnostics[index + 1].title !== item.title
+      isLastChapterPage: index === diagnostics.length - 1 || diagnostics[index + 1].title !== item.title,
+      nextFirstBlock: visibleBlockLabel(elements[index + 1])
     }))
+
+    function visibleBlockLabel(pageElement) {
+      const first = pageElement?.querySelector(".previewBlocks > *, .frontMatterBlocks > *, .digitalServicesContent > *")
+      if (!first) return "none"
+      const className = typeof first.className === "string" ? first.className.trim() : ""
+      return `${first.tagName}${className ? `.${className.replace(/\s+/g, ".")}` : ""}`
+    }
   })
 
   const nonFinalPages = pages.filter(
@@ -64,6 +73,7 @@ try {
     nonFinalOver120: nonFinalPages.filter((item) => item.freeSpace > 120).length,
     averageNonFinalFreeSpace: average(nonFinalPages.map((item) => item.freeSpace)),
     medianNonFinalFreeSpace: median(nonFinalPages.map((item) => item.freeSpace)),
+    largeGapCauses: summarizeGapCauses(nonFinalPages.filter((item) => item.freeSpace > 120)),
     worstNonFinalPages: [...nonFinalPages].sort((a, b) => b.freeSpace - a.freeSpace).slice(0, 30),
     pages
   }
@@ -102,6 +112,14 @@ function median(values) {
   const sorted = [...values].sort((a, b) => a - b)
   const middle = Math.floor(sorted.length / 2)
   return sorted.length % 2 === 0 ? Math.round((sorted[middle - 1] + sorted[middle]) / 2) : sorted[middle]
+}
+
+function summarizeGapCauses(pages) {
+  return Object.entries(pages.reduce((summary, page) => {
+    const key = `${page.lastBlock}${page.lastBlockClass ? `.${page.lastBlockClass.replace(/\s+/g, ".")}` : ""} -> ${page.nextFirstBlock}`
+    summary[key] = (summary[key] || 0) + 1
+    return summary
+  }, {})).sort((left, right) => right[1] - left[1])
 }
 
 async function waitForStablePagination(page) {

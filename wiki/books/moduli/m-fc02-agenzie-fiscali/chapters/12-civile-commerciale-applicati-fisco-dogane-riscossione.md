@@ -7,6 +7,12 @@ domain: "concorsi pubblici italiani"
 topics: ["diritto civile", "diritto commerciale", "obbligazioni", "contratti", "impresa", "societa", "crisi impresa", "agenzie fiscali"]
 entities: ["Agenzia delle Entrate", "Agenzia delle Dogane e dei Monopoli", "Agenzia delle Entrate-Riscossione"]
 source_refs: ["sources/adempimenti-contabilita-civile-commerciale-m-fc02.md", "sources/codice-civile-beni-pubblici-demanio-patrimonio.md"]
+asset_refs:
+  - "books/moduli/m-fc02-agenzie-fiscali/assets/chapter-12/01-mappa-bando-civile-commerciale.png"
+  - "books/moduli/m-fc02-agenzie-fiscali/assets/chapter-12/02-credito-debito-piani-giuridici.png"
+  - "books/moduli/m-fc02-agenzie-fiscali/assets/chapter-12/03-contratto-fattura-pagamento.png"
+  - "books/moduli/m-fc02-agenzie-fiscali/assets/chapter-12/04-impresa-societa-applicazioni-agenzie.png"
+  - "books/moduli/m-fc02-agenzie-fiscali/assets/chapter-12/05-checklist-civile-commerciale-fisco.png"
 book_refs: ["m-fc02-agenzie-fiscali", "il-metodo-bando"]
 confidence: 0.82
 updated_at: 2026-07-17T23:40:00+02:00
@@ -281,3 +287,7 @@ Classifica le situazioni:
 - Aggiornare il box sul Codice della crisi alla data del bando, con attenzione a definizioni, assetti, strumenti e procedure.
 - Verificare i raccordi tra garanzie civilistiche, obbligazione doganale e riscossione pubblica senza estendere per analogia regole settoriali.
 - Inserire titoli di credito e proprieta industriale solo se richiesti dal programma del singolo concorso.
+- Verificare sul Codice civile vigente gli articoli su capacita, rappresentanza, obbligazioni, garanzie, contratto, impresa e societa prima di inserire citazioni puntuali.
+- Consolidare una source note ufficiale dedicata al Codice della crisi vigente prima di ampliare procedure, misure protettive, effetti sui creditori e trattamento dei crediti pubblici.
+- Sottoporre responsabilita societaria, garanzie e crisi a review giuridica umana prima della pubblicazione.
+- Il capitolo fornisce categorie concorsuali e non costituisce consulenza civile, societaria, fiscale o sulla crisi d'impresa.

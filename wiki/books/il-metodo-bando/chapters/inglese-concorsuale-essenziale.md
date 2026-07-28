@@ -9,14 +9,14 @@ entities: ["Pubblica amministrazione", "CEFR", "QCER", "Council of Europe", "MIM
 source_refs: ["sources/struttura-madre-il-metodo-bando.md", "sources/inglese-concorsi-corpus-fonti-ufficiali-2026-05-28.md", "sources/inglese-grammatica-concorsuale-cloze-tempi-modali-preposizioni.md", "sources/inglese-lessico-funzioni-comunicative-comprensione.md", "sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego.md", "sources/d-p-r-9-maggio-1994-n-487-accesso-agli-impieghi-pubblici-e-concorsi.md", "sources/d-p-r-16-giugno-2023-n-82-modifiche-al-d-p-r-487-1994-sui-concorsi.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.88
-updated_at: 2026-05-30T00:00:00+02:00
+updated_at: 2026-07-23T00:00:00+02:00
 created_at: 2026-05-10T11:45:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "common-subject", "inglese"]
 book_id: il-metodo-bando
 outline_section: 11
-draft_stage: editorial-revision
+draft_stage: publication-ready
 last_compiled_from: ["wiki/sources/inglese-concorsi-corpus-fonti-ufficiali-2026-05-28.md", "wiki/sources/inglese-grammatica-concorsuale-cloze-tempi-modali-preposizioni.md", "wiki/sources/inglese-lessico-funzioni-comunicative-comprensione.md", "wiki/topics/inglese-concorsuale.md", "wiki/topics/cloze-test-inglese.md", "wiki/topics/grammatica-inglese-concorsi.md", "wiki/topics/lessico-inglese-pa.md"]
 ---
 
@@ -24,7 +24,7 @@ last_compiled_from: ["wiki/sources/inglese-concorsi-corpus-fonti-ufficiali-2026-
 
 ## Perché l'inglese conta nei concorsi
 
-L'inglese nei concorsi pubblici non è una materia ornamentale. Serve a verificare se il candidato sa comprendere messaggi semplici, riconoscere forme grammaticali corrette, interpretare un breve testo e usare formule essenziali in un contesto di lavoro. La prova può comparire come gruppo di quiz, come parte dell'orale, come lettura di un brano, come domanda situazionale o come accertamento collegato al profilo.
+L'inglese nei concorsi pubblici verifica se il candidato sa comprendere messaggi semplici, riconoscere forme grammaticali corrette, interpretare un breve testo e usare formule essenziali in un contesto di lavoro. La prova può comparire come gruppo di quiz, parte dell'orale, lettura di un brano, domanda situazionale o accertamento collegato al profilo.
 
 Per molti candidati l'errore è studiare inglese come se dovessero sostenere un esame scolastico completo. Nei concorsi, invece, l'obiettivo è più preciso: rispondere bene a domande ricorrenti, evitare le trappole grammaticali, capire il senso di email e avvisi, saper formulare frasi brevi e corrette. Non serve dimostrare uno stile raffinato; serve essere affidabili.
 
@@ -116,7 +116,7 @@ Nel bando l'inglese può apparire in modi diversi. La strategia cambia in base a
 
 ## 1. Cloze e completamento frase
 
-Il cloze è il formato più importante. Una frase contiene uno spazio vuoto e il candidato deve scegliere l'opzione corretta. La difficoltà non è solo conoscere la parola, ma capire quale parola funziona nella struttura della frase.
+Il cloze ricorre spesso nelle prove. Una frase contiene uno spazio vuoto e il candidato deve scegliere l'opzione corretta, valutando quale parola funziona nella struttura della frase.
 
 Esempio:
 
@@ -654,7 +654,7 @@ Mario Rossi
 
 ## 13. Lessico amministrativo essenziale
 
-Questa tabella non sostituisce un dizionario. Serve a costruire il vocabolario minimo per leggere avvisi, quiz e brevi testi amministrativi.
+Questa tabella costruisce il vocabolario minimo per leggere avvisi, quiz e brevi testi amministrativi; non sostituisce un dizionario.
 
 | Italiano | Inglese |
 |---|---|
@@ -724,6 +724,10 @@ When can citizens book appointments online?
 
 From Tuesday morning.
 
+**Why**
+
+The first sentence explains the closure; the second gives the first available time for online booking. `From` means that Tuesday morning is the starting point.
+
 ### Mini-reading 2
 
 **Text**
@@ -737,6 +741,10 @@ What happens if an application is received after 30 June?
 **Answer**
 
 It will not be accepted.
+
+**Why**
+
+The phrase `after the deadline` refers to applications received later than 30 June. The text states the consequence directly.
 
 ### Mini-reading 3
 
@@ -752,6 +760,10 @@ Where will the results be published?
 
 On the official website.
 
+**Why**
+
+Do not confuse the publication channel with the channel for further information: results go on the website, while additional information arrives by email.
+
 ### Mini-reading 4
 
 **Text**
@@ -766,6 +778,10 @@ What does the system send after the request is completed?
 
 A receipt.
 
+**Why**
+
+The pronoun-free wording makes the link explicit: after the user completes the request, the system sends `a receipt`.
+
 ### Mini-reading 5
 
 **Text**
@@ -779,6 +795,104 @@ Who can attend the training course?
 **Answer**
 
 Public employees who work in administrative offices.
+
+**Why**
+
+The relative clause `who work in administrative offices` restricts the group: the course is not described as open to every worker.
+
+### Mini-reading 6
+
+**Text**
+
+The library offers a document collection service from Monday to Friday. Users must request the documents online at least one working day in advance. Same-day requests cannot be guaranteed.
+
+**Question**
+
+How early should users request the documents?
+
+**Answer**
+
+At least one working day in advance.
+
+**Why**
+
+The key expression is `at least`: one working day is the minimum notice required. `Same-day requests cannot be guaranteed` confirms that requesting on the collection day may be too late.
+
+### Mini-reading 7
+
+**Text**
+
+Please send the completed form to the Human Resources Department by Friday. Do not include medical certificates in the ordinary email: use the secure upload area indicated in the instructions.
+
+**Question**
+
+Where should medical certificates be uploaded?
+
+**Answer**
+
+In the secure upload area indicated in the instructions.
+
+**Why**
+
+The text distinguishes the ordinary email, used for the form, from the protected channel required for medical certificates.
+
+### Mini-reading 8
+
+**Text**
+
+Applicants who need assistance during the test should contact the examination office before the deadline. The office may ask for supporting documents. Requests submitted on the day of the test may not be processed.
+
+**Question**
+
+Why should applicants contact the office before the deadline?
+
+**Answer**
+
+Because requests made on the day of the test may not be processed.
+
+**Why**
+
+The answer requires connecting the instruction in the first sentence with the risk stated in the last sentence. `May not` expresses a possibility, not an absolute prohibition.
+
+### Mini-reading 9
+
+**Text**
+
+The new appointment system has reduced waiting times at the public counter. However, citizens without internet access can still book by telephone. Walk-in access is reserved for urgent cases and does not guarantee immediate service.
+
+**Question**
+
+Which statement is correct?
+
+- **A.** Appointments can only be booked online.
+- **B.** Telephone booking is available to citizens without internet access.
+- **C.** Walk-in users always receive immediate service.
+
+**Answer**
+
+B. Telephone booking is available to citizens without internet access.
+
+**Why**
+
+Option A ignores the telephone alternative. Option C changes `does not guarantee` into its opposite. Only option B matches the text exactly.
+
+### Mini-reading 10
+
+**Text**
+
+Following a technical problem, yesterday's online applications were saved but confirmation emails were delayed. Candidates should not submit a second application unless their personal area shows no registered submission. All confirmations will be sent within twenty-four hours.
+
+**Question**
+
+What should a candidate do if the personal area already shows a registered submission?
+
+**Answer**
+
+The candidate should wait for the confirmation email and should not submit a second application.
+
+**Why**
+
+The technical problem affected confirmation emails, not saved applications. The condition introduced by `unless` applies only when no submission appears in the personal area.
 
 ## 15. Trenta frasi utili per orale e lavoro pubblico
 
@@ -845,7 +959,7 @@ Completa le frasi scegliendo la forma corretta.
 
 | N. | Frase | Opzioni |
 |---:|---|---|
-| 1 | The office ___ at 9 a.m. | open / opens / is open |
+| 1 | The office ___ every morning at 9 a.m. | open / opens / is open |
 | 2 | She ___ the application yesterday. | sends / sent / has sent |
 | 3 | Candidates must ___ an identity document. | bring / to bring / bringing |
 | 4 | The results ___ published online tomorrow. | will be / were / have |

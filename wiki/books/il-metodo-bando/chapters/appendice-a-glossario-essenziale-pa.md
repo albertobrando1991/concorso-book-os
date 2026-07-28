@@ -9,14 +9,14 @@ entities: ["Pubblica amministrazione", "ANAC", "AgID", "RUP", "PEC", "SPID", "CI
 source_refs: ["sources/glossario-essenziale-pa-metodo-bando.md", "sources/struttura-madre-il-metodo-bando.md", "sources/legge-241-1990-procedimento-amministrativo.md", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md", "sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego.md", "sources/d-lgs-14-marzo-2013-n-33-trasparenza.md", "sources/pa-digitale-cad-identita-documenti-servizi-dati.md", "sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024.md", "sources/contabilita-generale-stato-e-bilancio-stato.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.86
-updated_at: "2026-06-01T15:45:00+02:00"
+updated_at: "2026-07-24T00:00:00+02:00"
 created_at: "2026-05-10T11:45:00+02:00"
 review_required: true
 canonical: true
 tags: ["book-appendix", "workbook"]
 book_id: il-metodo-bando
 outline_section: A
-draft_stage: revised-editorial-draft
+draft_stage: editorial-review
 last_compiled_from: ["sources/glossario-essenziale-pa-metodo-bando.md", "topics/glossario-pa.md", "topics/procedimento-amministrativo.md", "topics/pa-digitale.md", "topics/contratti-pubblici.md", "topics/contabilita-pubblica.md"]
 ---
 
@@ -28,7 +28,7 @@ Nei concorsi pubblici molte domande non sono difficili perché richiedono nozion
 
 Se confondi il termine, confondi la risposta.
 
-Il glossario serve a ridurre questo rischio: ti offre una definizione essenziale, la funzione concorsuale e l'errore da evitare.
+Il glossario riduce questo rischio: per ogni voce offre una definizione essenziale, la funzione concorsuale e l'errore da evitare.
 
 ## Come usare il glossario
 
@@ -38,7 +38,7 @@ Usalo in tre momenti.
 2. **Durante i quiz**: quando sbagli per una sigla o per una coppia simile, torna alla voce e aggiungila al diario degli errori.
 3. **Prima dell'orale**: scegli 10 termini e prova a spiegarli in 30 secondi ciascuno, con un esempio di PA.
 
-Una definizione da concorso deve essere breve, corretta e collegata all'uso. Non basta sapere che cosa significa una sigla: devi sapere dove compare e quale errore evita.
+Una definizione da concorso deve essere breve, corretta e collegata all'uso. Per una sigla devi sapere dove compare e quale errore evita.
 
 ## Mappa BANDO del glossario
 

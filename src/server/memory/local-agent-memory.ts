@@ -128,7 +128,7 @@ export class LocalAgentMemory {
     const queryTerms = tokenize(input.query)
     if (queryTerms.length === 0) return emptyRecall()
 
-    const records = await this.readJsonl<MemoryRecord>(ATOMS_PATH)
+    const records = normalizeMemoryRecords(await this.readJsonl<MemoryRecord>(ATOMS_PATH))
     const scored = records
       .map((memory) => ({ memory, score: scoreMemory(memory, queryTerms, input.scope || DEFAULT_SCOPE) }))
       .filter((item) => item.score > 0)
@@ -240,7 +240,10 @@ export class LocalAgentMemory {
   }
 
   private async extractAtoms(conversation: ConversationRecord, l0Path: string): Promise<MemoryRecord[]> {
-    const existing = new Set((await this.readJsonl<MemoryRecord>(ATOMS_PATH)).map((memory) => normalizeMemoryText(memory.text)))
+    const existing = new Set(
+      normalizeMemoryRecords(await this.readJsonl<MemoryRecord>(ATOMS_PATH))
+        .map((memory) => normalizeMemoryText(memory.text))
+    )
     const candidates: Array<{ kind: MemoryKind; text: string; weight: number }> = []
 
     for (const message of conversation.messages) {
@@ -299,7 +302,7 @@ export class LocalAgentMemory {
   }
 
   private async refreshPersona() {
-    const atoms = await this.readJsonl<MemoryRecord>(ATOMS_PATH)
+    const atoms = normalizeMemoryRecords(await this.readJsonl<MemoryRecord>(ATOMS_PATH))
     const stable = atoms
       .filter((atom) => atom.kind === "preference" || atom.kind === "instruction" || atom.kind === "workflow")
       .slice(-80)
@@ -377,6 +380,17 @@ export function withLocalMemoryContext(messages: LlmMessage[], recall: MemoryRec
 
 function emptyRecall(): MemoryRecall {
   return { context: "", memories: [], totalChars: 0 }
+}
+
+function normalizeMemoryRecords(records: MemoryRecord[]): MemoryRecord[] {
+  return records.flatMap((memory) => {
+    if (!memory || typeof memory.text !== "string" || memory.text.trim().length === 0) return []
+
+    return [{
+      ...memory,
+      keywords: Array.isArray(memory.keywords) ? memory.keywords : []
+    }]
+  })
 }
 
 function scoreMemory(memory: MemoryRecord, queryTerms: string[], scope: string) {

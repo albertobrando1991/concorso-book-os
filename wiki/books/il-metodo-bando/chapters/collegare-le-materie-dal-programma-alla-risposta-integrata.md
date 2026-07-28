@@ -9,7 +9,7 @@ entities: ["Metodo BANDO", "Bando Decoder", "Diario degli errori"]
 source_refs: ["sources/collegare-materie-risposta-integrata-metodo-bando.md", "sources/schema-universale-risposta-orale-metodo-bando.md", "sources/risposta-sintetica-domande-aperte-metodo-bando.md", "sources/confrontare-istituti-simili-metodo-bando.md", "sources/schede-operative-studio-metodo-bando.md", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md", "sources/parole-chiave-concorsi-metodo-bando.md", "sources/simulazioni-concorsuali-metodo-bando.md", "sources/matrice-materie-profili-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/struttura-madre-il-metodo-bando.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.9
-updated_at: 2026-06-16T22:01:00+02:00
+updated_at: 2026-07-24T00:00:00+02:00
 created_at: 2026-06-16T22:01:00+02:00
 review_required: true
 canonical: true
@@ -30,13 +30,11 @@ Poi arriva la prova.
 
 La domanda non rispetta sempre quelle caselle. Un caso pratico può partire da un procedimento e arrivare a responsabilità, accesso, trasparenza, dati, competenza, ufficio, tempi e decisione. Una domanda orale può iniziare con una definizione e finire con: "Mi faccia un collegamento con l'organizzazione dell'ente". Una risposta scritta può essere corretta ma povera perché resta chiusa dentro una sola materia.
 
-Il punto non è collegare tutto.
-
-Il punto è collegare bene.
+Conta collegare bene, senza aprire collegamenti inutili.
 
 La regola del capitolo è:
 
-> un collegamento vale solo se ti riporta alla domanda.
+> un collegamento vale quando ti riporta alla domanda.
 
 ## Obiettivo del capitolo
 
@@ -99,6 +97,8 @@ Frasi di ritorno:
 Se non sai dire perché il collegamento serve, probabilmente non serve.
 
 ## Mappa BANDO del collegamento
+
+![Mappa collegamenti](../assets/chapter-45/01-mappa-collegamenti.png)
 
 ### Bando
 
@@ -169,6 +169,8 @@ Il collegamento deve produrre output:
 Se resta solo nella testa, non è ancora allenato.
 
 ## I sette ponti sicuri
+
+![Sette ponti sicuri per costruire collegamenti pertinenti](../assets/chapter-45/02-sette-ponti.png)
 
 Quando non sai da dove partire, usa questi ponti.
 
@@ -277,6 +279,8 @@ Il ponte di profilo evita studio generico.
 
 ## Formula Centro - Ponte - Ritorno
 
+![Formula che collega un tema a un secondo nucleo e torna alla domanda](../assets/chapter-45/03-centro-ponte-ritorno.png)
+
 Per non perderti usa questa formula:
 
 1. **Centro:** rispondo alla domanda principale.
@@ -294,6 +298,8 @@ La parte più importante è il ritorno.
 Senza ritorno, il ponte resta sospeso.
 
 ## Come collegare nello scritto
+
+![Collegamento efficace nella risposta scritta](../assets/chapter-45/04-collegare-scritto.png)
 
 Nello scritto il collegamento deve essere selettivo.
 
@@ -338,6 +344,8 @@ Schema:
 In ogni formato resta una regola: il collegamento non deve mangiare la risposta.
 
 ## Come collegare all'orale
+
+![Collegamento efficace nella risposta orale](../assets/chapter-45/05-collegare-orale.png)
 
 All'orale il collegamento serve a dare profondità, ma va dosato.
 
@@ -384,6 +392,8 @@ Non sempre userai tutte le risposte. Ma ti aiutano a non vedere il caso come un 
 
 ## Scheda operativa: argomento + ponti utili
 
+![Scheda operativa per selezionare solo i ponti utili](../assets/chapter-45/06-scheda-ponti-utili.png)
+
 Per ogni argomento importante prepara una scheda così:
 
 | Campo | Domanda | Compilazione |
@@ -403,6 +413,8 @@ Questa scheda non sostituisce lo studio.
 Lo rende utilizzabile.
 
 ## Caso guidato
+
+![Caso guidato di risposta integrata](../assets/chapter-45/07-caso-collegamento.png)
 
 Marta sta preparando un orale per un profilo amministrativo.
 
@@ -475,11 +487,16 @@ Se la risposta è la seconda, taglia.
 
 Scegli un argomento che stai studiando.
 
-Compila questa griglia:
+Compila prima i due ponti e poi scrivi una sola frase di ritorno alla domanda.
 
-| Argomento | Ponte 1 | perché serve | Ponte 2 | perché serve | Frase di ritorno |
-|---|---|---|---|---|---|
-| | | | | | |
+| Argomento | Ponte utile | Perché serve |
+|---|---|---|
+| | | |
+| | | |
+
+| Frase di ritorno alla domanda |
+|---|
+| |
 
 Poi trasformala in tre versioni:
 

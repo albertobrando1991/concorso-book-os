@@ -9,7 +9,7 @@ entities: ["Metodo BANDO", "Bando Decoder", "Diario degli errori"]
 source_refs: ["sources/domande-impreviste-risposta-sicura-metodo-bando.md", "sources/schema-universale-risposta-orale-metodo-bando.md", "sources/risposta-sintetica-domande-aperte-metodo-bando.md", "sources/confrontare-istituti-simili-metodo-bando.md", "sources/collegare-materie-risposta-integrata-metodo-bando.md", "sources/simulazioni-concorsuali-metodo-bando.md", "sources/checklist-operative-concorsi-metodo-bando.md", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md", "sources/apprendimento-efficace-active-recall-ripasso-distribuito.md", "sources/metodo-bando-progetto-editoriale.md", "sources/struttura-madre-il-metodo-bando.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.9
-updated_at: 2026-06-17T16:30:00+02:00
+updated_at: 2026-07-24T00:00:00+02:00
 created_at: 2026-06-17T16:30:00+02:00
 review_required: true
 canonical: true
@@ -26,7 +26,7 @@ Prima o poi succede.
 
 Hai studiato. Hai ripassato. Hai preparato risposte, confronti, collegamenti, esempi. Poi arriva una domanda che non entra in nessuna delle forme previste.
 
-Non è sempre una domanda impossibile.
+Spesso non è una domanda impossibile.
 
 Spesso è una domanda leggermente spostata:
 
@@ -38,9 +38,7 @@ Spesso è una domanda leggermente spostata:
 - un follow-up orale dopo una risposta corretta;
 - una domanda semplice, ma formulata in modo diverso da come l'avevi studiata.
 
-In quel momento il rischio non è solo non sapere.
-
-Il rischio è inventare.
+In quel momento il rischio è inventare.
 
 Inventare una norma. Inventare un articolo. Inventare un effetto. Inventare un collegamento. Parlare molto per coprire il vuoto. Perdere il centro della domanda e trasformare una difficoltà gestibile in una risposta fragile.
 
@@ -85,7 +83,7 @@ Il candidato fragile reagisce in due modi opposti:
 
 Il candidato preparato non è quello che sa tutto. È quello che sa proteggere la risposta anche quando non possiede ogni dettaglio.
 
-## Il punto centrale: non inventare
+## Rispondere senza inventare
 
 Nei concorsi pubblici una risposta incerta può ancora contenere valore.
 
@@ -110,6 +108,8 @@ Questo non significa arrendersi.
 Significa usare una tecnica.
 
 ## Mappa BANDO della domanda imprevista
+
+![Mappa domanda imprevista](../assets/chapter-46/01-mappa-domanda-imprevista.png)
 
 ### Bando
 
@@ -181,6 +181,8 @@ Gli output sono:
 - una scheda corretta.
 
 ## Formula: Perimetro - Nucleo sicuro - Sviluppo prudente - Chiusura
+
+![Sequenza prudente per costruire una risposta senza inventare](../assets/chapter-46/02-perimetro-nucleo-sviluppo.png)
 
 Quando arriva una domanda imprevista, usa quattro mosse.
 
@@ -263,6 +265,8 @@ Frasi utili:
 Se chiudi bene, anche una risposta non perfetta appare ordinata.
 
 ## Tipi di domanda imprevista
+
+![Tipologie di domanda imprevista e punto di partenza sicuro](../assets/chapter-46/03-tipi-domande-impreviste.png)
 
 ### 1. Domanda di dettaglio
 
@@ -372,6 +376,8 @@ Il vuoto peggiora se cerchi subito la formula perfetta.
 
 ## Come rispondere all'orale
 
+![Protocollo dell'orale per una domanda non prevista](../assets/chapter-46/04-risposta-orale-imprevista.png)
+
 All'orale hai un vantaggio: puoi mostrare ordine nel ragionamento.
 
 Hai anche un rischio: puoi parlare troppo.
@@ -444,6 +450,8 @@ Se serve solo a riempire spazio, taglia.
 
 ## Come gestire il quiz quando non sai
 
+![Decisione controllata nel quiz quando il richiamo non è sufficiente](../assets/chapter-46/05-quiz-non-so.png)
+
 Nel quiz la domanda imprevista ha un'altra forma: una domanda che non riconosci o un distrattore che assomiglia alla risposta.
 
 Qui non devi scrivere una risposta prudente. Devi decidere.
@@ -484,6 +492,8 @@ Il Diario non deve contenere solo "sbagliata". Deve contenere perché era incert
 | "Parlo dell'altro argomento..." | Abbandona la domanda. |
 
 ## Scheda operativa: Diario dell'incertezza
+
+![Diario dell'incertezza: dalla domanda dubbia al recupero mirato](../assets/chapter-46/06-diario-incertezza.png)
 
 Dopo una simulazione, compila questa scheda.
 
@@ -529,6 +539,8 @@ Poi valuta:
 - frase da migliorare.
 
 ## Caso guidato
+
+![Caso guidato: trasformare un imprevisto in una risposta credibile](../assets/chapter-46/07-caso-imprevisto.png)
 
 Elena sta simulando l'orale.
 
@@ -606,15 +618,23 @@ Questo è comportamento da candidato maturo.
 
 Scegli cinque argomenti che conosci solo in parte.
 
-Per ciascuno, compila:
+Per ciascuno, compila prima la scheda di risposta e poi quella di recupero.
 
-| Argomento | Domanda imprevista | Nucleo sicuro | Frase prudente | Lacuna da correggere |
-|---|---|---|---|---|
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
+| Argomento | Domanda imprevista | Nucleo sicuro |
+|---|---|---|
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+
+| Frase prudente | Lacuna da correggere |
+|---|---|
+| | |
+| | |
+| | |
+| | |
+| | |
 
 Poi trasformane uno in:
 

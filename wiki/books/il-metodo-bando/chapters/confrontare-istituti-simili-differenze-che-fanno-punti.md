@@ -9,7 +9,7 @@ entities: ["Metodo BANDO", "Diario degli errori", "Bando Decoder"]
 source_refs: ["sources/confrontare-istituti-simili-metodo-bando.md", "sources/risposta-sintetica-domande-aperte-metodo-bando.md", "sources/schema-universale-risposta-orale-metodo-bando.md", "sources/schede-operative-studio-metodo-bando.md", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md", "sources/parole-chiave-concorsi-metodo-bando.md", "sources/apprendimento-efficace-active-recall-ripasso-distribuito.md", "sources/strategia-punteggio-prova-concorsuale-metodo-bando.md", "sources/checklist-operative-concorsi-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/struttura-madre-il-metodo-bando.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.9
-updated_at: 2026-06-15T14:15:00+02:00
+updated_at: 2026-07-24T00:00:00+02:00
 created_at: 2026-06-15T14:15:00+02:00
 review_required: true
 canonical: true
@@ -26,7 +26,7 @@ Nei concorsi, molte domande non chiedono solo: "Che cos'è?".
 
 Chiedono: "Che differenza c'è?".
 
-La differenza sembra una domanda semplice. In realta è una delle prove più severe: se conosci due istituti solo come definizioni isolate, appena devi metterli a confronto ti confondi.
+La domanda sulle differenze sembra semplice, ma richiede precisione: se conosci due istituti solo come definizioni isolate, nel confronto rischi di confonderti.
 
 Succede con accessi diversi, atti diversi, responsabilità diverse, fasi diverse, strumenti digitali diversi, procedure diverse. Succede anche nel quiz: il distrattore non è una risposta assurda, ma un istituto vicino messo nel posto sbagliato.
 
@@ -34,7 +34,7 @@ Il confronto è una competenza. Si può allenare.
 
 La regola del capitolo è:
 
-> non basta sapere due cose; devi sapere dove si separano.
+> per confrontare due istituti devi sapere dove si separano.
 
 ## Obiettivo del capitolo
 
@@ -95,6 +95,8 @@ Se nella risposta non compare nessuna di queste strutture, forse non stai confro
 
 ## La mappa BANDO del confronto
 
+![Mappa confronto](../assets/chapter-44/01-mappa-confronto.png)
+
 Il confronto entra nel Metodo BANDO in modo preciso.
 
 | Fase BANDO | Domanda guida | Output pratico |
@@ -110,6 +112,8 @@ Il candidato medio studia capitoli.
 Il candidato forte studia anche confini.
 
 ## I criteri di distinzione
+
+![Criteri stabili per distinguere istituti simili](../assets/chapter-44/02-criteri-distinzione.png)
 
 Per confrontare bene devi scegliere il criterio giusto.
 
@@ -136,6 +140,8 @@ Se una differenza non cambia la risposta, forse non è la differenza decisiva.
 
 ## La formula 1-3-1
 
+![Formula di confronto in passaggi essenziali](../assets/chapter-44/03-formula-confronto.png)
+
 Per le domande comparative usa la formula 1-3-1.
 
 | Passaggio | Funzione |
@@ -151,6 +157,8 @@ Esempio di struttura:
 Questa struttura è semplice, ma impedisce l'errore più comune: mettere due definizioni una accanto all'altra senza relazione.
 
 ## La tabella A/B/criterio
+
+![Tabella visiva per confrontare istituti simili](../assets/chapter-44/04-tabella-confronto.png)
 
 Quando studi, non scrivere pagine intere di confronto. Usa una tabella breve.
 
@@ -212,6 +220,8 @@ Questa risposta non è lunga. Ma mostra controllo.
 
 ## Dove nascono le confusioni
 
+![Confusioni tipiche e modo di risolverle](../assets/chapter-44/05-confusioni-tipiche.png)
+
 Le confusioni tra istituti simili non nascono solo dalla mancanza di studio.
 
 Nascono da somiglianze reali.
@@ -235,6 +245,8 @@ Scrivi:
 - quale frase usero la prossima volta.
 
 ## Il Diario delle differenze
+
+![Diario delle differenze da richiamare nel ripasso](../assets/chapter-44/06-diario-differenze.png)
 
 Quando sbagli una distinzione, compila questa scheda.
 
@@ -307,6 +319,8 @@ La scheda funziona se puoi usarla in tre modi:
 Se la scheda serve solo a conservare appunti, non è ancora una scheda operativa.
 
 ## Caso guidato: Elena risponde con due monologhi
+
+![Caso guidato di confronto sintetico e pertinente](../assets/chapter-44/07-caso-confronto.png)
 
 Elena sta preparando una prova scritta. La traccia dice:
 

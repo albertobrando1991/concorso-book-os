@@ -9,17 +9,17 @@ entities: ["Bando Decoder", "inPA"]
 source_refs: ["sources/struttura-madre-il-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/d-p-r-9-maggio-1994-n-487-accesso-agli-impieghi-pubblici-e-concorsi.md", "sources/d-p-r-16-giugno-2023-n-82-modifiche-al-d-p-r-487-1994-sui-concorsi.md", "sources/d-p-r-28-dicembre-2000-n-445-documentazione-amministrativa.md", "sources/d-lgs-7-marzo-2005-n-82-amministrazione-digitale.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.92
-updated_at: "2026-06-29T15:08:07.596Z"
+updated_at: "2026-07-23T00:00:00+02:00"
 created_at: "2026-05-09T01:05:00.000Z"
 review_required: true
 canonical: true
 tags: ["book-chapter", "workbook", "editorial-review"]
 book_id: il-metodo-bando
 outline_section: 2
-draft_stage: humanized-editorial-revision
+draft_stage: editorial-review
 last_compiled_from: ["topics/anatomia-del-bando.md", "topics/bando-decoder.md", "sources/d-p-r-9-maggio-1994-n-487-accesso-agli-impieghi-pubblici-e-concorsi.md", "sources/d-p-r-16-giugno-2023-n-82-modifiche-al-d-p-r-487-1994-sui-concorsi.md"]
 last_editorial_review: "2026-05-25T15:20:00Z"
-last_humanizer_revision: "2026-06-29T15:08:07.596Z"
+last_humanizer_revision: "2026-07-23T00:00:00+02:00"
 ---
 # Capitolo 2 - Anatomia del bando
 
@@ -29,7 +29,7 @@ Il bando è il documento più importante del concorso. Non perché sia il più s
 
 Il candidato medio scarica il bando, lo scorre in fretta e cerca subito un manuale o una banca dati. Il candidato preparato fa il contrario: prima smonta il bando, poi decide come studiare. Qui si vede subito la differenza tra una preparazione generica e una preparazione professionale.
 
-Il bando non è un testo da "capire più o meno". È una mappa di lavoro. Se lo leggi male, puoi studiare materie sbagliate, ignorare una soglia, sottovalutare l’orale, perdere una scadenza o candidarti a un profilo che non è coerente con il tuo tempo e con le tue competenze.
+Il bando richiede una lettura precisa. Da lì dipendono le materie da studiare, le soglie, l'orale, le scadenze e perfino la scelta di candidarti a un profilo compatibile con il tuo tempo e le tue competenze.
 
 ![Schema che confronta la partenza debole dal manuale generico con la partenza professionale dal bando.](../assets/chapter-02/01-bando-prima-del-manuale.png)
 
@@ -64,7 +64,7 @@ Solo dopo queste quattro risposte ha senso costruire il piano.
 
 ## Prima lettura: controllo di ammissibilità
 
-La prima lettura del bando serve a non perdere tempo. Devi verificare subito se possiedi i requisiti. Il titolo di studio richiesto, gli eventuali requisiti professionali, l’esperienza, le abilitazioni, le condizioni soggettive e i termini di presentazione della domanda vengono prima di ogni scelta di studio.
+La prima lettura serve a verificare subito i requisiti. Titolo di studio, requisiti professionali, esperienza, abilitazioni, condizioni soggettive e termini della domanda vengono prima di ogni scelta di studio.
 
 Questo controllo deve essere freddo. Non devi innamorarti del concorso prima di sapere se puoi partecipare. Se un requisito è dubbio, lo segni come punto da verificare. Se la scadenza è troppo vicina, devi decidere se ha senso investire tempo oppure se il bando va archiviato.
 
@@ -81,7 +81,7 @@ Questo controllo deve essere freddo. Non devi innamorarti del concorso prima di 
 
 ## Seconda lettura: profilo, lavoro reale e livello atteso
 
-Il nome del concorso non basta. Devi capire quale figura l’amministrazione sta cercando. Un "istruttore amministrativo", un "funzionario amministrativo-contabile", un "assistente tecnico", un profilo digitale o una posizione dirigenziale non richiedono la stessa preparazione.
+Il nome del concorso dice poco da solo. Devi capire quale figura l’amministrazione sta cercando. Un "istruttore amministrativo", un "funzionario amministrativo-contabile", un "assistente tecnico", un profilo digitale o una posizione dirigenziale richiedono preparazioni diverse.
 
 Il profilo ti dice come verranno usate le materie. Il diritto amministrativo può essere richiesto come base nozionistica, come capacità di gestire un procedimento o come capacità di risolvere un caso. Il pubblico impiego può comparire in un quiz, ma può anche diventare un problema situazionale su doveri, conflitto di interessi o responsabilità.
 
@@ -95,7 +95,7 @@ Per questo motivo, nella lettura del bando devi sempre collegare tre elementi:
 
 La sezione sulle prove è il cuore del bando. Qui capisci se devi preparare una preselettiva, uno scritto, una prova teorico-pratica, un orale, una valutazione dei titoli o una combinazione di passaggi.
 
-Non basta sapere che ci sarà una prova. Devi leggere punteggi e soglie. Una materia può diventare decisiva non perché occupa molte pagine nel manuale, ma perché compare nella prova che elimina più candidati, oppure perché viene richiesta con precisione tecnica.
+Leggi con attenzione punteggi e soglie. Una materia può pesare molto se compare nella prova che elimina più candidati o se richiede precisione tecnica, anche quando occupa poche pagine nel manuale.
 
 | Elemento | Domanda da farti | Conseguenza sul piano |
 |---|---|---|
@@ -108,7 +108,7 @@ Non basta sapere che ci sarà una prova. Devi leggere punteggi e soglie. Una mat
 
 ## Classificare le materie: obbligatorie, probabili, accessorie, killer, solo orali
 
-Il Bando Decoder serve a trasformare la lista delle materie in una gerarchia. La lista del bando spesso sembra piatta: diritto amministrativo, Costituzione, enti locali, pubblico impiego, trasparenza, informatica, inglese. Nel piano di studio, però, queste materie non hanno tutte lo stesso peso.
+Il Bando Decoder ordina la lista delle materie. Nel bando diritto amministrativo, Costituzione, enti locali, pubblico impiego, trasparenza, informatica e inglese possono apparire sullo stesso piano; nel piano di studio hanno pesi diversi.
 
 | Tipo di materia | Come la riconosci | Come la studi |
 |---|---|---|
@@ -144,7 +144,7 @@ Questa classificazione conta più della quantità di pagine. Una materia breve p
 
 ## Il Bando Decoder
 
-Il Bando Decoder è la doppia pagina che trasforma il bando in piano. Non è una scheda decorativa. È il punto in cui decidi come userai il tempo.
+Il Bando Decoder è la doppia pagina in cui il bando diventa piano di studio. Qui decidi come usare il tempo disponibile.
 
 **Bando Decoder - pagina 1**
 
@@ -234,7 +234,7 @@ Prendi un bando reale o fittizio e compila questa scheda in dieci minuti.
 
 ## Errore tipico
 
-L’errore tipico è leggere il bando come un ostacolo burocratico. In realtà il bando è già il primo strumento di selezione per il candidato: ti dice se vale la pena partecipare, come organizzare il tempo e dove rischi di sbagliare.
+L'errore tipico è trattare il bando come un ostacolo burocratico. Invece indica se ha senso partecipare, come organizzare il tempo e dove puoi sbagliare.
 
 ## Da sapere in 5 righe
 

@@ -9,15 +9,16 @@ entities: ["D.Lgs. 165/2001", "D.Lgs. 150/2009", "Dirigente pubblico", "Dipenden
 source_refs: ["sources/struttura-madre-il-metodo-bando.md", "sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego.md", "sources/d-lgs-27-ottobre-2009-n-150-performance.md", "sources/d-p-r-9-maggio-1994-n-487-accesso-agli-impieghi-pubblici-e-concorsi.md", "sources/d-p-r-16-giugno-2023-n-82-modifiche-al-d-p-r-487-1994-sui-concorsi.md", "sources/legge-6-novembre-2012-n-190-anticorruzione.md", "sources/delitti-contro-pa-codice-penale-2026.md", "sources/d-lgs-14-marzo-2013-n-33-trasparenza.md", "sources/d-lgs-8-aprile-2013-n-39-inconferibilita-e-incompatibilita-incarichi.md", "sources/d-p-r-16-aprile-2013-n-62-codice-comportamento-dipendenti-pubblici.md", "sources/d-lgs-10-marzo-2023-n-24-whistleblowing.md", "sources/d-p-r-24-giugno-2022-n-81-piao-adempimenti-assorbiti.md", "sources/decreto-30-giugno-2022-n-132-piano-tipo-piao.md", "sources/aran-contrattazione-collettiva-comparti-aree-pubblico-impiego.md", "sources/d-lgs-9-aprile-2008-n-81-salute-sicurezza-lavoro.md", "sources/d-lgs-26-agosto-2016-n-174-codice-di-giustizia-contabile.md", "sources/d-l-14-marzo-2025-n-25-convertito-dalla-l-9-maggio-2025-n-69-capacita-amministrativa.md", "sources/d-l-31-agosto-2013-n-101-trasformazione-civit-anac-e-pubblico-impiego.md", "sources/responsabilita-dirigenziale-legalita-organizzativa-performance-rischio.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.9
-updated_at: "2026-07-14T00:00:00+02:00"
+updated_at: "2026-07-23T00:00:00+02:00"
 created_at: "2026-05-10T11:45:00+02:00"
 review_required: true
 canonical: true
 tags: ["book-chapter", "common-subject", "revised"]
 book_id: il-metodo-bando
 outline_section: 6
-draft_stage: editorial-revision
+draft_stage: editorial-review
 last_compiled_from: ["wiki/books/il-metodo-bando/struttura-madre.md", "topics/pubblico-impiego.md", "topics/reati-contro-pubblica-amministrazione.md", "topics/organizzazione-pubblica.md", "topics/concorsi-pubblici.md", "topics/performance-amministrativa.md", "topics/responsabilita-dirigenziale.md", "topics/governo-del-rischio.md", "topics/anticorruzione-e-trasparenza.md", "entities/piano-integrato-di-attivita-e-organizzazione.md", "entities/dirigente-pubblico.md"]
+last_humanizer_revision: "2026-07-23T00:00:00+02:00"
 ---
 
 # Capitolo 6 - Pubblico impiego e organizzazione della PA
@@ -32,7 +33,7 @@ In concorso questa materia compare spesso in forma diretta: "pubblico impiego", 
 
 La chiave del capitolo è questa: nel pubblico impiego il comportamento individuale e l'organizzazione dell'ufficio non sono separati. Un dipendente scorretto espone l'amministrazione a rischio; un'organizzazione disordinata aumenta la probabilità di errori, ritardi, favoritismi e responsabilità.
 
-Per studiarlo bene, non partire da definizioni isolate. Usa sempre il collegamento tra profilo messo a bando, ufficio di destinazione, doveri di servizio e rischio amministrativo: è questo passaggio che trasforma la materia in una risposta da concorso.
+Per studiarlo bene, collega il profilo messo a bando, l'ufficio di destinazione, i doveri di servizio e il rischio amministrativo. Così la materia diventa una risposta da concorso.
 
 ## Obiettivi del capitolo
 
@@ -98,7 +99,7 @@ Questa distinzione serve nei casi pratici. Se un ufficio non assegna le pratiche
 
 ### Accesso al lavoro pubblico
 
-L'accesso al pubblico impiego avviene ordinariamente mediante concorso o procedura selettiva pubblica. Il concorso tutela imparzialità, eguaglianza, buon andamento e qualità del reclutamento. Non è un rito formale: serve a scegliere personale coerente con il profilo professionale e con i compiti dell'amministrazione.
+L'accesso al pubblico impiego avviene ordinariamente mediante concorso o procedura selettiva pubblica. Il concorso tutela imparzialità, eguaglianza, buon andamento e qualità del reclutamento, perché seleziona personale coerente con il profilo professionale e con i compiti dell'amministrazione.
 
 Per rispondere bene in concorso, devi collegare l'accesso a tre elementi:
 
@@ -202,6 +203,26 @@ Altre figure ricorrenti nei programmi vanno almeno riconosciute: **istigazione a
 
 Nel quadro normativo attuale non devi indicare l'abuso d'ufficio come reato vigente: l'art. 323 del codice penale è stato abrogato dalla legge 9 agosto 2024, n. 114. Per i concorsi di base è sufficiente ricordare questo dato e non sostituirlo con etichette improprie. Fatti anteriori, norme transitorie e profili specialistici richiedono invece una verifica giuridica puntuale.
 
+#### Riferimenti essenziali per qualificare il fatto
+
+| Nucleo | Riferimento | Operazione da concorso |
+|---|---|---|
+| Qualifica soggettiva | artt. 357 e 358 c.p. | Verificare funzione o servizio svolto in concreto. |
+| Appropriazione e destinazione indebita | artt. 314 e 314-bis c.p. | Distinguere appropriazione della risorsa e uso contrario al vincolo di destinazione. |
+| Costrizione, induzione e accordo | artt. 317, 319-quater, 318 e 319 c.p. | Ricostruire libertà del privato e struttura della relazione illecita. |
+| Condotte ulteriori | artt. 319-quater, 322, 346-bis, 328 e 326 c.p. | Riconoscere l'area della fattispecie senza inventare qualificazioni. |
+| Abuso d'ufficio | Legge 9 agosto 2024, n. 114 | Non indicare l'art. 323 c.p. come reato vigente per fatti attuali. |
+
+## Riferimenti consolidati per B-PA04
+
+- [[sources/delitti-contro-pa-codice-penale-2026]]
+- [[sources/legge-6-novembre-2012-n-190-anticorruzione]]
+- [[sources/legge-14-gennaio-1994-n-20-responsabilita-erariale]]
+
+## Note di review B-PA04
+
+L'audit P8 conferma la separazione didattica tra responsabilità disciplinare, amministrativo-contabile e penale. Pene, circostanze, successione di leggi nel tempo e singole qualificazioni richiedono revisione penalistica umana prima della pubblicazione.
+
 #### Caso guidato: il vantaggio richiesto all'operatore economico
 
 Un funzionario dice a un operatore economico che la sua pratica potrà essere esaminata più rapidamente se offrirà un'utilità personale. Il candidato non deve decidere il caso con una formula automatica. Deve spiegare che la situazione è incompatibile con imparzialità, doveri d'ufficio e prevenzione della corruzione; deve poi distinguere, in base ai fatti indicati dalla traccia, tra accordo corruttivo, costrizione o induzione.
@@ -218,7 +239,7 @@ La risposta prudente è: «Occorre interrompere la gestione informale, attivare 
 
 La separazione tra indirizzo politico e gestione amministrativa è un nucleo centrale. Gli organi politici definiscono obiettivi, programmi, priorità e indirizzi. I dirigenti e i responsabili amministrativi curano la gestione concreta: personale, atti, procedimenti, risorse, controlli e risultati.
 
-Questa separazione serve a garantire imparzialità e chiarezza delle responsabilità. L'organo politico non deve gestire la singola pratica come se fosse un funzionario; il dirigente non decide l'indirizzo politico dell'ente, ma realizza gli obiettivi con atti gestionali e responsabilità proprie.
+Questa separazione serve a garantire imparzialità e chiarezza delle responsabilità. Ai sensi dell'art. 4 del D.Lgs. 165/2001, gli organi di governo definiscono obiettivi e programmi e verificano i risultati; ai dirigenti spettano atti e provvedimenti amministrativi, compresi quelli che impegnano l'amministrazione verso l'esterno, nonché gestione finanziaria, tecnica e amministrativa nei limiti delle competenze attribuite. L'organo politico non deve gestire la singola pratica come se fosse un funzionario; il dirigente non decide l'indirizzo politico dell'ente, ma realizza gli obiettivi con atti gestionali e responsabilità proprie.
 
 Esempio da orale: la giunta stabilisce di potenziare un servizio comunale; il dirigente organizza personale, tempi, atti, procedure e controlli necessari per attuare quell'obiettivo.
 
@@ -239,7 +260,7 @@ Nei casi pratici chiediti sempre:
 
 ### Performance amministrativa
 
-La performance amministrativa collega obiettivi, attività, indicatori, risultati, valutazione e accountability. Non coincide con un premio economico. Serve a capire se l'amministrazione usa risorse e personale per produrre risultati effettivi e servizi adeguati.
+La performance amministrativa collega obiettivi, attività, indicatori, risultati, valutazione e accountability. Misura se l'amministrazione usa risorse e personale per produrre risultati effettivi e servizi adeguati; non coincide con un premio economico.
 
 Il candidato deve distinguere:
 
@@ -346,7 +367,7 @@ L'obiettivo non è memorizzare formule, ma riconoscere situazioni rischiose: reg
 
 ### 5. Responsabilità disciplinare
 
-La responsabilità disciplinare riguarda la violazione dei doveri di servizio. Il procedimento disciplinare trova il proprio quadro generale nel D.Lgs. 165/2001 e deve essere letto insieme al codice di comportamento e al CCNL applicabile. Richiede contestazione degli addebiti, contraddittorio, valutazione del fatto e applicazione della sanzione secondo regole e competenze. L'UPD, ufficio per i procedimenti disciplinari, rileva nei casi in cui la competenza non resta al responsabile della struttura.
+La responsabilità disciplinare riguarda la violazione dei doveri di servizio. Il procedimento disciplinare trova il proprio quadro generale negli artt. 55 e seguenti del D.Lgs. 165/2001 e deve essere letto insieme al codice di comportamento e al CCNL applicabile. Richiede contestazione degli addebiti, contraddittorio, valutazione del fatto e applicazione della sanzione secondo regole e competenze. L'UPD, ufficio per i procedimenti disciplinari, rileva nei casi in cui la competenza non resta al responsabile della struttura.
 
 I temi da conoscere sono:
 
@@ -385,6 +406,28 @@ Pari opportunità, CUG, discriminazioni, mobbing, formazione e benessere organiz
 | CUG | Comitato unico di garanzia, collegato a pari opportunità e benessere. |
 | Mobbing e discriminazioni | Condotte lesive della dignità e del benessere lavorativo. |
 | Benessere organizzativo | Qualità dell'ambiente di lavoro, clima, carichi, comunicazione e prevenzione dei conflitti. |
+
+## Riferimenti normativi essenziali
+
+| Nucleo da concorso | Riferimento primario | Che cosa devi saper fare |
+|---|---|---|
+| Accesso e organizzazione del lavoro | D.Lgs. 165/2001, artt. 1-2 e 35 | Distinguere quadro pubblicistico, contrattualizzazione e accesso selettivo. |
+| Indirizzo e gestione | D.Lgs. 165/2001, art. 4 | Attribuire obiettivi e controllo agli organi di governo; atti e gestione ai dirigenti. |
+| Dirigenza | D.Lgs. 165/2001, artt. 4, 19 e 21 | Collegare incarico, risultati, organizzazione e responsabilità. |
+| Disciplina | D.Lgs. 165/2001, artt. 55 e seguenti | Distinguere illecito disciplinare, contraddittorio, competenza e altri tipi di responsabilità. |
+| Codice di comportamento | D.P.R. 62/2013, artt. 3, 6, 7 e 16 | Riconoscere doveri, conflitto, astensione e conseguenze disciplinari. |
+| Performance e PIAO | D.Lgs. 150/2009; art. 6 D.L. 80/2021 | Spiegare il raccordo tra obiettivi, organizzazione, risultati e prevenzione del rischio. |
+
+## Riferimenti consolidati
+
+- [[sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego]]
+- [[sources/d-p-r-16-aprile-2013-n-62-codice-comportamento-dipendenti-pubblici]]
+- [[sources/d-lgs-27-ottobre-2009-n-150-performance]]
+- [[sources/d-l-14-marzo-2025-n-25-convertito-dalla-l-9-maggio-2025-n-69-capacita-amministrativa]]
+
+## Note di review
+
+L'audit P7 ha verificato il testo vigente del D.Lgs. 165/2001 e del D.P.R. 62/2013 su Normattiva. CCNL, codici integrativi e regole organizzative della singola amministrazione richiedono controllo umano sul bando e sul testo impaginato prima della pubblicazione.
 
 ## Da sapere in 5 righe
 

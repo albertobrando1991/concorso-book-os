@@ -9,7 +9,7 @@ entities: ["Metodo BANDO", "Bando Decoder", "Diario degli errori", "Piano 30/60/
 source_refs: ["sources/giorno-prova-concorso-metodo-bando.md", "sources/checklist-operative-concorsi-metodo-bando.md", "sources/strategia-punteggio-prova-concorsuale-metodo-bando.md", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md", "sources/simulazioni-concorsuali-metodo-bando.md", "sources/sostenibilita-preparazione-concorsi-metodo-bando.md", "sources/dopo-prova-esiti-graduatoria-metodo-bando.md", "sources/scienze-apprendimento-pianificazione-metacognizione-errori.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.88
-updated_at: 2026-06-09T16:23:01+02:00
+updated_at: 2026-07-24T00:00:00+02:00
 created_at: 2026-06-09T16:23:01+02:00
 review_required: true
 canonical: true
@@ -22,9 +22,7 @@ last_compiled_from: ["sources/giorno-prova-concorso-metodo-bando.md", "topics/gi
 
 # Capitolo 38 - Il giorno della prova: routine, logistica e lucidità operativa
 
-Il giorno della prova non è il giorno in cui devi diventare un altro candidato.
-
-È il giorno in cui devi eseguire il candidato che hai costruito.
+Il giorno della prova richiede di eseguire ciò che hai già preparato.
 
 Se hai letto il bando, scelto materiali, fatto simulazioni, corretto errori, tagliato ciò che non serviva e preparato una strategia di punteggio, l'obiettivo finale non è aggiungere altra pressione.
 
@@ -57,6 +55,8 @@ La regola è:
 
 ## La mappa BANDO del giorno della prova
 
+![Routine completa del giorno della prova](../assets/chapter-38/01-mappa-routine-prova.png)
+
 | Fase | Domanda | Azione nel giorno della prova |
 |---|---|---|
 | B - Bando | quali istruzioni ufficiali devo rispettare? | controllo avvisi, convocazione, documenti, strumenti |
@@ -76,6 +76,8 @@ Riguarda la lettura delle istruzioni.
 Riguarda la capacità di non farsi trascinare da una domanda, da una persona, da una frase ascoltata in attesa o da una sensazione momentanea.
 
 ## Le ultime 24 ore: ridurre rischio, non aumentare volume
+
+![Linea del tempo delle ventiquattro ore prima della prova](../assets/chapter-38/02-linea-tempo-24-ore.png)
 
 Nelle ultime 24 ore il candidato tende a cercare sicurezza aggiungendo materiale.
 
@@ -126,6 +128,8 @@ Se la risposta è la seconda, non farla.
 
 ## Scheda logistica ufficiale
 
+![Checklist visiva della logistica essenziale](../assets/chapter-38/03-checklist-logistica.png)
+
 Questa scheda va compilata solo con informazioni presenti in bando, avviso di convocazione, portale ufficiale o comunicazioni dell'amministrazione.
 
 Non usare memoria, screenshot isolati o messaggi di gruppo come fonte finale.
@@ -150,6 +154,8 @@ Serve a costringerti a leggerle davvero.
 Il dettaglio più pericoloso è quello che "tanto lo so".
 
 ## La mattina della prova
+
+![Routine essenziale della mattina della prova](../assets/chapter-38/04-routine-mattino.png)
 
 La mattina della prova non deve essere piena.
 
@@ -208,6 +214,8 @@ La sicurezza utile non è sentirsi invincibile.
 È sapere cosa fare al primo minuto.
 
 ## La lettura delle istruzioni è parte della prova
+
+![Lettura deliberata delle istruzioni prima di iniziare](../assets/chapter-38/05-lettura-istruzioni.png)
 
 Quando inizia la prova, molti candidati vogliono correre.
 
@@ -269,6 +277,8 @@ La lucidità non significa assenza di tensione.
 Significa avere una procedura anche quando la tensione arriva.
 
 ## Gli imprevisti
+
+![Protocollo visivo per gestire un imprevisto](../assets/chapter-38/06-protocollo-imprevisti.png)
 
 Un imprevisto può essere logistico, tecnico, emotivo, di tempo o di consegna.
 
@@ -337,6 +347,8 @@ Il Diario post-prova comincia qui.
 5. Dopo la prova si registrano dati a caldo, ma si giudica solo sugli atti ufficiali.
 
 ## Caso guidato
+
+![Percorso operativo di un giorno di prova](../assets/chapter-38/07-caso-giorno-prova.png)
 
 Elena ha preparato una prova scritta a quiz. Il giorno prima sente altri candidati parlare di una nuova raccolta di domande.
 
