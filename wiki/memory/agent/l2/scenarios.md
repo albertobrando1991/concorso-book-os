@@ -2318,3 +2318,12 @@
 - l0: l0/conv-20260727150827-hyd8z4.md
 - atoms:
   - mem-20260727150827-xvae26 | result | Esito codex/catalog-coherence-audit: Verificare la coerenza tra text-volumes.ts, architettura canonica, cartelle reali e frontmatter dei moduli; mantenere 12 volumi e 25 moduli; applicare solo correzioni catalogo non ambigue secondo la copertura v4. -> Audit completato: 25 cartelle modulo, 25 index e 54 capitoli coerenti.
+
+## 2026-07-28T12:33:11.441Z - VOL-07
+
+- conversation_id: conv-20260728123311-fvxqgc
+- route: codex-vol-07-source-ingest-pipeline-start
+- l0: l0/conv-20260728123311-fvxqgc.md
+- atoms:
+  - mem-20260728123311-19nlbb0 | workflow | Acquisire il dossier VOL-07 Sanità amministrativa e professioni sanitarie, censire tutte le fonti e materie richieste e avviare la pipeline di sviluppo secondo AGENTS.md.
+  - mem-20260728123311-1dgwejp | result | Esito codex-vol-07-source-ingest-pipeline-start: Acquisire il dossier VOL-07 Sanità amministrativa e professioni sanitarie, censire tutte le fonti e materie richieste e avviare la pipeline di sviluppo secondo AGENTS.md. -> Dossier acquisito come raw immutabile con SHA-256 verificato; creata source note canonica per la pianificazione, inventario completo di 74 fonti/famiglie e matrice iniziale di 48 requisiti specialistici.
