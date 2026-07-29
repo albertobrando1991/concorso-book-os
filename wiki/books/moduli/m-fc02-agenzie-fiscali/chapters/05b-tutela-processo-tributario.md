@@ -6,10 +6,10 @@ status: revised_draft
 domain: "concorsi pubblici italiani"
 topics: ["processo tributario", "tutela giurisdizionale", "autotutela", "ricorso tributario", "tutela cautelare", "conciliazione"]
 entities: ["Corti di giustizia tributaria", "Agenzia delle Entrate", "Agenzia delle Dogane e dei Monopoli", "Agenzia delle Entrate-Riscossione"]
-source_refs: ["sources/processo-tributario-dlgs-175-2024-aggiornamento-2026-07-18.md", "sources/accertamento-contraddittorio-compliance-aggiornamento-2026-07-17.md", "sources/riscossione-ader-aggiornamento-istituzionale-2026-07-17.md", "sources/sanzioni-amministrative-tributarie-aggiornamento-2026-07-18.md"]
+source_refs: ["sources/processo-tributario-dlgs-175-2024-aggiornamento-2026-07-18.md", "sources/autotutela-adesione-deflativi-aggiornamento-2026-07-29.md", "sources/accertamento-contraddittorio-compliance-aggiornamento-2026-07-17.md", "sources/riscossione-ader-aggiornamento-istituzionale-2026-07-17.md", "sources/sanzioni-amministrative-tributarie-aggiornamento-2026-07-18.md"]
 book_refs: ["m-fc02-agenzie-fiscali", "il-metodo-bando"]
-confidence: 0.88
-updated_at: 2026-07-18T00:00:00+02:00
+confidence: 0.91
+updated_at: 2026-07-29T20:15:00+02:00
 created_at: 2026-07-18T00:00:00+02:00
 review_required: true
 canonical: true
@@ -20,14 +20,14 @@ draft_stage: revised-editorial-draft
 module_code: M-FC02
 module_family: funzioni-centrali
 companion_to: il-metodo-bando
-last_compiled_from: ["wiki/sources/processo-tributario-dlgs-175-2024-aggiornamento-2026-07-18.md", "wiki/sources/accertamento-contraddittorio-compliance-aggiornamento-2026-07-17.md", "wiki/sources/riscossione-ader-aggiornamento-istituzionale-2026-07-17.md", "wiki/sources/sanzioni-amministrative-tributarie-aggiornamento-2026-07-18.md", "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md", "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/05a-sanzioni-amministrative-reati-tributari.md", "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader.md"]
+last_compiled_from: ["wiki/sources/processo-tributario-dlgs-175-2024-aggiornamento-2026-07-18.md", "wiki/sources/autotutela-adesione-deflativi-aggiornamento-2026-07-29.md", "wiki/sources/accertamento-contraddittorio-compliance-aggiornamento-2026-07-17.md", "wiki/sources/riscossione-ader-aggiornamento-istituzionale-2026-07-17.md", "wiki/sources/sanzioni-amministrative-tributarie-aggiornamento-2026-07-18.md", "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md", "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/05a-sanzioni-amministrative-reati-tributari.md", "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader.md", "wiki/books/moduli/m-fc02-agenzie-fiscali/planning/02-matrice-copertura-didattica.md"]
 ---
 
 # Tutela e processo tributario
 
 ## Apertura editoriale
 
-Ricevere un atto non significa avere davanti un'unica strada. Il destinatario puo chiedere all'amministrazione di riesaminare il proprio operato, utilizzare uno strumento deflativo quando previsto, impugnare l'atto davanti al giudice e, se serve, domandare una misura cautelare. Queste vie possono comunicare, ma hanno autorita, presupposti, effetti e tempi diversi.
+Di fronte a un atto tributario non esiste una sola forma di tutela. Il destinatario puo chiedere all'amministrazione di riesaminarlo, ricorrere a uno strumento deflativo quando previsto oppure impugnarlo davanti al giudice. Se l'attesa della decisione espone a un pregiudizio, puo anche chiedere una misura cautelare. Sono percorsi collegati, ma cambiano l'autorita competente, i presupposti, gli effetti e i tempi.
 
 Il capitolo usa il Testo unico della giustizia tributaria approvato con D.Lgs. 175/2024, applicabile dal 1 gennaio 2026 e coordinato con gli interventi ufficiali acquisiti fino all'audit del 18 luglio 2026. Non riproduce termini numerici o regole telematiche mobili: insegna la sequenza e segnala dove la versione vigente deve essere aperta.
 
@@ -63,7 +63,7 @@ Al termine devi saper:
 | Strumento deflativo | Prevenire o definire la controversia secondo legge. | Parti e ufficio; talvolta giudice. | Accordo o definizione con effetti tipizzati. |
 | Processo | Decisione giurisdizionale sulla domanda. | Corte di giustizia tributaria e giudici delle impugnazioni. | Pronuncia cautelare o sentenza. |
 
-L'autotutela non e' un ricorso. Un'istanza amministrativa non trasferisce la decisione a un giudice e non produce, per il solo deposito, gli effetti processuali del ricorso. Gli strumenti deflativi non sono una categoria indistinta: ciascuno richiede la fattispecie e la disciplina vigente. Il processo, infine, non e' una prosecuzione interna dell'istruttoria dell'ufficio: apre un rapporto davanti a un organo giurisdizionale.
+L'autotutela non e' un ricorso. Un'istanza amministrativa non trasferisce la decisione a un giudice e non produce, per il solo deposito, gli effetti processuali del ricorso. Gli strumenti deflativi non sono una categoria indistinta: ciascuno richiede la fattispecie e la disciplina vigente. Il processo non prosegue l'istruttoria interna dell'ufficio: porta la controversia davanti a un organo giurisdizionale.
 
 **Esempio.** Il contribuente segnala all'ufficio un evidente errore di persona e, nello stesso tempo, valuta l'impugnazione. L'istanza puo sollecitare il riesame, ma non autorizza a ignorare la tutela giurisdizionale e le sue condizioni.
 
@@ -77,14 +77,40 @@ Il riesame in autotutela consente all'amministrazione di valutare la legittimita
 
 Gli strumenti deflativi mirano a prevenire, ridurre o chiudere la controversia nei casi previsti. Adesione, definizioni e conciliazione non sono sinonimi. Per le sanzioni, ravvedimento e definizione seguono inoltre la disciplina illustrata nel capitolo 5a: [[books/moduli/m-fc02-agenzie-fiscali/chapters/05a-sanzioni-amministrative-reati-tributari#8. Ravvedimento operoso]].
 
-La risposta d'esame usa quattro domande:
+Per scegliere l'istituto corretto, la risposta d'esame deve affrontare quattro domande:
 
 1. in quale fase si trova la vicenda?
 2. quale istituto e' previsto per quell'atto?
 3. chi ha il potere di decidere o accordarsi?
 4. quali effetti produce sul rapporto e sul processo?
 
-Non si inventano disponibilita del credito, riduzioni o termini. Se la traccia non offre dati sufficienti, si descrive il metodo e si condiziona l'esito alla verifica della norma vigente.
+Disponibilita del credito, riduzioni e termini non si possono ricavare per intuizione. Quando la traccia non offre dati sufficienti, si espone il metodo e si subordina l'esito alla verifica della norma vigente.
+
+La disciplina consolidata distingue quattro istituti che, in una risposta d'esame, devono restare separati:
+
+| Istituto | Fase e soggetti | Funzione | Effetto da verificare |
+| --- | --- | --- | --- |
+| Autotutela obbligatoria | Riesame dell'amministrazione nelle ipotesi tipizzate di manifesta illegittimita. | Rimuovere in tutto o in parte l'atto o l'imposizione quando ricorrono i presupposti di legge. | Limiti, provvedimento ed effetti sul rapporto; l'istanza non sostituisce il ricorso. |
+| Autotutela facoltativa | Riesame dell'amministrazione fuori dalle ipotesi obbligatorie. | Valutare un atto o un'imposizione illegittimi o infondati secondo la disciplina vigente. | Esercizio del potere ed eventuale rimozione, senza sospensioni automatiche. |
+| Accertamento con adesione | Procedimento tipizzato tra ufficio e contribuente nella fase ammessa. | Definire la pretesa mediante contraddittorio e adesione. | Perfezionamento, pagamento ed effetti previsti dal D.Lgs. 218/1997 vigente. |
+| Acquiescenza | Condotta del contribuente dopo l'atto, senza impugnazione, alle condizioni di legge. | Accettare la pretesa secondo il regime applicabile. | Stabilizzazione e trattamento legale; non e' un accordo istruttorio con l'ufficio. |
+
+La conciliazione appartiene invece al giudizio pendente ed e' sviluppata nella sezione 10. La mappa completa e' tracciata nella source [[sources/autotutela-adesione-deflativi-aggiornamento-2026-07-29#Mappa didattica]].
+
+### La sequenza del processo in una pagina
+
+Una controversia tributaria si ricostruisce con una catena di controlli:
+
+1. qualificare rapporto, atto, domanda e possibile giudice;
+2. individuare corte competente, parti e difesa necessaria;
+3. formulare fatti, motivi, conclusioni e documenti del ricorso;
+4. notificare, depositare e costituirsi secondo le regole vigenti;
+5. organizzare allegazioni e prova e, se necessario, chiedere cautela;
+6. verificare vicende del processo e possibili definizioni concordate;
+7. arrivare a trattazione, decisione e regolazione delle spese;
+8. scegliere l'eventuale impugnazione e distinguere giudicato, esecuzione e ottemperanza.
+
+Questa sequenza segue la mappa del TU 175: ordinamento e organi negli artt. 1-39; disciplina generale negli artt. 40-58; atti e introduzione del giudizio negli artt. 59-73; istruzione, vicende, cautela e conciliazione negli artt. 74-88; impugnazioni negli artt. 89-105; esecuzione e ottemperanza negli artt. 106-111. I blocchi orientano la consultazione, ma ogni regola puntuale richiede l'apertura dell'articolo vigente.
 
 ## 3. Giurisdizione tributaria e organi
 
@@ -93,7 +119,7 @@ La giurisdizione risponde alla domanda: quale giudice puo decidere quella contro
 Il TU 175 distingue ordinamento degli organi e disciplina del processo. Le Corti di giustizia tributaria operano nei gradi previsti; le impugnazioni successive seguono funzione e competenza proprie. Le modifiche organizzative del 2026 non vanno trasformate automaticamente in modifiche di ricorso, prova o cautela.
 
 La competenza individua, dentro la giurisdizione tributaria, la corte che deve trattare la causa. La risposta corretta espone il criterio applicabile senza scegliere una sede soltanto perche vicina al contribuente.
-Il perimetro qui insegnato e' selettivo: controversie tributarie e atti attribuiti dalla legge alle Corti. Restano fuori le controversie che, pur nate nella riscossione di una somma pubblica, appartengono a un'altra giurisdizione. La diagnosi precede sempre la scelta del giudice.
+Il perimetro comprende le controversie tributarie e gli atti che la legge attribuisce alle Corti. Una lite puo nascere dalla riscossione di una somma pubblica e appartenere comunque a un'altra giurisdizione. Per questo si qualifica prima la controversia e solo dopo si individua il giudice.
 
 | Organo | Funzione | Controllo da eseguire |
 | --- | --- | --- |
@@ -178,7 +204,7 @@ Non sono riportati termini numerici. In prova, se non richiesti, si dice che not
 
 ## 7. Prova, allegazione e poteri della corte
 
-La motivazione dell'atto espone presupposti e ragioni della pretesa. L'allegazione introduce nel processo i fatti rilevanti. La prova offre gli elementi per verificarli. Le presunzioni sono un modo di inferire un fatto da altri fatti secondo requisiti e disciplina applicabili. I poteri istruttori consentono alla corte le attivita previste dal TU. Cinque concetti, cinque funzioni.
+La motivazione dell'atto espone i presupposti e le ragioni della pretesa. Con l'allegazione, le parti introducono nel processo i fatti rilevanti; con la prova, forniscono gli elementi per verificarli. Le presunzioni permettono di risalire da fatti noti a un altro fatto, nei limiti della disciplina applicabile. I poteri istruttori definiscono invece le attivita consentite alla corte. Sono concetti collegati, non intercambiabili.
 
 La disposizione specifica del TU 175 sull'onere della prova, da leggere nella versione coordinata vigente, impone un riparto funzionale prudente:
 
@@ -217,6 +243,7 @@ La domanda deve collegare:
 3. pericolo concreto derivante dall'attesa;
 4. documenti che rendono verificabili ragioni e pregiudizio;
 5. misura richiesta e rapporto di proporzione.
+
 | Piano della cautela | Contenuto | Conseguenza |
 | --- | --- | --- |
 | Ragioni del ricorso | Elementi che rendono non pretestuosa la contestazione dell'atto. | Consentono la valutazione cautelare senza decidere definitivamente il merito. |
@@ -256,9 +283,9 @@ La sospensione del processo arresta temporaneamente il suo corso per una causa p
 
 ## 10. Conciliazione giudiziale
 
-La conciliazione e' uno strumento di definizione della controversia dentro il quadro processuale. Le parti compongono la lite nei casi e modi previsti; la corte esercita la funzione attribuita dal TU. Non e' autotutela, perche non consiste nel riesame unilaterale dell'ufficio; non e' sentenza sul merito, perche deriva dalla composizione disciplinata.
+La conciliazione e' uno strumento di definizione della controversia dentro il quadro processuale. Le parti compongono la lite nei casi e modi previsti; la corte esercita la funzione attribuita dal TU. Non e' autotutela, perche non consiste nel riesame unilaterale dell'ufficio; non e' sentenza sul merito, perche deriva dalla composizione disciplinata. La distinzione rispetto ad autotutela, adesione e acquiescenza e' consolidata in [[sources/autotutela-adesione-deflativi-aggiornamento-2026-07-29]].
 
-Elementi da controllare: controversia conciliabile, soggetti legittimati, contenuto dell'accordo, momento processuale, perfezionamento ed effetti su giudizio, tributo e sanzioni. Nessun elemento va presunto dalla sola disponibilita informale delle parti.
+Prima di parlare di conciliazione occorre verificare se la controversia sia conciliabile, chi possa partecipare, che cosa contenga l'accordo, in quale momento intervenga e come si perfezioni. Vanno poi distinti gli effetti sul giudizio, sul tributo e sulle sanzioni. La disponibilita informale delle parti, da sola, non basta.
 | Profilo | Presupposto-tipo | Conseguenza |
 | --- | --- | --- |
 | Ammissibilita | Controversia e fase nelle quali il TU consente la conciliazione. | Si apre il percorso definitorio, non una trattativa priva di regole. |
@@ -272,7 +299,7 @@ Elementi da controllare: controversia conciliabile, soggetti legittimati, conten
 
 ## 11. Trattazione, decisione e spese
 
-La trattazione porta la causa alla decisione secondo le forme previste: camera di consiglio o udienza, partecipazione anche con strumenti consentiti, discussione e deliberazione. Il processo telematico non elimina oralita o contraddittorio: ne disciplina le modalita.
+La causa arriva alla decisione attraverso le forme di trattazione previste: camera di consiglio o udienza, eventuale partecipazione con gli strumenti consentiti, discussione e deliberazione. Il processo telematico non elimina oralita o contraddittorio: ne disciplina le modalita.
 
 La sentenza identifica corte, parti, domanda, motivi, ricostruzione rilevante e decisione. Puo accogliere o respingere nei limiti del giudizio e produrre gli effetti stabiliti. “Ricorso accolto” non dice da solo quali somme siano dovute, quali atti conseguenti servano o se vi siano restituzioni.
 
@@ -304,6 +331,7 @@ L'esecuzione traduce la pronuncia in comportamenti dovuti: pagamento, rimborso, 
 | Ottemperanza | Come si ottiene l'attuazione rimasta ineseguita? |
 
 **Errore tipico:** scambiare l'ottemperanza per un nuovo ricorso contro l'atto originario. Il suo centro e' l'attuazione della decisione.
+
 ## Caso completo - Dall'atto all'esito
 
 ### La traccia
@@ -350,7 +378,7 @@ La vicenda richiede di separare riesame amministrativo e tutela giurisdizionale.
 
 **Domanda.** Illustri la sequenza essenziale del processo tributario.
 
-**Risposta guida.** Si verifica anzitutto giurisdizione e competenza, poi si identificano parti e atto impugnabile. Il ricorso espone fatti, motivi e domanda ed e' notificato e depositato secondo il processo telematico; le parti si costituiscono e producono gli elementi di prova. Se ricorrono i presupposti, si chiede tutela cautelare. Il giudizio puo conoscere vicende come sospensione, interruzione, estinzione o conciliazione. Trattazione e sentenza conducono alle impugnazioni previste. La decisione e' infine attuata; l'ottemperanza tutela contro la mancata esecuzione.
+**Risposta guida.** Si verifica anzitutto giurisdizione e competenza, poi si identificano parti e atto impugnabile. Il ricorso espone fatti, motivi e domanda ed e' notificato e depositato secondo il processo telematico; le parti si costituiscono e producono gli elementi di prova. Se ricorrono i presupposti, si chiede tutela cautelare. Il giudizio puo conoscere vicende come sospensione, interruzione, estinzione o conciliazione. Trattazione e sentenza conducono alle impugnazioni previste. La decisione deve poi essere attuata; se l'esecuzione manca, si valuta il giudizio di ottemperanza.
 
 ## Domande-trappola
 
@@ -459,6 +487,7 @@ Griglia di autovalutazione:
 ## Riferimenti consolidati
 
 - [[sources/processo-tributario-dlgs-175-2024-aggiornamento-2026-07-18]]
+- [[sources/autotutela-adesione-deflativi-aggiornamento-2026-07-29]]
 - [[sources/accertamento-contraddittorio-compliance-aggiornamento-2026-07-17]]
 - [[sources/riscossione-ader-aggiornamento-istituzionale-2026-07-17]]
 - [[sources/sanzioni-amministrative-tributarie-aggiornamento-2026-07-18]]
@@ -470,7 +499,7 @@ Griglia di autovalutazione:
 
 - Verificare articolo per articolo sul TU 175/2024 coordinato con correttivo 2025 e interventi 2026 termini, forme, processo telematico, prova, cautela, conciliazione, spese e impugnazioni.
 - Le modifiche organizzative del 2026 non sono state trasformate automaticamente in regole processuali.
-- Autotutela e strumenti deflativi sono descritti per funzione: condizioni ed effetti puntuali richiedono le source dedicate e il testo vigente.
+- Autotutela obbligatoria e facoltativa, adesione, acquiescenza e conciliazione sono distinti per funzione e fase; termini, riduzioni, perfezionamento, cause di esclusione e impugnabilita dei dinieghi richiedono verifica sul testo vigente.
 - Coordinare ogni caso AdER con natura del credito, atto e vizio, senza attribuire automaticamente giurisdizione o legittimazione.
 - Sottoporre il capitolo a review umana processual-tributaria prima della pubblicazione.
 - Il capitolo ha finalita didattica e concorsuale e non costituisce consulenza tributaria o processuale.

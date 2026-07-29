@@ -1,0 +1,281 @@
+VOL-10 – Tecnico-ingegneristico, territorio e lavori pubblici
+Modulo M-TR03 – Tecnico-ingegneristico
+0. Decisione editoriale di volume
+
+VOL-10 è il volume specialistico per M-TR03 e copre anche i profili tecnici presenti in M-FC01 Ministeri/PCM e M-FL01 Comuni quando il bando è sostanzialmente tecnico-ingegneristico, urbanistico, edilizio o lavori pubblici. La matrice file 09 assegna a VOL-10: scienza/tecnica delle costruzioni, urbanistica, edilizia, lavori pubblici, sicurezza, BIM/GIS, NTC, sismica, infrastrutture, computi e collaudi.
+
+Il volume va costruito seguendo il workflow obbligatorio in 6 fasi: perimetro, bandi, materie, copertura, decisione editoriale, compatibilità commerciale.
+
+FASE 1 – Perimetro modulo
+Campo	Decisione
+Famiglia	Trasversali Alta Specializzazione
+Codice principale	M-TR03
+Volume	VOL-10 – Tecnico-ingegneristico, territorio e lavori pubblici
+Profili M-TR03	1. Ingegnere civile/edile; 2. Architetto/urbanista; 3. Geometra/istruttore tecnico; 4. Specialista trasporti/infrastrutture
+Profili assorbiti dal volume	M-FC01 tecnico-ingegneristico; M-FL01 istruttore/funzionario tecnico, quando il bando richiede programma tecnico autonomo
+Priorità matrice	Altissima per geometra/istruttore tecnico; Alta per ingegnere civile/edile e architetto/urbanista; Media per infrastrutture
+Materie base solo richiamate	B-PA01, B-PA02, B-PA03, B-PA04, B-PA05, B-PA06, B-PA07, B-PA08, B-PA09, B-PA10, B-PA11
+Moduli confinanti	VOL-09 appalti/PNRR/procurement; VOL-11 ambiente/protezione civile; VOL-08 ICT/dati; VOL-02 enti locali
+Esclusi	Sanità tecnica → VOL-07; VVF tecnico-operativo → VOL-12; ambiente avanzato/VIA/VAS/AIA/rifiuti → VOL-11; procurement avanzato/RUP/PNRR → VOL-09
+
+La matrice file 09 attribuisce a M-TR03 quattro profili tecnici con materie specialistiche distinte: costruzioni/NTC/sismica/geotecnica, urbanistica/paesaggio/espropri/GIS-BIM, computi/capitolati/contabilità lavori/collaudi, infrastrutture/trasporti/monitoraggio opere.
+
+FASE 2 – Campione bandi
+2.1 Stato audit matrice
+Dato	Stato
+URL ufficiali già mappati per M-TR03	3
+Target matrice	6
+Gap	3
+Stato operativo	Da espandere a 5–6 bandi ufficiali
+
+Il gap va dichiarato: la matrice dispone di 3 fonti mappate su target 6 per M-TR03.
+
+2.2 Campione di lavoro
+#	Fonte	Profilo/area	Evidenza usata	Stato
+1	MIT-FUNZ	Funzionari tecnici ministeriali	Profili tecnici, infrastrutture, sicurezza, appalti, anticorruzione/privacy	Matrice
+2	ROMA-ISTR	Istruttori comunali, anche tecnici	TUEL, tecnico comunale, edilizia/lavori pubblici, contratti	Matrice
+3	VVF-PROG	Programma tecnico avanzato	Costruzioni, impianti, sicurezza, ordinamento tecnico	Matrice
+4	Comune di Mondovì 2026	Funzionario tecnico urbanistica	Funzionario tecnico presso servizio urbanistica; concorso aperto luglio-agosto 2026	Web integrativo [DA VERIFICARE]
+5	Regione Piemonte 2026	Istruttore tecnico/geometra	4 posti di istruttore tecnico, area istruttori	Web integrativo [DA VERIFICARE]
+6	Città Metropolitana di Firenze 2026	Istruttori tecnici geometra	12 istruttori tecnici con funzioni di geometra; prova scritto-grafica e orale	Web integrativo [DA VERIFICARE]
+7	Comune di Borso del Grappa 2026	Funzionario tecnico urbanistica-edilizia privata	Funzionario tecnico area urbanistica-edilizia privata	Web integrativo [DA VERIFICARE]
+8	Comune di Mirano 2026	Dirigente tecnico edilizia/territorio/sicurezza/ambiente	Profilo dirigenziale tecnico con lauree tecniche e abilitazione professionale	Web integrativo solo per verticalità alta [DA VERIFICARE]
+
+Decisione Fase 2: il gap operativo è colmato con fonti web, ma i nuovi bandi devono essere acquisiti nel prossimo aggiornamento del file 09. Le frequenze restano indicative, non statistiche editoriali definitive.
+
+FASE 3 – Materie estratte
+Materia normalizzata	Fonte matrice/bando	Profili interessati	Frequenza/evidenza	Tipo prova prevalente
+Scienza e tecnica delle costruzioni	Matrice M-TR03	Ingegnere civile/edile; infrastrutture	Matrice forte; VVF-PROG come fonte tecnica	Quiz tecnico, scritto tecnico, orale
+NTC, sismica, geotecnica	Matrice M-TR03	Ingegnere; infrastrutture	Matrice forte; normativa specialistica	Orale tecnico, caso progettuale
+Urbanistica e pianificazione	Matrice + bandi urbanistica	Architetto/urbanista; tecnico comunale	Matrice + Mondovì/Borso/Mirano	Caso, scritto, orale
+Edilizia privata e titoli abilitativi	Matrice + bandi comunali	Architetto; geometra; tecnico comunale	Matrice + bandi comunali	Caso SUE, domanda tecnica
+DPR 380/2001	Matrice	Architetto; geometra; tecnico comunale	Alta nella matrice	Quiz, caso, orale
+Lavori pubblici tecnici	Matrice	Tutti i profili tecnici	Alta nella matrice	Caso operativo
+Progettazione, direzione lavori, collaudo	Matrice + D.Lgs. 36/2023 tecnico	Ingegnere; geometra; infrastrutture	Alta; collegamento a VOL-09 per gara	Caso, orale
+Computi, capitolati, contabilità lavori	Matrice	Geometra/istruttore tecnico	Altissima per profilo geometra	Prova pratica/scritto-grafica
+Manutenzioni, patrimonio, catasto	Matrice	Geometra; tecnico comunale	Media-alta	Caso ufficio tecnico
+Infrastrutture e trasporti	Matrice	Specialista trasporti/infrastrutture	Media; campione da rafforzare	Orale tecnico
+Strade, ponti, ferrovie, aeroporti, porti	Matrice	Specialista infrastrutture	Media; fonte MIT/CSLP	Caso tecnico
+BIM/GIS	Matrice VOL-10	Tutti i profili tecnici, con intensità variabile	Parziale	Box, appendice
+Sicurezza cantieri	Matrice + D.Lgs. 81/2008	Ingegnere; geometra; infrastrutture	Alta nei profili tecnici	Quiz, orale, caso
+Ambiente nei lavori	Matrice come interfaccia	Architetto; infrastrutture	Parziale	Solo interfaccia; rinvio VOL-11
+Appalti/RUP/PNRR	B-PA06 + VOL-09	Tutti	Base nel VOL-01; avanzato fuori perimetro	Rinvio VOL-09
+Delta oltre matrice
+Delta	Decisione
+BIM operativo dopo DM 560/2017 e DM 312/2021	Appendice/box specialistico, non capitolo autonomo salvo bando BIM-heavy
+Linee guida ponti/viadotti 2022	Appendice infrastrutture
+Allegati tecnici del D.Lgs. 36/2023 su progettazione, direzione lavori e collaudo	Capitolo applicativo tecnico, con rinvio a VOL-09 per gara/procedura
+Regimi edilizi SCIA/CILA/agibilità aggiornati	Capitolo edilizia/SUE
+Norme regionali urbanistiche	Appendice di metodo: atlante da aggiornare, non trattazione regione per regione
+FASE 4 – Copertura
+Materia	Stato	Decisione
+Diritto costituzionale e pubblico	COPERTA-BASE B-PA01	Solo richiamo VOL-01
+Diritto amministrativo generale	COPERTA-BASE B-PA02	Applicazione a SUE, edilizia, conferenza servizi
+Pubblico impiego	COPERTA-BASE B-PA03	Solo profili tecnici e responsabilità di ruolo
+Reati PA e responsabilità	COPERTA-BASE B-PA04	Richiamo nei casi su abusi, collaudi, atti
+Contabilità pubblica essenziale	COPERTA-BASE B-PA05	Solo collegamento a contabilità lavori
+Contratti pubblici base	COPERTA-BASE B-PA06	Richiamo; lavori pubblici tecnici nel modulo; gara avanzata in VOL-09
+Privacy/CAD/informatica base	COPERTA-BASE B-PA07/B-PA09	GIS/BIM come delta tecnico
+Redazione atti e casi base	COPERTA-BASE B-PA11	Delta: verbali, sopralluoghi, relazioni tecniche, computi
+Costruzioni, NTC, sismica, geotecnica	COPERTA-MODULO	Capitoli 3–4
+Urbanistica, edilizia, titoli abilitativi	COPERTA-MODULO	Capitoli 5–6
+Lavori pubblici, progettazione, DL, collaudo	COPERTA-MODULO	Capitoli 7–9
+Computi, capitolati, contabilità lavori	COPERTA-MODULO	Capitolo 10
+Infrastrutture e manutenzione opere	COPERTA-MODULO	Capitolo 11
+BIM/GIS	PARZIALE	Capitolo 12 + appendice
+Ambiente avanzato, VIA/VAS/AIA/rifiuti	FUORI-PERIMETRO	VOL-11 / M-TR04
+Procurement, PNRR, RUP avanzato	FUORI-PERIMETRO	VOL-09 / M-TR02
+ICT/dati avanzati	FUORI-PERIMETRO	VOL-08 / M-TR01
+
+Le aree B-PA del libro base non possono diventare capitoli autonomi dei moduli: il template v4 vieta espressamente la duplicazione delle 11 aree comuni.
+
+FASE 5 – Decisioni di collocazione
+Capitoli principali
+Mappa dei concorsi tecnici nella PA.
+Ufficio tecnico pubblico, procedimento e responsabilità tecnica.
+Scienza e tecnica delle costruzioni per concorsi PA.
+NTC, sismica, geotecnica e sicurezza strutturale.
+Urbanistica, governo del territorio e pianificazione.
+Edilizia privata, SUE, titoli abilitativi e vigilanza.
+Progettazione di opere pubbliche: dal quadro esigenziale al progetto esecutivo.
+Direzione lavori, esecuzione, contabilità lavori.
+Collaudo, verifica, manutenzione e gestione dell’opera.
+Computi, capitolati, prezziari, SAL e documenti tecnici.
+Infrastrutture, strade, ponti, viabilità e monitoraggio.
+BIM, GIS, rilievi, catasto e patrimonio pubblico.
+Laboratorio prove tecniche: scritto-grafica, caso, orale, sopralluogo.
+Appendici
+
+A. Tavole NTC/sismica/geotecnica essenziali.
+B. Atlante urbanistica-edilizia: titoli, atti, errori.
+C. Computo, capitolato, SAL, collaudo: modelli guidati.
+D. BIM/GIS e digitalizzazione delle opere pubbliche.
+E. Infrastrutture e ponti: checklist di rischio e monitoraggio.
+F. Piano 30/60/90 giorni per profili tecnici.
+
+Proposte di modifica al VOL-01
+
+Nessuna.
+Le materie trasversali restano nel VOL-01; VOL-10 sviluppa solo il delta tecnico.
+
+Rinvii
+Tema	Rinvio
+Gare, RUP, PNRR, digital procurement, MEPA/Consip	VOL-09 / M-TR02
+Ambiente, VIA, VAS, AIA, AUA, rifiuti, bonifiche	VOL-11 / M-TR04
+CAD, firme, protocollo, privacy, informatica base	VOL-01 / B-PA07-B-PA09
+Ordinamento comunale/TUEL generale	VOL-02 / M-FL01
+Carriere tecniche VVF	VOL-12 / M-SP02
+ICT, dati, cybersecurity	VOL-08 / M-TR01
+FASE 6 – Scheda compatibilità commerciale
+Pacchetto	Per chi	Comprare
+STANDARD	Ingegnere, architetto, geometra, funzionario tecnico, istruttore tecnico con programma tecnico prevalente	VOL-01 + VOL-10
+VERTICALE ENTI LOCALI	Tecnico comunale/provinciale con forte TUEL, atti locali, contabilità locale, funzioni comunali	VOL-01 + VOL-02 + VOL-10
+VERTICALE APPALTI	Tecnico che fa soprattutto gare, RUP, PNRR, procurement, affidamenti lavori	VOL-01 + VOL-09 + VOL-10
+VERTICALE AMBIENTE	Tecnico con programma esteso su ambiente, VIA/VAS/AIA, rifiuti, bonifiche, protezione civile	VOL-01 + VOL-10 + VOL-11
+PREMIUM	Non previsto per M-TR03, salvo concorsi VVF o carriere speciali	VOL-12 solo se il bando è carriere speciali
+
+Non serve comprare: VOL-03, VOL-04, VOL-05, VOL-06, VOL-07, VOL-08 e VOL-12.
+VOL-02, VOL-09 o VOL-11 servono solo quando il bando richiede in modo autonomo enti locali, appalti/PNRR o ambiente.
+
+OUTPUT A – Mappa Fonti Specialistiche
+1. Normativa primaria di settore
+Fonte	Rilevanza per VOL-10	Nota anti-duplicazione
+D.P.R. 6 giugno 2001, n. 380 – Testo unico edilizia	Fonte cardine per edilizia privata, SUE, titoli abilitativi, responsabilità, agibilità, vigilanza	Specialistica VOL-10
+L. 17 agosto 1942, n. 1150 – Legge urbanistica	Base storica per pianificazione, piani attuativi, convenzioni urbanistiche	Specialistica urbanistica
+D.Lgs. 25 novembre 2016, n. 222 – regimi amministrativi SCIA/silenzio/CILA	Utile per titoli edilizi e regimi amministrativi degli interventi	Specialistica edilizia; richiama B-PA02 solo per SCIA generale
+D.Lgs. 22 gennaio 2004, n. 42 – Codice beni culturali e paesaggio	Paesaggio, vincoli, autorizzazioni e compatibilità paesaggistica	Interfaccia VOL-10/VOL-06; non manuale MiC completo
+D.P.R. 8 giugno 2001, n. 327 – Espropriazione per pubblica utilità	Opere pubbliche, vincoli preordinati, indennità, procedure ablative	Già censito nel VOL-01; qui solo applicazione tecnica
+D.Lgs. 9 aprile 2008, n. 81 – sicurezza sul lavoro	Cantieri temporanei e mobili, ruoli, coordinamento sicurezza, PSC/POS	Specialistica per cantieri; non sicurezza generica
+D.Lgs. 31 marzo 2023, n. 36 – Codice contratti pubblici	Progettazione, direzione lavori, esecuzione, collaudo, allegati tecnici	Base nel VOL-01/VOL-09; VOL-10 usa solo il delta tecnico
+D.Lgs. 31 dicembre 2024, n. 209 – correttivo codice contratti	Aggiornamenti al codice, rilevanti per lavori pubblici	Cfr. VOL-09 per impianto appalti
+2. Normativa secondaria e regolamenti
+Fonte	Uso editoriale
+D.M. 17 gennaio 2018 – Norme Tecniche per le Costruzioni	Capitoli 3–4: sicurezza strutturale, materiali, azioni, progettazione, collaudo; la Circolare 21 gennaio 2019 n. 7 fornisce istruzioni applicative
+D.M. MIT 1 dicembre 2017, n. 560	BIM e metodi/strumenti elettronici per edilizia e infrastrutture; appendice D
+D.M. MIT 2 agosto 2021, n. 312	Modifiche al D.M. 560/2017 su progressiva introduzione BIM
+Allegato II.14 al D.Lgs. 36/2023	Direzione lavori, fase esecutiva, collaudo, verifica di conformità
+Linee guida ponti e viadotti 2022 – Consiglio Superiore LL.PP.	Classificazione rischio, valutazione sicurezza e monitoraggio ponti
+Regolamenti edilizi comunali e regolamenti regionali	Applicazione pratica SUE, vigilanza, titoli edilizi
+Prezzari regionali e MIT	Computi, capitolati, contabilità lavori
+3. Contrattazione collettiva
+Fonte	Uso
+CCNL Funzioni Locali	Profili di istruttore tecnico, funzionario tecnico, EQ tecnica, tecnici comunali/provinciali/regionali
+CCNL Funzioni Centrali	Profili tecnici ministeriali, MIT, infrastrutture e amministrazioni centrali
+Contrattazione integrativa ente	Famiglie professionali tecniche, mansioni, progressioni, reperibilità, responsabilità specifiche
+ARAN	Fonte ufficiale per CCNL e orientamenti applicativi; il file 04 censisce i CCNL ARAN come fonte base del sistema
+
+Nota: il CCNL Area Funzioni Locali 2022–2024 risulta sottoscritto il 23 febbraio 2026 in fonte ARAN; va aggiornato nel catalogo base prima della redazione finale.
+
+4. Soft law e linee guida
+Fonte	Uso
+Consiglio Superiore dei Lavori Pubblici	NTC, circolari, pareri tecnici, ponti e viadotti
+MIT	BIM, opere pubbliche, infrastrutture, normativa tecnica
+ANAC	Contratti pubblici, trasparenza, digitalizzazione, ma rinvio principale a VOL-09
+Conferenza Unificata / Regioni	Regolamenti edilizi tipo, modulistica edilizia, norme regionali urbanistiche [DA VERIFICARE]
+ISPRA/SNPA	Solo se il bando tecnico entra in ambiente; altrimenti rinvio VOL-11
+Catasto/Agenzia Entrate	Catasto, patrimonio, mappe, visure e dati catastali: uso tecnico-operativo [DA VERIFICARE]
+5. Giurisprudenza rilevante
+Area	Collocazione
+Titoli edilizi, SCIA, CILA, permesso di costruire	Capitolo 6; selezione sentenze Consiglio di Stato/TAR [DA VERIFICARE]
+Abusi edilizi e ordine di demolizione	Capitolo 6; selezione giurisprudenza [DA VERIFICARE]
+Paesaggio e compatibilità paesaggistica	Capitolo 5–6; raccordo D.Lgs. 42/2004 [DA VERIFICARE]
+Espropriazione e vincoli urbanistici	Capitolo 5; rinvio CPA/VOL-01 per processo
+Direzione lavori, collaudo, responsabilità tecnica	Capitoli 8–9; selezione Corte conti/Cassazione/CdS [DA VERIFICARE]
+Appalti lavori e riserve	Rinvio VOL-09, con box tecnico su DL/contabilità
+
+Regola: non inventare estremi. Ogni sentenza va acquisita da banca dati ufficiale o repertorio validato prima della redazione.
+
+6. Fonti operative
+Fonte	Uso
+inPA	Bandi tecnici, allegati, prove, requisiti
+MIT	NTC, BIM, infrastrutture, linee guida
+Consiglio Superiore LL.PP.	Pareri tecnici, NTC, ponti
+Gazzetta Ufficiale	Norme tecniche, circolari, decreti
+Normattiva	Testo vigente di norme primarie
+Portali comunali/regionali	Regolamenti edilizi, SUE, piani urbanistici, prezzari
+SIT/GIS regionali e comunali	Esempi operativi per GIS, territorio, patrimonio
+Agenzia Entrate/Catasto	Catasto, mappe, dati immobiliari [DA VERIFICARE]
+ANAC/BDNCP	Solo per raccordo con appalti lavori; approfondimento in VOL-09
+7. Bandi-tipo
+ID	Fonte	Uso
+MIT-FUNZ	Matrice	Ministeri tecnici, infrastrutture, profili ingegneristici
+ROMA-ISTR	Matrice	Tecnico comunale, ufficio tecnico, urbanistica/lavori pubblici
+VVF-PROG	Matrice	Tecnica avanzata, costruzioni, impianti, sicurezza
+MONDOVI-URB-2026	Web integrativo	Urbanistica comunale
+PIEMONTE-TEC-2026	Web integrativo	Istruttore tecnico/geometra regionale
+CM-FIRENZE-GEOM-2026	Web integrativo	Geometra, prova scritto-grafica, area vasta
+BORSO-EDIL-2026	Web integrativo	Urbanistica-edilizia privata
+MIRANO-DIRTEC-2026	Web integrativo	Profilo tecnico alto, utile come confronto verticale
+8. Manualistica e dottrina
+Area	Manualistica da acquisire
+Tecnica costruzioni/NTC	Manuale NTC 2018 aggiornato; commentari tecnici; esercizi strutturali
+Urbanistica/edilizia	Manuale operativo edilizia e urbanistica; repertorio titoli abilitativi
+Lavori pubblici	Manuale tecnico su progettazione, direzione lavori, contabilità e collaudo
+Computi e capitolati	Manuale prezzari, computo metrico estimativo, SAL, contabilità lavori
+Sicurezza cantieri	Manuale operativo Titolo IV D.Lgs. 81/2008
+BIM/GIS	Manuale BIM PA, GIS per uffici tecnici, modellazione informativa
+Infrastrutture	Manuale ponti/viadotti, manutenzione stradale, monitoraggio opere
+
+Edizioni commerciali, ISBN e banche dati: [DA VERIFICARE] prima dell’acquisizione bibliografica.
+
+OUTPUT B – Indice del libro di testo
+Frontmatter – 2.600 parole
+Sezione	Contenuto
+Come usare VOL-01 + VOL-10	Richiamo alle aree B-PA e al delta tecnico
+A chi serve	Ingegneri, architetti, geometri, funzionari tecnici, istruttori tecnici, tecnici ministeriali e comunali
+Cosa non contiene	Appalti completi, diritto amministrativo generale, ambiente avanzato, ICT avanzato
+Mappa profilo-materia-prova	Ingegnere, architetto, geometra, infrastrutture
+Bando tecnico decodificato	MIT-FUNZ + bando comunale tecnico + geometra area vasta
+Piano 30/60/90 giorni	Percorso tecnico junior, tecnico urbanistico, tecnico infrastrutture
+
+Abbreviazioni profili: I ingegnere; A architetto/urbanista; G geometra/istruttore tecnico; T trasporti/infrastrutture; C tecnico comunale; M tecnico ministeriale.
+
+Capitoli – 28.600 parole
+#	Capitolo	Parole	Materia matrice	Profili	Frequenza/evidenza	Output tipici
+1	Il concorso tecnico nella PA	1.600	Mappa profili tecnici	I-A-G-T-C-M	4/4 profili M-TR03 + ponti M-FC01/M-FL01	Bando Decoder tecnico
+2	Ufficio tecnico pubblico, responsabilità e atti tecnici	2.000	Procedimento tecnico, sopralluoghi, relazioni	Tutti	Matrice + bandi comunali	Mappa ufficio-procedimento-atto
+3	Scienza e tecnica delle costruzioni per concorsi	2.500	Scienza/tecnica costruzioni	I-T	Matrice forte	Quiz tecnico, schema orale
+4	NTC, sismica, geotecnica e sicurezza strutturale	2.700	NTC, sismica, geotecnica	I-T	Matrice + NTC	Tavole operative
+5	Urbanistica e governo del territorio	2.400	Pianificazione, piani, vincoli	A-C-G	Matrice + bandi urbanistica	Caso piano/intervento
+6	Edilizia privata, SUE e titoli abilitativi	2.700	DPR 380/2001, autorizzazioni	A-G-C	Matrice + bandi edilizia	Caso CILA/SCIA/permesso
+7	Progettazione di opere pubbliche	2.300	Progettazione, PFTE, esecutivo	I-G-T-M	Matrice + D.Lgs. 36 tecnico	Flusso progetto
+8	Direzione lavori ed esecuzione	2.300	Direzione lavori, esecuzione	I-G-T	Matrice + Allegato II.14	Check DL
+9	Collaudo, verifica, manutenzione	2.100	Collaudo, manutenzione	I-G-T	Matrice	Scheda collaudo
+10	Computi, capitolati e contabilità lavori	2.500	Computi, capitolati, SAL	G-I-C	Altissima per geometra	Mini-computo, SAL
+11	Infrastrutture, viabilità, ponti e monitoraggio	2.400	Strade, ponti, trasporti	T-I-M	Matrice + linee guida ponti	Checklist rischio
+12	BIM, GIS, catasto e patrimonio pubblico	2.100	BIM/GIS, patrimonio, catasto	Tutti	Matrice VOL-10	Mappa dati-opera
+13	Laboratorio prove tecniche	2.300	Output specialistici	Tutti	Prove pratiche/scritto-grafiche	8 casi, simulazione orale, diario errori
+Appendici – 5.400 parole
+Appendice	Titolo	Parole	Motivazione matrice	Output
+A	NTC, sismica e geotecnica in tavole	1.000	NTC/sismica/geotecnica	Tavole di ripasso
+B	Urbanistica-edilizia: titoli, atti, errori	1.100	DPR 380, pianificazione, autorizzazioni	Griglia CILA/SCIA/permesso
+C	Computo, capitolato, SAL e collaudo	1.100	Computi, capitolati, collaudo	Modelli guidati
+D	BIM/GIS per la PA tecnica	900	BIM/GIS	Checklist dati-opera
+E	Ponti, strade e infrastrutture	800	Infrastrutture	Checklist rischio
+F	Piano 30/60/90 giorni tecnico	500	Metodo BANDO specialistico	Calendario studio
+
+Target complessivo: 36.600 parole.
+Nota: leggermente sopra target 35.000; in editing si può ridurre a 34.500 tagliando 500 parole dal frontmatter e 600 dal laboratorio.
+
+Aggiornamenti da recepire nella knowledge base
+File 09: aggiungere i bandi web integrativi usati per M-TR03.
+File 04: verificare aggiornamento CCNL Funzioni Locali e Funzioni Centrali.
+VOL-10: costruire archivio regionale di regolamenti edilizi/prezzari [DA VERIFICARE].
+Giurisprudenza: acquisire solo sentenze da fonti ufficiali o repertori validati.
+Cut-off normativo: verificare DPR 380/2001, D.Lgs. 36/2023, D.Lgs. 81/2008 e NTC prima della redazione finale.
+Checklist finale v4
+ Matrice file 09 usata come fonte primaria.
+ Workflow file 08 seguito in tutte le 6 fasi.
+ Fonti base non duplicate.
+ Materie B-PA solo richiamate.
+ Delta content rispettato.
+ Capitoli tracciati ai profili M-TR03 e ai ponti M-FC01/M-FL01 tecnici.
+ Appendici motivate da colonna 7 matrice o da fonti tecniche specialistiche.
+ Campione bandi dichiarato.
+ Gap bandi dichiarato: 3/6 matrice, gap 3.
+ Frequenze non inventate; evidenza indicata come matrice/web da consolidare.
+ Rinvii coerenti a VOL-01, VOL-02, VOL-09, VOL-11, VOL-12.
+ Pacchetto commerciale indicato.
+ “Cosa NON comprare” presente.
+ Dati incerti marcati [DA VERIFICARE].
+ Output A e Output B completi.
