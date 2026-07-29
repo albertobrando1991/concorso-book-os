@@ -230,7 +230,6 @@
 {"id":"conv-20260720100723-cjrc51","createdAt":"2026-07-20T10:07:23.390Z","scope":"manual-writer","route":"codex-mfl02-cap07-politiche-coesione-fondi-ue","l0Path":"l0\\conv-20260720100723-cjrc51.md","messageCount":1,"replyChars":567}
 {"id":"conv-20260720102949-4tyuqc","createdAt":"2026-07-20T10:29:49.558Z","scope":"manual-writer","route":"codex-mfl02-cap08-pnrr-regis-dnsh","l0Path":"l0\\conv-20260720102949-4tyuqc.md","messageCount":1,"replyChars":261}
 {"id":"conv-20260727150827-hyd8z4","createdAt":"2026-07-27T15:08:27.185Z","scope":"catalog-governance","route":"codex/catalog-coherence-audit","l0Path":"l0\\conv-20260727150827-hyd8z4.md","messageCount":1,"replyChars":323}
-<<<<<<< HEAD
 {"id":"conv-20260728180246-5fpiwu","createdAt":"2026-07-28T18:02:46.305Z","scope":"concorso-book-os","route":"codex-github-staff-sync-2026-07-28","l0Path":"l0\\conv-20260728180246-5fpiwu.md","messageCount":1,"replyChars":350}
 {"id":"conv-20260728195813-exipwn","createdAt":"2026-07-28T19:58:13.453Z","scope":"VOL-08","route":"codex-vol08-source-ready-pipeline","l0Path":"l0\\conv-20260728195813-exipwn.md","messageCount":1,"replyChars":415}
 {"id":"conv-20260728195821-1dskd4y","createdAt":"2026-07-28T19:58:21.262Z","scope":"concorso-book-os","route":"codex-m-fc02-iva-adempimenti","l0Path":"l0\\conv-20260728195821-1dskd4y.md","messageCount":1,"replyChars":224}
@@ -315,7 +314,6 @@
 {"id":"conv-20260729192420-1merphd","createdAt":"2026-07-29T19:24:20.787Z","scope":"VOL-08","route":"pipeline-step-09-write-chapter-08","l0Path":"l0\\conv-20260729192420-1merphd.md","messageCount":1,"replyChars":303}
 {"id":"conv-20260729192629-1dskd4y","createdAt":"2026-07-29T19:26:29.158Z","scope":"concorso-book-os","route":"codex-m-fc02-iva-adempimenti","l0Path":"l0\\conv-20260729192629-1dskd4y.md","messageCount":1,"replyChars":224}
 {"id":"conv-20260729192643-1dskd4y","createdAt":"2026-07-29T19:26:43.725Z","scope":"concorso-book-os","route":"codex-m-fc02-iva-adempimenti","l0Path":"l0\\conv-20260729192643-1dskd4y.md","messageCount":1,"replyChars":224}
-=======
 {"id":"conv-20260721115635-u32f8m","createdAt":"2026-07-21T11:56:35.747Z","scope":"catalog-dashboard","route":"codex/dashboard-all-chapters-restore","l0Path":"l0\\conv-20260721115635-u32f8m.md","messageCount":1,"replyChars":346}
 {"id":"conv-20260722184146-17hi6sg","createdAt":"2026-07-22T18:41:46.838Z","scope":"editorial-review","route":"codex.vol02-vol04-coverage-review","l0Path":"l0\\conv-20260722184146-17hi6sg.md","messageCount":1,"replyChars":225}
 {"id":"conv-20260722184517-17hi6sg","createdAt":"2026-07-22T18:45:17.314Z","scope":"editorial-review","route":"codex.vol02-vol04-coverage-review","l0Path":"l0\\conv-20260722184517-17hi6sg.md","messageCount":1,"replyChars":225}
@@ -351,4 +349,3 @@
 {"id":"conv-20260724181831-ojpims","createdAt":"2026-07-24T18:18:31.953Z","scope":"global","route":"manual_writer/m-fc05-14-anac","l0Path":"l0\\conv-20260724181831-ojpims.md","messageCount":1,"replyChars":227}
 {"id":"conv-20260724182430-s46cb1","createdAt":"2026-07-24T18:24:30.388Z","scope":"global","route":"manual_writer/m-fc05-15-laboratorio","l0Path":"l0\\conv-20260724182430-s46cb1.md","messageCount":1,"replyChars":182}
 {"id":"conv-20260729160513-1s8yqdf","createdAt":"2026-07-29T16:05:13.586Z","scope":"global","route":"codex/staff-github-sync","l0Path":"l0\\conv-20260729160513-1s8yqdf.md","messageCount":1,"replyChars":245}
->>>>>>> origin/main
