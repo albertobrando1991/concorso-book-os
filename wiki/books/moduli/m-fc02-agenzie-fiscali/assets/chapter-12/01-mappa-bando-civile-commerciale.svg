@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Mappa BANDO civile e commerciale</title>
+  <desc id="desc">Obbligazioni, contratti, impresa, societa e crisi solo quando servono al caso.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; }
+      .softRed { fill: #F8E8EA; stroke: #E3B9BF; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E8D080; stroke-width: 2.5; }
+      .softGreen { fill: #E7F3ED; stroke: #A8D1BD; stroke-width: 2.5; }
+      .softTeal { fill: #E4F4F5; stroke: #A3D5D8; stroke-width: 2.5; }
+      .note { fill: #FFF7ED; stroke: #E7C18E; stroke-width: 2.5; }
+      .ink { fill: #0F172A; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 43px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 22px; letter-spacing: 0; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 24px; font-weight: 800; letter-spacing: 0; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; letter-spacing: 0; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 18px; letter-spacing: 0; }
+      .line { stroke: #94A3B8; stroke-width: 4; stroke-linecap: round; fill: none; }
+      .arrowNavy { stroke: #10233F; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowNavy); }
+      .arrowBordeaux { stroke: #7A2430; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowBordeaux); }
+      .arrowGold { stroke: #D4AF37; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGold); }
+      .arrowGreen { stroke: #2F7D5A; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGreen); }
+      .arrowTeal { stroke: #1F6F78; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowTeal); }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#10233F"/></marker>
+    <marker id="arrowBordeaux" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#7A2430"/></marker>
+    <marker id="arrowGold" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#D4AF37"/></marker>
+    <marker id="arrowGreen" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2F7D5A"/></marker>
+    <marker id="arrowTeal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1F6F78"/></marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <g data-safe-box="120 14 1360 116 0" data-safe-name="header">
+    <text class="ink title" x="800" y="68" text-anchor="middle">Mappa BANDO civile e commerciale</text>
+    <text class="muted subtitle" x="800" y="106" text-anchor="middle">Obbligazioni, contratti, impresa, societa e crisi solo quando servono al caso.</text>
+  </g>
+  
+  <rect class="card" x="70" y="160" width="1460" height="640" rx="30"/>
+  <g data-safe-box="520 198 560 145 0" data-safe-name="Civile/commerciale M-FC02">
+    <rect class="softBlue" x="520" y="198" width="560" height="145" rx="26"/>
+    <circle cx="564" cy="242" r="18" fill="#10233F"/>
+    <text class="ink label" x="594" y="250">Civile/commerciale M-FC02</text>
+    <text class="muted body" x="554" y="290">serve al caso fiscale</text>
+<text class="muted body" x="554" y="318">non e' un corso autonomo</text>
+  </g>
+  <path class="line" d="M800 343 L800 370"/>
+  <path class="line" d="M205 370 L1395 370"/>
+  <path class="line" d="M205 370 L205 462"/>
+  <path class="line" d="M505 370 L505 590"/>
+  <path class="line" d="M800 370 L800 462"/>
+  <path class="line" d="M1095 370 L1095 590"/>
+  <path class="line" d="M1395 370 L1395 462"/>
+  <g data-safe-box="70 462 270 132 0" data-safe-name="B - Bando">
+    <rect class="softBlue" x="70" y="462" width="270" height="132" rx="22"/>
+    <circle cx="108" cy="500" r="17" fill="#10233F"/>
+    <text class="ink label" x="136" y="507">B - Bando</text>
+    <text class="muted body" x="96" y="544">civile</text>
+<text class="muted body" x="96" y="571">commerciale</text>
+  </g>
+  <g data-safe-box="370 590 270 132 0" data-safe-name="A - Aree">
+    <rect class="softRed" x="370" y="590" width="270" height="132" rx="22"/>
+    <circle cx="408" cy="628" r="17" fill="#7A2430"/>
+    <text class="ink label" x="436" y="635">A - Aree</text>
+    <text class="muted body" x="396" y="672">obbligazioni</text>
+<text class="muted body" x="396" y="699">contratti</text>
+  </g>
+  <g data-safe-box="665 462 270 132 0" data-safe-name="N - Nuclei">
+    <rect class="softGold" x="665" y="462" width="270" height="132" rx="22"/>
+    <circle cx="703" cy="500" r="17" fill="#D4AF37"/>
+    <text class="ink label" x="731" y="507">N - Nuclei</text>
+    <text class="muted body" x="691" y="544">impresa</text>
+<text class="muted body" x="691" y="571">societa</text>
+  </g>
+  <g data-safe-box="960 590 270 132 0" data-safe-name="D - Diario">
+    <rect class="softGreen" x="960" y="590" width="270" height="132" rx="22"/>
+    <circle cx="998" cy="628" r="17" fill="#2F7D5A"/>
+    <text class="ink label" x="1026" y="635">D - Diario</text>
+    <text class="muted body" x="986" y="672">piani confusi</text>
+<text class="muted body" x="986" y="699">crisi generica</text>
+  </g>
+  <g data-safe-box="1260 462 270 132 0" data-safe-name="O - Output">
+    <rect class="softTeal" x="1260" y="462" width="270" height="132" rx="22"/>
+    <circle cx="1298" cy="500" r="17" fill="#1F6F78"/>
+    <text class="ink label" x="1326" y="507">O - Output</text>
+    <text class="muted body" x="1286" y="544">caso</text>
+<text class="muted body" x="1286" y="571">checklist</text>
+  </g>
+  <g data-safe-box="245 815 1110 54 0" data-safe-name="nota">
+    <rect class="note" x="245" y="815" width="1110" height="54" rx="18"/>
+    <text class="ink body" x="800" y="850" text-anchor="middle">La materia entra solo dove aiuta a leggere soggetti, rapporti, debiti e documenti.</text>
+  </g>
+</svg>

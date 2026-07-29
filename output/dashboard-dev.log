@@ -1,0 +1,55 @@
+
+> concorso-book-os@0.1.0 dev
+> next dev --hostname 127.0.0.1 --port 3000
+
+   ▲ Next.js 15.5.18
+   - Local:        http://127.0.0.1:3000
+   - Network:      http://127.0.0.1:3000
+
+ ✓ Starting...
+ ✓ Ready in 2.7s
+ ○ Compiling / ...
+ ✓ Compiled / in 5.5s (794 modules)
+ GET / 200 in 51597ms
+ ○ Compiling /api/book-studio/assets/file ...
+ ✓ Compiled /api/book-studio/assets/file in 976ms (800 modules)
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F07-decisione-materiali.png 200 in 1296ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F07-decisione-materiali.svg 200 in 1295ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F06-banca-dati-ufficiale-non-ufficiale.png 200 in 1299ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F06-banca-dati-ufficiale-non-ufficiale.svg 200 in 1291ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Ffront-matter%2Fqr-capitale-personale.png 200 in 1314ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F05-funzione-rischio-materiali.png 200 in 66ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F05-funzione-rischio-materiali.svg 200 in 97ms
+ GET / 200 in 26030ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F07-decisione-materiali.png 200 in 48ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Ffront-matter%2Fqr-capitale-personale.png 200 in 94ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F07-decisione-materiali.svg 200 in 96ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F06-banca-dati-ufficiale-non-ufficiale.png 200 in 44ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F05-funzione-rischio-materiali.png 200 in 62ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F06-banca-dati-ufficiale-non-ufficiale.svg 200 in 63ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F05-funzione-rischio-materiali.svg 200 in 36ms
+ GET /?refresh=20260709 200 in 26647ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F07-decisione-materiali.png 200 in 64ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Ffront-matter%2Fqr-capitale-personale.png 200 in 107ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F07-decisione-materiali.svg 200 in 109ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F06-banca-dati-ufficiale-non-ufficiale.svg 200 in 115ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F06-banca-dati-ufficiale-non-ufficiale.png 200 in 119ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F05-funzione-rischio-materiali.png 200 in 95ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-33%2F05-funzione-rischio-materiali.svg 200 in 73ms
+ GET /?refresh=20260709 200 in 14118ms
+ GET /?bookId=moduli%2Fm-fl01-comuni-unioni 200 in 2194ms
+ GET /?bookId=moduli%2Fm-fl01-comuni-unioni 200 in 23396ms
+ GET /?bookId=moduli%2Fm-fl02-regioni-province-citta-metropolitane 200 in 11936ms
+ GET /?bookId=moduli%2Fm-fl01-comuni-unioni 200 in 9780ms
+ GET /?bookId=moduli%2Fm-fl01-comuni-unioni 200 in 10881ms
+ GET /?bookId=moduli%2Fm-fl02-regioni-province-citta-metropolitane 200 in 17652ms
+ GET /?bookId=moduli%2Fm-fl02-regioni-province-citta-metropolitane 200 in 10698ms
+ GET /?bookId=moduli%2Fm-fl01-comuni-unioni 200 in 7774ms
+ GET /?bookId=moduli%2Fm-fl03-camere-commercio 200 in 16022ms
+ GET /?bookId=moduli%2Fm-fl01-comuni-unioni 200 in 28149ms
+ ○ Compiling /api/manual-writer/run ...
+ ✓ Compiled /api/manual-writer/run in 3s (800 modules)
+ POST /api/manual-writer/run 200 in 4099ms
+ ○ Compiling /api/book-studio ...
+ ✓ Compiled /api/book-studio in 589ms (802 modules)
+ GET /api/book-studio?bookId=moduli%2Fm-fl01-comuni-unioni 200 in 824ms

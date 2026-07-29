@@ -30,7 +30,7 @@ last_compiled_from: ["wiki/books/moduli/architettura-moduli-specialistici.md","w
 Trasformare il Metodo BANDO in un percorso operativo per la famiglia "Funzioni Locali", con focus su Comuni, Unioni di Comuni e profili amministrativi/contabili di base negli enti locali.
 
 ### Lettore
-Candidato che ha letto o sta usando Il Metodo BANDO e deve adattare metodo, materie comuni, prove e priorita a questa famiglia concorsuale.
+Candidato che ha letto o sta usando Il Metodo BANDO e deve adattare metodo, materie comuni, prove e priorità a questa famiglia concorsuale.
 
 ### Struttura prevista
 1. Mappa della famiglia concorsuale.
@@ -52,7 +52,7 @@ Candidato che ha letto o sta usando Il Metodo BANDO e deve adattare metodo, mate
 ### Fonti da consolidare prima della scrittura
 - Bandi rappresentativi della famiglia.
 - Normativa ufficiale di settore.
-- Topic pages gia presenti nel wiki.
+- Topic pages già presenti nel wiki.
 - Source notes nuove se il modulo richiede aggiornamento o specialismo.
 
 ## Testo editoriale
@@ -73,4 +73,4 @@ Sommario e architettura capitoli sviluppati:
 13. [[books/moduli/m-fl01-comuni-unioni/chapters/13-territorio-patrimonio-edilizia-lavori-interfaccia-amministrativa|Territorio, patrimonio, edilizia e lavori: interfaccia amministrativa]]
 14. [[books/moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali|Laboratorio teorico-pratico per i quattro profili comunali]]
 
-I capitoli 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13 e 14 sono stati portati a bozza professionale. Il modulo M-FL01 e' ora pronto per revisione editoriale totale, controllo di copertura v4 e calibrazione finale delle simulazioni su bandi PDF e allegati effettivi.
+I capitoli 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13 e 14 sono stati portati a bozza professionale. Il modulo M-FL01 è ora pronto per revisione editoriale totale, controllo di copertura v4 e calibrazione finale delle simulazioni su bandi PDF e allegati effettivi.

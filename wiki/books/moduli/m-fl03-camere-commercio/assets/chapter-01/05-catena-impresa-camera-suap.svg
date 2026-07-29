@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Catena operativa impresa-Camera-SUAP</title>
+  <desc id="desc">Domanda dell'utente, servizio camerale, competenza SUAP e output.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; }
+      .softRed { fill: #F8E8EA; stroke: #E3B9BF; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E8D080; stroke-width: 2.5; }
+      .softGreen { fill: #E7F3ED; stroke: #A8D1BD; stroke-width: 2.5; }
+      .softTeal { fill: #E4F4F5; stroke: #A3D5D8; stroke-width: 2.5; }
+      .note { fill: #FFF7ED; stroke: #E7C18E; stroke-width: 2.5; }
+      .ink { fill: #0F172A; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 43px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 22px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 24px; font-weight: 800; letter-spacing: 0; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 18px; }
+      .navy { fill: #10233F; }
+      .bordeaux { fill: #7A2430; }
+      .gold { fill: #D4AF37; }
+      .green { fill: #2F7D5A; }
+      .teal { fill: #1F6F78; }
+      .line { stroke: #94A3B8; stroke-width: 4; stroke-linecap: round; fill: none; }
+      .thin { stroke: #CBD5E1; stroke-width: 2.5; stroke-linecap: round; fill: none; }
+      .arrowNavy { stroke: #10233F; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowNavy); }
+      .arrowBordeaux { stroke: #7A2430; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowBordeaux); }
+      .arrowGold { stroke: #D4AF37; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGold); }
+      .arrowGreen { stroke: #2F7D5A; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGreen); }
+      .arrowTeal { stroke: #1F6F78; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowTeal); }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#10233F"/></marker>
+    <marker id="arrowBordeaux" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#7A2430"/></marker>
+    <marker id="arrowGold" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#D4AF37"/></marker>
+    <marker id="arrowGreen" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2F7D5A"/></marker>
+    <marker id="arrowTeal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1F6F78"/></marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <text class="ink title" x="800" y="68" text-anchor="middle">Catena operativa impresa-Camera-SUAP</text>
+  <text class="muted subtitle" x="800" y="108" text-anchor="middle">Domanda dell'utente, servizio camerale, competenza SUAP e output.</text>
+
+  <rect class="card" x="70" y="160" width="1460" height="640" rx="30"/>
+  <g data-safe-box="155 245 380 110 10">
+    <rect class="softBlue" x="155" y="245" width="380" height="110" rx="26"/>
+    <rect x="155" y="245" width="380" height="10" rx="5" fill="#10233F"/>
+    <text class="navy label" x="345" y="285" text-anchor="middle" style="font-size:22px">Impresa o professionista</text>
+    <text class="muted small" x="345" y="317" text-anchor="middle" style="font-size:17px">richiede iscrizione, dato, documento</text>
+<text class="muted small" x="345" y="341" text-anchor="middle" style="font-size:17px">oppure avvio/modifica attivita</text>
+  </g>
+  <path class="arrowNavy" d="M540 300 L700 300"/>
+  <g data-safe-box="700 245 380 110 10">
+    <rect class="softGold" x="700" y="245" width="380" height="110" rx="26"/>
+    <rect x="700" y="245" width="380" height="10" rx="5" fill="#D4AF37"/>
+    <text class="gold label" x="890" y="285" text-anchor="middle" style="font-size:22px">Domanda da classificare</text>
+    <text class="muted small" x="890" y="317" text-anchor="middle" style="font-size:17px">dato camerale, documento</text>
+<text class="muted small" x="890" y="341" text-anchor="middle" style="font-size:17px">titolo, SCIA o autorizzazione</text>
+  </g>
+  <path class="arrowGold" d="M885 360 L600 500"/>
+  <path class="arrowGold" d="M895 360 L1180 500"/>
+  <g data-safe-box="325 500 470 110 10">
+    <rect class="softRed" x="325" y="500" width="470" height="110" rx="26"/>
+    <rect x="325" y="500" width="470" height="10" rx="5" fill="#7A2430"/>
+    <text class="bordeaux label" x="560" y="540" text-anchor="middle" style="font-size:22px">Camera di commercio</text>
+    <text class="muted small" x="560" y="572" text-anchor="middle" style="font-size:17px">Registro imprese, REA, visure, certificati</text>
+<text class="muted small" x="560" y="596" text-anchor="middle" style="font-size:17px">servizi camerali e controlli di competenza</text>
+  </g>
+  <g data-safe-box="805 500 470 110 10">
+    <rect class="softGreen" x="805" y="500" width="470" height="110" rx="26"/>
+    <rect x="805" y="500" width="470" height="10" rx="5" fill="#2F7D5A"/>
+    <text class="green label" x="1040" y="540" text-anchor="middle" style="font-size:22px">Comune e SUAP</text>
+    <text class="muted small" x="1040" y="572" text-anchor="middle" style="font-size:17px">titoli per attivita produttive</text>
+<text class="muted small" x="1040" y="596" text-anchor="middle" style="font-size:17px">SCIA, autorizzazioni e canale amministrativo</text>
+  </g>
+  <path class="line" d="M560 610 L560 690"/>
+  <path class="line" d="M1040 610 L1040 690"/>
+  <g data-safe-box="445 690 710 110 10">
+    <rect class="softTeal" x="445" y="690" width="710" height="110" rx="26"/>
+    <rect x="445" y="690" width="710" height="10" rx="5" fill="#1F6F78"/>
+    <text class="teal label" x="800" y="730" text-anchor="middle" style="font-size:22px">Output corretto</text>
+    <text class="muted small" x="800" y="762" text-anchor="middle" style="font-size:17px">orientare l'utente senza confondere competenze</text>
+<text class="muted small" x="800" y="786" text-anchor="middle" style="font-size:17px">separare dato camerale, profilo SUAP e strumenti digitali</text>
+  </g>
+  <g data-safe-box="245 815 1110 62 10">
+    <rect class="note" x="245" y="815" width="1110" height="62" rx="24"/>
+    <text class="ink body" x="800" y="854" text-anchor="middle" style="font-weight:800;font-size:20px">Nel caso pratico non accentrare tutto: classifica la richiesta e indica il canale competente.</text>
+  </g>
+
+</svg>

@@ -1,0 +1,94 @@
+
+> concorso-book-os@0.1.0 dev
+> next dev --port 3000
+
+   ▲ Next.js 15.5.18
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.1.24:3000
+
+ ✓ Starting...
+ ✓ Ready in 3.4s
+ ○ Compiling / ...
+ ✓ Compiled / in 2.4s (759 modules)
+ GET / 200 in 1281ms
+ GET / 200 in 2014ms
+ GET / 200 in 2011ms
+ GET / 200 in 2002ms
+ GET / 200 in 2021ms
+ GET / 200 in 2010ms
+ GET / 200 in 2017ms
+ GET / 200 in 5525ms
+ GET / 200 in 4698ms
+ GET / 200 in 1959ms
+ GET / 200 in 1983ms
+ GET / 200 in 2000ms
+ GET / 200 in 1905ms
+ GET /?bookId=moduli%2Fm-fc02-agenzie-fiscali&chapterPath=books%2Fmoduli%2Fm-fc02-agenzie-fiscali%2Fchapters%2F01-mappa-agenzie-fiscali-profili-concorsuali.md 200 in 65841ms
+ ○ Compiling /api/book-studio ...
+ ✓ Compiled /api/book-studio in 3.5s (779 modules)
+ GET /api/book-studio?bookId=moduli%2Fm-fc02-agenzie-fiscali 200 in 3902ms
+ ○ Compiling /api/book-studio/assets/file ...
+ ✓ Compiled /api/book-studio/assets/file in 1069ms (354 modules)
+ GET /api/book-studio/assets/file?path=books%2Fmoduli%2Fm-fc02-agenzie-fiscali%2Fassets%2Fchapter-02%2F02-codice-profilo-famiglia.png 200 in 1288ms
+ GET /api/book-studio/assets/file?path=books%2Fmoduli%2Fm-fc02-agenzie-fiscali%2Fassets%2Fchapter-02%2F03-prove-output-decoder.png 200 in 1294ms
+ GET /api/book-studio/assets/file?path=books%2Fmoduli%2Fm-fc02-agenzie-fiscali%2Fassets%2Fchapter-02%2F04-priorita-studio-fiscale.png 200 in 1296ms
+ GET /api/book-studio/assets/file?path=books%2Fmoduli%2Fm-fc02-agenzie-fiscali%2Fassets%2Fchapter-02%2F05-caso-tre-decoder-fiscali.png 200 in 1288ms
+ GET /api/book-studio/assets/file?path=books%2Fmoduli%2Fm-fc02-agenzie-fiscali%2Fassets%2Fchapter-02%2F01-mappa-bando-decoder-fiscale.png 200 in 1310ms
+ GET /api/book-studio/assets/file?path=books%2Fmoduli%2Fm-fc02-agenzie-fiscali%2Fassets%2Fchapter-01%2F04-nucleo-comune-delta-fiscale.png 200 in 35ms
+ GET /api/book-studio/assets/file?path=books%2Fmoduli%2Fm-fc02-agenzie-fiscali%2Fassets%2Fchapter-01%2F03-tre-porte-ae-adm-ader.png 200 in 93ms
+ GET /api/book-studio/assets/file?path=books%2Fmoduli%2Fm-fc02-agenzie-fiscali%2Fassets%2Fchapter-01%2F05-bando-decoder-fiscale.svg 200 in 96ms
+ GET /api/book-studio/assets/file?path=books%2Fmoduli%2Fm-fc02-agenzie-fiscali%2Fassets%2Fchapter-01%2F02-perimetro-mfc02-dentro-fuori.png 200 in 101ms
+ GET /api/book-studio/assets/file?path=books%2Fmoduli%2Fm-fc02-agenzie-fiscali%2Fassets%2Fchapter-01%2F01-mappa-bando-agenzie-fiscali.png 200 in 102ms
+ GET /api/book-studio/assets/file?path=books%2Fmoduli%2Fm-fc02-agenzie-fiscali%2Fassets%2Fchapter-01%2F05-bando-decoder-fiscale.png 200 in 111ms
+ GET /?bookId=moduli%2Fm-fc02-agenzie-fiscali&chapterPath=books%2Fmoduli%2Fm-fc02-agenzie-fiscali%2Fchapters%2F02-bando-decoder-fiscale.md 200 in 71849ms
+ ✓ Compiled / in 189ms (538 modules)
+ GET /api/book-studio/assets/file?path=books%2Fmoduli%2Fm-fc02-agenzie-fiscali%2Fassets%2Fchapter-01%2F02-perimetro-mfc02-dentro-fuori.png 200 in 81ms
+ GET /api/book-studio/assets/file?path=books%2Fmoduli%2Fm-fc02-agenzie-fiscali%2Fassets%2Fchapter-01%2F01-mappa-bando-agenzie-fiscali.png 200 in 150ms
+ GET /api/book-studio/assets/file?path=books%2Fmoduli%2Fm-fc02-agenzie-fiscali%2Fassets%2Fchapter-01%2F03-tre-porte-ae-adm-ader.png 200 in 153ms
+ GET /api/book-studio/assets/file?path=books%2Fmoduli%2Fm-fc02-agenzie-fiscali%2Fassets%2Fchapter-01%2F04-nucleo-comune-delta-fiscale.png 200 in 149ms
+ GET /api/book-studio/assets/file?path=books%2Fmoduli%2Fm-fc02-agenzie-fiscali%2Fassets%2Fchapter-01%2F05-bando-decoder-fiscale.png 200 in 151ms
+ GET /api/book-studio/assets/file?path=books%2Fmoduli%2Fm-fc02-agenzie-fiscali%2Fassets%2Fchapter-01%2F05-bando-decoder-fiscale.svg 200 in 132ms
+ GET /?bookId=moduli%2Fm-fc02-agenzie-fiscali&chapterPath=books%2Fmoduli%2Fm-fc02-agenzie-fiscali%2Fchapters%2F01-mappa-agenzie-fiscali-profili-concorsuali.md 200 in 17530ms
+ ✓ Compiled in 438ms (243 modules)
+ ○ Compiling / ...
+ ✓ Compiled / in 1007ms (517 modules)
+ ✓ Compiled /api/book-studio/assets/file in 321ms (536 modules)
+ GET /api/book-studio/assets/file?path=books%2Fmoduli%2Fm-fc02-agenzie-fiscali%2Fassets%2Fchapter-01%2F02-perimetro-mfc02-dentro-fuori.png 200 in 714ms
+ GET /api/book-studio/assets/file?path=books%2Fmoduli%2Fm-fc02-agenzie-fiscali%2Fassets%2Fchapter-01%2F03-tre-porte-ae-adm-ader.png 200 in 725ms
+ GET /api/book-studio/assets/file?path=books%2Fmoduli%2Fm-fc02-agenzie-fiscali%2Fassets%2Fchapter-01%2F04-nucleo-comune-delta-fiscale.png 200 in 728ms
+ GET /api/book-studio/assets/file?path=books%2Fmoduli%2Fm-fc02-agenzie-fiscali%2Fassets%2Fchapter-01%2F05-bando-decoder-fiscale.png 200 in 728ms
+ GET /api/book-studio/assets/file?path=books%2Fmoduli%2Fm-fc02-agenzie-fiscali%2Fassets%2Fchapter-01%2F01-mappa-bando-agenzie-fiscali.png 200 in 736ms
+ GET /api/book-studio/assets/file?path=books%2Fmoduli%2Fm-fc02-agenzie-fiscali%2Fassets%2Fchapter-01%2F05-bando-decoder-fiscale.svg 200 in 52ms
+ GET /?bookId=moduli%2Fm-fc02-agenzie-fiscali&chapterPath=books%2Fmoduli%2Fm-fc02-agenzie-fiscali%2Fchapters%2F01-mappa-agenzie-fiscali-profili-concorsuali.md 200 in 23481ms
+ ✓ Compiled in 750ms (243 modules)
+ ✓ Compiled in 218ms (243 modules)
+ ✓ Compiled / in 351ms (517 modules)
+ ✓ Compiled /api/book-studio/assets/file in 149ms (536 modules)
+ GET /api/book-studio/assets/file?path=books%2Fmoduli%2Fm-fc02-agenzie-fiscali%2Fassets%2Fchapter-01%2F02-perimetro-mfc02-dentro-fuori.png 200 in 558ms
+ GET /api/book-studio/assets/file?path=books%2Fmoduli%2Fm-fc02-agenzie-fiscali%2Fassets%2Fchapter-01%2F03-tre-porte-ae-adm-ader.png 200 in 560ms
+ GET /api/book-studio/assets/file?path=books%2Fmoduli%2Fm-fc02-agenzie-fiscali%2Fassets%2Fchapter-01%2F04-nucleo-comune-delta-fiscale.png 200 in 562ms
+ GET /api/book-studio/assets/file?path=books%2Fmoduli%2Fm-fc02-agenzie-fiscali%2Fassets%2Fchapter-01%2F05-bando-decoder-fiscale.png 200 in 564ms
+ GET /api/book-studio/assets/file?path=books%2Fmoduli%2Fm-fc02-agenzie-fiscali%2Fassets%2Fchapter-01%2F01-mappa-bando-agenzie-fiscali.png 200 in 580ms
+ GET /api/book-studio/assets/file?path=books%2Fmoduli%2Fm-fc02-agenzie-fiscali%2Fassets%2Fchapter-01%2F05-bando-decoder-fiscale.svg 200 in 48ms
+ GET /?bookId=moduli%2Fm-fc02-agenzie-fiscali&chapterPath=books%2Fmoduli%2Fm-fc02-agenzie-fiscali%2Fchapters%2F01-mappa-agenzie-fiscali-profili-concorsuali.md 200 in 11404ms
+ ✓ Compiled in 622ms (779 modules)
+ GET /api/book-studio/assets/file?path=books%2Fmoduli%2Fm-fc02-agenzie-fiscali%2Fassets%2Fchapter-01%2F01-mappa-bando-agenzie-fiscali.png 200 in 84ms
+ GET /api/book-studio/assets/file?path=books%2Fmoduli%2Fm-fc02-agenzie-fiscali%2Fassets%2Fchapter-01%2F02-perimetro-mfc02-dentro-fuori.png 200 in 133ms
+ GET /api/book-studio/assets/file?path=books%2Fmoduli%2Fm-fc02-agenzie-fiscali%2Fassets%2Fchapter-01%2F03-tre-porte-ae-adm-ader.png 200 in 135ms
+ GET /api/book-studio/assets/file?path=books%2Fmoduli%2Fm-fc02-agenzie-fiscali%2Fassets%2Fchapter-01%2F04-nucleo-comune-delta-fiscale.png 200 in 137ms
+ GET /api/book-studio/assets/file?path=books%2Fmoduli%2Fm-fc02-agenzie-fiscali%2Fassets%2Fchapter-01%2F05-bando-decoder-fiscale.png 200 in 147ms
+ GET /api/book-studio/assets/file?path=books%2Fmoduli%2Fm-fc02-agenzie-fiscali%2Fassets%2Fchapter-01%2F05-bando-decoder-fiscale.svg 200 in 102ms
+ GET /?bookId=moduli%2Fm-fc02-agenzie-fiscali&chapterPath=books%2Fmoduli%2Fm-fc02-agenzie-fiscali%2Fchapters%2F01-mappa-agenzie-fiscali-profili-concorsuali.md 200 in 9901ms
+ GET /api/book-studio/assets/file?path=books%2Fmoduli%2Fm-fc02-agenzie-fiscali%2Fassets%2Fchapter-02%2F01-mappa-bando-decoder-fiscale.png 200 in 90ms
+ GET /api/book-studio/assets/file?path=books%2Fmoduli%2Fm-fc02-agenzie-fiscali%2Fassets%2Fchapter-02%2F02-codice-profilo-famiglia.png 200 in 104ms
+ GET /api/book-studio/assets/file?path=books%2Fmoduli%2Fm-fc02-agenzie-fiscali%2Fassets%2Fchapter-02%2F03-prove-output-decoder.png 200 in 103ms
+ GET /api/book-studio/assets/file?path=books%2Fmoduli%2Fm-fc02-agenzie-fiscali%2Fassets%2Fchapter-02%2F05-caso-tre-decoder-fiscali.png 200 in 102ms
+ GET /api/book-studio/assets/file?path=books%2Fmoduli%2Fm-fc02-agenzie-fiscali%2Fassets%2Fchapter-02%2F04-priorita-studio-fiscale.png 200 in 98ms
+ GET /api/book-studio/assets/file?path=books%2Fmoduli%2Fm-fc02-agenzie-fiscali%2Fassets%2Fchapter-01%2F05-bando-decoder-fiscale.png 200 in 84ms
+ GET /api/book-studio/assets/file?path=books%2Fmoduli%2Fm-fc02-agenzie-fiscali%2Fassets%2Fchapter-01%2F04-nucleo-comune-delta-fiscale.png 200 in 64ms
+ GET /api/book-studio/assets/file?path=books%2Fmoduli%2Fm-fc02-agenzie-fiscali%2Fassets%2Fchapter-01%2F03-tre-porte-ae-adm-ader.png 200 in 82ms
+ GET /api/book-studio/assets/file?path=books%2Fmoduli%2Fm-fc02-agenzie-fiscali%2Fassets%2Fchapter-01%2F02-perimetro-mfc02-dentro-fuori.png 200 in 84ms
+ GET /api/book-studio/assets/file?path=books%2Fmoduli%2Fm-fc02-agenzie-fiscali%2Fassets%2Fchapter-01%2F01-mappa-bando-agenzie-fiscali.png 200 in 86ms
+ GET /api/book-studio/assets/file?path=books%2Fmoduli%2Fm-fc02-agenzie-fiscali%2Fassets%2Fchapter-01%2F05-bando-decoder-fiscale.svg 200 in 36ms
+ GET /?bookId=moduli%2Fm-fc02-agenzie-fiscali&chapterPath=books%2Fmoduli%2Fm-fc02-agenzie-fiscali%2Fchapters%2F02-bando-decoder-fiscale.md 200 in 14774ms
+[?25h

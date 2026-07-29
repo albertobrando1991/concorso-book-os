@@ -1,0 +1,477 @@
+[
+  {
+    "pageIndex": 0,
+    "pageText": "1Mappa delle Agenzie fiscali e dei profili concorsualiBBandoAAreeNNucleiDDiarioOOutputMappa delle Agenzie fiscali e dei profili concorsualiA",
+    "pageRect": {
+      "top": 387,
+      "bottom": 800,
+      "left": 8,
+      "right": 1432,
+      "width": 1424,
+      "height": 413
+    },
+    "scrollHeight": 413,
+    "clientHeight": 413,
+    "contentBottom": 800,
+    "maxBlockOverflowBottom": 0,
+    "maxBlockOverflowPageBottom": 0,
+    "overflowingBlocks": [],
+    "overlaps": [],
+    "figures": []
+  },
+  {
+    "pageIndex": 1,
+    "pageText": "1. Mappa delle Agenzie fiscali e dei profili concorsualicontinuaFigura 1.1 - Mappa BANDO delle Agenzie fiscali: dal bando al sottopercorso, ",
+    "pageRect": {
+      "top": 800,
+      "bottom": 2217,
+      "left": 8,
+      "right": 1432,
+      "width": 1424,
+      "height": 1417
+    },
+    "scrollHeight": 1417,
+    "clientHeight": 1417,
+    "contentBottom": 2217,
+    "maxBlockOverflowBottom": 0,
+    "maxBlockOverflowPageBottom": 0,
+    "overflowingBlocks": [],
+    "overlaps": [],
+    "figures": [
+      {
+        "alt": "Figura 1.1 - Mappa BANDO delle Agenzie fiscali: dal bando al sottopercorso, fino a output e diario dei rischi.",
+        "figure": {
+          "top": 834,
+          "bottom": 1856,
+          "left": 48,
+          "right": 1392,
+          "width": 1344,
+          "height": 1022
+        },
+        "img": {
+          "top": 834,
+          "bottom": 1834,
+          "left": 48,
+          "right": 1648,
+          "width": 1600,
+          "height": 1000
+        },
+        "insideContent": true,
+        "naturalWidth": 1600,
+        "naturalHeight": 1000
+      }
+    ]
+  },
+  {
+    "pageIndex": 2,
+    "pageText": "1. Mappa delle Agenzie fiscali e dei profili concorsualicontinual'ente e' Agenzia delle Entrate, Agenzia delle Dogane e dei Monopoli o Agenz",
+    "pageRect": {
+      "top": 2217,
+      "bottom": 2815,
+      "left": 8,
+      "right": 1432,
+      "width": 1424,
+      "height": 599
+    },
+    "scrollHeight": 599,
+    "clientHeight": 599,
+    "contentBottom": 2815,
+    "maxBlockOverflowBottom": 0,
+    "maxBlockOverflowPageBottom": 0,
+    "overflowingBlocks": [],
+    "overlaps": [],
+    "figures": []
+  },
+  {
+    "pageIndex": 3,
+    "pageText": "1. Mappa delle Agenzie fiscali e dei profili concorsualicontinuaLa terza e' l'Agenzia delle Entrate-Riscossione. Qui il focus e' la riscossi",
+    "pageRect": {
+      "top": 2815,
+      "bottom": 3440,
+      "left": 8,
+      "right": 1432,
+      "width": 1424,
+      "height": 625
+    },
+    "scrollHeight": 625,
+    "clientHeight": 625,
+    "contentBottom": 3440,
+    "maxBlockOverflowBottom": 0,
+    "maxBlockOverflowPageBottom": 0,
+    "overflowingBlocks": [],
+    "overlaps": [],
+    "figures": []
+  },
+  {
+    "pageIndex": 4,
+    "pageText": "1. Mappa delle Agenzie fiscali e dei profili concorsualicontinuaconcorsi di altri enti pubblici nazionali non fiscali, anche se contengono d",
+    "pageRect": {
+      "top": 3440,
+      "bottom": 4842,
+      "left": 8,
+      "right": 1432,
+      "width": 1424,
+      "height": 1401
+    },
+    "scrollHeight": 1401,
+    "clientHeight": 1401,
+    "contentBottom": 4842,
+    "maxBlockOverflowBottom": 0,
+    "maxBlockOverflowPageBottom": 0,
+    "overflowingBlocks": [],
+    "overlaps": [],
+    "figures": [
+      {
+        "alt": "Figura 1.2 - Perimetro M-FC02: concorsi dentro, fuori e misti da classificare con cautela.",
+        "figure": {
+          "top": 3578,
+          "bottom": 4600,
+          "left": 48,
+          "right": 1392,
+          "width": 1344,
+          "height": 1022
+        },
+        "img": {
+          "top": 3578,
+          "bottom": 4578,
+          "left": 48,
+          "right": 1648,
+          "width": 1600,
+          "height": 1000
+        },
+        "insideContent": true,
+        "naturalWidth": 1600,
+        "naturalHeight": 1000
+      }
+    ]
+  },
+  {
+    "pageIndex": 5,
+    "pageText": "1. Mappa delle Agenzie fiscali e dei profili concorsualicontinuaNei profili territorio il centro cambia. Catasto, cartografia, estimo, merca",
+    "pageRect": {
+      "top": 4842,
+      "bottom": 5347,
+      "left": 8,
+      "right": 1432,
+      "width": 1424,
+      "height": 505
+    },
+    "scrollHeight": 505,
+    "clientHeight": 505,
+    "contentBottom": 5347,
+    "maxBlockOverflowBottom": 0,
+    "maxBlockOverflowPageBottom": 0,
+    "overflowingBlocks": [],
+    "overlaps": [],
+    "figures": []
+  },
+  {
+    "pageIndex": 6,
+    "pageText": "1. Mappa delle Agenzie fiscali e dei profili concorsualicontinuaFigura 1.3 - Le tre porte di ingresso: Agenzia delle Entrate, ADM e Agenzia ",
+    "pageRect": {
+      "top": 5347,
+      "bottom": 6810,
+      "left": 8,
+      "right": 1432,
+      "width": 1424,
+      "height": 1463
+    },
+    "scrollHeight": 1463,
+    "clientHeight": 1463,
+    "contentBottom": 6810,
+    "maxBlockOverflowBottom": 0,
+    "maxBlockOverflowPageBottom": 0,
+    "overflowingBlocks": [],
+    "overlaps": [],
+    "figures": [
+      {
+        "alt": "Figura 1.3 - Le tre porte di ingresso: Agenzia delle Entrate, ADM e Agenzia delle Entrate-Riscossione.",
+        "figure": {
+          "top": 5381,
+          "bottom": 6403,
+          "left": 48,
+          "right": 1392,
+          "width": 1344,
+          "height": 1022
+        },
+        "img": {
+          "top": 5381,
+          "bottom": 6381,
+          "left": 48,
+          "right": 1648,
+          "width": 1600,
+          "height": 1000
+        },
+        "insideContent": true,
+        "naturalWidth": 1600,
+        "naturalHeight": 1000
+      }
+    ]
+  },
+  {
+    "pageIndex": 7,
+    "pageText": "1. Mappa delle Agenzie fiscali e dei profili concorsualicontinuaIl nucleo comune non bastaI concorsi delle Agenzie fiscali condividono spess",
+    "pageRect": {
+      "top": 6810,
+      "bottom": 8235,
+      "left": 8,
+      "right": 1432,
+      "width": 1424,
+      "height": 1425
+    },
+    "scrollHeight": 1425,
+    "clientHeight": 1425,
+    "contentBottom": 8235,
+    "maxBlockOverflowBottom": 0,
+    "maxBlockOverflowPageBottom": 0,
+    "overflowingBlocks": [],
+    "overlaps": [],
+    "figures": [
+      {
+        "alt": "Figura 1.4 - Nucleo comune piu' delta fiscale: dalla base generale alla prova reale.",
+        "figure": {
+          "top": 7179,
+          "bottom": 8201,
+          "left": 48,
+          "right": 1392,
+          "width": 1344,
+          "height": 1022
+        },
+        "img": {
+          "top": 7179,
+          "bottom": 8179,
+          "left": 48,
+          "right": 1648,
+          "width": 1600,
+          "height": 1000
+        },
+        "insideContent": true,
+        "naturalWidth": 1600,
+        "naturalHeight": 1000
+      }
+    ]
+  },
+  {
+    "pageIndex": 8,
+    "pageText": "1. Mappa delle Agenzie fiscali e dei profili concorsualicontinuaLe materie che spostano il pianoNon tutte le materie del programma hanno lo ",
+    "pageRect": {
+      "top": 8235,
+      "bottom": 8954,
+      "left": 8,
+      "right": 1432,
+      "width": 1424,
+      "height": 719
+    },
+    "scrollHeight": 719,
+    "clientHeight": 719,
+    "contentBottom": 8954,
+    "maxBlockOverflowBottom": 0,
+    "maxBlockOverflowPageBottom": 0,
+    "overflowingBlocks": [],
+    "overlaps": [],
+    "figures": []
+  },
+  {
+    "pageIndex": 9,
+    "pageText": "1. Mappa delle Agenzie fiscali e dei profili concorsualicontinuaIl Bando Decoder fiscaleOgni bando M-FC02 deve essere trasformato in una sch",
+    "pageRect": {
+      "top": 8954,
+      "bottom": 10418,
+      "left": 8,
+      "right": 1432,
+      "width": 1424,
+      "height": 1463
+    },
+    "scrollHeight": 1463,
+    "clientHeight": 1463,
+    "contentBottom": 10418,
+    "maxBlockOverflowBottom": 0,
+    "maxBlockOverflowPageBottom": 0,
+    "overflowingBlocks": [],
+    "overlaps": [],
+    "figures": [
+      {
+        "alt": "Figura 1.5 - Bando Decoder fiscale: la scheda minima da compilare prima del piano di studio.",
+        "figure": {
+          "top": 9362,
+          "bottom": 10384,
+          "left": 48,
+          "right": 1392,
+          "width": 1344,
+          "height": 1022
+        },
+        "img": {
+          "top": 9362,
+          "bottom": 10362,
+          "left": 48,
+          "right": 1648,
+          "width": 1600,
+          "height": 1000
+        },
+        "insideContent": true,
+        "naturalWidth": 1600,
+        "naturalHeight": 1000
+      }
+    ]
+  },
+  {
+    "pageIndex": 10,
+    "pageText": "1. Mappa delle Agenzie fiscali e dei profili concorsualicontinuaCome cambia la risposta in base all'enteLa stessa parola puo' assumere peso ",
+    "pageRect": {
+      "top": 10418,
+      "bottom": 10969,
+      "left": 8,
+      "right": 1432,
+      "width": 1424,
+      "height": 551
+    },
+    "scrollHeight": 551,
+    "clientHeight": 551,
+    "contentBottom": 10969,
+    "maxBlockOverflowBottom": 0,
+    "maxBlockOverflowPageBottom": 0,
+    "overflowingBlocks": [],
+    "overlaps": [],
+    "figures": []
+  },
+  {
+    "pageIndex": 11,
+    "pageText": "1. Mappa delle Agenzie fiscali e dei profili concorsualicontinuaEsempio di lettura: bando AE tributarioImmagina un bando dell'Agenzia delle ",
+    "pageRect": {
+      "top": 10969,
+      "bottom": 11644,
+      "left": 8,
+      "right": 1432,
+      "width": 1424,
+      "height": 675
+    },
+    "scrollHeight": 675,
+    "clientHeight": 675,
+    "contentBottom": 11644,
+    "maxBlockOverflowBottom": 0,
+    "maxBlockOverflowPageBottom": 0,
+    "overflowingBlocks": [],
+    "overlaps": [],
+    "figures": []
+  },
+  {
+    "pageIndex": 12,
+    "pageText": "1. Mappa delle Agenzie fiscali e dei profili concorsualicontinuaQui il candidato deve costruire un vocabolario specifico. Senza vocabolario,",
+    "pageRect": {
+      "top": 11644,
+      "bottom": 12298,
+      "left": 8,
+      "right": 1432,
+      "width": 1424,
+      "height": 655
+    },
+    "scrollHeight": 655,
+    "clientHeight": 655,
+    "contentBottom": 12298,
+    "maxBlockOverflowBottom": 0,
+    "maxBlockOverflowPageBottom": 0,
+    "overflowingBlocks": [],
+    "overlaps": [],
+    "figures": []
+  },
+  {
+    "pageIndex": 13,
+    "pageText": "1. Mappa delle Agenzie fiscali e dei profili concorsualicontinuaPer il terzo bando non attiva M-FC02 come modulo principale. L'ente e' fisca",
+    "pageRect": {
+      "top": 12298,
+      "bottom": 12879,
+      "left": 8,
+      "right": 1432,
+      "width": 1424,
+      "height": 580
+    },
+    "scrollHeight": 580,
+    "clientHeight": 580,
+    "contentBottom": 12879,
+    "maxBlockOverflowBottom": 0,
+    "maxBlockOverflowPageBottom": 0,
+    "overflowingBlocks": [],
+    "overlaps": [],
+    "figures": []
+  },
+  {
+    "pageIndex": 14,
+    "pageText": "1. Mappa delle Agenzie fiscali e dei profili concorsualicontinuaRisposta corretta. No. L'ente e' un indizio, non la prova definitiva. Se il ",
+    "pageRect": {
+      "top": 12879,
+      "bottom": 13392,
+      "left": 8,
+      "right": 1432,
+      "width": 1424,
+      "height": 513
+    },
+    "scrollHeight": 513,
+    "clientHeight": 513,
+    "contentBottom": 13392,
+    "maxBlockOverflowBottom": 0,
+    "maxBlockOverflowPageBottom": 0,
+    "overflowingBlocks": [],
+    "overlaps": [],
+    "figures": []
+  },
+  {
+    "pageIndex": 15,
+    "pageText": "1. Mappa delle Agenzie fiscali e dei profili concorsualicontinuaCampoRispostaTre materie specialisticheModuli da affiancarePrimo rischio di ",
+    "pageRect": {
+      "top": 13392,
+      "bottom": 14054,
+      "left": 8,
+      "right": 1432,
+      "width": 1424,
+      "height": 663
+    },
+    "scrollHeight": 663,
+    "clientHeight": 663,
+    "contentBottom": 14054,
+    "maxBlockOverflowBottom": 0,
+    "maxBlockOverflowPageBottom": 0,
+    "overflowingBlocks": [],
+    "overlaps": [],
+    "figures": []
+  },
+  {
+    "pageIndex": 16,
+    "pageText": "1. Mappa delle Agenzie fiscali e dei profili concorsualicontinuaHo identificato l'ente: AE, ADM o AdER.Ho letto il profilo esatto, non solo ",
+    "pageRect": {
+      "top": 14054,
+      "bottom": 14706,
+      "left": 8,
+      "right": 1432,
+      "width": 1424,
+      "height": 651
+    },
+    "scrollHeight": 651,
+    "clientHeight": 651,
+    "contentBottom": 14706,
+    "maxBlockOverflowBottom": 0,
+    "maxBlockOverflowPageBottom": 0,
+    "overflowingBlocks": [],
+    "overlaps": [],
+    "figures": []
+  },
+  {
+    "pageIndex": 17,
+    "pageText": "1. Mappa delle Agenzie fiscali e dei profili concorsualicontinuaNote di reviewVerificare, in fase di pubblicazione, le pagine istituzionali ",
+    "pageRect": {
+      "top": 14706,
+      "bottom": 14905,
+      "left": 8,
+      "right": 1432,
+      "width": 1424,
+      "height": 199
+    },
+    "scrollHeight": 199,
+    "clientHeight": 199,
+    "contentBottom": 14905,
+    "maxBlockOverflowBottom": 0,
+    "maxBlockOverflowPageBottom": 0,
+    "overflowingBlocks": [],
+    "overlaps": [],
+    "figures": []
+  }
+]

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">MEF, agenzie fiscali e riscossione</title>
+  <desc id="desc">Indirizzo e vigilanza non coincidono con le funzioni tecnico-operative.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; }
+      .softRed { fill: #F8E8EA; stroke: #E2B3BA; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E5C85F; stroke-width: 2.5; }
+      .softGreen { fill: #E7F3ED; stroke: #A8D2BC; stroke-width: 2.5; }
+      .softTeal { fill: #E4F4F5; stroke: #A9D7DB; stroke-width: 2.5; }
+      .line { fill: none; stroke: #94A3B8; stroke-width: 5; stroke-linecap: round; stroke-linejoin: round; }
+      .title { fill: #0F172A; font: 700 42px Arial, sans-serif; letter-spacing: 0; }
+      .subtitle { fill: #526174; font: 400 24px Arial, sans-serif; letter-spacing: 0; }
+      .label { fill: #0F172A; font: 700 29px Arial, sans-serif; letter-spacing: 0; }
+      .small { fill: #526174; font: 400 21px Arial, sans-serif; letter-spacing: 0; }
+      .tiny { fill: #526174; font: 400 19px Arial, sans-serif; letter-spacing: 0; }
+      .badgeText { fill: #FFFFFF; font: 700 19px Arial, sans-serif; letter-spacing: 0; }
+      .noteText { fill: #0F172A; font: 600 22px Arial, sans-serif; letter-spacing: 0; }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#10233F"/>
+    </marker>
+    <marker id="arrowGold" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#D4AF37"/>
+    </marker>
+    <marker id="arrowTeal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#1F6F78"/>
+    </marker>
+  </defs>
+  <rect class="bg" x="0" y="0" width="1600" height="900"/>
+  <g data-safe-box="70 20 1460 112 8" data-safe-name="header">
+    <text class="title" x="80" y="70">MEF, agenzie fiscali e riscossione</text>
+    <text class="subtitle" x="80" y="110">Indirizzo e vigilanza non coincidono con le funzioni tecnico-operative.</text>
+  </g>
+  
+  <rect class="card" x="70" y="160" width="1460" height="640" rx="30"/>
+  
+  <g data-safe-box="585 205 430 120 6" data-safe-name="MEF">
+    <rect class="softBlue" x="585" y="205" width="430" height="120" rx="24"/>
+    <rect x="607" y="227" width="52" height="30" rx="15" fill="#10233F"/>
+    <text class="badgeText" x="633" y="249" text-anchor="middle">M</text>
+    <text class="label" x="677" y="250">MEF</text>
+    <text class="small" x="615" y="285">indirizzo</text><text class="small" x="615" y="313">vigilanza, coordinamento</text>
+  </g>
+  <path class="line" d="M800 325 L800 390"/>
+  <path class="line" d="M285 390 L1315 390"/>
+  <path class="line" d="M285 390 L285 475"/>
+  <path class="line" d="M628 390 L628 475"/>
+  <path class="line" d="M972 390 L972 475"/>
+  <path class="line" d="M1315 390 L1315 475"/>
+  
+  <g data-safe-box="120 475 310 210 18" data-safe-name="AE">
+    <rect class="softBlue" x="120" y="475" width="310" height="210" rx="24"/>
+    <circle cx="170" cy="525" r="28" fill="#10233F"/>
+    <text class="badgeText" x="170" y="532" text-anchor="middle">AE</text>
+    <text class="label" x="216" y="533">AE</text>
+    <text class="small" x="150" y="575">servizi fiscali</text><text class="small" x="150" y="611">controlli</text><text class="small" x="150" y="647">accertamento</text>
+  </g>
+  
+  <g data-safe-box="462 475 310 210 18" data-safe-name="ADM">
+    <rect class="softRed" x="462" y="475" width="310" height="210" rx="24"/>
+    <circle cx="512" cy="525" r="28" fill="#7A2430"/>
+    <text class="badgeText" x="512" y="532" text-anchor="middle">ADM</text>
+    <text class="label" x="558" y="533">ADM</text>
+    <text class="small" x="492" y="575">dogane</text><text class="small" x="492" y="611">accise</text><text class="small" x="492" y="647">monopoli</text>
+  </g>
+  
+  <g data-safe-box="805 475 310 210 18" data-safe-name="AdER">
+    <rect class="softGreen" x="805" y="475" width="310" height="210" rx="24"/>
+    <circle cx="855" cy="525" r="28" fill="#2F7D5A"/>
+    <text class="badgeText" x="855" y="532" text-anchor="middle">AdER</text>
+    <text class="label" x="901" y="533">AdER</text>
+    <text class="small" x="835" y="575">riscossione</text><text class="small" x="835" y="611">pagamenti</text><text class="small" x="835" y="647">debitore</text>
+  </g>
+  
+  <g data-safe-box="1148 475 310 210 18" data-safe-name="Profili">
+    <rect class="softGold" x="1148" y="475" width="310" height="210" rx="24"/>
+    <circle cx="1198" cy="525" r="28" fill="#D4AF37"/>
+    <text class="badgeText" x="1198" y="532" text-anchor="middle">P</text>
+    <text class="label" x="1244" y="533">Profili</text>
+    <text class="small" x="1178" y="575">lessico</text><text class="small" x="1178" y="611">prove</text><text class="small" x="1178" y="647">output</text>
+  </g>
+  
+  <g data-safe-box="245 781 1110 62 14" data-safe-name="nota">
+    <rect x="245" y="781" width="1110" height="62" rx="22" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2"/>
+    <text class="noteText" x="273" y="820">Collegamento al MEF non significa identita con il Ministero: ogni ente ha funzione propria.</text>
+  </g>
+
+</svg>

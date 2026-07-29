@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Mappa BANDO delle authority</title>
+  <desc id="desc">Dal bando al percorso di studio, fino all'output richiesto in prova.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; } .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; } .softRed { fill: #F8E8EA; stroke: #E3B9BF; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E8D080; stroke-width: 2.5; } .softGreen { fill: #E7F3ED; stroke: #A8D1BD; stroke-width: 2.5; }
+      .softTeal { fill: #E4F4F5; stroke: #A3D5D8; stroke-width: 2.5; } .note { fill: #FFF7ED; stroke: #E7C18E; stroke-width: 2.5; }
+      .ink { fill: #0F172A; font-family: Arial, Helvetica, sans-serif; } .muted { fill: #526174; font-family: Arial, Helvetica, sans-serif; }
+      .title { font-size: 43px; font-weight: 700; } .subtitle { font-size: 22px; } .label { font-family: Arial, Helvetica, sans-serif; font-size: 25px; font-weight: 700; }
+      .body { font-family: Arial, Helvetica, sans-serif; font-size: 20px; } .small { font-family: Arial, Helvetica, sans-serif; font-size: 18px; }
+      .navy { fill: #10233F; } .bordeaux { fill: #7A2430; } .gold { fill: #D4AF37; } .green { fill: #2F7D5A; } .teal { fill: #1F6F78; }
+      .line { stroke: #94A3B8; stroke-width: 4; stroke-linecap: round; fill: none; } .thin { stroke: #CBD5E1; stroke-width: 2.5; stroke-linecap: round; fill: none; }
+      .arrowNavy { stroke: #10233F; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowNavy); } .arrowBordeaux { stroke: #7A2430; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowBordeaux); }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#10233F"/></marker>
+    <marker id="arrowBordeaux" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#7A2430"/></marker>
+  </defs>
+  <rect class="bg" width="1600" height="1000"/>
+  <text class="ink title" x="800" y="70" text-anchor="middle">Mappa BANDO delle authority</text>
+  <text class="muted subtitle" x="800" y="112" text-anchor="middle">Dal bando al percorso di studio, fino all'output richiesto in prova.</text>
+  
+  <g data-safe-box="520 190 560 160 8"><rect class="softBlue" x="520" y="190" width="560" height="160" rx="22"/><rect x="520" y="190" width="560" height="10" rx="5" fill="#10233F"/><text class="navy label" x="800" y="238" text-anchor="middle" style="font-size:21px">Bando per authority</text><text class="muted small" x="800" y="278" text-anchor="middle" style="font-size:16px">ente, profilo, materie e formato della prova</text>
+<text class="muted small" x="800" y="305" text-anchor="middle" style="font-size:16px">prima leggi il programma, poi scegli il percorso</text></g>
+  <path class="line" d="M800 350 L800 405"/>
+  <path class="line" d="M800 405 L220 405 L220 485"/>
+<path class="line" d="M800 405 L510 405 L510 485"/>
+<path class="line" d="M800 405 L800 405 L800 485"/>
+<path class="line" d="M800 405 L1090 405 L1090 485"/>
+<path class="line" d="M800 405 L1380 405 L1380 485"/>
+  <g data-safe-box="105 500 230 150 8"><rect class="softBlue" x="105" y="500" width="230" height="150" rx="22"/><rect x="105" y="500" width="230" height="10" rx="5" fill="#10233F"/><text class="navy label" x="220" y="548" text-anchor="middle" style="font-size:23px">B — Bando</text><text class="muted small" x="220" y="588" text-anchor="middle" style="font-size:18px">ente, profilo, prove</text>
+<text class="muted small" x="220" y="615" text-anchor="middle" style="font-size:18px">programma e criteri</text></g>
+<g data-safe-box="395 500 230 150 8"><rect class="softRed" x="395" y="500" width="230" height="150" rx="22"/><rect x="395" y="500" width="230" height="10" rx="5" fill="#7A2430"/><text class="bordeaux label" x="510" y="548" text-anchor="middle" style="font-size:23px">A — Aree</text><text class="muted small" x="510" y="588" text-anchor="middle" style="font-size:18px">base VOL-01</text>
+<text class="muted small" x="510" y="615" text-anchor="middle" style="font-size:18px">delta M-FC05</text></g>
+<g data-safe-box="685 500 230 150 8"><rect class="softGold" x="685" y="500" width="230" height="150" rx="22"/><rect x="685" y="500" width="230" height="10" rx="5" fill="#D4AF37"/><text class="gold label" x="800" y="548" text-anchor="middle" style="font-size:23px">N — Nuclei</text><text class="muted small" x="800" y="588" text-anchor="middle" style="font-size:18px">fonte, interesse</text>
+<text class="muted small" x="800" y="615" text-anchor="middle" style="font-size:18px">potere e procedura</text></g>
+<g data-safe-box="975 500 230 150 8"><rect class="softGreen" x="975" y="500" width="230" height="150" rx="22"/><rect x="975" y="500" width="230" height="10" rx="5" fill="#2F7D5A"/><text class="green label" x="1090" y="548" text-anchor="middle" style="font-size:23px">D — Diario</text><text class="muted small" x="1090" y="588" text-anchor="middle" style="font-size:18px">errori, rinvii</text>
+<text class="muted small" x="1090" y="615" text-anchor="middle" style="font-size:18px">priorità e dubbi</text></g>
+<g data-safe-box="1265 500 230 150 8"><rect class="softTeal" x="1265" y="500" width="230" height="150" rx="22"/><rect x="1265" y="500" width="230" height="10" rx="5" fill="#1F6F78"/><text class="teal label" x="1380" y="548" text-anchor="middle" style="font-size:23px">O — Output</text><text class="muted small" x="1380" y="588" text-anchor="middle" style="font-size:18px">quiz, memo, caso</text>
+<text class="muted small" x="1380" y="615" text-anchor="middle" style="font-size:18px">risposta orale</text></g>
+  <g data-safe-box="230 835 1140 70 8"><rect class="note" x="230" y="835" width="1140" height="70" rx="24"/><text class="ink body" x="800" y="879" text-anchor="middle" style="font-weight:700;font-size:20px">Obiettivo: trasformare la sigla dell'ente in una preparazione verificabile e non dispersiva.</text></g>
+
+</svg>

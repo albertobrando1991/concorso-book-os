@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Identificativo, classamento e rendita</title>
+  <desc id="desc">Dal Comune al subalterno, poi categoria, classe, consistenza e rendita catastale.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; }
+      .softRed { fill: #F8E8EA; stroke: #E3B9BF; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E8D080; stroke-width: 2.5; }
+      .softGreen { fill: #E7F3ED; stroke: #A8D1BD; stroke-width: 2.5; }
+      .softTeal { fill: #E4F4F5; stroke: #A3D5D8; stroke-width: 2.5; }
+      .note { fill: #FFF7ED; stroke: #E7C18E; stroke-width: 2.5; }
+      .ink { fill: #0F172A; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 43px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 22px; letter-spacing: 0; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 24px; font-weight: 800; letter-spacing: 0; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; letter-spacing: 0; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 18px; letter-spacing: 0; }
+      .line { stroke: #94A3B8; stroke-width: 4; stroke-linecap: round; fill: none; }
+      .arrowNavy { stroke: #10233F; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowNavy); }
+      .arrowBordeaux { stroke: #7A2430; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowBordeaux); }
+      .arrowGold { stroke: #D4AF37; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGold); }
+      .arrowGreen { stroke: #2F7D5A; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGreen); }
+      .arrowTeal { stroke: #1F6F78; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowTeal); }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#10233F"/></marker>
+    <marker id="arrowBordeaux" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#7A2430"/></marker>
+    <marker id="arrowGold" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#D4AF37"/></marker>
+    <marker id="arrowGreen" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2F7D5A"/></marker>
+    <marker id="arrowTeal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1F6F78"/></marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <g data-safe-box="120 14 1360 116 0" data-safe-name="header">
+    <text class="ink title" x="800" y="68" text-anchor="middle">Identificativo, classamento e rendita</text>
+    <text class="muted subtitle" x="800" y="106" text-anchor="middle">Dal Comune al subalterno, poi categoria, classe, consistenza e rendita catastale.</text>
+  </g>
+  
+  <rect class="card" x="70" y="160" width="1460" height="640" rx="30"/>
+  <g data-safe-box="110 305 170 164 6" data-safe-name="Comune">
+    <rect class="softBlue" x="110" y="305" width="170" height="164" rx="22"/>
+    <circle cx="144" cy="343" r="21" fill="#10233F"/>
+    <text x="144" y="351" text-anchor="middle" fill="#FFFFFF" style="font: 800 21px 'Segoe UI', Arial, sans-serif">1</text>
+    <text class="ink label" x="138" y="387">Comune</text>
+    <text class="muted small" x="138" y="421">base</text>
+<text class="muted small" x="138" y="444">territoriale</text>
+  </g>
+  <g data-safe-box="340 305 170 164 6" data-safe-name="Foglio">
+    <rect class="softRed" x="340" y="305" width="170" height="164" rx="22"/>
+    <circle cx="374" cy="343" r="21" fill="#7A2430"/>
+    <text x="374" y="351" text-anchor="middle" fill="#FFFFFF" style="font: 800 21px 'Segoe UI', Arial, sans-serif">2</text>
+    <text class="ink label" x="368" y="387">Foglio</text>
+    <text class="muted small" x="368" y="421">porzione</text>
+<text class="muted small" x="368" y="444">di mappa</text>
+  </g>
+  <g data-safe-box="570 305 170 164 6" data-safe-name="Particella">
+    <rect class="softGold" x="570" y="305" width="170" height="164" rx="22"/>
+    <circle cx="604" cy="343" r="21" fill="#D4AF37"/>
+    <text x="604" y="351" text-anchor="middle" fill="#FFFFFF" style="font: 800 21px 'Segoe UI', Arial, sans-serif">3</text>
+    <text class="ink label" x="598" y="387">Particella</text>
+    <text class="muted small" x="598" y="421">area o</text>
+<text class="muted small" x="598" y="444">mappale</text>
+  </g>
+  <g data-safe-box="800 305 170 164 6" data-safe-name="Subalterno">
+    <rect class="softGreen" x="800" y="305" width="170" height="164" rx="22"/>
+    <circle cx="834" cy="343" r="21" fill="#2F7D5A"/>
+    <text x="834" y="351" text-anchor="middle" fill="#FFFFFF" style="font: 800 21px 'Segoe UI', Arial, sans-serif">4</text>
+    <text class="ink label" x="828" y="387">Subalterno</text>
+    <text class="muted small" x="828" y="421">unita</text>
+<text class="muted small" x="828" y="444">distinta</text>
+  </g>
+  <g data-safe-box="1030 305 170 164 6" data-safe-name="Classam.">
+    <rect class="softTeal" x="1030" y="305" width="170" height="164" rx="22"/>
+    <circle cx="1064" cy="343" r="21" fill="#1F6F78"/>
+    <text x="1064" y="351" text-anchor="middle" fill="#FFFFFF" style="font: 800 21px 'Segoe UI', Arial, sans-serif">5</text>
+    <text class="ink label" x="1058" y="387">Classam.</text>
+    <text class="muted small" x="1058" y="421">categoria</text>
+<text class="muted small" x="1058" y="444">classe</text>
+  </g>
+  <g data-safe-box="1260 305 170 164 6" data-safe-name="Rendita">
+    <rect class="softBlue" x="1260" y="305" width="170" height="164" rx="22"/>
+    <circle cx="1294" cy="343" r="21" fill="#10233F"/>
+    <text x="1294" y="351" text-anchor="middle" fill="#FFFFFF" style="font: 800 21px 'Segoe UI', Arial, sans-serif">6</text>
+    <text class="ink label" x="1288" y="387">Rendita</text>
+    <text class="muted small" x="1288" y="421">dato</text>
+<text class="muted small" x="1288" y="444">catastale</text>
+  </g>
+  <path class="arrowNavy" d="M280 387 L330 387"/>
+  <path class="arrowBordeaux" d="M510 387 L560 387"/>
+  <path class="arrowGold" d="M740 387 L790 387"/>
+  <path class="arrowGreen" d="M970 387 L1020 387"/>
+  <path class="arrowTeal" d="M1200 387 L1250 387"/>
+  <g data-safe-box="260 595 330 106 8" data-safe-name="Identificazione">
+    <rect class="softRed" x="260" y="595" width="330" height="106" rx="20"/>
+    <text class="ink label" x="284" y="631">Identificazione</text>
+    <text class="muted small" x="284" y="663">prima localizzo il bene</text>
+    <rect x="260" y="595" width="10" height="106" rx="5" fill="#7A2430"/>
+  </g>
+  <g data-safe-box="635 595 330 106 8" data-safe-name="Classamento">
+    <rect class="softGold" x="635" y="595" width="330" height="106" rx="20"/>
+    <text class="ink label" x="659" y="631">Classamento</text>
+    <text class="muted small" x="659" y="663">poi qualifico l'unita</text>
+    <rect x="635" y="595" width="10" height="106" rx="5" fill="#D4AF37"/>
+  </g>
+  <g data-safe-box="1010 595 330 106 8" data-safe-name="Cautela">
+    <rect class="softGreen" x="1010" y="595" width="330" height="106" rx="20"/>
+    <text class="ink label" x="1034" y="631">Cautela</text>
+    <text class="muted small" x="1034" y="663">non prova da sola proprieta</text>
+    <rect x="1010" y="595" width="10" height="106" rx="5" fill="#2F7D5A"/>
+  </g>
+  <g data-safe-box="245 815 1110 54 14" data-safe-name="nota">
+    <rect class="note" x="245" y="815" width="1110" height="54" rx="18"/>
+    <text class="ink body" x="800" y="850" text-anchor="middle">La sequenza evita di confondere identificativo, classamento, rendita e titolo giuridico.</text>
+  </g>
+
+</svg>

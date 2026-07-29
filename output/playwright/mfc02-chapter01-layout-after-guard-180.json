@@ -1,0 +1,177 @@
+{
+  "pageCount": 18,
+  "pageWidths": [
+    635
+  ],
+  "pageHeights": [
+    907
+  ],
+  "badPages": [
+    {
+      "pageIndex": 6,
+      "text": "1. Mappa delle Agenzie fiscali e dei profili concorsualicontinuaFigura 1.3 - Le tre porte di ingresso: Agenzia delle Entrate, ADM ",
+      "blockProblems": [
+        {
+          "blockIndex": 4,
+          "tag": "div",
+          "label": "Segnale nel bandoClassificazione probabileCosa studiare con priorita'Risorse umane, organi",
+          "bottom": 7066,
+          "safeBottom": 7060,
+          "overlapSafeBottom": 6
+        },
+        {
+          "blockIndex": 5,
+          "tag": "p",
+          "label": "Questa tabella deve essere compilata a matita, non scolpita nella pietra. Ogni bando va le",
+          "bottom": 7110,
+          "safeBottom": 7060,
+          "overlapSafeBottom": 50
+        }
+      ],
+      "siblingOverlaps": [],
+      "figures": [
+        {
+          "alt": "Figura 1.3 - Le tre porte di ingresso: Agenzia delle Entrate, ADM e Agenzia delle Entrate-Riscossione.",
+          "naturalWidth": 1600,
+          "naturalHeight": 1000,
+          "complete": true,
+          "figureInsidePage": true,
+          "rect": {
+            "top": 6277,
+            "right": 1142,
+            "bottom": 6563,
+            "left": 605,
+            "width": 537,
+            "height": 285
+          }
+        }
+      ]
+    },
+    {
+      "pageIndex": 8,
+      "text": "1. Mappa delle Agenzie fiscali e dei profili concorsualicontinuaLe materie che spostano il pianoNon tutte le materie del programma",
+      "blockProblems": [
+        {
+          "blockIndex": 8,
+          "tag": "p",
+          "label": "Questa verifica evita due errori opposti: entrare nel modulo sbagliato e uscire dal modulo",
+          "bottom": 8935,
+          "safeBottom": 8922,
+          "overlapSafeBottom": 13
+        }
+      ],
+      "siblingOverlaps": [],
+      "figures": []
+    },
+    {
+      "pageIndex": 9,
+      "text": "1. Mappa delle Agenzie fiscali e dei profili concorsualicontinuaIl Bando Decoder fiscaleOgni bando M-FC02 deve essere trasformato ",
+      "blockProblems": [
+        {
+          "blockIndex": 5,
+          "tag": "figure",
+          "label": "Figura 1.5 - Bando Decoder fiscale: la scheda minima da compilare prima del piano di studio.",
+          "bottom": 9883,
+          "safeBottom": 9853,
+          "overlapSafeBottom": 31
+        }
+      ],
+      "siblingOverlaps": [],
+      "figures": [
+        {
+          "alt": "Figura 1.5 - Bando Decoder fiscale: la scheda minima da compilare prima del piano di studio.",
+          "naturalWidth": 1600,
+          "naturalHeight": 1000,
+          "complete": true,
+          "figureInsidePage": false,
+          "rect": {
+            "top": 9598,
+            "right": 1142,
+            "bottom": 9883,
+            "left": 605,
+            "width": 537,
+            "height": 285
+          }
+        }
+      ]
+    }
+  ],
+  "uniqueFigureCount": 5,
+  "uniqueFigures": [
+    {
+      "alt": "Figura 1.1 - Mappa BANDO delle Agenzie fiscali: dal bando al sottopercorso, fino a output e diario dei rischi.",
+      "naturalWidth": 1600,
+      "naturalHeight": 1000,
+      "complete": true,
+      "figureInsidePage": true,
+      "rect": {
+        "top": 1622,
+        "right": 1142,
+        "bottom": 1907,
+        "left": 605,
+        "width": 537,
+        "height": 285
+      }
+    },
+    {
+      "alt": "Figura 1.2 - Perimetro M-FC02: concorsi dentro, fuori e misti da classificare con cautela.",
+      "naturalWidth": 1600,
+      "naturalHeight": 1000,
+      "complete": true,
+      "figureInsidePage": true,
+      "rect": {
+        "top": 4562,
+        "right": 1142,
+        "bottom": 4833,
+        "left": 605,
+        "width": 537,
+        "height": 271
+      }
+    },
+    {
+      "alt": "Figura 1.3 - Le tre porte di ingresso: Agenzia delle Entrate, ADM e Agenzia delle Entrate-Riscossione.",
+      "naturalWidth": 1600,
+      "naturalHeight": 1000,
+      "complete": true,
+      "figureInsidePage": true,
+      "rect": {
+        "top": 6277,
+        "right": 1142,
+        "bottom": 6563,
+        "left": 605,
+        "width": 537,
+        "height": 285
+      }
+    },
+    {
+      "alt": "Figura 1.4 - Nucleo comune piu' delta fiscale: dalla base generale alla prova reale.",
+      "naturalWidth": 1600,
+      "naturalHeight": 1000,
+      "complete": true,
+      "figureInsidePage": true,
+      "rect": {
+        "top": 7586,
+        "right": 1142,
+        "bottom": 7857,
+        "left": 605,
+        "width": 537,
+        "height": 271
+      }
+    },
+    {
+      "alt": "Figura 1.5 - Bando Decoder fiscale: la scheda minima da compilare prima del piano di studio.",
+      "naturalWidth": 1600,
+      "naturalHeight": 1000,
+      "complete": true,
+      "figureInsidePage": false,
+      "rect": {
+        "top": 9598,
+        "right": 1142,
+        "bottom": 9883,
+        "left": 605,
+        "width": 537,
+        "height": 285
+      }
+    }
+  ]
+}
