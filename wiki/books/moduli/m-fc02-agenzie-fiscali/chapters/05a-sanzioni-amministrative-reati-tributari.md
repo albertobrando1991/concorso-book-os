@@ -6,10 +6,10 @@ status: revised_draft
 domain: "concorsi pubblici italiani"
 topics: ["sanzioni amministrative tributarie", "reati tributari", "illecito tributario", "ravvedimento", "agenzie fiscali"]
 entities: ["Agenzia delle Entrate", "Agenzia delle Dogane e dei Monopoli", "Agenzia delle Entrate-Riscossione", "Normattiva"]
-source_refs: ["sources/sanzioni-amministrative-tributarie-aggiornamento-2026-07-18.md", "sources/reati-tributari-dlgs-74-2000-aggiornamento-2026-07-18.md", "sources/delitti-contro-pa-codice-penale-2026.md"]
+source_refs: ["sources/sanzioni-amministrative-tributarie-aggiornamento-2026-07-18.md", "sources/reati-tributari-dlgs-74-2000-aggiornamento-2026-07-18.md", "sources/processo-tributario-dlgs-175-2024-aggiornamento-2026-07-18.md", "sources/delitti-contro-pa-codice-penale-2026.md"]
 book_refs: ["m-fc02-agenzie-fiscali", "il-metodo-bando"]
 confidence: 0.91
-updated_at: 2026-07-18T00:00:00+02:00
+updated_at: 2026-07-29T19:50:00+02:00
 created_at: 2026-07-18T00:00:00+02:00
 review_required: true
 canonical: true
@@ -20,7 +20,7 @@ draft_stage: revised-editorial-draft
 module_code: M-FC02
 module_family: funzioni-centrali
 companion_to: il-metodo-bando
-last_compiled_from: ["wiki/sources/sanzioni-amministrative-tributarie-aggiornamento-2026-07-18.md", "wiki/sources/reati-tributari-dlgs-74-2000-aggiornamento-2026-07-18.md", "wiki/sources/delitti-contro-pa-codice-penale-2026.md", "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md", "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md", "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md", "wiki/books/il-metodo-bando/chapters/pubblico-impiego-e-organizzazione-pa.md"]
+last_compiled_from: ["wiki/sources/sanzioni-amministrative-tributarie-aggiornamento-2026-07-18.md", "wiki/sources/reati-tributari-dlgs-74-2000-aggiornamento-2026-07-18.md", "wiki/sources/processo-tributario-dlgs-175-2024-aggiornamento-2026-07-18.md", "wiki/sources/delitti-contro-pa-codice-penale-2026.md", "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md", "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md", "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario.md", "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md", "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader.md", "wiki/books/il-metodo-bando/chapters/pubblico-impiego-e-organizzazione-pa.md", "wiki/books/moduli/m-fc02-agenzie-fiscali/planning/02-matrice-copertura-didattica.md"]
 ---
 
 # Sanzioni amministrative e reati tributari
@@ -29,9 +29,9 @@ last_compiled_from: ["wiki/sources/sanzioni-amministrative-tributarie-aggiorname
 
 Nel caso fiscale una sola vicenda puo produrre conseguenze diverse. Il contribuente puo dovere il tributo non versato, gli interessi per il ritardo, una sanzione amministrativa per la violazione e, quando ricorrono tutti gli elementi previsti dalla legge, puo emergere anche un reato. Questi piani comunicano, ma non coincidono.
 
-Il primo errore da evitare e' usare la parola “sanzione” per indicare qualunque somma richiesta. Il secondo e' chiamare “reato” ogni irregolarita. Il terzo e' pensare che pagamento, ravvedimento o definizione producano lo stesso effetto sul tributo, sulla sanzione e sul penale.
+Gli errori piu frequenti nascono da qualificazioni troppo rapide: chiamare “sanzione” qualunque somma richiesta, definire “reato” ogni irregolarita o attribuire a pagamento, ravvedimento e definizione gli stessi effetti sul piano tributario, amministrativo e penale.
 
-Questo capitolo insegna un metodo di qualificazione. Non memorizza percentuali, pene o soglie mobili: mostra come individuare obbligo, violazione, autore, data del fatto, conseguenza e procedimento. Il riferimento temporale e' il diritto applicabile al 18 luglio 2026.
+La qualificazione parte da obbligo, violazione, autore, data del fatto, conseguenza e procedimento. Percentuali, pene e soglie mobili richiedono invece il controllo del testo vigente. Il riferimento temporale adottato e' il diritto applicabile al 18 luglio 2026.
 
 ## Obiettivo del capitolo
 
@@ -73,7 +73,19 @@ Nel 2026 la parte generale delle sanzioni amministrative tributarie resta discip
 
 Il D.Lgs. 173/2024 ha approvato il testo unico delle sanzioni tributarie amministrative e penali, ma la sua applicabilita e' fissata al **1 gennaio 2027** dopo il rinvio disposto dal D.L. 200/2025, convertito dalla L. 26/2026. Nel caso riferito al 2026 non va applicato come se avesse gia sostituito i D.Lgs. 471, 472 e 74.
 
+### Regola temporale e TU 173 dal 2027
+
 > **Regola temporale:** prima della norma si fissa la data della violazione. Una modifica sopravvenuta impone di verificare legalita, successione delle leggi, disciplina piu favorevole e disposizioni transitorie.
+
+La data del fatto, la data da cui la nuova disciplina e' applicabile e il momento in cui l'autorita procede sono informazioni diverse. Il candidato non deve scegliere la fonte in base alla data della domanda d'esame o dell'atto ricevuto: deve prima collocare la condotta nel tempo e poi verificare successione e regime transitorio.
+
+| Verifica | Domanda operativa |
+| --- | --- |
+| Data del fatto | Quando e' stata commessa la condotta o si e' perfezionata l'omissione? |
+| Fonte applicabile | Quale testo regolava il fatto e quale disciplina e' sopravvenuta? |
+| Decorrenza | La nuova disciplina e' gia applicabile oppure ha efficacia differita? |
+| Regime transitorio | Esistono disposizioni che regolano i fatti anteriori? |
+| Disciplina favorevole | Ricorrono i presupposti per applicarla senza combinare frammenti di regimi diversi? |
 
 ## 3. Legalita, irretroattivita e favor rei
 
@@ -105,7 +117,7 @@ La delega non elimina automaticamente ogni responsabilita del delegante; allo st
 
 ## 5. Cause di non punibilita
 
-Le cause di non punibilita operano soltanto nei presupposti tipizzati. Nel livello concorsuale e' essenziale riconoscere le categorie senza trasformarle in scuse generiche:
+Le cause di non punibilita operano soltanto nei presupposti tipizzati. In sede concorsuale vanno riconosciute senza trasformarle in scuse generiche:
 
 - errore sul fatto non determinato da colpa: il soggetto percepisce in modo inesatto un elemento della realta e l'errore non gli e' rimproverabile;
 - obiettive condizioni di incertezza sulla portata o sull'ambito della norma: la difficolta riguarda oggettivamente il quadro normativo, non la sola incomprensione personale;
@@ -170,7 +182,7 @@ errore -> obbligo corretto -> momento della scoperta -> condizioni vigenti
        -> adempimenti necessari -> effetti amministrativi -> verifica penale separata
 ```
 
-Il ravvedimento puo avere riflessi penal-tributari soltanto nei casi e nei tempi stabiliti. Non basta pronunciarne il nome per escludere un reato.
+Il ravvedimento puo avere riflessi penal-tributari soltanto nei casi e nei tempi stabiliti. Il suo richiamo, da solo, non esclude un reato.
 
 ## 9. Contestazione, irrogazione e tutela
 
@@ -231,7 +243,7 @@ La sottrazione fraudolenta al pagamento delle imposte richiede una condotta tipi
 
 Il diritto penale non punisce la sola differenza fiscale. Le fattispecie richiedono il dolo previsto; molte valorizzano il fine di evasione, altre seguono una struttura specifica. Il candidato non deve aggiungere intenzioni non presenti nella traccia.
 
-Una risposta prudente distingue:
+La risposta deve distinguere:
 
 - fatto oggettivo documentato;
 - consapevolezza e volonta richieste;
@@ -269,7 +281,8 @@ Il pagamento puo regolarizzare il debito e incidere sulla sanzione amministrativ
 
 Alfa emette documenti per operazioni mai avvenute. Beta li registra e li utilizza nella propria dichiarazione. Un controllo ricostruisce i flussi.
 
-Non basta parlare genericamente di frode. Per Alfa si valuta la condotta di emissione; per Beta l'utilizzo dichiarativo. Per ciascun soggetto si ricostruiscono documento, periodo, dolo, condizioni di punibilita e conseguenze amministrative. Il recupero dell'IVA e le sanzioni non sostituiscono l'accertamento dei reati.
+La qualifica generica di frode non descrive le due condotte. Per Alfa si valuta l'emissione; per Beta l'utilizzo dichiarativo. Per ciascun soggetto si ricostruiscono documento, periodo, dolo, condizioni di punibilita e conseguenze amministrative. Il recupero dell'IVA e le sanzioni non sostituiscono l'accertamento dei reati.
+
 ## Caso guidato 3 - AdER: mancato pagamento o sottrazione fraudolenta?
 
 Una societa riceve gli atti della riscossione e non paga per insufficienza dei flussi. Poi vende un bene a condizioni apparentemente anomale a un soggetto collegato. Il rappresentante afferma che “ogni debitore insolvente commette sottrazione fraudolenta”.
@@ -293,6 +306,13 @@ La vendita richiede una verifica autonoma: natura ed effettivita dell'atto, corr
 **Domanda.** Illustri i principi delle sanzioni amministrative tributarie e il rapporto con i reati tributari.
 
 **Risposta guida.** Le sanzioni amministrative seguono legalita, irretroattivita, favor rei, imputabilita e colpevolezza. Occorre individuare autore, eventuali concorrenti, cause di non punibilita e coordinamento tra violazioni. Il ravvedimento consente la regolarizzazione nei presupposti vigenti; contestazione e irrogazione seguono il procedimento previsto. Il reato richiede invece una fattispecie del D.Lgs. 74/2000, elemento soggettivo ed eventuali soglie o condizioni. Recupero, sanzione e penale restano distinti, pur essendo coordinati.
+
+Per costruire la risposta, usa questa sequenza:
+
+```text
+fatto e data -> obbligo -> condotta -> autore
+-> elemento soggettivo -> conseguenza -> procedimento e tutela
+```
 
 ## Domande-trappola
 
@@ -377,6 +397,7 @@ Trasforma il quarto fatto in una risposta orale di dieci righe senza usare le es
 
 - [[sources/sanzioni-amministrative-tributarie-aggiornamento-2026-07-18]]
 - [[sources/reati-tributari-dlgs-74-2000-aggiornamento-2026-07-18]]
+- [[sources/processo-tributario-dlgs-175-2024-aggiornamento-2026-07-18]]
 - [[sources/delitti-contro-pa-codice-penale-2026]]
 - [[books/il-metodo-bando/chapters/pubblico-impiego-e-organizzazione-pa#Reati contro la pubblica amministrazione: il quadro essenziale]]
 - [[books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta]]

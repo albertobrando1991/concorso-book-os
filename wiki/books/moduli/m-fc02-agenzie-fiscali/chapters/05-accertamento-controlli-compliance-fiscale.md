@@ -6,7 +6,7 @@ status: revised_draft
 domain: "concorsi pubblici italiani"
 topics: ["accertamento tributario","controlli fiscali","compliance fiscale","contraddittorio","adempimento collaborativo","fiscalita internazionale","residenza fiscale","stabile organizzazione","transfer pricing","tax control framework"]
 entities: ["Agenzia delle Entrate","Normattiva","OCSE","Ministero dell'economia e delle finanze"]
-source_refs: ["sources/normativa-tributaria-tuir-iva-accertamento-m-fc02.md","sources/adempimento-collaborativo-compliance-fiscale-m-fc02.md","sources/vol-03-fonti-specialistiche-fisco-dogane-previdenza-ispettivo.md","sources/accertamento-contraddittorio-compliance-aggiornamento-2026-07-17.md","sources/processo-tributario-dlgs-175-2024-aggiornamento-2026-07-18.md","sources/fiscalita-internazionale-acfi-aggiornamento-2026-07-18.md"]
+source_refs: ["sources/normativa-tributaria-tuir-iva-accertamento-m-fc02.md","sources/adempimento-collaborativo-compliance-fiscale-m-fc02.md","sources/vol-03-fonti-specialistiche-fisco-dogane-previdenza-ispettivo.md","sources/accertamento-contraddittorio-compliance-aggiornamento-2026-07-17.md","sources/processo-tributario-dlgs-175-2024-aggiornamento-2026-07-18.md","sources/fiscalita-internazionale-acfi-aggiornamento-2026-07-18.md","sources/adempimenti-contabilita-civile-commerciale-m-fc02.md","sources/autotutela-adesione-deflativi-aggiornamento-2026-07-29.md"]
 asset_refs:
   - "books/moduli/m-fc02-agenzie-fiscali/assets/chapter-05/01-mappa-bando-accertamento-compliance.png"
   - "books/moduli/m-fc02-agenzie-fiscali/assets/chapter-05/02-sequenza-controllo-accertamento.png"
@@ -15,7 +15,7 @@ asset_refs:
   - "books/moduli/m-fc02-agenzie-fiscali/assets/chapter-05/05-adempimento-collaborativo-tcf.png"
 book_refs: ["m-fc02-agenzie-fiscali","il-metodo-bando"]
 confidence: 0.95
-updated_at: 2026-07-18T00:00:00+02:00
+updated_at: 2026-07-29T18:20:00+02:00
 created_at: 2026-07-01T21:00:00+02:00
 review_required: true
 canonical: true
@@ -26,7 +26,7 @@ outline_section: 5
 draft_stage: revised-editorial-draft
 module_code: M-FC02
 module_family: funzioni-centrali
-last_compiled_from: ["wiki/sources/normativa-tributaria-tuir-iva-accertamento-m-fc02.md","wiki/sources/adempimento-collaborativo-compliance-fiscale-m-fc02.md","wiki/sources/vol-03-fonti-specialistiche-fisco-dogane-previdenza-ispettivo.md","wiki/sources/accertamento-contraddittorio-compliance-aggiornamento-2026-07-17.md","wiki/sources/processo-tributario-dlgs-175-2024-aggiornamento-2026-07-18.md","wiki/sources/fiscalita-internazionale-acfi-aggiornamento-2026-07-18.md","wiki/topics/accertamento-compliance-fiscale.md","wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md","wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md","wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco.md"]
+last_compiled_from: ["wiki/sources/normativa-tributaria-tuir-iva-accertamento-m-fc02.md","wiki/sources/adempimento-collaborativo-compliance-fiscale-m-fc02.md","wiki/sources/vol-03-fonti-specialistiche-fisco-dogane-previdenza-ispettivo.md","wiki/sources/accertamento-contraddittorio-compliance-aggiornamento-2026-07-17.md","wiki/sources/processo-tributario-dlgs-175-2024-aggiornamento-2026-07-18.md","wiki/sources/fiscalita-internazionale-acfi-aggiornamento-2026-07-18.md","wiki/sources/adempimenti-contabilita-civile-commerciale-m-fc02.md","wiki/topics/accertamento-compliance-fiscale.md","wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md","wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario.md","wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md","wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco.md","wiki/books/moduli/m-fc02-agenzie-fiscali/planning/02-matrice-copertura-didattica.md","wiki/books/volumi/vol-03-fisco-dogane-previdenza-ispettivo/planning/02-matrice-copertura-didattica.md"]
 ---
 
 # Accertamento, controlli e compliance fiscale
@@ -35,11 +35,11 @@ last_compiled_from: ["wiki/sources/normativa-tributaria-tuir-iva-accertamento-m-
 
 L'accertamento tributario non e' un singolo atto che compare all'improvviso alla fine di un controllo. E' il possibile esito di un percorso nel quale l'amministrazione seleziona una posizione, acquisisce e valuta dati, esercita poteri istruttori, confronta le risultanze con quanto dichiarato e, quando ne ricorrono i presupposti, formalizza una pretesa motivata.
 
-Questa sequenza interessa direttamente i concorsi dell'Agenzia delle Entrate. Una domanda puo' chiedere la differenza tra controllo automatico e accertamento sostanziale, il ruolo della motivazione, la funzione del contraddittorio oppure il significato di compliance fiscale. La difficolta non sta solo nel numero delle norme. Sta nel tenere separati passaggi che nel linguaggio comune vengono confusi: anomalia, controllo, istruttoria, comunicazione, schema di atto, accertamento, definizione e riscossione.
+Questa sequenza interessa direttamente i concorsi dell'Agenzia delle Entrate. Una domanda puo' chiedere la differenza tra controllo automatico e accertamento sostanziale, il ruolo della motivazione, la funzione del contraddittorio oppure il significato di compliance fiscale. La difficolta deriva dal numero delle norme e, soprattutto, dalla necessita di tenere separati passaggi che nel linguaggio comune vengono confusi: anomalia, controllo, istruttoria, comunicazione, schema di atto, accertamento, definizione e riscossione.
 
 Il capitolo adotta una prospettiva amministrativa. Ogni potere deve avere una fonte, una finalita e un limite. Ogni atto deve essere riconducibile a un ufficio competente e a un procedimento. Il contribuente non e' un destinatario muto: le garanzie di conoscenza, partecipazione e motivazione incidono sulla qualita e sulla legittimita dell'azione fiscale.
 
-La compliance completa il quadro. Non sostituisce il controllo e non coincide con un atteggiamento indulgente. Mira a prevenire l'inadempimento, rendere riconoscibili le anomalie e favorire la correzione tempestiva. Nel regime di adempimento collaborativo questa logica diventa un rapporto strutturato fondato sulla gestione del rischio fiscale e su interlocuzioni preventive.
+La compliance affianca il controllo con strumenti diretti a prevenire l'inadempimento, rendere riconoscibili le anomalie e favorire la correzione tempestiva. Non implica indulgenza verso le violazioni. Nel regime di adempimento collaborativo assume la forma di un rapporto strutturato, fondato sulla gestione del rischio fiscale e su interlocuzioni preventive.
 
 ## Obiettivo del capitolo
 
@@ -50,7 +50,8 @@ Al termine del capitolo devi saper:
 3. spiegare la funzione di motivazione, conoscenza degli atti e autotutela;
 4. separare accertamento, definizione e riscossione;
 5. descrivere compliance ordinaria e adempimento collaborativo;
-6. applicare la mappa a un caso e a una risposta orale.
+6. applicare la mappa a un caso e a una risposta orale;
+7. ricostruire un audit fiscale dal dato contabile all'eventuale rettifica.
 
 ## Mappa BANDO
 
@@ -68,13 +69,13 @@ La mappa evita di studiare l'accertamento come una raccolta di articoli scollega
 
 L'amministrazione finanziaria opera su dichiarazioni, versamenti, comunicazioni e informazioni provenienti dalle banche dati o acquisite attraverso i poteri previsti dall'ordinamento. Il dato, tuttavia, non e' ancora una pretesa. Puo' segnalare un'incoerenza, orientare una verifica oppure richiedere un approfondimento.
 
-Il primo passaggio logico e' quindi la selezione. Le risorse di controllo non sono illimitate; l'amministrazione deve indirizzarle verso posizioni che presentano indicatori di rischio o anomalie rilevanti. La selezione non dimostra l'evasione. Individua le situazioni da esaminare.
+Il primo passaggio logico e' la selezione. Poiche le risorse di controllo non sono illimitate, l'amministrazione le indirizza verso posizioni che presentano indicatori di rischio o anomalie rilevanti. La selezione individua le situazioni da esaminare, senza dimostrare l'evasione.
 
 Il candidato deve evitare una scorciatoia: "il sistema rileva una differenza, quindi emette l'accertamento". Tra il dato e l'atto possono collocarsi controlli automatizzati, richieste documentali, verifiche, interlocuzioni e valutazioni giuridiche. La forma concreta dipende dal tributo, dalla dichiarazione e dalla disciplina applicabile.
 
 ## Controllo automatico, formale e sostanziale
 
-Le tre categorie aiutano a ordinare lo studio, purchÃ© non vengano usate come sinonimi.
+Le tre categorie aiutano a ordinare lo studio, purché non vengano usate come sinonimi.
 
 | Tipo | Oggetto prevalente | Esito possibile | Errore tipico |
 | --- | --- | --- | --- |
@@ -82,7 +83,7 @@ Le tre categorie aiutano a ordinare lo studio, purchÃ© non vengano usate come 
 | Formale | Riscontro di dati e documenti indicati nella dichiarazione. | Richiesta documentale e comunicazione dell'esito. | Pensare che sia privo di istruttoria. |
 | Sostanziale | Ricostruzione e valutazione della posizione fiscale mediante i poteri previsti. | Atto impositivo motivato, se ne ricorrono i presupposti. | Confonderlo con una mera correzione aritmetica. |
 
-Il controllo automatico lavora principalmente sui dati disponibili e sulle operazioni di liquidazione previste. Il controllo formale puÃ² richiedere il riscontro di documenti e condizioni dichiarate. Il controllo sostanziale entra piÃ¹ profondamente nella ricostruzione della fattispecie e nell'esercizio dei poteri istruttori.
+Il controllo automatico lavora principalmente sui dati disponibili e sulle operazioni di liquidazione previste. Il controllo formale può richiedere il riscontro di documenti e condizioni dichiarate. Il controllo sostanziale entra più profondamente nella ricostruzione della fattispecie e nell'esercizio dei poteri istruttori.
 
 La classificazione serve anche per il contraddittorio: non tutti gli atti e non tutte le comunicazioni seguono lo stesso regime. Prima di applicare una garanzia occorre identificare la natura dell'attivita e l'atto finale.
 
@@ -102,7 +103,7 @@ Non serve anticipare ogni dettaglio procedurale. Serve capire il vincolo di lega
 
 ## La prova e la motivazione
 
-Nel procedimento tributario occorre distinguere acquisizione dell'elemento, valutazione probatoria e motivazione dell'atto. Un dato puÃ² costituire un indizio, richiedere riscontri oppure concorrere con altri elementi. La qualificazione dipende dalle norme applicabili e dalla fattispecie.
+Nel procedimento tributario occorre distinguere acquisizione dell'elemento, valutazione probatoria e motivazione dell'atto. Un dato può costituire un indizio, richiedere riscontri oppure concorrere con altri elementi. La qualificazione dipende dalle norme applicabili e dalla fattispecie.
 
 La motivazione rende conoscibile il percorso seguito dall'amministrazione. Deve consentire al destinatario di comprendere ragioni di fatto e di diritto della pretesa e di esercitare le proprie difese. Una motivazione apparente o generica non svolge questa funzione.
 
@@ -126,7 +127,7 @@ Termini, atti esclusi ed effetti dell'omissione devono essere verificati sul tes
 
 Lo schema di atto apre il confronto; non coincide con l'atto definitivo. Presenta la ricostruzione che l'ufficio intende porre a fondamento della pretesa e consente al contribuente di reagire prima della decisione finale.
 
-L'atto conclusivo deve tenere conto dell'istruttoria nel suo complesso. Se le osservazioni sono accolte, la ricostruzione puÃ² cambiare o la pretesa puÃ² non essere formalizzata. Se non sono accolte, la motivazione deve spiegare il percorso seguito.
+L'atto conclusivo deve tenere conto dell'istruttoria nel suo complesso. Se le osservazioni sono accolte, la ricostruzione può cambiare o la pretesa può non essere formalizzata. Se non sono accolte, la motivazione deve spiegare il percorso seguito.
 
 La sequenza da ricordare e':
 
@@ -140,7 +141,9 @@ Non ogni controllo percorre necessariamente tutti questi passaggi nello stesso m
 
 L'autotutela consente all'amministrazione di riesaminare i propri atti secondo la disciplina vigente. Non va descritta come un ricorso informale ne' come una garanzia che sospende automaticamente termini e riscossione. Il candidato deve distinguerla dalla definizione concordata della pretesa e dall'impugnazione davanti al giudice tributario.
 
-Il punto teorico e' semplice: l'autotutela agisce dentro l'amministrazione, la definizione concordata usa un istituto tipizzato previsto dalla legge, il ricorso apre la tutela giurisdizionale. Se il commissario chiede "chi decide?", la risposta cambia: nell'autotutela decide o rivaluta l'ufficio; nella definizione concordata la disciplina consente un assetto già predeterminato; nel ricorso decide il giudice.
+La disciplina distingue autotutela obbligatoria e facoltativa. La prima opera nelle ipotesi tipizzate di manifesta illegittimita, tra le quali rientrano errori di persona, calcolo, individuazione del tributo o presupposto, mancata considerazione di pagamenti regolari e documentazione sanata nei limiti consentiti. Fuori da tali casi, l'amministrazione puo esercitare l'autotutela facoltativa quando l'atto o l'imposizione risultano illegittimi o infondati. In entrambi i casi occorre verificare i limiti fissati dalla disciplina vigente.
+
+I tre strumenti operano su piani diversi: l'autotutela agisce dentro l'amministrazione, la definizione concordata usa un istituto tipizzato previsto dalla legge, il ricorso apre la tutela giurisdizionale. Se il commissario chiede "chi decide?", la risposta cambia: nell'autotutela decide o rivaluta l'ufficio; nella definizione concordata la disciplina consente un assetto già predeterminato; nel ricorso decide il giudice.
 
 Tre domande aiutano:
 
@@ -159,6 +162,8 @@ Tre domande aiutano:
 
 La disciplina puntuale appartiene al capitolo sul processo tributario e alla source note processuale consolidata. Qui conta la classificazione: il controllo produce una pretesa, l'autotutela corregge o ritira l'atto secondo legge, la definizione concordata chiude o ridetermina la lite, il ricorso attiva la tutela giurisdizionale.
 
+La distinzione produce conseguenze operative. Un'istanza rivolta all'ufficio non sostituisce il ricorso e non consente di presumere che i termini processuali o la riscossione siano sospesi. Allo stesso modo, l'apertura di un giudizio non impedisce all'amministrazione di riesaminare l'atto nei casi e con gli effetti stabiliti dalla disciplina vigente. Il candidato deve quindi verificare separatamente quattro elementi: autorita competente, atto interessato, fase del rapporto ed effetto richiesto.
+
 ### Strumenti da non confondere
 
 | Strumento | Funzione | Non va confuso con |
@@ -167,6 +172,30 @@ La disciplina puntuale appartiene al capitolo sul processo tributario e alla sou
 | Definizione concordata | Riduzione o chiusura della pretesa mediante istituto tipizzato. | Rinuncia ai controlli o favore discrezionale. |
 | Ricorso | Contestazione dell'atto davanti al giudice tributario. | Istanza interna all'ufficio. |
 | Tutela cautelare | Evita un pregiudizio irreparabile o grave durante il giudizio, nei casi previsti. | Sospensione automatica di ogni riscossione. |
+
+Questa tabella serve a classificare, non a scegliere automaticamente uno strumento. Condizioni di accesso, termini, perfezionamento ed effetti dipendono dall'istituto applicabile e dal testo vigente.
+
+### Verifica degli effetti
+
+Davanti a una domanda su autotutela o definizione, usa questa griglia:
+
+| Controllo | Domanda |
+| --- | --- |
+| Presupposto | Quale errore, vizio o situazione consente di attivare lo strumento? |
+| Iniziativa | Agisce l'ufficio, il contribuente o entrambe le parti secondo una procedura tipizzata? |
+| Fase | La pretesa e' ancora amministrativa oppure esiste gia un giudizio? |
+| Effetto | Lo strumento corregge, ritira, ridetermina, definisce o sospende? |
+| Termini | La disciplina attribuisce un effetto sui termini oppure occorre tutelarsi su un piano distinto? |
+| Destinazione | Il punto richiede il quadro processuale completo del capitolo 5B? |
+
+Il [[books/moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario#2. Autotutela e strumenti deflativi: perimetro corretto|capitolo 5B, sezione 'Autotutela e strumenti deflativi: perimetro corretto']] sviluppa il raccordo con ricorso, cautela, conciliazione e processo. Il rinvio non autorizza a trattare autotutela, adesione, acquiescenza o conciliazione come istituti equivalenti.
+
+| Istituto | Fase | Funzione | Effetto essenziale |
+| --- | --- | --- | --- |
+| Autotutela | Piano amministrativo, anche con giudizio pendente nei limiti di legge | Riesaminare atto o imposizione | Annullamento totale o parziale, oppure rinuncia all'imposizione |
+| Accertamento con adesione | Accertamento e fase precontenziosa | Definire la pretesa mediante procedimento tipizzato | Atto di adesione e definizione nei limiti perfezionati |
+| Acquiescenza | Dopo l'atto, senza impugnazione | Accettare l'atto alle condizioni legali | Stabilizzazione e trattamento previsto dalla disciplina |
+| Conciliazione | Giudizio pendente | Comporre totalmente o parzialmente la controversia | Cessazione totale o parziale e titolo per le somme |
 
 ### Caso guidato
 
@@ -181,13 +210,13 @@ Il piu frequente e' confondere il piano amministrativo con quello processuale: s
 
 L'accertamento forma o rettifica la pretesa attraverso l'atto previsto. La riscossione riguarda il pagamento e, quando necessario, le procedure con cui il credito viene portato a esecuzione. AdER opera nel secondo baricentro; l'Agenzia delle Entrate svolge le funzioni di amministrazione, controllo e accertamento dei tributi di propria competenza.
 
-La domanda-trappola e' frequente: "La cartella di pagamento e' un atto di accertamento?". La risposta non puÃ² ridursi a un sÃ¬ o a un no astratto. Occorre identificare la funzione dell'atto e la fase in cui interviene. La cartella appartiene alla riscossione; l'accertamento appartiene alla formazione della pretesa, salvo i particolari effetti che la legge attribuisce ai diversi atti.
+La domanda-trappola e' frequente: "La cartella di pagamento e' un atto di accertamento?". La risposta non può ridursi a un sì o a un no astratto. Occorre identificare la funzione dell'atto e la fase in cui interviene. La cartella appartiene alla riscossione; l'accertamento appartiene alla formazione della pretesa, salvo i particolari effetti che la legge attribuisce ai diversi atti.
 
 ## Compliance fiscale ordinaria
 
-Compliance significa favorire l'adempimento corretto prima che l'anomalia diventi una violazione consolidata o una controversia. L'amministrazione puÃ² utilizzare dati e analisi per segnalare incoerenze, invitare il contribuente a verificare la propria posizione e rendere disponibili canali di correzione previsti dall'ordinamento.
+Compliance significa favorire l'adempimento corretto prima che l'anomalia diventi una violazione consolidata o una controversia. L'amministrazione può utilizzare dati e analisi per segnalare incoerenze, invitare il contribuente a verificare la propria posizione e rendere disponibili canali di correzione previsti dall'ordinamento.
 
-Questa logica non elimina il controllo. Lo rende piÃ¹ selettivo. Il contribuente che riceve una comunicazione deve valutarne contenuto e fondamento; l'ufficio deve distinguere errore, anomalia e condotta evasiva. La compliance funziona quando l'informazione e' comprensibile e la regolarizzazione avviene secondo regole conoscibili.
+Questa logica non elimina il controllo. Lo rende più selettivo. Il contribuente che riceve una comunicazione deve valutarne contenuto e fondamento; l'ufficio deve distinguere errore, anomalia e condotta evasiva. La compliance funziona quando l'informazione e' comprensibile e la regolarizzazione avviene secondo regole conoscibili.
 
 Per il concorso, la formula utile e':
 
@@ -202,6 +231,63 @@ Il tax control framework non e' una semplice raccolta di procedure. Deve consent
 Il modello richiede doveri reciproci. Il contribuente assicura trasparenza e tempestivita nella comunicazione dei rischi; l'amministrazione offre interlocuzione, certezza preventiva nei limiti consentiti e un controllo coerente con il profilo di rischio. La cooperazione non trasforma l'ufficio in consulente dell'impresa e non neutralizza la legge.
 
 Soglie dimensionali, certificazioni, requisiti di accesso ed effetti premiali sono stati oggetto di interventi recenti. Vanno studiati sul testo vigente quando il bando richiede il dettaglio, soprattutto per profili ACFI e fiscalita internazionale.
+
+## Audit fiscale: dal bilancio al controllo
+
+L'audit fiscale collega dati contabili, regole tributarie, dichiarazioni e rischio di non conformita. Va oltre la lettura del bilancio e non attribuisce automaticamente a ogni differenza il significato di evasione. Ricostruisce il percorso del dato, individua le regole applicabili e valuta se la posizione dichiarata e' coerente con documenti e fatti.
+
+Il punto di partenza e' la contabilita. Operazioni, fatture, crediti, debiti, costi e ricavi confluiscono nelle scritture e nel bilancio secondo regole civilistiche e contabili. La determinazione fiscale puo pero richiedere qualificazioni, variazioni o limiti ulteriori. Per questo utile civilistico, reddito imponibile, operazione IVA e importo dichiarato sono grandezze collegate, ma non intercambiabili.
+
+La tecnica contabile e il raccordo tra utile e imponibile sono spiegati nel [[books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco#14. Dal bilancio al reddito imponibile|capitolo 11, sezione "Dal bilancio al reddito imponibile"]]. Qui interessa il passaggio successivo: come quei dati entrano nella selezione e nell'istruttoria fiscale.
+
+### Dal dato contabile alla dichiarazione
+
+La sequenza minima e':
+
+```text
+operazione -> documento -> registrazione -> bilancio
+-> qualificazione fiscale -> dichiarazione -> controllo
+```
+
+Ogni passaggio risponde a una domanda diversa. Il documento prova il fatto rappresentato nei limiti della sua attendibilita; la registrazione lo colloca nel sistema contabile; il bilancio lo sintetizza; la disciplina tributaria ne stabilisce la rilevanza fiscale; la dichiarazione espone la posizione del contribuente. Il controllo verifica la coerenza del percorso e puo richiedere elementi ulteriori.
+
+Una divergenza puo dipendere da un errore, da una differenza temporale, da una diversa qualificazione o da un'omissione. Prima di formulare una rettifica, l'ufficio deve individuare la regola violata, acquisire gli elementi pertinenti e motivare perche la ricostruzione adottata risulta fondata.
+
+### Dall'indicatore di rischio all'istruttoria
+
+Un margine anomalo, una divergenza tra fatture e ricavi o una variazione fiscale inconsueta puo orientare la selezione. E' un segnale, non una prova conclusiva. L'audit procede per verifiche:
+
+1. delimita soggetto, periodo e tributo;
+2. individua il dato anomalo e la sua fonte;
+3. ricostruisce il trattamento contabile e fiscale;
+4. confronta documenti, dichiarazioni e informazioni legittimamente acquisite;
+5. considera le spiegazioni alternative sostenute dagli elementi disponibili;
+6. distingue errore sanabile, questione interpretativa e possibile violazione;
+7. collega l'eventuale rettifica a prova e motivazione.
+
+Per un profilo ACFI questa sequenza si coordina con il tax control framework. Un sistema interno capace di rilevare e gestire il rischio non impedisce il controllo, ma rende tracciabili responsabilita, verifiche e interlocuzioni preventive.
+
+### Caso contabile-fiscale
+
+Beta S.p.A. espone in bilancio un costo rilevante e lo considera nella determinazione del reddito fiscale. Un indicatore automatico segnala uno scostamento rispetto ai dati disponibili.
+
+L'ufficio non puo concludere che il costo sia indeducibile per il solo scostamento. Deve identificare la natura del componente, verificare documento, registrazione, competenza e collegamento con l'attivita, quindi applicare la disciplina fiscale pertinente. Beta puo spiegare che la differenza deriva da una variazione temporale o da un dato rappresentato in un periodo diverso. Se questa ricostruzione e' documentata, va valutata; se non supera gli elementi acquisiti, l'atto finale deve spiegare perche.
+
+Dal caso si ricavano tre risultati:
+
+- una mappa delle fonti del dato;
+- un elenco delle verifiche istruttorie;
+- una motivazione che colleghi fatto, prova, norma e conseguenza.
+
+### Come lo chiede la commissione
+
+**Domanda.** Perche una divergenza tra bilancio e dichiarazione non prova da sola una violazione?
+
+**Risposta modello.** Perche bilancio e reddito fiscale seguono regole collegate ma distinte. La divergenza e' un indicatore da qualificare: occorre ricostruire il dato contabile, applicare la regola tributaria, acquisire la documentazione e valutare le spiegazioni del contribuente. Solo dopo l'ufficio puo motivare l'eventuale rettifica.
+
+**Domanda-trappola.** Il tax control framework sostituisce l'audit dell'amministrazione?
+
+**Risposta.** No. Il sistema interno gestisce il rischio fiscale e favorisce interlocuzioni tempestive; i poteri di controllo restano esercitabili secondo la legge.
 
 ## Profili ACFI e fiscalita internazionale
 
@@ -276,17 +362,18 @@ Il rischio di stabile organizzazione puo' essere collegato all'autorizzazione de
 **Quiz 1.** Il rapporto infragruppo prova la stabile organizzazione? **No**, servono i requisiti materiali o personali. **Quiz 2.** Il Masterfile sostituisce la Documentazione Nazionale? **No**, hanno funzioni complementari. **Quiz 3.** Uno scostamento prova la violazione? **No**, richiede analisi di operazione, comparabilita, metodo e dati.
 
 **Checklist ACFI:** soggetto e periodo; criteri interni e convenzione; separazione tra residenza, stabile organizzazione e transfer pricing; contratti e condotta; funzioni, beni e rischi; metodo e comparabili; coerenza documentale e contabile; proprietario, controllo, evidenza e monitoraggio; rimedio alla doppia imposizione; nessun automatismo o dettaglio mobile non verificato.
+
 ## Caso guidato
 
 Un ufficio rileva una divergenza tra i dati dichiarati da una societa e le informazioni disponibili. La divergenza e' significativa, ma non consente ancora di stabilire se vi sia un errore, una diversa qualificazione giuridica o un'omissione.
 
 Il funzionario non parte dall'atto finale. Prima identifica la fonte del dato e il periodo interessato. Verifica la competenza dell'ufficio e sceglie il potere istruttorio adeguato. Acquisisce documenti e chiarimenti, distingue i fatti dalle ipotesi e ricostruisce la disciplina applicabile.
 
-Se il procedimento rientra nel contraddittorio, lo schema di atto espone la ricostruzione e consente alla societa di presentare osservazioni. La societa produce un documento che chiarisce una parte della divergenza e contesta la qualificazione di un'altra operazione. L'ufficio deve valutare entrambe le difese. Non puÃ² ignorarle perchÃ© l'ipotesi iniziale era gia stata formulata.
+Se il procedimento rientra nel contraddittorio, lo schema di atto espone la ricostruzione e consente alla societa di presentare osservazioni. La societa produce un documento che chiarisce una parte della divergenza e contesta la qualificazione di un'altra operazione. L'ufficio deve valutare entrambe le difese. Non può ignorarle perché l'ipotesi iniziale era gia stata formulata.
 
-L'esito puÃ² essere una rideterminazione della pretesa, l'abbandono di una parte dei rilievi oppure l'adozione dell'atto motivato. Solo dopo si aprono gli eventuali percorsi di definizione, impugnazione e riscossione.
+L'esito può essere una rideterminazione della pretesa, l'abbandono di una parte dei rilievi oppure l'adozione dell'atto motivato. Solo dopo si aprono gli eventuali percorsi di definizione, impugnazione e riscossione.
 
-Il caso mostra il criterio centrale: un buon accertamento non e' quello che conferma sempre l'ipotesi iniziale. E' quello che ricostruisce correttamente i fatti e applica la norma attraverso un procedimento verificabile.
+Il criterio che emerge dal caso e' la verificabilita del procedimento. La qualita dell'accertamento dipende dalla corretta ricostruzione dei fatti e dall'applicazione della norma, non dalla conferma dell'ipotesi iniziale.
 
 ## Da sapere in 5 righe
 
@@ -300,22 +387,22 @@ Il caso mostra il criterio centrale: un buon accertamento non e' quello che conf
 
 **Domanda.** Descriva la sequenza essenziale di un accertamento tributario e la funzione del contraddittorio.
 
-**Risposta guida.** L'accertamento puÃ² prendere avvio dalla selezione di una posizione sulla base di dati o indicatori di rischio. L'ufficio svolge quindi l'istruttoria attraverso i poteri previsti, acquisisce e valuta gli elementi e ricostruisce la fattispecie. Quando si applica l'art. 6-bis dello Statuto del contribuente, prima dell'atto definitivo comunica lo schema di atto e consente un contraddittorio informato ed effettivo. Le osservazioni devono essere valutate; l'atto finale espone le ragioni di fatto e di diritto e motiva rispetto alle controdeduzioni non accolte. Accertamento e riscossione restano fasi distinte.
+**Risposta guida.** L'accertamento può prendere avvio dalla selezione di una posizione sulla base di dati o indicatori di rischio. L'ufficio svolge quindi l'istruttoria attraverso i poteri previsti, acquisisce e valuta gli elementi e ricostruisce la fattispecie. Quando si applica l'art. 6-bis dello Statuto del contribuente, prima dell'atto definitivo comunica lo schema di atto e consente un contraddittorio informato ed effettivo. Le osservazioni devono essere valutate; l'atto finale espone le ragioni di fatto e di diritto e motiva rispetto alle controdeduzioni non accolte. Accertamento e riscossione restano fasi distinte.
 
 ## Domanda-trappola
 
 **Domanda.** La compliance fiscale sostituisce l'attivita di accertamento?
 
-**Risposta corretta.** No. La compliance favorisce adempimento spontaneo, prevenzione e gestione del rischio. PuÃ² ridurre errori e conflitti, ma non elimina i poteri di controllo. L'adempimento collaborativo e' un regime specifico, non un'esenzione dall'applicazione della legge tributaria.
+**Risposta corretta.** No. La compliance favorisce adempimento spontaneo, prevenzione e gestione del rischio. Può ridurre errori e conflitti, ma non elimina i poteri di controllo. L'adempimento collaborativo e' un regime specifico, non un'esenzione dall'applicazione della legge tributaria.
 
 ## Errore tipico
 
-L'errore piÃ¹ comune e' raccontare l'accertamento partendo dall'avviso. In questo modo scompaiono selezione, istruttoria, prova e contraddittorio. La risposta diventa un elenco di effetti dell'atto e non dimostra la comprensione del lavoro dell'ufficio.
+L'errore più comune e' raccontare l'accertamento partendo dall'avviso. In questo modo scompaiono selezione, istruttoria, prova e contraddittorio. La risposta diventa un elenco di effetti dell'atto e non dimostra la comprensione del lavoro dell'ufficio.
 
 La correzione consiste nel ripetere sempre cinque domande:
 
 1. quale anomalia o rischio e' stato individuato?;
-2. quale potere puÃ² usare l'ufficio?;
+2. quale potere può usare l'ufficio?;
 3. quali elementi sono stati acquisiti?;
 4. quale garanzia partecipativa si applica?;
 5. come viene motivato l'esito?
@@ -367,6 +454,15 @@ D. elimina i controlli dell'Agenzia.
 
 **Risposta: B.** Deve rilevare, misurare, gestire e controllare il rischio fiscale.
 
+**4. Una divergenza tra bilancio e dichiarazione:**
+
+A. prova da sola una violazione;
+B. e' irrilevante per il controllo;
+C. richiede la ricostruzione del trattamento contabile e fiscale;
+D. consente sempre una rettifica automatica.
+
+**Risposta: C.** Bilancio e reddito fiscale seguono regole collegate ma distinte; la divergenza deve essere qualificata e verificata.
+
 ## Diario degli errori
 
 | Errore | Segnale | Correzione |
@@ -386,7 +482,9 @@ D. elimina i controlli dell'Agenzia.
 - Non confondo autotutela, definizione e ricorso.
 - Non confondo accertamento e riscossione.
 - So definire compliance fiscale e tax control framework.
-- So spiegare perchÃ© l'adempimento collaborativo non elimina il controllo.
+- So spiegare perché l'adempimento collaborativo non elimina il controllo.
+- So ricostruire il percorso operazione-documento-bilancio-dichiarazione-controllo.
+- Distinguo un indicatore di audit da una prova conclusiva.
 - Ho svolto il caso guidato e i quiz.
 - Ho verificato sul bando il livello di dettaglio normativo richiesto.
 
@@ -397,6 +495,8 @@ D. elimina i controlli dell'Agenzia.
 - [[sources/vol-03-fonti-specialistiche-fisco-dogane-previdenza-ispettivo]]
 - [[sources/accertamento-contraddittorio-compliance-aggiornamento-2026-07-17]]
 - [[sources/fiscalita-internazionale-acfi-aggiornamento-2026-07-18]]
+- [[sources/adempimenti-contabilita-civile-commerciale-m-fc02]]
+- [[sources/autotutela-adesione-deflativi-aggiornamento-2026-07-29]]
 - [[topics/accertamento-compliance-fiscale]]
 - [[books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta]]
 

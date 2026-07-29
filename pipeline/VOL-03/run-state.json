@@ -3,7 +3,7 @@
   "specPath": "books/volumi/vol-03-fisco-dogane-previdenza-ispettivo/planning/00-scheda-pipeline.md",
   "specHash": "sha256:7a5be32028a6026f42eac9b7a221a5879330c694249c48b679a9f6ab5999df16",
   "createdAt": "2026-07-27T20:05:30.039Z",
-  "updatedAt": "2026-07-28T19:53:13.881Z",
+  "updatedAt": "2026-07-29T18:42:27.290Z",
   "steps": [
     {
       "key": "08:moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md",
@@ -421,9 +421,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T15:57:00.673Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T15:57:54.891Z"
     },
     {
       "key": "10:moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md",
@@ -431,9 +441,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T15:58:26.301Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T16:00:15.491Z"
     },
     {
       "key": "11:moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md",
@@ -441,9 +461,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T16:01:57.774Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T16:03:39.485Z"
     },
     {
       "key": "12:moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md",
@@ -451,9 +481,30 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T16:05:17.022Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E01: stato \"proposto\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-04-diritto-tributario-teoria-imposta-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-04-diritto-tributario-teoria-imposta-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-07-29T16:08:16.285Z"
     },
     {
       "key": "08:moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md",
@@ -461,9 +512,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T16:08:57.894Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di aless: Verifica manuale completata: piano operativo creato con sette nuclei assegnati, due nuclei parziali da sviluppare, sezioni da preservare, confini cross-chapter, fonti consolidate, review umane, struttura H1-H3, pulizia mojibake e budget KDP."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-07-29T16:10:45.034Z"
     },
     {
       "key": "09:moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md",
@@ -471,9 +545,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T16:11:33.173Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T16:18:13.089Z"
     },
     {
       "key": "10:moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md",
@@ -481,9 +565,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T16:19:12.497Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T17:26:13.979Z"
     },
     {
       "key": "11:moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md",
@@ -491,9 +585,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T17:27:31.395Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T17:31:24.152Z"
     },
     {
       "key": "12:moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md",
@@ -501,9 +605,30 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T17:32:48.266Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E01: stato \"aperto\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-05-accertamento-controlli-compliance-fiscale-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-05-accertamento-controlli-compliance-fiscale-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-07-29T17:37:12.855Z"
     },
     {
       "key": "08:moduli/m-fc02-agenzie-fiscali/chapters/05a-sanzioni-amministrative-reati-tributari.md",
@@ -511,9 +636,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/05a-sanzioni-amministrative-reati-tributari.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T17:40:35.983Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fc02-agenzie-fiscali/chapters/05a-sanzioni-amministrative-reati-tributari.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di aless: Verifica manuale completata: piano.md contiene nuclei assegnati e stato reale, sezioni da conservare, sviluppi di consolidamento, duplicazioni da evitare, casi ed esercizi, fonti consolidate, review umane, struttura H1/H2/H3, budget KDP e criteri per lo step 09; capitolo non modificato."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-07-29T17:42:48.899Z"
     },
     {
       "key": "09:moduli/m-fc02-agenzie-fiscali/chapters/05a-sanzioni-amministrative-reati-tributari.md",
@@ -521,9 +669,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/05a-sanzioni-amministrative-reati-tributari.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T17:45:15.599Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T17:49:50.302Z"
     },
     {
       "key": "10:moduli/m-fc02-agenzie-fiscali/chapters/05a-sanzioni-amministrative-reati-tributari.md",
@@ -531,9 +689,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/05a-sanzioni-amministrative-reati-tributari.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T17:52:23.718Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T17:54:57.344Z"
     },
     {
       "key": "11:moduli/m-fc02-agenzie-fiscali/chapters/05a-sanzioni-amministrative-reati-tributari.md",
@@ -541,9 +709,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/05a-sanzioni-amministrative-reati-tributari.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T17:56:59.448Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T18:01:32.251Z"
     },
     {
       "key": "12:moduli/m-fc02-agenzie-fiscali/chapters/05a-sanzioni-amministrative-reati-tributari.md",
@@ -551,9 +729,25 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/05a-sanzioni-amministrative-reati-tributari.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T18:02:20.163Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-05a-sanzioni-amministrative-reati-tributari-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-07-29T18:03:18.829Z"
     },
     {
       "key": "08:moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario.md",
@@ -561,9 +755,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T18:03:58.060Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di aless: Verifica manuale completata: piano operativo presente; nuclei assegnati, copertura reale, sezioni da preservare, sviluppi selettivi, duplicazioni, apparati didattici, fonti consolidate, review umane, struttura H1/H2/H3 e budget KDP verificati; incoerenza della matrice VOL-03 rinviata allo step 10; capitolo non modificato."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-07-29T18:07:44.907Z"
     },
     {
       "key": "09:moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario.md",
@@ -571,9 +788,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T18:08:22.543Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T18:19:44.942Z"
     },
     {
       "key": "10:moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario.md",
@@ -581,9 +808,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T18:20:37.359Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T18:27:16.615Z"
     },
     {
       "key": "11:moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario.md",
@@ -591,9 +828,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T18:28:03.898Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T18:31:31.575Z"
     },
     {
       "key": "12:moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario.md",
@@ -601,9 +848,30 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T18:32:15.324Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-05b-tutela-processo-tributario-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V02: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-05b-tutela-processo-tributario-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-07-29T18:33:23.009Z"
     },
     {
       "key": "08:moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md",
@@ -611,9 +879,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T18:40:06.061Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di aless: Verifica manuale completata: piano operativo presente; nuclei IRPEF/IRES, IVA, ciclo adempimenti, dichiarazioni/versamenti/compensazioni e servizi fiscali verificati; sezioni, fonti, rinvii, apparati, cinque asset, review umane e budget KDP pianificati; impalcatura redazionale duplicata da consolidare nello step 09; righe VOL-03 12, 13 e 15 rinviate allo step 10; capitolo non modificato."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-07-29T18:42:27.290Z"
     },
     {
       "key": "09:moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md",

@@ -5,6 +5,15 @@ Usala come profilo di lavoro: le source notes e il wiki restano la base canonica
 
 ## Preferenze e istruzioni recenti
 
+- Procedi con il prossimo step della pipeline VOL-10. (mem-20260729174627-1y2wnqo)
+- Procedi con la pipeline VOL-10. (mem-20260729165942-oct8ih)
+- Analizzare il dossier VOL-10, consolidarlo come riferimento, creare indice completo per moduli e applicare la pipeline. (mem-20260729164331-fy9exk)
+- Procedi con il prossimo step della pipeline VOL-08. (mem-20260729164153-75gld5)
+- Vai con il prossimo step della pipeline VOL-08. (mem-20260729163758-1jdgc39)
+- Prossimo step della pipeline VOL-08. (mem-20260729162210-1e53z9f)
+- Prosegui con il prossimo step della pipeline editoriale del Volume 08. (mem-20260729161553-1t3mrni)
+- Prosegui con il prossimo step della pipeline VOL-08. (mem-20260729160511-1tapsr9)
+- Prosegui con il prossimo step della pipeline VOL-03. (mem-20260729160422-tx5t9u)
 - Per IVA e adempimenti usare struttura stabile e dati mobili solo se verificati e datati. (mem-20260728195821-lfckvc)
 - Regola globale: i capitoli dei manuali concorsuali devono garantire progressione logica, completezza teorica, definizioni funzionali, autonomia didattica, coerenza tra promessa e contenuto, esempi, casi e strumenti operativi. (mem-20260728195821-7higec)
 - Analizzare il dossier M-TR01, consolidarlo come riferimento per VOL-08, creare indice completo e applicare la pipeline. (mem-20260728195813-19kzbwe)
@@ -76,12 +85,3 @@ Usala come profilo di lavoro: le source notes e il wiki restano la base canonica
 - Integra immagini editoriali coerenti con il libro base nel capitolo 3 M-FC02 Ordinamento e organizzazione AE, ADM e AdER. (mem-20260703205049-xs17hp)
 - Integra immagini editoriali coerenti con il libro base nel capitolo attuale M-FC02 capitolo 5, scegliendo numero, tema e posizione, senza sovrapposizioni di testo o immagini. (mem-20260703225358-mfc02-cap05-images-workflow)
 - Redigere il quinto capitolo del modulo M-FC02 con stile accademico/manualistico, struttura coerente con gli altri capitoli esistenti, fonti consolidate e fonti autorevoli se necessarie. (mem-20260702204657-mfc02-cap05-instruction)
-- Analizzare il DOCX Idea di business e vendita libri Capitale Personale e ristrutturare dashboard e lista testi in funzione della nuova struttura dei volumi. (mem-20260703153748-pv65mj)
-- Integra immagini editoriali coerenti con il libro base nel capitolo attuale M-FC02, scegliendo numero, tema e posizione, senza sovrapposizioni di testo o immagini. (mem-20260702202003-mfc02-cap04-images-workflow)
-- Redigere il quarto capitolo del modulo M-FC02 con stile accademico/manualistico, struttura coerente con gli altri capitoli esistenti, fonti consolidate e fonti autorevoli se necessarie. (mem-20260702200540-mfc02-cap04-instruction)
-- Redigere il terzo capitolo del modulo M-FC02 con stile accademico/manualistico, fonti consolidate e struttura dei capitoli esistenti. (mem-20260702174254-iq6giv)
-- Correggi dettaglio memoria intervento immagini M-FC02 capitolo 2. (mem-20260702172618-86ux49)
-- Integra immagini editoriali coerenti nel capitolo 2 M-FC02 Bando Decoder fiscale, con layout senza sovrapposizioni. (mem-20260702172456-xesxf9)
-- PRODEGUI CON IL SECONDO CAPITOLO DEL LIBRO (mem-20260702163706-1pr3th0)
-- Usa prima il cervello wiki: struttura madre, nota capitolo, source notes, topic pages, entity pages e design system; scarica altre fonti necessarie per la copertura totale della conoscenza e procedi poi alla scrittura professionale del capitolo completo (mem-20260629152136-195qkxl)
-- instruction=Scrivi il capitolo effettivo , non un riepilogo tecnico. (mem-20260629152136-1cg7i7s)

@@ -207,6 +207,8 @@ Aggiornato: 2026-07-20T10:20:00+02:00
 - [[sources/struttura-madre-il-metodo-bando]]
 - [[sources/taglio-priorita-studio-concorsi-metodo-bando]]
 - [[sources/template-bando-decoder-metodo-bando]]
+- [[sources/modulo-m-tr03-tecnico-ingegneristico-vol-10]]
+- [[sources/campione-bandi-tecnici-pa-vol-10-2026]]
 - [[sources/trasparenza-anticorruzione-controlli-tracciabilita-contratti-pubblici]]
 
 ## Topics
