@@ -1,0 +1,2703 @@
+{
+  "volumeCode": "VOL-02",
+  "specPath": "books/vol-02-enti-locali-polizia-locale/planning/00-scheda-pipeline.md",
+  "specHash": "sha256:b9ec2abf7ad63aaa5271f5f2d561817a092ec16c24727d57ebf82ef84b0a5a6b",
+  "createdAt": "2026-07-29T22:02:16.845Z",
+  "updatedAt": "2026-07-29T22:02:39.069Z",
+  "steps": [
+    {
+      "key": "08:moduli/m-fl01-comuni-unioni/chapters/00-piano-editoriale.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/00-piano-editoriale.md",
+      "status": "in-progress",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T22:02:39.069Z"
+    },
+    {
+      "key": "09:moduli/m-fl01-comuni-unioni/chapters/00-piano-editoriale.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/00-piano-editoriale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fl01-comuni-unioni/chapters/00-piano-editoriale.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/00-piano-editoriale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fl01-comuni-unioni/chapters/00-piano-editoriale.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/00-piano-editoriale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fl01-comuni-unioni/chapters/00-piano-editoriale.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/00-piano-editoriale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fl01-comuni-unioni/chapters/01-tuel-operativo-autonomia-organi-funzioni-comune.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/01-tuel-operativo-autonomia-organi-funzioni-comune.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fl01-comuni-unioni/chapters/01-tuel-operativo-autonomia-organi-funzioni-comune.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/01-tuel-operativo-autonomia-organi-funzioni-comune.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fl01-comuni-unioni/chapters/01-tuel-operativo-autonomia-organi-funzioni-comune.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/01-tuel-operativo-autonomia-organi-funzioni-comune.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fl01-comuni-unioni/chapters/01-tuel-operativo-autonomia-organi-funzioni-comune.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/01-tuel-operativo-autonomia-organi-funzioni-comune.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fl01-comuni-unioni/chapters/01-tuel-operativo-autonomia-organi-funzioni-comune.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/01-tuel-operativo-autonomia-organi-funzioni-comune.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fl01-comuni-unioni/chapters/02-statuto-regolamenti-autonomia-normativa-locale.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/02-statuto-regolamenti-autonomia-normativa-locale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fl01-comuni-unioni/chapters/02-statuto-regolamenti-autonomia-normativa-locale.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/02-statuto-regolamenti-autonomia-normativa-locale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fl01-comuni-unioni/chapters/02-statuto-regolamenti-autonomia-normativa-locale.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/02-statuto-regolamenti-autonomia-normativa-locale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fl01-comuni-unioni/chapters/02-statuto-regolamenti-autonomia-normativa-locale.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/02-statuto-regolamenti-autonomia-normativa-locale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fl01-comuni-unioni/chapters/02-statuto-regolamenti-autonomia-normativa-locale.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/02-statuto-regolamenti-autonomia-normativa-locale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fl01-comuni-unioni/chapters/03-organizzazione-comunale-uffici-servizi-gestioni-associate.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/03-organizzazione-comunale-uffici-servizi-gestioni-associate.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fl01-comuni-unioni/chapters/03-organizzazione-comunale-uffici-servizi-gestioni-associate.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/03-organizzazione-comunale-uffici-servizi-gestioni-associate.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fl01-comuni-unioni/chapters/03-organizzazione-comunale-uffici-servizi-gestioni-associate.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/03-organizzazione-comunale-uffici-servizi-gestioni-associate.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fl01-comuni-unioni/chapters/03-organizzazione-comunale-uffici-servizi-gestioni-associate.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/03-organizzazione-comunale-uffici-servizi-gestioni-associate.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fl01-comuni-unioni/chapters/03-organizzazione-comunale-uffici-servizi-gestioni-associate.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/03-organizzazione-comunale-uffici-servizi-gestioni-associate.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fl01-comuni-unioni/chapters/04-deliberazioni-determinazioni-decreti-ordinanze-pareri.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/04-deliberazioni-determinazioni-decreti-ordinanze-pareri.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fl01-comuni-unioni/chapters/04-deliberazioni-determinazioni-decreti-ordinanze-pareri.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/04-deliberazioni-determinazioni-decreti-ordinanze-pareri.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fl01-comuni-unioni/chapters/04-deliberazioni-determinazioni-decreti-ordinanze-pareri.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/04-deliberazioni-determinazioni-decreti-ordinanze-pareri.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fl01-comuni-unioni/chapters/04-deliberazioni-determinazioni-decreti-ordinanze-pareri.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/04-deliberazioni-determinazioni-decreti-ordinanze-pareri.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fl01-comuni-unioni/chapters/04-deliberazioni-determinazioni-decreti-ordinanze-pareri.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/04-deliberazioni-determinazioni-decreti-ordinanze-pareri.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fl01-comuni-unioni/chapters/05-procedimento-locale-protocollo-albo-urp-accesso.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/05-procedimento-locale-protocollo-albo-urp-accesso.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fl01-comuni-unioni/chapters/05-procedimento-locale-protocollo-albo-urp-accesso.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/05-procedimento-locale-protocollo-albo-urp-accesso.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fl01-comuni-unioni/chapters/05-procedimento-locale-protocollo-albo-urp-accesso.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/05-procedimento-locale-protocollo-albo-urp-accesso.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fl01-comuni-unioni/chapters/05-procedimento-locale-protocollo-albo-urp-accesso.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/05-procedimento-locale-protocollo-albo-urp-accesso.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fl01-comuni-unioni/chapters/05-procedimento-locale-protocollo-albo-urp-accesso.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/05-procedimento-locale-protocollo-albo-urp-accesso.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fl01-comuni-unioni/chapters/06-servizi-digitali-comunali-cad-anpr-gestione-documentale.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/06-servizi-digitali-comunali-cad-anpr-gestione-documentale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fl01-comuni-unioni/chapters/06-servizi-digitali-comunali-cad-anpr-gestione-documentale.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/06-servizi-digitali-comunali-cad-anpr-gestione-documentale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fl01-comuni-unioni/chapters/06-servizi-digitali-comunali-cad-anpr-gestione-documentale.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/06-servizi-digitali-comunali-cad-anpr-gestione-documentale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fl01-comuni-unioni/chapters/06-servizi-digitali-comunali-cad-anpr-gestione-documentale.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/06-servizi-digitali-comunali-cad-anpr-gestione-documentale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fl01-comuni-unioni/chapters/06-servizi-digitali-comunali-cad-anpr-gestione-documentale.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/06-servizi-digitali-comunali-cad-anpr-gestione-documentale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fl01-comuni-unioni/chapters/07-servizi-demografici-elettorali.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/07-servizi-demografici-elettorali.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fl01-comuni-unioni/chapters/07-servizi-demografici-elettorali.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/07-servizi-demografici-elettorali.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fl01-comuni-unioni/chapters/07-servizi-demografici-elettorali.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/07-servizi-demografici-elettorali.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fl01-comuni-unioni/chapters/07-servizi-demografici-elettorali.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/07-servizi-demografici-elettorali.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fl01-comuni-unioni/chapters/07-servizi-demografici-elettorali.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/07-servizi-demografici-elettorali.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fl01-comuni-unioni/chapters/08-welfare-locale-servizi-sociali-isee-minori-servizi-educativi.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/08-welfare-locale-servizi-sociali-isee-minori-servizi-educativi.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fl01-comuni-unioni/chapters/08-welfare-locale-servizi-sociali-isee-minori-servizi-educativi.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/08-welfare-locale-servizi-sociali-isee-minori-servizi-educativi.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fl01-comuni-unioni/chapters/08-welfare-locale-servizi-sociali-isee-minori-servizi-educativi.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/08-welfare-locale-servizi-sociali-isee-minori-servizi-educativi.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fl01-comuni-unioni/chapters/08-welfare-locale-servizi-sociali-isee-minori-servizi-educativi.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/08-welfare-locale-servizi-sociali-isee-minori-servizi-educativi.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fl01-comuni-unioni/chapters/08-welfare-locale-servizi-sociali-isee-minori-servizi-educativi.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/08-welfare-locale-servizi-sociali-isee-minori-servizi-educativi.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fl01-comuni-unioni/chapters/09-programmazione-integrata-comunale-dup-bilancio-peg-piao-performance.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/09-programmazione-integrata-comunale-dup-bilancio-peg-piao-performance.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fl01-comuni-unioni/chapters/09-programmazione-integrata-comunale-dup-bilancio-peg-piao-performance.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/09-programmazione-integrata-comunale-dup-bilancio-peg-piao-performance.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fl01-comuni-unioni/chapters/09-programmazione-integrata-comunale-dup-bilancio-peg-piao-performance.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/09-programmazione-integrata-comunale-dup-bilancio-peg-piao-performance.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fl01-comuni-unioni/chapters/09-programmazione-integrata-comunale-dup-bilancio-peg-piao-performance.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/09-programmazione-integrata-comunale-dup-bilancio-peg-piao-performance.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fl01-comuni-unioni/chapters/09-programmazione-integrata-comunale-dup-bilancio-peg-piao-performance.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/09-programmazione-integrata-comunale-dup-bilancio-peg-piao-performance.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fl01-comuni-unioni/chapters/10-gestione-finanziaria-rendiconto-tesoreria-controlli.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/10-gestione-finanziaria-rendiconto-tesoreria-controlli.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fl01-comuni-unioni/chapters/10-gestione-finanziaria-rendiconto-tesoreria-controlli.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/10-gestione-finanziaria-rendiconto-tesoreria-controlli.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fl01-comuni-unioni/chapters/10-gestione-finanziaria-rendiconto-tesoreria-controlli.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/10-gestione-finanziaria-rendiconto-tesoreria-controlli.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fl01-comuni-unioni/chapters/10-gestione-finanziaria-rendiconto-tesoreria-controlli.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/10-gestione-finanziaria-rendiconto-tesoreria-controlli.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fl01-comuni-unioni/chapters/10-gestione-finanziaria-rendiconto-tesoreria-controlli.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/10-gestione-finanziaria-rendiconto-tesoreria-controlli.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fl01-comuni-unioni/chapters/11-entrate-tributi-locali-patrimonio-economato-riscossione.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/11-entrate-tributi-locali-patrimonio-economato-riscossione.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fl01-comuni-unioni/chapters/11-entrate-tributi-locali-patrimonio-economato-riscossione.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/11-entrate-tributi-locali-patrimonio-economato-riscossione.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fl01-comuni-unioni/chapters/11-entrate-tributi-locali-patrimonio-economato-riscossione.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/11-entrate-tributi-locali-patrimonio-economato-riscossione.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fl01-comuni-unioni/chapters/11-entrate-tributi-locali-patrimonio-economato-riscossione.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/11-entrate-tributi-locali-patrimonio-economato-riscossione.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fl01-comuni-unioni/chapters/11-entrate-tributi-locali-patrimonio-economato-riscossione.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/11-entrate-tributi-locali-patrimonio-economato-riscossione.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fl01-comuni-unioni/chapters/12-procurement-operativo-ufficio-comunale.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/12-procurement-operativo-ufficio-comunale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fl01-comuni-unioni/chapters/12-procurement-operativo-ufficio-comunale.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/12-procurement-operativo-ufficio-comunale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fl01-comuni-unioni/chapters/12-procurement-operativo-ufficio-comunale.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/12-procurement-operativo-ufficio-comunale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fl01-comuni-unioni/chapters/12-procurement-operativo-ufficio-comunale.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/12-procurement-operativo-ufficio-comunale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fl01-comuni-unioni/chapters/12-procurement-operativo-ufficio-comunale.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/12-procurement-operativo-ufficio-comunale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fl01-comuni-unioni/chapters/13-territorio-patrimonio-edilizia-lavori-interfaccia-amministrativa.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/13-territorio-patrimonio-edilizia-lavori-interfaccia-amministrativa.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fl01-comuni-unioni/chapters/13-territorio-patrimonio-edilizia-lavori-interfaccia-amministrativa.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/13-territorio-patrimonio-edilizia-lavori-interfaccia-amministrativa.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fl01-comuni-unioni/chapters/13-territorio-patrimonio-edilizia-lavori-interfaccia-amministrativa.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/13-territorio-patrimonio-edilizia-lavori-interfaccia-amministrativa.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fl01-comuni-unioni/chapters/13-territorio-patrimonio-edilizia-lavori-interfaccia-amministrativa.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/13-territorio-patrimonio-edilizia-lavori-interfaccia-amministrativa.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fl01-comuni-unioni/chapters/13-territorio-patrimonio-edilizia-lavori-interfaccia-amministrativa.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/13-territorio-patrimonio-edilizia-lavori-interfaccia-amministrativa.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "13:moduli/m-fl01-comuni-unioni",
+      "id": "13",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-fl01-comuni-unioni",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "14:moduli/m-fl01-comuni-unioni",
+      "id": "14",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-fl01-comuni-unioni",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "15:moduli/m-fl01-comuni-unioni",
+      "id": "15",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-fl01-comuni-unioni",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "16:moduli/m-fl01-comuni-unioni",
+      "id": "16",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-fl01-comuni-unioni",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/00-piano-editoriale.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/00-piano-editoriale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/00-piano-editoriale.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/00-piano-editoriale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/00-piano-editoriale.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/00-piano-editoriale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/00-piano-editoriale.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/00-piano-editoriale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/00-piano-editoriale.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/00-piano-editoriale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/01-il-sistema-territoriale-multilivello.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/01-il-sistema-territoriale-multilivello.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/01-il-sistema-territoriale-multilivello.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/01-il-sistema-territoriale-multilivello.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/01-il-sistema-territoriale-multilivello.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/01-il-sistema-territoriale-multilivello.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/01-il-sistema-territoriale-multilivello.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/01-il-sistema-territoriale-multilivello.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/01-il-sistema-territoriale-multilivello.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/01-il-sistema-territoriale-multilivello.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/02-statuti-organi-organizzazione-regionale.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/02-statuti-organi-organizzazione-regionale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/02-statuti-organi-organizzazione-regionale.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/02-statuti-organi-organizzazione-regionale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/02-statuti-organi-organizzazione-regionale.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/02-statuti-organi-organizzazione-regionale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/02-statuti-organi-organizzazione-regionale.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/02-statuti-organi-organizzazione-regionale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/02-statuti-organi-organizzazione-regionale.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/02-statuti-organi-organizzazione-regionale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/03-funzioni-regionali-rapporti-stato-enti-locali.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/03-funzioni-regionali-rapporti-stato-enti-locali.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/03-funzioni-regionali-rapporti-stato-enti-locali.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/03-funzioni-regionali-rapporti-stato-enti-locali.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/03-funzioni-regionali-rapporti-stato-enti-locali.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/03-funzioni-regionali-rapporti-stato-enti-locali.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/03-funzioni-regionali-rapporti-stato-enti-locali.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/03-funzioni-regionali-rapporti-stato-enti-locali.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/03-funzioni-regionali-rapporti-stato-enti-locali.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/03-funzioni-regionali-rapporti-stato-enti-locali.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/04-procedimenti-atti-organizzazione-amministrativa-regionale.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/04-procedimenti-atti-organizzazione-amministrativa-regionale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/04-procedimenti-atti-organizzazione-amministrativa-regionale.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/04-procedimenti-atti-organizzazione-amministrativa-regionale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/04-procedimenti-atti-organizzazione-amministrativa-regionale.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/04-procedimenti-atti-organizzazione-amministrativa-regionale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/04-procedimenti-atti-organizzazione-amministrativa-regionale.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/04-procedimenti-atti-organizzazione-amministrativa-regionale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/04-procedimenti-atti-organizzazione-amministrativa-regionale.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/04-procedimenti-atti-organizzazione-amministrativa-regionale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/05-programmazione-bilancio-controlli-regionali.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/05-programmazione-bilancio-controlli-regionali.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/05-programmazione-bilancio-controlli-regionali.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/05-programmazione-bilancio-controlli-regionali.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/05-programmazione-bilancio-controlli-regionali.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/05-programmazione-bilancio-controlli-regionali.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/05-programmazione-bilancio-controlli-regionali.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/05-programmazione-bilancio-controlli-regionali.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/05-programmazione-bilancio-controlli-regionali.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/05-programmazione-bilancio-controlli-regionali.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/06-tecnica-legislativa-air-vir-drafting.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/06-tecnica-legislativa-air-vir-drafting.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/06-tecnica-legislativa-air-vir-drafting.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/06-tecnica-legislativa-air-vir-drafting.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/06-tecnica-legislativa-air-vir-drafting.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/06-tecnica-legislativa-air-vir-drafting.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/06-tecnica-legislativa-air-vir-drafting.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/06-tecnica-legislativa-air-vir-drafting.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/06-tecnica-legislativa-air-vir-drafting.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/06-tecnica-legislativa-air-vir-drafting.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/07-politiche-coesione-fondi-ue.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/07-politiche-coesione-fondi-ue.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/07-politiche-coesione-fondi-ue.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/07-politiche-coesione-fondi-ue.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/07-politiche-coesione-fondi-ue.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/07-politiche-coesione-fondi-ue.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/07-politiche-coesione-fondi-ue.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/07-politiche-coesione-fondi-ue.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/07-politiche-coesione-fondi-ue.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/07-politiche-coesione-fondi-ue.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/08-pnrr-territoriale-regis-dnsh-controlli.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/08-pnrr-territoriale-regis-dnsh-controlli.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/08-pnrr-territoriale-regis-dnsh-controlli.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/08-pnrr-territoriale-regis-dnsh-controlli.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/08-pnrr-territoriale-regis-dnsh-controlli.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/08-pnrr-territoriale-regis-dnsh-controlli.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/08-pnrr-territoriale-regis-dnsh-controlli.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/08-pnrr-territoriale-regis-dnsh-controlli.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/08-pnrr-territoriale-regis-dnsh-controlli.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/08-pnrr-territoriale-regis-dnsh-controlli.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/09-province-citta-metropolitane-legge-56-2014.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/09-province-citta-metropolitane-legge-56-2014.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/09-province-citta-metropolitane-legge-56-2014.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/09-province-citta-metropolitane-legge-56-2014.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/09-province-citta-metropolitane-legge-56-2014.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/09-province-citta-metropolitane-legge-56-2014.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/09-province-citta-metropolitane-legge-56-2014.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/09-province-citta-metropolitane-legge-56-2014.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/09-province-citta-metropolitane-legge-56-2014.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/09-province-citta-metropolitane-legge-56-2014.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/10-viabilita-edilizia-scolastica-territorio-espropri.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/10-viabilita-edilizia-scolastica-territorio-espropri.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/10-viabilita-edilizia-scolastica-territorio-espropri.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/10-viabilita-edilizia-scolastica-territorio-espropri.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/10-viabilita-edilizia-scolastica-territorio-espropri.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/10-viabilita-edilizia-scolastica-territorio-espropri.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/10-viabilita-edilizia-scolastica-territorio-espropri.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/10-viabilita-edilizia-scolastica-territorio-espropri.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/10-viabilita-edilizia-scolastica-territorio-espropri.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/10-viabilita-edilizia-scolastica-territorio-espropri.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/11-contratti-servizi-pubblici-locali-societa-partecipate.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/11-contratti-servizi-pubblici-locali-societa-partecipate.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/11-contratti-servizi-pubblici-locali-societa-partecipate.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/11-contratti-servizi-pubblici-locali-societa-partecipate.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/11-contratti-servizi-pubblici-locali-societa-partecipate.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/11-contratti-servizi-pubblici-locali-societa-partecipate.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/11-contratti-servizi-pubblici-locali-societa-partecipate.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/11-contratti-servizi-pubblici-locali-societa-partecipate.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/11-contratti-servizi-pubblici-locali-societa-partecipate.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/11-contratti-servizi-pubblici-locali-societa-partecipate.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/12-laboratorio-profili-regionali-area-vasta.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/12-laboratorio-profili-regionali-area-vasta.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/12-laboratorio-profili-regionali-area-vasta.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/12-laboratorio-profili-regionali-area-vasta.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/12-laboratorio-profili-regionali-area-vasta.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/12-laboratorio-profili-regionali-area-vasta.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/12-laboratorio-profili-regionali-area-vasta.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/12-laboratorio-profili-regionali-area-vasta.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/12-laboratorio-profili-regionali-area-vasta.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/12-laboratorio-profili-regionali-area-vasta.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "13:moduli/m-fl02-regioni-province-citta-metropolitane",
+      "id": "13",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "14:moduli/m-fl02-regioni-province-citta-metropolitane",
+      "id": "14",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "15:moduli/m-fl02-regioni-province-citta-metropolitane",
+      "id": "15",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "16:moduli/m-fl02-regioni-province-citta-metropolitane",
+      "id": "16",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-fl02-regioni-province-citta-metropolitane",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fl04-polizia-locale/chapters/00-piano-editoriale.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/00-piano-editoriale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fl04-polizia-locale/chapters/00-piano-editoriale.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/00-piano-editoriale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fl04-polizia-locale/chapters/00-piano-editoriale.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/00-piano-editoriale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fl04-polizia-locale/chapters/00-piano-editoriale.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/00-piano-editoriale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fl04-polizia-locale/chapters/00-piano-editoriale.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/00-piano-editoriale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fl04-polizia-locale/chapters/01-diventare-agente-ufficiale-polizia-locale.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/01-diventare-agente-ufficiale-polizia-locale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fl04-polizia-locale/chapters/01-diventare-agente-ufficiale-polizia-locale.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/01-diventare-agente-ufficiale-polizia-locale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fl04-polizia-locale/chapters/01-diventare-agente-ufficiale-polizia-locale.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/01-diventare-agente-ufficiale-polizia-locale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fl04-polizia-locale/chapters/01-diventare-agente-ufficiale-polizia-locale.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/01-diventare-agente-ufficiale-polizia-locale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fl04-polizia-locale/chapters/01-diventare-agente-ufficiale-polizia-locale.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/01-diventare-agente-ufficiale-polizia-locale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fl04-polizia-locale/chapters/02-ordinamento-nazionale-regionale-polizia-locale.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/02-ordinamento-nazionale-regionale-polizia-locale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fl04-polizia-locale/chapters/02-ordinamento-nazionale-regionale-polizia-locale.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/02-ordinamento-nazionale-regionale-polizia-locale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fl04-polizia-locale/chapters/02-ordinamento-nazionale-regionale-polizia-locale.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/02-ordinamento-nazionale-regionale-polizia-locale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fl04-polizia-locale/chapters/02-ordinamento-nazionale-regionale-polizia-locale.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/02-ordinamento-nazionale-regionale-polizia-locale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fl04-polizia-locale/chapters/02-ordinamento-nazionale-regionale-polizia-locale.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/02-ordinamento-nazionale-regionale-polizia-locale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fl04-polizia-locale/chapters/03-qualifiche-poteri-dipendenze-organizzazione-servizio.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/03-qualifiche-poteri-dipendenze-organizzazione-servizio.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fl04-polizia-locale/chapters/03-qualifiche-poteri-dipendenze-organizzazione-servizio.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/03-qualifiche-poteri-dipendenze-organizzazione-servizio.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fl04-polizia-locale/chapters/03-qualifiche-poteri-dipendenze-organizzazione-servizio.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/03-qualifiche-poteri-dipendenze-organizzazione-servizio.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fl04-polizia-locale/chapters/03-qualifiche-poteri-dipendenze-organizzazione-servizio.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/03-qualifiche-poteri-dipendenze-organizzazione-servizio.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fl04-polizia-locale/chapters/03-qualifiche-poteri-dipendenze-organizzazione-servizio.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/03-qualifiche-poteri-dipendenze-organizzazione-servizio.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fl04-polizia-locale/chapters/04-servizi-polizia-stradale.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/04-servizi-polizia-stradale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fl04-polizia-locale/chapters/04-servizi-polizia-stradale.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/04-servizi-polizia-stradale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fl04-polizia-locale/chapters/04-servizi-polizia-stradale.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/04-servizi-polizia-stradale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fl04-polizia-locale/chapters/04-servizi-polizia-stradale.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/04-servizi-polizia-stradale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fl04-polizia-locale/chapters/04-servizi-polizia-stradale.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/04-servizi-polizia-stradale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fl04-polizia-locale/chapters/05-accertamento-contestazione-notificazione-ricorsi-codice-strada.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/05-accertamento-contestazione-notificazione-ricorsi-codice-strada.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fl04-polizia-locale/chapters/05-accertamento-contestazione-notificazione-ricorsi-codice-strada.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/05-accertamento-contestazione-notificazione-ricorsi-codice-strada.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fl04-polizia-locale/chapters/05-accertamento-contestazione-notificazione-ricorsi-codice-strada.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/05-accertamento-contestazione-notificazione-ricorsi-codice-strada.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fl04-polizia-locale/chapters/05-accertamento-contestazione-notificazione-ricorsi-codice-strada.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/05-accertamento-contestazione-notificazione-ricorsi-codice-strada.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fl04-polizia-locale/chapters/05-accertamento-contestazione-notificazione-ricorsi-codice-strada.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/05-accertamento-contestazione-notificazione-ricorsi-codice-strada.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fl04-polizia-locale/chapters/06-procedimento-sanzionatorio-amministrativo-applicato.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/06-procedimento-sanzionatorio-amministrativo-applicato.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fl04-polizia-locale/chapters/06-procedimento-sanzionatorio-amministrativo-applicato.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/06-procedimento-sanzionatorio-amministrativo-applicato.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fl04-polizia-locale/chapters/06-procedimento-sanzionatorio-amministrativo-applicato.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/06-procedimento-sanzionatorio-amministrativo-applicato.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fl04-polizia-locale/chapters/06-procedimento-sanzionatorio-amministrativo-applicato.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/06-procedimento-sanzionatorio-amministrativo-applicato.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fl04-polizia-locale/chapters/06-procedimento-sanzionatorio-amministrativo-applicato.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/06-procedimento-sanzionatorio-amministrativo-applicato.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fl04-polizia-locale/chapters/07-polizia-giudiziaria-atti-essenziali.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/07-polizia-giudiziaria-atti-essenziali.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fl04-polizia-locale/chapters/07-polizia-giudiziaria-atti-essenziali.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/07-polizia-giudiziaria-atti-essenziali.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fl04-polizia-locale/chapters/07-polizia-giudiziaria-atti-essenziali.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/07-polizia-giudiziaria-atti-essenziali.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fl04-polizia-locale/chapters/07-polizia-giudiziaria-atti-essenziali.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/07-polizia-giudiziaria-atti-essenziali.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fl04-polizia-locale/chapters/07-polizia-giudiziaria-atti-essenziali.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/07-polizia-giudiziaria-atti-essenziali.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fl04-polizia-locale/chapters/08-tulps-pubblica-sicurezza-immigrazione.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/08-tulps-pubblica-sicurezza-immigrazione.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fl04-polizia-locale/chapters/08-tulps-pubblica-sicurezza-immigrazione.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/08-tulps-pubblica-sicurezza-immigrazione.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fl04-polizia-locale/chapters/08-tulps-pubblica-sicurezza-immigrazione.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/08-tulps-pubblica-sicurezza-immigrazione.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fl04-polizia-locale/chapters/08-tulps-pubblica-sicurezza-immigrazione.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/08-tulps-pubblica-sicurezza-immigrazione.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fl04-polizia-locale/chapters/08-tulps-pubblica-sicurezza-immigrazione.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/08-tulps-pubblica-sicurezza-immigrazione.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fl04-polizia-locale/chapters/09-sicurezza-urbana-ordinanze-coordinamento.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/09-sicurezza-urbana-ordinanze-coordinamento.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fl04-polizia-locale/chapters/09-sicurezza-urbana-ordinanze-coordinamento.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/09-sicurezza-urbana-ordinanze-coordinamento.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fl04-polizia-locale/chapters/09-sicurezza-urbana-ordinanze-coordinamento.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/09-sicurezza-urbana-ordinanze-coordinamento.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fl04-polizia-locale/chapters/09-sicurezza-urbana-ordinanze-coordinamento.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/09-sicurezza-urbana-ordinanze-coordinamento.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fl04-polizia-locale/chapters/09-sicurezza-urbana-ordinanze-coordinamento.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/09-sicurezza-urbana-ordinanze-coordinamento.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fl04-polizia-locale/chapters/10-commercio-pubblici-esercizi-suap.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/10-commercio-pubblici-esercizi-suap.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fl04-polizia-locale/chapters/10-commercio-pubblici-esercizi-suap.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/10-commercio-pubblici-esercizi-suap.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fl04-polizia-locale/chapters/10-commercio-pubblici-esercizi-suap.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/10-commercio-pubblici-esercizi-suap.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fl04-polizia-locale/chapters/10-commercio-pubblici-esercizi-suap.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/10-commercio-pubblici-esercizi-suap.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fl04-polizia-locale/chapters/10-commercio-pubblici-esercizi-suap.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/10-commercio-pubblici-esercizi-suap.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fl04-polizia-locale/chapters/11-vigilanza-edilizia-procedimenti-repressivi.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/11-vigilanza-edilizia-procedimenti-repressivi.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fl04-polizia-locale/chapters/11-vigilanza-edilizia-procedimenti-repressivi.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/11-vigilanza-edilizia-procedimenti-repressivi.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fl04-polizia-locale/chapters/11-vigilanza-edilizia-procedimenti-repressivi.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/11-vigilanza-edilizia-procedimenti-repressivi.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fl04-polizia-locale/chapters/11-vigilanza-edilizia-procedimenti-repressivi.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/11-vigilanza-edilizia-procedimenti-repressivi.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fl04-polizia-locale/chapters/11-vigilanza-edilizia-procedimenti-repressivi.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/11-vigilanza-edilizia-procedimenti-repressivi.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fl04-polizia-locale/chapters/12-ambiente-rifiuti-rumore-tutela-locale.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/12-ambiente-rifiuti-rumore-tutela-locale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fl04-polizia-locale/chapters/12-ambiente-rifiuti-rumore-tutela-locale.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/12-ambiente-rifiuti-rumore-tutela-locale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fl04-polizia-locale/chapters/12-ambiente-rifiuti-rumore-tutela-locale.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/12-ambiente-rifiuti-rumore-tutela-locale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fl04-polizia-locale/chapters/12-ambiente-rifiuti-rumore-tutela-locale.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/12-ambiente-rifiuti-rumore-tutela-locale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fl04-polizia-locale/chapters/12-ambiente-rifiuti-rumore-tutela-locale.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/12-ambiente-rifiuti-rumore-tutela-locale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fl04-polizia-locale/chapters/13-sinistri-rilievi-gestione-prova.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/13-sinistri-rilievi-gestione-prova.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fl04-polizia-locale/chapters/13-sinistri-rilievi-gestione-prova.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/13-sinistri-rilievi-gestione-prova.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fl04-polizia-locale/chapters/13-sinistri-rilievi-gestione-prova.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/13-sinistri-rilievi-gestione-prova.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fl04-polizia-locale/chapters/13-sinistri-rilievi-gestione-prova.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/13-sinistri-rilievi-gestione-prova.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fl04-polizia-locale/chapters/13-sinistri-rilievi-gestione-prova.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/13-sinistri-rilievi-gestione-prova.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fl04-polizia-locale/chapters/14-ufficiale-pl-comando-contenzioso-emergenze.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/14-ufficiale-pl-comando-contenzioso-emergenze.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fl04-polizia-locale/chapters/14-ufficiale-pl-comando-contenzioso-emergenze.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/14-ufficiale-pl-comando-contenzioso-emergenze.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fl04-polizia-locale/chapters/14-ufficiale-pl-comando-contenzioso-emergenze.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/14-ufficiale-pl-comando-contenzioso-emergenze.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fl04-polizia-locale/chapters/14-ufficiale-pl-comando-contenzioso-emergenze.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/14-ufficiale-pl-comando-contenzioso-emergenze.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fl04-polizia-locale/chapters/14-ufficiale-pl-comando-contenzioso-emergenze.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/14-ufficiale-pl-comando-contenzioso-emergenze.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fl04-polizia-locale/chapters/15-laboratorio-atti-verbali-polizia-locale.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/15-laboratorio-atti-verbali-polizia-locale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fl04-polizia-locale/chapters/15-laboratorio-atti-verbali-polizia-locale.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/15-laboratorio-atti-verbali-polizia-locale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fl04-polizia-locale/chapters/15-laboratorio-atti-verbali-polizia-locale.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/15-laboratorio-atti-verbali-polizia-locale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fl04-polizia-locale/chapters/15-laboratorio-atti-verbali-polizia-locale.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/15-laboratorio-atti-verbali-polizia-locale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fl04-polizia-locale/chapters/15-laboratorio-atti-verbali-polizia-locale.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl04-polizia-locale/chapters/15-laboratorio-atti-verbali-polizia-locale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "13:moduli/m-fl04-polizia-locale",
+      "id": "13",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-fl04-polizia-locale",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "14:moduli/m-fl04-polizia-locale",
+      "id": "14",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-fl04-polizia-locale",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "15:moduli/m-fl04-polizia-locale",
+      "id": "15",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-fl04-polizia-locale",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "16:moduli/m-fl04-polizia-locale",
+      "id": "16",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-fl04-polizia-locale",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fl03-camere-commercio/chapters/00-piano-editoriale.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl03-camere-commercio/chapters/00-piano-editoriale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fl03-camere-commercio/chapters/00-piano-editoriale.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl03-camere-commercio/chapters/00-piano-editoriale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fl03-camere-commercio/chapters/00-piano-editoriale.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl03-camere-commercio/chapters/00-piano-editoriale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fl03-camere-commercio/chapters/00-piano-editoriale.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl03-camere-commercio/chapters/00-piano-editoriale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fl03-camere-commercio/chapters/00-piano-editoriale.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl03-camere-commercio/chapters/00-piano-editoriale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fl03-camere-commercio/chapters/01-camere-commercio-sistema-camerale-unioncamere.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl03-camere-commercio/chapters/01-camere-commercio-sistema-camerale-unioncamere.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fl03-camere-commercio/chapters/01-camere-commercio-sistema-camerale-unioncamere.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl03-camere-commercio/chapters/01-camere-commercio-sistema-camerale-unioncamere.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fl03-camere-commercio/chapters/01-camere-commercio-sistema-camerale-unioncamere.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl03-camere-commercio/chapters/01-camere-commercio-sistema-camerale-unioncamere.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fl03-camere-commercio/chapters/01-camere-commercio-sistema-camerale-unioncamere.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl03-camere-commercio/chapters/01-camere-commercio-sistema-camerale-unioncamere.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fl03-camere-commercio/chapters/01-camere-commercio-sistema-camerale-unioncamere.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl03-camere-commercio/chapters/01-camere-commercio-sistema-camerale-unioncamere.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fl03-camere-commercio/chapters/02-registro-imprese-rea-pubblicita-legale.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl03-camere-commercio/chapters/02-registro-imprese-rea-pubblicita-legale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fl03-camere-commercio/chapters/02-registro-imprese-rea-pubblicita-legale.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl03-camere-commercio/chapters/02-registro-imprese-rea-pubblicita-legale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fl03-camere-commercio/chapters/02-registro-imprese-rea-pubblicita-legale.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl03-camere-commercio/chapters/02-registro-imprese-rea-pubblicita-legale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fl03-camere-commercio/chapters/02-registro-imprese-rea-pubblicita-legale.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl03-camere-commercio/chapters/02-registro-imprese-rea-pubblicita-legale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fl03-camere-commercio/chapters/02-registro-imprese-rea-pubblicita-legale.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl03-camere-commercio/chapters/02-registro-imprese-rea-pubblicita-legale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fl03-camere-commercio/chapters/03-servizi-imprese-regolazione-mercato-tutela.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl03-camere-commercio/chapters/03-servizi-imprese-regolazione-mercato-tutela.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fl03-camere-commercio/chapters/03-servizi-imprese-regolazione-mercato-tutela.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl03-camere-commercio/chapters/03-servizi-imprese-regolazione-mercato-tutela.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fl03-camere-commercio/chapters/03-servizi-imprese-regolazione-mercato-tutela.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl03-camere-commercio/chapters/03-servizi-imprese-regolazione-mercato-tutela.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fl03-camere-commercio/chapters/03-servizi-imprese-regolazione-mercato-tutela.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl03-camere-commercio/chapters/03-servizi-imprese-regolazione-mercato-tutela.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fl03-camere-commercio/chapters/03-servizi-imprese-regolazione-mercato-tutela.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl03-camere-commercio/chapters/03-servizi-imprese-regolazione-mercato-tutela.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fl03-camere-commercio/chapters/04-organizzazione-personale-procedimenti-trasparenza-camerale.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl03-camere-commercio/chapters/04-organizzazione-personale-procedimenti-trasparenza-camerale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fl03-camere-commercio/chapters/04-organizzazione-personale-procedimenti-trasparenza-camerale.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl03-camere-commercio/chapters/04-organizzazione-personale-procedimenti-trasparenza-camerale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fl03-camere-commercio/chapters/04-organizzazione-personale-procedimenti-trasparenza-camerale.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl03-camere-commercio/chapters/04-organizzazione-personale-procedimenti-trasparenza-camerale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fl03-camere-commercio/chapters/04-organizzazione-personale-procedimenti-trasparenza-camerale.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl03-camere-commercio/chapters/04-organizzazione-personale-procedimenti-trasparenza-camerale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fl03-camere-commercio/chapters/04-organizzazione-personale-procedimenti-trasparenza-camerale.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl03-camere-commercio/chapters/04-organizzazione-personale-procedimenti-trasparenza-camerale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-fl03-camere-commercio/chapters/05-laboratorio-bando-camerale.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl03-camere-commercio/chapters/05-laboratorio-bando-camerale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-fl03-camere-commercio/chapters/05-laboratorio-bando-camerale.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl03-camere-commercio/chapters/05-laboratorio-bando-camerale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-fl03-camere-commercio/chapters/05-laboratorio-bando-camerale.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl03-camere-commercio/chapters/05-laboratorio-bando-camerale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-fl03-camere-commercio/chapters/05-laboratorio-bando-camerale.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl03-camere-commercio/chapters/05-laboratorio-bando-camerale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-fl03-camere-commercio/chapters/05-laboratorio-bando-camerale.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-fl03-camere-commercio/chapters/05-laboratorio-bando-camerale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "13:moduli/m-fl03-camere-commercio",
+      "id": "13",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-fl03-camere-commercio",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "14:moduli/m-fl03-camere-commercio",
+      "id": "14",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-fl03-camere-commercio",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "15:moduli/m-fl03-camere-commercio",
+      "id": "15",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-fl03-camere-commercio",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "16:moduli/m-fl03-camere-commercio",
+      "id": "16",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-fl03-camere-commercio",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "21:VOL-02",
+      "id": "21",
+      "phase": "F",
+      "scope": "volume",
+      "target": "VOL-02",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "22:VOL-02",
+      "id": "22",
+      "phase": "F",
+      "scope": "volume",
+      "target": "VOL-02",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "23:VOL-02",
+      "id": "23",
+      "phase": "F",
+      "scope": "volume",
+      "target": "VOL-02",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    }
+  ]
+}

@@ -2604,3 +2604,11 @@
 - atoms:
   - mem-20260724182430-1f2iaov | workflow | Redigere professionalmente il capitolo M-FC05 15 Laboratorio delle prove authority.
   - mem-20260724182430-14068mp | result | Esito manual_writer/m-fc05-15-laboratorio: Redigere professionalmente il capitolo M-FC05 15 Laboratorio delle prove authority. -> Completato il capitolo laboratorio M-FC05 15 con dieci simulazioni distribuite fra percorsi G, E e P, rubrica di correzione, diario degli errori e piano 30/60/90; verificati 59 test.
+
+## 2026-07-29T21:51:17.806Z - vol-02-editorial
+
+- conversation_id: conv-20260729215117-bp8asu
+- route: codex/github-staff-sync-vol02
+- l0: l0/conv-20260729215117-bp8asu.md
+- atoms:
+  - mem-20260729215117-1n7yq9n | result | Esito codex/github-staff-sync-vol02: Scaricare gli ultimi aggiornamenti e controllare il Volume 2 scritto dallo staff. -> Integrato origin/main fino al commit a6e5bea.
