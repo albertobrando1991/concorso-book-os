@@ -2326,3 +2326,22 @@
 - l0: l0/conv-20260728180246-5fpiwu.md
 - atoms:
   - mem-20260728180246-1skn11c | result | Esito codex-github-staff-sync-2026-07-28: Allineare il codice attuale a GitHub con le modifiche apportate dallo staff, preservando i contenuti già scritti dall'utente. -> Integrato origin/main nella branch mfc02-didactic-coverage-20260727 con merge conservativo.
+
+## 2026-07-28T19:58:13.453Z - VOL-08
+
+- conversation_id: conv-20260728195813-exipwn
+- route: codex-vol08-source-ready-pipeline
+- l0: l0/conv-20260728195813-exipwn.md
+- atoms:
+  - mem-20260728195813-19kzbwe | workflow | Analizzare il dossier M-TR01, consolidarlo come riferimento per VOL-08, creare indice completo e applicare la pipeline.
+  - mem-20260728195813-d35gcm | result | Esito codex-vol08-source-ready-pipeline: Analizzare il dossier M-TR01, consolidarlo come riferimento per VOL-08, creare indice completo e applicare la pipeline. -> Dossier acquisito con SHA-256 verificato; creati source note, topic, entity, volume VOL-08, indice in 5 parti, 13 schede capitolo e matrici.
+
+## 2026-07-28T19:58:21.262Z - concorso-book-os
+
+- conversation_id: conv-20260728195821-1dskd4y
+- route: codex-m-fc02-iva-adempimenti
+- l0: l0/conv-20260728195821-1dskd4y.md
+- atoms:
+  - mem-20260728195821-7higec | workflow | Regola globale: i capitoli dei manuali concorsuali devono garantire progressione logica, completezza teorica, definizioni funzionali, autonomia didattica, coerenza tra promessa e contenuto, esempi, casi e strumenti operativi.
+  - mem-20260728195821-lfckvc | instruction | Per IVA e adempimenti usare struttura stabile e dati mobili solo se verificati e datati.
+  - mem-20260728195821-1pc8nuu | result | Esito codex-m-fc02-iva-adempimenti: Regola globale: i capitoli dei manuali concorsuali devono garantire progressione logica, completezza teorica, definizioni funzionali, autonomia didattica, coerenza tra promessa e contenuto, esempi, casi e strumenti op... -> Blocco M-FC02 IVA e adempimenti completato: source ufficiali consolidate, capitoli 4 e 6 a Livello 3, matrice 80 nuclei con 66 completi e 14 blocker residui; modulo ancora non pubblicabile.

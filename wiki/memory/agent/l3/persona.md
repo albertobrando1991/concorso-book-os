@@ -5,6 +5,9 @@ Usala come profilo di lavoro: le source notes e il wiki restano la base canonica
 
 ## Preferenze e istruzioni recenti
 
+- Per IVA e adempimenti usare struttura stabile e dati mobili solo se verificati e datati. (mem-20260728195821-lfckvc)
+- Regola globale: i capitoli dei manuali concorsuali devono garantire progressione logica, completezza teorica, definizioni funzionali, autonomia didattica, coerenza tra promessa e contenuto, esempi, casi e strumenti operativi. (mem-20260728195821-7higec)
+- Analizzare il dossier M-TR01, consolidarlo come riferimento per VOL-08, creare indice completo e applicare la pipeline. (mem-20260728195813-19kzbwe)
 - ora scrivi in maniera professionale attivando tutte e skill necessarie il capitolo M-FL02 8 PNRR territoriale, ReGiS, DNSH e controlli (mem-20260720102949-1sjrit3)
 - Scrivere in maniera professionale il capitolo M-FL02 7 Politiche di coesione e fondi UE, attivando tutte le skill necessarie. (mem-20260720100723-efdzt)
 - Scrivere in maniera professionale il capitolo M-FL02 6 Tecnica legislativa, AIR/VIR e drafting, attivando tutte le skill necessarie. (mem-20260720095227-s46tly)
@@ -82,6 +85,3 @@ Usala come profilo di lavoro: le source notes e il wiki restano la base canonica
 - PRODEGUI CON IL SECONDO CAPITOLO DEL LIBRO (mem-20260702163706-1pr3th0)
 - Usa prima il cervello wiki: struttura madre, nota capitolo, source notes, topic pages, entity pages e design system; scarica altre fonti necessarie per la copertura totale della conoscenza e procedi poi alla scrittura professionale del capitolo completo (mem-20260629152136-195qkxl)
 - instruction=Scrivi il capitolo effettivo , non un riepilogo tecnico. (mem-20260629152136-1cg7i7s)
-- instruction=Applica la skill humanizer al capitolo: rimuovi segnali di scrittura AI, conserva significato, riferimenti e struttura Metodo BANDO, riscrivi solo i passaggi necessari. (mem-20260629124807-pg6ite)
-- Gli indici dei moduli specialistici devono usare lo stesso layout grafico dell'indice del libro base (`front_matter_layout: analytical-index`) ma con `index_detail: chapters-only`, cosi mostrano parti e righe capitolo senza sottorighe 1.1/2.1. Il libro base puo restare analitico dettagliato. La preview deve paginare front matter lungo e usare righe indice a griglia per evitare sovrapposizioni tra testo e numeri pagina. (mem-20260628130332-index-layout-fix)
-- Per M-FC01 e per i moduli specialistici, creare sempre front-matter/ con FM1 servizi digitali, FM2 frontespizio, FM3 copyright/note, FM4 sommario, FM5 premessa, FM6 indice. Il piano editoriale interno va in planning/, non in chapters/. Nei capitoli la numerazione vive solo in outline_section; title e H1 non devono contenere numeri, cosi la dashboard mostra 1, 2, 3 e non doppie numerazioni o righe tipo 1.1. (mem-20260628123857-mfc01-frontmatter-numbering)

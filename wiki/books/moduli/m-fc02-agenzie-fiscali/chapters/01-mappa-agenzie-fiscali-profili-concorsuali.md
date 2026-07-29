@@ -15,7 +15,7 @@ asset_refs:
   - "books/moduli/m-fc02-agenzie-fiscali/assets/chapter-01/04-nucleo-comune-delta-fiscale.png"
   - "books/moduli/m-fc02-agenzie-fiscali/assets/chapter-01/05-bando-decoder-fiscale.png"
 confidence: 0.94
-updated_at: 2026-07-17T21:10:00+02:00
+updated_at: 2026-07-28T20:20:00+02:00
 created_at: 2026-07-01T21:00:00+02:00
 review_required: true
 canonical: true
@@ -25,7 +25,7 @@ outline_section: 1
 draft_stage: revised-editorial-draft
 module_code: M-FC02
 module_family: funzioni-centrali
-last_compiled_from: ["wiki/sources/m-fc02-dossier-redazionale-agenzie-fiscali.md","wiki/sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026.md","wiki/sources/agenzie-fiscali-organizzazione-ae-adm-ader.md","wiki/topics/profili-agenzie-fiscali.md","wiki/topics/bando-decoder-fiscale.md","wiki/entities/agenzia-delle-entrate.md","wiki/entities/agenzia-delle-dogane-e-dei-monopoli.md","wiki/entities/agenzia-entrate-riscossione.md","wiki/books/moduli/m-fc02-agenzie-fiscali/planning/00-piano-editoriale.md","wiki/books/il-metodo-bando/chapters/famiglie-concorsi-pubblici.md","wiki/sources/riscossione-agenzia-entrate-riscossione-m-fc02.md","wiki/sources/m-fc02-corpus-ufficiale-integrativo-2026-07-17.md"]
+last_compiled_from: ["wiki/sources/m-fc02-dossier-redazionale-agenzie-fiscali.md","wiki/sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026.md","wiki/sources/agenzie-fiscali-organizzazione-ae-adm-ader.md","wiki/topics/profili-agenzie-fiscali.md","wiki/topics/bando-decoder-fiscale.md","wiki/entities/agenzia-delle-entrate.md","wiki/entities/agenzia-delle-dogane-e-dei-monopoli.md","wiki/entities/agenzia-entrate-riscossione.md","wiki/books/moduli/m-fc02-agenzie-fiscali/planning/00-piano-editoriale.md","wiki/books/il-metodo-bando/chapters/famiglie-concorsi-pubblici.md","wiki/sources/riscossione-agenzia-entrate-riscossione-m-fc02.md","wiki/sources/m-fc02-corpus-ufficiale-integrativo-2026-07-17.md","wiki/books/moduli/m-fc02-agenzie-fiscali/planning/02-matrice-copertura-didattica.md","wiki/books/volumi/vol-03-fisco-dogane-previdenza-ispettivo/planning/00-piano-editoriale.md","wiki/books/volumi/vol-03-fisco-dogane-previdenza-ispettivo/planning/02-matrice-copertura-didattica.md"]
 ---
 
 # Mappa delle Agenzie fiscali e dei profili concorsuali
@@ -36,7 +36,7 @@ Un concorso nelle Agenzie fiscali non e' un concorso amministrativo generico con
 
 Il primo errore nasce spesso da una lettura superficiale del bando. La presenza di diritto amministrativo, pubblico impiego, trasparenza, anticorruzione, inglese e informatica puo' far pensare a un impianto identico a quello dei concorsi ministeriali. In realta', nei profili fiscali il nucleo comune serve a sostenere la preparazione, non a sostituirla. La differenza concorsuale si gioca sul "delta fiscale": le materie e le attivita' che collegano l'amministrazione finanziaria al contribuente, all'operatore economico, al debitore iscritto a ruolo, all'immobile, alla merce, al tributo, all'accertamento e alla riscossione.
 
-Questo capitolo costruisce la mappa di orientamento del modulo M-FC02. Prima di entrare nei singoli istituti, occorre sapere a quale famiglia appartiene il bando, quale sottopercorso attivare e quali materie vanno presidiate con priorita'. La mappa non serve a classificare per curiosita'. Serve a prendere decisioni operative: cosa studiare prima, cosa rinviare, quali moduli affiancare, quali rischi evitare.
+Questo capitolo costruisce la mappa di orientamento del modulo M-FC02. Prima di entrare nei singoli istituti, occorre sapere a quale famiglia appartiene il bando, quale sottopercorso attivare e quali materie vanno presidiate con priorita'. La mappa non e' un esercizio di classificazione: orienta decisioni operative su cosa studiare prima, cosa rinviare, quali moduli affiancare e quali rischi evitare.
 
 ![Figura 1.1 - Mappa BANDO delle Agenzie fiscali: dal bando al sottopercorso, fino a output e diario dei rischi.](../assets/chapter-01/01-mappa-bando-agenzie-fiscali.png)
 
@@ -90,7 +90,7 @@ Queste tre famiglie hanno un tratto comune: non basta sapere "diritto amministra
 
 ## Inquadramento istituzionale: una distinzione da non saltare
 
-La mappa concorsuale deve restare fedele all'ordinamento. Il D.Lgs. 30 luglio 1999, n. 300 costituisce il riferimento generale per comprendere il rapporto tra Ministero dell'economia e delle finanze e agenzie fiscali. In questa cornice, Agenzia delle Entrate e Agenzia delle Dogane e dei Monopoli esercitano funzioni diverse, ma entrambe appartengono all'amministrazione finanziaria e operano attraverso strutture specializzate.
+La mappa concorsuale deve restare fedele all'ordinamento. Il D.Lgs. 30 luglio 1999, n. 300 e' il riferimento generale per comprendere il rapporto tra Ministero dell'economia e delle finanze e agenzie fiscali. In questa cornice, Agenzia delle Entrate e Agenzia delle Dogane e dei Monopoli esercitano funzioni diverse, ma entrambe appartengono all'amministrazione finanziaria e operano attraverso strutture specializzate.
 
 Agenzia delle Entrate-Riscossione entra nello stesso modulo per una ragione funzionale: presidia la riscossione nazionale e si colloca nel tratto finale del ciclo fiscale. Il candidato deve quindi studiarla insieme ad accertamento, ruolo, cartella, pagamento, rateizzazione, sospensione e tutele, senza confonderne compiti e posizione con quelli dell'Agenzia delle Entrate.
 
