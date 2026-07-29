@@ -30,8 +30,43 @@ export async function runDoctor(input: DoctorInput): Promise<DoctorCheck[]> {
     checkProvider(env),
     await checkGit(input.projectRoot),
     await checkPromptTemplate(input.projectRoot),
+    await checkMergeDriver(input.projectRoot),
     checkAgent(env)
   ]
+}
+
+const MERGE_DRIVER_NAME = "pipeline-run-state"
+const MERGE_DRIVER_COMMAND = "npx tsx scripts/pipeline/merge-run-state.ts %O %A %B"
+
+async function checkMergeDriver(projectRoot: string): Promise<DoctorCheck> {
+  const key = `merge.${MERGE_DRIVER_NAME}.driver`
+
+  try {
+    const { stdout } = await run("git", ["config", "--get", key], { cwd: projectRoot })
+
+    if (stdout.trim() === MERGE_DRIVER_COMMAND) {
+      return { id: "merge-driver", ok: true, message: "Merge driver del run-state di pipeline già registrato." }
+    }
+  } catch {
+    // non ancora configurato: si registra sotto
+  }
+
+  try {
+    await run("git", ["config", key, MERGE_DRIVER_COMMAND], { cwd: projectRoot })
+
+    return {
+      id: "merge-driver",
+      ok: true,
+      message: "Merge driver del run-state di pipeline registrato ora (config locale del repository, non globale)."
+    }
+  } catch (error) {
+    return {
+      id: "merge-driver",
+      ok: false,
+      message: `Impossibile registrare il merge driver: ${(error as Error).message}`,
+      remedy: `git config ${key} "${MERGE_DRIVER_COMMAND}"`
+    }
+  }
 }
 
 async function checkNode(projectRoot: string): Promise<DoctorCheck> {
