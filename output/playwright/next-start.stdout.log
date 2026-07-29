@@ -1,0 +1,9 @@
+
+> concorso-book-os@0.1.0 start
+> next start --port 3000
+
+   ▲ Next.js 15.5.18
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.1.24:3000
+
+ ✓ Starting...

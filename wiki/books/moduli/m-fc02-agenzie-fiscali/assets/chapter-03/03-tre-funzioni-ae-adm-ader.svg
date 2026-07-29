@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Le tre funzioni da non confondere</title>
+  <desc id="desc">Entrate e servizi fiscali, dogane e monopoli, riscossione nazionale.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; }
+      .softRed { fill: #F8E8EA; stroke: #E2B3BA; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E5C85F; stroke-width: 2.5; }
+      .softGreen { fill: #E7F3ED; stroke: #A8D2BC; stroke-width: 2.5; }
+      .softTeal { fill: #E4F4F5; stroke: #A9D7DB; stroke-width: 2.5; }
+      .line { fill: none; stroke: #94A3B8; stroke-width: 5; stroke-linecap: round; stroke-linejoin: round; }
+      .title { fill: #0F172A; font: 700 42px Arial, sans-serif; letter-spacing: 0; }
+      .subtitle { fill: #526174; font: 400 24px Arial, sans-serif; letter-spacing: 0; }
+      .label { fill: #0F172A; font: 700 29px Arial, sans-serif; letter-spacing: 0; }
+      .small { fill: #526174; font: 400 21px Arial, sans-serif; letter-spacing: 0; }
+      .tiny { fill: #526174; font: 400 19px Arial, sans-serif; letter-spacing: 0; }
+      .badgeText { fill: #FFFFFF; font: 700 19px Arial, sans-serif; letter-spacing: 0; }
+      .noteText { fill: #0F172A; font: 600 22px Arial, sans-serif; letter-spacing: 0; }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#10233F"/>
+    </marker>
+    <marker id="arrowGold" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#D4AF37"/>
+    </marker>
+    <marker id="arrowTeal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#1F6F78"/>
+    </marker>
+  </defs>
+  <rect class="bg" x="0" y="0" width="1600" height="900"/>
+  <g data-safe-box="70 20 1460 112 8" data-safe-name="header">
+    <text class="title" x="80" y="70">Le tre funzioni da non confondere</text>
+    <text class="subtitle" x="80" y="110">Entrate e servizi fiscali, dogane e monopoli, riscossione nazionale.</text>
+  </g>
+  
+  <rect class="card" x="70" y="160" width="1460" height="640" rx="30"/>
+  
+  <g data-safe-box="110 245 380 475 22" data-safe-name="Agenzia delle Entrate">
+    <rect class="softBlue" x="110" y="245" width="380" height="475" rx="28"/>
+    <circle cx="168" cy="303" r="34" fill="#10233F"/>
+    <text class="badgeText" x="168" y="310" text-anchor="middle">AE</text>
+    <text class="label" x="140" y="375">Agenzia delle Entrate</text>
+    <text class="small" x="140" y="415">Entrate e servizi fiscali</text>
+    <path class="line" d="M140 450 L460 450"/>
+    <text class="small" x="152" y="505">- contribuente</text><text class="small" x="152" y="543">- adempimento</text><text class="small" x="152" y="581">- controllo</text><text class="small" x="152" y="619">- accertamento</text><text class="small" x="152" y="657">- territorio/SPI</text>
+  </g>
+  
+  <g data-safe-box="560 245 380 475 22" data-safe-name="ADM">
+    <rect class="softRed" x="560" y="245" width="380" height="475" rx="28"/>
+    <circle cx="618" cy="303" r="34" fill="#7A2430"/>
+    <text class="badgeText" x="618" y="310" text-anchor="middle">ADM</text>
+    <text class="label" x="590" y="375">ADM</text>
+    <text class="small" x="590" y="415">Dogane, accise e monopoli</text>
+    <path class="line" d="M590 450 L910 450"/>
+    <text class="small" x="602" y="505">- merce</text><text class="small" x="602" y="543">- operatore</text><text class="small" x="602" y="581">- accisa</text><text class="small" x="602" y="619">- gioco pubblico</text><text class="small" x="602" y="657">- vigilanza</text>
+  </g>
+  
+  <g data-safe-box="1010 245 380 475 22" data-safe-name="AdER">
+    <rect class="softGreen" x="1010" y="245" width="380" height="475" rx="28"/>
+    <circle cx="1068" cy="303" r="34" fill="#2F7D5A"/>
+    <text class="badgeText" x="1068" y="310" text-anchor="middle">AdER</text>
+    <text class="label" x="1040" y="375">AdER</text>
+    <text class="small" x="1040" y="415">Riscossione nazionale</text>
+    <path class="line" d="M1040 450 L1360 450"/>
+    <text class="small" x="1052" y="505">- cartella</text><text class="small" x="1052" y="543">- pagamento</text><text class="small" x="1052" y="581">- rateizzazione</text><text class="small" x="1052" y="619">- sospensione</text><text class="small" x="1052" y="657">- debitore</text>
+  </g>
+  
+  <g data-safe-box="230 781 1140 62 14" data-safe-name="nota">
+    <rect x="230" y="781" width="1140" height="62" rx="22" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2"/>
+    <text class="noteText" x="258" y="820">Preparare ADM come AE, o AdER come accertamento, e' l'errore organizzativo piu' costoso.</text>
+  </g>
+
+</svg>

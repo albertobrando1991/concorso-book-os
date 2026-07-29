@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Sistema camerale e Unioncamere</title>
+  <desc id="desc">Camere, unioni regionali, Unioncamere e strumenti comuni.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; }
+      .softRed { fill: #F8E8EA; stroke: #E3B9BF; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E8D080; stroke-width: 2.5; }
+      .softGreen { fill: #E7F3ED; stroke: #A8D1BD; stroke-width: 2.5; }
+      .softTeal { fill: #E4F4F5; stroke: #A3D5D8; stroke-width: 2.5; }
+      .note { fill: #FFF7ED; stroke: #E7C18E; stroke-width: 2.5; }
+      .ink { fill: #0F172A; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 43px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 22px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 24px; font-weight: 800; letter-spacing: 0; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 18px; }
+      .navy { fill: #10233F; }
+      .bordeaux { fill: #7A2430; }
+      .gold { fill: #D4AF37; }
+      .green { fill: #2F7D5A; }
+      .teal { fill: #1F6F78; }
+      .line { stroke: #94A3B8; stroke-width: 4; stroke-linecap: round; fill: none; }
+      .thin { stroke: #CBD5E1; stroke-width: 2.5; stroke-linecap: round; fill: none; }
+      .arrowNavy { stroke: #10233F; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowNavy); }
+      .arrowBordeaux { stroke: #7A2430; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowBordeaux); }
+      .arrowGold { stroke: #D4AF37; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGold); }
+      .arrowGreen { stroke: #2F7D5A; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGreen); }
+      .arrowTeal { stroke: #1F6F78; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowTeal); }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#10233F"/></marker>
+    <marker id="arrowBordeaux" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#7A2430"/></marker>
+    <marker id="arrowGold" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#D4AF37"/></marker>
+    <marker id="arrowGreen" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2F7D5A"/></marker>
+    <marker id="arrowTeal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1F6F78"/></marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <text class="ink title" x="800" y="68" text-anchor="middle">Sistema camerale e Unioncamere</text>
+  <text class="muted subtitle" x="800" y="108" text-anchor="middle">Camere, unioni regionali, Unioncamere e strumenti comuni.</text>
+
+  <rect class="card" x="70" y="160" width="1460" height="640" rx="30"/>
+  <g data-safe-box="525 210 550 110 10">
+    <rect class="softBlue" x="525" y="210" width="550" height="110" rx="26"/>
+    <rect x="525" y="210" width="550" height="10" rx="5" fill="#10233F"/>
+    <text class="navy label" x="800" y="250" text-anchor="middle" style="font-size:22px">Unioncamere</text>
+    <text class="muted small" x="800" y="282" text-anchor="middle" style="font-size:17px">rappresentanza, coordinamento e supporto</text>
+<text class="muted small" x="800" y="306" text-anchor="middle" style="font-size:17px">strumenti comuni del sistema camerale</text>
+  </g>
+  <path class="arrowNavy" d="M610 338 L360 455"/>
+  <path class="arrowNavy" d="M800 338 L800 455"/>
+  <path class="arrowNavy" d="M990 338 L1240 455"/>
+  <g data-safe-box="150 455 360 160 10">
+    <rect class="softRed" x="150" y="455" width="360" height="160" rx="26"/>
+    <rect x="150" y="455" width="360" height="10" rx="5" fill="#7A2430"/>
+    <text class="bordeaux label" x="330" y="498" text-anchor="middle" style="font-size:21px">Unioni regionali</text>
+    <path class="thin" d="M208 525 L452 525"/>
+    <text class="muted small" x="330" y="555" text-anchor="middle" style="font-size:17px">raccordo territoriale</text>
+<text class="muted small" x="330" y="583" text-anchor="middle" style="font-size:17px">supporto alle Camere</text>
+  </g>
+  <g data-safe-box="590 455 360 160 10">
+    <rect class="softGold" x="590" y="455" width="360" height="160" rx="26"/>
+    <rect x="590" y="455" width="360" height="10" rx="5" fill="#D4AF37"/>
+    <text class="gold label" x="770" y="498" text-anchor="middle" style="font-size:21px">Camere di commercio</text>
+    <path class="thin" d="M648 525 L892 525"/>
+    <text class="muted small" x="770" y="555" text-anchor="middle" style="font-size:17px">ente operativo</text>
+<text class="muted small" x="770" y="583" text-anchor="middle" style="font-size:17px">servizi e procedimenti</text>
+  </g>
+  <g data-safe-box="1030 455 360 160 10">
+    <rect class="softGreen" x="1030" y="455" width="360" height="160" rx="26"/>
+    <rect x="1030" y="455" width="360" height="10" rx="5" fill="#2F7D5A"/>
+    <text class="green label" x="1210" y="498" text-anchor="middle" style="font-size:21px">Organismi e strumenti</text>
+    <path class="thin" d="M1088 525 L1332 525"/>
+    <text class="muted small" x="1210" y="555" text-anchor="middle" style="font-size:17px">InfoCamere</text>
+<text class="muted small" x="1210" y="583" text-anchor="middle" style="font-size:17px">piattaforme digitali</text>
+  </g>
+  <path class="arrowBordeaux" d="M342 615 L590 680"/>
+  <path class="arrowGold" d="M800 615 L800 680"/>
+  <path class="arrowGreen" d="M1258 615 L1010 680"/>
+  <g data-safe-box="445 680 710 110 10">
+    <rect class="softTeal" x="445" y="680" width="710" height="110" rx="26"/>
+    <rect x="445" y="680" width="710" height="10" rx="5" fill="#1F6F78"/>
+    <text class="teal label" x="800" y="720" text-anchor="middle" style="font-size:22px">Imprese, professionisti, PA e utenti</text>
+    <text class="muted small" x="800" y="752" text-anchor="middle" style="font-size:17px">servizi condivisi, dati pubblici, pratiche telematiche</text>
+<text class="muted small" x="800" y="776" text-anchor="middle" style="font-size:17px">visure, certificati, ComUnica, SUAP e strumenti informativi</text>
+  </g>
+  <g data-safe-box="235 815 1130 62 10">
+    <rect class="note" x="235" y="815" width="1130" height="62" rx="24"/>
+    <text class="ink body" x="800" y="854" text-anchor="middle" style="font-weight:800;font-size:20px">La rete non va descritta come comando gerarchico semplice: conta il raccordo operativo.</text>
+  </g>
+
+</svg>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Poteri istruttori e garanzie</title>
+  <desc id="desc">Il potere pubblico acquista senso solo insieme a limiti, motivazione e tutela.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; }
+      .softRed { fill: #F8E8EA; stroke: #E3B9BF; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E8D080; stroke-width: 2.5; }
+      .softGreen { fill: #E7F3ED; stroke: #A8D1BD; stroke-width: 2.5; }
+      .softTeal { fill: #E4F4F5; stroke: #A3D5D8; stroke-width: 2.5; }
+      .note { fill: #FFF7ED; stroke: #E7C18E; stroke-width: 2.5; }
+      .ink { fill: #0F172A; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 43px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 22px; letter-spacing: 0; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 24px; font-weight: 800; letter-spacing: 0; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; letter-spacing: 0; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 18px; letter-spacing: 0; }
+      .navy { fill: #10233F; }
+      .bordeaux { fill: #7A2430; }
+      .gold { fill: #D4AF37; }
+      .green { fill: #2F7D5A; }
+      .teal { fill: #1F6F78; }
+      .line { stroke: #94A3B8; stroke-width: 4; stroke-linecap: round; fill: none; }
+      .arrowNavy { stroke: #10233F; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowNavy); }
+      .arrowBordeaux { stroke: #7A2430; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowBordeaux); }
+      .arrowGold { stroke: #D4AF37; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGold); }
+      .arrowGreen { stroke: #2F7D5A; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGreen); }
+      .arrowTeal { stroke: #1F6F78; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowTeal); }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#10233F"/></marker>
+    <marker id="arrowBordeaux" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#7A2430"/></marker>
+    <marker id="arrowGold" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#D4AF37"/></marker>
+    <marker id="arrowGreen" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2F7D5A"/></marker>
+    <marker id="arrowTeal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1F6F78"/></marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <g data-safe-box="120 14 1360 110 0" data-safe-name="header">
+    <text class="ink title" x="800" y="68" text-anchor="middle">Poteri istruttori e garanzie</text>
+    <text class="muted subtitle" x="800" y="106" text-anchor="middle">Il potere pubblico acquista senso solo insieme a limiti, motivazione e tutela.</text>
+  </g>
+  
+  <rect class="card" x="70" y="160" width="1460" height="640" rx="30"/>
+  <g data-safe-box="120 245 320 310 20" data-safe-name="Poteri">
+    <rect class="softBlue" x="120" y="245" width="320" height="310" rx="26"/>
+    <text class="ink label" x="150" y="293">Poteri</text>
+    <rect x="150" y="317" width="260" height="4" rx="2" fill="#10233F"/>
+    <text class="muted body" x="156" y="363">richieste</text>
+<text class="muted body" x="156" y="406">documenti</text>
+<text class="muted body" x="156" y="449">banche dati</text>
+<text class="muted body" x="156" y="492">analisi</text>
+  </g>
+  <path class="arrowNavy" d="M460 405 L575 405"/>
+  <g data-safe-box="590 285 420 240 22" data-safe-name="Istruttoria">
+    <rect class="softGold" x="590" y="285" width="420" height="240" rx="28"/>
+    <text class="ink label" x="800" y="339" text-anchor="middle">Istruttoria</text>
+    <circle cx="800" cy="390" r="24" fill="#D4AF37"/>
+    <text class="muted body" x="800" y="441" text-anchor="middle">trasforma dati e anomalie</text>
+<text class="muted body" x="800" y="472" text-anchor="middle">in elementi valutabili</text>
+  </g>
+  <path class="arrowGold" d="M1025 405 L1140 405"/>
+  <g data-safe-box="1160 245 320 310 20" data-safe-name="Atto">
+    <rect class="softTeal" x="1160" y="245" width="320" height="310" rx="26"/>
+    <text class="ink label" x="1190" y="293">Atto</text>
+    <rect x="1190" y="317" width="260" height="4" rx="2" fill="#1F6F78"/>
+    <text class="muted body" x="1196" y="363">motivazione</text>
+<text class="muted body" x="1196" y="406">destinatario</text>
+<text class="muted body" x="1196" y="449">pretesa</text>
+<text class="muted body" x="1196" y="492">rimedi</text>
+  </g>
+  <g data-safe-box="250 610 280 120 8" data-safe-name="Limiti">
+    <rect class="softRed" x="250" y="610" width="280" height="120" rx="20"/>
+    <text class="ink label" x="274" y="648">Limiti</text>
+    <text class="muted body" x="274" y="682">base legale</text>
+<text class="muted body" x="274" y="707">pertinenza</text>
+    <circle cx="490" cy="652" r="14" fill="#7A2430"/>
+  </g>
+  <g data-safe-box="585 610 280 120 8" data-safe-name="Confronto">
+    <rect class="softGreen" x="585" y="610" width="280" height="120" rx="20"/>
+    <text class="ink label" x="609" y="648">Confronto</text>
+    <text class="muted body" x="609" y="682">contraddittorio</text>
+<text class="muted body" x="609" y="707">chiarimenti</text>
+    <circle cx="825" cy="652" r="14" fill="#2F7D5A"/>
+  </g>
+  <g data-safe-box="920 610 280 120 8" data-safe-name="Riesame">
+    <rect class="softBlue" x="920" y="610" width="280" height="120" rx="20"/>
+    <text class="ink label" x="944" y="648">Riesame</text>
+    <text class="muted body" x="944" y="682">autotutela</text>
+<text class="muted body" x="944" y="707">tutela</text>
+    <circle cx="1160" cy="652" r="14" fill="#10233F"/>
+  </g>
+  <g data-safe-box="245 815 1110 54 14" data-safe-name="nota">
+    <rect class="note" x="245" y="815" width="1110" height="54" rx="18"/>
+    <text class="ink body" x="800" y="850" text-anchor="middle">Il potere istruttorio e' efficace solo se resta dentro legalita, motivazione e garanzie.</text>
+  </g>
+
+</svg>

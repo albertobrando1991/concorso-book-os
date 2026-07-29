@@ -22,15 +22,15 @@ module_family: funzioni-locali
 last_compiled_from: ["wiki/books/moduli/architettura-moduli-specialistici.md","wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/index.md","wiki/books/vol-02-enti-locali-polizia-locale/front-matter/06-indice.md","wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/01-il-sistema-territoriale-multilivello.md","wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/02-statuti-organi-organizzazione-regionale.md","wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/03-funzioni-regionali-rapporti-stato-enti-locali.md","wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/04-procedimenti-atti-organizzazione-amministrativa-regionale.md","wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/05-programmazione-bilancio-controlli-regionali.md","wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/06-tecnica-legislativa-air-vir-drafting.md","wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/07-politiche-coesione-fondi-ue.md","wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/08-pnrr-territoriale-regis-dnsh-controlli.md"]
 ---
 
-# Piano editoriale - M-FL02 Regioni, Province e Citta Metropolitane
+# Piano editoriale - M-FL02 Regioni, Province e Città Metropolitane
 
 ## Specifica struttura modulo
 
 ### Obiettivo
-Trasformare il Metodo BANDO in un percorso operativo per la famiglia "Funzioni Locali", con focus su Regioni, Province, Citta Metropolitane e profili amministrativi territoriali.
+Trasformare il Metodo BANDO in un percorso operativo per la famiglia "Funzioni Locali", con focus su Regioni, Province, Città Metropolitane e profili amministrativi territoriali.
 
 ### Lettore
-Candidato che ha letto o sta usando Il Metodo BANDO e deve adattare metodo, materie comuni, prove e priorita a questa famiglia concorsuale.
+Candidato che ha letto o sta usando Il Metodo BANDO e deve adattare metodo, materie comuni, prove e priorità a questa famiglia concorsuale.
 
 ### Struttura prevista
 1. Mappa della famiglia concorsuale.
@@ -52,11 +52,11 @@ Candidato che ha letto o sta usando Il Metodo BANDO e deve adattare metodo, mate
 ### Fonti da consolidare prima della scrittura
 - Bandi rappresentativi della famiglia.
 - Normativa ufficiale di settore.
-- Topic pages gia presenti nel wiki.
+- Topic pages già presenti nel wiki.
 - Source notes nuove se il modulo richiede aggiornamento o specialismo.
 
 ## Testo editoriale
-Il modulo M-FL02 e' articolato in dodici capitoli. I capitoli 01-08 sono stati sviluppati in bozza professionale; i capitoli successivi sono impostati come schede editoriali source-ready, coerenti con il sommario del volume e con le fonti consolidate.
+Il modulo M-FL02 è articolato in dodici capitoli. I capitoli 01-08 sono stati sviluppati in bozza professionale; i capitoli successivi sono impostati come schede editoriali source-ready, coerenti con il sommario del volume e con le fonti consolidate.
 
 1. [[books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/01-il-sistema-territoriale-multilivello|Il sistema territoriale multilivello]] - bozza professionale.
 2. [[books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/02-statuti-organi-organizzazione-regionale|Statuti, organi e organizzazione regionale]] - bozza professionale.
@@ -66,9 +66,9 @@ Il modulo M-FL02 e' articolato in dodici capitoli. I capitoli 01-08 sono stati s
 6. [[books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/06-tecnica-legislativa-air-vir-drafting|Tecnica legislativa, AIR/VIR e drafting]] - bozza professionale con review locale aperta.
 7. [[books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/07-politiche-coesione-fondi-ue|Politiche di coesione e fondi UE]] - bozza professionale con review su programmi regionali specifici.
 8. [[books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/08-pnrr-territoriale-regis-dnsh-controlli|PNRR territoriale, ReGiS, DNSH e controlli]] - bozza professionale con review su istruzioni ReGiS/DNSH per misura.
-9. [[books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/09-province-citta-metropolitane-legge-56-2014|Province e Citta metropolitane dopo la L. 56/2014]] - scheda source-ready.
-10. [[books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/10-viabilita-edilizia-scolastica-territorio-espropri|Viabilita, edilizia scolastica, territorio ed espropri]] - scheda source-ready.
-11. [[books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/11-contratti-servizi-pubblici-locali-societa-partecipate|Contratti, servizi pubblici locali e societa partecipate]] - scheda source-ready.
+9. [[books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/09-province-citta-metropolitane-legge-56-2014|Province e Città metropolitane dopo la L. 56/2014]] - scheda source-ready.
+10. [[books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/10-viabilita-edilizia-scolastica-territorio-espropri|Viabilità, edilizia scolastica, territorio ed espropri]] - scheda source-ready.
+11. [[books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/11-contratti-servizi-pubblici-locali-societa-partecipate|Contratti, servizi pubblici locali e società partecipate]] - scheda source-ready.
 12. [[books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/12-laboratorio-profili-regionali-area-vasta|Laboratorio per i quattro profili regionali e di area vasta]] - scheda source-ready.
 
 ## Note di review

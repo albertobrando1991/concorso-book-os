@@ -1,0 +1,211 @@
+VOL-02 – Enti locali e Polizia locale
+FASE 1 – Perimetro volume
+
+VOL-02 è il volume specialistico per l’area Enti locali e Polizia locale. Dalla matrice file 09, sezione 3 e sezione 7, il volume copre:
+
+Codice	Modulo	Profili principali
+M-FL01	Comuni	Istruttore amministrativo; istruttore/funzionario contabile; istruttore/funzionario tecnico; servizi sociali/demografici/educativi
+M-FL02	Regioni, Province, Città metropolitane	Funzionario amministrativo regionale; funzionario legislativo; funzionario tecnico territorio; specialista fondi UE/PNRR
+M-FL04	Polizia locale	Agente/istruttore PL; ufficiale/funzionario PL; specialista edilizia/commercio/ambiente
+
+Nota di perimetro: M-FL03 Camere di commercio è nella famiglia Funzioni Locali, ma non risulta agganciato a VOL-02 nella mappatura codice → volume della matrice file 09. Va trattato come modulo confinante da collocare/validare: [DA VERIFICARE].
+
+Materie base solo richiamate: B-PA01 costituzionale, B-PA02 amministrativo, B-PA03 pubblico impiego, B-PA04 reati PA, B-PA05 contabilità pubblica essenziale, B-PA06 contratti pubblici base, B-PA07 privacy/CAD/trasparenza, B-PA08 inglese, B-PA09 informatica, B-PA10 logica/situazionali, B-PA11 atti e casi pratici base. Queste non vanno duplicate: nel VOL-02 si sviluppa solo il delta locale.
+
+FASE 2 – Campione bandi
+Codice	Bandi matrice	URL già mappati	Target	Gap
+M-FL01	Roma istruttori; Milano ISAC	2	6	4
+M-FL02	Regione Lazio; Regione Lombardia; Roma; Lombardia concorsi	4	6	2
+M-FL04	Roma Polizia locale; Roma istruttori	2	6	4
+
+Gap volume: il VOL-02 ha copertura matrice utile ma non completa. Per validazione editoriale piena servono ulteriori bandi ufficiali, soprattutto per Comuni medio-piccoli, Province/Città metropolitane e Polizia locale fuori Roma.
+
+FASE 3 – Materie estratte
+Area	Materie specialistiche VOL-02	Profili matrice
+Ordinamento locale	TUEL; statuti; regolamenti; organi; competenze; atti locali	M-FL01, M-FL02
+Amministrazione comunale	Servizi demografici; protocollo; servizi educativi/sociali; procedimento locale	M-FL01
+Contabilità locale	PEG, DUP, rendiconto, entrate, patrimonio, controlli interni, Corte dei conti	M-FL01 contabile
+Tributi locali	IMU, TARI, canone unico, entrate patrimoniali, riscossione locale	M-FL01 contabile
+Tecnico locale	Edilizia, urbanistica, DPR 380/2001, lavori pubblici, patrimonio	M-FL01 tecnico; M-FL02 tecnico
+Regioni e Province	Statuti regionali, organizzazione regionale, diritto regionale, programmazione, fondi UE/PNRR	M-FL02
+Polizia locale	Codice della strada, L. 65/1986, leggi regionali PL, sanzioni amministrative, TULPS, commercio, edilizia, ambiente	M-FL04
+Atti e casi locali	Delibere, determine, ordinanze, verbali, atti sanzionatori, note istruttorie locali	M-FL01, M-FL02, M-FL04
+FASE 4 – Copertura
+Materia	Stato
+Diritto costituzionale generale	COPERTA-BASE – Cfr. VOL-01, B-PA01
+Procedimento amministrativo generale	COPERTA-BASE – Cfr. VOL-01, B-PA02
+Pubblico impiego generale	COPERTA-BASE – Cfr. VOL-01, B-PA03
+Reati contro la PA	COPERTA-BASE – Cfr. VOL-01, B-PA04
+Contabilità pubblica essenziale	COPERTA-BASE – Cfr. VOL-01, B-PA05
+Contratti pubblici base	COPERTA-BASE – Cfr. VOL-01, B-PA06
+TUEL e ordinamento enti locali	COPERTA-MODULO
+Contabilità armonizzata enti locali	COPERTA-MODULO
+Tributi locali	COPERTA-MODULO
+Servizi demografici/sociali/educativi	COPERTA-MODULO
+Edilizia e urbanistica comunale	PARZIALE – copertura VOL-02 base; rinvio a VOL-10 se profilo tecnico avanzato
+Fondi UE/PNRR regionali	PARZIALE – copertura locale; rinvio a VOL-09 se profilo appalti/PNRR specialistico
+Codice della strada e PL	COPERTA-MODULO
+Controlli edilizi/commercio/ambiente PL	COPERTA-MODULO, con rinvio a VOL-10/VOL-11 se tecnico avanzato
+Camere di commercio	FUORI-PERIMETRO VOL-02 secondo sez. 7 matrice; [DA VERIFICARE] collocazione
+FASE 5 – Decisioni di collocazione
+Capitoli principali VOL-02
+#	Capitolo	Collocazione
+1	Come usare VOL-02 con il Metodo BANDO	Frontmatter operativo
+2	Anatomia del bando negli enti locali	Capitolo volume
+3	Ordinamento degli enti locali: TUEL operativo	Capitolo modulo
+4	Organi, competenze, statuti e regolamenti	Capitolo modulo
+5	Atti degli enti locali: delibere, determine, ordinanze	Capitolo modulo
+6	Servizi comunali: demografici, protocollo, URP, servizi sociali ed educativi	Capitolo modulo
+7	Contabilità locale: DUP, PEG, bilancio, rendiconto	Capitolo modulo
+8	Entrate, tributi locali, patrimonio ed economato	Capitolo modulo
+9	Controlli, responsabilità e Corte dei conti negli enti locali	Capitolo modulo
+10	Regioni, Province e Città metropolitane	Capitolo modulo
+11	Fondi UE, PNRR e programmazione territoriale	Capitolo/appendice avanzata
+12	Tecnico locale: edilizia, urbanistica, lavori pubblici	Capitolo con rinvio a VOL-10
+13	Polizia locale: ordinamento, funzioni, ruolo operativo	Capitolo modulo
+14	Sanzioni, codice della strada, TULPS, commercio, edilizia, ambiente	Capitolo modulo
+15	Casi pratici locali e simulazione finale	Capitolo workbook
+Appendici
+
+A. Schemi di atti locali: determina, delibera, ordinanza, verbale.
+B. Mini-manuale contabilità locale per amministrativi e contabili.
+C. Glossario enti locali e Polizia locale.
+D. Tabella profili → materie → prove → output.
+E. Piano 30/60/90 giorni per concorsi comunali, regionali e PL.
+F. Rinvi specialistici: VOL-09, VOL-10, VOL-11.
+
+FASE 6 – Scheda compatibilità commerciale
+Pacchetto	Quando
+STANDARD	Candidato a Comuni, Regioni, Province, Città metropolitane o Polizia locale con profilo amministrativo, contabile, servizi o PL
+VERTICALE	Profilo tecnico locale pesante, appalti/PNRR avanzato, ambiente/protezione civile avanzato
+PREMIUM	Non applicabile a VOL-02
+
+Comprare: VOL-01 + VOL-02.
+
+Non serve comprare:
+VOL-03 Fisco/Previdenza, salvo concorsi fiscali; VOL-04 Giustizia; VOL-05 Authority; VOL-06 Scuola/Università/Ricerca/Cultura; VOL-07 Sanità; VOL-08 ICT, salvo profilo informatico; VOL-12 Carriere speciali.
+
+Possibili moduli aggiuntivi solo se il bando lo giustifica:
+VOL-09 Appalti/PNRR; VOL-10 Tecnico-ingegneristico; VOL-11 Ambiente/protezione civile.
+
+OUTPUT A – Mappa Fonti Specialistiche
+1. Normativa primaria di settore
+Fonte	Uso nel VOL-02
+D.Lgs. 18 agosto 2000, n. 267 – TUEL	Fonte cardine per Comuni, Province, Città metropolitane
+D.Lgs. 23 giugno 2011, n. 118	Contabilità armonizzata enti territoriali
+Legge 7 aprile 2014, n. 56	Province e Città metropolitane
+D.P.R. 6 giugno 2001, n. 380	Edilizia e profili tecnici locali
+Legge 7 marzo 1986, n. 65	Ordinamento Polizia municipale / locale
+D.Lgs. 30 aprile 1992, n. 285	Codice della strada
+Legge 24 novembre 1981, n. 689	Sanzioni amministrative
+R.D. 18 giugno 1931, n. 773 – TULPS	Pubblica sicurezza, commercio, controlli PL
+
+Le fonti già presenti nel catalogo base non vanno duplicate nel volume: Costituzione, L. 241/1990, D.Lgs. 165/2001, D.Lgs. 33/2013, D.Lgs. 36/2023, CAD, privacy e anticorruzione vanno richiamati come “Cfr. VOL-01”.
+
+2. Normativa secondaria e regolamenti
+Statuti comunali, provinciali, metropolitani e regionali.
+Regolamenti comunali su uffici, procedimento, accesso, contabilità, tributi, polizia urbana.
+Regolamenti di Polizia locale regionali e comunali.
+Regolamenti edilizi comunali.
+Regolamenti su entrate, economato, patrimonio.
+3. Contrattazione collettiva
+CCNL Funzioni Locali 2019-2021.
+CCNQ ARAN comparti e aree.
+Orientamenti applicativi ARAN su mansioni, profili, progressioni, responsabilità, orario, turni PL.
+4. Soft law e linee guida
+ANAC: trasparenza, anticorruzione, contratti pubblici.
+MEF / Ragioneria generale: armonizzazione contabile enti territoriali.
+Corte dei conti: linee e delibere di controllo su bilanci locali.
+Ministero Interno: finanza locale, enti locali, elettorale, anagrafe.
+AgID: servizi digitali comunali, protocollo, accessibilità, conservazione.
+5. Giurisprudenza rilevante
+
+Da trattare in forma selettiva e operativa:
+
+Corte costituzionale su autonomia locale e riparto competenze.
+Consiglio di Stato su ordinanze, accesso, edilizia, concorsi locali.
+Corte dei conti su responsabilità, danno erariale, controlli e contabilità locale.
+Cassazione su sanzioni amministrative e codice della strada.
+
+Nota: non inserire repertori giurisprudenziali estesi. Solo principi ad alta frequenza concorsuale; estremi specifici da verificare caso per caso: [DA VERIFICARE].
+
+6. Fonti operative
+inPA.
+Gazzetta Ufficiale – 4ª Serie speciale Concorsi.
+Siti istituzionali di Comuni, Regioni, Province, Città metropolitane.
+Portali regionali dei concorsi.
+Ministero Interno – Dipartimento affari interni e territoriali.
+Corte dei conti – sezioni regionali di controllo.
+ANCI, UPI, Conferenza Regioni: utili come fonti operative/dottrinali, non primarie.
+7. Bandi-tipo dalla matrice
+ID fonte	Uso
+ROMA-ISTR	Istruttori enti locali, profili amministrativi/tecnici
+MILANO-ISAC	Istruttore servizi amministrativi e contabili
+REG-LAZIO	Regioni, profili amministrativi e fondi
+REG-LOMB	Concorsi regionali
+ROMA-PL	Polizia locale
+ROMA-ISTR	Anche per profili tecnici/comunali confinanti
+
+Campione insufficiente per piena validazione quantitativa: gap dichiarati nella Fase 2.
+
+8. Manualistica e dottrina
+Manuali TUEL e ordinamento enti locali.
+Manuali contabilità enti locali.
+Manuali Polizia locale.
+Manuali redazione atti amministrativi locali.
+Manuali servizi demografici, stato civile, elettorale.
+Manuali tributi locali.
+Manuali edilizia/urbanistica per istruttori tecnici, con rinvio a VOL-10 se avanzati.
+OUTPUT B – Indice del libro di testo VOL-02
+Frontmatter standard
+Come usare VOL-02 insieme a VOL-01.
+A chi serve: Comuni, Regioni, Province, Città metropolitane, Polizia locale.
+Cosa non trovi qui: diritto amministrativo generale, pubblico impiego generale, logica, inglese, informatica base.
+Mappa profili → materie → prove.
+Bando-tipo locale decodificato.
+Piano 30/60/90 giorni per enti locali e PL.
+Capitoli
+#	Titolo	Target parole	Materia matrice	Profili interessati	Frequenza bandi	Output tipici
+1	Entrare negli enti locali con il Metodo BANDO	1.800	Perimetro VOL-02	Tutti	Trasversale matrice	Mappa volume, griglia profilo
+2	Anatomia del bando locale	2.000	Bandi enti locali	Tutti	Campione matrice, % non calcolata	Bando Decoder locale
+3	TUEL operativo	2.800	Ordinamento enti locali	M-FL01, M-FL02	Ricorrente nei bandi locali	Schema organi/competenze
+4	Statuti, regolamenti e organizzazione locale	2.000	Statuti/regolamenti	M-FL01, M-FL02	Ricorrente, % non calcolata	Tabella fonti locali
+5	Atti locali: delibere, determine, ordinanze	2.800	Redazione atti locali	M-FL01, M-FL02, M-FL04	Ricorrente	Template atti
+6	Servizi comunali al cittadino	2.400	Demografici/sociali/educativi	M-FL01 servizi	Profilo-specifica	Casi URP/anagrafe/sociale
+7	Contabilità degli enti locali	3.000	DUP, PEG, bilancio, rendiconto	M-FL01 contabile	Profilo-specifica alta	Mappa ciclo bilancio
+8	Entrate, tributi, patrimonio ed economato	2.400	Tributi locali/entrate	M-FL01 contabile	Profilo-specifica	Casi entrata/spesa
+9	Controlli e responsabilità negli enti locali	2.200	Controlli interni/Corte conti	M-FL01, M-FL02	Ricorrente	Griglia rischio-responsabilità
+10	Regioni, Province e Città metropolitane	2.600	Ordinamento regionale/provinciale	M-FL02	Campione 4/6	Mappa competenze territoriali
+11	Programmazione territoriale, fondi UE e PNRR	2.200	Fondi/programmazione	M-FL02 specialisti	Parziale	Checklist progetto
+12	Tecnico locale essenziale	2.800	Edilizia/urbanistica/lavori pubblici	M-FL01 tecnico, M-FL02 tecnico	Profilo-specifica	Caso edilizia/LLPP
+13	Polizia locale: ordinamento e funzioni	2.600	L. 65/1986, PL	M-FL04	Campione 2/6	Mappa funzioni PL
+14	Sanzioni, controlli e verbali della Polizia locale	3.000	Codice strada, L. 689, TULPS	M-FL04	Profilo-specifica	Verbale guidato
+15	Simulazione finale VOL-02	2.400	Casi pratici locali	Tutti	Trasversale	Prova integrata + diario errori
+
+Totale stimato: circa 35.000 parole.
+Target superiore ma coerente con volume multi-modulo, da ridurre a 32.000 parole in editing se necessario.
+
+Appendici
+Appendice	Target parole	Funzione
+A. Schemi di atti locali	1.500	Delibera, determina, ordinanza, verbale
+B. Contabilità locale in 20 schemi	1.500	DUP, PEG, bilancio, rendiconto, residui, controlli
+C. Glossario enti locali e PL	1.200	Sigle e parole chiave locali
+D. Tabella profili/materie/prove	1.000	Orientamento candidato
+E. Piano 30/60/90 giorni	1.200	Percorso operativo
+F. Rinvii a VOL-09, VOL-10, VOL-11	800	Evitare acquisti inutili e duplicazioni
+Checklist finale v4
+ Matrice file 09 usata.
+ Workflow file 08 seguito.
+ VOL-02 identificato correttamente.
+ Moduli M-FL01, M-FL02, M-FL04 inclusi.
+ M-FL03 segnalato come anomalia/perimetro da verificare.
+ Fonti base non duplicate.
+ Materie B-PA solo richiamate.
+ Delta content rispettato.
+ Capitoli tracciati a profili matrice.
+ Appendici motivate.
+ Bandi dichiarati.
+ Gap dichiarati.
+ Frequenze non inventate.
+ Rinvii coerenti a VOL-09, VOL-10, VOL-11.
+ Pacchetto commerciale e “cosa NON comprare” presenti.

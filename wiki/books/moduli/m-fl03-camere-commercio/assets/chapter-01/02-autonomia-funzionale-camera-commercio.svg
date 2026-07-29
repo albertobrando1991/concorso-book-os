@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Camera di commercio: autonomia funzionale</title>
+  <desc id="desc">Ente pubblico, sistema delle imprese, mercato e territorio economico.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; }
+      .softRed { fill: #F8E8EA; stroke: #E3B9BF; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E8D080; stroke-width: 2.5; }
+      .softGreen { fill: #E7F3ED; stroke: #A8D1BD; stroke-width: 2.5; }
+      .softTeal { fill: #E4F4F5; stroke: #A3D5D8; stroke-width: 2.5; }
+      .note { fill: #FFF7ED; stroke: #E7C18E; stroke-width: 2.5; }
+      .ink { fill: #0F172A; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 43px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 22px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 24px; font-weight: 800; letter-spacing: 0; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 18px; }
+      .navy { fill: #10233F; }
+      .bordeaux { fill: #7A2430; }
+      .gold { fill: #D4AF37; }
+      .green { fill: #2F7D5A; }
+      .teal { fill: #1F6F78; }
+      .line { stroke: #94A3B8; stroke-width: 4; stroke-linecap: round; fill: none; }
+      .thin { stroke: #CBD5E1; stroke-width: 2.5; stroke-linecap: round; fill: none; }
+      .arrowNavy { stroke: #10233F; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowNavy); }
+      .arrowBordeaux { stroke: #7A2430; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowBordeaux); }
+      .arrowGold { stroke: #D4AF37; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGold); }
+      .arrowGreen { stroke: #2F7D5A; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGreen); }
+      .arrowTeal { stroke: #1F6F78; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowTeal); }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#10233F"/></marker>
+    <marker id="arrowBordeaux" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#7A2430"/></marker>
+    <marker id="arrowGold" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#D4AF37"/></marker>
+    <marker id="arrowGreen" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2F7D5A"/></marker>
+    <marker id="arrowTeal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1F6F78"/></marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <text class="ink title" x="800" y="68" text-anchor="middle">Camera di commercio: autonomia funzionale</text>
+  <text class="muted subtitle" x="800" y="108" text-anchor="middle">Ente pubblico, sistema delle imprese, mercato e territorio economico.</text>
+
+  <rect class="card" x="70" y="160" width="1460" height="640" rx="30"/>
+  <g data-safe-box="525 245 550 110 10">
+    <rect class="softBlue" x="525" y="245" width="550" height="110" rx="26"/>
+    <rect x="525" y="245" width="550" height="10" rx="5" fill="#10233F"/>
+    <text class="navy label" x="800" y="285" text-anchor="middle" style="font-size:22px">Camera di commercio</text>
+    <text class="muted small" x="800" y="317" text-anchor="middle" style="font-size:17px">ente pubblico ad autonomia funzionale</text>
+<text class="muted small" x="800" y="341" text-anchor="middle" style="font-size:17px">funzioni di interesse generale per imprese e mercato</text>
+  </g>
+  <path class="line" d="M800 355 L800 430"/>
+  <path class="line" d="M370 430 L1230 430"/>
+  <path class="line" d="M370 430 L370 510"/>
+  <path class="line" d="M660 430 L660 510"/>
+  <path class="line" d="M940 430 L940 510"/>
+  <path class="line" d="M1230 430 L1230 510"/>
+  <g data-safe-box="190 510 260 160 10">
+    <rect class="softBlue" x="190" y="510" width="260" height="160" rx="24"/>
+    <rect x="190" y="510" width="260" height="10" rx="5" fill="#10233F"/>
+    <text class="navy label" x="320" y="552" text-anchor="middle" style="font-size:20px">Natura pubblica</text>
+    <path class="thin" d="M232 578 L408 578"/>
+    <text class="muted small" x="320" y="608" text-anchor="middle" style="font-size:17px">legalita</text>
+<text class="muted small" x="320" y="633" text-anchor="middle" style="font-size:17px">procedimento</text>
+<text class="muted small" x="320" y="658" text-anchor="middle" style="font-size:17px">trasparenza</text>
+  </g>
+  <g data-safe-box="480 510 260 160 10">
+    <rect class="softRed" x="480" y="510" width="260" height="160" rx="24"/>
+    <rect x="480" y="510" width="260" height="10" rx="5" fill="#7A2430"/>
+    <text class="bordeaux label" x="610" y="552" text-anchor="middle" style="font-size:20px">Funzione propria</text>
+    <path class="thin" d="M522 578 L698 578"/>
+    <text class="muted small" x="610" y="608" text-anchor="middle" style="font-size:17px">imprese</text>
+<text class="muted small" x="610" y="633" text-anchor="middle" style="font-size:17px">mercato</text>
+<text class="muted small" x="610" y="658" text-anchor="middle" style="font-size:17px">pubblicita</text>
+  </g>
+  <g data-safe-box="760 510 260 160 10">
+    <rect class="softGold" x="760" y="510" width="260" height="160" rx="24"/>
+    <rect x="760" y="510" width="260" height="10" rx="5" fill="#D4AF37"/>
+    <text class="gold label" x="890" y="552" text-anchor="middle" style="font-size:20px">Territorio economico</text>
+    <path class="thin" d="M802 578 L978 578"/>
+    <text class="muted small" x="890" y="608" text-anchor="middle" style="font-size:17px">unita locali</text>
+<text class="muted small" x="890" y="633" text-anchor="middle" style="font-size:17px">filiere</text>
+<text class="muted small" x="890" y="658" text-anchor="middle" style="font-size:17px">servizi</text>
+  </g>
+  <g data-safe-box="1050 510 260 160 10">
+    <rect class="softGreen" x="1050" y="510" width="260" height="160" rx="24"/>
+    <rect x="1050" y="510" width="260" height="10" rx="5" fill="#2F7D5A"/>
+    <text class="green label" x="1180" y="552" text-anchor="middle" style="font-size:20px">Sistema camerale</text>
+    <path class="thin" d="M1092 578 L1268 578"/>
+    <text class="muted small" x="1180" y="608" text-anchor="middle" style="font-size:17px">rete</text>
+<text class="muted small" x="1180" y="633" text-anchor="middle" style="font-size:17px">strumenti</text>
+<text class="muted small" x="1180" y="658" text-anchor="middle" style="font-size:17px">supporto</text>
+  </g>
+  <g data-safe-box="270 815 1060 62 10">
+    <rect class="note" x="270" y="815" width="1060" height="62" rx="24"/>
+    <text class="ink body" x="800" y="854" text-anchor="middle" style="font-weight:800;font-size:20px">Anti-errore: non e Comune, non e ufficio periferico statale, non e sola rappresentanza di imprese.</text>
+  </g>
+
+</svg>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Authority, settori e poteri</title>
+  <desc id="desc">La sigla non basta: ogni ente va letto da interesse protetto, settore e funzione.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; } .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; } .softRed { fill: #F8E8EA; stroke: #E3B9BF; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E8D080; stroke-width: 2.5; } .softGreen { fill: #E7F3ED; stroke: #A8D1BD; stroke-width: 2.5; }
+      .softTeal { fill: #E4F4F5; stroke: #A3D5D8; stroke-width: 2.5; } .note { fill: #FFF7ED; stroke: #E7C18E; stroke-width: 2.5; }
+      .ink { fill: #0F172A; font-family: Arial, Helvetica, sans-serif; } .muted { fill: #526174; font-family: Arial, Helvetica, sans-serif; }
+      .title { font-size: 43px; font-weight: 700; } .subtitle { font-size: 22px; } .label { font-family: Arial, Helvetica, sans-serif; font-size: 25px; font-weight: 700; }
+      .body { font-family: Arial, Helvetica, sans-serif; font-size: 20px; } .small { font-family: Arial, Helvetica, sans-serif; font-size: 18px; }
+      .navy { fill: #10233F; } .bordeaux { fill: #7A2430; } .gold { fill: #D4AF37; } .green { fill: #2F7D5A; } .teal { fill: #1F6F78; }
+      .line { stroke: #94A3B8; stroke-width: 4; stroke-linecap: round; fill: none; } .thin { stroke: #CBD5E1; stroke-width: 2.5; stroke-linecap: round; fill: none; }
+      .arrowNavy { stroke: #10233F; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowNavy); } .arrowBordeaux { stroke: #7A2430; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowBordeaux); }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#10233F"/></marker>
+    <marker id="arrowBordeaux" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#7A2430"/></marker>
+  </defs>
+  <rect class="bg" width="1600" height="1000"/>
+  <text class="ink title" x="800" y="70" text-anchor="middle">Authority, settori e poteri</text>
+  <text class="muted subtitle" x="800" y="112" text-anchor="middle">La sigla non basta: ogni ente va letto da interesse protetto, settore e funzione.</text>
+  
+  <rect class="card" x="65" y="175" width="1470" height="605" rx="30"/>
+  <text class="navy label" x="800" y="235" text-anchor="middle">Domanda guida: quale interesse è protetto e con quale potere?</text>
+  <g data-safe-box="95 305 270 150 8"><rect class="softBlue" x="95" y="305" width="270" height="150" rx="22"/><rect x="95" y="305" width="270" height="10" rx="5" fill="#10233F"/><text class="navy label" x="230" y="353" text-anchor="middle" style="font-size:23px">AGCM</text><text class="muted small" x="230" y="393" text-anchor="middle" style="font-size:18px">concorrenza</text>
+<text class="muted small" x="230" y="420" text-anchor="middle" style="font-size:18px">consumatore</text></g>
+<g data-safe-box="475 305 270 150 8"><rect class="softGreen" x="475" y="305" width="270" height="150" rx="22"/><rect x="475" y="305" width="270" height="10" rx="5" fill="#2F7D5A"/><text class="green label" x="610" y="353" text-anchor="middle" style="font-size:23px">ARERA</text><text class="muted small" x="610" y="393" text-anchor="middle" style="font-size:18px">energia, acqua</text>
+<text class="muted small" x="610" y="420" text-anchor="middle" style="font-size:18px">tariffe, qualità</text></g>
+<g data-safe-box="855 305 270 150 8"><rect class="softTeal" x="855" y="305" width="270" height="150" rx="22"/><rect x="855" y="305" width="270" height="10" rx="5" fill="#1F6F78"/><text class="teal label" x="990" y="353" text-anchor="middle" style="font-size:23px">AGCOM</text><text class="muted small" x="990" y="393" text-anchor="middle" style="font-size:18px">comunicazioni</text>
+<text class="muted small" x="990" y="420" text-anchor="middle" style="font-size:18px">media, utenti</text></g>
+<g data-safe-box="1235 305 270 150 8"><rect class="softRed" x="1235" y="305" width="270" height="150" rx="22"/><rect x="1235" y="305" width="270" height="10" rx="5" fill="#7A2430"/><text class="bordeaux label" x="1370" y="353" text-anchor="middle" style="font-size:23px">CONSOB</text><text class="muted small" x="1370" y="393" text-anchor="middle" style="font-size:18px">mercati</text>
+<text class="muted small" x="1370" y="420" text-anchor="middle" style="font-size:18px">investitore</text></g>
+  <g data-safe-box="95 545 270 150 8"><rect class="softGold" x="95" y="545" width="270" height="150" rx="22"/><rect x="95" y="545" width="270" height="10" rx="5" fill="#D4AF37"/><text class="gold label" x="230" y="593" text-anchor="middle" style="font-size:23px">Banca d'Italia</text><text class="muted small" x="230" y="633" text-anchor="middle" style="font-size:18px">stabilità</text>
+<text class="muted small" x="230" y="660" text-anchor="middle" style="font-size:18px">vigilanza</text></g>
+<g data-safe-box="475 545 270 150 8"><rect class="softGold" x="475" y="545" width="270" height="150" rx="22"/><rect x="475" y="545" width="270" height="10" rx="5" fill="#D4AF37"/><text class="gold label" x="610" y="593" text-anchor="middle" style="font-size:23px">IVASS</text><text class="muted small" x="610" y="633" text-anchor="middle" style="font-size:18px">assicurazioni</text>
+<text class="muted small" x="610" y="660" text-anchor="middle" style="font-size:18px">condotta</text></g>
+<g data-safe-box="855 545 270 150 8"><rect class="softGreen" x="855" y="545" width="270" height="150" rx="22"/><rect x="855" y="545" width="270" height="10" rx="5" fill="#2F7D5A"/><text class="green label" x="990" y="593" text-anchor="middle" style="font-size:23px">Garante</text><text class="muted small" x="990" y="633" text-anchor="middle" style="font-size:18px">dati personali</text>
+<text class="muted small" x="990" y="660" text-anchor="middle" style="font-size:18px">cooperazione UE</text></g>
+<g data-safe-box="1235 545 270 150 8"><rect class="softRed" x="1235" y="545" width="270" height="150" rx="22"/><rect x="1235" y="545" width="270" height="10" rx="5" fill="#7A2430"/><text class="bordeaux label" x="1370" y="593" text-anchor="middle" style="font-size:23px">ANAC</text><text class="muted small" x="1370" y="633" text-anchor="middle" style="font-size:18px">integrità</text>
+<text class="muted small" x="1370" y="660" text-anchor="middle" style="font-size:18px">prevenzione</text></g>
+  <g data-safe-box="230 850 1140 70 8"><rect class="note" x="230" y="850" width="1140" height="70" rx="24"/><text class="ink body" x="800" y="894" text-anchor="middle" style="font-weight:700;font-size:18px">Regolazione, vigilanza, istruttoria e sanzione non sono etichette equivalenti: dipendono da fonte e settore.</text></g>
+
+</svg>

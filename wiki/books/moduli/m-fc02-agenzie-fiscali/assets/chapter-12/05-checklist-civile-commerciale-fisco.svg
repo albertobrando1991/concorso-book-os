@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Checklist civile-commerciale M-FC02</title>
+  <desc id="desc">Prima separa soggetto, rapporto, documento, patrimonio, poteri e piano prevalente.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; }
+      .softRed { fill: #F8E8EA; stroke: #E3B9BF; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E8D080; stroke-width: 2.5; }
+      .softGreen { fill: #E7F3ED; stroke: #A8D1BD; stroke-width: 2.5; }
+      .softTeal { fill: #E4F4F5; stroke: #A3D5D8; stroke-width: 2.5; }
+      .note { fill: #FFF7ED; stroke: #E7C18E; stroke-width: 2.5; }
+      .ink { fill: #0F172A; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 43px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 22px; letter-spacing: 0; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 24px; font-weight: 800; letter-spacing: 0; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; letter-spacing: 0; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 18px; letter-spacing: 0; }
+      .line { stroke: #94A3B8; stroke-width: 4; stroke-linecap: round; fill: none; }
+      .arrowNavy { stroke: #10233F; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowNavy); }
+      .arrowBordeaux { stroke: #7A2430; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowBordeaux); }
+      .arrowGold { stroke: #D4AF37; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGold); }
+      .arrowGreen { stroke: #2F7D5A; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGreen); }
+      .arrowTeal { stroke: #1F6F78; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowTeal); }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#10233F"/></marker>
+    <marker id="arrowBordeaux" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#7A2430"/></marker>
+    <marker id="arrowGold" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#D4AF37"/></marker>
+    <marker id="arrowGreen" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2F7D5A"/></marker>
+    <marker id="arrowTeal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1F6F78"/></marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <g data-safe-box="120 14 1360 116 0" data-safe-name="header">
+    <text class="ink title" x="800" y="68" text-anchor="middle">Checklist civile-commerciale M-FC02</text>
+    <text class="muted subtitle" x="800" y="106" text-anchor="middle">Prima separa soggetto, rapporto, documento, patrimonio, poteri e piano prevalente.</text>
+  </g>
+  
+  <rect class="card" x="70" y="160" width="1460" height="640" rx="30"/>
+  <g data-safe-box="130 220 430 88 0" data-safe-name="1. Soggetto">
+    <rect class="softBlue" x="130" y="220" width="430" height="88" rx="20"/>
+    <rect x="130" y="220" width="10" height="88" rx="5" fill="#10233F"/>
+    <text class="ink label" x="156" y="255">1. Soggetto</text>
+    <text class="muted small" x="158" y="284">persona, societa, ente</text>
+  </g>
+  <g data-safe-box="130 330 430 88 0" data-safe-name="2. Rapporto">
+    <rect class="softRed" x="130" y="330" width="430" height="88" rx="20"/>
+    <rect x="130" y="330" width="10" height="88" rx="5" fill="#7A2430"/>
+    <text class="ink label" x="156" y="365">2. Rapporto</text>
+    <text class="muted small" x="158" y="394">contratto o obbligo</text>
+  </g>
+  <g data-safe-box="130 440 430 88 0" data-safe-name="3. Documento">
+    <rect class="softGold" x="130" y="440" width="430" height="88" rx="20"/>
+    <rect x="130" y="440" width="10" height="88" rx="5" fill="#D4AF37"/>
+    <text class="ink label" x="156" y="475">3. Documento</text>
+    <text class="muted small" x="158" y="504">fattura, bilancio, cartella</text>
+  </g>
+  <g data-safe-box="130 550 430 88 0" data-safe-name="4. Patrimonio">
+    <rect class="softGreen" x="130" y="550" width="430" height="88" rx="20"/>
+    <rect x="130" y="550" width="10" height="88" rx="5" fill="#2F7D5A"/>
+    <text class="ink label" x="156" y="585">4. Patrimonio</text>
+    <text class="muted small" x="158" y="614">beni, crediti, debiti</text>
+  </g>
+  <g data-safe-box="1040 220 430 88 0" data-safe-name="5. Poteri">
+    <rect class="softTeal" x="1040" y="220" width="430" height="88" rx="20"/>
+    <rect x="1040" y="220" width="10" height="88" rx="5" fill="#1F6F78"/>
+    <text class="ink label" x="1066" y="255">5. Poteri</text>
+    <text class="muted small" x="1068" y="284">rappresentante o delega</text>
+  </g>
+  <g data-safe-box="1040 330 430 88 0" data-safe-name="6. Piano">
+    <rect class="softGold" x="1040" y="330" width="430" height="88" rx="20"/>
+    <rect x="1040" y="330" width="10" height="88" rx="5" fill="#D4AF37"/>
+    <text class="ink label" x="1066" y="365">6. Piano</text>
+    <text class="muted small" x="1068" y="394">civile, fisco, dogane</text>
+  </g>
+  <g data-safe-box="1040 440 430 88 0" data-safe-name="7. Crisi">
+    <rect class="softRed" x="1040" y="440" width="430" height="88" rx="20"/>
+    <rect x="1040" y="440" width="10" height="88" rx="5" fill="#7A2430"/>
+    <text class="ink label" x="1066" y="475">7. Crisi</text>
+    <text class="muted small" x="1068" y="504">alert, non automatismo</text>
+  </g>
+  <g data-safe-box="1040 550 430 88 0" data-safe-name="8. Output">
+    <rect class="softBlue" x="1040" y="550" width="430" height="88" rx="20"/>
+    <rect x="1040" y="550" width="10" height="88" rx="5" fill="#10233F"/>
+    <text class="ink label" x="1066" y="585">8. Output</text>
+    <text class="muted small" x="1068" y="614">caso, quiz, orale</text>
+  </g>
+  <g data-safe-box="610 350 380 175 0" data-safe-name="Risposta solida">
+    <rect class="softBlue" x="610" y="350" width="380" height="175" rx="26"/>
+    <circle cx="654" cy="394" r="18" fill="#10233F"/>
+    <text class="ink label" x="684" y="402">Risposta solida</text>
+    <text class="muted body" x="644" y="442">qualifica</text>
+<text class="muted body" x="644" y="470">separa</text>
+<text class="muted body" x="644" y="498">collega</text>
+  </g>
+  <path class="arrowGreen" d="M570 410 L600 410"/>
+  <path class="arrowTeal" d="M1000 410 L1030 410"/>
+  <g data-safe-box="615 575 370 82 0" data-safe-name="Regola d'esame">
+    <rect class="softGold" x="615" y="575" width="370" height="82" rx="20"/>
+    <rect x="615" y="575" width="10" height="82" rx="5" fill="#D4AF37"/>
+    <text class="ink label" x="639" y="611">Regola d'esame</text>
+    <text class="muted small" x="639" y="643">non fondere i piani</text>
+  </g>
+  <g data-safe-box="245 815 1110 54 0" data-safe-name="nota">
+    <rect class="note" x="245" y="815" width="1110" height="54" rx="18"/>
+    <text class="ink body" x="800" y="850" text-anchor="middle">La checklist trasforma una domanda privata in una risposta utile per fisco, dogane o riscossione.</text>
+  </g>
+</svg>

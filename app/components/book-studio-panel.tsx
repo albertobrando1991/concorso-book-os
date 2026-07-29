@@ -239,6 +239,21 @@ export function BookStudioPanel({
   }, [data.bookId, selectedPath])
 
   useEffect(() => {
+    if (isRefreshing) return
+
+    if (viewMode === "book") {
+      if (publishableChapters.some((chapter) => chapter.blocks.length === 0)) {
+        void refreshStudio(selectedPath)
+      }
+      return
+    }
+
+    if (selectedChapter && selectedChapter.blocks.length === 0) {
+      void refreshStudio(selectedChapter.path)
+    }
+  }, [isRefreshing, publishableChapters, refreshStudio, selectedChapter, selectedPath, viewMode])
+
+  useEffect(() => {
     function handleBookStudioRefresh(event: Event) {
       const detail = (event as CustomEvent<BookStudioRefreshDetail>).detail
       if (!detail?.bookId || detail.bookId !== data.bookId) return

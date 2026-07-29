@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Accise come filiera regolata</title>
+  <desc id="desc">Prodotto, deposito, regime, circolazione e consumo vanno letti come sequenza.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; }
+      .softRed { fill: #F8E8EA; stroke: #E3B9BF; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E8D080; stroke-width: 2.5; }
+      .softGreen { fill: #E7F3ED; stroke: #A8D1BD; stroke-width: 2.5; }
+      .softTeal { fill: #E4F4F5; stroke: #A3D5D8; stroke-width: 2.5; }
+      .note { fill: #FFF7ED; stroke: #E7C18E; stroke-width: 2.5; }
+      .ink { fill: #0F172A; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 43px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 22px; letter-spacing: 0; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 24px; font-weight: 800; letter-spacing: 0; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; letter-spacing: 0; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 18px; letter-spacing: 0; }
+      .line { stroke: #94A3B8; stroke-width: 4; stroke-linecap: round; fill: none; }
+      .arrowNavy { stroke: #10233F; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowNavy); }
+      .arrowBordeaux { stroke: #7A2430; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowBordeaux); }
+      .arrowGold { stroke: #D4AF37; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGold); }
+      .arrowGreen { stroke: #2F7D5A; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGreen); }
+      .arrowTeal { stroke: #1F6F78; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowTeal); }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#10233F"/></marker>
+    <marker id="arrowBordeaux" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#7A2430"/></marker>
+    <marker id="arrowGold" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#D4AF37"/></marker>
+    <marker id="arrowGreen" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2F7D5A"/></marker>
+    <marker id="arrowTeal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1F6F78"/></marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <g data-safe-box="120 14 1360 116 0" data-safe-name="header">
+    <text class="ink title" x="800" y="68" text-anchor="middle">Accise come filiera regolata</text>
+    <text class="muted subtitle" x="800" y="106" text-anchor="middle">Prodotto, deposito, regime, circolazione e consumo vanno letti come sequenza.</text>
+  </g>
+  
+  <rect class="card" x="70" y="160" width="1460" height="640" rx="30"/>
+  <g data-safe-box="115 305 170 164 6" data-safe-name="Prodotto">
+    <rect class="softBlue" x="115" y="305" width="170" height="164" rx="22"/>
+    <circle cx="149" cy="343" r="21" fill="#10233F"/>
+    <text x="149" y="351" text-anchor="middle" fill="#FFFFFF" style="font: 800 21px 'Segoe UI', Arial, sans-serif">1</text>
+    <text class="ink label" x="143" y="387">Prodotto</text>
+    <text class="muted small" x="143" y="421">energia</text>
+<text class="muted small" x="143" y="444">alcole tabacchi</text>
+  </g>
+  <g data-safe-box="355 305 170 164 6" data-safe-name="Deposito">
+    <rect class="softRed" x="355" y="305" width="170" height="164" rx="22"/>
+    <circle cx="389" cy="343" r="21" fill="#7A2430"/>
+    <text x="389" y="351" text-anchor="middle" fill="#FFFFFF" style="font: 800 21px 'Segoe UI', Arial, sans-serif">2</text>
+    <text class="ink label" x="383" y="387">Deposito</text>
+    <text class="muted small" x="383" y="421">luogo</text>
+<text class="muted small" x="383" y="444">autorizzato</text>
+  </g>
+  <g data-safe-box="595 305 170 164 6" data-safe-name="Regime">
+    <rect class="softGold" x="595" y="305" width="170" height="164" rx="22"/>
+    <circle cx="629" cy="343" r="21" fill="#D4AF37"/>
+    <text x="629" y="351" text-anchor="middle" fill="#FFFFFF" style="font: 800 21px 'Segoe UI', Arial, sans-serif">3</text>
+    <text class="ink label" x="623" y="387">Regime</text>
+    <text class="muted small" x="623" y="421">sospensivo</text>
+<text class="muted small" x="623" y="444">o consumo</text>
+  </g>
+  <g data-safe-box="835 305 170 164 6" data-safe-name="Movimento">
+    <rect class="softGreen" x="835" y="305" width="170" height="164" rx="22"/>
+    <circle cx="869" cy="343" r="21" fill="#2F7D5A"/>
+    <text x="869" y="351" text-anchor="middle" fill="#FFFFFF" style="font: 800 21px 'Segoe UI', Arial, sans-serif">4</text>
+    <text class="ink label" x="863" y="387">Movimento</text>
+    <text class="muted small" x="863" y="421">dati</text>
+<text class="muted small" x="863" y="444">documenti</text>
+  </g>
+  <g data-safe-box="1075 305 170 164 6" data-safe-name="Esigibilita">
+    <rect class="softTeal" x="1075" y="305" width="170" height="164" rx="22"/>
+    <circle cx="1109" cy="343" r="21" fill="#1F6F78"/>
+    <text x="1109" y="351" text-anchor="middle" fill="#FFFFFF" style="font: 800 21px 'Segoe UI', Arial, sans-serif">5</text>
+    <text class="ink label" x="1103" y="387">Esigibilita</text>
+    <text class="muted small" x="1103" y="421">imposta</text>
+<text class="muted small" x="1103" y="444">effetti</text>
+  </g>
+  <g data-safe-box="1315 305 170 164 6" data-safe-name="Controllo">
+    <rect class="softBlue" x="1315" y="305" width="170" height="164" rx="22"/>
+    <circle cx="1349" cy="343" r="21" fill="#10233F"/>
+    <text x="1349" y="351" text-anchor="middle" fill="#FFFFFF" style="font: 800 21px 'Segoe UI', Arial, sans-serif">6</text>
+    <text class="ink label" x="1343" y="387">Controllo</text>
+    <text class="muted small" x="1343" y="421">rischio</text>
+<text class="muted small" x="1343" y="444">sanzioni</text>
+  </g>
+  <path class="arrowNavy" d="M285 387 L345 387"/>
+  <path class="arrowBordeaux" d="M525 387 L585 387"/>
+  <path class="arrowGold" d="M765 387 L825 387"/>
+  <path class="arrowGreen" d="M1005 387 L1065 387"/>
+  <path class="arrowTeal" d="M1245 387 L1305 387"/>
+  <g data-safe-box="255 595 330 106 8" data-safe-name="Nodo luogo">
+    <rect class="softRed" x="255" y="595" width="330" height="106" rx="20"/>
+    <text class="ink label" x="279" y="631">Nodo luogo</text>
+    <text class="muted small" x="279" y="663">non e' magazzino generico</text>
+    <rect x="255" y="595" width="10" height="106" rx="5" fill="#7A2430"/>
+  </g>
+  <g data-safe-box="635 595 330 106 8" data-safe-name="Nodo regime">
+    <rect class="softGold" x="635" y="595" width="330" height="106" rx="20"/>
+    <text class="ink label" x="659" y="631">Nodo regime</text>
+    <text class="muted small" x="659" y="663">sospensione non e' esenzione</text>
+    <rect x="635" y="595" width="10" height="106" rx="5" fill="#D4AF37"/>
+  </g>
+  <g data-safe-box="1015 595 330 106 8" data-safe-name="Nodo rischio">
+    <rect class="softGreen" x="1015" y="595" width="330" height="106" rx="20"/>
+    <text class="ink label" x="1039" y="631">Nodo rischio</text>
+    <text class="muted small" x="1039" y="663">filiera tracciata e controllata</text>
+    <rect x="1015" y="595" width="10" height="106" rx="5" fill="#2F7D5A"/>
+  </g>
+  <g data-safe-box="245 815 1110 54 14" data-safe-name="nota">
+    <rect class="note" x="245" y="815" width="1110" height="54" rx="18"/>
+    <text class="ink body" x="800" y="850" text-anchor="middle">Nelle accise il tributo segue prodotto, filiera, soggetto e titolo autorizzativo.</text>
+  </g>
+
+</svg>

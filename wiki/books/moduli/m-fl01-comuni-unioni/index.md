@@ -28,7 +28,7 @@ last_compiled_from: ["wiki/books/vol-02-enti-locali-polizia-locale/front-matter/
 # M-FL01 - Comuni e Unioni
 
 ## Ruolo del modulo
-Modulo specialistico del VOL-02 dedicato a Comuni, Unioni di Comuni, servizi comunali e profili amministrativi, contabili, tecnici di interfaccia e servizi locali. Il modulo applica il Metodo BANDO al lavoro comunale: non ripete il nucleo comune del VOL-01, ma trasforma ordinamento locale, atti, servizi, contabilita, digitale e casi di sportello in output di prova.
+Modulo specialistico del VOL-02 dedicato a Comuni, Unioni di Comuni, servizi comunali e profili amministrativi, contabili, tecnici di interfaccia e servizi locali. Il modulo applica il Metodo BANDO al lavoro comunale: non ripete il nucleo comune del VOL-01, ma trasforma ordinamento locale, atti, servizi, contabilità, digitale e casi di sportello in output di prova.
 
 Il candidato deve arrivare a tre risultati:
 
@@ -45,14 +45,14 @@ Il candidato deve arrivare a tre risultati:
 | 3 | 6 | [[books/moduli/m-fl01-comuni-unioni/chapters/03-organizzazione-comunale-uffici-servizi-gestioni-associate|Organizzazione comunale, uffici, servizi e gestioni associate]] | Collega macrostruttura, servizi, responsabili e forme associative. | Mappa ufficio-procedimento-atto. |
 | 4 | 7 | [[books/moduli/m-fl01-comuni-unioni/chapters/04-deliberazioni-determinazioni-decreti-ordinanze-pareri|Deliberazioni, determinazioni, decreti, ordinanze e pareri]] | Distingue gli atti ricorrenti e la catena istruttoria. | Laboratorio atto locale. |
 | 5 | 8 | [[books/moduli/m-fl01-comuni-unioni/chapters/05-procedimento-locale-protocollo-albo-urp-accesso|Procedimento locale, protocollo, albo, URP e accesso]] | Porta L. 241/1990, trasparenza e accesso dentro l'ufficio comunale. | Check-list procedimento/accesso. |
-| 6 | 9 | [[books/moduli/m-fl01-comuni-unioni/chapters/06-servizi-digitali-comunali-cad-anpr-gestione-documentale|Servizi digitali comunali, CAD, ANPR e gestione documentale]] | Applica CAD, identita digitale, documento informatico e ANPR ai servizi comunali. | Caso istanza online. |
+| 6 | 9 | [[books/moduli/m-fl01-comuni-unioni/chapters/06-servizi-digitali-comunali-cad-anpr-gestione-documentale|Servizi digitali comunali, CAD, ANPR e gestione documentale]] | Applica CAD, identità digitale, documento informatico e ANPR ai servizi comunali. | Caso istanza online. |
 | 7 | 10 | [[books/moduli/m-fl01-comuni-unioni/chapters/07-servizi-demografici-elettorali|Servizi demografici ed elettorali]] | Inquadra anagrafe, stato civile, elettorale, certificazioni e sportello. | Caso servizi demografici. |
 | 8 | 11 | [[books/moduli/m-fl01-comuni-unioni/chapters/08-welfare-locale-servizi-sociali-isee-minori-servizi-educativi|Welfare locale, servizi sociali, ISEE, minori e servizi educativi]] | Traduce servizi sociali ed educativi in istruttoria, dati sensibili e beneficio. | Caso presa in carico. |
-| 9 | 12 | [[books/moduli/m-fl01-comuni-unioni/chapters/09-programmazione-integrata-comunale-dup-bilancio-peg-piao-performance|Programmazione integrata comunale: DUP, bilancio, PEG, PIAO e performance]] | Raccorda programmazione politica, risorse e responsabilita gestionale. | Tavola obiettivo-risorsa-responsabile. |
+| 9 | 12 | [[books/moduli/m-fl01-comuni-unioni/chapters/09-programmazione-integrata-comunale-dup-bilancio-peg-piao-performance|Programmazione integrata comunale: DUP, bilancio, PEG, PIAO e performance]] | Raccorda programmazione politica, risorse e responsabilità gestionale. | Tavola obiettivo-risorsa-responsabile. |
 | 10 | 13 | [[books/moduli/m-fl01-comuni-unioni/chapters/10-gestione-finanziaria-rendiconto-tesoreria-controlli|Gestione finanziaria, rendiconto, tesoreria e controlli]] | Spiega il ciclo gestione-rendiconto-controllo nel Comune. | Caso contabile. |
 | 11 | 14 | [[books/moduli/m-fl01-comuni-unioni/chapters/11-entrate-tributi-locali-patrimonio-economato-riscossione|Entrate, tributi locali, patrimonio, economato e riscossione]] | Organizza entrate, tributi, patrimonio, agenti contabili e riscossione locale. | Caso entrata locale. |
 | 12 | 15 | [[books/moduli/m-fl01-comuni-unioni/chapters/12-procurement-operativo-ufficio-comunale|Procurement operativo dell'ufficio comunale]] | Offre il taglio comunale minimo su fabbisogno, affidamento, determina, CIG ed esecuzione. | Check-list affidamento. |
-| 13 | 16 | [[books/moduli/m-fl01-comuni-unioni/chapters/13-territorio-patrimonio-edilizia-lavori-interfaccia-amministrativa|Territorio, patrimonio, edilizia e lavori: interfaccia amministrativa]] | Distingue cio' che deve sapere l'amministrativo comunale da edilizia e lavori avanzati. | Rinvio ragionato a VOL-10. |
+| 13 | 16 | [[books/moduli/m-fl01-comuni-unioni/chapters/13-territorio-patrimonio-edilizia-lavori-interfaccia-amministrativa|Territorio, patrimonio, edilizia e lavori: interfaccia amministrativa]] | Distingue ciò che deve sapere l'amministrativo comunale da edilizia e lavori avanzati. | Rinvio ragionato a VOL-10. |
 | 14 | 17 | [[books/moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali|Laboratorio teorico-pratico per i quattro profili comunali]] | Integra amministrativo, contabile, tecnico di interfaccia e servizi locali. | Simulazioni per profilo. |
 
 ## Capitoli di lavoro
@@ -73,4 +73,4 @@ Il candidato deve arrivare a tre risultati:
 14. [[books/moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali|Laboratorio teorico-pratico per i quattro profili comunali]]
 
 ## Note di review
-I capitoli 01-14 sono in bozza professionale. Il modulo M-FL01 e' pronto per revisione editoriale totale: verificare copertura v4, coerenza dei rinvii a VOL-01/VOL-10, aggiornamento normativo finale e calibrazione delle simulazioni su PDF e allegati dei bandi effettivi.
+I capitoli 01-14 sono in bozza professionale. Il modulo M-FL01 è pronto per revisione editoriale totale: verificare copertura v4, coerenza dei rinvii a VOL-01/VOL-10, aggiornamento normativo finale e calibrazione delle simulazioni su PDF e allegati dei bandi effettivi.

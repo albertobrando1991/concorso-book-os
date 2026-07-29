@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Bando Decoder M-FC05</title>
+  <desc id="desc">La scheda minima per scegliere contenuti, priorità e output prima di studiare.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; } .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; } .softRed { fill: #F8E8EA; stroke: #E3B9BF; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E8D080; stroke-width: 2.5; } .softGreen { fill: #E7F3ED; stroke: #A8D1BD; stroke-width: 2.5; }
+      .softTeal { fill: #E4F4F5; stroke: #A3D5D8; stroke-width: 2.5; } .note { fill: #FFF7ED; stroke: #E7C18E; stroke-width: 2.5; }
+      .ink { fill: #0F172A; font-family: Arial, Helvetica, sans-serif; } .muted { fill: #526174; font-family: Arial, Helvetica, sans-serif; }
+      .title { font-size: 43px; font-weight: 700; } .subtitle { font-size: 22px; } .label { font-family: Arial, Helvetica, sans-serif; font-size: 25px; font-weight: 700; }
+      .body { font-family: Arial, Helvetica, sans-serif; font-size: 20px; } .small { font-family: Arial, Helvetica, sans-serif; font-size: 18px; }
+      .navy { fill: #10233F; } .bordeaux { fill: #7A2430; } .gold { fill: #D4AF37; } .green { fill: #2F7D5A; } .teal { fill: #1F6F78; }
+      .line { stroke: #94A3B8; stroke-width: 4; stroke-linecap: round; fill: none; } .thin { stroke: #CBD5E1; stroke-width: 2.5; stroke-linecap: round; fill: none; }
+      .arrowNavy { stroke: #10233F; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowNavy); } .arrowBordeaux { stroke: #7A2430; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowBordeaux); }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#10233F"/></marker>
+    <marker id="arrowBordeaux" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#7A2430"/></marker>
+  </defs>
+  <rect class="bg" width="1600" height="1000"/>
+  <text class="ink title" x="800" y="70" text-anchor="middle">Bando Decoder M-FC05</text>
+  <text class="muted subtitle" x="800" y="112" text-anchor="middle">La scheda minima per scegliere contenuti, priorità e output prima di studiare.</text>
+  
+  <rect class="card" x="65" y="175" width="1470" height="610" rx="30"/>
+  <text class="navy label" x="800" y="235" text-anchor="middle">Compila i campi prima di acquistare materiali o distribuire le ore di studio</text>
+  <g data-safe-box="105 290 240 145 8"><rect class="softBlue" x="105" y="290" width="240" height="145" rx="22"/><rect x="105" y="290" width="240" height="10" rx="5" fill="#10233F"/><text class="navy label" x="225" y="340" text-anchor="middle" style="font-size:22px">Ente e settore</text><path class="thin" d="M127 362 L323 362"/><text class="muted small" x="225" y="398" text-anchor="middle" style="font-size:16px">AGCM, ARERA, privacy...</text><path class="thin" d="M133 413 L317 413"/></g>
+<g data-safe-box="420 290 240 145 8"><rect class="softRed" x="420" y="290" width="240" height="145" rx="22"/><rect x="420" y="290" width="240" height="10" rx="5" fill="#7A2430"/><text class="bordeaux label" x="540" y="340" text-anchor="middle" style="font-size:22px">Profilo</text><path class="thin" d="M442 362 L638 362"/><text class="muted small" x="540" y="398" text-anchor="middle" style="font-size:16px">G, E, P o denominazione</text><path class="thin" d="M448 413 L632 413"/></g>
+<g data-safe-box="735 290 240 145 8"><rect class="softGold" x="735" y="290" width="240" height="145" rx="22"/><rect x="735" y="290" width="240" height="10" rx="5" fill="#D4AF37"/><text class="gold label" x="855" y="340" text-anchor="middle" style="font-size:22px">Prove</text><path class="thin" d="M757 362 L953 362"/><text class="muted small" x="855" y="398" text-anchor="middle" style="font-size:16px">quiz, scritto, orale, memo</text><path class="thin" d="M763 413 L947 413"/></g>
+<g data-safe-box="1050 290 240 145 8"><rect class="softGreen" x="1050" y="290" width="240" height="145" rx="22"/><rect x="1050" y="290" width="240" height="10" rx="5" fill="#2F7D5A"/><text class="green label" x="1170" y="340" text-anchor="middle" style="font-size:22px">Nuclei</text><path class="thin" d="M1072 362 L1268 362"/><text class="muted small" x="1170" y="398" text-anchor="middle" style="font-size:16px">fonte, potere, garanzia</text><path class="thin" d="M1078 413 L1262 413"/></g>
+<g data-safe-box="1295 290 240 145 8"><rect class="softTeal" x="1295" y="290" width="240" height="145" rx="22"/><rect x="1295" y="290" width="240" height="10" rx="5" fill="#1F6F78"/><text class="teal label" x="1415" y="340" text-anchor="middle" style="font-size:22px">Rischio</text><path class="thin" d="M1317 362 L1513 362"/><text class="muted small" x="1415" y="398" text-anchor="middle" style="font-size:16px">confusione, fonte, tempo</text><path class="thin" d="M1323 413 L1507 413"/></g>
+<g data-safe-box="260 555 310 145 8"><rect class="softBlue" x="260" y="555" width="310" height="145" rx="22"/><rect x="260" y="555" width="310" height="10" rx="5" fill="#10233F"/><text class="navy label" x="415" y="605" text-anchor="middle" style="font-size:22px">Materie base</text><path class="thin" d="M282 627 L548 627"/><text class="muted small" x="415" y="663" text-anchor="middle" style="font-size:16px">rinvio puntuale a VOL-01</text><path class="thin" d="M288 678 L542 678"/></g>
+<g data-safe-box="660 555 310 145 8"><rect class="softRed" x="660" y="555" width="310" height="145" rx="22"/><rect x="660" y="555" width="310" height="10" rx="5" fill="#7A2430"/><text class="bordeaux label" x="815" y="605" text-anchor="middle" style="font-size:19px">Delta specialistico</text><path class="thin" d="M682 627 L948 627"/><text class="muted small" x="815" y="663" text-anchor="middle" style="font-size:16px">capitolo M-FC05 prioritario</text><path class="thin" d="M688 678 L942 678"/></g>
+<g data-safe-box="1060 555 310 145 8"><rect class="softGreen" x="1060" y="555" width="310" height="145" rx="22"/><rect x="1060" y="555" width="310" height="10" rx="5" fill="#2F7D5A"/><text class="green label" x="1215" y="605" text-anchor="middle" style="font-size:22px">Output</text><path class="thin" d="M1082 627 L1348 627"/><text class="muted small" x="1215" y="663" text-anchor="middle" style="font-size:16px">risposta, schema, esercizio</text><path class="thin" d="M1088 678 L1342 678"/></g>
+  <g data-safe-box="230 850 1140 70 8"><rect class="note" x="230" y="850" width="1140" height="70" rx="24"/><text class="ink body" x="800" y="894" text-anchor="middle" style="font-weight:700;font-size:18px">Il bando guida il materiale: ogni campo vuoto segnala una verifica da fare prima di programmare lo studio.</text></g>
+
+</svg>

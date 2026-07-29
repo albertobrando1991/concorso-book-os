@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Adempimento collaborativo e TCF</title>
+  <desc id="desc">Il tax control framework collega rischio fiscale, controlli interni e dialogo preventivo.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; }
+      .softRed { fill: #F8E8EA; stroke: #E3B9BF; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E8D080; stroke-width: 2.5; }
+      .softGreen { fill: #E7F3ED; stroke: #A8D1BD; stroke-width: 2.5; }
+      .softTeal { fill: #E4F4F5; stroke: #A3D5D8; stroke-width: 2.5; }
+      .note { fill: #FFF7ED; stroke: #E7C18E; stroke-width: 2.5; }
+      .ink { fill: #0F172A; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 43px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 22px; letter-spacing: 0; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 24px; font-weight: 800; letter-spacing: 0; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; letter-spacing: 0; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 18px; letter-spacing: 0; }
+      .navy { fill: #10233F; }
+      .bordeaux { fill: #7A2430; }
+      .gold { fill: #D4AF37; }
+      .green { fill: #2F7D5A; }
+      .teal { fill: #1F6F78; }
+      .line { stroke: #94A3B8; stroke-width: 4; stroke-linecap: round; fill: none; }
+      .arrowNavy { stroke: #10233F; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowNavy); }
+      .arrowBordeaux { stroke: #7A2430; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowBordeaux); }
+      .arrowGold { stroke: #D4AF37; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGold); }
+      .arrowGreen { stroke: #2F7D5A; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGreen); }
+      .arrowTeal { stroke: #1F6F78; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowTeal); }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#10233F"/></marker>
+    <marker id="arrowBordeaux" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#7A2430"/></marker>
+    <marker id="arrowGold" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#D4AF37"/></marker>
+    <marker id="arrowGreen" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2F7D5A"/></marker>
+    <marker id="arrowTeal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1F6F78"/></marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <g data-safe-box="120 14 1360 110 0" data-safe-name="header">
+    <text class="ink title" x="800" y="68" text-anchor="middle">Adempimento collaborativo e TCF</text>
+    <text class="muted subtitle" x="800" y="106" text-anchor="middle">Il tax control framework collega rischio fiscale, controlli interni e dialogo preventivo.</text>
+  </g>
+  
+  <rect class="card" x="70" y="160" width="1460" height="640" rx="30"/>
+  <g data-safe-box="110 255 370 300 24" data-safe-name="Contribuente complesso">
+    <rect class="softBlue" x="110" y="255" width="370" height="300" rx="28"/>
+    <text class="ink label" x="140" y="305">Contribuente complesso</text>
+    <rect x="140" y="330" width="310" height="4" rx="2" fill="#10233F"/>
+    <text class="muted body" x="144" y="377">operazioni articolate</text>
+<text class="muted body" x="144" y="415">rischio fiscale elevato</text>
+<text class="muted body" x="144" y="453">organizzazione interna</text>
+  </g>
+  <path class="arrowNavy" d="M500 405 L610 405"/>
+  <g data-safe-box="630 230 340 350 24" data-safe-name="Tax control framework">
+    <rect class="softGold" x="630" y="230" width="340" height="350" rx="28"/>
+    <text class="ink label" x="660" y="280">Tax control framework</text>
+    <rect x="660" y="305" width="280" height="4" rx="2" fill="#D4AF37"/>
+    <text class="muted body" x="664" y="352">rileva rischi</text>
+<text class="muted body" x="664" y="390">misura e presidia</text>
+<text class="muted body" x="664" y="428">assegna responsabilita</text>
+<text class="muted body" x="664" y="466">documenta controlli</text>
+  </g>
+  <path class="arrowGold" d="M990 405 L1100 405"/>
+  <g data-safe-box="1120 255 370 300 24" data-safe-name="Dialogo preventivo">
+    <rect class="softGreen" x="1120" y="255" width="370" height="300" rx="28"/>
+    <text class="ink label" x="1150" y="305">Dialogo preventivo</text>
+    <rect x="1150" y="330" width="310" height="4" rx="2" fill="#2F7D5A"/>
+    <text class="muted body" x="1154" y="377">trasparenza</text>
+<text class="muted body" x="1154" y="415">cooperazione</text>
+<text class="muted body" x="1154" y="453">minore conflitto</text>
+  </g>
+  <g data-safe-box="450 640 700 92 8" data-safe-name="Da verificare sempre sul testo vigente">
+    <rect class="softRed" x="450" y="640" width="700" height="92" rx="20"/>
+    <text class="ink label" x="474" y="678">Da verificare sempre sul testo vigente</text>
+    <text class="muted body" x="474" y="712">requisiti, soglie, procedure e profili ACFI</text>
+    <rect x="450" y="640" width="10" height="92" rx="5" fill="#7A2430"/>
+  </g>
+  <g data-safe-box="245 815 1110 54 14" data-safe-name="nota">
+    <rect class="note" x="245" y="815" width="1110" height="54" rx="18"/>
+    <text class="ink body" x="800" y="850" text-anchor="middle">Nei profili avanzati la parola chiave e' rischio: interno al contribuente, valutato dall'amministrazione.</text>
+  </g>
+
+</svg>
