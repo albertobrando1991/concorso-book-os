@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Mappa BANDO dell'organizzazione fiscale</title>
+  <desc id="desc">Dal bando alla risposta orale su ente, funzione, lessico e rischio.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; }
+      .softRed { fill: #F8E8EA; stroke: #E2B3BA; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E5C85F; stroke-width: 2.5; }
+      .softGreen { fill: #E7F3ED; stroke: #A8D2BC; stroke-width: 2.5; }
+      .softTeal { fill: #E4F4F5; stroke: #A9D7DB; stroke-width: 2.5; }
+      .line { fill: none; stroke: #94A3B8; stroke-width: 5; stroke-linecap: round; stroke-linejoin: round; }
+      .title { fill: #0F172A; font: 700 42px Arial, sans-serif; letter-spacing: 0; }
+      .subtitle { fill: #526174; font: 400 24px Arial, sans-serif; letter-spacing: 0; }
+      .label { fill: #0F172A; font: 700 29px Arial, sans-serif; letter-spacing: 0; }
+      .small { fill: #526174; font: 400 21px Arial, sans-serif; letter-spacing: 0; }
+      .tiny { fill: #526174; font: 400 19px Arial, sans-serif; letter-spacing: 0; }
+      .badgeText { fill: #FFFFFF; font: 700 19px Arial, sans-serif; letter-spacing: 0; }
+      .noteText { fill: #0F172A; font: 600 22px Arial, sans-serif; letter-spacing: 0; }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#10233F"/>
+    </marker>
+    <marker id="arrowGold" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#D4AF37"/>
+    </marker>
+    <marker id="arrowTeal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#1F6F78"/>
+    </marker>
+  </defs>
+  <rect class="bg" x="0" y="0" width="1600" height="900"/>
+  <g data-safe-box="70 20 1460 112 8" data-safe-name="header">
+    <text class="title" x="80" y="70">Mappa BANDO dell'organizzazione fiscale</text>
+    <text class="subtitle" x="80" y="110">Dal bando alla risposta orale su ente, funzione, lessico e rischio.</text>
+  </g>
+  
+  <rect class="card" x="70" y="160" width="1460" height="640" rx="30"/>
+  
+  <g data-safe-box="585 205 430 118 6" data-safe-name="Organizzazione fiscale">
+    <rect class="softBlue" x="585" y="205" width="430" height="118" rx="24"/>
+    <rect x="607" y="227" width="52" height="30" rx="15" fill="#10233F"/>
+    <text class="badgeText" x="633" y="249" text-anchor="middle">M</text>
+    <text class="label" x="677" y="250">Organizzazione fiscale</text>
+    <text class="small" x="615" y="285">ente, funzione</text><text class="small" x="615" y="313">lessico da prova</text>
+  </g>
+  <path class="line" d="M800 323 L800 370"/>
+  <path class="line" d="M205 370 L1395 370"/>
+  <path class="line" d="M205 370 L205 455"/>
+  <path class="line" d="M505 370 L505 580"/>
+  <path class="line" d="M800 370 L800 455"/>
+  <path class="line" d="M1095 370 L1095 580"/>
+  <path class="line" d="M1395 370 L1395 455"/>
+  
+  <g data-safe-box="70 455 270 130 6" data-safe-name="B - Bando">
+    <rect class="softBlue" x="70" y="455" width="270" height="130" rx="24"/>
+    <rect x="92" y="477" width="52" height="30" rx="15" fill="#10233F"/>
+    <text class="badgeText" x="118" y="499" text-anchor="middle">M</text>
+    <text class="label" x="162" y="500">B - Bando</text>
+    <text class="small" x="100" y="535">ente</text><text class="small" x="100" y="563">profilo</text>
+  </g>
+  
+  <g data-safe-box="370 580 270 130 6" data-safe-name="A - Aree">
+    <rect class="softRed" x="370" y="580" width="270" height="130" rx="24"/>
+    <rect x="392" y="602" width="52" height="30" rx="15" fill="#7A2430"/>
+    <text class="badgeText" x="418" y="624" text-anchor="middle">M</text>
+    <text class="label" x="462" y="625">A - Aree</text>
+    <text class="small" x="400" y="660">entrate</text><text class="small" x="400" y="688">dogane, riscossione</text>
+  </g>
+  
+  <g data-safe-box="665 455 270 130 6" data-safe-name="N - Nuclei">
+    <rect class="softGold" x="665" y="455" width="270" height="130" rx="24"/>
+    <rect x="687" y="477" width="52" height="30" rx="15" fill="#D4AF37"/>
+    <text class="badgeText" x="713" y="499" text-anchor="middle">M</text>
+    <text class="label" x="757" y="500">N - Nuclei</text>
+    <text class="small" x="695" y="535">MEF</text><text class="small" x="695" y="563">autonomia, uffici</text>
+  </g>
+  
+  <g data-safe-box="960 580 270 130 6" data-safe-name="D - Diario">
+    <rect class="softGreen" x="960" y="580" width="270" height="130" rx="24"/>
+    <rect x="982" y="602" width="52" height="30" rx="15" fill="#2F7D5A"/>
+    <text class="badgeText" x="1008" y="624" text-anchor="middle">M</text>
+    <text class="label" x="1052" y="625">D - Diario</text>
+    <text class="small" x="990" y="660">AE/ADM</text><text class="small" x="990" y="688">accert./riscossione</text>
+  </g>
+  
+  <g data-safe-box="1260 455 270 130 6" data-safe-name="O - Output">
+    <rect class="softTeal" x="1260" y="455" width="270" height="130" rx="24"/>
+    <rect x="1282" y="477" width="52" height="30" rx="15" fill="#1F6F78"/>
+    <text class="badgeText" x="1308" y="499" text-anchor="middle">M</text>
+    <text class="label" x="1352" y="500">O - Output</text>
+    <text class="small" x="1290" y="535">risposta orale</text><text class="small" x="1290" y="563">scheda funzione/prova</text>
+  </g>
+  
+  <g data-safe-box="255 781 1090 62 14" data-safe-name="nota">
+    <rect x="255" y="781" width="1090" height="62" rx="22" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2"/>
+    <text class="noteText" x="283" y="820">L'organizzazione serve alla prova quando diventa mappa di funzioni, non elenco di uffici.</text>
+  </g>
+
+</svg>

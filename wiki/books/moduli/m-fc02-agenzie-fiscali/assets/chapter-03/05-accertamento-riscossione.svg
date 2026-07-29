@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Accertamento e riscossione</title>
+  <desc id="desc">Due fasi collegate ma diverse: pretesa, carico, pagamento e relazione.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; }
+      .softRed { fill: #F8E8EA; stroke: #E2B3BA; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E5C85F; stroke-width: 2.5; }
+      .softGreen { fill: #E7F3ED; stroke: #A8D2BC; stroke-width: 2.5; }
+      .softTeal { fill: #E4F4F5; stroke: #A9D7DB; stroke-width: 2.5; }
+      .line { fill: none; stroke: #94A3B8; stroke-width: 5; stroke-linecap: round; stroke-linejoin: round; }
+      .title { fill: #0F172A; font: 700 42px Arial, sans-serif; letter-spacing: 0; }
+      .subtitle { fill: #526174; font: 400 24px Arial, sans-serif; letter-spacing: 0; }
+      .label { fill: #0F172A; font: 700 29px Arial, sans-serif; letter-spacing: 0; }
+      .small { fill: #526174; font: 400 21px Arial, sans-serif; letter-spacing: 0; }
+      .tiny { fill: #526174; font: 400 19px Arial, sans-serif; letter-spacing: 0; }
+      .badgeText { fill: #FFFFFF; font: 700 19px Arial, sans-serif; letter-spacing: 0; }
+      .noteText { fill: #0F172A; font: 600 22px Arial, sans-serif; letter-spacing: 0; }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#10233F"/>
+    </marker>
+    <marker id="arrowGold" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#D4AF37"/>
+    </marker>
+    <marker id="arrowTeal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#1F6F78"/>
+    </marker>
+  </defs>
+  <rect class="bg" x="0" y="0" width="1600" height="900"/>
+  <g data-safe-box="70 20 1460 112 8" data-safe-name="header">
+    <text class="title" x="80" y="70">Accertamento e riscossione</text>
+    <text class="subtitle" x="80" y="110">Due fasi collegate ma diverse: pretesa, carico, pagamento e relazione.</text>
+  </g>
+  
+  <rect class="card" x="70" y="160" width="1460" height="640" rx="30"/>
+  
+  <g data-safe-box="130 240 350 330 22" data-safe-name="Accertamento">
+    <rect class="softBlue" x="130" y="240" width="350" height="330" rx="28"/>
+    <rect x="158" y="268" width="86" height="38" rx="19" fill="#10233F"/>
+    <text class="badgeText" x="201" y="293" text-anchor="middle">AE</text>
+    <text class="label" x="158" y="352">Accertamento</text>
+    <text class="small" x="164" y="415">- verifica</text><text class="small" x="164" y="459">- determina o rettifica</text><text class="small" x="164" y="503">- la pretesa</text>
+  </g>
+  <path d="M520 405 L660 405" fill="none" stroke="#10233F" stroke-width="5" stroke-linecap="round" marker-end="url(#arrowNavy)"/>
+  
+  <g data-safe-box="680 240 350 330 22" data-safe-name="Credito o carico">
+    <rect class="softGold" x="680" y="240" width="350" height="330" rx="28"/>
+    <rect x="708" y="268" width="86" height="38" rx="19" fill="#D4AF37"/>
+    <text class="badgeText" x="751" y="293" text-anchor="middle">ponte</text>
+    <text class="label" x="708" y="352">Credito o carico</text>
+    <text class="small" x="714" y="415">- titolo</text><text class="small" x="714" y="459">- dati</text><text class="small" x="714" y="503">- passaggio operativo</text>
+  </g>
+  <path d="M1070 405 L1210 405" fill="none" stroke="#D4AF37" stroke-width="5" stroke-linecap="round" marker-end="url(#arrowGold)"/>
+  
+  <g data-safe-box="1230 240 350 330 22" data-safe-name="Riscossione">
+    <rect class="softGreen" x="1230" y="240" width="350" height="330" rx="28"/>
+    <rect x="1258" y="268" width="86" height="38" rx="19" fill="#2F7D5A"/>
+    <text class="badgeText" x="1301" y="293" text-anchor="middle">AdER</text>
+    <text class="label" x="1258" y="352">Riscossione</text>
+    <text class="small" x="1264" y="415">- cartella</text><text class="small" x="1264" y="459">- pagamento</text><text class="small" x="1264" y="503">- rateizzazione</text>
+  </g>
+  
+  <g data-safe-box="320 635 405 110 4" data-safe-name="Da non dire">
+    <rect class="softRed" x="320" y="635" width="405" height="110" rx="22"/>
+    <text class="label" x="344" y="677">Da non dire</text>
+    <text class="small" x="344" y="710">la cartella e' accertamento</text>
+  </g>
+  
+  <g data-safe-box="875 635 405 110 4" data-safe-name="Da dire">
+    <rect class="softTeal" x="875" y="635" width="405" height="110" rx="22"/>
+    <text class="label" x="899" y="677">Da dire</text>
+    <text class="small" x="899" y="710">accertamento e riscossione</text><text class="small" x="899" y="736">sono fasi collegate ma diverse</text>
+  </g>
+  
+  <g data-safe-box="245 781 1110 62 14" data-safe-name="nota">
+    <rect x="245" y="781" width="1110" height="62" rx="22" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2"/>
+    <text class="noteText" x="273" y="820">La domanda-trappola separa pretesa e pagamento: rispondi sempre per fase e funzione.</text>
+  </g>
+
+</svg>

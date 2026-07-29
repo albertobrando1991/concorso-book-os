@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Nucleo comune e delta authority</title>
+  <desc id="desc">La preparazione efficace collega categorie generali, settore e prova concreta.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; } .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; } .softRed { fill: #F8E8EA; stroke: #E3B9BF; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E8D080; stroke-width: 2.5; } .softGreen { fill: #E7F3ED; stroke: #A8D1BD; stroke-width: 2.5; }
+      .softTeal { fill: #E4F4F5; stroke: #A3D5D8; stroke-width: 2.5; } .note { fill: #FFF7ED; stroke: #E7C18E; stroke-width: 2.5; }
+      .ink { fill: #0F172A; font-family: Arial, Helvetica, sans-serif; } .muted { fill: #526174; font-family: Arial, Helvetica, sans-serif; }
+      .title { font-size: 43px; font-weight: 700; } .subtitle { font-size: 22px; } .label { font-family: Arial, Helvetica, sans-serif; font-size: 25px; font-weight: 700; }
+      .body { font-family: Arial, Helvetica, sans-serif; font-size: 20px; } .small { font-family: Arial, Helvetica, sans-serif; font-size: 18px; }
+      .navy { fill: #10233F; } .bordeaux { fill: #7A2430; } .gold { fill: #D4AF37; } .green { fill: #2F7D5A; } .teal { fill: #1F6F78; }
+      .line { stroke: #94A3B8; stroke-width: 4; stroke-linecap: round; fill: none; } .thin { stroke: #CBD5E1; stroke-width: 2.5; stroke-linecap: round; fill: none; }
+      .arrowNavy { stroke: #10233F; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowNavy); } .arrowBordeaux { stroke: #7A2430; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowBordeaux); }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#10233F"/></marker>
+    <marker id="arrowBordeaux" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#7A2430"/></marker>
+  </defs>
+  <rect class="bg" width="1600" height="1000"/>
+  <text class="ink title" x="800" y="70" text-anchor="middle">Nucleo comune e delta authority</text>
+  <text class="muted subtitle" x="800" y="112" text-anchor="middle">La preparazione efficace collega categorie generali, settore e prova concreta.</text>
+  
+  <g data-safe-box="95 255 370 245 8"><rect class="softBlue" x="95" y="255" width="370" height="245" rx="22"/><rect x="95" y="255" width="370" height="10" rx="5" fill="#10233F"/><text class="navy label" x="280" y="303" text-anchor="middle" style="font-size:21px">Nucleo comune VOL-01</text><text class="muted small" x="280" y="343" text-anchor="middle" style="font-size:18px">fonti e principi</text>
+<text class="muted small" x="280" y="370" text-anchor="middle" style="font-size:16px">procedimento e provvedimento</text>
+<text class="muted small" x="280" y="397" text-anchor="middle" style="font-size:16px">trasparenza, privacy, anticorruzione</text></g>
+  <path class="arrowNavy" d="M485 378 L620 378"/>
+  <g data-safe-box="630 255 340 245 8"><rect class="softRed" x="630" y="255" width="340" height="245" rx="22"/><rect x="630" y="255" width="340" height="10" rx="5" fill="#7A2430"/><text class="bordeaux label" x="800" y="303" text-anchor="middle" style="font-size:23px">Delta M-FC05</text><text class="muted small" x="800" y="343" text-anchor="middle" style="font-size:18px">interesse protetto</text>
+<text class="muted small" x="800" y="370" text-anchor="middle" style="font-size:18px">poteri e reti</text>
+<text class="muted small" x="800" y="397" text-anchor="middle" style="font-size:18px">dati, mercato, settore</text></g>
+  <path class="arrowBordeaux" d="M990 378 L1125 378"/>
+  <g data-safe-box="1135 255 370 245 8"><rect class="softGreen" x="1135" y="255" width="370" height="245" rx="22"/><rect x="1135" y="255" width="370" height="10" rx="5" fill="#2F7D5A"/><text class="green label" x="1320" y="303" text-anchor="middle" style="font-size:23px">Prova reale</text><text class="muted small" x="1320" y="343" text-anchor="middle" style="font-size:18px">quiz: differenze</text>
+<text class="muted small" x="1320" y="370" text-anchor="middle" style="font-size:18px">orale: catena logica</text>
+<text class="muted small" x="1320" y="397" text-anchor="middle" style="font-size:18px">caso: fatti, potere, esito</text></g>
+  <rect class="card" x="190" y="610" width="1220" height="125" rx="26"/>
+  <text class="navy label" x="800" y="662" text-anchor="middle">Formula operativa</text>
+  <text class="muted body" x="800" y="705" text-anchor="middle">categoria generale + applicazione settoriale + output richiesto = risposta concorsuale utilizzabile</text>
+  <g data-safe-box="230 850 1140 70 8"><rect class="note" x="230" y="850" width="1140" height="70" rx="24"/><text class="ink body" x="800" y="894" text-anchor="middle" style="font-weight:700;font-size:20px">La base non va duplicata; va richiamata quando serve a comprendere una scelta regolatoria concreta.</text></g>
+
+</svg>

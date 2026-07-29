@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Funzioni camerali: dal concetto al servizio</title>
+  <desc id="desc">Registro imprese, semplificazione, mercato, servizi e organizzazione.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; }
+      .softRed { fill: #F8E8EA; stroke: #E3B9BF; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E8D080; stroke-width: 2.5; }
+      .softGreen { fill: #E7F3ED; stroke: #A8D1BD; stroke-width: 2.5; }
+      .softTeal { fill: #E4F4F5; stroke: #A3D5D8; stroke-width: 2.5; }
+      .note { fill: #FFF7ED; stroke: #E7C18E; stroke-width: 2.5; }
+      .ink { fill: #0F172A; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 43px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 22px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 24px; font-weight: 800; letter-spacing: 0; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 18px; }
+      .navy { fill: #10233F; }
+      .bordeaux { fill: #7A2430; }
+      .gold { fill: #D4AF37; }
+      .green { fill: #2F7D5A; }
+      .teal { fill: #1F6F78; }
+      .line { stroke: #94A3B8; stroke-width: 4; stroke-linecap: round; fill: none; }
+      .thin { stroke: #CBD5E1; stroke-width: 2.5; stroke-linecap: round; fill: none; }
+      .arrowNavy { stroke: #10233F; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowNavy); }
+      .arrowBordeaux { stroke: #7A2430; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowBordeaux); }
+      .arrowGold { stroke: #D4AF37; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGold); }
+      .arrowGreen { stroke: #2F7D5A; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGreen); }
+      .arrowTeal { stroke: #1F6F78; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowTeal); }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#10233F"/></marker>
+    <marker id="arrowBordeaux" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#7A2430"/></marker>
+    <marker id="arrowGold" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#D4AF37"/></marker>
+    <marker id="arrowGreen" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2F7D5A"/></marker>
+    <marker id="arrowTeal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1F6F78"/></marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <text class="ink title" x="800" y="68" text-anchor="middle">Funzioni camerali: dal concetto al servizio</text>
+  <text class="muted subtitle" x="800" y="108" text-anchor="middle">Registro imprese, semplificazione, mercato, servizi e organizzazione.</text>
+
+  <rect class="card" x="70" y="160" width="1460" height="640" rx="30"/>
+  <g data-safe-box="100 255 260 230 10">
+    <rect class="softBlue" x="100" y="255" width="260" height="230" rx="26"/>
+    <rect x="100" y="255" width="260" height="10" rx="5" fill="#10233F"/>
+    <text class="navy label" x="230" y="303" text-anchor="middle" style="font-size:21px">Registro e REA</text>
+    <path class="thin" d="M145 333 L315 333"/>
+    <circle cx="156" cy="370" r="6" fill="#D4AF37"/><text class="ink body" x="178" y="377" style="font-size:18px">iscrizioni</text>
+<circle cx="156" cy="408" r="6" fill="#D4AF37"/><text class="ink body" x="178" y="415" style="font-size:18px">visure</text>
+<circle cx="156" cy="446" r="6" fill="#D4AF37"/><text class="ink body" x="178" y="453" style="font-size:18px">certificati</text>
+  </g>
+  <path class="arrowNavy" d="M360 335 L410 335"/>
+  <g data-safe-box="430 255 260 230 10">
+    <rect class="softRed" x="430" y="255" width="260" height="230" rx="26"/>
+    <rect x="430" y="255" width="260" height="10" rx="5" fill="#7A2430"/>
+    <text class="bordeaux label" x="560" y="303" text-anchor="middle" style="font-size:21px">Semplificazione</text>
+    <path class="thin" d="M475 333 L645 333"/>
+    <circle cx="486" cy="370" r="6" fill="#D4AF37"/><text class="ink body" x="508" y="377" style="font-size:18px">ComUnica</text>
+<circle cx="486" cy="408" r="6" fill="#D4AF37"/><text class="ink body" x="508" y="415" style="font-size:18px">SUAP digitale</text>
+<circle cx="486" cy="446" r="6" fill="#D4AF37"/><text class="ink body" x="508" y="453" style="font-size:18px">pratiche online</text>
+  </g>
+  <path class="arrowBordeaux" d="M690 335 L740 335"/>
+  <g data-safe-box="760 255 260 230 10">
+    <rect class="softGold" x="760" y="255" width="260" height="230" rx="26"/>
+    <rect x="760" y="255" width="260" height="10" rx="5" fill="#D4AF37"/>
+    <text class="gold label" x="890" y="303" text-anchor="middle" style="font-size:21px">Regolazione</text>
+    <path class="thin" d="M805 333 L975 333"/>
+    <circle cx="816" cy="370" r="6" fill="#D4AF37"/><text class="ink body" x="838" y="377" style="font-size:18px">mercato</text>
+<circle cx="816" cy="408" r="6" fill="#D4AF37"/><text class="ink body" x="838" y="415" style="font-size:18px">fede pubblica</text>
+<circle cx="816" cy="446" r="6" fill="#D4AF37"/><text class="ink body" x="838" y="453" style="font-size:18px">controlli</text>
+  </g>
+  <path class="arrowGold" d="M1020 335 L1070 335"/>
+  <g data-safe-box="1090 255 260 230 10">
+    <rect class="softGreen" x="1090" y="255" width="260" height="230" rx="26"/>
+    <rect x="1090" y="255" width="260" height="10" rx="5" fill="#2F7D5A"/>
+    <text class="green label" x="1220" y="303" text-anchor="middle" style="font-size:21px">Servizi imprese</text>
+    <path class="thin" d="M1135 333 L1305 333"/>
+    <circle cx="1146" cy="370" r="6" fill="#D4AF37"/><text class="ink body" x="1168" y="377" style="font-size:18px">supporto</text>
+<circle cx="1146" cy="408" r="6" fill="#D4AF37"/><text class="ink body" x="1168" y="415" style="font-size:18px">promozione</text>
+<circle cx="1146" cy="446" r="6" fill="#D4AF37"/><text class="ink body" x="1168" y="453" style="font-size:18px">digitale</text>
+  </g>
+  <path class="line" d="M1230 485 L1230 585"/>
+  <g data-safe-box="430 585 740 110 10">
+    <rect class="softTeal" x="430" y="585" width="740" height="110" rx="26"/>
+    <rect x="430" y="585" width="740" height="10" rx="5" fill="#1F6F78"/>
+    <text class="teal label" x="800" y="625" text-anchor="middle" style="font-size:22px">Organizzazione e comunicazione</text>
+    <text class="muted small" x="800" y="657" text-anchor="middle" style="font-size:17px">uffici, sportello, procedimento, trasparenza e relazione con l'utenza</text>
+<text class="muted small" x="800" y="681" text-anchor="middle" style="font-size:17px">la materia diventa mansione, caso pratico e risposta orale</text>
+  </g>
+  <g data-safe-box="245 815 1110 62 10">
+    <rect class="note" x="245" y="815" width="1110" height="62" rx="24"/>
+    <text class="ink body" x="800" y="854" text-anchor="middle" style="font-weight:800;font-size:20px">Il valore concorsuale e trasformare ogni funzione in servizio, procedimento, utente e output.</text>
+  </g>
+
+</svg>

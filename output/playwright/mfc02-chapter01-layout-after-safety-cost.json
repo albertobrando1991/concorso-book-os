@@ -1,0 +1,88 @@
+{
+  "pageCount": 22,
+  "pageWidths": [
+    635
+  ],
+  "pageHeights": [
+    907
+  ],
+  "badPages": [],
+  "uniqueFigureCount": 5,
+  "uniqueFigures": [
+    {
+      "alt": "Figura 1.1 - Mappa BANDO delle Agenzie fiscali: dal bando al sottopercorso, fino a output e diario dei rischi.",
+      "naturalWidth": 1600,
+      "naturalHeight": 1000,
+      "complete": true,
+      "figureInsidePage": true,
+      "rect": {
+        "top": 1264,
+        "right": 1142,
+        "bottom": 1549,
+        "left": 605,
+        "width": 537,
+        "height": 285
+      }
+    },
+    {
+      "alt": "Figura 1.2 - Perimetro M-FC02: concorsi dentro, fuori e misti da classificare con cautela.",
+      "naturalWidth": 1600,
+      "naturalHeight": 1000,
+      "complete": true,
+      "figureInsidePage": true,
+      "rect": {
+        "top": 4988,
+        "right": 1142,
+        "bottom": 5260,
+        "left": 605,
+        "width": 537,
+        "height": 271
+      }
+    },
+    {
+      "alt": "Figura 1.3 - Le tre porte di ingresso: Agenzia delle Entrate, ADM e Agenzia delle Entrate-Riscossione.",
+      "naturalWidth": 1600,
+      "naturalHeight": 1000,
+      "complete": true,
+      "figureInsidePage": true,
+      "rect": {
+        "top": 6851,
+        "right": 1142,
+        "bottom": 7136,
+        "left": 605,
+        "width": 537,
+        "height": 285
+      }
+    },
+    {
+      "alt": "Figura 1.4 - Nucleo comune piu' delta fiscale: dalla base generale alla prova reale.",
+      "naturalWidth": 1600,
+      "naturalHeight": 1000,
+      "complete": true,
+      "figureInsidePage": true,
+      "rect": {
+        "top": 8743,
+        "right": 1142,
+        "bottom": 9014,
+        "left": 605,
+        "width": 537,
+        "height": 271
+      }
+    },
+    {
+      "alt": "Figura 1.5 - Bando Decoder fiscale: la scheda minima da compilare prima del piano di studio.",
+      "naturalWidth": 1600,
+      "naturalHeight": 1000,
+      "complete": true,
+      "figureInsidePage": true,
+      "rect": {
+        "top": 11506,
+        "right": 1142,
+        "bottom": 11791,
+        "left": 605,
+        "width": 537,
+        "height": 285
+      }
+    }
+  ]
+}

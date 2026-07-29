@@ -6,7 +6,7 @@ status: draft
 domain: concorsi pubblici italiani
 topics: ["anticorruzione e trasparenza","anatomia del bando","diritto costituzionale","diritto amministrativo","enti locali","contabilita pubblica","procedimento amministrativo","contratti pubblici","pubblico impiego"]
 entities: ["ANAC"]
-source_refs: ["sources/anac-trasparenza-e-anticorruzione.md","sources/decreto-legislativo-2-luglio-2010-n-104-codice-del-processo-amministrativo-c-p-a-testo-vigente-normattiva.md","sources/d-lgs-31-marzo-2023-n-36-contratti-pubblici.md","sources/legge-6-novembre-2012-n-190-anticorruzione.md","sources/d-lgs-25-maggio-2016-n-97-foia-e-revisione-trasparenza.md","sources/d-l-31-agosto-2013-n-101-trasformazione-civit-anac-e-pubblico-impiego.md","sources/anac-piano-nazionale-anticorruzione-2025-delibera-n-19-del-28-gennaio-2026.md"]
+source_refs: ["sources/anac-trasparenza-e-anticorruzione.md","sources/decreto-legislativo-2-luglio-2010-n-104-codice-del-processo-amministrativo-c-p-a-testo-vigente-normattiva.md","sources/d-lgs-31-marzo-2023-n-36-contratti-pubblici.md","sources/legge-6-novembre-2012-n-190-anticorruzione.md","sources/d-lgs-25-maggio-2016-n-97-foia-e-revisione-trasparenza.md","sources/d-l-31-agosto-2013-n-101-trasformazione-civit-anac-e-pubblico-impiego.md","sources/anac-piano-nazionale-anticorruzione-2025-delibera-n-19-del-28-gennaio-2026.md","sources/anac-prevenzione-vigilanza-whistleblowing-2026-07-24.md"]
 book_refs: ["manuale-concorso-funzionari-enti-locali"]
 confidence: 0.74
 updated_at: "2026-05-25T11:26:42.530Z"

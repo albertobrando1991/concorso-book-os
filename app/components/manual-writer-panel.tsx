@@ -4,6 +4,7 @@ import { useEffect, useMemo, useState } from "react"
 import { BookOpenCheck, Loader2, PenLine } from "lucide-react"
 import type { ChapterOption, ManualWriterMode } from "@/src/server/agents/manual-writer-agent"
 import type { WriterProvider } from "@/src/server/config"
+import { bookIdsForTextVolumeBookId, isTextVolumeBookId, normalizeTextBookId } from "@/src/catalog/text-volumes"
 
 interface ManualWriterPanelProps {
   initialChapters: ChapterOption[]
@@ -21,6 +22,12 @@ interface WriterResult {
   draft: string
   writerProvider: WriterProvider
   warnings: string[]
+}
+
+export interface ChapterOptionGroup {
+  bookId: string
+  label: string
+  chapters: ChapterOption[]
 }
 
 const modeOptions: Array<{ value: ManualWriterMode; label: string }> = [
@@ -48,7 +55,7 @@ export function ManualWriterPanel({
   writerReasoningEffort
 }: ManualWriterPanelProps) {
   const [chapters, setChapters] = useState(initialChapters)
-  const [chapterPath, setChapterPath] = useState(initialChapters[0]?.path || "")
+  const [chapterPath, setChapterPath] = useState(() => pickDefaultChapterPath(initialChapters, activeBookId))
   const [mode, setMode] = useState<ManualWriterMode>("integrate")
   const [selectedProvider, setSelectedProvider] = useState<WriterProvider>(writerProvider)
   const [instruction, setInstruction] = useState(
@@ -61,21 +68,22 @@ export function ManualWriterPanel({
 
   useEffect(() => {
     setChapters(initialChapters)
-    setChapterPath(initialChapters[0]?.path || "")
+    setChapterPath(pickDefaultChapterPath(initialChapters, activeBookId))
   }, [activeBookId, initialChapters])
 
   useEffect(() => {
     if (initialChapters.length > 0) return
 
-    fetch(`/api/manual-writer/chapters?bookId=${encodeURIComponent(activeBookId)}`)
+    fetch("/api/manual-writer/chapters")
       .then((response) => response.json())
       .then((data: { chapters: ChapterOption[] }) => {
         setChapters(data.chapters)
-        setChapterPath(data.chapters[0]?.path || "")
+        setChapterPath(pickDefaultChapterPath(data.chapters, activeBookId))
       })
       .catch(() => setError("Impossibile caricare i capitoli."))
   }, [activeBookId, initialChapters.length])
 
+  const chapterGroups = useMemo(() => groupChapterOptionsByBook(chapters), [chapters])
   const selectedChapter = useMemo(
     () => chapters.find((chapter) => chapter.path === chapterPath),
     [chapters, chapterPath]
@@ -108,7 +116,7 @@ export function ManualWriterPanel({
       }
 
       setResult(payload)
-      const updatedBookId = activeBookId.startsWith("volumi/") ? activeBookId : bookIdFromChapterPath(payload.chapterPath) || activeBookId
+      const updatedBookId = bookIdFromChapterPath(payload.chapterPath) || selectedChapter?.bookId || activeBookId
       const nextMessage = `Preview aggiornata: ${payload.chapterPath}`
       setSyncMessage(nextMessage)
       window.dispatchEvent(new CustomEvent("book-studio:refresh", {
@@ -142,11 +150,15 @@ export function ManualWriterPanel({
         <label>
           Capitolo
           <select value={chapterPath} onChange={(event) => setChapterPath(event.target.value)}>
-            {chapters.map((chapter) => (
-              <option value={chapter.path} key={chapter.path}>
-                {chapter.outlineSection ? `${chapter.outlineSection} - ` : ""}
-                {chapter.title}
-              </option>
+            {chapterGroups.map((group) => (
+              <optgroup label={group.label} key={group.bookId}>
+                {group.chapters.map((chapter) => (
+                  <option value={chapter.path} key={chapter.path}>
+                    {chapter.outlineSection ? `${chapter.outlineSection} - ` : ""}
+                    {chapter.title}
+                  </option>
+                ))}
+              </optgroup>
             ))}
           </select>
         </label>
@@ -176,7 +188,7 @@ export function ManualWriterPanel({
 
       {selectedChapter ? (
         <p className="writerMeta">
-          File: <code>{selectedChapter.path}</code> | Stato: {selectedChapter.status} | Modello:{" "}
+          Libro: <code>{selectedChapter.bookId}</code> | File: <code>{selectedChapter.path}</code> | Stato: {selectedChapter.status} | Modello:{" "}
           <code>{providerModelLabel(selectedProvider, writerModel)}</code> | Reasoning:{" "}
           <code>{providerReasoningLabel(selectedProvider, writerReasoningEffort)}</code>
         </p>
@@ -238,6 +250,25 @@ export function ManualWriterPanel({
   )
 }
 
+export function groupChapterOptionsByBook(chapters: ChapterOption[]): ChapterOptionGroup[] {
+  const groups = new Map<string, ChapterOption[]>()
+
+  for (const chapter of chapters) {
+    const normalizedBookId = normalizeBookId(chapter.bookId || bookIdFromChapterPath(chapter.path) || "unknown")
+    const group = groups.get(normalizedBookId) || []
+    group.push(chapter)
+    groups.set(normalizedBookId, group)
+  }
+
+  return Array.from(groups.entries())
+    .sort(([left], [right]) => left.localeCompare(right, "it"))
+    .map(([bookId, groupChapters]) => ({
+      bookId,
+      label: formatBookLabel(bookId),
+      chapters: groupChapters
+    }))
+}
+
 function providerStatusLabel(provider: WriterProvider) {
   if (provider === "codex") return "Codex / GPT attivo"
   if (provider === "claude") return "Claude attivo"
@@ -267,4 +298,46 @@ function bookIdFromChapterPath(chapterPath: string) {
   const match = normalized.match(/^books\/(.+)\/chapters\/[^/]+\.md$/)
 
   return match?.[1] || ""
+}
+
+function pickDefaultChapterPath(chapters: ChapterOption[], activeBookId: string) {
+  const activeBookIds = resolveActiveBookIds(activeBookId)
+  const activeChapter = chapters.find((chapter) => {
+    const chapterBookId = normalizeBookId(chapter.bookId || bookIdFromChapterPath(chapter.path))
+
+    return activeBookIds.has(chapterBookId)
+  })
+
+  return activeChapter?.path || chapters[0]?.path || ""
+}
+
+function normalizeBookId(bookId: string) {
+  return normalizeTextBookId(bookId.replace(/\\/g, "/").replace(/^books\//, "").replace(/\/$/, ""))
+}
+
+function resolveActiveBookIds(activeBookId: string) {
+  const normalized = normalizeBookId(activeBookId)
+
+  if (!isTextVolumeBookId(normalized)) return new Set([normalized])
+
+  return new Set([normalized, ...bookIdsForTextVolumeBookId(normalized).map(normalizeBookId)])
+}
+
+function formatBookLabel(bookId: string) {
+  const leaf = normalizeBookId(bookId).split("/").filter(Boolean).pop() || bookId
+  const moduleMatch = leaf.match(/^(m-[a-z]+[0-9]+)-(.+)$/i)
+  const volumeMatch = leaf.match(/^(vol-[0-9]+)-(.+)$/i)
+
+  if (moduleMatch) return `${moduleMatch[1].toUpperCase()} - ${titleFromSlug(moduleMatch[2])}`
+  if (volumeMatch) return `${volumeMatch[1].toUpperCase()} - ${titleFromSlug(volumeMatch[2])}`
+
+  return titleFromSlug(leaf)
+}
+
+function titleFromSlug(value: string) {
+  return value
+    .split("-")
+    .filter(Boolean)
+    .map((part) => part.charAt(0).toUpperCase() + part.slice(1))
+    .join(" ")
 }

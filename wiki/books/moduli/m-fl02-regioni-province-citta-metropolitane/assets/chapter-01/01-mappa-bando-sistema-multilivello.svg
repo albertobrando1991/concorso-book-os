@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Mappa BANDO del sistema multilivello</title>
+  <desc id="desc">Dal bando al livello competente, fino ad atto, controllo e output.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; }
+      .softRed { fill: #F8E8EA; stroke: #E3B9BF; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E8D080; stroke-width: 2.5; }
+      .softGreen { fill: #E7F3ED; stroke: #A8D1BD; stroke-width: 2.5; }
+      .softTeal { fill: #E4F4F5; stroke: #A3D5D8; stroke-width: 2.5; }
+      .note { fill: #FFF7ED; stroke: #E7C18E; stroke-width: 2.5; }
+      .ink { fill: #0F172A; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 43px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 22px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 24px; font-weight: 800; letter-spacing: 0; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 18px; }
+      .navy { fill: #10233F; }
+      .bordeaux { fill: #7A2430; }
+      .gold { fill: #D4AF37; }
+      .green { fill: #2F7D5A; }
+      .teal { fill: #1F6F78; }
+      .line { stroke: #94A3B8; stroke-width: 4; stroke-linecap: round; fill: none; }
+      .thin { stroke: #CBD5E1; stroke-width: 2.5; stroke-linecap: round; fill: none; }
+      .arrowNavy { stroke: #10233F; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowNavy); }
+      .arrowBordeaux { stroke: #7A2430; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowBordeaux); }
+      .arrowGold { stroke: #D4AF37; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGold); }
+      .arrowGreen { stroke: #2F7D5A; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGreen); }
+      .arrowTeal { stroke: #1F6F78; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowTeal); }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#10233F"/></marker>
+    <marker id="arrowBordeaux" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#7A2430"/></marker>
+    <marker id="arrowGold" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#D4AF37"/></marker>
+    <marker id="arrowGreen" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2F7D5A"/></marker>
+    <marker id="arrowTeal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1F6F78"/></marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <text class="ink title" x="800" y="68" text-anchor="middle">Mappa BANDO del sistema multilivello</text>
+  <text class="muted subtitle" x="800" y="108" text-anchor="middle">Dal bando al livello competente, fino ad atto, controllo e output.</text>
+
+  <rect class="card" x="70" y="160" width="1460" height="640" rx="30"/>
+  <g data-safe-box="585 205 430 116 10">
+    <rect class="softBlue" x="585" y="205" width="430" height="116" rx="22"/>
+    <rect x="585" y="205" width="430" height="10" rx="5" fill="#10233F"/>
+    <text class="navy label" x="800" y="245" text-anchor="middle" style="font-size:23px">Bando territoriale</text>
+    <text class="muted small" x="800" y="278" text-anchor="middle" style="font-size:18px">ente, profilo</text>
+<text class="muted small" x="800" y="303" text-anchor="middle" style="font-size:18px">materie e prova</text>
+  </g>
+  <path class="line" d="M800 321 L800 372"/>
+  <path class="line" d="M205 372 L1395 372"/>
+  <path class="line" d="M205 372 L205 455"/>
+  <path class="line" d="M505 372 L505 580"/>
+  <path class="line" d="M800 372 L800 455"/>
+  <path class="line" d="M1095 372 L1095 580"/>
+  <path class="line" d="M1395 372 L1395 455"/>
+  <g data-safe-box="70 455 270 130 10">
+    <rect class="softBlue" x="70" y="455" width="270" height="130" rx="22"/>
+    <rect x="70" y="455" width="270" height="10" rx="5" fill="#10233F"/>
+    <text class="navy label" x="205" y="495" text-anchor="middle" style="font-size:23px">B - Bando</text>
+    <text class="muted small" x="205" y="528" text-anchor="middle" style="font-size:18px">Regione</text>
+<text class="muted small" x="205" y="553" text-anchor="middle" style="font-size:18px">Provincia, Citta metro</text>
+  </g>
+  <g data-safe-box="370 580 270 130 10">
+    <rect class="softRed" x="370" y="580" width="270" height="130" rx="22"/>
+    <rect x="370" y="580" width="270" height="10" rx="5" fill="#7A2430"/>
+    <text class="bordeaux label" x="505" y="620" text-anchor="middle" style="font-size:23px">A - Aree</text>
+    <text class="muted small" x="505" y="653" text-anchor="middle" style="font-size:18px">ordinamento</text>
+<text class="muted small" x="505" y="678" text-anchor="middle" style="font-size:18px">fondi, territorio</text>
+  </g>
+  <g data-safe-box="665 455 270 130 10">
+    <rect class="softGold" x="665" y="455" width="270" height="130" rx="22"/>
+    <rect x="665" y="455" width="270" height="10" rx="5" fill="#D4AF37"/>
+    <text class="gold label" x="800" y="495" text-anchor="middle" style="font-size:23px">N - Nuclei</text>
+    <text class="muted small" x="800" y="528" text-anchor="middle" style="font-size:18px">competenza</text>
+<text class="muted small" x="800" y="553" text-anchor="middle" style="font-size:18px">funzione, atto</text>
+  </g>
+  <g data-safe-box="960 580 270 130 10">
+    <rect class="softGreen" x="960" y="580" width="270" height="130" rx="22"/>
+    <rect x="960" y="580" width="270" height="10" rx="5" fill="#2F7D5A"/>
+    <text class="green label" x="1095" y="620" text-anchor="middle" style="font-size:23px">D - Diario</text>
+    <text class="muted small" x="1095" y="653" text-anchor="middle" style="font-size:18px">livelli confusi</text>
+<text class="muted small" x="1095" y="678" text-anchor="middle" style="font-size:18px">Province abolite</text>
+  </g>
+  <g data-safe-box="1260 455 270 130 10">
+    <rect class="softTeal" x="1260" y="455" width="270" height="130" rx="22"/>
+    <rect x="1260" y="455" width="270" height="10" rx="5" fill="#1F6F78"/>
+    <text class="teal label" x="1395" y="495" text-anchor="middle" style="font-size:23px">O - Output</text>
+    <text class="muted small" x="1395" y="528" text-anchor="middle" style="font-size:18px">mappa livello</text>
+<text class="muted small" x="1395" y="553" text-anchor="middle" style="font-size:18px">caso e orale</text>
+  </g>
+  <g data-safe-box="245 815 1110 62 10">
+    <rect class="note" x="245" y="815" width="1110" height="62" rx="24"/>
+    <text class="ink body" x="800" y="854" text-anchor="middle" style="font-weight:800;font-size:20px">Prima domanda: quale livello istituzionale rende corretta la risposta?</text>
+  </g>
+
+</svg>

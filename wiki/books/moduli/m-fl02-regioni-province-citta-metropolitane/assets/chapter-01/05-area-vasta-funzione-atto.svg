@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Area vasta: funzione, ente e atto</title>
+  <desc id="desc">Province e Citta metropolitane governano funzioni sovracomunali.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; }
+      .softRed { fill: #F8E8EA; stroke: #E3B9BF; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E8D080; stroke-width: 2.5; }
+      .softGreen { fill: #E7F3ED; stroke: #A8D1BD; stroke-width: 2.5; }
+      .softTeal { fill: #E4F4F5; stroke: #A3D5D8; stroke-width: 2.5; }
+      .note { fill: #FFF7ED; stroke: #E7C18E; stroke-width: 2.5; }
+      .ink { fill: #0F172A; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 43px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 22px; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 24px; font-weight: 800; letter-spacing: 0; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 18px; }
+      .navy { fill: #10233F; }
+      .bordeaux { fill: #7A2430; }
+      .gold { fill: #D4AF37; }
+      .green { fill: #2F7D5A; }
+      .teal { fill: #1F6F78; }
+      .line { stroke: #94A3B8; stroke-width: 4; stroke-linecap: round; fill: none; }
+      .thin { stroke: #CBD5E1; stroke-width: 2.5; stroke-linecap: round; fill: none; }
+      .arrowNavy { stroke: #10233F; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowNavy); }
+      .arrowBordeaux { stroke: #7A2430; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowBordeaux); }
+      .arrowGold { stroke: #D4AF37; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGold); }
+      .arrowGreen { stroke: #2F7D5A; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGreen); }
+      .arrowTeal { stroke: #1F6F78; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowTeal); }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#10233F"/></marker>
+    <marker id="arrowBordeaux" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#7A2430"/></marker>
+    <marker id="arrowGold" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#D4AF37"/></marker>
+    <marker id="arrowGreen" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2F7D5A"/></marker>
+    <marker id="arrowTeal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1F6F78"/></marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <text class="ink title" x="800" y="68" text-anchor="middle">Area vasta: funzione, ente e atto</text>
+  <text class="muted subtitle" x="800" y="108" text-anchor="middle">Province e Citta metropolitane governano funzioni sovracomunali.</text>
+
+  <rect class="card" x="70" y="160" width="1460" height="640" rx="30"/>
+  <g data-safe-box="115 245 380 330 10">
+    <rect class="softBlue" x="115" y="245" width="380" height="330" rx="28"/>
+    <rect x="115" y="245" width="380" height="12" rx="6" fill="#10233F"/>
+    <text class="navy label" x="305" y="305" text-anchor="middle" style="font-size:25px">Provincia</text>
+    <path class="thin" d="M177 337 L433 337"/>
+    <circle cx="185" cy="378" r="6" fill="#D4AF37"/><text class="ink body" x="207" y="385" style="font-size:18px">viabilita</text>
+<circle cx="185" cy="420" r="6" fill="#D4AF37"/><text class="ink body" x="207" y="427" style="font-size:18px">edilizia scolastica</text>
+<circle cx="185" cy="462" r="6" fill="#D4AF37"/><text class="ink body" x="207" y="469" style="font-size:18px">pianificazione</text>
+<circle cx="185" cy="504" r="6" fill="#D4AF37"/><text class="ink body" x="207" y="511" style="font-size:18px">assistenza ai Comuni</text>
+  </g>
+  <g data-safe-box="610 245 380 330 10">
+    <rect class="softRed" x="610" y="245" width="380" height="330" rx="28"/>
+    <rect x="610" y="245" width="380" height="12" rx="6" fill="#7A2430"/>
+    <text class="bordeaux label" x="800" y="305" text-anchor="middle" style="font-size:25px">Citta metropolitana</text>
+    <path class="thin" d="M672 337 L928 337"/>
+    <circle cx="680" cy="378" r="6" fill="#D4AF37"/><text class="ink body" x="702" y="385" style="font-size:18px">piano strategico</text>
+<circle cx="680" cy="420" r="6" fill="#D4AF37"/><text class="ink body" x="702" y="427" style="font-size:18px">mobilita</text>
+<circle cx="680" cy="462" r="6" fill="#D4AF37"/><text class="ink body" x="702" y="469" style="font-size:18px">infrastrutture</text>
+<circle cx="680" cy="504" r="6" fill="#D4AF37"/><text class="ink body" x="702" y="511" style="font-size:18px">servizi di scala urbana</text>
+  </g>
+  <g data-safe-box="1105 245 380 330 10">
+    <rect class="softGreen" x="1105" y="245" width="380" height="330" rx="28"/>
+    <rect x="1105" y="245" width="380" height="12" rx="6" fill="#2F7D5A"/>
+    <text class="green label" x="1295" y="305" text-anchor="middle" style="font-size:25px">Comune</text>
+    <path class="thin" d="M1167 337 L1423 337"/>
+    <circle cx="1175" cy="378" r="6" fill="#D4AF37"/><text class="ink body" x="1197" y="385" style="font-size:18px">prossimita</text>
+<circle cx="1175" cy="420" r="6" fill="#D4AF37"/><text class="ink body" x="1197" y="427" style="font-size:18px">sportello</text>
+<circle cx="1175" cy="462" r="6" fill="#D4AF37"/><text class="ink body" x="1197" y="469" style="font-size:18px">servizi locali</text>
+<circle cx="1175" cy="504" r="6" fill="#D4AF37"/><text class="ink body" x="1197" y="511" style="font-size:18px">attuazione sul territorio</text>
+  </g>
+  <g data-safe-box="315 650 970 110 10">
+    <rect class="softGold" x="315" y="650" width="970" height="110" rx="26"/>
+    <rect x="315" y="650" width="970" height="10" rx="5" fill="#D4AF37"/>
+    <text class="gold label" x="800" y="690" text-anchor="middle" style="font-size:22px">Anti-errore</text>
+    <text class="muted small" x="800" y="722" text-anchor="middle" style="font-size:17px">Provincia e Citta metropolitana non sono uffici residuali</text>
+<text class="muted small" x="800" y="746" text-anchor="middle" style="font-size:17px">e la Citta metropolitana non coincide con il solo Comune capoluogo</text>
+  </g>
+  <g data-safe-box="245 815 1110 62 10">
+    <rect class="note" x="245" y="815" width="1110" height="62" rx="24"/>
+    <text class="ink body" x="800" y="854" text-anchor="middle" style="font-weight:800;font-size:20px">La parola chiave e area vasta: funzione sovracomunale, scala territoriale, atto coerente.</text>
+  </g>
+
+</svg>

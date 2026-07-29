@@ -1,0 +1,16 @@
+[
+  {
+    "idx": 14,
+    "text": "1. Mappa delle Agenzie fiscali e dei profili concorsualicontinuaRisposta corretta. No. L'ente e' un indizio, non la prova definiti",
+    "collisions": [
+      {
+        "blockIndex": 8,
+        "tag": "div",
+        "label": "CampoRispostaEnteCodice profiloFamiglia M-FC02Prove previsteTre materie comuni",
+        "bottom": 13374,
+        "footerTop": 13374,
+        "overlapFooter": 0
+      }
+    ]
+  }
+]

@@ -20,9 +20,19 @@ import { FileWikiStore } from "@/src/server/wiki/file-store"
 import { parseFrontmatter } from "@/src/server/wiki/frontmatter"
 import { buildKnowledgeGraph } from "@/src/server/wiki/graph"
 import type { DashboardSource } from "@/src/server/wiki/types"
+import { buildBookStudioData } from "@/src/server/book/book-preview"
+import {
+  shouldLoadSourceReader,
+  trimBookStudioInitialData,
+  trimKnowledgeGraphInitialData
+} from "@/src/server/dashboard/initial-payload"
 import { BookSelector } from "./components/book-selector"
 import { BookCreatorPanel } from "./components/book-creator-panel"
+import { BookStudioPanel } from "./components/book-studio-panel"
 import { EssentialEditorialWorkspace } from "./components/essential-editorial-workspace"
+import { EditorialReviewerPanel } from "./components/editorial-reviewer-panel"
+import { ManualWriterPanel } from "./components/manual-writer-panel"
+import { ManualWriterAgent } from "@/src/server/agents/manual-writer-agent"
 import {
   TEXT_CATALOG_MODULE_COUNT,
   TEXT_CATALOG_PACKAGE_RULES,
@@ -74,13 +84,21 @@ export default async function Home({ searchParams }: HomeProps) {
   const store = new FileWikiStore(getWikiRoot())
   const [data, graph] = await Promise.all([
     advancedMode ? getDashboardData() : getEssentialDashboardData(),
-    advancedMode ? buildKnowledgeGraph(store) : Promise.resolve({ nodes: [], links: [] })
+    advancedMode ? buildKnowledgeGraph(store).then(trimKnowledgeGraphInitialData) : Promise.resolve({ nodes: [], links: [] })
   ])
+  const [chapters, bookStudio] = advancedMode
+    ? await Promise.all([
+        new ManualWriterAgent(store).listChapters(),
+        buildBookStudioData(store, requestedBookId).then((data) => trimBookStudioInitialData(data, requestedChapterPath))
+      ])
+    : [null, null]
   const writerConfig = getWriterConfig()
   const allSources = [...data.sources].sort(compareSources)
   const requestedSourcePath = firstParam(params.source)
-  const selectedSource = allSources.find((source) => source.path === requestedSourcePath) || allSources[0]
-  const sourceReader = advancedMode && selectedSource ? await loadSourceReader(store, selectedSource) : null
+  const selectedSource = advancedMode && shouldLoadSourceReader(requestedSourcePath)
+    ? allSources.find((source) => source.path === requestedSourcePath) || null
+    : null
+  const sourceReader = selectedSource ? await loadSourceReader(store, selectedSource) : null
   const topTopics = data.topics.slice(0, 6)
   const topIssues = data.qualityIssues.slice(0, 6)
   const catalogVolumes = buildCatalogVolumes(data.books)
@@ -180,6 +198,29 @@ export default async function Home({ searchParams }: HomeProps) {
           writerModel={writerConfig.writerModel}
           writerReasoningEffort={writerConfig.writerReasoningEffort}
         />
+
+        {advancedMode && bookStudio && chapters ? (
+          <>
+            <BookStudioPanel
+              initialData={bookStudio}
+              initialChapterPath={requestedChapterPath}
+              writerProvider={writerConfig.provider}
+              writerModel={writerConfig.writerModel}
+              writerReasoningEffort={writerConfig.writerReasoningEffort}
+            />
+            <EditorialReviewerPanel
+              bookId={requestedBookId}
+              chapters={bookStudio.chapters.map((chapter) => ({ path: chapter.path, title: chapter.title }))}
+            />
+            <ManualWriterPanel
+              initialChapters={chapters}
+              activeBookId={requestedBookId}
+              writerProvider={writerConfig.provider}
+              writerModel={writerConfig.writerModel}
+              writerReasoningEffort={writerConfig.writerReasoningEffort}
+            />
+          </>
+        ) : null}
 
         {advancedMode ? (
           <>

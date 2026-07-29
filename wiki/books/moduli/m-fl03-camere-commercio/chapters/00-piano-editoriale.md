@@ -30,11 +30,11 @@ last_compiled_from: ["wiki/books/moduli/architettura-moduli-specialistici.md","w
 Trasformare il Metodo BANDO in un percorso operativo per la famiglia "Funzioni Locali", con focus su Camere di Commercio, servizi alle imprese, registro imprese e funzioni camerali.
 
 ### Lettore
-Candidato che ha letto o sta usando Il Metodo BANDO e deve adattare metodo, materie comuni, prove e priorita a questa famiglia concorsuale.
+Candidato che ha letto o sta usando Il Metodo BANDO e deve adattare metodo, materie comuni, prove e priorità a questa famiglia concorsuale.
 
 ### Struttura prevista
 1. Camere di commercio, sistema camerale e Unioncamere.
-2. Registro imprese, REA e pubblicita legale.
+2. Registro imprese, REA e pubblicità legale.
 3. Servizi alle imprese, regolazione del mercato e tutela.
 4. Organizzazione, personale, procedimenti e trasparenza camerale.
 5. Laboratorio bando camerale.
@@ -48,7 +48,7 @@ Candidato che ha letto o sta usando Il Metodo BANDO e deve adattare metodo, mate
 ### Fonti da consolidare prima della scrittura
 - Bandi rappresentativi della famiglia.
 - Normativa ufficiale di settore.
-- Topic pages gia presenti nel wiki.
+- Topic pages già presenti nel wiki.
 - Source notes nuove se il modulo richiede aggiornamento o specialismo.
 
 ## Testo editoriale
@@ -58,13 +58,13 @@ Candidato che ha letto o sta usando Il Metodo BANDO e deve adattare metodo, mate
 | Cap. modulo | Cap. volume | Titolo | Funzione didattica |
 |---:|---:|---|---|
 | 1 | 45 | Camere di commercio, sistema camerale e Unioncamere | Fornisce la mappa istituzionale: natura dell'ente, autonomia funzionale, sistema camerale, Unioncamere, rapporto con imprese e territorio. |
-| 2 | 46 | Registro imprese, REA e pubblicita legale | Spiega il nucleo piu operativo: pubblicita legale, anagrafi camerali, visure, certificati, fascicolo d'impresa e pratiche telematiche. |
+| 2 | 46 | Registro imprese, REA e pubblicità legale | Spiega il nucleo più operativo: pubblicità legale, anagrafi camerali, visure, certificati, fascicolo d'impresa e pratiche telematiche. |
 | 3 | 47 | Servizi alle imprese, regolazione del mercato e tutela | Collega semplificazione, SUAP, servizi digitali, promozione, metrologia legale e tutela del mercato agli output di prova. |
 | 4 | 48 | Organizzazione, personale, procedimenti e trasparenza camerale | Traduce il sistema camerale in uffici, profili, procedimenti, accesso, privacy, trasparenza, comunicazione e servizi al pubblico. |
 | 5 | 49 | Laboratorio bando camerale | Applica il Metodo BANDO a profili camerali, prove scritte, orali, casi di sportello e domande-trappola. |
 
 ### Stato di sviluppo
-Il capitolo 1 e' redatto in bozza professionale. I capitoli 2-5 sono predisposti come schede source-ready e devono essere sviluppati in successive passate di Manual Writer.
+Il capitolo 1 è redatto in bozza professionale. I capitoli 2-5 sono predisposti come schede source-ready e devono essere sviluppati in successive passate di Manual Writer.
 
 ### Criterio di taglio
 Il modulo deve restare breve e operativo. Non sostituisce manuali di diritto commerciale, non duplica diritto amministrativo generale e non ripete il nucleo comune del libro base. Ogni contenuto va collegato a un bando camerale, a una mansione possibile, a un procedimento o a un output di prova.

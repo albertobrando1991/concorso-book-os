@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Organizzazione centrale e rete territoriale</title>
+  <desc id="desc">Il centro coordina; il territorio incontra contribuenti, operatori e debitori.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; }
+      .softRed { fill: #F8E8EA; stroke: #E2B3BA; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E5C85F; stroke-width: 2.5; }
+      .softGreen { fill: #E7F3ED; stroke: #A8D2BC; stroke-width: 2.5; }
+      .softTeal { fill: #E4F4F5; stroke: #A9D7DB; stroke-width: 2.5; }
+      .line { fill: none; stroke: #94A3B8; stroke-width: 5; stroke-linecap: round; stroke-linejoin: round; }
+      .title { fill: #0F172A; font: 700 42px Arial, sans-serif; letter-spacing: 0; }
+      .subtitle { fill: #526174; font: 400 24px Arial, sans-serif; letter-spacing: 0; }
+      .label { fill: #0F172A; font: 700 29px Arial, sans-serif; letter-spacing: 0; }
+      .small { fill: #526174; font: 400 21px Arial, sans-serif; letter-spacing: 0; }
+      .tiny { fill: #526174; font: 400 19px Arial, sans-serif; letter-spacing: 0; }
+      .badgeText { fill: #FFFFFF; font: 700 19px Arial, sans-serif; letter-spacing: 0; }
+      .noteText { fill: #0F172A; font: 600 22px Arial, sans-serif; letter-spacing: 0; }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#10233F"/>
+    </marker>
+    <marker id="arrowGold" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#D4AF37"/>
+    </marker>
+    <marker id="arrowTeal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#1F6F78"/>
+    </marker>
+  </defs>
+  <rect class="bg" x="0" y="0" width="1600" height="900"/>
+  <g data-safe-box="70 20 1460 112 8" data-safe-name="header">
+    <text class="title" x="80" y="70">Organizzazione centrale e rete territoriale</text>
+    <text class="subtitle" x="80" y="110">Il centro coordina; il territorio incontra contribuenti, operatori e debitori.</text>
+  </g>
+  
+  <rect class="card" x="70" y="160" width="1460" height="640" rx="30"/>
+  
+  <g data-safe-box="585 210 430 118 6" data-safe-name="Strutture centrali">
+    <rect class="softBlue" x="585" y="210" width="430" height="118" rx="24"/>
+    <text class="label" x="613" y="254">Strutture centrali</text>
+    <text class="small" x="613" y="290">indirizzo, coordinamento</text><text class="small" x="613" y="318">supporto e controllo</text>
+  </g>
+  <path class="line" d="M800 328 L800 400"/>
+  <path d="M800 400 L370 492" fill="none" stroke="#10233F" stroke-width="5" stroke-linecap="round" marker-end="url(#arrowNavy)"/>
+  <path d="M800 400 L800 492" fill="none" stroke="#D4AF37" stroke-width="5" stroke-linecap="round" marker-end="url(#arrowGold)"/>
+  <path d="M800 400 L1230 492" fill="none" stroke="#1F6F78" stroke-width="5" stroke-linecap="round" marker-end="url(#arrowTeal)"/>
+  
+  <g data-safe-box="120 500 380 200 18" data-safe-name="Territorio AE">
+    <rect class="softBlue" x="120" y="500" width="380" height="200" rx="24"/>
+    <text class="label" x="150" y="550">Territorio AE</text>
+    <circle cx="158" cy="588" r="9" fill="#10233F"/>
+    <circle cx="158" cy="624" r="9" fill="#10233F"/>
+    <circle cx="158" cy="660" r="9" fill="#10233F"/>
+    <text class="small" x="182" y="595">contribuenti</text><text class="small" x="182" y="631">professionisti</text><text class="small" x="182" y="667">servizi e atti</text>
+  </g>
+  
+  <g data-safe-box="550 500 380 200 18" data-safe-name="Presidi ADM">
+    <rect class="softRed" x="550" y="500" width="380" height="200" rx="24"/>
+    <text class="label" x="580" y="550">Presidi ADM</text>
+    <circle cx="588" cy="588" r="9" fill="#7A2430"/>
+    <circle cx="588" cy="624" r="9" fill="#7A2430"/>
+    <circle cx="588" cy="660" r="9" fill="#7A2430"/>
+    <text class="small" x="612" y="595">operatori</text><text class="small" x="612" y="631">merci</text><text class="small" x="612" y="667">settori regolati</text>
+  </g>
+  
+  <g data-safe-box="980 500 380 200 18" data-safe-name="Sportelli AdER">
+    <rect class="softGreen" x="980" y="500" width="380" height="200" rx="24"/>
+    <text class="label" x="1010" y="550">Sportelli AdER</text>
+    <circle cx="1018" cy="588" r="9" fill="#2F7D5A"/>
+    <circle cx="1018" cy="624" r="9" fill="#2F7D5A"/>
+    <circle cx="1018" cy="660" r="9" fill="#2F7D5A"/>
+    <text class="small" x="1042" y="595">debitori</text><text class="small" x="1042" y="631">pagamenti</text><text class="small" x="1042" y="667">rate e sospensioni</text>
+  </g>
+  
+  <g data-safe-box="245 781 1110 62 14" data-safe-name="nota">
+    <rect x="245" y="781" width="1110" height="62" rx="22" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2"/>
+    <text class="noteText" x="273" y="820">Gli organigrammi cambiano: la mappa stabile e' centro che coordina, territorio che opera.</text>
+  </g>
+
+</svg>

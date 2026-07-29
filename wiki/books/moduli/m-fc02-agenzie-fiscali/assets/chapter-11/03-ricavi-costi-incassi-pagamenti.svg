@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Ricavi, costi, incassi e pagamenti</title>
+  <desc id="desc">Competenza economica e flussi monetari non coincidono sempre.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; }
+      .softRed { fill: #F8E8EA; stroke: #E3B9BF; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E8D080; stroke-width: 2.5; }
+      .softGreen { fill: #E7F3ED; stroke: #A8D1BD; stroke-width: 2.5; }
+      .softTeal { fill: #E4F4F5; stroke: #A3D5D8; stroke-width: 2.5; }
+      .note { fill: #FFF7ED; stroke: #E7C18E; stroke-width: 2.5; }
+      .ink { fill: #0F172A; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 43px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 22px; letter-spacing: 0; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 24px; font-weight: 800; letter-spacing: 0; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; letter-spacing: 0; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 18px; letter-spacing: 0; }
+      .line { stroke: #94A3B8; stroke-width: 4; stroke-linecap: round; fill: none; }
+      .arrowNavy { stroke: #10233F; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowNavy); }
+      .arrowBordeaux { stroke: #7A2430; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowBordeaux); }
+      .arrowGold { stroke: #D4AF37; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGold); }
+      .arrowGreen { stroke: #2F7D5A; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGreen); }
+      .arrowTeal { stroke: #1F6F78; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowTeal); }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#10233F"/></marker>
+    <marker id="arrowBordeaux" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#7A2430"/></marker>
+    <marker id="arrowGold" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#D4AF37"/></marker>
+    <marker id="arrowGreen" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2F7D5A"/></marker>
+    <marker id="arrowTeal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1F6F78"/></marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <g data-safe-box="120 14 1360 116 0" data-safe-name="header">
+    <text class="ink title" x="800" y="68" text-anchor="middle">Ricavi, costi, incassi e pagamenti</text>
+    <text class="muted subtitle" x="800" y="106" text-anchor="middle">Competenza economica e flussi monetari non coincidono sempre.</text>
+  </g>
+  
+  <rect class="card" x="70" y="160" width="1460" height="640" rx="30"/>
+  <g data-safe-box="125 250 410 235 16" data-safe-name="Piano economico">
+    <rect class="softBlue" x="125" y="250" width="410" height="235" rx="28"/>
+    <text class="ink label" x="159" y="300">Piano economico</text>
+    <rect x="159" y="326" width="342" height="5" rx="2.5" fill="#10233F"/>
+    <text class="muted body" x="167" y="375">- ricavo</text>
+<text class="muted body" x="167" y="413">- costo</text>
+<text class="muted body" x="167" y="451">- utile/perdita</text>
+  </g>
+  <g data-safe-box="1085 250 410 235 16" data-safe-name="Piano monetario">
+    <rect class="softGreen" x="1085" y="250" width="410" height="235" rx="28"/>
+    <text class="ink label" x="1119" y="300">Piano monetario</text>
+    <rect x="1119" y="326" width="342" height="5" rx="2.5" fill="#2F7D5A"/>
+    <text class="muted body" x="1127" y="375">- incasso</text>
+<text class="muted body" x="1127" y="413">- pagamento</text>
+<text class="muted body" x="1127" y="451">- liquidita</text>
+  </g>
+  <path class="arrowNavy" d="M535 345 L690 345"/>
+  <g data-safe-box="650 270 300 150 12" data-safe-name="Competenza">
+    <rect class="softGold" x="650" y="270" width="300" height="150" rx="75"/>
+    <text class="ink label" x="800" y="325" text-anchor="middle">Competenza</text>
+    <text class="muted small" x="800" y="362" text-anchor="middle">a quale esercizio</text>
+<text class="muted small" x="800" y="386" text-anchor="middle">si riferisce?</text>
+  </g>
+  <path class="arrowGreen" d="M910 345 L1065 345"/>
+  <g data-safe-box="220 560 360 130 10" data-safe-name="Esempio 1">
+    <rect class="softRed" x="220" y="560" width="360" height="130" rx="24"/>
+    <rect x="220" y="560" width="10" height="130" rx="5" fill="#7A2430"/>
+    <text class="ink label" x="250" y="602">Esempio 1</text>
+    <text class="muted body" x="252" y="640">vendo a dicembre</text>
+<text class="muted body" x="252" y="668">incasso a gennaio</text>
+  </g>
+  <g data-safe-box="610 560 360 130 10" data-safe-name="Esempio 2">
+    <rect class="softGold" x="610" y="560" width="360" height="130" rx="24"/>
+    <rect x="610" y="560" width="10" height="130" rx="5" fill="#D4AF37"/>
+    <text class="ink label" x="640" y="602">Esempio 2</text>
+    <text class="muted body" x="642" y="640">pago oggi</text>
+<text class="muted body" x="642" y="668">costo su piu esercizi</text>
+  </g>
+  <g data-safe-box="1000 560 360 130 10" data-safe-name="Regola">
+    <rect class="softTeal" x="1000" y="560" width="360" height="130" rx="24"/>
+    <rect x="1000" y="560" width="10" height="130" rx="5" fill="#1F6F78"/>
+    <text class="ink label" x="1030" y="602">Regola</text>
+    <text class="muted body" x="1032" y="640">dato economico</text>
+<text class="muted body" x="1032" y="668">non sempre flusso</text>
+  </g>
+  <g data-safe-box="245 815 1110 54 14" data-safe-name="nota">
+    <rect class="note" x="245" y="815" width="1110" height="54" rx="18"/>
+    <text class="ink body" x="800" y="850" text-anchor="middle">Ricavo non significa incasso; costo non significa pagamento: prima individua il piano.</text>
+  </g>
+</svg>

@@ -2914,3 +2914,289 @@
 - l0: l0/conv-20260729192420-1merphd.md
 - atoms:
   - mem-20260729192420-nsfdoy | result | Esito pipeline-step-09-write-chapter-08: Procedi con il prossimo step della pipeline VOL-08. -> Completato step 09 capitolo 08: scritto capitolo reader-facing su cyber risk, controlli, threat modeling, vulnerability management, secure SDLC e software supply chain; aggiunta source note primaria NIST/OWASP/CVE/CWE...
+## 2026-07-21T11:56:35.747Z - catalog-dashboard
+
+- conversation_id: conv-20260721115635-u32f8m
+- route: codex/dashboard-all-chapters-restore
+- l0: l0/conv-20260721115635-u32f8m.md
+- atoms:
+  - mem-20260721115635-p7w7jt | workflow | Dopo allineamento GitHub, la dashboard non mostrava tutto il lavoro fatto: capitoli elaborati e sviluppati mancavano nella tendina a sinistra.
+  - mem-20260721115635-1j84h1q | result | Esito codex/dashboard-all-chapters-restore: Dopo allineamento GitHub, la dashboard non mostrava tutto il lavoro fatto: capitoli elaborati e sviluppati mancavano nella tendina a sinistra. -> Ripristinato lo stash locale sopra origin/main, risolti i conflitti senza marker, mantenuti gli asset locali M-FC02, modificato il Writer per caricare tutti i capitoli del vault e raggrupparli per libro/modulo.
+
+## 2026-07-22T18:45:17.314Z - editorial-review
+
+- conversation_id: conv-20260722184517-17hi6sg
+- route: codex.vol02-vol04-coverage-review
+- l0: l0/conv-20260722184517-17hi6sg.md
+- atoms:
+  - mem-20260722184517-14xwxkz | workflow | Effettua la revisione professionale dei capitoli gia scritti di VOL-02 e VOL-04 sulla base della matrice didattica obbligatoria e delle nuove competenze.
+  - mem-20260722184517-n8b6p7 | result | Esito codex.vol02-vol04-coverage-review: Effettua la revisione professionale dei capitoli gia scritti di VOL-02 e VOL-04 sulla base della matrice didattica obbligatoria e delle nuove competenze. -> Create le matrici didattiche e i report del Revisore Editoriale Totale: VOL-02 non pubblicabile per 22 outline e 3 capitoli mancanti; VOL-04 non pubblicabile fino alla review normativa e alla creazione degli strumenti...
+
+## 2026-07-22T19:24:30.274Z - editorial-vol-02
+
+- conversation_id: conv-20260722192430-r9wnn8
+- route: codex.mfl02.chapter09.professional-draft
+- l0: l0/conv-20260722192430-r9wnn8.md
+- atoms:
+  - mem-20260722192430-ci0a3s | workflow | Scrivi in maniera professionale il capitolo M-FL02 9 Province e Citta metropolitane dopo la L.
+  - mem-20260722192430-1bgzr3s | result | Esito codex.mfl02.chapter09.professional-draft: Scrivi in maniera professionale il capitolo M-FL02 9 Province e Citta metropolitane dopo la L. -> Capitolo M-FL02 09 sviluppato come revised_draft professionale con teoria, caso, verifiche e riferimenti consolidati; L.
+
+## 2026-07-22T19:43:20.712Z - editorial-vol-02
+
+- conversation_id: conv-20260722194320-7c0aff
+- route: codex.mfl02.chapter10.professional-draft
+- l0: l0/conv-20260722194320-7c0aff.md
+- atoms:
+  - mem-20260722194320-19tpeel | workflow | Scrivi in maniera professionale il capitolo M-FL02 10 Viabilita, edilizia scolastica, territorio ed espropri.
+  - mem-20260722194320-1g4xzfi | result | Esito codex.mfl02.chapter10.professional-draft: Scrivi in maniera professionale il capitolo M-FL02 10 Viabilita, edilizia scolastica, territorio ed espropri. -> Capitolo M-FL02 10 sviluppato come revised_draft professionale, con fonti consolidate e verifica ufficiale su L.
+
+## 2026-07-22T19:57:09.742Z - editorial-vol-02
+
+- conversation_id: conv-20260722195709-bw9m5w
+- route: codex.mfl02.chapter11.professional-draft
+- l0: l0/conv-20260722195709-bw9m5w.md
+- atoms:
+  - mem-20260722195709-18fi033 | workflow | Scrivi in maniera professionale il capitolo M-FL02 11 Contratti, servizi pubblici locali e societa partecipate.
+  - mem-20260722195709-ldsjcf | result | Esito codex.mfl02.chapter11.professional-draft: Scrivi in maniera professionale il capitolo M-FL02 11 Contratti, servizi pubblici locali e societa partecipate. -> Capitolo M-FL02 11 sviluppato come revised_draft professionale.
+
+## 2026-07-22T20:08:49.282Z - editorial-vol-02
+
+- conversation_id: conv-20260722200849-w8s4i9
+- route: codex.mfl02.chapter12.professional-draft
+- l0: l0/conv-20260722200849-w8s4i9.md
+- atoms:
+  - mem-20260722200849-gypxsb | workflow | Scrivi in maniera professionale il capitolo M-FL02 12 Laboratorio per i quattro profili regionali e di area vasta.
+  - mem-20260722200849-bj7ici | result | Esito codex.mfl02.chapter12.professional-draft: Scrivi in maniera professionale il capitolo M-FL02 12 Laboratorio per i quattro profili regionali e di area vasta. -> Capitolo M-FL02 12 sviluppato come revised_draft professionale, con quattro simulazioni guidate, risposta orale e sintetica, revisione 5P e piano 30/60/90.
+
+## 2026-07-22T20:24:39.473Z - manual-writer
+
+- conversation_id: conv-20260722202439-1wglt95
+- route: codex.mfl03.chapter01.professional-integrate
+- l0: l0/conv-20260722202439-1wglt95.md
+- atoms:
+  - mem-20260722202439-elhybl | workflow | Scrivi professionalmente M-FL03 capitolo 1: Camere di commercio, sistema camerale e Unioncamere.
+  - mem-20260722202439-o2dmkp | result | Esito codex.mfl03.chapter01.professional-integrate: Scrivi professionalmente M-FL03 capitolo 1: Camere di commercio, sistema camerale e Unioncamere. -> Integrata la bozza professionale del capitolo 1 M-FL03 con verifica ufficiale consolidata su L.
+
+## 2026-07-22T20:38:31.407Z - manual-writer
+
+- conversation_id: conv-20260722203831-14f4qxm
+- route: codex.mfl03.chapter02.professional-draft
+- l0: l0/conv-20260722203831-14f4qxm.md
+- atoms:
+  - mem-20260722203831-lp840m | workflow | Scrivi professionalmente M-FL03 capitolo 2: Registro imprese, REA e pubblicita legale.
+  - mem-20260722203831-5f9b30 | result | Esito codex.mfl03.chapter02.professional-draft: Scrivi professionalmente M-FL03 capitolo 2: Registro imprese, REA e pubblicita legale. -> Redatto il capitolo professionale M-FL03.2 con fonti ufficiali consolidate su D.P.R.
+
+## 2026-07-22T20:48:27.730Z - manual-writer
+
+- conversation_id: conv-20260722204827-17qjwgh
+- route: codex.mfl03.chapter03.professional-draft
+- l0: l0/conv-20260722204827-17qjwgh.md
+- atoms:
+  - mem-20260722204827-5pkbop | workflow | Scrivi professionalmente M-FL03 capitolo 3: Servizi alle imprese, regolazione del mercato e tutela.
+  - mem-20260722204827-1u63rfu | result | Esito codex.mfl03.chapter03.professional-draft: Scrivi professionalmente M-FL03 capitolo 3: Servizi alle imprese, regolazione del mercato e tutela. -> Redatto il capitolo professionale M-FL03.3 con fonti ufficiali consolidate su servizi alle imprese, regolazione del mercato, metrologia legale, sicurezza dei prodotti e cooperazione con i SUAP.
+
+## 2026-07-22T21:01:07.434Z - manual-writer
+
+- conversation_id: conv-20260722210107-56i864
+- route: codex.mfl03.chapter04.professional-draft
+- l0: l0/conv-20260722210107-56i864.md
+- atoms:
+  - mem-20260722210107-zs4hrr | workflow | Scrivi professionalmente M-FL03 capitolo 4: Organizzazione, personale, procedimenti e trasparenza camerale.
+  - mem-20260722210107-yz1joe | result | Esito codex.mfl03.chapter04.professional-draft: Scrivi professionalmente M-FL03 capitolo 4: Organizzazione, personale, procedimenti e trasparenza camerale. -> Redatto il capitolo professionale M-FL03.4 con fonti ufficiali consolidate su organizzazione, comparto Funzioni Locali, trasparenza e applicazione di procedimento, accesso, privacy e digitale ai servizi camerali.
+
+## 2026-07-22T21:12:50.384Z - manual-writer
+
+- conversation_id: conv-20260722211250-ameeuw
+- route: codex.mfl03.chapter05.professional-draft
+- l0: l0/conv-20260722211250-ameeuw.md
+- atoms:
+  - mem-20260722211250-1k7hn4e | workflow | Scrivi professionalmente M-FL03 capitolo 5: Laboratorio bando camerale.
+  - mem-20260722211250-17d2pgb | result | Esito codex.mfl03.chapter05.professional-draft: Scrivi professionalmente M-FL03 capitolo 5: Laboratorio bando camerale. -> Redatto il laboratorio professionale M-FL03.5: Bando Decoder camerale, lettura di profilo e declaratoria, distinzione nucleo comune/delta, priorita per assistente, funzionario anagrafico/e-government e supporto/comuni...
+
+## 2026-07-22T21:21:57.554Z - manual-writer
+
+- conversation_id: conv-20260722212157-7tk6dh
+- route: codex.mfl04.chapter01.professional-revision
+- l0: l0/conv-20260722212157-7tk6dh.md
+- atoms:
+  - mem-20260722212157-knk5ku | workflow | Scrivi professionalmente M-FL04 capitolo 1: Diventare agente o ufficiale di Polizia locale.
+  - mem-20260722212157-1n6dp63 | result | Esito codex.mfl04.chapter01.professional-revision: Scrivi professionalmente M-FL04 capitolo 1: Diventare agente o ufficiale di Polizia locale. -> Aggiornato in versione professionale verificata il capitolo M-FL04.1.
+
+## 2026-07-22T21:37:32.056Z - manual-writer
+
+- conversation_id: conv-20260722213732-vs801f
+- route: codex.mfl04.chapter02.professional-draft
+- l0: l0/conv-20260722213732-vs801f.md
+- atoms:
+  - mem-20260722213732-1hifq1b | workflow | Scrivi professionalmente M-FL04 capitolo 2: Ordinamento nazionale e regionale della Polizia locale.
+  - mem-20260722213732-6wllqf | result | Esito codex.mfl04.chapter02.professional-draft: Scrivi professionalmente M-FL04 capitolo 2: Ordinamento nazionale e regionale della Polizia locale. -> Redatto M-FL04.2 in bozza professionale verificata.
+
+## 2026-07-22T21:52:42.964Z - manual-writer
+
+- conversation_id: conv-20260722215242-iz4s9p
+- route: codex.mfl04.chapter03.professional-draft
+- l0: l0/conv-20260722215242-iz4s9p.md
+- atoms:
+  - mem-20260722215242-ng1x9m | workflow | Scrivi professionalmente M-FL04 capitolo 3: Qualifiche, poteri, dipendenze e organizzazione del servizio.
+  - mem-20260722215242-6pxiyk | result | Esito codex.mfl04.chapter03.professional-draft: Scrivi professionalmente M-FL04 capitolo 3: Qualifiche, poteri, dipendenze e organizzazione del servizio. -> Redatto M-FL04.3 in bozza professionale verificata.
+
+## 2026-07-22T22:15:20.005Z - manual-writer
+
+- conversation_id: conv-20260722221520-qg9j6s
+- route: codex.mfl04.chapter04.professional-draft
+- l0: l0/conv-20260722221520-qg9j6s.md
+- atoms:
+  - mem-20260722221520-1mzw43i | workflow | Scrivi professionalmente M-FL04 capitolo 4: Servizi di polizia stradale.
+  - mem-20260722221520-11wsw1j | result | Esito codex.mfl04.chapter04.professional-draft: Scrivi professionalmente M-FL04 capitolo 4: Servizi di polizia stradale. -> Integrato M-FL04.4 come bozza professionale verificata.
+
+## 2026-07-24T15:11:43.673Z - global
+
+- conversation_id: conv-20260724151143-18kb70u
+- route: codex-vol-05-source-ready-outline
+- l0: l0/conv-20260724151143-18kb70u.md
+- atoms:
+  - mem-20260724151143-ntegsl | result | Esito codex-vol-05-source-ready-outline: Analizzare il dossier VOL-05, acquisire fonti ufficiali e creare indice dettagliato del volume con front matter solo iniziale e frontespizio più sommario per ogni modulo interno. -> Creato VOL-05 source-ready: 11 documenti raw ufficiali, source notes, topic ed entity pages, indice analitico in cinque moduli e audit con gap normativi espliciti.
+
+## 2026-07-24T16:13:24.483Z - global
+
+- conversation_id: conv-20260724161324-ikiyf2
+- route: codex-mfc05-chapter01-professional-draft
+- l0: l0/conv-20260724161324-ikiyf2.md
+- atoms:
+  - mem-20260724161324-tezlcd | workflow | Sviluppare sommario del modulo M-FC05 e iniziare la scrittura professionale del primo capitolo con fonti consolidate e autorevoli.
+  - mem-20260724161324-1rsrqgq | result | Esito codex-mfc05-chapter01-professional-draft: Sviluppare sommario del modulo M-FC05 e iniziare la scrittura professionale del primo capitolo con fonti consolidate e autorevoli. -> Aggiornato il sommario dei quindici capitoli M-FC05 e redatto il Capitolo 1 Le authority viste dal candidato, con Mappa BANDO, caso, domande, esercizio, fonti e review.
+
+## 2026-07-24T16:26:35.719Z - global
+
+- conversation_id: conv-20260724162635-82ap5o
+- route: codex-mfc05-dashboard-chapter-scaffolds
+- l0: l0/conv-20260724162635-82ap5o.md
+- atoms:
+  - mem-20260724162635-135ftjy | workflow | Creare i file strutturati dei capitoli M-FC05 per renderli visibili in dashboard prima della scrittura professionale progressiva.
+  - mem-20260724162635-1irmnv7 | result | Esito codex-mfc05-dashboard-chapter-scaffolds: Creare i file strutturati dei capitoli M-FC05 per renderli visibili in dashboard prima della scrittura professionale progressiva. -> Create le schede source-ready dei capitoli 2-15; la cartella M-FC05 contiene ora 00 piano editoriale e capitoli 01-15 con frontmatter, obiettivi, nuclei, output, riferimenti e review.
+
+## 2026-07-24T16:33:23.212Z - concorso-book-os
+
+- conversation_id: conv-20260724163323-1x9ly9q
+- route: codex/editorial/m-fc05/chapter-02
+- l0: l0/conv-20260724163323-1x9ly9q.md
+- atoms:
+  - mem-20260724163323-1magfhz | workflow | Scrivi professionalmente il capitolo M-FC05 2: Indipendenza, governance, accountability e personale.
+  - mem-20260724163323-ogeuat | result | Esito codex/editorial/m-fc05/chapter-02: Scrivi professionalmente il capitolo M-FC05 2: Indipendenza, governance, accountability e personale. -> Redatto il Capitolo 2 M-FC05 in forma professionale: 2.561 parole, schema operativo, distinzione tra indipendenza, governance, accountability e regime del personale, Mappa BANDO, caso guidato, risposta orale, esercizi...
+
+## 2026-07-24T16:51:51.664Z - concorso-book-os
+
+- conversation_id: conv-20260724165151-1ml0r99
+- route: codex/editorial/m-fc05/chapter-03
+- l0: l0/conv-20260724165151-1ml0r99.md
+- atoms:
+  - mem-20260724165151-liz7z5 | workflow | Scrivi professionalmente il capitolo M-FC05 3: Regolazione europea multilivello e reti delle autorità.
+  - mem-20260724165151-vf61or | result | Esito codex/editorial/m-fc05/chapter-03: Scrivi professionalmente il capitolo M-FC05 3: Regolazione europea multilivello e reti delle autorità. -> Redatto il Capitolo 3 M-FC05 in forma professionale: 2.730 parole, schema operativo, distinzione fra fonti UE e competenze, reti ECN/BEREC/ACER/ESFS/EDPB, Mappa BANDO, caso privacy transfrontaliero, risposta orale, do...
+
+## 2026-07-24T17:01:34.094Z - concorso-book-os
+
+- conversation_id: conv-20260724170134-1bnaetr
+- route: codex/editorial/m-fc05/chapter-04
+- l0: l0/conv-20260724170134-1bnaetr.md
+- atoms:
+  - mem-20260724170134-uczbg4 | workflow | Scrivi professionalmente il capitolo M-FC05 4: Ciclo regolatorio, consultazione, AIR e VIR.
+  - mem-20260724170134-ok54dc | result | Esito codex/editorial/m-fc05/chapter-04: Scrivi professionalmente il capitolo M-FC05 4: Ciclo regolatorio, consultazione, AIR e VIR. -> Redatto il Capitolo 4 M-FC05 in forma professionale: 2.865 parole, ciclo regolatorio, distinzione consultazione/AIR/monitoraggio/VIR, Mappa BANDO, mini-AIR, caso guidato, domande ed esercizio.
+
+## 2026-07-24T17:09:54.055Z - concorso-book-os
+
+- conversation_id: conv-20260724170954-15u0fy0
+- route: codex/editorial/m-fc05/chapter-05
+- l0: l0/conv-20260724170954-15u0fy0.md
+- atoms:
+  - mem-20260724170954-9ptzjb | workflow | Scrivi professionalmente il capitolo M-FC05 5: Vigilanza, istruttoria, ispezioni, dati e prova.
+  - mem-20260724170954-1pc2ypi | result | Esito codex/editorial/m-fc05/chapter-05: Scrivi professionalmente il capitolo M-FC05 5: Vigilanza, istruttoria, ispezioni, dati e prova. -> Redatto il Capitolo 5 M-FC05 in forma professionale: vigilanza, piano istruttorio, ispezioni, qualità di dati e documenti, contraddittorio, Mappa BANDO, caso guidato, risposta orale ed esercizio.
+
+## 2026-07-24T17:17:29.727Z - concorso-book-os
+
+- conversation_id: conv-20260724171729-zoti0a
+- route: codex/editorial/m-fc05/chapter-06
+- l0: l0/conv-20260724171729-zoti0a.md
+- atoms:
+  - mem-20260724171729-13iu61v | workflow | Scrivi professionalmente il capitolo M-FC05 6: Sanzioni, impegni, rimedi e controllo giurisdizionale.
+  - mem-20260724171729-pcz9c0 | result | Esito codex/editorial/m-fc05/chapter-06: Scrivi professionalmente il capitolo M-FC05 6: Sanzioni, impegni, rimedi e controllo giurisdizionale. -> Redatto il Capitolo 6 M-FC05 in forma professionale: sanzioni, garanzie, impegni antitrust, rimedi correttivi, mappa della tutela giurisdizionale, Mappa BANDO, caso, domande ed esercizio.
+
+## 2026-07-24T17:26:16.415Z - vol-05-authority-regolazione
+
+- conversation_id: conv-20260724172616-xfnf1m
+- route: manual_writer
+- l0: l0/conv-20260724172616-xfnf1m.md
+- atoms:
+  - mem-20260724172616-1bi40ja | workflow | Scrivere professionalmente il capitolo M-FC05 7 Economia industriale, regolazione, econometria e contabilità regolatoria.
+  - mem-20260724172616-s31zw9 | result | Esito manual_writer: Scrivere professionalmente il capitolo M-FC05 7 Economia industriale, regolazione, econometria e contabilità regolatoria. -> Redatto il capitolo M-FC05 7 come professional draft, con fonte e topic dedicati.
+
+## 2026-07-24T17:36:34.656Z - vol-05-authority-regolazione
+
+- conversation_id: conv-20260724173634-1gudjlc
+- route: manual_writer
+- l0: l0/conv-20260724173634-1gudjlc.md
+- atoms:
+  - mem-20260724173634-u796u1 | workflow | Scrivere professionalmente il capitolo M-FC05 8 AGCM: concorrenza, consumatore e pratiche scorrette.
+  - mem-20260724173634-13mtqz8 | result | Esito manual_writer: Scrivere professionalmente il capitolo M-FC05 8 AGCM: concorrenza, consumatore e pratiche scorrette. -> Redatto il capitolo M-FC05 8 come professional draft, con source note e topic dedicati.
+
+## 2026-07-24T17:41:55.801Z - vol-05-authority-regolazione
+
+- conversation_id: conv-20260724174155-1hm9z4o
+- route: manual_writer
+- l0: l0/conv-20260724174155-1hm9z4o.md
+- atoms:
+  - mem-20260724174155-16zsbhf | workflow | Scrivere professionalmente il capitolo M-FC05 9 ARERA: energia, gas, acqua, rifiuti e tariffe.
+  - mem-20260724174155-wkkh45 | result | Esito manual_writer: Scrivere professionalmente il capitolo M-FC05 9 ARERA: energia, gas, acqua, rifiuti e tariffe. -> Redatto il capitolo M-FC05 9 come professional draft, con source note e topic dedicati.
+
+## 2026-07-24T17:46:29.455Z - vol-05-authority-regolazione
+
+- conversation_id: conv-20260724174629-exn1ms
+- route: manual_writer
+- l0: l0/conv-20260724174629-exn1ms.md
+- atoms:
+  - mem-20260724174629-rej4qy | workflow | Scrivere professionalmente il capitolo M-FC05 10 AGCOM: comunicazioni, media, utenti e piattaforme.
+  - mem-20260724174629-c6a6hw | result | Esito manual_writer: Scrivere professionalmente il capitolo M-FC05 10 AGCOM: comunicazioni, media, utenti e piattaforme. -> Redatto M-FC05 10 professional draft con source note e topic dedicati.
+
+## 2026-07-24T17:51:31.482Z - vol-05-authority-regolazione
+
+- conversation_id: conv-20260724175131-pclqw7
+- route: manual_writer
+- l0: l0/conv-20260724175131-pclqw7.md
+- atoms:
+  - mem-20260724175131-t266y4 | workflow | Scrivere professionalmente il capitolo M-FC05 11 CONSOB: mercati, intermediari e tutela dell investitore.
+  - mem-20260724175131-1lrg9w1 | result | Esito manual_writer: Scrivere professionalmente il capitolo M-FC05 11 CONSOB: mercati, intermediari e tutela dell investitore. -> Redatto M-FC05 11 professional draft con source note e topic dedicati.
+
+## 2026-07-24T17:59:33.028Z - global
+
+- conversation_id: conv-20260724175933-15w30k5
+- route: manual_writer/m-fc05-12-banca-italia-ivass
+- l0: l0/conv-20260724175933-15w30k5.md
+- atoms:
+  - mem-20260724175933-qz6ufn | workflow | Redigere professionalmente il capitolo M-FC05 12 Banca d Italia e IVASS: vigilanza prudenziale, bancaria e assicurativa.
+  - mem-20260724175933-56itmx | result | Esito manual_writer/m-fc05-12-banca-italia-ivass: Redigere professionalmente il capitolo M-FC05 12 Banca d Italia e IVASS: vigilanza prudenziale, bancaria e assicurativa. -> Completato il capitolo professionale M-FC05 12 con fonti istituzionali Banca d Italia e IVASS.
+
+## 2026-07-24T18:09:52.479Z - global
+
+- conversation_id: conv-20260724180952-1aoqqjx
+- route: manual_writer/m-fc05-13-garante-privacy
+- l0: l0/conv-20260724180952-1aoqqjx.md
+- atoms:
+  - mem-20260724180952-yfgclt | workflow | Redigere professionalmente il capitolo M-FC05 13 Garante privacy: poteri, procedimenti e cooperazione europea.
+  - mem-20260724180952-v8khml | result | Esito manual_writer/m-fc05-13-garante-privacy: Redigere professionalmente il capitolo M-FC05 13 Garante privacy: poteri, procedimenti e cooperazione europea. -> Completato il capitolo professionale M-FC05 13 con fonti ufficiali del Garante, GDPR ed EDPB.
+
+## 2026-07-24T18:18:31.953Z - global
+
+- conversation_id: conv-20260724181831-ojpims
+- route: manual_writer/m-fc05-14-anac
+- l0: l0/conv-20260724181831-ojpims.md
+- atoms:
+  - mem-20260724181831-1p25px6 | workflow | Redigere professionalmente il capitolo M-FC05 14 ANAC: prevenzione, vigilanza e whistleblowing.
+  - mem-20260724181831-kcz8az | result | Esito manual_writer/m-fc05-14-anac: Redigere professionalmente il capitolo M-FC05 14 ANAC: prevenzione, vigilanza e whistleblowing. -> Completato il capitolo professionale M-FC05 14 con fonti ufficiali ANAC e Normattiva.
+
+## 2026-07-24T18:24:30.388Z - global
+
+- conversation_id: conv-20260724182430-s46cb1
+- route: manual_writer/m-fc05-15-laboratorio
+- l0: l0/conv-20260724182430-s46cb1.md
+- atoms:
+  - mem-20260724182430-1f2iaov | workflow | Redigere professionalmente il capitolo M-FC05 15 Laboratorio delle prove authority.
+  - mem-20260724182430-14068mp | result | Esito manual_writer/m-fc05-15-laboratorio: Redigere professionalmente il capitolo M-FC05 15 Laboratorio delle prove authority. -> Completato il capitolo laboratorio M-FC05 15 con dieci simulazioni distribuite fra percorsi G, E e P, rubrica di correzione, diario degli errori e piano 30/60/90; verificati 59 test.

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Reati, sanzioni e condotte a rischio</title>
+  <desc id="desc">Classificare il piano prima di usare parole come reato, illecito o responsabilita.</desc>
+  <defs>
+    <style>
+      .bg { fill: #F8FAFC; }
+      .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+      .softBlue { fill: #EAF2FB; stroke: #B9CBE0; stroke-width: 2.5; }
+      .softRed { fill: #F8E8EA; stroke: #E3B9BF; stroke-width: 2.5; }
+      .softGold { fill: #FFF4CC; stroke: #E8D080; stroke-width: 2.5; }
+      .softGreen { fill: #E7F3ED; stroke: #A8D1BD; stroke-width: 2.5; }
+      .softTeal { fill: #E4F4F5; stroke: #A3D5D8; stroke-width: 2.5; }
+      .note { fill: #FFF7ED; stroke: #E7C18E; stroke-width: 2.5; }
+      .ink { fill: #0F172A; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #526174; font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+      .title { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 43px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 22px; letter-spacing: 0; }
+      .label { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 24px; font-weight: 800; letter-spacing: 0; }
+      .body { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 20px; letter-spacing: 0; }
+      .small { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; font-size: 18px; letter-spacing: 0; }
+      .line { stroke: #94A3B8; stroke-width: 4; stroke-linecap: round; fill: none; }
+      .arrowNavy { stroke: #10233F; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowNavy); }
+      .arrowBordeaux { stroke: #7A2430; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowBordeaux); }
+      .arrowGold { stroke: #D4AF37; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGold); }
+      .arrowGreen { stroke: #2F7D5A; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowGreen); }
+      .arrowTeal { stroke: #1F6F78; stroke-width: 5; stroke-linecap: round; fill: none; marker-end: url(#arrowTeal); }
+    </style>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#10233F"/></marker>
+    <marker id="arrowBordeaux" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#7A2430"/></marker>
+    <marker id="arrowGold" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#D4AF37"/></marker>
+    <marker id="arrowGreen" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2F7D5A"/></marker>
+    <marker id="arrowTeal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1F6F78"/></marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <g data-safe-box="120 14 1360 116 0" data-safe-name="header">
+    <text class="ink title" x="800" y="68" text-anchor="middle">Reati, sanzioni e condotte a rischio</text>
+    <text class="muted subtitle" x="800" y="106" text-anchor="middle">Classificare il piano prima di usare parole come reato, illecito o responsabilita.</text>
+  </g>
+  
+  <rect class="card" x="70" y="160" width="1460" height="640" rx="30"/>
+  <g data-safe-box="105 292 210 170 8" data-safe-name="Condotta">
+    <rect class="softBlue" x="105" y="292" width="210" height="170" rx="22"/>
+    <circle cx="143" cy="330" r="21" fill="#10233F"/>
+    <text x="143" y="338" text-anchor="middle" fill="#FFFFFF" style="font: 800 21px 'Segoe UI', Arial, sans-serif">1</text>
+    <text class="ink label" x="131" y="374">Condotta</text>
+    <text class="muted small" x="131" y="408">fatto e soggetto</text>
+<text class="muted small" x="131" y="431">documento/atto</text>
+  </g>
+  <g data-safe-box="380 292 210 170 8" data-safe-name="Piano">
+    <rect class="softRed" x="380" y="292" width="210" height="170" rx="22"/>
+    <circle cx="418" cy="330" r="21" fill="#7A2430"/>
+    <text x="418" y="338" text-anchor="middle" fill="#FFFFFF" style="font: 800 21px 'Segoe UI', Arial, sans-serif">2</text>
+    <text class="ink label" x="406" y="374">Piano</text>
+    <text class="muted small" x="406" y="408">amministrativo</text>
+<text class="muted small" x="406" y="431">tributario/penale</text>
+  </g>
+  <g data-safe-box="655 292 210 170 8" data-safe-name="Fonte">
+    <rect class="softGold" x="655" y="292" width="210" height="170" rx="22"/>
+    <circle cx="693" cy="330" r="21" fill="#D4AF37"/>
+    <text x="693" y="338" text-anchor="middle" fill="#FFFFFF" style="font: 800 21px 'Segoe UI', Arial, sans-serif">3</text>
+    <text class="ink label" x="681" y="374">Fonte</text>
+    <text class="muted small" x="681" y="408">norma vigente</text>
+<text class="muted small" x="681" y="431">review se serve</text>
+  </g>
+  <g data-safe-box="930 292 210 170 8" data-safe-name="Risposta">
+    <rect class="softGreen" x="930" y="292" width="210" height="170" rx="22"/>
+    <circle cx="968" cy="330" r="21" fill="#2F7D5A"/>
+    <text x="968" y="338" text-anchor="middle" fill="#FFFFFF" style="font: 800 21px 'Segoe UI', Arial, sans-serif">4</text>
+    <text class="ink label" x="956" y="374">Risposta</text>
+    <text class="muted small" x="956" y="408">nucleo prudente</text>
+<text class="muted small" x="956" y="431">senza soglie inventate</text>
+  </g>
+  <g data-safe-box="1205 292 210 170 8" data-safe-name="Errore">
+    <rect class="softTeal" x="1205" y="292" width="210" height="170" rx="22"/>
+    <circle cx="1243" cy="330" r="21" fill="#1F6F78"/>
+    <text x="1243" y="338" text-anchor="middle" fill="#FFFFFF" style="font: 800 21px 'Segoe UI', Arial, sans-serif">5</text>
+    <text class="ink label" x="1231" y="374">Errore</text>
+    <text class="muted small" x="1231" y="408">reato generico</text>
+<text class="muted small" x="1231" y="431">sanzione sinonimo</text>
+  </g>
+  <path class="arrowNavy" d="M315 376 L370 376"/>
+  <path class="arrowBordeaux" d="M590 376 L645 376"/>
+  <path class="arrowGold" d="M865 376 L920 376"/>
+  <path class="arrowGreen" d="M1140 376 L1195 376"/>
+  <g data-safe-box="180 555 330 118 8" data-safe-name="Non tutto e' reato">
+    <rect class="softRed" x="180" y="555" width="330" height="118" rx="20"/>
+    <rect x="180" y="555" width="10" height="118" rx="5" fill="#7A2430"/>
+    <text class="ink label" x="204" y="591">Non tutto e' reato</text>
+    <text class="muted small" x="204" y="623">prima individua procedimento</text>
+<text class="muted small" x="204" y="646">autorita e sanzione</text>
+  </g>
+  <g data-safe-box="635 555 330 118 8" data-safe-name="Non tutto e' forma">
+    <rect class="softGold" x="635" y="555" width="330" height="118" rx="20"/>
+    <rect x="635" y="555" width="10" height="118" rx="5" fill="#D4AF37"/>
+    <text class="ink label" x="659" y="591">Non tutto e' forma</text>
+    <text class="muted small" x="659" y="623">frode, documento, credito</text>
+<text class="muted small" x="659" y="646">possono cambiare piano</text>
+  </g>
+  <g data-safe-box="1090 555 330 118 8" data-safe-name="Integrita pubblica">
+    <rect class="softGreen" x="1090" y="555" width="330" height="118" rx="20"/>
+    <rect x="1090" y="555" width="10" height="118" rx="5" fill="#2F7D5A"/>
+    <text class="ink label" x="1114" y="591">Integrita pubblica</text>
+    <text class="muted small" x="1114" y="623">imparzialita, conflitto</text>
+<text class="muted small" x="1114" y="646">riservatezza e ruolo</text>
+  </g>
+  <g data-safe-box="245 815 1110 54 14" data-safe-name="nota">
+    <rect class="note" x="245" y="815" width="1110" height="54" rx="18"/>
+    <text class="ink body" x="800" y="850" text-anchor="middle">La risposta forte separa illecito, tributo, reato e dovere di comportamento.</text>
+  </g>
+
+</svg>

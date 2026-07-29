@@ -1,6 +1,6 @@
 # ConcorsoBook OS Index
 
-Aggiornato: 2026-07-20T10:20:00+02:00
+Aggiornato: 2026-07-22T00:00:00+02:00
 
 ## Sources
 - [[sources/vol-04-dossier-redazionale-giustizia-upp]]
@@ -21,11 +21,24 @@ Aggiornato: 2026-07-20T10:20:00+02:00
 - [[sources/ccnl-area-funzioni-locali-2022-2024-aran]]
 - [[sources/legge-177-2024-sicurezza-stradale-codice-strada]]
 - [[sources/legge-65-1986-polizia-locale]]
+- [[sources/verifica-ufficiale-m-fl04-01-2026-07-23]]
+- [[sources/verifica-ufficiale-m-fl04-02-2026-07-23]]
+- [[sources/verifica-ufficiale-m-fl04-04-2026-07-22]]
+- [[sources/verifica-ufficiale-m-fl04-05-2026-07-23]]
+- [[sources/verifica-ufficiale-m-fl04-09-2026-07-23]]
+- [[sources/verifica-ufficiale-m-fl04-10-2026-07-23]]
+- [[sources/verifica-ufficiale-m-fl04-11-2026-07-23]]
+- [[sources/verifica-ufficiale-m-fl04-12-2026-07-23]]
+- [[sources/verifica-ufficiale-m-fl04-13-2026-07-23]]
+- [[sources/verifica-ufficiale-m-fl04-14-2026-07-23]]
+- [[sources/verifica-ufficiale-m-fl04-08-2026-07-23]]
 - [[sources/codice-strada-d-lgs-285-1992-dpr-495-1992]]
 - [[sources/edilizia-urbanistica-dpr-380-2001]]
 - [[sources/legge-56-2014-province-citta-metropolitane]]
+- [[sources/verifica-ufficiale-m-fl02-10-2026-07-22]]
 - [[sources/legge-5-giugno-2003-n-131-attuazione-titolo-v]]
 - [[sources/servizi-pubblici-locali-d-lgs-201-2022]]
+- [[sources/d-lgs-19-agosto-2016-n-175-societa-partecipazione-pubblica]]
 - [[sources/servizi-demografici-elettorali-anagrafe-stato-civile]]
 - [[sources/servizi-sociali-educativi-enti-locali]]
 - [[sources/suap-commercio-polizia-amministrativa-locale]]
@@ -34,7 +47,12 @@ Aggiornato: 2026-07-20T10:20:00+02:00
 - [[sources/ministero-interno-dait-anpr-finanza-locale]]
 - [[sources/camere-commercio-registro-imprese-m-fl03]]
 - [[sources/ordinamento-camere-commercio-legge-580-1993-dlgs-219-2016]]
+- [[sources/verifica-ufficiale-m-fl03-01-2026-07-22]]
 - [[sources/registro-imprese-rea-pubblicita-legale-dpr-581-1995]]
+- [[sources/verifica-ufficiale-m-fl03-02-2026-07-22]]
+- [[sources/verifica-ufficiale-m-fl03-03-2026-07-22]]
+- [[sources/verifica-ufficiale-m-fl03-04-2026-07-22]]
+- [[sources/verifica-ufficiale-m-fl03-05-2026-07-23]]
 - [[sources/servizi-imprese-regolazione-mercato-camere-commercio]]
 - [[sources/agid-catalogo-linee-guida-cad-e-domicilio-digitale]]
 - [[sources/agid-linee-guida-sulla-formazione-gestione-e-conservazione-dei-documenti-informatici]]
@@ -403,6 +421,7 @@ Aggiornato: 2026-07-20T10:20:00+02:00
 - [[books/vol-04-giustizia-upp/front-matter/06-indice]]
 - [[books/vol-04-giustizia-upp/modules/01-m-fc04-frontespizio-sommario]]
 - [[books/vol-04-giustizia-upp/planning/01-indice-dettagliato-volume-moduli-v4]]
+- [[books/vol-04-giustizia-upp/planning/02-matrice-copertura-didattica]]
 - [[books/vol-02-enti-locali-polizia-locale/index]]
 - [[books/vol-02-enti-locali-polizia-locale/front-matter/01-servizi-digitali]]
 - [[books/vol-02-enti-locali-polizia-locale/front-matter/02-frontespizio]]
@@ -416,6 +435,12 @@ Aggiornato: 2026-07-20T10:20:00+02:00
 - [[books/vol-02-enti-locali-polizia-locale/modules/04-m-fl03-frontespizio-sommario-da-validare]]
 - [[books/vol-02-enti-locali-polizia-locale/planning/00-piano-editoriale]]
 - [[books/vol-02-enti-locali-polizia-locale/planning/01-indice-dettagliato-volume-moduli-v4]]
+- [[books/vol-02-enti-locali-polizia-locale/planning/02-matrice-copertura-didattica]]
+- [[reviews/review-vol-02-copertura-didattica-integrale-2026-07-22]]
+- [[reviews/review-vol-02-editorial-revision-2026-07-24]]
+- [[reviews/review-vol-02-verifica-automatica-2026-07-24]]
+- [[sources/verifica-automatica-vol-02-2026-07-24]]
+- [[reviews/review-vol-04-copertura-didattica-integrale-2026-07-22]]
 - [[books/vol-02-enti-locali-polizia-locale/chapters/01-come-usare-vol-02-insieme-a-vol-01]]
 - [[books/il-metodo-bando/assets/chapter-01/README]]
 - [[books/il-metodo-bando/assets/chapter-02/README]]
@@ -697,6 +722,18 @@ Aggiornato: 2026-07-20T10:20:00+02:00
 - Raw sources restano immutabili in `raw/`.
 - I capitoli devono essere generati da source summaries, topic pages ed entity pages.
 - Ogni ingest deve appenderne traccia in `log.md`.
+
+## VOL-05 — Authority e regolazione
+
+- [[sources/vol-05-dossier-editoriale-authority-regolazione-v4]]
+- [[sources/vol-05-bandi-authority-2022-2025]]
+- [[sources/authority-indipendenti-leggi-istitutive]]
+- [[sources/regolazione-ue-digitale-e-finanziaria-vol-05]]
+- [[topics/authority-indipendenti-regolazione]]
+- [[topics/concorrenza-servizi-comunicazioni-regolati]]
+- [[topics/vigilanza-finanziaria-privacy-integrita]]
+- [[books/vol-05-authority-regolazione/index]]
+- [[reviews/vol-05-source-ready-audit-2026-07-24]]
 
 
 ## VOL-03 - Ricostruzione 2026
