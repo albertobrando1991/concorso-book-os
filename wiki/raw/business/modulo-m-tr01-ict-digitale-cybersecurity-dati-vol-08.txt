@@ -1,0 +1,247 @@
+Modulo M-TR01 – ICT, digitale, cybersecurity e dati (VOL-08)
+0. Decisione editoriale di volume
+
+VOL-08 è un volume monomodulo: contiene M-TR01 – ICT/digitale/cyber/dati. La matrice lo associa a programmazione, basi dati, reti, sistemi, cloud, cybersecurity, AI/ML, CAD e privacy, con appendici su ISO 27001, ITIL/COBIT, procurement ICT e NIS2.
+
+Il workflow seguito è quello obbligatorio in 6 fasi: perimetro, bandi, materie, copertura, decisione editoriale, compatibilità commerciale.
+
+FASE 1 – Perimetro modulo
+Campo	Decisione
+Famiglia	Trasversali Alta Specializzazione
+Codice	M-TR01
+Volume	VOL-08 – ICT, digitale, cybersecurity e dati
+Cluster	ICT/digitale/cyber, applicabile a ministeri, enti centrali, enti locali, università, sanità, enti pubblici e strutture tecniche PA
+Profili matrice	1. Funzionario ICT PA; 2. Cybersecurity specialist; 3. Data/AI specialist; 4. Cloud/sistemi/DevOps
+Priorità	Altissima per Funzionario ICT PA; Alta per Cybersecurity e Data/AI; Media per Cloud/sistemi/DevOps
+Materie base solo richiamate	B-PA06 contratti pubblici base; B-PA07 privacy/CAD/trasparenza digitale; B-PA08 inglese; B-PA09 informatica base; B-PA10 logica/situazionali; B-PA11 casi pratici base
+Esclusi	Appalti/PNRR avanzati → VOL-09; tecnico-ingegneristico → VOL-10; ambiente/protezione civile → VOL-11; carriere speciali → VOL-12
+Regola delta content	Il volume non spiega Office, PEC, SPID, CAD e sicurezza informatica elementare da zero: li richiama dal VOL-01 e sviluppa il livello specialistico ICT
+
+La matrice distingue chiaramente le materie base B-PA06, B-PA07 e B-PA09 da non duplicare: contratti pubblici base, privacy/CAD/cybersecurity di base e informatica di base restano nel VOL-01.
+
+FASE 2 – Campione bandi
+2.1 Stato matrice
+Dato	Stato
+URL canonici già mappati per M-TR01	1
+Target matrice	6
+Gap	5
+Stato operativo	Da espandere a 5–6 bandi ufficiali
+
+Il gap è quindi alto: le frequenze non vanno presentate come statistiche robuste.
+
+2.2 Campione di lavoro
+#	Fonte	Profilo/area	Stato
+1	MIT-FUNZ / Formez	Funzionario ICT/digitale, programmazione, basi dati, reti, OS, cyber, cloud, AI/ML, procurement ICT	Matrice
+2	PCM – Dipartimento Trasformazione Digitale, 130 unità	Specialista scientifico-tecnologico e specialista comunicazione/sistemi informatici	Web integrativo [DA VERIFICARE]
+3	ACN, 90 esperti tecnico-scientifici	Cloud/edge, AI, ispezioni cyber, crittografia, rischio cyber, threat analysis, data analysis	Web integrativo [DA VERIFICARE]
+4	Università di Firenze	Funzionario tecnico-informatico, profilo cybersecurity	Web integrativo [DA VERIFICARE]
+5	Provincia di Massa Carrara	Funzionario informatico	Web integrativo [DA VERIFICARE]
+6	Università Piemonte Orientale	Collaboratore tecnico-informatico / supporto ICT	Web integrativo [DA VERIFICARE]
+
+Decisione: i bandi web colmano operativamente il gap, ma non sono ancora nella matrice. Vanno inseriti nel prossimo aggiornamento del file 09 [DA VERIFICARE].
+
+FASE 3 – Materie estratte
+Materia normalizzata	Fonte matrice	Profili interessati	Evidenza bandi	Frequenza
+Fondamenti informatica specialistica	Col. 6 M-TR01	Funzionario ICT PA	MIT-FUNZ	1/1 matrice; non robusta
+Programmazione e algoritmi	Col. 6 M-TR01 + M-FC01 ICT	Funzionario ICT PA	MIT-FUNZ	1/1 matrice; da validare
+SQL/NoSQL e basi dati	Col. 6 M-TR01	ICT, Data/AI	MIT-FUNZ; ACN data analysis [DA VERIFICARE]	Non calcolabile robustamente
+Reti e sistemi operativi	Col. 6 M-TR01	ICT, Cyber, Cloud/DevOps	MIT-FUNZ	1/1 matrice; da validare
+Ingegneria software, API, interoperabilità	Col. 6 M-TR01	ICT, Data/AI	MIT-FUNZ; PCM-DTD [DA VERIFICARE]	Non calcolabile robustamente
+Cloud, virtualizzazione, container, backup, business continuity	Col. 6 M-TR01	Cloud/DevOps, ICT	ACN cloud/edge [DA VERIFICARE]	Non calcolabile robustamente
+Cybersecurity, risk assessment, incident response	Col. 6 M-TR01	Cyber, ICT, Cloud	ACN, UniFi cybersecurity [DA VERIFICARE]	Non calcolabile robustamente
+IAM, crittografia, logging, compliance	Col. 6/7 M-TR01	Cybersecurity specialist	ACN crittografia/rischio cyber [DA VERIFICARE]	Non calcolabile robustamente
+Data governance, qualità dati, API	Col. 6 M-TR01	Data/AI specialist	ACN data analysis; PCM-DTD [DA VERIFICARE]	Non calcolabile robustamente
+AI/ML, etica, modelli, rischi	Col. 6 M-TR01	Data/AI specialist, ICT	ACN AI; PCM-DTD [DA VERIFICARE]	Non calcolabile robustamente
+ITIL/COBIT/ISO 27001	Col. 7 M-TR01	Cyber, Cloud, ICT	Appendice matrice	Appendice, non frequenza
+Procurement ICT	Col. 5/6 come applicazione	ICT, Cyber, Cloud	MIT-FUNZ	Parziale; rinvio VOL-09 per appalti avanzati
+Delta oltre matrice
+AI Act UE, legge italiana IA, Data Act, Data Governance Act, Interoperable Europe Act, eIDAS 2.0, Cyber Resilience Act: fonti necessarie per aggiornare il volume, ma non tutte sono espresse nella colonna 6 della matrice. Inserire come box/appendici normative, non come nuovi capitoli enciclopedici.
+Regolamento Cloud ACN 2024: fonte operativa forte per cloud PA; da integrare nel capitolo cloud.
+NIS2 italiana: va trattata in appendice cyber e nei casi di incident response.
+FASE 4 – Copertura
+Materia	Stato	Collocazione
+Diritto amministrativo generale	COPERTA-BASE B-PA02	Solo richiamo VOL-01
+Contratti pubblici base	COPERTA-BASE B-PA06	Richiamo; casi ICT solo applicativi
+Privacy, CAD, trasparenza digitale	COPERTA-BASE B-PA07	Delta: architetture, dati, interoperabilità, sicurezza
+Informatica base	COPERTA-BASE B-PA09	Richiamo; il volume parte dal livello specialistico
+Programmazione, algoritmi, SQL/NoSQL	COPERTA-MODULO	Capitoli 3–4
+Reti, OS, infrastrutture	COPERTA-MODULO	Capitolo 5
+API, interoperabilità, ingegneria software	COPERTA-MODULO	Capitolo 6
+Cloud, DevOps, business continuity	COPERTA-MODULO	Capitolo 7 + appendice
+Cybersecurity, risk, incident response	COPERTA-MODULO	Capitoli 8–9 + appendice
+Data governance e AI/ML	COPERTA-MODULO	Capitoli 10–11 + appendice
+ISO 27001, ITIL, COBIT	APPENDICE-MODULO	Appendice B
+Procurement ICT	PARZIALE	Capitolo 12; rinvio VOL-09 per gare e appalti avanzati
+Appalti/PNRR/procurement avanzato	FUORI-PERIMETRO	VOL-09 / M-TR02
+Tecnica ingegneristica infrastrutturale	FUORI-PERIMETRO	VOL-10 / M-TR03
+Cyber operativo di corpi speciali	FUORI-PERIMETRO	VOL-12 se concorso speciale
+FASE 5 – Decisioni di collocazione
+Capitoli principali
+Mappa del funzionario ICT nella PA.
+Informatica specialistica per concorsi ICT.
+Programmazione e algoritmi.
+Basi dati, SQL/NoSQL e qualità dati.
+Reti, sistemi operativi e infrastrutture.
+Ingegneria software, API e interoperabilità.
+Cloud PA, virtualizzazione, container e DevOps.
+Cybersecurity operativa e gestione del rischio.
+IAM, crittografia, logging e incident response.
+Data governance, interoperabilità e open data.
+AI/ML nella PA e compliance algoritmica.
+Procurement ICT e gestione fornitori.
+Laboratorio prove ICT: quiz, scritto tecnico, orale e casi.
+Appendici
+
+A. Glossario ICT/cyber/dati per concorsi PA.
+B. ISO 27001, NIST CSF, ITIL e COBIT in chiave concorsuale.
+C. NIS2 e incident response: schede operative.
+D. Cloud PA e DevOps: checklist tecnica.
+E. Data/AI compliance: AI Act, Data Act, interoperabilità.
+F. Piano 30/60/90 giorni per profili ICT.
+
+Rinvii
+Tema	Rinvio
+CAD, privacy, SPID, PEC, firma digitale base	VOL-01, B-PA07
+Informatica di base / Office / sicurezza elementare	VOL-01, B-PA09
+Appalti pubblici avanzati, RUP, e-procurement	VOL-09, M-TR02
+Lavori pubblici, BIM tecnico, infrastrutture fisiche	VOL-10, M-TR03
+Ambiente, sostenibilità digitale, energia/clima	VOL-11, M-TR04
+Carriere speciali con prove fisiche/attitudinali	VOL-12
+FASE 6 – Scheda compatibilità commerciale
+Pacchetto	Per chi	Comprare
+STANDARD	Funzionario ICT PA, funzionario informatico, profili digitali in ministeri, enti locali, università, sanità, enti pubblici	VOL-01 + VOL-08
+VERTICALE	Bandi molto specialistici su cyber, AI/data, cloud/DevOps, ACN o strutture digitali centrali	VOL-01 + VOL-08 + appendice verticale del profilo dentro VOL-08
+PREMIUM	Non previsto dalla matrice per M-TR01; possibile solo se il concorso è dentro carriere speciali o authority premium	[DA VERIFICARE] caso per caso
+
+Non serve comprare: VOL-02, VOL-03, VOL-04, VOL-05, VOL-06, VOL-07, VOL-10, VOL-11, VOL-12.
+VOL-09 serve solo se il profilo è principalmente appalti/procurement/PNRR, non se il bando contiene solo contratti ICT come materia accessoria.
+
+OUTPUT A – Mappa Fonti Specialistiche
+1. Normativa primaria di settore
+Fonte	Uso editoriale	Delta rispetto al VOL-01
+D.L. 21 settembre 2019, n. 105 – Perimetro di sicurezza nazionale cibernetica	Sicurezza nazionale cyber, sistemi essenziali, obblighi e architettura di sicurezza	Specialistica cyber; non materia base
+D.L. 14 giugno 2021, n. 82 – ACN	Architettura nazionale di cybersicurezza e istituzione ACN	Fonte cardine per capitoli cyber/incident response
+D.Lgs. 4 settembre 2024, n. 138 – recepimento NIS2	Obblighi NIS, gestione rischio, notifiche, poteri ACN	Appendice cyber obbligatoria
+D.Lgs. 8 novembre 2021, n. 200 – open data e riuso informazione settore pubblico	Dati aperti, riuso, cataloghi, dataset pubblici	Capitolo data governance
+Reg. UE 2024/903 – Interoperable Europe Act	Interoperabilità dei servizi pubblici digitali	Capitolo API/interoperabilità
+Reg. UE 2024/1183 – eIDAS 2.0	European Digital Identity Wallet, identità digitale europea	Box identità digitale avanzata
+Reg. UE 2023/2854 – Data Act	Accesso e uso equo dei dati	Appendice Data/AI
+Reg. UE 2022/868 – Data Governance Act	Data sharing, data altruism, spazi dati comuni	Capitolo data governance
+Reg. UE 2024/1689 – AI Act	Regole armonizzate sull’intelligenza artificiale	Capitolo AI/ML e compliance
+Reg. UE 2024/2847 – Cyber Resilience Act	Requisiti cyber per prodotti con elementi digitali	Box supply chain e sicurezza prodotti ICT
+
+Fonti già nel VOL-01 da non duplicare: CAD, GDPR/Codice privacy, D.Lgs. 36/2023, cybersecurity base, informatica base, contratti pubblici base. Cfr. VOL-01, B-PA06/B-PA07/B-PA09 e catalogo fonti base.
+
+2. Normativa secondaria e regolamenti
+Fonte	Uso
+Regolamento Cloud per la PA – ACN, Decreto Direttoriale n. 21007/2024	Classificazione, migrazione, qualificazione servizi cloud PA; capitolo cloud e appendice D
+Procedura ACN di qualificazione e adeguamento cloud	Requisiti fornitori, infrastrutture PA, validità qualifiche, processo telematico
+Determinazioni e specifiche ACN NIS2	Incident response, misure di sicurezza, soggetti NIS; appendice C
+Piano Triennale per l’informatica nella PA 2024–2026, aggiornamento 2026	Cornice operativa per trasformazione digitale, once only, servizi, piattaforme, sicurezza
+Linee guida AgID sull’interoperabilità tecnica	API, e-service, Modello di Interoperabilità, standard tecnici
+Linee guida AgID design siti e servizi digitali PA	UX, accessibilità, linguaggio, architettura informativa, usabilità
+3. Contrattazione collettiva
+Fonte	Uso
+CCNL Funzioni Centrali 2022–2024	Per ministeri, PCM, enti centrali e profili ICT in amministrazioni centrali; aggiornamento rispetto al CCNL 2019–2021 censito nel file base
+CCNL del comparto dell’ente reclutante	Funzioni Locali, Istruzione/Ricerca, Sanità o comparti speciali se il profilo ICT è incardinato in quegli enti
+Contrattazione integrativa	Famiglie professionali ICT, profili tecnici, progressioni, lavoro agile, formazione digitale
+
+Nota editoriale: aggiornare il file 04, perché il catalogo base richiama ancora il CCNL Funzioni Centrali 2019–2021 come riferimento principale.
+
+4. Soft law e linee guida
+Fonte	Uso
+Strategia Nazionale di Cybersicurezza ACN	Scenario, resilienza, priorità nazionali, PA e PNRR cyber
+AgID – Piano Triennale ICT PA	Roadmap didattica per servizi digitali, interoperabilità, dati, cloud, sicurezza
+AgID – Linee guida interoperabilità	Capitolo API, e-service, modello di interoperabilità
+Designers Italia / linee guida design PA	Casi su servizi digitali user-centered
+ACN – Regolamento cloud e qualificazione	Capitolo cloud PA
+ACN – linee guida incidenti NIS2	Capitolo incident response
+NIST Cybersecurity Framework 2.0	Lessico di governance, risk management e controlli
+OWASP Top 10 e OWASP API Security Top 10	Vulnerabilità web/API e secure coding
+5. Giurisprudenza rilevante
+Fonte	Uso editoriale
+Consiglio di Stato, sez. VI, n. 2270/2019	Conoscibilità dell’algoritmo e principi dell’azione amministrativa
+Consiglio di Stato, sez. VI, n. 8472/2019	Utilizzo di algoritmi nel procedimento amministrativo e trasparenza tecnica
+Consiglio di Stato, sez. III, n. 7891/2021	Distinzione tra algoritmo e intelligenza artificiale in contesto di gara
+
+Gap: la matrice non censisce ancora giurisprudenza specifica su data breach PA, appalti ICT, responsabilità cyber e accesso a codice/algoritmi. Da integrare in fase redazionale [DA VERIFICARE].
+
+6. Fonti operative
+Fonte	Uso
+inPA	Bandi e profili ICT aggiornati
+Formez/RIPAM	Concorsi ministeriali, profili tecnici e digitali
+ACN	Cyber, NIS2, cloud, qualificazione, concorsi specialistici
+AgID	Linee guida, Piano Triennale, interoperabilità, servizi digitali
+Developers Italia / Designers Italia	Standard pratici per servizi digitali, API, design system
+dati.gov.it / cataloghi open data	Esempi per capitolo data governance
+IPA / Indice PA	Esempi su enti, domini, domicili digitali, interoperabilità
+7. Bandi-tipo dalla matrice + Fase 2
+ID	Fonte	Uso
+MIT-FUNZ	Bando Formez MIT funzionari	Fonte matrice per profili ICT/digitale
+PCM-DTD	130 unità Dipartimento Trasformazione Digitale	Bando web da acquisire nel file 09 [DA VERIFICARE]
+ACN-90	90 esperti tecnico-scientifici ACN	Bando forte per cyber, AI, cloud, data [DA VERIFICARE]
+UNIFI-CYBER	Funzionario tecnico-informatico cybersecurity	Bando verticale cyber [DA VERIFICARE]
+MASSA-ICT	Funzionario informatico Funzioni Locali	Bando utile per profilo ICT in ente locale [DA VERIFICARE]
+UPO-ICT	Collaboratore tecnico-informatico	Bando utile per profilo tecnico ICT universitario [DA VERIFICARE]
+8. Manualistica e dottrina
+Area	Fonti consigliate
+Cyber governance	NIST CSF 2.0; ISO/IEC 27001 [standard ufficiale da acquisire]
+Web/API security	OWASP Top 10 2025; OWASP API Security Top 10 2023
+Programmazione	Python official docs per esempi didattici essenziali
+Cloud/DevOps	Documentazione ACN cloud; concetti base container, CI/CD, backup, business continuity
+Data/AI	AI Act, Data Act, Data Governance Act, Interoperable Europe Act
+IT governance	ITIL/COBIT come glossario operativo; fonti ufficiali da acquisire [DA VERIFICARE]
+OUTPUT B – Indice del libro di testo
+Frontmatter standard
+Sezione	Contenuto
+Titolo	VOL-08 – ICT, digitale, cybersecurity e dati
+Modulo	M-TR01
+Target	32.000–34.000 parole; 90–115 pagine equivalenti
+Cross-link obbligatorio	VOL-01: B-PA06, B-PA07, B-PA08, B-PA09, B-PA10, B-PA11
+Promessa	Preparare concorsi ICT/digitali senza trasformare il volume in manuale universitario di informatica
+Metodo	BANDO applicato a profilo tecnico: bando → stack materie → nuclei tecnici → diario errori → output di prova
+Cosa non contiene	Informatica base, Office, CAD base, privacy base, appalti completi, corso completo di programmazione
+Bando-tipo	MIT-FUNZ + PCM-DTD/ACN da consolidare
+Piano	30/60/90 giorni specialistico
+Capitoli – target 27.500 parole
+#	Capitolo	Parole	Materia matrice	Profili interessati	Frequenza bandi	Output tipici
+1	Lavorare come ICT nella PA: ruoli, enti, prove	1.800	Profilo ICT/digitale/cyber	Tutti	1/1 matrice + web da validare	Mappa profili, Bando Decoder ICT
+2	Informatica specialistica: cosa serve oltre il VOL-01	2.000	Fondamenti informatica	ICT PA	1/1 matrice	Checklist competenze tecniche
+3	Programmazione, algoritmi e strutture dati	2.500	Programmazione; algoritmi	ICT PA	1/1 matrice	Esercizi pseudocodice, quiz guidati
+4	Basi dati, SQL/NoSQL e qualità del dato	2.500	SQL/NoSQL; data modeling	ICT PA, Data/AI	1/1 matrice; ACN data [DA VERIFICARE]	Query, schema dati, errori SQL
+5	Reti, sistemi operativi e infrastrutture	2.500	Reti; OS; sistemi	ICT, Cyber, Cloud	1/1 matrice	Mappa protocolli, casi troubleshooting
+6	Ingegneria software, API e interoperabilità PA	2.400	Ingegneria software; API; interoperabilità	ICT, Data/AI	1/1 matrice; PCM-DTD [DA VERIFICARE]	Disegno API, caso e-service
+7	Cloud PA, virtualizzazione, container e DevOps	2.500	Cloud; container; backup; BC	Cloud/DevOps, ICT	ACN web [DA VERIFICARE]	Checklist migrazione cloud
+8	Cybersecurity operativa: rischio, controlli, vulnerabilità	2.600	Cybersecurity; risk assessment	Cyber, ICT	ACN/UniFi web [DA VERIFICARE]	Risk matrix, controlli minimi
+9	IAM, crittografia, logging e incident response	2.400	IAM; crittografia; logging; compliance	Cyber	ACN web [DA VERIFICARE]	Playbook incidente, timeline notifica
+10	Data governance, open data, interoperabilità e qualità	2.300	Data governance; qualità dati; API	Data/AI	ACN data + DTD [DA VERIFICARE]	Data inventory, scheda dataset
+11	AI/ML nella PA: modelli, rischi, compliance	2.400	AI/ML; etica; data governance	Data/AI, ICT	ACN AI [DA VERIFICARE]	Griglia rischio AI, caso algoritmo
+12	Procurement ICT e gestione fornitori	1.800	Appalti ICT; contratti ICT	ICT, Cyber, Cloud	1/1 matrice	Checklist capitolato ICT; rinvio VOL-09
+13	Laboratorio prove ICT: quiz, scritto, orale, casi	2.300	Output specialistici	Tutti	Ricorrente nei bandi, non quantificato	8 casi, simulazione orale, diario errori
+Appendici – target 5.800 parole
+Appendice	Titolo	Parole	Motivazione matrice	Output
+A	Glossario ICT/cyber/dati per concorsi PA	900	Manuale ICT PA	150 termini tecnici
+B	ISO 27001, NIST CSF, ITIL e COBIT in 20 schede	1.100	Appendice cyber / cloud	Tavole di controllo
+C	NIS2 e incident response	1.000	NIS2 ove richiesta	Timeline incidente, obblighi, ruoli
+D	Cloud PA e DevOps checklist	900	Appendice cloud e sistemi	Checklist cloud, backup, continuità
+E	Data/AI compliance	1.000	Appendice dati e AI	AI Act, Data Act, dataset, bias
+F	Piano 30/60/90 giorni ICT	900	Metodo BANDO specialistico	Calendario studio e prove
+
+Target complessivo: 33.300 parole.
+
+Checklist finale v4
+ Matrice file 09 usata come fonte primaria.
+ Workflow file 08 seguito in tutte le 6 fasi.
+ Fonti base non duplicate.
+ Materie B-PA solo richiamate.
+ Principio delta content rispettato.
+ Capitoli tracciati ai profili M-TR01.
+ Appendici motivate da colonna 7 o da fonti specialistiche.
+ Campione bandi dichiarato.
+ Gap bandi dichiarato: 1/6 matrice, gap 5.
+ Frequenze non inventate; campione non robusto esplicitato.
+ Rinvii coerenti a VOL-01, VOL-09, VOL-10, VOL-11, VOL-12.
+ Pacchetto commerciale indicato.
+ “Cosa NON comprare” presente.
+ Dati incerti marcati [DA VERIFICARE].
+ Output A e Output B completi.

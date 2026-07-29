@@ -6,25 +6,25 @@ status: revised_draft
 domain: "concorsi pubblici italiani"
 topics: ["bando decoder","agenzie fiscali","prove concorsuali","profili agenzie fiscali"]
 entities: ["Metodo BANDO","Agenzia delle Entrate","Agenzia delle Dogane e dei Monopoli","Agenzia delle Entrate-Riscossione"]
-source_refs: ["sources/m-fc02-dossier-redazionale-agenzie-fiscali.md","sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026.md","sources/agenzie-fiscali-organizzazione-ae-adm-ader.md"]
+source_refs: ["sources/m-fc02-dossier-redazionale-agenzie-fiscali.md","sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026.md","sources/agenzie-fiscali-organizzazione-ae-adm-ader.md","sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md"]
 book_refs: ["m-fc02-agenzie-fiscali","il-metodo-bando"]
 confidence: 0.88
-updated_at: 2026-07-02T19:10:00+02:00
+updated_at: 2026-07-28T21:10:00+02:00
 created_at: 2026-07-01T21:00:00+02:00
 review_required: true
 canonical: true
 tags: ["book-chapter","module-code-m-fc02","professional-draft","revised-draft"]
 book_id: m-fc02-agenzie-fiscali
 outline_section: 2
-draft_stage: professional-draft
+draft_stage: revised-editorial-draft
 module_code: M-FC02
 module_family: funzioni-centrali
-last_compiled_from: ["wiki/topics/bando-decoder-fiscale.md","wiki/topics/profili-agenzie-fiscali.md","wiki/sources/m-fc02-dossier-redazionale-agenzie-fiscali.md","wiki/sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026.md","wiki/sources/agenzie-fiscali-organizzazione-ae-adm-ader.md","wiki/entities/agenzia-delle-entrate.md","wiki/entities/agenzia-delle-dogane-e-dei-monopoli.md","wiki/entities/agenzia-entrate-riscossione.md","wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md","wiki/books/il-metodo-bando/chapters/appendice-c-template-bando-decoder.md"]
+last_compiled_from: ["wiki/topics/bando-decoder-fiscale.md","wiki/topics/profili-agenzie-fiscali.md","wiki/sources/m-fc02-dossier-redazionale-agenzie-fiscali.md","wiki/sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026.md","wiki/sources/agenzie-fiscali-organizzazione-ae-adm-ader.md","wiki/sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md","wiki/entities/agenzia-delle-entrate.md","wiki/entities/agenzia-delle-dogane-e-dei-monopoli.md","wiki/entities/agenzia-entrate-riscossione.md","wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md","wiki/books/il-metodo-bando/chapters/appendice-c-template-bando-decoder.md","wiki/books/moduli/m-fc02-agenzie-fiscali/planning/02-matrice-copertura-didattica.md","wiki/books/volumi/vol-03-fisco-dogane-previdenza-ispettivo/planning/00-piano-editoriale.md","wiki/books/volumi/vol-03-fisco-dogane-previdenza-ispettivo/planning/02-matrice-copertura-didattica.md"]
 ---
 
 # Bando Decoder fiscale
 
-## Specifica struttura madre
+## Orientamento del capitolo
 
 ### Obiettivo
 Trasformare un bando AE, ADM o AdER in piano di studio: codice profilo, prove, materie base, materie M-FC02, materie da rinviare e output di allenamento.
@@ -42,19 +42,19 @@ Scheda Bando Decoder compilabile, griglia priorita, schema "studio subito/studio
 - [[topics/bando-decoder-fiscale]]
 - [[sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026]]
 
-## Scheda di lavoro
+## Dal bando al piano di studio
 
-Questa sezione conserva la traccia tecnica del capitolo. Il testo editoriale seguente sviluppa la scheda in forma di manuale-workbook, usando il Bando Decoder generale del Metodo BANDO e specializzandolo per Agenzia delle Entrate, Agenzia delle Dogane e dei Monopoli e Agenzia delle Entrate-Riscossione.
+Il Bando Decoder generale del Metodo BANDO diventa qui uno strumento specialistico per Agenzia delle Entrate, Agenzia delle Dogane e dei Monopoli e Agenzia delle Entrate-Riscossione. La scheda collega le informazioni del bando alle priorita' di studio e agli output di allenamento.
 
-## Testo editoriale
+## Percorso operativo
 
 ### Apertura editoriale
 
 Il capitolo precedente ti ha dato la mappa delle Agenzie fiscali. Questo capitolo fa un passo ulteriore: prende un bando concreto e lo trasforma in un piano di lavoro.
 
-Nei concorsi fiscali il bando non e' solo un elenco di materie. E' una sequenza di segnali: ente, codice profilo, famiglia professionale, prove, soglie, programma, eventuali allegati, rinvii a portali ufficiali, titoli, sedi, comunicazioni successive. Se questi segnali vengono letti uno alla volta, il candidato accumula informazioni. Se vengono letti con metodo, diventano decisioni.
+Nei concorsi fiscali il bando contiene una sequenza di segnali: ente, codice profilo, famiglia professionale, prove, soglie, programma, eventuali allegati, rinvii a portali ufficiali, titoli, sedi e comunicazioni successive. Letti separatamente, questi dati restano informazioni sparse. Il metodo li trasforma in decisioni.
 
-Il Bando Decoder fiscale serve esattamente a questo. Non sostituisce il bando e non pretende di indovinare il programma. Costringe il candidato a scrivere nero su bianco tre cose: che cosa il bando chiede, che cosa va studiato subito e che cosa deve essere verificato prima di investire tempo o denaro.
+Il Bando Decoder fiscale organizza questo passaggio. Non sostituisce il bando e non pretende di indovinare il programma. Chiede al candidato di fissare per iscritto che cosa il bando richiede, che cosa va studiato subito e quali dati devono essere verificati prima di investire tempo o denaro.
 
 La differenza e' pratica. Un candidato generico legge "diritto tributario" e apre un manuale. Un candidato che usa il Decoder fiscale capisce prima se il profilo e' tributario, territorio/SPI, doganale, riscossione, assistente amministrativo-tributario, tecnico, digitale o fuori perimetro. Solo dopo sceglie materiali, esercizi e calendario.
 
@@ -168,7 +168,7 @@ Segnali di rinvio ad altro modulo:
 | Gare, appalti, procurement, contratti | Fuori perimetro prevalente | Serve M-TR02 o il percorso contratti? |
 | Ingegneria, impianti, logistica tecnica, sicurezza tecnica | Fuori perimetro prevalente | Serve M-TR03 o altro modulo tecnico? |
 
-Questa tabella non sostituisce il bando. Ti impedisce pero' di saltare la domanda decisiva: il codice profilo che cosa seleziona davvero?
+La tabella non sostituisce il bando, ma obbliga a rispondere alla domanda decisiva: che cosa seleziona davvero il codice profilo?
 
 ![Figura 2.2 - Dal codice profilo alla famiglia M-FC02: ente, sigla e programma vanno letti insieme prima di scegliere materiali e moduli.](../assets/chapter-02/02-codice-profilo-famiglia.png)
 
@@ -203,7 +203,7 @@ Questa e' la pagina che impedisce la dispersione.
 | Rinvio M-TR03 | Profili tecnico-ingegneristici puri, impianti, logistica tecnica. | Modulo tecnico come guida. |
 | Rinvio M-FC03 o altro | EPNE non fiscali o funzioni centrali non fiscali. | M-FC02 non e' modulo principale. |
 
-Il punto non e' ridurre lo studio. Il punto e' mettere ogni materia nel posto giusto.
+Lo scopo e' mettere ogni materia nel posto giusto, non ridurre lo studio.
 
 ### Pagina 5 - Griglia priorita
 
@@ -316,7 +316,7 @@ Per Agenzia delle Entrate-Riscossione la parola centrale e' riscossione. Il Deco
 | Rischio | Rispondere come se il profilo fosse accertamento AE. |
 | Output | Mappe procedurali, casi di sportello, risposte brevi su pagamento, rateizzazione e sospensione. |
 
-Nel sottopercorso AdER la preparazione deve essere giuridica e di servizio. La risposta corretta non e' solo quella che conosce la regola, ma quella che sa collocarla in un rapporto ordinato con il contribuente-debitore.
+Nel sottopercorso AdER la preparazione deve essere giuridica e di servizio. Una risposta corretta conosce la regola e sa collocarla in un rapporto ordinato con il contribuente-debitore.
 
 ### Quando M-FC02 non e' il modulo principale
 
@@ -324,7 +324,7 @@ Il Decoder fiscale deve anche dire quando fermarsi.
 
 Se il bando riguarda ICT, cybersecurity, intelligenza artificiale, sistemi informativi o dati, il modulo principale e' digitale. Se riguarda gare, procurement, contratti o PNRR, il modulo principale e' quello su appalti e fondi. Se riguarda ingegneria, impianti o logistica tecnica, il modulo principale e' tecnico. Se riguarda un ente non fiscale e contiene solo una materia tributaria accessoria, M-FC02 non guida il percorso.
 
-Questa decisione non svaluta il modulo. Lo protegge. Un modulo specialistico funziona quando sa riconoscere il proprio campo.
+Riconoscere questi casi mantiene M-FC02 nel suo campo specialistico e impedisce di usarlo come guida per profili di altra natura.
 
 ### Scheda Bando Decoder fiscale
 
@@ -449,6 +449,7 @@ Questo capitolo e' costruito sulle note e sulle pagine consolidate del wiki del 
 - [[sources/m-fc02-dossier-redazionale-agenzie-fiscali]]
 - [[sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026]]
 - [[sources/agenzie-fiscali-organizzazione-ae-adm-ader]]
+- [[sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994]]
 - [[entities/agenzia-delle-entrate]]
 - [[entities/agenzia-delle-dogane-e-dei-monopoli]]
 - [[entities/agenzia-entrate-riscossione]]
