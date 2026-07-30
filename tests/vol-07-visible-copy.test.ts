@@ -62,6 +62,7 @@ describe("VOL-07 visible editorial copy", () => {
     expect(preview.title).toBe("VOL-07 — Sanità amministrativa e professioni sanitarie")
     expect(readerChapters.map((chapter) => [chapter.outlineSection, chapter.title])).toEqual([
       ["4", "Atti, procedimenti e flussi informativi nelle aziende sanitarie"],
+      ["5", "Documentazione sanitaria, accesso, privacy e conservazione"],
       ["1", "Professioni sanitarie: profili, requisiti e prove"],
       ["3", "Discipline professionali: autonomia, responsabilità e deontologia"]
     ])
