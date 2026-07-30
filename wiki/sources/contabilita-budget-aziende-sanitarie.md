@@ -6,25 +6,29 @@ status: processed
 domain: "concorsi pubblici italiani"
 topics: ["contabilità sanitaria", "budget", "programmazione", "NSIS"]
 entities: ["Ministero della Salute", "Azienda sanitaria"]
-source_refs: ["sources/armonizzazione-contabile-enti-territoriali-d-lgs-118-2011", "sources/contabilita-economico-patrimoniale-universita-enti-pubblici"]
+source_refs: ["sources/armonizzazione-contabile-enti-territoriali-d-lgs-118-2011", "sources/contabilita-economico-patrimoniale-universita-enti-pubblici", "sources/flussi-economici-nsis-modelli-ce-sp"]
 book_refs: ["vol-07-sanita-amministrativa-professioni-sanitarie", "m-sa01-sanita-amministrativa"]
 confidence: 0.92
-updated_at: 2026-07-29T16:45:00+02:00
+updated_at: 2026-07-30T15:58:00+02:00
 created_at: 2026-07-29T16:45:00+02:00
 review_required: true
 canonical: true
 tags: ["source", "m-sa01", "contabilita-sanitaria", "budget", "ce", "sp"]
 source_type: official_primary_and_operational_corpus
-source_url: "https://www.salute.gov.it/new/it/tema/programmazione-e-finanziamento-del-ssn/dati-economico-finanziari-regionali/"
-source_date: 2026-07-29
+source_url: "https://www.gazzettaufficiale.it/eli/gu/2019/06/25/147/so/23/sg/pdf"
+source_date: 2019-05-24
 authority_level: primary_official
+raw_path: "wiki/raw/m-sa01-sanita-amministrativa/fonti/dm-24-maggio-2019-modelli-ce-sp-gazzetta.pdf"
+sha256: "4547140D8C2DA08BEE24A18FFFD089E9BBE12E7B11EB4CFA99768FD79FDAAC48"
 ---
 
 # Contabilità, budget e monitoraggio delle aziende sanitarie
 
 ## Fonti consolidate
 
-Il D.Lgs. 23 giugno 2011, n. 118, Titolo II, contiene i principi contabili generali e applicati per il settore sanitario. Il D.Lgs. 502/1992 collega autonomia aziendale, efficacia, efficienza, economicità e vincolo di bilancio. La pagina del Ministero della Salute sui dati economico-finanziari regionali documenta il monitoraggio tramite NSIS e i modelli CE e SP. I relativi snapshot ufficiali sono nel corpus dello step 06.
+Il D.Lgs. 23 giugno 2011, n. 118, Titolo II, contiene i principi contabili generali e applicati per il settore sanitario. Il D.Lgs. 502/1992 collega autonomia aziendale, efficacia, efficienza, economicità e vincolo di bilancio. Per i modelli CE e SP la prova primaria locale è il D.M. 24 maggio 2019 nel PDF verificato della *Gazzetta Ufficiale*; lo snapshot OpenBDAP della Ragioneria generale dello Stato documenta il raccordo operativo con monitoraggio e NSIS. Byte e SHA-256 di entrambe le acquisizioni sono registrati nel manifest M-SA01.
+
+La capture `dati-economico-finanziari-ssn-ministero.html` contiene soltanto una challenge Gcore: il manifest la marca `blocked` e `valid_corpus: false`. È conservata immutabile per audit ma esclusa dalle fonti attive; nessun claim di questa nota dipende da quella pagina.
 
 ## Architettura didattica
 
@@ -34,7 +38,7 @@ Il D.Lgs. 23 giugno 2011, n. 118, Titolo II, contiene i principi contabili gener
 - Trattare conto economico, stato patrimoniale e rendiconto finanziario secondo gli schemi applicabili agli enti del SSN.
 - Presentare i modelli NSIS come flussi standardizzati di rilevazione e monitoraggio, non come sostituti del bilancio aziendale.
 
-La pagina ministeriale indica che il modello CE rileva il conto economico e che dal 2019 la banca dati pubblica include anche dati SP. La source note non attribuisce ai modelli un contenuto ulteriore non verificato nei decreti tecnici pertinenti.
+Il D.M. 24 maggio 2019 adotta gli schemi CE e SP verificati nel fascicolo della Gazzetta. OpenBDAP descrive il CE come flusso trasmesso al NSIS dagli enti del Servizio sanitario regionale e dalla Regione e collega lo SP al monitoraggio patrimoniale. La source note non attribuisce ai modelli contenuti, scadenze o istruzioni ulteriori non verificati nel decreto e nelle fonti tecniche pertinenti.
 
 ## Applicazioni concorsuali
 

@@ -26,6 +26,7 @@ interface RawManifestItem {
   file: string
   bytes: number
   sha256: string
+  url?: string
   status?: string
   valid_corpus?: boolean
   failure?: string
@@ -70,10 +71,7 @@ describe("VOL-07 M-SA01 packaged corpus", () => {
   })
 
   it.each(rawManifests)("matches every file declared by %s", async (manifestPath) => {
-    const manifest = JSON.parse(
-      (await fs.readFile(manifestPath, "utf8")).replace(/^\uFEFF/, "")
-    ) as RawManifestItem[] | { items: RawManifestItem[] }
-    const items = Array.isArray(manifest) ? manifest : manifest.items
+    const items = await readRawManifestItems(manifestPath)
 
     expect(items.length).toBeGreaterThan(0)
 
@@ -84,8 +82,26 @@ describe("VOL-07 M-SA01 packaged corpus", () => {
       expect(raw.byteLength, `${item.file}: bytes`).toBe(item.bytes)
       expect(sha256, `${item.file}: sha256`).toBe(item.sha256.toUpperCase())
 
-      if (raw.subarray(0, 65_536).toString("utf8").includes("<title>Gcore</title>")) {
+      const isChallenge = raw
+        .subarray(0, 65_536)
+        .toString("utf8")
+        .includes("<title>Gcore</title>")
+      const isBlocked =
+        item.status === "blocked" || item.valid_corpus === false || Boolean(item.failure)
+
+      if (isChallenge) {
         expect(item, `${item.file}: challenge status`).toMatchObject({
+          status: "blocked",
+          valid_corpus: false,
+          failure: "gcore_challenge"
+        })
+      }
+
+      if (isBlocked) {
+        expect(isChallenge, `${item.file}: blocked item must be a captured Gcore challenge`).toBe(
+          true
+        )
+        expect(item, `${item.file}: blocked metadata`).toMatchObject({
           status: "blocked",
           valid_corpus: false,
           failure: "gcore_challenge"
@@ -93,7 +109,45 @@ describe("VOL-07 M-SA01 packaged corpus", () => {
       }
     }
   })
+
+  it("keeps blocked captures out of active source notes", async () => {
+    const blockedUrls = new Set<string>()
+
+    for (const manifestPath of rawManifests) {
+      const items = await readRawManifestItems(manifestPath)
+
+      for (const item of items) {
+        if (item.status === "blocked" && item.valid_corpus === false && item.url) {
+          blockedUrls.add(item.url)
+        }
+      }
+    }
+
+    expect(blockedUrls.size).toBeGreaterThan(0)
+
+    for (const sourceRef of essentialChapter04Sources) {
+      const source = parseFrontmatter(await fs.readFile(sourcePath(sourceRef), "utf8"))
+      const sourceUrl = String(source.data.source_url ?? "")
+
+      expect(source.data, `${sourceRef}: active source note`).toMatchObject({
+        status: "processed",
+        canonical: true
+      })
+      expect(
+        blockedUrls.has(sourceUrl),
+        `${sourceRef}: source_url must not reference a blocked raw capture`
+      ).toBe(false)
+    }
+  })
 })
+
+async function readRawManifestItems(manifestPath: string) {
+  const manifest = JSON.parse(
+    (await fs.readFile(manifestPath, "utf8")).replace(/^\uFEFF/, "")
+  ) as RawManifestItem[] | { items: RawManifestItem[] }
+
+  return Array.isArray(manifest) ? manifest : manifest.items
+}
 
 function sourcePath(sourceRef: string) {
   return path.join(wikiRoot, `${sourceRef.replace(/\.md$/i, "")}.md`)

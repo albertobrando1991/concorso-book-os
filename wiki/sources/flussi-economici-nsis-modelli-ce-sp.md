@@ -6,10 +6,10 @@ status: processed
 domain: "concorsi pubblici italiani"
 topics: ["NSIS", "contabilita sanitaria", "modello CE", "modello SP", "monitoraggio economico"]
 entities: ["Ministero della Salute", "Ragioneria generale dello Stato", "Regioni", "Azienda sanitaria"]
-source_refs: ["sources/contabilita-budget-aziende-sanitarie", "sources/armonizzazione-contabile-enti-territoriali-d-lgs-118-2011"]
+source_refs: ["sources/armonizzazione-contabile-enti-territoriali-d-lgs-118-2011"]
 book_refs: ["m-sa01-sanita-amministrativa", "vol-07-sanita-amministrativa-professioni-sanitarie"]
 confidence: 0.95
-updated_at: 2026-07-30T14:40:00+02:00
+updated_at: 2026-07-30T15:58:00+02:00
 created_at: 2026-07-30T14:10:00+02:00
 review_required: true
 canonical: true

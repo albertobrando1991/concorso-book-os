@@ -6,10 +6,10 @@ status: processed
 domain: "concorsi pubblici italiani"
 topics: ["NSIS", "SDO", "assistenza ospedaliera", "qualita del dato"]
 entities: ["Ministero della Salute", "Regioni", "Azienda sanitaria"]
-source_refs: ["sources/procurement-farmaci-dispositivi-flussi-nsis"]
+source_refs: []
 book_refs: ["m-sa01-sanita-amministrativa", "vol-07-sanita-amministrativa-professioni-sanitarie"]
 confidence: 0.96
-updated_at: 2026-07-30T14:40:00+02:00
+updated_at: 2026-07-30T15:58:00+02:00
 created_at: 2026-07-30T14:10:00+02:00
 review_required: true
 canonical: true
