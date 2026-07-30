@@ -25,9 +25,9 @@ last_compiled_from: ["reviews/pipeline/VOL-07/08-piano-capitolo-m-sa01-10", "boo
 
 # Procurement sanitario, farmaci, dispositivi e magazzino
 
-Un acquisto sanitario non termina quando viene scelto il fornitore. Prima occorre capire che cosa serve, in quale quantità, per quale periodo e con quali caratteristiche. Dopo l'affidamento bisogna controllare la consegna, la conformità della prestazione, la disponibilità delle scorte, la fattura e il pagamento. Un errore in uno solo di questi passaggi può produrre spesa inutile, interruzioni del servizio o dati contabili inattendibili.
+Scegliere il fornitore è soltanto una parte dell'acquisto sanitario. Prima occorre capire che cosa serve, in quale quantità, per quale periodo e con quali caratteristiche. Dopo l'affidamento bisogna controllare consegna, conformità della prestazione, scorte, fattura e pagamento. Basta trascurare un passaggio per generare spesa inutile, interruzioni del servizio o dati contabili inattendibili.
 
-Il procurement sanitario applica le regole dei contratti pubblici a fabbisogni che incidono sull'assistenza. Farmaci, dispositivi e altri beni devono essere disponibili quando servono, ma l'esigenza di continuità non elimina programmazione, concorrenza, tracciabilità e controlli. Al contrario, rende più importante prevenire ritardi, specifiche inadeguate, dipendenze da un solo fornitore e scorte non governate.
+Il procurement sanitario applica le regole dei contratti pubblici a fabbisogni che incidono sull'assistenza. Farmaci, dispositivi e altri beni devono essere disponibili quando servono. L'esigenza di continuità non elimina programmazione, concorrenza, tracciabilità e controlli: impone di prevenire ritardi, specifiche inadeguate, dipendenze da un solo fornitore e scorte non governate.
 
 Nei concorsi il candidato può incontrare una domanda teorica, un caso su una fornitura, uno schema di decisione, una tabella di riconciliazione o un rapporto di anomalia. Non basta conoscere i nomi delle fasi. Occorre capire quale informazione nasce in ciascuna fase, chi deve controllarla e quale decisione è consentita dai documenti disponibili.
 
@@ -61,7 +61,7 @@ La sequenza non è sempre rappresentata da uffici o documenti identici. L'organi
 6. il pagamento deve riguardare una prestazione verificata e autorizzata;
 7. ogni anomalia deve lasciare una traccia e ricevere un esito.
 
-Questa catena evita due errori opposti. Il primo è trattare l'acquisto come una serie di firme isolate. Il secondo è immaginare che un unico soggetto possa richiedere, scegliere, ricevere, liquidare e pagare senza controlli reciproci.
+La catena impedisce di ridurre l'acquisto a una serie di firme isolate. Evita inoltre che un unico soggetto possa richiedere, scegliere, ricevere, liquidare e pagare senza controlli reciproci.
 
 ### Mappa BANDO
 
@@ -81,7 +81,7 @@ Questa catena evita due errori opposti. Il primo è trattare l'acquisto come una
 
 Una domanda orale può chiedere di illustrare il ciclo di un acquisto sanitario. Un quesito può verificare la differenza tra aggiudicazione e stipula o tra liquidazione e pagamento. Un caso può presentare una fattura non coerente con la quantità ricevuta. Una prova pratica può chiedere una checklist del RUP, una tabella ordine-consegna-fattura o un breve rapporto al responsabile.
 
-Una risposta completa segue cinque passaggi:
+Per costruire una risposta completa:
 
 1. identifica la fase del ciclo;
 2. definisce la regola o la funzione;
@@ -109,7 +109,7 @@ Un fabbisogno ben costruito contiene almeno:
 
 La quantità non deriva sempre dalla semplice ripetizione dei consumi precedenti. Un consumo storico può includere sprechi, carenze, eventi eccezionali o attività non più previste. La stima deve quindi combinare dati disponibili e programma futuro. Se aumenta l'attività, la previsione deve motivare il collegamento; se diminuisce, occorre verificare che il servizio resti assicurato.
 
-La sostenibilità economica non coincide con il prezzo più basso. Il prezzo è importante, ma la decisione deve considerare ciò che la disciplina e i documenti di gara richiedono: qualità della prestazione, continuità, tempi, condizioni di esecuzione e controllabilità. Non significa attribuire liberamente valore a qualunque preferenza. Significa progettare requisiti e criteri coerenti con il bisogno e applicarli in modo trasparente.
+La sostenibilità economica non coincide con il prezzo più basso. Il prezzo conta, ma la decisione deve considerare quanto richiedono la disciplina e i documenti di gara: qualità della prestazione, continuità, tempi, condizioni di esecuzione e possibilità di controllo. Requisiti e criteri devono essere coerenti con il bisogno e applicati in modo trasparente, non costruiti intorno a preferenze arbitrarie.
 
 ### Continuità, appropriatezza del requisito e rischio
 
@@ -126,9 +126,9 @@ Il rischio va affrontato prima dell'emergenza. Alcuni presidi possibili sono:
 - coordinamento tra unità richiedente, acquisti, magazzino e contabilità;
 - misure previste dagli atti di gara e dal contratto per le criticità di esecuzione.
 
-Non esiste una soluzione identica per ogni bene. Un prodotto a consumo regolare, una tecnologia complessa e un servizio continuativo presentano rischi diversi. Per questo la progettazione deve partire dall'uso effettivo e non da un modello compilato in modo automatico.
+La soluzione cambia con l'oggetto dell'acquisto. Un prodotto a consumo regolare presenta rischi diversi da una tecnologia complessa o da un servizio continuativo. La progettazione deve partire dall'uso effettivo, non da un modello compilato automaticamente.
 
-Un requisito tecnico è appropriato quando è collegato alla funzione richiesta, è formulato in modo verificabile ed è proporzionato. Un requisito superfluo restringe il mercato senza migliorare il risultato. Un requisito vago, al contrario, rende difficile confrontare le offerte e contestare una prestazione inadeguata.
+Un requisito tecnico è appropriato quando è collegato alla funzione richiesta, verificabile e proporzionato. Se è superfluo, restringe il mercato senza migliorare il risultato; se è vago, rende difficile confrontare le offerte e contestare una prestazione inadeguata.
 
 **Errore tipico:** descrivere il prodotto già conosciuto invece del bisogno da soddisfare. Il candidato deve partire da funzione, prestazione, sicurezza, compatibilità e risultato richiesti, evitando caratteristiche arbitrarie o discriminatorie.
 
@@ -148,7 +148,7 @@ La collaborazione non elimina la distinzione delle responsabilità. Un amministr
 | Contabilità | verifica la documentazione del ciclo passivo | non sana una prestazione non eseguita |
 | Tesoreria | esegue il pagamento autorizzato | non decide la regolarità della fornitura |
 
-La distribuzione concreta dei compiti deve risultare dagli atti dell'ente. In prova, se il caso non fornisce abbastanza informazioni, è corretto indicare il soggetto competente in termini funzionali e dichiarare quale atto organizzativo andrebbe verificato.
+Gli atti dell'ente stabiliscono come sono distribuiti i compiti. Se la traccia non offre informazioni sufficienti, il candidato può indicare la funzione competente e precisare quale atto organizzativo occorrerebbe verificare.
 
 > **Da sapere in 5 righe**
 >
@@ -175,13 +175,13 @@ Una scheda essenziale può rispondere a queste domande:
 | Dato | Quali consumi, scorte o previsioni sostengono la stima? |
 | Controllo | Come sarà verificato il risultato? |
 
-La motivazione deve rendere leggibile il passaggio tra dato e decisione. «Si acquista perché il materiale sta finendo» è debole. Una formulazione più solida indica giacenza rilevata, consumo medio riferito a un periodo, attività prevista, consegne già programmate e rischio di interruzione.
+La motivazione deve mostrare come si passa dal dato alla decisione. «Si acquista perché il materiale sta finendo» dice troppo poco. Occorrono la giacenza rilevata, il consumo medio riferito a un periodo, l'attività prevista, le consegne già programmate e il rischio di interruzione.
 
 Il dato deve essere controllabile. Se la quantità viene estratta da un sistema, bisogna conoscere periodo, unità di misura e perimetro. Se più unità usano lo stesso bene, occorre evitare duplicazioni. Se sono presenti prodotti sostitutivi, il fabbisogno deve spiegare come vengono considerati.
 
 ### Programmare e progettare la fornitura
 
-La programmazione colloca l'acquisto nel tempo e lo coordina con risorse e priorità. Il D.Lgs. 36/2023 disciplina la programmazione dei lavori e degli acquisti, con rinvio agli allegati applicabili. Nel manuale non è utile memorizzare una soglia destinata a cambiare senza conoscere la data del bando; è invece indispensabile capire la funzione della programmazione: evitare acquisti improvvisati, frammentati o incoerenti con i bisogni.
+La programmazione colloca l'acquisto nel tempo e lo coordina con risorse e priorità. Il D.Lgs. 36/2023 disciplina la programmazione dei lavori e degli acquisti, con rinvio agli allegati applicabili. Memorizzare una soglia destinata a cambiare, senza conoscere la data del bando, serve a poco. Bisogna capire la funzione della programmazione: evitare acquisti improvvisati, frammentati o incoerenti con i bisogni.
 
 La progettazione definisce la prestazione che l'amministrazione vuole ottenere. Per una fornitura sanitaria può comprendere:
 
@@ -204,9 +204,9 @@ La suddivisione in lotti, quando pertinente, serve a organizzare l'oggetto dell'
 
 Nel Codice del 2023 il RUP è il **responsabile unico del progetto**. L'articolo 15 e l'Allegato I.2 ne inquadrano funzioni e requisiti. La formula è importante: non si tratta di un mero addetto alla firma, ma di una figura che presidia il progetto nelle fasi rilevanti secondo la disciplina applicabile.
 
-Il carattere «unico» non significa che il RUP esegua ogni attività. Può operare con strutture di supporto e con altri responsabili o direttori previsti. Nel procurement sanitario questa collaborazione è essenziale, perché il progetto può richiedere competenze tecniche, cliniche, logistiche, informatiche e contabili.
+La parola «unico» non assegna al RUP ogni attività. Il RUP può operare con strutture di supporto e con gli altri responsabili o direttori previsti. Negli acquisti sanitari questa collaborazione è spesso necessaria, perché il progetto può richiedere competenze tecniche, cliniche, logistiche, informatiche e contabili.
 
-In una risposta concorsuale è utile distinguere:
+Nella risposta conviene tenere distinti:
 
 - **coordinamento**, che mantiene unitaria la gestione del progetto;
 - **istruttoria**, che raccoglie e valuta gli elementi necessari;
@@ -215,7 +215,7 @@ In una risposta concorsuale è utile distinguere:
 - **controllo dell'esecuzione**, che verifica la prestazione;
 - **controllo contabile**, che presidia il ciclo passivo.
 
-Un conflitto o un'interferenza non si risolve dichiarando genericamente che «decide il RUP». Si identificano il fatto, la competenza, gli obblighi applicabili e il soggetto titolare della decisione.
+La formula generica «decide il RUP» non risolve conflitti o interferenze. Bisogna identificare il fatto, la competenza, gli obblighi applicabili e il titolare della decisione.
 
 ### Decisione di contrarre, affidamento e stipula
 
@@ -225,7 +225,7 @@ L'**affidamento** è il percorso con cui viene selezionato l'operatore economico
 
 L'**aggiudicazione** individua l'esito della selezione secondo le regole applicabili. La **stipula** conclude il contratto nella forma prevista. Confondere i due momenti porta a ritenere che ogni rapporto contrattuale sia già perfezionato con la sola aggiudicazione.
 
-Il capitolato e gli altri documenti definiscono ciò che l'operatore dovrà eseguire. Una specifica tecnica chiara agevola sia il confronto delle offerte sia il controllo successivo. Una specifica ambigua può produrre contestazioni perché il risultato atteso non è misurabile.
+Il capitolato e gli altri documenti definiscono ciò che l'operatore dovrà eseguire. Una specifica tecnica chiara permette di confrontare le offerte e, in seguito, di controllare la prestazione. Se la specifica è ambigua, anche il risultato atteso diventa difficile da misurare.
 
 ### Digitalizzazione e tracciabilità
 
@@ -236,7 +236,7 @@ Il ciclo dei contratti pubblici è digitalizzato. Il Codice disciplina l'ecosist
 - il **CIG** identifica il contratto ai fini previsti;
 - la **piattaforma di approvvigionamento digitale** gestisce attività e scambi del ciclo secondo le regole tecniche.
 
-Dal 1° gennaio 2024 l'acquisizione del CIG avviene, di regola, tramite piattaforme certificate interoperabili con la BDNCP. In prova, tuttavia, non bisogna ridurre la digitalizzazione all'ottenimento di un codice. Il punto centrale è la gestione coerente dei dati lungo programmazione, affidamento, esecuzione, pubblicità e controllo.
+Dal 1° gennaio 2024 l'acquisizione del CIG avviene, di regola, tramite piattaforme certificate interoperabili con la BDNCP. La digitalizzazione, però, non si esaurisce nell'ottenimento di un codice. Riguarda la coerenza dei dati durante programmazione, affidamento, esecuzione, pubblicità e controllo.
 
 La tracciabilità ha almeno tre dimensioni:
 
@@ -244,13 +244,13 @@ La tracciabilità ha almeno tre dimensioni:
 2. **documentale**, perché atti, comunicazioni e controlli devono essere reperibili;
 3. **informativa**, perché i dati trasmessi devono essere coerenti con il contratto reale.
 
-Un sistema digitale non rende corretto un dato errato. Automatizzare una quantità sbagliata accelera l'errore. Perciò restano necessari controlli su completezza, qualità, autorizzazione e coerenza.
+Un sistema digitale non corregge da solo un dato errato. Se automatizza una quantità sbagliata, accelera l'errore. Servono comunque controlli su completezza, qualità, autorizzazione e coerenza.
 
 ## Dalla stipula all'esecuzione
 
 ### Ordine o avvio dell'esecuzione
 
-La stipula non esaurisce il procurement. Il risultato pubblico si realizza quando la prestazione viene eseguita correttamente. Il D.Lgs. 36/2023 collega affidamento ed esecuzione e disciplina direzione, controllo, collaudo o verifica di conformità secondo il tipo di contratto.
+Con la stipula il lavoro non è finito. Il risultato pubblico si realizza quando la prestazione viene eseguita correttamente. Il D.Lgs. 36/2023 collega affidamento ed esecuzione e disciplina direzione, controllo, collaudo o verifica di conformità secondo il tipo di contratto.
 
 L'avvio dell'esecuzione deve essere coerente con il contratto. Nelle forniture articolate, l'ordine può specificare quantità, luogo e tempo della singola consegna entro le condizioni contrattuali. Il documento di ordine non deve modificare liberamente oggetto, prezzo o condizioni.
 
@@ -282,7 +282,7 @@ Firmare senza riserva un documento che non corrisponde alla realtà indebolisce 
 
 La **conformità** riguarda la corrispondenza tra prestazione dovuta e prestazione eseguita. Può coinvolgere quantità, qualità, tempi, documenti e requisiti tecnici. Chi controlla deve conoscere il criterio di confronto. Non è sufficiente scrivere «merce conforme» se non è chiaro a quale ordine, lotto contrattuale o specifica ci si riferisca.
 
-La contestazione deve essere tempestiva, documentata e collegata ai fatti. Una comunicazione efficace contiene:
+La contestazione deve essere tempestiva, documentata e collegata ai fatti. Deve indicare:
 
 - contratto e ordine;
 - consegna interessata;
@@ -349,7 +349,7 @@ I dispositivi medici possono essere oggetto di programmazione, acquisto, ricevim
 
 Non deve invece inventare classificazioni, campi di flussi nazionali, procedure di vigilanza o regole tecniche non fornite dal caso o dalla disciplina richiesta dal bando. Questi elementi possono cambiare e richiedono riferimenti istituzionali aggiornati.
 
-Il metodo corretto è:
+Di fronte a una discrepanza, occorre:
 
 1. identificare il bene e il contratto;
 2. verificare ciò che i documenti richiedono;
@@ -375,7 +375,7 @@ La giacenza informatica non è necessariamente la quantità immediatamente utili
 - prossimi alla scadenza;
 - non disponibili per altre ragioni documentate.
 
-Perciò è utile distinguere giacenza registrata, quantità disponibile e quantità utilizzabile secondo le regole pertinenti.
+Conviene quindi distinguere la giacenza registrata dalla quantità disponibile e da quella utilizzabile secondo le regole pertinenti.
 
 Lotto e scadenza possono essere necessari per ricostruire la movimentazione e gestire anomalie. Il capitolo non stabilisce una procedura universale di conservazione o rotazione. In un caso concorsuale il candidato deve:
 
@@ -434,7 +434,7 @@ Negli enti piccoli non ogni funzione corrisponde a un ufficio separato. Se la se
 
 ### Contratto o ordine, consegna e fattura
 
-Il ciclo passivo comprende i passaggi che conducono dal rapporto contrattuale al pagamento e alla registrazione del debito e del costo secondo il sistema applicabile. Il suo presidio centrale è la riconciliazione tra ciò che è stato autorizzato, ciò che è stato eseguito e ciò che viene richiesto in pagamento.
+Il ciclo passivo conduce dal rapporto contrattuale al pagamento e alla registrazione del debito e del costo secondo il sistema applicabile. La riconciliazione confronta ciò che è stato autorizzato, ciò che è stato eseguito e ciò che il fornitore chiede di pagare.
 
 I documenti rispondono a domande diverse:
 
@@ -450,7 +450,7 @@ I documenti rispondono a domande diverse:
 | Mandato o disposizione di pagamento | Quale somma è autorizzata al pagamento? |
 | Esito di tesoreria | Quale pagamento è stato effettivamente eseguito? |
 
-La presenza della fattura non dimostra da sola la regolare esecuzione. La presenza di una consegna non dimostra che la quantità fatturata sia corretta. L'ordine, a sua volta, non prova che il bene sia arrivato.
+La fattura non dimostra da sola la regolare esecuzione; la consegna non conferma automaticamente la quantità fatturata; l'ordine non prova che il bene sia arrivato.
 
 La riconciliazione confronta almeno:
 
@@ -465,13 +465,13 @@ La riconciliazione confronta almeno:
 - esito della conformità;
 - importo fatturato.
 
-Se un elemento non coincide, il sistema deve produrre un'eccezione da gestire. L'eccezione non significa sempre illecito o errore del fornitore. Può derivare da ordine modificato, consegna parziale, errore di registrazione, unità di misura incoerente, reso o nota di credito. Deve però ricevere un esito documentato.
+Quando un elemento non coincide, nasce un'eccezione da gestire. La causa può essere un ordine modificato, una consegna parziale, un errore di registrazione, un'unità di misura incoerente, un reso o una nota di credito. Non si presume un illecito, ma l'esito deve essere documentato.
 
 ### Liquidazione e pagamento
 
 La **liquidazione** è il passaggio in cui l'amministrazione, sulla base dei documenti e delle verifiche richieste, determina l'importo riconoscibile al creditore e autorizza la prosecuzione del ciclo secondo le competenze applicabili. Il **pagamento** è l'esecuzione dell'uscita finanziaria.
 
-Confondere le due fasi porta a trascurare il controllo precedente al pagamento. Una fattura formalmente corretta può essere sospesa se la prestazione non è stata verificata o se presenta una discrepanza. Al contrario, una prestazione regolare non può essere pagata senza il percorso documentale e contabile previsto.
+Confondere le due fasi porta a trascurare il controllo precedente al pagamento. Una fattura formalmente corretta può essere sospesa se la prestazione non è stata verificata o presenta una discrepanza. Anche una prestazione regolare deve seguire il percorso documentale e contabile previsto.
 
 Prima della liquidazione si verificano, secondo il caso:
 
@@ -514,7 +514,7 @@ Ogni anomalia va collegata a un controllo:
 
 La pista documentale deve consentire di passare in entrambe le direzioni: dalla fattura al contratto e dal contratto ai pagamenti. Se un documento non è collegato agli altri, il controllo diventa manuale, lento e incerto.
 
-Una buona gestione dell'anomalia segue questa sequenza:
+La gestione dell'anomalia comprende:
 
 1. rilevare;
 2. bloccare cautelativamente il passaggio incompatibile con l'incertezza;
@@ -561,11 +561,11 @@ La terza è **contabile-documentale**: la fattura richiede il pagamento di 36.00
 
 La quarta è **gestionale**: la consegna incompleta e la segregazione dei 1.000 kit possono incidere sulla continuità.
 
-È importante non confondere i livelli. La fattura non rende inesistente la mancata consegna. La presenza fisica dei 1.000 kit non ne prova la conformità. La comunicazione del fornitore non sostituisce l'aggiornamento formale dell'esecuzione.
+I quattro livelli vanno tenuti separati. La fattura non cancella la mancata consegna; la presenza fisica dei 1.000 kit non ne prova la conformità; la comunicazione del fornitore non sostituisce l'aggiornamento formale dell'esecuzione.
 
 ### Controlli e calcoli
 
-Il primo controllo riguarda contratto e ordine:
+Si parte da contratto e ordine:
 
 - il prezzo unitario è 8,20 euro?
 - l'ordine è valido e autorizzato?
@@ -573,14 +573,14 @@ Il primo controllo riguarda contratto e ordine:
 - sono previste consegne parziali e con quali conseguenze?
 - chi è competente per la verifica di conformità?
 
-Il secondo controllo riguarda ricevimento e tracciabilità:
+Poi si controllano ricevimento e tracciabilità:
 
 - quantità fisica e documento di consegna coincidono?
 - lotto e scadenza sono registrati correttamente?
 - i 1.000 kit sono separati e non distribuiti?
 - il carico distingue quantità disponibile e quantità in verifica?
 
-Il terzo controllo riguarda la fattura:
+Infine si esamina la fattura:
 
 - quantità e prezzo coincidono con prestazione verificata?
 - la fattura può essere regolarizzata o deve essere gestita secondo il percorso previsto?
