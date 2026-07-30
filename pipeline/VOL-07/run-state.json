@@ -3,7 +3,7 @@
   "specPath": "books/volumi/vol-07-sanita-amministrativa-professioni-sanitarie/planning/00-scheda-pipeline.md",
   "specHash": "sha256:101570f27357cb1cb2db6e24e150eb304f69d643fc68b62fdac8c70a36bb7081",
   "createdAt": "2026-07-28T12:27:05.417Z",
-  "updatedAt": "2026-07-30T11:19:03.666Z",
+  "updatedAt": "2026-07-30T11:41:56.666Z",
   "steps": [
     {
       "key": "00:VOL-07",
@@ -493,9 +493,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-sa01-sanita-amministrativa/chapters/04-atti-procedimenti-flussi-informativi.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T11:30:36.680Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-30T11:41:56.666Z"
     },
     {
       "key": "10:moduli/m-sa01-sanita-amministrativa/chapters/04-atti-procedimenti-flussi-informativi.md",
