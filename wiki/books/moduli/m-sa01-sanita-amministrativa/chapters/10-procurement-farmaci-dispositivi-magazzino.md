@@ -49,7 +49,7 @@ Al termine del capitolo saprai:
 
 La sequenza di riferimento è:
 
-**fabbisogno → programmazione → progettazione della fornitura → decisione di contrarre → affidamento → stipula → esecuzione → ordine → consegna → ricevimento e controllo → carico e tracciabilità → fattura → liquidazione → pagamento → riconciliazione e monitoraggio**.
+**fabbisogno → programmazione → progettazione della fornitura → decisione di contrarre → affidamento → stipula → ordine o avvio dell'esecuzione → consegna → ricevimento e controllo → carico e tracciabilità → fattura → riconciliazione → liquidazione → pagamento → monitoraggio**.
 
 La sequenza non è sempre rappresentata da uffici o documenti identici. L'organizzazione concreta dipende dall'ente, dal contratto e dal bene. La logica di controllo, però, rimane stabile:
 

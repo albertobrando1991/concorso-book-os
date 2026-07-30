@@ -67,4 +67,4 @@ Atti e procedimenti aziendali; documentazione, accesso e conservazione; front-of
 - [[sources/procurement-farmaci-dispositivi-flussi-nsis]].
 
 ## Testo editoriale
-Lo step 07 è superato e i cinque target della fase C sono autorizzati. I capitoli 04, 05 e 06 hanno completato gli step 08-12. I capitoli 09 e 10 non sono ancora scritti; nessun capitolo è congelato o pubblicabile e le review dello step 15 restano aperte.
+Lo step 07 è superato e i cinque target della fase C hanno completato gli step 08-12. I capitoli 04, 05, 06, 09 e 10 dispongono di testo, controllo di copertura, Humanizer e revisione editoriale. Nessun capitolo è congelato o pubblicabile: le review indipendenti previste prima del congelamento restano aperte.

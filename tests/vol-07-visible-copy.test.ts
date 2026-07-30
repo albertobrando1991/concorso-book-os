@@ -65,6 +65,7 @@ describe("VOL-07 visible editorial copy", () => {
       ["5", "Documentazione sanitaria, accesso, privacy e conservazione"],
       ["6", "Front-office e comunicazione con l'utenza sanitaria"],
       ["9", "Contabilità, budget e controllo di gestione nelle aziende sanitarie"],
+      ["10", "Procurement sanitario, farmaci, dispositivi e magazzino"],
       ["1", "Professioni sanitarie: profili, requisiti e prove"],
       ["3", "Discipline professionali: autonomia, responsabilità e deontologia"]
     ])
