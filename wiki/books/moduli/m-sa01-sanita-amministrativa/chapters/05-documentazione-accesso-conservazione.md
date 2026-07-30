@@ -527,7 +527,7 @@ Con gli elementi disponibili, il rilascio va sospeso in attesa dell'integrazione
 5. reperire la documentazione senza alterarla;
 6. esaminare dati di terzi e limiti;
 7. assumere una decisione motivata;
-8. predisporre la copia conforme all'esito;
+8. predisporre la copia secondo l'esito adottato;
 9. utilizzare un canale previsto e adeguato;
 10. registrare consegna, ricevuta o mancato ritiro;
 11. gestire e conservare il fascicolo della richiesta.
