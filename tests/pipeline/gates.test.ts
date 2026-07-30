@@ -85,12 +85,22 @@ Spiega la distinzione in cinque righe.`
     "Come spiegato nella source note consolidata, il perimetro e completo.",
     "Le fonti consolidate confermano questa distinzione.",
     "Il corpus M-FC02 mostra una ricorrenza.",
-    "Consulta la dashboard e il report interno."
+    "Consulta la dashboard e il report interno.",
+    "La risposta si trova nella dashboard.",
+    "I dettagli sono nella wiki.",
+    "La soluzione è descritta nel report.",
+    "Il procedimento è illustrato sulla dashboard.",
+    "Per la verifica si rimanda al report."
   ])("blocks the editorial dependency %s from the reader body", (sentence) => {
     expect(codes(chapter(`${validBody}\n\n${sentence}`))).toContain("editorial-dependency")
   })
-  it("does not treat a non-dependent mention of a wiki as an editorial dependency", () => {
-    expect(chapter(`${validBody}\n\nUna wiki e un sito collaborativo modificabile dagli utenti.`).passed).toBe(true)
+  it.each([
+    "Una wiki e un sito collaborativo modificabile dagli utenti.",
+    "La dashboard è uno strumento che sintetizza indicatori.",
+    "Un report è un documento strutturato che presenta risultati.",
+    "In una dashboard, i grafici possono sintetizzare gli indicatori."
+  ])("does not treat the encyclopedic mention %s as an editorial dependency", (sentence) => {
+    expect(chapter(`${validBody}\n\n${sentence}`).passed).toBe(true)
   })
   it.each([
     ["obiettivo", "## Obiettivo del capitolo\n\nIl candidato comprende il perimetro e sa applicarlo in prova.\n\n"],

@@ -31,6 +31,7 @@ const EDITORIAL_DEPENDENCIES = [
   /\bfont(?:e|i) consolidat(?:a|e)\b/i,
   /\bcorpus\s+(?:m-[a-z0-9-]+|auditato|interno|editoriale|dei bandi)\b/i,
   /\b(?:consulta|consultare|consultate|consulti|vedi|si\s+veda|si\s+consulti|rinvia|si\s+rinvia|accedi|fare\s+riferimento|fai\s+riferimento)\b[^.!?\n]{0,120}\b(?:wiki|dashboard|report\s+intern[oaie])\b/i,
+  /\b(?:nel(?:la|le|lo)?|nell['’]|sul(?:la|le|lo)?|sull['’]|al(?:la|le|lo)?|all['’]|dal(?:la|le|lo)?|dall['’]|in)\s+(?:wiki|dashboard|report(?:\s+intern[oaie])?)\b/i,
   /\breport\s+intern[oaie]\b/i
 ]
 
