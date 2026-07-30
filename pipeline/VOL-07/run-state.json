@@ -3,7 +3,7 @@
   "specPath": "books/volumi/vol-07-sanita-amministrativa-professioni-sanitarie/planning/00-scheda-pipeline.md",
   "specHash": "sha256:fb90e085031206512bce3867d92c4ebeafd4005634cbdf82354d4c7824ab750e",
   "createdAt": "2026-07-28T12:27:05.417Z",
-  "updatedAt": "2026-07-30T17:23:00.097Z",
+  "updatedAt": "2026-07-30T17:29:45.832Z",
   "steps": [
     {
       "key": "00:VOL-07",
@@ -573,9 +573,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-sa01-sanita-amministrativa/chapters/05-documentazione-accesso-conservazione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T17:25:06.267Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-sa01-sanita-amministrativa/chapters/05-documentazione-accesso-conservazione.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Verifica manuale completata: piano presente in 08-piano-capitolo-m-sa01-05.md; nucleo matrice mappato con teoria, applicazione, output, verifica, fonti e review; confini VOL-01/cap.04/cap.06 espliciti; target capitolo assente come richiesto; 34 test mirati superati. Gate chapter-plan non automatizzato."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-07-30T17:29:45.832Z"
     },
     {
       "key": "09:moduli/m-sa01-sanita-amministrativa/chapters/05-documentazione-accesso-conservazione.md",
