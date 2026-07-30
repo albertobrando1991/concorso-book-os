@@ -71,6 +71,10 @@ const GENERIC_TECHNICAL_LIST = new RegExp(
   String.raw`\b(?:leggere|gestire|creare|produrre|stampare|presentare)\b[^.!?\n]{0,120}(?:,\s*${INTERNAL_TOOL_TOKEN}\b|\be\s+${INTERNAL_TOOL_TOKEN}\b)`,
   "i"
 )
+const GENERIC_TOOL_PROVIDER = new RegExp(
+  String.raw`^\s*(?:[-+>|#]\s*)*${INTERNAL_TOOL_TARGET}\s+(?:contiene|contengono|mostra|mostrano|raccoglie|raccolgono)\s+(?:dati\s+riepilogativi|risultati\s+aggregati|informazioni\s+collegate)\s*$`,
+  "i"
+)
 
 const DIDACTIC_SECTIONS = [
   { label: "obiettivo didattico", pattern: /\b(?:obiettiv[oi]|risultati? di apprendimento)\b/i },
@@ -196,7 +200,10 @@ function isInsideFence(lines: string[], index: number) {
 
 function hasInternalToolDependency(body: string) {
   return normalizeInlineMarkdown(body)
-    .split(/(?:[.!?;]+|\n+)/)
+    .replace(/^\s*#{1,6}\s+(.+)$/gm, "$1.")
+    .replace(/^\s*(?:[-+>]|\d+[.)])\s+/gm, "")
+    .replace(/\s*\n+\s*/g, " ")
+    .split(/[.!?;]+/)
     .map((sentence) => sentence.trim())
     .filter(Boolean)
     .some(isInternalToolDependency)
@@ -210,7 +217,7 @@ function isInternalToolDependency(sentence: string) {
     INTERNAL_TOOL_COMMAND.test(sentence) ||
     INTERNAL_TOOL_REFERRAL.test(sentence) ||
     INTERNAL_CONTENT_LOCATION.test(sentence) ||
-    INTERNAL_TOOL_PROVIDER.test(sentence) ||
+    (INTERNAL_TOOL_PROVIDER.test(sentence) && !isGenericToolContext(sentence)) ||
     (INTERNAL_CONTENT.test(sentence) && !isGenericToolContext(sentence))
   )
 }
@@ -220,7 +227,8 @@ function isGenericToolContext(sentence: string) {
     GENERIC_TOOL_DEFINITION.test(sentence) ||
     GENERIC_TOOL_SUBJECT.test(sentence) ||
     GENERIC_TOOL_LABEL.test(sentence) ||
-    GENERIC_TECHNICAL_LIST.test(sentence)
+    GENERIC_TECHNICAL_LIST.test(sentence) ||
+    GENERIC_TOOL_PROVIDER.test(sentence)
   )
 }
 

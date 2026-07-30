@@ -119,7 +119,15 @@ Spiega la distinzione in cinque righe.`
     "Apri la `wiki` per leggere i dettagli.",
     "Il criterio è spiegato nel **report**.",
     "La risposta si trova nella `dashboard`.",
-    "La soluzione è nella [dashboard](https://example.test/cruscotto)."
+    "La soluzione è nella [dashboard](https://example.test/cruscotto).",
+    "Sulla dashboard sono disponibili le risposte.",
+    "Nel report sono raccolti i dati.",
+    "Dentro la dashboard sono presenti i dettagli.",
+    "La dashboard interna contiene le istruzioni.",
+    "Il report di revisione contiene i risultati.",
+    "La dashboard rende disponibili i risultati.",
+    "La wiki ospita le istruzioni.",
+    "La risposta è disponibile qui:\n\n- nella dashboard."
   ])("blocks the editorial dependency %s from the reader body", (sentence) => {
     expect(codes(chapter(`${validBody}\n\n${sentence}`))).toContain("editorial-dependency")
   })
@@ -141,6 +149,9 @@ Spiega la distinzione in cinque righe.`
     "Con il termine report si indica un documento riepilogativo.",
     "Le dashboard consentono di sintetizzare gli indicatori.",
     "Un database consente di creare maschere e report.",
+    "Un report contiene dati riepilogativi.",
+    "Una dashboard mostra risultati aggregati.",
+    "La wiki raccoglie informazioni collegate.",
     "leggere testi, istruzioni, dashboard e documentazione",
     "gestire dati strutturati in tabelle, query, maschere e report"
   ])("does not treat the encyclopedic mention %s as an editorial dependency", (sentence) => {
