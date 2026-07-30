@@ -26,9 +26,11 @@ interface RawManifestItem {
   file: string
   bytes: number
   sha256: string
+  url?: string
   status?: string
   valid_corpus?: boolean
   failure?: string
+  note?: string
 }
 
 describe("VOL-07 matrix source graph package", () => {
@@ -83,9 +85,10 @@ describe("VOL-07 matrix source graph package", () => {
     expect(issues).toEqual([])
   })
 
-  it("matches path, bytes, SHA-256 and status for every packaged raw item", async () => {
+  it("matches every raw item and excludes Gcore captures from active sources", async () => {
     const tracked = trackedFiles()
     const issues: string[] = []
+    const blockedOrChallengeUrls = new Set<string>()
 
     for (const corpusRoot of rawCorpusRoots) {
       const absoluteCorpusRoot = path.join(wikiRoot, corpusRoot)
@@ -154,6 +157,30 @@ describe("VOL-07 matrix source graph package", () => {
           if (sha256 !== item.sha256.toUpperCase()) {
             issues.push(`${rawRelativePath}: SHA-256 mismatch`)
           }
+
+          const isGcoreChallenge = raw
+            .subarray(0, 65_536)
+            .toString("utf8")
+            .includes("<title>Gcore</title>")
+
+          if ((isGcoreChallenge || status === "blocked") && item.url) {
+            blockedOrChallengeUrls.add(item.url)
+          }
+          if (isGcoreChallenge && status !== "blocked") {
+            issues.push(`${label}: Gcore payload is not blocked`)
+          }
+          if (
+            isGcoreChallenge &&
+            (item.valid_corpus !== false || item.failure !== "gcore_challenge")
+          ) {
+            issues.push(`${label}: Gcore payload lacks exclusion metadata`)
+          }
+          if (isGcoreChallenge && !/Gcore/i.test(item.note ?? "")) {
+            issues.push(`${label}: Gcore payload lacks an audit note`)
+          }
+          if (status === "blocked" && !isGcoreChallenge) {
+            issues.push(`${label}: blocked metadata does not match a Gcore payload`)
+          }
         }
       }
 
@@ -166,6 +193,17 @@ describe("VOL-07 matrix source graph package", () => {
         if (!manifestFiles.has(relativePath) && !declaredFiles.has(relativePath)) {
           issues.push(`${relativePath}: corpus file not declared by a manifest`)
         }
+      }
+    }
+
+    for (const sourceRef of await reachableMatrixSourceRefs()) {
+      const sourcePath = path.join(wikiRoot, `${sourceRef}.md`)
+      const source = parseFrontmatter(await fs.readFile(sourcePath, "utf8"))
+      if (source.data.status !== "processed") continue
+
+      const sourceUrl = String(source.data.source_url ?? "")
+      if (sourceUrl && blockedOrChallengeUrls.has(sourceUrl)) {
+        issues.push(`${sourceRef}: active source_url points to a blocked capture`)
       }
     }
 
@@ -208,6 +246,27 @@ function sourceWikilinks(content: string) {
 
 function normalizeSourceRef(sourceRef: string) {
   return sourceRef.trim().replace(/^wiki\//, "").replace(/\.md$/i, "")
+}
+
+async function reachableMatrixSourceRefs() {
+  const queuedRefs: string[] = []
+  const visitedRefs = new Set<string>()
+
+  for (const matrixPath of matrixPaths) {
+    const content = await fs.readFile(path.join(wikiRoot, matrixPath), "utf8")
+    queuedRefs.push(...declaredSourceRefs(content), ...sourceWikilinks(content))
+  }
+
+  while (queuedRefs.length > 0) {
+    const sourceRef = normalizeSourceRef(queuedRefs.shift() ?? "")
+    if (!sourceRef || visitedRefs.has(sourceRef)) continue
+    visitedRefs.add(sourceRef)
+
+    const content = await fs.readFile(path.join(wikiRoot, `${sourceRef}.md`), "utf8")
+    queuedRefs.push(...declaredSourceRefs(content))
+  }
+
+  return visitedRefs
 }
 
 async function readRawManifestItems(manifestPath: string) {
