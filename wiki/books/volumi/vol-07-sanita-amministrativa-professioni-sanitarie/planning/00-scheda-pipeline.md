@@ -23,9 +23,21 @@ La prima inizializzazione abilita soltanto le fasi A e B: inquadramento, fonti, 
 | Codice | Module id | Priorita | Fasi |
 | --- | --- | --- | --- |
 | M-SA02 | moduli/m-sa02-professioni-sanitarie | 1 | A,B |
-| M-SA01 | moduli/m-sa01-sanita-amministrativa | 2 | A,B |
+| M-SA01 | moduli/m-sa01-sanita-amministrativa | 2 | A,B,C |
 | M-SA03 | moduli/m-sa03-dirigenza-medica-sanitaria | 3 | A,B |
 | M-SA04 | moduli/m-sa04-tecnici-sanitari-prevenzione | 4 | A,B |
+
+## Capitoli M-SA01
+
+| # | File | Matrice | Stato atteso | Note |
+| --- | --- | --- | --- | --- |
+| 04 | chapters/04-atti-procedimenti-flussi-informativi.md | planning/02-matrice-copertura-didattica.md | completo | Atti e procedimenti aziendali; flussi informativi sanitari |
+| 05 | chapters/05-documentazione-accesso-conservazione.md | planning/02-matrice-copertura-didattica.md | completo | Documentazione sanitaria, accesso, privacy, FSE, dossier e conservazione |
+| 06 | chapters/06-front-office-comunicazione-utenza.md | planning/02-matrice-copertura-didattica.md | completo | Front-office, comunicazione, reclami, accessibilità e riservatezza |
+| 09 | chapters/09-contabilita-budget-controllo-gestione.md | planning/02-matrice-copertura-didattica.md | completo | Contabilità economico-patrimoniale, budget e controllo di gestione |
+| 10 | chapters/10-procurement-farmaci-dispositivi-magazzino.md | planning/02-matrice-copertura-didattica.md | completo | Procurement sanitario, farmaci, dispositivi, magazzino e ciclo passivo |
+
+La fase C di M-SA01 procede progressivamente dal capitolo 04; le review dello step 15 restano obbligatorie. Nessun capitolo M-SA01 è dichiarato già scritto.
 
 I capitoli sono derivati dagli scaffold presenti in `<module id>/chapters/`. In questa fase la pipeline incontra soltanto `00-piano-editoriale.md`: non autorizza la generazione di capitoli specialistici senza fonti consolidate.
 
