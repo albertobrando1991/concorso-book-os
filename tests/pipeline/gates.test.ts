@@ -86,19 +86,39 @@ Spiega la distinzione in cinque righe.`
     "Le fonti consolidate confermano questa distinzione.",
     "Il corpus M-FC02 mostra una ricorrenza.",
     "Consulta la dashboard e il report interno.",
+    "Consulta un report.",
     "La risposta si trova nella dashboard.",
+    "La risposta si trova dentro la dashboard.",
     "I dettagli sono nella wiki.",
+    "I dettagli sono nei report.",
+    "Le risposte sono nelle wiki.",
     "La soluzione è descritta nel report.",
     "Il procedimento è illustrato sulla dashboard.",
-    "Per la verifica si rimanda al report."
+    "Gli esiti sono sui report.",
+    "La procedura rimanda alle dashboard.",
+    "I dati provengono dai report.",
+    "Il candidato accede ai dati attraverso la wiki.",
+    "La verifica avviene tramite il report.",
+    "Per la verifica si rimanda al report.",
+    "Il report interno contiene i dati.",
+    "La dashboard riporta i risultati."
   ])("blocks the editorial dependency %s from the reader body", (sentence) => {
     expect(codes(chapter(`${validBody}\n\n${sentence}`))).toContain("editorial-dependency")
   })
   it.each([
-    "Una wiki e un sito collaborativo modificabile dagli utenti.",
+    "Una wiki è un sito collaborativo modificabile dagli utenti.",
     "La dashboard è uno strumento che sintetizza indicatori.",
+    "La dashboard è uno strumento che riporta i risultati.",
+    "La wiki è una raccolta di pagine collaborative.",
+    "Il report è un documento che presenta risultati.",
     "Un report è un documento strutturato che presenta risultati.",
-    "In una dashboard, i grafici possono sintetizzare gli indicatori."
+    "Una dashboard può sintetizzare gli indicatori.",
+    "Un report confronta risultati di periodi diversi.",
+    "Le wiki sono siti collaborativi.",
+    "Le dashboard sono strumenti di visualizzazione.",
+    "I report sono documenti strutturati.",
+    "In una dashboard, i grafici possono sintetizzare gli indicatori.",
+    "In una wiki, le voci possono essere collegate tra loro."
   ])("does not treat the encyclopedic mention %s as an editorial dependency", (sentence) => {
     expect(chapter(`${validBody}\n\n${sentence}`).passed).toBe(true)
   })

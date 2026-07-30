@@ -29,11 +29,19 @@ const PLACEHOLDERS = [
 const EDITORIAL_DEPENDENCIES = [
   /\bsource notes?\b/i,
   /\bfont(?:e|i) consolidat(?:a|e)\b/i,
-  /\bcorpus\s+(?:m-[a-z0-9-]+|auditato|interno|editoriale|dei bandi)\b/i,
-  /\b(?:consulta|consultare|consultate|consulti|vedi|si\s+veda|si\s+consulti|rinvia|si\s+rinvia|accedi|fare\s+riferimento|fai\s+riferimento)\b[^.!?\n]{0,120}\b(?:wiki|dashboard|report\s+intern[oaie])\b/i,
-  /\b(?:nel(?:la|le|lo)?|nell['’]|sul(?:la|le|lo)?|sull['’]|al(?:la|le|lo)?|all['’]|dal(?:la|le|lo)?|dall['’]|in)\s+(?:wiki|dashboard|report(?:\s+intern[oaie])?)\b/i,
-  /\breport\s+intern[oaie]\b/i
+  /\bcorpus\s+(?:m-[a-z0-9-]+|auditato|interno|editoriale|dei bandi)\b/i
 ]
+
+const INTERNAL_TOOL = /\b(?:wiki|dashboard|report)\b/i
+const INTERNAL_REPORT = /\breport\s+intern[oaie]\b/i
+const INTERNAL_TOOL_REFERRAL =
+  /\b(?:consulta|consultare|consultate|consulti|vedi|si\s+veda|si\s+consulti|rinvia|si\s+rinvia|rimanda|rimandare|si\s+rimanda|accedi|accedere|fare\s+riferimento|fai\s+riferimento)\b/i
+const INTERNAL_TOOL_DEFINITION =
+  /^\s*(?:[-*>#]+\s*)?(?:(?:(?:la\s+(?:wiki|dashboard)|il\s+report)\s+(?:è|e')\s+(?:un|uno|una)\b)|(?:(?:le\s+(?:wiki|dashboard)|i\s+report)\s+sono\s+(?:siti|strumenti|documenti|raccolte|piattaforme|pannelli)\b))/i
+const INTERNAL_TOOL_DEFINITE = /\b(?:(?:la|le)\s+(?:wiki|dashboard)|(?:il|i)\s+report)\b/i
+const INTERNAL_TOOL_LOCATION =
+  /\b(?:(?:nel|nella|nello|nei|nelle|sul|sulla|sullo|sui|sulle|al|alla|allo|ai|alle|dal|dalla|dallo|dai|dalle|in)\s+(?:wiki|dashboard|report)|(?:dentro|attraverso|tramite)\s+(?:(?:la|le|una)\s+(?:wiki|dashboard)|(?:il|i|un)\s+report|(?:wiki|dashboard|report)))\b/i
+const INTERNAL_TOOL_INDEFINITE = /\b(?:una?\s+(?:wiki|dashboard)|un\s+report)\b/gi
 
 const DIDACTIC_SECTIONS = [
   { label: "obiettivo didattico", pattern: /\b(?:obiettiv[oi]|risultati? di apprendimento)\b/i },
@@ -99,7 +107,8 @@ export function runChapterLintGate(input: ChapterLintInput): GateResult {
     )
   }
 
-  const editorialDependency = EDITORIAL_DEPENDENCIES.find((pattern) => pattern.test(body))
+  const editorialDependency =
+    EDITORIAL_DEPENDENCIES.some((pattern) => pattern.test(body)) || hasInternalToolDependency(body)
 
   if (editorialDependency) {
     blockers.push(
@@ -154,6 +163,25 @@ function headingsOf(body: string) {
 
 function isInsideFence(lines: string[], index: number) {
   return lines.slice(0, index).filter((line) => /^\s*```/.test(line)).length % 2 === 1
+}
+
+function hasInternalToolDependency(body: string) {
+  return body
+    .split(/(?:[.!?;]+|\n+)/)
+    .map((sentence) => sentence.trim())
+    .filter(Boolean)
+    .some(isInternalToolDependency)
+}
+
+function isInternalToolDependency(sentence: string) {
+  if (!INTERNAL_TOOL.test(sentence)) return false
+  if (INTERNAL_REPORT.test(sentence) || INTERNAL_TOOL_REFERRAL.test(sentence)) return true
+
+  const withoutDefinition = sentence.replace(INTERNAL_TOOL_DEFINITION, "")
+
+  if (INTERNAL_TOOL_LOCATION.test(withoutDefinition) || INTERNAL_TOOL_DEFINITE.test(withoutDefinition)) return true
+
+  return INTERNAL_TOOL.test(withoutDefinition.replace(INTERNAL_TOOL_INDEFINITE, ""))
 }
 
 function asList(value: unknown) {
