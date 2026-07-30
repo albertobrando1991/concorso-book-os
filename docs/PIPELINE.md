@@ -21,9 +21,21 @@ Se manca il browser: `npx playwright install chromium`.
 
 Unico input richiesto allo staff. Modello: `wiki/templates/scheda-pipeline-volume-template.md`. Va copiato in `wiki/books/<percorso-volume>/planning/00-scheda-pipeline.md` e compilato.
 
-Servono obbligatoriamente `volume_code`, `volume_title`, `cut_off_date`, `responsabile_normativo`, `phases` e la tabella `## Moduli`. I capitoli si possono omettere: la pipeline li deriva da `<module id>/chapters/`.
+Servono obbligatoriamente `volume_code`, `volume_title`, `cut_off_date`, `responsabile_normativo`, `phases` e la tabella `## Moduli`. Quando il piano dei capitoli è approvato, dichiarare nella scheda numero, titolo, file, matrice e stato atteso. Se la tabella è omessa, la pipeline deriva soltanto i file editoriali già esistenti in `<module id>/chapters/`: non inventa target pianificati.
 
 Esempio già compilato: `wiki/books/volumi/vol-03-fisco-dogane-previdenza-ispettivo/planning/00-scheda-pipeline.md`.
+
+## Indice studente e piano editoriale staff
+
+- `chapters/` contiene esclusivamente testo destinato al lettore: capitoli reali e appendici pubblicabili.
+- `planning/` contiene gli artefatti editoriali interni: piani, matrici, checklist e pacchetti di review.
+- Un capitolo entra nel piano staff quando è dichiarato nella scheda della pipeline; titolo e numero devono essere canonici.
+- Un capitolo entra nell'indice studente soltanto quando il relativo file editoriale esiste in `chapters/`.
+- La sezione `Piano editoriale staff` usa specifica e run-state della pipeline; non è parte del libro e non genera pagine.
+- L'anteprima commerciale non è uno strumento di ispezione degli artefatti interni.
+- Non modificare manualmente `pipeline/<VOL>/run-state.json`: usare sempre i comandi CLI.
+
+I piani di modulo usano il percorso `books/moduli/<module-id>/planning/00-piano-editoriale.md`, il tipo `editorial_plan` e il tag `specialist-module-plan`. Non creare o ripristinare `chapters/00-piano-editoriale.md`.
 
 ## Comandi
 

@@ -23,13 +23,23 @@ La linea prodotto canonica e' a tre livelli:
 
 Regole per i moduli specialistici:
 - La tassonomia canonica e' `books/moduli/architettura-moduli-specialistici.md`.
-- Ogni modulo deve stare in `books/moduli/<module-id>/` con `index.md` e capitoli in `chapters/`.
+- Ogni modulo deve stare in `books/moduli/<module-id>/` con `index.md`, capitoli pubblicabili in `chapters/` e materiali interni in `planning/`.
 - Il `book_id` dei capitoli deve coincidere con lo slug della cartella modulo.
 - Ogni modulo deve dichiarare `module_code`, `module_family`, `companion_to: il-metodo-bando` e `draft_stage`.
 - I moduli non duplicano il nucleo comune del libro principale: applicano il Metodo BANDO a profili, prove, materie specialistiche e rischi della famiglia.
 - La logica vincolante di copertura e sviluppo e' [[sources/logica-volumi-copertura-concorsobook-v4]]: comune solo in VOL-01, famiglia nel relativo specialistico, sottoprofilo in appendice/verticale necessario, altra famiglia tramite rinvio senza duplicazioni. Per il catalogo e le riconciliazioni dei 25 moduli usare anche [[books/moduli/architettura-moduli-specialistici]].
 - Prima della scrittura finale servono source notes consolidate, topic/entity pages collegate e review umana per norme settoriali, sanita e carriere speciali.
 - La promessa pubblica corretta e': riusabile, aggiornabile, modulare. Evitare formule come copertura totale garantita o aggiornamento automatico.
+
+### Contratto indice studente e piano staff
+
+- `chapters/` contiene esclusivamente testo destinato al lettore: nessun piano, matrice, prompt, review o checklist interna.
+- `planning/` contiene gli artefatti editoriali interni, incluso `00-piano-editoriale.md` con `type: editorial_plan` e tag `specialist-module-plan`.
+- Un capitolo entra nel piano staff quando è dichiarato nella scheda della pipeline; non creare target deducendoli da note o prompt.
+- Un capitolo entra nell'indice studente soltanto quando il file editoriale corrispondente esiste in `chapters/`.
+- La dashboard mantiene separati `Piano editoriale staff` e anteprima commerciale; gli artefatti interni non sono pagine del libro.
+- Titoli visibili con codice usano il trattino lungo, per esempio `M-SA01 — Sanità amministrativa` e `Capitolo 03 — Titolo`; gli slug e gli ID restano ASCII.
+- Non modificare manualmente `pipeline/<VOL>/run-state.json`: stato, ordine e gate si aggiornano tramite CLI.
 
 ## Struttura cartelle
 - `raw/`: sorgenti immutabili. Nessun agente deve modificarle dopo ingest.

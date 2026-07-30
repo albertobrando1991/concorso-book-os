@@ -1,6 +1,6 @@
 ---
 name: pipeline-volume
-description: Use when running the ConcorsoBook OS editorial pipeline on a volume — executing the 25-prompt protocol chapter by chapter without pasting prompts by hand. Drives the loop next → work → gate → complete through the npm CLI, which owns state, order and gates. Agent-agnostic: works from Codex CLI, Claude Code, Hermes or a human terminal.
+description: Use when running or resuming the ConcorsoBook OS editorial pipeline for a volume, module or chapter, especially when CLI state, gates, staff planning or reader-visible chapter files are involved.
 ---
 
 # Pipeline di volume
@@ -34,6 +34,16 @@ Aggiungi `--json` a qualunque comando per ottenere l'esito strutturato invece de
 - Se uno step è in carico a un'altra persona, `next` lo rifiuta. Subentra con `--force` solo dopo esserti accordato.
 - `--accept` chiude uno step il cui gate non è ancora automatizzato e richiede `--note` con la motivazione. Usalo solo dopo aver eseguito la verifica a mano.
 - Vale tutto ciò che impone `AGENTS.md` e `wiki/AGENTS.md`: niente testo finale da `raw/`, nessuna norma o data inventata, nessun contenuto dichiarato completo con nuclei parziali.
+
+## Contratto indice studente e piano staff
+
+- `chapters/` contiene esclusivamente testo destinato al lettore. Non salvare qui piani, matrici, prompt, review o checklist interne.
+- `planning/` contiene gli artefatti editoriali interni. Il piano di modulo canonico è `planning/00-piano-editoriale.md`, con `type: editorial_plan` e tag `specialist-module-plan`.
+- Un capitolo entra nel piano staff quando è dichiarato nella scheda della pipeline. Non inventare target da note, prompt o nomi plausibili.
+- Un capitolo entra nell'indice studente soltanto quando il file editoriale dichiarato esiste in `chapters/`.
+- La sezione `Piano editoriale staff` della dashboard mostra specifica e run-state; l'anteprima commerciale mostra soltanto il libro destinato allo studente.
+- Codice e titolo visibili usano il trattino lungo: `M-SA01 — Sanità amministrativa`; la UI staff mostra `Capitolo 03 — Titolo`.
+- Non modificare manualmente `pipeline/<VOL>/run-state.json`: usa `next`, `gate`, `complete` e `sync`.
 
 ## Memoria
 
