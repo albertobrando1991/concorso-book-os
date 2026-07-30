@@ -44,12 +44,12 @@ last_compiled_from: ["wiki/reviews/pipeline/VOL-07/08-piano-capitolo-m-sa01-04.m
 
 In un'azienda sanitaria la decisione amministrativa e il dato non percorrono strade separate. Un provvedimento può dipendere da informazioni su attività, costi o prestazioni; un flusso informativo, a sua volta, nasce da operazioni svolte da strutture e persone alle quali sono attribuiti compiti e responsabilità. Se non è chiaro chi deve fare che cosa, il procedimento diventa opaco. Se il dato è incompleto o incoerente, anche una decisione formalmente ben scritta può poggiare su una base fragile.
 
-Per il candidato a un profilo amministrativo, il punto non è memorizzare il nome di ogni ufficio o il calendario di ogni trasmissione. Nomi, deleghe, passaggi operativi e specifiche tecniche possono cambiare tra Regioni, enti e versioni dei disciplinari. Occorre invece padroneggiare due catene di ragionamento:
+Per un candidato a un profilo amministrativo non serve memorizzare il nome di ogni ufficio o il calendario di ogni trasmissione. Nomi, deleghe, passaggi operativi e specifiche tecniche possono cambiare tra Regioni, enti e versioni dei disciplinari. Deve invece padroneggiare due catene di ragionamento:
 
 1. **funzione → competenza → procedimento → atto → motivazione → conoscibilità → controllo**;
 2. **finalità informativa → origine del dato → alimentazione → controllo → validazione → trasmissione → uso**.
 
-Queste catene consentono di affrontare una domanda orale, una risposta sintetica, uno schema di procedimento, la predisposizione guidata di un atto o un caso su un'anomalia informativa. La risposta corretta non inventa la soluzione locale: distingue ciò che deriva dalla cornice nazionale, ciò che dipende dalla disciplina regionale e ciò che deve essere verificato nell'organizzazione della singola azienda.
+Con queste due catene si possono affrontare una domanda orale, una risposta sintetica, uno schema di procedimento, la predisposizione guidata di un atto o un caso su un'anomalia informativa. Una risposta corretta non inventa la soluzione locale: distingue ciò che deriva dalla cornice nazionale, ciò che dipende dalla disciplina regionale e ciò che deve essere verificato nell'organizzazione della singola azienda.
 
 ## Obiettivo del capitolo
 
@@ -87,11 +87,11 @@ Il capitolo collega quattro aree:
 - trasparenza, protezione dei dati e documentazione;
 - sistemi e flussi informativi sanitari.
 
-Il raccordo è essenziale. La competenza appartiene all'organizzazione; il procedimento ordina l'azione; l'atto esprime o documenta la decisione; il dato sostiene istruttoria, monitoraggio e controllo.
+Queste quattro aree si tengono insieme: la competenza nasce dall'organizzazione; il procedimento ordina l'azione; l'atto esprime o documenta la decisione; il dato sostiene istruttoria, monitoraggio e controllo.
 
 ### Nuclei
 
-I nuclei ad alta resa sono: livelli delle fonti, atto aziendale, competenza, fasi del procedimento, motivazione, tracciabilità, conoscibilità dell'atto, finalità del flusso, origine del dato, qualità, validazione, trasmissione e uso. SDO, CE e SP sono casi utili per applicare la mappa, non sigle da recitare isolate.
+Concentrati su livelli delle fonti, atto aziendale, competenza, fasi del procedimento, motivazione, tracciabilità, conoscibilità dell'atto, finalità del flusso, origine del dato, qualità, validazione, trasmissione e uso. SDO, CE e SP servono ad applicare questa mappa; non studiarli come sigle isolate.
 
 ### Diario
 
@@ -150,7 +150,7 @@ La **competenza** delimita il potere o il compito per materia, funzione, territo
 5. si distingue il responsabile dell'istruttoria dal soggetto che decide;
 6. si registra la fonte organizzativa utilizzata.
 
-Questa procedura evita due errori opposti: attribuire tutto all'organo di vertice oppure considerare decisore chi ha materialmente predisposto la pratica.
+Seguendo questi passaggi eviti sia di attribuire ogni decisione all'organo di vertice sia di considerare decisore chi ha soltanto predisposto la pratica.
 
 ### Funzione dell'atto aziendale
 
@@ -185,7 +185,7 @@ Il nome «determinazione» o «deliberazione» non basta a rispondere. Denominaz
 
 ### La motivazione come ponte
 
-La motivazione non è una formula di chiusura. È il ponte tra presupposti, istruttoria e decisione. Deve rendere comprensibile perché l'amministrazione ha adottato quella soluzione e su quali elementi ha fondato il proprio ragionamento.
+La motivazione collega presupposti, istruttoria e decisione. Deve spiegare perché l'amministrazione ha adottato quella soluzione e su quali elementi ha fondato il proprio ragionamento.
 
 Una traccia essenziale può seguire questa sequenza:
 
@@ -223,7 +223,7 @@ Una risposta è solida se non nasconde le informazioni mancanti. Se la competenz
 
 Il procedimento amministrativo è la sequenza ordinata di attività attraverso la quale l'amministrazione prepara e assume una decisione. La Legge 7 agosto 1990, n. 241 ne disciplina gli elementi generali: principi dell'attività, dovere di conclusione, individuazione del responsabile, istruttoria, partecipazione, motivazione, semplificazione, accesso documentale e istituti relativi all'efficacia e alla validità del provvedimento.
 
-Nel contesto sanitario lo schema generale rimane valido, ma va raccordato con l'organizzazione del servizio e con la possibile presenza di valutazioni tecniche, dati relativi alla salute, flussi informativi e regole regionali o aziendali. La specificità del settore non elimina il procedimento; aumenta l'importanza di identificare competenze, responsabilità e fonti.
+Nel contesto sanitario lo schema generale rimane valido, ma va raccordato con l'organizzazione del servizio e con la possibile presenza di valutazioni tecniche, dati relativi alla salute, flussi informativi e regole regionali o aziendali. Diventa quindi ancora più importante identificare competenze, responsabilità e fonti.
 
 La mappa minima è:
 
@@ -240,7 +240,7 @@ Quattro attività non vanno confuse:
 - **validare un dato** significa attestare, secondo ruoli e controlli del flusso, che il dato può proseguire nel processo informativo;
 - **adottare** significa assumere la decisione attribuita al soggetto competente.
 
-Una stessa persona può svolgere più attività solo se l'organizzazione lo consente, ma le funzioni restano concettualmente distinte. Questa separazione rende il processo controllabile e aiuta a prevenire che un errore di immissione diventi, senza verifica, presupposto della decisione.
+Una stessa persona può svolgere più attività solo se l'organizzazione lo consente, ma le funzioni restano concettualmente distinte. Distinguere le funzioni rende il processo controllabile e impedisce che un errore di immissione diventi, senza verifica, presupposto della decisione.
 
 ### Il delta sanitario
 
@@ -253,7 +253,7 @@ In una pratica sanitaria amministrativa possono entrare bisogni assistenziali, o
 5. documentare anomalie, correzioni e versioni;
 6. motivare la decisione entro le competenze disponibili.
 
-Un parere tecnico non trasferisce automaticamente la competenza ad adottare il provvedimento. Allo stesso modo, il soggetto decisore non dovrebbe trasformare una valutazione tecnica non verificata in un'affermazione propria.
+Un parere tecnico non trasferisce automaticamente la competenza ad adottare il provvedimento. Il soggetto decisore, dal canto suo, non dovrebbe presentare come propria una valutazione tecnica non verificata.
 
 ### Griglia del procedimento
 
@@ -294,11 +294,11 @@ La tracciabilità rende verificabile il percorso:
 - l'indicazione dei passaggi mostra chi ha svolto l'attività e con quale esito;
 - la conservazione degli esiti di controllo permette verifiche successive.
 
-Tracciare non significa accumulare copie. Significa poter rispondere a sei domande: **chi, che cosa, quando, su quale fonte, con quale controllo, con quale esito**.
+La tracciabilità non richiede di accumulare copie, ma di poter rispondere a sei domande: **chi, che cosa, quando, su quale fonte, con quale controllo, con quale esito**.
 
 ### Il controllo come fase e come funzione
 
-Il controllo può intervenire prima, durante o dopo l'adozione e può riguardare competenza, regolarità, completezza, coerenza, esecuzione o risultati. La sua configurazione concreta dipende dalle regole applicabili. In prova è sufficiente dimostrare che il controllo non è un'etichetta finale: deve avere oggetto, soggetto, criterio, evidenza ed esito.
+Il controllo può intervenire prima, durante o dopo l'adozione e può riguardare competenza, regolarità, completezza, coerenza, esecuzione o risultati. La sua configurazione concreta dipende dalle regole applicabili. In prova, descrivi sempre oggetto, soggetto, criterio, evidenza ed esito del controllo.
 
 Una check-list utile comprende:
 
@@ -322,7 +322,7 @@ Il Nuovo sistema informativo sanitario (NSIS) sostiene attività di conoscenza, 
 2. il **patrimonio informativo**, composto da famiglie di dati gestionali, organizzativi, economici, relativi alle prestazioni o agli assistiti;
 3. il **singolo flusso**, definito da una finalità, da dati e unità di rilevazione, da soggetti coinvolti e da regole di alimentazione, controllo e trasmissione.
 
-La sigla è l'ultimo elemento da imparare, non il primo. Per ogni flusso costruisci questa carta d'identità:
+Per ogni flusso, parti dalla funzione e costruisci questa carta d'identità prima di memorizzare la sigla:
 
 - finalità;
 - oggetto e unità di rilevazione;
@@ -396,13 +396,13 @@ Per SDO, CE, SP e altri flussi possono cambiare classificazioni, tracciati, cont
 4. ricostruisci responsabilità e sistemi aziendali;
 5. documenta versione e data delle regole applicate.
 
-Questa risposta dimostra competenza più di un elenco di dettagli non contestualizzati.
+In prova, questo metodo evita di citare dettagli tecnici fuori contesto.
 
 ## Qualità, validazione e uso del dato
 
 ### Le dimensioni della qualità
 
-La qualità non è una proprietà generica. Va scomposta:
+Valuta la qualità attraverso cinque dimensioni:
 
 - **completezza:** sono presenti tutti gli elementi richiesti?
 - **coerenza:** i dati sono compatibili tra loro e con le regole logiche?
@@ -424,9 +424,9 @@ Ogni passaggio deve preservare il collegamento con la fonte. Se un dato riepilog
 
 ### Esito e uso
 
-Il processo non termina con il comando di invio. Occorre verificare ricevuta, accettazione, scarto, segnalazioni e necessità di ritrasmissione. L'esito alimenta il controllo interno e consente di prevenire errori ricorrenti.
+Dopo l'invio, verifica ricevuta, accettazione, scarto, segnalazioni e necessità di ritrasmissione. L'esito alimenta il controllo interno e consente di prevenire errori ricorrenti.
 
-Il dato può sostenere monitoraggio, programmazione, valutazione e controllo, ma l'uso deve restare coerente con finalità, qualità e livello di aggregazione. Un dato formalmente trasmesso non diventa automaticamente adatto a qualsiasi decisione. Prima di usarlo in un provvedimento chiediti:
+Il dato può sostenere monitoraggio, programmazione, valutazione e controllo, ma l'uso deve restare coerente con finalità, qualità e livello di aggregazione. La trasmissione formale, da sola, non rende il dato adatto a qualsiasi decisione. Prima di usarlo in un provvedimento chiediti:
 
 - descrive davvero il fenomeno rilevante?
 - il periodo e il perimetro sono corretti?
@@ -518,7 +518,7 @@ Il caso non può essere chiuso su questi punti senza ulteriori elementi:
 - eventuali istruzioni regionali;
 - idoneità del dato alla specifica finalità decisionale.
 
-Riconoscere questi limiti non rende la risposta debole. Dimostra che il candidato sa distinguere la soluzione metodologica dalla regola locale.
+In una risposta d'esame, separa quindi il metodo generale dalla regola locale.
 
 ## Domanda da commissario
 
@@ -638,4 +638,4 @@ Se una risposta è negativa, non aggiungere nuove sigle. Torna alle due catene i
 - **D.Lgs. 23 giugno 2011, n. 118, Titolo II:** principi e regole contabili del settore sanitario, rilevanti per comprendere il contesto dei dati economico-finanziari.
 - **Ministero della Salute, patrimonio informativo NSIS:** riferimento istituzionale per l'architettura dei flussi sanitari.
 
-Norme, atti aziendali, disciplinari tecnici e istruzioni regionali vanno controllati nella versione vigente prima di applicarli a un ente o a un flusso concreto. Il metodo resta stabile: qualificare fonte e finalità, verificare competenza e responsabilità, tracciare procedimento e dato, documentare controllo ed esito.
+Prima di applicare queste regole a un ente o a un flusso concreto, controlla norme, atti aziendali, disciplinari tecnici e istruzioni regionali nella versione vigente. In ogni caso: qualifica fonte e finalità, verifica competenza e responsabilità, ricostruisci procedimento e dato, documenta controllo ed esito.
