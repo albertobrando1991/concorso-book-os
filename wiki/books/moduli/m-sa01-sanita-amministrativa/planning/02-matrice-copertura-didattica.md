@@ -13,7 +13,7 @@ source_refs:
   - "sources/contabilita-budget-aziende-sanitarie"
   - "sources/procurement-farmaci-dispositivi-flussi-nsis"
 book_refs: ["m-sa01-sanita-amministrativa", "vol-07-sanita-amministrativa-professioni-sanitarie"]
-updated_at: 2026-07-30T20:25:00+02:00
+updated_at: 2026-07-30T21:33:00+02:00
 created_at: 2026-07-29T17:12:00+02:00
 review_required: true
 canonical: true
@@ -44,6 +44,10 @@ La matrice autorizza la scrittura non esecutiva: `completo` significa che fonti,
 - 0 `rinviato`.
 - 0 `mancante`.
 - 0 blocker di copertura preparatoria; scrittura autorizzabile dal CLI.
+
+## Evidenze di copertura reale
+
+- Capitolo 06, front-office e comunicazione con l'utenza: stato `completo` confermato nello [[reviews/pipeline/VOL-07/10-controllo-copertura-m-sa01-06|step 10]] dopo verifica di teoria, applicazione, output, apprendimento e tracciabilità.
 
 ## Blocker ordinati
 

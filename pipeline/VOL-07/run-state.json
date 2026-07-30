@@ -3,7 +3,7 @@
   "specPath": "books/volumi/vol-07-sanita-amministrativa-professioni-sanitarie/planning/00-scheda-pipeline.md",
   "specHash": "sha256:fb90e085031206512bce3867d92c4ebeafd4005634cbdf82354d4c7824ab750e",
   "createdAt": "2026-07-28T12:27:05.417Z",
-  "updatedAt": "2026-07-30T19:24:41.894Z",
+  "updatedAt": "2026-07-30T19:37:59.447Z",
   "steps": [
     {
       "key": "00:VOL-07",
@@ -739,9 +739,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-sa01-sanita-amministrativa/chapters/06-front-office-comunicazione-utenza.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T19:32:20.810Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-30T19:37:59.447Z"
     },
     {
       "key": "11:moduli/m-sa01-sanita-amministrativa/chapters/06-front-office-comunicazione-utenza.md",
