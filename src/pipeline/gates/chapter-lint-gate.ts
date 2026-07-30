@@ -33,10 +33,15 @@ const EDITORIAL_DEPENDENCIES = [
 ]
 
 const INTERNAL_TOOL_TOKEN = String.raw`(?:wiki|dashboard|report)`
-const DEPENDENT_CONTENT = String.raw`(?:rispost[ae]|soluzion[ei]|dettagli|dati|risultat[oi]|esit[oi]|informazion[ei]|material[ei]|contenut[oi]|spiegazion[ei]|approfondiment[oi]|istruzion[ei]|regol[ae]|procedur[ae]|procediment[oi]|verific[ae]|tutto(?:\s+ci[oò])?|quanto\s+necessario)`
+const DEPENDENT_CONTENT = String.raw`(?:rispost[ae]|soluzion[ei]|dettagli|dati|risultat[oi]|esit[oi]|informazion[ei]|material[ei]|contenut[oi]|spiegazion[ei]|approfondiment[oi]|istruzion[ei]|regol[ae]|procedur[ae]|procediment[oi]|verific[ae]|definizion[ei]|criteri[oi]|nozion[ei]|concett[oi]|princip(?:io|i)|esemp(?:io|i)|quiz|eserciz(?:io|i)|test(?:o|i)?|capitol[oi]|tutto(?:\s+ci[oò])?|quanto\s+necessario)`
 const INTERNAL_TOOL_TARGET = String.raw`(?:(?:un|uno|una|il|lo|la|i|gli|le)\s+)?${INTERNAL_TOOL_TOKEN}`
 const INTERNAL_TOOL = new RegExp(String.raw`\b${INTERNAL_TOOL_TOKEN}\b`, "i")
+const INTERNAL_CONTENT = new RegExp(String.raw`\b${DEPENDENT_CONTENT}\b`, "i")
 const INTERNAL_REPORT = /\breport\s+intern[oaie]\b/i
+const INTERNAL_TOOL_COMMAND = new RegExp(
+  String.raw`\b(?:usa|apri|leggi|consulta|vedi|cerca|trova)\b[^.!?\n]{0,80}\b${INTERNAL_TOOL_TOKEN}\b`,
+  "i"
+)
 const INTERNAL_TOOL_REFERRAL = new RegExp(
   String.raw`\b(?:consulta(?:re|te)?|consulti|vedi|si\s+veda|si\s+consulti|rinvia(?:re|te)?|si\s+rinvia|rimanda(?:re|te)?|si\s+rimanda|accedi|accede|accedere|fare\s+riferimento|fai\s+riferimento|costruit[oaie]|schedat[oaie])\b[^.!?\n]{0,200}\b${INTERNAL_TOOL_TOKEN}\b`,
   "i"
@@ -48,6 +53,22 @@ const INTERNAL_CONTENT_LOCATION = new RegExp(
 )
 const INTERNAL_TOOL_PROVIDER = new RegExp(
   String.raw`\b${INTERNAL_TOOL_TARGET}\s+(?:non\s+)?(?:contiene|contengono|riporta|riportano|mostra|mostrano|presenta|presentano|raccoglie|raccolgono|descrive|descrivono|fornisce|forniscono|espone|espongono)\b[^.!?\n]{0,120}\b${DEPENDENT_CONTENT}\b`,
+  "i"
+)
+const GENERIC_TOOL_DEFINITION = new RegExp(
+  String.raw`^\s*(?:[-+>|#]\s*)*(?:${INTERNAL_TOOL_TARGET})\s+(?:è|e['’]|sono)\s+(?:un|uno|una|siti?|strumenti?|documenti?|raccolt[ae]|piattaform[ae]|pannell[oi])\b`,
+  "i"
+)
+const GENERIC_TOOL_SUBJECT = new RegExp(
+  String.raw`^\s*(?:[-+>|#]\s*)*(?:(?:(?:un|uno|una)\s+|un['’]eventuale\s+)${INTERNAL_TOOL_TOKEN}|(?:i|gli|le)\s+${INTERNAL_TOOL_TOKEN})\b`,
+  "i"
+)
+const GENERIC_TOOL_LABEL = new RegExp(
+  String.raw`^\s*(?:[-+>|#]\s*)*${INTERNAL_TOOL_TOKEN}\s*[,;:—-]`,
+  "i"
+)
+const GENERIC_TECHNICAL_LIST = new RegExp(
+  String.raw`\b(?:leggere|gestire|creare|produrre|stampare|presentare)\b[^.!?\n]{0,120}(?:,\s*${INTERNAL_TOOL_TOKEN}\b|\be\s+${INTERNAL_TOOL_TOKEN}\b)`,
   "i"
 )
 
@@ -174,7 +195,7 @@ function isInsideFence(lines: string[], index: number) {
 }
 
 function hasInternalToolDependency(body: string) {
-  return body
+  return normalizeInlineMarkdown(body)
     .split(/(?:[.!?;]+|\n+)/)
     .map((sentence) => sentence.trim())
     .filter(Boolean)
@@ -186,10 +207,30 @@ function isInternalToolDependency(sentence: string) {
 
   return (
     INTERNAL_REPORT.test(sentence) ||
+    INTERNAL_TOOL_COMMAND.test(sentence) ||
     INTERNAL_TOOL_REFERRAL.test(sentence) ||
     INTERNAL_CONTENT_LOCATION.test(sentence) ||
-    INTERNAL_TOOL_PROVIDER.test(sentence)
+    INTERNAL_TOOL_PROVIDER.test(sentence) ||
+    (INTERNAL_CONTENT.test(sentence) && !isGenericToolContext(sentence))
   )
+}
+
+function isGenericToolContext(sentence: string) {
+  return (
+    GENERIC_TOOL_DEFINITION.test(sentence) ||
+    GENERIC_TOOL_SUBJECT.test(sentence) ||
+    GENERIC_TOOL_LABEL.test(sentence) ||
+    GENERIC_TECHNICAL_LIST.test(sentence)
+  )
+}
+
+function normalizeInlineMarkdown(value: string) {
+  return value
+    .replace(/!\[([^\]]*)\]\([^)]*\)/g, "$1")
+    .replace(/\[([^\]]+)\]\([^)]*\)/g, "$1")
+    .replace(/\[([^\]]+)\]\[[^\]]*\]/g, "$1")
+    .replace(/(`+)([\s\S]*?)\1/g, "$2")
+    .replace(/[*_~]+/g, "")
 }
 
 function asList(value: unknown) {
