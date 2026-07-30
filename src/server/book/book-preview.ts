@@ -2,6 +2,7 @@ import { readdir, stat } from "node:fs/promises"
 import path from "node:path"
 import { parseFrontmatter } from "../wiki/frontmatter"
 import { FileWikiStore } from "../wiki/file-store"
+import { isStaffOnlyBookDocument } from "../wiki/editorial-document"
 import {
   TEXT_VOLUME_CATALOG,
   bookIdsForTextVolumeBookId,
@@ -151,9 +152,12 @@ async function buildSingleBookStudioData(store: FileWikiStore, bookId: string): 
     .filter((file) => file.endsWith(".md"))
   const chapterFiles = (await store.listMarkdown(`books/${bookId}/chapters`))
     .filter((file) => file.endsWith(".md"))
-  const chapters = await Promise.all([...frontMatterFiles, ...chapterFiles].map(async (file): Promise<BookStudioChapter> => {
+  const loadedChapters = await Promise.all([...frontMatterFiles, ...chapterFiles].map(async (file): Promise<BookStudioChapter | null> => {
     const content = await store.readText(file)
     const parsed = parseFrontmatter(content)
+
+    if (isStaffOnlyBookDocument(file, parsed.data as Record<string, unknown>)) return null
+
     const preview = selectPreviewMarkdown(parsed.body)
     const sectionType = file.includes("/front-matter/") || parsed.data.type === "front_matter"
       ? "front_matter"
@@ -180,6 +184,7 @@ async function buildSingleBookStudioData(store: FileWikiStore, bookId: string): 
       blocks: markdownToBlocks(preview.markdown, file)
     }
   }))
+  const chapters = loadedChapters.filter((chapter): chapter is BookStudioChapter => chapter !== null)
 
   chapters.sort(compareStudioChapters)
   hydrateGeneratedFrontMatter(chapters, bookId)

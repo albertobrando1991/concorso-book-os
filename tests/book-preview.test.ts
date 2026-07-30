@@ -349,12 +349,30 @@ describe("book preview assets", () => {
         ].join("\n"),
         "utf8"
       )
+      await writeFile(
+        path.join(root, "books/moduli/m-fl01-comuni-unioni/chapters/01-capitolo.md"),
+        [
+          "---",
+          "title: Capitolo destinato al lettore",
+          "type: book_chapter",
+          "outline_section: 1",
+          "status: draft",
+          "---",
+          "# Capitolo destinato al lettore",
+          "",
+          "Questo testo reale deve essere caricato nel Book Studio senza il piano editoriale interno."
+        ].join("\n"),
+        "utf8"
+      )
 
       const data = await buildBookStudioData(new FileWikiStore(root), "moduli/m-fl01-comuni-unioni")
 
       expect(data.bookId).toBe("moduli/m-fl01-comuni-unioni")
       expect(data.title).toBe("M-FL01 - Comuni e Unioni")
-      expect(data.chapters[0].path).toBe("books/moduli/m-fl01-comuni-unioni/chapters/00-piano-editoriale.md")
+      expect(data.chapters.map((chapter) => chapter.path)).toEqual([
+        "books/moduli/m-fl01-comuni-unioni/chapters/01-capitolo.md"
+      ])
+      expect(data.summary.structure).toBe(0)
     } finally {
       await rm(root, { recursive: true, force: true })
     }

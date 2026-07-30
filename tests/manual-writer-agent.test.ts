@@ -26,6 +26,21 @@ describe("ManualWriterAgent", () => {
         ].join("\n"),
         "utf8"
       )
+      await writeFile(
+        path.join(root, "books/moduli/m-fl01-comuni-unioni/chapters/01-capitolo.md"),
+        [
+          "---",
+          "title: Capitolo destinato al lettore",
+          "book_id: m-fl01-comuni-unioni",
+          "outline_section: 1",
+          "status: draft",
+          "---",
+          "# Capitolo destinato al lettore",
+          "",
+          "Testo editoriale reale."
+        ].join("\n"),
+        "utf8"
+      )
 
       const chapters = await new ManualWriterAgent(new FileWikiStore(root)).listChapters(
         "moduli/m-fl01-comuni-unioni"
@@ -33,7 +48,7 @@ describe("ManualWriterAgent", () => {
 
       expect(chapters).toHaveLength(1)
       expect(chapters[0].bookId).toBe("moduli/m-fl01-comuni-unioni")
-      expect(chapters[0].path).toBe("books/moduli/m-fl01-comuni-unioni/chapters/00-piano-editoriale.md")
+      expect(chapters[0].path).toBe("books/moduli/m-fl01-comuni-unioni/chapters/01-capitolo.md")
     } finally {
       await rm(root, { recursive: true, force: true })
     }

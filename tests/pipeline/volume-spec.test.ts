@@ -1,4 +1,8 @@
+import { mkdir, mkdtemp, rm, writeFile } from "node:fs/promises"
+import os from "node:os"
+import path from "node:path"
 import { describe, expect, it } from "vitest"
+import { loadVolumeSpec } from "../../src/pipeline/spec/load-volume-spec"
 import { parseVolumeSpec } from "../../src/pipeline/spec/parse-volume-spec"
 import { validateVolumeSpec } from "../../src/pipeline/spec/validate-volume-spec"
 
@@ -129,5 +133,38 @@ describe("validateVolumeSpec", () => {
   it("points at the sheet line of the offending row", () => {
     const issue = validateVolumeSpec(parse(complete.replace("| M-FC02 |", "| FC02 |"))).find((item) => item.field === "modules[0].code")
     expect(issue?.line).toBe(16)
+  })
+})
+
+describe("loadVolumeSpec derived chapters", () => {
+  it("does not derive a legacy editorial plan as a chapter target", async () => {
+    const root = await mkdtemp(path.join(os.tmpdir(), "pipeline-derived-chapters-"))
+
+    try {
+      await mkdir(path.join(root, "books/volumi/vol-03/planning"), { recursive: true })
+      await mkdir(path.join(root, "books/moduli/m-fc01-ministeri/chapters"), { recursive: true })
+      await writeFile(
+        path.join(root, "books/volumi/vol-03/planning/00-scheda-pipeline.md"),
+        complete.replace(/## Capitoli M-FC02[\s\S]*$/, ""),
+        "utf8"
+      )
+      await writeFile(
+        path.join(root, "books/moduli/m-fc01-ministeri/chapters/00-piano-editoriale.md"),
+        "---\ntype: module_plan\ntitle: Piano editoriale\n---\n# Piano editoriale",
+        "utf8"
+      )
+      await writeFile(
+        path.join(root, "books/moduli/m-fc01-ministeri/chapters/01-ministeri.md"),
+        "---\ntype: book_chapter\ntitle: Ministeri\noutline_section: 1\n---\n# Ministeri",
+        "utf8"
+      )
+
+      const loaded = await loadVolumeSpec({ wikiRoot: root, volumeCode: "VOL-03" })
+      const module = loaded.spec.modules.find((item) => item.code === "M-FC01")
+
+      expect(module?.chapters.map((chapter) => chapter.file)).toEqual(["chapters/01-ministeri.md"])
+    } finally {
+      await rm(root, { recursive: true, force: true })
+    }
   })
 })
