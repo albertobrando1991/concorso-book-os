@@ -15,7 +15,11 @@ import type { ManualWriterMode, RevisionDiffSummary } from "@/src/server/agents/
 import type { BookStudioChapter, BookStudioData, MarkdownBlock } from "@/src/server/book/book-preview"
 import { ricettarioModuleLabel } from "@/src/server/book/book-studio-labels"
 import type { WriterProvider } from "@/src/server/config"
-import { getInitialBookStudioChapterPath, reconcileBookStudioPayloadState } from "./book-studio-state"
+import {
+  getInitialBookStudioChapterPath,
+  reconcileBookStudioPayloadState,
+  reconcileBookStudioRefreshPayloadState
+} from "./book-studio-state"
 
 interface BookStudioPanelProps {
   initialData: BookStudioData
@@ -214,7 +218,9 @@ export function BookStudioPanel({
     return () => window.cancelAnimationFrame(animationFrame)
   }, [measuredPages])
 
-  const refreshStudio = useCallback(async (preferredPath = selectedPath, nextMessage = "") => {
+  const refreshStudio = useCallback(async (options: { preferredPath?: string; nextMessage?: string } = {}) => {
+    const { preferredPath, nextMessage = "" } = options
+
     setIsRefreshing(true)
     setError("")
 
@@ -227,7 +233,7 @@ export function BookStudioPanel({
       }
 
       setBookStudioPayloadState((currentState) =>
-        reconcileBookStudioPayloadState(currentState, payload, preferredPath)
+        reconcileBookStudioRefreshPayloadState(currentState, payload, { preferredPath })
       )
       if (nextMessage) {
         setMessage(nextMessage)
@@ -237,17 +243,17 @@ export function BookStudioPanel({
     } finally {
       setIsRefreshing(false)
     }
-  }, [data.bookId, selectedPath])
+  }, [data.bookId])
 
   useEffect(() => {
     function handleBookStudioRefresh(event: Event) {
       const detail = (event as CustomEvent<BookStudioRefreshDetail>).detail
       if (!detail?.bookId || detail.bookId !== data.bookId) return
 
-      void refreshStudio(
-        detail.chapterPath || selectedPath,
-        detail.message || "Preview aggiornata dopo Manual Writer."
-      )
+      void refreshStudio({
+        preferredPath: detail.chapterPath || selectedPath,
+        nextMessage: detail.message || "Preview aggiornata dopo Manual Writer."
+      })
     }
 
     window.addEventListener("book-studio:refresh", handleBookStudioRefresh)
@@ -285,7 +291,7 @@ export function BookStudioPanel({
 
       setLastResult(payload)
       setMessage("Capitolo aggiornato. Anteprima ricaricata dal vault.")
-      await refreshStudio(selectedChapter.path)
+      await refreshStudio({ preferredPath: selectedChapter.path })
     } catch (currentError) {
       setError(currentError instanceof Error ? currentError.message : "Errore sconosciuto")
     } finally {
@@ -334,7 +340,7 @@ export function BookStudioPanel({
       setLastResult(payload)
       setRevisionStatus("Modifiche ricevute. Aggiorno preview e differenze.")
       setMessage(revisionResultMessage(payload))
-      await refreshStudio(selectedChapter.path)
+      await refreshStudio({ preferredPath: selectedChapter.path })
     } catch (currentError) {
       setError(currentError instanceof Error ? currentError.message : "Errore sconosciuto")
     } finally {
@@ -370,7 +376,7 @@ export function BookStudioPanel({
       setImageFile(null)
       setCaption("")
       setMessage(`Immagine aggiunta: ${payload.asset.path}`)
-      await refreshStudio(selectedChapter.path)
+      await refreshStudio({ preferredPath: selectedChapter.path })
     } catch (currentError) {
       setError(currentError instanceof Error ? currentError.message : "Errore sconosciuto")
     } finally {

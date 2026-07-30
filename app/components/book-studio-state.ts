@@ -16,6 +16,10 @@ interface BookStudioPayloadState<Data extends BookStudioPayloadLike> {
   selectedPath: string
 }
 
+interface BookStudioRefreshRequest {
+  preferredPath?: string
+}
+
 export function getInitialBookStudioChapterPath(
   chapters: ReadonlyArray<InitialChapterItem>,
   requestedPath?: string
@@ -50,4 +54,12 @@ export function reconcileBookStudioPayloadState<Data extends BookStudioPayloadLi
     data: nextData,
     selectedPath: reconcileSelectedChapterPath(nextData.chapters, currentState.selectedPath, requestedPath)
   }
+}
+
+export function reconcileBookStudioRefreshPayloadState<Data extends BookStudioPayloadLike>(
+  currentState: BookStudioPayloadState<Data>,
+  nextData: Data,
+  request: BookStudioRefreshRequest = {}
+): BookStudioPayloadState<Data> {
+  return reconcileBookStudioPayloadState(currentState, nextData, request.preferredPath)
 }

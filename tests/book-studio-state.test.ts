@@ -2,6 +2,7 @@ import { describe, expect, it } from "vitest"
 import {
   getInitialBookStudioChapterPath,
   reconcileBookStudioPayloadState,
+  reconcileBookStudioRefreshPayloadState,
   reconcileSelectedChapterPath
 } from "@/app/components/book-studio-state"
 
@@ -51,6 +52,40 @@ describe("reconcileSelectedChapterPath", () => {
     expect(nextState.data).toBe(refreshedData)
     expect(nextState.data.chapters.map((chapter) => chapter.title)).toEqual(["Mappa aggiornata", "Profili e prove"])
     expect(nextState.selectedPath).toBe(refreshedData.chapters[0].path)
+  })
+
+  it("preserves the current selection when it changes during a manual refresh", () => {
+    const refreshedData = {
+      bookId: "moduli/m-sa02",
+      chapters: [
+        { path: chapters[0].path, title: "Piano aggiornato" },
+        { path: chapters[1].path, title: "Mappa aggiornata" }
+      ]
+    }
+    const requestStartedWithoutPreferredPath = {}
+    const stateAfterUserSelection = {
+      data: { bookId: "moduli/m-sa02", chapters },
+      selectedPath: chapters[1].path
+    }
+
+    const nextState = reconcileBookStudioRefreshPayloadState(
+      stateAfterUserSelection,
+      refreshedData,
+      requestStartedWithoutPreferredPath
+    )
+
+    expect(nextState.selectedPath).toBe(chapters[1].path)
+  })
+
+  it("lets a writer refresh explicitly prefer the chapter it changed", () => {
+    const refreshedData = { bookId: "moduli/m-sa02", chapters }
+    const nextState = reconcileBookStudioRefreshPayloadState(
+      { data: refreshedData, selectedPath: chapters[1].path },
+      refreshedData,
+      { preferredPath: chapters[0].path }
+    )
+
+    expect(nextState.selectedPath).toBe(chapters[0].path)
   })
 })
 
