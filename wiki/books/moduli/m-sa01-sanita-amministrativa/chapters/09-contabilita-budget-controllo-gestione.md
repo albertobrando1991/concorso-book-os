@@ -25,11 +25,11 @@ last_compiled_from: ["reviews/pipeline/VOL-07/08-piano-capitolo-m-sa01-09", "boo
 
 # Contabilità, budget e controllo di gestione nelle aziende sanitarie
 
-Un’azienda sanitaria non può limitarsi a registrare quanto ha speso alla fine dell’anno. Deve programmare le attività, assegnare risorse, osservare costi e ricavi, misurare i risultati, spiegare gli scostamenti e decidere come intervenire. La contabilità rende conoscibili i fatti di gestione; il budget traduce i programmi in obiettivi e risorse; il controllo di gestione collega i dati alle decisioni.
+Un’azienda sanitaria non può scoprire soltanto a fine anno quanto ha speso e che cosa ha ottenuto. Prima programma le attività e assegna le risorse; durante la gestione rileva costi, ricavi e risultati; quando emergono differenze rispetto agli obiettivi deve capirne le ragioni e decidere come intervenire. La contabilità descrive i fatti di gestione, il budget traduce i programmi in obiettivi e risorse, il controllo di gestione usa quei dati per decidere.
 
-Questa catena è particolarmente importante nel Servizio sanitario nazionale. Le risorse sono pubbliche e limitate, mentre i bisogni assistenziali sono complessi. Il rispetto dell’equilibrio economico non può essere separato dalla capacità di assicurare i livelli di assistenza e dalla qualità organizzativa. Allo stesso tempo, un buon risultato sanitario non autorizza a ignorare i costi, e un costo contenuto non dimostra da solo che il servizio sia efficace.
+Nel Servizio sanitario nazionale le risorse sono pubbliche e limitate, mentre i bisogni assistenziali sono complessi. Perciò l’equilibrio economico va letto insieme alla capacità di assicurare i livelli di assistenza e alla qualità dell’organizzazione. Un buon risultato sanitario non autorizza a ignorare i costi; un costo contenuto, da solo, non prova che il servizio funzioni bene.
 
-Nei concorsi il tema può comparire in una domanda teorica, in un quesito a risposta multipla, nella lettura di una tabella, in una prova pratica con foglio di calcolo o nella richiesta di redigere una breve nota. Per rispondere bene non basta ricordare sigle: occorre distinguere strumenti, oggetti e responsabilità.
+Nei concorsi il tema compare in forme diverse: domanda teorica, quesito a risposta multipla, tabella da leggere, prova con foglio di calcolo o breve nota da redigere. Le sigle da sole servono a poco. Bisogna sapere quale strumento si sta usando, che cosa misura e chi può agire sul risultato.
 
 ## Obiettivo didattico, Mappa BANDO e catena del controllo
 
@@ -64,13 +64,13 @@ Ogni passaggio risponde a una domanda diversa. La programmazione stabilisce che 
 
 > **Attenzione**
 >
-> Uno scostamento non dimostra automaticamente un errore, un’inefficienza o una responsabilità. È un segnale da interpretare confrontando periodo, perimetro, volume di attività, qualità del dato e cause documentate.
+> Uno scostamento segnala una differenza da approfondire. Prima di parlare di errore, inefficienza o responsabilità, confronta periodo, perimetro, volume di attività, qualità del dato e cause documentate.
 
 ### Che cosa può chiedere la prova
 
 Una domanda teorica può chiedere di illustrare il rapporto tra budget e controllo di gestione. Un quesito può verificare se il modello CE rappresenti costi e ricavi o attività e passività. Una prova pratica può fornire valori programmati e consuntivi e chiedere di calcolare lo scostamento. Un caso può richiedere di proporre controlli senza attribuire colpe non accertate.
 
-La risposta più solida segue quattro mosse:
+Una buona risposta segue quattro passaggi:
 
 1. definire lo strumento;
 2. distinguerlo dagli strumenti vicini;
@@ -100,9 +100,9 @@ I livelli essenziali di assistenza costituiscono un riferimento sostanziale dell
 
 ### Il Titolo II del D.Lgs. 118/2011
 
-Il D.Lgs. 23 giugno 2011, n. 118 è noto per l’armonizzazione dei sistemi contabili pubblici. Per il settore sanitario è essenziale il **Titolo II**, dedicato ai principi contabili generali e applicati per il settore sanitario. Il riferimento serve a comprendere che la sanità possiede un perimetro contabile specifico dentro il più ampio sistema pubblico.
+Il D.Lgs. 23 giugno 2011, n. 118 disciplina l’armonizzazione dei sistemi contabili pubblici. Il **Titolo II** riguarda i principi contabili generali e applicati del settore sanitario. La contabilità delle aziende sanitarie appartiene quindi al sistema pubblico, ma segue un perimetro specifico.
 
-In una risposta da concorso conviene evitare due estremi. Il primo è trattare l’azienda sanitaria come un’impresa privata qualsiasi, ignorando finanziamento pubblico, programmazione regionale, obblighi informativi e controlli. Il secondo è applicare automaticamente all’azienda sanitaria tutti gli istituti tipici della contabilità finanziaria degli enti locali.
+In sede d’esame sono frequenti due errori opposti. Il primo consiste nel trattare l’azienda sanitaria come un’impresa privata qualsiasi, ignorando finanziamento pubblico, programmazione regionale, obblighi informativi e controlli. Il secondo consiste nell’applicarle automaticamente tutti gli istituti della contabilità finanziaria degli enti locali.
 
 Il candidato deve quindi dichiarare il perimetro: il capitolo generale di contabilità pubblica spiega principi, programmazione, bilanci e controlli comuni; qui interessa il loro adattamento al settore sanitario, in cui la contabilità economico-patrimoniale, i modelli di rilevazione economica e la contabilità analitica sostengono il governo aziendale e il monitoraggio del sistema.
 
@@ -112,9 +112,9 @@ La **contabilità finanziaria** osserva autorizzazioni, entrate e spese secondo 
 
 La competenza economica attribuisce gli effetti della gestione al periodo al quale si riferiscono, non semplicemente al momento in cui avviene un pagamento o un incasso. Per questo un costo non coincide necessariamente con un’uscita di denaro nello stesso momento. Analogamente, l’acquisto di un bene durevole produce effetti patrimoniali ed economici che non si esauriscono nel pagamento.
 
-Non bisogna trasferire senza verifica alle aziende sanitarie concetti operativi costruiti per Comuni e altri enti territoriali, come se il loro uso fosse identico. In particolare, fasi della spesa, fondi e documenti di programmazione degli enti locali appartengono al nucleo generale del relativo ordinamento contabile. Nel settore sanitario occorre partire dalle regole applicabili agli enti del SSN, dagli atti regionali e dal sistema aziendale.
+Prima di trasferire alle aziende sanitarie un istituto previsto per Comuni o altri enti territoriali, bisogna verificarne l’applicabilità. Fasi della spesa, fondi e documenti di programmazione degli enti locali appartengono al relativo ordinamento contabile. Per gli enti del SSN si parte invece dalla disciplina di settore, dagli atti regionali e dal sistema aziendale.
 
-**Errore tipico:** rispondere «la contabilità pubblica funziona sempre per impegni e pagamenti» e applicare la formula indistintamente a ogni ente. La correzione consiste nell’individuare prima il soggetto, la disciplina di settore, il sistema contabile e il documento richiesto.
+**Errore tipico:** affermare che «la contabilità pubblica funziona sempre per impegni e pagamenti» e applicare la frase a qualunque ente. Prima si identifica il soggetto; poi si individuano disciplina, sistema contabile e documento richiesto.
 
 ## Sistemi contabili e bilancio d’esercizio
 
@@ -130,7 +130,7 @@ La **contabilità analitica**, o contabilità dei costi, rielabora i dati per fi
 - come varia il costo rispetto al volume prodotto?
 - quale parte dello scostamento richiede un approfondimento?
 
-Le due contabilità non competono tra loro. La contabilità generale garantisce la rappresentazione complessiva; quella analitica aumenta il dettaglio utile alla gestione. La seconda deve raccordarsi a dati attendibili e a criteri di attribuzione dichiarati. Se i costi indiretti vengono ripartiti senza un criterio coerente, il dettaglio apparente può diventare fuorviante.
+Le due contabilità svolgono compiti diversi. La contabilità generale rappresenta l’azienda nel suo complesso; quella analitica aggiunge il dettaglio necessario alla gestione. Per essere attendibile, il dettaglio deve raccordarsi alla base contabile e usare criteri di attribuzione dichiarati. Una ripartizione incoerente dei costi indiretti produce numeri precisi solo in apparenza.
 
 Un **centro di costo** è un’unità alla quale vengono attribuiti costi per analizzarne la formazione. Un **centro di responsabilità** è un ambito organizzativo nel quale un responsabile riceve obiettivi e risorse ed è chiamato a rendere conto dei risultati entro le leve effettivamente governabili. Le due figure possono coincidere, ma non necessariamente.
 
@@ -142,7 +142,7 @@ Il **conto economico** rappresenta i componenti positivi e negativi del periodo 
 
 Lo **stato patrimoniale** rappresenta attività, passività e patrimonio alla data di riferimento. Risponde a una domanda diversa: non come si è formato il risultato nel periodo, ma quali risorse e obbligazioni compongono la situazione patrimoniale.
 
-Il **rendiconto finanziario** descrive i flussi finanziari del periodo e aiuta a leggere come la gestione abbia generato o assorbito disponibilità liquide. Non va confuso con il rendiconto della gestione proprio di altri ordinamenti pubblici.
+Il **rendiconto finanziario** descrive i flussi finanziari del periodo: mostra come la gestione abbia generato o assorbito disponibilità liquide. Non va confuso con il rendiconto della gestione previsto da altri ordinamenti pubblici.
 
 I tre prospetti offrono dimensioni complementari:
 
@@ -150,7 +150,7 @@ I tre prospetti offrono dimensioni complementari:
 - lo stato patrimoniale legge le consistenze patrimoniali;
 - il rendiconto finanziario legge i flussi finanziari.
 
-Il **bilancio d’esercizio** è un sistema informativo formale composto dai prospetti e dagli elementi previsti dalla disciplina applicabile. Non è una semplice esportazione dal programma contabile né una tabella costruita per il direttore di struttura. I documenti, gli allegati, i criteri di valutazione, i procedimenti di adozione e i controlli devono essere verificati secondo la normativa vigente e le disposizioni regionali applicabili.
+Il **bilancio d’esercizio** è il sistema informativo formale composto dai prospetti e dagli altri elementi previsti dalla disciplina applicabile. Non coincide con un’esportazione del programma contabile o con una tabella preparata per il direttore di struttura. Documenti, allegati, criteri di valutazione, procedimento di adozione e controlli dipendono dalla normativa vigente e dalle disposizioni regionali applicabili.
 
 ### Dal fatto di gestione all’informazione direzionale
 
@@ -178,9 +178,9 @@ Il Nuovo sistema informativo sanitario raccoglie flussi informativi utili al gov
 
 ### CE e SP
 
-Il modello **CE — Conto economico** rileva costi e ricavi degli enti del Servizio sanitario regionale secondo uno schema standardizzato. Sostiene il monitoraggio economico, le comparazioni, il consolidamento e le proiezioni. Le fonti operative descrivono rilevazioni a preventivo, infrannuali e a consuntivo; versioni, scadenze, rettifiche e calendari devono però essere controllati per l’esercizio considerato.
+Il modello **CE — Conto economico** rileva costi e ricavi degli enti del Servizio sanitario regionale secondo uno schema standardizzato. I dati servono al monitoraggio economico, al consolidamento, alle comparazioni e alle proiezioni. Sono previste rilevazioni a preventivo, infrannuali e a consuntivo; versioni, scadenze, rettifiche e calendari vanno verificati per l’esercizio considerato.
 
-Il modello **SP — Stato patrimoniale** rileva attività e passività secondo lo schema previsto. Completa la lettura economica con la dimensione patrimoniale ed è riferito alla data e al periodo stabiliti. Le rilevazioni a consuntivo hanno carattere annuale nel quadro verificato, mentre istruzioni e finestre operative restano soggette ad aggiornamento.
+Il modello **SP — Stato patrimoniale** rileva attività e passività secondo lo schema previsto e aggiunge la dimensione patrimoniale alla lettura economica. È riferito alla data e al periodo stabiliti. Nel quadro qui esaminato, la rilevazione a consuntivo è annuale; istruzioni e finestre operative possono cambiare.
 
 CE e SP sono distinti per oggetto:
 
@@ -189,13 +189,13 @@ CE e SP sono distinti per oggetto:
 
 Un costo per manutenzione può concorrere alla dinamica economica del CE. Un debito verso un fornitore ancora esistente alla chiusura partecipa alla rappresentazione patrimoniale nello SP. I raccordi sono importanti, ma i due modelli non sono versioni alternative della stessa tabella.
 
-I controlli riguardano, tra l’altro, completezza, quadratura, coerenza temporale, corrispondenza con la fonte contabile e correttezza del perimetro. Nel consolidamento regionale occorre evitare duplicazioni o rappresentazioni improprie dei rapporti interni al perimetro considerato.
+Il controllo verifica completezza, quadratura, coerenza temporale, corrispondenza con la fonte contabile e correttezza del perimetro. Nel consolidamento regionale deve anche impedire duplicazioni o rappresentazioni improprie dei rapporti interni.
 
 ### LA e Conto del Presidio
 
 Il modello **LA** rileva a consuntivo i costi riferiti ai livelli di assistenza. La sua chiave di lettura non è semplicemente la natura economica del costo, ma la sua attribuzione alle aree assistenziali previste. Aiuta quindi a osservare come i costi si distribuiscano rispetto alle funzioni di assistenza.
 
-Il modello **CP — Conto del Presidio** rileva a consuntivo annuale i costi dei presìdi ospedalieri compresi nel perimetro definito dalla disciplina. Offre una prospettiva riferita al presidio, utile per la conoscenza dei costi ospedalieri.
+Il modello **CP — Conto del Presidio** rileva a consuntivo annuale i costi dei presìdi ospedalieri compresi nel perimetro definito dalla disciplina. Permette così di leggere i costi con riferimento al singolo presidio.
 
 Il D.M. 24 maggio 2019 collega LA e CP alla contabilità analitica e al controllo di gestione. Per tali modelli prevede anche la sottoscrizione del responsabile del controllo di gestione, oltre alle sottoscrizioni richieste nel sistema dei modelli economici. Questo elemento mostra perché la qualità della contabilità analitica non è un fatto meramente interno: alimenta rappresentazioni utilizzate anche a livelli istituzionali.
 
@@ -218,7 +218,7 @@ Per evitare confusione, usa questa scheda.
 | LA | costi per livelli di assistenza | consuntivo | come si distribuiscono i costi tra le aree di assistenza? |
 | CP | costi del presidio ospedaliero | consuntivo annuale | quali costi sono riferiti al presidio? |
 
-Il **consolidamento** combina dati di soggetti compresi in un determinato perimetro, applicando le operazioni necessarie per evitare che rapporti interni siano rappresentati come se riguardassero soggetti esterni. Il termine non autorizza a sommare meccanicamente tabelle. Occorrono perimetro, regole e controlli.
+Il **consolidamento** combina i dati dei soggetti compresi in un perimetro ed elimina gli effetti che rappresenterebbero i rapporti interni come rapporti con soggetti esterni. Non è una somma meccanica di tabelle: richiede un perimetro definito, regole comuni e controlli.
 
 Le istruzioni tecniche dei modelli possono cambiare. In una prova senza indicazione temporale, è prudente spiegare funzione e distinzione; se il quesito richiede versione, codice o scadenza, si applica la disciplina indicata nel bando o quella vigente alla data stabilita.
 
@@ -236,13 +236,13 @@ Le istruzioni tecniche dei modelli possono cambiare. In una prova senza indicazi
 
 La programmazione sanitaria si sviluppa su più livelli. Il livello nazionale definisce il quadro generale e i livelli essenziali di assistenza. La Regione programma il servizio nel proprio territorio, organizza e finanzia il sistema secondo le competenze attribuite e svolge funzioni di indirizzo e controllo. L’azienda traduce gli indirizzi in obiettivi, attività e impiego delle risorse.
 
-Il rapporto non è una semplice cascata di numeri. Gli obiettivi regionali devono essere resi operativi nell’organizzazione aziendale. L’azienda deve considerare domanda assistenziale, strutture, personale, tecnologie, vincoli, rischi e capacità produttiva. I centri di responsabilità contribuiscono alla definizione degli obiettivi e ne assumono la gestione secondo le procedure aziendali.
+Gli obiettivi regionali non passano all’azienda come una semplice cascata di numeri: devono diventare attività concretamente gestibili. L’azienda considera domanda assistenziale, strutture, personale, tecnologie, vincoli, rischi e capacità produttiva. I centri di responsabilità partecipano alla definizione degli obiettivi e li gestiscono secondo le procedure aziendali.
 
 Il calendario concreto, i documenti e i soggetti della negoziazione dipendono dalla disciplina regionale e dagli atti dell’azienda. In una risposta generale non si inventano date universali né si attribuisce sempre la stessa competenza a un ufficio. Si descrive invece la funzione dei passaggi.
 
 ### Obiettivi, risorse, volumi, costi e indicatori
 
-Il **budget** è un programma operativo espresso attraverso obiettivi, attività e risorse riferiti a un periodo. La dimensione economica è essenziale, ma non esaurisce lo strumento. Un budget composto solo da un tetto di spesa non dice quale risultato debba essere ottenuto né come valutarlo.
+Il **budget** è un programma operativo che riferisce obiettivi, attività e risorse a un periodo. La parte economica è necessaria, ma non basta. Un semplice tetto di spesa non chiarisce quale risultato ottenere né come misurarlo.
 
 Una scheda di budget ben costruita collega almeno:
 
@@ -257,7 +257,7 @@ Una scheda di budget ben costruita collega almeno:
 - **modalità e frequenza di monitoraggio**;
 - **rischi o condizioni esterne rilevanti**.
 
-Un indicatore deve essere coerente con l’obiettivo. Se l’obiettivo è ridurre il tempo di lavorazione di una pratica, il solo numero di pratiche chiuse è insufficiente: potrebbe crescere il volume senza diminuire il tempo. Se l’obiettivo è contenere i costi senza ridurre il servizio, occorre leggere costo, volume e almeno una misura pertinente di risultato o qualità.
+L’indicatore deve misurare l’obiettivo dichiarato. Se si vuole ridurre il tempo di lavorazione di una pratica, il numero delle pratiche chiuse non basta: il volume potrebbe crescere mentre i tempi restano invariati. Se si vogliono contenere i costi senza ridurre il servizio, bisogna leggere insieme costo, volume e una misura pertinente del risultato o della qualità.
 
 Gli indicatori possono riguardare:
 
@@ -291,7 +291,7 @@ Il D.Lgs. 27 ottobre 2009, n. 150 inquadra il ciclo di gestione della performanc
 
 Budget e performance sono collegati, ma non coincidono. Il budget governa operativamente obiettivi e risorse; il sistema della performance definisce anche modalità di misurazione e valutazione organizzativa e individuale. Un risultato economico può contribuire alla valutazione, ma non può essere trasformato automaticamente in giudizio individuale.
 
-La catena corretta è: obiettivo definito → indicatore pertinente → valore atteso → risorse coerenti → misurazione attendibile → analisi del risultato → valutazione secondo regole note. Saltare uno dei passaggi produce valutazioni fragili.
+L’ordine logico è: obiettivo definito → indicatore pertinente → valore atteso → risorse coerenti → misurazione attendibile → analisi del risultato → valutazione secondo regole note. Se manca un passaggio, anche la valutazione perde solidità.
 
 **Errore tipico:** scegliere l’indicatore dopo aver visto il risultato, per far apparire raggiunto l’obiettivo. Indicatore, formula, fonte e valore atteso devono essere definiti prima della misurazione, salvo modifiche motivate e tracciate.
 
@@ -339,7 +339,7 @@ Esempio: il costo dei materiali supera il budget di 40.000 euro. Il dato è lo s
 - variazione delle scorte;
 - obiettivo iniziale non realistico.
 
-Per ogni ipotesi occorre individuare un controllo. Se si sospetta un aumento dei prezzi, si confrontano prezzi unitari e condizioni contrattuali. Se si ipotizza più attività, si verificano volumi omogenei. Se si teme un errore contabile, si esaminano registrazioni, centro, conto e periodo. Se si osserva un consumo elevato, si analizzano quantità per attività e criteri di impiego, coinvolgendo le competenze tecniche necessarie.
+A ogni ipotesi deve corrispondere un controllo. Un possibile aumento dei prezzi si verifica confrontando prezzi unitari e condizioni contrattuali; una crescita dell’attività richiede volumi omogenei. Per cercare un errore contabile si esaminano registrazioni, centro, conto e periodo. Un consumo elevato, invece, richiede di analizzare quantità per attività e criteri di impiego con le competenze tecniche necessarie.
 
 La spiegazione può essere scomposta in:
 
@@ -360,7 +360,7 @@ L’azione viene dopo la verifica. Può consistere nel:
 - ridefinire un indicatore inadeguato per il ciclo successivo;
 - attivare un approfondimento tecnico o direzionale.
 
-Non tutte le azioni sono «tagli». Se il problema è un dato incompleto, tagliare la spesa non risolve la causa. Se il volume è aumentato per una decisione aziendale, può essere necessario aggiornare il budget. Se il costo unitario è peggiorato senza ragioni operative, occorre comprendere il processo prima di scegliere l’intervento.
+L’azione correttiva non coincide sempre con un taglio. Se il dato è incompleto, ridurre la spesa non risolve il problema. Se il volume è aumentato per una decisione aziendale, può essere ragionevole aggiornare il budget. Se il costo unitario peggiora senza una spiegazione operativa, prima di intervenire bisogna ricostruire il processo.
 
 Una proposta ben formulata indica:
 
@@ -374,7 +374,7 @@ Una proposta ben formulata indica:
 
 ### Scrivere un report contabile utile
 
-Un documento direzionale breve deve essere leggibile e orientato alla decisione. Una struttura efficace comprende:
+Chi legge una breve nota direzionale deve trovare subito i dati necessari per decidere. Conviene ordinare il testo così:
 
 - oggetto, periodo e perimetro;
 - valore di budget e consuntivo;
@@ -443,7 +443,7 @@ Scostamento del costo medio:
 | Pratiche lavorate | 24.000 | 27.000 | +3.000 | +12,5% |
 | Costo medio per pratica | € 20,00 | € 19,11 | − € 0,89 | circa −4,45% |
 
-Il costo totale supera il budget, ma il volume cresce in misura maggiore. Il costo medio diminuisce. Non è quindi corretto concludere immediatamente che il centro sia inefficiente. È altrettanto scorretto dichiarare automaticamente che la gestione sia ottima: il numero di pratiche non misura da solo correttezza, complessità, tempi o qualità.
+Il costo totale supera il budget, ma il volume cresce ancora di più e il costo medio diminuisce. Concludere che il centro sia inefficiente sarebbe affrettato. Anche il giudizio opposto, però, non è dimostrato: il numero di pratiche non misura da solo correttezza, complessità, tempi o qualità.
 
 ### Cause da verificare e controlli
 
@@ -479,7 +479,7 @@ I dati mostrano quindi un aumento del costo totale accompagnato da una maggiore 
 
 Se la crescita del volume e la qualità dei dati saranno confermate, la direzione potrà valutare l’aggiornamento della previsione e della capacità necessaria. Se emergeranno errori di imputazione o criticità organizzative, dovranno essere adottate le correzioni pertinenti. Il successivo monitoraggio dovrà presentare insieme costo totale, volume, costo medio e un indicatore di qualità o tempestività.
 
-**Perché la nota funziona:** distingue dati, interpretazione, verifiche e decisioni; non attribuisce responsabilità senza istruttoria; indica il prossimo passo.
+La nota tiene separati dati, interpretazione, verifiche e decisioni. Non attribuisce responsabilità prima dell’istruttoria e indica che cosa controllare dopo.
 
 ## Allenamento da concorso e verifica dell’apprendimento
 
@@ -504,7 +504,7 @@ Se la crescita del volume e la qualità dei dati saranno confermate, la direzion
 
 **Domanda:** Uno scostamento sfavorevole dimostra sempre inefficienza del responsabile?
 
-**Risposta:** no. Prima occorre verificare che budget e consuntivo siano confrontabili, che il dato sia corretto e che lo scostamento sia effettivamente sfavorevole rispetto all’obiettivo. Vanno poi esaminate variazioni di volume, prezzo, composizione, qualità, decisioni sovraordinate e leve disponibili. Una responsabilità può essere valutata solo secondo regole, obiettivi e competenze definite.
+**Risposta:** no. Prima verifica che budget e consuntivo siano confrontabili, che il dato sia corretto e che lo scostamento sia davvero sfavorevole rispetto all’obiettivo. Esamina poi variazioni di volume, prezzo, composizione, qualità, decisioni sovraordinate e leve disponibili. Solo a quel punto puoi valutare la responsabilità secondo le regole, gli obiettivi e le competenze definite.
 
 ### Esercizio di classificazione
 
@@ -577,7 +577,7 @@ Procedura:
 - ore lavorate: +600; +5%;
 - pratiche: +900; +15%.
 
-L’uguaglianza tra crescita dei materiali e crescita delle pratiche non dimostra automaticamente un rapporto causale perfetto. Può suggerire una verifica del consumo unitario, ma servono omogeneità delle pratiche, prezzi e composizione.
+Materiali e pratiche crescono entrambi del 15%, ma la stessa percentuale non prova un rapporto causale. Il dato suggerisce di controllare il consumo unitario, dopo aver verificato omogeneità delle pratiche, prezzi e composizione.
 
 ### Errore tipico: la frase che salta l’analisi
 
@@ -646,4 +646,4 @@ I riferimenti essenziali sono:
 
 Schemi, codici, scadenze e istruzioni tecniche dei modelli economici possono essere aggiornati. In prova si usa il riferimento temporale stabilito dal bando; nell’attività professionale si controllano sempre le disposizioni applicabili all’esercizio.
 
-La regola conclusiva è semplice: **nessun numero parla da solo**. Un dato diventa conoscenza quando è corretto, comparabile e collocato nel proprio perimetro; diventa decisione quando è collegato a obiettivi, cause verificate, responsabilità effettive e conseguenze sul servizio.
+Quando leggi un dato, chiediti sempre da dove proviene, con che cosa può essere confrontato e quale attività descrive. Solo dopo puoi collegarlo agli obiettivi, verificare le cause dello scostamento e proporre una decisione che tenga conto delle responsabilità effettive e delle conseguenze sul servizio.
