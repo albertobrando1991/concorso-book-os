@@ -1,0 +1,38 @@
+---
+id: m-sa03-matrice-copertura-didattica
+type: planning
+title: "M-SA03 - Matrice di copertura didattica"
+status: ready_for_writing
+domain: "concorsi pubblici italiani"
+source_refs: ["sources/bandi-rappresentativi-m-sa03-dirigenza-medica-sanitaria-2026", "sources/dirigenza-sanitaria-concorsi-ccnl-2026", "sources/governo-clinico-appropriatezza-hta-qualita-accreditamento", "sources/metodo-evidenze-sistema-nazionale-linee-guida-iss", "sources/epidemiologia-base-iss"]
+book_refs: ["m-sa03-dirigenza-medica-sanitaria", "vol-07-sanita-amministrativa-professioni-sanitarie"]
+updated_at: 2026-07-29T18:05:00+02:00
+created_at: 2026-07-29T18:05:00+02:00
+review_required: true
+canonical: true
+tags: ["m-sa03", "coverage-map", "pipeline-step-07"]
+---
+
+# M-SA03 - Matrice di copertura didattica
+
+`Completo` autorizza la scrittura non esecutiva del nucleo e dei rinvii verticali; non dichiara una disciplina clinica pubblicabile senza fonti specifiche, protocollo del setting e review dello step 15.
+
+| Famiglia/profilo | Materia | Concetto/sotto-concetti | Frequenza/peso | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa | Destinazione rinvio | Note |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Dirigente medico per disciplina | Disciplina clinica e casi | quesito clinico; caso; priorità; diagnosi differenziale; appropriatezza; sicurezza; limiti | alta | [[sources/bandi-rappresentativi-m-sa03-dirigenza-medica-sanitaria-2026]]; [[sources/metodo-evidenze-sistema-nazionale-linee-guida-iss]]; source note cliniche M-SA02 | verticali V7-DIR-MED | Architettura del ragionamento e della prova coperta; contenuto clinico demandato alla disciplina e a linee guida identificate | Caso non esecutivo con dati, ipotesi, priorità, evidenze, decisione e rivalutazione | relazione su caso, quesiti sintetici, orale | Rubrica su completezza dati, ragionamento, sicurezza, evidenza, limiti e comunicazione | completo | Clinica indipendente obbligatoria per ogni disciplina |  | Nessun manuale clinico universale; il verticale cita versione e setting |
+| Tutti i dirigenti sanitari | Linee guida e appropriatezza | quesito; ricerca; appraisal; raccomandazione; applicabilità; appropriatezza clinica/organizzativa | alta | [[sources/metodo-evidenze-sistema-nazionale-linee-guida-iss]]; [[sources/governo-clinico-appropriatezza-hta-qualita-accreditamento]] | cap. 11/verticali | Metodo SNLG, GRADE, applicabilità e distinzione tra appropriatezza clinica e organizzativa disponibili | Valutazione di raccomandazione rispetto a popolazione, comparatore, setting, risorse e preferenze | lettura critica e risposta motivata | Checklist su versione, qualità, forza, trasferibilità, conflitti e monitoraggio | completo | Obbligatoria su versione e disciplina |  | Una raccomandazione non sostituisce il giudizio sul caso |
+| Dirigenti medici e sanitari | Clinical governance | EBP; PDTA; audit; indicatori; dati; rischio; multiprofessionalità; formazione | alta | [[sources/governo-clinico-appropriatezza-hta-qualita-accreditamento]] | cap. 11 | Componenti e relazioni del governo clinico consolidate | Caso su problema di qualità con audit, azione e re-audit | progetto breve, colloquio, cruscotto | Rubrica su obiettivo, standard, dato, stakeholder, azione, esito e sostenibilità | completo | Review organizzativa/clinica |  | Non confondere governance con solo controllo amministrativo |
+| Igiene e organizzazione sanitaria | Programmazione sanitaria | bisogni; LEA; reti; territorio; obiettivi; risorse; NSG/NSIS; valutazione | alta | [[sources/ssn-organizzazione-aziende-standard-lea]]; [[sources/governo-clinico-appropriatezza-hta-qualita-accreditamento]]; fonti COT/territorio | cap. 2/9/11 | Livelli di programmazione, standard, NSIS/NSG e reti disponibili | Piano sintetico su bisogno, obiettivo, intervento, indicatore, responsabilità e verifica | progetto, caso organizzativo, orale | Griglia su coerenza bisogno-obiettivo-azione-risorsa-indicatore | completo | Obbligatoria su piani, norme regionali e dati |  | I target didattici non sono benchmark nazionali |
+| Igiene/epidemiologia; tutti i dirigenti | Epidemiologia e sanità pubblica | misure; disegni; bias; sorveglianza; screening; focolaio; prevenzione | alta | [[sources/epidemiologia-base-iss]]; note PASSI, PREMAL, ICA e sicurezza M-SA02 | cap. 12 | Misure, disegni, bias, sistemi e scenari di risposta documentati | Calcolo/interpretazione e scenario su segnale epidemiologico o programma | esercizio quantitativo, rapporto, orale | Controlli su denominatore, tempo, comparatore, incertezza, bias e azione | completo | Review epidemiologica indipendente |  | Definizioni di caso e flussi vanno ricontrollati |
+| Dirigenti sanitari e amministrativi | HTA, qualità e accreditamento | assessment/appraisal; domini; indicatori; requisiti; controlli; miglioramento | alta | [[sources/governo-clinico-appropriatezza-hta-qualita-accreditamento]] | cap. 11 | HTA, qualità e accreditamento distinti e raccordati; livelli decisionali espliciti | Mini-HTA e caso di verifica requisito/accreditamento | report breve, matrice decisionale, audit | Griglia su quesito, comparatore, esiti, costi, organizzazione, etica, incertezza | completo | Obbligatoria su PNHTA e sistema regionale |  | HTA non è solo prezzo; manuali AGENAS vanno contestualizzati |
+| Tutti i dirigenti sanitari | Rischio clinico | evento; near miss; fattori; segnalazione; RCA/audit; azioni; monitoraggio | alta | [[sources/sicurezza-cure-responsabilita-consenso-leggi-24-219]]; [[sources/governo-clinico-appropriatezza-hta-qualita-accreditamento]]; note sicurezza M-SA02 | cap. 7/11 | Quadro normativo e strumenti di gestione integrata disponibili | Analisi non colpevolizzante di evento con barriere e piano di miglioramento | caso, rapporto, orale | Checklist su fatti, danno, fattori, barriere, azioni, responsabili e indicatori | completo | Review clinico-legale |  | Non attribuire colpa o causalità senza istruttoria |
+| Biologo; farmacista; psicologo e altre discipline | Dirigenza sanitaria non medica | requisiti; ruolo; disciplina; prova pratica; deontologia; governance | alta | [[sources/dirigenza-sanitaria-concorsi-ccnl-2026]]; [[sources/bandi-rappresentativi-m-sa03-dirigenza-medica-sanitaria-2026]]; fonti professionali pertinenti | verticali V7-DIR-SAN | D.P.R. 483 e CCNL coprono accesso/ruolo; contenuto tecnico è separato per profilo | Caso e prova illustrata differenziati per laboratorio, farmacia o psicologia | tema, pratica, orale | Rubrica comune più checklist tecnica del singolo profilo | completo | Professionale indipendente per ogni verticale |  | Vietata una prova sanitaria non medica generica |
+
+## Totali e controlli differiti
+
+- 8 nuclei; 8 `completo`; 0 `parziale`; 0 `solo-nominato`; 0 `rinviato`; 0 `mancante`.
+- Alta priorità allo step 15: review clinica per disciplina, epidemiologica, HTA/accreditamento, clinico-legale e contrattuale.
+- Media priorità: protocolli del setting, piani regionali e specifiche degli indicatori.
+- Bassa priorità: ampliare casi e quiz dopo la prima stesura.
+
+La matrice supera il gate preparatorio ma non dichiara il modulo congelato o pubblicabile.
