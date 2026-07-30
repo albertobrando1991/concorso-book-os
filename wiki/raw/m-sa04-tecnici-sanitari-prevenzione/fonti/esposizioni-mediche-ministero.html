@@ -1,0 +1,421 @@
+<!doctype html>
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  
+  <title>Gcore</title>
+  
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    *::before,
+    *::after {
+      box-sizing: border-box;
+    }
+
+    html {
+      -ms-overflow-style: -ms-autohiding-scrollbar;
+      -webkit-text-size-adjust: 100%;
+      font-size: 16px;
+      overflow-x: hidden;
+      overflow-y: visible;
+    }
+
+    body {
+      -moz-osx-font-smoothing: grayscale;
+      -webkit-font-smoothing: antialiased;
+      background: #F9F9F9;
+      color: #888888;
+      font-family: "Noto Sans", Helvetica, Arial, sans-serif;
+      line-height: 1.5;
+      margin: 0;
+      min-width: 20rem;
+      overflow-x: hidden;
+      overflow-y: visible;
+      text-align: center;
+    }
+
+    p {
+      margin: 0;
+      padding: 0;
+    }
+
+    p.text {
+      font-weight: 400;
+      color: #161616;
+      font-size: 14px;
+      line-height: 22px;
+      word-wrap: break-word;
+    }
+
+    a {
+      color: #1a3b8e;
+      text-decoration: none;
+    }
+
+    p:not(:last-child) {
+      margin-bottom: 1rem;
+    }
+
+    h2 {
+      color: #161616;
+      font-size: 1.125rem;
+      font-weight: 600;
+      line-height: 24px;
+      margin: 0 0 1rem 0;
+      word-wrap: break-word;
+    }
+
+    input,
+    button {
+      border-radius: 0.25rem;
+      color: inherit;
+      display: block;
+      font-family: inherit;
+      font-size: 0.875rem;
+      font-size: inherit;
+      font-style: inherit;
+      font-weight: inherit;
+      height: 2.5rem;
+      line-height: inherit;
+      margin: 0 auto;
+      outline: none;
+      padding: 0 1rem;
+      text-align: center;
+      text-transform: inherit;
+      width: 9.375rem;
+    }
+
+    input {
+      -moz-appearance: none;
+      -webkit-appearance: none;
+      border: 0.063rem solid #e6e6e6;
+      color: #000;
+      line-height: 2.375rem;
+      margin-bottom: 0.5rem;
+      transition: border-color 300ms ease-in;
+    }
+
+    input:focus {
+      border-color: #1a3b8e;
+    }
+
+    input.is-error {
+      border-color: #f5a3a6;
+    }
+
+    button {
+      -webkit-appearance: button;
+      background: #1a3b8e;
+      border: 0;
+      color: #fff;
+      cursor: pointer;
+      font-weight: 700;
+      line-height: 2.5rem;
+      transition: background 300ms ease-in;
+    }
+
+    button:hover {
+      background: #122963;
+    }
+
+    .loader {
+      -moz-align-items: center;
+      -moz-flex-flow: column nowrap;
+      -ms-flex-align: center;
+      -ms-flex-flow: column nowrap;
+      -webkit-align-items: center;
+      -webkit-box-align: center;
+      -webkit-flex-flow: column nowrap;
+      align-items: center;
+      background: #fafafa;
+      bottom: 0;
+      display: -moz-flex;
+      display: -ms-flexbox;
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: flex;
+      flex-flow: column nowrap;
+      left: 0;
+      opacity: 0;
+      position: fixed;
+      right: 0;
+      top: 0;
+      transition: opacity 300ms cubic-bezier(0.17, 0.67, 0.83, 0.67), visibility 300ms cubic-bezier(0.17, 0.67, 0.83, 0.67);
+      visibility: hidden;
+      z-index: 300;
+    }
+
+    .loader.is-active {
+      opacity: 1;
+      visibility: visible;
+    }
+
+    .loader__items {
+      display: -moz-flex;
+      display: -ms-flexbox;
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: flex;
+      margin: auto auto auto auto;
+    }
+
+    .loader__items:not(:last-child) {
+      margin-bottom: 1rem;
+    }
+
+    .loader__items-item {
+      -webkit-animation: loader 1700ms infinite ease-in-out both;
+      animation: loader 1700ms infinite ease-in-out both;
+      background: #1a3b8e;
+      border-radius: 50%;
+      display: block;
+      height: 1rem;
+      width: 1rem
+    }
+
+    .loader__items-item:not(:last-child) {
+      margin-right: 0.313rem
+    }
+
+    .loader__items-item:nth-child(1) {
+      -webkit-animation-delay: -600ms;
+      animation-delay: -600ms
+    }
+
+    .loader__items-item:nth-child(2) {
+      -webkit-animation-delay: -400ms;
+      animation-delay: -400ms
+    }
+
+    .loader__items-item:nth-child(3) {
+      -webkit-animation-delay: -200ms;
+      animation-delay: -200ms
+    }
+
+    @-webkit-keyframes loader {
+
+      0%,
+      80%,
+      100% {
+        -webkit-transform: scale(0);
+        opacity: 0
+      }
+
+      40% {
+        -webkit-transform: scale(1);
+        opacity: 1
+      }
+    }
+
+    @keyframes loader {
+
+      0%,
+      80%,
+      100% {
+        opacity: 0;
+        transform: scale(0)
+      }
+
+      40% {
+        opacity: 1;
+        transform: scale(1)
+      }
+    }
+
+    .loader__items-paragraph {
+      font-size: 0.875rem;
+      margin-bottom: auto;
+    }
+
+    .wrapper {
+      -moz-flex-flow: column nowrap;
+      -ms-flex-flow: column nowrap;
+      -webkit-flex-flow: column nowrap;
+      display: -moz-box;
+      display: -ms-flexbox;
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: flex;
+      flex-flow: column nowrap;
+      min-height: 100vh;
+      padding: 1.5rem 1rem;
+    }
+
+    .main {
+      -moz-box-align: center;
+      -moz-box-flex: 1;
+      -moz-flex-flow: column nowrap;
+      -moz-flex: 1 1 auto;
+      -ms-flex-align: center;
+      -ms-flex-flow: column nowrap;
+      -ms-flex: 1 1 auto;
+      -webkit-align-items: center;
+      -webkit-box-align: center;
+      -webkit-box-flex: 1;
+      -webkit-flex-flow: column nowrap;
+      -webkit-flex: 1 1 auto;
+      align-items: center;
+      display: -moz-box;
+      display: -ms-flexbox;
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: flex;
+      flex-flow: column nowrap;
+      flex: 1 1 auto;
+    }
+
+    .content {
+      background: #fff;
+      border-radius: 0.25rem;
+      box-shadow: 0 0.125rem 0.313rem rgba(0, 0, 0, 0.1);
+      font-size: 0.938rem;
+      margin: auto auto 1.25rem auto;
+      max-width: 40rem;
+      padding: 1.25rem;
+      width: 100%;
+    }
+
+    .content> :first-child {
+      margin-top: 0;
+      margin-bottom: 20px;
+    }
+
+    .error {
+      color: #ed2027;
+      margin: 1rem 0 0 0;
+    }
+
+    .reference {
+      display: flex;
+      justify-content: space-between;
+      color: #AEA9B4;
+      margin: 0 auto auto auto;
+      max-width: 40rem;
+      width: 100%;
+    }
+
+    .reference-item {
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-start;
+      align-items: flex-start;
+      font-size: 12px;
+    }
+
+    .reference-item>.label {
+      font-weight: 600;
+    }
+
+    .reference-item>.value {
+      font-weight: 400;
+    }
+
+    .footer {
+      -moz-box-flex: 0;
+      -moz-flex: 0 0 auto;
+      -ms-flex: 0 0 auto;
+      -webkit-box-flex: 0;
+      -webkit-flex: 0 0 auto;
+      flex: 0 0 auto;
+      font-size: 0.875rem;
+    }
+
+    .center {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: auto;
+      height: auto;
+      max-height: 100%;
+      max-width: 100%;
+    }
+  </style>
+</head>
+
+<body>
+
+  <!-- s:wrapper -->
+  <div class="wrapper">
+
+    <!-- s:main -->
+    <main class="main">
+
+      <!-- s:content -->
+      <div class="content">
+        
+        <svg width="120" height="30" viewBox="0 0 120 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <g clip-path="url(#clip0_4059_26433)">
+            <path fill-rule="evenodd" clip-rule="evenodd"
+              d="M25.7129 14.9824C25.7129 23.2565 19.0119 29.9648 10.7467 29.9648C7.40781 29.9648 4.3236 28.8698 1.83441 27.0204C2.26054 27.2597 2.69965 27.4755 3.15177 27.6706C4.86405 28.4093 6.70886 28.7917 8.57446 28.7917C12.0484 28.7917 15.3925 27.4755 17.9388 25.1138C20.4851 22.7519 22.0493 19.5136 22.3144 16.0462C22.3508 15.7186 22.3715 15.3908 22.3767 15.063C22.3767 14.6442 22.3429 14.1604 22.2988 13.7183C22.2962 13.6767 22.2936 13.6324 22.291 13.5908C22.291 13.5414 22.2883 13.492 22.2831 13.4452L22.2702 13.4582C22.2079 12.8833 22.1429 12.4411 22.1429 12.4411H11.2845L10.4401 14.0226L8.5017 17.6902H16.7072C16.4031 18.598 15.9485 19.4511 15.3638 20.2106C14.5661 21.2563 13.5398 22.1017 12.3602 22.6844C11.1832 23.2669 9.88661 23.5713 8.57185 23.5687C7.5663 23.5687 6.56856 23.3866 5.62537 23.038C3.97543 22.4347 2.55155 21.3396 1.546 19.8985C0.54045 18.455 0 16.7408 0 14.9824C0 13.8561 0.220858 12.7377 0.652178 11.6972C1.0835 10.6568 1.71489 9.70996 2.50998 8.91141C3.30506 8.11547 4.25086 7.4808 5.29277 7.05163C6.33471 6.62244 7.44938 6.39874 8.57446 6.39874C10.3907 6.39614 12.1627 6.97359 13.6282 8.04785L14.7532 5.93834L16.0939 3.40226C13.8568 1.94303 11.2429 1.1679 8.57185 1.1705C6.20998 1.1705 3.91047 1.77917 1.87598 2.90805C4.36258 1.08206 7.42859 0 10.7467 0C19.0119 0 25.7129 6.70827 25.7129 14.9824Z"
+              fill="#FF4C00" />
+            <path
+              d="M66.3582 18.387C65.8304 19.0198 65.1681 19.5281 64.4173 19.8659C63.7483 20.1609 63.0205 20.3084 62.2892 20.3052C61.3548 20.3215 60.4301 20.0953 59.6071 19.6461C59.5776 19.6298 59.5514 19.6101 59.5219 19.5904C58.7874 19.1674 58.1808 18.5511 57.7678 17.8067C57.3184 16.9838 57.0922 16.0623 57.1087 15.1247C57.0922 14.1901 57.3184 13.2655 57.7678 12.4425C58.1808 11.7015 58.7842 11.085 59.5219 10.6588C59.5514 10.6424 59.5776 10.6195 59.6071 10.6031C60.4301 10.1539 61.3514 9.92762 62.2892 9.94401C63.0237 9.93745 63.7483 10.085 64.4205 10.3768L65.9452 7.5111C65.9452 7.5111 65.9223 7.49799 65.909 7.49143C64.7058 6.98977 63.4106 6.73729 62.1056 6.75368C60.6629 6.73729 59.2398 7.05534 57.9383 7.67833C57.8299 7.73079 57.7153 7.77013 57.6071 7.82915C56.3054 8.51443 55.2168 9.54727 54.4626 10.8129C53.6921 12.1179 53.2954 13.6098 53.3183 15.1247C53.2954 16.6394 53.6921 18.1313 54.4626 19.4362C55.2168 20.6987 56.3054 21.7316 57.6071 22.4168C57.7153 22.4758 57.8299 22.5152 57.9383 22.5676C59.2301 23.1873 60.6465 23.5054 62.0795 23.4922C63.3876 23.5119 64.6861 23.2595 65.8927 22.7512C65.909 22.7446 65.9223 22.7349 65.9386 22.7283C67.0338 22.2528 68.001 21.5249 68.7584 20.6004L66.355 18.3806L66.3582 18.387Z"
+              fill="#FF4C00" />
+            <path
+              d="M74.2316 22.4075C72.92 21.7189 71.825 20.6828 71.0642 19.4138C70.2937 18.1187 69.897 16.6334 69.9199 15.1251C69.897 13.6169 70.2937 12.1315 71.0642 10.8364C71.825 9.56748 72.92 8.53136 74.2316 7.8428C75.6316 7.10505 77.1923 6.73454 78.7761 6.75422C80.3533 6.72798 81.914 7.10177 83.3074 7.83953C84.6157 8.53136 85.7109 9.56748 86.4748 10.8331C87.2519 12.1283 87.6519 13.6136 87.6323 15.1218C87.6519 16.6301 87.2519 18.1155 86.4748 19.4106C85.7109 20.6763 84.6157 21.7124 83.3074 22.4041C81.914 23.142 80.3533 23.5158 78.7761 23.4927C77.1957 23.5158 75.6316 23.142 74.2316 22.4041V22.4075ZM81.3631 19.6434C82.1271 19.2106 82.7567 18.5745 83.1795 17.8039C83.6287 16.9809 83.8551 16.0596 83.8386 15.1218C83.8551 14.1874 83.6287 13.2628 83.1795 12.4398C82.7567 11.6692 82.1271 11.0331 81.3631 10.6003C80.5729 10.1577 79.6811 9.92814 78.7729 9.94127C77.8679 9.92814 76.9727 10.1544 76.1825 10.6003C75.4185 11.0331 74.789 11.6692 74.3661 12.4398C73.9169 13.2628 73.6905 14.1841 73.707 15.1218C73.6905 16.0564 73.9169 16.9809 74.3661 17.8039C74.789 18.5745 75.4185 19.2106 76.1825 19.6434C76.9727 20.0894 77.8645 20.3156 78.7729 20.3025C79.6777 20.3156 80.5729 20.0894 81.3631 19.6434Z"
+              fill="#FF4C00" />
+            <path
+              d="M100.764 23.2172L97.6427 18.7087H94.1966V23.2172H90.4521V7.03267H97.4558C98.7378 7.00317 100.01 7.2458 101.19 7.75075C102.184 8.17699 103.033 8.88523 103.63 9.78692C104.217 10.7214 104.515 11.8067 104.486 12.9084C104.515 14.0101 104.213 15.0921 103.62 16.0167C103.013 16.9119 102.158 17.607 101.158 18.0168L104.787 23.2204H100.764V23.2172ZM99.8165 10.8132C99.0723 10.2787 98.1639 10.0197 97.2525 10.0853H94.1999V15.725H97.2525C98.1673 15.7872 99.0788 15.5282 99.8165 14.9839C100.112 14.7281 100.344 14.4068 100.499 14.0461C100.649 13.6855 100.718 13.2953 100.699 12.9051C100.722 12.5116 100.656 12.1182 100.502 11.7575C100.351 11.3936 100.115 11.0722 99.8199 10.8132H99.8165Z"
+              fill="#FF4C00" />
+            <path
+              d="M119.974 20.2132V23.22H107.442V7.03223H119.673V10.0389H111.164V13.5539H118.679V16.4687H111.164V20.2132H119.971H119.974Z"
+              fill="#FF4C00" />
+            <path
+              d="M46.1004 18.384C45.5726 19.017 44.9103 19.5251 44.1595 19.8629C43.4905 20.158 42.7626 20.3054 42.0314 20.3022C41.097 20.3187 40.1723 20.0923 39.3493 19.6431C39.3198 19.6268 39.2936 19.6071 39.2641 19.5874C38.5296 19.1645 37.923 18.5481 37.5099 17.8037C37.0606 16.9808 36.8344 16.0594 36.8509 15.1217C36.8344 14.1871 37.0606 13.2625 37.5099 12.4395C37.923 11.6985 38.5263 11.0821 39.2641 10.6558C39.2936 10.6394 39.3198 10.6165 39.3493 10.6001C40.1723 10.1509 41.0936 9.92466 42.0314 9.94104C42.7659 9.93449 43.4905 10.082 44.1627 10.3739L45.6874 7.50814C45.6874 7.50814 45.6645 7.49501 45.6512 7.48846C44.448 6.98679 43.1528 6.73433 41.8478 6.754C40.4051 6.73761 38.982 7.05566 37.6804 7.67863C37.5721 7.7311 37.4575 7.77044 37.3493 7.82947C36.0476 8.51475 34.959 9.54758 34.2048 10.8132C33.4343 12.1149 33.0376 13.6101 33.0605 15.1249C33.0376 16.6397 33.4343 18.1317 34.2048 19.4366C34.959 20.6989 36.0476 21.7318 37.3493 22.4171C37.4575 22.4761 37.5721 22.5154 37.6804 22.5679C38.9723 23.1876 40.3887 23.5056 41.8216 23.4925C43.1298 23.5122 44.4283 23.2597 45.6349 22.7516C45.6512 22.745 45.6644 22.7351 45.6808 22.7285C46.776 22.2532 47.7431 21.5253 48.5006 20.6006L46.0972 18.3808L46.1004 18.384Z"
+              fill="#FF4C00" />
+            <path
+              d="M50.593 14.6592L47.3206 14.6723C47.3666 15.4952 47.2257 16.3182 46.9076 17.079C46.6157 17.7512 46.1862 18.3544 45.6485 18.8495C45.3829 19.1052 45.0976 19.3381 44.7861 19.5315C45.1959 20.571 45.5566 21.5381 45.7534 22.6464C46.4781 22.2563 47.1698 21.9481 47.7732 21.3775C48.7437 20.4988 49.4191 19.3807 49.9568 18.1872C49.9634 18.1708 49.9667 18.1544 49.9733 18.1413C50.452 17.0462 50.6651 15.8559 50.5897 14.6624L50.593 14.6592Z"
+              fill="#FF4C00" />
+            <path d="M50.609 14.2627L50.5925 14.6594L48.9892 17.5415H40.5166L42.2315 14.2627H50.609Z" fill="#FF4C00" />
+          </g>
+          <defs>
+            <clipPath id="clip0_4059_26433">
+              <rect width="120" height="29.9648" fill="white" />
+            </clipPath>
+          </defs>
+        </svg>
+
+        
+        
+        <h2>Sorry, you have been blocked</h2>
+        
+        <p class="text">
+          
+          This website is using a security service to protect itself from online attacks. You performed an action that
+          triggered the service and blocked your request.
+          
+        </p>
+      </div>
+      <!-- e:content -->
+
+      <!-- s:reference -->
+      <div class="reference">
+        <div class="reference-item">
+          <div class="label">Reference ID</div>
+          <div>a41fbd12c00b53ab13f3a76bccc21729</div>
+        </div>
+        <div class="reference-item">
+          <div class="label">IP address</div>
+          <div>151.75.139.148</div>
+        </div>
+        <div class="reference-item">
+          <div class="label">Date and time</div>
+          <div>07/29/2026 04:15 PM UTC</div>
+        </div>
+      </div>
+      <!-- e:reference -->
+
+    </main>
+    <!-- e:main -->
+
+  </div>
+  <!-- e:wrapper -->
+
+</body>
+
+</html>
