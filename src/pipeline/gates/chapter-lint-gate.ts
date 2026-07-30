@@ -75,6 +75,15 @@ const GENERIC_TOOL_PROVIDER = new RegExp(
   String.raw`^\s*(?:[-+>|#]\s*)*${INTERNAL_TOOL_TARGET}\s+(?:contiene|contengono|mostra|mostrano|raccoglie|raccolgono)\s+(?:dati\s+riepilogativi|risultati\s+aggregati|informazioni\s+collegate)\s*$`,
   "i"
 )
+const PROFESSIONAL_REPORT = /\breport\s+(?:di\s+laboratorio|clinico|sanitario|diagnostico|radiologico|epidemiologico|statistico|contabile|finanziario|tecnico)\b/gi
+const SPECIFIC_TOOL_ANTECEDENT = new RegExp(
+  String.raw`\b${INTERNAL_TOOL_TOKEN}\b[^.!?;]{0,100}\b(?:seguente|sottostante|intern[oaie]|di\s+revisione|da\s+usare)\b`,
+  "i"
+)
+const ANAPHORIC_TOOL_PROVIDER = new RegExp(
+  String.raw`^\s*(?:(?:esso|essa|questo|questa)\s+)?(?:contiene|riporta|mostra|presenta|raccoglie|descrive|fornisce|espone|ospita|rende\s+disponibil[ei])\b[^.!?;]{0,120}\b${DEPENDENT_CONTENT}\b`,
+  "i"
+)
 
 const DIDACTIC_SECTIONS = [
   { label: "obiettivo didattico", pattern: /\b(?:obiettiv[oi]|risultati? di apprendimento)\b/i },
@@ -199,7 +208,7 @@ function isInsideFence(lines: string[], index: number) {
 }
 
 function hasInternalToolDependency(body: string) {
-  return normalizeInlineMarkdown(body)
+  const sentences = normalizeInlineMarkdown(body)
     .replace(/^\s*#{1,6}\s+(.+)$/gm, "$1.")
     .replace(/:\s*\n+\s*(?:[-+>]|\d+[.)])\s+/g, ": ")
     .replace(/\s*\n{2,}\s*/g, ". ")
@@ -208,19 +217,30 @@ function hasInternalToolDependency(body: string) {
     .split(/[.!?;]+/)
     .map((sentence) => sentence.trim())
     .filter(Boolean)
-    .some(isInternalToolDependency)
+
+  return (
+    sentences.some(isInternalToolDependency) ||
+    sentences.some(
+      (sentence, index) =>
+        SPECIFIC_TOOL_ANTECEDENT.test(sentence) &&
+        Boolean(sentences[index + 1]) &&
+        ANAPHORIC_TOOL_PROVIDER.test(sentences[index + 1])
+    )
+  )
 }
 
 function isInternalToolDependency(sentence: string) {
-  if (!INTERNAL_TOOL.test(sentence)) return false
+  const candidate = sentence.replace(PROFESSIONAL_REPORT, "documento professionale")
+
+  if (!INTERNAL_TOOL.test(candidate)) return false
 
   return (
-    INTERNAL_REPORT.test(sentence) ||
-    INTERNAL_TOOL_COMMAND.test(sentence) ||
-    INTERNAL_TOOL_REFERRAL.test(sentence) ||
-    INTERNAL_CONTENT_LOCATION.test(sentence) ||
-    (INTERNAL_TOOL_PROVIDER.test(sentence) && !isGenericToolContext(sentence)) ||
-    (INTERNAL_CONTENT.test(sentence) && !isGenericToolContext(sentence))
+    INTERNAL_REPORT.test(candidate) ||
+    INTERNAL_TOOL_COMMAND.test(candidate) ||
+    INTERNAL_TOOL_REFERRAL.test(candidate) ||
+    INTERNAL_CONTENT_LOCATION.test(candidate) ||
+    (INTERNAL_TOOL_PROVIDER.test(candidate) && !isGenericToolContext(candidate)) ||
+    (INTERNAL_CONTENT.test(candidate) && !isGenericToolContext(candidate))
   )
 }
 

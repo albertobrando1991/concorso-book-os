@@ -127,7 +127,8 @@ Spiega la distinzione in cinque righe.`
     "Il report di revisione contiene i risultati.",
     "La dashboard rende disponibili i risultati.",
     "La wiki ospita le istruzioni.",
-    "La risposta è disponibile qui:\n\n- nella dashboard."
+    "La risposta è disponibile qui:\n\n- nella dashboard.",
+    "La dashboard seguente è lo strumento da usare.\n\nContiene le risposte."
   ])("blocks the editorial dependency %s from the reader body", (sentence) => {
     expect(codes(chapter(`${validBody}\n\n${sentence}`))).toContain("editorial-dependency")
   })
@@ -152,6 +153,7 @@ Spiega la distinzione in cinque righe.`
     "Un report contiene dati riepilogativi.",
     "Una dashboard mostra risultati aggregati.",
     "La wiki raccoglie informazioni collegate.",
+    "Il referto e il report di laboratorio riportano i risultati.",
     "I risultati sono presentati di seguito\n\nUna dashboard è uno strumento che sintetizza indicatori.",
     "leggere testi, istruzioni, dashboard e documentazione",
     "gestire dati strutturati in tabelle, query, maschere e report"
