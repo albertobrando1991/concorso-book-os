@@ -16,7 +16,7 @@ canonical: true
 tags: ["book-chapter","specialist-module-plan","module-code-m-sa01"]
 book_id: m-sa01-sanita-amministrativa
 outline_section: 0
-draft_stage: structure-ready
+draft_stage: ready-for-writing
 module_code: M-SA01
 module_family: sanita
 last_compiled_from: ["wiki/books/moduli/architettura-moduli-specialistici.md","wiki/books/moduli/m-sa01-sanita-amministrativa/index.md"]
@@ -64,4 +64,4 @@ Atti e procedimenti aziendali; documentazione, accesso e conservazione; front-of
 - Source notes nuove se il modulo richiede aggiornamento o specialismo.
 
 ## Testo editoriale
-Non avviato: lo scaffold documenta soltanto struttura e assegnazioni. La scrittura inizierà dopo il consolidamento delle fonti specifiche e i gate della pipeline.
+Lo step 07 è superato: cinque target della fase C sono autorizzati, con primo target il capitolo 04. Le review dello step 15 restano aperte; nessun capitolo M-SA01 è ancora scritto, congelato o pubblicabile.

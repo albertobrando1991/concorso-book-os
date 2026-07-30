@@ -18,7 +18,7 @@ tags: ["volume", "vol-07", "sanita"]
 
 ## Stato
 
-Pipeline editoriale in avvio. Il dossier fornito dall'autore è acquisito e trasformato in source note, inventario da 74 voci e matrice di copertura. Nessun capitolo specialistico è ancora autorizzato alla pubblicazione.
+Pipeline editoriale in corso. M-SA02 ha due capitoli redatti; M-SA01 è pronto alla fase C con cinque target autorizzati; M-SA03 e M-SA04 restano fermi dopo la preparazione. Nessun capitolo M-SA01 è ancora scritto o pubblicabile.
 
 ## Perimetro
 
