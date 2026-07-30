@@ -202,7 +202,7 @@ La **riformulazione** restituisce con parole neutrali ciò che l'operatore ha co
 
 La riformulazione permette di:
 
-1. permettere all'utente di correggere incomprensioni;
+1. consentire all'utente di correggere incomprensioni;
 2. separare richieste diverse contenute nella stessa narrazione;
 3. evitare di promettere una soluzione prima di aver verificato competenza e presupposti.
 
@@ -588,6 +588,18 @@ Prima di chiudere un contatto verifica:
 - [ ] Ho indicato il passaggio successivo senza promettere l'esito.
 - [ ] Ho registrato o instradato il contatto secondo la procedura.
 - [ ] Ho attivato il responsabile quando il caso superava il mio ruolo.
+
+## Collegamenti con il volume base
+
+Il capitolo contiene le conoscenze necessarie per affrontare il nucleo specialistico in modo autonomo. Per consolidare le tecniche trasversali puoi collegarlo a **Il Metodo BANDO (VOL-01)**:
+
+- **Capitolo 7 — Trasparenza, anticorruzione e privacy**, per il quadro generale sulla protezione dei dati e sui limiti alla comunicazione;
+- **Capitolo 10 — Informatica, PA digitale e competenze digitali**, per i principi generali sui servizi digitali e sull'accessibilità;
+- **Capitolo 15 — La prova scritta e teorico-pratica**, per la struttura generale di una comunicazione amministrativa;
+- **Capitolo 17 — Casi pratici e problem solving amministrativo**, per il metodo di analisi e soluzione dei casi;
+- **Capitolo 18 — Quesiti situazionali e soft skills**, per allenare comunicazione, collaborazione e orientamento al servizio.
+
+Questi rinvii servono ad approfondire il metodo generale: definizioni, distinzioni e procedure necessarie per il front-office sanitario restano sviluppate nel presente capitolo.
 
 ## Riferimenti normativi e professionali essenziali
 
