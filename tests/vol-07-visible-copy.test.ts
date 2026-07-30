@@ -63,6 +63,7 @@ describe("VOL-07 visible editorial copy", () => {
     expect(readerChapters.map((chapter) => [chapter.outlineSection, chapter.title])).toEqual([
       ["4", "Atti, procedimenti e flussi informativi nelle aziende sanitarie"],
       ["5", "Documentazione sanitaria, accesso, privacy e conservazione"],
+      ["6", "Front-office e comunicazione con l'utenza sanitaria"],
       ["1", "Professioni sanitarie: profili, requisiti e prove"],
       ["3", "Discipline professionali: autonomia, responsabilità e deontologia"]
     ])
