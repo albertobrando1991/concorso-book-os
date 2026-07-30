@@ -40,11 +40,11 @@ Un modulo per riga, in ordine di priorità. La colonna `Fasi` è facoltativa: se
 
 ## Capitoli M-XX01
 
-Tabella facoltativa. Se assente, la pipeline deriva i capitoli dai file presenti in `<module id>/chapters/` e lo dichiara nel run-state come `chaptersSource: derived`. Dichiararli esplicitamente serve quando l'ordine di lavorazione non coincide con l'ordine alfabetico o quando la matrice di copertura non è quella predefinita.
+Tabella facoltativa. Se assente, la pipeline deriva i capitoli dai file presenti in `<module id>/chapters/` e lo dichiara nel run-state come `chaptersSource: derived`. Dichiararli esplicitamente serve quando l'ordine di lavorazione non coincide con l'ordine alfabetico, quando la matrice di copertura non è quella predefinita o quando il file non esiste ancora. In una tabella dichiarata il titolo editoriale destinato al lettore è obbligatorio.
 
-| # | File | Matrice | Stato atteso | Note |
-| --- | --- | --- | --- | --- |
-| 01 | chapters/01-nome-file.md | planning/02-matrice-copertura-didattica.md | completo | |
+| # | Titolo | File | Matrice | Stato atteso | Note |
+| --- | --- | --- | --- | --- | --- |
+| 01 | Titolo editoriale destinato al lettore | chapters/01-nome-file.md | planning/02-matrice-copertura-didattica.md | completo | |
 
 ## Dopo la compilazione
 

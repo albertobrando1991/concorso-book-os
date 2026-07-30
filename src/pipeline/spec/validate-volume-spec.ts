@@ -117,16 +117,25 @@ function validateModule(module: VolumeSpecModule, prefix: string, volumePhases: 
   }
 
   const chapterIssues = module.chapters.flatMap((chapter, index) =>
-    validateChapter(chapter.file, chapter.number, `${prefix}.chapters[${index}]`, module.chapterLines[index])
+    validateChapter(chapter, module.chaptersSource, `${prefix}.chapters[${index}]`, module.chapterLines[index])
   )
 
   return [...issues, ...chapterIssues]
 }
 
-function validateChapter(file: string, number: string, prefix: string, line: number | undefined): SpecIssue[] {
+function validateChapter(
+  chapter: VolumeSpecModule["chapters"][number],
+  chaptersSource: VolumeSpecModule["chaptersSource"],
+  prefix: string,
+  line: number | undefined
+): SpecIssue[] {
   const issues: SpecIssue[] = []
+  const { file, number, title } = chapter
 
   if (!number.trim()) issues.push({ field: `${prefix}.number`, message: "Numero capitolo mancante nella colonna #.", line })
+  if (chaptersSource === "declared" && !title.trim()) {
+    issues.push({ field: `${prefix}.title`, message: "Titolo capitolo mancante nella colonna Titolo.", line })
+  }
 
   if (!CHAPTER_FILE.test(file)) {
     issues.push({ field: `${prefix}.file`, message: `Percorso capitolo non valido: "${file}" (atteso chapters/<nome>.md, relativo al modulo).`, line })

@@ -31,12 +31,14 @@ describe("VOL-07 pipeline spec", () => {
       chapters: [
         {
           number: "01",
+          title: "Professioni sanitarie: profili, requisiti e prove",
           file: "chapters/01-mappa-profili-e-prove.md",
           matrix: "planning/02-matrice-copertura-didattica.md",
           expectedStatus: "completo"
         },
         {
           number: "03",
+          title: "Discipline professionali: autonomia, responsabilità e deontologia",
           file: "chapters/03-discipline-professionali-autonomia-responsabilita.md",
           matrix: "planning/02-matrice-copertura-didattica.md",
           expectedStatus: "completo"
@@ -51,30 +53,35 @@ describe("VOL-07 pipeline spec", () => {
       chapters: [
         {
           number: "04",
+          title: "Atti, procedimenti e flussi informativi nelle aziende sanitarie",
           file: "chapters/04-atti-procedimenti-flussi-informativi.md",
           matrix: "planning/02-matrice-copertura-didattica.md",
           expectedStatus: "completo"
         },
         {
           number: "05",
+          title: "Documentazione sanitaria, accesso, privacy e conservazione",
           file: "chapters/05-documentazione-accesso-conservazione.md",
           matrix: "planning/02-matrice-copertura-didattica.md",
           expectedStatus: "completo"
         },
         {
           number: "06",
+          title: "Front office e comunicazione con l'utenza",
           file: "chapters/06-front-office-comunicazione-utenza.md",
           matrix: "planning/02-matrice-copertura-didattica.md",
           expectedStatus: "completo"
         },
         {
           number: "09",
+          title: "Contabilità, budget e controllo di gestione",
           file: "chapters/09-contabilita-budget-controllo-gestione.md",
           matrix: "planning/02-matrice-copertura-didattica.md",
           expectedStatus: "completo"
         },
         {
           number: "10",
+          title: "Procurement sanitario, farmaci, dispositivi e magazzino",
           file: "chapters/10-procurement-farmaci-dispositivi-magazzino.md",
           matrix: "planning/02-matrice-copertura-didattica.md",
           expectedStatus: "completo"

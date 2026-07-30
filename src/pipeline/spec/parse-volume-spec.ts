@@ -6,6 +6,7 @@ export type PhaseId = (typeof PHASE_IDS)[number]
 
 export interface VolumeSpecChapter {
   number: string
+  title: string
   file: string
   matrix: string
   expectedStatus: string
@@ -90,6 +91,7 @@ function collectChapterTables(markdown: string) {
 function toChapter(row: Record<string, string>): VolumeSpecChapter {
   return {
     number: row["#"] ?? row.numero ?? "",
+    title: row.titolo ?? row.title ?? "",
     file: row.file ?? "",
     matrix: row.matrice ?? "",
     expectedStatus: row["stato atteso"] ?? "",

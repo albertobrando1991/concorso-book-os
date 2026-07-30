@@ -29,22 +29,22 @@ Le fasi A e B sono concluse. La fase C è stata aperta in modo progressivo sui c
 
 ## Capitoli M-SA02
 
-| # | File | Matrice | Stato atteso | Note |
-| --- | --- | --- | --- | --- |
-| 01 | chapters/01-mappa-profili-e-prove.md | planning/02-matrice-copertura-didattica.md | completo | Primo ciclo progressivo della fase C |
-| 03 | chapters/03-discipline-professionali-autonomia-responsabilita.md | planning/02-matrice-copertura-didattica.md | completo | Secondo ciclo progressivo della fase C; nucleo Discipline professionali specifiche |
+| # | Titolo | File | Matrice | Stato atteso | Note |
+| --- | --- | --- | --- | --- | --- |
+| 01 | Professioni sanitarie: profili, requisiti e prove | chapters/01-mappa-profili-e-prove.md | planning/02-matrice-copertura-didattica.md | completo | Primo ciclo progressivo della fase C |
+| 03 | Discipline professionali: autonomia, responsabilità e deontologia | chapters/03-discipline-professionali-autonomia-responsabilita.md | planning/02-matrice-copertura-didattica.md | completo | Secondo ciclo progressivo della fase C; nucleo Discipline professionali specifiche |
 
 La fase C procede in modo progressivo sui capitoli 01 e 03 di M-SA02. Il capitolo 02 non viene dichiarato perché il nucleo comune del Metodo BANDO resta nel VOL-01 e non deve essere duplicato.
 
 ## Capitoli M-SA01
 
-| # | File | Matrice | Stato atteso | Note |
-| --- | --- | --- | --- | --- |
-| 04 | chapters/04-atti-procedimenti-flussi-informativi.md | planning/02-matrice-copertura-didattica.md | completo | Atti e procedimenti aziendali; flussi informativi sanitari |
-| 05 | chapters/05-documentazione-accesso-conservazione.md | planning/02-matrice-copertura-didattica.md | completo | Documentazione sanitaria, accesso, privacy, FSE, dossier e conservazione |
-| 06 | chapters/06-front-office-comunicazione-utenza.md | planning/02-matrice-copertura-didattica.md | completo | Front-office, comunicazione, reclami, accessibilità e riservatezza |
-| 09 | chapters/09-contabilita-budget-controllo-gestione.md | planning/02-matrice-copertura-didattica.md | completo | Contabilità economico-patrimoniale, budget e controllo di gestione |
-| 10 | chapters/10-procurement-farmaci-dispositivi-magazzino.md | planning/02-matrice-copertura-didattica.md | completo | Procurement sanitario, farmaci, dispositivi, magazzino e ciclo passivo |
+| # | Titolo | File | Matrice | Stato atteso | Note |
+| --- | --- | --- | --- | --- | --- |
+| 04 | Atti, procedimenti e flussi informativi nelle aziende sanitarie | chapters/04-atti-procedimenti-flussi-informativi.md | planning/02-matrice-copertura-didattica.md | completo | Atti e procedimenti aziendali; flussi informativi sanitari |
+| 05 | Documentazione sanitaria, accesso, privacy e conservazione | chapters/05-documentazione-accesso-conservazione.md | planning/02-matrice-copertura-didattica.md | completo | Documentazione sanitaria, accesso, privacy, FSE, dossier e conservazione |
+| 06 | Front office e comunicazione con l'utenza | chapters/06-front-office-comunicazione-utenza.md | planning/02-matrice-copertura-didattica.md | completo | Front office, comunicazione, reclami, accessibilità e riservatezza |
+| 09 | Contabilità, budget e controllo di gestione | chapters/09-contabilita-budget-controllo-gestione.md | planning/02-matrice-copertura-didattica.md | completo | Contabilità economico-patrimoniale, budget e controllo di gestione |
+| 10 | Procurement sanitario, farmaci, dispositivi e magazzino | chapters/10-procurement-farmaci-dispositivi-magazzino.md | planning/02-matrice-copertura-didattica.md | completo | Procurement sanitario, farmaci, dispositivi, magazzino e ciclo passivo |
 
 La fase C di M-SA01 procede progressivamente dal capitolo 04; le review dello step 15 restano obbligatorie. Nessun capitolo M-SA01 è dichiarato già scritto.
 

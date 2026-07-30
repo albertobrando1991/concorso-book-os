@@ -23,10 +23,10 @@ phases: [C, D, F]
 
 ## Capitoli M-FC02
 
-| # | File | Matrice | Stato atteso | Note |
-| --- | --- | --- | --- | --- |
-| 01 | chapters/01-perimetro.md | planning/02-matrice-copertura-didattica.md | completo | |
-| 02 | chapters/02-tributi.md | planning/02-matrice-copertura-didattica.md | completo | rivedere soglie |
+| # | Titolo | File | Matrice | Stato atteso | Note |
+| --- | --- | --- | --- | --- | --- |
+| 01 | Perimetro delle Agenzie fiscali | chapters/01-perimetro.md | planning/02-matrice-copertura-didattica.md | completo | |
+| 02 | Tributi e procedimenti | chapters/02-tributi.md | planning/02-matrice-copertura-didattica.md | completo | rivedere soglie |
 `
 
 const parse = (markdown: string) => parseVolumeSpec(markdown, specPath)
@@ -55,8 +55,8 @@ describe("parseVolumeSpec", () => {
     const [module] = parse(complete).modules
     expect(module.chaptersSource).toBe("declared")
     expect(module.chapters).toEqual([
-      { number: "01", file: "chapters/01-perimetro.md", matrix: "planning/02-matrice-copertura-didattica.md", expectedStatus: "completo", notes: "" },
-      { number: "02", file: "chapters/02-tributi.md", matrix: "planning/02-matrice-copertura-didattica.md", expectedStatus: "completo", notes: "rivedere soglie" }
+      { number: "01", title: "Perimetro delle Agenzie fiscali", file: "chapters/01-perimetro.md", matrix: "planning/02-matrice-copertura-didattica.md", expectedStatus: "completo", notes: "" },
+      { number: "02", title: "Tributi e procedimenti", file: "chapters/02-tributi.md", matrix: "planning/02-matrice-copertura-didattica.md", expectedStatus: "completo", notes: "rivedere soglie" }
     ])
   })
   it("marks chapters as derived when the module has no chapter table", () => {
@@ -121,6 +121,10 @@ describe("validateVolumeSpec", () => {
   })
   it("rejects a chapter file that is not markdown", () => {
     expect(issueFields(complete.replace("chapters/01-perimetro.md", "chapters/01-perimetro.docx"))).toContain("modules[0].chapters[0].file")
+  })
+  it("requires a public title for every explicitly declared chapter", () => {
+    const markdown = complete.replace("Perimetro delle Agenzie fiscali", "")
+    expect(issueFields(markdown)).toContain("modules[0].chapters[0].title")
   })
   it("points at the sheet line of the offending row", () => {
     const issue = validateVolumeSpec(parse(complete.replace("| M-FC02 |", "| FC02 |"))).find((item) => item.field === "modules[0].code")

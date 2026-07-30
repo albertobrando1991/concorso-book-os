@@ -50,6 +50,7 @@ async function deriveChapters(module: VolumeSpecModule, wikiRoot: string): Promi
     ...module,
     chapters: files.map((file) => ({
       number: /^(\d+[a-z]?)/i.exec(file)?.[1] ?? file.replace(/\.md$/i, ""),
+      title: "",
       file: `chapters/${file}`,
       matrix: "",
       expectedStatus: "",
