@@ -20,6 +20,7 @@ import {
   reconcileBookStudioPayloadState,
   reconcileBookStudioRefreshPayloadState
 } from "./book-studio-state"
+import { EditorialPlanPanel } from "./editorial-plan-panel"
 
 interface BookStudioPanelProps {
   initialData: BookStudioData
@@ -452,6 +453,7 @@ export function BookStudioPanel({
               </>
             ) : null}
           </div>
+          {data.editorialPlan ? <EditorialPlanPanel plan={data.editorialPlan} /> : null}
         </aside>
 
         <div className="bookPreviewShell">
