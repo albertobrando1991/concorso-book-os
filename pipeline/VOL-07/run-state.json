@@ -3,7 +3,7 @@
   "specPath": "books/volumi/vol-07-sanita-amministrativa-professioni-sanitarie/planning/00-scheda-pipeline.md",
   "specHash": "sha256:fb90e085031206512bce3867d92c4ebeafd4005634cbdf82354d4c7824ab750e",
   "createdAt": "2026-07-28T12:27:05.417Z",
-  "updatedAt": "2026-07-30T21:25:53.724Z",
+  "updatedAt": "2026-07-30T21:56:02.681Z",
   "steps": [
     {
       "key": "00:VOL-07",
@@ -912,9 +912,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-sa01-sanita-amministrativa/chapters/10-procurement-farmaci-dispositivi-magazzino.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T21:27:58.882Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-sa01-sanita-amministrativa/chapters/10-procurement-farmaci-dispositivi-magazzino.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Verifica manuale completata: piano salvato in wiki/reviews/pipeline/VOL-07/08-piano-capitolo-m-sa01-10.md; due nuclei, stato reale, fonti, limite dispositivi, confini, casi, output, review, struttura H1-H3 e budget KDP documentati; target non modificato."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-07-30T21:56:02.681Z"
     },
     {
       "key": "09:moduli/m-sa01-sanita-amministrativa/chapters/10-procurement-farmaci-dispositivi-magazzino.md",
