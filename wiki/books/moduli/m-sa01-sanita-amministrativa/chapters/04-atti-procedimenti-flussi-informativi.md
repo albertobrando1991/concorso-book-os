@@ -15,7 +15,7 @@ entities:
   - "Azienda sanitaria"
   - "Ministero della Salute"
   - "Legge 241/1990"
-source_refs: ["sources/ssn-organizzazione-aziende-standard-lea", "sources/bandi-rappresentativi-m-sa01-sanita-amministrativa-2025-2026", "sources/procurement-farmaci-dispositivi-flussi-nsis", "sources/contabilita-budget-aziende-sanitarie", "sources/legge-241-1990-procedimento-amministrativo"]
+source_refs: ["sources/ssn-organizzazione-aziende-standard-lea", "sources/bandi-rappresentativi-m-sa01-sanita-amministrativa-2025-2026", "sources/procurement-farmaci-dispositivi-flussi-nsis", "sources/contabilita-budget-aziende-sanitarie", "sources/flusso-sdo-scheda-dimissione-ospedaliera", "sources/flussi-economici-nsis-modelli-ce-sp", "sources/legge-241-1990-procedimento-amministrativo", "sources/documentazione-sanitaria-accesso-fse-dossier-privacy", "sources/d-lgs-14-marzo-2013-n-33-trasparenza", "sources/garante-privacy-trasparenza-pa-accesso-civico-e-dati-personali", "sources/regolamento-ue-2016-679-gdpr-protezione-dati-personali", "sources/d-lgs-30-giugno-2003-n-196-codice-privacy-e-d-lgs-101-2018-adeguamento-gdpr"]
 book_refs:
   - "m-sa01-sanita-amministrativa"
   - "vol-07-sanita-amministrativa-professioni-sanitarie"
@@ -37,7 +37,7 @@ outline_section: 4
 draft_stage: first-complete-draft
 module_code: M-SA01
 module_family: sanita
-last_compiled_from: ["wiki/reviews/pipeline/VOL-07/08-piano-capitolo-m-sa01-04.md", "wiki/books/moduli/m-sa01-sanita-amministrativa/planning/02-matrice-copertura-didattica.md", "wiki/sources/ssn-organizzazione-aziende-standard-lea.md", "wiki/sources/bandi-rappresentativi-m-sa01-sanita-amministrativa-2025-2026.md", "wiki/sources/procurement-farmaci-dispositivi-flussi-nsis.md", "wiki/sources/contabilita-budget-aziende-sanitarie.md", "wiki/sources/legge-241-1990-procedimento-amministrativo.md"]
+last_compiled_from: ["wiki/reviews/pipeline/VOL-07/08-piano-capitolo-m-sa01-04.md", "wiki/books/moduli/m-sa01-sanita-amministrativa/planning/02-matrice-copertura-didattica.md", "wiki/sources/ssn-organizzazione-aziende-standard-lea.md", "wiki/sources/bandi-rappresentativi-m-sa01-sanita-amministrativa-2025-2026.md", "wiki/sources/procurement-farmaci-dispositivi-flussi-nsis.md", "wiki/sources/contabilita-budget-aziende-sanitarie.md", "wiki/sources/flusso-sdo-scheda-dimissione-ospedaliera.md", "wiki/sources/flussi-economici-nsis-modelli-ce-sp.md", "wiki/sources/legge-241-1990-procedimento-amministrativo.md", "wiki/sources/documentazione-sanitaria-accesso-fse-dossier-privacy.md", "wiki/sources/d-lgs-14-marzo-2013-n-33-trasparenza.md", "wiki/sources/garante-privacy-trasparenza-pa-accesso-civico-e-dati-personali.md", "wiki/sources/regolamento-ue-2016-679-gdpr-protezione-dati-personali.md", "wiki/sources/d-lgs-30-giugno-2003-n-196-codice-privacy-e-d-lgs-101-2018-adeguamento-gdpr.md"]
 ---
 
 # Atti, procedimenti e flussi informativi nelle aziende sanitarie
@@ -336,32 +336,55 @@ La sigla è l'ultimo elemento da imparare, non il primo. Per ogni flusso costrui
 
 Periodicità, tracciati, campi, scadenze e modalità tecniche devono essere verificati nel decreto o disciplinare vigente e nelle istruzioni applicabili. Non sono caratteristiche da ricostruire per analogia.
 
-### SDO: assistenza ospedaliera
+### Scheda verticale 1 — SDO: assistenza ospedaliera
 
-La Scheda di dimissione ospedaliera (SDO) è un flusso specifico riferito all'assistenza ospedaliera. Per il candidato amministrativo è importante riconoscerne la funzione informativa generale e la differenza rispetto ai flussi economici. Non occorre inventare campi o tempi: occorre saper ricostruire la catena dal dato originato nel processo assistenziale alla sua verifica, validazione, trasmissione e utilizzazione per finalità previste.
+**Finalità.** La Scheda di dimissione ospedaliera (SDO) raccoglie informazioni sugli episodi di ricovero erogati negli istituti pubblici e privati. Sostiene programmazione, monitoraggio dell'assistenza ospedaliera e dei LEA, analisi organizzativo-gestionali e clinico-epidemiologiche, valutazioni di appropriatezza, qualità ed esito. Non è un rendiconto economico e non può essere separata dal processo assistenziale che origina le informazioni.
 
-Tre errori sono frequenti:
+**Soggetto alimentante.** La scheda è compilata dal medico che ha avuto in cura il paziente. L'istituto di ricovero trasmette i dati alla Regione o Provincia autonoma; il livello regionale effettua controlli di qualità e invia al Ministero della Salute. Sistemi, ruoli intermedi e passaggi di validazione interni dipendono dall'organizzazione applicabile.
 
-- considerare la SDO un semplice documento amministrativo slegato dal processo assistenziale;
-- confonderla con un rendiconto economico;
-- ritenere che la trasmissione garantisca, da sola, la qualità sostanziale di ogni informazione.
+**Unità di rilevazione.** L'unità è il singolo episodio di ricovero riferito a un paziente dimesso. La SDO sintetizza informazioni della cartella clinica secondo il tracciato vigente; non descrive l'azienda nel suo complesso.
 
-Un dato può superare un controllo formale e restare incoerente rispetto alla fonte. Per questo i controlli devono combinare completezza, congruenza e tracciabilità.
+**Periodicità.** La pagina istituzionale corrente ricorda che l'invio nazionale è divenuto mensile dal 2011. Questo dato non sostituisce la verifica operativa: calendario, scadenze, finestre di correzione e ritrasmissione devono essere controllati nel disciplinare nazionale e nelle istruzioni regionali vigenti.
 
-### CE e SP: rilevazione e monitoraggio economico
+**Controlli.** Occorre verificare completezza, coerenza logica, accuratezza rispetto alla cartella clinica, correttezza della codifica, validità dei valori e tracciabilità delle versioni. Un dato può superare un controllo formale e restare incoerente con la fonte.
 
-I modelli CE e SP appartengono al monitoraggio economico-finanziario del settore sanitario. CE rileva dati riconducibili al conto economico; SP riguarda dati di stato patrimoniale. Sono flussi standardizzati di rilevazione e monitoraggio e non sostituiscono il bilancio dell'azienda, la contabilità generale, la contabilità analitica o il reporting direzionale.
+**Responsabilità.** Il medico compila; l'istituto presidia produzione e invio; Regione o Provincia autonoma controlla e trasmette; il Ministero raccoglie, controlla ed elabora nel proprio ambito. Correzione, validazione ed escalation interne vanno ricostruite nelle regole del setting.
 
-Il loro uso in questo capitolo è limitato a una distinzione informativa:
+**Uso.** Prima di impiegare una SDO o un aggregato derivato occorre verificare periodo, perimetro, classificazione, completezza e versione. La trasmissione non rende il dato automaticamente idoneo a ogni decisione.
 
-| Elemento | SDO | CE | SP |
-| --- | --- | --- | --- |
-| Oggetto generale | assistenza ospedaliera | dati economici | dati patrimoniali |
-| Domanda guida | quale informazione descrive l'episodio assistenziale? | quale andamento economico viene rilevato? | quale consistenza patrimoniale viene rappresentata? |
-| Errore da evitare | trattarla come flusso economico | confonderla con il bilancio completo | confonderlo con un inventario privo di regole |
-| Controllo comune | origine, completezza, coerenza, versione, validazione e uso | origine, completezza, coerenza, versione, validazione e uso | origine, completezza, coerenza, versione, validazione e uso |
+### Scheda verticale 2 — CE: il flusso economico
 
-La teoria di bilancio, budget, centri di costo e scostamenti appartiene al capitolo dedicato alla contabilità sanitaria. Qui interessa comprendere come un dato economico diventa oggetto di un flusso governato.
+**Finalità.** Il modello Conto economico (CE) rileva costi e ricavi degli enti del Servizio sanitario regionale. Serve al monitoraggio della spesa, al consolidamento, alle comparazioni, alle proiezioni e alla verifica degli equilibri. È un modello standardizzato di comunicazione economico-finanziaria: non sostituisce il bilancio, la contabilità generale, la contabilità analitica o il reporting direzionale.
+
+**Soggetto alimentante.** Ciascun ente del Servizio sanitario regionale e la Regione alimentano il flusso verso il NSIS, con le necessarie operazioni di consolidamento. Il perimetro comprende gli enti individuati dalla disciplina applicabile; ruoli, firme e passaggi interni devono risultare dalle procedure vigenti.
+
+**Unità di rilevazione.** L'unità è l'ente o l'aggregato regionale per un determinato periodo contabile. Le voci rappresentano componenti economiche, in particolare costi e ricavi, secondo lo schema vigente; non rappresentano episodi assistenziali individuali.
+
+**Periodicità.** OpenBDAP descrive rilevazioni CE a preventivo, trimestrali e a consuntivo annuale; la banca dati pubblica ministeriale espone dati annuali a consuntivo. Scadenze, versioni, rettifiche e calendari regionali sono elementi mobili da verificare per l'esercizio considerato.
+
+**Controlli.** La verifica collega il modello alla fonte contabile e riguarda completezza, quadratura delle voci, coerenza temporale, corretto perimetro e consolidamento. Un'anomalia non si corregge modificando il solo prospetto finale: va individuato il punto della catena che l'ha generata.
+
+**Responsabilità.** L'ente alimenta e valida secondo il proprio assetto; la Regione consolida e trasmette nel quadro previsto; Ministero e organismi di monitoraggio usano i dati nelle rispettive funzioni. Le responsabilità aziendali non possono essere attribuite senza la fonte organizzativa.
+
+**Uso.** Il CE sostiene monitoraggio infrannuale e annuale, proiezioni del risultato, comparazioni e controllo degli equilibri. L'uso in una decisione richiede sempre perimetro, periodo, versione e stato di validazione.
+
+### Scheda verticale 3 — SP: il flusso patrimoniale
+
+**Finalità.** Il modello Stato patrimoniale (SP) rileva attività e passività e completa la lettura della gestione con la dimensione patrimoniale. È distinto dal CE: SP rappresenta consistenze patrimoniali a una data, mentre CE rappresenta componenti economiche maturate nel periodo.
+
+**Soggetto alimentante.** Ogni ente del Servizio sanitario regionale e la Regione inviano il modello al NSIS secondo il perimetro applicabile. L'alimentazione parte dalla contabilità dell'ente e attraversa i passaggi di controllo e consolidamento previsti.
+
+**Unità di rilevazione.** L'unità è l'ente o l'aggregato regionale per l'esercizio e la data di riferimento del modello. Le voci descrivono consistenze patrimoniali secondo lo schema vigente: SP non è un inventario informale e non descrive singoli ricoveri.
+
+**Periodicità.** La documentazione della Ragioneria generale dello Stato descrive SP come rendicontazione annuale a consuntivo; anche la banca dati ministeriale pubblica dati SP annuali. Data di riferimento, scadenze, finestre di rettifica e calendario regionale devono essere ricontrollati nelle istruzioni correnti.
+
+**Controlli.** Sono necessari completezza e quadratura del modello, corrispondenza con la fonte contabile, coerenza dei saldi e raccordi pertinenti con le variazioni economiche. Anche qui il controllo deve lasciare evidenza dell'anomalia, della correzione e della versione validata.
+
+**Responsabilità.** L'ente alimenta e valida secondo il proprio assetto; la Regione consolida e trasmette; il livello nazionale usa il flusso per monitoraggio e comparazione. Le procedure locali precisano ruoli, autorizzazioni ed escalation.
+
+**Uso.** SP consente di analizzare struttura patrimoniale, attività, passività e variazioni. Va letto insieme al CE e al bilancio, ma non li sostituisce.
+
+La teoria di bilancio, budget, centri di costo e scostamenti appartiene al capitolo dedicato alla contabilità sanitaria. Qui interessa comprendere come i dati economici e patrimoniali entrano in flussi governati e restano distinti dai dati sull'assistenza ospedaliera.
 
 ### Che cosa resta mobile
 

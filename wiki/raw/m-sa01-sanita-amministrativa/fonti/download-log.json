@@ -1,0 +1,24 @@
+{
+  "acquired_at": "2026-07-29T16:25:00+02:00",
+  "purpose": "VOL-07 M-SA01 step 06 - fonti ufficiali specialistiche",
+  "immutable": true,
+  "items": [
+    {"file":"legge-833-1978-normattiva.html","authority":"Normattiva","bytes":101123,"sha256":"AB82E9ECEB687C7B5EBCA02A3267E12A0AA8115E76C9B233024CDFF7D418EFA3","url":"https://www.normattiva.it/atto/caricaDettaglioAtto?atto.codiceRedazionale=078U0833&atto.dataPubblicazioneGazzetta=1978-12-28"},
+    {"file":"dlgs-502-1992-normattiva.html","authority":"Normattiva","bytes":112883,"sha256":"9FC27268E69491DB28B3994BC41A596BDE81BFB8F1D5A836D5906EFD98AAA3B1","url":"https://www.normattiva.it/atto/caricaDettaglioAtto?atto.codiceRedazionale=092G0549&atto.dataPubblicazioneGazzetta=1992-12-30"},
+    {"file":"dlgs-118-2011-normattiva.html","authority":"Normattiva","bytes":137416,"sha256":"E36425AC5A2504A4BA05FB788698060AC60E375437081E54B1779CFE0D626B9B","url":"https://www.normattiva.it/atto/caricaDettaglioAtto?atto.codiceRedazionale=011G0160&atto.dataPubblicazioneGazzetta=2011-07-26"},
+    {"file":"legge-150-2000-normattiva.html","authority":"Normattiva","bytes":78103,"sha256":"B9BA7608A74275BE68E7C95C8E72343141891CE149EA65F073B046A2B4878351","url":"https://www.normattiva.it/atto/caricaDettaglioAtto?atto.codiceRedazionale=000G0183&atto.dataPubblicazioneGazzetta=2000-06-13"},
+    {"file":"dm-70-2015-gazzetta.html","authority":"Gazzetta Ufficiale","bytes":17251,"sha256":"392FD326B9D0E7C277FCFE93594C0D060DF7E77CDC63C7E52689E636BD5957AF","url":"https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.codiceRedazionale=15G00084&atto.dataPubblicazioneGazzetta=2015-06-04"},
+    {"file":"dm-77-2022-gazzetta.html","authority":"Gazzetta Ufficiale","bytes":17347,"sha256":"D481856207136ADB4737C3943979402B74B895E8D4BDC47D66DA2CAEEDE0C86D","url":"https://www.gazzettaufficiale.it/eli/id/2022/06/22/22G00085/SG"},
+    {"file":"dpcm-lea-2017-gazzetta.html","authority":"Gazzetta Ufficiale","bytes":17262,"sha256":"CAC3856555D8AA27635B8DA36FD1A6951DEAFAC3DB0F76CE8C87C35CEC0E5992","url":"https://www.gazzettaufficiale.it/eli/id/2017/03/18/17A02015/sg"},
+    {"file":"ccnl-sanita-2022-2024-aran.pdf","authority":"ARAN","bytes":1232018,"sha256":"2D5A0D966527851B1E06CD2D7E758905877E65EEDAF84E0AAAEB083F3B2FAC47","url":"https://www.aranagenzia.it/wp-content/uploads/2025/10/2025.10.27-CCNL-comparto-definitivo-3.pdf"},
+    {"file":"fse-garante.html","authority":"Garante privacy","bytes":151633,"sha256":"BA43CE3C3049ABB5C7E8D7F27BD59853E2AABADDBCBCB8A8145FDBE3779B34E6","url":"https://www.garanteprivacy.it/temi/fse"},
+    {"file":"fse-dossier-linee-guida-garante-2009.html","authority":"Garante privacy","bytes":177176,"sha256":"DF660A7F0DB7063CD7796379FC0082F86B56DE28716063FBCDC4474C41D97EB2","url":"https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/1634116"},
+    {"file":"dati-economico-finanziari-ssn-ministero.html","authority":"Ministero della Salute","bytes":12780,"sha256":"81143B3C80ABD1BFF7272EE0E803257EE4CC2BC20D1C12C6E6B3CDB18EDB4541","url":"https://www.salute.gov.it/new/it/tema/programmazione-e-finanziamento-del-ssn/dati-economico-finanziari-regionali/"},
+    {"file":"patrimonio-informativo-nsis-ministero.html","authority":"Ministero della Salute","bytes":12781,"sha256":"E189FF5D8D070DDA7FA82E4A23553F5CF4EE0CB2417C66EF84104785D63981DB","url":"https://www.salute.gov.it/new/it/tema/nuovo-sistema-informativo-sanitario/patrimonio-informativo-nsis/"},
+    {"file":"flusso-sdo-ministero.html","authority":"Ministero della Salute","bytes":12779,"sha256":"B2096D9573AF0A0CC70AF39C0521D25F5A82AA1B164E0BE2AB4A49E679F356C7","url":"https://www.salute.gov.it/new/it/tema/assistenza-ospedaliera/il-flusso-informativo-sdo/"},
+    {"file":"osmed-aifa.html","authority":"AIFA","bytes":221328,"sha256":"8128A589094E4BBD674B03B85146EA34AB2973CD870C49DB9A259F32681F9D9A","url":"https://www.aifa.gov.it/osservatorio-impiego-medicinali-osmed"},
+    {"file":"monitoraggio-consumi-dispositivi-ministero.html","authority":"Ministero della Salute","bytes":12781,"sha256":"612BBF25E2F495AF3DE8FC31829405A634C4F76FD45A53D1AC68F6E10308BA65","url":"https://www.salute.gov.it/new/it/tema/dispositivi-medici/il-monitoraggio-dei-consumi/"},
+    {"file":"openbdap-spesa-sanitaria-ce-sp.html","authority":"Ragioneria generale dello Stato - OpenBDAP","bytes":224398,"sha256":"38C9E580D86F02FF9D7B56FB6346D944DE161553FDDAA520DFCE037E9CCC78B6","url":"https://openbdap.rgs.mef.gov.it/Home/LaSpesaSanitaria"},
+    {"file":"rgs-vademecum-collegio-sindacale-ssn-2018.pdf","authority":"Ragioneria generale dello Stato","bytes":6495344,"sha256":"50EDAF4C7574D51EC3EC916CF80C381C523F6A6733DF9C8B72413EB68C3CE0FE","url":"https://www.rgs.mef.gov.it/_Documenti/VERSIONE-I/CIRCOLARI/2018/35/Circolare-Vademecum-per-le-attivita-di-controllo-e-vigilanza-del-Collegio-sindacale-negli-Enti-del-Servizio-Sanitario-Nazionale.pdf"}
+  ]
+}
