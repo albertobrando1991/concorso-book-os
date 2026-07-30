@@ -2,7 +2,7 @@
 id: m-sa01-sanita-amministrativa
 type: specialist_module
 title: "M-SA01 - Sanita amministrativa"
-status: scaffold
+status: draft
 domain: "concorsi pubblici italiani"
 topics: ["moduli specialistici","sanita","metodo bando"]
 entities: ["Metodo BANDO","Capitale Personale"]
@@ -13,15 +13,15 @@ updated_at: 2026-07-30T00:00:00+02:00
 created_at: 2026-06-27T19:56:28+02:00
 review_required: true
 canonical: true
-tags: ["specialist-module","module-family-sanita","module-code-m-sa01","scaffold"]
+tags: ["specialist-module","module-family-sanita","module-code-m-sa01","writing-in-progress"]
 book_id: m-sa01-sanita-amministrativa
 module_code: M-SA01
 module_family: sanita
 module_family_title: "Sanita"
-module_status: writing-ready
+module_status: writing-in-progress
 roadmap_phase: "2"
 companion_to: il-metodo-bando
-draft_stage: ready-for-writing
+draft_stage: chapter-writing-in-progress
 last_compiled_from: ["wiki/books/moduli/architettura-moduli-specialistici.md"]
 ---
 
@@ -35,7 +35,7 @@ Modulo specialistico collegato a [[books/il-metodo-bando/index|Il Metodo BANDO]]
 - Codice modulo: M-SA01
 - Copertura: Aziende sanitarie, ospedali, profili amministrativi e gestione documentale sanitaria.
 - Fase roadmap: 2
-- Stato: step 07 superato; fase C autorizzata per cinque target, senza capitoli completati o pubblicabili.
+- Stato: step 07 superato; il capitolo 04 ha una prima bozza completa dopo la chiusura dello step 09 ed è in attesa dello step 10. Non è congelato né pubblicabile; la scrittura degli altri quattro target non è ancora iniziata.
 
 ## Confine editoriale
 Il modulo non sostituisce il libro principale. Parte dal nucleo comune del Metodo BANDO e aggiunge profili, prove, materie specialistiche, rischi, fonti e casi tipici della famiglia.
@@ -44,11 +44,11 @@ Non deve promettere copertura totale di ogni bando o aggiornamento normativo aut
 
 ## Capitoli di lavoro
 - [[books/moduli/m-sa01-sanita-amministrativa/chapters/00-piano-editoriale|Piano editoriale del modulo]]
-- [[books/moduli/m-sa01-sanita-amministrativa/chapters/04-atti-procedimenti-flussi-informativi|Capitolo 04 - Atti, procedimenti e flussi informativi]] — target della fase C, non completato.
-- [[books/moduli/m-sa01-sanita-amministrativa/chapters/05-documentazione-accesso-conservazione|Capitolo 05 - Documentazione, accesso e conservazione]] — target della fase C, non completato.
-- [[books/moduli/m-sa01-sanita-amministrativa/chapters/06-front-office-comunicazione-utenza|Capitolo 06 - Front-office e comunicazione con l'utenza]] — target della fase C, non completato.
-- [[books/moduli/m-sa01-sanita-amministrativa/chapters/09-contabilita-budget-controllo-gestione|Capitolo 09 - Contabilità, budget e controllo di gestione]] — target della fase C, non completato.
-- [[books/moduli/m-sa01-sanita-amministrativa/chapters/10-procurement-farmaci-dispositivi-magazzino|Capitolo 10 - Procurement, farmaci, dispositivi e magazzino]] — target della fase C, non completato.
+- [[books/moduli/m-sa01-sanita-amministrativa/chapters/04-atti-procedimenti-flussi-informativi|Capitolo 04 - Atti, procedimenti e flussi informativi]] — prima bozza completa; step 09 chiuso, step 10 pending; non congelato né pubblicabile.
+- [[books/moduli/m-sa01-sanita-amministrativa/chapters/05-documentazione-accesso-conservazione|Capitolo 05 - Documentazione, accesso e conservazione]] — target della fase C; scrittura non ancora iniziata.
+- [[books/moduli/m-sa01-sanita-amministrativa/chapters/06-front-office-comunicazione-utenza|Capitolo 06 - Front-office e comunicazione con l'utenza]] — target della fase C; scrittura non ancora iniziata.
+- [[books/moduli/m-sa01-sanita-amministrativa/chapters/09-contabilita-budget-controllo-gestione|Capitolo 09 - Contabilità, budget e controllo di gestione]] — target della fase C; scrittura non ancora iniziata.
+- [[books/moduli/m-sa01-sanita-amministrativa/chapters/10-procurement-farmaci-dispositivi-magazzino|Capitolo 10 - Procurement, farmaci, dispositivi e magazzino]] — target della fase C; scrittura non ancora iniziata.
 
 ## Collegamento al VOL-07
 - Volume: [[books/volumi/vol-07-sanita-amministrativa-professioni-sanitarie/index]]
@@ -66,4 +66,4 @@ Non deve promettere copertura totale di ogni bando o aggiornamento normativo aut
 - Eventuali manuali o banche dati solo dopo schedatura in sources/.
 
 ## Prossimo passo
-Lo step 07 è superato: 8 nuclei su 8 dispongono di fonti, teoria, applicazione, output e verifica. La fase C è autorizzata e inizia con lo step 08 del capitolo 04; nessun capitolo M-SA01 è ancora congelato o pubblicabile.
+Lo step 07 è superato: 8 nuclei su 8 dispongono di fonti, teoria, applicazione, output e verifica. Il capitolo 04 ha chiuso lo step 09 con una prima bozza completa ed è ora fermo allo step 10 pending, senza essere congelato o pubblicabile. Gli altri quattro target non sono ancora scritti; le review dello step 15 restano aperte.

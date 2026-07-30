@@ -2,13 +2,13 @@
 id: vol-07-sanita-amministrativa-professioni-sanitarie
 type: volume
 title: "VOL-07 - Sanità amministrativa e professioni sanitarie"
-status: planning
+status: writing
 domain: "concorsi pubblici italiani"
 topics: ["sanità amministrativa", "professioni sanitarie", "dirigenza sanitaria", "tecnici sanitari"]
 entities: ["Servizio sanitario nazionale", "Ministero della Salute", "Agenas", "Istituto Superiore di Sanità", "Azienda sanitaria"]
 source_refs: ["sources/vol-07-dossier-fonti-materie-sanita-2026-07-28"]
 book_refs: ["m-sa01-sanita-amministrativa", "m-sa02-professioni-sanitarie", "m-sa03-dirigenza-medica-sanitaria", "m-sa04-tecnici-sanitari-prevenzione"]
-updated_at: 2026-07-28T00:00:00+02:00
+updated_at: 2026-07-30T00:00:00+02:00
 review_required: true
 canonical: true
 tags: ["volume", "vol-07", "sanita"]
@@ -18,7 +18,7 @@ tags: ["volume", "vol-07", "sanita"]
 
 ## Stato
 
-Pipeline editoriale in corso. M-SA02 ha due capitoli redatti; M-SA01 è pronto alla fase C con cinque target autorizzati; M-SA03 e M-SA04 restano fermi dopo la preparazione. Nessun capitolo M-SA01 è ancora scritto o pubblicabile.
+Pipeline editoriale in scrittura. M-SA02 ha due capitoli redatti; M-SA01 ha il capitolo 04 redatto allo step 09 e in attesa dello step 10, senza dichiarazioni di congelamento o pubblicabilità; M-SA03 e M-SA04 restano in preparazione.
 
 ## Perimetro
 

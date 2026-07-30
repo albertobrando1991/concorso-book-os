@@ -9,14 +9,14 @@ entities: ["Metodo BANDO"]
 source_refs: ["sources/metodo-bando-progetto-editoriale.md","sources/struttura-madre-il-metodo-bando.md","sources/vol-07-dossier-fonti-materie-sanita-2026-07-28"]
 book_refs: ["m-sa01-sanita-amministrativa","il-metodo-bando","vol-07-sanita-amministrativa-professioni-sanitarie"]
 confidence: 0.55
-updated_at: 2026-07-28T00:00:00+02:00
+updated_at: 2026-07-30T00:00:00+02:00
 created_at: 2026-06-27T19:56:28+02:00
 review_required: true
 canonical: true
 tags: ["book-chapter","specialist-module-plan","module-code-m-sa01"]
 book_id: m-sa01-sanita-amministrativa
 outline_section: 0
-draft_stage: ready-for-writing
+draft_stage: chapter-writing-in-progress
 module_code: M-SA01
 module_family: sanita
 last_compiled_from: ["wiki/books/moduli/architettura-moduli-specialistici.md","wiki/books/moduli/m-sa01-sanita-amministrativa/index.md"]
@@ -64,4 +64,4 @@ Atti e procedimenti aziendali; documentazione, accesso e conservazione; front-of
 - Source notes nuove se il modulo richiede aggiornamento o specialismo.
 
 ## Testo editoriale
-Lo step 07 è superato: cinque target della fase C sono autorizzati, con primo target il capitolo 04. Le review dello step 15 restano aperte; nessun capitolo M-SA01 è ancora scritto, congelato o pubblicabile.
+Lo step 07 è superato e i cinque target della fase C sono autorizzati. Il capitolo 04 ha chiuso lo step 09 con una prima bozza completa ed è ora fermo allo step 10 pending, senza essere congelato o pubblicabile. Gli altri quattro target non sono ancora scritti; le review dello step 15 restano aperte.
