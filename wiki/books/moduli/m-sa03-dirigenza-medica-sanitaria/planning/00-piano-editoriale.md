@@ -1,7 +1,7 @@
 ---
 id: chapter-m-sa03-dirigenza-medica-sanitaria-piano-editoriale
 type: editorial_plan
-title: "Piano editoriale - M-SA03 Dirigenza medica e sanitaria"
+title: "Piano editoriale — M-SA03 Dirigenza medica e sanitaria"
 status: structure
 domain: "concorsi pubblici italiani"
 topics: ["moduli specialistici","sanita","metodo bando"]
@@ -21,15 +21,15 @@ module_family: sanita
 last_compiled_from: ["wiki/books/moduli/architettura-moduli-specialistici.md","wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/index.md"]
 ---
 
-# Piano editoriale - M-SA03 Dirigenza medica e sanitaria
+# Piano editoriale — M-SA03 Dirigenza medica e sanitaria
 
 ## Specifica struttura modulo
 
 ### Obiettivo
-Trasformare il Metodo BANDO in un percorso operativo per la famiglia "Sanita", con focus su Dirigenza medica, sanitaria, professionale, tecnica e amministrativa in ambito SSN.
+Trasformare il Metodo BANDO in un percorso operativo per la famiglia "Sanità", con focus sulla dirigenza medica, sanitaria, professionale, tecnica e amministrativa in ambito SSN.
 
 ### Lettore
-Candidato che ha letto o sta usando Il Metodo BANDO e deve adattare metodo, materie comuni, prove e priorita a questa famiglia concorsuale.
+Candidato che ha letto o sta usando Il Metodo BANDO e deve adattare metodo, materie comuni, prove e priorità a questa famiglia concorsuale.
 
 ### Struttura prevista
 1. Mappa della famiglia concorsuale.
@@ -59,7 +59,7 @@ Disciplina specialistica e casi; linee guida e appropriatezza; clinical governan
 - [[books/volumi/vol-07-sanita-amministrativa-professioni-sanitarie/planning/03-mappa-fonti-specialistiche]]
 - Bandi rappresentativi della famiglia.
 - Normativa ufficiale di settore.
-- Topic pages gia presenti nel wiki.
+- Topic pages già presenti nel wiki.
 - Source notes nuove se il modulo richiede aggiornamento o specialismo.
 
 ## Testo editoriale

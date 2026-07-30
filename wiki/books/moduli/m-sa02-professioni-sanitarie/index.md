@@ -1,7 +1,7 @@
 ---
 id: m-sa02-professioni-sanitarie
 type: specialist_module
-title: "M-SA02 - Professioni sanitarie"
+title: "M-SA02 — Professioni sanitarie"
 status: ready_for_writing
 domain: "concorsi pubblici italiani"
 topics: ["moduli specialistici","sanita","metodo bando"]
@@ -17,7 +17,7 @@ tags: ["specialist-module","module-family-sanita","module-code-m-sa02","scaffold
 book_id: m-sa02-professioni-sanitarie
 module_code: M-SA02
 module_family: sanita
-module_family_title: "Sanita"
+module_family_title: "Sanità"
 module_status: ready_for_writing
 roadmap_phase: "1"
 companion_to: il-metodo-bando
@@ -25,13 +25,13 @@ draft_stage: ready-for-chapter-planning
 last_compiled_from: ["wiki/books/moduli/architettura-moduli-specialistici.md"]
 ---
 
-# M-SA02 - Professioni sanitarie
+# M-SA02 — Professioni sanitarie
 
 ## Ruolo del modulo
 Modulo specialistico collegato a [[books/il-metodo-bando/index|Il Metodo BANDO]]. Serve ad applicare il metodo, le materie comuni e la logica workbook a una famiglia concorsuale specifica.
 
 ## Perimetro
-- Famiglia: Sanita
+- Famiglia: Sanità
 - Codice modulo: M-SA02
 - Copertura di lavoro: infermieri, ostetriche, fisioterapisti, TPALL e un sub-verticale OSS distinto. Il cluster di sei bandi OSS conferma il perimetro; procedure e stazioni restano non esecutive fino alla review dello step 15.
 - Fase roadmap: 1
@@ -44,8 +44,8 @@ Non deve promettere copertura totale di ogni bando o aggiornamento normativo aut
 
 ## Capitoli di lavoro
 - [[books/moduli/m-sa02-professioni-sanitarie/planning/00-piano-editoriale|Piano editoriale del modulo]]
-- [[books/moduli/m-sa02-professioni-sanitarie/chapters/01-mappa-profili-e-prove|Capitolo 01 - Professioni sanitarie: profili, requisiti e prove]]
-- [[books/moduli/m-sa02-professioni-sanitarie/chapters/03-discipline-professionali-autonomia-responsabilita|Capitolo 03 - Discipline professionali: autonomia, responsabilità e deontologia]]
+- [[books/moduli/m-sa02-professioni-sanitarie/chapters/01-mappa-profili-e-prove|Capitolo 01 — Professioni sanitarie: profili, requisiti e prove]]
+- [[books/moduli/m-sa02-professioni-sanitarie/chapters/03-discipline-professionali-autonomia-responsabilita|Capitolo 03 — Discipline professionali: autonomia, responsabilità e deontologia]]
 - [[books/moduli/m-sa02-professioni-sanitarie/planning/02-matrice-copertura-didattica|Matrice di copertura didattica M-SA02]]
 - [[books/moduli/m-sa02-professioni-sanitarie/planning/03-batteria-esercizi-epidemiologia-screening|Batteria di esercizi su epidemiologia e screening]]
 - [[books/moduli/m-sa02-professioni-sanitarie/planning/04-scenario-risposta-segnale-epidemiologico|Scenario di risposta a un segnale epidemiologico]]

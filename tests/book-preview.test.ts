@@ -523,7 +523,7 @@ describe("book preview assets", () => {
       const moduleOpening = data.chapters.find((chapter) => chapter.frontMatterLayout === "module-opening")
 
       expect(data.bookId).toBe("volumi/vol-03")
-      expect(data.title).toBe("VOL-03 - Funzioni centrali, Fisco, Previdenza e Ispettivo")
+      expect(data.title).toBe("VOL-03 — Funzioni centrali, Fisco, Previdenza e Ispettivo")
       expect(generatedTitles.slice(0, 6)).toEqual([
         "Servizi digitali inclusi",
         "Frontespizio",

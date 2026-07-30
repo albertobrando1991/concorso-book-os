@@ -247,7 +247,7 @@ async function buildVolumeBookStudioData(store: FileWikiStore, volume: TextVolum
 
   return {
     bookId,
-    title: `${volume.code} - ${volume.title}`,
+    title: `${volume.code} — ${volume.title}`,
     updatedAt: new Date().toISOString(),
     summary: {
       chapters: chapters.length,
@@ -400,7 +400,7 @@ function buildModuleOpeningSection(input: {
 
   return {
     path,
-    title: `${input.moduleCode} - ${stripModuleCode(input.moduleTitle)}`,
+    title: `${input.moduleCode} — ${stripModuleCode(input.moduleTitle)}`,
     outlineSection: input.moduleCode,
     bookScope: "main",
     sectionType: "front_matter",
@@ -524,7 +524,7 @@ function buildModuleOpeningMarkdown(moduleCode: string, moduleTitle: string, vol
     "",
     `## ${stripModuleCode(moduleTitle)}`,
     "",
-    `Sezione interna del volume ${volume.code} - ${volume.title}.`,
+    `Sezione interna del volume ${volume.code} — ${volume.title}.`,
     "",
     "| Blocco | Sommario del modulo |",
     "| --- | --- |",
@@ -595,7 +595,7 @@ function compactIndexLabel(outlineSection: string) {
 }
 
 function stripModuleCode(value: string) {
-  return value.replace(/^M-[A-Z]{2}\d{2}\s*[-–]\s*/i, "").trim()
+  return value.replace(/^M-[A-Z]{2}\d{2}\s*[-–—]\s*/i, "").trim()
 }
 
 function slugForGeneratedPath(value: string) {

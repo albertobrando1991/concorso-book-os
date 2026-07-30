@@ -1,7 +1,7 @@
 ---
 id: chapter-m-sa02-professioni-sanitarie-piano-editoriale
 type: editorial_plan
-title: "Piano editoriale - M-SA02 Professioni sanitarie"
+title: "Piano editoriale — M-SA02 Professioni sanitarie"
 status: structure
 domain: "concorsi pubblici italiani"
 topics: ["moduli specialistici","sanita","metodo bando"]
@@ -21,7 +21,7 @@ module_family: sanita
 last_compiled_from: ["wiki/books/moduli/architettura-moduli-specialistici.md","wiki/books/moduli/m-sa02-professioni-sanitarie/index.md"]
 ---
 
-# Piano editoriale - M-SA02 Professioni sanitarie
+# Piano editoriale — M-SA02 Professioni sanitarie
 
 ## Specifica struttura modulo
 

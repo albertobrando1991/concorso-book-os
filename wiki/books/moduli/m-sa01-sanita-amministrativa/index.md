@@ -1,7 +1,7 @@
 ---
 id: m-sa01-sanita-amministrativa
 type: specialist_module
-title: "M-SA01 - Sanita amministrativa"
+title: "M-SA01 — Sanità amministrativa"
 status: draft
 domain: "concorsi pubblici italiani"
 topics: ["moduli specialistici","sanita","metodo bando"]
@@ -17,7 +17,7 @@ tags: ["specialist-module","module-family-sanita","module-code-m-sa01","writing-
 book_id: m-sa01-sanita-amministrativa
 module_code: M-SA01
 module_family: sanita
-module_family_title: "Sanita"
+module_family_title: "Sanità"
 module_status: writing-in-progress
 roadmap_phase: "2"
 companion_to: il-metodo-bando
@@ -25,13 +25,13 @@ draft_stage: chapter-writing-in-progress
 last_compiled_from: ["wiki/books/moduli/architettura-moduli-specialistici.md"]
 ---
 
-# M-SA01 - Sanita amministrativa
+# M-SA01 — Sanità amministrativa
 
 ## Ruolo del modulo
 Modulo specialistico collegato a [[books/il-metodo-bando/index|Il Metodo BANDO]]. Serve ad applicare il metodo, le materie comuni e la logica workbook a una famiglia concorsuale specifica.
 
 ## Perimetro
-- Famiglia: Sanita
+- Famiglia: Sanità
 - Codice modulo: M-SA01
 - Copertura: Aziende sanitarie, ospedali, profili amministrativi e gestione documentale sanitaria.
 - Fase roadmap: 2
@@ -43,12 +43,12 @@ Il modulo non sostituisce il libro principale. Parte dal nucleo comune del Metod
 Non deve promettere copertura totale di ogni bando o aggiornamento normativo automatico. Le sezioni normative e specialistiche richiedono source notes consolidate e review umana.
 
 ## Capitoli di lavoro
-- [[books/moduli/m-sa01-sanita-amministrativa/chapters/00-piano-editoriale|Piano editoriale del modulo]]
-- [[books/moduli/m-sa01-sanita-amministrativa/chapters/04-atti-procedimenti-flussi-informativi|Capitolo 04 - Atti, procedimenti e flussi informativi]] — prima bozza completa; step 09 chiuso, step 10 pending; non congelato né pubblicabile.
-- [[books/moduli/m-sa01-sanita-amministrativa/chapters/05-documentazione-accesso-conservazione|Capitolo 05 - Documentazione, accesso e conservazione]] — target della fase C; scrittura non ancora iniziata.
-- [[books/moduli/m-sa01-sanita-amministrativa/chapters/06-front-office-comunicazione-utenza|Capitolo 06 - Front-office e comunicazione con l'utenza]] — target della fase C; scrittura non ancora iniziata.
-- [[books/moduli/m-sa01-sanita-amministrativa/chapters/09-contabilita-budget-controllo-gestione|Capitolo 09 - Contabilità, budget e controllo di gestione]] — target della fase C; scrittura non ancora iniziata.
-- [[books/moduli/m-sa01-sanita-amministrativa/chapters/10-procurement-farmaci-dispositivi-magazzino|Capitolo 10 - Procurement, farmaci, dispositivi e magazzino]] — target della fase C; scrittura non ancora iniziata.
+- [[books/moduli/m-sa01-sanita-amministrativa/planning/00-piano-editoriale|Piano editoriale del modulo]]
+- [[books/moduli/m-sa01-sanita-amministrativa/chapters/04-atti-procedimenti-flussi-informativi|Capitolo 04 — Atti, procedimenti e flussi informativi]] — prima bozza completa; step 09 chiuso, step 10 pending; non congelato né pubblicabile.
+- [[books/moduli/m-sa01-sanita-amministrativa/chapters/05-documentazione-accesso-conservazione|Capitolo 05 — Documentazione, accesso e conservazione]] — target della fase C; scrittura non ancora iniziata.
+- [[books/moduli/m-sa01-sanita-amministrativa/chapters/06-front-office-comunicazione-utenza|Capitolo 06 — Front-office e comunicazione con l'utenza]] — target della fase C; scrittura non ancora iniziata.
+- [[books/moduli/m-sa01-sanita-amministrativa/chapters/09-contabilita-budget-controllo-gestione|Capitolo 09 — Contabilità, budget e controllo di gestione]] — target della fase C; scrittura non ancora iniziata.
+- [[books/moduli/m-sa01-sanita-amministrativa/chapters/10-procurement-farmaci-dispositivi-magazzino|Capitolo 10 — Procurement, farmaci, dispositivi e magazzino]] — target della fase C; scrittura non ancora iniziata.
 
 ## Collegamento al VOL-07
 - Volume: [[books/volumi/vol-07-sanita-amministrativa-professioni-sanitarie/index]]

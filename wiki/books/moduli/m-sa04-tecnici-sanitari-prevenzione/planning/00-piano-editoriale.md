@@ -1,7 +1,7 @@
 ---
 id: chapter-m-sa04-tecnici-sanitari-prevenzione-piano-editoriale
 type: editorial_plan
-title: "Piano editoriale - M-SA04 Tecnici sanitari e prevenzione"
+title: "Piano editoriale — M-SA04 Tecnici sanitari e prevenzione"
 status: structure
 domain: "concorsi pubblici italiani"
 topics: ["moduli specialistici","sanita","metodo bando"]
@@ -21,15 +21,15 @@ module_family: sanita
 last_compiled_from: ["wiki/books/moduli/architettura-moduli-specialistici.md","wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/index.md"]
 ---
 
-# Piano editoriale - M-SA04 Tecnici sanitari e prevenzione
+# Piano editoriale — M-SA04 Tecnici sanitari e prevenzione
 
 ## Specifica struttura modulo
 
 ### Obiettivo
-Trasformare il Metodo BANDO in un percorso operativo per la famiglia "Sanita", con focus su Tecnici sanitari, prevenzione, sicurezza, laboratori e profili tecnico-sanitari.
+Trasformare il Metodo BANDO in un percorso operativo per la famiglia "Sanità", con focus su tecnici sanitari, prevenzione, sicurezza, laboratori e profili tecnico-sanitari.
 
 ### Lettore
-Candidato che ha letto o sta usando Il Metodo BANDO e deve adattare metodo, materie comuni, prove e priorita a questa famiglia concorsuale.
+Candidato che ha letto o sta usando Il Metodo BANDO e deve adattare metodo, materie comuni, prove e priorità a questa famiglia concorsuale.
 
 ### Struttura prevista
 1. Mappa della famiglia concorsuale.
@@ -59,7 +59,7 @@ Tecniche di laboratorio; biochimica, microbiologia ed ematologia applicate; bios
 - [[books/volumi/vol-07-sanita-amministrativa-professioni-sanitarie/planning/03-mappa-fonti-specialistiche]]
 - Bandi rappresentativi della famiglia.
 - Normativa ufficiale di settore.
-- Topic pages gia presenti nel wiki.
+- Topic pages già presenti nel wiki.
 - Source notes nuove se il modulo richiede aggiornamento o specialismo.
 
 ## Testo editoriale

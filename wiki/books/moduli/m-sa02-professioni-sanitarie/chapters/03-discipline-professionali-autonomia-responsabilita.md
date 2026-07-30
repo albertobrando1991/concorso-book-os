@@ -9,6 +9,7 @@ book_refs: ["m-sa02-professioni-sanitarie", "vol-07-sanita-amministrativa-profes
 book_id: m-sa02-professioni-sanitarie
 module_code: M-SA02
 chapter_number: "03"
+outline_section: 3
 draft_stage: written
 review_required: true
 canonical: true

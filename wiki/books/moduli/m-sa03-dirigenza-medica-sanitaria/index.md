@@ -1,7 +1,7 @@
 ---
 id: m-sa03-dirigenza-medica-sanitaria
 type: specialist_module
-title: "M-SA03 - Dirigenza medica e sanitaria"
+title: "M-SA03 — Dirigenza medica e sanitaria"
 status: scaffold
 domain: "concorsi pubblici italiani"
 topics: ["moduli specialistici","sanita","metodo bando"]
@@ -17,7 +17,7 @@ tags: ["specialist-module","module-family-sanita","module-code-m-sa03","scaffold
 book_id: m-sa03-dirigenza-medica-sanitaria
 module_code: M-SA03
 module_family: sanita
-module_family_title: "Sanita"
+module_family_title: "Sanità"
 module_status: scaffold
 roadmap_phase: "3"
 companion_to: il-metodo-bando
@@ -25,13 +25,13 @@ draft_stage: structure-ready
 last_compiled_from: ["wiki/books/moduli/architettura-moduli-specialistici.md"]
 ---
 
-# M-SA03 - Dirigenza medica e sanitaria
+# M-SA03 — Dirigenza medica e sanitaria
 
 ## Ruolo del modulo
 Modulo specialistico collegato a [[books/il-metodo-bando/index|Il Metodo BANDO]]. Serve ad applicare il metodo, le materie comuni e la logica workbook a una famiglia concorsuale specifica.
 
 ## Perimetro
-- Famiglia: Sanita
+- Famiglia: Sanità
 - Codice modulo: M-SA03
 - Copertura: Dirigenza medica, sanitaria, professionale, tecnica e amministrativa in ambito SSN.
 - Fase roadmap: 3
@@ -43,7 +43,7 @@ Il modulo non sostituisce il libro principale. Parte dal nucleo comune del Metod
 Non deve promettere copertura totale di ogni bando o aggiornamento normativo automatico. Le sezioni normative e specialistiche richiedono source notes consolidate e review umana.
 
 ## Capitoli di lavoro
-- [[books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/00-piano-editoriale|Piano editoriale del modulo]]
+- [[books/moduli/m-sa03-dirigenza-medica-sanitaria/planning/00-piano-editoriale|Piano editoriale del modulo]]
 
 ## Collegamento al VOL-07
 - Volume: [[books/volumi/vol-07-sanita-amministrativa-professioni-sanitarie/index]]
@@ -57,7 +57,7 @@ Non deve promettere copertura totale di ogni bando o aggiornamento normativo aut
 - [[books/volumi/vol-07-sanita-amministrativa-professioni-sanitarie/planning/03-mappa-fonti-specialistiche]]
 - Bandi rappresentativi recenti della famiglia.
 - Normativa e regolamenti ufficiali del settore.
-- Topic pages e source notes gia presenti nel wiki.
+- Topic pages e source notes già presenti nel wiki.
 - Eventuali manuali o banche dati solo dopo schedatura in sources/.
 
 ## Prossimo passo

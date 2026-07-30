@@ -1,7 +1,7 @@
 ---
 id: chapter-m-sa01-sanita-amministrativa-piano-editoriale
 type: editorial_plan
-title: "Piano editoriale - M-SA01 Sanita amministrativa"
+title: "Piano editoriale — M-SA01 Sanità amministrativa"
 status: structure
 domain: "concorsi pubblici italiani"
 topics: ["moduli specialistici","sanita","metodo bando"]
@@ -21,15 +21,15 @@ module_family: sanita
 last_compiled_from: ["wiki/books/moduli/architettura-moduli-specialistici.md","wiki/books/moduli/m-sa01-sanita-amministrativa/index.md"]
 ---
 
-# Piano editoriale - M-SA01 Sanita amministrativa
+# Piano editoriale — M-SA01 Sanità amministrativa
 
 ## Specifica struttura modulo
 
 ### Obiettivo
-Trasformare il Metodo BANDO in un percorso operativo per la famiglia "Sanita", con focus su Aziende sanitarie, ospedali, profili amministrativi e gestione documentale sanitaria.
+Trasformare il Metodo BANDO in un percorso operativo per la famiglia "Sanità", con focus su aziende sanitarie, ospedali, profili amministrativi e gestione documentale sanitaria.
 
 ### Lettore
-Candidato che ha letto o sta usando Il Metodo BANDO e deve adattare metodo, materie comuni, prove e priorita a questa famiglia concorsuale.
+Candidato che ha letto o sta usando Il Metodo BANDO e deve adattare metodo, materie comuni, prove e priorità a questa famiglia concorsuale.
 
 ### Struttura prevista
 1. Mappa della famiglia concorsuale.

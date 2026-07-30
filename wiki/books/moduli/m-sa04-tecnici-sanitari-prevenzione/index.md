@@ -1,7 +1,7 @@
 ---
 id: m-sa04-tecnici-sanitari-prevenzione
 type: specialist_module
-title: "M-SA04 - Tecnici sanitari e prevenzione"
+title: "M-SA04 — Tecnici sanitari e prevenzione"
 status: scaffold
 domain: "concorsi pubblici italiani"
 topics: ["moduli specialistici","sanita","metodo bando"]
@@ -17,7 +17,7 @@ tags: ["specialist-module","module-family-sanita","module-code-m-sa04","scaffold
 book_id: m-sa04-tecnici-sanitari-prevenzione
 module_code: M-SA04
 module_family: sanita
-module_family_title: "Sanita"
+module_family_title: "Sanità"
 module_status: scaffold
 roadmap_phase: "3"
 companion_to: il-metodo-bando
@@ -25,13 +25,13 @@ draft_stage: structure-ready
 last_compiled_from: ["wiki/books/moduli/architettura-moduli-specialistici.md"]
 ---
 
-# M-SA04 - Tecnici sanitari e prevenzione
+# M-SA04 — Tecnici sanitari e prevenzione
 
 ## Ruolo del modulo
 Modulo specialistico collegato a [[books/il-metodo-bando/index|Il Metodo BANDO]]. Serve ad applicare il metodo, le materie comuni e la logica workbook a una famiglia concorsuale specifica.
 
 ## Perimetro
-- Famiglia: Sanita
+- Famiglia: Sanità
 - Codice modulo: M-SA04
 - Copertura: Tecnici sanitari, prevenzione, sicurezza, laboratori e profili tecnico-sanitari.
 - Fase roadmap: 3
@@ -57,7 +57,7 @@ Non deve promettere copertura totale di ogni bando o aggiornamento normativo aut
 - [[books/volumi/vol-07-sanita-amministrativa-professioni-sanitarie/planning/03-mappa-fonti-specialistiche]]
 - Bandi rappresentativi recenti della famiglia.
 - Normativa e regolamenti ufficiali del settore.
-- Topic pages e source notes gia presenti nel wiki.
+- Topic pages e source notes già presenti nel wiki.
 - Eventuali manuali o banche dati solo dopo schedatura in sources/.
 
 ## Prossimo passo
