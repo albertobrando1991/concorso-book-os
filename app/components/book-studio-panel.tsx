@@ -15,6 +15,7 @@ import type { ManualWriterMode, RevisionDiffSummary } from "@/src/server/agents/
 import type { BookStudioChapter, BookStudioData, MarkdownBlock } from "@/src/server/book/book-preview"
 import { ricettarioModuleLabel } from "@/src/server/book/book-studio-labels"
 import type { WriterProvider } from "@/src/server/config"
+import { getInitialBookStudioChapterPath, reconcileBookStudioPayloadState } from "./book-studio-state"
 
 interface BookStudioPanelProps {
   initialData: BookStudioData
@@ -81,8 +82,10 @@ export function BookStudioPanel({
   writerModel,
   writerReasoningEffort
 }: BookStudioPanelProps) {
-  const [data, setData] = useState(initialData)
-  const [selectedPath, setSelectedPath] = useState(getInitialChapterPath(initialData, initialChapterPath))
+  const [{ data, selectedPath }, setBookStudioPayloadState] = useState(() => ({
+    data: initialData,
+    selectedPath: getInitialBookStudioChapterPath(initialData.chapters, initialChapterPath)
+  }))
   const [viewMode, setViewMode] = useState<ViewMode>("chapter")
   const [writerMode, setWriterMode] = useState<ManualWriterMode>("integrate")
   const [selectedProvider, setSelectedProvider] = useState<WriterProvider>(writerProvider)
@@ -132,18 +135,19 @@ export function BookStudioPanel({
   const previewPages = measuredPages || estimatedPages
 
   useEffect(() => {
-    setData(initialData)
-    setSelectedPath(getInitialChapterPath(initialData, initialChapterPath))
+    setBookStudioPayloadState((currentState) =>
+      reconcileBookStudioPayloadState(currentState, initialData, initialChapterPath)
+    )
     setViewMode("chapter")
     setMessage("")
     setError("")
     setLastResult(null)
     setMeasuredPages(null)
-  }, [initialData.bookId, initialChapterPath])
+  }, [initialData, initialChapterPath])
 
   const openChapter = useCallback((chapter: BookStudioChapter, event?: React.MouseEvent<HTMLAnchorElement>) => {
     event?.preventDefault()
-    setSelectedPath(chapter.path)
+    setBookStudioPayloadState((currentState) => ({ ...currentState, selectedPath: chapter.path }))
     setViewMode("chapter")
     setMeasuredPages(null)
     window.history.replaceState(null, "", chapterStudioHref(data.bookId, chapter.path))
@@ -222,12 +226,9 @@ export function BookStudioPanel({
         throw new Error(payload.error || "Impossibile aggiornare lo Studio Libro")
       }
 
-      setData(payload)
-      if (payload.chapters.some((chapter: BookStudioChapter) => chapter.path === preferredPath)) {
-        setSelectedPath(preferredPath)
-      } else if (!payload.chapters.some((chapter: BookStudioChapter) => chapter.path === selectedPath)) {
-        setSelectedPath(payload.chapters[0]?.path || "")
-      }
+      setBookStudioPayloadState((currentState) =>
+        reconcileBookStudioPayloadState(currentState, payload, preferredPath)
+      )
       if (nextMessage) {
         setMessage(nextMessage)
       }
@@ -622,14 +623,6 @@ export function BookStudioPanel({
       {lastResult?.revisionDiff ? <RevisionDiffPanel result={lastResult} /> : null}
     </section>
   )
-}
-
-function getInitialChapterPath(data: BookStudioData, requestedPath?: string) {
-  if (requestedPath && data.chapters.some((chapter) => chapter.path === requestedPath)) {
-    return requestedPath
-  }
-
-  return data.chapters[0]?.path || ""
 }
 
 function chapterStudioHref(bookId: string, chapterPath: string) {
