@@ -9,26 +9,26 @@ entities: ["Ministero della Salute", "Regioni", "Azienda sanitaria"]
 source_refs: ["sources/procurement-farmaci-dispositivi-flussi-nsis"]
 book_refs: ["m-sa01-sanita-amministrativa", "vol-07-sanita-amministrativa-professioni-sanitarie"]
 confidence: 0.96
-updated_at: 2026-07-30T14:10:00+02:00
+updated_at: 2026-07-30T14:40:00+02:00
 created_at: 2026-07-30T14:10:00+02:00
 review_required: true
 canonical: true
 tags: ["source", "m-sa01", "nsis", "sdo", "assistenza-ospedaliera"]
 source_type: official_primary_and_operational
-source_url: "https://www.salute.gov.it/new/it/tema/assistenza-ospedaliera/il-flusso-informativo-sdo/"
-source_date: 2026-07-30
+source_url: "https://www.gazzettaufficiale.it/eli/gu/2017/02/07/31/sg/pdf"
+source_date: 2017-02-07
 authority_level: primary_official
-raw_path: "wiki/raw/m-sa01-sanita-amministrativa/fonti/flusso-sdo-ministero.html"
-sha256: "B2096D9573AF0A0CC70AF39C0521D25F5A82AA1B164E0BE2AB4A49E679F356C7"
+raw_path: "wiki/raw/m-sa01-sanita-amministrativa/fonti/dm-261-2016-sdo-gazzetta.pdf"
+sha256: "A9FED7060A8D6447573646E52D47876E63A66A6778166BC6F52A2B7D8AA64D2B"
 ---
 
 # Flusso SDO - Scheda di dimissione ospedaliera
 
 ## Fonti ufficiali verificate
 
-La pagina corrente del Ministero della Salute sul flusso informativo SDO è stata ricontrollata il 30 luglio 2026. La pagina ricostruisce la base normativa dal D.M. 28 dicembre 1991 al D.M. 27 ottobre 2000, n. 380 e alle successive modifiche, tra cui il D.M. 8 luglio 2010, n. 135, il D.M. 7 dicembre 2016, n. 261 e il D.M. 26 settembre 2023, n. 165. Il file ministeriale acquisito il 29 luglio 2026 è registrato nel manifest M-SA01 con byte e SHA-256.
+La prova primaria locale è il fascicolo della *Gazzetta Ufficiale*, serie generale n. 31 del 7 febbraio 2017, che contiene il D.M. 7 dicembre 2016, n. 261 e il relativo disciplinare tecnico. Il PDF, acquisito il 30 luglio 2026, è valido, leggibile e registrato nel manifest M-SA01 con byte e SHA-256. Il decreto modifica il D.M. 27 ottobre 2000, n. 380 e documenta direttamente contenuti, unità di rilevazione, responsabilità di compilazione, alimentazione mensile da parte delle Regioni e Province autonome, trasmissione elettronica al NSIS, finalità e presidi tecnici del flusso.
 
-Sono state verificate anche la pagina ministeriale "La scheda di dimissione ospedaliera" e le specifiche funzionali pubblicate dal Ministero. Tracciati, campi, classificazioni e schemi tecnici restano elementi mobili: prima di una pubblicazione o applicazione operativa va controllata la versione corrente del decreto, delle specifiche e delle istruzioni regionali.
+Il precedente file `flusso-sdo-ministero.html` è conservato immutabile per audit, ma contiene soltanto una pagina di challenge Gcore: nel manifest è marcato come bloccato e non valido per il corpus. La pagina ministeriale corrente e le specifiche funzionali restano riferimenti da ricontrollare al cut-off editoriale, ma nessun claim di questa nota dipende dal file HTML fallito. Tracciati, campi, classificazioni e schemi tecnici sono elementi mobili: prima di una pubblicazione o applicazione operativa va verificata la versione corrente del decreto, delle specifiche e delle istruzioni regionali.
 
 ## Carta d'identità del flusso
 
@@ -46,7 +46,7 @@ L'unità è l'episodio di ricovero relativo a un paziente dimesso da un istituto
 
 ### Periodicità
 
-La pagina ministeriale corrente ricorda che il D.M. 135/2010 ha portato l'invio da semestrale a trimestrale per il 2010 e a mensile dal 2011. Questa indicazione descrive l'assetto nazionale riportato dal Ministero, ma non autorizza a inventare il calendario operativo: scadenze, finestre di correzione, ritrasmissioni e specifiche vanno controllate nel disciplinare nazionale corrente e nelle istruzioni regionali applicabili.
+Il D.M. 261/2016 sostituisce espressamente, nell'articolo 3 del D.M. 380/2000, la cadenza trimestrale con quella mensile e stabilisce la trasmissione elettronica al Ministero nell'ambito del NSIS. Questa indicazione descrive l'assetto nazionale documentato dal decreto, ma non autorizza a inventare il calendario operativo: scadenze, finestre di correzione, ritrasmissioni e specifiche vanno controllate nel disciplinare nazionale corrente e nelle istruzioni regionali applicabili.
 
 ### Controlli
 

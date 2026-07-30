@@ -2,3 +2,5 @@
 *.png binary
 
 wiki/raw/business/vol-07-sanita-amministrativa-professioni-sanitarie-2026-07-28.txt -text
+
+wiki/raw/**/*.html -whitespace

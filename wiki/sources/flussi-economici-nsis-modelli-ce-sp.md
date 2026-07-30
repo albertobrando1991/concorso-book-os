@@ -9,32 +9,30 @@ entities: ["Ministero della Salute", "Ragioneria generale dello Stato", "Regioni
 source_refs: ["sources/contabilita-budget-aziende-sanitarie", "sources/armonizzazione-contabile-enti-territoriali-d-lgs-118-2011"]
 book_refs: ["m-sa01-sanita-amministrativa", "vol-07-sanita-amministrativa-professioni-sanitarie"]
 confidence: 0.95
-updated_at: 2026-07-30T14:10:00+02:00
+updated_at: 2026-07-30T14:40:00+02:00
 created_at: 2026-07-30T14:10:00+02:00
 review_required: true
 canonical: true
 tags: ["source", "m-sa01", "nsis", "ce", "sp", "contabilita-sanitaria"]
 source_type: official_primary_and_operational_corpus
-source_url: "https://www.salute.gov.it/new/it/tema/programmazione-e-finanziamento-del-ssn/dati-economico-finanziari-regionali/"
-source_date: 2026-07-30
+source_url: "https://www.gazzettaufficiale.it/eli/gu/2019/06/25/147/so/23/sg/pdf"
+source_date: 2019-05-24
 authority_level: primary_official
-raw_path: "wiki/raw/m-sa01-sanita-amministrativa/fonti/openbdap-spesa-sanitaria-ce-sp.html"
-sha256: "38C9E580D86F02FF9D7B56FB6346D944DE161553FDDAA520DFCE037E9CCC78B6"
+raw_path: "wiki/raw/m-sa01-sanita-amministrativa/fonti/dm-24-maggio-2019-modelli-ce-sp-gazzetta.pdf"
+sha256: "4547140D8C2DA08BEE24A18FFFD089E9BBE12E7B11EB4CFA99768FD79FDAAC48"
 ---
 
 # Flussi economici NSIS - modelli CE e SP
 
 ## Fonti ufficiali verificate
 
-Il 30 luglio 2026 sono state ricontrollate:
+Il corpus verificato il 30 luglio 2026 comprende:
 
-- la pagina del Ministero della Salute sui dati economico-finanziari regionali;
-- la scheda ministeriale "Flussi economici", aggiornata l'8 gennaio 2026;
+- il supplemento ordinario n. 23 alla *Gazzetta Ufficiale* n. 147 del 25 giugno 2019, che contiene il D.M. 24 maggio 2019 e i nuovi modelli CE e SP;
 - la pagina OpenBDAP della Ragioneria generale dello Stato sulla spesa sanitaria;
-- il Vademecum RGS per il controllo e la vigilanza negli enti del SSN;
-- il decreto del Ministro della salute, di concerto con il Ministro dell'economia e delle finanze, 24 maggio 2019, pubblicato nella Gazzetta Ufficiale n. 147 del 25 giugno 2019, che adotta i modelli CE e SP.
+- il Vademecum RGS per il controllo e la vigilanza negli enti del SSN.
 
-Il corpus locale contiene il file ministeriale sui dati economico-finanziari, lo snapshot OpenBDAP e il Vademecum RGS, tutti registrati nel manifest M-SA01. Il decreto del 2019 aggiorna i modelli; per questo le scadenze e le istruzioni di compilazione non vanno dedotte da documenti precedenti senza verifica corrente.
+Il PDF della Gazzetta, lo snapshot OpenBDAP e il Vademecum RGS sono registrati nel manifest M-SA01 con byte e SHA-256. Il decreto costituisce la fonte primaria per struttura e adozione dei modelli; OpenBDAP e il Vademecum sostengono la lettura operativa di soggetti, periodicità, controlli e usi. Il precedente file `dati-economico-finanziari-ssn-ministero.html` è conservato immutabile per audit, ma è una pagina di challenge Gcore: il manifest lo marca come bloccato e non valido per il corpus. Nessun claim dipende da quel file fallito. Poiché il decreto del 2019 aggiorna i modelli, scadenze e istruzioni di compilazione non vanno dedotte da documenti precedenti senza verifica corrente.
 
 ## Scheda CE
 
