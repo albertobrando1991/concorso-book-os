@@ -36,9 +36,20 @@ La capture `dati-economico-finanziari-ssn-ministero.html` contiene soltanto una 
 - Separare contabilità generale, contabilità analitica per centri di costo/responsabilità e reporting direzionale.
 - Collegare budget a obiettivi, risorse, volumi, costi e indicatori, evitando di ridurlo a un prospetto contabile.
 - Trattare conto economico, stato patrimoniale e rendiconto finanziario secondo gli schemi applicabili agli enti del SSN.
-- Presentare i modelli NSIS come flussi standardizzati di rilevazione e monitoraggio, non come sostituti del bilancio aziendale.
+- Presentare i modelli NSIS CE, SP, LA e CP come flussi standardizzati di rilevazione e monitoraggio, non come sostituti del bilancio o della contabilità dell'ente.
 
 Il D.M. 24 maggio 2019 adotta gli schemi CE e SP verificati nel fascicolo della Gazzetta. OpenBDAP descrive il CE come flusso trasmesso al NSIS dagli enti del Servizio sanitario regionale e dalla Regione e collega lo SP al monitoraggio patrimoniale. La source note non attribuisce ai modelli contenuti, scadenze o istruzioni ulteriori non verificati nel decreto e nelle fonti tecniche pertinenti.
+
+## Modelli LA e CP verificati
+
+Il medesimo D.M. 24 maggio 2019, nel testo primario verificato della *Gazzetta Ufficiale*, disciplina anche:
+
+- il modello **LA**, rilevazione a consuntivo dei costi dei livelli di assistenza, trasmesso dagli enti indicati dal decreto per rappresentare i costi riferiti ai livelli di assistenza;
+- il modello **CP**, denominato **Conto del Presidio**, rilevazione a consuntivo annuale dei costi dei presìdi ospedalieri nel perimetro soggettivo definito dal decreto.
+
+Il modello LA non coincide con il CE: il primo distribuisce i costi secondo i livelli di assistenza, mentre il secondo rileva costi e ricavi secondo lo schema economico. Il CP non coincide con lo SP: il primo riguarda i costi del presidio, mentre il secondo rappresenta attività e passività.
+
+Il decreto collega LA e CP alla contabilità analitica e al controllo di gestione: per questi due modelli richiede anche la sottoscrizione del responsabile del controllo di gestione, oltre alle sottoscrizioni previste per i modelli economici. Schemi analitici, linee guida, codici, scadenze e istruzioni applicabili al cut-off editoriale devono comunque essere ricontrollati prima della pubblicazione.
 
 ## Applicazioni concorsuali
 
@@ -49,7 +60,7 @@ Gli output utili sono: lettura di una variazione costi/ricavi, attribuzione di u
 - Schemi, modelli e istruzioni ministeriali possono cambiare: controllo annuale.
 - Regole regionali e sistemi aziendali definiscono dettagli operativi: gli esempi locali vanno etichettati.
 - Non trasferire automaticamente agli enti sanitari la contabilità finanziaria degli enti locali.
-- I modelli LA e CP sono richiamabili solo dopo controllo del decreto e dell'istruzione tecnica applicabile.
+- I modelli LA e CP sono richiamabili nel perimetro verificato del D.M. 24 maggio 2019; schemi, linee guida e istruzioni tecniche correnti restano da controllare al cut-off editoriale.
 
 ## Destinazioni
 
