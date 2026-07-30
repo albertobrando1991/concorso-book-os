@@ -294,6 +294,38 @@ describe("book preview assets", () => {
     }
   })
 
+  it("keeps M-SA02 quiz questions, options and solutions as separate preview blocks", async () => {
+    const data = await buildBookStudioData(
+      new FileWikiStore(path.resolve(process.cwd(), "wiki")),
+      "moduli/m-sa02-professioni-sanitarie"
+    )
+    const chapter = data.chapters.find((item) => item.path.endsWith("03-discipline-professionali-autonomia-responsabilita.md"))
+    const quizIndex = chapter?.blocks.findIndex((block) => block.type === "heading" && block.text === "Quiz") ?? -1
+    const quizBlocks = chapter?.blocks.slice(quizIndex, quizIndex + 10) || []
+
+    expect(quizIndex).toBeGreaterThanOrEqual(0)
+    expect(quizBlocks.map((block) => block.type)).toEqual([
+      "heading",
+      "paragraph",
+      "list",
+      "paragraph",
+      "paragraph",
+      "list",
+      "paragraph",
+      "paragraph",
+      "list",
+      "paragraph"
+    ])
+    expect(quizBlocks[1]?.text).toBe("1. Quale coppia è corretta?")
+    expect(quizBlocks[2]?.items).toEqual([
+      "A. OSS — albo professionale ordinistico.",
+      "B. TPALL — prevenzione, vigilanza e controllo nei limiti delle attribuzioni.",
+      "C. Fisioterapista — competenza generale su ogni bisogno assistenziale.",
+      "D. Ostetrica — profilo privo di autonomia."
+    ])
+    expect(quizBlocks[3]?.text).toMatch(/^Soluzione ragionata: B\./)
+  })
+
   it("loads nested specialist module books", async () => {
     const root = await mkdtemp(path.join(os.tmpdir(), "book-preview-module-"))
 
