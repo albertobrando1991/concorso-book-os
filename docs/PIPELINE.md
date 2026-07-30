@@ -61,7 +61,7 @@ Ogni step registra `owner` e `agent`. `next` rifiuta uno step già in carico ad 
 | Gate | Step | Cosa verifica |
 | --- | --- | --- |
 | `coverage` | 07, 10 | righe della matrice collocate nel capitolo: nessuno stato `parziale`, `solo-nominato`, `mancante`; rinvii con destinazione precisa. Riusa `src/server/editorial/didactic-coverage.ts`, lo stesso motore di `npm run audit:coverage` |
-| `chapter-lint` | 09 | contratto studente autosufficiente: un solo H1, gerarchia senza salti, obiettivo, Mappa BANDO, teoria, applicazione, errore e verifica; nessun link interno di conoscenza o dipendenza da source note, wiki, dashboard o report interni nel corpo; frontmatter con `source_refs` e `draft_stage` |
+| `chapter-lint` | 09 | contratto studente autosufficiente: un solo H1, gerarchia senza salti, obiettivo, Mappa BANDO, teoria, applicazione, errore e verifica; nessun link interno di conoscenza o rinvio semantico che collochi o faccia erogare contenuti da source note, wiki, dashboard o report interni nel corpo; le menzioni enciclopediche o tecniche restano ammesse; frontmatter con `source_refs` e `draft_stage` |
 | `citation-guard` | 11 | `source_refs`, riferimenti normativi e rinvii didattici pubblicabili invariati rispetto allo snapshot pre-Humanizer; consente la rimozione dei link interni di conoscenza e blocca qualsiasi link interno rimasto o introdotto; segnala le norme *introdotte* dall'Humanizer |
 | `review-report` | 12, 13, 14, 21 | presenza della tabella errori del template fisso, zero errori gravi aperti; sullo step 21 anche il giudizio "Pubblicabile con correzioni minori" |
 

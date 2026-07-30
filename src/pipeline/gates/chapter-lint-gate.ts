@@ -32,16 +32,24 @@ const EDITORIAL_DEPENDENCIES = [
   /\bcorpus\s+(?:m-[a-z0-9-]+|auditato|interno|editoriale|dei bandi)\b/i
 ]
 
-const INTERNAL_TOOL = /\b(?:wiki|dashboard|report)\b/i
+const INTERNAL_TOOL_TOKEN = String.raw`(?:wiki|dashboard|report)`
+const DEPENDENT_CONTENT = String.raw`(?:rispost[ae]|soluzion[ei]|dettagli|dati|risultat[oi]|esit[oi]|informazion[ei]|material[ei]|contenut[oi]|spiegazion[ei]|approfondiment[oi]|istruzion[ei]|regol[ae]|procedur[ae]|procediment[oi]|verific[ae]|tutto(?:\s+ci[oò])?|quanto\s+necessario)`
+const INTERNAL_TOOL_TARGET = String.raw`(?:(?:un|uno|una|il|lo|la|i|gli|le)\s+)?${INTERNAL_TOOL_TOKEN}`
+const INTERNAL_TOOL = new RegExp(String.raw`\b${INTERNAL_TOOL_TOKEN}\b`, "i")
 const INTERNAL_REPORT = /\breport\s+intern[oaie]\b/i
-const INTERNAL_TOOL_REFERRAL =
-  /\b(?:consulta|consultare|consultate|consulti|vedi|si\s+veda|si\s+consulti|rinvia|si\s+rinvia|rimanda|rimandare|si\s+rimanda|accedi|accedere|fare\s+riferimento|fai\s+riferimento)\b/i
-const INTERNAL_TOOL_DEFINITION =
-  /^\s*(?:[-*>#]+\s*)?(?:(?:(?:la\s+(?:wiki|dashboard)|il\s+report)\s+(?:è|e')\s+(?:un|uno|una)\b)|(?:(?:le\s+(?:wiki|dashboard)|i\s+report)\s+sono\s+(?:siti|strumenti|documenti|raccolte|piattaforme|pannelli)\b))/i
-const INTERNAL_TOOL_DEFINITE = /\b(?:(?:la|le)\s+(?:wiki|dashboard)|(?:il|i)\s+report)\b/i
-const INTERNAL_TOOL_LOCATION =
-  /\b(?:(?:nel|nella|nello|nei|nelle|sul|sulla|sullo|sui|sulle|al|alla|allo|ai|alle|dal|dalla|dallo|dai|dalle|in)\s+(?:wiki|dashboard|report)|(?:dentro|attraverso|tramite)\s+(?:(?:la|le|una)\s+(?:wiki|dashboard)|(?:il|i|un)\s+report|(?:wiki|dashboard|report)))\b/i
-const INTERNAL_TOOL_INDEFINITE = /\b(?:una?\s+(?:wiki|dashboard)|un\s+report)\b/gi
+const INTERNAL_TOOL_REFERRAL = new RegExp(
+  String.raw`\b(?:consulta(?:re|te)?|consulti|vedi|si\s+veda|si\s+consulti|rinvia(?:re|te)?|si\s+rinvia|rimanda(?:re|te)?|si\s+rimanda|accedi|accede|accedere|fare\s+riferimento|fai\s+riferimento|costruit[oaie]|schedat[oaie])\b[^.!?\n]{0,200}\b${INTERNAL_TOOL_TOKEN}\b`,
+  "i"
+)
+const INTERNAL_TOOL_LOCATION = String.raw`(?:(?:in|su|dentro|attraverso|tramite|a|da)\s+${INTERNAL_TOOL_TARGET}|(?:nel|nella|nello|nei|nelle|sul|sulla|sullo|sui|sulle|al|alla|allo|ai|alle|dal|dalla|dallo|dai|dalle)\s+${INTERNAL_TOOL_TOKEN})`
+const INTERNAL_CONTENT_LOCATION = new RegExp(
+  String.raw`\b${DEPENDENT_CONTENT}\b[^.!?\n]{0,160}\b${INTERNAL_TOOL_LOCATION}\b`,
+  "i"
+)
+const INTERNAL_TOOL_PROVIDER = new RegExp(
+  String.raw`\b${INTERNAL_TOOL_TARGET}\s+(?:non\s+)?(?:contiene|contengono|riporta|riportano|mostra|mostrano|presenta|presentano|raccoglie|raccolgono|descrive|descrivono|fornisce|forniscono|espone|espongono)\b[^.!?\n]{0,120}\b${DEPENDENT_CONTENT}\b`,
+  "i"
+)
 
 const DIDACTIC_SECTIONS = [
   { label: "obiettivo didattico", pattern: /\b(?:obiettiv[oi]|risultati? di apprendimento)\b/i },
@@ -175,13 +183,13 @@ function hasInternalToolDependency(body: string) {
 
 function isInternalToolDependency(sentence: string) {
   if (!INTERNAL_TOOL.test(sentence)) return false
-  if (INTERNAL_REPORT.test(sentence) || INTERNAL_TOOL_REFERRAL.test(sentence)) return true
 
-  const withoutDefinition = sentence.replace(INTERNAL_TOOL_DEFINITION, "")
-
-  if (INTERNAL_TOOL_LOCATION.test(withoutDefinition) || INTERNAL_TOOL_DEFINITE.test(withoutDefinition)) return true
-
-  return INTERNAL_TOOL.test(withoutDefinition.replace(INTERNAL_TOOL_INDEFINITE, ""))
+  return (
+    INTERNAL_REPORT.test(sentence) ||
+    INTERNAL_TOOL_REFERRAL.test(sentence) ||
+    INTERNAL_CONTENT_LOCATION.test(sentence) ||
+    INTERNAL_TOOL_PROVIDER.test(sentence)
+  )
 }
 
 function asList(value: unknown) {

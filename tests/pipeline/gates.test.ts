@@ -1,3 +1,4 @@
+import { readFileSync } from "node:fs"
 import { describe, expect, it } from "vitest"
 import { runChapterLintGate } from "../../src/pipeline/gates/chapter-lint-gate"
 import { runCitationGuard } from "../../src/pipeline/gates/citation-guard"
@@ -89,6 +90,10 @@ Spiega la distinzione in cinque righe.`
     "Consulta un report.",
     "La risposta si trova nella dashboard.",
     "La risposta si trova dentro la dashboard.",
+    "I risultati sono in un report.",
+    "La risposta è disponibile in una dashboard.",
+    "I dati sono raccolti in una wiki.",
+    "Gli esiti sono su una dashboard.",
     "I dettagli sono nella wiki.",
     "I dettagli sono nei report.",
     "Le risposte sono nelle wiki.",
@@ -101,7 +106,9 @@ Spiega la distinzione in cinque righe.`
     "La verifica avviene tramite il report.",
     "Per la verifica si rimanda al report.",
     "Il report interno contiene i dati.",
-    "La dashboard riporta i risultati."
+    "La dashboard riporta i risultati.",
+    "La wiki contiene le istruzioni.",
+    "Il report fornisce le informazioni necessarie."
   ])("blocks the editorial dependency %s from the reader body", (sentence) => {
     expect(codes(chapter(`${validBody}\n\n${sentence}`))).toContain("editorial-dependency")
   })
@@ -118,9 +125,30 @@ Spiega la distinzione in cinque righe.`
     "Le dashboard sono strumenti di visualizzazione.",
     "I report sono documenti strutturati.",
     "In una dashboard, i grafici possono sintetizzare gli indicatori.",
-    "In una wiki, le voci possono essere collegate tra loro."
+    "In una wiki, le voci possono essere collegate tra loro.",
+    "Per dashboard si intende un pannello di visualizzazione.",
+    "Con il termine report si indica un documento riepilogativo.",
+    "Le dashboard consentono di sintetizzare gli indicatori.",
+    "Un database consente di creare maschere e report."
   ])("does not treat the encyclopedic mention %s as an editorial dependency", (sentence) => {
     expect(chapter(`${validBody}\n\n${sentence}`).passed).toBe(true)
+  })
+  it.each([
+    "wiki/books/il-metodo-bando/chapters/diario-degli-errori.md",
+    "wiki/books/il-metodo-bando/chapters/prendere-servizio-nella-pa-dal-concorso-al-ruolo.md",
+    "wiki/books/il-metodo-bando/chapters/informatica-pa-digitale-competenze-digitali.md"
+  ])("does not add an editorial dependency to the real chapter %s", (chapterPath) => {
+    const result = runChapterLintGate({ content: readFileSync(chapterPath, "utf8"), chapterPath })
+
+    expect(codes(result)).not.toContain("editorial-dependency")
+  })
+  it.each([
+    "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md",
+    "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/00-piano-editoriale.md"
+  ])("keeps blocking the real internal dependency in %s", (chapterPath) => {
+    const result = runChapterLintGate({ content: readFileSync(chapterPath, "utf8"), chapterPath })
+
+    expect(codes(result)).toContain("editorial-dependency")
   })
   it.each([
     ["obiettivo", "## Obiettivo del capitolo\n\nIl candidato comprende il perimetro e sa applicarlo in prova.\n\n"],
