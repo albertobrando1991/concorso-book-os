@@ -1,0 +1,47 @@
+[
+  {
+    "id": "OSS-REG-LOM-01",
+    "file": "regione-lombardia-dgr-4920-2025-regolamentazione-oss.pdf",
+    "bytes": 207088,
+    "sha256": "899B5C91A650A5A5C915758294A72B3BC15DFB1239972769242AE1A7472F4405",
+    "authority": "Regione Lombardia",
+    "url": "https://www.bandi.regione.lombardia.it/servizi/servizio/comunicazioni/download/8a5aa292997e14b5019980e89a1d0007?fileName=DGR_4920_REGOLAMENTAZIONE_OSS.pdf",
+    "checked_at": "2026-07-29"
+  },
+  {
+    "id": "OSS-REG-LOM-02",
+    "file": "regione-lombardia-dgr-4920-2025-allegato-a-standard-oss.pdf",
+    "bytes": 551161,
+    "sha256": "3E6750DD55D2769380073B5F10D5D0E80D5CF37009038FF5F77321FE96054E6D",
+    "authority": "Regione Lombardia",
+    "url": "https://www.bandi.regione.lombardia.it/servizi/servizio/comunicazioni/download/8a5aa291997e11f9019980e9ba240007?fileName=RL_RLAOOE1_2025_106.pdf",
+    "checked_at": "2026-07-29"
+  },
+  {
+    "id": "OSS-REG-ER-01",
+    "file": "regione-emilia-romagna-dgr-1307-2025-attuazione-oss.pdf",
+    "bytes": 665305,
+    "sha256": "93382E4356B51529A0F08535541534FE9227B7F3F816BFFAA7391549F11AD459",
+    "authority": "Regione Emilia-Romagna",
+    "url": "https://servizissiir.regione.emilia-romagna.it/deliberegiunta/servlet/AdapterHTTP?ENTE=1&action_name=ACTIONRICERCADELIBERE&codProtocollo=GPG%2F2025%2F1346&operation=downloadTesto",
+    "checked_at": "2026-07-29"
+  },
+  {
+    "id": "OSS-REG-VEN-01",
+    "file": "regione-veneto-dgr-883-2025-attuazione-oss.pdf",
+    "bytes": 261569,
+    "sha256": "0C453BEAE4E91E67FA3BDD01B6A15DCC76645D013DC6C15710228A1C6BFBE698",
+    "authority": "Regione del Veneto",
+    "url": "https://bur.regione.veneto.it/BurvServices/Pubblica/html2pdf.aspx?id=561726&storico=False&tipoAtto=9",
+    "checked_at": "2026-07-29"
+  },
+  {
+    "id": "OSS-REG-VEN-02",
+    "file": "regione-veneto-dgr-883-2025-allegato-c-programma-oss.pdf",
+    "bytes": 342195,
+    "sha256": "99721BB72A100C64C6B4F8F3EAD8E453D4F2AC0D90FA62156E6645A335F6B906",
+    "authority": "Regione del Veneto",
+    "url": "https://bur.regione.veneto.it/BurvServices/Pubblica/Download.aspx?name=Dgr_883_25_AllegatoC_561726.pdf&storico=False&type=9",
+    "checked_at": "2026-07-29"
+  }
+]

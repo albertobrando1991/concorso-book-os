@@ -1,0 +1,146 @@
+[
+    {
+        "Id":  "INF-01",
+        "File":  "inf-01-asst-pavia-10-infermieri-2026.pdf",
+        "Bytes":  262933,
+        "Sha256":  "F21E6C7ACD71FC499DA23718E3B1F21189632D9A0590A90074C11A6F896B45B7",
+        "Landing":  "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=d8fe303460c74c3d9514508b5954be17",
+        "Media":  "https://portale.inpa.gov.it/api/media/9fa4b396-6f69-48ae-a7aa-fd2446f4535b",
+        "Label":  "Bando di concorso per n.10 infermieri OSP.pdf (Pubblicato il 27 Marzo 2026  12:00)"
+    },
+    {
+        "Id":  "INF-02",
+        "File":  "inf-02-niguarda-5-infermieri-2026.pdf",
+        "Bytes":  305105,
+        "Sha256":  "80239EDDF3E36C65EFB9F81006F34B144C64FF3400BC9EC8C3240AB05FA9AE79",
+        "Landing":  "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=be2cc414a6f04f7fbbc043fe9ebe066f",
+        "Media":  "https://portale.inpa.gov.it/api/media/20fc4e99-84d9-4ab4-aee0-e1db9b255b1e",
+        "Label":  "343 – CP INFERMIERI SETTEMBRE 2026.pdf (Pubblicato il 15 Luglio 2026  09:50)"
+    },
+    {
+        "Id":  "INF-03",
+        "File":  "inf-03-ssr-umbria-124-infermieri-2025.pdf",
+        "Bytes":  434606,
+        "Sha256":  "61F82DBC716B719834E7CE78A2F81C25A77188290A618AA6C191858802C01A39",
+        "Landing":  "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=1e42b240cff5486192a53ac3259e612d",
+        "Media":  "https://portale.inpa.gov.it/api/media/4043a92e-98ad-45ba-911a-bc1ef2387c1b",
+        "Label":  "BANDO Concorso N. 124 Posti INFERMIERE SSR UMBRIA.pdf (Pubblicato il 27 Maggio 2025  08:52)"
+    },
+    {
+        "Id":  "INF-04",
+        "File":  "inf-04-ast-macerata-infermieri-2026.pdf",
+        "Bytes":  150219,
+        "Sha256":  "8536B3706C615DAA98BDD05A44EA2F2765B1F7CFB9B678D77F9A2AF1697C5582",
+        "Landing":  "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=32e28d7f4e7742a09275ec99caf7acd5",
+        "Media":  "https://portale.inpa.gov.it/api/media/71561199-4e89-4b8f-8db7-4a1e2911ebbe",
+        "Label":  "Avviso INFERMIERI_2026_web.pdf (Pubblicato il 27 Aprile 2026  09:00)"
+    },
+    {
+        "Id":  "INF-05",
+        "File":  "inf-05-iaa-verona-10-infermieri-2026.pdf",
+        "Bytes":  547359,
+        "Sha256":  "C8815C2B1B71F36272B07A8DD80574C3F681ACDC9F256D1008251D4ED4942651",
+        "Landing":  "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=6dc0b99ef1c24365a71119792c8fc473",
+        "Media":  "https://portale.inpa.gov.it/api/media/e29447ad-868a-448f-ae48-ed92bf2d495f",
+        "Label":  "Pubblicazione Bando concorso 10 Infermieri.pdf (Pubblicato il 10 Aprile 2026  13:00)"
+    },
+    {
+        "Id":  "PREV-01",
+        "File":  "prev-01-asuit-trentino-tpall-2026.pdf",
+        "Bytes":  230761,
+        "Sha256":  "79CD1414F706A1C0A61E0481C2344FB1C106FA1A4A3ADE0C69BBADB955DA415C",
+        "Landing":  "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=52b4745cf2f549aabdfaf5f4454ef2a9",
+        "Media":  "https://portale.inpa.gov.it/api/media/9126adcf-e9f6-48e3-b030-a325104d46dc",
+        "Label":  "CC 03 26 CPS Tecnico della prevenzione INPA.pdf (Pubblicato il 01 Aprile 2026  11:40)"
+    },
+    {
+        "Id":  "PREV-02",
+        "File":  "prev-02-ao-perugia-tpall-2025.pdf",
+        "Bytes":  384024,
+        "Sha256":  "0F11D7272A75D1851282B7F42A4470F57E76428C284DB4138EDF1EE023BCC485",
+        "Landing":  "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=852d1987db4a427bb433bc3dd386bedc",
+        "Media":  "https://portale.inpa.gov.it/api/media/e4ccf5f0-6753-4e64-875e-613c70f991d6",
+        "Label":  "BANDO Concorso TEC. PREV..pdf (Pubblicato il 21 Gennaio 2025  18:22)"
+    },
+    {
+        "Id":  "PREV-03",
+        "File":  "prev-03-arpa-sicilia-2-tpall-2025.pdf",
+        "Bytes":  422544,
+        "Sha256":  "999D19ECCBEE079329B5C08F27389E22C2C517956087259A09D58BE74D924765",
+        "Landing":  "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=66b691b0508c4bdbaba7f6a6d65320bb",
+        "Media":  "https://portale.inpa.gov.it/api/media/6c4491f1-1a0d-4c35-a072-d22abc94c3af",
+        "Label":  "Concorso n_ 2 TPALL.pdf (Pubblicato il 21 Maggio 2025  12:00)"
+    },
+    {
+        "Id":  "PREV-04",
+        "File":  "prev-04-ats-montagna-3-tpall-2025.pdf",
+        "Bytes":  382589,
+        "Sha256":  "E0FEF5878059AA991B255433DDD03571F5186249FDED3389FD112467E7C9575F",
+        "Landing":  "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=68641d56d453456b86ffc7bad03fdcec",
+        "Media":  "https://portale.inpa.gov.it/api/media/2f5fe77f-337e-4523-ba5f-77033efbe3a9",
+        "Label":  "Bando_concorso pubblico.pdf (Pubblicato il 03 Dicembre 2025  09:49)"
+    },
+    {
+        "Id":  "PREV-05",
+        "File":  "prev-05-trivulzio-1-tpall-2026.pdf",
+        "Bytes":  371498,
+        "Sha256":  "F4151F307408FAD0B884293F0D32787013B30360FDEF6F591D70EA7F9768522D",
+        "Landing":  "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=940329f35f774d1388fc70b094e6ced7",
+        "Media":  "https://portale.inpa.gov.it/api/media/bab838a2-248c-4b15-a242-efcf60ea72da",
+        "Label":  "Bando Tecnico Prevenzione ambiente e luoghi lavoro.pdf (Pubblicato il 20 Maggio 2026  12:00)"
+    },
+    {
+        "Id":  "PRO-01",
+        "File":  "pro-01-asp-enna-ostetrica-2026.pdf",
+        "Bytes":  453900,
+        "Sha256":  "D71C04BD20AE04AFE6C5E9AE2F44A9B781B788485FD71860A15F8DAAA37B2CB5",
+        "Landing":  "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=887d897d072a42f4aa068ba373987a01",
+        "Media":  "https://portale.inpa.gov.it/api/media/da2e282c-69cf-48a5-bdfc-fd59a1dfd78a",
+        "Label":  "Avviso Concorso Pubblico Ostetrica-o Tecnico di Laboratorio Specialista della Comunicazione def.pdf (Pubblicato il 04 Luglio 2026  00:00)"
+    },
+    {
+        "Id":  "PRO-02",
+        "File":  "pro-02-asp-enna-ostetrica-pnes-2026.pdf",
+        "Bytes":  4963926,
+        "Sha256":  "F1C7D6C7295FEDE947EC9712424C5D92397BA3CC8C7DC18BEF18CF6E7C0FD1D8",
+        "Landing":  "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a0c7d5443b254bfeb1f281bb1366200b",
+        "Media":  "https://portale.inpa.gov.it/api/media/3154d591-8c97-468f-aedb-ead277396a03",
+        "Label":  "BANDO OSTETRICA.pdf (Pubblicato il 26 Marzo 2026  16:21)"
+    },
+    {
+        "Id":  "PRO-03",
+        "File":  "pro-03-ssr-marche-10-fisioterapisti-2026.pdf",
+        "Bytes":  412676,
+        "Sha256":  "C80B07EF7B0F4AB92A14C181A6B7130384890AEA89562BC69F7CBC74DE0004AC",
+        "Landing":  "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=efef8790897d458892b24222a3adb6d2",
+        "Media":  "https://portale.inpa.gov.it/api/media/b3cddb19-3620-4979-b4d5-2ba5c22abf11",
+        "Label":  "Bando Concorso Aggregato FISIOTERAPISTA_2026_web.pdf (Pubblicato il 06 Marzo 2026  15:00)"
+    },
+    {
+        "Id":  "PRO-04",
+        "File":  "pro-04-asp-carnia-4-fisioterapisti-2026.pdf",
+        "Bytes":  675208,
+        "Sha256":  "6993B7FD1AC6D75682040B0024D297BB4C62D3135E296D554EB80D20DBE28F14",
+        "Landing":  "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=52f538d0195c499e8dd978c0e9331fd9",
+        "Media":  "https://portale.inpa.gov.it/api/media/b338cdc2-bfcc-40b0-88cb-8f4d3aed0b8b",
+        "Label":  "Bando di Concorso Fisioterapisti 2026_signed.pdf (Pubblicato il 27 Febbraio 2026  11:10)"
+    },
+    {
+        "Id":  "PRO-05",
+        "File":  "pro-05-asp-azalea-2-fisioterapisti-2025.pdf",
+        "Bytes":  553886,
+        "Sha256":  "6B8D0EFA423F38B428B773DC564E1CD364FB8ABB6BE0FA7BCE05B1AABC71692F",
+        "Landing":  "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=1dc9548ecea74a50b6252d82dd9519df",
+        "Media":  "https://portale.inpa.gov.it/api/media/3ff758e0-5ab2-4463-bba8-23593cd580a7",
+        "Label":  "Bando concorso fisioterapista 2025-signed.pdf (Pubblicato il 15 Marzo 2025  00:00)"
+    },
+    {
+        "Id":  "PRO-06",
+        "File":  "pro-06-ssr-marche-8-ostetriche-2026.pdf",
+        "Bytes":  412508,
+        "Sha256":  "3DEA78B91B35582D67DC887B28EF180C8C790D94ACAE8FB7F8014C0710E1DF8E",
+        "Landing":  "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=f2886b614d114ddf852e0fd473c03b4f",
+        "Media":  "https://portale.inpa.gov.it/api/media/59db20ce-4067-4959-b92b-42af7b7e5d74",
+        "Label":  "Bando Concorso Aggregato OSTETRICA_2026_web.pdf (Pubblicato il 06 Marzo 2026 15:00)"
+    }
+]

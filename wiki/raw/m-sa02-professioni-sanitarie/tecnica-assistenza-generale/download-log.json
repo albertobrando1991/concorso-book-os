@@ -1,0 +1,119 @@
+[
+  {
+    "id": "ASSIST-GEN-ALS-01",
+    "file": "irc-erc-als-adulto-2025-italiano.pdf",
+    "bytes": 3885052,
+    "sha256": "03B05B655C918EA5D11C123E603E87D9B3A9A57D0E293B1B25ED322A2C8A459D",
+    "authority": "Italian Resuscitation Council - traduzione e adattamento delle European Resuscitation Council Guidelines 2025",
+    "url": "https://www.ircouncil.it/wp-content/uploads/2026/07/CAPITOLO_5-ALS.pdf",
+    "checked_at": "2026-07-29"
+  },
+  {
+    "id": "ASSIST-GEN-PASTO-02",
+    "file": "regione-piemonte-ristorazione-ospedaliera-assistenziale-2024.pdf",
+    "bytes": 2873753,
+    "sha256": "4B8D55CFEED4001B5BA1335F93E266CBECB8201D10F605A23F0EF5307428A913",
+    "authority": "Regione Piemonte",
+    "url": "https://www.regione.piemonte.it/web/sites/default/files/media/documenti/2024-07/proposte_operative_per_la_ristorazione_ospedaliera_e_assistenziale_in_piemonte_-_gennaio_2024_2.pdf",
+    "checked_at": "2026-07-29"
+  },
+  {
+    "id": "ASSIST-GEN-MAPO-03",
+    "file": "inail-ergotoolkit-movimentazione-pazienti-mapo-2024.pdf",
+    "bytes": 2482016,
+    "sha256": "C8A45A386CBACFC39A92EECFD3DEF15F1E8B1187E0798061822BC651AFD55159",
+    "authority": "INAIL",
+    "url": "https://www.inail.it/content/dam/prevenzione-e-sicurezza/documenti/valutazione-rischio/2024/07/Ergo_toolkit_manuale_utente.pdf",
+    "checked_at": "2026-07-29"
+  },
+  {
+    "id": "ASSIST-GEN-CV-04",
+    "file": "asl-latina-gestione-catetere-vescicale-prevenzione-ivu-2023.pdf",
+    "bytes": 581714,
+    "sha256": "30A2BF5DF6D4CE7F6ABFB59DF868C9F5D9B3F46FDFF34363F9081F379F1E58F7",
+    "authority": "Azienda USL Latina",
+    "url": "https://www.ausl.latina.it/attachments/article/749/P19a.pdf",
+    "checked_at": "2026-07-29"
+  },
+  {
+    "id": "ASSIST-GEN-AUSILI-05",
+    "file": "inail-isi-2025-ausili-movimentazione-persone.pdf",
+    "bytes": 436100,
+    "sha256": "8E3FBBC9CFEE406B6D6E6BB663261CCAE81FF1295E5D6CC50025E795BAF3AEED",
+    "authority": "INAIL",
+    "url": "https://www.inail.it/content/dam/prevenzione-e-sicurezza/documenti/isi/2025/12/Allegato%201.1%20ISI%202025_END.pdf",
+    "checked_at": "2026-07-29"
+  },
+  {
+    "id": "ASSIST-GEN-IGIENE-06",
+    "file": "asl-al-preparazione-igienica-paziente-intervento-2026.pdf",
+    "bytes": 837407,
+    "sha256": "B612D0909AC4F1FB72531108599731D63FFFE979A398AB0A0661AD8B060A33DD",
+    "authority": "ASL Alessandria",
+    "url": "https://www.aslal.it/allegati/Rischio_infettivo/20260115_All_1_preparazione_pz_ad_intervento.pdf",
+    "checked_at": "2026-07-29"
+  },
+  {
+    "id": "ASSIST-GEN-BAGNO-07",
+    "file": "unipd-procedura-bagno-letto-2024-2025.pdf",
+    "bytes": 269791,
+    "sha256": "7A822EBCB12068554FFC1A6606F9CD7DE71C068D17DC3C75234A02F2FF7B837B",
+    "authority": "Università degli Studi di Padova - Corso di laurea in Infermieristica, sede di Schio",
+    "url": "https://medicina.elearning.unipd.it/pluginfile.php/335149/mod_folder/content/0/procedura%20igiene%20bagno%20a%20letto.pdf?forcedownload=1",
+    "checked_at": "2026-07-29"
+  },
+  {
+    "id": "ASSIST-GEN-TRANSFER-08",
+    "file": "unipd-procedura-trasferimento-letto-carrozzina-2024-2025.pdf",
+    "bytes": 114526,
+    "sha256": "D73D21D0E446B55044E4D02BE12A7E2D0491C804F10345C488BC385EF4D5A581",
+    "authority": "Università degli Studi di Padova - Corso di laurea in Infermieristica, sede di Schio",
+    "url": "https://medicina.elearning.unipd.it/pluginfile.php/335149/mod_folder/content/0/procedura%20trasferimento%20letto%20carrozzina%20.pdf?forcedownload=1",
+    "checked_at": "2026-07-29"
+  },
+  {
+    "id": "ASSIST-GEN-SOLLEVATORE-09",
+    "file": "unipd-procedura-trasferimento-sollevatore-2024-2025.pdf",
+    "bytes": 98712,
+    "sha256": "DB36FDE025CC6C6A3B7754A0E395A872C04EE81ED4A4D55030E63D7ECFE1477E",
+    "authority": "Università degli Studi di Padova - Corso di laurea in Infermieristica, sede di Schio",
+    "url": "https://medicina.elearning.unipd.it/pluginfile.php/335149/mod_folder/content/0/procedura%20letto-sedia%20con%20sollevatore.pdf?forcedownload=1",
+    "checked_at": "2026-07-29"
+  },
+  {
+    "id": "ASSIST-GEN-LAB-10",
+    "file": "unibo-laboratori-infermieristica-rimini-2025-2026.pdf",
+    "bytes": 1004816,
+    "sha256": "F682465FDD32BFD5352A6CE65B7AABB67737C6B333C1CC6C6BEF974129D8ACBE",
+    "authority": "Alma Mater Studiorum - Università di Bologna, Corso di laurea in Infermieristica sede di Rimini",
+    "url": "https://corsi.unibo.it/laurea/Infermieristica-Rimini/laboratorio/documento-laboratori-e-seminari-a-a-2025-26.pdf/@@download/file/Documento%20Laboratori%20e%20Seminari%20A.A.%202025-26.pdf",
+    "checked_at": "2026-07-29"
+  },
+  {
+    "id": "ASSIST-GEN-VENETO-11",
+    "file": "regione-veneto-guida-laboratori-oss-2026.pdf",
+    "bytes": 228154,
+    "sha256": "7D98D20718DED4DCE31E83C787BD425E7EFCFC281DB50673BB6BBD68009341E0",
+    "authority": "Regione del Veneto - Direzione Formazione e Istruzione",
+    "url": "https://spazio-operatori.regione.veneto.it/documents/365607/26999454/AR-DDR-2026-159_Guida%2BSeminari%2Be%2BLaboratori.pdf/9ada25e4-d729-2597-6b35-371b2da6e6b9?download=true&t=1771328401935&version=1.0",
+    "checked_at": "2026-07-29"
+  },
+  {
+    "id": "ASSIST-GEN-LIFT-12",
+    "file": "invacare-birdie-evo-manuale-uso-60135843-b.pdf",
+    "bytes": 4427722,
+    "sha256": "99D5C5D255B30527D3E418A28EF7BC132F9A4DB22C1044B9A5969D8C937427D8",
+    "authority": "Invacare - DHCare Italia",
+    "url": "https://www.invacare.it/sites/it/files/csv_migration/product_docs/technical_docs/DTEC013991_60135843~B.pdf",
+    "checked_at": "2026-07-29"
+  },
+  {
+    "id": "ASSIST-GEN-SLING-13",
+    "file": "invacare-imbracature-universal-manuale-60124419-d.pdf",
+    "bytes": 2616820,
+    "sha256": "10B0BB7D7C8DB3421B6A05CAA6E3D8D936163B0684A9016C98469FA132786A46",
+    "authority": "Invacare - DHCare Italia",
+    "url": "https://www.dhcare.it/sites/it/files/csv_migration/product_docs/technical_docs/DTEC012745_60124419~D.pdf",
+    "checked_at": "2026-07-29"
+  }
+]

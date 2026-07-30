@@ -6,7 +6,7 @@ cut_off_date: 2026-07-28
 responsabile_normativo: Alberto Brando
 responsabile_editoriale: Alberto Brando
 writer_provider: codex
-phases: [A, B]
+phases: [A, B, C]
 status: draft
 updated_at: 2026-07-28
 review_required: true
@@ -16,16 +16,25 @@ review_required: true
 
 Input eseguibile della pipeline editoriale per il volume VOL-07. Il protocollo dei 25 prompt resta in `[[templates/prompt-staff-revisione-completa-volumi]]`.
 
-La prima inizializzazione abilita soltanto le fasi A e B: inquadramento, fonti, indice e architettura. Le fasi C, D e F saranno aggiunte con `sync` dopo il consolidamento del corpus ufficiale; la fase E seguirà il congelamento del testo.
+Le fasi A e B sono concluse. La fase C è stata aperta in modo progressivo sui capitoli 01 e 03 di M-SA02. Le fasi D-F non sono attivate; ogni eventuale avanzamento resta affidato al CLI dopo le review obbligatorie.
 
 ## Moduli
 
 | Codice | Module id | Priorita | Fasi |
 | --- | --- | --- | --- |
-| M-SA02 | moduli/m-sa02-professioni-sanitarie | 1 | A,B |
+| M-SA02 | moduli/m-sa02-professioni-sanitarie | 1 | A,B,C |
 | M-SA01 | moduli/m-sa01-sanita-amministrativa | 2 | A,B,C |
 | M-SA03 | moduli/m-sa03-dirigenza-medica-sanitaria | 3 | A,B |
 | M-SA04 | moduli/m-sa04-tecnici-sanitari-prevenzione | 4 | A,B |
+
+## Capitoli M-SA02
+
+| # | File | Matrice | Stato atteso | Note |
+| --- | --- | --- | --- | --- |
+| 01 | chapters/01-mappa-profili-e-prove.md | planning/02-matrice-copertura-didattica.md | completo | Primo ciclo progressivo della fase C |
+| 03 | chapters/03-discipline-professionali-autonomia-responsabilita.md | planning/02-matrice-copertura-didattica.md | completo | Secondo ciclo progressivo della fase C; nucleo Discipline professionali specifiche |
+
+La fase C procede in modo progressivo sui capitoli 01 e 03 di M-SA02. Il capitolo 02 non viene dichiarato perché il nucleo comune del Metodo BANDO resta nel VOL-01 e non deve essere duplicato.
 
 ## Capitoli M-SA01
 
@@ -39,7 +48,7 @@ La prima inizializzazione abilita soltanto le fasi A e B: inquadramento, fonti, 
 
 La fase C di M-SA01 procede progressivamente dal capitolo 04; le review dello step 15 restano obbligatorie. Nessun capitolo M-SA01 è dichiarato già scritto.
 
-I capitoli sono derivati dagli scaffold presenti in `<module id>/chapters/`. In questa fase la pipeline incontra soltanto `00-piano-editoriale.md`: non autorizza la generazione di capitoli specialistici senza fonti consolidate.
+I capitoli 01 e 03 di M-SA02 sono dichiarati esplicitamente; gli altri moduli continuano a derivare gli eventuali capitoli dagli scaffold presenti in `<module id>/chapters/`. La dichiarazione autorizza il ciclo 08-12 soltanto sui target indicati e non abilita ancora i capitoli successivi o le fasi D-F.
 
 ## Input canonici
 

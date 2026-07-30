@@ -1,0 +1,135 @@
+[
+  {
+    "id": "TPALL-CAMP-01",
+    "file": "ispra-campionamento-passivo-gas-suolo-2024.pdf",
+    "bytes": 5910671,
+    "sha256": "573FFC857ACF6586439624F3D2A69758329B099DBE1AE828526FC4C9917DE78D",
+    "authority": "Istituto Superiore per la Protezione e la Ricerca Ambientale",
+    "url": "https://www.isprambiente.gov.it/files2024/pubblicazioni/quaderni/quaderni-amb-soc_30-2024.pdf",
+    "checked_at": "2026-07-29"
+  },
+  {
+    "id": "TPALL-AIA-02",
+    "file": "snpa-controlli-installazioni-aia-regionali-39-2022.pdf",
+    "bytes": 1073451,
+    "sha256": "21E28FFB66AFCB5E80FD18B1A42E1773A0763078CA7F13041BC27A0380FF68AA",
+    "authority": "Sistema Nazionale per la Protezione dell'Ambiente",
+    "url": "https://www.snpambiente.it/wp-content/uploads/2022/03/LG_SNPA_39_22_Controlli_AIA.pdf",
+    "checked_at": "2026-07-29"
+  },
+  {
+    "id": "TPALL-ACQUE-03",
+    "file": "snpa-campionamento-acque-interne-181-2018.pdf",
+    "bytes": 2138459,
+    "sha256": "DA4E2BA8683A3B109190813D389F70928FA027687916D31CA65051ECC7993C41",
+    "authority": "ISPRA - Sistema Nazionale per la Protezione dell'Ambiente",
+    "url": "https://www.isprambiente.gov.it/files2018/pubblicazioni/manuali-linee-guida/MLG_181_18.pdf",
+    "checked_at": "2026-07-29"
+  },
+  {
+    "id": "TPALL-ARIA-04",
+    "file": "snpa-qa-qc-qualita-aria-volume-2-37-2021.pdf",
+    "bytes": 2311927,
+    "sha256": "C475A4C9609F17613901CADDCD8CE1978301F173EC2CA0DE1B85E1AABA9DB86A",
+    "authority": "Sistema Nazionale per la Protezione dell'Ambiente",
+    "url": "https://www.snpambiente.it/wp-content/uploads/2022/01/LG-37-2021-Procedure-QA-QC-qualita-dellaria-vol-2_def.pdf",
+    "checked_at": "2026-07-29"
+  },
+  {
+    "id": "TPALL-SUOLO-05",
+    "file": "snpa-terre-rocce-scavo-22-2019.pdf",
+    "bytes": 2523071,
+    "sha256": "34BCFA0CB52D6722841DD821D045B6EE07AF8C6F7BB693F475F8A4B1CC6DA1BE",
+    "authority": "Sistema Nazionale per la Protezione dell'Ambiente",
+    "url": "https://www.snpambiente.it/wp-content/uploads/2019/09/LG_SNPA_22_19_Terre_rocce_scavo.pdf",
+    "checked_at": "2026-07-29"
+  },
+  {
+    "id": "TPALL-RIFIUTI-06",
+    "file": "snpa-classificazione-rifiuti-105-2021.pdf",
+    "bytes": 2664516,
+    "sha256": "9CA7FB8F1B30C95B4B917679442958B3B62600B1931B27E22BF1490B91E1C451",
+    "authority": "Sistema Nazionale per la Protezione dell'Ambiente",
+    "url": "https://www.snpambiente.it/wp-content/uploads/2021/07/Delibera-105-2021-LLGG-Classificazione-rifiuti.pdf",
+    "checked_at": "2026-07-29"
+  },
+  {
+    "id": "TPALL-ALIMENTI-07",
+    "file": "regione-lombardia-piano-controlli-alimenti-2024-2027.pdf",
+    "bytes": 2217921,
+    "sha256": "0C89ED0F1E0BCBD1CD93003DD031F0E7D9DEFFB07FAFBBDCDAA5CD1F5ACBB7D3",
+    "authority": "Regione Lombardia",
+    "url": "https://www.regione.lombardia.it/content/dam/rl/canali-tematici-servizi/01-sanita/05-prevenzione-e-stili-di-vita/01-sicurezza-negli-ambienti-di-vita/red-controllo-ufficiale-degli-alimenti/allegati/DGR%2BXII_1842%2Bdel%2B05_02_2024%2BPCRP%2B2024_2027_completa.pdf",
+    "checked_at": "2026-07-29"
+  },
+  {
+    "id": "TPALL-AIA-08",
+    "file": "ispra-controlli-aia-statali-2023.pdf",
+    "bytes": 8957253,
+    "sha256": "0681364705EEE4A82BE5B6FBCC86B0D133B57F972716364C2DAA6333177FCA2C",
+    "authority": "Istituto Superiore per la Protezione e la Ricerca Ambientale",
+    "url": "https://www.isprambiente.gov.it/files2024/controlli-ambientali/rapporto-controlli-aia-2023.pdf",
+    "checked_at": "2026-07-29",
+    "note": "Rapporto nazionale sui controlli AIA di competenza statale svolti nel 2023; non sostituisce verbali o procedure regionali."
+  },
+  {
+    "id": "TPALL-SITI-09",
+    "file": "ispra-nota-tecnica-analisi-rischio-siti-contaminati.pdf",
+    "bytes": 983848,
+    "sha256": "D45583052E9390D663430CDDDCD3ECBBC8BE7EB05405722C18C633737E672566",
+    "authority": "Istituto Superiore per la Protezione e la Ricerca Ambientale",
+    "url": "https://www.isprambiente.gov.it/it/attivita/suolo-e-territorio/siti-contaminati/nota_tecnica.pdf",
+    "checked_at": "2026-07-29",
+    "note": "Nota tecnica di indirizzo per l'applicazione dell'analisi di rischio ai siti contaminati."
+  },
+  {
+    "id": "TPALL-EMISS-10",
+    "file": "snpa-rischi-controlli-emissioni-25-2020.pdf",
+    "bytes": 2320217,
+    "sha256": "70D20217F0EBA05A13AE1CA0ECE0B89B7DD7934F71493B2B53EE45DEC82AF5A6",
+    "authority": "Sistema Nazionale per la Protezione dell'Ambiente",
+    "url": "https://www.snpambiente.it/wp-content/uploads/2021/09/LLGG_SNPA_25_20.pdf",
+    "checked_at": "2026-07-29",
+    "note": "Linee guida SNPA 25/2020 su rischi, prevenzione e istruzione operativa per controlli e campionamento alle emissioni, 69 pagine."
+  },
+  {
+    "id": "TPALL-EMISS-11",
+    "file": "snpa-bat-ael-emissioni-49-2023.pdf",
+    "bytes": 1462318,
+    "sha256": "2F1E9CFE25A858155EF8C1BB01BF7EC4D0C450C11284A12D139588FB33415F33",
+    "authority": "Sistema Nazionale per la Protezione dell'Ambiente",
+    "url": "https://www.snpambiente.it/wp-content/uploads/2023/11/LG-PER-LAPPLICAZIONE-LIVELLI-DI-EMISSIONE-BAT-AEL_49-2023_OK.pdf",
+    "checked_at": "2026-07-29",
+    "note": "Linee guida SNPA 49/2023 per applicazione dei BAT-AEL, piani di monitoraggio e controlli ispettivi, 27 pagine."
+  },
+  {
+    "id": "TPALL-EMISS-12",
+    "file": "snpa-emissioni-odorigene-2025.pdf",
+    "bytes": 2915832,
+    "sha256": "A2C288C24BCF71AD5839B7BEBE4EEE80408CDD2C927565744CE7F89CBC242BC2",
+    "authority": "Sistema Nazionale per la Protezione dell'Ambiente",
+    "url": "https://www.snpambiente.it/wp-content/uploads/2025/03/Pubbl-tecn-SNPA-2025_EmissioniOdorigene.pdf",
+    "checked_at": "2026-07-29",
+    "note": "Pubblicazione tecnica SNPA 2025 sulle emissioni odorigene e sul campionamento delle sorgenti, 80 pagine."
+  },
+  {
+    "id": "TPALL-METODI-13",
+    "file": "arpa-lombardia-norme-tecniche-emissioni-2026.html",
+    "bytes": 357556,
+    "sha256": "3B50B92266BC0E242F8ED60DFED01EA5C10BF78F04BF73FABC3222E9556F0A80",
+    "authority": "ARPA Lombardia",
+    "url": "https://www.arpalombardia.it/per-enti-e-imprese/autorizzazioni-e-controlli/emissioni-in-atmosfera/controllo-emissioni-in-atmosfera/norme-tecniche-emissioni-in-atmosfera/",
+    "checked_at": "2026-07-29",
+    "note": "Pagina istituzionale con repertorio non esaustivo delle norme tecniche per campionamento e analisi delle emissioni; la pagina indica aggiornamento 19 maggio 2023."
+  },
+  {
+    "id": "TPALL-METODI-14",
+    "file": "arpav-metodi-campionamento-analisi-emissioni-2026.html",
+    "bytes": 253819,
+    "sha256": "28ADF0CFFBB3F09BFFED3C194F27F535115BA736114FA90A054C6C15A32C33ED",
+    "authority": "Agenzia Regionale per la Prevenzione e Protezione Ambientale del Veneto",
+    "url": "https://www.arpa.veneto.it/servizi-ambientali/ippc/servizi-alle-aziende/metodi-di-campionamento-e-analisi",
+    "checked_at": "2026-07-29",
+    "note": "Pagina istituzionale sui metodi di campionamento e analisi per la verifica dei valori limite alle emissioni."
+  }
+]

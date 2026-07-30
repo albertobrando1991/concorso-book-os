@@ -1,0 +1,176 @@
+[
+  {
+    "id": "OST-SNLG-01",
+    "file": "iss-snlg-gravidanza-fisiologica-parte-1-2023.pdf",
+    "bytes": 1979630,
+    "sha256": "418DB3E33C922C3B49633C4897EAC89BF5046E25325CB89612DDA90031F94FD1",
+    "authority": "Istituto Superiore di Sanità - SNLG",
+    "url": "https://www.epicentro.iss.it/itoss/pdf/LG-Gravidanza-Fisiologica-Parte1_protetto.pdf",
+    "checked_at": "2026-07-28"
+  },
+  {
+    "id": "OST-SNLG-02",
+    "file": "iss-snlg-gravidanza-fisiologica-parte-2-2025.pdf",
+    "bytes": 3710172,
+    "sha256": "1D4C836D0D3E6F103D2DA59780A133CA2A77D02237BDD6DADF40D1AF9F166D43",
+    "authority": "Istituto Superiore di Sanità - SNLG",
+    "url": "https://www.epicentro.iss.it/materno/pdf/SNLG%201_2025%20Gravidanza-fisiologica%20Parte-2.pdf",
+    "checked_at": "2026-07-28"
+  },
+  {
+    "id": "OST-SNLG-03",
+    "file": "iss-snlg-gravidanza-fisiologica-parte-3-2026.pdf",
+    "bytes": 1841701,
+    "sha256": "9F8A708B64C33B62B4044E18ABAEB2BCD73F520902A84071B0266A8C444DFCA2",
+    "authority": "Istituto Superiore di Sanità - SNLG",
+    "url": "https://www.epicentro.iss.it/materno/pdf/convegno-4-marzo-2026/SNLG_1_2026_Gravidanza-fisiologica%20Parte-3.pdf",
+    "checked_at": "2026-07-28"
+  },
+  {
+    "id": "OST-TEC-04",
+    "file": "ministero-raccomandazione-06-morte-materna-integrazione.pdf",
+    "bytes": 129462,
+    "sha256": "2A99CD182EB864C4ECBA47FDDC0F2BD39557BA8CF3AB88F30286D08A187E7C23",
+    "authority": "Ministero della Salute",
+    "url": "https://www.salute.gov.it/imgs/C_17_pubblicazioni_1334_ulterioriallegati_ulterioreallegato_0_alleg.pdf",
+    "checked_at": "2026-07-28"
+  },
+  {
+    "id": "OST-SNLG-05",
+    "file": "iss-snlg-emorragia-post-partum-aggiornamento-2020.pdf",
+    "bytes": 1714085,
+    "sha256": "70E0722F1F6579D641E69D72C15336CF30DFB5EA61048EFBC1841F61012E81AF",
+    "authority": "Istituto Superiore di Sanità - SNLG",
+    "url": "https://www.epicentro.iss.it/itoss/pdf/SNLG_EPP-2016web_corrige.pdf",
+    "checked_at": "2026-07-29"
+  },
+  {
+    "id": "OST-ALL-06",
+    "file": "iss-ministero-formazione-allattamento-raccomandazioni-2020.pdf",
+    "bytes": 262960,
+    "sha256": "09B6D8C3B168F5D3D4E10F5BA7A6E3444C5CEF9DBCBEE663D62D3E85086CEAC4",
+    "authority": "Ministero della Salute - Tavolo tecnico operativo interdisciplinare per la promozione dell'allattamento al seno",
+    "url": "https://www.epicentro.iss.it/allattamento/pdf/formazione-allattamento-raccomandazioni-2020.pdf",
+    "checked_at": "2026-07-29"
+  },
+  {
+    "id": "OST-PNC-07",
+    "file": "who-assistenza-postnatale-madre-neonato-2022.pdf",
+    "bytes": 1318775,
+    "sha256": "F4CBEF197FDF40D33E1C53987BA6F4E099265FE0D867724C8C2E4FB91051A071",
+    "authority": "World Health Organization",
+    "url": "https://iris.who.int/server/api/core/bitstreams/73dec697-c033-449c-8323-1cd04a8d8f20/content",
+    "checked_at": "2026-07-29"
+  },
+  {
+    "id": "OST-NLS-08",
+    "file": "irc-erc-supporto-vitale-neonato-2025.pdf",
+    "bytes": 2863286,
+    "sha256": "592B1D4F7153BF91F8F5B6E1A74F1F665DE0382A4409A8DFAAE4ED1BD7C906AD",
+    "authority": "European Resuscitation Council - traduzione e integrazioni Italian Resuscitation Council",
+    "url": "https://www.ircouncil.it/wp-content/uploads/2026/04/CAPITOLO_8-NLS_13.04.2026.pdf",
+    "checked_at": "2026-07-29"
+  },
+  {
+    "id": "OST-ISS-09",
+    "file": "iss-sorveglianza-bambini-0-2-anni-2025.pdf",
+    "bytes": 1031551,
+    "sha256": "BB94E1C41CE8955174F9E1179F27C7C23F8A483924FBA97874A54568346BF956",
+    "authority": "Istituto Superiore di Sanita - Sorveglianza Bambine e Bambini 0-2 anni",
+    "url": "https://www.epicentro.iss.it/sorveglianza02anni/pdf/sintesi-2025.pdf",
+    "checked_at": "2026-07-29"
+  },
+  {
+    "id": "OST-ITOSS-10",
+    "file": "itoss-eclampsia-fact-sheet-2021.pdf",
+    "bytes": 173717,
+    "sha256": "584AC4805F55E3FF5D9D512884A0BE9A52A2A3515BB15C4DF3F1281F939A095F",
+    "authority": "Istituto Superiore di Sanita - Italian Obstetric Surveillance System (ItOSS)",
+    "url": "https://www.epicentro.iss.it/itoss/pdf/FACT%20SHEET%20ECLAMPSIA.pdf",
+    "checked_at": "2026-07-29"
+  },
+  {
+    "id": "OST-ITOSS-11",
+    "file": "itoss-sepsi-ostetricia-dossier-2018.pdf",
+    "bytes": 968863,
+    "sha256": "BAE90EB4553309B795AB0544CDF64989CAA70ADADD7FDF9AC16DA7D311FC1018",
+    "authority": "Istituto Superiore di Sanita - Italian Obstetric Surveillance System (ItOSS)",
+    "url": "https://www.epicentro.iss.it/itoss/pdf/dossier-sepsi-finale.pdf",
+    "checked_at": "2026-07-29"
+  },
+  {
+    "id": "OST-ITOSS-12",
+    "file": "itoss-patologia-cardiaca-tromboembolica-gravidanza-puerperio.pdf",
+    "bytes": 1110231,
+    "sha256": "BDA3B90C7E56F1E922312D4C9D5400161188E93462DA2F0051BB118DAE883936",
+    "authority": "Istituto Superiore di Sanita - Italian Obstetric Surveillance System (ItOSS)",
+    "url": "https://www.epicentro.iss.it/itoss/pdf/dossier_ItOSS_trombosi.pdf",
+    "checked_at": "2026-07-29"
+  },
+  {
+    "id": "OST-REG-13",
+    "file": "regione-toscana-pratica-distocia-spalla-v2-2-2018.pdf",
+    "bytes": 3449170,
+    "sha256": "993C2A0EF36FE0C8AC72D4FBE1E5C61CD8C233FE737E9BCA02868A58393E00D4",
+    "authority": "Regione Toscana - Centro Gestione Rischio Clinico",
+    "url": "https://www.regione.toscana.it/documents/10180/5033807/Distocia%2Bdi%2Bspalla.pdf/97db9032-6147-468e-9c61-791a6ec12c7d",
+    "checked_at": "2026-07-29"
+  },
+  {
+    "id": "OST-ASL-14",
+    "file": "asl-vco-procedura-distocia-spalla-rev2020.pdf",
+    "bytes": 6856591,
+    "sha256": "C9C9CCD666C7BDC70B3517C5C77D9F4C041AF0CE743E36D8C2353AF77389CA45",
+    "authority": "ASL VCO",
+    "url": "https://www.aslvco.it/wp-content/uploads/2021/03/PO-17-OGI-08-Procedura-Gestione-Distocia-di-Spalla-REV2020.pdf",
+    "checked_at": "2026-07-29"
+  },
+  {
+    "id": "OST-ASL-15",
+    "file": "asl-vco-procedura-prolasso-funicolo.pdf",
+    "bytes": 5814372,
+    "sha256": "5947CDD535CF92867C0EF57C225F8AA80559D4F72ADDAC635B17746032D9539E",
+    "authority": "ASL VCO",
+    "url": "https://www.aslvco.it/wp-content/uploads/2021/03/PO-17-OGI-15-Procedura-Gestione-Prolasso-di-Funicolo.pdf",
+    "checked_at": "2026-07-29"
+  },
+  {
+    "id": "OST-FOR-16",
+    "file": "asufc-piano-formazione-2026-distocia-stam-sten.pdf",
+    "bytes": 2644965,
+    "sha256": "909C200B49DFE3AADD59775FB086A0D4ED454C86FB89A98E1FA4F190A54AFEC8",
+    "authority": "Azienda Sanitaria Universitaria Friuli Centrale",
+    "url": "https://asufc.sanita.fvg.it/export/sites/asufc/it/amministrazione_trasparente/documenti_AT/01_disposizioni_generali/PIAO/2026_94_PIAO_2026-2028_all3_20260130.pdf",
+    "checked_at": "2026-07-29"
+  },
+  {
+    "id": "OST-RCOG-17",
+    "file": "rcog-green-top-42-shoulder-dystocia-2012.pdf",
+    "bytes": 26422044,
+    "sha256": "3512741EB9EBF9C395AC01E1960E313078965779267512530F554EF4AC39BCEB",
+    "authority": "Royal College of Obstetricians and Gynaecologists",
+    "url": "https://www.rcog.org.uk/media/ewgpnmio/gtg_42.pdf",
+    "checked_at": "2026-07-29",
+    "note": "Seconda edizione pubblicata; la pagina ufficiale dichiara la terza edizione in sviluppo."
+  },
+  {
+    "id": "OST-RCOG-18",
+    "file": "rcog-green-top-50-umbilical-cord-prolapse-2014.pdf",
+    "bytes": 395632,
+    "sha256": "C5F16B902B256162DC3BA870EE950726987EEE8E29B0FD42E640C7857722D315",
+    "authority": "Royal College of Obstetricians and Gynaecologists",
+    "url": "https://www.rcog.org.uk/media/3wykswng/gtg-50-umbilicalcordprolapse-2014.pdf",
+    "checked_at": "2026-07-29",
+    "note": "Seconda edizione 2014; pagina ufficiale riesaminata nel dicembre 2024 ed estesa per due anni."
+  },
+  {
+    "id": "OST-RCOG-WEB-19",
+    "file": "rcog-shoulder-dystocia-status-2026-07-29.html",
+    "bytes": 42134,
+    "sha256": "A0B41B0A20341D9153D83E5A794D9800B363F9C9889384009DA3CE25EBAFA952",
+    "authority": "Royal College of Obstetricians and Gynaecologists",
+    "url": "https://www.rcog.org.uk/guidance/browse-all-guidance/green-top-guidelines/shoulder-dystocia-green-top-guideline-no-42/",
+    "checked_at": "2026-07-29",
+    "note": "Snapshot della pagina di stato: seconda edizione pubblicata, terza edizione in sviluppo; nessuna bozza usata come raccomandazione."
+  }
+]
