@@ -178,7 +178,7 @@ Durante una giornata di attività in un servizio sociosanitario pubblico, una pe
 
 “Spieghi perché autonomia professionale, responsabilità e collaborazione non sono concetti in contrasto nelle professioni sanitarie, e distingua il caso dell’OSS.”
 
-**Risposta modello.**  
+**Risposta modello.**
 L’autonomia non significa isolamento. Per le professioni sanitarie ordinistiche il campo proprio di attività e responsabilità si legge coordinando profilo professionale, ordinamento didattico e codice deontologico, nel rispetto delle altre competenze. L’infermiere, l’ostetrica, il fisioterapista e il TPALL hanno campi diversi, ma tutti devono agire con competenza, documentare o comunicare secondo il setting, collaborare con l’équipe e riconoscere il limite. La sicurezza delle cure rafforza questa lettura, perché coinvolge attività assistenziali e organizzative, senza confondere responsabilità della struttura, dell’équipe e del singolo professionista. L’OSS va distinto: non è professione sanitaria ordinistica; opera come operatore di interesse sanitario, in collaborazione e secondo profilo nazionale, attuazione regionale e organizzazione del servizio.
 
 Un elenco di norme, da solo, non risponde al caso. Occorre individuare la figura, collegare fonte e campo professionale e spiegare il comportamento corretto in termini concorsuali: non nascondere una criticità, non sostituire altri profili, non promettere esiti e non trasformare un caso etico in una procedura tecnica. In ogni passaggio, la decisione deve restare tracciabile dentro il ruolo.
@@ -197,32 +197,32 @@ L’errore più frequente è usare una parola unica per tutti: “sanitario”, 
 
 ### Quiz
 
-1. Quale coppia è corretta?  
-A. OSS — albo professionale ordinistico.  
-B. TPALL — prevenzione, vigilanza e controllo nei limiti delle attribuzioni.  
-C. Fisioterapista — competenza generale su ogni bisogno assistenziale.  
-D. Ostetrica — profilo privo di autonomia.  
+1. Quale coppia è corretta?
+A. OSS — albo professionale ordinistico.
+B. TPALL — prevenzione, vigilanza e controllo nei limiti delle attribuzioni.
+C. Fisioterapista — competenza generale su ogni bisogno assistenziale.
+D. Ostetrica — profilo privo di autonomia.
 **Soluzione ragionata: B.** Il TPALL è collegato a prevenzione, verifica, controllo, vigilanza e, nei servizi competenti, funzioni ispettive entro attribuzioni definite. A è errata perché l’OSS non è professione ordinistica; C amplia impropriamente il fisioterapista; D cancella il campo autonomo ostetrico. La motivazione deve restare sul profilo, non su esempi inventati.
 
-2. La deontologia:  
-A. amplia automaticamente le competenze.  
-B. sostituisce il profilo ministeriale.  
-C. orienta condotta, responsabilità, relazione e limite.  
-D. vale solo all’orale.  
+2. La deontologia:
+A. amplia automaticamente le competenze.
+B. sostituisce il profilo ministeriale.
+C. orienta condotta, responsabilità, relazione e limite.
+D. vale solo all’orale.
 **Soluzione ragionata: C.** I codici integrano la lettura del campo professionale perché aiutano a qualificare relazione, responsabilità, documentazione, riservatezza, collaborazione e conflitti. Non autorizzano attività estranee al profilo e non sostituiscono norme, linee guida o procedure del servizio.
 
-3. Nei bandi OSS, i programmi pratici:  
-A. bastano a insegnare procedure complete.  
-B. indicano output di prova e materie osservate.  
-C. valgono come standard nazionale per tutte le Regioni.  
-D. sostituiscono il DPCM 2025.  
+3. Nei bandi OSS, i programmi pratici:
+A. bastano a insegnare procedure complete.
+B. indicano output di prova e materie osservate.
+C. valgono come standard nazionale per tutte le Regioni.
+D. sostituiscono il DPCM 2025.
 **Soluzione ragionata: B.** I bandi indicano come la prova può osservare ruolo, assistenza di base, relazione, sicurezza e attività simulate. Non sono fonti tecniche autosufficienti e non trasformano una prassi locale in disciplina nazionale. Il riferimento corrente per il profilo resta il DPCM 25 marzo 2025, coordinato con gli atti regionali applicabili e con il setting.
 
 ### Mini-esercizio comparativo
 
 Completa la frase con il profilo corretto e motiva: “Nel caso compare una richiesta di controllo imparziale, tracciabilità dell’attività e resistenza a una pressione a minimizzare la difformità.”
 
-**Soluzione ragionata.**  
+**Soluzione ragionata.**
 Il profilo più coerente è il TPALL, perché la traccia richiama vigilanza, controllo, imparzialità e rapporti con autorità o enti. La risposta non deve indicare sanzioni o modelli di atto: deve spiegare che il candidato riconosce la fonte dell’attribuzione, mantiene terzietà, documenta secondo il contesto e segnala il limite della propria risposta. Se la stessa traccia riguardasse assistenza di base attribuita nel setting, il profilo sarebbe OSS; se riguardasse pianificazione assistenziale, infermiere; se riguardasse percorso materno-neonatale, ostetrica; se riguardasse valutazione funzionale e progetto riabilitativo, fisioterapista.
 
 La motivazione va costruita per esclusione controllata. Non basta dire “c’è un controllo”: anche altri profili controllano l’esito del proprio lavoro. Qui contano difformità, pressione a minimizzare, imparzialità e tracciabilità verso l’ente o l’autorità competente. Sono segnali compatibili con il TPALL e non con una generica relazione di aiuto. Se il bando usa formule ampie, il candidato deve ancorare la risposta al contesto indicato: dipartimento di prevenzione, azienda sanitaria, ente ambientale o servizio con attribuzioni di vigilanza. La frase finale deve chiudere il perimetro: ruolo riconosciuto, fonte citata, nessuna procedura inventata, verifica professionale quando il dettaglio operativo non è nel bando.
