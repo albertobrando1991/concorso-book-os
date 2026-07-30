@@ -5,6 +5,7 @@ Usala come profilo di lavoro: le source notes e il wiki restano la base canonica
 
 ## Preferenze e istruzioni recenti
 
+- Procedere con la pipeline completa VOL-02. (mem-20260729223531-ks6dtm)
 - Redigere professionalmente il capitolo M-FC05 15 Laboratorio delle prove authority. (mem-20260724182430-1f2iaov)
 - Redigere professionalmente il capitolo M-FC05 14 ANAC: prevenzione, vigilanza e whistleblowing. (mem-20260724181831-1p25px6)
 - Redigere professionalmente il capitolo M-FC05 13 Garante privacy: poteri, procedimenti e cooperazione europea. (mem-20260724180952-yfgclt)
@@ -84,4 +85,3 @@ Usala come profilo di lavoro: le source notes e il wiki restano la base canonica
 - instruction=Scrivi il capitolo effettivo come testo da manuale Metodo BANDO, non un riepilogo tecnico. (mem-20260710170027-1ay3e9n)
 - Redigere il capitolo M-FL01 del modulo didattico in stile accademico/manualistico, coerente con gli altri capitoli, con fonti consolidate e fonti autorevoli se necessarie. (mem-20260709173631-rydjt8)
 - Redigere il primo capitolo del modulo didattico VOL-02 in stile accademico/manualistico, coerente con gli altri capitoli, usando conoscenza consolidata e fonti autorevoli. (mem-20260709170748-1tspdy2)
-- Redigere il capitolo 14 del modulo didattico M-FC02 con struttura editoriale coerente, fonti consolidate e fonti autorevoli se mancanti. (mem-20260709144629-pr9cvt)

@@ -2612,3 +2612,12 @@
 - l0: l0/conv-20260729215117-bp8asu.md
 - atoms:
   - mem-20260729215117-1n7yq9n | result | Esito codex/github-staff-sync-vol02: Scaricare gli ultimi aggiornamenti e controllare il Volume 2 scritto dallo staff. -> Integrato origin/main fino al commit a6e5bea.
+
+## 2026-07-29T22:35:31.692Z - vol-02-editorial
+
+- conversation_id: conv-20260729223531-z7ay09
+- route: codex/pipeline-vol02-step08-12
+- l0: l0/conv-20260729223531-z7ay09.md
+- atoms:
+  - mem-20260729223531-ks6dtm | workflow | Procedere con la pipeline completa VOL-02.
+  - mem-20260729223531-1dgbv5l | result | Esito codex/pipeline-vol02-step08-12: Procedere con la pipeline completa VOL-02. -> Step 08-12 completati per il primo target: piano, lint, matrice, citation guard e report editoriale; restano 264 step pending e la pubblicabilità richiede review normativa e verifica bandi.

@@ -3,7 +3,7 @@
   "specPath": "books/vol-02-enti-locali-polizia-locale/planning/00-scheda-pipeline.md",
   "specHash": "sha256:b9ec2abf7ad63aaa5271f5f2d561817a092ec16c24727d57ebf82ef84b0a5a6b",
   "createdAt": "2026-07-29T22:02:16.845Z",
-  "updatedAt": "2026-07-29T22:02:39.069Z",
+  "updatedAt": "2026-07-29T22:34:49.881Z",
   "steps": [
     {
       "key": "08:moduli/m-fl01-comuni-unioni/chapters/00-piano-editoriale.md",
@@ -11,13 +11,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl01-comuni-unioni/chapters/00-piano-editoriale.md",
-      "status": "in-progress",
+      "status": "done",
       "attempts": 1,
       "evidence": [],
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-29T22:02:39.069Z"
+      "startedAt": "2026-07-29T22:02:39.069Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fl01-comuni-unioni/chapters/00-piano-editoriale.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Verifica manuale eseguita sul target e sulla scheda del modulo. Report evidenza: wiki/reviews/pipeline/VOL-02/08-piano-m-fl01-cap00.md. Il target è una scheda di piano, non prosa didattica; il gate chapter-plan CLI non è implementato e viene accettato manualmente senza dichiarare pubblicabilità."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-07-29T22:18:26.974Z"
     },
     {
       "key": "09:moduli/m-fl01-comuni-unioni/chapters/00-piano-editoriale.md",
@@ -25,9 +44,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl01-comuni-unioni/chapters/00-piano-editoriale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T22:18:53.100Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T22:22:00.532Z"
     },
     {
       "key": "10:moduli/m-fl01-comuni-unioni/chapters/00-piano-editoriale.md",
@@ -35,9 +64,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl01-comuni-unioni/chapters/00-piano-editoriale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 3,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T22:25:37.508Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T22:25:43.900Z"
     },
     {
       "key": "11:moduli/m-fl01-comuni-unioni/chapters/00-piano-editoriale.md",
@@ -45,9 +84,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl01-comuni-unioni/chapters/00-piano-editoriale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T22:25:57.164Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T22:26:09.087Z"
     },
     {
       "key": "12:moduli/m-fl01-comuni-unioni/chapters/00-piano-editoriale.md",
@@ -55,9 +104,40 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl01-comuni-unioni/chapters/00-piano-editoriale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 2,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T22:34:17.152Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E12-01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-02/12-moduli-m-fl01-comuni-unioni-chapters-00-piano-editoriale-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E12-02: stato \"aperto\".",
+            "location": "wiki/reviews/pipeline/VOL-02/12-moduli-m-fl01-comuni-unioni-chapters-00-piano-editoriale-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E12-03: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-02/12-moduli-m-fl01-comuni-unioni-chapters-00-piano-editoriale-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E12-04: stato \"proposto\".",
+            "location": "wiki/reviews/pipeline/VOL-02/12-moduli-m-fl01-comuni-unioni-chapters-00-piano-editoriale-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-07-29T22:34:49.881Z"
     },
     {
       "key": "08:moduli/m-fl01-comuni-unioni/chapters/01-tuel-operativo-autonomia-organi-funzioni-comune.md",
