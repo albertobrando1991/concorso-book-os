@@ -201,8 +201,10 @@ function isInsideFence(lines: string[], index: number) {
 function hasInternalToolDependency(body: string) {
   return normalizeInlineMarkdown(body)
     .replace(/^\s*#{1,6}\s+(.+)$/gm, "$1.")
-    .replace(/^\s*(?:[-+>]|\d+[.)])\s+/gm, "")
-    .replace(/\s*\n+\s*/g, " ")
+    .replace(/:\s*\n+\s*(?:[-+>]|\d+[.)])\s+/g, ": ")
+    .replace(/\s*\n{2,}\s*/g, ". ")
+    .replace(/\s*\n\s*(?:[-+>]|\d+[.)])\s+/g, ". ")
+    .replace(/\s*\n\s*/g, " ")
     .split(/[.!?;]+/)
     .map((sentence) => sentence.trim())
     .filter(Boolean)

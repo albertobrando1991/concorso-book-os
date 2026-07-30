@@ -152,6 +152,7 @@ Spiega la distinzione in cinque righe.`
     "Un report contiene dati riepilogativi.",
     "Una dashboard mostra risultati aggregati.",
     "La wiki raccoglie informazioni collegate.",
+    "I risultati sono presentati di seguito\n\nUna dashboard è uno strumento che sintetizza indicatori.",
     "leggere testi, istruzioni, dashboard e documentazione",
     "gestire dati strutturati in tabelle, query, maschere e report"
   ])("does not treat the encyclopedic mention %s as an editorial dependency", (sentence) => {
