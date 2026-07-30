@@ -89,8 +89,9 @@ spiegazioni e riferimenti leggibili.
 - [ ] **Step 1: Scrivere i test fallenti**
 
   Verificare che la rimozione di `[[sources/...]]` non generi
-  `lost-wikilink`, che la rimozione di `[[books/...]]` continui a essere
-  bloccata e che l'aggiunta di un link interno sia bloccata.
+  `lost-wikilink`, che la rimozione di `[[books/.../chapters/...]]` continui a
+  essere bloccata e che qualsiasi link interno presente nell'after sia
+  bloccato, anche quando esisteva prima dell'Humanizer.
 
 - [ ] **Step 2: Eseguire i test e osservare il fallimento atteso**
 

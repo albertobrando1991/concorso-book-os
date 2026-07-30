@@ -39,10 +39,10 @@ export function runCitationGuard(input: CitationGuardInput): GateResult {
     ...missing(before.links, after.links).map((value) => at("lost-wikilink", `Wikilink perso nell'Humanizer: [[${value}]].`)),
     ...missing(before.sourceRefs, after.sourceRefs).map((value) => at("lost-source-ref", `source_refs perso dal frontmatter: ${value}.`)),
     ...missing(before.norms, after.norms).map((value) => at("lost-norm", `Riferimento normativo scomparso dal testo: ${value}.`)),
-    ...missing(after.internalLinks, before.internalLinks).map((value) =>
+    ...[...after.internalLinks].map((value) =>
       at(
         "new-internal-knowledge-link",
-        `Link interno introdotto nel testo destinato allo studente: [[${value}]]. Mantieni la tracciabilità nel frontmatter.`
+        `Link interno presente nel testo destinato allo studente: [[${value}]]. Mantieni la tracciabilità nel frontmatter.`
       )
     )
   ]

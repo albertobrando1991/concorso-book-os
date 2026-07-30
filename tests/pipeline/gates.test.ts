@@ -57,16 +57,40 @@ Spiega la distinzione in cinque righe.`
   it.each([
     "[[sources/agenzie-fiscali]]",
     "[[topics/imposta]]",
-    "[[entities/agenzia-delle-entrate]]"
+    "[[entities/agenzia-delle-entrate]]",
+    "[[../sources/agenzie-fiscali]]",
+    "[[templates/prompt-staff]]",
+    "[[books/moduli/m-x/sources/fonte]]",
+    "[[books/moduli/m-x/topics/tema]]",
+    "[[books/moduli/m-x/entities/ente]]",
+    "[[books/moduli/m-x/quizzes/verifica]]",
+    "[[books/moduli/m-x/reviews/audit]]",
+    "[[books/moduli/m-x/planning/02-matrice]]",
+    "[[books/moduli/m-x/raw/corpus]]",
+    "[[books/moduli/m-x/templates/prompt]]",
+    "[[books/moduli/m-x/dashboards/stato]]",
+    "[[books/moduli/m-x/memory/note]]",
+    "[[books/moduli/m-x/logs/revisione]]",
+    "[[log]]",
+    "[[wiki/books/moduli/m-x/chapters/../reviews/audit]]",
+    "[[books/moduli/m-x/planning/chapters/bypass]]"
   ])("blocks the internal knowledge link %s from the reader body", (link) => {
     expect(codes(chapter(`${validBody}\n\n${link}`))).toContain("internal-knowledge-link")
+  })
+  it("preserves a public chapter link after canonical dot-segment normalization", () => {
+    expect(chapter(`${validBody}\n\n[[books/moduli/m-x/planning/../chapters/01-perimetro]]`).passed).toBe(true)
+    expect(chapter(`${validBody}\n\n[[books/moduli/m-x/chapters/planning]]`).passed).toBe(true)
   })
   it.each([
     "Come spiegato nella source note consolidata, il perimetro e completo.",
     "Le fonti consolidate confermano questa distinzione.",
-    "Il corpus M-FC02 mostra una ricorrenza."
+    "Il corpus M-FC02 mostra una ricorrenza.",
+    "Consulta la dashboard e il report interno."
   ])("blocks the editorial dependency %s from the reader body", (sentence) => {
     expect(codes(chapter(`${validBody}\n\n${sentence}`))).toContain("editorial-dependency")
+  })
+  it("does not treat a non-dependent mention of a wiki as an editorial dependency", () => {
+    expect(chapter(`${validBody}\n\nUna wiki e un sito collaborativo modificabile dagli utenti.`).passed).toBe(true)
   })
   it.each([
     ["obiettivo", "## Obiettivo del capitolo\n\nIl candidato comprende il perimetro e sa applicarlo in prova.\n\n"],
@@ -184,6 +208,15 @@ describe("citation guard", () => {
   it("blocks an internal knowledge link introduced by the Humanizer", () => {
     const after = `---\nsource_refs: ["sources/tributi", "sources/dogane"]\n---\n\n# Titolo\n\nL'art. 3 del d.lgs. 546/1992 disciplina il caso [[sources/tributi]] e il metodo e in [[books/il-metodo-bando/chapters/anatomia-del-bando]].`
     expect(codes(guard(after))).toContain("new-internal-knowledge-link")
+  })
+  it("blocks every internal knowledge link retained by the Humanizer", () => {
+    const start = `---\nsource_refs: ["sources/tributi", "sources/dogane"]\n---\n\n# Titolo\n\nL'art. 3 del d.lgs. 546/1992 disciplina il caso [[books/moduli/m-x/planning/02-matrice]] e il metodo e in [[books/il-metodo-bando/chapters/anatomia-del-bando]].`
+    expect(codes(guard(start, start))).toContain("new-internal-knowledge-link")
+  })
+  it("keeps protecting a public chapter link while internal paths are normalized", () => {
+    const start = `---\nsource_refs: ["sources/tributi", "sources/dogane"]\n---\n\n# Titolo\n\nL'art. 3 del d.lgs. 546/1992 disciplina il caso in [[books/moduli/m-x/planning/../chapters/01-perimetro]].`
+    const after = `---\nsource_refs: ["sources/tributi", "sources/dogane"]\n---\n\n# Titolo\n\nL'art. 3 del d.lgs. 546/1992 disciplina il caso.`
+    expect(codes(guard(after, start))).toContain("lost-wikilink")
   })
   it("blocks when the pre-Humanizer snapshot is missing", () => {
     expect(codes(guard(before, ""))).toContain("missing-snapshot")

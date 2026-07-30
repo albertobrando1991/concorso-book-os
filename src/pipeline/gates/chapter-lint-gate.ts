@@ -30,7 +30,8 @@ const EDITORIAL_DEPENDENCIES = [
   /\bsource notes?\b/i,
   /\bfont(?:e|i) consolidat(?:a|e)\b/i,
   /\bcorpus\s+(?:m-[a-z0-9-]+|auditato|interno|editoriale|dei bandi)\b/i,
-  /\bwiki\b/i
+  /\b(?:consulta|consultare|consultate|consulti|vedi|si\s+veda|si\s+consulti|rinvia|si\s+rinvia|accedi|fare\s+riferimento|fai\s+riferimento)\b[^.!?\n]{0,120}\b(?:wiki|dashboard|report\s+intern[oaie])\b/i,
+  /\breport\s+intern[oaie]\b/i
 ]
 
 const DIDACTIC_SECTIONS = [

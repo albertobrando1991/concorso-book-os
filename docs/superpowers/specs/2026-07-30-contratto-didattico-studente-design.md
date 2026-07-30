@@ -68,9 +68,11 @@ Il `citation-guard` continua a proteggere:
 - riferimenti normativi del corpo;
 - wikilink didattici verso capitoli pubblicabili.
 
-Non protegge i wikilink interni verso `sources/`, `topics/` ed `entities/`,
-perché la loro rimozione dal corpo è una correzione editoriale ammessa. Se
-l'Humanizer ne introduce di nuovi, il gate li blocca.
+Non protegge i wikilink interni verso aree di lavoro come `sources/`,
+`topics/`, `entities/`, `planning/`, `templates/` e directory equivalenti,
+perché la loro rimozione dal corpo è una correzione editoriale ammessa. Il
+gate blocca qualsiasi link interno ancora presente dopo l'Humanizer, sia
+rimasto dal testo iniziale sia introdotto dalla riscrittura.
 
 ### Step 12
 
@@ -100,6 +102,6 @@ correzione più estesa; il capitolo 01 richiede un audit e correzioni mirate.
 - Un capitolo privo di obiettivo, Mappa BANDO, applicazione, errore o verifica
   viene bloccato con codici diagnostici specifici.
 - Il `citation-guard` consente la rimozione dei link interni di conoscenza,
-  conserva i rinvii didattici e blocca nuovi link interni.
+  conserva i rinvii didattici e blocca ogni link interno rimasto o nuovo.
 - I capitoli M-SA02 01 e 03 superano il nuovo gate.
 - Test completi e typecheck restano verdi.
