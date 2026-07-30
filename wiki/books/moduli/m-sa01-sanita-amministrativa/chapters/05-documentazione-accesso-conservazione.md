@@ -44,13 +44,13 @@ last_compiled_from: ["wiki/reviews/pipeline/VOL-07/08-piano-capitolo-m-sa01-05.m
 
 # Documentazione sanitaria, accesso, privacy e conservazione
 
-Una richiesta di documentazione sanitaria sembra, a prima vista, una pratica semplice: qualcuno chiede una copia e l'ufficio la consegna. In realtà, prima della consegna occorre rispondere a domande diverse. Quale documento viene richiesto? Chi lo chiede? Agisce per sé o per un'altra persona? Quale diritto esercita? Il documento contiene dati di terzi? L'accoglimento può essere totale oppure richiede una selezione? Quale canale garantisce identificazione, sicurezza e prova dell'esito?
+Per consegnare una copia di documentazione sanitaria, l'ufficio deve svolgere prima una serie di verifiche. Occorre chiarire quale documento viene richiesto, chi lo chiede e se agisce per sé o per un'altra persona. Vanno poi individuati il diritto esercitato e gli eventuali dati di terzi, così da stabilire l'ampiezza dell'accoglimento e scegliere un canale che garantisca identificazione, sicurezza e prova dell'esito.
 
-Il candidato non deve memorizzare un modulo aziendale come se fosse una regola nazionale. Deve imparare un metodo che resti valido quando cambiano ente, procedura e tecnologia:
+Al candidato serve un metodo che resti valido quando cambiano ente, procedura e tecnologia, non la memorizzazione di un modulo aziendale come se fosse una regola nazionale:
 
 **oggetto → finalità → richiedente → regime giuridico → dati e limiti → istruttoria → decisione → consegna → tracciamento → conservazione**.
 
-Questa sequenza evita due errori frequenti: trattare ogni domanda come accesso documentale e considerare la privacy un divieto assoluto. La disciplina, invece, richiede di qualificare la richiesta e bilanciare diritti, doveri dell'amministrazione e protezione delle persone coinvolte.
+Seguire questa sequenza evita di trattare ogni domanda come accesso documentale o di invocare la privacy come divieto assoluto. La richiesta va qualificata bilanciando il diritto esercitato, i doveri dell'amministrazione e la protezione delle persone coinvolte.
 
 ## Obiettivo del capitolo
 
@@ -85,11 +85,11 @@ Il capitolo collega cinque aree:
 - amministrazione digitale;
 - comunicazione dell'esito all'utente.
 
-Il collegamento non elimina le differenze. Il diritto di accesso a un documento, il diritto dell'interessato sui propri dati e la consultazione del FSE possono riguardare informazioni simili, ma rispondono a presupposti e regole differenti.
+Le cinque aree sono collegate, ma restano distinte. Il diritto di accesso a un documento, il diritto dell'interessato sui propri dati e la consultazione del FSE possono riguardare informazioni simili, ma rispondono a presupposti e regole differenti.
 
 ### Nuclei
 
-Concentrati su oggetto della richiesta, identità del richiedente, legittimazione, regime applicabile, dati di terzi, minimizzazione, decisione motivata, canale, tracciamento e conservazione. Impara prima questa griglia e poi le denominazioni dei singoli strumenti.
+Concentrati su oggetto della richiesta, identità del richiedente, legittimazione, regime applicabile, dati di terzi, minimizzazione, decisione motivata, canale, tracciamento e conservazione. Usa questa griglia per collocare correttamente le denominazioni dei singoli strumenti.
 
 ### Diario
 
@@ -135,13 +135,13 @@ Una richiesta può avere per oggetto:
 - dati o documenti detenuti dall'amministrazione per finalità di controllo diffuso;
 - l'uso o la consultazione di un sistema informativo sanitario.
 
-La prima operazione dell'ufficio è dunque identificare con precisione l'oggetto. Se la domanda è generica, può essere necessario chiedere un'integrazione che consenta di individuare documenti, periodo, struttura o episodio di riferimento.
+L'ufficio identifica anzitutto con precisione l'oggetto. Se la domanda è generica, può chiedere un'integrazione che consenta di individuare documenti, periodo, struttura o episodio di riferimento.
 
 ### Funzioni della documentazione sanitaria
 
 La documentazione sanitaria nasce nel processo di assistenza e svolge più funzioni. Rende conoscibili attività e decisioni, permette continuità informativa, sostiene adempimenti amministrativi, consente controlli e conserva evidenza di quanto è avvenuto. Può assumere rilievo anche per l'esercizio di diritti e per la ricostruzione delle responsabilità.
 
-Questa pluralità di funzioni ha conseguenze operative:
+Poiché la documentazione svolge più funzioni, la sua gestione deve rispettare alcune condizioni operative:
 
 - la documentazione deve essere riconducibile al contesto nel quale è stata formata;
 - completezza e integrità non sono qualità meramente grafiche;
@@ -149,7 +149,7 @@ Questa pluralità di funzioni ha conseguenze operative:
 - accessi e copie devono essere gestiti senza alterare l'originale;
 - reperibilità e conservazione devono accompagnarsi a riservatezza e controllo degli accessi.
 
-La documentazione sanitaria non è un deposito indistinto. Ogni documento mantiene natura, origine, finalità e regole proprie.
+Ogni documento sanitario conserva natura, origine, finalità e regole proprie: l'appartenenza allo stesso insieme documentale non rende uniformi tutti gli elementi che lo compongono.
 
 ### Cartella clinica e altri documenti
 
@@ -189,9 +189,9 @@ Confondere i due insiemi rende difficile dimostrare che l'ufficio ha deciso corr
 
 Verificare l'**identità** significa accertare chi presenta o riceve la richiesta. Verificare la **legittimazione** significa stabilire se quella persona può esercitare il diritto o ottenere il documento. Le due verifiche sono collegate, ma non equivalenti: una persona può essere identificata con certezza e non avere titolo a ricevere la documentazione di un'altra.
 
-Quando il richiedente agisce per un terzo, occorre qualificare il rapporto. Può esserci una delega, una rappresentanza legale o un altro titolo previsto dalla disciplina applicabile. Non basta la dichiarazione «sono un familiare»; l'ufficio deve controllare documenti, poteri e limiti pertinenti al caso.
+Quando il richiedente agisce per un terzo, occorre qualificare il rapporto. Può esserci una delega, una rappresentanza legale o un altro titolo previsto dalla disciplina applicabile. La dichiarazione «sono un familiare» non dimostra la legittimazione: l'ufficio deve controllare documenti, poteri e limiti pertinenti al caso.
 
-Una delega va letta, non soltanto acquisita. Controlla almeno:
+Acquisire la delega non basta: occorre leggerla e controllare almeno:
 
 - identità di delegante e delegato;
 - oggetto e ampiezza dell'incarico;
@@ -250,9 +250,9 @@ Quando viene segnalata un'inesattezza, occorre distinguere almeno tre situazioni
 
 L'istruttoria verifica il dato contestato, la fonte originaria, il soggetto competente e il modo con cui la correzione o l'integrazione deve restare tracciabile. Se la richiesta non può essere accolta nei termini proposti, l'esito va motivato e comunicato secondo la disciplina applicabile.
 
-La regola pratica è: **correggere il dato senza distruggere la storia del documento**. La rettifica tutela l'esattezza; la tracciabilità tutela integrità, responsabilità e possibilità di ricostruire che cosa è cambiato.
+In termini operativi, occorre **correggere il dato senza distruggere la storia del documento**. La rettifica tutela l'esattezza; la tracciabilità consente di preservare integrità e responsabilità e di ricostruire che cosa è cambiato.
 
-La distinzione è decisiva:
+Il confronto tra i quattro istituti può essere sintetizzato così:
 
 | Istituto | Centro della richiesta | Richiedente | Domanda guida |
 | --- | --- | --- | --- |
@@ -281,10 +281,7 @@ Una richiesta formulata con il nome sbagliato non deve essere respinta meccanica
 
 Il GDPR include i **dati relativi alla salute** tra le categorie particolari di dati personali. La loro protezione non dipende soltanto dal carattere riservato dell'informazione: una comunicazione impropria può incidere in modo significativo sulla dignità, sulla vita privata e sui diritti della persona.
 
-La presenza di dati di salute non comporta, però, due conclusioni errate:
-
-- non significa che ogni trattamento richieda il consenso;
-- non significa che ogni accesso o comunicazione sia vietato.
+La presenza di dati di salute non implica che ogni trattamento richieda il consenso, né che ogni accesso o comunicazione sia vietato.
 
 La PA e le strutture sanitarie trattano spesso dati sulla base di obblighi di legge, compiti di interesse pubblico o esercizio di pubblici poteri, nel quadro delle condizioni previste per le categorie particolari. Occorre quindi individuare la base applicabile, la finalità e le garanzie, senza trasformare il consenso in una formula universale.
 
@@ -298,7 +295,7 @@ I principi da usare nell'istruttoria sono:
 - **integrità e riservatezza:** accessi, alterazioni, perdite o divulgazioni non autorizzate devono essere prevenuti;
 - **responsabilizzazione:** l'organizzazione deve poter dimostrare le scelte compiute.
 
-Questi principi non sono un elenco da recitare. Ognuno produce una domanda operativa: serve davvero consegnare l'intero documento? Il recapito è verificato? L'esito è registrato? I dati di terzi possono essere separati? La copia è leggibile e completa senza contenere parti eccedenti?
+Ogni principio deve tradursi in una verifica operativa: serve davvero consegnare l'intero documento? Il recapito è verificato? L'esito è registrato? I dati di terzi possono essere separati? La copia è leggibile e completa senza contenere parti eccedenti?
 
 ### Dati del richiedente e dati di terzi
 
@@ -344,7 +341,7 @@ Una richiesta può concludersi in modi diversi:
 - **diniego**, quando un limite o l'assenza dei presupposti impedisce l'accoglimento;
 - **richiesta di integrazione**, quando mancano elementi necessari per identificare oggetto, persona o titolo.
 
-L'integrazione non è una sanzione e non deve diventare un modo per moltiplicare adempimenti inutili. Deve indicare che cosa manca e perché serve. Allo stesso modo, il diniego non può limitarsi a formule generiche come «per privacy»; deve collegare la regola ai dati e agli interessi concretamente coinvolti.
+La richiesta di integrazione serve ad acquisire gli elementi indispensabili e deve indicare che cosa manca e perché. Non può trasformarsi in una serie di adempimenti inutili. Anche il diniego richiede una motivazione riferita ai dati e agli interessi concretamente coinvolti; la formula generica «per privacy» non è sufficiente.
 
 Una motivazione essenziale segue questa struttura:
 
@@ -390,7 +387,7 @@ Per ciascuno strumento, studia cinque elementi:
 
 La consultazione da parte dell'assistito, l'accesso da parte di un professionista autorizzato e la richiesta amministrativa di una copia sono operazioni diverse. La piattaforma non elimina la necessità di verificare ruolo, finalità e autorizzazione.
 
-Non trasformare in regole permanenti i servizi disponibili in una determinata Regione o in un dato momento. Decreti attuativi, funzionalità, modalità di oscuramento, alimentazione e consultazione possono cambiare. In prova, qualifica il principio stabile e indica la fonte vigente che dovrebbe essere controllata per il dettaglio.
+I servizi disponibili in una determinata Regione o in un dato momento possono cambiare insieme a decreti attuativi, funzionalità e modalità di oscuramento, alimentazione e consultazione. In prova, esponi il principio stabile e indica la fonte vigente da controllare per il dettaglio.
 
 ### Una scheda di confronto
 
@@ -412,7 +409,7 @@ La scheda impedisce di rispondere con sole sigle e consente di affrontare anche 
 
 ### Formazione e acquisizione
 
-Il **documento informatico** è la rappresentazione informatica di atti, fatti o dati giuridicamente rilevanti. Non coincide con qualunque file e non è automaticamente equivalente a una scansione. Formazione, sottoscrizione, integrità, metadati, formato e gestione incidono sul valore e sull'utilizzabilità del documento secondo il Codice dell'amministrazione digitale e le Linee guida AgID.
+Il **documento informatico** è la rappresentazione informatica di atti, fatti o dati giuridicamente rilevanti. Un file o una scansione non acquistano automaticamente tale valore: formazione, sottoscrizione, integrità, metadati, formato e gestione incidono sull'utilizzabilità del documento secondo il Codice dell'amministrazione digitale e le Linee guida AgID.
 
 Un documento può essere:
 
@@ -443,15 +440,15 @@ Il fascicolo della richiesta non sostituisce la documentazione sanitaria origina
 
 ### Archiviazione e conservazione
 
-**Archiviare** può significare collocare e organizzare documenti per l'uso corrente o il deposito. **Conservare a norma** significa inserirli in un processo regolato che mira a mantenerne nel tempo autenticità, integrità, affidabilità, leggibilità e reperibilità secondo ruoli, procedure e regole tecniche applicabili.
+L'**archiviazione** colloca e organizza i documenti per l'uso corrente o il deposito. La **conservazione a norma** li inserisce invece in un processo regolato che mira a mantenerne nel tempo autenticità, integrità, affidabilità, leggibilità e reperibilità secondo ruoli, procedure e regole tecniche applicabili.
 
-Salvare un file in una cartella condivisa, copiarlo su un disco o mantenere un allegato nella posta elettronica non costituisce, da solo, un sistema di conservazione. Mancano almeno la gestione organizzata, i metadati, le responsabilità, le verifiche e le garanzie nel tempo.
+Una cartella condivisa, un disco o un allegato conservato nella posta elettronica non costituiscono, da soli, un sistema di conservazione. Occorrono gestione organizzata, metadati, responsabilità definite, verifiche e garanzie nel tempo.
 
 La conservazione non impone di trattenere ogni copia per sempre. Il principio di limitazione della conservazione dei dati personali va coordinato con obblighi documentali, sanitari, archivistici e probatori. Tempi e massimari dipendono dalla tipologia documentale e dalle fonti applicabili; non possono essere dedotti da una regola generica.
 
 ### Consegna e prova dell'esito
 
-La fase di consegna deve preservare quattro proprietà:
+La consegna deve garantire quattro proprietà:
 
 1. **identificazione:** il destinatario è quello legittimato;
 2. **integrità:** il contenuto consegnato corrisponde a quanto deciso;
@@ -485,7 +482,7 @@ Sono disponibili:
 
 ### Prima fase: definire oggetto e soggetti
 
-La pratica non può iniziare con l'invio della copia. Occorre chiarire:
+Prima di inviare la copia, l'ufficio deve chiarire:
 
 1. quale documentazione viene richiesta;
 2. a quale persona ed episodio si riferisce;
@@ -497,7 +494,7 @@ La parentela dichiarata non sostituisce la verifica della legittimazione. La del
 
 ### Seconda fase: qualificare la richiesta
 
-Lo scenario descrive una richiesta individuale di documentazione riferita all'assistito. Non emerge un obbligo di pubblicazione omesso, quindi l'accesso civico semplice non è il punto di partenza. Non emerge neppure una finalità di controllo diffuso propria dell'accesso civico generalizzato.
+Lo scenario descrive una richiesta individuale di documentazione riferita all'assistito. Mancano sia un obbligo di pubblicazione omesso sia una finalità di controllo diffuso: l'accesso civico semplice e quello generalizzato vanno quindi esclusi come qualificazioni iniziali.
 
 Resta da qualificare, sulla base del contenuto dell'istanza e della disciplina applicabile, il rapporto tra richiesta di copia, accesso documentale e diritti sui dati personali. La risposta d'esame non deve scegliere un'etichetta soltanto perché la richiesta usa la parola «accesso». Deve descrivere i presupposti e indicare quali elementi dell'istanza consentono la qualificazione.
 
@@ -505,7 +502,7 @@ Resta da qualificare, sulla base del contenuto dell'istanza e della disciplina a
 
 Prima di predisporre la copia, l'ufficio verifica se la documentazione contiene dati di terzi e se tali informazioni sono necessarie rispetto al diritto esercitato. Se una parte non è pertinente o è protetta, va valutata la possibilità di selezione o oscuramento secondo le regole applicabili.
 
-Non è corretto cancellare parti dall'originale. L'eventuale intervento riguarda la copia destinata al rilascio e deve essere documentato. L'ufficio conserva evidenza di che cosa è stato escluso, da chi e per quale ragione, nei limiti consentiti.
+L'originale non va modificato. L'eventuale intervento riguarda la copia destinata al rilascio e deve essere documentato. L'ufficio conserva evidenza di che cosa è stato escluso, da chi e per quale ragione, nei limiti consentiti.
 
 ### Quarta fase: scegliere il canale
 
@@ -517,11 +514,11 @@ L'indirizzo dal quale proviene la richiesta non è automaticamente un recapito i
 - se esistono modalità aziendali previste per ritiro o consegna digitale;
 - se restano evidenze dell'accesso o del ritiro.
 
-La fretta dichiarata non elimina questi controlli. L'ufficio comunica l'eventuale integrazione e i passaggi successivi con linguaggio comprensibile, senza anticipare dati sanitari nella comunicazione.
+L'urgenza dichiarata non consente di saltare questi controlli. L'ufficio comunica l'eventuale integrazione e i passaggi successivi con linguaggio comprensibile, senza anticipare dati sanitari nella comunicazione.
 
 ### Soluzione motivata
 
-La pratica, allo stato, non è pronta per il rilascio. La soluzione corretta è:
+Con gli elementi disponibili, il rilascio va sospeso in attesa dell'integrazione. L'ufficio procede in questo ordine:
 
 1. registrare e fascicolare l'istanza;
 2. individuare l'ufficio competente secondo l'assetto vigente;
@@ -572,7 +569,7 @@ Correggilo con quattro passaggi:
 3. confronta i presupposti dei regimi;
 4. scegli esito e canale soltanto dopo l'istruttoria.
 
-Il modulo aiuta a raccogliere informazioni, ma non sostituisce la qualificazione giuridica. Il canale trasporta la comunicazione, ma non crea la legittimazione.
+Il modulo raccoglie le informazioni, mentre la qualificazione giuridica spetta all'ufficio. Allo stesso modo, il canale trasporta la comunicazione senza attribuire al destinatario la legittimazione.
 
 ## Mini-esercizio
 
@@ -642,4 +639,4 @@ Se una risposta è negativa, torna alla catena iniziale. Non aggiungere una norm
 - **Linee guida AgID sulla formazione, gestione e conservazione dei documenti informatici:** regole organizzative e tecniche del ciclo documentale digitale.
 - **Provvedimenti e indicazioni del Garante per la protezione dei dati personali:** FSE, dossier sanitario, diritti, trasparenza, accesso civico, dati relativi alla salute e sicurezza.
 
-Prima di applicare il metodo a una pratica concreta, verifica il testo vigente delle norme, la disciplina nazionale e regionale del FSE, il regolamento dell'azienda, le istruzioni documentali e privacy e le modalità di consegna disponibili. Il metodo resta fermo: qualifica oggetto e richiedente, individua il regime, limita i dati al necessario, motiva l'esito, protegge la consegna e conserva le evidenze.
+Prima di applicare il metodo a una pratica concreta, verifica il testo vigente delle norme, la disciplina nazionale e regionale del FSE, il regolamento dell'azienda, le istruzioni documentali e privacy e le modalità di consegna disponibili. Nella pratica, segui sempre la stessa sequenza: qualifica oggetto e richiedente, individua il regime, limita i dati al necessario, motiva l'esito, proteggi la consegna e conserva le evidenze.
