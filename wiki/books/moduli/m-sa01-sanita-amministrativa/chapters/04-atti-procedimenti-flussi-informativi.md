@@ -68,7 +68,7 @@ Al termine del capitolo dovrai saper:
 - riconoscere la differenza tra immissione, controllo, correzione, validazione e trasmissione;
 - indicare quali elementi richiedono una verifica normativa, regionale, aziendale o tecnica prima di chiudere un caso.
 
-La disciplina generale del procedimento amministrativo è sviluppata nel Capitolo 5 del volume base, **Diritto amministrativo operativo**. Qui ne riprendiamo gli elementi indispensabili e li applichiamo alla specificità organizzativa e informativa delle aziende sanitarie.
+La disciplina generale del procedimento amministrativo è sviluppata in **Il Metodo BANDO (VOL-01), Capitolo 5 — Diritto amministrativo operativo**. Qui ne riprendiamo gli elementi indispensabili e li applichiamo alla specificità organizzativa e informativa delle aziende sanitarie.
 
 ## Mappa BANDO
 
