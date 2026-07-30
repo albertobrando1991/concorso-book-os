@@ -12,6 +12,7 @@ import {
   textVolumeBookId,
   type TextVolume
 } from "../../catalog/text-volumes"
+import { buildEditorialPlan, type BookStudioEditorialPlan } from "./editorial-plan"
 
 export { ricettarioModuleLabel } from "./book-studio-labels"
 
@@ -92,6 +93,7 @@ export interface BookStudioData {
   }
   chapters: BookStudioChapter[]
   assets: BookStudioAsset[]
+  editorialPlan: BookStudioEditorialPlan | null
 }
 
 const EDITORIAL_PLACEHOLDERS = [
@@ -130,18 +132,32 @@ const VERY_VERBOSE_TABLE_CELL_LENGTH = 160
 const MAX_LIST_ITEMS_PER_PREVIEW_BLOCK = 4
 const MAX_PARAGRAPH_WORDS_PER_PREVIEW_BLOCK = 72
 
-export async function buildBookStudioData(store: FileWikiStore, bookId = "il-metodo-bando"): Promise<BookStudioData> {
+export async function buildBookStudioData(
+  store: FileWikiStore,
+  bookId = "il-metodo-bando",
+  options: { projectRoot?: string } = {}
+): Promise<BookStudioData> {
   const normalizedBookId = normalizeTextBookId(bookId)
+  const data = isTextVolumeBookId(normalizedBookId)
+    ? await buildVolumeOrSingleBookStudioData(store, normalizedBookId)
+    : await buildSingleBookStudioData(store, normalizedBookId)
 
-  if (isTextVolumeBookId(normalizedBookId)) {
-    const volume = findTextVolumeForBookId(normalizedBookId)
+  if (!options.projectRoot) return data
 
-    if (volume) {
-      return buildVolumeBookStudioData(store, volume)
-    }
+  return {
+    ...data,
+    editorialPlan: await buildEditorialPlan({
+      store,
+      projectRoot: options.projectRoot,
+      bookId: normalizedBookId
+    })
   }
+}
 
-  return buildSingleBookStudioData(store, normalizedBookId)
+async function buildVolumeOrSingleBookStudioData(store: FileWikiStore, bookId: string) {
+  const volume = findTextVolumeForBookId(bookId)
+
+  return volume ? buildVolumeBookStudioData(store, volume) : buildSingleBookStudioData(store, bookId)
 }
 
 async function buildSingleBookStudioData(store: FileWikiStore, bookId: string): Promise<BookStudioData> {
@@ -205,7 +221,8 @@ async function buildSingleBookStudioData(store: FileWikiStore, bookId: string): 
       assets: assets.length
     },
     chapters,
-    assets
+    assets,
+    editorialPlan: null
   }
 }
 
@@ -243,7 +260,8 @@ async function buildVolumeBookStudioData(store: FileWikiStore, volume: TextVolum
       assets: uniqueAssets.length
     },
     chapters,
-    assets: uniqueAssets
+    assets: uniqueAssets,
+    editorialPlan: null
   }
 }
 
