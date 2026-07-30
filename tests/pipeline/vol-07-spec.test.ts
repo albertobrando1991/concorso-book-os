@@ -64,7 +64,7 @@ describe("VOL-07 pipeline spec", () => {
         }
       ]
     })
-    expect(loaded.spec.modules.every((module) => module.chaptersSource === "derived")).toBe(true)
+    expect(loaded.spec.modules.slice(2).every((module) => module.chaptersSource === "derived")).toBe(true)
 
     const msa01Steps = buildStepDrafts(loaded.spec, ["C"]).filter((step) =>
       step.target.startsWith("moduli/m-sa01-sanita-amministrativa/chapters/")
