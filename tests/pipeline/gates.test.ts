@@ -10,9 +10,34 @@ describe("chapter lint gate", () => {
   const defaults = 'source_refs: ["sources/agenzie-fiscali"]\ndraft_stage: editorial-draft\nupdated_at: 2026-07-27\nlast_compiled_from: ["sources/agenzie-fiscali"]'
   const chapter = (body: string, frontmatter = defaults) =>
     runChapterLintGate({ content: `---\n${frontmatter}\n---\n\n${body}\n`, chapterPath: "chapters/01-perimetro.md" })
+  const validBody = `# Il perimetro
+
+## Obiettivo del capitolo
+
+Il candidato comprende il perimetro e sa applicarlo in prova.
+
+## Mappa BANDO
+
+La mappa collega bando, aree, nuclei, diario e output.
+
+## Spiegazione
+
+Il perimetro definisce l'oggetto, la funzione e le conseguenze della disciplina.
+
+## Caso guidato
+
+Il candidato riconosce la regola applicabile in uno scenario d'esame.
+
+## Errore tipico
+
+Confondere il perimetro generale con la regola del singolo bando.
+
+## Mini-esercizio
+
+Spiega la distinzione in cinque righe.`
 
   it("accepts a chapter with one H1, sources and a declared stage", () => {
-    expect(chapter("# Il perimetro\n\n## Le tre porte\n\nTesto operativo.")).toMatchObject({ passed: true, blockers: [] })
+    expect(chapter(validBody)).toMatchObject({ passed: true, blockers: [] })
   })
   it("blocks a chapter with more than one H1", () => {
     expect(codes(chapter("# Uno\n\nTesto.\n\n# Due\n\nAltro."))).toContain("heading-h1")
@@ -29,6 +54,30 @@ describe("chapter lint gate", () => {
   it("blocks an agent meta-comment instead of the chapter text", () => {
     expect(codes(chapter("# Titolo\n\nAggiornamento generato: ho integrato la sezione."))).toContain("agent-meta")
   })
+  it.each([
+    "[[sources/agenzie-fiscali]]",
+    "[[topics/imposta]]",
+    "[[entities/agenzia-delle-entrate]]"
+  ])("blocks the internal knowledge link %s from the reader body", (link) => {
+    expect(codes(chapter(`${validBody}\n\n${link}`))).toContain("internal-knowledge-link")
+  })
+  it.each([
+    "Come spiegato nella source note consolidata, il perimetro e completo.",
+    "Le fonti consolidate confermano questa distinzione.",
+    "Il corpus M-FC02 mostra una ricorrenza."
+  ])("blocks the editorial dependency %s from the reader body", (sentence) => {
+    expect(codes(chapter(`${validBody}\n\n${sentence}`))).toContain("editorial-dependency")
+  })
+  it.each([
+    ["obiettivo", "## Obiettivo del capitolo\n\nIl candidato comprende il perimetro e sa applicarlo in prova.\n\n"],
+    ["mappa", "## Mappa BANDO\n\nLa mappa collega bando, aree, nuclei, diario e output.\n\n"],
+    ["spiegazione", "## Spiegazione\n\nIl perimetro definisce l'oggetto, la funzione e le conseguenze della disciplina.\n\n"],
+    ["applicazione", "## Caso guidato\n\nIl candidato riconosce la regola applicabile in uno scenario d'esame.\n\n"],
+    ["errore", "## Errore tipico\n\nConfondere il perimetro generale con la regola del singolo bando.\n\n"],
+    ["verifica", "## Mini-esercizio\n\nSpiega la distinzione in cinque righe."]
+  ])("blocks a chapter without the %s didactic evidence", (_section, excerpt) => {
+    expect(codes(chapter(validBody.replace(excerpt, "")))).toContain("missing-didactic-section")
+  })
   it("blocks a chapter without source_refs", () => {
     expect(codes(chapter("# Titolo\n\nTesto.", "draft_stage: editorial-draft"))).toContain("missing-source-refs")
   })
@@ -39,10 +88,10 @@ describe("chapter lint gate", () => {
     expect(codes(chapter(""))).toContain("empty-chapter")
   })
   it("ignores headings inside a code fence", () => {
-    expect(chapter("# Titolo\n\n```\n# non è un titolo\n```\n\nTesto.").passed).toBe(true)
+    expect(chapter(`${validBody}\n\n\`\`\`\n# non e un titolo\n\`\`\``).passed).toBe(true)
   })
   it("warns, without blocking, when updated_at is missing", () => {
-    const result = chapter("# Titolo\n\nTesto.", 'source_refs: ["sources/x"]\ndraft_stage: editorial-draft\nlast_compiled_from: ["sources/x"]')
+    const result = chapter(validBody, 'source_refs: ["sources/x"]\ndraft_stage: editorial-draft\nlast_compiled_from: ["sources/x"]')
     expect(result.passed).toBe(true)
     expect(result.warnings.map((issue) => issue.code)).toContain("missing-updated-at")
   })
@@ -104,11 +153,11 @@ describe("review report gate", () => {
 })
 
 describe("citation guard", () => {
-  const before = `---\nsource_refs: ["sources/tributi", "sources/dogane"]\n---\n\n# Titolo\n\nL'art. 3 del d.lgs. 546/1992 disciplina il caso, come indicato in [[topics/imposta]].`
+  const before = `---\nsource_refs: ["sources/tributi", "sources/dogane"]\n---\n\n# Titolo\n\nL'art. 3 del d.lgs. 546/1992 disciplina il caso; il metodo e approfondito in [[books/il-metodo-bando/chapters/anatomia-del-bando]].`
   const guard = (after: string, start = before) => runCitationGuard({ before: start, after, chapterPath: "chapters/01.md" })
 
   it("accepts a rewrite that keeps links, sources and norms", () => {
-    const after = `---\nsource_refs: ["sources/tributi", "sources/dogane"]\n---\n\n# Titolo\n\nIl caso ricade nell'art. 3 del d.lgs. 546/1992; il quadro sta in [[topics/imposta]].`
+    const after = `---\nsource_refs: ["sources/tributi", "sources/dogane"]\n---\n\n# Titolo\n\nIl caso ricade nell'art. 3 del d.lgs. 546/1992; il metodo e in [[books/il-metodo-bando/chapters/anatomia-del-bando]].`
     expect(guard(after)).toMatchObject({ passed: true, blockers: [] })
   })
   it("blocks a lost wikilink", () => {
@@ -116,16 +165,25 @@ describe("citation guard", () => {
     expect(codes(guard(after))).toContain("lost-wikilink")
   })
   it("blocks a lost source ref", () => {
-    const after = `---\nsource_refs: ["sources/tributi"]\n---\n\n# Titolo\n\nL'art. 3 del d.lgs. 546/1992 disciplina il caso, come in [[topics/imposta]].`
+    const after = `---\nsource_refs: ["sources/tributi"]\n---\n\n# Titolo\n\nL'art. 3 del d.lgs. 546/1992 disciplina il caso, come in [[books/il-metodo-bando/chapters/anatomia-del-bando]].`
     expect(codes(guard(after))).toContain("lost-source-ref")
   })
   it("blocks a norm that disappeared from the text", () => {
-    const after = `---\nsource_refs: ["sources/tributi", "sources/dogane"]\n---\n\n# Titolo\n\nLa disciplina copre il caso, come in [[topics/imposta]].`
+    const after = `---\nsource_refs: ["sources/tributi", "sources/dogane"]\n---\n\n# Titolo\n\nLa disciplina copre il caso, come in [[books/il-metodo-bando/chapters/anatomia-del-bando]].`
     expect(codes(guard(after))).toContain("lost-norm")
   })
   it("warns when the Humanizer introduces a new norm", () => {
-    const after = `---\nsource_refs: ["sources/tributi", "sources/dogane"]\n---\n\n# Titolo\n\nL'art. 3 del d.lgs. 546/1992 e l'art. 7 valgono, come in [[topics/imposta]].`
+    const after = `---\nsource_refs: ["sources/tributi", "sources/dogane"]\n---\n\n# Titolo\n\nL'art. 3 del d.lgs. 546/1992 e l'art. 7 valgono, come in [[books/il-metodo-bando/chapters/anatomia-del-bando]].`
     expect(guard(after).warnings.map((issue) => issue.code)).toContain("new-norm")
+  })
+  it("allows the Humanizer to remove internal knowledge links from the reader body", () => {
+    const start = `---\nsource_refs: ["sources/tributi", "sources/dogane"]\n---\n\n# Titolo\n\nL'art. 3 del d.lgs. 546/1992 disciplina il caso [[sources/tributi]] e il metodo e in [[books/il-metodo-bando/chapters/anatomia-del-bando]].`
+    const after = `---\nsource_refs: ["sources/tributi", "sources/dogane"]\n---\n\n# Titolo\n\nL'art. 3 del d.lgs. 546/1992 disciplina il caso e il metodo e in [[books/il-metodo-bando/chapters/anatomia-del-bando]].`
+    expect(guard(after, start)).toMatchObject({ passed: true, blockers: [] })
+  })
+  it("blocks an internal knowledge link introduced by the Humanizer", () => {
+    const after = `---\nsource_refs: ["sources/tributi", "sources/dogane"]\n---\n\n# Titolo\n\nL'art. 3 del d.lgs. 546/1992 disciplina il caso [[sources/tributi]] e il metodo e in [[books/il-metodo-bando/chapters/anatomia-del-bando]].`
+    expect(codes(guard(after))).toContain("new-internal-knowledge-link")
   })
   it("blocks when the pre-Humanizer snapshot is missing", () => {
     expect(codes(guard(before, ""))).toContain("missing-snapshot")

@@ -29,6 +29,7 @@ Aggiungi `--json` a qualunque comando per ottenere l'esito strutturato invece de
 ## Regole non negoziabili
 
 - Non saltare un gate. Non chiudere uno step il cui gate non è passato.
+- Ogni capitolo deve superare il contratto dello studente: testo autosufficiente, teoria completa nel perimetro assegnato e nessuna dipendenza nel corpo da wiki, source note, corpus o report interni. La tracciabilità resta nel frontmatter.
 - Non modificare a mano `pipeline/<VOL>/run-state.json`: è stato condiviso e versionato.
 - Se uno step è in carico a un'altra persona, `next` lo rifiuta. Subentra con `--force` solo dopo esserti accordato.
 - `--accept` chiude uno step il cui gate non è ancora automatizzato e richiede `--note` con la motivazione. Usalo solo dopo aver eseguito la verifica a mano.

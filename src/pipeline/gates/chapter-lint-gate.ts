@@ -1,5 +1,7 @@
 import { parseFrontmatter } from "../../server/wiki/frontmatter"
+import { extractWikiLinks } from "../../server/wiki/markdown"
 import type { GateIssue, GateResult } from "../state/types"
+import { isInternalKnowledgeLink } from "./reader-contract"
 
 export interface ChapterLintInput {
   content: string
@@ -22,6 +24,25 @@ const PLACEHOLDERS = [
   /\blorem ipsum\b/i,
   /\[da (?:completare|inserire|verificare in seguito)\]/i,
   /\bdescrizione da scrivere\b/i
+]
+
+const EDITORIAL_DEPENDENCIES = [
+  /\bsource notes?\b/i,
+  /\bfont(?:e|i) consolidat(?:a|e)\b/i,
+  /\bcorpus\s+(?:m-[a-z0-9-]+|auditato|interno|editoriale|dei bandi)\b/i,
+  /\bwiki\b/i
+]
+
+const DIDACTIC_SECTIONS = [
+  { label: "obiettivo didattico", pattern: /\b(?:obiettiv[oi]|risultati? di apprendimento)\b/i },
+  { label: "Mappa BANDO", pattern: /\b(?:mappa bando|metodo bando|bando in pratica)\b/i },
+  {
+    label: "spiegazione teorica",
+    pattern: /\b(?:spiegazione|inquadramento|quadro|fondament[oi]|principi?|disciplin[ae]|profil[oi]|requisiti?|prove?|autonomia|responsabilit[aà]|deontologia)\b/i
+  },
+  { label: "applicazione o caso", pattern: /\b(?:cas[oi]|esempi?|applicazione|come lo chiede|domanda da commissario)\b/i },
+  { label: "errore o trappola", pattern: /\b(?:error[ei]|trappola|attenzione)\b/i },
+  { label: "verifica dell'apprendimento", pattern: /\b(?:eserciz(?:io|i)|quiz|verifica|checklist|domanda da commissario)\b/i }
 ]
 
 export function runChapterLintGate(input: ChapterLintInput): GateResult {
@@ -64,6 +85,39 @@ export function runChapterLintGate(input: ChapterLintInput): GateResult {
   if (AGENT_META.some((pattern) => pattern.test(body))) {
     blockers.push(at("agent-meta", "Meta-commento da agente nel testo: il capitolo deve contenere il manuale, non il resoconto del lavoro."))
   }
+
+  const internalLinks = extractWikiLinks(body).filter(isInternalKnowledgeLink)
+
+  if (internalLinks.length) {
+    blockers.push(
+      at(
+        "internal-knowledge-link",
+        `Il corpo del capitolo contiene link interni non disponibili allo studente: ${internalLinks.map((link) => `[[${link}]]`).join(", ")}. Sposta la tracciabilità nel frontmatter o nel report di review.`
+      )
+    )
+  }
+
+  const editorialDependency = EDITORIAL_DEPENDENCIES.find((pattern) => pattern.test(body))
+
+  if (editorialDependency) {
+    blockers.push(
+      at(
+        "editorial-dependency",
+        "Il testo dipende da note, corpus o strumenti editoriali interni: insegna direttamente il contenuto necessario allo studente."
+      )
+    )
+  }
+
+  const headingText = headings.map((heading) => heading.text).join("\n")
+
+  DIDACTIC_SECTIONS.filter((section) => !section.pattern.test(headingText)).forEach((section) => {
+    blockers.push(
+      at(
+        "missing-didactic-section",
+        `Manca un'evidenza strutturale per ${section.label}: il capitolo deve accompagnare lo studente dalla teoria alla prova.`
+      )
+    )
+  })
 
   if (!asList(frontmatter.source_refs).length) {
     blockers.push(at("missing-source-refs", "Frontmatter senza source_refs: ogni capitolo deve dichiarare le fonti consolidate da cui deriva."))

@@ -10,6 +10,7 @@ Regole non negoziabili:
 - Il libro non e' l'ennesimo manuale materia + quiz.
 - Il libro insegna a leggere un bando, costruire un piano, studiare materie comuni e allenarsi su output reali.
 - La promessa e': preparare molti concorsi senza ricominciare da zero ogni volta.
+- Ogni capitolo e' autosufficiente per lo studente: deve essere comprensibile e studiabile senza accesso a wiki, dashboard, source notes o report interni.
 - Ogni capitolo deve contenere metodo, mappa, esercizio, errore tipico o tool compilabile quando possibile.
 - Le materie sono funzionali alla prova e al metodo, non enciclopedia.
 
@@ -97,8 +98,9 @@ Campi specifici:
 ## Policy di linking interno
 - Ogni source note deve linkare topic ed entita rilevate.
 - Ogni topic deve linkare source notes, entita e capitoli collegati.
-- Ogni capitolo deve linkare topic e source notes consolidate.
-- Ogni claim importante deve essere tracciabile a una o piu' source notes.
+- Ogni capitolo deve dichiarare topic e source notes nel frontmatter tramite `topics`, `entities`, `source_refs` e `last_compiled_from`.
+- Il corpo destinato al lettore non deve contenere wikilink verso `sources/`, `topics/`, `entities/`, `raw/`, `planning/` o `reviews/`: sono dipendenze editoriali interne.
+- Ogni claim importante deve restare tracciabile a una o piu' source notes nel frontmatter o nei report; nel corpo le norme e le fonti professionali necessarie sono nominate in forma leggibile.
 
 ## Policy per index.md e log.md
 - `index.md` deve essere rigenerabile e contenere cataloghi per sources, topics, entities e books.
@@ -134,12 +136,13 @@ Regole:
 - Il cervello wiki e' la base obbligatoria della conoscenza: source notes, topic pages, entity pages, struttura madre, design system, capitoli e quiz vengono sempre prima.
 - Non legge mai direttamente `raw/` per produrre testo editoriale finale.
 - Deve scrivere capitoli effettivi destinati al lettore, non riepiloghi del sistema, non note tecniche, non descrizioni del lavoro svolto.
+- Deve assumere che il lettore non abbia accesso al wiki: le fonti interne alimentano la scrittura, ma non sostituiscono mai definizioni, spiegazioni, distinzioni, conseguenze, esempi e verifiche nel capitolo.
 - Quando servono dati aggiornati o verifica normativa corrente, deve usare ricerca web come supporto di aggiornamento, non come scorciatoia: le fonti web rilevanti vanno trasformate in source notes consolidate e collegate al wiki prima di diventare conoscenza stabile del capitolo.
 - Scrive solo dentro `books/`.
 - In modalita `draft` aggiorna la sezione `Bozza agente`.
 - In modalita `integrate`, `format`, `improve`, `expand` aggiorna la sezione `Testo editoriale`.
-- Deve preservare tracciabilita: ogni blocco deve indicare riferimenti consolidati usati.
-- Deve mantenere stile workbook Metodo BANDO: apertura editoriale, obiettivo, mappa BANDO, spiegazione, box "da sapere in 5 righe", caso guidato, domanda da commissario, domanda-trappola, mini-esercizio, errore tipico, riferimenti, note di review.
+- Deve preservare tracciabilita nel frontmatter e nei report di review; il corpo non espone identificativi o collegamenti interni del wiki.
+- Deve mantenere stile workbook Metodo BANDO: apertura editoriale, obiettivo, mappa BANDO, spiegazione, box "da sapere in 5 righe", caso guidato, domanda da commissario, domanda-trappola, mini-esercizio, errore tipico e riferimenti normativi/professionali leggibili.
 - Deve scrivere in modo impaginabile: paragrafi brevi, titoli non orfani, tabelle leggibili nella pagina paperback KDP 6,69 x 9,61 in, box autonomi e note layout solo quando servono alla revisione visiva.
 - Deve rispettare la gerarchia tipografica canonica di collana: H1 Arial Bold 18-20 pt, H2 Arial Bold 14 pt, H3 Arial Bold 12 pt, corpo Garamond Regular 11 pt con interlinea 1,15-1,20, tabelle/quiz/schemi/box Arial 9,5-10 pt. La regola vale per tutti i volumi, moduli, integrazioni e revisioni.
 - Non deve mai produrre formule come "Aggiornamento generato", "Istruzione ricevuta" o riepiloghi delle fonti al posto del capitolo.
@@ -159,6 +162,7 @@ Regole:
 ## Regole editoriali
 - Un capitolo finale non deve mai derivare solo da una raw source.
 - Ogni capitolo deve includere obiettivo didattico, spiegazione, punti chiave, riferimenti, esempi, errori frequenti e quiz collegati.
+- Test dello studente: rimuovendo frontmatter e accesso agli strumenti interni, il capitolo deve conservare tutta la conoscenza assegnata dalla matrice e restare utilizzabile per la prova.
 - La scrittura e' incrementale: integrare, chiarire e migliorare senza distruggere lavoro precedente.
 - Il formato operativo canonico per dashboard, revisione ed export di lavoro di `Il Metodo BANDO` e' il paperback KDP 6,69 x 9,61 in (16,99 x 24,41 cm), testo giustificato, pagine singole numerate, corpo Garamond 11 pt, titoli Arial Bold 20/14/12 pt, tabelle/quiz/schemi/box Arial 9,5-10 pt, colonna singola, box operativi ricorrenti e strumenti compilabili. L'edizione standard usa bianco e nero su carta bianca, senza bleed, con margini speculari compatibili KDP.
 - Separare note canoniche da note di lavoro.

@@ -438,9 +438,15 @@ function deliveryContract(context: Context, spec: VolumeSpec, step: StepRecord, 
     ...(gate === "review-report"
       ? [`> Scrivi il report nel template fisso del Revisore Editoriale Totale in \`wiki/${reportRelativePathOf(spec.volumeCode, step)}\`.`]
       : []),
-    ...(gate === "chapter-lint" ? ["> Il capitolo deve avere un solo H1, frontmatter veritiero con `source_refs` e `draft_stage`, nessun segnaposto e nessun meta-commento."] : []),
+    ...(gate === "chapter-lint"
+      ? [
+          "> Contratto studente: capitolo autosufficiente senza accesso alla wiki, con obiettivo, Mappa BANDO, teoria, applicazione, errore e verifica; nessun link o linguaggio editoriale interno nel corpo. Tracciabilità in `source_refs` e `last_compiled_from`."
+        ]
+      : []),
     ...(gate === "citation-guard"
-      ? ["> Wikilink, `source_refs` e riferimenti normativi devono restare identici a prima dell'Humanizer: la pipeline ne ha salvato lo snapshot."]
+      ? [
+          "> Lo snapshot protegge `source_refs`, riferimenti normativi e rinvii didattici pubblicabili. I link interni di conoscenza vanno rimossi dal corpo e non possono essere introdotti dall'Humanizer."
+        ]
       : []),
     ...(gate === "coverage" ? ["> Il gate valuta le righe della matrice collocate in questo capitolo: nessuno stato `parziale`, `solo-nominato` o `mancante`."] : []),
     `> Al termine: \`${closing}\``

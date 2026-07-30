@@ -61,8 +61,8 @@ Ogni step registra `owner` e `agent`. `next` rifiuta uno step già in carico ad 
 | Gate | Step | Cosa verifica |
 | --- | --- | --- |
 | `coverage` | 07, 10 | righe della matrice collocate nel capitolo: nessuno stato `parziale`, `solo-nominato`, `mancante`; rinvii con destinazione precisa. Riusa `src/server/editorial/didactic-coverage.ts`, lo stesso motore di `npm run audit:coverage` |
-| `chapter-lint` | 09 | un solo H1, gerarchia senza salti, nessun segnaposto (`TODO`, `lorem ipsum`, `[da completare]`), nessun meta-commento da agente, frontmatter con `source_refs` e `draft_stage` |
-| `citation-guard` | 11 | wikilink, `source_refs` e riferimenti normativi invariati rispetto allo snapshot pre-Humanizer; segnala anche le norme *introdotte* dall'Humanizer |
+| `chapter-lint` | 09 | contratto studente autosufficiente: un solo H1, gerarchia senza salti, obiettivo, Mappa BANDO, teoria, applicazione, errore e verifica; nessun link interno di conoscenza o dipendenza da source note/wiki nel corpo; frontmatter con `source_refs` e `draft_stage` |
+| `citation-guard` | 11 | `source_refs`, riferimenti normativi e rinvii didattici pubblicabili invariati rispetto allo snapshot pre-Humanizer; consente la rimozione dei link interni di conoscenza e ne blocca l'introduzione; segnala le norme *introdotte* dall'Humanizer |
 | `review-report` | 12, 13, 14, 21 | presenza della tabella errori del template fisso, zero errori gravi aperti; sullo step 21 anche il giudizio "Pubblicabile con correzioni minori" |
 
 Gli altri gate (`chapter-plan`, `human-signoff`, `text-freeze`, `page-fill`, `preflight`, `delivery`) rispondono `gate-not-implemented` e **bloccano**: vanno verificati a mano e chiusi con `--accept --note`. Nessun gate dichiara verde ciò che non ha verificato.
@@ -72,6 +72,10 @@ Gli altri gate (`chapter-plan`, `human-signoff`, `text-freeze`, `page-fill`, `pr
 `next` antepone al prompt canonico un blocco che dichiara target, gate, comando di chiusura e — quando serve — il percorso in cui scrivere il report: `wiki/reviews/pipeline/<VOL>/<step>-<slug>.md`. Il corpo del prompt resta quello del wiki, invariato.
 
 Sullo step 11 `next` salva anche lo snapshot pre-Humanizer in `artifacts/pipeline/<VOL>/11/<slug>/before.md`: senza quello snapshot il `citation-guard` blocca, perché non avrebbe un termine di paragone.
+
+### Contratto dello studente
+
+Il capitolo pubblicabile deve funzionare senza wiki, dashboard, source note, planning o report. Le fonti consolidate alimentano la scrittura e restano tracciate in `source_refs` e `last_compiled_from`; il corpo insegna direttamente la materia e presenta norme e documenti professionali con denominazioni leggibili. Lo step 12 applica il test dello studente: se togliendo frontmatter e strumenti interni manca una conoscenza assegnata dalla matrice, il capitolo non è pubblicabile.
 
 ## Regola dei blocchi
 

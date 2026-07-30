@@ -303,6 +303,8 @@ Gate: piano approvabile e collegato riga per riga alla matrice.
 ```text
 Usa la skill concorso-book-professional-writer per completare [CHAPTER_FILE].
 
+Obiettivo canonico: scrivi un capitolo didattico autosufficiente per lo studente che prepara un concorso pubblico e non dispone della wiki, della dashboard o delle note editoriali interne. Il testo deve trasmettere integralmente le conoscenze assegnate al capitolo e renderle utilizzabili nelle prove.
+
 Scrivi il vero testo destinato al lettore, non un riepilogo del lavoro.
 Preserva e integra il testo umano valido. Non cancellare sezioni fuori dal perimetro.
 
@@ -317,8 +319,7 @@ Il capitolo deve sviluppare, quando pertinenti:
 - domanda-trappola;
 - errore tipico;
 - mini-esercizio o checklist;
-- riferimenti consolidati;
-- note di review.
+- riferimenti normativi e professionali essenziali, espressi in forma leggibile.
 
 Vincoli:
 - un solo H1;
@@ -328,12 +329,15 @@ Vincoli:
 - nessuna norma, data o soglia inventata;
 - nessuna duplicazione del nucleo comune del VOL-01;
 - nessun placeholder o meta-commento dell'agente;
+- nessun wikilink nel corpo verso sources/, topics/, entities/, raw/, planning/ o reviews/;
+- nessuna formula che chieda allo studente di consultare source note, fonti consolidate, corpus interni, wiki o report;
+- le fonti consolidate sono input editoriali: nel capitolo devi sviluppare direttamente definizioni, quadro, elementi, distinzioni, conseguenze, esempi e uso concorsuale;
 - ogni promessa formativa deve avere spiegazione o rinvio preciso.
 
-Aggiorna frontmatter, last_compiled_from, source_refs, draft_stage e review_required in modo veritiero.
+Aggiorna frontmatter, last_compiled_from, source_refs, draft_stage e review_required in modo veritiero. Registra gli eventuali punti aperti nell'evidenza o nel report di review della pipeline, non come parte della lezione destinata allo studente.
 ```
 
-Gate: testo editoriale effettivo, tracciabile e completo rispetto al piano.
+Gate: testo editoriale effettivo, autosufficiente per lo studente, tracciabile nel frontmatter e completo rispetto al piano.
 
 ## Prompt 10 — Controllo di copertura del capitolo
 
@@ -351,9 +355,10 @@ Per ogni nucleo verifica nel testo reale:
 - uso nella prova;
 - errore tipico;
 - verifica;
-- fonti.
+- tracciabilità nel frontmatter e riferimenti leggibili nel corpo.
 
 Non considerare casi, quiz o checklist sostitutivi della teoria.
+Non considerare un wikilink, una source note o un rinvio a materiale interno come prova di copertura.
 Classifica ogni nucleo e cita heading o passaggio che prova la copertura.
 
 Applica le integrazioni necessarie soltanto se supportate dal wiki consolidato.
@@ -372,10 +377,13 @@ Preserva integralmente:
 - significato;
 - terminologia tecnica;
 - riferimenti normativi;
-- citazioni;
+- citazioni e riferimenti professionali leggibili;
 - struttura didattica;
-- link wiki;
+- source_refs e last_compiled_from nel frontmatter;
+- rinvii didattici verso altri capitoli pubblicabili;
 - esempi, casi, quiz e istruzioni operative.
+
+Rimuovi dal corpo eventuali wikilink verso sources/, topics/, entities/, raw/, planning/ o reviews/ e ogni formula redazionale interna. Non introdurre nuovi link interni. La loro tracciabilità resta nel frontmatter e nei report.
 
 Correggi:
 - formule palesemente generate da AI;
@@ -397,7 +405,8 @@ Non aggiungere opinioni personali, umorismo o prima persona se incompatibili con
 Output:
 - file aggiornato;
 - segnali AI rimossi;
-- conferma che significato e fonti non sono cambiati;
+- conferma che significato, source_refs e riferimenti normativi non sono cambiati;
+- conferma che il corpo non dipende da collegamenti o strumenti interni;
 - eventuali punti che richiedono controllo umano.
 ```
 
@@ -417,6 +426,8 @@ Applica in ordine:
 
 Controlla anche la copertura v4 e i rinvii al VOL-01 o ad altri moduli.
 Non riscrivere silenziosamente il testo.
+
+Esegui il test dello studente: valuta il capitolo senza frontmatter e senza accesso a wiki, dashboard, source note o report. Se una definizione, distinzione, conseguenza, procedura concorsuale o spiegazione necessaria manca in queste condizioni, classifica il problema come errore grave e proponi l'integrazione nel testo.
 
 Produci una tabella:
 ID | Posizione | Categoria | Gravità | Descrizione | Correzione proposta | Stato.
