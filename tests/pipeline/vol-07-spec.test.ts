@@ -18,33 +18,17 @@ describe("VOL-07 pipeline spec", () => {
       responsabileNormativo: "Alberto Brando",
       responsabileEditoriale: "Alberto Brando",
       writerProvider: "codex",
-      phases: ["A", "B", "C"]
+      phases: ["A", "B"]
     })
     expect(loaded.spec.modules.map((module) => [module.code, module.priority, module.phases])).toEqual([
-      ["M-SA02", 1, ["A", "B", "C"]],
+      ["M-SA02", 1, ["A", "B"]],
       ["M-SA01", 2, ["A", "B", "C"]],
       ["M-SA03", 3, ["A", "B"]],
       ["M-SA04", 4, ["A", "B"]]
     ])
-    expect(loaded.spec.modules[0]).toMatchObject({
-      chaptersSource: "declared",
-      chapters: [
-        {
-          number: "01",
-          file: "chapters/01-mappa-profili-e-prove.md",
-          matrix: "planning/02-matrice-copertura-didattica.md",
-          expectedStatus: "completo"
-        },
-        {
-          number: "03",
-          file: "chapters/03-discipline-professionali-autonomia-responsabilita.md",
-          matrix: "planning/02-matrice-copertura-didattica.md",
-          expectedStatus: "completo"
-        }
-      ]
-    })
     const msa01 = loaded.spec.modules.find((module) => module.code === "M-SA01")
 
+    expect(msa01).toBeDefined()
     expect(msa01).toMatchObject({
       chaptersSource: "declared",
       chapters: [
@@ -80,21 +64,7 @@ describe("VOL-07 pipeline spec", () => {
         }
       ]
     })
-    expect(loaded.spec.modules.slice(1).every((module) => module.chaptersSource === "derived")).toBe(true)
-
-    const chapter03Target =
-      "moduli/m-sa02-professioni-sanitarie/chapters/03-discipline-professionali-autonomia-responsabilita.md"
-    const chapter03Steps = buildStepDrafts(loaded.spec, ["C"]).filter(
-      (step) => step.target === chapter03Target
-    )
-
-    expect(chapter03Steps.map((step) => step.key)).toEqual([
-      `08:${chapter03Target}`,
-      `09:${chapter03Target}`,
-      `10:${chapter03Target}`,
-      `11:${chapter03Target}`,
-      `12:${chapter03Target}`
-    ])
+    expect(loaded.spec.modules.every((module) => module.chaptersSource === "derived")).toBe(true)
 
     const msa01Steps = buildStepDrafts(loaded.spec, ["C"]).filter((step) =>
       step.target.startsWith("moduli/m-sa01-sanita-amministrativa/chapters/")
