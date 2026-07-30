@@ -54,7 +54,7 @@ Il candidato deve arrivare a tre risultati:
 | 12 | 29 | [[books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/12-laboratorio-profili-regionali-area-vasta|Laboratorio per i quattro profili regionali e di area vasta]] | Integra amministrativo regionale, legislativo, tecnico territorio e fondi UE/PNRR. | Simulazioni per profilo. |
 
 ## Capitoli di lavoro
-- [[books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/00-piano-editoriale|Piano editoriale del modulo]]
+- [[books/moduli/m-fl02-regioni-province-citta-metropolitane/planning/00-piano-editoriale|Piano editoriale del modulo]]
 1. [[books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/01-il-sistema-territoriale-multilivello|Il sistema territoriale multilivello]]
 2. [[books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/02-statuti-organi-organizzazione-regionale|Statuti, organi e organizzazione regionale]]
 3. [[books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/03-funzioni-regionali-rapporti-stato-enti-locali|Funzioni regionali e rapporti con Stato ed enti locali]]

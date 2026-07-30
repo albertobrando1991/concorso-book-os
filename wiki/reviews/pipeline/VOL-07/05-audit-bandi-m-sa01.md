@@ -16,7 +16,7 @@ canonical: false
 tags: ["pipeline", "vol-07", "step-05", "m-sa01", "audit"]
 issue_type: source_audit
 severity: high
-affected_pages: ["books/moduli/m-sa01-sanita-amministrativa/index.md", "books/moduli/m-sa01-sanita-amministrativa/chapters/00-piano-editoriale.md"]
+affected_pages: ["books/moduli/m-sa01-sanita-amministrativa/index.md", "books/moduli/m-sa01-sanita-amministrativa/planning/00-piano-editoriale.md"]
 ---
 
 # VOL-07 step 05 - Audit bandi M-SA01

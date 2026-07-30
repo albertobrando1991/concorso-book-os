@@ -16,7 +16,7 @@ canonical: false
 tags: ["pipeline", "vol-07", "step-05", "m-sa02", "audit"]
 issue_type: source_audit
 severity: high
-affected_pages: ["books/moduli/m-sa02-professioni-sanitarie/index.md", "books/moduli/m-sa02-professioni-sanitarie/chapters/00-piano-editoriale.md"]
+affected_pages: ["books/moduli/m-sa02-professioni-sanitarie/index.md", "books/moduli/m-sa02-professioni-sanitarie/planning/00-piano-editoriale.md"]
 ---
 
 # VOL-07 step 05 - Audit bandi M-SA02

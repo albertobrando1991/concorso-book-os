@@ -43,7 +43,7 @@ Il modulo non sostituisce il libro principale. Parte dal nucleo comune del Metod
 Non deve promettere copertura totale di ogni bando o aggiornamento normativo automatico. Le sezioni normative e specialistiche richiedono source notes consolidate e review umana.
 
 ## Capitoli di lavoro
-- [[books/moduli/m-sa02-professioni-sanitarie/chapters/00-piano-editoriale|Piano editoriale del modulo]]
+- [[books/moduli/m-sa02-professioni-sanitarie/planning/00-piano-editoriale|Piano editoriale del modulo]]
 - [[books/moduli/m-sa02-professioni-sanitarie/chapters/01-mappa-profili-e-prove|Capitolo 01 - Professioni sanitarie: profili, requisiti e prove]]
 - [[books/moduli/m-sa02-professioni-sanitarie/chapters/03-discipline-professionali-autonomia-responsabilita|Capitolo 03 - Discipline professionali: autonomia, responsabilità e deontologia]]
 - [[books/moduli/m-sa02-professioni-sanitarie/planning/02-matrice-copertura-didattica|Matrice di copertura didattica M-SA02]]

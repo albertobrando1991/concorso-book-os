@@ -171,7 +171,7 @@ Spiega la distinzione in cinque righe.`
   })
   it.each([
     "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md",
-    "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/00-piano-editoriale.md"
+    "wiki/books/moduli/m-sa02-professioni-sanitarie/planning/00-piano-editoriale.md"
   ])("keeps blocking the real internal dependency in %s", (chapterPath) => {
     const result = runChapterLintGate({ content: readFileSync(chapterPath, "utf8"), chapterPath })
 

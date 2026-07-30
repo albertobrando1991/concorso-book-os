@@ -43,7 +43,7 @@ Il modulo non sostituisce il libro principale. Parte dal nucleo comune del Metod
 Non deve promettere copertura totale di ogni bando o aggiornamento normativo automatico. Le sezioni normative e specialistiche richiedono source notes consolidate e review umana.
 
 ## Capitoli di lavoro
-- [[books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/00-piano-editoriale|Piano editoriale del modulo]]
+- [[books/moduli/m-sa04-tecnici-sanitari-prevenzione/planning/00-piano-editoriale|Piano editoriale del modulo]]
 
 ## Collegamento al VOL-07
 - Volume: [[books/volumi/vol-07-sanita-amministrativa-professioni-sanitarie/index]]

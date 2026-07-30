@@ -195,10 +195,10 @@ Verticali esterni al corpo comune:
 ## Capitoli collegati
 
 - [[books/volumi/vol-07-sanita-amministrativa-professioni-sanitarie/index]]
-- [[books/moduli/m-sa01-sanita-amministrativa/chapters/00-piano-editoriale]]
-- [[books/moduli/m-sa02-professioni-sanitarie/chapters/00-piano-editoriale]]
-- [[books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/00-piano-editoriale]]
-- [[books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/00-piano-editoriale]]
+- [[books/moduli/m-sa01-sanita-amministrativa/planning/00-piano-editoriale]]
+- [[books/moduli/m-sa02-professioni-sanitarie/planning/00-piano-editoriale]]
+- [[books/moduli/m-sa03-dirigenza-medica-sanitaria/planning/00-piano-editoriale]]
+- [[books/moduli/m-sa04-tecnici-sanitari-prevenzione/planning/00-piano-editoriale]]
 
 ## Stato revisione
 
