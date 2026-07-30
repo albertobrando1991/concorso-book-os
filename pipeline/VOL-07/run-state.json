@@ -3,7 +3,7 @@
   "specPath": "books/volumi/vol-07-sanita-amministrativa-professioni-sanitarie/planning/00-scheda-pipeline.md",
   "specHash": "sha256:101570f27357cb1cb2db6e24e150eb304f69d643fc68b62fdac8c70a36bb7081",
   "createdAt": "2026-07-28T12:27:05.417Z",
-  "updatedAt": "2026-07-30T09:20:22.051Z",
+  "updatedAt": "2026-07-30T11:19:03.666Z",
   "steps": [
     {
       "key": "00:VOL-07",
@@ -460,9 +460,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-sa01-sanita-amministrativa/chapters/04-atti-procedimenti-flussi-informativi.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T11:09:52.301Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-sa01-sanita-amministrativa/chapters/04-atti-procedimenti-flussi-informativi.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano operativo M-SA01 capitolo 04 verificato: i due nuclei della matrice sono collegati a teoria, applicazione, output, verifica, fonti e review step 15; struttura e budget didattico approvati."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-07-30T11:19:03.666Z"
     },
     {
       "key": "09:moduli/m-sa01-sanita-amministrativa/chapters/04-atti-procedimenti-flussi-informativi.md",
