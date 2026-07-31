@@ -9,7 +9,7 @@ entities: ["ARAN", "Servizio sanitario nazionale"]
 source_refs: ["sources/ssn-organizzazione-aziende-standard-lea"]
 book_refs: ["m-sa03-dirigenza-medica-sanitaria", "vol-07-sanita-amministrativa-professioni-sanitarie"]
 confidence: 0.96
-updated_at: 2026-07-29T17:48:00+02:00
+updated_at: 2026-07-31T00:00:00+02:00
 created_at: 2026-07-29T17:48:00+02:00
 review_required: true
 canonical: true
@@ -23,6 +23,8 @@ authority_level: primary_official
 # Dirigenza sanitaria: concorsi e CCNL
 
 Il D.P.R. 10 dicembre 1997, n. 483 disciplina requisiti specifici, titoli, prove e commissioni dei concorsi per il personale dirigenziale del SSN. Va applicato per profilo e disciplina: medico, veterinario, biologo, chimico, fisico, psicologo e farmacista hanno articoli e prove distinti. Il corpus dei bandi conferma la struttura scritta-pratica-orale nei concorsi ordinari, ma non consente di trasferire una prova da un profilo all'altro.
+
+La differenza riguarda anche il contenuto della prova pratica. Per il farmacista il regolamento richiama tecniche e manualità della disciplina, con illustrazione schematica scritta. Per il biologo prevede esecuzione di misure strumentali o prove di laboratorio, oppure soluzione di un test su tecniche e manualità, con relazione sul procedimento. Per lo psicologo contempla l'esame di un soggetto con anamnesi e discussione del caso oppure l'esame dei risultati di test diagnostici e la diagnosi psicologica, con illustrazione schematica scritta. La preparazione non può quindi ridurre la prova pratica a una descrizione narrativa né trasformarla in una procedura comune ai tre profili.
 
 Il CCNL corrente dell'Area Sanità è il 2022-2024, sottoscritto definitivamente il 27 febbraio 2026. Il PDF ARAN è conservato nel corpus con SHA-256. Il precedente 2019-2021 resta rilevante solo per disposizioni mantenute o richiamate.
 
