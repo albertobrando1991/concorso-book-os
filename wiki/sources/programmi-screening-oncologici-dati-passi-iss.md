@@ -9,7 +9,7 @@ entities: ["Istituto Superiore di Sanità"]
 source_refs:
   - "sources/epidemiologia-base-iss"
   - "sources/sorveglianza-passi-protocollo-operativo-iss"
-book_refs: ["m-sa02-professioni-sanitarie", "vol-07-sanita-amministrativa-professioni-sanitarie"]
+book_refs: ["m-sa02-professioni-sanitarie", "m-sa03-dirigenza-medica-sanitaria", "vol-07-sanita-amministrativa-professioni-sanitarie"]
 confidence: 0.96
 updated_at: 2026-07-29T18:00:00+02:00
 created_at: 2026-07-29T17:30:00+02:00

@@ -9,9 +9,9 @@ entities: ["Ministero della Salute", "Istituto Superiore di Sanità", "Centro eu
 source_refs:
   - "sources/epidemiologia-base-iss"
   - "sources/sicurezza-cure-ica-sorveglianza-epidemiologica-prevenzione"
-book_refs: ["m-sa02-professioni-sanitarie", "vol-07-sanita-amministrativa-professioni-sanitarie"]
+book_refs: ["m-sa02-professioni-sanitarie", "m-sa03-dirigenza-medica-sanitaria", "vol-07-sanita-amministrativa-professioni-sanitarie"]
 confidence: 0.96
-updated_at: 2026-07-29T18:00:00+02:00
+updated_at: 2026-07-31T18:30:00+02:00
 created_at: 2026-07-29T18:00:00+02:00
 review_required: true
 canonical: true
@@ -63,9 +63,9 @@ La pagina ministeriale corrente distingue nel sistema un caso `potenziale`, anco
 
 La versione corrente della definizione specifica deve essere verificata al momento dell'uso; non è corretto trasferire una classificazione da una malattia a un'altra.
 
-### Definizione operativa di focolaio
+### Definizione operativa di caso nell'indagine di focolaio
 
-Serve a trovare e classificare in modo coerente le persone collegate all'evento sotto indagine. Le guide ISS ed ECDC richiedono almeno:
+Serve a trovare e classificare in modo coerente le persone collegate all'evento sotto indagine. Non è la definizione del focolaio, ma la regola con cui si decide chi includere fra i casi dell'indagine. Le guide ISS ed ECDC richiedono almeno:
 
 - tempo;
 - luogo;
@@ -74,7 +74,7 @@ Serve a trovare e classificare in modo coerente le persone collegate all'evento 
 - criteri di laboratorio, quando disponibili;
 - eventuale legame epidemiologico.
 
-È una definizione di lavoro: deve essere esplicita, applicata uniformemente e aggiornata se emergono nuove informazioni. Non sostituisce la definizione nazionale di sorveglianza e non dimostra da sola la causa del focolaio.
+È una definizione di lavoro: deve essere esplicita, applicata uniformemente e aggiornata se emergono nuove informazioni. Non sostituisce la definizione nazionale di sorveglianza e non dimostra da sola la causa del focolaio. Il focolaio riguarda invece un'aggregazione di casi collegati epidemiologicamente o un numero di casi superiore all'atteso in tempo, luogo e popolazione definiti, secondo i criteri applicabili alla malattia e al sistema di sorveglianza. Per eventi rari o ad alto impatto anche un singolo caso può attivare un'allerta, senza diventare per questo una definizione universale di focolaio.
 
 ## Sequenza di risposta al segnale
 

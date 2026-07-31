@@ -9,7 +9,7 @@ entities: ["Ministero della Salute", "Istituto Superiore di Sanità", "Azienda s
 source_refs: []
 book_refs: ["m-sa02-professioni-sanitarie", "m-sa03-dirigenza-medica-sanitaria", "vol-07-sanita-amministrativa-professioni-sanitarie"]
 confidence: 0.89
-updated_at: 2026-07-31T17:12:00+02:00
+updated_at: 2026-07-31T18:30:00+02:00
 created_at: 2026-07-28T22:00:00+02:00
 review_required: true
 canonical: true
@@ -42,6 +42,18 @@ Il corpus consolida concetti trasversali utili alle prove: sicurezza come propri
 La pagina ministeriale sul monitoraggio qualifica l'evento avverso come evento inatteso correlato al processo assistenziale che comporta un danno non intenzionale e indesiderabile e collega i sistemi di reporting all'apprendimento da cause e fattori contribuenti. Il Protocollo 2024 distingue il sottogruppo degli eventi sentinella e ne disciplina il monitoraggio nazionale. Per near miss, tassonomie operative e modalità di segnalazione resta vincolante la procedura vigente della struttura coordinata con gli indirizzi regionali e nazionali.
 
 Le raccomandazioni ministeriali sono documenti specifici e soggetti a revisione; alcune risultano espressamente in aggiornamento. La sorveglianza non coincide con una procedura assistenziale: raccoglie, analizza e restituisce dati per orientare interventi e monitorare esiti. Il PNP 2026-2031 è il quadro programmatorio corrente, da coordinare con i piani regionali.
+
+## Quadro della prevenzione
+
+Le fonti ministeriali distinguono, come schema generale, prevenzione primaria, secondaria e terziaria. La primaria mira a evitare o ridurre l'insorgenza della condizione agendo sui determinanti e sui fattori di rischio; la secondaria individua precocemente condizioni o persone a rischio per avviarle al percorso appropriato; la terziaria limita progressione, complicanze, recidive e perdita funzionale nelle persone già interessate. La collocazione concreta di un intervento può variare con patologia, popolazione e documento di riferimento: le etichette non sostituiscono la descrizione di obiettivo, destinatari e momento nella storia naturale.
+
+Il Piano nazionale della prevenzione 2026–2031 collega promozione della salute, prevenzione collettiva, integrazione con i LEA, approccio per ciclo di vita ed equità. Per la gestione, un intervento preventivo richiede bisogno, popolazione, evidenza, modalità di accesso, responsabilità, risorse, indicatori di processo ed esito, effetti indesiderati e verifica delle disuguaglianze.
+
+Riferimenti ufficiali controllati il 31 luglio 2026:
+
+- Ministero della Salute, [Piano nazionale della prevenzione 2026–2031](https://www.salute.gov.it/new/it/pubblicazione/piano-nazionale-della-prevenzione-2026-2031/);
+- Ministero della Salute, *Piano nazionale della cronicità*, per il quadro di prevenzione primaria, secondaria, terziaria e quaternaria;
+- ISS EpiCentro, [Piano nazionale della prevenzione 2026–2031](https://www.epicentro.iss.it/piano_prevenzione/pnp-2026-2031), pagina del 9 luglio 2026.
 
 ## Uso editoriale
 

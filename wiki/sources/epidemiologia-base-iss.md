@@ -7,9 +7,9 @@ domain: "concorsi pubblici italiani"
 topics: ["epidemiologia", "misure di frequenza", "misure di associazione", "bias", "screening"]
 entities: ["Istituto Superiore di Sanità"]
 source_refs: []
-book_refs: ["m-sa02-professioni-sanitarie", "vol-07-sanita-amministrativa-professioni-sanitarie"]
+book_refs: ["m-sa02-professioni-sanitarie", "m-sa03-dirigenza-medica-sanitaria", "vol-07-sanita-amministrativa-professioni-sanitarie"]
 confidence: 0.92
-updated_at: 2026-07-29T18:00:00+02:00
+updated_at: 2026-07-31T18:30:00+02:00
 created_at: 2026-07-28T23:30:00+02:00
 review_required: true
 canonical: true
@@ -33,6 +33,12 @@ raw_path: "wiki/raw/m-sa02-professioni-sanitarie/epidemiologia/"
 I quattro PDF sono conservati in raw con URL, byte e SHA-256.
 
 ## Copertura utile
+
+### Aggiornamento sui disegni ecologici
+
+Il capitolo ISS “Gli studi ecologici”, controllato il 31 luglio 2026, chiarisce che esposizione ed esito sono misurati a livello aggregato, per esempio su popolazioni o aree, e che questi studi sono particolarmente utili per descrivere differenze e generare ipotesi. Il loro limite caratteristico è la fallacia ecologica: un'associazione osservata fra gruppi non può essere trasferita automaticamente agli individui. Restano inoltre centrali confondimento e qualità dei dati.
+
+Riferimento ufficiale: Istituto Superiore di Sanità, [Gli studi ecologici](https://publ.iss.it/ITA/Items/GetPDF?uuid=6d239bda-de90-4069-bc14-c5864175ad6f).
 
 Il corpus consente di fondare definizioni ed esercizi su popolazione, rischio, prevalenza, incidenza, misure di associazione, disegni di studio, causalità, bias, confondimento, validità dei test e principi dello screening. Il rapporto sui siti inquinati offre un'applicazione direttamente utile anche al verticale TPALL.
 
