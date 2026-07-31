@@ -6,7 +6,7 @@ status: ready_for_writing
 domain: "concorsi pubblici italiani"
 source_refs: ["sources/bandi-rappresentativi-m-sa03-dirigenza-medica-sanitaria-2026", "sources/dirigenza-sanitaria-concorsi-ccnl-2026", "sources/governo-clinico-appropriatezza-hta-qualita-accreditamento", "sources/metodo-evidenze-sistema-nazionale-linee-guida-iss", "sources/epidemiologia-base-iss"]
 book_refs: ["m-sa03-dirigenza-medica-sanitaria", "vol-07-sanita-amministrativa-professioni-sanitarie"]
-updated_at: 2026-07-29T18:05:00+02:00
+updated_at: 2026-07-31T00:00:00+02:00
 created_at: 2026-07-29T18:05:00+02:00
 review_required: true
 canonical: true
@@ -19,6 +19,7 @@ tags: ["m-sa03", "coverage-map", "pipeline-step-07"]
 
 | Famiglia/profilo | Materia | Concetto/sotto-concetti | Frequenza/peso | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa | Destinazione rinvio | Note |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Tutti i dirigenti medici e sanitari | Profili, requisiti e prove | famiglia; profilo; disciplina; requisito; titolo; dato stabile/mobile; concorso ordinario; avviso temporaneo; commissione; scritta; pratica; orale | alta | [[sources/bandi-rappresentativi-m-sa03-dirigenza-medica-sanitaria-2026]]; [[sources/dirigenza-sanitaria-concorsi-ccnl-2026]]; [[sources/template-bando-decoder-metodo-bando]] | cap. 1 | Il capitolo definisce le famiglie, la sequenza di controllo dei requisiti, la distinzione tra ammissione/titoli/materie, le forme di procedura e la relazione prova-output | Bando Decoder M-SA03 ed esempio composito con requisito dubbio, controllo documentale e piano di allenamento | classificazione della procedura; relazione; quesito; prova pratica illustrata; risposta orale | Domanda da commissario e domanda-trappola; classificazione S/M/V; checklist finale | completo | Review giuridico-concorsuale, contrattuale, professionale e recruitment SSN allo step 15 |  | Il D.P.R. 483/1997 va applicato per profilo; ricorrenze e dati mobili non diventano regole universali |
 | Dirigente medico per disciplina | Disciplina clinica e casi | quesito clinico; caso; priorità; diagnosi differenziale; appropriatezza; sicurezza; limiti | alta | [[sources/bandi-rappresentativi-m-sa03-dirigenza-medica-sanitaria-2026]]; [[sources/metodo-evidenze-sistema-nazionale-linee-guida-iss]]; source note cliniche M-SA02 | verticali V7-DIR-MED | Architettura del ragionamento e della prova coperta; contenuto clinico demandato alla disciplina e a linee guida identificate | Caso non esecutivo con dati, ipotesi, priorità, evidenze, decisione e rivalutazione | relazione su caso, quesiti sintetici, orale | Rubrica su completezza dati, ragionamento, sicurezza, evidenza, limiti e comunicazione | completo | Clinica indipendente obbligatoria per ogni disciplina |  | Nessun manuale clinico universale; il verticale cita versione e setting |
 | Tutti i dirigenti sanitari | Linee guida e appropriatezza | quesito; ricerca; appraisal; raccomandazione; applicabilità; appropriatezza clinica/organizzativa | alta | [[sources/metodo-evidenze-sistema-nazionale-linee-guida-iss]]; [[sources/governo-clinico-appropriatezza-hta-qualita-accreditamento]] | cap. 11/verticali | Metodo SNLG, GRADE, applicabilità e distinzione tra appropriatezza clinica e organizzativa disponibili | Valutazione di raccomandazione rispetto a popolazione, comparatore, setting, risorse e preferenze | lettura critica e risposta motivata | Checklist su versione, qualità, forza, trasferibilità, conflitti e monitoraggio | completo | Obbligatoria su versione e disciplina |  | Una raccomandazione non sostituisce il giudizio sul caso |
 | Dirigenti medici e sanitari | Clinical governance | EBP; PDTA; audit; indicatori; dati; rischio; multiprofessionalità; formazione | alta | [[sources/governo-clinico-appropriatezza-hta-qualita-accreditamento]] | cap. 11 | Componenti e relazioni del governo clinico consolidate | Caso su problema di qualità con audit, azione e re-audit | progetto breve, colloquio, cruscotto | Rubrica su obiettivo, standard, dato, stakeholder, azione, esito e sostenibilità | completo | Review organizzativa/clinica |  | Non confondere governance con solo controllo amministrativo |
@@ -30,8 +31,8 @@ tags: ["m-sa03", "coverage-map", "pipeline-step-07"]
 
 ## Totali e controlli differiti
 
-- 8 nuclei; 8 `completo`; 0 `parziale`; 0 `solo-nominato`; 0 `rinviato`; 0 `mancante`.
-- Alta priorità allo step 15: review clinica per disciplina, epidemiologica, HTA/accreditamento, clinico-legale e contrattuale.
+- 9 nuclei; 9 `completo`; 0 `parziale`; 0 `solo-nominato`; 0 `rinviato`; 0 `mancante`.
+- Alta priorità allo step 15: review giuridico-concorsuale e recruitment SSN sul capitolo 01; review clinica per disciplina, epidemiologica, HTA/accreditamento, clinico-legale e contrattuale sugli altri nuclei.
 - Media priorità: protocolli del setting, piani regionali e specifiche degli indicatori.
 - Bassa priorità: ampliare casi e quiz dopo la prima stesura.
 
