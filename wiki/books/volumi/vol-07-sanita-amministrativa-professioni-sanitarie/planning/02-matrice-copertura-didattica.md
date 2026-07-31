@@ -6,7 +6,7 @@ status: draft
 domain: "concorsi pubblici italiani"
 source_refs: ["sources/vol-07-dossier-fonti-materie-sanita-2026-07-28", "sources/bandi-rappresentativi-m-sa02-professioni-sanitarie-2025-2026", "reviews/pipeline/VOL-07/06-audit-fonti-m-sa02", "sources/programmi-screening-oncologici-dati-passi-iss", "sources/premal-definizioni-caso-risposta-segnale-epidemiologico"]
 book_refs: ["vol-07-sanita-amministrativa-professioni-sanitarie"]
-updated_at: 2026-07-31T23:59:50+02:00
+updated_at: 2026-07-31T23:59:59+02:00
 review_required: true
 canonical: true
 tags: ["vol-07", "coverage-map", "didattica"]
@@ -44,7 +44,7 @@ Stato iniziale delle materie richieste. `mancante` significa che il tema è nel 
 | SA02-04 | M-SA02 | Discipline professionali specifiche | Cap. 03/appendici profili | parziale | profili/codici e campioni tecnici per ostetrica/fisioterapista acquisiti; verticali incompleti |
 | SA02-05 | M-SA02 | Evidenze scientifiche | Cap. 07/verticali | completo | Manuale ISS-SNLG 2.0, fondamenti su disegni e bias e testo reale del capitolo 07 coprono PICO, ricerca, appraisal, GRADE, raccomandazioni, EtD, applicabilità e versionamento; validazione specialistica degli esercizi resta allo step 15 |
 | SA02-06 | M-SA02 | Igiene pubblica ed epidemiologia | Cap. 08 | completo | protocollo PASSI, programmi e dati 2021-2025, testo reale del capitolo 08, esercizi, PREMAL, definizioni di caso, scenario, ICA e indicatori coprono teoria, applicazione e verifica; review epidemiologica indipendente e controllo di versione restano allo step 15 |
-| SA02-07 | M-SA02 | Controlli, verbalizzazione e sanzioni | Cap. 09/appendice TPALL | parziale | D.Lgs. 27/2021, AUA, CPP, alimenti, UE e ISPRA acquisiti; AIA applicata e metodi mancanti |
+| SA02-07 | M-SA02 | Controlli, verbalizzazione e sanzioni | Cap. 09/appendice TPALL | completo | testo reale del capitolo 09 e corpus TPALL coprono profilo, competenza, sopralluogo, evidenze, campionamento, matrici, AIA/AUA, verbali, non conformità e percorsi amministrativi/penali; metodi del caso e review TPALL-giuridica restano allo step 15 |
 | SA03-01 | M-SA03 | Disciplina clinica specialistica e casi clinici | Verticale V7-DIR-MED | mancante | SNLG + manuale specialistico |
 | SA03-02 | M-SA03 | Linee guida e appropriatezza | Cap. 11/verticale | mancante | SL-04 |
 | SA03-03 | M-SA03 | Clinical governance | Cap. 11 | mancante | SL-02/DOT-08 |

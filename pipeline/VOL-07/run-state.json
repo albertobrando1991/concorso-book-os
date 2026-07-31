@@ -3,7 +3,7 @@
   "specPath": "books/volumi/vol-07-sanita-amministrativa-professioni-sanitarie/planning/00-scheda-pipeline.md",
   "specHash": "sha256:3f83dba1066baf87ea831eadd3ce1153130dc013a37ccaa7a63681bd4038998e",
   "createdAt": "2026-07-28T12:27:05.417Z",
-  "updatedAt": "2026-07-31T10:34:17.298Z",
+  "updatedAt": "2026-07-31T10:43:04.862Z",
   "steps": [
     {
       "key": "00:VOL-07",
@@ -947,9 +947,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-sa02-professioni-sanitarie/chapters/09-controlli-tpall-verbalizzazione-campionamento-sanzioni.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-31T10:36:43.902Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-sa02-professioni-sanitarie/chapters/09-controlli-tpall-verbalizzazione-campionamento-sanzioni.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Verifica manuale completata: il piano copre profilo e competenza, sopralluogo, evidenze, campionamento, matrici, verbale, non conformita e percorsi sanzionatori; distingue regimi e rinvia metodi, atti e validazione TPALL-giuridica allo step 15."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-07-31T10:38:01.210Z"
     },
     {
       "key": "09:moduli/m-sa02-professioni-sanitarie/chapters/09-controlli-tpall-verbalizzazione-campionamento-sanzioni.md",
@@ -957,9 +980,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-sa02-professioni-sanitarie/chapters/09-controlli-tpall-verbalizzazione-campionamento-sanzioni.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-31T10:38:13.163Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-31T10:40:23.742Z"
     },
     {
       "key": "10:moduli/m-sa02-professioni-sanitarie/chapters/09-controlli-tpall-verbalizzazione-campionamento-sanzioni.md",
@@ -967,9 +1000,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-sa02-professioni-sanitarie/chapters/09-controlli-tpall-verbalizzazione-campionamento-sanzioni.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-31T10:40:31.413Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-31T10:41:17.534Z"
     },
     {
       "key": "11:moduli/m-sa02-professioni-sanitarie/chapters/09-controlli-tpall-verbalizzazione-campionamento-sanzioni.md",
@@ -977,9 +1020,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-sa02-professioni-sanitarie/chapters/09-controlli-tpall-verbalizzazione-campionamento-sanzioni.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-31T10:41:34.528Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-31T10:41:58.017Z"
     },
     {
       "key": "12:moduli/m-sa02-professioni-sanitarie/chapters/09-controlli-tpall-verbalizzazione-campionamento-sanzioni.md",
@@ -987,9 +1040,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-sa02-professioni-sanitarie/chapters/09-controlli-tpall-verbalizzazione-campionamento-sanzioni.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-31T10:42:12.453Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-31T10:43:04.862Z"
     },
     {
       "key": "08:moduli/m-sa02-professioni-sanitarie/chapters/10-prova-pratica-casi-professionali.md",
