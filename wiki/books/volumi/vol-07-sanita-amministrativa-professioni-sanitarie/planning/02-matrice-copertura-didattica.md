@@ -6,7 +6,7 @@ status: draft
 domain: "concorsi pubblici italiani"
 source_refs: ["sources/vol-07-dossier-fonti-materie-sanita-2026-07-28", "sources/bandi-rappresentativi-m-sa02-professioni-sanitarie-2025-2026", "reviews/pipeline/VOL-07/06-audit-fonti-m-sa02", "sources/programmi-screening-oncologici-dati-passi-iss", "sources/premal-definizioni-caso-risposta-segnale-epidemiologico"]
 book_refs: ["vol-07-sanita-amministrativa-professioni-sanitarie"]
-updated_at: 2026-07-31T23:59:59+02:00
+updated_at: 2026-08-01T00:00:20+02:00
 review_required: true
 canonical: true
 tags: ["vol-07", "coverage-map", "didattica"]
@@ -64,7 +64,7 @@ Stato iniziale delle materie richieste. `mancante` significa che il tema è nel 
 | SA04-09 | M-SA04 | Gestione del rischio tecnologico | Cap. 13 | mancante | fonti da acquisire |
 | PRV-01 | Tutti | Quiz di legislazione e organizzazione sanitaria | Cap. 14 | mancante | bandi + corpus verificato |
 | PRV-02 | Tutti | Prova scritta o teorico-pratica | Cap. 14 | mancante | bandi per profilo |
-| PRV-03 | SA02-SA04 | Prova pratica, procedurale o caso professionale | Cap. 10/verticali M-SA02; Cap. 14 volume | parziale | bandi acquisiti; procedure, casi e rubriche da validare |
+| PRV-03 | SA02-SA04 | Prova pratica, procedurale o caso professionale | Cap. 10/verticali M-SA02; Cap. 14 volume | completo | metodo trasversale, casi e autoverifica sviluppati nel cap. 10 M-SA02; procedure del setting e validazioni professionali restano allo step 15; i verticali successivi riusano il metodo senza duplicarlo |
 | PRV-04 | Tutti | Orale specialistico | Cap. 14 | mancante | bandi + banca domande |
 | RIN-01 | Tutti | Diritto amministrativo generale | VOL-01, modulo base PA | rinviato | destinazione da dettagliare in fase B |
 | RIN-02 | Tutti | Pubblico impiego generale | VOL-01, modulo base PA | rinviato | destinazione da dettagliare in fase B |

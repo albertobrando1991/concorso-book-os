@@ -18,33 +18,32 @@ describe("VOL-07 pipeline spec", () => {
       responsabileNormativo: "Alberto Brando",
       responsabileEditoriale: "Alberto Brando",
       writerProvider: "codex",
-      phases: ["A", "B", "C"]
+      phases: ["A", "B", "C", "D", "E", "F"]
     })
     expect(loaded.spec.modules.map((module) => [module.code, module.priority, module.phases])).toEqual([
-      ["M-SA02", 1, ["A", "B", "C"]],
-      ["M-SA01", 2, ["A", "B", "C"]],
-      ["M-SA03", 3, ["A", "B"]],
-      ["M-SA04", 4, ["A", "B"]]
+      ["M-SA02", 1, ["A", "B", "C", "D", "E", "F"]],
+      ["M-SA01", 2, ["A", "B", "C", "D", "E", "F"]],
+      ["M-SA03", 3, ["A", "B", "C", "D", "E", "F"]],
+      ["M-SA04", 4, ["A", "B", "C", "D", "E", "F"]]
     ])
-    expect(loaded.spec.modules[0]).toMatchObject({
-      chaptersSource: "declared",
-      chapters: [
-        {
-          number: "01",
-          title: "Professioni sanitarie: profili, requisiti e prove",
-          file: "chapters/01-mappa-profili-e-prove.md",
-          matrix: "planning/02-matrice-copertura-didattica.md",
-          expectedStatus: "completo"
-        },
-        {
-          number: "03",
-          title: "Discipline professionali: autonomia, responsabilità e deontologia",
-          file: "chapters/03-discipline-professionali-autonomia-responsabilita.md",
-          matrix: "planning/02-matrice-copertura-didattica.md",
-          expectedStatus: "completo"
-        }
-      ]
-    })
+    expect(loaded.spec.modules[0]?.chaptersSource).toBe("declared")
+    expect(
+      loaded.spec.modules[0]?.chapters.map((chapter) => [
+        chapter.number,
+        chapter.file,
+        chapter.expectedStatus
+      ])
+    ).toEqual([
+      ["01", "chapters/01-mappa-profili-e-prove.md", "completo"],
+      ["03", "chapters/03-discipline-professionali-autonomia-responsabilita.md", "completo"],
+      ["04", "chapters/04-assistenza-infermieristica-tecniche-assistenziali-oss.md", "completo"],
+      ["05", "chapters/05-valutazione-clinica-triage-urgenza-emergenza.md", "completo"],
+      ["06", "chapters/06-prevenzione-continuita-presa-in-carico.md", "completo"],
+      ["07", "chapters/07-evidenze-pico-grade-applicabilita.md", "completo"],
+      ["08", "chapters/08-igiene-pubblica-epidemiologia-screening.md", "completo"],
+      ["09", "chapters/09-controlli-tpall-verbalizzazione-campionamento-sanzioni.md", "completo"],
+      ["10", "chapters/10-prova-pratica-casi-professionali.md", "completo"]
+    ])
     const msa01 = loaded.spec.modules.find((module) => module.code === "M-SA01")
 
     expect(msa01).toBeDefined()
@@ -88,7 +87,7 @@ describe("VOL-07 pipeline spec", () => {
         }
       ]
     })
-    expect(loaded.spec.modules.slice(2).every((module) => module.chaptersSource === "derived")).toBe(true)
+    expect(loaded.spec.modules.every((module) => module.chaptersSource === "declared")).toBe(true)
 
     const chapter03Target =
       "moduli/m-sa02-professioni-sanitarie/chapters/03-discipline-professionali-autonomia-responsabilita.md"

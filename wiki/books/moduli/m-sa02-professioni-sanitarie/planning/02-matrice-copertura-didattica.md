@@ -43,7 +43,7 @@ source_refs:
   - "sources/territorio-cot-continuita-pdta-persona-fragile-toscana"
   - "sources/tpall-emissioni-convogliate-bat-ael-metodi-snpa-arpa"
 book_refs: ["m-sa02-professioni-sanitarie", "vol-07-sanita-amministrativa-professioni-sanitarie"]
-updated_at: 2026-07-31T23:59:59+02:00
+updated_at: 2026-08-01T00:00:20+02:00
 created_at: 2026-07-28T22:20:00+02:00
 review_required: true
 canonical: true
@@ -70,6 +70,7 @@ La matrice registra la readiness per la scrittura dopo i lotti dello step 07. `C
 
 - 9 nuclei M-SA02 registrati.
 - 9 `completo`.
+- Il nucleo trasversale sulla prova pratica è sviluppato nel capitolo 10 e verificato nello [[reviews/pipeline/VOL-07/10-controllo-copertura-m-sa02-10|step 10]]; procedure del setting e validazioni professionali restano allo step 15.
 - 0 `parziale`.
 - 0 `solo-nominato`.
 - 0 `rinviato`.

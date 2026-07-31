@@ -3,7 +3,7 @@
   "specPath": "books/volumi/vol-07-sanita-amministrativa-professioni-sanitarie/planning/00-scheda-pipeline.md",
   "specHash": "sha256:3f83dba1066baf87ea831eadd3ce1153130dc013a37ccaa7a63681bd4038998e",
   "createdAt": "2026-07-28T12:27:05.417Z",
-  "updatedAt": "2026-07-31T10:43:04.862Z",
+  "updatedAt": "2026-07-31T10:56:27.734Z",
   "steps": [
     {
       "key": "00:VOL-07",
@@ -1060,9 +1060,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-sa02-professioni-sanitarie/chapters/10-prova-pratica-casi-professionali.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-31T10:44:36.311Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-sa02-professioni-sanitarie/chapters/10-prova-pratica-casi-professionali.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Verifica manuale completata: il piano copre analisi della traccia, sequenza, sicurezza, motivazione, output e autoverifica; distingue i laboratori per infermiere, OSS, ostetrica, fisioterapista e TPALL e rinvia procedure e validazioni professionali allo step 15."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-07-31T10:46:28.840Z"
     },
     {
       "key": "09:moduli/m-sa02-professioni-sanitarie/chapters/10-prova-pratica-casi-professionali.md",
@@ -1070,9 +1093,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-sa02-professioni-sanitarie/chapters/10-prova-pratica-casi-professionali.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-31T10:46:34.371Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-31T10:50:04.937Z"
     },
     {
       "key": "10:moduli/m-sa02-professioni-sanitarie/chapters/10-prova-pratica-casi-professionali.md",
@@ -1080,9 +1113,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-sa02-professioni-sanitarie/chapters/10-prova-pratica-casi-professionali.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-31T10:50:16.237Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-31T10:51:53.326Z"
     },
     {
       "key": "11:moduli/m-sa02-professioni-sanitarie/chapters/10-prova-pratica-casi-professionali.md",
@@ -1090,9 +1133,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-sa02-professioni-sanitarie/chapters/10-prova-pratica-casi-professionali.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-31T10:52:07.850Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-31T10:52:41.081Z"
     },
     {
       "key": "12:moduli/m-sa02-professioni-sanitarie/chapters/10-prova-pratica-casi-professionali.md",
@@ -1100,9 +1153,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-sa02-professioni-sanitarie/chapters/10-prova-pratica-casi-professionali.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-31T10:54:47.515Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-31T10:56:27.734Z"
     },
     {
       "key": "05:moduli/m-sa02-professioni-sanitarie",
