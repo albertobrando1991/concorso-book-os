@@ -61,14 +61,15 @@ describe("VOL-07 visible editorial copy", () => {
 
     expect(preview.title).toBe("VOL-07 — Sanità amministrativa e professioni sanitarie")
     expect(readerChapters.map((chapter) => [chapter.outlineSection, chapter.title])).toEqual([
-      ["4", "Atti, procedimenti e flussi informativi nelle aziende sanitarie"],
-      ["5", "Documentazione sanitaria, accesso, privacy e conservazione"],
-      ["6", "Front-office e comunicazione con l'utenza sanitaria"],
-      ["9", "Contabilità, budget e controllo di gestione nelle aziende sanitarie"],
-      ["10", "Procurement sanitario, farmaci, dispositivi e magazzino"],
-      ["1", "Professioni sanitarie: profili, requisiti e prove"],
-      ["3", "Discipline professionali: autonomia, responsabilità e deontologia"]
+      ["1", "Atti, procedimenti e flussi informativi nelle aziende sanitarie"],
+      ["2", "Documentazione sanitaria, accesso, privacy e conservazione"],
+      ["3", "Front-office e comunicazione con l'utenza sanitaria"],
+      ["4", "Contabilità, budget e controllo di gestione nelle aziende sanitarie"],
+      ["5", "Procurement sanitario, farmaci, dispositivi e magazzino"],
+      ["6", "Professioni sanitarie: profili, requisiti e prove"],
+      ["7", "Discipline professionali: autonomia, responsabilità e deontologia"]
     ])
+    expect(readerChapters.map((chapter) => chapter.moduleOutlineSection)).toEqual(["4", "5", "6", "9", "10", "1", "3"])
     expect(readerChapters.some((chapter) => /piano editoriale/i.test(chapter.title))).toBe(false)
   })
 })

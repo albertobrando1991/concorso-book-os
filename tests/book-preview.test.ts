@@ -521,6 +521,7 @@ describe("book preview assets", () => {
       const generatedTitles = data.chapters.filter((chapter) => chapter.isGenerated).map((chapter) => chapter.title)
       const index = data.chapters.find((chapter) => chapter.title === "Indice completo")
       const moduleOpening = data.chapters.find((chapter) => chapter.frontMatterLayout === "module-opening")
+      const readerChapters = data.chapters.filter((chapter) => chapter.sectionType === "chapter" && !chapter.isGenerated)
 
       expect(data.bookId).toBe("volumi/vol-03")
       expect(data.title).toBe("VOL-03 — Funzioni centrali, Fisco, Previdenza e Ispettivo")
@@ -539,6 +540,9 @@ describe("book preview assets", () => {
       expect(moduleOpening?.title).toContain("M-FC01")
       expect(data.chapters.some((chapter) => chapter.title === "Lavorare nei Ministeri")).toBe(true)
       expect(data.chapters.find((chapter) => chapter.title === "Agenzie fiscali e profili")?.volumeModuleCode).toBe("M-FC02")
+      expect(readerChapters.map((chapter) => chapter.outlineSection)).toEqual(["1", "2"])
+      expect(readerChapters.map((chapter) => chapter.moduleOutlineSection)).toEqual(["1", "1"])
+      expect(new Set(readerChapters.map((chapter) => chapter.path)).size).toBe(2)
     } finally {
       await rm(root, { recursive: true, force: true })
     }

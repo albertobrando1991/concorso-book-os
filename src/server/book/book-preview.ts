@@ -63,6 +63,7 @@ export interface BookStudioChapter {
   isGenerated?: boolean
   volumeModuleCode?: string
   volumeModuleTitle?: string
+  moduleOutlineSection?: string
   topics: string[]
   sourceRefs: string[]
   wordCount: number
@@ -229,8 +230,17 @@ async function buildSingleBookStudioData(store: FileWikiStore, bookId: string): 
 async function buildVolumeBookStudioData(store: FileWikiStore, volume: TextVolume): Promise<BookStudioData> {
   const bookId = textVolumeBookId(volume)
   const moduleBooks = await loadVolumeModuleBooks(store, volume)
-  const volumeFrontMatter = buildVolumeFrontMatter(volume, moduleBooks, bookId)
-  const moduleSections = moduleBooks.flatMap(({ moduleCode, moduleTitle, chapters }) => [
+  let nextChapterNumber = 1
+  const numberedModuleBooks = moduleBooks.map((moduleBook) => ({
+    ...moduleBook,
+    chapters: moduleBook.chapters.map((chapter) => ({
+      ...chapter,
+      moduleOutlineSection: chapter.outlineSection,
+      outlineSection: String(nextChapterNumber++)
+    }))
+  }))
+  const volumeFrontMatter = buildVolumeFrontMatter(volume, numberedModuleBooks, bookId)
+  const moduleSections = numberedModuleBooks.flatMap(({ moduleCode, moduleTitle, chapters }) => [
     buildModuleOpeningSection({
       bookId,
       moduleCode,
@@ -241,7 +251,7 @@ async function buildVolumeBookStudioData(store: FileWikiStore, volume: TextVolum
     ...chapters
   ])
   const chapters = [...volumeFrontMatter, ...moduleSections]
-  const assets = moduleBooks.flatMap((moduleBook) => moduleBook.assets)
+  const assets = numberedModuleBooks.flatMap((moduleBook) => moduleBook.assets)
   const uniqueAssets = Array.from(new Map(assets.map((asset) => [asset.path, asset])).values())
     .sort((left, right) => right.updatedAt.localeCompare(left.updatedAt))
 
