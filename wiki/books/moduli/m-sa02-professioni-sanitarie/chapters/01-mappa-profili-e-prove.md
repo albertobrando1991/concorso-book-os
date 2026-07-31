@@ -1,15 +1,15 @@
 ---
 id: chapter-m-sa02-01-mappa-profili-e-prove
-type: book_chapter
+type: chapter
 title: "Professioni sanitarie: profili, requisiti e prove"
-status: editorial_draft
+status: draft
 domain: "concorsi pubblici italiani"
 topics: ["professioni sanitarie", "concorsi sanitari", "prove concorsuali", "bando decoder"]
 entities: ["Servizio sanitario nazionale", "Azienda sanitaria", "inPA", "Ministero della Salute"]
 source_refs: ["sources/bandi-rappresentativi-m-sa02-professioni-sanitarie-2025-2026", "sources/bandi-rappresentativi-oss-2025-2026", "sources/dpr-220-2001-concorsi-personale-non-dirigenziale-ssn", "sources/ordinamento-professioni-sanitarie-leggi-42-251-43-3", "sources/profili-professionali-infermiere-ostetrica-fisioterapista-tpall", "sources/profilo-oss-dpcm-25-marzo-2025", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994"]
 book_refs: ["m-sa02-professioni-sanitarie", "vol-07-sanita-amministrativa-professioni-sanitarie", "il-metodo-bando"]
 confidence: 0.94
-updated_at: 2026-07-30T10:00:26+02:00
+updated_at: 2026-08-01T00:01:10+02:00
 created_at: 2026-07-29T18:41:35+02:00
 review_required: true
 canonical: true
@@ -18,7 +18,7 @@ book_id: m-sa02-professioni-sanitarie
 module_code: M-SA02
 outline_section: 1
 chapter_number: "01"
-draft_stage: editorial-draft
+draft_stage: written
 last_compiled_from: ["wiki/reviews/pipeline/VOL-07/08-piano-capitolo-m-sa02-01.md", "wiki/books/moduli/m-sa02-professioni-sanitarie/planning/02-matrice-copertura-didattica.md", "wiki/sources/bandi-rappresentativi-m-sa02-professioni-sanitarie-2025-2026.md", "wiki/sources/bandi-rappresentativi-oss-2025-2026.md", "wiki/sources/dpr-220-2001-concorsi-personale-non-dirigenziale-ssn.md", "wiki/sources/ordinamento-professioni-sanitarie-leggi-42-251-43-3.md", "wiki/sources/profili-professionali-infermiere-ostetrica-fisioterapista-tpall.md", "wiki/sources/profilo-oss-dpcm-25-marzo-2025.md"]
 ---
 

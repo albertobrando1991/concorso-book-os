@@ -60,6 +60,7 @@ Non deve promettere copertura totale di ogni bando o aggiornamento normativo aut
 - [[books/moduli/m-sa02-professioni-sanitarie/planning/06-checklist-igiene-letto-trasferimenti-review|Checklist per la review professionale di igiene a letto e trasferimenti]]
 - [[books/moduli/m-sa02-professioni-sanitarie/planning/07-piano-chiusura-review-esterne-m-sa02|Dossier coordinato delle cinque review dello step 15]]
 - [[books/moduli/m-sa02-professioni-sanitarie/planning/08-pacchetto-esercizi-pico-grade-applicabilita|Pacchetto di esercizi PICO, GRADE, EtD e applicabilità]]
+- [[books/moduli/m-sa02-professioni-sanitarie/planning/09-bibbia-del-modulo|Bibbia editoriale del modulo]]
 
 ## Collegamento al VOL-07
 - Volume: [[books/volumi/vol-07-sanita-amministrativa-professioni-sanitarie/index]]

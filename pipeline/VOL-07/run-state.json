@@ -3,7 +3,7 @@
   "specPath": "books/volumi/vol-07-sanita-amministrativa-professioni-sanitarie/planning/00-scheda-pipeline.md",
   "specHash": "sha256:3f83dba1066baf87ea831eadd3ce1153130dc013a37ccaa7a63681bd4038998e",
   "createdAt": "2026-07-28T12:27:05.417Z",
-  "updatedAt": "2026-07-31T10:56:27.734Z",
+  "updatedAt": "2026-07-31T11:18:11.612Z",
   "steps": [
     {
       "key": "00:VOL-07",
@@ -1251,9 +1251,25 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-sa02-professioni-sanitarie",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-31T11:13:51.426Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E01: stato \"proposto\".",
+            "location": "wiki/reviews/pipeline/VOL-07/13-moduli-m-sa02-professioni-sanitarie.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-07-31T11:16:57.211Z"
     },
     {
       "key": "14:moduli/m-sa02-professioni-sanitarie",
@@ -1261,9 +1277,19 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-sa02-professioni-sanitarie",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-31T11:17:11.136Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-31T11:18:02.129Z"
     },
     {
       "key": "15:moduli/m-sa02-professioni-sanitarie",
@@ -1271,9 +1297,13 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-sa02-professioni-sanitarie",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "awaiting-human",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-31T11:18:11.612Z"
     },
     {
       "key": "16:moduli/m-sa02-professioni-sanitarie",
