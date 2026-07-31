@@ -3,7 +3,7 @@
   "specPath": "books/volumi/vol-07-sanita-amministrativa-professioni-sanitarie/planning/00-scheda-pipeline.md",
   "specHash": "sha256:3f83dba1066baf87ea831eadd3ce1153130dc013a37ccaa7a63681bd4038998e",
   "createdAt": "2026-07-28T12:27:05.417Z",
-  "updatedAt": "2026-07-31T08:54:32.491Z",
+  "updatedAt": "2026-07-31T09:31:48.751Z",
   "steps": [
     {
       "key": "00:VOL-07",
@@ -495,9 +495,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-sa02-professioni-sanitarie/chapters/05-valutazione-clinica-triage-urgenza-emergenza.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-31T08:55:21.707Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-sa02-professioni-sanitarie/chapters/05-valutazione-clinica-triage-urgenza-emergenza.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano verificato: target assente; tutte le voci clinica/emergenza hanno teoria, applicazione e verifica; adulto, neonato e ostetricia distinti; algoritmi, soglie, farmaci, dosi e manovre esclusi dal perimetro esecutivo; review cliniche tracciate allo step 15; budget KDP definito."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-07-31T09:09:07.823Z"
     },
     {
       "key": "09:moduli/m-sa02-professioni-sanitarie/chapters/05-valutazione-clinica-triage-urgenza-emergenza.md",
@@ -505,9 +528,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-sa02-professioni-sanitarie/chapters/05-valutazione-clinica-triage-urgenza-emergenza.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-31T09:09:24.952Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-31T09:13:43.586Z"
     },
     {
       "key": "10:moduli/m-sa02-professioni-sanitarie/chapters/05-valutazione-clinica-triage-urgenza-emergenza.md",
@@ -515,9 +548,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-sa02-professioni-sanitarie/chapters/05-valutazione-clinica-triage-urgenza-emergenza.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-31T09:13:53.976Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-31T09:27:02.986Z"
     },
     {
       "key": "11:moduli/m-sa02-professioni-sanitarie/chapters/05-valutazione-clinica-triage-urgenza-emergenza.md",
@@ -525,9 +568,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-sa02-professioni-sanitarie/chapters/05-valutazione-clinica-triage-urgenza-emergenza.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-31T09:27:10.628Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-31T09:29:50.696Z"
     },
     {
       "key": "12:moduli/m-sa02-professioni-sanitarie/chapters/05-valutazione-clinica-triage-urgenza-emergenza.md",
@@ -535,9 +588,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-sa02-professioni-sanitarie/chapters/05-valutazione-clinica-triage-urgenza-emergenza.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-31T09:30:02.003Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-31T09:31:48.751Z"
     },
     {
       "key": "08:moduli/m-sa02-professioni-sanitarie/chapters/06-prevenzione-continuita-presa-in-carico.md",
