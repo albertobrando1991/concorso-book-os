@@ -7,9 +7,9 @@ domain: "concorsi pubblici italiani"
 topics: ["cronicità", "presa in carico", "PDTA", "PAI", "Case di Comunità", "COT", "telemedicina"]
 entities: ["AGENAS", "Ministero della Salute", "Azienda sanitaria"]
 source_refs: ["sources/sicurezza-cure-responsabilita-consenso-leggi-24-219", "sources/riabilitazione-fisioterapia-iss-ministero", "sources/territorio-cot-continuita-pdta-persona-fragile-toscana"]
-book_refs: ["m-sa02-professioni-sanitarie", "vol-07-sanita-amministrativa-professioni-sanitarie"]
+book_refs: ["m-sa02-professioni-sanitarie", "m-sa03-dirigenza-medica-sanitaria", "vol-07-sanita-amministrativa-professioni-sanitarie"]
 confidence: 0.95
-updated_at: 2026-07-29T17:22:00+02:00
+updated_at: 2026-07-31T17:17:00+02:00
 created_at: 2026-07-29T16:55:00+02:00
 review_required: true
 canonical: true
