@@ -74,7 +74,7 @@
 
 **Interfaces:**
 - Consumes: `parseVolumeSpec(markdown, specPath): VolumeSpec` and `buildStepDrafts(spec, phases): StepDraft[]`.
-- Produces: spec A-F con 25 target, 125 step C, 16 step D, 7 step E e 2 step F.
+- Produces: spec A-F con 25 target, 125 step C, 16 step D, 7 step E e 3 step F.
 
 - [ ] **Step 1: Write the failing manifest test**
 
@@ -84,7 +84,7 @@ expect(spec.modules.flatMap((module) => module.chapters)).toHaveLength(25)
 expect(buildStepDrafts(spec, ["C"]).filter((step) => step.id === "09")).toHaveLength(25)
 expect(buildStepDrafts(spec, ["D"])).toHaveLength(16)
 expect(buildStepDrafts(spec, ["E"])).toHaveLength(7)
-expect(buildStepDrafts(spec, ["F"])).toHaveLength(2)
+expect(buildStepDrafts(spec, ["F"])).toHaveLength(3)
 ```
 
 - [ ] **Step 2: Run the focused test and verify RED**
@@ -167,7 +167,7 @@ git commit -m "feat(pipeline): expose awaiting human review state"
 
 **Interfaces:**
 - Consumes: manifest Task 1 and current state with 52 `done`.
-- Produces: 167 total step records, 52 preserved `done`, 115 new `pending`.
+- Produces: 168 total step records, 52 preserved `done`, 116 new `pending`.
 
 - [ ] **Step 1: Capture the pre-sync state**
 
@@ -185,13 +185,13 @@ Expected: `ok = true`.
 
 Run: `npm run pipeline -- sync VOL-07 --json`
 
-Expected: `added.length = 115`, `dropped.length = 0`.
+Expected: `added.length = 116`, `dropped.length = 0`.
 
 - [ ] **Step 4: Verify preservation**
 
 Run: `npm run pipeline -- status VOL-07 --json`
 
-Expected: 167 total steps; all previous 52 remain `done`; first unfinished phase-C target is M-SA02 chapter 04 when filtered with `--phase C`.
+Expected: 168 total steps; all previous 52 remain `done`; first unfinished phase-C target is M-SA02 chapter 04 when filtered with `--phase C`.
 
 - [ ] **Step 5: Commit**
 

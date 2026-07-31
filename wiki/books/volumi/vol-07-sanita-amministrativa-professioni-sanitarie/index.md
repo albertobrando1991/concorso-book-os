@@ -18,7 +18,7 @@ tags: ["volume", "vol-07", "sanita"]
 
 ## Stato
 
-Pipeline editoriale in scrittura. M-SA02 ha due capitoli redatti; M-SA01 ha il capitolo 04 redatto allo step 09 e in attesa dello step 10, senza dichiarazioni di congelamento o pubblicabilità; M-SA03 e M-SA04 restano in preparazione.
+Pipeline editoriale estesa al perimetro completo di 25 capitoli. Sette capitoli di M-SA01 e M-SA02 hanno completato gli step 08-12; diciotto target di M-SA02, M-SA03 e M-SA04 sono configurati e ancora da scrivere. Il volume non è congelato né pubblicabile: la review umana specialistica resta obbligatoria allo step 15.
 
 ## Perimetro
 

@@ -54,7 +54,7 @@ Candidato che ha letto o sta usando Il Metodo BANDO e deve adattare metodo, mate
 ### Materie assegnate dal dossier VOL-07
 Tecniche di laboratorio; biochimica, microbiologia ed ematologia applicate; biosicurezza; radiologia; dosimetria e radioprotezione; qualità immagine e apparecchiature; tecnologie biomedicali; dispositivi e rischio tecnologico.
 
-### Fonti da consolidare prima della scrittura
+### Fonti consolidate per la scrittura
 - [[sources/vol-07-dossier-fonti-materie-sanita-2026-07-28]]
 - [[books/volumi/vol-07-sanita-amministrativa-professioni-sanitarie/planning/03-mappa-fonti-specialistiche]]
 - Bandi rappresentativi della famiglia.
@@ -63,4 +63,4 @@ Tecniche di laboratorio; biochimica, microbiologia ed ematologia applicate; bios
 - Source notes nuove se il modulo richiede aggiornamento o specialismo.
 
 ## Testo editoriale
-Non avviato: lo scaffold documenta soltanto struttura e assegnazioni. La scrittura inizierà dopo il consolidamento delle fonti specifiche e i gate della pipeline.
+La matrice di copertura registra nove nuclei preparatori completi. La scheda pipeline dichiara quattro capitoli e mantiene separati i verticali TSLB e TSRM. I file editoriali non sono ancora presenti e devono attraversare gli step 08-12.
