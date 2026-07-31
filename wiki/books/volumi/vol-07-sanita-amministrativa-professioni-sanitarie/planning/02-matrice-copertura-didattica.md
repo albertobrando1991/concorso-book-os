@@ -6,7 +6,7 @@ status: draft
 domain: "concorsi pubblici italiani"
 source_refs: ["sources/vol-07-dossier-fonti-materie-sanita-2026-07-28", "sources/bandi-rappresentativi-m-sa02-professioni-sanitarie-2025-2026", "reviews/pipeline/VOL-07/06-audit-fonti-m-sa02", "sources/programmi-screening-oncologici-dati-passi-iss", "sources/premal-definizioni-caso-risposta-segnale-epidemiologico"]
 book_refs: ["vol-07-sanita-amministrativa-professioni-sanitarie"]
-updated_at: 2026-07-31T22:00:00+02:00
+updated_at: 2026-07-31T23:45:00+02:00
 review_required: true
 canonical: true
 tags: ["vol-07", "coverage-map", "didattica"]
@@ -42,7 +42,7 @@ Stato iniziale delle materie richieste. `mancante` significa che il tema è nel 
 | SA02-02 | M-SA02 | Clinica generale ed emergenza | Cap. 05/verticali clinici | parziale | triage e sicurezza del parto acquisiti; deterioramento, rianimazione ed emergenze da completare |
 | SA02-03 | M-SA02 | Prevenzione e presa in carico | Cap. 06/verticali | completo | Quadro nazionale AGENAS, modello regionale toscano e testo reale del capitolo 06 coprono prevenzione, educazione, cronicità, territorio, PAI, PDTA, COT, transizioni e verticali; procedura aziendale e review multiprofessionale restano allo step 15 |
 | SA02-04 | M-SA02 | Discipline professionali specifiche | Cap. 03/appendici profili | parziale | profili/codici e campioni tecnici per ostetrica/fisioterapista acquisiti; verticali incompleti |
-| SA02-05 | M-SA02 | Evidenze scientifiche | Cap. 07/verticali | parziale | metodo, bias e linee guida campione acquisiti; manuale raw ed esercizi da validare |
+| SA02-05 | M-SA02 | Evidenze scientifiche | Cap. 07/verticali | completo | Manuale ISS-SNLG 2.0, fondamenti su disegni e bias e testo reale del capitolo 07 coprono PICO, ricerca, appraisal, GRADE, raccomandazioni, EtD, applicabilità e versionamento; validazione specialistica degli esercizi resta allo step 15 |
 | SA02-06 | M-SA02 | Igiene pubblica ed epidemiologia | Cap. 08 | parziale | acquisiti protocollo PASSI, programmi e dati 2021-2025, otto esercizi, PREMAL, definizioni di caso e scenario completo; resta la review epidemiologica indipendente e il controllo di versione prepubblicazione |
 | SA02-07 | M-SA02 | Controlli, verbalizzazione e sanzioni | Cap. 09/appendice TPALL | parziale | D.Lgs. 27/2021, AUA, CPP, alimenti, UE e ISPRA acquisiti; AIA applicata e metodi mancanti |
 | SA03-01 | M-SA03 | Disciplina clinica specialistica e casi clinici | Verticale V7-DIR-MED | mancante | SNLG + manuale specialistico |
