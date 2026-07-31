@@ -159,12 +159,14 @@ async function next(context: Context): Promise<CommandResult> {
   const prompt = `${contract}\n\n---\n\n${rendered}`
   const promptFile = await writePrompt(context, step, prompt)
   const snapshot = await writeSnapshot(context, spec, step, definition.gate)
+  const claimedStatus = definition.gate === "human-signoff" ? "awaiting-human" : "in-progress"
   const claimed = startStep(state, step.key, {
     owner: context.args.owner || detectOwner(),
     agent: detectAgent(),
     provider: context.args.provider || spec.writerProvider,
     now: context.now,
-    force: context.args.force
+    force: context.args.force,
+    status: claimedStatus
   })
   await saveRunState(context.projectRoot, claimed)
   const chapterNumber = chapterNumberOf(spec, step)
@@ -174,7 +176,7 @@ async function next(context: Context): Promise<CommandResult> {
     payload: {
       ok: true,
       command: "next",
-      step: { ...step, status: "in-progress" },
+      step: { ...step, status: claimedStatus },
       definition,
       promptFile: path.relative(context.projectRoot, promptFile),
       gate: definition.gate ?? null,

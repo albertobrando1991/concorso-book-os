@@ -26,6 +26,7 @@ export interface StartStepInput {
   provider?: string
   now: string
   force?: boolean
+  status?: Extract<StepStatus, "in-progress" | "awaiting-human">
 }
 
 export interface CompleteStepInput {
@@ -66,7 +67,7 @@ export function startStep(state: RunState, key: string, input: StartStepInput): 
     state,
     {
       ...step,
-      status: "in-progress",
+      status: input.status ?? "in-progress",
       owner: input.owner,
       agent: input.agent,
       provider: input.provider,
