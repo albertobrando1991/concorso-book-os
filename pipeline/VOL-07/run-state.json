@@ -3,7 +3,7 @@
   "specPath": "books/volumi/vol-07-sanita-amministrativa-professioni-sanitarie/planning/00-scheda-pipeline.md",
   "specHash": "sha256:3f83dba1066baf87ea831eadd3ce1153130dc013a37ccaa7a63681bd4038998e",
   "createdAt": "2026-07-28T12:27:05.417Z",
-  "updatedAt": "2026-07-31T15:40:55.317Z",
+  "updatedAt": "2026-07-31T15:58:49.265Z",
   "steps": [
     {
       "key": "00:VOL-07",
@@ -2567,9 +2567,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-sa03-dirigenza-medica-sanitaria/chapters/06-dirigenza-medica-discipline-casi.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-31T15:54:17.205Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-sa03-dirigenza-medica-sanitaria/chapters/06-dirigenza-medica-discipline-casi.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano completo verificato manualmente in wiki/reviews/pipeline/VOL-07/08-piano-capitolo-m-sa03-06.md: nuclei, struttura, fonti, casi, budget, limiti e review documentati."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-07-31T15:55:08.259Z"
     },
     {
       "key": "09:moduli/m-sa03-dirigenza-medica-sanitaria/chapters/06-dirigenza-medica-discipline-casi.md",
@@ -2577,9 +2600,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-sa03-dirigenza-medica-sanitaria/chapters/06-dirigenza-medica-discipline-casi.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-31T15:55:11.173Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-31T15:57:08.822Z"
     },
     {
       "key": "10:moduli/m-sa03-dirigenza-medica-sanitaria/chapters/06-dirigenza-medica-discipline-casi.md",
@@ -2587,9 +2620,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-sa03-dirigenza-medica-sanitaria/chapters/06-dirigenza-medica-discipline-casi.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-31T15:57:11.560Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-31T15:58:05.544Z"
     },
     {
       "key": "11:moduli/m-sa03-dirigenza-medica-sanitaria/chapters/06-dirigenza-medica-discipline-casi.md",
@@ -2597,9 +2640,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-sa03-dirigenza-medica-sanitaria/chapters/06-dirigenza-medica-discipline-casi.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-31T15:57:40.340Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-31T15:58:24.359Z"
     },
     {
       "key": "12:moduli/m-sa03-dirigenza-medica-sanitaria/chapters/06-dirigenza-medica-discipline-casi.md",
@@ -2607,9 +2660,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-sa03-dirigenza-medica-sanitaria/chapters/06-dirigenza-medica-discipline-casi.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-31T15:58:26.996Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-31T15:58:49.265Z"
     },
     {
       "key": "08:moduli/m-sa03-dirigenza-medica-sanitaria/chapters/07-dirigenza-sanitaria-non-medica-discipline-casi.md",

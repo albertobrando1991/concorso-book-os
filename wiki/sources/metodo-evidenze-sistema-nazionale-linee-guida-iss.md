@@ -7,7 +7,7 @@ domain: "concorsi pubblici italiani"
 topics: ["evidence based practice", "linee guida", "GRADE", "appropriatezza"]
 entities: ["Istituto Superiore di Sanità", "Sistema Nazionale Linee Guida"]
 source_refs: []
-book_refs: ["m-sa02-professioni-sanitarie", "vol-07-sanita-amministrativa-professioni-sanitarie"]
+book_refs: ["m-sa02-professioni-sanitarie", "m-sa03-dirigenza-medica-sanitaria", "vol-07-sanita-amministrativa-professioni-sanitarie"]
 confidence: 0.97
 updated_at: 2026-07-29T16:55:00+02:00
 created_at: 2026-07-28T22:00:00+02:00

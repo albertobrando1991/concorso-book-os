@@ -9,7 +9,7 @@ entities: ["inPA", "Azienda sanitaria", "AGENAS"]
 source_refs: []
 book_refs: ["m-sa03-dirigenza-medica-sanitaria", "vol-07-sanita-amministrativa-professioni-sanitarie"]
 confidence: 0.94
-updated_at: 2026-07-29T17:35:00+02:00
+updated_at: 2026-07-31T20:10:00+02:00
 created_at: 2026-07-29T17:35:00+02:00
 review_required: true
 canonical: true
@@ -58,7 +58,7 @@ Nei bandi medici la scritta è tipicamente una relazione su caso clinico simulat
 
 - caso clinico o professionale strutturato, con priorità, ragionamento e limiti;
 - relazione o quesiti sintetici sulla disciplina;
-- descrizione scritta di tecnica/procedura, non esecutiva senza setting e validazione;
+- esecuzione o illustrazione di tecnica/manualità secondo disciplina, bando e modalità della commissione, con obbligatoria illustrazione schematica scritta nei concorsi disciplinati dal D.P.R. 483/1997;
 - piano di sanità pubblica, lettura epidemiologica, progetto territoriale o audit;
 - risposta orale su disciplina, organizzazione, sicurezza, appropriatezza e compiti dirigenziali;
 - discussione critica di linee guida, indicatori, rischio e qualità delle cure.
