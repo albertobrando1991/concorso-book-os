@@ -13,7 +13,7 @@ updated_at: 2026-08-01T00:00:30+02:00
 created_at: 2026-06-27T19:56:28+02:00
 review_required: true
 canonical: true
-tags: ["specialist-module","module-family-sanita","module-code-m-sa02","scaffold"]
+tags: ["specialist-module","module-family-sanita","module-code-m-sa02","revised-editorial-draft"]
 book_id: m-sa02-professioni-sanitarie
 module_code: M-SA02
 module_family: sanita
@@ -35,12 +35,12 @@ Modulo specialistico collegato a [[books/il-metodo-bando/index|Il Metodo BANDO]]
 - Codice modulo: M-SA02
 - Copertura di lavoro: infermieri, ostetriche, fisioterapisti, TPALL e un sub-verticale OSS distinto. Il cluster di sei bandi OSS conferma il perimetro; procedure e stazioni restano non esecutive fino alla review dello step 15.
 - Fase roadmap: 1
-- Stato: tutti i capitoli dichiarati, 01 e 03-10, hanno completato gli step 08-12 della fase C; le fasi D-F non sono attivate.
+- Stato: tutti i nove capitoli, 01 e 03-10, hanno completato gli step 08-12; la revisione complessiva del modulo agli step 13-14 è completata. Lo step 15 è correttamente in attesa delle review umane specialistiche.
 
 ## Confine editoriale
 Il modulo non sostituisce il libro principale. Parte dal nucleo comune del Metodo BANDO e aggiunge profili, prove, materie specialistiche, rischi, fonti e casi tipici della famiglia.
 
-Non deve promettere copertura totale di ogni bando o aggiornamento normativo automatico. Le sezioni normative e specialistiche richiedono source notes consolidate e review umana.
+Non deve promettere copertura totale di ogni bando o aggiornamento normativo automatico. Le sezioni normative e specialistiche richiedono fonti ufficiali verificate e review umana.
 
 ## Capitoli di lavoro
 - [[books/moduli/m-sa02-professioni-sanitarie/planning/00-piano-editoriale|Piano editoriale del modulo]]
@@ -112,4 +112,4 @@ Non deve promettere copertura totale di ogni bando o aggiornamento normativo aut
 - [[books/moduli/m-sa02-professioni-sanitarie/planning/07-piano-chiusura-review-esterne-m-sa02|Dossier coordinato delle cinque review esterne — da assegnare]]
 
 ## Prossimo passo
-Tutti i capitoli dichiarati, 01 e 03-10, hanno completato il ciclo editoriale della fase C, dagli step 08-12. Le cinque review `REV-OSS`, `REV-OST`, `REV-FIS`, `REV-EPI` e `REV-TPA` restano aperte e programmate allo step 15 prima del congelamento editoriale. Nessuna fase D-F è stata attivata: ogni avanzamento successivo resta affidato al CLI.
+Tutti i capitoli dichiarati, 01 e 03-10, hanno completato gli step 08-12 e il modulo ha completato gli step 13-14. Le cinque review `REV-OSS`, `REV-OST`, `REV-FIS`, `REV-EPI` e `REV-TPA` restano aperte allo step 15. Lo stato reale è `awaiting-human`: non si procede al congelamento editoriale senza gli esiti firmati.

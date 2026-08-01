@@ -2,26 +2,26 @@
 id: m-sa01-sanita-amministrativa
 type: specialist_module
 title: "M-SA01 — Sanità amministrativa"
-status: draft
+status: revised_draft
 domain: "concorsi pubblici italiani"
 topics: ["moduli specialistici","sanita","metodo bando"]
 entities: ["Metodo BANDO","Capitale Personale"]
 source_refs: ["sources/metodo-bando-progetto-editoriale.md","sources/struttura-madre-il-metodo-bando.md","sources/vol-07-dossier-fonti-materie-sanita-2026-07-28","sources/bandi-rappresentativi-m-sa01-sanita-amministrativa-2025-2026","sources/ssn-organizzazione-aziende-standard-lea","sources/ccnl-comparto-sanita-2022-2024","sources/documentazione-sanitaria-accesso-fse-dossier-privacy","sources/contabilita-budget-aziende-sanitarie","sources/procurement-farmaci-dispositivi-flussi-nsis"]
 book_refs: ["il-metodo-bando","moduli-specialistici","vol-07-sanita-amministrativa-professioni-sanitarie"]
-confidence: 0.55
-updated_at: 2026-07-30T00:00:00+02:00
+confidence: 0.88
+updated_at: 2026-08-01T10:00:00+02:00
 created_at: 2026-06-27T19:56:28+02:00
 review_required: true
 canonical: true
-tags: ["specialist-module","module-family-sanita","module-code-m-sa01","writing-in-progress"]
+tags: ["specialist-module","module-family-sanita","module-code-m-sa01","revised-editorial-draft"]
 book_id: m-sa01-sanita-amministrativa
 module_code: M-SA01
 module_family: sanita
 module_family_title: "Sanità"
-module_status: writing-in-progress
+module_status: phase-c-complete
 roadmap_phase: "2"
 companion_to: il-metodo-bando
-draft_stage: chapter-writing-in-progress
+draft_stage: revised-editorial-draft
 last_compiled_from: ["wiki/books/moduli/architettura-moduli-specialistici.md"]
 ---
 
@@ -35,12 +35,12 @@ Modulo specialistico collegato a [[books/il-metodo-bando/index|Il Metodo BANDO]]
 - Codice modulo: M-SA01
 - Copertura: Aziende sanitarie, ospedali, profili amministrativi e gestione documentale sanitaria.
 - Fase roadmap: 2
-- Stato: step 07 superato; i capitoli 04, 05, 06, 09 e 10 hanno completato gli step 08-12. Nessun capitolo è congelato o pubblicabile e le review dello step 15 restano aperte.
+- Stato: tutti i cinque capitoli hanno completato gli step 08-12. La revisione complessiva del modulo, prevista agli step 13-14, resta da eseguire; nessun capitolo è congelato o pubblicabile.
 
 ## Confine editoriale
 Il modulo non sostituisce il libro principale. Parte dal nucleo comune del Metodo BANDO e aggiunge profili, prove, materie specialistiche, rischi, fonti e casi tipici della famiglia.
 
-Non deve promettere copertura totale di ogni bando o aggiornamento normativo automatico. Le sezioni normative e specialistiche richiedono source notes consolidate e review umana.
+Non deve promettere copertura totale di ogni bando o aggiornamento normativo automatico. Le sezioni normative e specialistiche richiedono fonti ufficiali verificate e review umana.
 
 ## Capitoli di lavoro
 - [[books/moduli/m-sa01-sanita-amministrativa/planning/00-piano-editoriale|Piano editoriale del modulo]]
@@ -71,4 +71,4 @@ Non deve promettere copertura totale di ogni bando o aggiornamento normativo aut
 - Bandi, norme e portali ufficiali sono registrati nei rispettivi manifest; manuali o banche dati aggiuntivi entrano solo dopo schedatura.
 
 ## Prossimo passo
-Lo step 07 è superato: 8 nuclei su 8 dispongono di fonti, teoria, applicazione, output e verifica. I cinque target della fase C hanno completato gli step 08-12. Le review indipendenti previste prima del congelamento restano aperte.
+Eseguire gli step 13-14 sull'intero modulo, quindi predisporre il pacchetto dello step 15 per la review umana specialistica. Il congelamento editoriale resta successivo all'esito umano.
