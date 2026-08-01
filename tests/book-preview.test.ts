@@ -414,6 +414,10 @@ describe("book preview assets", () => {
           "",
           "Questo capitolo contiene testo sufficiente per essere incluso nell'indice del modulo.",
           "",
+          "## N-FC01-01-01 · Competenze e struttura",
+          "",
+          "Il nucleo in formato 2 deve comparire nell'indice analitico anche quando il front matter conserva il dettaglio chapters-only.",
+          "",
           "## Sottosezione da non mostrare",
           "",
           "Questa intestazione non deve produrre una riga 1.1 nell'indice del modulo."
@@ -438,8 +442,13 @@ describe("book preview assets", () => {
       const index = data.chapters.find((chapter) => chapter.frontMatterLayout === "analytical-index")
       const chapterLine = index?.blocks.find((block) => block.type === "index-chapter" && block.text === "Lavorare nei Ministeri")
       const appendixLine = index?.blocks.find((block) => block.type === "index-chapter" && block.text === "Appendici operative")
+      const nucleusLine = index?.blocks.find((block) => block.type === "index-row" && block.text === "Competenze e struttura")
+      const nucleusHeading = data.chapters.find((chapter) => chapter.title === "Lavorare nei Ministeri")
+        ?.blocks.find((block) => block.type === "heading" && block.text === "Competenze e struttura")
 
-      expect(index?.blocks.some((block) => block.type === "index-row")).toBe(false)
+      expect(nucleusLine?.number).toBe("1.1")
+      expect(nucleusHeading?.number).toBe("1.1")
+      expect(index?.blocks.some((block) => block.type === "index-row" && block.text === "Sottosezione da non mostrare")).toBe(false)
       expect(chapterLine?.number).toBe("Capitolo 1")
       expect(chapterLine?.path).toBe("books/moduli/m-fc01-ministeri/chapters/01-lavorare-ministeri.md")
       expect(appendixLine?.number).toBe("Appendice A")

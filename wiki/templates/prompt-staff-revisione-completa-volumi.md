@@ -283,7 +283,7 @@ Leggi:
 - contenuti del VOL-01 ai quali è consentito rinviare.
 
 Elenca:
-- nuclei assegnati;
+- nuclei assegnati con Nucleo ID stabile;
 - nuclei già completi;
 - nuclei da sviluppare;
 - sezioni da conservare;
@@ -292,7 +292,7 @@ Elenca:
 - fonti da usare;
 - review umane richieste.
 
-Proponi la struttura H1/H2/H3 e il budget orientativo delle sezioni per il formato KDP.
+Proponi la struttura H1/H2/H3, 5-7 nuclei per blocco di verifica e il budget parole/quiz/casi previsto dalla scheda pipeline.
 Non modificare ancora il capitolo.
 ```
 
@@ -319,7 +319,10 @@ Il capitolo deve sviluppare, quando pertinenti:
 - domanda-trappola;
 - errore tipico;
 - mini-esercizio o checklist;
-- riferimenti normativi e professionali essenziali, espressi in forma leggibile.
+- riferimenti normativi e professionali essenziali, espressi in forma leggibile;
+- un blocco ▣ Verifica ogni 5-7 nuclei;
+- almeno 6 quiz con risposta commentata e un caso ragionato;
+- note di review in un report separato, mai nel testo del lettore.
 
 Vincoli:
 - un solo H1;
@@ -333,18 +336,36 @@ Vincoli:
 - nessuna formula che chieda allo studente di consultare source note, fonti consolidate, corpus interni, wiki o report;
 - le fonti consolidate sono input editoriali: nel capitolo devi sviluppare direttamente definizioni, quadro, elementi, distinzioni, conseguenze, esempi e uso concorsuale;
 - ogni promessa formativa deve avere spiegazione o rinvio preciso.
+- ogni nucleo usa l'heading `N-<MODULO>-<CAP>-<NN> · <titolo>` e sviluppa teoria essenziale, schema/tabella e applicazione al profilo;
+- almeno 5 nuclei, 600 parole per nucleo e 3.000 parole per capitolo, salvo soglie più alte nella scheda;
+- i dati clinici o tecnici operativi usano il box `Dato operativo` con fonte ufficiale, ambito, versione, data di verifica e revisore; niente dosi, energie o sequenze eseguibili.
 
-Aggiorna frontmatter, last_compiled_from, source_refs, draft_stage e review_required in modo veritiero. Registra gli eventuali punti aperti nell'evidenza o nel report di review della pipeline, non come parte della lezione destinata allo studente.
+Aggiorna frontmatter, `format_version: 2`, `dati_operativi`, last_compiled_from, source_refs, draft_stage e review_required in modo veritiero. Registra gli eventuali punti aperti nell'evidenza o nel report di review della pipeline, non come parte della lezione destinata allo studente.
 ```
 
 Gate: testo editoriale effettivo, autosufficiente per lo studente, tracciabile nel frontmatter e completo rispetto al piano.
+
+## Prompt 09-R — Retrofit del capitolo legacy
+
+```text
+Esegui il retrofit di [CHAPTER_FILE] senza introdurre claim nuovi.
+
+1. Archivia Scheda di lavoro e Note di review editoriale in wiki/reviews/retrofit/.
+2. Appiattisci il contenitore Testo editoriale senza perdere contenuto destinato al lettore.
+3. Proponi e fai approvare la mappatura heading → Nucleo ID.
+4. Raggruppa l'apparato esistente nei blocchi ▣ Verifica e deriva quiz solo dal testo consolidato.
+5. Compila la checklist dimensionale: ogni lacuna sostanziale scala il nucleo da livello A a livello B.
+6. Imposta format_version: 2 soltanto quando gate quantitativo e checklist qualitativa sono entrambi conformi.
+```
+
+Gate: nessuna perdita di contenuto; ogni promozione al formato 2 è provata dalla matrice e dal gate.
 
 ## Prompt 10 — Controllo di copertura del capitolo
 
 ```text
 Confronta [CHAPTER_FILE] con tutte le righe della matrice che gli sono assegnate.
 
-Per ogni nucleo verifica nel testo reale:
+Per ogni Nucleo ID compila nella matrice la checklist dimensionale con `✓` e evidenza, `✗` e motivo oppure `n/a`:
 - definizione;
 - funzione;
 - inquadramento;
@@ -359,7 +380,7 @@ Per ogni nucleo verifica nel testo reale:
 
 Non considerare casi, quiz o checklist sostitutivi della teoria.
 Non considerare un wikilink, una source note o un rinvio a materiale interno come prova di copertura.
-Classifica ogni nucleo e cita heading o passaggio che prova la copertura.
+Classifica ogni nucleo e cita heading o passaggio che prova la copertura. Una dimensione applicabile vuota o negativa produce `dimensione-mancante`.
 
 Applica le integrazioni necessarie soltanto se supportate dal wiki consolidato.
 Aggiorna la matrice con lo stato reale e produci il delta:
@@ -514,6 +535,8 @@ Non chiedere una lettura generica. Estrai una checklist precisa con:
 Per ogni voce indica:
 file e posizione | affermazione | fonte consolidata | domanda al revisore | esito | eventuale correzione.
 
+Il contratto dello step aggiunge automaticamente una riga per ogni box `Dato operativo` rilevato nei capitoli. Queste righe sono obbligatorie: non eliminarle, completa l'esito con attribuzione al revisore indicato nel box.
+
 Integra soltanto gli esiti firmati o chiaramente attribuiti al revisore umano.
 Registra data, perimetro e limiti della review.
 ```
@@ -607,7 +630,8 @@ Applica a [VOLUME_CODE] il master editoriale canonico:
 - margini speculari e gutter compatibili con il conteggio finale;
 - pagine singole numerate;
 - front matter canonico;
-- indice dei moduli chapters-only;
+- indice analitico con capitoli e numeri decimali dei nuclei (es. 5.4), derivati dai Nucleo ID;
+- blocchi ▣ Verifica visivamente distinti, leggibili in bianco e nero e senza spezzature ambigue;
 - nessun titolo orfano;
 - nessun blocco oltre i margini.
 

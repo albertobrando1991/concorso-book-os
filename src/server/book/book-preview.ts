@@ -682,12 +682,12 @@ function buildAnalyticalIndexBlocks(
       pageNumber: startPage
     })
 
-    if (!options.includeHeadings) continue
-
     headings.forEach((heading, index) => {
+      if (!options.includeHeadings && !heading.number) return
+
       blocks.push({
         type: "index-row",
-        number: chapterNumber ? `${chapterNumber}.${index + 1}` : `${index + 1}`,
+        number: heading.number || (chapterNumber ? `${chapterNumber}.${index + 1}` : `${index + 1}`),
         text: stripLeadingHeadingNumber(heading.text),
         pageNumber: heading.pageNumber
       })
@@ -715,7 +715,7 @@ function buildChapterPageMap(chapters: BookStudioChapter[]) {
 }
 
 function estimateChapterPages(chapter: BookStudioChapter, startPage: number) {
-  const headings: Array<{ text: string; pageNumber: number }> = []
+  const headings: Array<{ text: string; number?: string; pageNumber: number }> = []
   let pageOffset = 0
   let used = INDEX_FIRST_PAGE_HEADER_COST
 
@@ -733,6 +733,7 @@ function estimateChapterPages(chapter: BookStudioChapter, startPage: number) {
       if (isIndexHeading(text, chapter.title)) {
         headings.push({
           text,
+          ...(block.number ? { number: block.number } : {}),
           pageNumber: startPage + pageOffset
         })
       }
@@ -877,6 +878,18 @@ function indexPartForOutline(value: string, bookId: string) {
 
 function stripLeadingHeadingNumber(value: string) {
   return value.replace(/^\d+\.\s+/, "").trim()
+}
+
+function parseNucleusHeading(value: string) {
+  const match = /^(N-[A-Z]{2}\d{2}-(\d{2})-(\d{2}))\s+·\s+(.+)$/.exec(value)
+
+  if (!match) return null
+
+  return {
+    id: match[1],
+    number: `${Number.parseInt(match[2], 10)}.${Number.parseInt(match[3], 10)}`,
+    title: match[4].trim()
+  }
 }
 
 function cleanIndexText(value: string) {
@@ -1166,10 +1179,13 @@ function markdownToBlocks(markdown: string, sourcePath: string): MarkdownBlock[]
       flushParagraph()
       flushList()
       flushTable()
+      const text = cleanInlineText(heading[2])
+      const nucleus = parseNucleusHeading(text)
       blocks.push({
         type: "heading",
         level: Math.min(heading[1].length, 4),
-        text: cleanInlineText(heading[2])
+        text: nucleus?.title || text,
+        ...(nucleus ? { number: nucleus.number } : {})
       })
       continue
     }

@@ -47,12 +47,23 @@ describe("step registry", () => {
   it("attaches a gate to every automated step of phases C, D and F", () => {
     expect(STEP_REGISTRY.filter((step) => ["C", "D", "F"].includes(step.phase)).every((step) => Boolean(step.gate))).toBe(true)
   })
+  it("runs coverage and didactic density together at step 10", () => {
+    expect(findStepDefinition("10")?.gate).toBe("didactic-density")
+  })
+  it("blocks volume opening when required human reviews are unassigned", () => {
+    expect(findStepDefinition("04")?.gate).toBe("human-review-assignment")
+  })
 })
 
 describe("prompt catalog", () => {
   it("extracts the twenty-five prompt bodies from the canonical wiki template", () => {
     expect([...catalog.keys()]).toHaveLength(25)
     expect(catalog.get("09")?.title).toContain("Scrittura")
+  })
+  it("keeps Prompt 09-R as retrofit documentation outside the executable catalog", () => {
+    const local = loadPromptCatalog("## Prompt 09 — Scrittura\n\n```text\nCorpo.\n```\n\n## Prompt 09-R — Retrofit\n\n```text\nRetrofit.\n```")
+    expect([...local.keys()]).toEqual(["09"])
+    expect(local.get("09")?.title).toBe("Scrittura")
   })
   it("keeps the prompt body without the surrounding code fence", () => {
     const prompt = catalog.get("10")

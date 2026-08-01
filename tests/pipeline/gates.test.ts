@@ -1,9 +1,15 @@
-import { readFileSync } from "node:fs"
+import { mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
+import { tmpdir } from "node:os"
+import { join } from "node:path"
 import { describe, expect, it } from "vitest"
 import { runChapterLintGate } from "../../src/pipeline/gates/chapter-lint-gate"
 import { runCitationGuard } from "../../src/pipeline/gates/citation-guard"
 import { runCoverageGate } from "../../src/pipeline/gates/coverage-gate"
+import { runDidacticDensityGate } from "../../src/pipeline/gates/didactic-density-gate"
 import { runReviewReportGate } from "../../src/pipeline/gates/review-report-gate"
+import { runGate } from "../../src/pipeline/gates"
+import { runVerifiedReferralGate } from "../../src/pipeline/gates/verified-referral-gate"
+import { runHumanReviewAssignmentGate } from "../../src/pipeline/gates/human-review-assignment-gate"
 
 const codes = (result: { blockers: { code: string }[] }) => result.blockers.map((issue) => issue.code)
 
@@ -204,6 +210,15 @@ Spiega la distinzione in cinque righe.`
     expect(result.passed).toBe(true)
     expect(result.warnings.map((issue) => issue.code)).toContain("missing-updated-at")
   })
+  it("requires format_version 2 when the pipeline is completing step 09", () => {
+    const content = `---\n${defaults}\n---\n\n# Titolo\n\nTesto.`
+    const result = runChapterLintGate({ content, chapterPath: "chapters/01.md", requireFormatVersion2: true })
+
+    expect(codes(result)).toContain("missing-format-version")
+    expect(
+      runChapterLintGate({ content: content.replace("---\n", "---\nformat_version: 2\n"), chapterPath: "chapters/01.md", requireFormatVersion2: true }).passed
+    ).toBe(true)
+  })
 })
 
 describe("review report gate", () => {
@@ -326,5 +341,188 @@ describe("coverage gate", () => {
   })
   it("blocks an unreadable matrix", () => {
     expect(codes(runCoverageGate({ matrix: "# Nessuna tabella", matrixPath: "m.md" }))).toContain("missing-matrix")
+  })
+  it("selects v2 rows by the chapter segment of Nucleo ID instead of free-form location prose", () => {
+    const v2 = `| Nucleo ID | Famiglia/profilo | Materia | Concetto/sotto-concetti | Frequenza/peso | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa | Destinazione rinvio |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FC02-04-01 | M-FC02 | Tributi | Imposta | alta | [[sources/y]] | testo libero senza numero capitolo | definizione | caso | quiz | Q:6 C:1 E:1 | parziale | review | |`
+
+    expect(codes(runCoverageGate({ matrix: v2, matrixPath: "m.md", chapterNumber: "04" }))).toContain("blocking-status")
+    expect(codes(runCoverageGate({ matrix: v2, matrixPath: "m.md", chapterNumber: "03" }))).toContain("unassigned-chapter")
+  })
+})
+
+describe("didactic density gate", () => {
+  const words = (count: number, token = "parola") => Array.from({ length: count }, () => token).join(" ")
+  const nucleus = (id: string, count = 600) => `## ${id} · Titolo del nucleo\n\n${words(count)}`
+  const quiz = Array.from({ length: 6 }, (_, index) => `### Quiz ${index + 1}\n\nRisposta corretta: A. Commento.`).join("\n\n")
+  const verification = `## ▣ Verifica 01.A\n\n${quiz}\n\n### Caso ragionato\n\nApplicazione commentata.`
+  const body = (nuclei: string[], tail = verification) => `# Capitolo\n\n${nuclei.join("\n\n")}\n\n${tail}`
+  const v2 = (chapterBody: string) =>
+    runDidacticDensityGate({
+      content: `---\nformat_version: 2\n---\n\n${chapterBody}`,
+      chapterPath: "chapters/01.md"
+    })
+
+  it("accepts a format v2 chapter at every minimum threshold", () => {
+    const result = v2(body(Array.from({ length: 5 }, (_, index) => nucleus(`N-FC02-01-0${index + 1}`))))
+
+    expect(result).toMatchObject({ passed: true, blockers: [] })
+  })
+  it("turns every deficit into one retrofit warning for legacy chapters", () => {
+    const result = runDidacticDensityGate({ content: "# Capitolo\n\nBreve.", chapterPath: "chapters/legacy.md" })
+
+    expect(result).toMatchObject({ passed: true, blockers: [] })
+    expect(result.warnings.map((issue) => issue.code)).toContain("retrofit-dovuto")
+  })
+  it("blocks fewer than five valid nuclei", () => {
+    expect(codes(v2(body([nucleus("N-FC02-01-01")])))).toContain("nuclei-insufficienti")
+  })
+  it("blocks a heading that starts with N- but has a malformed ID", () => {
+    const nuclei = [nucleus("N-FC02-01-01"), nucleus("N-FC02-01-02"), nucleus("N-FC02-01-03"), nucleus("N-FC02-01-04"), nucleus("N-FC02-1-5")]
+
+    expect(codes(v2(body(nuclei)))).toContain("nucleo-id-malformato")
+  })
+  it("blocks a nucleus below 600 words", () => {
+    const nuclei = Array.from({ length: 5 }, (_, index) => nucleus(`N-FC02-01-0${index + 1}`, index === 2 ? 599 : 600))
+
+    expect(codes(v2(body(nuclei)))).toContain("nucleo-troppo-breve")
+  })
+  it("blocks a chapter without a verification heading", () => {
+    const nuclei = Array.from({ length: 5 }, (_, index) => nucleus(`N-FC02-01-0${index + 1}`))
+
+    expect(codes(v2(body(nuclei, `${quiz}\n\nCaso guidato`)))).toContain("verifica-assente")
+  })
+  it("blocks more than seven consecutive nuclei without an interposed verification", () => {
+    const nuclei = Array.from({ length: 8 }, (_, index) => nucleus(`N-FC02-01-0${index + 1}`))
+
+    expect(codes(v2(body(nuclei)))).toContain("verifica-troppo-distante")
+  })
+  it("blocks fewer than six commented quiz answers", () => {
+    const nuclei = Array.from({ length: 5 }, (_, index) => nucleus(`N-FC02-01-0${index + 1}`))
+
+    expect(codes(v2(body(nuclei, "## ▣ Verifica 01.A\n\nRisposta corretta: A.\n\nCaso guidato")))).toContain("quiz-insufficienti")
+  })
+  it("blocks a chapter without a guided or reasoned case", () => {
+    const nuclei = Array.from({ length: 5 }, (_, index) => nucleus(`N-FC02-01-0${index + 1}`))
+
+    expect(codes(v2(body(nuclei, `## ▣ Verifica 01.A\n\n${quiz}`)))).toContain("caso-assente")
+  })
+  it("blocks a chapter below 3000 body words even when structural counts pass", () => {
+    const nuclei = Array.from({ length: 5 }, (_, index) => nucleus(`N-FC02-01-0${index + 1}`, 100))
+
+    expect(codes(v2(body(nuclei)))).toContain("capitolo-troppo-breve")
+  })
+  it("ignores nucleus and verification headings inside code fences", () => {
+    const fenced = `# Capitolo\n\n\`\`\`markdown\n## N-FC02-01-01 · Falso\n## ▣ Verifica 01.A\n\`\`\`\n\n${words(3000)}\n\n${quiz}\n\nCaso guidato`
+
+    expect(codes(v2(fenced))).toEqual(expect.arrayContaining(["nuclei-insufficienti", "verifica-assente"]))
+  })
+})
+
+describe("didactic density pipeline wiring", () => {
+  it("combines matrix coverage blockers with chapter density warnings at step 10", async () => {
+    const projectRoot = mkdtempSync(join(tmpdir(), "didactic-density-wiring-"))
+    const wikiRoot = join(projectRoot, "wiki")
+    const moduleId = "moduli/m-test"
+    const chapterTarget = `${moduleId}/chapters/01.md`
+    const matrixPath = join(wikiRoot, "books", moduleId, "planning", "02-matrice-copertura-didattica.md")
+    const chapterPath = join(wikiRoot, "books", chapterTarget)
+    mkdirSync(join(wikiRoot, "books", moduleId, "planning"), { recursive: true })
+    mkdirSync(join(wikiRoot, "books", moduleId, "chapters"), { recursive: true })
+    writeFileSync(chapterPath, "# Capitolo legacy\n\nBreve.")
+    writeFileSync(
+      matrixPath,
+      `| Famiglia/profilo | Materia | Concetto/sotto-concetti | Frequenza/peso | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa | Destinazione rinvio |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| M-TEST | Materia | Nucleo | alta | [[sources/x]] | cap. 1 | cenno | caso | quiz | domanda | parziale | review | |`
+    )
+
+    try {
+      const module = {
+        code: "M-TEST",
+        moduleId,
+        priority: 1,
+        phases: ["C"],
+        chapters: [{ number: "01", file: "chapters/01.md", matrix: "planning/02-matrice-copertura-didattica.md", expectedStatus: "completo", notes: "" }],
+        chaptersSource: "declared" as const,
+        line: 1,
+        chapterLines: [1]
+      }
+      const result = await runGate("didactic-density", {
+        projectRoot,
+        wikiRoot,
+        module,
+        chapterNumber: "01",
+        spec: {
+          specPath: "spec.md",
+          volumeCode: "VOL-99",
+          volumeTitle: "Test",
+          cutOffDate: "2026-08-01",
+          responsabileNormativo: "Test",
+          responsabileEditoriale: "Test",
+          writerProvider: "codex",
+          phases: ["C"],
+          modules: [module],
+          humanReviews: []
+        },
+        step: { key: "10:test", id: "10", phase: "C", scope: "chapter", target: chapterTarget, status: "in-progress", attempts: 0, evidence: [] }
+      })
+
+      expect(codes(result)).toContain("blocking-status")
+      expect(result.warnings.map((issue) => issue.code)).toContain("retrofit-dovuto")
+    } finally {
+      rmSync(projectRoot, { recursive: true, force: true })
+    }
+  })
+})
+
+describe("verified VOL-01 referrals", () => {
+  it("accepts an existing VOL-01 file and exact heading", async () => {
+    const root = mkdtempSync(join(tmpdir(), "verified-referral-"))
+    const target = join(root, "books", "il-metodo-bando", "chapters", "accesso.md")
+    mkdirSync(join(root, "books", "il-metodo-bando", "chapters"), { recursive: true })
+    writeFileSync(target, "# Accesso\n\n## Accesso documentale\n\nTesto.")
+
+    try {
+      const result = await runVerifiedReferralGate({
+        content: "[[books/il-metodo-bando/chapters/accesso#Accesso documentale]]",
+        wikiRoot: root,
+        chapterPath: "wiki/books/moduli/test.md"
+      })
+      expect(result).toMatchObject({ passed: true, blockers: [] })
+    } finally {
+      rmSync(root, { recursive: true, force: true })
+    }
+  })
+  it.each([
+    ["[[books/il-metodo-bando/chapters/assente#Accesso documentale]]", "file"],
+    ["[[books/il-metodo-bando/chapters/accesso#Heading inesistente]]", "heading"]
+  ])("blocks a VOL-01 referral with a missing %s", async (link) => {
+    const root = mkdtempSync(join(tmpdir(), "verified-referral-"))
+    const target = join(root, "books", "il-metodo-bando", "chapters", "accesso.md")
+    mkdirSync(join(root, "books", "il-metodo-bando", "chapters"), { recursive: true })
+    writeFileSync(target, "# Accesso\n\n## Accesso documentale\n\nTesto.")
+
+    try {
+      const result = await runVerifiedReferralGate({ content: link, wikiRoot: root, chapterPath: "chapter.md" })
+      expect(codes(result)).toContain("rinvio-non-risolto")
+    } finally {
+      rmSync(root, { recursive: true, force: true })
+    }
+  })
+})
+
+describe("human review assignment gate", () => {
+  it("blocks every required review without a named reviewer", () => {
+    const result = runHumanReviewAssignmentGate({
+      reviews: [
+        { code: "REV-INF", scope: "Infermieristica", required: true, reviewer: "", cost: "", timing: "", line: 10 },
+        { code: "REV-LEG", scope: "Normativa", required: false, reviewer: "", cost: "", timing: "", line: 11 }
+      ],
+      specPath: "planning/00-scheda-pipeline.md"
+    })
+
+    expect(codes(result)).toEqual(["review-non-assegnata"])
   })
 })

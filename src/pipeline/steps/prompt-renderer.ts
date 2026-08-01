@@ -10,7 +10,7 @@ export interface PromptDefinition {
 export type PromptCatalog = Map<string, PromptDefinition>
 export type PromptValues = Record<string, string>
 
-const PROMPT_HEADING = /^##\s+Prompt\s+(\d{2})\s*[—-]\s*(.+?)\s*$/
+const PROMPT_HEADING = /^##\s+Prompt\s+(\d{2})\s+[—-]\s+(.+?)\s*$/
 const FENCE = /^```/
 const GATE_LINE = /^Gate\s*:\s*(.+?)\s*$/i
 const PLACEHOLDER = /\[([A-Z][A-Z0-9_]{2,})\]/g

@@ -220,3 +220,20 @@ Regole non negoziabili:
 - la formula "il candidato deve sapere/riconoscere/distinguere" crea una promessa formativa verificabile;
 - la guida operativa non sostituisce la copertura teorica e la lunghezza non dimostra completezza;
 - il Revisore Editoriale Totale classifica i nuclei e tratta promessa non mantenuta, rinvio generico e autonomia insufficiente come errori gravi.
+
+## Formato editoriale a nuclei
+
+- Ogni capitolo nuovo o lavorato negli step 08-12 deve dichiarare `format_version: 2`.
+- Il formato 2 usa heading `N-<MODULO>-<CAP>-<NN> · <titolo>`, almeno 5 nuclei, 600 parole per nucleo e 3.000 per capitolo salvo soglie più alte dichiarate nella scheda pipeline.
+- Inserire un blocco `▣ Verifica` ogni 5-7 nuclei, con almeno 6 quiz commentati e un caso ragionato per capitolo.
+- La matrice assegna ogni riga a un `Nucleo ID`, usa `Q:n C:n E:n` e mantiene la checklist dimensionale con evidenza.
+- I capitoli legacy, con `format_version` assente o pari a 1, ricevono `retrofit-dovuto` senza blocker finché non rientrano nel ciclo 08-12.
+- Schede di lavoro e note di review sono artefatti interni da archiviare in `wiki/reviews/`, non testo per il lettore.
+
+## Dati operativi e rinvii
+
+- Un box `Dato operativo` è ammesso solo con fonte ufficiale consolidata, ambito, versione, data di verifica e tag del revisore umano.
+- Dichiarare gli ID dei box nel frontmatter `dati_operativi: []`; ogni ID entra nel pacchetto dello step 15.
+- Restano esclusi dosi/posologie, energie di defibrillazione, sequenze eseguibili e protocolli locali presentati come regola nazionale.
+- I rinvii a VOL-01 usano sempre `[[books/il-metodo-bando/chapters/<file>#<heading>]]`; un file o heading inesistente è bloccante.
+- Prima di aprire un volume, la scheda pipeline assegna nome, costo e tempo delle review umane richieste. Un ambito richiesto senza revisore blocca lo step 04.

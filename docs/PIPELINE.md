@@ -72,9 +72,11 @@ Ogni step registra `owner` e `agent`. `next` rifiuta uno step già in carico ad 
 
 | Gate | Step | Cosa verifica |
 | --- | --- | --- |
-| `coverage` | 07, 10 | righe della matrice collocate nel capitolo: nessuno stato `parziale`, `solo-nominato`, `mancante`; rinvii con destinazione precisa. Riusa `src/server/editorial/didactic-coverage.ts`, lo stesso motore di `npm run audit:coverage` |
-| `chapter-lint` | 09 | contratto studente autosufficiente: un solo H1, gerarchia senza salti, obiettivo, Mappa BANDO, teoria, applicazione, errore e verifica; nessun link interno di conoscenza o rinvio semantico che collochi o faccia erogare contenuti da source note, wiki, dashboard o report interni nel corpo; le menzioni enciclopediche o tecniche restano ammesse; frontmatter con `source_refs` e `draft_stage` |
-| `citation-guard` | 11 | `source_refs`, riferimenti normativi e rinvii didattici pubblicabili invariati rispetto allo snapshot pre-Humanizer; consente la rimozione dei link interni di conoscenza e blocca qualsiasi link interno rimasto o introdotto; segnala le norme *introdotte* dall'Humanizer |
+| `human-review-assignment` | 04 | ogni review umana richiesta dal perimetro ha un revisore nominativo assegnato nella scheda pipeline |
+| `coverage` | 07 e dentro il gate composito 10 | righe della matrice: nessuno stato `parziale`, `solo-nominato`, `mancante`; rinvii precisi, verifica strutturata e checklist dimensionale complete. Riusa `src/server/editorial/didactic-coverage.ts`, lo stesso motore di `npm run audit:coverage` |
+| `chapter-lint` | 09 | contratto studente autosufficiente: un solo H1, gerarchia senza salti, obiettivo, Mappa BANDO, teoria, applicazione, errore e verifica; nessuna dipendenza nel corpo da source note, wiki, dashboard o report interni; frontmatter veritiero con `source_refs`, `draft_stage` e `format_version: 2` |
+| `didactic-density` | 10 | gate composito: copertura per `Nucleo ID`, checklist dimensionale, almeno 5 nuclei da 600 parole, 3.000 parole, 6 quiz, 1 caso e verifiche ogni 5-7 nuclei; i capitoli legacy ricevono solo `retrofit-dovuto`; verifica anche i rinvii a VOL-01 fino all'heading |
+| `citation-guard` | 11 | `source_refs`, riferimenti normativi e rinvii didattici pubblicabili invariati rispetto allo snapshot pre-Humanizer; consente la rimozione dei link interni di conoscenza, blocca quelli rimasti o introdotti e segnala le norme *introdotte* dall'Humanizer |
 | `review-report` | 12, 13, 14, 21 | presenza della tabella errori del template fisso, zero errori gravi aperti; sullo step 21 anche il giudizio "Pubblicabile con correzioni minori" |
 
 Gli altri gate (`chapter-plan`, `human-signoff`, `text-freeze`, `page-fill`, `preflight`, `delivery`) rispondono `gate-not-implemented` e **bloccano**: vanno verificati a mano e chiusi con `--accept --note`. Nessun gate dichiara verde ciò che non ha verificato.
@@ -88,6 +90,12 @@ Sullo step 11 `next` salva anche lo snapshot pre-Humanizer in `artifacts/pipelin
 ### Contratto dello studente
 
 Il capitolo pubblicabile deve funzionare senza wiki, dashboard, source note, planning o report. Le fonti consolidate alimentano la scrittura e restano tracciate in `source_refs` e `last_compiled_from`; il corpo insegna direttamente la materia e presenta norme e documenti professionali con denominazioni leggibili. Lo step 12 applica il test dello studente: se togliendo frontmatter e strumenti interni manca una conoscenza assegnata dalla matrice, il capitolo non è pubblicabile.
+
+Sullo step 15 `next` estrae automaticamente ogni box `Dato operativo` dai capitoli del modulo e aggiunge al pacchetto una riga obbligatoria con ID, file e linea, revisore, fonte, versione e data di verifica. La riga resta da compilare con un esito attribuibile al revisore umano.
+
+Le soglie ordinarie sono dichiarate nel contratto degli step 09-10 e possono essere aumentate per capitolo con le colonne `Min parole` e `Min quiz` della scheda. La matrice di modulo è autoritativa; quella di volume si genera con `node scripts/aggregate-coverage-matrices.mjs`.
+
+Strumenti retrofit: `scripts/retrofit/audit-debito.mjs`, `pulisci-contratto.mjs`, `proponi-nuclei.mjs` ed `estrai-item.mjs`. L'audit campiona anche la checklist dimensionale; la proposta nuclei incrocia gli heading con la matrice. Solo `pulisci-contratto.mjs --write` modifica i capitoli.
 
 ## Regola dei blocchi
 

@@ -3044,3 +3044,11 @@
 - atoms:
   - mem-20260801095808-v18yqn | workflow | Completare automaticamente VOL-07 lasciando la revisione umana al termine e mantenendo i capitoli autosufficienti per candidati ai concorsi pubblici.
   - mem-20260801095808-1apsryw | result | Esito vol-07-automatic-completion: Completare automaticamente VOL-07 lasciando la revisione umana al termine e mantenendo i capitoli autosufficienti per candidati ai concorsi pubblici. -> VOL-07 ha completato scrittura e revisione automatica fino allo step 14 per 25 capitoli e quattro moduli.
+
+## 2026-08-01T15:14:54.563Z - pipeline-volume
+
+- conversation_id: conv-20260801151454-wy08bw
+- route: model-ibrido-nuclei-implementation
+- l0: l0/conv-20260801151454-wy08bw.md
+- atoms:
+  - mem-20260801151454-15h5f0r | result | Esito model-ibrido-nuclei-implementation: Implementare il piano approvato del modello editoriale ibrido a nuclei mantenendo compatibilita legacy e senza toccare i worktree attivi. -> Implementati parser matrice v2 condiviso, gate composito di densita e rinvii, soglie configurabili, review umane e dati operativi, indice decimale, tooling retrofit e documentazione.

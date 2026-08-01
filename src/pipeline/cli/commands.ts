@@ -12,6 +12,7 @@ import { loadRunState, saveRunState } from "../state/run-state-store"
 import type { GateResult, RunState, StepRecord } from "../state/types"
 import { buildStepDrafts } from "../steps/build-steps"
 import { loadPromptCatalog, PROMPT_TEMPLATE_PATH, renderPrompt, type PromptCatalog } from "../steps/prompt-renderer"
+import { extractOperationalDataReviewRows, renderOperationalDataReviewAppendix } from "../review/operational-data"
 import { requireStepDefinition } from "../steps/registry"
 import type { ParsedArgs } from "./args"
 
@@ -156,7 +157,8 @@ async function next(context: Context): Promise<CommandResult> {
   const catalog = await promptCatalog(context)
   const rendered = renderPrompt(catalog, step.id, promptValuesFor(spec, step))
   const contract = deliveryContract(context, spec, step, definition.gate)
-  const prompt = `${contract}\n\n---\n\n${rendered}`
+  const operationalData = await operationalDataAppendix(context, spec, step)
+  const prompt = `${contract}\n\n---\n\n${rendered}${operationalData ? `\n\n${operationalData}` : ""}`
   const promptFile = await writePrompt(context, step, prompt)
   const snapshot = await writeSnapshot(context, spec, step, definition.gate)
   const claimedStatus = definition.gate === "human-signoff" ? "awaiting-human" : "in-progress"
@@ -382,6 +384,12 @@ function chapterNumberOf(spec: VolumeSpec, step: StepRecord) {
   return module.chapters.find((chapter) => chapter.file === file)?.number
 }
 
+function chapterOf(spec: VolumeSpec, step: StepRecord) {
+  const module = moduleOf(spec, step)
+  const chapterNumber = chapterNumberOf(spec, step)
+  return chapterNumber ? module?.chapters.find((chapter) => chapter.number === chapterNumber) : undefined
+}
+
 function gateContext(spec: VolumeSpec, step: StepRecord, context: Context) {
   return {
     wikiRoot: context.wikiRoot,
@@ -432,6 +440,9 @@ async function writePrompt(context: Context, step: StepRecord, prompt: string) {
 
 function deliveryContract(context: Context, spec: VolumeSpec, step: StepRecord, gate: string | undefined) {
   const chapterNumber = chapterNumberOf(spec, step)
+  const chapter = chapterOf(spec, step)
+  const minWords = chapter?.minWords ?? 3000
+  const minQuizzes = chapter?.minQuizzes ?? 6
   const closing = `npm run pipeline -- complete ${spec.volumeCode} --step ${step.id}${moduleOf(spec, step) ? ` --module ${moduleOf(spec, step)?.code}` : ""}${chapterNumber ? ` --chapter ${chapterNumber}` : ""}`
 
   return [
@@ -451,8 +462,30 @@ function deliveryContract(context: Context, spec: VolumeSpec, step: StepRecord, 
         ]
       : []),
     ...(gate === "coverage" ? ["> Il gate valuta le righe della matrice collocate in questo capitolo: nessuno stato `parziale`, `solo-nominato` o `mancante`."] : []),
+    ...(["09", "10"].includes(step.id)
+      ? [
+          `> Formato 2: almeno 5 nuclei da 600 parole, ${minWords} parole nel capitolo, ${minQuizzes} quiz commentati, 1 caso ragionato e un blocco ▣ Verifica ogni 5-7 nuclei.`,
+          "> Lo step 10 combina copertura per Nucleo ID, checklist dimensionale e densità; i capitoli legacy ricevono solo `retrofit-dovuto`."
+        ]
+      : []),
     `> Al termine: \`${closing}\``
   ].join("\n")
+}
+
+async function operationalDataAppendix(context: Context, spec: VolumeSpec, step: StepRecord) {
+  if (step.id !== "15") return ""
+
+  const module = moduleOf(spec, step)
+  if (!module) return renderOperationalDataReviewAppendix([])
+
+  const rows = (await Promise.all(module.chapters.map(async (chapter) => {
+    const relative = `wiki/books/${module.moduleId}/${chapter.file}`
+    const absolute = path.join(context.wikiRoot, "books", ...module.moduleId.split("/"), ...chapter.file.split("/"))
+    const content = await readFile(absolute, "utf8").catch(() => "")
+    return content ? extractOperationalDataReviewRows(content, relative) : []
+  }))).flat()
+
+  return renderOperationalDataReviewAppendix(rows)
 }
 
 async function writeSnapshot(context: Context, spec: VolumeSpec, step: StepRecord, gate: string | undefined) {

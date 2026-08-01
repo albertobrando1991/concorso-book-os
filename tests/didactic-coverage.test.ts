@@ -8,6 +8,11 @@ import { auditCoverageRows, parseCoverageMatrix } from "../src/server/editorial/
 const header = `| Famiglia/profilo | Materia | Concetto/sotto-concetti | Frequenza/peso | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa | Destinazione rinvio |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |`
 const matrix = (row: string) => `${header}\n${row}`
+const v2Header = `| Nucleo ID | Famiglia/profilo | Materia | Concetto/sotto-concetti | Frequenza/peso | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa | Destinazione rinvio |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |`
+const dimensionsHeader = `| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Errore tipico | Verifica | Fonti |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |`
+const v2Matrix = (row: string, dimensions: string) => `${v2Header}\n${row}\n\n${dimensionsHeader}\n${dimensions}`
 const directories: string[] = []
 afterEach(() => directories.splice(0).forEach((directory) => rmSync(directory, { recursive: true, force: true })))
 
@@ -50,6 +55,40 @@ describe("didactic coverage matrix", () => {
     const rows = parseCoverageMatrix(matrix("| M-FC02 | Tributario | A \\| B; [[topics/imposta|imposta]]; `x | y` | alta | [[sources/imposta|fonte]] | cap. 4 | definizione | caso | quiz | domanda | completo | review | |"))
     expect(rows).toHaveLength(1)
     expect(rows[0]).toMatchObject({ concepts: "A | B; [[topics/imposta|imposta]]; `x | y`", sources: "[[sources/imposta|fonte]]", status: "completo" })
+  })
+  it("merges a dimensional checklist into the row identified by Nucleo ID", () => {
+    const rows = parseCoverageMatrix(v2Matrix(
+      "| N-FC02-04-01 | M-FC02 | Tributario | Imposta | alta | [[sources/imposta]] | Cap. 04 § N-FC02-04-01 | definizione | caso | quiz | Q:6 C:1 E:1 — verifica 04.A | completo | review | |",
+      "| N-FC02-04-01 | ✓ § Definizione | ✓ § Funzione | n/a | ✓ § Elementi | ✓ § Distinzioni | ✓ § Effetti | ✓ Caso 1 | ✓ box | ✓ Quiz 04.A-1 | ✓ [[sources/imposta]] |"
+    ))
+
+    expect(rows[0]).toMatchObject({
+      nucleusId: "N-FC02-04-01",
+      verificationCounts: { quizzes: 6, cases: 1, exercises: 1 },
+      dimensions: { definition: "✓ § Definizione", verification: "✓ Quiz 04.A-1" }
+    })
+    expect(auditCoverageRows(rows)).toEqual({ blockers: [], warnings: [], complete: 1 })
+  })
+  it("blocks a v2 complete row whose structured verification is missing", () => {
+    const rows = parseCoverageMatrix(v2Matrix(
+      "| N-FC02-04-01 | M-FC02 | Tributario | Imposta | alta | [[sources/imposta]] | Cap. 04 § N-FC02-04-01 | definizione | caso | quiz | domande generiche | completo | review | |",
+      "| N-FC02-04-01 | ✓ | ✓ | n/a | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |"
+    ))
+
+    expect(auditCoverageRows(rows).blockers).toEqual(expect.arrayContaining([expect.objectContaining({ code: "invalid-verification" })]))
+  })
+  it("blocks a missing or negative applicable dimension in a v2 complete row", () => {
+    const rows = parseCoverageMatrix(v2Matrix(
+      "| N-FC02-04-01 | M-FC02 | Tributario | Imposta | alta | [[sources/imposta]] | Cap. 04 § N-FC02-04-01 | definizione | caso | quiz | Q:6 C:1 E:1 | completo | review | |",
+      "| N-FC02-04-01 | ✓ | ✓ | | ✓ | ✗ manca il confronto | ✓ | ✓ | ✓ | ✓ | ✓ |"
+    ))
+
+    expect(auditCoverageRows(rows).blockers).toEqual(expect.arrayContaining([expect.objectContaining({ code: "dimensione-mancante" })]))
+  })
+  it("keeps legacy matrices valid without Nucleo ID or dimensional columns", () => {
+    const rows = parseCoverageMatrix(matrix("| M-FC02 | Tributario | Imposta | alta | [[sources/imposta]] | cap. 4 | definizione | caso | quiz | domanda | completo | review | |"))
+
+    expect(auditCoverageRows(rows)).toEqual({ blockers: [], warnings: [], complete: 1 })
   })
 })
 

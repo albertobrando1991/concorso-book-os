@@ -29,6 +29,15 @@ Copiare il file in `wiki/books/<percorso-del-volume>/planning/00-scheda-pipeline
 | `writer_provider` | no | `codex`, `claude`, `kimi`, `openai`, `hermes`, `local` | se assente vale `WRITER_PROVIDER` dell'ambiente |
 | `phases` | sì | elenco fra `A`-`G` | fasi da eseguire: `C` capitoli, `D` modulo, `F` finale |
 
+## Review umane — nomi, costi, tempi
+
+Compilare prima di includere la fase B. Ogni ambito richiesto deve avere un revisore nominativo; in alternativa il perimetro del volume va ridotto esplicitamente.
+
+| Codice | Ambito | Richiesta | Revisore | Costo | Tempo |
+| --- | --- | --- | --- | --- | --- |
+| REV-LEG | Normativa settoriale | sì | Nome Cognome | da definire | da definire |
+| REV-COD | Codici professionali | no | | | |
+
 ## Moduli
 
 Un modulo per riga, in ordine di priorità. La colonna `Fasi` è facoltativa: se vuota vale l'elenco dichiarato nel frontmatter.
@@ -42,9 +51,9 @@ Un modulo per riga, in ordine di priorità. La colonna `Fasi` è facoltativa: se
 
 Tabella facoltativa. Se assente, la pipeline deriva i capitoli dai file presenti in `<module id>/chapters/` e lo dichiara nel run-state come `chaptersSource: derived`. Dichiararli esplicitamente serve quando l'ordine di lavorazione non coincide con l'ordine alfabetico, quando la matrice di copertura non è quella predefinita o quando il file non esiste ancora. In una tabella dichiarata il titolo editoriale destinato al lettore è obbligatorio.
 
-| # | Titolo | File | Matrice | Stato atteso | Note |
-| --- | --- | --- | --- | --- | --- |
-| 01 | Titolo editoriale destinato al lettore | chapters/01-nome-file.md | planning/02-matrice-copertura-didattica.md | completo | |
+| # | Titolo | File | Matrice | Stato atteso | Min parole | Min quiz | Note |
+| --- | --- | --- | --- | --- | ---: | ---: | --- |
+| 01 | Titolo editoriale destinato al lettore | chapters/01-nome-file.md | planning/02-matrice-copertura-didattica.md | completo | 3000 | 6 | |
 
 ## Dopo la compilazione
 

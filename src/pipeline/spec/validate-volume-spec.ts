@@ -1,5 +1,5 @@
 import { WRITER_PROVIDERS } from "../../server/config"
-import { PHASE_IDS, type VolumeSpec, type VolumeSpecModule } from "./parse-volume-spec"
+import { PHASE_IDS, type VolumeSpec, type VolumeSpecChapter, type VolumeSpecModule } from "./parse-volume-spec"
 
 export interface SpecIssue {
   field: string
@@ -14,7 +14,26 @@ const CHAPTER_FILE = /^chapters\/[^/\\]+\.md$/
 const ISO_DATE = /^\d{4}-\d{2}-\d{2}$/
 
 export function validateVolumeSpec(spec: VolumeSpec): SpecIssue[] {
-  return [...validateScalars(spec), ...validateModules(spec)]
+  return [...validateScalars(spec), ...validateModules(spec), ...validateHumanReviews(spec)]
+}
+
+function validateHumanReviews(spec: VolumeSpec): SpecIssue[] {
+  const opensVolume = spec.phases.some((phase) => phase.toUpperCase() === "B")
+  if (!opensVolume) return []
+  if (!spec.humanReviews.length) {
+    return [{ field: "humanReviews", message: "La fase B richiede la tabella Review umane — nomi, costi, tempi." }]
+  }
+
+  return spec.humanReviews.flatMap((review, index) => {
+    const issues: SpecIssue[] = []
+    const prefix = `humanReviews[${index}]`
+    if (!review.code.trim()) issues.push({ field: `${prefix}.code`, message: "Codice review mancante.", line: review.line })
+    if (!review.scope.trim()) issues.push({ field: `${prefix}.scope`, message: "Ambito review mancante.", line: review.line })
+    if (review.required && !review.reviewer.trim()) {
+      issues.push({ field: `${prefix}.reviewer`, message: `La review richiesta ${review.code || review.scope} non ha un revisore assegnato.`, line: review.line })
+    }
+    return issues
+  })
 }
 
 function validateScalars(spec: VolumeSpec): SpecIssue[] {
@@ -124,7 +143,7 @@ function validateModule(module: VolumeSpecModule, prefix: string, volumePhases: 
 }
 
 function validateChapter(
-  chapter: VolumeSpecModule["chapters"][number],
+  chapter: VolumeSpecChapter,
   chaptersSource: VolumeSpecModule["chaptersSource"],
   prefix: string,
   line: number | undefined
@@ -137,8 +156,17 @@ function validateChapter(
     issues.push({ field: `${prefix}.title`, message: "Titolo capitolo mancante nella colonna Titolo.", line })
   }
 
-  if (!CHAPTER_FILE.test(file)) {
-    issues.push({ field: `${prefix}.file`, message: `Percorso capitolo non valido: "${file}" (atteso chapters/<nome>.md, relativo al modulo).`, line })
+  if (!CHAPTER_FILE.test(chapter.file)) {
+    issues.push({ field: `${prefix}.file`, message: `Percorso capitolo non valido: "${chapter.file}" (atteso chapters/<nome>.md, relativo al modulo).`, line })
+  }
+
+  for (const [field, value, label] of [
+    ["minWords", chapter.minWords, "Min parole"],
+    ["minQuizzes", chapter.minQuizzes, "Min quiz"]
+  ] as const) {
+    if (value !== undefined && (!Number.isInteger(value) || value <= 0)) {
+      issues.push({ field: `${prefix}.${field}`, message: `${label} deve essere un intero maggiore di zero.`, line })
+    }
   }
 
   return issues

@@ -72,7 +72,22 @@ describe("parseVolumeSpec", () => {
     expect(parse(markdown).modules[1].phases).toEqual(["C", "D", "F"])
   })
   it("returns empty values instead of throwing when the sheet is unusable", () => {
-    expect(parse("prosa senza frontmatter")).toMatchObject({ volumeCode: "", modules: [], phases: [] })
+    expect(parse("prosa senza frontmatter")).toMatchObject({ volumeCode: "", modules: [], phases: [], humanReviews: [] })
+  })
+  it("reads optional chapter-specific word and quiz thresholds", () => {
+    const markdown = complete
+      .replace("| # | File | Matrice | Stato atteso | Note |", "| # | File | Matrice | Stato atteso | Min parole | Min quiz | Note |")
+      .replace("| --- | --- | --- | --- | --- |", "| --- | --- | --- | --- | --- | --- | --- |")
+      .replace("| 01 | chapters/01-perimetro.md | planning/02-matrice-copertura-didattica.md | completo | |", "| 01 | chapters/01-perimetro.md | planning/02-matrice-copertura-didattica.md | completo | 3600 | 9 | laboratorio |")
+
+    expect(parse(markdown).modules[0].chapters[0]).toMatchObject({ minWords: 3600, minQuizzes: 9, notes: "laboratorio" })
+  })
+  it("reads the human review budget table", () => {
+    const markdown = `${complete}\n\n## Review umane — nomi, costi, tempi\n\n| Codice | Ambito | Richiesta | Revisore | Costo | Tempo |\n| --- | --- | --- | --- | --- | --- |\n| REV-INF | Infermieristica | sì | Maria Rossi | 500 EUR | 5 giorni |\n`
+
+    expect(parse(markdown).humanReviews).toEqual([
+      expect.objectContaining({ code: "REV-INF", scope: "Infermieristica", required: true, reviewer: "Maria Rossi", cost: "500 EUR", timing: "5 giorni" })
+    ])
   })
 })
 
@@ -133,6 +148,23 @@ describe("validateVolumeSpec", () => {
   it("points at the sheet line of the offending row", () => {
     const issue = validateVolumeSpec(parse(complete.replace("| M-FC02 |", "| FC02 |"))).find((item) => item.field === "modules[0].code")
     expect(issue?.line).toBe(16)
+  })
+  it.each([
+    ["Min parole", "0", "minWords"],
+    ["Min parole", "3.5", "minWords"],
+    ["Min quiz", "molti", "minQuizzes"]
+  ])("rejects the invalid optional threshold %s=%s", (column, value, field) => {
+    const markdown = complete
+      .replace("| # | File | Matrice | Stato atteso | Note |", `| # | File | Matrice | Stato atteso | ${column} | Note |`)
+      .replace("| --- | --- | --- | --- | --- |", "| --- | --- | --- | --- | --- | --- |")
+      .replace("| 01 | chapters/01-perimetro.md | planning/02-matrice-copertura-didattica.md | completo | |", `| 01 | chapters/01-perimetro.md | planning/02-matrice-copertura-didattica.md | completo | ${value} | |`)
+
+    expect(issueFields(markdown)).toContain(`modules[0].chapters[0].${field}`)
+  })
+  it("requires an assigned reviewer for every required review when phase B opens the volume", () => {
+    const markdown = `${complete.replace("phases: [C, D, F]", "phases: [B, C, D, F]")}\n\n## Review umane — nomi, costi, tempi\n\n| Codice | Ambito | Richiesta | Revisore | Costo | Tempo |\n| --- | --- | --- | --- | --- | --- |\n| REV-INF | Infermieristica | sì | | da definire | da definire |\n`
+
+    expect(issueFields(markdown)).toContain("humanReviews[0].reviewer")
   })
 })
 

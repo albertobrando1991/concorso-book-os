@@ -5,8 +5,11 @@ import type { GateResult, StepRecord } from "../state/types"
 import { runChapterLintGate } from "./chapter-lint-gate"
 import { runCitationGuard } from "./citation-guard"
 import { runCoverageGate } from "./coverage-gate"
+import { analyzeDidacticDensity, runDidacticDensityGate } from "./didactic-density-gate"
 import { chapterFileOf, reportPathOf, reportRelativePathOf, snapshotPathOf } from "./paths"
 import { runReviewReportGate } from "./review-report-gate"
+import { runVerifiedReferralGate } from "./verified-referral-gate"
+import { runHumanReviewAssignmentGate } from "./human-review-assignment-gate"
 
 export const DEFAULT_MATRIX_PATH = "planning/02-matrice-copertura-didattica.md"
 
@@ -29,9 +32,13 @@ export async function runGate(gateId: string | undefined, context: GateContext):
   }
 
   if (gateId === "coverage") return coverage(context)
+  if (gateId === "didactic-density") return didacticDensity(context)
   if (gateId === "chapter-lint") return chapterLint(context)
   if (gateId === "citation-guard") return citationGuard(context)
   if (gateId === "review-report") return reviewReport(context)
+  if (gateId === "human-review-assignment") {
+    return runHumanReviewAssignmentGate({ reviews: context.spec.humanReviews, specPath: context.spec.specPath })
+  }
 
   return notImplemented(gateId, context)
 }
@@ -44,7 +51,7 @@ async function chapterLint(context: GateContext): Promise<GateResult> {
     return blocker("missing-chapter", `Capitolo assente: atteso ${relative}. Lo step 09 deve produrre il file.`, relative)
   }
 
-  return runChapterLintGate({ content, chapterPath: relative })
+  return runChapterLintGate({ content, chapterPath: relative, requireFormatVersion2: context.step.id === "09" })
 }
 
 async function citationGuard(context: GateContext): Promise<GateResult> {
@@ -98,6 +105,36 @@ async function coverage(context: GateContext): Promise<GateResult> {
   return runCoverageGate({ matrix, matrixPath: `wiki/books/${relative}`, chapterNumber: context.chapterNumber })
 }
 
+async function didacticDensity(context: GateContext): Promise<GateResult> {
+  const relative = `wiki/books/${context.step.target}`
+  const content = await readOptional(chapterFileOf(context.wikiRoot, context.step.target))
+  const coverageResult = await coverage(context)
+
+  if (content === null) {
+    return combineGateResults(
+      coverageResult,
+      blocker("missing-chapter", `Capitolo assente: atteso ${relative}. Lo step 09 deve produrre il file.`, relative)
+    )
+  }
+
+  const chapter = context.chapterNumber
+    ? context.module?.chapters.find((candidate) => candidate.number === context.chapterNumber)
+    : undefined
+  const densityResult = runDidacticDensityGate({
+    content,
+    chapterPath: relative,
+    thresholds: {
+      ...(chapter?.minWords ? { minChapterWords: chapter.minWords } : {}),
+      ...(chapter?.minQuizzes ? { minQuizzes: chapter.minQuizzes } : {})
+    }
+  })
+  const referralResult = analyzeDidacticDensity(content).formatVersion >= 2
+    ? await runVerifiedReferralGate({ content, wikiRoot: context.wikiRoot, chapterPath: relative })
+    : { passed: true, blockers: [], warnings: [] }
+
+  return combineGateResults(coverageResult, densityResult, referralResult)
+}
+
 function matrixPathFor(module: VolumeSpecModule, chapterNumber: string | undefined) {
   const declared = chapterNumber ? module.chapters.find((chapter) => chapter.number === chapterNumber)?.matrix : ""
 
@@ -121,6 +158,19 @@ function notImplemented(gateId: string, context: GateContext): GateResult {
 
 function blocker(code: string, message: string, location?: string): GateResult {
   return { passed: false, blockers: [{ code, message, location }], warnings: [] }
+}
+
+function combineGateResults(...results: GateResult[]): GateResult {
+  const blockers = results.flatMap((result) => result.blockers)
+  const warnings = results.flatMap((result) => result.warnings)
+  const notImplemented = results.flatMap((result) => result.notImplemented ?? [])
+
+  return {
+    passed: blockers.length === 0,
+    blockers,
+    warnings,
+    ...(notImplemented.length ? { notImplemented } : {})
+  }
 }
 
 async function readOptional(file: string) {

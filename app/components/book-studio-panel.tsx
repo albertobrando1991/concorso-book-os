@@ -924,10 +924,12 @@ function bookPageSideClass(pageNumber: number) {
 
 function PreviewBlock({ block, bookId }: { block: MarkdownBlock; bookId?: string }) {
   if (block.type === "heading") {
-    if ((block.level || 2) <= 2) return <h3>{block.text}</h3>
-    if (block.level === 3) return <h4>{block.text}</h4>
+    const headingText = block.number ? `${block.number} ${block.text}` : block.text
 
-    return <h5>{block.text}</h5>
+    if ((block.level || 2) <= 2) return <h3>{headingText}</h3>
+    if (block.level === 3) return <h4>{headingText}</h4>
+
+    return <h5>{headingText}</h5>
   }
 
   if (block.type === "index-part") {

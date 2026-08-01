@@ -1,6 +1,6 @@
 ---
 name: pipeline-volume
-description: Use when running the ConcorsoBook OS editorial pipeline on a volume — executing the 25-prompt protocol chapter by chapter without pasting prompts by hand. Drives the loop next → work → gate → complete through the npm CLI, which owns state, order and gates.
+description: Use when executing or resuming the ConcorsoBook OS 25-step editorial pipeline for a volume, module, or chapter.
 ---
 
 # Pipeline di volume
@@ -17,3 +17,5 @@ npm run pipeline -- complete VOL-03 --step 09 --module M-FC02 --chapter 01
 ```
 
 Nessun gate va saltato. Il run-state in `pipeline/<VOL>/run-state.json` non si modifica a mano.
+
+Il corpo canonico definisce anche il formato 2 a nuclei, le soglie esposte dal contratto di `next` e il gate composito dello step 10. Un warning `retrofit-dovuto` non equivale a un gate verde; ogni blocker deve essere corretto prima di chiudere lo step.

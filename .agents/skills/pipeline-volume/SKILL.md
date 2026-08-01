@@ -1,6 +1,6 @@
 ---
 name: pipeline-volume
-description: Use when running or resuming the ConcorsoBook OS editorial pipeline for a volume, module or chapter, especially when CLI state, gates, staff planning or reader-visible chapter files are involved.
+description: Use when executing or resuming the ConcorsoBook OS 25-step editorial pipeline for a volume, module, or chapter, especially when CLI state, gates, staff planning, or reader-visible chapter files are involved.
 ---
 
 # Pipeline di volume
@@ -25,6 +25,14 @@ Sullo step 11 la pipeline salva lo snapshot del capitolo *prima* del tuo interve
 `complete` esegue il gate. Se il gate non passa lo step resta `blocked` e **nessuno step a valle può partire**: correggi e ripeti lo stesso step.
 
 Aggiungi `--json` a qualunque comando per ottenere l'esito strutturato invece del testo. Non dedurre l'esito di un gate leggendo il testo formattato.
+
+## Formato 2 e gate del capitolo
+
+Il contratto prodotto da `next` espone le soglie effettive del capitolo: usa quelle, comprese le eventuali personalizzazioni `Min parole` e `Min quiz` della scheda volume. Non sostituirle con valori ricordati o stimati.
+
+Per lo step 09, un capitolo nuovo deve dichiarare `format_version: 2` nel frontmatter ed essere organizzato in almeno cinque nuclei numerati (`1.1`, `1.2`, ...). Ogni nucleo deve raggiungere almeno 600 parole e avere una verifica vicina; il capitolo deve contenere almeno sei quiz e un caso applicativo. Le soglie dichiarate dal contratto prevalgono su questi default.
+
+Lo step 10 è un gate composito: verifica copertura, dimensioni didattiche, densità dei nuclei e risoluzione dei rinvii al volume `il-metodo-bando`. Un capitolo legacy può ricevere il warning `retrofit-dovuto`, che da solo non blocca; qualunque blocker resta invece vincolante e impedisce la chiusura. Non promuovere un capitolo legacy al formato 2 finché matrice, checklist qualitativa, verifiche e rinvii non sono completi.
 
 ## Regole non negoziabili
 

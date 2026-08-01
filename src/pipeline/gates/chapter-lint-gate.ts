@@ -6,6 +6,7 @@ import { isInternalKnowledgeLink } from "./reader-contract"
 export interface ChapterLintInput {
   content: string
   chapterPath: string
+  requireFormatVersion2?: boolean
 }
 
 const AGENT_META = [
@@ -180,6 +181,10 @@ export function runChapterLintGate(input: ChapterLintInput): GateResult {
     blockers.push(at("missing-draft-stage", "Frontmatter senza draft_stage: lo stato del capitolo deve essere dichiarato in modo veritiero."))
   }
 
+  if (input.requireFormatVersion2 && Number(frontmatter.format_version) !== 2) {
+    blockers.push(at("missing-format-version", "Lo step 09 deve consegnare il capitolo con format_version: 2."))
+  }
+
   if (!text(frontmatter.updated_at)) {
     warnings.push(at("missing-updated-at", "Frontmatter senza updated_at: la data di ultima lavorazione manca."))
   }
@@ -191,15 +196,21 @@ export function runChapterLintGate(input: ChapterLintInput): GateResult {
   return { passed: blockers.length === 0, blockers, warnings }
 }
 
-function headingsOf(body: string) {
+export interface MarkdownHeading {
+  level: number
+  text: string
+  line: number
+}
+
+export function headingsOf(body: string) {
   const lines = body.split("\n")
 
-  return lines.reduce<{ level: number; text: string }[]>((headings, line, index) => {
+  return lines.reduce<MarkdownHeading[]>((headings, line, index) => {
     if (isInsideFence(lines, index)) return headings
 
     const match = /^(#{1,6})\s+(.+?)\s*$/.exec(line)
 
-    return match ? [...headings, { level: match[1].length, text: match[2] }] : headings
+    return match ? [...headings, { level: match[1].length, text: match[2], line: index }] : headings
   }, [])
 }
 

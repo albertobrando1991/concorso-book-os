@@ -11,6 +11,8 @@ export interface VolumeSpecChapter {
   matrix: string
   expectedStatus: string
   notes: string
+  minWords?: number
+  minQuizzes?: number
 }
 
 export interface VolumeSpecModule {
@@ -24,6 +26,16 @@ export interface VolumeSpecModule {
   chapterLines: number[]
 }
 
+export interface VolumeSpecHumanReview {
+  code: string
+  scope: string
+  required: boolean
+  reviewer: string
+  cost: string
+  timing: string
+  line: number
+}
+
 export interface VolumeSpec {
   specPath: string
   volumeCode: string
@@ -34,6 +46,7 @@ export interface VolumeSpec {
   writerProvider: string
   phases: string[]
   modules: VolumeSpecModule[]
+  humanReviews: VolumeSpecHumanReview[]
 }
 
 const CHAPTER_TABLE_HEADING = /^capitoli\s+(.+)$/i
@@ -52,8 +65,24 @@ export function parseVolumeSpec(markdown: string, specPath: string): VolumeSpec 
     responsabileEditoriale: text(data.responsabile_editoriale),
     writerProvider: text(data.writer_provider),
     phases,
-    modules: parseModules(normalized, phases)
+    modules: parseModules(normalized, phases),
+    humanReviews: parseHumanReviews(normalized)
   }
+}
+
+function parseHumanReviews(markdown: string): VolumeSpecHumanReview[] {
+  const table = findTableAfterHeading(markdown, /^review umane\b/i)
+  if (!table) return []
+
+  return table.rows.map((row, index) => ({
+    code: row.codice ?? "",
+    scope: row.ambito ?? "",
+    required: /^(?:s[iì]|yes|true|1|obbligatoria)$/i.test((row.richiesta ?? "").trim()),
+    reviewer: row.revisore ?? row.nome ?? "",
+    cost: row.costo ?? "",
+    timing: row.tempo ?? row.tempi ?? "",
+    line: table.lines[index]
+  }))
 }
 
 function parseModules(markdown: string, volumePhases: string[]): VolumeSpecModule[] {
@@ -89,14 +118,24 @@ function collectChapterTables(markdown: string) {
 }
 
 function toChapter(row: Record<string, string>): VolumeSpecChapter {
+  const minWords = optionalInteger(row["min parole"] ?? row.min_parole)
+  const minQuizzes = optionalInteger(row["min quiz"] ?? row.min_quiz)
+
   return {
     number: row["#"] ?? row.numero ?? "",
     title: row.titolo ?? row.title ?? "",
     file: row.file ?? "",
     matrix: row.matrice ?? "",
     expectedStatus: row["stato atteso"] ?? "",
-    notes: row.note ?? ""
+    notes: row.note ?? "",
+    ...(minWords === undefined ? {} : { minWords }),
+    ...(minQuizzes === undefined ? {} : { minQuizzes })
   }
+}
+
+function optionalInteger(value: string | undefined) {
+  if (value === undefined || value.trim() === "") return undefined
+  return Number(value.trim())
 }
 
 function toPriority(value: string | undefined) {
