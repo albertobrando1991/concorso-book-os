@@ -6,10 +6,10 @@ status: processed
 domain: concorsi pubblici italiani
 topics: ["anatomia del bando","metodo bando","aggiornamento fonti concorsi","piano 30 60 90 giorni","diritto costituzionale","diritto amministrativo","enti locali","pubblico impiego","contabilita pubblica","anticorruzione e trasparenza","contratti pubblici"]
 entities: ["inPA"]
-source_refs: ["sources/metodo-bando-progetto-editoriale.md","sources/d-p-r-16-giugno-2023-n-82-modifiche-al-d-p-r-487-1994-sui-concorsi.md","sources/fonti-ufficiali-aggiornamento-metodo-bando-2026-06-03.md"]
-book_refs: ["il-metodo-bando"]
-confidence: 0.86
-updated_at: "2026-06-03T20:28:45+02:00"
+source_refs: ["sources/metodo-bando-progetto-editoriale.md","sources/d-p-r-16-giugno-2023-n-82-modifiche-al-d-p-r-487-1994-sui-concorsi.md","sources/fonti-ufficiali-aggiornamento-metodo-bando-2026-06-03.md","sources/bandi-rappresentativi-m-sa02-professioni-sanitarie-2025-2026.md"]
+book_refs: ["il-metodo-bando","m-sa02-professioni-sanitarie","vol-07-sanita-amministrativa-professioni-sanitarie"]
+confidence: 0.89
+updated_at: "2026-07-28T20:00:00+02:00"
 created_at: "2026-05-09T01:00:00.000Z"
 review_required: true
 canonical: true
@@ -28,6 +28,9 @@ Portale citato come contesto digitale in cui il candidato cerca bandi, profili, 
 
 - [[sources/fonti-ufficiali-aggiornamento-metodo-bando-2026-06-03]]
 
+- [[sources/bandi-rappresentativi-m-sa02-professioni-sanitarie-2025-2026]]
+- [[sources/bandi-rappresentativi-oss-2025-2026]]
+
 
 ## Topic collegati
 - [[anatomia-del-bando|anatomia del bando]]
@@ -35,4 +38,4 @@ Portale citato come contesto digitale in cui il candidato cerca bandi, profili, 
 - [[aggiornamento-fonti-concorsi|aggiornamento fonti concorsi]]
 
 ## Stato revisione
-Fonte collegata al Capitolo 25 extra. Prima della pubblicazione finale verificare eventuali aggiornamenti funzionali del portale e le istruzioni specifiche del singolo bando.
+Fonte collegata al Capitolo 25 extra e al corpus M-SA02. Prima della pubblicazione finale verificare eventuali aggiornamenti funzionali del portale e le istruzioni specifiche del singolo bando.
