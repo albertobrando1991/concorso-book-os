@@ -1,6 +1,6 @@
 ---
 id: chapter-m-fc02-agenzie-fiscali-piano-editoriale
-type: module_plan
+type: editorial_plan
 title: "Piano editoriale - M-FC02 Agenzie Fiscali"
 status: revised_draft
 domain: "concorsi pubblici italiani"
@@ -13,9 +13,8 @@ updated_at: 2026-07-18T00:00:00+02:00
 created_at: 2026-06-27T19:56:28+02:00
 review_required: true
 canonical: true
-tags: ["module-plan","specialist-module-plan","module-code-m-fc02","revised-draft"]
+tags: ["editorial-plan","specialist-module-plan","module-code-m-fc02","revised-draft"]
 book_id: m-fc02-agenzie-fiscali
-outline_section: PLAN
 draft_stage: revised-editorial-draft
 module_code: M-FC02
 module_family: funzioni-centrali

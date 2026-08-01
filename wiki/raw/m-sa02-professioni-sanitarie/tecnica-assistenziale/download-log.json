@@ -1,0 +1,79 @@
+[
+  {
+    "id": "ASSIST-LDP-01",
+    "file": "lg-aiuc-lesioni-da-pressione-snlg-2025.pdf",
+    "bytes": 11571613,
+    "sha256": "ABFCED2B799732CA4EBB8A2F280A4328312440E875CCDD25767B32FE55C68654",
+    "authority": "AIUC e società scientifiche collaboratrici - linea guida pubblicata nel Sistema Nazionale Linee Guida dell'Istituto Superiore di Sanità",
+    "url": "https://aislec.it/wp-content/uploads/2025/02/LG_AIUC_Lesioni-da-pressione.pdf",
+    "checked_at": "2026-07-29"
+  },
+  {
+    "id": "ASSIST-LDP-02",
+    "file": "asl-al-protocollo-lesioni-pressione-2025.pdf",
+    "bytes": 1092798,
+    "sha256": "3157C7314B8CAB6F309F4C25B2C9CA028AD1AC80DD5DB77EF73B146BBAD5D9CA",
+    "authority": "ASL Alessandria",
+    "url": "https://www.aslal.it/allegati/Dipsa/20260309_Procedura_specifica_LdP_2025_con_indice_firmato_in_originale.pdf",
+    "checked_at": "2026-07-29"
+  },
+  {
+    "id": "ASSIST-LDP-03",
+    "file": "regione-emilia-romagna-protocollo-lesioni-pressione-2016.pdf",
+    "bytes": 1646358,
+    "sha256": "35EDFB864D9A0DDBCA43FC35071F556CD8C0226C4520C6B1CFFF5F2BA4BB432C",
+    "authority": "Regione Emilia-Romagna",
+    "url": "https://salute.regione.emilia-romagna.it/farmaci/dispositivi-medici/allegato-1-protocollo-lesioni-da-pressione-1.pdf/@@download/file/Allegato%201%20Protocollo%20lesioni%20da%20pressione%20%281%29.pdf",
+    "checked_at": "2026-07-29"
+  },
+  {
+    "id": "ASSIST-MET-04",
+    "file": "iss-snlg-manuale-metodologico-2-0-2024.pdf",
+    "bytes": 3576467,
+    "sha256": "EA4F9B9A7105CA2A6DD7B196F20337D7BBA6B5ACC41D483CC0FF2390004C4BF3",
+    "authority": "Istituto Superiore di Sanita - Sistema Nazionale Linee Guida; copia verificabile distribuita da AIOM",
+    "url": "https://www.aiom.it/wp-content/uploads/2025/02/2024_ISS_SNLG_Manuale_Metodologico_v2.0.pdf",
+    "checked_at": "2026-07-29",
+    "note": "Versione 2.0, dicembre 2024; l'endpoint ISS canonico ha respinto il download automatico, mentre la pagina ISS conferma titolo e versione."
+  },
+  {
+    "id": "ASSIST-PDTA-05",
+    "file": "agenas-manuale-presa-carico-cronicita-2022.pdf",
+    "bytes": 4132713,
+    "sha256": "53ECA1499D0E94972551E9EF763588034CABBD0AD79478848D7153DCA895663A",
+    "authority": "AGENAS e Ministero della Salute - PON GOV Cronicita",
+    "url": "https://www.agenas.gov.it/images/agenas/In%20primo%20piano/PONGOV/0_Manuale_Operativo_PON_cronicita_web.pdf",
+    "checked_at": "2026-07-29",
+    "note": "Edizione integrata aprile 2022; quadro nazionale per PAI, PDTA, Case di Comunita, IFeC, COT, telemedicina e cure intermedie."
+  },
+  {
+    "id": "ASSIST-TERR-06",
+    "file": "toscana-modello-accesso-servizi-cot-2023.pdf",
+    "bytes": 373194,
+    "sha256": "97124A14C95D2B57AFFC3664B1192FC1610CF75F92211F4E9DBEE8422CEF3EE4",
+    "authority": "Regione Toscana - Organismo Toscano per il Governo Clinico",
+    "url": "https://www.regione.toscana.it/documents/10180/153838593/All%2BDecisione%2B12_2023.pdf/4bf2aae0-bdd3-b566-001c-af18a28c2f80?t=1688466692894",
+    "checked_at": "2026-07-29",
+    "note": "Modello regionale di accesso ai servizi con COT, NEA 116117 e PUA; Decisione CTS n. 12/2023, 16 pagine."
+  },
+  {
+    "id": "ASSIST-TERR-07",
+    "file": "toscana-continuita-ospedale-territorio-2023.pdf",
+    "bytes": 313858,
+    "sha256": "613011EAC0FA775BE69C7C853900FDAE9E345AD71A3219CF50F961A843CF5534",
+    "authority": "Regione Toscana - Organismo Toscano per il Governo Clinico",
+    "url": "https://www.regione.toscana.it/documents/10180/153838593/All%2BA__Decisione%2BOtgc%2B27_2023.pdf/4d9478fd-b105-7412-3f3e-74bf60e38e27?t=1694438277223",
+    "checked_at": "2026-07-29",
+    "note": "Documento di indirizzo sulla continuita assistenziale ospedale-territorio; Decisione CTS n. 27/2023, 8 pagine."
+  },
+  {
+    "id": "ASSIST-PDTA-08",
+    "file": "toscana-pdta-persona-fragile-2023.pdf",
+    "bytes": 2758541,
+    "sha256": "C5CF45D7DF42EA9BDE4A5AE1F1F30903461727EA6EA23DFA498B553BE7C3772A",
+    "authority": "Regione Toscana - Organismo Toscano per il Governo Clinico",
+    "url": "https://www.regione.toscana.it/documents/10180/153838593/All%2BA__Decisione%2BOtgc%2B28_2023-PDTA-Paz-frag.pdf/49d8e2e1-b2f4-d302-811a-ab1075f0d46b?t=1694438166690",
+    "checked_at": "2026-07-29",
+    "note": "PDTA regionale della persona fragile; Decisione CTS n. 28/2023, 50 pagine."
+  }
+]

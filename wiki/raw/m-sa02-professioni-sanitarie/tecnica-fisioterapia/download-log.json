@@ -1,0 +1,112 @@
+[
+  {
+    "id": "FISIO-TEC-01",
+    "file": "ministero-piano-indirizzo-riabilitazione-2011.pdf",
+    "bytes": 1759183,
+    "sha256": "37CF94C38BB0B2DF73B06717D2E4FA0588414D1FC553C801922D8D6BE05B97C3",
+    "authority": "Conferenza Stato-Regioni - Ministero della Salute",
+    "url": "https://www.salute.gov.it/imgs/C_17_minpag_688_documenti_documento_0_fileAllegatoDoc.pdf",
+    "checked_at": "2026-07-28"
+  },
+  {
+    "id": "FISIO-TEC-02",
+    "file": "iss-consensus-cicerone-riabilitazione-robotica.pdf",
+    "bytes": 2216439,
+    "sha256": "84D6AE4E168EBD5D94308DDFD3503BD5ED98A7EB381C91FC656C1A3C780A7E8A",
+    "authority": "Istituto Superiore di Sanità",
+    "url": "https://www.iss.it/documents/20126/0/CONSENSUSCICERONE%2B-%2BDOCUMENTOFINALEDEF.%2Bcon%2Blicenza%2B2.pdf/9363cc9d-36fe-af04-3ec1-7dac07edc61c?t=1647509820072",
+    "checked_at": "2026-07-28"
+  },
+  {
+    "id": "FISIO-TEC-03",
+    "file": "iss-manuale-comunicazione-riabilitazione-2013.pdf",
+    "bytes": 1532375,
+    "sha256": "BE146CF82A4841FD2E98649419380830E29320FC8878242906055E6A6AFE57D3",
+    "authority": "Istituto Superiore di Sanità",
+    "url": "https://www.iss.it/documents/20126/45616/13_1_web.pdf/d25463f7-60e9-770a-eb22-ccf879adefd0?t=1581098892774",
+    "checked_at": "2026-07-28"
+  },
+  {
+    "id": "FISIO-TEC-04",
+    "file": "iss-hta-fast-track-anca-ginocchio.pdf",
+    "bytes": 1988072,
+    "sha256": "6F7AE5BC2CB8C0150C91DBC5F2D9C9677325C2266BF4281B90C6E98A40C344B0",
+    "authority": "Istituto Superiore di Sanità",
+    "url": "https://www.iss.it/documents/20126/0/Valutazione%2Bimpatto%2Bmodello%2Borganizzativo%2BFast%2BTrack%2Banca%2Bginocchio.pdf/d0f0b22d-b693-6a72-0726-ba23cf964b15?t=1614151266275",
+    "checked_at": "2026-07-28"
+  },
+  {
+    "id": "FISIO-SNLG-05",
+    "file": "iss-snlg-terapie-fisiche-strumentali-2026.pdf",
+    "bytes": 2694983,
+    "sha256": "4F718CCE14C4BD09CDA45AF812239C884E9714209F8ABB9C2CDCBD8986DBDDF9",
+    "authority": "Istituto Superiore di Sanità - SNLG",
+    "url": "https://www.iss.it/documents/20126/10776488/LG_C0050_SIMFER_Terapie+fisiche+strumentali.pdf/adb6bf8f-fb6a-c3e4-d3f7-72d62ae40bd4?t=1775642228498",
+    "checked_at": "2026-07-28"
+  },
+  {
+    "id": "FISIO-SNLG-06",
+    "file": "iss-snlg-terapie-fisiche-addendum-aprile-2026.pdf",
+    "bytes": 2360052,
+    "sha256": "C291A2B3EF898EC9E057F9046C81EE4637096759514873D2D1FF08519635BE57",
+    "authority": "Istituto Superiore di Sanità - SNLG",
+    "url": "https://www.iss.it/documents/20126/10776488/Addendum_LGC0050_SIMFER_apr2026.pdf/fab1b03f-1231-d046-75fc-45052755685d?t=1775642251228",
+    "checked_at": "2026-07-28"
+  },
+  {
+    "id": "FISIO-SNLG-07",
+    "file": "iss-snlg-terapie-fisiche-addendum-maggio-2026.pdf",
+    "bytes": 2915973,
+    "sha256": "C04366F248B8B814449661FBD479E5BA0B8891B9D08F4E6127D962A75F21F105",
+    "authority": "Istituto Superiore di Sanità - SNLG",
+    "url": "https://www.iss.it/documents/20126/10776488/Addendum_LGC0050_SIMFER_mag2026.pdf/ec37c4db-4312-b805-b5b4-398b05dc003f?t=1779183923975",
+    "checked_at": "2026-07-28"
+  },
+  {
+    "id": "FISIO-SNLG-08",
+    "file": "iss-snlg-terapie-fisiche-addendum-luglio-2026.pdf",
+    "bytes": 1932903,
+    "sha256": "05E2FD49CD0A5894442E2F4B63D4A3A09C65131F92BDA989E1810E5B3823ADEF",
+    "authority": "Istituto Superiore di Sanità - SNLG",
+    "url": "https://www.iss.it/documents/20126/10776488/Addendum_LGC0050_SIMFER_lug2026.pdf/2bd12689-d205-2786-a4ac-c76336b0e630?t=1783514202787",
+    "checked_at": "2026-07-28"
+  },
+  {
+    "id": "FISIO-WHO-09",
+    "file": "oms-pacchetto-riabilitazione-condizioni-muscoloscheletriche-2023-ita.pdf",
+    "bytes": 3081848,
+    "sha256": "A5B6CA9CB000D0D6F911BE42EBE3B345CE1B0316BC70219076B3203CAF8F052C",
+    "authority": "World Health Organization - versione italiana",
+    "url": "https://iris.who.int/server/api/core/bitstreams/b9429f81-0342-4e95-8e40-854ef3963955/content",
+    "checked_at": "2026-07-29"
+  },
+  {
+    "id": "FISIO-WHO-10",
+    "file": "who-linea-guida-lombalgia-cronica-primaria-2023.pdf",
+    "bytes": 13929724,
+    "sha256": "840C9F31F50814C5699260D41E1DA7A1CD8B5A4D068D8D7715A6A33E594C4446",
+    "authority": "World Health Organization",
+    "url": "https://iris.who.int/server/api/core/bitstreams/d3ff33db-d9fd-46a6-8992-e0617d71a5a6/content",
+    "checked_at": "2026-07-29"
+  },
+  {
+    "id": "FISIO-WHO-11",
+    "file": "who-pir-module-3-neurological-2023.pdf",
+    "bytes": 1849545,
+    "sha256": "1A9B0A8033A43C559A5399F4849B93F7564411EDBBF668BE8F56F9DD2E77CA6A",
+    "authority": "World Health Organization",
+    "url": "https://iris.who.int/server/api/core/bitstreams/6c0d3f5d-6d20-4424-af4b-4f6ff04b84e3/content",
+    "checked_at": "2026-07-29",
+    "note": "PIR modulo 3: condizioni neurologiche; 192 pagine."
+  },
+  {
+    "id": "FISIO-WHO-12",
+    "file": "who-pir-module-4-cardiopulmonary-2023.pdf",
+    "bytes": 573921,
+    "sha256": "8A213DFCBAA5E03011FED7D5BFAE20438BCF0FE324DEC751CFC9C9356502C629",
+    "authority": "World Health Organization",
+    "url": "https://iris.who.int/server/api/core/bitstreams/a4eebf4b-edf9-497f-89f7-41678ee73cae/content",
+    "checked_at": "2026-07-29",
+    "note": "PIR modulo 4: condizioni cardiopolmonari; 44 pagine."
+  }
+]

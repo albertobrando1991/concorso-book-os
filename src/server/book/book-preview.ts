@@ -2,6 +2,7 @@ import { readdir, stat } from "node:fs/promises"
 import path from "node:path"
 import { parseFrontmatter } from "../wiki/frontmatter"
 import { FileWikiStore } from "../wiki/file-store"
+import { isStaffOnlyBookDocument } from "../wiki/editorial-document"
 import {
   TEXT_VOLUME_CATALOG,
   bookIdsForTextVolumeBookId,
@@ -11,6 +12,7 @@ import {
   textVolumeBookId,
   type TextVolume
 } from "../../catalog/text-volumes"
+import { buildEditorialPlan, type BookStudioEditorialPlan } from "./editorial-plan"
 
 export { ricettarioModuleLabel } from "./book-studio-labels"
 
@@ -61,6 +63,7 @@ export interface BookStudioChapter {
   isGenerated?: boolean
   volumeModuleCode?: string
   volumeModuleTitle?: string
+  moduleOutlineSection?: string
   topics: string[]
   sourceRefs: string[]
   wordCount: number
@@ -91,6 +94,7 @@ export interface BookStudioData {
   }
   chapters: BookStudioChapter[]
   assets: BookStudioAsset[]
+  editorialPlan: BookStudioEditorialPlan | null
 }
 
 const EDITORIAL_PLACEHOLDERS = [
@@ -129,18 +133,32 @@ const VERY_VERBOSE_TABLE_CELL_LENGTH = 160
 const MAX_LIST_ITEMS_PER_PREVIEW_BLOCK = 4
 const MAX_PARAGRAPH_WORDS_PER_PREVIEW_BLOCK = 72
 
-export async function buildBookStudioData(store: FileWikiStore, bookId = "il-metodo-bando"): Promise<BookStudioData> {
+export async function buildBookStudioData(
+  store: FileWikiStore,
+  bookId = "il-metodo-bando",
+  options: { projectRoot?: string } = {}
+): Promise<BookStudioData> {
   const normalizedBookId = normalizeTextBookId(bookId)
+  const data = isTextVolumeBookId(normalizedBookId)
+    ? await buildVolumeOrSingleBookStudioData(store, normalizedBookId)
+    : await buildSingleBookStudioData(store, normalizedBookId)
 
-  if (isTextVolumeBookId(normalizedBookId)) {
-    const volume = findTextVolumeForBookId(normalizedBookId)
+  if (!options.projectRoot) return data
 
-    if (volume) {
-      return buildVolumeBookStudioData(store, volume)
-    }
+  return {
+    ...data,
+    editorialPlan: await buildEditorialPlan({
+      store,
+      projectRoot: options.projectRoot,
+      bookId: normalizedBookId
+    })
   }
+}
 
-  return buildSingleBookStudioData(store, normalizedBookId)
+async function buildVolumeOrSingleBookStudioData(store: FileWikiStore, bookId: string) {
+  const volume = findTextVolumeForBookId(bookId)
+
+  return volume ? buildVolumeBookStudioData(store, volume) : buildSingleBookStudioData(store, bookId)
 }
 
 async function buildSingleBookStudioData(store: FileWikiStore, bookId: string): Promise<BookStudioData> {
@@ -151,9 +169,12 @@ async function buildSingleBookStudioData(store: FileWikiStore, bookId: string): 
     .filter((file) => file.endsWith(".md"))
   const chapterFiles = (await store.listMarkdown(`books/${bookId}/chapters`))
     .filter((file) => file.endsWith(".md"))
-  const chapters = await Promise.all([...frontMatterFiles, ...chapterFiles].map(async (file): Promise<BookStudioChapter> => {
+  const loadedChapters = await Promise.all([...frontMatterFiles, ...chapterFiles].map(async (file): Promise<BookStudioChapter | null> => {
     const content = await store.readText(file)
     const parsed = parseFrontmatter(content)
+
+    if (isStaffOnlyBookDocument(file, parsed.data as Record<string, unknown>)) return null
+
     const preview = selectPreviewMarkdown(parsed.body)
     const sectionType = file.includes("/front-matter/") || parsed.data.type === "front_matter"
       ? "front_matter"
@@ -180,6 +201,7 @@ async function buildSingleBookStudioData(store: FileWikiStore, bookId: string): 
       blocks: markdownToBlocks(preview.markdown, file)
     }
   }))
+  const chapters = loadedChapters.filter((chapter): chapter is BookStudioChapter => chapter !== null)
 
   chapters.sort(compareStudioChapters)
   hydrateGeneratedFrontMatter(chapters, bookId)
@@ -200,15 +222,25 @@ async function buildSingleBookStudioData(store: FileWikiStore, bookId: string): 
       assets: assets.length
     },
     chapters,
-    assets
+    assets,
+    editorialPlan: null
   }
 }
 
 async function buildVolumeBookStudioData(store: FileWikiStore, volume: TextVolume): Promise<BookStudioData> {
   const bookId = textVolumeBookId(volume)
   const moduleBooks = await loadVolumeModuleBooks(store, volume)
-  const volumeFrontMatter = buildVolumeFrontMatter(volume, moduleBooks, bookId)
-  const moduleSections = moduleBooks.flatMap(({ moduleCode, moduleTitle, chapters }) => [
+  let nextChapterNumber = 1
+  const numberedModuleBooks = moduleBooks.map((moduleBook) => ({
+    ...moduleBook,
+    chapters: moduleBook.chapters.map((chapter) => ({
+      ...chapter,
+      moduleOutlineSection: chapter.outlineSection,
+      outlineSection: String(nextChapterNumber++)
+    }))
+  }))
+  const volumeFrontMatter = buildVolumeFrontMatter(volume, numberedModuleBooks, bookId)
+  const moduleSections = numberedModuleBooks.flatMap(({ moduleCode, moduleTitle, chapters }) => [
     buildModuleOpeningSection({
       bookId,
       moduleCode,
@@ -219,13 +251,13 @@ async function buildVolumeBookStudioData(store: FileWikiStore, volume: TextVolum
     ...chapters
   ])
   const chapters = [...volumeFrontMatter, ...moduleSections]
-  const assets = moduleBooks.flatMap((moduleBook) => moduleBook.assets)
+  const assets = numberedModuleBooks.flatMap((moduleBook) => moduleBook.assets)
   const uniqueAssets = Array.from(new Map(assets.map((asset) => [asset.path, asset])).values())
     .sort((left, right) => right.updatedAt.localeCompare(left.updatedAt))
 
   return {
     bookId,
-    title: `${volume.code} - ${volume.title}`,
+    title: `${volume.code} — ${volume.title}`,
     updatedAt: new Date().toISOString(),
     summary: {
       chapters: chapters.length,
@@ -238,7 +270,8 @@ async function buildVolumeBookStudioData(store: FileWikiStore, volume: TextVolum
       assets: uniqueAssets.length
     },
     chapters,
-    assets: uniqueAssets
+    assets: uniqueAssets,
+    editorialPlan: null
   }
 }
 
@@ -377,7 +410,7 @@ function buildModuleOpeningSection(input: {
 
   return {
     path,
-    title: `${input.moduleCode} - ${stripModuleCode(input.moduleTitle)}`,
+    title: `${input.moduleCode} — ${stripModuleCode(input.moduleTitle)}`,
     outlineSection: input.moduleCode,
     bookScope: "main",
     sectionType: "front_matter",
@@ -501,7 +534,7 @@ function buildModuleOpeningMarkdown(moduleCode: string, moduleTitle: string, vol
     "",
     `## ${stripModuleCode(moduleTitle)}`,
     "",
-    `Sezione interna del volume ${volume.code} - ${volume.title}.`,
+    `Sezione interna del volume ${volume.code} — ${volume.title}.`,
     "",
     "| Blocco | Sommario del modulo |",
     "| --- | --- |",
@@ -572,7 +605,7 @@ function compactIndexLabel(outlineSection: string) {
 }
 
 function stripModuleCode(value: string) {
-  return value.replace(/^M-[A-Z]{2}\d{2}\s*[-–]\s*/i, "").trim()
+  return value.replace(/^M-[A-Z]{2}\d{2}\s*[-–—]\s*/i, "").trim()
 }
 
 function slugForGeneratedPath(value: string) {
@@ -649,12 +682,12 @@ function buildAnalyticalIndexBlocks(
       pageNumber: startPage
     })
 
-    if (!options.includeHeadings) continue
-
     headings.forEach((heading, index) => {
+      if (!options.includeHeadings && !heading.number) return
+
       blocks.push({
         type: "index-row",
-        number: chapterNumber ? `${chapterNumber}.${index + 1}` : `${index + 1}`,
+        number: heading.number || (chapterNumber ? `${chapterNumber}.${index + 1}` : `${index + 1}`),
         text: stripLeadingHeadingNumber(heading.text),
         pageNumber: heading.pageNumber
       })
@@ -682,7 +715,7 @@ function buildChapterPageMap(chapters: BookStudioChapter[]) {
 }
 
 function estimateChapterPages(chapter: BookStudioChapter, startPage: number) {
-  const headings: Array<{ text: string; pageNumber: number }> = []
+  const headings: Array<{ text: string; number?: string; pageNumber: number }> = []
   let pageOffset = 0
   let used = INDEX_FIRST_PAGE_HEADER_COST
 
@@ -700,6 +733,7 @@ function estimateChapterPages(chapter: BookStudioChapter, startPage: number) {
       if (isIndexHeading(text, chapter.title)) {
         headings.push({
           text,
+          ...(block.number ? { number: block.number } : {}),
           pageNumber: startPage + pageOffset
         })
       }
@@ -844,6 +878,18 @@ function indexPartForOutline(value: string, bookId: string) {
 
 function stripLeadingHeadingNumber(value: string) {
   return value.replace(/^\d+\.\s+/, "").trim()
+}
+
+function parseNucleusHeading(value: string) {
+  const match = /^(N-[A-Z]{2}\d{2}-(\d{2})-(\d{2}))\s+·\s+(.+)$/.exec(value)
+
+  if (!match) return null
+
+  return {
+    id: match[1],
+    number: `${Number.parseInt(match[2], 10)}.${Number.parseInt(match[3], 10)}`,
+    title: match[4].trim()
+  }
 }
 
 function cleanIndexText(value: string) {
@@ -1133,10 +1179,13 @@ function markdownToBlocks(markdown: string, sourcePath: string): MarkdownBlock[]
       flushParagraph()
       flushList()
       flushTable()
+      const text = cleanInlineText(heading[2])
+      const nucleus = parseNucleusHeading(text)
       blocks.push({
         type: "heading",
         level: Math.min(heading[1].length, 4),
-        text: cleanInlineText(heading[2])
+        text: nucleus?.title || text,
+        ...(nucleus ? { number: nucleus.number } : {})
       })
       continue
     }

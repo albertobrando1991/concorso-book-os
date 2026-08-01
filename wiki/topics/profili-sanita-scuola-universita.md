@@ -6,16 +6,16 @@ status: draft
 domain: "concorsi pubblici italiani"
 topics: ["sanita amministrativa", "scuola", "universita", "ATA", "famiglie concorsuali", "mappe profilo"]
 entities: ["ARAN", "Moduli Profilo"]
-source_refs: ["sources/ccnl-comparti-aree-famiglie-professionali-pa.md", "sources/contabilita-economico-patrimoniale-universita-enti-pubblici.md"]
-book_refs: ["il-metodo-bando"]
+source_refs: ["sources/ccnl-comparti-aree-famiglie-professionali-pa.md", "sources/contabilita-economico-patrimoniale-universita-enti-pubblici.md", "sources/vol-07-dossier-fonti-materie-sanita-2026-07-28"]
+book_refs: ["il-metodo-bando", "vol-07-sanita-amministrativa-professioni-sanitarie"]
 confidence: 0.78
-updated_at: 2026-05-30T19:10:00+02:00
+updated_at: 2026-07-28T00:00:00+02:00
 created_at: 2026-05-30T19:10:00+02:00
 review_required: true
 canonical: true
 tags: ["topic", "profili", "sanita", "scuola", "universita"]
 parent_topics: ["famiglie concorsuali", "mappe profilo"]
-child_topics: ["pubblico impiego", "contabilita pubblica"]
+child_topics: ["pubblico impiego", "contabilita pubblica", "sanita amministrativa e professioni sanitarie"]
 chapter_refs: ["books/il-metodo-bando/chapters/famiglie-concorsi-pubblici.md", "books/il-metodo-bando/chapters/mappe-profilo-cosa-resta-comune-cosa-cambia.md"]
 ---
 
@@ -30,6 +30,8 @@ Usare un manuale amministrativo generale senza integrare ordinamento del settore
 ## Fonti
 - [[sources/ccnl-comparti-aree-famiglie-professionali-pa]]
 - [[sources/contabilita-economico-patrimoniale-universita-enti-pubblici]]
+- [[sources/vol-07-dossier-fonti-materie-sanita-2026-07-28]]
+- [[topics/sanita-amministrativa-professioni-sanitarie]]
 
 ## Stato revisione
-Da espandere con bandi specifici se si sviluppano moduli verticali sanita, scuola/ATA e universita.
+Il verticale sanità è ora pianificato nel VOL-07; restano da acquisire e verificare le fonti ufficiali specialistiche e un campione adeguato di bandi. Scuola/ATA e università restano da espandere separatamente.

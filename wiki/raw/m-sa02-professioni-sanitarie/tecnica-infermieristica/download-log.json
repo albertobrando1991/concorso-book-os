@@ -1,0 +1,74 @@
+[
+  {
+    "id": "INF-TEC-01",
+    "file": "ministero-raccomandazione-01-kcl.pdf",
+    "bytes": 103267,
+    "sha256": "46EF092E91D1B9E75466EAB735A767E805C03D1E5F3F5D94F5EAAC674DC1369D",
+    "authority": "Ministero della Salute",
+    "url": "https://www.salute.gov.it/imgs/C_17_pubblicazioni_584_allegato.pdf",
+    "checked_at": "2026-07-28"
+  },
+  {
+    "id": "INF-TEC-02",
+    "file": "ministero-raccomandazione-07-errori-terapia.pdf",
+    "bytes": 97966,
+    "sha256": "C5C5694DECF7FED2C2C3C8969163D36EEA124DFD41B03F9423D34C4BC56CDE38",
+    "authority": "Ministero della Salute",
+    "url": "https://www.salute.gov.it/imgs/C_17_pubblicazioni_675_allegato.pdf",
+    "checked_at": "2026-07-28"
+  },
+  {
+    "id": "INF-TEC-03",
+    "file": "ministero-raccomandazione-13-cadute.pdf",
+    "bytes": 421825,
+    "sha256": "FA0DE6C00AF62F69B8BA5067222AB2573D509B59363308E1049CD910DD7C55E4",
+    "authority": "Ministero della Salute",
+    "url": "https://www.salute.gov.it/imgs/C_17_pubblicazioni_1639_allegato.pdf",
+    "checked_at": "2026-07-28"
+  },
+  {
+    "id": "INF-TEC-04",
+    "file": "ministero-raccomandazione-15-triage.pdf",
+    "bytes": 332696,
+    "sha256": "B239C59A69276D9B06BB6843E55DCA3E13DEB3C52A120F8BD056AF950447EA03",
+    "authority": "Ministero della Salute",
+    "url": "https://www.salute.gov.it/imgs/C_17_pubblicazioni_1934_allegato.pdf",
+    "checked_at": "2026-07-28"
+  },
+  {
+    "id": "INF-TEC-05",
+    "file": "ministero-raccomandazione-17-riconciliazione-farmacologica.pdf",
+    "bytes": 531134,
+    "sha256": "0FF5463FB67266AD1D5ED7D40575044BC301EA8B1B9F2BF45BB4885CA4622200",
+    "authority": "Ministero della Salute",
+    "url": "https://www.salute.gov.it/imgs/C_17_pubblicazioni_2354_allegato.pdf",
+    "checked_at": "2026-07-28"
+  },
+  {
+    "id": "INF-TEC-06",
+    "file": "ministero-raccomandazione-18-abbreviazioni-terapia.pdf",
+    "bytes": 359458,
+    "sha256": "19D1243FBBBA417C0EF2614255674C3D18AD27193B0CB5CAB41E36B24B8319CC",
+    "authority": "Ministero della Salute",
+    "url": "https://www.salute.gov.it/imgs/C_17_pubblicazioni_2802_allegato.pdf",
+    "checked_at": "2026-07-28"
+  },
+  {
+    "id": "INF-TEC-07",
+    "file": "ministero-raccomandazione-19-forme-orali-solide.pdf",
+    "bytes": 468723,
+    "sha256": "1E51030AA770C70DF0833D8F72AAF48BE37D3958AE25A2D5843B4A2B415C7D36",
+    "authority": "Ministero della Salute",
+    "url": "https://www.salute.gov.it/imgs/C_17_pubblicazioni_2892_allegato.pdf",
+    "checked_at": "2026-07-28"
+  },
+  {
+    "id": "INF-TEC-08",
+    "file": "ministero-linee-indirizzo-triage-intraospedaliero-2019.pdf",
+    "bytes": 1157974,
+    "sha256": "FB0EB5433A3C2188A00C2C816A88609F5601B012DC930CB144215D2EE8FEFC6E",
+    "authority": "Ministero della Salute",
+    "url": "https://www.salute.gov.it/imgs/C_17_pubblicazioni_3145_allegato.pdf",
+    "checked_at": "2026-07-28"
+  }
+]

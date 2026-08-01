@@ -43,7 +43,7 @@ Il modulo non duplica il nucleo comune del libro base e non diventa un manuale d
 | 5 | 49 | [[books/moduli/m-fl03-camere-commercio/chapters/05-laboratorio-bando-camerale|Laboratorio bando camerale]] | Applica il Metodo BANDO a profili camerali, prove, casi di sportello e domande orali. | Simulazioni per bando camerale. |
 
 ## Capitoli di lavoro
-- [[books/moduli/m-fl03-camere-commercio/chapters/00-piano-editoriale|Piano editoriale del modulo]]
+- [[books/moduli/m-fl03-camere-commercio/planning/00-piano-editoriale|Piano editoriale del modulo]]
 1. [[books/moduli/m-fl03-camere-commercio/chapters/01-camere-commercio-sistema-camerale-unioncamere|Camere di commercio, sistema camerale e Unioncamere]]
 2. [[books/moduli/m-fl03-camere-commercio/chapters/02-registro-imprese-rea-pubblicita-legale|Registro imprese, REA e pubblicità legale]]
 3. [[books/moduli/m-fl03-camere-commercio/chapters/03-servizi-imprese-regolazione-mercato-tutela|Servizi alle imprese, regolazione del mercato e tutela]]

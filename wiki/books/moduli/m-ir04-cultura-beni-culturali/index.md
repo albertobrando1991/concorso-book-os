@@ -43,7 +43,7 @@ Il modulo non sostituisce il libro principale. Parte dal nucleo comune del Metod
 Non deve promettere copertura totale di ogni bando o aggiornamento normativo automatico. Le sezioni normative e specialistiche richiedono source notes consolidate e review umana.
 
 ## Capitoli di lavoro
-- [[books/moduli/m-ir04-cultura-beni-culturali/chapters/00-piano-editoriale|Piano editoriale del modulo]]
+- [[books/moduli/m-ir04-cultura-beni-culturali/planning/00-piano-editoriale|Piano editoriale del modulo]]
 
 ## Fonti da consolidare
 - Bandi rappresentativi recenti della famiglia.

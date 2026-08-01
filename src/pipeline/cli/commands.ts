@@ -12,6 +12,7 @@ import { loadRunState, saveRunState } from "../state/run-state-store"
 import type { GateResult, RunState, StepRecord } from "../state/types"
 import { buildStepDrafts } from "../steps/build-steps"
 import { loadPromptCatalog, PROMPT_TEMPLATE_PATH, renderPrompt, type PromptCatalog } from "../steps/prompt-renderer"
+import { extractOperationalDataReviewRows, renderOperationalDataReviewAppendix } from "../review/operational-data"
 import { requireStepDefinition } from "../steps/registry"
 import type { ParsedArgs } from "./args"
 
@@ -154,17 +155,20 @@ async function next(context: Context): Promise<CommandResult> {
 
   const definition = requireStepDefinition(step.id)
   const catalog = await promptCatalog(context)
-  const rendered = renderPrompt(catalog, step.id, promptValues(spec, step))
+  const rendered = renderPrompt(catalog, step.id, promptValuesFor(spec, step))
   const contract = deliveryContract(context, spec, step, definition.gate)
-  const prompt = `${contract}\n\n---\n\n${rendered}`
+  const operationalData = await operationalDataAppendix(context, spec, step)
+  const prompt = `${contract}\n\n---\n\n${rendered}${operationalData ? `\n\n${operationalData}` : ""}`
   const promptFile = await writePrompt(context, step, prompt)
   const snapshot = await writeSnapshot(context, spec, step, definition.gate)
+  const claimedStatus = definition.gate === "human-signoff" ? "awaiting-human" : "in-progress"
   const claimed = startStep(state, step.key, {
     owner: context.args.owner || detectOwner(),
     agent: detectAgent(),
     provider: context.args.provider || spec.writerProvider,
     now: context.now,
-    force: context.args.force
+    force: context.args.force,
+    status: claimedStatus
   })
   await saveRunState(context.projectRoot, claimed)
   const chapterNumber = chapterNumberOf(spec, step)
@@ -174,7 +178,7 @@ async function next(context: Context): Promise<CommandResult> {
     payload: {
       ok: true,
       command: "next",
-      step: { ...step, status: "in-progress" },
+      step: { ...step, status: claimedStatus },
       definition,
       promptFile: path.relative(context.projectRoot, promptFile),
       gate: definition.gate ?? null,
@@ -380,6 +384,12 @@ function chapterNumberOf(spec: VolumeSpec, step: StepRecord) {
   return module.chapters.find((chapter) => chapter.file === file)?.number
 }
 
+function chapterOf(spec: VolumeSpec, step: StepRecord) {
+  const module = moduleOf(spec, step)
+  const chapterNumber = chapterNumberOf(spec, step)
+  return chapterNumber ? module?.chapters.find((chapter) => chapter.number === chapterNumber) : undefined
+}
+
 function gateContext(spec: VolumeSpec, step: StepRecord, context: Context) {
   return {
     wikiRoot: context.wikiRoot,
@@ -391,7 +401,7 @@ function gateContext(spec: VolumeSpec, step: StepRecord, context: Context) {
   }
 }
 
-function promptValues(spec: VolumeSpec, step: StepRecord) {
+export function promptValuesFor(spec: VolumeSpec, step: StepRecord) {
   const module = moduleOf(spec, step)
 
   return {
@@ -399,8 +409,8 @@ function promptValues(spec: VolumeSpec, step: StepRecord) {
     VOLUME_TITLE: spec.volumeTitle,
     CUT_OFF_DATE: spec.cutOffDate,
     RESPONSABILE: spec.responsabileNormativo,
-    MODULE_CODE: module?.code ?? "",
-    MODULE_ID: module?.moduleId ?? "",
+    MODULE_CODE: module?.code ?? spec.modules.map((item) => item.code).join(", "),
+    MODULE_ID: module?.moduleId ?? spec.modules.map((item) => item.moduleId).join(", "),
     CHAPTER_FILE: step.scope === "chapter" ? `wiki/books/${step.target}` : "",
     CHAPTER_NUMBER: chapterNumberOf(spec, step) ?? ""
   }
@@ -430,6 +440,9 @@ async function writePrompt(context: Context, step: StepRecord, prompt: string) {
 
 function deliveryContract(context: Context, spec: VolumeSpec, step: StepRecord, gate: string | undefined) {
   const chapterNumber = chapterNumberOf(spec, step)
+  const chapter = chapterOf(spec, step)
+  const minWords = chapter?.minWords ?? 3000
+  const minQuizzes = chapter?.minQuizzes ?? 6
   const closing = `npm run pipeline -- complete ${spec.volumeCode} --step ${step.id}${moduleOf(spec, step) ? ` --module ${moduleOf(spec, step)?.code}` : ""}${chapterNumber ? ` --chapter ${chapterNumber}` : ""}`
 
   return [
@@ -438,13 +451,41 @@ function deliveryContract(context: Context, spec: VolumeSpec, step: StepRecord, 
     ...(gate === "review-report"
       ? [`> Scrivi il report nel template fisso del Revisore Editoriale Totale in \`wiki/${reportRelativePathOf(spec.volumeCode, step)}\`.`]
       : []),
-    ...(gate === "chapter-lint" ? ["> Il capitolo deve avere un solo H1, frontmatter veritiero con `source_refs` e `draft_stage`, nessun segnaposto e nessun meta-commento."] : []),
+    ...(gate === "chapter-lint"
+      ? [
+          "> Contratto studente: capitolo autosufficiente senza accesso alla wiki, con obiettivo, Mappa BANDO, teoria, applicazione, errore e verifica; nessun link o linguaggio editoriale interno nel corpo. Tracciabilità in `source_refs` e `last_compiled_from`."
+        ]
+      : []),
     ...(gate === "citation-guard"
-      ? ["> Wikilink, `source_refs` e riferimenti normativi devono restare identici a prima dell'Humanizer: la pipeline ne ha salvato lo snapshot."]
+      ? [
+          "> Lo snapshot protegge `source_refs`, riferimenti normativi e rinvii didattici pubblicabili. I link interni di conoscenza vanno rimossi dal corpo e non possono essere introdotti dall'Humanizer."
+        ]
       : []),
     ...(gate === "coverage" ? ["> Il gate valuta le righe della matrice collocate in questo capitolo: nessuno stato `parziale`, `solo-nominato` o `mancante`."] : []),
+    ...(["09", "10"].includes(step.id)
+      ? [
+          `> Formato 2: almeno 5 nuclei da 600 parole, ${minWords} parole nel capitolo, ${minQuizzes} quiz commentati, 1 caso ragionato e un blocco ▣ Verifica ogni 5-7 nuclei.`,
+          "> Lo step 10 combina copertura per Nucleo ID, checklist dimensionale e densità; i capitoli legacy ricevono solo `retrofit-dovuto`."
+        ]
+      : []),
     `> Al termine: \`${closing}\``
   ].join("\n")
+}
+
+async function operationalDataAppendix(context: Context, spec: VolumeSpec, step: StepRecord) {
+  if (step.id !== "15") return ""
+
+  const module = moduleOf(spec, step)
+  if (!module) return renderOperationalDataReviewAppendix([])
+
+  const rows = (await Promise.all(module.chapters.map(async (chapter) => {
+    const relative = `wiki/books/${module.moduleId}/${chapter.file}`
+    const absolute = path.join(context.wikiRoot, "books", ...module.moduleId.split("/"), ...chapter.file.split("/"))
+    const content = await readFile(absolute, "utf8").catch(() => "")
+    return content ? extractOperationalDataReviewRows(content, relative) : []
+  }))).flat()
+
+  return renderOperationalDataReviewAppendix(rows)
 }
 
 async function writeSnapshot(context: Context, spec: VolumeSpec, step: StepRecord, gate: string | undefined) {

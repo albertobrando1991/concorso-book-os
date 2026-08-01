@@ -45,6 +45,16 @@ describe("startStep", () => {
     expect(statusOf(before, "08")).toBe("pending")
     expect(after.steps[0]).toMatchObject({ status: "in-progress", owner: "collega", agent: "codex-cli", provider: "codex", startedAt: now, attempts: 1 })
   })
+  it("marks a claimed human gate as awaiting human review", () => {
+    const after = startStep(state(), stepKey("08", chapter), {
+      owner: "collega",
+      agent: "codex-cli",
+      now,
+      status: "awaiting-human"
+    })
+
+    expect(after.steps[0]).toMatchObject({ status: "awaiting-human", owner: "collega", attempts: 1 })
+  })
   it("refuses a step already claimed by someone else", () => {
     const claimed = startStep(state(), stepKey("08", chapter), { owner: "collega", agent: "codex-cli", now })
     expect(() => startStep(claimed, stepKey("08", chapter), { owner: "altro", agent: "claude-code", now: later })).toThrow(/collega/)

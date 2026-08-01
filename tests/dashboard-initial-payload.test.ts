@@ -72,7 +72,8 @@ function bookStudioData(chapters: BookStudioChapter[]): BookStudioData {
       assets: 0
     },
     chapters,
-    assets: []
+    assets: [],
+    editorialPlan: null
   }
 }
 

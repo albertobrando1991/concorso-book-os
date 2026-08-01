@@ -1,0 +1,62 @@
+[
+  {
+    "id": "OSS-01",
+    "file": "oss-01-niguarda-5-oss-2025.pdf",
+    "bytes": 347272,
+    "sha256": "1EC3C36E2F7157BF7A7D06230DF212272CBDF87D3AE238E3D7662D172F8E6EF8",
+    "landing": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ffc7bb6a23084280b594163b6363d65a",
+    "media": "https://portale.inpa.gov.it/api/media/57b6384a-0562-41d7-83a1-50ebcd4a7e85",
+    "authority": "ASST Grande Ospedale Metropolitano Niguarda",
+    "checked_at": "2026-07-28"
+  },
+  {
+    "id": "OSS-02",
+    "file": "oss-02-asst-pavia-2-oss-2025.pdf",
+    "bytes": 365614,
+    "sha256": "A1C705DC08BA0F418B0332FBBFDE76A75B53CD7045A6A945B549B3EC6DC6B589",
+    "landing": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=daf48ada836d465f9d60799d6ecbcbfe",
+    "media": "https://portale.inpa.gov.it/api/media/00ef9622-2f0b-4e26-9377-6d8d202059c1",
+    "authority": "ASST Pavia",
+    "checked_at": "2026-07-28"
+  },
+  {
+    "id": "OSS-03",
+    "file": "oss-03-asp-delta-ferrarese-1-oss-2026.pdf",
+    "bytes": 419781,
+    "sha256": "316002AB853A371255B319CC590EA3EBF3E8641F0E874742485ED6AE5122D630",
+    "landing": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=867674df081a4bbc996490a1621d363d",
+    "media": "https://portale.inpa.gov.it/api/media/c8bd1013-dfd0-4a0d-9d72-13a5edcadb13",
+    "authority": "ASP del Delta Ferrarese",
+    "checked_at": "2026-07-28"
+  },
+  {
+    "id": "OSS-04",
+    "file": "oss-04-asp-azalea-5-oss-2026.pdf",
+    "bytes": 490173,
+    "sha256": "1B9F9795A5E3933800A8334C295EC38023565EBB8CB53C0AA305CE64FD222F26",
+    "landing": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4195a75e48de4a80b9c0d09d3fe44fe2",
+    "media": "https://portale.inpa.gov.it/api/media/376c6e88-e58b-47da-8c5e-07dc580e01ae",
+    "authority": "ASP Azalea",
+    "checked_at": "2026-07-28"
+  },
+  {
+    "id": "OSS-05",
+    "file": "oss-05-casa-albergo-4-oss-2026.pdf",
+    "bytes": 691785,
+    "sha256": "9094F8DF5DFC2CAC043A63AE8CB362B3C3F0D068E527BB3291B03C45A7A09803",
+    "landing": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=b438a97891cf4ebe9882aaab876bd9cb",
+    "media": "https://portale.inpa.gov.it/api/media/5aa2c747-fe71-449a-baec-8e62a2c4d9eb",
+    "authority": "Casa Albergo per Anziani di Lendinara",
+    "checked_at": "2026-07-28"
+  },
+  {
+    "id": "OSS-06",
+    "file": "oss-06-canelli-1-oss-2026.pdf",
+    "bytes": 461688,
+    "sha256": "F2BB54AEFB7B400EE789E7C16E84FA87F748D685AD2D8F99B760D29C0960A0A1",
+    "landing": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0520a259ad594896aff075da20a0d8f8",
+    "media": "https://portale.inpa.gov.it/api/media/d1f2e9d5-5e31-441c-95ed-93a10a8457f9",
+    "authority": "Comune di Canelli - Casa di riposo comunale",
+    "checked_at": "2026-07-28"
+  }
+]

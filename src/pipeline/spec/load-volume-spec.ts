@@ -1,5 +1,6 @@
 import { readdir, readFile } from "node:fs/promises"
 import path from "node:path"
+import { isLegacyEditorialPlanPath } from "../../server/wiki/editorial-document"
 import { hashContent } from "../state/run-state-store"
 import { parseVolumeSpec, type VolumeSpec, type VolumeSpecModule } from "./parse-volume-spec"
 import { validateVolumeSpec, type SpecIssue } from "./validate-volume-spec"
@@ -50,6 +51,7 @@ async function deriveChapters(module: VolumeSpecModule, wikiRoot: string): Promi
     ...module,
     chapters: files.map((file) => ({
       number: /^(\d+[a-z]?)/i.exec(file)?.[1] ?? file.replace(/\.md$/i, ""),
+      title: "",
       file: `chapters/${file}`,
       matrix: "",
       expectedStatus: "",
@@ -63,7 +65,12 @@ async function listMarkdown(directory: string) {
     const entries = await readdir(directory, { withFileTypes: true })
 
     return entries
-      .filter((entry) => entry.isFile() && entry.name.endsWith(".md") && !entry.name.startsWith("_"))
+      .filter((entry) =>
+        entry.isFile() &&
+        entry.name.endsWith(".md") &&
+        !entry.name.startsWith("_") &&
+        !isLegacyEditorialPlanPath(`/chapters/${entry.name}`)
+      )
       .map((entry) => entry.name)
       .sort((left, right) => left.localeCompare(right, "it"))
   } catch (error) {

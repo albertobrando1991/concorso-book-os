@@ -1,5 +1,5 @@
 import { WRITER_PROVIDERS } from "../../server/config"
-import { PHASE_IDS, type VolumeSpec, type VolumeSpecModule } from "./parse-volume-spec"
+import { PHASE_IDS, type VolumeSpec, type VolumeSpecChapter, type VolumeSpecModule } from "./parse-volume-spec"
 
 export interface SpecIssue {
   field: string
@@ -117,19 +117,37 @@ function validateModule(module: VolumeSpecModule, prefix: string, volumePhases: 
   }
 
   const chapterIssues = module.chapters.flatMap((chapter, index) =>
-    validateChapter(chapter.file, chapter.number, `${prefix}.chapters[${index}]`, module.chapterLines[index])
+    validateChapter(chapter, module.chaptersSource, `${prefix}.chapters[${index}]`, module.chapterLines[index])
   )
 
   return [...issues, ...chapterIssues]
 }
 
-function validateChapter(file: string, number: string, prefix: string, line: number | undefined): SpecIssue[] {
+function validateChapter(
+  chapter: VolumeSpecChapter,
+  chaptersSource: VolumeSpecModule["chaptersSource"],
+  prefix: string,
+  line: number | undefined
+): SpecIssue[] {
   const issues: SpecIssue[] = []
+  const { file, number, title } = chapter
 
   if (!number.trim()) issues.push({ field: `${prefix}.number`, message: "Numero capitolo mancante nella colonna #.", line })
+  if (chaptersSource === "declared" && !title.trim()) {
+    issues.push({ field: `${prefix}.title`, message: "Titolo capitolo mancante nella colonna Titolo.", line })
+  }
 
-  if (!CHAPTER_FILE.test(file)) {
-    issues.push({ field: `${prefix}.file`, message: `Percorso capitolo non valido: "${file}" (atteso chapters/<nome>.md, relativo al modulo).`, line })
+  if (!CHAPTER_FILE.test(chapter.file)) {
+    issues.push({ field: `${prefix}.file`, message: `Percorso capitolo non valido: "${chapter.file}" (atteso chapters/<nome>.md, relativo al modulo).`, line })
+  }
+
+  for (const [field, value, label] of [
+    ["minWords", chapter.minWords, "Min parole"],
+    ["minQuizzes", chapter.minQuizzes, "Min quiz"]
+  ] as const) {
+    if (value !== undefined && (!Number.isInteger(value) || value <= 0)) {
+      issues.push({ field: `${prefix}.${field}`, message: `${label} deve essere un intero maggiore di zero.`, line })
+    }
   }
 
   return issues

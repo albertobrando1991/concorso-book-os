@@ -6,10 +6,13 @@ export type PhaseId = (typeof PHASE_IDS)[number]
 
 export interface VolumeSpecChapter {
   number: string
+  title: string
   file: string
   matrix: string
   expectedStatus: string
   notes: string
+  minWords?: number
+  minQuizzes?: number
 }
 
 export interface VolumeSpecModule {
@@ -88,13 +91,24 @@ function collectChapterTables(markdown: string) {
 }
 
 function toChapter(row: Record<string, string>): VolumeSpecChapter {
+  const minWords = optionalInteger(row["min parole"] ?? row.min_parole)
+  const minQuizzes = optionalInteger(row["min quiz"] ?? row.min_quiz)
+
   return {
     number: row["#"] ?? row.numero ?? "",
+    title: row.titolo ?? row.title ?? "",
     file: row.file ?? "",
     matrix: row.matrice ?? "",
     expectedStatus: row["stato atteso"] ?? "",
-    notes: row.note ?? ""
+    notes: row.note ?? "",
+    ...(minWords === undefined ? {} : { minWords }),
+    ...(minQuizzes === undefined ? {} : { minQuizzes })
   }
+}
+
+function optionalInteger(value: string | undefined) {
+  if (value === undefined || value.trim() === "") return undefined
+  return Number(value.trim())
 }
 
 function toPriority(value: string | undefined) {

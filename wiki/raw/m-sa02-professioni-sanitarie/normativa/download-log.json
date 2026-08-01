@@ -1,0 +1,182 @@
+[
+  {
+    "id": "NS-04",
+    "file": "dm-739-1994-profilo-infermiere-gu.html",
+    "bytes": 10681,
+    "sha256": "B37C057E6A5E17BF0D103B524EF2D37691CD7C1E1EB729F31F5C491E00B1FFEC",
+    "authority": "Gazzetta Ufficiale",
+    "url": "https://www.gazzettaufficiale.it/atto/vediMenuHTML?action=select-all&atto.codiceRedazionale=095G0001&atto.dataPubblicazioneGazzetta=1995-01-09&tipoSerie=serie_generale&tipoVigenza=originario",
+    "checked_at": "2026-07-28"
+  },
+  {
+    "id": "NS-05",
+    "file": "dm-740-1994-profilo-ostetrica-gu.html",
+    "bytes": 11311,
+    "sha256": "5EDF1D8CEF5A30E9BCA3A48DF4042F673B97F92F1FF2C9B05A5C4E7F9B39BB4B",
+    "authority": "Gazzetta Ufficiale",
+    "url": "https://www.gazzettaufficiale.it/atto/vediMenuHTML?action=select-all&atto.codiceRedazionale=095G0002&atto.dataPubblicazioneGazzetta=1995-01-09&tipoSerie=serie_generale&tipoVigenza=originario",
+    "checked_at": "2026-07-28"
+  },
+  {
+    "id": "NS-06",
+    "file": "dm-741-1994-profilo-fisioterapista-gu.html",
+    "bytes": 10684,
+    "sha256": "FD00DEF3B36FEE3297B4EF96CE0B79A7263565665DA3E77E40FDDF68526B3597",
+    "authority": "Gazzetta Ufficiale",
+    "url": "https://www.gazzettaufficiale.it/atto/vediMenuHTML?action=select-all&atto.codiceRedazionale=095G0003&atto.dataPubblicazioneGazzetta=1995-01-09&tipoSerie=serie_generale&tipoVigenza=originario",
+    "checked_at": "2026-07-28"
+  },
+  {
+    "id": "NS-09",
+    "file": "dm-58-1997-profilo-tpall-gu.html",
+    "bytes": 10096,
+    "sha256": "42E3971A873A184E2C2AB0957248871999C53DF86BE5C8B6642967157BCECDBE",
+    "authority": "Gazzetta Ufficiale",
+    "url": "https://www.gazzettaufficiale.it/atto/vediMenuHTML?action=select-all&atto.codiceRedazionale=097G0086&atto.dataPubblicazioneGazzetta=1997-03-14&tipoSerie=serie_generale&tipoVigenza=originario",
+    "checked_at": "2026-07-28"
+  },
+  {
+    "id": "NP-12",
+    "file": "legge-42-1999-professioni-sanitarie-vigente.html",
+    "bytes": 80839,
+    "sha256": "6A3C464A4F6482E3641EFEA2EAA15D49A366AB163F125FB27E985A5F8A218D43",
+    "authority": "Normattiva",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-02-26;42",
+    "checked_at": "2026-07-28"
+  },
+  {
+    "id": "NP-08",
+    "file": "legge-251-2000-professioni-sanitarie-vigente.html",
+    "bytes": 69946,
+    "sha256": "1F379D3A203E5F253E68D8BA942746D4B865A1805C565D97614F76B8B342C816",
+    "authority": "Normattiva",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-08-10;251",
+    "checked_at": "2026-07-28"
+  },
+  {
+    "id": "NS-11",
+    "file": "dpr-220-2001-concorsi-personale-ssn-vigente.html",
+    "bytes": 119667,
+    "sha256": "9AD016CE8E011A5DA58F5F54FDC6FEDF0B32662BCFF5F99E883FF3C4AB10CD86",
+    "authority": "Normattiva",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-03-27;220",
+    "checked_at": "2026-07-28"
+  },
+  {
+    "id": "NP-07",
+    "file": "legge-43-2006-professioni-sanitarie-vigente.html",
+    "bytes": 71366,
+    "sha256": "1F37D2032068D6D5F290DF09210DE4830A1DE1424C6AD1DBDCC55D86F7F85EF3",
+    "authority": "Normattiva",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-01;43",
+    "checked_at": "2026-07-28"
+  },
+  {
+    "id": "NP-05",
+    "file": "legge-24-2017-sicurezza-cure-responsabilita-vigente.html",
+    "bytes": 77035,
+    "sha256": "11612BCA323836E77CB9CE0983A3F60D2EC14E4E89E7A1ACB2A80B0AC239F6D2",
+    "authority": "Normattiva",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24",
+    "checked_at": "2026-07-28"
+  },
+  {
+    "id": "NP-06",
+    "file": "legge-219-2017-consenso-dat-vigente.html",
+    "bytes": 76494,
+    "sha256": "4147CCA41C8CBD5BF394A232C9AAA2B7E76591712F5ED7E4118BB1F9B7A9D09B",
+    "authority": "Normattiva",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-22;219",
+    "checked_at": "2026-07-28"
+  },
+  {
+    "id": "NP-09",
+    "file": "legge-3-2018-ordini-professioni-sanitarie-vigente.html",
+    "bytes": 110655,
+    "sha256": "CA69AA1F1ECABCC089F930529C72BD12888C49DDC6C75E9600F5AE20060C93F4",
+    "authority": "Normattiva",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-01-11;3",
+    "checked_at": "2026-07-28"
+  },
+  {
+    "id": "TPALL-SANZ-01",
+    "file": "dlgs-81-2008-sicurezza-lavoro-vigente.html",
+    "bytes": 553571,
+    "sha256": "8626EB7E5C120B81DE6BB4A1B53B7A881A70911616F42849B7EA0F3AF81A7AF1",
+    "authority": "Normattiva",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81",
+    "checked_at": "2026-07-28"
+  },
+  {
+    "id": "TPALL-AMB-01",
+    "file": "dlgs-152-2006-ambiente-vigente.html",
+    "bytes": 958011,
+    "sha256": "21B6247E2C0FC8581C73CD9FB26AE737E67DCF7D477823A95B66FA26F310CADE",
+    "authority": "Normattiva",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152",
+    "checked_at": "2026-07-28"
+  },
+  {
+    "id": "TPALL-SANZ-02",
+    "file": "legge-689-1981-sanzioni-amministrative-vigente.html",
+    "bytes": 182578,
+    "sha256": "E5FD4F6B6AB8E765C0496FFD2EE6A9376CA643A71D40DC3BD8D6E6C143E8F00B",
+    "authority": "Normattiva",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689",
+    "checked_at": "2026-07-28"
+  },
+  {
+    "id": "TPALL-SANZ-03",
+    "file": "dlgs-758-1994-prescrizioni-sicurezza-vigente.html",
+    "bytes": 82640,
+    "sha256": "371CD1F2C8714B197FEF075F813F78E34A1A23D339A0DC68838643EDBDACD891",
+    "authority": "Normattiva",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994-12-19;758",
+    "checked_at": "2026-07-28"
+  },
+  {
+    "id": "TPALL-CU-02",
+    "file": "dlgs-27-2021-controlli-ufficiali-vigente.html",
+    "bytes": 170132,
+    "sha256": "7BA0BBB2591D418AF25CD9C71B2BE01AD02BA226C6DA1B35E959C3DB198A9CF1",
+    "authority": "Normattiva",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;27",
+    "checked_at": "2026-07-28"
+  },
+  {
+    "id": "TPALL-AMB-02",
+    "file": "dpr-59-2013-autorizzazione-unica-ambientale-vigente.html",
+    "bytes": 144316,
+    "sha256": "B433B46893C0B33B5046593D80C73614ACBC94FC07F7E4573666378B13288ECE",
+    "authority": "Normattiva",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2013-03-13;59",
+    "checked_at": "2026-07-28"
+  },
+  {
+    "id": "TPALL-PG-01",
+    "file": "dpr-447-1988-codice-procedura-penale-vigente.html",
+    "bytes": 1211690,
+    "sha256": "F2BC9373F44E4001B852246245314C1CCCD59040AEE86091011F5ECDEF3040AA",
+    "authority": "Normattiva",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;447",
+    "checked_at": "2026-07-28"
+  },
+  {
+    "id": "TPALL-ALIM-01",
+    "file": "legge-283-1962-disciplina-alimenti-vigente.html",
+    "bytes": 98510,
+    "sha256": "361859AB91FE0C89DAE0EC3F1B96B7C28C929B2F93DF208E740B26C8BA1D98D2",
+    "authority": "Normattiva",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283",
+    "checked_at": "2026-07-28"
+  },
+  {
+    "id": "TPALL-ALIM-02",
+    "file": "dpr-327-1980-regolamento-igiene-alimenti-vigente.html",
+    "bytes": 161786,
+    "sha256": "0574CBE1A8058A9392651B7CD56B5CDC3EC44D306478B4DD3EE9D6B95846C287",
+    "authority": "Normattiva",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-03-26;327",
+    "checked_at": "2026-07-28"
+  }
+]

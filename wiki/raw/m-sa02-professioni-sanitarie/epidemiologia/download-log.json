@@ -1,0 +1,119 @@
+[
+  {
+    "id": "EPI-01",
+    "file": "iss-rapporti-istisan-06-s2-formazione-epidemiologia.pdf",
+    "bytes": 1454932,
+    "sha256": "F8E31AE60C9B836A0D1747BB1B018B318562260DC533D63CA28D368D03D0BC7B",
+    "authority": "Istituto Superiore di Sanità",
+    "url": "https://www.iss.it/documents/20126/45616/0394_9303_2006_I_06-S2.1145354129.pdf",
+    "checked_at": "2026-07-28"
+  },
+  {
+    "id": "EPI-02",
+    "file": "iss-rapporti-istisan-06-19-studi-caso-controllo.pdf",
+    "bytes": 2442909,
+    "sha256": "B07B5C3F8D000EF58494C3AB6783DFCE937BAC77E084A6AE43EBA64D69059EF0",
+    "authority": "Istituto Superiore di Sanità",
+    "url": "https://www.iss.it/documents/20126/2556144/06-19.1153923997.1154420944.pdf/7359fb97-ce01-5847-68b6-481b76e97eaa?download=true&t=1576433782401&version=1.2",
+    "checked_at": "2026-07-28"
+  },
+  {
+    "id": "EPI-03",
+    "file": "iss-corso-epidemiologia-base-programma-2020.pdf",
+    "bytes": 108328,
+    "sha256": "6652D21F88779942E840B89810EF0E60F79C9FE6727B32DAEDDA5E51C8ED06F4",
+    "authority": "Istituto Superiore di Sanità",
+    "url": "https://www.iss.it/documents/20126/0/Programma%2BID%2B018C20%2BCorso%2Bdi%2Bbase%2Bepidemiologia%2B%281%29.pdf/5e016475-4e58-8c8f-2ed6-b4a806fb6dfe?t=1583850062683",
+    "checked_at": "2026-07-28"
+  },
+  {
+    "id": "EPI-04",
+    "file": "iss-epicentro-glossario-sensibilita-specificita.pdf",
+    "bytes": 1026027,
+    "sha256": "B5F63EF54F27BFDAA9BF63EBEAAD0F120B35444B347BF9EB2743F046A1AFBE3C",
+    "authority": "Istituto Superiore di Sanità - EpiCentro",
+    "url": "https://www.epicentro.iss.it/coronavirus/img/info/Glossario-1.pdf",
+    "checked_at": "2026-07-28"
+  },
+  {
+    "id": "EPI-05",
+    "file": "iss-passi-protocollo-operativo-2023.pdf",
+    "bytes": 1040100,
+    "sha256": "D34BC155A7E94D76936A949EC152C0CA84213D8CDB5873630275E51A600FA016",
+    "authority": "Istituto Superiore di Sanità - EpiCentro",
+    "url": "https://www.epicentro.iss.it/passi/pdf2024/protocollo-operativo-passi.pdf",
+    "checked_at": "2026-07-29"
+  },
+  {
+    "id": "EPI-06",
+    "file": "iss-passi-screening-mammografico-2021-2022.pdf",
+    "bytes": 434292,
+    "sha256": "0B79771F6B4E636971056489A6B544FF11DA5B842F01D69AAFBDB62E6E04C6C0",
+    "authority": "Istituto Superiore di Sanità - EpiCentro",
+    "url": "https://www.epicentro.iss.it/passi/pdf2024/11_SCREENING%20MAMMOGRAFICO.pdf",
+    "checked_at": "2026-07-29"
+  },
+  {
+    "id": "EPI-07",
+    "file": "iss-passi-screening-cervicale-2021-2022.pdf",
+    "bytes": 324960,
+    "sha256": "4802AD8B2F6F751473954A9A7D04836FB57408D85B2C0BBA6F5338FA199E26C4",
+    "authority": "Istituto Superiore di Sanità - EpiCentro",
+    "url": "https://www.epicentro.iss.it/passi/pdf2024/10_SCREENING%20CERVICE.pdf",
+    "checked_at": "2026-07-29"
+  },
+  {
+    "id": "EPI-08",
+    "file": "iss-passi-tabella-sorveglianze-dicembre-2025.pdf",
+    "bytes": 1484611,
+    "sha256": "E810B35C2A2F09A3BE47158065C9148BBA6A043E7C99B1D5E5373E45F56E962F",
+    "authority": "Istituto Superiore di Sanità - EpiCentro",
+    "url": "https://www.epicentro.iss.it/passi/pdf2026/Tabella_Sorveglianze_Dicembre%202025.pdf",
+    "checked_at": "2026-07-29"
+  },
+  {
+    "id": "EPI-09",
+    "file": "iss-passi-screening-colorettale-2023-2024.html",
+    "bytes": 73015,
+    "sha256": "2266FDF838013C5036409FB8A22F1741AD858E04A5FF9164EB8DD3FDFBE08CD5",
+    "authority": "Istituto Superiore di Sanità - EpiCentro",
+    "url": "https://www.epicentro.iss.it/passi/dati/ScreeningColorettale?tab-container-1=tab1",
+    "checked_at": "2026-07-29"
+  }
+  ,{
+    "id": "EPI-10",
+    "file": "gazzetta-ufficiale-dm-7-marzo-2022-premal.pdf",
+    "bytes": 3991233,
+    "sha256": "68701B037A471CE6E54FB1745431F7F8C5966CFA9816AAB18E14493C854DEF67",
+    "authority": "Gazzetta Ufficiale della Repubblica Italiana",
+    "url": "https://www.gazzettaufficiale.it/eli/gu/2022/04/07/82/sg/pdf",
+    "checked_at": "2026-07-29"
+  }
+  ,{
+    "id": "EPI-11",
+    "file": "iss-epicentro-gestione-malattie-veicolate-alimenti.pdf",
+    "bytes": 1447813,
+    "sha256": "58028B1236DEA10BDB18F15B44B5B3239D660892F79C2CE6B33C820ADAA85780",
+    "authority": "Istituto Superiore di SanitÃ  - EpiCentro",
+    "url": "https://www.epicentro.iss.it/tossinfezioni/pdf/LINEE%20GUIDA%20PER%20LA%20CORRETTA%20GESTIONE%20DELLE%20MALATTIE%20VEICOLATE%20DA%20ALIMENTI.pdf",
+    "checked_at": "2026-07-29"
+  },
+  {
+    "id": "EPI-12",
+    "file": "ecdc-guidelines-outbreak-investigation-reports-2022.pdf",
+    "bytes": 229262,
+    "sha256": "8F0D930E352A738FDBB05220701C48829E9C3AF99F3F1906D48B13D199AC53DC",
+    "authority": "European Centre for Disease Prevention and Control",
+    "url": "https://www.ecdc.europa.eu/sites/default/files/documents/Annex-05-Guidelines-for-writing-outbreak-investigation-reports-2022.pdf",
+    "checked_at": "2026-07-29"
+  },
+  {
+    "id": "EPI-13",
+    "file": "ecdc-tool-case-definitions.pdf",
+    "bytes": 634332,
+    "sha256": "04FADC0E60F3C8B95FD90A7986107289302B30BEA0C9AE51D249A4E2AA8965E9",
+    "authority": "European Centre for Disease Prevention and Control",
+    "url": "https://www.ecdc.europa.eu/sites/default/files/media/en/healthtopics/food_and_waterborne_disease/toolkit/Documents/tool-03-1-case-definitions.pdf",
+    "checked_at": "2026-07-29"
+  }
+]

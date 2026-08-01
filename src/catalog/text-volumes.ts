@@ -111,8 +111,8 @@ export const TEXT_VOLUME_CATALOG: TextVolume[] = [
   },
   {
     code: "VOL-07",
-    title: "Sanita amministrativa e professioni sanitarie",
-    shortTitle: "Sanita",
+    title: "Sanità amministrativa e professioni sanitarie",
+    shortTitle: "Sanità",
     tier: "vertical",
     launchWave: "first",
     modules: ["M-SA01", "M-SA02", "M-SA03", "M-SA04"],

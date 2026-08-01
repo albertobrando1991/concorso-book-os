@@ -1,0 +1,3 @@
+# Piano di capitolo — M-SA03, capitolo 03
+
+Nucleo: linee guida, evidenze, forza della raccomandazione, appropriatezza e decisione nel setting. Struttura: ciclo di vita; forza e qualità; dimensioni dell'appropriatezza; adattamento locale; caso; risposta orale; verifica. Evitare protocolli clinici, dosaggi e trasferimento di una raccomandazione a popolazioni o setting diversi. Usare manuale ISS/SNLG, legge 24/2017 e fonti AGENAS; review metodologica, clinica e normativa allo step 15. Budget 2.400 parole con box, caso, domanda, trappola, esercizio e checklist. Verifica manuale: matrice, fonti, confini con clinica verticale e capitoli 11/12, gerarchia e apparati controllati.

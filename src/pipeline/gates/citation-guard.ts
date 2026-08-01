@@ -1,6 +1,7 @@
 import { parseFrontmatter } from "../../server/wiki/frontmatter"
 import { extractWikiLinks } from "../../server/wiki/markdown"
 import type { GateIssue, GateResult } from "../state/types"
+import { isInternalKnowledgeLink } from "./reader-contract"
 
 export interface CitationGuardInput {
   before: string
@@ -37,7 +38,13 @@ export function runCitationGuard(input: CitationGuardInput): GateResult {
   const blockers = [
     ...missing(before.links, after.links).map((value) => at("lost-wikilink", `Wikilink perso nell'Humanizer: [[${value}]].`)),
     ...missing(before.sourceRefs, after.sourceRefs).map((value) => at("lost-source-ref", `source_refs perso dal frontmatter: ${value}.`)),
-    ...missing(before.norms, after.norms).map((value) => at("lost-norm", `Riferimento normativo scomparso dal testo: ${value}.`))
+    ...missing(before.norms, after.norms).map((value) => at("lost-norm", `Riferimento normativo scomparso dal testo: ${value}.`)),
+    ...[...after.internalLinks].map((value) =>
+      at(
+        "new-internal-knowledge-link",
+        `Link interno presente nel testo destinato allo studente: [[${value}]]. Mantieni la tracciabilità nel frontmatter.`
+      )
+    )
   ]
   const warnings = [
     ...missing(after.links, before.links).map((value) =>
@@ -56,7 +63,8 @@ function analyze(content: string) {
   const frontmatter = data as Record<string, unknown>
 
   return {
-    links: new Set(extractWikiLinks(body).map(normalizeValue)),
+    links: new Set(extractWikiLinks(body).filter((link) => !isInternalKnowledgeLink(link)).map(normalizeValue)),
+    internalLinks: new Set(extractWikiLinks(body).filter(isInternalKnowledgeLink).map(normalizeValue)),
     sourceRefs: new Set(asList(frontmatter.source_refs).map(normalizeValue)),
     norms: new Set(NORM_PATTERNS.flatMap((pattern) => body.match(pattern) ?? []).map(normalizeNorm))
   }

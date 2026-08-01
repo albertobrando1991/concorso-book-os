@@ -138,3 +138,10 @@ La non duplicazione opera insieme a [[sources/principio-copertura-didattica-inte
 Ogni modulo mantiene una matrice con materia, concetti, fonti, collocazione, teoria, applicazione, output, verifica, stato e review normativa. `solo-nominato` e `mancante` bloccano la pubblicazione; `parziale` richiede integrazione; `rinviato` e' valido solo dopo verifica della destinazione.
 
 Non duplicazione e completezza non sono alternative: un rinvio sostituisce la duplicazione soltanto quando la destinazione insegna davvero il concetto.
+
+## Modello editoriale ibrido a nuclei
+
+- Il volume specialistico non duplica VOL-01, ma deve reggere autonomamente il confronto a scaffale sul delta di famiglia: teoria specialistica, applicazioni, atti, formule e procedure descrittive pertinenti.
+- Ogni capitolo in formato 2 è una sequenza di nuclei con ID stabile `N-XX00-00-00` e verifiche intercalate.
+- Ogni rinvio al nucleo comune usa `[[books/il-metodo-bando/chapters/<file>#<heading>]]`; file e heading devono esistere.
+- Appendici e verticali sono ammessi quando aggiungono profondità reale. Le appendici operative restano soggette a fonti consolidate e review umana.

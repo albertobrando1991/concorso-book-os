@@ -34,12 +34,12 @@ export const STEP_REGISTRY: StepDefinition[] = [
   definition("07", "B", "Matrice di copertura didattica v4", "module", "llm", "manual", "coverage"),
   definition("08", "C", "Piano operativo del singolo capitolo", "chapter", "llm", "automated", "chapter-plan"),
   definition("09", "C", "Scrittura o completamento del capitolo", "chapter", "llm", "automated", "chapter-lint"),
-  definition("10", "C", "Controllo di copertura del capitolo", "chapter", "llm", "automated", "coverage"),
+  definition("10", "C", "Controllo di copertura del capitolo", "chapter", "llm", "automated", "didactic-density"),
   definition("11", "C", "Humanizer del capitolo", "chapter", "llm", "automated", "citation-guard"),
   definition("12", "C", "Revisione editoriale del capitolo", "chapter", "llm", "automated", "review-report"),
   definition("13", "D", "Revisione trasversale del modulo", "module", "llm", "automated", "review-report"),
   definition("14", "D", "Correzione del report editoriale", "module", "llm", "automated", "review-report"),
-  definition("15", "D", "Review umana specialistica", "module", "human", "automated", "human-signoff"),
+  definition("15", "D", "Audit specialistico conclusivo del modulo", "module", "llm", "automated", "review-report"),
   definition("16", "D", "Congelamento del testo", "module", "deterministic", "automated", "text-freeze"),
   definition("17", "E", "Filosofia visiva del volume", "volume", "llm", "manual"),
   definition("18", "E", "Audit e ottimizzazione delle immagini", "module", "llm", "manual"),
@@ -47,8 +47,8 @@ export const STEP_REGISTRY: StepDefinition[] = [
   definition("20", "E", "Audit pagina per pagina", "volume", "llm", "manual", "page-fill"),
   definition("21", "F", "Revisore Editoriale Totale sull'impaginato", "volume", "llm", "automated", "review-report"),
   definition("22", "F", "Preflight tecnico ed editoriale", "volume", "deterministic", "automated", "preflight"),
-  definition("23", "F", "Consegna, commit e pubblicazione", "volume", "human", "automated", "delivery"),
-  definition("24", "G", "Manutenzione post-pubblicazione", "volume", "llm", "manual")
+  definition("23", "F", "Preparazione della consegna e del pacchetto di pubblicazione", "volume", "deterministic", "automated", "delivery"),
+  definition("24", "F", "Conferma umana finale di validità", "volume", "human", "automated", "human-signoff")
 ]
 
 export const PHASE_STEPS: Record<string, string[]> = STEP_REGISTRY.reduce<Record<string, string[]>>(

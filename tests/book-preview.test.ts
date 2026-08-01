@@ -294,6 +294,38 @@ describe("book preview assets", () => {
     }
   })
 
+  it("keeps M-SA02 quiz questions, options and solutions as separate preview blocks", async () => {
+    const data = await buildBookStudioData(
+      new FileWikiStore(path.resolve(process.cwd(), "wiki")),
+      "moduli/m-sa02-professioni-sanitarie"
+    )
+    const chapter = data.chapters.find((item) => item.path.endsWith("03-discipline-professionali-autonomia-responsabilita.md"))
+    const quizIndex = chapter?.blocks.findIndex((block) => block.type === "heading" && block.text === "Quiz") ?? -1
+    const quizBlocks = chapter?.blocks.slice(quizIndex, quizIndex + 10) || []
+
+    expect(quizIndex).toBeGreaterThanOrEqual(0)
+    expect(quizBlocks.map((block) => block.type)).toEqual([
+      "heading",
+      "paragraph",
+      "list",
+      "paragraph",
+      "paragraph",
+      "list",
+      "paragraph",
+      "paragraph",
+      "list",
+      "paragraph"
+    ])
+    expect(quizBlocks[1]?.text).toBe("1. Quale coppia è corretta?")
+    expect(quizBlocks[2]?.items).toEqual([
+      "A. OSS — albo professionale ordinistico.",
+      "B. TPALL — prevenzione, vigilanza e controllo nei limiti delle attribuzioni.",
+      "C. Fisioterapista — competenza generale su ogni bisogno assistenziale.",
+      "D. Ostetrica — profilo privo di autonomia."
+    ])
+    expect(quizBlocks[3]?.text).toMatch(/^Soluzione ragionata: B\./)
+  })
+
   it("loads nested specialist module books", async () => {
     const root = await mkdtemp(path.join(os.tmpdir(), "book-preview-module-"))
 
@@ -317,12 +349,30 @@ describe("book preview assets", () => {
         ].join("\n"),
         "utf8"
       )
+      await writeFile(
+        path.join(root, "books/moduli/m-fl01-comuni-unioni/chapters/01-capitolo.md"),
+        [
+          "---",
+          "title: Capitolo destinato al lettore",
+          "type: book_chapter",
+          "outline_section: 1",
+          "status: draft",
+          "---",
+          "# Capitolo destinato al lettore",
+          "",
+          "Questo testo reale deve essere caricato nel Book Studio senza il piano editoriale interno."
+        ].join("\n"),
+        "utf8"
+      )
 
       const data = await buildBookStudioData(new FileWikiStore(root), "moduli/m-fl01-comuni-unioni")
 
       expect(data.bookId).toBe("moduli/m-fl01-comuni-unioni")
       expect(data.title).toBe("M-FL01 - Comuni e Unioni")
-      expect(data.chapters[0].path).toBe("books/moduli/m-fl01-comuni-unioni/chapters/00-piano-editoriale.md")
+      expect(data.chapters.map((chapter) => chapter.path)).toEqual([
+        "books/moduli/m-fl01-comuni-unioni/chapters/01-capitolo.md"
+      ])
+      expect(data.summary.structure).toBe(0)
     } finally {
       await rm(root, { recursive: true, force: true })
     }
@@ -364,6 +414,10 @@ describe("book preview assets", () => {
           "",
           "Questo capitolo contiene testo sufficiente per essere incluso nell'indice del modulo.",
           "",
+          "## N-FC01-01-01 · Competenze e struttura",
+          "",
+          "Il nucleo in formato 2 deve comparire nell'indice analitico anche quando il front matter conserva il dettaglio chapters-only.",
+          "",
           "## Sottosezione da non mostrare",
           "",
           "Questa intestazione non deve produrre una riga 1.1 nell'indice del modulo."
@@ -388,8 +442,13 @@ describe("book preview assets", () => {
       const index = data.chapters.find((chapter) => chapter.frontMatterLayout === "analytical-index")
       const chapterLine = index?.blocks.find((block) => block.type === "index-chapter" && block.text === "Lavorare nei Ministeri")
       const appendixLine = index?.blocks.find((block) => block.type === "index-chapter" && block.text === "Appendici operative")
+      const nucleusLine = index?.blocks.find((block) => block.type === "index-row" && block.text === "Competenze e struttura")
+      const nucleusHeading = data.chapters.find((chapter) => chapter.title === "Lavorare nei Ministeri")
+        ?.blocks.find((block) => block.type === "heading" && block.text === "Competenze e struttura")
 
-      expect(index?.blocks.some((block) => block.type === "index-row")).toBe(false)
+      expect(nucleusLine?.number).toBe("1.1")
+      expect(nucleusHeading?.number).toBe("1.1")
+      expect(index?.blocks.some((block) => block.type === "index-row" && block.text === "Sottosezione da non mostrare")).toBe(false)
       expect(chapterLine?.number).toBe("Capitolo 1")
       expect(chapterLine?.path).toBe("books/moduli/m-fc01-ministeri/chapters/01-lavorare-ministeri.md")
       expect(appendixLine?.number).toBe("Appendice A")
@@ -471,9 +530,10 @@ describe("book preview assets", () => {
       const generatedTitles = data.chapters.filter((chapter) => chapter.isGenerated).map((chapter) => chapter.title)
       const index = data.chapters.find((chapter) => chapter.title === "Indice completo")
       const moduleOpening = data.chapters.find((chapter) => chapter.frontMatterLayout === "module-opening")
+      const readerChapters = data.chapters.filter((chapter) => chapter.sectionType === "chapter" && !chapter.isGenerated)
 
       expect(data.bookId).toBe("volumi/vol-03")
-      expect(data.title).toBe("VOL-03 - Funzioni centrali, Fisco, Previdenza e Ispettivo")
+      expect(data.title).toBe("VOL-03 — Funzioni centrali, Fisco, Previdenza e Ispettivo")
       expect(generatedTitles.slice(0, 6)).toEqual([
         "Servizi digitali inclusi",
         "Frontespizio",
@@ -489,6 +549,9 @@ describe("book preview assets", () => {
       expect(moduleOpening?.title).toContain("M-FC01")
       expect(data.chapters.some((chapter) => chapter.title === "Lavorare nei Ministeri")).toBe(true)
       expect(data.chapters.find((chapter) => chapter.title === "Agenzie fiscali e profili")?.volumeModuleCode).toBe("M-FC02")
+      expect(readerChapters.map((chapter) => chapter.outlineSection)).toEqual(["1", "2"])
+      expect(readerChapters.map((chapter) => chapter.moduleOutlineSection)).toEqual(["1", "1"])
+      expect(new Set(readerChapters.map((chapter) => chapter.path)).size).toBe(2)
     } finally {
       await rm(root, { recursive: true, force: true })
     }

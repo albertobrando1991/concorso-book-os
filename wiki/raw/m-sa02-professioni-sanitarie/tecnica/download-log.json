@@ -1,0 +1,61 @@
+[
+  {
+    "id": "NS-OSS-01",
+    "file": "accordo-oss-22-febbraio-2001-gu.pdf",
+    "bytes": 4984855,
+    "sha256": "0625EE897F30E4214AFBD242CE8514FAE868ED0770E1AE57F4FA3EAE2E393273",
+    "authority": "Gazzetta Ufficiale della Repubblica Italiana",
+    "url": "https://www.gazzettaufficiale.it/eli/gu/2001/04/19/91/sg/pdf",
+    "checked_at": "2026-07-28",
+    "note": "Fascicolo completo della G.U. Serie generale n. 91; fonte storica disapplicata dal DPCM 25 marzo 2025."
+  },
+  {
+    "id": "NS-OSS-02",
+    "file": "dpcm-25-marzo-2025-revisione-profilo-oss-gu-142.pdf",
+    "bytes": 4700801,
+    "sha256": "1057A289D3567689C063E60E11AFE8AD292E0DBE6FB3CEF7202F46E5202CF133",
+    "authority": "Gazzetta Ufficiale della Repubblica Italiana",
+    "url": "https://www.gazzettaufficiale.it/do/gazzetta/downloadPdf?dataPubblicazioneGazzetta=20250621&edizione=0&estensione=pdf&home=true&numeroGazzetta=142&numeroSupplemento=0&progressivo=0&tipoSerie=SG&tipoSupplemento=GU",
+    "checked_at": "2026-07-28",
+    "note": "Fascicolo completo della G.U. Serie generale n. 142; contiene il DPCM 25 marzo 2025 sul profilo OSS e il distinto DPCM 28 febbraio 2025 sull'assistente infermiere."
+  },
+  {
+    "id": "SL-TPALL-UE",
+    "file": "regolamento-ue-2017-625-consolidato-2025-01-05.pdf",
+    "bytes": 1667427,
+    "sha256": "493929C61F32F38A6F0C3A8669F0F0B47E22EA4DC81DD345841ADBC35B4D4337",
+    "authority": "EUR-Lex",
+    "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:02017R0625-20250105",
+    "checked_at": "2026-07-28",
+    "note": "Versione consolidata al 5 gennaio 2025; il valore giuridico autentico resta quello degli atti pubblicati in GUUE."
+  },
+  {
+    "id": "SL-TPALL-ISPRA",
+    "file": "ispra-linee-guida-sgs-agenzie-ambientali-2011.pdf",
+    "bytes": 1858719,
+    "sha256": "9C5D0E6465B9EAFF6E0388A00487F33D12C50D10FBB1585FC3527704BC3CEF8B",
+    "authority": "ISPRA e Sistema delle Agenzie Ambientali",
+    "url": "https://www.isprambiente.gov.it/it/centro-interagenziale-igiene-e-sicurezza-del-lavoro/files/LineeGuidaSGSAA.pdf",
+    "checked_at": "2026-07-28",
+    "note": "Linea guida del 2011; utile per processi e sicurezza del campionamento, non sostituisce i metodi tecnici vigenti per singola matrice."
+  },
+  {
+    "id": "SL-ICA-ISS",
+    "file": "iss-epicentro-sorveglianza-ica-2026-07-28.html",
+    "bytes": 29137,
+    "sha256": "E1A075C376C7AC1A0FA08F13EF3A528DDBC8EFCA5A32FD9AB2358B5AC1B23728",
+    "authority": "Istituto Superiore di Sanità - EpiCentro",
+    "url": "https://www.epicentro.iss.it/sorveglianza-ica/informazioni-generali",
+    "checked_at": "2026-07-28"
+  },
+  {
+    "id": "SL-EPI-ISS",
+    "file": "iss-epicentro-sorveglianza-malattie-infettive-2026-07-28.html",
+    "bytes": 29374,
+    "sha256": "39902DFD97E4AA16933CF958703DCA4BF52E1646FFEBAE19A374E8B53F11E5A7",
+    "authority": "Istituto Superiore di Sanità - EpiCentro",
+    "url": "https://www.epicentro.iss.it/infettive/sorveglianza",
+    "checked_at": "2026-07-28",
+    "note": "Pagina di inquadramento del SIMI; contiene rinvii storici e deve essere coordinata con PREMAL e con gli aggiornamenti correnti."
+  }
+]

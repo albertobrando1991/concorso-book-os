@@ -10,7 +10,24 @@ export function buildStepDrafts(spec: VolumeSpec, phases: string[]): StepDraft[]
   const selected = STEP_REGISTRY.filter((step) => wanted.has(step.phase))
   const modules = [...spec.modules].sort((left, right) => left.priority - right.priority)
 
-  return [...modules.flatMap((module) => moduleSteps(selected, module, wanted)), ...volumeSteps(selected, spec)]
+  return groupByScope(selected).flatMap((steps) =>
+    isGlobal(steps[0]) ? volumeSteps(steps, spec) : modules.flatMap((module) => moduleSteps(steps, module, wanted))
+  )
+}
+
+function groupByScope(steps: StepDefinition[]) {
+  return steps.reduce<StepDefinition[][]>((groups, step) => {
+    const last = groups.at(-1)
+
+    if (!last || isGlobal(last[0]) !== isGlobal(step)) groups.push([step])
+    else last.push(step)
+
+    return groups
+  }, [])
+}
+
+function isGlobal(step: StepDefinition) {
+  return step.scope === "volume" || step.scope === "catalog"
 }
 
 function moduleSteps(selected: StepDefinition[], module: VolumeSpecModule, wanted: Set<string>): StepDraft[] {
