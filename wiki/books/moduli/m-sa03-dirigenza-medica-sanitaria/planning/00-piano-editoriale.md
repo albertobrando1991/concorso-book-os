@@ -65,4 +65,4 @@ Disciplina specialistica e casi; linee guida e appropriatezza; clinical governan
 
 ## Stato editoriale
 
-La matrice registra nove nuclei completi. I sette capitoli hanno concluso gli step 08-12; revisione trasversale e correzioni degli step 13-14 hanno allineato metadati, indice, piano e Bibbia. Restano obbligatorie le review umane specialistiche dello step 15; il modulo non è congelato né pubblicabile.
+La matrice registra nove nuclei completi. I sette capitoli hanno concluso gli step 08-12; revisione trasversale e correzioni degli step 13-14 hanno allineato metadati, indice, piano e Bibbia. Resta obbligatorio l'audit specialistico automatico dello step 15; il modulo non è ancora congelato né pubblicabile.

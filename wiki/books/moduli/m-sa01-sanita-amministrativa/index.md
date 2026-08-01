@@ -21,7 +21,7 @@ module_family_title: "Sanità"
 module_status: phase-d-editorial-complete
 roadmap_phase: "2"
 companion_to: il-metodo-bando
-draft_stage: awaiting-human-review
+draft_stage: specialist-audit-pending
 last_compiled_from: ["wiki/books/moduli/architettura-moduli-specialistici.md"]
 ---
 
@@ -35,21 +35,21 @@ Modulo specialistico collegato a [[books/il-metodo-bando/index|Il Metodo BANDO]]
 - Codice modulo: M-SA01
 - Copertura: Aziende sanitarie, ospedali, profili amministrativi e gestione documentale sanitaria.
 - Fase roadmap: 2
-- Stato: tutti i cinque capitoli hanno completato gli step 08-12 e la revisione complessiva del modulo agli step 13-14. Lo step 15 di review umana specialistica resta obbligatorio; nessun capitolo è congelato o pubblicabile.
+- Stato: tutti i cinque capitoli hanno completato gli step 08-12 e la revisione complessiva del modulo agli step 13-14. Resta l'audit specialistico automatico dello step 15; nessun capitolo è ancora congelato o pubblicabile.
 
 ## Confine editoriale
 Il modulo non sostituisce il libro principale. Parte dal nucleo comune del Metodo BANDO e aggiunge profili, prove, materie specialistiche, rischi, fonti e casi tipici della famiglia.
 
-Non deve promettere copertura totale di ogni bando o aggiornamento normativo automatico. Le sezioni normative e specialistiche richiedono fonti ufficiali verificate e review umana.
+Non deve promettere copertura totale di ogni bando o aggiornamento normativo automatico. Le sezioni normative e specialistiche richiedono fonti ufficiali verificate e audit specialistico automatico.
 
 ## Capitoli di lavoro
 - [[books/moduli/m-sa01-sanita-amministrativa/planning/00-piano-editoriale|Piano editoriale del modulo]]
 - [[books/moduli/m-sa01-sanita-amministrativa/planning/09-bibbia-del-modulo|Bibbia editoriale del modulo]]
-- [[books/moduli/m-sa01-sanita-amministrativa/chapters/04-atti-procedimenti-flussi-informativi|Capitolo 04 — Atti, procedimenti e flussi informativi nelle aziende sanitarie]] — ciclo editoriale 08-12 completato; review dello step 15 aperte; non congelato né pubblicabile.
-- [[books/moduli/m-sa01-sanita-amministrativa/chapters/05-documentazione-accesso-conservazione|Capitolo 05 — Documentazione sanitaria, accesso, privacy e conservazione]] — ciclo editoriale 08-12 completo; review dello step 15 aperte; non congelato né pubblicabile.
-- [[books/moduli/m-sa01-sanita-amministrativa/chapters/06-front-office-comunicazione-utenza|Capitolo 06 — Front-office e comunicazione con l'utenza sanitaria]] — ciclo editoriale 08-12 completo; review dello step 15 aperte; non congelato né pubblicabile.
-- [[books/moduli/m-sa01-sanita-amministrativa/chapters/09-contabilita-budget-controllo-gestione|Capitolo 09 — Contabilità, budget e controllo di gestione nelle aziende sanitarie]] — ciclo editoriale 08-12 completo; review indipendenti ancora aperte; non congelato né pubblicabile.
-- [[books/moduli/m-sa01-sanita-amministrativa/chapters/10-procurement-farmaci-dispositivi-magazzino|Capitolo 10 — Procurement sanitario, farmaci, dispositivi e magazzino]] — ciclo editoriale 08-12 completo; review indipendenti ancora aperte; non congelato né pubblicabile.
+- [[books/moduli/m-sa01-sanita-amministrativa/chapters/04-atti-procedimenti-flussi-informativi|Capitolo 04 — Atti, procedimenti e flussi informativi nelle aziende sanitarie]] — ciclo editoriale 08-12 completato; audit dello step 15 da eseguire; non congelato né pubblicabile.
+- [[books/moduli/m-sa01-sanita-amministrativa/chapters/05-documentazione-accesso-conservazione|Capitolo 05 — Documentazione sanitaria, accesso, privacy e conservazione]] — ciclo editoriale 08-12 completo; audit dello step 15 da eseguire; non congelato né pubblicabile.
+- [[books/moduli/m-sa01-sanita-amministrativa/chapters/06-front-office-comunicazione-utenza|Capitolo 06 — Front-office e comunicazione con l'utenza sanitaria]] — ciclo editoriale 08-12 completo; audit dello step 15 da eseguire; non congelato né pubblicabile.
+- [[books/moduli/m-sa01-sanita-amministrativa/chapters/09-contabilita-budget-controllo-gestione|Capitolo 09 — Contabilità, budget e controllo di gestione nelle aziende sanitarie]] — ciclo editoriale 08-12 completo; audit dello step 15 da eseguire; non congelato né pubblicabile.
+- [[books/moduli/m-sa01-sanita-amministrativa/chapters/10-procurement-farmaci-dispositivi-magazzino|Capitolo 10 — Procurement sanitario, farmaci, dispositivi e magazzino]] — ciclo editoriale 08-12 completo; audit dello step 15 da eseguire; non congelato né pubblicabile.
 
 ## Collegamento al VOL-07
 - Volume: [[books/volumi/vol-07-sanita-amministrativa-professioni-sanitarie/index]]

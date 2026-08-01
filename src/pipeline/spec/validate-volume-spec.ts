@@ -14,26 +14,7 @@ const CHAPTER_FILE = /^chapters\/[^/\\]+\.md$/
 const ISO_DATE = /^\d{4}-\d{2}-\d{2}$/
 
 export function validateVolumeSpec(spec: VolumeSpec): SpecIssue[] {
-  return [...validateScalars(spec), ...validateModules(spec), ...validateHumanReviews(spec)]
-}
-
-function validateHumanReviews(spec: VolumeSpec): SpecIssue[] {
-  const opensVolume = spec.phases.some((phase) => phase.toUpperCase() === "B")
-  if (!opensVolume) return []
-  if (!spec.humanReviews.length) {
-    return [{ field: "humanReviews", message: "La fase B richiede la tabella Review umane — nomi, costi, tempi." }]
-  }
-
-  return spec.humanReviews.flatMap((review, index) => {
-    const issues: SpecIssue[] = []
-    const prefix = `humanReviews[${index}]`
-    if (!review.code.trim()) issues.push({ field: `${prefix}.code`, message: "Codice review mancante.", line: review.line })
-    if (!review.scope.trim()) issues.push({ field: `${prefix}.scope`, message: "Ambito review mancante.", line: review.line })
-    if (review.required && !review.reviewer.trim()) {
-      issues.push({ field: `${prefix}.reviewer`, message: `La review richiesta ${review.code || review.scope} non ha un revisore assegnato.`, line: review.line })
-    }
-    return issues
-  })
+  return [...validateScalars(spec), ...validateModules(spec)]
 }
 
 function validateScalars(spec: VolumeSpec): SpecIssue[] {

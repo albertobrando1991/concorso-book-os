@@ -24,19 +24,10 @@ Copiare il file in `wiki/books/<percorso-del-volume>/planning/00-scheda-pipeline
 | `volume_code` | sì | `VOL-NN` | deve coincidere con `src/catalog/text-volumes.ts` |
 | `volume_title` | sì | testo | titolo commerciale |
 | `cut_off_date` | sì | `AAAA-MM-GG` | data di chiusura delle fonti, non deducibile dal repo |
-| `responsabile_normativo` | sì | nome | firma la review dello step 15 |
+| `responsabile_normativo` | sì | nome | presidia il cut-off e la tracciabilità normativa durante il lavoro automatico |
 | `responsabile_editoriale` | no | nome | se assente vale il responsabile normativo |
 | `writer_provider` | no | `codex`, `claude`, `kimi`, `openai`, `hermes`, `local` | se assente vale `WRITER_PROVIDER` dell'ambiente |
 | `phases` | sì | elenco fra `A`-`G` | fasi da eseguire: `C` capitoli, `D` modulo, `F` finale |
-
-## Review umane — nomi, costi, tempi
-
-Compilare prima di includere la fase B. Ogni ambito richiesto deve avere un revisore nominativo; in alternativa il perimetro del volume va ridotto esplicitamente.
-
-| Codice | Ambito | Richiesta | Revisore | Costo | Tempo |
-| --- | --- | --- | --- | --- | --- |
-| REV-LEG | Normativa settoriale | sì | Nome Cognome | da definire | da definire |
-| REV-COD | Codici professionali | no | | | |
 
 ## Moduli
 

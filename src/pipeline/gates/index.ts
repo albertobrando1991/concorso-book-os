@@ -9,7 +9,6 @@ import { analyzeDidacticDensity, runDidacticDensityGate } from "./didactic-densi
 import { chapterFileOf, reportPathOf, reportRelativePathOf, snapshotPathOf } from "./paths"
 import { runReviewReportGate } from "./review-report-gate"
 import { runVerifiedReferralGate } from "./verified-referral-gate"
-import { runHumanReviewAssignmentGate } from "./human-review-assignment-gate"
 
 export const DEFAULT_MATRIX_PATH = "planning/02-matrice-copertura-didattica.md"
 
@@ -36,10 +35,6 @@ export async function runGate(gateId: string | undefined, context: GateContext):
   if (gateId === "chapter-lint") return chapterLint(context)
   if (gateId === "citation-guard") return citationGuard(context)
   if (gateId === "review-report") return reviewReport(context)
-  if (gateId === "human-review-assignment") {
-    return runHumanReviewAssignmentGate({ reviews: context.spec.humanReviews, specPath: context.spec.specPath })
-  }
-
   return notImplemented(gateId, context)
 }
 

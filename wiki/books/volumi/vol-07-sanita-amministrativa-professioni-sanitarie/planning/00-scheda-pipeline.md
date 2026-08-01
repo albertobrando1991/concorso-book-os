@@ -16,7 +16,7 @@ review_required: true
 
 Input eseguibile della pipeline editoriale per il volume VOL-07. Il protocollo dei 25 prompt resta in `[[templates/prompt-staff-revisione-completa-volumi]]`.
 
-Le fasi A e B sono concluse. La scheda dichiara ora l'intero perimetro editoriale di 25 capitoli e le fasi A-F. La fase C deve essere completata per tutti i target prima della review trasversale; gli step 15 e successivi restano subordinati alla review umana specialistica.
+Le fasi A e B sono concluse. La scheda dichiara ora l'intero perimetro editoriale di 25 capitoli e le fasi A-F. La fase C deve essere completata per tutti i target prima della revisione trasversale; lo step 15 esegue l'audit specialistico automatico e la sola conferma umana resta allo step 24.
 
 ## Moduli
 
@@ -53,7 +53,7 @@ Il capitolo tecnico 02 non viene dichiarato perché il nucleo comune del Metodo 
 | 09 | Contabilità, budget e controllo di gestione | chapters/09-contabilita-budget-controllo-gestione.md | planning/02-matrice-copertura-didattica.md | completo | Contabilità economico-patrimoniale, budget e controllo di gestione |
 | 10 | Procurement sanitario, farmaci, dispositivi e magazzino | chapters/10-procurement-farmaci-dispositivi-magazzino.md | planning/02-matrice-copertura-didattica.md | completo | Procurement sanitario, farmaci, dispositivi, magazzino e ciclo passivo |
 
-I cinque capitoli M-SA01 hanno già completato gli step 08-12; le review dello step 15 restano obbligatorie.
+I cinque capitoli M-SA01 hanno già completato gli step 08-12; resta obbligatorio l'audit specialistico automatico dello step 15.
 
 ## Capitoli M-SA03
 
@@ -76,7 +76,7 @@ I cinque capitoli M-SA01 hanno già completato gli step 08-12; le review dello s
 | 03 | TSRM: imaging, dosimetria e radioprotezione | chapters/03-tsrm-imaging-dosimetria-radioprotezione.md | planning/02-matrice-copertura-didattica.md | completo | Tecniche, qualità dell'immagine, dose e protezione |
 | 04 | Tecnologie, dispositivi, apparecchiature e rischio | chapters/04-tecnologie-dispositivi-apparecchiature-rischio.md | planning/02-matrice-copertura-didattica.md | completo | Ciclo di vita, vigilanza e miglioramento |
 
-I 25 target autorizzano i cicli 08-12. Le fasi D-F sono configurate per rendere visibile l'intero percorso, ma nessuno step a valle può superare il gate umano dello step 15 senza esiti firmati.
+I 25 target autorizzano i cicli 08-12. Le fasi D-F sono configurate per rendere visibile l'intero percorso: lo step 15 deve chiudere automaticamente ogni criticità specialistica, mentre il gate umano compare soltanto allo step 24.
 
 ## Input canonici
 
@@ -90,7 +90,7 @@ I 25 target autorizzano i cicli 08-12. Le fasi D-F sono configurate per rendere 
 - Il dossier raw non è una fonte diretta per i capitoli.
 - I tre URL espliciti sono localizzatori `da_verificare`.
 - Ogni fonte specialistica richiede una source note ufficiale autonoma.
-- Contenuti normativi, clinici e professionali richiedono review umana.
+- Contenuti normativi, clinici e professionali richiedono fonti consolidate e audit specialistico automatico prima del text freeze.
 - Le frequenze dei bandi restano `ND` finché il campione non è adeguato.
 
 ## Comandi

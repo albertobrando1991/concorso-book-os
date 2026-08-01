@@ -21,7 +21,7 @@ module_family_title: "Sanità"
 module_status: phase-d-editorial-complete
 roadmap_phase: "3"
 companion_to: il-metodo-bando
-draft_stage: awaiting-human-review
+draft_stage: specialist-audit-pending
 last_compiled_from: ["wiki/books/moduli/architettura-moduli-specialistici.md"]
 ---
 
@@ -35,12 +35,12 @@ Modulo specialistico collegato a [[books/il-metodo-bando/index|Il Metodo BANDO]]
 - Codice modulo: M-SA04
 - Copertura: Tecnici sanitari, prevenzione, sicurezza, laboratori e profili tecnico-sanitari.
 - Fase roadmap: 3
-- Stato: tutti i quattro capitoli hanno completato gli step 08-12 e la revisione complessiva agli step 13-14. Lo step 15 di review umana specialistica resta obbligatorio; nessun capitolo è congelato o pubblicabile.
+- Stato: tutti i quattro capitoli hanno completato gli step 08-12 e la revisione complessiva agli step 13-14. Resta l'audit specialistico automatico dello step 15; nessun capitolo è ancora congelato o pubblicabile.
 
 ## Confine editoriale
 Il modulo non sostituisce il libro principale. Parte dal nucleo comune del Metodo BANDO e aggiunge profili, prove, materie specialistiche, rischi, fonti e casi tipici della famiglia.
 
-Non deve promettere copertura totale di ogni bando o aggiornamento normativo automatico. Le sezioni normative e specialistiche richiedono fonti ufficiali verificate e review umana.
+Non deve promettere copertura totale di ogni bando o aggiornamento normativo automatico. Le sezioni normative e specialistiche richiedono fonti ufficiali verificate e audit specialistico automatico.
 
 ## Capitoli di lavoro
 - [[books/moduli/m-sa04-tecnici-sanitari-prevenzione/planning/00-piano-editoriale|Piano editoriale del modulo]]

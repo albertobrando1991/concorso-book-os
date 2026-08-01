@@ -36,7 +36,7 @@ describe("buildEditorialPlan", () => {
                 exists: true,
                 state: "in-review",
                 nextStep: "10",
-                gate: "coverage"
+                gate: "didactic-density"
               },
               {
                 number: "05",

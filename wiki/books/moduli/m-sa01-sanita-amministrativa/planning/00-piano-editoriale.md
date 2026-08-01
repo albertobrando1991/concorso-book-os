@@ -67,4 +67,4 @@ Atti e procedimenti aziendali; documentazione, accesso e conservazione; front-of
 
 ## Stato editoriale
 
-I cinque capitoli hanno completato gli step 08-12. La revisione trasversale e le correzioni degli step 13-14 hanno allineato indice, piano e Bibbia del Modulo; non restano errori gravi o medi automatici aperti. Nessun capitolo è congelato o pubblicabile: le review umane normativa, privacy/documentale, contabile e procurement dello step 15 restano obbligatorie.
+I cinque capitoli hanno completato gli step 08-12. La revisione trasversale e le correzioni degli step 13-14 hanno allineato indice, piano e Bibbia del Modulo; non restano errori gravi o medi automatici aperti. Nessun capitolo è ancora congelato o pubblicabile: lo step 15 deve completare l'audit automatico normativo, privacy/documentale, contabile e procurement.

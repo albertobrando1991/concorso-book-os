@@ -81,7 +81,7 @@ Scienze infermieristiche; tecniche assistenziali; clinica generale ed emergenza;
 - [[sources/emergenze-ostetriche-distocia-spalla-prolasso-funicolo-protocolli-italiani|Distocia di spalla e prolasso di funicolo: campioni regionali, aziendali e formazione 2026]].
 - [[reviews/pipeline/VOL-07/06-audit-fonti-m-sa02|Audit completo delle fonti M-SA02]].
 - Profili, ordinamento, responsabilità, consenso, deontologia, SNLG, sicurezza/ICA e corpus TPALL sono schedati in `wiki/sources/`.
-- Il perimetro di scrittura è source-ready per contenuti teorici, casi ragionati e applicazioni non esecutive. Procedure aziendali, dispositivi reali, protocolli del setting, metodi applicabili al singolo caso, prove pratiche e cinque review professionali restano obblighi dello step 15.
+- Il perimetro di scrittura è source-ready per contenuti teorici, casi ragionati e applicazioni non esecutive. Procedure aziendali, dispositivi reali, protocolli del setting, metodi applicabili al singolo caso e prove pratiche restano oggetto dell'audit specialistico automatico dello step 15.
 
 ## Testo editoriale
-I capitoli 01 e 03-10 hanno completato il ciclo della fase C, dagli step 08-12. Il capitolo 10 sviluppa il metodo trasversale per la prova pratica e i casi di infermiere, OSS, ostetrica, fisioterapista e TPALL. Tutti i target dichiarati per M-SA02 sono quindi completati. Le cinque review `REV-OSS`, `REV-OST`, `REV-FIS`, `REV-EPI` e `REV-TPA` restano aperte e obbligatorie allo step 15 prima del congelamento editoriale.
+I capitoli 01 e 03-10 hanno completato il ciclo della fase C, dagli step 08-12. Il capitolo 10 sviluppa il metodo trasversale per la prova pratica e i casi di infermiere, OSS, ostetrica, fisioterapista e TPALL. Tutti i target dichiarati per M-SA02 sono quindi completati. Gli assi `REV-OSS`, `REV-OST`, `REV-FIS`, `REV-EPI` e `REV-TPA` sono checklist di competenza da chiudere nell'audit automatico dello step 15 prima del congelamento editoriale.

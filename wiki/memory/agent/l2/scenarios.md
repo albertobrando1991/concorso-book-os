@@ -3052,3 +3052,11 @@
 - l0: l0/conv-20260801151454-wy08bw.md
 - atoms:
   - mem-20260801151454-15h5f0r | result | Esito model-ibrido-nuclei-implementation: Implementare il piano approvato del modello editoriale ibrido a nuclei mantenendo compatibilita legacy e senza toccare i worktree attivi. -> Implementati parser matrice v2 condiviso, gate composito di densita e rinvii, soglie configurabili, review umane e dati operativi, indice decimale, tooling retrofit e documentazione.
+
+## 2026-08-01T17:00:47.824Z - pipeline-volume
+
+- conversation_id: conv-20260801170047-4hg92a
+- route: final-human-signoff-only
+- l0: l0/conv-20260801170047-4hg92a.md
+- atoms:
+  - mem-20260801170047-1uibtxy | result | Esito final-human-signoff-only: La review umana deve essere solo l ultimissimo step e non deve limitare apertura, scrittura o audit; non assegnare nomi ai revisori. -> Rimosso il gate di assegnazione dallo step 04; trasformato lo step 15 in audit specialistico automatico; spostata l unica conferma umana allo step 24 finale; aggiornati registry, validazione, prompt, template, documen...

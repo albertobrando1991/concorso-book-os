@@ -18,7 +18,7 @@ tags: ["volume", "vol-07", "sanita"]
 
 ## Stato
 
-La scrittura e la revisione editoriale automatica sono completate per tutti i 25 capitoli e per i quattro moduli, fino allo step 14 incluso. I quattro pacchetti dello step 15 sono predisposti e ogni modulo è correttamente in attesa di review umana specialistica. Il volume non è congelato né pubblicabile: nessuno step successivo può iniziare prima degli esiti nominativi e firmati.
+La scrittura e la revisione editoriale automatica sono completate per tutti i 25 capitoli e per i quattro moduli, fino allo step 14 incluso. Ogni modulo deve ora superare l'audit specialistico automatico dello step 15. Il volume non è ancora congelato né pubblicabile; l'unica conferma umana avverrà allo step 24, quando l'intero pacchetto sarà già completo.
 
 ## Perimetro
 

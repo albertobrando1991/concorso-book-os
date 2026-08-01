@@ -27,13 +27,13 @@ describe("step registry", () => {
   it("keeps the chapter loop on phase C and the module consolidation on phase D", () => {
     expect(PHASE_STEPS.C).toEqual(["08", "09", "10", "11", "12"])
     expect(PHASE_STEPS.D).toEqual(["13", "14", "15", "16"])
-    expect(PHASE_STEPS.F).toEqual(["21", "22", "23"])
+    expect(PHASE_STEPS.F).toEqual(["21", "22", "23", "24"])
   })
   it("runs the chapter loop at chapter scope", () => {
     expect(PHASE_STEPS.C.every((id) => findStepDefinition(id)?.scope === "chapter")).toBe(true)
   })
   it("marks as human the steps the protocol reserves to a person", () => {
-    expect(STEP_REGISTRY.filter((step) => step.kind === "human").map((step) => step.id)).toEqual(["15", "23"])
+    expect(STEP_REGISTRY.filter((step) => step.kind === "human").map((step) => step.id)).toEqual(["24"])
   })
   it("keeps phases A, B and E manual until the backbone is proven", () => {
     expect(STEP_REGISTRY.filter((step) => step.automation === "manual").map((step) => step.phase)).toEqual(
@@ -50,8 +50,11 @@ describe("step registry", () => {
   it("runs coverage and didactic density together at step 10", () => {
     expect(findStepDefinition("10")?.gate).toBe("didactic-density")
   })
-  it("blocks volume opening when required human reviews are unassigned", () => {
-    expect(findStepDefinition("04")?.gate).toBe("human-review-assignment")
+  it("keeps human confirmation as the final protocol step", () => {
+    expect(findStepDefinition("04")?.gate).toBeUndefined()
+    expect(findStepDefinition("15")).toMatchObject({ kind: "llm", gate: "review-report" })
+    expect(findStepDefinition("23")).toMatchObject({ kind: "deterministic", gate: "delivery" })
+    expect(STEP_REGISTRY.at(-1)).toMatchObject({ id: "24", kind: "human", gate: "human-signoff" })
   })
 })
 

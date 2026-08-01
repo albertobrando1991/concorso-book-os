@@ -1,7 +1,7 @@
 import { describe, expect, it } from "vitest"
 import { extractOperationalDataReviewRows, renderOperationalDataReviewAppendix } from "../../src/pipeline/review/operational-data"
 
-describe("operational data review package", () => {
+describe("operational data specialist audit package", () => {
   const chapter = `---
 title: Prevenzione delle cadute
 dati_operativi: ["DO-SA02-05-CONLEY"]
@@ -15,7 +15,7 @@ dati_operativi: ["DO-SA02-05-CONLEY"]
 > Review: REV-INF (professionista sanitario del profilo)
 `
 
-  it("extracts one mandatory review row for each Dato operativo box", () => {
+  it("extracts one mandatory specialist row for each Dato operativo box", () => {
     expect(extractOperationalDataReviewRows(chapter, "books/moduli/m-sa02/chapters/05-cadute.md")).toEqual([
       expect.objectContaining({
         id: "DO-SA02-05-CONLEY",

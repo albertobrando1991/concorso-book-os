@@ -19,3 +19,5 @@ npm run pipeline -- complete VOL-03 --step 09 --module M-FC02 --chapter 01
 Nessun gate va saltato. Il run-state in `pipeline/<VOL>/run-state.json` non si modifica a mano.
 
 Il corpo canonico definisce anche il formato 2 a nuclei, le soglie esposte dal contratto di `next` e il gate composito dello step 10. Un warning `retrofit-dovuto` non equivale a un gate verde; ogni blocker deve essere corretto prima di chiudere lo step.
+
+La conferma umana non assegna revisori durante il lavoro: avviene soltanto allo step 24, dopo che lo step 15 automatico e tutti i gate editoriali hanno già consegnato testi completi.

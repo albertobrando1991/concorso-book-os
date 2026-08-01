@@ -28,7 +28,7 @@ Regole per i moduli specialistici:
 - Ogni modulo deve dichiarare `module_code`, `module_family`, `companion_to: il-metodo-bando` e `draft_stage`.
 - I moduli non duplicano il nucleo comune del libro principale: applicano il Metodo BANDO a profili, prove, materie specialistiche e rischi della famiglia.
 - La logica vincolante di copertura e sviluppo e' [[sources/logica-volumi-copertura-concorsobook-v4]]: comune solo in VOL-01, famiglia nel relativo specialistico, sottoprofilo in appendice/verticale necessario, altra famiglia tramite rinvio senza duplicazioni. Per il catalogo e le riconciliazioni dei 25 moduli usare anche [[books/moduli/architettura-moduli-specialistici]].
-- Prima della scrittura finale servono source notes consolidate, topic/entity pages collegate e review umana per norme settoriali, sanita e carriere speciali.
+- Prima della scrittura finale servono source notes consolidate e topic/entity pages collegate. Norme settoriali, sanita e carriere speciali devono superare gli audit automatici specialistici prima del sign-off umano conclusivo.
 - La promessa pubblica corretta e': riusabile, aggiornabile, modulare. Evitare formule come copertura totale garantita o aggiornamento automatico.
 
 ### Contratto indice studente e piano staff
@@ -176,7 +176,7 @@ Regole:
 - La scrittura e' incrementale: integrare, chiarire e migliorare senza distruggere lavoro precedente.
 - Il formato operativo canonico per dashboard, revisione ed export di lavoro di `Il Metodo BANDO` e' il paperback KDP 6,69 x 9,61 in (16,99 x 24,41 cm), testo giustificato, pagine singole numerate, corpo Garamond 11 pt, titoli Arial Bold 20/14/12 pt, tabelle/quiz/schemi/box Arial 9,5-10 pt, colonna singola, box operativi ricorrenti e strumenti compilabili. L'edizione standard usa bianco e nero su carta bianca, senza bleed, con margini speculari compatibili KDP.
 - Separare note canoniche da note di lavoro.
-- Richiedere review umana per interpretazioni normative puntuali.
+- Le interpretazioni normative puntuali devono essere risolte e documentate dagli audit automatici prima del text freeze; la conferma umana interviene soltanto sul pacchetto finale già completo.
 - Per il libro `Il Metodo BANDO`, l'outline base e' Parte I Orientarsi, Parte II Materie comuni, Parte III Allenamento, Parte IV Sistema adattabile, Appendici/tool.
 - Ogni strumento cartaceo deve essere completo anche senza sito; QR code e digitale devono aggiungere velocita, tracking o aggiornamenti.
 
@@ -232,8 +232,8 @@ Regole non negoziabili:
 
 ## Dati operativi e rinvii
 
-- Un box `Dato operativo` è ammesso solo con fonte ufficiale consolidata, ambito, versione, data di verifica e tag del revisore umano.
+- Un box `Dato operativo` è ammesso solo con fonte ufficiale consolidata, ambito, versione, data di verifica e tag della competenza specialistica richiesta.
 - Dichiarare gli ID dei box nel frontmatter `dati_operativi: []`; ogni ID entra nel pacchetto dello step 15.
 - Restano esclusi dosi/posologie, energie di defibrillazione, sequenze eseguibili e protocolli locali presentati come regola nazionale.
 - I rinvii a VOL-01 usano sempre `[[books/il-metodo-bando/chapters/<file>#<heading>]]`; un file o heading inesistente è bloccante.
-- Prima di aprire un volume, la scheda pipeline assegna nome, costo e tempo delle review umane richieste. Un ambito richiesto senza revisore blocca lo step 04.
+- Non assegnare nominativi di revisori nella scheda pipeline. L'unico passaggio umano è lo step 24: conferma la validità del volume dopo che audit specialistici, revisione totale, preflight e preparazione della consegna sono conclusi.

@@ -193,9 +193,9 @@ Ogni box deve aggiungere una funzione didattica distinta, non ripetere il corpo 
 - I casi clinici non offrono indicazioni assistenziali personali e non sostituiscono protocolli o giudizio professionale.
 - Le variabili regionali e aziendali devono essere etichettate.
 
-## Review umane obbligatorie
+## Competenze obbligatorie per l'audit specialistico automatico
 
-| Ambito | Review richiesta |
+| Ambito | Competenza di controllo |
 | --- | --- |
 | Vigenza normativa, coordinamento e rinvii | responsabile normativo |
 | Perimetro, tono, ridondanze e promessa | responsabile editoriale |
@@ -206,7 +206,7 @@ Ogni box deve aggiungere una funzione didattica distinta, non ripetere il corpo 
 | Privacy e documentazione sanitaria | revisore privacy-legale |
 | Contabilità, procurement e dispositivi | revisore amministrativo-contabile |
 
-Nessun contenuto clinico, professionale o di radioprotezione passa a `publish-ready` senza review nominativa tracciata.
+Nessun contenuto clinico, professionale o di radioprotezione passa al text freeze finché l'audit automatico dello step 15 non ha chiuso ogni rilievo con fonte ed evidenza. La conferma umana resta soltanto allo step 24.
 
 ## Gate di autorizzazione alla scrittura
 
@@ -216,7 +216,7 @@ Un nucleo può entrare in scrittura solo se:
 - la vigenza e l'ambito territoriale sono verificati alla data di cut-off;
 - la matrice assegna una destinazione editoriale;
 - il campione di bandi giustifica la pertinenza alla prova;
-- è definito il tipo di review umana richiesto.
+- è definita la competenza specialistica richiesta dall'audit automatico.
 
 Il cut-off iniziale è il 28 luglio 2026. Fonti successive richiedono una decisione esplicita di aggiornamento.
 

@@ -26,6 +26,8 @@ Sullo step 11 la pipeline salva lo snapshot del capitolo *prima* del tuo interve
 
 Aggiungi `--json` a qualunque comando per ottenere l'esito strutturato invece del testo. Non dedurre l'esito di un gate leggendo il testo formattato.
 
+La conferma umana non è un prerequisito di apertura, scrittura, audit specialistico o text freeze. Lo step 15 è un audit specialistico automatico che deve chiudere ogni criticità nel testo; l'unico step umano è il 24, ultimo del protocollo, che conferma o respinge la validità del pacchetto già completo. Non assegnare preventivamente nomi di revisori nella scheda volume.
+
 ## Formato 2 e gate del capitolo
 
 Il contratto prodotto da `next` espone le soglie effettive del capitolo: usa quelle, comprese le eventuali personalizzazioni `Min parole` e `Min quiz` della scheda volume. Non sostituirle con valori ricordati o stimati.
@@ -63,15 +65,15 @@ Prima di ogni step LLM richiama `LocalAgentMemory` con lo scope del volume; al t
 | --- | --- |
 | 09 scrittura | `concorso-book-professional-writer` |
 | 11 Humanizer | `humanizer` |
-| 12, 13, 21 revisione | `revisore-editoriale-totale` |
+| 12, 13, 15, 21 revisione | `revisore-editoriale-totale` |
 | 17, 18 immagini | `canvas-design` |
 
 ## Fasi
 
 - **C** (08-12) capitolo: piano, scrittura, copertura, Humanizer, revisione.
-- **D** (13-16) modulo: revisione trasversale, correzioni, review umana, text freeze.
-- **F** (21-23) volume: revisione finale, preflight, consegna.
-- **A**, **B**, **E**, **G** restano manuali: `next` presenta il prompt, il gate automatico non esiste ancora e va dichiarato tale, non simulato.
+- **D** (13-16) modulo: revisione trasversale, correzioni, audit specialistico automatico, text freeze.
+- **F** (21-24) volume: revisione finale, preflight, preparazione della consegna, conferma umana conclusiva.
+- **A**, **B** ed **E** restano manuali: `next` presenta il prompt, il gate automatico non esiste ancora e va dichiarato tale, non simulato.
 
 ## Se qualcosa non parte
 

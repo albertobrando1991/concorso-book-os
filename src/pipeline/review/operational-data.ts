@@ -56,9 +56,9 @@ export function renderOperationalDataReviewAppendix(rows: OperationalDataReviewR
   return [
     "## Dati operativi — righe obbligatorie generate dalla pipeline",
     "",
-    "Queste righe sono obbligatorie: il revisore indicato deve esprimere un esito attribuibile prima del nulla osta.",
+    "Queste righe sono obbligatorie: l'audit specialistico automatico deve verificare la competenza indicata e chiudere ogni esito prima del text freeze.",
     "",
-    "| ID | Dato operativo | File e posizione | Revisore | Fonte · versione · verifica | Esito |",
+    "| ID | Dato operativo | File e posizione | Competenza specialistica | Fonte · versione · verifica | Esito |",
     "|---|---|---|---|---|---|",
     ...rows.map((row) =>
       `| ${cell(row.id)} | ${cell(row.title)} | ${cell(`${row.file}:${row.line}`)} | ${cell(row.reviewer)} | ${cell(`${row.source} · v. ${row.version} · ${row.verifiedAt}`)} | da compilare |`

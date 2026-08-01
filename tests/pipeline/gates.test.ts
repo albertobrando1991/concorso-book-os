@@ -9,7 +9,6 @@ import { runDidacticDensityGate } from "../../src/pipeline/gates/didactic-densit
 import { runReviewReportGate } from "../../src/pipeline/gates/review-report-gate"
 import { runGate } from "../../src/pipeline/gates"
 import { runVerifiedReferralGate } from "../../src/pipeline/gates/verified-referral-gate"
-import { runHumanReviewAssignmentGate } from "../../src/pipeline/gates/human-review-assignment-gate"
 
 const codes = (result: { blockers: { code: string }[] }) => result.blockers.map((issue) => issue.code)
 
@@ -211,7 +210,7 @@ Spiega la distinzione in cinque righe.`
     expect(result.warnings.map((issue) => issue.code)).toContain("missing-updated-at")
   })
   it("requires format_version 2 when the pipeline is completing step 09", () => {
-    const content = `---\n${defaults}\n---\n\n# Titolo\n\nTesto.`
+    const content = `---\n${defaults}\n---\n\n${validBody}`
     const result = runChapterLintGate({ content, chapterPath: "chapters/01.md", requireFormatVersion2: true })
 
     expect(codes(result)).toContain("missing-format-version")
@@ -444,7 +443,7 @@ describe("didactic density pipeline wiring", () => {
         moduleId,
         priority: 1,
         phases: ["C"],
-        chapters: [{ number: "01", file: "chapters/01.md", matrix: "planning/02-matrice-copertura-didattica.md", expectedStatus: "completo", notes: "" }],
+        chapters: [{ number: "01", title: "Capitolo legacy", file: "chapters/01.md", matrix: "planning/02-matrice-copertura-didattica.md", expectedStatus: "completo", notes: "" }],
         chaptersSource: "declared" as const,
         line: 1,
         chapterLines: [1]
@@ -463,8 +462,7 @@ describe("didactic density pipeline wiring", () => {
           responsabileEditoriale: "Test",
           writerProvider: "codex",
           phases: ["C"],
-          modules: [module],
-          humanReviews: []
+          modules: [module]
         },
         step: { key: "10:test", id: "10", phase: "C", scope: "chapter", target: chapterTarget, status: "in-progress", attempts: 0, evidence: [] }
       })
@@ -510,19 +508,5 @@ describe("verified VOL-01 referrals", () => {
     } finally {
       rmSync(root, { recursive: true, force: true })
     }
-  })
-})
-
-describe("human review assignment gate", () => {
-  it("blocks every required review without a named reviewer", () => {
-    const result = runHumanReviewAssignmentGate({
-      reviews: [
-        { code: "REV-INF", scope: "Infermieristica", required: true, reviewer: "", cost: "", timing: "", line: 10 },
-        { code: "REV-LEG", scope: "Normativa", required: false, reviewer: "", cost: "", timing: "", line: 11 }
-      ],
-      specPath: "planning/00-scheda-pipeline.md"
-    })
-
-    expect(codes(result)).toEqual(["review-non-assegnata"])
   })
 })

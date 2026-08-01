@@ -33,14 +33,14 @@ Modulo specialistico collegato a [[books/il-metodo-bando/index|Il Metodo BANDO]]
 ## Perimetro
 - Famiglia: Sanità
 - Codice modulo: M-SA02
-- Copertura di lavoro: infermieri, ostetriche, fisioterapisti, TPALL e un sub-verticale OSS distinto. Il cluster di sei bandi OSS conferma il perimetro; procedure e stazioni restano non esecutive fino alla review dello step 15.
+- Copertura di lavoro: infermieri, ostetriche, fisioterapisti, TPALL e un sub-verticale OSS distinto. Il cluster di sei bandi OSS conferma il perimetro; procedure e stazioni restano non esecutive finché non superano l'audit automatico dello step 15.
 - Fase roadmap: 1
-- Stato: tutti i nove capitoli, 01 e 03-10, hanno completato gli step 08-12; la revisione complessiva del modulo agli step 13-14 è completata. Lo step 15 è correttamente in attesa delle review umane specialistiche.
+- Stato: tutti i nove capitoli, 01 e 03-10, hanno completato gli step 08-12; la revisione complessiva del modulo agli step 13-14 è completata. Lo step 15 deve ora eseguire l'audit specialistico automatico.
 
 ## Confine editoriale
 Il modulo non sostituisce il libro principale. Parte dal nucleo comune del Metodo BANDO e aggiunge profili, prove, materie specialistiche, rischi, fonti e casi tipici della famiglia.
 
-Non deve promettere copertura totale di ogni bando o aggiornamento normativo automatico. Le sezioni normative e specialistiche richiedono fonti ufficiali verificate e review umana.
+Non deve promettere copertura totale di ogni bando o aggiornamento normativo automatico. Le sezioni normative e specialistiche richiedono fonti ufficiali verificate e audit specialistico automatico.
 
 ## Capitoli di lavoro
 - [[books/moduli/m-sa02-professioni-sanitarie/planning/00-piano-editoriale|Piano editoriale del modulo]]
@@ -112,4 +112,4 @@ Non deve promettere copertura totale di ogni bando o aggiornamento normativo aut
 - [[books/moduli/m-sa02-professioni-sanitarie/planning/07-piano-chiusura-review-esterne-m-sa02|Dossier coordinato delle cinque review esterne — da assegnare]]
 
 ## Prossimo passo
-Tutti i capitoli dichiarati, 01 e 03-10, hanno completato gli step 08-12 e il modulo ha completato gli step 13-14. Le cinque review `REV-OSS`, `REV-OST`, `REV-FIS`, `REV-EPI` e `REV-TPA` restano aperte allo step 15. Lo stato reale è `awaiting-human`: non si procede al congelamento editoriale senza gli esiti firmati.
+Tutti i capitoli dichiarati, 01 e 03-10, hanno completato gli step 08-12 e il modulo ha completato gli step 13-14. I cinque assi `REV-OSS`, `REV-OST`, `REV-FIS`, `REV-EPI` e `REV-TPA` diventano checklist di competenza dell'audit automatico dello step 15. Non si procede al congelamento finché ogni esito non è chiuso nel testo e nel report.

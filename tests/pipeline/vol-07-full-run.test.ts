@@ -38,6 +38,7 @@ describe("VOL-07 full editorial run", () => {
     expect(new Set(writingTargets).size).toBe(25)
     expect(buildStepDrafts(spec, ["D"])).toHaveLength(16)
     expect(buildStepDrafts(spec, ["E"])).toHaveLength(7)
-    expect(buildStepDrafts(spec, ["F"])).toHaveLength(3)
+    expect(buildStepDrafts(spec, ["F"])).toHaveLength(4)
+    expect(buildStepDrafts(spec, ["F"]).at(-1)).toMatchObject({ id: "24", phase: "F", scope: "volume" })
   })
 })

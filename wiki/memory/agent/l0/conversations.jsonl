@@ -309,3 +309,4 @@
 {"id":"conv-20260801092604-jocig2","createdAt":"2026-08-01T09:26:04.587Z","scope":"pipeline-volume","route":"vol-07/m-sa04/chapter-04","l0Path":"l0\\conv-20260801092604-jocig2.md","messageCount":1,"replyChars":376}
 {"id":"conv-20260801095808-mwwcwd","createdAt":"2026-08-01T09:58:08.187Z","scope":"pipeline-volume","route":"vol-07-automatic-completion","l0Path":"l0\\conv-20260801095808-mwwcwd.md","messageCount":1,"replyChars":223}
 {"id":"conv-20260801151454-wy08bw","createdAt":"2026-08-01T15:14:54.563Z","scope":"pipeline-volume","route":"model-ibrido-nuclei-implementation","l0Path":"l0\\conv-20260801151454-wy08bw.md","messageCount":1,"replyChars":421}
+{"id":"conv-20260801170047-4hg92a","createdAt":"2026-08-01T17:00:47.824Z","scope":"pipeline-volume","route":"final-human-signoff-only","l0Path":"l0\\conv-20260801170047-4hg92a.md","messageCount":1,"replyChars":234}

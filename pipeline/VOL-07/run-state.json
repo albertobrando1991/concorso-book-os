@@ -1,9 +1,9 @@
 {
   "volumeCode": "VOL-07",
   "specPath": "books/volumi/vol-07-sanita-amministrativa-professioni-sanitarie/planning/00-scheda-pipeline.md",
-  "specHash": "sha256:3f83dba1066baf87ea831eadd3ce1153130dc013a37ccaa7a63681bd4038998e",
+  "specHash": "sha256:cc438d8894258f9246c3e2f7a63d1ad34d788965250195a02f287a7e13a1107b",
   "createdAt": "2026-07-28T12:27:05.417Z",
-  "updatedAt": "2026-08-01T09:55:38.213Z",
+  "updatedAt": "2026-08-01T17:00:14.362Z",
   "steps": [
     {
       "key": "00:VOL-07",
@@ -3678,6 +3678,16 @@
     {
       "key": "23:VOL-07",
       "id": "23",
+      "phase": "F",
+      "scope": "volume",
+      "target": "VOL-07",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "24:VOL-07",
+      "id": "24",
       "phase": "F",
       "scope": "volume",
       "target": "VOL-07",

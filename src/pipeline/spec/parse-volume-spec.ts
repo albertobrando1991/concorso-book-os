@@ -26,16 +26,6 @@ export interface VolumeSpecModule {
   chapterLines: number[]
 }
 
-export interface VolumeSpecHumanReview {
-  code: string
-  scope: string
-  required: boolean
-  reviewer: string
-  cost: string
-  timing: string
-  line: number
-}
-
 export interface VolumeSpec {
   specPath: string
   volumeCode: string
@@ -46,7 +36,6 @@ export interface VolumeSpec {
   writerProvider: string
   phases: string[]
   modules: VolumeSpecModule[]
-  humanReviews: VolumeSpecHumanReview[]
 }
 
 const CHAPTER_TABLE_HEADING = /^capitoli\s+(.+)$/i
@@ -65,24 +54,8 @@ export function parseVolumeSpec(markdown: string, specPath: string): VolumeSpec 
     responsabileEditoriale: text(data.responsabile_editoriale),
     writerProvider: text(data.writer_provider),
     phases,
-    modules: parseModules(normalized, phases),
-    humanReviews: parseHumanReviews(normalized)
+    modules: parseModules(normalized, phases)
   }
-}
-
-function parseHumanReviews(markdown: string): VolumeSpecHumanReview[] {
-  const table = findTableAfterHeading(markdown, /^review umane\b/i)
-  if (!table) return []
-
-  return table.rows.map((row, index) => ({
-    code: row.codice ?? "",
-    scope: row.ambito ?? "",
-    required: /^(?:s[iì]|yes|true|1|obbligatoria)$/i.test((row.richiesta ?? "").trim()),
-    reviewer: row.revisore ?? row.nome ?? "",
-    cost: row.costo ?? "",
-    timing: row.tempo ?? row.tempi ?? "",
-    line: table.lines[index]
-  }))
 }
 
 function parseModules(markdown: string, volumePhases: string[]): VolumeSpecModule[] {
