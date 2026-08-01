@@ -9,7 +9,7 @@ entities: ["Metodo BANDO","Capitale Personale"]
 source_refs: ["sources/metodo-bando-progetto-editoriale.md","sources/struttura-madre-il-metodo-bando.md","sources/vol-07-dossier-fonti-materie-sanita-2026-07-28","sources/bandi-rappresentativi-m-sa03-dirigenza-medica-sanitaria-2026","sources/dirigenza-sanitaria-concorsi-ccnl-2026","sources/governo-clinico-appropriatezza-hta-qualita-accreditamento","sources/epidemiologia-base-iss"]
 book_refs: ["il-metodo-bando","moduli-specialistici","vol-07-sanita-amministrativa-professioni-sanitarie"]
 confidence: 0.86
-updated_at: 2026-08-01T10:00:00+02:00
+updated_at: 2026-08-01T12:30:00+02:00
 created_at: 2026-06-27T19:56:28+02:00
 review_required: true
 canonical: true
@@ -18,10 +18,10 @@ book_id: m-sa03-dirigenza-medica-sanitaria
 module_code: M-SA03
 module_family: sanita
 module_family_title: "Sanità"
-module_status: phase-c-complete
+module_status: phase-d-editorial-complete
 roadmap_phase: "3"
 companion_to: il-metodo-bando
-draft_stage: revised-editorial-draft
+draft_stage: awaiting-human-review
 last_compiled_from: ["wiki/books/moduli/architettura-moduli-specialistici.md"]
 ---
 
@@ -35,7 +35,7 @@ Modulo specialistico collegato a [[books/il-metodo-bando/index|Il Metodo BANDO]]
 - Codice modulo: M-SA03
 - Copertura: Dirigenza medica, sanitaria, professionale, tecnica e amministrativa in ambito SSN.
 - Fase roadmap: 3
-- Stato: tutti i sette capitoli hanno completato gli step 08-12. La revisione complessiva del modulo, prevista agli step 13-14, resta da eseguire; nessun capitolo è congelato o pubblicabile.
+- Stato: tutti i sette capitoli hanno completato gli step 08-12 e la revisione complessiva agli step 13-14. Lo step 15 di review umana specialistica resta obbligatorio; nessun capitolo è congelato o pubblicabile.
 
 ## Confine editoriale
 Il modulo non sostituisce il libro principale. Parte dal nucleo comune del Metodo BANDO e aggiunge profili, prove, materie specialistiche, rischi, fonti e casi tipici della famiglia.
@@ -44,6 +44,7 @@ Non deve promettere copertura totale di ogni bando o aggiornamento normativo aut
 
 ## Capitoli di lavoro
 - [[books/moduli/m-sa03-dirigenza-medica-sanitaria/planning/00-piano-editoriale|Piano editoriale del modulo]]
+- [[books/moduli/m-sa03-dirigenza-medica-sanitaria/planning/09-bibbia-del-modulo|Bibbia editoriale del modulo]]
 - [[books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/01-profili-requisiti-prove-dirigenza-sanitaria|Capitolo 01 — Profili, requisiti e prove della dirigenza sanitaria]]
 - [[books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/02-programmazione-sanitaria-organizzazione-servizi|Capitolo 02 — Programmazione sanitaria e organizzazione dei servizi]]
 - [[books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/03-linee-guida-appropriatezza-decisioni-cliniche|Capitolo 03 — Linee guida, appropriatezza e decisioni cliniche]]
@@ -71,4 +72,4 @@ Non deve promettere copertura totale di ogni bando o aggiornamento normativo aut
 - [[sources/sicurezza-cure-responsabilita-consenso-leggi-24-219]]
 
 ## Prossimo passo
-Eseguire gli step 13-14 sull'intero modulo, quindi predisporre il pacchetto dello step 15 per la review umana specialistica. Il congelamento editoriale resta successivo all'esito umano.
+Predisporre il pacchetto dello step 15 per le verifiche giuridico-concorsuale, organizzativa, clinica, epidemiologica e professionale. Il congelamento editoriale resta successivo agli esiti umani.
