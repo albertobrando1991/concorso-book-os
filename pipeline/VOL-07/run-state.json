@@ -3,7 +3,7 @@
   "specPath": "books/volumi/vol-07-sanita-amministrativa-professioni-sanitarie/planning/00-scheda-pipeline.md",
   "specHash": "sha256:3f83dba1066baf87ea831eadd3ce1153130dc013a37ccaa7a63681bd4038998e",
   "createdAt": "2026-07-28T12:27:05.417Z",
-  "updatedAt": "2026-07-31T16:58:34.858Z",
+  "updatedAt": "2026-08-01T08:20:58.766Z",
   "steps": [
     {
       "key": "00:VOL-07",
@@ -3022,9 +3022,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/02-tslb-processo-laboratorio-qualita-biosicurezza.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-31T17:42:45.664Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/02-tslb-processo-laboratorio-qualita-biosicurezza.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano verificato manualmente: processo, discipline, qualità e biosicurezza coperti con fonti OMS aggiornate, confini non esecutivi, casi, struttura KDP e review specialistiche esplicite."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-01T08:08:20.643Z"
     },
     {
       "key": "09:moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/02-tslb-processo-laboratorio-qualita-biosicurezza.md",
@@ -3032,9 +3055,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/02-tslb-processo-laboratorio-qualita-biosicurezza.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-01T08:08:23.626Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-01T08:12:08.372Z"
     },
     {
       "key": "10:moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/02-tslb-processo-laboratorio-qualita-biosicurezza.md",
@@ -3042,9 +3075,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/02-tslb-processo-laboratorio-qualita-biosicurezza.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-01T08:12:19.017Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-01T08:13:18.535Z"
     },
     {
       "key": "11:moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/02-tslb-processo-laboratorio-qualita-biosicurezza.md",
@@ -3052,9 +3095,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/02-tslb-processo-laboratorio-qualita-biosicurezza.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-01T08:13:28.771Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-01T08:14:10.694Z"
     },
     {
       "key": "12:moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/02-tslb-processo-laboratorio-qualita-biosicurezza.md",
@@ -3062,9 +3115,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/02-tslb-processo-laboratorio-qualita-biosicurezza.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-01T08:14:22.002Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-01T08:20:58.766Z"
     },
     {
       "key": "08:moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/03-tsrm-imaging-dosimetria-radioprotezione.md",
