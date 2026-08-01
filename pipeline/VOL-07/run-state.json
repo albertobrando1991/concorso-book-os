@@ -3,7 +3,7 @@
   "specPath": "books/volumi/vol-07-sanita-amministrativa-professioni-sanitarie/planning/00-scheda-pipeline.md",
   "specHash": "sha256:3f83dba1066baf87ea831eadd3ce1153130dc013a37ccaa7a63681bd4038998e",
   "createdAt": "2026-07-28T12:27:05.417Z",
-  "updatedAt": "2026-08-01T09:51:02.663Z",
+  "updatedAt": "2026-08-01T09:54:19.805Z",
   "steps": [
     {
       "key": "00:VOL-07",
@@ -3503,9 +3503,35 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-sa04-tecnici-sanitari-prevenzione",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-01T09:51:49.619Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E01: stato \"aperto\".",
+            "location": "wiki/reviews/pipeline/VOL-07/13-moduli-m-sa04-tecnici-sanitari-prevenzione.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E02: stato \"aperto\".",
+            "location": "wiki/reviews/pipeline/VOL-07/13-moduli-m-sa04-tecnici-sanitari-prevenzione.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E03: stato \"aperto\".",
+            "location": "wiki/reviews/pipeline/VOL-07/13-moduli-m-sa04-tecnici-sanitari-prevenzione.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-01T09:52:57.480Z"
     },
     {
       "key": "14:moduli/m-sa04-tecnici-sanitari-prevenzione",
@@ -3513,9 +3539,19 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-sa04-tecnici-sanitari-prevenzione",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-01T09:53:07.297Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-01T09:54:19.805Z"
     },
     {
       "key": "15:moduli/m-sa04-tecnici-sanitari-prevenzione",

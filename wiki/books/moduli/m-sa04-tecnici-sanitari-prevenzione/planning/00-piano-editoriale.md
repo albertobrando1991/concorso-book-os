@@ -2,45 +2,43 @@
 id: chapter-m-sa04-tecnici-sanitari-prevenzione-piano-editoriale
 type: editorial_plan
 title: "Piano editoriale — M-SA04 Tecnici sanitari e prevenzione"
-status: structure
+status: revised_draft
 domain: "concorsi pubblici italiani"
 topics: ["moduli specialistici","sanita","metodo bando"]
 entities: ["Metodo BANDO"]
-source_refs: ["sources/metodo-bando-progetto-editoriale.md","sources/struttura-madre-il-metodo-bando.md","sources/vol-07-dossier-fonti-materie-sanita-2026-07-28"]
+source_refs: ["sources/metodo-bando-progetto-editoriale.md","sources/struttura-madre-il-metodo-bando.md","sources/vol-07-dossier-fonti-materie-sanita-2026-07-28","sources/bandi-rappresentativi-m-sa04-tslb-tsrm-2025-2026","sources/profili-professionali-tslb-tsrm-dm-745-746","sources/qualita-biosicurezza-laboratorio-tslb","sources/radioprotezione-qualita-immagine-apparecchiature-dlgs-101-2020","sources/dispositivi-medici-ivd-vigilanza-rischio-tecnologico-2026"]
 book_refs: ["m-sa04-tecnici-sanitari-prevenzione","il-metodo-bando","vol-07-sanita-amministrativa-professioni-sanitarie"]
-confidence: 0.55
-updated_at: 2026-07-28T00:00:00+02:00
+confidence: 0.88
+updated_at: 2026-08-01T13:00:00+02:00
 created_at: 2026-06-27T19:56:28+02:00
 review_required: true
 canonical: true
 tags: ["editorial-plan","specialist-module-plan","module-code-m-sa04"]
 book_id: m-sa04-tecnici-sanitari-prevenzione
-draft_stage: structure-ready
+draft_stage: module-review-complete
 module_code: M-SA04
 module_family: sanita
-last_compiled_from: ["wiki/books/moduli/architettura-moduli-specialistici.md","wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/index.md"]
+last_compiled_from: ["wiki/books/moduli/architettura-moduli-specialistici.md","wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/index.md","wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/planning/02-matrice-copertura-didattica.md","wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/planning/09-bibbia-del-modulo.md"]
 ---
 
 # Piano editoriale — M-SA04 Tecnici sanitari e prevenzione
 
-## Specifica struttura modulo
+## Specifica del modulo
 
 ### Obiettivo
-Trasformare il Metodo BANDO in un percorso operativo per la famiglia "Sanità", con focus su tecnici sanitari, prevenzione, sicurezza, laboratori e profili tecnico-sanitari.
+Preparare candidati TSLB e TSRM a distinguere profili e responsabilità e ad affrontare prove su laboratorio, imaging, radioprotezione, dispositivi e rischio tecnologico.
 
 ### Lettore
-Candidato che ha letto o sta usando Il Metodo BANDO e deve adattare metodo, materie comuni, prove e priorità a questa famiglia concorsuale.
+Candidato TSLB o TSRM che necessita di teoria autosufficiente, applicazioni concorsuali non esecutive e confini professionali chiari.
 
-### Struttura prevista
-1. Mappa della famiglia concorsuale.
-2. Profili tipici e prove ricorrenti.
-3. Materie comuni da riusare dal libro principale.
-4. Materie specialistiche da aggiungere.
-5. Bando Decoder adattato alla famiglia.
-6. Piano 30/60/90 giorni specifico.
-7. Errori frequenti e tagli da evitare.
-8. Casi guidati, quiz o risposte sintetiche tipiche.
-9. Checklist finale del modulo.
+### Struttura canonica
+
+1. TSLB e TSRM: profili, requisiti, prove e responsabilità.
+2. TSLB: processo di laboratorio, qualità e biosicurezza.
+3. TSRM: imaging, dosimetria e radioprotezione.
+4. Tecnologie, dispositivi, apparecchiature e rischio tecnologico.
+
+Ogni capitolo integra teoria, applicazione alla prova, caso o pratica illustrata, errori frequenti, verifica e fonti ufficiali per il lettore.
 
 ### Collegamenti obbligatori
 - Libro principale: [[books/il-metodo-bando/index|Il Metodo BANDO]]
@@ -62,5 +60,6 @@ Tecniche di laboratorio; biochimica, microbiologia ed ematologia applicate; bios
 - Topic pages già presenti nel wiki.
 - Source notes nuove se il modulo richiede aggiornamento o specialismo.
 
-## Testo editoriale
-La matrice di copertura registra nove nuclei preparatori completi. La scheda pipeline dichiara quattro capitoli e mantiene separati i verticali TSLB e TSRM. I file editoriali non sono ancora presenti e devono attraversare gli step 08-12.
+## Stato editoriale
+
+La matrice registra nove nuclei completi. I quattro capitoli hanno concluso gli step 08-12; revisione trasversale e correzioni degli step 13-14 hanno allineato metadati, indice, piano e Bibbia. Restano obbligatorie le review umane specialistiche dello step 15; il modulo non è congelato né pubblicabile.

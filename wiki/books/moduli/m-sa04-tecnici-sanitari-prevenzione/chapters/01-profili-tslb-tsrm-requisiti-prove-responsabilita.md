@@ -1,6 +1,6 @@
 ---
 id: chapter-m-sa04-01-profili-tslb-tsrm-requisiti-prove-responsabilita
-type: chapter
+type: book_chapter
 title: "TSLB e TSRM: profili, requisiti, prove e responsabilità"
 status: revised_draft
 domain: "concorsi pubblici italiani"
