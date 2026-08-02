@@ -28,8 +28,6 @@ function validateScalars(spec: VolumeSpec): SpecIssue[] {
   if (!spec.cutOffDate) issues.push(missing("cutOffDate", "cut_off_date"))
   else if (!isCalendarDate(spec.cutOffDate)) issues.push(invalid("cutOffDate", "cut_off_date", spec.cutOffDate, "attesa una data reale in formato AAAA-MM-GG"))
 
-  if (!spec.responsabileNormativo) issues.push(missing("responsabileNormativo", "responsabile_normativo"))
-
   if (spec.writerProvider && !WRITER_PROVIDERS.includes(spec.writerProvider as (typeof WRITER_PROVIDERS)[number])) {
     issues.push(invalid("writerProvider", "writer_provider", spec.writerProvider, `valori ammessi: ${WRITER_PROVIDERS.join(", ")}`))
   }

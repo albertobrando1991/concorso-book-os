@@ -175,12 +175,12 @@ La chiusura richiede verifica dell'andamento dei casi, esito delle misure, risul
 
 ## Review richiesta
 
-I quattro calcoli e la checklist specialistica sono inclusi nel [[books/moduli/m-sa02-professioni-sanitarie/planning/05-pacchetto-review-epidemiologica-indipendente|pacchetto di review epidemiologica indipendente]]. Il verbale resta da compilare da parte di un revisore esterno.
+I quattro calcoli e la checklist specialistica sono inclusi nella [[books/moduli/m-sa02-professioni-sanitarie/planning/05-pacchetto-review-epidemiologica-indipendente|checklist automatica epidemiologica]]. L'esito confluisce nel report automatico dello step 15.
 
 Prima dell'uso editoriale servono:
 
 1. controllo indipendente dei quattro calcoli;
-2. review epidemiologica della definizione e dell'interpretazione;
+2. audit automatico epidemiologico della definizione e dell'interpretazione;
 3. review professionale dei ruoli multiprofessionali;
 4. verifica della versione corrente del flusso PREMAL e della definizione di sorveglianza applicabile;
 5. adattamento alle procedure territoriali solo dopo acquisizione della relativa fonte.

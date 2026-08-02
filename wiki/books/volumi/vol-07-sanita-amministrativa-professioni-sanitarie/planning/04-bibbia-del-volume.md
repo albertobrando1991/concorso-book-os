@@ -52,7 +52,7 @@ Al termine del percorso pertinente al proprio profilo, il lettore sarà in grado
 5. affrontare quiz, risposta sintetica, prova teorico-pratica, caso professionale e colloquio previsti dal campione di bandi;
 6. verificare la propria preparazione con checklist ed esercizi collegati alle fonti.
 
-La promessa è rispettata solo se ogni nucleo pubblicato dispone di: fonte verificata, teoria, applicazione al profilo, output di prova, verifica didattica e review richiesta.
+La promessa è rispettata solo se ogni nucleo pubblicato dispone di: fonte verificata, teoria, applicazione al profilo, output di prova, verifica didattica e audit automatico chiuso.
 
 ## Perimetro comune del volume
 
@@ -129,7 +129,7 @@ Per ciascun modulo l'ordine interno è:
 4. indice e architettura;
 5. scrittura dei capitoli;
 6. apparati didattici;
-7. review specialistica e normativa.
+7. audit specialistico e normativo automatico.
 
 ## Terminologia canonica
 
@@ -150,7 +150,7 @@ La profondità è a tre livelli:
 
 - `essenziale`: definizioni, soggetti, competenze e regole ad alta probabilità di prova;
 - `operativa`: procedura, responsabilità, documenti, decisioni e casi;
-- `verticale`: conoscenze cliniche o tecniche pertinenti al singolo profilo, sempre sottoposte a review specialistica.
+- `verticale`: conoscenze cliniche o tecniche pertinenti al singolo profilo, sempre sottoposte ad audit specialistico automatico.
 
 La precisione ha priorità sulla completezza apparente. Le incertezze si dichiarano; non si colmano con inferenze.
 
@@ -181,7 +181,7 @@ Non si forza una sezione priva di utilità didattica. Il capitolo deve però ren
 - `Fonte`: estremi, autorità, vigenza e livello territoriale.
 - `Rinvio VOL-01`: destinazione canonica puntuale, mai un rinvio generico.
 
-Ogni box deve aggiungere una funzione didattica distinta, non ripetere il corpo del testo. I box clinici e tecnico-professionali richiedono review specialistica.
+Ogni box deve aggiungere una funzione didattica distinta, non ripetere il corpo del testo. I box clinici e tecnico-professionali sono verificati dall'audit specialistico automatico.
 
 ## Criteri per esempi, casi ed esercizi
 
@@ -197,14 +197,14 @@ Ogni box deve aggiungere una funzione didattica distinta, non ripetere il corpo 
 
 | Ambito | Competenza di controllo |
 | --- | --- |
-| Vigenza normativa, coordinamento e rinvii | responsabile normativo |
-| Perimetro, tono, ridondanze e promessa | responsabile editoriale |
+| Vigenza normativa, coordinamento e rinvii | competenza normativa |
+| Perimetro, tono, ridondanze e promessa | competenza editoriale |
 | Scienze infermieristiche e tecniche assistenziali | professionista sanitario del profilo |
 | Casi clinici, appropriatezza e linee guida | specialista della disciplina |
 | Laboratorio e biosicurezza | TSLB o specialista competente |
 | Radiologia, dosimetria e radioprotezione | TSRM/esperto competente |
-| Privacy e documentazione sanitaria | revisore privacy-legale |
-| Contabilità, procurement e dispositivi | revisore amministrativo-contabile |
+| Privacy e documentazione sanitaria | competenza privacy-legale |
+| Contabilità, procurement e dispositivi | competenza amministrativo-contabile |
 
 Nessun contenuto clinico, professionale o di radioprotezione passa al text freeze finché l'audit automatico dello step 15 non ha chiuso ogni rilievo con fonte ed evidenza. La conferma umana resta soltanto allo step 24.
 
@@ -228,5 +228,5 @@ Il volume non è completo finché:
 - ogni modulo ha superato il proprio gate `GO/STOP`;
 - ogni claim normativo e professionale è tracciabile;
 - i quattro formati di prova sono coperti in misura coerente con i bandi;
-- le review obbligatorie sono registrate;
+- gli audit automatici obbligatori sono chiusi;
 - indice, capitoli, quiz, casi e checklist sono coerenti tra loro.

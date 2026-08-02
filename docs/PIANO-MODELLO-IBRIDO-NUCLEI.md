@@ -2,7 +2,7 @@
 
 > Documento di handoff per agenti implementatori. Autosufficiente: non presuppone contesto di conversazione precedente. Riferisce sempre percorsi file assoluti rispetto alla root del repo.
 >
-> Stato: architettura implementata e integrata in `main`; pilota in preparazione. Decisione successiva dell'utente sulla conferma umana finale recepita il 2026-08-01.
+> Stato: architettura implementata e integrata in `main`; pilot M-SA02/05 e retrofit M-FC02/04 eseguiti nel worktree dedicato, audit automatico M-SA02 chiuso allo step 15. Decisione sulla conferma umana finale recepita il 2026-08-01.
 
 ## Context
 
@@ -17,6 +17,15 @@ La misurazione del corpus esistente in `main` mostra che il problema è sistemic
 | Quiz nell'intero corpus (`Risposta corretta:`) | 71 |
 | Mediana parole/capitolo | 2.989 |
 | Capitoli sotto le 3.000 parole | 96 |
+
+Questa è la baseline storica precedente all'integrazione di VOL-07. La misura riproducibile corrente, generata il 2026-08-01 da `node scripts/retrofit/audit-debito.mjs`, è:
+
+| Metrica corrente | Valore |
+|---|---|
+| Capitoli | 191 |
+| Parole totali | 640.553 |
+| Capitoli senza quiz | 162 |
+| Capitoli sotto le 3.000 parole | 86 |
 
 Casi peggiori: `wiki/books/moduli/m-fc05-authority-indipendenti/` — 16 capitoli, 44.100 parole, **0 quiz**; `wiki/books/il-metodo-bando/` — 54 capitoli, 190.696 parole, **48 senza quiz**; `wiki/books/moduli/m-fl04-polizia-locale/` — mediana 2.073 parole. Caso migliore: `wiki/books/moduli/m-fc02-agenzie-fiscali/` — 37 quiz, solo 4 capitoli scoperti su 16.
 
@@ -85,8 +94,8 @@ Il capitolo passa da monolite a sequenza di **nuclei**. Un nucleo = una riga del
 |---|---|---|
 | Nuclei per capitolo | 5 | non tracciato oggi |
 | Parole per nucleo | 600 | — |
-| Parole per capitolo | 3.000 | **96 capitoli su 189 sotto soglia** |
-| Quiz per capitolo | 6 | **149 capitoli su 189 a zero** |
+| Parole per capitolo | 3.000 | **86 capitoli su 191 sotto soglia** |
+| Quiz per capitolo | 6 | **162 capitoli su 191 a zero** |
 | Casi ragionati per capitolo | 1 | ~142 capitoli hanno già `Caso guidato` |
 | Copertura righe matrice | 100% delle righe assegnate ha un nucleo con ID | non verificabile oggi |
 
@@ -212,7 +221,7 @@ Decisione utente: si pubblica **con versione e fonte**. Nuovo box canonico, da a
 > Ambito: prevenzione cadute, adulto ospedalizzato · Livello: nazionale
 > Fonte: <estremi> · Versione: <n> · Verificata al: 2026-08-01
 > <contenuto: item, punteggi, soglie>
-> Review: REV-INF (professionista sanitario del profilo)
+> Audit automatico: clinico-assistenziale
 ```
 
 Regole:
@@ -222,7 +231,7 @@ Regole:
 - Restano esclusi: dosi e posologie, energie di defibrillazione, sequenze di manovra eseguibili, protocolli locali presentati come regola nazionale. Questi si citano per *esistenza e funzione*, mai per contenuto esecutivo.
 - La premessa al lettore (`front-matter/05-premessa.md` di ciascun volume) dichiara esplicitamente il perimetro: cosa il volume pubblica e cosa rinvia a corsi certificati e protocolli di struttura.
 
-**Conseguenza operativa**: aumenta il carico dell'audit specialistico automatico, che deve verificare e correggere ogni dato operativo prima del text freeze. I quattro vecchi stati `awaiting-human` osservati su VOL-07 sono debito di stato della precedente architettura e vanno riaperti tramite CLI sotto il nuovo step 15 automatico — vedi §7.
+**Conseguenza operativa**: aumenta il carico dell'audit specialistico automatico, che deve verificare e correggere ogni dato operativo prima del text freeze. I quattro vecchi stati `awaiting-human` osservati su VOL-07 sono stati migrati tramite CLI: M-SA02 è chiuso dal nuovo step 15 automatico; M-SA01, M-SA03 e M-SA04 sono tornati `pending` automatici. Nessun modulo resta in attesa di una persona prima dello step 24.
 
 ---
 
@@ -357,7 +366,7 @@ I miglioramenti valgono su tre fronti, come richiesto esplicitamente dall'utente
 
 ### 9.1 Perimetro reale del debito
 
-Dei 189 capitoli in `wiki/books/**/chapters/*.md`, 18 sono solo scaffold da ~200 parole (un capitolo per modulo nei moduli non ancora avviati): non sono «già scritti», sono da scrivere e nasceranno direttamente in formato 2. Il corpus reale da retrofittare, in ordine di priorità:
+Dei 191 capitoli correnti in `wiki/books/**/chapters/*.md`, una quota è costituita da scaffold da scrivere direttamente in formato 2. Il report `wiki/reviews/retrofit/00-debito-didattico.md` è la fonte autoritativa per conteggi e priorità; la tabella seguente conserva la fotografia modulare usata per definire l'ordine iniziale:
 
 | Modulo (percorso sotto `wiki/books/`) | Cap. | Parole | Senza quiz | Sotto 3.000 parole | Priorità e motivo |
 |---|---:|---:|---:|---:|---|
@@ -412,10 +421,10 @@ Il primo rilievo è lo stesso difetto già trovato e corretto su VOL-07, modulo 
 Rimuovere dal corpo del capitolo `## Scheda di lavoro` e `### Note di review editoriale`, archiviandoli in `wiki/reviews/`. Appiattire il contenitore `## Testo editoriale` (i suoi `###` salgono a `##`). Precedente già applicato e verbalizzato su VOL-07 (vedi il report citato sopra). **Scriptabile quasi al 100%**: un audit automatico del diff e i test del contratto studente devono dimostrare che nessun contenuto didattico è stato rimosso; la conferma umana resta allo step 24.
 
 **Livello A — apparato didattico (meccanico, nessuna nuova fonte richiesta).**
-Assegnare i `Nucleo ID` alle sezioni sostanziali già esistenti (già identificate nell'ispezione §9.2) e raggruppare l'apparato già presente (`Caso guidato`, `Domanda da commissario`, `Domanda-trappola`, `Mini-esercizio`) in un blocco `▣ Verifica`, **completandolo con i quiz mancanti derivati dal testo già scritto e già passato per l'audit editoriale**. Punto chiave: questi quiz non introducono claim normativi o fattuali nuovi — sono derivati dal contenuto già verificato — quindi **non aprono un nuovo ciclo di audit normativo**; il gate deve dimostrare automaticamente che ogni item è derivabile dal testo esistente. Copre il difetto più grave del corpus (149 capitoli a zero quiz) al costo più basso, e su 143 capitoli su 155 parte da un apparato già in essere, non da zero.
+Assegnare i `Nucleo ID` alle sezioni sostanziali già esistenti (già identificate nell'ispezione §9.2) e raggruppare l'apparato già presente (`Caso guidato`, `Domanda da commissario`, `Domanda-trappola`, `Mini-esercizio`) in un blocco `▣ Verifica`, **completandolo con i quiz mancanti derivati dal testo già scritto e già passato per l'audit editoriale**. Punto chiave: questi quiz non introducono claim normativi o fattuali nuovi — sono derivati dal contenuto già verificato — quindi **non aprono un nuovo ciclo di audit normativo**; il gate deve dimostrare automaticamente che ogni item è derivabile dal testo esistente. Copre il difetto più grave del corpus (162 capitoli correnti a zero quiz) al costo più basso, partendo dall'apparato già presente dove disponibile.
 
 **Livello B — densità (sostanziale, richiede fonti nuove e audit specialistico completo).**
-Portare a soglia i 96 capitoli sotto le 3.000 parole. Qui servono fonti nuove, scrittura e audit automatici completi: è lavoro di pipeline vera, da svolgere modulo per modulo attraverso tutti i gate previsti, senza dipendenze umane prima dello step 24.
+Portare a soglia gli 86 capitoli correnti sotto le 3.000 parole. Qui servono fonti nuove, scrittura e audit automatici completi: è lavoro di pipeline vera, da svolgere modulo per modulo attraverso tutti i gate previsti, senza dipendenze umane prima dello step 24.
 
 Il mix di livelli necessari cambia molto per modulo — esempi dalla tabella §9.1:
 - `m-fc02-agenzie-fiscali`: 0 capitoli sotto soglia parole → serve solo **A** (quiz) su 4 capitoli.
@@ -456,6 +465,15 @@ Sequenza del pilota:
 5. Misurare entrambi i binari: parole prodotte, nuclei creati, quiz prodotti, righe di matrice risolte, ore di lavoro effettive, esiti del gate.
 6. Solo se entrambi reggono la misurazione: estendere il formato agli altri 8 capitoli di M-SA02 e avviare formalmente la Fase 1 del retrofit (VOL-01) su tutto `il-metodo-bando`.
 
+**Risultati misurati il 2026-08-01**
+
+| Binario | Parole | Nuclei | Quiz | Casi | Matrice | Gate |
+|---|---:|---:|---:|---:|---|---|
+| M-SA02/05 | 6.634 | 7 (613–854 parole) | 7 | 3 | 7 righe v2 con checklist | densità, copertura, lint, citazioni e audit step 15 verdi |
+| M-FC02/04, livello A | 8.388 | 6 (860–1.251 parole) | 6 | 1 | overlay di 6 righe v2; storico legacy preservato | densità e copertura verdi senza warning |
+
+Il campione M-FC02 mostra che la proposta automatica grezza non è sufficiente: aveva prodotto 22 candidati da heading. Il costo reale del livello A include il raggruppamento editoriale degli H2 in nuclei sostanziali. Sul caso favorevole non sono servite nuove fonti né nuova teoria: sono bastati ristrutturazione degli heading, un quiz derivato dal testo e la checklist dimensionale.
+
 **Precondizione soddisfatta il 2026-08-01**: il worktree `.worktrees/vol-07-pipeline-start` è stato integrato in `main` con il modello ibrido e la nuova sequenza automatica. Il pilota può quindi partire da un worktree isolato basato sul commit di integrazione.
 
 **Vincolo di rilascio aggiornato**: il pilota deve superare l'audit specialistico automatico dello step 15 e tutti i gate successivi senza dipendere da persone. La sola conferma umana resta allo step 24, quando testi e pacchetto sono già completi. L'obiettivo resta portare **un solo modulo** fino al candidato di pubblicazione e ritarare le soglie quantitative sui risultati reali, prima di aprire la scrittura del terzo volume del catalogo a 12 volumi.
@@ -469,8 +487,8 @@ Checklist per l'agente implementatore, da eseguire in quest'ordine:
 1. `npm test` — devono passare i nuovi test di `didactic-density-gate`: capitolo conforme (nessun blocker); nuclei insufficienti; ID nucleo malformato; nucleo troppo breve; verifica assente; verifica troppo distante da nuclei precedenti; quiz insufficienti; capitolo troppo breve; heading dentro un code fence correttamente ignorati (riuso di `headingsOf`); **`format_version: 1` produce solo warning, mai blocker**; `format_version: 2` applica i blocker normalmente. Più la regressione sui gate esistenti: `chapter-lint`, `coverage`, `citation-guard`, e su `steps.test.ts`.
 2. `npm run typecheck` — nessun errore introdotto.
 3. `npm run audit:coverage` — deve girare senza errori di parsing sulle matrici migrate al nuovo formato e produrre lo stesso esito del gate `coverage` sullo stesso input (prova diretta che la deduplicazione della logica del §2 è riuscita: se i due comandi divergono su uno stesso file, la deduplicazione non è completa).
-4. `node scripts/retrofit/audit-debito.mjs` (sull'intero `wiki/books/`) — i totali prodotti devono riprodurre i numeri di questo documento (189 capitoli, 149 senza quiz, 96 sotto soglia parole); se divergono, il conteggio del gate e quello dello script di audit non condividono davvero lo stesso codice (violazione del vincolo del §9.4 punto 1).
-5. `npm run pipeline -- gate VOL-07 --step 10 --chapter <target del cap. 05 M-SA02>` — comando in sola lettura (non muta `run-state.json`): deve **fallire** sul capitolo nella sua forma attuale (0 quiz, nessun nucleo con ID) e **passare** sulla versione riscritta secondo il nuovo formato.
+4. `node scripts/retrofit/audit-debito.mjs` (sull'intero `wiki/books/`) — i totali prodotti devono riprodurre la misura corrente (191 capitoli, 162 senza quiz, 86 sotto soglia parole); se divergono, il conteggio del gate e quello dello script di audit non condividono davvero lo stesso codice (violazione del vincolo del §9.4 punto 1).
+5. `npm run pipeline -- gate VOL-07 --step 10 --chapter <target del cap. 05 M-SA02>` — comando in sola lettura: la versione legacy deve passare con il solo warning `retrofit-dovuto`; una versione dichiarata `format_version: 2` ma incompleta deve fallire; la versione v2 finale deve passare senza blocker.
 6. `npm run pipeline -- status VOL-02` e `npm run pipeline -- status VOL-03` — devono restare **verdi** (nessuno step che va in `blocked`) subito dopo l'accensione del nuovo gate nel registry, grazie alla modalità legacy. Se uno dei due passa a `blocked`, la modalità legacy non sta funzionando come previsto e va corretta prima di procedere oltre.
 7. **Copertura qualitativa (§3-bis)**: sul capitolo 05 pilota, verificare che la checklist dimensionale sia compilata per ciascun `Nucleo ID` con evidenza citata (non solo ✓/✗ senza riferimento) e che il blocker `dimensione-mancante` si attivi davvero rimuovendo manualmente una dimensione da un nucleo di test (es. cancellare la frase che marca una distinzione) e verificando che il gate `coverage` lo segnali.
 8. **Impaginazione (§6-bis)**: sul PDF impaginato del capitolo 05 pilota (fase KDP, step 19-20 del protocollo) verificare che il blocco `▣ Verifica` sia visivamente distinto e non si spezzi male tra una pagina e l'altra; che la numerazione decimale visibile (es. "5.4") compaia nel titolo stampato del nucleo e nell'indice del volume; che le tabelle dei box `Dato operativo` e degli schemi comparativi restino entro le tre colonne compatte previste dal design system (`wiki/books/il-metodo-bando/design-system-editoriale.md`); che il volume resti in bianco e nero come da decisione §6-bis.1.

@@ -4,13 +4,14 @@ type: review
 title: "VOL-07 step 10 - Controllo copertura M-SA02 capitolo 05"
 status: complete
 domain: "concorsi pubblici italiani"
-source_refs: ["sources/sicurezza-cure-responsabilita-consenso-leggi-24-219", "sources/sicurezza-terapia-triage-assistenza-infermieristica-ministero", "sources/deterioramento-clinico-news2-sepsi-regioni", "sources/arresto-cardiaco-bls-iss-snlg-2026", "sources/als-adulto-erc-irc-2025", "sources/puerperio-neonato-supporto-vitale-oms-irc-iss", "sources/emergenze-ostetriche-eclampsia-sepsi-tromboembolia-itoss", "sources/emergenze-ostetriche-distocia-spalla-prolasso-funicolo-protocolli-italiani", "sources/riabilitazione-fisioterapia-iss-ministero"]
+source_refs: ["sources/sicurezza-cure-responsabilita-consenso-leggi-24-219", "sources/sicurezza-terapia-triage-assistenza-infermieristica-ministero", "sources/deterioramento-clinico-news2-sepsi-regioni", "sources/arresto-cardiaco-bls-iss-snlg-2026", "sources/als-adulto-erc-irc-2025", "sources/puerperio-neonato-supporto-vitale-oms-irc-iss", "sources/emergenze-ostetriche-eclampsia-sepsi-tromboembolia-itoss", "sources/emergenze-ostetriche-distocia-spalla-prolasso-funicolo-protocolli-italiani"]
 book_refs: ["m-sa02-professioni-sanitarie", "vol-07-sanita-amministrativa-professioni-sanitarie"]
-updated_at: 2026-07-31T20:00:00+02:00
+updated_at: 2026-08-01T23:50:00+02:00
 created_at: 2026-07-31T20:00:00+02:00
-review_required: true
+review_required: false
+automatic_audit_required: true
 canonical: true
-tags: ["pipeline", "vol-07", "step-10", "m-sa02", "chapter-05", "coverage"]
+tags: ["pipeline", "vol-07", "step-10", "m-sa02", "chapter-05", "coverage", "format-v2"]
 issue_type: coverage
 severity: none
 affected_pages: ["chapter-05"]
@@ -22,58 +23,46 @@ Target: `wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/05-valutazione-
 
 Matrice: `wiki/books/moduli/m-sa02-professioni-sanitarie/planning/02-matrice-copertura-didattica.md`.
 
-## Perimetro verificato
+## Sintesi misurabile
 
-La riga assegna il nucleo **Clinica generale ed emergenza** a infermiere, ostetrica e fisioterapista: valutazione iniziale, deterioramento, triage, urgenza, emergenza, rianimazione e sicurezza.
+Il capitolo in formato 2 conta 6.634 parole e sviluppa sette nuclei stabili. I nuclei contano rispettivamente 752, 854, 669, 764, 613, 618 e 659 parole: tutti superano la soglia minima. Sono presenti un blocco `▣ Verifica`, sette quiz commentati e tre casi ragionati.
 
-Il controllo è stato svolto sulle circa 5.500 parole del testo reale. Casi, quiz e checklist sono stati usati come applicazione e verifica, non come sostituti della teoria. Algoritmi, soglie, farmaci, dosi, energie e manovre restano correttamente subordinati a versione, protocollo, competenza e addestramento.
+Il gate `didactic-density` non rileva blocker. Il gate `coverage` non rileva blocker sulle sette righe assegnate al capitolo.
 
-## Evidenza criterio per criterio
-
-| Criterio | Evidenza reale | Esito |
-| --- | --- | --- |
-| Definizione | `Valutazione iniziale e priorità` definisce urgenza, emergenza e rischio evolutivo; `NEWS2: funzione e limiti` definisce lo score; `Triage e gestione della priorità` definisce il processo; BLS, ALS e NLS sono distinti. | coperto |
-| Funzione | Mappa BANDO e sezioni teoriche collegano dati, rischio, priorità, allerta, supporto e rivalutazione. | coperto |
-| Inquadramento | Leggi 24/2017 e 219/2017, triage 2019, NEWS2 regionale 2024, ISS-SNLG BLS 2026, ERC/IRC 2025-2026 e fonti ItOSS sono nominate in forma leggibile. | coperto |
-| Elementi | Funzioni vitali, basale, rivalutazione, score, triage, team, fattori umani, BLS/ALS, NLS, allarmi ostetrici e deterioramento riabilitativo hanno sezioni autonome. | coperto |
-| Distinzioni | dato/diagnosi; urgenza/emergenza; score/giudizio; triage/visita; BLS/ALS/NLS; riconoscimento/manovra; adulto/neonato; priorità/amministrazione. | coperto |
-| Conseguenze | Ogni cambiamento produce verifica, allerta, supporto nel ruolo, comunicazione, documentazione e rivalutazione. | coperto |
-| Esempio/caso | Tre casi riguardano adulto con sospetta sepsi, allarme ostetrico e deterioramento durante riabilitazione. | coperto |
-| Uso nella prova | Quiz, domanda da commissario, follow-up, mini-esercizio e formule di risposta trasformano la teoria in output concorsuali. | coperto |
-| Errore tipico | Box e H3 `Errori e trappole da evitare` correggono automatismi, attesa della diagnosi, confusione tra livelli e manovre non contestualizzate. | coperto |
-| Verifica | Tre quiz con soluzione, mini-esercizio e checklist finale. | coperto |
-| Fonti | Dodici `source_refs`, quattordici `last_compiled_from` e riferimenti istituzionali leggibili. | coperto |
-
-## Controllo dei sotto-concetti
-
-| Sotto-concetto | Evidenza teorica | Applicazione/verifica | Stato |
-| --- | --- | --- | --- |
-| Valutazione iniziale | sicurezza, impressione generale, funzioni vitali, dati essenziali, valutazione successiva | caso adulto e checklist | completo |
-| Deterioramento | basale, tendenza, NEWS2, sepsi, escalation | casi adulto/fisioterapia e quiz 1 | completo |
-| Triage | finalità, processo, assegnazione, rivalutazione, sovra/sottostima, fragilità | quiz 2 e tabella di controllo | completo |
-| Urgenza | definizione e rischio di danno da ritardo | confronto urgenza/emergenza | completo |
-| Emergenza | minaccia vitale, team, leadership e risposta organizzata | casi e domanda orale | completo |
-| Rianimazione | quadro BLS/ALS adulto, NLS, post-evento e limiti | quiz 3 e tabella livelli | completo |
-| Sicurezza | legge 24/2017, preparazione, fattori umani, consenso, comunicazione, documentazione, debriefing | checklist ed errori | completo |
-
-## Delta
+## Delta per nucleo
 
 | Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
 | --- | --- | --- | --- | --- |
-| Clinica generale ed emergenza | completo come readiness di scrittura; testo iniziale troppo sintetico in alcuni verticali | Ampliate rivalutazione, dati mancanti, triage, fragilità, deterioramento riabilitativo, fattori umani, consenso, preparazione del team, BLS/ALS, NLS e allarmi ostetrici | completo sul testo reale | H2/H3 dedicate, tre casi, tre quiz, domanda orale, esercizio e checklist |
+| `N-SA02-05-01` | riga aggregata legacy | sviluppati valutazione, priorità e rivalutazione | completo | H2 omonimo; caso 1; checklist |
+| `N-SA02-05-02` | riga aggregata legacy | sviluppati deterioramento, NEWS2 e sepsi con dato operativo versionato | completo | H2 omonimo; `DO-SA02-05-NEWS2-ER-2024`; quiz 1 |
+| `N-SA02-05-03` | riga aggregata legacy | sviluppati finalità, processo, priorità e rivalutazione del triage | completo | H2 omonimo; quiz 2 |
+| `N-SA02-05-04` | riga aggregata legacy | sviluppati équipe, comunicazione, sicurezza e fattori umani | completo | H2 omonimo; quiz 4 |
+| `N-SA02-05-05` | riga aggregata legacy | distinti BLS, ALS e continuità post-evento | completo | H2 omonimo; quiz 3 e 5 |
+| `N-SA02-05-06` | riga aggregata legacy | sviluppati preparazione e supporto vitale neonatale | completo | H2 omonimo; quiz 6 |
+| `N-SA02-05-07` | riga aggregata legacy | sviluppati allarmi ostetrici e risposta multidisciplinare | completo | H2 omonimo; caso 2; quiz 7 |
 
-Nessun sotto-concetto è `parziale`, `solo-nominato` o `mancante`. La minore estensione rispetto al budget massimo non determina incompletezza: ogni promessa formativa ha spiegazione, distinzione, conseguenza e verifica.
+## Checklist dimensionale
 
-## Controlli differiti allo step 15
+La matrice contiene per ciascun Nucleo ID evidenze puntuali per:
 
-1. review clinica di valutazione, deterioramento, sepsi e criteri di escalation;
-2. review di triage su codici, tempi, percorsi e rivalutazione;
-3. review BLS/ALS adulto e NLS sulla versione corrente e sui ruoli;
-4. review ostetrica su EPP, eclampsia, sepsi, tromboembolismo, distocia e prolasso;
-5. review fisioterapica sui criteri di interruzione e sul percorso di allerta;
-6. verifica di procedure, dispositivi, dotazioni e formazione del setting;
-7. validazione di casi, quiz e simulazioni.
+- definizione;
+- funzione;
+- inquadramento;
+- elementi;
+- distinzioni;
+- conseguenze;
+- esempio o caso;
+- uso nella prova;
+- errore tipico;
+- verifica;
+- tracciabilità.
+
+Non risultano dimensioni applicabili vuote o negative. Casi, quiz e checklist sono conteggiati come applicazione e verifica, mai come sostituti della teoria.
+
+## Dati operativi
+
+Il box NEWS2 dichiara ID, fonte ufficiale, ambito, versione, data di ricontrollo e area `clinico-assistenziale` dell'audit automatico. Il parser riconosce il box e lo inserisce nel pacchetto obbligatorio dello step 15 senza assegnarlo a una persona.
 
 ## Esito
 
-La classificazione `completo` è confermata. Tutti i sette sotto-concetti dispongono di teoria autonoma, distinzioni, conseguenze, casi, uso concorsuale, errori e verifica. Lo step 10 può essere sottoposto al gate automatico `coverage`; il capitolo resta non esecutivo e `review_required` fino allo step 15.
+Copertura e sufficienza didattica sono complete e verificabili a macchina. Non vi sono lacune da rinviare: lo step 15 eseguirà l'audit specialistico automatico e lo step 24 resterà l'unica conferma umana, esclusivamente conclusiva.

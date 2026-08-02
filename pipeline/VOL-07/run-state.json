@@ -1,9 +1,9 @@
 {
   "volumeCode": "VOL-07",
   "specPath": "books/volumi/vol-07-sanita-amministrativa-professioni-sanitarie/planning/00-scheda-pipeline.md",
-  "specHash": "sha256:cc438d8894258f9246c3e2f7a63d1ad34d788965250195a02f287a7e13a1107b",
+  "specHash": "sha256:2bf25af8d6ef25d580357796f10f426685d69ff75c1c03caa60fb515e78e3131",
   "createdAt": "2026-07-28T12:27:05.417Z",
-  "updatedAt": "2026-08-01T17:00:14.362Z",
+  "updatedAt": "2026-08-02T16:05:28.507Z",
   "steps": [
     {
       "key": "00:VOL-07",
@@ -496,12 +496,12 @@
       "scope": "chapter",
       "target": "moduli/m-sa02-professioni-sanitarie/chapters/05-valutazione-clinica-triage-urgenza-emergenza.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-31T08:55:21.707Z",
+      "startedAt": "2026-08-02T10:11:01.533Z",
       "gate": {
         "passed": true,
         "blockers": [],
@@ -513,14 +513,14 @@
           },
           {
             "code": "manual-acceptance",
-            "message": "Chiusura manuale di info: Piano verificato: target assente; tutte le voci clinica/emergenza hanno teoria, applicazione e verifica; adulto, neonato e ostetricia distinti; algoritmi, soglie, farmaci, dosi e manovre esclusi dal perimetro esecutivo; review cliniche tracciate allo step 15; budget KDP definito."
+            "message": "Chiusura manuale di info: Piano v2 verificato: sette nuclei stabili, budget 6400-7600 parole, sette quiz, tre casi, dati NEWS2 versionati, audit automatici e sola conferma umana conclusiva allo step 24."
           }
         ],
         "notImplemented": [
           "chapter-plan"
         ]
       },
-      "finishedAt": "2026-07-31T09:09:07.823Z"
+      "finishedAt": "2026-08-02T10:43:30.253Z"
     },
     {
       "key": "09:moduli/m-sa02-professioni-sanitarie/chapters/05-valutazione-clinica-triage-urgenza-emergenza.md",
@@ -529,18 +529,18 @@
       "scope": "chapter",
       "target": "moduli/m-sa02-professioni-sanitarie/chapters/05-valutazione-clinica-triage-urgenza-emergenza.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-31T09:09:24.952Z",
+      "startedAt": "2026-08-02T10:43:36.835Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-07-31T09:13:43.586Z"
+      "finishedAt": "2026-08-02T10:46:13.662Z"
     },
     {
       "key": "10:moduli/m-sa02-professioni-sanitarie/chapters/05-valutazione-clinica-triage-urgenza-emergenza.md",
@@ -549,18 +549,18 @@
       "scope": "chapter",
       "target": "moduli/m-sa02-professioni-sanitarie/chapters/05-valutazione-clinica-triage-urgenza-emergenza.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-31T09:13:53.976Z",
+      "startedAt": "2026-08-02T10:46:15.290Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-07-31T09:27:02.986Z"
+      "finishedAt": "2026-08-02T10:46:52.900Z"
     },
     {
       "key": "11:moduli/m-sa02-professioni-sanitarie/chapters/05-valutazione-clinica-triage-urgenza-emergenza.md",
@@ -569,18 +569,18 @@
       "scope": "chapter",
       "target": "moduli/m-sa02-professioni-sanitarie/chapters/05-valutazione-clinica-triage-urgenza-emergenza.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-31T09:27:10.628Z",
+      "startedAt": "2026-08-02T10:47:11.313Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-07-31T09:29:50.696Z"
+      "finishedAt": "2026-08-02T10:47:45.762Z"
     },
     {
       "key": "12:moduli/m-sa02-professioni-sanitarie/chapters/05-valutazione-clinica-triage-urgenza-emergenza.md",
@@ -589,18 +589,18 @@
       "scope": "chapter",
       "target": "moduli/m-sa02-professioni-sanitarie/chapters/05-valutazione-clinica-triage-urgenza-emergenza.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-31T09:30:02.003Z",
+      "startedAt": "2026-08-02T10:47:56.848Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-07-31T09:31:48.751Z"
+      "finishedAt": "2026-08-02T10:52:17.114Z"
     },
     {
       "key": "08:moduli/m-sa02-professioni-sanitarie/chapters/06-prevenzione-continuita-presa-in-carico.md",
@@ -1297,13 +1297,19 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-sa02-professioni-sanitarie",
-      "status": "awaiting-human",
-      "attempts": 1,
+      "status": "done",
+      "attempts": 2,
       "evidence": [],
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-31T11:18:11.612Z"
+      "startedAt": "2026-08-02T10:52:18.834Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-02T15:43:11.578Z"
     },
     {
       "key": "16:moduli/m-sa02-professioni-sanitarie",
@@ -2012,13 +2018,9 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-sa01-sanita-amministrativa",
-      "status": "awaiting-human",
+      "status": "pending",
       "attempts": 1,
-      "evidence": [],
-      "owner": "info",
-      "agent": "unknown",
-      "provider": "codex",
-      "startedAt": "2026-08-01T09:55:32.696Z"
+      "evidence": []
     },
     {
       "key": "16:moduli/m-sa01-sanita-amministrativa",
@@ -2965,13 +2967,9 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-sa03-dirigenza-medica-sanitaria",
-      "status": "awaiting-human",
+      "status": "pending",
       "attempts": 1,
-      "evidence": [],
-      "owner": "info",
-      "agent": "unknown",
-      "provider": "codex",
-      "startedAt": "2026-08-01T09:55:35.470Z"
+      "evidence": []
     },
     {
       "key": "16:moduli/m-sa03-dirigenza-medica-sanitaria",
@@ -3567,13 +3565,9 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-sa04-tecnici-sanitari-prevenzione",
-      "status": "awaiting-human",
+      "status": "pending",
       "attempts": 1,
-      "evidence": [],
-      "owner": "info",
-      "agent": "unknown",
-      "provider": "codex",
-      "startedAt": "2026-08-01T09:55:38.213Z"
+      "evidence": []
     },
     {
       "key": "16:moduli/m-sa04-tecnici-sanitari-prevenzione",

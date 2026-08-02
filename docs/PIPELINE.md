@@ -21,7 +21,7 @@ Se manca il browser: `npx playwright install chromium`.
 
 Unico input richiesto allo staff. Modello: `wiki/templates/scheda-pipeline-volume-template.md`. Va copiato in `wiki/books/<percorso-volume>/planning/00-scheda-pipeline.md` e compilato.
 
-Servono obbligatoriamente `volume_code`, `volume_title`, `cut_off_date`, `responsabile_normativo`, `phases` e la tabella `## Moduli`. Quando il piano dei capitoli è approvato, dichiarare nella scheda numero, titolo, file, matrice e stato atteso. Se la tabella è omessa, la pipeline deriva soltanto i file editoriali già esistenti in `<module id>/chapters/`: non inventa target pianificati.
+Servono obbligatoriamente `volume_code`, `volume_title`, `cut_off_date`, `phases` e la tabella `## Moduli`. La scheda non assegna persone alla revisione: tutti i controlli intermedi sono automatici e lo step 24 registra soltanto la conferma umana finale. Quando il piano dei capitoli è approvato, dichiarare nella scheda numero, titolo, file, matrice e stato atteso. Se la tabella è omessa, la pipeline deriva soltanto i file editoriali già esistenti in `<module id>/chapters/`: non inventa target pianificati.
 
 Esempio già compilato: `wiki/books/volumi/vol-03-fisco-dogane-previdenza-ispettivo/planning/00-scheda-pipeline.md`.
 

@@ -91,7 +91,7 @@ async function init(context: Context): Promise<CommandResult> {
     steps: buildStepDrafts(loaded.spec, phases),
     now: context.now
   })
-  const state = existing ? reproject(fresh, existing) : fresh
+  const state = existing ? reprojectRunState(fresh, existing) : fresh
   const file = await saveRunState(context.projectRoot, state)
   const dropped = existing ? existing.steps.filter((step) => !state.steps.some((current) => current.key === step.key)).length : 0
 
@@ -243,7 +243,7 @@ async function sync(context: Context): Promise<CommandResult> {
     steps: buildStepDrafts(loaded.spec, phases),
     now: context.now
   })
-  const state = reproject(fresh, existing)
+  const state = reprojectRunState(fresh, existing)
   const added = state.steps.filter((step) => !existing.steps.some((current) => current.key === step.key))
   const dropped = existing.steps.filter((step) => !state.steps.some((current) => current.key === step.key))
   const specChanged = existing.specHash !== loaded.specHash
@@ -303,10 +303,22 @@ async function requireRunState(context: Context): Promise<RunState> {
   return state
 }
 
-function reproject(fresh: RunState, existing: RunState): RunState {
+export function reprojectRunState(fresh: RunState, existing: RunState): RunState {
   const previous = new Map(existing.steps.map((step) => [step.key, step]))
 
-  return { ...fresh, createdAt: existing.createdAt, steps: fresh.steps.map((step) => previous.get(step.key) ?? step) }
+  return {
+    ...fresh,
+    createdAt: existing.createdAt,
+    steps: fresh.steps.map((step) => {
+      const current = previous.get(step.key)
+
+      if (!current || current.status !== "awaiting-human") return current ?? step
+      if (requireStepDefinition(step.id).gate === "human-signoff") return current
+
+      const { owner, agent, provider, startedAt, finishedAt, gate, ...unclaimed } = current
+      return { ...unclaimed, status: "pending" }
+    })
+  }
 }
 
 function selectStep(state: RunState, context: Context) {
@@ -408,7 +420,6 @@ export function promptValuesFor(spec: VolumeSpec, step: StepRecord) {
     VOLUME_CODE: spec.volumeCode,
     VOLUME_TITLE: spec.volumeTitle,
     CUT_OFF_DATE: spec.cutOffDate,
-    RESPONSABILE: spec.responsabileNormativo,
     MODULE_CODE: module?.code ?? spec.modules.map((item) => item.code).join(", "),
     MODULE_ID: module?.moduleId ?? spec.modules.map((item) => item.moduleId).join(", "),
     CHAPTER_FILE: step.scope === "chapter" ? `wiki/books/${step.target}` : "",

@@ -163,4 +163,4 @@ La soglia è una proposta editoriale da confermare allo step 15.
 
 ## Stato
 
-Artefatto completo per la pianificazione e pronto per la scrittura controllata. Identità, esito e firma restano da compilare esclusivamente nella review umana dello step 15.
+Artefatto completo per la pianificazione e pronto per la scrittura controllata. Metodo, chiavi ed esiti sono chiusi dall'audit automatico dello step 15; la sola conferma umana resta lo step 24.

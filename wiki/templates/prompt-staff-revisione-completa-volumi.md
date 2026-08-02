@@ -41,8 +41,7 @@ Sostituire sempre:
 - `[MODULE_ID]`: slug/cartella del modulo;
 - `[CHAPTER_FILE]`: percorso del capitolo;
 - `[CHAPTER_NUMBER]`: numero o codice del capitolo;
-- `[CUT_OFF_DATE]`: data di chiusura delle fonti;
-- `[RESPONSABILE]`: referente umano dell'attività.
+- `[CUT_OFF_DATE]`: data di chiusura delle fonti.
 
 Ordine delle ripetizioni:
 
@@ -338,7 +337,7 @@ Vincoli:
 - ogni promessa formativa deve avere spiegazione o rinvio preciso.
 - ogni nucleo usa l'heading `N-<MODULO>-<CAP>-<NN> · <titolo>` e sviluppa teoria essenziale, schema/tabella e applicazione al profilo;
 - almeno 5 nuclei, 600 parole per nucleo e 3.000 parole per capitolo, salvo soglie più alte nella scheda;
-- i dati clinici o tecnici operativi usano il box `Dato operativo` con fonte ufficiale, ambito, versione, data di verifica e revisore; niente dosi, energie o sequenze eseguibili.
+- i dati clinici o tecnici operativi usano il box `Dato operativo` con fonte ufficiale, ambito, versione, data di verifica e area dell'audit automatico; niente dosi, energie o sequenze eseguibili.
 
 Aggiorna frontmatter, `format_version: 2`, `dati_operativi`, last_compiled_from, source_refs, draft_stage e review_required in modo veritiero. Registra gli eventuali punti aperti nell'evidenza o nel report di review della pipeline, non come parte della lezione destinata allo studente.
 ```

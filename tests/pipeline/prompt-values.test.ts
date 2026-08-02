@@ -7,7 +7,6 @@ const spec = {
   volumeCode: "VOL-07",
   volumeTitle: "Sanità amministrativa e professioni sanitarie",
   cutOffDate: "2026-07-28",
-  responsabileNormativo: "Alberto Brando",
   modules: [
     { code: "M-SA02", moduleId: "moduli/m-sa02-professioni-sanitarie" },
     { code: "M-SA01", moduleId: "moduli/m-sa01-sanita-amministrativa" }

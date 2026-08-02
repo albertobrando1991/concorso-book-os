@@ -8,11 +8,11 @@ dati_operativi: ["DO-SA02-05-CONLEY"]
 ---
 # Prevenzione delle cadute
 
-> **Dato operativo — Scala di Conley**
+> **Dato operativo · Scala di Conley**
 > Ambito: prevenzione cadute, adulto ospedalizzato · Livello: nazionale
 > Fonte: Linea guida ufficiale · Versione: 2 · Verificata al: 2026-08-01
 > Contenuto verificato.
-> Review: REV-INF (professionista sanitario del profilo)
+> Audit automatico: clinico-assistenziale
 `
 
   it("extracts one mandatory specialist row for each Dato operativo box", () => {
@@ -21,7 +21,7 @@ dati_operativi: ["DO-SA02-05-CONLEY"]
         id: "DO-SA02-05-CONLEY",
         title: "Scala di Conley",
         line: 7,
-        reviewer: "REV-INF",
+        auditArea: "clinico-assistenziale",
         source: "Linea guida ufficiale",
         version: "2",
         verifiedAt: "2026-08-01"
@@ -35,7 +35,9 @@ dati_operativi: ["DO-SA02-05-CONLEY"]
 
     expect(appendix).toContain("## Dati operativi — righe obbligatorie generate dalla pipeline")
     expect(appendix).toContain("DO-SA02-05-CONLEY")
-    expect(appendix).toContain("REV-INF")
+    expect(appendix).toContain("Area di audit automatico")
+    expect(appendix).toContain("clinico-assistenziale")
+    expect(appendix).not.toMatch(/revisore|NON ASSEGNATO|REV-INF/i)
     expect(appendix).toContain("05-cadute.md:7")
   })
 })

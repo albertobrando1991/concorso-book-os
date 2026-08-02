@@ -191,7 +191,6 @@ type: pipeline_spec
 volume_code: VOL-07
 volume_title: Sanità amministrativa e professioni sanitarie
 cut_off_date: 2026-07-28
-responsabile_normativo: Alberto Brando
 phases: [B, C]
 ---
 

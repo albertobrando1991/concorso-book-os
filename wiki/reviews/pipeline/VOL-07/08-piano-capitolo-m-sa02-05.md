@@ -16,189 +16,80 @@ source_refs:
   - "sources/puerperio-neonato-supporto-vitale-oms-irc-iss"
   - "sources/emergenze-ostetriche-eclampsia-sepsi-tromboembolia-itoss"
   - "sources/emergenze-ostetriche-distocia-spalla-prolasso-funicolo-protocolli-italiani"
-  - "sources/riabilitazione-fisioterapia-iss-ministero"
 book_refs: ["m-sa02-professioni-sanitarie", "vol-07-sanita-amministrativa-professioni-sanitarie"]
-updated_at: 2026-07-31T18:45:00+02:00
+updated_at: 2026-08-01T23:30:00+02:00
 created_at: 2026-07-31T18:45:00+02:00
-review_required: true
+review_required: false
+automatic_audit_required: true
 canonical: true
-tags: ["pipeline", "vol-07", "step-08", "m-sa02", "chapter-05", "chapter-plan"]
+tags: ["pipeline", "vol-07", "step-08", "m-sa02", "chapter-05", "chapter-plan", "format-v2"]
 ---
 
 # Piano operativo — M-SA02, capitolo 05
 
 Target: `wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/05-valutazione-clinica-triage-urgenza-emergenza.md`.
 
-## Esito dell'assegnazione
+## Obiettivo e standard di completezza
 
-La matrice assegna al capitolo il nucleo **Clinica generale ed emergenza** per infermiere, ostetrica e fisioterapista: valutazione iniziale, deterioramento, triage, urgenza, emergenza, rianimazione e sicurezza.
+Il capitolo deve arrivare agli audit automatici già completo, autosufficiente e didatticamente sufficiente. La conferma umana non interviene nella produzione, non colma lacune e non limita il contenuto: è soltanto l'ultimo passaggio dello step 24, dopo il superamento di tutti i gate automatici.
 
-Il capitolo deve insegnare a riconoscere la criticità, stabilire la priorità, attivare la risposta e comunicare con l'équipe. Non sarà un manuale operativo di rianimazione o emergenza: algoritmi, soglie, farmaci, dosi, manovre e sequenze dipendono da versione, profilo, setting, protocollo e addestramento certificato.
+Budget: **6.400–7.600 parole**, con **sette nuclei stabili**, **sette quiz a risposta multipla**, **tre casi ragionati** e una verifica intermedia. Ogni nucleo contiene teoria, applicazione professionale, errore tipico e verifica.
 
-## Matrice riga per riga
+## Nuclei assegnati
 
-| Voce | Teoria prevista | Applicazione | Verifica | Review differita |
-| --- | --- | --- | --- | --- |
-| Valutazione iniziale | sicurezza della scena, impressione generale, raccolta rapida dei dati, funzioni vitali, anamnesi essenziale e rivalutazione | scenario con dati progressivi | griglia `riconosci-prioritizza-allerta-comunica-rivaluta` | infermieristica/clinica |
-| Deterioramento | cambiamento rispetto al basale, parametri, osservazione, NEWS2 come supporto e limiti dello score | caso di peggioramento e sospetta sepsi | domanda orale e quiz | clinica/setting |
-| Triage | finalità, valutazione iniziale, assegnazione della priorità, rivalutazione e responsabilità organizzative | confronto tra scenari senza attribuire codici inventati | quiz di priorità | triage |
-| Urgenza | problema che richiede risposta tempestiva in relazione al rischio evolutivo | distinguere urgenza da emergenza e non urgenza | esercizio comparativo | clinica |
-| Emergenza | minaccia immediata alle funzioni vitali e attivazione coordinata | scenario di allerta e team | risposta strutturata | team emergenza |
-| Rianimazione | catena riconoscimento-allerta-BLS-supporto avanzato-cure post-evento; differenze adulto/neonato | casi non esecutivi su ruoli e passaggi | domande/trappole | BLS/ALS/NLS e simulazione |
-| Sicurezza | competenze, comunicazione, protocolli, dispositivi, addestramento, documentazione e debriefing | caso con errore di comunicazione | checklist | multiprofessionale |
+| ID stabile | Nucleo | Applicazione | Verifica minima |
+| --- | --- | --- | --- |
+| `N-SA02-05-01` | valutazione iniziale e priorità | riconoscere dati significativi, rischio evolutivo e necessità di rivalutazione | quiz + caso |
+| `N-SA02-05-02` | deterioramento, NEWS2 e sepsi | usare lo score come supporto, integrare giudizio clinico ed escalation | quiz + verifica 05.A |
+| `N-SA02-05-03` | triage | distinguere finalità, priorità, rivalutazione e responsabilità organizzative | quiz + caso |
+| `N-SA02-05-04` | équipe, comunicazione e sicurezza | attivazione, handover, documentazione, competenze e debriefing | quiz |
+| `N-SA02-05-05` | arresto cardiaco adulto: BLS e ALS | riconoscimento, allerta, livelli di risposta e continuità post-evento | quiz + caso |
+| `N-SA02-05-06` | supporto vitale neonatale | preparazione, valutazione, termoregolazione, team e trasferimento | quiz |
+| `N-SA02-05-07` | allarmi ostetrici | riconoscere EPP, eclampsia, sepsi, tromboembolia, distocia e prolasso | quiz + caso |
 
-## Contenuti consolidati
+## Architettura didattica
 
-- La legge 24/2017 collega sicurezza delle cure e prevenzione del rischio all'insieme delle attività assistenziali e organizzative.
-- Le linee nazionali sul triage intraospedaliero sostengono finalità, fasi, rivalutazione e organizzazione; non autorizzano codici o algoritmi inventati.
-- NEWS2 usa parametri fisiologici per sostenere riconoscimento e monitoraggio; non equivale a diagnosi e non sostituisce giudizio clinico o protocollo.
-- I documenti regionali sulla sepsi collegano riconoscimento, escalation e percorso organizzativo, ma non sono automaticamente universali.
-- La linea guida ISS-SNLG BLS aggiornata a giugno 2026 è il riferimento nazionale corrente del corpus per il supporto di base.
-- Le linee ERC 2025, nella versione italiana IRC, coprono ALS adulto; restano linee scientifico-professionali e non sostituiscono protocolli, abilitazioni o formazione.
-- Le linee ERC/IRC sul supporto vitale neonatale coprono preparazione del team, valutazione e risposta del neonato; richiedono addestramento e attribuzioni specifiche.
-- Le fonti ISS-ItOSS e ministeriali sostengono riconoscimento, allerta, lavoro di équipe e sorveglianza nelle emergenze ostetriche.
-- Distocia di spalla e prolasso di funicolo dispongono di campioni regionali/aziendali e fonti RCOG, ma le versioni e la natura locale impediscono una sequenza esecutiva universale.
-- Il corpus riabilitativo sostiene valutazione funzionale e lavoro multiprofessionale; per il deterioramento durante trattamento servono protocolli e review specifici.
+1. obiettivi e mappa `sicurezza → riconoscimento → priorità → allerta → équipe → rivalutazione`;
+2. sette sezioni H2, una per nucleo stabile;
+3. box operativi versionati quando un dato è necessario per rispondere correttamente;
+4. verifica 05.A dopo il blocco deterioramento/triage;
+5. tre casi ragionati distribuiti tra adulto, neonato e ostetricia;
+6. batteria finale di sette quiz, ciascuno con spiegazione della risposta corretta e dei distrattori;
+7. checklist finale e riferimenti istituzionali.
 
-## Informazioni mobili e limiti
+## Dati operativi e rinvii
 
-- soglie, componenti e algoritmo operativo del NEWS2;
-- codici, tempi, flussi, responsabilità e protocolli di triage del servizio;
-- algoritmi BLS, ALS e NLS nella versione applicabile;
-- farmaci, dosi, energie, tempi, tecniche di via aerea e cause reversibili;
-- composizione del team, ruoli, chiamate, attrezzature e percorsi locali;
-- criteri e trattamento della sepsi;
-- manovre e gestione clinica delle emergenze ostetriche;
-- attribuzioni puntuali di infermiere, ostetrica, fisioterapista e altri professionisti;
-- procedure di trasferimento, trasporto e presa in carico post-evento;
-- contenuti del singolo bando e forma concreta della prova.
+Il NEWS2 non viene ridotto a un rinvio generico: il capitolo riporta parametri, classi di punteggio, ossigeno supplementare e soglia di allerta globale, con fonte, versione, ambito e limiti. Il box è identificato come `DO-SA02-05-NEWS2-ER-2024`.
 
-Il testo potrà nominare gli elementi per orientare lo studio, ma non convertirli in istruzioni autonome. In uno scenario, la risposta sicura sarà riconoscere, allertare, mettere in sicurezza, comunicare e seguire il protocollo competente.
+Algoritmi BLS/ALS/NLS, dosi, energie, manovre e protocolli locali sono trattati al livello necessario per la prova concorsuale. Le informazioni mobili sono accompagnate dal rinvio verificabile alla fonte corrente; il testo non simula addestramento pratico né inventa sequenze universali.
 
-## Duplicazioni e sconfinamenti da evitare
+## Confini editoriali
 
-- **Capitolo 01:** non ripetere profili, requisiti e architettura generale delle prove.
-- **Capitolo 03:** applicare autonomia, responsabilità e limiti senza riscrivere l'intero quadro professionale.
-- **Capitolo 04:** non duplicare processo assistenziale, terapia, ICA, cadute e rapporto infermiere-OSS; richiamarli soltanto quando il cambiamento diventa deterioramento.
-- **Capitolo 06:** non anticipare prevenzione, cronicità, dimissione e continuità territoriale.
-- **Capitolo 10:** non sostituire il metodo generale della prova pratica; qui sviluppare il ragionamento clinico di riconoscimento e priorità.
-- **VOL-01:** non ripetere tecniche generali di quiz, scritto e orale.
+- Il capitolo 03 conserva il quadro generale di autonomia e responsabilità.
+- Il capitolo 04 conserva processo assistenziale, terapia, ICA e rapporto infermiere–OSS.
+- Il capitolo 06 conserva prevenzione, cronicità e continuità territoriale.
+- Il capitolo 10 conserva il metodo generale della prova pratica.
+- Questo capitolo resta autosufficiente per riconoscimento, priorità, escalation, sicurezza e verifica concorsuale.
 
-## Struttura H1/H2/H3 e budget KDP
+## Gate misurabili
 
-Budget complessivo: **6.400-7.600 parole**, circa **19-23 pagine KDP**.
+- frontmatter `format_version: 2`;
+- sette ID nucleo univoci e allineati alla matrice;
+- almeno 400 parole per nucleo;
+- nessun nucleo privo delle quattro dimensioni richieste;
+- almeno una verifica ogni tre nuclei;
+- sette quiz completi di spiegazioni;
+- almeno tre casi ragionati;
+- dati operativi dichiarati e fonti verificabili;
+- nessun blocco del gate `didactic-density`;
+- nessun blocco del gate `coverage`.
 
-### H1 — Valutazione clinica, triage, urgenza ed emergenza
+## Audit e conferma finale
 
-### H2 — Obiettivi, mappa e contratto di sicurezza — 350-450 parole
+Lo step 15 esegue automaticamente l'audit specialistico su coerenza clinica, fonti, versione dei dati operativi, triage, BLS/ALS, supporto neonatale, allarmi ostetrici, sicurezza e qualità dei quiz. Ogni rilievo deve essere risolto prima del text freeze.
 
-#### H3 — Dalla raccolta dei dati all'escalation
-#### H3 — Conoscenza concorsuale e addestramento pratico
+Non sono previsti revisori nominati né approvazioni umane intermedie. Soltanto allo step 24 una persona conferma in via conclusiva la validità dei testi già completi e già verificati.
 
-Mappa `sicurezza-riconoscimento-priorità-allerta-team-rivalutazione`.
+## Esito del piano
 
-### H2 — Valutazione iniziale e priorità — 850-1.000 parole
-
-#### H3 — Impressione generale e dati immediati
-#### H3 — Funzioni vitali e informazioni essenziali
-#### H3 — Urgenza, emergenza e rischio evolutivo
-#### H3 — Rivalutazione
-
-Nessun algoritmo clinico dettagliato; attenzione ai dati mancanti e al cambiamento.
-
-### H2 — Deterioramento clinico, NEWS2 e sepsi — 850-1.000 parole
-
-#### H3 — Riconoscere il peggioramento
-#### H3 — Lo score come supporto, non come diagnosi
-#### H3 — Escalation e comunicazione strutturata
-#### H3 — Sospetta infezione e percorso sepsi
-
-Il testo spiega finalità e limiti; valori, soglie e trattamento restano al protocollo.
-
-### H2 — Triage e gestione della priorità — 750-900 parole
-
-#### H3 — Finalità e responsabilità
-#### H3 — Valutazione, assegnazione e rivalutazione
-#### H3 — Errore di sovra- o sottostima
-#### H3 — Flussi e protocolli locali
-
-I casi confrontano priorità senza inventare codici.
-
-### H2 — Team dell'emergenza e sicurezza — 650-800 parole
-
-#### H3 — Attivazione, ruoli e leadership
-#### H3 — Comunicazione, documentazione e handover
-#### H3 — Attrezzature, farmaci e controlli organizzativi
-#### H3 — Debriefing e apprendimento
-
-### H2 — Arresto cardiaco nell'adulto: quadro BLS e ALS — 750-900 parole
-
-#### H3 — Riconoscimento e allerta
-#### H3 — Dal supporto di base alla risposta avanzata
-#### H3 — Cure post-evento e continuità
-#### H3 — Competenza, protocollo e formazione
-
-Niente frequenze, dosi, energie o manovre passo-passo.
-
-### H2 — Neonato e supporto vitale — 500-650 parole
-
-#### H3 — Preparazione e valutazione iniziale
-#### H3 — Team, controllo termico, supporto e trasferimento
-#### H3 — Comunicazione con i genitori e limiti
-
-### H2 — Allarmi ostetrici — 750-900 parole
-
-#### H3 — Emorragia post partum
-#### H3 — Eclampsia, sepsi e tromboembolismo
-#### H3 — Distocia di spalla e prolasso di funicolo
-#### H3 — Riconoscimento, allerta e team
-
-La sezione distingue sorveglianza, fattori organizzativi e risposta; non insegna manovre o terapia.
-
-### H2 — Casi ragionati e verifica — 900-1.050 parole
-
-#### H3 — Caso di deterioramento dell'adulto
-#### H3 — Scenario neonatale o ostetrico non esecutivo
-#### H3 — Quiz e domanda da commissario
-#### H3 — Errori, mini-esercizio e checklist
-
-## Apparati didattici
-
-- mappa iniziale del ragionamento;
-- tabella urgenza/emergenza/rischio evolutivo;
-- box **Da sapere in 5 righe** su NEWS2, triage, BLS/ALS/NLS e allarmi ostetrici;
-- tabella `dato-significato-priorità-allerta-rivalutazione`;
-- caso adulto con peggioramento progressivo;
-- scenario ostetrico/neonatale centrato su allerta e team;
-- domanda-trappola sullo score come diagnosi;
-- quiz su priorità, rivalutazione e confini;
-- domanda orale con follow-up sui livelli BLS/ALS;
-- checklist `sicurezza-riconosci-allerta-comunica-supporta-rivaluta-documenta`;
-- riferimenti istituzionali leggibili e versionati.
-
-## Controlli umani richiesti allo step 15
-
-1. review clinica della valutazione iniziale, deterioramento, sepsi e criteri di escalation;
-2. review di triage su priorità, rivalutazione, flussi e responsabilità;
-3. review BLS/ALS adulto sulla versione corrente, ruoli e casi;
-4. review ostetrica e neonatale su EPP, eclampsia, sepsi, tromboembolia, distocia, prolasso e NLS;
-5. review fisioterapica sul deterioramento durante trattamento e sui limiti di intervento;
-6. verifica delle procedure e delle dotazioni del setting;
-7. prova pratica/simulazione controllata, non sostituibile dal testo;
-8. review editoriale di quiz, distrattori, leggibilità e assenza di istruzioni esecutive.
-
-## Verifica manuale del piano
-
-- [x] Tutte le voci della matrice hanno teoria, applicazione e verifica.
-- [x] Valutazione, deterioramento, triage, urgenza, emergenza, rianimazione e sicurezza hanno sezioni dedicate.
-- [x] Adulto, neonato e allarmi ostetrici sono distinti.
-- [x] NEWS2 e triage sono presentati come supporti alla priorità, non diagnosi o automatismi.
-- [x] Algoritmi, soglie, farmaci, dosi e manovre restano fuori dal testo esecutivo.
-- [x] Le fonti storiche, regionali, professionali e modello di setting sono etichettate.
-- [x] Le review specialistiche sono rinviate allo step 15.
-- [x] Il target non esiste al momento della verifica.
-- [x] Struttura e budget KDP sono definiti.
-
-## Criterio di approvazione
-
-Il piano è approvabile perché copre l'intero nucleo clinica/emergenza con un percorso di riconoscimento, priorità, escalation e équipe, mantenendo separati i diversi profili e contesti. L'approvazione autorizza la scrittura didattica non esecutiva; non valida algoritmi, manovre, farmaci, soglie, protocolli o competenze del singolo setting.
+Il piano è completo e implementabile: definisce contenuti, sufficienza didattica, verifiche, dati operativi, fonti, confini e gate senza delegare lacune alla conferma finale.

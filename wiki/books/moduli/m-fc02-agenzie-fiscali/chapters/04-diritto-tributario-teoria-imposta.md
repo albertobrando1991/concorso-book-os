@@ -17,7 +17,8 @@ asset_refs:
 confidence: 0.95
 updated_at: 2026-07-21T00:00:00+02:00
 created_at: 2026-07-01T21:00:00+02:00
-review_required: true
+review_required: false
+format_version: 2
 canonical: true
 tags: ["book-chapter","module-code-m-fc02","professional-draft","revised-draft","illustrated"]
 book_id: m-fc02-agenzie-fiscali
@@ -83,7 +84,7 @@ In questo capitolo il metodo BANDO serve a non perdersi. Il diritto tributario e
 
 ![Figura 4.1 - Mappa BANDO del diritto tributario: dal programma fiscale alla mappa minima per quiz, orale e casi.](../assets/chapter-04/01-mappa-bando-diritto-tributario.png)
 
-## Perche' la teoria dell'imposta serve nei concorsi fiscali
+## N-FC02-04-01 · Principi, fonti e categorie del tributo
 
 La teoria dell'imposta non e' una premessa decorativa. E' la parte che consente di leggere correttamente tutte le altre.
 
@@ -101,7 +102,7 @@ Questa sequenza non descrive ogni tributo in modo completo. Serve come mappa men
 
 ![Figura 4.2 - Come nasce e si sviluppa il tributo: sequenza da fatto rilevante ad accertamento e riscossione.](../assets/chapter-04/02-sequenza-nascita-tributo.png)
 
-## Legalita, capacita contributiva e progressivita
+### Legalita, capacita contributiva e progressivita
 
 Il diritto tributario opera entro una cornice costituzionale. Il prelievo non nasce da una decisione discrezionale dell'ufficio: richiede una base normativa e deve rispettare i criteri che governano il concorso alle spese pubbliche.
 
@@ -121,7 +122,7 @@ La formula da ricordare e' questa:
 
 Legalita tributaria e legalita amministrativa, quindi, non coincidono ma si completano. La prima fonda e delimita il prelievo. La seconda governa l'esercizio concreto dei poteri, imponendo competenza, procedimento, motivazione, termini e garanzie.
 
-## Le fonti: una gerarchia da usare, non da recitare
+### Le fonti: una gerarchia da usare, non da recitare
 
 La Costituzione e' il punto di partenza. Seguono le fonti primarie che disciplinano i singoli tributi e i procedimenti: leggi, decreti legislativi e decreti-legge convertiti. Nel settore fiscale assumono rilievo anche le fonti dell'Unione europea, soprattutto quando la materia e' armonizzata o direttamente regolata a livello unionale.
 
@@ -131,7 +132,7 @@ Lo Statuto dei diritti del contribuente, contenuto nella L. 212/2000, appartiene
 
 In prova conviene applicare una sequenza semplice: individua la fonte, verifica il suo rango, collega la regola al tributo o al procedimento, infine distingue norma, atto amministrativo e documento di prassi. Questa sequenza vale piu' di un elenco mnemonico.
 
-## Tributo, imposta, tassa e contributo
+### Tributo, imposta, tassa e contributo
 
 "Tributo" e' la categoria generale. "Imposta", "tassa" e "contributo" sono classificazioni utili per lo studio, ma la denominazione scelta dal legislatore non basta da sola: natura, presupposto e funzione del prelievo devono essere letti nella disciplina concreta.
 
@@ -156,7 +157,7 @@ La risposta orale non deve diventare scolastica. Una buona formula e':
 
 ![Figura 4.3 - Tributo, imposta, tassa e contributo: classificazione minima per evitare sinonimi impropri.](../assets/chapter-04/03-categorie-del-tributo.png)
 
-## Classificazioni utili: dirette, indirette, personali, reali
+### Classificazioni utili: dirette, indirette, personali, reali
 
 Le classificazioni tributarie sono utili solo se aiutano a orientarsi. Non vanno accumulate come etichette.
 
@@ -173,7 +174,7 @@ Per il concorso, il punto non e' recitare tutte le classificazioni. Il punto e' 
 - se parli di accertamento, pensa a dichiarazione, controllo, potere istruttorio, atto;
 - se parli di riscossione, pensa a credito, carico, pagamento, rateizzazione, eventuale procedura.
 
-## Il presupposto d'imposta
+## N-FC02-04-02 · Presupposto, soggetti e obbligazione tributaria
 
 Il presupposto e' il fatto, l'atto o la situazione al cui verificarsi la legge collega la nascita del tributo. E' la porta di ingresso della pretesa tributaria.
 
@@ -187,7 +188,7 @@ Attenzione alla differenza tra presupposto e base imponibile. Il presupposto ris
 
 Esempio di ragionamento, senza entrare in norme puntuali: nel sistema delle imposte sui redditi il presupposto ruota intorno alla produzione o al possesso di reddito secondo le categorie e le regole del TUIR; nell'IVA il ragionamento si sposta sulle operazioni rilevanti, sui soggetti e sul meccanismo di applicazione dell'imposta.
 
-## Il soggetto passivo
+### Il soggetto passivo
 
 Il soggetto passivo e' il soggetto al quale la legge collega l'obbligo tributario. Non sempre coincide con la persona che materialmente esegue un versamento, compila una dichiarazione o subisce un controllo. Proprio per questo la categoria va maneggiata con attenzione.
 
@@ -204,7 +205,7 @@ Una risposta efficace e':
 
 > Il soggetto passivo e' il soggetto cui la legge riferisce l'obbligazione tributaria. Va distinto dal soggetto attivo, che e' titolare della pretesa, e da figure come sostituto o responsabile d'imposta, che intervengono secondo regole specifiche.
 
-## Base imponibile, aliquota e imposta dovuta
+### Base imponibile, aliquota e imposta dovuta
 
 La base imponibile e' la grandezza sulla quale si applica il tributo. Puo' essere un reddito, un valore, un corrispettivo, una quantita o un'altra misura prevista dalla disciplina del singolo tributo.
 
@@ -222,7 +223,7 @@ Il candidato deve evitare una scorciatoia: pensare che la base imponibile sia "l
 
 ![Figura 4.4 - Presupposto, base imponibile e aliquota: tre domande diverse per non confondere nascita, misura e calcolo.](../assets/chapter-04/04-presupposto-base-aliquota.png)
 
-## Obbligazione tributaria
+### Obbligazione tributaria
 
 L'obbligazione tributaria e' il rapporto giuridico in forza del quale il soggetto passivo e' tenuto al pagamento del tributo secondo la legge. E' una obbligazione pubblicistica: nasce e si disciplina nel perimetro delle fonti tributarie e dell'azione amministrativa.
 
@@ -236,7 +237,7 @@ Una formula utile:
 
 Questa frase collega il capitolo 4 ai capitoli successivi.
 
-## Rapporto tributario e procedimento amministrativo
+### Rapporto tributario e procedimento amministrativo
 
 Il rapporto tributario non e' solo "pagare un'imposta". E' un rapporto tra contribuente e amministrazione che puo' assumere forme diverse: adempimento spontaneo, dichiarazione, liquidazione, controllo automatizzato, richiesta di documenti, contraddittorio quando previsto, avviso, pagamento, rimborso, iscrizione a ruolo, riscossione.
 
@@ -250,7 +251,7 @@ Nel modulo M-FC02 questa connessione e' decisiva:
 
 La teoria dell'imposta e' quindi la base. Il procedimento e' il modo in cui la pretesa entra nell'azione amministrativa.
 
-## TUIR: come usarlo senza perdersi
+## N-FC02-04-03 · TUIR, IRPEF e IRES
 
 Il TUIR e' una fonte centrale per le imposte sui redditi. In questo capitolo non va usato come un codice da attraversare articolo per articolo. Va usato per capire il metodo.
 
@@ -272,7 +273,7 @@ Per non perdersi, usa tre domande:
 
 Se non sai rispondere, stai leggendo il TUIR come un elenco e non come una mappa.
 
-## IRPEF e IRES: il quadro sistematico
+### IRPEF e IRES: il quadro sistematico
 
 Le imposte sui redditi si affrontano partendo dal soggetto, non dall'aliquota. La prima domanda e': chi realizza o possiede il reddito? La risposta orienta verso l'IRPEF o l'IRES e permette di scegliere le regole successive senza confondere qualificazione, determinazione e adempimento.
 
@@ -356,7 +357,7 @@ Questo capitolo spiega perche' il raccordo esiste. La meccanica contabile e gli 
 
 Confondere il denaro ricevuto con il reddito imponibile. L'incasso e' un fatto finanziario; il reddito e' una grandezza qualificata e determinata dalla disciplina tributaria. Prima di calcolare occorre rispondere, nell'ordine: chi e' il soggetto, quale fonte ha prodotto il provento, in quale categoria rientra, quale criterio di determinazione e imputazione si applica.
 
-## IVA: operazioni, soggetti, detrazione e adempimenti
+## N-FC02-04-04 · IVA: operazioni, soggetti, detrazione e adempimenti
 
 L'IVA e' un'imposta armonizzata sui consumi: la direttiva 2006/112/CE costruisce il sistema comune, mentre il D.P.R. 633/1972 ne disciplina l'applicazione nazionale negli spazi consentiti. Non e' quindi soltanto una percentuale aggiunta al prezzo. La sua funzione e' far gravare il prelievo, attraverso applicazione e detrazione nelle diverse fasi, sul consumo finale. Una direttiva, tuttavia, non opera come un regolamento: nel caso concreto occorre raccordare istituto unionale e norma nazionale di attuazione.
 
@@ -420,7 +421,7 @@ La mappa teorica termina qui con la catena **fatturazione -> registrazione -> li
 **Verifica finale.** In novanta secondi ricostruisci: funzione dell'IVA; tre presupposti; differenza tra soggetto passivo, debitore e consumatore; rivalsa, detrazione e liquidazione; quattro classi e conseguenza essenziale. Se inizi da aliquota o calendario, stai saltando l'architettura.
 
 
-## Livello 3 - Quadro UE fiscale, IVA e dogane
+## N-FC02-04-05 · Quadro UE fiscale, IVA e dogane
 
 ### Attribuzione e principi di esercizio
 
@@ -499,7 +500,7 @@ Una societa importa una merce da un Paese terzo e poi la vende in Italia. Il cas
 
 Il quadro e il metodo derivano da [[sources/diritto-ue-fiscale-doganale-iva-cdu-2026-07-18]]. Aliquote, soglie, termini, deroghe e regimi speciali richiedono invece una verifica puntuale sulla disciplina vigente.
 
-## Accertamento e riscossione: due passaggi da separare
+## N-FC02-04-06 · Accertamento e riscossione
 
 Il capitolo 5 sviluppera' accertamento, controlli e compliance. Il capitolo 7 sviluppera' la riscossione. Qui devi fissare la distinzione base.
 
@@ -513,7 +514,7 @@ La domanda-trappola e' semplice: "La cartella di pagamento e' accertamento?". La
 
 ![Figura 4.5 - Dalla teoria alle fonti operative: TUIR, IVA, accertamento e riscossione come mappe diverse dello stesso rapporto.](../assets/chapter-04/05-tuir-iva-accertamento-riscossione.png)
 
-## Tabella definizione, funzione, errore tipico
+### Tabella definizione, funzione, errore tipico
 
 | Concetto | Definizione operativa | Funzione nella prova | Errore da evitare |
 | --- | --- | --- | --- |
@@ -532,7 +533,7 @@ La domanda-trappola e' semplice: "La cartella di pagamento e' accertamento?". La
 
 Questa tabella va ripassata prima dei quiz. Se una definizione non si trasforma in esempio, non e' ancora pronta.
 
-## Da sapere in 5 righe
+### Da sapere in 5 righe
 
 1. Il tributo e' la categoria generale; imposta, tassa e contributo non sono sinonimi.
 2. Il presupposto spiega perche' il tributo nasce; la base imponibile spiega su che cosa si calcola.
@@ -540,7 +541,7 @@ Questa tabella va ripassata prima dei quiz. Se una definizione non si trasforma 
 4. TUIR e IVA vanno letti come mappe operative: soggetti, categorie, operazioni, adempimenti e controlli.
 5. Accertamento e riscossione sono collegati, ma non coincidono.
 
-## Caso guidato: profilo AE tributario
+### Caso guidato: profilo AE tributario
 
 Marco sta preparando un concorso per un profilo giuridico-tributario dell'Agenzia delle Entrate. Nel programma trova diritto tributario, imposte sui redditi, IVA, accertamento e adempimenti.
 
@@ -571,7 +572,7 @@ Terzo passaggio: costruisce tre risposte orali brevi.
 
 Marco non ha ancora studiato ogni dettaglio. Ma ha una struttura. Da questo momento le norme non sono piu' una massa indistinta: entrano in una mappa.
 
-## Domanda da commissario
+### Domanda da commissario
 
 **Domanda.** Mi spieghi presupposto, soggetto passivo e base imponibile e perche' non sono sinonimi.
 
@@ -579,7 +580,7 @@ Marco non ha ancora studiato ogni dettaglio. Ma ha una struttura. Da questo mome
 
 **Come migliorare la risposta.** Dopo la definizione, aggiungi una frase di collegamento: "Questi concetti sono necessari anche per comprendere dichiarazione, controllo e accertamento, perche' l'amministrazione verifica se il contribuente ha correttamente individuato il presupposto, dichiarato la base e assolto l'obbligo".
 
-## Domanda-trappola
+### Domanda-trappola
 
 **Domanda.** Imposta, tassa e contributo sono sinonimi?
 
@@ -587,7 +588,7 @@ Marco non ha ancora studiato ogni dettaglio. Ma ha una struttura. Da questo mome
 
 **Perche' e' una trappola.** Nel linguaggio comune si dice spesso "tasse" per indicare qualunque prelievo. Nel linguaggio giuridico-concorsuale questa approssimazione puo' far perdere punti.
 
-## Errore tipico
+### Errore tipico
 
 L'errore tipico e' studiare il diritto tributario dal fondo.
 
@@ -607,7 +608,7 @@ Ogni volta che sbagli un quiz, segna quale anello hai confuso. Il diario non dev
 - ho studiato l'IVA come aliquota e non come meccanismo;
 - ho letto il TUIR senza distinguere soggetti e categorie.
 
-## Mini-esercizio
+### Mini-esercizio
 
 Compila la tabella senza guardare il testo. Poi confronta le risposte con il capitolo.
 
@@ -623,7 +624,7 @@ Compila la tabella senza guardare il testo. Poi confronta le risposte con il cap
 
 Ora trasforma una riga in risposta orale da otto righe. Non usare formule vaghe come "e' una cosa che riguarda le tasse". Usa soggetto, funzione e conseguenza.
 
-## Quiz ragionati
+## ▣ Verifica 04.A · Quiz ragionati
 
 **1. Quale affermazione descrive meglio il presupposto d'imposta?**
 
@@ -669,6 +670,15 @@ C. La distinzione tra inglese e informatica.
 D. La distinzione tra quiz e banca dati come sinonimi.
 
 **Risposta corretta: A.** AdER lavora sul baricentro della riscossione; confonderla con l'accertamento produce risposte deboli.
+
+**6. Quale affermazione descrive correttamente la progressivita tributaria nella Costituzione?**
+
+A. Ogni singolo tributo deve avere aliquote progressive.
+B. La progressivita riguarda soltanto le imposte indirette.
+C. Il sistema tributario nel suo complesso e' informato a criteri di progressivita.
+D. La progressivita consente all'ufficio di creare nuove aliquote.
+
+**Risposta corretta: C.** L'art. 53 riferisce la progressivita al sistema tributario complessivo. A e' troppo assoluta; B restringe senza base il principio; D confonde il principio costituzionale con i poteri dell'amministrazione.
 
 ## Diario degli errori
 
@@ -724,13 +734,13 @@ Questo capitolo e' costruito sulle note e sulle pagine consolidate del wiki del 
 
 Le fonti consolidate sostengono il nucleo teorico e concorsuale del capitolo. Per citazioni articolo-per-articolo e per dettagli su TUIR, IVA, accertamento, riscossione, riforma fiscale e decreti attuativi, resta necessaria una verifica su Normattiva e sulle fonti istituzionali aggiornate prima della pubblicazione.
 
-## Note di review
+## Note di audit automatico
 
 - Verificare su Normattiva il testo vigente del D.P.R. 917/1986, del D.P.R. 633/1972, del D.P.R. 600/1973 e della L. 111/2023 prima di inserire articoli, commi, soglie, date o esempi numerici.
 - Il quadro IRPEF/IRES consolida l'architettura stabile, non aliquote, scaglioni, soglie, importi, percentuali, termini o regimi mobili: verificarli sulla fonte ufficiale vigente prima della pubblicazione.
-- Il quadro IVA e' compilato sulle source note consolidate con audit al 20 luglio 2026; sottoporre a review umana tributaria/UE territorialita', esenzioni, inversione contabile, detrazione e decorrenze prima della pubblicazione.
-- Sottoporre a review normativa articolo per articolo soggetti, residenza, categorie, formazione del reddito complessivo e raccordo civilistico-fiscale; verificare separatamente derivazione rafforzata ed eccezioni quando il bando richiede dettaglio.
+- Il quadro IVA e' compilato sulle source note consolidate con audit al 20 luglio 2026; l'audit automatico tributario/UE verifica territorialita', esenzioni, inversione contabile, detrazione e decorrenze prima della pubblicazione.
+- L'audit automatico normativo verifica articolo per articolo soggetti, residenza, categorie, formazione del reddito complessivo e raccordo civilistico-fiscale; derivazione rafforzata ed eccezioni sono controllate separatamente quando il bando richiede dettaglio.
 - Coordinare la terminologia con i capitoli 5, 6 e 7, cosi' che accertamento, adempimenti e riscossione mantengano lo stesso significato in tutto il modulo.
 - Integrare eventuali riferimenti allo Statuto dei diritti del contribuente solo dopo una source note consolidata dedicata, per evitare richiami non tracciati.
-- I quiz presenti in questa bozza sono didattici e non articolo-specifici; prima dell'export finale possono essere ampliati con quesiti normativi puntuali dopo review umana.
+- I quiz presenti in questa bozza sono didattici e non articolo-specifici; prima dell'export finale possono essere ampliati con quesiti normativi puntuali dopo audit automatico.
 - Il capitolo ha taglio concorsuale e non costituisce consulenza fiscale.

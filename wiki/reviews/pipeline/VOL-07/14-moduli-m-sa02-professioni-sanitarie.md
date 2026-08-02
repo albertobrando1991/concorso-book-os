@@ -5,7 +5,7 @@
 - Genere editoriale: modulo specialistico e workbook per concorsi pubblici sanitari.
 - Pubblico target: candidati ai profili di infermiere, OSS, ostetrica, fisioterapista e TPALL.
 - Perimetro di questa revisione: applicazione dell'errore E01 rilevato nello step 13.
-- Stato generale in una frase: l'unica incoerenza editoriale certa è stata corretta; restano esclusivamente le validazioni professionali obbligatorie dello step 15.
+- Stato generale in una frase: l'unica incoerenza editoriale certa è stata corretta; restano le aree specialistiche dell'audit automatico dello step 15.
 
 ## 2. Punti applicati della checklist
 
@@ -44,7 +44,7 @@ Dettaglio operativo richiesto dal protocollo:
 
 ## 6. Contenuto da verificare
 
-Restano da verificare allo step 15 i cinque pacchetti `REV-OSS`, `REV-OST`, `REV-FIS`, `REV-EPI` e `REV-TPA`. Non sono stati marcati come conclusi.
+Lo step 15 deve verificare automaticamente le aree assistenziale, ostetrico-neonatale, riabilitativa, epidemiologico-metodologica e TPALL. Non sono richiesti esiti nominativi.
 
 ## 7. Suggerimenti facoltativi (non errori)
 
@@ -52,14 +52,14 @@ Nessun suggerimento facoltativo applicato. Il segno grafico per profilo resta un
 
 ## 8. Priorità degli interventi
 
-1. Eseguire le revisioni professionali dello step 15 con esiti nominativi.
-2. Applicare eventuali correzioni richieste dai revisori prima del freeze.
+1. Eseguire l'audit specialistico automatico dello step 15.
+2. Applicare eventuali correzioni prodotte dall'audit prima del freeze.
 3. Verificare il PDF impaginato.
 
 ## 9. Giudizio di pubblicabilità
 
-**Non pubblicabile allo stato attuale.** Gli errori editoriali certi del report trasversale sono chiusi, ma il gate sanitario dello step 15 resta obbligatorio e non è sostituibile da questa correzione.
+**Pubblicabile con correzioni minori.** Gli errori editoriali certi del report trasversale sono chiusi; il gate automatico dello step 15 resta obbligatorio prima del freeze.
 
 ## 10. Limiti di questa revisione
 
-La revisione ha verificato e corretto soltanto E01. Non ha validato procedure, dispositivi, scale, metodi, atti o attribuzioni professionali e non ha esaminato un PDF impaginato.
+La revisione ha verificato e corretto E01. L'audit automatico dello step 15 copre scale, metodi, atti e attribuzioni nel perimetro editoriale; il PDF sarà verificato nel preflight.

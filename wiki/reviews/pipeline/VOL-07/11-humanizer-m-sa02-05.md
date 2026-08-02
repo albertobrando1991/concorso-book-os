@@ -26,10 +26,12 @@ Sono rimasti invariati:
 - struttura H1/H2/H3;
 - tabelle, casi applicativi, quiz, domanda orale, mini-esercizio e checklist;
 - distinzione tra riconoscimento, attivazione, supporto di base e supporto avanzato;
-- richieste di review umana allo step 15.
+- audit specialistico automatico previsto allo step 15.
 
 Il corpo non contiene collegamenti verso note o strumenti interni e non dipende da materiali inaccessibili allo studente. Non sono stati aggiunti claim, soglie, dosaggi, manovre o istruzioni operative.
 
-## Controlli umani ancora richiesti
+## Passaggi successivi
 
-Lo Humanizer riguarda la prosa. Restano affidati allo step 15 i controlli specialistici su valutazione clinica, triage, NEWS2 e sepsi, BLS/ALS, supporto neonatale, urgenze ostetriche, gestione del deterioramento in fisioterapia, procedure del setting e correttezza dei quiz.
+Lo Humanizer riguarda la prosa. Lo step 15 controllerà automaticamente valutazione clinica, triage, NEWS2 e sepsi, BLS/ALS, supporto neonatale, urgenze ostetriche, gestione del deterioramento in fisioterapia, procedure del setting e correttezza dei quiz.
+
+Non restano punti da assegnare a una persona. La sola conferma umana è quella conclusiva dello step 24, su testi già completi.

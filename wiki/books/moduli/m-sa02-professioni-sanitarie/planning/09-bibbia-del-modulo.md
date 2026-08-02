@@ -124,17 +124,17 @@ Il modulo non invade:
 - H2 per nuclei principali e H3 per articolazioni interne.
 - Tabelle compatibili con la pagina paperback; suddividere quelle troppo dense.
 - Grassetto riservato a concetti, soluzioni e segnali operativi.
-- Frontmatter uniforme: `type: chapter`, `status: draft`, `draft_stage: written` finché il modulo non supera review umana e freeze.
+- Frontmatter uniforme: `type: chapter`, `status: draft`, `draft_stage: written` finché il modulo non supera audit automatici e freeze.
 - Nessun link nel corpo verso fonti o strumenti editoriali interni.
 
-## Gate aperti
+## Audit specialistico automatico
 
 Prima del congelamento restano obbligatorie:
 
-- `REV-OSS`: competenze, attribuzioni, ausili e procedure di assistenza di base;
-- `REV-OST`: puerperio, neonato ed emergenze ostetriche;
-- `REV-FIS`: valutazione, riabilitazione, controindicazioni e scale;
-- `REV-EPI`: calcoli, screening, sorveglianza, PREMAL e ICA;
-- `REV-TPA`: controlli, metodi, atti, campionamento e conseguenze giuridiche.
+- area assistenziale: competenze, attribuzioni, ausili e procedure di assistenza di base;
+- area ostetrico-neonatale: puerperio, neonato ed emergenze ostetriche;
+- area riabilitativa: valutazione, riabilitazione, controindicazioni e scale;
+- area epidemiologico-metodologica: calcoli, screening, sorveglianza, PREMAL e ICA;
+- area TPALL: controlli, metodi, atti, campionamento e conseguenze giuridiche.
 
-Gli esiti devono essere firmati o registrati dallo staff competente nello step 15. Nessun agente può sostituire tali validazioni.
+Gli esiti sono prodotti e registrati automaticamente nello step 15. La conferma umana interviene una sola volta, allo step 24, su testi già completi.

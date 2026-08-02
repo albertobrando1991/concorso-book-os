@@ -13,8 +13,7 @@ const values = {
   MODULE_ID: "moduli/m-fc02-agenzie-fiscali",
   CHAPTER_FILE: "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/01-perimetro.md",
   CHAPTER_NUMBER: "01",
-  CUT_OFF_DATE: "2026-07-27",
-  RESPONSABILE: "Alberto Brando"
+  CUT_OFF_DATE: "2026-07-27"
 }
 
 describe("step registry", () => {

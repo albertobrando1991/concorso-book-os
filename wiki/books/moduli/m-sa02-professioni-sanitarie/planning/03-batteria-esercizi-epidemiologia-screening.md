@@ -139,11 +139,11 @@ Questa è una risorsa di pianificazione, non un capitolo pubblicabile. Ogni eser
 
 ## Review richiesta
 
-Il foglio di lavoro per il revisore è nel [[books/moduli/m-sa02-professioni-sanitarie/planning/05-pacchetto-review-epidemiologica-indipendente|pacchetto di review epidemiologica indipendente]]. La sua predisposizione non equivale a review svolta.
+I controlli riproducibili sono nella [[books/moduli/m-sa02-professioni-sanitarie/planning/05-pacchetto-review-epidemiologica-indipendente|checklist automatica epidemiologica]]. La loro predisposizione non equivale alla chiusura del gate: calcoli e inferenze devono essere verificati e corretti prima del freeze.
 
 Prima di trasformare gli esercizi in contenuto editoriale servono:
 
 1. controllo indipendente dei calcoli;
-2. review epidemiologica su pesi, intervalli e formulazioni inferenziali;
+2. audit automatico epidemiologico su pesi, intervalli e formulazioni inferenziali;
 3. verifica della versione dei dati al momento della pubblicazione;
 4. separazione grafica tra dati osservati ufficiali e scenari didattici.

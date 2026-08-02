@@ -1,10 +1,10 @@
 # Debito didattico del corpus
 
-- Root analizzata: `C:/Users/info/OneDrive/Desktop/concorso-book-os/.worktrees/modello-ibrido-nuclei/wiki/books`
-- Capitoli: 189
-- Parole: 540401
-- Senza quiz: 163
-- Sotto 3000 parole: 105
+- Root analizzata: `C:/Users/info/OneDrive/Desktop/concorso-book-os/.worktrees/pilot-hybrid-m-sa02-05/wiki/books`
+- Capitoli: 191
+- Parole: 640553
+- Senza quiz: 162
+- Sotto 3000 parole: 86
 
 | Capitolo | Parole | Nuclei | Quiz | Casi | Campione dimensionale | Intervento |
 | --- | ---: | ---: | ---: | ---: | --- | --- |
@@ -82,7 +82,7 @@
 | `moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md` | 4376 | 0 | 0 | 1 | campionamento richiesto · matrice legacy o capitolo non mappato | A |
 | `moduli/m-fc02-agenzie-fiscali/chapters/02-bando-decoder-fiscale.md` | 4037 | 0 | 0 | 2 | campionamento richiesto · matrice legacy o capitolo non mappato | A0+A |
 | `moduli/m-fc02-agenzie-fiscali/chapters/03-ordinamento-organizzazione-ae-adm-ader.md` | 3998 | 0 | 0 | 3 | campionamento richiesto · matrice legacy o capitolo non mappato | A0+A |
-| `moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md` | 8289 | 0 | 5 | 1 | campionamento richiesto · matrice legacy o capitolo non mappato | A |
+| `moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md` | 8389 | 6 | 6 | 1 | checklist v2 · 3/3 completi | conforme |
 | `moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md` | 4272 | 0 | 0 | 2 | campionamento richiesto · matrice legacy o capitolo non mappato | A |
 | `moduli/m-fc02-agenzie-fiscali/chapters/05a-sanzioni-amministrative-reati-tributari.md` | 3948 | 0 | 0 | 3 | campionamento richiesto · matrice legacy o capitolo non mappato | A |
 | `moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario.md` | 4778 | 0 | 0 | 0 | campionamento richiesto · matrice legacy o capitolo non mappato | A |
@@ -95,8 +95,6 @@
 | `moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione.md` | 4076 | 0 | 0 | 1 | campionamento richiesto · matrice legacy o capitolo non mappato | A |
 | `moduli/m-fc02-agenzie-fiscali/chapters/13-casi-pratici-quiz-orale-agenzie-fiscali.md` | 6013 | 0 | 0 | 1 | campionamento richiesto · matrice legacy o capitolo non mappato | A0+A |
 | `moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md` | 5029 | 0 | 0 | 1 | campionamento richiesto · matrice legacy o capitolo non mappato | A |
-| `moduli/m-fc03-enti-non-economici/chapters/00-piano-editoriale.md` | 207 | 0 | 0 | 0 | campionamento richiesto · matrice assente | A0+A+B |
-| `moduli/m-fc04-giustizia/chapters/00-piano-editoriale.md` | 472 | 0 | 0 | 0 | campionamento richiesto · matrice assente | A+B |
 | `moduli/m-fc04-giustizia/chapters/01-sistema-giustizia-visto-dal-candidato.md` | 3811 | 0 | 0 | 1 | campionamento richiesto · matrice assente | A0+A |
 | `moduli/m-fc04-giustizia/chapters/02-ministero-dipartimenti-amministrazioni-giustizia.md` | 3429 | 0 | 0 | 2 | campionamento richiesto · matrice assente | A0+A |
 | `moduli/m-fc04-giustizia/chapters/03-uffici-giudiziari-ordinamento-lavoro-ufficio.md` | 3111 | 0 | 0 | 2 | campionamento richiesto · matrice assente | A0+A |
@@ -111,7 +109,6 @@
 | `moduli/m-fc04-giustizia/chapters/12-giustizia-digitale-pct-ppt-fascicolo.md` | 5514 | 0 | 0 | 3 | campionamento richiesto · matrice assente | A0+A |
 | `moduli/m-fc04-giustizia/chapters/13-giustizia-minorile-comunita-mediazione-riparativa.md` | 6000 | 0 | 0 | 5 | campionamento richiesto · matrice assente | A0+A |
 | `moduli/m-fc04-giustizia/chapters/14-amministrazione-penitenziaria-trattamento-istituti-esecuzione-esterna.md` | 6410 | 0 | 0 | 4 | campionamento richiesto · matrice assente | A0+A |
-| `moduli/m-fc05-authority-indipendenti/chapters/00-piano-editoriale.md` | 499 | 0 | 0 | 1 | campionamento richiesto · matrice assente | A0+A+B |
 | `moduli/m-fc05-authority-indipendenti/chapters/01-authority-viste-dal-candidato.md` | 2929 | 0 | 0 | 1 | campionamento richiesto · matrice assente | A0+A+B |
 | `moduli/m-fc05-authority-indipendenti/chapters/02-indipendenza-governance-accountability-personale.md` | 2655 | 0 | 0 | 1 | campionamento richiesto · matrice assente | A0+A+B |
 | `moduli/m-fc05-authority-indipendenti/chapters/03-regolazione-europea-multilivello-reti-autorita.md` | 2727 | 0 | 0 | 2 | campionamento richiesto · matrice assente | A0+A+B |
@@ -127,7 +124,6 @@
 | `moduli/m-fc05-authority-indipendenti/chapters/13-garante-privacy-poteri-procedimenti-cooperazione.md` | 3075 | 0 | 0 | 1 | campionamento richiesto · matrice assente | A0+A |
 | `moduli/m-fc05-authority-indipendenti/chapters/14-anac-prevenzione-vigilanza-whistleblowing.md` | 2898 | 0 | 0 | 1 | campionamento richiesto · matrice assente | A0+A+B |
 | `moduli/m-fc05-authority-indipendenti/chapters/15-laboratorio-prove-authority.md` | 3323 | 0 | 0 | 1 | campionamento richiesto · matrice assente | A0+A |
-| `moduli/m-fl01-comuni-unioni/chapters/00-piano-editoriale.md` | 554 | 0 | 0 | 0 | campionamento richiesto · matrice legacy o capitolo non mappato | A0+A+B |
 | `moduli/m-fl01-comuni-unioni/chapters/01-tuel-operativo-autonomia-organi-funzioni-comune.md` | 3841 | 0 | 0 | 2 | campionamento richiesto · matrice legacy o capitolo non mappato | A0+A |
 | `moduli/m-fl01-comuni-unioni/chapters/02-statuto-regolamenti-autonomia-normativa-locale.md` | 4778 | 0 | 0 | 2 | campionamento richiesto · matrice legacy o capitolo non mappato | A0+A |
 | `moduli/m-fl01-comuni-unioni/chapters/03-organizzazione-comunale-uffici-servizi-gestioni-associate.md` | 4163 | 0 | 0 | 2 | campionamento richiesto · matrice legacy o capitolo non mappato | A0+A |
@@ -142,7 +138,6 @@
 | `moduli/m-fl01-comuni-unioni/chapters/12-procurement-operativo-ufficio-comunale.md` | 4924 | 0 | 1 | 4 | campionamento richiesto · matrice legacy o capitolo non mappato | A0+A |
 | `moduli/m-fl01-comuni-unioni/chapters/13-territorio-patrimonio-edilizia-lavori-interfaccia-amministrativa.md` | 5385 | 0 | 1 | 3 | campionamento richiesto · matrice legacy o capitolo non mappato | A0+A |
 | `moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md` | 4413 | 0 | 1 | 1 | campionamento richiesto · matrice legacy o capitolo non mappato | A0+A |
-| `moduli/m-fl02-regioni-province-citta-metropolitane/chapters/00-piano-editoriale.md` | 631 | 0 | 0 | 0 | campionamento richiesto · matrice assente | A0+A+B |
 | `moduli/m-fl02-regioni-province-citta-metropolitane/chapters/01-il-sistema-territoriale-multilivello.md` | 3822 | 0 | 0 | 3 | campionamento richiesto · matrice assente | A0+A |
 | `moduli/m-fl02-regioni-province-citta-metropolitane/chapters/02-statuti-organi-organizzazione-regionale.md` | 4834 | 0 | 0 | 3 | campionamento richiesto · matrice assente | A0+A |
 | `moduli/m-fl02-regioni-province-citta-metropolitane/chapters/03-funzioni-regionali-rapporti-stato-enti-locali.md` | 4558 | 0 | 0 | 2 | campionamento richiesto · matrice assente | A0+A |
@@ -155,13 +150,11 @@
 | `moduli/m-fl02-regioni-province-citta-metropolitane/chapters/10-viabilita-edilizia-scolastica-territorio-espropri.md` | 2854 | 0 | 0 | 2 | campionamento richiesto · matrice assente | A0+A+B |
 | `moduli/m-fl02-regioni-province-citta-metropolitane/chapters/11-contratti-servizi-pubblici-locali-societa-partecipate.md` | 3051 | 0 | 0 | 3 | campionamento richiesto · matrice assente | A0+A |
 | `moduli/m-fl02-regioni-province-citta-metropolitane/chapters/12-laboratorio-profili-regionali-area-vasta.md` | 3455 | 0 | 0 | 1 | campionamento richiesto · matrice assente | A0+A |
-| `moduli/m-fl03-camere-commercio/chapters/00-piano-editoriale.md` | 387 | 0 | 0 | 0 | campionamento richiesto · matrice assente | A0+A+B |
 | `moduli/m-fl03-camere-commercio/chapters/01-camere-commercio-sistema-camerale-unioncamere.md` | 4079 | 0 | 0 | 2 | campionamento richiesto · matrice assente | A0+A |
 | `moduli/m-fl03-camere-commercio/chapters/02-registro-imprese-rea-pubblicita-legale.md` | 2792 | 0 | 0 | 1 | campionamento richiesto · matrice assente | A0+A+B |
 | `moduli/m-fl03-camere-commercio/chapters/03-servizi-imprese-regolazione-mercato-tutela.md` | 2811 | 0 | 0 | 2 | campionamento richiesto · matrice assente | A0+A+B |
 | `moduli/m-fl03-camere-commercio/chapters/04-organizzazione-personale-procedimenti-trasparenza-camerale.md` | 2838 | 0 | 0 | 1 | campionamento richiesto · matrice assente | A0+A+B |
 | `moduli/m-fl03-camere-commercio/chapters/05-laboratorio-bando-camerale.md` | 2705 | 0 | 0 | 1 | campionamento richiesto · matrice assente | A0+A+B |
-| `moduli/m-fl04-polizia-locale/chapters/00-piano-editoriale.md` | 206 | 0 | 0 | 0 | campionamento richiesto · matrice assente | A0+A+B |
 | `moduli/m-fl04-polizia-locale/chapters/01-diventare-agente-ufficiale-polizia-locale.md` | 3756 | 0 | 0 | 1 | campionamento richiesto · matrice assente | A0+A |
 | `moduli/m-fl04-polizia-locale/chapters/02-ordinamento-nazionale-regionale-polizia-locale.md` | 2538 | 0 | 0 | 1 | campionamento richiesto · matrice assente | A0+A+B |
 | `moduli/m-fl04-polizia-locale/chapters/03-qualifiche-poteri-dipendenze-organizzazione-servizio.md` | 2632 | 0 | 0 | 1 | campionamento richiesto · matrice assente | A0+A+B |
@@ -177,22 +170,31 @@
 | `moduli/m-fl04-polizia-locale/chapters/13-sinistri-rilievi-gestione-prova.md` | 1842 | 0 | 0 | 4 | campionamento richiesto · matrice assente | A0+A+B |
 | `moduli/m-fl04-polizia-locale/chapters/14-ufficiale-pl-comando-contenzioso-emergenze.md` | 2018 | 0 | 0 | 2 | campionamento richiesto · matrice assente | A0+A+B |
 | `moduli/m-fl04-polizia-locale/chapters/15-laboratorio-atti-verbali-polizia-locale.md` | 1745 | 0 | 0 | 1 | campionamento richiesto · matrice assente | A0+A+B |
-| `moduli/m-ir01-scuola/chapters/00-piano-editoriale.md` | 205 | 0 | 0 | 0 | campionamento richiesto · matrice assente | A0+A+B |
-| `moduli/m-ir02-universita-afam/chapters/00-piano-editoriale.md` | 207 | 0 | 0 | 0 | campionamento richiesto · matrice assente | A0+A+B |
-| `moduli/m-ir03-enti-ricerca/chapters/00-piano-editoriale.md` | 209 | 0 | 0 | 0 | campionamento richiesto · matrice assente | A0+A+B |
-| `moduli/m-ir04-cultura-beni-culturali/chapters/00-piano-editoriale.md` | 207 | 0 | 0 | 0 | campionamento richiesto · matrice assente | A0+A+B |
-| `moduli/m-sa01-sanita-amministrativa/chapters/00-piano-editoriale.md` | 203 | 0 | 0 | 0 | campionamento richiesto · matrice assente | A0+A+B |
-| `moduli/m-sa02-professioni-sanitarie/chapters/00-piano-editoriale.md` | 209 | 0 | 0 | 0 | campionamento richiesto · matrice assente | A0+A+B |
-| `moduli/m-sa03-dirigenza-medica-sanitaria/chapters/00-piano-editoriale.md` | 206 | 0 | 0 | 0 | campionamento richiesto · matrice assente | A0+A+B |
-| `moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/00-piano-editoriale.md` | 205 | 0 | 0 | 0 | campionamento richiesto · matrice assente | A0+A+B |
-| `moduli/m-sp01-forze-ordine/chapters/00-piano-editoriale.md` | 212 | 0 | 0 | 0 | campionamento richiesto · matrice assente | A0+A+B |
-| `moduli/m-sp02-vigili-fuoco/chapters/00-piano-editoriale.md` | 206 | 0 | 0 | 0 | campionamento richiesto · matrice assente | A0+A+B |
-| `moduli/m-sp03-magistratura-avvocatura-notariato/chapters/00-piano-editoriale.md` | 208 | 0 | 0 | 0 | campionamento richiesto · matrice assente | A0+A+B |
-| `moduli/m-sp04-prefettizia-diplomatica/chapters/00-piano-editoriale.md` | 205 | 0 | 0 | 0 | campionamento richiesto · matrice assente | A0+A+B |
-| `moduli/m-tr01-ict-trasformazione-digitale/chapters/00-piano-editoriale.md` | 209 | 0 | 0 | 0 | campionamento richiesto · matrice assente | A0+A+B |
-| `moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/00-piano-editoriale.md` | 207 | 0 | 0 | 0 | campionamento richiesto · matrice assente | A0+A+B |
-| `moduli/m-tr03-tecnico-ingegneristico/chapters/00-piano-editoriale.md` | 204 | 0 | 0 | 0 | campionamento richiesto · matrice assente | A0+A+B |
-| `moduli/m-tr04-ambiente-protezione-civile/chapters/00-piano-editoriale.md` | 205 | 0 | 0 | 0 | campionamento richiesto · matrice assente | A0+A+B |
+| `moduli/m-sa01-sanita-amministrativa/chapters/04-atti-procedimenti-flussi-informativi.md` | 5738 | 0 | 1 | 1 | campionamento richiesto · matrice legacy o capitolo non mappato | A |
+| `moduli/m-sa01-sanita-amministrativa/chapters/05-documentazione-accesso-conservazione.md` | 5627 | 0 | 0 | 1 | campionamento richiesto · matrice legacy o capitolo non mappato | A |
+| `moduli/m-sa01-sanita-amministrativa/chapters/06-front-office-comunicazione-utenza.md` | 5103 | 0 | 0 | 1 | campionamento richiesto · matrice legacy o capitolo non mappato | A |
+| `moduli/m-sa01-sanita-amministrativa/chapters/09-contabilita-budget-controllo-gestione.md` | 5914 | 0 | 0 | 1 | campionamento richiesto · matrice legacy o capitolo non mappato | A |
+| `moduli/m-sa01-sanita-amministrativa/chapters/10-procurement-farmaci-dispositivi-magazzino.md` | 6691 | 0 | 0 | 1 | campionamento richiesto · matrice legacy o capitolo non mappato | A |
+| `moduli/m-sa02-professioni-sanitarie/chapters/01-mappa-profili-e-prove.md` | 3539 | 0 | 0 | 2 | campionamento richiesto · matrice legacy o capitolo non mappato | A |
+| `moduli/m-sa02-professioni-sanitarie/chapters/03-discipline-professionali-autonomia-responsabilita.md` | 5138 | 0 | 0 | 0 | campionamento richiesto · matrice legacy o capitolo non mappato | A |
+| `moduli/m-sa02-professioni-sanitarie/chapters/04-assistenza-infermieristica-tecniche-assistenziali-oss.md` | 6167 | 0 | 3 | 1 | campionamento richiesto · matrice legacy o capitolo non mappato | A |
+| `moduli/m-sa02-professioni-sanitarie/chapters/05-valutazione-clinica-triage-urgenza-emergenza.md` | 6661 | 7 | 7 | 3 | checklist v2 · 3/3 completi | conforme |
+| `moduli/m-sa02-professioni-sanitarie/chapters/06-prevenzione-continuita-presa-in-carico.md` | 6199 | 0 | 0 | 1 | campionamento richiesto · matrice legacy o capitolo non mappato | A |
+| `moduli/m-sa02-professioni-sanitarie/chapters/07-evidenze-pico-grade-applicabilita.md` | 5417 | 0 | 0 | 0 | campionamento richiesto · matrice legacy o capitolo non mappato | A |
+| `moduli/m-sa02-professioni-sanitarie/chapters/08-igiene-pubblica-epidemiologia-screening.md` | 3468 | 0 | 0 | 1 | campionamento richiesto · matrice legacy o capitolo non mappato | A |
+| `moduli/m-sa02-professioni-sanitarie/chapters/09-controlli-tpall-verbalizzazione-campionamento-sanzioni.md` | 3391 | 0 | 0 | 1 | campionamento richiesto · matrice legacy o capitolo non mappato | A |
+| `moduli/m-sa02-professioni-sanitarie/chapters/10-prova-pratica-casi-professionali.md` | 3652 | 0 | 0 | 0 | campionamento richiesto · matrice legacy o capitolo non mappato | A |
+| `moduli/m-sa03-dirigenza-medica-sanitaria/chapters/01-profili-requisiti-prove-dirigenza-sanitaria.md` | 3559 | 0 | 0 | 0 | campionamento richiesto · matrice legacy o capitolo non mappato | A |
+| `moduli/m-sa03-dirigenza-medica-sanitaria/chapters/02-programmazione-sanitaria-organizzazione-servizi.md` | 1478 | 0 | 0 | 0 | campionamento richiesto · matrice legacy o capitolo non mappato | A+B |
+| `moduli/m-sa03-dirigenza-medica-sanitaria/chapters/03-linee-guida-appropriatezza-decisioni-cliniche.md` | 818 | 0 | 0 | 0 | campionamento richiesto · matrice legacy o capitolo non mappato | A+B |
+| `moduli/m-sa03-dirigenza-medica-sanitaria/chapters/04-governo-clinico-hta-qualita-accreditamento-rischio.md` | 2021 | 0 | 0 | 0 | campionamento richiesto · matrice legacy o capitolo non mappato | A+B |
+| `moduli/m-sa03-dirigenza-medica-sanitaria/chapters/05-epidemiologia-sanita-pubblica-dirigenza.md` | 3223 | 0 | 0 | 0 | campionamento richiesto · matrice legacy o capitolo non mappato | A |
+| `moduli/m-sa03-dirigenza-medica-sanitaria/chapters/06-dirigenza-medica-discipline-casi.md` | 1722 | 0 | 0 | 2 | campionamento richiesto · matrice legacy o capitolo non mappato | A+B |
+| `moduli/m-sa03-dirigenza-medica-sanitaria/chapters/07-dirigenza-sanitaria-non-medica-discipline-casi.md` | 3376 | 0 | 0 | 0 | campionamento richiesto · matrice legacy o capitolo non mappato | A |
+| `moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/01-profili-tslb-tsrm-requisiti-prove-responsabilita.md` | 3782 | 0 | 0 | 1 | campionamento richiesto · matrice legacy o capitolo non mappato | A |
+| `moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/02-tslb-processo-laboratorio-qualita-biosicurezza.md` | 4197 | 0 | 0 | 0 | campionamento richiesto · matrice legacy o capitolo non mappato | A |
+| `moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/03-tsrm-imaging-dosimetria-radioprotezione.md` | 4942 | 0 | 0 | 0 | campionamento richiesto · matrice legacy o capitolo non mappato | A |
+| `moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/04-tecnologie-dispositivi-apparecchiature-rischio.md` | 4492 | 0 | 0 | 0 | campionamento richiesto · matrice legacy o capitolo non mappato | A |
 | `vol-02-enti-locali-polizia-locale/chapters/01-come-usare-vol-02-insieme-a-vol-01.md` | 3650 | 0 | 0 | 2 | campionamento richiesto · matrice legacy o capitolo non mappato | A |
 | `vol-02-enti-locali-polizia-locale/chapters/02-bando-decoder-territoriale.md` | 1088 | 0 | 0 | 1 | campionamento richiesto · matrice legacy o capitolo non mappato | A0+A+B |
 | `vol-02-enti-locali-polizia-locale/chapters/03-piano-30-60-90-giorni-vol-02.md` | 1086 | 0 | 0 | 1 | campionamento richiesto · matrice legacy o capitolo non mappato | A0+A+B |

@@ -53,7 +53,7 @@ Prima di scrivere un nucleo specialistico occorrono:
 - separazione fra norma nazionale, regionale, aziendale e soft law;
 - identificazione puntuale di linee guida e pronunce;
 - bandi integrali, non riassunti o pagine-lista;
-- review umana obbligatoria per contenuti clinici, professionali e di radioprotezione.
+- audit specialistico automatico obbligatorio per contenuti clinici, professionali e di radioprotezione, da chiudere prima del text freeze.
 
 I tre URL del dossier restano localizzatori `da_verificare`: non costituiscono un corpus consolidato.
 
@@ -83,4 +83,3 @@ Ogni rinvio dovrà indicare capitolo o source note di destinazione. Restano nel 
 ## Criterio di avanzamento
 
 Le fasi A e B possono definire perimetro, fonti, indice e architettura. La fase C potrà iniziare solo sui nuclei la cui riga nella matrice di copertura dispone di fonte ufficiale e destinazione editoriale verificata.
-

@@ -38,7 +38,7 @@ Teoria essenziale, schema o tabella, applicazione al profilo.
 > Ambito: <ambito> · Livello: <nazionale/europeo>
 > Fonte: <source note ufficiale> · Versione: <versione> · Verificata al: <YYYY-MM-DD>
 > <contenuto non esecutivo ammesso dalla policy>
-> Review: <REV-CODICE> (<competenza>)
+> Audit automatico: <area specialistica>
 
 ## ▣ Verifica 00.A
 Almeno 6 quiz con risposta commentata e 1 caso ragionato.

@@ -167,7 +167,7 @@ Before finishing a chapter block, verify:
 - It contains an error-prevention element.
 - Its frontmatter preserves references to consolidated wiki knowledge.
 - Its reader body names essential legal and professional references in human-readable form.
-- It flags human review outside the reader-facing lesson where needed.
+- It records automatic audit requirements outside the reader-facing lesson; the only human confirmation is the final pipeline step 24.
 
 ## Integral Didactic Coverage Gate
 

@@ -5,7 +5,7 @@
 - Genere editoriale: modulo specialistico e workbook per concorsi pubblici sanitari.
 - Pubblico target: candidati ai profili di infermiere, OSS, ostetrica, fisioterapista e TPALL.
 - Perimetro di questa revisione: indice, piano, matrice e nove capitoli dichiarati, 01 e 03-10.
-- Stato generale in una frase: fase C completa e architettura didattica coerente; una correzione di metadati resta da applicare nello step 14 e cinque validazioni professionali bloccano il congelamento.
+- Stato generale in una frase: fase C completa e architettura didattica coerente; la correzione di metadati passa allo step 14 e cinque aree specialistiche passano all'audit automatico dello step 15.
 
 ## 2. Punti applicati della checklist
 
@@ -34,7 +34,7 @@ Non risultano errori gravi, nuclei parziali, capitoli orfani o rinvii generici n
 ### Capitolo 04 — Assistenza infermieristica, tecniche assistenziali e supporto OSS
 
 - Punti di forza: teoria del processo assistenziale prima delle attività di base; ruoli e sicurezza restano distinti.
-- Criticità: procedure, ausili e attribuzioni richiedono `REV-OSS`.
+- Criticità: procedure, ausili e attribuzioni rientrano nell'area assistenziale dell'audit automatico.
 
 ### Capitolo 05 — Valutazione clinica, triage, urgenza ed emergenza
 
@@ -49,17 +49,17 @@ Non risultano errori gravi, nuclei parziali, capitoli orfani o rinvii generici n
 ### Capitolo 07 — Evidenze scientifiche, PICO, GRADE e applicabilità
 
 - Punti di forza: distingue prova, certezza, raccomandazione e applicabilità; esercizi successivi alla teoria.
-- Criticità: appraisal e versionamento richiedono controllo `REV-EPI`.
+- Criticità: appraisal e versionamento rientrano nell'area metodologica dell'audit automatico.
 
 ### Capitolo 08 — Igiene pubblica, epidemiologia, sorveglianza e screening
 
 - Punti di forza: progressione da misure a screening, sorveglianza e risposta al segnale.
-- Criticità: calcoli, definizioni di caso, PREMAL e ICA richiedono `REV-EPI`.
+- Criticità: calcoli, definizioni di caso, PREMAL e ICA rientrano nell'area epidemiologica dell'audit automatico.
 
 ### Capitolo 09 — Controlli TPALL, verbalizzazione, campionamento e sanzioni
 
 - Punti di forza: separa competenza, evidenza, metodo, atto e conseguenza.
-- Criticità: metodi, qualifica, atti e conseguenze richiedono `REV-TPA`.
+- Criticità: metodi, qualifica, atti e conseguenze rientrano nell'area TPALL dell'audit automatico.
 
 ### Capitolo 10 — Prova pratica e casi professionali
 
@@ -76,13 +76,13 @@ Non risultano errori gravi, nuclei parziali, capitoli orfani o rinvii generici n
 
 ## 6. Contenuto da verificare
 
-- `REV-OSS`: attività attribuite, assistenza di base, ausili, compatibilità e procedure del setting.
-- `REV-OST`: puerperio, neonato, eclampsia, sepsi, tromboembolismo, distocia e prolasso.
-- `REV-FIS`: valutazione funzionale, scale, controindicazioni e percorsi riabilitativi.
-- `REV-EPI`: calcoli, GRADE, screening, PASSI, PREMAL, focolaio e ICA.
-- `REV-TPA`: competenze, metodi, campionamento, atti, PG e conseguenze.
+- Area assistenziale: attività attribuite, assistenza di base, ausili, compatibilità e procedure del setting.
+- Area ostetrico-neonatale: puerperio, neonato, eclampsia, sepsi, tromboembolismo, distocia e prolasso.
+- Area riabilitativa: valutazione funzionale, scale, controindicazioni e percorsi.
+- Area epidemiologica e metodologica: calcoli, GRADE, screening, PASSI, PREMAL, focolaio e ICA.
+- Area TPALL: competenze, metodi, campionamento, atti, PG e conseguenze.
 
-Sono verifiche professionali obbligatorie, non errori accertati. Devono produrre esiti nominativi nello step 15.
+Sono aree obbligatorie dell'audit automatico dello step 15, non incarichi assegnati a persone.
 
 ## 7. Suggerimenti facoltativi (non errori)
 
@@ -90,14 +90,14 @@ In impaginazione si può assegnare un segno grafico costante ai cinque profili, 
 
 ## 8. Priorità degli interventi
 
-1. Eseguire e registrare le cinque revisioni professionali dello step 15.
-2. Riaprire i capitoli interessati se una review produce correzioni sostanziali.
+1. Eseguire e registrare le cinque aree dell'audit automatico dello step 15.
+2. Riaprire i capitoli interessati se l'audit produce correzioni sostanziali.
 3. Eseguire il controllo visivo sul PDF prima del congelamento.
 
 ## 9. Giudizio di pubblicabilità
 
-**Non pubblicabile allo stato attuale.** La struttura, la copertura e l'autonomia didattica non presentano blocker testuali, ma il modulo sanitario non può essere congelato o distribuito prima delle cinque revisioni professionali obbligatorie. E01 è stata applicata nello step 14 senza modificare il testo del capitolo.
+**Pubblicabile con correzioni minori.** La struttura, la copertura e l'autonomia didattica non presentano blocker testuali. E01 passa allo step 14; l'audit automatico specialistico precede comunque il congelamento.
 
 ## 10. Limiti di questa revisione
 
-La revisione riguarda i file Markdown, la matrice e gli apparati interni. Non ha verificato sul campo procedure aziendali, dispositivi, scale, metodi tecnici o attribuzioni locali; non ha sostituito i revisori professionali e non ha esaminato un PDF impaginato.
+La revisione riguarda i file Markdown, la matrice e gli apparati interni. Procedure aziendali concrete e dispositivi reali restano fuori dal perimetro editoriale del manuale; il PDF impaginato sarà controllato nel preflight dedicato.

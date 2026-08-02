@@ -11,10 +11,12 @@ module_code: M-SA02
 chapter_number: "05"
 outline_section: 5
 draft_stage: written
-review_required: true
+format_version: 2
+dati_operativi: ["DO-SA02-05-NEWS2-ER-2024"]
+review_required: false
 canonical: true
 created_at: 2026-07-31T19:00:00+02:00
-updated_at: 2026-07-31T20:30:00+02:00
+updated_at: 2026-08-01T23:55:00+02:00
 last_compiled_from: ["wiki/reviews/pipeline/VOL-07/08-piano-capitolo-m-sa02-05.md", "wiki/books/moduli/m-sa02-professioni-sanitarie/planning/02-matrice-copertura-didattica.md", "wiki/sources/sicurezza-cure-responsabilita-consenso-leggi-24-219.md", "wiki/sources/metodo-evidenze-sistema-nazionale-linee-guida-iss.md", "wiki/sources/sicurezza-terapia-triage-assistenza-infermieristica-ministero.md", "wiki/sources/deterioramento-clinico-news2-sepsi-regioni.md", "wiki/sources/arresto-cardiaco-bls-iss-snlg-2026.md", "wiki/sources/als-adulto-erc-irc-2025.md", "wiki/sources/sicurezza-travaglio-parto-morte-materna-ministero.md", "wiki/sources/emorragia-post-partum-allattamento-iss-ministero.md", "wiki/sources/puerperio-neonato-supporto-vitale-oms-irc-iss.md", "wiki/sources/emergenze-ostetriche-eclampsia-sepsi-tromboembolia-itoss.md", "wiki/sources/emergenze-ostetriche-distocia-spalla-prolasso-funicolo-protocolli-italiani.md", "wiki/sources/riabilitazione-fisioterapia-iss-ministero.md"]
 tags: ["m-sa02", "valutazione-clinica", "triage", "deterioramento", "emergenza", "pipeline-step-09"]
 ---
@@ -53,7 +55,7 @@ La sequenza di ragionamento è: **sicurezza → riconoscimento → priorità →
 >
 > La valutazione iniziale cerca le minacce immediate e i dati che cambiano la priorità. Il triage ordina l'accesso alle cure e richiede rivalutazione. Uno score sostiene il giudizio, non lo sostituisce. L'emergenza attiva una risposta coordinata, non una prestazione isolata. Riconoscere i propri limiti e allertare in tempo è parte della competenza.
 
-## Valutazione iniziale e priorità
+## N-SA02-05-01 · Valutazione iniziale, priorità e rivalutazione
 
 ### Sicurezza e impressione generale
 
@@ -112,7 +114,7 @@ Particolare attenzione meritano persone anziane, fragili, con disabilità, gravi
 >
 > Elencare parametri senza spiegare che cosa cambia la priorità. La commissione cerca il collegamento `dato → rischio → allerta → rivalutazione`.
 
-## Deterioramento clinico, NEWS2 e sepsi
+## N-SA02-05-02 · Deterioramento clinico, NEWS2 e sepsi
 
 ### Riconoscere il peggioramento
 
@@ -132,7 +134,29 @@ Lo score ha tre funzioni didattiche:
 - segnala combinazioni e tendenze che richiedono attenzione;
 - collega il risultato a frequenza di monitoraggio ed escalation secondo protocollo.
 
-NEWS2 è uno strumento di supporto, non una diagnosi. Il giudizio clinico mantiene il proprio ruolo e un dato preoccupante conserva valore anche se non modifica il punteggio. Popolazione, eccezioni, modalità di calcolo e soglie devono essere verificate sulla versione adottata; per questo il capitolo non riporta valori operativi.
+NEWS2 è uno strumento di supporto, non una diagnosi. Il giudizio clinico mantiene il proprio ruolo e un dato preoccupante conserva valore anche se non modifica il punteggio. Popolazione, eccezioni, modalità di calcolo e soglie devono essere verificate sulla versione adottata. Il box seguente riporta i valori del documento regionale 2024, con ambito e limiti dichiarati.
+
+> **Dato operativo · DO-SA02-05-NEWS2-ER-2024**
+>
+> Audit automatico: clinico-assistenziale
+> Fonte: Regione Emilia-Romagna, NEWS2 · Versione: settembre 2024 (base RCP 2017) · Verificata al: 2026-08-01
+> **Fonte e versione:** Regione Emilia-Romagna, *NEWS2. Score per identificare precocemente la gravità dei pazienti con patologia acuta*, settembre 2024; lo strumento riprende NEWS2 del Royal College of Physicians, versione 2017.
+> **Ambito:** valutazione di pazienti adulti con patologia acuta nel percorso organizzativo che adotta NEWS2. Non è una diagnosi, non sostituisce il giudizio clinico e non definisce da solo le attribuzioni professionali.
+> **Regola di calcolo:** si assegna a ciascun parametro il punteggio indicato, si sommano i punteggi e si aggiungono 2 punti se è in corso ossigenoterapia.
+>
+> | Parametro | Intervallo e punteggio NEWS2 |
+> | --- | --- |
+> | Frequenza respiratoria/min | ≤8 = 3; 9–11 = 1; 12–20 = 0; 21–24 = 2; ≥25 = 3 |
+> | Frequenza cardiaca/min | ≤40 = 3; 41–50 = 1; 51–90 = 0; 91–110 = 1; 111–130 = 2; ≥131 = 3 |
+> | Temperatura corporea | ≤35,0 °C = 3; 35,1–36,0 = 1; 36,1–38,0 = 0; 38,1–39,0 = 1; ≥39,1 = 2 |
+> | Pressione sistolica | ≤90 mmHg = 3; 91–100 = 2; 101–110 = 1; 111–219 = 0; ≥220 = 3 |
+> | Stato di coscienza | cosciente = 0; confusione/disorientamento/agitazione di nuova insorgenza oppure risposta V, P o U della scala AVPU = 3 |
+> | Saturazione, scala 1 | ≤91% = 3; 92–93 = 2; 94–95 = 1; ≥96 = 0 |
+> | Saturazione, scala 2 prevista dal documento per BPCO | ≤83% = 3; 84–85 = 2; 86–87 = 1; 88–92 = 0; in aria ambiente ≥93 = 0; con O₂ 93–94 = 1, 95–96 = 2, ≥97 = 3 |
+> | Ossigenoterapia | aggiungere 2 punti |
+>
+> **Soglia nel documento regionale:** un punteggio globale ≥5 indica un elevato livello di allarme che richiede intervento immediato; con infezione nota o sospetta, o alto rischio di infezione, impone di considerare sempre la sepsi. La stessa fonte precisa che la soglia può essere adattata al singolo paziente sulla base della valutazione clinica.
+> **Data di ricontrollo editoriale:** prima di ogni nuova edizione e comunque al cut-off del volume, confrontando versione NEWS2 adottata e protocollo del setting.
 
 ### Comunicazione strutturata ed escalation
 
@@ -154,7 +178,7 @@ Il percorso ragionato è: sospettare sulla base dei dati, misurare e verificare 
 >
 > «Il NEWS2 è basso: si può escludere il deterioramento?» No. Il punteggio va interpretato con quadro clinico, tendenza, basale e fattori non rappresentati. Un cambiamento preoccupante richiede valutazione ed escalation anche quando lo score non appare elevato.
 
-## Triage e gestione della priorità
+## N-SA02-05-03 · Triage e gestione dinamica della priorità
 
 ### Finalità e responsabilità
 
@@ -202,7 +226,7 @@ Barriere linguistiche, sensoriali o cognitive richiedono strumenti adeguati e co
 >
 > Il triage è valutazione di priorità, non diagnosi definitiva. Integra sintomo, parametri, rischio, fragilità e possibile evoluzione. L'ordine di arrivo non governa l'accesso clinico. La rivalutazione può modificare la priorità. Codici, tempi e percorsi appartengono al sistema vigente della struttura.
 
-## Team dell'emergenza e sicurezza
+## N-SA02-05-04 · Team dell'emergenza, comunicazione e sicurezza
 
 ### Attivazione, ruoli e leadership
 
@@ -254,7 +278,7 @@ La sicurezza continua dopo l'evento. Ripristino dei materiali, segnalazione di a
 
 Un quesito può chiedere che cosa controllare senza richiedere l'uso dell'attrezzatura. Vanno considerati disponibilità, integrità, scadenze quando pertinenti, alimentazione, accessori, collocazione e avvenuta manutenzione. Per farmaci e dispositivi, preparazione e verifica seguono le responsabilità del profilo e le raccomandazioni di sicurezza; conoscere il nome non autorizza l'impiego.
 
-## Arresto cardiaco nell'adulto: quadro BLS e ALS
+## N-SA02-05-05 · Arresto cardiaco nell'adulto: quadro BLS e ALS
 
 ### Riconoscimento e allerta
 
@@ -282,6 +306,12 @@ Il manuale non riporta frequenze, energie, farmaci o dosi. Questi dettagli devon
 
 Le cause reversibili appartengono al ragionamento avanzato perché ricordano che l'arresto può derivare da condizioni trattabili. Nel capitolo non vengono trasformate in una checklist terapeutica: servono a comprendere la funzione dell'ALS e la necessità di un team capace di integrare dati e interventi.
 
+La defibrillazione aiuta a comprendere un'altra distinzione essenziale. La disponibilità di un defibrillatore e l'attivazione precoce della catena non rendono equivalenti defibrillazione automatizzata e gestione manuale avanzata. Dispositivo, analisi del ritmo, decisione, sicurezza e competenze cambiano secondo livello di risposta e setting. In un orale è quindi più corretto spiegare la funzione del passaggio che recitare energie o sequenze non richieste.
+
+Il lavoro di squadra non è accessorio all'algoritmo. Chi coordina mantiene la visione d'insieme; gli altri componenti eseguono compiti definiti, confermano i messaggi critici e segnalano problemi. Il cambio di operatore, la preparazione dei materiali e la registrazione dei tempi devono ridurre interruzioni e ambiguità. Una risposta tecnicamente ricca ma priva di ruoli, comunicazione e controllo reciproco resta incompleta sul piano della sicurezza.
+
+Nel caso intraospedaliero, il candidato deve collegare il prima, il durante e il dopo. Prima: riconoscimento del deterioramento e chiamata appropriata. Durante: supporto coerente con formazione e protocollo, integrazione del team e rivalutazione continua. Dopo: cure post-rianimazione, ricerca delle cause, monitoraggio, trasferimento e documentazione. Questa continuità evita di presentare l'arresto come un evento isolato dal percorso assistenziale.
+
 ### Arresto evitabile e deterioramento
 
 La gestione dell'arresto comincia dalla prevenzione. Riconoscimento del deterioramento, monitoraggio, comunicazione e rapid response possono evitare alcuni eventi. NEWS2, giudizio clinico e preoccupazione dell'operatore concorrono all'allerta; nessuno è sufficiente da solo.
@@ -292,7 +322,7 @@ Anche dopo la risposta iniziale restano rischi. La persona necessita di continui
 >
 > BLS e ALS non sono sinonimi. Il primo organizza il supporto di base; il secondo richiede risposta avanzata e competenze specifiche. Le linee guida sono versionate. Il protocollo del setting coordina ruoli e risorse. Il testo prepara al ragionamento, mentre l'esecuzione richiede addestramento certificato.
 
-## Neonato e supporto vitale
+## N-SA02-05-06 · Neonato e supporto vitale
 
 ### Preparazione e valutazione iniziale
 
@@ -312,7 +342,21 @@ Un neonato che richiede supporto coinvolge professionisti e setting differenti. 
 
 Nel team devono essere chiari chi coordina, chi valuta, chi prepara materiali, chi registra e chi comunica. I ruoli dipendono da profili e organizzazione. Il trasferimento verso un livello di cura diverso richiede stabilizzazione secondo protocollo, contatto con il servizio ricevente e handover completo.
 
-## Allarmi ostetrici
+La specificità neonatale emerge anche dalla preparazione dell'ambiente. Controllo termico, attrezzature adatte alle dimensioni del neonato, disponibilità delle competenze necessarie e previsione del trasporto non sono dettagli accessori: riducono ritardi e rendono la risposta coerente. Nella prova scritta il candidato deve quindi iniziare dal briefing e dalla verifica delle risorse, non dalla descrizione isolata di una manovra.
+
+La valutazione iniziale non è un atto unico. Respirazione, tono, frequenza cardiaca e risposta al supporto orientano rivalutazioni successive secondo l'algoritmo vigente. Il dato va collocato nel tempo e collegato alla decisione: osservare senza dichiarare che cosa cambia produce una risposta incompleta; applicare soglie ricordate senza indicare versione, formazione e setting produce una risposta pericolosamente assoluta.
+
+Anche il passaggio alla fase post-evento è parte della competenza. Occorre assicurare continuità del monitoraggio, protezione termica, documentazione dei tempi e degli interventi, comunicazione con il servizio ricevente e informazione ai genitori compatibile con le condizioni. Se è necessario un trasferimento, l'handover deve distinguere dati alla nascita, evoluzione, supporti applicati, risposta osservata e rischi ancora presenti.
+
+Per l'esame, la differenza tra conoscenza ed esecuzione va dichiarata con precisione. Il candidato può descrivere finalità della preparazione, criteri generali di valutazione, necessità della ventilazione efficace, lavoro di équipe, rivalutazione e trasferimento. Non deve però trasformare il capitolo in una sequenza operativa autonoma: frequenze, rapporti, farmaci e indicazioni dipendono dalle linee ERC/IRC vigenti, dal corso specifico e dall'organizzazione. Questo limite non impoverisce la risposta; dimostra consapevolezza professionale.
+
+Una buona risposta collega infine madre, neonato e rete dei servizi senza confondere i rispettivi percorsi. Le informazioni ostetriche rilevanti accompagnano l'handover neonatale; le condizioni del neonato non fanno perdere di vista la sorveglianza materna. Coordinare questi due piani è una responsabilità organizzativa del team, non un compito isolato affidato alla memoria del singolo operatore.
+
+> **Errore tipico**
+>
+> Trattare il supporto vitale neonatale come il BLS adulto “in piccolo”. Popolazione, transizione fisiologica, criteri, attrezzature, sequenze e competenze sono specifici; ciò che resta comune è il metodo organizzativo: preparare, riconoscere, allertare, sostenere, rivalutare e trasferire in sicurezza.
+
+## N-SA02-05-07 · Allarmi ostetrici e risposta multidisciplinare
 
 ### Emorragia post partum
 
@@ -343,13 +387,21 @@ La loro natura mostra perché una procedura locale non diventa regola universale
 
 In entrambi i casi, il candidato deve distinguere il riconoscimento dall'esecuzione delle manovre. Può spiegare che servono chiamata immediata, coordinamento, assegnazione dei ruoli, preparazione delle risorse, comunicazione e registrazione. Non deve colmare l'assenza del protocollo con una sequenza ricordata da una fonte locale o datata.
 
+Il confronto fra le emergenze aiuta a costruire una risposta ordinata. Nell'emorragia il cambiamento emodinamico e la perdita ematica richiedono riconoscimento e risposta multidisciplinare; nell'eclampsia la convulsione nel contesto ostetrico impone sicurezza e attivazione immediata; nella sepsi materna occorre leggere possibile infezione, disfunzione ed evoluzione; nel tromboembolismo assumono rilievo il rischio di gravidanza e puerperio e il percorso urgente. Distocia e prolasso aggiungono la necessità di coordinamento ostetrico-neonatale e simulazione specifica.
+
+La documentazione dell'evento sostiene continuità e audit. Deve rendere ricostruibili orario del cambiamento, dati osservati, allerta, persone coinvolte, azioni svolte nel proprio ruolo, risposta e trasferimento. Formule generiche come «emergenza gestita» non mostrano il processo; al contrario, una cronologia essenziale consente di verificare tempestività e comunicazione senza trasformare la nota in un giudizio colpevolizzante.
+
+Anche la comunicazione con donna e familiari va collocata nel percorso. Durante la criticità deve essere compatibile con sicurezza e tempo disponibile; dopo l'evento richiede informazioni coerenti, rispetto della dignità e raccordo con chi ha titolo a riceverle. Il professionista evita rassicurazioni assolute, non anticipa conclusioni diagnostiche e segnala al team i bisogni comunicativi rimasti aperti.
+
+In una prova pratica simulata, la risposta più solida esplicita il limite: riconosco l'allarme, chiamo il team, preparo e opero secondo ruolo e protocollo, comunico e documento; le manovre specifiche sono eseguite soltanto con formazione, simulatore e procedura vigente. Questa formula integra prudenza, capacità organizzativa e responsabilità.
+
 > **Errore tipico**
 >
 > Recitare una manovra ostetrica senza specificare versione, competenza e protocollo. Nella prova teorica la prima risposta è riconoscere la criticità, chiamare il team e descrivere il proprio ruolo.
 
-## Casi ragionati
+## ▣ Verifica 05.A · Casi ragionati e quiz
 
-### Caso 1 — Deterioramento dell'adulto
+### Caso ragionato 1 — Deterioramento dell'adulto
 
 Un uomo di 68 anni, ricoverato per infezione, appare più sonnolento rispetto al turno precedente. Respira più rapidamente, risponde lentamente e presenta parametri diversi dal basale. Il punteggio NEWS2 calcolato secondo il sistema del reparto richiede attenzione, ma un valore non è disponibile.
 
@@ -365,19 +417,19 @@ Il cambiamento viene prima del calcolo incompleto. Occorre verificare i dati, me
 
 L'errore sarebbe attendere il parametro mancante o un punteggio definitivo prima di segnalare.
 
-### Caso 2 — Allarme ostetrico
+### Caso ragionato 2 — Allarme ostetrico
 
 Una donna nel puerperio riferisce malessere improvviso e presenta un cambiamento delle condizioni. L'ostetrica riconosce che la situazione esce dal percorso fisiologico.
 
 Nella risposta concorsuale vanno indicati valutazione rapida, allerta del team, sicurezza, raccolta dei dati essenziali, preparazione delle risorse previste, comunicazione e documentazione. Scegliere una diagnosi tra emorragia, sepsi o tromboembolismo sulla base di informazioni insufficienti, oppure proporre farmaci e dosi, sarebbe improprio. La priorità è attivare il percorso competente e rivalutare.
 
-### Caso 3 — Deterioramento durante riabilitazione
+### Caso ragionato 3 — Deterioramento durante riabilitazione
 
 Durante un trattamento, una persona manifesta improvvisa difficoltà respiratoria e ridotta capacità di rispondere. Il fisioterapista interrompe l'attività, garantisce la sicurezza, chiama aiuto e comunica l'esordio, l'attività in corso e i dati osservati. Proseguire per verificare se «passa con l'esercizio» sarebbe inappropriato.
 
 Il caso mostra che riconoscimento ed escalation appartengono a tutti i professionisti, mentre la risposta successiva segue competenze e organizzazione.
 
-## Allenamento da concorso
+### Allenamento da concorso
 
 ### Quiz 1
 
@@ -390,6 +442,8 @@ D. Può essere ignorato se la persona non riferisce dolore.
 
 **Risposta corretta: C.** Lo score organizza dati fisiologici, ma va interpretato con quadro, basale e tendenza.
 
+**Distrattore chiave:** A è errata perché NEWS2 sostiene il riconoscimento del deterioramento e l'escalation, ma non formula una diagnosi di sepsi.
+
 ### Quiz 2
 
 Nel triage, la priorità iniziale:
@@ -401,6 +455,8 @@ D. equivale alla diagnosi definitiva.
 
 **Risposta corretta: C.** Il triage è dinamico e la rivalutazione intercetta l'evoluzione.
 
+**Distrattore chiave:** B è errata perché la priorità dipende da condizioni, rischio ed evoluzione, non dall'ordine di arrivo.
+
 ### Quiz 3
 
 Qual è la distinzione più corretta?
@@ -411,6 +467,60 @@ C. BLS, ALS e NLS hanno finalità, competenze e algoritmi distinti.
 D. La lettura del manuale sostituisce l'addestramento.
 
 **Risposta corretta: C.** I tre ambiti non sono intercambiabili e richiedono formazione e protocolli specifici.
+
+**Distrattore chiave:** B è errata perché il supporto vitale neonatale possiede criteri, attrezzature e algoritmo propri.
+
+### Quiz 4
+
+Quale comunicazione rende più sicura un'escalation per deterioramento?
+
+A. «Il paziente non mi convince», senza altri dati.
+B. Il solo punteggio NEWS2, senza parametri né tendenza.
+C. Situazione, contesto, dati osservati, variazione dal basale, azioni svolte e richiesta chiara.
+D. Una diagnosi definitiva formulata prima di chiamare il team.
+
+**Risposta corretta: C.** La comunicazione strutturata rende visibili rischio, andamento e bisogno operativo, consentendo al destinatario di rispondere in modo proporzionato.
+
+**Distrattore chiave:** A può esprimere una preoccupazione legittima, ma deve essere tradotta in dati concreti e in una richiesta esplicita.
+
+### Quiz 5
+
+Quale affermazione distingue correttamente BLS e ALS?
+
+A. L'ALS è soltanto un BLS più lungo.
+B. Il BLS organizza il supporto di base; l'ALS integra competenze e interventi avanzati, cause reversibili e cure post-rianimazione.
+C. Il ritorno della circolazione conclude sempre la gestione.
+D. Conoscere l'algoritmo autorizza qualsiasi professionista a eseguirne ogni parte.
+
+**Risposta corretta: B.** I due livelli hanno finalità e requisiti diversi; l'ALS richiede team, competenze, protocollo e continuità post-evento.
+
+**Distrattore chiave:** C è errata perché monitoraggio, ricerca della causa, stabilizzazione e trasferimento continuano dopo il ritorno della circolazione.
+
+### Quiz 6
+
+Nel supporto vitale neonatale, quale impostazione è corretta?
+
+A. Applicare senza adattamenti l'algoritmo dell'adulto.
+B. Attendere l'evento prima di verificare ambiente e attrezzature.
+C. Preparare team e ambiente, applicare l'algoritmo neonatale vigente, rivalutare la risposta e organizzare continuità e trasferimento.
+D. Rinviare sempre la comunicazione con i genitori alla dimissione.
+
+**Risposta corretta: C.** Preparazione, specificità neonatale, rivalutazione e continuità sono parti della stessa risposta sicura.
+
+**Distrattore chiave:** A è errata perché il neonato non è un adulto di dimensioni ridotte e richiede criteri e strumenti specifici.
+
+### Quiz 7
+
+Di fronte a un allarme ostetrico con informazioni ancora incomplete, la risposta concorsuale più solida è:
+
+A. scegliere subito una diagnosi e indicare farmaci e dosi;
+B. attendere una stima perfetta prima di attivare il team;
+C. riconoscere la criticità, allertare il team, raccogliere i dati essenziali, operare nel proprio ruolo, documentare e rivalutare;
+D. applicare come universale una procedura locale storicizzata.
+
+**Risposta corretta: C.** Le emergenze ostetriche richiedono risposta multidisciplinare tempestiva, mentre diagnosi, trattamenti e manovre dipendono da dati, competenze e protocollo vigente.
+
+**Distrattore chiave:** D è errata perché una procedura locale o datata può documentare l'organizzazione di un setting, ma non diventa una regola nazionale.
 
 ### Domanda da commissario
 

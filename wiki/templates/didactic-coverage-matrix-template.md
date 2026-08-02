@@ -24,7 +24,7 @@ La verifica usa il prefisso strutturato `Q:<quiz> C:<casi> E:<esercizi>`; dopo `
 
 | Nucleo ID | Famiglia/profilo | Materia | Concetto/sotto-concetti | Frequenza/peso | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa | Destinazione rinvio |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| <!-- N-XX00-00-00 --> | <!-- famiglia, profilo --> | <!-- materia --> | <!-- concetto; sotto-concetti --> | <!-- frequenza e peso --> | <!-- source/topic/entity --> | <!-- Cap. 00 § N-XX00-00-00 --> | <!-- definizione, funzione, disciplina, distinzioni --> | <!-- esempio, caso, conseguenza --> | <!-- quiz, orale, scritto, situazionale --> | Q:0 C:0 E:0 <!-- — nota --> | mancante | <!-- fonte vigente, data, review umana --> | <!-- obbligatoria se rinviato --> |
+| <!-- N-XX00-00-00 --> | <!-- famiglia, profilo --> | <!-- materia --> | <!-- concetto; sotto-concetti --> | <!-- frequenza e peso --> | <!-- source/topic/entity --> | <!-- Cap. 00 § N-XX00-00-00 --> | <!-- definizione, funzione, disciplina, distinzioni --> | <!-- esempio, caso, conseguenza --> | <!-- quiz, orale, scritto, situazionale --> | Q:0 C:0 E:0 <!-- — nota --> | mancante | <!-- fonte vigente, data, audit automatico --> | <!-- obbligatoria se rinviato --> |
 
 ## Checklist dimensionale per Nucleo ID
 

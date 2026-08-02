@@ -31,8 +31,6 @@ export interface VolumeSpec {
   volumeCode: string
   volumeTitle: string
   cutOffDate: string
-  responsabileNormativo: string
-  responsabileEditoriale: string
   writerProvider: string
   phases: string[]
   modules: VolumeSpecModule[]
@@ -50,8 +48,6 @@ export function parseVolumeSpec(markdown: string, specPath: string): VolumeSpec 
     volumeCode: text(data.volume_code),
     volumeTitle: text(data.volume_title),
     cutOffDate: text(data.cut_off_date),
-    responsabileNormativo: text(data.responsabile_normativo),
-    responsabileEditoriale: text(data.responsabile_editoriale),
     writerProvider: text(data.writer_provider),
     phases,
     modules: parseModules(normalized, phases)

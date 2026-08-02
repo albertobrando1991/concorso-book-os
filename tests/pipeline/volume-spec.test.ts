@@ -12,8 +12,6 @@ type: pipeline_spec
 volume_code: VOL-03
 volume_title: Funzioni centrali, Fisco, Previdenza e Ispettivo
 cut_off_date: 2026-07-27
-responsabile_normativo: Alberto Brando
-responsabile_editoriale: Alberto Brando
 writer_provider: codex
 phases: [C, D, F]
 ---
@@ -42,8 +40,6 @@ describe("parseVolumeSpec", () => {
       volumeCode: "VOL-03",
       volumeTitle: "Funzioni centrali, Fisco, Previdenza e Ispettivo",
       cutOffDate: "2026-07-27",
-      responsabileNormativo: "Alberto Brando",
-      responsabileEditoriale: "Alberto Brando",
       writerProvider: "codex",
       phases: ["C", "D", "F"],
       specPath
@@ -91,8 +87,7 @@ describe("validateVolumeSpec", () => {
   it.each([
     ["volume_code", "volumeCode"],
     ["volume_title", "volumeTitle"],
-    ["cut_off_date", "cutOffDate"],
-    ["responsabile_normativo", "responsabileNormativo"]
+    ["cut_off_date", "cutOffDate"]
   ])("reports the missing mandatory field %s", (frontmatterKey, field) => {
     const markdown = complete.replace(new RegExp(`^${frontmatterKey}:.*$`, "m"), `${frontmatterKey}:`)
     expect(issueFields(markdown)).toContain(field)
@@ -140,7 +135,8 @@ describe("validateVolumeSpec", () => {
   })
   it("points at the sheet line of the offending row", () => {
     const issue = validateVolumeSpec(parse(complete.replace("| M-FC02 |", "| FC02 |"))).find((item) => item.field === "modules[0].code")
-    expect(issue?.line).toBe(16)
+    const expectedLine = complete.split("\n").findIndex((line) => line.startsWith("| M-FC02 |")) + 1
+    expect(issue?.line).toBe(expectedLine)
   })
   it.each([
     ["Min parole", "0", "minWords"],

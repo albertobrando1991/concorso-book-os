@@ -240,8 +240,10 @@ describe("review report gate", () => {
     expect(result.passed).toBe(true)
     expect(result.warnings.map((issue) => issue.code)).toContain("open-minor-error")
   })
-  it("accepts an error explicitly assigned to human review", () => {
-    expect(report("| E3 | cap. 3 | norma | media | soglia da verificare | chiedere al revisore | review umana |").warnings).toEqual([])
+  it("blocks every error deferred to human review before the final signoff", () => {
+    const result = report("| E3 | cap. 3 | norma | media | soglia da verificare | chiedere al revisore | review umana |")
+    expect(result.passed).toBe(false)
+    expect(codes(result)).toContain("deferred-to-human")
   })
   it("blocks a report without the fixed error table", () => {
     expect(codes(runReviewReportGate({ report: "## Sintesi\n\nTutto bene.", reportPath: "wiki/reviews/r.md" }))).toContain("missing-error-table")
@@ -458,8 +460,6 @@ describe("didactic density pipeline wiring", () => {
           volumeCode: "VOL-99",
           volumeTitle: "Test",
           cutOffDate: "2026-08-01",
-          responsabileNormativo: "Test",
-          responsabileEditoriale: "Test",
           writerProvider: "codex",
           phases: ["C"],
           modules: [module]

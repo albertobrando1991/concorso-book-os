@@ -5,13 +5,13 @@ export interface OperationalDataReviewRow {
   title: string
   file: string
   line: number
-  reviewer: string
+  auditArea: string
   source: string
   version: string
   verifiedAt: string
 }
 
-const BOX_HEADING = /^>\s*\*\*Dato operativo\s+—\s+(.+?)\*\*\s*$/i
+const BOX_HEADING = /^>\s*\*\*Dato operativo\s+[—·]\s+(.+?)\*\*\s*$/i
 
 export function extractOperationalDataReviewRows(content: string, file: string): OperationalDataReviewRow[] {
   const normalized = content.replace(/\r\n/g, "\n")
@@ -38,7 +38,7 @@ export function extractOperationalDataReviewRows(content: string, file: string):
       title: heading[1].trim(),
       file,
       line: index + 1,
-      reviewer: /^Review:\s*(REV-[A-Z0-9-]+)/mi.exec(box)?.[1] || "NON ASSEGNATO",
+      auditArea: /^\*{0,2}Audit automatico:\*{0,2}\s*([^\n]+)/mi.exec(box)?.[1]?.trim() || "specialistica",
       source: sourceLine?.[1]?.trim() || "NON INDICATA",
       version: /(?:^|·\s*)Versione:\s*([^·\n]+)/mi.exec(box)?.[1]?.trim() || "NON INDICATA",
       verifiedAt: /(?:^|·\s*)Verificata al:\s*([^·\n]+)/mi.exec(box)?.[1]?.trim() || "NON INDICATA"
@@ -58,10 +58,10 @@ export function renderOperationalDataReviewAppendix(rows: OperationalDataReviewR
     "",
     "Queste righe sono obbligatorie: l'audit specialistico automatico deve verificare la competenza indicata e chiudere ogni esito prima del text freeze.",
     "",
-    "| ID | Dato operativo | File e posizione | Competenza specialistica | Fonte · versione · verifica | Esito |",
+    "| ID | Dato operativo | File e posizione | Area di audit automatico | Fonte · versione · verifica | Esito |",
     "|---|---|---|---|---|---|",
     ...rows.map((row) =>
-      `| ${cell(row.id)} | ${cell(row.title)} | ${cell(`${row.file}:${row.line}`)} | ${cell(row.reviewer)} | ${cell(`${row.source} · v. ${row.version} · ${row.verifiedAt}`)} | da compilare |`
+      `| ${cell(row.id)} | ${cell(row.title)} | ${cell(`${row.file}:${row.line}`)} | ${cell(row.auditArea)} | ${cell(`${row.source} · v. ${row.version} · ${row.verifiedAt}`)} | da compilare |`
     )
   ].join("\n")
 }

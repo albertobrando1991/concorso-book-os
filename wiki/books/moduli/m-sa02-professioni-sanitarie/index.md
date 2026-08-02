@@ -11,7 +11,7 @@ book_refs: ["il-metodo-bando","moduli-specialistici","vol-07-sanita-amministrati
 confidence: 0.84
 updated_at: 2026-08-01T00:00:30+02:00
 created_at: 2026-06-27T19:56:28+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["specialist-module","module-family-sanita","module-code-m-sa02","revised-editorial-draft"]
 book_id: m-sa02-professioni-sanitarie
@@ -56,9 +56,9 @@ Non deve promettere copertura totale di ogni bando o aggiornamento normativo aut
 - [[books/moduli/m-sa02-professioni-sanitarie/planning/02-matrice-copertura-didattica|Matrice di copertura didattica M-SA02]]
 - [[books/moduli/m-sa02-professioni-sanitarie/planning/03-batteria-esercizi-epidemiologia-screening|Batteria di esercizi su epidemiologia e screening]]
 - [[books/moduli/m-sa02-professioni-sanitarie/planning/04-scenario-risposta-segnale-epidemiologico|Scenario di risposta a un segnale epidemiologico]]
-- [[books/moduli/m-sa02-professioni-sanitarie/planning/05-pacchetto-review-epidemiologica-indipendente|Pacchetto per la review epidemiologica indipendente]]
-- [[books/moduli/m-sa02-professioni-sanitarie/planning/06-checklist-igiene-letto-trasferimenti-review|Checklist per la review professionale di igiene a letto e trasferimenti]]
-- [[books/moduli/m-sa02-professioni-sanitarie/planning/07-piano-chiusura-review-esterne-m-sa02|Dossier coordinato delle cinque review dello step 15]]
+- [[books/moduli/m-sa02-professioni-sanitarie/planning/05-pacchetto-review-epidemiologica-indipendente|Checklist automatica epidemiologica]]
+- [[books/moduli/m-sa02-professioni-sanitarie/planning/06-checklist-igiene-letto-trasferimenti-review|Checklist automatica di igiene a letto e trasferimenti]]
+- [[books/moduli/m-sa02-professioni-sanitarie/planning/07-piano-chiusura-review-esterne-m-sa02|Dossier delle cinque aree di audit automatico]]
 - [[books/moduli/m-sa02-professioni-sanitarie/planning/08-pacchetto-esercizi-pico-grade-applicabilita|Pacchetto di esercizi PICO, GRADE, EtD e applicabilità]]
 - [[books/moduli/m-sa02-professioni-sanitarie/planning/09-bibbia-del-modulo|Bibbia editoriale del modulo]]
 
@@ -108,8 +108,7 @@ Non deve promettere copertura totale di ogni bando o aggiornamento normativo aut
 - [[reviews/pipeline/VOL-07/06-audit-fonti-m-sa02|Audit delle fonti M-SA02]]
 - [[reviews/pipeline/VOL-07/07-audit-bandi-oss-m-sa02|Audit dei bandi OSS]]
 - [[reviews/pipeline/VOL-07/07-audit-corpus-tecnici-m-sa02|Audit dei corpus tecnici acquisiti nello step 07]]
-- [[reviews/pipeline/VOL-07/07-verbale-review-epidemiologica-indipendente-m-sa02|Verbale della review epidemiologica indipendente — da compilare]]
-- [[books/moduli/m-sa02-professioni-sanitarie/planning/07-piano-chiusura-review-esterne-m-sa02|Dossier coordinato delle cinque review esterne — da assegnare]]
+- [[reviews/pipeline/VOL-07/15-moduli-m-sa02-professioni-sanitarie|Audit specialistico automatico conclusivo]]
 
 ## Prossimo passo
-Tutti i capitoli dichiarati, 01 e 03-10, hanno completato gli step 08-12 e il modulo ha completato gli step 13-14. I cinque assi `REV-OSS`, `REV-OST`, `REV-FIS`, `REV-EPI` e `REV-TPA` diventano checklist di competenza dell'audit automatico dello step 15. Non si procede al congelamento finché ogni esito non è chiuso nel testo e nel report.
+Tutti i capitoli dichiarati, 01 e 03-10, hanno completato gli step 08-12 e il modulo ha completato gli step 13-14. Le cinque aree di competenza sono checklist dell'audit automatico dello step 15. La sola conferma umana resta quella conclusiva dello step 24.

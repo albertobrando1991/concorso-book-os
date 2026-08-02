@@ -15,8 +15,6 @@ describe("VOL-07 pipeline spec", () => {
       volumeCode: "VOL-07",
       volumeTitle: "Sanità amministrativa e professioni sanitarie",
       cutOffDate: "2026-07-28",
-      responsabileNormativo: "Alberto Brando",
-      responsabileEditoriale: "Alberto Brando",
       writerProvider: "codex",
       phases: ["A", "B", "C", "D", "E", "F"]
     })

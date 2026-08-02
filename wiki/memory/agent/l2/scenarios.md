@@ -3111,3 +3111,11 @@
 - route: final-human-signoff-only
 - l0: l0/conv-20260801170047-4hg92a.md
   - mem-20260801170047-1uibtxy | result | Esito final-human-signoff-only: La review umana deve essere solo l ultimissimo step e non deve limitare apertura, scrittura o audit; non assegnare nomi ai revisori. -> Rimosso il gate di assegnazione dallo step 04; trasformato lo step 15 in audit specialistico automatico; spostata l unica conferma umana allo step 24 finale; aggiornati registry, validazione, prompt, template, documen...
+
+## 2026-08-02T16:15:36.293Z - pipeline/VOL-07
+
+- conversation_id: conv-20260802161536-1grzjhr
+- route: codex/hybrid-nuclei-final-only
+- l0: l0/conv-20260802161536-1grzjhr.md
+- atoms:
+  - mem-20260802161536-w9or5u | result | Esito codex/hybrid-nuclei-final-only: Il revisore umano deve intervenire solo come ultimissimo step, senza limitare la produzione; nessun nome assegnato e testi già completi prima della conferma finale. -> Implementata policy final-only: unico step umano 24; step 15 automatico e bloccante sui rinvii umani; campi nominativi rimossi da spec, template e prompt; stati storici VOL-07 migrati via CLI; M-SA02/05 e M-FC02/04 va...

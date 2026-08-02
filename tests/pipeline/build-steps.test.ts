@@ -6,7 +6,6 @@ const sheet = (phases: string, extra = "") => `---
 volume_code: VOL-03
 volume_title: Funzioni centrali
 cut_off_date: 2026-07-27
-responsabile_normativo: Alberto Brando
 phases: [${phases}]
 ---
 

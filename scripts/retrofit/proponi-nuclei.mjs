@@ -34,7 +34,7 @@ const lines = [
   "| --- | --- | --- |",
   ...proposals.map((proposal) => `| ${escapeCell(proposal.heading)} | ${proposal.nucleusId} | ${escapeCell(proposal.matrix)} |`),
   "",
-  "> Proposta automatica: non modifica il capitolo. Richiede approvazione umana e riconciliazione con la matrice.",
+  "> Proposta automatica: non modifica il capitolo. L'agente deve riconciliarla con la matrice e verificarla tramite i gate; la conferma umana resta allo step 24.",
   ""
 ]
 const output = lines.join("\n")
