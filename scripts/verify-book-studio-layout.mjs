@@ -1,11 +1,13 @@
 import fs from "node:fs/promises"
 import { chromium } from "@playwright/test"
+import { resolveBookStudioLayoutOptions } from "./book-studio-layout-options.mjs"
 
 const baseUrl = process.env.BOOK_STUDIO_URL || "http://127.0.0.1:3010"
-const cases = [
-  { id: "il-metodo-bando", label: "base", url: `${baseUrl}/?bookId=il-metodo-bando#studio` },
-  { id: "moduli/m-fc01-ministeri", label: "m-fc01", url: `${baseUrl}/?bookId=${encodeURIComponent("moduli/m-fc01-ministeri")}#studio` }
-]
+const { cases: configuredCases, artifactPrefix, expectedCounts } = resolveBookStudioLayoutOptions(process.env)
+const cases = configuredCases.map((current) => ({
+  ...current,
+  url: `${baseUrl}/?bookId=${encodeURIComponent(current.id)}#studio`
+}))
 
 await fs.mkdir("artifacts", { recursive: true })
 
@@ -23,7 +25,7 @@ try {
     await page.evaluate(() => document.fonts.ready)
     await waitForBookImages(page)
     await page.waitForTimeout(900)
-    await page.screenshot({ path: `artifacts/book-studio-${current.label}.png`, fullPage: true })
+    await page.screenshot({ path: `artifacts/${artifactPrefix}-${current.label}.png`, fullPage: true })
 
     const studio = await page.evaluate(() => {
       const getRect = (selector) => {
@@ -80,6 +82,40 @@ try {
       }
     })
 
+    const structure = await page.evaluate(() => {
+      const pages = Array.from(document.querySelectorAll(".bookPages .bookPage"))
+      const unique = (values) => new Set(values.filter(Boolean)).size
+
+      return {
+        pageCount: pages.length,
+        pageNumbers: pages.map((item) => Number(item.getAttribute("data-page-number") || 0)),
+        frontMatter: unique(
+          pages
+            .filter((item) => item.getAttribute("data-front-matter-layout") !== "module-opening")
+            .map((item) => item.getAttribute("data-front-matter-layout"))
+        ),
+        moduleOpenings: unique(
+          pages
+            .filter((item) => item.getAttribute("data-front-matter-layout") === "module-opening")
+            .map((item) => item.getAttribute("data-chapter-path"))
+        ),
+        chapters: unique(
+          pages
+            .filter((item) => item.getAttribute("data-section-type") === "chapter")
+            .map((item) => item.getAttribute("data-chapter-path"))
+        ),
+        nuclei: unique(
+          Array.from(document.querySelectorAll(".bookPages [data-nucleus-id]"))
+            .map((item) => item.getAttribute("data-nucleus-id"))
+        ),
+        indexNuclei: unique(
+          Array.from(document.querySelectorAll(".bookPages .indexSubLine[data-nucleus-id]"))
+            .map((item) => item.getAttribute("data-nucleus-id"))
+        ),
+        verificationHeadings: document.querySelectorAll(".bookPages .verificationHeading").length
+      }
+    })
+
     const diagnostics = await page.$$eval(".bookPages .bookPage", (pages) => pages.map((bookPage, index) => {
       const pageRect = bookPage.getBoundingClientRect()
       const footer = bookPage.querySelector(".pageFooter")
@@ -125,20 +161,21 @@ try {
       }
     }))
 
-    report.push({ ...current, studio, diagnostics })
+    report.push({ ...current, studio, structure, diagnostics })
     await page.close()
   }
 } finally {
   await browser.close()
 }
 
-await fs.writeFile("artifacts/book-studio-layout-report.json", JSON.stringify(report, null, 2), "utf8")
+await fs.writeFile(`artifacts/${artifactPrefix}-layout-report.json`, JSON.stringify(report, null, 2), "utf8")
 
 const failures = report.flatMap((entry) =>
   [
     ...(entry.studio.assetPreviewOverlap > 0
       ? [`${entry.label}: asset strip overlaps preview by ${entry.studio.assetPreviewOverlap}px2`]
       : []),
+    ...structureFailures(entry, expectedCounts),
     ...typographyFailures(entry),
     ...entry.diagnostics
       .filter((page) => page.overflow > 8 || page.overlaps.length > 0)
@@ -152,6 +189,38 @@ if (failures.length > 0) {
 }
 
 console.log(`Book Studio layout OK for ${report.map((entry) => entry.label).join(", ")}`)
+
+function structureFailures(entry, expectedCounts) {
+  const failures = []
+  const expectedSequence = Array.from(
+    { length: entry.structure.pageCount },
+    (_, index) => index + 1
+  )
+
+  if (entry.structure.pageCount < 1) {
+    failures.push(`${entry.label}: nessuna pagina renderizzata`)
+  }
+
+  if (JSON.stringify(entry.structure.pageNumbers) !== JSON.stringify(expectedSequence)) {
+    failures.push(`${entry.label}: numerazione pagine non progressiva`)
+  }
+
+  if (entry.structure.nuclei !== entry.structure.indexNuclei) {
+    failures.push(
+      `${entry.label}: nuclei testo=${entry.structure.nuclei}, indice=${entry.structure.indexNuclei}`
+    )
+  }
+
+  if (expectedCounts) {
+    for (const [key, expected] of Object.entries(expectedCounts)) {
+      if (entry.structure[key] !== expected) {
+        failures.push(`${entry.label}: ${key}=${entry.structure[key]}, atteso=${expected}`)
+      }
+    }
+  }
+
+  return failures
+}
 
 function typographyFailures(entry) {
   const checks = [

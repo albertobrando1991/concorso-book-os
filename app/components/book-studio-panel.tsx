@@ -831,7 +831,15 @@ function BookPagePreview({ bookId, page }: { bookId: string; page: PreviewPage }
   }
 
   return (
-    <article className={`bookPage ${bookPageSideClass(page.pageNumber)}`} lang="it">
+    <article
+      className={`bookPage ${bookPageSideClass(page.pageNumber)}`}
+      data-chapter-path={chapter.path}
+      data-page-number={page.pageNumber}
+      data-section-type={chapter.sectionType}
+      data-front-matter-layout={chapter.frontMatterLayout || undefined}
+      data-volume-module-code={chapter.volumeModuleCode || undefined}
+      lang="it"
+    >
       {page.isFirstPage ? (
         <header className="chapterPreviewHeader">
           <span className="chapterNumber">{chapterNumberLabel(chapter)}</span>
@@ -870,7 +878,15 @@ function FrontMatterPagePreview({ bookId, page }: { bookId: string; page: Previe
   }
 
   return (
-    <article className={`bookPage ${bookPageSideClass(page.pageNumber)} frontMatterPage ${layoutClass}`} lang="it">
+    <article
+      className={`bookPage ${bookPageSideClass(page.pageNumber)} frontMatterPage ${layoutClass}`}
+      data-chapter-path={chapter.path}
+      data-page-number={page.pageNumber}
+      data-section-type={chapter.sectionType}
+      data-front-matter-layout={chapter.frontMatterLayout || undefined}
+      data-volume-module-code={chapter.volumeModuleCode || undefined}
+      lang="it"
+    >
       {page.chapterPageNumber > 1 ? (
         <div className="runningHeader">
           <span>{chapter.title}</span>
@@ -904,7 +920,15 @@ function DigitalServicesPagePreview({ bookId, page, layoutClass }: { bookId: str
   const bodyBlocks = imageIndex >= 0 ? page.blocks.slice(imageIndex + 1) : page.blocks.slice(2)
 
   return (
-    <article className={`bookPage ${bookPageSideClass(page.pageNumber)} frontMatterPage ${layoutClass}`} lang="it">
+    <article
+      className={`bookPage ${bookPageSideClass(page.pageNumber)} frontMatterPage ${layoutClass}`}
+      data-chapter-path={page.chapter.path}
+      data-page-number={page.pageNumber}
+      data-section-type={page.chapter.sectionType}
+      data-front-matter-layout={page.chapter.frontMatterLayout || undefined}
+      data-volume-module-code={page.chapter.volumeModuleCode || undefined}
+      lang="it"
+    >
       <div className="digitalServicesHero">
         <div className="digitalHeroCopy">
           {heroBlocks.map((block, index) => (
