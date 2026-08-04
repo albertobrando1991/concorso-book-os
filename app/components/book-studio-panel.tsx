@@ -945,11 +945,16 @@ function bookPageSideClass(pageNumber: number) {
 function PreviewBlock({ block, bookId }: { block: MarkdownBlock; bookId?: string }) {
   if (block.type === "heading") {
     const headingText = block.number ? `${block.number} ${block.text}` : block.text
+    const headingClassName = block.verification ? "verificationHeading" : undefined
 
-    if ((block.level || 2) <= 2) return <h3 data-nucleus-id={block.nucleusId || undefined}>{headingText}</h3>
-    if (block.level === 3) return <h4 data-nucleus-id={block.nucleusId || undefined}>{headingText}</h4>
+    if ((block.level || 2) <= 2) {
+      return <h3 className={headingClassName} data-nucleus-id={block.nucleusId || undefined}>{headingText}</h3>
+    }
+    if (block.level === 3) {
+      return <h4 className={headingClassName} data-nucleus-id={block.nucleusId || undefined}>{headingText}</h4>
+    }
 
-    return <h5 data-nucleus-id={block.nucleusId || undefined}>{headingText}</h5>
+    return <h5 className={headingClassName} data-nucleus-id={block.nucleusId || undefined}>{headingText}</h5>
   }
 
   if (block.type === "index-part") {

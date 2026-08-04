@@ -26,10 +26,10 @@
   --book-page-width: 6.69in;
   --book-page-height: 9.61in;
   --book-padding-top: 18mm;
-  /* Paperback KDP: 20 mm al dorso mantiene la sicurezza di rilegatura del
-     Volume 1 e restituisce una colonna di lettura equilibrata. */
+  /* Paperback KDP: 23 mm al dorso mantiene la sicurezza di rilegatura e
+     restituisce una colonna di lettura equilibrata nei volumi compositi. */
   --book-padding-outside: 13mm;
-  --book-padding-inside: 20mm;
+  --book-padding-inside: 23mm;
   --book-padding-right: var(--book-padding-outside);
   --book-padding-bottom: 18mm;
   --book-padding-left: var(--book-padding-inside);
@@ -1058,6 +1058,16 @@ h1 {
   font-size: 11pt;
   font-weight: 700;
   text-transform: uppercase;
+}
+
+.previewBlocks .verificationHeading {
+  border: 1.5pt solid #111111;
+  border-left-width: 4pt;
+  background: #f2f2f2;
+  color: #020617;
+  padding: 6pt 8pt;
+  break-after: avoid;
+  page-break-after: avoid;
 }
 
 .previewBlocks p {
