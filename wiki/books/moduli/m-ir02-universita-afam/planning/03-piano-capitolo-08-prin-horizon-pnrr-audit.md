@@ -2,11 +2,11 @@
 id: plan-m-ir02-capitolo-08-prin-horizon-pnrr-audit
 type: chapter_plan
 title: "Piano operativo - M-IR02 capitolo 08: PRIN, Horizon, PNRR e audit"
-status: proposed_for_approval
+status: approved_for_draft
 domain: "istruzione superiore italiana e concorsi pubblici"
 topics: ["universita", "PRIN", "Horizon Europe", "PNRR", "ammissibilita", "monitoraggio", "audit"]
 entities: ["Ministero dell'Universita e della Ricerca", "Commissione europea", "PNRR", "Ragioneria generale dello Stato"]
-source_refs: ["sources/fonti-ufficiali-m-ir02-universita-afam-2026-07-24", "sources/fonti-ufficiali-m-ir03-enti-ricerca-2026-07-24", "sources/pagamenti-tracciabilita-contratti-pnrr-rendicontazione", "sources/pnrr-regis-dnsh-monitoraggio-territoriale"]
+source_refs: ["sources/fonti-ufficiali-m-ir02-universita-afam-2026-07-24", "sources/prin-2026-bando-mur-programma-rendicontazione", "sources/horizon-europe-quadro-work-programme-call-grant-agreement", "sources/pagamenti-tracciabilita-contratti-pnrr-rendicontazione", "sources/pnrr-regis-dnsh-monitoraggio-territoriale"]
 book_refs: ["m-ir02-universita-afam", "vol-06-scuola-universita-ricerca-cultura", "il-metodo-bando", "m-tr02-appalti-pnrr-fondi-ue"]
 confidence: 0.7
 updated_at: 2026-08-04
@@ -46,7 +46,7 @@ Il capitolo deve spiegare:
 
 - Gia' consolidato: rilevanza di progetto, spesa, milestone, target, monitoraggio, rendicontazione e controlli nel PNRR; funzione informativa di ReGiS; DNSH come vincolo da verificare lungo il ciclo; Reg. UE 2021/695 e Reg. UE 2018/1046 come riferimenti per Horizon e disciplina finanziaria UE nel corpus M-IR03; rischio mobile di call, grant agreement, work programme, guide, piattaforme e regole di ammissibilita'.
 - Da sviluppare: confronto funzionale tra i tre programmi; matrice delle fonti; concetti di ammissibilita', monitoraggio, rendicontazione, controllo e audit; costruzione del fascicolo; gestione del rilievo; piano di controllo.
-- Blocker prima della scrittura definitiva: manca una source note primaria specifica sul PRIN e manca una source note Horizon dedicata al contesto universitario, distinta dal manifest M-IR03. Prima dello Step 09 occorre consolidare almeno una fonte MUR PRIN vigente e una fonte istituzionale Horizon Europe pertinente. Il solo titolo della matrice non autorizza dettagli sui programmi.
+- Blocker risolto il 4 agosto 2026: sono state consolidate una source note primaria sul Bando PRIN 2026 e una source note istituzionale su Horizon Europe, work programme, call e grant agreement. La scrittura resta vincolata al livello di dettaglio effettivamente consolidato.
 - Da non presentare come stabili: percentuali, soglie, massimali, scadenze, categorie di costo, tassi di finanziamento, configurazioni ReGiS, modelli, tile, work programme, call, grant agreement, guide DNSH, controlli specifici, denominazioni degli uffici e competenze locali.
 
 La fonte PNRR disponibile e' nata per M-FL02 e può sostenere soltanto i concetti trasversali verificati. Non va trasferita automaticamente all'universita' per procedure, ruoli o istruzioni operative.
@@ -107,13 +107,15 @@ Target orientativo: 3.600-3.900 parole. Usare una tabella comparativa a cinque c
 ## Fonti da usare
 
 - [[sources/fonti-ufficiali-m-ir02-universita-afam-2026-07-24]] per perimetro M-IR02 e rischio mobile;
-- [[sources/fonti-ufficiali-m-ir03-enti-ricerca-2026-07-24]] per i riferimenti UE gia' consolidati e il confine con M-IR03;
+- [[sources/prin-2026-bando-mur-programma-rendicontazione]] per programma nazionale, gerarchia bando-allegati e separazione tra edizioni PRIN;
+- [[sources/horizon-europe-quadro-work-programme-call-grant-agreement]] per regolamento, work programme, call, Funding & Tenders Portal e grant agreement;
+- [[sources/fonti-ufficiali-m-ir03-enti-ricerca-2026-07-24]] per il confine con M-IR03;
 - [[sources/pagamenti-tracciabilita-contratti-pnrr-rendicontazione]] per il collegamento generale tra progetto, spesa, risultato, monitoraggio e controlli;
 - [[sources/pnrr-regis-dnsh-monitoraggio-territoriale]] per ReGiS, milestone, target, DNSH ed evidenze, utilizzati soltanto nei nuclei trasversali;
 - [[topics/m-ir02-universita-afam-fonti-e-profili]], [[topics/pnrr]] ed [[entities/ministero-universita-ricerca]] per perimetro e gerarchia;
 - capitoli 05-07 e rinvii al VOL-01/VOL-09 per evitare duplicazioni.
 
-Prima della scrittura occorre aggiungere al `last_compiled_from` le nuove source note PRIN e Horizon dopo il loro consolidamento. Non usare direttamente file `raw` per il testo finale.
+Nella scrittura aggiungere al `last_compiled_from` le source note PRIN e Horizon ora consolidate. Non usare direttamente file `raw` per il testo finale.
 
 ## Review umane richieste
 
@@ -130,4 +132,4 @@ Prima della scrittura occorre aggiungere al `last_compiled_from` le nuove source
 - Coerenza: il confronto sceglie la fonte; la catena dei controlli spiega le funzioni; la checklist produce l'output.
 - Ambito: orientamento specialistico universitario, non manuale completo dei tre programmi.
 - Copertura: tutti i nuclei della matrice hanno una sezione, un caso, un errore, una verifica e fonti previste.
-- Blocker dichiarato: PRIN e Horizon richiedono source note dedicate prima dello Step 09; nessun dettaglio non consolidato e' autorizzato.
+- Blocker risolto: source note PRIN e Horizon dedicate sono consolidate; nessun dettaglio ulteriore e' autorizzato senza nuova fonte.
