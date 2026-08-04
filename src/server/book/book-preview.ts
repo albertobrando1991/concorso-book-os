@@ -235,11 +235,7 @@ async function buildVolumeBookStudioData(store: FileWikiStore, volume: TextVolum
   let nextChapterNumber = 1
   const numberedModuleBooks = moduleBooks.map((moduleBook) => ({
     ...moduleBook,
-    chapters: moduleBook.chapters.map((chapter) => ({
-      ...chapter,
-      moduleOutlineSection: chapter.outlineSection,
-      outlineSection: String(nextChapterNumber++)
-    }))
+    chapters: moduleBook.chapters.map((chapter) => mapChapterIntoVolume(chapter, nextChapterNumber++))
   }))
   const volumeFrontMatter = buildVolumeFrontMatter(volume, numberedModuleBooks, bookId)
   const moduleSections = numberedModuleBooks.flatMap(({ moduleCode, moduleTitle, chapters }) => [
@@ -274,6 +270,25 @@ async function buildVolumeBookStudioData(store: FileWikiStore, volume: TextVolum
     chapters,
     assets: uniqueAssets,
     editorialPlan: null
+  }
+}
+
+function mapChapterIntoVolume(chapter: BookStudioChapter, volumeChapterNumber: number): BookStudioChapter {
+  return {
+    ...chapter,
+    moduleOutlineSection: chapter.outlineSection,
+    outlineSection: String(volumeChapterNumber),
+    blocks: chapter.blocks.map((block) => {
+      if (block.type !== "heading" || !block.nucleusId) return block
+
+      const match = /-(\d{2})$/.exec(block.nucleusId)
+      if (!match) return block
+
+      return {
+        ...block,
+        number: `${volumeChapterNumber}.${Number.parseInt(match[1], 10)}`
+      }
+    })
   }
 }
 
@@ -567,6 +582,16 @@ function buildVolumeIndexBlocks(moduleBooks: VolumeModuleBook[]): MarkdownBlock[
         path: chapter.path,
         pageNumber: pageCursor
       })
+      for (const heading of estimate.headings.filter((item) => item.nucleusId && item.number)) {
+        blocks.push({
+          type: "index-row",
+          text: heading.text,
+          number: heading.number,
+          nucleusId: heading.nucleusId,
+          path: chapter.path,
+          pageNumber: heading.pageNumber
+        })
+      }
       pageCursor += estimate.pageCount
     }
   }
@@ -717,7 +742,7 @@ function buildChapterPageMap(chapters: BookStudioChapter[]) {
 }
 
 function estimateChapterPages(chapter: BookStudioChapter, startPage: number) {
-  const headings: Array<{ text: string; number?: string; pageNumber: number }> = []
+  const headings: Array<{ text: string; number?: string; nucleusId?: string; pageNumber: number }> = []
   let pageOffset = 0
   let used = INDEX_FIRST_PAGE_HEADER_COST
 
@@ -736,6 +761,7 @@ function estimateChapterPages(chapter: BookStudioChapter, startPage: number) {
         headings.push({
           text,
           ...(block.number ? { number: block.number } : {}),
+          ...(block.nucleusId ? { nucleusId: block.nucleusId } : {}),
           pageNumber: startPage + pageOffset
         })
       }

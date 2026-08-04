@@ -704,4 +704,75 @@ describe("book preview assets", () => {
       await rm(root, { recursive: true, force: true })
     }
   })
+
+  it("maps local nucleus numbers to global volume chapters", async () => {
+    const root = await mkdtemp(path.join(os.tmpdir(), "book-preview-volume-nuclei-"))
+
+    try {
+      for (const moduleId of ["m-fc01-ministeri", "m-fc02-agenzie-fiscali"]) {
+        await mkdir(path.join(root, `books/moduli/${moduleId}/chapters`), { recursive: true })
+        await writeFile(
+          path.join(root, `books/moduli/${moduleId}/index.md`),
+          `---\ntitle: ${moduleId}\n---\n# ${moduleId}`,
+          "utf8"
+        )
+      }
+
+      for (let index = 1; index <= 8; index += 1) {
+        const number = String(index).padStart(2, "0")
+        await writeFile(
+          path.join(root, `books/moduli/m-fc01-ministeri/chapters/${number}-base.md`),
+          [
+            "---",
+            `title: Capitolo ${index}`,
+            `outline_section: ${index}`,
+            "---",
+            `# Capitolo ${index}`,
+            "",
+            "Questo capitolo contiene materiale editoriale completo e sufficiente per entrare nella preview composita e stabilire la numerazione globale del volume."
+          ].join("\n"),
+          "utf8"
+        )
+      }
+
+      const pilotPath = path.join(root, "books/moduli/m-fc02-agenzie-fiscali/chapters/05-pilota.md")
+      await writeFile(
+        pilotPath,
+        [
+          "---",
+          "title: Capitolo pilota",
+          "outline_section: 5",
+          "---",
+          "# Capitolo pilota",
+          "",
+          "## N-FC02-05-04 · Nucleo pilota",
+          "",
+          "Questo nucleo contiene materiale editoriale completo e sufficiente per entrare nella preview e verificare il mapping globale del volume composito."
+        ].join("\n"),
+        "utf8"
+      )
+
+      const store = new FileWikiStore(root)
+      const volume = await buildBookStudioData(store, "volumi/vol-03")
+      const standalone = await buildBookStudioData(store, "moduli/m-fc02-agenzie-fiscali")
+      const volumePilot = volume.chapters.find((chapter) => chapter.title === "Capitolo pilota")
+      const volumeNucleus = volumePilot?.blocks.find((block) => block.nucleusId === "N-FC02-05-04")
+      const standaloneNucleus = standalone.chapters[0].blocks.find((block) => block.nucleusId === "N-FC02-05-04")
+      const index = volume.chapters.find((chapter) => chapter.frontMatterLayout === "analytical-index")
+      const row = index?.blocks.find((block) => block.nucleusId === "N-FC02-05-04")
+
+      expect(volumePilot?.outlineSection).toBe("9")
+      expect(volumePilot?.moduleOutlineSection).toBe("5")
+      expect(volumeNucleus?.number).toBe("9.4")
+      expect(standaloneNucleus?.number).toBe("5.4")
+      expect(row).toMatchObject({
+        type: "index-row",
+        number: "9.4",
+        nucleusId: "N-FC02-05-04",
+        path: volumePilot?.path
+      })
+    } finally {
+      await rm(root, { recursive: true, force: true })
+    }
+  })
 })
