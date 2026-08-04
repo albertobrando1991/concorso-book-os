@@ -2,7 +2,7 @@
 id: plan-m-ir02-capitolo-07-ricerca-grant-management
 type: chapter_plan
 title: "Piano operativo - M-IR02 capitolo 07: Ricerca e grant management"
-status: proposed_for_approval
+status: approved_for_draft
 domain: "istruzione superiore italiana e concorsi pubblici"
 topics: ["universita", "ricerca", "grant management", "progetto", "budget di progetto", "rendicontazione"]
 entities: ["Ministero dell'Universita e della Ricerca", "Universita", "CNR"]
