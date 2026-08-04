@@ -660,4 +660,48 @@ describe("book preview assets", () => {
       await rm(root, { recursive: true, force: true })
     }
   })
+
+  it("preserves nucleus identity and verification semantics", async () => {
+    const root = await mkdtemp(path.join(os.tmpdir(), "book-preview-nucleus-meta-"))
+
+    try {
+      await mkdir(path.join(root, "books/moduli/m-sa02-professioni-sanitarie/chapters"), { recursive: true })
+      await writeFile(
+        path.join(root, "books/moduli/m-sa02-professioni-sanitarie/index.md"),
+        "---\ntitle: M-SA02 - Professioni sanitarie\n---\n# M-SA02",
+        "utf8"
+      )
+      await writeFile(
+        path.join(root, "books/moduli/m-sa02-professioni-sanitarie/chapters/05-pilota.md"),
+        [
+          "---",
+          "title: Capitolo pilota",
+          "outline_section: 5",
+          "---",
+          "# Capitolo pilota",
+          "",
+          "## N-SA02-05-04 · Team e sicurezza",
+          "",
+          "Questo testo editoriale completo descrive il lavoro del team, la comunicazione professionale e la sicurezza operativa nelle attività sanitarie quotidiane.",
+          "",
+          "## ▣ Verifica",
+          "",
+          "1. Domanda di controllo."
+        ].join("\n"),
+        "utf8"
+      )
+
+      const data = await buildBookStudioData(
+        new FileWikiStore(root),
+        "moduli/m-sa02-professioni-sanitarie"
+      )
+      const headings = data.chapters[0].blocks.filter((block) => block.type === "heading")
+
+      expect(headings.find((block) => block.nucleusId)?.nucleusId).toBe("N-SA02-05-04")
+      expect(headings.find((block) => block.nucleusId)?.number).toBe("5.4")
+      expect(headings.find((block) => block.verification)?.text).toBe("▣ Verifica")
+    } finally {
+      await rm(root, { recursive: true, force: true })
+    }
+  })
 })

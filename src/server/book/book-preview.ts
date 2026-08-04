@@ -34,6 +34,8 @@ export interface MarkdownBlock {
   text?: string
   level?: number
   number?: string
+  nucleusId?: string
+  verification?: boolean
   pageNumber?: number
   items?: string[]
   ordered?: boolean
@@ -892,6 +894,10 @@ function parseNucleusHeading(value: string) {
   }
 }
 
+function isVerificationHeading(value: string) {
+  return /^▣\s*Verifica\b/i.test(value.trim())
+}
+
 function cleanIndexText(value: string) {
   return value.replace(/\*\*/g, "").replace(/\s+/g, " ").trim()
 }
@@ -1185,7 +1191,8 @@ function markdownToBlocks(markdown: string, sourcePath: string): MarkdownBlock[]
         type: "heading",
         level: Math.min(heading[1].length, 4),
         text: nucleus?.title || text,
-        ...(nucleus ? { number: nucleus.number } : {})
+        ...(nucleus ? { number: nucleus.number, nucleusId: nucleus.id } : {}),
+        ...(isVerificationHeading(text) ? { verification: true } : {})
       })
       continue
     }
