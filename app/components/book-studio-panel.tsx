@@ -20,6 +20,7 @@ import {
   reconcileBookStudioPayloadState,
   reconcileBookStudioRefreshPayloadState
 } from "./book-studio-state"
+import { reconcileIndexPageNumbers } from "./book-studio-index-pages"
 import { EditorialPlanPanel } from "./editorial-plan-panel"
 
 interface BookStudioPanelProps {
@@ -137,7 +138,11 @@ export function BookStudioPanel({
   const measureRef = useRef<HTMLDivElement>(null)
   const bookPagesRef = useRef<HTMLDivElement>(null)
   const [measuredPages, setMeasuredPages] = useState<PreviewPage[] | null>(null)
-  const previewPages = measuredPages || estimatedPages
+  const rawPreviewPages = measuredPages || estimatedPages
+  const previewPages = useMemo(
+    () => reconcileIndexPageNumbers(rawPreviewPages),
+    [rawPreviewPages]
+  )
 
   useEffect(() => {
     setBookStudioPayloadState((currentState) =>
@@ -941,10 +946,10 @@ function PreviewBlock({ block, bookId }: { block: MarkdownBlock; bookId?: string
   if (block.type === "heading") {
     const headingText = block.number ? `${block.number} ${block.text}` : block.text
 
-    if ((block.level || 2) <= 2) return <h3>{headingText}</h3>
-    if (block.level === 3) return <h4>{headingText}</h4>
+    if ((block.level || 2) <= 2) return <h3 data-nucleus-id={block.nucleusId || undefined}>{headingText}</h3>
+    if (block.level === 3) return <h4 data-nucleus-id={block.nucleusId || undefined}>{headingText}</h4>
 
-    return <h5>{headingText}</h5>
+    return <h5 data-nucleus-id={block.nucleusId || undefined}>{headingText}</h5>
   }
 
   if (block.type === "index-part") {
@@ -983,7 +988,11 @@ function PreviewBlock({ block, bookId }: { block: MarkdownBlock; bookId?: string
 
   if (block.type === "index-row") {
     return (
-      <div className="indexLine indexSubLine">
+      <div
+        className="indexLine indexSubLine"
+        data-nucleus-id={block.nucleusId || undefined}
+        data-index-path={block.path || undefined}
+      >
         <span className="indexSubNumber">{block.number}</span>
         <span className="indexLineTitle">{block.text}</span>
         <span className="indexLeader" aria-hidden />
