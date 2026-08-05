@@ -84,7 +84,11 @@ Il metodo BANDO aiuta a delimitare lo studio. Il diritto tributario è vasto; il
 
 ![Figura 4.1 - Mappa BANDO del diritto tributario: dal programma fiscale alla mappa minima per quiz, orale e casi.](../assets/chapter-04/01-mappa-bando-diritto-tributario.png)
 
+<<<<<<< HEAD
+## Perché' la teoria dell'imposta serve nei concorsi fiscali
+=======
 ## N-FC02-04-01 · Principi, fonti e categorie del tributo
+>>>>>>> origin/main
 
 La teoria dell'imposta fornisce le categorie necessarie per leggere correttamente gli argomenti successivi.
 
@@ -102,7 +106,11 @@ Questa sequenza non descrive ogni tributo in modo completo. Serve come mappa men
 
 ![Figura 4.2 - Come nasce e si sviluppa il tributo: sequenza da fatto rilevante ad accertamento e riscossione.](../assets/chapter-04/02-sequenza-nascita-tributo.png)
 
+<<<<<<< HEAD
+## Legalità, capacità contributiva e progressivita
+=======
 ### Legalita, capacita contributiva e progressivita
+>>>>>>> origin/main
 
 Il diritto tributario opera entro una cornice costituzionale. Il prelievo non nasce da una decisione discrezionale dell'ufficio: richiede una base normativa e deve rispettare i criteri che governano il concorso alle spese pubbliche.
 
@@ -421,7 +429,11 @@ La mappa teorica termina qui con la catena **fatturazione -> registrazione -> li
 **Verifica finale.** In novanta secondi ricostruisci: funzione dell'IVA; tre presupposti; differenza tra soggetto passivo, debitore e consumatore; rivalsa, detrazione e liquidazione; quattro classi e conseguenza essenziale. Se inizi da aliquota o calendario, stai saltando l'architettura.
 
 
+<<<<<<< HEAD
+## Quadro UE fiscale, IVA e dogane
+=======
 ## N-FC02-04-05 · Quadro UE fiscale, IVA e dogane
+>>>>>>> origin/main
 
 ### Attribuzione e principi di esercizio
 
@@ -738,9 +750,15 @@ Le fonti consolidate sostengono il nucleo teorico e concorsuale del capitolo. Pe
 
 - Verificare su Normattiva il testo vigente del D.P.R. 917/1986, del D.P.R. 633/1972, del D.P.R. 600/1973 e della L. 111/2023 prima di inserire articoli, commi, soglie, date o esempi numerici.
 - Il quadro IRPEF/IRES consolida l'architettura stabile, non aliquote, scaglioni, soglie, importi, percentuali, termini o regimi mobili: verificarli sulla fonte ufficiale vigente prima della pubblicazione.
+<<<<<<< HEAD
+- Il quadro IVA è compilato sulle source note consolidate con audit al 20 luglio 2026; sottoporre a review umana tributaria/UE territorialità', esenzioni, inversione contabile, detrazione e decorrenze prima della pubblicazione.
+- Sottoporre a review normativa articolo per articolo soggetti, residenza, categorie, formazione del reddito complessivo e raccordo civilistico-fiscale; verificare separatamente derivazione rafforzata ed eccezioni quando il bando richiede dettaglio.
+- Coordinare la terminologia con i capitoli 5, 6 e 7, così' che accertamento, adempimenti e riscossione mantengano lo stesso significato in tutto il modulo.
+=======
 - Il quadro IVA e' compilato sulle source note consolidate con audit al 20 luglio 2026; l'audit automatico tributario/UE verifica territorialita', esenzioni, inversione contabile, detrazione e decorrenze prima della pubblicazione.
 - L'audit automatico normativo verifica articolo per articolo soggetti, residenza, categorie, formazione del reddito complessivo e raccordo civilistico-fiscale; derivazione rafforzata ed eccezioni sono controllate separatamente quando il bando richiede dettaglio.
 - Coordinare la terminologia con i capitoli 5, 6 e 7, cosi' che accertamento, adempimenti e riscossione mantengano lo stesso significato in tutto il modulo.
+>>>>>>> origin/main
 - Integrare eventuali riferimenti allo Statuto dei diritti del contribuente solo dopo una source note consolidata dedicata, per evitare richiami non tracciati.
 - I quiz presenti in questa bozza sono didattici e non articolo-specifici; prima dell'export finale possono essere ampliati con quesiti normativi puntuali dopo audit automatico.
 - Il capitolo ha taglio concorsuale e non costituisce consulenza fiscale.

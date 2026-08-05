@@ -3201,6 +3201,7 @@
   - mem-20260724182430-1f2iaov | workflow | Redigere professionalmente il capitolo M-FC05 15 Laboratorio delle prove authority.
   - mem-20260724182430-14068mp | result | Esito manual_writer/m-fc05-15-laboratorio: Redigere professionalmente il capitolo M-FC05 15 Laboratorio delle prove authority. -> Completato il capitolo laboratorio M-FC05 15 con dieci simulazioni distribuite fra percorsi G, E e P, rubrica di correzione, diario degli errori e piano 30/60/90; verificati 59 test.
 
+<<<<<<< HEAD
 ## 2026-07-30T15:58:06.545Z - VOL-03
 
 - conversation_id: conv-20260730155806-1espvnp
@@ -4230,6 +4231,7 @@
 - l0: l0/conv-20260805163318-148km3c.md
 - atoms:
   - mem-20260805163318-sb3b4u | result | Esito pipeline-step-09-mfc01-chapter-08: Procedi con il prossimo step della pipeline VOL-03. -> Completato lo step 09 di M-FC01 capitolo 08 PIAO, performance, anticorruzione e valore pubblico: scritto il capitolo completo con otto nuclei, Mappa BANDO, teoria integrata, flusso d ufficio, tabella comparativa, caso...
+=======
 ## 2026-07-29T21:51:17.806Z - vol-02-editorial
 
 - conversation_id: conv-20260729215117-bp8asu
@@ -4936,6 +4938,7 @@
 - atoms:
   - mem-20260805162301-h3d2eg | instruction | Commit e push di tutte le modifiche effettuate finora, inclusa la logica di pipeline e download per lo staff, senza sovrascrivere altro.
   - mem-20260805162301-1o8jzn0 | result | Esito codex/git-publish: Commit e push di tutte le modifiche effettuate finora, inclusa la logica di pipeline e download per lo staff, senza sovrascrivere altro. -> Pubblicazione eseguita su origin/main con push fast-forward senza force, reset o rebase.
+>>>>>>> origin/main
 
 ## 2026-08-05T16:35:51.347Z - repository
 
