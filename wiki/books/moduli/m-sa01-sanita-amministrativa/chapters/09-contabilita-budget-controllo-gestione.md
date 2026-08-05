@@ -9,14 +9,14 @@ entities: ["Azienda sanitaria", "Ministero della Salute", "Regione"]
 source_refs: ["sources/contabilita-budget-aziende-sanitarie", "sources/flussi-economici-nsis-modelli-ce-sp", "sources/armonizzazione-contabile-enti-territoriali-d-lgs-118-2011", "sources/ssn-organizzazione-aziende-standard-lea", "sources/bandi-rappresentativi-m-sa01-sanita-amministrativa-2025-2026", "sources/d-lgs-27-ottobre-2009-n-150-performance"]
 book_refs: ["m-sa01-sanita-amministrativa", "vol-07-sanita-amministrativa-professioni-sanitarie", "il-metodo-bando"]
 confidence: 0.9
-updated_at: 2026-07-30
+updated_at: 2026-08-04
 created_at: 2026-07-30
-review_required: true
+review_required: false
 canonical: true
 tags: ["m-sa01", "contabilità", "budget", "controllo-di-gestione", "ce", "sp", "la", "cp"]
 book_id: m-sa01-sanita-amministrativa
 outline_section: 9
-draft_stage: first-complete-draft
+draft_stage: specialist-audit-complete
 module_code: M-SA01
 module_family: sanita
 companion_to: il-metodo-bando

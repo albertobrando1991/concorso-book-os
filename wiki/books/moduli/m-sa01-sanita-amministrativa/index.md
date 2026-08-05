@@ -2,26 +2,26 @@
 id: m-sa01-sanita-amministrativa
 type: specialist_module
 title: "M-SA01 — Sanità amministrativa"
-status: revised_draft
+status: text_frozen
 domain: "concorsi pubblici italiani"
 topics: ["moduli specialistici","sanita","metodo bando"]
 entities: ["Metodo BANDO","Capitale Personale"]
 source_refs: ["sources/metodo-bando-progetto-editoriale.md","sources/struttura-madre-il-metodo-bando.md","sources/vol-07-dossier-fonti-materie-sanita-2026-07-28","sources/bandi-rappresentativi-m-sa01-sanita-amministrativa-2025-2026","sources/ssn-organizzazione-aziende-standard-lea","sources/ccnl-comparto-sanita-2022-2024","sources/documentazione-sanitaria-accesso-fse-dossier-privacy","sources/contabilita-budget-aziende-sanitarie","sources/procurement-farmaci-dispositivi-flussi-nsis"]
 book_refs: ["il-metodo-bando","moduli-specialistici","vol-07-sanita-amministrativa-professioni-sanitarie"]
 confidence: 0.88
-updated_at: 2026-08-01T12:00:00+02:00
+updated_at: 2026-08-04T00:00:00+02:00
 created_at: 2026-06-27T19:56:28+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["specialist-module","module-family-sanita","module-code-m-sa01","revised-editorial-draft"]
 book_id: m-sa01-sanita-amministrativa
 module_code: M-SA01
 module_family: sanita
 module_family_title: "Sanità"
-module_status: phase-d-editorial-complete
+module_status: text-frozen
 roadmap_phase: "2"
 companion_to: il-metodo-bando
-draft_stage: specialist-audit-pending
+draft_stage: text-frozen
 last_compiled_from: ["wiki/books/moduli/architettura-moduli-specialistici.md"]
 ---
 
@@ -35,7 +35,7 @@ Modulo specialistico collegato a [[books/il-metodo-bando/index|Il Metodo BANDO]]
 - Codice modulo: M-SA01
 - Copertura: Aziende sanitarie, ospedali, profili amministrativi e gestione documentale sanitaria.
 - Fase roadmap: 2
-- Stato: tutti i cinque capitoli hanno completato gli step 08-12 e la revisione complessiva del modulo agli step 13-14. Resta l'audit specialistico automatico dello step 15; nessun capitolo è ancora congelato o pubblicabile.
+- Stato: tutti i cinque capitoli hanno completato gli step 08-12, la revisione complessiva degli step 13-14 e l'audit specialistico automatico dello step 15. Il testo è congelato allo step 16.
 
 ## Confine editoriale
 Il modulo non sostituisce il libro principale. Parte dal nucleo comune del Metodo BANDO e aggiunge profili, prove, materie specialistiche, rischi, fonti e casi tipici della famiglia.
@@ -45,11 +45,11 @@ Non deve promettere copertura totale di ogni bando o aggiornamento normativo aut
 ## Capitoli di lavoro
 - [[books/moduli/m-sa01-sanita-amministrativa/planning/00-piano-editoriale|Piano editoriale del modulo]]
 - [[books/moduli/m-sa01-sanita-amministrativa/planning/09-bibbia-del-modulo|Bibbia editoriale del modulo]]
-- [[books/moduli/m-sa01-sanita-amministrativa/chapters/04-atti-procedimenti-flussi-informativi|Capitolo 04 — Atti, procedimenti e flussi informativi nelle aziende sanitarie]] — ciclo editoriale 08-12 completato; audit dello step 15 da eseguire; non congelato né pubblicabile.
-- [[books/moduli/m-sa01-sanita-amministrativa/chapters/05-documentazione-accesso-conservazione|Capitolo 05 — Documentazione sanitaria, accesso, privacy e conservazione]] — ciclo editoriale 08-12 completo; audit dello step 15 da eseguire; non congelato né pubblicabile.
-- [[books/moduli/m-sa01-sanita-amministrativa/chapters/06-front-office-comunicazione-utenza|Capitolo 06 — Front-office e comunicazione con l'utenza sanitaria]] — ciclo editoriale 08-12 completo; audit dello step 15 da eseguire; non congelato né pubblicabile.
-- [[books/moduli/m-sa01-sanita-amministrativa/chapters/09-contabilita-budget-controllo-gestione|Capitolo 09 — Contabilità, budget e controllo di gestione nelle aziende sanitarie]] — ciclo editoriale 08-12 completo; audit dello step 15 da eseguire; non congelato né pubblicabile.
-- [[books/moduli/m-sa01-sanita-amministrativa/chapters/10-procurement-farmaci-dispositivi-magazzino|Capitolo 10 — Procurement sanitario, farmaci, dispositivi e magazzino]] — ciclo editoriale 08-12 completo; audit dello step 15 da eseguire; non congelato né pubblicabile.
+- [[books/moduli/m-sa01-sanita-amministrativa/chapters/04-atti-procedimenti-flussi-informativi|Capitolo 04 — Atti, procedimenti e flussi informativi nelle aziende sanitarie]] — audit specialistico concluso; testo congelato.
+- [[books/moduli/m-sa01-sanita-amministrativa/chapters/05-documentazione-accesso-conservazione|Capitolo 05 — Documentazione sanitaria, accesso, privacy e conservazione]] — audit specialistico concluso; testo congelato.
+- [[books/moduli/m-sa01-sanita-amministrativa/chapters/06-front-office-comunicazione-utenza|Capitolo 06 — Front-office e comunicazione con l'utenza sanitaria]] — audit specialistico concluso; testo congelato.
+- [[books/moduli/m-sa01-sanita-amministrativa/chapters/09-contabilita-budget-controllo-gestione|Capitolo 09 — Contabilità, budget e controllo di gestione nelle aziende sanitarie]] — audit specialistico concluso; testo congelato.
+- [[books/moduli/m-sa01-sanita-amministrativa/chapters/10-procurement-farmaci-dispositivi-magazzino|Capitolo 10 — Procurement sanitario, farmaci, dispositivi e magazzino]] — audit specialistico concluso; testo congelato.
 
 ## Collegamento al VOL-07
 - Volume: [[books/volumi/vol-07-sanita-amministrativa-professioni-sanitarie/index]]
@@ -71,5 +71,5 @@ Non deve promettere copertura totale di ogni bando o aggiornamento normativo aut
 - [[books/volumi/vol-07-sanita-amministrativa-professioni-sanitarie/planning/03-mappa-fonti-specialistiche]]
 - Bandi, norme e portali ufficiali sono registrati nei rispettivi manifest; manuali o banche dati aggiuntivi entrano solo dopo schedatura.
 
-## Prossimo passo
-Predisporre il pacchetto dello step 15 e affidare le verifiche normativa, privacy/documentale, contabile e procurement a revisori umani identificati. Il congelamento editoriale resta successivo ai loro esiti.
+## Regola successiva al freeze
+M-SA01 è in text freeze. Ogni modifica sostanziale a teoria, fonti, casi, dati operativi, quiz, struttura o perimetro riapre i gate 10-15. La sola conferma umana resta quella finale dello step 24.

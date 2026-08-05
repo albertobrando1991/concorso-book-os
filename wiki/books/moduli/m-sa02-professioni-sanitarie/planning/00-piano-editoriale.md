@@ -2,20 +2,20 @@
 id: chapter-m-sa02-professioni-sanitarie-piano-editoriale
 type: editorial_plan
 title: "Piano editoriale — M-SA02 Professioni sanitarie"
-status: revised_draft
+status: text_frozen
 domain: "concorsi pubblici italiani"
 topics: ["moduli specialistici","sanita","metodo bando"]
 entities: ["Metodo BANDO"]
 source_refs: ["sources/metodo-bando-progetto-editoriale.md","sources/struttura-madre-il-metodo-bando.md","sources/vol-07-dossier-fonti-materie-sanita-2026-07-28","sources/bandi-rappresentativi-m-sa02-professioni-sanitarie-2025-2026.md","sources/bandi-rappresentativi-oss-2025-2026.md","sources/profili-professionali-infermiere-ostetrica-fisioterapista-tpall.md","sources/profilo-oss-dpcm-25-marzo-2025.md","sources/metodo-evidenze-sistema-nazionale-linee-guida-iss.md","sources/iss-snlg-gravidanza-fisiologica-2023-2026.md","sources/sicurezza-travaglio-parto-morte-materna-ministero.md","sources/sicurezza-terapia-triage-assistenza-infermieristica-ministero.md","sources/riabilitazione-fisioterapia-iss-ministero.md","sources/epidemiologia-base-iss.md","sources/sorveglianza-passi-protocollo-operativo-iss.md","sources/programmi-screening-oncologici-dati-passi-iss.md","sources/premal-definizioni-caso-risposta-segnale-epidemiologico.md","sources/sicurezza-cure-ica-sorveglianza-epidemiologica-prevenzione.md","sources/tpall-controlli-ufficiali-e-sicurezza-campionamento-ambientale.md","sources/tpall-aia-campionamenti-acque-aria-suolo-rifiuti-alimenti.md","sources/lesioni-da-pressione-linea-guida-snlg-protocolli-regionali.md","sources/deterioramento-clinico-news2-sepsi-regioni.md","sources/als-adulto-erc-irc-2025.md","sources/assistenza-generale-oss-pasto-mobilizzazione-eliminazione.md","sources/puerperio-neonato-supporto-vitale-oms-irc-iss.md","sources/emergenze-ostetriche-eclampsia-sepsi-tromboembolia-itoss.md","sources/emergenze-ostetriche-distocia-spalla-prolasso-funicolo-protocolli-italiani.md","sources/ausili-trasferimento-oss-manuali-dispositivo-veneto-2026.md"]
 book_refs: ["m-sa02-professioni-sanitarie","il-metodo-bando","vol-07-sanita-amministrativa-professioni-sanitarie"]
 confidence: 0.84
-updated_at: 2026-08-01T00:00:30+02:00
+updated_at: 2026-08-04T00:00:00+02:00
 created_at: 2026-06-27T19:56:28+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["editorial-plan","specialist-module-plan","module-code-m-sa02"]
 book_id: m-sa02-professioni-sanitarie
-draft_stage: revised-editorial-draft
+draft_stage: text-frozen
 module_code: M-SA02
 module_family: sanita
 last_compiled_from: ["wiki/books/moduli/architettura-moduli-specialistici.md","wiki/books/moduli/m-sa02-professioni-sanitarie/index.md"]
@@ -81,7 +81,7 @@ Scienze infermieristiche; tecniche assistenziali; clinica generale ed emergenza;
 - [[sources/emergenze-ostetriche-distocia-spalla-prolasso-funicolo-protocolli-italiani|Distocia di spalla e prolasso di funicolo: campioni regionali, aziendali e formazione 2026]].
 - [[reviews/pipeline/VOL-07/06-audit-fonti-m-sa02|Audit completo delle fonti M-SA02]].
 - Profili, ordinamento, responsabilità, consenso, deontologia, SNLG, sicurezza/ICA e corpus TPALL sono schedati in `wiki/sources/`.
-- Il perimetro di scrittura è source-ready per contenuti teorici, casi ragionati e applicazioni non esecutive. Procedure aziendali, dispositivi reali, protocolli del setting, metodi applicabili al singolo caso e prove pratiche restano oggetto dell'audit specialistico automatico dello step 15.
+- Il perimetro di scrittura è source-ready per contenuti teorici, casi ragionati e applicazioni non esecutive. Procedure aziendali, dispositivi reali, protocolli del setting, metodi applicabili al singolo caso e prove pratiche sono stati verificati dall'audit specialistico automatico dello step 15 entro i limiti editoriali dichiarati.
 
 ## Testo editoriale
-I capitoli 01 e 03-10 hanno completato il ciclo della fase C, dagli step 08-12. Il capitolo 10 sviluppa il metodo trasversale per la prova pratica e i casi di infermiere, OSS, ostetrica, fisioterapista e TPALL. Tutti i target dichiarati per M-SA02 sono quindi completati. Le aree assistenziale, ostetrico-neonatale, riabilitativa, epidemiologico-metodologica e TPALL sono checklist dell'audit automatico dello step 15 prima del congelamento editoriale.
+I capitoli 01 e 03-10 hanno completato il ciclo della fase C, dagli step 08-12. Il capitolo 10 sviluppa il metodo trasversale per la prova pratica e i casi di infermiere, OSS, ostetrica, fisioterapista e TPALL. Tutti i target dichiarati per M-SA02 sono completati; le aree assistenziale, ostetrico-neonatale, riabilitativa, epidemiologico-metodologica e TPALL sono state chiuse dall'audit automatico dello step 15. Il modulo è congelato allo step 16.

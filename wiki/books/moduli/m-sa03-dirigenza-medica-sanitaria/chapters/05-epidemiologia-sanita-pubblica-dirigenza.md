@@ -9,9 +9,9 @@ entities: ["Istituto Superiore di Sanità", "Ministero della Salute", "Azienda s
 source_refs: ["sources/epidemiologia-base-iss", "sources/sorveglianza-passi-protocollo-operativo-iss", "sources/programmi-screening-oncologici-dati-passi-iss", "sources/premal-definizioni-caso-risposta-segnale-epidemiologico", "sources/sicurezza-cure-ica-sorveglianza-epidemiologica-prevenzione"]
 book_refs: ["m-sa03-dirigenza-medica-sanitaria", "vol-07-sanita-amministrativa-professioni-sanitarie"]
 confidence: 0.9
-updated_at: 2026-07-31T00:00:00+02:00
+updated_at: 2026-08-04T12:00:00+02:00
 created_at: 2026-07-31T00:00:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "m-sa03", "chapter-05", "epidemiologia", "sanita-pubblica"]
 book_id: m-sa03-dirigenza-medica-sanitaria
@@ -19,7 +19,7 @@ module_code: M-SA03
 module_family: sanita
 outline_section: 5
 chapter_number: "05"
-draft_stage: professional-draft
+draft_stage: specialist-audit-complete
 last_compiled_from: ["wiki/reviews/pipeline/VOL-07/08-piano-capitolo-m-sa03-05.md", "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/planning/02-matrice-copertura-didattica.md", "wiki/sources/epidemiologia-base-iss.md", "wiki/sources/sorveglianza-passi-protocollo-operativo-iss.md", "wiki/sources/programmi-screening-oncologici-dati-passi-iss.md", "wiki/sources/premal-definizioni-caso-risposta-segnale-epidemiologico.md", "wiki/sources/sicurezza-cure-ica-sorveglianza-epidemiologica-prevenzione.md"]
 ---
 

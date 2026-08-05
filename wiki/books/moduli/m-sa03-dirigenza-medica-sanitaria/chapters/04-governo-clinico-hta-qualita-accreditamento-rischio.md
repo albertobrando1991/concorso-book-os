@@ -9,9 +9,9 @@ entities: ["Agenzia nazionale per i servizi sanitari regionali", "Ministero dell
 source_refs: ["sources/governo-clinico-appropriatezza-hta-qualita-accreditamento", "sources/sicurezza-cure-responsabilita-consenso-leggi-24-219", "sources/sicurezza-cure-ica-sorveglianza-epidemiologica-prevenzione", "sources/metodo-evidenze-sistema-nazionale-linee-guida-iss", "sources/ssn-organizzazione-aziende-standard-lea", "sources/presa-in-carico-cronicita-pdta-territorio-agenas"]
 book_refs: ["m-sa03-dirigenza-medica-sanitaria", "vol-07-sanita-amministrativa-professioni-sanitarie"]
 confidence: 0.9
-updated_at: 2026-07-31T00:00:00+02:00
+updated_at: 2026-08-04T12:00:00+02:00
 created_at: 2026-07-31T00:00:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "m-sa03", "chapter-04", "governo-clinico", "hta", "rischio-clinico"]
 book_id: m-sa03-dirigenza-medica-sanitaria
@@ -19,7 +19,7 @@ module_code: M-SA03
 module_family: sanita
 outline_section: 4
 chapter_number: "04"
-draft_stage: professional-draft
+draft_stage: specialist-audit-complete
 last_compiled_from: ["wiki/reviews/pipeline/VOL-07/08-piano-capitolo-m-sa03-04.md", "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/planning/02-matrice-copertura-didattica.md", "wiki/sources/governo-clinico-appropriatezza-hta-qualita-accreditamento.md", "wiki/sources/sicurezza-cure-responsabilita-consenso-leggi-24-219.md", "wiki/sources/sicurezza-cure-ica-sorveglianza-epidemiologica-prevenzione.md", "wiki/sources/metodo-evidenze-sistema-nazionale-linee-guida-iss.md", "wiki/sources/ssn-organizzazione-aziende-standard-lea.md", "wiki/sources/presa-in-carico-cronicita-pdta-territorio-agenas.md"]
 ---
 

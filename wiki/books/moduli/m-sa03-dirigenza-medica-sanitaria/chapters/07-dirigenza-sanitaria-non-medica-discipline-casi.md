@@ -9,9 +9,9 @@ entities: ["Servizio sanitario nazionale", "Azienda sanitaria", "FNOB", "FOFI", 
 source_refs: ["sources/dirigenza-sanitaria-concorsi-ccnl-2026", "sources/bandi-rappresentativi-m-sa03-dirigenza-medica-sanitaria-2026", "sources/deontologia-biologo-farmacista-psicologo-2026", "sources/qualita-biosicurezza-laboratorio-tslb", "sources/procurement-farmaci-dispositivi-flussi-nsis", "sources/sicurezza-terapia-triage-assistenza-infermieristica-ministero", "sources/governo-clinico-appropriatezza-hta-qualita-accreditamento"]
 book_refs: ["m-sa03-dirigenza-medica-sanitaria", "vol-07-sanita-amministrativa-professioni-sanitarie"]
 confidence: 0.88
-updated_at: 2026-07-31T00:00:00+02:00
+updated_at: 2026-08-04T12:00:00+02:00
 created_at: 2026-07-31T00:00:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "m-sa03", "chapter-07", "dirigenza-sanitaria", "biologo", "farmacista", "psicologo"]
 book_id: m-sa03-dirigenza-medica-sanitaria
@@ -19,7 +19,7 @@ module_code: M-SA03
 module_family: sanita
 outline_section: 7
 chapter_number: "07"
-draft_stage: professional-draft
+draft_stage: specialist-audit-complete
 last_compiled_from: ["wiki/reviews/pipeline/VOL-07/08-piano-capitolo-m-sa03-07.md", "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/planning/02-matrice-copertura-didattica.md", "wiki/books/volumi/vol-07-sanita-amministrativa-professioni-sanitarie/planning/04-bibbia-del-volume.md", "wiki/sources/dirigenza-sanitaria-concorsi-ccnl-2026.md", "wiki/sources/bandi-rappresentativi-m-sa03-dirigenza-medica-sanitaria-2026.md", "wiki/sources/deontologia-biologo-farmacista-psicologo-2026.md", "wiki/sources/qualita-biosicurezza-laboratorio-tslb.md", "wiki/sources/procurement-farmaci-dispositivi-flussi-nsis.md", "wiki/sources/sicurezza-terapia-triage-assistenza-infermieristica-ministero.md", "wiki/sources/governo-clinico-appropriatezza-hta-qualita-accreditamento.md"]
 ---
 
@@ -189,7 +189,7 @@ La risposta dirigenziale termina con una verifica: quale risultato ci aspettiamo
 
 ### Come trattare gli altri profili
 
-Il D.P.R. 483/1997 contempla anche altri profili, tra cui veterinario e fisico, oltre alle articolazioni previste dalla disciplina. Per questi profili non esiste un programma residuale valido per tutti. Si riapplica il metodo: identificare articolo e bando pertinenti, ricostruire requisiti e prova, selezionare fonti tecniche e deontologiche proprie, costruire casi del setting e prevedere il controllo di uno specialista. Le lacune non si colmano trasferendo esempi di biologia, farmacia o psicologia.
+Il D.P.R. 483/1997 contempla anche altri profili, tra cui veterinario e fisico, oltre alle articolazioni previste dalla disciplina. Per questi profili non esiste un programma residuale valido per tutti. Si riapplica il metodo: identificare articolo e bando pertinenti, ricostruire requisiti e prova, selezionare fonti tecniche e deontologiche proprie e costruire casi del setting. Ogni nuovo verticale sostanziale riapre i gate di copertura, Humanizer e revisione. Le lacune non si colmano trasferendo esempi di biologia, farmacia o psicologia.
 
 ## Tre casi, tre lenti professionali
 
@@ -281,7 +281,7 @@ Poi controlla:
 - ho indicato comunicazione e documentazione;
 - ho scelto un indicatore con denominatore e periodo;
 - ho allenato separatamente scritto, pratica illustrata e orale;
-- ho previsto la verifica specialistica della disciplina.
+- ho verificato le fonti specialistiche vigenti pertinenti alla disciplina.
 
 ### Riferimenti normativi e professionali essenziali
 
@@ -296,4 +296,4 @@ Poi controlla:
 - Agenzia Italiana del Farmaco, OsMed, per monitoraggio di consumi e spesa farmaceutica.
 - Ministero della Salute, raccomandazioni sulla sicurezza della terapia, nella versione applicabile.
 
-**Limite e cut-off (31 luglio 2026):** requisiti, equipollenze, discipline, codici, prove, metodi, test, linee guida e procedure possono cambiare. Prima della prova verifica gli atti ufficiali indicati dal bando e le fonti professionali vigenti. I contenuti verticali richiedono revisione indipendente di biologo, farmacista e psicologo.
+**Limite e cut-off (31 luglio 2026):** requisiti, equipollenze, discipline, codici, prove, metodi, test, linee guida e procedure possono cambiare. Prima della prova verifica gli atti ufficiali indicati dal bando e le fonti professionali vigenti. L'audit dello step 15 conferma il metodo non esecutivo e le fonti citate; l'aggiunta di protocolli tecnici o claim professionali sostanziali riapre i gate di copertura, Humanizer e revisione.

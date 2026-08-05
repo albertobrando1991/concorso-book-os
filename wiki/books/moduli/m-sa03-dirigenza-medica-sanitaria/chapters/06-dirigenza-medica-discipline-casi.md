@@ -9,9 +9,9 @@ entities: ["Istituto Superiore di Sanità", "Sistema Nazionale Linee Guida", "Az
 source_refs: ["sources/bandi-rappresentativi-m-sa03-dirigenza-medica-sanitaria-2026", "sources/metodo-evidenze-sistema-nazionale-linee-guida-iss", "sources/governo-clinico-appropriatezza-hta-qualita-accreditamento", "sources/sicurezza-cure-responsabilita-consenso-leggi-24-219"]
 book_refs: ["m-sa03-dirigenza-medica-sanitaria", "vol-07-sanita-amministrativa-professioni-sanitarie"]
 confidence: 0.88
-updated_at: 2026-07-31T00:00:00+02:00
+updated_at: 2026-08-04T12:00:00+02:00
 created_at: 2026-07-31T00:00:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "m-sa03", "chapter-06", "dirigenza-medica", "casi"]
 book_id: m-sa03-dirigenza-medica-sanitaria
@@ -19,7 +19,7 @@ module_code: M-SA03
 module_family: sanita
 outline_section: 6
 chapter_number: "06"
-draft_stage: professional-draft
+draft_stage: specialist-audit-complete
 last_compiled_from: ["wiki/reviews/pipeline/VOL-07/08-piano-capitolo-m-sa03-06.md", "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/planning/02-matrice-copertura-didattica.md", "wiki/sources/bandi-rappresentativi-m-sa03-dirigenza-medica-sanitaria-2026.md", "wiki/sources/metodo-evidenze-sistema-nazionale-linee-guida-iss.md", "wiki/sources/governo-clinico-appropriatezza-hta-qualita-accreditamento.md", "wiki/sources/sicurezza-cure-responsabilita-consenso-leggi-24-219.md"]
 ---
 
@@ -168,4 +168,4 @@ Riprendi il caso guidato e scrivi sette frasi, una per ciascun blocco del caso s
 - Legge 8 marzo 2017, n. 24, e legge 22 dicembre 2017, n. 219, nei testi vigenti, per sicurezza delle cure, responsabilità professionale e decisione informata.
 - Linea guida, protocollo e documenti della disciplina e del setting identificati nel caso.
 
-**Limite e cut-off (31 luglio 2026):** requisiti, prove, linee guida, protocolli e contenuti clinici variano per disciplina e bando. Questo capitolo insegna il metodo di risposta; la preparazione specialistica richiede fonti verticali aggiornate e review clinica indipendente.
+**Limite e cut-off (31 luglio 2026):** requisiti, prove, linee guida, protocolli e contenuti clinici variano per disciplina e bando. Questo capitolo insegna il metodo di risposta; la preparazione specialistica richiede fonti verticali aggiornate per la disciplina considerata. Ogni nuovo claim clinico sostanziale riapre i gate di copertura, Humanizer e revisione.

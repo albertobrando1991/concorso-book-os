@@ -23,9 +23,9 @@ book_refs:
   - "vol-07-sanita-amministrativa-professioni-sanitarie"
   - "il-metodo-bando"
 confidence: 0.9
-updated_at: 2026-07-30
+updated_at: 2026-08-04
 created_at: 2026-07-30
-review_required: true
+review_required: false
 canonical: true
 tags:
   - "book-chapter"
@@ -36,7 +36,7 @@ tags:
   - "utenza-sanitaria"
 book_id: m-sa01-sanita-amministrativa
 outline_section: 6
-draft_stage: first-complete-draft
+draft_stage: specialist-audit-complete
 module_code: M-SA01
 module_family: sanita
 last_compiled_from: ["wiki/reviews/pipeline/VOL-07/08-piano-capitolo-m-sa01-06.md", "wiki/books/moduli/m-sa01-sanita-amministrativa/planning/02-matrice-copertura-didattica.md", "wiki/sources/legge-7-giugno-2000-n-150-comunicazione-pubblica-urp.md", "wiki/sources/bandi-rappresentativi-m-sa01-sanita-amministrativa-2025-2026.md", "wiki/sources/documentazione-sanitaria-accesso-fse-dossier-privacy.md", "wiki/sources/framework-competenze-trasversali-pa-dm-28-giugno-2023.md", "wiki/sources/capitolo-17-18-corpus-casi-pratici-quesiti-situazionali-2026-05-30.md", "wiki/sources/pa-digitale-cad-identita-documenti-servizi-dati.md", "wiki/sources/agid-piano-triennale-informatica-pa-2024-2026-aggiornamento-2026.md", "wiki/sources/regolamento-ue-2016-679-gdpr-protezione-dati-personali.md", "wiki/sources/d-lgs-30-giugno-2003-n-196-codice-privacy-e-d-lgs-101-2018-adeguamento-gdpr.md"]

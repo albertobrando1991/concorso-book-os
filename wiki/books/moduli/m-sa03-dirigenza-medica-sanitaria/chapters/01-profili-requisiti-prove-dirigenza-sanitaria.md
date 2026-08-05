@@ -9,9 +9,9 @@ entities: ["Servizio sanitario nazionale", "Azienda sanitaria", "inPA", "ARAN"]
 source_refs: ["sources/bandi-rappresentativi-m-sa03-dirigenza-medica-sanitaria-2026", "sources/dirigenza-sanitaria-concorsi-ccnl-2026", "sources/template-bando-decoder-metodo-bando", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994"]
 book_refs: ["m-sa03-dirigenza-medica-sanitaria", "vol-07-sanita-amministrativa-professioni-sanitarie", "il-metodo-bando"]
 confidence: 0.92
-updated_at: 2026-08-01T12:30:00+02:00
+updated_at: 2026-08-04T12:00:00+02:00
 created_at: 2026-07-31T00:00:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "m-sa03", "chapter-01", "profili", "requisiti", "prove"]
 book_id: m-sa03-dirigenza-medica-sanitaria
@@ -19,7 +19,7 @@ module_code: M-SA03
 module_family: sanita
 outline_section: 1
 chapter_number: "01"
-draft_stage: professional-draft
+draft_stage: specialist-audit-complete
 last_compiled_from: ["wiki/reviews/pipeline/VOL-07/08-piano-capitolo-m-sa03-01.md", "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/planning/02-matrice-copertura-didattica.md", "wiki/books/volumi/vol-07-sanita-amministrativa-professioni-sanitarie/planning/04-bibbia-del-volume.md", "wiki/sources/bandi-rappresentativi-m-sa03-dirigenza-medica-sanitaria-2026.md", "wiki/sources/dirigenza-sanitaria-concorsi-ccnl-2026.md", "wiki/sources/template-bando-decoder-metodo-bando.md", "wiki/sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md"]
 ---
 

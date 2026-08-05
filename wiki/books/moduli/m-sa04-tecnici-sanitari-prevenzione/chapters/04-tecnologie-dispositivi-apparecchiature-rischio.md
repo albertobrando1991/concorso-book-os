@@ -9,16 +9,16 @@ entities: ["Ministero della Salute", "AGENAS", "TSLB", "TSRM", "Unione europea"]
 source_refs: ["sources/dispositivi-medici-ivd-vigilanza-rischio-tecnologico-2026", "sources/profili-professionali-tslb-tsrm-dm-745-746", "sources/governo-clinico-appropriatezza-hta-qualita-accreditamento", "sources/sicurezza-cure-responsabilita-consenso-leggi-24-219"]
 book_refs: ["m-sa04-tecnici-sanitari-prevenzione", "vol-07-sanita-amministrativa-professioni-sanitarie", "il-metodo-bando"]
 confidence: 0.94
-updated_at: 2026-08-01T11:00:00+02:00
+updated_at: 2026-08-04T13:00:00+02:00
 created_at: 2026-08-01T11:00:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "m-sa04", "chapter-04", "medical-devices", "ivd", "vigilance", "hta", "technology-risk"]
 book_id: m-sa04-tecnici-sanitari-prevenzione
 module_code: M-SA04
 outline_section: 4
 chapter_number: "04"
-draft_stage: revised_draft
+draft_stage: specialist-audit-complete
 last_compiled_from: ["wiki/reviews/pipeline/VOL-07/08-piano-capitolo-m-sa04-04.md", "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/planning/02-matrice-copertura-didattica.md", "wiki/books/volumi/vol-07-sanita-amministrativa-professioni-sanitarie/planning/04-bibbia-del-volume.md", "wiki/sources/dispositivi-medici-ivd-vigilanza-rischio-tecnologico-2026.md", "wiki/sources/profili-professionali-tslb-tsrm-dm-745-746.md", "wiki/sources/governo-clinico-appropriatezza-hta-qualita-accreditamento.md", "wiki/sources/sicurezza-cure-responsabilita-consenso-leggi-24-219.md"]
 ---
 
@@ -430,4 +430,4 @@ Prima della prova, controlla:
 - Legge 8 marzo 2017, n. 24, sicurezza delle cure e responsabilità professionale.
 - AGENAS, Programma nazionale HTA dispositivi medici 2026-2028.
 
-Il quadro è verificato al 1° agosto 2026. Versioni consolidate dei regolamenti, disposizioni transitorie, moduli, canali di segnalazione, software, manuali, contratti, frequenze di controllo e procedure locali possono cambiare. Queste pagine preparano il ragionamento concorsuale; non sostituiscono istruzioni del fabbricante, formazione, procedura aziendale, valutazione di ingegneria clinica, controllo specialistico, decisione clinica o review professionale.
+Il quadro è verificato al 1° agosto 2026. Versioni consolidate dei regolamenti, disposizioni transitorie, moduli, canali di segnalazione, software, manuali, contratti, frequenze di controllo e procedure locali possono cambiare. Queste pagine preparano il ragionamento concorsuale; non sostituiscono istruzioni del fabbricante, formazione, procedura aziendale, valutazione di ingegneria clinica, controllo specialistico o decisione clinica. Il capitolo è stato verificato nello step 15 entro questo perimetro non esecutivo; ogni nuovo protocollo, parametro o claim tecnico sostanziale riapre i gate di copertura, Humanizer e revisione.

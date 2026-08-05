@@ -74,7 +74,7 @@ Il nucleo sanitario condiviso comprende:
 | M-SA02 | Infermieri, OSS e altre professioni sanitarie | scienze infermieristiche, tecniche assistenziali, clinica generale ed emergenza, prevenzione, evidenze, igiene, discipline professionali |
 | M-SA01 | Collaboratori e assistenti amministrativi, profili gestionali | atti aziendali, documentazione e front-office, contabilità economico-patrimoniale, budget, procurement, farmaci, dispositivi e flussi |
 | M-SA03 | Dirigenti medici e sanitari non medici | disciplina specialistica, appropriatezza, clinical governance, programmazione, epidemiologia, HTA, qualità, rischio clinico |
-| M-SA04 | TSLB, TSRM e tecnici della prevenzione | laboratorio, biosicurezza, radiologia, dosimetria, radioprotezione, apparecchiature, tecnologie biomedicali e rischio tecnologico |
+| M-SA04 | TSLB e TSRM | laboratorio, biosicurezza, radiologia, dosimetria, radioprotezione, apparecchiature, tecnologie biomedicali e rischio tecnologico |
 
 ## Rinvii al VOL-01
 

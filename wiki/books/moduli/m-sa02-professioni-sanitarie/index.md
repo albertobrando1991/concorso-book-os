@@ -2,14 +2,14 @@
 id: m-sa02-professioni-sanitarie
 type: specialist_module
 title: "M-SA02 — Professioni sanitarie"
-status: revised_draft
+status: text_frozen
 domain: "concorsi pubblici italiani"
 topics: ["moduli specialistici","sanita","metodo bando"]
 entities: ["Metodo BANDO","Capitale Personale","inPA","Azienda sanitaria"]
 source_refs: ["sources/metodo-bando-progetto-editoriale.md","sources/struttura-madre-il-metodo-bando.md","sources/vol-07-dossier-fonti-materie-sanita-2026-07-28","sources/bandi-rappresentativi-m-sa02-professioni-sanitarie-2025-2026.md","sources/bandi-rappresentativi-oss-2025-2026.md","sources/profili-professionali-infermiere-ostetrica-fisioterapista-tpall.md","sources/codici-deontologici-infermiere-ostetrica-fisioterapista-tpall.md","sources/profilo-oss-dpcm-25-marzo-2025.md","sources/metodo-evidenze-sistema-nazionale-linee-guida-iss.md","sources/iss-snlg-gravidanza-fisiologica-2023-2026.md","sources/sicurezza-travaglio-parto-morte-materna-ministero.md","sources/sicurezza-terapia-triage-assistenza-infermieristica-ministero.md","sources/riabilitazione-fisioterapia-iss-ministero.md","sources/epidemiologia-base-iss.md","sources/sorveglianza-passi-protocollo-operativo-iss.md","sources/programmi-screening-oncologici-dati-passi-iss.md","sources/premal-definizioni-caso-risposta-segnale-epidemiologico.md","sources/sicurezza-cure-ica-sorveglianza-epidemiologica-prevenzione.md","sources/tpall-controlli-ufficiali-e-sicurezza-campionamento-ambientale.md","sources/tpall-aia-campionamenti-acque-aria-suolo-rifiuti-alimenti.md","sources/lesioni-da-pressione-linea-guida-snlg-protocolli-regionali.md","sources/deterioramento-clinico-news2-sepsi-regioni.md","sources/als-adulto-erc-irc-2025.md","sources/assistenza-generale-oss-pasto-mobilizzazione-eliminazione.md","sources/puerperio-neonato-supporto-vitale-oms-irc-iss.md","sources/emergenze-ostetriche-eclampsia-sepsi-tromboembolia-itoss.md","sources/emergenze-ostetriche-distocia-spalla-prolasso-funicolo-protocolli-italiani.md","sources/ausili-trasferimento-oss-manuali-dispositivo-veneto-2026.md"]
 book_refs: ["il-metodo-bando","moduli-specialistici","vol-07-sanita-amministrativa-professioni-sanitarie"]
 confidence: 0.84
-updated_at: 2026-08-01T00:00:30+02:00
+updated_at: 2026-08-04T00:00:00+02:00
 created_at: 2026-06-27T19:56:28+02:00
 review_required: false
 canonical: true
@@ -18,10 +18,10 @@ book_id: m-sa02-professioni-sanitarie
 module_code: M-SA02
 module_family: sanita
 module_family_title: "Sanità"
-module_status: phase-c-complete
+module_status: text-frozen
 roadmap_phase: "1"
 companion_to: il-metodo-bando
-draft_stage: revised-editorial-draft
+draft_stage: text-frozen
 last_compiled_from: ["wiki/books/moduli/architettura-moduli-specialistici.md"]
 ---
 
@@ -33,9 +33,9 @@ Modulo specialistico collegato a [[books/il-metodo-bando/index|Il Metodo BANDO]]
 ## Perimetro
 - Famiglia: Sanità
 - Codice modulo: M-SA02
-- Copertura di lavoro: infermieri, ostetriche, fisioterapisti, TPALL e un sub-verticale OSS distinto. Il cluster di sei bandi OSS conferma il perimetro; procedure e stazioni restano non esecutive finché non superano l'audit automatico dello step 15.
+- Copertura di lavoro: infermieri, ostetriche, fisioterapisti, TPALL e un sub-verticale OSS distinto. Il cluster di sei bandi OSS conferma il perimetro; procedure e stazioni restano non esecutive e sono state verificate dall'audit specialistico automatico dello step 15 nel perimetro editoriale dichiarato.
 - Fase roadmap: 1
-- Stato: tutti i nove capitoli, 01 e 03-10, hanno completato gli step 08-12; la revisione complessiva del modulo agli step 13-14 è completata. Lo step 15 deve ora eseguire l'audit specialistico automatico.
+- Stato: tutti i nove capitoli, 01 e 03-10, hanno completato gli step 08-12; la revisione complessiva degli step 13-14 e l'audit specialistico automatico dello step 15 sono conclusi. Il testo è congelato allo step 16.
 
 ## Confine editoriale
 Il modulo non sostituisce il libro principale. Parte dal nucleo comune del Metodo BANDO e aggiunge profili, prove, materie specialistiche, rischi, fonti e casi tipici della famiglia.
@@ -111,4 +111,4 @@ Non deve promettere copertura totale di ogni bando o aggiornamento normativo aut
 - [[reviews/pipeline/VOL-07/15-moduli-m-sa02-professioni-sanitarie|Audit specialistico automatico conclusivo]]
 
 ## Prossimo passo
-Tutti i capitoli dichiarati, 01 e 03-10, hanno completato gli step 08-12 e il modulo ha completato gli step 13-14. Le cinque aree di competenza sono checklist dell'audit automatico dello step 15. La sola conferma umana resta quella conclusiva dello step 24.
+M-SA02 è in text freeze. Le cinque aree di competenza sono state chiuse dall'audit automatico dello step 15; ogni modifica sostanziale riapre i gate 10-15. La sola conferma umana resta quella conclusiva dello step 24.

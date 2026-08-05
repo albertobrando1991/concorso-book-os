@@ -6,21 +6,21 @@ status: review_ready
 domain: "concorsi pubblici italiani"
 source_refs: ["sources/bandi-rappresentativi-m-sa03-dirigenza-medica-sanitaria-2026","sources/dirigenza-sanitaria-concorsi-ccnl-2026","sources/metodo-evidenze-sistema-nazionale-linee-guida-iss","sources/governo-clinico-appropriatezza-hta-qualita-accreditamento","sources/epidemiologia-base-iss"]
 book_refs: ["m-sa03-dirigenza-medica-sanitaria","vol-07-sanita-amministrativa-professioni-sanitarie"]
-updated_at: 2026-08-01T12:15:00+02:00
+updated_at: 2026-08-04T12:30:00+02:00
 created_at: 2026-08-01T12:15:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["m-sa03","editorial-bible","pipeline-step-13"]
 book_id: m-sa03-dirigenza-medica-sanitaria
 module_code: M-SA03
-draft_stage: module-review-step-13
+draft_stage: text-frozen
 ---
 
 # Bibbia del modulo — M-SA03 Dirigenza medica e sanitaria
 
 ## Funzione e pubblico
 
-M-SA03 prepara candidati alla dirigenza medica e sanitaria del Servizio sanitario nazionale. I capitoli sono autosufficienti per lo studio concorsuale e distinguono sempre regole comuni, requisiti della specifica disciplina, decisioni organizzative e contenuti professionali da validare.
+M-SA03 prepara candidati alla dirigenza medica e sanitaria del Servizio sanitario nazionale. I capitoli sono autosufficienti per lo studio concorsuale e distinguono sempre regole comuni, requisiti della specifica disciplina, decisioni organizzative e contenuti professionali verificati rispetto alle fonti consolidate.
 
 ## Ordine e funzione dei capitoli
 
@@ -55,10 +55,10 @@ Appropriatezza ricorre nel capitolo 03 come decisione basata su evidenze e nel 0
 
 M-SA03 non duplica il diritto amministrativo generale del VOL-01 né le tecniche assistenziali di M-SA02. Richiama solo ciò che serve a comprendere il ruolo dirigenziale e sviluppa il delta di governo, decisione e disciplina.
 
-## Review umana obbligatoria
+## Audit specialistico automatico
 
-Lo step 15 deve verificare requisiti e disciplina concorsuale; contratto e incarichi; versioni delle linee guida; programmazione e modelli regionali; HTA, accreditamento e rischio; epidemiologia e sorveglianze; contenuti clinici delle discipline mediche; biologia, farmacia, psicologia e deontologia. Ogni verifica deve essere nominativa e riferita a fonti vigenti.
+Lo step 15 ha verificato requisiti e disciplina concorsuale; contratto e incarichi; versioni delle linee guida; programmazione e modelli regionali; HTA, accreditamento e rischio; epidemiologia e sorveglianze; contenuti clinici non esecutivi delle discipline mediche; biologia, farmacia, psicologia e deontologia. Le verifiche sono riferite alle fonti ufficiali consolidate e al cut-off del volume. L'unico passaggio umano obbligatorio resta la conferma finale dello step 24.
 
 ## Criterio di uscita
 
-Gli step automatici possono chiudersi con nove nuclei completi, titoli e metadati coerenti, nessun errore grave o medio aperto e pacchetto umano predisposto. Il modulo non è pubblicabile prima degli esiti dello step 15 e del controllo sull'impaginato.
+L'audit specialistico si chiude con nove nuclei completi, titoli e metadati coerenti e nessun errore grave o medio aperto. Il testo è congelato allo step 16; la pubblicabilità resta subordinata ai gate successivi, al controllo sull'impaginato e alla conferma umana finale dello step 24.

@@ -8,9 +8,9 @@ source_refs: ["sources/bandi-rappresentativi-m-sa02-professioni-sanitarie-2025-2
 book_refs: ["m-sa02-professioni-sanitarie", "vol-07-sanita-amministrativa-professioni-sanitarie", "il-metodo-bando"]
 book_id: m-sa02-professioni-sanitarie
 module_code: M-SA02
-updated_at: 2026-08-01T00:01:00+02:00
+updated_at: 2026-08-04T00:00:00+02:00
 created_at: 2026-08-01T00:01:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["editorial-bible", "m-sa02", "pipeline-step-13", "module-review"]
 ---

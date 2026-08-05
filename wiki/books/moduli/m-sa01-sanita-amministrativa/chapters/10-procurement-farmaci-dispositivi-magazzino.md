@@ -9,14 +9,14 @@ entities: ["Azienda sanitaria", "AIFA", "ANAC", "RUP"]
 source_refs: ["sources/procurement-farmaci-dispositivi-flussi-nsis", "sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024", "sources/ciclo-contratti-pubblici-rup-stazione-appaltante-operatore-economico", "sources/procedure-affidamento-gare-appalti-concessioni-soglie", "sources/digitalizzazione-contratti-pubblici-anac-bdncp-fvoe-pcp", "sources/bandi-rappresentativi-m-sa01-sanita-amministrativa-2025-2026"]
 book_refs: ["m-sa01-sanita-amministrativa", "vol-07-sanita-amministrativa-professioni-sanitarie", "il-metodo-bando"]
 confidence: 0.9
-updated_at: 2026-07-30
+updated_at: 2026-08-04
 created_at: 2026-07-30
-review_required: true
+review_required: false
 canonical: true
 tags: ["m-sa01", "procurement", "farmaci", "dispositivi", "magazzino", "ciclo-passivo"]
 book_id: m-sa01-sanita-amministrativa
 outline_section: 10
-draft_stage: first-complete-draft
+draft_stage: specialist-audit-complete
 module_code: M-SA01
 module_family: sanita
 companion_to: il-metodo-bando

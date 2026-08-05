@@ -2,20 +2,20 @@
 id: chapter-m-sa01-sanita-amministrativa-piano-editoriale
 type: editorial_plan
 title: "Piano editoriale — M-SA01 Sanità amministrativa"
-status: revised_draft
+status: text_frozen
 domain: "concorsi pubblici italiani"
 topics: ["moduli specialistici","sanita","metodo bando"]
 entities: ["Metodo BANDO"]
 source_refs: ["sources/metodo-bando-progetto-editoriale.md","sources/struttura-madre-il-metodo-bando.md","sources/vol-07-dossier-fonti-materie-sanita-2026-07-28","sources/bandi-rappresentativi-m-sa01-sanita-amministrativa-2025-2026","sources/ssn-organizzazione-aziende-standard-lea","sources/ccnl-comparto-sanita-2022-2024","sources/documentazione-sanitaria-accesso-fse-dossier-privacy","sources/contabilita-budget-aziende-sanitarie","sources/procurement-farmaci-dispositivi-flussi-nsis"]
 book_refs: ["m-sa01-sanita-amministrativa","il-metodo-bando","vol-07-sanita-amministrativa-professioni-sanitarie"]
 confidence: 0.88
-updated_at: 2026-08-01T12:00:00+02:00
+updated_at: 2026-08-04T00:00:00+02:00
 created_at: 2026-06-27T19:56:28+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["editorial-plan","specialist-module-plan","module-code-m-sa01"]
 book_id: m-sa01-sanita-amministrativa
-draft_stage: module-review-complete
+draft_stage: text-frozen
 module_code: M-SA01
 module_family: sanita
 last_compiled_from: ["wiki/books/moduli/architettura-moduli-specialistici.md","wiki/books/moduli/m-sa01-sanita-amministrativa/index.md","wiki/books/moduli/m-sa01-sanita-amministrativa/planning/02-matrice-copertura-didattica.md","wiki/books/moduli/m-sa01-sanita-amministrativa/planning/09-bibbia-del-modulo.md"]
@@ -67,4 +67,4 @@ Atti e procedimenti aziendali; documentazione, accesso e conservazione; front-of
 
 ## Stato editoriale
 
-I cinque capitoli hanno completato gli step 08-12. La revisione trasversale e le correzioni degli step 13-14 hanno allineato indice, piano e Bibbia del Modulo; non restano errori gravi o medi automatici aperti. Nessun capitolo è ancora congelato o pubblicabile: lo step 15 deve completare l'audit automatico normativo, privacy/documentale, contabile e procurement.
+I cinque capitoli hanno completato gli step 08-12. La revisione trasversale e le correzioni degli step 13-14 hanno allineato indice, piano e Bibbia del Modulo; lo step 15 ha chiuso l'audit automatico normativo, privacy/documentale, contabile e procurement. Non restano errori gravi o medi aperti; il modulo è congelato allo step 16. Ogni modifica sostanziale riapre i gate 10-15.

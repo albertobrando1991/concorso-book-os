@@ -22,9 +22,9 @@ book_refs:
   - "vol-07-sanita-amministrativa-professioni-sanitarie"
   - "il-metodo-bando"
 confidence: 0.9
-updated_at: 2026-07-30
+updated_at: 2026-08-04
 created_at: 2026-07-30
-review_required: true
+review_required: false
 canonical: true
 tags:
   - "book-chapter"
@@ -36,7 +36,7 @@ tags:
   - "conservazione"
 book_id: m-sa01-sanita-amministrativa
 outline_section: 5
-draft_stage: first-complete-draft
+draft_stage: specialist-audit-complete
 module_code: M-SA01
 module_family: sanita
 last_compiled_from: ["wiki/reviews/pipeline/VOL-07/08-piano-capitolo-m-sa01-05.md", "wiki/books/moduli/m-sa01-sanita-amministrativa/planning/02-matrice-copertura-didattica.md", "wiki/sources/documentazione-sanitaria-accesso-fse-dossier-privacy.md", "wiki/sources/bandi-rappresentativi-m-sa01-sanita-amministrativa-2025-2026.md", "wiki/sources/legge-241-1990-procedimento-amministrativo.md", "wiki/sources/d-lgs-14-marzo-2013-n-33-trasparenza.md", "wiki/sources/garante-privacy-trasparenza-pa-accesso-civico-e-dati-personali.md", "wiki/sources/garante-privacy-gdpr-guida-operativa-diritti-sicurezza-dpo.md", "wiki/sources/regolamento-ue-2016-679-gdpr-protezione-dati-personali.md", "wiki/sources/d-lgs-30-giugno-2003-n-196-codice-privacy-e-d-lgs-101-2018-adeguamento-gdpr.md", "wiki/sources/pa-digitale-cad-identita-documenti-servizi-dati.md", "wiki/sources/agid-linee-guida-sulla-formazione-gestione-e-conservazione-dei-documenti-informatici.md", "wiki/sources/d-p-r-28-dicembre-2000-n-445-documentazione-amministrativa.md"]

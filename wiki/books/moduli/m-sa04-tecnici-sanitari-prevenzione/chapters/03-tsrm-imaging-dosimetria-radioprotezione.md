@@ -9,16 +9,16 @@ entities: ["Servizio sanitario nazionale", "Ministero della Salute", "TSRM", "IN
 source_refs: ["sources/radioprotezione-qualita-immagine-apparecchiature-dlgs-101-2020", "sources/profili-professionali-tslb-tsrm-dm-745-746", "sources/bandi-rappresentativi-m-sa04-tslb-tsrm-2025-2026"]
 book_refs: ["m-sa04-tecnici-sanitari-prevenzione", "vol-07-sanita-amministrativa-professioni-sanitarie", "il-metodo-bando"]
 confidence: 0.93
-updated_at: 2026-08-01T12:10:00+02:00
+updated_at: 2026-08-04T13:00:00+02:00
 created_at: 2026-08-01T11:20:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "m-sa04", "chapter-03", "tsrm", "imaging", "dosimetria", "radioprotezione"]
 book_id: m-sa04-tecnici-sanitari-prevenzione
 module_code: M-SA04
 outline_section: 3
 chapter_number: "03"
-draft_stage: revised_draft
+draft_stage: specialist-audit-complete
 last_compiled_from: ["wiki/reviews/pipeline/VOL-07/08-piano-capitolo-m-sa04-03.md", "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/planning/02-matrice-copertura-didattica.md", "wiki/books/volumi/vol-07-sanita-amministrativa-professioni-sanitarie/planning/04-bibbia-del-volume.md", "wiki/sources/radioprotezione-qualita-immagine-apparecchiature-dlgs-101-2020.md", "wiki/sources/profili-professionali-tslb-tsrm-dm-745-746.md", "wiki/sources/bandi-rappresentativi-m-sa04-tslb-tsrm-2025-2026.md"]
 ---
 

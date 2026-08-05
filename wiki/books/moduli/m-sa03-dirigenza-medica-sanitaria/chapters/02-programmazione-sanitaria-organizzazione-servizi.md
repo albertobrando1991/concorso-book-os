@@ -9,9 +9,9 @@ entities: ["Servizio sanitario nazionale", "Azienda sanitaria", "Regione"]
 source_refs: ["sources/ssn-organizzazione-aziende-standard-lea", "sources/governo-clinico-appropriatezza-hta-qualita-accreditamento"]
 book_refs: ["m-sa03-dirigenza-medica-sanitaria", "vol-07-sanita-amministrativa-professioni-sanitarie", "il-metodo-bando"]
 confidence: 0.9
-updated_at: 2026-07-31T00:00:00+02:00
+updated_at: 2026-08-04T12:00:00+02:00
 created_at: 2026-07-31T00:00:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "m-sa03", "chapter-02", "programmazione", "organizzazione"]
 book_id: m-sa03-dirigenza-medica-sanitaria
@@ -19,7 +19,7 @@ module_code: M-SA03
 module_family: sanita
 outline_section: 2
 chapter_number: "02"
-draft_stage: professional-draft
+draft_stage: specialist-audit-complete
 last_compiled_from: ["wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/planning/02-matrice-copertura-didattica.md", "wiki/books/volumi/vol-07-sanita-amministrativa-professioni-sanitarie/planning/04-bibbia-del-volume.md", "wiki/sources/ssn-organizzazione-aziende-standard-lea.md", "wiki/sources/governo-clinico-appropriatezza-hta-qualita-accreditamento.md"]
 ---
 

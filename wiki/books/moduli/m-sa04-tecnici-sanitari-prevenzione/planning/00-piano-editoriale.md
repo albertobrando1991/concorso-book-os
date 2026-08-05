@@ -2,20 +2,20 @@
 id: chapter-m-sa04-tecnici-sanitari-prevenzione-piano-editoriale
 type: editorial_plan
 title: "Piano editoriale — M-SA04 Tecnici sanitari e prevenzione"
-status: revised_draft
+status: text_frozen
 domain: "concorsi pubblici italiani"
 topics: ["moduli specialistici","sanita","metodo bando"]
 entities: ["Metodo BANDO"]
 source_refs: ["sources/metodo-bando-progetto-editoriale.md","sources/struttura-madre-il-metodo-bando.md","sources/vol-07-dossier-fonti-materie-sanita-2026-07-28","sources/bandi-rappresentativi-m-sa04-tslb-tsrm-2025-2026","sources/profili-professionali-tslb-tsrm-dm-745-746","sources/qualita-biosicurezza-laboratorio-tslb","sources/radioprotezione-qualita-immagine-apparecchiature-dlgs-101-2020","sources/dispositivi-medici-ivd-vigilanza-rischio-tecnologico-2026"]
 book_refs: ["m-sa04-tecnici-sanitari-prevenzione","il-metodo-bando","vol-07-sanita-amministrativa-professioni-sanitarie"]
 confidence: 0.88
-updated_at: 2026-08-01T13:00:00+02:00
+updated_at: 2026-08-04T13:30:00+02:00
 created_at: 2026-06-27T19:56:28+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["editorial-plan","specialist-module-plan","module-code-m-sa04"]
 book_id: m-sa04-tecnici-sanitari-prevenzione
-draft_stage: module-review-complete
+draft_stage: text-frozen
 module_code: M-SA04
 module_family: sanita
 last_compiled_from: ["wiki/books/moduli/architettura-moduli-specialistici.md","wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/index.md","wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/planning/02-matrice-copertura-didattica.md","wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/planning/09-bibbia-del-modulo.md"]
@@ -62,4 +62,4 @@ Tecniche di laboratorio; biochimica, microbiologia ed ematologia applicate; bios
 
 ## Stato editoriale
 
-La matrice registra nove nuclei completi. I quattro capitoli hanno concluso gli step 08-12; revisione trasversale e correzioni degli step 13-14 hanno allineato metadati, indice, piano e Bibbia. Resta obbligatorio l'audit specialistico automatico dello step 15; il modulo non è ancora congelato né pubblicabile.
+La matrice registra nove nuclei completi. I quattro capitoli hanno concluso gli step 08-15; l'audit specialistico automatico ha verificato profili, processi, qualità, biosicurezza, imaging, radioprotezione, dispositivi e rischio tecnologico senza lasciare errori gravi o medi aperti. Il modulo è congelato allo step 16; ogni modifica sostanziale riapre i gate 10-15.

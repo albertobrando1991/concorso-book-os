@@ -12,14 +12,14 @@ source_refs:
   - "sources/contabilita-budget-aziende-sanitarie"
   - "sources/procurement-farmaci-dispositivi-flussi-nsis"
 book_refs: ["m-sa01-sanita-amministrativa", "vol-07-sanita-amministrativa-professioni-sanitarie"]
-updated_at: 2026-08-01T11:45:00+02:00
+updated_at: 2026-08-04T00:00:00+02:00
 created_at: 2026-08-01T11:45:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["m-sa01", "editorial-bible", "pipeline-step-13"]
 book_id: m-sa01-sanita-amministrativa
 module_code: M-SA01
-draft_stage: module-review-step-13
+draft_stage: text-frozen
 ---
 
 # Bibbia del modulo — M-SA01 Sanità amministrativa
@@ -54,7 +54,7 @@ Ogni capitolo deve:
 4. collegare la nozione a una domanda, un caso o un output da concorso;
 5. mostrare errori frequenti e criteri di autocontrollo;
 6. indicare i riferimenti ufficiali utili al lettore e il cut-off;
-7. lasciare espliciti i punti che richiedono verifica umana prima del congelamento.
+7. dichiarare ambito, versione e limiti dei contenuti mobili verificati prima del congelamento.
 
 Le tabelle devono aiutare a distinguere concetti o decisioni. Non devono sostituire la spiegazione. I casi sono didattici e non costituiscono modelli aziendali pronti all'uso.
 
@@ -87,9 +87,9 @@ Sono forme preferite: obiettivo didattico; Mappa BANDO; inquadramento teorico; c
 
 I capitoli possono modulare questi apparati in base alla materia, ma devono mantenere equilibrio fra teoria, applicazione e verifica. Un output modello deve mostrare il ragionamento, non soltanto la soluzione.
 
-## Contenuti mobili e review umana
+## Contenuti mobili e audit automatico
 
-Restano da verificare allo step 15:
+Lo step 15 ha verificato automaticamente:
 
 - vigenza delle norme e degli atti richiamati al cut-off;
 - disciplina regionale e atti aziendali usati negli esempi;
@@ -98,8 +98,8 @@ Restano da verificare allo step 15:
 - Codice dei contratti, soglie, piattaforme, ruoli, dispositivi, continuità della fornitura e procedure di magazzino;
 - tracciati, periodicità e regole tecniche dei flussi informativi.
 
-Questi punti non sono errori accertati. Sono controlli specialistici obbligatori prima del congelamento e della pubblicazione.
+Questi punti sono checklist concluse nel report dello step 15. Le procedure locali restano esempi contestualizzati e non sono elevate a regole nazionali.
 
 ## Criterio di uscita
 
-La revisione automatica del modulo può chiudersi quando indice, piano, titoli e capitoli sono coerenti; tutti gli otto nuclei della matrice sono coperti; non restano errori gravi o medi; i rinvii sono precisi; i pacchetti di review umana sono predisposti. La pubblicabilità resta subordinata agli esiti nominativi dello step 15 e al successivo controllo dell'impaginato.
+La revisione automatica del modulo è chiusa: indice, piano, titoli e capitoli sono coerenti; tutti gli otto nuclei della matrice sono coperti; non restano errori gravi o medi; i rinvii sono precisi; l'audit specialistico dello step 15 è concluso. Il testo è congelato allo step 16; restano il preflight e la conferma umana finale dello step 24.

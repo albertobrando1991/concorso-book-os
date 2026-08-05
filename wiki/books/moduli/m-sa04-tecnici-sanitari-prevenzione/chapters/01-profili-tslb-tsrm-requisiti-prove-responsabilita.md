@@ -9,16 +9,16 @@ entities: ["Servizio sanitario nazionale", "Ministero della Salute", "TSLB", "TS
 source_refs: ["sources/profili-professionali-tslb-tsrm-dm-745-746", "sources/ordinamento-professioni-sanitarie-leggi-42-251-43-3", "sources/bandi-rappresentativi-m-sa04-tslb-tsrm-2025-2026", "sources/dpr-220-2001-concorsi-personale-non-dirigenziale-ssn"]
 book_refs: ["m-sa04-tecnici-sanitari-prevenzione", "vol-07-sanita-amministrativa-professioni-sanitarie", "il-metodo-bando"]
 confidence: 0.93
-updated_at: 2026-07-31T18:20:00+02:00
+updated_at: 2026-08-04T13:00:00+02:00
 created_at: 2026-07-31T18:20:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "m-sa04", "chapter-01", "tslb", "tsrm", "prove"]
 book_id: m-sa04-tecnici-sanitari-prevenzione
 module_code: M-SA04
 outline_section: 1
 chapter_number: "01"
-draft_stage: revised_draft
+draft_stage: specialist-audit-complete
 last_compiled_from: ["wiki/reviews/pipeline/VOL-07/08-piano-capitolo-m-sa04-01.md", "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/planning/02-matrice-copertura-didattica.md", "wiki/books/volumi/vol-07-sanita-amministrativa-professioni-sanitarie/planning/04-bibbia-del-volume.md", "wiki/sources/profili-professionali-tslb-tsrm-dm-745-746.md", "wiki/sources/ordinamento-professioni-sanitarie-leggi-42-251-43-3.md", "wiki/sources/bandi-rappresentativi-m-sa04-tslb-tsrm-2025-2026.md", "wiki/sources/dpr-220-2001-concorsi-personale-non-dirigenziale-ssn.md"]
 ---
 

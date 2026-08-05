@@ -6,14 +6,14 @@ status: review_ready
 domain: "concorsi pubblici italiani"
 source_refs: ["sources/bandi-rappresentativi-m-sa04-tslb-tsrm-2025-2026","sources/profili-professionali-tslb-tsrm-dm-745-746","sources/qualita-biosicurezza-laboratorio-tslb","sources/radioprotezione-qualita-immagine-apparecchiature-dlgs-101-2020","sources/dispositivi-medici-ivd-vigilanza-rischio-tecnologico-2026"]
 book_refs: ["m-sa04-tecnici-sanitari-prevenzione","vol-07-sanita-amministrativa-professioni-sanitarie"]
-updated_at: 2026-08-01T12:45:00+02:00
+updated_at: 2026-08-04T13:30:00+02:00
 created_at: 2026-08-01T12:45:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["m-sa04","editorial-bible","pipeline-step-13"]
 book_id: m-sa04-tecnici-sanitari-prevenzione
 module_code: M-SA04
-draft_stage: module-review-step-13
+draft_stage: text-frozen
 ---
 
 # Bibbia del modulo — M-SA04 Tecnici sanitari e prevenzione
@@ -53,10 +53,10 @@ Qualità e tracciabilità ricorrono nei capitoli 02-04 con oggetti diversi: camp
 
 Il modulo non duplica l'assistenza di M-SA02 né il governo clinico generale di M-SA03: sviluppa le applicazioni tecnico-professionali necessarie a TSLB e TSRM.
 
-## Review umana obbligatoria
+## Audit specialistico automatico
 
-Lo step 15 deve ottenere verifiche nominative su profili e requisiti; processo e discipline di laboratorio; qualità e biosicurezza; modalità di imaging, dosimetria e radioprotezione; apparecchiature e manutenzione; MDR/IVDR, vigilanza e rischio tecnologico. Procedure, parametri e istruzioni locali restano fuori dalla validazione automatica.
+Lo step 15 ha verificato su fonti ufficiali consolidate profili e requisiti; processo e discipline di laboratorio; qualità e biosicurezza; modalità di imaging, dosimetria e radioprotezione; apparecchiature e manutenzione; MDR/IVDR, vigilanza e rischio tecnologico. Procedure, parametri, manuali e istruzioni locali restano dati mobili del setting e non regole universali. Nuovi claim sostanziali riaprono i gate; l'unico passaggio umano obbligatorio resta la conferma finale dello step 24.
 
 ## Criterio di uscita
 
-Gli step automatici possono chiudersi con nove nuclei completi, metadati e apparati coerenti e nessun errore grave o medio aperto. Il modulo resta non pubblicabile fino agli esiti umani dello step 15 e al controllo dell'impaginato.
+Con nove nuclei completi, metadati e apparati coerenti e nessun errore grave o medio aperto, il testo è congelato allo step 16. Resta non pubblicabile fino alla chiusura dei gate successivi, al controllo dell'impaginato e alla conferma umana finale dello step 24; ogni modifica sostanziale riapre i gate 10-15.

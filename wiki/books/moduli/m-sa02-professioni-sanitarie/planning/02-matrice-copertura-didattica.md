@@ -2,7 +2,7 @@
 id: m-sa02-matrice-copertura-didattica
 type: planning
 title: "M-SA02 - Matrice di copertura didattica"
-status: ready_for_writing
+status: complete
 domain: "concorsi pubblici italiani"
 source_refs:
   - "sources/bandi-rappresentativi-m-sa02-professioni-sanitarie-2025-2026"
@@ -43,16 +43,16 @@ source_refs:
   - "sources/territorio-cot-continuita-pdta-persona-fragile-toscana"
   - "sources/tpall-emissioni-convogliate-bat-ael-metodi-snpa-arpa"
 book_refs: ["m-sa02-professioni-sanitarie", "vol-07-sanita-amministrativa-professioni-sanitarie"]
-updated_at: 2026-08-01T00:00:20+02:00
+updated_at: 2026-08-04T00:00:00+02:00
 created_at: 2026-07-28T22:20:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["m-sa02", "coverage-map", "didattica", "pipeline-step-07"]
 ---
 
 # M-SA02 - Matrice di copertura didattica
 
-La matrice registra la readiness per la scrittura dopo i lotti dello step 07. `Completo` significa che fonti consolidate, teoria, applicazione non esecutiva, output e verifica sono progettati per il capitolo; non equivale a testo congelato o pubblicabile. Lo step 15 esegue l'audit specialistico automatico e chiude ogni rilievo prima del text freeze. L'unico passaggio umano è la conferma finale dello step 24.
+La matrice registra la copertura consolidata del modulo: tutte le 15 righe hanno fonti, teoria, applicazione non esecutiva, output e verifica. Lo step 15 ha chiuso l'audit specialistico automatico e lo step 16 congela il testo. L'unico passaggio umano è la conferma finale dello step 24.
 
 | Famiglia/profilo | Materia | Concetto/sotto-concetti | Frequenza/peso | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa | Destinazione rinvio | Note |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -95,7 +95,7 @@ Le sette righe seguenti sostituiscono la precedente riga aggregata `Clinica gene
 
 - 15 righe di copertura registrate: 8 righe legacy complete e 7 nuclei v2 del capitolo 05.
 - 15 `completo`; le sette righe v2 dispongono di verifica strutturata e checklist dimensionale.
-- Il nucleo trasversale sulla prova pratica è sviluppato nel capitolo 10 e verificato nello [[reviews/pipeline/VOL-07/10-controllo-copertura-m-sa02-10|step 10]]; procedure del setting e casi sono ricontrollati dall'audit automatico dello step 15.
+- Il nucleo trasversale sulla prova pratica è sviluppato nel capitolo 10 e verificato nello [[reviews/pipeline/VOL-07/10-controllo-copertura-m-sa02-10|step 10]]; procedure del setting e casi sono stati ricontrollati e chiusi dall'audit automatico dello step 15.
 - 0 `parziale`.
 - 0 `solo-nominato`.
 - 0 `rinviato`.
@@ -126,4 +126,4 @@ Le sette righe seguenti sostituiscono la precedente riga aggregata `Clinica gene
 
 ## Regola di uscita
 
-Lo step 07 supera il gate solo se ogni riga dispone di fonti, teoria, applicazione non esecutiva e verifica. Gli audit indicati sono eseguiti automaticamente allo step 15 e devono chiudere ogni rilievo prima del congelamento. La conferma umana interviene soltanto allo step 24 sul pacchetto già completo.
+Lo step 07 ha superato il gate con fonti, teoria, applicazione non esecutiva e verifica per ogni riga. Gli audit indicati sono stati eseguiti e chiusi automaticamente allo step 15 prima del congelamento. La conferma umana interviene soltanto allo step 24 sul pacchetto già completo.
