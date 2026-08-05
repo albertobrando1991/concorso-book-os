@@ -35,6 +35,18 @@ export interface CompleteStepInput {
   now: string
 }
 
+export interface ReopenStepsInput {
+  startKeys: string[]
+  cascade: boolean
+  note: string
+  now: string
+}
+
+export interface ReopenStepsResult {
+  state: RunState
+  reopenedKeys: string[]
+}
+
 export function stepKey(id: string, target: string) {
   return target ? `${id}:${target}` : id
 }
@@ -93,6 +105,72 @@ export function completeStep(state: RunState, key: string, input: CompleteStepIn
     },
     input.now
   )
+}
+
+export function reopenSteps(state: RunState, input: ReopenStepsInput): ReopenStepsResult {
+  if (input.startKeys.length === 0) {
+    throw new Error("Indica almeno uno step da riaprire.")
+  }
+
+  if (!input.note.trim()) {
+    throw new Error("La nota di riapertura non può essere vuota.")
+  }
+
+  const selectedIndexes = new Set(
+    input.startKeys.map((key) => {
+      const index = state.steps.findIndex((step) => step.key === key)
+
+      if (index < 0) {
+        throw new Error(`Step ${key} assente dal run-state di ${state.volumeCode}.`)
+      }
+
+      return index
+    })
+  )
+  const earliestIndex = Math.min(...selectedIndexes)
+  const humanReviewIndex = state.steps.findIndex((step) => step.id === "24")
+  const cascadeEnd = humanReviewIndex >= 0 ? humanReviewIndex : state.steps.length
+  const reopenedIndexes = input.cascade
+    ? new Set(state.steps.flatMap((_, index) => (index >= earliestIndex && index < cascadeEnd ? [index] : [])))
+    : selectedIndexes
+
+  if (!input.cascade) {
+    const terminalDownstream = state.steps.find(
+      (step, index) => index > earliestIndex && index < cascadeEnd && !reopenedIndexes.has(index) && isTerminal(step.status)
+    )
+
+    if (terminalDownstream) {
+      throw new Error(`Lo step ${terminalDownstream.id} è già terminale a valle: usa la riapertura con cascade.`)
+    }
+  }
+
+  return {
+    state: {
+      ...state,
+      updatedAt: input.now,
+      steps: state.steps.map((step, index) =>
+        reopenedIndexes.has(index) || step.id === "24"
+          ? pendingStep(step, selectedIndexes.has(index) ? input.note : undefined)
+          : step
+      )
+    },
+    reopenedKeys: state.steps.filter((_, index) => reopenedIndexes.has(index)).map((step) => step.key)
+  }
+}
+
+function pendingStep(step: StepRecord, note?: string): StepRecord {
+  return {
+    ...step,
+    status: "pending",
+    attempts: 0,
+    gate: undefined,
+    owner: undefined,
+    agent: undefined,
+    provider: undefined,
+    startedAt: undefined,
+    finishedAt: undefined,
+    evidence: note ? [...step.evidence, `reopen: ${note}`] : step.evidence
+  }
 }
 
 export function markStep(state: RunState, key: string, status: StepStatus, now: string): RunState {

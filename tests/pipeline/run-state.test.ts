@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest"
-import { completeStep, createRunState, mergeRunStates, nextStep, startStep, stepKey } from "../../src/pipeline/state/run-state"
+import { completeStep, createRunState, mergeRunStates, nextStep, reopenSteps, startStep, stepKey } from "../../src/pipeline/state/run-state"
 import type { RunState, StepRecord } from "../../src/pipeline/state/types"
 
 const now = "2026-07-27T15:08:27.185Z"
@@ -158,5 +158,86 @@ describe("mergeRunStates", () => {
   })
   it("refuses to merge run states of different volumes", () => {
     expect(() => mergeRunStates(base(), base(), { ...base(), volumeCode: "VOL-09" })).toThrow(/VOL-09/)
+  })
+})
+
+describe("reopenSteps", () => {
+  const retrofitDoneState = (): RunState => {
+    const steps = [
+      ...["08", "09", "10", "11", "12"].map((id) => ({ ...draft(id, "moduli/m-tr01/chapters/01.md"), target: "moduli/m-tr01/chapters/01.md" })),
+      ...["13", "14", "15", "16"].map((id) => ({ ...draft(id, "moduli/m-tr01"), phase: "D", scope: "module" as const })),
+      ...["17", "18", "19", "20", "21", "22", "23", "24"].map((id) => ({ ...draft(id, ""), phase: "F", scope: "volume" as const }))
+    ]
+    const initial = createRunState({
+      volumeCode: "VOL-08",
+      specPath: "wiki/books/volumi/vol-08/planning/00-scheda-pipeline.md",
+      specHash: "sha256:retrofit",
+      steps,
+      now
+    })
+
+    return {
+      ...initial,
+      steps: initial.steps.map((step) =>
+        step.id === "24"
+          ? step
+          : {
+              ...step,
+              status: "done" as const,
+              attempts: 1,
+              evidence: ["completion.json"],
+              owner: "collega",
+              agent: "codex-cli",
+              provider: "codex",
+              startedAt: now,
+              finishedAt: later,
+              gate: { passed: true, blockers: [], warnings: [] }
+            }
+      )
+    }
+  }
+
+  it("reopens the selected completed step and every downstream step without mutating the input", () => {
+    const doneState = retrofitDoneState()
+    const original = structuredClone(doneState)
+
+    const result = reopenSteps(doneState, {
+      startKeys: ["08:moduli/m-tr01/chapters/01.md"],
+      cascade: true,
+      note: "Retrofit formato 2 autorizzato",
+      now: later
+    })
+
+    expect(result.reopenedKeys).toEqual(doneState.steps.slice(0, -1).map((step) => step.key))
+    expect(result.state.steps.at(-1)?.id).toBe("24")
+    expect(result.state.steps.at(-1)?.status).toBe("pending")
+    expect(result.state.steps[0]).toMatchObject({ status: "pending", attempts: 0 })
+    expect(result.state.steps[0].owner).toBeUndefined()
+    expect(result.state.steps[0].evidence).toContain("reopen: Retrofit formato 2 autorizzato")
+    expect(doneState).toEqual(original)
+  })
+
+  it("rejects an unknown starting key without mutating the input", () => {
+    const doneState = retrofitDoneState()
+    const original = structuredClone(doneState)
+
+    expect(() => reopenSteps(doneState, { startKeys: ["99:missing.md"], cascade: true, note: "Ripartenza autorizzata", now: later })).toThrow(/99|assente|non esiste/i)
+    expect(doneState).toEqual(original)
+  })
+
+  it("requires a non-empty reopening note", () => {
+    const doneState = retrofitDoneState()
+    const original = structuredClone(doneState)
+
+    expect(() => reopenSteps(doneState, { startKeys: ["08:moduli/m-tr01/chapters/01.md"], cascade: true, note: "   ", now: later })).toThrow(/nota/i)
+    expect(doneState).toEqual(original)
+  })
+
+  it("refuses a non-cascade reopening when a downstream dependant is terminal", () => {
+    const doneState = retrofitDoneState()
+    const original = structuredClone(doneState)
+
+    expect(() => reopenSteps(doneState, { startKeys: ["08:moduli/m-tr01/chapters/01.md"], cascade: false, note: "Ripartenza autorizzata", now: later })).toThrow(/cascade|a valle|dipend/i)
+    expect(doneState).toEqual(original)
   })
 })
