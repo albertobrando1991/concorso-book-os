@@ -13,6 +13,7 @@ import {
   type TextVolume
 } from "../../catalog/text-volumes"
 import { buildEditorialPlan, type BookStudioEditorialPlan } from "./editorial-plan"
+import { getPreviewBlockMetadata } from "./book-preview-block-metadata"
 
 export { ricettarioModuleLabel } from "./book-studio-labels"
 
@@ -1368,10 +1369,10 @@ function splitTextIntoPreviewChunks(text: string, targetWords: number) {
 }
 
 function estimateTableBlockCost(block: MarkdownBlock) {
-  const headerCost = block.continued ? 0 : 24
+  const { tableHeaderCost } = getPreviewBlockMetadata(block)
   const rowCost = 22
 
-  return headerCost + (block.rows?.length || 0) * rowCost + 8
+  return tableHeaderCost + (block.rows?.length || 0) * rowCost + 8
 }
 
 function parseCallout(lines: string[]): MarkdownBlock {

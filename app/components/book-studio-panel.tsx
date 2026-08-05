@@ -13,6 +13,7 @@ import {
 } from "lucide-react"
 import type { ManualWriterMode, RevisionDiffSummary } from "@/src/server/agents/manual-writer-agent"
 import type { BookStudioChapter, BookStudioData, MarkdownBlock } from "@/src/server/book/book-preview"
+import { getPreviewBlockMetadata } from "@/src/server/book/book-preview-block-metadata"
 import { ricettarioModuleLabel } from "@/src/server/book/book-studio-labels"
 import type { WriterProvider } from "@/src/server/config"
 import {
@@ -21,6 +22,7 @@ import {
   reconcileBookStudioRefreshPayloadState
 } from "./book-studio-state"
 import { reconcileIndexPageNumbers } from "./book-studio-index-pages"
+import { BookStudioPreviewTable } from "./book-studio-preview-table"
 import { EditorialPlanPanel } from "./editorial-plan-panel"
 
 interface BookStudioPanelProps {
@@ -967,23 +969,29 @@ function bookPageSideClass(pageNumber: number) {
 }
 
 function PreviewBlock({ block, bookId }: { block: MarkdownBlock; bookId?: string }) {
+  const metadata = getPreviewBlockMetadata(block)
+  const auditAttributes = {
+    "data-block-type": metadata.blockType,
+    "data-block-continued": metadata.continued ? "true" : undefined
+  }
+
   if (block.type === "heading") {
     const headingText = block.number ? `${block.number} ${block.text}` : block.text
     const headingClassName = block.verification ? "verificationHeading" : undefined
 
     if ((block.level || 2) <= 2) {
-      return <h3 className={headingClassName} data-nucleus-id={block.nucleusId || undefined}>{headingText}</h3>
+      return <h3 {...auditAttributes} className={headingClassName} data-nucleus-id={block.nucleusId || undefined}>{headingText}</h3>
     }
     if (block.level === 3) {
-      return <h4 className={headingClassName} data-nucleus-id={block.nucleusId || undefined}>{headingText}</h4>
+      return <h4 {...auditAttributes} className={headingClassName} data-nucleus-id={block.nucleusId || undefined}>{headingText}</h4>
     }
 
-    return <h5 className={headingClassName} data-nucleus-id={block.nucleusId || undefined}>{headingText}</h5>
+    return <h5 {...auditAttributes} className={headingClassName} data-nucleus-id={block.nucleusId || undefined}>{headingText}</h5>
   }
 
   if (block.type === "index-part") {
     return (
-      <div className="indexPart">
+      <div {...auditAttributes} className="indexPart">
         {block.number ? <span>{block.number}</span> : null}
         <strong>{block.text}</strong>
       </div>
@@ -1002,14 +1010,14 @@ function PreviewBlock({ block, bookId }: { block: MarkdownBlock; bookId?: string
 
     if (bookId && block.path) {
       return (
-        <a className="indexLine indexChapterLine" href={chapterStudioHref(bookId, block.path)}>
+        <a {...auditAttributes} className="indexLine indexChapterLine" href={chapterStudioHref(bookId, block.path)}>
           {content}
         </a>
       )
     }
 
     return (
-      <div className="indexLine indexChapterLine">
+      <div {...auditAttributes} className="indexLine indexChapterLine">
         {content}
       </div>
     )
@@ -1018,6 +1026,7 @@ function PreviewBlock({ block, bookId }: { block: MarkdownBlock; bookId?: string
   if (block.type === "index-row") {
     return (
       <div
+        {...auditAttributes}
         className="indexLine indexSubLine"
         data-nucleus-id={block.nucleusId || undefined}
         data-index-path={block.path || undefined}
@@ -1034,7 +1043,7 @@ function PreviewBlock({ block, bookId }: { block: MarkdownBlock; bookId?: string
     const items = block.items || []
 
     return (
-      <section className="indexEntry">
+      <section {...auditAttributes} className="indexEntry">
         <h4>{block.text}</h4>
         {items.length > 0 ? (
           <div className="indexEntryTopics">
@@ -1050,7 +1059,7 @@ function PreviewBlock({ block, bookId }: { block: MarkdownBlock; bookId?: string
   if (block.type === "list") {
     if (block.ordered) {
       return (
-        <ol start={block.start || 1}>
+        <ol {...auditAttributes} start={block.start || 1}>
           {(block.items || []).map((item, index) => (
             <li key={`${item}-${index}`}>{item}</li>
           ))}
@@ -1059,7 +1068,7 @@ function PreviewBlock({ block, bookId }: { block: MarkdownBlock; bookId?: string
     }
 
     return (
-      <ul>
+      <ul {...auditAttributes}>
         {(block.items || []).map((item, index) => (
           <li key={`${item}-${index}`}>{item}</li>
         ))}
@@ -1070,11 +1079,11 @@ function PreviewBlock({ block, bookId }: { block: MarkdownBlock; bookId?: string
   if (block.type === "image") {
     const src = block.path ? assetUrl(block.path) : ""
     if (!src) {
-      return <p className="missingAsset">Immagine non disponibile: {block.path}</p>
+      return <p {...auditAttributes} className="missingAsset">Immagine non disponibile: {block.path}</p>
     }
 
     return (
-      <figure>
+      <figure {...auditAttributes}>
         <img src={src} alt={block.alt || "Immagine capitolo"} />
         {block.alt ? <figcaption>{block.alt}</figcaption> : null}
       </figure>
@@ -1082,54 +1091,29 @@ function PreviewBlock({ block, bookId }: { block: MarkdownBlock; bookId?: string
   }
 
   if (block.type === "table") {
-    const showHeader = !block.continued
-
-    return (
-      <div className={`previewTableWrap${block.continued ? " continuedTable" : ""}`}>
-        <table className="previewTable">
-          {showHeader ? (
-            <thead>
-              <tr>
-                {(block.headers || []).map((header, index) => (
-                  <th key={`${header}-${index}`}>{header}</th>
-                ))}
-              </tr>
-            </thead>
-          ) : null}
-          <tbody>
-            {(block.rows || []).map((row, rowIndex) => (
-              <tr key={`${row.join("-")}-${rowIndex}`}>
-                {row.map((cell, cellIndex) => (
-                  <td key={`${cell}-${cellIndex}`}>{cell}</td>
-                ))}
-              </tr>
-            ))}
-          </tbody>
-        </table>
-      </div>
-    )
+    return <BookStudioPreviewTable block={block} />
   }
 
   if (block.type === "code") {
-    return <pre>{block.text}</pre>
+    return <pre {...auditAttributes}>{block.text}</pre>
   }
 
   if (block.type === "callout") {
     if (block.calloutType === "caption") {
-      return <p className="previewCaption">{block.text || block.title}</p>
+      return <p {...auditAttributes} className="previewCaption">{block.text || block.title}</p>
     }
 
     const className = `previewCallout ${calloutClassName(block.calloutType)}`
 
     return (
-      <aside className={className}>
+      <aside {...auditAttributes} className={className}>
         {block.title ? <strong>{block.title}</strong> : null}
         {block.text ? <p>{block.text}</p> : null}
       </aside>
     )
   }
 
-  return <p>{block.text}</p>
+  return <p {...auditAttributes}>{block.text}</p>
 }
 
 function BandoPhaseBar({ chapter }: { chapter: BookStudioChapter }) {
@@ -1565,9 +1549,9 @@ function estimateBlockCost(block: MarkdownBlock) {
   }
 
   if (block.type === "table") {
-    const headerCost = block.continued ? 0 : 24
+    const { tableHeaderCost } = getPreviewBlockMetadata(block)
 
-    return headerCost + (block.rows?.length || 0) * 22 + 8
+    return tableHeaderCost + (block.rows?.length || 0) * 22 + 8
   }
 
   if (block.type === "image") return 315
