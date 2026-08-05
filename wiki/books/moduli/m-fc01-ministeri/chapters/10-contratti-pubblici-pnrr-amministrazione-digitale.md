@@ -26,7 +26,7 @@ last_compiled_from: ["wiki/reviews/pipeline/VOL-03/08-moduli-m-fc01-ministeri-ch
 
 # Contratti pubblici, PNRR e amministrazione digitale
 
-Un ministero che acquista un servizio digitale compie una serie di scelte collegate: definisce il bisogno, individua le risorse, prepara gli atti, seleziona l’operatore, controlla la prestazione e conserva le evidenze. Se il progetto è finanziato dal PNRR, si aggiungono vincoli di destinazione, obiettivi, monitoraggio e rendicontazione. Il digitale attraversa l’intero flusso: non è il semplice invio di documenti per posta elettronica.
+Quando un ministero acquista un servizio digitale deve compiere diverse scelte collegate: definisce il bisogno, individua le risorse, prepara gli atti, seleziona l’operatore, controlla la prestazione e conserva le evidenze. Se il progetto è finanziato dal PNRR, si aggiungono vincoli di destinazione, obiettivi, monitoraggio e rendicontazione. Il digitale interessa l’intero flusso e richiede molto più del semplice invio di documenti per posta elettronica.
 
 ## Obiettivi del capitolo
 
@@ -52,7 +52,7 @@ La programmazione ordina i bisogni e li collega a priorità e risorse. La proget
 
 ### Principi e risultato
 
-Il Codice orienta il ciclo attraverso principi, tra cui risultato, fiducia e accesso al mercato. Il risultato non autorizza scorciatoie: richiede che l’amministrazione persegua tempestività e qualità nel rispetto di legalità, trasparenza e concorrenza. La fiducia valorizza responsabilità e iniziativa dei funzionari senza eliminare motivazione e controlli. L’accesso al mercato contrasta chiusure arbitrarie e favorisce la partecipazione degli operatori.
+Il Codice orienta il ciclo attraverso principi, tra cui risultato, fiducia e accesso al mercato. Il risultato non autorizza scorciatoie. L’amministrazione deve perseguire tempestività e qualità nel rispetto di legalità, trasparenza e concorrenza. La fiducia valorizza la responsabilità e l’iniziativa dei funzionari, che restano tenuti a motivare le decisioni e a svolgere i controlli. L’accesso al mercato contrasta chiusure arbitrarie e favorisce la partecipazione degli operatori.
 
 Esempio: un dipartimento deve acquistare assistenza applicativa. Prima di avviare la procedura ricostruisce i sistemi interessati, i livelli di servizio, la durata, i rischi di continuità, il valore stimato e le risorse. Solo dopo individua la procedura applicabile. Partire dal nome del fornitore invertirebbe l’ordine logico.
 
@@ -73,7 +73,7 @@ Programmazione e progettazione collegano bisogno, tempi e risorse. La copertura 
 
 La decisione di contrarre rende visibile il passaggio dall'analisi alla scelta. Il fascicolo deve mostrare quale risultato si persegue, quali elementi essenziali regolano il contratto e perché la procedura individuata è coerente con i presupposti. Una formula generica non sostituisce il ragionamento.
 
-Nella fase esecutiva tornano i criteri fissati all'inizio. Tempi, quantità, qualità e livelli di servizio consentono di verificare la prestazione. Il ciclo è quindi circolare: una buona verifica finale nasce da un fabbisogno preciso. In un caso d'esame conviene partire da bisogno e risultato, quindi trattare programmazione, procedura, esecuzione ed evidenze. Questo ordine evita di ridurre il contratto alla sola gara.
+Nella fase esecutiva tornano i criteri fissati all'inizio. Tempi, quantità, qualità e livelli di servizio consentono di verificare la prestazione. La verifica finale dipende quindi dalla precisione con cui è stato definito il fabbisogno. In un caso d'esame conviene partire da bisogno e risultato, quindi trattare programmazione, procedura, esecuzione ed evidenze. Questo ordine evita di ridurre il contratto alla sola gara.
 
 **Controllo applicativo.** Prima di proporre una procedura, scrivi in una frase il risultato atteso e tre evidenze che ne dimostreranno il raggiungimento. Verifica poi se oggetto, durata e criteri consentono davvero quel controllo. Se la risposta è negativa, l'istruttoria deve tornare alla definizione del bisogno. Questa verifica collega programmazione, contratto ed esecuzione e impedisce di scegliere lo strumento prima di aver chiarito il problema.
 
@@ -105,7 +105,7 @@ Se un servizio prevede risposta entro quattro ore, non basta ricevere la fattura
 
 ### Organizzazione, responsabilità e controllo
 
-Il RUP coordina il progetto, ma opera dentro una struttura. L'ufficio richiedente conosce il bisogno; le competenze tecniche definiscono e verificano la prestazione; gli uffici amministrativi curano gli atti; contabilità e controlli presidiano i rispettivi profili. Nomine e documenti devono chiarire responsabilità e passaggi. Attribuire genericamente tutto al RUP nasconde il contributo degli altri soggetti.
+Il RUP coordina il progetto all'interno di una struttura. L'ufficio richiedente conosce il bisogno; le competenze tecniche definiscono e verificano la prestazione; gli uffici amministrativi curano gli atti; contabilità e controlli presidiano i rispettivi profili. Nomine e documenti devono chiarire responsabilità e passaggi. Attribuire genericamente tutto al RUP nasconde il contributo degli altri soggetti.
 
 Oggetto, requisiti e criteri devono restare proporzionati. Requisiti eccessivi possono limitare la partecipazione; requisiti insufficienti aumentano il rischio che l'operatore non sia capace di eseguire. I criteri devono consentire un confronto su elementi pertinenti e conoscibili. La motivazione collega questi elementi alle caratteristiche concrete dell'acquisto.
 
@@ -118,7 +118,7 @@ Durante l'esecuzione, report, verbali e attestazioni dimostrano ciò che è avve
 
 ### Digitalizzazione sostanziale
 
-La digitalizzazione riguarda l’intero ciclo di vita del contratto: programmazione, affidamento, comunicazioni, pubblicità, verifica dei requisiti, esecuzione e dati. Una procedura non diventa digitale perché i documenti sono PDF. Servono piattaforme e scambi informativi conformi alle regole, dati strutturati, tracciabilità e responsabilità.
+La digitalizzazione riguarda l’intero ciclo di vita del contratto: programmazione, affidamento, comunicazioni, pubblicità, verifica dei requisiti, esecuzione e dati. La presenza di documenti in PDF, da sola, non rende digitale una procedura. Servono piattaforme e scambi informativi conformi alle regole, dati strutturati, tracciabilità e responsabilità.
 
 La Banca dati nazionale dei contratti pubblici (**BDNCP**) è gestita da ANAC e raccoglie dati del ciclo secondo la disciplina vigente. Le piattaforme di approvvigionamento digitale certificate interoperano con l’ecosistema nazionale. La **Piattaforma Contratti Pubblici (PCP)** è uno strumento dell’ecosistema ANAC; non coincide con tutte le piattaforme utilizzate dalle stazioni appaltanti.
 
@@ -139,7 +139,7 @@ Un ufficio completa una procedura sulla piattaforma ma conserva fuori dal fascic
 
 ### Atto, dato e piattaforma
 
-Nel ciclo digitale occorre distinguere l'atto, il dato e la piattaforma. L'atto contiene la decisione e la motivazione. Il dato rappresenta in forma strutturata un elemento della procedura. La piattaforma permette operazioni e scambi secondo regole tecniche. Trasmettere un dato non sostituisce l'atto; caricare un file non completa un'istruttoria mancante.
+Nel ciclo digitale occorre distinguere l'atto, il dato e la piattaforma. L'atto contiene la decisione e la motivazione. Il dato rappresenta in forma strutturata un elemento della procedura. La piattaforma permette operazioni e scambi secondo regole tecniche. La trasmissione del dato presuppone l'atto da cui deriva, mentre il caricamento di un file non rimedia a un'istruttoria incompleta.
 
 L'interoperabilità riduce duplicazioni, ma richiede dati corretti, coerenti e aggiornati. Un errore nell'identificativo o nella fase può propagarsi verso pubblicità, controlli e rendicontazione. L'ufficio verifica le informazioni prima della trasmissione e corregge le anomalie attraverso i canali previsti. La responsabilità sul contenuto resta dell'amministrazione.
 
@@ -156,7 +156,7 @@ La verifica deve essere ripetuta quando il dato cambia: una correzione non docum
 
 ### Dal finanziamento al progetto
 
-Una risorsa PNRR non è denaro genericamente disponibile. È collegata a un intervento, a obiettivi, tempi, regole di ammissibilità e obblighi di monitoraggio e rendicontazione. L’amministrazione titolare e il soggetto attuatore operano secondo la governance e gli atti applicabili alla misura.
+Una risorsa PNRR è destinata a uno specifico intervento ed è soggetta a obiettivi, tempi, regole di ammissibilità e obblighi di monitoraggio e rendicontazione. L’amministrazione titolare e il soggetto attuatore operano secondo la governance e gli atti applicabili alla misura.
 
 Il **CUP** consente di identificare il progetto di investimento pubblico. Se il progetto richiede un contratto, entra in gioco anche il ciclo dell’affidamento e, quando previsto, il CIG. CUP e CIG rispondono quindi a oggetti diversi: progetto e contratto.
 
@@ -181,7 +181,7 @@ Conflitto di interessi, doppio finanziamento, spesa non ammissibile, ritardo e d
 
 Un progetto finanziato deve poter essere ricostruito attraverso atto di finanziamento, identificazione, cronoprogramma, procedure, spese, risultati e controlli. I documenti devono essere coerenti tra loro. Un pagamento formalmente corretto può non essere ammissibile se riguarda una voce estranea al progetto o non rispetta le condizioni della misura.
 
-Milestone e target vanno tradotti in attività verificabili. La milestone indica un traguardo qualitativo o procedurale; il target un risultato quantitativo secondo gli atti applicabili. Il funzionario non può ridefinirli per adattarli all'andamento reale. Il cronoprogramma collega attività, responsabilità e scadenze e permette di rilevare ritardi prima che compromettano il risultato.
+Milestone e target devono corrispondere ad attività verificabili. La milestone indica un traguardo qualitativo o procedurale; il target un risultato quantitativo secondo gli atti applicabili. Il funzionario non può ridefinirli per adattarli all'andamento reale. Il cronoprogramma collega attività, responsabilità e scadenze e permette di rilevare ritardi prima che compromettano il risultato.
 
 Quando emerge uno scostamento, l'ufficio ne documenta causa, impatto e possibile azione correttiva. Aggiorna i sistemi e informa i soggetti competenti secondo le regole del progetto. Spendere l'intero importo non prova da solo il raggiungimento del target.
 
@@ -219,7 +219,7 @@ Classifica le operazioni: accesso del funzionario al servizio, sottoscrizione de
 
 ### Continuità e governo del documento
 
-Un procedimento digitale affidabile conserva il nesso tra autore, documento, registrazione e fascicolo. Provenienza e versioni devono essere verificabili; accessi e modifiche devono lasciare le evidenze richieste. Senza queste condizioni, la velocità del digitale moltiplica copie incoerenti e rende incerta la decisione utilizzata.
+Un procedimento digitale affidabile conserva il nesso tra autore, documento, registrazione e fascicolo. Provenienza e versioni devono essere verificabili; accessi e modifiche devono lasciare le evidenze richieste. In loro assenza, il digitale può moltiplicare copie incoerenti e rendere incerta la versione del documento usata per decidere.
 
 Firma, protocollo e conservazione operano in momenti diversi. La firma collega il sottoscrittore al documento e produce gli effetti previsti per il tipo impiegato. Il protocollo registra il documento nel sistema dell'amministrazione. La conservazione ne mantiene nel tempo autenticità, integrità, leggibilità e reperibilità secondo le regole applicabili. Nessuna attività assorbe automaticamente le altre.
 
@@ -233,8 +233,7 @@ L'interoperabilità consente di acquisire dati da basi autorizzate invece di ric
 
 **Domanda di controllo:** un terzo autorizzato può ricostruire chi ha formato, firmato, registrato, utilizzato e conservato il documento? Se un passaggio non è dimostrabile, il fascicolo digitale richiede un'integrazione o una correzione organizzativa.
 
-La ricostruzione comprende anche i permessi: il documento deve essere disponibile a chi ne ha titolo e protetto da accessi o modifiche non autorizzati.
-Questa verifica tutela la continuità amministrativa e la qualità del servizio.
+La ricostruzione comprende anche i permessi. Il documento deve essere disponibile a chi ne ha titolo e protetto da accessi o modifiche non autorizzati, a tutela della continuità amministrativa e della qualità del servizio.
 
 ## N-FC01-10-06 · Caso integrato e metodo per le prove
 
@@ -250,7 +249,7 @@ Questa verifica tutela la continuità amministrativa e la qualità del servizio.
 
 Un ministero deve acquistare una piattaforma per un progetto PNRR. Il dirigente chiede di avviare subito l’affidamento perché il cronoprogramma è in ritardo. L’ufficio ha il CUP, ma non ha definito livelli di servizio, responsabilità sui dati, modalità di verifica né struttura del fascicolo.
 
-L’urgenza richiede organizzazione, non omissione dell’istruttoria. L’ufficio chiarisce fabbisogno e prestazione, verifica programmazione e risorse, individua RUP e altri ruoli, definisce requisiti e procedura, predispone decisione e documenti. Il contratto entra nel ciclo digitale e acquisisce gli identificativi richiesti. Il fascicolo collega atti, comunicazioni, verifiche ed esecuzione.
+L’urgenza impone di organizzare il lavoro, ma non consente di omettere l’istruttoria. L’ufficio chiarisce fabbisogno e prestazione, verifica programmazione e risorse, individua RUP e altri ruoli, definisce requisiti e procedura, predispone decisione e documenti. Il contratto entra nel ciclo digitale e acquisisce gli identificativi richiesti. Il fascicolo collega atti, comunicazioni, verifiche ed esecuzione.
 
 Sul versante PNRR si collegano progetto, cronoprogramma, milestone, target, ammissibilità e DNSH. I dati alimentano monitoraggio e rendicontazione. Prima del pagamento si controllano prestazione ed evidenze. Nessun sistema informativo sana un atto mancante.
 
@@ -274,7 +273,7 @@ Nel quiz individua la funzione: progetto richiama CUP; contratto richiama CIG; r
 
 La soluzione può essere costruita con sette domande: qual è il bisogno pubblico; quale regola governa l'acquisizione; chi esercita competenza e coordinamento; quali atti richiedono motivazione; quali identificativi, dati e piattaforme intervengono; quali vincoli finanziari devono essere provati; quali controlli chiudono il fascicolo.
 
-La griglia impedisce di concentrarsi su un solo profilo. Parlare soltanto della gara ignora progetto, esecuzione e documento. Elencare sigle senza collegarle agli atti non risolve il problema.
+La griglia evita che la risposta si concentri su un solo profilo. Parlare soltanto della gara ignora progetto, esecuzione e documento. Elencare sigle senza collegarle agli atti non risolve il problema.
 
 | Materia | Domanda tipica | Azione |
 |---|---|---|
@@ -291,8 +290,7 @@ All'orale esponi il ciclo e due distinzioni decisive. Nel quiz associa sigla e f
 
 **Domanda di controllo:** la risposta indica anche che cosa deve fare l'ufficio dopo aver individuato l'errore? Una diagnosi senza atto, responsabile, controllo ed evidenza resta incompleta. Concludi sempre con il passaggio amministrativo conseguente.
 
-Se la traccia non offre un dato necessario, dichiarane la mancanza e indica la verifica da compiere. Non inventare soglie, termini, ruoli o funzioni della piattaforma.
-La motivazione finale deve restare chiara, sintetica e verificabile.
+Se la traccia non offre un dato necessario, dichiarane la mancanza e indica la verifica da compiere. Non inventare soglie, termini, ruoli o funzioni della piattaforma; formula una motivazione finale chiara, sintetica e verificabile.
 
 ## Errore tipico
 
