@@ -29,7 +29,7 @@ last_compiled_from: ["wiki/reviews/pipeline/VOL-03/08-moduli-m-fc01-ministeri-ch
 
 Un ufficio può rispettare una scadenza e tuttavia non migliorare il servizio. Può raggiungere un obiettivo numerico creando nuovi rischi, oppure pubblicare molti dati senza rendere davvero comprensibile l'azione amministrativa. PIAO, performance, prevenzione della corruzione, trasparenza e valore pubblico servono a leggere insieme questi problemi.
 
-Per il candidato non basta ricordare cinque definizioni separate. La prova può chiedere di collegare un obiettivo alle risorse, scegliere un indicatore, riconoscere un rischio, proporre una misura e spiegare come controllarne l'attuazione. Nel lavoro ministeriale queste dimensioni diventano attività, responsabilità, documenti e verifiche.
+Il candidato deve padroneggiare i collegamenti tra le cinque nozioni. La prova può chiedere di associare un obiettivo alle risorse, scegliere un indicatore, riconoscere un rischio, proporre una misura e spiegarne il controllo. Nel lavoro ministeriale queste dimensioni diventano attività, responsabilità, documenti e verifiche.
 
 Il capitolo sviluppa l'applicazione specialistica agli uffici delle amministrazioni centrali. La disciplina generale di trasparenza, accesso civico, protezione dei dati, pubblico impiego e comportamento è trattata nel VOL-01; qui viene richiamata nei punti in cui entra nel ciclo organizzativo.
 
@@ -57,15 +57,15 @@ Al termine dovrai saper:
 
 ## N-FC01-08-01 · Il PIAO come strumento integrato
 
-Il Piano integrato di attività e organizzazione è uno strumento di programmazione e governance. La sua chiave non è la semplice presenza di più sezioni nello stesso documento, ma la coerenza tra ciò che l'amministrazione vuole ottenere, il modo in cui si organizza, le persone e le competenze disponibili, i rischi da presidiare e i risultati da monitorare.
+Il Piano integrato di attività e organizzazione è uno strumento di programmazione e governance. Il Piano integra obiettivi, organizzazione, persone, competenze, rischi e risultati. La qualità dell'integrazione dipende dalla coerenza tra queste dimensioni, non dal fatto che compaiano nello stesso documento.
 
-La disciplina di riferimento comprende il quadro istitutivo del PIAO, il D.P.R. n. 81/2022 sugli adempimenti assorbiti e il D.M. n. 132/2022 sul Piano tipo. Le source note consolidate consentono di spiegare la logica generale; termini, soglie, regimi semplificati e dettagli correnti devono essere verificati sulle fonti vigenti prima della pubblicazione o rispetto al bando concreto.
+La disciplina di riferimento comprende il quadro istitutivo del PIAO, il D.P.R. n. 81/2022 sugli adempimenti assorbiti e il D.M. n. 132/2022 sul Piano tipo. Termini, soglie, regimi semplificati e dettagli applicativi si ricavano dal testo vigente e dal bando concreto.
 
 ### Che cosa integra
 
-Per studiare il PIAO conviene partire dalle relazioni, non da un elenco. Un obiettivo richiede attività; le attività richiedono organizzazione, personale e competenze; l'esecuzione presenta rischi; i risultati devono essere misurati; le informazioni dovute devono essere rese conoscibili nei limiti previsti.
+Lo studio del PIAO parte dalle relazioni tra le sue componenti. Un obiettivo richiede attività; le attività richiedono organizzazione, personale e competenze; l'esecuzione presenta rischi; i risultati devono essere misurati; le informazioni dovute devono essere rese conoscibili nei limiti previsti.
 
-La catena essenziale è questa:
+Il collegamento segue questa sequenza:
 
 1. individuare il bisogno pubblico;
 2. formulare un obiettivo comprensibile;
@@ -83,9 +83,9 @@ L'assorbimento di strumenti di programmazione non elimina gli obblighi sostanzia
 
 Nel quiz, l'alternativa errata usa spesso formule assolute: «il PIAO sostituisce ogni adempimento», «un unico ufficio risponde di tutte le sezioni», «l'integrazione elimina i controlli». La risposta corretta riconosce che il documento coordina dimensioni diverse, mentre competenze, responsabilità e verifiche restano disciplinate dalle fonti applicabili.
 
-### La struttura essenziale del PIAO
+### La struttura del PIAO
 
-Per una risposta concorsuale è più utile ricostruire le domande cui il Piano deve rispondere che memorizzare una sequenza non verificata di rubriche.
+In una risposta concorsuale, le sezioni del Piano vanno ricondotte alle domande organizzative cui rispondono.
 
 | Dimensione | Domanda organizzativa | Esempio di evidenza |
 |---|---|---|
@@ -101,13 +101,15 @@ Queste dimensioni non sono compartimenti stagni. Un fabbisogno formativo può na
 
 L'amministrazione definisce il beneficio perseguito, traduce la direzione in obiettivi misurabili e presidia i rischi che potrebbero compromettere legalità, imparzialità o risultato.
 
-Supponiamo che un Ministero voglia ridurre i tempi di risposta a una categoria di istanze. Contare le pratiche chiuse è un punto di partenza, non la prova completa del valore prodotto. Occorre considerare anche qualità, correttezza, accessibilità, arretrato, reclami e protezione dei dati. Una scorciatoia che accelera il flusso saltando controlli non genera buon andamento.
+Supponiamo che un Ministero voglia ridurre i tempi di risposta a una categoria di istanze. Il numero delle pratiche chiuse misura soltanto una parte del risultato. La valutazione considera anche qualità, correttezza, accessibilità, arretrato, reclami e protezione dei dati. Una scorciatoia che accelera il flusso saltando controlli non genera buon andamento.
 
 ### Organizzazione e capitale umano
 
 Gli obiettivi diventano credibili quando sono collegati a uffici, responsabilità e competenze. Se un processo deve essere digitalizzato, il Piano deve rendere visibile chi governa il flusso, quali competenze mancano, quali attività formative sono necessarie e come verrà controllato l'esito.
 
 Questo raccordo non autorizza a inventare organigrammi standard. La struttura concreta dipende dal Ministero e dagli atti vigenti. Il metodo stabile consiste nel chiedere: quale funzione, quale ufficio, quale competenza, quale fonte, quale risultato?
+
+Nella prova, una sezione del Piano va quindi letta insieme alle altre componenti che ne condizionano l'attuazione. Un obiettivo privo di responsabilità, competenze o indicatori resta incompleto; allo stesso modo, una misura organizzativa acquista senso quando è collegata al risultato da ottenere e al rischio da governare.
 
 ## N-FC01-08-02 · Il ciclo della performance
 
@@ -139,7 +141,7 @@ La performance organizzativa riguarda risultati di amministrazione, struttura o 
 
 Il valore pubblico è il beneficio prodotto dall'amministrazione per cittadini, imprese e collettività, preservando la capacità di generarlo nel tempo. Nel linguaggio operativo sposta la domanda da «abbiamo svolto l'attività?» a «quale miglioramento verificabile abbiamo prodotto e a quali condizioni?».
 
-Non è uno slogan. Richiede una relazione plausibile tra bisogno, risultato, destinatari, indicatori, risorse e rischi. Un servizio più rapido può creare valore; se però diventa meno accessibile o aumenta gli errori, la valutazione cambia.
+Il valore pubblico richiede una relazione verificabile tra bisogno, risultato, destinatari, indicatori, risorse e rischi. Un servizio più rapido può creare valore; se però diventa meno accessibile o aumenta gli errori, la valutazione cambia.
 
 Per ragionare in prova usa quattro controlli:
 
@@ -152,7 +154,7 @@ Per ragionare in prova usa quattro controlli:
 
 La qualità del ciclo dipende anche dal modo in cui l'indicatore orienta i comportamenti. Se si misura soltanto il numero delle pratiche concluse, l'ufficio può essere spinto a privilegiare i fascicoli semplici, rinviare quelli complessi o ridurre controlli necessari. Per evitare questo effetto occorre usare un insieme coerente di misure: quantità prodotta, tempo medio e distribuzione dei tempi, correttezza degli atti, arretrato, reclami, accessibilità e costo delle attività. Non tutti gli indicatori devono avere lo stesso peso, ma ciascuno deve illuminare una parte rilevante dell'obiettivo.
 
-Un target è il livello atteso dell'indicatore entro un periodo determinato. Deve essere realistico ma non puramente conservativo, collegato a una base di partenza e accompagnato dall'indicazione della fonte del dato. Senza baseline non si comprende il miglioramento; senza fonte non si può verificare il risultato; senza frequenza di rilevazione il monitoraggio arriva troppo tardi. In una risposta d'esame conviene quindi descrivere la sequenza completa: obiettivo, indicatore, valore iniziale, target, responsabile, fonte informativa, scadenza e azione correttiva.
+Un target è il livello atteso dell'indicatore entro un periodo determinato. Deve essere realistico ma non puramente conservativo, collegato a una base di partenza e accompagnato dall'indicazione della fonte del dato. Senza baseline non si comprende il miglioramento; senza fonte non si può verificare il risultato; senza frequenza di rilevazione il monitoraggio arriva troppo tardi. In una risposta d'esame vanno indicati obiettivo, indicatore, valore iniziale, target, responsabile, fonte informativa, scadenza e azione correttiva.
 
 La misurazione non coincide con la valutazione. La prima raccoglie e organizza evidenze; la seconda interpreta quelle evidenze rispetto agli obiettivi, al contesto e alle responsabilità. Un dato negativo non prova automaticamente una cattiva gestione: può dipendere da un aumento imprevedibile della domanda o da un mutamento normativo. Allo stesso modo, un dato positivo non basta se è ottenuto sacrificando qualità, imparzialità o tutela dei diritti. Il candidato deve evitare sia l'automatismo numerico sia l'opposto errore di considerare ogni risultato non misurabile.
 
@@ -180,7 +182,7 @@ Le misure possono riguardare organizzazione, trasparenza, formazione, controlli,
 
 ### Responsabilità e monitoraggio
 
-Il monitoraggio non consiste nell'apporre una spunta finale. Serve a capire se la misura è stata attuata e se produce l'effetto atteso. Occorre distinguere attuazione, efficacia, scostamento e correzione.
+Il monitoraggio verifica l'attuazione della misura e l'effetto prodotto. Occorre distinguere attuazione, efficacia, scostamento e correzione.
 
 Una misura troppo onerosa e non proporzionata può bloccare il processo; una misura puramente formale non lo protegge. La risposta professionale cerca un presidio coerente, tracciabile e verificabile.
 
@@ -194,13 +196,13 @@ Per un ufficio ministeriale occorre verificare obbligo o richiesta applicabile, 
 
 ### Dalla mappatura del processo alla misura sostenibile
 
-La gestione del rischio comincia dalla conoscenza del processo reale. Occorre individuare fasi, decisioni, soggetti, informazioni utilizzate, punti di discrezionalità, controlli esistenti e possibili anomalie. Una descrizione troppo generica, come «rischio di corruzione negli acquisti», non consente di scegliere una risposta efficace. È più utile osservare dove si forma il fabbisogno, chi definisce i requisiti, come vengono gestiti i contatti con gli operatori, chi controlla l'esecuzione e quali dati permettono di rilevare scostamenti.
+La gestione del rischio richiede una ricostruzione del processo reale: fasi, decisioni, soggetti, informazioni utilizzate, punti di discrezionalità, controlli esistenti e possibili anomalie. Una descrizione troppo generica, come «rischio di corruzione negli acquisti», non consente di scegliere una risposta efficace. L'analisi osserva dove si forma il fabbisogno, chi definisce i requisiti, come vengono gestiti i contatti con gli operatori, chi controlla l'esecuzione e quali dati permettono di rilevare scostamenti.
 
-La valutazione combina probabilità e impatto con un giudizio motivato basato sul contesto. Non è un esercizio aritmetico autosufficiente. Il livello di rischio serve a stabilire priorità e intensità del presidio, non a formulare accuse nei confronti delle persone. Per questo l'analisi deve distinguere il rischio inerente, cioè presente prima delle misure, dal rischio residuo che rimane dopo i controlli. Anche un rischio residuo accettabile va monitorato, perché organizzazione, personale, tecnologia e quadro normativo possono cambiare.
+La valutazione combina probabilità e impatto con un giudizio motivato basato sul contesto. Non è un esercizio aritmetico autosufficiente. Il livello di rischio serve a stabilire priorità e intensità del presidio, non a formulare accuse nei confronti delle persone. L'analisi distingue il rischio inerente, presente prima delle misure, dal rischio residuo che rimane dopo i controlli. Anche un rischio residuo accettabile va monitorato, perché organizzazione, personale, tecnologia e quadro normativo possono cambiare.
 
 Una misura è adeguata quando affronta la causa o il punto vulnerabile, ha un responsabile, una scadenza, risorse compatibili e un indicatore di attuazione. Rotazione, segregazione delle funzioni, tracciabilità, formazione, controlli a campione e trasparenza non sono formule intercambiabili. La scelta dipende dal processo e deve rispettare proporzionalità e sostenibilità. Una misura impossibile da applicare resta simbolica; una misura eccessiva può rallentare il servizio senza ridurre davvero il rischio.
 
-Il monitoraggio verifica due aspetti diversi: se la misura è stata attuata e se sta producendo l'effetto atteso. Registrare che una checklist è stata adottata prova l'attuazione, non l'efficacia. Per valutare l'effetto si possono osservare anomalie, rilavorazioni, concentrazione delle decisioni, tempi, segnalazioni o esiti dei controlli. Se le evidenze mostrano che il presidio non funziona, il PIAO deve consentire una correzione motivata. In sede orale questa sequenza — processo, rischio, misura, responsabile, indicatore, monitoraggio — offre una risposta più solida di un elenco di adempimenti.
+Il monitoraggio verifica due aspetti diversi: se la misura è stata attuata e se sta producendo l'effetto atteso. Registrare che una checklist è stata adottata prova l'attuazione, non l'efficacia. Per valutare l'effetto si possono osservare anomalie, rilavorazioni, concentrazione delle decisioni, tempi, segnalazioni o esiti dei controlli. Se le evidenze mostrano che il presidio non funziona, il PIAO deve consentire una correzione motivata. In sede orale la sequenza processo, rischio, misura, responsabile, indicatore e monitoraggio permette di motivare la risposta.
 ## N-FC01-08-04 · Dal programma ministeriale al controllo
 
 Il PIAO diventa concreto quando una struttura traduce l'obiettivo in un flusso di lavoro:
@@ -245,13 +247,13 @@ Ricostruisci bisogno, competenza, obiettivo, dati e vincoli. Poi proponi attivit
 
 ### Responsabilità, evidenze e correzione dello scostamento
 
-Nel lavoro quotidiano il programma diventa credibile quando ogni passaggio lascia un'evidenza verificabile. L'ufficio deve sapere chi avvia l'attività, chi decide, chi controlla, quali dati alimentano l'indicatore e chi propone una correzione. La responsabilità non si esaurisce nell'indicazione di un nominativo: richiede competenza, accesso alle informazioni, tempo e potere di attivare il passaggio successivo. Se questi elementi mancano, il rischio è che il monitoraggio descriva il problema senza permettere di governarlo.
+Nel lavoro quotidiano il programma diventa credibile quando ogni passaggio lascia un'evidenza verificabile. L'ufficio deve sapere chi avvia l'attività, chi decide, chi controlla, quali dati alimentano l'indicatore e chi propone una correzione. Indicare un nominativo non definisce da solo la responsabilità. Servono competenza, accesso alle informazioni, tempo e potere di attivare il passaggio successivo. Se questi elementi mancano, il rischio è che il monitoraggio descriva il problema senza permettere di governarlo.
 
-Lo scostamento è la distanza tra risultato atteso e risultato osservato. Prima di reagire occorre accertarne causa, durata e rilevanza. Un ritardo può derivare da carenza di personale, picco di domande, errore del flusso, dato incompleto o controllo ridondante. La risposta cambia di conseguenza: redistribuzione delle attività, formazione, revisione della procedura, miglioramento del sistema informativo oppure modifica motivata del target. Correggere non significa nascondere l'insuccesso, ma utilizzare il monitoraggio come strumento di governo.
+Lo scostamento è la distanza tra risultato atteso e risultato osservato. Prima di reagire occorre accertarne causa, durata e rilevanza. Un ritardo può derivare da carenza di personale, picco di domande, errore del flusso, dato incompleto o controllo ridondante. La risposta cambia di conseguenza: redistribuzione delle attività, formazione, revisione della procedura, miglioramento del sistema informativo oppure modifica motivata del target. La correzione usa i risultati del monitoraggio per intervenire sulle cause dello scostamento.
 
 Un buon report direzionale separa fatti, interpretazioni e decisioni. I fatti sono dati e accadimenti controllabili; l'interpretazione spiega le cause con prudenza; la decisione individua azione, responsabile e termine. Questa struttura riduce formule vaghe come «si provvederà» e rende possibile il controllo successivo. Nella prova pratica il candidato può applicarla con una tabella a quattro colonne: evidenza, rischio o scostamento, intervento, verifica prevista.
 
-Il raccordo tra uffici è essenziale quando lo stesso obiettivo coinvolge organizzazione, personale, digitale, prevenzione e trasparenza. Nessuna struttura deve appropriarsi dell'intero ciclo, ma ciascuna deve fornire il proprio contributo entro competenze definite. Il coordinamento serve a risolvere dipendenze e incoerenze: per esempio, un nuovo servizio digitale richiede competenze, protezione dei dati, misure di sicurezza, indicatori di qualità e modalità di pubblicazione. La risposta concorsuale migliore mostra questa interdipendenza senza confondere ruoli e responsabilità.
+Il raccordo tra uffici diventa necessario quando lo stesso obiettivo coinvolge organizzazione, personale, digitale, prevenzione e trasparenza. Nessuna struttura deve appropriarsi dell'intero ciclo, ma ciascuna deve fornire il proprio contributo entro competenze definite. Il coordinamento serve a risolvere dipendenze e incoerenze: per esempio, un nuovo servizio digitale richiede competenze, protezione dei dati, misure di sicurezza, indicatori di qualità e modalità di pubblicazione. Una risposta concorsuale completa descrive questa interdipendenza e mantiene distinti ruoli e responsabilità.
 ## N-FC01-08-05 · Applicazione in prova ed errori da evitare
 
 1. Il PIAO collega programmazione, organizzazione, capitale umano, performance e prevenzione dei rischi.
@@ -320,25 +322,18 @@ Scegli un servizio ministeriale descritto in un bando o in una fonte istituziona
 
 ### Riferimenti normativi essenziali
 
-- [[sources/fonti-trasversali-m-fc01-piao-anac-agid]]
-- [[sources/decreto-30-giugno-2022-n-132-piano-tipo-piao]]
-- [[sources/d-p-r-24-giugno-2022-n-81-piao-adempimenti-assorbiti]]
-- [[sources/d-lgs-27-ottobre-2009-n-150-performance]]
-- [[sources/legge-6-novembre-2012-n-190-anticorruzione]]
-- [[sources/d-lgs-14-marzo-2013-n-33-trasparenza]]
+- articolo 6 del decreto-legge 9 giugno 2021, n. 80, convertito dalla legge 6 agosto 2021, n. 113
+- D.P.R. 24 giugno 2022, n. 81, sugli adempimenti assorbiti dal PIAO
+- D.M. 30 giugno 2022, n. 132, recante il Piano tipo
+- decreto legislativo 27 ottobre 2009, n. 150, sulla misurazione e valutazione della performance
+- legge 6 novembre 2012, n. 190, sulla prevenzione della corruzione
+- D.Lgs. n. 33/2013, sulla trasparenza e sull'accesso civico
 - [[books/moduli/m-fc01-ministeri/chapters/03-profili-professionali-ccnl-mansioni]]
 - [[books/moduli/m-fc01-ministeri/chapters/06-organizzazione-interna-ministeri]]
 - decreto legislativo 30 marzo 2001, n. 165, per organizzazione e lavoro pubblico
 - decreto legislativo 14 marzo 2013, n. 33, per trasparenza e accesso civico
 
-### Nota di aggiornamento editoriale
 
-- Verificare al cut-off il testo vigente del quadro PIAO, del D.P.R. n. 81/2022, del D.M. n. 132/2022, del D.Lgs. n. 150/2009, della legge n. 190/2012 e del D.Lgs. n. 33/2013.
-- Controllare sul Portale PIAO struttura, modelli, linee guida, regimi e scadenze correnti prima di inserire dettagli applicativi.
-- Verificare sul sito ANAC il PNA e gli atti di indirizzo vigenti, distinguendone natura e forza.
-- Confermare su fonti ufficiali ruoli, responsabilità, soglie e regimi semplificati prima della pubblicazione.
-- Mantenere il caso come modello didattico e adattare indicatori e misure al processo concreto.
-- Controllare nel renderer KDP la leggibilità delle tabelle e della scheda compilabile.
 ## ▣ Verifica — PIAO, performance e rischio
 
 **Quiz 1.** Il PIAO elimina le responsabilità previste dalle discipline di settore?
@@ -367,4 +362,4 @@ Scegli un servizio ministeriale descritto in un bando o in una fonte istituziona
 
 ### Caso ragionato
 
-Un Ministero vuole ridurre l'arretrato delle istanze del 20 per cento. L'ufficio propone di misurare soltanto le pratiche chiuse e di sospendere alcuni controlli per accelerare. La soluzione corretta parte dal bisogno pubblico, definisce baseline e target, affianca al volume indicatori di tempo, correttezza e reclami, individua i passaggi vulnerabili e mantiene controlli proporzionati. Assegna inoltre responsabili e fonti dei dati, programma verifiche intermedie e stabilisce come correggere gli scostamenti. In questo modo rapidità, legalità, qualità e valore pubblico restano parti dello stesso ciclo.
+Un Ministero vuole ridurre l'arretrato delle istanze del 20 per cento. L'ufficio propone di misurare soltanto le pratiche chiuse e di sospendere alcuni controlli per accelerare. La proposta va corretta partendo dal bisogno pubblico: occorre definire baseline e target, affiancare al volume indicatori di tempo, correttezza e reclami, individuare i passaggi vulnerabili e mantenere controlli proporzionati. Assegna inoltre responsabili e fonti dei dati, programma verifiche intermedie e stabilisce come correggere gli scostamenti. La soluzione tiene così nello stesso ciclo rapidità, legalità, qualità e valore pubblico.
