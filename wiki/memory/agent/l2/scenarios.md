@@ -5010,3 +5010,11 @@
 - atoms:
   - mem-20260805172112-22rmd5 | workflow | Procedere con il prossimo step della pipeline VOL-03 preservando il lavoro locale.
   - mem-20260805172112-iy4kn4 | result | Esito pipeline-volume/step-09: Procedere con il prossimo step della pipeline VOL-03 preservando il lavoro locale. -> Completato lo step 09 del capitolo Contabilità dello Stato e bilancio ministeriale in format_version 2.
+
+## 2026-08-05T17:26:10.113Z - VOL-08
+
+- conversation_id: conv-20260805172610-e1i6yd
+- route: codex/pipeline-volume/step-00/intake
+- l0: l0/conv-20260805172610-e1i6yd.md
+- atoms:
+  - mem-20260805172610-zzamvq | result | Esito codex/pipeline-volume/step-00/intake: Prossimo step. -> Completato step 00 VOL-08: target M-TR01 identificato, riferimenti canonici e memoria letti, stato Git e collisioni documentati, nessun contenuto editoriale modificato; prossimo step 01.

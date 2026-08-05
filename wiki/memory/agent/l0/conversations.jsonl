@@ -612,3 +612,4 @@
 {"id":"conv-20260805171620-1572pc4","createdAt":"2026-08-05T17:16:20.720Z","scope":"VOL-08","route":"codex/pipeline-volume/steps-15-16/m-tr01","l0Path":"l0\\conv-20260805171620-1572pc4.md","messageCount":1,"replyChars":158}
 {"id":"conv-20260805172052-1jrs8lw","createdAt":"2026-08-05T17:20:52.049Z","scope":"VOL-08","route":"codex/pipeline-volume/step-18/m-tr01","l0Path":"l0\\conv-20260805172052-1jrs8lw.md","messageCount":1,"replyChars":168}
 {"id":"conv-20260805172112-71qgkn","createdAt":"2026-08-05T17:21:12.917Z","scope":"VOL-03/M-FC01","route":"pipeline-volume/step-09","l0Path":"l0\\conv-20260805172112-71qgkn.md","messageCount":1,"replyChars":149}
+{"id":"conv-20260805172610-e1i6yd","createdAt":"2026-08-05T17:26:10.113Z","scope":"VOL-08","route":"codex/pipeline-volume/step-00/intake","l0Path":"l0\\conv-20260805172610-e1i6yd.md","messageCount":1,"replyChars":186}
