@@ -2,7 +2,7 @@
 id: chapter-m-sa02-10-prova-pratica-casi-professionali
 type: chapter
 title: "Prova pratica e casi professionali"
-status: draft
+status: revised_draft
 domain: "concorsi pubblici italiani"
 source_refs: ["sources/bandi-rappresentativi-m-sa02-professioni-sanitarie-2025-2026", "sources/bandi-rappresentativi-oss-2025-2026", "sources/profili-professionali-infermiere-ostetrica-fisioterapista-tpall", "sources/profilo-oss-dpcm-25-marzo-2025", "sources/sicurezza-terapia-triage-assistenza-infermieristica-ministero", "sources/puerperio-neonato-supporto-vitale-oms-irc-iss", "sources/emergenze-ostetriche-eclampsia-sepsi-tromboembolia-itoss", "sources/riabilitazione-fisioterapia-iss-ministero", "sources/tpall-aia-campionamenti-acque-aria-suolo-rifiuti-alimenti"]
 book_refs: ["m-sa02-professioni-sanitarie", "vol-07-sanita-amministrativa-professioni-sanitarie", "il-metodo-bando"]
@@ -10,8 +10,8 @@ book_id: m-sa02-professioni-sanitarie
 module_code: M-SA02
 chapter_number: "10"
 outline_section: 10
-draft_stage: written
-review_required: true
+draft_stage: specialist-audit-complete
+review_required: false
 canonical: true
 created_at: 2026-08-01T00:00:10+02:00
 updated_at: 2026-08-01T00:00:25+02:00

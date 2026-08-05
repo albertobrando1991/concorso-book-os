@@ -2,7 +2,7 @@
 id: chapter-m-sa02-03-discipline-professionali-autonomia-responsabilita
 type: chapter
 title: "Discipline professionali: autonomia, responsabilità e deontologia"
-status: draft
+status: revised_draft
 domain: "concorsi pubblici italiani"
 source_refs: ["sources/profili-professionali-infermiere-ostetrica-fisioterapista-tpall", "sources/ordinamento-professioni-sanitarie-leggi-42-251-43-3", "sources/codici-deontologici-infermiere-ostetrica-fisioterapista-tpall", "sources/sicurezza-cure-responsabilita-consenso-leggi-24-219", "sources/profilo-oss-dpcm-25-marzo-2025", "sources/attuazione-regionale-oss-lombardia-2025", "sources/attuazione-regionale-oss-emilia-romagna-veneto-2025", "sources/bandi-rappresentativi-m-sa02-professioni-sanitarie-2025-2026", "sources/bandi-rappresentativi-oss-2025-2026"]
 book_refs: ["m-sa02-professioni-sanitarie", "vol-07-sanita-amministrativa-professioni-sanitarie", "il-metodo-bando"]
@@ -10,11 +10,11 @@ book_id: m-sa02-professioni-sanitarie
 module_code: M-SA02
 chapter_number: "03"
 outline_section: 3
-draft_stage: written
-review_required: true
+draft_stage: specialist-audit-complete
+review_required: false
 canonical: true
 created_at: 2026-07-29T21:14:17+02:00
-updated_at: 2026-07-30T10:00:26+02:00
+updated_at: 2026-08-04T00:00:00+02:00
 last_compiled_from: ["wiki/reviews/pipeline/VOL-07/08-piano-capitolo-m-sa02-03.md", "wiki/books/volumi/vol-07-sanita-amministrativa-professioni-sanitarie/planning/02-matrice-copertura-didattica.md", "wiki/sources/profili-professionali-infermiere-ostetrica-fisioterapista-tpall.md", "wiki/sources/ordinamento-professioni-sanitarie-leggi-42-251-43-3.md", "wiki/sources/codici-deontologici-infermiere-ostetrica-fisioterapista-tpall.md", "wiki/sources/sicurezza-cure-responsabilita-consenso-leggi-24-219.md", "wiki/sources/profilo-oss-dpcm-25-marzo-2025.md", "wiki/sources/attuazione-regionale-oss-lombardia-2025.md", "wiki/sources/attuazione-regionale-oss-emilia-romagna-veneto-2025.md", "wiki/sources/bandi-rappresentativi-m-sa02-professioni-sanitarie-2025-2026.md", "wiki/sources/bandi-rappresentativi-oss-2025-2026.md"]
 tags: ["m-sa02", "professioni-sanitarie", "autonomia", "responsabilita", "deontologia", "pipeline-step-09"]
 ---
@@ -49,7 +49,7 @@ La sequenza da applicare è: **fonte → profilo → autonomia → responsabilit
 >
 > Autonomia non significa isolamento. La responsabilità non coincide sempre con responsabilità civile o penale. La collaborazione non cancella il dovere personale. Il profilo professionale delimita il campo di attività; il setting ne organizza l'esercizio concreto. L'OSS è un operatore di interesse sanitario e non una professione sanitaria ordinistica.
 
-Il capitolo non autorizza procedure cliniche, manovre, trattamenti, dosaggi, sequenze assistenziali o decisioni medico-legali. Gli esempi hanno funzione concorsuale: aiutano a riconoscere confini, fonti e responsabilità. Per la tecnica generale di lettura del bando, della prova scritta, del quiz e dell’orale si rinvia al metodo generale del volume [[books/il-metodo-bando/chapters/anatomia-del-bando|Anatomia del bando]], [[books/il-metodo-bando/chapters/la-prova-a-quiz|La prova a quiz]], [[books/il-metodo-bando/chapters/prova-scritta-teorico-pratica|La prova scritta e teorico-pratica]] e [[books/il-metodo-bando/chapters/la-prova-orale|La prova orale]]. Qui il delta sanitario è diverso: non basta “studiare la materia”; bisogna saper dire chi può fare che cosa, con quale fonte, entro quale limite e con quale responsabilità.
+Il capitolo non autorizza procedure cliniche, manovre, trattamenti, dosaggi, sequenze assistenziali o decisioni medico-legali. Gli esempi hanno funzione concorsuale: aiutano a riconoscere confini, fonti e responsabilità. Per la tecnica generale di lettura del bando, della prova scritta, del quiz e dell’orale si rinvia al metodo generale del volume [[books/il-metodo-bando/chapters/anatomia-del-bando#Capitolo 2 - Anatomia del bando|Anatomia del bando]], [[books/il-metodo-bando/chapters/la-prova-a-quiz#Capitolo 14 - La prova a quiz|La prova a quiz]], [[books/il-metodo-bando/chapters/prova-scritta-teorico-pratica#Capitolo 15 - La prova scritta e teorico-pratica|La prova scritta e teorico-pratica]] e [[books/il-metodo-bando/chapters/la-prova-orale#Capitolo 16 - La prova orale|La prova orale]]. Qui il delta sanitario è diverso: non basta “studiare la materia”; bisogna saper dire chi può fare che cosa, con quale fonte, entro quale limite e con quale responsabilità.
 
 ## Il quadro comune delle professioni sanitarie
 

@@ -2,7 +2,7 @@
 id: chapter-m-sa02-07-evidenze-pico-grade-applicabilita
 type: chapter
 title: "Evidenze scientifiche, PICO, GRADE e applicabilità"
-status: draft
+status: revised_draft
 domain: "concorsi pubblici italiani"
 source_refs: ["sources/metodo-evidenze-sistema-nazionale-linee-guida-iss", "sources/epidemiologia-base-iss", "sources/sicurezza-cure-responsabilita-consenso-leggi-24-219", "sources/iss-snlg-gravidanza-fisiologica-2023-2026", "sources/riabilitazione-fisioterapia-iss-ministero"]
 book_refs: ["m-sa02-professioni-sanitarie", "vol-07-sanita-amministrativa-professioni-sanitarie", "il-metodo-bando"]
@@ -10,8 +10,8 @@ book_id: m-sa02-professioni-sanitarie
 module_code: M-SA02
 chapter_number: "07"
 outline_section: 7
-draft_stage: written
-review_required: true
+draft_stage: specialist-audit-complete
+review_required: false
 canonical: true
 created_at: 2026-07-31T23:30:00+02:00
 updated_at: 2026-07-31T23:59:00+02:00

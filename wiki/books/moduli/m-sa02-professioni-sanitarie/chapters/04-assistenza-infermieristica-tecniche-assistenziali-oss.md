@@ -2,7 +2,7 @@
 id: chapter-m-sa02-04-assistenza-infermieristica-tecniche-assistenziali-oss
 type: chapter
 title: "Assistenza infermieristica, tecniche assistenziali e supporto OSS"
-status: draft
+status: revised_draft
 domain: "concorsi pubblici italiani"
 source_refs: ["sources/profili-professionali-infermiere-ostetrica-fisioterapista-tpall", "sources/codici-deontologici-infermiere-ostetrica-fisioterapista-tpall", "sources/profilo-oss-dpcm-25-marzo-2025", "sources/attuazione-regionale-oss-lombardia-2025", "sources/attuazione-regionale-oss-emilia-romagna-veneto-2025", "sources/sicurezza-cure-ica-sorveglianza-epidemiologica-prevenzione", "sources/sicurezza-terapia-triage-assistenza-infermieristica-ministero", "sources/lesioni-da-pressione-linea-guida-snlg-protocolli-regionali", "sources/assistenza-generale-oss-pasto-mobilizzazione-eliminazione", "sources/ausili-trasferimento-oss-manuali-dispositivo-veneto-2026", "sources/bandi-rappresentativi-m-sa02-professioni-sanitarie-2025-2026", "sources/bandi-rappresentativi-oss-2025-2026"]
 book_refs: ["m-sa02-professioni-sanitarie", "vol-07-sanita-amministrativa-professioni-sanitarie", "il-metodo-bando"]
@@ -10,8 +10,8 @@ book_id: m-sa02-professioni-sanitarie
 module_code: M-SA02
 chapter_number: "04"
 outline_section: 4
-draft_stage: written
-review_required: true
+draft_stage: specialist-audit-complete
+review_required: false
 canonical: true
 created_at: 2026-07-31T16:45:00+02:00
 updated_at: 2026-07-31T18:10:00+02:00

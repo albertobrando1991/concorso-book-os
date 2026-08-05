@@ -2,7 +2,7 @@
 id: chapter-m-sa02-09-controlli-tpall-verbalizzazione-campionamento-sanzioni
 type: chapter
 title: "Controlli TPALL, verbalizzazione, campionamento e sanzioni"
-status: draft
+status: revised_draft
 domain: "concorsi pubblici italiani"
 source_refs: ["sources/profili-professionali-infermiere-ostetrica-fisioterapista-tpall", "sources/tpall-sicurezza-ambiente-vigilanza-sanzioni", "sources/tpall-controlli-ufficiali-e-sicurezza-campionamento-ambientale", "sources/tpall-aia-campionamenti-acque-aria-suolo-rifiuti-alimenti", "sources/tpall-emissioni-convogliate-bat-ael-metodi-snpa-arpa", "sources/campionamento-passivo-gas-suolo-ispra-2024"]
 book_refs: ["m-sa02-professioni-sanitarie", "vol-07-sanita-amministrativa-professioni-sanitarie", "il-metodo-bando"]
@@ -10,8 +10,8 @@ book_id: m-sa02-professioni-sanitarie
 module_code: M-SA02
 chapter_number: "09"
 outline_section: 9
-draft_stage: written
-review_required: true
+draft_stage: specialist-audit-complete
+review_required: false
 canonical: true
 created_at: 2026-07-31T23:59:59+02:00
 updated_at: 2026-08-01T00:00:00+02:00

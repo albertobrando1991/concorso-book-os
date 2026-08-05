@@ -2,13 +2,13 @@
 id: vol-07-sanita-amministrativa-professioni-sanitarie
 type: volume
 title: "VOL-07 - Sanità amministrativa e professioni sanitarie"
-status: revised_draft
+status: text_frozen
 domain: "concorsi pubblici italiani"
 topics: ["sanità amministrativa", "professioni sanitarie", "dirigenza sanitaria", "tecnici sanitari"]
 entities: ["Servizio sanitario nazionale", "Ministero della Salute", "Agenas", "Istituto Superiore di Sanità", "Azienda sanitaria"]
 source_refs: ["sources/vol-07-dossier-fonti-materie-sanita-2026-07-28", "sources/bandi-rappresentativi-m-sa02-professioni-sanitarie-2025-2026.md", "sources/bandi-rappresentativi-oss-2025-2026.md", "sources/profili-professionali-infermiere-ostetrica-fisioterapista-tpall.md", "sources/profilo-oss-dpcm-25-marzo-2025.md", "sources/iss-snlg-gravidanza-fisiologica-2023-2026.md", "sources/sicurezza-terapia-triage-assistenza-infermieristica-ministero.md", "sources/riabilitazione-fisioterapia-iss-ministero.md", "sources/epidemiologia-base-iss.md", "sources/sorveglianza-passi-protocollo-operativo-iss.md", "sources/programmi-screening-oncologici-dati-passi-iss.md", "sources/premal-definizioni-caso-risposta-segnale-epidemiologico.md", "sources/sicurezza-cure-ica-sorveglianza-epidemiologica-prevenzione.md", "sources/tpall-controlli-ufficiali-e-sicurezza-campionamento-ambientale.md", "sources/tpall-aia-campionamenti-acque-aria-suolo-rifiuti-alimenti.md", "sources/lesioni-da-pressione-linea-guida-snlg-protocolli-regionali.md", "sources/deterioramento-clinico-news2-sepsi-regioni.md", "sources/als-adulto-erc-irc-2025.md", "sources/assistenza-generale-oss-pasto-mobilizzazione-eliminazione.md", "sources/puerperio-neonato-supporto-vitale-oms-irc-iss.md"]
 book_refs: ["m-sa01-sanita-amministrativa", "m-sa02-professioni-sanitarie", "m-sa03-dirigenza-medica-sanitaria", "m-sa04-tecnici-sanitari-prevenzione"]
-updated_at: 2026-08-01T13:15:00+02:00
+updated_at: 2026-08-05T00:00:00+02:00
 review_required: true
 canonical: true
 tags: ["volume", "vol-07", "sanita"]
@@ -18,7 +18,7 @@ tags: ["volume", "vol-07", "sanita"]
 
 ## Stato
 
-La scrittura e la revisione editoriale automatica sono completate per tutti i 25 capitoli e per i quattro moduli, fino allo step 14 incluso. Ogni modulo deve ora superare l'audit specialistico automatico dello step 15. Il volume non è ancora congelato né pubblicabile; l'unica conferma umana avverrà allo step 24, quando l'intero pacchetto sarà già completo.
+La scrittura, la revisione editoriale automatica e l'audit specialistico sono completati per tutti i 25 capitoli e per i quattro moduli. Il testo è congelato; l'impaginato KDP conta 394 pagine e l'audit pagina per pagina non registra rilievi bloccanti o significativi aperti. Restano il giudizio editoriale finale e il preflight del pacchetto di consegna; l'unica conferma umana è riservata allo step 24.
 
 ## Perimetro
 

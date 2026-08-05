@@ -2,23 +2,23 @@
 id: chapter-m-sa02-01-mappa-profili-e-prove
 type: chapter
 title: "Professioni sanitarie: profili, requisiti e prove"
-status: draft
+status: revised_draft
 domain: "concorsi pubblici italiani"
 topics: ["professioni sanitarie", "concorsi sanitari", "prove concorsuali", "bando decoder"]
 entities: ["Servizio sanitario nazionale", "Azienda sanitaria", "inPA", "Ministero della Salute"]
 source_refs: ["sources/bandi-rappresentativi-m-sa02-professioni-sanitarie-2025-2026", "sources/bandi-rappresentativi-oss-2025-2026", "sources/dpr-220-2001-concorsi-personale-non-dirigenziale-ssn", "sources/ordinamento-professioni-sanitarie-leggi-42-251-43-3", "sources/profili-professionali-infermiere-ostetrica-fisioterapista-tpall", "sources/profilo-oss-dpcm-25-marzo-2025", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994"]
 book_refs: ["m-sa02-professioni-sanitarie", "vol-07-sanita-amministrativa-professioni-sanitarie", "il-metodo-bando"]
 confidence: 0.94
-updated_at: 2026-08-01T00:01:10+02:00
+updated_at: 2026-08-04T00:00:00+02:00
 created_at: 2026-07-29T18:41:35+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "m-sa02", "chapter-01", "profili", "prove"]
 book_id: m-sa02-professioni-sanitarie
 module_code: M-SA02
 outline_section: 1
 chapter_number: "01"
-draft_stage: written
+draft_stage: specialist-audit-complete
 last_compiled_from: ["wiki/reviews/pipeline/VOL-07/08-piano-capitolo-m-sa02-01.md", "wiki/books/moduli/m-sa02-professioni-sanitarie/planning/02-matrice-copertura-didattica.md", "wiki/sources/bandi-rappresentativi-m-sa02-professioni-sanitarie-2025-2026.md", "wiki/sources/bandi-rappresentativi-oss-2025-2026.md", "wiki/sources/dpr-220-2001-concorsi-personale-non-dirigenziale-ssn.md", "wiki/sources/ordinamento-professioni-sanitarie-leggi-42-251-43-3.md", "wiki/sources/profili-professionali-infermiere-ostetrica-fisioterapista-tpall.md", "wiki/sources/profilo-oss-dpcm-25-marzo-2025.md"]
 ---
 
@@ -179,7 +179,7 @@ Registra ente, profilo, area o inquadramento, requisiti, materie, prove, titoli,
 
 Nel settore sanitario possono convivere disciplina professionale, organizzazione del SSN, sicurezza, deontologia, evidenze, igiene, materia clinica o tecnica e nuclei generali rinviabili al VOL-01. La separazione impedisce che il candidato studi con la stessa profondità tutto ciò che incontra.
 
-Il nucleo comune del VOL-01 resta nei capitoli dedicati all'[[books/il-metodo-bando/chapters/anatomia-del-bando|anatomia del bando]], alla [[books/il-metodo-bando/chapters/la-prova-a-quiz|prova a quiz]], alla [[books/il-metodo-bando/chapters/prova-scritta-teorico-pratica|prova scritta e teorico-pratica]] e alla [[books/il-metodo-bando/chapters/la-prova-orale|prova orale]]. Qui interessa soltanto la loro applicazione al profilo sanitario.
+Il nucleo comune del VOL-01 resta nei capitoli dedicati all'[[books/il-metodo-bando/chapters/anatomia-del-bando#Capitolo 2 - Anatomia del bando|anatomia del bando]], alla [[books/il-metodo-bando/chapters/la-prova-a-quiz#Capitolo 14 - La prova a quiz|prova a quiz]], alla [[books/il-metodo-bando/chapters/prova-scritta-teorico-pratica#Capitolo 15 - La prova scritta e teorico-pratica|prova scritta e teorico-pratica]] e alla [[books/il-metodo-bando/chapters/la-prova-orale#Capitolo 16 - La prova orale|prova orale]]. Qui interessa soltanto la loro applicazione al profilo sanitario.
 
 ### N — Seleziona i nuclei
 

@@ -2,7 +2,7 @@
 id: chapter-m-sa02-05-valutazione-clinica-triage-urgenza-emergenza
 type: chapter
 title: "Valutazione clinica, triage, urgenza ed emergenza"
-status: draft
+status: revised_draft
 domain: "concorsi pubblici italiani"
 source_refs: ["sources/sicurezza-cure-responsabilita-consenso-leggi-24-219", "sources/metodo-evidenze-sistema-nazionale-linee-guida-iss", "sources/sicurezza-terapia-triage-assistenza-infermieristica-ministero", "sources/deterioramento-clinico-news2-sepsi-regioni", "sources/arresto-cardiaco-bls-iss-snlg-2026", "sources/als-adulto-erc-irc-2025", "sources/sicurezza-travaglio-parto-morte-materna-ministero", "sources/emorragia-post-partum-allattamento-iss-ministero", "sources/puerperio-neonato-supporto-vitale-oms-irc-iss", "sources/emergenze-ostetriche-eclampsia-sepsi-tromboembolia-itoss", "sources/emergenze-ostetriche-distocia-spalla-prolasso-funicolo-protocolli-italiani", "sources/riabilitazione-fisioterapia-iss-ministero"]
 book_refs: ["m-sa02-professioni-sanitarie", "vol-07-sanita-amministrativa-professioni-sanitarie", "il-metodo-bando"]
@@ -10,7 +10,7 @@ book_id: m-sa02-professioni-sanitarie
 module_code: M-SA02
 chapter_number: "05"
 outline_section: 5
-draft_stage: written
+draft_stage: specialist-audit-complete
 format_version: 2
 dati_operativi: ["DO-SA02-05-NEWS2-ER-2024"]
 review_required: false

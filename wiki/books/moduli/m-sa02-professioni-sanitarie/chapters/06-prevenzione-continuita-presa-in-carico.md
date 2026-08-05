@@ -2,7 +2,7 @@
 id: chapter-m-sa02-06-prevenzione-continuita-presa-in-carico
 type: chapter
 title: "Prevenzione, continuità assistenziale e presa in carico"
-status: draft
+status: revised_draft
 domain: "concorsi pubblici italiani"
 source_refs: ["sources/bandi-rappresentativi-m-sa02-professioni-sanitarie-2025-2026", "sources/profili-professionali-infermiere-ostetrica-fisioterapista-tpall", "sources/sicurezza-cure-responsabilita-consenso-leggi-24-219", "sources/sicurezza-cure-ica-sorveglianza-epidemiologica-prevenzione", "sources/iss-snlg-gravidanza-fisiologica-2023-2026", "sources/puerperio-neonato-supporto-vitale-oms-irc-iss", "sources/sicurezza-terapia-triage-assistenza-infermieristica-ministero", "sources/riabilitazione-fisioterapia-iss-ministero", "sources/presa-in-carico-cronicita-pdta-territorio-agenas", "sources/territorio-cot-continuita-pdta-persona-fragile-toscana"]
 book_refs: ["m-sa02-professioni-sanitarie", "vol-07-sanita-amministrativa-professioni-sanitarie", "il-metodo-bando"]
@@ -10,8 +10,8 @@ book_id: m-sa02-professioni-sanitarie
 module_code: M-SA02
 chapter_number: "06"
 outline_section: 6
-draft_stage: written
-review_required: true
+draft_stage: specialist-audit-complete
+review_required: false
 canonical: true
 created_at: 2026-07-31T21:30:00+02:00
 updated_at: 2026-07-31T22:30:00+02:00

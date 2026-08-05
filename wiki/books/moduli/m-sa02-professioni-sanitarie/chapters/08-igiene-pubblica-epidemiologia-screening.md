@@ -2,7 +2,7 @@
 id: chapter-m-sa02-08-igiene-pubblica-epidemiologia-screening
 type: chapter
 title: "Igiene pubblica, epidemiologia, sorveglianza e screening"
-status: draft
+status: revised_draft
 domain: "concorsi pubblici italiani"
 source_refs: ["sources/epidemiologia-base-iss", "sources/sorveglianza-passi-protocollo-operativo-iss", "sources/programmi-screening-oncologici-dati-passi-iss", "sources/premal-definizioni-caso-risposta-segnale-epidemiologico", "sources/sicurezza-cure-ica-sorveglianza-epidemiologica-prevenzione"]
 book_refs: ["m-sa02-professioni-sanitarie", "vol-07-sanita-amministrativa-professioni-sanitarie", "il-metodo-bando"]
@@ -10,8 +10,8 @@ book_id: m-sa02-professioni-sanitarie
 module_code: M-SA02
 chapter_number: "08"
 outline_section: 8
-draft_stage: written
-review_required: true
+draft_stage: specialist-audit-complete
+review_required: false
 canonical: true
 created_at: 2026-07-31T23:59:40+02:00
 updated_at: 2026-07-31T23:59:59+02:00
