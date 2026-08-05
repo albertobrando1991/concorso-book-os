@@ -3,7 +3,7 @@
   "specPath": "books/vol-02-enti-locali-polizia-locale/planning/00-scheda-pipeline.md",
   "specHash": "sha256:b9ec2abf7ad63aaa5271f5f2d561817a092ec16c24727d57ebf82ef84b0a5a6b",
   "createdAt": "2026-07-29T22:02:16.845Z",
-  "updatedAt": "2026-08-05T16:15:08.361Z",
+  "updatedAt": "2026-08-05T16:53:26.240Z",
   "steps": [
     {
       "key": "08:moduli/m-fl01-comuni-unioni/chapters/00-piano-editoriale.md",
@@ -1435,9 +1435,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl01-comuni-unioni/chapters/12-procurement-operativo-ufficio-comunale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T16:34:55.884Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fl01-comuni-unioni/chapters/12-procurement-operativo-ufficio-comunale.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Verifica manuale eseguita sul piano: 7 Nucleo ID stabili, stato di copertura, sezioni da conservare, duplicazioni, casi, fonti, rinvii VOL-01, struttura, budget e audit specialistici presenti; capitolo non modificato nello step 08."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-05T16:37:14.321Z"
     },
     {
       "key": "09:moduli/m-fl01-comuni-unioni/chapters/12-procurement-operativo-ufficio-comunale.md",
@@ -1445,9 +1468,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl01-comuni-unioni/chapters/12-procurement-operativo-ufficio-comunale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T16:37:24.200Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-05T16:42:45.435Z"
     },
     {
       "key": "10:moduli/m-fl01-comuni-unioni/chapters/12-procurement-operativo-ufficio-comunale.md",
@@ -1455,9 +1488,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl01-comuni-unioni/chapters/12-procurement-operativo-ufficio-comunale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T16:42:51.584Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-05T16:48:06.232Z"
     },
     {
       "key": "11:moduli/m-fl01-comuni-unioni/chapters/12-procurement-operativo-ufficio-comunale.md",
@@ -1465,9 +1508,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl01-comuni-unioni/chapters/12-procurement-operativo-ufficio-comunale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T16:48:12.791Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-05T16:51:44.209Z"
     },
     {
       "key": "12:moduli/m-fl01-comuni-unioni/chapters/12-procurement-operativo-ufficio-comunale.md",
@@ -1475,9 +1528,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl01-comuni-unioni/chapters/12-procurement-operativo-ufficio-comunale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T16:51:51.314Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-05T16:53:26.240Z"
     },
     {
       "key": "08:moduli/m-fl01-comuni-unioni/chapters/13-territorio-patrimonio-edilizia-lavori-interfaccia-amministrativa.md",
