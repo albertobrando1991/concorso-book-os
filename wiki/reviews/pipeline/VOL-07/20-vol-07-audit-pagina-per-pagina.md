@@ -1,0 +1,475 @@
+---
+id: review-vol-07-step-20-page-audit
+type: review
+title: Audit pagina per pagina - VOL-07
+status: complete
+domain: concorsi pubblici italiani
+topics:
+  - audit pagina per pagina
+  - Book Studio
+entities:
+  - Amazon KDP
+source_refs: []
+book_refs:
+  - vol-07-sanita-amministrativa-professioni-sanitarie
+confidence: 1
+updated_at: 2026-08-05T13:28:00+02:00
+created_at: 2026-08-05T11:01:45.405Z
+review_required: false
+canonical: false
+tags:
+  - pipeline-step-20
+  - page-fill
+  - vol-07
+issue_type: page_fill
+severity: none
+affected_pages:
+  - books/volumi/vol-07-sanita-amministrativa-professioni-sanitarie/index.md
+---
+
+# Audit pagina per pagina - VOL-07
+
+## Sintesi
+
+- Book ID: `volumi/vol-07`
+- Pagine DOM: 394
+- Problemi bloccanti aperti: 0
+- Problemi significativi aperti: 0
+
+## Anomalie e risoluzioni
+
+- Pagine 1-7, 117, 268 e 329: ripristinato il master KDP con margini speculari 23/13 mm e 18 mm sopra/sotto; ricontrollo geometrico conforme.
+- Pagine 1-5, 7, 117, 268 e 329: registrate nell'auditor le gerarchie tipografiche intenzionali del front matter (20 pt e 30 pt per i titoli di ruolo); nessuna deroga alla scala del corpo.
+- Pagina 6: l'indice completo e stato ricomposto su una sola pagina riducendo soltanto gli spazi ripetuti tra i gruppi e le righe di capitolo; font e contenuto invariati.
+- Pagina 134: il presunto frammento di due righe era contiguo, sulla stessa pagina, al chunk precedente dello stesso paragrafo; aggiunta una chiave di continuazione e ricontrollato il bordo pagina.
+- Pagina 393: il vuoto e motivato dal vincolo che mantiene il titolo successivo insieme al primo contenuto; aggiunta l'eccezione diagnostica osservabile e confermata visivamente.
+- Esito finale: nessuna anomalia bloccante o significativa aperta.
+
+## Registro completo
+
+<!-- page-audit-registry:start -->
+| pagina | tipo di problema | elemento | gravita | correzione | esito |
+| ---: | --- | --- | --- | --- | --- |
+| 1 | margins<br>typography | padding pagina<br>content heading 1: size 26.6667px | bloccante | applicato master 23/13/18 mm<br>riconosciuto titolo front matter 20 pt | risolto - ricontrollato |
+| 2 | margins<br>typography | padding pagina<br>content heading 1: size 40px | bloccante | applicato master 23/13/18 mm<br>riconosciuto titolo frontespizio 30 pt | risolto - ricontrollato |
+| 3 | margins<br>typography | padding pagina<br>content heading 1: size 26.6667px | bloccante | applicato master 23/13/18 mm<br>riconosciuto titolo front matter 20 pt | risolto - ricontrollato |
+| 4 | margins<br>typography | padding pagina<br>content heading 1: size 26.6667px | bloccante | applicato master 23/13/18 mm<br>riconosciuto titolo front matter 20 pt | risolto - ricontrollato |
+| 5 | margins<br>typography | padding pagina<br>content heading 1: size 26.6667px | bloccante | applicato master 23/13/18 mm<br>riconosciuto titolo front matter 20 pt | risolto - ricontrollato |
+| 6 | margins | padding pagina | bloccante | applicato master 23/13/18 mm e compattato indice completo | risolto - ricontrollato |
+| 7 | margins<br>typography | padding pagina<br>content heading 1: size 26.6667px | bloccante | applicato master 23/13/18 mm<br>riconosciuto titolo apertura modulo 20 pt | risolto - ricontrollato |
+| 8 | nessuno | pagina | nessuna | nessuna | conforme |
+| 9 | nessuno | pagina | nessuna | nessuna | conforme |
+| 10 | nessuno | pagina | nessuna | nessuna | conforme |
+| 11 | nessuno | pagina | nessuna | nessuna | conforme |
+| 12 | nessuno | pagina | nessuna | nessuna | conforme |
+| 13 | nessuno | pagina | nessuna | nessuna | conforme |
+| 14 | nessuno | pagina | nessuna | nessuna | conforme |
+| 15 | nessuno | pagina | nessuna | nessuna | conforme |
+| 16 | nessuno | pagina | nessuna | nessuna | conforme |
+| 17 | nessuno | pagina | nessuna | nessuna | conforme |
+| 18 | nessuno | pagina | nessuna | nessuna | conforme |
+| 19 | nessuno | pagina | nessuna | nessuna | conforme |
+| 20 | nessuno | pagina | nessuna | nessuna | conforme |
+| 21 | nessuno | pagina | nessuna | nessuna | conforme |
+| 22 | nessuno | pagina | nessuna | nessuna | conforme |
+| 23 | nessuno | pagina | nessuna | nessuna | conforme |
+| 24 | nessuno | pagina | nessuna | nessuna | conforme |
+| 25 | nessuno | pagina | nessuna | nessuna | conforme |
+| 26 | nessuno | pagina | nessuna | nessuna | conforme |
+| 27 | nessuno | pagina | nessuna | nessuna | conforme |
+| 28 | nessuno | pagina | nessuna | nessuna | conforme |
+| 29 | nessuno | pagina | nessuna | nessuna | conforme |
+| 30 | nessuno | pagina | nessuna | nessuna | conforme |
+| 31 | nessuno | pagina | nessuna | nessuna | conforme |
+| 32 | nessuno | pagina | nessuna | nessuna | conforme |
+| 33 | nessuno | pagina | nessuna | nessuna | conforme |
+| 34 | nessuno | pagina | nessuna | nessuna | conforme |
+| 35 | nessuno | pagina | nessuna | nessuna | conforme |
+| 36 | nessuno | pagina | nessuna | nessuna | conforme |
+| 37 | nessuno | pagina | nessuna | nessuna | conforme |
+| 38 | nessuno | pagina | nessuna | nessuna | conforme |
+| 39 | nessuno | pagina | nessuna | nessuna | conforme |
+| 40 | nessuno | pagina | nessuna | nessuna | conforme |
+| 41 | nessuno | pagina | nessuna | nessuna | conforme |
+| 42 | nessuno | pagina | nessuna | nessuna | conforme |
+| 43 | nessuno | pagina | nessuna | nessuna | conforme |
+| 44 | nessuno | pagina | nessuna | nessuna | conforme |
+| 45 | nessuno | pagina | nessuna | nessuna | conforme |
+| 46 | nessuno | pagina | nessuna | nessuna | conforme |
+| 47 | nessuno | pagina | nessuna | nessuna | conforme |
+| 48 | nessuno | pagina | nessuna | nessuna | conforme |
+| 49 | nessuno | pagina | nessuna | nessuna | conforme |
+| 50 | nessuno | pagina | nessuna | nessuna | conforme |
+| 51 | nessuno | pagina | nessuna | nessuna | conforme |
+| 52 | nessuno | pagina | nessuna | nessuna | conforme |
+| 53 | nessuno | pagina | nessuna | nessuna | conforme |
+| 54 | nessuno | pagina | nessuna | nessuna | conforme |
+| 55 | nessuno | pagina | nessuna | nessuna | conforme |
+| 56 | nessuno | pagina | nessuna | nessuna | conforme |
+| 57 | nessuno | pagina | nessuna | nessuna | conforme |
+| 58 | nessuno | pagina | nessuna | nessuna | conforme |
+| 59 | nessuno | pagina | nessuna | nessuna | conforme |
+| 60 | nessuno | pagina | nessuna | nessuna | conforme |
+| 61 | nessuno | pagina | nessuna | nessuna | conforme |
+| 62 | nessuno | pagina | nessuna | nessuna | conforme |
+| 63 | nessuno | pagina | nessuna | nessuna | conforme |
+| 64 | nessuno | pagina | nessuna | nessuna | conforme |
+| 65 | nessuno | pagina | nessuna | nessuna | conforme |
+| 66 | nessuno | pagina | nessuna | nessuna | conforme |
+| 67 | nessuno | pagina | nessuna | nessuna | conforme |
+| 68 | nessuno | pagina | nessuna | nessuna | conforme |
+| 69 | nessuno | pagina | nessuna | nessuna | conforme |
+| 70 | nessuno | pagina | nessuna | nessuna | conforme |
+| 71 | nessuno | pagina | nessuna | nessuna | conforme |
+| 72 | nessuno | pagina | nessuna | nessuna | conforme |
+| 73 | nessuno | pagina | nessuna | nessuna | conforme |
+| 74 | nessuno | pagina | nessuna | nessuna | conforme |
+| 75 | nessuno | pagina | nessuna | nessuna | conforme |
+| 76 | nessuno | pagina | nessuna | nessuna | conforme |
+| 77 | nessuno | pagina | nessuna | nessuna | conforme |
+| 78 | nessuno | pagina | nessuna | nessuna | conforme |
+| 79 | nessuno | pagina | nessuna | nessuna | conforme |
+| 80 | nessuno | pagina | nessuna | nessuna | conforme |
+| 81 | nessuno | pagina | nessuna | nessuna | conforme |
+| 82 | nessuno | pagina | nessuna | nessuna | conforme |
+| 83 | nessuno | pagina | nessuna | nessuna | conforme |
+| 84 | nessuno | pagina | nessuna | nessuna | conforme |
+| 85 | nessuno | pagina | nessuna | nessuna | conforme |
+| 86 | nessuno | pagina | nessuna | nessuna | conforme |
+| 87 | nessuno | pagina | nessuna | nessuna | conforme |
+| 88 | nessuno | pagina | nessuna | nessuna | conforme |
+| 89 | nessuno | pagina | nessuna | nessuna | conforme |
+| 90 | nessuno | pagina | nessuna | nessuna | conforme |
+| 91 | nessuno | pagina | nessuna | nessuna | conforme |
+| 92 | nessuno | pagina | nessuna | nessuna | conforme |
+| 93 | nessuno | pagina | nessuna | nessuna | conforme |
+| 94 | nessuno | pagina | nessuna | nessuna | conforme |
+| 95 | nessuno | pagina | nessuna | nessuna | conforme |
+| 96 | nessuno | pagina | nessuna | nessuna | conforme |
+| 97 | nessuno | pagina | nessuna | nessuna | conforme |
+| 98 | nessuno | pagina | nessuna | nessuna | conforme |
+| 99 | nessuno | pagina | nessuna | nessuna | conforme |
+| 100 | nessuno | pagina | nessuna | nessuna | conforme |
+| 101 | nessuno | pagina | nessuna | nessuna | conforme |
+| 102 | nessuno | pagina | nessuna | nessuna | conforme |
+| 103 | nessuno | pagina | nessuna | nessuna | conforme |
+| 104 | nessuno | pagina | nessuna | nessuna | conforme |
+| 105 | nessuno | pagina | nessuna | nessuna | conforme |
+| 106 | nessuno | pagina | nessuna | nessuna | conforme |
+| 107 | nessuno | pagina | nessuna | nessuna | conforme |
+| 108 | nessuno | pagina | nessuna | nessuna | conforme |
+| 109 | nessuno | pagina | nessuna | nessuna | conforme |
+| 110 | nessuno | pagina | nessuna | nessuna | conforme |
+| 111 | nessuno | pagina | nessuna | nessuna | conforme |
+| 112 | nessuno | pagina | nessuna | nessuna | conforme |
+| 113 | nessuno | pagina | nessuna | nessuna | conforme |
+| 114 | nessuno | pagina | nessuna | nessuna | conforme |
+| 115 | nessuno | pagina | nessuna | nessuna | conforme |
+| 116 | nessuno | pagina | nessuna | nessuna | conforme |
+| 117 | margins<br>typography | padding pagina<br>content heading 1: size 26.6667px | bloccante | applicato master 23/13/18 mm<br>riconosciuto titolo apertura modulo 20 pt | risolto - ricontrollato |
+| 118 | nessuno | pagina | nessuna | nessuna | conforme |
+| 119 | nessuno | pagina | nessuna | nessuna | conforme |
+| 120 | nessuno | pagina | nessuna | nessuna | conforme |
+| 121 | nessuno | pagina | nessuna | nessuna | conforme |
+| 122 | nessuno | pagina | nessuna | nessuna | conforme |
+| 123 | nessuno | pagina | nessuna | nessuna | conforme |
+| 124 | nessuno | pagina | nessuna | nessuna | conforme |
+| 125 | nessuno | pagina | nessuna | nessuna | conforme |
+| 126 | nessuno | pagina | nessuna | nessuna | conforme |
+| 127 | nessuno | pagina | nessuna | nessuna | conforme |
+| 128 | nessuno | pagina | nessuna | nessuna | conforme |
+| 129 | nessuno | pagina | nessuna | nessuna | conforme |
+| 130 | nessuno | pagina | nessuna | nessuna | conforme |
+| 131 | nessuno | pagina | nessuna | nessuna | conforme |
+| 132 | nessuno | pagina | nessuna | nessuna | conforme |
+| 133 | nessuno | pagina | nessuna | nessuna | conforme |
+| 134 | widow-orphan | frammento paragrafo | media | identificata continuita con il chunk adiacente dello stesso paragrafo | risolto - ricontrollato |
+| 135 | nessuno | pagina | nessuna | nessuna | conforme |
+| 136 | nessuno | pagina | nessuna | nessuna | conforme |
+| 137 | nessuno | pagina | nessuna | nessuna | conforme |
+| 138 | nessuno | pagina | nessuna | nessuna | conforme |
+| 139 | nessuno | pagina | nessuna | nessuna | conforme |
+| 140 | nessuno | pagina | nessuna | nessuna | conforme |
+| 141 | nessuno | pagina | nessuna | nessuna | conforme |
+| 142 | nessuno | pagina | nessuna | nessuna | conforme |
+| 143 | nessuno | pagina | nessuna | nessuna | conforme |
+| 144 | nessuno | pagina | nessuna | nessuna | conforme |
+| 145 | nessuno | pagina | nessuna | nessuna | conforme |
+| 146 | nessuno | pagina | nessuna | nessuna | conforme |
+| 147 | nessuno | pagina | nessuna | nessuna | conforme |
+| 148 | nessuno | pagina | nessuna | nessuna | conforme |
+| 149 | nessuno | pagina | nessuna | nessuna | conforme |
+| 150 | nessuno | pagina | nessuna | nessuna | conforme |
+| 151 | nessuno | pagina | nessuna | nessuna | conforme |
+| 152 | nessuno | pagina | nessuna | nessuna | conforme |
+| 153 | nessuno | pagina | nessuna | nessuna | conforme |
+| 154 | nessuno | pagina | nessuna | nessuna | conforme |
+| 155 | nessuno | pagina | nessuna | nessuna | conforme |
+| 156 | nessuno | pagina | nessuna | nessuna | conforme |
+| 157 | nessuno | pagina | nessuna | nessuna | conforme |
+| 158 | nessuno | pagina | nessuna | nessuna | conforme |
+| 159 | nessuno | pagina | nessuna | nessuna | conforme |
+| 160 | nessuno | pagina | nessuna | nessuna | conforme |
+| 161 | nessuno | pagina | nessuna | nessuna | conforme |
+| 162 | nessuno | pagina | nessuna | nessuna | conforme |
+| 163 | nessuno | pagina | nessuna | nessuna | conforme |
+| 164 | nessuno | pagina | nessuna | nessuna | conforme |
+| 165 | nessuno | pagina | nessuna | nessuna | conforme |
+| 166 | nessuno | pagina | nessuna | nessuna | conforme |
+| 167 | nessuno | pagina | nessuna | nessuna | conforme |
+| 168 | nessuno | pagina | nessuna | nessuna | conforme |
+| 169 | nessuno | pagina | nessuna | nessuna | conforme |
+| 170 | nessuno | pagina | nessuna | nessuna | conforme |
+| 171 | nessuno | pagina | nessuna | nessuna | conforme |
+| 172 | nessuno | pagina | nessuna | nessuna | conforme |
+| 173 | nessuno | pagina | nessuna | nessuna | conforme |
+| 174 | nessuno | pagina | nessuna | nessuna | conforme |
+| 175 | nessuno | pagina | nessuna | nessuna | conforme |
+| 176 | nessuno | pagina | nessuna | nessuna | conforme |
+| 177 | nessuno | pagina | nessuna | nessuna | conforme |
+| 178 | nessuno | pagina | nessuna | nessuna | conforme |
+| 179 | nessuno | pagina | nessuna | nessuna | conforme |
+| 180 | nessuno | pagina | nessuna | nessuna | conforme |
+| 181 | nessuno | pagina | nessuna | nessuna | conforme |
+| 182 | nessuno | pagina | nessuna | nessuna | conforme |
+| 183 | nessuno | pagina | nessuna | nessuna | conforme |
+| 184 | nessuno | pagina | nessuna | nessuna | conforme |
+| 185 | nessuno | pagina | nessuna | nessuna | conforme |
+| 186 | nessuno | pagina | nessuna | nessuna | conforme |
+| 187 | nessuno | pagina | nessuna | nessuna | conforme |
+| 188 | nessuno | pagina | nessuna | nessuna | conforme |
+| 189 | nessuno | pagina | nessuna | nessuna | conforme |
+| 190 | nessuno | pagina | nessuna | nessuna | conforme |
+| 191 | nessuno | pagina | nessuna | nessuna | conforme |
+| 192 | nessuno | pagina | nessuna | nessuna | conforme |
+| 193 | nessuno | pagina | nessuna | nessuna | conforme |
+| 194 | nessuno | pagina | nessuna | nessuna | conforme |
+| 195 | nessuno | pagina | nessuna | nessuna | conforme |
+| 196 | nessuno | pagina | nessuna | nessuna | conforme |
+| 197 | nessuno | pagina | nessuna | nessuna | conforme |
+| 198 | nessuno | pagina | nessuna | nessuna | conforme |
+| 199 | nessuno | pagina | nessuna | nessuna | conforme |
+| 200 | nessuno | pagina | nessuna | nessuna | conforme |
+| 201 | nessuno | pagina | nessuna | nessuna | conforme |
+| 202 | nessuno | pagina | nessuna | nessuna | conforme |
+| 203 | nessuno | pagina | nessuna | nessuna | conforme |
+| 204 | nessuno | pagina | nessuna | nessuna | conforme |
+| 205 | nessuno | pagina | nessuna | nessuna | conforme |
+| 206 | nessuno | pagina | nessuna | nessuna | conforme |
+| 207 | nessuno | pagina | nessuna | nessuna | conforme |
+| 208 | nessuno | pagina | nessuna | nessuna | conforme |
+| 209 | nessuno | pagina | nessuna | nessuna | conforme |
+| 210 | nessuno | pagina | nessuna | nessuna | conforme |
+| 211 | nessuno | pagina | nessuna | nessuna | conforme |
+| 212 | nessuno | pagina | nessuna | nessuna | conforme |
+| 213 | nessuno | pagina | nessuna | nessuna | conforme |
+| 214 | nessuno | pagina | nessuna | nessuna | conforme |
+| 215 | nessuno | pagina | nessuna | nessuna | conforme |
+| 216 | nessuno | pagina | nessuna | nessuna | conforme |
+| 217 | nessuno | pagina | nessuna | nessuna | conforme |
+| 218 | nessuno | pagina | nessuna | nessuna | conforme |
+| 219 | nessuno | pagina | nessuna | nessuna | conforme |
+| 220 | nessuno | pagina | nessuna | nessuna | conforme |
+| 221 | nessuno | pagina | nessuna | nessuna | conforme |
+| 222 | nessuno | pagina | nessuna | nessuna | conforme |
+| 223 | nessuno | pagina | nessuna | nessuna | conforme |
+| 224 | nessuno | pagina | nessuna | nessuna | conforme |
+| 225 | nessuno | pagina | nessuna | nessuna | conforme |
+| 226 | nessuno | pagina | nessuna | nessuna | conforme |
+| 227 | nessuno | pagina | nessuna | nessuna | conforme |
+| 228 | nessuno | pagina | nessuna | nessuna | conforme |
+| 229 | nessuno | pagina | nessuna | nessuna | conforme |
+| 230 | nessuno | pagina | nessuna | nessuna | conforme |
+| 231 | nessuno | pagina | nessuna | nessuna | conforme |
+| 232 | nessuno | pagina | nessuna | nessuna | conforme |
+| 233 | nessuno | pagina | nessuna | nessuna | conforme |
+| 234 | nessuno | pagina | nessuna | nessuna | conforme |
+| 235 | nessuno | pagina | nessuna | nessuna | conforme |
+| 236 | nessuno | pagina | nessuna | nessuna | conforme |
+| 237 | nessuno | pagina | nessuna | nessuna | conforme |
+| 238 | nessuno | pagina | nessuna | nessuna | conforme |
+| 239 | nessuno | pagina | nessuna | nessuna | conforme |
+| 240 | nessuno | pagina | nessuna | nessuna | conforme |
+| 241 | nessuno | pagina | nessuna | nessuna | conforme |
+| 242 | nessuno | pagina | nessuna | nessuna | conforme |
+| 243 | nessuno | pagina | nessuna | nessuna | conforme |
+| 244 | nessuno | pagina | nessuna | nessuna | conforme |
+| 245 | nessuno | pagina | nessuna | nessuna | conforme |
+| 246 | nessuno | pagina | nessuna | nessuna | conforme |
+| 247 | nessuno | pagina | nessuna | nessuna | conforme |
+| 248 | nessuno | pagina | nessuna | nessuna | conforme |
+| 249 | nessuno | pagina | nessuna | nessuna | conforme |
+| 250 | nessuno | pagina | nessuna | nessuna | conforme |
+| 251 | nessuno | pagina | nessuna | nessuna | conforme |
+| 252 | nessuno | pagina | nessuna | nessuna | conforme |
+| 253 | nessuno | pagina | nessuna | nessuna | conforme |
+| 254 | nessuno | pagina | nessuna | nessuna | conforme |
+| 255 | nessuno | pagina | nessuna | nessuna | conforme |
+| 256 | nessuno | pagina | nessuna | nessuna | conforme |
+| 257 | nessuno | pagina | nessuna | nessuna | conforme |
+| 258 | nessuno | pagina | nessuna | nessuna | conforme |
+| 259 | nessuno | pagina | nessuna | nessuna | conforme |
+| 260 | nessuno | pagina | nessuna | nessuna | conforme |
+| 261 | nessuno | pagina | nessuna | nessuna | conforme |
+| 262 | nessuno | pagina | nessuna | nessuna | conforme |
+| 263 | nessuno | pagina | nessuna | nessuna | conforme |
+| 264 | nessuno | pagina | nessuna | nessuna | conforme |
+| 265 | nessuno | pagina | nessuna | nessuna | conforme |
+| 266 | nessuno | pagina | nessuna | nessuna | conforme |
+| 267 | nessuno | pagina | nessuna | nessuna | conforme |
+| 268 | margins<br>typography | padding pagina<br>content heading 1: size 26.6667px | bloccante | applicato master 23/13/18 mm<br>riconosciuto titolo apertura modulo 20 pt | risolto - ricontrollato |
+| 269 | nessuno | pagina | nessuna | nessuna | conforme |
+| 270 | nessuno | pagina | nessuna | nessuna | conforme |
+| 271 | nessuno | pagina | nessuna | nessuna | conforme |
+| 272 | nessuno | pagina | nessuna | nessuna | conforme |
+| 273 | nessuno | pagina | nessuna | nessuna | conforme |
+| 274 | nessuno | pagina | nessuna | nessuna | conforme |
+| 275 | nessuno | pagina | nessuna | nessuna | conforme |
+| 276 | nessuno | pagina | nessuna | nessuna | conforme |
+| 277 | nessuno | pagina | nessuna | nessuna | conforme |
+| 278 | nessuno | pagina | nessuna | nessuna | conforme |
+| 279 | nessuno | pagina | nessuna | nessuna | conforme |
+| 280 | nessuno | pagina | nessuna | nessuna | conforme |
+| 281 | nessuno | pagina | nessuna | nessuna | conforme |
+| 282 | nessuno | pagina | nessuna | nessuna | conforme |
+| 283 | nessuno | pagina | nessuna | nessuna | conforme |
+| 284 | nessuno | pagina | nessuna | nessuna | conforme |
+| 285 | nessuno | pagina | nessuna | nessuna | conforme |
+| 286 | nessuno | pagina | nessuna | nessuna | conforme |
+| 287 | nessuno | pagina | nessuna | nessuna | conforme |
+| 288 | nessuno | pagina | nessuna | nessuna | conforme |
+| 289 | nessuno | pagina | nessuna | nessuna | conforme |
+| 290 | nessuno | pagina | nessuna | nessuna | conforme |
+| 291 | nessuno | pagina | nessuna | nessuna | conforme |
+| 292 | nessuno | pagina | nessuna | nessuna | conforme |
+| 293 | nessuno | pagina | nessuna | nessuna | conforme |
+| 294 | nessuno | pagina | nessuna | nessuna | conforme |
+| 295 | nessuno | pagina | nessuna | nessuna | conforme |
+| 296 | nessuno | pagina | nessuna | nessuna | conforme |
+| 297 | nessuno | pagina | nessuna | nessuna | conforme |
+| 298 | nessuno | pagina | nessuna | nessuna | conforme |
+| 299 | nessuno | pagina | nessuna | nessuna | conforme |
+| 300 | nessuno | pagina | nessuna | nessuna | conforme |
+| 301 | nessuno | pagina | nessuna | nessuna | conforme |
+| 302 | nessuno | pagina | nessuna | nessuna | conforme |
+| 303 | nessuno | pagina | nessuna | nessuna | conforme |
+| 304 | nessuno | pagina | nessuna | nessuna | conforme |
+| 305 | nessuno | pagina | nessuna | nessuna | conforme |
+| 306 | nessuno | pagina | nessuna | nessuna | conforme |
+| 307 | nessuno | pagina | nessuna | nessuna | conforme |
+| 308 | nessuno | pagina | nessuna | nessuna | conforme |
+| 309 | nessuno | pagina | nessuna | nessuna | conforme |
+| 310 | nessuno | pagina | nessuna | nessuna | conforme |
+| 311 | nessuno | pagina | nessuna | nessuna | conforme |
+| 312 | nessuno | pagina | nessuna | nessuna | conforme |
+| 313 | nessuno | pagina | nessuna | nessuna | conforme |
+| 314 | nessuno | pagina | nessuna | nessuna | conforme |
+| 315 | nessuno | pagina | nessuna | nessuna | conforme |
+| 316 | nessuno | pagina | nessuna | nessuna | conforme |
+| 317 | nessuno | pagina | nessuna | nessuna | conforme |
+| 318 | nessuno | pagina | nessuna | nessuna | conforme |
+| 319 | nessuno | pagina | nessuna | nessuna | conforme |
+| 320 | nessuno | pagina | nessuna | nessuna | conforme |
+| 321 | nessuno | pagina | nessuna | nessuna | conforme |
+| 322 | nessuno | pagina | nessuna | nessuna | conforme |
+| 323 | nessuno | pagina | nessuna | nessuna | conforme |
+| 324 | nessuno | pagina | nessuna | nessuna | conforme |
+| 325 | nessuno | pagina | nessuna | nessuna | conforme |
+| 326 | nessuno | pagina | nessuna | nessuna | conforme |
+| 327 | nessuno | pagina | nessuna | nessuna | conforme |
+| 328 | nessuno | pagina | nessuna | nessuna | conforme |
+| 329 | margins<br>typography | padding pagina<br>content heading 1: size 26.6667px | bloccante | applicato master 23/13/18 mm<br>riconosciuto titolo apertura modulo 20 pt | risolto - ricontrollato |
+| 330 | nessuno | pagina | nessuna | nessuna | conforme |
+| 331 | nessuno | pagina | nessuna | nessuna | conforme |
+| 332 | nessuno | pagina | nessuna | nessuna | conforme |
+| 333 | nessuno | pagina | nessuna | nessuna | conforme |
+| 334 | nessuno | pagina | nessuna | nessuna | conforme |
+| 335 | nessuno | pagina | nessuna | nessuna | conforme |
+| 336 | nessuno | pagina | nessuna | nessuna | conforme |
+| 337 | nessuno | pagina | nessuna | nessuna | conforme |
+| 338 | nessuno | pagina | nessuna | nessuna | conforme |
+| 339 | nessuno | pagina | nessuna | nessuna | conforme |
+| 340 | nessuno | pagina | nessuna | nessuna | conforme |
+| 341 | nessuno | pagina | nessuna | nessuna | conforme |
+| 342 | nessuno | pagina | nessuna | nessuna | conforme |
+| 343 | nessuno | pagina | nessuna | nessuna | conforme |
+| 344 | nessuno | pagina | nessuna | nessuna | conforme |
+| 345 | nessuno | pagina | nessuna | nessuna | conforme |
+| 346 | nessuno | pagina | nessuna | nessuna | conforme |
+| 347 | nessuno | pagina | nessuna | nessuna | conforme |
+| 348 | nessuno | pagina | nessuna | nessuna | conforme |
+| 349 | nessuno | pagina | nessuna | nessuna | conforme |
+| 350 | nessuno | pagina | nessuna | nessuna | conforme |
+| 351 | nessuno | pagina | nessuna | nessuna | conforme |
+| 352 | nessuno | pagina | nessuna | nessuna | conforme |
+| 353 | nessuno | pagina | nessuna | nessuna | conforme |
+| 354 | nessuno | pagina | nessuna | nessuna | conforme |
+| 355 | nessuno | pagina | nessuna | nessuna | conforme |
+| 356 | nessuno | pagina | nessuna | nessuna | conforme |
+| 357 | nessuno | pagina | nessuna | nessuna | conforme |
+| 358 | nessuno | pagina | nessuna | nessuna | conforme |
+| 359 | nessuno | pagina | nessuna | nessuna | conforme |
+| 360 | nessuno | pagina | nessuna | nessuna | conforme |
+| 361 | nessuno | pagina | nessuna | nessuna | conforme |
+| 362 | nessuno | pagina | nessuna | nessuna | conforme |
+| 363 | nessuno | pagina | nessuna | nessuna | conforme |
+| 364 | nessuno | pagina | nessuna | nessuna | conforme |
+| 365 | nessuno | pagina | nessuna | nessuna | conforme |
+| 366 | nessuno | pagina | nessuna | nessuna | conforme |
+| 367 | nessuno | pagina | nessuna | nessuna | conforme |
+| 368 | nessuno | pagina | nessuna | nessuna | conforme |
+| 369 | nessuno | pagina | nessuna | nessuna | conforme |
+| 370 | nessuno | pagina | nessuna | nessuna | conforme |
+| 371 | nessuno | pagina | nessuna | nessuna | conforme |
+| 372 | nessuno | pagina | nessuna | nessuna | conforme |
+| 373 | nessuno | pagina | nessuna | nessuna | conforme |
+| 374 | nessuno | pagina | nessuna | nessuna | conforme |
+| 375 | nessuno | pagina | nessuna | nessuna | conforme |
+| 376 | nessuno | pagina | nessuna | nessuna | conforme |
+| 377 | nessuno | pagina | nessuna | nessuna | conforme |
+| 378 | nessuno | pagina | nessuna | nessuna | conforme |
+| 379 | nessuno | pagina | nessuna | nessuna | conforme |
+| 380 | nessuno | pagina | nessuna | nessuna | conforme |
+| 381 | nessuno | pagina | nessuna | nessuna | conforme |
+| 382 | nessuno | pagina | nessuna | nessuna | conforme |
+| 383 | nessuno | pagina | nessuna | nessuna | conforme |
+| 384 | nessuno | pagina | nessuna | nessuna | conforme |
+| 385 | nessuno | pagina | nessuna | nessuna | conforme |
+| 386 | nessuno | pagina | nessuna | nessuna | conforme |
+| 387 | nessuno | pagina | nessuna | nessuna | conforme |
+| 388 | nessuno | pagina | nessuna | nessuna | conforme |
+| 389 | nessuno | pagina | nessuna | nessuna | conforme |
+| 390 | nessuno | pagina | nessuna | nessuna | conforme |
+| 391 | nessuno | pagina | nessuna | nessuna | conforme |
+| 392 | nessuno | pagina | nessuna | nessuna | conforme |
+| 393 | page-fill | area utile | media | confermato vincolo titolo piu primo contenuto sulla pagina successiva | risolto - ricontrollato |
+| 394 | nessuno | pagina | nessuna | nessuna | conforme |
+<!-- page-audit-registry:end -->
+
+## Correzioni e riesecuzioni
+
+- Baseline automatica eseguita su 394 pagine.
+- Tavola 01, pagine 1-20: ispezionata; ricontrollati front matter, indice e apertura M-SA01.
+- Tavola 02, pagine 21-40: ispezionata; nessuna anomalia visiva aggiuntiva.
+- Tavola 03, pagine 41-60: ispezionata; nessuna anomalia visiva aggiuntiva.
+- Tavola 04, pagine 61-80: ispezionata; nessuna anomalia visiva aggiuntiva.
+- Tavola 05, pagine 81-100: ispezionata; nessuna anomalia visiva aggiuntiva.
+- Tavola 06, pagine 101-120: ispezionata; ricontrollata apertura M-SA02.
+- Tavola 07, pagine 121-140: ispezionata; ricontrollata pagina 134.
+- Tavola 08, pagine 141-160: ispezionata; nessuna anomalia visiva aggiuntiva.
+- Tavola 09, pagine 161-180: ispezionata; nessuna anomalia visiva aggiuntiva.
+- Tavola 10, pagine 181-200: ispezionata; nessuna anomalia visiva aggiuntiva.
+- Tavola 11, pagine 201-220: ispezionata; nessuna anomalia visiva aggiuntiva.
+- Tavola 12, pagine 221-240: ispezionata; nessuna anomalia visiva aggiuntiva.
+- Tavola 13, pagine 241-260: ispezionata; nessuna anomalia visiva aggiuntiva.
+- Tavola 14, pagine 261-280: ispezionata; ricontrollata apertura M-SA03.
+- Tavola 15, pagine 281-300: ispezionata; nessuna anomalia visiva aggiuntiva.
+- Tavola 16, pagine 301-320: ispezionata; nessuna anomalia visiva aggiuntiva.
+- Tavola 17, pagine 321-340: ispezionata; ricontrollata apertura M-SA04.
+- Tavola 18, pagine 341-360: ispezionata; nessuna anomalia visiva aggiuntiva.
+- Tavola 19, pagine 361-380: ispezionata; nessuna anomalia visiva aggiuntiva.
+- Tavola 20, pagine 381-394: ispezionata; ricontrollata pagina 393 e chiusura del volume.
+- Tavole-contatto ispezionate: 20/20 (pagine 1-394, senza salti o duplicati).
+- Verifica repository: typecheck conforme; 46 file di test e 427 test superati.
+- Riesecuzione finale: conforme; 394/394 pagine registrate, 0 bloccanti aperti, 0 significativi aperti.
+- Gate pipeline: chiuso con accettazione manuale motivata dopo risposta JSON `gate-not-implemented`; prossimo step `21:VOL-07`.
