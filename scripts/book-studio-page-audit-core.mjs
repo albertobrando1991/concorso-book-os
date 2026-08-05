@@ -54,6 +54,13 @@ export function buildContactSheetRanges(pageCount, sheetSize = 20) {
   return ranges
 }
 
+export function flaggedPageNumbers(issues, explicitPages = []) {
+  return [...new Set([
+    ...issues.map((issue) => issue.page),
+    ...explicitPages
+  ])].sort((left, right) => left - right)
+}
+
 export function classifyPageDiagnostic(page, context) {
   const issues = []
   const add = (problemType, element, severity, correction) => {

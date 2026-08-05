@@ -98,6 +98,10 @@ export interface PageAuditReportInput {
 
 export function resolvePageAuditOptions(env?: Record<string, string | undefined>): PageAuditOptions
 export function buildContactSheetRanges(pageCount: number, sheetSize?: number): ContactSheetRange[]
+export function flaggedPageNumbers(
+  issues: Array<{ page: number }>,
+  explicitPages?: number[]
+): number[]
 export function classifyPageDiagnostic(
   page: PageDiagnostic,
   context: PageAuditContext

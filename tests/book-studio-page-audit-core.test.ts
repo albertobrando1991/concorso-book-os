@@ -3,6 +3,7 @@ import {
   buildContactSheetRanges,
   buildPageRegistryRows,
   classifyPageDiagnostic,
+  flaggedPageNumbers,
   renderPageAuditMarkdown,
   resolvePageAuditOptions,
   validatePageAuditMarkdown
@@ -99,6 +100,14 @@ describe("contact sheet coverage", () => {
     expect(ranges.flatMap((range) => range.pages)).toEqual(
       Array.from({ length: 381 }, (_, index) => index + 1)
     )
+  })
+
+  it("deduplicates automatic and explicit screenshot pages", () => {
+    expect(flaggedPageNumbers([
+      { page: 9 },
+      { page: 2 },
+      { page: 9 }
+    ], [7, 2])).toEqual([2, 7, 9])
   })
 })
 
