@@ -3302,3 +3302,12 @@
 - atoms:
   - mem-20260805161744-16dbq5f | workflow | Proseguire autonomamente la pipeline aggiornata di VOL-02 dopo il capitolo 10.
   - mem-20260805161744-lk9f7j | result | Esito codex-vol02-mfl01-cap11: Proseguire autonomamente la pipeline aggiornata di VOL-02 dopo il capitolo 10. -> Completati gli step 08-12 del capitolo 11 Entrate, tributi locali, patrimonio, economato e riscossione.
+
+## 2026-08-05T16:23:01.435Z - git-publish
+
+- conversation_id: conv-20260805162301-ebm2ct
+- route: codex/git-publish
+- l0: l0/conv-20260805162301-ebm2ct.md
+- atoms:
+  - mem-20260805162301-h3d2eg | instruction | Commit e push di tutte le modifiche effettuate finora, inclusa la logica di pipeline e download per lo staff, senza sovrascrivere altro.
+  - mem-20260805162301-1o8jzn0 | result | Esito codex/git-publish: Commit e push di tutte le modifiche effettuate finora, inclusa la logica di pipeline e download per lo staff, senza sovrascrivere altro. -> Pubblicazione eseguita su origin/main con push fast-forward senza force, reset o rebase.
