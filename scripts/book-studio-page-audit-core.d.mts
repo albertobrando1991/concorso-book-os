@@ -23,6 +23,7 @@ export interface PageBlockDiagnostic {
   type: string
   continued: boolean
   lines: number
+  sharesWithAdjacent?: boolean
 }
 
 export interface TableDiagnostic {
@@ -68,8 +69,20 @@ export interface PageDiagnostic {
   unjustifiedProse: string[]
   consecutiveImages: boolean
   detachedBlocks: string[]
+  nextPageStartsWithProtectedHeading: boolean
+  isFrontMatterContinuation: boolean
   isSectionTerminal: boolean
 }
+
+export const PAGE_AUDIT_TYPOGRAPHY: Readonly<{
+  contentHeading: readonly number[]
+  frontMatterFirstHeading: readonly number[]
+  titlePageFirstHeading: readonly number[]
+  titlePageSecondaryHeading: readonly number[]
+  analyticalIndexFirstHeading: readonly number[]
+  h4: readonly number[]
+  h5: readonly number[]
+}>
 
 export interface PageAuditContext {
   pageCount: number

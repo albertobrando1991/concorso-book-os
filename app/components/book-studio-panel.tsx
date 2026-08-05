@@ -972,7 +972,8 @@ function PreviewBlock({ block, bookId }: { block: MarkdownBlock; bookId?: string
   const metadata = getPreviewBlockMetadata(block)
   const auditAttributes = {
     "data-block-type": metadata.blockType,
-    "data-block-continued": metadata.continued ? "true" : undefined
+    "data-block-continued": metadata.continued ? "true" : undefined,
+    "data-block-continuation-key": block.continuationKey || undefined
   }
 
   if (block.type === "heading") {

@@ -1359,10 +1359,6 @@ h1 {
   text-align: center;
 }
 
-.frontMatterPage {
-  padding: 15mm 13mm 16mm;
-}
-
 .frontMatterBrand {
   position: relative;
   z-index: 1;
@@ -1423,14 +1419,13 @@ h1 {
   display: grid;
   align-content: center;
   min-height: 100%;
-  padding: 22mm 18mm;
 }
 
 .frontMatter-title-page .frontMatterBrand {
   position: absolute;
-  top: 17mm;
-  left: 18mm;
-  right: 18mm;
+  top: var(--book-padding-top);
+  right: var(--book-padding-right);
+  left: var(--book-padding-left);
 }
 
 .frontMatter-title-page .frontMatterBlocks {
@@ -1469,10 +1464,6 @@ h1 {
   font-size: 14pt;
   font-weight: 700;
   text-align: center;
-}
-
-.frontMatter-digital-services {
-  padding: 0;
 }
 
 .digitalServicesHero {
@@ -1582,7 +1573,6 @@ h1 {
 .frontMatter-module-opening {
   display: grid;
   align-content: center;
-  padding: 18mm 15mm;
 }
 
 .frontMatter-module-opening .frontMatterBlocks > h3:first-child {
@@ -1633,7 +1623,7 @@ h1 {
 }
 
 .indexPart {
-  margin: 12px 0 7px;
+  margin: 6px 0 3px;
   text-align: center;
 }
 
@@ -1668,7 +1658,7 @@ h1 {
 }
 
 .indexChapterLine {
-  margin: 7px 0 3px;
+  margin: 5px 0 2px;
   color: var(--book-rich-black);
   font-size: 10px;
   font-weight: 800;

@@ -4,6 +4,7 @@ import {
   buildPageRegistryRows,
   classifyPageDiagnostic,
   flaggedPageNumbers,
+  PAGE_AUDIT_TYPOGRAPHY,
   renderPageAuditMarkdown,
   resolvePageAuditOptions,
   validatePageAuditMarkdown
@@ -50,6 +51,8 @@ function basePage(overrides: Partial<PageDiagnostic> = {}): PageDiagnostic {
     unjustifiedProse: [],
     consecutiveImages: false,
     detachedBlocks: [],
+    nextPageStartsWithProtectedHeading: false,
+    isFrontMatterContinuation: false,
     isSectionTerminal: false,
     ...overrides
   }
@@ -152,6 +155,19 @@ describe("page diagnostic classification", () => {
     ]))
   })
 
+  it("does not flag a short chunk joined to the same paragraph on the page", () => {
+    const issues = classifyPageDiagnostic(basePage({
+      lastBlock: {
+        type: "paragraph",
+        continued: true,
+        lines: 2,
+        sharesWithAdjacent: true
+      }
+    }), context)
+
+    expect(issues.some((issue) => issue.problemType === "widow-orphan")).toBe(false)
+  })
+
   it("flags a detached box as significant", () => {
     const issues = classifyPageDiagnostic(basePage({
       detachedBlocks: ["callout 2"]
@@ -160,6 +176,21 @@ describe("page diagnostic classification", () => {
     expect(issues).toEqual(expect.arrayContaining([
       expect.objectContaining({
         problemType: "detached-box",
+        severity: "media"
+      })
+    ]))
+  })
+
+  it("flags an analytical index continued onto another page", () => {
+    const issues = classifyPageDiagnostic(basePage({
+      sectionType: "front_matter",
+      frontMatterLayout: "analytical-index",
+      isFrontMatterContinuation: true
+    }), context)
+
+    expect(issues).toEqual(expect.arrayContaining([
+      expect.objectContaining({
+        problemType: "split-index",
         severity: "media"
       })
     ]))
@@ -188,6 +219,22 @@ describe("page diagnostic classification", () => {
       sectionType: "front_matter",
       frontMatterLayout: "title-page"
     }), context).some((issue: { problemType: string }) => issue.problemType === "page-fill")).toBe(false)
+
+    expect(classifyPageDiagnostic(basePage({
+      freeSpace: 181,
+      fillRatio: 0.34,
+      nextPageStartsWithProtectedHeading: true
+    }), context).some((issue: { problemType: string }) => issue.problemType === "page-fill")).toBe(false)
+  })
+
+  it("recognizes the approved front-matter heading roles", () => {
+    expect(PAGE_AUDIT_TYPOGRAPHY).toMatchObject({
+      contentHeading: [18.67],
+      frontMatterFirstHeading: [26.67],
+      titlePageFirstHeading: [40],
+      titlePageSecondaryHeading: [16],
+      analyticalIndexFirstHeading: [24]
+    })
   })
 
   it("returns no issue for a compliant page", () => {

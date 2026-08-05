@@ -1,6 +1,16 @@
 const DEFAULT_REPORT = "wiki/reviews/pipeline/VOL-07/20-vol-07-audit-pagina-per-pagina.md"
 const PX_PER_MM = 96 / 25.4
 
+export const PAGE_AUDIT_TYPOGRAPHY = Object.freeze({
+  contentHeading: [18.67],
+  frontMatterFirstHeading: [26.67],
+  titlePageFirstHeading: [40],
+  titlePageSecondaryHeading: [16],
+  analyticalIndexFirstHeading: [24],
+  h4: [16],
+  h5: [14.67]
+})
+
 export function resolvePageAuditOptions(env = process.env) {
   const expectedPageCount = positiveInteger(
     env.BOOK_STUDIO_EXPECTED_PAGE_COUNT || "381",
@@ -130,18 +140,27 @@ export function classifyPageDiagnostic(page, context) {
     add("consecutive-images", "figure consecutive", "bloccante", "separare le figure con contenuto motivante")
   }
   for (const edge of [page.firstBlock, page.lastBlock]) {
-    if (edge?.type === "paragraph" && edge.continued && edge.lines < 3) {
+    if (
+      edge?.type === "paragraph"
+      && edge.continued
+      && edge.lines < 3
+      && !edge.sharesWithAdjacent
+    ) {
       add("widow-orphan", "frammento paragrafo", "media", "ripaginare almeno tre righe insieme")
     }
   }
   for (const value of page.detachedBlocks) {
     add("detached-box", value, "media", "tenere box e primo contenuto insieme")
   }
+  if (page.frontMatterLayout === "analytical-index" && page.isFrontMatterContinuation) {
+    add("split-index", "indice analitico", "media", "ricomporre l'indice completo su una sola pagina")
+  }
 
   const whitespaceLimit = Math.max(180, context.medianFreeSpace + 120)
   const exemptWhitespace = page.isSectionTerminal
     || page.sectionType === "front_matter"
     || page.frontMatterLayout === "module-opening"
+    || page.nextPageStartsWithProtectedHeading
 
   if (!exemptWhitespace && (page.freeSpace > whitespaceLimit || page.fillRatio < 0.35)) {
     add("page-fill", "area utile", "media", "verificare ritmo e ripaginare il vuoto anomalo")

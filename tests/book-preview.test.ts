@@ -288,6 +288,7 @@ describe("book preview assets", () => {
 
       expect(paragraphBlocks.length).toBeGreaterThan(1)
       expect(paragraphBlocks.slice(1).every((block) => block.continued)).toBe(true)
+      expect(new Set(paragraphBlocks.map((block) => block.continuationKey)).size).toBe(1)
       expect(paragraphBlocks.map((block) => block.text).join(" ")).toBe(longParagraph)
     } finally {
       await rm(root, { recursive: true, force: true })

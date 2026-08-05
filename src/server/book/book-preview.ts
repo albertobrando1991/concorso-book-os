@@ -46,6 +46,7 @@ export interface MarkdownBlock {
   headers?: string[]
   rows?: string[][]
   continued?: boolean
+  continuationKey?: string
   calloutType?: string
   title?: string
 }
@@ -1274,12 +1275,13 @@ function markdownToBlocks(markdown: string, sourcePath: string): MarkdownBlock[]
 function splitOversizedBlocks(blocks: MarkdownBlock[]) {
   const next: MarkdownBlock[] = []
 
-  for (const block of blocks) {
+  for (const [blockIndex, block] of blocks.entries()) {
     if (block.type === "paragraph" && countWords(block.text || "") > MAX_PARAGRAPH_WORDS_PER_PREVIEW_BLOCK) {
       splitTextIntoPreviewChunks(block.text || "", MAX_PARAGRAPH_WORDS_PER_PREVIEW_BLOCK).forEach((text, index) => {
         next.push({
           ...block,
           continued: index > 0,
+          continuationKey: `paragraph-${blockIndex}`,
           text
         })
       })

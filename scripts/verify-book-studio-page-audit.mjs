@@ -5,6 +5,7 @@ import {
   buildContactSheetRanges,
   classifyPageDiagnostic,
   flaggedPageNumbers,
+  PAGE_AUDIT_TYPOGRAPHY,
   renderPageAuditMarkdown,
   resolvePageAuditOptions,
   validatePageAuditMarkdown
@@ -119,10 +120,11 @@ try {
 }
 
 async function collectDiagnostics(page) {
-  return page.$$eval(".bookPages .bookPage", (bookPages) => {
+  return page.$$eval(".bookPages .bookPage", (bookPages, typography) => {
     const lastHeadingLevelByChapter = new Map()
 
     return bookPages.map((bookPage, index) => {
+      const previousPage = bookPages[index - 1]
       const nextPage = bookPages[index + 1]
       const pageRect = bookPage.getBoundingClientRect()
       const pageStyle = getComputedStyle(bookPage)
@@ -138,6 +140,11 @@ async function collectDiagnostics(page) {
       const visibleBlocks = Array.from(bookPage.querySelectorAll(
         ":scope > .previewBlocks > [data-block-type], :scope > .digitalServicesHero [data-block-type]"
       )).filter(isVisible)
+      const nextVisibleBlocks = nextPage
+        ? Array.from(nextPage.querySelectorAll(
+          ":scope > .previewBlocks > [data-block-type], :scope > .digitalServicesHero [data-block-type]"
+        )).filter(isVisible)
+        : []
       const blockRects = visibleBlocks.map((element) => element.getBoundingClientRect())
       const contentTop = blockRects.length > 0
         ? Math.min(...blockRects.map((rect) => rect.top))
@@ -232,8 +239,8 @@ async function collectDiagnostics(page) {
         fillRatio: usableHeight > 0 ? Math.max(0, Math.min(1, usedHeight / usableHeight)) : 0,
         overflow: Math.max(0, Math.round(contentBottom - safeBottom)),
         collisions,
-        firstBlock: blockDiagnostic(visibleBlocks[0]),
-        lastBlock: blockDiagnostic(visibleBlocks.at(-1)),
+        firstBlock: blockDiagnostic(visibleBlocks[0], visibleBlocks[1]),
+        lastBlock: blockDiagnostic(visibleBlocks.at(-1), visibleBlocks.at(-2)),
         tables,
         images,
         rawMarkdown,
@@ -245,6 +252,13 @@ async function collectDiagnostics(page) {
             && visibleBlocks[blockIndex + 1]?.getAttribute("data-block-type") === "image"
         ),
         detachedBlocks: [],
+        nextPageStartsWithProtectedHeading: nextVisibleBlocks.length > 1
+          && nextVisibleBlocks[0].getAttribute("data-block-type") === "heading",
+        isFrontMatterContinuation: Boolean(
+          previousPage
+          && sectionType === "front_matter"
+          && previousPage.getAttribute("data-chapter-path") === chapterPath
+        ),
         isSectionTerminal: !nextPage
           || nextPage.getAttribute("data-chapter-path") !== chapterPath
       }
@@ -259,16 +273,21 @@ async function collectDiagnostics(page) {
       return rect.width > 0 && rect.height > 0
     }
 
-    function blockDiagnostic(element) {
+    function blockDiagnostic(element, adjacentElement) {
       if (!element) return undefined
       const rect = element.getBoundingClientRect()
       const style = getComputedStyle(element)
       const lineHeight = Number.parseFloat(style.lineHeight)
         || Number.parseFloat(style.fontSize) * 1.2
+      const continuationKey = element.getAttribute("data-block-continuation-key")
       return {
         type: element.getAttribute("data-block-type") || element.tagName.toLowerCase(),
         continued: element.getAttribute("data-block-continued") === "true",
-        lines: Math.max(1, Math.round(rect.height / lineHeight))
+        lines: Math.max(1, Math.round(rect.height / lineHeight)),
+        sharesWithAdjacent: Boolean(
+          continuationKey
+          && continuationKey === adjacentElement?.getAttribute("data-block-continuation-key")
+        )
       }
     }
 
@@ -344,18 +363,26 @@ async function collectDiagnostics(page) {
     }
 
     function headingSizes(element, bookPage, frontMatterLayout) {
-      if (element.tagName === "H4") return [16]
-      if (element.tagName === "H5") return [14.67]
+      if (element.tagName === "H4") return typography.h4
+      if (element.tagName === "H5") return typography.h5
+      if (
+        frontMatterLayout === "title-page"
+        && element.matches(".frontMatterBlocks > h3:first-child")
+      ) return typography.titlePageFirstHeading
       if (
         frontMatterLayout === "analytical-index"
         && element.matches(".frontMatterBlocks > h3:first-child")
-      ) return [24]
+      ) return typography.analyticalIndexFirstHeading
+      if (
+        bookPage.classList.contains("frontMatterPage")
+        && element.matches(".frontMatterBlocks > h3:first-child, .digitalHeroCopy h3")
+      ) return typography.frontMatterFirstHeading
       if (
         frontMatterLayout === "title-page"
         && element.matches(".frontMatterBlocks h3:not(:first-child)")
-      ) return [16]
-      if (bookPage.classList.contains("frontMatterPage")) return [18.67, 24]
-      return [18.67]
+      ) return typography.titlePageSecondaryHeading
+      if (bookPage.classList.contains("frontMatterPage")) return typography.contentHeading
+      return typography.contentHeading
     }
 
     function collectUnjustifiedProse(bookPage, frontMatterLayout) {
@@ -376,7 +403,7 @@ async function collectDiagnostics(page) {
           : []
       })
     }
-  })
+  }, PAGE_AUDIT_TYPOGRAPHY)
 }
 
 async function captureContactSheet(page, range, prefix) {
