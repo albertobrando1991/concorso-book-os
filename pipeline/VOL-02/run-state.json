@@ -3,7 +3,7 @@
   "specPath": "books/vol-02-enti-locali-polizia-locale/planning/00-scheda-pipeline.md",
   "specHash": "sha256:b9ec2abf7ad63aaa5271f5f2d561817a092ec16c24727d57ebf82ef84b0a5a6b",
   "createdAt": "2026-07-29T22:02:16.845Z",
-  "updatedAt": "2026-08-05T15:56:18.106Z",
+  "updatedAt": "2026-08-05T16:15:08.361Z",
   "steps": [
     {
       "key": "08:moduli/m-fl01-comuni-unioni/chapters/00-piano-editoriale.md",
@@ -1322,9 +1322,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl01-comuni-unioni/chapters/11-entrate-tributi-locali-patrimonio-economato-riscossione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T16:02:22.419Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fl01-comuni-unioni/chapters/11-entrate-tributi-locali-patrimonio-economato-riscossione.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano verificato manualmente: sette nuclei stabili, confini con capitoli 10/12/13 e VOL-01, fonti consolidate, budget, verifiche e audit specialistici documentati in wiki/reviews/pipeline/VOL-02/08-piano-m-fl01-cap11.md."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-05T16:04:03.299Z"
     },
     {
       "key": "09:moduli/m-fl01-comuni-unioni/chapters/11-entrate-tributi-locali-patrimonio-economato-riscossione.md",
@@ -1332,9 +1355,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl01-comuni-unioni/chapters/11-entrate-tributi-locali-patrimonio-economato-riscossione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T16:04:06.716Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-05T16:08:15.644Z"
     },
     {
       "key": "10:moduli/m-fl01-comuni-unioni/chapters/11-entrate-tributi-locali-patrimonio-economato-riscossione.md",
@@ -1342,9 +1375,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl01-comuni-unioni/chapters/11-entrate-tributi-locali-patrimonio-economato-riscossione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T16:08:24.165Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-05T16:11:59.069Z"
     },
     {
       "key": "11:moduli/m-fl01-comuni-unioni/chapters/11-entrate-tributi-locali-patrimonio-economato-riscossione.md",
@@ -1352,9 +1395,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl01-comuni-unioni/chapters/11-entrate-tributi-locali-patrimonio-economato-riscossione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T16:12:06.815Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-05T16:13:40.003Z"
     },
     {
       "key": "12:moduli/m-fl01-comuni-unioni/chapters/11-entrate-tributi-locali-patrimonio-economato-riscossione.md",
@@ -1362,9 +1415,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl01-comuni-unioni/chapters/11-entrate-tributi-locali-patrimonio-economato-riscossione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T16:14:12.934Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-05T16:15:08.361Z"
     },
     {
       "key": "08:moduli/m-fl01-comuni-unioni/chapters/12-procurement-operativo-ufficio-comunale.md",
