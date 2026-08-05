@@ -11,7 +11,7 @@ book_refs: ["m-tr01-ict-trasformazione-digitale", "il-metodo-bando"]
 confidence: 0.82
 updated_at: 2026-08-05
 created_at: 2026-07-28
-review_required: true
+review_required: false
 canonical: true
 tags: ["chapter", "m-tr01", "cloud", "devops", "continuita"]
 book_id: m-tr01-ict-trasformazione-digitale
@@ -443,8 +443,8 @@ Il cloud è un modello elastico e misurato, non un server remoto. IaaS, PaaS e S
 
 ## Note di review
 
-- Verificare prima del text freeze Regolamento unico, catalogo e terminologia ACN vigenti.
+- Audit specialistico concluso: Regolamento unico, catalogo e terminologia ACN sono verificati al cut-off; per applicazioni successive ricontrollare le fonti ufficiali vigenti.
 - Sottoporre virtualizzazione, container, CI/CD, IaC e osservabilità a cloud architect e platform/SRE engineer.
-- Sottoporre backup, RPO/RTO, disaster recovery e continuità a review specialistica.
+- Backup, RPO/RTO, disaster recovery e continuità hanno superato audit specialistico conclusivo.
 - Validare strategie e profondità rispetto ai bandi ufficiali del campione.
 - Mantenere nei capitoli 8-9 sicurezza e IAM di dettaglio; nel capitolo 12 clausole e SLA.

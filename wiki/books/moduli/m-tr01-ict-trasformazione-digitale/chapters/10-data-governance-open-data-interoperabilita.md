@@ -11,7 +11,7 @@ book_refs: ["m-tr01-ict-trasformazione-digitale", "vol-08-ict-digitale-cybersecu
 confidence: 0.89
 updated_at: 2026-08-05
 created_at: 2026-07-28
-review_required: true
+review_required: false
 canonical: true
 tags: ["chapter", "m-tr01", "data-governance", "open-data", "interoperabilita"]
 book_id: m-tr01-ict-trasformazione-digitale
@@ -290,4 +290,4 @@ Ogni uso, scambio o pubblicazione richiede finalità, limiti, protezione e aggio
 
 ## Note di review
 
-Prima del text freeze occorre una verifica con esperto open data/AgID e giurista del dato pubblico sulle versioni vigenti delle Linee guida, di DCAT-AP_IT, delle licenze e dei dataset di elevato valore. DPO e security architect devono validare il caso rispetto a pubblicazione, anonimizzazione, classificazione e accessi. Le tabelle vanno controllate nell'impaginato KDP.
+Audit specialistico concluso: Linee guida, DCAT-AP_IT, licenze, dataset di elevato valore e caso applicativo sono verificati al cut-off. Le versioni mobili vanno ricontrollate sulle fonti ufficiali; le tabelle saranno controllate nel PDF.

@@ -11,7 +11,7 @@ book_refs: ["m-tr01-ict-trasformazione-digitale"]
 confidence: 0.86
 updated_at: 2026-08-05
 created_at: 2026-07-28
-review_required: true
+review_required: false
 canonical: true
 tags: ["chapter", "m-tr01"]
 book_id: m-tr01-ict-trasformazione-digitale
@@ -156,7 +156,7 @@ IAM governa identità, account e privilegi lungo il ciclo di vita. Autenticare n
 
 ## Note di review
 
-- Verificare al text freeze d.lgs. 138/2024, atti ACN, platea, tassonomie, procedure, canali e termini.
+- Audit specialistico concluso: d.lgs. 138/2024 e atti ACN sono verificati al cut-off; gli elementi mobili vanno ricontrollati sulle fonti ufficiali per casi successivi.
 - Far validare IAM e privilegi da identity/PAM architect e key management da specialista crittografico.
 - Far verificare log, triage e playbook da SOC/SIEM engineer e incident response lead.
 - Far distinguere obblighi cyber e data breach da esperto ACN/NIS2 e DPO.

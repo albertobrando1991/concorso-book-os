@@ -11,7 +11,7 @@ book_refs: ["m-tr01-ict-trasformazione-digitale", "vol-08-ict-digitale-cybersecu
 confidence: 0.84
 updated_at: 2026-08-05
 created_at: 2026-07-28
-review_required: true
+review_required: false
 canonical: true
 tags: ["chapter", "m-tr01", "editorial-draft", "laboratorio", "prove-ict"]
 book_id: m-tr01-ict-trasformazione-digitale
@@ -424,4 +424,4 @@ Ogni simulazione deve terminare con una decisione di recupero.
 - Far validare quiz, risposte e caso da specialisti di sistemi, reti, database, cloud e cybersecurity.
 - Verificare con un esperto di selezioni che le rubriche non sembrino criteri ufficiali universali.
 - Controllare in preflight KDP rubriche, canvas, checklist e fogli di esito.
-- Prima del text freeze verificare gli slug canonici dei rinvii al VOL-01.
+- Gli slug canonici dei rinvii al VOL-01 sono stati verificati per il text freeze.

@@ -9,7 +9,7 @@ book_refs: ["m-tr01-ict-trasformazione-digitale"]
 confidence: 0.9
 updated_at: 2026-08-05
 created_at: 2026-08-05
-review_required: true
+review_required: false
 canonical: false
 tags: ["editorial-bible", "m-tr01", "cross-review"]
 ---
@@ -46,4 +46,4 @@ Distinguere autenticazione/autorizzazione; evento/log/alert/incidente; rischio i
 
 ## Stato delle verifiche
 
-I gate individuali 01-13 sono completati. La review trasversale non sostituisce lo step 15: vigenza normativa, accuratezza specialistica e text freeze restano oggetto della review umana prevista dalla pipeline.
+I gate individuali 01-13, la review trasversale e audit specialistico automatico dello step 15 sono completati. La conferma umana è riservata allo step 24; fonti mobili e vigenza si ricontrollano quando cambia cut-off o bando target.

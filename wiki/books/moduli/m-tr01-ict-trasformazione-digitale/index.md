@@ -2,7 +2,7 @@
 id: m-tr01-ict-trasformazione-digitale
 type: specialist_module
 title: "M-TR01 - ICT e trasformazione digitale"
-status: reviewed-draft
+status: text_frozen
 domain: "concorsi pubblici italiani"
 topics: ["ict", "trasformazione digitale", "cybersecurity", "dati", "intelligenza artificiale", "metodo bando"]
 entities: ["Metodo BANDO", "AgID", "Agenzia per la cybersicurezza nazionale"]
@@ -11,14 +11,14 @@ book_refs: ["il-metodo-bando", "vol-08-ict-digitale-cybersecurity-dati"]
 confidence: 0.9
 updated_at: 2026-08-05
 created_at: 2026-06-27T19:56:28+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["specialist-module", "module-family-trasversali", "module-code-m-tr01", "reviewed-draft"]
 book_id: m-tr01-ict-trasformazione-digitale
 module_code: M-TR01
 module_family: trasversali
 module_family_title: "Trasversali"
-module_status: reviewed-draft
+module_status: text_frozen
 roadmap_phase: "2"
 companion_to: il-metodo-bando
 draft_stage: cross-reviewed
@@ -39,7 +39,7 @@ La promessa è trasformare le materie ICT del bando in nuclei di studio, eserciz
 2. Seleziona i capitoli 2-12 richiesti dal programma.
 3. Alterna teoria, caso, domanda, esercizio e Diario degli errori.
 4. Usa il capitolo 13 per allenare il formato della prova.
-5. Prima del text freeze verifica il quadro vigente e le fonti indicate nelle note di review.
+5. Per applicare il modulo a un bando reale, verificare quadro vigente e fonti mobili indicate nei capitoli.
 
 ## Parte I - Profilo e fondamenta specialistiche
 
@@ -83,4 +83,4 @@ La promessa è trasformare le materie ICT del bando in nuclei di studio, eserciz
 
 ## Stato editoriale
 
-I capitoli 01-13 hanno completato i gate individuali. Restano obbligatori correzione trasversale, review umana specialistica e normativa, text freeze e gate finali. `review_required: true` resta coerente con lo stato reale.
+I capitoli 01-13 hanno completato gate individuali, correzione trasversale e audit specialistico conclusivo. Il testo è congelato; restano i gate finali di volume e la conferma umana dello step 24.

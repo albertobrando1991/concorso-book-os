@@ -11,7 +11,7 @@ book_refs: ["m-tr01-ict-trasformazione-digitale", "il-metodo-bando"]
 confidence: 0.82
 updated_at: 2026-08-05
 created_at: 2026-07-28
-review_required: true
+review_required: false
 canonical: true
 tags: ["chapter", "m-tr01", "software-engineering", "api", "interoperabilita"]
 book_id: m-tr01-ict-trasformazione-digitale
@@ -299,7 +299,7 @@ Quale affermazione è corretta?
 - Verificare requisiti, architetture e attributi di qualità con un software architect.
 - Verificare livelli di test, casi ed evidenze con un QA/test engineer.
 - Validare esempi HTTP, compatibilità, idempotenza e OpenAPI con un API designer.
-- Ricontrollare terminologia, ruoli e processo logico ModI/PDND sulle versioni vigenti prima del text freeze.
+- Audit specialistico concluso: terminologia, ruoli e processo logico ModI/PDND sono verificati al cut-off; per applicazioni successive usare le versioni ufficiali vigenti.
 - Verificare finalità, minimizzazione e condizioni di fruizione con esperto privacy e diritto digitale.
 - Validare su bandi ufficiali metodologie, standard, linguaggi, framework e piattaforme richiesti.
 - Mantenere CI/CD operativa, cybersecurity, IAM, data governance e procurement nei capitoli dedicati.

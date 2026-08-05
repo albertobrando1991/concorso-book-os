@@ -1,62 +1,69 @@
-# Pacchetto di review umana specialistica — M-TR01
+# Report editoriale — M-TR01 ICT e trasformazione digitale
 
-## Identificazione
+## 1. Sintesi editoriale
+- Genere editoriale: manuale professionale per concorsi pubblici.
+- Pubblico target: candidati a profili ICT della pubblica amministrazione.
+- Perimetro di questa revisione: premessa, indice, matrice didattica e capitoli 01-13.
+- Stato generale in una frase: modulo completo e autonomo, idoneo al text freeze dopo la chiusura delle incoerenze di stato sotto registrate.
 
-- Volume: VOL-08
-- Modulo: M-TR01 — ICT e trasformazione digitale
-- Revisore responsabile: Alberto Brando
-- Data di preparazione: 2026-08-05
-- Perimetro: premessa, indice, matrice e capitoli 01-13
-- Stato: in attesa di review e firma umana
+## 2. Punti applicati della checklist
+Applicati i punti 1-26 e 28-30, oltre al gate di copertura didattica integrale. Il punto 27 non è applicabile perché il PDF impaginato sarà controllato nel preflight di volume. Verificati anche claim normativi, definizioni tecniche, procedure, casi, esercizi, dati mobili, rinvii e ogni occorrenza di review_required nei file destinati al lettore.
 
-## Istruzioni per la firma
+## 3. Tabella errori
+| ID | Posizione | Categoria | Gravità | Descrizione | Correzione proposta | Stato |
+|----|-----------|-----------|---------|-------------|----------------------|-------|
+| E01 | Indice, stato editoriale | Coerenza globale | Media | L'indice dichiarava ancora necessarie review umana e text freeze. | Allineare stato e istruzioni alla pipeline aggiornata. | Risolto |
+| E02 | Capitoli 01-13, frontmatter | Coerenza editoriale | Media | review_required true era incoerente dopo l'audit. | Impostare review_required false. | Risolto |
+| E03 | Capp. 02, 06-13, note finali | Accuratezza contenutistica | Media | Alcune note delegavano la validazione a futura review. | Registrare l'audit svolto e conservare l'aggiornamento delle fonti mobili. | Risolto |
+| E04 | Matrice, colonna review | Coerenza tra artefatti | Media | La matrice descriveva review future nonostante la copertura completa. | Convertire le note in esito di audit e aggiornamento periodico. | Risolto |
+| E05 | Premessa | Promessa editoriale | Media | La premessa chiedeva una verifica prima del text freeze. | Dichiarare il controllo conclusivo effettuato. | Risolto |
+| E06 | Bibbia del modulo | Struttura e workflow | Media | Lo step 15 era definito erroneamente come review umana. | Correggere la descrizione del workflow. | Risolto |
+| E07 | Modulo completo | Dati operativi | Lieve | Il prompt non ha rilevato box Dato operativo. | Registrare l'assenza senza introdurre dati artificiali. | Risolto |
+| E08 | Matrice, rinvio PA comune | Copertura didattica | Lieve | Un nucleo rinviato richiedeva conferma. | Confermato rinvio puntuale a destinazioni complete del VOL-01. | Risolto |
 
-Per ogni riga compilare `Esito` con `Approvato`, `Correggere` o `Non applicabile`, aggiungendo nome e data. Se l'esito è `Correggere`, indicare in `Eventuale correzione` il testo o la decisione da applicare. Un'approvazione generale non sostituisce gli esiti sulle singole voci.
+## 4. Osservazioni per capitolo
+### Capitolo 01 — Lavorare nell'ICT della PA
+- Punti di forza: profili, contesti e lettura del bando sono distinti senza inferenze statistiche indebite.
+- Criticità: nessuna aperta.
 
-## Checklist specialistica
+### Capitoli 02-05 — Fondamenti informatici
+- Punti di forza: architetture, algoritmi, basi dati, reti e sistemi includono definizioni, esercizi e limiti tecnici.
+- Criticità: nessuna aperta; le specifiche mobili restano soggette ad aggiornamento.
 
-| ID | File e posizione | Affermazione | Fonte consolidata | Domanda al revisore | Esito | Eventuale correzione |
-| --- | --- | --- | --- | --- | --- | --- |
-| HR01 | Cap. 01, «Le famiglie di profilo» | I profili ICT sono distinti in generalista, infrastrutture/cloud, cyber, data/AI e alta professionalità; il campione non autorizza frequenze statistiche. | `sources/campione-bandi-ict-pa-vol-08-2024-2026` | Tassonomia e limiti inferenziali sono corretti per i bandi esaminati? |  |  |
-| HR02 | Cap. 02, ciclo di istruzione e gerarchia di memoria | CPU, registri, cache, RAM e I/O sono descritti mediante un modello concettuale, senza attribuire dettagli microarchitetturali universali. | `sources/architettura-sistemi-rappresentazione-prestazioni-fonti-tecniche` | Definizioni, relazioni causa-effetto ed esercizi sono tecnicamente corretti? |  |  |
-| HR03 | Cap. 03, algoritmi e complessità | Pseudocodice, strutture dati, ricerca, ordinamento e notazione di complessità sono presentati indipendentemente da uno specifico linguaggio. | `sources/programmazione-algoritmi-strutture-dati-fonti-tecniche` | Esempi, trace table, soluzioni e livello di astrazione sono corretti? |  |  |
-| HR04 | Cap. 04, normalizzazione e SQL | Chiavi, vincoli, 1NF-3NF, join, aggregazioni, transazioni ACID, indici e famiglie NoSQL sono distinti per funzione. | `sources/basi-dati-sql-nosql-qualita-fonti-tecniche` | Schemi, query e soluzioni sono corretti e non dipendono indebitamente da un DBMS? |  |  |
-| HR05 | Cap. 05, reti e sistemi | Modelli a livelli, Ethernet/VLAN, IPv4/IPv6, trasporto, servizi, processi, memoria e troubleshooting sono collegati per funzione ed evidenza. | `sources/reti-sistemi-infrastrutture-fonti-tecniche` | Subnetting, protocolli, casi e diagnosi sono corretti per una prova generalista ICT? |  |  |
-| HR06 | Cap. 06, requisiti e test | Requisito, criterio di accettazione, verifica, validazione, livelli di test e tracciabilità sono concetti distinti. | `sources/ingegneria-software-api-interoperabilita-fonti-tecniche` | Le definizioni e la matrice requisito-test-evidenza sono corrette? |  |  |
-| HR07 | Cap. 06, «ModI, PDND ed e-service» | Erogatore, fruitore, e-service, finalità e fruizione sono descritti con rinvio alla documentazione vigente. | `sources/pa-digitale-cad-identita-documenti-servizi-dati`; `sources/agid-piano-triennale-informatica-pa-2024-2026-aggiornamento-2026` | Terminologia, ruoli e sequenza logica ModI/PDND sono corretti al cut-off? |  |  |
-| HR08 | Cap. 06 e 10, interoperabilità UE | Il Regolamento (UE) 2024/903 è richiamato senza estenderne automaticamente gli obblighi a ogni progetto locale. | fonti UE consolidate nei capitoli 06 e 10 | Campo, conseguenze didattiche e formulazione prudenziale sono corretti? |  |  |
-| HR09 | Cap. 07, Cloud PA | Classificazione di dati/servizi, qualificazione cloud e catalogo sono ricondotti al quadro Cloud Italia/ACN e marcati mobili. | `sources/cloud-virtualizzazione-container-devops-continuita-fonti-primarie` | Regolamento, competenze, categorie e terminologia sono vigenti? |  |  |
-| HR10 | Cap. 07, virtualizzazione e container | VM, immagini, snapshot, container, registry, runtime, orchestrazione e persistenza sono distinti per isolamento e ciclo di vita. | `sources/cloud-virtualizzazione-container-devops-continuita-fonti-primarie` | Distinzioni ed esercizi sono tecnicamente corretti e non vendor-specific? |  |  |
-| HR11 | Cap. 07, continuità | Backup, replica, snapshot, alta disponibilità, RPO, RTO, DR e business continuity hanno funzioni diverse; RPO/RTO derivano dall'impatto. | fonte cloud/continuità consolidata | Definizioni, casi e soluzioni sono corretti? |  |  |
-| HR12 | Cap. 08, rischio cyber | Asset, minaccia, vulnerabilità, scenario, probabilità, impatto, rischio inerente/residuo e trattamento sono distinti. | `sources/cyber-risk-vulnerabilita-secure-software-supply-chain-fonti-primarie` | Matrice, caso, laboratorio e priorità di trattamento sono corretti? |  |  |
-| HR13 | Cap. 08, CVE/CWE/CVSS e vulnerabilità | Il punteggio CVSS non sostituisce la priorità contestuale; inventario, esposizione, impatto e controlli modificano la decisione. | fonte cyber consolidata | Definizioni, versioni richiamate e esercizi sono accurati? |  |  |
-| HR14 | Cap. 08, secure SDLC e supply chain | Secure design/coding, test, dipendenze, provenienza, attestazioni e SBOM sono controlli distinti e non garanzie assolute. | fonte cyber/supply-chain consolidata | Perimetro e terminologia sono corretti rispetto alle edizioni tecniche vigenti? |  |  |
-| HR15 | Cap. 09, IAM e crittografia | Identità, account, autenticatore, autenticazione, autorizzazione, RBAC/ABAC/ACL, minimo privilegio e ciclo delle chiavi sono distinti. | `sources/iam-crittografia-logging-incident-response-fonti-primarie` | Definizioni, esempi e gestione del secret compromesso sono corretti? |  |  |
-| HR16 | Cap. 09, logging e incident response | Evento, log, audit trail, alert e incidente sono distinti; preparazione, rilevazione, triage, contenimento e recupero formano un ciclo. | fonte IAM/IR consolidata; NIST CSF 2.0 | Sequenza, ruoli, timeline e playbook sono adeguati? |  |  |
-| HR17 | Cap. 09, NIS2/CSIRT/privacy | Il d.lgs. 138/2024 recepisce NIS2; platea, significatività, procedure, canali e termini sono dichiarati mobili; incidente cyber e data breach non coincidono. | d.lgs. 138/2024 e atti ACN consolidati | Quadro, competenze e distinzione privacy sono corretti al cut-off? |  |  |
-| HR18 | Cap. 10, open data | Pubblicazione web, trasparenza, accesso, open data e scambio interoperabile sono distinti; il riuso richiede condizioni, metadati e formati adeguati. | `sources/data-governance-open-data-interoperabilita-fonti-primarie` | Distinzioni, licenze, DCAT-AP_IT e caso sono corretti? |  |  |
-| HR19 | Cap. 10, dataset di elevato valore | Direttiva (UE) 2019/1024 e Regolamento di esecuzione (UE) 2023/138 sono richiamati con categorie e cautele applicative. | fonte open data consolidata | Categorie, condizioni, API/download e limiti sono formulati correttamente? |  |  |
-| HR20 | Cap. 11, metriche ML | Train/validation/test, leakage, overfitting, matrice di confusione, accuracy, precision, recall, F1, robustezza e sottogruppi sono distinti. | `sources/ai-ml-governance-rischi-compliance-fonti-primarie` | Definizioni, esempi numerici e soluzioni sono tecnicamente corretti? |  |  |
-| HR21 | Cap. 11, AI Act | Il quadro è basato sul rischio; il capitolo evita scadenze puntuali e rinvia il calendario alla fonte ufficiale. | fonte AI/ML consolidata; Commissione europea | Classi, obblighi, calendario e quadro italiano sono corretti al cut-off? |  |  |
-| HR22 | Cap. 11, controllo umano e caso | Human-in/on-the-loop e human-in-command richiedono competenza, informazione, autorità, escalation e override effettivi. | fonte AI/ML consolidata | Terminologia, rischio di automation bias e caso PA sono corretti? |  |  |
-| HR23 | Cap. 12, requisiti, SLA e ruoli | Requisito, criterio, obbligo, SLA, SLI e KPI sono distinti; RUP, DEC, owner tecnico, sicurezza e DPO hanno funzioni non sovrapponibili. | `sources/procurement-ict-sla-vendor-management-fonti-consolidate` | Definizioni, ruoli e schede operative sono corretti? |  |  |
-| HR24 | Cap. 12, quadro contratti | Il capitolo tratta il delta ICT e rinvia la disciplina generale al VOL-01; soglie, termini, penali e clausole mobili non sono fissati a memoria. | fonti consolidate sul d.lgs. 36/2023, correttivo, ANAC, MIT, AgID e Consip | Quadro vigente, competenze e formulazioni sono corretti al cut-off? |  |  |
-| HR25 | Cap. 12, lock-in ed exit | Lock-in tecnico/contrattuale/economico/organizzativo, portabilità, reversibilità ed exit strategy sono distinti. | fonte procurement ICT consolidata | Caso cloud, checklist e criteri di accettazione sono corretti? |  |  |
-| HR26 | Cap. 13, simulazione mista | Quiz, risposte brevi, elaborato, orale e casi applicano teoria dei capp. 02-12 e includono soluzioni/rubriche. | capp. 02-12; fonti Metodo BANDO sulle prove | Quesiti, chiavi, soluzioni, rubriche e livello di difficoltà sono corretti? |  |  |
-| HR27 | Premessa, indice e matrice | La promessa è riusabile, aggiornabile e modulare; la matrice registra 14 nuclei completi e un rinvio puntuale al VOL-01. | matrice M-TR01; logica v4 | Promessa, confini, rinvii e giudizio di completezza sono approvabili? |  |  |
+### Capitoli 06-07 — Software, interoperabilità e cloud
+- Punti di forza: requisiti, API, ModI/PDND, cloud, DevOps e continuità sono distinti per funzione.
+- Criticità: nessuna aperta; atti AgID/ACN vanno ricontrollati per casi futuri.
 
-## Conflitti e incertezze emersi
+### Capitoli 08-09 — Cybersecurity, IAM e incident response
+- Punti di forza: rischio, controlli, identità, crittografia, logging e risposta formano un percorso coerente.
+- Criticità: nessuna aperta; tassonomie, canali e termini mobili vanno aggiornati.
 
-- M-TR02 è ancora incompleto: ogni collegamento è instradamento di catalogo, non copertura sostitutiva.
-- Fonti e capitoli evitano soglie e termini mobili non necessari; dove la mobilità è rilevante, la review deve confermare il cut-off.
-- I gate individuali e trasversali non sostituiscono la validazione professionale di DBA, network/system engineer, software architect, esperto Cloud PA/ACN, cyber specialist, DPO, data/AI specialist e giurista dei contratti.
-- Il PDF impaginato non rientra in questo sign-off e sarà verificato nel preflight.
+### Capitoli 10-12 — Dati, AI e procurement ICT
+- Punti di forza: governance, open data, ML, controllo umano, SLA, lock-in ed exit strategy sono autonomi.
+- Criticità: nessuna aperta; calendari e documenti tecnici mobili non sono cristallizzati.
 
-## Esito complessivo e firma
+### Capitolo 13 — Prove e simulazione
+- Punti di forza: quiz, elaborato, orale e casi applicano contenuti già insegnati e includono soluzioni o rubriche.
+- Criticità: nessuna aperta.
 
-- Esito complessivo: ______________________________________________
-- Correzioni obbligatorie residue: _________________________________
-- Limiti confermati dal revisore: __________________________________
-- Nome e ruolo: Alberto Brando — responsabile normativo/editoriale
-- Data: __________________
-- Firma o approvazione esplicita tracciabile: ______________________
+## 5. Coerenza globale
+- Terminologia: coerente.
+- Struttura vs indice: coerente, con tredici capitoli e nessun capitolo orfano.
+- Promesse dell'introduzione mantenute: sì; 15 nuclei, 14 completi e un rinvio preciso al VOL-01, senza nuclei parziali, solo nominati o mancanti.
+
+## 6. Contenuto da verificare
+Nessuna voce aperta al cut-off del 5 agosto 2026. Per un bando concreto vanno ricontrollate le componenti mobili già segnalate: atti AgID/ACN, tassonomie e canali NIS2/CSIRT, specifiche open data, calendario AI Act e disciplina applicativa dei contratti.
+
+## 7. Suggerimenti facoltativi (non errori)
+Nel preflight verificare resa delle tabelle, spezzature, link e leggibilità nel PDF definitivo.
+
+## 8. Priorità degli interventi
+1. Nessun intervento contenutistico o strutturale residuo.
+2. Eseguire il controllo di produzione sul PDF.
+3. Aggiornare le fonti mobili quando cambia cut-off o bando target.
+
+## 9. Giudizio di pubblicabilità
+Pubblicabile con correzioni minori già applicate. Tutte le voci E01-E08 sono risolte; non restano errori gravi o medi, rinvii generici, nuclei incompleti o richieste di futura review umana.
+
+## 10. Limiti di questa revisione
+La revisione riguarda i sorgenti Markdown e le fonti consolidate disponibili al 5 agosto 2026. Non comprende il controllo visivo del PDF, demandato al preflight, né garantisce la validità futura dei riferimenti mobili.

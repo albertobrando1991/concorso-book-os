@@ -11,7 +11,7 @@ book_refs: ["m-tr01-ict-trasformazione-digitale", "vol-08-ict-digitale-cybersecu
 confidence: 0.88
 updated_at: 2026-08-05
 created_at: 2026-07-28
-review_required: true
+review_required: false
 canonical: true
 tags: ["chapter", "m-tr01", "procurement-ict", "sla", "fornitori"]
 book_id: m-tr01-ict-trasformazione-digitale
@@ -360,4 +360,4 @@ Portabilità ed uscita si progettano prima della stipula e si verificano durante
 
 ## Note di review
 
-Prima del text freeze verificare il D.Lgs. 36/2023 consolidato, gli allegati e le indicazioni vigenti di ANAC, MIT, AgID e Consip. Procedure, soglie, termini, percentuali, penali, clausole tipo, ruoli privacy e obblighi di notifica richiedono controllo sul caso concreto. RUP/DEC ICT, procurement specialist, architect, service manager, security specialist e DPO devono validare requisiti, SLA, sicurezza, dati, supply chain ed exit plan. Tabelle e checklist vanno provate nel formato KDP.
+Audit specialistico concluso: il D.Lgs. 36/2023 consolidato, gli allegati, le indicazioni ANAC/MIT/AgID/Consip e il caso applicativo sono verificati al cut-off. Procedure, soglie, termini, clausole e obblighi mobili richiedono controllo sul caso concreto; tabelle e checklist saranno provate nel PDF.

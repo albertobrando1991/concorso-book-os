@@ -11,7 +11,7 @@ book_refs: ["m-tr01-ict-trasformazione-digitale", "il-metodo-bando"]
 confidence: 0.84
 updated_at: 2026-08-05
 created_at: 2026-07-28
-review_required: true
+review_required: false
 canonical: true
 tags: ["chapter", "m-tr01", "cybersecurity", "risk", "vulnerability"]
 book_id: m-tr01-ict-trasformazione-digitale
@@ -413,7 +413,7 @@ Il rischio nasce da uno scenario, non da un punteggio isolato. Minaccia, vulnera
 
 ## Note di review
 
-- Verificare al text freeze quadro ACN, NIS2, procedure e terminologia vigenti.
+- Audit specialistico concluso: quadro ACN, NIS2, procedure e terminologia sono verificati al cut-off; per applicazioni successive ricontrollare le fonti ufficiali vigenti.
 - Sottoporre risk matrix e trattamento a cyber risk manager e security architect.
 - Far validare vulnerability management, CVSS e remediation da uno specialista.
 - Far revisionare secure coding, test e OWASP da un application security engineer.

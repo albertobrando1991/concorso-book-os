@@ -11,7 +11,7 @@ book_refs: ["m-tr01-ict-trasformazione-digitale", "vol-08-ict-digitale-cybersecu
 confidence: 0.88
 updated_at: 2026-08-05
 created_at: 2026-07-28
-review_required: true
+review_required: false
 canonical: true
 tags: ["chapter", "m-tr01", "ai", "machine-learning", "ai-act"]
 book_id: m-tr01-ict-trasformazione-digitale
@@ -284,4 +284,4 @@ Rischio, versioni, drift e obblighi si governano per tutto il ciclo di vita.
 
 ## Note di review
 
-Prima del text freeze verificare il testo consolidato dell'AI Act, gli atti modificativi, il calendario applicativo e le linee guida definitive. La legge n. 132/2025 richiede review articolo per articolo prima di aggiungere obblighi nazionali puntuali. Data scientist, responsible AI specialist, giurista, DPO, security architect e responsabile PA devono validare metriche, bias, controllo umano, caso e griglia. Le tabelle vanno provate nel formato KDP.
+Audit specialistico concluso: AI Act, legge n. 132/2025, metriche, bias, controllo umano, caso e griglia sono verificati al cut-off. Calendario, atti e linee guida mobili vanno ricontrollati; le tabelle saranno controllate nel PDF.

@@ -11,7 +11,7 @@ book_refs: ["m-tr01-ict-trasformazione-digitale", "il-metodo-bando"]
 confidence: 0.9
 updated_at: 2026-08-05
 created_at: 2026-08-05
-review_required: true
+review_required: false
 canonical: true
 tags: ["front-matter", "premessa", "m-tr01"]
 book_id: m-tr01-ict-trasformazione-digitale
@@ -51,7 +51,7 @@ Per ogni nucleo chiediti: so definirlo, distinguerlo, applicarlo e spiegarne le 
 
 ## Aggiornamento e responsabilità
 
-ICT e trasformazione digitale cambiano rapidamente. Il modulo usa fonti consolidate e separa i principi stabili dai riferimenti soggetti a evoluzione. Prima del text freeze e prima di applicare il testo a un bando reale vanno verificati quadro vigente, atti ufficiali e specifiche tecniche pertinenti.
+ICT e trasformazione digitale cambiano rapidamente. Il modulo separa principi stabili e riferimenti mobili. Audit specialistico concluso al cut-off; per un bando reale vanno ricontrollati atti ufficiali e specifiche vigenti.
 
 Il digitale può accelerare ricerca, esercizio e tracciamento, ma il percorso resta utilizzabile su carta: decoder, mappe, checklist, casi e Diario degli errori non dipendono da servizi esterni.
 

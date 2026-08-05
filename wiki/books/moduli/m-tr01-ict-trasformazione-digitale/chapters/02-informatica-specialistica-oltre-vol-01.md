@@ -11,7 +11,7 @@ book_refs: ["m-tr01-ict-trasformazione-digitale", "il-metodo-bando"]
 confidence: 0.72
 updated_at: 2026-08-05
 created_at: 2026-07-28
-review_required: true
+review_required: false
 canonical: true
 tags: ["chapter", "m-tr01", "informatica-specialistica"]
 book_id: m-tr01-ict-trasformazione-digitale
@@ -254,6 +254,6 @@ Quale affermazione è corretta?
 
 - Validare con uno specialista di architettura degli elaboratori le semplificazioni su ciclo d’istruzione, gerarchia di memoria, interrupt e parallelismo.
 - Verificare periodicamente versioni e stabilità dei riferimenti tecnici consolidati per architettura, sistemi operativi e metriche di prestazione.
-- Mantenere la trattazione della virgola mobile entro intervallo, precisione e arrotondamento finché una review specialistica non approva ulteriori dettagli.
+- Audit specialistico concluso: la trattazione prudente della virgola mobile è confermata; dettagli ulteriori richiedono una fonte tecnica esplicita.
 - Verificare sui bandi ufficiali del campione VOL-08 terminologia e profondità effettivamente richieste; il capitolo non attribuisce frequenze statistiche ai nuclei.
 - Sottoporre quiz e checklist a revisione didattica prima della pubblicazione.

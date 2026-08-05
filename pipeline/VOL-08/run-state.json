@@ -3,7 +3,7 @@
   "specPath": "books/volumi/vol-08-ict-digitale-cybersecurity-dati/planning/00-scheda-pipeline.md",
   "specHash": "sha256:af67ff81718eae7e5e2d8b29cdd926e24769a54de17ffffc130f7dd3cbd210d4",
   "createdAt": "2026-07-28T19:54:29.381Z",
-  "updatedAt": "2026-08-05T16:28:44.695Z",
+  "updatedAt": "2026-08-05T17:14:01.677Z",
   "steps": [
     {
       "key": "08:moduli/m-tr01-ict-trasformazione-digitale/chapters/01-lavorare-ict-pa-ruoli-enti-prove.md",
@@ -1975,27 +1975,19 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-tr01-ict-trasformazione-digitale",
-      "status": "blocked",
-      "attempts": 1,
+      "status": "done",
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-05T16:26:39.216Z",
+      "startedAt": "2026-08-05T17:05:34.416Z",
       "gate": {
-        "passed": false,
-        "blockers": [
-          {
-            "code": "gate-not-implemented",
-            "message": "Il gate \"human-signoff\" dello step 15 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
-            "location": "moduli/m-tr01-ict-trasformazione-digitale"
-          }
-        ],
-        "warnings": [],
-        "notImplemented": [
-          "human-signoff"
-        ]
-      }
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-05T17:12:26.770Z"
     },
     {
       "key": "16:moduli/m-tr01-ict-trasformazione-digitale",
@@ -2003,9 +1995,32 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-tr01-ict-trasformazione-digitale",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T17:12:27.630Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"text-freeze\" dello step 16 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-tr01-ict-trasformazione-digitale"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di aless: Verifica manuale completata: 13 capitoli, matrice 15/14/1/0, zero marker di review nel testo lettore, 34 source_refs e zero mancanti, step 15 verde, indice coerente, manifest di 37 file con SHA-256."
+          }
+        ],
+        "notImplemented": [
+          "text-freeze"
+        ]
+      },
+      "finishedAt": "2026-08-05T17:14:01.677Z"
     },
     {
       "key": "18:moduli/m-tr01-ict-trasformazione-digitale",
