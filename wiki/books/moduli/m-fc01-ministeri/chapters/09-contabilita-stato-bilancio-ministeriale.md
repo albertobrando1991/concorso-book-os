@@ -53,7 +53,7 @@ L'articolo 81 della Costituzione pone al centro l'equilibrio tra entrate e spese
 
 ### Sistema delle fonti
 
-La cornice costituzionale è attuata dalla legge 31 dicembre 2009, n. 196, riferimento centrale per coordinamento della finanza pubblica, programmazione, documenti di bilancio, copertura e monitoraggio. Per gli istituti generali restano rilevanti il regio decreto n. 2440 del 1923 e il regolamento n. 827 del 1924, letti insieme alle riforme successive.
+La cornice costituzionale è attuata dalla legge 31 dicembre 2009, n. 196, riferimento centrale per coordinamento della finanza pubblica, programmazione, documenti di bilancio, copertura e monitoraggio. Per gli istituti generali restano rilevanti il regio decreto n. 2440 del 1923 e il regolamento approvato con regio decreto n. 827 del 1924, letti insieme alle riforme successive.
 
 Il rapporto conta più della memoria dei numeri: la Costituzione stabilisce principi e vincoli; la legge n. 196 struttura il sistema contemporaneo; la disciplina generale e le norme attuative regolano procedimenti e controlli. I testi vanno consultati nella versione vigente, perché documenti, classificazioni e competenze possono cambiare.
 

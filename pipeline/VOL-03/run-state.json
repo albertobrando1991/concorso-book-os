@@ -3,7 +3,7 @@
   "specPath": "books/volumi/vol-03-fisco-dogane-previdenza-ispettivo/planning/00-scheda-pipeline.md",
   "specHash": "sha256:7a5be32028a6026f42eac9b7a221a5879330c694249c48b679a9f6ab5999df16",
   "createdAt": "2026-07-27T20:05:30.039Z",
-  "updatedAt": "2026-08-05T17:30:09.705Z",
+  "updatedAt": "2026-08-05T17:33:02.012Z",
   "steps": [
     {
       "key": "08:moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md",
@@ -3478,9 +3478,40 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc01-ministeri/chapters/09-contabilita-stato-bilancio-ministeriale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T17:31:17.383Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc01-ministeri-chapters-09-contabilita-stato-bilancio-ministeriale-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V02: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc01-ministeri-chapters-09-contabilita-stato-bilancio-ministeriale-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V03: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc01-ministeri-chapters-09-contabilita-stato-bilancio-ministeriale-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V04: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc01-ministeri-chapters-09-contabilita-stato-bilancio-ministeriale-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-05T17:33:02.012Z"
     },
     {
       "key": "08:moduli/m-fc01-ministeri/chapters/10-contratti-pubblici-pnrr-amministrazione-digitale.md",
