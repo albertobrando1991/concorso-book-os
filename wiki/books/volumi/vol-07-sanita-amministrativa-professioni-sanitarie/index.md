@@ -2,7 +2,7 @@
 id: vol-07-sanita-amministrativa-professioni-sanitarie
 type: volume
 title: "VOL-07 - Sanità amministrativa e professioni sanitarie"
-status: text_frozen
+status: publication_candidate
 domain: "concorsi pubblici italiani"
 topics: ["sanità amministrativa", "professioni sanitarie", "dirigenza sanitaria", "tecnici sanitari"]
 entities: ["Servizio sanitario nazionale", "Ministero della Salute", "Agenas", "Istituto Superiore di Sanità", "Azienda sanitaria"]
@@ -18,7 +18,7 @@ tags: ["volume", "vol-07", "sanita"]
 
 ## Stato
 
-La scrittura, la revisione editoriale automatica e l'audit specialistico sono completati per tutti i 25 capitoli e per i quattro moduli. Il testo è congelato; l'impaginato KDP conta 394 pagine e l'audit pagina per pagina non registra rilievi bloccanti o significativi aperti. Restano il giudizio editoriale finale e il preflight del pacchetto di consegna; l'unica conferma umana è riservata allo step 24.
+La scrittura, la revisione editoriale automatica e l'audit specialistico sono completati per tutti i 25 capitoli e per i quattro moduli. Il testo è congelato; il giudizio editoriale finale e il preflight tecnico sono superati. Il candidato KDP conta 394 pagine e non registra rilievi bloccanti o significativi aperti. L'unica conferma umana resta quella conclusiva dello step 24: il volume non è ancora approvato né pubblicato.
 
 ## Perimetro
 

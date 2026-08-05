@@ -48,7 +48,7 @@ Il KDP Previewer esterno non è installato e non è stato simulato: eventuali me
 | Margini | PASS | Audit geometrico: gutter interno 23 mm, esterno 13 mm, superiore e inferiore 18 mm; per 394 pagine superano i minimi KDP applicabili al no-bleed. |
 | Conteggio pagine | PASS | 394 pagine nel DOM stabile, 394 pagine nel PDF, numerazione progressiva 1-394. |
 | Audit pagina per pagina | PASS | `BOOK_STUDIO_EXPECTED_PAGE_COUNT=394`, modalità `verify`: 20 tavole-contatto, 0 bloccanti, 0 significativi, nessuna pagina segnalata. |
-| Hash del candidato | PASS | SHA-256 `4B1F525AA44CDEE8CF9FB5265E7C29FAA301713AC5F9B9D5F51C43D9DBC40299`; dimensione 24.301.380 byte. |
+| Hash del candidato | PASS | SHA-256 `2BA9C6C130CB52A17767815213A4F90ED7C876E6078E68AD71515A67AEB940A6`; dimensione 24.301.380 byte. |
 | KDP Previewer | NON ESEGUITO | Comando locale non disponibile (`KDP_PREVIEWER_NOT_INSTALLED`); nessun warning è stato osservato o inventato. Verifica da ripetere nel servizio KDP al momento dell'upload. |
 
 ## Note operative
@@ -64,5 +64,5 @@ Il KDP Previewer esterno non è installato e non è stato simulato: eventuali me
 - Trim: 6,69 × 9,61 pollici
 - Bleed: assente
 - Colore: bianco e nero
-- SHA-256: `4B1F525AA44CDEE8CF9FB5265E7C29FAA301713AC5F9B9D5F51C43D9DBC40299`
+- SHA-256: `2BA9C6C130CB52A17767815213A4F90ED7C876E6078E68AD71515A67AEB940A6`
 - Stato: pronto per la preparazione selettiva del pacchetto di consegna dello step 23; non approvato e non pubblicato.
