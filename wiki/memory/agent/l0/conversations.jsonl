@@ -349,7 +349,6 @@
 {"id":"conv-20260724181831-ojpims","createdAt":"2026-07-24T18:18:31.953Z","scope":"global","route":"manual_writer/m-fc05-14-anac","l0Path":"l0\\conv-20260724181831-ojpims.md","messageCount":1,"replyChars":227}
 {"id":"conv-20260724182430-s46cb1","createdAt":"2026-07-24T18:24:30.388Z","scope":"global","route":"manual_writer/m-fc05-15-laboratorio","l0Path":"l0\\conv-20260724182430-s46cb1.md","messageCount":1,"replyChars":182}
 {"id":"conv-20260729160513-1s8yqdf","createdAt":"2026-07-29T16:05:13.586Z","scope":"global","route":"codex/staff-github-sync","l0Path":"l0\\conv-20260729160513-1s8yqdf.md","messageCount":1,"replyChars":245}
-<<<<<<< HEAD
 {"id":"conv-20260729193004-1dskd4y","createdAt":"2026-07-29T19:30:04.664Z","scope":"concorso-book-os","route":"codex-m-fc02-iva-adempimenti","l0Path":"l0\\conv-20260729193004-1dskd4y.md","messageCount":1,"replyChars":224}
 {"id":"conv-20260730155806-1espvnp","createdAt":"2026-07-30T15:58:06.545Z","scope":"VOL-03","route":"pipeline-step-09-chapter-06","l0Path":"l0\\conv-20260730155806-1espvnp.md","messageCount":1,"replyChars":193}
 {"id":"conv-20260730155820-kswcv0","createdAt":"2026-07-30T15:58:20.620Z","scope":"VOL-08","route":"pipeline-step-10-coverage-chapter-08","l0Path":"l0\\conv-20260730155820-kswcv0.md","messageCount":1,"replyChars":261}
@@ -493,7 +492,6 @@
 {"id":"conv-20260805162441-1h1g2gq","createdAt":"2026-08-05T16:24:41.214Z","scope":"VOL-03","route":"pipeline-step-08-mfc01-chapter-08","l0Path":"l0\\conv-20260805162441-1h1g2gq.md","messageCount":1,"replyChars":364}
 {"id":"conv-20260805162855-1bagk7n","createdAt":"2026-08-05T16:28:55.336Z","scope":"VOL-08","route":"codex/pipeline-volume/steps-13-15/m-tr01","l0Path":"l0\\conv-20260805162855-1bagk7n.md","messageCount":1,"replyChars":307}
 {"id":"conv-20260805163318-148km3c","createdAt":"2026-08-05T16:33:18.259Z","scope":"VOL-03","route":"pipeline-step-09-mfc01-chapter-08","l0Path":"l0\\conv-20260805163318-148km3c.md","messageCount":1,"replyChars":334}
-=======
 {"id":"conv-20260729215117-bp8asu","createdAt":"2026-07-29T21:51:17.806Z","scope":"vol-02-editorial","route":"codex/github-staff-sync-vol02","l0Path":"l0\\conv-20260729215117-bp8asu.md","messageCount":1,"replyChars":240}
 {"id":"conv-20260729223531-z7ay09","createdAt":"2026-07-29T22:35:31.692Z","scope":"vol-02-editorial","route":"codex/pipeline-vol02-step08-12","l0Path":"l0\\conv-20260729223531-z7ay09.md","messageCount":1,"replyChars":189}
 {"id":"conv-20260728123311-fvxqgc","createdAt":"2026-07-28T12:33:11.441Z","scope":"VOL-07","route":"codex-vol-07-source-ingest-pipeline-start","l0Path":"l0\\conv-20260728123311-fvxqgc.md","messageCount":1,"replyChars":599}
@@ -603,6 +601,7 @@
 {"id":"conv-20260805155954-1g81mpn","createdAt":"2026-08-05T15:59:54.550Z","scope":"editorial-pipeline","route":"codex-vol02-mfl01-cap10","l0Path":"l0\\conv-20260805155954-1g81mpn.md","messageCount":1,"replyChars":630}
 {"id":"conv-20260805161744-b4amvh","createdAt":"2026-08-05T16:17:44.523Z","scope":"editorial-pipeline","route":"codex-vol02-mfl01-cap11","l0Path":"l0\\conv-20260805161744-b4amvh.md","messageCount":1,"replyChars":639}
 {"id":"conv-20260805162301-ebm2ct","createdAt":"2026-08-05T16:23:01.435Z","scope":"git-publish","route":"codex/git-publish","l0Path":"l0\\conv-20260805162301-ebm2ct.md","messageCount":1,"replyChars":269}
->>>>>>> origin/main
 {"id":"conv-20260805163551-1iv7vdj","createdAt":"2026-08-05T16:35:51.347Z","scope":"repository","route":"github-staff-sync-20260805","l0Path":"l0\\conv-20260805163551-1iv7vdj.md","messageCount":1,"replyChars":442}
 {"id":"conv-20260805164041-ukw4zm","createdAt":"2026-08-05T16:40:41.337Z","scope":"global","route":"codex/github-staff-sync-20260805","l0Path":"l0\\conv-20260805164041-ukw4zm.md","messageCount":1,"replyChars":330}
+{"id":"conv-20260805164155-1dskd4y","createdAt":"2026-08-05T16:41:55.761Z","scope":"concorso-book-os","route":"codex-m-fc02-iva-adempimenti","l0Path":"l0\\conv-20260805164155-1dskd4y.md","messageCount":1,"replyChars":224}
+{"id":"conv-20260805164222-1dskd4y","createdAt":"2026-08-05T16:42:22.981Z","scope":"concorso-book-os","route":"codex-m-fc02-iva-adempimenti","l0Path":"l0\\conv-20260805164222-1dskd4y.md","messageCount":1,"replyChars":224}

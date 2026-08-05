@@ -1,7 +1,6 @@
 ---
-<<<<<<< HEAD
 id: planning-m-fc03-enti-non-economici-piano-editoriale
-type: module_planning
+type: editorial_plan
 title: "Piano editoriale - M-FC03 Enti pubblici non economici"
 status: source_ready
 domain: "concorsi pubblici italiani"
@@ -19,7 +18,7 @@ updated_at: 2026-07-02T19:15:00+02:00
 created_at: 2026-07-02T19:15:00+02:00
 review_required: true
 canonical: true
-tags: ["module-planning","specialist-module-plan","module-code-m-fc03"]
+tags: ["editorial-plan","specialist-module-plan","module-code-m-fc03"]
 book_id: m-fc03-enti-non-economici
 module_code: M-FC03
 module_family: funzioni-centrali
@@ -32,33 +31,10 @@ last_compiled_from: [
   "wiki/sources/m-fc03-fonti-ufficiali-enti-epne-2026.md",
   "wiki/sources/m-fc03-portali-bandi-concorsi-2023-2026.md"
 ]
-=======
-id: chapter-m-fc03-enti-non-economici-piano-editoriale
-type: editorial_plan
-title: "Piano editoriale - M-FC03 Enti pubblici non economici"
-status: structure
-domain: "concorsi pubblici italiani"
-topics: ["moduli specialistici","funzioni-centrali","metodo bando"]
-entities: ["Metodo BANDO"]
-source_refs: ["sources/metodo-bando-progetto-editoriale.md","sources/struttura-madre-il-metodo-bando.md"]
-book_refs: ["m-fc03-enti-non-economici","il-metodo-bando"]
-confidence: 0.55
-updated_at: 2026-06-27T19:56:28+02:00
-created_at: 2026-06-27T19:56:28+02:00
-review_required: true
-canonical: true
-tags: ["editorial-plan","specialist-module-plan","module-code-m-fc03"]
-book_id: m-fc03-enti-non-economici
-draft_stage: structure-ready
-module_code: M-FC03
-module_family: funzioni-centrali
-last_compiled_from: ["wiki/books/moduli/architettura-moduli-specialistici.md","wiki/books/moduli/m-fc03-enti-non-economici/index.md"]
->>>>>>> origin/main
 ---
 
 # Piano editoriale - M-FC03 Enti pubblici non economici
 
-<<<<<<< HEAD
 ## Obiettivo del modulo
 
 M-FC03 trasforma il Metodo BANDO in un percorso operativo per concorsi negli enti pubblici non economici delle Funzioni Centrali. Il modulo serve al candidato che prepara INPS, INAIL, ACI, ENAC, ISTAT, ASI, ENEA, CONI, CRI e altri EPNE in profili amministrativi, giuridici, economici, contabili, servizi e vigilanza non tecnica.
@@ -159,39 +135,3 @@ Target indicativo: circa 30.000 parole, piu appendici operative. Ogni capitolo d
 - Prima dei capitoli 6 e 7 verificare PIAO, bilanci e sezioni amministrazione trasparente dell'anno in corso.
 - Prima di citare bandi specifici aprire bando, allegati e avvisi ufficiali su inPA, Formez o portale ente.
 - Ogni dato numerico su posti, scadenze, calendari o prove deve essere trattato come instabile e verificato alla data di pubblicazione.
-
-=======
-## Specifica struttura modulo
-
-### Obiettivo
-Trasformare il Metodo BANDO in un percorso operativo per la famiglia "Funzioni Centrali", con focus su INPS, INAIL, enti previdenziali, enti nazionali e profili amministrativi/ispettivi.
-
-### Lettore
-Candidato che ha letto o sta usando Il Metodo BANDO e deve adattare metodo, materie comuni, prove e priorita a questa famiglia concorsuale.
-
-### Struttura prevista
-1. Mappa della famiglia concorsuale.
-2. Profili tipici e prove ricorrenti.
-3. Materie comuni da riusare dal libro principale.
-4. Materie specialistiche da aggiungere.
-5. Bando Decoder adattato alla famiglia.
-6. Piano 30/60/90 giorni specifico.
-7. Errori frequenti e tagli da evitare.
-8. Casi guidati, quiz o risposte sintetiche tipiche.
-9. Checklist finale del modulo.
-
-### Collegamenti obbligatori
-- Libro principale: [[books/il-metodo-bando/index|Il Metodo BANDO]]
-- Struttura madre: [[books/il-metodo-bando/struttura-madre|Struttura madre]]
-- Ricettario operativo: [[books/il-metodo-bando/ricettario-digitale|Ricettario operativo digitale]]
-- Architettura moduli: [[books/moduli/architettura-moduli-specialistici|Architettura moduli specialistici]]
-
-### Fonti da consolidare prima della scrittura
-- Bandi rappresentativi della famiglia.
-- Normativa ufficiale di settore.
-- Topic pages gia presenti nel wiki.
-- Source notes nuove se il modulo richiede aggiornamento o specialismo.
-
-## Testo editoriale
-Da sviluppare con Manual Writer Agent dopo consolidamento delle fonti specifiche.
->>>>>>> origin/main

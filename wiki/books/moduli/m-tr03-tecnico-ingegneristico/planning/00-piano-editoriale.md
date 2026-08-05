@@ -12,18 +12,10 @@ confidence: 0.55
 updated_at: 2026-07-30
 created_at: 2026-06-27T19:56:28+02:00
 review_required: true
-<<<<<<< HEAD:wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/00-piano-editoriale.md
-canonical: false
-tags: ["book-chapter","specialist-module-plan","module-code-m-tr03"]
-book_id: m-tr03-tecnico-ingegneristico
-outline_section: 0
-draft_stage: planning-snapshot
-=======
 canonical: true
 tags: ["editorial-plan","specialist-module-plan","module-code-m-tr03"]
 book_id: m-tr03-tecnico-ingegneristico
 draft_stage: structure-ready
->>>>>>> origin/main:wiki/books/moduli/m-tr03-tecnico-ingegneristico/planning/00-piano-editoriale.md
 module_code: M-TR03
 module_family: trasversali
 last_compiled_from: ["wiki/books/moduli/architettura-moduli-specialistici.md","wiki/books/moduli/m-tr03-tecnico-ingegneristico/index.md"]

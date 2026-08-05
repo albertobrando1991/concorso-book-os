@@ -42,12 +42,8 @@ Il modulo non sostituisce il libro principale. Parte dal nucleo comune del Metod
 
 Non deve promettere copertura totale di ogni bando o aggiornamento normativo automatico. Le sezioni normative e specialistiche richiedono source notes consolidate e review umana.
 
-<<<<<<< HEAD
-## Capitoli
-=======
 ## Capitoli di lavoro
 - [[books/moduli/m-tr03-tecnico-ingegneristico/planning/00-piano-editoriale|Piano editoriale del modulo]]
->>>>>>> origin/main
 
 1. [[books/moduli/m-tr03-tecnico-ingegneristico/chapters/01-concorso-tecnico-pa-profili-prove|Il concorso tecnico nella PA: profili, enti e prove]]
 2. [[books/moduli/m-tr03-tecnico-ingegneristico/chapters/02-ufficio-tecnico-responsabilita-atti|Ufficio tecnico pubblico, responsabilità e atti tecnici]]

@@ -1,0 +1,32 @@
+
+> concorso-book-os@0.1.0 dev
+> next dev
+
+   ▲ Next.js 15.5.18
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.1.55:3000
+   - Environments: .env.local, .env
+
+ ✓ Starting...
+ ✓ Ready in 24s
+ ○ Compiling / ...
+ ✓ Compiled / in 11.9s (636 modules)
+ GET / 200 in 21571ms
+ GET / 200 in 5567ms
+ ○ Compiling /api/book-studio ...
+ ✓ Compiled /api/book-studio in 2.5s (658 modules)
+ GET /api/book-studio?bookId=il-metodo-bando 200 in 5259ms
+ ○ Compiling /api/book-studio/assets/file ...
+ ✓ Compiled /api/book-studio/assets/file in 1596ms (660 modules)
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-47%2F07-caso-consegna.png 200 in 2910ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-47%2F06-correggere-senza-peggiorare.png 200 in 2955ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-47%2F05-revisione-caso-pratico.png 200 in 2959ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-47%2F04-risposte-lunghezza.png 200 in 2995ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Ffront-matter%2Fqr-capitale-personale.png 200 in 3076ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-47%2F02-formula-cinque-passaggi.png 200 in 397ms
+ GET /api/book-studio/assets/file?path=books%2Fil-metodo-bando%2Fassets%2Fchapter-47%2F03-checklist-rapida.png 200 in 403ms
+ GET /?bookId=volumi%2Fvol-08 200 in 4847ms
+ GET /api/book-studio?bookId=volumi%2Fvol-08 200 in 301ms
+ GET /?bookId=volumi%2Fvol-08 200 in 7834ms
+ GET /api/book-studio?bookId=volumi%2Fvol-08 200 in 166ms
+ ✓ Compiled in 8.5s (787 modules)
