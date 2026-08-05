@@ -9,7 +9,7 @@ entities: ["Comune", "Sindaco", "Consiglio comunale", "Giunta comunale", "Segret
 source_refs: ["sources/d-lgs-18-agosto-2000-n-267-enti-locali.md", "sources/legge-7-agosto-1990-n-241-procedimento-amministrativo-e-accesso-ai-documenti-amministrativi-testo-vigente-normattiva.md", "sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego.md", "sources/ordinamento-finanziario-enti-locali-tuel-dup-peg-rendiconto-revisione.md", "sources/vol-02-dossier-redazionale-enti-locali-polizia-locale.md", "sources/bandi-inpa-vol-02-campione-2026.md"]
 book_refs: ["m-fl01-comuni-unioni", "vol-02-enti-locali-polizia-locale", "il-metodo-bando"]
 confidence: 0.86
-updated_at: 2026-07-17T22:25:00+02:00
+updated_at: 2026-07-31T18:00:00+02:00
 created_at: 2026-07-17T16:30:00+02:00
 review_required: true
 canonical: true
@@ -21,7 +21,7 @@ draft_stage: professional-draft
 module_code: M-FL01
 module_family: funzioni-locali
 companion_to: il-metodo-bando
-last_compiled_from: ["wiki/books/moduli/m-fl01-comuni-unioni/index.md", "wiki/books/moduli/m-fl01-comuni-unioni/chapters/01-tuel-operativo-autonomia-organi-funzioni-comune.md", "wiki/books/moduli/m-fl01-comuni-unioni/chapters/02-statuto-regolamenti-autonomia-normativa-locale.md", "wiki/books/moduli/m-fl01-comuni-unioni/chapters/03-organizzazione-comunale-uffici-servizi-gestioni-associate.md", "wiki/sources/d-lgs-18-agosto-2000-n-267-enti-locali.md", "wiki/sources/legge-7-agosto-1990-n-241-procedimento-amministrativo-e-accesso-ai-documenti-amministrativi-testo-vigente-normattiva.md", "wiki/sources/ordinamento-finanziario-enti-locali-tuel-dup-peg-rendiconto-revisione.md", "wiki/entities/comune.md"]
+last_compiled_from: ["wiki/books/moduli/m-fl01-comuni-unioni/index.md", "wiki/books/moduli/m-fl01-comuni-unioni/planning/02-matrice-copertura-didattica.md", "wiki/books/moduli/m-fl01-comuni-unioni/chapters/01-tuel-operativo-autonomia-organi-funzioni-comune.md", "wiki/books/moduli/m-fl01-comuni-unioni/chapters/02-statuto-regolamenti-autonomia-normativa-locale.md", "wiki/books/moduli/m-fl01-comuni-unioni/chapters/03-organizzazione-comunale-uffici-servizi-gestioni-associate.md", "wiki/sources/d-lgs-18-agosto-2000-n-267-enti-locali.md", "wiki/sources/legge-7-agosto-1990-n-241-procedimento-amministrativo-e-accesso-ai-documenti-amministrativi-testo-vigente-normattiva.md", "wiki/sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego.md", "wiki/sources/ordinamento-finanziario-enti-locali-tuel-dup-peg-rendiconto-revisione.md", "wiki/sources/vol-02-dossier-redazionale-enti-locali-polizia-locale.md", "wiki/sources/bandi-inpa-vol-02-campione-2026.md", "wiki/topics/enti-locali.md", "wiki/entities/comune.md"]
 ---
 
 # Deliberazioni, determinazioni, decreti, ordinanze e pareri
@@ -60,13 +60,13 @@ La domanda guida è:
 ## Testo editoriale
 
 ### Apertura editoriale
-Nei concorsi comunali l'errore sull'atto pesa molto. Un candidato può conoscere bene gli organi, i regolamenti e gli uffici, ma perdere solidita se chiama "delibera" ciò che è una determinazione, se attribuisce alla Giunta un atto gestionale, se usa "ordinanza" come sinonimo generico di provvedimento o se dimentica pareri e visto quando l'atto incide su spesa e bilancio.
+Nei concorsi comunali l'errore sull'atto pesa molto. Un candidato può conoscere bene gli organi, i regolamenti e gli uffici, ma perdere solidità se chiama "delibera" ciò che è una determinazione, se attribuisce alla Giunta un atto gestionale, se usa "ordinanza" come sinonimo generico di provvedimento o se dimentica pareri e visto quando l'atto incide su spesa e bilancio.
 
 Questo capitolo costruisce una grammatica pratica degli atti locali. Non richiede di redigere modelli completi di deliberazione, determinazione o ordinanza; richiede di riconoscere la forma della decisione, il soggetto competente, i passaggi istruttori necessari e l'errore da evitare.
 
 La prova può presentarsi in molti modi. Nel quiz chiede chi adotta un determinato atto. Nella risposta aperta chiede la differenza tra delibera e determina. Nel caso pratico chiede di impostare l'iter: proposta, pareri, decisione, pubblicazione, esecuzione, comunicazione. All'orale può partire da una formula apparentemente semplice: "Mi parli degli atti del Comune".
 
-La risposta forte non elenca nomi di atti. Li collega a competenza, funzione e procedimento.
+Una buona risposta non si limita a elencare gli atti: li collega a competenza, funzione e procedimento.
 
 ### Obiettivo del capitolo
 Al termine del capitolo devi saper fare otto operazioni:
@@ -106,20 +106,17 @@ Se salti queste domande, rischi di usare la forma sbagliata. Nei casi pratici no
 | D - Diario | Dove rischio di attribuire l'atto al soggetto sbagliato? | Diario errori su delibera/determina/ordinanza/pareri. |
 | O - Output | Che cosa devo produrre in prova? | Schema di iter, mini-atto essenziale, risposta orale, caso guidato. |
 
-La mappa mostra il cuore del capitolo: l'atto non si sceglie per abitudine, ma per funzione.
+La mappa fissa il criterio del capitolo: l'atto si sceglie in base alla funzione, non per abitudine.
 
 ### Atto locale e competenza
 Ogni atto amministrativo deve essere collegato a una competenza. Nei concorsi comunali questa regola è decisiva: se sbagli il soggetto competente, anche una risposta ben scritta diventa fragile.
 
-La scelta dell'atto dipende da quattro domande.
+La scelta dell'atto dipende da quattro domande:
 
-La prima: la decisione riguarda un atto fondamentale, una regola generale o un indirizzo politico-amministrativo? In questo caso bisogna guardare agli organi politici e, spesso, al Consiglio o alla Giunta secondo le competenze.
-
-La seconda: la decisione attua un indirizzo, gestisce una pratica, impegna risorse, conclude un procedimento o produce effetti verso l'esterno? In questo caso bisogna guardare al dirigente o al responsabile di servizio.
-
-La terza: la decisione è attribuita al Sindaco come rappresentante dell'ente, autorità locale o ufficiale del Governo? In questo caso bisogna distinguere decreto, ordinanza e funzioni sindacali.
-
-La quarta: l'atto ha riflessi tecnici, contabili o finanziari? In questo caso entrano pareri, visto e controlli.
+1. la decisione riguarda un atto fondamentale, una regola generale o un indirizzo politico-amministrativo? In questo caso bisogna guardare agli organi politici e, secondo le competenze, al Consiglio o alla Giunta;
+2. la decisione attua un indirizzo, gestisce una pratica, impegna risorse, conclude un procedimento o produce effetti verso l'esterno? In questo caso bisogna guardare al dirigente o al responsabile di servizio;
+3. la decisione è attribuita al Sindaco come rappresentante dell'ente, autorità locale o ufficiale del Governo? Occorre allora distinguere decreto, ordinanza e funzioni sindacali;
+4. l'atto ha riflessi tecnici, contabili o finanziari? In questo caso entrano pareri, visto e controlli.
 
 La tabella di base è:
 
@@ -156,7 +153,7 @@ La deliberazione di Giunta è l'atto collegiale della Giunta comunale. La Giunta
 
 La Giunta può intervenire su indirizzi attuativi, programmi operativi, proposte, schemi, atti di governo e scelte collegiali non riservate ad altri soggetti. Tuttavia, non bisogna usarla come risposta residuale automatica.
 
-La domanda corretta è:
+Per distinguere indirizzo e gestione, chiediti:
 
 > l'atto è davvero di governo dell'ente o è una gestione concreta di ufficio?
 
@@ -171,13 +168,11 @@ La determinazione è l'atto tipico della gestione. Nei Comuni con dirigenza è c
 
 La determinazione serve quando bisogna attuare un indirizzo o una regola generale mediante un atto gestionale. È frequente in materia di acquisti, affidamenti, impegni di spesa, liquidazioni, avvisi, graduatorie, concessioni, autorizzazioni, atti di personale, incarichi gestionali, approvazione di esiti istruttori e altri provvedimenti amministrativi.
 
-La determinazione va letta con tre elementi.
+La determinazione va letta attraverso competenza, istruttoria ed effetto. Si parte dalla competenza: chi firma deve essere responsabile del servizio o soggetto abilitato secondo l'organizzazione dell'ente.
 
-Il primo è la competenza. Chi firma deve essere responsabile del servizio o soggetto abilitato secondo l'organizzazione dell'ente.
+Conta poi l'istruttoria. La determinazione non nasce nel vuoto, ma richiama presupposti, fonti, atti precedenti, valutazioni, disponibilità di bilancio se rilevanti e motivazione.
 
-Il secondo è l'istruttoria. La determinazione non nasce nel vuoto: richiama presupposti, fonti, atti precedenti, valutazioni, disponibilità di bilancio se rilevanti e motivazione.
-
-Il terzo è l'effetto. Può impegnare l'amministrazione verso l'esterno, produrre effetti finanziari, concludere un procedimento o avviare una fase successiva.
+Infine va considerato l'effetto. La determinazione può impegnare l'amministrazione verso l'esterno, produrre effetti finanziari, concludere un procedimento o avviare una fase successiva.
 
 Nei casi pratici, la determinazione è spesso l'atto giusto quando la traccia dice:
 
@@ -199,26 +194,22 @@ Per il candidato la domanda è:
 
 > il Sindaco sta nominando, attribuendo, designando o organizzando una funzione che l'ordinamento gli assegna?
 
-Se si, il decreto può essere la forma da considerare. Se invece il Sindaco impone un comportamento, ordina un intervento urgente o adotta un provvedimento contingibile e urgente, bisogna ragionare sull'ordinanza.
+Se sì, il decreto può essere la forma da considerare. Se invece il Sindaco impone un comportamento, ordina un intervento urgente o adotta un provvedimento contingibile e urgente, bisogna ragionare sull'ordinanza.
 
 Esempio: la nomina dei responsabili degli uffici e dei servizi o l'attribuzione di incarichi dirigenziali va collegata alla funzione sindacale prevista dall'ordinamento locale e dai regolamenti dell'ente. Il singolo atto gestionale successivo, però, resta del responsabile competente.
 
 ### Ordinanza
 L'ordinanza è un atto che contiene un ordine, una prescrizione o una misura adottata nell'esercizio di un potere previsto dalla legge. Nel contesto comunale è spesso collegata al Sindaco, ma non deve essere usata come sinonimo di qualunque provvedimento.
 
-Bisogna distinguere almeno tre piani.
+Bisogna distinguere almeno tre piani. L'ordinanza ordinaria è prevista da discipline specifiche e può riguardare materie attribuite all'autorità competente dalla legge o dai regolamenti.
 
-Il primo è l'ordinanza ordinaria prevista da discipline specifiche. Può riguardare materie attribuite all'autorità competente dalla legge o dai regolamenti.
+L'ordinanza contingibile e urgente richiede invece presupposti particolari: urgenza, necessità, situazione concreta da fronteggiare, motivazione rafforzata, temporaneità o proporzionalità della misura secondo i principi dell'ordinamento.
 
-Il secondo è l'ordinanza contingibile e urgente, che richiede presupposti particolari: urgenza, necessità, situazione concreta da fronteggiare, motivazione rafforzata, temporaneita o proporzionalità della misura secondo i principi dell'ordinamento.
+Un terzo piano riguarda l'ordinanza del Sindaco quale ufficiale del Governo. In questo caso il Sindaco esercita funzioni statali attribuitegli dall'ordinamento, con il raccordo prefettizio nei casi previsti.
 
-Il terzo è l'ordinanza del Sindaco quale ufficiale del Governo, quando il Sindaco opera in funzioni statali attribuitegli dall'ordinamento, con il raccordo prefettizio nei casi previsti.
+La risposta concorsuale deve evitare sia la banalizzazione sia la confusione con la determinazione. Dire che "il Sindaco fa ordinanza quando c'è un problema" non basta: occorre indicare potere, presupposti e motivazione.
 
-La risposta concorsuale deve evitare due estremi.
-
-Il primo è banalizzare: "il Sindaco fa ordinanza quando c'è un problema". Una risposta corretta deve invece indicare potere, presupposti e motivazione.
-
-Il secondo è confondere ordinanza e determinazione. Se l'atto riguarda una gestione ordinaria di servizio, una graduatoria, un affidamento o un beneficio individuale, non è automaticamente ordinanza.
+L'altro errore è ricorrere all'ordinanza per una gestione ordinaria di servizio, una graduatoria, un affidamento o un beneficio individuale. In questi casi l'atto non è automaticamente un'ordinanza.
 
 Formula utile:
 
@@ -238,7 +229,7 @@ Esempio: una proposta di deliberazione per approvare un regolamento, una convenz
 In prova è importante scrivere "parere del responsabile del servizio interessato" e non genericamente "parere dell'ufficio".
 
 ### Parere contabile e visto di copertura
-Quando l'atto ha riflessi economico-finanziari o patrimoniali, entra in gioco il responsabile finanziario. Il capitolo di contabilità locale sviluppera in modo più ampio bilancio, impegni, visti, controlli e responsabilità; qui serve una grammatica minima.
+Quando l'atto ha riflessi economico-finanziari o patrimoniali, entra in gioco il responsabile finanziario. Il capitolo di contabilità locale svilupperà in modo più ampio bilancio, impegni, visti, controlli e responsabilità; qui serve una grammatica minima.
 
 Il parere di regolarità contabile accompagna le proposte di deliberazione quando l'atto ha rilevanza economico-finanziaria o patrimoniale secondo la disciplina applicabile.
 
@@ -281,10 +272,10 @@ Nel contesto comunale ricorrono spesso:
 - comunicazione ai destinatari;
 - notifica quando necessaria;
 - trasmissione agli uffici competenti;
-- acquisizione di efficacia o esecutivita secondo la disciplina applicabile;
+- acquisizione di efficacia o esecutività secondo la disciplina applicabile;
 - attivazione della fase gestionale successiva.
 
-Il capitolo successivo trattera procedimento locale, protocollo, albo, URP e accesso. Qui basta fissare una regola: l'atto non è solo firma. Va collocato nel flusso documentale dell'ente.
+Il capitolo successivo tratterà procedimento locale, protocollo, albo, URP e accesso. Qui basta fissare una regola: dopo la firma, l'atto va collocato nel flusso documentale dell'ente.
 
 ### Come scegliere l'atto corretto
 Per scegliere l'atto, usa questa sequenza:
@@ -355,14 +346,14 @@ La risposta corretta non dice semplicemente "la Giunta concede i contributi". Di
 5. Parere tecnico, parere contabile e visto di copertura collegano l'atto alla regolarità istruttoria e alla sostenibilità finanziaria.
 
 ### Domanda da commissario
-**Domanda:** Qual è la differenza tra deliberazione e determinazione?
+Qual è la differenza tra deliberazione e determinazione?
 
-**Risposta guida:** La deliberazione è un atto collegiale adottato da Consiglio o Giunta nei rispettivi ambiti di competenza. È collegata a indirizzo, governo dell'ente, atti fondamentali o decisioni collegiali. La determinazione è invece un atto gestionale adottato dal dirigente o dal responsabile di servizio: attua indirizzi, conclude procedimenti, impegna risorse quando ricorrono i presupposti, approva avvisi, graduatorie, affidamenti o provvedimenti di competenza. La distinzione riflette la separazione tra indirizzo politico-amministrativo e gestione.
+La deliberazione è un atto collegiale adottato da Consiglio o Giunta nei rispettivi ambiti di competenza. È collegata a indirizzo, governo dell'ente, atti fondamentali o decisioni collegiali. La determinazione è invece un atto gestionale adottato dal dirigente o dal responsabile di servizio: attua indirizzi, conclude procedimenti, impegna risorse quando ricorrono i presupposti, approva avvisi, graduatorie, affidamenti o provvedimenti di competenza. La distinzione riflette la separazione tra indirizzo politico-amministrativo e gestione.
 
 ### Domanda-trappola
-**Domanda:** In un Comune, quando bisogna adottare una decisione importante, serve sempre una delibera?
+In un Comune, quando bisogna adottare una decisione importante, serve sempre una delibera?
 
-**Risposta:** No. L'importanza dell'atto non basta per scegliere la deliberazione. Bisogna verificare la competenza. Una decisione può essere importante ma gestionale, e quindi spettare al dirigente o responsabile con determinazione. La deliberazione serve quando la decisione rientra nella competenza del Consiglio o della Giunta. La domanda corretta non è "è importante?", ma "quale funzione svolge e quale soggetto è competente?".
+No. L'importanza dell'atto non basta per scegliere la deliberazione. Bisogna verificare la competenza. Una decisione può essere importante ma gestionale, e quindi spettare al dirigente o responsabile con determinazione. La deliberazione serve quando la decisione rientra nella competenza del Consiglio o della Giunta. La domanda corretta non è "è importante?", ma "quale funzione svolge e quale soggetto è competente?".
 
 ### Errore tipico
 L'errore più frequente è usare la delibera come risposta universale.
@@ -429,7 +420,7 @@ Soluzione attesa:
 - [[sources/vol-02-dossier-redazionale-enti-locali-polizia-locale|VOL-02 - dossier redazionale Enti locali e Polizia locale]]
 - [[sources/bandi-inpa-vol-02-campione-2026|Campione bandi inPA 2026 per VOL-02]]
 - [[entities/comune|Comune]]
-- Cfr. VOL-01 per teoria generale del provvedimento amministrativo, motivazione, procedimento, accesso, trasparenza e redazione atti base.
+- [[books/il-metodo-bando/index|VOL-01 — Il Metodo BANDO]] per teoria generale del provvedimento amministrativo, motivazione, procedimento, accesso, trasparenza e redazione atti base.
 
 ### Note di review
 - Prima della pubblicazione verificare sul testo vigente Normattiva le citazioni puntuali del TUEL su pareri, visto, competenze degli organi, funzioni dirigenziali, decreti e ordinanze.

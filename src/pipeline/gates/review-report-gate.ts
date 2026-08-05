@@ -44,14 +44,23 @@ export function runReviewReportGate(input: ReviewReportInput): GateResult {
     }
   }
 
-  const blockers = rows
-    .filter(isOpenSevere)
+  const severeBlockers = rows
+    .filter((row) => isOpenSevere(row) && !isAssigned(row))
     .map((row) =>
       at(
         "open-severe-error",
         `Errore grave aperto ${row.id || "(senza ID)"} in ${row.position || "posizione non indicata"}: ${row.description || row.state}.`
       )
     )
+  const deferredBlockers = rows
+    .filter((row) => isAssigned(row) && !isClosed(row))
+    .map((row) =>
+      at(
+        "deferred-to-human",
+        `Il report rinvia l'errore ${row.id || "(senza ID)"} alla revisione umana. Tutti i rilievi devono essere chiusi dagli step automatici prima della conferma finale.`
+      )
+    )
+  const blockers = [...severeBlockers, ...deferredBlockers]
   const warnings = rows
     .filter(isOpenMinor)
     .map((row) => at("open-minor-error", `Errore non grave ancora aperto ${row.id || "(senza ID)"}: stato "${row.state || "non indicato"}".`))

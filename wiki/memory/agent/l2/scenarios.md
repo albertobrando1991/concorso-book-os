@@ -3201,6 +3201,7 @@
   - mem-20260724182430-1f2iaov | workflow | Redigere professionalmente il capitolo M-FC05 15 Laboratorio delle prove authority.
   - mem-20260724182430-14068mp | result | Esito manual_writer/m-fc05-15-laboratorio: Redigere professionalmente il capitolo M-FC05 15 Laboratorio delle prove authority. -> Completato il capitolo laboratorio M-FC05 15 con dieci simulazioni distribuite fra percorsi G, E e P, rubrica di correzione, diario degli errori e piano 30/60/90; verificati 59 test.
 
+<<<<<<< HEAD
 ## 2026-07-30T15:58:06.545Z - VOL-03
 
 - conversation_id: conv-20260730155806-1espvnp
@@ -4230,3 +4231,711 @@
 - l0: l0/conv-20260805163318-148km3c.md
 - atoms:
   - mem-20260805163318-sb3b4u | result | Esito pipeline-step-09-mfc01-chapter-08: Procedi con il prossimo step della pipeline VOL-03. -> Completato lo step 09 di M-FC01 capitolo 08 PIAO, performance, anticorruzione e valore pubblico: scritto il capitolo completo con otto nuclei, Mappa BANDO, teoria integrata, flusso d ufficio, tabella comparativa, caso...
+=======
+## 2026-07-29T21:51:17.806Z - vol-02-editorial
+
+- conversation_id: conv-20260729215117-bp8asu
+- route: codex/github-staff-sync-vol02
+- l0: l0/conv-20260729215117-bp8asu.md
+- atoms:
+  - mem-20260729215117-1n7yq9n | result | Esito codex/github-staff-sync-vol02: Scaricare gli ultimi aggiornamenti e controllare il Volume 2 scritto dallo staff. -> Integrato origin/main fino al commit a6e5bea.
+
+## 2026-07-29T22:35:31.692Z - vol-02-editorial
+
+- conversation_id: conv-20260729223531-z7ay09
+- route: codex/pipeline-vol02-step08-12
+- l0: l0/conv-20260729223531-z7ay09.md
+- atoms:
+  - mem-20260729223531-ks6dtm | workflow | Procedere con la pipeline completa VOL-02.
+  - mem-20260729223531-1dgbv5l | result | Esito codex/pipeline-vol02-step08-12: Procedere con la pipeline completa VOL-02. -> Step 08-12 completati per il primo target: piano, lint, matrice, citation guard e report editoriale; restano 264 step pending e la pubblicabilità richiede review normativa e verifica bandi.
+## 2026-07-28T12:33:11.441Z - VOL-07
+- conversation_id: conv-20260728123311-fvxqgc
+- route: codex-vol-07-source-ingest-pipeline-start
+- l0: l0/conv-20260728123311-fvxqgc.md
+  - mem-20260728123311-19nlbb0 | workflow | Acquisire il dossier VOL-07 Sanità amministrativa e professioni sanitarie, censire tutte le fonti e materie richieste e avviare la pipeline di sviluppo secondo AGENTS.md.
+  - mem-20260728123311-1dgwejp | result | Esito codex-vol-07-source-ingest-pipeline-start: Acquisire il dossier VOL-07 Sanità amministrativa e professioni sanitarie, censire tutte le fonti e materie richieste e avviare la pipeline di sviluppo secondo AGENTS.md. -> Dossier acquisito come raw immutabile con SHA-256 verificato; creata source note canonica per la pianificazione, inventario completo di 74 fonti/famiglie e matrice iniziale di 48 requisiti specialistici.
+## 2026-07-28T18:28:47.382Z - VOL-07
+- conversation_id: conv-20260728182847-1uf3uu6
+- route: codex-vol-07-m-sa02-step07-source-unblocking
+- l0: l0/conv-20260728182847-1uf3uu6.md
+  - mem-20260728182847-14n5f45 | workflow | Proseguire la pipeline VOL-07 M-SA02 acquisendo e verificando tutte le fonti necessarie prima della scrittura dei capitoli.
+  - mem-20260728182847-14s2lk3 | result | Esito codex-vol-07-m-sa02-step07-source-unblocking: Proseguire la pipeline VOL-07 M-SA02 acquisendo e verificando tutte le fonti necessarie prima della scrittura dei capitoli. -> Step 07 ancora bloccato correttamente.
+## 2026-07-29T08:32:58.717Z - VOL-07
+- conversation_id: conv-20260729083258-185j02g
+- route: codex-vol-07-m-sa02-step07-second-source-batch
+- l0: l0/conv-20260729083258-185j02g.md
+  - mem-20260729083258-5jl510 | workflow | Procedere con la pipeline VOL-07 acquisendo e verificando le fonti necessarie prima della scrittura dei capitoli.
+  - mem-20260729083258-1h55p5o | result | Esito codex-vol-07-m-sa02-step07-second-source-batch: Procedere con la pipeline VOL-07 acquisendo e verificando le fonti necessarie prima della scrittura dei capitoli. -> Acquisito e consolidato un secondo lotto di 6 PDF ufficiali (401 pagine): attuazione OSS Lombardia 2025, emorragia post partum, allattamento, protocollo PASSI e campionamento ISPRA.
+## 2026-07-29T08:37:50.157Z - VOL-07
+- conversation_id: conv-20260729083750-zne9vc
+- route: codex-vol-07-m-sa02-step07-source-batches-2026-07-29
+- l0: l0/conv-20260729083750-zne9vc.md
+  - mem-20260729083750-bah40g | instruction | Procedere con la pipeline VOL-07 e con la ricerca e il download delle fonti necessarie prima di scrivere i capitoli.
+  - mem-20260729083750-1mmhtj5 | result | Esito codex-vol-07-m-sa02-step07-source-batches-2026-07-29: Procedere con la pipeline VOL-07 e con la ricerca e il download delle fonti necessarie prima di scrivere i capitoli. -> Acquisiti oggi 10 PDF ufficiali per 651 pagine: attuazioni OSS 2025 di Lombardia, Emilia-Romagna e Veneto; ISS-SNLG BLS 2026; ISS EPP e allattamento; PASSI; ISPRA campionamento.
+## 2026-07-29T09:02:37.792Z - VOL-07/M-SA02
+- conversation_id: conv-20260729090237-ebz2j4
+- route: pipeline-volume/step-07-source-acquisition
+- l0: l0/conv-20260729090237-ebz2j4.md
+  - mem-20260729090237-119s6lz | workflow | Procedi con la pipeline del volume 7, includendo ricerca e scaricamento delle fonti necessarie prima della scrittura dei capitoli.
+  - mem-20260729090237-1adpyqv | result | Esito pipeline-volume/step-07-source-acquisition: Procedi con la pipeline del volume 7, includendo ricerca e scaricamento delle fonti necessarie prima della scrittura dei capitoli. -> Acquisiti e verificati cinque PDF ufficiali: linea guida SNLG 2025 e protocolli ASL Alessandria/Regione Emilia-Romagna sulle lesioni da pressione, NEWS2 Emilia-Romagna 2024 e documento ARS Toscana sulla sepsi.
+## 2026-07-29T09:23:36.780Z - VOL-07/M-SA02
+- conversation_id: conv-20260729092336-1ruh6rh
+- route: pipeline-volume/step-07
+- l0: l0/conv-20260729092336-1ruh6rh.md
+  - mem-20260729092336-12ug5k1 | workflow | Prossimo passo: continuare la pipeline VOL-07 acquisendo prima tutte le fonti necessarie, senza iniziare i capitoli finch?
+  - mem-20260729092336-8ntud0 | project_fact | il gate source-ready resta bloccato.
+  - mem-20260729092336-1dgr9in | result | Esito pipeline-volume/step-07: Prossimo passo: continuare la pipeline VOL-07 acquisendo prima tutte le fonti necessarie, senza iniziare i capitoli finch? -> Acquisiti e registrati quattro PDF ufficiali (241 pagine): ALS adulto ERC 2025 tradotto/adattato IRC, assistenza al pasto Regione Piemonte 2024, ErgoToolkit MAPO INAIL 2024 e gestione catetere ASL Latina 2023.
+## 2026-07-29T09:38:24.376Z - VOL-07/M-SA02
+- conversation_id: conv-20260729093824-1856feq
+- route: pipeline-volume/step-07
+- l0: l0/conv-20260729093824-1856feq.md
+  - mem-20260729093824-cizuig | workflow | Procedi con il prossimo passo della pipeline del volume 7, completando la raccolta e la verifica delle fonti necessarie prima della scrittura dei capitoli.
+  - mem-20260729093824-rihfeh | result | Esito pipeline-volume/step-07: Procedi con il prossimo passo della pipeline del volume 7, completando la raccolta e la verifica delle fonti necessarie prima della scrittura dei capitoli. -> Acquisiti e verificati 2 PDF ufficiali aggiuntivi (INAIL ISI 2025 sugli ausili di movimentazione e ASL Alessandria 2026 sulla preparazione igienica), per 38 pagine.
+## 2026-07-29T09:54:24.900Z - VOL-07/M-SA02
+- conversation_id: conv-20260729095424-85tc7a
+- route: pipeline-volume/step-07
+- l0: l0/conv-20260729095424-85tc7a.md
+  - mem-20260729095424-bj470l | workflow | Prossimo passo della pipeline del volume 7.
+  - mem-20260729095424-1d0ar4x | result | Esito pipeline-volume/step-07: Prossimo passo della pipeline del volume 7. -> Selezionato il blocker ostetrico e acquisiti 3 PDF ufficiali per 335 pagine: linea guida WHO 2022 sull'assistenza postnatale di donna e neonato, linee guida ERC 2025 NLS nella traduzione/integrazione IRC pubblicata ne...
+## 2026-07-29T10:19:08.016Z - VOL-07/M-SA02
+- conversation_id: conv-20260729101908-1l42rxy
+- route: pipeline-volume/step-07
+- l0: l0/conv-20260729101908-1l42rxy.md
+  - mem-20260729101908-bd5mrt | workflow | Procedi con il prossimo passo della pipeline del volume 7, completando il ciclo fonti del verticale fisioterapico senza avviare i capitoli prima del superamento del gate.
+  - mem-20260729101908-z3p6qu | result | Esito pipeline-volume/step-07: Procedi con il prossimo passo della pipeline del volume 7, completando il ciclo fonti del verticale fisioterapico senza avviare i capitoli prima del superamento del gate. -> Acquisiti e verificati 2 PDF OMS per 383 pagine su riabilitazione muscoloscheletrica e lombalgia cronica primaria.
+## 2026-07-29T10:41:44.630Z - VOL-07/M-SA02
+- conversation_id: conv-20260729104144-vr52ga
+- route: pipeline-volume/step-07
+- l0: l0/conv-20260729104144-vr52ga.md
+  - mem-20260729104144-1b2yy63 | workflow | Procedi con il prossimo passo della pipeline del volume 7, completando il ciclo fonti TPALL senza avviare i capitoli prima del superamento del gate.
+  - mem-20260729104144-edhkc8 | result | Esito pipeline-volume/step-07: Procedi con il prossimo passo della pipeline del volume 7, completando il ciclo fonti TPALL senza avviare i capitoli prima del superamento del gate. -> Acquisiti e verificati 6 PDF ufficiali per 600 pagine su controllo AIA regionale, campionamento acque interne, QA/QC aria, terre e rocce da scavo, classificazione rifiuti e controlli alimentari Lombardia.
+## 2026-07-29T11:17:01.151Z - VOL-07/M-SA02
+- conversation_id: conv-20260729111701-1y3urcj
+- route: pipeline-volume/step-07
+- l0: l0/conv-20260729111701-1y3urcj.md
+  - mem-20260729111701-1t45ujs | workflow | Procedi con il prossimo passo della pipeline del Volume 7, completando il ciclo epidemiologia e screening senza avviare i capitoli prima del superamento del gate.
+  - mem-20260729111701-1i3pwkk | result | Esito pipeline-volume/step-07: Procedi con il prossimo passo della pipeline del Volume 7, completando il ciclo epidemiologia e screening senza avviare i capitoli prima del superamento del gate. -> Acquisiti e verificati 4 documenti ISS: schede PASSI mammografica e cervicale, pagina nazionale colorettale 2023-2024 e tabella sorveglianze 2025.
+## 2026-07-29T12:46:07.721Z - VOL-07/M-SA02
+- conversation_id: conv-20260729124607-29i74u
+- route: pipeline-volume-step-07-epidemiologia-premal
+- l0: l0/conv-20260729124607-29i74u.md
+  - mem-20260729124607-16dadm7 | preference | Ricorda: per VOL-07 M-SA02 il corpus PREMAL e risposta al segnale comprende DM 7 marzo 2022 in Gazzetta, guida ISS-EpiCentro e due strumenti ECDC; lo scenario resta planning e non autorizza capitoli finché manca review epidemiologica indipendente.
+  - mem-20260729124607-1jkzuhm | result | Esito pipeline-volume-step-07-epidemiologia-premal: Ricorda: per VOL-07 M-SA02 il corpus PREMAL e risposta al segnale comprende DM 7 marzo 2022 in Gazzetta, guida ISS-EpiCentro e due strumenti ECDC; lo scenario resta planning e non autorizza capitoli finché manca revie... -> Acquisiti 4 PDF ufficiali per 190 pagine; creati source note e scenario completo; verificati 117 record in 15 log, 132 raw, 4/4 calcoli, 179 test e typecheck.
+## 2026-07-29T12:59:06.581Z - VOL-07/M-SA02
+- conversation_id: conv-20260729125906-16senep
+- route: pipeline-volume/step-07/review-package
+- l0: l0/conv-20260729125906-16senep.md
+  - mem-20260729125906-1s5cvvy | workflow | Procedere con il prossimo passo della pipeline VOL-07 M-SA02 dopo la preparazione della batteria PASSI e dello scenario epidemiologico.
+  - mem-20260729125906-1ewn7r | result | Esito pipeline-volume/step-07/review-package: Procedere con il prossimo passo della pipeline VOL-07 M-SA02 dopo la preparazione della batteria PASSI e dello scenario epidemiologico. -> Predisposti il pacchetto per review epidemiologica indipendente e il verbale firmabile.
+## 2026-07-29T13:28:49.103Z - VOL-07/M-SA02
+- conversation_id: conv-20260729132849-19vdq36
+- route: pipeline-volume/step-07/oss-assistenza-procedurale
+- l0: l0/conv-20260729132849-19vdq36.md
+  - mem-20260729132849-stq6wu | workflow | Procedere dal punto interrotto della pipeline VOL-07 M-SA02 completando il sottoprogetto OSS su bagno a letto e trasferimenti, senza forzare il gate.
+  - mem-20260729132849-823mp5 | result | Esito pipeline-volume/step-07/oss-assistenza-procedurale: Procedere dal punto interrotto della pipeline VOL-07 M-SA02 completando il sottoprogetto OSS su bagno a letto e trasferimenti, senza forzare il gate. -> Acquisiti e verificati quattro PDF universitari pubblici per 70 pagine; consolidata la source note; predisposta checklist non esecutiva con 53 controlli; aggiornati matrice, audit, indici e log.
+## 2026-07-29T14:02:29.990Z - pipeline-volume-vol-07-m-sa02
+- conversation_id: conv-20260729140229-1ovp8gu
+- route: pipeline-source-acquisition
+- l0: l0/conv-20260729140229-1ovp8gu.md
+  - mem-20260729140229-dmyzq9 | workflow | Riprendere la pipeline VOL-07 M-SA02 dopo l'arresto del PC e procedere dal punto raggiunto.
+  - mem-20260729140229-1w5y92r | result | Esito pipeline-source-acquisition: Riprendere la pipeline VOL-07 M-SA02 dopo l'arresto del PC e procedere dal punto raggiunto. -> Acquisito e verificato un lotto ufficiale ISS-ItOSS di 3 PDF e 65 pagine su eclampsia, sepsi materna e tromboembolismo in gravidanza/puerperio.
+## 2026-07-29T14:18:06.378Z - pipeline-volume-vol-07-m-sa02
+- conversation_id: conv-20260729141806-xmhgks
+- route: pipeline-source-acquisition
+- l0: l0/conv-20260729141806-xmhgks.md
+  - mem-20260729141806-1yq5ov7 | workflow | Procedere in ordine nella pipeline VOL-07 M-SA02.
+  - mem-20260729141806-1hktw7b | result | Esito pipeline-source-acquisition: Procedere in ordine nella pipeline VOL-07 M-SA02. -> Proseguito il primo blocker OSS acquisendo tre PDF ufficiali per 131 pagine: guida Regione Veneto 2026 ai laboratori OSS, manuale Invacare Birdie EVO e manuale Invacare Universal Slings.
+## 2026-07-29T14:38:28.464Z - pipeline-volume-vol-07-m-sa02
+- conversation_id: conv-20260729143828-fhqboe
+- route: pipeline-source-acquisition
+- l0: l0/conv-20260729143828-fhqboe.md
+  - mem-20260729143828-51dqz | workflow | Procedi tu in ordine con la pipeline VOL-07 M-SA02 dopo il riavvio, preservando il gate e la memoria locale.
+  - mem-20260729143828-t0235d | result | Esito pipeline-source-acquisition: Procedi tu in ordine con la pipeline VOL-07 M-SA02 dopo il riavvio, preservando il gate e la memoria locale. -> Acquisiti e verificati quattro PDF ufficiali italiani su distocia di spalla e prolasso di funicolo (109 pagine); consolidata la source note; aggiornati matrice, audit e indici.
+## 2026-07-29T15:03:29.636Z - pipeline-volume-vol-07-m-sa02
+- conversation_id: conv-20260729150329-x444qp
+- route: pipeline-blocker-remediation-batch
+- l0: l0/conv-20260729150329-x444qp.md
+  - mem-20260729150329-zikq9k | result | Esito pipeline-blocker-remediation-batch: Completa tutti i blocker che mancano insieme e andiamo avanti. -> Completato il lotto interno coordinato: 11 nuove fonti verificate; corpus 15 log, 142 voci, 157 file, zero errori; matrice e audit aggiornati; creato dossier REV-OSS/OST/FIS/EPI/TPA.
+## 2026-07-29T16:46:57.372Z - VOL-07
+- conversation_id: conv-20260729164657-1vhc7um
+- route: pipeline-volume/checkpoint-step-09
+- l0: l0/conv-20260729164657-1vhc7um.md
+  - mem-20260729164657-h9iick | instruction | La pipeline VOL-07 deve procedere in ordine e usare il CLI per stato e gate.
+  - mem-20260729164657-1exsnql | workflow | Per il primo ciclo della fase C va scritto il capitolo 01 di M-SA02 senza aprire ancora le fasi D-F.
+  - mem-20260729164657-p5n0dd | result | Esito pipeline-volume/checkpoint-step-09: La pipeline VOL-07 deve procedere in ordine e usare il CLI per stato e gate. -> Completati gli step 08 e 09 del capitolo 01 M-SA02.
+## 2026-07-29T16:56:20.089Z - VOL-07
+- conversation_id: conv-20260729165620-afp93p
+- route: pipeline-volume/checkpoint-phase-c-chapter-01
+- l0: l0/conv-20260729165620-afp93p.md
+  - mem-20260729165620-1pd3krk | workflow | Procedere in ordine con la pipeline VOL-07 e completare gli step residui della fase C del capitolo 01 M-SA02 senza abilitare automaticamente le fasi D-F.
+  - mem-20260729165620-1sad32u | result | Esito pipeline-volume/checkpoint-phase-c-chapter-01: Procedere in ordine con la pipeline VOL-07 e completare gli step residui della fase C del capitolo 01 M-SA02 senza abilitare automaticamente le fasi D-F. -> Completati gli step 10, 11 e 12 del capitolo 01 M-SA02.
+## 2026-07-29T18:01:44.581Z - VOL-07
+- conversation_id: conv-20260729180144-rd4p9w
+- route: dashboard-live-sync-fix
+- l0: l0/conv-20260729180144-rd4p9w.md
+  - mem-20260729180144-1gjsrza | instruction | La dashboard VOL-07 deve mostrare subito i nuovi capitoli quando arriva un payload aggiornato con lo stesso bookId.
+  - mem-20260729180144-1y7q614 | result | Esito dashboard-live-sync-fix: La dashboard VOL-07 deve mostrare subito i nuovi capitoli quando arriva un payload aggiornato con lo stesso bookId. -> Corretto BookStudioPanel con una transizione atomica di payload e selezione, usata sia per nuovi props sia per refresh HTTP.
+## 2026-07-29T18:31:08.188Z - VOL-07
+- conversation_id: conv-20260729183108-18alggv
+- route: dashboard-default-preview-fix
+- l0: l0/conv-20260729183108-18alggv.md
+  - mem-20260729183108-1tpnx3b | workflow | L'anteprima dalla dashboard ?
+  - mem-20260729183108-1w20y4j | instruction | sempre la stessa; aprire il volume sul primo capitolo editoriale reale.
+  - mem-20260729183108-1ci63iz | result | Esito dashboard-default-preview-fix: L'anteprima dalla dashboard ? -> Individuata la causa nel default chapters[0] dei volumi compositi, che apriva sempre il front matter generato.
+## 2026-07-29T19:05:54.382Z - pipeline-volume
+- conversation_id: conv-20260729190554-q1hgm4
+- route: pipeline-vol-07-m-sa02-chapter-03-task-1
+- l0: l0/conv-20260729190554-q1hgm4.md
+  - mem-20260729190554-17ppw39 | workflow | Estendere dichiarativamente VOL-07/M-SA02 con il capitolo 03 e sincronizzare gli step C 08-12 senza avviare il capitolo.
+  - mem-20260729190554-pc9kgm | result | Esito pipeline-vol-07-m-sa02-chapter-03-task-1: Estendere dichiarativamente VOL-07/M-SA02 con il capitolo 03 e sincronizzare gli step C 08-12 senza avviare il capitolo. -> Test RED osservato, test GREEN 15/15, sync ha aggiunto i cinque step 08-12 e next ha assegnato lo step 08; nessun capitolo creato e nessun commit.
+## 2026-07-29T19:18:06.958Z - pipeline-volume
+- conversation_id: conv-20260729191806-1o2f6zv
+- route: pipeline-volume/vol-07-m-sa02-step-08-chapter-03
+- l0: l0/conv-20260729191806-1o2f6zv.md
+  - mem-20260729191806-1x0o0ah | workflow | Completare lo step 08 VOL-07/M-SA02 capitolo 03: piano operativo, verifica manuale del gate chapter-plan e chiusura motivata senza creare il capitolo.
+  - mem-20260729191806-1gx3vmv | result | Esito pipeline-volume/vol-07-m-sa02-step-08-chapter-03: Completare lo step 08 VOL-07/M-SA02 capitolo 03: piano operativo, verifica manuale del gate chapter-plan e chiusura motivata senza creare il capitolo. -> Piano salvato in wiki/reviews/pipeline/VOL-07/08-piano-capitolo-m-sa02-03.md; gate-not-implemented verificato; step 08 chiuso con accettazione manuale motivata; capitolo target non creato; step 09 resta pending; nessu...
+## 2026-07-29T20:35:05.866Z - manual-writer
+- conversation_id: conv-20260729203505-ejgfsq
+- route: pipeline-vol-07-m-sa02-chapter-03-step-09
+- l0: l0/conv-20260729203505-ejgfsq.md
+  - mem-20260729203505-1nm2mgt | workflow | Scrittura step 09 del capitolo M-SA02 03 su autonomia, responsabilità e deontologia.
+  - mem-20260729203505-aa0zx5 | result | Esito pipeline-vol-07-m-sa02-chapter-03-step-09: Scrittura step 09 del capitolo M-SA02 03 su autonomia, responsabilità e deontologia. -> Capitolo ricostruito da tre passaggi UTF-8, gate chapter-lint passato e step 09 completato.
+## 2026-07-29T20:52:47.638Z - editorial-review
+- conversation_id: conv-20260729205247-11bv37m
+- route: pipeline-volume/vol-07-m-sa02-step-10-chapter-03
+- l0: l0/conv-20260729205247-11bv37m.md
+  - mem-20260729205247-11n8ix3 | workflow | Eseguire lo step 10 VOL-07/M-SA02 capitolo 03: audit degli undici criteri sulla riga Discipline professionali specifiche, report coverage e aggiornamento della sola nota di matrice.
+  - mem-20260729205247-6dl5d7 | result | Esito pipeline-volume/vol-07-m-sa02-step-10-chapter-03: Eseguire lo step 10 VOL-07/M-SA02 capitolo 03: audit degli undici criteri sulla riga Discipline professionali specifiche, report coverage e aggiornamento della sola nota di matrice. -> Audit completato sui criteri definizione, funzione, inquadramento, elementi, distinzioni, conseguenze, caso, uso nella prova, errore tipico, verifica e fonti.
+## 2026-07-29T21:04:39.225Z - humanizer
+- conversation_id: conv-20260729210439-z81czx
+- route: pipeline-vol-07-m-sa02-chapter-03-step-11
+- l0: l0/conv-20260729210439-z81czx.md
+  - mem-20260729210439-12qptiz | result | Esito pipeline-vol-07-m-sa02-chapter-03-step-11: Humanizer step 11 chapter 03. -> Due passate editoriali completate; citation-guard passato e step 11 chiuso.
+## 2026-07-29T21:46:23.330Z - editorial-review
+- conversation_id: conv-20260729214623-1verizv
+- route: pipeline-step-12-review
+- l0: l0/conv-20260729214623-1verizv.md
+  - mem-20260729214623-1ua0vfo | workflow | Completare la revisione editoriale totale del capitolo 03 M-SA02 applicando solo correzioni oggettive, mantenendo aperte le review umane dello step 15 e chiudendo il gate 12 solo se verde.
+  - mem-20260729214623-10mga78 | result | Esito pipeline-step-12-review: Completare la revisione editoriale totale del capitolo 03 M-SA02 applicando solo correzioni oggettive, mantenendo aperte le review umane dello step 15 e chiudendo il gate 12 solo se verde. -> Step 12 completato: indice e piano editoriale allineati, spaziatura superflua del capitolo corretta, report 1-10 creato, gate review-report superato senza blocker e pipeline VOL-07 a 27 step done.
+## 2026-07-29T22:00:13.539Z - pipeline-volume
+- conversation_id: conv-20260729220013-4z089n
+- route: vol-07-m-sa02-capitolo-03-progressivo
+- l0: l0/conv-20260729220013-4z089n.md
+  - mem-20260729220013-206rbs | workflow | Procedere in ordine con il solo capitolo 03 M-SA02, completando il ciclo pipeline 08-12 senza attivare le fasi D-F.
+  - mem-20260729220013-17ineu2 | result | Esito vol-07-m-sa02-capitolo-03-progressivo: Procedere in ordine con il solo capitolo 03 M-SA02, completando il ciclo pipeline 08-12 senza attivare le fasi D-F. -> VOL-07 M-SA02 capitolo 03 completato negli step 08-12; test, typecheck, gate e stato finale verificati; review professionali esterne conservate allo step 15.
+## 2026-07-30T08:12:35.548Z - VOL-07/M-SA02
+- conversation_id: conv-20260730081235-qdzvpb
+- route: pipeline-volume/reader-contract-remediation
+- l0: l0/conv-20260730081235-qdzvpb.md
+  - mem-20260730081235-115vq5h | preference | Ricorda: ogni capitolo ConcorsoBook deve essere autosufficiente per lo studente che prepara un concorso pubblico.
+  - mem-20260730081235-1a608ce | project_fact | La wiki, le source note e i report sono input editoriali e non devono comparire come dipendenze nel corpo; il testo deve insegnare tutta la conoscenza assegnata al modulo.
+  - mem-20260730081235-125p7i4 | result | Esito pipeline-volume/reader-contract-remediation: Ricorda: ogni capitolo ConcorsoBook deve essere autosufficiente per lo studente che prepara un concorso pubblico. -> Aggiornati contratto canonico, skill, prompt 09-12, chapter-lint e citation-guard.
+## 2026-07-30T09:05:04.603Z - pipeline-vol-07
+- conversation_id: conv-20260730090504-xegyuz
+- route: task-2-m-sa01-fase-c
+- l0: l0/conv-20260730090504-xegyuz.md
+  - mem-20260730090504-zbx4qb | workflow | Abilitare dichiarativamente M-SA01 alla fase C con cinque capitoli, preservando gli hunks M-SA02/globali non staged.
+  - mem-20260730090504-w7pf69 | result | Esito task-2-m-sa01-fase-c: Abilitare dichiarativamente M-SA01 alla fase C con cinque capitoli, preservando gli hunks M-SA02/globali non staged. -> Commit 71388ec: M-SA01 impostato a A,B,C con i cinque target 04,05,06,09,10 e nota step 15; test pipeline mirati 15/15 PASS; M-SA02/globali preservati non staged.
+## 2026-07-30T09:25:00.331Z - VOL-07
+- conversation_id: conv-20260730092500-14kflxh
+- route: pipeline-sync-m-sa01-phase-c
+- l0: l0/conv-20260730092500-14kflxh.md
+  - mem-20260730092500-5w6gi | result | Esito pipeline-sync-m-sa01-phase-c: Sincronizzare VOL-07 tramite CLI senza modificare manualmente il run-state, verificare 27 done e aggiungere 25 step M-SA01 08-12 senza next. -> Sync CLI conforme: 27 done, 25 pending M-SA01, dropped vuoto, next non eseguito; run-state committato localmente.
+## 2026-07-30T11:43:38.026Z - VOL-07/M-SA01
+- conversation_id: conv-20260730114338-5lxowh
+- route: pipeline-step-09-chapter-04
+- l0: l0/conv-20260730114338-5lxowh.md
+  - mem-20260730114338-1xmc3y3 | workflow | Scrivere il capitolo 04 M-SA01 su atti, procedimenti e flussi informativi, rispettando piano, contratto studente e gate chapter-lint.
+  - mem-20260730114338-1q6clcs | result | Esito pipeline-step-09-chapter-04: Scrivere il capitolo 04 M-SA01 su atti, procedimenti e flussi informativi, rispettando piano, contratto studente e gate chapter-lint. -> Creato capitolo autosufficiente di 5255 parole; gate chapter-lint e complete superati senza blocker o warning; prossimo step 10 lasciato pending; commit locale 6501ead.
+## 2026-07-30T12:02:33.316Z - VOL-07/M-SA01
+- conversation_id: conv-20260730120233-1ibowkc
+- route: fix-round-1-chapter-04-flows
+- l0: l0/conv-20260730120233-1ibowkc.md
+  - mem-20260730120233-4gof12 | result | Esito fix-round-1-chapter-04-flows: Correggere la copertura SDO CE SP con sette dimensioni, aggiungere tracciabilità privacy e sostituire la tabella larga con schede verticali. -> Consolidate due note ufficiali SDO e CE/SP; capitolo portato a 5818 parole con tre schede verticali e 21 blocchi dimensionali; gate verde; commit 1dd98a3 senza run-state.
+## 2026-07-30T12:48:55.833Z - VOL-07/M-SA01
+- conversation_id: conv-20260730124855-z7el0g
+- route: fix-round-2-raw-traceability
+- l0: l0/conv-20260730124855-z7el0g.md
+  - mem-20260730124855-1s5zkan | result | Esito fix-round-2-raw-traceability: Riparare la tracciabilità raw SDO e CE/SP: conservare i challenge Gcore come bloccati, acquisire raw ufficiali validi, aggiungere la regola HTML a .gitattributes, eseguire solo gate 09 e diff-check, commit senza push. -> Acquisiti e verificati G.U.
+## 2026-07-30T12:58:54.600Z - VOL-07/M-SA01
+- conversation_id: conv-20260730125854-miag32
+- route: pipeline-volume/msa01-phase-c-start
+- l0: l0/conv-20260730125854-miag32.md
+  - mem-20260730125854-1opaaiw | preference | Ricorda: per VOL-07/M-SA01 sono stati attivati insieme cinque capitoli della fase C, da lavorare progressivamente.
+  - mem-20260730125854-be1k4p | workflow | Lo step 07 è superato e lo stato condiviso deve essere sincronizzato esclusivamente tramite il CLI della pipeline.
+  - mem-20260730125854-1aod2a2 | result | Esito pipeline-volume/msa01-phase-c-start: Ricorda: per VOL-07/M-SA01 sono stati attivati insieme cinque capitoli della fase C, da lavorare progressivamente. -> Verifiche integrate eseguite dopo sync CLI e avvio del capitolo 04: test pipeline 137/137, suite completa 200/200 e typecheck superati; status VOL-07 senza blocker, step 10 del capitolo 04 pending.
+## 2026-07-30T13:45:40.680Z - VOL-07/M-SA01
+- conversation_id: conv-20260730134540-1xrpnhz
+- route: packaging/msa01-source-corpus
+- l0: l0/conv-20260730134540-1xrpnhz.md
+  - mem-20260730134540-3win8u | project_fact | Confezionare il corpus M-SA01 in un commit selettivo: matrice, cinque source note, dipendenze raw complete, hash manifest e OpenBDAP immutabile; non modificare run-state né includere M-SA02.
+  - mem-20260730134540-g982kp | result | Esito packaging/msa01-source-corpus: Confezionare il corpus M-SA01 in un commit selettivo: matrice, cinque source note, dipendenze raw complete, hash manifest e OpenBDAP immutabile; non modificare run-state né includere M-SA02. -> Commit d6ac314 creato con 34 file.
+## 2026-07-30T13:59:34.448Z - VOL-07/M-SA01
+- conversation_id: conv-20260730135934-1t6gzq3
+- route: packaging/msa01-source-corpus-fix-round-1
+- l0: l0/conv-20260730135934-1t6gzq3.md
+  - mem-20260730135934-22geb2 | instruction | Escludere le capture Gcore bloccate dalle source note attive M-SA01, usare solo prove locali verificate e aggiungere regressioni bidirezionali.
+  - mem-20260730135934-1kgfk62 | result | Esito packaging/msa01-source-corpus-fix-round-1: Escludere le capture Gcore bloccate dalle source note attive M-SA01, usare solo prove locali verificate e aggiungere regressioni bidirezionali. -> Commit 6530cf9: source_url attivi spostati su Gazzetta e AIFA; claim dispositivi e catalogo NSIS attenuati; dipendenze SDO e CE/SP rese unidirezionali; test scoped 5/5 e raw 29/29 verificati.
+## 2026-07-30T15:02:27.191Z - VOL-07
+- conversation_id: conv-20260730150227-1893tnd
+- route: codex/remediation-packaging-a
+- l0: l0/conv-20260730150227-1893tnd.md
+  - mem-20260730150227-vfiw8c | workflow | Package only completed VOL-07 pipeline artifacts for done steps 01-07 with a tracked-artifact regression test and selective commit.
+  - mem-20260730150227-f9ug94 | result | Esito codex/remediation-packaging-a: Package only completed VOL-07 pipeline artifacts for done steps 01-07 with a tracked-artifact regression test and selective commit. -> Inventoried 16 expected outputs: 4 tracked, 12 untracked, 0 absent.
+## 2026-07-30T15:40:55.813Z - VOL-07/M-SA01
+- conversation_id: conv-20260730154055-8niqu
+- route: pipeline-volume/msa01-phase-c-start
+- l0: l0/conv-20260730154055-8niqu.md
+  - mem-20260730154055-1je8m7g | workflow | Completare insieme i blocker residui della fase C M-SA01, rendere i capitoli autosufficienti per studenti dei concorsi pubblici, aggiornare dashboard e pipeline senza push.
+  - mem-20260730154055-1bokhec | result | Esito pipeline-volume/msa01-phase-c-start: Completare insieme i blocker residui della fase C M-SA01, rendere i capitoli autosufficienti per studenti dei concorsi pubblici, aggiornare dashboard e pipeline senza push. -> Chiusura approvata del range 6053b770..d8d900c: capitolo 04 M-SA01 professionale e autosufficiente; dashboard live aggiornata; 16/16 output step 01-07 e grafo fonti/raw riproducibili; 9 Gcore escluse; contratto reader...
+## 2026-07-30T17:04:16.868Z - pipeline-volume:VOL-07
+- conversation_id: conv-20260730170416-7zmjie
+- route: codex/editorial-list-standard
+- l0: l0/conv-20260730170416-7zmjie.md
+  - mem-20260730170416-1yaktnw | workflow | Standardizzare la lista capitoli per studenti e il piano editoriale staff; correggere accenti e punteggiatura; impedire che piani e note interne entrino nell anteprima; riprendere la pipeline VOL-07.
+  - mem-20260730170416-1ly7g8s | result | Esito codex/editorial-list-standard: Standardizzare la lista capitoli per studenti e il piano editoriale staff; correggere accenti e punteggiatura; impedire che piani e note interne entrino nell anteprima; riprendere la pipeline VOL-07. -> Implementata separazione globale chapters/planning e dashboard staff, migrati 25 piani, normalizzati titoli VOL-07, protetto il contratto con test, completato il gate 10 di M-SA01 capitolo 04.
+## 2026-07-30T17:18:20.777Z - pipeline-volume:VOL-07
+- conversation_id: conv-20260730171820-1k5cd9d
+- route: vol-07-m-sa01-capitolo-04-step-11-humanizer
+- l0: l0/conv-20260730171820-1k5cd9d.md
+  - mem-20260730171820-131zia6 | workflow | Procedere in ordine con la pipeline VOL-07 e completare la revisione Humanizer del capitolo 04 M-SA01 mantenendo contenuto tecnico e riferimenti.
+  - mem-20260730171820-1k1mb0k | result | Esito vol-07-m-sa01-capitolo-04-step-11-humanizer: Procedere in ordine con la pipeline VOL-07 e completare la revisione Humanizer del capitolo 04 M-SA01 mantenendo contenuto tecnico e riferimenti. -> Completato lo step 11 del capitolo 04 M-SA01 con doppio passaggio Humanizer.
+## 2026-07-30T17:23:08.117Z - pipeline-volume:VOL-07
+- conversation_id: conv-20260730172308-1v2qrml
+- route: vol-07-m-sa01-capitolo-04-step-12-revisione-editoriale
+- l0: l0/conv-20260730172308-1v2qrml.md
+  - mem-20260730172308-r042pi | workflow | Procedere in ordine con la pipeline VOL-07 completando la revisione editoriale totale del capitolo 04 M-SA01 per studenti dei concorsi pubblici.
+  - mem-20260730172308-1nra7b0 | result | Esito vol-07-m-sa01-capitolo-04-step-12-revisione-editoriale: Procedere in ordine con la pipeline VOL-07 completando la revisione editoriale totale del capitolo 04 M-SA01 per studenti dei concorsi pubblici. -> Completato lo step 12 del capitolo 04 M-SA01.
+## 2026-07-30T17:29:55.378Z - pipeline-volume:VOL-07
+- conversation_id: conv-20260730172955-1mqruhi
+- route: vol-07-m-sa01-capitolo-05-step-08-piano
+- l0: l0/conv-20260730172955-1mqruhi.md
+  - mem-20260730172955-15uct8t | workflow | Procedere in ordine con la pipeline VOL-07 e preparare il piano completo del capitolo 05 M-SA01 per studenti dei concorsi pubblici.
+  - mem-20260730172955-vogp6s | result | Esito vol-07-m-sa01-capitolo-05-step-08-piano: Procedere in ordine con la pipeline VOL-07 e preparare il piano completo del capitolo 05 M-SA01 per studenti dei concorsi pubblici. -> Step 08 del capitolo 05 completato con piano operativo: documentazione sanitaria, regimi di accesso, privacy, FSE/dossier e conservazione distinti; target non creato; gate non automatizzato verificato e accettato manu...
+## 2026-07-30T17:38:08.597Z - pipeline-volume:VOL-07
+- conversation_id: conv-20260730173808-1yvnp5n
+- route: vol-07-m-sa01-capitolo-05-step-09-scrittura
+- l0: l0/conv-20260730173808-1yvnp5n.md
+  - mem-20260730173808-98vdqz | workflow | Procedere con la scrittura professionale e autosufficiente del capitolo 05 M-SA01 per candidati ai concorsi pubblici.
+  - mem-20260730173808-8cnkrw | result | Esito vol-07-m-sa01-capitolo-05-step-09-scrittura: Procedere con la scrittura professionale e autosufficiente del capitolo 05 M-SA01 per candidati ai concorsi pubblici. -> Step 09 completato: creato il capitolo 05 su documentazione sanitaria, regimi di accesso, privacy, cartella/FSE/dossier, documento informatico e conservazione; 6.062 parole, caso ed esercizi; chapter-lint senza blocke...
+## 2026-07-30T17:41:50.429Z - pipeline-volume:VOL-07
+- conversation_id: conv-20260730174150-3oawtg
+- route: vol-07-m-sa01-capitolo-05-step-10-copertura
+- l0: l0/conv-20260730174150-3oawtg.md
+  - mem-20260730174150-ondb8u | workflow | Procedere in ordine con il controllo di copertura del capitolo 05 M-SA01.
+  - mem-20260730174150-jdth8q | result | Esito vol-07-m-sa01-capitolo-05-step-10-copertura: Procedere in ordine con il controllo di copertura del capitolo 05 M-SA01. -> Step 10 completato: copertura reale del nucleo documentazione, accesso e conservazione confermata criterio per criterio; delta e controlli differiti registrati; matrice collegata al report; gate coverage senza blocker...
+## 2026-07-30T18:09:28.856Z - pipeline-volume:VOL-07
+- conversation_id: conv-20260730180928-hpch3q
+- route: vol-07-m-sa01-capitolo-05-step-11-humanizer
+- l0: l0/conv-20260730180928-hpch3q.md
+  - mem-20260730180928-gcj1di | workflow | Procedere in ordine con la pipeline VOL-07 e completare la revisione Humanizer del capitolo 05 M-SA01 per studenti dei concorsi pubblici, preservando contenuto tecnico, fonti e riferimenti normativi.
+  - mem-20260730180928-1lgedoe | result | Esito vol-07-m-sa01-capitolo-05-step-11-humanizer: Procedere in ordine con la pipeline VOL-07 e completare la revisione Humanizer del capitolo 05 M-SA01 per studenti dei concorsi pubblici, preservando contenuto tecnico, fonti e riferimenti normativi. -> Step 11 completato: doppia passata Humanizer sul capitolo 05; tono professionale e naturale, contenuto e struttura didattica preservati; source_refs e last_compiled_from invariati; nessun link interno vietato; gate...
+## 2026-07-30T18:13:16.730Z - pipeline-volume:VOL-07
+- conversation_id: conv-20260730181316-1k9z6ta
+- route: vol-07-m-sa01-capitolo-05-step-12-revisione-editoriale
+- l0: l0/conv-20260730181316-1k9z6ta.md
+  - mem-20260730181316-1l4juzz | workflow | Procedere in ordine con la pipeline VOL-07 completando la revisione editoriale totale del capitolo 05 M-SA01 per studenti dei concorsi pubblici.
+  - mem-20260730181316-923zwn | result | Esito vol-07-m-sa01-capitolo-05-step-12-revisione-editoriale: Procedere in ordine con la pipeline VOL-07 completando la revisione editoriale totale del capitolo 05 M-SA01 per studenti dei concorsi pubblici. -> Step 12 completato: report editoriale nel template fisso, test dello studente superato, copertura integrale confermata, due correzioni oggettive applicate, gate review-report verde; 328 test e typecheck superati.
+## 2026-07-30T18:31:25.485Z - pipeline-volume:VOL-07
+- conversation_id: conv-20260730183125-124f5op
+- route: vol-07-m-sa01-capitolo-06-step-08-piano
+- l0: l0/conv-20260730183125-124f5op.md
+  - mem-20260730183125-gpoh7j | workflow | Procedere in ordine con la pipeline VOL-07 preparando il piano completo del capitolo 06 M-SA01 e risolvendo insieme i blocker mancanti.
+  - mem-20260730183125-1ox0awa | result | Esito vol-07-m-sa01-capitolo-06-step-08-piano: Procedere in ordine con la pipeline VOL-07 preparando il piano completo del capitolo 06 M-SA01 e risolvendo insieme i blocker mancanti. -> Step 08 completato: piano operativo del capitolo 06 verificato manualmente, source note ufficiale sulla Legge 150/2000 consolidata e collegata alla matrice, target capitolo non creato; 328 test e typecheck superati; p...
+## 2026-07-30T19:27:22.492Z - pipeline-volume:VOL-07
+- conversation_id: conv-20260730192722-xyvsnj
+- route: vol-07-m-sa01-capitolo-06-step-09-scrittura
+- l0: l0/conv-20260730192722-xyvsnj.md
+  - mem-20260730192722-1g2ako1 | workflow | Procedere con la scrittura integrale del capitolo 06 M-SA01 per lo studente concorsista.
+  - mem-20260730192722-dvpqge | result | Esito vol-07-m-sa01-capitolo-06-step-09-scrittura: Procedere con la scrittura integrale del capitolo 06 M-SA01 per lo studente concorsista. -> Step 09 completato: capitolo 06 front-office e comunicazione con l'utenza scritto come testo autonomo per lo studente, con teoria, Mappa BANDO, caso, errori, esercizi e riferimenti leggibili; gate e verifiche eseguiti.
+## 2026-07-30T19:38:52.181Z - pipeline-volume:VOL-07
+- conversation_id: conv-20260730193852-1msrn05
+- route: vol-07-m-sa01-capitolo-06-step-10-copertura
+- l0: l0/conv-20260730193852-1msrn05.md
+  - mem-20260730193852-70108r | workflow | Procedere con il controllo integrale della copertura didattica del capitolo 06 M-SA01.
+  - mem-20260730193852-my0oxt | result | Esito vol-07-m-sa01-capitolo-06-step-10-copertura: Procedere con il controllo integrale della copertura didattica del capitolo 06 M-SA01. -> Step 10 completato: capitolo 06 verificato nucleo per nucleo rispetto alla matrice, delta di copertura prodotto, stato reale aggiornato e gate coverage superato.
+## 2026-07-30T19:54:42.766Z - pipeline-volume:VOL-07
+- conversation_id: conv-20260730195442-1js0to4
+- route: vol-07-m-sa01-capitolo-06-step-11-humanizer
+- l0: l0/conv-20260730195442-1js0to4.md
+  - mem-20260730195442-1g8qk1a | workflow | Procedere con la revisione Humanizer del capitolo 06 M-SA01, preservando contenuto tecnico, fonti e riferimenti normativi.
+  - mem-20260730195442-bsx7m3 | result | Esito vol-07-m-sa01-capitolo-06-step-11-humanizer: Procedere con la revisione Humanizer del capitolo 06 M-SA01, preservando contenuto tecnico, fonti e riferimenti normativi. -> Step 11 completato: doppia passata Humanizer sul capitolo 06; tono professionale e naturale, contenuto e struttura didattica preservati; source_refs, last_compiled_from e riferimenti normativi invariati; citation-guar...
+## 2026-07-30T20:06:01.690Z - pipeline-volume:VOL-07
+- conversation_id: conv-20260730200601-qj9uor
+- route: vol-07-m-sa01-capitolo-06-step-12-revisione-editoriale
+- l0: l0/conv-20260730200601-qj9uor.md
+  - mem-20260730200601-1d8jrlx | workflow | Procedi con lo step 12 del capitolo 06 di M-SA01: revisione editoriale totale, test dello studente, gate e avanzamento della pipeline.
+  - mem-20260730200601-1vsasd4 | result | Esito vol-07-m-sa01-capitolo-06-step-12-revisione-editoriale: Procedi con lo step 12 del capitolo 06 di M-SA01: revisione editoriale totale, test dello studente, gate e avanzamento della pipeline. -> Step 12 completato: revisione editoriale totale del capitolo 06 M-SA01; tre correzioni oggettive applicate (stato indice/piano, rinvii VOL-01, ripetizione); test dello studente e copertura integrale confermati; gate r...
+## 2026-07-30T20:20:43.373Z - pipeline-volume:VOL-07
+- conversation_id: conv-20260730202043-j82he8
+- route: vol-07-m-sa01-capitolo-09-step-08-piano
+- l0: l0/conv-20260730202043-j82he8.md
+  - mem-20260730202043-6u77hh | workflow | Procedere in ordine con la pipeline VOL-07 e preparare il piano completo del capitolo 09 M-SA01 su contabilità, budget e controllo di gestione per studenti dei concorsi pubblici.
+  - mem-20260730202043-1355mro | result | Esito vol-07-m-sa01-capitolo-09-step-08-piano: Procedere in ordine con la pipeline VOL-07 e preparare il piano completo del capitolo 09 M-SA01 su contabilità, budget e controllo di gestione per studenti dei concorsi pubblici. -> Step 08 completato: piano operativo completo del capitolo 09; due nuclei assegnati, struttura H1/H2/H3, budget KDP, casi, esercizi, fonti e review definiti; blocker LA/CP risolto sulla fonte primaria D.M.
+## 2026-07-30T20:37:34.023Z - pipeline-volume:VOL-07
+- conversation_id: conv-20260730203734-1adndax
+- route: vol-07-m-sa01-capitolo-09-step-09-scrittura
+- l0: l0/conv-20260730203734-1adndax.md
+  - mem-20260730203734-49bcqx | workflow | Procedere in ordine con la pipeline VOL-07 e scrivere il capitolo 09 M-SA01 su contabilità, budget e controllo di gestione per studenti dei concorsi pubblici.
+  - mem-20260730203734-13hll25 | result | Esito vol-07-m-sa01-capitolo-09-step-09-scrittura: Procedere in ordine con la pipeline VOL-07 e scrivere il capitolo 09 M-SA01 su contabilità, budget e controllo di gestione per studenti dei concorsi pubblici. -> Step 09 completato: capitolo 09 scritto come testo autonomo di 6.579 parole con contabilità sanitaria, bilancio, CE/SP/LA/CP, budget, centri, performance, scostamenti, caso numerico ed esercizi; chapter-lint verde; te...
+## 2026-07-30T20:56:40.595Z - pipeline-volume:VOL-07
+- conversation_id: conv-20260730205640-w7wjgu
+- route: vol-07-m-sa01-capitolo-09-step-10-copertura
+- l0: l0/conv-20260730205640-w7wjgu.md
+  - mem-20260730205640-c37upt | workflow | Procedere in ordine con la pipeline VOL-07 sul capitolo 09 M-SA01.
+  - mem-20260730205640-san50y | result | Esito vol-07-m-sa01-capitolo-09-step-10-copertura: Procedere in ordine con la pipeline VOL-07 sul capitolo 09 M-SA01. -> Step 10 completato: audit di copertura del capitolo 09 su contabilità economico-patrimoniale sanitaria e budget/programmazione; entrambi i nuclei confermati completi criterio per criterio; matrice allineata e collegat...
+## 2026-07-30T21:21:23.174Z - pipeline-volume:VOL-07
+- conversation_id: conv-20260730212123-1ll5n8g
+- route: vol-07-m-sa01-capitolo-09-step-11-humanizer
+- l0: l0/conv-20260730212123-1ll5n8g.md
+  - mem-20260730212123-r7d8p8 | workflow | Procedere con lo step successivo della pipeline VOL-07 sul capitolo 09 M-SA01.
+  - mem-20260730212123-y36gx4 | result | Esito vol-07-m-sa01-capitolo-09-step-11-humanizer: Procedere con lo step successivo della pipeline VOL-07 sul capitolo 09 M-SA01. -> Step 11 completato: doppia passata Humanizer sul capitolo 09; 29 passaggi riscritti nella versione finale per eliminare simmetrie, frasi-annuncio, negazioni meccaniche e sintassi impersonale; contenuto tecnico, strutt...
+## 2026-07-30T21:27:46.389Z - VOL-07
+- conversation_id: conv-20260730212746-q0ri65
+- route: pipeline-step-12-m-sa01-09
+- l0: l0/conv-20260730212746-q0ri65.md
+  - mem-20260730212746-1bx0czf | result | Esito pipeline-step-12-m-sa01-09: Procedere automaticamente fino al completamento del volume. -> Step 12 del capitolo 09 completato: revisione editoriale totale, test dello studente superato, nessun errore oggettivo certo, verifiche differite tracciate, gate review-report verde.
+## 2026-07-30T21:56:14.401Z - VOL-07
+- conversation_id: conv-20260730215614-6l149w
+- route: pipeline-step-08-m-sa01-10
+- l0: l0/conv-20260730215614-6l149w.md
+  - mem-20260730215614-svhxbl | result | Esito pipeline-step-08-m-sa01-10: Procedere automaticamente fino al completamento del volume. -> Piano step 08 del capitolo 10 completato: due nuclei, limiti del corpus sui dispositivi, struttura didattica, casi, fonti e review documentati; gate manuale accettato con nota.
+## 2026-07-30T22:01:34.792Z - VOL-07
+- conversation_id: conv-20260730220134-coksjv
+- route: pipeline-step-09-m-sa01-10
+- l0: l0/conv-20260730220134-coksjv.md
+  - mem-20260730220134-xyf6pq | result | Esito pipeline-step-09-m-sa01-10: Procedere automaticamente fino al completamento del volume. -> Step 09 completato: capitolo 10 scritto in 7.447 parole come testo autonomo per concorsi, con procurement sanitario, farmaci, dispositivi, magazzino, ciclo passivo, caso ed esercizi; gate chapter-lint verde dopo corre...
+## 2026-07-30T22:04:43.210Z - VOL-07
+- conversation_id: conv-20260730220443-o2pnw5
+- route: pipeline-step-10-m-sa01-10
+- l0: l0/conv-20260730220443-o2pnw5.md
+  - mem-20260730220443-m44ikm | result | Esito pipeline-step-10-m-sa01-10: Procedere automaticamente fino al completamento del volume. -> Step 10 completato: entrambi i nuclei del capitolo 10 verificati criterio per criterio sul testo reale, matrice collegata al report, nessuna integrazione necessaria, gate coverage verde.
+## 2026-07-30T22:07:00.936Z - VOL-07
+- conversation_id: conv-20260730220700-y212a
+- route: pipeline-step-11-m-sa01-10
+- l0: l0/conv-20260730220700-y212a.md
+  - mem-20260730220700-kn42p7 | result | Esito pipeline-step-11-m-sa01-10: Procedere automaticamente fino al completamento del volume. -> Step 11 completato: doppia passata Humanizer sul capitolo 10, rimossi ritmi meccanici, parallelismi e formule enfatiche; significato, struttura, dati, source_refs e riferimenti normativi invariati; citation-guard verde.
+## 2026-07-30T22:12:01.472Z - VOL-07
+- conversation_id: conv-20260730221201-1fga8i9
+- route: pipeline-complete-vol-07
+- l0: l0/conv-20260730221201-1fga8i9.md
+  - mem-20260730221201-37uegl | result | Esito pipeline-complete-vol-07: Procedere automaticamente tutti gli step fino al completamento del volume. -> Pipeline VOL-07 completata nel run-state: 52 step done, nessun pending o blocker.
+## 2026-07-31T09:46:20.632Z - pipeline-volume
+- conversation_id: conv-20260731094620-oh1exl
+- route: vol-07/m-sa02/chapter-06/steps-08-12
+- l0: l0/conv-20260731094620-oh1exl.md
+  - mem-20260731094620-1rmkm4q | workflow | Procedere automaticamente con il prossimo passo della pipeline VOL-07, mantenendo i capitoli autosufficienti per gli studenti e lasciando la revisione umana allo staff.
+  - mem-20260731094620-y31nbt | result | Esito vol-07/m-sa02/chapter-06/steps-08-12: Procedere automaticamente con il prossimo passo della pipeline VOL-07, mantenendo i capitoli autosufficienti per gli studenti e lasciando la revisione umana allo staff. -> Completato M-SA02 capitolo 06 Prevenzione, continuità assistenziale e presa in carico negli step 08-12.
+## 2026-07-31T10:11:39.064Z - pipeline-volume
+- conversation_id: conv-20260731101139-vjg5jj
+- route: vol-07/m-sa02/chapter-07/steps-08-12
+- l0: l0/conv-20260731101139-vjg5jj.md
+  - mem-20260731101139-1kh8c95 | workflow | Procedere automaticamente con la pipeline VOL-07, mantenendo i capitoli autosufficienti e orientati agli studenti dei concorsi pubblici; lasciare la revisione specialistica umana allo step 15.
+  - mem-20260731101139-11d6hx1 | result | Esito vol-07/m-sa02/chapter-07/steps-08-12: Procedere automaticamente con la pipeline VOL-07, mantenendo i capitoli autosufficienti e orientati agli studenti dei concorsi pubblici; lasciare la revisione specialistica umana allo step 15. -> Completati gli step 08-12 del capitolo 07 M-SA02 su evidenze, PICO, GRADE e applicabilita.
+## 2026-07-31T10:34:26.741Z - pipeline-volume
+- conversation_id: conv-20260731103426-1yf4t9g
+- route: vol-07/m-sa02/chapter-08/steps-08-12
+- l0: l0/conv-20260731103426-1yf4t9g.md
+  - mem-20260731103426-1ta4hhn | workflow | Proseguire automaticamente con VOL-07, scrivendo capitoli autosufficienti per studenti di concorsi e lasciando allo staff la review specialistica dello step 15.
+  - mem-20260731103426-1qkjrbm | result | Esito vol-07/m-sa02/chapter-08/steps-08-12: Proseguire automaticamente con VOL-07, scrivendo capitoli autosufficienti per studenti di concorsi e lasciando allo staff la review specialistica dello step 15. -> Completati gli step 08-12 del capitolo 08 M-SA02 su igiene pubblica, epidemiologia, sorveglianza e screening.
+## 2026-07-31T10:43:14.345Z - pipeline-volume
+- conversation_id: conv-20260731104314-1i1rif0
+- route: vol-07/m-sa02/chapter-09/steps-08-12
+- l0: l0/conv-20260731104314-1i1rif0.md
+  - mem-20260731104314-i73gjq | workflow | Procedere automaticamente con VOL-07 e completare il prossimo capitolo mantenendolo autosufficiente per studenti di concorsi; review specialistica allo step 15.
+  - mem-20260731104314-u8wlrr | result | Esito vol-07/m-sa02/chapter-09/steps-08-12: Procedere automaticamente con VOL-07 e completare il prossimo capitolo mantenendolo autosufficiente per studenti di concorsi; review specialistica allo step 15. -> Completati gli step 08-12 del capitolo 09 M-SA02 su controlli TPALL, verbalizzazione, campionamento e sanzioni.
+## 2026-07-31T10:57:21.403Z - pipeline-volume
+- conversation_id: conv-20260731105721-lvpagh
+- route: vol-07-m-sa02-capitolo-10-completamento
+- l0: l0/conv-20260731105721-lvpagh.md
+  - mem-20260731105721-1yk4ua9 | workflow | Procedere automaticamente completando il capitolo 10 M-SA02 e tutti gli step editoriali consentiti, lasciando le revisioni umane allo staff.
+  - mem-20260731105721-1wuyhqc | result | Esito vol-07-m-sa02-capitolo-10-completamento: Procedere automaticamente completando il capitolo 10 M-SA02 e tutti gli step editoriali consentiti, lasciando le revisioni umane allo staff. -> VOL-07 M-SA02 capitolo 10 completato negli step 08-12 con testo autosufficiente, metodo LEAD-S, cinque laboratori professionali, copertura, humanizer e revisione editoriale.
+## 2026-07-31T11:20:06.001Z - pipeline-volume
+- conversation_id: conv-20260731112006-1tfqhry
+- route: vol-07-m-sa02-step-13-15-handoff
+- l0: l0/conv-20260731112006-1tfqhry.md
+  - mem-20260731112006-aoes5c | result | Esito vol-07-m-sa02-step-13-15-handoff: Procedere automaticamente con M-SA02 fino alla revisione umana, lasciando la firma allo staff. -> M-SA02 step 13 e 14 completati: revisione trasversale, Bibbia del Modulo e correzione E01 chiuse.
+## 2026-07-31T13:55:01.624Z - VOL-07
+- conversation_id: conv-20260731135501-18ktr1d
+- route: pipeline-volume/task-12-m-sa03-01
+- l0: l0/conv-20260731135501-18ktr1d.md
+  - mem-20260731135501-rzmx0w | workflow | Procedere con VOL-07 rinviando tutte le revisioni umane al termine; chiariti i capitoli M-SA02 11-14 nella dashboard.
+  - mem-20260731135501-w5lybv | result | Esito pipeline-volume/task-12-m-sa03-01: Procedere con VOL-07 rinviando tutte le revisioni umane al termine; chiariti i capitoli M-SA02 11-14 nella dashboard. -> Completati step 08-12 di M-SA03 capitolo 01; corretta la matrice, creati report 08/10/11/12, gate verdi, commit dc6fe6f.
+## 2026-07-31T14:07:14.692Z - VOL-07
+- conversation_id: conv-20260731140714-11cqepy
+- route: pipeline-volume/task-13-m-sa03-02
+- l0: l0/conv-20260731140714-11cqepy.md
+  - mem-20260731140714-wjqyyu | workflow | Completa M-SA03 capitolo 02 step 08-12.
+  - mem-20260731140714-xq72u9 | result | Esito pipeline-volume/task-13-m-sa03-02: Completa M-SA03 capitolo 02 step 08-12. -> Completati capitolo 02, report 08/10/11/12 e gate 08-12; step 15 M-SA02 invariato.
+## 2026-07-31T14:16:14.905Z - VOL-07
+- conversation_id: conv-20260731141614-16jay1k
+- route: codex/task-13-m-sa03-02
+- l0: l0/conv-20260731141614-16jay1k.md
+  - mem-20260731141614-wvs5tc | workflow | Procedere automaticamente con VOL-07, completando M-SA03 capitolo 02 e rinviando la revisione umana alla fine del volume.
+  - mem-20260731141614-llnzhp | result | Esito codex/task-13-m-sa03-02: Procedere automaticamente con VOL-07, completando M-SA03 capitolo 02 e rinviando la revisione umana alla fine del volume. -> Completato M-SA03 capitolo 02 Programmazione sanitaria e organizzazione dei servizi: step 08-12 chiusi via CLI, frontmatter e fonti ufficiali corretti dopo revisione indipendente, commit c53a259 approvato.
+## 2026-07-31T14:25:14.908Z - VOL-07
+- conversation_id: conv-20260731142514-52fz9d
+- route: codex/task-14-m-sa03-03
+- l0: l0/conv-20260731142514-52fz9d.md
+  - mem-20260731142514-1c09dn7 | result | Esito codex/task-14-m-sa03-03: Procedere automaticamente con VOL-07 e rinviare la revisione umana alla fine del volume. -> Completato M-SA03 capitolo 03 Linee guida, appropriatezza e decisioni cliniche: step 08-12 chiusi via CLI, evidenze 10 e 11 corrette e approvate, commit 8ff4b88.
+## 2026-07-31T15:17:51.268Z - VOL-07
+- conversation_id: conv-20260731151751-1had0km
+- route: codex/task-15-m-sa03-04
+- l0: l0/conv-20260731151751-1had0km.md
+  - mem-20260731151751-tgqlvo | result | Esito codex/task-15-m-sa03-04: Procedere automaticamente con VOL-07 e rinviare la revisione umana alla fine del volume. -> Completato e approvato M-SA03 capitolo 04 su governo clinico, HTA, qualità, accreditamento e rischio.
+## 2026-07-31T15:52:34.935Z - volume:VOL-07
+- conversation_id: conv-20260731155234-1x2ez85
+- route: codex/pipeline-volume/task16
+- l0: l0/conv-20260731155234-1x2ez85.md
+  - mem-20260731155234-b84lgz | workflow | PROCEDI: avanzare automaticamente la pipeline VOL-07, lasciando la revisione umana alla fine.
+  - mem-20260731155234-ljiwsl | result | Esito codex/pipeline-volume/task16: PROCEDI: avanzare automaticamente la pipeline VOL-07, lasciando la revisione umana alla fine. -> Completato M-SA03 capitolo 05 attraverso gli step 08-12.
+## 2026-07-31T16:08:22.679Z - volume:VOL-07
+- conversation_id: conv-20260731160822-2ayeq1
+- route: codex/pipeline-volume/task17
+- l0: l0/conv-20260731160822-2ayeq1.md
+  - mem-20260731160822-r1vi0o | result | Esito codex/pipeline-volume/task17: PROCEDI automaticamente con VOL-07 lasciando la revisione umana alla fine. -> Completato M-SA03 capitolo 06 attraverso gli step 08-12.
+## 2026-07-31T16:28:58.265Z - manual-writer
+- conversation_id: conv-20260731162858-13ldkqv
+- route: pipeline-vol-07-m-sa03-07
+- l0: l0/conv-20260731162858-13ldkqv.md
+  - mem-20260731162858-ovdu5 | workflow | Procedere automaticamente con VOL-07; completare M-SA03 capitolo 07 distinguendo biologo, farmacista e psicologo e lasciare la revisione umana allo step finale.
+  - mem-20260731162858-kaue6l | result | Esito pipeline-vol-07-m-sa03-07: Procedere automaticamente con VOL-07; completare M-SA03 capitolo 07 distinguendo biologo, farmacista e psicologo e lasciare la revisione umana allo step finale. -> Completati gli step 08-12 di M-SA03-07.
+## 2026-07-31T17:05:00.899Z - pipeline-volume
+- conversation_id: conv-20260731170500-1oc13xy
+- route: VOL-07.M-SA04.01.steps08-12
+- l0: l0/conv-20260731170500-1oc13xy.md
+  - mem-20260731170500-nqmy6k | result | Esito VOL-07.M-SA04.01.steps08-12: Procedere automaticamente con VOL-07 lasciando la revisione umana alla fine. -> Completati gli step 08-12 di M-SA04 capitolo 01.
+## 2026-08-01T08:21:51.387Z - pipeline-volume
+- conversation_id: conv-20260801082151-1p4m7qr
+- route: vol-07/m-sa04/chapter-02
+- l0: l0/conv-20260801082151-1p4m7qr.md
+  - mem-20260801082151-1skoo9e | workflow | Procedere automaticamente nel completamento di VOL-07, lasciando la revisione umana al termine del volume e producendo capitoli autonomi per candidati ai concorsi pubblici.
+  - mem-20260801082151-il1us5 | result | Esito vol-07/m-sa04/chapter-02: Procedere automaticamente nel completamento di VOL-07, lasciando la revisione umana al termine del volume e producendo capitoli autonomi per candidati ai concorsi pubblici. -> M-SA04 capitolo 02 completato fino allo step 12.
+## 2026-08-01T08:59:49.670Z - pipeline-volume
+- conversation_id: conv-20260801085949-2ovber
+- route: vol-07/m-sa04/chapter-03
+- l0: l0/conv-20260801085949-2ovber.md
+  - mem-20260801085949-9shlm2 | workflow | Procedere automaticamente con VOL-07, mantenendo i capitoli autosufficienti per i candidati e lasciando la revisione umana al termine del volume.
+  - mem-20260801085949-1nr3897 | result | Esito vol-07/m-sa04/chapter-03: Procedere automaticamente con VOL-07, mantenendo i capitoli autosufficienti per i candidati e lasciando la revisione umana al termine del volume. -> M-SA04 capitolo 03 completato fino allo step 12.
+## 2026-08-01T09:26:04.587Z - pipeline-volume
+- conversation_id: conv-20260801092604-jocig2
+- route: vol-07/m-sa04/chapter-04
+- l0: l0/conv-20260801092604-jocig2.md
+  - mem-20260801092604-h2v4j | result | Esito vol-07/m-sa04/chapter-04: Procedere automaticamente con VOL-07, mantenendo i capitoli autosufficienti per i candidati e lasciando la revisione umana al termine del volume. -> Completati gli step 08-12 di M-SA04 capitolo 04.
+## 2026-08-01T09:58:08.187Z - pipeline-volume
+- conversation_id: conv-20260801095808-mwwcwd
+- route: vol-07-automatic-completion
+- l0: l0/conv-20260801095808-mwwcwd.md
+  - mem-20260801095808-v18yqn | workflow | Completare automaticamente VOL-07 lasciando la revisione umana al termine e mantenendo i capitoli autosufficienti per candidati ai concorsi pubblici.
+  - mem-20260801095808-1apsryw | result | Esito vol-07-automatic-completion: Completare automaticamente VOL-07 lasciando la revisione umana al termine e mantenendo i capitoli autosufficienti per candidati ai concorsi pubblici. -> VOL-07 ha completato scrittura e revisione automatica fino allo step 14 per 25 capitoli e quattro moduli.
+## 2026-08-01T15:14:54.563Z - pipeline-volume
+- conversation_id: conv-20260801151454-wy08bw
+- route: model-ibrido-nuclei-implementation
+- l0: l0/conv-20260801151454-wy08bw.md
+  - mem-20260801151454-15h5f0r | result | Esito model-ibrido-nuclei-implementation: Implementare il piano approvato del modello editoriale ibrido a nuclei mantenendo compatibilita legacy e senza toccare i worktree attivi. -> Implementati parser matrice v2 condiviso, gate composito di densita e rinvii, soglie configurabili, review umane e dati operativi, indice decimale, tooling retrofit e documentazione.
+## 2026-08-01T17:00:47.824Z - pipeline-volume
+- conversation_id: conv-20260801170047-4hg92a
+- route: final-human-signoff-only
+- l0: l0/conv-20260801170047-4hg92a.md
+  - mem-20260801170047-1uibtxy | result | Esito final-human-signoff-only: La review umana deve essere solo l ultimissimo step e non deve limitare apertura, scrittura o audit; non assegnare nomi ai revisori. -> Rimosso il gate di assegnazione dallo step 04; trasformato lo step 15 in audit specialistico automatico; spostata l unica conferma umana allo step 24 finale; aggiornati registry, validazione, prompt, template, documen...
+
+## 2026-07-31T17:19:07.204Z - VOL-02
+
+- conversation_id: conv-20260731171907-12cugcx
+- route: pipeline-vol02-mfl01-cap04-cycle
+- l0: l0/conv-20260731171907-12cugcx.md
+- atoms:
+  - mem-20260731171907-s5aa6i | workflow | Proseguire VOL-02 dal capitolo 04 di M-FL01 rispettando CLI, gate, matrice e review normativa differita allo step 15.
+  - mem-20260731171907-2g3c9w | result | Esito pipeline-vol02-mfl01-cap04-cycle: Proseguire VOL-02 dal capitolo 04 di M-FL01 rispettando CLI, gate, matrice e review normativa differita allo step 15. -> Completato il ciclo C del capitolo 04: step 08 piano accettato manualmente; 09 lint senza warning con sei accenti corretti, frontmatter e rinvio VOL-01 allineati; 10 copertura 11/11 e riga Atti promossa a completo; 11...
+
+## 2026-07-31T17:28:03.497Z - VOL-02
+
+- conversation_id: conv-20260731172803-98t0db
+- route: pipeline-vol02-mfl01-cap05-cycle
+- l0: l0/conv-20260731172803-98t0db.md
+- atoms:
+  - mem-20260731172803-g60cnr | workflow | Proseguire il lavoro editoriale VOL-02 dopo il capitolo 04.
+  - mem-20260731172803-1de8ym2 | result | Esito pipeline-vol02-mfl01-cap05-cycle: Proseguire il lavoro editoriale VOL-02 dopo il capitolo 04. -> Completato il ciclo C del capitolo 05: piano manuale; consolidamento da circa 6254 a 4978 parole con nuclei preservati; copertura 11/11 e riga Procedimento promossa a completo con source link L.
+
+## 2026-07-31T17:40:25.873Z - VOL-02
+
+- conversation_id: conv-20260731174025-128j7bn
+- route: pipeline-vol02-mfl01-cap06-cycle
+- l0: l0/conv-20260731174025-128j7bn.md
+- atoms:
+  - mem-20260731174025-iuxhl | workflow | Proseguire VOL-02 completando il ciclo C del capitolo 06 di M-FL01, rispettando CLI, gate, matrice e review normativa differita allo step 15.
+  - mem-20260731174025-1n60y8q | result | Esito pipeline-vol02-mfl01-cap06-cycle: Proseguire VOL-02 completando il ciclo C del capitolo 06 di M-FL01, rispettando CLI, gate, matrice e review normativa differita allo step 15. -> Completato il ciclo C del capitolo 06: step 08 piano accettato; step 09 capitolo consolidato da circa 5787 a 5348 parole, accenti e metadata corretti; step 10 copertura 11/11 e riga Servizi digitali promossa a complet...
+
+## 2026-08-01T09:44:55.563Z - VOL-02
+
+- conversation_id: conv-20260801094455-o0h83b
+- route: pipeline-vol02-mfl01-cap07-cycle
+- l0: l0/conv-20260801094455-o0h83b.md
+- atoms:
+  - mem-20260801094455-17s79pk | workflow | Proseguire VOL-02 completando il ciclo C del capitolo 07 di M-FL01, rispettando CLI, gate, matrice e review normativa differita allo step 15.
+  - mem-20260801094455-1ncpnu1 | result | Esito pipeline-vol02-mfl01-cap07-cycle: Proseguire VOL-02 completando il ciclo C del capitolo 07 di M-FL01, rispettando CLI, gate, matrice e review normativa differita allo step 15. -> Completato il ciclo C del capitolo 07: step 08 piano accettato manualmente; step 09 aggiunto raccordo AIRE promesso dall indice, corretti cinque refusi, metadata e rinvii VOL-01; step 10 copertura 11/11 e riga Servizi...
+
+## 2026-08-02T16:15:36.293Z - pipeline/VOL-07
+
+- conversation_id: conv-20260802161536-1grzjhr
+- route: codex/hybrid-nuclei-final-only
+- l0: l0/conv-20260802161536-1grzjhr.md
+- atoms:
+  - mem-20260802161536-w9or5u | result | Esito codex/hybrid-nuclei-final-only: Il revisore umano deve intervenire solo come ultimissimo step, senza limitare la produzione; nessun nome assegnato e testi già completi prima della conferma finale. -> Implementata policy final-only: unico step umano 24; step 15 automatico e bloccante sui rinvii umani; campi nominativi rimossi da spec, template e prompt; stati storici VOL-07 migrati via CLI; M-SA02/05 e M-FC02/04 va...
+
+## 2026-08-02T16:56:35.141Z - pipeline
+
+- conversation_id: conv-20260802165635-1tu5c90
+- route: merge-hybrid-nuclei-main
+- l0: l0/conv-20260802165635-1tu5c90.md
+- atoms:
+  - mem-20260802165635-1c8fn1a | instruction | Procedi con integrazione del nuovo sistema in main preservando il lavoro VOL-02.
+  - mem-20260802165635-7myyyl | result | Esito merge-hybrid-nuclei-main: Procedi con integrazione del nuovo sistema in main preservando il lavoro VOL-02. -> Branch pilot/hybrid-m-sa02-05 integrato in main con fast-forward; suite e typecheck verdi; lavoro VOL-02 ripristinato; aggregati LocalAgentMemory fusi senza perdita.
+
+## 2026-08-04T07:43:40.939Z - VOL-07
+
+- conversation_id: conv-20260804074340-1j2u0p
+- route: pipeline-vol07-m-sa02-step16-text-freeze
+- l0: l0/conv-20260804074340-1j2u0p.md
+- atoms:
+  - mem-20260804074340-c2y50q | workflow | Continua da dove siamo rimasti nella pipeline ConcorsoBook OS.
+  - mem-20260804074340-1tbxxa2 | result | Esito pipeline-vol07-m-sa02-step16-text-freeze: Continua da dove siamo rimasti nella pipeline ConcorsoBook OS. -> Completato lo step 16 M-SA02.
+
+## 2026-08-04T07:47:45.142Z - VOL-07/M-SA01
+
+- conversation_id: conv-20260804074745-11qi0a7
+- route: pipeline-vol07-m-sa01-step15-specialist-audit
+- l0: l0/conv-20260804074745-11qi0a7.md
+- atoms:
+  - mem-20260804074745-ch4o72 | workflow | Continua la pipeline VOL-07 dal punto corrente.
+  - mem-20260804074745-1d02dhr | result | Esito pipeline-vol07-m-sa01-step15-specialist-audit: Continua la pipeline VOL-07 dal punto corrente. -> Completato step 15 M-SA01: audit automatico normativo privacy documentale contabile procurement e flussi; corretti flag review_required e workflow umano obsoleto; report A01-A07 tutto corretto; matrice 8 su 8; gate e ...
+
+## 2026-08-04T08:00:32.459Z - VOL-07/M-SA01
+
+- conversation_id: conv-20260804080032-1imu2v5
+- route: pipeline-vol07-m-sa01-step16-text-freeze
+- l0: l0/conv-20260804080032-1imu2v5.md
+- atoms:
+  - mem-20260804080032-1qc7lxr | workflow | Procedi con la pipeline editoriale dal prossimo step di VOL-07.
+  - mem-20260804080032-1hzeoos | result | Esito pipeline-vol07-m-sa01-step16-text-freeze: Procedi con la pipeline editoriale dal prossimo step di VOL-07. -> Completato lo step 16 di M-SA01: text freeze approvato manualmente con manifest SHA-256; 5 capitoli presenti, matrice 8/8 completa, Humanizer 5/5, step 13-15 chiusi, rinvii 5/5, 44 source_refs e 21 link indice risolti...
+
+## 2026-08-04T08:31:11.398Z - VOL-07/M-SA03
+
+- conversation_id: conv-20260804083111-y0euen
+- route: pipeline-volume-vol-07-m-sa03-step-15
+- l0: l0/conv-20260804083111-y0euen.md
+- atoms:
+  - mem-20260804083111-lgr4ms | workflow | Procedere con il prossimo step della pipeline VOL-07.
+  - mem-20260804083111-1q862f5 | result | Esito pipeline-volume-vol-07-m-sa03-step-15: Procedere con il prossimo step della pipeline VOL-07. -> Completato lo step 15 di M-SA03: audit specialistico automatico chiuso, perimetro corretto alla dirigenza medica e sanitaria non medica, matrice riallineata ai capitoli 01-07, review_required chiusi, report canonico c...
+
+## 2026-08-04T08:37:54.711Z - VOL-07/M-SA03
+
+- conversation_id: conv-20260804083754-pgut3q
+- route: pipeline-volume-vol-07-m-sa03-step-16-text-freeze
+- l0: l0/conv-20260804083754-pgut3q.md
+- atoms:
+  - mem-20260804083754-1iksjhp | result | Esito pipeline-volume-vol-07-m-sa03-step-16-text-freeze: Procedere con il prossimo step della pipeline VOL-07. -> Completato lo step 16 di M-SA03: text freeze registrato con accettazione manuale motivata perché il gate non è implementato; manifest SHA-256 validato su 14 file; 7 capitoli, matrice 9/9, Humanizer 7/7, 28 wikilink e ...
+
+## 2026-08-04T09:00:07.655Z - VOL-07/M-SA04
+
+- conversation_id: conv-20260804090007-6mq3q8
+- route: vol-07-m-sa04-step-15-specialist-audit
+- l0: l0/conv-20260804090007-6mq3q8.md
+- atoms:
+  - mem-20260804090007-k8f6q | workflow | Procedere con il prossimo step canonico della pipeline VOL-07.
+  - mem-20260804090007-1495zcg | result | Esito vol-07-m-sa04-step-15-specialist-audit: Procedere con il prossimo step canonico della pipeline VOL-07. -> Completato lo step 15 di M-SA04: audit specialistico automatico chiuso senza blocker o warning; corretti workflow e perimetro TSLB/TSRM, allineati indice, piano, matrice, Bibbia, quattro capitoli e Bibbia di volume; c...
+
+## 2026-08-04T09:08:59.917Z - VOL-07/M-SA04
+
+- conversation_id: conv-20260804090859-hhvnoo
+- route: pipeline-volume-vol-07-m-sa04-step-16-text-freeze
+- l0: l0/conv-20260804090859-hhvnoo.md
+- atoms:
+  - mem-20260804090859-1vugjgh | result | Esito pipeline-volume-vol-07-m-sa04-step-16-text-freeze: Procedere con il prossimo step canonico della pipeline VOL-07. -> Completato lo step 16 di M-SA04: text freeze registrato con accettazione manuale motivata perché il gate non è implementato; manifest SHA-256 validato su 11 file; 4 capitoli, matrice 9/9, Humanizer 4/4, 22 wikilink e ...
+
+## 2026-08-04T09:34:00.198Z - VOL-07
+
+- conversation_id: conv-20260804093400-rfv7o7
+- route: pipeline-vol-07-step-17-writing-plan
+- l0: l0/conv-20260804093400-rfv7o7.md
+- atoms:
+  - mem-20260804093400-1gx1qch | result | Esito pipeline-vol-07-step-17-writing-plan: Procedi con la pianificazione della fase visuale VOL-07. -> Filosofia Precisione Vitale approvata nel commit 6ed18d6.
+
+## 2026-08-04T09:42:51.463Z - VOL-07
+
+- conversation_id: conv-20260804094251-1ujwc59
+- route: pipeline-vol-07-step-17-18-visual-audit
+- l0: l0/conv-20260804094251-1ujwc59.md
+- atoms:
+  - mem-20260804094251-er05rj | result | Esito pipeline-vol-07-step-17-18-visual-audit: Procedi con la chiusura dello step 17 e gli audit immagini dello step 18 per tutti i moduli VOL-07. -> Step 17 Precisione Vitale chiuso dal CLI; audit immagini completati per M-SA02, M-SA01, M-SA03 e M-SA04.
+
+## 2026-08-04T14:27:52.819Z - VOL-07
+
+- conversation_id: conv-20260804142752-bo67fl
+- route: pipeline-vol-07-step-19-kdp-book-studio
+- l0: l0/conv-20260804142752-bo67fl.md
+- atoms:
+  - mem-20260804142752-7xpd8b | result | Esito pipeline-vol-07-step-19-kdp-book-studio: Procedi con lo step 19 nel Book Studio senza generare il PDF. -> Step 19 completato: master KDP renderizzato in 381 pagine, indice nuclei riconciliato, report e 394 test verificati; prossimo step 20.
+
+## 2026-08-05T11:33:43.299Z - VOL-07
+
+- conversation_id: conv-20260805113343-or50jp
+- route: pipeline-step-20
+- l0: l0/conv-20260805113343-or50jp.md
+- atoms:
+  - mem-20260805113343-193uv66 | result | Esito pipeline-step-20: Completare lo step 20 di VOL-07 con audit esaustivo pagina per pagina, correzioni verificate e chiusura del gate canonico. -> Step 20 completato: DOM finale 394 pagine, 20 tavole-contatto ispezionate, margini KDP front matter ripristinati, indice analitico ricomposto, ruoli tipografici e continuazioni osservabili, pagina 393 motivata dal tit...
+
+## 2026-08-05T14:07:02.073Z - pipeline-volume
+
+- conversation_id: conv-20260805140702-wxhv05
+- route: complete-vol-07-through-delivery
+- l0: l0/conv-20260805140702-wxhv05.md
+- atoms:
+  - mem-20260805140702-w11ctr | workflow | Completa VOL-07 fino allo stato pubblicabile senza revisione umana secondo la pipeline aggiornata, fermandoti prima dello step 24; poi passa a VOL-02.
+  - mem-20260805140702-wmgyw6 | result | Esito complete-vol-07-through-delivery: Completa VOL-07 fino allo stato pubblicabile senza revisione umana secondo la pipeline aggiornata, fermandoti prima dello step 24; poi passa a VOL-02. -> VOL-07 completato fino allo step 23: 168 step done, 1 pending (firma umana 24).
+
+## 2026-08-05T14:29:43.940Z - pipeline-volume
+
+- conversation_id: conv-20260805142943-19oxufl
+- route: codex-vol02-checkpoint
+- l0: l0/conv-20260805142943-19oxufl.md
+- atoms:
+  - mem-20260805142943-106gci5 | workflow | Dopo VOL-07 passa al volume 2 e continua autonomamente secondo la pipeline aggiornata.
+  - mem-20260805142943-68fkjg | result | Esito codex-vol02-checkpoint: Dopo VOL-07 passa al volume 2 e continua autonomamente secondo la pipeline aggiornata. -> VOL-02: completato il ciclo pipeline 08-12 del capitolo M-FL01/08 sul welfare locale.
+
+## 2026-08-05T15:27:19.690Z - pipeline-volume
+
+- conversation_id: conv-20260805152719-1551adu
+- route: codex-vol02-cap09-complete
+- l0: l0/conv-20260805152719-1551adu.md
+- atoms:
+  - mem-20260805152719-1n5ubib | workflow | Procedi autonomamente con VOL-02 secondo la pipeline aggiornata.
+  - mem-20260805152719-qs2lis | result | Esito codex-vol02-cap09-complete: Procedi autonomamente con VOL-02 secondo la pipeline aggiornata. -> VOL-02 M-FL01 capitolo 09 completato negli step 08-12.
+
+## 2026-08-05T15:59:54.550Z - editorial-pipeline
+
+- conversation_id: conv-20260805155954-1g81mpn
+- route: codex-vol02-mfl01-cap10
+- l0: l0/conv-20260805155954-1g81mpn.md
+- atoms:
+  - mem-20260805155954-odta9o | workflow | Completare VOL-02 M-FL01 capitolo 10 fino allo stato previsto dalla pipeline aggiornata, procedendo autonomamente e senza revisione umana intermedia.
+  - mem-20260805155954-73zrut | result | Esito codex-vol02-mfl01-cap10: Completare VOL-02 M-FL01 capitolo 10 fino allo stato previsto dalla pipeline aggiornata, procedendo autonomamente e senza revisione umana intermedia. -> Completati gli step 08-12 del capitolo 10 Gestione finanziaria, rendiconto, tesoreria e controlli.
+
+## 2026-08-05T16:17:44.523Z - editorial-pipeline
+
+- conversation_id: conv-20260805161744-b4amvh
+- route: codex-vol02-mfl01-cap11
+- l0: l0/conv-20260805161744-b4amvh.md
+- atoms:
+  - mem-20260805161744-16dbq5f | workflow | Proseguire autonomamente la pipeline aggiornata di VOL-02 dopo il capitolo 10.
+  - mem-20260805161744-lk9f7j | result | Esito codex-vol02-mfl01-cap11: Proseguire autonomamente la pipeline aggiornata di VOL-02 dopo il capitolo 10. -> Completati gli step 08-12 del capitolo 11 Entrate, tributi locali, patrimonio, economato e riscossione.
+
+## 2026-08-05T16:23:01.435Z - git-publish
+
+- conversation_id: conv-20260805162301-ebm2ct
+- route: codex/git-publish
+- l0: l0/conv-20260805162301-ebm2ct.md
+- atoms:
+  - mem-20260805162301-h3d2eg | instruction | Commit e push di tutte le modifiche effettuate finora, inclusa la logica di pipeline e download per lo staff, senza sovrascrivere altro.
+  - mem-20260805162301-1o8jzn0 | result | Esito codex/git-publish: Commit e push di tutte le modifiche effettuate finora, inclusa la logica di pipeline e download per lo staff, senza sovrascrivere altro. -> Pubblicazione eseguita su origin/main con push fast-forward senza force, reset o rebase.
+>>>>>>> origin/main

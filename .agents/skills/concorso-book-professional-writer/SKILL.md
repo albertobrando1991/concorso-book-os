@@ -59,11 +59,10 @@ Use markdown with clear headings. A standard chapter block should include:
 ### Domanda-trappola
 ### Errore tipico
 ### Mini-esercizio
-### Riferimenti consolidati
-### Note di review
+### Riferimenti normativi e professionali essenziali
 ```
 
-Adapt the format when the user asks for a specific intervention, but preserve traceability and didactic structure.
+Keep internal review notes in the pipeline review report or frontmatter, not in the reader-facing lesson. Adapt the format when the user asks for a specific intervention, but preserve traceability and didactic structure.
 
 ## Editorial Layout Standard
 
@@ -98,6 +97,12 @@ When formatting a chapter, think in A4 pages: explanation, BANDO map, operationa
 
 The writer's job is to write the real chapter text for the reader.
 
+### Reader Contract
+
+Assume the paying student has no access to the wiki, dashboard, source notes, topic/entity pages, planning files, or review reports. The chapter must therefore teach every matrix-assigned concept directly and remain complete when its frontmatter and all internal tooling are removed.
+
+Consolidated knowledge is an editorial input, never a reader dependency. The chapter body must not contain Obsidian links to `sources/`, `topics/`, `entities/`, `raw/`, `planning/`, or `reviews/`, and must not tell the student to consult a "source note", "consolidated source", internal corpus, or wiki. Name necessary laws, decrees, institutional guidance, and professional references in human-readable form.
+
 Never output:
 
 - "Aggiornamento generato da Manual Writer Agent";
@@ -106,7 +111,7 @@ Never output:
 - explanations of what the agent is doing;
 - placeholder language such as "questo blocco sviluppa".
 
-If a chapter requires current legal, administrative, platform, or market information, use consolidated web source notes when they exist. If they do not exist, add a specific `Note di review` item requesting official web research before publication. Do not invent updated facts.
+If a chapter requires current legal, administrative, platform, or market information, use consolidated web source notes when they exist. If they do not exist, register a specific review item in the pipeline report or frontmatter requesting official web research before publication. Do not invent updated facts.
 
 The wiki brain is always mandatory. Use, in this order:
 
@@ -128,19 +133,19 @@ The wiki brain is always mandatory. Use, in this order:
 - Mark uncertainty explicitly when consolidated knowledge is weak.
 - Do not invent norms, dates, articles, case law, or source claims.
 - Do not claim full coverage if the chapter has few source notes.
+- Do not expose internal source identifiers or editorial workflow language in the reader body.
 - Preserve existing human work where possible; integrate or improve, do not destroy.
 
 ## Traceability Rules
 
-Important claims must point to consolidated references. Use Obsidian links when available:
+Important claims must remain traceable to consolidated references through chapter frontmatter and review reports:
 
-```markdown
-[[sources/source-id]]
-[[topics/topic-id]]
-[[entities/entity-id]]
+```yaml
+source_refs: ["sources/source-id"]
+last_compiled_from: ["wiki/sources/source-id.md"]
 ```
 
-If the available knowledge is insufficient, write a review note instead of pretending certainty.
+Obsidian links remain appropriate in source notes, topic/entity pages, matrices, planning, and review artifacts. In a published chapter body, use readable references such as `legge 24/2017`, `D.M. 739/1994`, or the full institutional/professional document title. If the available knowledge is insufficient, write a review item outside the reader body instead of pretending certainty.
 
 ## Interaction Rules
 
@@ -149,19 +154,20 @@ When the user asks for a chapter change:
 1. Identify the target chapter and requested mode: draft, integrate, expand, improve, or format.
 2. Use only the knowledge pack supplied by ConcorsoBook OS.
 3. Produce chapter-ready markdown.
-4. Add review notes for missing sources, gaps, conflicts, or weak coverage.
+4. Record missing sources, gaps, conflicts, or weak coverage in frontmatter or the pipeline review report, not as a substitute for the lesson.
 5. Keep the output useful for a real manual, not a chat answer.
 
 ## Quality Checklist
 
 Before finishing a chapter block, verify:
 
-- It is readable without the raw source.
+- It is readable and complete without wiki, dashboard, source notes, frontmatter, or internal links.
 - It has a clear exam purpose.
 - It includes at least one operational example or case when possible.
 - It contains an error-prevention element.
-- It includes references to consolidated wiki knowledge.
-- It flags human review where needed.
+- Its frontmatter preserves references to consolidated wiki knowledge.
+- Its reader body names essential legal and professional references in human-readable form.
+- It records automatic audit requirements outside the reader-facing lesson; the only human confirmation is the final pipeline step 24.
 
 ## Integral Didactic Coverage Gate
 

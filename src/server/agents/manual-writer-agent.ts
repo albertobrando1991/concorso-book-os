@@ -6,6 +6,7 @@ import { OpenAiLlmClient } from "../llm/openai-adapter"
 import { LocalAgentMemory } from "../memory/local-agent-memory"
 import { parseFrontmatter } from "../wiki/frontmatter"
 import { FileWikiStore } from "../wiki/file-store"
+import { isLegacyEditorialPlanPath, isStaffOnlyBookDocument } from "../wiki/editorial-document"
 import { slugify } from "../wiki/slug"
 import { bookIdsForTextVolumeBookId, isTextVolumeBookId, normalizeTextBookId } from "../../catalog/text-volumes"
 import { readFile } from "node:fs/promises"
@@ -96,10 +97,13 @@ export class ManualWriterAgent {
     const chapters: ChapterOption[] = []
     const requestedBookIds = bookId ? resolveRequestedBookIds(bookId) : null
 
-    for (const file of files.filter((item) => item.includes("/chapters/"))) {
+    for (const file of files.filter((item) => item.includes("/chapters/") && !isLegacyEditorialPlanPath(item))) {
       const content = await this.store.readText(file)
       const parsed = parseFrontmatter(content)
       const data = parsed.data as any
+
+      if (isStaffOnlyBookDocument(file, data)) continue
+
       const declaredBookId = String(data.book_id || data.extra?.book_id || "")
       const currentBookId = bookIdFromChapterPath(file) || declaredBookId || "unknown"
 

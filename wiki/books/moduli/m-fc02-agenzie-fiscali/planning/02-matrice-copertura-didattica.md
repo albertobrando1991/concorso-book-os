@@ -18,7 +18,7 @@ tags: [matrice, copertura-didattica, m-fc02]
 
 # Matrice di copertura didattica - M-FC02
 
-Audit semantico del testo reale dei 14 capitoli numerati e dei due intercalari 5A/5B. Una riga corrisponde a una promessa o a un nucleo atomico verificabile. Gli stati non attestano vigenza normativa: le materie mobili restano soggette a review umana.
+Audit semantico del testo reale dei 14 capitoli numerati e dei due intercalari 5A/5B. Una riga corrisponde a una promessa o a un nucleo atomico verificabile. Gli stati non attestano vigenza normativa: le materie mobili restano soggette ad audit automatico.
 
 | Famiglia/profilo | Materia | Concetto/sotto-concetti | Frequenza/peso | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa | Destinazione rinvio |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -102,6 +102,30 @@ Audit semantico del testo reale dei 14 capitoli numerati e dei due intercalari 5
 | M-FC02/front-office | Relazione | Comunicazione, data protection, contribuente/operatore | alta profilo | [[sources/regolamento-ue-2016-679-gdpr-protezione-dati-personali]] | cap. 14, `Protocollo front-office e protezione dati` | finalita e limiti del protocollo, identita e titolo, competenza, necessita e minimizzazione, canale, linguaggio, tracciabilita ed escalation spiegati | caso della richiesta telefonica di dati di un terzo | situazionale/orale | autoverifica in sette domande, errore tipico e canvas | completo | GDPR, procedure interne e policy enti da review | - |
 | M-FC02/tutti | Lessico | Glossario fiscale-doganale-catastale 80-100 voci | media | [[sources/m-fc02-dossier-redazionale-agenzie-fiscali]] | cap. 14, appendice A | 80 voci uniche con definizione funzionale, distinzione e rinvio preciso | esempi incorporati negli strumenti | ripasso/orale | checklist e piano | completo | aggiornamento terminologico al cut-off | - |
 | M-FC02/tutti | Perimetro | Schede allerta crisi, HR, gare, ICT | media | [[sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026]]; [[books/moduli/architettura-moduli-specialistici]] | cap. 14, `Protocollo di routing "se compare nel bando"` | procedura materia-peso-prova-famiglia-destinazione e criteri per integrazione, cambio di famiglia e gap editoriale spiegati | ADM informatico e micro-routing per crisi, HR, gare, ICT, statistica e Territorio/SPI | analisi bando/caso | formula di verifica in cinque campi ed errore tipico | completo | verificare peso e profondita sul singolo bando; consolidare fonte dedicata per profili statistici | - |
+
+## Migrazione v2 · Capitolo 04
+
+Le sei righe seguenti sono l'overlay verificabile del capitolo in formato 2. Le righe legacy restano come storico analitico e non partecipano al gate quando è presente l'overlay v2.
+
+| Nucleo ID | Famiglia/profilo | Materia | Concetto/sotto-concetti | Frequenza/peso | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa | Destinazione rinvio |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FC02-04-01 | M-FC02/tributario | Principi e categorie | Legalita; capacita contributiva; progressivita; fonti; tributo; imposta; tassa; contributo; classificazioni | alta | [[sources/costituzione-repubblica-italiana-testo-vigente]]; [[sources/normativa-tributaria-tuir-iva-accertamento-m-fc02]] | Cap. 04 § N-FC02-04-01 | Definisce principi, gerarchia e categorie; distingue prelievi e classificazioni | Sequenza fonte → categoria → funzione ed esempi concorsuali | Quiz; orale; classificazione | Q:1 C:0 E:1 — Quiz 6; tabella categorie | completo | Audit automatico su fonti vigenti |  |
+| N-FC02-04-02 | M-FC02/tributario | Struttura del tributo | Presupposto; soggetto passivo; base imponibile; aliquota; imposta dovuta; obbligazione; procedimento | alta | [[sources/normativa-tributaria-tuir-iva-accertamento-m-fc02]] | Cap. 04 § N-FC02-04-02 | Spiega nascita, soggetti, misura e rapporto pubblicistico | Esempi di calcolo e distinzione fra concetti contigui | Quiz; caso; risposta orale | Q:2 C:1 E:1 — Quiz 1-2; Caso guidato; mini-esercizio | completo | Audit automatico tributario |  |
+| N-FC02-04-03 | M-FC02/tributario | TUIR, IRPEF e IRES | Soggetti; categorie reddituali; reddito complessivo; reddito d'impresa; qualificazione | alta | [[sources/irpef-ires-categorie-reddito-impresa-aggiornamento-2026-07-18]] | Cap. 04 § N-FC02-04-03 | Inquadra TUIR, soggetti, sei categorie e raccordo col reddito d'impresa | Verifiche risolte ed esempi per categoria | Classificazione; confronto; orale | Q:1 C:0 E:1 — verifica risolta e checklist | completo | Audit automatico su TUIR vigente |  |
+| N-FC02-04-04 | M-FC02/tributario | IVA | Neutralita; presupposti; soggetti; operazioni; rivalsa; detrazione; adempimenti | alta | [[sources/iva-dpr-633-1972-aggiornamento-2026-07-20]] | Cap. 04 § N-FC02-04-04 | Spiega funzione, tre presupposti, quattro classi e meccanismo | Caso comparativo su operazioni e adempimenti | Caso; quiz; orale | Q:1 C:1 E:1 — caso Alfa; verifica risolta | completo | Audit automatico tributario e UE |  |
+| N-FC02-04-05 | M-FC02/tutti | Quadro UE fiscale e doganale | Competenze; regolamento; direttiva; IVA armonizzata; CDU; fonti multilivello | media/alta | [[sources/diritto-ue-fiscale-doganale-iva-cdu-2026-07-18]] | Cap. 04 § N-FC02-04-05 | Distingue competenze e fonti UE/nazionali e collega IVA e dogane | Caso di importazione e vendita interna | Quiz; caso; orale | Q:1 C:1 E:1 — verifica risolta; errori da evitare | completo | Audit automatico su versioni EUR-Lex |  |
+| N-FC02-04-06 | M-FC02/tributario | Accertamento e riscossione | Controllo; pretesa; atto; credito; ruolo; cartella; pagamento; competenze AE e AdER | alta | [[sources/normativa-tributaria-tuir-iva-accertamento-m-fc02]] | Cap. 04 § N-FC02-04-06 | Separa formazione o rettifica della pretesa dalla fase di pagamento | Caso guidato, tabella operativa e domanda-trappola | Quiz; caso; risposta orale | Q:2 C:1 E:1 — Quiz 4-5; Caso guidato; Domanda-trappola | completo | Audit automatico su disciplina vigente |  |
+
+### Checklist dimensionale per Nucleo ID
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Errore tipico | Verifica | Fonti |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FC02-04-01 | ✓ § principi e categorie | ✓ fondare e classificare | ✓ Costituzione e fonti | ✓ principi e tipi | ✓ imposta/tassa/contributo | ✓ limiti del prelievo | ✓ tabella categorie | ✓ sinonimi impropri | ✓ Quiz 6 | ✓ fonti in riga |
+| N-FC02-04-02 | ✓ § presupposto | ✓ costruire il tributo | ✓ rapporto pubblicistico | ✓ soggetti, base, aliquota | ✓ presupposto/base | ✓ obbligo e procedimento | ✓ Caso guidato | ✓ soggetto/ufficio | ✓ Quiz 1-2 | ✓ fonte in riga |
+| N-FC02-04-03 | ✓ § TUIR | ✓ classificare redditi | ✓ sistema IRPEF/IRES | ✓ soggetti e categorie | ✓ IRPEF/IRES | ✓ qualificazione fiscale | ✓ verifiche risolte | ✓ elenco senza metodo | ✓ checklist | ✓ fonte in riga |
+| N-FC02-04-04 | ✓ § IVA | ✓ spiegare il meccanismo | ✓ quadro armonizzato | ✓ presupposti e operazioni | ✓ soggetto/debitore/consumatore | ✓ rivalsa e detrazione | ✓ caso Alfa | ✓ IVA come aliquota | ✓ verifica risolta | ✓ fonte in riga |
+| N-FC02-04-05 | ✓ § quadro UE | ✓ scegliere la fonte | ✓ competenze UE | ✓ regolamento, direttiva, CDU | ✓ applicabilita/attuazione | ✓ coordinamento nazionale | ✓ importazione/vendita | ✓ fonti intercambiabili | ✓ verifica risolta | ✓ fonte in riga |
+| N-FC02-04-06 | ✓ § accertamento/riscossione | ✓ separare le fasi | ✓ AE e AdER | ✓ controllo, atto, credito | ✓ accertamento/riscossione | ✓ competenza e pagamento | ✓ Caso guidato | ✓ cartella/accertamento | ✓ Quiz 4-5 | ✓ fonte in riga |
 
 ## Totali
 

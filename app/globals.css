@@ -26,10 +26,10 @@
   --book-page-width: 6.69in;
   --book-page-height: 9.61in;
   --book-padding-top: 18mm;
-  /* Paperback KDP: 20 mm al dorso mantiene la sicurezza di rilegatura del
-     Volume 1 e restituisce una colonna di lettura equilibrata. */
+  /* Paperback KDP: 23 mm al dorso mantiene la sicurezza di rilegatura e
+     restituisce una colonna di lettura equilibrata nei volumi compositi. */
   --book-padding-outside: 13mm;
-  --book-padding-inside: 20mm;
+  --book-padding-inside: 23mm;
   --book-padding-right: var(--book-padding-outside);
   --book-padding-bottom: 18mm;
   --book-padding-left: var(--book-padding-inside);
@@ -763,6 +763,52 @@ h1 {
   color: #5b6f8d;
 }
 
+.editorialPlanPanel {
+  margin-top: 14px;
+  padding-top: 12px;
+  border-top: 1px solid var(--line);
+}
+
+.editorialPlanHeading,
+.editorialPlanTarget {
+  display: grid;
+  gap: 3px;
+}
+
+.editorialPlanHeading > span,
+.editorialPlanModule summary {
+  font-weight: 700;
+}
+
+.editorialPlanHeading small,
+.editorialPlanTarget small,
+.editorialPlanModule p {
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.editorialPlanModule {
+  margin-top: 10px;
+}
+
+.editorialPlanModule summary {
+  cursor: pointer;
+  line-height: 1.3;
+}
+
+.editorialPlanTarget {
+  margin-top: 6px;
+  padding: 8px;
+  border: 1px dashed var(--line);
+  border-radius: 5px;
+  background: #fff;
+}
+
+.editorialPlanTarget.state-blocked {
+  border-color: #c77878;
+  background: #fff5f5;
+}
+
 .ricettarioScopeBar {
   grid-template-columns: minmax(0, 1fr);
 }
@@ -1012,6 +1058,16 @@ h1 {
   font-size: 11pt;
   font-weight: 700;
   text-transform: uppercase;
+}
+
+.previewBlocks .verificationHeading {
+  border: 1.5pt solid #111111;
+  border-left-width: 4pt;
+  background: #f2f2f2;
+  color: #020617;
+  padding: 6pt 8pt;
+  break-after: avoid;
+  page-break-after: avoid;
 }
 
 .previewBlocks p {
@@ -1303,10 +1359,6 @@ h1 {
   text-align: center;
 }
 
-.frontMatterPage {
-  padding: 15mm 13mm 16mm;
-}
-
 .frontMatterBrand {
   position: relative;
   z-index: 1;
@@ -1367,14 +1419,13 @@ h1 {
   display: grid;
   align-content: center;
   min-height: 100%;
-  padding: 22mm 18mm;
 }
 
 .frontMatter-title-page .frontMatterBrand {
   position: absolute;
-  top: 17mm;
-  left: 18mm;
-  right: 18mm;
+  top: var(--book-padding-top);
+  right: var(--book-padding-right);
+  left: var(--book-padding-left);
 }
 
 .frontMatter-title-page .frontMatterBlocks {
@@ -1413,10 +1464,6 @@ h1 {
   font-size: 14pt;
   font-weight: 700;
   text-align: center;
-}
-
-.frontMatter-digital-services {
-  padding: 0;
 }
 
 .digitalServicesHero {
@@ -1526,7 +1573,6 @@ h1 {
 .frontMatter-module-opening {
   display: grid;
   align-content: center;
-  padding: 18mm 15mm;
 }
 
 .frontMatter-module-opening .frontMatterBlocks > h3:first-child {
@@ -1577,7 +1623,7 @@ h1 {
 }
 
 .indexPart {
-  margin: 12px 0 7px;
+  margin: 6px 0 3px;
   text-align: center;
 }
 
@@ -1612,7 +1658,7 @@ h1 {
 }
 
 .indexChapterLine {
-  margin: 7px 0 3px;
+  margin: 5px 0 2px;
   color: var(--book-rich-black);
   font-size: 10px;
   font-weight: 800;

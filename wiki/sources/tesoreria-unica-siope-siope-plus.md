@@ -50,4 +50,3 @@ Usare questa fonte nel capitolo M-FL01 10 per spiegare tesoreria, cassa, mandati
 
 ## Capitoli collegati
 - [[books/moduli/m-fl01-comuni-unioni/chapters/10-gestione-finanziaria-rendiconto-tesoreria-controlli]]
-

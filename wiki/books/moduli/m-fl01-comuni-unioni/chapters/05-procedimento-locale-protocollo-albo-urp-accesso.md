@@ -9,7 +9,7 @@ entities: ["Comune", "Legge 241/1990", "Responsabile del procedimento", "Respons
 source_refs: ["sources/legge-7-agosto-1990-n-241-procedimento-amministrativo-e-accesso-ai-documenti-amministrativi-testo-vigente-normattiva.md", "sources/d-p-r-28-dicembre-2000-n-445-documentazione-amministrativa.md", "sources/d-lgs-14-marzo-2013-n-33-trasparenza.md", "sources/d-lgs-25-maggio-2016-n-97-foia-e-revisione-trasparenza.md", "sources/anac-linee-guida-accesso-civico-e-obblighi-pubblicazione-2016.md", "sources/garante-privacy-trasparenza-pa-accesso-civico-e-dati-personali.md", "sources/regolamento-ue-2016-679-gdpr-protezione-dati-personali.md", "sources/agid-linee-guida-sulla-formazione-gestione-e-conservazione-dei-documenti-informatici.md", "sources/pa-digitale-cad-identita-documenti-servizi-dati.md", "sources/vol-02-dossier-redazionale-enti-locali-polizia-locale.md", "sources/bandi-inpa-vol-02-campione-2026.md"]
 book_refs: ["m-fl01-comuni-unioni", "vol-02-enti-locali-polizia-locale", "il-metodo-bando"]
 confidence: 0.87
-updated_at: 2026-07-17T23:05:00+02:00
+updated_at: 2026-07-31T19:00:00+02:00
 created_at: 2026-07-17T16:30:00+02:00
 review_required: true
 canonical: true
@@ -21,7 +21,7 @@ draft_stage: professional-draft
 module_code: M-FL01
 module_family: funzioni-locali
 companion_to: il-metodo-bando
-last_compiled_from: ["wiki/books/moduli/m-fl01-comuni-unioni/index.md", "wiki/books/moduli/m-fl01-comuni-unioni/chapters/03-organizzazione-comunale-uffici-servizi-gestioni-associate.md", "wiki/books/moduli/m-fl01-comuni-unioni/chapters/04-deliberazioni-determinazioni-decreti-ordinanze-pareri.md", "wiki/sources/legge-7-agosto-1990-n-241-procedimento-amministrativo-e-accesso-ai-documenti-amministrativi-testo-vigente-normattiva.md", "wiki/sources/d-p-r-28-dicembre-2000-n-445-documentazione-amministrativa.md", "wiki/sources/capitolo-7-corpus-fonti-ufficiali-trasparenza-anticorruzione-privacy-2026-05-26.md", "wiki/sources/anac-linee-guida-accesso-civico-e-obblighi-pubblicazione-2016.md", "wiki/sources/garante-privacy-trasparenza-pa-accesso-civico-e-dati-personali.md", "wiki/entities/comune.md"]
+last_compiled_from: ["wiki/books/moduli/m-fl01-comuni-unioni/index.md", "wiki/books/moduli/m-fl01-comuni-unioni/planning/02-matrice-copertura-didattica.md", "wiki/books/moduli/m-fl01-comuni-unioni/chapters/03-organizzazione-comunale-uffici-servizi-gestioni-associate.md", "wiki/books/moduli/m-fl01-comuni-unioni/chapters/04-deliberazioni-determinazioni-decreti-ordinanze-pareri.md", "wiki/books/moduli/m-fl01-comuni-unioni/chapters/06-servizi-digitali-comunali-cad-anpr-gestione-documentale.md", "wiki/sources/legge-7-agosto-1990-n-241-procedimento-amministrativo-e-accesso-ai-documenti-amministrativi-testo-vigente-normattiva.md", "wiki/sources/d-p-r-28-dicembre-2000-n-445-documentazione-amministrativa.md", "wiki/sources/d-lgs-14-marzo-2013-n-33-trasparenza.md", "wiki/sources/d-lgs-25-maggio-2016-n-97-foia-e-revisione-trasparenza.md", "wiki/sources/anac-linee-guida-accesso-civico-e-obblighi-pubblicazione-2016.md", "wiki/sources/garante-privacy-trasparenza-pa-accesso-civico-e-dati-personali.md", "wiki/sources/regolamento-ue-2016-679-gdpr-protezione-dati-personali.md", "wiki/sources/agid-linee-guida-sulla-formazione-gestione-e-conservazione-dei-documenti-informatici.md", "wiki/sources/pa-digitale-cad-identita-documenti-servizi-dati.md", "wiki/sources/vol-02-dossier-redazionale-enti-locali-polizia-locale.md", "wiki/sources/bandi-inpa-vol-02-campione-2026.md", "wiki/topics/enti-locali.md", "wiki/topics/procedimento-amministrativo.md", "wiki/topics/anticorruzione-e-trasparenza.md", "wiki/topics/privacy-e-protezione-dati.md", "wiki/entities/comune.md"]
 ---
 
 # Procedimento locale, protocollo, albo, URP e accesso
@@ -66,13 +66,9 @@ La domanda guida è:
 ## Testo editoriale
 
 ### Apertura editoriale
-Nei concorsi comunali il procedimento amministrativo smette presto di essere una definizione. Diventa una pratica allo sportello, una domanda protocollata, un fascicolo da assegnare, una richiesta di integrazione, una pubblicazione all'albo, una risposta di accesso agli atti, una telefonata all'URP, un dato personale da non diffondere.
+Nei concorsi comunali il procedimento diventa lavoro d'ufficio: una domanda protocollata, un fascicolo da assegnare, un'integrazione, una pubblicazione, una richiesta di accesso o un dato personale da proteggere. Il candidato deve ricostruire la traiettoria della pratica: ingresso, registrazione, assegnazione, istruttoria, decisione, comunicazione, eventuale pubblicazione e conservazione.
 
-Per questo il candidato non può limitarsi a ripetere che il procedimento è una sequenza di atti. Deve saper descrivere che cosa succede dentro il Comune. Una domanda per un contributo, una pratica edilizia, un'istanza di residenza, una richiesta di accesso, un reclamo su un servizio o una domanda di autorizzazione hanno tutte una traiettoria amministrativa: ingresso, registrazione, assegnazione, istruttoria, decisione, comunicazione, pubblicazione quando prevista, conservazione.
-
-Il capitolo precedente ha chiarito la grammatica degli atti: deliberazioni, determinazioni, decreti, ordinanze, pareri e visto. Questo capitolo completa il quadro. L'atto corretto non basta se non è inserito in un procedimento leggibile. E un procedimento non è solido se mancano protocollo, fascicolo, responsabile, comunicazioni, pubblicazione e gestione dell'accesso.
-
-La prova può chiedere una domanda teorica, ma spesso chiede un comportamento d'ufficio: "Un cittadino presenta istanza incompleta", "un'associazione chiede copia degli atti", "un provvedimento contiene dati personali", "un atto va pubblicato", "l'URP riceve un reclamo". In questi casi la risposta forte non è enciclopedica. È una cronologia.
+Il capitolo precedente ha spiegato gli atti locali; qui l'atto viene inserito in un procedimento tracciabile. Quando la prova presenta un'istanza incompleta, una richiesta di copia o un provvedimento da pubblicare, la risposta efficace è una cronologia motivata.
 
 ### Obiettivo del capitolo
 Al termine del capitolo devi saper fare nove operazioni:
@@ -90,27 +86,9 @@ Al termine del capitolo devi saper fare nove operazioni:
 Il risultato operativo è una check-list: se in prova hai una pratica comunale, devi saperla ordinare.
 
 ### Come usare questo capitolo
-Leggi questo capitolo insieme a tre capitoli precedenti:
+Usa il capitolo 3 per uffici e servizi, il capitolo 4 per l'atto corretto e il VOL-01 per la teoria generale. Qui devi localizzare il procedimento nel Comune.
 
-- il capitolo 3, per capire uffici, servizi, sportelli e gestioni associate;
-- il capitolo 4, per scegliere l'atto corretto;
-- il VOL-01, per ripassare i principi generali della Legge 241/1990, accesso, trasparenza, privacy e PA digitale.
-
-Qui non devi imparare un nuovo procedimento generale. Devi imparare a localizzarlo nel Comune.
-
-La sequenza da allenare è:
-
-1. chi presenta o avvia la pratica?
-2. come entra il documento nell'ente?
-3. quale ufficio lo riceve e lo protocolla?
-4. quale servizio è competente?
-5. chi cura l'istruttoria?
-6. chi adotta l'atto finale?
-7. l'esito va comunicato, notificato o pubblicato?
-8. esistono dati personali o controinteressati?
-9. se arriva una richiesta di accesso, quale forma di accesso si applica?
-
-Queste domande trasformano una traccia confusa in una risposta amministrativa.
+Per ogni traccia individua chi avvia la pratica, canale d'ingresso e protocollo, servizio e responsabile, istruttoria, atto finale, comunicazione o pubblicazione. Controlla poi dati personali, controinteressati e forma di accesso applicabile.
 
 ### Mappa BANDO del capitolo
 
@@ -122,7 +100,7 @@ Queste domande trasformano una traccia confusa in una risposta amministrativa.
 | D - Diario | Dove rischio di confondere istituti vicini? | Scheda errori su accesso documentale/civico, albo/trasparenza, protocollo/provvedimento. |
 | O - Output | Che cosa devo produrre in prova? | Cronologia del procedimento, risposta orale, mini-caso, check-list accesso. |
 
-La mappa mostra il punto centrale: il procedimento locale è un flusso, non un elenco di definizioni.
+La mappa fissa il criterio di lavoro: il procedimento locale va ricostruito come flusso, non come elenco di definizioni.
 
 ### Il procedimento amministrativo dentro il Comune
 Nel Comune il procedimento amministrativo è la forma ordinata con cui l'ente passa da un impulso iniziale a un esito. L'impulso può arrivare da un cittadino, da un'impresa, da un'associazione, da un altro ente, da un organo politico, da un obbligo normativo o da un'attività d'ufficio.
@@ -137,11 +115,7 @@ Esempi:
 - l'ufficio tributi deve rispondere a una richiesta;
 - l'URP riceve un reclamo e lo indirizza al servizio competente.
 
-In tutti questi casi il Comune deve evitare due errori opposti.
-
-Il primo è trattare la pratica come una conversazione informale. Il cittadino chiede, l'ufficio risponde "a voce", nessuno registra, nessuno assegna, nessuno sa chi segue la pratica. Questo modo di procedere indebolisce tracciabilità, responsabilità e tutela.
-
-Il secondo è trasformare ogni passaggio in burocrazia inutile. Il procedimento deve essere ordinato, non appesantito senza motivo. La Legge 241/1990 richiama principi di economicita, efficacia, imparzialità, pubblicità, trasparenza, collaborazione e buona fede. Nel Comune questi principi significano: ricevere correttamente, assegnare all'ufficio giusto, istruire ciò che serve, comunicare in modo comprensibile, concludere e conservare traccia.
+In tutti questi casi il Comune deve evitare sia la gestione informale, priva di registrazione e responsabilità riconoscibili, sia l'aggravamento inutile. I principi della Legge 241/1990 si traducono in azioni concrete: ricevere, assegnare, istruire, comunicare, concludere e conservare traccia.
 
 La cronologia minima è:
 
@@ -157,7 +131,7 @@ La cronologia minima è:
 | Comunicazione/pubblicazione | Conoscibilità verso destinatari o pubblico nei casi previsti. | Come si rende noto l'esito? |
 | Conservazione | Mantenimento ordinato del documento e del fascicolo. | Come si garantisce reperibilità nel tempo? |
 
-Questa tabella è più importante di una definizione astratta.
+La tabella traduce la definizione generale in una sequenza utilizzabile in prova.
 
 ### Istanza, impulso d'ufficio e pratica comunale
 Una pratica comunale può iniziare su istanza di parte o d'ufficio.
@@ -166,17 +140,11 @@ L'istanza di parte è la domanda del cittadino, dell'impresa o di altro soggetto
 
 L'avvio d'ufficio nasce invece da un'iniziativa dell'amministrazione: controllo, vigilanza, aggiornamento, recupero di somme, revoca, procedimento sanzionatorio, manutenzione di un elenco, pubblicazione obbligatoria o esecuzione di un indirizzo.
 
-Per il candidato la distinzione è utile per tre ragioni.
-
-La prima: cambia il punto di partenza. Se c'è istanza, occorre leggere la domanda, verificare la documentazione e, se necessario, chiedere integrazioni. Se il procedimento è d'ufficio, occorre individuare l'atto o il fatto che giustifica l'avvio.
-
-La seconda: cambiano le comunicazioni. Il cittadino che presenta istanza deve poter seguire la pratica, capire a quale ufficio rivolgersi e conoscere eventuali carenze. Nel procedimento d'ufficio vanno rispettate le garanzie di partecipazione quando previste.
-
-La terza: cambia il tipo di output. In una domanda su istanza incompleta, l'output può essere una richiesta di integrazione. In una domanda su controlli, l'output può essere una nota istruttoria o un provvedimento finale.
+La distinzione cambia avvio, comunicazioni e output. Nell'istanza di parte l'ufficio verifica domanda e documenti, chiede eventuali integrazioni e consente al cittadino di seguire la pratica. Nel procedimento d'ufficio individua invece l'atto o il fatto che giustifica l'avvio e applica le garanzie di partecipazione previste. In prova, il primo caso può condurre a una richiesta di integrazione; il secondo a una nota istruttoria o a un provvedimento finale.
 
 Formula utile:
 
-> Nel Comune l'istanza non è solo un documento in arrivo: è l'impulso che attiva registrazione, assegnazione, istruttoria e conclusione del procedimento, secondo competenza e disciplina applicabile.
+> Nel Comune l'istanza è l'impulso che attiva registrazione, assegnazione, istruttoria e conclusione del procedimento, secondo competenza e disciplina applicabile.
 
 ### Dal protocollo al fascicolo
 Il protocollo è il punto in cui il documento entra nella tracciabilità dell'ente. Non decide la domanda, non valuta il merito, non sostituisce l'istruttoria. Registra e rende rintracciabile.
@@ -204,7 +172,7 @@ La sequenza pratica è:
 | Fascicolazione | I documenti sono raccolti in modo coerente. | Conservare allegati senza criterio. |
 | Istruttoria | L'ufficio valuta presupposti e requisiti. | Decidere senza verificare atti e dati. |
 
-Il capitolo successivo sviluppera documento informatico, fascicolo digitale, conservazione e metadati. Qui devi fissare la logica concorsuale: senza protocollo e fascicolo non c'è procedimento governabile.
+Il capitolo successivo svilupperà documento informatico, fascicolo digitale, conservazione e metadati. Qui devi fissare la logica concorsuale: senza protocollo e fascicolo non c'è procedimento governabile.
 
 ### Ufficio competente e responsabile del procedimento
 Il procedimento deve essere assegnato a un ufficio competente. Questo passaggio collega il capitolo sull'organizzazione comunale al capitolo sugli atti.
@@ -249,9 +217,7 @@ Nel Comune l'istruttoria può comprendere:
 - valutazione dei requisiti previsti da legge, regolamento o avviso;
 - predisposizione dell'atto finale o della proposta.
 
-Il D.P.R. 445/2000 rileva soprattutto per documentazione amministrativa, dichiarazioni sostitutive, controlli e rapporti documentali. Nei concorsi comunali questo significa che l'ufficio non deve chiedere automaticamente al cittadino tutto ciò che l'amministrazione può acquisire o verificare secondo la disciplina applicabile. La prova non richiede di recitare l'intero testo unico, ma di mostrare il principio operativo: la documentazione serve all'istruttoria, non a scaricare sul cittadino ogni onere non necessario.
-
-Se l'istanza è incompleta, la risposta non deve essere brusca. L'ufficio deve verificare che cosa manca, se l'integrazione è possibile, come comunicarla, entro quale termine e con quali conseguenze. Se la carenza non viene sanata o impedisce la valutazione, l'esito dovrà essere motivato secondo la disciplina applicabile.
+Il D.P.R. 445/2000 rileva per documentazione amministrativa, dichiarazioni sostitutive e controlli: l'ufficio non chiede automaticamente ciò che può acquisire o verificare secondo la disciplina applicabile. Se l'istanza è incompleta, individua la carenza, valuta l'integrazione e ne comunica modalità, termine e conseguenze; l'eventuale esito negativo deve essere motivato.
 
 Il provvedimento finale deve essere collegato a:
 
@@ -263,7 +229,7 @@ Il provvedimento finale deve essere collegato a:
 - motivazione;
 - comunicazione o pubblicazione.
 
-Il candidato deve abituarsi a scrivere "conclusione del procedimento" e non solo "risposta dell'ufficio".
+In prova è preferibile indicare la "conclusione del procedimento", formula più precisa della generica "risposta dell'ufficio".
 
 ### Albo pretorio online, pubblicazione e conoscibilità
 L'albo pretorio online è lo spazio di pubblicità legale attraverso cui il Comune pubblica determinati atti quando la legge o la disciplina applicabile lo prevede. Nel lessico concorsuale serve a collegare l'atto alla sua conoscibilità legale.
@@ -278,58 +244,19 @@ La distinzione è:
 | Amministrazione trasparente | Sezione organizzata per obblighi di pubblicazione del D.Lgs. 33/2013 e discipline collegate. | Dati su organizzazione, procedimenti, bandi, provvedimenti, pagamenti, secondo obblighi applicabili. |
 | Sito istituzionale | Canale informativo e di servizio dell'ente. | News, avvisi, modulistica, comunicazioni al cittadino. |
 
-L'errore frequente è dire: "si pubblica sul sito" senza specificare perché e dove. In una prova comunale devi essere più preciso:
-
-- se serve pubblicità legale, ragioni sull'albo pretorio;
-- se c'è obbligo di trasparenza, ragioni su amministrazione trasparente;
-- se serve informazione al pubblico, ragioni sul sito istituzionale o su altri canali dell'ente;
-- se l'atto contiene dati personali, ragioni su minimizzazione, oscuramento e periodo di pubblicazione.
-
-La pubblicazione non è un deposito indiscriminato di informazioni. È un trattamento di dati, spesso online, con effetti di diffusione. Per questo deve essere fondata, proporzionata e limitata a ciò che serve.
+In prova occorre indicare funzione e sede, anziché scrivere genericamente "si pubblica sul sito". La pubblicazione è un trattamento di dati e deve essere fondata, proporzionata e limitata a ciò che serve.
 
 ### Amministrazione trasparente e procedimenti
 La sezione "Amministrazione trasparente" non è un archivio casuale. È una struttura ordinata di pubblicazione obbligatoria, collegata alla disciplina sulla trasparenza.
 
-Per i procedimenti comunali sono importanti tre idee.
-
-La prima: il cittadino deve poter conoscere informazioni essenziali sui procedimenti di competenza dell'ente. Questo include, secondo gli obblighi applicabili, indicazioni su uffici, responsabili, termini, strumenti di tutela, modulistica e recapiti.
-
-La seconda: la pubblicazione obbligatoria non sostituisce il procedimento individuale. Sapere quali documenti servono per un procedimento è diverso dall'ottenere l'accoglimento della propria istanza.
-
-La terza: trasparenza non significa pubblicare qualunque dato. L'amministrazione deve rendere conoscibile l'azione pubblica, ma deve rispettare protezione dei dati personali, segreti, limiti e qualità dell'informazione.
-
-In prova puoi usare questa frase:
-
-> L'amministrazione trasparente rende conoscibili dati, documenti e informazioni soggetti a pubblicazione obbligatoria; l'albo pretorio assolve funzioni di pubblicità legale; l'accesso consente invece di ottenere dati o documenti su richiesta, secondo presupposti e limiti diversi.
-
-Questa frase distingue tre piani che spesso vengono confusi.
+Per i procedimenti comunali rende conoscibili, secondo gli obblighi applicabili, uffici, responsabili, termini, tutele, modulistica e recapiti. Non sostituisce il procedimento individuale e non autorizza a pubblicare qualunque dato. Va distinta dall'albo, che assolve funzioni di pubblicità legale, e dall'accesso, che opera su richiesta secondo presupposti e limiti propri.
 
 ### URP e rapporto con il cittadino
-L'URP, Ufficio relazioni con il pubblico, è un punto di raccordo tra amministrazione e cittadini. Non è un ufficio magico che decide tutte le pratiche. Non sostituisce il servizio competente. Non promette esiti.
+L'URP, Ufficio relazioni con il pubblico, raccorda amministrazione e cittadini. Orienta l'utente, ma non sostituisce il servizio competente e non anticipa l'esito delle pratiche.
 
-La sua funzione è aiutare il cittadino a orientarsi, ricevere informazioni, individuare l'ufficio corretto, conoscere modalità di accesso ai servizi, presentare segnalazioni o reclami quando previsto, ottenere indicazioni su procedimenti e strumenti di tutela.
+L'URP informa sui procedimenti, orienta verso l'ufficio competente, aiuta a individuare modulistica e canali, raccoglie segnalazioni o reclami e indirizza sulle forme di accesso. Restano fermi due limiti: non decide al posto del responsabile competente e non comunica dati di pratiche altrui senza titolo.
 
-In un caso pratico, l'URP può:
-
-- fornire informazioni generali su procedimenti e uffici;
-- indirizzare l'utente al servizio competente;
-- ricevere o facilitare la presentazione di richieste;
-- aiutare nella comprensione di modulistica e canali;
-- raccogliere segnalazioni o reclami;
-- favorire comunicazione e ascolto;
-- orientare sulle forme di accesso, senza confonderle.
-
-L'URP deve però rispettare due limiti.
-
-Il primo è la competenza: non decide al posto del responsabile del procedimento o del responsabile di servizio.
-
-Il secondo è la riservatezza: non può comunicare a chiunque informazioni personali o dati di pratiche altrui solo perché richiesti allo sportello.
-
-Esempio:
-
-> Un cittadino chiede all'URP copia di una determinazione che riguarda un contributo con dati personali di terzi. L'URP non deve consegnare automaticamente il documento. Deve orientare il richiedente verso la corretta istanza di accesso, trasmetterla o indirizzarla all'ufficio competente e segnalare la possibile presenza di dati personali o controinteressati.
-
-Questa è una risposta da profilo comunale: cortesia, orientamento, competenza e riservatezza insieme.
+Se un cittadino chiede all'URP una determinazione contenente dati personali di terzi, l'ufficio non consegna automaticamente il documento. Orienta il richiedente verso la corretta istanza di accesso e la trasmette al servizio competente, segnalando la presenza di dati personali o controinteressati.
 
 ### Le tre forme di accesso
 Nei concorsi il tema degli accessi è ad alta probabilità perché genera confusione. Le tre forme principali da distinguere sono:
@@ -350,79 +277,31 @@ Questa tabella va memorizzata, ma soprattutto va applicata.
 
 Se un candidato dice "accesso agli atti" per tutto, perde precisione. Se dice "FOIA" per ogni richiesta, rischia di confondere accesso civico generalizzato e accesso documentale. Se dice "privacy blocca sempre", sbaglia. Se dice "trasparenza prevale sempre", sbaglia ugualmente.
 
-La domanda corretta è:
+Per scegliere la forma di accesso, chiediti:
 
 > quale interesse, quale documento o dato, quale finalità e quali limiti sono coinvolti?
 
 ### Accesso documentale
 L'accesso documentale è l'accesso disciplinato dalla Legge 241/1990. Serve a consentire a un soggetto interessato di prendere visione o estrarre copia di documenti amministrativi quando vi è un interesse diretto, concreto e attuale, collegato al documento richiesto e a una situazione giuridicamente tutelata.
 
-Nel Comune può riguardare:
+Nel Comune può riguardare pratiche edilizie, procedimenti sanzionatori, graduatorie, concessioni o autorizzazioni che incidono sulla posizione del richiedente. Non è uno strumento di controllo generalizzato: il collegamento qualificato con il documento distingue questo accesso dalle forme civiche.
 
-- atti di una pratica edilizia;
-- documenti di un procedimento sanzionatorio;
-- atti di una graduatoria o concessione;
-- documenti relativi a un'autorizzazione;
-- atti che incidono sulla posizione del richiedente;
-- documenti collegati a un procedimento che coinvolge il soggetto.
-
-L'accesso documentale non è controllo generalizzato sull'attività dell'amministrazione. Richiede un collegamento qualificato. Proprio per questo può essere molto forte quando il collegamento esiste, ma non può essere usato come richiesta generica di tutto ciò che l'ente possiede.
-
-Nel caso pratico devi verificare:
-
-- chi chiede;
-- quale documento chiede;
-- quale interesse dichiara o emerge;
-- se esistono controinteressati;
-- se vi sono dati personali, segreti o limiti;
-- se è possibile accesso parziale o oscuramento;
-- quale ufficio detiene gli atti;
-- come motivare accoglimento, diniego o differimento.
-
-Formula da orale:
-
-> L'accesso documentale riguarda documenti amministrativi e presuppone un interesse qualificato del richiedente. Non coincide con l'accesso civico, perché non è fondato sul controllo diffuso di chiunque, ma sul collegamento tra documento richiesto e posizione del soggetto.
+Nel caso pratico occorre identificare richiedente, documento e interesse; verificare ufficio detentore, controinteressati e limiti; valutare accesso parziale o oscuramento; motivare accoglimento, diniego o differimento.
 
 ### Accesso civico semplice
 L'accesso civico semplice è il rimedio contro l'omessa pubblicazione. Se un dato, documento o informazione doveva essere pubblicato nella sezione prevista e non lo è, chiunque può chiederne la pubblicazione.
 
-La logica è semplice:
-
-- esiste un obbligo di pubblicazione;
-- l'amministrazione non ha pubblicato;
-- il cittadino chiede di adempiere;
-- l'ente verifica l'obbligo e provvede secondo disciplina.
-
-Esempio comunale:
-
-> Il sito del Comune non contiene una scheda di procedimento che dovrebbe essere pubblicata secondo la disciplina sulla trasparenza. Un cittadino chiede l'accesso civico semplice. L'ufficio deve verificare l'obbligo di pubblicazione e, se dovuto, pubblicare il dato o documento nella sezione corretta.
-
-L'errore da evitare è usare l'accesso civico semplice per ottenere un documento non soggetto a pubblicazione obbligatoria. In quel caso bisogna chiedersi se ricorra accesso civico generalizzato o accesso documentale.
+L'ufficio verifica quindi l'esistenza dell'obbligo e, se l'omissione è confermata, pubblica il dato o documento nella sezione corretta. Se il documento non è soggetto a pubblicazione obbligatoria, occorre valutare l'accesso civico generalizzato o quello documentale.
 
 ### Accesso civico generalizzato
 L'accesso civico generalizzato consente a chiunque di accedere a dati e documenti detenuti dalla pubblica amministrazione, ulteriori rispetto a quelli oggetto di pubblicazione obbligatoria, nel rispetto dei limiti previsti.
 
-La sua funzione è favorire controllo diffuso sull'attività amministrativa e uso delle risorse pubbliche. Non richiede la stessa motivazione dell'accesso documentale e non richiede un interesse diretto, concreto e attuale. Tuttavia non è un diritto assoluto e non consente richieste esplorative, massive o tali da compromettere irragionevolmente il buon funzionamento dell'ufficio.
+La sua funzione è favorire il controllo diffuso sull'attività amministrativa e sull'uso delle risorse pubbliche. Non richiede l'interesse qualificato dell'accesso documentale, ma non è assoluto: l'ufficio valuta richieste esplorative o massive e il possibile pregiudizio concreto agli interessi pubblici e privati tutelati.
 
-Nel Comune può riguardare:
-
-- dati su procedimenti o attività non già pubblicati;
-- documenti amministrativi non soggetti a pubblicazione obbligatoria;
-- informazioni su organizzazione, spesa o gestione, nei limiti della disciplina;
-- atti ulteriori rispetto alla trasparenza obbligatoria.
-
-L'amministrazione deve verificare se l'accesso può produrre un pregiudizio concreto a interessi pubblici o privati tutelati: sicurezza, ordine pubblico, indagini, segreti, interessi economici e commerciali, protezione dei dati personali e altri limiti previsti dalla disciplina.
-
-In presenza di dati personali, non basta dire "sono dati personali, quindi no". Occorre valutare se l'ostensione sia possibile, se serva oscurare parti del documento, se esistano controinteressati, se il pregiudizio sia concreto e se una risposta parziale possa soddisfare l'interesse alla trasparenza senza sacrificare inutilmente la riservatezza.
-
-Formula da orale:
-
-> L'accesso civico generalizzato è accesso di chiunque a dati e documenti ulteriori rispetto agli obblighi di pubblicazione, ma resta soggetto a limiti e bilanciamenti. Non coincide con l'accesso documentale, che richiede interesse qualificato, e non coincide con l'accesso civico semplice, che riguarda l'omessa pubblicazione obbligatoria.
+Nel Comune può riguardare documenti non soggetti a pubblicazione obbligatoria e dati su organizzazione, spesa, gestione o procedimenti. In presenza di dati personali, l'ufficio verifica controinteressati, possibilità di oscuramento e accesso parziale prima di motivare un eventuale diniego o differimento.
 
 ### Accesso e controinteressati
-Un controinteressato è un soggetto che potrebbe subire un pregiudizio dalla divulgazione dei dati o documenti richiesti. Nei casi comunali può essere un vicino, un beneficiario di contributo, un dipendente, un'impresa, un utente di servizi sociali, un minore rappresentato dai genitori, un soggetto citato in una pratica.
-
-Quando l'accesso incide su terzi, l'ufficio deve rallentare il riflesso automatico. Non si consegna subito, ma non si nega senza valutazione.
+Un controinteressato è un soggetto che potrebbe subire un pregiudizio dalla divulgazione dei dati o documenti richiesti: per esempio un vicino, un beneficiario, un dipendente, un'impresa o un utente di servizi. La presenza di terzi impone una valutazione, non la consegna o il diniego automatici.
 
 La check-list è:
 
@@ -435,12 +314,10 @@ La check-list è:
 7. è possibile accesso parziale con oscuramento?
 8. il diniego o differimento è motivato?
 
-Questa sequenza è molto utile nelle prove teorico-pratiche. Mostra che il candidato non tratta privacy e trasparenza come slogan.
+La sequenza evita di trattare privacy e trasparenza come automatismi opposti.
 
 ### Privacy, pubblicazione e oscuramento
-La protezione dei dati personali non è un ostacolo esterno al procedimento. È una regola interna al modo in cui l'ufficio lavora.
-
-Il Comune tratta dati personali in quasi ogni servizio: anagrafe, tributi, scuola, sociale, personale, polizia locale, edilizia, contributi, protocollo, albo, accesso. Il problema non è se trattare dati, ma come trattarli correttamente.
+La protezione dei dati personali è parte del procedimento. Il Comune tratta dati in quasi ogni servizio; la questione operativa è farlo correttamente.
 
 Principi da ricordare:
 
@@ -452,7 +329,7 @@ Principi da ricordare:
 - integrità e riservatezza: i dati devono essere protetti;
 - responsabilizzazione: l'ente deve poter dimostrare scelte corrette.
 
-Nella pubblicazione online il rischio aumenta perché il dato diventa facilmente copiabile, indicizzabile e riutilizzabile. Per questo, prima di pubblicare, bisogna chiedersi:
+Prima di pubblicare online, dove i dati diventano facilmente copiabili e indicizzabili, bisogna chiedersi:
 
 - è prevista una pubblicazione?
 - quali dati sono necessari?
@@ -461,29 +338,7 @@ Nella pubblicazione online il rischio aumenta perché il dato diventa facilmente
 - per quanto tempo deve rimanere online?
 - la pubblicazione va fatta all'albo, in amministrazione trasparente o in altra sezione?
 
-Il candidato deve evitare la frase "si pubblica tutto per trasparenza". La frase corretta è:
-
-> si pubblica ciò che deve essere pubblicato, nella sede corretta, per il tempo e con il contenuto necessari, applicando minimizzazione e oscuramento quando occorre.
-
-### Cronologia pratica del procedimento comunale
-Quando la traccia descrive una pratica, costruisci una cronologia. La cronologia impedisce di saltare passaggi essenziali.
-
-Esempio: domanda di contributo comunale.
-
-| Fase | Azione dell'ente | Output possibile |
-| --- | --- | --- |
-| 1. Presentazione | Il cittadino o l'associazione presenta domanda secondo avviso/regolamento. | Istanza. |
-| 2. Protocollo | L'ente registra la domanda. | Numero o riferimento di protocollo. |
-| 3. Assegnazione | La pratica è inviata al servizio competente. | Assegnazione interna. |
-| 4. Fascicolo | Si raccolgono domanda, allegati e comunicazioni. | Fascicolo della pratica. |
-| 5. Istruttoria | L'ufficio verifica requisiti e documenti. | Nota istruttoria, richiesta integrazione, proposta. |
-| 6. Valutazione | Si applicano criteri di regolamento o avviso. | Esito istruttorio. |
-| 7. Atto finale | Il responsabile competente adotta l'atto. | Determinazione/provvedimento. |
-| 8. Comunicazione | L'esito viene comunicato agli interessati. | Comunicazione, eventuale graduatoria o elenco. |
-| 9. Pubblicazione | Si pubblica se previsto, con cautele sui dati. | Albo/Amministrazione trasparente/sito. |
-| 10. Accesso | Eventuali richieste di accesso sono gestite secondo forma corretta. | Accoglimento, accesso parziale, diniego o differimento motivato. |
-
-Questa tabella può essere adattata a molti casi: contributi, autorizzazioni, servizi scolastici, tributi, edilizia, accesso, concessioni, reclami.
+La regola è pubblicare ciò che è previsto, nella sede corretta e per il tempo necessario, applicando minimizzazione e oscuramento quando occorre.
 
 ### Come rispondere all'orale
 Una risposta orale su procedimento locale, protocollo, albo, URP e accesso può seguire sei passaggi.
@@ -541,14 +396,14 @@ Risposta sintetica:
 5. Accesso documentale, accesso civico semplice e accesso civico generalizzato vanno distinti per presupposti, soggetti, oggetto e limiti.
 
 ### Domanda da commissario
-**Domanda:** Qual è la differenza tra accesso documentale, accesso civico semplice e accesso civico generalizzato?
+Qual è la differenza tra accesso documentale, accesso civico semplice e accesso civico generalizzato?
 
-**Risposta guida:** L'accesso documentale, disciplinato dalla Legge 241/1990, riguarda documenti amministrativi e richiede un interesse diretto, concreto e attuale del richiedente. L'accesso civico semplice riguarda invece l'omessa pubblicazione di dati, documenti o informazioni soggetti a obbligo di pubblicazione: chiunque può chiederne la pubblicazione. L'accesso civico generalizzato consente a chiunque di accedere a dati e documenti ulteriori rispetto agli obblighi di pubblicazione, ma incontra limiti quando l'ostensione può pregiudicare interessi pubblici o privati, compresa la protezione dei dati personali. La distinzione centrale è quindi tra interesse qualificato, rimedio contro omissione di pubblicazione e controllo diffuso entro limiti.
+L'accesso documentale, disciplinato dalla Legge 241/1990, riguarda documenti amministrativi e richiede un interesse diretto, concreto e attuale del richiedente. L'accesso civico semplice riguarda invece l'omessa pubblicazione di dati, documenti o informazioni soggetti a obbligo di pubblicazione: chiunque può chiederne la pubblicazione. L'accesso civico generalizzato consente a chiunque di accedere a dati e documenti ulteriori rispetto agli obblighi di pubblicazione, ma incontra limiti quando l'ostensione può pregiudicare interessi pubblici o privati, compresa la protezione dei dati personali. La distinzione centrale è quindi tra interesse qualificato, rimedio contro omissione di pubblicazione e controllo diffuso entro limiti.
 
 ### Domanda-trappola
-**Domanda:** Se un atto è pubblicato all'albo pretorio online, significa che tutti i dati contenuti possono essere diffusi senza limiti?
+Se un atto è pubblicato all'albo pretorio online, significa che tutti i dati contenuti possono essere diffusi senza limiti?
 
-**Risposta:** No. La pubblicazione all'albo ha una funzione di pubblicità legale quando prevista, ma non autorizza automaticamente la diffusione indiscriminata di ogni dato personale. L'amministrazione deve pubblicare ciò che è necessario e previsto, nella sede corretta e per il tempo richiesto, applicando minimizzazione, oscuramento e cautele quando vi sono dati non pertinenti o particolarmente delicati.
+No. La pubblicazione all'albo ha una funzione di pubblicità legale quando prevista, ma non autorizza automaticamente la diffusione indiscriminata di ogni dato personale. L'amministrazione deve pubblicare ciò che è necessario e previsto, nella sede corretta e per il tempo richiesto, applicando minimizzazione, oscuramento e cautele quando vi sono dati non pertinenti o particolarmente delicati.
 
 ### Errore tipico
 L'errore più frequente è usare parole generiche:
@@ -630,7 +485,7 @@ Soluzione attesa:
 - [[topics/anticorruzione-e-trasparenza|Anticorruzione e trasparenza]]
 - [[topics/privacy-e-protezione-dati|Privacy e protezione dati]]
 - [[entities/comune|Comune]]
-- Cfr. VOL-01 per teoria generale del procedimento amministrativo, accesso, trasparenza, privacy e PA digitale.
+- [[books/il-metodo-bando/index|VOL-01 — Il Metodo BANDO]] per teoria generale del procedimento amministrativo, accesso, trasparenza, privacy e PA digitale.
 
 ### Note di review
 - Prima della pubblicazione verificare sul testo vigente Normattiva eventuali aggiornamenti puntuali su Legge 241/1990, D.P.R. 445/2000 e D.Lgs. 33/2013.

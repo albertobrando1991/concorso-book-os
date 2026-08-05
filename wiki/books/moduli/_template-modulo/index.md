@@ -53,4 +53,4 @@ Creare sempre `front-matter/` con:
 
 Il piano editoriale interno deve stare fuori da `chapters/`, ad esempio in `planning/00-piano-editoriale.md`, per non essere trattato come capitolo del libro.
 
-L'indice dei moduli deve usare la stessa resa grafica del libro base: parti, righe capitolo, puntini guida e numero pagina. Nei moduli non deve generare sottorighe `1.1`, `2.1`, ecc.; quelle restano riservate al libro base quando serve un indice analitico dettagliato.
+L'indice dei moduli deve usare la stessa resa grafica del libro base: parti, righe capitolo, puntini guida e numero pagina. `index_detail: chapters-only` continua a escludere gli H2 legacy generici, ma i nuclei conformi al formato 2 entrano sempre come voci decimali (`1.1`, `1.2`, ...): il numero visibile è derivato dal `Nucleo ID`.

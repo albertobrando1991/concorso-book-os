@@ -9,7 +9,7 @@ entities: ["Comune", "Unione di Comuni", "Segretario comunale", "Responsabile di
 source_refs: ["sources/d-lgs-18-agosto-2000-n-267-enti-locali.md", "sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego.md", "sources/servizi-pubblici-locali-d-lgs-201-2022.md", "sources/vol-02-dossier-redazionale-enti-locali-polizia-locale.md", "sources/bandi-inpa-vol-02-campione-2026.md"]
 book_refs: ["m-fl01-comuni-unioni", "vol-02-enti-locali-polizia-locale", "il-metodo-bando"]
 confidence: 0.86
-updated_at: 2026-07-17T21:45:00+02:00
+updated_at: 2026-07-31T13:45:00+02:00
 created_at: 2026-07-17T16:30:00+02:00
 review_required: true
 canonical: true
@@ -21,7 +21,7 @@ draft_stage: professional-draft
 module_code: M-FL01
 module_family: funzioni-locali
 companion_to: il-metodo-bando
-last_compiled_from: ["wiki/books/moduli/m-fl01-comuni-unioni/index.md", "wiki/books/moduli/m-fl01-comuni-unioni/chapters/01-tuel-operativo-autonomia-organi-funzioni-comune.md", "wiki/books/moduli/m-fl01-comuni-unioni/chapters/02-statuto-regolamenti-autonomia-normativa-locale.md", "wiki/sources/d-lgs-18-agosto-2000-n-267-enti-locali.md", "wiki/sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego.md", "wiki/sources/servizi-pubblici-locali-d-lgs-201-2022.md", "wiki/sources/vol-02-dossier-redazionale-enti-locali-polizia-locale.md", "wiki/sources/bandi-inpa-vol-02-campione-2026.md", "wiki/entities/comune.md"]
+last_compiled_from: ["wiki/books/moduli/m-fl01-comuni-unioni/index.md", "wiki/books/moduli/m-fl01-comuni-unioni/planning/02-matrice-copertura-didattica.md", "wiki/books/moduli/m-fl01-comuni-unioni/chapters/01-tuel-operativo-autonomia-organi-funzioni-comune.md", "wiki/books/moduli/m-fl01-comuni-unioni/chapters/02-statuto-regolamenti-autonomia-normativa-locale.md", "wiki/sources/d-lgs-18-agosto-2000-n-267-enti-locali.md", "wiki/sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego.md", "wiki/sources/servizi-pubblici-locali-d-lgs-201-2022.md", "wiki/sources/vol-02-dossier-redazionale-enti-locali-polizia-locale.md", "wiki/sources/bandi-inpa-vol-02-campione-2026.md", "wiki/entities/comune.md"]
 ---
 
 # Organizzazione comunale, uffici, servizi e gestioni associate
@@ -82,7 +82,7 @@ Al termine del capitolo devi saper fare sette operazioni:
 L'obiettivo non è imparare la struttura di un Comune specifico. Ogni ente può usare denominazioni diverse. L'obiettivo è acquisire un metodo per orientarsi in qualunque Comune o Unione.
 
 ### Come usare questo capitolo
-Questo capitolo si colloca tra fonti interne e atti. Il capitolo precedente ha spiegato statuto e regolamenti; qui si vede come quelle fonti si traducono in organizzazione. Il capitolo successivo entrera negli atti: deliberazioni, determinazioni, decreti, ordinanze e pareri.
+Questo capitolo si colloca tra fonti interne e atti. Il capitolo precedente ha spiegato statuto e regolamenti; qui si vede come quelle fonti si traducono in organizzazione. Il capitolo successivo entrerà negli atti: deliberazioni, determinazioni, decreti, ordinanze e pareri.
 
 Il percorso corretto è:
 
@@ -110,11 +110,11 @@ L'organizzazione conta perché il Comune agisce tramite uffici. Gli organi polit
 
 In una prova scritta, questo emerge in tre modi.
 
-Il primo è il caso di sportello. Il cittadino presenta una richiesta e il candidato deve spiegare quale ufficio riceve, istruisce e conclude.
+Il primo è il caso di sportello: il cittadino presenta una richiesta e il candidato deve spiegare quale ufficio riceve, istruisce e conclude.
 
-Il secondo è il caso di servizio. L'ente deve organizzare un servizio comunale, applicare un regolamento, controllare requisiti, formare una graduatoria o comunicare un esito.
+Nel secondo caso l'ente deve organizzare un servizio comunale: applicare un regolamento, controllare requisiti, formare una graduatoria o comunicare un esito.
 
-Il terzo è il caso di gestione associata. Il bando o la traccia riguarda un'Unione, una convenzione o un servizio esercitato per più Comuni. In quel caso la risposta cambia: non basta dire "il Comune competente", bisogna capire quale ente gestisce il servizio e quale struttura adotta l'atto.
+Nel terzo caso il bando o la traccia riguarda una gestione associata: un'Unione, una convenzione o un servizio esercitato per più Comuni. Qui la risposta cambia: non basta dire "il Comune competente", bisogna capire quale ente gestisce il servizio e quale struttura adotta l'atto.
 
 La domanda da tenere sempre aperta è:
 
@@ -263,13 +263,13 @@ Molti Comuni, soprattutto piccoli e medi, esercitano funzioni e servizi in forma
 
 La gestione associata cambia almeno quattro elementi.
 
-Il primo è l'ente di riferimento. La pratica può essere gestita da un'Unione, da un ufficio comune o da una struttura che opera per più Comuni.
+Il primo riguarda l'ente di riferimento: la pratica può essere gestita da un'Unione, da un ufficio comune o da una struttura che opera per più Comuni.
 
-Il secondo è la fonte interna. Potrebbero essere rilevanti statuto e regolamenti dell'Unione, convenzioni tra enti o regolamenti del servizio associato.
+Il secondo riguarda la fonte interna: possono essere rilevanti lo statuto e i regolamenti dell'Unione, le convenzioni tra enti o il regolamento del servizio associato.
 
-Il terzo è l'organizzazione. L'ufficio può servire più territori e interagire con più amministrazioni.
+Il terzo riguarda l'organizzazione: l'ufficio può servire più territori e interagire con più amministrazioni.
 
-Il quarto è l'atto. Bisogna capire quale responsabile e quale ente adottano l'atto finale.
+Il quarto riguarda l'atto: bisogna capire quale responsabile e quale ente adottano l'atto finale.
 
 La domanda da concorso può essere semplice:
 
@@ -284,7 +284,7 @@ Quando il bando arriva da un'Unione di Comuni o da una gestione associata, bisog
 
 - il datore di lavoro o ente banditore è l'Unione?
 - il posto è destinato a un servizio associato?
-- il dipendente lavorera per più Comuni o per una struttura unica?
+- il dipendente lavorerà per più Comuni o per una struttura unica?
 - quali statuti, regolamenti o convenzioni disciplinano l'organizzazione?
 - il profilo richiede conoscenze su servizi specifici gestiti in forma associata?
 
@@ -362,14 +362,14 @@ La risposta corretta è:
 5. Nelle Unioni e nelle gestioni associate bisogna verificare ente gestore, fonti interne, ufficio competente e responsabile dell'atto.
 
 ### Domanda da commissario
-**Domanda:** Perché l'organizzazione degli uffici e dei servizi è importante nei concorsi comunali?
+Perché l'organizzazione degli uffici e dei servizi è importante nei concorsi comunali?
 
-**Risposta guida:** Perché consente di passare dalla norma al funzionamento concreto dell'ente. Il Comune non agisce in modo indistinto: ogni procedimento deve essere assegnato a un servizio, istruito da un ufficio e concluso con un atto del soggetto competente. L'organizzazione permette di distinguere indirizzo politico e gestione, di individuare il responsabile del procedimento o del servizio, di applicare regolamenti interni e di capire se il servizio è gestito direttamente dal Comune o in forma associata.
+Una risposta solida spiega che l'organizzazione consente di passare dalla norma al funzionamento concreto dell'ente. Il Comune non agisce in modo indistinto: ogni procedimento deve essere assegnato a un servizio, istruito da un ufficio e concluso con un atto del soggetto competente. L'organizzazione permette di distinguere indirizzo politico e gestione, di individuare il responsabile del procedimento o del servizio, di applicare regolamenti interni e di capire se il servizio è gestito direttamente dal Comune o in forma associata.
 
 ### Domanda-trappola
-**Domanda:** Se una pratica riguarda un servizio comunale, l'atto finale deve essere adottato dalla Giunta perché il servizio appartiene al Comune?
+Se una pratica riguarda un servizio comunale, l'atto finale deve essere adottato dalla Giunta perché il servizio appartiene al Comune?
 
-**Risposta:** No. Il fatto che il servizio sia comunale non attribuisce automaticamente la competenza alla Giunta. Bisogna distinguere l'atto di indirizzo o regolazione generale dall'atto gestionale. Molti atti relativi ai servizi comunali sono adottati dal dirigente o dal responsabile di servizio, secondo la disciplina dell'ente. La Giunta interviene solo quando la competenza rientra nel suo ambito e non quando si tratta di gestione concreta del singolo procedimento.
+No. Il fatto che il servizio sia comunale non attribuisce automaticamente la competenza alla Giunta. Bisogna distinguere l'atto di indirizzo o regolazione generale dall'atto gestionale. Molti atti relativi ai servizi comunali sono adottati dal dirigente o dal responsabile di servizio, secondo la disciplina dell'ente. La Giunta interviene solo quando la competenza rientra nel suo ambito e non quando si tratta di gestione concreta del singolo procedimento.
 
 ### Errore tipico
 L'errore più frequente è cercare subito l'organo politico quando il problema è organizzativo.
@@ -378,7 +378,7 @@ Esempio di risposta debole:
 
 > La domanda viene valutata dal Comune e la Giunta decide se accoglierla.
 
-La frase non individua ufficio, fonte, istruttoria, responsabile e atto. Inoltre attribuisce alla Giunta una decisione che potrebbe essere gestionale.
+La frase non individua ufficio, fonte, istruttoria, responsabile e atto, e attribuisce alla Giunta una decisione che potrebbe essere gestionale.
 
 Risposta più solida:
 
@@ -435,7 +435,7 @@ Soluzione attesa:
 - [[sources/vol-02-dossier-redazionale-enti-locali-polizia-locale|VOL-02 - dossier redazionale Enti locali e Polizia locale]]
 - [[sources/bandi-inpa-vol-02-campione-2026|Campione bandi inPA 2026 per VOL-02]]
 - [[entities/comune|Comune]]
-- Cfr. VOL-01 per pubblico impiego generale, procedimento amministrativo, accesso, trasparenza, privacy, CAD, contratti pubblici e principi comuni della pubblica amministrazione.
+- [[books/il-metodo-bando/index|VOL-01 — Il Metodo BANDO]] per pubblico impiego generale, procedimento amministrativo, accesso, trasparenza, privacy, CAD, contratti pubblici e principi comuni della pubblica amministrazione.
 
 ### Note di review
 - Prima della pubblicazione verificare sul testo vigente Normattiva eventuali citazioni puntuali del TUEL su Segretario, responsabili, dirigenza, Unioni e forme associative.

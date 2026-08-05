@@ -8,9 +8,13 @@ const readProjectFile = (relativePath: string) =>
 describe("canonical editorial typography", () => {
   it("keeps the shared book renderer on the Arial and Garamond scale", async () => {
     const css = await readProjectFile("app/globals.css")
+    const component = await readProjectFile("app/components/book-studio-panel.tsx")
 
     expect(css).toContain('--manual-serif: Garamond, "Adobe Garamond Pro", "EB Garamond"')
     expect(css).toContain("--manual-sans: Arial, Helvetica, sans-serif")
+    expect(css).toContain("--book-page-width: 6.69in")
+    expect(css).toContain("--book-page-height: 9.61in")
+    expect(css).toContain("--book-padding-inside: 23mm")
     expect(css).toMatch(/\.chapterPreviewHeader h2\s*\{[^}]*font-size:\s*20pt;[^}]*font-weight:\s*700;/)
     expect(css).toMatch(/\.previewBlocks\s*\{[^}]*font-family:\s*var\(--book-body\);[^}]*font-size:\s*11pt;[^}]*line-height:\s*1\.18;/)
     expect(css).toMatch(/\.previewBlocks h3\s*\{[^}]*font-size:\s*14pt;[^}]*font-weight:\s*700;/)
@@ -19,6 +23,8 @@ describe("canonical editorial typography", () => {
     expect(css).toMatch(/\.previewCallout\s*\{[^}]*font-family:\s*var\(--manual-sans\);/)
     expect(css).toMatch(/\.digitalServicesContent h3\s*\{[^}]*font-size:\s*14pt;/)
     expect(css).toMatch(/\.digitalServicesContent \.previewCallout p\s*\{[^}]*font-size:\s*9\.5pt;/)
+    expect(css).toMatch(/\.verificationHeading\s*\{[^}]*border:[^;}]*;[^}]*background:\s*#f2f2f2;[^}]*break-after:\s*avoid;/)
+    expect(component).toContain('block.verification ? "verificationHeading" : undefined')
   })
 
   it("keeps writers and reviewers aligned with the same canonical rule", async () => {

@@ -6,7 +6,6 @@ const sheet = (phases: string, extra = "") => `---
 volume_code: VOL-03
 volume_title: Funzioni centrali
 cut_off_date: 2026-07-27
-responsabile_normativo: Alberto Brando
 phases: [${phases}]
 ---
 
@@ -67,7 +66,13 @@ describe("buildStepDrafts", () => {
   it("runs volume-scoped steps once, after every module", () => {
     const steps = build("C,F")
     expect(steps.filter((step) => step.id === "22")).toHaveLength(1)
-    expect(steps.at(-1)?.id).toBe("23")
+    expect(steps.at(-1)?.id).toBe("24")
+  })
+  it("keeps setup steps before the module audit in protocol order", () => {
+    expect(build("A,B").map((step) => step.id)).toEqual(["00", "01", "02", "03", "04", "05", "06", "07", "05", "06", "07"])
+  })
+  it("preserves volume-module-volume ordering inside the visual phase", () => {
+    expect(build("E").map((step) => step.id)).toEqual(["17", "18", "18", "19", "20"])
   })
   it("gives volume-scoped steps the volume code as target", () => {
     expect(build("F")[0].target).toBe("VOL-03")

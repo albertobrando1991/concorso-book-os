@@ -45,7 +45,7 @@ Non deve promettere copertura totale di ogni bando o aggiornamento normativo aut
 ## Indice e piano di lavoro
 
 - [[books/vol-05-authority-regolazione/index|Indice analitico del VOL-05]]
-- [[books/moduli/m-fc05-authority-indipendenti/chapters/00-piano-editoriale|Piano editoriale del modulo]]
+- [[books/moduli/m-fc05-authority-indipendenti/planning/00-piano-editoriale|Piano editoriale del modulo]]
 - [[books/moduli/m-fc05-authority-indipendenti/chapters/01-authority-viste-dal-candidato|Capitolo 1 — Le authority viste dal candidato]]
 
 Il modulo M-FC05 è un volume unico con cinque moduli interni. Il front matter di collana compare una sola volta nel volume; i moduli interni aprono solo con frontespizio e sommario.

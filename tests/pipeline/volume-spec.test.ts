@@ -1,4 +1,8 @@
+import { mkdir, mkdtemp, rm, writeFile } from "node:fs/promises"
+import os from "node:os"
+import path from "node:path"
 import { describe, expect, it } from "vitest"
+import { loadVolumeSpec } from "../../src/pipeline/spec/load-volume-spec"
 import { parseVolumeSpec } from "../../src/pipeline/spec/parse-volume-spec"
 import { validateVolumeSpec } from "../../src/pipeline/spec/validate-volume-spec"
 
@@ -8,8 +12,6 @@ type: pipeline_spec
 volume_code: VOL-03
 volume_title: Funzioni centrali, Fisco, Previdenza e Ispettivo
 cut_off_date: 2026-07-27
-responsabile_normativo: Alberto Brando
-responsabile_editoriale: Alberto Brando
 writer_provider: codex
 phases: [C, D, F]
 ---
@@ -23,10 +25,10 @@ phases: [C, D, F]
 
 ## Capitoli M-FC02
 
-| # | File | Matrice | Stato atteso | Note |
-| --- | --- | --- | --- | --- |
-| 01 | chapters/01-perimetro.md | planning/02-matrice-copertura-didattica.md | completo | |
-| 02 | chapters/02-tributi.md | planning/02-matrice-copertura-didattica.md | completo | rivedere soglie |
+| # | Titolo | File | Matrice | Stato atteso | Note |
+| --- | --- | --- | --- | --- | --- |
+| 01 | Perimetro delle Agenzie fiscali | chapters/01-perimetro.md | planning/02-matrice-copertura-didattica.md | completo | |
+| 02 | Tributi e procedimenti | chapters/02-tributi.md | planning/02-matrice-copertura-didattica.md | completo | rivedere soglie |
 `
 
 const parse = (markdown: string) => parseVolumeSpec(markdown, specPath)
@@ -38,8 +40,6 @@ describe("parseVolumeSpec", () => {
       volumeCode: "VOL-03",
       volumeTitle: "Funzioni centrali, Fisco, Previdenza e Ispettivo",
       cutOffDate: "2026-07-27",
-      responsabileNormativo: "Alberto Brando",
-      responsabileEditoriale: "Alberto Brando",
       writerProvider: "codex",
       phases: ["C", "D", "F"],
       specPath
@@ -55,8 +55,8 @@ describe("parseVolumeSpec", () => {
     const [module] = parse(complete).modules
     expect(module.chaptersSource).toBe("declared")
     expect(module.chapters).toEqual([
-      { number: "01", file: "chapters/01-perimetro.md", matrix: "planning/02-matrice-copertura-didattica.md", expectedStatus: "completo", notes: "" },
-      { number: "02", file: "chapters/02-tributi.md", matrix: "planning/02-matrice-copertura-didattica.md", expectedStatus: "completo", notes: "rivedere soglie" }
+      { number: "01", title: "Perimetro delle Agenzie fiscali", file: "chapters/01-perimetro.md", matrix: "planning/02-matrice-copertura-didattica.md", expectedStatus: "completo", notes: "" },
+      { number: "02", title: "Tributi e procedimenti", file: "chapters/02-tributi.md", matrix: "planning/02-matrice-copertura-didattica.md", expectedStatus: "completo", notes: "rivedere soglie" }
     ])
   })
   it("marks chapters as derived when the module has no chapter table", () => {
@@ -70,6 +70,14 @@ describe("parseVolumeSpec", () => {
   it("returns empty values instead of throwing when the sheet is unusable", () => {
     expect(parse("prosa senza frontmatter")).toMatchObject({ volumeCode: "", modules: [], phases: [] })
   })
+  it("reads optional chapter-specific word and quiz thresholds", () => {
+    const markdown = complete
+      .replace("| # | Titolo | File | Matrice | Stato atteso | Note |", "| # | Titolo | File | Matrice | Stato atteso | Min parole | Min quiz | Note |")
+      .replace("| --- | --- | --- | --- | --- | --- |", "| --- | --- | --- | --- | --- | --- | --- | --- |")
+      .replace("| 01 | Perimetro delle Agenzie fiscali | chapters/01-perimetro.md | planning/02-matrice-copertura-didattica.md | completo | |", "| 01 | Perimetro delle Agenzie fiscali | chapters/01-perimetro.md | planning/02-matrice-copertura-didattica.md | completo | 3600 | 9 | laboratorio |")
+
+    expect(parse(markdown).modules[0].chapters[0]).toMatchObject({ minWords: 3600, minQuizzes: 9, notes: "laboratorio" })
+  })
 })
 
 describe("validateVolumeSpec", () => {
@@ -79,8 +87,7 @@ describe("validateVolumeSpec", () => {
   it.each([
     ["volume_code", "volumeCode"],
     ["volume_title", "volumeTitle"],
-    ["cut_off_date", "cutOffDate"],
-    ["responsabile_normativo", "responsabileNormativo"]
+    ["cut_off_date", "cutOffDate"]
   ])("reports the missing mandatory field %s", (frontmatterKey, field) => {
     const markdown = complete.replace(new RegExp(`^${frontmatterKey}:.*$`, "m"), `${frontmatterKey}:`)
     expect(issueFields(markdown)).toContain(field)
@@ -122,8 +129,63 @@ describe("validateVolumeSpec", () => {
   it("rejects a chapter file that is not markdown", () => {
     expect(issueFields(complete.replace("chapters/01-perimetro.md", "chapters/01-perimetro.docx"))).toContain("modules[0].chapters[0].file")
   })
+  it("requires a public title for every explicitly declared chapter", () => {
+    const markdown = complete.replace("Perimetro delle Agenzie fiscali", "")
+    expect(issueFields(markdown)).toContain("modules[0].chapters[0].title")
+  })
   it("points at the sheet line of the offending row", () => {
     const issue = validateVolumeSpec(parse(complete.replace("| M-FC02 |", "| FC02 |"))).find((item) => item.field === "modules[0].code")
-    expect(issue?.line).toBe(16)
+    const expectedLine = complete.split("\n").findIndex((line) => line.startsWith("| M-FC02 |")) + 1
+    expect(issue?.line).toBe(expectedLine)
+  })
+  it.each([
+    ["Min parole", "0", "minWords"],
+    ["Min parole", "3.5", "minWords"],
+    ["Min quiz", "molti", "minQuizzes"]
+  ])("rejects the invalid optional threshold %s=%s", (column, value, field) => {
+    const markdown = complete
+      .replace("| # | Titolo | File | Matrice | Stato atteso | Note |", `| # | Titolo | File | Matrice | Stato atteso | ${column} | Note |`)
+      .replace("| --- | --- | --- | --- | --- | --- |", "| --- | --- | --- | --- | --- | --- | --- |")
+      .replace("| 01 | Perimetro delle Agenzie fiscali | chapters/01-perimetro.md | planning/02-matrice-copertura-didattica.md | completo | |", `| 01 | Perimetro delle Agenzie fiscali | chapters/01-perimetro.md | planning/02-matrice-copertura-didattica.md | completo | ${value} | |`)
+
+    expect(issueFields(markdown)).toContain(`modules[0].chapters[0].${field}`)
+  })
+  it("does not require reviewer names during opening or automated work", () => {
+    const markdown = complete.replace("phases: [C, D, F]", "phases: [B, C, D, F]")
+
+    expect(issueFields(markdown)).not.toContain("humanReviews")
+  })
+})
+
+describe("loadVolumeSpec derived chapters", () => {
+  it("does not derive a legacy editorial plan as a chapter target", async () => {
+    const root = await mkdtemp(path.join(os.tmpdir(), "pipeline-derived-chapters-"))
+
+    try {
+      await mkdir(path.join(root, "books/volumi/vol-03/planning"), { recursive: true })
+      await mkdir(path.join(root, "books/moduli/m-fc01-ministeri/chapters"), { recursive: true })
+      await writeFile(
+        path.join(root, "books/volumi/vol-03/planning/00-scheda-pipeline.md"),
+        complete.replace(/## Capitoli M-FC02[\s\S]*$/, ""),
+        "utf8"
+      )
+      await writeFile(
+        path.join(root, "books/moduli/m-fc01-ministeri/chapters/00-piano-editoriale.md"),
+        "---\ntype: module_plan\ntitle: Piano editoriale\n---\n# Piano editoriale",
+        "utf8"
+      )
+      await writeFile(
+        path.join(root, "books/moduli/m-fc01-ministeri/chapters/01-ministeri.md"),
+        "---\ntype: book_chapter\ntitle: Ministeri\noutline_section: 1\n---\n# Ministeri",
+        "utf8"
+      )
+
+      const loaded = await loadVolumeSpec({ wikiRoot: root, volumeCode: "VOL-03" })
+      const module = loaded.spec.modules.find((item) => item.code === "M-FC01")
+
+      expect(module?.chapters.map((chapter) => chapter.file)).toEqual(["chapters/01-ministeri.md"])
+    } finally {
+      await rm(root, { recursive: true, force: true })
+    }
   })
 })

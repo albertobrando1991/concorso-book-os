@@ -56,7 +56,7 @@ Il candidato deve arrivare a tre risultati:
 | 14 | 17 | [[books/moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali|Laboratorio teorico-pratico per i quattro profili comunali]] | Integra amministrativo, contabile, tecnico di interfaccia e servizi locali. | Simulazioni per profilo. |
 
 ## Capitoli di lavoro
-- [[books/moduli/m-fl01-comuni-unioni/chapters/00-piano-editoriale|Piano editoriale del modulo]]
+- [[books/moduli/m-fl01-comuni-unioni/planning/00-piano-editoriale|Piano editoriale del modulo]]
 1. [[books/moduli/m-fl01-comuni-unioni/chapters/01-tuel-operativo-autonomia-organi-funzioni-comune|TUEL operativo: autonomia, organi e funzioni del Comune]]
 2. [[books/moduli/m-fl01-comuni-unioni/chapters/02-statuto-regolamenti-autonomia-normativa-locale|Statuto, regolamenti e autonomia normativa locale]]
 3. [[books/moduli/m-fl01-comuni-unioni/chapters/03-organizzazione-comunale-uffici-servizi-gestioni-associate|Organizzazione comunale, uffici, servizi e gestioni associate]]

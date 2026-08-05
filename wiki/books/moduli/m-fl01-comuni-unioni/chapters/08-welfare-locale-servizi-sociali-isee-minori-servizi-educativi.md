@@ -6,70 +6,45 @@ status: revised_draft
 domain: "concorsi pubblici italiani"
 topics: ["enti locali", "welfare locale", "servizi sociali", "servizi educativi", "isee", "dsu", "minori", "famiglie", "ambiti territoriali sociali", "leps", "privacy", "metodo bando"]
 entities: ["Comune", "Regione", "Ambito territoriale sociale", "INPS", "Ministero del lavoro e delle politiche sociali", "Dipartimento per le politiche della famiglia", "Terzo settore", "Metodo BANDO"]
-source_refs: ["sources/servizi-sociali-educativi-enti-locali.md", "sources/d-p-r-28-dicembre-2000-n-445-documentazione-amministrativa.md", "sources/d-lgs-30-giugno-2003-n-196-codice-privacy-e-d-lgs-101-2018-adeguamento-gdpr.md", "sources/regolamento-ue-2016-679-gdpr-protezione-dati-personali.md", "sources/bandi-inpa-vol-02-campione-2026.md"]
+source_refs: ["sources/servizi-sociali-educativi-enti-locali.md", "sources/legge-7-agosto-1990-n-241-procedimento-amministrativo-e-accesso-ai-documenti-amministrativi-testo-vigente-normattiva.md", "sources/d-p-r-28-dicembre-2000-n-445-documentazione-amministrativa.md", "sources/d-lgs-30-giugno-2003-n-196-codice-privacy-e-d-lgs-101-2018-adeguamento-gdpr.md", "sources/regolamento-ue-2016-679-gdpr-protezione-dati-personali.md", "sources/bandi-inpa-vol-02-campione-2026.md"]
 book_refs: ["m-fl01-comuni-unioni", "vol-02-enti-locali-polizia-locale", "il-metodo-bando"]
 confidence: 0.84
-updated_at: 2026-07-17T23:45:00+02:00
+updated_at: 2026-08-05T16:20:00+02:00
 created_at: 2026-07-17T16:30:00+02:00
 review_required: true
 canonical: true
-tags: ["book-chapter", "module-code-m-fl01", "professional-draft", "welfare-locale"]
+tags: ["book-chapter", "module-code-m-fl01", "professional-draft", "welfare-locale", "pipeline-step-09"]
 book_id: m-fl01-comuni-unioni
 outline_section: 8
 volume_chapter: 11
-draft_stage: professional-draft
+draft_stage: written
+format_version: 2
+dati_operativi: []
 module_code: M-FL01
 module_family: funzioni-locali
 companion_to: il-metodo-bando
-last_compiled_from: ["wiki/books/moduli/m-fl01-comuni-unioni/index.md", "wiki/books/moduli/m-fl01-comuni-unioni/chapters/05-procedimento-locale-protocollo-albo-urp-accesso.md", "wiki/books/moduli/m-fl01-comuni-unioni/chapters/06-servizi-digitali-comunali-cad-anpr-gestione-documentale.md", "wiki/books/moduli/m-fl01-comuni-unioni/chapters/07-servizi-demografici-elettorali.md", "wiki/sources/servizi-sociali-educativi-enti-locali.md", "wiki/sources/d-p-r-28-dicembre-2000-n-445-documentazione-amministrativa.md", "wiki/sources/d-lgs-30-giugno-2003-n-196-codice-privacy-e-d-lgs-101-2018-adeguamento-gdpr.md", "wiki/topics/welfare-locale-servizi-sociali-educativi.md", "wiki/topics/privacy-e-protezione-dati.md", "wiki/entities/comune.md", "wiki/entities/regione.md"]
+last_compiled_from: ["wiki/reviews/pipeline/VOL-02/08-piano-m-fl01-cap08.md", "wiki/books/vol-02-enti-locali-polizia-locale/planning/00-scheda-pipeline.md", "wiki/books/vol-02-enti-locali-polizia-locale/planning/02-matrice-copertura-didattica.md", "wiki/books/moduli/m-fl01-comuni-unioni/index.md", "wiki/books/moduli/m-fl01-comuni-unioni/planning/02-matrice-copertura-didattica.md", "wiki/books/moduli/m-fl01-comuni-unioni/chapters/05-procedimento-locale-protocollo-albo-urp-accesso.md", "wiki/books/moduli/m-fl01-comuni-unioni/chapters/07-servizi-demografici-elettorali.md", "wiki/books/moduli/m-fl01-comuni-unioni/chapters/09-programmazione-integrata-comunale-dup-bilancio-peg-piao-performance.md", "wiki/sources/servizi-sociali-educativi-enti-locali.md", "wiki/sources/legge-7-agosto-1990-n-241-procedimento-amministrativo-e-accesso-ai-documenti-amministrativi-testo-vigente-normattiva.md", "wiki/sources/d-p-r-28-dicembre-2000-n-445-documentazione-amministrativa.md", "wiki/sources/d-lgs-30-giugno-2003-n-196-codice-privacy-e-d-lgs-101-2018-adeguamento-gdpr.md", "wiki/sources/regolamento-ue-2016-679-gdpr-protezione-dati-personali.md", "wiki/sources/bandi-inpa-vol-02-campione-2026.md", "wiki/topics/welfare-locale-servizi-sociali-educativi.md", "wiki/topics/privacy-e-protezione-dati.md", "wiki/entities/comune.md", "wiki/entities/regione.md"]
 ---
 
 # Welfare locale, servizi sociali, ISEE, minori e servizi educativi
 
-## Specifica struttura madre
+## Obiettivo del capitolo
 
-### Obiettivo
-Spiegare il welfare locale con taglio amministrativo: accesso, istruttoria, beneficio, dati personali particolari, controlli e rapporti tra Comune, ambito territoriale sociale e Regione.
-
-### Nuclei
-- Sistema integrato di interventi e servizi sociali.
-- Ruolo del Comune, dell'ambito territoriale sociale e della Regione.
-- ISEE come indicatore ricorrente nelle procedure di accesso ai benefici.
-- Servizi educativi e sistema integrato 0-6 in chiave comunale.
-- Minori, fragilità, categorie particolari di dati personali e riservatezza.
-
-### Output operativo
-Caso presa in carico/beneficio, check-list istruttoria, domanda situazionale su dati personali e rapporto con il cittadino.
-
-### Riferimenti consolidati
-- [[sources/servizi-sociali-educativi-enti-locali]]
-- [[sources/d-p-r-28-dicembre-2000-n-445-documentazione-amministrativa]]
-- [[sources/d-lgs-30-giugno-2003-n-196-codice-privacy-e-d-lgs-101-2018-adeguamento-gdpr]]
-- [[sources/regolamento-ue-2016-679-gdpr-protezione-dati-personali]]
-- [[topics/welfare-locale-servizi-sociali-educativi]]
-- [[topics/privacy-e-protezione-dati]]
-- [[entities/comune]]
-- [[entities/regione]]
-
-## Scheda di lavoro
-Il capitolo resta amministrativo. Non sostituisce un manuale di servizio sociale, non entra nella valutazione professionale dell'assistente sociale e non pretende di riassumere tutte le discipline regionali. Prepara invece il candidato a gestire il lato comunale del welfare: avvisi, domande, requisiti, ISEE, istruttoria, graduatorie, concessioni, dinieghi, controlli, comunicazioni, trattamento dei dati e rapporti con ambito territoriale sociale, Regione, INPS e terzo settore.
-
-La domanda guida è:
-
-> quando una persona fragile, una famiglia o un minore accede a un servizio comunale, quali passaggi amministrativi rendono il sostegno corretto, tracciabile, motivato e rispettoso della riservatezza?
-
-## Testo editoriale
-
-### Apertura editoriale
 Il welfare locale è uno dei punti in cui il Comune incontra bisogni reali: povertà, disabilità, non autosufficienza, minori, famiglie, servizi educativi, casa, contributi, sostegni alla frequenza, presa in carico. Per questo è anche uno degli ambiti più delicati nei concorsi comunali.
 
-Il candidato amministrativo non deve sostituirsi all'assistente sociale, all'educatore, allo psicologo o al dirigente dei servizi alla persona. Deve però sapere come si governa una pratica: chi presenta domanda, quali requisiti si verificano, quando serve ISEE, come si forma una graduatoria, come si concede o nega un beneficio, quali controlli sono possibili, quali dati si possono trattare, quali comunicazioni vanno fatte, quale atto conclude il procedimento.
+Il profilo amministrativo non sostituisce l'assistente sociale, l'educatore, lo psicologo o il dirigente dei servizi alla persona. Presidia invece il governo della pratica: domanda, requisiti, ISEE, graduatoria, beneficio o diniego, controlli, dati, comunicazioni e atto conclusivo.
 
-La risposta debole riduce tutto a una frase: "il Comune aiuta le persone fragili". La risposta forte spiega il sistema: servizi sociali integrati, ambiti territoriali, programmazione regionale, LEPS, ISEE, regolamenti comunali, avvisi pubblici, istruttoria, progetto individuale o familiare, tutela dei minori, servizi educativi, privacy e controllo sull'uso delle risorse.
+Dire che "il Comune aiuta le persone fragili" non basta. Una risposta completa ricostruisce il sistema: servizi integrati, ambiti territoriali, programmazione regionale, LEPS, ISEE, regole di accesso, istruttoria, progetto individuale o familiare, tutela dei minori, servizi educativi, privacy e controllo delle risorse.
 
-Nel lavoro comunale il welfare non è solo solidarietà. È amministrazione pubblica applicata a situazioni vulnerabili. Proprio per questo richiede più rigore, non meno rigore: una domanda incompleta, una graduatoria poco motivata, un dato sanitario diffuso senza base giuridica, una comunicazione frettolosa a un terzo, una verifica ISEE superficiale o un diniego non motivato possono produrre danni concreti.
+Nel lavoro comunale solidarietà e amministrazione procedono insieme. Le situazioni vulnerabili richiedono regole chiare e particolare attenzione: una domanda incompleta, una graduatoria poco motivata, la diffusione illecita di un dato sanitario, una comunicazione al soggetto sbagliato, una verifica ISEE superficiale o un diniego immotivato possono produrre danni concreti.
 
-### Obiettivo del capitolo
+Il capitolo resta amministrativo. Non sostituisce un manuale di servizio sociale, non entra nella valutazione professionale dell'assistente sociale e non pretende di riassumere tutte le discipline regionali. Prepara invece il candidato a gestire avvisi, domande, requisiti, ISEE, istruttoria, graduatorie, concessioni, dinieghi, controlli, comunicazioni e trattamento dei dati.
+
+La domanda guida è questa:
+
+> Quando una persona fragile, una famiglia o un minore accede a un servizio comunale, quali passaggi amministrativi rendono il sostegno corretto, tracciabile, motivato e rispettoso della riservatezza?
+
+### Risultati di apprendimento
 Al termine del capitolo devi saper fare dieci operazioni:
 
 1. spiegare che cosa si intende per welfare locale nel contesto comunale;
@@ -81,9 +56,9 @@ Al termine del capitolo devi saper fare dieci operazioni:
 7. descrivere il sistema integrato 0-6 e i servizi educativi in chiave comunale;
 8. trattare minori, fragilità e dati personali con linguaggio amministrativo corretto;
 9. risolvere un caso guidato su beneficio comunale o servizio educativo;
-10. rispondere alla domanda-trappola: il servizio sociale è pura discrezionalita?
+10. rispondere alla domanda-trappola: il servizio sociale è pura discrezionalità?
 
-Il punto da ricordare è:
+In sintesi:
 
 > il welfare locale è aiuto pubblico organizzato: richiede ascolto e presa in carico, ma anche regole, istruttoria, motivazione, controlli e protezione dei dati.
 
@@ -94,7 +69,7 @@ Studia il capitolo con una griglia a cinque colonne:
 | --- | --- | --- |
 | Bisogno | Quale situazione emerge? | Povertà, minore, disabilità, non autosufficienza, famiglia, accesso al nido. |
 | Canale | Come entra la domanda? | Sportello sociale, avviso, domanda online, segnalazione, accesso professionale. |
-| Requisiti | Che cosa verifica l'ufficio? | Residenza, eta, nucleo, ISEE, priorità, documenti, condizioni dichiarate. |
+| Requisiti | Che cosa verifica l'ufficio? | Residenza, età, nucleo, ISEE, priorità, documenti, condizioni dichiarate. |
 | Decisione | Quale output produce il Comune? | Ammissione, graduatoria, beneficio, compartecipazione, diniego, presa in carico. |
 | Tutele | Quali cautele servono? | Privacy, minori, motivazione, controlli, trasparenza nei limiti di legge. |
 
@@ -103,9 +78,9 @@ Questa griglia evita due errori:
 - trasformare il welfare in pura compassione, senza procedimento;
 - trasformarlo in burocrazia fredda, senza comprendere la vulnerabilità del destinatario.
 
-La risposta da concorso deve tenere insieme entrambe le dimensioni.
+Una buona risposta da concorso tiene insieme entrambe le dimensioni.
 
-### Mappa BANDO del capitolo
+## Mappa BANDO
 
 | Fase | Domanda operativa | Output atteso |
 | --- | --- | --- |
@@ -124,9 +99,11 @@ La domanda tipica non sarà sempre teorica. Può essere:
 - "Un richiedente contesta la graduatoria";
 - "Un ufficio chiede dati sanitari o sociali per istruire una pratica".
 
-In tutti questi casi la risposta efficace parte dal procedimento.
+La situazione concreta cambia, ma l'analisi comincia sempre dal procedimento e dalla fonte che lo disciplina.
 
-### Welfare locale: che cosa significa
+## N-FL01-08-01 · Sistema integrato e governance del welfare locale
+
+### Welfare locale: significato e funzione
 Per welfare locale si intende l'insieme degli interventi, servizi, misure e procedure attraverso cui il Comune e il sistema territoriale rispondono a bisogni sociali, educativi e familiari della popolazione.
 
 La cornice generale è il sistema integrato di interventi e servizi sociali, fondato sulla L. 328/2000. Nel tempo questo sistema si è intrecciato con piani nazionali, programmazione regionale, ambiti territoriali sociali, LEPS, misure di contrasto alla povertà, terzo settore e servizi educativi.
@@ -147,7 +124,7 @@ Nel lavoro di un Comune il welfare può riguardare:
 
 Non tutto è gestito direttamente dal singolo Comune. Spesso intervengono ambiti territoriali sociali, aziende speciali, unioni, convenzioni, soggetti del terzo settore, cooperative, istituzioni scolastiche, ASL, Regione e amministrazioni statali.
 
-La competenza del candidato è riconoscere la rete. Il Comune non è solo erogatore materiale: è anche punto di accesso, regolatore, programmatore, controllore, committente, soggetto che tutela l'utente e responsabile del procedimento amministrativo.
+Per risolvere i casi occorre riconoscere questa rete. Il Comune può gestire direttamente un servizio, ma può anche curare l'accesso, programmare gli interventi, regolare le procedure, controllare i gestori e tutelare gli utenti. In ogni ruolo deve presidiare il procedimento amministrativo di propria competenza.
 
 ### Sistema integrato di interventi e servizi sociali
 La L. 328/2000 è la fonte da citare quando si vuole inquadrare il welfare come sistema integrato. Il suo valore per il concorso non sta nel memorizzare ogni articolo, ma nel capire la logica:
@@ -159,7 +136,7 @@ La L. 328/2000 è la fonte da citare quando si vuole inquadrare il welfare come 
 - pubblico, privato sociale, famiglie e comunità possono concorrere alla risposta;
 - il cittadino non è solo destinatario passivo, ma persona titolare di diritti e bisogni da valutare.
 
-In una risposta orale puoi dire:
+Una possibile formulazione orale è questa:
 
 > La L. 328/2000 imposta il sistema integrato di interventi e servizi sociali. Per il Comune significa che il servizio sociale non è un insieme di interventi occasionali, ma un sistema programmato, coordinato con Regione e ambiti territoriali, aperto alla collaborazione con il terzo settore e gestito tramite procedure amministrative, progetti e controlli.
 
@@ -172,7 +149,7 @@ Questa formulazione è utile perché distingue tre piani:
 Il welfare locale, infatti, non si esaurisce nell'atto finale. Prima dell'atto c'è programmazione. Dopo l'atto ci sono monitoraggio, rendicontazione e controllo.
 
 ### Comune, ambito territoriale sociale e Regione
-Il candidato deve evitare una risposta "comune-centrica" troppo semplice. Nei servizi sociali il Comune ha un ruolo fondamentale, ma non agisce sempre da solo.
+Una lettura esclusivamente comunale sarebbe incompleta. Nei servizi sociali il Comune ha un ruolo centrale, ma spesso opera con altri livelli e soggetti.
 
 La Regione definisce indirizzi, programmazione, standard, riparto di risorse, disciplina dei servizi e raccordo con la rete territoriale secondo il proprio ordinamento. Il Comune gestisce servizi, accesso, interventi, regolamenti, procedimenti e rapporti con cittadini e soggetti gestori. L'ambito territoriale sociale è il livello organizzativo in cui più Comuni possono programmare e gestire funzioni sociali in forma coordinata, anche per garantire servizi più omogenei e capacità amministrativa.
 
@@ -190,7 +167,7 @@ Schema sintetico:
 | Terzo settore | Collaborazione, gestione o attuazione di interventi secondo regole pubbliche. | Confondere sussidiarietà con assenza di procedimento. |
 
 ### LEPS e Piano nazionale dei servizi sociali
-Negli ultimi anni nei concorsi compare sempre più spesso la sigla LEPS: livelli essenziali delle prestazioni sociali. Il candidato non deve trasformarla in una formula vuota.
+Nei concorsi ricorre la sigla LEPS, livelli essenziali delle prestazioni sociali. Conoscerne l'espansione non basta: occorre spiegarne l'effetto sull'organizzazione dei servizi.
 
 I LEPS indicano prestazioni o servizi da garantire in modo omogeneo sul territorio nazionale, nei limiti e secondo le modalità previste dalla normativa e dalla programmazione. Il Piano nazionale degli interventi e dei servizi sociali 2024-2026, adottato con decreto interministeriale del 2 aprile 2025, richiama questa logica e orienta l'uso delle risorse nazionali, in raccordo con Regioni ed enti locali.
 
@@ -202,9 +179,11 @@ Per un profilo comunale non occorre recitare l'elenco dei LEPS; occorre comprend
 - i servizi vanno monitorati;
 - i procedimenti locali devono essere coerenti con piani, fondi e indirizzi.
 
-Risposta breve:
+Una formulazione sintetica:
 
 > I LEPS servono a orientare l'omogeneità minima delle prestazioni sociali sul territorio. Per il Comune e per l'ambito non sono uno slogan, ma un vincolo di programmazione, organizzazione, monitoraggio e uso corretto delle risorse, da coordinare con la disciplina regionale e con gli atti locali.
+
+## N-FL01-08-02 · Accesso, ISEE, DSU e controlli
 
 ### Accesso al servizio: domanda, requisiti, ISEE, istruttoria
 Il cuore amministrativo del welfare locale è l'accesso.
@@ -224,35 +203,31 @@ La sequenza ordinaria è:
 9. comunicazione all'interessato;
 10. controlli successivi, rendicontazione e conservazione del fascicolo.
 
-Il candidato deve distinguere tre livelli:
+Nell'istruttoria vanno separati tre livelli:
 
 - il bisogno sociale, che richiede ascolto e valutazione;
 - il requisito amministrativo, che permette o impedisce l'accesso;
 - la decisione amministrativa, che deve essere motivata e tracciabile.
 
-L'affermazione "si valuta il caso" è generica. La risposta deve indicare chi valuta, che cosa valuta, quale fonte applica e quale atto conclude il procedimento.
+La formula "si valuta il caso" è troppo generica. Occorre indicare chi valuta, quale oggetto esamina, quale fonte applica e quale atto conclude il procedimento.
 
 ### ISEE: indicatore, non diritto automatico
 L'ISEE è l'Indicatore della Situazione Economica Equivalente. Serve a valutare e confrontare la situazione economica dei nuclei familiari che richiedono prestazioni sociali agevolate. La disciplina di base è il D.P.C.M. 5 dicembre 2013, n. 159, con aggiornamenti successivi; l'attestazione si ottiene attraverso la DSU, Dichiarazione Sostitutiva Unica.
 
-Per il candidato comunale sono fondamentali cinque idee.
+Per un profilo comunale valgono cinque regole.
 
-Prima: l'ISEE non è un beneficio. È un indicatore.
-
-Seconda: un ISEE basso non produce automaticamente il diritto a ogni prestazione. Serve verificare il bando, il regolamento, i requisiti, le risorse disponibili e l'eventuale graduatoria.
-
-Terza: possono esistere ISEE diversi in relazione a specifiche prestazioni, come ISEE minorenni, socio-sanitario, universitario o corrente, secondo la disciplina applicabile.
-
-Quarta: la DSU contiene dichiarazioni e dati precompilati o acquisiti, ed è collegata alla logica delle dichiarazioni sostitutive e dei controlli.
-
-Quinta: nel 2026 le fonti ufficiali hanno confermato aggiornamenti ai modelli DSU e alle attestazioni ISEE. Per la prova e per la pubblicazione finale è necessario verificare la versione vigente delle istruzioni INPS e ministeriali.
+1. L'ISEE non è un beneficio, ma un indicatore.
+2. Un valore basso non produce automaticamente il diritto a ogni prestazione. L'ufficio applica avviso o regolamento, controlla gli altri requisiti e considera risorse e graduatoria.
+3. La disciplina prevede ISEE differenti per specifiche prestazioni, tra cui quello per minorenni, quello socio-sanitario, quello universitario e quello corrente.
+4. La DSU combina dichiarazioni del cittadino e dati acquisiti secondo le regole applicabili; resta inserita nel sistema delle dichiarazioni sostitutive e dei controlli.
+5. Modelli e istruzioni possono cambiare. Per l'anno della prova occorre usare la versione vigente pubblicata da INPS e dalle amministrazioni competenti.
 
 Formula da usare all'orale:
 
 > L'ISEE è uno strumento di misurazione della condizione economica del nucleo familiare, usato per l'accesso a prestazioni sociali agevolate, tariffe differenziate o soglie di ammissione. Non attribuisce da solo il beneficio: l'ufficio deve applicare la disciplina del servizio, verificare requisiti, risorse, graduatoria e controlli.
 
 ### DSU, controlli e responsabilità
-La DSU è una dichiarazione sostitutiva. Questo significa che il cittadino dichiara informazioni rilevanti, l'amministrazione le utilizza secondo le regole e restano possibili controlli.
+La DSU è una dichiarazione sostitutiva: il cittadino dichiara informazioni rilevanti, l'amministrazione le usa secondo le regole applicabili e può svolgere i controlli previsti.
 
 Nel procedimento comunale l'operatore deve chiedersi:
 
@@ -264,13 +239,15 @@ Nel procedimento comunale l'operatore deve chiedersi:
 - il regolamento prevede controlli a campione o controlli mirati?
 - in caso di irregolarità, quali effetti sono previsti?
 
-La risposta professionale evita due estremi.
+Due scorciatoie portano fuori strada: concedere il beneficio per la sola presenza dell'ISEE oppure chiedere qualsiasi documento sembri utile. L'ufficio acquisisce solo ciò che serve, usa i dati ottenibili d'ufficio, rispetta la proporzionalità e svolge i controlli previsti.
 
-Primo estremo: "se c'è ISEE, si concede". Errato.
+### Schema operativo: leggere l'ISEE dentro il procedimento
 
-Secondo estremo: "l'ufficio può chiedere qualunque documento". Errato.
+Per non trasformare l'indicatore in una risposta automatica, usa una sequenza in quattro domande. **Quale prestazione?** Individua il servizio, la misura o l'agevolazione richiesta. **Quale ISEE?** Verifica che l'attestazione sia quella prevista per la prestazione e sia utilizzabile nel periodo considerato. **Quali altri requisiti?** Controlla residenza, composizione del nucleo, condizioni soggettive, termine e documentazione secondo la disciplina applicabile. **Quale effetto?** Stabilisci se l'ISEE opera come soglia, fascia tariffaria, punteggio o criterio di priorità.
 
-L'ufficio deve chiedere ciò che serve, acquisire ciò che può acquisire d'ufficio, rispettare il principio di proporzionalità e controllare nei limiti previsti.
+Esempio: due famiglie possono avere lo stesso valore ISEE e ottenere esiti diversi se cambiano i requisiti del servizio, il punteggio complessivo, la tempestività della domanda o la disponibilità dei posti. La motivazione deve quindi mostrare non solo il valore acquisito, ma anche la regola applicata e il rapporto con gli altri elementi dell'istruttoria.
+
+## N-FL01-08-03 · Atti, presa in carico e tutela di minori e famiglie
 
 ### Atti tipici del welfare locale
 Nel welfare locale le parole contano. "Contributo", "servizio", "beneficio", "presa in carico", "graduatoria" e "progetto" non sono sinonimi.
@@ -315,7 +292,7 @@ Quando la presa in carico porta a un beneficio economico, a un servizio, a un in
 - eventuali obblighi del beneficiario;
 - monitoraggio.
 
-Questa distinzione è decisiva nelle prove situazionali.
+Nelle prove situazionali, confondere questi piani porta a invadere competenze oppure a lasciare la decisione priva di base amministrativa.
 
 ### Minori e famiglie
 I minori richiedono una cautela specifica. Non perché ogni pratica minorile sia identica, ma perché il trattamento amministrativo incide su diritti, protezione, sviluppo, relazioni familiari, scuola, salute e sicurezza.
@@ -331,11 +308,19 @@ Nel contesto comunale il tema può comparire in molti modi:
 - accesso a misure nazionali o locali;
 - gestione di dati particolarmente delicati.
 
-Il candidato deve usare un linguaggio prudente. Non deve dire che il Comune "decide tutto" sul minore. Deve dire che il Comune, attraverso i servizi competenti e in raccordo con gli altri soggetti istituzionali, concorre alla tutela e al sostegno secondo le norme, le competenze e i procedimenti applicabili.
+Nei casi che riguardano minori serve un linguaggio preciso. Il Comune non "decide tutto": attraverso i servizi competenti concorre alla tutela e al sostegno, in raccordo con gli altri soggetti istituzionali e nei limiti delle rispettive competenze.
 
 Frase utile:
 
 > Nei procedimenti che riguardano minori l'ufficio deve tenere insieme interesse del minore, competenza del servizio, riservatezza, coinvolgimento degli esercenti la responsabilità genitoriale quando previsto, e raccordo con autorità o servizi specialistici nei casi stabiliti dalla legge.
+
+### Applicazione al profilo amministrativo
+
+Davanti a una pratica complessa, il dipendente amministrativo non formula diagnosi né sostituisce la valutazione sociale. Verifica invece che il fascicolo abbia una base procedurale chiara: soggetto competente, domanda o segnalazione, documenti necessari, valutazioni acquisite, risorse, atto da adottare, destinatari delle comunicazioni e regime di conservazione.
+
+Una nota istruttoria efficace separa ciò che è accertato da ciò che è valutato. Residenza, composizione del nucleo, presentazione della domanda e attestazione ISEE sono elementi amministrativi; bisogno, rischio e progetto appartengono alla valutazione professionale nei casi previsti. La decisione finale deve raccordare i due piani e spiegare quale misura viene attivata, con quali condizioni, per quale durata e con quali verifiche, senza riportare dettagli personali eccedenti.
+
+## N-FL01-08-04 · Servizi educativi, graduatorie e gestione con il terzo settore
 
 ### Servizi educativi e sistema integrato 0-6
 Il D.Lgs. 13 aprile 2017, n. 65 ha istituito il sistema integrato di educazione e di istruzione dalla nascita sino a sei anni. Per il concorso comunale, il tema va trattato con taglio amministrativo, non pedagogico.
@@ -364,7 +349,7 @@ In prova può comparire un caso su asilo nido comunale:
 - trattamento di dati su disabilità o salute;
 - rapporto con gestore esterno.
 
-La risposta deve separare il diritto educativo dalla procedura amministrativa.
+In prova occorre distinguere la finalità educativa dalla procedura amministrativa che regola l'accesso e la gestione del servizio.
 
 ### Graduatorie, tariffe e compartecipazione
 Molti servizi sociali ed educativi hanno risorse limitate. Per questo il Comune deve spesso definire criteri di priorità, soglie, punteggi, graduatorie e compartecipazioni.
@@ -375,14 +360,14 @@ La tariffa o compartecipazione deve essere collegata alla disciplina del servizi
 
 Se il candidato risponde "si guarda l'ISEE e si fa la graduatoria", manca il pezzo essenziale: secondo quali criteri?
 
-Formula corretta:
+La formulazione corretta conserva la responsabilità pubblica:
 
 > L'ISEE può concorrere alla graduatoria o alla tariffa, ma l'ufficio deve applicare criteri predeterminati dall'avviso, dal regolamento o dalla disciplina regionale. La graduatoria deve essere motivabile, controllabile e rispettosa della riservatezza dei richiedenti.
 
 ### Terzo settore e gestione dei servizi
 Nel welfare locale il Comune può collaborare con soggetti del terzo settore, cooperative sociali, associazioni, fondazioni, enti religiosi, scuole paritarie, gestori accreditati o altri soggetti pubblici e privati.
 
-Per un profilo amministrativo non serve entrare in tutte le forme giuridiche. Serve però capire che la collaborazione non elimina le regole pubbliche.
+Non occorre esaurire tutte le forme giuridiche. Occorre però riconoscere che la collaborazione con soggetti esterni resta soggetta alle regole pubbliche applicabili.
 
 Il Comune deve distinguere:
 
@@ -396,13 +381,23 @@ Il Comune deve distinguere:
 - responsabilità sul trattamento dei dati;
 - rendicontazione delle risorse pubbliche.
 
-Errore da evitare:
+Una formula come la seguente è imprecisa:
 
 > "Il Comune delega il servizio alla cooperativa."
 
 Formulazione corretta:
 
 > Il Comune può coinvolgere soggetti esterni nella gestione o attuazione del servizio, ma conserva responsabilità di programmazione, controllo, corretto uso delle risorse, tutela degli utenti e rispetto delle regole pubbliche applicabili.
+
+### Schema di scelta e controllo
+
+Il ragionamento amministrativo segue cinque passaggi: definire il bisogno pubblico; individuare la disciplina di settore; scegliere lo strumento giuridico coerente; assegnare obblighi, responsabilità e flussi informativi; controllare qualità, risultati e risorse. Solo dopo questa qualificazione si può parlare correttamente di affidamento, convenzione, accreditamento, co-programmazione o co-progettazione.
+
+Nel caso di un servizio educativo gestito all'esterno, per esempio, non basta verificare che il gestore apra la struttura. Il Comune presidia requisiti e standard applicabili, accesso degli utenti, tariffe o agevolazioni, continuità del servizio, trattamento dei dati, gestione delle segnalazioni, rendicontazione e controlli. In una prova pratica, la frase «il servizio è esternalizzato» apre quindi il problema; non lo chiude.
+
+La collaborazione disciplina il rapporto organizzativo con il soggetto esterno. La responsabilità verso l'interesse pubblico resta distribuita tra Comune e altri enti secondo i rispettivi ruoli. Una finalità sociale non rende facoltative le regole.
+
+## N-FL01-08-05 · Dati sociali, riservatezza e accesso agli atti
 
 ### Dati personali, fragilità e riservatezza
 Nel welfare locale la privacy non è un'aggiunta finale. È parte del procedimento.
@@ -423,7 +418,7 @@ Il GDPR usa la categoria di "categorie particolari di dati personali" per dati c
 
 L'ufficio deve rispettare:
 
-- liceita e base giuridica;
+- liceità e base giuridica;
 - finalità determinate;
 - minimizzazione;
 - esattezza;
@@ -438,7 +433,7 @@ Attenzione alla trasparenza: un beneficio pubblico può richiedere atti amminist
 ### Accesso agli atti nei servizi sociali
 Nei servizi sociali può capitare che un cittadino chieda accesso agli atti: alla propria pratica, a una graduatoria, agli atti di un beneficio, a documenti relativi a un minore o a un nucleo familiare.
 
-La risposta va costruita con il capitolo 5:
+Si applica il metodo del Capitolo 5 di questo modulo, "Procedimento locale, protocollo, albo, URP e accesso":
 
 1. identificare il tipo di accesso richiesto;
 2. verificare legittimazione e interesse, se accesso documentale;
@@ -448,7 +443,27 @@ La risposta va costruita con il capitolo 5:
 6. motivare eventuale diniego, differimento o accesso parziale;
 7. conservare traccia della decisione.
 
-Nei casi sociali l'accesso totale e automatico è pericoloso. Anche il diniego automatico lo è. Serve bilanciamento.
+Nei casi sociali l'ufficio non concede automaticamente l'accesso integrale e non lo nega per la sola presenza di dati delicati. Valuta documenti, interessi, controinteressati e possibili oscuramenti.
+
+### Applicazione: graduatoria con dati sociali
+
+Immagina che un genitore, escluso da una graduatoria per un servizio educativo, chieda di conoscere i punteggi e le condizioni dichiarate da tutte le famiglie ammesse. La richiesta non va trattata con le formule «trasparenza totale» o «privacy assoluta». L'ufficio deve anzitutto qualificare l'istanza e comprendere quale posizione il richiedente intende tutelare. Deve poi individuare i documenti pertinenti, valutare la presenza di controinteressati e distinguere i dati necessari dalla parte eccedente.
+
+Il punteggio attribuito, i criteri utilizzati e gli elementi indispensabili per verificare la correttezza della graduatoria possono avere rilievo per la tutela dell'interessato. Diagnosi, relazioni sociali, dettagli sanitari, condizioni familiari intime o dati non necessari richiedono invece una protezione rafforzata. La soluzione può consistere, secondo il caso e la disciplina applicabile, nell'accesso a documenti selezionati, in estratti, nell'oscuramento di dati o in una motivazione di diniego o differimento per la parte non ostensibile.
+
+### Comunicazione, pubblicazione e accesso non sono la stessa cosa
+
+La **comunicazione** porta dati a destinatari determinati; la **diffusione** li rende conoscibili a soggetti indeterminati; l'**accesso** consente a un richiedente di ottenere documenti o informazioni secondo uno specifico regime. Confondere questi piani produce errori frequenti. L'atto individuale inviato al beneficiario può contenere elementi che non devono comparire nell'elenco pubblicato sul sito. Il documento accessibile a chi dimostra una posizione qualificata può richiedere oscuramenti prima della consegna.
+
+Per ogni operazione il dipendente deve chiedersi: qual è la finalità, qual è la base giuridica, chi è il destinatario, quali dati sono davvero necessari, per quanto tempo devono essere conservati e quali misure evitano accessi non autorizzati? Nei servizi sociali questa sequenza non rallenta l'amministrazione: impedisce che la fragilità della persona diventi un'informazione esposta senza necessità.
+
+### Fascicolo, autorizzazioni e tracciabilità
+
+La protezione dei dati riguarda anche l'organizzazione interna. Il fascicolo deve essere accessibile soltanto a chi ne ha bisogno per compiti autorizzati; le comunicazioni tra uffici e soggetti esterni devono essere coerenti con finalità e ruoli; documenti e valutazioni vanno conservati secondo le regole applicabili. La semplice appartenenza allo stesso ente non giustifica la consultazione di ogni pratica.
+
+In una risposta situazionale, il comportamento corretto è verificare identità e legittimazione dell'interlocutore, usare il canale previsto, limitare le informazioni, coinvolgere il responsabile competente quando il caso è dubbio e lasciare traccia della decisione. Cortesia e orientamento al cittadino restano essenziali, ma non autorizzano comunicazioni informali su minori, salute o difficoltà economiche.
+
+## N-FL01-08-06 · Istruttoria applicata e risposta da concorso
 
 ### Tabella operativa: bisogno, procedimento, atto
 
@@ -500,94 +515,135 @@ Una domanda generale sul welfare locale può essere risolta con questa scaletta:
 5. servizi educativi: sistema 0-6 e ruolo comunale in accesso, gestione e tariffe;
 6. minori: tutela rafforzata, riservatezza e raccordo con servizi competenti;
 7. privacy: categorie particolari di dati, minimizzazione e accessi autorizzati;
-8. chiusura: non è pura discrezionalita, ma procedimento motivato su bisogni reali.
+8. chiusura: non è pura discrezionalità, ma procedimento motivato su bisogni reali.
 
-Risposta breve:
+Una formulazione breve:
 
 > Il welfare locale comprende interventi e servizi sociali, educativi e di sostegno a persone fragili, minori e famiglie. Il Comune opera nel sistema integrato della L. 328/2000, spesso attraverso ambiti territoriali sociali e in raccordo con la Regione. L'accesso ai benefici avviene tramite regole, domande, requisiti, ISEE, istruttoria, eventuale valutazione sociale, graduatorie e atti motivati. Nei servizi educativi rileva il sistema 0-6 del D.Lgs. 65/2017. In ogni fase occorre tutelare dati personali, in particolare quando emergono minori, salute, disabilità o condizioni di fragilità.
 
-### Domanda da commissario
-**Domanda:** "Che ruolo ha l'ISEE nei servizi sociali comunali?"
+## ▣ Verifica 08.A · Quiz commentati e caso ragionato
 
-**Risposta forte:** "L'ISEE è un indicatore della situazione economica equivalente del nucleo familiare, ottenuto tramite DSU, usato per l'accesso a prestazioni sociali agevolate, tariffe differenziate o soglie di ammissione. Non attribuisce da solo il beneficio: l'ufficio deve applicare la disciplina del servizio, verificare gli altri requisiti, le risorse disponibili, l'eventuale graduatoria e i controlli previsti."
+### Quiz 1 — Funzione dell'ISEE
 
-### Domanda-trappola
-**Domanda:** "Il servizio sociale è solo discrezionalita dell'assistente sociale?"
+In una procedura comunale per un contributo economico, un ISEE inferiore alla soglia indicata nell'avviso:
 
-**Risposta corretta:** "No. La valutazione professionale del bisogno può avere un ruolo centrale, ma si inserisce in un procedimento pubblico. L'amministrazione deve rispettare fonti, regolamenti, competenze, criteri, risorse, motivazione, controlli e protezione dei dati. La discrezionalita tecnica o amministrativa non equivale ad arbitrio."
+A. attribuisce sempre il contributo;
+B. costituisce un elemento dell'istruttoria, da leggere con gli altri requisiti e con le risorse disponibili;
+C. sostituisce la domanda dell'interessato;
+D. impedisce ogni controllo successivo.
 
-### Errore tipico
-L'errore tipico è:
+**Risposta corretta: B.** L'ISEE misura la situazione economica equivalente e può essere requisito, criterio di priorità o parametro tariffario. Il diritto al beneficio dipende però dalla disciplina della misura, dagli altri requisiti, dall'eventuale graduatoria e dalle risorse. L'attestazione non sostituisce l'istruttoria e non esclude i controlli.
 
-> "Se una famiglia ha ISEE basso, il Comune deve concedere il contributo."
+### Quiz 2 — Valutazione sociale e decisione amministrativa
 
-Correzione:
+La valutazione professionale dell'assistente sociale:
 
-> L'ISEE è un indicatore e può essere requisito o criterio di punteggio, ma il diritto al contributo dipende dalla disciplina del servizio, dagli altri requisiti, dalle risorse disponibili, dall'eventuale graduatoria e dall'esito dell'istruttoria.
+A. coincide sempre con l'atto finale di concessione;
+B. rende inutili regolamento, istruttoria e motivazione;
+C. può concorrere alla presa in carico e alla decisione, restando distinta dai presupposti e dagli atti amministrativi;
+D. può essere sostituita da un controllo automatico dell'ISEE.
 
-### Mini-esercizio
-Leggi la traccia:
+**Risposta corretta: C.** La valutazione professionale riguarda il bisogno e il progetto di intervento; l'amministrazione deve inoltre verificare competenza, requisiti, regole, risorse e forma dell'atto. Distinguere i due piani evita sia l'arbitrio sia l'invasione delle competenze professionali.
 
-> Il Comune pubblica un avviso per l'accesso al servizio di asilo nido. Una famiglia presenta domanda con ISEE valido, ma oltre il termine. Chiede comunque l'ammissione perché il minore ha una situazione familiare fragile. Un'altra famiglia contesta la graduatoria e chiede copia delle domande degli altri richiedenti.
+### Quiz 3 — Ruolo dell'ambito territoriale sociale
 
-Rispondi in cinque passaggi:
+Quale affermazione descrive meglio l'ambito territoriale sociale?
 
-1. quale fonte disciplina la procedura?
-2. l'ISEE è sufficiente per essere ammessi?
-3. come si valuta la domanda tardiva?
-4. come si gestisce la contestazione della graduatoria?
-5. quali dati vanno protetti?
+A. È sempre un ufficio statale periferico;
+B. è il livello nel quale più Comuni possono programmare e gestire in modo coordinato funzioni e servizi sociali;
+C. sostituisce in ogni caso la Regione;
+D. rilascia l'attestazione ISEE al posto dell'INPS.
 
-Soluzione guida:
+**Risposta corretta: B.** L'ambito favorisce programmazione coordinata, omogeneità e capacità amministrativa tra Comuni. Assetto, funzioni e strumenti dipendono dalla disciplina applicabile. Non è una sovraordinazione generale sui Comuni, non sostituisce la Regione e non trasforma l'ISEE in un documento locale.
 
-1. occorre partire da regolamento comunale, avviso e disciplina regionale o locale applicabile;
-2. l'ISEE non basta: servono termini, requisiti, criteri e disponibilità posti;
-3. la domanda tardiva si valuta secondo l'avviso, evitando deroghe arbitrarie; eventuali situazioni fragili rilevano solo se previste dai criteri o da strumenti specifici;
-4. la richiesta di accesso agli atti va istruita verificando interesse, controinteressati e possibilita di accesso parziale;
-5. vanno protetti dati di minori, ISEE, condizioni familiari, salute o fragilità, oscurando ciò che non è necessario.
+### Quiz 4 — Graduatoria e protezione dei dati
 
-### Diario errori
+Nel pubblicare l'esito di una graduatoria per un servizio educativo, l'ufficio deve:
+
+A. pubblicare tutte le domande e gli allegati per garantire trasparenza;
+B. indicare sempre diagnosi, ISEE e condizioni familiari;
+C. rendere conoscibile ciò che la legge e la procedura richiedono, minimizzando o oscurando i dati personali non necessari;
+D. evitare qualsiasi forma di comunicazione dell'esito.
+
+**Risposta corretta: C.** La trasparenza non autorizza la diffusione indiscriminata di informazioni su minori, salute, fragilità o situazione economica. L'ufficio deve individuare la base giuridica, limitare i dati, usare modalità proporzionate e distinguere pubblicazione, comunicazione individuale e accesso agli atti.
+
+### Quiz 5 — Domanda tardiva per il nido
+
+Una famiglia presenta oltre il termine una domanda per il nido comunale e invoca una condizione di fragilità. Qual è il primo criterio di decisione?
+
+A. La sensibilità personale dell'operatore;
+B. il regolamento, l'avviso e gli eventuali strumenti specifici previsti per situazioni particolari;
+C. il solo valore ISEE;
+D. l'ordine verbale di un amministratore.
+
+**Risposta corretta: B.** L'ufficio deve applicare regole predeterminate e verificare se la disciplina consente riaperture, liste successive, priorità o interventi diversi. La fragilità richiede attenzione, ma non autorizza deroghe informali. Se la misura ordinaria non è accessibile, il servizio valuta gli altri canali previsti.
+
+### Quiz 6 — Servizio gestito da un soggetto esterno
+
+Quando un servizio sociale è gestito da un ente del terzo settore o da altro soggetto esterno:
+
+A. il Comune perde ogni responsabilità verso utenti e risorse;
+B. non servono controlli perché la finalità è sociale;
+C. il Comune deve individuare lo strumento giuridico corretto e presidiare programmazione, controllo, qualità, dati e rendicontazione;
+D. co-progettazione, convenzione, accreditamento e appalto diventano sinonimi.
+
+**Risposta corretta: C.** La gestione esterna non cancella le responsabilità pubbliche. Lo strumento dipende dalla disciplina e dall'oggetto; istituti diversi non sono intercambiabili. Il Comune deve controllare prestazioni, risorse, obblighi, protezione dei dati e tutela dell'utente.
+
+### Caso ragionato — Nido comunale, domanda tardiva e accesso alla graduatoria
+
+Il Comune pubblica un avviso per l'accesso al nido. Una famiglia presenta domanda con ISEE valido dopo il termine e segnala una condizione di fragilità del minore. Un'altra famiglia contesta il punteggio ricevuto e chiede copia integrale delle domande degli altri richiedenti.
+
+La soluzione richiede cinque passaggi.
+
+1. **Individuare la disciplina.** Si parte da regolamento del servizio, avviso, disciplina regionale applicabile e atti organizzativi. Occorre controllare termini, requisiti, criteri, cause di esclusione, gestione delle liste e rimedi.
+2. **Separare ISEE e ammissione.** L'ISEE valido è un elemento della domanda, non sana automaticamente la tardività e non attribuisce il posto. La sua funzione dipende dai criteri della procedura.
+3. **Istruire la fragilità senza deroghe arbitrarie.** L'ufficio verifica se la disciplina prevede priorità, riaperture, liste successive o un diverso intervento sociale. La valutazione della situazione non consente di ignorare le regole della graduatoria; può però attivare gli strumenti specifici previsti dall'ordinamento e dai servizi.
+4. **Trattare la contestazione.** L'ufficio controlla il calcolo del punteggio e istruisce l'istanza di accesso, verificando posizione del richiedente, documenti necessari, controinteressati e possibilità di accesso parziale. Non consegna automaticamente tutte le domande integrali.
+5. **Proteggere i dati.** ISEE, condizioni familiari, dati sanitari e informazioni sui minori devono essere limitati a ciò che è necessario. Ove possibile si usano estratti, oscuramenti o dati non identificativi, motivando la decisione.
+
+La conclusione da prova è netta: la vulnerabilità non va ignorata, ma deve essere trattata attraverso gli strumenti legittimi; la trasparenza della graduatoria non elimina la protezione dei dati degli altri nuclei.
+
+## Errori e trappole ricorrenti
 
 | Errore | Come correggerlo |
 | --- | --- |
-| Confondo welfare e beneficenza. | Il welfare locale è sistema pubblico regolato, con procedimento, atti e controlli. |
-| Penso che ISEE basso basti sempre. | ISEE è indicatore, non titolo automatico al beneficio. |
-| Ignoro l'ambito territoriale sociale. | Nei servizi sociali molti interventi sono programmati o gestiti a livello di ambito. |
-| Inserisco norme regionali inventate. | Le discipline regionali si citano solo se disponibili o richiamate dal bando. |
-| Pubblico graduatorie con dati sociali dettagliati. | Trasparenza e privacy vanno bilanciate; minimizzare e oscurare dati eccedenti. |
-| Tratto il minore come un richiedente qualsiasi. | Nei procedimenti minorili servono cautele rafforzate e competenze specifiche. |
-| Confondo valutazione professionale e atto amministrativo. | La valutazione istruisce il bisogno; l'atto conclude o attiva il procedimento. |
+| Confondo welfare e beneficenza. | Il welfare locale è un sistema pubblico regolato, con programmazione, procedimenti, atti e controlli. |
+| Penso che un ISEE basso basti sempre. | L'ISEE è un indicatore, non un titolo automatico al beneficio. |
+| Ignoro l'ambito territoriale sociale. | Molti interventi sono programmati o gestiti in forma coordinata tra Comuni. |
+| Applico una regola locale come se fosse nazionale. | Soglie, tariffe, termini e priorità vanno ricavati dalla disciplina del servizio. |
+| Pubblico graduatorie con dettagli sociali. | Conoscibilità e privacy vanno bilanciate; i dati eccedenti si omettono o si oscurano. |
+| Tratto il minore come un richiedente qualsiasi. | Servono cautele rafforzate, competenze precise e raccordi istituzionali. |
+| Confondo valutazione professionale e atto amministrativo. | La valutazione legge il bisogno; l'atto ammette, concede, nega o attiva secondo la disciplina applicabile. |
+| Considero equivalenti tutti gli strumenti con il terzo settore. | Prima si qualifica il bisogno e poi si sceglie lo strumento giuridico previsto. |
 
-### Da sapere in 5 righe
-Il welfare locale è il sistema con cui Comune, ambito territoriale sociale, Regione e altri soggetti rispondono a bisogni sociali, familiari ed educativi. La L. 328/2000 imposta il sistema integrato dei servizi sociali; il D.Lgs. 65/2017 inquadra il sistema educativo 0-6. L'ISEE serve per valutare la condizione economica, ma non attribuisce automaticamente il beneficio. Ogni domanda richiede fonte, requisiti, istruttoria, atto motivato e controlli. Nei casi con minori, fragilità e dati particolari la riservatezza è parte del procedimento.
+## Da sapere in 5 righe
 
-### Checklist del candidato
-Prima di chiudere il capitolo, verifica di saper rispondere a queste domande:
+Il welfare locale è il sistema con cui Comune, ambito territoriale sociale, Regione e altri soggetti rispondono a bisogni sociali, familiari ed educativi. La L. 328/2000 imposta il sistema integrato dei servizi sociali; il D.Lgs. 65/2017 inquadra il sistema educativo 0-6. L'ISEE valuta la condizione economica, ma non attribuisce automaticamente il beneficio. Ogni domanda richiede fonte, requisiti, istruttoria, atto motivato e controlli. Nei casi con minori, fragilità e categorie particolari di dati, la riservatezza è parte del procedimento.
 
-- So spiegare il welfare locale senza ridurlo a contributi economici?
+## Checklist finale
+
+- So spiegare il welfare locale senza ridurlo ai contributi economici?
 - So collocare la L. 328/2000 nel sistema integrato?
-- So distinguere Comune, ambito territoriale sociale e Regione?
-- So dire che cosa sono LEPS e Piano nazionale dei servizi sociali senza trasformarli in slogan?
-- So spiegare ISEE, DSU e ISEE corrente a livello operativo?
-- So impostare un'istruttoria per beneficio comunale?
-- So distinguere graduatoria, concessione, diniego e controllo?
-- So trattare un caso di asilo nido o servizio educativo 0-6?
-- So indicare le cautele per minori e dati personali particolari?
-- So rispondere alla domanda-trappola sulla discrezionalita del servizio sociale?
+- So distinguere Comune, ambito territoriale sociale, Regione, Stato e INPS?
+- So spiegare LEPS e programmazione senza trasformarli in slogan?
+- So distinguere ISEE, DSU, requisito e diritto al beneficio?
+- So impostare l'istruttoria di una domanda?
+- So distinguere valutazione professionale e decisione amministrativa?
+- So trattare graduatoria, concessione, diniego, controllo, revoca e decadenza?
+- So risolvere un caso di nido o servizio educativo 0-6?
+- So indicare le cautele per minori e categorie particolari di dati?
+- So qualificare il rapporto con un soggetto gestore senza confondere gli strumenti?
+- So costruire una risposta orale in otto passaggi?
 
-### Riferimenti consolidati
-- [[sources/servizi-sociali-educativi-enti-locali]]
-- [[sources/d-p-r-28-dicembre-2000-n-445-documentazione-amministrativa]]
-- [[sources/d-lgs-30-giugno-2003-n-196-codice-privacy-e-d-lgs-101-2018-adeguamento-gdpr]]
-- [[sources/regolamento-ue-2016-679-gdpr-protezione-dati-personali]]
-- [[sources/bandi-inpa-vol-02-campione-2026]]
-- [[topics/welfare-locale-servizi-sociali-educativi]]
-- [[topics/privacy-e-protezione-dati]]
-- [[entities/comune]]
-- [[entities/regione]]
+## Riferimenti normativi e professionali
 
-### Note di review
-- Prima della pubblicazione verificare su Normattiva il testo vigente di L. 328/2000, D.P.C.M. 159/2013, D.Lgs. 147/2017 e D.Lgs. 65/2017.
-- Verificare sul Ministero del lavoro e su INPS le istruzioni ISEE/DSU aggiornate, soprattutto per modelli e attestazioni dell'anno di pubblicazione.
-- Integrare, se il bando target lo richiede, disciplina regionale, regolamento comunale dei servizi sociali, regolamento nidi o atti dell'ambito territoriale sociale.
-- Non aggiungere soglie ISEE, importi, termini o graduatorie tipo senza fonte locale o avviso ufficiale.
+- Legge 8 novembre 2000, n. 328, sul sistema integrato di interventi e servizi sociali.
+- Decreto legislativo 15 settembre 2017, n. 147, per gli aspetti relativi alla rete di protezione e inclusione sociale, alla programmazione e agli ambiti territoriali.
+- D.P.C.M. 5 dicembre 2013, n. 159, per disciplina e modalità di determinazione dell'ISEE.
+- Decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, per dichiarazioni sostitutive e controlli.
+- Legge 7 agosto 1990, n. 241, per procedimento amministrativo e accesso ai documenti.
+- Decreto legislativo 13 aprile 2017, n. 65, sul sistema integrato di educazione e istruzione dalla nascita ai sei anni.
+- Regolamento (UE) 2016/679 e decreto legislativo 30 giugno 2003, n. 196, come adeguato dal decreto legislativo 10 agosto 2018, n. 101, per la protezione dei dati personali.
+- Piano nazionale degli interventi e dei servizi sociali 2024-2026, adottato con decreto interministeriale del 2 aprile 2025, come quadro di programmazione da leggere con gli atti territoriali applicabili.
+- Istruzioni e modelli annuali ISEE e DSU pubblicati dalle amministrazioni competenti, da verificare per l'anno della prova.
+- Legislazione regionale, regolamento comunale dei servizi sociali, regolamento dei servizi educativi e atti dell'ambito territoriale sociale richiamati dal bando o dalla procedura concreta.

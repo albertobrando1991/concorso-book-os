@@ -1,0 +1,102 @@
+﻿[
+    {
+        "id":  "ASS-01",
+        "file":  "ass-01-asuit-trentino-assistente-amministrativo-2026.pdf",
+        "bytes":  293344,
+        "sha256":  "50C1B021F8809C76A612BAE78CAF1295FAF4A7FEDAA683745D7205000D965722",
+        "landing":  "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=6da016c3effd460b8fa1d2823634083d",
+        "media":  "https://portale.inpa.gov.it/api/media/81ec6e7c-29eb-4ae7-bd7b-f76461385c64",
+        "label":  "ASUIT Trentino - assistente amministrativo, tre indirizzi",
+        "checked_at":  "2026-07-29"
+    },
+    {
+        "id":  "ASS-02",
+        "file":  "ass-02-niguarda-3-assistenti-amministrativi-2026.pdf",
+        "bytes":  322741,
+        "sha256":  "491D90E436616BCAC020D5A57EA4DBDE4F44F1C2C83FB089E864A887DFB72F25",
+        "landing":  "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=b22a2c956e0745abb37e3d02e88af6f5",
+        "media":  "https://portale.inpa.gov.it/api/media/e6c8c979-3468-474d-89a3-928a9b3f92dd",
+        "label":  "ASST Niguarda - 3 assistenti amministrativi",
+        "checked_at":  "2026-07-29"
+    },
+    {
+        "id":  "ASS-03",
+        "file":  "ass-03-valtellina-assistente-amministrativo-2026.pdf",
+        "bytes":  387365,
+        "sha256":  "F06FBA66587C662EC7A9D63396B1D154242011439F7AC3E77AAD92017FF1E041",
+        "landing":  "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=de65d601b9704225be7b78ce5cce985a",
+        "media":  "https://portale.inpa.gov.it/api/media/d80be9a9-2eaf-40aa-9c44-9f598b37a1c2",
+        "label":  "ASST Valtellina e Alto Lario - assistente amministrativo",
+        "checked_at":  "2026-07-29"
+    },
+    {
+        "id":  "ASS-04",
+        "file":  "ass-04-fondazione-muner-assistente-amministrativo-urp-2026.pdf",
+        "bytes":  355028,
+        "sha256":  "C62CFF5F3E177B5937483AAD8956FD324F2128325DB8619CD0266ABAD5B243E1",
+        "landing":  "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=09c81f6f7397476b87f7b8e5e4d4a60b",
+        "media":  "https://portale.inpa.gov.it/api/media/91d252ac-9977-4d1b-8acb-98e2476fbdab",
+        "label":  "ASP Fondazione Muner - assistente amministrativo URP",
+        "checked_at":  "2026-07-29"
+    },
+    {
+        "id":  "ASS-05",
+        "file":  "ass-05-arpa-lombardia-3-assistenti-amministrativi-2026.pdf",
+        "bytes":  823431,
+        "sha256":  "FA2A1C948647B75CA5186EE5CDE8857DC225D584482CF58DE0824CDCCC2F2E05",
+        "landing":  "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=7c8daaed8b10402eb36e769fa521ed9c",
+        "media":  "https://portale.inpa.gov.it/api/media/5a86c5b6-6d6d-4f87-b936-e921b5bfeb4b",
+        "label":  "ARPA Lombardia - 3 assistenti amministrativi",
+        "checked_at":  "2026-07-29"
+    },
+    {
+        "id":  "CAP-01",
+        "file":  "cap-01-asst-pavia-acquisti-sistemi-informativi-2026.pdf",
+        "bytes":  283306,
+        "sha256":  "7DA6094B2A85AB91CDAB3A858FDA233952ED06AA67628F58AFC6EC82F76BCB3F",
+        "landing":  "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=1ebeee9af8d5418597a6c099e1f77a19",
+        "media":  "https://portale.inpa.gov.it/api/media/6f826eb7-a13b-4ae9-a63f-f7ef76bf9972",
+        "label":  "ASST Pavia - collaboratori acquisti e sistemi informativi",
+        "checked_at":  "2026-07-29"
+    },
+    {
+        "id":  "CAP-02",
+        "file":  "cap-02-asst-pavia-controllo-gestione-2026.pdf",
+        "bytes":  284307,
+        "sha256":  "408367BBE76E77089B26564763B0BCCD69A26943C4B223F2D9148934823E75DD",
+        "landing":  "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=b2f14dc3f5e84cc58553189d048fd5c6",
+        "media":  "https://portale.inpa.gov.it/api/media/9353bed6-949c-4e9b-9255-fb67cdf5c040",
+        "label":  "ASST Pavia - collaboratore controllo di gestione",
+        "checked_at":  "2026-07-29"
+    },
+    {
+        "id":  "CAP-03",
+        "file":  "cap-03-arpa-puglia-collaboratore-appalti-2025.pdf",
+        "bytes":  1035267,
+        "sha256":  "5182318C03C9E5D1F1367AC48BF67415520F81C8539E2CEBAC7295B5D72930DA",
+        "landing":  "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=85a4980d3f604619833705223df393b4",
+        "media":  "https://portale.inpa.gov.it/api/media/91766fec-e6e2-4387-98bd-e47323f61b8e",
+        "label":  "ARPA Puglia - collaboratore esperto appalti",
+        "checked_at":  "2026-07-29"
+    },
+    {
+        "id":  "CAP-04",
+        "file":  "cap-04-agenas-2-collaboratori-giuridici-2025.pdf",
+        "bytes":  350483,
+        "sha256":  "7AF12F85465F514A914A99E891654C1F9DA802BBE6403452B0935031C8B66FCC",
+        "landing":  "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=6f9e7a8d9fe94748b9ecbb8a33ff6e60",
+        "media":  "https://portale.inpa.gov.it/api/media/fceb3274-2039-44ae-90e3-97d485512a3e",
+        "label":  "AGENAS - 2 collaboratori settore giuridico",
+        "checked_at":  "2026-07-29"
+    },
+    {
+        "id":  "CAP-05",
+        "file":  "cap-05-gaslini-collaboratore-amministrativo-2025.pdf",
+        "bytes":  172967,
+        "sha256":  "192253E759BE060430F2396D9C6EC2FCA622A774E69440DED2F3AAC8D0A9153A",
+        "landing":  "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e92d9d280f7a47eaa9802c968d5630a3",
+        "media":  "https://portale.inpa.gov.it/api/media/981cbb11-3af8-48d6-8d28-50e86b821abc",
+        "label":  "Istituto Gaslini - collaboratore amministrativo professionale",
+        "checked_at":  "2026-07-29"
+    }
+]

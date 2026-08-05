@@ -32,3 +32,6 @@ terminals/
 artifacts/*.err
 artifacts/*.out
 artifacts/*.log
+
+# isolated feature worktrees
+.worktrees/

@@ -35,11 +35,16 @@ La promessa è trasformare le materie ICT del bando in nuclei di studio, eserciz
 
 ## Come usare il percorso
 
+<<<<<<< HEAD
 1. Leggi la [[books/moduli/m-tr01-ict-trasformazione-digitale/front-matter/FM5-premessa|Premessa]] e il capitolo 1.
 2. Seleziona i capitoli 2-12 richiesti dal programma.
 3. Alterna teoria, caso, domanda, esercizio e Diario degli errori.
 4. Usa il capitolo 13 per allenare il formato della prova.
 5. Prima del text freeze verifica il quadro vigente e le fonti indicate nelle note di review.
+=======
+## Capitoli di lavoro
+- [[books/moduli/m-tr01-ict-trasformazione-digitale/planning/00-piano-editoriale|Piano editoriale del modulo]]
+>>>>>>> origin/main
 
 ## Parte I - Profilo e fondamenta specialistiche
 

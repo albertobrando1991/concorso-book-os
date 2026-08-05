@@ -1,12 +1,16 @@
 import { NextResponse } from "next/server"
 import { buildBookStudioData } from "@/src/server/book/book-preview"
-import { DEFAULT_BOOK_ID, getWikiRoot } from "@/src/server/config"
+import { DEFAULT_BOOK_ID, getProjectRoot, getWikiRoot } from "@/src/server/config"
 import { FileWikiStore } from "@/src/server/wiki/file-store"
 
 export async function GET(request: Request) {
   const url = new URL(request.url)
   const bookId = sanitizeBookId(url.searchParams.get("bookId") || DEFAULT_BOOK_ID)
-  const data = await buildBookStudioData(new FileWikiStore(getWikiRoot()), bookId)
+  const data = await buildBookStudioData(
+    new FileWikiStore(getWikiRoot()),
+    bookId,
+    { projectRoot: getProjectRoot() }
+  )
 
   return NextResponse.json(data)
 }

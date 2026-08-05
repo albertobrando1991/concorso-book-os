@@ -51,8 +51,15 @@ export function runCoverageGate(input: CoverageGateInput): GateResult {
 
 export function rowsForChapter(rows: CoverageRow[], chapterNumber: string) {
   const pattern = chapterPattern(chapterNumber)
+  const normalized = chapterNumber.trim().padStart(2, "0")
+  const versionTwoRows = rows.filter((row) => {
+    if (!row.nucleusId) return false
+    const match = /^N-[A-Z]{2}\d{2}-(\d{2})-\d{2}$/.exec(row.nucleusId)
+    return match?.[1] === normalized
+  })
 
-  return rows.filter((row) => pattern.test(row.location))
+  if (versionTwoRows.length) return versionTwoRows
+  return rows.filter((row) => !row.nucleusId && pattern.test(row.location))
 }
 
 function chapterPattern(chapterNumber: string) {

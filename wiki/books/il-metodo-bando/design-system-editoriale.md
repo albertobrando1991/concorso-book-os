@@ -160,10 +160,10 @@ Ogni capitolo deve seguire questa architettura visiva:
 3. Barra BANDO del capitolo.
 4. Promessa/obiettivo del capitolo.
 5. Mappa BANDO del capitolo.
-6. Spiegazione principale in blocchi brevi.
-7. Box operativi.
-8. Caso guidato o esempio.
-9. Domande e mini-esercizi.
+6. Nuclei con numerazione decimale visibile derivata dal Nucleo ID.
+7. Spiegazione principale in blocchi brevi.
+8. Box operativi.
+9. Blocchi ▣ Verifica, casi, domande e mini-esercizi.
 10. Errori frequenti.
 11. Riferimenti consolidati.
 12. Note di review.
@@ -171,6 +171,11 @@ Ogni capitolo deve seguire questa architettura visiva:
 Numero capitolo:
 - usare Muted Gold come micro-accento;
 - non superare il 3-5% della pagina interna.
+
+Numero del nucleo:
+- l'ID tecnico `N-SA02-05-04` resta nel markdown e si rende in pagina come `5.4 Titolo del nucleo`;
+- la parte capitolo.progressivo resta stabile e compare anche nell'indice analitico;
+- l'ID non va sostituito nel sorgente, perché matrice e gate lo usano come chiave.
 
 ## Tassonomia box
 Usare box ricorrenti, con nomi stabili:
@@ -189,7 +194,10 @@ Bando Decoder
 Diario errori
 Fonti consolidate
 Da verificare
+▣ Verifica
 ```
+
+`▣ Verifica` raggruppa almeno 6 quiz commentati e un caso ragionato. In stampa usa un filetto di apertura/chiusura ben distinguibile in scala di grigi e non va spezzato in modo ambiguo tra due pagine.
 
 Colori:
 - Navy Dark `#0F172A`: aperture di parte, header, titoli istituzionali, dorso;
@@ -212,7 +220,8 @@ Tabelle:
 - intestazioni Arial Bold;
 - righe leggere;
 - zebra striping molto tenue;
-- evitare tabelle fitte dentro il testo principale;
+- preferire una tabella comparativa a 2-3 colonne quando il nucleo richiede distinzioni, sequenze o confronto tra profili;
+- evitare tabelle fitte dentro il testo principale e non ridurre il carattere per farle entrare;
 - se una tabella supera la leggibilita, spostarla in appendice o renderla strumento compilabile.
 
 Linee e grafici:

@@ -41,16 +41,15 @@ Sostituire sempre:
 - `[MODULE_ID]`: slug/cartella del modulo;
 - `[CHAPTER_FILE]`: percorso del capitolo;
 - `[CHAPTER_NUMBER]`: numero o codice del capitolo;
-- `[CUT_OFF_DATE]`: data di chiusura delle fonti;
-- `[RESPONSABILE]`: referente umano dell'attività.
+- `[CUT_OFF_DATE]`: data di chiusura delle fonti.
 
 Ordine delle ripetizioni:
 
 1. i prompt 00-03 si eseguono una volta per l'intero catalogo;
 2. i prompt 04-07 si ripetono per ogni volume e modulo;
 3. i prompt 08-12 si ripetono per ogni capitolo, in ordine;
-4. i prompt 13-23 si eseguono sul modulo o volume completo;
-5. il prompt 24 avvia la manutenzione successiva alla pubblicazione.
+4. i prompt 13-23 completano modulo, impaginato e pacchetto di consegna;
+5. il prompt 24 è l'unica conferma umana e chiude il protocollo.
 
 Ogni agente deve leggere `AGENTS.md` e `wiki/AGENTS.md`, richiamare `LocalAgentMemory` e preservare il lavoro umano e degli altri agenti. Norme, date e fatti devono derivare dal wiki consolidato; la memoria non è una fonte normativa.
 
@@ -178,7 +177,7 @@ Definisci:
 - rinvii ammessi;
 - esclusioni;
 - dipendenze fra moduli;
-- review umane necessarie;
+- competenze specialistiche che gli audit automatici devono coprire;
 - ordine definitivo di lavorazione.
 
 Costruisci una Bibbia del Volume con terminologia canonica, tono, livello di profondità, struttura ricorrente, regole dei box e criteri per esempi, casi ed esercizi.
@@ -283,16 +282,16 @@ Leggi:
 - contenuti del VOL-01 ai quali è consentito rinviare.
 
 Elenca:
-- nuclei assegnati;
+- nuclei assegnati con Nucleo ID stabile;
 - nuclei già completi;
 - nuclei da sviluppare;
 - sezioni da conservare;
 - duplicazioni da evitare;
 - esempi, casi, domande ed esercizi necessari;
 - fonti da usare;
-- review umane richieste.
+- audit specialistici richiesti.
 
-Proponi la struttura H1/H2/H3 e il budget orientativo delle sezioni per il formato KDP.
+Proponi la struttura H1/H2/H3, 5-7 nuclei per blocco di verifica e il budget parole/quiz/casi previsto dalla scheda pipeline.
 Non modificare ancora il capitolo.
 ```
 
@@ -302,6 +301,8 @@ Gate: piano approvabile e collegato riga per riga alla matrice.
 
 ```text
 Usa la skill concorso-book-professional-writer per completare [CHAPTER_FILE].
+
+Obiettivo canonico: scrivi un capitolo didattico autosufficiente per lo studente che prepara un concorso pubblico e non dispone della wiki, della dashboard o delle note editoriali interne. Il testo deve trasmettere integralmente le conoscenze assegnate al capitolo e renderle utilizzabili nelle prove.
 
 Scrivi il vero testo destinato al lettore, non un riepilogo del lavoro.
 Preserva e integra il testo umano valido. Non cancellare sezioni fuori dal perimetro.
@@ -317,8 +318,10 @@ Il capitolo deve sviluppare, quando pertinenti:
 - domanda-trappola;
 - errore tipico;
 - mini-esercizio o checklist;
-- riferimenti consolidati;
-- note di review.
+- riferimenti normativi e professionali essenziali, espressi in forma leggibile;
+- un blocco ▣ Verifica ogni 5-7 nuclei;
+- almeno 6 quiz con risposta commentata e un caso ragionato;
+- note di review in un report separato, mai nel testo del lettore.
 
 Vincoli:
 - un solo H1;
@@ -328,19 +331,40 @@ Vincoli:
 - nessuna norma, data o soglia inventata;
 - nessuna duplicazione del nucleo comune del VOL-01;
 - nessun placeholder o meta-commento dell'agente;
+- nessun wikilink nel corpo verso sources/, topics/, entities/, raw/, planning/ o reviews/;
+- nessuna formula che chieda allo studente di consultare source note, fonti consolidate, corpus interni, wiki o report;
+- le fonti consolidate sono input editoriali: nel capitolo devi sviluppare direttamente definizioni, quadro, elementi, distinzioni, conseguenze, esempi e uso concorsuale;
 - ogni promessa formativa deve avere spiegazione o rinvio preciso.
+- ogni nucleo usa l'heading `N-<MODULO>-<CAP>-<NN> · <titolo>` e sviluppa teoria essenziale, schema/tabella e applicazione al profilo;
+- almeno 5 nuclei, 600 parole per nucleo e 3.000 parole per capitolo, salvo soglie più alte nella scheda;
+- i dati clinici o tecnici operativi usano il box `Dato operativo` con fonte ufficiale, ambito, versione, data di verifica e area dell'audit automatico; niente dosi, energie o sequenze eseguibili.
 
-Aggiorna frontmatter, last_compiled_from, source_refs, draft_stage e review_required in modo veritiero.
+Aggiorna frontmatter, `format_version: 2`, `dati_operativi`, last_compiled_from, source_refs, draft_stage e review_required in modo veritiero. Registra gli eventuali punti aperti nell'evidenza o nel report di review della pipeline, non come parte della lezione destinata allo studente.
 ```
 
-Gate: testo editoriale effettivo, tracciabile e completo rispetto al piano.
+Gate: testo editoriale effettivo, autosufficiente per lo studente, tracciabile nel frontmatter e completo rispetto al piano.
+
+## Prompt 09-R — Retrofit del capitolo legacy
+
+```text
+Esegui il retrofit di [CHAPTER_FILE] senza introdurre claim nuovi.
+
+1. Archivia Scheda di lavoro e Note di review editoriale in wiki/reviews/retrofit/.
+2. Appiattisci il contenitore Testo editoriale senza perdere contenuto destinato al lettore.
+3. Proponi e fai approvare la mappatura heading → Nucleo ID.
+4. Raggruppa l'apparato esistente nei blocchi ▣ Verifica e deriva quiz solo dal testo consolidato.
+5. Compila la checklist dimensionale: ogni lacuna sostanziale scala il nucleo da livello A a livello B.
+6. Imposta format_version: 2 soltanto quando gate quantitativo e checklist qualitativa sono entrambi conformi.
+```
+
+Gate: nessuna perdita di contenuto; ogni promozione al formato 2 è provata dalla matrice e dal gate.
 
 ## Prompt 10 — Controllo di copertura del capitolo
 
 ```text
 Confronta [CHAPTER_FILE] con tutte le righe della matrice che gli sono assegnate.
 
-Per ogni nucleo verifica nel testo reale:
+Per ogni Nucleo ID compila nella matrice la checklist dimensionale con `✓` e evidenza, `✗` e motivo oppure `n/a`:
 - definizione;
 - funzione;
 - inquadramento;
@@ -351,10 +375,11 @@ Per ogni nucleo verifica nel testo reale:
 - uso nella prova;
 - errore tipico;
 - verifica;
-- fonti.
+- tracciabilità nel frontmatter e riferimenti leggibili nel corpo.
 
 Non considerare casi, quiz o checklist sostitutivi della teoria.
-Classifica ogni nucleo e cita heading o passaggio che prova la copertura.
+Non considerare un wikilink, una source note o un rinvio a materiale interno come prova di copertura.
+Classifica ogni nucleo e cita heading o passaggio che prova la copertura. Una dimensione applicabile vuota o negativa produce `dimensione-mancante`.
 
 Applica le integrazioni necessarie soltanto se supportate dal wiki consolidato.
 Aggiorna la matrice con lo stato reale e produci il delta:
@@ -372,10 +397,13 @@ Preserva integralmente:
 - significato;
 - terminologia tecnica;
 - riferimenti normativi;
-- citazioni;
+- citazioni e riferimenti professionali leggibili;
 - struttura didattica;
-- link wiki;
+- source_refs e last_compiled_from nel frontmatter;
+- rinvii didattici verso altri capitoli pubblicabili;
 - esempi, casi, quiz e istruzioni operative.
+
+Rimuovi dal corpo eventuali wikilink verso sources/, topics/, entities/, raw/, planning/ o reviews/ e ogni formula redazionale interna. Non introdurre nuovi link interni. La loro tracciabilità resta nel frontmatter e nei report.
 
 Correggi:
 - formule palesemente generate da AI;
@@ -397,7 +425,8 @@ Non aggiungere opinioni personali, umorismo o prima persona se incompatibili con
 Output:
 - file aggiornato;
 - segnali AI rimossi;
-- conferma che significato e fonti non sono cambiati;
+- conferma che significato, source_refs e riferimenti normativi non sono cambiati;
+- conferma che il corpo non dipende da collegamenti o strumenti interni;
 - eventuali punti che richiedono controllo umano.
 ```
 
@@ -417,6 +446,8 @@ Applica in ordine:
 
 Controlla anche la copertura v4 e i rinvii al VOL-01 o ad altri moduli.
 Non riscrivere silenziosamente il testo.
+
+Esegui il test dello studente: valuta il capitolo senza frontmatter e senza accesso a wiki, dashboard, source note o report. Se una definizione, distinzione, conseguenza, procedura concorsuale o spiegazione necessaria manca in queste condizioni, classifica il problema come errore grave e proponi l'integrazione nel testo.
 
 Produci una tabella:
 ID | Posizione | Categoria | Gravità | Descrizione | Correzione proposta | Stato.
@@ -484,30 +515,35 @@ Se una correzione cambia sostanzialmente un passaggio, ripeti su quel passaggio:
 Aggiorna matrice, frontmatter e report senza falsificare gli stati.
 ```
 
-Gate: tutte le voci obbligatorie chiuse o formalmente assegnate a verifica umana.
+Gate: tutte le voci obbligatorie chiuse; nessuna criticità può essere rinviata alla conferma umana finale.
 
-## Prompt 15 — Review umana specialistica
+## Prompt 15 — Audit specialistico conclusivo del modulo
 
 ```text
-Prepara il pacchetto di review umana di [MODULE_CODE] per [RESPONSABILE].
+Esegui l'audit specialistico conclusivo di [MODULE_CODE] usando revisore-editoriale-totale.
 
-Non chiedere una lettura generica. Estrai una checklist precisa con:
+Il modulo deve arrivare al text freeze già corretto, completo e autonomo. Non preparare lavoro da delegare a una persona e non lasciare esiti `pending`.
+
+Controlla puntualmente:
 - claim normativi e articoli;
 - definizioni tecniche;
 - procedure;
 - soglie, termini e dati mobili;
 - casi ed esercizi che applicano regole specialistiche;
-- punti già marcati review_required;
+- punti marcati `review_required`;
 - conflitti o incertezze emersi.
 
-Per ogni voce indica:
-file e posizione | affermazione | fonte consolidata | domanda al revisore | esito | eventuale correzione.
+Per ogni voce indica nel report:
+ID | file e posizione | categoria | gravità | evidenza consolidata | correzione applicata | stato finale.
 
-Integra soltanto gli esiti firmati o chiaramente attribuiti al revisore umano.
-Registra data, perimetro e limiti della review.
+Il contratto dello step aggiunge automaticamente una riga per ogni box `Dato operativo` rilevato nei capitoli. Verifica fonte, ambito, versione e data; correggi o rimuovi ogni dato che non supera il controllo.
+
+Applica le correzioni direttamente ai capitoli e agli artefatti collegati. Se una modifica è sostanziale, ripeti sul passaggio interessato copertura, densità, Humanizer e revisione editoriale.
+
+Produci il report nel template fisso. Zero errori gravi o medi aperti, zero rinvii a futura review umana e zero formulazioni che presentino come verificato ciò che non lo è.
 ```
 
-Gate: nulla osta specialistico completato per tutti i punti ad alto rischio.
+Gate: audit specialistico automatico completato, tutte le correzioni obbligatorie chiuse.
 
 ## Prompt 16 — Congelamento del testo
 
@@ -520,7 +556,7 @@ Condizioni:
 - rinvii precisi e verificati;
 - Humanizer completato;
 - errori gravi e medi obbligatori chiusi;
-- review umana completata;
+- audit specialistico automatico dello step 15 completato;
 - indice coerente;
 - fonti e cut-off dichiarati.
 
@@ -596,7 +632,8 @@ Applica a [VOLUME_CODE] il master editoriale canonico:
 - margini speculari e gutter compatibili con il conteggio finale;
 - pagine singole numerate;
 - front matter canonico;
-- indice dei moduli chapters-only;
+- indice analitico con capitoli e numeri decimali dei nuclei (es. 5.4), derivati dai Nucleo ID;
+- blocchi ▣ Verifica visivamente distinti, leggibili in bianco e nero e senza spezzature ambigue;
 - nessun titolo orfano;
 - nessun blocco oltre i margini.
 
@@ -653,7 +690,7 @@ Aggiungi il gate di copertura v4 e verifica:
 - zero nuclei bloccanti;
 - rinvii reali;
 - fonti e cut-off;
-- review umane;
+- audit specialistici automatici;
 - immagini;
 - impaginazione KDP;
 - corrispondenza fra indice e pagine.
@@ -701,54 +738,46 @@ Produci una checklist pass/fail con evidenza e comando o verifica usata.
 
 Gate: tutti i controlli obbligatori passano.
 
-## Prompt 23 — Consegna, commit e pubblicazione controllata
+## Prompt 23 — Preparazione della consegna e del pacchetto di pubblicazione
 
 ```text
-Prepara la consegna di [VOLUME_CODE].
+Prepara il candidato finale di consegna di [VOLUME_CODE].
 
-Prima del commit:
+Prima della conferma umana:
 - verifica lo stato remoto e le modifiche dello staff;
 - assicurati di non includere file estranei, cache, log temporanei o artifact non richiesti;
 - esegui staging selettivo;
 - controlla git diff --cached e git diff --cached --check;
 - ripeti i gate tecnici finali.
 
-Registra:
+Registra nel pacchetto:
 - versione editoriale;
 - cut-off normativo;
 - report di pubblicabilità;
 - manifest dei file;
 - changelog;
-- limiti e review future.
+- limiti dichiarati e ciclo di manutenzione futuro.
 
-Esegui commit e push soltanto dopo l'approvazione prevista dal flusso.
-Confronta SHA locale e remoto e comunica il risultato esatto.
-
-Non dichiarare pubblicato ciò che è soltanto committato localmente.
+Non pubblicare e non dichiarare approvato il volume: lo step 24 deve ancora confermare la validità del pacchetto. Qualunque errore trovato qui torna al gate automatico pertinente.
 ```
 
-Gate: consegna tracciata, remoto allineato e pacchetto di pubblicazione identificabile.
+Gate: candidato di consegna completo, riproducibile e pronto per la sola conferma finale.
 
-## Prompt 24 — Manutenzione post-pubblicazione
+## Prompt 24 — Conferma umana finale di validità
 
 ```text
-Apri il ciclo di manutenzione di [VOLUME_CODE].
+Conferma la validità finale di [VOLUME_CODE].
 
-Definisci:
-- data di prossima revisione;
-- fonti e norme ad alta volatilità;
-- bandi da ricampionare;
-- capitoli sensibili;
-- responsabili umani;
-- scadenza della review semestrale;
-- criteri che riaprono il gate di pubblicazione.
+Questo è l'unico passaggio umano del protocollo. Non è una fase di scrittura né una review specialistica tardiva: testi, fonti, casi, quiz, immagini, impaginazione, audit e preflight devono essere già completi.
 
-Ogni nuova fonte deve seguire ingest, consolidamento, topic/entity, capitoli impattati, review_required, matrice, revisione e nuovo preflight.
+Esamina il pacchetto finale e scegli uno dei due esiti:
+- confermato: il volume è valido e può essere autorizzato alla pubblicazione controllata;
+- respinto: indica i blocker concreti e riapri gli step automatici pertinenti.
 
-Aggiorna dashboard, log append-only e memoria LocalAgentMemory con una sintesi operativa, senza usare la memoria come fonte normativa.
+Non assegnare nomi di revisori nella scheda volume e non sanare manualmente carenze rimaste nei testi. Registra soltanto esito, data, nota di conferma o motivazione del rigetto.
 ```
 
-Gate: volume inserito nel ciclo di aggiornamento e responsabilità assegnate.
+Gate: conferma umana finale esplicita; in assenza di conferma il volume non è autorizzato alla pubblicazione.
 
 ---
 
@@ -760,7 +789,7 @@ Con la fotografia attuale del progetto, dopo i prompt globali 00-03:
 2. chiudere con 08-12 i 14 nuclei parziali di `M-FC02`;
 3. completare `M-FC01`;
 4. sviluppare `M-FC03`;
-5. eseguire 13-23 sull'intero `VOL-03`;
+5. eseguire 13-24 sull'intero `VOL-03`;
 6. ripetere la pipeline su `VOL-09`, `VOL-02`, `VOL-06`, `VOL-07`, `VOL-08`, `VOL-10`, `VOL-04`, `VOL-11`, `VOL-05`, `VOL-12`, salvo diversa priorità emersa dal censimento dello staff.
 
 Non tenere più di un volume nel gate finale di revisione e impaginazione. Lo staff può preparare fonti e matrici del volume successivo, ma il text freeze, la revisione totale e il preflight restano seriali.

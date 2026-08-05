@@ -8,434 +8,478 @@ topics: ["enti locali", "programmazione comunale", "programmazione integrata", "
 entities: ["Comune", "Consiglio comunale", "Giunta comunale", "Sindaco", "Responsabile finanziario", "Responsabile di servizio", "Organo di revisione", "Piano Integrato di Attivita e Organizzazione", "Metodo BANDO"]
 source_refs: ["sources/ordinamento-finanziario-enti-locali-tuel-dup-peg-rendiconto-revisione.md", "sources/armonizzazione-contabile-enti-territoriali-d-lgs-118-2011.md", "sources/d-lgs-27-ottobre-2009-n-150-performance.md", "sources/d-p-r-24-giugno-2022-n-81-piao-adempimenti-assorbiti.md", "sources/decreto-30-giugno-2022-n-132-piano-tipo-piao.md", "sources/d-lgs-18-agosto-2000-n-267-enti-locali.md", "sources/ministero-interno-dait-anpr-finanza-locale.md", "sources/bandi-inpa-vol-02-campione-2026.md"]
 book_refs: ["m-fl01-comuni-unioni", "vol-02-enti-locali-polizia-locale", "il-metodo-bando"]
-confidence: 0.87
-updated_at: 2026-07-18T00:35:00+02:00
+confidence: 0.9
+updated_at: 2026-08-05T00:00:00+02:00
 created_at: 2026-07-17T16:30:00+02:00
 review_required: true
 canonical: true
-tags: ["book-chapter", "module-code-m-fl01", "professional-draft", "programmazione-comunale"]
+tags: ["book-chapter", "module-code-m-fl01", "format-version-2", "programmazione-comunale"]
 book_id: m-fl01-comuni-unioni
 outline_section: 9
 volume_chapter: 12
-draft_stage: professional-draft
+draft_stage: written
+format_version: 2
+dati_operativi: []
 module_code: M-FL01
 module_family: funzioni-locali
 companion_to: il-metodo-bando
-last_compiled_from: ["wiki/books/moduli/m-fl01-comuni-unioni/index.md", "wiki/books/moduli/m-fl01-comuni-unioni/chapters/04-deliberazioni-determinazioni-decreti-ordinanze-pareri.md", "wiki/books/moduli/m-fl01-comuni-unioni/chapters/08-welfare-locale-servizi-sociali-isee-minori-servizi-educativi.md", "wiki/sources/ordinamento-finanziario-enti-locali-tuel-dup-peg-rendiconto-revisione.md", "wiki/sources/armonizzazione-contabile-enti-territoriali-d-lgs-118-2011.md", "wiki/sources/d-lgs-27-ottobre-2009-n-150-performance.md", "wiki/topics/programmazione-integrata-comunale.md", "wiki/topics/contabilita-pubblica.md", "wiki/topics/performance-amministrativa.md", "wiki/entities/comune.md", "wiki/entities/responsabile-finanziario.md"]
+last_compiled_from: ["wiki/books/moduli/m-fl01-comuni-unioni/index.md", "wiki/books/moduli/m-fl01-comuni-unioni/planning/00-piano-editoriale.md", "wiki/books/moduli/m-fl01-comuni-unioni/planning/02-matrice-copertura-didattica.md", "wiki/books/vol-02-enti-locali-polizia-locale/planning/00-scheda-pipeline.md", "wiki/books/vol-02-enti-locali-polizia-locale/planning/00-piano-editoriale.md", "wiki/books/moduli/m-fl01-comuni-unioni/chapters/08-welfare-locale-servizi-sociali-isee-minori-servizi-educativi.md", "wiki/books/moduli/m-fl01-comuni-unioni/chapters/10-gestione-finanziaria-rendiconto-tesoreria-controlli.md", "wiki/sources/ordinamento-finanziario-enti-locali-tuel-dup-peg-rendiconto-revisione.md", "wiki/sources/armonizzazione-contabile-enti-territoriali-d-lgs-118-2011.md", "wiki/sources/d-lgs-27-ottobre-2009-n-150-performance.md", "wiki/sources/d-p-r-24-giugno-2022-n-81-piao-adempimenti-assorbiti.md", "wiki/sources/decreto-30-giugno-2022-n-132-piano-tipo-piao.md", "wiki/sources/d-lgs-18-agosto-2000-n-267-enti-locali.md", "wiki/topics/programmazione-integrata-comunale.md", "wiki/topics/contabilita-pubblica.md", "wiki/topics/performance-amministrativa.md", "wiki/entities/comune.md", "wiki/entities/responsabile-finanziario.md"]
 ---
 
 # Programmazione integrata comunale: DUP, bilancio, PEG, PIAO e performance
 
-## Specifica struttura madre
+## Obiettivo del capitolo
 
-### Obiettivo
-Mostrare come la programmazione comunale collega indirizzo politico, risorse, obiettivi, responsabili e performance.
+Un Comune non può istituire un servizio, avviare un investimento o riorganizzare un ufficio affidandosi a una successione casuale di atti. Prima chiarisce la priorità, ne verifica la sostenibilità finanziaria, assegna obiettivi e risorse, prepara l'organizzazione e stabilisce come misurare il risultato. La programmazione dà ordine a questi passaggi.
 
-### Nuclei
-- DUP come documento di programmazione strategica e operativa.
-- Bilancio di previsione e autorizzazione della gestione.
-- PEG come collegamento tra obiettivi, risorse e responsabilità.
-- PIAO e performance nel quadro organizzativo.
-- Relazione tra Consiglio, Giunta, responsabili e servizio finanziario.
+DUP, bilancio di previsione, PEG, PIAO e performance non sono sinonimi. Sono strumenti diversi, coordinati tra loro. Il Documento unico di programmazione colloca le priorità in un orizzonte strategico e operativo. Il bilancio di previsione autorizza la gestione finanziaria. Il Piano esecutivo di gestione assegna obiettivi e dotazioni ai responsabili. Il Piano integrato di attività e organizzazione raccorda valore pubblico, performance, organizzazione, personale e rischi. Il ciclo della performance misura risultati e scostamenti.
 
-### Output operativo
-Tavola obiettivo-risorsa-responsabile-indicatore, caso su programmazione di un servizio, risposta orale su DUP/PEG.
+Al termine del capitolo dovrai saper:
 
-### Riferimenti consolidati
-- [[sources/ordinamento-finanziario-enti-locali-tuel-dup-peg-rendiconto-revisione]]
-- [[sources/armonizzazione-contabile-enti-territoriali-d-lgs-118-2011]]
-- [[sources/d-lgs-27-ottobre-2009-n-150-performance]]
-- [[sources/d-p-r-24-giugno-2022-n-81-piao-adempimenti-assorbiti]]
-- [[sources/decreto-30-giugno-2022-n-132-piano-tipo-piao]]
-- [[topics/programmazione-integrata-comunale]]
-- [[topics/contabilita-pubblica]]
-- [[topics/performance-amministrativa]]
-- [[entities/comune]]
-- [[entities/responsabile-finanziario]]
-
-## Scheda di lavoro
-Il capitolo evita il tecnicismo contabile non necessario. FPV, FCDE, residui, rendiconto, tesoreria e controlli saranno trattati nel capitolo successivo. Qui la domanda guida è:
-
-> come passa una priorità politica del Comune dentro documenti, risorse, obiettivi, responsabili, indicatori e atti gestionali?
-
-Il candidato deve vedere la programmazione come una catena, non come una pila di documenti.
-
-## Testo editoriale
-
-### Apertura editoriale
-In un Comune quasi nulla dovrebbe accadere per improvvisazione. Un servizio da potenziare, un investimento da avviare, una nuova misura per famiglie, una manutenzione straordinaria, un piano assunzionale, un progetto digitale, una scelta su tributi o tariffe: tutto deve trovare un posto nella programmazione dell'ente.
-
-Per questo i concorsi comunali chiedono spesso DUP, bilancio, PEG, PIAO e performance. Il rischio è studiarli come sigle separate. DUP: Documento unico di programmazione. PEG: Piano esecutivo di gestione. PIAO: Piano integrato di attività e organizzazione. Performance: obiettivi e risultati. Bilancio: entrate e spese. Se li memorizzi così, li dimentichi o li confondi.
-
-Il modo corretto è leggerli come passaggi di una stessa traiettoria.
-
-Una priorità politica entra nel DUP. Il bilancio le assegna una cornice finanziaria. Il PEG traduce obiettivi e risorse in responsabilità gestionali. Il PIAO collega obiettivi, organizzazione, personale, rischi, anticorruzione, trasparenza e valore pubblico. La performance misura se l'ente e i suoi responsabili hanno prodotto risultati, non solo atti formalmente corretti.
-
-Questa è la programmazione integrata comunale: non una materia contabile per soli ragionieri, ma il modo in cui il Comune trasforma indirizzo politico in azione amministrativa controllabile.
-
-### Obiettivo del capitolo
-Al termine del capitolo devi saper fare dieci operazioni:
-
-1. spiegare il principio della programmazione negli enti locali;
-2. distinguere DUP, bilancio di previsione, PEG, PIAO e performance;
-3. collegare Consiglio, Giunta, responsabili dei servizi e responsabile finanziario;
-4. spiegare il DUP come documento strategico e operativo;
-5. descrivere il bilancio di previsione come autorizzazione finanziaria della gestione;
-6. spiegare il PEG come assegnazione di obiettivi, risorse e responsabilità;
-7. collocare PIAO e performance nel quadro organizzativo comunale;
+1. ricostruire la catena indirizzo-risorse-obiettivi-organizzazione-risultati;
+2. distinguere funzione, contenuto essenziale e competenza dei principali documenti;
+3. collegare Consiglio, Giunta, Sindaco, responsabili dei servizi e responsabile finanziario;
+4. spiegare Sezione strategica e Sezione operativa del DUP;
+5. riconoscere la funzione autorizzatoria del bilancio di previsione;
+6. leggere il PEG come collegamento tra programmazione politica e gestione amministrativa;
+7. collocare PIAO e performance senza confonderli con bilancio e PEG;
 8. costruire una tavola obiettivo-risorsa-responsabile-indicatore;
-9. risolvere un caso guidato su un nuovo servizio comunale da programmare;
-10. evitare l'errore tipico: confondere programmazione, gestione e rendicontazione.
+9. risolvere un caso sulla programmazione di un servizio comunale;
+10. formulare una risposta orale breve ma completa.
 
-Il punto centrale è:
+Questo capitolo tratta il delta locale. Per i principi generali della contabilità pubblica puoi richiamare il Capitolo 8 del volume Il Metodo BANDO, in particolare le sezioni sull'armonizzazione e sull'ordinamento finanziario degli enti locali. Le fasi dell'entrata e della spesa, i residui, il fondo pluriennale vincolato, il fondo crediti di dubbia esigibilità, la tesoreria, il rendiconto e i controlli saranno sviluppati nel capitolo successivo di questo modulo.
 
-> il Comune non programma per produrre documenti; programma per rendere coerenti scelte, risorse, uffici e risultati.
+## Mappa BANDO
 
-### Come usare questo capitolo
-Leggi il capitolo con una sequenza fissa:
+Quando il bando richiama ordinamento finanziario degli enti locali, programmazione, bilancio, DUP, PEG, PIAO o performance, una lista di sigle aiuta poco. Ciascuno strumento va associato alla domanda amministrativa che risolve.
 
-| Passaggio | Domanda | Documento prevalente |
+| Passaggio | Domanda | Strumento prevalente | Output da prova |
+| --- | --- | --- | --- |
+| Indirizzo | Che cosa vuole realizzare l'amministrazione? | Linee di mandato e DUP | priorità strategica e operativa |
+| Risorse | Con quali entrate e spese? | Bilancio di previsione | quadro autorizzatorio e sostenibilità |
+| Assegnazione | Chi realizza l'obiettivo e con quali dotazioni? | PEG | obiettivo, responsabile e risorse |
+| Organizzazione | Quali persone, processi e presìdi servono? | PIAO | capacità organizzativa, rischi e valore pubblico |
+| Risultato | Come si misura ciò che è stato realizzato? | Ciclo della performance | indicatore, target, monitoraggio e scostamento |
+
+La Mappa BANDO applicata al capitolo funziona così:
+
+- **B — Bando:** individua se la materia richiesta è programmazione locale, contabilità, organizzazione o performance;
+- **A — Aree:** collega ordinamento degli enti locali, armonizzazione contabile, pubblico impiego e organizzazione;
+- **N — Nuclei:** seleziona il documento in base alla sua funzione, non al nome;
+- **D — Diario:** registra le confusioni ricorrenti, soprattutto DUP/PEG, bilancio/rendiconto e attività/risultato;
+- **O — Output:** costruisci uno schema che colleghi priorità, documento, risorsa, responsabile e indicatore.
+
+La domanda guida resta una: come passa una priorità politica dentro documenti, risorse, uffici, atti e risultati verificabili?
+
+## N-FL01-09-01 · Programmazione comunale, catena operativa e competenze
+
+### Definizione e funzione
+
+Il Testo unico degli enti locali stabilisce che la gestione degli enti locali si ispira al principio della programmazione. Programmare significa decidere in anticipo quali risultati perseguire, con quali risorse e attraverso quali responsabilità. Non equivale a prevedere ogni evento. Significa predisporre una struttura di decisioni coerenti, capace di adattarsi quando cambiano entrate, bisogni o vincoli.
+
+La programmazione comunale mette in relazione tre piani. Il primo è politico: gli organi di governo definiscono indirizzi e priorità. Il secondo è finanziario: le scelte devono essere compatibili con entrate, spese ed equilibri. Il terzo è amministrativo: dirigenti e responsabili trasformano obiettivi e dotazioni in procedimenti, atti e servizi. La performance aggiunge la verifica dei risultati.
+
+Una definizione efficace in sede orale è questa:
+
+> La programmazione comunale è il sistema che collega indirizzo politico, risorse finanziarie, obiettivi gestionali, organizzazione degli uffici e misurazione dei risultati.
+
+La programmazione interessa ogni servizio, non soltanto l'ufficio ragioneria. Se il Comune vuole aumentare i posti disponibili negli asili nido, per esempio, la priorità coinvolge programmazione sociale ed educativa, bilancio, personale, eventuale gestione esterna, procedure di iscrizione, protezione dei dati e indicatori di servizio.
+
+### Chi decide, chi gestisce, chi controlla
+
+La programmazione funziona soltanto se le competenze restano distinte.
+
+| Soggetto | Funzione prevalente | Errore da evitare |
 | --- | --- | --- |
-| Indirizzo | Che cosa vuole realizzare l'amministrazione? | Linee di mandato, DUP, indirizzi politici. |
-| Risorse | Con quali entrate e spese? | Bilancio di previsione. |
-| Gestione | Chi fa che cosa, con quali dotazioni? | PEG. |
-| Organizzazione | Con quale struttura, personale, prevenzione rischi e valore pubblico? | PIAO. |
-| Risultato | Come misuro se è stato fatto bene? | Performance, indicatori, relazione e rendicontazione. |
+| Consiglio comunale | approva gli atti fondamentali, tra cui DUP e bilancio secondo la disciplina vigente | attribuirgli la gestione dei singoli procedimenti |
+| Giunta comunale | attua gli indirizzi di governo e delibera il PEG | confonderla con i responsabili che adottano gli atti gestionali |
+| Sindaco | guida l'indirizzo politico-amministrativo e coordina la linea di mandato | considerarlo responsabile contabile delle singole spese |
+| Dirigenti e responsabili | gestiscono obiettivi, risorse, personale e procedimenti assegnati | ridurli a meri esecutori senza autonomia gestionale |
+| Responsabile finanziario | presidia regolarità contabile, copertura, raccordo finanziario ed equilibri | trattare il controllo contabile come un visto privo di sostanza |
+| Organo di revisione | svolge verifiche, esprime pareri e relaziona nei casi previsti | attribuirgli poteri di amministrazione attiva |
+| OIV o organismo equivalente | supporta e presidia il sistema di misurazione e valutazione | confonderlo con il responsabile che realizza l'obiettivo |
 
-Questa tabella ti serve in ogni prova teorico-pratica. Se la traccia dice "il Comune intende istituire un nuovo servizio", non devi partire dall'atto finale. Devi ricostruire la catena: indirizzo, programmazione, bilancio, assegnazione, attuazione, misurazione.
+Il principio di separazione tra indirizzo politico e gestione amministrativa dà ordine alla catena. Gli organi politici scelgono le finalità e allocano le risorse attraverso gli atti di competenza. I responsabili adottano gli atti necessari alla gestione, organizzano il lavoro e rispondono dei risultati. Per il quadro generale di questa separazione resta utile la sezione "Indirizzo politico e gestione amministrativa" del Capitolo 6 di Il Metodo BANDO.
 
-### Mappa BANDO del capitolo
+### Dalla priorità al risultato
 
-| Fase | Domanda operativa | Output atteso |
+Immagina che l'amministrazione voglia ridurre le code all'anagrafe. La decisione politica, da sola, non attiva un progetto. Occorre verificare che la priorità sia coerente con il DUP; stimare risorse per software, formazione o spazi; inserirle nel bilancio; assegnare un obiettivo al responsabile mediante PEG; valutare nel PIAO l'impatto su organizzazione, personale, digitalizzazione e rischi; definire indicatori, come tempo medio di attesa e percentuale di prenotazioni online.
+
+La sequenza consente anche di attribuire le responsabilità. Se manca la copertura, il problema riguarda la sostenibilità finanziaria o la programmazione. Se le risorse sono disponibili ma nessun ufficio ha ricevuto l'obiettivo, manca l'assegnazione gestionale. Se l'obiettivo è assegnato ma l'indicatore è vago, il sistema di performance non permette una valutazione attendibile.
+
+### Applicazione al profilo
+
+Nel profilo amministrativo-contabile la prova può chiedere di individuare il documento competente o di impostare una breve istruttoria. La traccia si ordina con cinque domande:
+
+1. qual è la priorità pubblica;
+2. dove è programmata;
+3. quali risorse la sostengono;
+4. quale responsabile deve attuarla;
+5. come sarà misurata.
+
+Una risposta che elenca documenti senza ricostruire queste relazioni resta descrittiva. Una risposta che indica anche competenza, effetto e passaggio successivo dimostra invece comprensione del sistema.
+
+## N-FL01-09-02 · DUP: strategia, operatività e raccordo con il bilancio
+
+### Che cos'è il DUP
+
+Il Documento unico di programmazione è il principale strumento con cui l'ente locale ordina la propria strategia e la traduce in programmi operativi. Precede e orienta il bilancio di previsione. La sua funzione consiste nello spiegare quali priorità giustificano l'impiego delle risorse, ben oltre il ruolo formale di un allegato.
+
+Il DUP consente di leggere insieme mandato amministrativo, condizioni esterne e interne dell'ente, obiettivi, programmi e sostenibilità. La programmazione finanziaria acquista così un significato amministrativo: ogni cifra va ricondotta alla finalità pubblica che dovrebbe sostenere.
+
+### Sezione strategica e Sezione operativa
+
+Il DUP comprende due sezioni con orizzonti differenti.
+
+La Sezione strategica guarda al periodo del mandato amministrativo. Definisce indirizzi di lungo periodo, tiene conto delle condizioni della comunità e dell'ente e colloca le priorità politiche in un quadro sostenibile. Non descrive ogni singolo atto da adottare. Indica la direzione: migliorare la mobilità, sostenere le famiglie, digitalizzare i servizi, manutenere il patrimonio, rafforzare la capacità di riscossione.
+
+La Sezione operativa traduce quella direzione nell'orizzonte del bilancio di previsione. Organizza programmi, obiettivi e risorse secondo la disciplina contabile applicabile. È più vicina alle decisioni da attuare, ma non coincide con il PEG: il DUP mantiene una funzione programmatoria, mentre il PEG assegna obiettivi e dotazioni ai responsabili della gestione.
+
+| Profilo | Sezione strategica | Sezione operativa |
 | --- | --- | --- |
-| B - Bando | Il programma richiama ordinamento finanziario, bilancio, DUP, PEG, PIAO, performance o controlli? | Attiva il blocco programmazione comunale. |
-| A - Aree | La traccia riguarda organi, atti, contabilità, personale, obiettivi o servizi? | Collega TUEL, armonizzazione, pubblico impiego e organizzazione. |
-| N - Nuclei | Quale documento serve: DUP, bilancio, PEG, PIAO o performance? | Seleziona la funzione corretta del documento. |
-| D - Diario | Quale confusione fai? | Segna errori su DUP/PEG, bilancio/rendiconto, obiettivo/attività. |
-| O - Output | Che cosa devi produrre? | Schema obiettivo-risorsa-responsabile-indicatore e caso guidato. |
+| Orizzonte | mandato amministrativo | periodo del bilancio di previsione |
+| Domanda | dove vuole andare l'ente? | quali programmi attuano gli indirizzi? |
+| Contenuto prevalente | indirizzi e priorità | programmi, obiettivi operativi e raccordo con le risorse |
+| Rischio d'esame | confonderla con un programma elettorale | confonderla con il PEG |
 
-La regola è semplice:
+La distinzione non spezza il documento. Le due sezioni devono essere coerenti. Se la parte strategica promette un forte investimento sulla digitalizzazione, la parte operativa deve individuare programmi compatibili; il bilancio dovrà poi sostenere le relative previsioni.
 
-- se parli di indirizzo e priorità, guarda al DUP;
-- se parli di entrate e spese autorizzate, guarda al bilancio;
-- se parli di responsabili e dotazioni, guarda al PEG;
-- se parli di organizzazione, personale, rischi e valore pubblico, guarda al PIAO;
-- se parli di risultati, guarda alla performance.
+### Rapporto tra DUP e bilancio
 
-### Programmazione comunale come catena operativa
-Il TUEL stabilisce che gli enti locali ispirano la propria gestione al principio della programmazione. Questa formula ha un significato molto concreto: il Comune non dovrebbe limitarsi a registrare entrate e spese, ma deve prevedere, scegliere, autorizzare, assegnare, gestire, controllare e rendicontare.
+Il DUP viene prima sul piano logico perché chiarisce il perché della spesa. Il bilancio stabilisce con quali risorse e nei limiti di quale autorizzazione finanziaria la programmazione può essere attuata. Una buona risposta aggiunge quindi che il DUP orienta il bilancio e ne costituisce il quadro programmatorio.
 
-La programmazione comunale mette in relazione tre mondi:
+Il rapporto può essere verificato con tre domande:
 
-- politica: Sindaco, Giunta e Consiglio definiscono indirizzi, priorità e atti fondamentali;
-- finanza: il bilancio rende sostenibili le scelte e autorizza la gestione;
-- amministrazione: responsabili e uffici trasformano obiettivi e risorse in atti, servizi e risultati.
+- la previsione di spesa corrisponde a un programma dichiarato?
+- il programma è sostenibile rispetto alle entrate e ai vincoli dell'ente?
+- l'obiettivo operativo è formulato in modo da poter essere assegnato e misurato?
 
-In prova puoi usare questa frase:
+Se manca questo raccordo, il bilancio rischia di diventare un insieme di stanziamenti privi di una priorità leggibile. Al contrario, un DUP senza riscontro finanziario resta una dichiarazione non attuabile.
 
-> La programmazione comunale è la catena che collega indirizzo politico, risorse finanziarie, obiettivi gestionali, organizzazione degli uffici e misurazione dei risultati.
+### Esempio: manutenzione degli edifici scolastici
 
-Questa frase ti evita due errori:
+Supponiamo che l'amministrazione individui la sicurezza degli edifici scolastici come priorità. La Sezione strategica colloca l'obiettivo nel mandato, considerando condizioni del patrimonio e bisogni della comunità. La Sezione operativa individua il programma, gli interventi previsti e il raccordo con le risorse. Il bilancio autorizza gli stanziamenti. Il PEG assegna obiettivi e dotazioni al responsabile tecnico. Il PIAO può considerare competenze, fabbisogni organizzativi e rischi. Gli indicatori misurano interventi completati, tempi e scostamenti.
 
-- ridurre la programmazione alla sola contabilità;
-- ridurre la performance a un giudizio astratto sui dipendenti.
+Il DUP, dunque, non è un elenco di lavori. È il punto in cui l'ente spiega la coerenza tra priorità, programma e quadro finanziario.
 
-### Chi fa che cosa
-La programmazione integrata richiede una corretta mappa delle competenze.
+### Uso nella prova
 
-| Soggetto | Ruolo nella programmazione | Attenzione da concorso |
+Alla domanda "Qual è la funzione del DUP?" una risposta completa deve contenere quattro elementi: natura programmatoria, articolazione strategica e operativa, rapporto con il mandato e funzione di orientamento del bilancio. Puoi aggiungere il collegamento con PEG e performance, evitando però di attribuire al DUP l'assegnazione gestionale delle risorse.
+
+Errore tipico: "Il DUP è il bilancio politico del Comune". La formula è imprecisa. Il DUP non sostituisce il bilancio e non produce l'autorizzazione finanziaria propria di quest'ultimo. Organizza invece gli indirizzi e i programmi che il bilancio deve sostenere.
+
+## N-FL01-09-03 · Bilancio di previsione e armonizzazione contabile
+
+### Funzione autorizzatoria
+
+Il bilancio di previsione finanziario traduce la programmazione in previsioni di entrata e di spesa e autorizza la gestione finanziaria dell'ente. Nel Comune una priorità può diventare azione amministrativa soltanto se dispone di una previsione coerente e delle risorse necessarie. Il bilancio non dimostra ciò che è già avvenuto: questa è la funzione del rendiconto. Guarda alla gestione futura e ne delimita lo spazio finanziario.
+
+La disciplina collega il bilancio a un orizzonte pluriennale. Nel primo esercizio sono presenti previsioni di competenza e di cassa; negli esercizi successivi operano le previsioni di competenza previste dal sistema. La competenza indica le obbligazioni riferite all'esercizio secondo le regole contabili; la cassa riguarda incassi e pagamenti. L'approfondimento tecnico sulla competenza finanziaria potenziata e sull'esigibilità appartiene al capitolo 10.
+
+Per una risposta concorsuale sono essenziali cinque concetti:
+
+1. il bilancio è coerente con il DUP;
+2. ha funzione autorizzatoria;
+3. comprende entrate e spese secondo schemi e principi armonizzati;
+4. deve rispettare gli equilibri;
+5. costituisce la base per l'assegnazione gestionale tramite PEG.
+
+### Armonizzazione contabile
+
+Il decreto legislativo 118/2011 ha armonizzato sistemi contabili e schemi di bilancio di Regioni ed enti locali. L'obiettivo è rendere i dati pubblici più leggibili, confrontabili e raccordabili. Gli enti non costruiscono quindi i documenti contabili secondo modelli liberamente inventati: applicano principi generali e principi contabili applicati.
+
+Qui contano soprattutto il principio della programmazione e il rapporto tra documenti. L'armonizzazione rende leggibile la catena che unisce programmazione, gestione e rendicontazione. I dettagli su piano dei conti integrato, residui, fondo pluriennale vincolato e fondo crediti di dubbia esigibilità saranno esaminati nel capitolo successivo.
+
+| Distinzione | Bilancio di previsione | Rendiconto |
 | --- | --- | --- |
-| Consiglio comunale | Approva atti fondamentali, tra cui bilancio e strumenti programmatori secondo la disciplina vigente. | Non attribuire al Consiglio la gestione operativa. |
-| Giunta comunale | Traduce indirizzi in atti esecutivi e gestionali di competenza politica; delibera il PEG. | Non confondere Giunta e responsabili dei servizi. |
-| Sindaco | Guida l'indirizzo politico-amministrativo e rappresenta l'ente. | Collegare mandato, indirizzi e coordinamento politico. |
-| Responsabili/dirigenti | Gestiscono obiettivi, procedimenti, risorse assegnate e atti di gestione. | Separazione tra indirizzo politico e gestione. |
-| Responsabile finanziario | Presidia regolarità contabile, equilibri, copertura e raccordo finanziario. | Il controllo contabile non è una formalita. |
-| Organo di revisione | Esprime pareri, svolge verifiche e supporta il controllo tecnico-contabile. | Non è organo di gestione. |
-| OIV o nucleo equivalente | Presidia misurazione e valutazione della performance secondo l'assetto dell'ente. | Verificare ordinamento locale e disciplina applicabile. |
+| Tempo | gestione futura | gestione conclusa |
+| Funzione | autorizza e programma finanziariamente | dimostra i risultati |
+| Domanda | quali risorse possono essere gestite? | quali risultati finanziari, economici e patrimoniali sono emersi? |
+| Collocazione | prima e durante la gestione | dopo la chiusura dell'esercizio |
 
-Questa mappa deve stare dietro ogni risposta. La programmazione non è solo "cosa fare"; è anche "chi decide, chi gestisce, chi controlla".
+Confondere previsione e rendicontazione produce risposte sbagliate anche quando le definizioni isolate sembrano corrette. Il bilancio può essere modificato durante l'esercizio attraverso gli strumenti previsti dall'ordinamento. Variazioni, assestamento e salvaguardia degli equilibri permettono di adeguare la gestione a nuove esigenze, ma non autorizzano decisioni informali: ogni modifica deve seguire competenze e procedure proprie.
 
-### DUP: il documento che orienta
-Il DUP è il Documento unico di programmazione. Nel TUEL e nei principi contabili applicati è il documento che precede e orienta il bilancio. Non è un allegato decorativo: è la sede in cui l'ente collega visione strategica, missioni, programmi, risorse e priorità.
+### Sostenibilità e responsabilità
 
-Il DUP è composto da due sezioni:
+Una richiesta politica non genera automaticamente una spesa. Il servizio competente deve verificare presupposti, programma, stanziamento e procedura. Il responsabile finanziario presidia il raccordo contabile e gli equilibri; non sceglie la priorità politica, ma verifica che gli atti finanziari e gestionali rispettino il quadro dell'ente.
 
-- Sezione strategica, collegata all'orizzonte del mandato amministrativo;
-- Sezione operativa, collegata all'orizzonte del bilancio di previsione.
+Anche lo stanziamento non coincide con una decisione gestionale già perfezionata né con un pagamento immediato. Indica lo spazio autorizzatorio entro cui il responsabile competente può operare, dopo avere verificato presupposti, obbligazione e procedura applicabile. L'atto di gestione deve quindi trovare una previsione adeguata, ma conserva una propria funzione e una propria responsabilità. Il bilancio, perciò, non è un elenco di spese automaticamente dovute.
 
-Per il candidato questo significa che il DUP ha due livelli:
+Prendiamo un contributo regionale destinato ai servizi educativi. La disponibilità annunciata non basta. L'ente deve verificare il titolo dell'entrata, il vincolo, la corretta previsione, l'eventuale variazione, l'assegnazione al responsabile e le condizioni di utilizzo. Solo dopo potrà adottare gli atti di gestione e misurare il risultato. Nel capitolo 10 la stessa situazione sarà osservata attraverso accertamento, impegno, liquidazione e rendicontazione.
 
-- livello lungo: dove vuole andare l'amministrazione durante il mandato;
-- livello operativo: che cosa si intende fare nel periodo di bilancio.
+### Applicazione al profilo
 
-Una risposta forte:
+Se una traccia chiede di avviare un nuovo servizio, la risposta deve contenere una verifica finanziaria esplicita. Scrivere "si procede con determina" è prematuro se non hai chiarito programmazione e disponibilità delle risorse. Una scaletta corretta parte dal DUP, passa al bilancio, individua PEG e responsabile, quindi descrive gli atti gestionali necessari.
 
-> Il DUP è il documento di programmazione che collega mandato politico, analisi del contesto, obiettivi strategici e operativi, risorse disponibili e successivo bilancio di previsione. Serve a evitare che il bilancio sia solo un elenco di entrate e spese: le previsioni devono essere coerenti con indirizzi e priorità.
+Per le scadenze bisogna distinguere le regole strutturali dai differimenti annuali. Il TUEL prevede termini ordinari, ma la normativa consente differimenti nei casi stabiliti. In sede di studio conviene conoscere la struttura; per una prova che richiede la data vigente occorre verificare la fonte ufficiale aggiornata, come il portale Finanza locale del Ministero dell'interno e la Gazzetta Ufficiale.
 
-Il DUP è utile anche nelle prove pratiche. Se devi programmare un nuovo servizio, devi chiederti: è coerente con la Sezione strategica? compare nella Sezione operativa? richiede risorse nel bilancio? comporta obiettivi nel PEG o nel PIAO?
+## N-FL01-09-04 · PEG, obiettivi, dotazioni e responsabilità gestionale
 
-### Bilancio di previsione: autorizzare la gestione
-Il bilancio di previsione finanziario è il documento che autorizza la gestione finanziaria. In un Comune, la scelta politica diventa amministrabile solo se trova copertura e coerenza nel bilancio.
+### Il ruolo del PEG
 
-La disciplina vigente collega il bilancio a un orizzonte almeno triennale. Il primo esercizio contiene previsioni di competenza e di cassa; gli esercizi successivi contengono previsioni di competenza. Il bilancio non è solo una previsione economica: è un atto autorizzatorio, perché definisce le risorse che possono essere gestite.
+Il Piano esecutivo di gestione collega bilancio e attività degli uffici. La Giunta lo delibera dopo l'approvazione del bilancio, nei termini previsti dal TUEL, e individua obiettivi di gestione, dotazioni e responsabili dei servizi. Il PEG risponde quindi a tre domande: che cosa deve essere realizzato, chi ne risponde e con quali risorse.
 
-Per il candidato amministrativo non serve entrare nei dettagli di ogni allegato. Serve ricordare:
+Il documento rende concreta la separazione tra indirizzo politico e gestione. La Giunta assegna; il dirigente o responsabile gestisce. Quest'ultimo organizza procedimenti, adotta atti, utilizza le dotazioni assegnate e risponde dei risultati. Il PEG resta distinto dalle determinazioni e dagli altri atti che daranno esecuzione agli obiettivi.
 
-- il bilancio deriva dal DUP;
-- il bilancio autorizza entrate e spese;
-- il bilancio rispetta principi contabili generali e applicati;
-- il bilancio deve mantenere gli equilibri;
-- senza previsione e copertura non si può trasformare una priorità in spesa legittima;
-- i termini possono essere differiti con provvedimenti ministeriali nei casi previsti.
+La relazione tra i documenti può essere sintetizzata così:
 
-Formula orale:
+| Documento | Funzione | Soggetto/competenza prevalente | Effetto successivo |
+| --- | --- | --- | --- |
+| DUP | definisce strategia e programmi | Consiglio, nel sistema degli atti fondamentali | orienta bilancio e obiettivi |
+| Bilancio | autorizza la gestione finanziaria | Consiglio | rende disponibili stanziamenti nel quadro autorizzatorio |
+| PEG | assegna obiettivi e dotazioni | Giunta | attiva la responsabilità gestionale |
+| Determinazione | assume la decisione gestionale di competenza | dirigente o responsabile | produce effetti sul procedimento e, se previsto, sulla spesa |
 
-> Il bilancio di previsione è il documento finanziario autorizzatorio che traduce la programmazione in previsioni di entrata e di spesa, nel rispetto degli equilibri e dei principi contabili armonizzati. Nel Comune è strettamente collegato al DUP e costituisce la base per la successiva assegnazione gestionale tramite PEG.
+L'approvazione del PEG non rende la Giunta titolare della gestione. La Giunta assegna obiettivi e risorse; il responsabile adotta gli atti di propria competenza.
 
-### Armonizzazione contabile: perché conta anche qui
-Il D.Lgs. 118/2011 ha introdotto l'armonizzazione contabile degli enti territoriali. Nel capitolo successivo entreremo nella gestione finanziaria. Qui basta capire perché l'armonizzazione è importante per la programmazione.
+### Come formulare un obiettivo
 
-L'armonizzazione serve a rendere bilanci e rendiconti più omogenei, leggibili e confrontabili. I principi contabili generali e applicati riguardano programmazione, contabilità finanziaria, contabilità economico-patrimoniale e bilancio consolidato.
+Un obiettivo utile non coincide con una semplice attività. "Gestire lo sportello" descrive un compito ordinario. "Ridurre il tempo medio di attesa allo sportello da un valore iniziale a un target verificabile entro il periodo assegnato" indica un risultato misurabile. La formulazione deve essere coerente con risorse, responsabilità e tempi.
 
-In pratica, il Comune non costruisce DUP e bilancio con schemi liberi. Deve rispettare regole comuni. Questo aiuta:
+Per leggere un obiettivo puoi usare questa griglia:
 
-- Consiglio e Giunta a decidere su dati ordinati;
-- responsabili a gestire risorse coerenti;
-- cittadini e organi di controllo a leggere le scelte;
-- revisori e Corte dei conti a controllare;
-- lo Stato a consolidare dati di finanza pubblica.
+- risultato atteso: quale cambiamento deve prodursi;
+- responsabile: chi governa l'attuazione;
+- risorse: quali dotazioni finanziarie, umane o strumentali sono assegnate;
+- indicatore: quale misura rende osservabile il risultato;
+- target: quale livello si vuole raggiungere;
+- termine: entro quando deve essere verificato;
+- rischio: quale evento può impedire il risultato.
 
-Il candidato deve evitare formule tecniche non spiegate. Se citi competenza finanziaria potenziata, FPV o FCDE, devi sapere che appartengono al linguaggio della gestione e degli equilibri; qui bastano come segnali del sistema armonizzato, non come centro del capitolo.
+Se manca una di queste componenti, l'obiettivo può diventare ambiguo. Un target privo di risorse è irrealistico; risorse senza responsabile non generano accountability; un indicatore senza valore iniziale o criterio di rilevazione può risultare inutilizzabile.
 
-### PEG: il ponte tra politica e uffici
-Il PEG è il Piano esecutivo di gestione. Secondo il TUEL, la Giunta lo delibera entro venti giorni dall'approvazione del bilancio di previsione; il PEG individua obiettivi di gestione e affida obiettivi e dotazioni ai responsabili dei servizi.
+### PEG e variazioni
 
-Questa è la sua funzione principale:
+La programmazione non è immobile. Un nuovo finanziamento, una riduzione di entrata, un'emergenza o un cambiamento organizzativo possono richiedere l'adeguamento dei documenti. La modifica deve rispettare la coerenza dell'intera catena. Se cambia il bilancio, può diventare necessario aggiornare l'assegnazione gestionale. Se cambia il responsabile o l'organizzazione, occorre verificare PEG e PIAO. Se cambia il risultato atteso, devono essere aggiornati indicatori e target.
 
-> il PEG trasforma il bilancio e la programmazione in responsabilità gestionali.
+I singoli tipi di variazione saranno studiati nel capitolo 10. In una prova pratica conta prima di tutto mostrare che una decisione sopravvenuta richiede la verifica degli strumenti e delle competenze prima di entrare nella gestione.
 
-Il DUP dice dove andare. Il bilancio autorizza le risorse. Il PEG assegna a uffici e responsabili il compito di realizzare obiettivi con dotazioni definite.
+### Caso breve: sportello tributi digitale
 
-Nel concorso devi distinguere bene:
+Il Comune decide di potenziare lo sportello tributi digitale. Il DUP colloca la priorità nel programma di semplificazione. Il bilancio prevede risorse per software e formazione. Il PEG assegna al responsabile tributi l'obiettivo di attivare il servizio e al responsabile informatico le attività di supporto. Le determinazioni avviano gli acquisti o gli altri procedimenti necessari. Il sistema di performance misura utilizzo del canale digitale, tempi di risposta e riduzione degli accessi fisici.
 
-| Documento | Domanda a cui risponde |
-| --- | --- |
-| DUP | Quali priorità strategiche e operative ha l'ente? |
-| Bilancio | Quali risorse sono previste e autorizzate? |
-| PEG | Quali obiettivi e risorse sono assegnati ai responsabili? |
+Il responsabile finanziario verifica il raccordo contabile. Il responsabile del servizio resta titolare della gestione dell'obiettivo. Se il software è acquistato ma il personale non è formato, l'attività è stata avviata, ma il risultato può non essere raggiunto. La differenza tra adempimento e risultato collega PEG e performance.
 
-Il PEG è fondamentale per capire la separazione tra indirizzo politico e gestione. La Giunta assegna obiettivi e risorse. Il responsabile gestisce, adotta atti, organizza procedimenti, assume impegni nei limiti delle competenze e risponde dei risultati secondo il sistema di performance.
+### Uso nella prova
 
-### PIAO: integrazione organizzativa e valore pubblico
-Il PIAO è il Piano integrato di attività e organizzazione. Il Portale PIAO del Dipartimento della funzione pubblica lo presenta come documento unico di programmazione e governance che assorbe molti piani prima separati: performance, fabbisogni del personale, parità di genere, lavoro agile, anticorruzione.
+Alla domanda "Qual è la differenza tra DUP e PEG?" puoi rispondere:
 
-Nel Comune il PIAO deve essere letto come raccordo tra:
+> Il DUP definisce indirizzi strategici e programmi operativi e orienta il bilancio; il PEG, deliberato dalla Giunta dopo il bilancio, assegna obiettivi di gestione, dotazioni e responsabilità ai dirigenti o responsabili dei servizi. Il primo programma la direzione dell'ente, il secondo rende operativa l'assegnazione gestionale.
 
-- obiettivi e valore pubblico;
-- performance;
-- organizzazione;
-- capitale umano;
-- fabbisogni di personale;
-- formazione;
-- lavoro agile, se disciplinato;
-- rischi corruttivi e trasparenza;
-- semplificazione e qualità dei servizi.
+## N-FL01-09-05 · PIAO, valore pubblico e capacità organizzativa
 
-Per il candidato la domanda non è "che cosa contiene tutto il PIAO". La domanda utile è:
+### Funzione del PIAO
 
-> come il Comune organizza persone, processi, rischi e obiettivi per realizzare la propria programmazione?
+Il Piano integrato di attività e organizzazione raccoglie in un quadro unitario diverse dimensioni che in passato erano distribuite tra piani separati. La disciplina introdotta nel 2022 collega valore pubblico, performance, rischi corruttivi e trasparenza, organizzazione e capitale umano. Il D.P.R. 81/2022 individua gli adempimenti assorbiti; il decreto ministeriale 132/2022 definisce contenuti e Piano tipo.
 
-Il PIAO non sostituisce il DUP e non sostituisce il bilancio. Opera su un piano diverso: integra organizzazione e performance con la programmazione amministrativa. Se il bilancio risponde alla domanda "con quali risorse?", il PIAO risponde anche alla domanda "con quale organizzazione e con quali capacità?".
+Il PIAO opera sul piano organizzativo. Lascia al DUP la programmazione strategica e operativa, al bilancio l'autorizzazione finanziaria e al PEG l'assegnazione di obiettivi e dotazioni. Il suo compito riguarda il modo in cui l'amministrazione organizza persone, competenze, processi e presìdi. La parola "integrato" richiama il coordinamento tra queste dimensioni.
 
-### Performance: dal fare atti al produrre risultati
-Il ciclo della performance, fondato sul D.Lgs. 150/2009, sposta l'attenzione dalla sola produzione di atti alla produzione di risultati. Una determinazione formalmente corretta è necessaria, ma non basta a dire che un servizio ha funzionato.
+Per esempio, un progetto di digitalizzazione può avere un obiettivo di performance, richiedere formazione, modificare l'organizzazione del lavoro, incidere sui rischi corruttivi e sulla protezione dei dati. Un piano che considera soltanto l'acquisto del software lascia fuori la capacità effettiva dell'ente di usare lo strumento.
 
-La performance chiede:
+### Le dimensioni essenziali
 
-- quali obiettivi sono stati assegnati?
-- quali indicatori misurano il risultato?
-- quali risorse erano disponibili?
-- quali tempi erano previsti?
-- quale qualità del servizio è stata raggiunta?
-- quali scostamenti si sono verificati?
-- come si valuta la struttura o il responsabile?
+Il PIAO può essere letto attraverso quattro domande.
 
-In un Comune, performance e PEG sono strettamente collegati. Il PEG assegna obiettivi e dotazioni; il sistema di performance misura e valuta. Il PIAO integra questi obiettivi dentro un quadro più ampio di valore pubblico, organizzazione e rischi.
+| Dimensione | Domanda | Esempio comunale |
+| --- | --- | --- |
+| Valore pubblico e performance | quale beneficio deve ricevere la comunità e come lo misuriamo? | riduzione dei tempi di rilascio di un'autorizzazione |
+| Rischi corruttivi e trasparenza | quali rischi possono alterare correttezza e imparzialità? | criteri opachi nella gestione di una graduatoria |
+| Organizzazione | quali processi e assetti devono cambiare? | integrazione tra sportello, protocollo e servizio competente |
+| Capitale umano | quali persone e competenze servono? | formazione digitale e copertura del fabbisogno professionale |
 
-Una risposta orale efficace:
+Le amministrazioni con più di cinquanta dipendenti seguono il quadro generale del Piano tipo; per gli enti con meno di cinquanta dipendenti è prevista una disciplina semplificata. In un manuale generale non conviene trasformare questa distinzione in un elenco rigido di adempimenti, perché l'applicazione deve essere verificata sulla disciplina vigente e sulle caratteristiche dell'ente.
 
-> La performance non è una pagella astratta del dipendente. È il sistema con cui l'amministrazione collega obiettivi, indicatori, risorse, risultati e accountability, valutando sia l'organizzazione sia i responsabili, nel quadro definito dal D.Lgs. 150/2009 e dagli strumenti di programmazione dell'ente.
+### Valore pubblico e coerenza
 
-### La tavola obiettivo-risorsa-responsabile-indicatore
-Per studiare il capitolo devi saper costruire una tavola operativa. È l'output più utile.
+Il valore pubblico esprime il beneficio che l'azione amministrativa produce per cittadini, imprese e comunità, salvaguardando nel tempo risorse e capacità dell'ente. Una dichiarazione astratta è insufficiente: il beneficio deve tradursi in obiettivi verificabili.
 
-| Priorità | Documento | Risorsa | Responsabile | Indicatore | Rischio |
+Se un Comune vuole migliorare l'accessibilità dei servizi, il risultato non coincide con "approvare il PIAO". Può riguardare tempi di attesa, fruibilità digitale, assistenza agli utenti fragili, accessibilità dei canali e qualità percepita. Il PIAO deve mostrare quali cambiamenti organizzativi e quali competenze sostengono quel risultato.
+
+La coerenza va letta in entrambe le direzioni. Un obiettivo finanziato ma privo di personale o competenze rischia di fallire. Un piano di formazione non collegato a obiettivi reali rischia di diventare un adempimento. Un presidio anticorruzione scollegato dai processi più esposti non riduce il rischio effettivo.
+
+### Rapporto con DUP, bilancio e PEG
+
+I documenti operano su piani diversi ma devono parlare tra loro:
+
+- il DUP definisce priorità e programmi;
+- il bilancio autorizza le risorse;
+- il PEG assegna obiettivi e dotazioni;
+- il PIAO verifica e programma capacità organizzativa, performance, personale e rischi;
+- il sistema di performance misura il raggiungimento dei risultati.
+
+La risposta corretta alla domanda-trappola "Il PIAO sostituisce bilancio e PEG?" è no. Il PIAO integra piani organizzativi e di performance, ma non assume la funzione finanziaria autorizzatoria del bilancio né la funzione di assegnazione gestionale del PEG.
+
+### Applicazione al profilo
+
+In una prova pratica il PIAO entra quando l'obiettivo richiede cambiamenti nelle persone o nei processi. Per un nuovo sportello digitale, per esempio, devi chiederti se il personale possiede le competenze necessarie, se cambiano responsabilità e flussi di lavoro, quali rischi emergono, come si tutela l'utenza e quali indicatori misurano il servizio.
+
+Per il quadro generale puoi richiamare le sezioni "Performance amministrativa" e "PIAO essenziale" del Capitolo 6 di Il Metodo BANDO. In questo modulo conta soprattutto l'applicazione comunale: raccordare il PIAO con DUP, bilancio, PEG e caratteristiche organizzative dell'ente.
+
+## N-FL01-09-06 · Performance, indicatori e programmazione applicata
+
+### Dal compimento dell'attività al risultato
+
+Il ciclo della performance, disciplinato dal decreto legislativo 150/2009 e coordinato con il PIAO, collega obiettivi, indicatori, monitoraggio, risultati e valutazione. La correttezza formale degli atti resta necessaria, ma non dimostra da sola che il servizio abbia funzionato.
+
+Un ufficio può adottare tutte le determinazioni previste e tuttavia non ridurre i tempi di attesa. Va quindi distinta la produzione amministrativa dal risultato. L'output comprende pratiche lavorate, corsi svolti e sportelli aperti. Il risultato descrive l'effetto: riduzione dell'arretrato, maggiore accessibilità, diminuzione dei tempi o miglioramento della qualità.
+
+La performance può riguardare l'amministrazione nel suo complesso, una struttura organizzativa o il contributo individuale. Nel capitolo interessa soprattutto il raccordo organizzativo: gli obiettivi assegnati devono essere coerenti con risorse e responsabilità e devono consentire una misurazione attendibile.
+
+### Indicatori e target
+
+Un indicatore è una misura che rende osservabile l'andamento di un obiettivo. Il target è il livello da raggiungere. Per essere utile, l'indicatore deve avere una definizione chiara, una fonte del dato, una frequenza di rilevazione e un responsabile della misurazione.
+
+| Obiettivo | Indicatore debole | Indicatore più utile |
+| --- | --- | --- |
+| migliorare lo sportello | servizio migliorato | tempo medio di attesa e percentuale di pratiche concluse entro il termine |
+| digitalizzare le istanze | portale attivo | percentuale di istanze presentate online e tasso di richieste incomplete |
+| formare il personale | corso realizzato | percentuale di operatori formati e verifica delle competenze applicate |
+| ridurre l'arretrato | numero di riunioni | pratiche arretrate all'inizio e alla fine del periodo |
+
+L'indicatore debole descrive spesso un'attività o usa parole non misurabili. Quello più utile collega il risultato a un dato verificabile. Non esiste però un indicatore perfetto per ogni caso. Il tempo di risposta, per esempio, deve essere letto insieme alla qualità e alla complessità delle pratiche; altrimenti può premiare una lavorazione rapida ma superficiale.
+
+### Tavola obiettivo-risorsa-responsabile-indicatore
+
+| Priorità | Documenti interessati | Risorsa | Responsabile | Indicatore | Rischio |
 | --- | --- | --- | --- | --- | --- |
-| Potenziare sportello digitale tributi. | DUP/PIAO. | Capitolo spesa ICT e formazione. | Responsabile tributi/innovazione. | Numero pratiche online, tempi risposta. | Mancata formazione, accessibilità, privacy. |
-| Aumentare posti nido. | DUP, bilancio, PEG. | Risorse comunali/regionali/fondi dedicati. | Responsabile servizi educativi. | Posti disponibili, domande evase, tempi graduatoria. | Graduatoria contestata, dati minori. |
-| Manutenzione scuole. | DUP, bilancio investimenti, PEG. | Spesa investimento o manutenzione. | Responsabile tecnico. | Interventi completati, tempi, sicurezza. | Ritardi affidamento, insufficienza copertura. |
-| Ridurre tempi pagamenti. | PIAO/performance, PEG. | Organizzazione e sistemi contabili. | Responsabile finanziario e servizi. | Tempo medio pagamento. | Debiti commerciali, ritardi istruttoria. |
+| aumentare i posti nido | DUP, bilancio, PEG, PIAO | stanziamenti, personale e strutture | servizi educativi | posti disponibili, domande soddisfatte, tempi graduatoria | criteri poco chiari o capacità insufficiente |
+| ridurre i tempi di pagamento | DUP/PEG, bilancio e PIAO | sistemi contabili e organizzazione | finanziario e servizi | tempo medio e pratiche oltre termine | ritardi istruttori o dati incompleti |
+| manutenere le scuole | DUP, bilancio e PEG | risorse di investimento o manutenzione | servizio tecnico | interventi completati, tempi e scostamenti | ritardi di affidamento o copertura insufficiente |
+| potenziare lo sportello digitale | DUP, bilancio, PEG e PIAO | software, formazione e assistenza | servizio competente e innovazione | uso del canale, tempi e accessibilità | esclusione digitale o mancata formazione |
 
-Questa tabella funziona perché unisce quattro linguaggi: politico, finanziario, organizzativo e valutativo.
+La tavola costringe a verificare tutte le componenti. Se una colonna resta vuota, la programmazione presenta un punto debole.
 
-### Caso guidato: nuovo servizio comunale da programmare
-Il Comune vuole avviare un servizio di prenotazione online per appuntamenti con l'ufficio servizi sociali e con l'ufficio anagrafe. L'obiettivo politico è ridurre code allo sportello, migliorare accessibilità e monitorare i tempi di risposta. Il servizio richiede software, formazione del personale e riorganizzazione degli orari.
+### Caso guidato: prenotazioni online per anagrafe e servizi sociali
 
-Come si imposta la programmazione?
+Il Comune vuole introdurre un sistema di prenotazione online per l'anagrafe e i servizi sociali. L'obiettivo politico è ridurre le code, migliorare l'accessibilità e conoscere i tempi di risposta. Servono software, formazione e una revisione degli orari.
 
-Primo passaggio: collegare la scelta al DUP.
+Nel DUP la scelta deve risultare coerente con digitalizzazione, semplificazione e qualità dei servizi. Il bilancio deve prevedere le risorse per tecnologia, assistenza, formazione e comunicazione. Il PEG assegna obiettivi e dotazioni ai responsabili dei servizi coinvolti. Il PIAO valuta competenze, organizzazione, accessibilità, rischi e protezione dei dati. Il sistema di performance misura data di attivazione, percentuale di prenotazioni online, attese allo sportello, operatori formati e segnalazioni degli utenti.
 
-La priorità deve trovare coerenza con gli obiettivi strategici e operativi dell'ente: digitalizzazione, accessibilità, servizi al cittadino, semplificazione e qualità del rapporto con l'utenza.
+La decisione non si esaurisce con l'acquisto del software. Se gli utenti fragili non riescono ad accedere, se gli orari non cambiano o se gli operatori non sono formati, il progetto produce un output tecnico ma non il risultato atteso. Il monitoraggio deve quindi collegare quantità e qualità.
 
-Secondo passaggio: verificare il bilancio.
+### Risposta orale
 
-Occorre individuare risorse per software, formazione, eventuale assistenza tecnica e comunicazione ai cittadini. Se non ci sono risorse, serve variazione o riprogrammazione secondo le regole.
+> La programmazione integrata comunale collega DUP, bilancio, PEG, PIAO e performance. Il DUP definisce indirizzi strategici e programmi operativi; il bilancio autorizza le risorse; il PEG assegna obiettivi e dotazioni ai responsabili; il PIAO raccorda valore pubblico, organizzazione, personale e rischi; il ciclo della performance misura risultati e scostamenti. La catena trasforma una priorità politica in gestione amministrativa tracciabile e valutabile, nel rispetto della separazione tra indirizzo e gestione.
 
-Terzo passaggio: assegnare nel PEG.
+## ▣ Verifica 09.A · Quiz commentati e caso ragionato
 
-La Giunta assegna obiettivi e dotazioni ai responsabili: ad esempio servizi demografici, servizi sociali, innovazione digitale e finanziario. Ogni responsabile deve sapere che cosa deve fare e con quali risorse.
+### Quiz 1 — Funzione del DUP
 
-Quarto passaggio: integrare nel PIAO.
+Quale affermazione descrive meglio il DUP?
 
-Il progetto può incidere su valore pubblico, performance, formazione, lavoro agile, semplificazione, accessibilità, rischi e privacy. Il PIAO aiuta a vedere se l'organizzazione è in grado di sostenere il cambiamento.
+- A. È l'atto con cui il responsabile assume ogni impegno di spesa.
+- B. È il documento che ordina strategia e programmi e orienta il bilancio.
+- C. È il documento che dimostra i risultati della gestione conclusa.
+- D. È il piano che valuta esclusivamente la produttività individuale.
 
-Quinto passaggio: definire indicatori.
+**Risposta corretta: B.** Il DUP collega indirizzi strategici, programmi operativi e quadro finanziario. Non è un atto di gestione, non è il rendiconto e non coincide con il sistema di valutazione.
 
-Non basta dire "avviare il servizio". Servono indicatori:
+### Quiz 2 — Bilancio di previsione
 
-- data di attivazione;
-- numero di appuntamenti prenotati online;
-- riduzione attese allo sportello;
-- percentuale di operatori formati;
-- segnalazioni o reclami;
-- accessibilità del servizio;
-- tempi medi di risposta.
+La funzione autorizzatoria del bilancio di previsione significa che:
 
-Risposta sintetica da prova:
+- A. il bilancio sostituisce tutti gli atti gestionali;
+- B. il Consiglio gestisce direttamente ogni capitolo di spesa;
+- C. la gestione finanziaria deve svolgersi entro le previsioni e i vincoli approvati;
+- D. le previsioni dimostrano già il risultato finale.
 
-> Il nuovo servizio deve essere programmato nel DUP come priorità strategica o operativa, sostenuto dal bilancio di previsione con risorse adeguate, tradotto nel PEG in obiettivi e dotazioni assegnati ai responsabili, integrato nel PIAO per gli effetti su organizzazione, formazione, digitalizzazione, rischi e performance, e misurato tramite indicatori di risultato come tempi di attivazione, riduzione delle code, uso del servizio e qualità percepita.
+**Risposta corretta: C.** Il bilancio delimita e autorizza la gestione finanziaria. Gli atti gestionali restano di competenza dei dirigenti o responsabili e i risultati saranno dimostrati dal rendiconto.
 
-### Programmazione, variazioni e gestione
-La programmazione non è immobile. Durante l'anno possono cambiare risorse, bisogni, priorità, vincoli e tempi. Per questo esistono variazioni di bilancio, assestamento e salvaguardia degli equilibri.
+### Quiz 3 — DUP e PEG
 
-Il candidato non deve trattare qui tutti i dettagli tecnici. Deve capire il principio:
+Qual è la distinzione corretta?
 
-> se cambia la scelta o cambiano le risorse, occorre verificare coerenza con programmazione, bilancio, PEG e responsabilità.
+- A. Il DUP assegna le dotazioni ai responsabili, il PEG approva il bilancio.
+- B. Il DUP programma indirizzi e programmi, il PEG assegna obiettivi e dotazioni.
+- C. Il DUP riguarda solo la politica, il PEG soltanto la contabilità.
+- D. I due documenti hanno la stessa funzione.
 
-Esempio: se il Comune riceve un contributo regionale per un servizio educativo, non basta "spendere i soldi". Occorre accertare l'entrata, prevedere o variare la spesa, assegnare l'obiettivo, individuare il responsabile, rispettare vincoli, controllare tempi e misurare risultati.
+**Risposta corretta: B.** Il DUP orienta programmazione e bilancio. Il PEG, deliberato dalla Giunta, rende operativa l'assegnazione a dirigenti e responsabili.
 
-Questo è il collegamento con il capitolo successivo, che entrera nella gestione finanziaria.
+### Quiz 4 — PIAO
 
-### Come rispondere all'orale
-Per una domanda su programmazione integrata comunale puoi usare questa scaletta:
+Il PIAO:
 
-1. definizione: sistema che collega indirizzo, risorse, obiettivi, organizzazione e risultati;
-2. DUP: documento strategico e operativo che precede e orienta il bilancio;
-3. bilancio di previsione: documento finanziario autorizzatorio, almeno triennale, coerente con DUP e principi armonizzati;
-4. PEG: assegnazione di obiettivi e dotazioni ai responsabili dei servizi;
-5. PIAO: integrazione tra performance, organizzazione, fabbisogni, anticorruzione, trasparenza e valore pubblico;
-6. performance: misurazione e valutazione dei risultati;
-7. organi: Consiglio approva atti fondamentali, Giunta assegna tramite PEG, responsabili gestiscono, finanziario presidia equilibri;
-8. chiusura: la buona risposta non elenca documenti, ma spiega la catena.
+- A. sostituisce il bilancio di previsione;
+- B. sostituisce sempre il PEG;
+- C. integra valore pubblico, performance, rischi, organizzazione e capitale umano;
+- D. contiene soltanto il piano delle assunzioni.
 
-Risposta breve:
+**Risposta corretta: C.** Il PIAO coordina più dimensioni organizzative. Non assume la funzione autorizzatoria del bilancio né quella di assegnazione gestionale del PEG.
 
-> La programmazione integrata comunale collega DUP, bilancio, PEG, PIAO e performance. Il DUP definisce indirizzi strategici e operativi; il bilancio di previsione autorizza le risorse; il PEG assegna obiettivi e dotazioni ai responsabili; il PIAO integra performance, organizzazione, personale, rischi e valore pubblico; il ciclo della performance misura i risultati. La catena serve a trasformare una priorità politica in gestione amministrativa tracciabile e valutabile.
+### Quiz 5 — Indicatore
 
-### Domanda da commissario
-**Domanda:** "Qual è la differenza tra DUP e PEG?"
+Quale indicatore è più adatto all'obiettivo "ridurre l'arretrato delle pratiche"?
 
-**Risposta forte:** "Il DUP è il documento di programmazione strategica e operativa che precede e orienta il bilancio, collegando mandato, priorità e risorse. Il PEG è il documento con cui la Giunta, dopo il bilancio, assegna obiettivi di gestione, dotazioni e responsabilità ai responsabili dei servizi. In sintesi: il DUP programma l'indirizzo, il PEG rende operativa la gestione."
+- A. Numero di riunioni dell'ufficio.
+- B. Approvazione del PEG.
+- C. Differenza tra pratiche arretrate all'inizio e alla fine del periodo.
+- D. Numero dei dipendenti dell'ente.
 
-### Domanda-trappola
-**Domanda:** "Il PIAO sostituisce bilancio e PEG?"
+**Risposta corretta: C.** Misura direttamente l'andamento dell'arretrato. Le riunioni sono attività; approvazione del PEG e consistenza del personale non dimostrano il risultato.
 
-**Risposta corretta:** "No. Il PIAO integra diversi piani relativi a organizzazione, performance, personale, anticorruzione, trasparenza e valore pubblico, ma non sostituisce il bilancio di previsione come documento finanziario autorizzatorio né il PEG come assegnazione gestionale di obiettivi e risorse ai responsabili. I documenti devono essere coerenti, non confusi."
+### Quiz 6 — Competenze
 
-### Errore tipico
-L'errore tipico è:
+Chi adotta ordinariamente gli atti di gestione necessari a realizzare un obiettivo assegnato?
 
-> "Il DUP, il PEG e il PIAO sono tutti piani dell'ente."
+- A. Il Consiglio comunale.
+- B. La Giunta comunale.
+- C. Il dirigente o responsabile competente.
+- D. L'organo di revisione.
 
-La frase non è falsa, ma è inutile. Non distingue le funzioni.
+**Risposta corretta: C.** Gli organi politici definiscono indirizzi e assegnano obiettivi secondo le rispettive competenze; dirigenti e responsabili adottano gli atti gestionali. Il revisore esercita funzioni di controllo e collaborazione tecnica.
 
-Correzione:
+### Caso ragionato — Riduzione dei tempi per l'occupazione di suolo pubblico
 
-> Il DUP orienta strategia e operatività; il bilancio autorizza le risorse; il PEG assegna obiettivi e dotazioni ai responsabili; il PIAO integra organizzazione, personale, performance, rischi e valore pubblico; la performance misura i risultati.
+Il Comune vuole ridurre del 20% i tempi medi di rilascio delle autorizzazioni per occupazione di suolo pubblico. Il progetto richiede revisione del procedimento, formazione degli operatori, aggiornamento del portale e monitoraggio mensile.
 
-### Mini-esercizio
-Leggi la traccia:
+La risposta deve ricostruire l'intera catena.
 
-> Il Comune vuole ridurre del 20% i tempi medi di rilascio delle autorizzazioni per occupazione suolo pubblico. L'obiettivo richiede revisione del procedimento, formazione degli operatori, aggiornamento del portale e monitoraggio mensile.
+1. **Priorità:** semplificare il servizio e ridurre i tempi per cittadini e imprese.
+2. **DUP:** collocare l'obiettivo nel programma operativo coerente con semplificazione e sviluppo locale.
+3. **Bilancio:** verificare risorse per portale, formazione e supporto tecnico.
+4. **PEG:** assegnare obiettivo e dotazioni al responsabile del servizio competente, coordinandolo con l'ufficio digitale.
+5. **PIAO:** considerare performance, formazione, organizzazione del processo, rischi corruttivi, trasparenza e accessibilità.
+6. **Indicatore:** confrontare il tempo medio iniziale con quello finale; affiancare numero di pratiche concluse, arretrato ed eventuali errori o annullamenti.
+7. **Rischi:** obiettivo senza risorse, indicatore non definito, mancata formazione, portale non accessibile o trasferimento del ritardo a una fase diversa.
 
-Compila la tavola:
+La percentuale indicata nella traccia è il target politico-amministrativo del caso, non una soglia normativa. La valutazione deve verificare che la riduzione dei tempi non comprometta qualità, correttezza istruttoria e garanzie del procedimento.
 
-| Elemento | Risposta |
+## Errori e trappole ricorrenti
+
+| Errore | Correzione |
 | --- | --- |
-| Priorità politica | |
-| Documento strategico | |
-| Risorsa finanziaria | |
-| Responsabile | |
-| Collegamento PIAO | |
-| Indicatore | |
-| Rischio | |
+| DUP, PEG e PIAO sono tutti "piani" equivalenti | distingui programmazione, assegnazione gestionale e capacità organizzativa |
+| il bilancio è una previsione senza effetti autorizzatori | collega stanziamenti, vincoli ed esercizio della gestione |
+| la Giunta approva il PEG e quindi adotta gli atti gestionali | la Giunta assegna; dirigenti e responsabili gestiscono |
+| performance significa soltanto valutare il dipendente | considera amministrazione, strutture, servizi, obiettivi e contributo individuale |
+| un'attività completata prova il raggiungimento del risultato | verifica indicatori, target, qualità e scostamenti |
+| una scadenza letta in un manuale vale per ogni anno | controlla eventuali differimenti sulle fonti ufficiali vigenti |
+| una priorità politica basta per avviare una spesa | verifica DUP, bilancio, PEG, competenza e atti di gestione |
 
-Soluzione guida:
+## Da sapere in 5 righe
 
-| Elemento | Risposta |
-| --- | --- |
-| Priorità politica | Semplificazione e riduzione tempi dei servizi alle imprese/cittadini. |
-| Documento strategico | DUP, sezione operativa coerente con semplificazione e sviluppo locale. |
-| Risorsa finanziaria | Bilancio per portale, formazione e supporto tecnico. |
-| Responsabile | Responsabile SUAP/commercio o ufficio competente, con supporto innovazione digitale. |
-| Collegamento PIAO | Performance, formazione, digitalizzazione, anticorruzione e valore pubblico. |
-| Indicatore | Riduzione tempo medio del 20%, numero pratiche digitali, arretrato ridotto. |
-| Rischio | Obiettivo senza risorse, indicatori non misurabili, mancata formazione. |
+La programmazione comunale collega indirizzo politico, risorse, organizzazione e risultati. Il DUP ordina strategia e programmi e orienta il bilancio. Il bilancio di previsione autorizza la gestione finanziaria nel quadro armonizzato. Il PEG assegna obiettivi e dotazioni ai responsabili. Il PIAO integra valore pubblico, performance, organizzazione, personale e rischi; gli indicatori rendono verificabili i risultati.
 
-### Diario errori
+## Checklist finale
 
-| Errore | Come correggerlo |
-| --- | --- |
-| Confondo DUP e bilancio. | DUP orienta; bilancio autorizza risorse. |
-| Confondo PEG e PIAO. | PEG assegna obiettivi e dotazioni; PIAO integra organizzazione, performance e piani assorbiti. |
-| Penso che performance significhi solo valutazione del personale. | Performance misura risultati di struttura, obiettivi, servizi e responsabilità. |
-| Cito termini annuali senza verifica. | I termini possono essere differiti; controllare DAIT e norme vigenti. |
-| Assegno la gestione alla Giunta. | La Giunta assegna; i responsabili gestiscono. |
-| Programmo un servizio senza risorse. | Ogni obiettivo deve avere copertura e dotazioni coerenti. |
-| Uso indicatori vaghi. | Indicatori devono essere misurabili: tempi, output, qualità, utenti, scostamenti. |
-
-### Da sapere in 5 righe
-La programmazione integrata comunale collega indirizzo politico, risorse, organizzazione e risultati. Il DUP orienta il bilancio con una parte strategica e una operativa. Il bilancio di previsione autorizza entrate e spese nel quadro armonizzato. Il PEG assegna obiettivi e dotazioni ai responsabili dei servizi. Il PIAO e la performance integrano organizzazione, personale, rischi, valore pubblico e misurazione dei risultati.
-
-### Checklist del candidato
-Prima di chiudere il capitolo, verifica di saper rispondere a queste domande:
-
-- So spiegare il principio della programmazione negli enti locali?
-- So distinguere DUP, bilancio, PEG, PIAO e performance?
-- So dire perché il DUP precede e orienta il bilancio?
-- So spiegare il bilancio come documento autorizzatorio?
-- So collegare PEG e responsabilità dei servizi?
-- So dire che cosa integra il PIAO?
+- So spiegare la catena indirizzo-risorse-obiettivi-organizzazione-risultati?
+- So distinguere Consiglio, Giunta, responsabili, responsabile finanziario e organi di controllo?
+- So descrivere Sezione strategica e Sezione operativa del DUP?
+- So spiegare perché il DUP orienta il bilancio senza sostituirlo?
+- So distinguere bilancio di previsione e rendiconto?
+- So collegare PEG, obiettivi, dotazioni e responsabilità gestionale?
+- So spiegare perché il PIAO non sostituisce bilancio e PEG?
+- So distinguere attività, output, risultato, indicatore e target?
 - So costruire una tavola obiettivo-risorsa-responsabile-indicatore?
-- So distinguere indirizzo politico e gestione?
-- So spiegare il ruolo del responsabile finanziario?
-- So evitare termini e scadenze non verificati?
+- So evitare scadenze annuali non verificate?
 
-### Riferimenti consolidati
-- [[sources/ordinamento-finanziario-enti-locali-tuel-dup-peg-rendiconto-revisione]]
-- [[sources/armonizzazione-contabile-enti-territoriali-d-lgs-118-2011]]
-- [[sources/d-lgs-27-ottobre-2009-n-150-performance]]
-- [[sources/d-p-r-24-giugno-2022-n-81-piao-adempimenti-assorbiti]]
-- [[sources/decreto-30-giugno-2022-n-132-piano-tipo-piao]]
-- [[sources/d-lgs-18-agosto-2000-n-267-enti-locali]]
-- [[topics/programmazione-integrata-comunale]]
-- [[topics/contabilita-pubblica]]
-- [[topics/performance-amministrativa]]
-- [[entities/comune]]
-- [[entities/responsabile-finanziario]]
+## Riferimenti normativi e professionali
 
-### Note di review
-- Prima della pubblicazione verificare su Normattiva il testo vigente degli articoli TUEL su DUP, bilancio, PEG, variazioni, salvaguardia e rendiconto.
-- Verificare su RGS/Arconet eventuali aggiornamenti agli allegati e ai principi applicati del D.Lgs. 118/2011.
-- Verificare su Portale PIAO e Dipartimento della funzione pubblica le linee guida e i manuali operativi PIAO più recenti, soprattutto per Comuni e Province.
-- Non inserire scadenze annuali definitive senza controllo su DAIT/Finanza locale e Gazzetta Ufficiale.
+- decreto legislativo 18 agosto 2000, n. 267, Testo unico degli enti locali, con particolare riguardo a programmazione, DUP, bilancio di previsione, PEG e competenze degli organi;
+- decreto legislativo 23 giugno 2011, n. 118, armonizzazione dei sistemi contabili e degli schemi di bilancio degli enti territoriali, e principi contabili applicati pubblicati dalla Ragioneria generale dello Stato tramite Arconet;
+- decreto legislativo 27 ottobre 2009, n. 150, misurazione e valutazione della performance;
+- decreto del Presidente della Repubblica 24 giugno 2022, n. 81, adempimenti assorbiti dal PIAO;
+- decreto 30 giugno 2022, n. 132, contenuti e Piano tipo del PIAO;
+- Portale PIAO del Dipartimento della funzione pubblica;
+- portale Finanza locale del Dipartimento per gli affari interni e territoriali, per termini e differimenti annuali.

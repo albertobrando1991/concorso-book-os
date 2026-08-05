@@ -1,6 +1,6 @@
 ---
 id: chapter-m-fc01-ministeri-piano-editoriale
-type: module_plan
+type: editorial_plan
 title: "Piano editoriale - M-FC01 Ministeri e Presidenza del Consiglio"
 status: source_ready
 domain: "concorsi pubblici italiani"
@@ -22,9 +22,8 @@ updated_at: 2026-06-27T22:08:22+02:00
 created_at: 2026-06-27T19:56:28+02:00
 review_required: true
 canonical: true
-tags: ["module-plan","specialist-module-plan","module-code-m-fc01","source-ready"]
+tags: ["editorial-plan","specialist-module-plan","module-code-m-fc01","source-ready"]
 book_id: m-fc01-ministeri
-outline_section: PLAN
 draft_stage: source-ready
 module_code: M-FC01
 module_family: funzioni-centrali

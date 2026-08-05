@@ -1,0 +1,20 @@
+[
+  {
+    "id": "DETER-NEWS2-01",
+    "file": "regione-emilia-romagna-news2-2024.pdf",
+    "bytes": 362356,
+    "sha256": "06F16C435C7C054690A27015610029C6D93550B957E47C04AE518F789C87853B",
+    "authority": "Regione Emilia-Romagna - Agenzia sanitaria e sociale regionale",
+    "url": "https://assr.regione.emilia-romagna.it/pubblicazioni/rapporti-documenti/news2/@@download/publicationFile/News2_PrCarER.pdf",
+    "checked_at": "2026-07-29"
+  },
+  {
+    "id": "DETER-SEPSI-02",
+    "file": "ars-toscana-lotta-sepsi-call-to-action-2019.pdf",
+    "bytes": 14832562,
+    "sha256": "321820662C6179279235295D7C7381DCA26DAD19568BF5DB63FB2A16B9D1A575",
+    "authority": "Regione Toscana - Agenzia regionale di sanità",
+    "url": "https://www.ars.toscana.it/lotta-alla-sepsi/lottaAllaSepsi_callToAction.pdf",
+    "checked_at": "2026-07-29"
+  }
+]

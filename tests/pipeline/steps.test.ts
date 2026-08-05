@@ -13,8 +13,7 @@ const values = {
   MODULE_ID: "moduli/m-fc02-agenzie-fiscali",
   CHAPTER_FILE: "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/01-perimetro.md",
   CHAPTER_NUMBER: "01",
-  CUT_OFF_DATE: "2026-07-27",
-  RESPONSABILE: "Alberto Brando"
+  CUT_OFF_DATE: "2026-07-27"
 }
 
 describe("step registry", () => {
@@ -27,13 +26,13 @@ describe("step registry", () => {
   it("keeps the chapter loop on phase C and the module consolidation on phase D", () => {
     expect(PHASE_STEPS.C).toEqual(["08", "09", "10", "11", "12"])
     expect(PHASE_STEPS.D).toEqual(["13", "14", "15", "16"])
-    expect(PHASE_STEPS.F).toEqual(["21", "22", "23"])
+    expect(PHASE_STEPS.F).toEqual(["21", "22", "23", "24"])
   })
   it("runs the chapter loop at chapter scope", () => {
     expect(PHASE_STEPS.C.every((id) => findStepDefinition(id)?.scope === "chapter")).toBe(true)
   })
   it("marks as human the steps the protocol reserves to a person", () => {
-    expect(STEP_REGISTRY.filter((step) => step.kind === "human").map((step) => step.id)).toEqual(["15", "23"])
+    expect(STEP_REGISTRY.filter((step) => step.kind === "human").map((step) => step.id)).toEqual(["24"])
   })
   it("keeps phases A, B and E manual until the backbone is proven", () => {
     expect(STEP_REGISTRY.filter((step) => step.automation === "manual").map((step) => step.phase)).toEqual(
@@ -47,12 +46,26 @@ describe("step registry", () => {
   it("attaches a gate to every automated step of phases C, D and F", () => {
     expect(STEP_REGISTRY.filter((step) => ["C", "D", "F"].includes(step.phase)).every((step) => Boolean(step.gate))).toBe(true)
   })
+  it("runs coverage and didactic density together at step 10", () => {
+    expect(findStepDefinition("10")?.gate).toBe("didactic-density")
+  })
+  it("keeps human confirmation as the final protocol step", () => {
+    expect(findStepDefinition("04")?.gate).toBeUndefined()
+    expect(findStepDefinition("15")).toMatchObject({ kind: "llm", gate: "review-report" })
+    expect(findStepDefinition("23")).toMatchObject({ kind: "deterministic", gate: "delivery" })
+    expect(STEP_REGISTRY.at(-1)).toMatchObject({ id: "24", kind: "human", gate: "human-signoff" })
+  })
 })
 
 describe("prompt catalog", () => {
   it("extracts the twenty-five prompt bodies from the canonical wiki template", () => {
     expect([...catalog.keys()]).toHaveLength(25)
     expect(catalog.get("09")?.title).toContain("Scrittura")
+  })
+  it("keeps Prompt 09-R as retrofit documentation outside the executable catalog", () => {
+    const local = loadPromptCatalog("## Prompt 09 — Scrittura\n\n```text\nCorpo.\n```\n\n## Prompt 09-R — Retrofit\n\n```text\nRetrofit.\n```")
+    expect([...local.keys()]).toEqual(["09"])
+    expect(local.get("09")?.title).toBe("Scrittura")
   })
   it("keeps the prompt body without the surrounding code fence", () => {
     const prompt = catalog.get("10")

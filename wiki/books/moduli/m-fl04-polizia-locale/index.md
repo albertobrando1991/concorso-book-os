@@ -61,7 +61,7 @@ La Polizia locale va studiata come funzione dell'ente territoriale, non come cor
 | 15 | 44 | [[books/moduli/m-fl04-polizia-locale/chapters/15-laboratorio-atti-verbali-polizia-locale|Laboratorio atti e verbali della Polizia locale]] | Integra strada, commercio, edilizia, ambiente e sicurezza urbana in simulazioni. | Verbali, annotazioni e relazioni. |
 
 ## Capitoli di lavoro
-- [[books/moduli/m-fl04-polizia-locale/chapters/00-piano-editoriale|Piano editoriale del modulo]]
+- [[books/moduli/m-fl04-polizia-locale/planning/00-piano-editoriale|Piano editoriale del modulo]]
 1. [[books/moduli/m-fl04-polizia-locale/chapters/01-diventare-agente-ufficiale-polizia-locale|Diventare agente o ufficiale di Polizia locale]]
 2. [[books/moduli/m-fl04-polizia-locale/chapters/02-ordinamento-nazionale-regionale-polizia-locale|Ordinamento nazionale e regionale della Polizia locale]]
 3. [[books/moduli/m-fl04-polizia-locale/chapters/03-qualifiche-poteri-dipendenze-organizzazione-servizio|Qualifiche, poteri, dipendenze e organizzazione del servizio]]

@@ -1,0 +1,69 @@
+[
+  {
+    "id": "SL-06-WEB",
+    "file": "fnopi-deontologia-web-2026-07-28.html",
+    "bytes": 234550,
+    "sha256": "4A9D6A50CB9A95E51368429614AC239030D149766E50AFA7C88B161CE55BFBE9",
+    "authority": "FNOPI",
+    "url": "https://www.fnopi.it/norme-e-codici/deontologia/",
+    "checked_at": "2026-07-28"
+  },
+  {
+    "id": "SL-06",
+    "file": "fnopi-codice-deontologico-professioni-infermieristiche-2025.pdf",
+    "bytes": 6813765,
+    "sha256": "77B902011477A4EF28EEF86148BED1F6C64E0EFC498380C65615157270B6736A",
+    "authority": "FNOPI",
+    "url": "https://www.fnopi.it/wp-content/uploads/2025/03/FNOPI_CodiceDeontol2025_web-2.pdf",
+    "checked_at": "2026-07-28",
+    "note": "PDF grafico; testo leggibile consolidato anche dalla pagina HTML ufficiale."
+  },
+  {
+    "id": "SL-11",
+    "file": "fnopo-codice-deontologico-professione-ostetrica-2021.pdf",
+    "bytes": 296238,
+    "sha256": "10D5D9AD94580F38F7C53E516FF114DA5E8536960BE9349CFEE9699260879222",
+    "authority": "FNOPO",
+    "url": "https://www.fnopo.it/files/1684930686_CD%20FNOPO-approvato%20dal%20CC.pdf",
+    "checked_at": "2026-07-28"
+  },
+  {
+    "id": "SL-12",
+    "file": "fnofi-codice-deontologico-fisioterapista.pdf",
+    "bytes": 128357,
+    "sha256": "335BEB37F086D10A60649A59AC76A38304641E128CCD9266AA5BF700FA502EB0",
+    "authority": "FNOFI",
+    "url": "https://www.fnofi.it/documents/20117/42483/Codice_Deontologico_AIFI2019.pdf/6b9458a7-f158-7c79-a0b7-59a4241b6be2?download=true&t=1759831147446&version=1.0",
+    "checked_at": "2026-07-28",
+    "note": "Documento ospitato e indicato come codice vigente nella pagina Normative FNOFI; review formale richiesta su data di approvazione."
+  },
+  {
+    "id": "SL-07",
+    "file": "fno-tsrm-pstrp-codice-deontologico-tpall-2025.pdf",
+    "bytes": 1263568,
+    "sha256": "7B48C915EF6B9DD62684CD94D48DFDC5017E3223DCF92A1870B4FCDE641359E2",
+    "authority": "FNO TSRM e PSTRP",
+    "url": "https://www.tsrm-pstrp.org/wp-content/uploads/2025/03/CD_TPALL-def.pdf",
+    "checked_at": "2026-07-28"
+  },
+  {
+    "id": "SL-12-WEB",
+    "file": "fnofi-codice-vigente-status-2026-07-29.html",
+    "bytes": 187699,
+    "sha256": "4658A9521AE5063D1DFF31B2C4887D036BAEA05E22D57B80F95BE0F206B96BA3",
+    "authority": "FNOFI",
+    "url": "https://www.fnofi.it/la-storia",
+    "checked_at": "2026-07-29",
+    "note": "La pagina federale dichiara tuttora vigente il codice AIFI 2011 in attesa di una nuova versione FNOFI."
+  },
+  {
+    "id": "SL-11-WEB",
+    "file": "fnopo-codice-status-2026-07-29.html",
+    "bytes": 263059,
+    "sha256": "696C95023F6BA32CB6D6641F3277DC983451D8EC31CDC0EF99A438070353260A",
+    "authority": "FNOPO",
+    "url": "https://www.fnopo.it/notizie/codice-deontologico/codice-deontologico-dell-ostetrica-o",
+    "checked_at": "2026-07-29",
+    "note": "Pagina federale del codice pubblicato nel 2017, con revisioni approvate dal Consiglio nazionale il 18 novembre 2017."
+  }
+]

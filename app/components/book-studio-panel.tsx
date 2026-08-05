@@ -13,8 +13,17 @@ import {
 } from "lucide-react"
 import type { ManualWriterMode, RevisionDiffSummary } from "@/src/server/agents/manual-writer-agent"
 import type { BookStudioChapter, BookStudioData, MarkdownBlock } from "@/src/server/book/book-preview"
+import { getPreviewBlockMetadata } from "@/src/server/book/book-preview-block-metadata"
 import { ricettarioModuleLabel } from "@/src/server/book/book-studio-labels"
 import type { WriterProvider } from "@/src/server/config"
+import {
+  getInitialBookStudioChapterPath,
+  reconcileBookStudioPayloadState,
+  reconcileBookStudioRefreshPayloadState
+} from "./book-studio-state"
+import { reconcileIndexPageNumbers } from "./book-studio-index-pages"
+import { BookStudioPreviewTable } from "./book-studio-preview-table"
+import { EditorialPlanPanel } from "./editorial-plan-panel"
 
 interface BookStudioPanelProps {
   initialData: BookStudioData
@@ -81,8 +90,10 @@ export function BookStudioPanel({
   writerModel,
   writerReasoningEffort
 }: BookStudioPanelProps) {
-  const [data, setData] = useState(initialData)
-  const [selectedPath, setSelectedPath] = useState(getInitialChapterPath(initialData, initialChapterPath))
+  const [{ data, selectedPath }, setBookStudioPayloadState] = useState(() => ({
+    data: initialData,
+    selectedPath: getInitialBookStudioChapterPath(initialData.chapters, initialChapterPath)
+  }))
   const [viewMode, setViewMode] = useState<ViewMode>("chapter")
   const [writerMode, setWriterMode] = useState<ManualWriterMode>("integrate")
   const [selectedProvider, setSelectedProvider] = useState<WriterProvider>(writerProvider)
@@ -129,21 +140,26 @@ export function BookStudioPanel({
   const measureRef = useRef<HTMLDivElement>(null)
   const bookPagesRef = useRef<HTMLDivElement>(null)
   const [measuredPages, setMeasuredPages] = useState<PreviewPage[] | null>(null)
-  const previewPages = measuredPages || estimatedPages
+  const rawPreviewPages = measuredPages || estimatedPages
+  const previewPages = useMemo(
+    () => reconcileIndexPageNumbers(rawPreviewPages),
+    [rawPreviewPages]
+  )
 
   useEffect(() => {
-    setData(initialData)
-    setSelectedPath(getInitialChapterPath(initialData, initialChapterPath))
+    setBookStudioPayloadState((currentState) =>
+      reconcileBookStudioPayloadState(currentState, initialData, initialChapterPath)
+    )
     setViewMode("chapter")
     setMessage("")
     setError("")
     setLastResult(null)
     setMeasuredPages(null)
-  }, [initialData.bookId, initialChapterPath])
+  }, [initialData, initialChapterPath])
 
   const openChapter = useCallback((chapter: BookStudioChapter, event?: React.MouseEvent<HTMLAnchorElement>) => {
     event?.preventDefault()
-    setSelectedPath(chapter.path)
+    setBookStudioPayloadState((currentState) => ({ ...currentState, selectedPath: chapter.path }))
     setViewMode("chapter")
     setMeasuredPages(null)
     window.history.replaceState(null, "", chapterStudioHref(data.bookId, chapter.path))
@@ -210,7 +226,9 @@ export function BookStudioPanel({
     return () => window.cancelAnimationFrame(animationFrame)
   }, [measuredPages])
 
-  const refreshStudio = useCallback(async (preferredPath = selectedPath, nextMessage = "") => {
+  const refreshStudio = useCallback(async (options: { preferredPath?: string; nextMessage?: string } = {}) => {
+    const { preferredPath, nextMessage = "" } = options
+
     setIsRefreshing(true)
     setError("")
 
@@ -222,12 +240,9 @@ export function BookStudioPanel({
         throw new Error(payload.error || "Impossibile aggiornare lo Studio Libro")
       }
 
-      setData(payload)
-      if (payload.chapters.some((chapter: BookStudioChapter) => chapter.path === preferredPath)) {
-        setSelectedPath(preferredPath)
-      } else if (!payload.chapters.some((chapter: BookStudioChapter) => chapter.path === selectedPath)) {
-        setSelectedPath(payload.chapters[0]?.path || "")
-      }
+      setBookStudioPayloadState((currentState) =>
+        reconcileBookStudioRefreshPayloadState(currentState, payload, { preferredPath })
+      )
       if (nextMessage) {
         setMessage(nextMessage)
       }
@@ -236,20 +251,20 @@ export function BookStudioPanel({
     } finally {
       setIsRefreshing(false)
     }
-  }, [data.bookId, selectedPath])
+  }, [data.bookId])
 
   useEffect(() => {
     if (isRefreshing) return
 
     if (viewMode === "book") {
       if (publishableChapters.some((chapter) => chapter.blocks.length === 0)) {
-        void refreshStudio(selectedPath)
+        void refreshStudio({ preferredPath: selectedPath })
       }
       return
     }
 
     if (selectedChapter && selectedChapter.blocks.length === 0) {
-      void refreshStudio(selectedChapter.path)
+      void refreshStudio({ preferredPath: selectedChapter.path })
     }
   }, [isRefreshing, publishableChapters, refreshStudio, selectedChapter, selectedPath, viewMode])
 
@@ -258,10 +273,10 @@ export function BookStudioPanel({
       const detail = (event as CustomEvent<BookStudioRefreshDetail>).detail
       if (!detail?.bookId || detail.bookId !== data.bookId) return
 
-      void refreshStudio(
-        detail.chapterPath || selectedPath,
-        detail.message || "Preview aggiornata dopo Manual Writer."
-      )
+      void refreshStudio({
+        preferredPath: detail.chapterPath || selectedPath,
+        nextMessage: detail.message || "Preview aggiornata dopo Manual Writer."
+      })
     }
 
     window.addEventListener("book-studio:refresh", handleBookStudioRefresh)
@@ -299,7 +314,7 @@ export function BookStudioPanel({
 
       setLastResult(payload)
       setMessage("Capitolo aggiornato. Anteprima ricaricata dal vault.")
-      await refreshStudio(selectedChapter.path)
+      await refreshStudio({ preferredPath: selectedChapter.path })
     } catch (currentError) {
       setError(currentError instanceof Error ? currentError.message : "Errore sconosciuto")
     } finally {
@@ -348,7 +363,7 @@ export function BookStudioPanel({
       setLastResult(payload)
       setRevisionStatus("Modifiche ricevute. Aggiorno preview e differenze.")
       setMessage(revisionResultMessage(payload))
-      await refreshStudio(selectedChapter.path)
+      await refreshStudio({ preferredPath: selectedChapter.path })
     } catch (currentError) {
       setError(currentError instanceof Error ? currentError.message : "Errore sconosciuto")
     } finally {
@@ -384,7 +399,7 @@ export function BookStudioPanel({
       setImageFile(null)
       setCaption("")
       setMessage(`Immagine aggiunta: ${payload.asset.path}`)
-      await refreshStudio(selectedChapter.path)
+      await refreshStudio({ preferredPath: selectedChapter.path })
     } catch (currentError) {
       setError(currentError instanceof Error ? currentError.message : "Errore sconosciuto")
     } finally {
@@ -460,6 +475,7 @@ export function BookStudioPanel({
               </>
             ) : null}
           </div>
+          {data.editorialPlan ? <EditorialPlanPanel plan={data.editorialPlan} /> : null}
         </aside>
 
         <div className="bookPreviewShell">
@@ -637,14 +653,6 @@ export function BookStudioPanel({
       {lastResult?.revisionDiff ? <RevisionDiffPanel result={lastResult} /> : null}
     </section>
   )
-}
-
-function getInitialChapterPath(data: BookStudioData, requestedPath?: string) {
-  if (requestedPath && data.chapters.some((chapter) => chapter.path === requestedPath)) {
-    return requestedPath
-  }
-
-  return data.chapters[0]?.path || ""
 }
 
 function chapterStudioHref(bookId: string, chapterPath: string) {
@@ -825,7 +833,15 @@ function BookPagePreview({ bookId, page }: { bookId: string; page: PreviewPage }
   }
 
   return (
-    <article className={`bookPage ${bookPageSideClass(page.pageNumber)}`} lang="it">
+    <article
+      className={`bookPage ${bookPageSideClass(page.pageNumber)}`}
+      data-chapter-path={chapter.path}
+      data-page-number={page.pageNumber}
+      data-section-type={chapter.sectionType}
+      data-front-matter-layout={chapter.frontMatterLayout || undefined}
+      data-volume-module-code={chapter.volumeModuleCode || undefined}
+      lang="it"
+    >
       {page.isFirstPage ? (
         <header className="chapterPreviewHeader">
           <span className="chapterNumber">{chapterNumberLabel(chapter)}</span>
@@ -864,7 +880,15 @@ function FrontMatterPagePreview({ bookId, page }: { bookId: string; page: Previe
   }
 
   return (
-    <article className={`bookPage ${bookPageSideClass(page.pageNumber)} frontMatterPage ${layoutClass}`} lang="it">
+    <article
+      className={`bookPage ${bookPageSideClass(page.pageNumber)} frontMatterPage ${layoutClass}`}
+      data-chapter-path={chapter.path}
+      data-page-number={page.pageNumber}
+      data-section-type={chapter.sectionType}
+      data-front-matter-layout={chapter.frontMatterLayout || undefined}
+      data-volume-module-code={chapter.volumeModuleCode || undefined}
+      lang="it"
+    >
       {page.chapterPageNumber > 1 ? (
         <div className="runningHeader">
           <span>{chapter.title}</span>
@@ -898,7 +922,15 @@ function DigitalServicesPagePreview({ bookId, page, layoutClass }: { bookId: str
   const bodyBlocks = imageIndex >= 0 ? page.blocks.slice(imageIndex + 1) : page.blocks.slice(2)
 
   return (
-    <article className={`bookPage ${bookPageSideClass(page.pageNumber)} frontMatterPage ${layoutClass}`} lang="it">
+    <article
+      className={`bookPage ${bookPageSideClass(page.pageNumber)} frontMatterPage ${layoutClass}`}
+      data-chapter-path={page.chapter.path}
+      data-page-number={page.pageNumber}
+      data-section-type={page.chapter.sectionType}
+      data-front-matter-layout={page.chapter.frontMatterLayout || undefined}
+      data-volume-module-code={page.chapter.volumeModuleCode || undefined}
+      lang="it"
+    >
       <div className="digitalServicesHero">
         <div className="digitalHeroCopy">
           {heroBlocks.map((block, index) => (
@@ -937,16 +969,30 @@ function bookPageSideClass(pageNumber: number) {
 }
 
 function PreviewBlock({ block, bookId }: { block: MarkdownBlock; bookId?: string }) {
-  if (block.type === "heading") {
-    if ((block.level || 2) <= 2) return <h3>{block.text}</h3>
-    if (block.level === 3) return <h4>{block.text}</h4>
+  const metadata = getPreviewBlockMetadata(block)
+  const auditAttributes = {
+    "data-block-type": metadata.blockType,
+    "data-block-continued": metadata.continued ? "true" : undefined,
+    "data-block-continuation-key": block.continuationKey || undefined
+  }
 
-    return <h5>{block.text}</h5>
+  if (block.type === "heading") {
+    const headingText = block.number ? `${block.number} ${block.text}` : block.text
+    const headingClassName = block.verification ? "verificationHeading" : undefined
+
+    if ((block.level || 2) <= 2) {
+      return <h3 {...auditAttributes} className={headingClassName} data-nucleus-id={block.nucleusId || undefined}>{headingText}</h3>
+    }
+    if (block.level === 3) {
+      return <h4 {...auditAttributes} className={headingClassName} data-nucleus-id={block.nucleusId || undefined}>{headingText}</h4>
+    }
+
+    return <h5 {...auditAttributes} className={headingClassName} data-nucleus-id={block.nucleusId || undefined}>{headingText}</h5>
   }
 
   if (block.type === "index-part") {
     return (
-      <div className="indexPart">
+      <div {...auditAttributes} className="indexPart">
         {block.number ? <span>{block.number}</span> : null}
         <strong>{block.text}</strong>
       </div>
@@ -965,14 +1011,14 @@ function PreviewBlock({ block, bookId }: { block: MarkdownBlock; bookId?: string
 
     if (bookId && block.path) {
       return (
-        <a className="indexLine indexChapterLine" href={chapterStudioHref(bookId, block.path)}>
+        <a {...auditAttributes} className="indexLine indexChapterLine" href={chapterStudioHref(bookId, block.path)}>
           {content}
         </a>
       )
     }
 
     return (
-      <div className="indexLine indexChapterLine">
+      <div {...auditAttributes} className="indexLine indexChapterLine">
         {content}
       </div>
     )
@@ -980,7 +1026,12 @@ function PreviewBlock({ block, bookId }: { block: MarkdownBlock; bookId?: string
 
   if (block.type === "index-row") {
     return (
-      <div className="indexLine indexSubLine">
+      <div
+        {...auditAttributes}
+        className="indexLine indexSubLine"
+        data-nucleus-id={block.nucleusId || undefined}
+        data-index-path={block.path || undefined}
+      >
         <span className="indexSubNumber">{block.number}</span>
         <span className="indexLineTitle">{block.text}</span>
         <span className="indexLeader" aria-hidden />
@@ -993,7 +1044,7 @@ function PreviewBlock({ block, bookId }: { block: MarkdownBlock; bookId?: string
     const items = block.items || []
 
     return (
-      <section className="indexEntry">
+      <section {...auditAttributes} className="indexEntry">
         <h4>{block.text}</h4>
         {items.length > 0 ? (
           <div className="indexEntryTopics">
@@ -1009,7 +1060,7 @@ function PreviewBlock({ block, bookId }: { block: MarkdownBlock; bookId?: string
   if (block.type === "list") {
     if (block.ordered) {
       return (
-        <ol start={block.start || 1}>
+        <ol {...auditAttributes} start={block.start || 1}>
           {(block.items || []).map((item, index) => (
             <li key={`${item}-${index}`}>{item}</li>
           ))}
@@ -1018,7 +1069,7 @@ function PreviewBlock({ block, bookId }: { block: MarkdownBlock; bookId?: string
     }
 
     return (
-      <ul>
+      <ul {...auditAttributes}>
         {(block.items || []).map((item, index) => (
           <li key={`${item}-${index}`}>{item}</li>
         ))}
@@ -1029,11 +1080,11 @@ function PreviewBlock({ block, bookId }: { block: MarkdownBlock; bookId?: string
   if (block.type === "image") {
     const src = block.path ? assetUrl(block.path) : ""
     if (!src) {
-      return <p className="missingAsset">Immagine non disponibile: {block.path}</p>
+      return <p {...auditAttributes} className="missingAsset">Immagine non disponibile: {block.path}</p>
     }
 
     return (
-      <figure>
+      <figure {...auditAttributes}>
         <img src={src} alt={block.alt || "Immagine capitolo"} />
         {block.alt ? <figcaption>{block.alt}</figcaption> : null}
       </figure>
@@ -1041,54 +1092,29 @@ function PreviewBlock({ block, bookId }: { block: MarkdownBlock; bookId?: string
   }
 
   if (block.type === "table") {
-    const showHeader = !block.continued
-
-    return (
-      <div className={`previewTableWrap${block.continued ? " continuedTable" : ""}`}>
-        <table className="previewTable">
-          {showHeader ? (
-            <thead>
-              <tr>
-                {(block.headers || []).map((header, index) => (
-                  <th key={`${header}-${index}`}>{header}</th>
-                ))}
-              </tr>
-            </thead>
-          ) : null}
-          <tbody>
-            {(block.rows || []).map((row, rowIndex) => (
-              <tr key={`${row.join("-")}-${rowIndex}`}>
-                {row.map((cell, cellIndex) => (
-                  <td key={`${cell}-${cellIndex}`}>{cell}</td>
-                ))}
-              </tr>
-            ))}
-          </tbody>
-        </table>
-      </div>
-    )
+    return <BookStudioPreviewTable block={block} />
   }
 
   if (block.type === "code") {
-    return <pre>{block.text}</pre>
+    return <pre {...auditAttributes}>{block.text}</pre>
   }
 
   if (block.type === "callout") {
     if (block.calloutType === "caption") {
-      return <p className="previewCaption">{block.text || block.title}</p>
+      return <p {...auditAttributes} className="previewCaption">{block.text || block.title}</p>
     }
 
     const className = `previewCallout ${calloutClassName(block.calloutType)}`
 
     return (
-      <aside className={className}>
+      <aside {...auditAttributes} className={className}>
         {block.title ? <strong>{block.title}</strong> : null}
         {block.text ? <p>{block.text}</p> : null}
       </aside>
     )
   }
 
-  return <p>{block.text}</p>
+  return <p {...auditAttributes}>{block.text}</p>
 }
 
 function BandoPhaseBar({ chapter }: { chapter: BookStudioChapter }) {
@@ -1524,9 +1550,9 @@ function estimateBlockCost(block: MarkdownBlock) {
   }
 
   if (block.type === "table") {
-    const headerCost = block.continued ? 0 : 24
+    const { tableHeaderCost } = getPreviewBlockMetadata(block)
 
-    return headerCost + (block.rows?.length || 0) * 22 + 8
+    return tableHeaderCost + (block.rows?.length || 0) * 22 + 8
   }
 
   if (block.type === "image") return 315
