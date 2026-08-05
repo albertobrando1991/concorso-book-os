@@ -4993,3 +4993,20 @@
 - atoms:
   - mem-20260805171620-62cxs9 | workflow | Procedere con la pipeline aggiornata VOL-08 completando i passaggi non effettuati senza sovrascrivere il lavoro concorrente.
   - mem-20260805171620-9uke7y | result | Esito codex/pipeline-volume/steps-15-16/m-tr01: Procedere con la pipeline aggiornata VOL-08 completando i passaggi non effettuati senza sovrascrivere il lavoro concorrente. -> Completati audit specialistico step 15 e text freeze step 16 per M-TR01 in worktree isolato e integrati nel ramo corrente; manifest 37 file, prossimo step 18.
+
+## 2026-08-05T17:20:52.049Z - VOL-08
+
+- conversation_id: conv-20260805172052-1jrs8lw
+- route: codex/pipeline-volume/step-18/m-tr01
+- l0: l0/conv-20260805172052-1jrs8lw.md
+- atoms:
+  - mem-20260805172052-g4fv56 | result | Esito codex/pipeline-volume/step-18/m-tr01: Ok, prossimo step. -> Completato step 18 M-TR01: inventario 13 capitoli, zero asset e riferimenti immagine, filosofia Circuito Civico, audit Book Studio 14/14; prossimo step CLI 00 catalogo.
+
+## 2026-08-05T17:21:12.917Z - VOL-03/M-FC01
+
+- conversation_id: conv-20260805172112-71qgkn
+- route: pipeline-volume/step-09
+- l0: l0/conv-20260805172112-71qgkn.md
+- atoms:
+  - mem-20260805172112-22rmd5 | workflow | Procedere con il prossimo step della pipeline VOL-03 preservando il lavoro locale.
+  - mem-20260805172112-iy4kn4 | result | Esito pipeline-volume/step-09: Procedere con il prossimo step della pipeline VOL-03 preservando il lavoro locale. -> Completato lo step 09 del capitolo Contabilità dello Stato e bilancio ministeriale in format_version 2.
