@@ -2,21 +2,21 @@
 id: chapter-m-tr01-06
 type: book_chapter
 title: "Ingegneria software, API e interoperabilità PA"
-status: developing
+status: reviewed-draft
 domain: "concorsi pubblici italiani"
 topics: ["ingegneria software", "api", "interoperabilità", "PDND", "testing"]
 entities: ["IEEE Computer Society", "IETF", "OpenAPI Initiative", "AgID", "PDND", "Unione europea"]
 source_refs: ["sources/modulo-m-tr01-ict-digitale-cybersecurity-dati-vol-08", "sources/pa-digitale-cad-identita-documenti-servizi-dati", "sources/d-lgs-7-marzo-2005-n-82-amministrazione-digitale", "sources/agid-piano-triennale-informatica-pa-2024-2026-aggiornamento-2026", "sources/ingegneria-software-api-interoperabilita-fonti-tecniche"]
 book_refs: ["m-tr01-ict-trasformazione-digitale", "il-metodo-bando"]
 confidence: 0.82
-updated_at: 2026-07-29
+updated_at: 2026-08-05
 created_at: 2026-07-28
 review_required: true
 canonical: true
 tags: ["chapter", "m-tr01", "software-engineering", "api", "interoperabilita"]
 book_id: m-tr01-ict-trasformazione-digitale
 outline_section: 6
-draft_stage: content-draft
+draft_stage: cross-reviewed
 last_compiled_from: ["sources/modulo-m-tr01-ict-digitale-cybersecurity-dati-vol-08", "sources/pa-digitale-cad-identita-documenti-servizi-dati", "sources/d-lgs-7-marzo-2005-n-82-amministrazione-digitale", "sources/agid-piano-triennale-informatica-pa-2024-2026-aggiornamento-2026", "sources/ingegneria-software-api-interoperabilita-fonti-tecniche", "topics/open-data-interoperabilita-cloud-pa", "topics/pa-digitale", "books/il-metodo-bando/chapters/informatica-pa-digitale-competenze-digitali", "books/moduli/m-tr01-ict-trasformazione-digitale/planning/08-capitolo-06-piano-completamento"]
 ---
 

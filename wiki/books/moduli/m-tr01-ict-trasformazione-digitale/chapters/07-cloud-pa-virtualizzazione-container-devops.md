@@ -2,21 +2,21 @@
 id: chapter-m-tr01-07
 type: book_chapter
 title: "Cloud PA, virtualizzazione, container e DevOps"
-status: drafted
+status: reviewed-draft
 domain: "concorsi pubblici italiani"
 topics: ["cloud pa", "virtualizzazione", "container", "devops", "osservabilità", "business continuity"]
 entities: ["Agenzia per la cybersicurezza nazionale", "NIST", "Kubernetes", "OpenTelemetry"]
 source_refs: ["sources/modulo-m-tr01-ict-digitale-cybersecurity-dati-vol-08", "sources/pa-digitale-cad-identita-documenti-servizi-dati", "sources/sicurezza-informatica-privacy-nis2-pa", "sources/reti-sistemi-infrastrutture-fonti-tecniche", "sources/campione-bandi-ict-pa-vol-08-2024-2026", "sources/cloud-virtualizzazione-container-devops-continuita-fonti-primarie"]
 book_refs: ["m-tr01-ict-trasformazione-digitale", "il-metodo-bando"]
 confidence: 0.82
-updated_at: 2026-07-29
+updated_at: 2026-08-05
 created_at: 2026-07-28
 review_required: true
 canonical: true
 tags: ["chapter", "m-tr01", "cloud", "devops", "continuita"]
 book_id: m-tr01-ict-trasformazione-digitale
 outline_section: 7
-draft_stage: drafted
+draft_stage: cross-reviewed
 last_compiled_from: ["sources/modulo-m-tr01-ict-digitale-cybersecurity-dati-vol-08", "sources/pa-digitale-cad-identita-documenti-servizi-dati", "sources/sicurezza-informatica-privacy-nis2-pa", "sources/reti-sistemi-infrastrutture-fonti-tecniche", "sources/campione-bandi-ict-pa-vol-08-2024-2026", "sources/cloud-virtualizzazione-container-devops-continuita-fonti-primarie", "books/moduli/m-tr01-ict-trasformazione-digitale/planning/08-capitolo-07-piano-completamento"]
 ---
 

@@ -1,28 +1,30 @@
 ---
 id: chapter-m-tr03-tecnico-ingegneristico-piano-editoriale
-type: book_chapter
+type: editorial_plan
 title: "Piano editoriale - M-TR03 Tecnico-ingegneristico"
-status: structure
+status: superseded
 domain: "concorsi pubblici italiani"
 topics: ["moduli specialistici","trasversali","metodo bando"]
 entities: ["Metodo BANDO"]
 source_refs: ["sources/metodo-bando-progetto-editoriale.md","sources/struttura-madre-il-metodo-bando.md"]
 book_refs: ["m-tr03-tecnico-ingegneristico","il-metodo-bando"]
 confidence: 0.55
-updated_at: 2026-06-27T19:56:28+02:00
+updated_at: 2026-07-30
 created_at: 2026-06-27T19:56:28+02:00
 review_required: true
-canonical: true
+canonical: false
 tags: ["book-chapter","specialist-module-plan","module-code-m-tr03"]
 book_id: m-tr03-tecnico-ingegneristico
 outline_section: 0
-draft_stage: structure-ready
+draft_stage: planning-snapshot
 module_code: M-TR03
 module_family: trasversali
 last_compiled_from: ["wiki/books/moduli/architettura-moduli-specialistici.md","wiki/books/moduli/m-tr03-tecnico-ingegneristico/index.md"]
 ---
 
 # Piano editoriale - M-TR03 Tecnico-ingegneristico
+
+> **Nota editoriale interna.** Questo file conserva la specifica pre-scrittura e non fa parte dei capitoli destinati al lettore. La struttura pubblica corrente è nell'[[books/moduli/m-tr03-tecnico-ingegneristico/index|indice del modulo]]; copertura ed eventuali scostamenti sono governati dalla [[books/moduli/m-tr03-tecnico-ingegneristico/planning/02-matrice-copertura-didattica|matrice v4]]. Le voci seguenti descrivono intenzioni iniziali e non costituiscono promesse formative autonome.
 
 ## Specifica struttura modulo
 

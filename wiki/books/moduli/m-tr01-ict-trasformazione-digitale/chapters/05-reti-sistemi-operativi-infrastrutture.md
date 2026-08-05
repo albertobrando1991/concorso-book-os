@@ -2,21 +2,21 @@
 id: chapter-m-tr01-05
 type: book_chapter
 title: "Reti, sistemi operativi e infrastrutture"
-status: developing
+status: reviewed-draft
 domain: "concorsi pubblici italiani"
 topics: ["reti", "sistemi operativi", "infrastrutture", "troubleshooting"]
 entities: ["IETF", "Linux Kernel", "IPv4", "IPv6", "TCP", "UDP", "DNS"]
 source_refs: ["sources/modulo-m-tr01-ict-digitale-cybersecurity-dati-vol-08", "sources/reti-web-protocolli-concorsi", "sources/informatica-operativa-office-sistemi-hardware", "sources/informatica-concorsi-corpus-fonti-ufficiali-2026-05-27", "sources/reti-sistemi-infrastrutture-fonti-tecniche"]
 book_refs: ["m-tr01-ict-trasformazione-digitale", "il-metodo-bando"]
 confidence: 0.8
-updated_at: 2026-07-29
+updated_at: 2026-08-05
 created_at: 2026-07-28
 review_required: true
 canonical: true
 tags: ["chapter", "m-tr01", "reti", "sistemi-operativi", "infrastrutture"]
 book_id: m-tr01-ict-trasformazione-digitale
 outline_section: 5
-draft_stage: content-draft
+draft_stage: cross-reviewed
 last_compiled_from: ["sources/modulo-m-tr01-ict-digitale-cybersecurity-dati-vol-08", "sources/reti-web-protocolli-concorsi", "sources/informatica-operativa-office-sistemi-hardware", "sources/informatica-concorsi-corpus-fonti-ufficiali-2026-05-27", "sources/reti-sistemi-infrastrutture-fonti-tecniche", "topics/reti-e-protocolli", "topics/sistemi-operativi-e-gestione-file", "topics/internet-web-posta-elettronica", "books/il-metodo-bando/chapters/informatica-pa-digitale-competenze-digitali", "books/moduli/m-tr01-ict-trasformazione-digitale/planning/08-capitolo-05-piano-completamento"]
 ---
 

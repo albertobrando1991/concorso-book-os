@@ -3,7 +3,7 @@
   "specPath": "books/volumi/vol-08-ict-digitale-cybersecurity-dati/planning/00-scheda-pipeline.md",
   "specHash": "sha256:af67ff81718eae7e5e2d8b29cdd926e24769a54de17ffffc130f7dd3cbd210d4",
   "createdAt": "2026-07-28T19:54:29.381Z",
-  "updatedAt": "2026-07-29T19:24:11.732Z",
+  "updatedAt": "2026-08-05T16:28:44.695Z",
   "steps": [
     {
       "key": "08:moduli/m-tr01-ict-trasformazione-digitale/chapters/01-lavorare-ict-pa-ruoli-enti-prove.md",
@@ -1077,9 +1077,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-tr01-ict-trasformazione-digitale/chapters/08-cybersecurity-rischio-controlli-vulnerabilita.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T15:56:01.082Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-30T15:58:09.697Z"
     },
     {
       "key": "11:moduli/m-tr01-ict-trasformazione-digitale/chapters/08-cybersecurity-rischio-controlli-vulnerabilita.md",
@@ -1087,9 +1097,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-tr01-ict-trasformazione-digitale/chapters/08-cybersecurity-rischio-controlli-vulnerabilita.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T16:00:43.059Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-30T16:02:17.787Z"
     },
     {
       "key": "12:moduli/m-tr01-ict-trasformazione-digitale/chapters/08-cybersecurity-rischio-controlli-vulnerabilita.md",
@@ -1097,9 +1117,60 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-tr01-ict-trasformazione-digitale/chapters/08-cybersecurity-rischio-controlli-vulnerabilita.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T16:03:20.803Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E01: stato \"proposto\".",
+            "location": "wiki/reviews/pipeline/VOL-08/12-moduli-m-tr01-ict-trasformazione-digitale-chapters-08-cybersecurity-rischio-controlli-vulnerabilita-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E02: stato \"proposto\".",
+            "location": "wiki/reviews/pipeline/VOL-08/12-moduli-m-tr01-ict-trasformazione-digitale-chapters-08-cybersecurity-rischio-controlli-vulnerabilita-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E03: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-08/12-moduli-m-tr01-ict-trasformazione-digitale-chapters-08-cybersecurity-rischio-controlli-vulnerabilita-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E04: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-08/12-moduli-m-tr01-ict-trasformazione-digitale-chapters-08-cybersecurity-rischio-controlli-vulnerabilita-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E05: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-08/12-moduli-m-tr01-ict-trasformazione-digitale-chapters-08-cybersecurity-rischio-controlli-vulnerabilita-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E06: stato \"proposto\".",
+            "location": "wiki/reviews/pipeline/VOL-08/12-moduli-m-tr01-ict-trasformazione-digitale-chapters-08-cybersecurity-rischio-controlli-vulnerabilita-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E07: stato \"proposto\".",
+            "location": "wiki/reviews/pipeline/VOL-08/12-moduli-m-tr01-ict-trasformazione-digitale-chapters-08-cybersecurity-rischio-controlli-vulnerabilita-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E08: stato \"proposto\".",
+            "location": "wiki/reviews/pipeline/VOL-08/12-moduli-m-tr01-ict-trasformazione-digitale-chapters-08-cybersecurity-rischio-controlli-vulnerabilita-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-07-30T16:04:46.431Z"
     },
     {
       "key": "08:moduli/m-tr01-ict-trasformazione-digitale/chapters/09-iam-crittografia-logging-incident-response.md",
@@ -1107,9 +1178,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-tr01-ict-trasformazione-digitale/chapters/09-iam-crittografia-logging-incident-response.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T16:05:17.877Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-tr01-ict-trasformazione-digitale/chapters/09-iam-crittografia-logging-incident-response.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di aless: Verifica manuale chapter-plan: piano dedicato presente; copertura IAM, autenticazione/autorizzazione e privilegi, crittografia e gestione chiavi, logging e rilevazione, incident response e quadro PA/NIS2; sezioni da preservare e duplicazioni da evitare esplicitate; caso, esercizi, fonti, review, struttura H1/H2/H3 e budget KDP definiti; lacune nelle fonti primarie segnalate prima della scrittura; nessuna riscrittura del capitolo 09 nello step 08."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-07-30T16:09:24.765Z"
     },
     {
       "key": "09:moduli/m-tr01-ict-trasformazione-digitale/chapters/09-iam-crittografia-logging-incident-response.md",
@@ -1117,9 +1211,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-tr01-ict-trasformazione-digitale/chapters/09-iam-crittografia-logging-incident-response.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T16:10:22.590Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-30T16:17:49.229Z"
     },
     {
       "key": "10:moduli/m-tr01-ict-trasformazione-digitale/chapters/09-iam-crittografia-logging-incident-response.md",
@@ -1127,9 +1231,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-tr01-ict-trasformazione-digitale/chapters/09-iam-crittografia-logging-incident-response.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T16:25:37.196Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-30T16:30:08.531Z"
     },
     {
       "key": "11:moduli/m-tr01-ict-trasformazione-digitale/chapters/09-iam-crittografia-logging-incident-response.md",
@@ -1137,9 +1251,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-tr01-ict-trasformazione-digitale/chapters/09-iam-crittografia-logging-incident-response.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T16:31:13.337Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-30T16:34:21.595Z"
     },
     {
       "key": "12:moduli/m-tr01-ict-trasformazione-digitale/chapters/09-iam-crittografia-logging-incident-response.md",
@@ -1147,9 +1271,40 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-tr01-ict-trasformazione-digitale/chapters/09-iam-crittografia-logging-incident-response.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T16:35:55.624Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E04: stato \"aperto\".",
+            "location": "wiki/reviews/pipeline/VOL-08/12-moduli-m-tr01-ict-trasformazione-digitale-chapters-09-iam-crittografia-logging-incident-response-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E05: stato \"aperto\".",
+            "location": "wiki/reviews/pipeline/VOL-08/12-moduli-m-tr01-ict-trasformazione-digitale-chapters-09-iam-crittografia-logging-incident-response-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E06: stato \"aperto\".",
+            "location": "wiki/reviews/pipeline/VOL-08/12-moduli-m-tr01-ict-trasformazione-digitale-chapters-09-iam-crittografia-logging-incident-response-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E07: stato \"aperto\".",
+            "location": "wiki/reviews/pipeline/VOL-08/12-moduli-m-tr01-ict-trasformazione-digitale-chapters-09-iam-crittografia-logging-incident-response-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-07-30T16:39:14.206Z"
     },
     {
       "key": "08:moduli/m-tr01-ict-trasformazione-digitale/chapters/10-data-governance-open-data-interoperabilita.md",
@@ -1157,9 +1312,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-tr01-ict-trasformazione-digitale/chapters/10-data-governance-open-data-interoperabilita.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T16:42:08.125Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-tr01-ict-trasformazione-digitale/chapters/10-data-governance-open-data-interoperabilita.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di aless: Verifica manuale chapter-plan: piano dedicato presente con funzione nel volume, stato iniziale, nuclei di data governance, ruoli, ciclo di vita, inventario/catalogo/metadati, qualità, open data, interoperabilità e raccordo privacy-sicurezza; sezioni da preservare e duplicazioni da evitare esplicitate; caso, strumenti compilabili, domande, esercizi, fonti, review, struttura H1/H2/H3 e budget KDP definiti; consolidamento di fonti primarie UE/AgID imposto prima della scrittura; capitolo 10 non modificato nello step 08."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-07-30T16:44:09.978Z"
     },
     {
       "key": "09:moduli/m-tr01-ict-trasformazione-digitale/chapters/10-data-governance-open-data-interoperabilita.md",
@@ -1167,9 +1345,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-tr01-ict-trasformazione-digitale/chapters/10-data-governance-open-data-interoperabilita.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T16:46:16.103Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-30T16:51:30.785Z"
     },
     {
       "key": "10:moduli/m-tr01-ict-trasformazione-digitale/chapters/10-data-governance-open-data-interoperabilita.md",
@@ -1177,9 +1365,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-tr01-ict-trasformazione-digitale/chapters/10-data-governance-open-data-interoperabilita.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T16:52:51.340Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-30T16:54:05.941Z"
     },
     {
       "key": "11:moduli/m-tr01-ict-trasformazione-digitale/chapters/10-data-governance-open-data-interoperabilita.md",
@@ -1187,9 +1385,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-tr01-ict-trasformazione-digitale/chapters/10-data-governance-open-data-interoperabilita.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T16:54:47.431Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-30T16:58:39.962Z"
     },
     {
       "key": "12:moduli/m-tr01-ict-trasformazione-digitale/chapters/10-data-governance-open-data-interoperabilita.md",
@@ -1197,9 +1405,35 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-tr01-ict-trasformazione-digitale/chapters/10-data-governance-open-data-interoperabilita.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T16:59:43.586Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E04: stato \"aperto\".",
+            "location": "wiki/reviews/pipeline/VOL-08/12-moduli-m-tr01-ict-trasformazione-digitale-chapters-10-data-governance-open-data-interoperabilita-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E05: stato \"aperto\".",
+            "location": "wiki/reviews/pipeline/VOL-08/12-moduli-m-tr01-ict-trasformazione-digitale-chapters-10-data-governance-open-data-interoperabilita-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E06: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-08/12-moduli-m-tr01-ict-trasformazione-digitale-chapters-10-data-governance-open-data-interoperabilita-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-07-30T17:04:09.687Z"
     },
     {
       "key": "08:moduli/m-tr01-ict-trasformazione-digitale/chapters/11-ai-ml-pa-rischi-compliance.md",
@@ -1207,9 +1441,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-tr01-ict-trasformazione-digitale/chapters/11-ai-ml-pa-rischi-compliance.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T17:06:42.615Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-tr01-ict-trasformazione-digitale/chapters/11-ai-ml-pa-rischi-compliance.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di aless: Verifica manuale completata: piano di 2752 parole con stato iniziale, nuclei assegnati/completi/da sviluppare, confini anti-duplicazione, casi, output, esercizi, fonti disponibili e da consolidare, review umane, struttura H1-H3, budget KDP e criteri di accettazione; diff-check pulito. Il gate chapter-plan non è automatizzato."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-07-30T17:11:02.087Z"
     },
     {
       "key": "09:moduli/m-tr01-ict-trasformazione-digitale/chapters/11-ai-ml-pa-rischi-compliance.md",
@@ -1217,9 +1474,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-tr01-ict-trasformazione-digitale/chapters/11-ai-ml-pa-rischi-compliance.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T17:11:38.411Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-30T17:15:18.195Z"
     },
     {
       "key": "10:moduli/m-tr01-ict-trasformazione-digitale/chapters/11-ai-ml-pa-rischi-compliance.md",
@@ -1227,9 +1494,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-tr01-ict-trasformazione-digitale/chapters/11-ai-ml-pa-rischi-compliance.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T17:16:13.740Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-30T17:18:34.111Z"
     },
     {
       "key": "11:moduli/m-tr01-ict-trasformazione-digitale/chapters/11-ai-ml-pa-rischi-compliance.md",
@@ -1237,9 +1514,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-tr01-ict-trasformazione-digitale/chapters/11-ai-ml-pa-rischi-compliance.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T17:19:51.736Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-30T17:20:51.460Z"
     },
     {
       "key": "12:moduli/m-tr01-ict-trasformazione-digitale/chapters/11-ai-ml-pa-rischi-compliance.md",
@@ -1247,9 +1534,40 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-tr01-ict-trasformazione-digitale/chapters/11-ai-ml-pa-rischi-compliance.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T17:21:55.269Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E02: stato \"aperto\".",
+            "location": "wiki/reviews/pipeline/VOL-08/12-moduli-m-tr01-ict-trasformazione-digitale-chapters-11-ai-ml-pa-rischi-compliance-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E03: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-08/12-moduli-m-tr01-ict-trasformazione-digitale-chapters-11-ai-ml-pa-rischi-compliance-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E05: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-08/12-moduli-m-tr01-ict-trasformazione-digitale-chapters-11-ai-ml-pa-rischi-compliance-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E04: stato \"proposto\".",
+            "location": "wiki/reviews/pipeline/VOL-08/12-moduli-m-tr01-ict-trasformazione-digitale-chapters-11-ai-ml-pa-rischi-compliance-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-07-30T17:23:58.110Z"
     },
     {
       "key": "08:moduli/m-tr01-ict-trasformazione-digitale/chapters/12-procurement-ict-gestione-fornitori.md",
@@ -1257,9 +1575,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-tr01-ict-trasformazione-digitale/chapters/12-procurement-ict-gestione-fornitori.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T17:24:53.216Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-tr01-ict-trasformazione-digitale/chapters/12-procurement-ict-gestione-fornitori.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di aless: Verifica manuale completata: piano presente e coerente con prompt; include nuclei assegnati/completi/da sviluppare, sezioni da conservare, duplicazioni da evitare, caso, output, esercizi, fonti consolidate e da consolidare, review umane, struttura H1-H3, budget KDP e criteri di accettazione; rinvii precisi a VOL-01 e VOL-09."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-07-30T17:27:27.954Z"
     },
     {
       "key": "09:moduli/m-tr01-ict-trasformazione-digitale/chapters/12-procurement-ict-gestione-fornitori.md",
@@ -1267,9 +1608,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-tr01-ict-trasformazione-digitale/chapters/12-procurement-ict-gestione-fornitori.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T17:28:12.259Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-30T17:31:59.228Z"
     },
     {
       "key": "10:moduli/m-tr01-ict-trasformazione-digitale/chapters/12-procurement-ict-gestione-fornitori.md",
@@ -1277,9 +1628,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-tr01-ict-trasformazione-digitale/chapters/12-procurement-ict-gestione-fornitori.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T17:32:57.463Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-30T17:33:41.730Z"
     },
     {
       "key": "11:moduli/m-tr01-ict-trasformazione-digitale/chapters/12-procurement-ict-gestione-fornitori.md",
@@ -1287,9 +1648,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-tr01-ict-trasformazione-digitale/chapters/12-procurement-ict-gestione-fornitori.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T17:34:22.661Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-30T17:35:36.422Z"
     },
     {
       "key": "12:moduli/m-tr01-ict-trasformazione-digitale/chapters/12-procurement-ict-gestione-fornitori.md",
@@ -1297,9 +1668,45 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-tr01-ict-trasformazione-digitale/chapters/12-procurement-ict-gestione-fornitori.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T17:36:26.174Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E01: stato \"aperto\".",
+            "location": "wiki/reviews/pipeline/VOL-08/12-moduli-m-tr01-ict-trasformazione-digitale-chapters-12-procurement-ict-gestione-fornitori-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E02: stato \"aperto\".",
+            "location": "wiki/reviews/pipeline/VOL-08/12-moduli-m-tr01-ict-trasformazione-digitale-chapters-12-procurement-ict-gestione-fornitori-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E03: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-08/12-moduli-m-tr01-ict-trasformazione-digitale-chapters-12-procurement-ict-gestione-fornitori-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E04: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-08/12-moduli-m-tr01-ict-trasformazione-digitale-chapters-12-procurement-ict-gestione-fornitori-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E05: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-08/12-moduli-m-tr01-ict-trasformazione-digitale-chapters-12-procurement-ict-gestione-fornitori-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-07-30T17:38:44.067Z"
     },
     {
       "key": "08:moduli/m-tr01-ict-trasformazione-digitale/chapters/13-laboratorio-prove-ict.md",
@@ -1307,9 +1714,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-tr01-ict-trasformazione-digitale/chapters/13-laboratorio-prove-ict.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T17:44:07.428Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-tr01-ict-trasformazione-digitale/chapters/13-laboratorio-prove-ict.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di aless: Verifica manuale completata: piano dedicato creato; coperti nuclei assegnati, stato, sviluppi, conservazione, anti-duplicazioni, casi, domande, esercizi, fonti, review, struttura H1/H2/H3 e budget KDP; capitolo 13 invariato."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-07-30T17:46:57.481Z"
     },
     {
       "key": "09:moduli/m-tr01-ict-trasformazione-digitale/chapters/13-laboratorio-prove-ict.md",
@@ -1317,9 +1747,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-tr01-ict-trasformazione-digitale/chapters/13-laboratorio-prove-ict.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T17:48:01.544Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-30T17:53:47.725Z"
     },
     {
       "key": "10:moduli/m-tr01-ict-trasformazione-digitale/chapters/13-laboratorio-prove-ict.md",
@@ -1327,9 +1767,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-tr01-ict-trasformazione-digitale/chapters/13-laboratorio-prove-ict.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T17:55:21.620Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-30T17:56:20.871Z"
     },
     {
       "key": "11:moduli/m-tr01-ict-trasformazione-digitale/chapters/13-laboratorio-prove-ict.md",
@@ -1337,9 +1787,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-tr01-ict-trasformazione-digitale/chapters/13-laboratorio-prove-ict.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T17:58:41.579Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-30T17:59:25.140Z"
     },
     {
       "key": "12:moduli/m-tr01-ict-trasformazione-digitale/chapters/13-laboratorio-prove-ict.md",
@@ -1347,9 +1807,25 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-tr01-ict-trasformazione-digitale/chapters/13-laboratorio-prove-ict.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T18:00:40.576Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E02: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-08/12-moduli-m-tr01-ict-trasformazione-digitale-chapters-13-laboratorio-prove-ict-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-07-30T18:07:39.877Z"
     },
     {
       "key": "05:moduli/m-tr01-ict-trasformazione-digitale",
@@ -1357,9 +1833,24 @@
       "phase": "B",
       "scope": "module",
       "target": "moduli/m-tr01-ict-trasformazione-digitale",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T18:18:12.324Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 05 non prevede un gate automatico."
+          }
+        ]
+      },
+      "finishedAt": "2026-07-30T18:23:08.806Z"
     },
     {
       "key": "06:moduli/m-tr01-ict-trasformazione-digitale",
@@ -1367,9 +1858,24 @@
       "phase": "B",
       "scope": "module",
       "target": "moduli/m-tr01-ict-trasformazione-digitale",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T18:24:40.918Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 06 non prevede un gate automatico."
+          }
+        ]
+      },
+      "finishedAt": "2026-07-30T18:27:55.228Z"
     },
     {
       "key": "07:moduli/m-tr01-ict-trasformazione-digitale",
@@ -1377,9 +1883,19 @@
       "phase": "B",
       "scope": "module",
       "target": "moduli/m-tr01-ict-trasformazione-digitale",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T18:28:51.300Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-30T18:30:10.306Z"
     },
     {
       "key": "13:moduli/m-tr01-ict-trasformazione-digitale",
@@ -1387,9 +1903,40 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-tr01-ict-trasformazione-digitale",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T16:10:39.806Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E04: stato \"aperto\".",
+            "location": "wiki/reviews/pipeline/VOL-08/13-moduli-m-tr01-ict-trasformazione-digitale.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E05: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-08/13-moduli-m-tr01-ict-trasformazione-digitale.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E08: stato \"proposto\".",
+            "location": "wiki/reviews/pipeline/VOL-08/13-moduli-m-tr01-ict-trasformazione-digitale.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E10: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-08/13-moduli-m-tr01-ict-trasformazione-digitale.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-05T16:24:16.785Z"
     },
     {
       "key": "14:moduli/m-tr01-ict-trasformazione-digitale",
@@ -1397,9 +1944,30 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-tr01-ict-trasformazione-digitale",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T16:24:24.592Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E05: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-08/14-moduli-m-tr01-ict-trasformazione-digitale.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E10: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-08/14-moduli-m-tr01-ict-trasformazione-digitale.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-05T16:26:34.915Z"
     },
     {
       "key": "15:moduli/m-tr01-ict-trasformazione-digitale",
@@ -1407,9 +1975,27 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-tr01-ict-trasformazione-digitale",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "blocked",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T16:26:39.216Z",
+      "gate": {
+        "passed": false,
+        "blockers": [
+          {
+            "code": "gate-not-implemented",
+            "message": "Il gate \"human-signoff\" dello step 15 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-tr01-ict-trasformazione-digitale"
+          }
+        ],
+        "warnings": [],
+        "notImplemented": [
+          "human-signoff"
+        ]
+      }
     },
     {
       "key": "16:moduli/m-tr01-ict-trasformazione-digitale",

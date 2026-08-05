@@ -2,33 +2,33 @@
 id: chapter-m-tr01-08
 type: book_chapter
 title: "Cybersecurity operativa: rischio, controlli e vulnerabilità"
-status: drafted
+status: reviewed-draft
 domain: "concorsi pubblici italiani"
 topics: ["cybersecurity", "risk assessment", "vulnerabilità", "secure software", "software supply chain"]
 entities: ["Agenzia per la cybersicurezza nazionale", "NIST", "OWASP", "CVE", "CWE", "FIRST", "CISA"]
 source_refs: ["sources/modulo-m-tr01-ict-digitale-cybersecurity-dati-vol-08", "sources/sicurezza-informatica-privacy-nis2-pa", "sources/pa-digitale-cad-identita-documenti-servizi-dati", "sources/campione-bandi-ict-pa-vol-08-2024-2026", "sources/legge-28-giugno-2024-n-90-cybersicurezza-nazionale-e-reati-informatici", "sources/cyber-risk-vulnerabilita-secure-software-supply-chain-fonti-primarie"]
 book_refs: ["m-tr01-ict-trasformazione-digitale", "il-metodo-bando"]
 confidence: 0.84
-updated_at: 2026-07-29
+updated_at: 2026-08-05
 created_at: 2026-07-28
 review_required: true
 canonical: true
 tags: ["chapter", "m-tr01", "cybersecurity", "risk", "vulnerability"]
 book_id: m-tr01-ict-trasformazione-digitale
 outline_section: 8
-draft_stage: drafted
+draft_stage: cross-reviewed
 last_compiled_from: ["sources/modulo-m-tr01-ict-digitale-cybersecurity-dati-vol-08", "sources/sicurezza-informatica-privacy-nis2-pa", "sources/pa-digitale-cad-identita-documenti-servizi-dati", "sources/campione-bandi-ict-pa-vol-08-2024-2026", "sources/legge-28-giugno-2024-n-90-cybersicurezza-nazionale-e-reati-informatici", "sources/cyber-risk-vulnerabilita-secure-software-supply-chain-fonti-primarie", "books/moduli/m-tr01-ict-trasformazione-digitale/planning/08-capitolo-08-piano-completamento"]
 ---
 
 # Cybersecurity operativa: rischio, controlli e vulnerabilità
 
-Una vulnerabilità critica non coincide automaticamente con il rischio più urgente per un ente. La priorità dipende dal servizio interessato, dall’esposizione, dalla possibilità di sfruttamento, dagli impatti e dai controlli già presenti. La cybersecurity operativa comincia proprio qui: trasformare informazioni tecniche in decisioni motivate.
+Una vulnerabilità critica non coincide automaticamente con il rischio più urgente per un ente. La priorità dipende dal servizio interessato, dall’esposizione, dalla possibilità di sfruttamento, dagli impatti e dai controlli già presenti. La cybersecurity operativa traduce queste informazioni tecniche in decisioni motivate.
 
-Questo capitolo costruisce il percorso completo. Parte dagli asset, descrive minacce e vulnerabilità, valuta il rischio, sceglie i controlli e segue le debolezze fino alla correzione. Chiude con sviluppo sicuro e software supply chain, perché molte vulnerabilità nascono prima del rilascio.
+Il percorso parte dagli asset. Collega minacce e vulnerabilità a scenari concreti, valuta il rischio e seleziona i controlli. Affronta poi la correzione delle debolezze, lo sviluppo sicuro e la software supply chain, dove possono nascere vulnerabilità già prima del rilascio.
 
 ## Obiettivo e confine con il volume base
 
-Il VOL-01, capitolo 10, § 6, tratta sicurezza di base, password, MFA, phishing, malware, antivirus, firewall, backup, aggiornamenti e inquadramento generale NIS2. Qui quei concetti sono prerequisiti.
+Il VOL-01, capitolo 10, § 6, tratta sicurezza di base, password, MFA, phishing, malware, antivirus, firewall, backup, aggiornamenti e inquadramento generale NIS2. Il capitolo li assume come prerequisiti.
 
 Al termine saprai:
 
@@ -53,7 +53,7 @@ Continuità e backup sono nel capitolo 7. IAM, crittografia, logging e risposta 
 | secure coding, OWASP | debolezze e pratiche preventive | analisi applicativa |
 | supply chain, SBOM | dipendenze, pipeline, artefatti | verifica di filiera |
 
-In prova conviene seguire un ordine stabile: contesto, asset, scenario, rischio, trattamento, evidenza e riesame. Il nome di uno strumento conta meno della qualità del ragionamento.
+In prova conviene seguire un ordine stabile: contesto, asset, scenario, rischio, trattamento, evidenza e riesame. Lo strumento scelto è secondario rispetto alla coerenza del ragionamento.
 
 ## Obiettivi di sicurezza e asset
 
@@ -104,7 +104,7 @@ Uno scenario di rischio deve indicare:
 4. evento temuto;
 5. conseguenze.
 
-La frase «rischio ransomware alto» è troppo generica. Occorre precisare quale servizio, quale percorso, quale dipendenza e quale impatto.
+La formula «rischio ransomware alto» è troppo generica. Bisogna precisare il servizio coinvolto, il percorso d’attacco, le dipendenze e l’impatto atteso.
 
 ## Valutare e trattare il rischio
 
@@ -128,7 +128,7 @@ Questa matrice ordina le priorità, ma non produce una misura assoluta. Scale di
 
 Il **rischio inerente** è valutato prima di considerare i controlli pertinenti secondo il metodo scelto. Il **rischio residuo** rimane dopo l’applicazione dei controlli. Dichiarare «residuo basso» richiede evidenze che i controlli siano presenti e funzionino.
 
-Un controllo previsto ma non attuato non riduce il rischio. Un controllo installato ma mai verificato offre una garanzia debole.
+Un controllo soltanto previsto non riduce il rischio. Anche un controllo installato offre garanzie deboli se nessuno ne verifica il funzionamento.
 
 ### Processo di assessment
 
@@ -166,7 +166,7 @@ Per natura, i controlli possono essere organizzativi, tecnici o fisici. Per funz
 - **deterrenti**, se scoraggiano;
 - **compensativi**, se offrono protezione alternativa quando il controllo previsto non è praticabile.
 
-Le tassonomie variano. La classificazione serve a capire la funzione, non a moltiplicare etichette.
+Le tassonomie possono variare; la classificazione chiarisce la funzione del controllo, non aggiunge etichette fini a sé stesse.
 
 Esempi: formazione e policy sono organizzativi; segmentazione e protezione endpoint sono tecnici; controllo degli accessi ai locali è fisico. Un medesimo controllo può avere più effetti.
 
@@ -209,9 +209,9 @@ Un diagramma dei flussi mostra dove i dati entrano, cambiano fiducia, vengono el
 
 ### Scoperta e validazione
 
-La gestione parte dall’inventario di asset, versioni e dipendenze. Le vulnerabilità emergono da scanning, test, segnalazioni, intelligence, advisory e comunicazioni dei fornitori.
+L’inventario di asset, versioni e dipendenze è il punto di partenza. Le vulnerabilità emergono da scanning, test, segnalazioni, intelligence, advisory e comunicazioni dei fornitori.
 
-Un risultato deve essere validato. Un **falso positivo** segnala una condizione inesistente o non applicabile; un **vero positivo** richiede trattamento. La validazione non autorizza prove invasive indiscriminate: scopo, permessi e sicurezza del test vanno definiti.
+Ogni risultato richiede una validazione. Un **falso positivo** segnala una condizione inesistente o non applicabile; un **vero positivo** richiede trattamento. La validazione non autorizza prove invasive indiscriminate: scopo, permessi e sicurezza del test vanno definiti.
 
 ### CVE, CWE e CVSS
 
@@ -241,9 +241,9 @@ La responsible disclosure coordina segnalazione e correzione evitando diffusione
 
 ### Sicurezza lungo il ciclo di vita
 
-Il NIST SSDF integra pratiche di sicurezza nel ciclo di sviluppo. La sicurezza entra in requisiti, progettazione, implementazione, verifica, rilascio, esercizio e dismissione.
+Il NIST SSDF integra pratiche di sicurezza nel ciclo di sviluppo. Le pratiche di sicurezza accompagnano requisiti, progettazione, implementazione, verifica, rilascio, esercizio e dismissione.
 
-**Security by design** significa considerare minacce e requisiti durante la progettazione. **Security by default** significa fornire configurazioni iniziali prudenti. Una scansione finale non recupera facilmente una scelta architetturale insicura.
+**Security by design** significa considerare minacce e requisiti durante la progettazione. **Security by default** significa fornire configurazioni iniziali prudenti. Una scansione finale difficilmente corregge una scelta architetturale insicura.
 
 Le attività comprendono requisiti verificabili, threat modeling, ambienti protetti, dipendenze governate, review, test, artefatti controllati, gestione delle vulnerabilità e apprendimento dalle cause.
 
@@ -264,13 +264,13 @@ La validazione client migliora l’esperienza, ma non sostituisce quella lato se
 
 La **code review** esamina logica e modifiche. La **SAST** analizza codice o rappresentazioni senza eseguire l’applicazione. La **DAST** osserva il comportamento di un’applicazione in esecuzione. La **software composition analysis** esamina componenti e dipendenze. Il **penetration test** simula scenari entro uno scopo autorizzato.
 
-Nessuna tecnica copre tutto. I risultati richiedono validazione e collegamento al rischio.
+Le tecniche hanno coperture diverse. I risultati vanno validati e ricondotti allo scenario di rischio.
 
 OWASP Top 10 è un documento di awareness sui rischi delle applicazioni web. L’edizione 2025 include categorie come controllo accessi, configurazione, supply chain, crittografia, injection e design insicuro. Non certifica la sicurezza e non sostituisce requisiti, threat modeling o test basati sul contesto.
 
 ## Software supply chain
 
-La supply chain comprende codice proprio, librerie, componenti open source e commerciali, repository, tool di build, runner, pipeline, artefatti e canali di distribuzione. Un attacco può colpire un componente, una credenziale, il processo di build o l’aggiornamento.
+La supply chain comprende codice proprio, librerie, componenti open source e commerciali, repository, tool di build, runner, pipeline, artefatti e canali di distribuzione. L’attaccante può compromettere un componente, una credenziale, il processo di build oppure il canale di aggiornamento.
 
 I controlli includono:
 
@@ -302,9 +302,9 @@ Un ente gestisce un portale per presentare domande di contributo. L’applicazio
 
 **Trattamento.** Il responsabile applica la patch dopo test; nel frattempo limita la funzione, rafforza le regole applicative e monitora gli indicatori pertinenti. Registra scadenza ed evidenze.
 
-**Rischio residuo.** Viene rivalutato dopo verifica della versione e test funzionale. Non scende automaticamente: la decisione usa evidenze.
+**Rischio residuo.** Viene rivalutato dopo verifica della versione e test funzionale. Il livello non scende automaticamente: servono evidenze sulla correzione e sull’efficacia dei controlli.
 
-**Supply chain.** La SBOM consente di individuare altri servizi con la stessa libreria. La lezione viene riportata nei requisiti di aggiornamento e nella pipeline.
+**Supply chain.** La SBOM consente di individuare altri servizi con la stessa libreria. L’ente traduce quanto appreso in nuovi requisiti di aggiornamento e controlli della pipeline.
 
 ## Laboratorio: costruire una risk matrix
 
@@ -339,7 +339,7 @@ No. CVSS comunica la gravità tecnica, ma la priorità dipende anche da esposizi
 
 ## Errore tipico
 
-Assegnare «rischio alto» senza descrivere scenario e scale. Una valutazione verificabile esplicita asset, minaccia, vulnerabilità, impatto, probabilità, controlli e assunzioni.
+L’errore consiste nell’assegnare un «rischio alto» senza descrivere lo scenario e le scale adottate. Una valutazione verificabile esplicita asset, minaccia, vulnerabilità, impatto, probabilità, controlli e assunzioni.
 
 ## Mini-esercizi e quiz
 

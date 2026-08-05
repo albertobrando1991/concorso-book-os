@@ -2,21 +2,21 @@
 id: chapter-m-tr01-01
 type: book_chapter
 title: "Lavorare come ICT nella PA: ruoli, enti e prove"
-status: draft
+status: reviewed-draft
 domain: "concorsi pubblici italiani"
 topics: ["profili ict", "bandi", "prove"]
 entities: ["Metodo BANDO", "AgID"]
-source_refs: ["sources/modulo-m-tr01-ict-digitale-cybersecurity-dati-vol-08", "sources/campione-bandi-ict-pa-vol-08-2024-2026", "sources/logica-volumi-copertura-concorsobook-v4"]
+source_refs: ["sources/modulo-m-tr01-ict-digitale-cybersecurity-dati-vol-08", "sources/campione-bandi-ict-pa-vol-08-2024-2026", "sources/audit-bandi-rappresentativi-m-tr01-2026-07-28", "sources/logica-volumi-copertura-concorsobook-v4"]
 book_refs: ["m-tr01-ict-trasformazione-digitale"]
 confidence: 0.84
-updated_at: 2026-07-29
+updated_at: 2026-08-05
 created_at: 2026-07-28
 review_required: true
 canonical: true
 tags: ["chapter", "m-tr01", "editorial-draft"]
 book_id: m-tr01-ict-trasformazione-digitale
 outline_section: 1
-draft_stage: editorial-draft
+draft_stage: cross-reviewed
 last_compiled_from: ["sources/modulo-m-tr01-ict-digitale-cybersecurity-dati-vol-08", "sources/campione-bandi-ict-pa-vol-08-2024-2026", "topics/ict-digitale-cybersecurity-dati-concorsi-pa", "books/moduli/m-tr01-ict-trasformazione-digitale/planning/08-capitolo-01-piano-completamento"]
 ---
 
@@ -194,6 +194,7 @@ Se una risposta è negativa, annota nel diario che cosa devi correggere.
 
 - [[sources/modulo-m-tr01-ict-digitale-cybersecurity-dati-vol-08]]
 - [[sources/campione-bandi-ict-pa-vol-08-2024-2026]]
+- [[sources/audit-bandi-rappresentativi-m-tr01-2026-07-28]]
 - [[sources/logica-volumi-copertura-concorsobook-v4]]
 - [[topics/ict-digitale-cybersecurity-dati-concorsi-pa]]
 - [[books/volumi/vol-08-ict-digitale-cybersecurity-dati/planning/02-matrice-copertura-didattica]]

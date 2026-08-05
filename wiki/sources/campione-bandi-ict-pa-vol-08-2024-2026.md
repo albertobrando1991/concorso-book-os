@@ -6,7 +6,7 @@ status: processed
 domain: "concorsi pubblici italiani"
 topics: ["profili ict", "bandi di concorso", "prove tecniche", "cybersecurity"]
 entities: ["inPA", "AgID", "Università di Firenze", "Comune di Firenze"]
-source_refs: ["sources/modulo-m-tr01-ict-digitale-cybersecurity-dati-vol-08"]
+source_refs: ["sources/modulo-m-tr01-ict-digitale-cybersecurity-dati-vol-08", "sources/audit-bandi-rappresentativi-m-tr01-2026-07-28"]
 book_refs: ["m-tr01-ict-trasformazione-digitale", "vol-08-ict-digitale-cybersecurity-dati"]
 confidence: 0.88
 updated_at: 2026-07-29
@@ -47,5 +47,6 @@ Il campione non autorizza percentuali di frequenza. Per ogni candidato resta vin
 ## Collegamenti
 
 - [[sources/modulo-m-tr01-ict-digitale-cybersecurity-dati-vol-08]]
+- [[sources/audit-bandi-rappresentativi-m-tr01-2026-07-28]]
 - [[topics/ict-digitale-cybersecurity-dati-concorsi-pa]]
 - [[books/moduli/m-tr01-ict-trasformazione-digitale/chapters/01-lavorare-ict-pa-ruoli-enti-prove]]

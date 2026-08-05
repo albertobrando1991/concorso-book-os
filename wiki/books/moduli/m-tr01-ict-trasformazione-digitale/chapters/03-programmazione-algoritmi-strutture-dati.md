@@ -2,21 +2,21 @@
 id: chapter-m-tr01-03
 type: book_chapter
 title: "Programmazione, algoritmi e strutture dati"
-status: developing
+status: reviewed-draft
 domain: "concorsi pubblici italiani"
 topics: ["programmazione", "algoritmi", "strutture dati", "complessità"]
 entities: []
 source_refs: ["sources/modulo-m-tr01-ict-digitale-cybersecurity-dati-vol-08", "sources/database-programmazione-formati-concorsi", "sources/informatica-concorsi-corpus-fonti-ufficiali-2026-05-27", "sources/programmazione-algoritmi-strutture-dati-fonti-tecniche"]
 book_refs: ["m-tr01-ict-trasformazione-digitale", "il-metodo-bando"]
 confidence: 0.78
-updated_at: 2026-07-29
+updated_at: 2026-08-05
 created_at: 2026-07-28
 review_required: true
 canonical: true
 tags: ["chapter", "m-tr01", "programmazione", "algoritmi"]
 book_id: m-tr01-ict-trasformazione-digitale
 outline_section: 3
-draft_stage: content-draft
+draft_stage: cross-reviewed
 last_compiled_from: ["sources/modulo-m-tr01-ict-digitale-cybersecurity-dati-vol-08", "sources/database-programmazione-formati-concorsi", "sources/informatica-concorsi-corpus-fonti-ufficiali-2026-05-27", "sources/programmazione-algoritmi-strutture-dati-fonti-tecniche", "topics/programmazione-e-linguaggi", "topics/informatica", "books/il-metodo-bando/chapters/informatica-pa-digitale-competenze-digitali", "books/moduli/m-tr01-ict-trasformazione-digitale/planning/08-capitolo-03-piano-completamento"]
 ---
 

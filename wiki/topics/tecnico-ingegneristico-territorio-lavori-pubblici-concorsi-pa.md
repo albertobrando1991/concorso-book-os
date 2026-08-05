@@ -6,10 +6,10 @@ status: developing
 domain: "concorsi pubblici italiani"
 topics: ["costruzioni", "urbanistica", "edilizia", "lavori pubblici", "infrastrutture", "bim", "gis"]
 entities: ["Ministero delle infrastrutture e dei trasporti", "Consiglio Superiore dei Lavori Pubblici", "ANAC"]
-source_refs: ["sources/modulo-m-tr03-tecnico-ingegneristico-vol-10"]
+source_refs: ["sources/modulo-m-tr03-tecnico-ingegneristico-vol-10", "sources/campione-bandi-tecnici-pa-vol-10-2026", "sources/audit-bandi-rappresentativi-m-tr03-2026-07-29"]
 book_refs: ["m-tr03-tecnico-ingegneristico", "vol-10-tecnico-ingegneristico-territorio-lavori-pubblici"]
 confidence: 0.72
-updated_at: 2026-07-29
+updated_at: 2026-07-30
 created_at: 2026-07-29
 review_required: true
 canonical: true
@@ -29,11 +29,13 @@ Il nucleo amministrativo comune resta in `VOL-01`. Gare, procurement e PNRR avan
 
 ## Stato fonti
 
-Il dossier editoriale definisce la mappa di lavoro ma non sostituisce norme vigenti, bandi ufficiali, linee guida tecniche, prezzari, giurisprudenza o manualistica validata. Il topic resta `developing` fino al consolidamento delle fonti specialistiche.
+Il dossier editoriale definisce la mappa di lavoro ma non sostituisce norme vigenti, linee guida tecniche, prezzari, giurisprudenza o manualistica validata. L'audit dei bandi consolida quattro cluster e distingue concorsi per esami, interpelli, mobilità e incarichi. Il topic resta `developing` fino al completamento della review specialistica trasversale.
 
 ## Collegamenti
 
 - [[sources/modulo-m-tr03-tecnico-ingegneristico-vol-10]]
+- [[sources/campione-bandi-tecnici-pa-vol-10-2026]]
+- [[sources/audit-bandi-rappresentativi-m-tr03-2026-07-29]]
 - [[books/volumi/vol-10-tecnico-ingegneristico-territorio-lavori-pubblici/index]]
 - [[books/moduli/m-tr03-tecnico-ingegneristico/index]]
 

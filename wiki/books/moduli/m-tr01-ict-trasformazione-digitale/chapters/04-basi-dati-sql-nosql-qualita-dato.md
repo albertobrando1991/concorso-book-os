@@ -2,21 +2,21 @@
 id: chapter-m-tr01-04
 type: book_chapter
 title: "Basi dati, SQL/NoSQL e qualità del dato"
-status: developing
+status: reviewed-draft
 domain: "concorsi pubblici italiani"
 topics: ["basi dati", "sql", "nosql", "qualità dati"]
 entities: ["PostgreSQL", "MongoDB"]
 source_refs: ["sources/modulo-m-tr01-ict-digitale-cybersecurity-dati-vol-08", "sources/database-programmazione-formati-concorsi", "sources/informatica-concorsi-corpus-fonti-ufficiali-2026-05-27", "sources/basi-dati-sql-nosql-qualita-fonti-tecniche"]
 book_refs: ["m-tr01-ict-trasformazione-digitale", "il-metodo-bando"]
 confidence: 0.8
-updated_at: 2026-07-29
+updated_at: 2026-08-05
 created_at: 2026-07-28
 review_required: true
 canonical: true
 tags: ["chapter", "m-tr01", "database", "sql", "nosql", "qualita-dati"]
 book_id: m-tr01-ict-trasformazione-digitale
 outline_section: 4
-draft_stage: content-draft
+draft_stage: cross-reviewed
 last_compiled_from: ["sources/modulo-m-tr01-ict-digitale-cybersecurity-dati-vol-08", "sources/database-programmazione-formati-concorsi", "sources/informatica-concorsi-corpus-fonti-ufficiali-2026-05-27", "sources/basi-dati-sql-nosql-qualita-fonti-tecniche", "topics/database-e-sql", "topics/informatica", "books/il-metodo-bando/chapters/informatica-pa-digitale-competenze-digitali", "books/moduli/m-tr01-ict-trasformazione-digitale/planning/08-capitolo-04-piano-completamento"]
 ---
 

@@ -15,7 +15,7 @@ asset_refs:
   - "books/moduli/m-fc02-agenzie-fiscali/assets/chapter-05/05-adempimento-collaborativo-tcf.png"
 book_refs: ["m-fc02-agenzie-fiscali","il-metodo-bando"]
 confidence: 0.95
-updated_at: 2026-07-29T18:20:00+02:00
+updated_at: 2026-08-04
 created_at: 2026-07-01T21:00:00+02:00
 review_required: true
 canonical: true
@@ -33,11 +33,11 @@ last_compiled_from: ["wiki/sources/normativa-tributaria-tuir-iva-accertamento-m-
 
 ## Apertura editoriale
 
-L'accertamento tributario non e' un singolo atto che compare all'improvviso alla fine di un controllo. E' il possibile esito di un percorso nel quale l'amministrazione seleziona una posizione, acquisisce e valuta dati, esercita poteri istruttori, confronta le risultanze con quanto dichiarato e, quando ne ricorrono i presupposti, formalizza una pretesa motivata.
+L'accertamento tributario non è un singolo atto che compare all'improvviso alla fine di un controllo. È il possibile esito di un percorso nel quale l'amministrazione seleziona una posizione, acquisisce e valuta dati, esercita poteri istruttori, confronta le risultanze con quanto dichiarato e, quando ne ricorrono i presupposti, formalizza una pretesa motivata.
 
-Questa sequenza interessa direttamente i concorsi dell'Agenzia delle Entrate. Una domanda puo' chiedere la differenza tra controllo automatico e accertamento sostanziale, il ruolo della motivazione, la funzione del contraddittorio oppure il significato di compliance fiscale. La difficolta deriva dal numero delle norme e, soprattutto, dalla necessita di tenere separati passaggi che nel linguaggio comune vengono confusi: anomalia, controllo, istruttoria, comunicazione, schema di atto, accertamento, definizione e riscossione.
+Questa sequenza interessa direttamente i concorsi dell'Agenzia delle Entrate. Una domanda può' chiedere la differenza tra controllo automatico e accertamento sostanziale, il ruolo della motivazione, la funzione del contraddittorio oppure il significato di compliance fiscale. La difficoltà deriva dal numero delle norme e, soprattutto, dalla necessità di tenere separati passaggi che nel linguaggio comune vengono confusi: anomalia, controllo, istruttoria, comunicazione, schema di atto, accertamento, definizione e riscossione.
 
-Il capitolo adotta una prospettiva amministrativa. Ogni potere deve avere una fonte, una finalita e un limite. Ogni atto deve essere riconducibile a un ufficio competente e a un procedimento. Il contribuente non e' un destinatario muto: le garanzie di conoscenza, partecipazione e motivazione incidono sulla qualita e sulla legittimita dell'azione fiscale.
+Il capitolo adotta una prospettiva amministrativa. Ogni potere deve avere una fonte, una finalità e un limite. Ogni atto deve essere riconducibile a un ufficio competente e a un procedimento. Il contribuente non è un destinatario muto: le garanzie di conoscenza, partecipazione e motivazione incidono sulla qualità e sulla legittimità dell'azione fiscale.
 
 La compliance affianca il controllo con strumenti diretti a prevenire l'inadempimento, rendere riconoscibili le anomalie e favorire la correzione tempestiva. Non implica indulgenza verso le violazioni. Nel regime di adempimento collaborativo assume la forma di un rapporto strutturato, fondato sulla gestione del rischio fiscale e su interlocuzioni preventive.
 
@@ -55,6 +55,8 @@ Al termine del capitolo devi saper:
 
 ## Mappa BANDO
 
+![Figura 5.1 - Mappa BANDO di accertamento e compliance: dal dato alla verifica, alle garanzie e all'output concorsuale.](../assets/chapter-05/01-mappa-bando-accertamento-compliance.png)
+
 | Fase | Domanda operativa | Output |
 | --- | --- | --- |
 | B - Bando | Quali forme di controllo, accertamento o compliance sono richiamate? | Elenco delle parole selettive del programma. |
@@ -67,9 +69,11 @@ La mappa evita di studiare l'accertamento come una raccolta di articoli scollega
 
 ## Dal dato al controllo
 
-L'amministrazione finanziaria opera su dichiarazioni, versamenti, comunicazioni e informazioni provenienti dalle banche dati o acquisite attraverso i poteri previsti dall'ordinamento. Il dato, tuttavia, non e' ancora una pretesa. Puo' segnalare un'incoerenza, orientare una verifica oppure richiedere un approfondimento.
+![Figura 5.2 - Sequenza del controllo fiscale: selezione, istruttoria, contraddittorio, atto e raccordo con la riscossione.](../assets/chapter-05/02-sequenza-controllo-accertamento.png)
 
-Il primo passaggio logico e' la selezione. Poiche le risorse di controllo non sono illimitate, l'amministrazione le indirizza verso posizioni che presentano indicatori di rischio o anomalie rilevanti. La selezione individua le situazioni da esaminare, senza dimostrare l'evasione.
+L'amministrazione finanziaria opera su dichiarazioni, versamenti, comunicazioni e informazioni provenienti dalle banche dati o acquisite attraverso i poteri previsti dall'ordinamento. Il dato, tuttavia, non è ancora una pretesa. Può' segnalare un'incoerenza, orientare una verifica oppure richiedere un approfondimento.
+
+Il primo passaggio logico è la selezione. Poiche le risorse di controllo non sono illimitate, l'amministrazione le indirizza verso posizioni che presentano indicatori di rischio o anomalie rilevanti. La selezione individua le situazioni da esaminare, senza dimostrare l'evasione.
 
 Il candidato deve evitare una scorciatoia: "il sistema rileva una differenza, quindi emette l'accertamento". Tra il dato e l'atto possono collocarsi controlli automatizzati, richieste documentali, verifiche, interlocuzioni e valutazioni giuridiche. La forma concreta dipende dal tributo, dalla dichiarazione e dalla disciplina applicabile.
 
@@ -85,11 +89,13 @@ Le tre categorie aiutano a ordinare lo studio, purché non vengano usate come si
 
 Il controllo automatico lavora principalmente sui dati disponibili e sulle operazioni di liquidazione previste. Il controllo formale può richiedere il riscontro di documenti e condizioni dichiarate. Il controllo sostanziale entra più profondamente nella ricostruzione della fattispecie e nell'esercizio dei poteri istruttori.
 
-La classificazione serve anche per il contraddittorio: non tutti gli atti e non tutte le comunicazioni seguono lo stesso regime. Prima di applicare una garanzia occorre identificare la natura dell'attivita e l'atto finale.
+La classificazione serve anche per il contraddittorio: non tutti gli atti e non tutte le comunicazioni seguono lo stesso regime. Prima di applicare una garanzia occorre identificare la natura dell'attività e l'atto finale.
 
 ## I poteri istruttori
 
-L'istruttoria e' la fase in cui l'ufficio acquisisce gli elementi necessari per valutare la posizione. Il D.P.R. 600/1973 costituisce una fonte centrale per l'accertamento delle imposte sui redditi; altre discipline regolano IVA, dogane e settori specifici.
+![Figura 5.3 - Poteri, garanzie e atto: ogni attività istruttoria richiede fonte, finalità, competenza e motivazione.](../assets/chapter-05/03-poteri-garanzie-atto.png)
+
+L'istruttoria è la fase in cui l'ufficio acquisisce gli elementi necessari per valutare la posizione. Il D.P.R. 600/1973 costituisce una fonte centrale per l'accertamento delle imposte sui redditi; altre discipline regolano IVA, dogane e settori specifici.
 
 Sul piano concorsuale, i poteri istruttori vanno studiati per funzione:
 
@@ -97,9 +103,9 @@ Sul piano concorsuale, i poteri istruttori vanno studiati per funzione:
 - inviti e questionari nei casi previsti;
 - accessi, ispezioni e verifiche nel rispetto delle relative garanzie;
 - utilizzo e confronto delle informazioni disponibili;
-- verbalizzazione delle attivita e valutazione degli elementi acquisiti.
+- verbalizzazione delle attività e valutazione degli elementi acquisiti.
 
-Non serve anticipare ogni dettaglio procedurale. Serve capire il vincolo di legalita: l'ufficio esercita soltanto i poteri attribuiti, per finalita fiscali e secondo competenza, forme e limiti stabiliti. Il materiale acquisito deve poi essere valutato; la sua mera presenza non rende automatica una conclusione sfavorevole.
+Non serve anticipare ogni dettaglio procedurale. Serve capire il vincolo di legalità: l'ufficio esercita soltanto i poteri attribuiti, per finalità fiscali e secondo competenza, forme e limiti stabiliti. Il materiale acquisito deve poi essere valutato; la sua mera presenza non rende automatica una conclusione sfavorevole.
 
 ## La prova e la motivazione
 
@@ -117,11 +123,11 @@ Questa frase separa tre piani spesso confusi.
 
 Lo Statuto dei diritti del contribuente disciplina il principio del contraddittorio nell'art. 6-bis. Nel perimetro previsto dalla norma, gli atti recanti una pretesa impositiva autonomamente impugnabili sono preceduti dal confronto con il contribuente, salve le esclusioni e le discipline specifiche.
 
-La logica e' chiara. Prima dell'atto definitivo, il contribuente deve conoscere lo schema della pretesa e avere uno spazio effettivo per presentare osservazioni e accedere agli elementi rilevanti secondo le regole vigenti. L'amministrazione, a sua volta, deve esaminare le controdeduzioni e motivare rispetto a quelle che non accoglie.
+La logica è chiara. Prima dell'atto definitivo, il contribuente deve conoscere lo schema della pretesa e avere uno spazio effettivo per presentare osservazioni e accedere agli elementi rilevanti secondo le regole vigenti. L'amministrazione, a sua volta, deve esaminare le controdeduzioni e motivare rispetto a quelle che non accoglie.
 
-Il contraddittorio non attribuisce al contribuente un potere di veto. Migliora l'istruttoria e riduce il rischio che l'atto si fondi su dati incompleti o interpretazioni non confrontate. Per l'ufficio e' una fase sostanziale, non un adempimento da eseguire in modo rituale.
+Il contraddittorio non attribuisce al contribuente un potere di veto. Migliora l'istruttoria e riduce il rischio che l'atto si fondi su dati incompleti o interpretazioni non confrontate. Per l'ufficio è una fase sostanziale, non un adempimento da eseguire in modo rituale.
 
-Termini, atti esclusi ed effetti dell'omissione devono essere verificati sul testo vigente. In prova, se la domanda non richiede il dettaglio numerico, e' preferibile spiegare funzione, sequenza ed eccezioni senza improvvisare.
+Termini, atti esclusi ed effetti dell'omissione devono essere verificati sul testo vigente. In prova, se la domanda non richiede il dettaglio numerico, è preferibile spiegare funzione, sequenza ed eccezioni senza improvvisare.
 
 ## Lo schema di atto e l'atto finale
 
@@ -129,7 +135,7 @@ Lo schema di atto apre il confronto; non coincide con l'atto definitivo. Present
 
 L'atto conclusivo deve tenere conto dell'istruttoria nel suo complesso. Se le osservazioni sono accolte, la ricostruzione può cambiare o la pretesa può non essere formalizzata. Se non sono accolte, la motivazione deve spiegare il percorso seguito.
 
-La sequenza da ricordare e':
+La sequenza da ricordare è:
 
 ```text
 selezione -> controllo -> istruttoria -> schema di atto -> contraddittorio -> valutazione -> atto motivato
@@ -141,15 +147,15 @@ Non ogni controllo percorre necessariamente tutti questi passaggi nello stesso m
 
 L'autotutela consente all'amministrazione di riesaminare i propri atti secondo la disciplina vigente. Non va descritta come un ricorso informale ne' come una garanzia che sospende automaticamente termini e riscossione. Il candidato deve distinguerla dalla definizione concordata della pretesa e dall'impugnazione davanti al giudice tributario.
 
-La disciplina distingue autotutela obbligatoria e facoltativa. La prima opera nelle ipotesi tipizzate di manifesta illegittimita, tra le quali rientrano errori di persona, calcolo, individuazione del tributo o presupposto, mancata considerazione di pagamenti regolari e documentazione sanata nei limiti consentiti. Fuori da tali casi, l'amministrazione puo esercitare l'autotutela facoltativa quando l'atto o l'imposizione risultano illegittimi o infondati. In entrambi i casi occorre verificare i limiti fissati dalla disciplina vigente.
+La disciplina distingue autotutela obbligatoria e facoltativa. La prima opera nelle ipotesi tipizzate di manifesta illegittimita, tra le quali rientrano errori di persona, calcolo, individuazione del tributo o presupposto, mancata considerazione di pagamenti regolari e documentazione sanata nei limiti consentiti. Fuori da tali casi, l'amministrazione può esercitare l'autotutela facoltativa quando l'atto o l'imposizione risultano illegittimi o infondati. In entrambi i casi occorre verificare i limiti fissati dalla disciplina vigente.
 
 I tre strumenti operano su piani diversi: l'autotutela agisce dentro l'amministrazione, la definizione concordata usa un istituto tipizzato previsto dalla legge, il ricorso apre la tutela giurisdizionale. Se il commissario chiede "chi decide?", la risposta cambia: nell'autotutela decide o rivaluta l'ufficio; nella definizione concordata la disciplina consente un assetto già predeterminato; nel ricorso decide il giudice.
 
 Tre domande aiutano:
 
-- l'ufficio sta riesaminando un proprio errore o un atto illegittimo? Il tema e' l'autotutela;
-- amministrazione e contribuente stanno utilizzando uno strumento definitorio previsto dalla legge? Il tema e' la definizione;
-- il contribuente contesta l'atto davanti all'organo giurisdizionale? Il tema e' la tutela processuale.
+- l'ufficio sta riesaminando un proprio errore o un atto illegittimo? Il tema è l'autotutela;
+- amministrazione e contribuente stanno utilizzando uno strumento definitorio previsto dalla legge? Il tema è la definizione;
+- il contribuente contesta l'atto davanti all'organo giurisdizionale? Il tema è la tutela processuale.
 
 ### Funzione dei tre piani
 
@@ -162,7 +168,7 @@ Tre domande aiutano:
 
 La disciplina puntuale appartiene al capitolo sul processo tributario e alla source note processuale consolidata. Qui conta la classificazione: il controllo produce una pretesa, l'autotutela corregge o ritira l'atto secondo legge, la definizione concordata chiude o ridetermina la lite, il ricorso attiva la tutela giurisdizionale.
 
-La distinzione produce conseguenze operative. Un'istanza rivolta all'ufficio non sostituisce il ricorso e non consente di presumere che i termini processuali o la riscossione siano sospesi. Allo stesso modo, l'apertura di un giudizio non impedisce all'amministrazione di riesaminare l'atto nei casi e con gli effetti stabiliti dalla disciplina vigente. Il candidato deve quindi verificare separatamente quattro elementi: autorita competente, atto interessato, fase del rapporto ed effetto richiesto.
+La distinzione produce conseguenze operative. Un'istanza rivolta all'ufficio non sostituisce il ricorso e non consente di presumere che i termini processuali o la riscossione siano sospesi. Allo stesso modo, l'apertura di un giudizio non impedisce all'amministrazione di riesaminare l'atto nei casi e con gli effetti stabiliti dalla disciplina vigente. Il candidato deve quindi verificare separatamente quattro elementi: autorità competente, atto interessato, fase del rapporto ed effetto richiesto.
 
 ### Strumenti da non confondere
 
@@ -183,7 +189,7 @@ Davanti a una domanda su autotutela o definizione, usa questa griglia:
 | --- | --- |
 | Presupposto | Quale errore, vizio o situazione consente di attivare lo strumento? |
 | Iniziativa | Agisce l'ufficio, il contribuente o entrambe le parti secondo una procedura tipizzata? |
-| Fase | La pretesa e' ancora amministrativa oppure esiste gia un giudizio? |
+| Fase | La pretesa è ancora amministrativa oppure esiste già un giudizio? |
 | Effetto | Lo strumento corregge, ritira, ridetermina, definisce o sospende? |
 | Termini | La disciplina attribuisce un effetto sui termini oppure occorre tutelarsi su un piano distinto? |
 | Destinazione | Il punto richiede il quadro processuale completo del capitolo 5B? |
@@ -199,63 +205,67 @@ Il [[books/moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario
 
 ### Caso guidato
 
-Un candidato riceve una domanda in cui il commissario chiede se l'ufficio "puo annullare tutto" dopo aver riscontrato un errore. La risposta corretta non e' generica. Se il vizio e' dell'atto amministrativo, si ragiona in autotutela; se il problema riguarda una pretesa che puo essere definita con uno strumento previsto dalla legge, si individua la definizione applicabile; se invece si parla di impugnazione davanti al giudice, la via e' il ricorso.
+Un candidato riceve una domanda in cui il commissario chiede se l'ufficio "può annullare tutto" dopo aver riscontrato un errore. La risposta corretta non è generica. Se il vizio è dell'atto amministrativo, si ragiona in autotutela; se il problema riguarda una pretesa che può essere definita con uno strumento previsto dalla legge, si individua la definizione applicabile; se invece si parla di impugnazione davanti al giudice, la via è il ricorso.
 
-In prova, il candidato deve prima classificare lo strumento e solo dopo richiamare il dettaglio applicabile. Se la domanda chiede "che cosa puo fare il contribuente?", la risposta non puo mescolare autotutela, definizione e ricorso come se fossero la stessa cosa.
+In prova, il candidato deve prima classificare lo strumento e solo dopo richiamare il dettaglio applicabile. Se la domanda chiede "che cosa può fare il contribuente?", la risposta non può mescolare autotutela, definizione e ricorso come se fossero la stessa cosa.
 
 ### Errore da evitare
 
-Il piu frequente e' confondere il piano amministrativo con quello processuale: si parla di autotutela quando si dovrebbe parlare di ricorso, oppure si attribuisce alla definizione concordata una funzione generale di correzione dell'atto. Il candidato deve ricordare che ogni istituto ha un soggetto decisore, un oggetto e un effetto proprio.
+Il più frequente è confondere il piano amministrativo con quello processuale: si parla di autotutela quando si dovrebbe parlare di ricorso, oppure si attribuisce alla definizione concordata una funzione generale di correzione dell'atto. Il candidato deve ricordare che ogni istituto ha un soggetto decisore, un oggetto e un effetto proprio.
 ## Accertamento e riscossione non coincidono
 
 L'accertamento forma o rettifica la pretesa attraverso l'atto previsto. La riscossione riguarda il pagamento e, quando necessario, le procedure con cui il credito viene portato a esecuzione. AdER opera nel secondo baricentro; l'Agenzia delle Entrate svolge le funzioni di amministrazione, controllo e accertamento dei tributi di propria competenza.
 
-La domanda-trappola e' frequente: "La cartella di pagamento e' un atto di accertamento?". La risposta non può ridursi a un sì o a un no astratto. Occorre identificare la funzione dell'atto e la fase in cui interviene. La cartella appartiene alla riscossione; l'accertamento appartiene alla formazione della pretesa, salvo i particolari effetti che la legge attribuisce ai diversi atti.
+La domanda-trappola è frequente: "La cartella di pagamento è un atto di accertamento?". La risposta non può ridursi a un sì o a un no astratto. Occorre identificare la funzione dell'atto e la fase in cui interviene. La cartella appartiene alla riscossione; l'accertamento appartiene alla formazione della pretesa, salvo i particolari effetti che la legge attribuisce ai diversi atti.
 
 ## Compliance fiscale ordinaria
 
+![Figura 5.4 - Compliance e rischio fiscale: prevenzione, anomalie, interlocuzione e correzione tempestiva.](../assets/chapter-05/04-compliance-rischio-fiscale.png)
+
 Compliance significa favorire l'adempimento corretto prima che l'anomalia diventi una violazione consolidata o una controversia. L'amministrazione può utilizzare dati e analisi per segnalare incoerenze, invitare il contribuente a verificare la propria posizione e rendere disponibili canali di correzione previsti dall'ordinamento.
 
-Questa logica non elimina il controllo. Lo rende più selettivo. Il contribuente che riceve una comunicazione deve valutarne contenuto e fondamento; l'ufficio deve distinguere errore, anomalia e condotta evasiva. La compliance funziona quando l'informazione e' comprensibile e la regolarizzazione avviene secondo regole conoscibili.
+Questa logica non elimina il controllo. Lo rende più selettivo. Il contribuente che riceve una comunicazione deve valutarne contenuto e fondamento; l'ufficio deve distinguere errore, anomalia e condotta evasiva. La compliance funziona quando l'informazione è comprensibile e la regolarizzazione avviene secondo regole conoscibili.
 
-Per il concorso, la formula utile e':
+Per il concorso, la formula utile è:
 
 > La compliance fiscale usa informazione, servizi e gestione del rischio per favorire l'adempimento spontaneo, lasciando fermi i poteri di controllo e accertamento.
 
 ## Adempimento collaborativo e tax control framework
 
-Il D.Lgs. 128/2015 disciplina il regime di adempimento collaborativo. La riforma successiva ne ha modificato requisiti e funzionamento. Il nucleo stabile e' il rapporto rafforzato tra amministrazione e contribuenti dotati di un sistema strutturato di rilevazione, misurazione, gestione e controllo del rischio fiscale.
+![Figura 5.5 - Adempimento collaborativo e Tax Control Framework: governo del rischio, controlli interni e interlocuzione preventiva.](../assets/chapter-05/05-adempimento-collaborativo-tcf.png)
 
-Il tax control framework non e' una semplice raccolta di procedure. Deve consentire all'organizzazione di individuare i rischi fiscali, attribuire responsabilita, documentare i controlli e far emergere tempestivamente le questioni incerte. L'amministrazione valuta il sistema e instaura interlocuzioni preventive sulle posizioni rilevanti.
+Il D.Lgs. 128/2015 disciplina il regime di adempimento collaborativo. La riforma successiva ne ha modificato requisiti e funzionamento. Il nucleo stabile è il rapporto rafforzato tra amministrazione e contribuenti dotati di un sistema strutturato di rilevazione, misurazione, gestione e controllo del rischio fiscale.
+
+Il tax control framework non è una semplice raccolta di procedure. Deve consentire all'organizzazione di individuare i rischi fiscali, attribuire responsabilità, documentare i controlli e far emergere tempestivamente le questioni incerte. L'amministrazione valuta il sistema e instaura interlocuzioni preventive sulle posizioni rilevanti.
 
 Il modello richiede doveri reciproci. Il contribuente assicura trasparenza e tempestivita nella comunicazione dei rischi; l'amministrazione offre interlocuzione, certezza preventiva nei limiti consentiti e un controllo coerente con il profilo di rischio. La cooperazione non trasforma l'ufficio in consulente dell'impresa e non neutralizza la legge.
 
-Soglie dimensionali, certificazioni, requisiti di accesso ed effetti premiali sono stati oggetto di interventi recenti. Vanno studiati sul testo vigente quando il bando richiede il dettaglio, soprattutto per profili ACFI e fiscalita internazionale.
+Soglie dimensionali, certificazioni, requisiti di accesso ed effetti premiali sono stati oggetto di interventi recenti. Vanno studiati sul testo vigente quando il bando richiede il dettaglio, soprattutto per profili ACFI e fiscalità internazionale.
 
 ## Audit fiscale: dal bilancio al controllo
 
-L'audit fiscale collega dati contabili, regole tributarie, dichiarazioni e rischio di non conformita. Va oltre la lettura del bilancio e non attribuisce automaticamente a ogni differenza il significato di evasione. Ricostruisce il percorso del dato, individua le regole applicabili e valuta se la posizione dichiarata e' coerente con documenti e fatti.
+L'audit fiscale collega dati contabili, regole tributarie, dichiarazioni e rischio di non conformita. Va oltre la lettura del bilancio e non attribuisce automaticamente a ogni differenza il significato di evasione. Ricostruisce il percorso del dato, individua le regole applicabili e valuta se la posizione dichiarata è coerente con documenti e fatti.
 
-Il punto di partenza e' la contabilita. Operazioni, fatture, crediti, debiti, costi e ricavi confluiscono nelle scritture e nel bilancio secondo regole civilistiche e contabili. La determinazione fiscale puo pero richiedere qualificazioni, variazioni o limiti ulteriori. Per questo utile civilistico, reddito imponibile, operazione IVA e importo dichiarato sono grandezze collegate, ma non intercambiabili.
+Il punto di partenza è la contabilità. Operazioni, fatture, crediti, debiti, costi e ricavi confluiscono nelle scritture e nel bilancio secondo regole civilistiche e contabili. La determinazione fiscale può pero richiedere qualificazioni, variazioni o limiti ulteriori. Per questo utile civilistico, reddito imponibile, operazione IVA e importo dichiarato sono grandezze collegate, ma non intercambiabili.
 
 La tecnica contabile e il raccordo tra utile e imponibile sono spiegati nel [[books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco#14. Dal bilancio al reddito imponibile|capitolo 11, sezione "Dal bilancio al reddito imponibile"]]. Qui interessa il passaggio successivo: come quei dati entrano nella selezione e nell'istruttoria fiscale.
 
 ### Dal dato contabile alla dichiarazione
 
-La sequenza minima e':
+La sequenza minima è:
 
 ```text
 operazione -> documento -> registrazione -> bilancio
 -> qualificazione fiscale -> dichiarazione -> controllo
 ```
 
-Ogni passaggio risponde a una domanda diversa. Il documento prova il fatto rappresentato nei limiti della sua attendibilita; la registrazione lo colloca nel sistema contabile; il bilancio lo sintetizza; la disciplina tributaria ne stabilisce la rilevanza fiscale; la dichiarazione espone la posizione del contribuente. Il controllo verifica la coerenza del percorso e puo richiedere elementi ulteriori.
+Ogni passaggio risponde a una domanda diversa. Il documento prova il fatto rappresentato nei limiti della sua attendibilita; la registrazione lo colloca nel sistema contabile; il bilancio lo sintetizza; la disciplina tributaria ne stabilisce la rilevanza fiscale; la dichiarazione espone la posizione del contribuente. Il controllo verifica la coerenza del percorso e può richiedere elementi ulteriori.
 
-Una divergenza puo dipendere da un errore, da una differenza temporale, da una diversa qualificazione o da un'omissione. Prima di formulare una rettifica, l'ufficio deve individuare la regola violata, acquisire gli elementi pertinenti e motivare perche la ricostruzione adottata risulta fondata.
+Una divergenza può dipendere da un errore, da una differenza temporale, da una diversa qualificazione o da un'omissione. Prima di formulare una rettifica, l'ufficio deve individuare la regola violata, acquisire gli elementi pertinenti e motivare perché la ricostruzione adottata risulta fondata.
 
 ### Dall'indicatore di rischio all'istruttoria
 
-Un margine anomalo, una divergenza tra fatture e ricavi o una variazione fiscale inconsueta puo orientare la selezione. E' un segnale, non una prova conclusiva. L'audit procede per verifiche:
+Un margine anomalo, una divergenza tra fatture e ricavi o una variazione fiscale inconsueta può orientare la selezione. È un segnale, non una prova conclusiva. L'audit procede per verifiche:
 
 1. delimita soggetto, periodo e tributo;
 2. individua il dato anomalo e la sua fonte;
@@ -265,13 +275,13 @@ Un margine anomalo, una divergenza tra fatture e ricavi o una variazione fiscale
 6. distingue errore sanabile, questione interpretativa e possibile violazione;
 7. collega l'eventuale rettifica a prova e motivazione.
 
-Per un profilo ACFI questa sequenza si coordina con il tax control framework. Un sistema interno capace di rilevare e gestire il rischio non impedisce il controllo, ma rende tracciabili responsabilita, verifiche e interlocuzioni preventive.
+Per un profilo ACFI questa sequenza si coordina con il tax control framework. Un sistema interno capace di rilevare e gestire il rischio non impedisce il controllo, ma rende tracciabili responsabilità, verifiche e interlocuzioni preventive.
 
 ### Caso contabile-fiscale
 
 Beta S.p.A. espone in bilancio un costo rilevante e lo considera nella determinazione del reddito fiscale. Un indicatore automatico segnala uno scostamento rispetto ai dati disponibili.
 
-L'ufficio non puo concludere che il costo sia indeducibile per il solo scostamento. Deve identificare la natura del componente, verificare documento, registrazione, competenza e collegamento con l'attivita, quindi applicare la disciplina fiscale pertinente. Beta puo spiegare che la differenza deriva da una variazione temporale o da un dato rappresentato in un periodo diverso. Se questa ricostruzione e' documentata, va valutata; se non supera gli elementi acquisiti, l'atto finale deve spiegare perche.
+L'ufficio non può concludere che il costo sia indeducibile per il solo scostamento. Deve identificare la natura del componente, verificare documento, registrazione, competenza e collegamento con l'attività, quindi applicare la disciplina fiscale pertinente. Beta può spiegare che la differenza deriva da una variazione temporale o da un dato rappresentato in un periodo diverso. Se questa ricostruzione è documentata, va valutata; se non supera gli elementi acquisiti, l'atto finale deve spiegare perché.
 
 Dal caso si ricavano tre risultati:
 
@@ -281,67 +291,67 @@ Dal caso si ricavano tre risultati:
 
 ### Come lo chiede la commissione
 
-**Domanda.** Perche una divergenza tra bilancio e dichiarazione non prova da sola una violazione?
+**Domanda.** Perché una divergenza tra bilancio e dichiarazione non prova da sola una violazione?
 
-**Risposta modello.** Perche bilancio e reddito fiscale seguono regole collegate ma distinte. La divergenza e' un indicatore da qualificare: occorre ricostruire il dato contabile, applicare la regola tributaria, acquisire la documentazione e valutare le spiegazioni del contribuente. Solo dopo l'ufficio puo motivare l'eventuale rettifica.
+**Risposta modello.** Perché bilancio e reddito fiscale seguono regole collegate ma distinte. La divergenza è un indicatore da qualificare: occorre ricostruire il dato contabile, applicare la regola tributaria, acquisire la documentazione e valutare le spiegazioni del contribuente. Solo dopo l'ufficio può motivare l'eventuale rettifica.
 
 **Domanda-trappola.** Il tax control framework sostituisce l'audit dell'amministrazione?
 
 **Risposta.** No. Il sistema interno gestisce il rischio fiscale e favorisce interlocuzioni tempestive; i poteri di controllo restano esercitabili secondo la legge.
 
-## Profili ACFI e fiscalita internazionale
+## Profili ACFI e fiscalità internazionale
 
-Il profilo ACFI integra diritto tributario internazionale, analisi economico-aziendale e controllo del rischio. Trasforma un'operazione transnazionale in una sequenza verificabile: qualificare soggetti e presenza, individuare le fonti, ricostruire funzioni e rischi, controllare la documentazione e tradurre l'esito nel Tax Control Framework. Le nozioni generali sul tributo restano nel [[books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta#Le fonti: una gerarchia da usare, non da recitare|capitolo 4]]; dichiarazioni e adempimenti nel [[books/moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni#Il ciclo dell'adempimento fiscale|capitolo 6]]; bilancio e analisi economica nel [[books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco#15. Contabilita e controllo fiscale|capitolo 11]].
+Il profilo ACFI integra diritto tributario internazionale, analisi economico-aziendale e controllo del rischio. Trasforma un'operazione transnazionale in una sequenza verificabile: qualificare soggetti e presenza, individuare le fonti, ricostruire funzioni e rischi, controllare la documentazione e tradurre l'esito nel Tax Control Framework. Le nozioni generali sul tributo restano nel [[books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta#Le fonti: una gerarchia da usare, non da recitare|capitolo 4]]; dichiarazioni e adempimenti nel [[books/moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni#Il ciclo dell'adempimento fiscale|capitolo 6]]; bilancio e analisi economica nel [[books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco#15. Contabilità e controllo fiscale|capitolo 11]].
 
 ### Fonti e metodo operativo
 
 Il TUIR disciplina residenza, stabile organizzazione e operazioni con imprese associate. La specifica convenzione bilaterale vigente distribuisce la potesta impositiva e prevede i rimedi contro la doppia imposizione. Modello e Commentario OCSE sono riferimenti interpretativi, non sostituti del trattato. Per il transfer pricing rilevano art. 110, comma 7, TUIR, decreto MEF 14 maggio 2018 e Linee guida OCSE; per l'adempimento collaborativo il D.Lgs. 128/2015 e la disciplina attuativa vigente.
 
-La sequenza e': fatto, norma interna, convenzione concreta, riferimento interpretativo, conseguenza. **Esempio:** per una societa estera operativa in Italia non basta citare l'OCSE. **Funzione:** rispettare rango e ambito delle fonti. **Errore:** trattare il Modello come convenzione. **Verifica:** associare ogni conclusione al testo efficace nel caso.
+La sequenza è: fatto, norma interna, convenzione concreta, riferimento interpretativo, conseguenza. **Esempio:** per una società estera operativa in Italia non basta citare l'OCSE. **Funzione:** rispettare rango e ambito delle fonti. **Errore:** trattare il Modello come convenzione. **Verifica:** associare ogni conclusione al testo efficace nel caso.
 
-### Residenza di persone, societa ed enti
+### Residenza di persone, società ed enti
 
-Per le persone fisiche, l'art. 2 TUIR utilizza criteri alternativi da verificare per la maggior parte del periodo d'imposta: residenza civilistica, domicilio nella definizione tributaria e presenza; l'iscrizione anagrafica opera come presunzione superabile. Per societa ed enti, l'art. 73 considera sede legale, sede di direzione effettiva e gestione ordinaria in via principale.
+Per le persone fisiche, l'art. 2 TUIR utilizza criteri alternativi da verificare per la maggior parte del periodo d'imposta: residenza civilistica, domicilio nella definizione tributaria e presenza; l'iscrizione anagrafica opera come presunzione superabile. Per società ed enti, l'art. 73 considera sede legale, sede di direzione effettiva e gestione ordinaria in via principale.
 
-Direzione strategica e gestione corrente sono distinte; sede formale e realta operativa possono divergere. La funzione della qualificazione e' stabilire il criterio personale di collegamento: in termini generali e con le precisazioni della disciplina applicabile, il residente e' assoggettato secondo il criterio mondiale, mentre il non residente e' assoggettato per i redditi collegati al territorio dello Stato. Questa conseguenza interna non esaurisce il caso: la convenzione concreta puo' risolvere una doppia residenza, distribuire la potesta impositiva e imporre il coordinamento contro la doppia imposizione.
+Direzione strategica e gestione corrente sono distinte; sede formale e realtà operativa possono divergere. La funzione della qualificazione è stabilire il criterio personale di collegamento: in termini generali e con le precisazioni della disciplina applicabile, il residente è assoggettato secondo il criterio mondiale, mentre il non residente è assoggettato per i redditi collegati al territorio dello Stato. Questa conseguenza interna non esaurisce il caso: la convenzione concreta può' risolvere una doppia residenza, distribuire la potesta impositiva e imporre il coordinamento contro la doppia imposizione.
 
-**Metodo:** identificare soggetto e periodo, applicare i criteri interni ai fatti e solo dopo verificare convenzione ed eventuale doppia residenza. **Esempio:** riunioni formali all'estero, ma decisioni e gestione documentate in Italia. **Conseguenza:** il dato formale non chiude l'analisi. **Errore:** dedurre la residenza da un unico indizio. **Verifica risolta:** se una societa e' costituita all'estero, ma verbali, deleghe e flussi mostrano direzione effettiva in Italia per il periodo rilevante, il candidato non conclude dalla sola costituzione; applica l'art. 73 ai fatti, formula la possibile residenza italiana e verifica poi la convenzione per l'eventuale conflitto e i relativi effetti.
+**Metodo:** identificare soggetto e periodo, applicare i criteri interni ai fatti e solo dopo verificare convenzione ed eventuale doppia residenza. **Esempio:** riunioni formali all'estero, ma decisioni e gestione documentate in Italia. **Conseguenza:** il dato formale non chiude l'analisi. **Errore:** dedurre la residenza da un unico indizio. **Verifica risolta:** se una società è costituita all'estero, ma verbali, deleghe e flussi mostrano direzione effettiva in Italia per il periodo rilevante, il candidato non conclude dalla sola costituzione; applica l'art. 73 ai fatti, formula la possibile residenza italiana e verifica poi la convenzione per l'eventuale conflitto e i relativi effetti.
 
 ### Stabile organizzazione materiale e personale
 
-La forma materiale richiede una sede fissa d'affari: luogo, disponibilita, stabilita ed esercizio dell'attivita; vanno considerate attivita preparatorie o ausiliarie e regola anti-frammentazione. La forma personale guarda sia alla conclusione abituale dei contratti, sia al ruolo principale che conduce abitualmente alla loro conclusione senza modifiche sostanziali da parte dell'impresa. Va distinta dall'agente indipendente che opera nell'ambito ordinario della propria attivita. Non basta una collaborazione commerciale generica: occorre verificare in concreto ruolo, abitualita, poteri e processo contrattuale.
+La forma materiale richiede una sede fissa d'affari: luogo, disponibilita, stabilità ed esercizio dell'attività; vanno considerate attività preparatorie o ausiliarie e regola anti-frammentazione. La forma personale guarda sia alla conclusione abituale dei contratti, sia al ruolo principale che conduce abitualmente alla loro conclusione senza modifiche sostanziali da parte dell'impresa. Va distinta dall'agente indipendente che opera nell'ambito ordinario della propria attività. Non basta una collaborazione commerciale generica: occorre verificare in concreto ruolo, abitualita, poteri e processo contrattuale.
 
-Norma interna e convenzione vanno lette insieme. Cliente italiano, presenza commerciale o rapporto infragruppo non provano automaticamente una stabile organizzazione. Occorre ricostruire luoghi, durata, funzioni, poteri, contratti e condotta. Quando la stabile organizzazione e' configurata, lo Stato della fonte puo' esercitare la potesta impositiva nei limiti della disciplina interna e convenzionale sul reddito attribuibile alla presenza; l'attribuzione non coincide con l'intero reddito dell'impresa estera, ma richiede una distinta analisi delle funzioni svolte, dei beni impiegati e dei rischi pertinenti.
+Norma interna e convenzione vanno lette insieme. Cliente italiano, presenza commerciale o rapporto infragruppo non provano automaticamente una stabile organizzazione. Occorre ricostruire luoghi, durata, funzioni, poteri, contratti e condotta. Quando la stabile organizzazione è configurata, lo Stato della fonte può' esercitare la potesta impositiva nei limiti della disciplina interna e convenzionale sul reddito attribuibile alla presenza; l'attribuzione non coincide con l'intero reddito dell'impresa estera, ma richiede una distinta analisi delle funzioni svolte, dei beni impiegati e dei rischi pertinenti.
 
-**Esempio:** personale italiano promuove prodotti della correlata estera; si verificano disponibilita dei luoghi e ruolo nei contratti. **Errore:** consociata uguale stabile organizzazione. **Verifica risolta:** se il dipendente in Italia non firma formalmente, ma conduce abitualmente le trattative fino a condizioni che la societa estera approva senza modifiche sostanziali, la mancanza di firma non chiude il caso; si verifica il ruolo principale, l'abitualita, l'indipendenza e il testo convenzionale. Se i requisiti risultano integrati, si passa alla determinazione del reddito attribuibile, senza imputare automaticamente alla presenza tutti gli utili esteri.
+**Esempio:** personale italiano promuove prodotti della correlata estera; si verificano disponibilita dei luoghi e ruolo nei contratti. **Errore:** consociata uguale stabile organizzazione. **Verifica risolta:** se il dipendente in Italia non firma formalmente, ma conduce abitualmente le trattative fino a condizioni che la società estera approva senza modifiche sostanziali, la mancanza di firma non chiude il caso; si verifica il ruolo principale, l'abitualita, l'indipendenza e il testo convenzionale. Se i requisiti risultano integrati, si passa alla determinazione del reddito attribuibile, senza imputare automaticamente alla presenza tutti gli utili esteri.
 
 ### Convenzioni e doppia imposizione
 
-Le convenzioni definiscono ambito, residenza, stabile organizzazione, regole distributive, metodi di eliminazione della doppia imposizione, procedura amichevole e scambio di informazioni. La doppia imposizione giuridica riguarda, in termini generali, imposte comparabili sullo stesso contribuente, oggetto e periodo; quella economica puo' emergere da una rettifica di transfer pricing sul medesimo risultato in capo a soggetti diversi.
+Le convenzioni definiscono ambito, residenza, stabile organizzazione, regole distributive, metodi di eliminazione della doppia imposizione, procedura amichevole e scambio di informazioni. La doppia imposizione giuridica riguarda, in termini generali, imposte comparabili sullo stesso contribuente, oggetto e periodo; quella economica può' emergere da una rettifica di transfer pricing sul medesimo risultato in capo a soggetti diversi.
 
-Esenzione e credito sono metodi tipici da applicare secondo convenzione e normativa interna. La procedura amichevole puo' offrire il canale di composizione tra amministrazioni. **Uso d'esame:** indicare Stato, titolo della pretesa, regola distributiva e rimedio. **Errore:** applicare una regola convenzionale astratta. **Verifica:** testo, protocollo e modifiche della convenzione concreta.
+Esenzione e credito sono metodi tipici da applicare secondo convenzione e normativa interna. La procedura amichevole può' offrire il canale di composizione tra amministrazioni. **Uso d'esame:** indicare Stato, titolo della pretesa, regola distributiva e rimedio. **Errore:** applicare una regola convenzionale astratta. **Verifica:** testo, protocollo e modifiche della convenzione concreta.
 
 ### Transfer pricing e libera concorrenza
 
 Il transfer pricing verifica se le condizioni tra imprese associate rispecchiano quelle concordabili tra indipendenti in circostanze comparabili. Non cerca automaticamente un prezzo medio: delinea l'operazione effettiva attraverso contratti e condotta e analizza funzioni svolte, beni impiegati e rischi assunti e controllati.
 
-La sequenza e': imprese associate e operazione; delineazione; analisi funzionale; caratteristiche economicamente rilevanti; comparabili affidabili; metodo piu' appropriato; risultato o intervallo motivato. **Esempio:** per servizi alla consociata estera si accertano attivita, risorse, controllo dei rischi e beneficio prima del metodo. **Conseguenza:** una rettifica puo' generare doppia imposizione economica. **Errore:** ritenere sufficiente il contratto. **Verifica:** riconciliare contratto, persone, processi, contabilita e risultati.
+La sequenza è: imprese associate e operazione; delineazione; analisi funzionale; caratteristiche economicamente rilevanti; comparabili affidabili; metodo più' appropriato; risultato o intervallo motivato. **Esempio:** per servizi alla consociata estera si accertano attività, risorse, controllo dei rischi e beneficio prima del metodo. **Conseguenza:** una rettifica può' generare doppia imposizione economica. **Errore:** ritenere sufficiente il contratto. **Verifica:** riconciliare contratto, persone, processi, contabilità e risultati.
 
-### Operazioni infragruppo, documentazione e comparabilita
+### Operazioni infragruppo, documentazione e comparabilità
 
-Il Masterfile rappresenta gruppo, struttura, catena del valore, intangibili, finanza, politiche e dati finanziari. La Documentazione Nazionale si concentra su entita locale e operazioni: flussi, analisi funzionale e di comparabilita, metodo, applicazione, risultati, assunzioni, dati e accordi.
+Il Masterfile rappresenta gruppo, struttura, catena del valore, intangibili, finanza, politiche e dati finanziari. La Documentazione Nazionale si concentra su entita locale e operazioni: flussi, analisi funzionale e di comparabilità, metodo, applicazione, risultati, assunzioni, dati e accordi.
 
-La mera presenza dei documenti non garantisce idoneita: devono consentire di delineare le transazioni e verificare funzioni e comparabilita. Metodo o comparabili diversi da quelli dell'ufficio non escludono da soli l'idoneita; omissioni marginali sono diverse da carenze complessive o informazioni non veritiere. **Esempio:** servizi omonimi non sono comparabili se impiegano intangibili o assumono rischi diversi. **Errore:** volume uguale qualita. **Verifica:** operazione, soggetti, funzioni-beni-rischi, metodo, comparabili, risultato.
+La mera presenza dei documenti non garantisce idoneita: devono consentire di delineare le transazioni e verificare funzioni e comparabilità. Metodo o comparabili diversi da quelli dell'ufficio non escludono da soli l'idoneita; omissioni marginali sono diverse da carenze complessive o informazioni non veritiere. **Esempio:** servizi omonimi non sono comparabili se impiegano intangibili o assumono rischi diversi. **Errore:** volume uguale qualità. **Verifica:** operazione, soggetti, funzioni-beni-rischi, metodo, comparabili, risultato.
 
 ### Rischio internazionale e Tax Control Framework
 
-Il TCF inserisce il rischio fiscale nella governance: responsabilita, mappa, presidi, evidenze, monitoraggio, adattamento e flussi verso gli organi di gestione. Residenza, stabile organizzazione e transfer pricing diventano rischi associati a processi e controlli.
+Il TCF inserisce il rischio fiscale nella governance: responsabilità, mappa, presidi, evidenze, monitoraggio, adattamento e flussi verso gli organi di gestione. Residenza, stabile organizzazione e transfer pricing diventano rischi associati a processi e controlli.
 
-Il rischio di stabile organizzazione puo' essere collegato all'autorizzazione dei poteri del personale estero; quello di transfer pricing all'approvazione, contabilizzazione e revisione delle operazioni infragruppo. Uno scostamento e' un segnale istruttorio, non prova automatica. Il lavoro ACFI comprende modello aziendale, mappa definita in contraddittorio, adeguatezza ed effettivita dei presidi e monitoraggio. **Errore:** TCF come manuale statico. **Verifica:** per ogni rischio, proprietario, controllo, evidenza, monitoraggio e gestione del fallimento.
+Il rischio di stabile organizzazione può' essere collegato all'autorizzazione dei poteri del personale estero; quello di transfer pricing all'approvazione, contabilizzazione e revisione delle operazioni infragruppo. Uno scostamento è un segnale istruttorio, non prova automatica. Il lavoro ACFI comprende modello aziendale, mappa definita in contraddittorio, adeguatezza ed effettivita dei presidi e monitoraggio. **Errore:** TCF come manuale statico. **Verifica:** per ogni rischio, proprietario, controllo, evidenza, monitoraggio e gestione del fallimento.
 
 ### Caso completo ACFI
 
-**Fatti.** Alfa, residente in Italia, presta servizi alla correlata estera Beta. Dipendenti di Beta lavorano stabilmente sul mercato italiano, partecipano alle trattative e assumono qui parte delle decisioni operative. Il gruppo e' in cooperative compliance.
+**Fatti.** Alfa, residente in Italia, presta servizi alla correlata estera Beta. Dipendenti di Beta lavorano stabilmente sul mercato italiano, partecipano alle trattative e assumono qui parte delle decisioni operative. Il gruppo è in cooperative compliance.
 
 **Qualificazione.** Si verificano separatamente residenza di Alfa e Beta; presenza materiale o personale di Beta; operazione di servizi, funzioni, beni e rischi. Il rapporto di gruppo non crea automatismi.
 
@@ -353,33 +363,33 @@ Il rischio di stabile organizzazione puo' essere collegato all'autorizzazione de
 
 ### Commissario, trappole, esercizio e quiz
 
-**Domanda.** Come affrontare un'operazione infragruppo con possibile stabile organizzazione? **Risposta:** separare residenza, presenza e transfer pricing; confrontare art. 162 e convenzione; delineare l'operazione e svolgere analisi funzionale e comparabilita; verificare Masterfile e Documentazione Nazionale; inserire rischi distinti nel TCF.
+**Domanda.** Come affrontare un'operazione infragruppo con possibile stabile organizzazione? **Risposta:** separare residenza, presenza e transfer pricing; confrontare art. 162 e convenzione; delineare l'operazione e svolgere analisi funzionale e comparabilità; verificare Masterfile e Documentazione Nazionale; inserire rischi distinti nel TCF.
 
-**Trappole:** societa estera uguale non residente; consociata uguale stabile organizzazione; contratto uguale operazione effettiva; stesso nome uguale comparabile; documentazione presente uguale idonea; rischio mappato uguale controllato.
+**Trappole:** società estera uguale non residente; consociata uguale stabile organizzazione; contratto uguale operazione effettiva; stesso nome uguale comparabile; documentazione presente uguale idonea; rischio mappato uguale controllato.
 
-**Mini-esercizio risolto.** Gamma Italia distribuisce beni di Delta estera. Dipendenti di Delta dispongono stabilmente di uffici presso Gamma e hanno un ruolo decisivo e abituale nei contratti; Gamma riceve remunerazione stabile pur sostenendo rischi di mercato. Si aprono tre schede: presenza di Delta, verificando luoghi e poteri; transfer pricing, confrontando funzioni e rischi dichiarati con quelli effettivi; TCF, verificando perche' i presidi non abbiano intercettato la divergenza. Solo dopo si applicano convenzione, metodo e rimedi.
+**Mini-esercizio risolto.** Gamma Italia distribuisce beni di Delta estera. Dipendenti di Delta dispongono stabilmente di uffici presso Gamma e hanno un ruolo decisivo e abituale nei contratti; Gamma riceve remunerazione stabile pur sostenendo rischi di mercato. Si aprono tre schede: presenza di Delta, verificando luoghi e poteri; transfer pricing, confrontando funzioni e rischi dichiarati con quelli effettivi; TCF, verificando perché' i presidi non abbiano intercettato la divergenza. Solo dopo si applicano convenzione, metodo e rimedi.
 
-**Quiz 1.** Il rapporto infragruppo prova la stabile organizzazione? **No**, servono i requisiti materiali o personali. **Quiz 2.** Il Masterfile sostituisce la Documentazione Nazionale? **No**, hanno funzioni complementari. **Quiz 3.** Uno scostamento prova la violazione? **No**, richiede analisi di operazione, comparabilita, metodo e dati.
+**Quiz 1.** Il rapporto infragruppo prova la stabile organizzazione? **No**, servono i requisiti materiali o personali. **Quiz 2.** Il Masterfile sostituisce la Documentazione Nazionale? **No**, hanno funzioni complementari. **Quiz 3.** Uno scostamento prova la violazione? **No**, richiede analisi di operazione, comparabilità, metodo e dati.
 
 **Checklist ACFI:** soggetto e periodo; criteri interni e convenzione; separazione tra residenza, stabile organizzazione e transfer pricing; contratti e condotta; funzioni, beni e rischi; metodo e comparabili; coerenza documentale e contabile; proprietario, controllo, evidenza e monitoraggio; rimedio alla doppia imposizione; nessun automatismo o dettaglio mobile non verificato.
 
 ## Caso guidato
 
-Un ufficio rileva una divergenza tra i dati dichiarati da una societa e le informazioni disponibili. La divergenza e' significativa, ma non consente ancora di stabilire se vi sia un errore, una diversa qualificazione giuridica o un'omissione.
+Un ufficio rileva una divergenza tra i dati dichiarati da una società e le informazioni disponibili. La divergenza è significativa, ma non consente ancora di stabilire se vi sia un errore, una diversa qualificazione giuridica o un'omissione.
 
 Il funzionario non parte dall'atto finale. Prima identifica la fonte del dato e il periodo interessato. Verifica la competenza dell'ufficio e sceglie il potere istruttorio adeguato. Acquisisce documenti e chiarimenti, distingue i fatti dalle ipotesi e ricostruisce la disciplina applicabile.
 
-Se il procedimento rientra nel contraddittorio, lo schema di atto espone la ricostruzione e consente alla societa di presentare osservazioni. La societa produce un documento che chiarisce una parte della divergenza e contesta la qualificazione di un'altra operazione. L'ufficio deve valutare entrambe le difese. Non può ignorarle perché l'ipotesi iniziale era gia stata formulata.
+Se il procedimento rientra nel contraddittorio, lo schema di atto espone la ricostruzione e consente alla società di presentare osservazioni. La società produce un documento che chiarisce una parte della divergenza e contesta la qualificazione di un'altra operazione. L'ufficio deve valutare entrambe le difese. Non può ignorarle perché l'ipotesi iniziale era già stata formulata.
 
 L'esito può essere una rideterminazione della pretesa, l'abbandono di una parte dei rilievi oppure l'adozione dell'atto motivato. Solo dopo si aprono gli eventuali percorsi di definizione, impugnazione e riscossione.
 
-Il criterio che emerge dal caso e' la verificabilita del procedimento. La qualita dell'accertamento dipende dalla corretta ricostruzione dei fatti e dall'applicazione della norma, non dalla conferma dell'ipotesi iniziale.
+Il criterio che emerge dal caso è la verificabilita del procedimento. La qualità dell'accertamento dipende dalla corretta ricostruzione dei fatti e dall'applicazione della norma, non dalla conferma dell'ipotesi iniziale.
 
 ## Da sapere in 5 righe
 
 1. Il dato seleziona il rischio, ma non dimostra da solo la violazione.
 2. Controllo automatico, formale e sostanziale hanno oggetti e procedure differenti.
-3. I poteri istruttori richiedono fonte, competenza, finalita e rispetto delle garanzie.
+3. I poteri istruttori richiedono fonte, competenza, finalità e rispetto delle garanzie.
 4. Il contraddittorio consente un confronto effettivo prima dell'atto nel perimetro previsto.
 5. Compliance e adempimento collaborativo prevengono e gestiscono il rischio senza eliminare i controlli.
 
@@ -391,17 +401,17 @@ Il criterio che emerge dal caso e' la verificabilita del procedimento. La qualit
 
 ## Domanda-trappola
 
-**Domanda.** La compliance fiscale sostituisce l'attivita di accertamento?
+**Domanda.** La compliance fiscale sostituisce l'attività di accertamento?
 
-**Risposta corretta.** No. La compliance favorisce adempimento spontaneo, prevenzione e gestione del rischio. Può ridurre errori e conflitti, ma non elimina i poteri di controllo. L'adempimento collaborativo e' un regime specifico, non un'esenzione dall'applicazione della legge tributaria.
+**Risposta corretta.** No. La compliance favorisce adempimento spontaneo, prevenzione e gestione del rischio. Può ridurre errori e conflitti, ma non elimina i poteri di controllo. L'adempimento collaborativo è un regime specifico, non un'esenzione dall'applicazione della legge tributaria.
 
 ## Errore tipico
 
-L'errore più comune e' raccontare l'accertamento partendo dall'avviso. In questo modo scompaiono selezione, istruttoria, prova e contraddittorio. La risposta diventa un elenco di effetti dell'atto e non dimostra la comprensione del lavoro dell'ufficio.
+L'errore più comune è raccontare l'accertamento partendo dall'avviso. In questo modo scompaiono selezione, istruttoria, prova e contraddittorio. La risposta diventa un elenco di effetti dell'atto e non dimostra la comprensione del lavoro dell'ufficio.
 
 La correzione consiste nel ripetere sempre cinque domande:
 
-1. quale anomalia o rischio e' stato individuato?;
+1. quale anomalia o rischio è stato individuato?;
 2. quale potere può usare l'ufficio?;
 3. quali elementi sono stati acquisiti?;
 4. quale garanzia partecipativa si applica?;
@@ -440,15 +450,15 @@ D. produce automaticamente una cartella.
 
 A. coincide sempre con l'atto definitivo;
 B. apre il confronto nel procedimento soggetto a contraddittorio;
-C. e' un atto di riscossione;
+C. è un atto di riscossione;
 D. rende inutili le controdeduzioni.
 
-**Risposta: B.** La sua funzione e' consentire la partecipazione prima della decisione finale.
+**Risposta: B.** La sua funzione è consentire la partecipazione prima della decisione finale.
 
 **3. Il tax control framework:**
 
-A. e' una generica dichiarazione di correttezza;
-B. e' un sistema di gestione e controllo del rischio fiscale;
+A. è una generica dichiarazione di correttezza;
+B. è un sistema di gestione e controllo del rischio fiscale;
 C. appartiene alla riscossione coattiva;
 D. elimina i controlli dell'Agenzia.
 
@@ -457,7 +467,7 @@ D. elimina i controlli dell'Agenzia.
 **4. Una divergenza tra bilancio e dichiarazione:**
 
 A. prova da sola una violazione;
-B. e' irrilevante per il controllo;
+B. è irrilevante per il controllo;
 C. richiede la ricostruzione del trattamento contabile e fiscale;
 D. consente sempre una rettifica automatica.
 
@@ -508,4 +518,4 @@ D. consente sempre una rettifica automatica.
 - Coordinare il lessico con i capitoli su adempimenti, riscossione, sanzioni e processo tributario.
 - Verificare convenzione e disciplina vigenti per ogni caso internazionale.
 - Sottoporre il blocco ACFI a review normativa ed editoriale indipendenti.
-- Il capitolo ha finalita concorsuale e non costituisce consulenza fiscale.
+- Il capitolo ha finalità concorsuale e non costituisce consulenza fiscale.
