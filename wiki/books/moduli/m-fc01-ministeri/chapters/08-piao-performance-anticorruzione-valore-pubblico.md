@@ -331,7 +331,6 @@ Scegli un servizio ministeriale descritto in un bando o in una fonte istituziona
 - [[books/moduli/m-fc01-ministeri/chapters/03-profili-professionali-ccnl-mansioni]]
 - [[books/moduli/m-fc01-ministeri/chapters/06-organizzazione-interna-ministeri]]
 - decreto legislativo 30 marzo 2001, n. 165, per organizzazione e lavoro pubblico
-- decreto legislativo 14 marzo 2013, n. 33, per trasparenza e accesso civico
 
 
 ## ▣ Verifica — PIAO, performance e rischio

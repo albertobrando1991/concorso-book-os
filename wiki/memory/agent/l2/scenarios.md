@@ -4968,3 +4968,11 @@
 - l0: l0/conv-20260805165814-19ch9sj.md
 - atoms:
   - mem-20260805165814-qxmoqi | result | Esito pipeline-step-11-mfc01-chapter-08: Procedi con il prossimo step della pipeline VOL-03. -> Completato step 11 Humanizer del capitolo 08.
+
+## 2026-08-05T17:06:11.831Z - VOL-03/M-FC01
+
+- conversation_id: conv-20260805170611-p6czfi
+- route: pipeline-step-12-mfc01-chapter-08
+- l0: l0/conv-20260805170611-p6czfi.md
+- atoms:
+  - mem-20260805170611-1ya9pce | result | Esito pipeline-step-12-mfc01-chapter-08: Procedi con il prossimo step della pipeline VOL-03. -> Completato step 12 Revisione Editoriale Totale del capitolo 08.
