@@ -3,7 +3,7 @@
   "specPath": "books/volumi/vol-03-fisco-dogane-previdenza-ispettivo/planning/00-scheda-pipeline.md",
   "specHash": "sha256:7a5be32028a6026f42eac9b7a221a5879330c694249c48b679a9f6ab5999df16",
   "createdAt": "2026-07-27T20:05:30.039Z",
-  "updatedAt": "2026-08-05T17:05:59.816Z",
+  "updatedAt": "2026-08-05T17:14:09.769Z",
   "steps": [
     {
       "key": "08:moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md",
@@ -3385,9 +3385,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc01-ministeri/chapters/09-contabilita-stato-bilancio-ministeriale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T17:10:59.942Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fc01-ministeri/chapters/09-contabilita-stato-bilancio-ministeriale.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di aless: Piano verificato manualmente in wiki/reviews/pipeline/VOL-03/08-moduli-m-fc01-ministeri-chapters-09-contabilita-stato-bilancio-ministeriale-md.md: cinque Nucleo ID stabili, stato iniziale, sezioni da conservare, confini e duplicazioni, casi ed esercizi, fonti consolidate, sette audit automatici, struttura H1/H2/H3, budget formato 2 e criteri di accettazione. Capitolo sorgente non modificato."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-05T17:14:09.769Z"
     },
     {
       "key": "09:moduli/m-fc01-ministeri/chapters/09-contabilita-stato-bilancio-ministeriale.md",
