@@ -11,7 +11,7 @@ book_refs: ["m-fl01-comuni-unioni", "vol-02-enti-locali-polizia-locale", "il-met
 confidence: 0.84
 updated_at: 2026-08-05T16:20:00+02:00
 created_at: 2026-07-17T16:30:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "module-code-m-fl01", "professional-draft", "welfare-locale", "pipeline-step-09"]
 book_id: m-fl01-comuni-unioni

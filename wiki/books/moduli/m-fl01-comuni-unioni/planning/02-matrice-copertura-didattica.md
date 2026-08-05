@@ -2,7 +2,7 @@
 id: didactic-coverage-matrix-m-fl01
 type: editorial_matrix
 title: "Matrice di copertura didattica - M-FL01 Comuni e Unioni"
-status: review_required
+status: reviewed
 domain: concorsi-pubblici
 topics: [copertura-didattica-integrale, enti-locali, comuni, unioni-di-comuni]
 source_refs: [sources/principio-copertura-didattica-integrale-2026-07-17.md, sources/d-lgs-18-agosto-2000-n-267-enti-locali.md, sources/bandi-inpa-vol-02-campione-2026.md]
@@ -10,7 +10,7 @@ book_refs: [m-fl01-comuni-unioni, vol-02-enti-locali-polizia-locale]
 confidence: 0.9
 updated_at: 2026-08-05
 created_at: 2026-07-30
-review_required: true
+review_required: false
 canonical: false
 tags: [matrice, copertura-didattica, m-fl01]
 book_id: m-fl01-comuni-unioni
@@ -205,4 +205,4 @@ La matrice applica il gate di copertura integrale ai quattordici capitoli didatt
 
 ## Esito del gate
 
-La matrice è leggibile dal validatore e assegna i nuclei ai capitoli 1-14. Le righe collocate nel capitolo 1 (`Perimetro`, `Ordinamento` cap. 1-2) sono state verificate sul testo reale nello step 10 della pipeline VOL-02 il 2026-07-30; le righe `Organizzazione` (cap. 3), `Atti` (cap. 4), `Procedimento` (cap. 5), `Servizi digitali` (cap. 6) e `Servizi demografici` (cap. 7) sono state verificate sul testo reale il 2026-07-31. I capitoli 08 e 09 sono stati verificati il 2026-08-05 su sei nuclei Formato 2 ciascuno e 66/66 dimensioni applicabili per capitolo; i capitoli 10, 11, 12 e 13 sono stati verificati nella stessa data su sette nuclei e 77/77 dimensioni applicabili ciascuno. Tutti risultano `completo` sul piano didattico. La colonna `Review normativa` assegna gli audit specialistici successivi; non anticipa la firma umana finale. Le altre righe restano `parziale` fino alla verifica di copertura dei rispettivi capitoli; nessuna riga viene promossa artificialmente a `completo`.
+La matrice è leggibile dal validatore e assegna i nuclei ai capitoli 1-14. Le righe collocate nel capitolo 1 (`Perimetro`, `Ordinamento` cap. 1-2) sono state verificate sul testo reale nello step 10 della pipeline VOL-02 il 2026-07-30; le righe `Organizzazione` (cap. 3), `Atti` (cap. 4), `Procedimento` (cap. 5), `Servizi digitali` (cap. 6) e `Servizi demografici` (cap. 7) sono state verificate sul testo reale il 2026-07-31. I capitoli 08 e 09 sono stati verificati il 2026-08-05 su sei nuclei Formato 2 ciascuno e 66/66 dimensioni applicabili per capitolo; i capitoli 10-14 sono stati verificati nella stessa data su sette nuclei e 77/77 dimensioni applicabili ciascuno. Tutte le righe didattiche risultano `completo`. La colonna `Review normativa` assegna gli audit specialistici successivi e non anticipa la firma umana finale.

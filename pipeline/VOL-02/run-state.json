@@ -3,7 +3,7 @@
   "specPath": "books/vol-02-enti-locali-polizia-locale/planning/00-scheda-pipeline.md",
   "specHash": "sha256:b9ec2abf7ad63aaa5271f5f2d561817a092ec16c24727d57ebf82ef84b0a5a6b",
   "createdAt": "2026-07-29T22:02:16.845Z",
-  "updatedAt": "2026-08-05T17:48:37.460Z",
+  "updatedAt": "2026-08-05T18:23:36.746Z",
   "steps": [
     {
       "key": "08:moduli/m-fl01-comuni-unioni/chapters/00-piano-editoriale.md",
@@ -1774,9 +1774,19 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-fl01-comuni-unioni",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T17:57:46.672Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-05T18:06:56.607Z"
     },
     {
       "key": "14:moduli/m-fl01-comuni-unioni",
@@ -1784,9 +1794,19 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-fl01-comuni-unioni",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T18:07:08.445Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-05T18:08:08.213Z"
     },
     {
       "key": "15:moduli/m-fl01-comuni-unioni",
@@ -1794,9 +1814,19 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-fl01-comuni-unioni",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T18:08:18.584Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-05T18:21:34.818Z"
     },
     {
       "key": "16:moduli/m-fl01-comuni-unioni",
@@ -1804,9 +1834,32 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-fl01-comuni-unioni",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T18:21:46.208Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"text-freeze\" dello step 16 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fl01-comuni-unioni"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Verifica manuale completata: 14 capitoli presenti e hashati, matrice senza stati bloccanti, report 13-15 chiusi, audit specialistico completato, indice e cut-off documentati nel manifest planning/10-text-freeze-manifest.md."
+          }
+        ],
+        "notImplemented": [
+          "text-freeze"
+        ]
+      },
+      "finishedAt": "2026-08-05T18:23:36.746Z"
     },
     {
       "key": "08:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/00-piano-editoriale.md",

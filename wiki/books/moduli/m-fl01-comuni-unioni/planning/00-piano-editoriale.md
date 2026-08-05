@@ -9,13 +9,13 @@ entities: ["Metodo BANDO"]
 source_refs: ["sources/metodo-bando-progetto-editoriale.md","sources/struttura-madre-il-metodo-bando.md","sources/d-lgs-18-agosto-2000-n-267-enti-locali.md","sources/vol-02-dossier-redazionale-enti-locali-polizia-locale.md"]
 book_refs: ["m-fl01-comuni-unioni","il-metodo-bando","vol-02-enti-locali-polizia-locale"]
 confidence: 0.82
-updated_at: 2026-07-20T00:00:00+02:00
+updated_at: 2026-08-05T00:00:00+02:00
 created_at: 2026-06-27T19:56:28+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["editorial-plan","specialist-module-plan","module-code-m-fl01"]
 book_id: m-fl01-comuni-unioni
-draft_stage: professional-draft-complete
+draft_stage: transversal-review-complete
 module_code: M-FL01
 module_family: funzioni-locali
 last_compiled_from: ["wiki/books/moduli/architettura-moduli-specialistici.md","wiki/books/moduli/m-fl01-comuni-unioni/index.md","wiki/books/moduli/m-fl01-comuni-unioni/chapters/02-statuto-regolamenti-autonomia-normativa-locale.md","wiki/books/moduli/m-fl01-comuni-unioni/chapters/03-organizzazione-comunale-uffici-servizi-gestioni-associate.md","wiki/books/moduli/m-fl01-comuni-unioni/chapters/04-deliberazioni-determinazioni-decreti-ordinanze-pareri.md","wiki/books/moduli/m-fl01-comuni-unioni/chapters/05-procedimento-locale-protocollo-albo-urp-accesso.md","wiki/books/moduli/m-fl01-comuni-unioni/chapters/06-servizi-digitali-comunali-cad-anpr-gestione-documentale.md","wiki/books/moduli/m-fl01-comuni-unioni/chapters/07-servizi-demografici-elettorali.md","wiki/books/moduli/m-fl01-comuni-unioni/chapters/08-welfare-locale-servizi-sociali-isee-minori-servizi-educativi.md","wiki/books/moduli/m-fl01-comuni-unioni/chapters/09-programmazione-integrata-comunale-dup-bilancio-peg-piao-performance.md","wiki/books/moduli/m-fl01-comuni-unioni/chapters/10-gestione-finanziaria-rendiconto-tesoreria-controlli.md","wiki/books/moduli/m-fl01-comuni-unioni/chapters/11-entrate-tributi-locali-patrimonio-economato-riscossione.md","wiki/books/moduli/m-fl01-comuni-unioni/chapters/12-procurement-operativo-ufficio-comunale.md","wiki/books/moduli/m-fl01-comuni-unioni/chapters/13-territorio-patrimonio-edilizia-lavori-interfaccia-amministrativa.md","wiki/books/moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md"]
@@ -72,4 +72,4 @@ Sommario e architettura capitoli sviluppati:
 13. [[books/moduli/m-fl01-comuni-unioni/chapters/13-territorio-patrimonio-edilizia-lavori-interfaccia-amministrativa|Territorio, patrimonio, edilizia e lavori: interfaccia amministrativa]]
 14. [[books/moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali|Laboratorio teorico-pratico per i quattro profili comunali]]
 
-I capitoli 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13 e 14 sono stati portati a bozza professionale. Il modulo M-FL01 è ora pronto per revisione editoriale totale, controllo di copertura v4 e calibrazione finale delle simulazioni su bandi PDF e allegati effettivi.
+I capitoli 01-14 hanno completato revisione individuale, controllo di copertura v4 e revisione trasversale. La Bibbia editoriale canonica del modulo è [[books/moduli/m-fl01-comuni-unioni/planning/09-bibbia-del-modulo|Bibbia del Modulo M-FL01]]. Restano gli interventi automatici degli step 14-16, gli apparati, il preflight e la conferma umana conclusiva.
