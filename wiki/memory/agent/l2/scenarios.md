@@ -4984,3 +4984,12 @@
 - l0: l0/conv-20260805171423-1eiavwj.md
 - atoms:
   - mem-20260805171423-1xitbfc | result | Esito pipeline-step-08-mfc01-chapter-09: Procedi con il prossimo step della pipeline VOL-03. -> Completato step 08 del capitolo 09 Contabilità dello Stato e bilancio ministeriale.
+
+## 2026-08-05T17:16:20.720Z - VOL-08
+
+- conversation_id: conv-20260805171620-1572pc4
+- route: codex/pipeline-volume/steps-15-16/m-tr01
+- l0: l0/conv-20260805171620-1572pc4.md
+- atoms:
+  - mem-20260805171620-62cxs9 | workflow | Procedere con la pipeline aggiornata VOL-08 completando i passaggi non effettuati senza sovrascrivere il lavoro concorrente.
+  - mem-20260805171620-9uke7y | result | Esito codex/pipeline-volume/steps-15-16/m-tr01: Procedere con la pipeline aggiornata VOL-08 completando i passaggi non effettuati senza sovrascrivere il lavoro concorrente. -> Completati audit specialistico step 15 e text freeze step 16 per M-TR01 in worktree isolato e integrati nel ramo corrente; manifest 37 file, prossimo step 18.

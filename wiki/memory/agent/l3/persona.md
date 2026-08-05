@@ -5,6 +5,7 @@ Usala come profilo di lavoro: le source notes e il wiki restano la base canonica
 
 ## Preferenze e istruzioni recenti
 
+- Procedere con la pipeline aggiornata VOL-08 completando i passaggi non effettuati senza sovrascrivere il lavoro concorrente. (mem-20260805171620-62cxs9)
 - Commit e push di tutte le modifiche effettuate finora, inclusa la logica di pipeline e download per lo staff, senza sovrascrivere altro. (mem-20260805162301-h3d2eg)
 - Proseguire autonomamente la pipeline aggiornata di VOL-02 dopo il capitolo 10. (mem-20260805161744-16dbq5f)
 - Completare VOL-02 M-FL01 capitolo 10 fino allo stato previsto dalla pipeline aggiornata, procedendo autonomamente e senza revisione umana intermedia. (mem-20260805155954-odta9o)
@@ -84,4 +85,3 @@ Usala come profilo di lavoro: le source notes e il wiki restano la base canonica
 - Procedi con il prossimo passo della pipeline del volume 7, completando la raccolta e la verifica delle fonti necessarie prima della scrittura dei capitoli. (mem-20260729093824-cizuig)
 - Prossimo passo: continuare la pipeline VOL-07 acquisendo prima tutte le fonti necessarie, senza iniziare i capitoli finch? (mem-20260729092336-12ug5k1)
 - Procedi con la pipeline del volume 7, includendo ricerca e scaricamento delle fonti necessarie prima della scrittura dei capitoli. (mem-20260729090237-119s6lz)
-- Procedere con la pipeline VOL-07 e con la ricerca e il download delle fonti necessarie prima di scrivere i capitoli. (mem-20260729083750-bah40g)
