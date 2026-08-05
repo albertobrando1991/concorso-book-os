@@ -64,6 +64,20 @@ Ogni fase produce documenti ed evidenze. Il fascicolo deve permettere di capire 
 
 **Errore tipico:** considerare l’aggiudicazione come fine del procedimento. Il risultato pubblico dipende anche dall’esecuzione.
 
+
+### Verifica del fabbisogno e qualità dell'istruttoria
+
+La qualità del contratto dipende dalla domanda iniziale. L'ufficio descrive il problema, i destinatari, il livello di servizio atteso e il modo in cui misurerà il risultato. Questa operazione evita specifiche costruite intorno a un prodotto o a un fornitore già individuato. Permette inoltre di confrontare alternative: acquisto, riuso, adesione a strumenti esistenti o diversa organizzazione del servizio.
+
+Programmazione e progettazione collegano bisogno, tempi e risorse. La copertura finanziaria è indispensabile, ma non dimostra che l'oggetto sia ben definito. Occorre stimare l'intero fabbisogno, considerare prestazioni collegate e motivare durata e caratteristiche. Una definizione incompleta può restringere il mercato, generare offerte non confrontabili o rendere incerto il controllo dell'esecuzione.
+
+La decisione di contrarre rende visibile il passaggio dall'analisi alla scelta. Il fascicolo deve mostrare quale risultato si persegue, quali elementi essenziali regolano il contratto e perché la procedura individuata è coerente con i presupposti. Una formula generica non sostituisce il ragionamento.
+
+Nella fase esecutiva tornano i criteri fissati all'inizio. Tempi, quantità, qualità e livelli di servizio consentono di verificare la prestazione. Il ciclo è quindi circolare: una buona verifica finale nasce da un fabbisogno preciso. In un caso d'esame conviene partire da bisogno e risultato, quindi trattare programmazione, procedura, esecuzione ed evidenze. Questo ordine evita di ridurre il contratto alla sola gara.
+
+**Controllo applicativo.** Prima di proporre una procedura, scrivi in una frase il risultato atteso e tre evidenze che ne dimostreranno il raggiungimento. Verifica poi se oggetto, durata e criteri consentono davvero quel controllo. Se la risposta è negativa, l'istruttoria deve tornare alla definizione del bisogno. Questa verifica collega programmazione, contratto ed esecuzione e impedisce di scegliere lo strumento prima di aver chiarito il problema.
+
+**Domanda di controllo:** il fascicolo consente di capire perché l'amministrazione acquista proprio quella prestazione e come ne misurerà la qualità? Se manca una risposta, bisogna integrare istruttoria o documenti prima di procedere.
 ## N-FC01-10-02 · Soggetti, scelta dell’operatore ed esecuzione
 
 ### Ruoli diversi
@@ -88,6 +102,18 @@ Se un servizio prevede risposta entro quattro ore, non basta ricevere la fattura
 
 **Domanda da commissario:** qual è la differenza tra RUP e direttore dell’esecuzione? Il RUP coordina il progetto secondo il Codice; il direttore dell’esecuzione presidia l’esecuzione nei casi previsti. Ruoli e rapporti vanno verificati per il contratto concreto.
 
+
+### Organizzazione, responsabilità e controllo
+
+Il RUP coordina il progetto, ma opera dentro una struttura. L'ufficio richiedente conosce il bisogno; le competenze tecniche definiscono e verificano la prestazione; gli uffici amministrativi curano gli atti; contabilità e controlli presidiano i rispettivi profili. Nomine e documenti devono chiarire responsabilità e passaggi. Attribuire genericamente tutto al RUP nasconde il contributo degli altri soggetti.
+
+Oggetto, requisiti e criteri devono restare proporzionati. Requisiti eccessivi possono limitare la partecipazione; requisiti insufficienti aumentano il rischio che l'operatore non sia capace di eseguire. I criteri devono consentire un confronto su elementi pertinenti e conoscibili. La motivazione collega questi elementi alle caratteristiche concrete dell'acquisto.
+
+Aggiudicazione e stipula non coincidono. Prima che il contratto produca i suoi effetti nelle forme previste, l'amministrazione completa verifiche e adempimenti richiesti. Anche il linguaggio deve essere preciso: offerente, aggiudicatario e contraente descrivono posizioni diverse nel ciclo.
+
+Durante l'esecuzione, report, verbali e attestazioni dimostrano ciò che è avvenuto. Modifiche, proroghe e varianti non sono strumenti informali per correggere una progettazione debole; richiedono i presupposti e gli atti previsti. Se un servizio presenta ritardi, la fattura non basta. L'ufficio confronta le prestazioni con il contratto, documenta lo scostamento e adotta le conseguenze applicabili. La verifica protegge il risultato pubblico e sostiene la corretta liquidazione.
+
+**Controllo applicativo.** In una traccia individua per ogni soggetto un verbo: la stazione appaltante affida, l'operatore offre ed esegue, il RUP coordina, il direttore controlla l'esecuzione. Aggiungi l'atto o l'evidenza corrispondente. Se attribuisci a un soggetto ogni verbo, probabilmente stai confondendo responsabilità distinte. Questa tecnica rende più precisa la risposta orale e aiuta a motivare il flusso nel caso pratico.
 ## N-FC01-10-03 · Ciclo digitale dei contratti e tracciabilità
 
 ### Digitalizzazione sostanziale
@@ -110,6 +136,22 @@ Un ufficio completa una procedura sulla piattaforma ma conserva fuori dal fascic
 
 **Domanda-trappola:** BDNCP e FVOE sono la stessa banca dati? No. La BDNCP presidia i dati dei contratti; il FVOE sostiene la verifica dei requisiti dell’operatore.
 
+
+### Atto, dato e piattaforma
+
+Nel ciclo digitale occorre distinguere l'atto, il dato e la piattaforma. L'atto contiene la decisione e la motivazione. Il dato rappresenta in forma strutturata un elemento della procedura. La piattaforma permette operazioni e scambi secondo regole tecniche. Trasmettere un dato non sostituisce l'atto; caricare un file non completa un'istruttoria mancante.
+
+L'interoperabilità riduce duplicazioni, ma richiede dati corretti, coerenti e aggiornati. Un errore nell'identificativo o nella fase può propagarsi verso pubblicità, controlli e rendicontazione. L'ufficio verifica le informazioni prima della trasmissione e corregge le anomalie attraverso i canali previsti. La responsabilità sul contenuto resta dell'amministrazione.
+
+Pubblicità legale e trasparenza hanno finalità diverse. La prima produce gli effetti stabiliti dalla disciplina; la seconda rende conoscibili dati e atti nei limiti applicabili. Nessuna autorizza la diffusione indiscriminata di dati personali o informazioni riservate. Il funzionario deve coordinare Codice dei contratti, trasparenza, protezione dei dati e regole tecniche.
+
+Il fascicolo digitale collega eventi di piattaforma e documenti amministrativi. Decisione, comunicazioni, verifiche, contratto, esecuzione e pubblicazioni devono essere riferibili alla stessa procedura. L'acquisizione del CIG prova l'identificazione del contratto, non la regolarità di ogni fase. In prova, la risposta completa distingue strumento e funzione e verifica anche competenza, motivazione, requisiti ed esecuzione.
+
+**Controllo applicativo.** Costruisci una riga con cinque colonne: evento, atto, dato, sistema, responsabile. Per l'aggiudicazione, per esempio, distingui il provvedimento dal dato trasmesso e dal sistema che lo riceve. Ripeti l'esercizio per verifica requisiti ed esecuzione. La tabella evidenzia subito documenti mancanti, duplicazioni e attribuzioni vaghe e impedisce di trattare la piattaforma come autore della decisione.
+
+**Domanda di controllo:** per ogni informazione trasmessa sai indicare l'atto da cui deriva, chi l'ha validata e quale fase descrive? Questo controllo riduce incoerenze tra piattaforma, fascicolo e pubblicazioni e rende il dato realmente utilizzabile nei controlli.
+
+La verifica deve essere ripetuta quando il dato cambia: una correzione non documentata può creare divergenze tra sistemi e rendere incerta la sequenza amministrativa.
 ## N-FC01-10-04 · Progetto PNRR: vincoli, dati e controlli
 
 ### Dal finanziamento al progetto
@@ -134,6 +176,24 @@ Conflitto di interessi, doppio finanziamento, spesa non ammissibile, ritardo e d
 
 **Errore tipico:** descrivere il PNRR soltanto come fonte di finanziamento. In prova bisogna collegare progetto, risultato, spesa, dati e controllo.
 
+
+### Evidenze, scostamenti e risultati
+
+Un progetto finanziato deve poter essere ricostruito attraverso atto di finanziamento, identificazione, cronoprogramma, procedure, spese, risultati e controlli. I documenti devono essere coerenti tra loro. Un pagamento formalmente corretto può non essere ammissibile se riguarda una voce estranea al progetto o non rispetta le condizioni della misura.
+
+Milestone e target vanno tradotti in attività verificabili. La milestone indica un traguardo qualitativo o procedurale; il target un risultato quantitativo secondo gli atti applicabili. Il funzionario non può ridefinirli per adattarli all'andamento reale. Il cronoprogramma collega attività, responsabilità e scadenze e permette di rilevare ritardi prima che compromettano il risultato.
+
+Quando emerge uno scostamento, l'ufficio ne documenta causa, impatto e possibile azione correttiva. Aggiorna i sistemi e informa i soggetti competenti secondo le regole del progetto. Spendere l'intero importo non prova da solo il raggiungimento del target.
+
+Ammissibilità e DNSH richiedono evidenze pertinenti alla misura. Tali evidenze nascono nella progettazione, entrano nei documenti contrattuali, proseguono nell'esecuzione e confluiscono nella rendicontazione. Cercarle soltanto alla fine può renderle irrecuperabili.
+
+Monitoraggio, rendicontazione e controllo usano spesso gli stessi dati con finalità diverse. Il monitoraggio osserva l'avanzamento; la rendicontazione dimostra attività e spese; il controllo valuta regolarità e vincoli. ReGiS sostiene il flusso informativo, ma non assume la responsabilità dell'amministrazione. In prova occorre collegare sempre spesa, risultato ed evidenza.
+
+**Controllo applicativo.** Per ogni spesa PNRR chiedi quale attività finanzia, quale risultato sostiene, quale documento ne prova l'esecuzione e quale dato aggiorna l'avanzamento. Se una risposta manca, la sola fattura non chiude la catena. Nel caso pratico indica anche chi valida l'informazione e quale controllo può rilevare l'incoerenza tra spesa, cronoprogramma e target.
+
+**Domanda di controllo:** una spesa può essere collegata contemporaneamente al contratto, al progetto, al cronoprogramma e al risultato? La rendicontazione è solida quando questi legami sono documentati e quando eventuali scostamenti risultano spiegati e gestiti.
+
+Il controllo riguarda anche la tempestività: un dato corretto ma aggiornato troppo tardi può impedire di rilevare il ritardo e adottare per tempo le misure consentite.
 ## N-FC01-10-05 · CAD e procedimento digitale ministeriale
 
 ### Documento e fascicolo
@@ -155,6 +215,26 @@ La conservazione mantiene nel tempo autenticità, integrità, affidabilità, leg
 ### Mini-esercizio
 
 Classifica le operazioni: accesso del funzionario al servizio, sottoscrizione della decisione, invio all’operatore, registrazione nel fascicolo, conservazione finale. Le categorie sono rispettivamente identità, firma, comunicazione, gestione documentale e conservazione. Un unico strumento non sostituisce tutte le funzioni.
+
+
+### Continuità e governo del documento
+
+Un procedimento digitale affidabile conserva il nesso tra autore, documento, registrazione e fascicolo. Provenienza e versioni devono essere verificabili; accessi e modifiche devono lasciare le evidenze richieste. Senza queste condizioni, la velocità del digitale moltiplica copie incoerenti e rende incerta la decisione utilizzata.
+
+Firma, protocollo e conservazione operano in momenti diversi. La firma collega il sottoscrittore al documento e produce gli effetti previsti per il tipo impiegato. Il protocollo registra il documento nel sistema dell'amministrazione. La conservazione ne mantiene nel tempo autenticità, integrità, leggibilità e reperibilità secondo le regole applicabili. Nessuna attività assorbe automaticamente le altre.
+
+Il fascicolo informatico organizza i documenti per procedimento e classificazione, non secondo la memoria personale del funzionario. Deve consentire a un collega autorizzato o a un controllore di ricostruire la pratica. Metadati, collegamenti, regole di accesso e tempi di conservazione contribuiscono alla qualità amministrativa.
+
+PEC e domicilio digitale presidiano comunicazioni; SPID e CIE l'identificazione nei servizi; la firma la sottoscrizione. Autenticarsi non significa firmare, ricevere una PEC non significa conservare e protocollare non significa pubblicare.
+
+L'interoperabilità consente di acquisire dati da basi autorizzate invece di richiederli nuovamente. Restano necessari base giuridica, minimizzazione, sicurezza e controllo degli accessi. Se un dato arriva tramite interoperabilità, l'ufficio registra provenienza e data, lo collega al fascicolo e deve poter dimostrare quale informazione ha utilizzato nella decisione.
+
+**Controllo applicativo.** Prendi un documento del fascicolo e segui il suo percorso: formazione, firma quando richiesta, protocollo, classificazione, accesso, uso nel procedimento e conservazione. Per ogni passaggio indica funzione e responsabilità. L'esercizio mostra perché invio, sottoscrizione e archiviazione non coincidono e permette di riconoscere il passaggio mancante in un quiz o in una traccia d'ufficio.
+
+**Domanda di controllo:** un terzo autorizzato può ricostruire chi ha formato, firmato, registrato, utilizzato e conservato il documento? Se un passaggio non è dimostrabile, il fascicolo digitale richiede un'integrazione o una correzione organizzativa.
+
+La ricostruzione comprende anche i permessi: il documento deve essere disponibile a chi ne ha titolo e protetto da accessi o modifiche non autorizzati.
+Questa verifica tutela la continuità amministrativa e la qualità del servizio.
 
 ## N-FC01-10-06 · Caso integrato e metodo per le prove
 
@@ -188,6 +268,31 @@ Nel quiz individua la funzione: progetto richiama CUP; contratto richiama CIG; r
 - Esecuzione, verifica e pagamento.
 - Vincoli PNRR e DNSH, se applicabili.
 - Documento, fascicolo e conservazione.
+
+
+### Griglia per il caso integrato
+
+La soluzione può essere costruita con sette domande: qual è il bisogno pubblico; quale regola governa l'acquisizione; chi esercita competenza e coordinamento; quali atti richiedono motivazione; quali identificativi, dati e piattaforme intervengono; quali vincoli finanziari devono essere provati; quali controlli chiudono il fascicolo.
+
+La griglia impedisce di concentrarsi su un solo profilo. Parlare soltanto della gara ignora progetto, esecuzione e documento. Elencare sigle senza collegarle agli atti non risolve il problema.
+
+| Materia | Domanda tipica | Azione |
+|---|---|---|
+| Contratti | Qual è la fase o il ruolo? | Collocare il fatto nel ciclo |
+| Digitale | Quale strumento svolge la funzione? | Distinguere atto, dato e piattaforma |
+| PNRR | Quale vincolo o risultato manca? | Collegare spesa, target ed evidenza |
+| CAD | Il documento è gestito correttamente? | Separare firma, protocollo e conservazione |
+
+Se un requisito è documentato soltanto da un file inviato fuori piattaforma e la scadenza PNRR è vicina, l'ufficio non ignora la criticità. Verifica le regole, acquisisce la prova con i canali consentiti, registra l'istruttoria e valuta l'impatto sul cronoprogramma. L'urgenza non trasforma un documento irregolare in prova valida.
+
+All'orale esponi il ciclo e due distinzioni decisive. Nel quiz associa sigla e funzione. Nello scritto motiva ogni passaggio con fatto, regola e conseguenza. La soluzione è completa quando consente di ricostruire decisione, flusso digitale, vincoli, esecuzione e prova documentale.
+
+**Controllo applicativo.** Prima di consegnare una risposta, sottolinea una volta il bisogno, due volte il ruolo competente e cerchia l'evidenza conclusiva. Controlla poi che CUP, CIG, BDNCP, FVOE e strumenti del CAD siano associati alla loro funzione. Se una sigla compare senza conseguenza operativa, spiegala o eliminala. Il metodo mantiene la risposta concreta e impedisce un elenco mnemonico privo di soluzione.
+
+**Domanda di controllo:** la risposta indica anche che cosa deve fare l'ufficio dopo aver individuato l'errore? Una diagnosi senza atto, responsabile, controllo ed evidenza resta incompleta. Concludi sempre con il passaggio amministrativo conseguente.
+
+Se la traccia non offre un dato necessario, dichiarane la mancanza e indica la verifica da compiere. Non inventare soglie, termini, ruoli o funzioni della piattaforma.
+La motivazione finale deve restare chiara, sintetica e verificabile.
 
 ## Errore tipico
 

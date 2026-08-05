@@ -83,7 +83,7 @@ Audit iniziale del testo reale dei quindici file numerati del modulo. Gli stati 
 | M-FC01/Avvocatura | Bando | Leggere profilo, attività e prova in un bando dell'Avvocatura | alta profilo | [[sources/m-fc01-dossier-redazionale-ministeri-pcm-avvocatura]]; [[sources/avvocatura-stato-organizzazione-funzioni]] | cap. 7, Come leggere un bando dell'Avvocatura | cinque livelli di lettura e rapporto con area, requisiti, attività e prove spiegati | classificazione della procedura e delle priorità | bando decoder, quiz e orale | griglia compilabile e controllo finale | completo | verificare bando, allegati e CCNL applicabile | - |
 | M-FC01/Avvocatura | Prove | Usare ruolo, funzioni e flussi in quiz, orale e caso | alta profilo | [[sources/rd-30-ottobre-1933-n-1611-avvocatura-stato]]; [[sources/avvocatura-stato-organizzazione-funzioni]] | cap. 7, Come può essere chiesto in prova | metodo differenziato per quiz, orale e caso spiegato | mappa funzione-ufficio-documento-rischio | quiz, orale e caso pratico | domanda, trappola, errore, esercizio e checklist | completo | adattare alle prove del bando | - |
 | M-FC01/contabile | Contabilità | Ciclo di bilancio dello Stato e applicazione ministeriale | alta profilo | [[sources/legge-31-dicembre-2009-n-196-contabilita-finanza-pubblica]]; [[sources/principi-costituzionali-finanza-pubblica-art-81-97-119]] | cap. 9 | teoria articolata in cinque nuclei | casi, esempi e schema decisionale | quiz, caso e orale | sei quiz commentati e due casi | completo | audit automatico sulle fonti vigenti | - |
-| M-FC01/tutti | Operatività | Contratti pubblici, PNRR e amministrazione digitale | alta se bando | [[sources/fonti-trasversali-m-fc01-piao-anac-agid]]; [[sources/d-lgs-31-marzo-2023-n-36-contratti-pubblici]]; [[sources/d-lgs-7-marzo-2005-n-82-amministrazione-digitale]] | cap. 10, `Da scrivere` | solo obiettivo e scaletta | nessuna applicazione sviluppata | caso integrato previsto | verifica non sviluppata | mancante | fonti mobili e PNRR | - |
+| M-FC01/tutti | Operatività | Contratti pubblici, PNRR e amministrazione digitale | alta se bando | [[sources/fonti-trasversali-m-fc01-piao-anac-agid]]; [[sources/d-lgs-31-marzo-2023-n-36-contratti-pubblici]]; [[sources/d-lgs-7-marzo-2005-n-82-amministrazione-digitale]] | cap. 10 | teoria sviluppata in sei nuclei | casi, tabelle e controlli applicativi | quiz, caso e orale | otto quiz e caso ragionato | completo | fonti mobili e PNRR da auditare | - |
 | M-FC01/tutti | Casi | Risolvere casi pratici ministeriali | alta | [[sources/m-fc01-dossier-redazionale-ministeri-pcm-avvocatura]] | cap. 11, `Da scrivere` | metodo del caso non sviluppato | casi non sviluppati | scritto/teorico-pratico/orale | griglia non sviluppata | mancante | adattare al bando | - |
 | M-FC01/tutti | Situazionali | Codice di comportamento, condotta e decisione | alta | [[sources/fonti-trasversali-m-fc01-piao-anac-agid]] | cap. 12, `Da scrivere` | criteri non sviluppati | scenari non sviluppati | quesito situazionale | verifica non sviluppata | mancante | codice e disciplina vigenti | - |
 | M-FC01/tutti | Piano | Matrice materie e piano 30/60/90 | alta | [[books/il-metodo-bando/struttura-madre]]; [[sources/m-fc01-dossier-redazionale-ministeri-pcm-avvocatura]] | cap. 13, `Da scrivere` | logica del piano non sviluppata | calendari non sviluppati | piano di studio | verifica non sviluppata | mancante | adattare al bando e al tempo reale | - |
@@ -144,3 +144,35 @@ Audit iniziale del testo reale dei quindici file numerati del modulo. Gli stati 
 | N-FC01-09-03 | mancante | Sviluppate fasi, residui ed esempi diagnostici | completo | § N-FC01-09-03; Quiz 2-5 |
 | N-FC01-09-04 | mancante | Sviluppati fascicolo, rendiconto, controlli e responsabilità | completo | § N-FC01-09-04; Quiz 6 |
 | N-FC01-09-05 | mancante | Integrati glossario, schema, casi, quiz e checklist | completo | § N-FC01-09-05; Verifica finale |
+## Copertura atomica formato 2 — capitolo 10
+
+| Nucleo ID | Famiglia/profilo | Materia | Concetto/sotto-concetti | Frequenza/peso | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa | Destinazione rinvio |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| N-FC01-10-01 | M-FC01/tutti | Contratti | Fabbisogno, programmazione e ciclo | alta | [[sources/ciclo-contratti-pubblici-rup-stazione-appaltante-operatore-economico]] | cap. 10, nucleo 01 | Definizione, principi, fasi e risultato | Acquisto e controllo fabbisogno | Quiz; caso; orale | Q:1 C:0 E:1 — Quiz 1 | completo | Codice vigente | - |
+| N-FC01-10-02 | M-FC01/tutti | Soggetti | RUP, operatore, scelta ed esecuzione | alta | [[sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024]] | cap. 10, nucleo 02 | Ruoli, requisiti, aggiudicazione, stipula ed esecuzione | Ritardi del servizio | Quiz; orale | Q:1 C:0 E:1 — Quiz 2 | completo | Ruoli vigenti | - |
+| N-FC01-10-03 | M-FC01/tutti | Digitale contratti | BDNCP, PCP, FVOE, CIG e trasparenza | alta | [[sources/digitalizzazione-contratti-pubblici-anac-bdncp-fvoe-pcp]] | cap. 10, nucleo 03 | Atto, dato, piattaforma e tracciabilità | Fascicolo incompleto | Quiz; caso | Q:2 C:0 E:1 — Quiz 3-4 | completo | Ecosistema ANAC | - |
+| N-FC01-10-04 | M-FC01/tutti | PNRR | Progetto, milestone, target, DNSH e controlli | alta se bando | [[sources/pagamenti-tracciabilita-contratti-pnrr-rendicontazione]] | cap. 10, nucleo 04 | Vincoli, dati, ammissibilità, monitoraggio e rendicontazione | Spesa senza target | Quiz; caso; orale | Q:2 C:0 E:1 — Quiz 5 e 8 | completo | Governance PNRR | - |
+| N-FC01-10-05 | M-FC01/tutti | CAD | Documento, firma, fascicolo e conservazione | alta | [[sources/pa-digitale-cad-identita-documenti-servizi-dati]] | cap. 10, nucleo 05 | Funzioni e distinzioni del procedimento digitale | Percorso documentale | Quiz; esercizio | Q:1 C:0 E:1 — Quiz 6 | completo | CAD e AgID | - |
+| N-FC01-10-06 | M-FC01/tutti | Prove | Caso integrato contratto-PNRR-CAD | alta | [[books/il-metodo-bando/struttura-madre]] | cap. 10, nucleo 06 | Metodo, griglia, distinzioni e checklist | Servizio digitale finanziato | Quiz; caso; orale | Q:8 C:2 E:1 — Verifica finale | completo | Adattare al bando | - |
+
+## Checklist dimensionale — capitolo 10
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Errore tipico | Verifica | Fonti |
+|---|---|---|---|---|---|---|---|---|---|---|
+| N-FC01-10-01 | ✓ contratto e ciclo | ✓ soddisfare fabbisogno | ✓ Codice | ✓ nove fasi | ✓ risultato/procedura | ✓ qualità esecuzione | ✓ assistenza applicativa | ✓ gara come fine | ✓ Quiz 1 | ✓ frontmatter e fonte leggibile |
+| N-FC01-10-02 | ✓ soggetti | ✓ coordinare e controllare | ✓ organizzazione ministeriale | ✓ ruoli e atti | ✓ RUP/DEC/operatore | ✓ responsabilità | ✓ ritardi | ✓ tutto al RUP | ✓ Quiz 2 | ✓ Codice nel corpo |
+| N-FC01-10-03 | ✓ strumenti | ✓ tracciare e verificare | ✓ ciclo digitale | ✓ BDNCP-PCP-FVOE-CIG | ✓ atto/dato/piattaforma | ✓ qualità dati | ✓ fascicolo | ✓ piattaforma sana atti | ✓ Quiz 3-4 | ✓ ANAC nel corpo |
+| N-FC01-10-04 | ✓ progetto PNRR | ✓ raggiungere risultati | ✓ governance progetto | ✓ CUP-target-DNSH-dati | ✓ monitoraggio/rendicontazione | ✓ ammissibilità | ✓ spesa senza target | ✓ solo finanziamento | ✓ Quiz 5 e 8 | ✓ fonti nel frontmatter |
+| N-FC01-10-05 | ✓ documento digitale | ✓ validità e continuità | ✓ CAD | ✓ firma-protocollo-fascicolo | ✓ identificare/firmare/conservare | ✓ reperibilità | ✓ certificato interoperabile | ✓ scansione=documento | ✓ Quiz 6 | ✓ CAD leggibile |
+| N-FC01-10-06 | ✓ griglia di soluzione | ✓ applicare in prova | ✓ Metodo BANDO | ✓ sette domande | ✓ sigle e funzioni | ✓ risposta motivata | ✓ due casi | ✓ elenco di sigle | ✓ otto quiz e caso | ✓ frontmatter |
+
+## Delta di copertura — capitolo 10
+
+| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
+|---|---|---|---|---|
+| N-FC01-10-01 | mancante | Sviluppato ciclo e fabbisogno | completo | nucleo 01 e Quiz 1 |
+| N-FC01-10-02 | mancante | Sviluppati ruoli ed esecuzione | completo | nucleo 02 e Quiz 2 |
+| N-FC01-10-03 | mancante | Distinti strumenti digitali | completo | nucleo 03 e Quiz 3-4 |
+| N-FC01-10-04 | mancante | Sviluppato flusso PNRR | completo | nucleo 04 e Quiz 5/8 |
+| N-FC01-10-05 | mancante | Sviluppato procedimento CAD | completo | nucleo 05 e Quiz 6 |
+| N-FC01-10-06 | mancante | Integrati casi e metodo | completo | nucleo 06 e verifica |
