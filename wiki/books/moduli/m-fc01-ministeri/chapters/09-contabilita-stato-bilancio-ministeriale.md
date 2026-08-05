@@ -65,6 +65,15 @@ Anche l'articolo 119 della Costituzione, fondamentale per l'autonomia finanziari
 
 La disponibilità materiale di denaro non basta a consentire una spesa. La cassa non sostituisce stanziamento, competenza dell'organo, titolo giuridico e procedimento. Né una finalità pubblica rende utilizzabili somme destinate ad altro: l'autorizzazione finanziaria conserva oggetto e limiti.
 
+
+### Principio, vincolo e conseguenza operativa
+
+Per leggere correttamente un principio contabile conviene usare la sequenza **principio → vincolo → conseguenza**. L'equilibrio impone che le decisioni siano valutate dentro il quadro complessivo delle entrate, delle spese e dei saldi; la copertura richiede di individuare mezzi idonei quando una legge produce nuovi o maggiori oneri; il buon andamento domanda che le risorse siano impiegate in modo coerente con obiettivi, responsabilità e risultati. Nessuno dei tre concetti coincide con il semplice divieto di spendere.
+
+L'equilibrio e la copertura vanno distinti. La copertura guarda specificamente agli effetti finanziari di una decisione onerosa e ai mezzi indicati per sostenerla; l'equilibrio riguarda la tenuta complessiva del bilancio nel quadro costituzionale. Una misura può presentare formalmente una fonte di copertura e richiedere comunque una valutazione dei suoi effetti sugli equilibri. Per il funzionario ministeriale la conseguenza è pratica: prima di istruire un provvedimento con effetti finanziari deve rendere leggibili presupposti, quantificazione, imputazione e compatibilità con gli stanziamenti.
+
+Anche l'annualità non va intesa come isolamento. Il bilancio opera per esercizi, ma molte decisioni producono effetti su più anni. Per questo programmazione e previsioni pluriennali impediscono di giudicare sostenibile una scelta osservando soltanto il primo pagamento. In un quesito, la risposta migliore collega sempre la norma finanziaria al comportamento richiesto: quantificare, documentare, imputare e rendere controllabile la decisione. Questa lettura mostra anche perché la contabilità accompagna l'istruttoria e non interviene soltanto al momento conclusivo del pagamento.
+
 ## N-FC01-09-02 · Bilancio dello Stato e ciclo della programmazione
 
 ### Previsione e rendiconto
@@ -90,6 +99,17 @@ Le previsioni di **competenza** riguardano obbligazioni accertabili o assumibili
 Se un ministero assume validamente un'obbligazione nell'anno X e paga nell'anno X+1, l'operazione interessa la competenza secondo le regole d'imputazione e la cassa quando avviene il pagamento. Il bilancio non autorizza genericamente a “spendere il totale”: stanziamenti e articolazioni hanno destinazioni e limiti.
 
 In un caso pratico si verificano finalità, capitolo pertinente, disponibilità di competenza, disponibilità di cassa per il pagamento, competenza dell'organo e procedura. Il bilancio è politico perché seleziona priorità ed è autorizzatorio perché delimita la gestione.
+
+
+### La linea del tempo dei documenti
+
+Una linea del tempo aiuta a non confondere funzione e momento. Prima della gestione si definiscono il quadro programmatico e le previsioni; l'approvazione parlamentare attribuisce al bilancio la forza autorizzatoria prevista dall'ordinamento; durante l'esercizio si registrano gli atti e si adottano, quando necessarie, variazioni consentite; dopo la chiusura il rendiconto espone i risultati. Ogni documento risponde quindi a una domanda diversa: dove vuole andare la finanza pubblica, quali risorse sono autorizzate, come si sta gestendo, che cosa è realmente accaduto.
+
+La dimensione annuale permette l'autorizzazione e il controllo dell'esercizio, mentre quella pluriennale mostra gli effetti che superano l'anno. Un contratto pluriennale non può essere valutato guardando soltanto la prima rata. Occorre considerare l'intera obbligazione, la corretta imputazione agli esercizi e i limiti stabiliti dalla disciplina applicabile. Questo evita che una spesa appaia sostenibile solo perché il suo esborso iniziale è ridotto.
+
+Missioni, programmi e capitoli hanno inoltre una funzione di responsabilizzazione. Se il programma associa risorse e attività a un risultato, il rendiconto consente di osservare non soltanto quanto è stato pagato, ma anche come la gestione si è collocata rispetto all'autorizzazione. Il candidato deve evitare due estremi: ritenere che le classificazioni siano etichette prive di effetti oppure credere che da sole descrivano il singolo procedimento.
+
+**Esempio d'esame.** Se una traccia riferisce che esistono risorse nella stessa missione ma in un diverso programma o capitolo, non si conclude subito che siano spendibili. Si verifica la pertinenza della destinazione e, se occorre, la possibilità di una variazione adottata dall'organo competente. Solo dopo si procede con l'atto gestionale.
 
 ## N-FC01-09-03 · Entrate, spese, competenza, cassa e residui
 
@@ -117,6 +137,17 @@ Schema mentale: diritto sorto ma non incassato, residuo attivo; obbligazione ass
 
 Se al 31 dicembre una prestazione di 15.000 euro è coperta da impegno valido ma sarà pagata a gennaio, rileva nella competenza dell'esercizio chiuso e, ricorrendone le condizioni, genera un residuo passivo; il pagamento inciderà sulla cassa successiva. Se viene meno il titolo, la posta non può essere mantenuta solo per migliorare il risultato.
 
+
+### Come diagnosticare la fase in un caso pratico
+
+Per individuare la fase non basta cercare se “ci sono soldi”. Bisogna chiedere quale fatto giuridico o materiale si è verificato. Nell'entrata: il credito è stato determinato? il debitore ha pagato? la somma è affluita alla tesoreria? Nella spesa: esiste un'obbligazione perfezionata? la prestazione è stata verificata? è stato emesso l'ordine? è avvenuta l'uscita monetaria? Le risposte collocano l'operazione e impediscono di anticipare passaggi mancanti.
+
+Consideriamo una fornitura consegnata solo per metà. L'impegno può riguardare l'obbligazione validamente assunta, ma la liquidazione deve riflettere ciò che, secondo contratto e verifiche, è effettivamente dovuto. Il documento del fornitore non obbliga l'ufficio a liquidare senza riscontro. Se invece la prestazione è completa e il debito è esigibile, il ritardo del pagamento non cancella l'obbligazione: produce la corretta rappresentazione tra competenza, cassa e, quando ricorrono i presupposti, residui.
+
+I residui devono essere riaccertati e sorvegliati perché una posta risalente può non corrispondere più a un credito o debito effettivo. Mantenere automaticamente ogni residuo altererebbe la leggibilità del rendiconto; eliminarlo senza verifica potrebbe invece cancellare un rapporto ancora valido. La conseguenza didattica è che “residuo” descrive una posizione da giustificare, non una riserva generica.
+
+**Domanda da commissario.** Qual è il rapporto tra competenza e residui? La competenza registra l'obbligazione nell'esercizio pertinente; se alla chiusura l'entrata accertata non è riscossa o la spesa impegnata non è pagata, la posizione può essere rappresentata come residuo attivo o passivo, purché il titolo permanga. La cassa rileverà il successivo incasso o pagamento.
+
 ## N-FC01-09-04 · Gestione ministeriale, rendiconto e controlli
 
 ### Dal programma all'atto
@@ -142,6 +173,17 @@ I controlli possono riguardare regolarità amministrativa e contabile, risultati
 L'irregolarità non produce automaticamente responsabilità personale. Bisogna distinguere vizio dell'atto e presupposti delle varie responsabilità, verificando condotta, elemento soggettivo, danno e nesso causale. Analogamente, un controllo formale positivo non esclude ogni problema sostanziale.
 
 Trappola da quiz: “se il capitolo ha disponibilità, il dirigente può sempre pagare”. È falso: servono obbligazione valida, imputazione, liquidazione, titolo, cassa e controlli richiesti.
+
+
+### Il fascicolo come prova della regolarità
+
+Nel lavoro ministeriale la qualità contabile dipende anche dalla qualità dell'istruttoria. Un fascicolo dovrebbe contenere il presupposto normativo, l'atto che individua obiettivo e risorsa, la verifica della competenza, il titolo dell'obbligazione, le registrazioni, la documentazione della prestazione e gli atti che conducono al pagamento. La mancanza di una di queste evidenze non è sempre lo stesso vizio, ma rende più difficile dimostrare la correttezza della sequenza.
+
+Il controllo di regolarità e il controllo sui risultati rispondono a domande diverse. Il primo verifica, secondo il proprio perimetro, conformità dell'atto, imputazione e documentazione; il secondo osserva se risorse e attività hanno prodotto gli esiti attesi. Una spesa può essere formalmente regolare ma poco efficace; un risultato utile non sana una procedura illegittima. Il rendiconto e le informazioni gestionali consentono letture complementari, non intercambiabili.
+
+Esempio: un ufficio utilizza integralmente lo stanziamento per ridurre un arretrato. La regolarità richiede atti, titolo, corretta contabilizzazione e controlli; la valutazione del risultato domanda quanti procedimenti siano stati chiusi, con quale qualità e in quali tempi. Dire soltanto “è stato speso il cento per cento” non dimostra né efficacia né valore pubblico.
+
+Quando emerge un rilievo, il funzionario deve ricostruire il fatto e la fase interessata, non cercare subito un responsabile. Si distinguono errore correggibile, illegittimità dell'atto, danno eventuale e presupposti della responsabilità. Questa sequenza evita l'automatismo secondo cui ogni irregolarità contabile sarebbe danno erariale e rende la risposta più precisa tanto all'orale quanto nel caso teorico-pratico. Il controllo diventa così uno strumento di conoscenza e correzione, oltre che di verifica, apprendimento organizzativo e prevenzione di nuove irregolarità.
 
 ## N-FC01-09-05 · Decisione di spesa e uso nelle prove
 
@@ -170,6 +212,24 @@ Nel quiz si cerca la parola-fase: “sorge il credito” richiama l'accertamento
 All'orale usare: definizione, funzione, sequenza, esempio e distinzione. Nella prova pratica applicare la checklist **competenza dell'organo → finalità e stanziamento → titolo giuridico → fase contabile → controllo → evidenza**. Così non si salta dal bisogno al pagamento.
 
 Errore frequente è citare norme senza applicarle. La qualità nasce dal nesso fatto-regola: se la prestazione è eseguita, si verificano documenti e somma da liquidare; non basta dire genericamente che “si applica la contabilità pubblica”.
+
+
+### Glossario operativo e schema di decisione
+
+- **Stanziamento:** limite e destinazione finanziaria entro cui la gestione può operare.
+- **Accertamento:** individuazione contabile dell'entrata e dei suoi elementi essenziali.
+- **Impegno:** registrazione dell'obbligazione di spesa perfezionata secondo le regole.
+- **Liquidazione:** verifica del titolo e della prestazione, con determinazione della somma dovuta.
+- **Residuo:** posizione di entrata o spesa non ancora tradotta nel relativo flusso di cassa alla chiusura.
+- **Rendiconto:** rappresentazione consuntiva dei risultati della gestione.
+
+Davanti a una decisione di spesa, lo schema completo è: **bisogno → finalità autorizzata → risorsa pertinente → competenza dell'organo → titolo giuridico → impegno → verifica della prestazione → liquidazione → ordinazione → pagamento → rendicontazione e controllo**. Il bisogno apre l'istruttoria, ma non autorizza da solo la spesa. Ogni freccia presuppone l'esito positivo del controllo precedente.
+
+**Mini-esercizio.** Un ufficio riceve una fattura corretta per una prestazione prevista dal contratto, ma non trova l'atto d'impegno nel fascicolo. Indica la condotta. Non deve passare direttamente alla liquidazione: ricostruisce il titolo, verifica se e come l'obbligazione sia stata validamente assunta e contabilizzata, coinvolge le strutture competenti e documenta l'esito. La fattura prova la richiesta del creditore, non sostituisce l'intera sequenza amministrativo-contabile.
+
+**Domanda orale.** “Mi descriva il ciclo della spesa ministeriale.” Una risposta solida definisce prima la funzione autorizzatoria del bilancio; presenta poi impegno, liquidazione, ordinazione e pagamento; distingue competenza e cassa; chiude con un esempio e con il ruolo delle evidenze e dei controlli. L'errore da evitare è recitare quattro parole senza spiegare il fatto che consente il passaggio alla fase successiva.
+
+**Checklist finale:** amministrazione corretta; fonte vigente; finalità; stanziamento; competenza; obbligazione; imputazione; prestazione; liquidazione; titolo di pagamento; cassa; tracciabilità. Se uno dei campi manca, la risposta deve segnalarlo anziché inventarlo. La stessa checklist permette di motivare in modo ordinato ogni passaggio e di segnalare con chiarezza l'eventuale dato non disponibile nella traccia.
 
 ## Errore tipico
 
