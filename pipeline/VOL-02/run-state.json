@@ -3,142 +3,8 @@
   "specPath": "books/vol-02-enti-locali-polizia-locale/planning/00-scheda-pipeline.md",
   "specHash": "sha256:b9ec2abf7ad63aaa5271f5f2d561817a092ec16c24727d57ebf82ef84b0a5a6b",
   "createdAt": "2026-07-29T22:02:16.845Z",
-  "updatedAt": "2026-08-05T18:23:36.746Z",
+  "updatedAt": "2026-08-06T09:03:11.253Z",
   "steps": [
-    {
-      "key": "08:moduli/m-fl01-comuni-unioni/chapters/00-piano-editoriale.md",
-      "id": "08",
-      "phase": "C",
-      "scope": "chapter",
-      "target": "moduli/m-fl01-comuni-unioni/chapters/00-piano-editoriale.md",
-      "status": "done",
-      "attempts": 1,
-      "evidence": [],
-      "owner": "info",
-      "agent": "unknown",
-      "provider": "codex",
-      "startedAt": "2026-07-29T22:02:39.069Z",
-      "gate": {
-        "passed": true,
-        "blockers": [],
-        "warnings": [
-          {
-            "code": "accepted:gate-not-implemented",
-            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
-            "location": "moduli/m-fl01-comuni-unioni/chapters/00-piano-editoriale.md"
-          },
-          {
-            "code": "manual-acceptance",
-            "message": "Chiusura manuale di info: Verifica manuale eseguita sul target e sulla scheda del modulo. Report evidenza: wiki/reviews/pipeline/VOL-02/08-piano-m-fl01-cap00.md. Il target è una scheda di piano, non prosa didattica; il gate chapter-plan CLI non è implementato e viene accettato manualmente senza dichiarare pubblicabilità."
-          }
-        ],
-        "notImplemented": [
-          "chapter-plan"
-        ]
-      },
-      "finishedAt": "2026-07-29T22:18:26.974Z"
-    },
-    {
-      "key": "09:moduli/m-fl01-comuni-unioni/chapters/00-piano-editoriale.md",
-      "id": "09",
-      "phase": "C",
-      "scope": "chapter",
-      "target": "moduli/m-fl01-comuni-unioni/chapters/00-piano-editoriale.md",
-      "status": "done",
-      "attempts": 1,
-      "evidence": [],
-      "owner": "info",
-      "agent": "unknown",
-      "provider": "codex",
-      "startedAt": "2026-07-29T22:18:53.100Z",
-      "gate": {
-        "passed": true,
-        "blockers": [],
-        "warnings": []
-      },
-      "finishedAt": "2026-07-29T22:22:00.532Z"
-    },
-    {
-      "key": "10:moduli/m-fl01-comuni-unioni/chapters/00-piano-editoriale.md",
-      "id": "10",
-      "phase": "C",
-      "scope": "chapter",
-      "target": "moduli/m-fl01-comuni-unioni/chapters/00-piano-editoriale.md",
-      "status": "done",
-      "attempts": 3,
-      "evidence": [],
-      "owner": "info",
-      "agent": "unknown",
-      "provider": "codex",
-      "startedAt": "2026-07-29T22:25:37.508Z",
-      "gate": {
-        "passed": true,
-        "blockers": [],
-        "warnings": []
-      },
-      "finishedAt": "2026-07-29T22:25:43.900Z"
-    },
-    {
-      "key": "11:moduli/m-fl01-comuni-unioni/chapters/00-piano-editoriale.md",
-      "id": "11",
-      "phase": "C",
-      "scope": "chapter",
-      "target": "moduli/m-fl01-comuni-unioni/chapters/00-piano-editoriale.md",
-      "status": "done",
-      "attempts": 1,
-      "evidence": [],
-      "owner": "info",
-      "agent": "unknown",
-      "provider": "codex",
-      "startedAt": "2026-07-29T22:25:57.164Z",
-      "gate": {
-        "passed": true,
-        "blockers": [],
-        "warnings": []
-      },
-      "finishedAt": "2026-07-29T22:26:09.087Z"
-    },
-    {
-      "key": "12:moduli/m-fl01-comuni-unioni/chapters/00-piano-editoriale.md",
-      "id": "12",
-      "phase": "C",
-      "scope": "chapter",
-      "target": "moduli/m-fl01-comuni-unioni/chapters/00-piano-editoriale.md",
-      "status": "done",
-      "attempts": 2,
-      "evidence": [],
-      "owner": "info",
-      "agent": "unknown",
-      "provider": "codex",
-      "startedAt": "2026-07-29T22:34:17.152Z",
-      "gate": {
-        "passed": true,
-        "blockers": [],
-        "warnings": [
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto E12-01: stato \"da verificare\".",
-            "location": "wiki/reviews/pipeline/VOL-02/12-moduli-m-fl01-comuni-unioni-chapters-00-piano-editoriale-md.md"
-          },
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto E12-02: stato \"aperto\".",
-            "location": "wiki/reviews/pipeline/VOL-02/12-moduli-m-fl01-comuni-unioni-chapters-00-piano-editoriale-md.md"
-          },
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto E12-03: stato \"da verificare\".",
-            "location": "wiki/reviews/pipeline/VOL-02/12-moduli-m-fl01-comuni-unioni-chapters-00-piano-editoriale-md.md"
-          },
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto E12-04: stato \"proposto\".",
-            "location": "wiki/reviews/pipeline/VOL-02/12-moduli-m-fl01-comuni-unioni-chapters-00-piano-editoriale-md.md"
-          }
-        ]
-      },
-      "finishedAt": "2026-07-29T22:34:49.881Z"
-    },
     {
       "key": "08:moduli/m-fl01-comuni-unioni/chapters/01-tuel-operativo-autonomia-organi-funzioni-comune.md",
       "id": "08",
@@ -1862,64 +1728,37 @@
       "finishedAt": "2026-08-05T18:23:36.746Z"
     },
     {
-      "key": "08:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/00-piano-editoriale.md",
-      "id": "08",
-      "phase": "C",
-      "scope": "chapter",
-      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/00-piano-editoriale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
-    },
-    {
-      "key": "09:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/00-piano-editoriale.md",
-      "id": "09",
-      "phase": "C",
-      "scope": "chapter",
-      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/00-piano-editoriale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
-    },
-    {
-      "key": "10:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/00-piano-editoriale.md",
-      "id": "10",
-      "phase": "C",
-      "scope": "chapter",
-      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/00-piano-editoriale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
-    },
-    {
-      "key": "11:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/00-piano-editoriale.md",
-      "id": "11",
-      "phase": "C",
-      "scope": "chapter",
-      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/00-piano-editoriale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
-    },
-    {
-      "key": "12:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/00-piano-editoriale.md",
-      "id": "12",
-      "phase": "C",
-      "scope": "chapter",
-      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/00-piano-editoriale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
-    },
-    {
       "key": "08:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/01-il-sistema-territoriale-multilivello.md",
       "id": "08",
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/01-il-sistema-territoriale-multilivello.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T18:31:14.252Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/01-il-sistema-territoriale-multilivello.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Verifica manuale eseguita: il report wiki/reviews/pipeline/VOL-02/08-piano-m-fl02-cap01.md contiene sette Nucleo ID stabili, stati iniziali e interventi, sezioni da conservare, duplicazioni da evitare, casi/quiz/esercizi, fonti, architettura H1/H2/H3, budget formato 2 e audit specialistici. Verificato inoltre che lo step 08 non ha modificato il capitolo. Il gate chapter-plan non è automatizzato."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-05T18:33:29.324Z"
     },
     {
       "key": "09:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/01-il-sistema-territoriale-multilivello.md",
@@ -1927,9 +1766,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/01-il-sistema-territoriale-multilivello.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T18:33:39.528Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-06T08:45:16.097Z"
     },
     {
       "key": "10:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/01-il-sistema-territoriale-multilivello.md",
@@ -1937,9 +1786,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/01-il-sistema-territoriale-multilivello.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-06T08:45:26.319Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-06T08:52:04.102Z"
     },
     {
       "key": "11:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/01-il-sistema-territoriale-multilivello.md",
@@ -1947,9 +1806,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/01-il-sistema-territoriale-multilivello.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-06T08:55:45.291Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-06T09:00:40.343Z"
     },
     {
       "key": "12:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/01-il-sistema-territoriale-multilivello.md",
@@ -1957,9 +1826,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/01-il-sistema-territoriale-multilivello.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-06T09:01:03.100Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-06T09:03:11.253Z"
     },
     {
       "key": "08:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/02-statuti-organi-organizzazione-regionale.md",
@@ -2547,56 +2426,6 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
-    },
-    {
-      "key": "08:moduli/m-fl04-polizia-locale/chapters/00-piano-editoriale.md",
-      "id": "08",
-      "phase": "C",
-      "scope": "chapter",
-      "target": "moduli/m-fl04-polizia-locale/chapters/00-piano-editoriale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
-    },
-    {
-      "key": "09:moduli/m-fl04-polizia-locale/chapters/00-piano-editoriale.md",
-      "id": "09",
-      "phase": "C",
-      "scope": "chapter",
-      "target": "moduli/m-fl04-polizia-locale/chapters/00-piano-editoriale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
-    },
-    {
-      "key": "10:moduli/m-fl04-polizia-locale/chapters/00-piano-editoriale.md",
-      "id": "10",
-      "phase": "C",
-      "scope": "chapter",
-      "target": "moduli/m-fl04-polizia-locale/chapters/00-piano-editoriale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
-    },
-    {
-      "key": "11:moduli/m-fl04-polizia-locale/chapters/00-piano-editoriale.md",
-      "id": "11",
-      "phase": "C",
-      "scope": "chapter",
-      "target": "moduli/m-fl04-polizia-locale/chapters/00-piano-editoriale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
-    },
-    {
-      "key": "12:moduli/m-fl04-polizia-locale/chapters/00-piano-editoriale.md",
-      "id": "12",
-      "phase": "C",
-      "scope": "chapter",
-      "target": "moduli/m-fl04-polizia-locale/chapters/00-piano-editoriale.md",
       "status": "pending",
       "attempts": 0,
       "evidence": []
@@ -3392,56 +3221,6 @@
       "evidence": []
     },
     {
-      "key": "08:moduli/m-fl03-camere-commercio/chapters/00-piano-editoriale.md",
-      "id": "08",
-      "phase": "C",
-      "scope": "chapter",
-      "target": "moduli/m-fl03-camere-commercio/chapters/00-piano-editoriale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
-    },
-    {
-      "key": "09:moduli/m-fl03-camere-commercio/chapters/00-piano-editoriale.md",
-      "id": "09",
-      "phase": "C",
-      "scope": "chapter",
-      "target": "moduli/m-fl03-camere-commercio/chapters/00-piano-editoriale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
-    },
-    {
-      "key": "10:moduli/m-fl03-camere-commercio/chapters/00-piano-editoriale.md",
-      "id": "10",
-      "phase": "C",
-      "scope": "chapter",
-      "target": "moduli/m-fl03-camere-commercio/chapters/00-piano-editoriale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
-    },
-    {
-      "key": "11:moduli/m-fl03-camere-commercio/chapters/00-piano-editoriale.md",
-      "id": "11",
-      "phase": "C",
-      "scope": "chapter",
-      "target": "moduli/m-fl03-camere-commercio/chapters/00-piano-editoriale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
-    },
-    {
-      "key": "12:moduli/m-fl03-camere-commercio/chapters/00-piano-editoriale.md",
-      "id": "12",
-      "phase": "C",
-      "scope": "chapter",
-      "target": "moduli/m-fl03-camere-commercio/chapters/00-piano-editoriale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
-    },
-    {
       "key": "08:moduli/m-fl03-camere-commercio/chapters/01-camere-commercio-sistema-camerale-unioncamere.md",
       "id": "08",
       "phase": "C",
@@ -3754,6 +3533,16 @@
     {
       "key": "23:VOL-02",
       "id": "23",
+      "phase": "F",
+      "scope": "volume",
+      "target": "VOL-02",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "24:VOL-02",
+      "id": "24",
       "phase": "F",
       "scope": "volume",
       "target": "VOL-02",
