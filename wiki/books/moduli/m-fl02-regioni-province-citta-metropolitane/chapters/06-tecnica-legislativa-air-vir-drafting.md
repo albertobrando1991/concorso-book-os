@@ -9,7 +9,7 @@ entities: ["Regione", "Consiglio regionale", "Giunta regionale", "Presidente del
 source_refs: ["sources/costituzione-repubblica-italiana-testo-vigente.md", "sources/air-vir-qualita-regolazione-dpcm-169-2017.md", "sources/regole-suggerimenti-redazione-testi-normativi-regioni-2024.md", "sources/principi-costituzionali-finanza-pubblica-art-81-97-119.md", "sources/bandi-inpa-vol-02-campione-2026.md"]
 book_refs: ["m-fl02-regioni-province-citta-metropolitane", "vol-02-enti-locali-polizia-locale", "il-metodo-bando"]
 confidence: 0.84
-updated_at: 2026-07-20T12:05:00+02:00
+updated_at: 2026-08-06
 created_at: 2026-07-17T17:30:00+02:00
 review_required: true
 canonical: true
@@ -17,7 +17,9 @@ tags: ["book-chapter", "module-code-m-fl02", "professional-draft", "review-requi
 book_id: m-fl02-regioni-province-citta-metropolitane
 outline_section: 6
 volume_chapter: 23
-draft_stage: professional-draft
+draft_stage: professional-draft-complete
+format_version: 2
+dati_operativi: []
 module_code: M-FL02
 module_family: funzioni-locali
 companion_to: il-metodo-bando
@@ -26,34 +28,7 @@ last_compiled_from: ["wiki/books/moduli/m-fl02-regioni-province-citta-metropolit
 
 # Tecnica legislativa, AIR/VIR e drafting
 
-## Specifica struttura madre
-
-### Obiettivo
-Fornire al candidato una griglia professionale per affrontare profili legislativi regionali: competenza, istruttoria normativa, scelta dello strumento, struttura dell'atto, qualità della regolazione, analisi ex ante, verifica ex post, consultazione e drafting.
-
-### Nuclei
-- Atto normativo regionale: competenza, fonte, organo, oggetto e limiti.
-- Qualità della regolazione: chiarezza, coerenza, coordinamento, attuabilita e manutenzione normativa.
-- AIR come analisi ex ante del problema pubblico, delle opzioni e degli impatti.
-- VIR come verifica ex post degli effetti, delle criticità applicative e delle possibili revisioni.
-- Consultazione, analisi tecnico-normativa, clausole valutative, monitoraggio e relazioni informative.
-- Drafting: titolo, articoli, commi, definizioni, rinvii, novelle, abrogazioni, disposizioni transitorie e copertura.
-
-### Output operativo
-Scheda drafting/AIR/VIR; scaletta per risposta orale; mini-laboratorio di riscrittura normativa; griglia per valutare un articolo regionale.
-
-### Riferimenti consolidati
-- [[sources/air-vir-qualita-regolazione-dpcm-169-2017]]
-- [[sources/regole-suggerimenti-redazione-testi-normativi-regioni-2024]]
-- [[sources/costituzione-repubblica-italiana-testo-vigente]]
-- [[topics/regioni-e-governo-locale]]
-
-## Scheda di lavoro
-Questo capitolo va letto come ponte tra diritto regionale, organizzazione amministrativa e prova pratica. Non serve memorizzare formule astratte: serve imparare a trasformare una scelta pubblica in una disposizione chiara, competente, attuabile e verificabile.
-
-La cautela principale è semplice. Il D.P.C.M. 15 settembre 2017, n. 169 disciplina AIR, VIR e consultazione nel circuito statale; nel modulo regionale lo usiamo come base metodologica, non come procedura automaticamente identica per ogni Regione. Quando una traccia riguarda una Regione specifica, prevalgono statuto, regolamento interno del Consiglio, leggi regionali sulla qualità normativa, manuali di drafting, prassi degli uffici legislativi e regole organizzative dell'ente.
-
-## Testo editoriale
+## Guida al capitolo
 
 ### Apertura editoriale
 Una norma scritta male non crea solo un problema estetico. Crea incertezza, contenzioso, ritardi attuativi, difficoltà di bilancio e carichi impropri sugli uffici. Nei concorsi regionali questo tema è particolarmente importante perché la Regione produce atti normativi, programma politiche pubbliche, assegna risorse, coordina enti territoriali e spesso deve raccordarsi con vincoli statali, europei e finanziari.
@@ -94,6 +69,10 @@ La mappa è questa:
 | D - Dimostrazione | Che cosa devo produrre? | Scheda istruttoria, schema articolo, parere, risposta orale. |
 | O - Organizzazione | Quale checklist uso prima di consegnare? | Controllo competenza, chiarezza, rinvii, attuazione, risorse. |
 
+## N-FL02-06-01 · Competenza, fonte e problema pubblico
+
+### Spiegazione teorica
+
 ### Tecnica legislativa: non è solo scrittura elegante
 La tecnica legislativa riguarda la costruzione tecnica del testo normativo. Comprende il linguaggio, la struttura dell'atto, la formulazione degli articoli, la gestione delle modifiche, l'uso dei rinvii, la chiarezza delle definizioni, il coordinamento con norme vigenti e la capacità della disciplina di essere applicata.
 
@@ -131,6 +110,8 @@ La tecnica di redazione cambia a seconda dell'atto. Una legge disciplina regole 
 
 Errore da evitare: usare la legge regionale per dettagli gestionali che dovrebbero stare in atti amministrativi o regolamentari. Una legge troppo minuziosa diventa rigida, difficile da aggiornare e spesso inadatta a governare processi tecnici.
 
+### Qualità della regolazione e opzioni
+
 ### Dal problema normativo alla scelta regolatoria
 Una buona istruttoria non parte dalla formula "La Regione promuove...". Parte dal problema.
 
@@ -146,6 +127,25 @@ Esempio: la Regione vuole sostenere i piccoli Comuni nella digitalizzazione degl
 Se la risposta è "serve solo un avviso finanziato da fondi già programmati", la legge potrebbe non essere lo strumento corretto. Se invece manca una base normativa per istituire un fondo stabile, definire beneficiari, criteri e monitoraggio, la legge può avere senso.
 
 Questa è la logica della qualità della regolazione: scegliere se intervenire, come intervenire e come verificare se l'intervento funziona.
+
+## N-FL02-06-03 · AIR, consultazione e istruttoria ex ante
+
+L'AIR ordina il ragionamento che precede la scelta regolatoria. Parte dalla descrizione del problema, non dalla soluzione già preferita. Occorre distinguere sintomi, cause, soggetti coinvolti e dimensione del fenomeno; formulare obiettivi verificabili; costruire alternative realistiche; confrontarne effetti, costi, benefici, rischi e distribuzione degli impatti. Se i dati sono incompleti, l'analisi deve dichiarare limiti e assunzioni invece di produrre una precisione apparente.
+
+L'opzione non normativa può comprendere informazione, incentivi, semplificazione organizzativa, accordi o migliore applicazione di regole esistenti. Considerarla evita che ogni problema amministrativo venga trasformato automaticamente in una nuova legge. La scelta finale deve spiegare perché lo strumento individuato è adeguato e proporzionato rispetto agli obiettivi.
+
+La consultazione porta nell'istruttoria conoscenze diffuse tra destinatari, amministrazioni, categorie e portatori di interessi. Non è un referendum sulla proposta e non sostituisce la responsabilità della decisione. Domande, campione, tempi e restituzione devono essere coerenti con lo scopo. Le osservazioni ricevute vanno classificate e valutate, chiarendo quali modifiche hanno prodotto e perché altre non sono state accolte.
+
+| Fase | Domanda | Evidenza utile |
+|---|---|---|
+| Problema | Che cosa non funziona e per chi? | dati, procedimenti, segnalazioni |
+| Obiettivo | Quale cambiamento è atteso? | risultato osservabile |
+| Opzioni | Quali alternative sono praticabili? | confronto, inclusa opzione zero |
+| Impatti | Chi sostiene costi e riceve benefici? | stime e distribuzione |
+| Consultazione | Quali informazioni mancano? | contributi tracciati |
+| Scelta | Perché questa soluzione è preferibile? | motivazione comparativa |
+
+Nella prova pratica l'analisi può essere sintetica, ma non deve saltare i passaggi logici. Una buona nota distingue i dati certi dalle stime, segnala gli impatti su cittadini, imprese e amministrazioni e indica chi dovrà attuare la soluzione. Se l'opzione scelta richiede nuovi procedimenti, sistemi informativi o personale, tali condizioni appartengono alla valutazione di fattibilità e non possono essere rinviate a una formula generica. La conclusione deve rendere controllabile il confronto, mostrando vantaggi, limiti e rischi residui della soluzione preferita.
 
 ### AIR: analisi ex ante
 AIR significa analisi dell'impatto della regolamentazione. Nel circuito statale, il D.P.C.M. 169/2017 la disciplina come strumento dell'istruttoria normativa. Nel concorso regionale, anche quando non si chiede la procedura formale, è utile ragionare in termini AIR: prima di scrivere la norma valuto problema, obiettivi, opzioni, destinatari, effetti e attuazione.
@@ -178,6 +178,14 @@ In una prova scritta, questo passaggio può essere decisivo. Se la traccia chied
 - incentivo finanziario tramite programma o avviso.
 
 La soluzione migliore non è sempre la più solenne. È quella coerente con competenza, proporzionalità, tempi, costi, destinatari e capacità amministrativa.
+
+## N-FL02-06-04 · VIR, monitoraggio e clausole valutative
+
+La VIR verifica se la regolazione ha raggiunto gli obiettivi, quali effetti ha prodotto e quali difficoltà sono emerse nell'attuazione. Non consiste nel confermare a posteriori la bontà della scelta. Confronta situazione iniziale, risultati osservati, costi amministrativi, comportamenti dei destinatari e possibili effetti inattesi. La valutazione può sostenere il mantenimento della disciplina, la sua correzione, la semplificazione o l'abrogazione.
+
+Per rendere possibile la verifica occorre progettare il monitoraggio già durante la formazione della norma. Obiettivi vaghi generano indicatori inutili; dati non attribuiti a un responsabile rischiano di non essere raccolti. Una clausola valutativa ben costruita individua almeno soggetto informante, destinatario della relazione, oggetti della verifica, periodicità o momento della restituzione e dati essenziali, rispettando le regole regionali applicabili.
+
+Monitoraggio e VIR non coincidono. Il monitoraggio raccoglie nel tempo dati sull'attuazione; la VIR interpreta tali dati e formula un giudizio sugli effetti della disciplina. Anche il controllo di gestione o finanziario ha oggetto diverso, pur potendo fornire informazioni. Nella prova occorre quindi indicare soggetto, domanda valutativa, evidenza e possibile conseguenza.
 
 ### VIR: verifica ex post
 VIR significa verifica dell'impatto della regolamentazione. Se l'AIR guarda prima dell'intervento, la VIR guarda dopo: la norma ha funzionato? Ha prodotto gli effetti attesi? Ha generato oneri imprevisti? Va confermata, modificata o abrogata?
@@ -216,6 +224,8 @@ Una consultazione utile deve chiarire:
 La consultazione inefficace, invece, chiede pareri generici, concede tempi incompatibili con una partecipazione reale o raccoglie contributi senza collegarli alla scelta normativa.
 
 ### Analisi tecnico-normativa e coordinamento
+
+### Analisi tecnico-normativa e coordinamento
 Accanto all'analisi degli impatti c'è l'analisi tecnico-normativa, cioè il controllo di compatibilità e coerenza giuridica. Nei concorsi può essere chiesta come parere, nota istruttoria o controllo preliminare su uno schema di atto.
 
 La griglia minima comprende:
@@ -230,7 +240,9 @@ La griglia minima comprende:
 
 Un articolo può essere scritto in modo chiaro ma essere comunque sbagliato se invade una competenza statale, crea una spesa senza copertura o attribuisce a un organo un potere non previsto dall'ordinamento regionale.
 
-### Drafting: struttura dell'atto
+## N-FL02-06-06 · Drafting e manutenzione del testo
+
+### Struttura dell'atto
 Un atto normativo ben costruito ha una sequenza riconoscibile. Nei manuali di tecnica legislativa, la disciplina organica tende a essere organizzata in parte introduttiva, parte sostanziale e parte finale.
 
 La sequenza pratica è:
@@ -399,6 +411,8 @@ Per il concorso, la risposta prudente è:
 - gli enti locali possono essere coinvolti quando la disciplina incide su funzioni territoriali.
 
 Non presentare questa sequenza come identica in tutte le Regioni. Presentala come mappa generale da adattare alla Regione del bando.
+
+## N-FL02-06-07 · Scheda operativa, laboratorio e casi
 
 ### Scheda drafting/AIR/VIR
 Questa è la scheda da usare nelle prove pratiche.
@@ -593,8 +607,46 @@ Prima di consegnare una risposta su tecnica legislativa, AIR/VIR e drafting, con
 - ho previsto indicatori o relazione per la VIR?
 - ho ricordato che le procedure regionali specifiche dipendono da statuto, regolamento e manuali locali?
 
-### Riferimenti consolidati
-Per la base costituzionale, il riferimento centrale è il Titolo V della Costituzione: in particolare il riparto legislativo dell'articolo 117, gli organi regionali dell'articolo 121 e lo statuto regionale dell'articolo 123. Per AIR, VIR e consultazione, il D.P.C.M. 15 settembre 2017, n. 169 è riferimento ufficiale statale e base metodologica. Per il drafting regionale, il manuale "Regole e suggerimenti per la redazione dei testi normativi", quarta edizione, marzo 2024, promosso dalla Conferenza dei Presidenti delle Assemblee legislative delle Regioni e delle Province autonome con il supporto dell'Osservatorio legislativo interregionale, è la fonte di lavoro da usare con maggiore attenzione.
+## ▣ Verifica
 
-### Note di review
-Prima della pubblicazione finale, verificare un bando dedicato a funzionario legislativo regionale e almeno un regolamento interno o manuale di tecnica normativa della Regione eventualmente oggetto del concorso. Le procedure AIR/VIR qui presentate sono usate in chiave metodologica: non vanno attribuite automaticamente, nella stessa forma, a tutte le Regioni.
+### Quiz 1
+**Qual è il primo controllo prima di redigere una disposizione regionale?**  
+A. Competenza, fonte, organo e limiti. B. Lunghezza del titolo. C. Numero dei commi. D. Data di pubblicazione.
+
+**Risposta corretta: A.** Una formulazione elegante non può correggere un difetto di competenza o la scelta della fonte sbagliata.
+
+### Quiz 2
+**Che cosa indica l'opzione zero nell'analisi regolatoria?**  
+A. L'assenza di qualunque problema. B. Il mantenimento dello scenario senza nuovo intervento, usato come termine di confronto. C. L'abrogazione totale. D. Una norma senza oneri.
+
+**Risposta corretta: B.** Confrontare l'intervento con lo scenario invariato aiuta a dimostrare necessità e proporzionalità della scelta.
+
+### Quiz 3
+**Qual è la funzione essenziale dell'AIR?**  
+A. Valutare ex ante problema, obiettivi, opzioni e impatti. B. Correggere refusi dopo l'approvazione. C. Sostituire il voto consiliare. D. Accertare responsabilità contabili.
+
+**Risposta corretta: A.** L'AIR struttura l'istruttoria prima della decisione; non trasferisce la scelta politica all'analista.
+
+### Quiz 4
+**In che cosa la VIR differisce dall'AIR?**  
+A. Valuta ex post risultati ed effetti della regolazione. B. Riguarda solo i regolamenti. C. Non usa indicatori. D. Precede sempre la proposta.
+
+**Risposta corretta: A.** La VIR confronta obiettivi, attuazione ed effetti osservati e può sostenere manutenzione, modifica o abrogazione.
+
+### Quiz 5
+**Quale rinvio è normalmente più controllabile?**  
+A. «Secondo la normativa vigente». B. Un rinvio che identifica con precisione la disposizione richiamata e la funzione del richiamo. C. «Come previsto altrove». D. Un rinvio privo di oggetto.
+
+**Risposta corretta: B.** Il lettore deve poter individuare la regola applicabile; precisione e stabilità del rinvio vanno bilanciate secondo il caso.
+
+### Quiz 6
+**Perché una disciplina transitoria può essere necessaria?**  
+A. Per governare il passaggio tra vecchio e nuovo regime, inclusi procedimenti pendenti. B. Per evitare la copertura. C. Per sostituire le definizioni. D. Per eliminare il monitoraggio.
+
+**Risposta corretta: A.** Senza transitorio possono restare incerti atti già adottati, domande pendenti, termini e rapporti in corso.
+
+### Caso ragionato finale
+Una proposta regionale istituisce «interventi innovativi» affidando alla Giunta ogni dettaglio, senza destinatari, criteri, copertura, transitorio o indicatori. Il funzionario deve prima verificare materia, competenza e fonte; definire problema e obiettivi; confrontare opzioni, compresa quella non normativa; individuare destinatari, condotte, procedimento e margini del successivo atto attuativo. Deve poi quantificare gli effetti finanziari, disciplinare il passaggio dal regime precedente e prevedere dati utili alla valutazione. La disposizione va suddivisa per funzioni: finalità, definizioni necessarie, beneficiari e criteri, procedimento, attuazione, risorse, monitoraggio e transitorio. La delega alla Giunta non può diventare una formula vuota che rinvia le scelte essenziali senza criteri.
+
+## Riferimenti normativi e professionali essenziali
+Per la base costituzionale, il riferimento centrale è il Titolo V della Costituzione: in particolare il riparto legislativo dell'articolo 117, gli organi regionali dell'articolo 121 e lo statuto regionale dell'articolo 123. Per AIR, VIR e consultazione, il D.P.C.M. 15 settembre 2017, n. 169 è riferimento ufficiale statale e base metodologica. Per il drafting regionale, il manuale "Regole e suggerimenti per la redazione dei testi normativi", quarta edizione, marzo 2024, promosso dalla Conferenza dei Presidenti delle Assemblee legislative delle Regioni e delle Province autonome con il supporto dell'Osservatorio legislativo interregionale, è la fonte di lavoro da usare con maggiore attenzione.

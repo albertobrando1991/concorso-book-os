@@ -197,3 +197,33 @@ La matrice applica il gate di copertura integrale ai dodici capitoli del modulo.
 | N-FL02-05-05 | parziale | completati vincoli, fondi e SSR | completo | § N-FL02-05-05; Quiz 5 |
 | N-FL02-05-06 | avanzato | distinti controlli e parifica | completo | § N-FL02-05-06; Quiz 6 |
 | N-FL02-05-07 | avanzato | consolidati casi e verifica | completo | § N-FL02-05-07; blocco ▣ Verifica |
+
+## Dettaglio Formato 2 — capitolo 06
+
+| Nucleo ID | Famiglia/profilo | Materia | Concetto/sotto-concetti | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FL02-06-01 | M-FL02/legislativo | Competenza e qualità | fonte; organo; problema; opzioni | [[sources/costituzione-repubblica-italiana-testo-vigente]] | Cap. 06 § N-FL02-06-01 | controlli preliminari e scelta regolatoria | qualificazione della fonte | griglia competenza-opzione | Q:2 C:1 E:1 | completo | Costituzione e fonte regionale |
+| N-FL02-06-03 | M-FL02/legislativo | AIR | problema; obiettivi; opzioni; impatti; consultazione | [[sources/air-vir-qualita-regolazione-dpcm-169-2017]] | Cap. 06 § N-FL02-06-03 | istruttoria ex ante completa | confronto delle opzioni | tabella AIR | Q:1 C:1 E:1 | completo | D.P.C.M. 169/2017 come metodo |
+| N-FL02-06-04 | M-FL02/legislativo | VIR e coordinamento | monitoraggio; indicatori; ATN; clausole | [[sources/air-vir-qualita-regolazione-dpcm-169-2017]] | Cap. 06 § N-FL02-06-04 | verifica ex post e compatibilità | clausola valutativa | schema VIR-ATN | Q:1 C:1 E:1 | completo | disciplina regionale target |
+| N-FL02-06-06 | M-FL02/legislativo | Drafting | articoli; commi; definizioni; rinvii; novelle; transitorio | [[sources/regole-suggerimenti-redazione-testi-normativi-regioni-2024]] | Cap. 06 § N-FL02-06-06 | struttura e manutenzione | riscrittura normativa | articolo corretto | Q:2 C:2 E:1 | completo | manuale drafting 2024 |
+| N-FL02-06-07 | M-FL02/tutti | Applicazione integrata | scheda; laboratorio; copertura; casi | fonti dei nuclei precedenti | Cap. 06 § N-FL02-06-07 | metodo completo | due casi guidati | scheda e laboratorio | Q:6 C:2 E:1 | completo | audit trasversale |
+
+## Checklist dimensionale — capitolo 06
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso nella prova | Errore tipico | Verifica | Fonti |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FL02-06-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 1-2 | ✓ |
+| N-FL02-06-03 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 3 | ✓ |
+| N-FL02-06-04 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 4 | ✓ |
+| N-FL02-06-06 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 5-6 | ✓ |
+| N-FL02-06-07 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ quiz e caso | ✓ |
+
+## Delta step 10 — capitolo 06
+
+| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
+| --- | --- | --- | --- | --- |
+| N-FL02-06-01 | avanzato | ricomposti competenza, qualità e opzioni | completo | § N-FL02-06-01 |
+| N-FL02-06-03 | parziale | sviluppati AIR, consultazione e tabella | completo | § N-FL02-06-03; Quiz 3 |
+| N-FL02-06-04 | parziale | integrati VIR, monitoraggio, ATN e clausole | completo | § N-FL02-06-04; Quiz 4 |
+| N-FL02-06-06 | avanzato | consolidati struttura e manutenzione | completo | § N-FL02-06-06; Quiz 5-6 |
+| N-FL02-06-07 | avanzato | consolidati scheda, laboratorio e casi | completo | § N-FL02-06-07; blocco ▣ Verifica |
