@@ -9,7 +9,7 @@ entities: ["Regione", "OpenCoesione", "Autorita di Gestione", "Comitato di sorve
 source_refs: ["sources/politiche-coesione-2021-2027-programmi-regionali.md", "sources/pagamenti-tracciabilita-contratti-pnrr-rendicontazione.md", "sources/pnrr-regis-dnsh-monitoraggio-territoriale.md", "sources/bandi-inpa-vol-02-campione-2026.md"]
 book_refs: ["m-fl02-regioni-province-citta-metropolitane", "vol-02-enti-locali-polizia-locale", "il-metodo-bando"]
 confidence: 0.88
-updated_at: 2026-07-20T12:35:00+02:00
+updated_at: 2026-08-06
 created_at: 2026-07-17T17:30:00+02:00
 review_required: true
 canonical: true
@@ -17,7 +17,9 @@ tags: ["book-chapter", "module-code-m-fl02", "professional-draft", "review-requi
 book_id: m-fl02-regioni-province-citta-metropolitane
 outline_section: 7
 volume_chapter: 24
-draft_stage: professional-draft
+draft_stage: professional-draft-complete
+format_version: 2
+dati_operativi: []
 module_code: M-FL02
 module_family: funzioni-locali
 companion_to: il-metodo-bando
@@ -26,34 +28,7 @@ last_compiled_from: ["wiki/books/moduli/m-fl02-regioni-province-citta-metropolit
 
 # Politiche di coesione e fondi UE
 
-## Specifica struttura madre
-
-### Obiettivo
-Spiegare le politiche di coesione in chiave regionale e concorsuale, collegando programma, avviso, beneficiario, progetto, spesa, monitoraggio, controlli e rendicontazione.
-
-### Nuclei
-- Programmazione 2021-2027 e ruolo dei Programmi regionali.
-- Fondi strutturali, cofinanziamento nazionale, risorse nazionali di coesione e confine con FSC.
-- Regione come amministrazione che programma, seleziona, attua, controlla, monitora e rendiconta.
-- Avvisi, beneficiari, operazioni, spese ammissibili, indicatori, CUP, tracciabilità e documenti.
-- OpenCoesione, Sistema Nazionale di Monitoraggio e trasparenza sull'attuazione.
-- Confini con il futuro volume specialistico su appalti, PNRR e fondi UE.
-
-### Output operativo
-Catena programma-avviso-beneficiario-controllo; caso su contributo finanziato da fondi UE; check-list documentale; risposta orale su programma, progetto e rendicontazione.
-
-### Riferimenti consolidati
-- [[sources/politiche-coesione-2021-2027-programmi-regionali]]
-- [[sources/pagamenti-tracciabilita-contratti-pnrr-rendicontazione]]
-- [[sources/pnrr-regis-dnsh-monitoraggio-territoriale]]
-- [[topics/regioni-e-governo-locale]]
-
-## Scheda di lavoro
-Il capitolo evita due estremi. Non deve diventare una spiegazione politica generica della coesione europea, ma non deve nemmeno trasformarsi in un manuale specialistico di europrogettazione. Nel modulo M-FL02 il valore concorsuale sta nella catena amministrativa: programma, priorità, azione, avviso, beneficiario, operazione, spesa, indicatore, monitoraggio, controllo, rendicontazione.
-
-Il capitolo precedente ha spiegato che una politica regionale deve stare dentro programmazione, bilancio e controlli. Questo capitolo aggiunge la variabile coesione: quando le risorse arrivano da Programmi regionali FESR, FSE+, plurifondo o da risorse nazionali di coesione, l'ufficio deve ragionare in termini di vincolo di destinazione, ammissibilità della spesa, selezione trasparente, tracciabilità, monitoraggio e conservazione delle evidenze.
-
-## Testo editoriale
+## Guida al capitolo
 
 ### Apertura editoriale
 Nei concorsi regionali, le politiche di coesione compaiono spesso senza essere nominate in modo diretto. La traccia parla di avviso pubblico, contributo alle imprese, formazione, occupazione, digitalizzazione dei Comuni, infrastrutture territoriali, rigenerazione urbana, interventi per aree interne, progetti sociali, capacità amministrativa, monitoraggio, rendicontazione o OpenCoesione. Dietro quelle parole può esserci un Programma regionale finanziato da fondi europei o da risorse nazionali di coesione.
@@ -102,7 +77,11 @@ Questa tabella è la tua mappa rapida per scritto, orale e caso pratico.
 | D - Diario | Quali errori devo segnare? | Sigle senza funzione, avviso senza programma, spesa senza ammissibilità, controllo solo contabile. |
 | O - Output | Che cosa devo produrre? | Scheda catena, nota istruttoria, check-list documentale, risposta orale. |
 
-### Che cosa sono le politiche di coesione
+## N-FL02-07-01 · Politiche di coesione e quadro 2021-2027
+
+### Spiegazione teorica
+
+#### Che cosa sono le politiche di coesione
 Le politiche di coesione servono a ridurre divari territoriali, economici e sociali e a sostenere sviluppo, occupazione, innovazione, inclusione, ambiente, infrastrutture, formazione, capacità amministrativa e competitivita dei territori. Nel contesto italiano 2021-2027 sono finanziate da risorse europee, con cofinanziamento nazionale, e da risorse nazionali.
 
 In un concorso regionale la definizione non basta. Devi collegare la politica di coesione al lavoro dell'amministrazione:
@@ -136,7 +115,9 @@ Al candidato non è richiesto di ricordare ogni Programma, ma di comprendere la 
 
 Quando una traccia parla di Programma regionale FESR o FSE+, non devi rispondere come se fosse un capitolo di diritto dell'Unione europea. Devi spiegare come il programma arriva negli atti dell'ente.
 
-### Fondi: FESR, FSE+, JTF, CTE e FSC
+### Fondi e architettura istituzionale regionale
+
+### FESR, FSE+, JTF, CTE e FSC
 Nel livello manualistico, le sigle principali vanno lette per funzione.
 
 | Sigla | Funzione concorsuale | Esempi di ambito |
@@ -165,6 +146,8 @@ In prova non serve descrivere l'organigramma di una Regione non indicata. Serve 
 - Comitato di sorveglianza: valuta attuazione e progressi del Programma.
 
 La distinzione tra beneficiario e destinatario è spesso decisiva. In un corso finanziato dal FSE+, il beneficiario può essere l'ente che realizza il progetto, mentre i destinatari sono i partecipanti. In un contributo FESR a un Comune, il beneficiario può essere il Comune; i destinatari finali possono essere cittadini, imprese o utenti del servizio.
+
+## N-FL02-07-03 · Dal programma all'avviso e alla selezione
 
 ### Dal Programma all'avviso
 L'avviso pubblico non nasce nel vuoto. Deve essere coerente con Programma, priorità, azione e risorse disponibili. Per questo la prima parte di un avviso ben costruito indica base programmatica, obiettivi, dotazione finanziaria, beneficiari, interventi finanziabili e regole di selezione.
@@ -230,6 +213,8 @@ Esempio FESR:
 - Operazione: intervento di efficientamento.
 - Spese: lavori, servizi tecnici, forniture nei limiti ammessi.
 
+### Ammissibilità, attuazione e tracciabilità
+
 ### Spese ammissibili e vincolo di destinazione
 La domanda decisiva non è: "il beneficiario ha speso?". La domanda è: "ha sostenuto una spesa ammissibile, documentata, pertinente, tracciabile e collegata all'operazione finanziata?".
 
@@ -271,6 +256,26 @@ La tracciabilità serve a collegare:
 
 Errore da evitare: parlare di fondi UE come se fossero solo "contributi erogati". La parte più delicata è dimostrare nel tempo dove sono andate le risorse e quali risultati hanno prodotto.
 
+## N-FL02-07-05 · Monitoraggio, trasparenza e rendicontazione
+
+Monitorare un'operazione significa osservare con continuità almeno tre dimensioni. L'avanzamento finanziario segue impegni e pagamenti; quello procedurale registra passaggi come selezione, affidamento, avvio e conclusione; quello fisico misura realizzazioni e destinatari. I tre piani devono essere coerenti: una spesa elevata senza corrispondente avanzamento fisico, oppure un progetto dichiarato concluso con pagamenti e indicatori incompleti, richiede verifica.
+
+Gli indicatori traducono gli obiettivi in informazioni osservabili. Gli indicatori di output descrivono ciò che l'operazione realizza direttamente; quelli di risultato guardano al cambiamento cui l'intervento contribuisce. Non ogni risultato dipende dal solo progetto, perciò il funzionario deve evitare attribuzioni automatiche e documentare metodo, fonte e periodo del dato. Il valore obiettivo non può essere modificato retroattivamente soltanto per far apparire riuscita l'attuazione.
+
+La qualità del dato è una responsabilità amministrativa. Il beneficiario trasmette informazioni e documenti secondo l'avviso; l'amministrazione effettua verifiche di completezza e coerenza; eventuali correzioni devono lasciare traccia. Codici, date, importi, localizzazione, soggetti e indicatori devono riferirsi alla stessa operazione. Un sistema informativo non garantisce da solo la veridicità del contenuto inserito.
+
+Trasparenza e monitoraggio hanno finalità collegate ma distinte. La pubblicazione permette a cittadini e istituzioni di conoscere risorse, progetti e stato di attuazione; la gestione utilizza dati più articolati per decisioni, rendicontazione e controllo. OpenCoesione è quindi uno strumento di conoscenza pubblica, non sostituisce il fascicolo né prova automaticamente l'ammissibilità della spesa.
+
+La rendicontazione ricostruisce il nesso tra attività autorizzata, costo sostenuto, pagamento, risultato e regole della misura. Deve consentire di rispondere: che cosa è stato realizzato, da chi, quando, con quale procedura, per quale importo e con quale evidenza. Documenti contabili isolati non bastano se manca il collegamento con l'operazione; allo stesso modo, una relazione sulle attività non sostituisce la prova dei costi quando questa è richiesta.
+
+| Dimensione | Evidenza tipica | Controllo essenziale |
+|---|---|---|
+| Finanziaria | impegni, giustificativi, pagamenti | coerenza di importi e imputazione |
+| Procedurale | atti, affidamenti, autorizzazioni | rispetto delle fasi applicabili |
+| Fisica | prodotti, servizi, destinatari | effettiva realizzazione |
+| Risultato | indicatori e dati di contesto | metodo e attendibilità |
+| Rendicontazione | fascicolo ricomposto | nesso tra attività, costo e prova |
+
 ### Monitoraggio: dati, tempi e indicatori
 Il monitoraggio non è la rendicontazione contabile. È il flusso informativo che consente di seguire l'attuazione fisica, finanziaria e procedurale di programmi e progetti.
 
@@ -286,7 +291,7 @@ In pratica il monitoraggio risponde a domande diverse:
 | Soggettiva | Chi programma, attua, beneficia o controlla? |
 | Risultato | Quali indicatori dimostrano effetti e avanzamento? |
 
-Una Regione che gestisce programmi deve raccogliere dati dai beneficiari, validarli secondo le regole applicabili e alimentarli nei sistemi di monitoraggio. Per il ciclo 2021-2027, la fonte consolidata richiama il ruolo di ReGiS nel Sistema Nazionale di Monitoraggio della coesione. Il capitolo 08 sviluppera ReGiS in dettaglio per il PNRR; qui basta capire che monitoraggio significa dati strutturati, non relazione narrativa.
+Una Regione che gestisce programmi deve raccogliere dati dai beneficiari, validarli secondo le regole applicabili e alimentarli nei sistemi di monitoraggio. Nel ciclo 2021-2027 i flussi confluiscono nel Sistema Nazionale di Monitoraggio secondo l'architettura e le istruzioni applicabili. Il punto operativo è che il monitoraggio richiede dati strutturati e verificabili, non una semplice relazione narrativa.
 
 ### OpenCoesione e trasparenza
 OpenCoesione è il portale nazionale che rende navigabili dati e informazioni sui progetti finanziati dalle politiche di coesione. Per il candidato, ha tre funzioni didattiche:
@@ -305,6 +310,8 @@ In sede concorsuale, puoi citare OpenCoesione quando la domanda riguarda:
 - pubblicazione e riuso dei dati.
 
 Non usare OpenCoesione come se fosse il sistema interno di gestione di ogni Regione. È un portale di trasparenza e dati pubblici alimentato dal sistema di monitoraggio. Le procedure operative interne dipendono da Programma, sistemi informativi, regole nazionali e regionali.
+
+## N-FL02-07-06 · Controlli, qualificazione e raccordo finanziario
 
 ### Controlli: prima, durante e dopo
 Il controllo sui fondi di coesione non arriva solo alla fine. Deve accompagnare il ciclo.
@@ -418,6 +425,8 @@ Formula più professionale in una nota tecnica:
 > La misura deve essere attuata mediante avviso pubblico coerente con il Programma regionale di riferimento, indicando beneficiari, interventi ammissibili, dotazione finanziaria, criteri di selezione, obblighi di tracciabilità, indicatori, modalità di rendicontazione, controlli e cause di revoca.
 
 Questa non è una formula normativa definitiva, ma è una risposta concorsuale robusta.
+
+## N-FL02-07-07 · Catena operativa, casi e output concorsuali
 
 ### Catena programma-avviso-beneficiario-controllo
 Questa è la mappa centrale del capitolo.
@@ -592,16 +601,52 @@ Prima di consegnare una risposta su politiche di coesione e fondi UE, verifica:
 - ho collegato la misura a bilancio, tracciabilità, pagamenti e conservazione documentale?
 - ho evitato dettagli specialistici non richiesti dal bando?
 
-### Riferimenti consolidati
-- [[sources/politiche-coesione-2021-2027-programmi-regionali]]
-- [[sources/pagamenti-tracciabilita-contratti-pnrr-rendicontazione]]
-- [[sources/pnrr-regis-dnsh-monitoraggio-territoriale]]
-- [[sources/bandi-inpa-vol-02-campione-2026]]
-- [[topics/regioni-e-governo-locale]]
-- [[entities/regione]]
+## ▣ Verifica
 
-### Note di review
-- Prima della pubblicazione finale verificare pagine ufficiali aggiornate del Dipartimento per le politiche di coesione, OpenCoesione, Accordo di Partenariato, Programmi regionali e Accordi per la coesione.
-- Se il bando riguarda una Regione specifica, integrare solo fonti ufficiali locali: Programma regionale FESR/FSE+, manuale o sistema di gestione e controllo, avvisi tipo, calendario bandi, linee guida rendicontazione, pagine trasparenza e OpenCoesione.
-- Per aiuti di Stato, costi semplificati, audit UE, appalti specialistici, verifiche climatiche e rendicontazione avanzata rinviare al volume specialistico su appalti, PNRR e fondi UE.
-- Coordinare questo capitolo con il capitolo 08 su PNRR, ReGiS, DNSH e controlli, evitando duplicazioni sui dettagli tecnici di piattaforma.
+### Quiz 1
+**Che cosa collega correttamente una priorità di coesione alla singola operazione?**  
+A. Programma, obiettivo, azione, procedura di selezione e atto di ammissione. B. Il solo CUP. C. La fattura finale. D. Il portale di trasparenza.
+
+**Risposta corretta: A.** La legittimità e la tracciabilità dell'operazione dipendono dalla coerenza con l'intera catena programmatoria e selettiva.
+
+### Quiz 2
+**FESR e FSE+ sono intercambiabili?**  
+A. Sì. B. No: sostengono ambiti e tipologie di intervento differenti secondo regolamenti e programmi. C. Solo per i Comuni. D. Solo senza cofinanziamento.
+
+**Risposta corretta: B.** La sigla del fondo non basta: occorre leggere obiettivi, azioni, beneficiari e condizioni del programma applicabile.
+
+### Quiz 3
+**Beneficiario e destinatario finale coincidono sempre?**  
+A. Sì. B. No: il beneficiario attua l'operazione, mentre il destinatario può riceverne concretamente gli effetti. C. Solo nel FESR. D. Solo negli appalti.
+
+**Risposta corretta: B.** In un percorso formativo, per esempio, l'ente responsabile dell'operazione e la persona formata possono essere soggetti diversi.
+
+### Quiz 4
+**Quando una spesa è ammissibile?**  
+A. Quando è semplicemente utile. B. Quando rispetta programma, avviso, periodo, categoria, procedura e prova documentale applicabili. C. Quando è già pagata. D. Quando possiede un CIG.
+
+**Risposta corretta: B.** Pagamento e identificativi non sanano una spesa estranea alla misura o priva dei presupposti richiesti.
+
+### Quiz 5
+**Monitoraggio e rendicontazione coincidono?**  
+A. Sì. B. No: il monitoraggio segue avanzamento e indicatori; la rendicontazione dimostra spese, attività e risultati secondo le regole della misura. C. Solo nei fondi nazionali. D. Solo a chiusura.
+
+**Risposta corretta: B.** I due processi dialogano, ma hanno oggetto e momenti distinti.
+
+### Quiz 6
+**Un contributo finanziato da fondi di coesione è automaticamente un appalto?**  
+A. Sì. B. No: contributo, aiuto e contratto sono qualificazioni diverse, da verificare sulla struttura concreta dell'operazione. C. Sì, se esiste un CUP. D. No, perché gli appalti non possono usare fondi UE.
+
+**Risposta corretta: B.** Fonte finanziaria e natura giuridica del rapporto non vanno confuse; un beneficiario può inoltre dover applicare regole di affidamento nell'attuazione.
+
+### Caso ragionato finale
+Una Regione finanzia interventi comunali di rigenerazione mediante un avviso collegato a un Programma regionale. Il Comune presenta un progetto, modifica alcune lavorazioni e chiede il saldo con documenti incompleti. L'istruttoria deve verificare coerenza con programma e azione, criteri di selezione, atto di concessione, ammissibilità e autorizzazione delle modifiche, procedure di affidamento applicabili, tracciabilità, avanzamento fisico e finanziario, indicatori e documenti di spesa. Il saldo può essere liquidato soltanto per costi riconoscibili e provati; irregolarità o scostamenti richiedono contraddittorio e conseguenze proporzionate previste dalla disciplina della misura. Fascicolo e dati devono consentire monitoraggio, rendicontazione e controlli successivi.
+
+## Riferimenti normativi e professionali essenziali
+
+- Regolamenti dell'Unione europea applicabili alla programmazione 2021-2027.
+- Accordo di partenariato italiano 2021-2027 e Programmi regionali ufficiali.
+- Atti nazionali e territoriali relativi alle politiche e agli Accordi per la coesione.
+- Manuali, sistemi di gestione e controllo, avvisi e linee guida di rendicontazione della misura interessata.
+- OpenCoesione per dati pubblici e trasparenza sull'attuazione.
+- Disciplina nazionale su CUP, tracciabilità dei flussi e contratti pubblici, quando applicabile.

@@ -227,3 +227,33 @@ La matrice applica il gate di copertura integrale ai dodici capitoli del modulo.
 | N-FL02-06-04 | parziale | integrati VIR, monitoraggio, ATN e clausole | completo | § N-FL02-06-04; Quiz 4 |
 | N-FL02-06-06 | avanzato | consolidati struttura e manutenzione | completo | § N-FL02-06-06; Quiz 5-6 |
 | N-FL02-06-07 | avanzato | consolidati scheda, laboratorio e casi | completo | § N-FL02-06-07; blocco ▣ Verifica |
+
+## Dettaglio Formato 2 — capitolo 07
+
+| Nucleo ID | Famiglia/profilo | Materia | Concetto/sotto-concetti | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FL02-07-01 | M-FL02/tutti | Coesione e fondi | quadro 2021-2027; FESR; FSE+; JTF; FSC; AdG | [[sources/politiche-coesione-2021-2027-programmi-regionali]] | Cap. 07 § N-FL02-07-01 | finalità, fondi e architettura | lettura del programma | risposta su fondi e Regione | Q:2 C:1 E:1 | completo | regolamenti e programmi vigenti |
+| N-FL02-07-03 | M-FL02/amministrativo | Programma e selezione | azione; avviso; beneficiario; operazione; ammissibilità; tracciabilità | [[sources/politiche-coesione-2021-2027-programmi-regionali]] | Cap. 07 § N-FL02-07-03 | catena selettiva e attuativa | avviso e contributo | schema programma-operazione | Q:2 C:1 E:1 | completo | avviso e manuale target |
+| N-FL02-07-05 | M-FL02/amministrativo | Monitoraggio e rendicontazione | avanzamento; indicatori; trasparenza; prove | [[sources/pagamenti-tracciabilita-contratti-pnrr-rendicontazione]] | Cap. 07 § N-FL02-07-05 | dati, risultati e fascicolo | controllo degli avanzamenti | tabella delle evidenze | Q:1 C:1 E:1 | completo | sistemi e istruzioni applicabili |
+| N-FL02-07-06 | M-FL02/tutti | Controlli e qualificazione | verifiche; aiuti; appalti; FSC; bilancio | fonti dei nuclei precedenti | Cap. 07 § N-FL02-07-06 | piani giuridici e finanziari | qualificazione misura | risposta sui controlli | Q:1 C:1 E:1 | completo | fonte della misura |
+| N-FL02-07-07 | M-FL02/tutti | Applicazione integrata | catena; casi; esercizio; controllo | fonti dei nuclei precedenti | Cap. 07 § N-FL02-07-07 | metodo completo | Comune e percorso FSE+ | schema, casi e checklist | Q:6 C:2 E:1 | completo | audit trasversale |
+
+## Checklist dimensionale — capitolo 07
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso nella prova | Errore tipico | Verifica | Fonti |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FL02-07-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 1-2 | ✓ |
+| N-FL02-07-03 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 3-4 | ✓ |
+| N-FL02-07-05 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 5 | ✓ |
+| N-FL02-07-06 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 6 | ✓ |
+| N-FL02-07-07 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ quiz e caso | ✓ |
+
+## Delta step 10 — capitolo 07
+
+| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
+| --- | --- | --- | --- | --- |
+| N-FL02-07-01 | avanzato | ricomposti quadro, fondi e soggetti | completo | § N-FL02-07-01 |
+| N-FL02-07-03 | avanzato | ricomposte selezione, ammissibilità e tracciabilità | completo | § N-FL02-07-03 |
+| N-FL02-07-05 | parziale | sviluppati avanzamenti, indicatori e prove | completo | § N-FL02-07-05 |
+| N-FL02-07-06 | avanzato | distinti controlli, aiuti, appalti e bilancio | completo | § N-FL02-07-06 |
+| N-FL02-07-07 | avanzato | consolidati casi e verifica | completo | § N-FL02-07-07; blocco ▣ Verifica |
