@@ -164,3 +164,36 @@ La matrice applica il gate di copertura integrale ai dodici capitoli del modulo.
 | N-FL02-04-05 | parziale | sviluppati istruttoria, apporti, conflitti e controllo | completo | § N-FL02-04-05; Quiz 5 |
 | N-FL02-04-06 | parziale | integrati destinatari, fascicolo e tracciabilità digitale | completo | § N-FL02-04-06; Quiz 6 |
 | N-FL02-04-07 | avanzato | consolidati relazione, schemi, quiz e casi | completo | § N-FL02-04-07; blocco ▣ Verifica |
+
+## Dettaglio Formato 2 — capitolo 05
+
+| Nucleo ID | Famiglia/profilo | Materia | Concetto/sotto-concetti | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FL02-05-01 | M-FL02/tutti | Finanza e armonizzazione | equilibrio; copertura; autonomia; schemi | [[sources/armonizzazione-contabile-enti-territoriali-d-lgs-118-2011]] | Cap. 05 § N-FL02-05-01 | catena e linguaggio armonizzato | fatto gestionale | risposta equilibrio-copertura | Q:2 C:1 E:1 | completo | Costituzione e D.Lgs. 118/2011 |
+| N-FL02-05-03 | M-FL02/tutti | Programmazione | DEFR; obiettivi; indicatori | [[sources/armonizzazione-contabile-enti-territoriali-d-lgs-118-2011]] | Cap. 05 § N-FL02-05-03 | livelli strategico, finanziario, operativo | mobilità interna | matrice obiettivi | Q:1 C:1 E:1 | completo | documenti regionali |
+| N-FL02-05-04 | M-FL02/amministrativo | Bilancio e gestione | previsione; variazioni; fasi della spesa | [[sources/armonizzazione-contabile-enti-territoriali-d-lgs-118-2011]] | Cap. 05 § N-FL02-05-04 | autorizzazione e gestione | spesa e fattura | sequenza motivata | Q:1 C:1 E:1 | completo | principi applicati |
+| N-FL02-05-05 | M-FL02/amministrativo | Risorse vincolate | contributi; UE; PNRR; SSR | [[sources/pagamenti-tracciabilita-contratti-pnrr-rendicontazione]] | Cap. 05 § N-FL02-05-05 | vincoli e tracciabilità | contributo | griglia controlli | Q:1 C:1 E:1 | completo | fonte finanziamento |
+| N-FL02-05-06 | M-FL02/tutti | Rendiconto e controlli | consolidato; Corte; parifica | [[sources/decreto-legge-10-ottobre-2012-n-174-controlli-enti-territoriali]] | Cap. 05 § N-FL02-05-06 | risultati, soggetti, effetti | scostamenti | risposta parifica | Q:1 C:1 E:1 | completo | D.L. 174/2012 |
+| N-FL02-05-07 | M-FL02/tutti | Responsabilità e metodo | danno; agente; casi | [[sources/d-lgs-26-agosto-2016-n-174-codice-di-giustizia-contabile]] | Cap. 05 § N-FL02-05-07 | responsabilità e ciclo | due casi | tavola ed esercizio | Q:6 C:2 E:1 | completo | disciplina vigente |
+
+## Checklist dimensionale — capitolo 05
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso nella prova | Errore tipico | Verifica | Fonti |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FL02-05-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 1-2 | ✓ |
+| N-FL02-05-03 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 3 | ✓ |
+| N-FL02-05-04 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 4 | ✓ |
+| N-FL02-05-05 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 5 | ✓ |
+| N-FL02-05-06 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 6 | ✓ |
+| N-FL02-05-07 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ quiz e caso | ✓ |
+
+## Delta step 10 — capitolo 05
+
+| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
+| --- | --- | --- | --- | --- |
+| N-FL02-05-01 | avanzato | integrata armonizzazione | completo | § N-FL02-05-01; Quiz 1-2 |
+| N-FL02-05-03 | parziale | sviluppati livelli e indicatori | completo | § N-FL02-05-03; Quiz 3 |
+| N-FL02-05-04 | avanzato | precisate variazioni e gestione | completo | § N-FL02-05-04; Quiz 4 |
+| N-FL02-05-05 | parziale | completati vincoli, fondi e SSR | completo | § N-FL02-05-05; Quiz 5 |
+| N-FL02-05-06 | avanzato | distinti controlli e parifica | completo | § N-FL02-05-06; Quiz 6 |
+| N-FL02-05-07 | avanzato | consolidati casi e verifica | completo | § N-FL02-05-07; blocco ▣ Verifica |

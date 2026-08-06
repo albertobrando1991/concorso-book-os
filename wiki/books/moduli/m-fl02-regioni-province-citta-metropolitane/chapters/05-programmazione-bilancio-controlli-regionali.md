@@ -9,7 +9,7 @@ entities: ["Regione", "Corte dei conti", "Ragioneria generale dello Stato", "Ser
 source_refs: ["sources/armonizzazione-contabile-enti-territoriali-d-lgs-118-2011.md", "sources/principi-costituzionali-finanza-pubblica-art-81-97-119.md", "sources/decreto-legge-10-ottobre-2012-n-174-controlli-enti-territoriali.md", "sources/corte-conti-controlli-responsabilita-agenti-contabili.md", "sources/d-lgs-26-agosto-2016-n-174-codice-di-giustizia-contabile.md", "sources/legge-7-gennaio-2026-n-1-corte-dei-conti-e-responsabilita-erariale.md", "sources/pagamenti-tracciabilita-contratti-pnrr-rendicontazione.md", "sources/legge-31-dicembre-2009-n-196-contabilita-finanza-pubblica.md", "sources/bandi-inpa-vol-02-campione-2026.md", "sources/vol-02-dossier-redazionale-enti-locali-polizia-locale.md"]
 book_refs: ["m-fl02-regioni-province-citta-metropolitane", "vol-02-enti-locali-polizia-locale", "il-metodo-bando"]
 confidence: 0.86
-updated_at: 2026-07-20T11:35:00+02:00
+updated_at: 2026-08-06
 created_at: 2026-07-17T17:30:00+02:00
 review_required: true
 canonical: true
@@ -17,7 +17,9 @@ tags: ["book-chapter", "module-code-m-fl02", "revised-draft", "professional-draf
 book_id: m-fl02-regioni-province-citta-metropolitane
 outline_section: 5
 volume_chapter: 22
-draft_stage: professional-draft
+draft_stage: professional-draft-complete
+format_version: 2
+dati_operativi: []
 module_code: M-FL02
 module_family: funzioni-locali
 companion_to: il-metodo-bando
@@ -26,35 +28,7 @@ last_compiled_from: ["wiki/books/moduli/m-fl02-regioni-province-citta-metropolit
 
 # Programmazione, bilancio e controlli regionali
 
-## Specifica struttura madre
-
-### Obiettivo
-Spiegare il ciclo finanziario regionale in modo concorsuale, collegando programmazione, bilancio armonizzato, rendiconto, controlli, responsabilità e vincoli di finanza pubblica.
-
-### Nuclei
-- Principi costituzionali di equilibrio, copertura, buon andamento e autonomia finanziaria.
-- D.Lgs. 118/2011 e armonizzazione contabile di Regioni ed enti territoriali.
-- Programmazione, bilancio di previsione, gestione, rendiconto e consolidamento.
-- Controlli interni, Corte dei conti e responsabilità.
-- Collegamento con fondi UE, PNRR, contributi e trasferimenti.
-
-### Output operativo
-Tavola ciclo finanziario; caso contabile regionale; risposta orale su programmazione-bilancio-controlli.
-
-### Riferimenti consolidati
-- [[sources/armonizzazione-contabile-enti-territoriali-d-lgs-118-2011]]
-- [[sources/principi-costituzionali-finanza-pubblica-art-81-97-119]]
-- [[sources/decreto-legge-10-ottobre-2012-n-174-controlli-enti-territoriali]]
-- [[sources/corte-conti-controlli-responsabilita-agenti-contabili]]
-- [[topics/contabilita-pubblica]]
-- [[entities/regione]]
-
-## Scheda di lavoro
-Il capitolo non deve diventare un trattato di contabilità regionale. Il nucleo comune su contabilità pubblica resta nel VOL-01 e il ciclo comunale è sviluppato in M-FL01. Qui il valore aggiunto è regionale: leggere come una politica della Regione entra nel DEFR, nel bilancio, negli atti di gestione, nei trasferimenti, nei fondi vincolati, nel rendiconto, nella parifica e nei controlli.
-
-I capitoli precedenti hanno costruito tre passaggi: funzioni regionali, rapporti con enti locali e procedimento amministrativo regionale. Ora aggiungiamo la domanda finanziaria: quella funzione e quel procedimento hanno copertura, stanno dentro il bilancio, producono impegni e pagamenti corretti, sono rendicontabili e superano i controlli?
-
-## Testo editoriale
+## Guida al capitolo
 
 ### Apertura editoriale
 La Regione non programma solo attività amministrative. Programma risorse, priorità, vincoli, risultati e responsabilità.
@@ -110,7 +84,11 @@ La domanda da tenere accanto al testo è:
 | D - Diario | Quali errori devo registrare? | Chiamare ogni documento "bilancio"; dimenticare copertura; confondere parifica e responsabilità erariale. |
 | O - Output | Che cosa devo produrre? | Tavola ciclo finanziario, caso contributo regionale, risposta orale programmazione-bilancio-controlli. |
 
-### La finanza regionale come catena operativa
+## N-FL02-05-01 · Finanza regionale e principi costituzionali
+
+### Spiegazione teorica
+
+#### La finanza regionale come catena operativa
 La finanza regionale è il modo in cui la Regione rende attuabili le proprie funzioni. Una competenza legislativa o amministrativa non basta: servono risorse, copertura, tempi, procedure e controlli.
 
 Nel lavoro regionale il ciclo può essere letto così:
@@ -144,10 +122,25 @@ Per il candidato M-FL02 la distinzione decisiva è questa:
 
 Copertura ed equilibrio non sono sinonimi. La copertura riguarda il singolo onere; l'equilibrio riguarda la tenuta complessiva dei conti. Una misura può avere una copertura apparente ma creare problemi di equilibrio se è sottostimata, se si basa su entrate incerte o se incide su spese permanenti senza sostenibilità.
 
-### D.Lgs. 118/2011 e armonizzazione contabile
+### Armonizzazione contabile e linguaggio comune
+
+L'armonizzazione risponde a un problema istituzionale prima ancora che tecnico: amministrazioni diverse devono rappresentare fatti finanziari comparabili, consentire il coordinamento della finanza pubblica e rendere leggibili i risultati. Un medesimo fenomeno non può cambiare significato solo perché registrato da enti differenti. Principi generali, principi applicati, piano dei conti integrato e schemi comuni costruiscono quindi una grammatica condivisa, pur lasciando a ciascun ente le proprie responsabilità decisionali.
+
+La competenza finanziaria potenziata collega la registrazione dell'obbligazione al momento in cui essa è giuridicamente perfezionata e l'imputazione all'esercizio in cui diviene esigibile. Per il candidato il punto non è memorizzare scritture, ma saper verificare quattro domande: esiste un'obbligazione valida, chi ne è titolare, quando deve essere adempiuta e in quale esercizio produce effetto. Questa logica impedisce di confondere lo stanziamento con l'impegno o l'impegno con il pagamento.
+
+La contabilità finanziaria conserva la funzione autorizzatoria; la contabilità economico-patrimoniale affianca la rappresentazione di costi, ricavi, patrimonio e variazioni. Il bilancio consolidato, invece, offre una lettura del gruppo amministrazione pubblica secondo il perimetro e le regole applicabili. Sono piani collegati ma non intercambiabili: ciascuno risponde a una diversa domanda conoscitiva.
+
+| Strumento | Domanda presidiata | Errore da evitare |
+|---|---|---|
+| Principi applicati | Come si rappresenta correttamente il fatto? | usarli come formule senza leggere il fatto gestionale |
+| Piano dei conti integrato | Come si raccordano le registrazioni? | scambiarlo per il bilancio autorizzatorio |
+| Schemi armonizzati | Come si confrontano documenti e risultati? | ritenere identiche tutte le scelte degli enti |
+| Consolidato | Qual è il risultato del gruppo? | sommare dati senza perimetro e rettifiche |
+
+### D.Lgs. 118/2011 e principi armonizzati
 Il D.Lgs. 118/2011 è la fonte centrale per l'armonizzazione contabile delle Regioni, degli enti locali e dei relativi organismi. La sua funzione non è solo tecnica. Serve a rendere i bilanci più leggibili, confrontabili e controllabili.
 
-La fonte consolidata conferma quattro nuclei:
+La disciplina armonizzata si articola, ai fini di questo capitolo, in quattro nuclei:
 
 - principi contabili generali e applicati;
 - programmazione;
@@ -170,7 +163,27 @@ Tre parole vanno spiegate senza tecnicismi eccessivi:
 
 Il capitolo non richiede calcoli su FPV e FCDE. Richiede di capire perché esistono: tempo della spesa, prudenza sulle entrate, attendibilita del bilancio.
 
-### DEFR: la programmazione economico-finanziaria regionale
+## N-FL02-05-03 · DEFR e programmazione regionale
+
+Programmare significa trasformare un indirizzo politico in obiettivi finanziariamente sostenibili, temporalmente collocati e misurabili. Il DEFR non è un catalogo di desideri: deve dialogare con lo scenario economico, con i vincoli di finanza pubblica, con le politiche settoriali e con le risorse disponibili. La sua utilità emerge quando consente di spiegare perché una priorità riceve risorse, quali strutture la attuano e attraverso quali risultati sarà controllata.
+
+Il funzionario legge la programmazione su tre livelli. Sul piano strategico individua bisogni e priorità; sul piano finanziario verifica compatibilità e articolazione pluriennale; sul piano operativo collega obiettivi, procedimenti, responsabili e indicatori. Se uno di questi livelli manca, cresce il rischio di misure non attuabili o di stanziamenti privi di un disegno verificabile.
+
+L'aggiornamento dei documenti programmatori serve a mantenere coerenti quadro iniziale e mutamenti intervenuti. Non autorizza però a trattare ogni scostamento come neutro: occorre motivare la variazione, valutarne gli effetti sugli altri obiettivi e conservare il raccordo con il bilancio. Nella prova, una risposta efficace segue la sequenza bisogno-obiettivo-risorsa-attuazione-indicatore-controllo.
+
+Esempio: una politica per la mobilità nelle aree interne deve indicare il bisogno territoriale, l'orizzonte temporale, la fonte finanziaria, i soggetti attuatori e indicatori coerenti. Dire soltanto che «la Regione finanzia il trasporto» non dimostra capacità di programmazione, perché lascia ignoti priorità, sostenibilità e verifica dei risultati.
+
+Una matrice di programmazione può associare a ciascun obiettivo un indicatore di realizzazione, uno di risultato, la struttura responsabile e il rischio principale. Gli indicatori non sostituiscono la valutazione, ma obbligano a dichiarare che cosa sarà osservato. Se una misura accumula ritardi o costi inattesi, il dato permette di decidere se correggere tempi, modalità attuative o allocazione delle risorse, documentando la scelta.
+
+Il raccordo pluriennale è essenziale perché molte politiche producono obblighi e risultati oltre il primo esercizio. La programmazione deve rendere visibili durata, fasi, fabbisogni successivi e condizioni di prosecuzione. Una spesa iniziale modesta può generare costi permanenti di gestione; viceversa, un investimento può richiedere una forte concentrazione iniziale delle risorse e risultati differiti. Il funzionario segnala questi effetti prima che l'indirizzo diventi un impegno difficilmente reversibile.
+
+Nella risposta scritta si può usare una tabella con sei colonne: bisogno, obiettivo, indicatore, risorsa, responsabile e controllo. Questo schema mostra che la programmazione non si esaurisce nel documento formale. Consente inoltre di riconoscere incoerenze: un indicatore non pertinente, una risorsa priva di obiettivo o un responsabile senza poteri adeguati sono segnali di un disegno incompleto.
+
+La verifica periodica confronta valori attesi e risultati osservati, spiega gli scostamenti e documenta le decisioni correttive senza riscrivere retroattivamente gli obiettivi.
+
+Così la responsabilità resta leggibile lungo l'intero ciclo.
+
+### Il DEFR nella programmazione economico-finanziaria
 Il Documento di economia e finanza regionale, o DEFR, è il punto di raccordo tra programma politico e bilancio. Non è una brochure istituzionale. Contiene linee strategiche e politiche che orientano le successive decisioni finanziarie regionali.
 
 In prova, il DEFR serve a rispondere a questa domanda:
@@ -191,7 +204,21 @@ Formula orale:
 
 > Il DEFR è il documento di programmazione economico-finanziaria regionale che orienta il bilancio e le politiche della Regione. Serve a collegare indirizzi, obiettivi, contesto finanziario e successive scelte di bilancio.
 
-### Bilancio regionale: previsione, autorizzazione e gestione
+## N-FL02-05-04 · Bilancio di previsione e gestione
+
+Il bilancio di previsione traduce la programmazione in autorizzazioni e limiti finanziari. La presenza di uno stanziamento è necessaria, ma non sostituisce il titolo giuridico, la competenza dell'ufficio, l'istruttoria e la corretta imputazione. Per questa ragione il funzionario deve tenere distinti il livello politico-finanziario, che decide priorità e autorizzazioni, e il livello gestionale, che assume ed esegue obbligazioni mediante atti motivati.
+
+Le variazioni mantengono il bilancio coerente con esigenze e fatti sopravvenuti, entro competenze e procedure previste. Non sono una scorciatoia per sanare a posteriori una gestione priva di presupposti. Prima di proporne una, l'ufficio ricostruisce fabbisogno, disponibilità, vincoli, effetti sugli equilibri e competenza dell'organo. Dopo l'approvazione aggiorna gli atti gestionali e la tracciabilità del fascicolo.
+
+Nell'esame di un pagamento la sequenza di controllo è concreta: fonte della spesa, stanziamento, obbligazione, impegno e imputazione, verifica della prestazione o del presupposto, liquidazione, ordinazione e pagamento. Ogni fase produce evidenze differenti. Saltare direttamente dal bilancio al pagamento confonde autorizzazione e debito effettivamente esigibile.
+
+L'applicazione al concorso consiste nel motivare ogni passaggio, non nel recitare l'elenco delle fasi. Davanti a una spesa non prevista, la risposta corretta verifica anzitutto se occorra modificare il documento finanziario e chi sia competente; soltanto dopo affronta l'atto gestionale. Davanti a una fattura, invece, controlla titolo, prestazione, liquidazione e imputazione prima di parlare di pagamento.
+
+La conseguenza è netta: regolarità contabile e regolarità amministrativa devono procedere insieme e lasciare evidenze coerenti nel fascicolo.
+
+Questo raccordo consente anche al controllo successivo di ricostruire la decisione.
+
+### Previsione, autorizzazione e gestione
 Il bilancio regionale è il documento con cui la programmazione diventa autorizzazione finanziaria. Nella logica armonizzata, il bilancio di previsione finanziario ha orizzonte almeno triennale e usa schemi comuni, con entrate e spese articolate secondo classificazioni che consentono lettura, confronto e controllo.
 
 Nel ciclo regionale possono comparire:
@@ -236,6 +263,22 @@ Schema semplice:
 
 Questa tabella è essenziale nei casi teorico-pratici. Se una traccia chiede un contributo a Comuni, una misura a imprese o un trasferimento a enti strumentali, la risposta deve collegare programma, bilancio, atto gestionale e controllo.
 
+## N-FL02-05-05 · Fondi vincolati, risorse europee e perimetro sanitario
+
+Un vincolo finanziario collega la risorsa a una finalità e limita le possibilità di impiego. L'ufficio deve identificare origine del vincolo, beneficiari, periodo di ammissibilità, condizioni di utilizzo e conseguenze dell'inadempimento. La tracciabilità non coincide con la sola conservazione delle fatture: richiede che ogni movimento sia riconducibile a obiettivo, atto, progetto, soggetto e risultato.
+
+Per contributi ed erogazioni il ciclo comprende almeno concessione, assunzione dell'obbligazione, eventuale anticipazione, verifiche intermedie, rendicontazione, liquidazione del saldo e gestione di revoche o recuperi. Le condizioni devono essere definite prima dell'erogazione e applicate in modo coerente. Se il beneficiario è un ente locale, il rapporto finanziario non crea una gerarchia generale: compiti e controlli derivano dalla fonte e dall'atto di finanziamento.
+
+Le risorse europee e PNRR possono aggiungere cronoprogrammi, sistemi di monitoraggio, indicatori, obblighi documentali e controlli specifici. Tali requisiti non vanno presunti in astratto: si ricavano dal programma e dagli atti applicabili. Il principio operativo resta stabile: nessun dato di avanzamento deve essere scollegato dalla spesa che pretende di giustificare.
+
+Nel servizio sanitario regionale la rilevanza quantitativa delle risorse si accompagna a regole di perimetrazione e trasparenza. Il candidato deve comprendere il raccordo tra finanziamento, destinazione, soggetti del sistema e consolidamento, senza assimilare automaticamente la gestione sanitaria alle altre politiche regionali. La conseguenza pratica è una maggiore attenzione alla separazione dei flussi, alla riconciliazione dei dati e ai controlli.
+
+L'errore tipico è descrivere ogni finanziamento vincolato come una disponibilità di cassa. Occorre invece distinguere assegnazione, accertamento dell'entrata, effettiva disponibilità, impegno della spesa ed esigibilità. Anche quando la risorsa è certa, tempi e condizioni possono impedire un uso immediato o diverso da quello autorizzato.
+
+In una prova pratica conviene chiudere la soluzione indicando chi controlla, quali documenti prova e quale conseguenza segue a una spesa non ammissibile: sospensione del saldo, rideterminazione, revoca o recupero, secondo la disciplina applicabile.
+
+La motivazione deve collegare la conseguenza alla clausola violata e all'esito dell'istruttoria.
+
 ### Fondi vincolati, contributi, PNRR e fondi UE
 Le Regioni gestiscono molte risorse vincolate: fondi nazionali, fondi europei, programmi di coesione, PNRR, trasferimenti sanitari, contributi a enti locali, incentivi a imprese, risorse per investimenti.
 
@@ -257,7 +300,7 @@ Quando la Regione riceve o assegna risorse vincolate, occorre verificare:
 - rendicontazione;
 - controlli, revoche, recuperi o economie.
 
-Il capitolo 07 trattera le politiche di coesione e il capitolo 08 il PNRR territoriale. Qui basta capire l'effetto contabile: fondi UE, PNRR e trasferimenti vincolati richiedono tracciabilità, corretta imputazione, documenti di spesa, monitoraggio e controllo.
+Sul piano contabile, fondi UE, PNRR e trasferimenti vincolati richiedono tracciabilità, corretta imputazione, documenti di spesa, monitoraggio e controllo. Gli obblighi puntuali dipendono dalla fonte e dal programma di finanziamento e devono essere letti negli atti ufficiali applicabili.
 
 Esempio: se la Regione finanzia un Comune per un intervento infrastrutturale, non basta dire "la Regione eroga il contributo". Occorre prevedere atto di concessione, obblighi del beneficiario, eventuale convenzione, cronoprogramma, documentazione, controlli e rendicontazione.
 
@@ -271,6 +314,12 @@ Il D.Lgs. 118/2011 contiene regole sulla trasparenza dei conti sanitari e sulla 
 > nel bilancio regionale la sanità richiede perimetrazione, confronto tra entrate e spese sanitarie, verifica delle risorse e controllo dei risultati.
 
 Non serve entrare nella contabilità sanitaria avanzata, che appartiene a moduli specifici. Serve però evitare di ignorare la sanità quando si parla di bilancio regionale.
+
+## N-FL02-05-06 · Rendiconto, controlli e parifica
+
+Il controllo non è un evento collocato soltanto alla fine. Durante la gestione verifica regolarità, coerenza con gli obiettivi, permanenza degli equilibri e qualità delle evidenze; a consuntivo valuta risultati e scostamenti. Il rendiconto rende leggibile ciò che è accaduto, mentre il controllo utilizza quella rappresentazione insieme agli atti e ai dati gestionali per formulare valutazioni e, quando previsto, richiedere misure correttive.
+
+Nella prova conviene distinguere controllo interno, controllo politico-consiliare e controllo esterno. Cambiano soggetto, oggetto, momento ed effetto. La parifica appartiene al controllo esterno sul rendiconto regionale e non sostituisce né l'approvazione consiliare né l'eventuale giudizio di responsabilità.
 
 ### Rendiconto generale e bilancio consolidato
 Il rendiconto generale chiude il ciclo della gestione regionale. Se il bilancio di previsione guarda al futuro e autorizza, il rendiconto guarda alla gestione svolta e dimostra i risultati.
@@ -307,7 +356,7 @@ Non tutti questi controlli hanno la stessa base o lo stesso ufficio competente. 
 ### Corte dei conti e controlli regionali
 Nei concorsi M-FL02 la Corte dei conti va studiata soprattutto come organo di controllo sui conti regionali, oltre che come giudice della responsabilità.
 
-Il D.L. 174/2012, come consolidato nella source note del wiki, rafforza il controllo della Corte dei conti sulla gestione finanziaria delle Regioni. I nuclei da ricordare sono:
+Il D.L. 174/2012, convertito dalla L. 213/2012, rafforza il controllo della Corte dei conti sulla gestione finanziaria delle Regioni. I nuclei da ricordare sono:
 
 - relazione delle sezioni regionali sulle coperture finanziarie delle leggi regionali;
 - esame di bilanci preventivi e rendiconti consuntivi delle Regioni e degli enti del Servizio sanitario nazionale;
@@ -322,6 +371,8 @@ Risposta breve:
 
 > La Corte dei conti controlla il ciclo finanziario regionale attraverso le sezioni regionali di controllo, con attenzione a coperture delle leggi, bilanci, rendiconti, equilibri, indebitamento, sanità, partecipate e parificazione del rendiconto. Separatamente, esercita anche funzioni giurisdizionali in materia contabile.
 
+## N-FL02-05-07 · Responsabilità, metodo operativo e casi
+
 ### Responsabilità, danno erariale e agente contabile
 La responsabilità erariale e contabile completa il quadro, ma non lo sostituisce.
 
@@ -335,7 +386,7 @@ La responsabilità contabile riguarda chi maneggia denaro, beni o valori pubblic
 - la responsabilità erariale non coincide con responsabilità disciplinare, civile o penale;
 - per le regole puntuali occorre verificare testo vigente e giurisprudenza contabile.
 
-La L. 7 gennaio 2026, n. 1 è richiamata nelle fonti consolidate come aggiornamento da considerare sui capitoli di Corte dei conti e responsabilità. Nel testo didattico va usata con prudenza: segnala l'esigenza di verifica, non autorizza semplificazioni.
+La disciplina della Corte dei conti e della responsabilità amministrativa è stata interessata dalla L. 7 gennaio 2026, n. 1. Nelle prove che richiedono il diritto vigente occorre distinguere con precisione le funzioni di controllo da quelle giurisdizionali e verificare l'applicabilità temporale delle singole disposizioni, senza ricavare regole generali dal solo titolo della riforma.
 
 ### Tavola ciclo finanziario regionale
 
@@ -346,7 +397,7 @@ La L. 7 gennaio 2026, n. 1 è richiamata nelle fonti consolidate come aggiorname
 | Autorizzazione | Legge di stabilità regionale, legge di bilancio, bilancio di previsione | Consiglio regionale, su iniziativa e proposta secondo ordinamento | Copertura, equilibri, vincoli. |
 | Gestione | Determinazioni, accertamenti, impegni, avvisi, concessioni | Direzioni, dirigenti, strutture competenti | Regolarità amministrativa e contabile. |
 | Esecuzione | Progetti, affidamenti, trasferimenti, liquidazioni, pagamenti | Uffici regionali, beneficiari, soggetti attuatori | Tracciabilità, documenti, ammissibilità spesa. |
-| Monitoraggio | Report, indicatori, stati avanzamento, rendicontazioni | Strutture competenti, organismi di controllo | Risultati, tempi, scostamenti. |
+| Monitoraggio | Relazioni, indicatori, stati di avanzamento, rendicontazioni | Strutture competenti, organismi di controllo | Risultati, tempi, scostamenti. |
 | Rendiconto | Rendiconto generale e allegati | Organi regionali secondo disciplina vigente | Risultati della gestione. |
 | Controllo esterno | Parifica, relazioni, deliberazioni, referti | Corte dei conti | Equilibri, regolarità, efficacia, efficienza. |
 
@@ -498,24 +549,87 @@ Soluzione guida:
 - So distinguere controlli interni, parifica, controllo Corte dei conti e responsabilità erariale.
 - So costruire una tavola ciclo finanziario regionale.
 
-### Riferimenti consolidati
-- [[sources/armonizzazione-contabile-enti-territoriali-d-lgs-118-2011]]
-- [[sources/principi-costituzionali-finanza-pubblica-art-81-97-119]]
-- [[sources/decreto-legge-10-ottobre-2012-n-174-controlli-enti-territoriali]]
-- [[sources/corte-conti-controlli-responsabilita-agenti-contabili]]
-- [[sources/d-lgs-26-agosto-2016-n-174-codice-di-giustizia-contabile]]
-- [[sources/legge-7-gennaio-2026-n-1-corte-dei-conti-e-responsabilita-erariale]]
-- [[sources/pagamenti-tracciabilita-contratti-pnrr-rendicontazione]]
-- [[sources/legge-31-dicembre-2009-n-196-contabilita-finanza-pubblica]]
-- [[sources/bandi-inpa-vol-02-campione-2026]]
-- [[sources/vol-02-dossier-redazionale-enti-locali-polizia-locale]]
-- [[topics/contabilita-pubblica]]
-- [[entities/regione]]
+## ▣ Verifica
 
-### Note di review
-- Prima della pubblicazione finale verificare su Normattiva il testo vigente del D.Lgs. 118/2011, soprattutto per DEFR, bilancio di previsione regionale, schemi armonizzati, rendiconto generale, perimetrazione sanitaria e bilancio consolidato.
-- Verificare su RGS/Arconet eventuali aggiornamenti agli allegati e ai principi applicati del D.Lgs. 118/2011.
-- Verificare su Normattiva e Corte dei conti eventuali modifiche o orientamenti recenti su D.L. 174/2012, parifica dei rendiconti regionali, relazioni sulle coperture e controlli sulle Regioni.
-- Se il bando riguarda una Regione specifica, integrare solo fonti ufficiali locali: statuto, legge di contabilità regionale, regolamento contabile, DEFR, legge di stabilità, bilancio, rendiconto, deliberazioni Corte dei conti relative alla Regione.
-- Per fondi UE, PNRR, ReGiS e DNSH non anticipare dettagli: i capitoli 07 e 08 svilupperanno il tema. Qui mantenere il focus sul ciclo finanziario e sulla rendicontazione.
-- Per responsabilità erariale e Legge 7 gennaio 2026, n. 1 usare prudenza: verificare il testo vigente e gli effetti applicativi prima di citazioni puntuali.
+### Quiz 1
+
+**Quale affermazione distingue correttamente copertura finanziaria ed equilibrio di bilancio?**
+
+A. La copertura riguarda il singolo nuovo onere, mentre l'equilibrio considera il complesso delle entrate, delle spese e dei relativi effetti nel tempo.  
+B. Sono espressioni perfettamente equivalenti.  
+C. La copertura riguarda soltanto il rendiconto.  
+D. L'equilibrio interessa soltanto le entrate tributarie.
+
+**Risposta corretta: A.** La copertura individua mezzi idonei rispetto a uno specifico onere; l'equilibrio valuta la sostenibilità complessiva dei conti. Una copertura formalmente indicata non elimina la necessità di verificare attendibilità, durata ed effetti sugli esercizi interessati.
+
+### Quiz 2
+
+**Qual è la funzione centrale dell'armonizzazione prevista dal D.Lgs. 118/2011?**
+
+A. Rendere confrontabili e raccordabili i sistemi contabili mediante principi e schemi comuni.  
+B. Sostituire ogni legge regionale di contabilità.  
+C. Eliminare la contabilità finanziaria.  
+D. Affidare alla Corte dei conti la gestione del bilancio.
+
+**Risposta corretta: A.** L'armonizzazione costruisce un linguaggio contabile comune e favorisce consolidamento, trasparenza e coordinamento. Non cancella l'autonomia organizzativa regionale né trasferisce agli organi di controllo le funzioni gestionali.
+
+### Quiz 3
+
+**Dove si colloca il DEFR nel ciclo regionale?**
+
+A. Nella programmazione economico-finanziaria che raccorda indirizzi e successivi documenti di bilancio.  
+B. Soltanto nella fase di pagamento.  
+C. Dopo la decisione di parifica.  
+D. Tra gli atti propri dell'agente contabile.
+
+**Risposta corretta: A.** Il DEFR esplicita il quadro e gli obiettivi della programmazione regionale. Per rispondere bene occorre collegarlo al bilancio e agli atti settoriali, non descriverlo come documento isolato.
+
+### Quiz 4
+
+**Quale sequenza descrive meglio la gestione di una spesa regionale?**
+
+A. Stanziamento, impegno, liquidazione, ordinazione e pagamento, secondo i presupposti applicabili.  
+B. Pagamento, programmazione, impegno e rendiconto.  
+C. Parifica, concessione, previsione e liquidazione.  
+D. Impegno, legge di bilancio e DEFR.
+
+**Risposta corretta: A.** La sequenza collega autorizzazione e gestione. Nella pratica ciascun passaggio richiede competenza, documentazione e controlli; la mera presenza dello stanziamento non autorizza un pagamento privo dei necessari presupposti.
+
+### Quiz 5
+
+**Perché un contributo vincolato richiede una tracciabilità rafforzata?**
+
+A. Perché fonte, finalità, spese ammissibili, avanzamento e rendicontazione devono restare collegati.  
+B. Perché può essere usato liberamente per ogni spesa regionale.  
+C. Perché non entra mai nel bilancio.  
+D. Perché esclude ogni controllo sul beneficiario.
+
+**Risposta corretta: A.** Il vincolo limita l'impiego delle risorse e rende essenziale documentare l'intera catena. L'eventuale collegamento a fondi europei o PNRR può aggiungere obblighi specifici, che vanno verificati sulla fonte del finanziamento.
+
+### Quiz 6
+
+**Che cosa rappresenta la parifica del rendiconto regionale?**
+
+A. Un momento del controllo esterno della Corte dei conti sul rendiconto generale regionale.  
+B. L'approvazione di un avviso pubblico.  
+C. Un controllo preventivo su ogni determinazione dirigenziale.  
+D. Il giudizio di responsabilità contro ogni funzionario.
+
+**Risposta corretta: A.** La parifica appartiene alla funzione di controllo sul rendiconto e non coincide con il giudizio di responsabilità amministrativo-contabile. Distinguere controllo e giurisdizione evita uno degli errori più frequenti nelle prove orali.
+
+### Caso ragionato finale
+
+La Regione vuole finanziare per tre esercizi interventi comunali di messa in sicurezza. La proposta indica un fondo, ma non chiarisce il fabbisogno annuale, la fonte delle risorse, il cronoprogramma né i documenti richiesti per il saldo. Come deve impostare l'istruttoria il funzionario?
+
+**Soluzione ragionata.** Il funzionario deve anzitutto collegare la misura alla programmazione regionale e quantificare gli oneri per ciascun esercizio. Deve poi verificare la copertura, la coerenza con gli stanziamenti e gli equilibri, distinguendo l'autorizzazione legislativa dagli atti gestionali. L'avviso dovrà definire beneficiari, criteri, spese ammissibili, tempi, obblighi di monitoraggio e cause di revoca o recupero. L'impegno seguirà il perfezionamento dell'obbligazione e l'imputazione coerente con l'esigibilità; liquidazione e saldo richiederanno la verifica della prestazione o della rendicontazione. Infine, fascicolo, risultati e movimenti finanziari dovranno consentire i controlli interni, la verifica sul rendiconto e gli eventuali controlli esterni. La risposta è completa soltanto se tiene insieme politica pubblica, documento finanziario, atto competente, esecuzione, prova della spesa e controllo.
+
+## Riferimenti normativi e professionali essenziali
+
+- Costituzione della Repubblica italiana, artt. 81, 97 e 119.
+- Decreto legislativo 23 giugno 2011, n. 118, con i relativi principi contabili applicati.
+- Decreto-legge 10 ottobre 2012, n. 174, convertito dalla legge 7 dicembre 2012, n. 213.
+- Decreto legislativo 26 agosto 2016, n. 174, Codice di giustizia contabile.
+- Legge 31 dicembre 2009, n. 196, per il quadro generale della contabilità e della finanza pubblica.
+- Documenti e aggiornamenti della Ragioneria generale dello Stato e della Commissione Arconet.
+- Deliberazioni e relazioni della sezione regionale di controllo della Corte dei conti competente.
+- Statuto, legge di contabilità, regolamenti e documenti finanziari ufficiali della Regione interessata dal bando.
