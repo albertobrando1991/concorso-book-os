@@ -92,3 +92,39 @@ La matrice applica il gate di copertura integrale ai dodici capitoli del modulo.
 | N-FL02-02-05 | parziale | applicato l'art. 4 alla sequenza completa del programma di contributi | completo | § N-FL02-02-05; Quiz 5 e caso |
 | N-FL02-02-06 | parziale | distinta la natura dei soggetti e aggiunta la griglia dei controlli | completo | § N-FL02-02-06; Quiz 6 e caso |
 | N-FL02-02-07 | avanzato | consolidati metodo, quiz e casi guidati | completo | § N-FL02-02-07; blocco ▣ Verifica |
+
+## Dettaglio Formato 2 — capitolo 03
+
+| Nucleo ID | Famiglia/profilo | Materia | Concetto/sotto-concetti | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FL02-03-01 | M-FL02/tutti | Metodo di competenza | materia; competenza; funzione; livello; atto | [[sources/costituzione-repubblica-italiana-testo-vigente]] | Cap. 03 § N-FL02-03-01 | definizioni, differenze e sequenza di analisi | trasporto scolastico montano | classificazione M-C-F e scelta dell'atto | Q:1 C:1 E:1 — Quiz 1 e caso trasporto | completo | Costituzione e disciplina settoriale target |
+| N-FL02-03-02 | M-FL02/legislativo | Riparto legislativo | esclusiva statale; concorrente; residuale regionale; limiti | [[sources/costituzione-repubblica-italiana-testo-vigente]] | Cap. 03 § N-FL02-03-02 | struttura dell'art. 117 e metodo di qualificazione | politica di rigenerazione urbana | risposta orale sul riparto | Q:1 C:0 E:1 — Quiz 2 e sequenza di qualificazione | completo | Costituzione vigente e audit specialistico |
+| N-FL02-03-03 | M-FL02/amministrativo | Funzioni amministrative | art. 118; sussidiarietà; differenziazione; adeguatezza; esercizio unitario | [[sources/costituzione-repubblica-italiana-testo-vigente]]; [[sources/legge-5-giugno-2003-n-131-attuazione-titolo-v]] | Cap. 03 § N-FL02-03-03 | criteri di allocazione e sostenibilità del conferimento | servizi locali e rete sovracomunale | motivazione del livello adeguato | Q:1 C:1 E:1 — Quiz 3 e tabella dei fattori | completo | Costituzione e art. 7 L. 131/2003 |
+| N-FL02-03-04 | M-FL02/tutti | Raccordo istituzionale | leale collaborazione; conferenza; intesa; accordo; convenzione | [[sources/legge-5-giugno-2003-n-131-attuazione-titolo-v]] | Cap. 03 § N-FL02-03-04 | principio, strumenti, effetti e distinzioni | programma che coinvolge più livelli | scelta motivata dello strumento | Q:1 C:1 E:1 — Quiz 4 e tabella del raccordo | completo | D.Lgs. 281/1997 e fonte settoriale da auditare |
+| N-FL02-03-05 | M-FL02/amministrativo | Regione ed enti locali | autonomia; conferimento; delega; coordinamento; finanziamento; controllo | [[sources/legge-5-giugno-2003-n-131-attuazione-titolo-v]]; [[sources/d-lgs-18-agosto-2000-n-267-enti-locali]] | Cap. 03 § N-FL02-03-05 | rapporti funzionali senza gerarchia generale | programma regionale attuato dai Comuni | tabella Regione-ente-atto-controllo | Q:1 C:1 E:1 — Quiz 5 e caso servizi sociali | completo | fonti statali, regionali e programma target |
+| N-FL02-03-06 | M-FL02/tutti | Garanzie unitarie e territorio | livelli essenziali; area vasta; Comuni; poteri sostitutivi | [[sources/costituzione-repubblica-italiana-testo-vigente]]; [[sources/legge-56-2014-province-citta-metropolitane]] | Cap. 03 § N-FL02-03-06 | unità, prossimità, area vasta e sostituzione | viabilità e garanzie uniformi | risposta su scala e limiti | Q:1 C:1 E:1 — Quiz 6 e caso area vasta | completo | artt. 117-120 Cost. e L. 56/2014 |
+| N-FL02-03-07 | M-FL02/tutti | Applicazione integrata | soggetto; fonte; funzione; livello; raccordo; atto; controllo | fonti dei nuclei 01-06 | Cap. 03 § N-FL02-03-07 | metodo completo di soluzione | servizi sociali, viabilità e mobilità | schema, orale, esercizio e caso ragionato | Q:6 C:3 E:1 — Quiz 1-6 e casi ragionati | completo | audit trasversale automatico |
+
+## Checklist dimensionale — capitolo 03
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso nella prova | Errore tipico | Verifica | Fonti |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FL02-03-01 | ✓ cinque categorie | ✓ ordinare il caso | ✓ sistema territoriale | ✓ materia, competenza, funzione, livello, atto | ✓ ambito/potere/attività | ✓ attribuzione motivata | ✓ trasporto montano | ✓ griglia M-C-F | ✓ nome materia come risposta | ✓ Quiz 1 | ✓ frontmatter e riferimenti finali |
+| N-FL02-03-02 | ✓ tre titoli legislativi | ✓ individuare la fonte | ✓ art. 117 Cost. | ✓ oggetto, finalità, limiti, intrecci | ✓ legislazione/amministrazione | ✓ corretta qualificazione | ✓ rigenerazione urbana | ✓ risposta orale | ✓ elenco mnemonico | ✓ Quiz 2 | ✓ frontmatter e riferimenti finali |
+| N-FL02-03-03 | ✓ allocazione amministrativa | ✓ scegliere il livello | ✓ art. 118 Cost. e L. 131/2003 | ✓ scala, capacità, risorse, esercizio unitario | ✓ prossimità/adeguatezza | ✓ conferimento sostenibile | ✓ rete sovracomunale | ✓ motivazione del caso | ✓ tutto sempre comunale | ✓ Quiz 3 | ✓ frontmatter e riferimenti finali |
+| N-FL02-03-04 | ✓ leale collaborazione | ✓ raccordare competenze | ✓ rapporti multilivello | ✓ conferenza, intesa, accordo, convenzione | ✓ principio/strumento/esito | ✓ decisione coordinata | ✓ programma comune | ✓ scelta dello strumento | ✓ sinonimi liberi | ✓ Quiz 4 | ✓ frontmatter e riferimenti finali |
+| N-FL02-03-05 | ✓ rapporto funzionale | ✓ distribuire compiti | ✓ autonomie territoriali | ✓ conferimento, delega, finanziamento, controllo | ✓ autonomia/gerarchia | ✓ responsabilità per fase | ✓ servizi sociali | ✓ tabella della catena | ✓ finanziamento uguale comando | ✓ Quiz 5 | ✓ frontmatter e riferimenti finali |
+| N-FL02-03-06 | ✓ garanzie e scale | ✓ tutelare unità e territorio | ✓ artt. 117-120 Cost. | ✓ livelli, area vasta, prossimità, sostituzione | ✓ competenza ordinaria/eccezione | ✓ scelta proporzionata | ✓ viabilità secondaria | ✓ risposta sui limiti | ✓ sostituzione generale | ✓ Quiz 6 | ✓ frontmatter e riferimenti finali |
+| N-FL02-03-07 | ✓ metodo soggetto-funzione-atto | ✓ risolvere tracce | ✓ sintesi dei nuclei | ✓ fonte, livello, raccordo, atto, controllo | ✓ materia/funzione; risorse/competenza | ✓ soluzione completa | ✓ tre casi e mini-esercizio | ✓ schema e orale | ✓ risposta con un solo ente | ✓ Quiz 1-6 e caso | ✓ frontmatter e riferimenti finali |
+
+## Delta step 10 — capitolo 03
+
+| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
+| --- | --- | --- | --- | --- |
+| N-FL02-03-01 | avanzato | aggiunti livello, atto, sequenza e caso | completo | § N-FL02-03-01; Quiz 1 |
+| N-FL02-03-02 | avanzato | sviluppati titoli legislativi, intrecci, limiti e metodo | completo | § N-FL02-03-02; Quiz 2 |
+| N-FL02-03-03 | avanzato | integrati criteri, fattori e sostenibilità del conferimento | completo | § N-FL02-03-03; Quiz 3 |
+| N-FL02-03-04 | parziale | distinte forme, funzioni ed esiti del raccordo | completo | § N-FL02-03-04; Quiz 4 |
+| N-FL02-03-05 | avanzato | ricomposte responsabilità regionali e locali per fase | completo | § N-FL02-03-05; Quiz 5 |
+| N-FL02-03-06 | parziale | distinti livelli essenziali, area vasta e sostituzione | completo | § N-FL02-03-06; Quiz 6 |
+| N-FL02-03-07 | avanzato | consolidati metodo, esercizio, quiz e casi | completo | § N-FL02-03-07; blocco ▣ Verifica |
