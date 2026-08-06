@@ -9,7 +9,7 @@ entities: ["Regione", "Dirigente pubblico", "Responsabile del procedimento", "Le
 source_refs: ["sources/legge-241-1990-procedimento-amministrativo.md", "sources/legge-7-agosto-1990-n-241-procedimento-amministrativo-e-accesso-ai-documenti-amministrativi-testo-vigente-normattiva.md", "sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego.md", "sources/d-lgs-7-marzo-2005-n-82-amministrazione-digitale.md", "sources/legge-2-dicembre-2025-n-182-semplificazione-e-digitalizzazione-procedimenti.md", "sources/bandi-inpa-vol-02-campione-2026.md", "sources/vol-02-dossier-redazionale-enti-locali-polizia-locale.md"]
 book_refs: ["m-fl02-regioni-province-citta-metropolitane", "vol-02-enti-locali-polizia-locale", "il-metodo-bando"]
 confidence: 0.85
-updated_at: 2026-07-20T11:00:00+02:00
+updated_at: 2026-08-06
 created_at: 2026-07-17T17:30:00+02:00
 review_required: true
 canonical: true
@@ -17,7 +17,9 @@ tags: ["book-chapter", "module-code-m-fl02", "revised-draft", "professional-draf
 book_id: m-fl02-regioni-province-citta-metropolitane
 outline_section: 4
 volume_chapter: 21
-draft_stage: professional-draft
+draft_stage: professional-draft-complete
+format_version: 2
+dati_operativi: []
 module_code: M-FL02
 module_family: funzioni-locali
 companion_to: il-metodo-bando
@@ -26,33 +28,7 @@ last_compiled_from: ["wiki/books/moduli/m-fl02-regioni-province-citta-metropolit
 
 # Procedimenti, atti e organizzazione amministrativa regionale
 
-## Specifica struttura madre
-
-### Obiettivo
-Trasformare il procedimento amministrativo generale in procedimenti regionali concreti: deliberazioni, decreti, determinazioni, avvisi, bandi, atti di programmazione e provvedimenti verso cittadini, imprese ed enti locali.
-
-### Nuclei
-- Procedimento amministrativo applicato alla Regione.
-- Deliberazioni, decreti, determinazioni e atti dirigenziali.
-- Avvisi e bandi regionali: istruttoria, graduatoria, concessione, controllo.
-- Organizzazione amministrativa, responsabile del procedimento e dirigenza.
-- Rapporto tra atto politico-amministrativo e atto gestionale.
-
-### Output operativo
-Schema procedimento-atto; mini-relazione istruttoria; caso su avviso regionale.
-
-### Riferimenti consolidati
-- [[sources/legge-241-1990-procedimento-amministrativo]]
-- [[sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego]]
-- [[topics/procedimento-amministrativo]]
-- [[entities/regione]]
-
-## Scheda di lavoro
-Il capitolo riusa il diritto amministrativo del VOL-01 senza ripeterlo. Il valore aggiunto è l'applicazione regionale: atti di organi politici, atti dirigenziali, bandi, contributi, rapporti con altri enti e responsabilità istruttoria.
-
-I capitoli precedenti hanno costruito tre basi: la Regione dentro il sistema multilivello, la catena organo-fonte-competenza-atto e il rapporto tra funzioni regionali, Stato ed enti locali. Ora queste basi diventano procedimento: come una decisione regionale nasce, viene istruita, formalizzata, pubblicata, attuata e controllata.
-
-## Testo editoriale
+## Guida al capitolo
 
 ### Apertura editoriale
 Il procedimento regionale è il punto in cui la teoria amministrativa diventa lavoro d'ufficio. Una Regione non "decide" in modo generico. Decide attraverso organi, strutture, responsabili del procedimento, dirigenti, atti di indirizzo, atti gestionali, pareri, controlli, pubblicazioni, comunicazioni, avvisi, graduatorie e rendicontazioni.
@@ -68,7 +44,7 @@ Il capitolo serve a evitare tre errori:
 Nel Metodo BANDO, la risposta deve sempre produrre una catena: soggetto, procedimento, atto, destinatario, controllo.
 
 ### Obiettivo del capitolo
-Al termine del capitolo devi saper fare sette operazioni:
+Al termine del capitolo dovrai saper svolgere queste operazioni:
 
 1. trasformare i principi della L. 241/1990 in un flusso regionale concreto;
 2. distinguere deliberazioni, decreti, determinazioni, avvisi, bandi, graduatorie e atti di concessione;
@@ -107,7 +83,9 @@ Se manca uno di questi passaggi, chiediti se la traccia lo presuppone. Nei casi 
 | D - Diario | Quali errori devo registrare? | Attribuire atti gestionali alla Giunta; dimenticare istruttoria; saltare pubblicazione e rendicontazione. |
 | O - Output | Cosa devo produrre? | Mini-relazione istruttoria, tabella procedimento-atto, caso guidato su contributo regionale. |
 
-### Il procedimento regionale: dalla regola generale al flusso operativo
+## N-FL02-04-01 · Il procedimento regionale come flusso operativo
+
+### Spiegazione teorica
 La L. 241/1990 fornisce la disciplina generale del procedimento amministrativo. Nei concorsi, i suoi nuclei principali sono principi dell'attività amministrativa, termini, responsabile del procedimento, partecipazione, comunicazione, istruttoria, motivazione, conferenza di servizi, silenzio, accesso e garanzie del provvedimento.
 
 Nel contesto regionale questi nuclei non cambiano natura, ma cambiano scala e contesto.
@@ -134,12 +112,32 @@ La struttura di base è questa:
 
 Il candidato deve saper collocare ogni documento dentro una fase. Un avviso non è la stessa cosa di una graduatoria; una graduatoria non è la stessa cosa di una concessione; una concessione non chiude necessariamente il procedimento se restano attuazione, spesa e rendicontazione.
 
-### Organizzazione regionale e procedimento
+Il flusso non è sempre lineare. Una richiesta di integrazione può riaprire l'istruttoria; un parere può imporre un approfondimento; un controllo può condurre a revoca o recupero. Per questo la rappresentazione corretta non è una semplice lista di documenti, ma una sequenza di decisioni, responsabilità e possibili ritorni alla fase precedente.
+
+La fase di avvio cambia secondo il tipo di procedimento. Nei procedimenti a istanza di parte l'amministrazione riceve una domanda e verifica presupposti, completezza e competenza. Nei procedimenti d'ufficio l'impulso deriva dalla legge, da un programma, da un controllo o da un atto dell'amministrazione. In entrambi i casi occorre individuare il termine applicabile, la struttura responsabile e le forme di partecipazione previste.
+
+| Controllo iniziale | Domanda operativa | Conseguenza |
+|---|---|---|
+| competenza | la struttura può curare il procedimento? | assegnazione corretta o trasmissione |
+| presupposto | esiste istanza, programma o fatto che avvia l'azione? | apertura e protocollazione |
+| termine | quale disciplina regola la conclusione? | pianificazione delle attività |
+| partecipazione | chi deve essere informato o coinvolto? | comunicazioni e osservazioni |
+| fascicolo | quali atti e dati devono essere raccolti? | tracciabilità dell'istruttoria |
+
+La conclusione richiede un provvedimento espresso quando previsto, sorretto dall'istruttoria e dalla motivazione. Silenzio, SCIA e altri regimi non sono scorciatoie generali: si applicano soltanto nei presupposti e con le esclusioni stabiliti dalla disciplina pertinente. In prova è preferibile dichiarare la necessità di questa verifica anziché estendere un istituto a qualunque procedimento regionale.
+
+Esempio: una domanda di contributo arriva sul portale regionale. La protocollazione attesta la ricezione; l'ufficio verifica tempestività e documenti; il responsabile coordina le attività; eventuali osservazioni o integrazioni entrano nel fascicolo; il dirigente adotta l'esito secondo competenza. Pubblicazione e comunicazione rispondono a funzioni diverse e vanno gestite entrambe quando richieste. Dopo la concessione restano attuazione e controllo.
+
+Il diario del procedimento deve infine registrare scadenze, attività compiute e questioni aperte. Questo consente al responsabile di prevenire inerzie e al dirigente di verificare se la decisione poggia su un'istruttoria completa. In una prova, indicare questo presidio mostra che il termine di conclusione non è un dato isolato, ma un vincolo da governare lungo tutto il flusso.
+
+Ogni variazione significativa deve restare riconoscibile nel fascicolo e collegata al soggetto che l'ha disposta.
+
+## N-FL02-04-02 · Organizzazione, responsabile del procedimento e dirigenza
 Nel capitolo 02 hai costruito lo schema organo-fonte-competenza-atto. Qui lo applichi al procedimento.
 
 La Regione agisce attraverso organi politici e strutture amministrative. La Giunta può definire indirizzi, criteri, programmi e priorità. Il Presidente può adottare atti presidenziali previsti dalla fonte. Il Consiglio può approvare leggi e atti assembleari. Le direzioni, i settori e gli uffici curano istruttoria, gestione e controlli. I dirigenti adottano gli atti gestionali secondo competenza.
 
-Il D.Lgs. 165/2001 è fondamentale per il metodo: gli organi di governo esercitano indirizzo politico-amministrativo e verificano risultati; ai dirigenti spettano atti e provvedimenti amministrativi, gestione finanziaria, tecnica e amministrativa, poteri di spesa, organizzazione delle risorse e controllo.
+Il D.Lgs. 165/2001 fornisce il criterio organizzativo: gli organi di governo esercitano indirizzo politico-amministrativo e verificano risultati; ai dirigenti spettano atti e provvedimenti amministrativi, gestione finanziaria, tecnica e amministrativa, poteri di spesa, organizzazione delle risorse e controllo.
 
 In un procedimento regionale questo significa:
 
@@ -149,7 +147,31 @@ In un procedimento regionale questo significa:
 - il responsabile del procedimento cura la sequenza procedimentale;
 - l'atto finale deve essere coerente con fonte, competenza, istruttoria e motivazione.
 
-### Deliberazioni, decreti e determinazioni
+Il responsabile del procedimento non coincide automaticamente con il dirigente che firma l'atto. Il primo cura l'ordinato svolgimento delle attività attribuitegli; il secondo esercita il potere decisionale quando l'organizzazione glielo assegna. In strutture complesse possono intervenire più uffici, ma deve restare identificabile il centro che coordina il procedimento.
+
+La distinzione serve anche a leggere il fascicolo. L'ufficio riceve e classifica documenti, compie verifiche, acquisisce elementi e prepara la proposta; il responsabile presidia completezza e tempi; il dirigente valuta l'istruttoria e adotta il provvedimento di competenza. Se occorre un atto politico-amministrativo, la struttura predispone la proposta tecnica senza sostituirsi all'organo.
+
+| Soggetto | Compito nel flusso | Limite |
+|---|---|---|
+| organo politico | indirizzo, programma o decisione riservata | non assorbe la gestione ordinaria |
+| direzione o settore | organizza e coordina l'ambito amministrativo | opera nelle attribuzioni ricevute |
+| responsabile del procedimento | cura istruttoria, comunicazioni e sequenza | non acquisisce poteri decisionali non assegnati |
+| dirigente | adotta atti gestionali e risponde della gestione | non ridefinisce l'indirizzo politico |
+| ufficio specialistico | rende parere o verifica tecnica | non sostituisce il titolare dell'atto finale |
+
+Una riorganizzazione può modificare uffici e responsabilità durante un procedimento. Occorre allora verificare gli atti organizzativi vigenti, la continuità del fascicolo e il nuovo titolare della competenza. Il nome riportato in un vecchio avviso non basta a fondare la firma di un atto successivo.
+
+Nel caso pratico, la risposta deve indicare non soltanto «il responsabile cura l'istruttoria», ma anche quali attività sono necessarie, chi decide e come i contributi degli altri uffici confluiscono nella motivazione. Questa mappa rende verificabile la responsabilità di ogni passaggio.
+
+La responsabilità organizzativa comprende anche la distribuzione dei carichi e la disponibilità delle competenze necessarie. Assegnare formalmente un procedimento a un ufficio privo di accesso ai dati o del supporto tecnico richiesto non assicura una gestione adeguata. La direzione deve predisporre raccordi, strumenti e sostituzioni coerenti con l'ordinamento interno.
+
+Quando partecipano più strutture, è utile distinguere ufficio procedente e uffici consultati. Il primo conserva il coordinamento e verifica che gli apporti arrivino in tempo; gli altri rispondono dei profili loro assegnati. L'assenza di un parere non può essere gestita con una regola inventata: effetti e rimedi dipendono dalla fonte che lo richiede.
+
+Un caso tipico riguarda un avviso con profili amministrativi, tecnici e finanziari. Il settore competente verifica requisiti e coordina; la struttura tecnica valuta i progetti; l'ufficio finanziario controlla le risorse; il dirigente adotta l'esito. Il responsabile tiene insieme il fascicolo e segnala criticità, senza assorbire le responsabilità specialistiche.
+
+In una risposta scritta conviene chiudere con una riga sulla competenza finale: «completata l'istruttoria e acquisiti gli apporti previsti, il dirigente competente adotta il provvedimento motivato». La formula resta prudente perché rinvia all'organizzazione dell'ente, ma rende chiaro il passaggio dall'attività preparatoria alla decisione.
+
+## N-FL02-04-03 · Deliberazioni, decreti, determinazioni e atti gestionali
 I tre termini compaiono spesso nei bandi. Vanno distinti in modo funzionale.
 
 La **deliberazione** è normalmente l'atto collegiale di un organo, come Giunta o Consiglio, secondo la fonte applicabile. In Regione può servire per indirizzi, programmi, criteri, approvazione di piani, decisioni generali o atti riservati alla competenza dell'organo.
@@ -169,7 +191,7 @@ Tabella di orientamento:
 | Graduatoria | Dirigente o struttura competente | Esito dell'istruttoria comparativa | Dimenticare motivazione, criteri e pubblicazione. |
 | Concessione | Dirigente o struttura competente | Attribuzione del beneficio o risorsa | Dimenticare obblighi e rendicontazione. |
 
-Questa tabella non sostituisce statuto, regolamento e ordinamento interno della Regione. Serve per ragionare in prova.
+La tabella orienta il ragionamento, ma non sostituisce statuto, regolamento e ordinamento interno della Regione.
 
 ### Atti di programmazione e atti gestionali
 Il cuore dei procedimenti regionali è spesso il rapporto tra programmazione e gestione.
@@ -189,10 +211,27 @@ Esempio:
 | Concessione | Provvedimento gestionale | Attribuisce il beneficio. |
 | Rendicontazione | Attività di controllo | Verifica spese, risultati e obblighi. |
 
-Questa distinzione è molto frequente nelle prove teorico-pratiche. Se la traccia chiede "predisporre una nota sugli atti necessari", la risposta deve separare gli atti generali dagli atti di gestione.
+Le prove teorico-pratiche richiedono spesso questa distinzione. Se la traccia chiede di predisporre una nota sugli atti necessari, la risposta deve separare gli atti generali da quelli di gestione.
 
-### Avvisi e bandi regionali
-Nel linguaggio quotidiano si dice spesso "bando regionale". Nel lavoro amministrativo bisogna essere più precisi. L'avviso o bando regionale è lo strumento con cui la Regione apre una procedura rivolta a beneficiari o partecipanti: Comuni, imprese, cittadini, enti del terzo settore, organismi formativi, Province, Città metropolitane o altri soggetti.
+La denominazione dell'atto non è sufficiente. Una deliberazione può avere contenuti diversi a seconda dell'organo e della fonte; un decreto può essere presidenziale o appartenere ad altra tipologia prevista dall'ordinamento; una determinazione deve essere ricondotta al dirigente e alla materia assegnata. Il candidato deve leggere soggetto, base normativa, contenuto ed effetti.
+
+La motivazione collega presupposti, istruttoria e decisione. Negli atti gestionali deve mostrare come criteri e fatti conducono all'esito. Il richiamo a una deliberazione non sostituisce la spiegazione sul singolo caso, così come la formula «vista la normativa» non dimostra che requisiti e interessi siano stati valutati.
+
+| Passaggio | Atto possibile | Contenuto da verificare |
+|---|---|---|
+| definizione della politica | deliberazione o piano | obiettivi, risorse, criteri generali |
+| apertura della procedura | determinazione e avviso | requisiti, termini, modalità e controlli |
+| esito istruttorio | verbale, proposta o elenco | verifiche, punteggi, ammissioni ed esclusioni |
+| decisione | determinazione, graduatoria, concessione o diniego | competenza, motivazione ed effetti |
+| esecuzione | convenzione, liquidazione o altro atto gestionale | obblighi, condizioni e tracciabilità |
+| controllo | verifica, revoca o recupero se dovuti | presupposti, contraddittorio e conseguenze |
+
+L'efficacia e la conoscibilità dell'atto sono questioni distinte. Pubblicazione, comunicazione individuale e trasparenza rispondono a discipline e finalità diverse. Nella prova non si deve affermare che ogni atto produce effetti con la sola pubblicazione sul portale: occorre verificare la regola applicabile e il tipo di destinatario.
+
+Un esempio chiarisce la catena. La Giunta approva un programma con obiettivi e criteri. Il dirigente adotta l'avviso, la struttura svolge l'istruttoria e lo stesso dirigente, se competente, approva la graduatoria e le concessioni. Ogni atto conserva una funzione propria; riunirli sotto l'etichetta «delibera regionale» nasconde competenze e responsabilità.
+
+## N-FL02-04-04 · Avvisi, bandi, graduatorie e concessioni
+Nel linguaggio quotidiano si parla spesso di "bando regionale". Nel lavoro amministrativo serve maggiore precisione. L'avviso o bando è lo strumento con cui la Regione apre una procedura rivolta a beneficiari o partecipanti: Comuni, imprese, cittadini, enti del terzo settore, organismi formativi, Province, Città metropolitane o altri soggetti.
 
 Un avviso serio contiene almeno:
 
@@ -214,9 +253,38 @@ Un avviso serio contiene almeno:
 - trattamento dei dati e pubblicità;
 - riferimenti a piattaforma digitale o canale di trasmissione.
 
-In prova non devi scrivere un avviso completo se non richiesto. Devi però riconoscere la sua logica: l'avviso traduce una scelta programmatoria in una procedura amministrativa accessibile e controllabile.
+La prova non richiede un avviso completo, salvo indicazione espressa. Richiede però di riconoscerne la logica: l'avviso traduce una scelta programmatoria in una procedura accessibile e controllabile.
 
-### Istruttoria, responsabile del procedimento e uffici
+I criteri devono essere determinati prima della valutazione delle domande e applicati in modo coerente. Requisiti di ammissibilità e criteri di merito non coincidono: i primi stabiliscono chi può partecipare e quali proposte entrano nell'esame; i secondi consentono di valutare o ordinare le domande ammesse. Confonderli rende poco trasparente la graduatoria.
+
+| Fase | Controllo | Esito possibile |
+|---|---|---|
+| ricezione | termine, canale, firma e documenti | domanda ricevibile o tardiva |
+| ammissibilità | soggetto, requisiti e intervento | ammissione o esclusione motivata |
+| valutazione | criteri e punteggi predeterminati | posizione in graduatoria |
+| finanziamento | risorse disponibili e condizioni | concessione o mancato finanziamento |
+| attuazione | obblighi, tempi e variazioni ammesse | prosecuzione, sospensione o modifica |
+| rendicontazione | spese, risultati e documentazione | saldo, riduzione, revoca o recupero |
+
+La graduatoria fotografa l'esito della valutazione, ma non sempre coincide con la concessione del beneficio. Occorre distinguere idoneità, posizione utile, disponibilità finanziaria e successivo provvedimento. La disciplina dell'avviso chiarisce quando nasce l'obbligo del beneficiario e quali condizioni precedono l'erogazione.
+
+Le cause di esclusione devono derivare dalla fonte e dall'avviso, non da preferenze emerse durante l'istruttoria. Se è possibile chiedere un'integrazione, l'amministrazione deve operare entro i limiti previsti senza alterare la parità tra partecipanti. Il candidato deve evitare formule assolute sul soccorso documentale quando la disciplina specifica non è fornita.
+
+Nel caso di un Comune beneficiario, l'atto può richiedere progetto, cronoprogramma, quadro finanziario e impegni di rendicontazione. Per un'impresa possono rilevare requisiti e vincoli diversi. Il procedimento resta unitario nel metodo, ma documenti e controlli dipendono dal destinatario e dalla misura.
+
+La costruzione dell'avviso richiede coerenza con il programma che lo finanzia. Finalità, beneficiari, interventi e criteri non possono allontanarsi dall'atto presupposto. Se la dotazione è ripartita per linee o territori, l'avviso deve spiegare il meccanismo e consentire di ricostruire l'ordine di finanziamento.
+
+La fase di ricezione deve preservare certezza del termine e parità di trattamento. Il sistema registra invio e ricezione; l'ufficio applica le regole dell'avviso. Problemi tecnici, irregolarità formali e integrazioni vanno gestiti secondo la disciplina pertinente, senza introdurre eccezioni non previste per il singolo partecipante.
+
+La commissione o il gruppo di valutazione, quando previsto, opera secondo composizione, criteri e regole applicabili. Verbali e schede devono rendere comprensibili punteggi e giudizi. L'organo valutatore non sostituisce necessariamente il dirigente competente all'approvazione dell'esito: occorre distinguere valutazione tecnica e adozione del provvedimento.
+
+Dopo la graduatoria possono emergere scorrimenti, rinunce o economie. Anche questi passaggi richiedono base nell'avviso e atti tracciabili. Il candidato non deve promettere automaticamente il finanziamento a ogni soggetto idoneo: posizione, risorse e condizioni della misura determinano l'esito concreto.
+
+La concessione definisce beneficio, obblighi, tempi e condizioni. Se è prevista una convenzione, questa disciplina l'attuazione senza sostituire il provvedimento che attribuisce il beneficio. Erogazioni intermedie e saldo dipendono dalle verifiche stabilite. Revoca e recupero richiedono presupposti, motivazione e garanzie coerenti con la fonte.
+
+La chiusura della misura deve inoltre documentare risorse utilizzate, risultati e posizioni ancora pendenti.
+
+## N-FL02-04-05 · Istruttoria, pareri, controlli e raccordi interni
 L'istruttoria è il centro tecnico del procedimento. Non è un passaggio burocratico secondario. È la fase in cui l'amministrazione raccoglie documenti, verifica requisiti, valuta interessi, acquisisce pareri, chiede integrazioni, controlla dichiarazioni e prepara la decisione.
 
 Il responsabile del procedimento cura lo svolgimento della sequenza procedimentale secondo la disciplina applicabile. Nei concorsi non sempre viene chiesto di citarne tutti i compiti; viene invece chiesto di capire perché il procedimento deve avere un centro di responsabilità organizzativa.
@@ -239,11 +307,11 @@ La mini-regola è:
 > l'istruttoria collega la domanda alla decisione; senza istruttoria, l'atto finale resta privo di base motivazionale e organizzativa.
 
 ### Pareri, controlli e raccordi interni
-Molti procedimenti regionali richiedono pareri o verifiche interne. Non devi inventare pareri obbligatori, ma devi sapere che possono entrare in gioco.
+Molti procedimenti regionali richiedono pareri o verifiche interne. La risposta deve considerarli senza inventare obblighi non previsti.
 
 Esempi:
 
-- parere tecnico sulla fattibilita o coerenza dell'intervento;
+- parere tecnico sulla fattibilità o coerenza dell'intervento;
 - verifica finanziaria o contabile;
 - controllo su copertura e compatibilità con programma o bilancio;
 - parere legale su schema di convenzione o accordo;
@@ -254,7 +322,31 @@ Esempi:
 
 In prova, se non conosci la fonte specifica, non scrivere "è obbligatorio il parere X". Scrivi invece: "vanno acquisiti i pareri e le verifiche previsti dalla disciplina regionale, dal regolamento organizzativo e dall'atto di programmazione".
 
-### Cittadini, imprese ed enti locali come destinatari
+L'istruttoria deve essere pertinente e proporzionata. L'amministrazione raccoglie gli elementi necessari alla decisione, evita richieste prive di relazione con il procedimento e documenta gli accertamenti compiuti. Se emergono elementi contrari all'istanza, applica le garanzie partecipative previste per quel tipo di procedimento.
+
+Una buona nota istruttoria distingue fatti accertati, norme applicabili, valutazioni tecniche e proposta finale. Mescolare questi piani rende difficile capire se la decisione deriva da un requisito mancante, da un giudizio di merito o da una carenza di risorse. La motivazione finale deve poter richiamare un percorso leggibile.
+
+I pareri vanno qualificati. Occorre sapere chi li rende, su quale profilo, in quale fase e con quale effetto secondo la fonte. Un controllo finanziario non sostituisce una valutazione tecnica; un parere legale non assume la decisione gestionale; il responsabile del procedimento coordina gli apporti ma non attribuisce loro un'efficacia diversa da quella prevista.
+
+| Apporto | Oggetto | Uso nel provvedimento |
+|---|---|---|
+| verifica amministrativa | requisiti e documenti | ammissione o esclusione |
+| valutazione tecnica | qualità e fattibilità | punteggio o giudizio motivato |
+| verifica finanziaria | risorse e compatibilità | sostenibilità dell'atto |
+| parere legale | questioni giuridiche specifiche | supporto alla motivazione |
+| controllo successivo | spesa e obblighi | saldo, rilievo o provvedimento conseguente |
+
+Il conflitto di interessi deve essere gestito secondo la disciplina applicabile. La tracciabilità delle assegnazioni e delle valutazioni aiuta a dimostrare imparzialità. In prova è sufficiente riconoscere il problema e indicare verifica e astensione quando dovute, senza inventare procedure interne.
+
+Il controllo non è un'aggiunta finale. Già nella progettazione dell'avviso vanno definiti obblighi, documenti, indicatori e conseguenze. Così il beneficiario conosce le condizioni e l'amministrazione dispone di una base per monitoraggio, saldo ed eventuale recupero.
+
+La partecipazione non è un rito formale. Le osservazioni pertinenti devono entrare nella valutazione e la motivazione deve rendere comprensibile il loro esito. Nei procedimenti a istanza di parte, le garanzie che precedono un provvedimento negativo vanno applicate nei presupposti e con le esclusioni stabiliti dalla L. 241/1990 e dalla disciplina speciale.
+
+La qualità dell'istruttoria si verifica con tre domande: sono stati accertati i fatti decisivi? Sono stati acquisiti gli apporti richiesti? La proposta distingue dati, valutazioni e conclusione? Se una risposta è negativa, l'atto finale rischia di poggiare su una base incompleta.
+
+La verifica deve risultare dagli atti conservati nel fascicolo procedimentale.
+
+## N-FL02-04-06 · Destinatari e procedimento digitale
 Nei procedimenti regionali i destinatari non sono sempre cittadini singoli. Spesso sono enti locali, imprese, organismi, enti del terzo settore o soggetti attuatori.
 
 Questo modifica l'attenzione istruttoria.
@@ -284,7 +376,28 @@ Nel caso pratico chiediti:
 
 La digitalizzazione non elimina il procedimento: lo rende tracciabile, documentabile e controllabile. L'errore è pensare che "si fa sul portale" sostituisca requisiti, istruttoria, motivazione e atto finale.
 
-### Mini-relazione istruttoria
+Il canale digitale deve essere coerente con la disciplina della procedura. Portale, PEC e altri servizi non sono equivalenti: ciascuno risponde a regole di identificazione, trasmissione e ricevuta. L'avviso deve indicare il canale valido e le conseguenze di invii diversi, evitando ambiguità che possano incidere sulla partecipazione.
+
+Il fascicolo informatico raccoglie atti, documenti, comunicazioni e metadati utili a ricostruire il procedimento. Protocollo e classificazione permettono di collocare ogni documento; firma e identità digitale attestano provenienza e sottoscrizione nei rispettivi ambiti; conservazione e sicurezza assicurano disponibilità e integrità nel tempo secondo le regole applicabili.
+
+La trasparenza non autorizza la pubblicazione indiscriminata. Prima di pubblicare graduatorie o provvedimenti occorre distinguere obbligo di pubblicità, comunicazione ai destinatari e protezione dei dati. Il CAD non sostituisce la disciplina su accesso, trasparenza e dati personali: il procedimento digitale deve coordinarle.
+
+| Evento | Evidenza digitale | Controllo |
+|---|---|---|
+| presentazione | ricevuta, protocollo o registrazione | termine e identità del mittente |
+| istruttoria | fascicolo e traccia delle attività | completezza e responsabilità |
+| comunicazione | consegna o disponibilità documentata | destinatario e contenuto |
+| decisione | documento informatico sottoscritto | competenza e integrità |
+| pubblicazione | pagina o albo previsto | durata, dati e accessibilità |
+| conservazione | versamento nel sistema | reperibilità e autenticità |
+
+Per gli enti locali beneficiari, il digitale facilita scambio di documenti e monitoraggio ma non elimina gli atti dei rispettivi organi. Per cittadini e imprese deve rendere comprensibili requisiti, stato della pratica e comunicazioni. L'errore da evitare è descrivere la piattaforma come soggetto decisore: la tecnologia registra e supporta il flusso, mentre responsabilità e competenza restano alle persone e alle strutture individuate.
+
+Accessibilità e usabilità hanno una conseguenza amministrativa concreta: un servizio incomprensibile o non utilizzabile può ostacolare la partecipazione. Le istruzioni devono quindi chiarire formati, passaggi e assistenza, mentre il fascicolo conserva le evidenze delle operazioni. Questo non elimina l'onere del partecipante di rispettare regole e termini, ma riduce ambiguità imputabili all'amministrazione.
+
+Il controllo digitale comprende anche abilitazioni e accessi. Non ogni operatore deve poter modificare ogni dato; ruoli e registrazioni devono consentire di ricostruire chi ha svolto una determinata attività. In un caso concorsuale, citare segregazione dei compiti e log delle operazioni è utile solo come principio organizzativo, senza inventare specifiche tecniche del sistema regionale.
+
+## N-FL02-04-07 · Mini-relazione, schema e casi di prova
 Uno degli output più utili per M-FL02 è la mini-relazione istruttoria. Non è una determina completa, ma una pagina ragionata che mostra alla commissione che sai lavorare da funzionario.
 
 Schema base:
@@ -457,19 +570,45 @@ Soluzione guida:
 - So inserire pubblicazione, comunicazione, trasparenza, privacy e tracciabilità digitale senza trasformarli in tema separato.
 - So chiudere il procedimento con attuazione, rendicontazione, monitoraggio ed eventuali provvedimenti successivi.
 
-### Riferimenti consolidati
-- [[sources/legge-241-1990-procedimento-amministrativo]]
-- [[sources/legge-7-agosto-1990-n-241-procedimento-amministrativo-e-accesso-ai-documenti-amministrativi-testo-vigente-normattiva]]
-- [[sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego]]
-- [[sources/d-lgs-7-marzo-2005-n-82-amministrazione-digitale]]
-- [[sources/legge-2-dicembre-2025-n-182-semplificazione-e-digitalizzazione-procedimenti]]
-- [[sources/bandi-inpa-vol-02-campione-2026]]
-- [[sources/vol-02-dossier-redazionale-enti-locali-polizia-locale]]
-- [[topics/procedimento-amministrativo]]
-- [[entities/regione]]
+## ▣ Verifica
 
-### Note di review
-- Prima della pubblicazione finale verificare su Normattiva eventuali citazioni puntuali della L. 241/1990 su termini, responsabile del procedimento, partecipazione, conferenza di servizi, accesso, silenzio e autotutela.
-- Se il bando riguarda una Regione specifica, integrare solo fonti ufficiali locali: legge regionale sul procedimento o semplificazione, regolamento organizzativo, manuale di gestione documentale, organigramma, BUR, portale bandi e amministrazione trasparente.
-- Per esempi di avvisi e graduatorie regionali usare PDF ufficiali dell'ente, non modelli generici.
-- Il capitolo resta volutamente applicativo: contratti, fondi UE, PNRR, bilancio, controlli contabili e servizi pubblici locali sono sviluppati nei capitoli successivi.
+### Quiz 1
+Qual è il primo controllo in un procedimento regionale? A. Il colore del modulo. B. La fonte e la competenza. C. La graduatoria. D. La rendicontazione.
+
+**Risposta corretta: B.** Fonte e competenza fondano il potere e consentono di ordinare le fasi successive.
+
+### Quiz 2
+Chi cura ordinariamente istruttoria e adempimenti del procedimento? A. Qualunque assessore. B. La struttura e il responsabile individuati dall'organizzazione. C. Il beneficiario. D. Il Consiglio regionale.
+
+**Risposta corretta: B.** L'organizzazione assegna procedimento e responsabilità; l'atto finale resta al soggetto competente.
+
+### Quiz 3
+Una deliberazione di indirizzo e una determinazione gestionale: A. sono sempre equivalenti; B. svolgono funzioni diverse nella catena; C. sono entrambe leggi; D. non richiedono competenza.
+
+**Risposta corretta: B.** L'indirizzo definisce scelte e criteri generali; la gestione applica il quadro secondo le attribuzioni.
+
+### Quiz 4
+L'avviso regionale è: A. l'intero procedimento; B. una fase della procedura, collegata a criteri, istruttoria, graduatoria e provvedimenti; C. sempre una legge; D. un atto privo di destinatari.
+
+**Risposta corretta: B.** L'avviso apre o disciplina la partecipazione, ma non esaurisce decisione, attuazione e controllo.
+
+### Quiz 5
+Una graduatoria può essere formata correttamente: A. applicando criteri predeterminati e documentando l'istruttoria; B. scegliendo liberamente dopo le domande; C. ignorando le esclusioni; D. senza atto competente.
+
+**Risposta corretta: A.** Criteri, istruttoria e motivazione rendono verificabile l'esito.
+
+### Quiz 6
+Il procedimento digitale: A. elimina le garanzie; B. richiede fascicolo, protocollazione, identità, firma e conservazione secondo le regole applicabili; C. coincide con una e-mail; D. rende inutile il controllo.
+
+**Risposta corretta: B.** Il digitale cambia strumenti e tracciabilità, non elimina competenza, istruttoria e garanzie.
+
+### Caso ragionato finale
+Una Regione finanzia progetti comunali. La Giunta definisce obiettivi e criteri; la direzione deve pubblicare l'avviso, istruire le domande e liquidare le risorse. La risposta corretta distingue l'atto di indirizzo dagli atti gestionali, individua struttura e responsabile, applica criteri predeterminati, documenta ammissioni ed esclusioni e adotta graduatoria e concessioni con gli atti competenti. Il ciclo prosegue con comunicazioni, attuazione, rendicontazione, controlli ed eventuali provvedimenti successivi. Il finanziamento non consente di saltare motivazione, tracciabilità o garanzie procedimentali.
+
+## Riferimenti normativi e professionali essenziali
+
+- Legge 7 agosto 1990, n. 241, sul procedimento amministrativo e sul diritto di accesso.
+- Decreto legislativo 30 marzo 2001, n. 165, per organizzazione e rapporto tra indirizzo e gestione.
+- Decreto legislativo 7 marzo 2005, n. 82, Codice dell'amministrazione digitale.
+- Legge 2 dicembre 2025, n. 182, per le disposizioni pertinenti su semplificazione e digitalizzazione.
+- Legge regionale sul procedimento, regolamento organizzativo, manuale di gestione documentale, BUR e portale ufficiale della Regione interessata.

@@ -128,3 +128,39 @@ La matrice applica il gate di copertura integrale ai dodici capitoli del modulo.
 | N-FL02-03-05 | avanzato | ricomposte responsabilità regionali e locali per fase | completo | § N-FL02-03-05; Quiz 5 |
 | N-FL02-03-06 | parziale | distinti livelli essenziali, area vasta e sostituzione | completo | § N-FL02-03-06; Quiz 6 |
 | N-FL02-03-07 | avanzato | consolidati metodo, esercizio, quiz e casi | completo | § N-FL02-03-07; blocco ▣ Verifica |
+
+## Dettaglio Formato 2 — capitolo 04
+
+| Nucleo ID | Famiglia/profilo | Materia | Concetto/sotto-concetti | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FL02-04-01 | M-FL02/amministrativo | Procedimento regionale | avvio; istruttoria; partecipazione; decisione; esecuzione; controllo | [[sources/legge-241-1990-procedimento-amministrativo]] | Cap. 04 § N-FL02-04-01 | fasi, ritorni, termini e conclusione | domanda di contributo digitale | schema del flusso | Q:1 C:1 E:1 — Quiz 1 e caso domanda | completo | L. 241/1990 vigente e fonte regionale target |
+| N-FL02-04-02 | M-FL02/amministrativo | Organizzazione del procedimento | struttura; responsabile; dirigente; uffici; competenza | [[sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego]]; [[sources/legge-241-1990-procedimento-amministrativo]] | Cap. 04 § N-FL02-04-02 | ruoli, responsabilità e limiti | riorganizzazione durante il procedimento | mappa soggetto-compito-limite | Q:1 C:1 E:1 — Quiz 2 e tabella dei ruoli | completo | L. 241/1990, D.Lgs. 165/2001 e atti organizzativi target |
+| N-FL02-04-03 | M-FL02/amministrativo | Atti regionali | deliberazione; decreto; determinazione; indirizzo; gestione | [[sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego]] | Cap. 04 § N-FL02-04-03 | funzione, soggetto, contenuto, motivazione ed effetti | programma regionale e atti conseguenti | classificazione degli atti | Q:1 C:1 E:1 — Quiz 3 e catena degli atti | completo | ordinamento e regolamenti regionali target |
+| N-FL02-04-04 | M-FL02/amministrativo | Procedure selettive | avviso; requisiti; criteri; graduatoria; concessione; rendicontazione | [[sources/legge-241-1990-procedimento-amministrativo]]; [[sources/bandi-inpa-vol-02-campione-2026]] | Cap. 04 § N-FL02-04-04 | ciclo completo e distinzioni tra fasi | contributi a Comuni e imprese | schema avviso-graduatoria-concessione | Q:1 C:1 E:1 — Quiz 4 e tabella delle fasi | completo | fonte della misura e avviso target |
+| N-FL02-04-05 | M-FL02/amministrativo | Istruttoria e controlli | fatti; documenti; pareri; motivazione; conflitti; controlli | [[sources/legge-241-1990-procedimento-amministrativo]] | Cap. 04 § N-FL02-04-05 | pertinenza, apporti interni e tracciabilità | ammissione, esclusione e controllo | mini-nota istruttoria | Q:1 C:1 E:1 — Quiz 5 e tabella degli apporti | completo | L. 241/1990 e disciplina organizzativa target |
+| N-FL02-04-06 | M-FL02/amministrativo | Destinatari e digitale | cittadini; imprese; enti; portale; PEC; fascicolo; pubblicazione | [[sources/d-lgs-7-marzo-2005-n-82-amministrazione-digitale]]; [[sources/legge-2-dicembre-2025-n-182-semplificazione-e-digitalizzazione-procedimenti]] | Cap. 04 § N-FL02-04-06 | differenze tra destinatari e ciclo documentale digitale | invio, istruttoria, decisione e conservazione | mappa evento-evidenza-controllo | Q:1 C:1 E:1 — Quiz 6 e tabella digitale | completo | CAD, L. 182/2025 e manuale documentale target |
+| N-FL02-04-07 | M-FL02/tutti | Applicazione integrata | relazione; fonte; competenza; istruttoria; atto; controllo | fonti dei nuclei 01-06 | Cap. 04 § N-FL02-04-07 | metodo completo di ricomposizione | concessione, diniego ed esclusione | relazione, schema, esercizio e caso | Q:6 C:3 E:1 — Quiz 1-6 e casi ragionati | completo | audit trasversale automatico |
+
+## Checklist dimensionale — capitolo 04
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso nella prova | Errore tipico | Verifica | Fonti |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FL02-04-01 | ✓ procedimento come flusso | ✓ ordinare attività e decisioni | ✓ L. 241/1990 applicata alla Regione | ✓ sette fasi e possibili ritorni | ✓ istanza/ufficio; pubblicazione/comunicazione | ✓ conclusione tracciabile | ✓ domanda di contributo | ✓ schema del flusso | ✓ lista piatta di documenti | ✓ Quiz 1 | ✓ frontmatter e riferimenti finali |
+| N-FL02-04-02 | ✓ ruoli organizzativi | ✓ assegnare responsabilità | ✓ L. 241/1990 e D.Lgs. 165/2001 | ✓ organo, struttura, RDP, dirigente, uffici | ✓ istruttoria/decisione | ✓ titolarità verificabile | ✓ riorganizzazione | ✓ mappa dei ruoli | ✓ RDP uguale firmatario | ✓ Quiz 2 | ✓ frontmatter e riferimenti finali |
+| N-FL02-04-03 | ✓ tipologie funzionali | ✓ formalizzare indirizzo e gestione | ✓ ordinamento regionale | ✓ soggetto, fonte, contenuto, motivazione, effetti | ✓ delibera/decreto/determina | ✓ atto coerente con fase | ✓ programma e avviso | ✓ classificazione atti | ✓ nome atto generico | ✓ Quiz 3 | ✓ frontmatter e riferimenti finali |
+| N-FL02-04-04 | ✓ procedura selettiva | ✓ distribuire benefici con criteri | ✓ fonte e avviso | ✓ requisiti, criteri, graduatoria, concessione, controlli | ✓ ammissibilità/merito; graduatoria/concessione | ✓ parità e verificabilità | ✓ contributi a enti e imprese | ✓ schema procedura | ✓ avviso come atto finale | ✓ Quiz 4 | ✓ frontmatter e riferimenti finali |
+| N-FL02-04-05 | ✓ istruttoria | ✓ fondare la decisione | ✓ garanzie procedimentali | ✓ fatti, documenti, pareri, motivazione, conflitti | ✓ apporto/decisione | ✓ provvedimento motivato | ✓ esclusione e controllo | ✓ mini-relazione | ✓ parere inventato | ✓ Quiz 5 | ✓ frontmatter e riferimenti finali |
+| N-FL02-04-06 | ✓ destinatari e fascicolo digitale | ✓ adattare canale e controlli | ✓ CAD e disciplina correlata | ✓ portale, PEC, protocollo, firma, pubblicazione, conservazione | ✓ pubblicità/comunicazione/privacy | ✓ tracciabilità senza automatismi | ✓ enti, imprese e cittadini | ✓ tabella digitale | ✓ portale come decisore | ✓ Quiz 6 | ✓ frontmatter e riferimenti finali |
+| N-FL02-04-07 | ✓ relazione e catena | ✓ risolvere tracce | ✓ sintesi dei nuclei | ✓ fonte, competenza, istruttoria, atto, controllo | ✓ indirizzo/gestione | ✓ soluzione completa | ✓ concessione e diniego | ✓ relazione e caso | ✓ saltare motivazione o controllo | ✓ Quiz 1-6 e caso | ✓ frontmatter e riferimenti finali |
+
+## Delta step 10 — capitolo 04
+
+| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
+| --- | --- | --- | --- | --- |
+| N-FL02-04-01 | avanzato | sviluppati avvio, ritorni, termini, fascicolo e conclusione | completo | § N-FL02-04-01; Quiz 1 |
+| N-FL02-04-02 | avanzato | distinti ruoli, responsabilità, limiti e riorganizzazione | completo | § N-FL02-04-02; Quiz 2 |
+| N-FL02-04-03 | avanzato | integrati motivazione, effetti e catena degli atti | completo | § N-FL02-04-03; Quiz 3 |
+| N-FL02-04-04 | parziale | completati criteri, fasi, graduatoria, concessione e controllo | completo | § N-FL02-04-04; Quiz 4 |
+| N-FL02-04-05 | parziale | sviluppati istruttoria, apporti, conflitti e controllo | completo | § N-FL02-04-05; Quiz 5 |
+| N-FL02-04-06 | parziale | integrati destinatari, fascicolo e tracciabilità digitale | completo | § N-FL02-04-06; Quiz 6 |
+| N-FL02-04-07 | avanzato | consolidati relazione, schemi, quiz e casi | completo | § N-FL02-04-07; blocco ▣ Verifica |
