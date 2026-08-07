@@ -317,3 +317,33 @@ La matrice applica il gate di copertura integrale ai dodici capitoli del modulo.
 | N-FL02-09-03 | avanzato | sviluppati piano strategico e caso | completo | § N-FL02-09-03 |
 | N-FL02-09-04 | parziale | chiariti rapporti e responsabilità | completo | § N-FL02-09-04 |
 | N-FL02-09-05 | avanzato | consolidati casi e verifica | completo | § N-FL02-09-05; blocco ▣ Verifica |
+
+## Dettaglio Formato 2 — capitolo 10
+
+| Nucleo ID | Famiglia/profilo | Materia | Concetto/sotto-concetti | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FL02-10-01 | M-FL02/tecnico-amministrativo | Funzioni tecniche | bene; funzione; programma; progetto; controllo | fonti del capitolo | Cap. 10 § N-FL02-10-01 | metodo del fascicolo | intervento di area vasta | griglia del ciclo | Q:1 C:1 E:1 | completo | fonti funzione target |
+| N-FL02-10-02 | M-FL02/tecnico-amministrativo | Viabilità e scuole | rete; manutenzione; sicurezza; edificio; servizio | [[sources/legge-56-2014-province-citta-metropolitane]] | Cap. 10 § N-FL02-10-02 | ciclo manutentivo e competenze | strada e scuola | confronto operativo | Q:2 C:2 E:1 | completo | disciplina settoriale target |
+| N-FL02-10-03 | M-FL02/tecnico-amministrativo | Pianificazione | area vasta; strumenti; vincoli; compatibilità | fonti del capitolo | Cap. 10 § N-FL02-10-03 | procedimento e rapporti tra piani | connessione viaria | tabella fonte-effetto | Q:1 C:1 E:1 | completo | leggi regionali target |
+| N-FL02-10-04 | M-FL02/tecnico-amministrativo | Espropriazione | vincolo; pubblica utilità; partecipazione; indennità; decreto | [[sources/d-p-r-8-giugno-2001-n-327-espropriazione-pubblica-utilita]] | Cap. 10 § N-FL02-10-04 | sequenza e garanzie | acquisizione area | schema del procedimento | Q:1 C:1 E:1 | completo | D.P.R. 327/2001 vigente |
+| N-FL02-10-05 | M-FL02/tutti | Progetto e contratto | RUP; affidamento; esecuzione; variante; controlli | [[sources/d-lgs-31-marzo-2023-n-36-contratti-pubblici]] | Cap. 10 § N-FL02-10-05 | ciclo integrato | variante stradale | caso e checklist | Q:6 C:2 E:1 | completo | D.Lgs. 36/2023 vigente |
+
+## Checklist dimensionale — capitolo 10
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso nella prova | Errore tipico | Verifica | Fonti |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FL02-10-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 1 | ✓ |
+| N-FL02-10-02 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 2-3 | ✓ |
+| N-FL02-10-03 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 4 | ✓ |
+| N-FL02-10-04 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 5 | ✓ |
+| N-FL02-10-05 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 6 e caso | ✓ |
+
+## Delta step 10 — capitolo 10
+
+| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
+| --- | --- | --- | --- | --- |
+| N-FL02-10-01 | parziale | sviluppato metodo del fascicolo | completo | § N-FL02-10-01 |
+| N-FL02-10-02 | parziale | sviluppati cicli di strada e scuola | completo | § N-FL02-10-02 |
+| N-FL02-10-03 | parziale | integrati strumenti, vincoli e compatibilità | completo | § N-FL02-10-03 |
+| N-FL02-10-04 | parziale | sviluppati procedimento e garanzie | completo | § N-FL02-10-04 |
+| N-FL02-10-05 | avanzato | consolidati contratto, casi e verifica | completo | § N-FL02-10-05; blocco ▣ Verifica |
