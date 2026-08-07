@@ -257,3 +257,33 @@ La matrice applica il gate di copertura integrale ai dodici capitoli del modulo.
 | N-FL02-07-05 | parziale | sviluppati avanzamenti, indicatori e prove | completo | § N-FL02-07-05 |
 | N-FL02-07-06 | avanzato | distinti controlli, aiuti, appalti e bilancio | completo | § N-FL02-07-06 |
 | N-FL02-07-07 | avanzato | consolidati casi e verifica | completo | § N-FL02-07-07; blocco ▣ Verifica |
+
+## Dettaglio Formato 2 — capitolo 08
+
+| Nucleo ID | Famiglia/profilo | Materia | Concetto/sotto-concetti | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FL02-08-01 | M-FL02/tutti | Ciclo PNRR | progetto; milestone; target; CUP; cronoprogramma | [[sources/pnrr-regis-dnsh-monitoraggio-territoriale]] | Cap. 08 § N-FL02-08-01 | ciclo progetto-risultato | lettura cronoprogramma | schema del ciclo | Q:2 C:1 E:1 | completo | Piano e misura vigenti |
+| N-FL02-08-03 | M-FL02/amministrativo | Soggetti, ReGiS e DNSH | ruoli; dati; validazione; verifiche ambientali | [[sources/pnrr-regis-dnsh-monitoraggio-territoriale]] | Cap. 08 § N-FL02-08-03 | responsabilità e prove | dato incoerente | griglia dato-documento | Q:2 C:1 E:1 | completo | istruzioni ufficiali vigenti |
+| N-FL02-08-05 | M-FL02/amministrativo | Contratti e controlli | affidamenti; pagamenti; antifrode; doppio finanziamento | [[sources/pagamenti-tracciabilita-contratti-pnrr-rendicontazione]] | Cap. 08 § N-FL02-08-05 | ciclo contrattuale e verifiche | variante e pagamento | checklist controllo | Q:2 C:1 E:1 | completo | D.Lgs. 36/2023 e misura |
+| N-FL02-08-06 | M-FL02/tutti | Regione e governance | bilancio; dati; trasparenza; anticorruzione | fonti dei nuclei precedenti | Cap. 08 § N-FL02-08-06 | ruoli e raccordi | disallineamento dati | risposta sul ruolo regionale | Q:1 C:1 E:1 | completo | atti di governance |
+| N-FL02-08-07 | M-FL02/tutti | Applicazione integrata | catena; casi; esercizio; controlli | fonti dei nuclei precedenti | Cap. 08 § N-FL02-08-07 | metodo completo | Comune e dato ReGiS | schema e casi | Q:6 C:2 E:1 | completo | audit trasversale |
+
+## Checklist dimensionale — capitolo 08
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso nella prova | Errore tipico | Verifica | Fonti |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FL02-08-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 1-2 | ✓ |
+| N-FL02-08-03 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 3-4 | ✓ |
+| N-FL02-08-05 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 5-6 | ✓ |
+| N-FL02-08-06 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ caso | ✓ |
+| N-FL02-08-07 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ quiz e caso | ✓ |
+
+## Delta step 10 — capitolo 08
+
+| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
+| --- | --- | --- | --- | --- |
+| N-FL02-08-01 | avanzato | ricomposti ciclo, milestone e tracciabilità | completo | § N-FL02-08-01 |
+| N-FL02-08-03 | avanzato | ricomposti soggetti, ReGiS e DNSH | completo | § N-FL02-08-03 |
+| N-FL02-08-05 | parziale | sviluppati contratti, pagamenti e controlli | completo | § N-FL02-08-05 |
+| N-FL02-08-06 | parziale | sviluppati ruolo regionale e raccordi | completo | § N-FL02-08-06 |
+| N-FL02-08-07 | avanzato | consolidati casi e verifica | completo | § N-FL02-08-07; blocco ▣ Verifica |
