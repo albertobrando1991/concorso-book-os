@@ -287,3 +287,33 @@ La matrice applica il gate di copertura integrale ai dodici capitoli del modulo.
 | N-FL02-08-05 | parziale | sviluppati contratti, pagamenti e controlli | completo | § N-FL02-08-05 |
 | N-FL02-08-06 | parziale | sviluppati ruolo regionale e raccordi | completo | § N-FL02-08-06 |
 | N-FL02-08-07 | avanzato | consolidati casi e verifica | completo | § N-FL02-08-07; blocco ▣ Verifica |
+
+## Dettaglio Formato 2 — capitolo 09
+
+| Nucleo ID | Famiglia/profilo | Materia | Concetto/sotto-concetti | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FL02-09-01 | M-FL02/tutti | Area vasta | Costituzione; L. 56/2014; fonti statali e regionali | [[sources/legge-56-2014-province-citta-metropolitane]] | Cap. 09 § N-FL02-09-01 | riordino e sistema delle fonti | qualificazione della funzione | risposta sul riordino | Q:1 C:1 E:1 | completo | testo vigente e territorio target |
+| N-FL02-09-02 | M-FL02/amministrativo | Provincia | organi; funzioni; statuto; assistenza ai Comuni | [[sources/legge-56-2014-province-citta-metropolitane]] | Cap. 09 § N-FL02-09-02 | ruoli e funzionamento | pratica provinciale | scheda funzione-organo | Q:1 C:1 E:1 | completo | L. 56/2014 e statuto |
+| N-FL02-09-03 | M-FL02/amministrativo | Città metropolitana | organi; piano strategico; coordinamento | [[sources/legge-56-2014-province-citta-metropolitane]] | Cap. 09 § N-FL02-09-03 | specificità metropolitana | mobilità integrata | risposta sul piano strategico | Q:2 C:1 E:1 | completo | L. 56/2014 e statuto |
+| N-FL02-09-04 | M-FL02/tutti | Rapporti multilivello | Regione; Comuni; Unioni; conferimento; convenzione | fonti dei nuclei precedenti | Cap. 09 § N-FL02-09-04 | confronto e raccordi | viabilità sovracomunale | mappa responsabilità | Q:1 C:1 E:1 | completo | legge regionale target |
+| N-FL02-09-05 | M-FL02/tutti | Metodo applicativo | scala; fonte; ente; atto; controllo | fonti dei nuclei precedenti | Cap. 09 § N-FL02-09-05 | scelta motivata del livello | assistenza ai Comuni | schema, esercizio e caso | Q:6 C:2 E:1 | completo | audit trasversale |
+
+## Checklist dimensionale — capitolo 09
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso nella prova | Errore tipico | Verifica | Fonti |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FL02-09-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 1 | ✓ |
+| N-FL02-09-02 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 2 | ✓ |
+| N-FL02-09-03 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 3-4 | ✓ |
+| N-FL02-09-04 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 5 | ✓ |
+| N-FL02-09-05 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 6 e caso | ✓ |
+
+## Delta step 10 — capitolo 09
+
+| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
+| --- | --- | --- | --- | --- |
+| N-FL02-09-01 | parziale | sviluppati fonti, riordino e metodo | completo | § N-FL02-09-01 |
+| N-FL02-09-02 | avanzato | integrati organi, gestione e statuto | completo | § N-FL02-09-02 |
+| N-FL02-09-03 | avanzato | sviluppati piano strategico e caso | completo | § N-FL02-09-03 |
+| N-FL02-09-04 | parziale | chiariti rapporti e responsabilità | completo | § N-FL02-09-04 |
+| N-FL02-09-05 | avanzato | consolidati casi e verifica | completo | § N-FL02-09-05; blocco ▣ Verifica |

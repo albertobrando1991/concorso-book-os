@@ -9,7 +9,7 @@ entities: ["Provincia", "Citta metropolitana", "Comune", "Regione"]
 source_refs: ["sources/legge-56-2014-province-citta-metropolitane.md", "sources/d-lgs-18-agosto-2000-n-267-enti-locali.md", "sources/bandi-inpa-vol-02-campione-2026.md"]
 book_refs: ["m-fl02-regioni-province-citta-metropolitane", "vol-02-enti-locali-polizia-locale", "il-metodo-bando"]
 confidence: 0.88
-updated_at: 2026-07-22T21:05:00+02:00
+updated_at: 2026-08-07
 created_at: 2026-07-17T17:30:00+02:00
 review_required: true
 canonical: true
@@ -17,7 +17,9 @@ tags: ["book-chapter", "module-code-m-fl02", "professional-draft", "review-requi
 book_id: m-fl02-regioni-province-citta-metropolitane
 outline_section: 9
 volume_chapter: 26
-draft_stage: professional-draft
+draft_stage: professional-draft-complete
+format_version: 2
+dati_operativi: []
 module_code: M-FL02
 module_family: funzioni-locali
 companion_to: il-metodo-bando
@@ -26,31 +28,7 @@ last_compiled_from: ["wiki/books/moduli/m-fl02-regioni-province-citta-metropolit
 
 # Province e Città metropolitane dopo la L. 56/2014
 
-## Specifica struttura madre
-
-### Obiettivo
-Spiegare il ruolo degli enti di area vasta dopo la L. 56/2014, distinguendo Province e Città metropolitane, organi, funzioni fondamentali e rapporti con Comuni e Regioni.
-
-### Nuclei
-- L. 56/2014 come fonte cardine del riordino.
-- Province: area vasta, funzioni fondamentali, organi e rapporto con Comuni.
-- Città metropolitane: scala urbana sovracomunale, pianificazione strategica, coordinamento.
-- Funzioni ricorrenti: viabilità, edilizia scolastica, pianificazione, ambiente territoriale, assistenza ai Comuni.
-- Errori da evitare: Province abolite, Città metropolitana uguale a Comune capoluogo.
-
-### Output operativo
-Schema ente-area vasta-funzione; domanda-trappola; caso di coordinamento territoriale.
-
-### Riferimenti consolidati
-- [[sources/legge-56-2014-province-citta-metropolitane]]
-- [[entities/provincia]]
-- [[entities/citta-metropolitana]]
-- [[topics/regioni-e-governo-locale]]
-
-## Scheda di lavoro
-Il capitolo ha taglio operativo: mostra come Province e Città metropolitane ricorrono nei bandi e nei casi. Il candidato deve saper rispondere su funzioni, organi, atti e scala territoriale.
-
-## Testo editoriale
+## Guida al capitolo
 
 ### Apertura editoriale
 
@@ -71,7 +49,30 @@ Al termine del capitolo devi saper:
 5. leggere un caso amministrativo individuando ente competente, atto da adottare e rapporto con Regione e Comuni;
 6. rispondere in modo ordinato a una domanda orale senza trasformare il tema in un elenco di commi.
 
-### La L. 56/2014 nel sistema delle autonomie
+## N-FL02-09-01 · L. 56/2014 e nozione di area vasta
+
+### Spiegazione teorica
+
+#### La L. 56/2014 nel sistema delle autonomie
+
+La L. 56/2014 interviene su enti che la Costituzione continua a includere tra i componenti della Repubblica. Per questo il riordino non equivale a cancellazione: modifica assetto degli organi, modalità di rappresentanza e catalogo delle funzioni, ma deve essere letto insieme agli artt. 114, 117 e 118 Cost., al TUEL per le parti applicabili e alla legislazione regionale di attuazione.
+
+«Area vasta» descrive una scala nella quale problemi e servizi superano il territorio di un singolo Comune. Non è una competenza generica. Per ogni attività occorre individuare la fonte, distinguere funzione fondamentale da funzione conferita o convenzionata e verificare quale ente possieda dimensione e capacità adeguate. Viabilità sovracomunale, rete scolastica, pianificazione territoriale e supporto ai Comuni rendono intuitiva la scala, ma non autorizzano attribuzioni automatiche.
+
+Il riordino ha introdotto un modello di secondo livello per gli organi disciplinati dalla legge. La rappresentanza si collega agli amministratori comunali del territorio; ciò non trasforma Provincia e Città metropolitana in semplici associazioni di Comuni. Restano enti territoriali dotati di autonomia statutaria e organizzativa entro il quadro normativo.
+
+Il candidato deve usare quattro domande: quale ente, quale fonte, quale funzione e quale rapporto con gli altri livelli. La formula «se ne occupa la Provincia perché è area vasta» è incompleta. Una risposta corretta precisa se la funzione è fondamentale, attribuita dalla Regione o svolta mediante accordo, e ne ricava atti, risorse e responsabilità.
+
+| Piano | Domanda | Conseguenza |
+|---|---|---|
+| Costituzionale | quale ente territoriale è coinvolto? | esclude l'idea di abolizione implicita |
+| Statale | quale assetto e quali funzioni fondamentali? | individua il nucleo uniforme |
+| Regionale | quali funzioni sono conferite o riordinate? | adatta il modello al territorio |
+| Statutario/convenzionale | come si organizza l'esercizio? | definisce procedure e raccordi |
+
+La L. 56/2014 deve inoltre essere coordinata con le peculiarità delle Regioni a statuto speciale e con le successive modifiche normative. In sede concorsuale non conviene affidarsi a formule cristallizzate: la risposta deve dichiarare il quadro generale e poi verificare il territorio cui si riferisce la traccia. La stessa cautela vale per le ipotesi di elezione diretta degli organi, che non possono essere presentate come regime uniforme senza controllarne presupposti e disciplina vigente.
+
+L'uso concorsuale del nucleo è duplice. All'orale serve a respingere l'affermazione «le Province sono state abolite» e a spiegare il riordino. Nel caso pratico serve a impedire che una funzione venga assegnata per intuizione geografica: prima si individua il titolo giuridico, poi si valuta la scala più adeguata e infine si costruisce il raccordo con gli altri enti.
 
 La Costituzione riconosce Comuni, Province, Città metropolitane, Regioni e Stato come componenti della Repubblica. La L. 56/2014 interviene sul livello di area vasta e dichiara di adeguarne l'ordinamento ai principi di sussidiarietà, differenziazione e adeguatezza.
 
@@ -85,7 +86,21 @@ Questi tre principi aiutano anche in prova.
 
 La legge non va letta come una fotografia immobile. Fissa un quadro nazionale, ma molte applicazioni dipendono dalla legislazione di settore, dalle competenze regionali e dagli statuti degli enti. Per questo, in un concorso regionale o metropolitano, il candidato deve prima studiare la regola generale e poi verificare se il bando richiama una legge regionale, uno statuto o un regolamento specifico.
 
-### Provincia: che cosa significa "ente di area vasta"
+## N-FL02-09-02 · Provincia: organi, funzioni e funzionamento
+
+### Provincia come ente di area vasta
+
+La Provincia esercita funzioni che richiedono coordinamento sovracomunale e, nei limiti previsti, può sostenere i Comuni nell'esercizio di attività tecniche o amministrative. La funzione di assistenza non trasferisce automaticamente la titolarità dei compiti comunali: oggetto, responsabilità, personale, costi e controlli devono risultare dalla fonte o dalla convenzione.
+
+Gli organi hanno ruoli distinti. Il presidente rappresenta l'ente e svolge le funzioni attribuite dalla legge e dallo statuto; il consiglio è organo di indirizzo e controllo; l'assemblea dei sindaci svolge le competenze previste, con particolare rilievo statutario. Non va ricostruita una giunta per analogia con il Comune. Anche elezione, durata e composizione devono essere verificate sul testo vigente.
+
+Sul piano operativo, ogni pratica provinciale va collegata alla funzione. Una manutenzione stradale, un piano di rete scolastica o una stazione unica appaltante non si qualificano allo stesso modo: cambiano fonte, destinatari, procedimento e atti. Il funzionario costruisce quindi una scheda con funzione, territorio, organo di indirizzo, struttura gestionale, risorse e controllo.
+
+L'errore più comune consiste nel confondere organo politico e ufficio competente. Il presidente o il consiglio definiscono indirizzi e adottano gli atti loro riservati; dirigenti e strutture curano gestione e attuazione secondo l'ordinamento. La natura di secondo livello degli organi non elimina questa separazione.
+
+Lo statuto completa il quadro organizzativo entro i limiti di legge e va consultato quando la traccia riguarda una Provincia determinata.
+
+La competenza non si presume mai.
 
 La Provincia è un ente territoriale di area vasta. "Area vasta" non indica soltanto un territorio esteso. Indica funzioni che non possono essere gestite bene guardando un solo Comune.
 
@@ -114,7 +129,21 @@ Nel modello delineato dalla L. 56/2014, gli organi provinciali sono il president
 
 La gestione concreta resta agli uffici, ai dirigenti e ai responsabili competenti. Questa distinzione riprende una regola generale della pubblica amministrazione: indirizzo politico-amministrativo e gestione non coincidono. Se una traccia chiede chi deve predisporre una relazione tecnica, seguire un contratto o curare un procedimento, la risposta non può fermarsi al nome dell'organo politico.
 
-### Città metropolitana: area vasta urbana e strategia territoriale
+## N-FL02-09-03 · Città metropolitana: organi, strategia e funzioni
+
+### Area vasta urbana e strategia territoriale
+
+La Città metropolitana affronta problemi prodotti dall'integrazione tra capoluogo e Comuni dell'area: mobilità, infrastrutture, sviluppo economico, servizi coordinati e trasformazioni territoriali. La pianificazione strategica costruisce una visione condivisa di medio periodo; non coincide con il piano urbanistico di un singolo Comune e non assorbe ogni competenza comunale.
+
+Sindaco metropolitano, consiglio metropolitano e conferenza metropolitana svolgono funzioni diverse secondo legge e statuto. Il collegamento del sindaco metropolitano al Comune capoluogo non rende i due enti identici. Atti, bilanci, uffici e responsabilità restano riferiti a soggetti distinti.
+
+Il piano strategico ha valore operativo quando collega obiettivi territoriali, progetti, soggetti, risorse e monitoraggio. Un elenco di aspirazioni non basta. Se la strategia riguarda mobilità integrata, deve chiarire raccordo tra enti, infrastrutture, servizi, cronoprogramma e strumenti attuativi, nel rispetto delle competenze di ciascuno.
+
+Nelle prove, il candidato deve riconoscere la scala metropolitana senza trasformarla in gerarchia. La Città metropolitana coordina ed esercita le funzioni attribuite, ma i Comuni conservano autonomia e competenze. Accordi, conferenze e convenzioni servono a rendere coerenti decisioni che coinvolgono più soggetti.
+
+Un caso tipico riguarda la mobilità integrata: il livello metropolitano può definire strategia e coordinamento, mentre singoli interventi, autorizzazioni o servizi restano affidati ai soggetti competenti. La soluzione deve indicare chi programma, chi attua, quale atto formalizza il raccordo e come vengono misurati risultati e scostamenti. In questo modo il piano strategico diventa una cornice di decisioni verificabili e non un documento meramente descrittivo.
+
+Ogni raccordo deve produrre responsabilità leggibili.
 
 La Città metropolitana è anch'essa un ente territoriale di area vasta, ma ha una fisionomia legata a una grande area urbana e alle relazioni tra il capoluogo, gli altri Comuni e le reti che li collegano. Il suo territorio coincide, in linea generale, con quello della Provincia omonima, salvo le modifiche previste dall'ordinamento.
 
@@ -141,6 +170,20 @@ Il modello ordinario prevede il sindaco metropolitano, il consiglio metropolitan
 
 Gli statuti possono disciplinare in modo significativo organizzazione, articolazioni territoriali e modalità di esercizio delle funzioni. Per questo non è corretto trasferire automaticamente al bando di una Città metropolitana le prassi di un'altra.
 
+## N-FL02-09-04 · Confronto e rapporti multilivello
+
+Provincia e Città metropolitana condividono la scala di area vasta, ma rispondono a configurazioni territoriali diverse. La prima presidia coordinamento sovracomunale su territori spesso eterogenei; la seconda aggiunge una funzione strategica legata a sistemi urbani integrati. La distinzione produce effetti su organi, strumenti e funzioni, e non può essere ridotta a una differenza di nome.
+
+Il rapporto con la Regione dipende dal riparto legislativo e amministrativo. La Regione programma e disciplina nei limiti delle proprie competenze, conferisce o organizza funzioni secondo la legge e coordina politiche settoriali. Non esercita per questo una gerarchia generale sugli enti locali. Il rapporto va qualificato di volta in volta come programmazione, conferimento, finanziamento, controllo o collaborazione.
+
+Anche il rapporto con Comuni e Unioni è funzionale. Un servizio può essere comunale, gestito in forma associata o collocato a scala vasta quando fonte e caratteristiche lo giustificano. Per scegliere occorre valutare prossimità agli utenti, dimensione ottimale, capacità tecnica, uniformità necessaria, costi e responsabilità.
+
+La conseguenza pratica è una mappa a più colonne: bisogno, territorio interessato, funzione, fonte, ente titolare, soggetti coinvolti, atto e controllo. Questo schema impedisce di decidere dal solo nome della materia. Una strada, per esempio, può richiedere interventi di enti differenti secondo classificazione e titolarità; la parola «viabilità» non identifica da sola il competente.
+
+Quando più livelli intervengono sul medesimo progetto, la risposta deve separare titolarità, finanziamento, attuazione e vigilanza. Il fatto che la Regione finanzi un'opera provinciale non la rende automaticamente titolare della gestione; allo stesso modo, l'esecuzione affidata a un Comune non cancella i poteri di coordinamento previsti. Questa distinzione rende leggibili responsabilità e rimedi in caso di ritardo.
+
+La soluzione concorsuale si chiude indicando l'atto di raccordo, le risorse necessarie e il controllo coerente con la fonte della funzione.
+
 ### Provincia e Città metropolitana: confronto operativo
 
 | Profilo | Provincia | Città metropolitana |
@@ -160,6 +203,8 @@ La Regione esercita potestà legislativa e funzioni amministrative nelle materie
 Un caso tipico chiarisce la relazione. La programmazione della rete scolastica provinciale non significa che la Provincia decide da sola ogni aspetto della scuola: deve raccordarsi con la programmazione regionale e con i Comuni interessati. Allo stesso modo, la pianificazione metropolitana non cancella gli strumenti urbanistici comunali, ma costruisce un quadro di scala più ampia per reti, servizi e infrastrutture.
 
 Quando una funzione non è tra quelle fondamentali, il candidato deve evitare risposte automatiche. Lo Stato e le Regioni possono attribuire o riordinare ulteriori funzioni secondo le rispettive competenze. La domanda corretta diventa allora: quale fonte attribuisce la funzione, quale ente la esercita, quale ufficio cura il procedimento e quale atto conclude la fase amministrativa?
+
+## N-FL02-09-05 · Metodo di scelta del livello, casi e verifica
 
 ### Mappa BANDO del capitolo
 
@@ -282,20 +327,51 @@ Prima di chiudere lo studio, verifica:
 - so individuare il ruolo della Regione nella programmazione di settore?
 - so partire dalla fonte prima di attribuire una competenza?
 
-### Riferimenti consolidati
+## ▣ Verifica
 
-- [[sources/legge-56-2014-province-citta-metropolitane]]
-- [[sources/d-lgs-18-agosto-2000-n-267-enti-locali]]
-- [[sources/legge-5-giugno-2003-n-131-attuazione-titolo-v]]
-- [[sources/bandi-inpa-vol-02-campione-2026]]
-- [[topics/regioni-e-governo-locale]]
-- [[entities/provincia]]
-- [[entities/citta-metropolitana]]
-- [[books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/01-il-sistema-territoriale-multilivello]]
-- [[books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/10-viabilita-edilizia-scolastica-territorio-espropri]]
+### Quiz 1
+**La L. 56/2014 ha abolito le Province?**  
+A. Sì. B. No: ne ha riordinato organi e funzioni nel quadro degli enti di area vasta. C. Solo nelle Regioni ordinarie. D. Solo nelle aree metropolitane.
 
-### Note di review
+**Risposta corretta: B.** La Provincia resta ente costitutivo della Repubblica; occorre distinguere riordino organizzativo e soppressione costituzionale.
 
-- La L. 56/2014 è stata verificata su Normattiva il 22 luglio 2026; la fonte consolidata registra il testo in vigore dal 1 marzo 2026. Prima della pubblicazione controllare nuovamente il testo vigente e gli eventuali aggiornamenti successivi.
-- Per un concorso di una Provincia o Città metropolitana specifica, verificare sempre statuto, regolamenti organizzativi, piano strategico, strumenti di pianificazione e legge regionale richiamati dal bando.
-- Non usare questo capitolo per sostituire lo studio specialistico di viabilità, edilizia scolastica, ambiente, espropri o contratti: qui serve a collocare quelle materie nella corretta scala istituzionale. Per l'interfaccia tecnico-amministrativa vedi [[books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/10-viabilita-edilizia-scolastica-territorio-espropri]].
+### Quiz 2
+**Quali sono gli organi provinciali considerati dalla disciplina di riordino?**  
+A. Presidente, consiglio provinciale e assemblea dei sindaci. B. Sindaco metropolitano e conferenza. C. Giunta e consiglio comunale. D. Prefetto e questore.
+
+**Risposta corretta: A.** Funzioni e composizione vanno ricostruite sulla L. 56/2014 e sullo statuto, senza importare automaticamente il modello comunale.
+
+### Quiz 3
+**La Città metropolitana coincide con il Comune capoluogo?**  
+A. Sempre. B. No: è un ente territoriale di area vasta distinto, pur essendo il sindaco metropolitano collegato al capoluogo nel modello vigente. C. Solo per il bilancio. D. Sì, ma soltanto nei contratti.
+
+**Risposta corretta: B.** Territorio, organi e funzioni metropolitane non si esauriscono nell'amministrazione comunale del capoluogo.
+
+### Quiz 4
+**Quale tratto caratterizza la Città metropolitana?**  
+A. La pianificazione strategica del territorio metropolitano. B. La competenza legislativa. C. La tutela dell'ordine pubblico. D. La giurisdizione amministrativa.
+
+**Risposta corretta: A.** La dimensione strategica coordina sviluppo e servizi su scala urbana sovracomunale, entro le fonti applicabili.
+
+### Quiz 5
+**Una funzione svolta dalla Provincia deriva sempre direttamente dalla L. 56/2014?**  
+A. Sì. B. No: occorre distinguere funzioni fondamentali, attribuzioni regionali e attività convenzionali. C. Solo se riguarda un Comune. D. Solo se gratuita.
+
+**Risposta corretta: B.** La fonte della funzione determina competenza, risorse, responsabilità e controlli.
+
+### Quiz 6
+**Come si sceglie il livello adeguato per un servizio sovracomunale?**  
+A. Dal nome dell'ente. B. Valutando fonte, scala, adeguatezza, capacità, destinatari e necessità di esercizio unitario. C. Sempre a favore della Regione. D. Sempre a favore del Comune capoluogo.
+
+**Risposta corretta: B.** La soluzione deve essere motivata e non presunta sulla sola estensione geografica.
+
+### Caso ragionato finale
+Piccoli Comuni chiedono supporto per progettazione, gare e gestione di un'infrastruttura viaria sovracomunale. L'istruttoria deve distinguere la titolarità della funzione viaria dall'assistenza tecnico-amministrativa, verificare L. 56/2014, legge regionale, statuto e possibili convenzioni. Deve poi individuare ente responsabile, attività condivise, risorse, atti, standard, responsabilità e controlli. La Provincia può rappresentare il livello adeguato per scala e capacità, ma la risposta non può fondarsi sulla formula generica «area vasta»: deve mostrare la fonte di ogni compito e il raccordo con Comuni e Regione.
+
+## Riferimenti normativi e professionali essenziali
+
+- Costituzione della Repubblica italiana, artt. 114, 117 e 118.
+- Legge 7 aprile 2014, n. 56, nel testo vigente.
+- Decreto legislativo 18 agosto 2000, n. 267, nei profili applicabili.
+- Statuto e regolamenti della Provincia o Città metropolitana interessata.
+- Legge regionale di conferimento e riordino delle funzioni di area vasta applicabile.
