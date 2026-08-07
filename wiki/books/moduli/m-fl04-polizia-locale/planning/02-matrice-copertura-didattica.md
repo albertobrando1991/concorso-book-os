@@ -110,3 +110,33 @@ La matrice applica il gate di copertura integrale ai capitoli del modulo. Gli st
 | N-FL04-03-03 | parziale | separati funzioni e procedimenti di polizia giudiziaria e stradale | completo | § N-FL04-03-03 |
 | N-FL04-03-04 | parziale | sviluppati procedimento, requisiti e conseguenze della qualifica | completo | § N-FL04-03-04 |
 | N-FL04-03-05 | avanzato | consolidati organizzazione, comando, caso integrato e verifica | completo | § N-FL04-03-05; blocco ▣ Verifica |
+
+## Dettaglio Formato 2 — capitolo 04
+
+| Nucleo ID | Famiglia/profilo | Materia | Concetto/sotto-concetti | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FL04-04-01 | M-FL04/tutti | Servizi e fonti | Codice; regolamento; atti locali; cinque servizi; soccorso | [[sources/codice-strada-d-lgs-285-1992-dpr-495-1992]] | Cap. 04 § N-FL04-04-01 | fonti, funzioni e classificazione | materiale in carreggiata | schema fatto-servizio-fonte | Q:1 C:1 E:1 | completo | artt. 11-12 vigenti |
+| N-FL04-04-02 | M-FL04/tutti | Organi e competenza | organi; territorio; attribuzioni; ordine di servizio; sicurezza; responsabilità | Codice della strada; [[sources/legge-65-1986-polizia-locale]] | Cap. 04 § N-FL04-04-02 | competenza e organizzazione | servizio coordinato | sequenza organo-compito-atto | Q:1 C:1 E:1 | completo | disciplina territoriale e organizzativa |
+| N-FL04-04-03 | M-FL04/tutti | Viabilità e segnaletica | autorità; provvedimento; segnaletica; servizio; fatto; ZTL | Codice della strada; regolamento di esecuzione | Cap. 04 § N-FL04-04-03 | catena dalla decisione al controllo | deviazione per lavori | griglia competenza-provvedimento-segnale | Q:2 C:1 E:1 | completo | art. 7 e atti locali |
+| N-FL04-04-04 | M-FL04/agente-funzionario | Controllo su strada | sicurezza; fatto; fonte; accertamento; comunicazione; documentazione | Codice della strada; regolamento di esecuzione | Cap. 04 § N-FL04-04-04 | sequenza e tracciabilità | controllo con profili ulteriori | schema operativo e relazione | Q:1 C:1 E:1 | completo | procedure applicabili |
+| N-FL04-04-05 | M-FL04/tutti | Aggiornamento e caso | segnaletica; circolazione urbana; L. 177/2024; testo vigente; caso integrato | [[sources/legge-177-2024-sicurezza-stradale-codice-strada]] | Cap. 04 § N-FL04-04-05 | metodo di aggiornamento e integrazione | accesso regolato, traffico e urto | caso, orale, esercizio e checklist | Q:6 C:2 E:2 | completo | testo coordinato e atti attuativi |
+
+## Checklist dimensionale — capitolo 04
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso nella prova | Errore tipico | Verifica | Fonti |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FL04-04-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 1 | ✓ |
+| N-FL04-04-02 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 2 | ✓ |
+| N-FL04-04-03 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 3 | ✓ |
+| N-FL04-04-04 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 4 | ✓ |
+| N-FL04-04-05 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 5-6 e caso | ✓ |
+
+## Delta step 10 — capitolo 04
+
+| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
+| --- | --- | --- | --- | --- |
+| N-FL04-04-01 | parziale | sviluppati sistema delle fonti, classificazione e priorità dei servizi | completo | § N-FL04-04-01 |
+| N-FL04-04-02 | parziale | sviluppati competenza, organizzazione, sicurezza e responsabilità | completo | § N-FL04-04-02 |
+| N-FL04-04-03 | parziale | sviluppata la catena fra autorità, provvedimento, segnaletica e fatto | completo | § N-FL04-04-03 |
+| N-FL04-04-04 | parziale | sviluppati controllo, comunicazione, documentazione e tracciabilità | completo | § N-FL04-04-04 |
+| N-FL04-04-05 | avanzato | consolidati aggiornamento normativo, caso integrato e verifica | completo | § N-FL04-04-05; blocco ▣ Verifica |
