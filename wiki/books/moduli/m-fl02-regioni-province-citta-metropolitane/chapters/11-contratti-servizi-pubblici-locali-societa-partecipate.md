@@ -9,7 +9,7 @@ entities: ["Regione", "Provincia", "Citta metropolitana", "ANAC"]
 source_refs: ["sources/servizi-pubblici-locali-d-lgs-201-2022.md", "sources/d-lgs-19-agosto-2016-n-175-societa-partecipazione-pubblica.md", "sources/d-lgs-31-marzo-2023-n-36-contratti-pubblici.md", "sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024.md", "sources/pagamenti-tracciabilita-contratti-pnrr-rendicontazione.md", "sources/bandi-inpa-vol-02-campione-2026.md"]
 book_refs: ["m-fl02-regioni-province-citta-metropolitane", "vol-02-enti-locali-polizia-locale", "il-metodo-bando"]
 confidence: 0.86
-updated_at: 2026-07-22T22:30:00+02:00
+updated_at: 2026-08-07
 created_at: 2026-07-17T17:30:00+02:00
 review_required: true
 canonical: true
@@ -17,7 +17,9 @@ tags: ["book-chapter", "module-code-m-fl02", "professional-draft", "review-requi
 book_id: m-fl02-regioni-province-citta-metropolitane
 outline_section: 11
 volume_chapter: 28
-draft_stage: professional-draft
+draft_stage: professional-draft-complete
+format_version: 2
+dati_operativi: []
 module_code: M-FL02
 module_family: funzioni-locali
 companion_to: il-metodo-bando
@@ -26,32 +28,7 @@ last_compiled_from: ["wiki/books/moduli/m-fl02-regioni-province-citta-metropolit
 
 # Contratti, servizi pubblici locali e società partecipate
 
-## Specifica struttura madre
-
-### Obiettivo
-
-Raccordare contratti pubblici, servizi pubblici locali e società partecipate nella prospettiva degli enti territoriali, con attenzione a programmazione, scelta del gestore, contratto di servizio, controllo della prestazione e responsabilità dell'ente.
-
-### Nuclei
-
-- Contratto pubblico, servizio pubblico locale e partecipazione societaria: funzioni diverse e collegate.
-- Servizi pubblici locali di rilevanza economica: interesse generale, utenti, qualità e continuità.
-- Società partecipate e in house: distinta soggettivita, finalità consentite, motivazione e controllo analogo.
-- Contratto di servizio, risultati, flussi informativi, pagamenti e controlli.
-- Rinvio al modulo specialistico per gare, soglie, regolazione settoriale e disciplina avanzata.
-
-### Output operativo
-
-Check-list ente-servizio-gestore-controllo; caso guidato; schema per una risposta orale.
-
-### Riferimenti consolidati
-
-- [[sources/servizi-pubblici-locali-d-lgs-201-2022]]
-- [[sources/d-lgs-19-agosto-2016-n-175-societa-partecipazione-pubblica]]
-- [[sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024]]
-- [[topics/contratti-pubblici]]
-
-## Testo editoriale
+## Guida al capitolo
 
 ### Apertura editoriale
 
@@ -72,7 +49,35 @@ Alla fine del capitolo devi saper:
 5. collegare partecipazione societaria, motivazione, sostenibilità e revisione periodica;
 6. indicare quando una domanda richiede il rinvio alla disciplina settoriale o al modulo specialistico sugli appalti.
 
-### Tre piani, una sola responsabilità pubblica
+## N-FL02-11-01 · Tre piani e qualificazione della scelta pubblica
+
+### Spiegazione teorica
+
+#### Tre piani, una sola responsabilità pubblica
+
+La prima operazione consiste nel qualificare il bisogno. Se l'ente acquista una prestazione per il proprio funzionamento, il baricentro è il contratto pubblico. Se organizza un'attività destinata stabilmente alla collettività, occorre verificare la disciplina del servizio pubblico locale. Se utilizza o mantiene una società, entra anche il piano della partecipazione pubblica. Nella stessa vicenda possono comparire tutti e tre, ma ciascuno conserva presupposti e controlli propri.
+
+La scelta non parte dal nome del soggetto. Una società partecipata può svolgere attività diverse; un servizio può essere gestito con forme differenti; un contratto può essere strumentale all'erogazione del servizio. Il funzionario deve partire da oggetto, destinatari, rischio, corrispettivo, poteri dell'ente e disciplina settoriale, evitando formule come «è pubblico perché la società è pubblica».
+
+| Piano | Domanda centrale | Atto o evidenza |
+|---|---|---|
+| Contratto | che cosa acquista o affida l'ente? | programmazione, decisione, contratto |
+| Servizio | quale bisogno della collettività deve garantire? | scelta di gestione, obblighi di servizio |
+| Società | perché l'ente partecipa e come governa il rischio? | motivazione, statuto, controlli, razionalizzazione |
+
+La responsabilità pubblica resta in capo all'ente per le decisioni che la legge gli assegna. Esternalizzare una prestazione o costituire una società non esternalizza programmazione, motivazione e controllo. L'amministrazione deve definire risultati attesi, acquisire dati e intervenire sugli scostamenti con gli strumenti disponibili.
+
+In prova conviene usare una sequenza di sette domande: bisogno, qualificazione giuridica, competenza, opzioni, motivazione, strumento attuativo e controllo. Il metodo impedisce di discutere subito di gara o in house quando non è stato ancora chiarito se si tratta di servizio, acquisto o partecipazione.
+
+La qualificazione incide anche sul rischio. Nel contratto l'ente controlla l'adempimento e applica i rimedi pattuiti; nel servizio deve garantire agli utenti continuità e qualità; nella società affronta inoltre governance, patrimonio e risultati dell'organismo partecipato. Confondere questi rischi porta a usare un solo indicatore, spesso il bilancio, per fenomeni diversi.
+
+Esempio: affidare manutenzione dei mezzi è un contratto strumentale; organizzare il trasporto per la collettività riguarda il servizio; detenere quote del gestore riguarda la partecipazione. La stessa politica pubblica genera tre fascicoli coordinati, non un unico atto indistinto.
+
+La soluzione si chiude indicando quale ufficio raccoglie i dati e quale organo valuta i risultati. Senza questa attribuzione, la responsabilità pubblica resta affermata soltanto in astratto.
+
+La qualificazione va motivata nel fascicolo prima della scelta attuativa.
+
+La motivazione deve essere concreta e verificabile.
 
 Un caso pratico può contenere tutti e tre i piani. La Città metropolitana decide come organizzare un servizio di trasporto locale; individua un gestore; stipula o disciplina un rapporto di servizio; controlla corse, accessibilità, investimenti e flussi finanziari. Se il gestore è una società partecipata, occorre verificare anche il perché della partecipazione e il modo in cui l'ente esercita il proprio controllo.
 
@@ -85,7 +90,31 @@ Un caso pratico può contenere tutti e tre i piani. La Città metropolitana deci
 
 La regola utile per l'orale è questa: prima si individua il bisogno e la funzione pubblica; poi si esamina il modello organizzativo e contrattuale; infine si controlla la gestione. Partire dalla parola "gara" porta spesso fuori strada.
 
-### Contratti pubblici: dall'esigenza al controllo dell'esecuzione
+## N-FL02-11-02 · Ciclo dei contratti pubblici
+
+### Dall'esigenza al controllo dell'esecuzione
+
+Il ciclo contrattuale inizia prima della procedura di affidamento. L'ente identifica il fabbisogno, verifica coerenza con programmazione e bilancio, definisce oggetto e risultati, sceglie il percorso consentito e prepara gli atti necessari. Una descrizione vaga del bisogno produce criteri, offerte e controlli deboli.
+
+Il D.Lgs. 36/2023 organizza il ciclo mediante principi, responsabilità e fasi. Il RUP presidia i compiti attribuiti lungo l'intervento; organi e strutture competenti adottano decisioni, svolgono la procedura e controllano l'esecuzione. Il candidato deve distinguere RUP, responsabile di fase quando previsto, commissione, direttore dell'esecuzione o dei lavori e organo che assume la decisione.
+
+Affidamento ed esecuzione sono collegati. Requisiti, criteri, offerta e clausole contrattuali preparano ciò che l'ente potrà verificare dopo. Se il contratto non definisce livelli, tempi, dati e conseguenze degli scostamenti, il controllo rischia di ridursi alla verifica della fattura.
+
+Durante l'esecuzione occorre accertare prestazioni, modifiche, sospensioni, tempi, pagamenti e contestazioni secondo il contratto e la disciplina vigente. Una modifica utile non è per ciò solo ammissibile; deve essere qualificata, motivata e autorizzata dal soggetto competente. Il fascicolo conserva la continuità tra decisione iniziale ed esito.
+
+La chiusura comprende verifica della prestazione, adempimenti conclusivi, pagamento e valutazione dei risultati. Nell'orale la risposta efficace non elenca sigle: mostra come programmazione, affidamento ed esecuzione formano una sola catena di responsabilità.
+
+Digitalizzazione e tracciabilità accompagnano il ciclo ma non ne cambiano la logica. Piattaforme, CIG e flussi informativi consentono identificazione e pubblicità secondo le regole applicabili; non sostituiscono la decisione motivata né la verifica della prestazione. Un dato inserito correttamente può descrivere un atto sostanzialmente carente.
+
+Il controllo dell'esecuzione deve essere progettato prima dell'affidamento. Indicatori, livelli di servizio, modalità di verifica, contestazioni e conseguenze devono essere coerenti con l'oggetto. Se una prestazione non è misurabile, l'ente deve definire evidenze qualitative e responsabilità di verifica, evitando accettazioni automatiche.
+
+In caso di scostamento, l'ufficio qualifica gravità, cause ed effetti, attiva il contraddittorio previsto e adotta il rimedio competente. La tempestività protegge servizio, risorse e posizione dell'amministrazione.
+
+La valutazione conclusiva alimenta inoltre la programmazione successiva: prestazioni insufficienti, fabbisogni mutati e criticità ricorrenti devono incidere sul nuovo affidamento, non restare note isolate.
+
+Il ciclo si chiude quindi tornando al fabbisogno iniziale.
+
+Questo confronto rende misurabile l'efficacia dell'acquisto pubblico.
 
 Il Codice dei contratti pubblici disciplina appalti e concessioni delle stazioni appaltanti e degli enti concedenti. Per il livello richiesto in questo modulo, il contratto va letto come ciclo: fabbisogno, programmazione, progettazione o definizione della prestazione, affidamento, stipula, esecuzione, verifica e pagamento.
 
@@ -103,7 +132,27 @@ Il ciclo digitale previsto dal Codice riguarda programmazione, progettazione, pu
 
 Nei contratti pubblici il principio del risultato non permette scorciatoie. L'interesse pubblico deve essere conseguito con legalità, trasparenza e concorrenza. Anche un servizio utile, se gestito senza istruttoria, atti e controlli, espone l'ente a un problema amministrativo prima ancora che operativo.
 
-### Servizi pubblici locali: utenti, qualità e continuità
+## N-FL02-11-03 · Servizi pubblici locali
+
+### Utenti, qualità e continuità
+
+Un servizio pubblico locale risponde a un bisogno della collettività che l'ente assume tra le proprie responsabilità secondo legge e disciplina settoriale. Prima di scegliere il gestore occorre definire perimetro, utenti, standard, accessibilità, continuità, costi e obblighi di servizio. La forma di gestione viene dopo questa istruttoria.
+
+Il D.Lgs. 201/2022 disciplina il riordino dei servizi pubblici locali di rilevanza economica, da coordinare con le norme settoriali. Il candidato non deve qualificare ogni attività comunale o provinciale come servizio pubblico economico: deve verificare natura dell'attività, mercato, destinatari, modalità di remunerazione e specifica fonte applicabile.
+
+La scelta della modalità di gestione richiede confronto e motivazione. Gestione mediante operatori selezionati, società mista, in house o altre forme consentite non sono etichette equivalenti. Cambiano presupposti, distribuzione del rischio, poteri dell'ente e tipo di controllo. La disciplina vigente e quella settoriale determinano il percorso concreto.
+
+Il contratto di servizio traduce la scelta in obblighi verificabili: prestazioni, standard, indicatori, flussi informativi, corrispettivi o regole economiche, continuità, reclami, controlli e conseguenze dell'inadempimento. La carta dei servizi e gli strumenti di relazione con gli utenti completano il presidio della qualità secondo il settore.
+
+Il controllo deve guardare risultati e non soltanto atti. Puntualità, copertura, continuità, qualità percepita, reclami, costi e investimenti possono concorrere alla valutazione, se pertinenti e misurati correttamente. L'ente deve verificare i dati del gestore e conservare capacità di indirizzo e reazione.
+
+Esempio: nel trasporto locale, approvare il bilancio della società non dimostra che corse e standard siano rispettati. Servono dati del servizio, controlli e confronto con gli obblighi assunti. Questa distinzione è centrale nelle prove.
+
+Anche il punto di vista dell'utente conta: accesso alle informazioni, reclami e continuità rendono osservabile la qualità promessa e aiutano l'ente a individuare disservizi non visibili nei soli dati finanziari.
+
+Gli esiti devono tornare nella programmazione e nel contratto di servizio.
+
+Solo così il controllo produce correzioni concrete.
 
 Il D.Lgs. 201/2022 riordina la disciplina generale dei servizi di interesse economico generale prestati a livello locale. Il suo punto di vista è diverso da quello di una singola gara: considera il servizio, gli utenti, la qualità, la sicurezza, l'accessibilità, la continuità e il rapporto tra ente, gestore e regolazione di settore.
 
@@ -122,7 +171,17 @@ Il decreto distingue l'organizzazione del servizio, le forme di gestione, le ret
 
 Il contratto di servizio ha una funzione pratica: traduce la decisione organizzativa in obblighi verificabili. Non basta indicare il soggetto gestore. L'ente deve poter controllare cosa viene erogato, con quali standard, come si documentano le prestazioni e quali conseguenze seguono a un inadempimento. I contenuti puntuali dipendono dal settore e dall'atto concreto; non vanno inventati in una risposta concorsuale.
 
-### Società partecipate: la partecipazione deve essere giustificata
+## N-FL02-11-04 · Società partecipate e controllo dell'ente socio
+
+### La partecipazione deve essere giustificata
+
+Il D.Lgs. 175/2016 richiede che costituzione, acquisizione e mantenimento di partecipazioni siano ricondotti alle finalità consentite e sorretti da motivazione. La società possiede soggettività distinta dall'ente: patrimonio, organi e responsabilità non si confondono con quelli dell'amministrazione, anche quando la partecipazione è totalitaria.
+
+La motivazione deve spiegare necessità dello strumento, sostenibilità e coerenza con le alternative disponibili. La razionalizzazione periodica verifica se le ragioni permangono, se esistono criticità e quali interventi siano necessari. Non è un adempimento meramente descrittivo.
+
+Il controllo richiede flussi tempestivi, obiettivi misurabili e distinzione tra poteri del socio e funzioni degli organi societari. L'ente non può gestire informalmente la società ignorandone l'autonomia.
+
+Ogni intervento deve rispettare competenze e forme previste.
 
 Una società partecipata è una società nella quale una pubblica amministrazione detiene una partecipazione. Ha una propria soggettivita giuridica e opera secondo le regole societarie applicabili. La presenza pubblica, tuttavia, richiede una motivazione e un controllo coerenti con le finalità istituzionali e con la finanza dell'ente.
 
@@ -151,6 +210,8 @@ L'ente territoriale non può limitarsi a ricevere un bilancio o a nominare un ra
 | Utenti | Ricevono il servizio e possono far emergere disservizi o bisogni. | Reclami, segnalazioni, indicatori di accessibilità e qualità. |
 
 La distinzione tra controllo contrattuale e controllo societario è utile. Il primo riguarda l'esecuzione di un rapporto: prestazioni, tempi, standard e corrispettivi. Il secondo riguarda la posizione dell'ente come socio e la coerenza della partecipazione con finalità e vincoli pubblici. Possono convivere, ma non sono la stessa attività.
+
+## N-FL02-11-05 · Tracciabilità, caso integrato e verifica
 
 ### CIG, CUP, pagamenti e tracciabilità: usare le sigle con precisione
 
@@ -262,22 +323,51 @@ L'istruttoria deve tenere separati i piani. Prima ricostruisce il servizio e gli
 - so distinguere controllo contrattuale, controllo societario e regolazione settoriale?
 - so indicare quando rinviare alla fonte vigente o al modulo specialistico appalti?
 
-### Riferimenti consolidati
+## ▣ Verifica
 
-- [[sources/servizi-pubblici-locali-d-lgs-201-2022]]
-- [[sources/d-lgs-19-agosto-2016-n-175-societa-partecipazione-pubblica]]
-- [[sources/d-lgs-31-marzo-2023-n-36-contratti-pubblici]]
-- [[sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024]]
-- [[sources/pagamenti-tracciabilita-contratti-pnrr-rendicontazione]]
-- [[sources/bandi-inpa-vol-02-campione-2026]]
-- [[topics/contratti-pubblici]]
-- [[entities/anac]]
-- [[books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/10-viabilita-edilizia-scolastica-territorio-espropri]]
-- [[books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/12-laboratorio-profili-regionali-area-vasta]]
+### Quiz 1
+**Contratto pubblico, servizio pubblico locale e partecipazione societaria coincidono?**  
+A. Sì. B. No: sono piani distinti che possono collegarsi nella stessa scelta organizzativa. C. Solo nell'in house. D. Solo nei servizi a rete.
 
-### Note di review
+**Risposta corretta: B.** Occorre qualificare prima il bisogno e poi distinguere organizzazione del servizio, soggetto gestore e strumenti contrattuali.
 
-- Prima della pubblicazione, ricontrollare sul testo vigente D.Lgs. 201/2022, D.Lgs. 175/2016 e D.Lgs. 36/2023, oltre alla disciplina del settore di servizio richiamato dal bando.
-- Non inserire soglie, termini, percentuali, criteri tariffari, forme societarie dettagliate, adempimenti telematici o modelli di atto senza fonte consolidata e review normativa specialistica.
-- Per trasporto pubblico locale, servizio idrico, rifiuti, energia, reti e autorità di regolazione verificare le fonti settoriali prima di usare esempi puntuali.
-- Per procedure di gara, concessioni, partenariato, digitalizzazione e contenzioso rinviare al modulo specialistico: [[books/moduli/architettura-moduli-specialistici]].
+### Quiz 2
+**Dove termina il ciclo del contratto pubblico?**  
+A. Con l'aggiudicazione. B. Con il controllo dell'esecuzione e la chiusura prevista. C. Con il CIG. D. Con la pubblicazione del bando.
+
+**Risposta corretta: B.** Programmazione e affidamento non bastano: prestazione, tempi, pagamenti e risultati devono essere verificati.
+
+### Quiz 3
+**Che cosa deve presidiare l'ente in un servizio pubblico locale?**  
+A. Soltanto il prezzo. B. Bisogno collettivo, qualità, continuità, accessibilità, costi e controllo del gestore. C. Soltanto la forma societaria. D. Soltanto il personale.
+
+**Risposta corretta: B.** La responsabilità pubblica permane anche quando la gestione è affidata a un soggetto distinto.
+
+### Quiz 4
+**La partecipazione in una società è giustificata dalla sola utilità economica?**  
+A. Sì. B. No: richiede finalità consentita, motivazione, sostenibilità e controlli secondo il TUSP. C. Solo per le Regioni. D. Solo se minoritaria.
+
+**Risposta corretta: B.** La forma societaria è uno strumento e non un fine autonomo dell'ente.
+
+### Quiz 5
+**Controllo analogo e controllo dell'ente socio sono sinonimi?**  
+A. Sempre. B. No: il controllo analogo è requisito dell'in house; il controllo societario riguarda più in generale governance, risultati e rischi della partecipazione. C. Solo nei contratti. D. Solo se previsto dallo statuto comunale.
+
+**Risposta corretta: B.** Confondere i due piani porta a motivazioni e verifiche incomplete.
+
+### Quiz 6
+**CUP e CIG svolgono la stessa funzione?**  
+A. Sì. B. No: identificano rispettivamente il progetto d'investimento e la procedura contrattuale quando applicabili. C. Il CUP identifica il gestore. D. Il CIG identifica la società.
+
+**Risposta corretta: B.** Gli identificativi supportano tracciabilità, ma non sostituiscono atti e controlli.
+
+### Caso ragionato finale
+Un ente intende assicurare il trasporto locale mediante una società in house. Deve prima definire bisogno, perimetro, qualità attesa e sostenibilità; confrontare e motivare la forma di gestione secondo il D.Lgs. 201/2022; verificare finalità consentite e condizioni della partecipazione ai sensi del D.Lgs. 175/2016; accertare i requisiti dell'in house e il controllo analogo; disciplinare prestazioni, indicatori, tariffe o corrispettivi, flussi informativi, penali e controlli nel contratto di servizio. Eventuali acquisti del gestore seguono la disciplina applicabile. L'ente monitora servizio e società su piani distinti e interviene su scostamenti, senza limitarsi ad approvare il bilancio societario.
+
+## Riferimenti normativi e professionali essenziali
+
+- Decreto legislativo 31 marzo 2023, n. 36, nel testo vigente.
+- Decreto legislativo 23 dicembre 2022, n. 201.
+- Decreto legislativo 19 agosto 2016, n. 175.
+- Disciplina settoriale e regolatoria del servizio interessato.
+- Atti ANAC, statuto societario, contratto di servizio e strumenti di controllo dell'ente target.

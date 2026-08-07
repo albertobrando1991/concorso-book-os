@@ -347,3 +347,33 @@ La matrice applica il gate di copertura integrale ai dodici capitoli del modulo.
 | N-FL02-10-03 | parziale | integrati strumenti, vincoli e compatibilità | completo | § N-FL02-10-03 |
 | N-FL02-10-04 | parziale | sviluppati procedimento e garanzie | completo | § N-FL02-10-04 |
 | N-FL02-10-05 | avanzato | consolidati contratto, casi e verifica | completo | § N-FL02-10-05; blocco ▣ Verifica |
+
+## Dettaglio Formato 2 — capitolo 11
+
+| Nucleo ID | Famiglia/profilo | Materia | Concetto/sotto-concetti | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FL02-11-01 | M-FL02/tutti | Qualificazione | contratto; servizio; società; bisogno; controllo | fonti del capitolo | Cap. 11 § N-FL02-11-01 | tre piani e metodo | scelta organizzativa | griglia di qualificazione | Q:1 C:1 E:1 | completo | discipline vigenti |
+| N-FL02-11-02 | M-FL02/amministrativo | Contratti | fabbisogno; programmazione; affidamento; esecuzione; RUP | [[sources/d-lgs-31-marzo-2023-n-36-contratti-pubblici]] | Cap. 11 § N-FL02-11-02 | ciclo contrattuale | controllo prestazione | schema del ciclo | Q:1 C:1 E:1 | completo | D.Lgs. 36/2023 vigente |
+| N-FL02-11-03 | M-FL02/amministrativo | Servizi locali | utenti; qualità; continuità; gestione; contratto di servizio | [[sources/servizi-pubblici-locali-d-lgs-201-2022]] | Cap. 11 § N-FL02-11-03 | organizzazione e controllo | trasporto locale | matrice standard-risultati | Q:1 C:1 E:1 | completo | D.Lgs. 201/2022 e settore |
+| N-FL02-11-04 | M-FL02/amministrativo | Partecipate | finalità; motivazione; in house; governance; razionalizzazione | [[sources/d-lgs-19-agosto-2016-n-175-societa-partecipazione-pubblica]] | Cap. 11 § N-FL02-11-04 | ente socio e gestore | società in house | griglia dei controlli | Q:2 C:1 E:1 | completo | TUSP vigente |
+| N-FL02-11-05 | M-FL02/tutti | Applicazione integrata | CIG; CUP; pagamenti; caso; verifica | fonti dei nuclei precedenti | Cap. 11 § N-FL02-11-05 | tracciabilità e metodo | servizio in house | caso ed esercizio | Q:6 C:2 E:1 | completo | audit trasversale |
+
+## Checklist dimensionale — capitolo 11
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso nella prova | Errore tipico | Verifica | Fonti |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FL02-11-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 1 | ✓ |
+| N-FL02-11-02 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 2 | ✓ |
+| N-FL02-11-03 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 3 | ✓ |
+| N-FL02-11-04 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 4-5 | ✓ |
+| N-FL02-11-05 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 6 e caso | ✓ |
+
+## Delta step 10 — capitolo 11
+
+| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
+| --- | --- | --- | --- | --- |
+| N-FL02-11-01 | parziale | sviluppati tre piani e qualificazione | completo | § N-FL02-11-01 |
+| N-FL02-11-02 | parziale | sviluppato il ciclo contrattuale | completo | § N-FL02-11-02 |
+| N-FL02-11-03 | parziale | sviluppati servizio, gestione e qualità | completo | § N-FL02-11-03 |
+| N-FL02-11-04 | avanzato | integrate motivazione e razionalizzazione | completo | § N-FL02-11-04 |
+| N-FL02-11-05 | avanzato | consolidati caso e verifica | completo | § N-FL02-11-05; blocco ▣ Verifica |
