@@ -80,3 +80,33 @@ La matrice applica il gate di copertura integrale ai capitoli del modulo. Gli st
 | N-FL04-02-03 | parziale | sviluppati modelli, elementi e conseguenze organizzative | completo | § N-FL04-02-03 |
 | N-FL04-02-04 | avanzato | precisati selezione territoriale e limiti | completo | § N-FL04-02-04 |
 | N-FL04-02-05 | avanzato | consolidati caso, orale, quiz ed esercizio | completo | § N-FL04-02-05; blocco ▣ Verifica |
+
+## Dettaglio Formato 2 — capitolo 03
+
+| Nucleo ID | Famiglia/profilo | Materia | Concetto/sotto-concetti | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FL04-03-01 | M-FL04/tutti | Qualifiche e poteri | fatto; funzione; qualifica; potere; organizzazione | [[sources/legge-65-1986-polizia-locale]]; fonti di settore | Cap. 03 § N-FL04-03-01 | distinzione dei cinque piani e catena di qualificazione | selezione del potere esercitabile | schema qualifica-potere-atto | Q:1 C:1 E:1 | completo | presupposti normativi vigenti |
+| N-FL04-03-02 | M-FL04/tutti | Territorio e dipendenze | ente; ambito territoriale; dipendenza organizzativa; funzionale; collaborazione | [[sources/legge-65-1986-polizia-locale]]; TUEL | Cap. 03 § N-FL04-03-02 | competenza e relazioni istituzionali | attività fuori sede | risposta su territorio e coordinamento | Q:1 C:1 E:1 | completo | accordi e disciplina territoriale |
+| N-FL04-03-03 | M-FL04/agente-funzionario | Polizia giudiziaria e stradale | notizia di reato; atti urgenti; vigilanza stradale; accertamento; procedimenti | codice di procedura penale; Codice della strada | Cap. 03 § N-FL04-03-03 | funzioni e procedimenti distinti | illecito con profili penali e stradali | doppia sequenza operativa | Q:2 C:1 E:1 | completo | norme procedurali applicabili |
+| N-FL04-03-04 | M-FL04/agente-funzionario | Pubblica sicurezza | qualifica; requisiti; procedimento; prefetto; perdita dei requisiti | [[sources/legge-65-1986-polizia-locale]]; disciplina di pubblica sicurezza | Cap. 03 § N-FL04-03-04 | attribuzione, effetti e revoca | verifica del titolo | risposta sul ruolo prefettizio | Q:1 C:1 E:1 | completo | provvedimento e requisiti attuali |
+| N-FL04-03-05 | M-FL04/tutti | Organizzazione del servizio | Corpo; servizio; comando; responsabilità; coordinamento; caso integrato | [[sources/legge-65-1986-polizia-locale]]; atti dell'ente | Cap. 03 § N-FL04-03-05 | struttura e catena decisionale | scenario operativo integrato | caso, motivazione e checklist | Q:6 C:2 E:2 | completo | regolamento dell'ente target |
+
+## Checklist dimensionale — capitolo 03
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso nella prova | Errore tipico | Verifica | Fonti |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FL04-03-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 1 | ✓ |
+| N-FL04-03-02 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 2 | ✓ |
+| N-FL04-03-03 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 3-4 | ✓ |
+| N-FL04-03-04 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 5 | ✓ |
+| N-FL04-03-05 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 6 e caso | ✓ |
+
+## Delta step 10 — capitolo 03
+
+| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
+| --- | --- | --- | --- | --- |
+| N-FL04-03-01 | parziale | distinti i cinque piani e sviluppata la catena dalla qualifica all'atto | completo | § N-FL04-03-01 |
+| N-FL04-03-02 | parziale | sviluppati territorio, dipendenze e attività fuori sede | completo | § N-FL04-03-02 |
+| N-FL04-03-03 | parziale | separati funzioni e procedimenti di polizia giudiziaria e stradale | completo | § N-FL04-03-03 |
+| N-FL04-03-04 | parziale | sviluppati procedimento, requisiti e conseguenze della qualifica | completo | § N-FL04-03-04 |
+| N-FL04-03-05 | avanzato | consolidati organizzazione, comando, caso integrato e verifica | completo | § N-FL04-03-05; blocco ▣ Verifica |

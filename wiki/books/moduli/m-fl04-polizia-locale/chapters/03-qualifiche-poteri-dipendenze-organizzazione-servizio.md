@@ -9,7 +9,7 @@ entities: ["Polizia locale", "Comune", "Prefetto", "Autorita giudiziaria"]
 source_refs: ["sources/legge-65-1986-polizia-locale.md", "sources/verifica-ufficiale-m-fl04-03-2026-07-23.md", "sources/codice-strada-d-lgs-285-1992-dpr-495-1992.md", "sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego.md"]
 book_refs: ["m-fl04-polizia-locale", "vol-02-enti-locali-polizia-locale", "il-metodo-bando"]
 confidence: 0.84
-updated_at: 2026-07-23T02:00:00+02:00
+updated_at: 2026-08-07T19:00:00+02:00
 created_at: 2026-07-17T20:20:00+02:00
 review_required: true
 canonical: true
@@ -17,7 +17,9 @@ tags: ["book-chapter", "module-code-m-fl04", "professional-draft", "qualifiche"]
 book_id: m-fl04-polizia-locale
 outline_section: 3
 volume_chapter: 32
-draft_stage: professional-draft
+draft_stage: professional-draft-complete
+format_version: 2
+dati_operativi: []
 module_code: M-FL04
 module_family: funzioni-locali
 companion_to: il-metodo-bando
@@ -26,7 +28,7 @@ last_compiled_from: ["wiki/books/moduli/m-fl04-polizia-locale/index.md", "wiki/s
 
 # Qualifiche, poteri, dipendenze e organizzazione del servizio
 
-## Specifica struttura madre
+## Guida al capitolo
 
 ### Obiettivo
 Distinguere funzioni, qualifiche, poteri e dipendenze funzionali dell'operatore di Polizia locale, evitando di confondere ruolo nell'ente, funzioni di polizia stradale, qualifica di polizia giudiziaria e qualità di pubblica sicurezza.
@@ -42,12 +44,11 @@ Distinguere funzioni, qualifiche, poteri e dipendenze funzionali dell'operatore 
 ### Output operativo
 Caso autorità-qualifica-atto; tabella funzione-qualifica-autorità; risposta orale sui limiti dell'intervento.
 
-### Riferimenti consolidati
-- [[sources/legge-65-1986-polizia-locale]]
-- [[sources/codice-strada-d-lgs-285-1992-dpr-495-1992]]
-- [[entities/prefetto]]
+### Riferimenti di base
 
-## Testo editoriale
+La trattazione usa la legge n. 65/1986, il Codice della strada, la disciplina del pubblico impiego e gli atti regionali e locali applicabili al servizio concreto.
+
+## Sviluppo della lezione
 
 ### Apertura editoriale
 
@@ -76,7 +77,9 @@ Al termine del capitolo sai:
 | **Diario** | Ho confuso la qualifica con il potere, o una collaborazione funzionale con una dipendenza gerarchica? | Errore classificato e formula corretta. |
 | **Output** | La prova richiede una spiegazione orale, un ordine di servizio o la soluzione di un caso? | Risposta motivata, prudente e verificabile. |
 
-### 1. Quattro piani da non sovrapporre
+## N-FL04-03-01 · Funzione, qualifica, potere e organizzazione
+
+### Quattro piani da non sovrapporre
 
 Un buon modo per leggere una traccia è separare quattro domande.
 
@@ -93,7 +96,33 @@ La qualifica non sostituisce il potere. Avere una qualifica di polizia giudiziar
 >
 > Davanti a un caso non chiederti soltanto: "chi è l'operatore?". Chiediti: "quale fatto ho davanti, quale norma lo disciplina, quale funzione è attivata e quale atto è consentito?".
 
-### 2. Ente, territorio e rapporti funzionali
+### Dalla qualifica all'atto
+
+Il percorso parte dalla qualificazione del fatto. Solo dopo si individua la funzione, si verifica la qualifica soggettiva e si controlla il potere previsto dalla disciplina pertinente. L'organizzazione stabilisce chi è assegnato al servizio e come distribuisce i compiti, ma non crea poteri estranei alla legge.
+
+| Passaggio | Domanda | Conseguenza |
+|---|---|---|
+| Fatto | che cosa è stato osservato? | separare dati e valutazioni |
+| Funzione | quale ambito è attivato? | scegliere la disciplina |
+| Qualifica | quale status possiede l'operatore? | verificare i presupposti soggettivi |
+| Potere | quale atto consente la norma? | delimitare l'intervento |
+| Organizzazione | chi agisce e a chi riferisce? | seguire il flusso corretto |
+
+La distinzione tutela il cittadino e l'operatore. Un atto senza presupposti o adottato da soggetto non competente può generare contestazioni e responsabilità. Una catena chiara impedisce invece di confondere iniziativa, esecuzione, coordinamento e decisione. Nella prova teorico-pratica questa struttura vale più di una lista di qualifiche.
+
+Un controllo commerciale lo mostra bene. L'appartenenza alla Polizia locale non stabilisce quale documento redigere. Occorre individuare disciplina, fatto, competenza, eventuale illecito e atto previsto. Se emergono elementi penalmente rilevanti, si apre un piano distinto, senza cancellare automaticamente quello amministrativo.
+
+L'errore tipico è usare verbi indeterminati come «interviene» o «procede». Una risposta verificabile specifica se l'operatore accerta, contesta, documenta, comunica o riferisce e collega ogni verbo al procedimento pertinente. All'orale, la chiusura deve ricordare che nessuna qualifica autorizza atti fuori dai presupposti, dal territorio e dalle attribuzioni fissate dalle fonti.
+
+La sequenza serve anche a motivare la risposta. Il candidato non deve partire dall'atto che ricorda meglio e cercare poi una norma che lo giustifichi: deve procedere dal fatto alla regola. Prima separa circostanze certe, elementi da verificare e mere ipotesi; poi individua la funzione coinvolta e controlla se l'operatore possiede la qualifica richiesta. Soltanto a quel punto seleziona il potere e ne espone limiti, forma e destinatario.
+
+In un quesito scritto, questa logica può diventare una breve griglia: **presupposto, soggetto, potere, atto, controllo**. Il presupposto spiega perché si agisce; il soggetto chiarisce chi può farlo; il potere delimita il contenuto dell'intervento; l'atto rende documentabile la decisione; il controllo individua autorità, termini o rimedi. Se manca uno di questi passaggi, la conclusione può essere corretta per intuizione ma resta fragile sul piano giuridico.
+
+La griglia rende inoltre confrontabili soluzioni operative diverse e aiuta a scartare quelle prive di base normativa.
+
+## N-FL04-03-02 · Ente, territorio e dipendenze funzionali
+
+### Ente, territorio e rapporti funzionali
 
 La Polizia locale è una funzione dell'ente territoriale. L'art. 3 della L. 65/1986 colloca il personale nell'esercizio delle funzioni istituzionali nel territorio dell'ente e disciplina la collaborazione, nell'ambito delle attribuzioni, con le Forze di polizia dello Stato. La collaborazione richiede una richiesta motivata delle autorità competenti per specifiche operazioni e si svolge secondo la direzione del sindaco.
 
@@ -109,7 +138,29 @@ Le relazioni da tenere distinte sono almeno tre:
 
 La presenza di queste relazioni non crea una catena unica di comando valida per ogni situazione. La fonte e il fatto stabiliscono quale rapporto sia rilevante.
 
-### 3. Polizia giudiziaria: qualifica e limite operativo
+### Territorio e attività fuori sede
+
+Il territorio contribuisce a delimitare l'esercizio delle funzioni, ma la legge contempla ipotesi e condizioni nelle quali assumono rilievo missioni, distacchi, comandi, operazioni esterne o collaborazione. Sono quindi errate sia la formula «mai fuori territorio» sia «ovunque, purché in servizio».
+
+Il candidato ricostruisce base normativa, tipo di attività, atto organizzativo e rapporto con l'ente interessato. Se la traccia non offre questi dati, espone il criterio e indica che l'esito dipende dalla fattispecie prevista dalla legge e dagli accordi applicabili.
+
+| Rapporto | Fonte | Domanda di controllo |
+|---|---|---|
+| Organizzativo | regolamento e atti dell'ente | chi assegna compiti e turni? |
+| Funzionale | norma del procedimento | a quale autorità si riferisce per quell'atto? |
+| Collaborativo | legge, richiesta e accordi | per quale operazione e con quali limiti? |
+
+Una pattuglia richiesta a supporto di un'operazione coordinata non cambia automaticamente catena gerarchica o poteri. Si verificano richiesta, attribuzioni, direzione prevista e atti dell'ente; ogni atto conserva una base propria. In prova non basta dire «dipende da»: occorre qualificare il rapporto come organizzativo, funzionale o collaborativo.
+
+La distinzione incide anche sulla documentazione. Ordine di servizio, richiesta dell'autorità, accordo fra enti e atto del procedimento svolgono funzioni differenti. Confonderli rende impossibile capire chi ha deciso, chi esegue, per quale finalità e con quale responsabilità.
+
+Per le attività esterne occorre inoltre distinguere il luogo materiale dell'intervento dall'ambito giuridico nel quale il personale esercita le attribuzioni. Lo spostamento fisico non dimostra, da solo, né la competenza né l'incompetenza: contano la fattispecie prevista, la finalità del servizio e gli atti che ne costituiscono il titolo. Questa verifica evita di trasformare una regola territoriale in un divieto assoluto o, al contrario, in un'autorizzazione generale.
+
+Nel caso pratico conviene ricostruire quattro documenti ideali: la disposizione organizzativa dell'ente, l'eventuale richiesta o accordo, l'atto compiuto e la relazione finale. Ognuno risponde a una domanda diversa. La disposizione assegna il personale; richiesta o accordo spiegano il raccordo istituzionale; l'atto applica la norma sostanziale o procedurale; la relazione conserva fatti e attività. La loro coerenza rende verificabili limiti e responsabilità senza inventare una dipendenza gerarchica unica.
+
+## N-FL04-03-03 · Polizia giudiziaria e polizia stradale
+
+### Polizia giudiziaria: qualifica e limite operativo
 
 L'art. 5 della L. 65/1986 prevede che, nell'ambito territoriale dell'ente di appartenenza e nei limiti delle proprie attribuzioni, gli addetti al servizio di Polizia municipale esercitino anche funzioni di polizia giudiziaria. La disposizione attribuisce la qualifica di **agente di polizia giudiziaria** agli operatori e quella di **ufficiale di polizia giudiziaria** ai responsabili del servizio o del Corpo e agli addetti al coordinamento e al controllo.
 
@@ -124,7 +175,7 @@ La formula legislativa va letta interamente. Ripetere "la Polizia locale è PG" 
 
 Questa impostazione è utile anche per evitare un errore opposto: trattare ogni segnalazione come se fosse automaticamente notizia di reato. Prima si qualificano i fatti, poi si individua il procedimento. Una relazione ben fatta distingue ciò che è stato osservato, la fonte provvisoriamente rilevante, gli accertamenti necessari e l'autorità destinataria dell'atto.
 
-### 4. Polizia stradale: funzione prevista, disciplina da applicare
+### Polizia stradale: funzione prevista, disciplina da applicare
 
 L'art. 5 ricomprende tra le funzioni esercitate dagli addetti al servizio anche quelle di polizia stradale. Il significato concorsuale è netto: nel controllo della circolazione il candidato deve collegare il ruolo della Polizia locale alla disciplina del Codice della strada e alle regole del procedimento sanzionatorio, non limitarlo a una generica attività di vigilanza.
 
@@ -132,7 +183,21 @@ La funzione di polizia stradale non è una quarta qualifica personale da sovrapp
 
 Il capitolo successivo sviluppa i servizi di polizia stradale; i capitoli M-FL04.5 e M-FL04.6 trattano la sequenza sanzionatoria. In questo capitolo resta ferma la mappa: **stesso operatore, fonte diversa, funzione diversa, atto diverso**.
 
-### 5. Agente di pubblica sicurezza: che cosa decide il prefetto
+### Due funzioni, procedimenti distinti
+
+Polizia giudiziaria e polizia stradale possono emergere nello stesso intervento, ma non si fondono. Un sinistro può richiedere rilievi e accertamenti stradali; eventuali elementi penalmente rilevanti attivano anche obblighi e atti propri della PG. Il candidato mantiene distinti fatti, fonti, autorità e documenti.
+
+La qualifica di PG riguarda il soggetto nei limiti di legge; l'atto di PG richiede anche la disciplina processuale. La funzione stradale si sviluppa invece attraverso il Codice della strada e il relativo procedimento. Un verbale stradale non sostituisce ogni documentazione e un'ipotesi non consente di qualificare definitivamente il fatto come reato.
+
+La risposta descrive i fatti, distingue violazione amministrativa e possibile reato, individua le funzioni, verifica qualifiche e territorio, forma gli atti consentiti e usa il canale competente. L'errore tipico è pensare che la funzione «più forte» assorba l'altra. L'emersione di un possibile reato non elimina automaticamente gli adempimenti amministrativi compatibili.
+
+Nei quiz le parole-spia aiutano: «qualifica» rinvia al soggetto; «funzione» all'ambito; «atto» ai presupposti procedurali; «autorità» al destinatario o alla direzione funzionale. Nel caso pratico diventano colonne di una tabella prima della redazione.
+
+Questa separazione resta necessaria anche quando le attività si svolgono nello stesso momento operativo.
+
+## N-FL04-03-04 · Agente di pubblica sicurezza e ruolo del prefetto
+
+### Agente di pubblica sicurezza: che cosa decide il prefetto
 
 L'art. 5 della L. 65/1986 comprende tra le funzioni degli addetti al servizio quelle ausiliarie di pubblica sicurezza. La stessa norma prevede che il prefetto conferisca la qualità di agente di pubblica sicurezza, dopo comunicazione del sindaco, al personale in possesso dei requisiti previsti. Si tratta quindi di una qualità soggettiva con un procedimento e presupposti propri.
 
@@ -142,7 +207,35 @@ La prima: non si deve presumere che ogni appartenente alla Polizia locale possie
 
 La seconda: il ruolo del prefetto nel conferimento della qualità di agente di pubblica sicurezza non equivale a una dipendenza gerarchica generale del servizio dal prefetto. La Polizia locale conserva la propria collocazione nell'ente; cambiano, a seconda dell'attività, la fonte e l'autorità rilevante. Anche armamento, strumenti e servizi particolari non possono essere dedotti automaticamente da questa qualità: richiedono la verifica della disciplina speciale e del regolamento applicabile.
 
-### 6. Corpo, servizio, comandante e coordinamento
+### Procedimento, requisiti e conseguenze
+
+La qualità di agente di pubblica sicurezza resta distinta dal profilo concorsuale e dalle qualifiche di PG. Il conferimento segue il procedimento previsto: comunicazione del sindaco, verifica dei requisiti e provvedimento del prefetto. Senza documentazione pertinente non si presume l'esito.
+
+Il ruolo prefettizio riguarda questa specifica qualità. Non trasforma il prefetto nel datore di lavoro, non sostituisce il regolamento dell'ente e non attribuisce al personale ogni potere delle forze statali. L'organizzazione resta locale; i rapporti funzionali variano secondo attività e fonte.
+
+| Elemento | Controllo | Errore evitato |
+|---|---|---|
+| Profilo | denominazione e area | equipararlo alla qualità di PS |
+| Requisiti | condizioni di legge | presumere il conferimento |
+| Provvedimento | atto prefettizio | dedurre la qualità dall'uniforme |
+| Funzione | attività ausiliaria svolta | confonderla con ordine pubblico generale |
+| Organizzazione | regolamento dell'ente | inventare dipendenza gerarchica |
+
+Alla domanda «chi conferisce la qualità?» si indica prefetto e procedimento. Alla domanda «da chi dipende il servizio?» si distinguono organizzazione comunale, rapporti funzionali e collaborazione. Una risposta unica sarebbe errata.
+
+Un neoassunto denominato agente di Polizia locale non possiede per il solo titolo del bando la qualità di agente di pubblica sicurezza. Occorre verificare requisiti, comunicazione e provvedimento. Armamento, servizi particolari e attività fuori territorio restano questioni distinte, ciascuna con fonte, soggetto competente, atto e limite propri.
+
+La perdita di un requisito o il mutamento della situazione rilevante non può essere trattato come una semplice annotazione interna. Occorre verificare la disciplina del provvedimento e le conseguenze sulla qualità conferita, mantenendo separati gli effetti sul rapporto di lavoro da quelli sulle funzioni esercitabili. L'ente gestisce il personale secondo le proprie competenze; il prefetto interviene nel procedimento relativo alla qualità di pubblica sicurezza. Le due sfere possono comunicare, ma non coincidono.
+
+Anche sul piano documentale la distinzione è utile. Il fascicolo personale prova assunzione, inquadramento e assegnazione; la comunicazione del sindaco avvia il percorso previsto; la verifica riguarda i requisiti; il provvedimento prefettizio attesta il conferimento. In una traccia incompleta il candidato non inventa il documento mancante: indica quale verifica sarebbe necessaria e formula la conclusione in termini condizionati.
+
+Un esempio aiuta. Durante un servizio viene richiesto a un operatore di svolgere un'attività collegata alla pubblica sicurezza. La risposta corretta non si limita all'uniforme o al nome del profilo: controlla qualità conferita, tipo di attività, attribuzioni, disposizione di servizio e rapporto funzionale previsto. Se uno di tali elementi manca, si segnala il limite e si attiva il canale competente, evitando di esercitare poteri sulla base di una presunzione.
+
+All'orale la chiusura efficace contiene tre proposizioni: la qualità è conferita dal prefetto nel procedimento stabilito; l'organizzazione del servizio resta riferita all'ente locale; i poteri concretamente esercitabili dipendono dalla fonte e dai presupposti dell'attività. Questa formula dimostra di avere distinto titolo soggettivo, collocazione organizzativa e singolo atto.
+
+## N-FL04-03-05 · Corpo, servizio, comando e caso integrato
+
+### Corpo, servizio, comandante e coordinamento
 
 L'art. 7 della L. 65/1986 stabilisce che i Comuni con almeno sette addetti possono istituire il Corpo di Polizia municipale. Il regolamento determina contingente e organizzazione e la legge indica, come articolazione normale, responsabile del Corpo, addetti al coordinamento e controllo e operatori. La soglia non autorizza a dire che ogni Comune abbia necessariamente un Corpo: la scelta organizzativa e il suo assetto vanno verificati.
 
@@ -203,19 +296,84 @@ Per ciascuna situazione, completa la colonna finale senza inventare dettagli che
 
 Chiudi l'esercizio con una risposta di quattro righe: "Nel caso __ distinguo prima __. Consulto __. La qualifica rilevante è __, ma l'atto dipende da __." Se non puoi completare un campo, indica la fonte da controllare: è una scelta più corretta che riempire un vuoto con una formula generica.
 
-### Riferimenti consolidati
+## ▣ Verifica
 
-- [[sources/legge-65-1986-polizia-locale]]
-- [[sources/verifica-ufficiale-m-fl04-03-2026-07-23]]
-- [[sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego]]
-- [[sources/codice-strada-d-lgs-285-1992-dpr-495-1992]]
-- [[topics/polizia-locale]]
-- [[entities/polizia-locale]]
-- [[entities/prefetto]]
-- [[books/moduli/m-fl04-polizia-locale/chapters/02-ordinamento-nazionale-regionale-polizia-locale]]
-- [[books/moduli/m-fl04-polizia-locale/chapters/04-servizi-polizia-stradale]]
-- [[books/moduli/m-fl04-polizia-locale/chapters/07-polizia-giudiziaria-atti-essenziali]]
+### Quiz 1
 
-### Note di review
+**Qualifica e potere coincidono?**
 
-Il capitolo è una bozza professionale verificata sul quadro nazionale. Prima della pubblicazione e per ogni bando target vanno verificati il testo vigente della L. 65/1986, la legge regionale pertinente, il regolamento del Corpo o servizio, gli atti organizzativi dell'ente, l'eventuale provvedimento relativo alla qualità di agente di pubblica sicurezza e la disciplina speciale del fatto concreto. Il capitolo non sostituisce la verifica processuale richiesta per gli atti di polizia giudiziaria né quella specifica su strumenti, armamento o servizi di polizia stradale.
+A. Sì, sempre.
+B. No: la qualifica identifica uno status, mentre il potere richiede una fonte e presupposti applicabili al fatto.
+C. Sì, quando l'operatore è in uniforme.
+D. No, perché la Polizia locale non esercita poteri.
+
+**Risposta corretta: B.** La qualifica non autorizza qualsiasi atto; occorre verificare funzione, territorio, competenza e procedimento.
+
+### Quiz 2
+
+**La collaborazione con le Forze di polizia dello Stato crea una dipendenza gerarchica generale?**
+
+A. Sì.
+B. No: è una relazione funzionale e circoscritta nei presupposti di legge.
+C. Sì, se interviene il prefetto.
+D. No, perché la collaborazione è vietata.
+
+**Risposta corretta: B.** Organizzazione dell'ente e collaborazione istituzionale restano piani distinti.
+
+### Quiz 3
+
+**Secondo la legge n. 65/1986, chi è ufficiale di polizia giudiziaria?**
+
+A. Ogni operatore assunto a tempo pieno.
+B. I responsabili del servizio o Corpo e gli addetti al coordinamento e controllo, nei limiti previsti.
+C. Soltanto il sindaco.
+D. Ogni dipendente comunale.
+
+**Risposta corretta: B.** Il nome del profilo non basta: rilevano categoria prevista dalla legge e ruolo organizzativo effettivo.
+
+### Quiz 4
+
+**La polizia stradale è una qualifica personale identica a quella di PG?**
+
+A. Sì.
+B. No: è un ambito funzionale disciplinato dalle relative fonti.
+C. Sì, ma soltanto fuori territorio.
+D. No, perché non riguarda la Polizia locale.
+
+**Risposta corretta: B.** Lo stesso operatore può esercitare funzioni diverse, ciascuna con norme, atti e garanzie proprie.
+
+### Quiz 5
+
+**La qualità di agente di pubblica sicurezza deriva automaticamente dall'assunzione?**
+
+A. Sì.
+B. No: richiede il procedimento e i requisiti previsti dalla legge.
+C. Sì, se il profilo è denominato agente.
+D. No, perché può essere conferita solo a personale statale.
+
+**Risposta corretta: B.** La legge collega la qualità al conferimento prefettizio dopo comunicazione del sindaco e verifica dei requisiti.
+
+### Quiz 6
+
+**La soglia prevista dalla legge per l'istituzione del Corpo significa che ogni Comune debba avere un Corpo?**
+
+A. Sì.
+B. No: l'assetto concreto e la scelta organizzativa devono essere verificati.
+C. Sì, se esiste un comandante.
+D. No, perché il Corpo non è previsto dalla legge.
+
+**Risposta corretta: B.** Soglia, possibilità organizzativa e struttura effettivamente istituita non sono sinonimi.
+
+### Caso ragionato finale
+
+Durante un controllo commerciale una pattuglia accerta un illecito amministrativo e rileva elementi compatibili con un possibile reato. Un altro ufficio chiede inoltre supporto per la viabilità. Come si evita di usare le qualifiche come risposta universale?
+
+**Soluzione ragionata.** Si separano i fatti e le funzioni. L'illecito commerciale segue la disciplina amministrativa di settore; gli elementi penalmente rilevanti richiedono qualificazione prudente, funzione di PG e atti consentiti dalla disciplina processuale; il supporto viabilistico attiva la funzione di polizia stradale secondo fonte e ordine di servizio pertinenti. Per ogni segmento si verificano territorio, qualifica, autorità e documento. La collaborazione non modifica l'organizzazione dell'ente e la qualità soggettiva non sostituisce i presupposti del singolo potere.
+
+## Riferimenti normativi e professionali essenziali
+
+- Legge 7 marzo 1986, n. 65, in particolare articoli 3, 4, 5 e 7.
+- Decreto legislativo 30 aprile 1992, n. 285, Codice della strada.
+- Decreto legislativo 30 marzo 2001, n. 165, per la distinzione tra indirizzo e gestione.
+- Codice di procedura penale per gli atti e i rapporti propri della polizia giudiziaria.
+- Legge regionale, regolamento del Corpo o servizio e atti organizzativi dell'ente applicabili.

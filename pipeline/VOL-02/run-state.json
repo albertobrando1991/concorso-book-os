@@ -3,7 +3,7 @@
   "specPath": "books/vol-02-enti-locali-polizia-locale/planning/00-scheda-pipeline.md",
   "specHash": "sha256:b9ec2abf7ad63aaa5271f5f2d561817a092ec16c24727d57ebf82ef84b0a5a6b",
   "createdAt": "2026-07-29T22:02:16.845Z",
-  "updatedAt": "2026-08-07T14:20:35.019Z",
+  "updatedAt": "2026-08-07T16:10:06.961Z",
   "steps": [
     {
       "key": "08:moduli/m-fl01-comuni-unioni/chapters/01-tuel-operativo-autonomia-organi-funzioni-comune.md",
@@ -3408,9 +3408,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/03-qualifiche-poteri-dipendenze-organizzazione-servizio.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T14:25:55.659Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fl04-polizia-locale/chapters/03-qualifiche-poteri-dipendenze-organizzazione-servizio.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Verifica manuale completata: piano con 5 nuclei, confini, fonti, casi, budget e audit; capitolo non modificato."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-07T14:29:16.668Z"
     },
     {
       "key": "09:moduli/m-fl04-polizia-locale/chapters/03-qualifiche-poteri-dipendenze-organizzazione-servizio.md",
@@ -3418,9 +3441,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/03-qualifiche-poteri-dipendenze-organizzazione-servizio.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T16:00:25.885Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T16:02:15.961Z"
     },
     {
       "key": "10:moduli/m-fl04-polizia-locale/chapters/03-qualifiche-poteri-dipendenze-organizzazione-servizio.md",
@@ -3428,9 +3461,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/03-qualifiche-poteri-dipendenze-organizzazione-servizio.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T16:02:31.273Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T16:08:05.013Z"
     },
     {
       "key": "11:moduli/m-fl04-polizia-locale/chapters/03-qualifiche-poteri-dipendenze-organizzazione-servizio.md",
@@ -3438,9 +3481,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/03-qualifiche-poteri-dipendenze-organizzazione-servizio.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T16:08:33.722Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T16:08:48.834Z"
     },
     {
       "key": "12:moduli/m-fl04-polizia-locale/chapters/03-qualifiche-poteri-dipendenze-organizzazione-servizio.md",
@@ -3448,9 +3501,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/03-qualifiche-poteri-dipendenze-organizzazione-servizio.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T16:09:05.556Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T16:10:06.961Z"
     },
     {
       "key": "08:moduli/m-fl04-polizia-locale/chapters/04-servizi-polizia-stradale.md",
