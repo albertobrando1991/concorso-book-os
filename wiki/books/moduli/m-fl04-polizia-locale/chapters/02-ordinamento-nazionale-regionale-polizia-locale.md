@@ -9,7 +9,7 @@ entities: ["Polizia locale", "Comune", "Regione", "Prefetto"]
 source_refs: ["sources/legge-65-1986-polizia-locale.md", "sources/verifica-ufficiale-m-fl04-02-2026-07-23.md", "sources/d-lgs-18-agosto-2000-n-267-enti-locali.md", "sources/bandi-inpa-vol-02-campione-2026.md"]
 book_refs: ["m-fl04-polizia-locale", "vol-02-enti-locali-polizia-locale", "il-metodo-bando"]
 confidence: 0.84
-updated_at: 2026-07-23T01:35:00+02:00
+updated_at: 2026-08-07T18:00:00+02:00
 created_at: 2026-07-17T20:20:00+02:00
 review_required: true
 canonical: true
@@ -17,7 +17,9 @@ tags: ["book-chapter", "module-code-m-fl04", "professional-draft", "polizia-loca
 book_id: m-fl04-polizia-locale
 outline_section: 2
 volume_chapter: 31
-draft_stage: professional-draft
+draft_stage: professional-draft-complete
+format_version: 2
+dati_operativi: []
 module_code: M-FL04
 module_family: funzioni-locali
 companion_to: il-metodo-bando
@@ -26,7 +28,7 @@ last_compiled_from: ["wiki/books/moduli/m-fl04-polizia-locale/index.md", "wiki/s
 
 # Ordinamento nazionale e regionale della Polizia locale
 
-## Specifica struttura madre
+## Guida al capitolo
 
 ### Obiettivo
 Spiegare la cornice ordinamentale della Polizia locale distinguendo legge quadro nazionale, leggi regionali, regolamenti locali e organizzazione concreta del Corpo o servizio.
@@ -41,12 +43,11 @@ Spiegare la cornice ordinamentale della Polizia locale distinguendo legge quadro
 ### Output operativo
 Mappa fonte-funzione-organizzazione; risposta orale sull'ordinamento PL; mini-tabella legge nazionale-legge regionale-regolamento locale.
 
-### Riferimenti consolidati
-- [[sources/legge-65-1986-polizia-locale]]
-- [[sources/d-lgs-18-agosto-2000-n-267-enti-locali]]
-- [[topics/polizia-locale]]
+### Riferimenti di base
 
-## Testo editoriale
+La preparazione usa la legge n. 65/1986, il Testo unico degli enti locali e le fonti regionali e locali espressamente applicabili al bando target.
+
+## Sviluppo della lezione
 
 ### Apertura editoriale
 
@@ -77,7 +78,9 @@ Al termine del capitolo sai:
 | **Diario** | Ho trasferito una regola di un'altra Regione? Ho confuso un dettaglio organizzativo con una qualifica? | Errore classificato e correzione. |
 | **Output** | Devo rispondere oralmente, risolvere un caso o citare una fonte locale? | Risposta in 90 secondi e scheda fonte-funzione-organizzazione. |
 
-### 1. La fonte quadro: che cosa dice davvero la L. 65/1986
+## N-FL04-02-01 · Legge quadro nazionale e funzione comunale
+
+### La fonte quadro: che cosa dice davvero la L. 65/1986
 
 La L. 65/1986 non contiene ogni regola della Polizia locale. Offre una cornice da cui partire. L'art. 1 afferma che i Comuni svolgono le funzioni di polizia locale e che, a questo fine, può essere organizzato un servizio di polizia municipale. La stessa disposizione ammette la gestione del servizio nelle forme associative previste dalla legge dello Stato.
 
@@ -93,7 +96,30 @@ La terza è metodologica: la legge quadro non sostituisce il Codice della strada
 >
 > "Fonte quadro" non significa "fonte unica". La L. 65/1986 serve a dire dove collocare il servizio e come leggere le funzioni; per il singolo controllo bisogna individuare la fonte settoriale e l'atto dell'ente competente.
 
-### 2. La scala delle fonti: quattro livelli, quattro domande
+### Dalla funzione comunale all'azione amministrativa
+
+Affermare che il Comune svolge le funzioni di Polizia locale non significa attribuire ogni decisione al medesimo soggetto. L'ente è il centro di imputazione della funzione; organi politici, dirigenti, responsabili e operatori intervengono secondo competenze diverse. Il regolamento organizza il servizio, gli atti gestionali assegnano responsabilità e risorse, mentre l'operatore applica le discipline pertinenti al fatto. In una risposta d'esame bisogna quindi distinguere ente, organo, struttura e personale.
+
+La distinzione produce conseguenze pratiche. Una scelta generale sull'organizzazione non coincide con l'accertamento di una violazione. Un ordine di servizio non sostituisce la fonte che attribuisce un potere. Un regolamento interno non può trasformare una prassi in competenza. Il candidato deve chiedersi quale atto sta esaminando e quale effetto può produrre: indirizzo, organizzazione, assegnazione di compiti, disciplina del servizio oppure applicazione di una norma settoriale.
+
+La gestione associata aggiunge un ulteriore livello. L'esercizio congiunto della funzione richiede di leggere la forma organizzativa adottata, l'ente che assume, le responsabilità e il territorio interessato. Non basta sapere che più Comuni collaborano. Occorre capire chi organizza il servizio, quali atti regolano i rapporti e quale struttura gestisce personale e procedimenti. La legge quadro ammette la gestione nelle forme previste dalla legge statale, ma la configurazione concreta deriva dagli atti applicabili.
+
+| Domanda | Livello da verificare | Rischio evitato |
+|---|---|---|
+| Chi esercita la funzione? | ente o forma associativa | confondere territorio e datore di lavoro |
+| Chi organizza il servizio? | organo e struttura competenti | attribuire tutto al comandante |
+| Chi compie l'accertamento? | operatore e qualifica pertinente | dedurre poteri dal solo profilo |
+| Quale regola si applica? | fonte settoriale vigente | usare la legge quadro come prontuario |
+
+**Uso nella prova.** Se la traccia chiede di illustrare l'ordinamento, la risposta parte dalla funzione comunale, spiega la possibilità di organizzazione associata e chiude con la pluralità delle fonti. Se propone un caso, quella cornice occupa poche righe: il centro diventa la fonte settoriale, la competenza e l'atto da adottare. Questa proporzione impedisce che una premessa generale assorba il problema operativo.
+
+La chiusura deve indicare il controllo decisivo: fonte vigente, competenza corretta e coerenza fra organizzazione del servizio e attività concretamente richiesta.
+
+Solo così la cornice diventa una soluzione utilizzabile.
+
+## N-FL04-02-02 · Scala nazionale, regionale e locale
+
+### La scala delle fonti: quattro livelli, quattro domande
 
 La mappa seguente aiuta a non usare una norma nel posto sbagliato.
 
@@ -106,7 +132,33 @@ La mappa seguente aiuta a non usare una norma nel posto sbagliato.
 
 Questa scala è utile anche in un caso pratico. Se la traccia chiede come organizzare un servizio, non devi partire da un articolo del Codice della strada. Devi verificare prima quale ente opera, quale fonte attribuisce la funzione, quale regolamento disciplina l'organizzazione e quale soggetto è competente ad adottare l'atto.
 
-### 3. Comune, gestione associata, Corpo e servizio
+### Competenza, gerarchia e specialità
+
+La scala non è un elenco ordinato soltanto per importanza. Serve a risolvere tre domande diverse. La competenza indica quale livello può disciplinare la questione. La gerarchia impedisce a una fonte subordinata di contraddire quella superiore. La specialità aiuta a individuare la disciplina propria del settore o del procedimento. In un caso reale le tre domande possono operare insieme.
+
+Per esempio, l'organizzazione generale del servizio può richiedere legge quadro, disciplina regionale e regolamento dell'ente. Un accertamento stradale richiede invece la fonte settoriale, mentre gli atti organizzativi stabiliscono assegnazioni e modalità interne senza modificare la regola del Codice. Il bando non cambia queste fonti: seleziona quelle che la commissione può chiedere e definisce la prestazione concorsuale.
+
+Quando due disposizioni sembrano confliggere, il candidato non deve scegliere quella più dettagliata senza prima qualificarla. Verifica autore, ambito territoriale, oggetto, data e rapporto con le altre fonti. Un regolamento locale molto preciso può essere irrilevante per un ente diverso; una legge regionale può disciplinare l'organizzazione nel proprio territorio ma non alterare competenze statali. La risposta prudente espone il criterio e segnala il dato del caso che manca.
+
+### Scheda di lettura di una fonte
+
+| Campo | Domanda |
+|---|---|
+| Autorità emanante | Stato, Regione, ente locale o soggetto della selezione? |
+| Ambito | Nazionale, regionale, comunale o riferito alla sola procedura? |
+| Oggetto | Organizzazione, qualifica, procedimento, illecito o prova? |
+| Effetto | Attribuisce, limita, specifica, coordina o informa? |
+| Versione | Il testo è quello vigente e applicabile al bando? |
+
+Questa scheda è utile sia nei quiz sia nella prova pratica. Nel quiz consente di eliminare l'alternativa che colloca una competenza al livello sbagliato. Nel caso evita di fondare l'intera soluzione su una norma estranea al territorio. All'orale offre una struttura: prima si nomina la cornice, poi la disciplina regionale o locale pertinente, infine la fonte settoriale che regola il fatto.
+
+L'errore tipico è parlare di «normativa vigente» senza identificare alcun livello. La formula nasconde il ragionamento. Una risposta migliore chiarisce quale fonte deve essere verificata e perché: non occorre recitare ogni articolo, ma la commissione deve poter seguire il percorso che porta dalla competenza alla regola applicabile.
+
+Nel ripasso, ogni norma va quindi associata a una domanda e a un effetto. Se l'associazione manca, la citazione resta isolata e non aiuta a risolvere la prova.
+
+## N-FL04-02-03 · Comune, gestione associata, Corpo e servizio
+
+### Modelli organizzativi e ricadute concorsuali
 
 Il Comune è il riferimento principale della legge quadro, ma non esaurisce tutte le forme concrete di organizzazione. La L. 65/1986 consente ai Comuni di gestire il servizio nelle forme associative previste dalla legge dello Stato. In concorso questa regola serve soprattutto a evitare una scorciatoia: non presumere che ogni candidato sia assegnato a un Corpo comunale autonomo con il medesimo modello organizzativo.
 
@@ -120,7 +172,33 @@ Un bando può provenire da un Comune, da un'Unione o da una struttura che eserci
 
 **Corpo** e **servizio** non sono formule magiche. Nel linguaggio organizzativo possono indicare strutture con assetti e responsabilità diversi; la loro definizione concreta dipende dalle fonti dell'ente e, quando rilevante, dalla disciplina regionale. In una risposta orale è corretto dire: "Occorre verificare l'assetto previsto dalla fonte regionale e dal regolamento dell'ente". Non è corretto inventare una gerarchia, una denominazione di grado o una dotazione che il bando non indica.
 
-### 4. Quando la legge regionale diventa materia d'esame
+### Elementi dell'assetto organizzativo
+
+Per leggere un'organizzazione concreta servono almeno cinque elementi: ente titolare della funzione, forma di gestione, struttura competente, responsabilità e territorio di servizio. A questi si aggiungono personale, articolazioni interne, coordinamento con altri uffici e atti che disciplinano l'attività. La presenza della parola «Corpo» nel titolo non consente, da sola, di ricostruire tutti questi elementi.
+
+| Elemento | Documento utile | Domanda concorsuale |
+|---|---|---|
+| Titolarità e gestione | statuto, convenzione o altro atto previsto | quale ente esercita la funzione? |
+| Struttura | regolamento e organizzazione | Corpo, servizio o unità associata? |
+| Responsabilità | atti organizzativi e incarichi | chi dirige, coordina o adotta l'atto? |
+| Personale | bando, CCNL e atti dell'ente | quali mansioni sono richieste? |
+| Territorio | fonte e accordi applicabili | dove e a quali condizioni opera il servizio? |
+
+Nelle gestioni associate bisogna evitare due semplificazioni. La prima è immaginare che la collaborazione cancelli l'identità degli enti coinvolti. La seconda è trattare il personale come se dipendesse contemporaneamente da ogni struttura senza regole. Convenzione, statuto o altro strumento organizzativo devono rendere leggibili titolarità, rapporti, comando operativo e responsabilità amministrative.
+
+Le conseguenze si vedono nei casi di prova. Se una traccia parla di servizio svolto per più Comuni, il candidato identifica prima la forma associativa e gli atti che la regolano. Solo dopo affronta il controllo concreto. Se chiede un ordine di servizio, distingue chi ha competenza organizzativa da chi effettua l'accertamento. Se riguarda una comunicazione al cittadino, individua l'ente e la struttura responsabile del procedimento.
+
+**Errore tipico.** Attribuire al comandante ogni funzione dell'ente. Il ruolo di direzione o responsabilità non assorbe competenze politiche, gestionali di altri settori o attribuzioni tecniche. Una risposta corretta distribuisce i passaggi e, quando il dato organizzativo non è fornito, indica il documento che deve essere consultato.
+
+**Applicazione al profilo.** Per un agente conta comprendere collocazione, catena di servizio e limiti dell'attività. Per un funzionario o responsabile aumenta il peso di organizzazione, coordinamento, atti, personale e rapporti interistituzionali. Il bando determina quanto approfondire ciascun piano; il modello dell'ente non può essere dedotto dal solo titolo del posto.
+
+Una verifica finale consiste nel descrivere lo stesso assetto prima dal punto di vista dell'ente e poi da quello dell'operatore. Se soggetti, atti e responsabilità coincidono in modo indistinto, la mappa organizzativa deve essere corretta.
+
+Il confronto può essere svolto anche oralmente in novanta secondi: prima titolarità e forma di gestione, poi struttura e responsabilità, infine territorio, compiti del profilo e documento applicabile al caso.
+
+## N-FL04-02-04 · Legge regionale, regolamenti e atti dell'ente
+
+### Quando la legge regionale diventa materia d'esame
 
 Le Regioni possono disciplinare aspetti rilevanti per la Polizia locale nel proprio territorio. I contenuti non sono identici. La Toscana, per esempio, pubblica una raccolta che comprende la L.R. 11/2020 su sicurezza urbana integrata e Polizia locale e un regolamento regionale del 2025 su uniformi, veicoli, strumenti e tessere di riconoscimento. La Lombardia presenta la L.R. 6/2015 per i servizi di Polizia locale e le politiche integrate di sicurezza urbana. Questi esempi non sono un programma nazionale: mostrano che la fonte regionale è concreta, variabile e spesso collegata all'organizzazione del servizio.
 
@@ -135,7 +213,7 @@ Usa questa regola di selezione:
 
 Un bando del 2026 per agente di Polizia locale in Lombardia, ad esempio, ha incluso sia la L. 65/1986 sia la L.R. Lombardia 6/2015. Qui la legge regionale non è un approfondimento facoltativo: è materia dichiarata della prova. Il metodo corretto non è memorizzare una lista di leggi lombarde, ma collegare la L.R. richiesta a organizzazione, servizi e contesto del posto.
 
-### 5. Regolamenti e atti dell'ente: dalla norma al servizio concreto
+### Regolamenti e atti dell'ente: dalla norma al servizio concreto
 
 Il regolamento dell'ente traduce la cornice normativa nell'organizzazione quotidiana, nei limiti delle fonti superiori. A seconda del territorio e della disciplina applicabile, può contenere regole su articolazione della struttura, servizi esterni, turni, reperibilità, segni distintivi, rapporti gerarchici o funzionali, procedure interne, dotazioni, formazione e documentazione del servizio.
 
@@ -145,11 +223,19 @@ In un concorso non devi recitare un regolamento che non conosci. Devi saperlo us
 
 Questa impostazione non è evasiva. Mostra alla commissione che sai scegliere la fonte e non confondi un manuale con il regolamento dell'ente. Poi, se la traccia fornisce un articolo o un fatto, puoi passare al contenuto specifico.
 
-### 6. Che cosa non può fare la fonte locale
+### Che cosa non può fare la fonte locale
 
 Legge regionale e regolamento dell'ente sono importanti, ma non autorizzano ogni conclusione. Non possono essere usati per eliminare i limiti stabiliti dalla legge nazionale, trasformare un profilo concorsuale in una qualifica non prevista, modificare autonomamente le condizioni per l'agente di pubblica sicurezza o attribuire poteri fuori dalla fonte applicabile.
 
 Questa distinzione è utile per il capitolo successivo. Qui basta fissare una formula: **la fonte locale specifica l'organizzazione; non cancella la cornice nazionale**. Quando il problema riguarda qualifiche, poteri, dipendenze funzionali, armi o interventi fuori territorio, occorre verificare la disciplina nazionale, quella regionale eventualmente pertinente, il regolamento e gli atti competenti. Non dare mai una risposta assoluta soltanto perché "nel mio Comune si fa così".
+
+### Conseguenze sulla preparazione
+
+La selezione delle fonti va documentata in una scheda aggiornata. Per ogni testo regionale o locale annota titolo, ente o Regione, versione consultata, materia richiesta e output nel quale può essere usato. Questa disciplina impedisce di mescolare esempi territoriali e consente di sostituire rapidamente una fonte quando cambia il bando target.
+
+La stessa regola vale per uniformi, segni distintivi, formazione, strumenti e dotazioni. Il capitolo ne spiega la collocazione ordinamentale, ma la risposta concreta richiede la fonte territoriale vigente. Non è prudenza generica: è corretta delimitazione della competenza.
+
+## N-FL04-02-05 · Applicazione al bando e risposta d'esame
 
 ### Caso guidato: un bando con legge regionale espressa
 
@@ -207,22 +293,84 @@ Scegli un bando effettivo e completa la tabella. Se un documento non è indicato
 
 Correggi poi l'esercizio con una frase completa: "Per questo bando studio prima ___, poi ___, mentre non inserisco ___ perché non è richiamato dalla procedura." 
 
-### Riferimenti consolidati
+## ▣ Verifica
 
-- [[sources/legge-65-1986-polizia-locale]]
-- [[sources/verifica-ufficiale-m-fl04-02-2026-07-23]]
-- [[sources/d-lgs-18-agosto-2000-n-267-enti-locali]]
-- [[sources/bandi-inpa-vol-02-campione-2026]]
-- [[sources/verifica-ufficiale-m-fl04-01-2026-07-23]]
-- [[topics/polizia-locale]]
-- [[entities/polizia-locale]]
-- [[books/moduli/m-fl04-polizia-locale/chapters/01-diventare-agente-ufficiale-polizia-locale]]
-- [[books/moduli/m-fl04-polizia-locale/chapters/03-qualifiche-poteri-dipendenze-organizzazione-servizio]]
+### Quiz 1
 
-### Note di review
+**Perché la legge n. 65/1986 è definita legge quadro?**
 
-Il capitolo è una bozza professionale verificata sul quadro nazionale e su esempi ufficiali di fonti regionali. Non sostituisce il controllo della legge regionale, dei regolamenti e degli atti del territorio destinatario. Prima della pubblicazione o di una prova vanno verificati: testo vigente della fonte regionale citata nel bando, regolamento del Corpo o servizio, eventuali atti organizzativi, aggiornamenti su uniformi, strumenti, formazione e dotazioni, nonché competenze dell'ente e qualifiche richiamate dalla traccia.
+A. Perché disciplina ogni dettaglio operativo locale.
+B. Perché fornisce la cornice nazionale da integrare con fonti settoriali, regionali e locali.
+C. Perché sostituisce i regolamenti degli enti.
+D. Perché si applica soltanto alle prove concorsuali.
 
-## Note di review
-- Costruire l'atlante regionale solo sulle Regioni richiamate dai bandi target.
-- Non generalizzare regole regionali, denominazioni di gradi o dotazioni operative.
+**Risposta corretta: B.** La legge colloca funzione e servizio, ma non esaurisce organizzazione territoriale e discipline dei singoli controlli.
+
+### Quiz 2
+
+**Quale fonte regola la selezione concreta?**
+
+A. Il bando con i suoi allegati e le comunicazioni ufficiali.
+B. Il regolamento di un Comune confinante.
+C. Una legge regionale scelta dal candidato.
+D. Un manuale non aggiornato.
+
+**Risposta corretta: A.** Requisiti, prove, criteri e documenti derivano dagli atti ufficiali della procedura.
+
+### Quiz 3
+
+**Una disciplina regionale può essere trasferita automaticamente a un'altra Regione?**
+
+A. Sì, se riguarda uniformi.
+B. Sì, se il profilo ha lo stesso nome.
+C. No, occorre usare la fonte del territorio indicato dal bando.
+D. No, perché le Regioni non disciplinano la Polizia locale.
+
+**Risposta corretta: C.** La fonte regionale è territorialmente determinata e deve essere verificata nella versione applicabile.
+
+### Quiz 4
+
+**Corpo e servizio indicano sempre lo stesso modello organizzativo?**
+
+A. Sì, senza eccezioni.
+B. No: l'assetto concreto dipende dalle fonti regionali e dagli atti dell'ente.
+C. Sì, quando il Comune è capoluogo.
+D. No, perché il servizio non può avere personale operativo.
+
+**Risposta corretta: B.** Le denominazioni non autorizzano a inventare gerarchie, gradi o responsabilità.
+
+### Quiz 5
+
+**Che cosa deve fare il candidato se il bando richiama espressamente una legge regionale?**
+
+A. Ignorarla perché vale soltanto la legge nazionale.
+B. Studiare tutte le leggi regionali italiane.
+C. Studiare il testo vigente richiamato e collegarlo al profilo e alle prove.
+D. Sostituirla con il regolamento comunale.
+
+**Risposta corretta: C.** La citazione nel programma rende quella fonte parte del perimetro effettivo della selezione.
+
+### Quiz 6
+
+**Un regolamento locale può eliminare limiti fissati dalla legge nazionale?**
+
+A. Sì, se approvato dal Comune.
+B. Sì, se riguarda la turnazione.
+C. No: specifica l'organizzazione entro le fonti superiori.
+D. No, perché i Comuni non adottano regolamenti.
+
+**Risposta corretta: C.** L'autonomia locale opera nel quadro delle competenze e non può creare poteri o qualifiche in contrasto con la legge.
+
+### Caso ragionato finale
+
+Un bando comunale richiama legge n. 65/1986, legge regionale sulla Polizia locale, regolamento del servizio e Codice della strada. La prova chiede di inquadrare un controllo sul territorio. Come si ordinano le fonti?
+
+**Soluzione ragionata.** Si parte dall'ente e dalla funzione. La legge quadro fornisce il perimetro nazionale; la legge regionale disciplina gli aspetti territoriali pertinenti; il regolamento rende concreto l'assetto del servizio; il Codice della strada regola il controllo settoriale. Il bando delimita ciò che il candidato deve conoscere e produrre. La risposta distingue organizzazione e disciplina dell'illecito, individua soggetto competente e documento richiesto e non trasferisce regole di altri territori.
+
+## Riferimenti normativi e professionali essenziali
+
+- Legge 7 marzo 1986, n. 65, legge-quadro sull'ordinamento della Polizia municipale.
+- Decreto legislativo 18 agosto 2000, n. 267, Testo unico degli enti locali.
+- Legge e regolamenti regionali sulla Polizia locale vigenti nella Regione interessata.
+- Statuto, regolamento del Corpo o servizio e atti organizzativi dell'ente target.
+- Bando, allegati e comunicazioni ufficiali della selezione.

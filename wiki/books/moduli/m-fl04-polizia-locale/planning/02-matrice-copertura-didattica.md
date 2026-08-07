@@ -50,3 +50,33 @@ La matrice applica il gate di copertura integrale ai capitoli del modulo. Gli st
 | N-FL04-01-03 | avanzato | ricomposti profili, mansioni e qualifiche | completo | § N-FL04-01-03 |
 | N-FL04-01-04 | parziale | trasformate materie e prove in allenamenti verificabili | completo | § N-FL04-01-04 |
 | N-FL04-01-05 | avanzato | consolidati piano, caso, quiz e diario | completo | § N-FL04-01-05; blocco ▣ Verifica |
+
+## Dettaglio Formato 2 — capitolo 02
+
+| Nucleo ID | Famiglia/profilo | Materia | Concetto/sotto-concetti | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FL04-02-01 | M-FL04/tutti | Legge quadro | funzione comunale; servizio; forma associata; fonte settoriale | [[sources/legge-65-1986-polizia-locale]]; TUEL | Cap. 02 § N-FL04-02-01 | funzione, organizzazione e azione | distribuzione delle competenze | risposta sulla cornice | Q:1 C:1 E:1 | completo | legge vigente |
+| N-FL04-02-02 | M-FL04/tutti | Sistema delle fonti | competenza; gerarchia; specialità; ambito; versione | fonti del capitolo | Cap. 02 § N-FL04-02-02 | scala e metodo di qualificazione | conflitto apparente di fonti | scheda di lettura | Q:1 C:1 E:1 | completo | fonte territoriale target |
+| N-FL04-02-03 | M-FL04/tutti | Organizzazione | Comune; associazione; Corpo; servizio; responsabilità; territorio | [[sources/legge-65-1986-polizia-locale]]; TUEL | Cap. 02 § N-FL04-02-03 | modelli ed elementi | servizio per più Comuni | mappa organizzativa | Q:2 C:1 E:1 | completo | atti dell'ente |
+| N-FL04-02-04 | M-FL04/tutti | Disciplina territoriale | legge regionale; regolamento; atti; uniformi; formazione; dotazioni | fonti regionali e locali applicabili | Cap. 02 § N-FL04-02-04 | contenuti, limiti e conseguenze | selezione della fonte | tabella fonte-effetto | Q:1 C:1 E:1 | completo | Regione ed ente target |
+| N-FL04-02-05 | M-FL04/tutti | Applicazione | bando; caso; orale; errore; esercizio | bandi e fonti precedenti | Cap. 02 § N-FL04-02-05 | metodo di risposta | scenario comunale | caso e risposta orale | Q:6 C:2 E:2 | completo | audit trasversale |
+
+## Checklist dimensionale — capitolo 02
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso nella prova | Errore tipico | Verifica | Fonti |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FL04-02-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 1 | ✓ |
+| N-FL04-02-02 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 2 | ✓ |
+| N-FL04-02-03 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 3-4 | ✓ |
+| N-FL04-02-04 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 5 | ✓ |
+| N-FL04-02-05 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 6 e caso | ✓ |
+
+## Delta step 10 — capitolo 02
+
+| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
+| --- | --- | --- | --- | --- |
+| N-FL04-02-01 | parziale | sviluppati funzione, competenze e gestione associata | completo | § N-FL04-02-01 |
+| N-FL04-02-02 | parziale | sviluppati competenza, gerarchia, specialità e scheda fonte | completo | § N-FL04-02-02 |
+| N-FL04-02-03 | parziale | sviluppati modelli, elementi e conseguenze organizzative | completo | § N-FL04-02-03 |
+| N-FL04-02-04 | avanzato | precisati selezione territoriale e limiti | completo | § N-FL04-02-04 |
+| N-FL04-02-05 | avanzato | consolidati caso, orale, quiz ed esercizio | completo | § N-FL04-02-05; blocco ▣ Verifica |
