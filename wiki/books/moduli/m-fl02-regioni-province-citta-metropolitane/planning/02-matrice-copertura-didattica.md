@@ -377,3 +377,33 @@ La matrice applica il gate di copertura integrale ai dodici capitoli del modulo.
 | N-FL02-11-03 | parziale | sviluppati servizio, gestione e qualità | completo | § N-FL02-11-03 |
 | N-FL02-11-04 | avanzato | integrate motivazione e razionalizzazione | completo | § N-FL02-11-04 |
 | N-FL02-11-05 | avanzato | consolidati caso e verifica | completo | § N-FL02-11-05; blocco ▣ Verifica |
+
+## Dettaglio Formato 2 — capitolo 12
+
+| Nucleo ID | Famiglia/profilo | Materia | Concetto/sotto-concetti | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FL02-12-01 | M-FL02/tutti | Metodo di prova | bando; attività; profilo; verbo; output | fonti del capitolo | Cap. 12 § N-FL02-12-01 | gerarchia e selezione | scelta del profilo | matrice materia-output | Q:1 C:1 E:1 | completo | bando target |
+| N-FL02-12-02 | M-FL02/amministrativo-legislativo | Regione | indirizzo; procedimento; contributo; competenza; drafting | fonti dei capitoli 04 e 06 | Cap. 12 § N-FL02-12-02 | due catene operative | misura per servizi digitali | scaletta e disposizione | Q:2 C:2 E:1 | completo | fonti regionali target |
+| N-FL02-12-03 | M-FL02/tecnico-amministrativo | Area vasta | funzione; bene; progetto; contratto; esproprio | fonti dei capitoli 09 e 10 | Cap. 12 § N-FL02-12-03 | sequenza e raccordi | edificio scolastico | checklist tecnico-amministrativa | Q:1 C:2 E:1 | completo | disciplina settoriale target |
+| N-FL02-12-04 | M-FL02/fondi | Fondi UE e PNRR | progetto; affidamento; spesa; ReGiS; DNSH; controlli | fonti dei capitoli 07 e 08 | Cap. 12 § N-FL02-12-04 | catena delle evidenze | servizi scolastici digitali | checklist progetto-spesa-controllo | Q:1 C:2 E:1 | completo | misura e istruzioni vigenti |
+| N-FL02-12-05 | M-FL02/tutti | Prestazione concorsuale | orale; sintesi; 5P; errori; piano di studio | fonti metodologiche del capitolo | Cap. 12 § N-FL02-12-05 | metodo di esecuzione e revisione | quattro profili integrati | risposta, diario e piano | Q:6 C:2 E:2 | completo | audit trasversale |
+
+## Checklist dimensionale — capitolo 12
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso nella prova | Errore tipico | Verifica | Fonti |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FL02-12-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 1 | ✓ |
+| N-FL02-12-02 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 2-3 | ✓ |
+| N-FL02-12-03 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 4 | ✓ |
+| N-FL02-12-04 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 5 | ✓ |
+| N-FL02-12-05 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 6 e caso | ✓ |
+
+## Delta step 10 — capitolo 12
+
+| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
+| --- | --- | --- | --- | --- |
+| N-FL02-12-01 | parziale | sviluppati gerarchia bando-profilo-output e controllo | completo | § N-FL02-12-01 |
+| N-FL02-12-02 | avanzato | ricomposti laboratori amministrativo e legislativo | completo | § N-FL02-12-02 |
+| N-FL02-12-03 | parziale | sviluppati distinzioni, raccordi e conseguenze | completo | § N-FL02-12-03 |
+| N-FL02-12-04 | parziale | sviluppata catena delle evidenze e dei controlli | completo | § N-FL02-12-04 |
+| N-FL02-12-05 | avanzato | consolidati prestazione, quiz e caso finale | completo | § N-FL02-12-05; blocco ▣ Verifica |
