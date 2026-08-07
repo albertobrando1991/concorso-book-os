@@ -230,3 +230,33 @@ La matrice applica il gate di copertura integrale ai capitoli del modulo. Gli st
 | N-FL04-07-03 | parziale | distinti documenti, identificazione, atti urgenti e controlli formali | completo | § N-FL04-07-03 |
 | N-FL04-07-04 | parziale | sviluppati fonti di prova, garanzie, deleghe e raccordo con il PM | completo | § N-FL04-07-04 |
 | N-FL04-07-05 | avanzato | consolidati doppio binario, caso, orale, esercizio e verifica | completo | § N-FL04-07-05; blocco ▣ Verifica |
+
+## Dettaglio Formato 2 — capitolo 08
+
+| Nucleo ID | Famiglia/profilo | Materia | Concetto/sotto-concetti | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FL04-08-01 | M-FL04/tutti | TULPS e titoli | licenza; autorizzazione; SCIA; SUAP; controllo | [[sources/regio-decreto-18-giugno-1931-n-773-tulps-polizia-amministrativa]]; [[sources/suap-commercio-polizia-amministrativa-locale]] | Cap. 08 § N-FL04-08-01 | titolo, controllo e conseguenza | attività produttiva | schema attività-regime-autorità | Q:1 C:1 E:1 | completo | disciplina settoriale vigente |
+| N-FL04-08-02 | M-FL04/tutti | Funzioni di sicurezza | amministrativa; PS; urbana; PG; qualifica | [[sources/legge-65-1986-polizia-locale]] | Cap. 08 § N-FL04-08-02 | distinzioni e limiti | locale con profili multipli | tabella funzione-potere | Q:2 C:1 E:1 | completo | norme sicurezza urbana vigenti |
+| N-FL04-08-03 | M-FL04/tutti | Autorità | Comune; sindaco; Prefetto; Questore; uffici | [[sources/verifica-ufficiale-m-fl04-08-2026-07-23]] | Cap. 08 § N-FL04-08-03 | riparto funzionale | manifestazione | schema fonte-autorità-atto | Q:2 C:1 E:1 | completo | singole competenze vigenti |
+| N-FL04-08-04 | M-FL04/tutti | Controlli | esercizi; manifestazioni; prescrizioni; fascicolo | [[sources/suap-commercio-polizia-amministrativa-locale]] | Cap. 08 § N-FL04-08-04 | sopralluogo e seguito | controllo locale | sequenza controllo-fascicolo | Q:4 C:1 E:1 | completo | fonti regionali e locali |
+| N-FL04-08-05 | M-FL04/tutti | Immigrazione | identità; documenti; soggiorno; raccordo; garanzie | [[sources/verifica-ufficiale-m-fl04-08-2026-07-23]] | Cap. 08 § N-FL04-08-05 | perimetro essenziale | esercizio e manifestazione | orale, esercizio e caso finale | Q:2 C:2 E:2 | completo | D.Lgs. n. 286/1998 vigente |
+
+## Checklist dimensionale — capitolo 08
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso nella prova | Errore tipico | Verifica | Fonti |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FL04-08-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 1 | ✓ |
+| N-FL04-08-02 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 2 | ✓ |
+| N-FL04-08-03 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 3-4 | ✓ |
+| N-FL04-08-04 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 4 | ✓ |
+| N-FL04-08-05 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 5-6 e caso | ✓ |
+
+## Delta step 10 — capitolo 08
+
+| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
+| --- | --- | --- | --- | --- |
+| N-FL04-08-01 | avanzato | sviluppati regimi, titolo, controllo, SUAP e conseguenze | completo | § N-FL04-08-01 |
+| N-FL04-08-02 | avanzato | consolidate quattro funzioni, qualifica e coordinamento | completo | § N-FL04-08-02 |
+| N-FL04-08-03 | avanzato | precisati riparto, verbi funzionali e caso manifestazione | completo | § N-FL04-08-03 |
+| N-FL04-08-04 | parziale | sviluppati sopralluogo, documenti, fascicolo e atti distinti | completo | § N-FL04-08-04 |
+| N-FL04-08-05 | avanzato | consolidati immigrazione, caso, orale, esercizio e verifica | completo | § N-FL04-08-05; blocco ▣ Verifica |
