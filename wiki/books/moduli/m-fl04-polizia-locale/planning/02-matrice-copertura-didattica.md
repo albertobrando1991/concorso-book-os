@@ -140,3 +140,33 @@ La matrice applica il gate di copertura integrale ai capitoli del modulo. Gli st
 | N-FL04-04-03 | parziale | sviluppata la catena fra autorità, provvedimento, segnaletica e fatto | completo | § N-FL04-04-03 |
 | N-FL04-04-04 | parziale | sviluppati controllo, comunicazione, documentazione e tracciabilità | completo | § N-FL04-04-04 |
 | N-FL04-04-05 | avanzato | consolidati aggiornamento normativo, caso integrato e verifica | completo | § N-FL04-04-05; blocco ▣ Verifica |
+
+## Dettaglio Formato 2 — capitolo 05
+
+| Nucleo ID | Famiglia/profilo | Materia | Concetto/sotto-concetti | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FL04-05-01 | M-FL04/tutti | Accertamento | organo; fatto; prova; norma; verbale; seguito | Codice della strada; regolamento | Cap. 05 § N-FL04-05-01 | formazione e controllo dell'atto | descrizione della condotta | schema accertamento-verbale | Q:1 C:1 E:1 | completo | artt. 200-201 vigenti |
+| N-FL04-05-02 | M-FL04/tutti | Contestazione | immediatezza; differimento; presupposto; motivazione | Codice della strada | Cap. 05 § N-FL04-05-02 | regola, eccezione e conseguenze | conducente presente o assente | confronto immediata-differita | Q:1 C:1 E:1 | completo | art. 201 vigente |
+| N-FL04-05-03 | M-FL04/tutti | Notificazione | destinatario; modalità; prova; perfezionamento; decorrenza | Codice della strada; regolamento | Cap. 05 § N-FL04-05-03 | conoscenza legale e fascicolo | violazione senza trasgressore | schema destinatario-modalità-prova | Q:1 C:1 E:1 | completo | disciplina vigente e digitale |
+| N-FL04-05-04 | M-FL04/tutti | Pagamento e ricorsi | pagamento; Prefetto; Giudice di pace; alternatività; fascicolo | artt. 202-204-bis Codice della strada | Cap. 05 § N-FL04-05-04 | natura ed effetti dei percorsi | classificazione del rimedio | tabella scelta-autorità-seguito | Q:1 C:1 E:1 | completo | termini e forme vigenti |
+| N-FL04-05-05 | M-FL04/tutti | Cronologia applicata | fatto; verbale; contestazione; notifica; scelta; fase successiva | Codice della strada; legge n. 689/1981 | Cap. 05 § N-FL04-05-05 | ricomposizione del procedimento | caso integrato | timeline, orale ed esercizio | Q:6 C:2 E:2 | completo | audit trasversale |
+
+## Checklist dimensionale — capitolo 05
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso nella prova | Errore tipico | Verifica | Fonti |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FL04-05-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 1 | ✓ |
+| N-FL04-05-02 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 2 | ✓ |
+| N-FL04-05-03 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 3 | ✓ |
+| N-FL04-05-04 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 4 | ✓ |
+| N-FL04-05-05 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 5-6 e caso | ✓ |
+
+## Delta step 10 — capitolo 05
+
+| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
+| --- | --- | --- | --- | --- |
+| N-FL04-05-01 | parziale | sviluppati competenza, contenuto, prova e controllo del verbale | completo | § N-FL04-05-01 |
+| N-FL04-05-02 | parziale | sviluppati immediatezza, differimento e motivazione | completo | § N-FL04-05-02 |
+| N-FL04-05-03 | parziale | sviluppati destinatario, modalità, prova e decorrenza | completo | § N-FL04-05-03 |
+| N-FL04-05-04 | parziale | sviluppati alternatività, autorità, effetti e fascicolo | completo | § N-FL04-05-04 |
+| N-FL04-05-05 | avanzato | consolidati cronologia, caso, errori e verifica | completo | § N-FL04-05-05; blocco ▣ Verifica |
