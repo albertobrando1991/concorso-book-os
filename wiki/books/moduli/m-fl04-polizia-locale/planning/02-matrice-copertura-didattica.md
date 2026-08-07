@@ -200,3 +200,33 @@ La matrice applica il gate di copertura integrale ai capitoli del modulo. Gli st
 | N-FL04-06-03 | parziale | sviluppati pagamento, difese, audizione e istruttoria | completo | § N-FL04-06-03 |
 | N-FL04-06-04 | parziale | sviluppati valutazione, motivazione, esiti e opposizione | completo | § N-FL04-06-04 |
 | N-FL04-06-05 | avanzato | consolidati discipline speciali, caso ed errore | completo | § N-FL04-06-05; blocco ▣ Verifica |
+
+## Dettaglio Formato 2 — capitolo 07
+
+| Nucleo ID | Famiglia/profilo | Materia | Concetto/sotto-concetti | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FL04-07-01 | M-FL04/tutti | Funzioni di PG | compiti; qualifiche; territorio; attribuzioni; dipendenza funzionale | [[sources/codice-procedura-penale-polizia-giudiziaria]]; [[sources/legge-65-1986-polizia-locale]] | Cap. 07 § N-FL04-07-01 | funzione e limiti | controllo commerciale | schema funzione-qualifica-atto | Q:1 C:1 E:1 | completo | artt. 55-59 c.p.p. e art. 5 L. 65/1986 |
+| N-FL04-07-02 | M-FL04/tutti | Notizia di reato | fatto; qualificazione provvisoria; fonti; soggetti; comunicazione | [[sources/codice-procedura-penale-polizia-giudiziaria]] | Cap. 07 § N-FL04-07-02 | contenuto e tempestività | controllo ambientale | sequenza fatto-fonte-attività | Q:2 C:1 E:1 | completo | art. 347 c.p.p. vigente |
+| N-FL04-07-03 | M-FL04/tutti | Documentazione PG | annotazione; relazione; verbale; identificazione; atti urgenti | [[sources/codice-procedura-penale-polizia-giudiziaria]] | Cap. 07 § N-FL04-07-03 | funzione e forma degli atti | formazione del fascicolo | tabella esigenza-documento | Q:3 C:1 E:1 | completo | artt. 349, 354 e 357 c.p.p. |
+| N-FL04-07-04 | M-FL04/tutti | Garanzie e prova | fonti; tracciabilità; difesa; delega; raccordo col PM | [[sources/codice-procedura-penale-polizia-giudiziaria]] | Cap. 07 § N-FL04-07-04 | conservazione e garanzie | sopralluogo edilizio | schema esigenza-norma-garanzia | Q:4 C:1 E:1 | completo | atti specifici e direttive Procura |
+| N-FL04-07-05 | M-FL04/tutti | Doppio binario | amministrativo; penale; autorità; atti; coordinamento | c.p.p.; legge n. 689/1981 | Cap. 07 § N-FL04-07-05 | distinzione dei procedimenti | attività produttiva | orale, esercizio e caso finale | Q:5 C:2 E:2 | completo | coordinamento settoriale |
+
+## Checklist dimensionale — capitolo 07
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso nella prova | Errore tipico | Verifica | Fonti |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FL04-07-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 1 | ✓ |
+| N-FL04-07-02 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 2 | ✓ |
+| N-FL04-07-03 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 3 | ✓ |
+| N-FL04-07-04 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 4 | ✓ |
+| N-FL04-07-05 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 5-6 e caso | ✓ |
+
+## Delta step 10 — capitolo 07
+
+| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
+| --- | --- | --- | --- | --- |
+| N-FL04-07-01 | avanzato | consolidati funzione, qualifiche, limiti e dipendenza funzionale | completo | § N-FL04-07-01 |
+| N-FL04-07-02 | avanzato | sviluppati elementi, contenuto, tempestività e metodo di comunicazione | completo | § N-FL04-07-02 |
+| N-FL04-07-03 | parziale | distinti documenti, identificazione, atti urgenti e controlli formali | completo | § N-FL04-07-03 |
+| N-FL04-07-04 | parziale | sviluppati fonti di prova, garanzie, deleghe e raccordo con il PM | completo | § N-FL04-07-04 |
+| N-FL04-07-05 | avanzato | consolidati doppio binario, caso, orale, esercizio e verifica | completo | § N-FL04-07-05; blocco ▣ Verifica |
