@@ -3,7 +3,7 @@
   "specPath": "books/vol-02-enti-locali-polizia-locale/planning/00-scheda-pipeline.md",
   "specHash": "sha256:b9ec2abf7ad63aaa5271f5f2d561817a092ec16c24727d57ebf82ef84b0a5a6b",
   "createdAt": "2026-07-29T22:02:16.845Z",
-  "updatedAt": "2026-08-07T20:40:53.060Z",
+  "updatedAt": "2026-08-07T21:11:17.416Z",
   "steps": [
     {
       "key": "08:moduli/m-fl01-comuni-unioni/chapters/01-tuel-operativo-autonomia-organi-funzioni-comune.md",
@@ -3747,9 +3747,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/06-procedimento-sanzionatorio-amministrativo-applicato.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T20:49:10.938Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fl04-polizia-locale/chapters/06-procedimento-sanzionatorio-amministrativo-applicato.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano verificato manualmente: cinque nuclei, confini con capitoli 05 e 07, fonti, budget, verifiche e audit definiti."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-07T20:50:06.053Z"
     },
     {
       "key": "09:moduli/m-fl04-polizia-locale/chapters/06-procedimento-sanzionatorio-amministrativo-applicato.md",
@@ -3757,9 +3780,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/06-procedimento-sanzionatorio-amministrativo-applicato.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T20:50:14.457Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T20:51:43.319Z"
     },
     {
       "key": "10:moduli/m-fl04-polizia-locale/chapters/06-procedimento-sanzionatorio-amministrativo-applicato.md",
@@ -3767,9 +3800,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/06-procedimento-sanzionatorio-amministrativo-applicato.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T20:53:53.244Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T21:08:33.351Z"
     },
     {
       "key": "11:moduli/m-fl04-polizia-locale/chapters/06-procedimento-sanzionatorio-amministrativo-applicato.md",
@@ -3777,9 +3820,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/06-procedimento-sanzionatorio-amministrativo-applicato.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T21:09:18.558Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T21:10:08.183Z"
     },
     {
       "key": "12:moduli/m-fl04-polizia-locale/chapters/06-procedimento-sanzionatorio-amministrativo-applicato.md",
@@ -3787,9 +3840,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/06-procedimento-sanzionatorio-amministrativo-applicato.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T21:10:23.758Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T21:11:17.416Z"
     },
     {
       "key": "08:moduli/m-fl04-polizia-locale/chapters/07-polizia-giudiziaria-atti-essenziali.md",

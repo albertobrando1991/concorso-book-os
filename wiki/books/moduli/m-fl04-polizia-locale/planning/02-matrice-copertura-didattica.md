@@ -170,3 +170,33 @@ La matrice applica il gate di copertura integrale ai capitoli del modulo. Gli st
 | N-FL04-05-03 | parziale | sviluppati destinatario, modalità, prova e decorrenza | completo | § N-FL04-05-03 |
 | N-FL04-05-04 | parziale | sviluppati alternatività, autorità, effetti e fascicolo | completo | § N-FL04-05-04 |
 | N-FL04-05-05 | avanzato | consolidati cronologia, caso, errori e verifica | completo | § N-FL04-05-05; blocco ▣ Verifica |
+
+## Dettaglio Formato 2 — capitolo 06
+
+| Nucleo ID | Famiglia/profilo | Materia | Concetto/sotto-concetti | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FL04-06-01 | M-FL04/tutti | Illecito e legalità | fonte; fatto; soggetto; colpevolezza; specialità; reato | [[sources/legge-24-novembre-1981-n-689-sanzioni-amministrative]] | Cap. 06 § N-FL04-06-01 | principi e qualificazione | controllo commerciale | schema fonte-fatto-responsabilità | Q:2 C:1 E:1 | completo | legge e fonte speciale vigenti |
+| N-FL04-06-02 | M-FL04/tutti | Accertamento | poteri; prova; contestazione; verbale; rapporto | legge n. 689/1981 | Cap. 06 § N-FL04-06-02 | formazione del fascicolo | accertamento locale | sequenza competenza-fatto-atto | Q:3 C:1 E:1 | completo | disciplina di settore |
+| N-FL04-06-03 | M-FL04/tutti | Pagamento e difese | pagamento ridotto; scritti; audizione; rapporto; istruttoria | legge n. 689/1981 | Cap. 06 § N-FL04-06-03 | alternative e contraddittorio | documento difensivo | tabella percorso-effetto | Q:2 C:1 E:1 | completo | condizioni e termini vigenti |
+| N-FL04-06-04 | M-FL04/tutti | Decisione | archiviazione; ordinanza; motivazione; notificazione; opposizione | legge n. 689/1981 | Cap. 06 § N-FL04-06-04 | istruttoria ed esiti | valutazione delle difese | schema autorità-provvedimento-rimedio | Q:3 C:1 E:1 | completo | opposizione vigente |
+| N-FL04-06-05 | M-FL04/tutti | Discipline speciali | commercio; ambiente; regolamento; competenza; PG | [[sources/suap-commercio-polizia-amministrativa-locale]] | Cap. 06 § N-FL04-06-05 | specialità applicata | pubblico esercizio | caso, orale ed esercizio | Q:6 C:2 E:2 | completo | audit settoriale |
+
+## Checklist dimensionale — capitolo 06
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso nella prova | Errore tipico | Verifica | Fonti |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FL04-06-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 1-2 | ✓ |
+| N-FL04-06-02 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 3 | ✓ |
+| N-FL04-06-03 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 4-5 | ✓ |
+| N-FL04-06-04 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 3-5 | ✓ |
+| N-FL04-06-05 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 6 e caso | ✓ |
+
+## Delta step 10 — capitolo 06
+
+| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
+| --- | --- | --- | --- | --- |
+| N-FL04-06-01 | parziale | sviluppati legalità, responsabilità, specialità e confine col reato | completo | § N-FL04-06-01 |
+| N-FL04-06-02 | parziale | sviluppati poteri, prova, verbale e rapporto | completo | § N-FL04-06-02 |
+| N-FL04-06-03 | parziale | sviluppati pagamento, difese, audizione e istruttoria | completo | § N-FL04-06-03 |
+| N-FL04-06-04 | parziale | sviluppati valutazione, motivazione, esiti e opposizione | completo | § N-FL04-06-04 |
+| N-FL04-06-05 | avanzato | consolidati discipline speciali, caso ed errore | completo | § N-FL04-06-05; blocco ▣ Verifica |
