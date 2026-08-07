@@ -1,0 +1,52 @@
+---
+id: didactic-coverage-matrix-m-fl04
+type: editorial_matrix
+title: "Matrice di copertura didattica — M-FL04 Polizia locale"
+status: in_progress
+domain: concorsi-pubblici
+topics: [copertura-didattica-integrale, polizia-locale]
+source_refs: [sources/principio-copertura-didattica-integrale-2026-07-17.md, sources/legge-65-1986-polizia-locale.md, sources/bandi-inpa-vol-02-campione-2026.md]
+book_refs: [m-fl04-polizia-locale, vol-02-enti-locali-polizia-locale]
+confidence: 0.86
+updated_at: 2026-08-07
+created_at: 2026-08-07
+review_required: true
+canonical: false
+tags: [matrice, copertura-didattica, m-fl04]
+book_id: m-fl04-polizia-locale
+module_code: M-FL04
+---
+
+# Matrice di copertura didattica — M-FL04
+
+La matrice applica il gate di copertura integrale ai capitoli del modulo. Gli stati diversi da `completo` restano bloccanti per i capitoli già entrati nel ciclo 08-12.
+
+## Dettaglio Formato 2 — capitolo 01
+
+| Nucleo ID | Famiglia/profilo | Materia | Concetto/sotto-concetti | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FL04-01-01 | M-FL04/tutti | Decoder del bando | profilo; area; requisiti; prove; materie; output | [[sources/bandi-inpa-vol-02-campione-2026]]; CCNL | Cap. 01 § N-FL04-01-01 | lettura in quattro passaggi | scheda del bando | decoder e calendario output | Q:1 C:1 E:1 | completo | bando target |
+| N-FL04-01-02 | M-FL04/tutti | Funzione e fonti | ente; legge quadro; legge regionale; regolamento; territorio | [[sources/legge-65-1986-polizia-locale]]; TUEL | Cap. 01 § N-FL04-01-02 | sistema delle fonti e limiti | qualificazione della fonte | risposta introduttiva | Q:1 C:1 E:1 | completo | fonti territoriali vigenti |
+| N-FL04-01-03 | M-FL04/agente-funzionario | Profili e qualifiche | denominazione; inquadramento; mansioni; PG; polizia stradale; pubblica sicurezza | [[sources/legge-65-1986-polizia-locale]]; Codice della strada | Cap. 01 § N-FL04-01-03 | tre piani e quattro distinzioni | profili di bando | schema profilo-funzione-qualifica | Q:2 C:1 E:1 | completo | art. 5 e provvedimenti applicabili |
+| N-FL04-01-04 | M-FL04/tutti | Materie e prove | nucleo comune; delta PL; quiz; scritto; pratico; orale; idoneità | fonti del capitolo | Cap. 01 § N-FL04-01-04 | materie trasformate in allenamento | campione di selezione | matrice materia-output | Q:1 C:1 E:1 | completo | requisiti del bando vigente |
+| N-FL04-01-05 | M-FL04/tutti | Piano e prestazione | 30/60/90; caso; orale; errore; diario | fonti metodologiche e bandi | Cap. 01 § N-FL04-01-05 | pianificazione orientata alla prova | caso da agente/istruttore | piano, risposta e checklist | Q:6 C:2 E:2 | completo | audit trasversale |
+
+## Checklist dimensionale — capitolo 01
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso nella prova | Errore tipico | Verifica | Fonti |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FL04-01-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 1 | ✓ |
+| N-FL04-01-02 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 2 | ✓ |
+| N-FL04-01-03 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 3-4 | ✓ |
+| N-FL04-01-04 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 5 | ✓ |
+| N-FL04-01-05 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 6 e caso | ✓ |
+
+## Delta step 10 — capitolo 01
+
+| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
+| --- | --- | --- | --- | --- |
+| N-FL04-01-01 | avanzato | sviluppata lettura del bando in quattro passaggi | completo | § N-FL04-01-01 |
+| N-FL04-01-02 | parziale | sviluppati sistema delle fonti, effetti e limiti | completo | § N-FL04-01-02 |
+| N-FL04-01-03 | avanzato | ricomposti profili, mansioni e qualifiche | completo | § N-FL04-01-03 |
+| N-FL04-01-04 | parziale | trasformate materie e prove in allenamenti verificabili | completo | § N-FL04-01-04 |
+| N-FL04-01-05 | avanzato | consolidati piano, caso, quiz e diario | completo | § N-FL04-01-05; blocco ▣ Verifica |
