@@ -17,7 +17,7 @@ asset_refs:
 confidence: 0.88
 updated_at: 2026-08-06
 created_at: 2026-07-17T17:30:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "module-code-m-fl02", "revised-draft", "professional-draft", "illustrated"]
 format_version: 2

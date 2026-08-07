@@ -3,7 +3,7 @@
   "specPath": "books/vol-02-enti-locali-polizia-locale/planning/00-scheda-pipeline.md",
   "specHash": "sha256:b9ec2abf7ad63aaa5271f5f2d561817a092ec16c24727d57ebf82ef84b0a5a6b",
   "createdAt": "2026-07-29T22:02:16.845Z",
-  "updatedAt": "2026-08-07T11:57:41.660Z",
+  "updatedAt": "2026-08-07T12:45:48.406Z",
   "steps": [
     {
       "key": "08:moduli/m-fl01-comuni-unioni/chapters/01-tuel-operativo-autonomia-organi-funzioni-comune.md",
@@ -3109,9 +3109,19 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T12:33:05.238Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T12:34:33.708Z"
     },
     {
       "key": "15:moduli/m-fl02-regioni-province-citta-metropolitane",
@@ -3119,9 +3129,19 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T12:34:51.386Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T12:43:03.682Z"
     },
     {
       "key": "16:moduli/m-fl02-regioni-province-citta-metropolitane",
@@ -3129,9 +3149,32 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T12:43:15.794Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"text-freeze\" dello step 16 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fl02-regioni-province-citta-metropolitane"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Verifica manuale completata: 12 capitoli presenti, matrice completa, Humanizer e step 13-15 chiusi, indice e fonti coerenti; manifest SHA-256 creato con cut-off 2026-08-07."
+          }
+        ],
+        "notImplemented": [
+          "text-freeze"
+        ]
+      },
+      "finishedAt": "2026-08-07T12:45:48.406Z"
     },
     {
       "key": "08:moduli/m-fl04-polizia-locale/chapters/01-diventare-agente-ufficiale-polizia-locale.md",

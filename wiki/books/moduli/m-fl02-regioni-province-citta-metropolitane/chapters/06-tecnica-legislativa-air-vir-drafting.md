@@ -11,7 +11,7 @@ book_refs: ["m-fl02-regioni-province-citta-metropolitane", "vol-02-enti-locali-p
 confidence: 0.84
 updated_at: 2026-08-06
 created_at: 2026-07-17T17:30:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "module-code-m-fl02", "professional-draft", "review-required"]
 book_id: m-fl02-regioni-province-citta-metropolitane
@@ -391,7 +391,7 @@ Questa formula non sostituisce la copertura specifica quando la prova richiede i
 ### Clausole valutative e monitoraggio
 Le clausole valutative sono disposizioni che prevedono raccolta di informazioni, relazioni periodiche e indicatori per consentire al Consiglio regionale di valutare l'attuazione e gli effetti della legge. Sono particolarmente coerenti con il ruolo delle assemblee legislative regionali, perché collegano funzione legislativa, indirizzo e controllo.
 
-Una clausola valutativa può prevedere che la Giunta trasmetta al Consiglio una relazione entro un certo termine e poi con periodicita definita. La relazione dovrebbe contenere dati su attuazione, beneficiari, risorse, criticità e risultati.
+Una clausola valutativa può prevedere che la Giunta trasmetta al Consiglio una relazione entro un certo termine e poi con periodicità definita. La relazione dovrebbe contenere dati su attuazione, beneficiari, risorse, criticità e risultati.
 
 Esempio:
 

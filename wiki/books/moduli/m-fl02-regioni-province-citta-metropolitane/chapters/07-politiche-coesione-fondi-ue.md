@@ -11,7 +11,7 @@ book_refs: ["m-fl02-regioni-province-citta-metropolitane", "vol-02-enti-locali-p
 confidence: 0.88
 updated_at: 2026-08-06
 created_at: 2026-07-17T17:30:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "module-code-m-fl02", "professional-draft", "review-required"]
 book_id: m-fl02-regioni-province-citta-metropolitane
@@ -82,7 +82,7 @@ Questa tabella è la tua mappa rapida per scritto, orale e caso pratico.
 ### Spiegazione teorica
 
 #### Che cosa sono le politiche di coesione
-Le politiche di coesione servono a ridurre divari territoriali, economici e sociali e a sostenere sviluppo, occupazione, innovazione, inclusione, ambiente, infrastrutture, formazione, capacità amministrativa e competitivita dei territori. Nel contesto italiano 2021-2027 sono finanziate da risorse europee, con cofinanziamento nazionale, e da risorse nazionali.
+Le politiche di coesione servono a ridurre divari territoriali, economici e sociali e a sostenere sviluppo, occupazione, innovazione, inclusione, ambiente, infrastrutture, formazione, capacità amministrativa e competitività dei territori. Nel contesto italiano 2021-2027 sono finanziate da risorse europee, con cofinanziamento nazionale, e da risorse nazionali.
 
 In un concorso regionale la definizione non basta. Devi collegare la politica di coesione al lavoro dell'amministrazione:
 
@@ -122,7 +122,7 @@ Nel livello manualistico, le sigle principali vanno lette per funzione.
 
 | Sigla | Funzione concorsuale | Esempi di ambito |
 |---|---|---|
-| FESR | Fondo europeo di sviluppo regionale: sostiene investimenti, competitivita, innovazione, energia, ambiente, infrastrutture, digitale, territorio. | Contributi a imprese, infrastrutture, efficientamento, reti, innovazione. |
+| FESR | Fondo europeo di sviluppo regionale: sostiene investimenti, competitività, innovazione, energia, ambiente, infrastrutture, digitale, territorio. | Contributi a imprese, infrastrutture, efficientamento, reti, innovazione. |
 | FSE+ | Fondo sociale europeo plus: sostiene occupazione, formazione, inclusione, competenze e politiche sociali. | Corsi, servizi per il lavoro, inclusione, borse, percorsi formativi. |
 | Plurifondo | Programma che combina FESR e FSE+. | Interventi territoriali integrati, sviluppo e inclusione nello stesso quadro. |
 | JTF | Fondo per una transizione giusta, legato a territori e processi di transizione. | Interventi per aree interessate da transizioni produttive o energetiche. |
@@ -517,7 +517,7 @@ Risposta breve:
 Usa questa mappa per non ridurre il tema a una lista di sigle. Ogni risorsa pubblica deve arrivare a un risultato documentato.
 
 ### Da sapere in 5 righe
-Le politiche di coesione finanziano interventi europei e nazionali per ridurre divari territoriali e sostenere sviluppo, occupazione, inclusione e competitivita. Nei concorsi regionali contano soprattutto Programma, priorità, azione, avviso, beneficiario, operazione, spesa ammissibile, indicatori, monitoraggio e controlli. FESR, FSE+, JTF, CTE e FSC non vanno confusi: hanno fonti e funzioni diverse. OpenCoesione rende leggibili dati e progetti della coesione. La risposta professionale collega sempre risorsa, procedimento, bilancio, documenti e risultati.
+Le politiche di coesione finanziano interventi europei e nazionali per ridurre divari territoriali e sostenere sviluppo, occupazione, inclusione e competitività. Nei concorsi regionali contano soprattutto Programma, priorità, azione, avviso, beneficiario, operazione, spesa ammissibile, indicatori, monitoraggio e controlli. FESR, FSE+, JTF, CTE e FSC non vanno confusi: hanno fonti e funzioni diverse. OpenCoesione rende leggibili dati e progetti della coesione. La risposta professionale collega sempre risorsa, procedimento, bilancio, documenti e risultati.
 
 ### Domanda da commissario
 **Domanda.** Qual è la differenza tra Programma, avviso e progetto nelle politiche di coesione regionali?

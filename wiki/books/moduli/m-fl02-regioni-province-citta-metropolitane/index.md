@@ -2,7 +2,7 @@
 id: m-fl02-regioni-province-citta-metropolitane
 type: specialist_module
 title: "M-FL02 - Regioni, Province e Citta Metropolitane"
-status: revised_draft
+status: text_frozen
 domain: "concorsi pubblici italiani"
 topics: ["moduli specialistici", "funzioni-locali", "metodo bando", "regioni", "province", "citta metropolitane"]
 entities: ["Metodo BANDO", "Capitale Personale", "Regione", "Provincia", "Citta metropolitana"]
@@ -11,17 +11,17 @@ book_refs: ["il-metodo-bando", "moduli-specialistici", "vol-02-enti-locali-poliz
 confidence: 0.86
 updated_at: 2026-08-07T15:15:00+02:00
 created_at: 2026-06-27T19:56:28+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["specialist-module", "module-family-funzioni-locali", "module-code-m-fl02", "module-review-complete"]
 book_id: m-fl02-regioni-province-citta-metropolitane
 module_code: M-FL02
 module_family: funzioni-locali
 module_family_title: "Funzioni Locali"
-module_status: transversal-review-complete
+module_status: text-frozen
 roadmap_phase: "3"
 companion_to: il-metodo-bando
-draft_stage: reviewed-draft
+draft_stage: text-frozen
 last_compiled_from: ["wiki/books/vol-02-enti-locali-polizia-locale/front-matter/06-indice.md", "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/01-il-sistema-territoriale-multilivello.md", "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/02-statuti-organi-organizzazione-regionale.md", "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/03-funzioni-regionali-rapporti-stato-enti-locali.md", "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/04-procedimenti-atti-organizzazione-amministrativa-regionale.md", "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/05-programmazione-bilancio-controlli-regionali.md", "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/06-tecnica-legislativa-air-vir-drafting.md", "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/07-politiche-coesione-fondi-ue.md", "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/08-pnrr-territoriale-regis-dnsh-controlli.md"]
 ---
 

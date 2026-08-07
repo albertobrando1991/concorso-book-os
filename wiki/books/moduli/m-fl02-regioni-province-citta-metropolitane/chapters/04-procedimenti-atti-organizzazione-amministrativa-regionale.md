@@ -11,7 +11,7 @@ book_refs: ["m-fl02-regioni-province-citta-metropolitane", "vol-02-enti-locali-p
 confidence: 0.85
 updated_at: 2026-08-06
 created_at: 2026-07-17T17:30:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "module-code-m-fl02", "revised-draft", "professional-draft"]
 book_id: m-fl02-regioni-province-citta-metropolitane

@@ -11,7 +11,7 @@ book_refs: ["m-fl02-regioni-province-citta-metropolitane", "vol-02-enti-locali-p
 confidence: 0.88
 updated_at: 2026-08-06
 created_at: 2026-07-17T17:30:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "module-code-m-fl02", "professional-draft", "review-required"]
 book_id: m-fl02-regioni-province-citta-metropolitane
@@ -35,7 +35,7 @@ Nei concorsi regionali e di area vasta il PNRR non va studiato come slogan di in
 
 Il candidato deve abituarsi a una sequenza precisa. Prima viene la misura del PNRR, poi il progetto identificato dal CUP, poi il soggetto che lo attua, poi il cronoprogramma, poi milestone e target, poi gli atti di affidamento o concessione, poi la spesa, poi i pagamenti, poi i dati in ReGiS, poi le evidenze DNSH, poi i controlli. Se manca un anello, la risposta resta debole.
 
-Il PNRR e un piano di performance pubblica. Non basta dire che l'opera e stata realizzata o che la fattura e stata pagata. Occorre dimostrare che l'intervento era finanziabile, identificato, tracciato, coerente con i tempi, rispettoso dei vincoli ambientali, documentato e verificabile.
+Il PNRR è un piano di performance pubblica. Non basta dire che l'opera è stata realizzata o che la fattura è stata pagata. Occorre dimostrare che l'intervento era finanziabile, identificato, tracciato, coerente con i tempi, rispettoso dei vincoli ambientali, documentato e verificabile.
 
 ### Obiettivo del capitolo
 Alla fine del capitolo devi saper fare otto operazioni:
@@ -82,7 +82,7 @@ Questa tabella e la mappa rapida per scritto, orale e caso pratico.
 ### Spiegazione teorica
 
 #### PNRR territoriale: che cosa significa
-Il PNRR e il Piano nazionale collegato al dispositivo europeo per la ripresa e resilienza. Nel linguaggio di prova, però, non e solo un insieme di missioni e risorse. E un sistema di attuazione che lega finanziamenti, progetti, scadenze, risultati e controlli.
+Il PNRR è il Piano nazionale collegato al dispositivo europeo per la ripresa e resilienza. Nel linguaggio di prova, però, non è solo un insieme di missioni e risorse. È un sistema di attuazione che lega finanziamenti, progetti, scadenze, risultati e controlli.
 
 Il termine "territoriale" indica che molti interventi non restano a livello centrale. Regioni, Province, Città metropolitane, Comuni, aziende sanitarie, enti strumentali e altri soggetti pubblici possono essere coinvolti come soggetti attuatori, beneficiari, destinatari o strutture di supporto. Il candidato M-FL02 deve capire come una misura nazionale diventa progetto sul territorio.
 
@@ -103,7 +103,7 @@ La catena minima e:
 
 Formula breve per l'orale:
 
-> Il PNRR territoriale e la traduzione locale di misure nazionali finanziate dal dispositivo europeo: l'ente non gestisce solo risorse, ma progetti identificati, tempi, risultati, dati, vincoli DNSH, rendicontazione e controlli.
+> Il PNRR territoriale è la traduzione locale di misure nazionali finanziate dal dispositivo europeo: l'ente non gestisce solo risorse, ma progetti identificati, tempi, risultati, dati, vincoli DNSH, rendicontazione e controlli.
 
 ### Il PNRR come ciclo progetto-spesa-risultato
 La particolarita del PNRR e il legame stretto tra realizzazione e risultato. In molti finanziamenti tradizionali il candidato tende a concentrarsi sulla spesa: stanziamento, impegno, liquidazione, pagamento. Nel PNRR questo non basta.
@@ -136,7 +136,7 @@ Per il livello M-FL02 non serve imparare a memoria ogni missione. Serve capire l
 | Milestone | Traguardo qualitativo o procedurale. | Dimostra che una fase rilevante e stata raggiunta. |
 | Target | Obiettivo quantitativo. | Dimostra numero, volume, risultato o output misurabile. |
 
-Errore tipico: dire che milestone e target sono "scadenze". La scadenza e il termine temporale. Milestone e target sono risultati da raggiungere entro determinati tempi.
+Errore tipico: dire che milestone e target sono "scadenze". La scadenza è il termine temporale. Milestone e target sono risultati da raggiungere entro determinati tempi.
 
 ### CUP, CIG e tracciabilità
 Il CUP e uno degli elementi centrali del progetto PNRR. Serve a identificare il progetto di investimento pubblico e a collegare atti, spese, pagamenti e monitoraggio. Nei progetti che generano affidamenti, il CIG identifica la procedura o il contratto pubblico ai fini di tracciabilità e monitoraggio.
@@ -157,7 +157,7 @@ Una risposta corretta non dice solo: "serve il CUP". Dice:
 ## N-FL02-08-03 · Soggetti, ReGiS e qualità del dato
 
 ### I soggetti del ciclo PNRR
-Il PNRR e un sistema multilivello. Nei concorsi regionali e di area vasta occorre distinguere i ruoli senza pretendere di ricostruire ogni modello organizzativo.
+Il PNRR è un sistema multilivello. Nei concorsi regionali e di area vasta occorre distinguere i ruoli senza pretendere di ricostruire ogni modello organizzativo.
 
 | Soggetto | Funzione | Errore da evitare |
 |---|---|---|

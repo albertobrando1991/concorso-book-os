@@ -2,15 +2,15 @@
 id: didactic-coverage-matrix-m-fl02
 type: editorial_matrix
 title: "Matrice di copertura didattica - M-FL02 Regioni, Province e Città metropolitane"
-status: in_progress
+status: complete
 domain: concorsi-pubblici
 topics: [copertura-didattica-integrale, regioni, area-vasta]
 source_refs: [sources/principio-copertura-didattica-integrale-2026-07-17.md, sources/costituzione-repubblica-italiana-testo-vigente.md, sources/legge-56-2014-province-citta-metropolitane.md]
 book_refs: [m-fl02-regioni-province-citta-metropolitane, vol-02-enti-locali-polizia-locale]
 confidence: 0.88
-updated_at: 2026-08-06
+updated_at: 2026-08-07
 created_at: 2026-08-06
-review_required: true
+review_required: false
 canonical: false
 tags: [matrice, copertura-didattica, m-fl02]
 book_id: m-fl02-regioni-province-citta-metropolitane
@@ -19,7 +19,7 @@ module_code: M-FL02
 
 # Matrice di copertura didattica — M-FL02
 
-La matrice applica il gate di copertura integrale ai dodici capitoli del modulo. Questa prima sezione registra il capitolo 01; i capitoli successivi saranno aggiunti durante i rispettivi cicli 08-12. Gli stati diversi da `completo` restano bloccanti.
+La matrice applica il gate di copertura integrale ai dodici capitoli del modulo. Tutti i capitoli hanno completato i rispettivi cicli 08-12; gli stati diversi da `completo` restano bloccanti.
 
 ## Dettaglio Formato 2 — capitolo 01
 
