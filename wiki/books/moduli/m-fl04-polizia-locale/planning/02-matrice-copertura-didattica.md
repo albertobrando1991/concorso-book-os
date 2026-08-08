@@ -410,3 +410,33 @@ La matrice applica il gate di copertura integrale ai capitoli del modulo. Gli st
 | N-FL04-13-03 | parziale | sviluppati ruoli, raccolta, confronto e garanzie | completo | § N-FL04-13-03 |
 | N-FL04-13-04 | parziale | sviluppati fascicolo, integrazioni, dati e accesso | completo | § N-FL04-13-04 |
 | N-FL04-13-05 | avanzato | consolidati piani, PG, caso, orale e verifica | completo | § N-FL04-13-05; blocco ▣ Verifica |
+
+## Dettaglio Formato 2 — capitolo 14
+
+| Nucleo ID | Famiglia/profilo | Materia | Concetto/sotto-concetti | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FL04-14-01 | M-FL04/coordinamento | Profili e comando | inquadramento; funzioni; qualifiche; incarichi; responsabilità | legge n. 65/1986, art. 7; TUEL, art. 107 | Cap. 14 § N-FL04-14-01 | ruoli e catena delle responsabilità | lettura del bando e dell'incarico | schema profilo-fonte-potere-limite | Q:1 C:1 E:1 | completo | disciplina regionale e organizzazione dell'ente |
+| N-FL04-14-02 | M-FL04/coordinamento | Ordine di servizio | finalità; perimetro; compiti; raccordo; controllo; rendicontazione | legge n. 65/1986; regolamento del Corpo | Cap. 14 § N-FL04-14-02 | struttura, funzione e limiti dell'ordine | servizio per una manifestazione | checklist dell'ordine e risposta orale | Q:2 C:1 E:2 | completo | regolamento e competenze vigenti |
+| N-FL04-14-03 | M-FL04/coordinamento | Personale e turni | fabbisogno; priorità; assegnazione; sostituzioni; benessere organizzativo | CCNL Funzioni locali 2022-2024; CCNL Area Funzioni locali 2022-2024 | Cap. 14 § N-FL04-14-03 | criteri di gestione e vincoli contrattuali | rimodulazione del turno | matrice rischio-risorsa-decisione | Q:2 C:1 E:1 | completo | CCNL e contrattazione applicabili |
+| N-FL04-14-04 | M-FL04/coordinamento | Contenzioso e accesso | reclamo; ricorso; autotutela; accesso; fascicolo; protezione dei dati | TUEL; disciplina del procedimento e dell'accesso | Cap. 14 § N-FL04-14-04 | distinzione dei rimedi e gestione documentale | contestazione di un verbale | schema richiesta-competenza-atto | Q:1 C:1 E:1 | completo | procedure e termini vigenti |
+| N-FL04-14-05 | M-FL04/coordinamento | Emergenze e comunicazione | attivazione; comando; continuità; cronologia; messaggi; chiusura | piani comunali; protocolli interni; legge n. 65/1986 | Cap. 14 § N-FL04-14-05 | ciclo decisionale e raccordo istituzionale | doppia urgenza durante un evento | traccia operativa e caso finale | Q:2 C:2 E:2 | completo | piano e protocolli dell'ente |
+
+## Checklist dimensionale — capitolo 14
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso nella prova | Errore tipico | Verifica | Fonti |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FL04-14-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 1 | ✓ |
+| N-FL04-14-02 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 2 | ✓ |
+| N-FL04-14-03 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 3-4 | ✓ |
+| N-FL04-14-04 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 5 | ✓ |
+| N-FL04-14-05 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 6 e caso | ✓ |
+
+## Delta step 10 — capitolo 14
+
+| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
+| --- | --- | --- | --- | --- |
+| N-FL04-14-01 | avanzato | consolidati profili, qualifiche, incarichi, poteri e limiti | completo | § N-FL04-14-01 |
+| N-FL04-14-02 | parziale | sviluppati contenuto dell'ordine, controllo, raccordo e rendicontazione | completo | § N-FL04-14-02 |
+| N-FL04-14-03 | parziale | sviluppati criteri di priorità, turni, sostituzioni e vincoli contrattuali | completo | § N-FL04-14-03 |
+| N-FL04-14-04 | avanzato | distinti reclamo, ricorso, autotutela, accesso e gestione del fascicolo | completo | § N-FL04-14-04 |
+| N-FL04-14-05 | avanzato | consolidati ciclo dell'emergenza, comunicazione, caso e verifica | completo | § N-FL04-14-05; blocco ▣ Verifica |
