@@ -350,3 +350,33 @@ La matrice applica il gate di copertura integrale ai capitoli del modulo. Gli st
 | N-FL04-11-03 | avanzato | ampliati preparazione, rilievi, dichiarazioni e fascicolo | completo | § N-FL04-11-03 |
 | N-FL04-11-04 | parziale | sviluppate fattispecie, misure, motivazione e ottemperanza | completo | § N-FL04-11-04 |
 | N-FL04-11-05 | avanzato | consolidati doppio binario, caso, orale, esercizio e verifica | completo | § N-FL04-11-05; blocco ▣ Verifica |
+
+## Dettaglio Formato 2 — capitolo 12
+
+| Nucleo ID | Famiglia/profilo | Materia | Concetto/sotto-concetti | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FL04-12-01 | M-FL04/tutti | Metodo ambientale | fatto; fonte; competenza; tecnica; atto | D.Lgs. n. 152/2006; verifica M-FL04.12 | Cap. 12 § N-FL04-12-01 | perimetro e sequenza di controllo | esposto e rischio apparente | schema fatto-fonte-autorità-atto | Q:1 C:1 E:1 | completo | disciplina ambientale vigente |
+| N-FL04-12-02 | M-FL04/tutti | Rifiuti | definizione; abbandono; conferimento; gestore; indizi | Parte quarta D.Lgs. n. 152/2006 | Cap. 12 § N-FL04-12-02 | nozione e piani del controllo | materiali in area pubblica | tabella materiale-servizio-illecito | Q:2 C:2 E:1 | completo | definizioni e fattispecie vigenti |
+| N-FL04-12-03 | M-FL04/tutti | Rumore | sorgente; orari; zonizzazione; misura; urgenza | legge n. 447/1995 | Cap. 12 § N-FL04-12-03 | quadro acustico e verifiche | musica da pubblico esercizio | schema elemento-domanda-limite | Q:2 C:1 E:1 | completo | legge quadro e regole locali |
+| N-FL04-12-04 | M-FL04/tutti | Competenze | Comune; gestore; PL; uffici; ARPA; AG | TUEL; disciplina regionale e locale | Cap. 12 § N-FL04-12-04 | rete funzionale e flussi | cumulo presso corso d'acqua | tabella soggetto-funzione | Q:1 C:1 E:2 | completo | riparto territoriale vigente |
+| N-FL04-12-05 | M-FL04/tutti | Atti e doppio binario | verbale; relazione; ordinanza; sanzione; PG | legge n. 689/1981; c.p.p.; fonti speciali | Cap. 12 § N-FL04-12-05 | presupposti e finalità degli atti | controllo integrato rumore-rifiuti | orale, esercizio e caso finale | Q:2 C:2 E:2 | completo | competenze e procedure specifiche |
+
+## Checklist dimensionale — capitolo 12
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso nella prova | Errore tipico | Verifica | Fonti |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FL04-12-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 1 | ✓ |
+| N-FL04-12-02 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 2 | ✓ |
+| N-FL04-12-03 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 3 e 5 | ✓ |
+| N-FL04-12-04 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 4 | ✓ |
+| N-FL04-12-05 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 6 e caso | ✓ |
+
+## Delta step 10 — capitolo 12
+
+| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
+| --- | --- | --- | --- | --- |
+| N-FL04-12-01 | avanzato | consolidati perimetro, metodo, urgenza e uso nella prova | completo | § N-FL04-12-01 |
+| N-FL04-12-02 | avanzato | sviluppati definizione, accertamento, indizi e raccordo col gestore | completo | § N-FL04-12-02 |
+| N-FL04-12-03 | parziale | sviluppati legge quadro, sorgente, controlli e misure urgenti | completo | § N-FL04-12-03 |
+| N-FL04-12-04 | parziale | distinti soggetti, funzioni, flussi e fonti territoriali | completo | § N-FL04-12-04 |
+| N-FL04-12-05 | avanzato | consolidati atti, doppio binario, caso, orale e verifica | completo | § N-FL04-12-05; blocco ▣ Verifica |
