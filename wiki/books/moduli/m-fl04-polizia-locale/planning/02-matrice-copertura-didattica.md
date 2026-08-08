@@ -260,3 +260,33 @@ La matrice applica il gate di copertura integrale ai capitoli del modulo. Gli st
 | N-FL04-08-03 | avanzato | precisati riparto, verbi funzionali e caso manifestazione | completo | § N-FL04-08-03 |
 | N-FL04-08-04 | parziale | sviluppati sopralluogo, documenti, fascicolo e atti distinti | completo | § N-FL04-08-04 |
 | N-FL04-08-05 | avanzato | consolidati immigrazione, caso, orale, esercizio e verifica | completo | § N-FL04-08-05; blocco ▣ Verifica |
+
+## Dettaglio Formato 2 — capitolo 09
+
+| Nucleo ID | Famiglia/profilo | Materia | Concetto/sotto-concetti | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FL04-09-01 | M-FL04/tutti | Sicurezza urbana | integrata; urbana; ordine pubblico; territorio | [[sources/verifica-ufficiale-m-fl04-09-2026-07-23]] | Cap. 09 § N-FL04-09-01 | definizioni e confini | problema territoriale | schema problema-area-raccordo | Q:1 C:1 E:1 | completo | D.L. n. 14/2017 vigente |
+| N-FL04-09-02 | M-FL04/tutti | Strumenti ordinari | regolamento; controllo; gestione; istruttoria; proporzionalità | [[sources/d-lgs-18-agosto-2000-n-267-enti-locali]] | Cap. 09 § N-FL04-09-02 | funzione e scelta | rumore da esercizi | tabella strumento-presupposto | Q:2 C:1 E:1 | completo | regolamenti locali |
+| N-FL04-09-03 | M-FL04/tutti | Ordinanze | artt. 50 e 54; contingibilità; urgenza; motivazione; durata | [[sources/verifica-ufficiale-m-fl04-09-2026-07-23]] | Cap. 09 § N-FL04-09-03 | presupposti e limiti | misura sindacale | griglia validità | Q:2 C:1 E:1 | completo | TUEL e giurisprudenza |
+| N-FL04-09-04 | M-FL04/tutti | Coordinamento | Prefetto; forze statali; PL; dati; servizi | [[sources/legge-65-1986-polizia-locale]] | Cap. 09 § N-FL04-09-04 | ruoli e flussi | servizio coordinato | schema analisi-esecuzione | Q:1 C:1 E:1 | completo | direttive e patti locali |
+| N-FL04-09-05 | M-FL04/tutti | Aggiornamenti | fonti recenti; testo vigente; caso piazza; esame | [[sources/d-l-11-aprile-2025-n-48-convertito-dalla-l-9-giugno-2025-n-80-sicurezza-urbana]] | Cap. 09 § N-FL04-09-05 | metodo di aggiornamento | piazza e stazione | orale, esercizio e caso finale | Q:2 C:2 E:2 | completo | audit normativa recente |
+
+## Checklist dimensionale — capitolo 09
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso nella prova | Errore tipico | Verifica | Fonti |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FL04-09-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 1 | ✓ |
+| N-FL04-09-02 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 2 | ✓ |
+| N-FL04-09-03 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 3-4 | ✓ |
+| N-FL04-09-04 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 5 | ✓ |
+| N-FL04-09-05 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 6 e caso | ✓ |
+
+## Delta step 10 — capitolo 09
+
+| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
+| --- | --- | --- | --- | --- |
+| N-FL04-09-01 | avanzato | consolidate definizioni, applicazione e confine con ordine pubblico | completo | § N-FL04-09-01 |
+| N-FL04-09-02 | parziale | sviluppati regolamenti, gestione, istruttoria e proporzionalità | completo | § N-FL04-09-02 |
+| N-FL04-09-03 | avanzato | sviluppati artt. 50/54, requisiti, motivazione e durata | completo | § N-FL04-09-03 |
+| N-FL04-09-04 | parziale | sviluppati coordinamento, dati, servizi e limiti della PL | completo | § N-FL04-09-04 |
+| N-FL04-09-05 | avanzato | consolidati aggiornamenti, caso, orale, esercizio e verifica | completo | § N-FL04-09-05; blocco ▣ Verifica |
