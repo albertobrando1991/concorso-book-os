@@ -380,3 +380,33 @@ La matrice applica il gate di copertura integrale ai capitoli del modulo. Gli st
 | N-FL04-12-03 | parziale | sviluppati legge quadro, sorgente, controlli e misure urgenti | completo | § N-FL04-12-03 |
 | N-FL04-12-04 | parziale | distinti soggetti, funzioni, flussi e fonti territoriali | completo | § N-FL04-12-04 |
 | N-FL04-12-05 | avanzato | consolidati atti, doppio binario, caso, orale e verifica | completo | § N-FL04-12-05; blocco ▣ Verifica |
+
+## Dettaglio Formato 2 — capitolo 13
+
+| Nucleo ID | Famiglia/profilo | Materia | Concetto/sotto-concetti | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FL04-13-01 | M-FL04/tutti | Prime operazioni | soccorso; sicurezza; tracce; spostamenti; cronologia | artt. 11, 12 e 189 CdS | Cap. 13 § N-FL04-13-01 | priorità e compatibilità | arrivo sul sinistro | tabella priorità-attività-documento | Q:1 C:1 E:1 | completo | CdS vigente |
+| N-FL04-13-02 | M-FL04/tutti | Rilievi | fotografie; misure; planimetria; danni; riferimenti | CdS e regolamento | Cap. 13 § N-FL04-13-02 | funzione e limiti del rilievo | collisione in incrocio | schema strumento-funzione-cautela | Q:2 C:1 E:2 | completo | procedure e dotazioni vigenti |
+| N-FL04-13-03 | M-FL04/tutti | Fonti dichiarative | conducenti; testimoni; ruoli; fonte; condizioni | CdS; c.p.p. quando pertinente | Cap. 13 § N-FL04-13-03 | raccolta e confronto delle versioni | semaforo e testimone | tabella fonte-contenuto-cautela | Q:2 C:1 E:1 | completo | forme e garanzie applicabili |
+| N-FL04-13-04 | M-FL04/tutti | Fascicolo e accesso | sezioni; allegati; dati; informazioni; accesso | art. 11 CdS; disciplina dati/accesso | Cap. 13 § N-FL04-13-04 | catena documentale e limiti | richiesta di copia | checklist fascicolo | Q:1 C:1 E:2 | completo | privacy e accesso vigenti |
+| N-FL04-13-05 | M-FL04/tutti | Doppio binario | violazioni; responsabilità; reato; PG; PM | artt. 347 e 357 c.p.p. | Cap. 13 § N-FL04-13-05 | piani, atti e destinatari | motociclista ferito | orale e caso finale | Q:2 C:2 E:2 | completo | CdS, c.p.p. e direttive Procura |
+
+## Checklist dimensionale — capitolo 13
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso nella prova | Errore tipico | Verifica | Fonti |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FL04-13-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 1 | ✓ |
+| N-FL04-13-02 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 2 | ✓ |
+| N-FL04-13-03 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 3 | ✓ |
+| N-FL04-13-04 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 4 | ✓ |
+| N-FL04-13-05 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 5-6 e caso | ✓ |
+
+## Delta step 10 — capitolo 13
+
+| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
+| --- | --- | --- | --- | --- |
+| N-FL04-13-01 | avanzato | consolidati priorità, sicurezza, tracce e cronologia | completo | § N-FL04-13-01 |
+| N-FL04-13-02 | avanzato | sviluppati strumenti, riferimenti, coerenza e limiti | completo | § N-FL04-13-02 |
+| N-FL04-13-03 | parziale | sviluppati ruoli, raccolta, confronto e garanzie | completo | § N-FL04-13-03 |
+| N-FL04-13-04 | parziale | sviluppati fascicolo, integrazioni, dati e accesso | completo | § N-FL04-13-04 |
+| N-FL04-13-05 | avanzato | consolidati piani, PG, caso, orale e verifica | completo | § N-FL04-13-05; blocco ▣ Verifica |
