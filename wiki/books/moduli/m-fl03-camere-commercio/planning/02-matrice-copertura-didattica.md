@@ -43,3 +43,33 @@ canonical: true
 | N-FL03-01-03 | parziale | ordinate funzioni, servizi e regolazione del mercato | completo | sezione `N-FL03-01-03` |
 | N-FL03-01-04 | parziale | chiariti raccordo territoriale, SUAP e canali digitali | completo | sezione `N-FL03-01-04` |
 | N-FL03-01-05 | parziale | introdotta lettura del bando e produzione degli output | completo | sezione `N-FL03-01-05` |
+
+## Capitolo 02 - Registro imprese, REA e pubblicità legale
+
+| Nucleo ID | Famiglia/profilo | Materia | Concetto/sotto-concetti | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| N-FL03-02-01 | M-FL03/servizi anagrafici | Pubblicità legale | natura pubblica; conoscibilità; interessi; effetti | [[sources/registro-imprese-rea-pubblicita-legale-dpr-581-1995]]; [[sources/verifica-ufficiale-m-fl03-02-2026-07-22]] | Cap. 02 § N-FL03-02-01 | definizione, funzione e limiti | classificazione della richiesta | risposta su funzione del Registro | Q:1 C:1 E:1 | completo | audit step 15 |
+| N-FL03-02-02 | M-FL03/servizi anagrafici | Registro e REA | Registro; REA; anagrafi; unità locale | [[sources/registro-imprese-rea-pubblicita-legale-dpr-581-1995]]; [[sources/verifica-ufficiale-m-fl03-02-2026-07-22]] | Cap. 02 § N-FL03-02-02 | funzioni e distinzioni | caso su notizia economico-amministrativa | confronto Registro/REA | Q:1 C:1 E:1 | completo | audit step 15 |
+| N-FL03-02-03 | M-FL03/amministrativo | Pratiche e istruttoria | iscrizione; deposito; variazione; consultazione; controlli | [[sources/registro-imprese-rea-pubblicita-legale-dpr-581-1995]] | Cap. 02 § N-FL03-02-03 | operazioni e sequenza amministrativa | classificazione di pratiche | schema di istruttoria | Q:1 C:2 E:2 | completo | audit step 15 |
+| N-FL03-02-04 | M-FL03/servizi anagrafici | Documenti camerali | visura; certificato; fascicolo; bilanci; atti | [[sources/verifica-ufficiale-m-fl03-02-2026-07-22]]; [[sources/registro-imprese-rea-pubblicita-legale-dpr-581-1995]] | Cap. 02 § N-FL03-02-04 | funzione e limiti degli output | scelta del documento | orientamento dell'utente | Q:1 C:2 E:2 | completo | audit step 15 |
+| N-FL03-02-05 | M-FL03/tutti | Telematica e SUAP | ComUnica; canale digitale; interoperabilità; SUAP | [[sources/verifica-ufficiale-m-fl03-02-2026-07-22]]; [[sources/bandi-camerali-m-fl03-2026]] | Cap. 02 § N-FL03-02-05 | strumenti, competenze e raccordi | caso misto Camera-SUAP | risposta di sportello | Q:2 C:2 E:2 | completo | piattaforme e audit step 15 |
+
+### Checklist dimensionale - capitolo 02
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso nella prova | Errore tipico | Verifica | Fonti |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| N-FL03-02-01 | ✓ sistema pubblico | ✓ pubblicità legale | ✓ D.P.R. 581/1995 | ✓ dati, fatti e atti | ✓ pubblicità/archivio | ✓ conoscibilità senza effetti generalizzati | ✓ controllo del fornitore | ✓ risposta definitoria | ✓ banca dati privata | ✓ quiz 1 | ✓ frontmatter e riferimenti |
+| N-FL03-02-02 | ✓ Registro e REA | ✓ pubblicità e integrazione | ✓ sistema camerale | ✓ notizie economico-amministrative | ✓ Registro/REA | ✓ corretta classificazione | ✓ unità locale | ✓ confronto orale | ✓ sinonimia impropria | ✓ quiz 2 | ✓ frontmatter e riferimenti |
+| N-FL03-02-03 | ✓ quattro operazioni | ✓ trattamento della pratica | ✓ procedimento camerale | ✓ competenza, documenti, controlli | ✓ iscrizione/deposito/consultazione | ✓ esito non anticipabile | ✓ modifica e deposito | ✓ schema istruttorio | ✓ procedura presunta | ✓ quiz 3 | ✓ frontmatter e riferimenti |
+| N-FL03-02-04 | ✓ documenti | ✓ informazione/certificazione | ✓ servizi camerali | ✓ visura, certificato, fascicolo | ✓ visura/certificato | ✓ scelta dell'output | ✓ documento per terzo | ✓ caso di sportello | ✓ intercambiabilità | ✓ quiz 4 | ✓ frontmatter e riferimenti |
+| N-FL03-02-05 | ✓ servizi telematici | ✓ semplificazione | ✓ raccordo Camera-SUAP | ✓ ComUnica, flussi, canali | ✓ piattaforma/competenza | ✓ permanenza dell'istruttoria | ✓ sede, unità locale e SCIA | ✓ risposta articolata | ✓ competenza unica | ✓ quiz 5-6 e caso | ✓ frontmatter e riferimenti |
+
+### Delta step 10 - capitolo 02
+
+| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
+|---|---|---|---|---|
+| N-FL03-02-01 | avanzato | assegnato Nucleo ID e resa esplicita la cautela sugli effetti | completo | sezione `N-FL03-02-01` |
+| N-FL03-02-02 | avanzato | consolidata distinzione fra pubblicità e notizie REA | completo | sezione `N-FL03-02-02` |
+| N-FL03-02-03 | parziale | ordinate operazioni, controlli e comunicazione dell'esito | completo | sezione `N-FL03-02-03` |
+| N-FL03-02-04 | avanzato | collegati documenti, funzione ed esigenza dell'utente | completo | sezione `N-FL03-02-04` |
+| N-FL03-02-05 | parziale | distinti canale telematico, interoperabilità e competenza | completo | sezione `N-FL03-02-05` |
