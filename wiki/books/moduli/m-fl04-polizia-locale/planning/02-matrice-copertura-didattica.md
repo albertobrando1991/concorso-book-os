@@ -440,3 +440,33 @@ La matrice applica il gate di copertura integrale ai capitoli del modulo. Gli st
 | N-FL04-14-03 | parziale | sviluppati criteri di priorità, turni, sostituzioni e vincoli contrattuali | completo | § N-FL04-14-03 |
 | N-FL04-14-04 | avanzato | distinti reclamo, ricorso, autotutela, accesso e gestione del fascicolo | completo | § N-FL04-14-04 |
 | N-FL04-14-05 | avanzato | consolidati ciclo dell'emergenza, comunicazione, caso e verifica | completo | § N-FL04-14-05; blocco ▣ Verifica |
+
+## Dettaglio Formato 2 — capitolo 15
+
+| Nucleo ID | Famiglia/profilo | Materia | Concetto/sotto-concetti | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FL04-15-01 | M-FL04/tutti | Metodo di redazione | fatto; fonte; funzione; atto; destinatario; seguito | legge n. 65/1986; verifica M-FL04.15 | Cap. 15 § N-FL04-15-01 | classificazione della traccia e scelta documentale | scaletta in sei caselle | schema motivato dell'atto | Q:1 C:1 E:1 | completo | funzioni e procedure vigenti |
+| N-FL04-15-02 | M-FL04/tutti | Verbali sanzionatori | CdS; legge n. 689/1981; fonte speciale; contestazione; notificazione | CdS e regolamento; legge n. 689/1981 | Cap. 15 § N-FL04-15-02 | struttura, effetti e differenze procedimentali | confronto strada-commercio | verbale e controllo della fonte | Q:2 C:1 E:1 | completo | testi e termini vigenti |
+| N-FL04-15-03 | M-FL04/tutti | Documentazione | annotazione; relazione; comunicazione; PG; dichiarazioni | c.p.p.; legge n. 65/1986 | Cap. 15 § N-FL04-15-03 | funzione, contenuto e limiti dei documenti | relazione con destinatario | cronologia e trasmissione | Q:2 C:1 E:1 | completo | forme processuali e direttive vigenti |
+| N-FL04-15-04 | M-FL04/tutti | Laboratorio settoriale | strada; commercio; edilizia; ambiente; sicurezza urbana | CdS; fonti SUAP; D.P.R. n. 380/2001; D.Lgs. n. 152/2006 | Cap. 15 § N-FL04-15-04 | dati da fissare e verifiche settoriali | occupazione oltre il titolo | relazione istruttoria multisettoriale | Q:1 C:2 E:2 | completo | fonti speciali e procedure locali |
+| N-FL04-15-05 | M-FL04/tutti | Revisione dell'atto | logica; procedimento; riscontri; redazione; firma; invio | fonti dei nuclei 01-04; bandi inPA VOL-02 | Cap. 15 § N-FL04-15-05 | metodo di controllo in cinque passate | correzione e caso finale | griglia e prova completa | Q:2 C:2 E:2 | completo | modelli, deleghe e flussi vigenti |
+
+## Checklist dimensionale — capitolo 15
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso nella prova | Errore tipico | Verifica | Fonti |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FL04-15-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 1 | ✓ |
+| N-FL04-15-02 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 2 e 4 | ✓ |
+| N-FL04-15-03 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 3 e 5 | ✓ |
+| N-FL04-15-04 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 1 e caso guidato | ✓ |
+| N-FL04-15-05 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 6 e caso finale | ✓ |
+
+## Delta step 10 — capitolo 15
+
+| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
+| --- | --- | --- | --- | --- |
+| N-FL04-15-01 | avanzato | consolidati classificazione, fonti di conoscenza, funzione, destinatario e seguito | completo | § N-FL04-15-01 |
+| N-FL04-15-02 | parziale | sviluppati verbali stradali e amministrativi, struttura e rapporto generale-speciale | completo | § N-FL04-15-02 |
+| N-FL04-15-03 | avanzato | distinti annotazione, relazione, comunicazione, linguaggio e documentazione di PG | completo | § N-FL04-15-03 |
+| N-FL04-15-04 | parziale | sviluppati controllo e casi di strada, commercio, edilizia, ambiente e sicurezza urbana | completo | § N-FL04-15-04 |
+| N-FL04-15-05 | avanzato | consolidati revisione, autovalutazione, quiz e caso finale | completo | § N-FL04-15-05; blocco ▣ Verifica |
