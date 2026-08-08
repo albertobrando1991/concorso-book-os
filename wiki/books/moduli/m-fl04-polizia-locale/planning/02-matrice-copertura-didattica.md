@@ -320,3 +320,33 @@ La matrice applica il gate di copertura integrale ai capitoli del modulo. Gli st
 | N-FL04-10-03 | parziale | sviluppate disciplina multilivello, qualificazione reale e interferenze TULPS | completo | § N-FL04-10-03 |
 | N-FL04-10-04 | parziale | sviluppati sopralluogo, verbalizzazione, evidenze e fascicolo | completo | § N-FL04-10-04 |
 | N-FL04-10-05 | avanzato | consolidati procedimento sanzionatorio, competenza, caso e verifica | completo | § N-FL04-10-05; blocco ▣ Verifica |
+
+## Dettaglio Formato 2 — capitolo 11
+
+| Nucleo ID | Famiglia/profilo | Materia | Concetto/sotto-concetti | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FL04-11-01 | M-FL04/tutti | Vigilanza edilizia | art. 27; funzione; ruoli; competenza; territorio | D.P.R. n. 380/2001; legge n. 65/1986 | Cap. 11 § N-FL04-11-01 | funzione e riparto delle competenze | esposto e controllo | schema soggetto-compito-limite | Q:1 C:1 E:1 | completo | art. 27 e organizzazione vigente |
+| N-FL04-11-02 | M-FL04/tutti | Regimi edilizi | attività libera; CILA; SCIA; permesso; conformità | D.P.R. n. 380/2001; disciplina regionale | Cap. 11 § N-FL04-11-02 | logica dei regimi e verifica | struttura in cortile | tabella regime-logica-controllo | Q:2 C:1 E:1 | completo | testo unico e legge regionale |
+| N-FL04-11-03 | M-FL04/tutti | Sopralluogo | luogo; opera; soggetti; documenti; prove; fascicolo | D.P.R. n. 380/2001; regole procedurali | Cap. 11 § N-FL04-11-03 | metodo di accertamento | rilievo e fascicolo | checklist e relazione cronologica | Q:1 C:1 E:2 | completo | attribuzioni e protocolli vigenti |
+| N-FL04-11-04 | M-FL04/tutti | Procedimenti repressivi | istruttoria; sospensione; demolizione; misura; ottemperanza | artt. 27 e 31 D.P.R. n. 380/2001 | Cap. 11 § N-FL04-11-04 | fattispecie, atti e competenze | controllo dell'ottemperanza | schema fase-contenuto-soggetto | Q:2 C:1 E:1 | completo | fattispecie repressive vigenti |
+| N-FL04-11-05 | M-FL04/tutti | Doppio binario | amministrativo; penale; PG; notizia di reato; documentazione | artt. 55, 347 e 357 c.p.p. | Cap. 11 § N-FL04-11-05 | distinzione di finalità, atti e autorità | opera senza titolo apparente | orale, esercizio e caso finale | Q:2 C:2 E:2 | completo | c.p.p. e direttive Procura |
+
+## Checklist dimensionale — capitolo 11
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso nella prova | Errore tipico | Verifica | Fonti |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FL04-11-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 1 | ✓ |
+| N-FL04-11-02 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 2 | ✓ |
+| N-FL04-11-03 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 3 e 6 | ✓ |
+| N-FL04-11-04 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 4 | ✓ |
+| N-FL04-11-05 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 5 e caso | ✓ |
+
+## Delta step 10 — capitolo 11
+
+| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
+| --- | --- | --- | --- | --- |
+| N-FL04-11-01 | avanzato | consolidati art. 27, funzione, ruoli e limiti | completo | § N-FL04-11-01 |
+| N-FL04-11-02 | parziale | sviluppati regimi, conformità e metodo di qualificazione | completo | § N-FL04-11-02 |
+| N-FL04-11-03 | avanzato | ampliati preparazione, rilievi, dichiarazioni e fascicolo | completo | § N-FL04-11-03 |
+| N-FL04-11-04 | parziale | sviluppate fattispecie, misure, motivazione e ottemperanza | completo | § N-FL04-11-04 |
+| N-FL04-11-05 | avanzato | consolidati doppio binario, caso, orale, esercizio e verifica | completo | § N-FL04-11-05; blocco ▣ Verifica |
