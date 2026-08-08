@@ -11,7 +11,7 @@ book_refs: ["m-fl04-polizia-locale", "vol-02-enti-locali-polizia-locale", "il-me
 confidence: 0.88
 updated_at: 2026-08-07T23:55:00+02:00
 created_at: 2026-07-17T20:20:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "module-code-m-fl04", "professional-draft", "tulps", "immigrazione"]
 book_id: m-fl04-polizia-locale
@@ -163,7 +163,7 @@ La risposta orale non si esaurisce in un elenco di competenze astratte. La seque
 
 Il Comune cura i procedimenti amministrativi attribuiti dalle leggi statali e regionali e dai regolamenti. Gli uffici competenti possono ricevere pratiche, verificare requisiti, adottare provvedimenti o avviare controlli secondo il settore. Il sindaco è organo dell'ente e, in specifiche ipotesi, esercita attribuzioni previste dall'ordinamento. Non è però corretto dedurre dal ruolo politico una competenza generale su ogni atto di pubblica sicurezza.
 
-Il Prefetto rappresenta un'autorita statale nel territorio provinciale e svolge le funzioni attribuitegli dalle fonti. Nel perimetro della Polizia locale, rileva anche per il conferimento della qualità di agente di pubblica sicurezza alle condizioni stabilite dall'art. 5 della legge n. 65/1986. Questo atto non comporta una direzione amministrativa ordinaria del servizio comunale.
+Il Prefetto rappresenta un'autorità statale nel territorio provinciale e svolge le funzioni attribuitegli dalle fonti. Nel perimetro della Polizia locale, rileva anche per il conferimento della qualità di agente di pubblica sicurezza alle condizioni stabilite dall'art. 5 della legge n. 65/1986. Questo atto non comporta una direzione amministrativa ordinaria del servizio comunale.
 
 Il Questore esercita le competenze che la legge gli assegna quale autorità di pubblica sicurezza. Alcuni titoli, divieti o provvedimenti rientrano nella sua sfera; altri appartengono a autorità diverse. Nell'immigrazione, specifici atti sono riservati alla disciplina statale. La Polizia locale non può adottarli per analogia, ma deve documentare gli elementi e attivare il raccordo previsto.
 

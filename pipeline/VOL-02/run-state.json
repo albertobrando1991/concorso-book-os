@@ -3,7 +3,7 @@
   "specPath": "books/vol-02-enti-locali-polizia-locale/planning/00-scheda-pipeline.md",
   "specHash": "sha256:b9ec2abf7ad63aaa5271f5f2d561817a092ec16c24727d57ebf82ef84b0a5a6b",
   "createdAt": "2026-07-29T22:02:16.845Z",
-  "updatedAt": "2026-08-08T19:27:01.182Z",
+  "updatedAt": "2026-08-08T19:59:53.069Z",
   "steps": [
     {
       "key": "08:moduli/m-fl01-comuni-unioni/chapters/01-tuel-operativo-autonomia-organi-funzioni-comune.md",
@@ -4913,9 +4913,25 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-fl04-polizia-locale",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-08T19:27:57.943Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V13-01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-02/13-moduli-m-fl04-polizia-locale.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-08T19:46:46.412Z"
     },
     {
       "key": "14:moduli/m-fl04-polizia-locale",
@@ -4923,9 +4939,25 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-fl04-polizia-locale",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-08T19:46:58.857Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V13-01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-02/14-moduli-m-fl04-polizia-locale.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-08T19:47:49.217Z"
     },
     {
       "key": "15:moduli/m-fl04-polizia-locale",
@@ -4933,9 +4965,19 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-fl04-polizia-locale",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-08T19:47:57.722Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-08T19:58:17.592Z"
     },
     {
       "key": "16:moduli/m-fl04-polizia-locale",
@@ -4943,9 +4985,32 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-fl04-polizia-locale",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-08T19:58:26.023Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"text-freeze\" dello step 16 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fl04-polizia-locale"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Text freeze verificato manualmente: 15 capitoli presenti, 75 nuclei completi, step 11 e 13-15 chiusi, indice e Bibbia coerenti, audit senza esiti aperti, manifest SHA-256 in planning/10-text-freeze-manifest.md."
+          }
+        ],
+        "notImplemented": [
+          "text-freeze"
+        ]
+      },
+      "finishedAt": "2026-08-08T19:59:53.069Z"
     },
     {
       "key": "08:moduli/m-fl03-camere-commercio/chapters/01-camere-commercio-sistema-camerale-unioncamere.md",

@@ -11,7 +11,7 @@ book_refs: ["m-fl04-polizia-locale", "vol-02-enti-locali-polizia-locale", "il-me
 confidence: 0.84
 updated_at: 2026-08-07T18:00:00+02:00
 created_at: 2026-07-17T20:20:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "module-code-m-fl04", "professional-draft", "polizia-locale"]
 book_id: m-fl04-polizia-locale
