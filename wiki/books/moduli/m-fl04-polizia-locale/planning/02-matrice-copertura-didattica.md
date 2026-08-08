@@ -290,3 +290,33 @@ La matrice applica il gate di copertura integrale ai capitoli del modulo. Gli st
 | N-FL04-09-03 | avanzato | sviluppati artt. 50/54, requisiti, motivazione e durata | completo | § N-FL04-09-03 |
 | N-FL04-09-04 | parziale | sviluppati coordinamento, dati, servizi e limiti della PL | completo | § N-FL04-09-04 |
 | N-FL04-09-05 | avanzato | consolidati aggiornamenti, caso, orale, esercizio e verifica | completo | § N-FL04-09-05; blocco ▣ Verifica |
+
+## Dettaglio Formato 2 — capitolo 10
+
+| Nucleo ID | Famiglia/profilo | Materia | Concetto/sotto-concetti | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FL04-10-01 | M-FL04/tutti | SUAP | accesso; coordinamento; competenze; procedimenti; fascicolo | D.P.R. n. 160/2010; verifica ufficiale M-FL04.10 | Cap. 10 § N-FL04-10-01 | funzione e riparto dei ruoli | raccordo pattuglia-SUAP | schema vicenda-regime-ufficio | Q:1 C:1 E:1 | completo | D.P.R. n. 160/2010 vigente |
+| N-FL04-10-02 | M-FL04/tutti | Regimi amministrativi | SCIA; autorizzazione; comunicazione; ricevuta; controllo | art. 19 legge n. 241/1990; D.P.R. n. 160/2010 | Cap. 10 § N-FL04-10-02 | definizioni, effetti e controlli | confronto pratica-realtà | tabella modello-logica-verifica | Q:2 C:1 E:1 | completo | art. 19 e norme speciali vigenti |
+| N-FL04-10-03 | M-FL04/tutti | Commercio e pubblici esercizi | attività reale; fonti regionali; regolamenti; TULPS; titoli settoriali | d.lgs. n. 114/1998; TULPS; disciplina territoriale | Cap. 10 § N-FL04-10-03 | disciplina multilivello e qualificazione | negozio con tavoli esterni | schema profilo-fonte-verifica | Q:2 C:1 E:1 | completo | legge regionale e regolamenti locali |
+| N-FL04-10-04 | M-FL04/tutti | Sopralluogo | preparazione; osservazione; documenti; verbale; fascicolo | disciplina SUAP e settoriale consolidata | Cap. 10 § N-FL04-10-04 | metodo e valore delle evidenze | controllo di un dehors | checklist e risposta orale | Q:1 C:1 E:2 | completo | attribuzioni e procedure vigenti |
+| N-FL04-10-05 | M-FL04/tutti | Seguito sanzionatorio | accertamento; contestazione; decisione; misure; competenza | legge n. 689/1981; norme speciali | Cap. 10 § N-FL04-10-05 | separazione tra fasi e atti | dehors ampliato | sequenza operativa e caso finale | Q:2 C:2 E:2 | completo | sanzioni e autorità specifiche |
+
+## Checklist dimensionale — capitolo 10
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso nella prova | Errore tipico | Verifica | Fonti |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FL04-10-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 1 | ✓ |
+| N-FL04-10-02 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 2-3 | ✓ |
+| N-FL04-10-03 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 4-5 | ✓ |
+| N-FL04-10-04 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 4 | ✓ |
+| N-FL04-10-05 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 6 e caso | ✓ |
+
+## Delta step 10 — capitolo 10
+
+| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
+| --- | --- | --- | --- | --- |
+| N-FL04-10-01 | avanzato | consolidati funzione del SUAP, procedimenti, competenze e raccordo operativo | completo | § N-FL04-10-01 |
+| N-FL04-10-02 | avanzato | sviluppati modelli amministrativi, ricevuta e controllo successivo | completo | § N-FL04-10-02 |
+| N-FL04-10-03 | parziale | sviluppate disciplina multilivello, qualificazione reale e interferenze TULPS | completo | § N-FL04-10-03 |
+| N-FL04-10-04 | parziale | sviluppati sopralluogo, verbalizzazione, evidenze e fascicolo | completo | § N-FL04-10-04 |
+| N-FL04-10-05 | avanzato | consolidati procedimento sanzionatorio, competenza, caso e verifica | completo | § N-FL04-10-05; blocco ▣ Verifica |
