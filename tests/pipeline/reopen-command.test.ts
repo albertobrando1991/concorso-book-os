@@ -61,10 +61,20 @@ describe.sequential("pipeline reopen command", () => {
     expect(result.payload).toMatchObject({ startKeys: [stepKey("08", chapterOne)] })
   })
 
+  it("resolves a declared chapter without requiring --module", async () => {
+    const result = await runCommand(
+      parseArgs(["reopen", "VOL-08", "--step", "08", "--chapter", "02", "--cascade", "--note", "Capitolo 02 da adeguare"])
+    )
+
+    expect(result.payload).toMatchObject({ startKeys: [stepKey("08", chapterTwo)] })
+  })
+
   it.each([
     [["reopen", "VOL-08", "--module", "M-TR01", "--cascade", "--note", "Motivo"], /--step/i],
     [["reopen", "VOL-08", "--step", "08", "--module", "M-TR01", "--cascade"], /--note/i],
     [["reopen", "VOL-08", "--step", "08", "--module", "M-UNKNOWN", "--cascade", "--note", "Motivo"], /M-UNKNOWN|modulo/i],
+    [["reopen", "VOL-08", "--step", "08", "--cascade", "--note", "Motivo"], /--module o --chapter/i],
+    [["reopen", "VOL-08", "--step", "08", "--chapter", "99", "--cascade", "--note", "Motivo"], /Capitolo 99/i],
     [["reopen", "VOL-08", "--step", "24", "--module", "M-TR01", "--cascade", "--note", "Motivo"], /24|conferma/i]
   ])("rejects an invalid audited reopen request", async (argv, message) => {
     await expect(runCommand(parseArgs(argv))).rejects.toThrow(message)

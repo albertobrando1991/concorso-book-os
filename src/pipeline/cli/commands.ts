@@ -425,35 +425,43 @@ function targetFilter(state: RunState, context: Context) {
 function reopenStartKeys(state: RunState, spec: VolumeSpec, context: Context) {
   const stepId = context.args.step as string
   const moduleCode = context.args.module?.trim()
+  const chapter = context.args.chapter?.trim()
 
-  if (!moduleCode) {
-    throw new Error("pipeline reopen richiede --module per risolvere i target dichiarati nella scheda del volume.")
+  if (!moduleCode && !chapter) {
+    throw new Error("pipeline reopen richiede --module o --chapter per risolvere i target dichiarati nella scheda del volume.")
   }
 
-  const module = spec.modules.find((item) => item.code.trim().toLowerCase() === moduleCode.toLowerCase())
+  const modules = moduleCode
+    ? spec.modules.filter((item) => item.code.trim().toLowerCase() === moduleCode.toLowerCase())
+    : spec.modules
 
-  if (!module) {
+  if (!modules.length) {
     throw new Error(`Modulo ${moduleCode} non dichiarato nella scheda di ${spec.volumeCode}.`)
   }
 
   const definition = requireStepDefinition(stepId)
-  const chapter = context.args.chapter?.trim()
   let targets: string[]
 
   if (definition.scope === "chapter") {
-    const chapters = chapter ? module.chapters.filter((item) => item.number === chapter) : module.chapters
+    const matchingModules = chapter
+      ? modules.filter((module) => module.chapters.some((item) => item.number === chapter))
+      : modules
 
-    if (!chapters.length) {
-      throw new Error(`Capitolo ${chapter} non dichiarato per il modulo ${module.code}.`)
+    targets = matchingModules.flatMap((module) =>
+      module.chapters
+        .filter((item) => !chapter || item.number === chapter)
+        .map((item) => `${module.moduleId}/${item.file}`)
+    )
+
+    if (!targets.length) {
+      throw new Error(`Capitolo ${chapter} non dichiarato${moduleCode ? ` per il modulo ${moduleCode}` : ""}.`)
     }
-
-    targets = chapters.map((item) => `${module.moduleId}/${item.file}`)
   } else {
     if (chapter) {
       throw new Error(`Lo step ${stepId} non è per capitolo: rimuovi --chapter.`)
     }
 
-    targets = [module.moduleId]
+    targets = modules.map((module) => module.moduleId)
   }
 
   const startKeys = state.steps.filter((step) => step.id === stepId && targets.includes(step.target)).map((step) => step.key)
