@@ -43,7 +43,7 @@ Alla fine del capitolo devi saper leggere un quesito situazionale, riconoscere i
 - **Diario**: registra gli errori per categoria, non solo per numero di domanda. Un errore su riservatezza richiede un ripasso diverso da un errore su conflitto di interessi.
 - **Output**: devi produrre una scelta motivata, una risposta orale breve, una mini-analisi del caso e una checklist personale di esclusione delle alternative scorrette.
 
-## Nucleo 1. Lettura del quesito ministeriale
+## N-FC01-12-01 · Lettura del quesito ministeriale
 
 Un quesito situazionale va letto come una piccola scena di ufficio, non come una domanda di carattere. Nei concorsi pubblici, anche quando il test sembra parlare di buon senso, la risposta deve restare agganciata al ruolo pubblico. Il candidato non deve chiedersi soltanto: "Che cosa farei io?". Deve chiedersi: "Che cosa deve fare un dipendente pubblico competente, imparziale, responsabile e orientato al servizio, dentro una procedura e con i vincoli del proprio ufficio?".
 
@@ -59,7 +59,7 @@ La quinta operazione e' distinguere tra fermezza e rigidita'. Il dipendente pubb
 
 Infine, devi ricordare che le prove situazionali non sono una banca dati da memorizzare. Possono comparire in test a quiz, casi gestionali o colloqui, e il loro punteggio dipende sempre dal bando specifico. La preparazione efficace consiste nel costruire un metodo di lettura. Quando incontri una situazione, devi nominare il dovere coinvolto, scartare le alternative incoerenti e scegliere l'azione che tutela insieme amministrazione, cittadino e corretto funzionamento dell'ufficio. Questa e' la differenza tra rispondere da persona educata e rispondere da futuro dipendente pubblico.
 
-## Nucleo 2. Codice generale, codice integrativo e doveri del dipendente
+## N-FC01-12-02 · Codice generale, codice integrativo e doveri del dipendente
 
 Il codice di comportamento dei dipendenti pubblici e' uno dei riferimenti centrali per leggere i quesiti situazionali. Il D.P.R. 16 aprile 2013, n. 62 stabilisce il codice generale; il D.P.R. 13 giugno 2023, n. 81 lo ha aggiornato, rafforzando l'attenzione su tecnologie informatiche, mezzi di informazione, social media e rapporti con il pubblico. Il codice generale non esaurisce pero' la disciplina. Ogni amministrazione adotta un proprio codice integrativo, che adatta i principi generali alla propria organizzazione, ai propri uffici e ai propri rischi specifici.
 
@@ -75,7 +75,7 @@ Il rapporto tra codice di comportamento e responsabilita' e' altrettanto importa
 
 La risposta migliore, quindi, non e' quella piu' severa in astratto. E' quella che applica il codice con equilibrio. Se un collega sbaglia, non lo si espone inutilmente, ma non si nasconde l'errore. Se un cittadino protesta, non lo si accontenta fuori procedura, ma lo si ascolta e lo si indirizza. Se un superiore assegna un compito urgente, non si rifiuta per paura, ma si segnala il limite, si chiede chiarimento e si opera nei confini della competenza. Il codice di comportamento serve proprio a trasformare questi snodi in decisioni professionali.
 
-## Nucleo 3. Imparzialita', regali, interessi e astensione
+## N-FC01-12-03 · Imparzialità, regali, interessi e astensione
 
 L'imparzialita' e' uno dei criteri piu' importanti nei quesiti situazionali. In un'amministrazione pubblica, situazioni simili devono essere trattate secondo regole simili, senza favoritismi, pressioni, rapporti personali o convenienze private. Questo non significa che il dipendente debba essere freddo o distante. Significa che deve mantenere una posizione professionale, riconoscere i rischi di condizionamento e impedire che interessi personali, relazioni o vantaggi incidano sulla decisione amministrativa.
 
@@ -93,7 +93,7 @@ Devi anche evitare l'errore opposto: trasformare ogni conoscenza indiretta in pa
 
 Quando studi questo nucleo, allenati a riconoscere tre domande implicite: "C'e' un vantaggio non dovuto?", "C'e' un interesse personale?", "C'e' un rischio di trattamento privilegiato?". Se la risposta e' si', l'opzione corretta non sara' mai quella che normalizza il favore. Sara' quella che protegge imparzialita', tracciabilita' e fiducia nell'amministrazione.
 
-## Nucleo 4. Pubblico, servizio e riservatezza
+## N-FC01-12-04 · Pubblico, servizio e riservatezza
 
 Il rapporto con il pubblico e' uno dei terreni piu' frequenti dei quesiti situazionali. Il candidato deve capire che il servizio al cittadino non coincide con il fare tutto cio' che l'utente chiede. Servire il pubblico significa fornire informazioni corrette, usare un linguaggio comprensibile, orientare verso il canale giusto, rispettare i tempi e proteggere i diritti coinvolti. Allo stesso tempo, significa non promettere esiti, non anticipare decisioni, non creare corsie preferenziali e non sacrificare la riservatezza per apparire disponibili.
 
@@ -111,7 +111,7 @@ Un punto importante riguarda il linguaggio. Il servizio pubblico richiede chiare
 
 In prova, quando trovi un quesito su pubblico e riservatezza, applica una sequenza semplice. Prima verifica se la persona ha titolo a ricevere l'informazione. Poi valuta se l'informazione e' necessaria per rispondere alla richiesta. Poi scegli il canale corretto. Infine mantieni una comunicazione rispettosa e tracciabile. Le risposte da scartare sono quelle che pubblicano o comunicano troppo, quelle che negano assistenza senza spiegazione, quelle che promettono esiti e quelle che trasformano l'utente in un avversario. Il buon dipendente pubblico non e' quello che dice sempre si', ma quello che sa servire rispettando regole, persone e limiti.
 
-## Nucleo 5. Collaborazione, gerarchia, errore e responsabilita'
+## N-FC01-12-05 · Collaborazione, gerarchia, errore e responsabilità
 
 L'amministrazione pubblica funziona attraverso ruoli, competenze e responsabilita'. Un quesito situazionale valuta spesso la capacita' del candidato di lavorare dentro questa struttura senza cadere in due estremi: l'isolamento individuale e l'obbedienza cieca. Il dipendente non e' un soggetto separato dall'organizzazione, ma non e' nemmeno un esecutore privo di giudizio. Deve collaborare, informare, rispettare le competenze, segnalare problemi e contribuire alla correzione degli errori.
 
@@ -129,7 +129,7 @@ Una scena tipica riguarda il collega che lavora male o non rispetta una scadenza
 
 In prova, usa questa regola: collaborare non significa sostituirsi a tutti; rispettare la gerarchia non significa rinunciare alla legalita'; assumersi responsabilita' non significa decidere fuori competenza. La risposta migliore mantiene insieme iniziativa, rispetto dei ruoli, informazione corretta e protezione del servizio pubblico.
 
-## Nucleo 6. Tecnologie, risorse e comunicazione digitale
+## N-FC01-12-06 · Tecnologie, risorse e comunicazione digitale
 
 Le tecnologie informatiche sono ormai parte ordinaria del lavoro pubblico. Per questo gli aggiornamenti al codice di comportamento hanno rafforzato l'attenzione su uso degli strumenti digitali, mezzi di informazione, social media e rapporti con il pubblico. Nei quesiti situazionali, il tema digitale non va letto come una semplice prova di informatica. Non si tratta solo di sapere che cosa sia una casella di posta o un sistema documentale. Si tratta di capire come un dipendente pubblico deve usare strumenti, dati e comunicazioni quando rappresenta un'amministrazione.
 
@@ -147,7 +147,7 @@ La sesta regola e' non confondere digitalizzazione e disumanizzazione. Usare ben
 
 In prova, quando incontri tecnologia e comunicazione digitale, chiediti tre cose: lo strumento e' istituzionalmente corretto? Il dato e' protetto? La comunicazione e' tracciabile e proporzionata? Se una risposta sacrifica anche uno solo di questi elementi per comodita', e' probabilmente debole. Il dipendente pubblico digitale non e' quello che trova qualsiasi scorciatoia; e' quello che usa la tecnologia per rendere il servizio piu' affidabile, sicuro e verificabile.
 
-## Nucleo 7. Strategia di prova e diario errori
+## N-FC01-12-07 · Strategia di prova e diario degli errori
 
 La preparazione ai quesiti situazionali richiede allenamento diverso dalla memorizzazione normativa. La teoria serve, ma non basta. Devi imparare a riconoscere le strutture ricorrenti delle situazioni e a trasformare ogni errore in una regola operativa. Il candidato che si limita a correggere il quiz e passare oltre perde il valore principale dell'esercizio. Il candidato strategico costruisce un diario errori e, domanda dopo domanda, rende piu' stabile la propria gerarchia di scelta.
 
@@ -282,16 +282,25 @@ D. Studi soltanto il codice di comportamento senza fare altri casi.
 
 **Soluzioni commentate**
 
-1. **B**. La risposta corretta unisce ascolto, servizio e limiti di competenza. Promettere un esito o risolvere informalmente e' scorretto.
-2. **C**. Le credenziali sono personali e gli strumenti digitali devono essere usati secondo canali autorizzati.
-3. **C**. Il rapporto personale impone segnalazione e astensione quando necessario, per tutelare imparzialita' reale e percepita.
-4. **B**. Il dipendente deve evitare vantaggi non dovuti e mantenere il rapporto con l'utente sul piano istituzionale.
-5. **B**. L'errore va gestito tempestivamente, senza occultarlo e senza diffondere ulteriormente informazioni.
-6. **B**. La gerarchia non elimina legalita', competenza e imparzialita'.
-7. **B**. Servizio e trasparenza non autorizzano la comunicazione indiscriminata di dati.
-8. **C**. La comunicazione digitale puo' incidere su riservatezza, decoro e fiducia nell'amministrazione.
-9. **C**. Nei quesiti situazionali la soluzione migliore e' completa, tracciabile e rispettosa dei ruoli.
-10. **B**. Il diario errori serve a trasformare la risposta sbagliata in una regola di ripasso trasferibile.
+**Risposta corretta: B.** Unisce ascolto, servizio e limiti di competenza. Promettere un esito o risolvere informalmente e' scorretto.
+
+**Risposta corretta: C.** Le credenziali sono personali e gli strumenti digitali devono essere usati secondo canali autorizzati.
+
+**Risposta corretta: C.** Il rapporto personale impone segnalazione e astensione quando necessario, per tutelare imparzialita' reale e percepita.
+
+**Risposta corretta: B.** Il dipendente deve evitare vantaggi non dovuti e mantenere il rapporto con l'utente sul piano istituzionale.
+
+**Risposta corretta: B.** L'errore va gestito tempestivamente, senza occultarlo e senza diffondere ulteriormente informazioni.
+
+**Risposta corretta: B.** La gerarchia non elimina legalita', competenza e imparzialita'.
+
+**Risposta corretta: B.** Servizio e trasparenza non autorizzano la comunicazione indiscriminata di dati.
+
+**Risposta corretta: C.** La comunicazione digitale puo' incidere su riservatezza, decoro e fiducia nell'amministrazione.
+
+**Risposta corretta: C.** Nei quesiti situazionali la soluzione migliore e' completa, tracciabile e rispettosa dei ruoli.
+
+**Risposta corretta: B.** Il diario errori serve a trasformare la risposta sbagliata in una regola di ripasso trasferibile.
 
 **Caso ragionato integrato**
 
