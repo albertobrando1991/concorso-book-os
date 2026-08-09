@@ -72,6 +72,41 @@ La mappatura scompone le due righe canoniche senza sostituirle. Il passaggio a `
 | `N-TR01-01-05` | pianificato | distinti requisiti, attività, materie, prove, profondità e criteri | completo | heading omonimo, tabella prova-prestazione e mini-esercizio |
 | `N-TR01-01-06` | pianificato | completati procedura del decoder, stati, pacchetto, caso e verifica | completo | heading omonimo, sei quiz commentati, caso ragionato e checklist |
 
+## Retrofit formato 2 — mappatura capitolo 02
+
+| ID stabile | Nucleo canonico | Dimensioni da coprire | Output/applicazione | Verifica prevista | Stato |
+| --- | --- | --- | --- | --- | --- |
+| `N-TR01-02-01` | Elaboratore come sistema | CPU, registri, ALU, controllo, bus, ciclo di istruzione | ricostruzione funzionale di un'istruzione | quiz commentato | completo |
+| `N-TR01-02-02` | Rappresentazione di dati e istruzioni | codifica, intervallo, segno, precisione, overflow | lettura di un errore di rappresentazione | quiz con calcolo concettuale | completo |
+| `N-TR01-02-03` | Gerarchia di memoria | registri, cache, RAM, persistenza, località, hit/miss | scelta del livello e spiegazione del compromesso | quiz e microcaso | completo |
+| `N-TR01-02-04` | I/O ed eventi | controller, polling, interrupt, buffer | confronto fra modalità di gestione | quiz commentato | completo |
+| `N-TR01-02-05` | Prestazioni e colli di bottiglia | latenza, throughput, risposta, carico, parallelismo | diagnosi basata su metriche | caso del gestionale lento | completo |
+| `N-TR01-02-06` | Sistema operativo e risorse | processi, scheduling, memoria, I/O, file system, protezione | spiegazione orale della gestione delle risorse | quiz e domanda da commissario | completo |
+
+La verifica unica sarà collocata dopo il sesto nucleo e comprenderà almeno sei quiz commentati e un caso ragionato. La soglia minima resta 600 parole per nucleo; il controllo automatico del CLI prevale sul budget legacy.
+
+### Checklist dimensionale capitolo 02
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso prova | Errore | Verifica | Tracciabilità |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| `N-TR01-02-01` | ✓ elaboratore come sistema coordinato | ✓ elaborare, conservare, trasferire e coordinare | ✓ livello specialistico oltre i prerequisiti | ✓ CPU, ALU, controllo, registri, bus, memoria e I/O | ✓ componente/funzione; frequenza/lavoro utile | ✓ attese, contesa e stato | ✓ percorso dell'istruzione e CPU in attesa | ✓ ordine funzionale per l'orale | ✓ CPU più rapida come soluzione automatica | ✓ quiz 6 e domanda da commissario | ✓ quattro source_refs e last_compiled_from |
+| `N-TR01-02-02` | ✓ bit, byte e codifica | ✓ attribuzione di significato alle configurazioni | ✓ testo, immagini, audio e istruzioni | ✓ intervallo, segno, precisione, arrotondamento, overflow | ✓ overflow/perdita di precisione; con/senza segno | ✓ interpretazione e calcolo corretti | ✓ campo a quattro bit e importi monetari | ✓ diagnosi dell'anomalia di rappresentazione | ✓ bit privi di formato implicito | ✓ esercizio e quiz sul formato | ✓ fonti tecniche nel frontmatter |
+| `N-TR01-02-03` | ✓ gerarchia di memoria | ✓ riduzione del tempo medio di accesso | ✓ compromesso fra prossimità, capacità, costo e persistenza | ✓ registri, cache, RAM, storage, località, hit/miss | ✓ RAM/storage; virtuale/scambio su disco | ✓ penalità dei miss e pressione di memoria | ✓ ciclo su variabile/vettore e diagnosi | ✓ scelta motivata del livello | ✓ livello più grande come migliore | ✓ esercizio 1 e quiz 2 | ✓ fonti e rinvio VOL-01 nel frontmatter |
+| `N-TR01-02-04` | ✓ I/O e gestione degli eventi | ✓ coordinamento di dispositivi con tempi diversi | ✓ mediazione hardware/software | ✓ controller, driver, polling, interrupt, buffer, code | ✓ sincrono/asincrono; polling/interrupt | ✓ costo degli eventi, saturazione e perdita | ✓ coda di protocollazione a raffiche | ✓ confronto motivato dei meccanismi | ✓ buffer come eliminazione del limite | ✓ quiz 3 | ✓ fonte tecnica e topic nel frontmatter |
+| `N-TR01-02-05` | ✓ latenza, throughput e risposta | ✓ misurare il risultato osservato | ✓ carico, capacità e scalabilità | ✓ metriche, benchmark, code, parallelismo, contesa | ✓ concorrenza/simultaneità; correlazione/causa | ✓ saturazione e interventi verificabili | ✓ gestionale lento durante importazione | ✓ diagnosi per ipotesi ed evidenze | ✓ prescrizione prima della misura | ✓ esercizio 2, quiz 4 e 6 | ✓ fonti su prestazioni nel frontmatter |
+| `N-TR01-02-06` | ✓ sistema operativo come gestore e astrattore | ✓ assegnazione, isolamento e interfacce | ✓ ambiente di esecuzione dei programmi | ✓ processi, scheduling, memoria, driver, file system, permessi | ✓ programma/processo; interfaccia/sistema | ✓ competizione, protezione e continuità di esecuzione | ✓ caso del gestionale e competizione fra processi | ✓ risposta orale strutturata | ✓ sistema operativo ridotto alla GUI | ✓ quiz 5 e domanda da commissario | ✓ source_refs e riferimenti leggibili |
+
+### Delta step 10 — capitolo 02 formato 2
+
+| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
+| --- | --- | --- | --- | --- |
+| `N-TR01-02-01` | pianificato | verificata la catena componenti-funzioni-ciclo-stato e l'applicazione diagnostica | completo | heading omonimo, ciclo di istruzione, mini-caso e uso orale |
+| `N-TR01-02-02` | pianificato | verificate codifica, intervallo, segno, precisione, overflow e conseguenze | completo | heading omonimo, esempio a quattro bit e diagnosi per formato |
+| `N-TR01-02-03` | pianificato | verificati livelli, compromessi, località, memoria virtuale e persistenza | completo | heading omonimo, tabella dei livelli, esempio e quiz 2 |
+| `N-TR01-02-04` | pianificato | verificati controller, driver, trasferimenti, polling, interrupt, buffer e code | completo | heading omonimo, caso della protocollazione e quiz 3 |
+| `N-TR01-02-05` | pianificato | verificate metriche, carico, benchmark, colli di bottiglia e parallelismo | completo | heading omonimo, diagnosi in cinque mosse, caso e quiz 4/6 |
+| `N-TR01-02-06` | pianificato | verificate gestione e astrazione di CPU, memoria, I/O e file system | completo | heading omonimo, checklist, domanda da commissario e quiz 5 |
+
 ## Audit v4 dello step 07
 
 La classificazione deriva dal controllo delle promesse formative, delle fonti consolidate, del testo dei capitoli e delle evidenze registrate nei delta. Lunghezza, numero di titoli, quiz e casi non sono stati usati come prova autonoma di completezza.

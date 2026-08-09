@@ -4,6 +4,36 @@
 
 `chapters/02-informatica-specialistica-oltre-vol-01.md`
 
+## Addendum retrofit formato 2 — 2026-08-09
+
+Questo addendum prevale sulle valutazioni e sui budget legacy riportati più avanti. Il capitolo esiste già come bozza sostanziale di circa 2.300 parole: lo step 09 dovrà conservarne i contenuti corretti, riorganizzarli e svilupparli nel formato 2, senza riscrivere il VOL-01.
+
+### Mappa dei nuclei stabili
+
+| ID | Nucleo | Stato attuale | Sviluppo richiesto nello step 09 |
+| --- | --- | --- | --- |
+| `N-TR01-02-01` | Elaboratore come sistema | presente | consolidare CPU, registri, ALU, unità di controllo, bus e ciclo di istruzione; collegare ogni componente alla funzione e alle conseguenze operative |
+| `N-TR01-02-02` | Rappresentazione di dati e istruzioni | presente ma breve | sviluppare codifica, intervallo, segno, precisione, arrotondamento e overflow con esempi leggibili in prova |
+| `N-TR01-02-03` | Gerarchia di memoria | presente | sviluppare compromessi fra capacità, latenza, costo e persistenza; spiegare località, hit, miss e memoria virtuale senza anticipare dettagli del capitolo 05 |
+| `N-TR01-02-04` | I/O ed eventi | presente ma breve | chiarire controller, interrupt, polling, buffering e trasferimento dei dati con un confronto operativo |
+| `N-TR01-02-05` | Prestazioni e colli di bottiglia | presente | sviluppare latenza, throughput, tempo di risposta, carico, parallelismo e diagnosi basata su metriche |
+| `N-TR01-02-06` | Sistema operativo e risorse | presente | sviluppare processi, scheduling, memoria, I/O, file system, protezione e astrazione delle risorse, mantenendo il confine con l'uso operativo del VOL-01 |
+
+### Architettura editoriale vincolante
+
+- Un H2 numerato per ciascuno dei sei nuclei, con H3 funzionali e progressione definizione → funzione → elementi → distinzioni → conseguenze → applicazione.
+- Almeno 600 parole effettive per nucleo; obiettivo editoriale 650-750 parole, per un totale indicativo di 4.600-5.700 parole incluse apertura e verifica.
+- Un solo blocco `▣ Verifica` dopo il sesto nucleo, con almeno sei quiz commentati e almeno un caso ragionato.
+- Conservare e integrare: confine con il VOL-01, Mappa BANDO, caso del gestionale lento, domanda da commissario, domanda-trappola, errore tipico e checklist.
+- Evitare duplicazioni su uso elementare di hardware, file e cartelle (VOL-01), reti (cap. 05), programmazione (cap. 03), cloud (cap. 07) e cybersecurity (cap. 08).
+
+### Esempi, fonti e controlli
+
+- Esempi minimi: ciclo di istruzione; overflow o perdita di precisione; cache hit/miss; interrupt rispetto al polling; diagnosi di un collo di bottiglia; competizione fra processi.
+- Caso ragionato principale: rallentamento durante l'importazione di un archivio, con metrica, ipotesi, evidenze e verifica dell'intervento.
+- Fonti guida: dossier M-TR01; corpus ufficiale informatica; fonte tecnica su architetture, rappresentazione e prestazioni; topic hardware/architettura e sistemi operativi; rinvio puntuale al capitolo 10 del VOL-01.
+- Audit richiesti: coerenza tecnica delle semplificazioni; assenza di sovrapposizioni indebite; spiegazione degli acronimi al primo uso; nessun wikilink nel testo lettore; controllo delle soglie tramite CLI.
+
 ## Esito della ricognizione
 
 Il capitolo contiene soltanto frontmatter, titolo e specifica della struttura madre. Nessun nucleo è ancora completo. La matrice assegna al capitolo la riga «Informatica specialistica — architetture e sistemi», con copertura teorica da sviluppare, applicazione mediante checklist, output per quiz e orale e verifica tramite quiz.
