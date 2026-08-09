@@ -142,6 +142,41 @@ La verifica unica sarà collocata dopo il sesto nucleo e comprenderà almeno sei
 | `N-TR01-03-05` | pianificato | verificati alberi/grafi, ricerca, ordinamento, stabilità e compromessi | completo | heading omonimo, pseudocodice, domanda-trappola e quiz 1/2 |
 | `N-TR01-03-06` | pianificato | verificate complessità, scenari, memoria, debug e output concorsuale | completo | heading omonimo, tabella delle crescite, caso e quiz 5 |
 
+## Retrofit formato 2 — mappatura capitolo 04
+
+| ID stabile | Nucleo canonico | Dimensioni da coprire | Output/applicazione | Verifica prevista | Stato |
+| --- | --- | --- | --- | --- | --- |
+| `N-TR01-04-01` | Dai requisiti al modello relazionale | modello, schema, istanza, entità, attributi, relazioni, cardinalità, domini, chiavi e vincoli | schema delle pratiche e degli uffici | esercizio di modellazione e quiz | completo |
+| `N-TR01-04-02` | Vincoli, `NULL` e normalizzazione | anomalie, dipendenze, 1NF-3NF, dati esistenti e denormalizzazione | diagnosi di una tabella non normalizzata | quiz commentato e controllo dello schema | completo |
+| `N-TR01-04-03` | SQL per interrogare e modificare | filtri, ordinamento, join, aggregazioni, sottoquery e modifiche | scrittura, lettura e correzione di query | esercizio SQL e quiz commentato | completo |
+| `N-TR01-04-04` | Transazioni, concorrenza e indici | ACID, commit/rollback, isolamento, fenomeni concorrenti, scelta e verifica degli indici | diagnosi di aggiornamento parziale e piano di accesso | esercizio, quiz e confronto motivato | completo |
+| `N-TR01-04-05` | Famiglie NoSQL e criteri di scelta | chiave-valore, documentale, wide-column, grafo, aggregati, consistenza e distribuzione | matrice decisionale relazionale/NoSQL | quiz commentato e domanda-trappola | completo |
+| `N-TR01-04-06` | Qualità, accessi e output concorsuale | dimensioni della qualità, regole misurabili, privilegi, audit, ripristino e risposta tecnica | caso ragionato delle pratiche, diagnosi e orale | caso guidato, checklist e domanda orale | completo |
+
+La verifica unica è collocata dopo il sesto nucleo e comprende tre esercizi con soluzione e sei quiz commentati. Ogni nucleo supera 600 parole secondo il controllo dello step 09; casi, esercizi e quiz sono stati considerati verifica della teoria e non sostituti della spiegazione.
+
+### Checklist dimensionale capitolo 04
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso prova | Errore | Verifica | Tracciabilità |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| `N-TR01-04-01` | ✓ modello, schema, istanza, entità, attributo, relazione | ✓ traduce requisiti in strutture verificabili | ✓ passaggio concettuale-logico-relazionale | ✓ cardinalità, domini, chiavi, vincoli | ✓ schema/istanza; chiave naturale/artificiale; 1:N/N:M | ✓ integrità e ricostruzione dei collegamenti | ✓ pratiche, uffici, soggetti e tabella associativa | ✓ progettazione motivata dello schema | ✓ partire direttamente dalle colonne | ✓ esercizio 1 e quiz 2 | ✓ source_refs, last_compiled_from e riferimenti professionali |
+| `N-TR01-04-02` | ✓ dipendenza, anomalia, 1NF, 2NF, 3NF | ✓ riduce ridondanze e dipendenze indesiderate | ✓ normalizzazione successiva alla modellazione | ✓ vincoli, NULL, dipendenze parziali/transitive, denormalizzazione | ✓ assente/zero/vuoto; normalizzazione/denormalizzazione | ✓ inserimenti, aggiornamenti e cancellazioni coerenti | ✓ Assegnazione, Dipendente e Ufficio | ✓ diagnosi e correzione dello schema | ✓ dividere tabelle senza analizzare le dipendenze | ✓ quiz 3 e collaudo post-normalizzazione | ✓ fonte tecnica nel frontmatter e terminologia leggibile |
+| `N-TR01-04-03` | ✓ query, join, aggregazione, sottoquery | ✓ interroga e modifica dati dichiarando il risultato | ✓ SQL generale distinto dal dialetto di prodotto | ✓ SELECT, WHERE, ORDER BY, JOIN, GROUP BY, HAVING, DML | ✓ WHERE/HAVING; INNER/LEFT; COUNT(*)/COUNT(colonna) | ✓ cardinalità, nulli, duplicati e modifiche massive | ✓ query progressive su Pratica e Ufficio | ✓ scrittura e correzione di query | ✓ DISTINCT come copertura di join errata; DML senza WHERE | ✓ esercizio 2 e quiz 4 | ✓ documentazione DBMS nel frontmatter e riferimenti leggibili |
+| `N-TR01-04-04` | ✓ transazione, ACID, isolamento, indice | ✓ protegge unità di lavoro e sostiene accessi selettivi | ✓ concorrenza e prestazioni dipendono da rischio e carico | ✓ commit, rollback, fenomeni concorrenti, selettività, piano | ✓ chiave/vincolo/indice; garanzia logica/prestazione | ✓ attese, conflitti, manutenzione e spazio | ✓ archiviazione pratica ed evento; indice su stato | ✓ diagnosi di atomicità e scelta motivata | ✓ massimo isolamento o molti indici come risposte automatiche | ✓ esercizio 3 e quiz 1/5 | ✓ fonti PostgreSQL dichiarate e rinvio professionale leggibile |
+| `N-TR01-04-05` | ✓ NoSQL e quattro famiglie | ✓ adatta modello e accesso a requisiti specifici | ✓ alternativa o complemento, non sostituto universale | ✓ aggregati, incorporamento, riferimenti, replica e partizionamento | ✓ relazionale/documentale; famiglie NoSQL; forte/eventuale | ✓ duplicazione, consistenza, integrazione e costo operativo | ✓ documento incorporato e matrice decisionale | ✓ confronto tecnico motivato | ✓ schema flessibile scambiato per assenza di modello | ✓ quiz 6 e domanda-trappola | ✓ fonte MongoDB nel frontmatter e riferimenti leggibili |
+| `N-TR01-04-06` | ✓ qualità del dato, privilegio minimo, backup e ripristino | ✓ rende il dato adeguato allo scopo e protegge le operazioni | ✓ qualità tecnica distinta dalla governance del capitolo 10 | ✓ sei dimensioni, regole, metriche, ruoli, audit e recupero | ✓ validità/accuratezza; autenticazione/autorizzazione; backup/disponibilità | ✓ prevenzione, misurazione, correzione e tracciamento | ✓ caso ragionato della base pratiche | ✓ diagnosi, risposta orale e checklist | ✓ qualità astratta; backup assunto come recupero provato | ✓ caso guidato, domanda da commissario e checklist | ✓ fonti tecniche nel frontmatter e riferimenti professionali |
+
+### Delta step 10 — capitolo 04 formato 2
+
+| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
+| --- | --- | --- | --- | --- |
+| `N-TR01-04-01` | pianificato | verificate modellazione, cardinalità, chiavi, vincoli e traduzione dei requisiti | completo | heading omonimo, schema delle pratiche e quiz 2 |
+| `N-TR01-04-02` | pianificato | verificate dipendenze, anomalie, forme normali, NULL e denormalizzazione | completo | heading omonimo, esempio Assegnazione e quiz 3 |
+| `N-TR01-04-03` | pianificato | verificate query, join, aggregazioni, sottoquery, nulli e modifiche controllate | completo | heading omonimo, blocchi SQL, esercizio 2 e quiz 4 |
+| `N-TR01-04-04` | pianificato | verificati ACID, concorrenza, isolamento, selettività e compromessi degli indici | completo | heading omonimo, transazione guidata, esercizio 3 e quiz 1/5 |
+| `N-TR01-04-05` | pianificato | verificate famiglie NoSQL, aggregati, consistenza, distribuzione e criteri di scelta | completo | heading omonimo, tabella delle famiglie, domanda-trappola e quiz 6 |
+| `N-TR01-04-06` | pianificato | verificate dimensioni della qualità, regole misurabili, accessi, audit, ripristino e output | completo | heading omonimo, tabella qualità, caso guidato, orale e checklist |
+
 ## Audit v4 dello step 07
 
 La classificazione deriva dal controllo delle promesse formative, delle fonti consolidate, del testo dei capitoli e delle evidenze registrate nei delta. Lunghezza, numero di titoli, quiz e casi non sono stati usati come prova autonoma di completezza.

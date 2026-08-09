@@ -3,7 +3,7 @@
   "specPath": "books/volumi/vol-08-ict-digitale-cybersecurity-dati/planning/00-scheda-pipeline.md",
   "specHash": "sha256:af67ff81718eae7e5e2d8b29cdd926e24769a54de17ffffc130f7dd3cbd210d4",
   "createdAt": "2026-07-28T19:54:29.381Z",
-  "updatedAt": "2026-08-09T10:08:22.163Z",
+  "updatedAt": "2026-08-09T10:29:15.181Z",
   "steps": [
     {
       "key": "08:moduli/m-tr01-ict-trasformazione-digitale/chapters/01-lavorare-ict-pa-ruoli-enti-prove.md",
@@ -372,11 +372,34 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-tr01-ict-trasformazione-digitale/chapters/04-basi-dati-sql-nosql-qualita-dato.md",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "evidence": [
         "reopen: Retrofit formato 2 autorizzato dall'utente il 2026-08-05"
-      ]
+      ],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-09T10:10:05.910Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-tr01-ict-trasformazione-digitale/chapters/04-basi-dati-sql-nosql-qualita-dato.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di aless: Verifica manuale completata: piano aggiornato per retrofit Format 2 con sei Nucleo ID stabili, stato corrente e sviluppi, sezioni da conservare, confini anti-duplicazione, esempi/casi/esercizi, fonti esistenti, audit specialistici automatici, struttura H1-H3, budget 4.700-5.700 parole e almeno sei quiz; capitolo lettore non modificato."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-09T10:11:33.234Z"
     },
     {
       "key": "09:moduli/m-tr01-ict-trasformazione-digitale/chapters/04-basi-dati-sql-nosql-qualita-dato.md",
@@ -384,9 +407,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-tr01-ict-trasformazione-digitale/chapters/04-basi-dati-sql-nosql-qualita-dato.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-09T10:13:00.028Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-09T10:16:03.507Z"
     },
     {
       "key": "10:moduli/m-tr01-ict-trasformazione-digitale/chapters/04-basi-dati-sql-nosql-qualita-dato.md",
@@ -394,9 +427,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-tr01-ict-trasformazione-digitale/chapters/04-basi-dati-sql-nosql-qualita-dato.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-09T10:19:20.164Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-09T10:20:50.254Z"
     },
     {
       "key": "11:moduli/m-tr01-ict-trasformazione-digitale/chapters/04-basi-dati-sql-nosql-qualita-dato.md",
@@ -404,9 +447,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-tr01-ict-trasformazione-digitale/chapters/04-basi-dati-sql-nosql-qualita-dato.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-09T10:23:55.891Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-09T10:26:21.391Z"
     },
     {
       "key": "12:moduli/m-tr01-ict-trasformazione-digitale/chapters/04-basi-dati-sql-nosql-qualita-dato.md",
@@ -414,9 +467,35 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-tr01-ict-trasformazione-digitale/chapters/04-basi-dati-sql-nosql-qualita-dato.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-09T10:28:17.909Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-08/12-moduli-m-tr01-ict-trasformazione-digitale-chapters-04-basi-dati-sql-nosql-qualita-dato-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E02: stato \"proposto\".",
+            "location": "wiki/reviews/pipeline/VOL-08/12-moduli-m-tr01-ict-trasformazione-digitale-chapters-04-basi-dati-sql-nosql-qualita-dato-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E03: stato \"proposto\".",
+            "location": "wiki/reviews/pipeline/VOL-08/12-moduli-m-tr01-ict-trasformazione-digitale-chapters-04-basi-dati-sql-nosql-qualita-dato-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-09T10:29:15.181Z"
     },
     {
       "key": "08:moduli/m-tr01-ict-trasformazione-digitale/chapters/05-reti-sistemi-operativi-infrastrutture.md",
