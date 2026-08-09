@@ -116,27 +116,27 @@ export function reopenSteps(state: RunState, input: ReopenStepsInput): ReopenSte
     throw new Error("La nota di riapertura non può essere vuota.")
   }
 
-  const selectedIndexes = new Set(
-    input.startKeys.map((key) => {
-      const index = state.steps.findIndex((step) => step.key === key)
+  const selectedSteps = input.startKeys.map((key) => {
+    const step = state.steps.find((candidate) => candidate.key === key)
 
-      if (index < 0) {
-        throw new Error(`Step ${key} assente dal run-state di ${state.volumeCode}.`)
-      }
+    if (!step) {
+      throw new Error(`Step ${key} assente dal run-state di ${state.volumeCode}.`)
+    }
 
-      return index
-    })
-  )
-  const earliestIndex = Math.min(...selectedIndexes)
-  const humanReviewIndex = state.steps.findIndex((step) => step.id === "24")
-  const cascadeEnd = humanReviewIndex >= 0 ? humanReviewIndex : state.steps.length
-  const reopenedIndexes = input.cascade
-    ? new Set(state.steps.flatMap((_, index) => (index >= earliestIndex && index < cascadeEnd ? [index] : [])))
-    : selectedIndexes
+    return step
+  })
+  const selectedKeys = new Set(input.startKeys)
+  const startOrder = Math.min(...selectedSteps.map(stepOrder))
+  const cascadeScope = buildCascadeScope(state, selectedSteps)
+  const isDownstream = (step: StepRecord) =>
+    stepOrder(step) >= startOrder && stepOrder(step) < 24 && matchesCascadeScope(step, cascadeScope)
+  const reopenedKeys = input.cascade
+    ? new Set(state.steps.filter(isDownstream).map((step) => step.key))
+    : selectedKeys
 
   if (!input.cascade) {
     const terminalDownstream = state.steps.find(
-      (step, index) => index > earliestIndex && index < cascadeEnd && !reopenedIndexes.has(index) && isTerminal(step.status)
+      (step) => stepOrder(step) > startOrder && isDownstream(step) && !reopenedKeys.has(step.key) && isTerminal(step.status)
     )
 
     if (terminalDownstream) {
@@ -148,16 +148,56 @@ export function reopenSteps(state: RunState, input: ReopenStepsInput): ReopenSte
     state: {
       ...state,
       updatedAt: input.now,
-      steps: state.steps.map((step, index) =>
-        reopenedIndexes.has(index) || step.id === "24"
-          ? pendingStep(step, selectedIndexes.has(index) ? input.note : undefined)
+      steps: state.steps.map((step) =>
+        reopenedKeys.has(step.key)
+          ? pendingStep(step, selectedKeys.has(step.key) ? input.note : undefined)
           : step
       )
     },
-    reopenedKeys: state.steps.filter((_, index) => reopenedIndexes.has(index)).map((step) => step.key)
+    reopenedKeys: state.steps.filter((step) => reopenedKeys.has(step.key)).map((step) => step.key)
   }
 }
 
+interface CascadeScope {
+  global: boolean
+  chapterTargets: Set<string>
+  moduleTargets: Set<string>
+  chapterModuleTargets: Set<string>
+}
+
+function buildCascadeScope(state: RunState, selectedSteps: StepRecord[]): CascadeScope {
+  const global = selectedSteps.some((step) => step.scope === "volume" || step.scope === "catalog")
+  const chapterTargets = new Set(selectedSteps.filter((step) => step.scope === "chapter").map((step) => step.target))
+  const moduleTargets = new Set(selectedSteps.filter((step) => step.scope === "module").map((step) => step.target))
+  const chapterModuleTargets = new Set(moduleTargets)
+  const declaredModuleTargets = new Set(state.steps.filter((step) => step.scope === "module").map((step) => step.target))
+
+  for (const chapterTarget of chapterTargets) {
+    const declared = [...declaredModuleTargets].filter((target) => chapterTarget.startsWith(`${target}/`))
+
+    if (declared.length) {
+      for (const target of declared) moduleTargets.add(target)
+      continue
+    }
+
+    const marker = chapterTarget.indexOf("/chapters/")
+    if (marker >= 0) moduleTargets.add(chapterTarget.slice(0, marker))
+  }
+
+  return { global, chapterTargets, moduleTargets, chapterModuleTargets }
+}
+
+function matchesCascadeScope(step: StepRecord, scope: CascadeScope) {
+  if (scope.global || step.scope === "volume" || step.scope === "catalog") return true
+  if (step.scope === "module") return scope.moduleTargets.has(step.target)
+
+  return scope.chapterTargets.has(step.target) || [...scope.chapterModuleTargets].some((target) => step.target.startsWith(`${target}/`))
+}
+
+function stepOrder(step: StepRecord) {
+  const parsed = Number.parseInt(step.id, 10)
+  return Number.isFinite(parsed) ? parsed : Number.MAX_SAFE_INTEGER
+}
 function pendingStep(step: StepRecord, note?: string): StepRecord {
   return {
     ...step,

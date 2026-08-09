@@ -217,6 +217,54 @@ describe("reopenSteps", () => {
     expect(doneState).toEqual(original)
   })
 
+  it("cascades by causal step order when storage order starts with chapter work", () => {
+    const selectedChapter = "moduli/m-tr01/chapters/01.md"
+    const otherChapter = "moduli/m-tr01/chapters/02.md"
+    const moduleTarget = "moduli/m-tr01"
+    const volumeTarget = "VOL-08"
+    const drafts = [
+      ...["08", "09", "10", "11", "12"].map((id) => draft(id, selectedChapter)),
+      ...["08", "09", "10", "11", "12"].map((id) => draft(id, otherChapter)),
+      ...["05", "06", "07", "13", "14", "15", "16", "18"].map((id) => ({ ...draft(id, moduleTarget), phase: id === "18" ? "E" : "D", scope: "module" as const })),
+      ...["00", "01", "02", "03", "04", "17", "19", "20", "21", "22", "23", "24"].map((id) => ({ ...draft(id, volumeTarget), phase: "F", scope: "volume" as const }))
+    ]
+    const initial = createRunState({
+      volumeCode: "VOL-08",
+      specPath: "wiki/books/volumi/vol-08/planning/00-scheda-pipeline.md",
+      specHash: "sha256:realistic-order",
+      steps: drafts,
+      now
+    })
+    const doneState: RunState = {
+      ...initial,
+      steps: initial.steps.map((step) => ({
+        ...step,
+        status: step.id === "24" ? ("awaiting-human" as const) : ("done" as const),
+        attempts: 1,
+        evidence: ["completion.json"],
+        owner: step.id === "24" ? "reviewer" : "collega",
+        finishedAt: step.id === "24" ? undefined : later
+      }))
+    }
+    const signoffBefore = structuredClone(doneState.steps.find((step) => step.id === "24"))
+
+    const result = reopenSteps(doneState, {
+      startKeys: [stepKey("08", selectedChapter)],
+      cascade: true,
+      note: "Retrofit formato 2 autorizzato",
+      now: later
+    })
+
+    expect(result.reopenedKeys).toEqual([
+      ...["08", "09", "10", "11", "12"].map((id) => stepKey(id, selectedChapter)),
+      ...["13", "14", "15", "16", "18"].map((id) => stepKey(id, moduleTarget)),
+      ...["17", "19", "20", "21", "22", "23"].map((id) => stepKey(id, volumeTarget))
+    ])
+    expect(result.state.steps.filter((step) => ["00", "01", "02", "03", "04", "05", "06", "07"].includes(step.id)).every((step) => step.status === "done")).toBe(true)
+    expect(result.state.steps.filter((step) => step.target === otherChapter).every((step) => step.status === "done")).toBe(true)
+    expect(result.state.steps.find((step) => step.id === "24")).toEqual(signoffBefore)
+  })
+
   it("rejects an unknown starting key without mutating the input", () => {
     const doneState = retrofitDoneState()
     const original = structuredClone(doneState)
