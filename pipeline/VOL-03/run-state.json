@@ -3,7 +3,7 @@
   "specPath": "books/volumi/vol-03-fisco-dogane-previdenza-ispettivo/planning/00-scheda-pipeline.md",
   "specHash": "sha256:7a5be32028a6026f42eac9b7a221a5879330c694249c48b679a9f6ab5999df16",
   "createdAt": "2026-07-27T20:05:30.039Z",
-  "updatedAt": "2026-08-09T10:23:24.190Z",
+  "updatedAt": "2026-08-09T10:29:09.039Z",
   "steps": [
     {
       "key": "08:moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md",
@@ -4070,9 +4070,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc01-ministeri/chapters/14-simulazione-finale-diario-errori.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-09T10:24:32.489Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fc01-ministeri/chapters/14-simulazione-finale-diario-errori.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di aless: Verifica manuale positiva: report step 08 presente; sette nuclei con struttura H2/H3; simulazione modulare originale, diario, recupero, fonti, confini, audit, budget e criteri di accettazione esplicitati; capitolo lettore non modificato."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-09T10:29:09.039Z"
     },
     {
       "key": "09:moduli/m-fc01-ministeri/chapters/14-simulazione-finale-diario-errori.md",
