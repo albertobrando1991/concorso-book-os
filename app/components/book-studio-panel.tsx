@@ -12,6 +12,7 @@ import {
   WandSparkles
 } from "lucide-react"
 import type { ManualWriterMode, RevisionDiffSummary } from "@/src/server/agents/manual-writer-agent"
+import { moveTrailingHeadingToNextPage } from "@/src/book/pagination"
 import type { BookStudioChapter, BookStudioData, MarkdownBlock } from "@/src/server/book/book-preview"
 import { getPreviewBlockMetadata } from "@/src/server/book/book-preview-block-metadata"
 import { ricettarioModuleLabel } from "@/src/server/book/book-studio-labels"
@@ -1339,7 +1340,7 @@ function refineRenderedPageOverflows(pages: PreviewPage[], root: HTMLDivElement 
     return renumberPreviewPages(nextPages)
   }
 
-  return pages
+  return renumberPreviewPages(moveTrailingHeadingToNextPage(nextPages))
 }
 
 function renumberPreviewPages(pages: PreviewPage[]): PreviewPage[] {

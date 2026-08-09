@@ -3,7 +3,7 @@
   "specPath": "books/vol-02-enti-locali-polizia-locale/planning/00-scheda-pipeline.md",
   "specHash": "sha256:b9ec2abf7ad63aaa5271f5f2d561817a092ec16c24727d57ebf82ef84b0a5a6b",
   "createdAt": "2026-07-29T22:02:16.845Z",
-  "updatedAt": "2026-08-09T09:00:31.927Z",
+  "updatedAt": "2026-08-09T09:51:40.494Z",
   "steps": [
     {
       "key": "08:moduli/m-fl01-comuni-unioni/chapters/01-tuel-operativo-autonomia-organi-funzioni-comune.md",
@@ -5706,9 +5706,19 @@
       "phase": "F",
       "scope": "volume",
       "target": "VOL-02",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-09T09:00:59.525Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-09T09:09:23.506Z"
     },
     {
       "key": "22:VOL-02",
@@ -5716,9 +5726,32 @@
       "phase": "F",
       "scope": "volume",
       "target": "VOL-02",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-09T09:09:31.861Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"preflight\" dello step 22 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "VOL-02"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Preflight verificato manualmente e documentato: copertura 235/235, 48 file e 431 test verdi, typecheck/build verdi, PDF 830 pagine 6,69 x 9,61, font incorporati, 10 immagini e 0 asset mancanti, audit finale 0 blocker, hash SHA-256 registrato; KDP Previewer non disponibile e dichiarato non eseguito."
+          }
+        ],
+        "notImplemented": [
+          "preflight"
+        ]
+      },
+      "finishedAt": "2026-08-09T09:45:01.746Z"
     },
     {
       "key": "23:VOL-02",
@@ -5726,9 +5759,32 @@
       "phase": "F",
       "scope": "volume",
       "target": "VOL-02",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-09T09:45:02.256Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"delivery\" dello step 23 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "VOL-02"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Pacchetto verificato manualmente: 9 file selettivi, manifest 8/8 hash corrispondenti, PDF e report inclusi, cache memoria log e tavole diagnostiche esclusi, diff staged controllato e step 24 lasciato come unica conferma umana."
+          }
+        ],
+        "notImplemented": [
+          "delivery"
+        ]
+      },
+      "finishedAt": "2026-08-09T09:51:40.494Z"
     },
     {
       "key": "24:VOL-02",
