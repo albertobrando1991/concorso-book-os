@@ -3311,3 +3311,379 @@
 - atoms:
   - mem-20260805162301-h3d2eg | instruction | Commit e push di tutte le modifiche effettuate finora, inclusa la logica di pipeline e download per lo staff, senza sovrascrivere altro.
   - mem-20260805162301-1o8jzn0 | result | Esito codex/git-publish: Commit e push di tutte le modifiche effettuate finora, inclusa la logica di pipeline e download per lo staff, senza sovrascrivere altro. -> Pubblicazione eseguita su origin/main con push fast-forward senza force, reset o rebase.
+
+## 2026-08-05T16:57:50.839Z - pipeline-volume
+
+- conversation_id: conv-20260805165750-gvti80
+- route: codex-vol02-cap12-complete
+- l0: l0/conv-20260805165750-gvti80.md
+- atoms:
+  - mem-20260805165750-19jjz9w | workflow | Procedere autonomamente con VOL-02 secondo la pipeline aggiornata, completando M-FL01 capitolo 12.
+  - mem-20260805165750-gas93e | result | Esito codex-vol02-cap12-complete: Procedere autonomamente con VOL-02 secondo la pipeline aggiornata, completando M-FL01 capitolo 12. -> VOL-02 M-FL01 capitolo 12 completato negli step 08-12 e commit c3506b8.
+
+## 2026-08-05T17:27:00.858Z - manual-writer
+
+- conversation_id: conv-20260805172700-1fkha9j
+- route: codex-vol02-mfl01-cap13-pipeline-08-12
+- l0: l0/conv-20260805172700-1fkha9j.md
+- atoms:
+  - mem-20260805172700-10ylzj1 | workflow | Completa VOL-02 secondo la pipeline aggiornata, proseguendo autonomamente.
+  - mem-20260805172700-1yattgq | workflow | In questa sessione chiudi il capitolo M-FL01 13 fino alla revisione editoriale.
+  - mem-20260805172700-1h64dvw | result | Esito codex-vol02-mfl01-cap13-pipeline-08-12: Completa VOL-02 secondo la pipeline aggiornata, proseguendo autonomamente. -> Completati gli step 08-12 del capitolo M-FL01 13.
+
+## 2026-08-05T17:53:35.748Z - VOL-02/M-FL01
+
+- conversation_id: conv-20260805175335-4gq8ey
+- route: codex/pipeline-volume
+- l0: l0/conv-20260805175335-4gq8ey.md
+- atoms:
+  - mem-20260805175335-wxt1z7 | workflow | Procedi con il completamento di VOL-02 secondo la pipeline aggiornata.
+  - mem-20260805175335-13lrork | result | Esito codex/pipeline-volume: Procedi con il completamento di VOL-02 secondo la pipeline aggiornata. -> Il capitolo 14 è stato portato allo stato pubblicabile testuale: sette nuclei, circa 6.500 parole, sette quiz, cinque casi, matrice 77/77, gate 08-12 superati e 429 test passati.
+
+## 2026-08-05T18:26:27.760Z - VOL-02/M-FL01
+
+- conversation_id: conv-20260805182627-1w3nqox
+- route: codex/pipeline-volume
+- l0: l0/conv-20260805182627-1w3nqox.md
+- atoms:
+  - mem-20260805182627-1qis5wq | workflow | Procedi con VOL-02 secondo la pipeline aggiornata.
+  - mem-20260805182627-oa9ghj | result | Esito codex/pipeline-volume: Procedi con VOL-02 secondo la pipeline aggiornata. -> M-FL01 completato negli step 13-16: revisione trasversale, correzione dei residui legacy 01-07, audit specialistico automatico e text freeze con manifest SHA-256.
+
+## 2026-08-06T08:52:57.462Z - VOL-02/M-FL02
+
+- conversation_id: conv-20260806085257-1fc21qq
+- route: pipeline-volume.step-08-10
+- l0: l0/conv-20260806085257-1fc21qq.md
+- atoms:
+  - mem-20260806085257-1bjl2ek | result | Esito pipeline-volume.step-08-10: Procedi con VOL-02 secondo la pipeline aggiornata. -> Sincronizzato VOL-02 eliminando i target obsoleti chapters/00-piano-editoriale e aggiungendo lo step 24.
+
+## 2026-08-06T09:05:36.908Z - VOL-02/M-FL02
+
+- conversation_id: conv-20260806090536-lyy5uu
+- route: pipeline-volume.chapter-01-complete
+- l0: l0/conv-20260806090536-lyy5uu.md
+- atoms:
+  - mem-20260806090536-1grrou | result | Esito pipeline-volume.chapter-01-complete: Procedi con VOL-02. -> Completati step 11 Humanizer e 12 revisione editoriale del capitolo 01 M-FL02.
+
+## 2026-08-06T09:59:52.171Z - VOL-02/M-FL02
+
+- conversation_id: conv-20260806095952-s13uqd
+- route: pipeline-volume.chapter-02-complete
+- l0: l0/conv-20260806095952-s13uqd.md
+- atoms:
+  - mem-20260806095952-10r3wf3 | workflow | Procedi con VOL-02 M-FL02 secondo la pipeline aggiornata.
+  - mem-20260806095952-1c89bzd | result | Esito pipeline-volume.chapter-02-complete: Procedi con VOL-02 M-FL02 secondo la pipeline aggiornata. -> Completati step 10 densità didattica, 11 Humanizer e 12 revisione editoriale del capitolo 02 M-FL02; tutti i gate sono verdi senza warning.
+
+## 2026-08-06T10:17:20.290Z - VOL-02/M-FL02
+
+- conversation_id: conv-20260806101720-1bpbn3b
+- route: pipeline-volume.chapter-03-step-08-10
+- l0: l0/conv-20260806101720-1bpbn3b.md
+- atoms:
+  - mem-20260806101720-1r0w50j | result | Esito pipeline-volume.chapter-03-step-08-10: Procedi con VOL-02 M-FL02. -> Completati step 08, 09 e 10 del capitolo 03 M-FL02.
+
+## 2026-08-06T10:21:40.948Z - VOL-02/M-FL02
+
+- conversation_id: conv-20260806102140-10tob1f
+- route: pipeline-volume.chapter-03-complete
+- l0: l0/conv-20260806102140-10tob1f.md
+- atoms:
+  - mem-20260806102140-1ng5rzd | result | Esito pipeline-volume.chapter-03-complete: Procedi con VOL-02 M-FL02. -> Completati step 11 Humanizer e 12 revisione editoriale del capitolo 03 M-FL02.
+
+## 2026-08-06T10:28:35.236Z - VOL-02/M-FL02
+
+- conversation_id: conv-20260806102835-d6jxh5
+- route: pipeline-volume.chapter-04-step-08-09
+- l0: l0/conv-20260806102835-d6jxh5.md
+- atoms:
+  - mem-20260806102835-996n1u | workflow | Procedi in automatico con tutti i capitoli fino al completamento del Volume.
+  - mem-20260806102835-1a067b5 | result | Esito pipeline-volume.chapter-04-step-08-09: Procedi in automatico con tutti i capitoli fino al completamento del Volume. -> Attivato obiettivo continuativo VOL-02.
+
+## 2026-08-06T10:29:25.476Z - VOL-02/M-FL02
+
+- conversation_id: conv-20260806102925-wgwq46
+- route: pipeline-volume.chapter-04-step-10-start
+- l0: l0/conv-20260806102925-wgwq46.md
+- atoms:
+  - mem-20260806102925-gjll9h | result | Esito pipeline-volume.chapter-04-step-10-start: Completare automaticamente VOL-02. -> Capitolo 04: step 08-09 completati; step 10 aperto.
+
+## 2026-08-06T10:44:58.988Z - VOL-02/M-FL02
+
+- conversation_id: conv-20260806104458-fm2kml
+- route: pipeline-volume.chapter-04-complete
+- l0: l0/conv-20260806104458-fm2kml.md
+- atoms:
+  - mem-20260806104458-zp7c5c | result | Esito pipeline-volume.chapter-04-complete: Procedi automaticamente con VOL-02. -> Completato intero ciclo 08-12 del capitolo 04 M-FL02; tutti i gate verdi senza warning.
+
+## 2026-08-06T20:04:49.938Z - pipeline-volume
+
+- conversation_id: conv-20260806200449-3m3l7l
+- route: vol-02-m-fl02-capitolo-05-ciclo-08-12
+- l0: l0/conv-20260806200449-3m3l7l.md
+- atoms:
+  - mem-20260806200449-aw281l | result | Esito vol-02-m-fl02-capitolo-05-ciclo-08-12: Procedere automaticamente con VOL-02 fino al completamento. -> M-FL02 capitolo 05 completato negli step 08-12: piano, Formato 2, matrice, densità, citation guard e report editoriale superati.
+
+## 2026-08-06T20:20:11.400Z - pipeline-volume
+
+- conversation_id: conv-20260806202011-vprtqf
+- route: vol-02-m-fl02-capitolo-06-ciclo-08-12
+- l0: l0/conv-20260806202011-vprtqf.md
+- atoms:
+  - mem-20260806202011-1y4yupd | result | Esito vol-02-m-fl02-capitolo-06-ciclo-08-12: Procedi automaticamente con VOL-02. -> M-FL02 capitolo 06 completato negli step 08-12 con Formato 2, matrice, densità, citation guard e revisione editoriale.
+
+## 2026-08-06T20:40:24.704Z - pipeline-volume
+
+- conversation_id: conv-20260806204024-1u2if5q
+- route: vol-02-m-fl02-capitolo-07-ciclo-08-12
+- l0: l0/conv-20260806204024-1u2if5q.md
+- atoms:
+  - mem-20260806204024-qmph3q | workflow | Procedi automaticamente con il prossimo capitolo di VOL-02.
+  - mem-20260806204024-gw57l | result | Esito vol-02-m-fl02-capitolo-07-ciclo-08-12: Procedi automaticamente con il prossimo capitolo di VOL-02. -> M-FL02 capitolo 07 completato negli step 08-12 con Formato 2, matrice, densità, citation guard e revisione editoriale.
+
+## 2026-08-07T08:07:04.522Z - pipeline-volume
+
+- conversation_id: conv-20260807080704-1t6lag0
+- route: vol-02-m-fl02-capitolo-08-ciclo-08-12
+- l0: l0/conv-20260807080704-1t6lag0.md
+- atoms:
+  - mem-20260807080704-15dbti8 | result | Esito vol-02-m-fl02-capitolo-08-ciclo-08-12: Procedi con VOL-02. -> M-FL02 capitolo 08 completato negli step 08-12 con Formato 2, matrice, densità, citation guard e revisione editoriale.
+
+## 2026-08-07T09:46:54.048Z - pipeline-volume
+
+- conversation_id: conv-20260807094654-y214ne
+- route: vol-02-m-fl02-capitolo-09-ciclo-08-12
+- l0: l0/conv-20260807094654-y214ne.md
+- atoms:
+  - mem-20260807094654-typ27n | result | Esito vol-02-m-fl02-capitolo-09-ciclo-08-12: Procedi con VOL-02. -> M-FL02 capitolo 09 completato negli step 08-12 con Formato 2, matrice, densità, citation guard e revisione editoriale.
+
+## 2026-08-07T10:39:29.137Z - pipeline-volume
+
+- conversation_id: conv-20260807103929-vzqczi
+- route: vol-02-m-fl02-capitolo-10-ciclo-08-12
+- l0: l0/conv-20260807103929-vzqczi.md
+- atoms:
+  - mem-20260807103929-oxp4xh | result | Esito vol-02-m-fl02-capitolo-10-ciclo-08-12: Procedi con VOL-02. -> M-FL02 capitolo 10 completato negli step 08-12 con Formato 2, matrice, densità, citation guard e revisione editoriale.
+
+## 2026-08-07T11:28:43.937Z - pipeline-volume
+
+- conversation_id: conv-20260807112843-1e0qcmg
+- route: vol-02-m-fl02-capitolo-11-ciclo-08-12
+- l0: l0/conv-20260807112843-1e0qcmg.md
+- atoms:
+  - mem-20260807112843-1h2lh01 | result | Esito vol-02-m-fl02-capitolo-11-ciclo-08-12: Procedi con VOL-02. -> M-FL02 capitolo 11 completato negli step 08-12 con Formato 2, matrice, densità, citation guard e revisione editoriale.
+
+## 2026-08-07T11:53:50.822Z - VOL-02
+
+- conversation_id: conv-20260807115350-1bshzg2
+- route: vol-02-m-fl02-capitolo-12-ciclo-08-12
+- l0: l0/conv-20260807115350-1bshzg2.md
+- atoms:
+  - mem-20260807115350-kglwai | result | Esito vol-02-m-fl02-capitolo-12-ciclo-08-12: Procedi con VOL-02. -> M-FL02 capitolo 12 completato negli step 08-12 con Formato 2, matrice, densità, citation guard e revisione editoriale.
+
+## 2026-08-07T11:57:52.300Z - VOL-02
+
+- conversation_id: conv-20260807115752-12u04om
+- route: vol-02-m-fl02-step-13
+- l0: l0/conv-20260807115752-12u04om.md
+- atoms:
+  - mem-20260807115752-1mcnw0t | result | Esito vol-02-m-fl02-step-13: Prossimo. -> Revisione trasversale M-FL02 completata; Bibbia del modulo creata, indice aggiornato e gate 13 verde.
+
+## 2026-08-07T12:45:56.176Z - VOL-02
+
+- conversation_id: conv-20260807124556-19gp1zv
+- route: vol-02-m-fl02-steps-14-16
+- l0: l0/conv-20260807124556-19gp1zv.md
+- atoms:
+  - mem-20260807124556-1balx2s | result | Esito vol-02-m-fl02-steps-14-16: Procedi. -> M-FL02 completato: step 14 e 15 verdi, audit specialistico chiuso, step 16 text freeze verificato manualmente con manifest SHA-256.
+
+## 2026-08-07T14:08:18.418Z - VOL-02
+
+- conversation_id: conv-20260807140818-1ncu0d5
+- route: vol-02-m-fl04-capitolo-01-ciclo-08-12
+- l0: l0/conv-20260807140818-1ncu0d5.md
+- atoms:
+  - mem-20260807140818-m2wnol | result | Esito vol-02-m-fl04-capitolo-01-ciclo-08-12: Procedi. -> M-FL04 capitolo 01 completato negli step 08-12 con Formato 2, nuova matrice, densità, citation guard e revisione editoriale.
+
+## 2026-08-07T14:20:46.401Z - VOL-02
+
+- conversation_id: conv-20260807142046-39e4pw
+- route: vol-02-m-fl04-capitolo-02-ciclo-08-12
+- l0: l0/conv-20260807142046-39e4pw.md
+- atoms:
+  - mem-20260807142046-1pilbp1 | result | Esito vol-02-m-fl04-capitolo-02-ciclo-08-12: Procedi. -> M-FL04 capitolo 02 completato negli step 08-12 con Formato 2, matrice, densità, citation guard e revisione editoriale.
+
+## 2026-08-07T16:10:17.596Z - VOL-02
+
+- conversation_id: conv-20260807161017-berdw5
+- route: vol-02-m-fl04-capitolo-03-ciclo-08-12
+- l0: l0/conv-20260807161017-berdw5.md
+- atoms:
+  - mem-20260807161017-z7ysrk | result | Esito vol-02-m-fl04-capitolo-03-ciclo-08-12: Procedi con il completamento automatico del Volume 02. -> M-FL04 capitolo 03 completato negli step 08-12 con Formato 2, matrice, densità, humanizer e revisione editoriale.
+
+## 2026-08-07T16:22:51.111Z - VOL-02
+
+- conversation_id: conv-20260807162251-h9qqqh
+- route: vol-02-m-fl04-capitolo-04-ciclo-08-12
+- l0: l0/conv-20260807162251-h9qqqh.md
+- atoms:
+  - mem-20260807162251-aqlmny | result | Esito vol-02-m-fl04-capitolo-04-ciclo-08-12: Procedi con il completamento automatico del Volume 02. -> M-FL04 capitolo 04 completato negli step 08-12 con Formato 2, matrice, densità, humanizer e revisione editoriale.
+
+## 2026-08-07T20:41:01.990Z - VOL-02
+
+- conversation_id: conv-20260807204101-2ez94l
+- route: vol-02-m-fl04-capitolo-05-ciclo-08-12
+- l0: l0/conv-20260807204101-2ez94l.md
+- atoms:
+  - mem-20260807204101-gi8zmx | result | Esito vol-02-m-fl04-capitolo-05-ciclo-08-12: Procedi con il completamento automatico del Volume 02. -> M-FL04 capitolo 05 completato negli step 08-12 con Formato 2, matrice, densità, humanizer e revisione editoriale.
+
+## 2026-08-07T21:11:34.549Z - pipeline-volume
+
+- conversation_id: conv-20260807211134-1qefcid
+- route: vol-02-m-fl04-capitolo-06-ciclo-08-12
+- l0: l0/conv-20260807211134-1qefcid.md
+- atoms:
+  - mem-20260807211134-9hkzyu | result | Esito vol-02-m-fl04-capitolo-06-ciclo-08-12: Procedi automaticamente con tutti gli step del Volume 02. -> M-FL04 capitolo 06 completato negli step 08-12 con Formato 2, matrice, densita, Humanizer e revisione editoriale; prossimo capitolo 07.
+
+## 2026-08-07T21:20:36.299Z - pipeline-volume
+
+- conversation_id: conv-20260807212036-4yst2m
+- route: vol-02-m-fl04-capitolo-07-ciclo-08-12
+- l0: l0/conv-20260807212036-4yst2m.md
+- atoms:
+  - mem-20260807212036-eh8k5 | result | Esito vol-02-m-fl04-capitolo-07-ciclo-08-12: Procedi automaticamente con il Volume 02. -> M-FL04 capitolo 07 completato negli step 08-12 con Formato 2, matrice, densita, Humanizer e revisione editoriale; prossimo capitolo 08.
+
+## 2026-08-07T21:33:13.167Z - pipeline-volume
+
+- conversation_id: conv-20260807213313-11bcll5
+- route: vol-02-m-fl04-capitolo-08-ciclo-08-12
+- l0: l0/conv-20260807213313-11bcll5.md
+- atoms:
+  - mem-20260807213313-yio382 | result | Esito vol-02-m-fl04-capitolo-08-ciclo-08-12: Procedi automaticamente con il Volume 02. -> M-FL04 capitolo 08 completato negli step 08-12 con Formato 2, matrice, densita, Humanizer e revisione editoriale; prossimo capitolo 09.
+
+## 2026-08-08T17:01:47.353Z - pipeline-volume
+
+- conversation_id: conv-20260808170147-153qs71
+- route: vol-02-m-fl04-capitolo-09-ciclo-08-12
+- l0: l0/conv-20260808170147-153qs71.md
+- atoms:
+  - mem-20260808170147-24b3it | result | Esito vol-02-m-fl04-capitolo-09-ciclo-08-12: Procedi automaticamente con il Volume 02. -> M-FL04 capitolo 09 completato negli step 08-12 con Formato 2, matrice, densita, Humanizer e revisione editoriale; prossimo capitolo 10.
+
+## 2026-08-08T17:14:34.975Z - VOL-02
+
+- conversation_id: conv-20260808171434-178n60l
+- route: vol-02-m-fl04-capitolo-10-ciclo-08-12
+- l0: l0/conv-20260808171434-178n60l.md
+- atoms:
+  - mem-20260808171434-4rr78y | result | Esito vol-02-m-fl04-capitolo-10-ciclo-08-12: Procedi con il completamento automatico del Volume 02. -> M-FL04 capitolo 10 completato negli step 08-12 con Formato 2, matrice, densità, humanizer e revisione editoriale.
+
+## 2026-08-08T17:27:28.622Z - VOL-02
+
+- conversation_id: conv-20260808172728-qkczgd
+- route: vol-02-m-fl04-capitolo-11-ciclo-08-12
+- l0: l0/conv-20260808172728-qkczgd.md
+- atoms:
+  - mem-20260808172728-1134x9 | result | Esito vol-02-m-fl04-capitolo-11-ciclo-08-12: Procedi con il completamento automatico del Volume 02. -> M-FL04 capitolo 11 completato negli step 08-12 con Formato 2, matrice, densità, humanizer e revisione editoriale.
+
+## 2026-08-08T17:37:20.604Z - VOL-02
+
+- conversation_id: conv-20260808173720-1p6lk4x
+- route: vol-02-m-fl04-capitolo-12-ciclo-08-12
+- l0: l0/conv-20260808173720-1p6lk4x.md
+- atoms:
+  - mem-20260808173720-360f9w | result | Esito vol-02-m-fl04-capitolo-12-ciclo-08-12: Procedi con il completamento automatico del Volume 02. -> M-FL04 capitolo 12 completato negli step 08-12 con Formato 2, matrice, densità, humanizer e revisione editoriale.
+
+## 2026-08-08T17:50:47.096Z - VOL-02
+
+- conversation_id: conv-20260808175047-1mrkc0h
+- route: vol-02-m-fl04-capitolo-13-ciclo-08-12
+- l0: l0/conv-20260808175047-1mrkc0h.md
+- atoms:
+  - mem-20260808175047-1o74lke | result | Esito vol-02-m-fl04-capitolo-13-ciclo-08-12: Procedi con il completamento automatico del Volume 02. -> M-FL04 capitolo 13 completato negli step 08-12 con Formato 2, matrice, densità, humanizer e revisione editoriale.
+
+## 2026-08-08T18:21:27.143Z - VOL-02
+
+- conversation_id: conv-20260808182127-1izhgxx
+- route: vol-02-m-fl04-capitolo-14-ciclo-08-12
+- l0: l0/conv-20260808182127-1izhgxx.md
+- atoms:
+  - mem-20260808182127-17o4le6 | result | Esito vol-02-m-fl04-capitolo-14-ciclo-08-12: Procedi con il completamento automatico del Volume 02. -> M-FL04 capitolo 14 completato negli step 08-12 con Formato 2, matrice, densità, humanizer e revisione editoriale.
+
+## 2026-08-08T19:27:03.944Z - VOL-02
+
+- conversation_id: conv-20260808192703-zk783x
+- route: vol-02-m-fl04-capitolo-15-ciclo-08-12
+- l0: l0/conv-20260808192703-zk783x.md
+- atoms:
+  - mem-20260808192703-6kbden | result | Esito vol-02-m-fl04-capitolo-15-ciclo-08-12: Procedi con il completamento automatico del Volume 02. -> M-FL04 capitolo 15 completato negli step 08-12 con Formato 2, matrice, densità, humanizer e revisione editoriale.
+
+## 2026-08-08T19:59:55.855Z - VOL-02
+
+- conversation_id: conv-20260808195955-14wc227
+- route: vol-02-m-fl04-steps-13-16
+- l0: l0/conv-20260808195955-14wc227.md
+- atoms:
+  - mem-20260808195955-1kfy0gq | result | Esito vol-02-m-fl04-steps-13-16: Procedi con il completamento automatico del Volume 02. -> M-FL04 completato negli step 13-16: revisione trasversale, correzioni, audit specialistico senza pending e text freeze con manifest SHA-256.
+
+## 2026-08-08T20:29:26.061Z - VOL-02
+
+- conversation_id: conv-20260808202926-stgvyz
+- route: vol-02-m-fl03-capitolo-01-ciclo-08-12
+- l0: l0/conv-20260808202926-stgvyz.md
+- atoms:
+  - mem-20260808202926-1471uyy | result | Esito vol-02-m-fl03-capitolo-01-ciclo-08-12: Procedi con il completamento automatico del Volume 02. -> M-FL03 capitolo 01 completato negli step 08-12 con Formato 2, matrice module-local, densità, humanizer e revisione editoriale.
+
+## 2026-08-08T20:59:44.080Z - VOL-02
+
+- conversation_id: conv-20260808205944-1blctwd
+- route: vol-02-m-fl03-capitolo-02-ciclo-08-12
+- l0: l0/conv-20260808205944-1blctwd.md
+- atoms:
+  - mem-20260808205944-1yz2lpr | result | Esito vol-02-m-fl03-capitolo-02-ciclo-08-12: Procedi con il completamento automatico del Volume 02. -> M-FL03 capitolo 02 completato negli step 08-12 con Formato 2, matrice, densità, humanizer e revisione editoriale.
+
+## 2026-08-09T08:10:01.676Z - VOL-02
+
+- conversation_id: conv-20260809081001-gnb7o1
+- route: vol-02-m-fl03-capitolo-03-ciclo-08-12
+- l0: l0/conv-20260809081001-gnb7o1.md
+- atoms:
+  - mem-20260809081001-1ve7lfh | result | Esito vol-02-m-fl03-capitolo-03-ciclo-08-12: Procedi con il completamento automatico del Volume 02. -> M-FL03 capitolo 03 completato negli step 08-12 con Formato 2, matrice, densità, humanizer e revisione editoriale.
+
+## 2026-08-09T08:31:45.464Z - VOL-02
+
+- conversation_id: conv-20260809083145-1xwk6kd
+- route: vol-02-m-fl03-capitolo-04-ciclo-08-12
+- l0: l0/conv-20260809083145-1xwk6kd.md
+- atoms:
+  - mem-20260809083145-1fu3uis | result | Esito vol-02-m-fl03-capitolo-04-ciclo-08-12: Procedi con il completamento automatico del Volume 02. -> M-FL03 capitolo 04 completato negli step 08-12 con Formato 2, matrice, densità, humanizer e revisione editoriale.
+
+## 2026-08-09T08:53:26.398Z - VOL-02
+
+- conversation_id: conv-20260809085326-lb18az
+- route: vol-02-m-fl03-capitolo-05-ciclo-08-12
+- l0: l0/conv-20260809085326-lb18az.md
+- atoms:
+  - mem-20260809085326-1sx8j1l | result | Esito vol-02-m-fl03-capitolo-05-ciclo-08-12: Automatizza il completamento sicuro e veloce di M-FL03. -> M-FL03 capitolo 05 completato negli step 08-12 con Formato 2, matrice, densità, humanizer e revisione editoriale.
+
+## 2026-08-09T09:00:44.503Z - VOL-02
+
+- conversation_id: conv-20260809090044-1g7i5mc
+- route: vol-02-m-fl03-steps-13-16
+- l0: l0/conv-20260809090044-1g7i5mc.md
+- atoms:
+  - mem-20260809090044-w8mxq4 | result | Esito vol-02-m-fl03-steps-13-16: Continua con la soluzione più sicura e veloce, automatizza. -> M-FL03 completato negli step 13-16: revisione trasversale, correzioni, audit specialistico senza pending e text freeze con manifest SHA-256.
+
+## 2026-08-09T09:51:54.135Z - concorso-book-os
+
+- conversation_id: conv-20260809095154-guffoa
+- route: vol-02-steps-21-23
+- l0: l0/conv-20260809095154-guffoa.md
+- atoms:
+  - mem-20260809095154-721zlp | result | Esito vol-02-steps-21-23: Continua automaticamente con la soluzione più sicura e veloce fino al completamento del volume. -> VOL-02 completato automaticamente fino allo step 23: revisione finale, matrice aggregata 235/235, preflight PDF 830 pagine, fix titoli orfani con test, pacchetto a 9 file e manifest 8/8.
+
+## 2026-08-09T10:58:01.925Z - concorso-book-os
+
+- conversation_id: conv-20260809105801-m0wuzb
+- route: vol-02-step-24-human-signoff
+- l0: l0/conv-20260809105801-m0wuzb.md
+- atoms:
+  - mem-20260809105801-782abn | result | Esito vol-02-step-24-human-signoff: Procedi dopo la richiesta esplicita di scegliere tra confermato e respinto. -> Registrata conferma umana positiva dello step 24.

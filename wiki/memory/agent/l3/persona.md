@@ -5,6 +5,14 @@ Usala come profilo di lavoro: le source notes e il wiki restano la base canonica
 
 ## Preferenze e istruzioni recenti
 
+- Procedi automaticamente con il prossimo capitolo di VOL-02. (mem-20260806204024-qmph3q)
+- Procedi in automatico con tutti i capitoli fino al completamento del Volume. (mem-20260806102835-996n1u)
+- Procedi con VOL-02 M-FL02 secondo la pipeline aggiornata. (mem-20260806095952-10r3wf3)
+- Procedi con VOL-02 secondo la pipeline aggiornata. (mem-20260805182627-1qis5wq)
+- Procedi con il completamento di VOL-02 secondo la pipeline aggiornata. (mem-20260805175335-wxt1z7)
+- In questa sessione chiudi il capitolo M-FL01 13 fino alla revisione editoriale. (mem-20260805172700-1yattgq)
+- Completa VOL-02 secondo la pipeline aggiornata, proseguendo autonomamente. (mem-20260805172700-10ylzj1)
+- Procedere autonomamente con VOL-02 secondo la pipeline aggiornata, completando M-FL01 capitolo 12. (mem-20260805165750-19jjz9w)
 - Commit e push di tutte le modifiche effettuate finora, inclusa la logica di pipeline e download per lo staff, senza sovrascrivere altro. (mem-20260805162301-h3d2eg)
 - Proseguire autonomamente la pipeline aggiornata di VOL-02 dopo il capitolo 10. (mem-20260805161744-16dbq5f)
 - Completare VOL-02 M-FL01 capitolo 10 fino allo stato previsto dalla pipeline aggiornata, procedendo autonomamente e senza revisione umana intermedia. (mem-20260805155954-odta9o)
@@ -77,11 +85,3 @@ Usala come profilo di lavoro: le source notes e il wiki restano la base canonica
 - Procedere dal punto interrotto della pipeline VOL-07 M-SA02 completando il sottoprogetto OSS su bagno a letto e trasferimenti, senza forzare il gate. (mem-20260729132849-stq6wu)
 - Procedere con il prossimo passo della pipeline VOL-07 M-SA02 dopo la preparazione della batteria PASSI e dello scenario epidemiologico. (mem-20260729125906-1s5cvvy)
 - Ricorda: per VOL-07 M-SA02 il corpus PREMAL e risposta al segnale comprende DM 7 marzo 2022 in Gazzetta, guida ISS-EpiCentro e due strumenti ECDC; lo scenario resta planning e non autorizza capitoli finché manca review epidemiologica indipendente. (mem-20260729124607-16dadm7)
-- Procedi con il prossimo passo della pipeline del Volume 7, completando il ciclo epidemiologia e screening senza avviare i capitoli prima del superamento del gate. (mem-20260729111701-1t45ujs)
-- Procedi con il prossimo passo della pipeline del volume 7, completando il ciclo fonti TPALL senza avviare i capitoli prima del superamento del gate. (mem-20260729104144-1b2yy63)
-- Procedi con il prossimo passo della pipeline del volume 7, completando il ciclo fonti del verticale fisioterapico senza avviare i capitoli prima del superamento del gate. (mem-20260729101908-bd5mrt)
-- Prossimo passo della pipeline del volume 7. (mem-20260729095424-bj470l)
-- Procedi con il prossimo passo della pipeline del volume 7, completando la raccolta e la verifica delle fonti necessarie prima della scrittura dei capitoli. (mem-20260729093824-cizuig)
-- Prossimo passo: continuare la pipeline VOL-07 acquisendo prima tutte le fonti necessarie, senza iniziare i capitoli finch? (mem-20260729092336-12ug5k1)
-- Procedi con la pipeline del volume 7, includendo ricerca e scaricamento delle fonti necessarie prima della scrittura dei capitoli. (mem-20260729090237-119s6lz)
-- Procedere con la pipeline VOL-07 e con la ricerca e il download delle fonti necessarie prima di scrivere i capitoli. (mem-20260729083750-bah40g)
