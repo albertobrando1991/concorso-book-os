@@ -19,6 +19,7 @@ outline_section: 12
 draft_stage: humanized-editorial-revision
 module_code: M-FC01
 module_family: funzioni-centrali
+companion_to: il-metodo-bando
 last_manual_writer_run: "2026-08-09T09:35:08.040Z"
 format_version: 2
 dati_operativi: []
