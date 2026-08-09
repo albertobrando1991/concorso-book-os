@@ -37,6 +37,41 @@ tags: ["coverage", "m-tr01"]
 
 Nessuna riga `parziale` è pubblicabile. Il corpus dei bandi sostiene priorità qualitative, non percentuali di frequenza.
 
+## Retrofit formato 2 — mappatura capitolo 01
+
+| Nucleo ID | Riga canonica | Dimensioni verificabili | Applicazione/output | Verifica | Stato |
+| --- | --- | --- | --- | --- | --- |
+| `N-TR01-01-01` | Ruoli e contesti | definizione, funzione, elementi, responsabilità, denominazione/attività/output | classificazione profilo | cinque elementi | completo |
+| `N-TR01-01-02` | Ruoli e contesti | famiglie, sovrapposizioni, profondità, autonomia | confronto profili | scelta motivata | completo |
+| `N-TR01-01-03` | Ruoli e contesti | enti, utenti, servizi, interlocutori, vincoli | profilo-contesto | microcaso PA | completo |
+| `N-TR01-01-04` | Lettura del bando | Bando, Aree, Nuclei, Diario, Output, lacune | Mappa BANDO | materia-nucleo-output | completo |
+| `N-TR01-01-05` | Lettura del bando | requisiti, attività, materie, profondità, prove, criteri | matrice di classificazione | voce ibrida | completo |
+| `N-TR01-01-06` | Lettura del bando | fonte, destinazione, stato, priorità, pacchetto | Decoder e caso | sei quiz/checklist | completo |
+
+La mappatura scompone le due righe canoniche senza sostituirle. Il passaggio a `completo` in formato 2 richiede almeno 600 parole per nucleo, una verifica dopo sei nuclei, sei quiz commentati e un caso ragionato.
+
+### Checklist dimensionale capitolo 01
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso prova | Errore | Verifica | Tracciabilità |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| `N-TR01-01-01` | ✓ apertura del nucleo | ✓ adeguatezza e governo dei servizi | ✓ profilo nella PA | ✓ cinque elementi | ✓ denominazione/attività/output | ✓ profondità e allenamento | ✓ griglia del profilo | ✓ «Come lo chiede» | ✓ programmatore ≠ ICT | ✓ quiz 2 | ✓ frontmatter e riferimenti leggibili |
+| `N-TR01-01-02` | ✓ cinque famiglie | ✓ baricentro professionale | ✓ generalista/specialisti/alta professionalità | ✓ domande e output per famiglia | ✓ sovrapposizione ≠ coincidenza | ✓ scelta della profondità | ✓ attività-verbo-oggetto | ✓ confronto motivato | ✓ parola sicurezza ≠ profilo cyber | ✓ quiz 5 | ✓ campione e audit nel frontmatter |
+| `N-TR01-01-03` | ✓ contesto di lavoro | ✓ rende concreti utenti e vincoli | ✓ enti locali, università, regioni/agenzie, autorità/ricerca | ✓ utenti, servizi, dipendenze, vincoli | ✓ ente ≠ mansione | ✓ priorità ed evidenze diverse | ✓ due bandi omonimi | ✓ risposta contestualizzata | ✓ studiare l’intero ente | ✓ quiz 2 e microcaso | ✓ fonti bandi nel frontmatter |
+| `N-TR01-01-04` | ✓ cinque passaggi BANDO | ✓ traduce lista in piano | ✓ raccordo con capitoli tecnici | ✓ Bando, Aree, Nuclei, Diario, Output | ✓ assegnato/plausibile; completo/parziale/rinviato/mancante | ✓ priorità e azioni correttive | ✓ basi di dati scomposte | ✓ prodotto osservabile | ✓ mappa come indice fisso | ✓ quiz 3 | ✓ logica v4 nel frontmatter |
+| `N-TR01-01-05` | ✓ quattro categorie | ✓ separa accesso, lavoro, studio e valutazione | ✓ prove ICT documentate ma non universalizzate | ✓ requisiti, attività, materie, formati, criteri | ✓ quiz/risposta/elaborato/caso/orale | ✓ profondità e allenamento differenziati | ✓ classificazione di quattro voci | ✓ tabella prova-prestazione | ✓ stessa profondità per tutto | ✓ quiz 1 e 4 | ✓ campione/audit nel frontmatter |
+| `N-TR01-01-06` | ✓ decoder e campi | ✓ controlla destinazioni e lacune | ✓ pacchetto minimo VOL-01 + VOL-08 | ✓ profilo, contesto, requisito, materia, nuclei, output, fonte, destinazione, stato | ✓ stati di copertura | ✓ revisione e aggiornamento del piano | ✓ caso del funzionario trasversale | ✓ scritto e orale | ✓ rinvio generico | ✓ sei quiz, caso e checklist | ✓ quattro source_refs e last_compiled_from |
+
+### Delta step 10 — capitolo 01 formato 2
+
+| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
+| --- | --- | --- | --- | --- |
+| `N-TR01-01-01` | pianificato | organizzata teoria su funzione, elementi, responsabilità e output | completo | heading omonimo, griglia a cinque elementi, uso in prova ed errore |
+| `N-TR01-01-02` | pianificato | sviluppate cinque famiglie, sovrapposizioni, baricentro e profondità | completo | heading omonimo, tabella famiglia-domanda-output e mini-esercizio |
+| `N-TR01-01-03` | pianificato | sviluppati contesti, utenti, vincoli e distinzione ente/mansione | completo | heading omonimo, tabella dei contesti e microcaso |
+| `N-TR01-01-04` | pianificato | resa operativa la catena BANDO con stati, priorità e Diario | completo | heading omonimo, tabella passaggio-decisione e BANDO in pratica |
+| `N-TR01-01-05` | pianificato | distinti requisiti, attività, materie, prove, profondità e criteri | completo | heading omonimo, tabella prova-prestazione e mini-esercizio |
+| `N-TR01-01-06` | pianificato | completati procedura del decoder, stati, pacchetto, caso e verifica | completo | heading omonimo, sei quiz commentati, caso ragionato e checklist |
+
 ## Audit v4 dello step 07
 
 La classificazione deriva dal controllo delle promesse formative, delle fonti consolidate, del testo dei capitoli e delle evidenze registrate nei delta. Lunghezza, numero di titoli, quiz e casi non sono stati usati come prova autonoma di completezza.
