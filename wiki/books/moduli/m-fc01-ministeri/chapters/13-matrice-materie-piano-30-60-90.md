@@ -27,7 +27,7 @@ last_compiled_from: [sources/m-fc01-dossier-redazionale-ministeri-pcm-avvocatura
 
 # Matrice materie e piano 30/60/90
 
-Un bando ministeriale può contenere molte materie, più forme di prova e competenze trasversali. Copiare l’elenco in un calendario non basta: le voci sembrano uguali, mentre non hanno lo stesso peso per il profilo, la stessa profondità né lo stesso rischio personale. La matrice M-FC01 trasforma quell’elenco in decisioni controllabili.
+Un bando ministeriale può contenere molte materie, più forme di prova e competenze trasversali. Se copi l’elenco in un calendario, tutte le voci sembrano equivalenti. Non lo sono: cambiano il peso per il profilo, la profondità richiesta e il rischio personale. La matrice M-FC01 serve a decidere da dove partire e che cosa verificare.
 
 ## Obiettivo del capitolo
 
@@ -69,7 +69,7 @@ Esempio: il profilo A prevede quesiti e orale; il profilo B aggiunge una compete
 
 La profondità va espressa con un verbo osservabile. Conoscere l’organizzazione è troppo vago. Distinguere dipartimento e direzione generale, spiegare una funzione di coordinamento o applicare una distinzione a un caso rendono verificabile la preparazione. Anche il controllo deve essere concreto: quesiti, risposta registrata, schema ricostruito a memoria o caso breve.
 
-La matrice rimane viva. Dopo ogni prova diagnostica si aggiorna il rischio; dopo ogni comunicazione ufficiale si controllano fonte e forma della prova; ogni settimana si registra una decisione. Non si riscrive tutto per un singolo errore, ma si cerca il pattern: lacuna teorica, confusione tra istituti, lettura frettolosa, problema di tempo o risposta poco ordinata.
+La matrice cambia insieme alla preparazione. Dopo una prova diagnostica aggiorni il rischio. Una comunicazione ufficiale impone di ricontrollare fonte e forma della prova. A fine settimana registri le decisioni prese. Un singolo errore non giustifica il rifacimento del piano; conta la ricorrenza: lacuna teorica, confusione tra istituti, lettura frettolosa, problema di tempo o risposta poco ordinata.
 
 Prima di chiudere una riga, prova a spiegarla a voce: quale atto giustifica il nucleo, quale prestazione lo verifica e che cosa farai se l’esito è debole. Se una risposta manca, la riga non è ancora pronta per entrare nel calendario. Questo controllo evita piani precisi nell’aspetto ma privi di fondamento.
 
@@ -106,15 +106,15 @@ Tre giudizi non vanno confusi. Il **peso** deriva dagli atti: materia prevista, 
 | Informazione non confermata | VERIF | Controllare prima di investire tempo |
 | Nucleo assente dal bando | fuori matrice | Non inserirlo per abitudine |
 
-La regola di taglio è rigorosa: si elimina prima ciò che non risulta richiesto, poi si riduce la profondità dei nuclei MEDIA; non si cancella una materia obbligatoria perché è difficile. Si restringono materiali, dettagli e duplicazioni, mantenendo un presidio sui contenuti richiesti e sugli output.
+Per tagliare, elimina prima ciò che gli atti non richiedono. Riduci poi la profondità dei nuclei MEDIA. La difficoltà, da sola, non giustifica la cancellazione di una materia obbligatoria. Puoi invece restringere i materiali, rinunciare ai dettagli e togliere le duplicazioni, continuando a verificare i contenuti richiesti.
 
-Un candidato possiede tre manuali di amministrativo. Il terzo non aumenta la priorità: aumenta il rumore. Può scegliere un testo principale, i riferimenti necessari e strumenti di verifica. Una materia specialistica richiesta ma poco familiare, invece, può diventare MOD ad alta intensità anche se compare in una sola prova. Le etichette devono guidare una decisione, non decorare la tabella.
+Un candidato possiede tre manuali di amministrativo. Il terzo aggiunge soprattutto pagine da gestire. Meglio scegliere un testo principale, i riferimenti necessari e strumenti di verifica. Una materia specialistica richiesta ma poco familiare può invece diventare MOD ad alta intensità, anche se compare in una sola prova. Le etichette hanno senso quando cambiano una decisione concreta.
 
 Ogni etichetta ha una regola di revisione. CORE scende d’intensità solo quando le verifiche mostrano stabilità, ma resta nel richiamo. ALTA può cambiare se cambia la prova. MEDIA sale se gli errori dimostrano che sostiene altri nuclei. MOD si amplia o si restringe secondo il codice profilo. VERIF deve avere una scadenza: data del controllo o evento atteso. Una casella VERIF senza scadenza è un dubbio dimenticato.
 
 La classificazione va riletta settimanalmente, ma non cambiata per impulso. Servono evidenze: un atto nuovo, una diagnosi ripetuta, un mutamento della prova o un errore persistente. Annotare il motivo del passaggio da MEDIA ad ALTA, o viceversa, mantiene il piano comprensibile e impedisce che l’ansia riscriva ogni giorno le priorità.
 
-Quando due nuclei sembrano avere la stessa priorità, scegli quello che sostiene più output o rimuove un rischio più grave. Se anche questo criterio non decide, alternali e usa la verifica per raccogliere dati. La matrice serve proprio a sostituire l’intuizione con scelte osservabili.
+Quando due nuclei sembrano avere la stessa priorità, scegli quello che sostiene più output o rimuove un rischio più grave. Se il confronto non basta, alternali per una settimana e osserva i risultati. Avrai così un dato concreto su cui decidere, invece di affidarti all’impressione del momento.
 
 > **Da sapere in 5 righe**
 > 1. Le etichette ordinano, non prevedono.
@@ -149,7 +149,7 @@ La forma di prova cambia il modo di distribuire il tempo. Una preselezione può 
 
 Caso: Anna concorre per un profilo amministrativo con scritto e orale. Nella diagnosi ottiene risultati discreti sui quiz, ma non sa spiegare la differenza tra strutture né collegare organizzazione e responsabilità. La matrice non deve ridurre il tempo sull’organizzazione perché il punteggio a quiz è sufficiente. Deve cambiare output: esposizioni brevi, confronti e domande di seguito. Marco concorre per un profilo contabile; è forte nel core giuridico ma debole nel MOD. Il suo calendario assegna più blocchi applicativi al modulo, mantenendo richiami brevi sul core.
 
-Una priorità ministeriale è quindi una relazione: materia × profilo × prova × livello personale. Se manca uno dei fattori, la decisione è fragile. Il confronto con altri bandi serve a prepararsi alla variabilità, non a sostituire l’analisi del proprio.
+La priorità ministeriale nasce dalla relazione tra materia, profilo, prova e livello personale. Se manca uno di questi fattori, la decisione è fragile. Il confronto con altri bandi prepara alla variabilità, ma non sostituisce l’analisi della procedura scelta.
 
 Controlla inoltre che la denominazione dell’amministrazione non diventi una scorciatoia. Due selezioni della stessa amministrazione possono riguardare profili e prove differenti. Il riferimento corretto resta la combinazione fra codice, attività descritte, materie e forma della prestazione richiesta.
 
@@ -168,7 +168,7 @@ Controlla inoltre che la denominazione dell’amministrazione non diventi una sc
 
 ## N-FC01-13-04 · Tempo reale e settimana sostenibile
 
-Il tempo utile non coincide con il tempo desiderato. Prima di costruire il calendario, osserva una settimana ordinaria: lavoro, spostamenti, cura, sonno e impegni non negoziabili. Calcola soltanto blocchi che puoi difendere con continuità. Un piano sostenibile può essere intenso, ma deve includere recupero e correzione.
+Il calendario va costruito sul tempo che hai davvero. Osserva una settimana ordinaria e considera lavoro, spostamenti, cura, sonno e impegni non negoziabili. Conta soltanto i blocchi che riesci a difendere con continuità. Anche un piano intenso deve lasciare spazio al recupero e alla correzione.
 
 Dividi la disponibilità in tre categorie: blocchi ad alta concentrazione per teoria nuova o casi; blocchi medi per quiz e richiamo; blocchi brevi per diario, flashcard e controllo degli avvisi. Questa distinzione evita di programmare un tema complesso quando sei stanco e di sprecare il tempo migliore in compiti meccanici.
 
@@ -184,7 +184,7 @@ Non esiste una quantità settimanale valida per tutti. Usa proporzioni elastiche
 
 Una settimana ordinaria può contenere tre cicli completi: nucleo, richiamo, prova e correzione. Una settimana ridotta può contenerne uno o due. Il ciclo è più importante del numero di pagine. Lascia almeno uno spazio di recupero non assegnato: se non serve, diventa ripasso; se serve, assorbe il ritardo senza spostare tutto.
 
-La capacità si misura sui prodotti. Se programmi quattro blocchi e ne completi regolarmente due, il dato utile è due. Non rispondere aggiungendo ore alla settimana successiva: riduci ampiezza o materiali e conserva la catena studio–output–correzione. La ripianificazione efficace modifica poche variabili: priorità, profondità, frequenza o formato dell’esercizio.
+Misura la capacità sui prodotti. Se programmi quattro blocchi e ne completi regolarmente due, il dato utile è due. Aggiungere altre ore alla settimana successiva peggiorerebbe il ritardo. Riduci invece ampiezza o materiali e conserva la sequenza studio, output e correzione. Per ripianificare basta spesso cambiare una variabile: priorità, profondità, frequenza o formato dell’esercizio.
 
 Anche le pause fanno parte della capacità: senza recupero, la qualità del richiamo e dell’applicazione peggiora. Il piano non deve prescrivere ritmi biologici uguali per tutti; deve però rendere visibile quando la stanchezza produce errori. Se accade, sposta il compito più esigente e usa il blocco breve per attività compatibili.
 
@@ -218,7 +218,7 @@ Caso: Paolo dispone di cinque sere e del sabato, ma dopo due settimane completa 
 
 ## N-FC01-13-05 · Giorni 1–30: fondazioni e diagnosi
 
-I primi trenta giorni devono produrre una base verificata, non l’illusione di aver letto tutto. Il punto di partenza è una fotografia: atti disponibili, forma delle prove, materie, livello iniziale e tempo. Segue una prova diagnostica breve nel formato più vicino a quello previsto. Lo scopo non è ottenere un voto, ma distinguere conoscenza, confusione, lentezza e lacune.
+Nei primi trenta giorni costruisci una base e cominci subito a verificarla. Parti da una fotografia concreta: atti disponibili, forma delle prove, materie, livello iniziale e tempo. Svolgi quindi una prova diagnostica breve, il più possibile vicina al formato previsto. Il risultato serve a distinguere ciò che conosci dalle confusioni, dalle lacune e dai problemi di tempo.
 
 ### Prima fase: bando e diagnosi
 
@@ -242,7 +242,7 @@ Caso: Sara prepara un profilo ministeriale e dedica le prime due settimane a leg
 
 Un buon checkpoint usa indicatori semplici: nuclei coperti con spiegazione; percentuale di output completati rispetto a quelli programmati; categorie di errore ricorrenti; tempo medio impiegato; decisioni aperte. Il punteggio è utile, ma non basta. Due risultati uguali possono nascondere problemi diversi: mancanza di teoria o gestione inefficiente del tempo.
 
-Il checkpoint deve concludersi con un calendario nuovo, non con un giudizio morale. Scrivi al massimo tre cambiamenti verificabili per la fase seguente: un nucleo da rafforzare, un output da introdurre e un’attività da ridurre. Poche modifiche osservabili permettono di capire, al controllo successivo, se la correzione ha funzionato.
+Al termine del checkpoint devi avere un calendario nuovo. Evita giudizi come «sono indietro» o «devo impegnarmi di più»: non dicono che cosa fare. Scegli pochi cambiamenti verificabili, per esempio un nucleo da rafforzare, un output da introdurre o un’attività da ridurre. Al controllo successivo potrai capire se la correzione ha funzionato.
 
 Conserva anche una fotografia della matrice iniziale. Il confronto con quella aggiornata rende visibili le decisioni: quali rischi sono scesi, quali priorità sono cambiate e quali dubbi sono stati chiusi. Senza questa traccia, il miglioramento rischia di essere percepito soltanto come una sensazione.
 
@@ -274,7 +274,7 @@ Il consolidamento alterna richiamo distribuito, prove parziali e correzione. Per
 | Caso | Selezione della regola e motivazione | Schema o variante del caso |
 | Situazionale | Lettura del ruolo e priorità | Confronto fra opzioni |
 
-Il diario degli errori non deve diventare una collezione infinita. Ogni voce utile contiene data, nucleo, output, causa, correzione e data del nuovo controllo. Quando l’errore non ricompare in verifiche distanziate, la voce passa in mantenimento. Quando ricompare, cambia strategia: una nuova spiegazione, un confronto, un caso o una domanda a tempo.
+Un diario degli errori troppo lungo smette presto di essere consultabile. Per ogni voce registra data, nucleo, output, causa, correzione e nuovo controllo. Se l’errore non ricompare nelle verifiche distanziate, passa al mantenimento. Se torna, cambia esercizio: prova una spiegazione diversa, un confronto, un caso o una domanda a tempo.
 
 Il checkpoint del giorno 60 domanda se il sistema regge. Confronta la matrice iniziale con i risultati: quali CORE sono stabili? Quali MOD restano fragili? Quali MEDIA possono essere compressi? Gli output riflettono davvero la prova? Esistono errori trasversali, come lettura frettolosa o esposizione disordinata? Sono arrivati nuovi avvisi?
 
@@ -282,9 +282,9 @@ In un piano complessivo da sessanta giorni, questa fase occupa la seconda metà 
 
 Caso: Davide migliora nei quiz di organizzazione, ma all’orale elenca strutture senza spiegare relazioni. Il punteggio medio nasconde la lacuna. La matrice separa i due output: mantiene quiz brevi e aumenta confronti e risposte di tre minuti. Dopo una settimana registra l’esposizione, la valuta con una griglia e ripete soltanto i passaggi deboli.
 
-Il consolidamento richiede anche tagli. Se un approfondimento MEDIA occupa due blocchi e il MOD resta instabile, si rinvia l’approfondimento. Se un secondo manuale ripete il primo, si elimina. Se il candidato produce molti schemi ma non li ricostruisce, riduce la produzione e aumenta il richiamo. Tagliare è una decisione di coerenza, non una resa.
+Consolidare comporta anche qualche rinuncia. Se un approfondimento MEDIA occupa due blocchi mentre il MOD resta instabile, rinvialo. Togli il secondo manuale quando ripete il primo. Se produci molti schemi ma non riesci a ricostruirli, fanne meno e dedica più tempo al richiamo. Il taglio libera tempo per ciò che la prova richiede ancora.
 
-La verifica distanziata protegge dalle false sicurezze. Ripetere subito una domanda appena corretta misura soprattutto la memoria della soluzione. Riproporla dopo un intervallo, con formulazione o caso diverso, mostra se la distinzione è stata compresa. Per questo il diario deve contenere una data futura e non soltanto la correzione del giorno.
+La verifica distanziata riduce le false sicurezze. Se ripeti subito una domanda appena corretta, ricordi soprattutto la soluzione. Ripresentala dopo un intervallo, cambiando formulazione o caso: capirai se hai afferrato la distinzione. Nel diario, perciò, annota anche la data del controllo successivo.
 
 Nel passaggio al giorno 60, prepara una lista breve di errori attivi. Per ciascuno indica il prossimo output e il criterio di chiusura. Questa lista guida la fase finale meglio di un ripasso generale, perché concentra il tempo sui problemi ancora dimostrati.
 
@@ -319,11 +319,11 @@ La regola di taglio finale procede in quest’ordine: materiali duplicati; conte
 
 Se arriva una comunicazione dell’amministrazione, confrontala con la matrice. Individua righe coinvolte, aggiorna la fonte, modifica output e calendario, registra la decisione. Non reagire riscrivendo l’intero piano. Se l’avviso aggiunge una forma di prova, occorre introdurre gradualmente quell’output; se chiarisce soltanto un dettaglio organizzativo, può bastare chiudere un VERIF.
 
-Il piano da 90 giorni offre più cicli di correzione, non il diritto di studiare tutto. Quello da 60 comprime fondazione e consolidamento; quello da 30 conserva la stessa logica in sequenza più stretta. Nei tre casi il piano termina con un pacchetto essenziale: matrice aggiornata, schede di richiamo, errori ancora attivi, prove corrette, documenti e logistica.
+Con 90 giorni hai più occasioni per provare, sbagliare e correggere; il tempo in più non rende necessario studiare ogni dettaglio. Il piano da 60 giorni comprime fondazione e consolidamento. Quello da 30 mantiene la stessa sequenza, con tagli più netti. Tutti terminano con un pacchetto essenziale: matrice aggiornata, schede di richiamo, errori ancora attivi, prove corrette, documenti e logistica.
 
 Caso: Elena è al giorno 70. Il CORE è stabile, il MOD presenta due nuclei fragili e diversi dettagli MEDIA non sono iniziati. Una nuova comunicazione conferma l’orale. Elena non apre un nuovo compendio: assegna blocchi ai due nuclei MOD, inserisce risposte orali su CORE e MOD, mantiene simulazioni e rinvia i dettagli MEDIA. La decisione è motivata da profilo, prova e rischio.
 
-Il controllo finale non domanda se hai finito il manuale. Domanda se sai produrre la prestazione richiesta con errori riconosciuti e una strategia. Un piano maturo contiene anche limiti espliciti: ciò che non verrà approfondito, ciò che resta da verificare e ciò che deve essere soltanto mantenuto.
+Al controllo finale, il numero di pagine concluse conta poco. Devi saper produrre la prestazione richiesta, riconoscere gli errori ancora attivi e applicare una strategia. Annota anche i limiti del piano: gli argomenti che non approfondirai, i punti da verificare e i nuclei ormai affidati al solo mantenimento.
 
 Negli ultimi controlli confronta più evidenze, non una singola simulazione. Un esito isolato può dipendere da stanchezza o familiarità con le domande; una tendenza ripetuta è più utile. Se il problema resta circoscritto, intervieni sul nucleo. Se attraversa più materie, correggi il processo di lettura, gestione del tempo o esposizione.
 
