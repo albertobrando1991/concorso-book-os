@@ -73,6 +73,8 @@ La matrice rimane viva. Dopo ogni prova diagnostica si aggiorna il rischio; dopo
 
 Prima di chiudere una riga, prova a spiegarla a voce: quale atto giustifica il nucleo, quale prestazione lo verifica e che cosa farai se l’esito è debole. Se una risposta manca, la riga non è ancora pronta per entrare nel calendario. Questo controllo evita piani precisi nell’aspetto ma privi di fondamento.
 
+Archivia la versione controllata dell’atto e annota dove hai trovato l’informazione. In questo modo, quando compare un nuovo avviso, puoi confrontare il cambiamento con un dato preciso invece di affidarti alla memoria. La tracciabilità rende più rapida anche la revisione settimanale.
+
 > **Da sapere in 5 righe**
 > 1. La matrice traduce atti ufficiali in decisioni.
 > 2. Profilo e prova vengono prima del calendario.
@@ -112,6 +114,8 @@ Ogni etichetta ha una regola di revisione. CORE scende d’intensità solo quand
 
 La classificazione va riletta settimanalmente, ma non cambiata per impulso. Servono evidenze: un atto nuovo, una diagnosi ripetuta, un mutamento della prova o un errore persistente. Annotare il motivo del passaggio da MEDIA ad ALTA, o viceversa, mantiene il piano comprensibile e impedisce che l’ansia riscriva ogni giorno le priorità.
 
+Quando due nuclei sembrano avere la stessa priorità, scegli quello che sostiene più output o rimuove un rischio più grave. Se anche questo criterio non decide, alternali e usa la verifica per raccogliere dati. La matrice serve proprio a sostituire l’intuizione con scelte osservabili.
+
 > **Da sapere in 5 righe**
 > 1. Le etichette ordinano, non prevedono.
 > 2. CORE e ALTA derivano da bando e prova.
@@ -147,6 +151,8 @@ Caso: Anna concorre per un profilo amministrativo con scritto e orale. Nella dia
 
 Una priorità ministeriale è quindi una relazione: materia × profilo × prova × livello personale. Se manca uno dei fattori, la decisione è fragile. Il confronto con altri bandi serve a prepararsi alla variabilità, non a sostituire l’analisi del proprio.
 
+Controlla inoltre che la denominazione dell’amministrazione non diventi una scorciatoia. Due selezioni della stessa amministrazione possono riguardare profili e prove differenti. Il riferimento corretto resta la combinazione fra codice, attività descritte, materie e forma della prestazione richiesta.
+
 > **Da sapere in 5 righe**
 > 1. Il codice profilo vale più dell’etichetta generica.
 > 2. Il CCNL aiuta a interpretare, non riscrive il bando.
@@ -181,6 +187,8 @@ Una settimana ordinaria può contenere tre cicli completi: nucleo, richiamo, pro
 La capacità si misura sui prodotti. Se programmi quattro blocchi e ne completi regolarmente due, il dato utile è due. Non rispondere aggiungendo ore alla settimana successiva: riduci ampiezza o materiali e conserva la catena studio–output–correzione. La ripianificazione efficace modifica poche variabili: priorità, profondità, frequenza o formato dell’esercizio.
 
 Anche le pause fanno parte della capacità: senza recupero, la qualità del richiamo e dell’applicazione peggiora. Il piano non deve prescrivere ritmi biologici uguali per tutti; deve però rendere visibile quando la stanchezza produce errori. Se accade, sposta il compito più esigente e usa il blocco breve per attività compatibili.
+
+Prevedi una regola per le settimane eccezionali. Se la disponibilità cala, conserva almeno un ciclo completo su CORE o MOD e un controllo degli avvisi. Alla ripresa non sommare automaticamente il lavoro saltato: rivaluta la priorità e ricostruisci il calendario dal tempo rimasto.
 
 ### Scheda settimanale
 
@@ -238,6 +246,8 @@ Il checkpoint deve concludersi con un calendario nuovo, non con un giudizio mora
 
 Conserva anche una fotografia della matrice iniziale. Il confronto con quella aggiornata rende visibili le decisioni: quali rischi sono scesi, quali priorità sono cambiate e quali dubbi sono stati chiusi. Senza questa traccia, il miglioramento rischia di essere percepito soltanto come una sensazione.
 
+Il confronto deve includere anche gli output. Un nucleo può risultare coperto perché letto, ma ancora non disponibile per la prova. Segna separatamente comprensione e prestazione: soltanto la seconda, verificata nel formato pertinente, consente di ridurre l’intensità del lavoro.
+
 > **Da sapere in 5 righe**
 > 1. I primi trenta giorni costruiscono basi e diagnosi.
 > 2. Il test iniziale serve anche prima dello studio.
@@ -275,6 +285,8 @@ Caso: Davide migliora nei quiz di organizzazione, ma all’orale elenca struttur
 Il consolidamento richiede anche tagli. Se un approfondimento MEDIA occupa due blocchi e il MOD resta instabile, si rinvia l’approfondimento. Se un secondo manuale ripete il primo, si elimina. Se il candidato produce molti schemi ma non li ricostruisce, riduce la produzione e aumenta il richiamo. Tagliare è una decisione di coerenza, non una resa.
 
 La verifica distanziata protegge dalle false sicurezze. Ripetere subito una domanda appena corretta misura soprattutto la memoria della soluzione. Riproporla dopo un intervallo, con formulazione o caso diverso, mostra se la distinzione è stata compresa. Per questo il diario deve contenere una data futura e non soltanto la correzione del giorno.
+
+Nel passaggio al giorno 60, prepara una lista breve di errori attivi. Per ciascuno indica il prossimo output e il criterio di chiusura. Questa lista guida la fase finale meglio di un ripasso generale, perché concentra il tempo sui problemi ancora dimostrati.
 
 > **Da sapere in 5 righe**
 > 1. Consolidare significa recuperare e applicare.
@@ -314,6 +326,8 @@ Caso: Elena è al giorno 70. Il CORE è stabile, il MOD presenta due nuclei frag
 Il controllo finale non domanda se hai finito il manuale. Domanda se sai produrre la prestazione richiesta con errori riconosciuti e una strategia. Un piano maturo contiene anche limiti espliciti: ciò che non verrà approfondito, ciò che resta da verificare e ciò che deve essere soltanto mantenuto.
 
 Negli ultimi controlli confronta più evidenze, non una singola simulazione. Un esito isolato può dipendere da stanchezza o familiarità con le domande; una tendenza ripetuta è più utile. Se il problema resta circoscritto, intervieni sul nucleo. Se attraversa più materie, correggi il processo di lettura, gestione del tempo o esposizione.
+
+Chiudi il piano con una decisione per ogni riga: mantenere, richiamare, rafforzare, verificare o non approfondire. Questa mappa finale evita ripassi casuali e permette di usare gli ultimi blocchi per la prestazione, senza riaprire argomenti già stabili.
 
 > **Da sapere in 5 righe**
 > 1. La fase finale stabilizza la prestazione.
