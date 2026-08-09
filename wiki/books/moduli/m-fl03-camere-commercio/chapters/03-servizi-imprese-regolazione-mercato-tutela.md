@@ -11,7 +11,7 @@ book_refs: ["m-fl03-camere-commercio", "vol-02-enti-locali-polizia-locale", "il-
 confidence: 0.82
 updated_at: 2026-08-08T23:20:00+02:00
 created_at: 2026-07-17T19:10:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "module-code-m-fl03", "professional-draft", "servizi-imprese"]
 book_id: m-fl03-camere-commercio

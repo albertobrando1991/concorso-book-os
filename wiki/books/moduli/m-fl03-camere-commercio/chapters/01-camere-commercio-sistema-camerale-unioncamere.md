@@ -17,7 +17,7 @@ asset_refs:
 confidence: 0.86
 updated_at: 2026-08-08T22:45:00+02:00
 created_at: 2026-07-17T19:10:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "module-code-m-fl03", "professional-draft", "illustrated", "camere-commercio"]
 book_id: m-fl03-camere-commercio
