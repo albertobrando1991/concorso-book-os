@@ -28,7 +28,7 @@ last_compiled_from: ["artifacts/pipeline/VOL-03/09/moduli-m-fc01-ministeri-chapt
 
 ## Apertura editoriale
 
-Il caso pratico ministeriale non misura soltanto memoria normativa. Misura la capacita di leggere una situazione incompleta, riconoscere il punto amministrativo decisivo, separare competenza e urgenza, scegliere il passaggio corretto e lasciare una traccia controllabile. La traccia puo parlare di protocollo, accesso, pubblicazione, PIAO, spesa, contratto digitale, progetto PNRR o rapporto con l'Avvocatura dello Stato. In tutti i casi, il candidato deve trasformare il fatto in una decisione motivata.
+Nel caso pratico ministeriale la memoria normativa, da sola, non basta. Il candidato deve leggere una situazione incompleta, riconoscere il problema amministrativo decisivo, separare competenza e urgenza, scegliere il passaggio corretto e lasciare una traccia controllabile. La traccia puo parlare di protocollo, accesso, pubblicazione, PIAO, spesa, contratto digitale, progetto PNRR o rapporto con l'Avvocatura dello Stato. Il compito resta lo stesso: trasformare i fatti in una decisione motivata.
 
 Questo capitolo non riscrive il metodo generale dei casi pratici. Lo applica al lavoro delle amministrazioni centrali: uffici ministeriali, dipartimenti, direzioni, strutture di coordinamento, fascicoli digitali, flussi con Presidenza del Consiglio, MEF, ANAC, AgID e Avvocatura. L'obiettivo e allenare la risposta da concorso: breve, ordinata, prudente quando mancano dati, ma mai generica.
 
@@ -81,7 +81,7 @@ La stessa soluzione puo avere tre lunghezze. In 10 righe serve una diagnosi nett
 
 Una direzione generale riceve una nota interna: un servizio agli utenti e in ritardo, una richiesta di accesso e arrivata su una casella non presidiata e il dirigente chiede una risposta entro breve. La traccia non indica l'ufficio competente, il termine legale applicabile ne il contenuto dei documenti richiesti.
 
-La risposta corretta non parte da un termine inventato. Parte dalla diagnosi: ci sono tre problemi diversi, cioe ritardo del servizio, gestione della richiesta e ricostruzione del fascicolo. L'interesse pubblico e garantire tempestivita, legalita e tracciabilita. La competenza va verificata sugli atti organizzativi e sul fascicolo; nel frattempo l'ufficio che riceve la nota deve assicurare registrazione, inoltro o segnalazione secondo il flusso interno, evitando dispersione del documento.
+La risposta corretta parte dalla diagnosi, non da un termine inventato. I problemi sono distinti: il ritardo del servizio, la gestione della richiesta e la ricostruzione del fascicolo. L'interesse pubblico e garantire tempestivita, legalita e tracciabilita. La competenza va verificata sugli atti organizzativi e sul fascicolo; nel frattempo l'ufficio che riceve la nota deve assicurare registrazione, inoltro o segnalazione secondo il flusso interno, evitando dispersione del documento.
 
 La soluzione in 10 righe puo essere: registrare la ricezione, individuare il procedimento e il responsabile competente, ricostruire il fascicolo, distinguere la richiesta di accesso dal problema di performance, verificare disciplina applicabile e dati presenti, proporre risposta motivata o assegnazione, lasciare evidenza dei passaggi. In 20 righe aggiungi che, se mancano elementi essenziali, l'ufficio chiede integrazione o attiva il raccordo interno; se emergono dati personali, limita il trattamento a quanto necessario; se il ritardo riguarda un obiettivo programmato, lo collega al monitoraggio.
 
@@ -113,7 +113,7 @@ L'accesso non coincide con la consegna automatica di qualunque file. Occorre ver
 
 ### Soluzione guidata e risposta breve
 
-La risposta breve puo essere:
+Una risposta sintetica puo essere organizzata cosi:
 
 | Passaggio | Azione |
 |---|---|
@@ -161,7 +161,7 @@ Il profilo anticorruzione riguarda il processo. La conoscenza personale del bene
 
 ### Soluzione guidata e risposta breve
 
-La risposta breve puo essere: qualificare l'obbligo di pubblicazione; verificare quali dati siano necessari; oscurare o non diffondere dati eccedenti; trattare separatamente la richiesta di accesso; valutare eventuali controinteressati e limiti; segnalare il rischio di conflitto o interferenza al responsabile competente; conservare nel fascicolo la motivazione delle scelte.
+In poche righe, occorre qualificare l'obbligo di pubblicazione e verificare quali dati siano necessari. I dati eccedenti vanno oscurati o non diffusi; la richiesta di accesso richiede una trattazione separata, con valutazione di controinteressati e limiti. Il rischio di conflitto o interferenza va segnalato al responsabile competente, mentre il fascicolo conserva la motivazione delle scelte.
 
 | Questione | Scelta corretta | Evidenza |
 |---|---|---|
@@ -194,15 +194,15 @@ La traccia non chiede di riscrivere il PIAO. Chiede di trasformare un obiettivo 
 
 ### Ruoli, indicatori, scostamento e correzione
 
-Il primo passaggio e definire lo scostamento. Non basta dire "siamo in ritardo": occorre indicare rispetto a quale obiettivo, con quale dato, in quale periodo e con quale causa probabile. Se gli indicatori non coincidono, il monitoraggio e debole. La proposta correttiva deve prima allineare le evidenze: numero di pratiche ricevute, pratiche definite, arretrato, tempi, qualita, errori, reclami o segnalazioni, secondo il risultato atteso.
+Si parte dalla definizione dello scostamento. Dire "siamo in ritardo" non basta: occorre indicare rispetto a quale obiettivo, sulla base di quale dato, in quale periodo e con quale causa probabile. Se gli indicatori non coincidono, il monitoraggio e debole. La proposta correttiva deve prima allineare le evidenze: numero di pratiche ricevute, pratiche definite, arretrato, tempi, qualita, errori, reclami o segnalazioni, secondo il risultato atteso.
 
-Il secondo passaggio e chiarire i ruoli. L'ufficio che gestisce le istanze non puo risolvere da solo un problema causato da dati informatici incompleti; l'ufficio digitale non puo ridefinire l'obiettivo; il prospetto non puo sostituire una decisione organizzativa. Il coordinamento serve a distinguere contributi e responsabilita, non a creare un responsabile indistinto di tutto.
+Vanno poi chiariti i ruoli. L'ufficio che gestisce le istanze non puo risolvere da solo un problema causato da dati informatici incompleti; l'ufficio digitale non puo ridefinire l'obiettivo; il prospetto non puo sostituire una decisione organizzativa. Il coordinamento distingue contributi e responsabilita: non crea un responsabile indistinto di tutto.
 
-Il terzo passaggio riguarda il rischio. Accelerare le pratiche puo produrre errori, trattamenti non uniformi o carenze di tracciabilita. La misura correttiva deve quindi essere proporzionata: redistribuzione temporanea, formazione mirata, pulizia dei dati, revisione del flusso, controllo a campione, aggiornamento del monitoraggio. Se l'obiettivo e irrealistico per un fatto sopravvenuto, la proposta puo motivare una revisione, ma non come prima scorciatoia.
+Resta da valutare il rischio. Accelerare le pratiche puo produrre errori, trattamenti non uniformi o carenze di tracciabilita. La misura correttiva deve quindi essere proporzionata: redistribuzione temporanea, formazione mirata, pulizia dei dati, revisione del flusso, controllo a campione, aggiornamento del monitoraggio. Se l'obiettivo e irrealistico per un fatto sopravvenuto, la proposta puo motivare una revisione, ma non come prima scorciatoia.
 
 ### Soluzione guidata e risposta breve
 
-La risposta breve puo essere: ricostruire obiettivo e indicatori, validare i dati, distinguere attivita e risultato, individuare causa dello scostamento, assegnare azione correttiva a ciascun ufficio, indicare controllo intermedio ed evidenza finale. La conclusione non e "fare piu in fretta", ma riportare il ciclo a coerenza.
+In forma breve, la risposta ricostruisce obiettivo e indicatori, valida i dati, distingue attivita e risultato, individua la causa dello scostamento, assegna a ciascun ufficio l'azione correttiva e indica controllo intermedio ed evidenza finale. La conclusione non e "fare piu in fretta", ma riportare il ciclo a coerenza.
 
 | Elemento | Domanda | Esempio di risposta |
 |---|---|---|
@@ -234,15 +234,15 @@ La traccia unisce urgenza, titolo, fase contabile e verifica della prestazione. 
 
 ### Copertura, impegno, prestazione e pagamento
 
-La prima domanda e: esiste un titolo giuridico valido? L'utilita del servizio non basta. Occorre verificare contratto, atto o ordine, competenza, imputazione e registrazione dell'impegno. Se l'atto di impegno manca dal fascicolo, l'ufficio non deve liquidare automaticamente. Deve ricostruire la sequenza con le strutture competenti e documentare l'esito.
+La verifica comincia dal titolo giuridico. L'utilita del servizio non basta. Occorre verificare contratto, atto o ordine, competenza, imputazione e registrazione dell'impegno. Se l'atto di impegno manca dal fascicolo, l'ufficio non deve liquidare automaticamente. Deve ricostruire la sequenza con le strutture competenti e documentare l'esito.
 
-La seconda domanda riguarda la prestazione. La liquidazione determina la somma certa e dovuta dopo aver verificato titolo ed esecuzione. Se una parte della prestazione non e stata eseguita, l'importo liquidabile deve riflettere cio che e dovuto secondo contratto e verifiche. Pagare l'intero importo per urgenza o per evitare conflitti invertirebbe la logica della spesa pubblica.
+Occorre quindi verificare la prestazione. La liquidazione determina la somma certa e dovuta dopo aver verificato titolo ed esecuzione. Se una parte della prestazione non e stata eseguita, l'importo liquidabile deve riflettere cio che e dovuto secondo contratto e verifiche. Pagare l'intero importo per urgenza o per evitare conflitti invertirebbe la logica della spesa pubblica.
 
-La terza domanda riguarda il controllo. Controllo amministrativo e controllo contabile non sono sinonimi, ma entrambi richiedono evidenze: competenza, stanziamento, impegno, documento fiscale, attestazione di regolare esecuzione, liquidazione, ordine di pagamento. Una pratica incompleta puo essere sanata solo se esistono presupposti e atti corretti; non con una formula generica di "regolarizzazione".
+Infine si esaminano i controlli. Controllo amministrativo e controllo contabile non sono sinonimi, ma entrambi richiedono evidenze: competenza, stanziamento, impegno, documento fiscale, attestazione di regolare esecuzione, liquidazione, ordine di pagamento. Una pratica incompleta puo essere sanata solo se esistono presupposti e atti corretti; non con una formula generica di "regolarizzazione".
 
 ### Soluzione guidata e risposta breve
 
-La risposta breve puo essere: sospendere la liquidazione integrale; ricostruire titolo e impegno; verificare la parte effettivamente eseguita; liquidare solo quanto dovuto se ricorrono i presupposti; documentare eventuale prestazione non eseguita; attivare i passaggi contabili e contrattuali conseguenti. Se la traccia non fornisce dati decisivi, la risposta deve indicarli come verifiche.
+La risposta breve dispone la sospensione della liquidazione integrale, la ricostruzione di titolo e impegno e la verifica della prestazione effettivamente eseguita. Se ricorrono i presupposti, si liquida soltanto quanto dovuto; l'eventuale parte non eseguita va documentata e devono essere attivati i conseguenti passaggi contabili e contrattuali. Se la traccia non fornisce dati decisivi, la risposta deve indicarli come verifiche.
 
 | Fase | Domanda di controllo | Evidenza |
 |---|---|---|
@@ -277,15 +277,15 @@ La traccia integra contratti pubblici, PNRR e amministrazione digitale. Il D.Lgs
 
 ### Contratto, progetto, dato ed evidenza
 
-Il primo controllo riguarda il bisogno. Se livelli di servizio, dati e verifica non sono definiti, il contratto nasce debole. L'urgenza impone di organizzare l'istruttoria, non di saltarla. La decisione di contrarre deve mostrare risultato atteso, oggetto, procedura, motivazione e risorse. L'acquisizione del CIG identifica il contratto ai fini previsti, ma non sana fabbisogno incompleto o istruttoria mancante. Il CUP identifica il progetto di investimento pubblico; non va confuso con il CIG.
+Il controllo comincia dal bisogno. Se livelli di servizio, dati e verifica non sono definiti, il contratto nasce debole. L'urgenza impone di organizzare l'istruttoria, non di saltarla. La decisione di contrarre deve mostrare risultato atteso, oggetto, procedura, motivazione e risorse. L'acquisizione del CIG identifica il contratto ai fini previsti, ma non sana fabbisogno incompleto o istruttoria mancante. Il CUP identifica il progetto di investimento pubblico; non va confuso con il CIG.
 
-Il secondo controllo riguarda il progetto finanziato. La spesa deve collegarsi a progetto, cronoprogramma, milestone o target quando previsti, ammissibilita, monitoraggio, rendicontazione e controlli. Una fattura o un contratto regolare non prova da solo che il progetto stia avanzando correttamente. Il fascicolo deve collegare atto, dato, sistema, responsabile ed evidenza.
+Si passa poi al progetto finanziato. La spesa deve collegarsi a progetto, cronoprogramma, milestone o target quando previsti, ammissibilita, monitoraggio, rendicontazione e controlli. Una fattura o un contratto regolare non prova da solo che il progetto stia avanzando correttamente. Il fascicolo deve collegare atto, dato, sistema, responsabile ed evidenza.
 
-Il terzo controllo riguarda il digitale amministrativo. Identita, firma, protocollo, comunicazione, fascicolo e conservazione sono funzioni diverse. La piattaforma registra passaggi e dati, ma non decide al posto dell'amministrazione. Se un dato e trasmesso alla BDNCP o usato per monitoraggio, deve corrispondere a un atto valido e verificabile.
+L'ultimo controllo interessa il digitale amministrativo. Identita, firma, protocollo, comunicazione, fascicolo e conservazione sono funzioni diverse. La piattaforma registra passaggi e dati, ma non decide al posto dell'amministrazione. Se un dato e trasmesso alla BDNCP o usato per monitoraggio, deve corrispondere a un atto valido e verificabile.
 
 ### Soluzione guidata e risposta breve
 
-La risposta breve puo essere: non procedere a un'acquisizione solo formale del codice; completare o integrare fabbisogno, livelli di servizio, dati e verifica; individuare RUP e ruoli; collegare CUP, eventuale CIG, piattaforme e fascicolo; verificare vincoli di progetto, cronoprogramma e rendicontazione; avviare la procedura solo con istruttoria sufficiente e tracciabile.
+In forma breve, la risposta esclude un'acquisizione meramente formale del codice. Occorre completare o integrare fabbisogno, livelli di servizio, dati e criteri di verifica; individuare RUP e altri ruoli; collegare CUP, eventuale CIG, piattaforme e fascicolo; controllare vincoli di progetto, cronoprogramma e rendicontazione. La procedura puo iniziare quando l'istruttoria e sufficiente e tracciabile.
 
 | Oggetto | Funzione | Errore da evitare |
 |---|---|---|
@@ -325,7 +325,7 @@ La riservatezza non blocca la trasmissione necessaria, ma impone governo del doc
 
 ### Soluzione guidata e risposta breve
 
-La risposta breve puo essere: protocollare e classificare l'atto; individuare il procedimento e l'ufficio competente; attivare il referente interno; ricostruire cronologia e fascicolo; trasmettere tempestivamente all'Avvocatura secondo il canale previsto, segnalando eventuali integrazioni mancanti; proteggere documenti riservati; aggiornare il fascicolo con ogni successiva comunicazione.
+Una risposta breve indica di protocollare e classificare l'atto, individuare procedimento e ufficio competente, attivare il referente interno e ricostruire cronologia e fascicolo. La trasmissione all'Avvocatura deve essere tempestiva, seguire il canale previsto e segnalare le integrazioni mancanti. I documenti riservati vanno protetti e ogni comunicazione successiva deve aggiornare il fascicolo.
 
 | Passaggio | Domanda | Output |
 |---|---|---|
