@@ -3687,3 +3687,11 @@
 - l0: l0/conv-20260809105801-m0wuzb.md
 - atoms:
   - mem-20260809105801-782abn | result | Esito vol-02-step-24-human-signoff: Procedi dopo la richiesta esplicita di scegliere tra confermato e respinto. -> Registrata conferma umana positiva dello step 24.
+
+## 2026-08-09T13:31:27.520Z - global
+
+- conversation_id: conv-20260809133127-1670afj
+- route: codex/git-publish
+- l0: l0/conv-20260809133127-1670afj.md
+- atoms:
+  - mem-20260809133127-1e08d5t | result | Esito codex/git-publish: commit e push delle modifiche mie fino ad ora senza sovrascrivere quelle dello staff -> Pubblicazione fast-forward su origin/main senza force, reset o rebase; inclusi 42 commit locali preesistenti e commit ba9db89 con verifiche visuali VOL-02 e memoria agentica.
