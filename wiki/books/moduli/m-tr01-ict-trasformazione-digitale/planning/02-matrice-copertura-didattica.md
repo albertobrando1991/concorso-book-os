@@ -107,6 +107,41 @@ La verifica unica sarà collocata dopo il sesto nucleo e comprenderà almeno sei
 | `N-TR01-02-05` | pianificato | verificate metriche, carico, benchmark, colli di bottiglia e parallelismo | completo | heading omonimo, diagnosi in cinque mosse, caso e quiz 4/6 |
 | `N-TR01-02-06` | pianificato | verificate gestione e astrazione di CPU, memoria, I/O e file system | completo | heading omonimo, checklist, domanda da commissario e quiz 5 |
 
+## Retrofit formato 2 — mappatura capitolo 03
+
+| ID stabile | Nucleo canonico | Dimensioni da coprire | Output/applicazione | Verifica prevista | Stato |
+| --- | --- | --- | --- | --- | --- |
+| `N-TR01-03-01` | Problema, algoritmo e correttezza | input, vincoli, output, proprietà, invarianti, casi limite | specifica e tracciamento | quiz e trace table | completo |
+| `N-TR01-03-02` | Paradigmi e flusso di controllo | paradigmi, tipi, espressioni, sequenza, selezione, iterazione | lettura/correzione di pseudocodice | quiz commentato | completo |
+| `N-TR01-03-03` | Funzioni e procedure | parametri, argomenti, restituzione, ambito, ricorsione | scomposizione funzionale | quiz e micro-esercizio | completo |
+| `N-TR01-03-04` | Strutture lineari e associative | array, liste, pile, code, insiemi, mappe, operazioni | scelta motivata della struttura | quiz e domanda orale | completo |
+| `N-TR01-03-05` | Alberi, grafi, ricerca e ordinamento | gerarchie e relazioni; ricerca lineare/binaria; insertion/merge sort | confronto algoritmico e caso pratiche | quiz e caso ragionato | completo |
+| `N-TR01-03-06` | Complessità e output concorsuale | tempo, spazio, O grande, crescita, test, debug, casi limite | stima e motivazione della soluzione | quiz ed esercizio tecnico | completo |
+
+La verifica unica sarà collocata dopo il sesto nucleo e comprenderà almeno sei quiz commentati e un caso ragionato. Ogni nucleo dovrà raggiungere almeno 600 parole secondo il conteggio del gate.
+
+### Checklist dimensionale capitolo 03
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso prova | Errore | Verifica | Tracciabilità |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| `N-TR01-03-01` | ✓ problema, istanza, algoritmo, programma | ✓ trasforma input in output | ✓ specifica e correttezza | ✓ vincoli, pre/postcondizioni, invariante, terminazione | ✓ test/dimostrazione; problema/istanza | ✓ risultato corretto sui casi ammessi | ✓ conteggio pratiche e trace table | ✓ specifica e argomentazione orale | ✓ test favorevole come prova generale | ✓ esercizio 1 | ✓ source_refs e last_compiled_from |
+| `N-TR01-03-02` | ✓ paradigma, tipo, espressione, controllo | ✓ organizza calcolo e stato | ✓ linguaggi multiparadigma | ✓ valori, conversioni, operatori, sequenza, selezione, iterazione | ✓ PER OGNI/MENTRE; paradigmi non esclusivi | ✓ terminazione e gestione input | ✓ validazione identificativi | ✓ lettura e correzione pseudocodice | ✓ limite e aggiornamento indice | ✓ trace table e quiz | ✓ fonti tecniche nel frontmatter |
+| `N-TR01-03-03` | ✓ funzione, procedura, parametro, argomento | ✓ scomposizione e astrazione | ✓ contratto e dipendenze | ✓ restituzione, ambito, stato, ricorsione, caso base | ✓ parametro/argomento; locale/globale | ✓ testabilità, riuso e uso dello stack | ✓ massimo e validazione/conteggio | ✓ spiegazione del contratto | ✓ procedura senza risultato scambiata per assenza di effetti | ✓ quiz 4 e 6 | ✓ fonte tecnica e topic nel frontmatter |
+| `N-TR01-03-04` | ✓ struttura dati e sei famiglie | ✓ rende efficienti operazioni richieste | ✓ rappresentazioni concrete diverse | ✓ array, liste, pile, code, insiemi, mappe | ✓ FIFO/LIFO; ordine/duplicati; mutabile/immutabile | ✓ costi di accesso, ricerca e modifica | ✓ identificativi, ordine e stati | ✓ scelta motivata della struttura | ✓ costo attribuito senza operazione | ✓ esercizio 2 e quiz 3 | ✓ source_refs e riferimenti leggibili |
+| `N-TR01-03-05` | ✓ alberi, grafi, ricerca, ordinamento | ✓ organizza relazioni e reperimento | ✓ struttura collegata all'algoritmo | ✓ lineare/binaria, insertion/merge sort, stabilità | ✓ ordinato/non ordinato; stabile/non stabile | ✓ prerequisiti, memoria e costo dell'ordinamento | ✓ pratiche e ricerche ripetute | ✓ confronto algoritmico | ✓ binaria senza ordinamento | ✓ quiz 1 e 2 | ✓ fonti su algoritmi nel frontmatter |
+| `N-TR01-03-06` | ✓ tempo, spazio e O grande | ✓ descrive crescita delle risorse | ✓ modello asintotico e misura reale | ✓ casi migliore/medio/peggiore, costanti, debug, test | ✓ analisi/misura; tempo/spazio | ✓ scalabilità e compromessi | ✓ classificazione pratiche O(n) | ✓ sequenza completa della risposta tecnica | ✓ complessità senza scenario/operazione | ✓ quiz 5 e caso ragionato | ✓ fonti e rinvio VOL-01 |
+
+### Delta step 10 — capitolo 03 formato 2
+
+| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
+| --- | --- | --- | --- | --- |
+| `N-TR01-03-01` | pianificato | verificate specifica, proprietà, invariante, terminazione e tracciamento | completo | heading omonimo, trace table e principi di specifica |
+| `N-TR01-03-02` | pianificato | verificati paradigmi, tipi, operatori, conversioni e controllo | completo | heading omonimo, pseudocodice e applicazione |
+| `N-TR01-03-03` | pianificato | verificati contratto, parametri, ambito, stato, coesione e ricorsione | completo | heading omonimo, esempi e quiz 4/6 |
+| `N-TR01-03-04` | pianificato | verificate strutture lineari e associative con operazioni e proprietà | completo | heading omonimo, tabella esigenze-strutture e mini-caso |
+| `N-TR01-03-05` | pianificato | verificati alberi/grafi, ricerca, ordinamento, stabilità e compromessi | completo | heading omonimo, pseudocodice, domanda-trappola e quiz 1/2 |
+| `N-TR01-03-06` | pianificato | verificate complessità, scenari, memoria, debug e output concorsuale | completo | heading omonimo, tabella delle crescite, caso e quiz 5 |
+
 ## Audit v4 dello step 07
 
 La classificazione deriva dal controllo delle promesse formative, delle fonti consolidate, del testo dei capitoli e delle evidenze registrate nei delta. Lunghezza, numero di titoli, quiz e casi non sono stati usati come prova autonoma di completezza.
