@@ -73,3 +73,33 @@ canonical: true
 | N-FL03-02-03 | parziale | ordinate operazioni, controlli e comunicazione dell'esito | completo | sezione `N-FL03-02-03` |
 | N-FL03-02-04 | avanzato | collegati documenti, funzione ed esigenza dell'utente | completo | sezione `N-FL03-02-04` |
 | N-FL03-02-05 | parziale | distinti canale telematico, interoperabilità e competenza | completo | sezione `N-FL03-02-05` |
+
+## Capitolo 03 - Servizi alle imprese, regolazione del mercato e tutela
+
+| Nucleo ID | Famiglia/profilo | Materia | Concetto/sotto-concetti | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| N-FL03-03-01 | M-FL03/promozionale | Servizi alle imprese | informazione; assistenza; promozione; digitalizzazione | [[sources/servizi-imprese-regolazione-mercato-camere-commercio]]; [[sources/verifica-ufficiale-m-fl03-03-2026-07-22]] | Cap. 03 § N-FL03-03-01 | famiglie, finalità e limiti | classificazione del bisogno | mappa servizio-utente-output | Q:1 C:1 E:1 | completo | audit step 15 |
+| N-FL03-03-02 | M-FL03/tutti | Semplificazione | cooperazione digitale; SUAP; competenza | [[sources/suap-commercio-polizia-amministrativa-locale]]; [[sources/verifica-ufficiale-m-fl03-03-2026-07-22]] | Cap. 03 § N-FL03-03-02 | canali, flussi e competenze | scelta del procedimento | orientamento di sportello | Q:1 C:1 E:1 | completo | audit step 15 |
+| N-FL03-03-03 | M-FL03/tutela mercato | Regolazione del mercato | trasparenza; mediazione; arbitrato; contratti tipo | [[sources/servizi-imprese-regolazione-mercato-camere-commercio]]; [[sources/verifica-ufficiale-m-fl03-03-2026-07-22]] | Cap. 03 § N-FL03-03-03 | interessi, strumenti e limiti | qualificazione della controversia | risposta orale | Q:2 C:1 E:1 | completo | discipline settoriali e step 15 |
+| N-FL03-03-04 | M-FL03/tutela mercato | Metrologia legale | misure; fede pubblica; vigilanza; scambi | [[sources/verifica-ufficiale-m-fl03-03-2026-07-22]]; [[sources/servizi-imprese-regolazione-mercato-camere-commercio]] | Cap. 03 § N-FL03-03-04 | definizione, funzione e controlli | contestazione sulla misura | spiegazione prudente | Q:1 C:2 E:2 | completo | metrologia e step 15 |
+| N-FL03-03-05 | M-FL03/tutela mercato | Sicurezza prodotti | conformità; segnalazione; competenza; caso multipiano | [[sources/verifica-ufficiale-m-fl03-03-2026-07-22]]; [[sources/bandi-camerali-m-fl03-2026]] | Cap. 03 § N-FL03-03-05 | tutela, segnalazione e limiti | caso con prodotto e attività | classificazione e comunicazione | Q:1 C:2 E:2 | completo | sicurezza prodotti e step 15 |
+
+### Checklist dimensionale - capitolo 03
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso nella prova | Errore tipico | Verifica | Fonti |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| N-FL03-03-01 | ✓ servizi pubblici | ✓ orientamento e sviluppo | ✓ sistema camerale | ✓ informazione, assistenza, promozione | ✓ servizio/consulenza | ✓ accesso imparziale | ✓ iniziativa digitale | ✓ mappa del servizio | ✓ promessa di risultato | ✓ quiz 1 | ✓ frontmatter e riferimenti |
+| N-FL03-03-02 | ✓ cooperazione digitale | ✓ semplificazione | ✓ raccordo Camera-SUAP | ✓ pratica, flusso, canale | ✓ piattaforma/competenza | ✓ corretto instradamento | ✓ apertura attività | ✓ caso di sportello | ✓ ufficio unico | ✓ quiz 2 | ✓ frontmatter e riferimenti |
+| N-FL03-03-03 | ✓ regolazione | ✓ correttezza degli scambi | ✓ funzioni camerali | ✓ ADR, contratti tipo, trasparenza | ✓ promozione/regolazione | ✓ strumento appropriato | ✓ controversia | ✓ risposta orale | ✓ potere indistinto | ✓ quiz 3 e 6 | ✓ frontmatter e riferimenti |
+| N-FL03-03-04 | ✓ metrologia legale | ✓ affidabilità misure | ✓ tutela del mercato | ✓ procedure, controlli, vigilanza | ✓ regola/tecnica | ✓ fiducia nella transazione | ✓ contestazione pesatura | ✓ definizione applicata | ✓ dettaglio tecnico inventato | ✓ quiz 4 | ✓ frontmatter e riferimenti |
+| N-FL03-03-05 | ✓ sicurezza prodotti | ✓ tutela e vigilanza | ✓ disciplina settoriale | ✓ segnalazione, verifica, autorità | ✓ informazione/accertamento | ✓ nessun esito anticipato | ✓ caso multipiano | ✓ classificazione | ✓ sanzione presunta | ✓ quiz 5 e caso | ✓ frontmatter e riferimenti |
+
+### Delta step 10 - capitolo 03
+
+| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
+|---|---|---|---|---|
+| N-FL03-03-01 | avanzato | assegnato Nucleo ID e consolidati natura e limiti | completo | sezione `N-FL03-03-01` |
+| N-FL03-03-02 | avanzato | distinti cooperazione digitale e competenza | completo | sezione `N-FL03-03-02` |
+| N-FL03-03-03 | parziale | ordinati interessi, strumenti e confini | completo | sezione `N-FL03-03-03` |
+| N-FL03-03-04 | parziale | collegati misura, tutela e uso concorsuale | completo | sezione `N-FL03-03-04` |
+| N-FL03-03-05 | parziale | integrata gestione prudente della segnalazione | completo | sezione `N-FL03-03-05` |
