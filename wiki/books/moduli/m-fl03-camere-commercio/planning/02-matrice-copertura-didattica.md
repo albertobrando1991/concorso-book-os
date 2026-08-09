@@ -133,3 +133,33 @@ canonical: true
 | N-FL03-04-03 | avanzato | estese istruttoria, partecipazione, output e cautela sui termini | completo | sezione `N-FL03-04-03` |
 | N-FL03-04-04 | avanzato | resa autonoma la distinzione fra accessi e il bilanciamento | completo | sezione `N-FL03-04-04` |
 | N-FL03-04-05 | parziale | completata la catena documentale digitale e l'applicazione | completo | sezione `N-FL03-04-05` |
+
+## Capitolo 05 - Laboratorio bando camerale
+
+| Nucleo ID | Famiglia/profilo | Materia | Concetto/sotto-concetti | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| N-FL03-05-01 | M-FL03/tutti | Bando Decoder | versione; profilo; declaratoria; prove; comunicazioni | [[sources/bandi-camerali-m-fl03-2026]]; [[sources/bandi-inpa-vol-02-campione-2026]] | Cap. 05 § N-FL03-05-01 | campi, funzione e cautele | scheda del bando | Decoder compilabile | Q:2 C:1 E:2 | completo | bando target, step 15 |
+| N-FL03-05-02 | M-FL03/tutti | Base e delta | nucleo comune; specialismo; applicazione; priorità | [[sources/bandi-camerali-m-fl03-2026]]; [[sources/verifica-ufficiale-m-fl03-05-2026-07-23]] | Cap. 05 § N-FL03-05-02 | criterio, elementi e conseguenze | caso procedimento-servizi anagrafici | tabella provenienza-applicazione | Q:1 C:2 E:2 | completo | copertura bando, step 15 |
+| N-FL03-05-03 | M-FL03/profili | Profili e priorità | amministrativo; anagrafico; promozionale; supporto; A/B/C | [[sources/bandi-camerali-m-fl03-2026]]; [[sources/bandi-inpa-vol-02-campione-2026]] | Cap. 05 § N-FL03-05-03 | evidenze, livelli e adattamento | tre letture del modulo | matrice di priorità motivata | Q:1 C:3 E:2 | completo | campione profili, step 15 |
+| N-FL03-05-04 | M-FL03/tutti | Prove e output | quiz; scritto; orale; caso; situazionale; competenze | [[sources/bandi-camerali-m-fl03-2026]]; [[sources/verifica-ufficiale-m-fl03-05-2026-07-23]] | Cap. 05 § N-FL03-05-04 | differenze, criteri e trasferibilità | risposta modello e casi | output per prova | Q:1 C:3 E:2 | completo | modalità e criteri, step 15 |
+| N-FL03-05-05 | M-FL03/tutti | Simulazione e piano | caso; Decoder; 30/60/90; diario; checklist | [[sources/bandi-camerali-m-fl03-2026]]; [[sources/verifica-ufficiale-m-fl03-05-2026-07-23]] | Cap. 05 § N-FL03-05-05 | metodo, controllo e adattamento | pratica e dati di terzi | piano e diario correttivo | Q:1 C:3 E:3 | completo | bando e servizi, step 15 |
+
+### Checklist dimensionale - capitolo 05
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso nella prova | Errore tipico | Verifica | Fonti |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| N-FL03-05-01 | ✓ Decoder | ✓ estrazione del perimetro | ✓ procedura ufficiale | ✓ ente, profilo, prove, canali | ✓ dato/verifica | ✓ piano fondato | ✓ profilo anagrafico/comunicazione | ✓ scheda compilabile | ✓ copia di altro bando | ✓ quiz 1 e 6 | ✓ frontmatter e riferimenti leggibili |
+| N-FL03-05-02 | ✓ base e delta | ✓ riuso senza duplicazione | ✓ VOL-01 e M-FL03 | ✓ materia, provenienza, applicazione | ✓ generale/specialistico | ✓ priorità coerenti | ✓ procedimento anagrafico | ✓ tabella base-delta | ✓ abbandono del comune | ✓ quiz 2 | ✓ frontmatter e riferimenti leggibili |
+| N-FL03-05-03 | ✓ priorità A/B/C | ✓ allocazione del tempo | ✓ profilo e declaratoria | ✓ evidenza, livello, output | ✓ importanza/priorità | ✓ piano adattivo | ✓ tre profili | ✓ matrice motivata | ✓ preferenza personale | ✓ quiz 3 | ✓ frontmatter e riferimenti leggibili |
+| N-FL03-05-04 | ✓ output di prova | ✓ trasformazione della teoria | ✓ modalità del bando | ✓ quiz, scritto, orale, caso | ✓ fatti/questionI/azioni | ✓ risposta trasferibile | ✓ pubblicità legale | ✓ criteri di autocorrezione | ✓ elenco di norme | ✓ quiz 4 | ✓ frontmatter e riferimenti leggibili |
+| N-FL03-05-05 | ✓ simulazione e diario | ✓ correzione progressiva | ✓ Metodo BANDO | ✓ caso, piano, errore, nuova prova | ✓ errore/materia | ✓ recupero misurabile | ✓ pratica, certificato e dati | ✓ 30/60/90 e checklist | ✓ elenco senza output | ✓ quiz 5 e caso finale | ✓ frontmatter e riferimenti leggibili |
+
+### Delta step 10 - capitolo 05
+
+| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
+|---|---|---|---|---|
+| N-FL03-05-01 | avanzato | assegnato Nucleo ID e consolidato il Decoder | completo | sezione `N-FL03-05-01` |
+| N-FL03-05-02 | avanzato | sviluppati criterio, applicazione e controllo base-delta | completo | sezione `N-FL03-05-02` |
+| N-FL03-05-03 | avanzato | motivate priorità e adattamento per profilo | completo | sezione `N-FL03-05-03` |
+| N-FL03-05-04 | parziale | differenziati output e criteri di correzione | completo | sezione `N-FL03-05-04` |
+| N-FL03-05-05 | avanzato | integrati simulazione, piano, diario e verifica finale | completo | sezione `N-FL03-05-05` |

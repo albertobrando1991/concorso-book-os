@@ -3,7 +3,7 @@
   "specPath": "books/vol-02-enti-locali-polizia-locale/planning/00-scheda-pipeline.md",
   "specHash": "sha256:b9ec2abf7ad63aaa5271f5f2d561817a092ec16c24727d57ebf82ef84b0a5a6b",
   "createdAt": "2026-07-29T22:02:16.845Z",
-  "updatedAt": "2026-08-09T08:31:36.405Z",
+  "updatedAt": "2026-08-09T08:53:19.118Z",
   "steps": [
     {
       "key": "08:moduli/m-fl01-comuni-unioni/chapters/01-tuel-operativo-autonomia-organi-funzioni-comune.md",
@@ -5494,9 +5494,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl03-camere-commercio/chapters/05-laboratorio-bando-camerale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-09T08:31:55.819Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fl03-camere-commercio/chapters/05-laboratorio-bando-camerale.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano verificato manualmente: cinque nuclei coprono decoder, base-delta, profili-priorità, prove-output e simulazione-piano; definiti fonti, confini, strumenti, quiz, casi e audit senza universalizzare il campione."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-09T08:45:40.140Z"
     },
     {
       "key": "09:moduli/m-fl03-camere-commercio/chapters/05-laboratorio-bando-camerale.md",
@@ -5504,9 +5527,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl03-camere-commercio/chapters/05-laboratorio-bando-camerale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-09T08:45:55.129Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-09T08:49:21.996Z"
     },
     {
       "key": "10:moduli/m-fl03-camere-commercio/chapters/05-laboratorio-bando-camerale.md",
@@ -5514,9 +5547,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl03-camere-commercio/chapters/05-laboratorio-bando-camerale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-09T08:49:27.499Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-09T08:51:12.762Z"
     },
     {
       "key": "11:moduli/m-fl03-camere-commercio/chapters/05-laboratorio-bando-camerale.md",
@@ -5524,9 +5567,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl03-camere-commercio/chapters/05-laboratorio-bando-camerale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-09T08:51:33.557Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-09T08:52:09.232Z"
     },
     {
       "key": "12:moduli/m-fl03-camere-commercio/chapters/05-laboratorio-bando-camerale.md",
@@ -5534,9 +5587,25 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl03-camere-commercio/chapters/05-laboratorio-bando-camerale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-09T08:52:23.962Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-02/12-moduli-m-fl03-camere-commercio-chapters-05-laboratorio-bando-camerale-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-09T08:53:19.118Z"
     },
     {
       "key": "13:moduli/m-fl03-camere-commercio",
