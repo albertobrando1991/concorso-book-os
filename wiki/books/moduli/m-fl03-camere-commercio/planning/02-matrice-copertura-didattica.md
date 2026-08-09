@@ -103,3 +103,33 @@ canonical: true
 | N-FL03-03-03 | parziale | ordinati interessi, strumenti e confini | completo | sezione `N-FL03-03-03` |
 | N-FL03-03-04 | parziale | collegati misura, tutela e uso concorsuale | completo | sezione `N-FL03-03-04` |
 | N-FL03-03-05 | parziale | integrata gestione prudente della segnalazione | completo | sezione `N-FL03-03-05` |
+
+## Capitolo 04 - Organizzazione, personale, procedimenti e trasparenza camerale
+
+| Nucleo ID | Famiglia/profilo | Materia | Concetto/sotto-concetti | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| N-FL03-04-01 | M-FL03/amministrativo | Organizzazione camerale | organi; struttura; indirizzo; gestione; competenza | [[sources/ordinamento-camere-commercio-legge-580-1993-dlgs-219-2016]]; [[sources/verifica-ufficiale-m-fl03-04-2026-07-22]] | Cap. 04 § N-FL03-04-01 | livelli, funzioni e conseguenze | domanda di contributo e organigramma | schema organo-ufficio-output | Q:1 C:2 E:2 | completo | ordinamento e atti ente, step 15 |
+| N-FL03-04-02 | M-FL03/tutti | Pubblico impiego | comparto; profili; mansioni; doveri; conflitto | [[sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego]]; [[sources/ccnl-funzioni-locali-2022-2024-aran]]; [[sources/bandi-camerali-m-fl03-2026]] | Cap. 04 § N-FL03-04-02 | quadro, attività, doveri e limiti | richiesta informale e avviso | lettura operativa del profilo | Q:1 C:2 E:2 | completo | CCNL, codice e bando, step 15 |
+| N-FL03-04-03 | M-FL03/amministrativo | Procedimento | competenza; responsabile; istruttoria; partecipazione; esito | [[sources/legge-7-agosto-1990-n-241-procedimento-amministrativo-e-accesso-ai-documenti-amministrativi-testo-vigente-normattiva]]; [[sources/verifica-ufficiale-m-fl03-04-2026-07-22]] | Cap. 04 § N-FL03-04-03 | fasi, soggetti, effetti e cautela sui termini | allegato mancante e pratica camerale | sequenza procedimentale | Q:1 C:2 E:2 | completo | disciplina generale e speciale, step 15 |
+| N-FL03-04-04 | M-FL03/amministrativo | Accesso e trasparenza | documentale; civico semplice; generalizzato; dati; limiti | [[sources/legge-7-agosto-1990-n-241-procedimento-amministrativo-e-accesso-ai-documenti-amministrativi-testo-vigente-normattiva]]; [[sources/d-lgs-14-marzo-2013-n-33-trasparenza]] | Cap. 04 § N-FL03-04-04 | strumenti, distinzioni e bilanciamento | graduatoria e fascicolo di terzi | istruttoria dell'accesso | Q:2 C:3 E:2 | completo | accesso, privacy e obblighi, step 15 |
+| N-FL03-04-05 | M-FL03/tutti | Amministrazione digitale | documento; protocollo; fascicolo; firma; canali; conservazione | [[sources/d-lgs-7-marzo-2005-n-82-amministrazione-digitale]]; [[sources/verifica-ufficiale-m-fl03-04-2026-07-22]] | Cap. 04 § N-FL03-04-05 | ciclo documentale, strumenti e limiti | invio a canale errato e caso finale | catena digitale tracciabile | Q:1 C:3 E:2 | completo | CAD e regole tecniche, step 15 |
+
+### Checklist dimensionale - capitolo 04
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso nella prova | Errore tipico | Verifica | Fonti |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| N-FL03-04-01 | ✓ organizzazione camerale | ✓ distribuzione delle funzioni | ✓ L. 580/1993 e atti ente | ✓ organi, segretario, uffici | ✓ indirizzo/gestione | ✓ corretta attribuzione | ✓ contributo e organigramma | ✓ quattro domande operative | ✓ ente al posto della competenza | ✓ quiz 1 | ✓ frontmatter e riferimenti leggibili |
+| N-FL03-04-02 | ✓ personale pubblico | ✓ servizio camerale | ✓ pubblico impiego e comparto | ✓ profilo, attività, doveri | ✓ supporto/gestione/decisione | ✓ comportamento imparziale | ✓ conoscente e avviso | ✓ lettura dei verbi del bando | ✓ valori senza azioni | ✓ quiz 2 | ✓ frontmatter e riferimenti leggibili |
+| N-FL03-04-03 | ✓ procedimento camerale | ✓ definizione della richiesta | ✓ L. 241/1990 e fonte speciale | ✓ competenza, responsabile, fasi | ✓ istruttoria/decisione | ✓ output fondato e tracciato | ✓ allegato mancante | ✓ catena in otto passaggi | ✓ termini o esito inventati | ✓ quiz 3 | ✓ frontmatter e riferimenti leggibili |
+| N-FL03-04-04 | ✓ tre strumenti di accesso | ✓ conoscibilità governata | ✓ L. 241/1990 e D.Lgs. 33/2013 | ✓ oggetto, interesse, terzi, limiti | ✓ documentale/civico/pubblicità | ✓ accesso, diniego o cautele motivati | ✓ graduatoria e fascicolo | ✓ schema per scritto e orale | ✓ tutto aperto/tutto negato | ✓ quiz 4-5 | ✓ frontmatter e riferimenti leggibili |
+| N-FL03-04-05 | ✓ ciclo documentale digitale | ✓ tracciabilità | ✓ CAD e disciplina applicabile | ✓ ricezione, protocollo, fascicolo, conservazione | ✓ canale/competenza e protocollo/fascicolo | ✓ reperibilità e output corretto | ✓ canale errato e caso finale | ✓ catena digitale | ✓ piattaforma come procedimento | ✓ quiz 6 e caso | ✓ frontmatter e riferimenti leggibili |
+
+### Delta step 10 - capitolo 04
+
+| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
+|---|---|---|---|---|
+| N-FL03-04-01 | avanzato | assegnato Nucleo ID e sviluppate competenze e conseguenze | completo | sezione `N-FL03-04-01` |
+| N-FL03-04-02 | avanzato | collegati comparto, profilo, doveri e casi | completo | sezione `N-FL03-04-02` |
+| N-FL03-04-03 | avanzato | estese istruttoria, partecipazione, output e cautela sui termini | completo | sezione `N-FL03-04-03` |
+| N-FL03-04-04 | avanzato | resa autonoma la distinzione fra accessi e il bilanciamento | completo | sezione `N-FL03-04-04` |
+| N-FL03-04-05 | parziale | completata la catena documentale digitale e l'applicazione | completo | sezione `N-FL03-04-05` |
