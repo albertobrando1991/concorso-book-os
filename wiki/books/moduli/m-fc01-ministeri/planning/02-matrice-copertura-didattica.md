@@ -9,7 +9,7 @@ entities: [Ministeri, Presidenza del Consiglio dei ministri, Avvocatura dello St
 source_refs: [m-fc01-dossier-redazionale-ministeri-pcm-avvocatura, metodo-bando-progetto-editoriale]
 book_refs: [m-fc01-ministeri, il-metodo-bando]
 confidence: 0.86
-updated_at: 2026-08-04
+updated_at: 2026-08-10
 created_at: 2026-08-04
 review_required: true
 canonical: false
@@ -283,3 +283,39 @@ Audit iniziale del testo reale dei quindici file numerati del modulo. Gli stati 
 | N-FC01-13-05 | mancante | Sviluppati diagnosi, CORE, MOD e checkpoint del giorno 30 | completo | nucleo 05; caso Sara |
 | N-FC01-13-06 | mancante | Integrati richiamo, output, diario, checkpoint e tagli | completo | nucleo 06; caso Davide; Quiz 3 e 5 |
 | N-FC01-13-07 | mancante | Sviluppati simulazione, avvisi, correzione e compressione | completo | nucleo 07; casi Elena e Giulia; Quiz 4, 6-7 |
+
+## Copertura atomica formato 2 — capitolo 14
+
+| Nucleo ID | Famiglia/profilo | Materia | Concetto/sotto-concetti | Frequenza/peso | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa | Destinazione rinvio |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| N-FC01-14-01 | M-FC01/tutti | Configurazione | Fonte ufficiale, obiettivo, formato, durata, materie, strumenti e condizioni | alta | [[sources/inpa-formez-ripam-concorsi-funzioni-centrali]]; [[sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994]] | cap. 14, nucleo 01 | Distingue dati della procedura, scelte di allenamento e informazioni da verificare | Scheda di configurazione adattata al bando | piano di simulazione; quiz; orale | Q:1 C:0 E:1 — Quiz 1; mini-esercizio | completo | Verificare bando, avvisi e diario della prova | - |
+| N-FC01-14-02 | M-FC01/tutti | Prova mista | Quiz, risposta breve, caso, situazionale e orale in rapporto a profilo e bando | alta | [[sources/m-fc01-dossier-redazionale-ministeri-pcm-avvocatura]]; [[sources/prove-situazionali-concorsi-ripam-maeci-sna]]; [[sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994]] | cap. 14, nucleo 02 | Funzione, composizione e limiti della prova mista spiegati | Matrice materia-output e pacchetto modulare | quiz; scritto; caso; situazionale; orale | Q:1 C:0 E:1 — Quiz 2; mini-esercizio | completo | La forma ufficiale dipende dagli atti della procedura | - |
+| N-FC01-14-03 | M-FC01/tutti | Svolgimento | Ambiente, consegna, timer, giri, dubbi, controllo e registrazione dei tempi | alta | [[sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994]] | cap. 14, nucleo 03 | Protocollo di sessione e gestione del tempo sviluppati | Sessione controllata senza consultazione degli appunti | simulazione; quiz; risposta breve | Q:1 C:0 E:1 — Quiz 3; mini-esercizio | completo | Adattare strumenti e tempi alle regole ufficiali | - |
+| N-FC01-14-04 | M-FC01/tutti | Correzione | Risultato, contenuto, tempo, strategia, motivazione ed esposizione | alta | [[sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994]]; [[books/il-metodo-bando/struttura-madre]] | cap. 14, nucleo 04 | Separa punteggio di allenamento, qualità concettuale, processo e strategia | Griglia di correzione multilivello | correzione; diario; orale | Q:1 C:0 E:1 — Quiz 6; mini-esercizio | completo | Non trasformare soglie di allenamento in soglie ufficiali | - |
+| N-FC01-14-05 | M-FC01/tutti | Diagnosi errori | Lacuna, confusione, lettura, richiamo, applicazione, tempo, strategia ed esposizione | alta | [[books/il-metodo-bando/struttura-madre]]; [[sources/prove-situazionali-concorsi-ripam-maeci-sna]] | cap. 14, nucleo 05 | Otto cause definite, distinte e collegate a recuperi diversi | Errore situazionale sul rapporto con il cittadino | diario; quiz; caso; orale | Q:1 C:1 E:1 — Quiz 4; esempio; mini-esercizio | completo | Classificazione metodologica, non normativa | - |
+| N-FC01-14-06 | M-FC01/tutti | Diario errori | Data, nucleo, prova, errore, causa, correzione, output, scadenza e secondo tentativo | alta | [[books/il-metodo-bando/struttura-madre]]; [[sources/m-fc01-dossier-redazionale-ministeri-pcm-avvocatura]] | cap. 14, nucleo 06 | Funzione, campi, pattern, urgenza e chiusura della riga sviluppati | Riga PIAO e scheda compilabile M-FC01 | diario; piano; secondo tentativo | Q:1 C:0 E:1 — Quiz 7; scheda; errore tipico | completo | Adattare categorie e contesto al profilo | - |
+| N-FC01-14-07 | M-FC01/tutti | Recupero | Pattern, priorità, drill, piano di sette giorni, mini-simulazione e trasferimento | alta | [[books/il-metodo-bando/struttura-madre]]; [[sources/m-fc01-dossier-redazionale-ministeri-pcm-avvocatura]] | cap. 14, nucleo 07 | Passaggio dal diario al recupero e criteri per scegliere la nuova prova sviluppati | Piano di recupero e drill per otto cause | piano; mini-simulazione; orale | Q:2 C:1 E:1 — Quiz 8; caso ragionato; traccia orale | completo | Durata e priorità sono adattabili, non regole universali | - |
+
+## Checklist dimensionale — capitolo 14
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso nella prova | Errore tipico | Verifica | Fonti |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| N-FC01-14-01 | ✓ simulazione come prestazione controllabile | ✓ trasformare il bando in prova | ✓ procedura M-FC01 concreta | ✓ fonte-obiettivo-formato-tempo-materie-strumenti | ✓ dato ufficiale/scelta/VERIF | ✓ configurazione verificabile | ✓ obiettivi su PIAO, contabilità e situazionali | ✓ scheda di configurazione | ✓ inventare soglie o durata | ✓ Quiz 1 e mini-esercizio | ✓ frontmatter; d.P.R. 487/1994 e atti leggibili |
+| N-FC01-14-02 | ✓ prova mista modulare | ✓ verificare riconoscimento, spiegazione e applicazione | ✓ profilo e forme previste dal bando | ✓ quiz-breve-caso-situazionale-orale | ✓ prova ufficiale/esercizio di supporto | ✓ pacchetto proporzionato ai pesi | ✓ matrice materia-output | ✓ cinque formati di prestazione | ✓ allenare solo il formato preferito | ✓ Quiz 2 e mini-esercizio | ✓ frontmatter e fonti professionali leggibili |
+| N-FC01-14-03 | ✓ sessione in condizioni controllate | ✓ misurare prestazione e tempi reali | ✓ ambiente coerente con la prova | ✓ consegna-timer-giri-dubbi-controllo | ✓ difficoltà/dubbio; svolgimento/correzione | ✓ dati di processo attendibili | ✓ protocollo in tre giri | ✓ simulazione a tempo | ✓ consultare appunti o bloccarsi | ✓ Quiz 3 e mini-esercizio | ✓ frontmatter; regole ufficiali richiamate |
+| N-FC01-14-04 | ✓ correzione multilivello | ✓ individuare che cosa recuperare | ✓ esito di allenamento, non graduatoria | ✓ risultato-contenuto-tempo-strategia-esposizione | ✓ punteggio/processo; errore/causa | ✓ decisione di recupero motivata | ✓ griglia per formato | ✓ autovalutazione di quiz, caso e orale | ✓ fermarsi al punteggio | ✓ Quiz 6 e mini-esercizio | ✓ frontmatter; limiti delle soglie dichiarati |
+| N-FC01-14-05 | ✓ causa osservabile dell'errore | ✓ scegliere il recupero adatto | ✓ diario M-FC01 e output diversi | ✓ otto categorie diagnostiche | ✓ lacuna/richiamo; lettura/applicazione | ✓ interventi diversi per cause diverse | ✓ caso del cittadino e pratica non competente | ✓ classificazione a caldo e a freddo | ✓ chiamare tutto distrazione | ✓ Quiz 4; esempio; mini-esercizio | ✓ frontmatter e riferimenti metodologici leggibili |
+| N-FC01-14-06 | ✓ diario come strumento di governo | ✓ trasformare errore in secondo tentativo | ✓ nuclei e contesti M-FC01 | ✓ nove campi più urgenza e pattern | ✓ errore singolo/pattern; archivio/verifica | ✓ riga chiusa o riaperta su evidenza | ✓ riga PIAO completa | ✓ nuovo output e scadenza | ✓ scrivere solo “ripassare” | ✓ Quiz 7 e scheda compilabile | ✓ frontmatter e riferimenti leggibili |
+| N-FC01-14-07 | ✓ recupero come modifica della prestazione | ✓ convertire pattern in priorità | ✓ ciclo successivo alla simulazione | ✓ conteggi-priorità-drill-piano-seconda prova | ✓ mini-simulazione/prova completa; materia/causa | ✓ trasferimento e capitale riusabile | ✓ piano di sette giorni | ✓ drill, orale e nuova simulazione | ✓ scegliere troppe priorità o rifare identico | ✓ Quiz 8; caso; traccia orale | ✓ frontmatter; durata dichiarata adattabile |
+
+## Delta di copertura — capitolo 14
+
+| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
+|---|---|---|---|---|
+| N-FC01-14-01 | mancante | Canonizzati configurazione, fonti, obiettivo e distinzione dato/scelta/VERIF | completo | nucleo 01; Quiz 1; mini-esercizio |
+| N-FC01-14-02 | mancante | Sviluppata la prova mista modulare per profilo e forma di prova | completo | nucleo 02; Quiz 2; matrice materia-output |
+| N-FC01-14-03 | mancante | Definiti protocollo di sessione, giri, dubbi e controllo dei tempi | completo | nucleo 03; Quiz 3; mini-esercizio |
+| N-FC01-14-04 | mancante | Distinti risultato, contenuto, processo, strategia ed esposizione | completo | nucleo 04; Quiz 6; griglia di correzione |
+| N-FC01-14-05 | mancante | Classificate otto cause con segnali, recuperi e seconda diagnosi | completo | nucleo 05; Quiz 4; esempio situazionale |
+| N-FC01-14-06 | mancante | Costruiti diario, campi, pattern, urgenza e secondo tentativo | completo | nucleo 06; Quiz 7; scheda compilabile |
+| N-FC01-14-07 | mancante | Collegati pattern, priorità, drill, piano e nuova simulazione | completo | nucleo 07; Quiz 8; caso; traccia orale |
