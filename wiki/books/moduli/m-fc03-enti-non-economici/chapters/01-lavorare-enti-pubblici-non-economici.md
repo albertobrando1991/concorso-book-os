@@ -30,12 +30,12 @@ module_family: funzioni-centrali
 companion_to: il-metodo-bando
 dati_operativi: []
 nuclei_ids:
-  - N-M-FC03-01-01
-  - N-M-FC03-01-02
-  - N-M-FC03-01-03
-  - N-M-FC03-01-04
-  - N-M-FC03-01-05
-  - N-M-FC03-01-06
+  - N-FC03-01-01
+  - N-FC03-01-02
+  - N-FC03-01-03
+  - N-FC03-01-04
+  - N-FC03-01-05
+  - N-FC03-01-06
 last_compiled_from: [
   "artifacts/pipeline/VOL-03/09/moduli-m-fc03-enti-non-economici-chapters-01-lavorare-enti-pubblici-non-economici-md/prompt.md",
   "wiki/reviews/pipeline/VOL-03/08-moduli-m-fc03-enti-non-economici-chapters-01-lavorare-enti-pubblici-non-economici-md.md",
@@ -100,7 +100,7 @@ Il risultato atteso non e' una conoscenza enciclopedica di tutti gli enti pubbli
 
 La famiglia non sostituisce il bando. Serve a leggerlo con piu' precisione.
 
-## N-M-FC03-01-01 · Perimetro M-FC03 e confini
+## N-FC03-01-01 · Perimetro M-FC03 e confini
 
 ### Teoria essenziale
 
@@ -136,7 +136,7 @@ La scelta del perimetro produce subito effetti sul calendario. Se il bando e' M-
 
 M-FC03 copre concorsi negli enti pubblici non economici delle Funzioni Centrali, con INPS e INAIL come enti guida. Gli altri enti sono orientamento, non autorizzazione a studiare tutto senza bando. Il perimetro si decide con ente, profilo, materie e prova. Le norme strutturali spiegano perche' l'EPNE non e' un'amministrazione generica. I dati mobili del singolo bando vanno sempre verificati sulla fonte ufficiale.
 
-## N-M-FC03-01-02 · Core, delta EPNE e profilo concreto
+## N-FC03-01-02 · Core, delta EPNE e profilo concreto
 
 ### Teoria essenziale
 
@@ -188,7 +188,7 @@ Compila questa griglia in dieci minuti.
 
 La correzione e' semplice: se nella colonna "Delta EPNE" ripeti la stessa parola della colonna core, non hai ancora specializzato la materia.
 
-## N-M-FC03-01-03 · Enti guida ed enti di orientamento
+## N-FC03-01-03 · Enti guida ed enti di orientamento
 
 ### Teoria essenziale
 
@@ -228,7 +228,7 @@ La prudenza e' particolarmente importante per CONI e CRI, ma vale per tutti gli 
 
 L'errore piu' frequente e' trattare tutti gli enti allo stesso modo: o come amministrazioni generiche, o come mondi da studiare integralmente. La correzione e' distinguere guida, orientamento e confine. INPS e INAIL danno il cuore del percorso; gli altri enti si leggono con criteri; i profili fuori perimetro si rinviano senza sensi di colpa.
 
-## N-M-FC03-01-04 · Riconoscere un bando M-FC03
+## N-FC03-01-04 · Riconoscere un bando M-FC03
 
 ### Teoria essenziale
 
@@ -268,7 +268,7 @@ La fonte va trattata con disciplina. Un riassunto redazionale puo' aiutarti a sc
 
 Prendi un bando reale o simulato e compila cinque righe obbligate: ente che assume o assegna; soggetto che gestisce la procedura, se diverso; profilo o codice; prova dominante; materia specialistica che giustifica M-FC03. Se non riesci a compilare una riga, non iniziare ancora lo studio intensivo: ti manca un pezzo del perimetro.
 
-## N-M-FC03-01-05 · Decoder iniziale, rischi e checklist
+## N-FC03-01-05 · Decoder iniziale, rischi e checklist
 
 ### Teoria essenziale
 
@@ -339,7 +339,7 @@ Nel profilo ispettivo, la stessa scheda cambia peso: lavoro, previdenza, assicur
 
 Il diario non serve a colpevolizzare lo studio. Serve a impedire che un errore di partenza diventi settimane di lavoro dispersivo.
 
-## N-M-FC03-01-06 · Dalla classificazione alla decisione operativa
+## N-FC03-01-06 · Dalla classificazione alla decisione operativa
 
 ### Caso guidato
 
