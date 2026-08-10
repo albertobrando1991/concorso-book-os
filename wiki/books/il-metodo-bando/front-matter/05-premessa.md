@@ -39,6 +39,6 @@ Ogni capitolo alterna spiegazione, mappe, esempi, domande, errori tipici e mini-
 
 > [!IMPORTANT]
 > Materiali digitali e aggiornamenti
-> Nell'area digitale di Capitale Personale possono essere disponibili strumenti compilabili, aggiornamenti, materiali integrativi e supporti di allenamento. Il libro resta autonomo: il digitale serve ad accelerare, duplicare e aggiornare il lavoro.
+> Nell’area digitale di Capitale Personale possono essere disponibili strumenti compilabili, aggiornamenti, materiali integrativi e supporti di allenamento. Il libro resta autonomo: il digitale serve ad accelerare, duplicare e aggiornare il lavoro.
 
-Prima di ogni prova, confronta sempre quanto studiato con il bando ufficiale, gli avvisi dell'amministrazione e le fonti istituzionali aggiornate.
+Prima di ogni prova, confronta sempre quanto studiato con il bando ufficiale, gli avvisi dell’amministrazione e le fonti istituzionali aggiornate.

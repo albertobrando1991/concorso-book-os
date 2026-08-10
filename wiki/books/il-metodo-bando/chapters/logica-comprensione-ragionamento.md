@@ -26,9 +26,9 @@ last_compiled_from: ["wiki/sources/ripam-quesiti-attitudinali-logica-ragionament
 
 Logica, comprensione del testo e ragionamento sono le materie che più spesso fanno perdere punti a candidati preparati. Non perché siano impossibili, ma perché arrivano in prova con una forma diversa dalle materie giuridiche o amministrative: poche righe, tempo stretto, opzioni simili, distrattori costruiti sulla fretta.
 
-In diritto amministrativo puoi recuperare con la memoria e con il ragionamento generale. In una domanda logica, invece, un "non", un "solo se", un "alcuni" o una percentuale letta male bastano a spostare la risposta corretta. Il candidato non viene valutato solo su ciò che sa, ma su come ragiona quando il tempo scorre.
+In diritto amministrativo puoi recuperare con la memoria e con il ragionamento generale. In una domanda logica, invece, un “non”, un “solo se”, un “alcuni” o una percentuale letta male bastano a spostare la risposta corretta. Il candidato non viene valutato solo su ciò che sa, ma su come ragiona quando il tempo scorre.
 
-Questo capitolo è una palestra, non un trattato di logica. Ti insegna a riconoscere il tipo di quesito, scegliere lo strumento giusto, eliminare le opzioni sbagliate e registrare l'errore in modo utile. L'obiettivo è leggere bene, ragionare con ordine e non regalare punti.
+Questo capitolo è una palestra, non un trattato di logica. Ti insegna a riconoscere il tipo di quesito, scegliere lo strumento giusto, eliminare le opzioni sbagliate e registrare l’errore in modo utile. L’obiettivo è leggere bene, ragionare con ordine e non regalare punti.
 
 Le banche e le prove RIPAM confermano che questa area è composta da più famiglie: comprensione verbale, ragionamento verbale, ragionamento critico verbale, ragionamento numerico, ragionamento numerico-deduttivo e ragionamento critico numerico. A queste si aggiungono le formulazioni presenti nei bandi: logica deduttiva, quesiti attitudinali, ragionamento logico-matematico, comprensione del testo, capacità logico-critica. Cambiano le etichette, ma il lavoro del candidato resta lo stesso: capire la domanda prima di cercare la risposta.
 
@@ -38,6 +38,8 @@ Le banche e le prove RIPAM confermano che questa area è composta da più famigl
 
 ![Figura 12.1 - Logica, comprensione e ragionamento: mappa dei blocchi ad alto rendimento per brani, deduzioni, vincoli, serie, numerico e argomenti.](../assets/chapter-12/01-mappa-logica-comprensione-ragionamento.png)
 
+*Figura 12.1 - Logica, comprensione e ragionamento: mappa dei blocchi ad alto rendimento per brani, deduzioni, vincoli, serie, numerico e argomenti.*
+
 ## Obiettivi del capitolo
 
 Al termine del capitolo dovrai essere in grado di:
@@ -45,7 +47,7 @@ Al termine del capitolo dovrai essere in grado di:
 - capire dal bando se la prova contiene logica, comprensione, ragionamento critico, ragionamento numerico o test attitudinali;
 - riconoscere i principali formati di quesito;
 - tradurre connettivi, quantificatori e condizioni in regole operative;
-- risolvere deduzioni, sillogismi, ordinamenti e vincoli senza affidarti all'intuizione;
+- risolvere deduzioni, sillogismi, ordinamenti e vincoli senza affidarti all’intuizione;
 - affrontare brani di comprensione distinguendo ciò che è scritto, deducibile o non deducibile;
 - risolvere percentuali, proporzioni, tabelle e problemi numerici con controllo del risultato;
 - distinguere premessa, conclusione, assunzione, rafforzamento e indebolimento;
@@ -65,7 +67,7 @@ Al termine del capitolo dovrai essere in grado di:
 
 > [!TIP]
 > **BANDO in pratica**
-> Se il bando parla genericamente di "capacità logico-deduttiva", non limitarti ai sillogismi. Prepara anche comprensione di brani, condizioni, quantificatori, ordinamenti, problemi numerici e ragionamento critico. Nei concorsi, le etichette sono spesso più strette del contenuto reale.
+> Se il bando parla genericamente di “capacità logico-deduttiva”, non limitarti ai sillogismi. Prepara anche comprensione di brani, condizioni, quantificatori, ordinamenti, problemi numerici e ragionamento critico. Nei concorsi, le etichette sono spesso più strette del contenuto reale.
 
 ## Come viene chiesta in prova
 
@@ -73,9 +75,9 @@ La prima competenza è riconoscere il tipo di domanda. Senza questa classificazi
 
 | Tipo di quesito | Segnale | Strumento |
 |---|---|---|
-| Comprensione del testo | brano, titolo, affermazione coerente, "si deduce che" | evidenza testuale |
-| Deduzione verbale | premesse, "se", "tutti", "alcuni", "necessariamente" | regole e casi |
-| Sillogismo | categorie, insiemi, "nessuno", "ogni", "qualche" | Venn mentale o schema insiemi |
+| Comprensione del testo | brano, titolo, affermazione coerente, “si deduce che” | evidenza testuale |
+| Deduzione verbale | premesse, “se”, “tutti”, “alcuni”, “necessariamente” | regole e casi |
+| Sillogismo | categorie, insiemi, “nessuno”, “ogni”, “qualche” | Venn mentale o schema insiemi |
 | Ordinamento | prima/dopo, più/meno, destra/sinistra, turni | linea o tabella |
 | Vincoli multipli | persone, uffici, giorni, ruoli, condizioni | griglia |
 | Serie | numeri, lettere, alternanze, progressioni | ricerca della regola |
@@ -84,6 +86,8 @@ La prima competenza è riconoscere il tipo di domanda. Senza questa classificazi
 | Ragionamento critico | argomento, conclusione, rafforza, indebolisce | premessa-conclusione-assunzione |
 
 ![Figura 12.2 - Classifica prima di risolvere: scegliere lo strumento giusto per brano, premesse, vincoli, calcolo e serie.](../assets/chapter-12/02-classifica-prima-di-risolvere.png)
+
+*Figura 12.2 - Classifica prima di risolvere: scegliere lo strumento giusto per brano, premesse, vincoli, calcolo e serie.*
 
 La domanda non va letta una volta sola. Va letta in due passaggi: prima per capire cosa chiede, poi per risolvere. Molti errori nascono da una lettura unica, veloce e ansiosa.
 
@@ -97,11 +101,11 @@ Davanti a un quesito logico, usa sempre questa sequenza:
 4. **Quale strumento serve?** Testo, schema, tabella, calcolo, esclusione?
 5. **La risposta è coerente con tutti i dati?**
 
-Questa sequenza sembra lenta, ma diventa veloce con l'allenamento. Il candidato impreparato passa subito alle opzioni; il candidato strategico prima costruisce il criterio.
+Questa sequenza sembra lenta, ma diventa veloce con l’allenamento. Il candidato impreparato passa subito alle opzioni; il candidato strategico prima costruisce il criterio.
 
 > [!WARNING]
 > **Errore tipico**
-> Leggere le opzioni prima di aver capito la domanda. Le opzioni sono progettate per attirare: una usa parole del testo, una è ragionevole ma non dimostrata, una contiene un errore minimo, una è corretta. Se non hai un criterio, scegli quella che "suona meglio".
+> Leggere le opzioni prima di aver capito la domanda. Le opzioni sono progettate per attirare: una usa parole del testo, una è ragionevole ma non dimostrata, una contiene un errore minimo, una è corretta. Se non hai un criterio, scegli quella che “suona meglio”.
 
 ## Logica essenziale: le parole che decidono il risultato
 
@@ -116,7 +120,7 @@ La logica concorsuale parte da parole piccole. Non servono formule complesse: se
 | A o B | almeno uno dei due | interpretare sempre come esclusivo |
 | O A o B | uno solo dei due | ammettere entrambi |
 | Se A allora B | A è condizione sufficiente per B | invertire: se B allora A |
-| Solo se B, A | B è condizione necessaria per A | leggere "solo se" come "se" |
+| Solo se B, A | B è condizione necessaria per A | leggere “solo se” come “se” |
 | A se e solo se B | A e B stanno insieme | dimenticare una delle due direzioni |
 
 Esempio:
@@ -133,11 +137,11 @@ Una condizione **sufficiente** basta a produrre un effetto. Una condizione **nec
 
 | Frase | Lettura corretta |
 |---|---|
-| Se superi la prova scritta, sei ammesso all'orale. | Superare lo scritto è sufficiente per l'orale. |
-| Sei ammesso all'orale solo se superi la prova scritta. | Superare lo scritto è necessario per l'orale. |
+| Se superi la prova scritta, sei ammesso all’orale. | Superare lo scritto è sufficiente per l’orale. |
+| Sei ammesso all’orale solo se superi la prova scritta. | Superare lo scritto è necessario per l’orale. |
 | Sei assunto se e solo se sei in graduatoria utile. | Le due condizioni coincidono. |
 
-Nel linguaggio dei quiz, "solo se" è una sirena. Quando lo vedi, fermati. Non dice che quella condizione basta; dice che senza quella condizione non si va avanti.
+Nel linguaggio dei quiz, “solo se” è una sirena. Quando lo vedi, fermati. Non dice che quella condizione basta; dice che senza quella condizione non si va avanti.
 
 ### Quantificatori
 
@@ -154,11 +158,13 @@ Esempio:
 
 > Tutti gli uffici che ricevono domande online inviano una ricevuta.
 
-La negazione corretta non è: "nessun ufficio invia ricevuta". La negazione corretta è: "almeno un ufficio che riceve domande online non invia ricevuta".
+La negazione corretta non è: “nessun ufficio invia ricevuta”. La negazione corretta è: “almeno un ufficio che riceve domande online non invia ricevuta”.
 
-Questa distinzione è decisiva nei quiz. "Non tutti" non significa "nessuno". Significa che almeno un caso fa eccezione.
+Questa distinzione è decisiva nei quiz. “Non tutti” non significa “nessuno”. Significa che almeno un caso fa eccezione.
 
-![Figura 12.3 - Le parole logiche decisive: connettivi, condizioni, quantificatori e negazioni da tradurre prima di scegliere l'opzione.](../assets/chapter-12/03-parole-logiche-decisive.png)
+![Figura 12.3 - Le parole logiche decisive: connettivi, condizioni, quantificatori e negazioni da tradurre prima di scegliere l’opzione.](../assets/chapter-12/03-parole-logiche-decisive.png)
+
+*Figura 12.3 - Le parole logiche decisive: connettivi, condizioni, quantificatori e negazioni da tradurre prima di scegliere l’opzione.*
 
 ## Sillogismi e insiemi: non fidarti del buon senso
 
@@ -185,7 +191,7 @@ Questa non segue. Le premesse parlano solo di alcuni laureati ammessi, non di tu
 
 > [!NOTE]
 > **Da sapere in cinque righe**
-> Nei sillogismi non devi stabilire se una frase è vera nella vita reale. Devi stabilire se è obbligata dalle premesse. Se serve anche solo una informazione in più, la conclusione non è necessaria. Le parole "tutti", "alcuni" e "nessuno" vanno trattate come numeri logici, non come impressioni.
+> Nei sillogismi non devi stabilire se una frase è vera nella vita reale. Devi stabilire se è obbligata dalle premesse. Se serve anche solo una informazione in più, la conclusione non è necessaria. Le parole “tutti”, “alcuni” e “nessuno” vanno trattate come numeri logici, non come impressioni.
 
 ## Deduzioni, ordinamenti e vincoli
 
@@ -219,9 +225,11 @@ Se B-C sta in 2-3, restano 1 e 4. Anna non può essere prima, quindi Anna è qua
 
 Resta B-C in 1-2. Anna e Davide occupano 3-4 e Davide è dopo Anna. Ordine: Bruno, Carla, Anna, Davide.
 
-La chiave non era indovinare. Era trattare "subito prima" come blocco e testare i casi.
+La chiave non era indovinare. Era trattare “subito prima” come blocco e testare i casi.
 
 ![Figura 12.4 - Vincoli, serie e pattern: trasformare informazioni sparse in blocchi, griglie, linee e regole controllabili.](../assets/chapter-12/04-vincoli-serie-pattern.png)
+
+*Figura 12.4 - Vincoli, serie e pattern: trasformare informazioni sparse in blocchi, griglie, linee e regole controllabili.*
 
 ## Serie e pattern: cerca la regola più semplice
 
@@ -251,7 +259,7 @@ Esempi:
 
 ## Comprensione del testo: non devi tradurre, devi provare
 
-La comprensione del testo concorsuale non premia il lettore più colto. Premia chi sa trovare nel brano l'evidenza della risposta. Le fonti INVALSI e OECD/PISA aiutano a leggere questa competenza in modo ordinato: localizzare informazioni, comprendere il significato, fare inferenze supportate, valutare la coerenza.
+La comprensione del testo concorsuale non premia il lettore più colto. Premia chi sa trovare nel brano l’evidenza della risposta. Le fonti INVALSI e OECD/PISA aiutano a leggere questa competenza in modo ordinato: localizzare informazioni, comprendere il significato, fare inferenze supportate, valutare la coerenza.
 
 Le domande più frequenti chiedono:
 
@@ -275,13 +283,15 @@ Le domande più frequenti chiedono:
 
 ![Figura 12.5 - Testo e argomento: distinguere dato esplicito, inferenza, premessa, conclusione e assunzione nascosta.](../assets/chapter-12/05-testo-argomento-evidenza.png)
 
+*Figura 12.5 - Testo e argomento: distinguere dato esplicito, inferenza, premessa, conclusione e assunzione nascosta.*
+
 ### Mini-brano guidato
 
-Il Comune ha attivato un servizio online per la prenotazione degli appuntamenti con l'ufficio anagrafe. La prenotazione non è obbligatoria per le urgenze documentate, ma consente di ridurre i tempi di attesa negli altri casi. L'amministrazione precisa che l'accesso allo sportello resta possibile anche senza strumenti digitali, attraverso un numero telefonico dedicato.
+Il Comune ha attivato un servizio online per la prenotazione degli appuntamenti con l’ufficio anagrafe. La prenotazione non è obbligatoria per le urgenze documentate, ma consente di ridurre i tempi di attesa negli altri casi. L’amministrazione precisa che l’accesso allo sportello resta possibile anche senza strumenti digitali, attraverso un numero telefonico dedicato.
 
 Domanda: quale affermazione è coerente con il testo?
 
-A. Tutti i cittadini devono prenotare online prima di recarsi all'anagrafe.
+A. Tutti i cittadini devono prenotare online prima di recarsi all’anagrafe.
 B. Le urgenze documentate possono essere gestite anche senza prenotazione.
 C. Lo sportello fisico è stato sostituito dal servizio online.
 D. Il numero telefonico è riservato alle sole urgenze.
@@ -292,11 +302,11 @@ Perché: il testo dice che la prenotazione non è obbligatoria per le urgenze do
 
 > [!TIP]
 > **BANDO in pratica**
-> Nei brani amministrativi le opzioni trappola spesso esagerano: "tutti", "sempre", "solo", "mai", "obbligatoriamente". Se il testo è più prudente, l'opzione assoluta è sospetta.
+> Nei brani amministrativi le opzioni trappola spesso esagerano: “tutti”, “sempre”, “solo”, “mai”, “obbligatoriamente”. Se il testo è più prudente, l’opzione assoluta è sospetta.
 
 ## Ragionamento critico: premessa, conclusione, assunzione
 
-Il ragionamento critico verbale non chiede se sei d'accordo con un argomento. Chiede se capisci come è costruito.
+Il ragionamento critico verbale non chiede se sei d’accordo con un argomento. Chiede se capisci come è costruito.
 
 Ogni argomento ha:
 
@@ -306,17 +316,17 @@ Ogni argomento ha:
 
 Esempio:
 
-> L'ente ha aumentato il numero di domande presentate online dopo aver semplificato il modulo. Dunque, la semplificazione del modulo ha favorito l'accesso al servizio.
+> L’ente ha aumentato il numero di domande presentate online dopo aver semplificato il modulo. Dunque, la semplificazione del modulo ha favorito l’accesso al servizio.
 
-Conclusione: la semplificazione ha favorito l'accesso.
+Conclusione: la semplificazione ha favorito l’accesso.
 
 Premessa: dopo la semplificazione sono aumentate le domande online.
 
-Assunzione: l'aumento non dipende principalmente da un'altra causa, per esempio una campagna informativa o un obbligo nuovo.
+Assunzione: l’aumento non dipende principalmente da un’altra causa, per esempio una campagna informativa o un obbligo nuovo.
 
-Domanda possibile: quale informazione indebolisce l'argomento?
+Domanda possibile: quale informazione indebolisce l’argomento?
 
-Risposta: nello stesso periodo l'ente ha reso obbligatoria la presentazione online. Questa informazione indebolisce, perché offre una causa alternativa all'aumento.
+Risposta: nello stesso periodo l’ente ha reso obbligatoria la presentazione online. Questa informazione indebolisce, perché offre una causa alternativa all’aumento.
 
 ### Indicatori da riconoscere
 
@@ -345,6 +355,8 @@ I nuclei più frequenti sono:
 - distribuzioni e resti.
 
 ![Figura 12.6 - Ragionamento numerico rapido: percentuali, proporzioni, tabelle e controllo di plausibilità partono dalla base corretta.](../assets/chapter-12/06-ragionamento-numerico-rapido.png)
+
+*Figura 12.6 - Ragionamento numerico rapido: percentuali, proporzioni, tabelle e controllo di plausibilità partono dalla base corretta.*
 
 ### Percentuali
 
@@ -402,7 +414,7 @@ La domanda non chiede chi ha più domande complete in valore assoluto. Chiede la
 
 ## Metodo di esclusione
 
-L'esclusione non è tirare a indovinare. È una tecnica razionale per ridurre le possibilità quando non conviene o non serve risolvere tutto.
+L’esclusione non è tirare a indovinare. È una tecnica razionale per ridurre le possibilità quando non conviene o non serve risolvere tutto.
 
 Usala così:
 
@@ -414,13 +426,15 @@ Usala così:
 
 Esempio numerico:
 
-Un costo aumenta da 80 a 100. Qual è l'aumento percentuale?
+Un costo aumenta da 80 a 100. Qual è l’aumento percentuale?
 
 Opzioni: 10%, 20%, 25%, 30%.
 
 La differenza è 20. La percentuale va calcolata sul valore iniziale: 20/80 = 25%. Se scegli 20%, stai confondendo differenza assoluta e percentuale.
 
 ![Figura 12.7 - Tempo, esclusione e diario errori: gestire la prova a più giri e correggere ogni errore per categoria.](../assets/chapter-12/07-tempo-esclusione-diario-errori.png)
+
+*Figura 12.7 - Tempo, esclusione e diario errori: gestire la prova a più giri e correggere ogni errore per categoria.*
 
 ## Gestione del tempo
 
@@ -435,7 +449,7 @@ In una prova a quiz, logica e ragionamento vanno governati con una regola chiara
 | Percentuale/proporzione | 45-75 secondi | se hai dubbi sul dato base |
 | Ragionamento critico | 60-90 secondi | se restano due opzioni e manca evidenza |
 
-La prova non premia l'eroismo sulla singola domanda. Premia il punteggio complessivo. Saltare in modo intelligente non è rinunciare; è proteggere il tempo.
+La prova non premia l’eroismo sulla singola domanda. Premia il punteggio complessivo. Saltare in modo intelligente non è rinunciare; è proteggere il tempo.
 
 > [!IMPORTANT]
 > **Regola operativa**
@@ -443,7 +457,7 @@ La prova non premia l'eroismo sulla singola domanda. Premia il punteggio comples
 
 ## Diario degli errori
 
-Per questa materia registra il tipo di errore: limitarti a "giusta/sbagliata" non basta.
+Per questa materia registra il tipo di errore: limitarti a “giusta/sbagliata” non basta.
 
 | Categoria errore | Esempio | Correzione |
 |---|---|---|
@@ -464,7 +478,7 @@ Ogni settimana, guarda il diario e scegli un solo bersaglio: negazioni, percentu
 
 Una risposta ordinata potrebbe essere:
 
-> Affronterei la prova distinguendo prima le famiglie di quesiti: brani di comprensione, deduzioni verbali, calcoli numerici, serie e ragionamento critico. Per i brani cercherei l'evidenza nel testo; per le deduzioni tradurrei le premesse in regole; per i calcoli individuerei il dato base e controllerei la plausibilità del risultato. Gestirei il tempo con più giri, evitando di bloccare la prova su una domanda lunga. Dopo l'allenamento, registrerei gli errori per categoria, così da correggere il metodo e non solo la singola risposta.
+> Affronterei la prova distinguendo prima le famiglie di quesiti: brani di comprensione, deduzioni verbali, calcoli numerici, serie e ragionamento critico. Per i brani cercherei l’evidenza nel testo; per le deduzioni tradurrei le premesse in regole; per i calcoli individuerei il dato base e controllerei la plausibilità del risultato. Gestirei il tempo con più giri, evitando di bloccare la prova su una domanda lunga. Dopo l’allenamento, registrerei gli errori per categoria, così da correggere il metodo e non solo la singola risposta.
 
 ## Domanda-trappola
 
@@ -481,7 +495,7 @@ No. Nei quesiti di logica e comprensione, la risposta corretta deve essere suppo
 |---|---|
 | Premesse: 1. tutte le domande complete vengono protocollate; 2. alcune domande inviate online sono complete; 3. nessuna domanda protocollata viene esclusa per mancanza di firma. Quale conclusione segue necessariamente? | A. Tutte le domande inviate online vengono protocollate. B. Alcune domande inviate online vengono protocollate. C. Nessuna domanda inviata online viene esclusa. D. Tutte le domande protocollate sono complete. |
 
-**Soluzione guidata.** La risposta corretta è **B**. Alcune domande online sono complete; tutte le complete sono protocollate; quindi alcune domande online sono protocollate. A estende "alcune" a "tutte". C aggiunge una esclusione generale non dimostrata. D inverte la prima premessa.
+**Soluzione guidata.** La risposta corretta è **B**. Alcune domande online sono complete; tutte le complete sono protocollate; quindi alcune domande online sono protocollate. A estende “alcune” a “tutte”. C aggiunge una esclusione generale non dimostrata. D inverte la prima premessa.
 
 ## Mini-simulazione a tempo
 
@@ -495,8 +509,8 @@ Ogni riga è una scheda di lavoro. La colonna **Quesito** viene sempre prima del
 
 | Quesito | Risposte |
 |---|---|
-| **1 - Condizionale.** Se un atto è pubblicato all'albo, è conoscibile dai cittadini. L'atto X non è conoscibile dai cittadini. Che cosa si può concludere? | A. L'atto X è pubblicato all'albo. B. L'atto X non è pubblicato all'albo. C. Tutti gli atti non pubblicati sono inconoscibili. D. Nessuna conclusione è possibile. |
-| **2 - Negazione.** La negazione corretta di "tutti i candidati hanno consegnato il documento" è: | A. nessun candidato ha consegnato il documento. B. alcuni candidati non hanno consegnato il documento. C. tutti i candidati non hanno consegnato il documento. D. solo un candidato ha consegnato il documento. |
+| **1 - Condizionale.** Se un atto è pubblicato all’albo, è conoscibile dai cittadini. L’atto X non è conoscibile dai cittadini. Che cosa si può concludere? | A. L’atto X è pubblicato all’albo. B. L’atto X non è pubblicato all’albo. C. Tutti gli atti non pubblicati sono inconoscibili. D. Nessuna conclusione è possibile. |
+| **2 - Negazione.** La negazione corretta di “tutti i candidati hanno consegnato il documento” è: | A. nessun candidato ha consegnato il documento. B. alcuni candidati non hanno consegnato il documento. C. tutti i candidati non hanno consegnato il documento. D. solo un candidato ha consegnato il documento. |
 | **3 - Quantificatori.** Tutti i funzionari del settore A usano la piattaforma. Alcuni dipendenti che usano la piattaforma lavorano da remoto. Quale conclusione segue? | A. Tutti i funzionari del settore A lavorano da remoto. B. Alcuni funzionari del settore A lavorano da remoto. C. Alcuni dipendenti che lavorano da remoto usano la piattaforma. D. Nessuna delle precedenti segue necessariamente. |
 
 #### Blocco 2 - Serie, vincoli, ordinamenti
@@ -505,7 +519,7 @@ Ogni riga è una scheda di lavoro. La colonna **Quesito** viene sempre prima del
 |---|---|
 | **4 - Serie numerica.** Serie: 5, 9, 17, 33, ... | A. 49. B. 57. C. 65. D. 66. |
 | **5 - Serie alfabetica.** Serie alfabetica: B, D, G, K, ... | A. N. B. O. C. P. D. Q. |
-| **6 - Ordinamento.** Quattro uffici A, B, C, D sono visitati in ordine. B è subito dopo A. D non è ultimo. C è dopo D. Qual è l'ordine? | A. A-B-D-C. B. D-A-B-C. C. A-D-B-C. D. D-C-A-B. |
+| **6 - Ordinamento.** Quattro uffici A, B, C, D sono visitati in ordine. B è subito dopo A. D non è ultimo. C è dopo D. Qual è l’ordine? | A. A-B-D-C. B. D-A-B-C. C. A-D-B-C. D. D-C-A-B. |
 
 #### Blocco 3 - Calcolo rapido
 
@@ -513,7 +527,7 @@ Ogni riga è una scheda di lavoro. La colonna **Quesito** viene sempre prima del
 |---|---|
 | **7 - Percentuale.** Un candidato ottiene 36 risposte corrette su 45. Qual è la percentuale di risposte corrette? | A. 75%. B. 80%. C. 82%. D. 85%. |
 | **8 - Proporzione diretta.** Un ufficio evade 240 pratiche in 6 giorni. A ritmo costante, quante pratiche evade in 10 giorni? | A. 360. B. 380. C. 400. D. 420. |
-| **9 - Variazione percentuale.** Il numero di domande passa da 500 a 600. L'aumento percentuale è: | A. 10%. B. 16, 7%. C. 20%. D. 25%. |
+| **9 - Variazione percentuale.** Il numero di domande passa da 500 a 600. L’aumento percentuale è: | A. 10%. B. 16,7%. C. 20%. D. 25%. |
 | **10 - Proporzione inversa.** Tre addetti completano un lavoro in 12 ore. A parità di ritmo, sei addetti completano lo stesso lavoro in: | A. 3 ore. B. 6 ore. C. 12 ore. D. 24 ore. |
 | **11 - Percentuale su totale.** In un archivio il 40% dei fascicoli è digitale. Se i fascicoli sono 750, quanti sono digitali? | A. 250. B. 280. C. 300. D. 350. |
 
@@ -521,19 +535,19 @@ Ogni riga è una scheda di lavoro. La colonna **Quesito** viene sempre prima del
 
 | Quesito | Risposte |
 |---|---|
-| **12 - Evidenza nel brano.** "Il servizio è accessibile online, ma resta disponibile uno sportello fisico per gli utenti che non dispongono di strumenti digitali." Quale affermazione è corretta? | A. Il servizio è solo online. B. Lo sportello fisico è disponibile per tutti gli utenti senza limiti. C. Esiste un canale fisico per chi non dispone di strumenti digitali. D. Gli utenti senza strumenti digitali sono esclusi dal servizio. |
-| **13 - Connettivo logico.** Nel brano "L'ente ha rinviato la scadenza, pertanto i candidati possono integrare la domanda", la parola "pertanto" introduce: | A. una causa. B. una conclusione/conseguenza. C. una eccezione. D. un contrasto. |
-| **14 - Indebolimento.** "Da quando è stato introdotto il promemoria via email, le assenze agli appuntamenti sono diminuite. Il promemoria ha ridotto le assenze." Quale informazione indebolisce l'argomento? | A. Il promemoria viene inviato due giorni prima. B. Nello stesso periodo è stata introdotta una sanzione per chi non si presenta. C. Molti utenti leggono la posta elettronica. D. Il servizio riguarda appuntamenti amministrativi. |
-| **15 - Analogia.** Quale parola completa meglio l'analogia: bando: concorso = avviso: ? | A. comunicazione. B. protocollo. C. graduatoria. D. scadenza. |
+| **12 - Evidenza nel brano.** “Il servizio è accessibile online, ma resta disponibile uno sportello fisico per gli utenti che non dispongono di strumenti digitali.” Quale affermazione è corretta? | A. Il servizio è solo online. B. Lo sportello fisico è disponibile per tutti gli utenti senza limiti. C. Esiste un canale fisico per chi non dispone di strumenti digitali. D. Gli utenti senza strumenti digitali sono esclusi dal servizio. |
+| **13 - Connettivo logico.** Nel brano “L’ente ha rinviato la scadenza, pertanto i candidati possono integrare la domanda”, la parola “pertanto” introduce: | A. una causa. B. una conclusione/conseguenza. C. una eccezione. D. un contrasto. |
+| **14 - Indebolimento.** “Da quando è stato introdotto il promemoria via email, le assenze agli appuntamenti sono diminuite. Il promemoria ha ridotto le assenze.” Quale informazione indebolisce l’argomento? | A. Il promemoria viene inviato due giorni prima. B. Nello stesso periodo è stata introdotta una sanzione per chi non si presenta. C. Molti utenti leggono la posta elettronica. D. Il servizio riguarda appuntamenti amministrativi. |
+| **15 - Analogia.** Quale parola completa meglio l’analogia: bando: concorso = avviso: ? | A. comunicazione. B. protocollo. C. graduatoria. D. scadenza. |
 
 #### Blocco 5 - Condizioni, graduatorie, deducibilità
 
 | Quesito | Risposte |
 |---|---|
-| **16 - Condizione necessaria.** Se "solo chi possiede il requisito R può partecipare", quale affermazione è corretta? | A. Il requisito R basta sempre per vincere. B. Chi non possiede R non può partecipare. C. Chi possiede R partecipa necessariamente. D. Chi partecipa non possiede R. |
+| **16 - Condizione necessaria.** Se “solo chi possiede il requisito R può partecipare”, quale affermazione è corretta? | A. Il requisito R basta sempre per vincere. B. Chi non possiede R non può partecipare. C. Chi possiede R partecipa necessariamente. D. Chi partecipa non possiede R. |
 | **17 - Graduatoria.** In una graduatoria Marco è prima di sarà. Luca è dopo sarà. Elena è prima di Marco. Chi è sicuramente prima di Luca? | A. solo sarà. B. Marco e sarà. C. Elena, Marco e sarà. D. non si può sapere nulla. |
 | **18 - Media.** Una media di 24 è ottenuta da tre punteggi: 20, 26 e x. Quanto vale x? | A. 24. B. 25. C. 26. D. 28. |
-| **19 - Non deducibile.** Una domanda chiede quale affermazione "non è deducibile" da un brano. Devi scegliere: | A. una frase falsa secondo il testo. B. una frase vera secondo il testo. C. una frase plausibile ma non supportata dal testo. D. una frase identica al testo. |
+| **19 - Non deducibile.** Una domanda chiede quale affermazione “non è deducibile” da un brano. Devi scegliere: | A. una frase falsa secondo il testo. B. una frase vera secondo il testo. C. una frase plausibile ma non supportata dal testo. D. una frase identica al testo. |
 | **20 - Contrapposizione.** Se nessun documento incompleto viene accettato, allora: | A. tutti i documenti completi vengono accettati. B. un documento accettato non è incompleto. C. tutti i documenti non accettati sono incompleti. D. nessun documento completo viene accettato. |
 
 #### Blocco 6 - Serie miste, variazioni, brani brevi
@@ -541,9 +555,9 @@ Ogni riga è una scheda di lavoro. La colonna **Quesito** viene sempre prima del
 | Quesito | Risposte |
 |---|---|
 | **21 - Serie mista.** Serie: 2A, 4C, 6E, 8G, ... | A. 9H. B. 10H. C. 10I. D. 12I. |
-| **22 - Diminuzione percentuale.** Un prodotto passa da 120 a 90 unità. La diminuzione percentuale è: | A. 20%. B. 25%. C. 30%. D. 33, 3%. |
-| **23 - Coesistenza di canali.** "La misura non elimina il canale tradizionale, ma lo affianca a una procedura digitale più rapida." Il testo sostiene che: | A. il canale tradizionale viene sostituito. B. procedura digitale e canale tradizionale coesistono. C. il canale tradizionale è più rapido. D. la procedura digitale è obbligatoria. |
-| **24 - Rafforzamento.** Quale informazione rafforza l'argomento: "La formazione ha migliorato la qualità delle risposte allo sportello"? | A. Dopo la formazione sono diminuiti gli errori nelle informazioni fornite agli utenti. B. La formazione si è svolta in aula. C. Alcuni dipendenti non hanno partecipato. D. Lo sportello è aperto anche il martedì. |
+| **22 - Diminuzione percentuale.** Un prodotto passa da 120 a 90 unità. La diminuzione percentuale è: | A. 20%. B. 25%. C. 30%. D. 33,3%. |
+| **23 - Coesistenza di canali.** “La misura non elimina il canale tradizionale, ma lo affianca a una procedura digitale più rapida.” Il testo sostiene che: | A. il canale tradizionale viene sostituito. B. procedura digitale e canale tradizionale coesistono. C. il canale tradizionale è più rapido. D. la procedura digitale è obbligatoria. |
+| **24 - Rafforzamento.** Quale informazione rafforza l’argomento: “La formazione ha migliorato la qualità delle risposte allo sportello”? | A. Dopo la formazione sono diminuiti gli errori nelle informazioni fornite agli utenti. B. La formazione si è svolta in aula. C. Alcuni dipendenti non hanno partecipato. D. Lo sportello è aperto anche il martedì. |
 | **25 - Catena deduttiva.** Se alcune istanze urgenti sono trattate entro 48 ore e tutte le istanze trattate entro 48 ore ricevono una comunicazione automatica, quale conclusione segue? | A. Tutte le istanze urgenti ricevono una comunicazione automatica. B. Alcune istanze urgenti ricevono una comunicazione automatica. C. Nessuna istanza non urgente riceve comunicazione automatica. D. Tutte le comunicazioni automatiche riguardano istanze urgenti. |
 
 ### Soluzioni ragionate
@@ -551,28 +565,28 @@ Ogni riga è una scheda di lavoro. La colonna **Quesito** viene sempre prima del
 | N. | Risposta | Ragione |
 |---:|---|---|
 | 1 | B | Modus tollens: se pubblicato allora conoscibile; se non conoscibile, non pubblicato. |
-| 2 | B | La negazione di "tutti" è "almeno uno non". |
+| 2 | B | La negazione di “tutti” è “almeno uno non”. |
 | 3 | D | Non sappiamo se i dipendenti da remoto siano funzionari del settore A. |
 | 4 | C | +4, +8, +16, quindi +32: 65. |
 | 5 | C | +2, +3, +4, quindi +5: P. |
 | 6 | B | A-B è blocco; D non ultimo e C dopo D. Ordine possibile e coerente: D-A-B-C. |
-| 7 | B | 36/45 = 0, 8 = 80%. |
+| 7 | B | 36/45 = 0,8 = 80%. |
 | 8 | C | 240/6 = 40 al giorno; in 10 giorni 400. |
 | 9 | C | Aumento 100 su base 500: 20%. |
 | 10 | B | Doppio degli addetti, metà del tempo: 6 ore. |
 | 11 | C | 40% di 750 = 300. |
 | 12 | C | Il testo conserva un canale fisico per chi non ha strumenti digitali. |
-| 13 | B | "Pertanto" introduce conseguenza/conclusione. |
+| 13 | B | “Pertanto” introduce conseguenza/conclusione. |
 | 14 | B | La sanzione è una causa alternativa della diminuzione. |
 | 15 | A | Il rapporto è documento/atto che comunica una selezione o informazione. |
-| 16 | B | "Solo chi possiede R" rende R necessario per partecipare. |
+| 16 | B | “Solo chi possiede R” rende R necessario per partecipare. |
 | 17 | C | Elena prima di Marco, Marco prima di sarà, sarà prima di Luca. |
 | 18 | C | Totale necessario 72; 20 + 26 = 46; x = 26. |
 | 19 | C | Non deducibile significa plausibile ma non supportata. |
 | 20 | B | Se incompleto implica non accettato, accettato implica non incompleto. |
 | 21 | C | Numeri +2, lettere +2: 10I. |
 | 22 | B | Diminuzione 30 su base 120: 25%. |
-| 23 | B | "Affianca" indica coesistenza, non sostituzione. |
+| 23 | B | “Affianca” indica coesistenza, non sostituzione. |
 | 24 | A | Diminuzione degli errori è evidenza coerente con il miglioramento. |
 | 25 | B | Alcune urgenti sono entro 48 ore; tutte quelle entro 48 ore ricevono comunicazione. |
 
@@ -594,12 +608,12 @@ Logica, comprensione e ragionamento non restano confinati a questo capitolo: all
 Prima di considerare chiuso il ripasso di logica, comprensione e ragionamento, verifica di saper:
 
 - classificare un quesito prima di risolverlo;
-- tradurre "se", "solo se", "tutti", "alcuni", "nessuno";
+- tradurre “se”, “solo se”, “tutti”, “alcuni”, “nessuno”;
 - distinguere necessario e sufficiente;
 - risolvere sillogismi senza usare conoscenze esterne;
 - costruire una griglia per ordinamenti e vincoli;
 - riconoscere serie semplici, alternate e miste;
-- trovare in un brano l'evidenza della risposta;
+- trovare in un brano l’evidenza della risposta;
 - distinguere vero, falso e non deducibile;
 - individuare premessa, conclusione e assunzione;
 - calcolare percentuali, proporzioni, medie e variazioni;

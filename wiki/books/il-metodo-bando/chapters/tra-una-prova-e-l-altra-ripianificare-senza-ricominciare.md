@@ -20,25 +20,25 @@ draft_stage: revised-editorial-draft
 last_compiled_from: ["sources/intervallo-tra-prove-concorsuali-metodo-bando.md", "topics/intervallo-tra-prove-concorsuali.md", "topics/dopo-prova-concorsi.md", "topics/prove-concorsuali.md", "topics/prova-orale.md", "topics/simulazioni-concorsuali.md", "topics/diario-errori.md", "topics/capitale-studio-riutilizzabile.md", "topics/strategia-punteggio-prova-concorsuale.md"]
 ---
 
-# Capitolo 39 - Tra una prova e l'altra: ripianificare senza ricominciare
+# R15 - Tra una prova e l’altra: ripianificare senza ricominciare
 
-Una prova non finisce davvero quando esci dall'aula.
+Una prova non finisce davvero quando esci dall’aula.
 
 Finisce quando hai trasformato quello che è accaduto in una decisione.
 
-Se il concorso prevede più fasi, l'errore più frequente è trattare ogni prova come un mondo separato: prima il quiz, poi si vedra; prima lo scritto, poi si vedra; prima l'esito, poi si vedra.
+Se il concorso prevede più fasi, l’errore più frequente è trattare ogni prova come un mondo separato: prima il quiz, poi si vedra; prima lo scritto, poi si vedra; prima l’esito, poi si vedra.
 
 Questo atteggiamento sembra prudente, ma spesso fa perdere tempo.
 
-perché tra una prova e l'altra il candidato può fare tre cose molto diverse:
+perché tra una prova e l’altra il candidato può fare tre cose molto diverse:
 
 - fermarsi in attesa;
 - agitarsi controllando avvisi e gruppi ogni dieci minuti;
-- convertire la prova appena fatta in piano per l'output successivo.
+- convertire la prova appena fatta in piano per l’output successivo.
 
 Il Metodo BANDO sceglie la terza strada.
 
-Tra una prova e l'altra ripianifica il lavoro già svolto.
+Tra una prova e l’altra ripianifica il lavoro già svolto.
 
 ## Obiettivo del capitolo
 
@@ -47,21 +47,23 @@ Alla fine del capitolo saprai:
 - distinguere impressione a caldo, esito ufficiale e decisione operativa;
 - usare le prime 24/72 ore dopo una prova senza disperderti;
 - trasformare errori, tempi e istruzioni in Diario post-prova;
-- preparare un possibile orale senza aspettare l'ultimo momento;
+- preparare un possibile orale senza aspettare l’ultimo momento;
 - convertire quiz, scritto o caso in schede riutilizzabili;
-- gestire l'attesa degli avvisi senza perdere ritmo;
+- gestire l’attesa degli avvisi senza perdere ritmo;
 - decidere cosa mantenere, cosa alleggerire e cosa riattivare;
 - chiudere una prova intermedia come capitale per quella successiva.
 
 La regola è:
 
-> l'intervallo serve alla manutenzione del metodo.
+> l’intervallo serve alla manutenzione del metodo.
 
 ## La mappa BANDO tra prove
 
 ![Transizione tra prove](../assets/chapter-39/01-mappa-tra-prove.png)
 
-| Fase | Domanda | Azione nell'intervallo |
+*Figura 39.1 - Transizione tra prove.*
+
+| Fase | Domanda | Azione nell’intervallo |
 |---|---|---|
 | B - Bando | quali fasi successive sono previste o possibili? | rileggo bando, avvisi e calendario |
 | A - Aree | quali materie tornano nella fase successiva? | separo nucleo comune e modulo specifico |
@@ -69,7 +71,7 @@ La regola è:
 | D - Diario | che cosa è emerso dalla prova appena fatta? | registro errori, tempi, dubbi e istruzioni |
 | O - Output | qual è il prossimo prodotto richiesto? | scritto, orale, caso, simulazione o attesa attiva |
 
-Questa mappa serve a una cosa precisa: impedire che l'intervallo venga occupato da sensazioni.
+Questa mappa serve a una cosa precisa: impedire che l’intervallo venga occupato da sensazioni.
 
 Le sensazioni contano, ma non governano il piano.
 
@@ -77,11 +79,13 @@ Puoi uscire convinto di avere sbagliato e poi scoprire di essere passato.
 
 Puoi uscire convinto di avere fatto bene e poi accorgerti di avere sottovalutato una soglia.
 
-Per questo l'impressione a caldo va registrata, non trasformata subito in verdetto.
+Per questo l’impressione a caldo va registrata, non trasformata subito in verdetto.
 
 ## Prime 24 ore: salvare dati, non giudicare tutto
 
 ![Prime ventiquattro ore: raccogliere dati senza giudizi impulsivi](../assets/chapter-39/02-prime-24-ore.png)
+
+*Figura 39.2 - Prime ventiquattro ore: raccogliere dati senza giudizi impulsivi.*
 
 Nelle prime 24 ore dopo una prova il candidato è spesso poco affidabile come giudice di se stesso.
 
@@ -117,13 +121,15 @@ Non serve che sia perfetta.
 
 Serve che sia fatta prima che la memoria si confonda.
 
-Questa scheda non sostituisce l'esito ufficiale.
+Questa scheda non sostituisce l’esito ufficiale.
 
 Serve al Diario e al capitale di studio.
 
 ## Prime 72 ore: convertire la prova in piano
 
 ![Conversione del riscontro della prova in piano operativo](../assets/chapter-39/03-conversione-piano.png)
+
+*Figura 39.3 - Conversione del riscontro della prova in piano operativo.*
 
 Dopo la prima registrazione, arriva la conversione.
 
@@ -148,13 +154,13 @@ Usa questa matrice.
 
 Il punto non è riempire subito il calendario.
 
-Il punto è evitare che l'intervallo diventi sospensione totale.
+Il punto è evitare che l’intervallo diventi sospensione totale.
 
 Anche trenta minuti ben usati possono conservare continuità.
 
 ## Se dopo il quiz può arrivare lo scritto
 
-Dopo una prova a quiz, molti candidati aspettano l'esito prima di pensare allo scritto.
+Dopo una prova a quiz, molti candidati aspettano l’esito prima di pensare allo scritto.
 
 A volte è inevitabile, perché tempi, graduatorie e convocazioni dipendono dalla procedura.
 
@@ -174,15 +180,15 @@ Devi convertire.
 
 La prova scritta richiede un salto: dalla scelta della risposta alla produzione della risposta.
 
-Per questo l'intervallo serve a cambiare output.
+Per questo l’intervallo serve a cambiare output.
 
 Non basta continuare a fare quiz se la fase successiva chiede scrittura.
 
-## Se dopo lo scritto può arrivare l'orale
+## Se dopo lo scritto può arrivare l’orale
 
-L'orale è la prova che più spesso viene preparata troppo tardi.
+L’orale è la prova che più spesso viene preparata troppo tardi.
 
-Il candidato aspetta l'esito dello scritto, poi scopre che deve parlare di molte materie in poco tempo.
+Il candidato aspetta l’esito dello scritto, poi scopre che deve parlare di molte materie in poco tempo.
 
 Il Metodo BANDO propone una preparazione anticipata ma sostenibile.
 
@@ -195,7 +201,7 @@ Usa tre livelli:
 | Livello | Cosa fai | Quando |
 |---|---|---|
 | Minimo | 3 domande orali a settimana sui nuclei comuni | mentre attendi |
-| Medio | risposte da 2 minuti su errori emersi nello scritto | se l'esito è plausibile |
+| Medio | risposte da 2 minuti su errori emersi nello scritto | se l’esito è plausibile |
 | Intensivo | simulazioni complete, collegamenti, domande incrociate | dopo convocazione o esito positivo |
 
 Lo schema base resta:
@@ -204,13 +210,13 @@ Lo schema base resta:
 inquadramento -> definizione -> funzione -> riferimento sicuro -> esempio -> chiusura
 ```
 
-L'obiettivo dell'intervallo non è sapere tutto oralmente.
+L’obiettivo dell’intervallo non è sapere tutto oralmente.
 
 È evitare di partire da zero.
 
-## Se l'esito tarda
+## Se l’esito tarda
 
-L'attesa lunga è una situazione delicata.
+L’attesa lunga è una situazione delicata.
 
 Troppo studio può consumare energie.
 
@@ -228,7 +234,7 @@ Serve una routine di attesa attiva.
 
 Il controllo degli avvisi deve essere ordinato.
 
-Non serve controllare in modo compulsivo se non c'è una ragione operativa.
+Non serve controllare in modo compulsivo se non c’è una ragione operativa.
 
 Stabilisci un momento della giornata o della settimana, salva le fonti ufficiali e aggiorna il piano.
 
@@ -269,7 +275,7 @@ Anche una prova andata bene può produrre errori.
 
 Il rischio è rilassarsi troppo, perdere ritmo e arrivare impreparati alla fase successiva.
 
-Se l'impressione è positiva:
+Se l’impressione è positiva:
 
 - registra comunque errori e incertezze;
 - non smontare subito il piano;
@@ -278,7 +284,7 @@ Se l'impressione è positiva:
 - non annunciare conclusioni prima degli atti ufficiali;
 - programma un controllo ordinato degli esiti.
 
-L'euforia è comprensibile.
+L’euforia è comprensibile.
 
 Ma il metodo resta sobrio.
 
@@ -289,6 +295,8 @@ Il tuo piano decide come arrivi al passaggio successivo.
 ## La scheda di conversione tra prove
 
 ![Bivio preparatorio tra scritto e orale](../assets/chapter-39/04-bivio-scritto-orale.png)
+
+*Figura 39.4 - Bivio preparatorio tra scritto e orale.*
 
 Questa è la pagina operativa del capitolo.
 
@@ -315,29 +323,33 @@ Deve dirti che cosa fare nella prossima settimana.
 
 ![Calendario per riallineare studio e priorità](../assets/chapter-39/05-calendario-riallineamento.png)
 
-1. L'intervallo tra prove non è tempo morto: è tempo di conversione.
-2. L'impressione a caldo va registrata, ma non sostituisce l'esito ufficiale.
+*Figura 39.5 - Calendario per riallineare studio e priorità.*
+
+1. L’intervallo tra prove non è tempo morto: è tempo di conversione.
+2. L’impressione a caldo va registrata, ma non sostituisce l’esito ufficiale.
 3. Ogni prova deve generare Diario, schede, correzioni e capitale riutilizzabile.
-4. Se il bando prevede una prova successiva possibile, va preparato almeno il nucleo minimo dell'output.
-5. L'attesa va gestita con ritmo sostenibile: controllo avvisi, richiamo, simulazioni mirate e recupero.
+4. Se il bando prevede una prova successiva possibile, va preparato almeno il nucleo minimo dell’output.
+5. L’attesa va gestita con ritmo sostenibile: controllo avvisi, richiamo, simulazioni mirate e recupero.
 
 ## Caso guidato
 
 ![Routine minima da mantenere con un esito ancora incerto](../assets/chapter-39/06-esito-incerto.png)
 
+*Figura 39.6 - Routine minima da mantenere con un esito ancora incerto.*
+
 Marta ha appena sostenuto una prova scritta a quiz. Il bando prevede, per chi supera lo scritto, una prova orale.
 
-All'uscita è incerta.
+All’uscita è incerta.
 
 Ricorda alcune domande su procedimento amministrativo, pubblico impiego e trasparenza. Ha perso tempo su due quesiti lunghi e si è accorta di non saper spiegare bene alcuni concetti che pure riconosceva nel quiz.
 
-Il suo primo impulso è aspettare l'esito senza fare nulla.
+Il suo primo impulso è aspettare l’esito senza fare nulla.
 
 Con il Metodo BANDO fa altro.
 
 Nelle prime 24 ore compila la scheda post-prova. Nelle 72 ore successive crea tre schede orali: procedimento, doveri del dipendente pubblico, accesso e privacy. Programma due risposte da 2 minuti a settimana e un controllo avvisi ogni due giorni, senza passare la giornata sul portale.
 
-Quando arriva l'esito positivo, Marta non parte da zero.
+Quando arriva l’esito positivo, Marta non parte da zero.
 
 Ha già un nucleo orale.
 
@@ -349,15 +361,17 @@ Ha tenuto aperta la traiettoria.
 
 ![Caso guidato: ripianificare senza ripartire da zero](../assets/chapter-39/07-caso-ripianificazione.png)
 
-perché è utile preparare il possibile orale prima di conoscere l'esito ufficiale dello scritto?
+*Figura 39.7 - Caso guidato: ripianificare senza ripartire da zero.*
 
-Risposta guidata: perché, se il bando prevede una prova orale, il candidato può mantenere attivo un nucleo minimo senza consumare energie eccessive. Non si tratta di anticipare l'esito, ma di evitare una ripartenza da zero. La preparazione resta proporzionata: domande brevi, schede, simulazioni leggere e controllo degli avvisi.
+perché è utile preparare il possibile orale prima di conoscere l’esito ufficiale dello scritto?
+
+Risposta guidata: perché, se il bando prevede una prova orale, il candidato può mantenere attivo un nucleo minimo senza consumare energie eccessive. Non si tratta di anticipare l’esito, ma di evitare una ripartenza da zero. La preparazione resta proporzionata: domande brevi, schede, simulazioni leggere e controllo degli avvisi.
 
 ## Domanda-trappola
 
-Se non conosco ancora l'esito, è inutile studiare per la prova successiva?
+Se non conosco ancora l’esito, è inutile studiare per la prova successiva?
 
-Risposta guidata: no. È inutile studiare in modo disordinato o intensivo senza dati. Ma può essere molto utile mantenere vivo il nucleo comune, trasformare errori in schede e allenare l'output possibile. L'importante è distinguere attesa attiva da consumo ansioso di energie.
+Risposta guidata: no. È inutile studiare in modo disordinato o intensivo senza dati. Ma può essere molto utile mantenere vivo il nucleo comune, trasformare errori in schede e allenare l’output possibile. L’importante è distinguere attesa attiva da consumo ansioso di energie.
 
 ## Errore tipico
 
@@ -371,7 +385,7 @@ Non salva istruzioni.
 
 Non prepara il possibile output successivo.
 
-Poi, quando arriva l'esito o la convocazione, deve ricostruire tutto da memoria incerta.
+Poi, quando arriva l’esito o la convocazione, deve ricostruire tutto da memoria incerta.
 
 Questo è il contrario del Metodo BANDO.
 
@@ -379,7 +393,7 @@ Ogni prova deve lasciare traccia.
 
 ## Mini-esercizio
 
-Pensa all'ultima prova che hai sostenuto o a una prova futura del tuo concorso.
+Pensa all’ultima prova che hai sostenuto o a una prova futura del tuo concorso.
 
 Compila la scheda.
 
@@ -402,7 +416,7 @@ Tra questa prova e la prossima non ricomincio da zero: tengo vivo __________, co
 
 ## Checklist finale
 
-Prima di chiudere l'intervallo tra prove controlla:
+Prima di chiudere l’intervallo tra prove controlla:
 
 - ho distinto impressione a caldo ed esito ufficiale?
 - ho salvato avvisi, convocazioni, ricevute o comunicazioni rilevanti?
@@ -415,7 +429,7 @@ Prima di chiudere l'intervallo tra prove controlla:
 - ho evitato di aprire nuovi materiali prima di riordinare quelli già prodotti?
 - ho deciso cosa fare nella prossima settimana?
 
-Se rispondi "no" a troppe domande, non sei in pausa.
+Se rispondi “no” a troppe domande, non sei in pausa.
 
 Sei in dispersione.
 
@@ -435,10 +449,3 @@ Sei in dispersione.
 - [[topics/prova-orale]]
 - [[topics/diario-errori]]
 - [[topics/capitale-studio-riutilizzabile]]
-
-## Note di review
-
-- Capitolo pronto come revised draft, da coordinare in revisione finale con Capitolo 30, Capitolo 34, Capitolo 37 e Capitolo 38.
-- Il capitolo non introduce indicazioni giuridiche su termini, graduatorie o ricorsi; per tali aspetti resta necessario rinviare a bando, avvisi ufficiali e supporto qualificato.
-- In impaginazione valutare una pagina strumento "Scheda di conversione tra prove" e una timeline 24/72 ore/settimana successiva.
-- Mantenere il capitolo centrato sulla transizione operativa tra prove, evitando duplicazione con il capitolo dedicato a esiti e graduatoria.

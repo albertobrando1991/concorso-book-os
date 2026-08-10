@@ -32,7 +32,7 @@ Compilalo dopo il Bando Decoder. Se non hai ancora decodificato il bando, il pia
 
 ### 1. Usa ore reali
 
-Non scrivere "studio tre ore ogni sera" se sai già che non succederà. Il piano deve reggere anche nelle settimane normali, non solo nella settimana ideale.
+Non scrivere “studio tre ore ogni sera” se sai già che non succederà. Il piano deve reggere anche nelle settimane normali, non solo nella settimana ideale.
 
 ### 2. Ogni settimana deve produrre output
 
@@ -89,11 +89,11 @@ Compila questa tabella prima di distribuire le materie.
 
 | Giorno | Fascia disponibile | Ore realistiche | Tipo blocco migliore |
 |---|---|---|---|
-| Lunedi | | | Studio / quiz / ripasso / orale |
-| Martedi | | | Studio / quiz / ripasso / orale |
-| Mercoledi | | | Studio / quiz / ripasso / orale |
-| Giovedi | | | Studio / quiz / ripasso / orale |
-| Venerdi | | | Studio / quiz / ripasso / orale |
+| Lunedì | | | Studio / quiz / ripasso / orale |
+| Martedì | | | Studio / quiz / ripasso / orale |
+| Mercoledì | | | Studio / quiz / ripasso / orale |
+| Giovedì | | | Studio / quiz / ripasso / orale |
+| Venerdì | | | Studio / quiz / ripasso / orale |
 | Sabato | | | Studio / quiz / ripasso / orale |
 | Domenica | | | Studio / quiz / ripasso / orale |
 
@@ -153,17 +153,17 @@ Usa tutte le 12 righe se hai 90 giorni. Se hai 60 giorni usa le prime 8. Se hai 
 | 11 | | | | | | |
 | 12 | | | | | | |
 
-La colonna "Decisione" è obbligatoria. Scrivi una scelta concreta: continuo, taglio, sposto tempo, anticipo simulazione, cambio materiale, recupero, alleggerisco.
+La colonna “Decisione” è obbligatoria. Scrivi una scelta concreta: continuo, taglio, sposto tempo, anticipo simulazione, cambio materiale, recupero, alleggerisco.
 
 ## Pagina 5 - Settimana tipo
 
 | Giorno | Blocco 1 | Blocco 2 | Output | Diario |
 |---|---|---|---|---|
-| Lunedi | | | | |
-| Martedi | | | | |
-| Mercoledi | | | | |
-| Giovedi | | | | |
-| Venerdi | | | | |
+| Lunedì | | | | |
+| Martedì | | | | |
+| Mercoledì | | | | |
+| Giovedì | | | | |
+| Venerdì | | | | |
 | Sabato | | | | |
 | Domenica | Revisione | Recupero leggero | Piano settimana nuova | |
 
@@ -194,7 +194,7 @@ Compila una riga per ogni giorno di studio.
 
 ### Regola
 
-Se non c'è output, scrivi comunque che cosa hai letto. Ma nella revisione settimanale chiediti perché quella lettura non è diventata prova.
+Se non c’è output, scrivi comunque che cosa hai letto. Ma nella revisione settimanale chiediti perché quella lettura non è diventata prova.
 
 ## Pagina 7 - Tracker simulazioni
 
@@ -232,7 +232,7 @@ Usa questa tabella per i nuclei importanti.
 
 ### Metodo rapido
 
-Dopo ogni blocco importante, programma subito il prossimo ritorno. Non aspettare di "sentire" che lo hai dimenticato.
+Dopo ogni blocco importante, programma subito il prossimo ritorno. Non aspettare di “sentire” che lo hai dimenticato.
 
 ## Pagina 9 - Revisione settimanale
 
@@ -267,7 +267,7 @@ Usalo quando perdi giorni o quando una simulazione va male.
 | Ho letto ma non ricordo | | |
 | Sbaglio sempre quiz simili | | |
 | Non finisco in tempo | | |
-| L'orale è disordinato | | |
+| L’orale è disordinato | | |
 | Il modulo mi blocca | | |
 | Ho troppi materiali | | |
 
@@ -337,11 +337,11 @@ Prima settimana:
 
 | Giorno | Azione |
 |---|---|
-| Lunedi | Procedimento + 10 domande di richiamo |
-| Martedi | Quiz amministrativo + diario errori |
-| Mercoledi | Enti locali: organi + schema |
-| Giovedi | Trasparenza/accessi + flashcard |
-| Venerdi | Pubblico impiego + orale 2 minuti |
+| Lunedì | Procedimento + 10 domande di richiamo |
+| Martedì | Quiz amministrativo + diario errori |
+| Mercoledì | Enti locali: organi + schema |
+| Giovedì | Trasparenza/accessi + flashcard |
+| Venerdì | Pubblico impiego + orale 2 minuti |
 | Sabato | Simulazione quiz parziale |
 | Domenica | Correzione, tagli, settimana 2 |
 
@@ -383,11 +383,11 @@ Se non sai indicare il primo taglio, il piano non è ancora abbastanza strategic
 
 - Pianificare su giornate perfette.
 - Riempire il calendario di letture senza output.
-- Mettere simulazioni solo dopo aver "finito tutto".
+- Mettere simulazioni solo dopo aver “finito tutto”.
 - Non prevedere recuperi.
 - Cambiare materiali a ogni ritardo.
 - Non distinguere core e modulo.
-- Lasciare il ripasso all'ultima settimana.
+- Lasciare il ripasso all’ultima settimana.
 - Non scrivere cosa tagliare.
 
 ## Riferimenti consolidati
@@ -401,9 +401,3 @@ Se non sai indicare il primo taglio, il piano non è ancora abbastanza strategic
 - [[topics/piano-30-60-90-giorni]]
 - [[topics/metodo-di-studio]]
 - [[topics/diario-errori]]
-
-## Note di review
-
-- Prima della pubblicazione finale verificare se le pagine 4-12 vadano impaginate come schede workbook separate.
-- Valutare una versione PDF stampabile, mantenendo però completa la versione cartacea.
-- Coordinare questa appendice con l'Appendice C e con l'Appendice F, per evitare duplicazione tra Bando Decoder, piano e matrice materie/profili.

@@ -59,7 +59,7 @@ Il nucleo comune comprende ciò che ricorre spesso nei concorsi pubblici: ammini
 
 Il modulo profilo comprende ciò che rende quel concorso diverso: enti locali, contabilità, tributario, giustizia, sanità, scuola, vigilanza, tecnico, ICT, codice della strada, fondi, appalti, settore specifico.
 
-L'allenamento sulla prova reale adatta tutto al formato: quiz, risposta breve, caso, elaborato, orale, prova pratica, situazionale.
+L’allenamento sulla prova reale adatta tutto al formato: quiz, risposta breve, caso, elaborato, orale, prova pratica, situazionale.
 
 Se manca uno dei tre elementi, la preparazione si sbilancia.
 
@@ -75,9 +75,13 @@ Se manca uno dei tre elementi, la preparazione si sbilancia.
 
 ![Figura 20.1 - Mappa BANDO delle mappe profilo](../assets/chapter-20/01-mappa-bando-mappe-profilo.png)
 
+*Figura 20.1 - Mappa BANDO delle mappe profilo*
+
 La mappa profilo non sostituisce il diario. Lo alimenta.
 
 ![Figura 20.2 - Formula core, modulo profilo e prova reale](../assets/chapter-20/02-core-modulo-prova-reale.png)
+
+*Figura 20.2 - Formula core, modulo profilo e prova reale*
 
 ## Il modello unico di mappa profilo
 
@@ -97,7 +101,9 @@ Usa questa struttura per ogni concorso.
 
 ![Figura 20.3 - Scheda unica di mappa profilo](../assets/chapter-20/03-scheda-unica-profilo.png)
 
-Il campo più importante è "rischio". Spesso il concorso non si perde per ciò che non si studia, ma per ciò che si studia nel peso sbagliato.
+*Figura 20.3 - Scheda unica di mappa profilo*
+
+Il campo più importante è “rischio”. Spesso il concorso non si perde per ciò che non si studia, ma per ciò che si studia nel peso sbagliato.
 
 ## Mappa 1 - Amministrativo generale
 
@@ -107,7 +113,7 @@ Il campo più importante è "rischio". Spesso il concorso non si perde per ciò 
 | Quasi sempre | amministrativo, pubblico impiego, trasparenza, procedimento, informatica, inglese |
 | Probabili | costituzionale, privacy, anticorruzione, codice comportamento, documentazione amministrativa |
 | Eventuali | contabilità, contratti, ordinamento ente, competenze trasversali |
-| Da modulo | settore dell'amministrazione: università, sanità, ministero, ente locale, agenzia |
+| Da modulo | settore dell’amministrazione: università, sanità, ministero, ente locale, agenzia |
 | Prove frequenti | quiz, scritto a risposta multipla, orale, situazionali |
 | difficoltà | programma ampio e rischio di genericità |
 | Rischio | sapere definizioni senza saperle usare in ufficio |
@@ -126,7 +132,7 @@ Parti dal nucleo comune. Costruisci una mappa dei procedimenti e collega ogni is
 | Quasi sempre | amministrativo, contabilità pubblica, bilancio, atti, pubblico impiego |
 | Probabili | enti locali, contratti pubblici, controlli, trasparenza, tributi locali |
 | Eventuali | economato, patrimonio, rendicontazione, appalti, fondi |
-| Da modulo | contabilità dell'ente specifico: comune, Stato, università, sanità |
+| Da modulo | contabilità dell’ente specifico: comune, Stato, università, sanità |
 | Prove frequenti | quiz, scritto teorico-pratico, orale con casi |
 | difficoltà | materie tecniche e lessico contabile |
 | Rischio | rimandare contabilità fino alla fine |
@@ -145,12 +151,12 @@ Non separare atto e copertura finanziaria. Ogni volta che studi una spesa chiedi
 | Quasi sempre | ordinamento enti locali, amministrativo, pubblico impiego, trasparenza |
 | Probabili | contabilità locale, contratti, privacy, servizi al cittadino |
 | Eventuali | tributi locali, urbanistica, codice strada, regolamenti comunali |
-| Da modulo | settore dell'ufficio: ragioneria, tecnico, vigilanza, sociale, cultura |
+| Da modulo | settore dell’ufficio: ragioneria, tecnico, vigilanza, sociale, cultura |
 | Prove frequenti | quiz, scritto, orale, casi pratici |
 | difficoltà | molte materie piccole ma collegate |
 | Rischio | confondere organi politici e competenze gestionali |
 | Prima cosa | organi, atti, competenze, procedimento, bilancio base |
-| Da non eccedere | diritto costituzionale oltre la parte utile all'ente |
+| Da non eccedere | diritto costituzionale oltre la parte utile all’ente |
 
 Strategia:
 
@@ -167,20 +173,20 @@ Studia il comune come macchina decisionale. Per ogni tema chiediti: consiglio, g
 | Da modulo | funzione specifica: giustizia, interno, economia, cultura, ambiente, esteri |
 | Prove frequenti | quiz, scritto, orale, situazionali |
 | difficoltà | programmi ampi e profili multipli |
-| Rischio | ignorare l'amministrazione specifica |
+| Rischio | ignorare l’amministrazione specifica |
 | Prima cosa | struttura dello Stato, amministrativo, pubblico impiego |
 | Da non eccedere | ordinamenti settoriali non presenti nel bando |
 
 Strategia:
 
-Costruisci prima il core, poi dedica un blocco al ministero. Conoscere la "pubblica amministrazione" in generale non basta: devi capire la funzione dell'amministrazione che assume e il lessico del settore.
+Costruisci prima il core, poi dedica un blocco al ministero. Conoscere la “pubblica amministrazione” in generale non basta: devi capire la funzione dell’amministrazione che assume e il lessico del settore.
 
 ## Mappa 5 - Giustizia
 
 | Voce | Indicazione |
 |---|---|
 | Profili tipici | assistente giudiziario, funzionario giudiziario, cancelliere, tecnico, amministrativo |
-| Quasi sempre | amministrativo, pubblico impiego, organizzazione giustizia, servizi d'ufficio |
+| Quasi sempre | amministrativo, pubblico impiego, organizzazione giustizia, servizi d’ufficio |
 | Probabili | elementi di procedura, ordinamento giudiziario, digitale, privacy |
 | Eventuali | procedura civile, procedura penale, servizi di cancelleria, informatica giudiziaria |
 | Da modulo | materia processuale e ufficio giudiziario |
@@ -215,6 +221,8 @@ Qui il modulo non è accessorio. Se il profilo è giuridico-tributario, organizz
 
 ![Figura 20.4 - Profili amministrativi e centrali](../assets/chapter-20/04-profili-amministrativi-e-centrali.png)
 
+*Figura 20.4 - Profili amministrativi e centrali*
+
 ## Mappa 7 - Previdenza, lavoro e vigilanza
 
 | Voce | Indicazione |
@@ -223,7 +231,7 @@ Qui il modulo non è accessorio. Se il profilo è giuridico-tributario, organizz
 | Quasi sempre | amministrativo, pubblico impiego, servizi al cittadino, inglese/informatica se previste |
 | Probabili | diritto del lavoro, legislazione sociale, previdenza, assicurazione sociale |
 | Eventuali | civile, commerciale, penale, controlli, vigilanza |
-| Da modulo | lavoro, previdenza, ispezione o servizi sociali dell'ente |
+| Da modulo | lavoro, previdenza, ispezione o servizi sociali dell’ente |
 | Prove frequenti | quiz, scritto, orale, situazionali |
 | difficoltà | programma specialistico e lessico tecnico |
 | Rischio | restare sul diritto amministrativo e trascurare lavoro/previdenza |
@@ -270,7 +278,7 @@ Per ogni argomento tecnico costruisci tre righe: problema, atto/procedura, respo
 
 Strategia:
 
-Allenati a spiegare l'informatica come servizio pubblico: autenticazione, documento, protocollo, sicurezza, accesso, dato, interoperabilità, conservazione, responsabilità.
+Allenati a spiegare l’informatica come servizio pubblico: autenticazione, documento, protocollo, sicurezza, accesso, dato, interoperabilità, conservazione, responsabilità.
 
 ## Mappa 10 - Polizia locale
 
@@ -296,7 +304,7 @@ Costruisci casi: controllo, verbale, cittadino, ordinanza, regolamento, sanzione
 | Voce | Indicazione |
 |---|---|
 | Profili tipici | assistente amministrativo, collaboratore amministrativo, funzionario, segreteria, personale, gare |
-| Quasi sempre | amministrativo, pubblico impiego, privacy, servizi all'utenza, trasparenza |
+| Quasi sempre | amministrativo, pubblico impiego, privacy, servizi all’utenza, trasparenza |
 | Probabili | organizzazione sanitaria, contabilità, acquisti, documentazione, anticorruzione |
 | Eventuali | diritto sanitario, CUP, personale sanitario, contratti, bilancio sanitario |
 | Da modulo | ordinamento sanitario e dati sanitari |
@@ -308,7 +316,7 @@ Costruisci casi: controllo, verbale, cittadino, ordinanza, regolamento, sanzione
 
 Strategia:
 
-Studia i casi di sportello e documentazione. In sanità amministrativa, dire troppo o comunicare dati senza titolo è un errore grave anche quando l'intenzione è aiutare.
+Studia i casi di sportello e documentazione. In sanità amministrativa, dire troppo o comunicare dati senza titolo è un errore grave anche quando l’intenzione è aiutare.
 
 ## Mappa 12 - Scuola, ATA e università
 
@@ -350,6 +358,8 @@ Usa un flow: programmazione, affidamento, stipula, esecuzione, pagamento, contro
 
 ![Figura 20.5 - Profili specialistici e servizi](../assets/chapter-20/05-profili-specialistici-e-servizi.png)
 
+*Figura 20.5 - Profili specialistici e servizi*
+
 ## Come adattare la mappa al tuo bando
 
 Le mappe del capitolo sono modelli. Il tuo bando può deviare. Per questo devi fare una verifica in cinque passaggi.
@@ -360,9 +370,9 @@ Le mappe del capitolo sono modelli. Il tuo bando può deviare. Per questo devi f
 4. Segna prova, durata, punteggio, soglia e penalità.
 5. Trasforma la mappa in calendario.
 
-Se il bando dice "elementi di", non significa automaticamente materia facile. Significa che devi capire quale livello chiede la commissione.
+Se il bando dice “elementi di”, non significa automaticamente materia facile. Significa che devi capire quale livello chiede la commissione.
 
-Se il bando dice "con particolare riferimento a", quella parte va trattata come nucleo ad alto rendimento.
+Se il bando dice “con particolare riferimento a”, quella parte va trattata come nucleo ad alto rendimento.
 
 Se il bando prevede prova teorico-pratica, non basta leggere: devi produrre atti, risposte, casi o schemi.
 
@@ -393,6 +403,8 @@ Una regola prudente per un bando nuovo è questa:
 
 ![Figura 20.6 - Semaforo e pesatura del tempo](../assets/chapter-20/06-semaforo-e-pesatura-tempo.png)
 
+*Figura 20.6 - Semaforo e pesatura del tempo*
+
 Queste percentuali non sono regole fisse. Servono a evitare una distorsione: continuare a studiare ciò che ti rassicura e rinviare ciò che ti seleziona.
 
 ## Caso guidato
@@ -401,7 +413,7 @@ Hai già preparato un concorso da istruttore amministrativo comunale. Ora trovi 
 
 Reazione sbagliata:
 
-"Riparto dal manuale tecnico e lascio amministrativo alla fine, tanto l'ho già studiato".
+“Riparto dal manuale tecnico e lascio amministrativo alla fine, tanto l’ho già studiato”.
 
 Reazione corretta:
 
@@ -413,6 +425,8 @@ Reazione corretta:
 
 ![Figura 20.7 - Caso guidato: convertire una preparazione](../assets/chapter-20/07-caso-guidato-conversione-profilo.png)
 
+*Figura 20.7 - Caso guidato: convertire una preparazione*
+
 La preparazione precedente non viene buttata. Viene convertita.
 
 ## Domanda da commissario
@@ -421,19 +435,19 @@ La preparazione precedente non viene buttata. Viene convertita.
 
 Risposta modello:
 
-Significa separare ciò che posso riutilizzare tra più concorsi da ciò che rende specifico il bando che sto preparando. Il nucleo comune comprende materie e competenze ricorrenti, come amministrativo, pubblico impiego, trasparenza, digitale, inglese e metodo di prova. Il modulo profilo comprende le materie che dipendono dall'amministrazione e dal ruolo: enti locali, contabilità, tributario, giustizia, sanità, tecnico, ICT, polizia locale o altro settore. La preparazione efficace nasce dal bilanciamento tra questi due blocchi e dall'allenamento sulla prova reale.
+Significa separare ciò che posso riutilizzare tra più concorsi da ciò che rende specifico il bando che sto preparando. Il nucleo comune comprende materie e competenze ricorrenti, come amministrativo, pubblico impiego, trasparenza, digitale, inglese e metodo di prova. Il modulo profilo comprende le materie che dipendono dall’amministrazione e dal ruolo: enti locali, contabilità, tributario, giustizia, sanità, tecnico, ICT, polizia locale o altro settore. La preparazione efficace nasce dal bilanciamento tra questi due blocchi e dall’allenamento sulla prova reale.
 
 ## Domanda-trappola
 
 > Se ho già studiato diritto amministrativo per un concorso, posso considerarlo risolto per tutti gli altri?
 
-No. Puoi riutilizzare la base, ma devi adattarla. In un ente locale amministrativo si collega ad atti, organi e servizi. In un profilo tecnico si collega a autorizzazioni, contratti e responsabilità. In un'agenzia fiscale si collega a procedimenti e funzioni dell'agenzia. La materia resta, ma cambia l'uso in prova.
+No. Puoi riutilizzare la base, ma devi adattarla. In un ente locale amministrativo si collega ad atti, organi e servizi. In un profilo tecnico si collega a autorizzazioni, contratti e responsabilità. In un’agenzia fiscale si collega a procedimenti e funzioni dell’agenzia. La materia resta, ma cambia l’uso in prova.
 
 ## Errore tipico
 
-L'errore tipico è compilare la mappa profilo e poi non usarla.
+L’errore tipico è compilare la mappa profilo e poi non usarla.
 
-Molti candidati fanno tabelle, schemi e colori, ma il calendario resta identico: ore distribuite a sensazione, materiali aperti in base all'umore, quiz casuali.
+Molti candidati fanno tabelle, schemi e colori, ma il calendario resta identico: ore distribuite a sensazione, materiali aperti in base all’umore, quiz casuali.
 
 La mappa profilo serve solo se produce decisioni:
 
@@ -441,7 +455,7 @@ La mappa profilo serve solo se produce decisioni:
 - cosa rinvio;
 - cosa alleno con quiz;
 - cosa alleno con risposte scritte;
-- cosa porto all'orale;
+- cosa porto all’orale;
 - cosa entra nel diario errori.
 
 ## Mini-esercizio
@@ -495,9 +509,3 @@ La mappa profilo traduce il bando in una strategia. Il nucleo comune evita di ri
 - [[topics/mappe-profilo]]
 - [[topics/famiglie-concorsuali]]
 - [[topics/nucleo-comune-concorsi-pubblici]]
-
-## Note di review
-
-- Le mappe sono strumenti editoriali del Metodo BANDO: devono sempre essere adattate al bando reale.
-- I profili specialistici non sono coperti in modo enciclopedico dal libro base; i moduli verticali restano materiali integrativi.
-- Prima della pubblicazione finale valutare se trasformare le mappe principali in schede grafiche o appendice compilabile.

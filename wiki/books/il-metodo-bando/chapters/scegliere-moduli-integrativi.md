@@ -26,7 +26,7 @@ Nei capitoli precedenti hai costruito la famiglia concorsuale e la mappa profilo
 
 > Per questo concorso, che cosa aggiungo al libro base e che cosa posso lasciare fuori?
 
-Il mercato dei manuali spesso ti spinge nel senso opposto: un libro nuovo per ogni bando, anche quando l'80% delle materie è già la stessa. Il Metodo BANDO e l'ecosistema ConcorsoBook / Capitale Personale propongono un'altra logica:
+Il mercato dei manuali spesso ti spinge nel senso opposto: un libro nuovo per ogni bando, anche quando l’80% delle materie è già la stessa. Il Metodo BANDO e l’ecosistema ConcorsoBook / Capitale Personale propongono un’altra logica:
 
 > non un libro per ogni concorso, ma un sistema riutilizzabile nel tempo.
 
@@ -41,6 +41,8 @@ Esempio pratico:
 Il modulo integrativo è il **delta specialistico** che completa il nucleo comune quando bando, profilo e prova lo richiedono, non un accumulo di materiali.
 
 ![Figura 21.1 - Mappa BANDO dei moduli integrativi](../assets/chapter-21/01-mappa-bando-moduli-integrativi.png)
+
+*Figura 21.1 - Mappa BANDO dei moduli integrativi*
 
 ## Obiettivo del capitolo
 
@@ -78,9 +80,11 @@ Il ricettario non sostituisce il libro base e non sostituisce il modulo. Lo rend
 
 ![Figura 21.2 - Core, modulo e approfondimento](../assets/chapter-21/02-core-modulo-approfondimento.png)
 
+*Figura 21.2 - Core, modulo e approfondimento*
+
 ## Perché il libro base non contiene tutto
 
-Un libro base serio deve essere autonomo, ma non enciclopedico. Se coprisse in profondità ogni profilo, diventerebbe ingestibile: tributario avanzato, codice della strada dettagliato, sanità specialistica, magistratura, fondi UE avanzati, urbanistica tecnica, carriere delle forze dell'ordine.
+Un libro base serio deve essere autonomo, ma non enciclopedico. Se coprisse in profondità ogni profilo, diventerebbe ingestibile: tributario avanzato, codice della strada dettagliato, sanità specialistica, magistratura, fondi UE avanzati, urbanistica tecnica, carriere delle forze dell’ordine.
 
 Il libro base costruisce il **capitale comune**:
 
@@ -102,16 +106,16 @@ La regola editoriale è ferrea:
 | **Libro base** | Materia trasversale, ricorrente in molte famiglie |
 | **Modulo** | Materia tipica di una famiglia di enti/profili |
 | **Appendice del modulo** | Lacuna di sottoprofili interni alla stessa famiglia |
-| **Altro modulo** | Specializzazione che appartiene chiaramente a un'altra famiglia |
+| **Altro modulo** | Specializzazione che appartiene chiaramente a un’altra famiglia |
 | **Fuori perimetro** | Interessante ma non verificabile in prova o non nel bando |
 
 Il modulo integra il core. Non lo sostituisce. Se studi solo il modulo, perdi la base comune. Se studi solo il core su un profilo verticale, sottovaluti il settore. La preparazione utile nasce dal bilanciamento.
 
-## Che cos'è un modulo integrativo
+## Che cos’è un modulo integrativo
 
 Un modulo integrativo è un blocco di preparazione verticale con quattro caratteristiche:
 
-1. nasce da un'esigenza **ricorrente** della famiglia concorsuale, confermata dai bandi reali;
+1. nasce da un’esigenza **ricorrente** della famiglia concorsuale, confermata dai bandi reali;
 2. copre solo il **delta** non sviluppato abbastanza nel libro base;
 3. ha un **output** verificabile;
 4. ha un **limite** di profondità.
@@ -119,6 +123,8 @@ Un modulo integrativo è un blocco di preparazione verticale con quattro caratte
 Senza questi quattro elementi si tratta di dispersione o di un secondo manuale generico, non di un modulo.
 
 ![Figura 21.3 - Quattro requisiti del modulo](../assets/chapter-21/03-quattro-requisiti-del-modulo.png)
+
+*Figura 21.3 - Quattro requisiti del modulo*
 
 Il modulo **non ripete** amministrativo generale, pubblico impiego generale o logica di base già nel libro. Dice invece:
 
@@ -147,13 +153,13 @@ Il cliente — e tu come candidato — deve capirla in pochi secondi.
 | Infermiere concorsuale | VOL-01 + **VOL-07** (percorso M-SA02) |
 | Profilo ICT trasversale | VOL-01 + **VOL-08** (percorso M-TR01) |
 
-Il modulo si acquista **per famiglia**, non per singolo avviso. Chi ha M-FL01 non deve ripetere l'acquisto a ogni Comune nuovo: aggiorna il bando, non il sistema.
+Il modulo si acquista **per famiglia**, non per singolo avviso. Chi ha M-FL01 non deve ripetere l’acquisto a ogni Comune nuovo: aggiorna il bando, non il sistema.
 
 ### Appendici interne al modulo
 
 In alcuni casi il modulo principale include **appendici** per sottoprofili della stessa famiglia, senza costringerti a un secondo prodotto.
 
-Esempio sul percorso **M-FC01** (Ministeri e PCM): il quadro generale dei reati contro la PA resta in VOL-01; un'appendice può contenere soltanto applicazioni settoriali. Ragioneria applicata ed economia pubblica possono invece essere appendici del percorso quando il bando le richiede senza giustificare un volume autonomo.
+Esempio sul percorso **M-FC01** (Ministeri e PCM): il quadro generale dei reati contro la PA resta in VOL-01; un’appendice può contenere soltanto applicazioni settoriali. Ragioneria applicata ed economia pubblica possono invece essere appendici del percorso quando il bando le richiede senza giustificare un volume autonomo.
 
 Regola: appendice sì se la lacuna è interna alla famiglia; secondo modulo solo se la specializzazione appartiene altrove.
 
@@ -167,11 +173,11 @@ Un secondo modulo si attiva solo se il bando contiene una materia **fuori famigl
 | Tecnico urbanistica in Comune | Libro base + **M-TR03** (eventuale contesto locale nel piano, non modulo locale aggiuntivo) |
 | Amministrativo-contabile in Comune | Libro base + **M-FL01** (contabilità locale dentro il modulo, non un terzo manuale) |
 
-L'eccezione va **motivata sul bando**, non sull'ansia o sull'upsell. Se non riesci a scrivere in una riga perché serve il secondo volume, probabilmente non serve.
+L’eccezione va **motivata sul bando**, non sull’ansia o sull’upsell. Se non riesci a scrivere in una riga perché serve il secondo volume, probabilmente non serve.
 
 ## Il catalogo: sei famiglie, moduli riusabili
 
-L'ecosistema ConcorsoBook organizza i moduli specialistici in **sei famiglie**. Ogni modulo copre una categoria stabile di enti e profili che condivide lessico, materie ricorrenti, normativa di settore, prove tipiche e errori tipici.
+L’ecosistema ConcorsoBook organizza i moduli specialistici in **sei famiglie**. Ogni modulo copre una categoria stabile di enti e profili che condivide lessico, materie ricorrenti, normativa di settore, prove tipiche e errori tipici.
 
 Per il lettore la mappa commerciale e questa:
 
@@ -189,7 +195,7 @@ Per il lettore la mappa commerciale e questa:
 | VOL-11 | Ambiente, protezione civile e sostenibilità | M-TR04 |
 | VOL-12 | Carriere speciali premium | M-SP01, M-SP02, M-SP03, M-SP04 |
 
-I pacchetti seguono una logica minima e trasparente: **Standard** = VOL-01 più uno specialistico; **Verticale** = base, famiglia e appendice/verticale realmente necessario; **Premium** = percorso ad alta barriera. Il pacchetto non autorizza l'accumulo di volumi non richiesti dal bando.
+I pacchetti seguono una logica minima e trasparente: **Standard** = VOL-01 più uno specialistico; **Verticale** = base, famiglia e appendice/verticale realmente necessario; **Premium** = percorso ad alta barriera. Il pacchetto non autorizza l’accumulo di volumi non richiesti dal bando.
 
 | Famiglia | Codici | Cosa copre |
 |---|---|---|
@@ -198,7 +204,7 @@ I pacchetti seguono una logica minima e trasparente: **Standard** = VOL-01 più 
 | **Istruzione e ricerca** | M-IR01 … M-IR04 | Scuola, università/AFAM, enti di ricerca, cultura e beni culturali |
 | **Sanità** | M-SA01 … M-SA04 | Sanità amministrativa, professioni sanitarie, dirigenza medica, tecnici sanitari |
 | **Trasversali ad alta specializzazione** | M-TR01 … M-TR04 | ICT/digitale, appalti/PNRR/fondi UE, tecnico-ingegneristico, ambiente/protezione civile |
-| **Carriere speciali** | M-SP01 … M-SP04 | Forze dell'ordine, vigili del fuoco, magistratura/avvocatura, prefettizia/diplomatica |
+| **Carriere speciali** | M-SP01 … M-SP04 | Forze dell’ordine, vigili del fuoco, magistratura/avvocatura, prefettizia/diplomatica |
 
 Catalogo sintetico (25 moduli):
 
@@ -293,6 +299,8 @@ Risposta non valida: «aver letto il modulo». Risposte valide: quiz mirati, cas
 
 ![Figura 21.4 - I cinque filtri di scelta](../assets/chapter-21/04-cinque-filtri-di-scelta.png)
 
+*Figura 21.4 - I cinque filtri di scelta*
+
 ## Matrice di decisione
 
 Usa questa tabella prima di attivare un modulo.
@@ -309,6 +317,8 @@ Usa questa tabella prima di attivare un modulo.
 | Errore ricorrente in area ad alta resa | Drill nel modulo attivo | Termini, accesso, competenze locali |
 
 ![Figura 21.5 - Matrice di decisione dei moduli](../assets/chapter-21/05-matrice-decisione-moduli.png)
+
+*Figura 21.5 - Matrice di decisione dei moduli*
 
 ## Scheda «acquisto consigliato» (per te, non per il catalogo)
 
@@ -377,6 +387,8 @@ Profilo in amministrazione centrale ma identità concorsuale **digitale**:
 
 ![Figura 21.6 - Atlante operativo dei moduli integrativi](../assets/chapter-21/06-atlante-moduli-integrativi.png)
 
+*Figura 21.6 - Atlante operativo dei moduli integrativi*
+
 ## Scheda modulo integrativo
 
 Compila questa scheda per ogni modulo che attivi (acquistato o costruito con fonti ufficiali).
@@ -405,7 +417,7 @@ Il campo «tempo massimo» è decisivo. Un modulo senza limite tende ad allargar
 1. Il sistema è **libro base + (al massimo) un modulo per famiglia**, non un manuale per bando.
 2. Il modulo contiene solo il **delta specialistico**; il core resta nel libro base.
 3. Il **ricettario** allena; non sostituisce né il core né il modulo.
-4. Il **secondo modulo** è eccezione: va motivato sul bando, non sull'ansia.
+4. Il **secondo modulo** è eccezione: va motivato sul bando, non sull’ansia.
 5. Il **diario** decide se aumentare, ridurre o chiudere il modulo.
 
 ## Caso guidato
@@ -425,11 +437,13 @@ La decisione non è «quale concorso scelgo?». È:
 
 ![Figura 21.7 - Scheda modulo e caso Sara](../assets/chapter-21/07-scheda-modulo-e-caso-sara.png)
 
+*Figura 21.7 - Scheda modulo e caso Sara*
+
 ## Domanda da commissario
 
 **Perché non è corretto preparare ogni concorso come se fosse completamente nuovo?**
 
-Risposta attesa: perché molti concorsi condividono un nucleo comune di materie, metodo e prove. Il candidato deve accumulare **capitale preparatorio** con il libro base e aggiungere moduli mirati solo per le differenze stabili di famiglia, profilo e bando — non ricomprare o restudiare l'80% sovrapposto.
+Risposta attesa: perché molti concorsi condividono un nucleo comune di materie, metodo e prove. Il candidato deve accumulare **capitale preparatorio** con il libro base e aggiungere moduli mirati solo per le differenze stabili di famiglia, profilo e bando — non ricomprare o restudiare l’80% sovrapposto.
 
 ## Domanda-trappola
 
@@ -452,7 +466,7 @@ Prendi un bando reale o simulato e compila la griglia.
 | Quale output produrrò entro 7 giorni? | |
 | Cosa non studierò oltre bando e modulo? | |
 
-Se non riesci a scrivere l'output, il modulo non è ancora definito.
+Se non riesci a scrivere l’output, il modulo non è ancora definito.
 
 ## Errori tipici
 
@@ -477,9 +491,3 @@ Se non riesci a scrivere l'output, il modulo non è ancora definito.
 - [[sources/capitoli-21-23-corpus-moduli-piano-diario-2026-06-01]]
 - [[topics/moduli-integrativi]]
 - [[topics/moduli-profilo]]
-
-## Note di review
-
-- Verificare disponibilità commerciale e stato di pubblicazione dei singoli moduli (scaffold vs pubblicato) prima dell'edizione definitiva.
-- Allineare esempi a bandi rappresentativi aggiornati su inPA.
-- Il capitolo descrive il criterio di scelta nell'ecosistema ConcorsoBook / Capitale Personale; non sostituisce le schede interne dei singoli moduli specialistici.

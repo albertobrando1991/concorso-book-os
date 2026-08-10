@@ -24,13 +24,13 @@ last_compiled_from: ["sources/framework-competenze-trasversali-pa-dm-28-giugno-2
 
 ## Perché non sono domande di buon senso
 
-I quesiti situazionali sembrano facili. Raccontano una scena di lavoro e chiedono quale comportamento sia più adeguato. Il candidato legge le opzioni e pensa: "Basta scegliere la risposta più gentile" oppure "basta scegliere la risposta più rigida". Entrambi gli approcci sono sbagliati.
+I quesiti situazionali sembrano facili. Raccontano una scena di lavoro e chiedono quale comportamento sia più adeguato. Il candidato legge le opzioni e pensa: “Basta scegliere la risposta più gentile” oppure “basta scegliere la risposta più rigida”. Entrambi gli approcci sono sbagliati.
 
 Nel concorso pubblico, una risposta situazionale non misura simpatia, carattere o moralismo. Misura la capacità di agire dentro una pubblica amministrazione. Questo significa rispettare regole, competenza, imparzialità, riservatezza, collaborazione, servizio al cittadino, tracciabilità e responsabilità.
 
-La risposta più efficace non è sempre quella più veloce. Non è sempre quella più accomodante. Non è sempre quella che "risolve tutto da soli". È quella più coerente con il ruolo pubblico.
+La risposta più efficace non è sempre quella più veloce. Non è sempre quella più accomodante. Non è sempre quella che “risolve tutto da soli”. È quella più coerente con il ruolo pubblico.
 
-Esempio: un cittadino chiede informazioni su una pratica intestata a un parente. La risposta empatica potrebbe essere "gliele do, così lo aiuto". Ma se quei dati non possono essere comunicati a quella persona, la risposta empatica è sbagliata. La risposta corretta sarà cortese, chiara, utile, ma rispettosa di privacy e canali corretti.
+Esempio: un cittadino chiede informazioni su una pratica intestata a un parente. La risposta empatica potrebbe essere “gliele do, così lo aiuto”. Ma se quei dati non possono essere comunicati a quella persona, la risposta empatica è sbagliata. La risposta corretta sarà cortese, chiara, utile, ma rispettosa di privacy e canali corretti.
 
 Questo è il punto del capitolo:
 
@@ -38,7 +38,7 @@ Questo è il punto del capitolo:
 
 ## Obiettivo del capitolo
 
-Questo capitolo ti insegna a riconoscere la logica dei quesiti situazionali, scegliere l'opzione più efficace, evitare le trappole e allenare le competenze trasversali richieste nei concorsi.
+Questo capitolo ti insegna a riconoscere la logica dei quesiti situazionali, scegliere l’opzione più efficace, evitare le trappole e allenare le competenze trasversali richieste nei concorsi.
 
 Alla fine dovrai saper:
 
@@ -50,6 +50,8 @@ Alla fine dovrai saper:
 - usare il diario per correggere errori comportamentali.
 
 ![Figura 18.1 - Mappa BANDO dei quesiti situazionali: dal bando alla scelta motivata, con scenario, criteri, diario e output.](../assets/chapter-18/01-mappa-bando-quesiti-situazionali.png)
+
+*Figura 18.1 - Mappa BANDO dei quesiti situazionali: dal bando alla scelta motivata, con scenario, criteri, diario e output.*
 
 ## Le competenze trasversali nella PA
 
@@ -64,9 +66,11 @@ Le fonti istituzionali più recenti hanno reso esplicito un passaggio importante
 
 Il modello richiama anche tre valori trasversali: integrità, inclusione e sostenibilità.
 
-Per il concorso, non devi imparare questa lista come se fosse una poesia. Devi usarla per capire cosa rende una risposta migliore di un'altra.
+Per il concorso, non devi imparare questa lista come se fosse una poesia. Devi usarla per capire cosa rende una risposta migliore di un’altra.
 
 ![Figura 18.2 - Competenze trasversali nella PA: capire il contesto, interagire, realizzare valore e gestire risorse dentro integrità, inclusione e sostenibilità.](../assets/chapter-18/02-competenze-trasversali-pa.png)
+
+*Figura 18.2 - Competenze trasversali nella PA: capire il contesto, interagire, realizzare valore e gestire risorse dentro integrità, inclusione e sostenibilità.*
 
 ## Mappa BANDO dei quesiti situazionali
 
@@ -103,55 +107,59 @@ La risposta migliore è quella che combina servizio, competenza, prudenza e trac
 
 ![Figura 18.3 - Anatomia del quesito situazionale: scenario, ruolo, tensione, opzioni e richiesta vanno letti separatamente.](../assets/chapter-18/03-anatomia-quesito-situazionale.png)
 
+*Figura 18.3 - Anatomia del quesito situazionale: scenario, ruolo, tensione, opzioni e richiesta vanno letti separatamente.*
+
 ## La gerarchia di scelta
 
 Quando hai dubbi, usa questa gerarchia.
 
 ### 1. Legalità e competenza
 
-Prima domanda: l'opzione rispetta regole, ruoli e competenza?
+Prima domanda: l’opzione rispetta regole, ruoli e competenza?
 
-Se un'opzione propone di aggirare una procedura, usare dati senza titolo, promettere un esito o decidere fuori ruolo, di solito è debole anche se sembra utile.
+Se un’opzione propone di aggirare una procedura, usare dati senza titolo, promettere un esito o decidere fuori ruolo, di solito è debole anche se sembra utile.
 
 ### 2. Imparzialità e integrità
 
-Seconda domanda: l'opzione tratta persone e interessi in modo imparziale?
+Seconda domanda: l’opzione tratta persone e interessi in modo imparziale?
 
 Scarta risposte che favoriscono amici, conoscenti, utenti insistenti o colleghi per convenienza personale.
 
 ### 3. Riservatezza
 
-Terza domanda: l'opzione protegge dati e informazioni d'ufficio?
+Terza domanda: l’opzione protegge dati e informazioni d’ufficio?
 
 Un comportamento molto collaborativo ma indiscreto è scorretto.
 
 ### 4. Orientamento al servizio
 
-Quarta domanda: l'opzione aiuta l'utente o il collega a trovare il percorso corretto?
+Quarta domanda: l’opzione aiuta l’utente o il collega a trovare il percorso corretto?
 
 La legalità non significa freddezza. Una risposta corretta deve essere anche chiara, rispettosa e utile.
 
 ### 5. Collaborazione
 
-Quinta domanda: l'opzione coinvolge la persona giusta quando serve?
+Quinta domanda: l’opzione coinvolge la persona giusta quando serve?
 
 Risolvere tutto da soli può essere sbagliato se il problema supera il proprio ruolo. Scaricare tutto su altri può essere altrettanto sbagliato.
 
 ### 6. Tracciabilità e responsabilità
 
-Sesta domanda: l'opzione lascia traccia e consente controllo?
+Sesta domanda: l’opzione lascia traccia e consente controllo?
 
 Nel pubblico, molte azioni corrette devono essere documentate: comunicazioni, segnalazioni, istruzioni, passaggi di pratica.
 
 ![Figura 18.4 - Gerarchia di scelta: legalità e competenza vengono prima, poi imparzialità, riservatezza, servizio, collaborazione e tracciabilità.](../assets/chapter-18/04-gerarchia-di-scelta.png)
 
+*Figura 18.4 - Gerarchia di scelta: legalità e competenza vengono prima, poi imparzialità, riservatezza, servizio, collaborazione e tracciabilità.*
+
 ## Le quattro risposte deboli più frequenti
 
-### 1. La risposta "buonista"
+### 1. La risposta “buonista”
 
 Sembra orientata al cittadino, ma aggira regole o dati.
 
-Esempio: "Gli fornisco subito tutte le informazioni sulla pratica del familiare per evitare disagi."
+Esempio: “Gli fornisco subito tutte le informazioni sulla pratica del familiare per evitare disagi.”
 
 Problema: non verifica titolo, delega, privacy e canale corretto.
 
@@ -159,15 +167,15 @@ Problema: non verifica titolo, delega, privacy e canale corretto.
 
 Sembra rispettare la regola, ma non offre servizio.
 
-Esempio: "Dico al cittadino che non posso aiutarlo e chiudo la conversazione."
+Esempio: “Dico al cittadino che non posso aiutarlo e chiudo la conversazione.”
 
-Problema: il dipendente deve almeno orientare verso l'ufficio o la procedura corretta.
+Problema: il dipendente deve almeno orientare verso l’ufficio o la procedura corretta.
 
 ### 3. La risposta passiva
 
 Evita il rischio, ma non gestisce il problema.
 
-Esempio: "Aspetto che il responsabile se ne accorga."
+Esempio: “Aspetto che il responsabile se ne accorga.”
 
 Problema: se il dipendente può segnalare, verificare o instradare, deve farlo.
 
@@ -175,11 +183,13 @@ Problema: se il dipendente può segnalare, verificare o instradare, deve farlo.
 
 Mostra iniziativa, ma supera ruolo o competenza.
 
-Esempio: "Decido personalmente come trattare la pratica anche se non è mia."
+Esempio: “Decido personalmente come trattare la pratica anche se non è mia.”
 
 Problema: iniziativa non significa agire fuori perimetro.
 
 ![Figura 18.5 - Le quattro risposte deboli: buonismo, rigidità, passività e iniziativa fuori ruolo sono trappole ricorrenti.](../assets/chapter-18/05-quattro-risposte-deboli.png)
+
+*Figura 18.5 - Le quattro risposte deboli: buonismo, rigidità, passività e iniziativa fuori ruolo sono trappole ricorrenti.*
 
 ## Esempi guidati
 
@@ -204,7 +214,7 @@ perché: combina ascolto, servizio, competenza e tracciabilità. A è passiva e 
 
 A. Fornire le informazioni, perché si tratta di un familiare.
 B. Rifiutare in modo secco ogni contatto.
-C. Spiegare che servono canali e verifiche corrette, indicando come presentare delega o richiesta secondo le regole dell'ente.
+C. Spiegare che servono canali e verifiche corrette, indicando come presentare delega o richiesta secondo le regole dell’ente.
 D. Chiedere al collega se conosce il fratello per confermare informalmente.
 
 **Risposta più efficace: C.**
@@ -218,7 +228,7 @@ perché: tutela dati e servizio. Non chiude il rapporto, ma lo porta nel canale 
 A. Ignorare il problema per evitare tensioni.
 B. Correggere di nascosto tutti i suoi errori.
 C. Segnalare subito il collega al dirigente chiedendo una sanzione.
-D. Confrontarsi in modo collaborativo, aiutare a individuare la procedura corretta e coinvolgere il responsabile se l'errore continua o ha impatti rilevanti.
+D. Confrontarsi in modo collaborativo, aiutare a individuare la procedura corretta e coinvolgere il responsabile se l’errore continua o ha impatti rilevanti.
 
 **Risposta più efficace: D.**
 
@@ -226,7 +236,7 @@ perché: unisce collaborazione, accuratezza e responsabilità. A è passiva. B n
 
 ### Quesito 4 - Pressione di un conoscente
 
-**Scenario.** Un conoscente ti chiede di "dare un'occhiata" alla sua pratica per sapere se può essere velocizzata.
+**Scenario.** Un conoscente ti chiede di “dare un’occhiata” alla sua pratica per sapere se può essere velocizzata.
 
 A. Consultare la pratica fuori dai canali normali, tanto è solo una verifica.
 B. Spiegare che non puoi trattare informalmente pratiche di conoscenti e indicare i canali ufficiali.
@@ -242,17 +252,17 @@ perché: tutela imparzialità, riservatezza e tracciabilità. Le altre opzioni c
 **Scenario.** Ti accorgi di aver inviato a un ufficio interno una comunicazione con un dato non necessario. Non sai se sia grave.
 
 A. Non dire nulla, perché probabilmente nessuno se ne accorgerà.
-B. Cancellare l'email dal tuo computer.
-C. Informare il responsabile secondo le procedure interne, descrivendo l'accaduto e collaborando alla correzione.
+B. Cancellare l’email dal tuo computer.
+C. Informare il responsabile secondo le procedure interne, descrivendo l’accaduto e collaborando alla correzione.
 D. Chiedere al destinatario di far finta di nulla.
 
 **Risposta più efficace: C.**
 
-perché: riconosce l'errore, attiva la responsabilità organizzativa e consente valutazione corretta. Le altre opzioni coprono o minimizzano il problema.
+perché: riconosce l’errore, attiva la responsabilità organizzativa e consente valutazione corretta. Le altre opzioni coprono o minimizzano il problema.
 
 ### Quesito 6 - Carico di lavoro e scadenza
 
-**Scenario.** Hai troppe pratiche e una scadenza ravvicinata. Un collega ti chiede aiuto su un'attività non urgente.
+**Scenario.** Hai troppe pratiche e una scadenza ravvicinata. Un collega ti chiede aiuto su un’attività non urgente.
 
 A. Accettare comunque, anche se salterai la scadenza.
 B. Rifiutare bruscamente.
@@ -265,12 +275,12 @@ perché: gestisce priorità, collaborazione e responsabilità. A sacrifica un ob
 
 ### Quesito 7 - Regola non chiara
 
-**Scenario.** Un utente chiede una risposta immediata su un requisito. Tu non sei sicuro dell'interpretazione corretta.
+**Scenario.** Un utente chiede una risposta immediata su un requisito. Tu non sei sicuro dell’interpretazione corretta.
 
 A. Dare una risposta a intuito, per non farlo aspettare.
 B. Dire che non sai e chiudere la conversazione.
 C. Chiarire che serve verifica, consultare fonte o responsabile competente e indicare tempi o canale per una risposta affidabile.
-D. Invitare l'utente a cercare online.
+D. Invitare l’utente a cercare online.
 
 **Risposta più efficace: C.**
 
@@ -282,18 +292,20 @@ perché: accuratezza e servizio valgono più della risposta improvvisata. A è r
 
 A. Prendere posizione davanti agli utenti.
 B. Ignorare la scena.
-C. Invitare a spostare il confronto fuori dall'area pubblica, mantenere il servizio e chiarire poi competenza o procedura con il responsabile.
-D. Dire agli utenti che l'ufficio è disorganizzato.
+C. Invitare a spostare il confronto fuori dall’area pubblica, mantenere il servizio e chiarire poi competenza o procedura con il responsabile.
+D. Dire agli utenti che l’ufficio è disorganizzato.
 
 **Risposta più efficace: C.**
 
-perché: protegge il servizio, l'immagine dell'ente e la gestione organizzativa. A e D peggiorano il conflitto; B non interviene su un disservizio visibile.
+perché: protegge il servizio, l’immagine dell’ente e la gestione organizzativa. A e D peggiorano il conflitto; B non interviene su un disservizio visibile.
 
 ![Figura 18.6 - Lettura guidata delle opzioni: classificare ogni alternativa come scorretta, debole, accettabile o efficace prima di scegliere.](../assets/chapter-18/06-lettura-guidata-opzioni.png)
 
+*Figura 18.6 - Lettura guidata delle opzioni: classificare ogni alternativa come scorretta, debole, accettabile o efficace prima di scegliere.*
+
 ## Come allenarsi
 
-L'allenamento sui quesiti situazionali è diverso dal ripasso teorico. Non limitarti a leggere le soluzioni: spiega perché un'opzione è migliore.
+L’allenamento sui quesiti situazionali è diverso dal ripasso teorico. Non limitarti a leggere le soluzioni: spiega perché un’opzione è migliore.
 
 Usa questa routine:
 
@@ -302,7 +314,7 @@ Usa questa routine:
 3. segnala il rischio principale;
 4. elimina opzioni illegittime o scorrette;
 5. elimina opzioni passive o sproporzionate;
-6. scegli l'opzione più equilibrata;
+6. scegli l’opzione più equilibrata;
 7. scrivi una riga di motivazione.
 
 Se non sai motivare la scelta, non hai davvero capito il quesito.
@@ -313,7 +325,7 @@ Classifica ogni errore.
 
 | Errore | Segnale |
 |---|---|
-| Troppa empatia | Aiuti l'utente violando canali, dati o procedure. |
+| Troppa empatia | Aiuti l’utente violando canali, dati o procedure. |
 | Troppa rigidità | Rispetti la regola ma non orienti nessuno. |
 | passività | Aspetti che altri risolvano anche quando puoi segnalare o instradare. |
 | Invasione di competenza | Agisci fuori ruolo per sembrare efficace. |
@@ -322,9 +334,11 @@ Classifica ogni errore.
 | Comunicazione | Rispondi in modo brusco, vago o non verificato. |
 | Stress | Scegli la risposta più rapida invece della più corretta. |
 
-Dopo dieci quesiti, guarda la categoria più frequente. Se sbagli per "troppa empatia", devi allenarti su privacy, imparzialità e canali. Se sbagli per "troppa rigidità", devi allenarti su orientamento al cittadino. Se sbagli per "invasione di competenza", devi ripassare ruoli e responsabilità.
+Dopo dieci quesiti, guarda la categoria più frequente. Se sbagli per “troppa empatia”, devi allenarti su privacy, imparzialità e canali. Se sbagli per “troppa rigidità”, devi allenarti su orientamento al cittadino. Se sbagli per “invasione di competenza”, devi ripassare ruoli e responsabilità.
 
-![Figura 18.7 - Routine e diario degli errori situazionali: allenare il criterio di scelta e registrare la categoria dell'errore.](../assets/chapter-18/07-routine-diario-errori-situazionali.png)
+![Figura 18.7 - Routine e diario degli errori situazionali: allenare il criterio di scelta e registrare la categoria dell’errore.](../assets/chapter-18/07-routine-diario-errori-situazionali.png)
+
+*Figura 18.7 - Routine e diario degli errori situazionali: allenare il criterio di scelta e registrare la categoria dell’errore.*
 
 ## Mini-drill
 
@@ -333,8 +347,8 @@ Per ognuna delle seguenti situazioni, scrivi il comportamento più efficace in d
 | Situazione | Comportamento |
 |---|---|
 | Un cittadino chiede una corsia preferenziale perché conosce un assessore. | |
-| Un collega ti chiede la password per "fare prima". | |
-| Un utente vuole sapere dati di un'altra persona. | |
+| Un collega ti chiede la password per “fare prima”. | |
+| Un utente vuole sapere dati di un’altra persona. | |
 | Il responsabile non è presente e arriva una richiesta urgente. | |
 | Ti accorgi di un errore in una comunicazione già inviata. | |
 
@@ -354,9 +368,9 @@ Traccia di correzione:
 
 ## Domanda-trappola
 
-**Domanda:** Nei quesiti situazionali bisogna sempre scegliere l'opzione più disponibile verso il cittadino?
+**Domanda:** Nei quesiti situazionali bisogna sempre scegliere l’opzione più disponibile verso il cittadino?
 
-No. L'orientamento al cittadino è essenziale, ma non può violare regole, dati, competenze o imparzialità. La migliore risposta è quella che aiuta l'utente nel percorso corretto, senza promettere esiti, senza favoritismi e senza scorciatoie informali.
+No. L’orientamento al cittadino è essenziale, ma non può violare regole, dati, competenze o imparzialità. La migliore risposta è quella che aiuta l’utente nel percorso corretto, senza promettere esiti, senza favoritismi e senza scorciatoie informali.
 
 ## Collegamenti con gli altri capitoli
 
@@ -387,8 +401,3 @@ No. L'orientamento al cittadino è essenziale, ma non può violare regole, dati,
 - [[topics/soft-skills-pa]]
 - [[topics/etica-pubblica]]
 - [[topics/orientamento-al-cittadino]]
-
-## Note di review
-
-- Gli esempi sono originali e non riproducono domande ufficiali.
-- Prima della pubblicazione finale verificare eventuali aggiornamenti DFP/SNA sulle competenze trasversali e controllare il bando specifico per numero di quesiti, lingua, soglie e punteggi.

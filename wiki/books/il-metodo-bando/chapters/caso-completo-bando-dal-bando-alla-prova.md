@@ -20,7 +20,7 @@ draft_stage: revised-editorial-draft
 last_compiled_from: ["sources/caso-completo-bando-prova-metodo-bando.md", "topics/caso-completo-metodo-bando.md", "topics/metodo-bando.md", "topics/bando-decoder.md", "topics/piano-30-60-90-giorni.md", "topics/diario-errori.md", "topics/simulazioni-concorsuali.md", "topics/ripasso-finale-concorsi.md", "topics/giorno-prova-concorso.md"]
 ---
 
-# Capitolo 41 - Caso completo BANDO: dal bando alla prova
+# R17 - Caso completo BANDO: dal bando alla prova
 
 Finora hai visto il Metodo BANDO a pezzi.
 
@@ -34,7 +34,7 @@ Il Bando Decoder non serve a fare una bella scheda.
 
 Piano, Diario degli errori e simulazione lavorano insieme per portarti da un bando reale a una prova eseguita con ordine.
 
-Questo capitolo è un laboratorio. Useremo un bando fittizio ma realistico e seguiremo un candidato dall'apertura del file alla prova. Non dovrai ricordare nuove regole. Dovrai vedere il metodo in movimento.
+Questo capitolo è un laboratorio. Useremo un bando fittizio ma realistico e seguiremo un candidato dall’apertura del file alla prova. Non dovrai ricordare nuove regole. Dovrai vedere il metodo in movimento.
 
 ## Obiettivo del capitolo
 
@@ -58,7 +58,9 @@ La regola guida è:
 
 ![Mappa del caso completo](../assets/chapter-41/01-mappa-caso-completo.png)
 
-Marta lavora part-time e prepara concorsi amministrativi. Ha già studiato diritto amministrativo di base, qualche nozione di pubblico impiego, un po' di trasparenza e una banca dati di quiz generica. Ha anche molti appunti, ma non sa più quali siano davvero utili.
+*Figura 41.1 - Mappa del caso completo.*
+
+Marta lavora part-time e prepara concorsi amministrativi. Ha già studiato diritto amministrativo di base, qualche nozione di pubblico impiego, un po’ di trasparenza e una banca dati di quiz generica. Ha anche molti appunti, ma non sa più quali siano davvero utili.
 
 Trova un bando per un profilo amministrativo in un ente locale. Il bando è fittizio: serve solo come esercizio.
 
@@ -87,9 +89,11 @@ Prima del materiale, viene il bando.
 
 ![Estrazione dei dati decisivi dal bando](../assets/chapter-41/02-estrazione-dati-bando.png)
 
-La prima fase non chiede: "che cosa devo studiare?".
+*Figura 41.2 - Estrazione dei dati decisivi dal bando.*
 
-Chiede: "quale prova devo superare?".
+La prima fase non chiede: “che cosa devo studiare?”.
+
+Chiede: “quale prova devo superare?”.
 
 Marta compila il Bando Decoder in forma sintetica.
 
@@ -105,13 +109,15 @@ Marta compila il Bando Decoder in forma sintetica.
 | Rischio principale | sottovalutare enti locali e arrivare lenta sui quiz |
 | Prima decisione | costruire piano 30 giorni con simulazioni dalla seconda settimana |
 
-Questa tabella ha già prodotto una scelta: Marta non studierà "tutto il diritto amministrativo". Studierà il nucleo amministrativo utile a quella prova, con attenzione al profilo ente locale.
+Questa tabella ha già prodotto una scelta: Marta non studierà “tutto il diritto amministrativo”. Studierà il nucleo amministrativo utile a quella prova, con attenzione al profilo ente locale.
 
 **Errore evitato:** partire dal manuale più grande solo per sentirsi al sicuro.
 
 ## Fase A - Aree: dividere il concorso in blocchi governabili
 
 ![Dalle aree del programma ai nuclei indispensabili](../assets/chapter-41/03-aree-nuclei.png)
+
+*Figura 41.3 - Dalle aree del programma ai nuclei indispensabili.*
 
 La lista delle materie del bando sembra piatta. Nel piano, invece, non può restare piatta.
 
@@ -136,14 +142,14 @@ Marta ora costruisce la lista dei nuclei. Non è un programma completo. È la li
 
 | Area | Nuclei caldi | Output atteso |
 |---|---|---|
-| Amministrativo | procedimento, provvedimento, accesso, trasparenza, responsabilità | riconoscere definizioni, rispondere a quiz, spiegare all'orale |
+| Amministrativo | procedimento, provvedimento, accesso, trasparenza, responsabilità | riconoscere definizioni, rispondere a quiz, spiegare all’orale |
 | Pubblico impiego | doveri, codice di comportamento, responsabilità, organizzazione | collegare regole e condotte |
 | Enti locali | organi, competenze, atti, servizi, controlli | distinguere chi fa che cosa |
 | Privacy e trasparenza | accesso, pubblicazione, dati personali, bilanciamento | evitare risposte automatiche |
 | Informatica | file, PEC, identità digitale, sicurezza base | rispondere a quiz semplici |
 | Logica | comprensione, esclusione alternative, tempo | non perdere minuti su quesiti bloccanti |
 
-La parola decisiva è "disponibile".
+La parola decisiva è “disponibile”.
 
 Un nucleo è disponibile se Marta riesce a:
 
@@ -155,11 +161,13 @@ Un nucleo è disponibile se Marta riesce a:
 
 Studiare senza verificare disponibilità produce sicurezza apparente.
 
-Il Metodo BANDO non chiede a Marta di "vedere" un argomento. Le chiede di produrre qualcosa con quell'argomento.
+Il Metodo BANDO non chiede a Marta di “vedere” un argomento. Le chiede di produrre qualcosa con quell’argomento.
 
 ## Fase D - Diario: rendere visibili errori e decisioni
 
 ![Diario che trasforma gli errori in decisioni](../assets/chapter-41/04-diario-decisioni.png)
+
+*Figura 41.4 - Diario che trasforma gli errori in decisioni.*
 
 Marta apre il Diario degli errori prima di fare molte prove.
 
@@ -186,6 +194,8 @@ Se un errore non cambia il piano, resta memoria passiva.
 
 ![Output settimanali che rendono verificabile lo studio](../assets/chapter-41/05-output-settimanale.png)
 
+*Figura 41.5 - Output settimanali che rendono verificabile lo studio.*
+
 Ogni settimana deve produrre almeno un output misurabile.
 
 Marta definisce quattro output.
@@ -199,15 +209,17 @@ Marta definisce quattro output.
 
 Il piano cambia tono.
 
-Non è più "lunedi amministrativo, martedi enti locali, mercoledi privacy".
+Non è più “lunedì amministrativo, martedì enti locali, mercoledì privacy”.
 
-È "che cosa devo essere capace di fare entro domenica?".
+È “che cosa devo essere capace di fare entro domenica?”.
 
 Questa domanda rende il piano controllabile.
 
 ## Piano a 30 giorni del caso
 
 ![Piano a trenta giorni con traguardi e simulazione](../assets/chapter-41/06-piano-trenta-giorni.png)
+
+*Figura 41.6 - Piano a trenta giorni con traguardi e simulazione.*
 
 Marta ha circa 18 ore a settimana. Non sono poche, ma non sono infinite.
 
@@ -331,7 +343,7 @@ Marta usa il metodo.
 La simulazione le dice:
 
 - enti locali resta priorità;
-- la conoscenza non è l'unico problema;
+- la conoscenza non è l’unico problema;
 - deve allenare salto e ritorno;
 - privacy/trasparenza richiede una scheda confronto;
 - il tempo è quasi tutto consumato, quindi la prova va gestita in giri.
@@ -363,7 +375,7 @@ Usa una matrice.
 | logica con quesiti lunghi | sì | si | no |
 | manuale secondario | no | no | sì |
 
-La colonna "lascio" non è rinuncia.
+La colonna “lascio” non è rinuncia.
 
 È protezione del piano.
 
@@ -409,7 +421,7 @@ Non contiene:
 
 - manuali interi;
 - appunti non letti;
-- materiali ricevuti all'ultimo;
+- materiali ricevuti all’ultimo;
 - dispense doppie;
 - simulazioni non corrette;
 - promemoria senza decisione.
@@ -453,7 +465,7 @@ La strategia è già stata provata.
 Prima di uscire controlla:
 
 - documento;
-- convocazione o ricevuta richiesta dall'avviso;
+- convocazione o ricevuta richiesta dall’avviso;
 - orario;
 - sede;
 - mezzi e margine di tempo;
@@ -468,7 +480,7 @@ Durante la prova applica tre giri:
 | Secondo | affronta incerte e medie | cambiare risposte senza motivo |
 | Terzo | rivede residue e compilazione | consegnare senza controllo |
 
-Quando incontra una domanda lunga di logica, non la trasforma in prova d'orgoglio. La segna e passa oltre.
+Quando incontra una domanda lunga di logica, non la trasforma in prova d’orgoglio. La segna e passa oltre.
 
 Quando incontra una domanda su enti locali, usa la scheda mentale organo/competenza/atto.
 
@@ -480,7 +492,7 @@ La rende disponibile nel momento in cui serve.
 
 ## Dopo la prova: chiudere il ciclo
 
-Finita la prova, Marta non sa ancora l'esito ufficiale.
+Finita la prova, Marta non sa ancora l’esito ufficiale.
 
 però può già salvare capitale di studio.
 
@@ -517,6 +529,8 @@ Ogni dato può diventare capitale.
 
 ![Caso completo: dal bando al giorno della prova](../assets/chapter-41/07-caso-marta.png)
 
+*Figura 41.7 - Caso completo: dal bando al giorno della prova.*
+
 A meta percorso Marta riceve da un gruppo online un file di 200 pagine.
 
 Il file sembra completo. Contiene schemi, quiz, appunti e commenti. Il primo impulso è inserirlo nel piano.
@@ -541,9 +555,9 @@ Questa è una decisione matura: usare una risorsa senza farsi usare dalla risors
 
 ## Domanda da commissario
 
-**Domanda:** Che cosa distingue l'applicazione completa del Metodo BANDO da un normale piano di studio?
+**Domanda:** Che cosa distingue l’applicazione completa del Metodo BANDO da un normale piano di studio?
 
-**Risposta efficace:** un normale piano distribuisce ore e materie. L'applicazione completa del Metodo BANDO parte dal bando, individua aree e nuclei, registra errori, produce output e corregge il piano in base a simulazioni e dati. Il metodo non organizza solo il tempo: collega preparazione, prova e decisioni.
+**Risposta efficace:** un normale piano distribuisce ore e materie. L’applicazione completa del Metodo BANDO parte dal bando, individua aree e nuclei, registra errori, produce output e corregge il piano in base a simulazioni e dati. Il metodo non organizza solo il tempo: collega preparazione, prova e decisioni.
 
 ## Domanda-trappola
 
@@ -553,7 +567,7 @@ Questa è una decisione matura: usare una risorsa senza farsi usare dalla risors
 
 ## Errore tipico
 
-L'errore tipico è usare il Metodo BANDO come archivio di schede.
+L’errore tipico è usare il Metodo BANDO come archivio di schede.
 
 Il candidato compila il Decoder, apre un diario, crea tabelle e poi continua a studiare come prima.
 
@@ -637,7 +651,7 @@ Prima di dire che stai usando davvero il Metodo BANDO, verifica:
 - ogni settimana produce un output controllabile?
 - ho fatto almeno una simulazione corretta con criterio?
 - la simulazione ha cambiato una decisione?
-- ho una colonna "lascio" nel piano?
+- ho una colonna “lascio” nel piano?
 - ho un fascicolo finale leggero?
 - ho una routine per il giorno della prova?
 - ho previsto una scheda post-prova?
@@ -665,9 +679,3 @@ Significa che il metodo ti sta mostrando dove rimettere ordine.
 - [[topics/diario-errori]]
 - [[topics/simulazioni-concorsuali]]
 - [[topics/ripasso-finale-concorsi]]
-
-## Note di review
-
-- Il bando usato nel capitolo è fittizio e serve solo a mostrare l'applicazione del metodo; eventuali esempi reali richiedono verifica su fonti ufficiali della procedura specifica.
-- In impaginazione valutare se il capitolo debba diventare un laboratorio con pagine compilabili separate: Decoder ridotto, matrice nuclei, diario, dossier simulazione e scheda post-prova.
-- Coordinare in revisione finale con Appendice C, Appendice D e Capitoli 34, 38, 39 e 40 per evitare duplicazioni grafiche.

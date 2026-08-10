@@ -21,9 +21,9 @@ last_compiled_from: ["sources/sostenibilita-preparazione-concorsi-metodo-bando.m
 last_humanizer_revision: 2026-07-24
 ---
 
-# Capitolo 29 - Reggere la preparazione: energia, ansia e continuità
+# R5 - Reggere la preparazione: energia, ansia e continuità
 
-> Modulo ricettario **R5** — sostenibilità, recupero e continuità. Collega Cap. 13, Cap. 22 e Cap. 24.
+> sostenibilità, recupero e continuità. Collega Cap. 13, Cap. 22 e Cap. 24.
 
 La preparazione si indebolisce per accumulo.
 
@@ -40,10 +40,10 @@ Qui trovi procedure da applicare nei giorni in cui il piano è sotto pressione.
 Alla fine del capitolo saprai:
 
 - distinguere piano ideale e piano sostenibile;
-- modulare lo studio in base all'energia reale;
+- modulare lo studio in base all’energia reale;
 - usare il minimo efficace nei giorni difficili;
 - recuperare ritardi senza distruggere la settimana successiva;
-- leggere l'ansia come segnale operativo;
+- leggere l’ansia come segnale operativo;
 - proteggere ripassi, simulazioni e Diario degli errori;
 - costruire una routine pre-prova;
 - capire quando serve alleggerire, tagliare o chiedere supporto.
@@ -55,6 +55,8 @@ La regola è questa:
 ## Mappa BANDO della sostenibilità
 
 ![Figura 29.1 - Mappa BANDO della sostenibilità: quando la pressione sale, torna a bando, aree, nuclei, diario e output.](../assets/chapter-29/01-mappa-bando-sostenibilita.png)
+
+*Figura 29.1 - Mappa BANDO della sostenibilità: quando la pressione sale, torna a bando, aree, nuclei, diario e output.*
 
 | Fase | Rischio quando sei sotto pressione | Azione di tenuta |
 |---|---|---|
@@ -68,11 +70,13 @@ Quando la pressione sale, torna alla catena BANDO invece di moltiplicare lo stud
 
 ## Energia alta, media, bassa, minima
 
-![Figura 29.2 - Scala dell'energia: assegna simulazioni, quiz, correzione e minimo efficace al livello di energia reale.](../assets/chapter-29/02-scala-energia-studio.png)
+![Figura 29.2 - Scala dell’energia: assegna simulazioni, quiz, correzione e minimo efficace al livello di energia reale.](../assets/chapter-29/02-scala-energia-studio.png)
+
+*Figura 29.2 - Scala dell’energia: assegna simulazioni, quiz, correzione e minimo efficace al livello di energia reale.*
 
 Le ore disponibili non hanno tutte lo stesso rendimento.
 
-Un'ora dopo una giornata ordinata non è uguale a un'ora dopo lavoro, viaggio, imprevisti e sonno scarso. Il calendario deve prevederlo.
+Un’ora dopo una giornata ordinata non è uguale a un’ora dopo lavoro, viaggio, imprevisti e sonno scarso. Il calendario deve prevederlo.
 
 | Energia | Cosa puoi fare | Cosa evitare |
 |---|---|---|
@@ -81,13 +85,15 @@ Un'ora dopo una giornata ordinata non è uguale a un'ora dopo lavoro, viaggio, i
 | Bassa | correzione errori, rilettura mirata, 10 domande brevi | pretendere studio profondo |
 | Minima | controllare piano, salvare fonte, una flashcard, una domanda orale | recuperare tutto |
 
-La preparazione sostenibile usa l'energia alta per gli output difficili e l'energia bassa per mantenere il sistema. Il candidato che usa le ore migliori per copiare appunti e le ore peggiori per simulare si mette da solo in difficoltà.
+La preparazione sostenibile usa l’energia alta per gli output difficili e l’energia bassa per mantenere il sistema. Il candidato che usa le ore migliori per copiare appunti e le ore peggiori per simulare si mette da solo in difficoltà.
 
 ## Il minimo efficace
 
 ![Figura 29.3 - Minimo efficace: micro-output che mantengono vivo il metodo nei giorni difficili.](../assets/chapter-29/03-minimo-efficace.png)
 
-Nei giorni difficili chiediti: "Qual è il minimo che mantiene vivo il metodo?".
+*Figura 29.3 - Minimo efficace: micro-output che mantengono vivo il metodo nei giorni difficili.*
+
+Nei giorni difficili chiediti: “Qual è il minimo che mantiene vivo il metodo?”.
 
 Il minimo efficace può essere:
 
@@ -118,15 +124,15 @@ Esempio su una settimana da 8-10 ore reali:
 
 | Giorno | Blocco principale | Funzione |
 |---|---|---|
-| Lunedi | nucleo nuovo o difficile | studio |
-| Martedi | quiz mirati + correzione | output + correzione |
-| Mercoledi | richiamo su materia già vista | richiamo |
-| Giovedi | caso o risposta sintetica | output |
-| Venerdi | ripasso errori ricorrenti | ripasso + correzione |
+| Lunedì | nucleo nuovo o difficile | studio |
+| Martedì | quiz mirati + correzione | output + correzione |
+| Mercoledì | richiamo su materia già vista | richiamo |
+| Giovedì | caso o risposta sintetica | output |
+| Venerdì | ripasso errori ricorrenti | ripasso + correzione |
 | Sabato | simulazione breve o orale | output |
 | Domenica pomeriggio | recupero leggero + revisione piano | finestra recupero |
 
-Non devi replicare questa griglia alla lettera. Devi verificare che nella settimana compaiano tutte e sei le funzioni. Se manca l'output, stai leggendo ma non ti stai allenando. Se manca il ripasso, dimentichi ciò che hai studiato. Se manca la correzione, ripeti gli stessi errori.
+Non devi replicare questa griglia alla lettera. Devi verificare che nella settimana compaiano tutte e sei le funzioni. Se manca l’output, stai leggendo ma non ti stai allenando. Se manca il ripasso, dimentichi ciò che hai studiato. Se manca la correzione, ripeti gli stessi errori.
 
 La revisione di domenica o di fine settimana non serve a giudicarti. Serve a rispondere a tre domande:
 
@@ -141,7 +147,7 @@ Non ogni difficoltà va trattata allo stesso modo. Prima di aggiungere ore o cam
 | Segnale | Come si riconosce | Risposta operativa |
 |---|---|---|
 | Stanchezza normale | hai studiato, capisci il metodo, ma oggi rendi poco | minimo efficace, sonno, blocco breve a energia bassa |
-| Confusione di metodo | leggi molto ma non sai cosa ripassare, simulare o tagliare | torna a BANDO Decoder, matrice materie, un solo output |
+| Confusione di metodo | leggi molto ma non sai cosa ripassare, simulare o tagliare | torna a Bando Decoder, matrice materie, un solo output |
 | Sovraccarico | piano irrealistico, ritardi a catena, simulazioni saltate, ansia alta | semaforo rosso: taglia, sospendi moduli, proteggi il sistema |
 
 La stanchezza si gestisce modulando energia e recupero. La confusione di metodo si gestisce riordinando priorità e output. Il sovraccarico si gestisce tagliando, non accumulando.
@@ -158,9 +164,11 @@ In questi casi il capitolo non sostituisce un supporto qualificato. Riduci il ca
 
 ![Figura 29.4 - Recuperare senza distruggere il piano: essenziale, taglio e output da proteggere.](../assets/chapter-29/04-recuperare-senza-distruggere-piano.png)
 
+*Figura 29.4 - Recuperare senza distruggere il piano: essenziale, taglio e output da proteggere.*
+
 Il recupero sbagliato è questo:
 
-> "Ho perso tre ore, quindi domani ne faccio sei".
+> “Ho perso tre ore, quindi domani ne faccio sei”.
 
 Di solito non funziona. Sposta il problema avanti, aumenta stanchezza e cancella ripassi o simulazioni.
 
@@ -190,17 +198,19 @@ Usa questa sequenza entro 24 ore dal ritorno allo studio.
 | 6 | Aggiorna il piano | Cosa sposto, taglio o recupero in finestra leggera? |
 | 7 | Registra nel Diario | Ho perso tempo, metodo o energia? |
 
-Esempio pratico: perdi martedi e mercoledi per lavoro. Giovedi non recuperi sei ore. Fai 20 minuti di Diario, proteggi venerdi un quiz mirato, sposti un blocco passivo a domenica pomeriggio e tagli un dettaglio a bassa probabilità. Il piano resta leggibile.
+Esempio pratico: perdi martedì e mercoledì per lavoro. Giovedì non recuperi sei ore. Fai 20 minuti di Diario, proteggi venerdì un quiz mirato, sposti un blocco passivo a domenica pomeriggio e tagli un dettaglio a bassa probabilità. Il piano resta leggibile.
 
 ## Ansia da prova: trasformarla in procedura
 
-![Figura 29.5 - Ansia in procedura: dal segnale al Diario degli errori, fino all'azione allenabile.](../assets/chapter-29/05-ansia-in-procedura.png)
+![Figura 29.5 - Ansia in procedura: dal segnale al Diario degli errori, fino all’azione allenabile.](../assets/chapter-29/05-ansia-in-procedura.png)
 
-L'ansia non si gestisce con una frase scritta in alto al quaderno.
+*Figura 29.5 - Ansia in procedura: dal segnale al Diario degli errori, fino all’azione allenabile.*
+
+L’ansia non si gestisce con una frase scritta in alto al quaderno.
 
 Si gestisce rendendo prevedibili alcune azioni.
 
-Nel Metodo BANDO l'ansia entra nel Diario degli errori come categoria operativa. Devi chiederti:
+Nel Metodo BANDO l’ansia entra nel Diario degli errori come categoria operativa. Devi chiederti:
 
 - ho sbagliato perché non sapevo?
 - ho sbagliato perché ho letto male?
@@ -208,7 +218,7 @@ Nel Metodo BANDO l'ansia entra nel Diario degli errori come categoria operativa.
 - ho sbagliato perché ho perso ordine?
 - ho sbagliato perché non avevo una routine?
 
-Se la causa è ansia o tenuta, l'azione non è "studiare tutto di più". L'azione è:
+Se la causa è ansia o tenuta, l’azione non è “studiare tutto di più”. L’azione è:
 
 - simulazione breve;
 - timer realistico;
@@ -252,11 +262,13 @@ Di solito è tardi per ricominciare. È il momento di proteggere lucidità, docu
 | -1 giorno | materiali, logistica, sonno, niente nuove materie pesanti |
 | Giorno prova | lettura istruzioni, gestione tempo, doppio controllo |
 
-Questa tabella non sostituisce il bando. Se l'avviso ufficiale dice altro, segui l'avviso. Ma una routine ti impedisce di arrivare alla prova con troppe decisioni aperte.
+Questa tabella non sostituisce il bando. Se l’avviso ufficiale dice altro, segui l’avviso. Ma una routine ti impedisce di arrivare alla prova con troppe decisioni aperte.
 
 ## Il semaforo del sovraccarico
 
 ![Figura 29.6 - Semaforo del sovraccarico: verde mantiene, giallo riduce, rosso taglia e protegge il sistema.](../assets/chapter-29/06-semaforo-sovraccarico.png)
+
+*Figura 29.6 - Semaforo del sovraccarico: verde mantiene, giallo riduce, rosso taglia e protegge il sistema.*
 
 Ogni settimana assegna un colore al tuo piano.
 
@@ -271,6 +283,8 @@ Il semaforo rosso non significa fallimento. Significa che il piano non è più s
 ## Caso guidato
 
 ![Figura 29.7 - Caso Sara: una settimana difficile si recupera proteggendo gli output e correggendo gli errori ricorrenti.](../assets/chapter-29/07-caso-sara-piano-sostenibile.png)
+
+*Figura 29.7 - Caso Sara: una settimana difficile si recupera proteggendo gli output e correggendo gli errori ricorrenti.*
 
 sarà prepara un concorso amministrativo-contabile. Ha costruito un piano da 60 giorni, ma alla quarta settimana accumula ritardo: lavoro intenso, due sere saltate, una simulazione andata male. La prima reazione è aggiungere ore nel fine settimana e riaprire tutti i capitoli di contabilità.
 
@@ -291,14 +305,14 @@ Aggiorna il piano:
 - lascia domenica pomeriggio come recupero leggero;
 - prepara documenti e avvisi in anticipo.
 
-sarà non recupera tutto. Recupera ciò che conta. E soprattutto evita che una settimana difficile distrugga l'intero piano.
+sarà non recupera tutto. Recupera ciò che conta. E soprattutto evita che una settimana difficile distrugga l’intero piano.
 
 ## Da sapere in 5 righe
 
 1. Un piano sostenibile nasce da ore reali, non da giornate ideali.
 2. Nei giorni difficili usa il minimo efficace per non perdere il filo.
 3. Il recupero non è accumulo di ore: è taglio, priorità e protezione degli output.
-4. L'ansia va tradotta in routine, simulazioni progressive e checklist.
+4. L’ansia va tradotta in routine, simulazioni progressive e checklist.
 5. Se il disagio diventa intenso o persistente, serve supporto qualificato, non solo più studio.
 
 ## Domanda da commissario
@@ -315,7 +329,7 @@ sarà non recupera tutto. Recupera ciò che conta. E soprattutto evita che una s
 
 ## Errore tipico
 
-L'errore tipico è usare l'ansia come criterio di priorità.
+L’errore tipico è usare l’ansia come criterio di priorità.
 
 La materia che spaventa di più non è automaticamente quella più importante. Il bando, la prova, gli errori e il tempo disponibile devono guidare la decisione.
 
@@ -351,7 +365,7 @@ Se il semaforo è giallo, riduci e proteggi output. Se è rosso, taglia moduli o
 
 ## Mini-esercizio
 
-Scegli l'ultima settimana difficile e compila solo quattro righe:
+Scegli l’ultima settimana difficile e compila solo quattro righe:
 
 | Domanda | Risposta |
 |---|---|
@@ -371,7 +385,7 @@ Prima di chiudere la settimana, verifica:
 - ho registrato gli errori principali;
 - ho programmato un ripasso;
 - ho protetto una simulazione o prova orale;
-- ho tagliato almeno un'attività a bassa resa;
+- ho tagliato almeno un’attività a bassa resa;
 - ho previsto una finestra di recupero;
 - ho distinto stanchezza, lacuna e ansia;
 - ho preparato la priorità della prossima settimana;
@@ -393,9 +407,3 @@ Se mancano più di quattro voci, non aggiungere materia. Riduci e rimetti ordine
 - [[topics/piano-30-60-90-giorni]]
 - [[topics/diario-errori]]
 - [[topics/checklist-concorsi]]
-
-## Note di review
-
-- La struttura madre originaria non prevedeva il Capitolo 29. Questo capitolo è un'estensione editoriale: in revisione decidere se mantenerlo numerato o trasformarlo in sezione conclusiva/tool.
-- Il capitolo resta nel perimetro del metodo di studio e non offre consulenza medica o psicologica. Conservare la nota sul supporto qualificato nei casi di disagio intenso o persistente.
-- Scheda workbook "Semaforo settimanale della preparazione" inserita nel capitolo; in impaginazione valutare estrazione come PDF compilabile autonomo.

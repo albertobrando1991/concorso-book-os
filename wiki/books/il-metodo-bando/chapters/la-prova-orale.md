@@ -22,19 +22,19 @@ last_compiled_from: ["sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.
 
 # Capitolo 16 - La prova orale
 
-## Perché l'orale non è una ripetizione del manuale
+## Perché l’orale non è una ripetizione del manuale
 
 La prova orale porta lo studio davanti alla commissione. Il candidato deve iniziare, ordinare, collegare, scegliere esempi, correggersi se parte male e restare lucido davanti a una domanda inattesa.
 
-Molti candidati rimandano l'orale alla fine. Pensano: prima studio, poi ripeto. È un errore. L'orale va preparato mentre studi, perché parlare rivela subito le lacune: definizioni confuse, passaggi saltati, esempi assenti, collegamenti deboli, frasi troppo lunghe.
+Molti candidati rimandano l’orale alla fine. Pensano: prima studio, poi ripeto. È un errore. L’orale va preparato mentre studi, perché parlare rivela subito le lacune: definizioni confuse, passaggi saltati, esempi assenti, collegamenti deboli, frasi troppo lunghe.
 
 La prova orale non misura solo memoria. Misura padronanza. La differenza è semplice: la memoria ti permette di ricordare parole; la padronanza ti permette di spiegare un concetto anche se la domanda cambia forma.
 
 ## Obiettivo del capitolo
 
-Questo capitolo ti insegna a preparare l'orale come output autonomo. Imparerai a costruire risposte ordinate, gestire i vuoti, affrontare domande incrociate, collegare materie e simulare il colloquio.
+Questo capitolo ti insegna a preparare l’orale come output autonomo. Imparerai a costruire risposte ordinate, gestire i vuoti, affrontare domande incrociate, collegare materie e simulare il colloquio.
 
-L'obiettivo non è imparare discorsi a memoria. È costruire una struttura flessibile che ti permetta di rispondere in modo chiaro anche sotto pressione.
+L’obiettivo non è imparare discorsi a memoria. È costruire una struttura flessibile che ti permetta di rispondere in modo chiaro anche sotto pressione.
 
 ## Mappa BANDO della prova orale
 
@@ -48,9 +48,11 @@ L'obiettivo non è imparare discorsi a memoria. È costruire una struttura fless
 
 ![Figura 16.1 - La prova orale: mappa operativa per collegare bando, aree, nuclei, diario e output a voce.](../assets/chapter-16/01-mappa-operativa-prova-orale.png)
 
+*Figura 16.1 - La prova orale: mappa operativa per collegare bando, aree, nuclei, diario e output a voce.*
+
 ## La scheda orale del bando
 
-Prima di preparare l'orale, compila questa scheda.
+Prima di preparare l’orale, compila questa scheda.
 
 | Elemento | Risposta |
 |---|---|
@@ -69,6 +71,8 @@ La prova orale cambia molto da concorso a concorso. Alcuni colloqui sono brevi e
 
 ![Figura 16.2 - Scheda orale del bando: materie, inglese, informatica, profilo, criteri, soglia e logistica da verificare prima della preparazione.](../assets/chapter-16/02-scheda-orale-bando.png)
 
+*Figura 16.2 - Scheda orale del bando: materie, inglese, informatica, profilo, criteri, soglia e logistica da verificare prima della preparazione.*
+
 ## La struttura universale della risposta
 
 Una risposta orale efficace ha sei passaggi:
@@ -84,34 +88,36 @@ Questa struttura non deve diventare meccanica. Deve darti ordine.
 
 ![Figura 16.3 - Struttura universale della risposta orale: apertura, definizione, funzione, riferimento sicuro, esempio o collegamento e chiusura.](../assets/chapter-16/03-struttura-universale-risposta-orale.png)
 
+*Figura 16.3 - Struttura universale della risposta orale: apertura, definizione, funzione, riferimento sicuro, esempio o collegamento e chiusura.*
+
 ### Esempio
 
-Domanda: "Che cosa si intende per buon andamento della pubblica amministrazione?"
+Domanda: “Che cosa si intende per buon andamento della pubblica amministrazione?”
 
 Risposta ordinata:
 
-> Il buon andamento è un principio costituzionale che richiede alla pubblica amministrazione di agire in modo efficiente, efficace, imparziale e orientato al corretto uso delle risorse. Non riguarda solo la velocità, ma la qualità complessiva dell'azione amministrativa. Si collega al procedimento, all'organizzazione degli uffici, alla responsabilità dei dipendenti, alla performance e alla trasparenza. Per esempio, un procedimento gestito con tempi ragionevoli, istruttoria completa e comunicazioni chiare al cittadino realizza meglio il buon andamento. In questo senso il principio è una guida concreta per l'attività amministrativa, non solo una formula astratta.
+> Il buon andamento è un principio costituzionale che richiede alla pubblica amministrazione di agire in modo efficiente, efficace, imparziale e orientato al corretto uso delle risorse. Non riguarda solo la velocità, ma la qualità complessiva dell’azione amministrativa. Si collega al procedimento, all’organizzazione degli uffici, alla responsabilità dei dipendenti, alla performance e alla trasparenza. Per esempio, un procedimento gestito con tempi ragionevoli, istruttoria completa e comunicazioni chiare al cittadino realizza meglio il buon andamento. In questo senso il principio è una guida concreta per l’attività amministrativa, non solo una formula astratta.
 
 La risposta funziona perché non è una definizione isolata. Collega principio, funzione ed esempio.
 
 ## Come iniziare una risposta
 
-L'inizio è il punto più delicato. Se parti troppo largo, perdi tempo. Se parti troppo secco, sembri insicuro. Usa formule semplici:
+L’inizio è il punto più delicato. Se parti troppo largo, perdi tempo. Se parti troppo secco, sembri insicuro. Usa formule semplici:
 
-- "Il tema può essere inquadrato partendo da..."
-- "L'istituto serve a..."
-- "La distinzione principale è..."
-- "Nel contesto della pubblica amministrazione, questo principio opera..."
-- "Per rispondere al caso occorre considerare..."
+- “Il tema può essere inquadrato partendo da...”
+- “L’istituto serve a...”
+- “La distinzione principale è...”
+- “Nel contesto della pubblica amministrazione, questo principio opera...”
+- “Per rispondere al caso occorre considerare...”
 
 Evita inizi vaghi:
 
-- "Allora, in pratica..."
-- "È una cosa molto importante..."
-- "Non mi ricordo bene, però..."
-- "Dipende..."
+- “Allora, in pratica...”
+- “È una cosa molto importante...”
+- “Non mi ricordo bene, però...”
+- “Dipende...”
 
-"Dipende" può essere una buona risposta solo se poi spieghi da che cosa dipende.
+“Dipende” può essere una buona risposta solo se poi spieghi da che cosa dipende.
 
 ## Risposte da due minuti
 
@@ -130,9 +136,11 @@ Se non riesci a spiegare un argomento in due minuti, probabilmente non hai ancor
 
 ![Figura 16.4 - Risposta orale in due minuti: inquadramento, sviluppo, esempio o collegamento e chiusura entro 120 secondi.](../assets/chapter-16/04-risposta-due-minuti.png)
 
+*Figura 16.4 - Risposta orale in due minuti: inquadramento, sviluppo, esempio o collegamento e chiusura entro 120 secondi.*
+
 ## Collegamenti tra materie
 
-All'orale le materie non restano sempre separate. Una domanda sul procedimento può portare all'accesso, alla trasparenza, alla privacy, alla digitalizzazione, al pubblico impiego o alla responsabilità.
+All’orale le materie non restano sempre separate. Una domanda sul procedimento può portare all’accesso, alla trasparenza, alla privacy, alla digitalizzazione, al pubblico impiego o alla responsabilità.
 
 Esempi di collegamento:
 
@@ -162,12 +170,12 @@ Strategie:
 - distingui principio generale e dettaglio;
 - dichiara il perimetro senza inventare;
 - usa un esempio;
-- chiedi mentalmente: "qual è la funzione dell'istituto?";
+- chiedi mentalmente: “qual è la funzione dell’istituto?”;
 - evita articoli o numeri incerti.
 
 Esempio:
 
-> Non ricorderei in questo momento il numero esatto dell'articolo, ma il principio è che l'amministrazione deve concludere il procedimento e rendere comprensibili le ragioni della decisione. Questo si collega alla motivazione e alla tutela del cittadino.
+> Non ricorderei in questo momento il numero esatto dell’articolo, ma il principio è che l’amministrazione deve concludere il procedimento e rendere comprensibili le ragioni della decisione. Questo si collega alla motivazione e alla tutela del cittadino.
 
 Questa risposta è meglio di una citazione inventata.
 
@@ -179,15 +187,17 @@ Tipi di follow-up:
 
 | Follow-up | Come rispondere |
 |---|---|
-| "Mi faccia un esempio" | Usa un caso semplice di ufficio, cittadino, istanza, atto. |
-| "Qual è la differenza?" | Costruisci tabella mentale: oggetto, funzione, effetti. |
-| "E se invece..." | Applica la regola al caso nuovo. |
-| "Mi colleghi questo tema a..." | Dai un ponte breve e torna al punto. |
-| "Può essere più preciso?" | Stringi su definizione o passaggio mancante. |
+| “Mi faccia un esempio” | Usa un caso semplice di ufficio, cittadino, istanza, atto. |
+| “Qual è la differenza?” | Costruisci tabella mentale: oggetto, funzione, effetti. |
+| “E se invece...” | Applica la regola al caso nuovo. |
+| “Mi colleghi questo tema a...” | Dai un ponte breve e torna al punto. |
+| “Può essere più preciso?” | Stringi su definizione o passaggio mancante. |
 
-Il segreto è non perdere l'ordine. Prima ascolti, poi rispondi al nuovo punto.
+Il segreto è non perdere l’ordine. Prima ascolti, poi rispondi al nuovo punto.
 
 ![Figura 16.5 - Collegamenti e domande incrociate: rispondere al punto, usare esempi, distinzioni, casi nuovi e ponti brevi senza perdere ordine.](../assets/chapter-16/05-collegamenti-domande-incrociate.png)
+
+*Figura 16.5 - Collegamenti e domande incrociate: rispondere al punto, usare esempi, distinzioni, casi nuovi e ponti brevi senza perdere ordine.*
 
 ## Preparare le domande
 
@@ -201,11 +211,11 @@ Esempio su accesso:
 
 | Tipo | Domanda |
 |---|---|
-| Base | Che cos'è l'accesso documentale? |
-| Confronto | Come si distingue dall'accesso civico generalizzato? |
-| Applicativa | Che cosa deve valutare l'amministrazione se l'accesso coinvolge dati personali? |
+| Base | Che cos’è l’accesso documentale? |
+| Confronto | Come si distingue dall’accesso civico generalizzato? |
+| Applicativa | Che cosa deve valutare l’amministrazione se l’accesso coinvolge dati personali? |
 
-Questa tecnica impedisce di preparare solo definizioni. L'orale reale spesso parte da una definizione e poi chiede differenza o applicazione.
+Questa tecnica impedisce di preparare solo definizioni. L’orale reale spesso parte da una definizione e poi chiede differenza o applicazione.
 
 ## Simulazioni orali
 
@@ -231,9 +241,11 @@ Progressione:
 | Simulazione | 20-30 minuti con materie miste. |
 | Rifinitura | Domande deboli, lingua, informatica, profilo. |
 
-La prima simulazione deve arrivare presto. Se aspetti l'ultima settimana, scoprirai troppo tardi che non sai parlare del materiale che pensavi di conoscere.
+La prima simulazione deve arrivare presto. Se aspetti l’ultima settimana, scoprirai troppo tardi che non sai parlare del materiale che pensavi di conoscere.
 
 ![Figura 16.6 - Domande e simulazioni progressive: trasformare ogni nucleo in domanda base, confronto, applicazione e colloquio misto.](../assets/chapter-16/06-domande-simulazioni-progressive.png)
+
+*Figura 16.6 - Domande e simulazioni progressive: trasformare ogni nucleo in domanda base, confronto, applicazione e colloquio misto.*
 
 ## Diario orale
 
@@ -256,7 +268,7 @@ Categorie utili:
 
 Il diario orale ti evita di ripetere sempre gli stessi difetti.
 
-## Inglese e informatica all'orale
+## Inglese e informatica all’orale
 
 Se il bando prevede accertamento di inglese o informatica, non trattarli come dettagli. Preparali in modo proporzionato.
 
@@ -292,17 +304,19 @@ Negli ultimi sette giorni non devi aprire nuovi mondi. Devi consolidare.
 | -1 | Ripasso leggero, logistica, sonno. |
 | Giorno prova | Risposte brevi, calma, ascolto della domanda. |
 
-L'ultimo giorno non serve dimostrare a te stesso che puoi studiare tutto. Serve arrivare lucido.
+L’ultimo giorno non serve dimostrare a te stesso che puoi studiare tutto. Serve arrivare lucido.
 
 ![Figura 16.7 - Diario orale e ultimi sette giorni: simulare, registrare, classificare e correggere fino alla prova.](../assets/chapter-16/07-diario-ultimi-sette-giorni.png)
 
+*Figura 16.7 - Diario orale e ultimi sette giorni: simulare, registrare, classificare e correggere fino alla prova.*
+
 ## Caso guidato
 
-Marta ha superato la prova scritta e ha tre settimane per l'orale. All'inizio rilegge i manuali. Dopo cinque giorni si accorge che, se chiude il libro, non riesce a spiegare bene procedimento, accesso e pubblico impiego.
+Marta ha superato la prova scritta e ha tre settimane per l’orale. All’inizio rilegge i manuali. Dopo cinque giorni si accorge che, se chiude il libro, non riesce a spiegare bene procedimento, accesso e pubblico impiego.
 
 Cambia metodo. Per ogni materia crea domande base, confronto e applicazione. Ogni giorno registra tre risposte da due minuti. Il sabato fa una simulazione con domande casuali. Nel diario nota che le risposte sono troppo lunghe e senza esempi. La settimana successiva impone una struttura: definizione, funzione, esempio, chiusura.
 
-All'orale non ricorda un dettaglio numerico, ma non si blocca. Torna al principio, spiega la funzione e usa un esempio. La risposta resta ordinata.
+All’orale non ricorda un dettaglio numerico, ma non si blocca. Torna al principio, spiega la funzione e usa un esempio. La risposta resta ordinata.
 
 ## Domanda da commissario
 
@@ -312,7 +326,7 @@ All'orale non ricorda un dettaglio numerico, ma non si blocca. Torna al principi
 
 ## Domanda-trappola
 
-**Domanda:** All'orale è meglio parlare molto per mostrare preparazione?
+**Domanda:** All’orale è meglio parlare molto per mostrare preparazione?
 
 No. Parlare molto può diventare dispersione. La commissione deve capire che sai rispondere alla domanda. Una risposta breve, ordinata e precisa è spesso più forte di una risposta lunga che perde il punto.
 
@@ -324,13 +338,13 @@ Scegli un argomento e prepara tre risposte:
 |---|---|
 | Base | 60 secondi: definizione e funzione. |
 | Completa | 2 minuti: definizione, elementi, esempio, chiusura. |
-| Incrociata | Risposta più collegamento con un'altra materia. |
+| Incrociata | Risposta più collegamento con un’altra materia. |
 
-Registrati. Poi valuta: si capisce l'inizio? C'è un esempio? La chiusura risponde alla domanda? Hai usato parole precise?
+Registrati. Poi valuta: si capisce l’inizio? C’è un esempio? La chiusura risponde alla domanda? Hai usato parole precise?
 
 ## Da sapere in 5 righe
 
-1. L'orale va preparato a voce, non solo leggendo.
+1. L’orale va preparato a voce, non solo leggendo.
 2. Ogni risposta deve avere struttura, esempio e chiusura.
 3. I collegamenti servono, ma non devono far perdere la domanda principale.
 4. I vuoti di memoria si gestiscono tornando a principi sicuri.
@@ -343,8 +357,3 @@ Registrati. Poi valuta: si capisce l'inizio? C'è un esempio? La chiusura rispon
 - [[topics/prova-orale]]
 - [[topics/risposta-concorsuale]]
 - [[topics/metodo-di-studio]]
-
-## Note di review
-
-- Prima della pubblicazione finale valutare raccordo con Appendice E, che dovrà contenere lo schema universale compilabile.
-- Durata, lingua, informatica, materie e criteri devono sempre essere verificati nel bando specifico.

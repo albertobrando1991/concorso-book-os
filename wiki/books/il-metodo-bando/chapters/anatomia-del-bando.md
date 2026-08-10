@@ -29,15 +29,15 @@ Il bando è il documento più importante del concorso. Non perché sia il più s
 
 Il candidato medio scarica il bando, lo scorre in fretta e cerca subito un manuale o una banca dati. Il candidato preparato fa il contrario: prima smonta il bando, poi decide come studiare. Qui si vede subito la differenza tra una preparazione generica e una preparazione professionale.
 
-Il bando richiede una lettura precisa. Da lì dipendono le materie da studiare, le soglie, l'orale, le scadenze e perfino la scelta di candidarti a un profilo compatibile con il tuo tempo e le tue competenze.
+Il bando richiede una lettura precisa. Da lì dipendono le materie da studiare, le soglie, l’orale, le scadenze e perfino la scelta di candidarti a un profilo compatibile con il tuo tempo e le tue competenze.
 
 ![Schema che confronta la partenza debole dal manuale generico con la partenza professionale dal bando.](../assets/chapter-02/01-bando-prima-del-manuale.png)
 
-> *Figura 2.1 - Il bando viene prima del manuale perché decide requisiti, prove, materie e piano.*
+*Figura 2.1 - Il bando viene prima del manuale perché decide requisiti, prove, materie e piano.*
 
-## La domanda giusta non è "che cosa devo studiare?"
+## La domanda giusta non è “che cosa devo studiare?”
 
-La prima domanda non è "quale manuale compro?". La prima domanda è: "che cosa mi chiede questo bando e quale decisione devo prendere?".
+La prima domanda non è “quale manuale compro?”. La prima domanda è: “che cosa mi chiede questo bando e quale decisione devo prendere?”.
 
 Un bando serve a rispondere a quattro domande operative:
 
@@ -60,7 +60,7 @@ Solo dopo queste quattro risposte ha senso costruire il piano.
 
 ![Schema delle tre letture del bando: ammissibilità, profilo reale, prove e soglie.](../assets/chapter-02/02-tre-letture-del-bando.png)
 
-> *Figura 2.2 - Ogni lettura del bando deve produrre una decisione operativa diversa.*
+*Figura 2.2 - Ogni lettura del bando deve produrre una decisione operativa diversa.*
 
 ## Prima lettura: controllo di ammissibilità
 
@@ -81,7 +81,7 @@ Questo controllo deve essere freddo. Non devi innamorarti del concorso prima di 
 
 ## Seconda lettura: profilo, lavoro reale e livello atteso
 
-Il nome del concorso dice poco da solo. Devi capire quale figura l’amministrazione sta cercando. Un "istruttore amministrativo", un "funzionario amministrativo-contabile", un "assistente tecnico", un profilo digitale o una posizione dirigenziale richiedono preparazioni diverse.
+Il nome del concorso dice poco da solo. Devi capire quale figura l’amministrazione sta cercando. Un “istruttore amministrativo”, un “funzionario amministrativo-contabile”, un “assistente tecnico”, un profilo digitale o una posizione dirigenziale richiedono preparazioni diverse.
 
 Il profilo ti dice come verranno usate le materie. Il diritto amministrativo può essere richiesto come base nozionistica, come capacità di gestire un procedimento o come capacità di risolvere un caso. Il pubblico impiego può comparire in un quiz, ma può anche diventare un problema situazionale su doveri, conflitto di interessi o responsabilità.
 
@@ -122,7 +122,7 @@ Questa classificazione conta più della quantità di pagine. Una materia breve p
 
 ![Schema per classificare le materie del bando in obbligatorie, probabili, accessorie, killer e solo orali.](../assets/chapter-02/04-gerarchia-materie-bando.png)
 
-> *Figura 2.3 - La lista delle materie diventa utile solo quando viene trasformata in gerarchia di studio.*
+*Figura 2.3 - La lista delle materie diventa utile solo quando viene trasformata in gerarchia di studio.*
 
 ## Dove trovo cosa nel bando
 
@@ -140,7 +140,7 @@ Questa classificazione conta più della quantità di pagine. Una materia breve p
 
 ![Tabella visuale che mostra dove cercare requisiti, profilo, domanda, prove, materie, punteggi e comunicazioni nel bando.](../assets/chapter-02/03-mappa-informazioni-bando.png)
 
-> *Figura 2.4 - Il bando non si legge in ordine di pagina: si legge per decisioni da prendere.*
+*Figura 2.4 - Il bando non si legge in ordine di pagina: si legge per decisioni da prendere.*
 
 ## Il Bando Decoder
 
@@ -178,7 +178,7 @@ Il Bando Decoder è la doppia pagina in cui il bando diventa piano di studio. Qu
 
 ![Schema della doppia pagina del Bando Decoder, dalla identità del concorso alla strategia di prova.](../assets/chapter-02/05-bando-decoder-doppia-pagina.png)
 
-> *Figura 2.5 - Il Bando Decoder trasforma il testo ufficiale in priorità, rischi e prime azioni.*
+*Figura 2.5 - Il Bando Decoder trasforma il testo ufficiale in priorità, rischi e prime azioni.*
 
 ## Caso guidato: bando fittizio analizzato
 
@@ -188,7 +188,7 @@ Il candidato debole parte da un manuale generale. Il candidato strategico compil
 
 Prima verifica il titolo di studio e la scadenza. Poi legge le prove: se lo scritto è a quiz, deve allenare rapidità, memoria e riconoscimento delle alternative sbagliate. Se è previsto l’orale, deve preparare anche risposte brevi e collegamenti. A questo punto classifica le materie: diritto amministrativo ed enti locali sono obbligatorie; trasparenza e anticorruzione possono diventare killer; informatica e inglese richiedono blocchi brevi ma costanti.
 
-La decisione non è "studiare tutto". La decisione è partire dalle materie che decidono lo scritto, costruire un diario errori, preparare l’orale fin dall’inizio con risposte sintetiche e controllare ogni comunicazione ufficiale dell’ente.
+La decisione non è “studiare tutto”. La decisione è partire dalle materie che decidono lo scritto, costruire un diario errori, preparare l’orale fin dall’inizio con risposte sintetiche e controllare ogni comunicazione ufficiale dell’ente.
 
 ## Checklist prima della domanda
 
@@ -234,7 +234,7 @@ Prendi un bando reale o fittizio e compila questa scheda in dieci minuti.
 
 ## Errore tipico
 
-L'errore tipico è trattare il bando come un ostacolo burocratico. Invece indica se ha senso partecipare, come organizzare il tempo e dove puoi sbagliare.
+L’errore tipico è trattare il bando come un ostacolo burocratico. Invece indica se ha senso partecipare, come organizzare il tempo e dove puoi sbagliare.
 
 ## Da sapere in 5 righe
 

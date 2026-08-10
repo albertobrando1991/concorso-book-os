@@ -20,7 +20,7 @@ draft_stage: revised-editorial-draft
 last_compiled_from: ["sources/strategia-punteggio-prova-concorsuale-metodo-bando.md", "topics/strategia-punteggio-prova-concorsuale.md", "topics/prove-concorsuali.md", "topics/prova-a-quiz.md", "topics/prova-scritta-teorico-pratica.md", "topics/prova-orale.md", "topics/simulazioni-concorsuali.md", "topics/diario-errori.md", "topics/taglio-priorita-studio-concorsi.md"]
 ---
 
-# Capitolo 37 - Strategia di punteggio: soglie, tempo e rischio nella prova
+# R13 - Strategia di punteggio: soglie, tempo e rischio nella prova
 
 Studiare bene non basta se arrivi alla prova senza una strategia.
 
@@ -37,7 +37,7 @@ Misura anche come lo usi nel tempo disponibile.
 Per questo il Metodo BANDO distingue due momenti:
 
 - la preparazione, dove costruisci conoscenza, schede, simulazioni e correzione;
-- l'esecuzione, dove trasformi tutto in punteggio, risposta e controllo.
+- l’esecuzione, dove trasformi tutto in punteggio, risposta e controllo.
 
 Questo capitolo lavora sul secondo momento.
 
@@ -54,7 +54,7 @@ La regola è semplice:
 Alla fine del capitolo saprai:
 
 - estrarre dal bando le regole che incidono sul punteggio;
-- costruire una scheda "regole della prova in una pagina";
+- costruire una scheda “regole della prova in una pagina”;
 - calcolare il tempo medio senza diventare rigido;
 - distinguere domande sicure, probabili, incerte e bloccanti;
 - decidere quando rispondere, saltare, segnare o tornare dopo;
@@ -62,7 +62,7 @@ Alla fine del capitolo saprai:
 - adattare la strategia a quiz, scritto, orale e prove miste;
 - evitare errori di esecuzione negli ultimi minuti.
 
-L'obiettivo è arrivare alla prova con decisioni già provate.
+L’obiettivo è arrivare alla prova con decisioni già provate.
 
 ## Prima regola: il bando decide il gioco
 
@@ -72,7 +72,7 @@ Non dal manuale.
 
 Non dal gruppo online.
 
-Non da come "di solito" funzionano i concorsi.
+Non da come “di solito” funzionano i concorsi.
 
 Il bando e gli avvisi collegati indicano, secondo la procedura concreta, elementi che possono cambiare tutto:
 
@@ -113,6 +113,8 @@ Questa pagina non è burocrazia.
 
 ![Mappa strategica che collega punteggio-obiettivo, tempo e rischio](../assets/chapter-37/01-mappa-strategia-punteggio.png)
 
+*Figura 37.1 - Mappa strategica che collega punteggio-obiettivo, tempo e rischio.*
+
 | Fase | Domanda | Traduzione operativa |
 |---|---|---|
 | B - Bando | quali sono regole, durata, soglie e punteggi? | costruisco la scheda prova |
@@ -125,7 +127,7 @@ Questa mappa ha una conseguenza pratica: il punteggio non si prepara solo facend
 
 Si prepara osservando come rispondi.
 
-Due candidati possono fare lo stesso numero di quiz e ottenere risultati diversi perché uno sa gestire tempo, incertezza e revisione, mentre l'altro procede in ordine rigido e si blocca.
+Due candidati possono fare lo stesso numero di quiz e ottenere risultati diversi perché uno sa gestire tempo, incertezza e revisione, mentre l’altro procede in ordine rigido e si blocca.
 
 La strategia non sostituisce lo studio.
 
@@ -134,6 +136,8 @@ Ma impedisce allo studio di disperdersi nel momento decisivo.
 ## Soglia: leggerla senza subirla
 
 ![Relazione tra soglia di superamento, scelta prudente e gestione del rischio](../assets/chapter-37/02-soglia-rischio.png)
+
+*Figura 37.2 - Relazione tra soglia di superamento, scelta prudente e gestione del rischio.*
 
 La soglia è una informazione operativa.
 
@@ -154,7 +158,7 @@ Chiediti:
 4. quanta distanza ho nelle simulazioni?
 5. quale parte della strategia può migliorare subito il risultato?
 
-Non basta dire "sono sotto soglia".
+Non basta dire “sono sotto soglia”.
 
 Devi capire perché.
 
@@ -188,6 +192,8 @@ La regola corretta è:
 
 ![Distribuzione visiva del tempo tra svolgimento, controllo e recupero](../assets/chapter-37/03-scheda-tempo.png)
 
+*Figura 37.3 - Distribuzione visiva del tempo tra svolgimento, controllo e recupero.*
+
 | Elemento | Compilazione |
 |---|---|
 | Durata totale | |
@@ -202,11 +208,13 @@ Questa scheda va provata in simulazione.
 
 Non basta scriverla.
 
-Una strategia di tempo non testata è solo un'intenzione.
+Una strategia di tempo non testata è solo un’intenzione.
 
 ## I tre giri nella prova a quiz
 
 ![Strategia a passaggi per affrontare un quiz e tornare sulle domande dubbie](../assets/chapter-37/04-tre-giri-quiz.png)
+
+*Figura 37.4 - Strategia a passaggi per affrontare un quiz e tornare sulle domande dubbie.*
 
 Quando la prova è a quiz, il candidato principiante spesso procede in ordine rigido: domanda 1, domanda 2, domanda 3, fino alla fine.
 
@@ -236,6 +244,8 @@ Va registrata prima.
 
 ![Matrice di decisione per rispondere, saltare o rimandare un quesito](../assets/chapter-37/05-matrice-certezza-rischio-tempo.png)
 
+*Figura 37.5 - Matrice di decisione per rispondere, saltare o rimandare un quesito.*
+
 Usa questa matrice nelle simulazioni.
 
 | Tipo di domanda | Segnale | Azione possibile |
@@ -246,7 +256,7 @@ Usa questa matrice nelle simulazioni.
 | Lunga | sai farla ma richiede tempo | segna e torna se il tempo lo consente |
 | Bloccante | non capisci o ti agita | salta subito, non negoziare con la domanda |
 
-La parola chiave è "compatibile".
+La parola chiave è “compatibile”.
 
 Compatibile con cosa?
 
@@ -279,7 +289,7 @@ Il candidato sotto pressione tende a saltare la scaletta.
 
 La scaletta non rallenta: impedisce di perdere tempo dopo.
 
-Se una traccia chiede di "illustrare", non devi fare un trattato. Se chiede di "confrontare", devi evidenziare differenze. Se chiede di "risolvere" un caso, devi applicare regole a soggetti, fatti e soluzione.
+Se una traccia chiede di “illustrare”, non devi fare un trattato. Se chiede di “confrontare”, devi evidenziare differenze. Se chiede di “risolvere” un caso, devi applicare regole a soggetti, fatti e soluzione.
 
 La strategia di punteggio nello scritto comincia dalla domanda:
 
@@ -291,7 +301,7 @@ Non dalla domanda:
 
 ## La prova orale: ordine, durata e recupero
 
-Nell'orale il punteggio non dipende solo dalla memoria.
+Nell’orale il punteggio non dipende solo dalla memoria.
 
 Dipende anche da:
 
@@ -317,8 +327,8 @@ Definizione breve -> funzione -> riferimento sicuro -> esempio o collegamento ->
 Se hai un vuoto di memoria, non riempirlo con norme o dettagli incerti. Riparti da ciò che sai:
 
 - il principio;
-- la funzione dell'istituto;
-- il collegamento con l'attività amministrativa;
+- la funzione dell’istituto;
+- il collegamento con l’attività amministrativa;
 - un esempio prudente;
 - il perimetro della risposta.
 
@@ -329,6 +339,8 @@ Significa sapere come rientrare in carreggiata.
 ## Simulare il punteggio, non solo la prova
 
 ![Cruscotto visivo per stimare andamento e margine sul punteggio-obiettivo](../assets/chapter-37/06-simulare-punteggio.png)
+
+*Figura 37.6 - Cruscotto visivo per stimare andamento e margine sul punteggio-obiettivo.*
 
 Una simulazione è utile solo se produce una decisione.
 
@@ -345,7 +357,7 @@ Dopo ogni simulazione devi compilare almeno questa griglia:
 | Errori di strategia | | |
 | Prossima modifica | | |
 
-La voce più importante è l'ultima.
+La voce più importante è l’ultima.
 
 Senza modifica, la simulazione resta una fotografia.
 
@@ -397,16 +409,18 @@ La prova mista premia il candidato che sa cambiare ritmo senza cambiare metodo.
 1. Punteggi, soglie, penalità e durata si ricavano dal bando e dagli avvisi, non da regole generiche.
 2. La strategia di punteggio traduce quelle regole in tempo, ordine, rischio e revisione.
 3. Nella prova a quiz servono giri di risposta e classificazione della certezza.
-4. Nello scritto e nell'orale conta produrre l'output richiesto, non riversare tutto ciò che si sa.
+4. Nello scritto e nell’orale conta produrre l’output richiesto, non riversare tutto ciò che si sa.
 5. Ogni simulazione deve generare una modifica concreta al piano o alla strategia.
 
 ## Caso guidato
 
 ![Percorso strategico per attraversare una prova con punti di controllo](../assets/chapter-37/07-caso-strategia-prova.png)
 
+*Figura 37.7 - Percorso strategico per attraversare una prova con punti di controllo.*
+
 Luca prepara una prova a quiz con durata limitata e materie miste. Nelle simulazioni conosce abbastanza il programma, ma resta spesso sotto il risultato atteso.
 
-Guardando solo il punteggio pensa: "non so abbastanza".
+Guardando solo il punteggio pensa: “non so abbastanza”.
 
 Con il Metodo BANDO analizza meglio.
 
@@ -443,7 +457,7 @@ Risposta guidata: perché punteggi, soglie, penalità, durata e formato della pr
 
 Se conosco bene una materia, posso permettermi di non simulare la gestione del tempo?
 
-Risposta guidata: no. Conoscere una materia non garantisce saperla usare nel tempo disponibile. La simulazione serve proprio a verificare il passaggio tra conoscenza e output: risposta corretta, tempo, attenzione, revisione e gestione dell'incertezza.
+Risposta guidata: no. Conoscere una materia non garantisce saperla usare nel tempo disponibile. La simulazione serve proprio a verificare il passaggio tra conoscenza e output: risposta corretta, tempo, attenzione, revisione e gestione dell’incertezza.
 
 ## Errore tipico
 
@@ -461,7 +475,7 @@ Solo così diventa una decisione.
 
 ## Mini-esercizio
 
-Prendi il bando o l'avviso della prova che stai preparando e compila la scheda.
+Prendi il bando o l’avviso della prova che stai preparando e compila la scheda.
 
 | Campo | Risposta |
 |---|---|
@@ -521,10 +535,3 @@ Il giorno della prova non deve essere il primo giorno in cui decidi come comport
 - [[topics/prova-orale]]
 - [[topics/simulazioni-concorsuali]]
 - [[topics/diario-errori]]
-
-## Note di review
-
-- Capitolo pronto come revised draft, da coordinare in revisione finale con i capitoli 14, 15, 16, 24, 34 e 36.
-- Le indicazioni su soglie, penalità e punteggi restano metodologiche: ogni dato numerico deve essere compilato dal candidato a partire dal bando e dagli avvisi ufficiali della procedura.
-- Prima della pubblicazione finale verificare il testo vigente della cornice normativa sui concorsi se il capitolo dovesse includere esempi normativi specifici.
-- In impaginazione valutare una pagina strumento "Regole della prova in una pagina" e una tabella compilabile per tempo medio, giri di risposta e revisione.
