@@ -562,7 +562,7 @@ Q95. Che cosa fai se sbagli sempre domande su Ministeri e Presidenza?
 
 Q96. Come prepari una risposta orale su un ente senza memorizzare l'intero organigramma?
 
-Q97. Quali sei elementi minimi deve contenere una risposta orale M-FC01?
+Q97. Quali sette elementi minimi deve contenere una risposta orale M-FC01?
 
 Q98. Come valuti se una risposta orale è troppo generica?
 
