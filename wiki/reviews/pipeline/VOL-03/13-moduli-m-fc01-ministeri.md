@@ -41,33 +41,33 @@ affected_pages:
 - Genere editoriale: manuale-workbook specialistico per concorsi nelle amministrazioni centrali, collegato al Metodo BANDO.
 - Pubblico target: candidati a Ministeri, Presidenza del Consiglio dei ministri, Avvocatura dello Stato e profili delle Funzioni Centrali, con adattamento al bando concreto.
 - Perimetro di questa revisione: `index.md`, premessa, indice front-matter, piano editoriale, matrice didattica, architettura moduli, logica di copertura v4, tutti i 15 capitoli e tutti i report step 12 M-FC01.
-- Stato generale in una frase: il contenuto didattico dei 15 capitoli e' ampio, progressivo e sostanzialmente coperto, ma il modulo non e' pubblicabile allo stato attuale per quattro blocker trasversali: indice studente vuoto, matrice con stati `mancante` non riallineati, artefatti interni nei capitoli 1-7 e rinvii VOL-01 non conformi.
+- Stato generale in una frase: il contenuto didattico dei 15 capitoli e' ampio, progressivo e coperto; i blocker trasversali G01-G04 e il riallineamento metadata M02 risultano chiusi, mentre resta il preflight produttivo.
 
 Il test dello studente e' ora superato sul sorgente Markdown: il lettore trova indice, capitoli completi, casi, quiz, simulazione e appendici, senza sezioni di review o wikilink editoriali nei capitoli 1-7. I report individuali dello step 12 non segnalano nuclei didattici mancanti nei capitoli, ma lasciano verifiche normative e produttive da svolgere a valle.
 
 ## 2. Punti applicati della checklist
 
-1. Indice: applicato. Il front-matter `06-indice.md` non elenca i capitoli e costituisce blocker.
-2. Struttura del libro: applicato. La sequenza 1-15 e' presente, ma gli artefatti di ingresso non sono allineati alla maturita' del modulo.
+1. Indice: applicato. Il front-matter `06-indice.md` elenca i 15 capitoli realmente presenti.
+2. Struttura del libro: applicato. La sequenza 1-15 e' presente e gli artefatti di ingresso principali sono allineati alla maturita' del modulo.
 3. Progressione logica: applicato. Orientamento, bando, profili, istituzioni, materie, casi, piano, simulazione e appendici seguono una progressione leggibile.
-4. Titoli e gerarchia: applicato. I capitoli hanno H1 coerenti; resta una duplicazione locale nel capitolo 15 sulla verifica finale.
-5. Idoneita finale: applicato. Il giudizio e' non pubblicabile allo stato attuale.
-6. Coerenza interna: applicato. I singoli capitoli risultano in larga parte autonomi; fanno eccezione gli apparati interni nei capitoli 1-7.
-7. Coerenza tra capitoli: applicato. Le dipendenze sono ragionevoli, ma i rinvii a VOL-01 non rispettano ancora la regola di destinazione precisa.
+4. Titoli e gerarchia: applicato. I capitoli hanno H1 coerenti; la duplicazione locale del capitolo 15 e' stata rimossa.
+5. Idoneita finale: applicato. Il giudizio e' pubblicabile con correzioni minori; non restano errori gravi o medi aperti.
+6. Coerenza interna: applicato. I singoli capitoli risultano autonomi e i capitoli 1-7 non espongono piu' apparati interni nel corpo lettore.
+7. Coerenza tra capitoli: applicato. Le dipendenze sono ragionevoli e i rinvii VOL-01 nel corpo dei capitoli 1-7 puntano a file e heading esistenti.
 8. Coerenza terminologica: applicato. Ministero/ministro, Governo/Presidenza, comparto/area/profilo, gestore/titolare e VERIF sono usati con stabilita'.
-9. Completezza delle spiegazioni: applicato. I nuclei dei capitoli risultano sviluppati nel testo, salvo la contraddizione formale della matrice.
+9. Completezza delle spiegazioni: applicato. I nuclei dei capitoli risultano sviluppati nel testo; la matrice distingue ora audit storico e stato corrente.
 10. Accuratezza delle definizioni: applicato nei limiti del controllo locale. Non emergono definizioni certamente errate; resta audit di vigenza.
-11. Errori concettuali: applicato. Non emergono errori concettuali gravi nei capitoli, ma i rinvii rotti possono impedire la fruizione corretta.
+11. Errori concettuali: applicato. Non emergono errori concettuali gravi nei capitoli; i rinvii rotti segnalati sono stati risolti o sostituiti con destinazioni verificate.
 12. Errori normativi/contenutistici: applicato. Le norme e i fatti mobili sono separati nella sezione 6, senza dichiararli errori certi.
 13. Esempi: applicato. Casi, domande, trappole, esercizi e simulazioni sono distribuiti in modo coerente.
-14. Note, richiami, tabelle, box, schemi: applicato. Le note di review e i riferimenti consolidati nei capitoli 1-7 non devono restare nel corpo lettore.
-15. Apparato normativo: applicato. Le fonti sono tracciate localmente; l'apparato lettore va ripulito da wikilink interni.
+14. Note, richiami, tabelle, box, schemi: applicato. Le note di review e i riferimenti interni nei capitoli 1-7 sono stati rimossi dal corpo lettore.
+15. Apparato normativo: applicato. Le fonti sono tracciate nel frontmatter e nominate nel corpo in forma leggibile.
 16. Sintassi: applicato. Non emergono problemi sintattici trasversali.
-17. Chiarezza espositiva: applicato. Buona nei capitoli; insufficiente negli artefatti di orientamento.
+17. Chiarezza espositiva: applicato. Buona nei capitoli e negli artefatti di orientamento corretti.
 18. Tono editoriale: applicato. Il tono e' operativo e coerente con un manuale concorsuale.
 19. Stile didattico: applicato. Buon equilibrio fra spiegazione, casi, quiz e workbook.
 20. Ripetizioni inutili: applicato. Le riprese sono per lo piu' funzionali; non emergono ridondanze bloccanti.
-21. Contraddizioni locali e globali: applicato. La contraddizione principale e' fra copertura completa del testo e stati storici `mancante` nella matrice.
+21. Contraddizioni locali e globali: applicato. La contraddizione fra copertura completa del testo e stati storici `mancante` e' stata chiarita nella matrice.
 22. Grammatica: applicato. Nessun problema trasversale certo.
 23. Ortografia: applicato. Nessun problema trasversale certo.
 24. Punteggiatura: applicato. Nessun problema trasversale certo.
@@ -75,54 +75,54 @@ Il test dello studente e' ora superato sul sorgente Markdown: il lettore trova i
 26. Uniformita grafica: applicato. Gli apparati sono ricchi ma non ancora uniformati in preflight.
 27. Impaginazione: non verificabile. Non e' disponibile il PDF impaginato.
 28. Layout: applicato sul Markdown. Tabelle, griglie, schede e blocchi quiz richiedono verifica PDF.
-29. Leggibilita complessiva: applicato. Buona nei capitoli, non sufficiente negli artefatti di accesso e nei link interni.
-30. Qualita editoriale complessiva: applicato. Il modulo ha qualita' didattica alta, ma deve chiudere i blocker prima di essere dichiarato pubblicabile.
+29. Leggibilita complessiva: applicato. Buona nei capitoli e negli artefatti di accesso corretti.
+30. Qualita editoriale complessiva: applicato. Il modulo ha qualita' didattica alta; metadati e audit specialistico risultano chiusi.
 
 ## 3. Tabella errori
 
 | ID | Posizione | Categoria | Gravità | Descrizione | Correzione proposta | Stato |
 | --- | --- | --- | --- | --- | --- | --- |
-| G01 | `front-matter/06-indice.md:27` | Indice e promessa al lettore | Grave | Il front-matter dell'indice contiene solo il titolo `# Indice` e non presenta l'elenco dei 15 capitoli, delle appendici e della progressione promessa. Il modulo non offre quindi un indice studente pubblicabile. | Scrivere un indice reader-facing completo con capitoli 1-15, titoli correnti, eventuali parti/appendici e coerenza con `index.md`; evitare riferimenti interni a pipeline o source note. | Corretto |
-| G02 | `planning/02-matrice-copertura-didattica.md:5`, `:15`, `:93`, `:142-354` | Copertura didattica v4 e gate | Grave | La matrice e' ancora `status: working`, `canonical: false` e conserva numerose righe con stato storico `mancante` per nuclei poi descritti come `completo`, inclusi capitoli 14 e 15. Secondo la logica v4, `mancante` e `solo-nominato` sono blocker finche' non e' chiaro che appartengono solo a una fotografia storica. | Riallineare la matrice in uno step autorizzato: distinguere esplicitamente stato iniziale e stato corrente oppure rimuovere lo stato `mancante` dalle colonne correnti; chiudere anche la nota sulla collocazione di M-FC01 in VOL-03. | Corretto |
-| G03 | Capitoli 1-7, es. `01:174`, `01:509-525`, `02:250-259`, `03:249-259`, `04:273-284`, `05:285-295`, `06:358-368`, `07:390-402` | Artefatti interni nel corpo lettore | Grave | I capitoli 1-7 contengono sezioni `Riferimenti consolidati`, `Note di review`, wikilink a `sources/`, `topics/`, `entities/` e anche formulazioni come "La source note ARAN...". Le istruzioni del modulo vietano nel corpo dei capitoli reader-visible rinvii a sorgenti, topic, entity, raw, planning o review. | Spostare riferimenti consolidati e note di review fuori dai capitoli, nel frontmatter tecnico o nei report; sostituire eventuali riferimenti necessari con bibliografia leggibile o rinvii editoriali pubblici. | Corretto |
-| G04 | `04:93`, `04:139`, `06:173`, `07:37`, `07:261`, `07:398-400` | Rinvii e dipendenze VOL-01 | Grave | Diversi rinvii a VOL-01 sono generici e privi di `#heading`; il capitolo 7 richiama inoltre `books/il-metodo-bando/chapters/diritto-amministrativo-operativo`, file che nel workspace non esiste. La regola locale richiede rinvii precisi a file e heading verificati. | Sostituire ogni rinvio con destinazioni esistenti e ancorate a heading specifici, oppure riscrivere il passaggio senza dipendere da un link; rimuovere il riferimento al file inesistente o crearne una destinazione solo in uno step autorizzato. | Corretto |
-| M01 | `index.md:35`, `index.md:38`, `index.md:104` | Stato editoriale del modulo | Media | L'indice del modulo conserva `module_status: source_ready`, `draft_stage: source-ready` e un `Prossimo passo` orientato alla scrittura dei capitoli, mentre i 15 capitoli e i report step 12 esistono gia'. | Aggiornare stato, fase e prossimo passo per riflettere revisione trasversale/correzioni, senza anticipare text freeze o pubblicabilita'. | Aperto |
-| M02 | Frontmatter capitoli 1-15 | Metadati e workflow | Media | Tutti i capitoli mantengono `review_required: true`; alcuni sono ancora `status: draft` o `draft_stage: full-draft`, altri `revised_draft` o `complete_draft`. Dopo lo step 12 il quadro metadata non descrive in modo uniforme la maturita' reale. | Dopo la chiusura dei blocker, riallineare `status`, `draft_stage` e `review_required` secondo convenzione pipeline, senza modificare ora i capitoli. | Aperto |
-| M03 | Report step 12 capitolo 15 e `chapters/15-appendici-operative.md:565` | Tracciabilita' report/testo | Media | Il report step 12 del capitolo 15 lascia aperto un errore medio su Q97 ("sei" vs "sette"), ma il file corrente letto allo step 13 contiene gia' `Q97. Quali sette elementi...`. Non lo conto come errore aperto del testo, ma la tracciabilita' dei report e' disallineata. | Verificare cronologia e chiudere o annotare l'esito del report cap. 15 in uno step che autorizzi l'aggiornamento dei report individuali. | Da verificare |
-| L01 | `chapters/15-appendici-operative.md:652` e `:656` | Gerarchia locale e refuso strutturale | Lieve | La verifica finale del capitolo 15 compare due volte: una riga non titolata `▣ Verifica - Collaudo degli strumenti finali` e subito dopo un H2 quasi identico. Il contenuto resta utilizzabile, ma l'effetto e' ridondante e puo' sporcare indice automatico o impaginazione. | Eliminare una delle due etichette o fonderle in un solo heading coerente nel giro di correzioni sul capitolo. | Aperto |
-| L02 | Report step 12 capitoli 1-5 | Tracciabilita' storica | Lieve | Alcuni report individuali conservano note su capitoli successivi ancora scaffold o rinvii non stabilizzati; i capitoli successivi oggi risultano completi. Non e' un errore del testo lettore, ma puo' confondere una lettura retrospettiva dei report. | Nel consolidamento documentale, marcare quelle note come superate oppure sostituirle con lo stato corrente, preservando le verifiche normative ancora aperte. | Proposto |
+| G01 | `front-matter/06-indice.md` | Indice e promessa al lettore | Grave | Il front-matter dell'indice era vuoto e non presentava i capitoli al lettore. | Chiuso: `06-indice.md` contiene esattamente 15 voci, corrispondenti ai 15 file reali in `chapters/`, senza planning/report. | Chiuso |
+| G02 | `planning/02-matrice-copertura-didattica.md` | Copertura didattica v4 e gate | Grave | La matrice poteva far leggere gli stati storici `mancante` come stato corrente. | Chiuso: frontmatter `status: complete`, `canonical: true`; apertura distingue audit iniziale storico e stato corrente, con `Stato dopo` come colonna vincolante; le righe sintetiche dei capitoli 14 e 15 non sono piu' `mancante` ma coerenti con le tabelle formato 2. | Chiuso |
+| G03 | Capitoli 1-7 | Artefatti interni nel corpo lettore | Grave | I capitoli 1-7 esponevano sezioni/linguaggio interno e wikilink editoriali non reader-visible. | Chiuso: rimossi `Riferimenti consolidati`, `Note di review`, wikilink a `sources/topics/entities/raw/planning/reviews` e formulazioni come `source note`/`fonti consolidate`; le fonti restano nel frontmatter. | Chiuso |
+| G04 | Capitoli 1-7, rinvii a VOL-01 | Rinvii e dipendenze VOL-01 | Grave | Diversi rinvii a VOL-01 erano generici o puntavano a file inesistente. | Chiuso: i rinvii rimasti nel corpo sono ancorati a heading verificati in `costituzione-e-ordinamento-dello-stato`, `pubblico-impiego-e-organizzazione-pa` e `trasparenza-anticorruzione-privacy`; nessun residuo di `diritto-amministrativo-operativo`. | Chiuso |
+| M01 | `index.md:35`, `index.md:38`, `index.md:104` | Stato editoriale del modulo | Media | L'indice del modulo conservava `module_status: source_ready`, `draft_stage: source-ready` e un `Prossimo passo` orientato alla scrittura dei capitoli. | Chiuso: `index.md` dichiara `status/module_status: revised_draft`, `draft_stage: revised-editorial-draft` e prossimo passo su audit normativi/tecnici e preflight KDP. | Chiuso |
+| M02 | Frontmatter capitoli 1-15 | Metadati e workflow | Media | I capitoli conservavano stati e draft stage disomogenei dopo la chiusura degli audit. | Chiuso: 15/15 capitoli dichiarano `status: revised_draft`, `draft_stage: specialist-audit-complete` e `review_required: false`. | Chiuso |
+| M03 | Report step 12 capitolo 15 e `chapters/15-appendici-operative.md:565` | Tracciabilita' report/testo | Media | Il report step 12 del capitolo 15 lasciava aperto un errore medio su Q97 ("sei" vs "sette"), mentre il file corrente contiene `Q97. Quali sette elementi...`. | Chiuso: il report step 12 del capitolo 15 registra E01 come `Chiuso` e il testo corrente di Q97 e' coerente con schema e chiave. | Chiuso |
+| L01 | `chapters/15-appendici-operative.md:652` | Gerarchia locale e refuso strutturale | Lieve | La verifica finale del capitolo 15 compariva due volte, una riga non titolata e subito dopo un H2 quasi identico. | Chiuso: resta un solo heading `## ▣ Verifica - collaudo degli strumenti finali`, seguito dall'introduzione, dai quiz e dal caso integrato. | Chiuso |
+| L02 | Report step 12 capitoli 1-5 | Tracciabilita' storica | Lieve | Alcuni report individuali conservano note su capitoli successivi ancora scaffold o rinvii non stabilizzati; i capitoli successivi oggi risultano completi. Non e' un errore del testo lettore, ma puo' confondere una lettura retrospettiva dei report. | Nel consolidamento documentale, marcare quelle note come superate oppure sostituirle con lo stato corrente, preservando le verifiche normative ancora aperte. | Aperto |
 
-Esito della riconciliazione dei blocker: G01 chiuso con indice reader-facing di 15 voci; G02 con matrice complete, canonica e legenda stato iniziale/stato corrente; G03 con rimozione degli apparati interni dai capitoli 1-7; G04 con target esistenti e anchor verificati nel corpo, oltre alla correzione dello slug nel frontmatter del capitolo 7.
+Esito della riconciliazione dei blocker: G01-G04 e M02 risultano chiusi sul sorgente corrente. Resta L02, lieve e documentale; il controllo PDF appartiene al preflight produttivo.
 
 ## 4. Osservazioni per capitolo
 
 ### Capitolo 01 - Lavorare nei Ministeri e nelle Funzioni Centrali
 
-Capitolo introduttivo forte: chiarisce perimetro, famiglie, profili e primo Bando Decoder. Il blocker e' editoriale, non didattico: contiene formulazione interna sulla source note ARAN e chiusure con `Riferimenti consolidati` e `Note di review`. I report step 12 aprono verifiche su collocazione del modulo, fonti vive e rinvii VOL-01.
+Capitolo introduttivo forte: chiarisce perimetro, famiglie, profili e primo Bando Decoder. Il corpo lettore non espone piu' source note, sezioni di review o wikilink interni vietati. Restano verifiche su fonti vive e dati mobili, da trattare negli audit successivi.
 
 ### Capitolo 02 - Anatomia del bando ministeriale/RIPAM
 
-La progressione in domande operative funziona e il capitolo rende autonomo il candidato nella lettura di bando, gestore, prove, soglie e scadenze. Restano apparati interni in coda e verifiche su D.P.R. 487/1994, D.P.R. 82/2023, inPA, Formez/RIPAM e funzionalita' correnti.
+La progressione in domande operative funziona e il capitolo rende autonomo il candidato nella lettura di bando, gestore, prove, soglie e scadenze. Non restano apparati interni nel corpo; restano verifiche su D.P.R. 487/1994, D.P.R. 82/2023, inPA, Formez/RIPAM e funzionalita' correnti.
 
 ### Capitolo 03 - Profili professionali, CCNL e mansioni
 
-Profilo, area, famiglia professionale e mansioni sono distinti con taglio prudente. Il capitolo non sostituisce il CCNL al bando. Restano i riferimenti interni in coda e le verifiche ARAN/PCM su denominazioni, sistemi professionali e contrattazione vigente.
+Profilo, area, famiglia professionale e mansioni sono distinti con taglio prudente. Il capitolo non sostituisce il CCNL al bando e cita ARAN/contratti in forma leggibile. Restano verifiche ARAN/PCM su denominazioni, sistemi professionali e contrattazione vigente.
 
 ### Capitolo 04 - Governo, Ministeri e amministrazione centrale
 
-La mappa istituzionale e' coerente: Governo, Presidente, Consiglio, ministro, Ministero e dirigenza non vengono confusi. Sono pero' presenti rinvii VOL-01 senza heading precisi nel corpo e riferimenti interni in coda. Le fonti costituzionali, legge n. 400/1988, D.Lgs. n. 300/1999 e D.Lgs. n. 165/2001 restano da verificare al cut-off.
+La mappa istituzionale e' coerente: Governo, Presidente, Consiglio, ministro, Ministero e dirigenza non vengono confusi. I rinvii VOL-01 nel corpo puntano a heading verificati; le fonti costituzionali, legge n. 400/1988, D.Lgs. n. 300/1999 e D.Lgs. n. 165/2001 restano da verificare al cut-off.
 
 ### Capitolo 05 - Presidenza del Consiglio dei ministri
 
-Capitolo autonomo e prudente: distingue Presidente e Presidenza, supporto, impulso, coordinamento, strutture e specificita' contrattuale. Non emergono duplicazioni con il capitolo 04. Restano note/references interne e verifiche su D.Lgs. n. 303/1999, DPCM organizzativi, sito PCM e ARAN.
+Capitolo autonomo e prudente: distingue Presidente e Presidenza, supporto, impulso, coordinamento, strutture e specificita' contrattuale. Non emergono duplicazioni con il capitolo 04. Restano verifiche su D.Lgs. n. 303/1999, DPCM organizzativi, sito PCM e ARAN.
 
 ### Capitolo 06 - Organizzazione interna dei Ministeri
 
-Il metodo funzione-fonte-competenza-responsabilita' e' buono e non cristallizza organigrammi mobili. Resta un rinvio VOL-01 generico e l'apparato interno finale. Le verifiche su D.Lgs. n. 300/1999, D.Lgs. n. 165/2001, regolamenti e atti organizzativi sono correttamente demandate all'audit.
+Il metodo funzione-fonte-competenza-responsabilita' e' buono e non cristallizza organigrammi mobili. Il rinvio VOL-01 residuo e' ancorato alla sezione esistente su indirizzo politico e gestione. Le verifiche su D.Lgs. n. 300/1999, D.Lgs. n. 165/2001, regolamenti e atti organizzativi sono demandate all'audit.
 
 ### Capitolo 07 - Avvocatura dello Stato
 
-Il capitolo distingue organo legale, patrocinio, consulenza, fascicolo e rapporto con amministrazione assistita. I problemi sono gravi sul piano dei rinvii: compare un file VOL-01 inesistente e i link a nucleo comune sono senza heading. Restano da verificare R.D. n. 1611/1933, assetti, termini, flussi e bandi.
+Il capitolo distingue organo legale, patrocinio, consulenza, fascicolo e rapporto con amministrazione assistita. Il file VOL-01 inesistente e' stato rimosso dai rinvii effettivi e il link al nucleo comune su trasparenza/accessi/privacy e' ancorato a heading reale. Restano da verificare R.D. n. 1611/1933, assetti, termini, flussi e bandi.
 
 ### Capitolo 08 - PIAO, performance, anticorruzione e valore pubblico
 
@@ -146,7 +146,7 @@ Capitolo solido per gerarchia di scelta, doveri, astensione, servizio, riservate
 
 ### Capitolo 13 - Matrice materie e piano 30/60/90
 
-Il capitolo traduce il modulo in priorita', output e piano adattabile. CORE, ALTA, MEDIA, MOD e VERIF sono coerenti. Restano verifiche su bando, allegati, codici profilo, CCNL, disciplina delle prove e tabelle larghe nel PDF; il capitolo non risolve pero' la matrice di pianificazione esterna indicata in G02.
+Il capitolo traduce il modulo in priorita', output e piano adattabile. CORE, ALTA, MEDIA, MOD e VERIF sono coerenti. Restano verifiche su bando, allegati, codici profilo, CCNL, disciplina delle prove e tabelle larghe nel PDF; la matrice esterna e' stata chiarita sul rapporto fra audit storico e stato corrente.
 
 ### Capitolo 14 - Simulazione finale e diario degli errori
 
@@ -154,21 +154,21 @@ Chiude bene il percorso con configurazione della prova, distinzione fra dato uff
 
 ### Capitolo 15 - Appendici operative
 
-Appendici complete: glossario, tavole, Bando Decoder, checklist, cento domande, schema orale, quiz e caso integrato. Il report step 12 segnalava Q97 come medio aperto, ma nel file corrente Q97 e' gia' allineato a "sette elementi"; resta solo da riallineare la tracciabilita'. Da correggere invece la doppia etichetta della verifica finale e da controllare il layout degli apparati.
+Appendici complete: glossario, tavole, Bando Decoder, checklist, cento domande, schema orale, quiz e caso integrato. Q97 e' allineato a "sette elementi" e il report step 12 lo registra come chiuso. La doppia etichetta della verifica finale e' stata fusa in un solo heading; resta da controllare il layout degli apparati.
 
 ## 5. Coerenza globale
 
 - Bibbia del modulo: M-FC01 deve insegnare a riconoscere il perimetro Ministeri/PCM/Avvocatura, leggere il bando, adattare profilo e prove, applicare istituti centrali a casi di ufficio e chiudere con piano, simulazione e strumenti.
 - Progressione: la sequenza 1-3 orienta e classifica; 4-7 costruisce l'architettura istituzionale; 8-10 sviluppa gestione, risorse e digitale; 11-12 applica; 13-15 pianifica, simula e consolida.
-- Dipendenze: i capitoli successivi richiamano correttamente i precedenti, ma non devono dipendere da link interni a source note o da rinvii VOL-01 generici.
-- Indice/capitoli: i 15 capitoli esistono e corrispondono al piano sostanziale; manca pero' un indice front-matter pubblicabile.
-- Promesse della premessa: il modulo tratta Ministeri, PCM, Avvocatura, CCNL/Profili, PIAO, performance, anticorruzione, contabilita', contratti, digitale, casi, situazionali e simulazioni. Le promesse sono mantenute nel corpo, non ancora negli artefatti di accesso.
+- Dipendenze: i capitoli successivi richiamano correttamente i precedenti e non dipendono da link interni a source note o da rinvii VOL-01 generici nel corpo.
+- Indice/capitoli: i 15 capitoli esistono e corrispondono al front-matter `06-indice.md`.
+- Promesse della premessa: il modulo tratta Ministeri, PCM, Avvocatura, CCNL/Profili, PIAO, performance, anticorruzione, contabilita', contratti, digitale, casi, situazionali e simulazioni. Le promesse sono mantenute nel corpo e nell'indice studente.
 - Terminologia: stabile e corretta nelle coppie a rischio: Governo/PA, ministro/Ministero, Presidente/Presidenza, Avvocatura/ufficio giudiziario, stazione appaltante/operatore, CIG/CUP, competenza/cassa.
-- Ripetizioni: i richiami fra capitoli sono didattici, non ridondanze bloccanti. Le ripetizioni da rimuovere sono di apparato, soprattutto nei riferimenti interni e nella verifica finale del capitolo 15.
-- Rinvii: i rinvii a VOL-01 sono il punto piu' debole. Devono essere precisi, esistenti e ancorati, oppure eliminati.
+- Ripetizioni: i richiami fra capitoli sono didattici, non ridondanze bloccanti. La duplicazione della verifica finale del capitolo 15 e' stata rimossa.
+- Rinvii: i rinvii a VOL-01 rimasti nel corpo sono precisi, esistenti e ancorati.
 - Casi e workbook: la distribuzione e' equilibrata. I capitoli 11-15 non sostituiscono la teoria: la trasformano in prestazione.
 - Profili e confini: il modulo resta nel perimetro Funzioni Centrali/Ministeri/PCM/Avvocatura e non invade Agenzie fiscali, EPNE, uffici giudiziari, Authority, ICT o tecnici salvo orientamento di routing.
-- Matrice: la copertura reale dei capitoli e' ampia e coerente con i report step 12; la matrice esterna pero' non e' gate-clean finche' mostra stati `mancante` non chiariti.
+- Matrice: la copertura reale dei capitoli e' ampia e coerente con i report step 12; gli stati `mancante` residui sono storici nella colonna `Stato prima`, non stato corrente, e il quadro sintetico non mantiene piu' capitoli reali completati come `mancante`.
 
 ## 6. Contenuto da verificare
 
@@ -193,19 +193,16 @@ Appendici complete: glossario, tavole, Bando Decoder, checklist, cento domande, 
 
 ## 8. Priorità degli interventi
 
-1. Chiudere i blocker G01-G04: indice front-matter, matrice, artefatti interni nei capitoli 1-7 e rinvii VOL-01.
-2. Riallineare M01-M03: stato dell'indice modulo, metadati dei capitoli e tracciabilita' del report cap. 15.
-3. Correggere L01-L02 nel giro di pulizia documentale.
-4. Eseguire gli audit normativi, contrattuali, organizzativi e tecnici elencati nella sezione 6, usando solo fonti consolidate o ufficiali.
-5. Eseguire il preflight PDF/KDP prima di qualunque giudizio tipografico.
-6. Ripetere link check, controllo di copertura v4, lint Markdown e test studente prima del text freeze.
+1. Conservare chiuso M02 e storicizzare L02 nel normale consolidamento documentale.
+2. Eseguire il preflight PDF/KDP prima di qualunque giudizio tipografico.
+3. Ripetere link check, controllo di copertura v4, lint Markdown e test studente prima del text freeze.
 
 ## 9. Giudizio di pubblicabilità
 
-Pubblicabile dopo intervento medio.
+Pubblicabile con correzioni minori.
 
-Motivazione: non risultano capitoli mancanti o nuclei didattici sostanzialmente vuoti, ma gli errori G01-G04 sono gravi per pubblicazione. Un manuale non puo' uscire con indice front-matter vuoto, matrice con stati `mancante` non chiariti, sezioni di review/source note dentro il corpo lettore e rinvii VOL-01 generici o rotti. Dopo la chiusura di questi blocker, il modulo potra' essere rivalutato; i controlli normativi e il layout restano condizioni successive, non errori certi gia' dimostrati.
+Motivazione: non risultano capitoli mancanti, nuclei didattici sostanzialmente vuoti o errori gravi o medi residui nel sorgente Markdown controllato. G01-G04 e M01-M03 sono chiusi; resta L02, lieve e documentale. Il layout/PDF appartiene al passaggio produttivo successivo.
 
 ## 10. Limiti di questa revisione
 
-La revisione ha esaminato Markdown, artefatti editoriali locali, report step 12, architettura moduli e logica di copertura v4. Non sono state consultate raw source, non e' stato eseguito browsing web, non e' stata verificata la vigenza normativa al cut-off tramite fonti ufficiali esterne e non e' stato ispezionato un PDF impaginato. Non sono stati modificati capitoli, front-matter, matrice, index, run-state, log, memoria o report individuali, e non e' stato eseguito `complete`.
+La revisione ha esaminato Markdown, artefatti editoriali locali, report step 12, architettura moduli e logica di copertura v4. Non sono state consultate raw source, non e' stato eseguito browsing web, non e' stata verificata la vigenza normativa al cut-off tramite fonti ufficiali esterne e non e' stato ispezionato un PDF impaginato. Non sono stati modificati run-state, log o memoria, e non e' stato eseguito `complete`.

@@ -15,12 +15,12 @@ book_refs: ["m-fc01-ministeri", "il-metodo-bando"]
 confidence: 0.86
 updated_at: 2026-08-05
 created_at: 2026-06-27T22:08:22+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "module-code-m-fc01", "professional-draft"]
 book_id: m-fc01-ministeri
 outline_section: 7
-draft_stage: editorial-revision
+draft_stage: specialist-audit-complete
 module_code: M-FC01
 module_family: funzioni-centrali
 companion_to: il-metodo-bando
@@ -76,7 +76,7 @@ Al termine del capitolo saprai:
 
 ## Che cos'è l'Avvocatura dello Stato
 
-Il R.D. 30 ottobre 1933, n. 1611 costituisce la base ordinamentale storica richiamata dalle fonti consolidate del modulo. La disciplina vigente deve essere verificata prima di attribuire poteri, casi di patrocinio o regole processuali puntuali.
+Il R.D. 30 ottobre 1933, n. 1611 costituisce una base ordinamentale storica dell'Avvocatura dello Stato. La disciplina vigente deve essere verificata prima di attribuire poteri, casi di patrocinio o regole processuali puntuali.
 
 Nel perimetro di questo capitolo, l'Avvocatura dello Stato è l'organo legale dello Stato. La sua funzione si esprime soprattutto in due direzioni:
 
@@ -205,7 +205,7 @@ La frase «se ne occupa l'Avvocatura» è quindi insufficiente. Una risposta pro
 
 ## Avvocatura generale e Avvocature distrettuali
 
-Le fonti consolidate distinguono l'Avvocatura generale dello Stato e le Avvocature distrettuali. Questa articolazione consente di leggere l'istituzione in una dimensione centrale e territoriale, ma non autorizza a dedurre competenze puntuali dalla sola denominazione.
+La disciplina e la documentazione istituzionale distinguono l'Avvocatura generale dello Stato e le Avvocature distrettuali. Questa articolazione consente di leggere l'istituzione in una dimensione centrale e territoriale, ma non autorizza a dedurre competenze puntuali dalla sola denominazione.
 
 Per orientarsi servono quattro domande:
 
@@ -343,7 +343,7 @@ Il caso non stabilisce una procedura processuale universale. Mostra il metodo am
 
 **Domanda:** quali sono le principali funzioni dell'Avvocatura dello Stato e come si rapporta alle amministrazioni?
 
-**Risposta modello:** l'Avvocatura dello Stato è l'organo legale dello Stato. Le fonti consolidate ne individuano le funzioni di difesa in giudizio e consulenza giuridica per le amministrazioni assistite secondo la disciplina applicabile. L'amministrazione fornisce fatti, atti e documenti e conserva le proprie competenze decisionali; l'Avvocatura esercita la funzione legale. Organizzazione e attribuzioni puntuali devono essere verificate sulle fonti vigenti.
+**Risposta modello:** l'Avvocatura dello Stato è l'organo legale dello Stato. La disciplina e la documentazione istituzionale ne individuano le funzioni di difesa in giudizio e consulenza giuridica per le amministrazioni assistite secondo la disciplina applicabile. L'amministrazione fornisce fatti, atti e documenti e conserva le proprie competenze decisionali; l'Avvocatura esercita la funzione legale. Organizzazione e attribuzioni puntuali devono essere verificate sulle fonti vigenti.
 
 ## Domanda-trappola
 

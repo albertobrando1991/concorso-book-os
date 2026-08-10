@@ -2,7 +2,7 @@
 id: chapter-m-fc01-ministeri-piano-editoriale
 type: editorial_plan
 title: "Piano editoriale - M-FC01 Ministeri e Presidenza del Consiglio"
-status: source_ready
+status: text_frozen
 domain: "concorsi pubblici italiani"
 topics: ["moduli specialistici","funzioni-centrali","ministeri","presidenza del consiglio","avvocatura dello stato","metodo bando"]
 entities: ["Metodo BANDO","Ministeri","Presidenza del Consiglio dei ministri","Avvocatura dello Stato"]
@@ -20,11 +20,11 @@ book_refs: ["m-fc01-ministeri","il-metodo-bando"]
 confidence: 0.86
 updated_at: 2026-06-27T22:08:22+02:00
 created_at: 2026-06-27T19:56:28+02:00
-review_required: true
+review_required: false
 canonical: true
-tags: ["editorial-plan","specialist-module-plan","module-code-m-fc01","source-ready"]
+tags: ["editorial-plan","specialist-module-plan","module-code-m-fc01","text-freeze"]
 book_id: m-fc01-ministeri
-draft_stage: source-ready
+draft_stage: text-frozen
 module_code: M-FC01
 module_family: funzioni-centrali
 last_compiled_from: ["wiki/books/moduli/architettura-moduli-specialistici.md","wiki/books/moduli/m-fc01-ministeri/index.md","wiki/sources/m-fc01-dossier-redazionale-ministeri-pcm-avvocatura.md"]

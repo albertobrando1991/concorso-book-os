@@ -15,12 +15,12 @@ book_refs: ["m-fc01-ministeri", "il-metodo-bando"]
 confidence: 0.84
 updated_at: 2026-08-05
 created_at: 2026-06-27T22:08:22+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "module-code-m-fc01", "professional-draft"]
 book_id: m-fc01-ministeri
 outline_section: 6
-draft_stage: editorial-revision
+draft_stage: specialist-audit-complete
 module_code: M-FC01
 module_family: funzioni-centrali
 companion_to: il-metodo-bando

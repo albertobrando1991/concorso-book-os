@@ -16,12 +16,12 @@ book_refs: ["m-fc01-ministeri", "il-metodo-bando"]
 confidence: 0.86
 updated_at: 2026-08-04
 created_at: 2026-06-27T22:08:22+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "module-code-m-fc01", "professional-draft"]
 book_id: m-fc01-ministeri
 outline_section: 3
-draft_stage: editorial-revision
+draft_stage: specialist-audit-complete
 module_code: M-FC01
 module_family: funzioni-centrali
 companion_to: il-metodo-bando
@@ -121,7 +121,7 @@ Retribuzioni, indennità, progressioni e altri dettagli economici cambiano nel t
 
 ## Funzioni Centrali e Presidenza del Consiglio
 
-La Presidenza del Consiglio dei ministri richiede una verifica specifica. Le fonti ARAN consolidate distinguono il comparto e l'area della Presidenza dal perimetro ordinario delle Funzioni Centrali. Di conseguenza, un candidato a una procedura PCM non deve applicare automaticamente etichette, ordinamenti professionali o istituti ricavati da un diverso contratto.
+La Presidenza del Consiglio dei ministri richiede una verifica specifica. La documentazione ARAN e la disciplina contrattuale applicabile distinguono il comparto e l'area della Presidenza dal perimetro ordinario delle Funzioni Centrali. Di conseguenza, un candidato a una procedura PCM non deve applicare automaticamente etichette, ordinamenti professionali o istituti ricavati da un diverso contratto.
 
 La distinzione riguarda il contratto. L'ordinamento istituzionale della Presidenza, le sue funzioni e la sua organizzazione sono sviluppati nel [[books/moduli/m-fc01-ministeri/chapters/05-presidenza-consiglio-ministri|capitolo 05]]. Qui interessa una sola conseguenza operativa: quando il bando riguarda la PCM, occorre controllare quale contratto richiama, quale area indica e come descrive profilo e attività.
 

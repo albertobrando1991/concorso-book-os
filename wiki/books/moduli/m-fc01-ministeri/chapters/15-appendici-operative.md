@@ -83,7 +83,7 @@ last_compiled_from: [wiki/sources/m-fc01-dossier-redazionale-ministeri-pcm-avvoc
 confidence: 0.88
 created_at: 2026-06-27T22:08:22+02:00
 updated_at: 2026-08-10T17:30:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags:
   - book-chapter
@@ -93,7 +93,7 @@ tags:
   - pipeline-step-09
 book_id: m-fc01-ministeri
 outline_section: A
-draft_stage: professional-draft
+draft_stage: specialist-audit-complete
 module_code: M-FC01
 module_family: funzioni-centrali
 companion_to: il-metodo-bando

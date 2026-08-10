@@ -21,12 +21,12 @@ book_refs: ["m-fc01-ministeri", "il-metodo-bando"]
 confidence: 0.86
 updated_at: 2026-08-04
 created_at: 2026-06-27T22:08:22+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "module-code-m-fc01", "professional-draft"]
 book_id: m-fc01-ministeri
 outline_section: 1
-draft_stage: humanized-editorial-revision
+draft_stage: specialist-audit-complete
 module_code: M-FC01
 module_family: funzioni-centrali
 last_compiled_from: [
@@ -156,7 +156,7 @@ Il modulo ha tre porte principali.
 
 ### Ministeri
 
-I Ministeri sono amministrazioni centrali con funzioni di settore. Il D.Lgs. 30 luglio 1999, n. 300 e le fonti ufficiali Governo/PCM sono riferimenti consolidati per inquadrare organizzazione del Governo, ministeri, agenzie e apparati centrali. Per il candidato, però, non serve partire da una ricostruzione storica. Serve capire che ogni Ministero ha una funzione pubblica riconoscibile e una struttura organizzativa che incide sul lavoro degli uffici.
+I Ministeri sono amministrazioni centrali con funzioni di settore. Il D.Lgs. 30 luglio 1999, n. 300 e le fonti ufficiali del Governo e della Presidenza del Consiglio servono a inquadrare organizzazione del Governo, ministeri, agenzie e apparati centrali. Per il candidato, però, non serve partire da una ricostruzione storica. Serve capire che ogni Ministero ha una funzione pubblica riconoscibile e una struttura organizzativa che incide sul lavoro degli uffici.
 
 In un bando ministeriale devi cercare:
 

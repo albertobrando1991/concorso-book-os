@@ -11,12 +11,12 @@ book_refs: ["m-fc01-ministeri", "il-metodo-bando"]
 confidence: 0.84
 updated_at: 2026-08-04
 created_at: "2026-06-27T22:08:22+02:00"
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "module-code-m-fc01", "structure"]
 book_id: m-fc01-ministeri
 outline_section: 2
-draft_stage: editorial-revision
+draft_stage: specialist-audit-complete
 module_code: M-FC01
 module_family: funzioni-centrali
 last_manual_writer_run: 2026-08-04
@@ -27,7 +27,7 @@ last_compiled_from: [
   "wiki/sources/inpa-formez-ripam-concorsi-funzioni-centrali.md",
   "wiki/sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md",
   "wiki/sources/m-fc01-dossier-redazionale-ministeri-pcm-avvocatura.md",
-  "wiki/books/il-metodo-bando/chapters/leggere-bando-senza-perdersi.md"
+  "wiki/books/il-metodo-bando/chapters/anatomia-del-bando.md"
 ]
 ---
 

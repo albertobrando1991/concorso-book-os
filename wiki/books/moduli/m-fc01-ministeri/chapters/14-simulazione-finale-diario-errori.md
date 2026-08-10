@@ -2,7 +2,7 @@
 id: chapter-m-fc01-14-simulazione-finale-diario-errori
 type: book_chapter
 title: "Simulazione finale e diario degli errori"
-status: complete_draft
+status: revised_draft
 domain: "concorsi pubblici italiani"
 topics: ["simulazione finale", "diario errori", "ripasso", "funzioni centrali"]
 entities: ["Metodo BANDO", "Ministeri", "Presidenza del Consiglio dei ministri", "Avvocatura dello Stato", "inPA", "Formez", "RIPAM", "D.P.R. 487/1994"]
@@ -11,12 +11,12 @@ book_refs: ["m-fc01-ministeri", "il-metodo-bando"]
 confidence: 0.86
 updated_at: 2026-08-09T13:40:00+02:00
 created_at: 2026-06-27T22:08:22+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "module-code-m-fc01", "format-version-2", "step-09"]
 book_id: m-fc01-ministeri
 outline_section: 14
-draft_stage: complete_draft
+draft_stage: specialist-audit-complete
 module_code: M-FC01
 module_family: funzioni-centrali
 companion_to: il-metodo-bando

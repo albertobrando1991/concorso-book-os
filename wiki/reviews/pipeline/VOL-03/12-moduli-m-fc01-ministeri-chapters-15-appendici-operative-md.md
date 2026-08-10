@@ -32,7 +32,7 @@ Il test dello studente e' superato. Senza frontmatter, wiki, dashboard o report,
 
 ## 2. Punti applicati della checklist
 
-1. Indice: applicato. Il modulo colloca le appendici dopo il capitolo 14; il front matter indice e' solo abbozzato e resta limite trasversale.
+1. Indice: applicato. Il modulo colloca le appendici dopo il capitolo 14; il front matter indice corrente elenca i 15 capitoli reali.
 2. Struttura del libro: applicato. Il capitolo chiude il modulo con apparati A-F coerenti con il piano.
 3. Progressione logica: applicato. Le appendici seguono perimetro, fonti, strumenti, ripasso e orale.
 4. Titoli e gerarchia: applicato. Un H1, sei nuclei H2, sottosezioni H3 e verifica finale.
@@ -85,7 +85,7 @@ Non sono emersi errori gravi, contraddizioni normative certe o nuclei da retroce
 ## 5. Coerenza globale
 
 - Terminologia: Ministero, ministro, Governo, Presidenza del Consiglio, Avvocatura, comparto, area, famiglia professionale, profilo, gestore, amministrazione titolare, CORE, MOD e VERIF restano distinti.
-- Struttura vs indice: il modulo elenca le appendici dopo il capitolo 14 e il piano step 08 richiede proprio glossario, tavole, Decoder, checklist, cento domande e schema orale. Il front matter indice non consente ancora un controllo analitico dello studente perche contiene solo il titolo.
+- Struttura vs indice: il modulo elenca le appendici dopo il capitolo 14 e il piano step 08 richiede proprio glossario, tavole, Decoder, checklist, cento domande e schema orale. Il front matter indice corrente consente il controllo dei 15 capitoli reali.
 - Promesse dell'introduzione mantenute: si'. Il capitolo consegna glossario specialistico, tavole funzionali, Bando Decoder, checklist finale, cento domande originali dichiarate, schema orale, otto quiz e caso integrato.
 - Copertura v4 e confini: nessuna duplicazione estesa del B-PA; il capitolo applica il Metodo BANDO al perimetro M-FC01 e non introduce verticali di altre famiglie. I dati mobili sono marcati come VERIF invece di essere stabilizzati senza fonte.
 - Rinvii: il corpo non dipende da wikilink o da rinvii a VOL-01 non disponibili al lettore. I richiami a fonti e capitoli funzionano come tracciabilita editoriale nel frontmatter o come riferimenti leggibili nel testo.

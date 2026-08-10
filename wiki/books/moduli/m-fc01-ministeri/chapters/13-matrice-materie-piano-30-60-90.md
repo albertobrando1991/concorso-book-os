@@ -2,7 +2,7 @@
 id: chapter-m-fc01-13-matrice-materie-piano-30-60-90
 type: book_chapter
 title: "Matrice materie e piano 30/60/90"
-status: draft
+status: revised_draft
 domain: "concorsi pubblici italiani"
 topics: ["matrice materie", "piano studio", "30 60 90", "funzioni centrali"]
 entities: ["Metodo BANDO", "Ministeri"]
@@ -11,12 +11,12 @@ book_refs: ["m-fc01-ministeri", "il-metodo-bando"]
 confidence: 0.88
 updated_at: 2026-08-09T12:40:00+02:00
 created_at: 2026-06-27T22:08:22+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "module-code-m-fc01", "structure"]
 book_id: m-fc01-ministeri
 outline_section: 13
-draft_stage: full-draft
+draft_stage: specialist-audit-complete
 module_code: M-FC01
 module_family: funzioni-centrali
 companion_to: il-metodo-bando
