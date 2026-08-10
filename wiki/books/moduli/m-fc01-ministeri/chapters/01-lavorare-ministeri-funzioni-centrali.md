@@ -171,7 +171,7 @@ In un bando ministeriale devi cercare:
 
 La Presidenza del Consiglio dei ministri non va confusa con un Ministero ordinario. Ha una funzione di supporto, impulso e coordinamento legata al Presidente del Consiglio e alle strutture della Presidenza. Per i concorsi, questo significa che il candidato deve leggere con cura il bando e non applicare automaticamente gli schemi ministeriali generici.
 
-La source note ARAN ricorda inoltre che la Presidenza può avere disciplina contrattuale autonoma rispetto al comparto ordinario delle Funzioni Centrali. Nel capitolo 3 questo aspetto verrà' tradotto in lettura di area, profilo e mansioni.
+Le fonti contrattuali ARAN distinguono inoltre la disciplina della Presidenza dal comparto ordinario delle Funzioni Centrali. Nel capitolo 3 questo aspetto verrà' tradotto in lettura di area, profilo e mansioni.
 
 In questo capitolo ti basta una regola:
 
@@ -505,26 +505,3 @@ Prima di passare al capitolo 2, devi poter rispondere senza appunti:
 | So quali dati non devo citare senza verifica ufficiale? | |
 
 Se una risposta manca, non è un fallimento. È il primo elemento del tuo piano di studio.
-
-## Riferimenti consolidati
-
-- [[sources/m-fc01-dossier-redazionale-ministeri-pcm-avvocatura]]
-- [[sources/rgs-conto-annuale-funzioni-centrali]]
-- [[sources/governo-presidenza-consiglio-ministeri-organizzazione]]
-- [[sources/d-lgs-30-luglio-1999-n-300-organizzazione-governo]]
-- [[sources/aran-ccnl-funzioni-centrali-pcm-2022-2026]]
-- [[sources/inpa-formez-ripam-concorsi-funzioni-centrali]]
-- [[sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego]]
-- [[sources/d-p-r-9-maggio-1994-n-487-accesso-agli-impieghi-pubblici-e-concorsi]]
-- [[sources/metodo-bando-progetto-editoriale]]
-- [[books/il-metodo-bando/chapters/famiglie-concorsi-pubblici]]
-- [[books/il-metodo-bando/chapters/anatomia-del-bando]]
-- [[books/il-metodo-bando/chapters/pubblico-impiego-e-organizzazione-pa]]
-- [[books/il-metodo-bando/chapters/scegliere-moduli-integrativi]]
-
-## Note di review
-
-- Prima della pubblicazione finale verificare eventuali dati quantitativi su personale, comparti e trend tramite Conto annuale RGS o altra fonte statistica ufficiale aggiornata.
-- Prima di citare esempi di bandi recenti, scaricare e schedare 3-5 bandi rappresentativi da inPA/Formez/RIPAM o dai siti delle amministrazioni titolari.
-- Non pubblicare elenchi correnti di Ministeri, ministri, dipartimenti, uffici PCM o strutture senza controllo sulle pagine ufficiali aggiornate.
-- Verificare eventuali aggiornamenti contrattuali o discipline speciali se il capitolo viene usato per un bando PCM o per profili con inquadramento particolare.

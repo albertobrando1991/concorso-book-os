@@ -248,19 +248,3 @@ Dopo aver compilato la scheda, scrivi in tre righe quale sarà la tua priorità 
 L'errore più frequente è iniziare a studiare dal nome della materia, non dalla struttura della prova. Il candidato legge "diritto amministrativo" e apre un capitolo generale, senza chiedersi se quella materia verrà valutata con quiz, risposta sintetica, caso pratico o orale.
 
 Questo comportamento disperde lo studio: il candidato accumula pagine lette senza costruire output valutabili. Per correggerlo, accanto a ogni materia va indicata la prova corrispondente. Se la materia entra nei quiz, servono domande a tempo. Se entra nello scritto, servono risposte ordinate. Se entra all'orale, servono spiegazioni ad alta voce. Se entra in un caso, servono soggetti, competenza, procedimento, vincoli e decisione.
-
-## Riferimenti consolidati
-
-- [[sources/inpa-formez-ripam-concorsi-funzioni-centrali]]
-- [[sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994]]
-- [[sources/m-fc01-dossier-redazionale-ministeri-pcm-avvocatura]]
-- [[entities/inpa]]
-- [[books/il-metodo-bando/struttura-madre]]
-- [[books/il-metodo-bando/design-system-editoriale]]
-
-## Note di review
-
-- Prima della pubblicazione finale, scaricare e schedare bandi ministeriali/RIPAM specifici da fonti ufficiali per inserire esempi reali senza citare dati non verificati.
-- Verificare su Normattiva il testo vigente del D.P.R. 487/1994 e gli eventuali aggiornamenti successivi al D.P.R. 82/2023.
-- Verificare le funzionalità correnti di inPA e le istruzioni operative aggiornate per candidatura, comunicazioni, allegati e monitoraggio degli avvisi.
-- Integrare, quando disponibili nel wiki consolidato, esempi distinti per Ministeri, Presidenza del Consiglio dei ministri e Avvocatura dello Stato.

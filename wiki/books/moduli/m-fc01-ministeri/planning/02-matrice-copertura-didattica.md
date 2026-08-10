@@ -2,7 +2,7 @@
 id: didactic-coverage-matrix-m-fc01
 type: review
 title: "Matrice di copertura didattica - M-FC01 Ministeri e Presidenza del Consiglio"
-status: working
+status: complete
 domain: concorsi-pubblici
 topics: [copertura-didattica-integrale, ministeri, funzioni-centrali]
 entities: [Ministeri, Presidenza del Consiglio dei ministri, Avvocatura dello Stato]
@@ -12,7 +12,7 @@ confidence: 0.86
 updated_at: 2026-08-10
 created_at: 2026-08-04
 review_required: true
-canonical: false
+canonical: true
 tags: [matrice, copertura-didattica, m-fc01]
 ---
 

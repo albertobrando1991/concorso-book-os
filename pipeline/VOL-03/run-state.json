@@ -3,7 +3,7 @@
   "specPath": "books/volumi/vol-03-fisco-dogane-previdenza-ispettivo/planning/00-scheda-pipeline.md",
   "specHash": "sha256:7a5be32028a6026f42eac9b7a221a5879330c694249c48b679a9f6ab5999df16",
   "createdAt": "2026-07-27T20:05:30.039Z",
-  "updatedAt": "2026-08-10T17:02:50.351Z",
+  "updatedAt": "2026-08-10T17:06:59.804Z",
   "steps": [
     {
       "key": "08:moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md",
@@ -4340,12 +4340,12 @@
       "scope": "module",
       "target": "moduli/m-fc01-ministeri",
       "status": "done",
-      "attempts": 2,
+      "attempts": 3,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-10T16:50:53.636Z",
+      "startedAt": "2026-08-10T17:04:43.212Z",
       "gate": {
         "passed": true,
         "blockers": [],
@@ -4362,12 +4362,12 @@
           },
           {
             "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto M03: stato \"aperto\".",
+            "message": "Errore non grave ancora aperto M03: stato \"da verificare\".",
             "location": "wiki/reviews/pipeline/VOL-03/13-moduli-m-fc01-ministeri.md"
           },
           {
             "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto L01: stato \"proposto\".",
+            "message": "Errore non grave ancora aperto L01: stato \"aperto\".",
             "location": "wiki/reviews/pipeline/VOL-03/13-moduli-m-fc01-ministeri.md"
           },
           {
@@ -4377,7 +4377,7 @@
           }
         ]
       },
-      "finishedAt": "2026-08-10T16:55:02.158Z"
+      "finishedAt": "2026-08-10T17:06:59.804Z"
     },
     {
       "key": "14:moduli/m-fc01-ministeri",

@@ -245,21 +245,3 @@ Scegli un profilo di un bando che stai preparando e completa le frasi.
 8. La prova che richiede più allenamento è ________ perché ________.
 
 Controllo finale: sottolinea in ogni risposta la parola o il passaggio del bando da cui hai ricavato l'informazione. Se non trovi il fondamento, sposta la risposta tra i dubbi da verificare.
-
-## Riferimenti consolidati
-
-- [[sources/aran-ccnl-funzioni-centrali-pcm-2022-2026]]
-- [[sources/ccnl-comparti-aree-famiglie-professionali-pa]]
-- [[sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego]]
-- [[sources/m-fc01-dossier-redazionale-ministeri-pcm-avvocatura]]
-- [[topics/profili-funzioni-centrali-ministeri]]
-- [[books/il-metodo-bando/chapters/pubblico-impiego-e-organizzazione-pa]]
-- [[books/il-metodo-bando/struttura-madre]]
-
-## Note di review
-
-- Verificare su ARAN, al cut-off di pubblicazione, i contratti vigenti e le denominazioni effettivamente applicabili.
-- Controllare con fonte ufficiale ogni eventuale citazione di articoli, declaratorie, istituti disciplinari o trattamenti economici prima di inserirla.
-- Verificare su bandi e allegati ufficiali gli esempi di famiglie operative; la tabella è uno strumento di lettura, non una classificazione normativa.
-- Mantenere distinta la specificità contrattuale PCM dall'ordinamento istituzionale sviluppato nel capitolo 05.
-- Verificare nel renderer KDP la leggibilità delle tabelle; dividerle se la composizione richiede un corpo troppo piccolo.

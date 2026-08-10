@@ -170,7 +170,7 @@ Una distribuzione chiara delle competenze riduce duplicazioni e ritardi ed elimi
 
 Il capitolo 04 ha distinto ministro e Ministero. Nell'organizzazione interna, quella distinzione diventa operativa.
 
-Gli organi politici definiscono obiettivi, priorità, programmi e criteri generali e verificano i risultati rispetto agli indirizzi. I dirigenti esercitano la gestione amministrativa, adottano gli atti di competenza e organizzano risorse, personale e attività. La cornice generale è sviluppata in [[books/il-metodo-bando/chapters/pubblico-impiego-e-organizzazione-pa]].
+Gli organi politici definiscono obiettivi, priorità, programmi e criteri generali e verificano i risultati rispetto agli indirizzi. I dirigenti esercitano la gestione amministrativa, adottano gli atti di competenza e organizzano risorse, personale e attività. La cornice generale è sviluppata in [[books/il-metodo-bando/chapters/pubblico-impiego-e-organizzazione-pa#Indirizzo politico e gestione amministrativa|sezione su indirizzo politico e gestione]].
 
 Nel Ministero, l'indirizzo deve raggiungere le strutture competenti senza trasformarsi in sostituzione politica nella gestione. La dirigenza, a sua volta, non determina l'indirizzo politico: traduce obiettivi e regole in attività amministrativa e risponde dei risultati assegnati.
 
@@ -354,21 +354,3 @@ Scegli il Ministero indicato nel tuo bando e compila la griglia usando soltanto 
 - Ho indicato che la posizione nell'organigramma non basta per attribuire un atto?
 - Ho richiamato regolamento e atti organizzativi vigenti?
 - Ho concluso con un esempio di flusso o una conseguenza pratica?
-
-## Riferimenti consolidati
-
-- [[sources/d-lgs-30-luglio-1999-n-300-organizzazione-governo]]
-- [[sources/governo-presidenza-consiglio-ministeri-organizzazione]]
-- [[sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego]]
-- [[books/il-metodo-bando/chapters/pubblico-impiego-e-organizzazione-pa]]
-- [[books/moduli/m-fc01-ministeri/chapters/03-profili-professionali-ccnl-mansioni]]
-- [[books/moduli/m-fc01-ministeri/chapters/04-governo-ministeri-amministrazione-centrale]]
-- [[books/moduli/m-fc01-ministeri/chapters/05-presidenza-consiglio-ministri]]
-
-## Note di review
-
-- Verificare su Normattiva, al cut-off, il testo vigente del d.lgs. 30 luglio 1999, n. 300 per ogni claim sui modelli e sulle strutture ministeriali.
-- Verificare il testo vigente del d.lgs. 30 marzo 2001, n. 165 per indirizzo politico-amministrativo, gestione e competenze dirigenziali.
-- Controllare regolamento e atti organizzativi del Ministero prima di inserire denominazioni, numero o attribuzioni di strutture correnti.
-- Verificare che eventuali esempi editoriali restino dichiaratamente didattici e non siano letti come flussi universali.
-- Controllare nel renderer KDP la leggibilità dello schema monospaziato, delle tabelle e della griglia compilabile.

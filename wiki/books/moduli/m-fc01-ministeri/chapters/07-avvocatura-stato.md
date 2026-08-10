@@ -34,7 +34,7 @@ last_compiled_from: [
   "wiki/books/moduli/m-fc01-ministeri/chapters/03-profili-professionali-ccnl-mansioni.md",
   "wiki/books/moduli/m-fc01-ministeri/chapters/04-governo-ministeri-amministrazione-centrale.md",
   "wiki/books/moduli/m-fc01-ministeri/chapters/06-organizzazione-interna-ministeri.md",
-  "wiki/books/il-metodo-bando/chapters/diritto-amministrativo-operativo.md",
+  "wiki/books/il-metodo-bando/chapters/diritto-amministrativo-per-candidati.md",
   "wiki/books/il-metodo-bando/chapters/pubblico-impiego-e-organizzazione-pa.md",
   "wiki/books/il-metodo-bando/chapters/trasparenza-anticorruzione-privacy.md"
 ]
@@ -258,7 +258,7 @@ La tabella è organizzativa e non stabilisce termini processuali. I termini conc
 
 Un fascicolo legale può contenere dati personali, atti interni, valutazioni e altri documenti che richiedono cautele. La riservatezza impone di applicare correttamente autorizzazioni, canali, limiti e misure di protezione, nel rispetto delle regole di accesso.
 
-Il nucleo comune su privacy, trasparenza e accessi è sviluppato in [[books/il-metodo-bando/chapters/trasparenza-anticorruzione-privacy]]. Qui conta l'applicazione al lavoro quotidiano:
+Il nucleo comune su privacy, trasparenza e accessi è sviluppato in [[books/il-metodo-bando/chapters/trasparenza-anticorruzione-privacy#Quadro essenziale|capitolo su trasparenza, accessi e privacy]]. Qui conta l'applicazione al lavoro quotidiano:
 
 - accedere solo per ragioni di servizio;
 - evitare copie e inoltri non necessari;
@@ -386,24 +386,3 @@ Leggi una traccia o un bando riferito all'Avvocatura e compila la griglia usando
 - Ho collegato il profilo amministrativo a fascicolo, termini e tracciabilità?
 - Ho richiamato riservatezza e accessi senza formulare regole assolute?
 - Ho concluso indicando la necessità di verificare le fonti vigenti?
-
-## Riferimenti consolidati
-
-- [[sources/rd-30-ottobre-1933-n-1611-avvocatura-stato]]
-- [[sources/avvocatura-stato-organizzazione-funzioni]]
-- [[sources/m-fc01-dossier-redazionale-ministeri-pcm-avvocatura]]
-- [[books/moduli/m-fc01-ministeri/chapters/03-profili-professionali-ccnl-mansioni]]
-- [[books/moduli/m-fc01-ministeri/chapters/04-governo-ministeri-amministrazione-centrale]]
-- [[books/moduli/m-fc01-ministeri/chapters/06-organizzazione-interna-ministeri]]
-- [[books/il-metodo-bando/chapters/diritto-amministrativo-operativo]]
-- [[books/il-metodo-bando/chapters/pubblico-impiego-e-organizzazione-pa]]
-- [[books/il-metodo-bando/chapters/trasparenza-anticorruzione-privacy]]
-
-## Note di review
-
-- Verificare su Normattiva, al cut-off, il testo vigente del R.D. 30 ottobre 1933, n. 1611 e ogni claim puntuale su patrocinio, soggetti assistiti, rappresentanza e attribuzioni.
-- Controllare sul sito ufficiale l'organizzazione corrente, le sedi e i rapporti tra Avvocatura generale e Avvocature distrettuali.
-- Verificare sulle fonti applicabili eventuali regole specifiche su notifiche, termini, fascicoli, accessi e riservatezza prima di inserirle.
-- Confermare CCNL, area, profilo, requisiti, sede e mansioni esclusivamente sul bando e sugli allegati vigenti.
-- Mantenere il caso come esercizio didattico e non presentarlo come procedura processuale universale.
-- Controllare nel renderer KDP la leggibilità delle tabelle e della griglia compilabile.
