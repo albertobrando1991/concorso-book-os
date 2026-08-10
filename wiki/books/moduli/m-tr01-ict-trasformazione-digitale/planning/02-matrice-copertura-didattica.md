@@ -177,6 +177,41 @@ La verifica unica è collocata dopo il sesto nucleo e comprende tre esercizi con
 | `N-TR01-04-05` | pianificato | verificate famiglie NoSQL, aggregati, consistenza, distribuzione e criteri di scelta | completo | heading omonimo, tabella delle famiglie, domanda-trappola e quiz 6 |
 | `N-TR01-04-06` | pianificato | verificate dimensioni della qualità, regole misurabili, accessi, audit, ripristino e output | completo | heading omonimo, tabella qualità, caso guidato, orale e checklist |
 
+## Retrofit formato 2 — mappatura capitolo 05
+
+| ID stabile | Nucleo canonico | Dimensioni coperte | Output/applicazione | Verifica | Stato |
+| --- | --- | --- | --- | --- | --- |
+| `N-TR01-05-01` | Livelli, incapsulamento e rete locale | OSI/TCP-IP, responsabilità dei livelli, frame/pacchetto/flusso, MAC, Ethernet, switch, VLAN e broadcast | mappa funzione-livello-evidenza e diagnosi di segmento/VLAN | quiz 4 e tabella evidenza-limite | completo |
+| `N-TR01-05-02` | Indirizzamento, subnetting e routing | IPv4/IPv6, prefisso, CIDR, rete, host, gateway, routing, ARP/neighbor discovery e percorso di ritorno | calcolo `/26` e sequenza diagnostica di instradamento | esercizio 1 e quiz 2 | completo |
+| `N-TR01-05-03` | Trasporto e servizi di rete | TCP/UDP, porte, socket, DNS, DHCP, HTTP(S), posta, SSH, NTP, NAT e proxy | diagnosi nome-indirizzo-porta-risposta | esercizio 2 e quiz 3 | completo |
+| `N-TR01-05-04` | Sistema operativo, processi e servizi | kernel, spazio utente, processo, thread, scheduling, servizio, dipendenze, listener e log | catena configurazione-processo-socket-risposta e caso di binding | esercizio 3 e quiz 1 | completo |
+| `N-TR01-05-05` | Memoria virtuale, file system e risorse | spazio virtuale, pagine, cache, swap, mount, metadati, permessi, quota, spazio e pressione | diagnosi correlata di memoria, I/O e scrittura | quiz 5 e checklist | completo |
+| `N-TR01-05-06` | Disponibilità e troubleshooting infrastrutturale | disponibilità, ridondanza, fault tolerance, RAID, affidabilità, capacità, colli di bottiglia e metodo diagnostico | caso del portale interno e risposta orale | quiz 6, domanda-trappola e caso ragionato | completo |
+
+La verifica unica segue il sesto nucleo e contiene tre esercizi con soluzione e sei quiz commentati. Il capitolo conta 4.996 parole; i nuclei misurano rispettivamente 625, 634, 601, 647, 671 e 625 parole. Il caso, gli esercizi e i quiz verificano la teoria sviluppata e non la sostituiscono.
+
+### Checklist dimensionale capitolo 05
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso prova | Errore | Verifica | Tracciabilità |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| `N-TR01-05-01` | ✓ protocollo, livello, frame, MAC e VLAN | ✓ separa funzioni e localizza il guasto | ✓ OSI concettuale e TCP/IP operativa | ✓ accesso, rete, trasporto, applicazione, switch e segmenti | ✓ frame/pacchetto; switch/router; collegamento/servizio | ✓ ogni evidenza prova soltanto un tratto della catena | ✓ uffici nella stessa VLAN e tabella delle evidenze | ✓ risposta funzione-sintomo-test | ✓ “pacchetto” assunto identico a ogni livello | ✓ quiz 4 e confronto applicato | ✓ source_refs, last_compiled_from e RFC leggibili |
+| `N-TR01-05-02` | ✓ indirizzo, prefisso, rete, gateway e rotta | ✓ identifica interfacce e sceglie il prossimo nodo | ✓ IPv4 e IPv6 limitati alla prova generalista | ✓ CIDR, subnet, tabella di routing, ARP e neighbor discovery | ✓ locale/remoto; IPv4/IPv6; ARP/DNS | ✓ blocchi, instradamento e ritorno determinano la raggiungibilità | ✓ `192.0.2.70/26` e confronto fra host | ✓ calcolo e diagnosi motivata | ✓ confronto delle sole cifre decimali | ✓ esercizio 1 e quiz 2 | ✓ RFC 8200/4632 dichiarate e leggibili |
+| `N-TR01-05-03` | ✓ TCP, UDP, porta, socket e servizi principali | ✓ consegna dati al processo e offre funzioni applicative | ✓ catena DNS-rete-trasporto-applicazione | ✓ record DNS, DHCP, HTTP(S), posta, SSH, NTP, NAT e proxy | ✓ TCP/UDP; DNS/DHCP; NAT/proxy/firewall | ✓ sintomi diversi orientano verso livelli diversi | ✓ portale intermittente e tabella sintomo-evidenza | ✓ diagnosi nome-indirizzo-porta-risposta | ✓ UDP ridotto a “più veloce” e DNS confuso con connettività | ✓ esercizio 2 e quiz 3 | ✓ RFC TCP/UDP/DNS/DHCP/HTTP nel frontmatter e nei riferimenti |
+| `N-TR01-05-04` | ✓ kernel, processo, thread, servizio e socket | ✓ gestisce risorse ed eroga funzioni in esecuzione | ✓ modello trasferibile fra sistemi operativi | ✓ stati, scheduling, dipendenze, binding, listener e log | ✓ programma/processo/thread; attivo/in ascolto | ✓ un processo presente può non offrire il servizio | ✓ errore di binding su indirizzo non assegnato | ✓ catena configurazione-processo-risposta | ✓ riavvio prima della raccolta delle evidenze | ✓ esercizio 3 e quiz 1 | ✓ documentazione Linux dichiarata e riferimenti leggibili |
+| `N-TR01-05-05` | ✓ memoria virtuale, pagina, cache, swap, mount e metadato | ✓ isola processi e organizza memoria e dati persistenti | ✓ risorse OS distinte dalla memoria hardware del cap. 2 | ✓ reclaim, quote, permessi, spazio, percorsi e I/O | ✓ libera/disponibile; RAM/cache/swap; spazio/quota/permessi | ✓ pressione e vincoli possono aumentare latenza o bloccare scritture | ✓ applicazione che non produce documenti | ✓ correlazione temporale di metriche e sintomo | ✓ attribuire tutto allo spazio disco o liberare la cache indiscriminatamente | ✓ quiz 5 e checklist | ✓ Linux Kernel Documentation dichiarata e leggibile |
+| `N-TR01-05-06` | ✓ disponibilità, ridondanza, fault tolerance e punto di guasto | ✓ mantiene e misura l’erogazione del servizio | ✓ infrastruttura letta come catena, con continuità rinviata al cap. 7 | ✓ RAID, latenza, throughput, saturazione, code e metodo diagnostico | ✓ RAID/backup; affidabilità/manutenibilità/disponibilità | ✓ un collo di bottiglia o punto singolo condiziona l’intero servizio | ✓ caso del portale interno con DNS errato | ✓ risposta orale sintomo-ipotesi-test-verifica | ✓ modifiche simultanee e RAID assunto come backup | ✓ quiz 6, caso e domanda-trappola | ✓ source note tecnica nel frontmatter e riferimenti professionali |
+
+### Delta step 10 — capitolo 05 formato 2
+
+| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
+| --- | --- | --- | --- | --- |
+| `N-TR01-05-01` | pianificato | verificate comunicazione a livelli, incapsulamento, rete locale, VLAN ed evidenze diagnostiche | completo | heading omonimo, tabella evidenza-limite e applicazione agli uffici |
+| `N-TR01-05-02` | pianificato | verificati indirizzamento IPv4/IPv6, CIDR, subnetting, routing e percorso di ritorno | completo | heading omonimo, esempio `/26`, esercizio 1 e quiz 2 |
+| `N-TR01-05-03` | pianificato | verificati trasporto, porte, socket, DNS, DHCP, protocolli applicativi e diagnosi per esiti | completo | heading omonimo, tabella sintomo-evidenza, esercizio 2 e quiz 3 |
+| `N-TR01-05-04` | pianificato | verificati kernel, processi, thread, scheduling, servizi, dipendenze, listener e log | completo | heading omonimo, caso breve sul binding, esercizio 3 e quiz 1 |
+| `N-TR01-05-05` | pianificato | verificate memoria virtuale, cache, swap, file system, permessi, quote e diagnosi delle risorse | completo | heading omonimo, tabella sintomo-misure, applicazione e quiz 5 |
+| `N-TR01-05-06` | pianificato | verificate disponibilità, ridondanza, RAID, capacità e sequenza completa di troubleshooting | completo | heading omonimo, caso del portale, domanda orale, trappola e quiz 6 |
+
 ## Audit v4 dello step 07
 
 La classificazione deriva dal controllo delle promesse formative, delle fonti consolidate, del testo dei capitoli e delle evidenze registrate nei delta. Lunghezza, numero di titoli, quiz e casi non sono stati usati come prova autonoma di completezza.

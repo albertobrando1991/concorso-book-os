@@ -259,3 +259,117 @@ Budget orientativo: 4.000–4.300 parole, tabelle, mappe, casi ed esercizi inclu
 - il troubleshooting segue una sequenza esplicita e non una lista casuale di comandi;
 - esempi e casi applicano concetti già spiegati;
 - fonti tecniche mancanti e review specialistiche restano aperte finché non eseguite.
+
+## Addendum retrofit Format 2 — 2026-08-09
+
+Questo addendum sostituisce, per il nuovo ciclo degli step 08-12, le valutazioni legacy sullo stato del capitolo. Il testo destinato al lettore esiste già ed è una base editoriale da conservare: lo step 09 dovrà riorganizzarlo nel Format 2, colmare i delta misurabili e non riscriverlo da zero. Restano validi i confini, le fonti e i criteri tecnici del piano originario, salvo quanto precisato qui.
+
+### Stato reale e criterio di intervento
+
+- Il capitolo copre già livelli, Ethernet e VLAN, IPv4/IPv6, routing, TCP/UDP, servizi di rete, processi, memoria virtuale, file system, disponibilità e troubleshooting.
+- Sono già presenti una Mappa BANDO, un caso guidato, una domanda da commissario, una domanda-trappola, un errore tipico, tre esercizi, un quiz e una checklist.
+- La source note `sources/reti-sistemi-infrastrutture-fonti-tecniche` consolida RFC e documentazione Linux; i limiti dichiarati su Ethernet/VLAN, RAID, disponibilità e dettagli dipendenti dal prodotto non vanno occultati.
+- Il retrofit deve introdurre Nucleo ID stabili, densità didattica sufficiente, una verifica dopo 5-7 nuclei e almeno sei quiz commentati, preservando esempi e formulazioni tecnicamente corrette.
+- La riga `Reti e sistemi` della matrice resta da ricontrollare sul testo effettivo allo step 10; lo step 08 non ne promuove lo stato.
+
+### Nuclei Format 2 assegnati
+
+| Nucleo ID | Titolo operativo | Stato attuale | Sviluppo previsto allo step 09 | Confini principali |
+| --- | --- | --- | --- | --- |
+| `N-TR01-05-01` | Livelli, incapsulamento e rete locale | parziale-avanzato | Riunire OSI/TCP-IP, incapsulamento, MAC, Ethernet, switching e VLAN in una progressione funzione-evidenza; aggiungere almeno un confronto applicato. | Non trasformare Ethernet/VLAN in manuale di configurazione né anticipare i controlli cyber del cap. 8. |
+| `N-TR01-05-02` | Indirizzamento, subnetting e routing | parziale-avanzato | Consolidare IPv4/IPv6, CIDR, gateway, routing e risoluzione locale; mantenere e spiegare il calcolo `/26` con verifica del risultato. | Limitare IPv6 e routing al livello trasferibile richiesto da una prova generalista. |
+| `N-TR01-05-03` | Trasporto e servizi di rete | parziale-avanzato | Collegare TCP/UDP, porte e socket a DNS, DHCP, HTTP(S), posta, SSH e NTP; rendere esplicita la diagnosi nome-porta-processo. | API ed e-service al cap. 6; filtraggio e firewall come controllo al cap. 8. |
+| `N-TR01-05-04` | Sistema operativo, processi e servizi | parziale-avanzato | Sviluppare kernel/spazio utente, processo/thread, scheduling, servizi, dipendenze, listener e log con un caso breve verificabile. | CPU e gerarchia hardware della memoria al cap. 2; IAM e logging di sicurezza al cap. 9. |
+| `N-TR01-05-05` | Memoria virtuale, file system e risorse | parziale-avanzato | Integrare pagine, cache, swap, mount, metadati, permessi, spazio e quote in una sequenza diagnostica; distinguere sintomo, metrica e causa. | Evitare amministrazione avanzata specifica di Linux o Windows. |
+| `N-TR01-05-06` | Disponibilità e troubleshooting infrastrutturale | parziale-avanzato | Coordinare ridondanza, fault tolerance, RAID, capacità e colli di bottiglia con il metodo sintomo-ipotesi-test-evidenza-azione-verifica; assorbire caso e output concorsuali. | Backup, RPO/RTO, cloud e continuità al cap. 7; incident response al cap. 9. |
+
+I sei nuclei sono assegnati al capitolo e devono risultare tutti autonomi nel test dello studente: definizione, spiegazione, distinzione, conseguenza, esempio e verifica. Nessun nucleo è dichiarato completo prima degli step 09-10.
+
+### Struttura H1/H2/H3 prevista
+
+# Reti, sistemi operativi e infrastrutture
+
+## Obiettivo, confine con il VOL-01 e Mappa BANDO
+
+## N-TR01-05-01 · Livelli, incapsulamento e rete locale
+
+### OSI e TCP/IP come strumenti di lettura
+
+### Ethernet, MAC, switching e VLAN
+
+## N-TR01-05-02 · Indirizzamento, subnetting e routing
+
+### IPv4, IPv6 e prefissi
+
+### Gateway, routing e risoluzione sul collegamento
+
+## N-TR01-05-03 · Trasporto e servizi di rete
+
+### TCP, UDP, porte e socket
+
+### DNS, DHCP e protocolli applicativi
+
+## N-TR01-05-04 · Sistema operativo, processi e servizi
+
+### Kernel, spazio utente, processi e thread
+
+### Servizi, listener, dipendenze e log
+
+## N-TR01-05-05 · Memoria virtuale, file system e risorse
+
+### Pagine, cache, swap e pressione di memoria
+
+### Mount, metadati, permessi, spazio e quote
+
+## N-TR01-05-06 · Disponibilità e troubleshooting infrastrutturale
+
+### Ridondanza, RAID, capacità e punti di guasto
+
+### Caso guidato e sequenza diagnostica
+
+### Domanda da commissario, domanda-trappola ed errore tipico
+
+## ▣ Verifica
+
+### Tre o più esercizi applicativi
+
+### Sei o più quiz commentati
+
+## Checklist finale
+
+## Da sapere in 5 righe
+
+## Riferimenti professionali essenziali
+
+### Budget e prove previste
+
+- Corpo complessivo: **4.700-5.700 parole**, escluso frontmatter.
+- Densità: **500-900 parole per ciascun Nucleo ID**, con tolleranza soltanto se giustificata dalla leggibilità di tabelle o codice.
+- Verifiche: **un unico blocco dopo i sei nuclei**, nel rispetto del limite di 5-7 nuclei consecutivi.
+- Quiz: **almeno sei**, con risposta corretta e commento sui distrattori o sull'errore tipico.
+- Esercizi: **almeno tre** — subnetting, localizzazione del guasto e diagnosi di processo/file system o capacità.
+- Casi: **almeno uno completo**, in contesto PA plausibile, con sintomo, ipotesi, test, evidenze, intervento controllato e verifica finale.
+- Output: mappa livelli-protocolli-evidenze, piano di troubleshooting e risposta orale motivata.
+
+### Fonti, topic, entity e rinvii da preservare
+
+- Conservare tutti i `source_refs` e i `last_compiled_from` attuali, inclusa la source note tecnica primaria.
+- Usare i topic `reti-e-protocolli`, `sistemi-operativi-e-gestione-file` e `internet-web-posta-elettronica` come raccordo, non come sostituti delle fonti tecniche.
+- Conservare le entity IETF, Linux Kernel, IPv4, IPv6, TCP, UDP e DNS; aggiungerne solo se realmente usate e sostenute.
+- Mantenere il rinvio preciso al VOL-01, capitolo 10, §§ 2, 4 e 5, per le nozioni introduttive.
+- Conservare i confini con i capp. 2, 6, 7, 8 e 9 indicati nel piano legacy e nella Bibbia del volume.
+
+### Audit specialistici richiesti
+
+1. `chapter-lint` e controllo di densità didattica del Format 2.
+2. Verifica manuale degli esempi CIDR/subnetting e della terminologia IPv4/IPv6.
+3. Audit reti su livelli, switching, routing, TCP/UDP, DNS e sequenza diagnostica.
+4. Audit sistemi operativi su processi, thread, memoria virtuale, file system, permessi e servizi.
+5. Audit infrastrutture su RAID, ridondanza, fault tolerance, disponibilità e metriche di capacità.
+6. Controllo dei confini con VOL-01 e con i capitoli 2, 6, 7, 8 e 9.
+7. Citation guard su `source_refs`, `last_compiled_from` e riferimenti professionali.
+8. Verifica editoriale a 30 punti, test dello studente e controllo KDP su tabelle, formule, comandi e blocchi didattici.
+
+### Criterio di uscita aggiornato
+
+Lo step 09 è approvabile quando i sei Nucleo ID compaiono nel capitolo, ciascun nucleo supera il test dello studente, la verifica contiene almeno sei quiz commentati e tre esercizi, il caso tecnico chiude una diagnosi basata su evidenze e i limiti delle fonti restano espliciti. Lo step 10 dovrà poi dimostrare la copertura reale nella matrice; gli step 11-12 completeranno Humanizer e revisione editoriale senza anticipare la conferma umana dello step 24.
