@@ -212,6 +212,41 @@ La verifica unica segue il sesto nucleo e contiene tre esercizi con soluzione e 
 | `N-TR01-05-05` | pianificato | verificate memoria virtuale, cache, swap, file system, permessi, quote e diagnosi delle risorse | completo | heading omonimo, tabella sintomo-misure, applicazione e quiz 5 |
 | `N-TR01-05-06` | pianificato | verificate disponibilità, ridondanza, RAID, capacità e sequenza completa di troubleshooting | completo | heading omonimo, caso del portale, domanda orale, trappola e quiz 6 |
 
+## Retrofit formato 2 — mappatura capitolo 06
+
+| ID stabile | Nucleo canonico | Dimensioni coperte | Output/applicazione | Verifica | Stato |
+| --- | --- | --- | --- | --- | --- |
+| `N-TR01-06-01` | Requisiti e ciclo di vita verificabile | bisogno, stakeholder, requisiti, vincoli, criteri, tracciabilità, modelli di ciclo, ruoli e configurazione | matrice requisito-componente-test-evidenza | esercizio 1 e quiz 2 | completo |
+| `N-TR01-06-02` | Architettura e qualità del software | componenti, interfacce, dipendenze, coesione, accoppiamento, forme architetturali, viste, qualità e trade-off | decisione architetturale motivata | quiz 3 e schema esigenza-decisione-conseguenza | completo |
+| `N-TR01-06-03` | Verifica, validazione, test e configurazione | verifica/validazione, livelli, casi, copertura, dati, difetti, failure, regressione, release ed evidenze | caso di test collegato al requisito | quiz 1/4 e tabella artefatto-evidenza | completo |
+| `N-TR01-06-04` | API come contratto | operazioni, precondizioni, input/output, errori, sincrono/asincrono, HTTP, REST, SOAP, JSON/XML, idempotenza e OpenAPI | specifica essenziale e tabella degli errori | laboratorio e quiz 1 | completo |
+| `N-TR01-06-05` | Evoluzione e gestione delle API | compatibilità, versionamento, deprecazione, retry, paginazione, filtri, throttling, SLO/SLA, osservabilità e API management | piano di migrazione e dismissione | esercizio 2 e quiz 5 | completo |
+| `N-TR01-06-06` | Interoperabilità PA ed e-service | livelli giuridico/organizzativo/semantico/tecnico, ModI, PDND, erogatore, fruitore, finalità, once only e quadro UE | caso di verifica anagrafica e scheda e-service | esercizio 3 e quiz 6 | completo |
+
+La verifica unica segue il sesto nucleo e contiene tre esercizi con soluzione e sei quiz commentati. Il capitolo conta 4.955 parole; i nuclei misurano rispettivamente 610, 628, 637, 642, 617 e 625 parole. Casi, laboratorio, esercizi e quiz verificano teoria già sviluppata e non la sostituiscono.
+
+### Checklist dimensionale capitolo 06
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso prova | Errore | Verifica | Tracciabilità |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| `N-TR01-06-01` | ✓ bisogno, requisito, vincolo, criterio e ciclo di vita | ✓ traduce bisogni in proprietà verificabili e governa l’evoluzione | ✓ modelli scelti secondo rischio e stabilità | ✓ stakeholder, ruoli, fasi, configurazioni, commit/release | ✓ funzionale/non funzionale; sequenziale/iterativo/incrementale | ✓ modifiche collegate a progetto, test e documentazione | ✓ verifica del requisito anagrafico e matrice di tracciabilità | ✓ requisito e criterio da formulare | ✓ etichetta Agile o repository assunti come garanzia | ✓ esercizio 1 e quiz 2 | ✓ source_refs, last_compiled_from e riferimenti professionali |
+| `N-TR01-06-02` | ✓ architettura, componente, interfaccia, dipendenza e qualità | ✓ organizza responsabilità e rende valutabili i compromessi | ✓ forma scelta dal contesto, non dalla moda | ✓ coesione, accoppiamento, viste, monolite, livelli, client-server, servizi | ✓ forma/qualità; contesto/componenti/distribuzione | ✓ autonomia, rete, coerenza e costi operativi | ✓ tabella esigenza-decisione-conseguenza | ✓ proposta con alternativa, trade-off ed evidenza | ✓ molti blocchi chiamati microservizi senza motivazione | ✓ quiz 3 e schema applicativo | ✓ SWEBOK nel frontmatter e nei riferimenti leggibili |
+| `N-TR01-06-03` | ✓ verifica, validazione, test, difetto e failure | ✓ produce evidenze su specifica e bisogno d’uso | ✓ livelli complementari dentro una strategia | ✓ unità, integrazione, sistema, accettazione, regressione, dati, ambiente | ✓ verifica/validazione; gravità/priorità; livello/scopo | ✓ esiti riproducibili e impatto tracciato sulla release | ✓ servizio anagrafico, oracolo e tabella degli esiti | ✓ costruzione di un caso completo | ✓ accumulare test senza rischio o requisito | ✓ quiz 1/4 e casi descritti | ✓ fonti IEEE dichiarate e leggibili |
+| `N-TR01-06-04` | ✓ API, contratto, operazione, rappresentazione e idempotenza | ✓ espone capacità senza rivelare l’implementazione | ✓ contratto prima della tecnologia | ✓ input, output, errori, HTTP, REST, SOAP, JSON/XML, OpenAPI, asincrono | ✓ REST/SOAP; sincrono/asincrono; descrizione/implementazione | ✓ accoppiamento, retry, correlazione ed evoluzione | ✓ `POST /verifiche-requisito` e tabella degli errori | ✓ disegno essenziale dell’API | ✓ payload derivato dal database; OpenAPI assunto come implementazione | ✓ laboratorio e quiz 1 | ✓ RFC 9110/OpenAPI dichiarati e leggibili |
+| `N-TR01-06-05` | ✓ compatibilità, versione, deprecazione, SLO e SLA | ✓ mantiene i fruitori durante l’evoluzione | ✓ compatibilità valutata dal contratto osservabile | ✓ migrazione, inventario, telemetria, retry, filtri, throttling e gateway | ✓ versione API/implementazione/OpenAPI; SLO/SLA | ✓ rotture, convivenza, costi e criteri di dismissione | ✓ rinomina campo `esito` e tabella delle modifiche | ✓ piano di versionamento verificabile | ✓ “creare la v2” senza migrazione | ✓ esercizio 2 e quiz 5 | ✓ fonti ModI/OpenAPI nel frontmatter e riferimenti |
+| `N-TR01-06-06` | ✓ interoperabilità, erogatore, fruitore, e-service e finalità | ✓ consente scambi corretti e governati fra enti | ✓ livelli giuridico, organizzativo, semantico e tecnico | ✓ ModI, PDND, API, condizioni, autorizzazioni, once only e quadro UE | ✓ interoperabilità/open data; catalogo/accesso | ✓ minimizzazione, responsabilità, tracciabilità ed evoluzione coordinata | ✓ caso guidato della verifica anagrafica | ✓ risposta orale e scheda e-service | ✓ endpoint e payload prima di finalità e attori | ✓ esercizio 3, quiz 6 e domanda-trappola | ✓ CAD, AgID, PDND e Reg. UE 2024/903 leggibili |
+
+### Delta step 10 — capitolo 06 formato 2
+
+| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
+| --- | --- | --- | --- | --- |
+| `N-TR01-06-01` | pianificato | verificati requisiti, criteri, tracciabilità, ciclo di vita, ruoli e configurazione | completo | heading omonimo, matrice requisito-test, esercizio 1 e quiz 2 |
+| `N-TR01-06-02` | pianificato | verificate responsabilità, dipendenze, viste, forme architetturali e qualità misurabile | completo | heading omonimo, tabella dei trade-off e quiz 3 |
+| `N-TR01-06-03` | pianificato | verificati verifica/validazione, livelli, strategia, dati, difetti, release ed evidenze | completo | heading omonimo, tabelle dei livelli/esiti e quiz 1/4 |
+| `N-TR01-06-04` | pianificato | verificati contratto, interazioni, HTTP, REST/SOAP, errori, idempotenza e OpenAPI | completo | heading omonimo, tabella degli errori, laboratorio e quiz 1 |
+| `N-TR01-06-05` | pianificato | verificate compatibilità, versionamento, deprecazione, retry, limiti, SLO/SLA e osservabilità | completo | heading omonimo, tabella delle modifiche, esercizio 2 e quiz 5 |
+| `N-TR01-06-06` | pianificato | verificati livelli di interoperabilità, ModI, PDND, e-service, finalità, once only e raccordo UE | completo | heading omonimo, caso anagrafico, esercizio 3 e quiz 6 |
+
 ## Audit v4 dello step 07
 
 La classificazione deriva dal controllo delle promesse formative, delle fonti consolidate, del testo dei capitoli e delle evidenze registrate nei delta. Lunghezza, numero di titoli, quiz e casi non sono stati usati come prova autonoma di completezza.

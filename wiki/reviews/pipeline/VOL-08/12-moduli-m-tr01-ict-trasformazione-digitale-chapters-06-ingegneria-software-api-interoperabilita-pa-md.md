@@ -4,8 +4,8 @@
 
 - Genere editoriale: manuale-workbook specialistico per concorsi pubblici.
 - Pubblico target: candidati a profili ICT, integrazione applicativa e Data/AI nella pubblica amministrazione.
-- Perimetro di questa revisione: capitolo 6, matrice di copertura M-TR01, piano di completamento, rinvio al VOL-01, raccordi con i capitoli adiacenti e fonti consolidate.
-- Stato generale in una frase: capitolo autonomo e didatticamente completo, con una progressione efficace dal requisito all’e-service, da sottoporre a verifiche tecniche e istituzionali circoscritte prima della pubblicazione.
+- Perimetro di questa revisione: versione Format 2 del capitolo 6, matrice di copertura M-TR01, piano di completamento, rinvio al VOL-01, raccordi con i capitoli adiacenti e fonti consolidate.
+- Stato generale in una frase: capitolo autonomo e didatticamente completo nei suoi sei nuclei, con una progressione efficace dal requisito all’e-service e verifiche tecniche e istituzionali circoscritte da chiudere prima della pubblicazione.
 
 ## 2. Punti applicati della checklist
 
@@ -13,7 +13,9 @@ Applicati i punti 1-26 e 28-30: coerenza con indice e struttura; progressione; g
 
 Il punto 27, impaginazione, non è applicabile: non è disponibile un PDF o un file impaginato da ispezionare pagina per pagina.
 
-È stato applicato anche il gate di copertura didattica integrale. Il nucleo «Software e interoperabilità» sviluppa requisiti, ciclo di vita, ruoli, configurazione, architetture, qualità, test, contratti API, compatibilità, versionamento, ModI ed e-service. Caso, laboratorio ed esercizi applicano concetti già spiegati. Il rinvio al VOL-01, capitolo 10, § 16, è preciso e limitato ai prerequisiti.
+È stato applicato anche il gate di copertura didattica integrale. I sei nuclei Format 2 sviluppano requisiti e ciclo di vita, architettura e qualità, test e configurazione, contratto API, evoluzione delle API, ModI ed e-service. Caso, laboratorio ed esercizi applicano concetti già spiegati. Il rinvio al VOL-01, capitolo 10, § 16, è preciso e limitato ai prerequisiti.
+
+Il test dello studente è stato eseguito sul solo corpo del capitolo, senza frontmatter, wiki, dashboard, source note o report. Definizioni, distinzioni, conseguenze e procedure richieste risultano comprensibili nel testo visibile; ciascuna delle nove promesse formative iniziali trova una spiegazione e almeno un’applicazione, una domanda o una verifica. Non sono emerse dipendenze nascoste classificabili come errore grave.
 
 ## 3. Tabella errori
 
@@ -23,18 +25,15 @@ Il punto 27, impaginazione, non è applicabile: non è disponibile un PDF o un f
 | E02 | Architettura e qualità del software | Accuratezza e fonti | Media | Gli attributi di qualità sono esposti in modo utile, ma non sono ricondotti a una tassonomia tecnica puntuale; SWEBOK offre il quadro generale senza sostituire lo standard specifico eventualmente richiesto. | Collegare il blocco a una fonte primaria o standard accessibile sulla qualità del prodotto software e verificare la selezione degli attributi con un software architect. | Da verificare |
 | E03 | REST, SOAP e rappresentazioni; Errori e descrizione formale | Accuratezza tecnica | Media | Le definizioni sono prudenti, ma la semantica dei metodi HTTP, l’idempotenza, i dettagli di errore e il ruolo di OpenAPI richiedono sign-off specialistico; l’esempio resta concettuale e non è stato validato con tooling. | Far revisionare il blocco da un API designer e validare una specifica minima con un parser o linter OpenAPI, mantenendo nel testo soltanto gli elementi trasferibili. | Da verificare |
 | E04 | ModI, PDND ed e-service | Aggiornamento istituzionale | Media | Ruoli ed e-service sono descritti senza dettagli operativi instabili, ma terminologia, richieste di fruizione, attributi, accordi e meccanismi PDND possono evolvere. | Ricontrollare linee guida AgID e documentazione operativa PDND vigenti al text freeze; registrare versione e data della verifica nella source note. | Da verificare |
-| E05 | Caso guidato: verifica di un requisito anagrafico | Qualità didattica e privacy | Media | Il caso applica correttamente finalità e minimizzazione, ma non identifica una base giuridica né un e-service reale, scelta prudente che ne impedisce la validazione come scenario operativo. | Mantenerlo esplicitamente come caso didattico astratto oppure sostituirlo con un caso reale documentato dopo review AgID/PDND, privacy e giuridico-organizzativa. | Proposto |
-| E06 | Terminologia tecnica | Coerenza terminologica | Lieve | Il capitolo alterna termini italiani e inglesi quali stakeholder, operations, failure, retry, throttling, logging e API management. Sono comuni nel settore, ma richiedono una forma principale nel glossario finale. | Registrare termine, eventuale equivalente italiano e prima definizione nel glossario; usare poi la forma scelta in modo uniforme nel volume. | Proposto |
-| E07 | Tabelle, stringhe tecniche e checklist | Layout | Lieve | Tabelle a cinque colonne, endpoint, termini lunghi e caselle Unicode sono leggibili nel Markdown, ma la resa dipende dalla gabbia e dai glifi del master KDP. | Verificare nel PDF ritorni a capo, dimensione minima, allineamento e incorporazione dei glifi; spezzare le tabelle troppo dense. | Proposto |
 
-Non sono emersi errori oggettivi gravi, contraddizioni interne, rinvii generici, nuclei soltanto nominati o promesse formative non mantenute. Non sono state applicate correzioni dirette al capitolo in questa fase.
+La tabella contiene esclusivamente fatti e formulazioni da verificare con fonti o competenze esterne. Non sono emersi errori oggettivi, contraddizioni interne, rinvii generici, nuclei soltanto nominati o promesse formative non mantenute. Non sono state applicate correzioni dirette al capitolo in questa fase; le proposte non correttive sono raccolte nella sezione 7.
 
 ## 4. Osservazioni per capitolo
 
 ### Capitolo 6 — Ingegneria software, API e interoperabilità PA
 
 - Punti di forza: progressione coerente dal bisogno al requisito, dal requisito al test e dal contratto API all’e-service; distinzione efficace fra requisiti funzionali e non funzionali, verifica e validazione, REST e SOAP, versione dell’API e versione OpenAPI, interoperabilità e open data; caso e laboratorio coerenti con la teoria; confini chiari con cloud, cybersecurity, IAM, data governance e procurement.
-- Criticità: la granularità delle fonti è disomogenea per Git e attributi di qualità; gli esempi API non sono stati validati con strumenti; terminologia e processo PDND richiedono controllo sulla versione vigente; il caso anagrafico resta intenzionalmente astratto.
+- Criticità: la granularità delle fonti è disomogenea per Git e attributi di qualità; gli esempi API non sono stati validati con strumenti; terminologia e processo PDND richiedono controllo sulla versione vigente; il caso anagrafico resta intenzionalmente astratto e non va interpretato come configurazione operativa.
 
 ## 5. Coerenza globale
 
@@ -62,19 +61,21 @@ Il riferimento al Regolamento (UE) 2024/903 è corretto come inquadramento gener
 - Inserire una specifica OpenAPI minima, validata e leggibile, come appendice o laboratorio digitale.
 - Aggiungere un esercizio di classificazione fra modifica compatibile, deprecata e incompatibile.
 - Consolidare nel glossario le opposizioni verifica/validazione, difetto/failure, SLO/SLA, API/e-service.
+- Conservare il caso anagrafico come scenario didattico astratto; renderlo operativo soltanto dopo review AgID/PDND, privacy e giuridico-organizzativa.
+- Verificare nel PDF la resa delle tabelle più dense, degli endpoint e delle caselle Unicode della checklist.
 
 ## 8. Priorità degli interventi
 
 1. Integrare le fonti e chiudere le review specialistiche indicate in E01-E04.
-2. Decidere e validare il livello di concretezza del caso secondo E05.
-3. Consolidare il glossario secondo E06.
-4. Controllare il master KDP secondo E07.
+2. Decidere e validare il livello di concretezza del caso anagrafico.
+3. Consolidare il glossario tecnico del volume.
+4. Controllare il master KDP per tabelle, stringhe tecniche e caselle Unicode.
 
 ## 9. Giudizio di pubblicabilità
 
 Pubblicabile dopo intervento medio.
 
-Motivazione: il capitolo è strutturalmente completo, mantiene le promesse formative e non presenta errori gravi aperti. I rilievi E01-E05 sono circoscritti, ma interessano tracciabilità, accuratezza specialistica e aggiornamento istituzionale di contenuti centrali; devono essere chiusi prima della pubblicazione.
+Motivazione: il capitolo è strutturalmente completo, mantiene le promesse formative e non presenta errori gravi aperti. I rilievi E01-E04 sono circoscritti, ma interessano tracciabilità, accuratezza specialistica e aggiornamento istituzionale di contenuti centrali; devono essere chiusi prima della pubblicazione.
 
 ## 10. Limiti di questa revisione
 
