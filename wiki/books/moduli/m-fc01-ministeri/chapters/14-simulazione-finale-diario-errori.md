@@ -19,6 +19,7 @@ outline_section: 14
 draft_stage: complete_draft
 module_code: M-FC01
 module_family: funzioni-centrali
+companion_to: il-metodo-bando
 format_version: 2
 dati_operativi: []
 last_compiled_from: ["wiki/sources/m-fc01-dossier-redazionale-ministeri-pcm-avvocatura.md", "wiki/sources/inpa-formez-ripam-concorsi-funzioni-centrali.md", "wiki/sources/prove-situazionali-concorsi-ripam-maeci-sna.md", "wiki/sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md"]
