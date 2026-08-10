@@ -28,11 +28,11 @@ last_compiled_from: ["wiki/sources/m-fc01-dossier-redazionale-ministeri-pcm-avvo
 
 ## Apertura editoriale
 
-La simulazione finale non e' una prova "finta" messa alla fine del modulo per tranquillizzarsi. E' il momento in cui trasformi tutto il lavoro su Ministeri, Presidenza del Consiglio dei ministri, Avvocatura dello Stato e Funzioni Centrali in una prestazione controllabile: leggi una consegna, scegli una strategia, rispondi sotto pressione, correggi cio' che hai fatto e decidi il recupero.
+La simulazione finale non è una prova "finta" messa alla fine del modulo per tranquillizzarsi. È il momento in cui trasformi tutto il lavoro su Ministeri, Presidenza del Consiglio dei ministri, Avvocatura dello Stato e Funzioni Centrali in una prestazione controllabile: leggi una consegna, scegli una strategia, rispondi sotto pressione, correggi ciò che hai fatto e decidi il recupero.
 
-In un concorso reale la forma della prova dipende dal bando. Puo' esserci una prova a quiz, una prova scritta con quesiti sintetici, un caso teorico-pratico, un orale, una valutazione di competenze trasversali o una combinazione di piu' elementi. Il D.P.R. 487/1994, come modificato dal D.P.R. 82/2023, offre la cornice generale, ma il candidato deve sempre leggere l'atto della procedura: solo li' trova materie, punteggi, eventuali soglie, modalita', diario, strumenti ammessi e criteri operativi.
+In un concorso reale la forma della prova dipende dal bando. Può esserci una prova a quiz, una prova scritta con quesiti sintetici, un caso teorico-pratico, un orale, una valutazione di competenze trasversali o una combinazione di più elementi. Il D.P.R. 487/1994, come modificato dal D.P.R. 82/2023, offre la cornice generale, ma il candidato deve sempre leggere l'atto della procedura: solo lì trova materie, punteggi, eventuali soglie, modalità, diario, strumenti ammessi e criteri operativi.
 
-Questo capitolo ti insegna quindi a costruire una simulazione adattabile, non a imitare un bando universale che non esiste. Il risultato finale e' un sistema: una scheda di configurazione, una prova mista originale, una griglia di correzione, un diario degli errori e un piano di recupero.
+Questo capitolo insegna a costruire una simulazione adattabile alla procedura concreta. Alla fine avrai una scheda di configurazione, una prova mista originale, una griglia di correzione, un diario degli errori e un piano di recupero. Nessuno di questi strumenti pretende di riprodurre un bando universale, perché ogni procedura stabilisce condizioni proprie.
 
 ## Obiettivo del blocco
 
@@ -42,10 +42,10 @@ Al termine devi saper configurare una simulazione partendo dal bando e dalle mat
 
 | Passaggio | Domanda operativa | Output |
 |---|---|---|
-| Bando | Quale prova e' prevista dalla procedura? | Scheda dei dati ufficiali |
+| Bando | Quale prova è prevista dalla procedura? | Scheda dei dati ufficiali |
 | Aree | Quali materie e competenze ricorrono nel profilo? | Matrice materia-output |
 | Nuclei | Quali blocchi devo verificare in simulazione? | Prova modulare |
-| Diario | Quali errori si ripetono e perche'? | Diario degli errori |
+| Diario | Quali errori si ripetono e perché? | Diario degli errori |
 | Output | Che cosa devo rifare meglio? | Piano di recupero e nuova prova |
 
 ## Spiegazione teorica
@@ -56,17 +56,17 @@ Il diario completa la simulazione. Registra la causa dell'errore, l'intervento s
 
 ## N-FC01-14-01 · Configurare la simulazione dal bando
 
-La configurazione della simulazione comincia prima delle domande. Devi decidere che cosa stai simulando. Nei concorsi per Ministeri, Presidenza del Consiglio, Avvocatura dello Stato e altre amministrazioni centrali, il rischio piu' frequente e' preparare una prova generica: un po' di diritto amministrativo, un po' di contabilita', qualche quesito situazionale, qualche risposta orale. Questo puo' servire come allenamento di mantenimento, ma non basta per misurare la tua prontezza su una procedura concreta.
+La configurazione della simulazione comincia prima delle domande. Devi decidere che cosa stai simulando. Nei concorsi per Ministeri, Presidenza del Consiglio, Avvocatura dello Stato e altre amministrazioni centrali, il rischio più frequente è preparare una prova generica: un po' di diritto amministrativo, un po' di contabilità, qualche quesito situazionale, qualche risposta orale. Questo può servire come allenamento di mantenimento, ma non basta per misurare la tua prontezza su una procedura concreta.
 
-La prima distinzione e' tra dato ufficiale, scelta di allenamento e punto da verificare. Il dato ufficiale e' scritto nel bando, nell'avviso, nel diario della prova o nelle comunicazioni dell'amministrazione o del gestore della procedura, per esempio inPA, Formez o RIPAM quando coinvolti. La scelta di allenamento e' una decisione tua: quante domande inserire nella prova domestica, quali nuclei alternare, quale livello di difficolta' usare, se aggiungere una risposta breve o una traccia orale anche quando non sono ancora vicine. Il punto da verificare e' cio' che non devi trasformare in certezza: durata effettiva, penalita', criteri, banca dati, strumenti ammessi, ordine delle prove, presenza di lingua straniera, informatica, titoli o colloquio.
+La prima distinzione è tra dato ufficiale, scelta di allenamento e punto da verificare. Il dato ufficiale è scritto nel bando, nell'avviso, nel diario della prova o nelle comunicazioni dell'amministrazione o del gestore della procedura, per esempio inPA, Formez o RIPAM quando coinvolti. La scelta di allenamento è una decisione tua: quante domande inserire nella prova domestica, quali nuclei alternare, quale livello di difficoltà usare, se aggiungere una risposta breve o una traccia orale anche quando non sono ancora vicine. Il punto da verificare è ciò che non devi trasformare in certezza: durata effettiva, penalità, criteri, banca dati, strumenti ammessi, ordine delle prove, presenza di lingua straniera, informatica, titoli o colloquio.
 
 La scheda iniziale deve stare in una pagina. Se diventa lunga, non la userai. Apri con il nome della procedura e del profilo. Poi annota fonte ufficiale consultata, data della tua verifica, prove previste, materie, formato dichiarato, eventuale banca dati, eventuali criteri di valutazione, calendario o diario prova, materiali ammessi e contenuti da confermare. Se il bando non dice ancora tutto, non colmare il vuoto con una regola inventata: scrivi "da verificare" e costruisci una simulazione prudente.
 
-Nel modulo M-FC01 la simulazione deve coprire il delta specialistico: organizzazione centrale dello Stato, amministrazioni ministeriali, Presidenza del Consiglio, Avvocatura dello Stato nel perimetro compatibile, funzioni e profili, PIAO, performance, anticorruzione, contabilita' pubblica, contratti pubblici, digitale, casi ministeriali, comportamento organizzativo e quesiti situazionali. Il nucleo comune del metodo resta utile, ma qui devi vedere se sai applicarlo a un ufficio centrale, a una pratica interna, a una richiesta di cittadino, a una scadenza di performance o a un problema di coordinamento.
+Nel modulo M-FC01 la simulazione deve coprire il delta specialistico: organizzazione centrale dello Stato, amministrazioni ministeriali, Presidenza del Consiglio, Avvocatura dello Stato nel perimetro compatibile, funzioni e profili, PIAO, performance, anticorruzione, contabilità pubblica, contratti pubblici, digitale, casi ministeriali, comportamento organizzativo e quesiti situazionali. Il nucleo comune del metodo resta utile, ma qui devi vedere se sai applicarlo a un ufficio centrale, a una pratica interna, a una richiesta di cittadino, a una scadenza di performance o a un problema di coordinamento.
 
 La seconda distinzione riguarda il realismo. Realistico non significa copiare una banca dati o riprodurre una prova ufficiale senza autorizzazione. Significa rispettare condizioni ragionevoli: niente interruzioni, timer visibile, consegna letta una sola volta, foglio per i dubbi, correzione differita, nessun controllo delle risposte durante lo svolgimento. Se il bando prevede una prova solo a quiz, puoi aggiungere una risposta breve come allenamento personale, ma devi marcarla come esercizio, non come prova ufficiale. Se il bando prevede uno scritto o un orale, devi allenare anche la produzione, non solo il riconoscimento.
 
-La simulazione finale deve avere un obiettivo misurabile. Non basta "vedere come va". Esempi di obiettivo corretto: verificare se distingui organi politici e strutture amministrative; controllare se sai collegare PIAO, performance e anticorruzione; misurare la tua capacita' di scegliere una condotta situazionale proporzionata; capire se perdi tempo nei quesiti di contabilita'; provare una risposta orale ordinata su funzioni centrali e ministeri.
+La simulazione finale deve avere un obiettivo misurabile. Non basta "vedere come va". Esempi di obiettivo corretto: verificare se distingui organi politici e strutture amministrative; controllare se sai collegare PIAO, performance e anticorruzione; misurare la tua capacità di scegliere una condotta situazionale proporzionata; capire se perdi tempo nei quesiti di contabilità; provare una risposta orale ordinata su funzioni centrali e ministeri.
 
 | Campo | Dato ufficiale | Scelta di allenamento | Da verificare |
 |---|---|---|---|
@@ -74,67 +74,67 @@ La simulazione finale deve avere un obiettivo misurabile. Non basta "vedere come
 | Formato | Prove dichiarate | Prova modulare | Eventuali dettagli non pubblicati |
 | Materie | Programma d'esame | Nuclei prioritari | Aggiornamenti o rettifiche |
 | Tempo | Se indicato negli atti | Timer domestico coerente | Durata effettiva se non ancora nota |
-| Valutazione | Criteri indicati | Griglia interna | Soglie, penalita', punteggi |
+| Valutazione | Criteri indicati | Griglia interna | Soglie, penalità, punteggi |
 
 **Da sapere in 5 righe**
 
-La simulazione parte dal bando, non dalla paura. Ogni regola concreta deve avere una fonte ufficiale o restare marcata come verifica. La prova domestica puo' essere piu' ampia della prova reale, ma non deve confondere allenamento e disciplina ufficiale. Nel modulo M-FC01 conta l'applicazione a uffici centrali, atti, priorita', comportamento e responsabilita'. Una simulazione senza scheda iniziale produce impressioni, non dati.
+La simulazione parte dal bando, non dalla paura. Ogni regola concreta deve avere una fonte ufficiale o restare marcata come verifica. La prova domestica può essere più ampia della prova reale, ma non deve confondere allenamento e disciplina ufficiale. Nel modulo M-FC01 conta l'applicazione a uffici centrali, atti, priorità, comportamento e responsabilità. Una simulazione senza scheda iniziale produce impressioni, non dati.
 
 **Mini-esercizio**
 
-Prendi il bando o l'avviso della procedura che stai preparando. Compila tre colonne: "scritto nel bando", "scelgo io per allenarmi", "devo verificare". Se una durata, una soglia o una penalita' finisce nella seconda colonna, correggi subito: non e' una scelta di studio, e' un dato ufficiale mancante.
+Prendi il bando o l'avviso della procedura che stai preparando. Compila tre colonne: "scritto nel bando", "scelgo io per allenarmi", "devo verificare". Se una durata, una soglia o una penalità finisce nella seconda colonna, correggi subito: non è una scelta di studio, è un dato ufficiale mancante.
 
 ## N-FC01-14-02 · Architettura della prova mista M-FC01
 
-Una buona simulazione M-FC01 e' modulare. Non presume che tutti i concorsi abbiano le stesse prove, ma mette insieme blocchi che puoi attivare o disattivare in base al bando. Il blocco base e' il quiz: domande a risposta multipla su materie, logica applicata, comprensione di consegne e quesiti situazionali. Il secondo blocco e' la risposta breve: poche righe per spiegare un istituto, una distinzione o una scelta amministrativa. Il terzo blocco e' il caso ragionato: una situazione di ufficio ministeriale o centrale in cui devi individuare problema, riferimenti, priorita' e azione. Il quarto blocco e' la traccia orale: esposizione ordinata, collegamenti e risposta a domanda incrociata.
+Una simulazione M-FC01 funziona meglio se è modulare. Il bando decide quali blocchi attivare. Il quiz allena la risposta multipla su materie, logica applicata, comprensione delle consegne e situazionali. La risposta breve obbliga a spiegare un istituto, una distinzione o una scelta amministrativa in poche righe. Nel caso ragionato devi affrontare una situazione di ufficio ministeriale o centrale, individuando problema, riferimenti, priorità e azione. La traccia orale richiede invece un'esposizione ordinata, collegamenti pertinenti e la capacità di reggere una domanda incrociata.
 
-Questi blocchi non sono sempre presenti nella prova reale. Sono strumenti di allenamento. Se la tua procedura e' solo a quiz, il caso e l'orale ti servono per capire se dietro la risposta corretta c'e' conoscenza vera. Se la procedura prevede uno scritto, il quiz ti aiuta a mantenere copertura e velocita'. Se l'orale e' vicino, la risposta breve diventa ponte tra studio e voce. L'architettura mista serve a non scoprire troppo tardi che riconosci una definizione ma non sai usarla.
+La prova reale può prevedere soltanto alcuni di questi blocchi. Gli altri restano utili come allenamento: con una procedura a quiz, per esempio, il caso e l'orale mostrano se sai spiegare e applicare ciò che hai riconosciuto. Quando è previsto uno scritto, i quiz mantengono copertura e velocità; vicino all'orale, la risposta breve aiuta a passare dagli appunti alla voce. La combinazione dei formati fa emergere per tempo un problema frequente: riconoscere una definizione senza saperla usare.
 
-Nel profilo Funzioni Centrali la matrice deve incrociare materie e output. L'organizzazione dei Ministeri puo' diventare quiz di classificazione, risposta breve su competenze e caso su rapporto tra uffici. La Presidenza del Consiglio puo' comparire come domanda di ruolo e coordinamento. L'Avvocatura dello Stato richiede prudenza: per i profili amministrativi devi cogliere funzione, perimetro e interazioni, senza trasformare il modulo in una trattazione specialistica da avvocato. Il PIAO si presta a collegamenti tra performance, anticorruzione, organizzazione e valore pubblico. La contabilita' pubblica richiede lessico tecnico, attenzione a fasi e documenti, capacita' di non confondere bilancio, gestione e controllo. I contratti pubblici e il digitale entrano come scenari di procedura, tracciabilita', acquisti, piattaforme, dati e responsabilita'.
+Nel profilo Funzioni Centrali la matrice deve incrociare materie e output. L'organizzazione dei Ministeri può diventare quiz di classificazione, risposta breve su competenze e caso su rapporto tra uffici. La Presidenza del Consiglio può comparire come domanda di ruolo e coordinamento. L'Avvocatura dello Stato richiede prudenza: per i profili amministrativi devi cogliere funzione, perimetro e interazioni, senza trasformare il modulo in una trattazione specialistica da avvocato. Il PIAO si presta a collegamenti tra performance, anticorruzione, organizzazione e valore pubblico. La contabilità pubblica richiede lessico tecnico, attenzione a fasi e documenti, capacità di non confondere bilancio, gestione e controllo. I contratti pubblici e il digitale entrano come scenari di procedura, tracciabilità, acquisti, piattaforme, dati e responsabilità.
 
-Per costruire la prova, scegli prima i nuclei. Una simulazione finale completa puo' avere otto quiz, due risposte brevi, un caso e una traccia orale, come in questo capitolo. Ma la proporzione cambia se il bando e' diverso. La regola e' non lasciare fuori cio' che pesa nel programma e non sovraccaricare cio' che conosci gia' solo per sentirti piu' sicuro. Se hai studiato molto diritto amministrativo comune ma poco bilancio ministeriale, la simulazione deve far emergere quel vuoto, non nasconderlo.
+Per costruire la prova, scegli prima i nuclei. Una simulazione finale completa può avere otto quiz, due risposte brevi, un caso e una traccia orale, come in questo capitolo. Ma la proporzione cambia se il bando è diverso. La regola è non lasciare fuori ciò che pesa nel programma e non sovraccaricare ciò che conosci già solo per sentirti più sicuro. Se hai studiato molto diritto amministrativo comune ma poco bilancio ministeriale, la simulazione deve far emergere quel vuoto, non nasconderlo.
 
-L'originalita' delle domande e' essenziale. Allenarsi con quesiti copiati puo' dare un'impressione falsa: riconosci il testo, non il problema. Una domanda originale deve avere una sola risposta migliore, distrattori plausibili e commento. Nei situazionali, i distrattori non devono essere caricature. La scelta corretta e' spesso quella che combina legalita', servizio, proporzione, competenza, riservatezza e tracciabilita'. Nei casi, il problema non e' "dire tutto", ma scegliere un ordine: cosa verifico, chi coinvolgo, quale limite rispetto, quale output produco.
+L'originalità delle domande è essenziale. Allenarsi con quesiti copiati può dare un'impressione falsa: riconosci il testo, non il problema. Una domanda originale deve avere una sola risposta migliore, distrattori plausibili e commento. Nei situazionali, i distrattori non devono essere caricature. La scelta corretta è spesso quella che combina legalità, servizio, proporzione, competenza, riservatezza e tracciabilità. Nei casi, il problema non è "dire tutto", ma scegliere un ordine: cosa verifico, chi coinvolgo, quale limite rispetto, quale output produco.
 
-La matrice seguente e' un modello, non una regola ufficiale.
+La matrice seguente è un modello, non una regola ufficiale.
 
 | Nucleo | Formato utile | Criterio di buona risposta |
 |---|---|---|
 | Bando e profilo | Quiz, risposta breve | Distingue requisito, prova, materia, ruolo |
 | Ministeri e PCM | Quiz, orale | Spiega funzioni e raccordi senza confondere livelli |
 | Avvocatura dello Stato | Quiz, risposta breve | Riconosce funzione istituzionale e perimetro |
-| PIAO e performance | Caso, orale | Collega obiettivi, misure e responsabilita' |
-| Contabilita' pubblica | Quiz, caso | Usa lessico corretto e non improvvisa soglie |
-| Contratti e digitale | Caso, situazionale | Tiene insieme procedura, tracciabilita' e dati |
+| PIAO e performance | Caso, orale | Collega obiettivi, misure e responsabilità |
+| Contabilità pubblica | Quiz, caso | Usa lessico corretto e non improvvisa soglie |
+| Contratti e digitale | Caso, situazionale | Tiene insieme procedura, tracciabilità e dati |
 | Comportamento | Situazionale, orale | Sceglie condotta proporzionata e documentabile |
 
 **Errore tipico**
 
-Preparare una simulazione solo sulle materie che fanno meno paura. E' un errore strategico: la prova finale deve cercare le fratture, non confermare le abitudini. Se una materia e' debole, deve comparire con un formato che costringa ad applicarla.
+Preparare una simulazione solo sulle materie che fanno meno paura. È un errore strategico: la prova finale deve cercare le fratture, non confermare le abitudini. Se una materia è debole, deve comparire con un formato che costringa ad applicarla.
 
 **Domanda da commissario**
 
-"Come imposterebbe una simulazione per un concorso ministeriale se il bando prevede materie giuridiche, contabilita', prova situazionale e orale?" La risposta efficace parte dal bando, distingue prove effettive ed esercizi di supporto, costruisce una matrice materia-output e chiude con correzione degli errori.
+"Come imposterebbe una simulazione per un concorso ministeriale se il bando prevede materie giuridiche, contabilità, prova situazionale e orale?" La risposta efficace parte dal bando, distingue prove effettive ed esercizi di supporto, costruisce una matrice materia-output e chiude con correzione degli errori.
 
 
-Un controllo utile e' chiedersi quale abilita' misura ogni blocco. Il quiz misura riconoscimento e decisione rapida; la risposta breve misura ordine concettuale; il caso misura applicazione e priorita'; l'orale misura tenuta, collegamenti e linguaggio. Se inserisci un blocco senza sapere quale abilita' verifica, stai solo allungando la simulazione. La prova mista deve invece restituire una diagnosi: sapere, distinguere, applicare, decidere, spiegare. Questa diagnosi e' piu' importante della somiglianza esteriore con una prova reale.
+Un controllo utile è chiedersi quale abilità misura ogni blocco. Il quiz misura riconoscimento e decisione rapida; la risposta breve misura ordine concettuale; il caso misura applicazione e priorità; l'orale misura tenuta, collegamenti e linguaggio. Se inserisci un blocco senza sapere quale abilità verifica, stai solo allungando la simulazione. La prova mista deve invece restituire una diagnosi: sapere, distinguere, applicare, decidere, spiegare. Questa diagnosi è più importante della somiglianza esteriore con una prova reale.
 ## N-FC01-14-03 · Svolgere la sessione e gestire il tempo
 
-La sessione di simulazione deve essere semplice da eseguire e difficile da sabotare. Il primo sabotaggio e' l'ambiente: telefono vicino, notifiche, appunti aperti, pause non dichiarate, correzione mentre rispondi. Il secondo e' la consegna vaga: "faccio qualche domanda". Il terzo e' il tempo elastico: inizi con un timer, poi lo fermi, poi ricontrolli una norma, poi riparti. Una prova cosi' non misura la preparazione; misura la capacita' di adattare le condizioni al disagio.
+La sessione di simulazione deve essere semplice da eseguire e difficile da sabotare. Il primo sabotaggio è l'ambiente: telefono vicino, notifiche, appunti aperti, pause non dichiarate, correzione mentre rispondi. Il secondo è la consegna vaga: "faccio qualche domanda". Il terzo è il tempo elastico: inizi con un timer, poi lo fermi, poi ricontrolli una norma, poi riparti. Una prova così non misura la preparazione; misura la capacità di adattare le condizioni al disagio.
 
-Prima di iniziare prepara tre fogli: consegna, risposte, diario grezzo. La consegna dice che cosa farai: numero di quiz, risposte brevi, caso, traccia orale, tempo di allenamento che hai deciso, materiali ammessi nella simulazione e regola per i dubbi. Il foglio risposte contiene solo le risposte, non spiegazioni lunghe. Il diario grezzo registra dopo, non durante, cio' che e' accaduto: domanda saltata, dubbio, ansia, confusione, perdita di tempo, cambio di risposta, blocco nell'esposizione.
+Prima di iniziare prepara tre fogli: consegna, risposte, diario grezzo. La consegna dice che cosa farai: numero di quiz, risposte brevi, caso, traccia orale, tempo di allenamento che hai deciso, materiali ammessi nella simulazione e regola per i dubbi. Il foglio risposte contiene solo le risposte, non spiegazioni lunghe. Il diario grezzo registra dopo, non durante, ciò che è accaduto: domanda saltata, dubbio, ansia, confusione, perdita di tempo, cambio di risposta, blocco nell'esposizione.
 
-Il tempo va gestito per giri. Il primo giro serve a prendere punti sicuri: rispondi ai quesiti chiari, segni quelli dubbi, non entri in lotta con una domanda che ti assorbe. Il secondo giro serve a ragionare sui dubbi recuperabili: elimini distrattori, rileggi parole chiave, confronti due opzioni. Il terzo giro e' il controllo: verifica errori materiali, risposte non segnate, incongruenze, consegne. Se la prova e' scritta o orale, i giri diventano: schema, produzione, revisione. Prima scegli l'ordine; poi scrivi o parli; infine controlli se hai risposto alla domanda.
+Il tempo va gestito per giri. Il primo giro serve a prendere punti sicuri: rispondi ai quesiti chiari, segni quelli dubbi, non entri in lotta con una domanda che ti assorbe. Il secondo giro serve a ragionare sui dubbi recuperabili: elimini distrattori, rileggi parole chiave, confronti due opzioni. Il terzo giro è il controllo: verifica errori materiali, risposte non segnate, incongruenze, consegne. Se la prova è scritta o orale, i giri diventano: schema, produzione, revisione. Prima scegli l'ordine; poi scrivi o parli; infine controlli se hai risposto alla domanda.
 
-Non devi fissare una durata universale. Devi usare la durata ufficiale quando e' nota e, quando non e' nota o stai facendo una prova mista personale, scegliere una durata dichiarata in anticipo. La differenza e' sostanziale: nel primo caso stai simulando la procedura, nel secondo stai allenando la prestazione. Scrivilo sulla scheda. Questo evita di confrontare risultati non comparabili.
+Non devi fissare una durata universale. Devi usare la durata ufficiale quando è nota e, quando non è nota o stai facendo una prova mista personale, scegliere una durata dichiarata in anticipo. La differenza è sostanziale: nel primo caso stai simulando la procedura, nel secondo stai allenando la prestazione. Scrivilo sulla scheda. Questo evita di confrontare risultati non comparabili.
 
-Nel modulo M-FC01 la gestione del tempo ha una particolarita': alcune domande sembrano teoriche ma richiedono classificazione istituzionale, altre sembrano pratiche ma richiedono prudenza giuridica. Un quesito su PIAO, per esempio, puo' chiedere finalita', contenuto, raccordo con performance o anticorruzione. Se parti a memoria senza leggere il verbo, perdi tempo e sbagli livello. Un situazionale puo' sembrare di buon senso, ma devi cercare ruolo, competenza, tracciabilita' e riservatezza. Un caso su un ufficio ministeriale puo' attirarti verso una risposta lunga, mentre la consegna chiede priorita' operative.
+Nel modulo M-FC01 la gestione del tempo ha una particolarità: alcune domande sembrano teoriche ma richiedono classificazione istituzionale, altre sembrano pratiche ma richiedono prudenza giuridica. Un quesito su PIAO, per esempio, può chiedere finalità, contenuto, raccordo con performance o anticorruzione. Se parti a memoria senza leggere il verbo, perdi tempo e sbagli livello. Un situazionale può sembrare di buon senso, ma devi cercare ruolo, competenza, tracciabilità e riservatezza. Un caso su un ufficio ministeriale può attirarti verso una risposta lunga, mentre la consegna chiede priorità operative.
 
-La regola per i dubbi e' scrivere un segno, non una storia. Usa codici brevi: "L" per lettura, "C" per concetto, "T" per tempo, "S" per strategia, "E" per esposizione. Non interrompere la prova per analizzare l'errore: lo farai dopo. Durante la sessione devi restare candidato, non revisore.
+La regola per i dubbi è scrivere un segno, non una storia. Usa codici brevi: "L" per lettura, "C" per concetto, "T" per tempo, "S" per strategia, "E" per esposizione. Non interrompere la prova per analizzare l'errore: lo farai dopo. Durante la sessione devi restare candidato, non revisore.
 
 **Caso guidato**
 
-Stai simulando una prova mista per un profilo amministrativo in un Ministero. Hai otto quiz, due risposte brevi e un caso. Al quarto quiz trovi un quesito su PIAO e performance con due opzioni plausibili. Ti fermi tre minuti, poi cambi risposta due volte. La gestione corretta non e' "studiare meglio PIAO" in quel momento. E' segnare il dubbio, scegliere la risposta piu' motivata, proseguire e registrare dopo la causa. Se scopri che l'errore nasce dal non distinguere obiettivo, indicatore e misura, il recupero sara' diverso da un errore di distrazione.
+Stai simulando una prova mista per un profilo amministrativo in un Ministero. Hai otto quiz, due risposte brevi e un caso. Al quarto quiz trovi un quesito su PIAO e performance con due opzioni plausibili. Ti fermi tre minuti, poi cambi risposta due volte. La gestione corretta non è "studiare meglio PIAO" in quel momento. È segnare il dubbio, scegliere la risposta più motivata, proseguire e registrare dopo la causa. Se scopri che l'errore nasce dal non distinguere obiettivo, indicatore e misura, il recupero sarà diverso da un errore di distrazione.
 
 | Fase | Azione | Cosa non fare |
 |---|---|---|
@@ -149,20 +149,20 @@ Stai simulando una prova mista per un profilo amministrativo in un Ministero. Ha
 "Se durante la simulazione capisco di non ricordare un argomento, posso fermarmi e ripassarlo subito?" No, se stai misurando la prestazione. Puoi annotarlo e recuperarlo dopo. Fermarsi trasforma la simulazione in studio assistito e rende il risultato non confrontabile.
 
 
-Per evitare autoinganni, dichiara anche cosa succede se non finisci. Non recuperare automaticamente il tempo perso, non completare le risposte dopo la correzione, non trasformare le domande non risposte in esercizi fuori prova. Segna invece il punto in cui ti sei fermato e chiediti se il problema e' stato contenuto, tempo o strategia. In un concorso ministeriale la capacita' di selezionare l'ordine conta quanto la memoria: una risposta perfetta arrivata fuori tempo non dimostra prontezza operativa. La sessione deve quindi produrre anche dati sul comportamento, non solo sulle conoscenze.
+Per evitare autoinganni, dichiara anche cosa succede se non finisci. Non recuperare automaticamente il tempo perso, non completare le risposte dopo la correzione, non trasformare le domande non risposte in esercizi fuori prova. Segna invece il punto in cui ti sei fermato e chiediti se il problema è stato contenuto, tempo o strategia. In un concorso ministeriale la capacità di selezionare l'ordine conta quanto la memoria: una risposta perfetta arrivata fuori tempo non dimostra prontezza operativa. La sessione deve quindi produrre anche dati sul comportamento, non solo sulle conoscenze.
 ## N-FC01-14-04 · Correggere risultato, processo e strategia
 
-La correzione non coincide con il conteggio delle risposte giuste. Il conteggio serve, ma e' solo il primo livello. Nei concorsi pubblici il risultato finale dipende da regole specifiche del bando: punteggi, eventuali penalita', soglie, criteri e idoneita' non vanno inventati. Nella simulazione domestica puoi calcolare percentuali, tempi medi e distribuzione degli errori, ma devi chiamarli indicatori di allenamento. Non sono graduatorie, non sono previsioni e non sono soglie ufficiali.
+La correzione non coincide con il conteggio delle risposte giuste. Il conteggio serve, ma è solo il primo livello. Nei concorsi pubblici il risultato finale dipende da regole specifiche del bando: punteggi, eventuali penalità, soglie, criteri e idoneità non vanno inventati. Nella simulazione domestica puoi calcolare percentuali, tempi medi e distribuzione degli errori, ma devi chiamarli indicatori di allenamento. Non sono graduatorie, non sono previsioni e non sono soglie ufficiali.
 
-La griglia di correzione ha cinque colonne: risultato, contenuto, tempo, strategia, esposizione. Il risultato dice quante risposte sono corrette o quanto e' convincente un output. Il contenuto dice se la conoscenza e' corretta, completa e pertinente. Il tempo dice dove hai rallentato. La strategia dice se hai scelto l'ordine giusto, se hai gestito dubbi e se hai controllato. L'esposizione riguarda risposte brevi, casi e orale: chiarezza, struttura, lessico, esempi, chiusura.
+La griglia di correzione ha cinque colonne: risultato, contenuto, tempo, strategia, esposizione. Il risultato dice quante risposte sono corrette o quanto è convincente un output. Il contenuto dice se la conoscenza è corretta, completa e pertinente. Il tempo dice dove hai rallentato. La strategia dice se hai scelto l'ordine giusto, se hai gestito dubbi e se hai controllato. L'esposizione riguarda risposte brevi, casi e orale: chiarezza, struttura, lessico, esempi, chiusura.
 
-Nel quiz, correggi prima senza commenti: giusto, sbagliato, non risposto, cambiato. Poi scrivi la causa presunta. Infine leggi la spiegazione e verifica se la causa era reale. Molti candidati sbagliano qui: vedono la soluzione e dicono "lo sapevo". Ma se in prova hai scelto altro, il problema esiste. Puo' essere stato un problema di richiamo, di lettura, di pressione o di confusione tra istituti. Il diario serve proprio a non cancellare l'errore con la spiegazione successiva.
+Nel quiz, correggi prima senza commenti: giusto, sbagliato, non risposto, cambiato. Poi scrivi la causa presunta. Infine leggi la spiegazione e verifica se la causa era reale. Molti candidati sbagliano qui: vedono la soluzione e dicono "lo sapevo". Ma se in prova hai scelto altro, il problema esiste. Può essere stato un problema di richiamo, di lettura, di pressione o di confusione tra istituti. Il diario serve proprio a non cancellare l'errore con la spiegazione successiva.
 
-Nelle risposte brevi, non valutare solo se hai nominato le parole giuste. Una risposta concorsuale deve rispondere alla domanda, non recitare un paragrafo. Controlla se hai definito l'oggetto, indicato la funzione, fatto una distinzione utile, applicato al profilo e chiuso con conseguenza. Se la domanda chiede "perche' e' rilevante per un Ministero", una risposta solo normativa e' parziale. Se chiede "distinguere", una risposta descrittiva senza confronto e' debole.
+Nelle risposte brevi, non valutare solo se hai nominato le parole giuste. Una risposta concorsuale deve rispondere alla domanda, non recitare un paragrafo. Controlla se hai definito l'oggetto, indicato la funzione, fatto una distinzione utile, applicato al profilo e chiuso con conseguenza. Se la domanda chiede "perché è rilevante per un Ministero", una risposta solo normativa è parziale. Se chiede "distinguere", una risposta descrittiva senza confronto è debole.
 
-Nel caso ragionato, correggi la sequenza. Hai individuato il problema principale? Hai separato fatto, regola, competenza, azione e comunicazione? Hai evitato promesse non dovute? Hai previsto tracciabilita' e coinvolgimento del responsabile quando necessario? Hai rispettato riservatezza e buon andamento? Un caso ministeriale non richiede eroismo amministrativo: richiede ordine, proporzione e consapevolezza del ruolo.
+Nel caso ragionato, correggi la sequenza. Hai individuato il problema principale? Hai separato fatto, regola, competenza, azione e comunicazione? Hai evitato promesse non dovute? Hai previsto tracciabilità e coinvolgimento del responsabile quando necessario? Hai rispettato riservatezza e buon andamento? Un caso ministeriale non richiede eroismo amministrativo: richiede ordine, proporzione e consapevolezza del ruolo.
 
-Nell'orale, registra il primo minuto. Se non puoi registrarti, fai almeno una scaletta scritta e cronometrata. La correzione dell'orale deve guardare attacco, struttura, collegamenti, esempio e chiusura. Un errore frequente e' iniziare dalla definizione piu' lontana e arrivare tardi al punto richiesto. Un altro e' usare un lessico troppo generico: "la pubblica amministrazione deve funzionare bene" non vale quanto "l'ufficio deve perseguire buon andamento, trasparenza del procedimento, tracciabilita' delle decisioni e corretto uso delle competenze".
+Nell'orale, registra il primo minuto. Se non puoi registrarti, fai almeno una scaletta scritta e cronometrata. La correzione dell'orale deve guardare attacco, struttura, collegamenti, esempio e chiusura. Un errore frequente è iniziare dalla definizione più lontana e arrivare tardi al punto richiesto. Un altro è usare un lessico troppo generico: "la pubblica amministrazione deve funzionare bene" non vale quanto "l'ufficio deve perseguire buon andamento, trasparenza del procedimento, tracciabilità delle decisioni e corretto uso delle competenze".
 
 | Dimensione | Domanda di correzione | Esempio di intervento |
 |---|---|---|
@@ -174,29 +174,29 @@ Nell'orale, registra il primo minuto. Se non puoi registrarti, fai almeno una sc
 
 **Errore tipico**
 
-Correggere solo il punteggio e poi ripartire con un'altra simulazione. Cosi' accumuli prove ma non apprendimento. Una simulazione vale se produce una decisione di recupero.
+Correggere solo il punteggio e poi ripartire con un'altra simulazione. Così accumuli prove ma non apprendimento. Una simulazione vale se produce una decisione di recupero.
 
 **Da sapere in 5 righe**
 
-Il risultato non basta. Devi correggere contenuto, tempo, strategia ed esposizione. Le soglie ufficiali appartengono al bando, non alla tua griglia domestica. Nel quiz conta il perche' dell'errore, non solo la risposta corretta. Nei casi e nell'orale conta l'ordine della risposta.
+Il risultato non basta. Devi correggere contenuto, tempo, strategia ed esposizione. Le soglie ufficiali appartengono al bando, non alla tua griglia domestica. Nel quiz conta il perché dell'errore, non solo la risposta corretta. Nei casi e nell'orale conta l'ordine della risposta.
 
 
-Aggiungi sempre una nota sul livello di sicurezza percepito. Una risposta corretta scelta con sicurezza e una risposta corretta scelta a caso hanno valore diverso per il recupero. Allo stesso modo, una risposta sbagliata ma ragionata e una risposta sbagliata per lettura superficiale richiedono interventi diversi. Puoi usare tre segni: sicuro, dubbio, intuito. Dopo la correzione confronta segno e risultato. Se molti "sicuro" sono sbagliati, hai un problema di falsa padronanza. Se molti "dubbio" sono corretti, devi lavorare sulla fiducia e sulla velocita'. Se molti "intuito" sono corretti, non accontentarti: trasforma l'intuizione in regola spiegabile.
+Aggiungi sempre una nota sul livello di sicurezza percepito. Una risposta corretta scelta con sicurezza e una risposta corretta scelta a caso hanno valore diverso per il recupero. Allo stesso modo, una risposta sbagliata ma ragionata e una risposta sbagliata per lettura superficiale richiedono interventi diversi. Puoi usare tre segni: sicuro, dubbio, intuito. Dopo la correzione confronta segno e risultato. Se molti "sicuro" sono sbagliati, hai un problema di falsa padronanza. Se molti "dubbio" sono corretti, devi lavorare sulla fiducia e sulla velocità. Se molti "intuito" sono corretti, non accontentarti: trasforma l'intuizione in regola spiegabile.
 ## N-FC01-14-05 · Classificare gli errori per causa
 
-Il diario degli errori funziona solo se classifica la causa reale. Scrivere "ho sbagliato contabilita'" e' quasi inutile. Devi sapere se hai sbagliato per lacuna, confusione, lettura, richiamo, applicazione, tempo, strategia o esposizione. Ogni causa richiede un intervento diverso. Se confondi le cause, studi molto e migliori poco.
+Il diario degli errori funziona solo se classifica la causa reale. Scrivere "ho sbagliato contabilità" è quasi inutile. Devi sapere se hai sbagliato per lacuna, confusione, lettura, richiamo, applicazione, tempo, strategia o esposizione. Ogni causa richiede un intervento diverso. Se confondi le cause, studi molto e migliori poco.
 
-La lacuna e' assenza di conoscenza. Non conosci un istituto, una funzione, una fase, una distinzione. Il recupero e' studio mirato: definizione, schema, esempio, domanda. La confusione e' conoscenza presente ma disordinata: per esempio confondi organi di indirizzo e strutture amministrative, performance e anticorruzione, programmazione e gestione, ruolo del Ministero e ruolo della Presidenza del Consiglio. Il recupero e' confronto: tabella, coppie minime, domanda "in cosa differiscono?".
+La lacuna è assenza di conoscenza. Non conosci un istituto, una funzione, una fase, una distinzione. Il recupero è studio mirato: definizione, schema, esempio, domanda. La confusione è conoscenza presente ma disordinata: per esempio confondi organi di indirizzo e strutture amministrative, performance e anticorruzione, programmazione e gestione, ruolo del Ministero e ruolo della Presidenza del Consiglio. Il recupero è confronto: tabella, coppie minime, domanda "in cosa differiscono?".
 
-L'errore di lettura nasce da una parola trascurata: "non", "salvo", "principalmente", "piu' efficace", "prima", "competente", "nel caso descritto". Nei concorsi centrali puo' comparire in quesiti situazionali e casi: scegli l'opzione giuridicamente elegante ma non coerente con il ruolo assegnato. Il recupero e' allenamento su consegne: sottolineare verbo, limite, soggetto, output.
+L'errore di lettura nasce da una parola trascurata: "non", "salvo", "principalmente", "più efficace", "prima", "competente", "nel caso descritto". Nei concorsi centrali può comparire in quesiti situazionali e casi: scegli l'opzione giuridicamente elegante ma non coerente con il ruolo assegnato. Il recupero è allenamento su consegne: sottolineare verbo, limite, soggetto, output.
 
-L'errore di richiamo e' diverso dalla lacuna. Hai studiato, ma non recuperi in tempo. Succede con liste, fasi, documenti, acronimi, collegamenti. Il recupero e' richiamo attivo: domanda chiusa, flashcard essenziale, spiegazione a voce, ripetizione distanziata. Non serve rileggere dieci pagine se il problema e' recuperare in sessanta secondi una distinzione gia' studiata.
+L'errore di richiamo è diverso dalla lacuna: hai studiato, ma non recuperi l'informazione in tempo. Succede con liste, fasi, documenti, acronimi e collegamenti. Allenati allora con domande chiuse, flashcard essenziali, spiegazioni a voce e ripetizione distanziata. Rileggere dieci pagine serve a poco se il problema consiste nel recuperare in sessanta secondi una distinzione già studiata.
 
-L'errore di applicazione appare quando conosci la teoria ma non sai usarla in un caso. Sai cos'e' il PIAO, ma non sai come entra in una situazione di obiettivi e misure. Sai che cosa sono contratti pubblici e digitalizzazione, ma non sai individuare il rischio di tracciabilita' in una procedura. Sai che esiste un codice di comportamento, ma scegli una condotta troppo informale davanti a un conflitto. Il recupero e' caso breve: fatto, regola, azione, limite.
+L'errore di applicazione compare quando conosci la teoria ma non riesci a usarla in un caso. Sai cos'è il PIAO, però non sai collegarlo a una situazione fatta di obiettivi e misure. Conosci contratti pubblici e digitalizzazione, ma non individui il rischio di tracciabilità nella procedura. Oppure ricordi il codice di comportamento e scegli comunque una condotta troppo informale davanti a un conflitto. Per correggere questo errore, lavora su casi brevi ordinati in quattro passaggi: fatto, regola, azione e limite.
 
-L'errore di tempo non e' sempre lentezza. Puo' essere distribuzione sbagliata: spendi troppo sui quesiti che piacciono, lasci alla fine quelli che valgono di piu' nella tua simulazione, scrivi risposte brevi troppo lunghe, prepari un orale senza chiusura. Il recupero e' format: timer, scaletta, giri, limite di righe, parole chiave.
+L'errore di tempo non è sempre lentezza. Può essere distribuzione sbagliata: spendi troppo sui quesiti che piacciono, lasci alla fine quelli che valgono di più nella tua simulazione, scrivi risposte brevi troppo lunghe, prepari un orale senza chiusura. Il recupero è format: timer, scaletta, giri, limite di righe, parole chiave.
 
-L'errore di strategia riguarda decisioni di prova: cambiare risposte senza motivo, non saltare domande difficili, controllare troppo presto, non leggere tutte le opzioni, iniziare un caso senza schema. Il recupero e' protocollo. L'errore di esposizione riguarda forma e comprensibilita': risposta confusa, lessico vago, esempi fuori tema, orale senza struttura. Il recupero e' produzione controllata.
+L'errore di strategia riguarda decisioni di prova: cambiare risposte senza motivo, non saltare domande difficili, controllare troppo presto, non leggere tutte le opzioni, iniziare un caso senza schema. Il recupero è protocollo. L'errore di esposizione riguarda forma e comprensibilità: risposta confusa, lessico vago, esempi fuori tema, orale senza struttura. Il recupero è produzione controllata.
 
 | Causa | Segnale | Recupero |
 |---|---|---|
@@ -211,27 +211,27 @@ L'errore di strategia riguarda decisioni di prova: cambiare risposte senza motiv
 
 **Esempio**
 
-Domanda: in un caso situazionale, un cittadino chiede informazioni su una pratica non di competenza del tuo ufficio. Scegli l'opzione "rinviare seccamente all'ufficio competente". La risposta migliore era orientare correttamente l'utente, senza promettere esiti e rispettando competenze e informazioni disponibili. La causa non e' solo "situazionale sbagliato": e' applicazione del ruolo pubblico e del servizio. Il recupero e' costruire tre risposte proporzionate: cosa posso dire, cosa non posso promettere, quale traccia lascio.
+Domanda: in un caso situazionale, un cittadino chiede informazioni su una pratica non di competenza del tuo ufficio. Scegli l'opzione "rinviare seccamente all'ufficio competente". La risposta migliore era orientare correttamente l'utente, senza promettere esiti e rispettando competenze e informazioni disponibili. La causa non è solo "situazionale sbagliato": è applicazione del ruolo pubblico e del servizio. Il recupero è costruire tre risposte proporzionate: cosa posso dire, cosa non posso promettere, quale traccia lascio.
 
 **Mini-esercizio**
 
-Prendi tre errori recenti. Per ciascuno vietati la parola "distrazione" finche' non hai escluso le altre sette cause. Spesso la distrazione e' solo l'etichetta comoda di una lettura debole o di una strategia assente.
+Prendi tre errori recenti. Per ciascuno vietati la parola "distrazione" finché non hai escluso le altre sette cause. Spesso la distrazione è solo l'etichetta comoda di una lettura debole o di una strategia assente.
 
 
-La classificazione va fatta a caldo e poi riletta a freddo. A caldo ricordi cosa hai pensato durante la prova; a freddo sei meno esposto alla frustrazione. Per questo conviene compilare una prima causa subito dopo la correzione e confermarla il giorno successivo. Se il giorno dopo la causa cambia, non e' un fallimento: e' una diagnosi migliore. Nei profili delle Funzioni Centrali questa seconda lettura e' preziosa, perche' molti errori nascono da sovrapposizioni tra materie: una domanda di organizzazione puo' contenere un vincolo di procedimento, una domanda di performance puo' richiedere lessico di programmazione, un caso digitale puo' nascondere un problema di riservatezza.
+La classificazione va fatta a caldo e poi riletta a freddo. A caldo ricordi cosa hai pensato durante la prova; a freddo sei meno esposto alla frustrazione. Per questo conviene compilare una prima causa subito dopo la correzione e confermarla il giorno successivo. Se il giorno dopo la causa cambia, non è un fallimento: è una diagnosi migliore. Nei profili delle Funzioni Centrali questa seconda lettura è preziosa, perché molti errori nascono da sovrapposizioni tra materie: una domanda di organizzazione può contenere un vincolo di procedimento, una domanda di performance può richiedere lessico di programmazione, un caso digitale può nascondere un problema di riservatezza.
 ## N-FC01-14-06 · Costruire il diario degli errori M-FC01
 
-Il diario degli errori non e' un quaderno delle colpe. E' uno strumento di governo della preparazione. Deve essere abbastanza preciso da guidare il recupero e abbastanza leggero da essere compilato sempre. Se richiede venti minuti per ogni quesito, lo abbandonerai. Se contiene solo "ripassare diritto amministrativo", non serve.
+Il diario degli errori non è un quaderno delle colpe. È uno strumento di governo della preparazione. Deve essere abbastanza preciso da guidare il recupero e abbastanza leggero da essere compilato sempre. Se richiede venti minuti per ogni quesito, lo abbandonerai. Se contiene solo "ripassare diritto amministrativo", non serve.
 
-Ogni riga deve avere nove campi: data, nucleo, tipo di prova, errore, causa, correzione, nuovo output, scadenza, secondo tentativo. La data serve a vedere ricorrenze. Il nucleo collega l'errore alla matrice del modulo: bando, ministeri, PCM, Avvocatura, PIAO, contabilita', contratti, digitale, situazionali, caso, orale. Il tipo di prova indica se l'errore e' emerso in quiz, risposta breve, caso o orale. L'errore descrive il fatto osservabile, non il giudizio personale. La causa usa una delle categorie del nucleo precedente. La correzione indica la regola o distinzione giusta. Il nuovo output e' cio' che produrrai per verificare il recupero. La scadenza impedisce di rimandare. Il secondo tentativo chiude o riapre la riga.
+Ogni riga deve avere nove campi: data, nucleo, tipo di prova, errore, causa, correzione, nuovo output, scadenza, secondo tentativo. La data serve a vedere ricorrenze. Il nucleo collega l'errore alla matrice del modulo: bando, ministeri, PCM, Avvocatura, PIAO, contabilità, contratti, digitale, situazionali, caso, orale. Il tipo di prova indica se l'errore è emerso in quiz, risposta breve, caso o orale. L'errore descrive il fatto osservabile, non il giudizio personale. La causa usa una delle categorie del nucleo precedente. La correzione indica la regola o distinzione giusta. Il nuovo output è ciò che produrrai per verificare il recupero. La scadenza impedisce di rimandare. Il secondo tentativo chiude o riapre la riga.
 
-Esempio debole: "PIAO sbagliato, ripassare". Esempio utile: "Quiz su PIAO: ho confuso finalita' di performance con misura anticorruzione; causa confusione; correzione: distinguere programmazione integrata, obiettivi, misure e monitoraggio; output: tabella PIAO/performance/anticorruzione + due quiz originali; scadenza: venerdi'; secondo tentativo: domenica". La seconda riga produce un'azione.
+Esempio debole: "PIAO sbagliato, ripassare". Esempio utile: "Quiz su PIAO: ho confuso finalità di performance con misura anticorruzione; causa confusione; correzione: distinguere programmazione integrata, obiettivi, misure e monitoraggio; output: tabella PIAO/performance/anticorruzione + due quiz originali; scadenza: venerdì; secondo tentativo: domenica". La seconda riga produce un'azione.
 
-Il diario deve distinguere errore singolo e pattern. Un singolo errore su Avvocatura dello Stato puo' essere una lacuna. Tre errori su funzioni di patrocinio, rapporto con amministrazioni e perimetro del modulo indicano un pattern: non hai ancora fissato il ruolo istituzionale. Un errore di tempo in una risposta breve puo' essere casuale. Quattro risposte troppo lunghe indicano mancanza di formato. Il diario non serve solo a correggere, ma a vedere cio' che si ripete.
+Il diario deve distinguere errore singolo e pattern. Un singolo errore su Avvocatura dello Stato può essere una lacuna. Tre errori su funzioni di patrocinio, rapporto con amministrazioni e perimetro del modulo indicano un pattern: non hai ancora fissato il ruolo istituzionale. Un errore di tempo in una risposta breve può essere casuale. Quattro risposte troppo lunghe indicano mancanza di formato. Il diario non serve solo a correggere, ma a vedere ciò che si ripete.
 
-Per M-FC01 conviene aggiungere un campo "profilo/ufficio" quando lavori su casi. Un errore in un caso di segreteria ministeriale non e' identico a un errore in un caso di ufficio contratti o in un contesto di Presidenza del Consiglio. Non perche' devi conoscere ogni ufficio reale, ma perche' devi capire se l'errore nasce dal contenuto o dal contesto organizzativo.
+Per M-FC01 conviene aggiungere un campo "profilo/ufficio" quando lavori su casi. Un errore in un caso di segreteria ministeriale non è identico a un errore in un caso di ufficio contratti o in un contesto di Presidenza del Consiglio. Non perché devi conoscere ogni ufficio reale, ma perché devi capire se l'errore nasce dal contenuto o dal contesto organizzativo.
 
-Il secondo tentativo e' obbligatorio. Senza secondo tentativo il diario resta archivio. Il secondo tentativo puo' essere un quiz simile, una risposta in dieci righe, una spiegazione orale, un micro-caso o una tabella comparativa. Deve avvenire dopo un intervallo minimo ragionevole, non subito dopo aver letto la soluzione, altrimenti misuri memoria immediata della correzione.
+Il secondo tentativo è obbligatorio. Senza secondo tentativo il diario resta archivio. Il secondo tentativo può essere un quiz simile, una risposta in dieci righe, una spiegazione orale, un micro-caso o una tabella comparativa. Deve avvenire dopo un intervallo minimo ragionevole, non subito dopo aver letto la soluzione, altrimenti misuri memoria immediata della correzione.
 
 | Campo | Come compilarlo | Esempio |
 |---|---|---|
@@ -258,22 +258,22 @@ Il secondo tentativo e' obbligatorio. Senza secondo tentativo il diario resta ar
 Usare il diario come elenco di materie da ripassare. Il diario non deve dire solo "che cosa studiare", ma "quale prestazione rifare": riconoscere, distinguere, spiegare, applicare, scegliere, esporre.
 
 
-Il diario puo' vivere su carta, in un foglio di calcolo o in un quaderno digitale, ma deve restare esportabile e leggibile. Evita sistemi troppo raffinati: colori, tag e filtri aiutano solo se non sostituiscono la diagnosi. Una buona regola pratica e' che ogni riga debba poter essere capita da te dopo un mese. Se rileggendo trovi frasi come "rivedere tutto" o "non ci sono", la riga non e' abbastanza operativa. Se invece trovi un errore, una causa e un output, puoi ripartire anche dopo una pausa.
+Il diario può vivere su carta, in un foglio di calcolo o in un quaderno digitale, ma deve restare esportabile e leggibile. Evita sistemi troppo raffinati: colori, tag e filtri aiutano solo se non sostituiscono la diagnosi. Una buona regola pratica è che ogni riga debba poter essere capita da te dopo un mese. Se rileggendo trovi frasi come "rivedere tutto" o "non ci sono", la riga non è abbastanza operativa. Se invece trovi un errore, una causa e un output, puoi ripartire anche dopo una pausa.
 
-Per renderlo ancora piu' utile, assegna a ogni riga un livello di urgenza: alta quando l'errore colpisce un nucleo frequente o blocca piu' formati di prova; media quando riguarda una distinzione importante ma circoscritta; bassa quando e' un episodio isolato gia' corretto. L'urgenza non misura la gravita' emotiva, ma l'impatto sulla prossima prestazione. Questo evita di inseguire l'ultimo errore solo perche' brucia di piu'.
+Per renderlo ancora più utile, assegna a ogni riga un livello di urgenza: alta quando l'errore colpisce un nucleo frequente o blocca più formati di prova; media quando riguarda una distinzione importante ma circoscritta; bassa quando è un episodio isolato già corretto. L'urgenza non misura la gravità emotiva, ma l'impatto sulla prossima prestazione. Questo evita di inseguire l'ultimo errore solo perché brucia di più.
 ## N-FC01-14-07 · Dal diario al piano di recupero
 
 Il recupero comincia quando smetti di chiederti "quanto ho preso?" e inizi a chiederti "che cosa cambia da domani?". Dopo una simulazione M-FC01 devi aggregare gli errori in pattern. Non puoi correggere tutto nello stesso modo. Se il diario mostra cinque lacune, servono blocchi di studio. Se mostra letture sbagliate, serve lavoro su consegne. Se mostra risposte orali confuse, serve esposizione. Se mostra tempo mal distribuito, serve protocollo di prova.
 
-Il primo passaggio e' contare per causa, non per materia. Una materia con molti errori di lettura non richiede lo stesso intervento di una materia con molti errori di lacuna. Il secondo passaggio e' contare per nucleo. Se PIAO, performance e anticorruzione producono errori in quiz, caso e orale, hanno priorita'. Se un tema genera un solo errore isolato, puo' bastare un richiamo. Il terzo passaggio e' scegliere massimo tre priorita'. Un piano di recupero con dodici priorita' e' solo un modo ordinato per non decidere.
+Comincia contando gli errori per causa, non soltanto per materia. Molti errori di lettura richiedono un intervento diverso da una serie di lacune. Passa poi ai nuclei: se PIAO, performance e anticorruzione producono errori nei quiz, nel caso e nell'orale, meritano priorità; per un episodio isolato può bastare un richiamo. A questo punto scegli non più di tre priorità. Un piano di recupero con dodici voci evita la decisione invece di guidarla.
 
-Il recupero di sette giorni e' una struttura adattabile, non una regola di procedura. Giorno 1: correzione profonda e classificazione. Giorno 2: recupero delle lacune piu' gravi. Giorno 3: esercizi di distinzione e lettura consegne. Giorno 4: caso o risposta breve sui nuclei deboli. Giorno 5: orale breve o spiegazione ad alta voce. Giorno 6: mini-simulazione mirata. Giorno 7: seconda correzione e aggiornamento del diario. Se hai meno tempo, comprimi; se ne hai di piu', distanzia. L'importante e' che ogni giorno produca un output.
+Il programma di sette giorni che segue è adattabile e non descrive una regola della procedura. Dedica il primo giorno alla correzione e alla classificazione, il secondo alle lacune più gravi e il terzo agli esercizi di distinzione e lettura delle consegne. Nei due giorni successivi lavora prima su un caso o una risposta breve, poi sull'esposizione orale. Il sesto giorno svolgi una mini-simulazione mirata; il settimo correggila e aggiorna il diario. Puoi comprimere o distanziare la sequenza, purché ogni sessione produca un output controllabile.
 
 I drill devono corrispondere alla causa. Per lacuna: scheda 1 pagina con definizione, funzione, elementi, esempio. Per confusione: tabella "A/B" e tre domande di distinzione. Per lettura: dieci consegne con verbo e vincolo sottolineati. Per richiamo: domande flash senza appunti. Per applicazione: micro-casi. Per tempo: esercizi con timer e limite. Per strategia: simulazione con giri obbligati. Per esposizione: risposta in dieci righe e orale in due minuti.
 
-La nuova simulazione non deve essere identica. Deve verificare se il recupero si trasferisce. Se hai sbagliato un quesito sul PIAO, non basta rifare lo stesso quesito. Devi affrontare un caso diverso o una domanda orale collegata. Se hai sbagliato un situazionale sul rapporto con il cittadino, prova un caso con collega, responsabile o dato riservato. Il segnale di miglioramento e' la capacita' di usare la regola in contesti diversi.
+La nuova simulazione non deve essere identica. Deve verificare se il recupero si trasferisce. Se hai sbagliato un quesito sul PIAO, non basta rifare lo stesso quesito. Devi affrontare un caso diverso o una domanda orale collegata. Se hai sbagliato un situazionale sul rapporto con il cittadino, prova un caso con collega, responsabile o dato riservato. Il segnale di miglioramento è la capacità di usare la regola in contesti diversi.
 
-Il capitale di studio riusabile va salvato. Ogni errore corretto produce un pezzo di preparazione per concorsi futuri: una tabella, una risposta breve, una formula orale, una griglia di caso, una checklist di lettura. Questo e' il senso del Metodo BANDO applicato ai moduli specialistici: non ricominciare da zero, ma trasformare ogni prova in materiale migliore.
+Il capitale di studio riusabile va salvato. Ogni errore corretto produce un pezzo di preparazione per concorsi futuri: una tabella, una risposta breve, una formula orale, una griglia di caso, una checklist di lettura. Questo è il senso del Metodo BANDO applicato ai moduli specialistici: non ricominciare da zero, ma trasformare ogni prova in materiale migliore.
 
 | Causa dominante | Drill | Seconda prova |
 |---|---|---|
@@ -290,7 +290,7 @@ Il capitale di studio riusabile va salvato. Ogni errore corretto produce un pezz
 
 | Giorno | Output |
 |---|---|
-| 1 | Diario completo e tre priorita' |
+| 1 | Diario completo e tre priorità |
 | 2 | Schede lacune |
 | 3 | Tabelle di distinzione |
 | 4 | Caso o risposta breve |
@@ -300,13 +300,13 @@ Il capitale di studio riusabile va salvato. Ogni errore corretto produce un pezz
 
 **Domanda da commissario**
 
-"Che cosa fa dopo una simulazione andata male?" Una risposta matura non dice "studio di piu'". Dice: classifico errori, distinguo lacune e strategia, scelgo tre priorita', produco output mirati, rifaccio un secondo tentativo e aggiorno il piano.
+"Che cosa fa dopo una simulazione andata male?" Una risposta matura non dice "studio di più". Dice: classifico errori, distinguo lacune e strategia, scelgo tre priorità, produco output mirati, rifaccio un secondo tentativo e aggiorno il piano.
 
 
-Prima di programmare una nuova simulazione completa, decidi se serve una mini-simulazione mirata. Se gli errori sono concentrati in due nuclei, una prova completa puo' disperdere energie; meglio costruire dieci quesiti, una risposta breve e un micro-caso su quei nuclei. Se invece gli errori sono distribuiti e riguardano tempo o strategia, serve una sessione piu' ampia. Il recupero non deve dimostrare ottimismo: deve scegliere il formato che isola il problema. Solo quando il secondo tentativo migliora puoi riportare quel nucleo nella rotazione ordinaria.
+Prima di programmare una nuova simulazione completa, decidi se serve una mini-simulazione mirata. Se gli errori sono concentrati in due nuclei, una prova completa può disperdere energie; meglio costruire dieci quesiti, una risposta breve e un micro-caso su quei nuclei. Se invece gli errori sono distribuiti e riguardano tempo o strategia, serve una sessione più ampia. Il recupero non deve dimostrare ottimismo: deve scegliere il formato che isola il problema. Solo quando il secondo tentativo migliora puoi riportare quel nucleo nella rotazione ordinaria.
 ## ▣ Verifica — simulazione M-FC01 e recupero
 
-Questa verifica e' originale e modulare. Non riproduce un bando specifico e non stabilisce regole ufficiali di prova. Usala per allenare metodo, applicazione e correzione.
+Questa verifica è originale e modulare. Non riproduce un bando specifico e non stabilisce regole ufficiali di prova. Usala per allenare metodo, applicazione e correzione.
 
 ### Otto quiz originali commentati
 
@@ -317,23 +317,23 @@ B. La durata ufficiale della prova, se non ancora indicata negli atti.
 C. L'ordine con cui correggere gli errori.
 D. Il formato della scheda personale di diario.
 
-**Risposta corretta: B.** Durata, soglie, penalita', punteggi e modalita' ufficiali dipendono dagli atti della procedura. Le altre opzioni sono scelte di allenamento, purche' dichiarate come tali.
+**Risposta corretta: B.** Durata, soglie, penalità, punteggi e modalità ufficiali dipendono dagli atti della procedura. Le altre opzioni sono scelte di allenamento, purché dichiarate come tali.
 
-**2. In una simulazione M-FC01, perche' puo' essere utile inserire una risposta breve anche se il bando prevede soprattutto quiz?**
+**2. In una simulazione M-FC01, perché può essere utile inserire una risposta breve anche se il bando prevede soprattutto quiz?**
 
 A. Per sostituire la prova ufficiale.
-B. Per verificare se dietro il riconoscimento c'e' capacita' di spiegazione.
-C. Per aumentare artificialmente la difficolta' della procedura.
+B. Per verificare se dietro il riconoscimento c'è capacità di spiegazione.
+C. Per aumentare artificialmente la difficoltà della procedura.
 D. Per evitare di studiare i quiz.
 
-**Risposta corretta: B.** La risposta breve e' un esercizio di supporto: controlla comprensione, ordine e lessico. Non cambia la disciplina del bando.
+**Risposta corretta: B.** La risposta breve è un esercizio di supporto: controlla comprensione, ordine e lessico. Non cambia la disciplina del bando.
 
-**3. Quale comportamento e' piu' corretto durante una simulazione quando compare un quesito dubbio?**
+**3. Quale comportamento è più corretto durante una simulazione quando compare un quesito dubbio?**
 
 A. Fermarsi e consultare subito gli appunti.
 B. Segnarlo, scegliere con motivazione provvisoria e proseguire.
 C. Cancellarlo dalla simulazione.
-D. Cambiare risposta finche' non si ha una sensazione positiva.
+D. Cambiare risposta finché non si ha una sensazione positiva.
 
 **Risposta corretta: B.** Durante la sessione devi restare in condizione di prova. L'analisi dell'errore avviene dopo, nel diario.
 
@@ -346,29 +346,29 @@ D. Lacuna: errore lieve; richiamo: errore grave.
 
 **Risposta corretta: A.** La causa cambia il recupero: la lacuna richiede studio, il richiamo richiede esercizi attivi e distanziati.
 
-**5. In un quesito situazionale, quale opzione e' di solito piu' solida?**
+**5. In un quesito situazionale, quale opzione è di solito più solida?**
 
-A. Quella che promette al cittadino la soluzione piu' rapida.
+A. Quella che promette al cittadino la soluzione più rapida.
 B. Quella che evita ogni coinvolgimento del responsabile.
-C. Quella coerente con ruolo, competenza, servizio, riservatezza e tracciabilita'.
+C. Quella coerente con ruolo, competenza, servizio, riservatezza e tracciabilità.
 D. Quella che scarica il problema sull'ufficio competente senza orientamento.
 
-**Risposta corretta: C.** Il situazionale valuta condotta proporzionata e coerente con la funzione pubblica, non solo gentilezza o rigidita'.
+**Risposta corretta: C.** Il situazionale valuta condotta proporzionata e coerente con la funzione pubblica, non solo gentilezza o rigidità.
 
-**6. Dopo una simulazione, quale indicatore e' insufficiente da solo?**
+**6. Dopo una simulazione, quale indicatore è insufficiente da solo?**
 
 A. Numero di risposte corrette.
 B. Cause degli errori.
 C. Tempi per blocco.
-D. Qualita' dell'esposizione.
+D. Qualità dell'esposizione.
 
 **Risposta corretta: A.** Il punteggio di allenamento non spiega cosa correggere. Serve integrarlo con contenuto, tempo, strategia ed esposizione.
 
-**7. Quale riga di diario e' piu' utile?**
+**7. Quale riga di diario è più utile?**
 
-A. "Contabilita' sbagliata: ripassare."
+A. "Contabilità sbagliata: ripassare."
 B. "Male il quiz 5."
-C. "Confuso programmazione e gestione; causa confusione; output: tabella + due quesiti nuovi entro venerdi'."
+C. "Confuso programmazione e gestione; causa confusione; output: tabella + due quesiti nuovi entro venerdì."
 D. "Studiare tutto meglio."
 
 **Risposta corretta: C.** Una riga utile identifica errore, causa, correzione, output e scadenza.
@@ -386,11 +386,11 @@ D. Saltare il tema per evitare frustrazione.
 
 **Risposta breve 1 — Distingui dato ufficiale e scelta di allenamento.**
 
-Il dato ufficiale deriva dal bando, dall'avviso, dal diario della prova o da comunicazioni della procedura: prove previste, materie, criteri dichiarati, calendario, strumenti, eventuali soglie o penalita'. La scelta di allenamento e' una decisione personale per prepararsi: numero di quesiti della simulazione, ordine dei nuclei, aggiunta di risposte brevi, casi o orale, modalita' di correzione. Confondere i due piani e' pericoloso: l'allenamento puo' essere flessibile, la disciplina della prova no.
+Il dato ufficiale deriva dal bando, dall'avviso, dal diario della prova o da comunicazioni della procedura: prove previste, materie, criteri dichiarati, calendario, strumenti, eventuali soglie o penalità. La scelta di allenamento è una decisione personale per prepararsi: numero di quesiti della simulazione, ordine dei nuclei, aggiunta di risposte brevi, casi o orale, modalità di correzione. Confondere i due piani è pericoloso: l'allenamento può essere flessibile, la disciplina della prova no.
 
-**Risposta breve 2 — Perche' il diario deve contenere il secondo tentativo?**
+**Risposta breve 2 — Perché il diario deve contenere il secondo tentativo?**
 
-Il secondo tentativo trasforma l'errore in verifica. Senza secondo tentativo, il diario registra soltanto che qualcosa e' andato male. Con il secondo tentativo, il candidato controlla se la correzione funziona a distanza e in un output concreto: quiz nuovo, risposta breve, micro-caso o esposizione orale. La riga puo' essere chiusa solo quando la prestazione migliora davvero.
+Il secondo tentativo trasforma l'errore in verifica. Senza secondo tentativo, il diario registra soltanto che qualcosa è andato male. Con il secondo tentativo, il candidato controlla se la correzione funziona a distanza e in un output concreto: quiz nuovo, risposta breve, micro-caso o esposizione orale. La riga può essere chiusa solo quando la prestazione migliora davvero.
 
 ### Caso ragionato
 
@@ -400,7 +400,7 @@ Stai preparando un concorso per un profilo amministrativo in un'amministrazione 
 
 **Risposta ragionata**
 
-La risposta deve partire dal ruolo. Non sei il responsabile del procedimento e non puoi promettere esiti o fornire valutazioni non di competenza. Puoi pero' orientare il cittadino in modo corretto, verificare quali informazioni generali siano comunicabili, indicare il canale o l'ufficio competente, lasciare traccia dell'interlocuzione secondo le prassi dell'ufficio e coinvolgere il responsabile quando la richiesta lo richiede. Se emergono dati personali o informazioni riservate, devi rispettare limiti di conoscibilita' e finalita' di servizio. La condotta migliore non e' chiudere la conversazione con un rinvio secco, ne' sostituirti all'ufficio competente. E' una risposta proporzionata: servizio, competenza, tracciabilita', prudenza.
+La risposta deve partire dal ruolo. Non sei il responsabile del procedimento e non puoi promettere esiti o fornire valutazioni non di competenza. Puoi però orientare il cittadino in modo corretto, verificare quali informazioni generali siano comunicabili, indicare il canale o l'ufficio competente, lasciare traccia dell'interlocuzione secondo le prassi dell'ufficio e coinvolgere il responsabile quando la richiesta lo richiede. Se emergono dati personali o informazioni riservate, devi rispettare limiti di conoscibilità e finalità di servizio. La condotta migliore non è chiudere la conversazione con un rinvio secco, né sostituirti all'ufficio competente. È una risposta proporzionata: servizio, competenza, tracciabilità, prudenza.
 
 | Criterio | Presente? |
 |---|---|
@@ -441,9 +441,9 @@ Compila ora il diario della verifica precedente.
 | | | | | | |
 | | | | | | |
 
-Poi scegli tre priorita' massime.
+Poi scegli tre priorità massime.
 
-| Priorita' | Perche' conta | Drill | Nuova verifica |
+| Priorità | Perché conta | Drill | Nuova verifica |
 |---|---|---|---|
 | 1 | | | |
 | 2 | | | |
@@ -455,6 +455,6 @@ Chiudi il modulo solo quando hai una nuova prova mirata. La simulazione finale n
 
 - D.P.R. 9 maggio 1994, n. 487, nel testo vigente, come cornice generale per l'accesso agli impieghi nelle pubbliche amministrazioni e per le procedure concorsuali.
 - D.P.R. 16 giugno 2023, n. 82, per le modifiche al regolamento concorsuale.
-- Bando, avviso, diario della prova e comunicazioni ufficiali della singola procedura, da leggere sempre come fonte primaria per formato, criteri, calendario e modalita'.
+- Bando, avviso, diario della prova e comunicazioni ufficiali della singola procedura, da leggere sempre come fonte primaria per formato, criteri, calendario e modalità.
 - Portale inPA e siti dell'amministrazione titolare o del gestore della procedura, quando utilizzati per pubblicazione e comunicazioni.
 - Codice di comportamento, disciplina su trasparenza, anticorruzione, organizzazione, performance, contratti pubblici e digitale pubblico, nei limiti in cui siano previsti dal programma d'esame del bando.
