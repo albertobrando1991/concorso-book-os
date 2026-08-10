@@ -649,11 +649,10 @@ La risposta è solida perché non si limita alla definizione. Inquadra, distingu
 
 Punteggio 10-12: risposta pronta. Punteggio 7-9: risposta utilizzabile, ma da rendere più concreta. Punteggio 4-6: recupero necessario su definizioni e distinzioni. Sotto 4: non allenare altre tracce; torna al glossario e registra l'errore nel diario. La griglia va usata registrando la risposta, non solo immaginandola. Una risposta che sembra chiara nella testa spesso diventa generica quando viene detta ad alta voce.
 
-▣ Verifica - Collaudo degli strumenti finali
+
+## Verifica - collaudo degli strumenti finali
 
 Questa verifica chiude il modulo con otto quiz commentati e un caso integrato. I quiz non sostituiscono le cento domande: controllano la scelta tra alternative vicine. Il caso integrato richiede di usare insieme Decoder, tavole, checklist e schema orale. Prima di svolgerlo, rileggi il bando simulato e segna ogni dato mobile come VERIF. Non devi inventare soglie, date o piattaforme.
-
-## ▣ Verifica - collaudo degli strumenti finali
 
 ### Quiz commentati
 
