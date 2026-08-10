@@ -3,7 +3,7 @@
   "specPath": "books/volumi/vol-03-fisco-dogane-previdenza-ispettivo/planning/00-scheda-pipeline.md",
   "specHash": "sha256:7a5be32028a6026f42eac9b7a221a5879330c694249c48b679a9f6ab5999df16",
   "createdAt": "2026-07-27T20:05:30.039Z",
-  "updatedAt": "2026-08-10T17:35:43.974Z",
+  "updatedAt": "2026-08-10T17:52:14.032Z",
   "steps": [
     {
       "key": "08:moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md",
@@ -4456,14 +4456,14 @@
           },
           {
             "code": "manual-acceptance",
-            "message": "Chiusura manuale di aless: Gate chapter-plan non implementato: piano operativo documentato in wiki/reviews/pipeline/VOL-03/08-moduli-m-fc03-enti-non-economici-chapters-01-lavorare-enti-pubblici-non-economici-md.md. Verificati specifica, matrice corrente, capitolo 01, capitolo 02, fonti/topic/entity e rinvii VOL-01; assegnati 6 Nucleo ID stabili, distinti 4 nuclei completi e 2 parziali, definite sezioni da preservare, duplicazioni, fonti, audit, struttura formato 2 e budget 4.400-5.100 parole con almeno 6 quiz e 1 caso. Il capitolo non è stato modificato."
+            "message": "Chiusura manuale di aless: Verifica manuale completata: report step 08 presente e limitato al piano; include 6 Nucleo ID stabili in un blocco, stato completo/parziale, sezioni da conservare, duplicazioni, attività didattiche, fonti e rinvii VOL-01, audit specialistici, struttura H1/H2/H3 e budget parole/quiz/casi. Capitolo non modificato dallo step."
           }
         ],
         "notImplemented": [
           "chapter-plan"
         ]
       },
-      "finishedAt": "2026-08-10T17:35:43.974Z"
+      "finishedAt": "2026-08-10T17:38:52.637Z"
     },
     {
       "key": "09:moduli/m-fc03-enti-non-economici/chapters/01-lavorare-enti-pubblici-non-economici.md",
@@ -4471,9 +4471,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc03-enti-non-economici/chapters/01-lavorare-enti-pubblici-non-economici.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 2,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-10T17:41:40.312Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-10T17:52:14.032Z"
     },
     {
       "key": "10:moduli/m-fc03-enti-non-economici/chapters/01-lavorare-enti-pubblici-non-economici.md",
