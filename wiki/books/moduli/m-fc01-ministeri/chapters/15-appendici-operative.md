@@ -653,41 +653,43 @@ Punteggio 10-12: risposta pronta. Punteggio 7-9: risposta utilizzabile, ma da re
 
 Questa verifica chiude il modulo con otto quiz commentati e un caso integrato. I quiz non sostituiscono le cento domande: servono a controllare se sai scegliere tra alternative vicine. Il caso integrato serve a usare insieme Decoder, tavole, checklist e schema orale. Prima di svolgerlo, rileggi il bando simulato e segna ogni dato mobile come VERIF. Non devi inventare soglie, date o piattaforme.
 
+## ▣ Verifica - collaudo degli strumenti finali
+
 ### Quiz commentati
 
 1. In un concorso gestito da Formez per un Ministero, chi è necessariamente l'amministrazione titolare?
    A. Formez. B. Il Ministero indicato dal bando. C. inPA. D. La commissione esaminatrice.
-   Risposta: B. Commento: il gestore può curare fasi operative, ma titolarità, fabbisogno e profilo dipendono dall'amministrazione per cui si assume.
+   Risposta corretta: B. Commento: il gestore può curare fasi operative, ma titolarità, fabbisogno e profilo dipendono dall'amministrazione per cui si assume.
 
 2. Quale affermazione sulla Presidenza del Consiglio è corretta?
    A. È sempre un ministero ordinario. B. È un ufficio giudiziario. C. È struttura di supporto al Presidente per funzioni di impulso, coordinamento e supporto. D. È un ente locale.
-   Risposta: C. Commento: la specificità della Presidenza è centrale nel modulo e impedisce di applicare meccanicamente lo schema del ministero.
+   Risposta corretta: C. Commento: la specificità della Presidenza è centrale nel modulo e impedisce di applicare meccanicamente lo schema del ministero.
 
 3. In un profilo dell'Avvocatura, quale coppia descrive meglio le funzioni specialistiche dell'ente?
    A. Bilancio locale e tributi comunali. B. Difesa in giudizio e consulenza legale. C. Vigilanza bancaria e sanzioni. D. Didattica e ricerca.
-   Risposta: B. Commento: l'Avvocatura è organo legale dello Stato; il personale amministrativo lavora su fascicoli, documenti, rapporti e riservatezza.
+   Risposta corretta: B. Commento: l'Avvocatura è organo legale dello Stato; il personale amministrativo lavora su fascicoli, documenti, rapporti e riservatezza.
 
 4. Nel ciclo della spesa pubblica, quale sequenza è corretta come schema di base?
    A. Pagamento, impegno, ordinazione, liquidazione. B. Impegno, liquidazione, ordinazione, pagamento. C. Riscossione, versamento, impegno, pagamento. D. CUP, CIG, residuo, cassa.
-   Risposta: B. Commento: la sequenza aiuta nei casi contabili; eventuali dettagli procedurali vanno poi verificati nella disciplina applicabile.
+   Risposta corretta: B. Commento: la sequenza aiuta nei casi contabili; eventuali dettagli procedurali vanno poi verificati nella disciplina applicabile.
 
 5. Nel codice dei contratti pubblici vigente, il RUP è:
    A. responsabile unico del progetto. B. responsabile unico del portale. C. referente unico del pagamento. D. revisore unico della procedura.
-   Risposta: A. Commento: la formulazione corretta conta, perché riflette il ciclo unitario del progetto pubblico.
+   Risposta corretta: A. Commento: la formulazione corretta conta, perché riflette il ciclo unitario del progetto pubblico.
 
 6. Se un dato riguarda sedi di prova, calendario o piattaforma, nella checklist deve essere segnato come:
    A. CORE. B. definizione stabile. C. VERIF fino a controllo ufficiale. D. materia da memorizzare dal manuale.
-   Risposta: C. Commento: i dati operativi mobili non si deducono e non si stabilizzano nel piano senza fonte ufficiale aggiornata.
+   Risposta corretta: C. Commento: i dati operativi mobili non si deducono e non si stabilizzano nel piano senza fonte ufficiale aggiornata.
 
 7. Quale risposta situazionale è più coerente con il codice di comportamento?
    A. Saltare un controllo per velocizzare l'ufficio. B. Dare informazioni informali su un fascicolo non assegnato. C. Seguire canali autorizzati, tracciare il passaggio e segnalare il dubbio. D. Accettare una cortesia perché non incide sul procedimento.
-   Risposta: C. Commento: nelle prove situazionali vanno privilegiate legalità, imparzialità, tracciabilità, correttezza e responsabilità.
+   Risposta corretta: C. Commento: nelle prove situazionali vanno privilegiate legalità, imparzialità, tracciabilità, correttezza e responsabilità.
 
 8. Quale uso del PIAO è corretto in una risposta M-FC01?
    A. Elenco decorativo di piani. B. Strumento integrato che collega attività, organizzazione, personale, rischi e obiettivi. C. Bilancio economico dell'ente. D. Graduatoria dei dipendenti.
-   Risposta: B. Commento: il PIAO va collegato al valore pubblico e alla gestione amministrativa, non recitato come sigla.
+   Risposta corretta: B. Commento: il PIAO va collegato al valore pubblico e alla gestione amministrativa, non recitato come sigla.
 
-### Caso integrato
+### Caso ragionato integrato
 
 Un bando anonimo prevede una selezione per funzionari amministrativi presso un'amministrazione centrale di settore. La procedura è pubblicata su portale nazionale e gestita da un soggetto esterno indicato negli avvisi. Il programma richiama diritto amministrativo, pubblico impiego, organizzazione del Governo e dei Ministeri, contabilità pubblica, contratti pubblici, amministrazione digitale, trasparenza e codice di comportamento. La prova scritta è descritta come prova a quesiti; l'orale comprende le materie dello scritto e una verifica sulle competenze trasversali. Il calendario non è ancora stato pubblicato. Il bando indica più sedi possibili, rinviando a successivi avvisi per la distribuzione.
 

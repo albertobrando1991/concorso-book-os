@@ -3,7 +3,7 @@
   "specPath": "books/volumi/vol-03-fisco-dogane-previdenza-ispettivo/planning/00-scheda-pipeline.md",
   "specHash": "sha256:7a5be32028a6026f42eac9b7a221a5879330c694249c48b679a9f6ab5999df16",
   "createdAt": "2026-07-27T20:05:30.039Z",
-  "updatedAt": "2026-08-10T16:24:21.925Z",
+  "updatedAt": "2026-08-10T16:27:35.599Z",
   "steps": [
     {
       "key": "08:moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md",
@@ -4257,9 +4257,30 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc01-ministeri/chapters/15-appendici-operative.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-10T16:25:46.085Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "nucleo-molto-lungo",
+            "message": "Nuclei oltre 1800 parole: N-FC01-15-05.",
+            "location": "wiki/books/moduli/m-fc01-ministeri/chapters/15-appendici-operative.md"
+          },
+          {
+            "code": "squilibrio-nuclei",
+            "message": "Il nucleo più lungo (3500 parole) supera tre volte il più breve (675).",
+            "location": "wiki/books/moduli/m-fc01-ministeri/chapters/15-appendici-operative.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-10T16:27:35.599Z"
     },
     {
       "key": "11:moduli/m-fc01-ministeri/chapters/15-appendici-operative.md",
