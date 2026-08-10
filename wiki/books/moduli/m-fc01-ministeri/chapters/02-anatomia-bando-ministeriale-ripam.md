@@ -77,6 +77,8 @@ Il profilo professionale è il ponte tra il bando e la vita lavorativa. Indica i
 
 Il candidato deve evitare una lettura superficiale. Due concorsi possono avere materie simili, ma profili diversi. Un profilo amministrativo, contabile, informatico, tecnico o gestionale richiede un diverso equilibrio tra teoria, casi pratici, linguaggio professionale e prova orale.
 
+Per approfondire area, famiglia professionale, competenze e mansioni, vai al [[books/moduli/m-fc01-ministeri/chapters/03-profili-professionali-ccnl-mansioni|capitolo 03]].
+
 Nel modulo M-FC01 il profilo va letto insieme al contesto delle amministrazioni centrali. Questo significa domandarsi: il lavoro sarà più vicino a procedimenti amministrativi, gestione del personale, contabilità pubblica, performance, contratti, digitale, istruttorie, segreterie tecniche o supporto agli uffici di livello centrale?
 
 ### 3. Quali requisiti devo possedere?

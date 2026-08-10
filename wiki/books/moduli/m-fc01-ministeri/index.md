@@ -1,8 +1,8 @@
 ---
 id: m-fc01-ministeri
 type: specialist_module
-title: "M-FC01 - Ministeri e Presidenza del Consiglio"
-status: source_ready
+title: "M-FC01 — Ministeri e Presidenza del Consiglio"
+status: revised_draft
 domain: "concorsi pubblici italiani"
 topics: ["moduli specialistici", "funzioni-centrali", "ministeri", "presidenza del consiglio", "avvocatura dello stato", "metodo bando"]
 entities: ["Metodo BANDO", "Capitale Personale", "Ministeri", "Presidenza del Consiglio dei ministri", "Avvocatura dello Stato"]
@@ -23,23 +23,23 @@ source_refs: [
 ]
 book_refs: ["il-metodo-bando", "moduli-specialistici"]
 confidence: 0.86
-updated_at: 2026-06-28T12:38:57+02:00
+updated_at: 2026-08-10T17:10:00+02:00
 created_at: 2026-06-27T19:56:28+02:00
 review_required: true
 canonical: true
-tags: ["specialist-module", "module-family-funzioni-centrali", "module-code-m-fc01", "source-ready"]
+tags: ["specialist-module", "module-family-funzioni-centrali", "module-code-m-fc01", "revised-draft"]
 book_id: m-fc01-ministeri
 module_code: M-FC01
 module_family: funzioni-centrali
 module_family_title: "Funzioni Centrali"
-module_status: source_ready
+module_status: revised_draft
 roadmap_phase: "2"
 companion_to: il-metodo-bando
-draft_stage: source-ready
+draft_stage: revised-editorial-draft
 last_compiled_from: ["wiki/books/moduli/architettura-moduli-specialistici.md", "wiki/sources/m-fc01-dossier-redazionale-ministeri-pcm-avvocatura.md"]
 ---
 
-# M-FC01 - Ministeri e Presidenza del Consiglio
+# M-FC01 — Ministeri e Presidenza del Consiglio
 
 ## Ruolo del modulo
 Modulo specialistico collegato a [[books/il-metodo-bando/index|Il Metodo BANDO]]. Applica metodo, materie comuni, prove e logica workbook ai concorsi per Ministeri, Presidenza del Consiglio dei ministri e Avvocatura dello Stato.
@@ -50,7 +50,7 @@ Modulo specialistico collegato a [[books/il-metodo-bando/index|Il Metodo BANDO]]
 - Dentro: Ministeri, Dipartimenti, Presidenza del Consiglio, Avvocatura dello Stato, amministrazioni centrali generaliste.
 - Fuori: Agenzie fiscali, EPNE, uffici giudiziari, Authority indipendenti e carriere speciali, salvo raccordi.
 - Fase roadmap: 2
-- Stato: struttura predisposta e fonti ufficiali scaricate/schedate per avvio scrittura.
+- Stato: 15 capitoli sviluppati e sottoposti a copertura didattica, Humanizer e revisione individuale; completata la correzione editoriale trasversale. Restano aperti gli audit normativi e tecnici e il preflight KDP.
 
 ## Confine editoriale
 Il modulo non sostituisce il libro principale. Parte dal nucleo comune del Metodo BANDO e aggiunge profili, prove, materie specialistiche, rischi, fonti e casi tipici della famiglia.
@@ -102,4 +102,4 @@ Appendici. [[books/moduli/m-fc01-ministeri/chapters/15-appendici-operative|Appen
 Le fonti grezze del modulo sono in `wiki/raw/m-fc01-ministeri/`: dossier utente, Normattiva, Governo/PCM, ARAN, Avvocatura, RGS Conto annuale, inPA, Formez, PIAO DFP, ANAC e AgID.
 
 ## Prossimo passo
-Scrivere i capitoli in sequenza con Manual Writer Agent usando questo modulo come `book_id`, il libro principale come base, il ricettario digitale come laboratorio operativo e le source notes M-FC01 come vincolo di tracciabilità.
+Sottoporre il modulo agli audit normativi e tecnici previsti dalla pipeline, quindi eseguire il preflight KDP prima di qualunque stato pubblicabile.

@@ -123,7 +123,7 @@ Retribuzioni, indennità, progressioni e altri dettagli economici cambiano nel t
 
 La Presidenza del Consiglio dei ministri richiede una verifica specifica. Le fonti ARAN consolidate distinguono il comparto e l'area della Presidenza dal perimetro ordinario delle Funzioni Centrali. Di conseguenza, un candidato a una procedura PCM non deve applicare automaticamente etichette, ordinamenti professionali o istituti ricavati da un diverso contratto.
 
-La distinzione riguarda il contratto. L'ordinamento istituzionale della Presidenza, le sue funzioni e la sua organizzazione appartengono al capitolo 05. Qui interessa una sola conseguenza operativa: quando il bando riguarda la PCM, occorre controllare quale contratto richiama, quale area indica e come descrive profilo e attività.
+La distinzione riguarda il contratto. L'ordinamento istituzionale della Presidenza, le sue funzioni e la sua organizzazione sono sviluppati nel [[books/moduli/m-fc01-ministeri/chapters/05-presidenza-consiglio-ministri|capitolo 05]]. Qui interessa una sola conseguenza operativa: quando il bando riguarda la PCM, occorre controllare quale contratto richiama, quale area indica e come descrive profilo e attività.
 
 Questa cautela vale per ogni amministrazione. L'etichetta M-FC01 aiuta a scegliere il modulo; il bando decide il percorso concreto.
 

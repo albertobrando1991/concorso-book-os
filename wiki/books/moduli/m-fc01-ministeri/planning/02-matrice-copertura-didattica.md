@@ -18,7 +18,9 @@ tags: [matrice, copertura-didattica, m-fc01]
 
 # Matrice di copertura didattica - M-FC01
 
-Audit iniziale del testo reale dei quindici file numerati del modulo. Gli stati descrivono la copertura didattica, non la vigenza delle fonti mobili. Le righe dei capitoli ancora in forma di scheda restano bloccanti fino alla loro effettiva scrittura. La collocazione di M-FC01 nel prodotto VOL-03 richiede conferma editoriale perché il piano del volume corrente elenca formalmente M-FC02 e M-FC03, mentre l'architettura generale assegna anche M-FC01 a VOL-03.
+Audit iniziale e riconciliazione del testo reale dei quindici file numerati del modulo. Gli stati descrivono la copertura didattica, non la vigenza delle fonti mobili. M-FC01 è collocato operativamente in VOL-03, come attestano la scheda e il run-state versionato della pipeline; eventuali modifiche dell'architettura di prodotto richiedono una successiva decisione editoriale esplicita.
+
+Nelle tabelle `Delta di copertura`, la colonna `Stato prima` fotografa l'audit antecedente alla scrittura e non rappresenta lo stato corrente. La colonna vincolante per la copertura aggiornata è `Stato dopo`: i valori `mancante` nello storico non costituiscono blocker quando la stessa riga reca `completo` dopo l'intervento e l'evidenza indicata è presente.
 
 | Famiglia/profilo | Materia | Concetto/sotto-concetti | Frequenza/peso | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa | Destinazione rinvio |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
