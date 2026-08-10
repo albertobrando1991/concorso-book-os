@@ -3,7 +3,7 @@
   "specPath": "books/volumi/vol-03-fisco-dogane-previdenza-ispettivo/planning/00-scheda-pipeline.md",
   "specHash": "sha256:7a5be32028a6026f42eac9b7a221a5879330c694249c48b679a9f6ab5999df16",
   "createdAt": "2026-07-27T20:05:30.039Z",
-  "updatedAt": "2026-08-10T16:44:38.626Z",
+  "updatedAt": "2026-08-10T16:55:02.158Z",
   "steps": [
     {
       "key": "08:moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md",
@@ -4318,9 +4318,20 @@
       "gate": {
         "passed": true,
         "blockers": [],
-        "warnings": []
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E01: stato \"aperto\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc01-ministeri-chapters-15-appendici-operative-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E02: stato \"aperto\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc01-ministeri-chapters-15-appendici-operative-md.md"
+          }
+        ]
       },
-      "finishedAt": "2026-08-10T16:44:38.626Z"
+      "finishedAt": "2026-08-10T16:48:42.564Z"
     },
     {
       "key": "13:moduli/m-fc01-ministeri",
@@ -4328,9 +4339,45 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-fc01-ministeri",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 2,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-10T16:50:53.636Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto M01: stato \"aperto\".",
+            "location": "wiki/reviews/pipeline/VOL-03/13-moduli-m-fc01-ministeri.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto M02: stato \"aperto\".",
+            "location": "wiki/reviews/pipeline/VOL-03/13-moduli-m-fc01-ministeri.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto M03: stato \"aperto\".",
+            "location": "wiki/reviews/pipeline/VOL-03/13-moduli-m-fc01-ministeri.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto L01: stato \"proposto\".",
+            "location": "wiki/reviews/pipeline/VOL-03/13-moduli-m-fc01-ministeri.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto L02: stato \"proposto\".",
+            "location": "wiki/reviews/pipeline/VOL-03/13-moduli-m-fc01-ministeri.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-10T16:55:02.158Z"
     },
     {
       "key": "14:moduli/m-fc01-ministeri",
