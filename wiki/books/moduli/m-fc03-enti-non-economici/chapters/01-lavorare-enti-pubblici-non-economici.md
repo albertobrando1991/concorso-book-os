@@ -76,9 +76,9 @@ last_compiled_from: [
 
 Un concorso per INPS, INAIL o per un altro ente pubblico non economico non e' un concorso amministrativo generico con un nome istituzionale diverso. Il candidato incontra certamente diritto amministrativo, pubblico impiego, trasparenza, privacy, contratti, contabilita', informatica, inglese e logica: queste materie restano il nucleo comune del volume base del Metodo BANDO. Ma il bando EPNE aggiunge un livello ulteriore. Devi capire quale servizio pubblico gestisce l'ente, quale rapporto ha con cittadini, lavoratori, imprese o utenti, e quali funzioni specialistiche entrano nella prova.
 
-Il rischio principale e' duplice. Da un lato puoi studiare troppo poco, trattando INPS o INAIL come semplici amministrazioni centrali senza presidiare previdenza, assicurazione sociale, prestazioni, servizi, controlli e organizzazione dell'ente. Dall'altro lato puoi studiare troppo, aprendo statuti, circolari, regolamenti, pagine di amministrazione trasparente, manuali di diritto previdenziale, sicurezza sul lavoro e legislazione sociale senza una gerarchia chiara.
+Si puo' sbagliare in due direzioni. La prima e' trattare INPS o INAIL come semplici amministrazioni centrali, trascurando previdenza, assicurazione sociale, prestazioni, servizi, controlli e organizzazione dell'ente. La seconda e' accumulare statuti, circolari, regolamenti, pagine di amministrazione trasparente e manuali specialistici senza stabilire una gerarchia.
 
-Questo capitolo evita entrambi gli errori. Prima delimita la famiglia M-FC03, poi distingue cio' che resta nel libro base da cio' che appartiene al modulo, infine mostra come trasformare un bando EPNE in una prima mappa di studio. Non promette di sostituire il bando ufficiale, ne' di coprire automaticamente ogni profilo specialistico. Offre una procedura: riconoscere la famiglia, leggere il profilo, isolare le materie ad alta resa, decidere quali capitoli e appendici attivare.
+Il capitolo delimita la famiglia M-FC03, separa il contenuto del libro base da quello specialistico e mostra come ricavare dal bando una prima mappa di studio. Il bando ufficiale resta decisivo e ogni profilo specialistico richiede una verifica propria. La procedura consiste nel riconoscere la famiglia, leggere il profilo, isolare le materie ad alta resa e scegliere capitoli e appendici pertinenti.
 
 La domanda guida e':
 
@@ -104,9 +104,9 @@ La famiglia non sostituisce il bando. Serve a leggerlo con piu' precisione.
 
 ### Teoria essenziale
 
-Nel Metodo BANDO, M-FC03 indica il modulo specialistico per gli enti pubblici non economici delle Funzioni Centrali. Il centro operativo del modulo e' dato da INPS e INAIL, perche' sono gli enti che piu' spesso rendono evidente la differenza tra una preparazione amministrativa generale e una preparazione EPNE: previdenza sociale, assicurazione contro infortuni e malattie professionali, servizi al cittadino, prestazioni, dati personali delicati, rapporto con lavoratori, imprese e utenti, controlli, performance e possibile vigilanza.
+Nel Metodo BANDO, M-FC03 e' il modulo specialistico per gli enti pubblici non economici delle Funzioni Centrali. INPS e INAIL ne costituiscono i riferimenti principali. Nei loro concorsi la preparazione amministrativa generale incontra previdenza sociale, assicurazione contro infortuni e malattie professionali, servizi al cittadino, prestazioni, dati personali delicati, controlli e rapporti con lavoratori, imprese e utenti.
 
-Accanto agli enti guida, il modulo orienta anche su altri enti richiamati nel perimetro redazionale: ACI, ENAC, ISTAT, ASI, ENEA amministrativo, CONI, CRI e altri enti compatibili con profili amministrativi, giuridici, economici, contabili, di servizio o di vigilanza non tecnica. Per questi enti il modulo non diventa un manuale separato. Offre schede di orientamento, criteri di lettura del bando e collegamenti alle materie comuni. La regola e' prudente: il nome dell'ente non basta; contano natura giuridica, profilo, materie e prova.
+Il modulo orienta anche sui concorsi di ACI, ENAC, ISTAT, ASI, ENEA per i profili amministrativi, CONI, CRI e altri enti compatibili con profili giuridici, economici, contabili, di servizio o di vigilanza non tecnica. Per questi enti fornisce criteri di lettura del bando e raccordi con le materie comuni, non un manuale separato per ciascuna amministrazione. Il nome dell'ente, da solo, non decide il percorso: contano natura giuridica, profilo, materie e prova.
 
 La logica storica e ordinamentale degli EPNE e' sostenuta da riferimenti normativi strutturali, tra cui la legge 20 marzo 1975, n. 70 per la disciplina degli enti pubblici non economici e il decreto legislativo 30 giugno 1994, n. 479 per il riordino degli enti previdenziali e assistenziali. Per INPS e INAIL rilevano inoltre fonti settoriali come la legge 9 marzo 1989, n. 88 per l'assetto istituzionale INPS, il D.P.R. 30 giugno 1965, n. 1124 per l'assicurazione obbligatoria contro infortuni e malattie professionali, e il decreto legislativo 23 febbraio 2000, n. 38 per profili della riforma INAIL. In questo primo capitolo non devi studiarle articolo per articolo: devi capire che il modulo ha una base propria e non puo' essere ridotto a diritto amministrativo generale.
 
@@ -140,9 +140,9 @@ M-FC03 copre concorsi negli enti pubblici non economici delle Funzioni Centrali,
 
 ### Teoria essenziale
 
-Il candidato che prepara un concorso EPNE deve partire da una distinzione semplice: le materie comuni non scompaiono, ma cambiano funzione. Il diritto amministrativo non resta solo procedimento, provvedimento e accesso in astratto. Negli EPNE diventa gestione di domande, fascicoli, istruttorie, comunicazioni, dati personali, servizi digitali, prestazioni e rapporti con utenti o imprese. Il pubblico impiego non riguarda soltanto rapporto di lavoro e doveri del dipendente: entra nell'organizzazione dell'ente, nelle aree professionali, nei profili del comparto Funzioni Centrali e nelle responsabilita' collegate a sportello, back office, controllo e gestione documentale.
+Le materie comuni restano, ma il contesto EPNE ne cambia l'applicazione. Il diritto amministrativo riguarda procedimento, provvedimento e accesso, ma anche domande, fascicoli, istruttorie, comunicazioni, dati personali, servizi digitali e rapporti con utenti o imprese. Il pubblico impiego comprende il rapporto di lavoro e i doveri del dipendente; nel modulo entra inoltre nell'organizzazione dell'ente, nelle aree professionali e nelle responsabilita' collegate a sportello, back office, controllo e gestione documentale.
 
-La trasparenza non e' solo obbligo di pubblicazione: dialoga con amministrazione trasparente, bilanci, performance, PIAO, accesso agli atti e privacy. La contabilita' non e' soltanto definizione di entrata e spesa: si collega a bilancio dell'ente, patrimonio, controlli, vigilanza e rendicontazione. I contratti pubblici non sono solo gare: diventano acquisti, forniture, servizi digitali, tracciabilita', esecuzione e pagamento dentro un ente che gestisce prestazioni e servizi pubblici.
+La trasparenza collega obblighi di pubblicazione, bilanci, performance, PIAO, accesso agli atti e privacy. La contabilita' si applica al bilancio dell'ente, al patrimonio, ai controlli e alla rendicontazione. I contratti pubblici riguardano gare, acquisti, forniture, servizi digitali, tracciabilita', esecuzione e pagamento in un ente che gestisce prestazioni e servizi pubblici.
 
 La regola di studio e':
 
@@ -274,7 +274,7 @@ Prendi un bando reale o simulato e compila cinque righe obbligate: ente che assu
 
 Il Bando Decoder M-FC03 e' lo strumento che trasforma il bando in decisione. Non serve a copiare il testo ufficiale: serve a separare dati certi, dati mobili, materie comuni, delta specialistico, appendici e output. Senza Decoder, il candidato studia in base all'ansia: apre il manuale piu' voluminoso, copia la lista delle materie, alterna quiz casuali e rimanda la scelta del profilo reale. Con Decoder, ogni voce produce un'azione.
 
-Il primo rischio da controllare e' la confusione tra bando, portale, allegati, avvisi e campione redazionale. Il bando e gli allegati ufficiali definiscono requisiti, profilo, prove, materie, punteggi e termini. Il portale e' il canale di accesso e comunicazione. Gli avvisi successivi aggiornano calendario, sedi, istruzioni, ammessi o altre informazioni nei limiti in cui lo fanno ufficialmente. Un campione redazionale o una scheda riassuntiva puo' aiutare a orientarti, ma non deve diventare fonte finale per dati concorsuali.
+Il primo rischio e' confondere bando, portale, allegati, avvisi e schede riassuntive non ufficiali. Il bando e gli allegati definiscono requisiti, profilo, prove, materie, punteggi e termini. Il portale e' il canale di accesso e comunicazione. Gli avvisi successivi possono aggiornare calendario, sedi, istruzioni o altre informazioni. Una scheda riassuntiva aiuta a orientarsi, ma non e' la fonte finale dei dati concorsuali.
 
 Il secondo rischio e' stabilizzare dati mobili. Posti, scadenze, calendari, soglie, punteggi, sedi, allegati annuali, PIAO, bilanci, carte dei servizi, organi correnti, regolamenti e pagine istituzionali possono cambiare. In un capitolo introduttivo devi imparare dove cercarli e come pesarli; non devi memorizzare dati provvisori come regole permanenti.
 
@@ -337,7 +337,7 @@ Nel profilo ispettivo, la stessa scheda cambia peso: lavoro, previdenza, assicur
 | Ignorare appendici | Non tratto vigilanza, glossario, enti minori o materie integrative. | Attivo l'appendice collegata al bando. |
 | Citare dati non verificati | Uso posti, scadenze, PIAO o bilanci senza fonte aggiornata. | Verifico bando, allegati e sito ufficiale. |
 
-Il diario non serve a colpevolizzare lo studio. Serve a impedire che un errore di partenza diventi settimane di lavoro dispersivo.
+Il diario rende visibili gli errori di impostazione prima che si trasformino in settimane di studio dispersivo.
 
 ## N-FC03-01-06 · Dalla classificazione alla decisione operativa
 
@@ -345,7 +345,7 @@ Il diario non serve a colpevolizzare lo studio. Serve a impedire che un errore d
 
 Sara trova un bando per funzionari amministrativi INAIL pubblicato su un canale ufficiale. Legge rapidamente le materie e vede diritto amministrativo, pubblico impiego, contabilita', ordinamento INAIL, salute e sicurezza se prevista dal programma, logica, inglese, informatica e quesiti situazionali. La prima reazione e' aprire un manuale generale per concorsi e aggiungere un testo tecnico sulla sicurezza.
 
-Il rischio e' evidente: il manuale generale copre una parte, ma non spiega il taglio INAIL; il testo tecnico puo' essere troppo profondo o fuori profilo rispetto alla prova. Con il Metodo BANDO, Sara procede cosi': identifica l'ente; identifica il profilo amministrativo; separa il core, cioe' amministrativo, pubblico impiego, contabilita', inglese, informatica e logica; isola il delta, cioe' ordinamento INAIL, assicurazione sociale, prevenzione, prestazioni e salute/sicurezza se richieste; controlla se servono materie integrative; decide il primo output: una mappa in una pagina, quiz mirati e una simulazione breve di quesiti situazionali.
+Il manuale generale copre solo una parte del programma e non restituisce il taglio INAIL; un testo tecnico, al contrario, puo' andare oltre la profondita' richiesta. Sara identifica quindi ente e profilo, separa il core dal delta INAIL, controlla le materie integrative e sceglie il primo output: una mappa in una pagina, quiz mirati e una breve simulazione di quesiti situazionali.
 
 La preparazione non diventa piu' facile. Diventa piu' ordinata. Sara non studia tutto allo stesso livello: usa il libro base per il core, il percorso INAIL per il delta, le appendici per i contenuti integrativi e il laboratorio per situazionali e casi.
 
