@@ -1,7 +1,7 @@
 ---
 id: chapter-m-fc03-04-inail-assicurazione-prevenzione-prestazioni
 type: book_chapter
-title: "INAIL: assicurazione sociale, prevenzione, salute e sicurezza"
+title: "INAIL: assicurazione sociale, prevenzione e prestazioni"
 status: revised_draft
 format_version: 2
 dati_operativi: []
@@ -42,7 +42,7 @@ last_compiled_from: [
   "wiki/entities/inps-inail-epne.md"
 ]
 ---
-# INAIL: assicurazione sociale, prevenzione, salute e sicurezza
+# INAIL: assicurazione sociale, prevenzione e prestazioni
 
 ## Apertura editoriale
 
@@ -154,7 +154,7 @@ Il funzionario non improvvisa valutazioni tecniche fuori ruolo. Lavora dentro pr
 
 La malattia professionale richiede una lettura diversa. La differenza rispetto all'infortunio va tenuta chiara: non ogni problema di salute e' automaticamente malattia professionale, e non ogni evento lavorativo va trattato nello stesso modo. In prova, questa distinzione evita risposte generiche e collega lavoro, rischio, accertamento e tutela.
 
-Una risposta essenziale puo' dire che la malattia professionale riguarda una patologia collegata all'attivita lavorativa secondo criteri e procedure previsti dalla disciplina applicabile. Se il bando non lo richiede, tabelle, percentuali e casistiche sanitarie restano fuori dal perimetro. Bisogna invece sapere che il tema chiama in causa documentazione, istruttoria, competenze, dati sanitari e comunicazione con lavoratore, datore di lavoro e uffici.
+Una risposta essenziale puo' dire che la malattia professionale riguarda una patologia collegata all'attivita lavorativa secondo criteri e procedure previsti dalla disciplina applicabile. Se il bando non lo richiede, tabelle, percentuali e casistiche sanitarie restano fuori dal perimetro. Bisogna invece sapere che il tema chiama in causa documentazione, istruttoria, competenze, dati relativi alla salute e comunicazione con lavoratore, datore di lavoro e uffici.
 
 La distinzione tra i due eventi non si riduce alla durata dei sintomi. Nell'infortunio assume rilievo un evento concentrato nel tempo, tradizionalmente ricostruito attraverso la causa violenta e l'occasione di lavoro secondo la disciplina applicabile. Nella malattia professionale la patologia si collega invece all'esposizione o all'attivita lavorativa secondo criteri propri. Le formule servono a orientare lo studio, ma non sostituiscono le definizioni normative ne' l'accertamento del caso concreto.
 
@@ -225,7 +225,7 @@ La valutazione dei rischi non e' un elenco astratto. Serve a individuare pericol
 
 Informazione e formazione non sono sinonimi. L'informazione mette il lavoratore in condizione di conoscere rischi, regole e misure pertinenti; la formazione sviluppa conoscenze e competenze necessarie per agire in sicurezza. L'addestramento, quando richiesto, riguarda l'apprendimento pratico riferito a specifiche attivita o strumenti. Il livello di dettaglio va calibrato sul bando, ma la distinzione concettuale deve essere stabile.
 
-Il rappresentante dei lavoratori per la sicurezza esprime la dimensione partecipativa del sistema. Non sostituisce il datore di lavoro, il responsabile del servizio di prevenzione o gli organi di vigilanza. Il suo ruolo va studiato attraverso funzioni e relazioni, non come semplice sigla da memorizzare. Lo stesso metodo vale per ogni altro soggetto: chi e', che cosa fa, con chi interagisce e quale errore bisogna evitare.
+Il rappresentante dei lavoratori per la sicurezza esprime la dimensione partecipativa del sistema. Non sostituisce il datore di lavoro, il responsabile del servizio di prevenzione e protezione o gli organi di vigilanza. Il suo ruolo va studiato attraverso funzioni e relazioni, non come semplice sigla da memorizzare. Lo stesso metodo vale per ogni altro soggetto: chi e', che cosa fa, con chi interagisce e quale errore bisogna evitare.
 
 ### Applicazione a un ufficio pubblico
 
@@ -368,7 +368,7 @@ Correzione: se rispondi "studio sicurezza" senza distinguere rischio, prevenzion
 | Confondere INAIL e INPS | Uso previdenza e contributi INPS per una domanda su infortuni o sicurezza. | Distinguo assicurazione/prevenzione INAIL da previdenza/servizi INPS. |
 | Studiare sicurezza da tecnico | Apro materiali RSPP e perdo il profilo amministrativo. | Uso la mappa essenziale e rinvio i dettagli all'Appendice F. |
 | Ridurre INAIL alle prestazioni | Parlo solo di indennizzi o tutele dopo l'evento. | Aggiungo prevenzione, rischio, sicurezza e procedimento. |
-| Ignorare privacy e dati sanitari | Comunico informazioni senza cautela nel caso pratico. | Verifico identita, ruolo, canale e minimizzazione dei dati. |
+| Ignorare privacy e dati relativi alla salute | Comunico informazioni senza cautela nel caso pratico. | Verifico identita, ruolo, canale e minimizzazione dei dati. |
 | Non leggere il bando | Studio materie integrative non richieste o salto quelle presenti. | Torno a prove, materie, punteggi e allegati. |
 | Citare dati non aggiornati | Uso requisiti, importi, scadenze o procedure senza fonte corrente. | Segno verifica ufficiale prima della pubblicazione o della prova. |
 
