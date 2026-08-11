@@ -47,6 +47,8 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | E01 | Intero capitolo | Autonomia didattica | Lieve | Il testo precedente esponeva riferimenti interni non accessibili al lettore. | Rimossi i collegamenti dal corpo e sostituiti con riferimenti professionali leggibili. | Risolto |
 | E02 | N-TR01-12-01–07 | Struttura/densità | Lieve | Il retrofit iniziale non conteneva un blocco di verifica né nuclei tutti sopra la soglia prevista. | Inseriti blocco `▣ Verifica`, sei quiz commentati e approfondimenti per ciascun nucleo. | Risolto |
+| E03 | N-TR01-12-02 e N-TR01-12-04 | Accuratezza normativa | Lieve | La formulazione iniziale usava «collaudo» come termine generale per servizi e forniture ICT e «responsabile del procedimento» per il RUP. | Corretto in «verifica di conformità» per servizi e forniture, con distinzione dal collaudo dei lavori, e in «responsabile unico del progetto». | Risolto |
+| E04 | Apertura e avvertenze operative | Autonomia didattica/proofread | Lieve | Il rinvio avanzato era generico; una frase esponeva il workflow interno e il testo conteneva apostrofi duplicati e tre refusi. | Ripristinato il rinvio lettore a VOL-09/M-TR02; eliminati workflow interno, apostrofi duplicati e refusi; riallineata la matrice Q6 al nucleo 07. | Risolto |
 | V01 | Quadro contrattuale | Fatto/norma da verificare | Lieve | Testo vigente del Codice, allegati, indicazioni ANAC e dati del ciclo digitale possono cambiare. | Riesame documentato con fonti istituzionali nel controllo normativo. | Da verificare allo step 15 |
 | V02 | Strumenti e cloud PA | Fatto/norma da verificare | Lieve | Indicazioni AgID, Consip, qualificazione cloud e strumenti di acquisto applicabili dipendono dal contesto e dal cut-off. | Verificare fonti ufficiali e pertinenza al caso prima del text freeze. | Da verificare allo step 15 |
 | V03 | Sicurezza, dati e filiera | Fatto/norma da verificare | Lieve | Ruoli privacy, subfornitura, trasferimenti, cancellazione e condizioni di sicurezza dipendono dal caso concreto. | Riesame specialistico senza introdurre clausole o termini universali. | Da verificare allo step 15 |
@@ -59,11 +61,11 @@
 - Punti di forza: trasforma il procurement in governo verificabile della prestazione; collega esigenza, requisito, prova, misura, azione correttiva e uscita.
 - Coerenza: evita di ripetere la procedura contrattuale generale, la teoria cyber o cloud; usa quei confini solo per non confondere il candidato.
 - Copertura v4: i sette nuclei risultano completi nella matrice; il caso e gli strumenti non sostituiscono la teoria, ma la mettono alla prova.
-- Correzioni oggettive applicate: rimossi i link interni dal corpo e resa esplicita la verifica Format 2.
+- Correzioni oggettive applicate: rimossi i link interni dal corpo, resa esplicita la verifica Format 2, corretta la terminologia di verifica di conformità e RUP, ripristinato il rinvio avanzato e completato il proofread.
 
 ## 5. Coerenza globale
 
-La terminologia è coerente: requisito, criterio di accettazione, criterio di valutazione, obbligo, SLA, SLI, KPI, non conformità, portabilità, reversibilità ed exit plan sono distinti. Il capitolo conserva i confini verso il ciclo generale dei contratti e verso i contenuti tecnici senza dipendere da testi esterni per capire la lezione. Il corpo lettore non contiene wikilink né rinvii a strumenti editoriali interni.
+La terminologia è coerente: requisito, criterio di accettazione, criterio di valutazione, obbligo, SLA, SLI, KPI, non conformità, portabilità, reversibilità ed exit plan sono distinti. Il capitolo conserva i confini verso il ciclo generale dei contratti e verso i contenuti tecnici senza dipendere da testi esterni per capire la lezione. Il corpo lettore non contiene wikilink né rinvii a strumenti editoriali interni; le verifiche di fonti mobili sono formulate in modo pubblico e leggibile.
 
 ## 6. Contenuto da verificare
 

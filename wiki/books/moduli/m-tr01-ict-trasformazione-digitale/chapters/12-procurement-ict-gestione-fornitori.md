@@ -40,7 +40,7 @@ Al termine del capitolo il candidato saprà:
 - riconoscere lock-in e progettare portabilità, reversibilità ed uscita;
 - orientarsi tra ciclo digitale e strumenti di acquisto senza confonderli.
 
-La disciplina generale dei contratti pubblici va studiata insieme alle nozioni comuni sul ciclo contrattuale; procedure, soglie e appalti avanzati costituiscono un approfondimento distinto. Qui interessa il governo tecnico-organizzativo dell'acquisto ICT.
+La disciplina generale dei contratti pubblici va studiata insieme alle nozioni comuni sul ciclo contrattuale. Per procedure, soglie e appalti avanzati il lettore può approfondire in VOL-09/M-TR02 — Appalti, PNRR e fondi UE; questo rinvio non è necessario per comprendere il governo tecnico-organizzativo dell'acquisto ICT qui trattato.
 
 ## Mappa BANDO dell'acquisto ICT
 
@@ -84,13 +84,13 @@ La scelta resta quindi un atto di governo: documentare assunzioni, alternative s
 
 ### Controllo della scelta e strumenti di acquisto
 
-La strategia non termina con l''individuazione della soluzione. Prima di definire l''acquisto, l''ente verifica se il servizio deve essere unico o separabile in componenti: per esempio hosting, migrazione, manutenzione applicativa, assistenza e formazione. Separare senza ragione può moltiplicare interfacce e responsabilità; concentrare tutto in un solo affidamento può rendere difficile il subentro. La domanda pratica è quale confine consenta di governare qualità, sicurezza, tempi e continuità senza creare una dipendenza che l''ente non sa più misurare.
+La strategia non termina con l'individuazione della soluzione. Prima di definire l'acquisto, l'ente verifica se il servizio deve essere unico o separabile in componenti: per esempio hosting, migrazione, manutenzione applicativa, assistenza e formazione. Separare senza ragione può moltiplicare interfacce e responsabilità; concentrare tutto in un solo affidamento può rendere difficile il subentro. La domanda pratica è quale confine consenta di governare qualità, sicurezza, tempi e continuità senza creare una dipendenza che l'ente non sa più misurare.
 
-Anche gli strumenti di acquisto e negoziazione non sostituiscono questa analisi. Convenzioni, accordi, mercati elettronici e altri canali possono orientare il modo di approvvigionarsi, ma non trasformano un fabbisogno vago in una buona prestazione. Il candidato deve prima saper descrivere l''oggetto, i vincoli e le evidenze; solo dopo colloca la scelta nello strumento e nella procedura che gli atti consentono. Banca dati e piattaforme digitali rendono tracciabile il ciclo, non decidono al posto dell''amministrazione che cosa sia necessario acquistare.
+Anche gli strumenti di acquisto e negoziazione non sostituiscono questa analisi. Convenzioni, accordi, mercati elettronici e altri canali possono orientare il modo di approvvigionarsi, ma non trasformano un fabbisogno vago in una buona prestazione. Il candidato deve prima saper descrivere l'oggetto, i vincoli e le evidenze; solo dopo colloca la scelta nello strumento e nella procedura che gli atti consentono. Banca dati e piattaforme digitali rendono tracciabile il ciclo, non decidono al posto dell'amministrazione che cosa sia necessario acquistare.
 
-Una scheda iniziale utile mette sulla stessa pagina risultato atteso, utenti, dati coinvolti, integrazioni, volume previsto, indisponibilità accettabile, competenze interne e dipendenze esterne. Aggiunge poi le assunzioni da confermare e le alternative da confrontare. Se l''ipotesi di volume cambia, se un''integrazione non è disponibile o se l''ente non possiede una competenza essenziale, deve cambiare anche la valutazione dell''opzione. In questo senso la baseline è viva: viene aggiornata quando emergono dati nuovi, mantenendo traccia della decisione e del suo motivo.
+Una scheda iniziale utile mette sulla stessa pagina risultato atteso, utenti, dati coinvolti, integrazioni, volume previsto, indisponibilità accettabile, competenze interne e dipendenze esterne. Aggiunge poi le assunzioni da confermare e le alternative da confrontare. Se l'ipotesi di volume cambia, se un'integrazione non è disponibile o se l'ente non possiede una competenza essenziale, deve cambiare anche la valutazione dell'opzione. In questo senso la baseline è viva: viene aggiornata quando emergono dati nuovi, mantenendo traccia della decisione e del suo motivo.
 
-Per evitare una scelta solo economica, conviene includere fin dall''inizio il costo del non fare e il costo dell''uscita. Un servizio lasciato senza manutenzione può produrre ritardi, errori e perdita di fiducia; una transizione improvvisata può imporre doppi ambienti, estrazioni manuali e supporto urgente. Non servono numeri universali: serve mostrare che la decisione considera l''intero ciclo di vita. Questo è anche il criterio per leggere criticamente una proposta apparentemente conveniente: chiedere quali attività, conoscenze e dati resterebbero all''ente se il fornitore cambiasse domani.
+Per evitare una scelta solo economica, conviene includere fin dall'inizio il costo del non fare e il costo dell'uscita. Un servizio lasciato senza manutenzione può produrre ritardi, errori e perdita di fiducia; una transizione improvvisata può imporre doppi ambienti, estrazioni manuali e supporto urgente. Non servono numeri universali: serve mostrare che la decisione considera l'intero ciclo di vita. Questo è anche il criterio per leggere criticamente una proposta apparentemente conveniente: chiedere quali attività, conoscenze e dati resterebbero all'ente se il fornitore cambiasse domani.
 ## N-TR01-12-02 · Requisiti verificabili e capitolato tecnico
 
 ### Funzionali e non funzionali
@@ -127,7 +127,7 @@ Quattro elementi spesso confusi hanno funzioni diverse:
 | criterio di valutazione | come confrontiamo le offerte secondo gli atti? |
 | SLA | quale livello deve essere mantenuto durante il servizio? |
 
-Un requisito può essere verificato una volta al collaudo oppure monitorato nel tempo. Un criterio di valutazione opera nella scelta dell'offerta; non sostituisce l'obbligo di esecuzione. Lo SLA riguarda il servizio erogato e deve collegarsi a misure e conseguenze definite.
+Un requisito può essere verificato, per servizi e forniture ICT, nell'ambito della verifica di conformità oppure monitorato nel tempo. Il collaudo riguarda invece i lavori. Un criterio di valutazione opera nella scelta dell'offerta; non sostituisce l'obbligo di esecuzione. Lo SLA riguarda il servizio erogato e deve collegarsi a misure e conseguenze definite.
 
 ### Tracciabilità e accettazione
 
@@ -147,17 +147,17 @@ Il capitolato deve consentire a persone diverse di capire la stessa cosa. Per qu
 
 La neutralità tecnica non equivale a vaghezza. È possibile descrivere interfacce, standard, compatibilità, prestazioni, accessibilità e portabilità senza fissare una marca come soluzione obbligata. Se un vincolo tecnico è necessario, deve essere collegato a interoperabilità, continuità, sicurezza o altra esigenza dimostrabile e gestito secondo la disciplina applicabile. Il candidato deve distinguere l'oggetto della prestazione dal modo con cui le offerte sono confrontate: un criterio di valutazione opera nella scelta dell'offerta; un requisito e un obbligo regolano ciò che dovrà essere consegnato; il criterio di accettazione serve a verificare il risultato.
 
-La matrice requisito-test-evidenza evita che il collaudo diventi un giudizio impressionistico. Per ciascun requisito critico annota identificativo, test o ispezione, ambiente, dati di prova, responsabile, evidenza attesa ed esito. Se la migrazione produce un file esportato ma il file non può essere letto nel sistema destinatario, l'evidenza non dimostra ancora portabilità. Se una funzione opera solo su dati preparati dal fornitore, occorre chiarire se quel campione rappresenti l'uso reale. **Errore tipico:** confondere la documentazione consegnata con l'accettazione. La prima può essere necessaria; la seconda richiede una verifica tracciabile.
+La matrice requisito-test-evidenza evita che la verifica di conformità diventi un giudizio impressionistico. Per ciascun requisito critico annota identificativo, test o ispezione, ambiente, dati di prova, responsabile, evidenza attesa ed esito. Se la migrazione produce un file esportato ma il file non può essere letto nel sistema destinatario, l'evidenza non dimostra ancora portabilità. Se una funzione opera solo su dati preparati dal fornitore, occorre chiarire se quel campione rappresenti l'uso reale. **Errore tipico:** confondere la documentazione consegnata con l'accettazione. La prima può essere necessaria; la seconda richiede una verifica tracciabile.
 
-### Dalla specifica al collaudo
+### Dalla specifica alla verifica di conformità
 
-Un capitolato robusto non è una lista di desideri. Ordina i requisiti per oggetto, priorità e dipendenza, chiarendo cosa è indispensabile per avviare il servizio e cosa può essere consegnato in una fase successiva. La priorità non riduce l''obbligo di verificare: aiuta a decidere quali prove sono bloccanti, quali anomalie ammettono una correzione e quali condizioni impediscono l''accettazione. Quando un requisito dipende da un''integrazione di terzi, la specifica deve dire chi fornisce l''accesso, quale ambiente viene usato e come si tratta l''indisponibilità del soggetto esterno.
+Un capitolato robusto non è una lista di desideri. Ordina i requisiti per oggetto, priorità e dipendenza, chiarendo cosa è indispensabile per avviare il servizio e cosa può essere consegnato in una fase successiva. La priorità non riduce l'obbligo di verificare: aiuta a decidere quali prove sono bloccanti, quali anomalie ammettono una correzione e quali condizioni impediscono l'accettazione. Quando un requisito dipende da un'integrazione di terzi, la specifica deve dire chi fornisce l'accesso, quale ambiente viene usato e come si tratta l'indisponibilità del soggetto esterno.
 
-Il criterio di accettazione deve essere proporzionato alla promessa. Per una funzione critica può servire una prova end-to-end con utenti, dati rappresentativi, gestione delle eccezioni e traccia dell''esito. Per un documento tecnico possono bastare completezza, aggiornamento e verificabilità di ciò che descrive. Una dimostrazione guidata dal fornitore è utile, ma non coincide automaticamente con un test indipendente: chi verifica deve poter riprodurre, controllare o almeno comprendere la prova e le sue condizioni.
+Il criterio di accettazione deve essere proporzionato alla promessa. Per una funzione critica può servire una prova end-to-end con utenti, dati rappresentativi, gestione delle eccezioni e traccia dell'esito. Per un documento tecnico possono bastare completezza, aggiornamento e verificabilità di ciò che descrive. Una dimostrazione guidata dal fornitore è utile, ma non coincide automaticamente con un test indipendente: chi verifica deve poter riprodurre, controllare o almeno comprendere la prova e le sue condizioni.
 
-È utile distinguere tre piani temporali. Nella selezione si valuta, secondo gli atti, la proposta disponibile; prima dell''avvio si accerta che ambienti, configurazioni e consegne iniziali siano pronti; durante l''esecuzione si misura che il servizio resti conforme. Confondere i piani porta a due errori: usare una promessa di offerta come se fosse una prova di esercizio, oppure pretendere al collaudo una qualità che non è stata descritta. La tracciabilità requisito-test-evidenza collega i piani e rende visibili le lacune.
+È utile distinguere tre piani temporali. Nella selezione si valuta, secondo gli atti, la proposta disponibile; prima dell'avvio si accerta che ambienti, configurazioni e consegne iniziali siano pronti; durante l'esecuzione si misura che il servizio resti conforme. Confondere i piani porta a due errori: usare una promessa di offerta come se fosse una prova di esercizio, oppure pretendere, nella verifica di conformità, una qualità che non è stata descritta. La tracciabilità requisito-test-evidenza collega i piani e rende visibili le lacune.
 
-Quando una richiesta cambia, non basta aggiornare una riga di testo. Occorre rivalutare impatto su utenti, sicurezza, dati, tempi, costo, integrazioni, test e documentazione. La nuova versione del requisito deve indicare chi l''ha approvata e quale prova la renderà accettabile. Così il capitolato resta uno strumento di governo e non un documento congelato che viene interpretato solo quando nasce un conflitto.
+Quando una richiesta cambia, non basta aggiornare una riga di testo. Occorre rivalutare impatto su utenti, sicurezza, dati, tempi, costo, integrazioni, test e documentazione. La nuova versione del requisito deve indicare chi l'ha approvata e quale prova la renderà accettabile. Così il capitolato resta uno strumento di governo e non un documento congelato che viene interpretato solo quando nasce un conflitto.
 ## N-TR01-12-03 · SLA, SLI, KPI e misurazione del servizio
 
 ### SLA, SLI e soglia
@@ -202,18 +202,18 @@ La scheda SLA deve rimanere leggibile: servizio, indicatore, definizione, soglia
 
 ### Leggere uno scostamento senza automatismi
 
-La misura va progettata prima che il servizio entri in difficoltà. Per ogni indicatore è necessario stabilire chi raccoglie il dato, con quale strumento, come si gestiscono dati mancanti e differenze di orologio, chi può contestare il calcolo e dove resta la traccia della decisione. Un dato prodotto dal fornitore non è inattendibile per definizione; diventa fragile quando l''ente non può ricostruire il perimetro o confrontarlo con segnali indipendenti, come segnalazioni degli utenti, log applicativi o esiti delle integrazioni.
+La misura va progettata prima che il servizio entri in difficoltà. Per ogni indicatore è necessario stabilire chi raccoglie il dato, con quale strumento, come si gestiscono dati mancanti e differenze di orologio, chi può contestare il calcolo e dove resta la traccia della decisione. Un dato prodotto dal fornitore non è inattendibile per definizione; diventa fragile quando l'ente non può ricostruire il perimetro o confrontarlo con segnali indipendenti, come segnalazioni degli utenti, log applicativi o esiti delle integrazioni.
 
-La disponibilità non esaurisce l''esperienza del servizio. Un portale può essere raggiungibile e insieme impedire di completare una pratica perché l''autenticazione o il pagamento non rispondono. Per questo la scheda distingue componenti, percorsi essenziali e classi di impatto. La stessa cautela vale per presa in carico, ripristino e risoluzione: sono momenti diversi. Dire che un ticket è stato preso in carico non dimostra che l''utente abbia recuperato la funzione; dire che è stato ripristinato non dimostra ancora che la causa non ricorrerà.
+La disponibilità non esaurisce l'esperienza del servizio. Un portale può essere raggiungibile e insieme impedire di completare una pratica perché l'autenticazione o il pagamento non rispondono. Per questo la scheda distingue componenti, percorsi essenziali e classi di impatto. La stessa cautela vale per presa in carico, ripristino e risoluzione: sono momenti diversi. Dire che un ticket è stato preso in carico non dimostra che l'utente abbia recuperato la funzione; dire che è stato ripristinato non dimostra ancora che la causa non ricorrerà.
 
-Davanti a una deviazione, la sequenza ordinata è: accertare il fatto, delimitare utenti e servizi coinvolti, attivare il canale previsto, registrare le azioni di contenimento, chiedere analisi e piano correttivo, quindi verificare l''esito. Un indicatore può segnalare l''evento, ma non decide da solo la risposta. Le conseguenze economiche o contrattuali, quando previste, dipendono da atti e circostanze; non vanno dedotte da una percentuale isolata. L''obiettivo prioritario resta riportare il servizio in una condizione affidabile e prevenire la ricorrenza.
+Davanti a una deviazione, la sequenza ordinata è: accertare il fatto, delimitare utenti e servizi coinvolti, attivare il canale previsto, registrare le azioni di contenimento, chiedere analisi e piano correttivo, quindi verificare l'esito. Un indicatore può segnalare l'evento, ma non decide da solo la risposta. Le conseguenze economiche o contrattuali, quando previste, dipendono da atti e circostanze; non vanno dedotte da una percentuale isolata. L'obiettivo prioritario resta riportare il servizio in una condizione affidabile e prevenire la ricorrenza.
 
 Un buon cruscotto non contiene solo valori verdi o rossi. Mostra tendenza, cause, rischio residuo, azioni in scadenza e decisioni richieste. Il candidato può dimostrare maturità osservando che una metrica stabile può nascondere un problema se cambia il volume di utenti o si riduce il perimetro osservato. La domanda corretta non è «il numero rispetta la soglia?», ma «il numero descrive ancora il servizio che cittadini e uffici ricevono?».
 ## N-TR01-12-04 · Ruoli, evidenze e governo dell'esecuzione
 
 ### Competenze diverse, un solo sistema di controllo
 
-Il **RUP** presidia il progetto secondo la disciplina applicabile. Il **direttore dell'esecuzione**, quando previsto, controlla l'esecuzione. L'owner del servizio presidia risultato e utenti; il referente tecnico verifica architettura e deliverable; sicurezza e DPO intervengono per competenza. Il fornitore organizza le proprie responsabilità e produce le evidenze dovute.
+Il **RUP**, responsabile unico del progetto, presidia il progetto secondo la disciplina applicabile. Il **direttore dell'esecuzione**, quando previsto, controlla l'esecuzione. L'owner del servizio presidia risultato e utenti; il referente tecnico verifica architettura e deliverable; sicurezza e DPO intervengono per competenza. Il fornitore organizza le proprie responsabilità e produce le evidenze dovute.
 
 Una matrice RACI può chiarire chi esegue, approva, consulta e riceve informazioni. È uno strumento organizzativo: non modifica competenze stabilite dalla normativa o dagli atti.
 
@@ -231,7 +231,7 @@ L'escalation può essere tecnica, gestionale o contrattuale. Saltare subito al l
 
 ### Applicazione: far parlare il resoconto tecnico
 
-Una riunione periodica, da sola, non governa l'esecuzione. Al kick-off si trasformano documenti e impegni in un calendario operativo: contatti, ambienti, canali, deliverable, accessi, frequenza dei resoconto tecnico, registro dei rischi e regole di escalation. Un resoconto tecnico utile confronta il risultato atteso con quello osservato e mostra ciò che richiede una decisione. Ticket, livelli di servizio, vulnerabilità, modifiche e scadenze devono quindi avere un responsabile, una data, un'evidenza e un esito, non soltanto un colore di stato.
+Una riunione periodica, da sola, non governa l'esecuzione. Al kick-off si trasformano documenti e impegni in un calendario operativo: contatti, ambienti, canali, deliverable, accessi, frequenza del resoconto tecnico, registro dei rischi e regole di escalation. Un resoconto tecnico utile confronta il risultato atteso con quello osservato e mostra ciò che richiede una decisione. Ticket, livelli di servizio, vulnerabilità, modifiche e scadenze devono quindi avere un responsabile, una data, un'evidenza e un esito, non soltanto un colore di stato.
 
 Il RUP, il direttore dell'esecuzione quando previsto, il referente tecnico, l'owner del servizio, sicurezza e DPO svolgono funzioni che devono restare coerenti con normativa e atti. Una matrice RACI può rendere visibile chi lavora, chi approva, chi viene consultato e chi riceve informazioni; non attribuisce però poteri che non esistono. Il fornitore può produrre misure e resoconto tecnico, ma l'ente deve poterli leggere e verificare. Se nessuno sa contestare una misura o ricostruire una configurazione, il controllo è solo formale.
 
@@ -241,13 +241,13 @@ La chiusura di un'azione deve verificare il risultato e non soltanto la risposta
 
 ### Catena decisionale e evidenze
 
-Ogni riunione operativa dovrebbe produrre una decisione o una domanda ancora aperta. Per questo il verbale separa fatti osservati, ipotesi, impegni, responsabili e date di riesame. Se il fornitore segnala una difficoltà, l''ente non deve limitarsi a ricevere l''informazione: deve capire quale requisito, servizio o dipendenza è coinvolto, quali utenti sono esposti, quale misura provvisoria è attiva e quale prova chiuderà il problema. Questa disciplina trasforma il confronto periodico in governo del contratto.
+Ogni riunione operativa dovrebbe produrre una decisione o una domanda ancora aperta. Per questo il verbale separa fatti osservati, ipotesi, impegni, responsabili e date di riesame. Se il fornitore segnala una difficoltà, l'ente non deve limitarsi a ricevere l'informazione: deve capire quale requisito, servizio o dipendenza è coinvolto, quali utenti sono esposti, quale misura provvisoria è attiva e quale prova chiuderà il problema. Questa disciplina trasforma il confronto periodico in governo del contratto.
 
-Il ruolo tecnico non coincide con il ruolo contrattuale. Il referente applicativo può sapere che una funzione è inutilizzabile; sicurezza può indicare un rischio negli accessi; il DPO può richiedere un esame dei trattamenti; il responsabile del procedimento e le figure previste dagli atti governano le decisioni nel perimetro delle loro competenze. Collegare questi contributi non significa attribuire a ciascuno poteri inventati. Significa predisporre canali e tempi perché l''evidenza arrivi a chi può decidere.
+Il ruolo tecnico non coincide con il ruolo contrattuale. Il referente applicativo può sapere che una funzione è inutilizzabile; sicurezza può indicare un rischio negli accessi; il DPO può richiedere un esame dei trattamenti; il responsabile unico del progetto e le figure previste dagli atti governano le decisioni nel perimetro delle loro competenze. Collegare questi contributi non significa attribuire a ciascuno poteri inventati. Significa predisporre canali e tempi perché l'evidenza arrivi a chi può decidere.
 
-Una matrice di responsabilità è particolarmente utile nelle attività che attraversano più uffici: attivazione di un account amministrativo, gestione di un incidente, rilascio urgente, verifica di un export dati o passaggio a un nuovo fornitore. Per ciascuna attività occorre distinguere chi prepara il lavoro, chi approva, chi deve essere consultato e chi deve conoscere l''esito. La matrice va poi confrontata con contratto, nomine e procedure interne: se non coincide, prevalgono questi ultimi.
+Una matrice di responsabilità è particolarmente utile nelle attività che attraversano più uffici: attivazione di un account amministrativo, gestione di un incidente, rilascio urgente, verifica di un export dati o passaggio a un nuovo fornitore. Per ciascuna attività occorre distinguere chi prepara il lavoro, chi approva, chi deve essere consultato e chi deve conoscere l'esito. La matrice va poi confrontata con contratto, nomine e procedure interne: se non coincide, prevalgono questi ultimi.
 
-La trasparenza delle evidenze protegge entrambe le parti. Il fornitore sa quale risultato deve dimostrare; l''ente può motivare una richiesta di correzione o la chiusura di un''anomalia. La mancanza di una traccia condivisa, invece, trasforma problemi ordinari in discussioni sulla memoria delle persone. Perciò registri, verbali e prove non sono burocrazia aggiuntiva: sono il ponte tra il servizio realmente erogato e la decisione amministrativa.
+La trasparenza delle evidenze protegge entrambe le parti. Il fornitore sa quale risultato deve dimostrare; l'ente può motivare una richiesta di correzione o la chiusura di un'anomalia. La mancanza di una traccia condivisa, invece, trasforma problemi ordinari in discussioni sulla memoria delle persone. Perciò registri, verbali e prove non sono burocrazia aggiuntiva: sono il ponte tra il servizio realmente erogato e la decisione amministrativa.
 ## N-TR01-12-05 · Sicurezza, dati e supply chain contrattuale
 
 ### Sicurezza come prestazione verificabile
@@ -280,11 +280,11 @@ Quando il servizio usa componenti esterni, l'ente deve prevedere come ricevere n
 
 La sicurezza contrattuale richiede un equilibrio. Elencare ogni possibile controllo senza collegarlo al servizio genera obblighi difficili da valutare; una clausola astratta lascia invece spazio a interpretazioni incompatibili. Il punto di partenza è il rischio: dati, criticità del servizio, esposizione esterna, utenti, integrazioni, privilegi amministrativi e dipendenze. Da qui si scelgono requisiti osservabili, fonti di evidenza e modalità di riesame. Il lettore non deve memorizzare una lista universale, ma imparare a collegare controllo, minaccia e prova.
 
-Gli accessi amministrativi meritano una particolare attenzione perché consentono modifiche ampie. Devono essere attribuibili, limitati, riesaminabili e tracciati secondo il perimetro definito. Analogamente, log e alert non sono utili se nessuno sa conservarli, leggerli e collegarli a un incidente. Nel contratto contano quindi sia la disponibilità del dato sia la cooperazione: chi avvisa, con quali informazioni, chi decide il contenimento e come viene conservata l''evidenza della chiusura.
+Gli accessi amministrativi meritano una particolare attenzione perché consentono modifiche ampie. Devono essere attribuibili, limitati, riesaminabili e tracciati secondo il perimetro definito. Analogamente, log e alert non sono utili se nessuno sa conservarli, leggerli e collegarli a un incidente. Nel contratto contano quindi sia la disponibilità del dato sia la cooperazione: chi avvisa, con quali informazioni, chi decide il contenimento e come viene conservata l'evidenza della chiusura.
 
-La presenza di un subfornitore non equivale automaticamente a una non conformità, ma non può restare invisibile. L''ente deve conoscere, nella misura richiesta dal caso, quale parte del servizio è affidata all''esterno, quali dati o componenti coinvolge, quali controlli si applicano e come viene gestita una variazione. Lo stesso vale per componenti che arrivano tramite una filiera software: provenienza, supporto, aggiornamenti e vulnerabilità diventano rilevanti quando incidono su continuità o sicurezza del servizio acquistato.
+La presenza di un subfornitore non equivale automaticamente a una non conformità, ma non può restare invisibile. L'ente deve conoscere, nella misura richiesta dal caso, quale parte del servizio è affidata all'esterno, quali dati o componenti coinvolge, quali controlli si applicano e come viene gestita una variazione. Lo stesso vale per componenti che arrivano tramite una filiera software: provenienza, supporto, aggiornamenti e vulnerabilità diventano rilevanti quando incidono su continuità o sicurezza del servizio acquistato.
 
-Nella pratica la verifica può combinare evidenze diverse: configurazioni, registri di accesso, risultati di test, attestazioni, elenco delle dipendenze, esiti di esercitazioni e verbali di gestione dell''incidente. Nessuna prova isolata basta sempre. L''ente cerca coerenza tra ciò che è promesso, ciò che è configurato e ciò che accade durante l''esercizio. Questo evita sia l''affidamento cieco a una dichiarazione, sia una richiesta di documenti privi di un criterio di lettura.
+Nella pratica la verifica può combinare evidenze diverse: configurazioni, registri di accesso, risultati di test, attestazioni, elenco delle dipendenze, esiti di esercitazioni e verbali di gestione dell'incidente. Nessuna prova isolata basta sempre. L'ente cerca coerenza tra ciò che è promesso, ciò che è configurato e ciò che accade durante l'esercizio. Questo evita sia l'affidamento cieco a una dichiarazione, sia una richiesta di documenti privi di un criterio di lettura.
 ## N-TR01-12-06 · Modifiche, rilasci e continuità del servizio
 
 ### Classificare le modifiche
@@ -315,13 +315,13 @@ Per il candidato, la domanda utile è: quale evidenza dimostra che il servizio p
 
 ### Continuità come prova, non come etichetta
 
-Il piano di rilascio deve descrivere non solo la sequenza tecnica ma anche l''impatto sul servizio. Chi comunica agli utenti? Quali integrazioni possono risentirne? Quale dato deve essere salvaguardato? Quale condizione ferma il passaggio e quale consente il ritorno alla versione precedente? Queste domande aiutano a costruire criteri di go/no-go concreti. Il go non è la semplice autorizzazione a premere un pulsante; è la decisione, basata su evidenze, che prerequisiti e rischi residui sono accettabili.
+Il piano di rilascio deve descrivere non solo la sequenza tecnica ma anche l'impatto sul servizio. Chi comunica agli utenti? Quali integrazioni possono risentirne? Quale dato deve essere salvaguardato? Quale condizione ferma il passaggio e quale consente il ritorno alla versione precedente? Queste domande aiutano a costruire criteri di go/no-go concreti. Il go non è la semplice autorizzazione a premere un pulsante; è la decisione, basata su evidenze, che prerequisiti e rischi residui sono accettabili.
 
-Prima di un rilascio rilevante sono utili test coerenti con l''uso previsto: funzionali, di integrazione, di sicurezza, di prestazione o di recupero, secondo il caso. L''ambiente di prova e i dati utilizzati devono essere sufficientemente rappresentativi, altrimenti un esito positivo può non dire nulla sul funzionamento reale. Dopo il rilascio, l''osservazione prosegue: un controllo su log, ticket, tempi di risposta e percorsi utente può rivelare una regressione che il test iniziale non aveva intercettato.
+Prima di un rilascio rilevante sono utili test coerenti con l'uso previsto: funzionali, di integrazione, di sicurezza, di prestazione o di recupero, secondo il caso. L'ambiente di prova e i dati utilizzati devono essere sufficientemente rappresentativi, altrimenti un esito positivo può non dire nulla sul funzionamento reale. Dopo il rilascio, l'osservazione prosegue: un controllo su log, ticket, tempi di risposta e percorsi utente può rivelare una regressione che il test iniziale non aveva intercettato.
 
 RPO e RTO non sono sigle decorative. Esprimono, rispettivamente, quanta perdita di dati può essere tollerata e in quale tempo il servizio deve recuperare una condizione operativa. I valori non sono standard: derivano dal danno che il fermo o la perdita produrrebbero per utenti e amministrazione. Per questo vanno collegati a responsabilità, mezzi tecnici, prova periodica e decisione sulle eccezioni. Dire che esiste un backup non dimostra che il ripristino sia possibile entro il bisogno del servizio.
 
-Anche l''obsolescenza richiede anticipo. Una libreria senza supporto, una piattaforma che cambia condizioni o un''integrazione destinata a chiudere possono produrre un rischio prevedibile. Il registro delle dipendenze, aggiornato nel governo del fornitore, consente di pianificare migrazione, aggiornamento o sostituzione prima che la scelta diventi emergenziale. In prova, il candidato mostra questa continuità: modifica, test, decisione, monitoraggio e aggiornamento dell''inventario.
+Anche l'obsolescenza richiede anticipo. Una libreria senza supporto, una piattaforma che cambia condizioni o un'integrazione destinata a chiudere possono produrre un rischio prevedibile. Il registro delle dipendenze, aggiornato nel governo del fornitore, consente di pianificare migrazione, aggiornamento o sostituzione prima che la scelta diventi emergenziale. In prova, il candidato mostra questa continuità: modifica, test, decisione, monitoraggio e aggiornamento dell'inventario.
 ## N-TR01-12-07 · Lock-in, portabilità, reversibilità ed exit strategy
 
 ### Forme di dipendenza
@@ -357,19 +357,21 @@ L'exit plan definisce:
 
 Preparare l'exit plan soltanto alla scadenza è tardivo: l'ente deve progettarlo all'ingresso e provarlo durante l'esecuzione.
 
-### Uscita progettata fin dall''ingresso
+### Uscita progettata fin dall'ingresso
 
-Il lock-in è spesso il risultato di piccole decisioni accumulate. Un formato proprietario senza schema, un''API non documentata, un ambiente configurato solo dal fornitore o una squadra interna che non conosce più il servizio possono rendere impossibile il cambio anche quando il contratto è formalmente concluso. Per questo la dipendenza va osservata in cinque dimensioni: tecnica, dati, contratto, economia e organizzazione. Ciascuna richiede una domanda concreta: cosa bisogna trasferire, chi ne possiede il diritto, quanto costa estrarlo, chi sa usarlo e quale servizio deve rimanere disponibile durante la transizione.
+Il lock-in è spesso il risultato di piccole decisioni accumulate. Un formato proprietario senza schema, un'API non documentata, un ambiente configurato solo dal fornitore o una squadra interna che non conosce più il servizio possono rendere impossibile il cambio anche quando il contratto è formalmente concluso. Per questo la dipendenza va osservata in cinque dimensioni: tecnica, dati, contratto, economia e organizzazione. Ciascuna richiede una domanda concreta: cosa bisogna trasferire, chi ne possiede il diritto, quanto costa estrarlo, chi sa usarlo e quale servizio deve rimanere disponibile durante la transizione.
 
-La portabilità riguarda la possibilità materiale di trasferire elementi riutilizzabili; la reversibilità riguarda il percorso controllato che permette di uscire, rientrare o passare a un altro gestore. Una esportazione è utile solo se include gli oggetti necessari, conserva struttura e metadati, è accompagnata da documentazione e può essere verificata dal destinatario. Per le configurazioni, la domanda non è solo «posso scaricarle?», ma «posso ricostruire un ambiente funzionante senza conoscere segreti non consegnati?».
+La portabilità riguarda la possibilità materiale di trasferire elementi riutilizzabili; la reversibilità riguarda il percorso controllato che permette di uscire, rientrare o passare a un altro gestore. Un'esportazione è utile solo se include gli oggetti necessari, conserva struttura e metadati, è accompagnata da documentazione e può essere verificata dal destinatario. Per le configurazioni, la domanda non è solo «posso scaricarle?», ma «posso ricostruire un ambiente funzionante senza conoscere segreti non consegnati?».
 
-L''exit plan deve essere trattato come un deliverable vivo. All''avvio raccoglie inventario, ruoli e condizioni di restituzione; durante l''esecuzione viene aggiornato quando cambiano dati, integrazioni, componenti o subfornitori; prima della transizione definisce sequenza, supporto, controlli di continuità e criteri di chiusura. I trigger possono essere scadenza, recesso, insostenibilità tecnica, cambiamento organizzativo o semplice esigenza di verifica periodica. La loro disciplina concreta dipende dal contratto, ma la preparazione tecnica non può aspettare l''evento.
+L'exit plan deve essere trattato come un deliverable vivo. All'avvio raccoglie inventario, ruoli e condizioni di restituzione; durante l'esecuzione viene aggiornato quando cambiano dati, integrazioni, componenti o subfornitori; prima della transizione definisce sequenza, supporto, controlli di continuità e criteri di chiusura. I trigger possono essere scadenza, recesso, insostenibilità tecnica, cambiamento organizzativo o semplice esigenza di verifica periodica. La loro disciplina concreta dipende dal contratto, ma la preparazione tecnica non può aspettare l'evento.
 
-Una prova di uscita non richiede necessariamente di migrare davvero tutto il servizio. Può iniziare con un campione rappresentativo: esportare dati, verificare schema e completezza, ricostruire una configurazione in ambiente controllato, misurare le dipendenze non trasferite e annotare le correzioni. Se il test fallisce, l''esito non è un dettaglio tecnico: segnala che requisito, documentazione, competenze o supporto al subentro sono insufficienti. L''ente deve quindi aggiornare piano e controllo prima che il rischio diventi urgente.
+Una prova di uscita non richiede necessariamente di migrare davvero tutto il servizio. Può iniziare con un campione rappresentativo: esportare dati, verificare schema e completezza, ricostruire una configurazione in ambiente controllato, misurare le dipendenze non trasferite e annotare le correzioni. Se il test fallisce, l'esito non è un dettaglio tecnico: segnala che requisito, documentazione, competenze o supporto al subentro sono insufficienti. L'ente deve quindi aggiornare piano e controllo prima che il rischio diventi urgente.
 
-L''uscita ha anche una dimensione di continuità e sicurezza. Durante il passaggio si proteggono accessi, dati, log e servizi essenziali; al termine si verifica che permessi, copie e trattamenti residui siano gestiti secondo il caso. Non basta dichiarare che i dati sono stati cancellati o consegnati: occorre disporre dell''evidenza prevista e verificare che il nuovo assetto sappia svolgere il servizio. **Errore tipico:** chiamare exit strategy un elenco di file finali. Un''uscita reale trasferisce capacità operativa, non soltanto materiale digitale.
+L'uscita ha anche una dimensione di continuità e sicurezza. Durante il passaggio si proteggono accessi, dati, log e servizi essenziali; al termine si verifica che permessi, copie e trattamenti residui siano gestiti secondo il caso. Non basta dichiarare che i dati sono stati cancellati o consegnati: occorre disporre dell'evidenza prevista e verificare che il nuovo assetto sappia svolgere il servizio. **Errore tipico:** chiamare exit strategy un elenco di file finali. Un'uscita reale trasferisce capacità operativa, non soltanto materiale digitale.
 
-Una verifica di uscita ben documentata riduce anche l''asimmetria informativa: permette all''ente di capire quali attività restano indispensabili, quali dipendenze richiedono un piano e quali conoscenze devono essere trasferite prima della chiusura.
+Una verifica di uscita ben documentata riduce anche l'asimmetria informativa: permette all'ente di capire quali attività restano indispensabili, quali dipendenze richiedono un piano e quali conoscenze devono essere trasferite prima della chiusura.
+
+L'esito della prova va condiviso con i responsabili del servizio, così che l'uscita resti una capacità organizzativa e non una conoscenza isolata.
 
 ## ▣ Verifica
 
@@ -385,7 +387,7 @@ Un ufficio chiede «un nuovo cloud» senza descrivere utenti, carichi, integrazi
 
 «Il portale deve essere sicuro» è sufficiente per accettare la prestazione?
 
-**Risposta corretta:** no. Occorrono requisiti osservabili, condizioni di prova, criterio di accettazione ed evidenza. Un''affermazione generica non permette di stabilire né il risultato né chiusura di un''anomalia.
+**Risposta corretta:** no. Occorrono requisiti osservabili, condizioni di prova, criterio di accettazione ed evidenza. Un'affermazione generica non permette di stabilire né il risultato né la chiusura di un'anomalia.
 
 ### Quiz 3 — SLA, SLI e KPI
 
@@ -393,11 +395,11 @@ Un cruscotto mostra il numero di ticket aperti: è automaticamente uno SLA?
 
 **Risposta corretta:** no. Può essere un KPI di governo. Per essere uno SLA occorrono un impegno definito, metrica, soglia, finestra, fonte, esclusioni e responsabilità di verifica.
 
-### Quiz 4 — Governo dell''esecuzione
+### Quiz 4 — Governo dell'esecuzione
 
-Il fornitore invia una misura mensile; l''ente può limitarvisi?
+Il fornitore invia una misura mensile; l'ente può limitarvisi?
 
-**Risposta corretta:** no. Deve poter comprendere perimetro e fonte del dato, collegarlo a utenti e requisiti, registrare scostamenti e verificare le azioni correttive. La misura prodotta dal fornitore non sostituisce il controllo dell''ente.
+**Risposta corretta:** no. Deve poter comprendere perimetro e fonte del dato, collegarlo a utenti e requisiti, registrare scostamenti e verificare le azioni correttive. La misura prodotta dal fornitore non sostituisce il controllo dell'ente.
 
 ### Quiz 5 — Sicurezza e filiera
 
@@ -407,7 +409,7 @@ Una clausola che impone al fornitore di «garantire la sicurezza» basta a gover
 
 ### Quiz 6 — Portabilità ed uscita
 
-Alla scadenza il fornitore consegna un archivio dati. L''exit è dimostrata?
+Alla scadenza il fornitore consegna un archivio dati. L'exit è dimostrata?
 
 **Risposta corretta:** non ancora. Occorre verificare completezza, struttura, metadati, configurazioni, documentazione, supporto alla transizione e capacità del destinatario di riutilizzare quanto ricevuto senza interrompere il servizio.
 ## Strumenti di acquisto e ciclo digitale
@@ -510,7 +512,7 @@ Un livello di servizio vale solo se misura, finestra, fonte ed esclusioni sono c
 Acquistare non trasferisce all'esterno il governo del servizio.
 Portabilità ed uscita si progettano prima della stipula e si verificano durante l'esecuzione.
 
-## Riferimenti per l''approfondimento
+## Riferimenti per l'approfondimento
 
 - Codice dei contratti pubblici e relativi allegati, nel testo vigente.
 - Indicazioni ufficiali di ANAC sulla digitalizzazione del ciclo di vita del contratto.
@@ -520,4 +522,4 @@ Portabilità ed uscita si progettano prima della stipula e si verificano durante
 
 ## Avvertenze operative
 
-Procedure, soglie, termini, penali, clausole, qualificazione cloud, ruoli privacy e condizioni di subfornitura dipendono dal quadro vigente e dagli atti del caso. Vanno quindi verificati negli step successivi della pipeline con le fonti istituzionali aggiornate; questo capitolo non fissa valori o modelli contrattuali universali.
+Procedure, soglie, termini, penali, clausole, qualificazione cloud, ruoli privacy e condizioni di subfornitura dipendono dal quadro vigente e dagli atti del caso. Vanno quindi verificati, alla data del bando o della pubblicazione, sulle fonti istituzionali vigenti; questo capitolo non fissa valori o modelli contrattuali universali.
