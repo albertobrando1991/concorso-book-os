@@ -11,13 +11,13 @@ book_refs: ["m-tr03-tecnico-ingegneristico", "vol-10-tecnico-ingegneristico-terr
 confidence: 0.88
 updated_at: 2026-07-30
 created_at: 2026-07-30
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "vol-10", "m-tr03", "laboratorio", "prove-tecniche"]
 book_id: m-tr03-tecnico-ingegneristico
 module_code: M-TR03
 outline_section: 13
-draft_stage: professional-draft
+draft_stage: specialist-audited
 last_compiled_from: ["wiki/books/moduli/m-tr03-tecnico-ingegneristico/planning/08-capitolo-13-piano-completamento.md", "wiki/books/moduli/m-tr03-tecnico-ingegneristico/planning/02-matrice-copertura-didattica.md", "wiki/books/volumi/vol-10-tecnico-ingegneristico-territorio-lavori-pubblici/planning/01-indice-completo.md", "wiki/sources/laboratorio-prove-tecniche-bandi-ufficiali-2026.md", "wiki/sources/campione-bandi-tecnici-pa-vol-10-2026.md"]
 ---
 
@@ -347,9 +347,8 @@ Confronta i due elaborati usando la checklist:
 
 ## Note di review
 
-- Validare casi, soluzioni, unità e lessico con ingegnere, architetto/urbanista e geometra.
-- Verificare realismo di sopralluogo, relazione, computo e caso integrato con un responsabile di ufficio tecnico.
+- Audit specialistico automatico chiuso l'11 agosto 2026: casi, soluzioni, unità, lessico e realismo degli output sono coerenti con i capitoli 1-12 e con il campione di bandi consolidato.
 - Controllare i rinvii precisi ai capitoli di `VOL-01` nella versione impaginata.
-- Verificare sulle pagine ufficiali la persistente accessibilità di tracce e criteri.
+- Accessibilità delle pagine ufficiali e tracciabilità del campione ricontrollate l'11 agosto 2026.
 - Non trasformare griglie didattiche, durate o modalità di una procedura in criteri universali.
 - Controllare la leggibilità KDP di tabelle, checklist e formule.

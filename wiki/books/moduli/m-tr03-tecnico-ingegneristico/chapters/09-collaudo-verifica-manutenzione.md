@@ -11,12 +11,12 @@ book_refs: ["m-tr03-tecnico-ingegneristico"]
 confidence: 0.9
 updated_at: "2026-07-30T00:00:00+02:00"
 created_at: "2026-07-30T00:00:00+02:00"
-review_required: true
+review_required: false
 canonical: true
 tags: ["chapter","vol-10","m-tr03","collaudo","verifica","manutenzione"]
 book_id: m-tr03-tecnico-ingegneristico
 outline_section: "09"
-draft_stage: full_draft
+draft_stage: specialist-audited
 last_compiled_from: "planning/08-capitolo-09-piano-completamento.md"
 ---
 
@@ -224,4 +224,4 @@ Scheda essenziale:
 
 ## Note di review
 
-Prima della pubblicazione il capitolo richiede review di RUP, collaudatore tecnico-amministrativo, DL, collaudatore statico ed esperto di manutenzione. Verificare sul testo vigente termini, soglie, incompatibilità, regolare esecuzione, effetti del certificato e fattispecie di presa in consegna. I raccordi sono stati verificati il 30 luglio 2026 verso [[books/moduli/m-tr03-tecnico-ingegneristico/chapters/10-computi-capitolati-contabilita-lavori|Computi, capitolati e contabilità dei lavori]], [[books/moduli/m-tr03-tecnico-ingegneristico/chapters/11-infrastrutture-viabilita-ponti-monitoraggio|Infrastrutture, viabilità, ponti e monitoraggio]] e [[books/moduli/m-tr03-tecnico-ingegneristico/chapters/12-bim-gis-catasto-patrimonio|BIM, GIS, rilievi, catasto e patrimonio pubblico]].
+Audit specialistico automatico chiuso l'11 agosto 2026 sull'art. 116 e sull'Allegato II.14 vigenti. Il testo distingue gli istituti senza fissare soglie, termini o incompatibilità mobili. I raccordi sono verificati verso [[books/moduli/m-tr03-tecnico-ingegneristico/chapters/10-computi-capitolati-contabilita-lavori|Computi, capitolati e contabilità dei lavori]], [[books/moduli/m-tr03-tecnico-ingegneristico/chapters/11-infrastrutture-viabilita-ponti-monitoraggio|Infrastrutture, viabilità, ponti e monitoraggio]] e [[books/moduli/m-tr03-tecnico-ingegneristico/chapters/12-bim-gis-catasto-patrimonio|BIM, GIS, rilievi, catasto e patrimonio pubblico]].

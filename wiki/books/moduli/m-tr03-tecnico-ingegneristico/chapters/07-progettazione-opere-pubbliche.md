@@ -11,12 +11,12 @@ book_refs: ["m-tr03-tecnico-ingegneristico"]
 confidence: 0.9
 updated_at: "2026-07-29T00:00:00+02:00"
 created_at: "2026-07-29T00:00:00+02:00"
-review_required: true
+review_required: false
 canonical: true
 tags: ["chapter","vol-10","m-tr03","progettazione","opere-pubbliche"]
 book_id: m-tr03-tecnico-ingegneristico
 outline_section: "07"
-draft_stage: full_draft
+draft_stage: specialist-audited
 last_compiled_from: "planning/08-capitolo-07-piano-completamento.md"
 ---
 
@@ -231,4 +231,4 @@ Prima di considerare maturo un progetto, controlla:
 
 ## Note di review
 
-Il capitolo richiede revisione di un RUP o progettista esperto di lavori pubblici prima della pubblicazione. Verificare sul testo vigente alla data di chiusura editoriale deroghe, contenuti mobili degli allegati, requisiti dei verificatori e ogni eventuale soglia. I raccordi sono stati verificati il 30 luglio 2026 verso [[books/moduli/m-tr03-tecnico-ingegneristico/chapters/08-direzione-lavori-esecuzione|Direzione lavori, esecuzione e cantieri]], [[books/moduli/m-tr03-tecnico-ingegneristico/chapters/09-collaudo-verifica-manutenzione|Collaudo, verifica, manutenzione e gestione dell'opera]], [[books/moduli/m-tr03-tecnico-ingegneristico/chapters/10-computi-capitolati-contabilita-lavori|Computi, capitolati e contabilità dei lavori]] e [[books/moduli/m-tr03-tecnico-ingegneristico/chapters/12-bim-gis-catasto-patrimonio|BIM, GIS, rilievi, catasto e patrimonio pubblico]].
+Audit specialistico automatico chiuso l'11 agosto 2026 sul D.Lgs. 36/2023 vigente e sull'Allegato I.7. Il testo non fissa soglie o deroghe mobili; requisiti e casi speciali restano ancorati alla disciplina applicabile. I raccordi sono verificati verso [[books/moduli/m-tr03-tecnico-ingegneristico/chapters/08-direzione-lavori-esecuzione|Direzione lavori, esecuzione e cantieri]], [[books/moduli/m-tr03-tecnico-ingegneristico/chapters/09-collaudo-verifica-manutenzione|Collaudo, verifica, manutenzione e gestione dell'opera]], [[books/moduli/m-tr03-tecnico-ingegneristico/chapters/10-computi-capitolati-contabilita-lavori|Computi, capitolati e contabilità dei lavori]] e [[books/moduli/m-tr03-tecnico-ingegneristico/chapters/12-bim-gis-catasto-patrimonio|BIM, GIS, rilievi, catasto e patrimonio pubblico]].

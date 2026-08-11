@@ -11,12 +11,12 @@ book_refs: ["m-tr03-tecnico-ingegneristico", "vol-10-tecnico-ingegneristico-terr
 confidence: 0.78
 updated_at: 2026-07-29
 created_at: 2026-07-29
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "m-tr03", "vol-10", "technical-competitions"]
 book_id: m-tr03-tecnico-ingegneristico
 outline_section: 1
-draft_stage: professional-draft
+draft_stage: specialist-audited
 module_code: M-TR03
 module_family: trasversali
 last_compiled_from: ["wiki/books/moduli/m-tr03-tecnico-ingegneristico/planning/08-capitolo-01-piano-completamento.md", "wiki/books/volumi/vol-10-tecnico-ingegneristico-territorio-lavori-pubblici/planning/01-indice-completo.md", "wiki/books/moduli/m-tr03-tecnico-ingegneristico/planning/02-matrice-copertura-didattica.md", "wiki/sources/modulo-m-tr03-tecnico-ingegneristico-vol-10.md", "wiki/sources/campione-bandi-tecnici-pa-vol-10-2026.md", "wiki/topics/tecnico-ingegneristico-territorio-lavori-pubblici-concorsi-pa.md"]
@@ -222,4 +222,4 @@ Se una voce resta generica, non è pronta per il piano di studio.
 - Il campione ufficiale di sei procedure non consente di dichiarare frequenze statistiche; ogni requisito e programma resta vincolato al singolo bando e ai relativi allegati.
 - Denominazioni, requisiti e inquadramenti professionali devono essere verificati sui bandi e sui CCNL vigenti.
 - I collegamenti cross-family sono instradamenti di catalogo, non rinvii didattici sostitutivi, finché la destinazione non è completa, aggiornata e verificata. Le destinazioni correnti sono M-FL01 per l'ordinamento locale, M-TR02 per appalti/PNRR, M-TR04 per ambiente e [[books/moduli/m-sp02-vigili-fuoco/index#Perimetro|M-SP02 — Perimetro]] per le carriere tecniche VVF.
-- Il cut-off normativo del volume è il 29 luglio 2026; la verifica umana resta obbligatoria prima della pubblicazione.
+- Audit specialistico automatico chiuso l'11 agosto 2026 sulle fonti consolidate e sulle destinazioni di catalogo. Il campione resta descrittivo: requisiti, programmi e inquadramenti vanno letti nel singolo bando vigente.

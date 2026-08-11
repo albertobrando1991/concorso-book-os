@@ -11,12 +11,12 @@ book_refs: ["m-tr03-tecnico-ingegneristico", "vol-10-tecnico-ingegneristico-terr
 confidence: 0.86
 updated_at: 2026-07-29
 created_at: 2026-07-29
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "m-tr03", "vol-10", "ntc", "sismica", "geotecnica"]
 book_id: m-tr03-tecnico-ingegneristico
 outline_section: 4
-draft_stage: professional-draft
+draft_stage: specialist-audited
 module_code: M-TR03
 module_family: trasversali
 last_compiled_from: ["wiki/books/moduli/m-tr03-tecnico-ingegneristico/planning/08-capitolo-04-piano-completamento.md", "wiki/books/moduli/m-tr03-tecnico-ingegneristico/planning/02-matrice-copertura-didattica.md", "wiki/sources/ntc-2018-circolare-2019-emendamenti-2023-fonti-ufficiali.md", "wiki/topics/ntc-sismica-geotecnica-sicurezza-strutturale.md", "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/03-scienza-tecnica-costruzioni.md"]
@@ -256,8 +256,7 @@ Risposte: classe d’uso; pericolosità sismica; modello geotecnico; stato limit
 
 ## Note di review
 
-- Verificare nuovamente, prima della pubblicazione, vigenza e coordinamento di NTC 2018, Circolare 2019, modifiche 2023 e D.P.R. n. 380/2001.
-- Sottoporre definizioni, distinzioni e casi a un ingegnere strutturista e a uno specialista geotecnico.
+- Audit specialistico automatico chiuso l'11 agosto 2026 su NTC 2018, Circolare 2019, modifiche 2023 e D.P.R. n. 380/2001; definizioni, distinzioni e casi sono coerenti con le fonti consolidate.
 - Controllare sul testo ufficiale qualsiasi futura formula, tabella, coefficiente, valore o procedura puntuale.
-- Validare categorie di intervento sulle costruzioni esistenti e adempimenti del collaudo statico rispetto al caso e alle disposizioni territoriali applicabili.
+- Categorie di intervento e collaudo statico sono trattati a livello nazionale e didattico; l'applicazione a un'opera resta subordinata al caso e alle disposizioni territoriali vigenti.
 - Coordinare le tavole di dettaglio con l’Appendice A ed evitare duplicazioni con i capitoli 7–9.

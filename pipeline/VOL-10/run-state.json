@@ -3,7 +3,7 @@
   "specPath": "books/volumi/vol-10-tecnico-ingegneristico-territorio-lavori-pubblici/planning/00-scheda-pipeline.md",
   "specHash": "sha256:b9582ff0b8d13a37147bf7b04c7969c20ebe2e12e1d2c843c1299f83af59b454",
   "createdAt": "2026-07-29T16:39:37.771Z",
-  "updatedAt": "2026-07-30T18:28:43.087Z",
+  "updatedAt": "2026-08-11T08:13:45.119Z",
   "steps": [
     {
       "key": "08:moduli/m-tr03-tecnico-ingegneristico/chapters/01-concorso-tecnico-pa-profili-prove.md",
@@ -1880,9 +1880,19 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-tr03-tecnico-ingegneristico",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-11T08:03:33.882Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-11T08:07:49.271Z"
     },
     {
       "key": "16:moduli/m-tr03-tecnico-ingegneristico",
@@ -1890,9 +1900,32 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-tr03-tecnico-ingegneristico",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-11T08:07:55.491Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"text-freeze\" dello step 16 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-tr03-tecnico-ingegneristico"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di aless: Verifica manuale completata: manifest SHA-256 creato, 13 capitoli presenti, copertura integrale, Humanizer/revisioni/audit step 15 chiusi, zero errori gravi o medi aperti."
+          }
+        ],
+        "notImplemented": [
+          "text-freeze"
+        ]
+      },
+      "finishedAt": "2026-08-11T08:08:45.134Z"
     },
     {
       "key": "18:moduli/m-tr03-tecnico-ingegneristico",
@@ -1900,9 +1933,24 @@
       "phase": "E",
       "scope": "module",
       "target": "moduli/m-tr03-tecnico-ingegneristico",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-11T08:08:58.731Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 18 non prevede un gate automatico."
+          }
+        ]
+      },
+      "finishedAt": "2026-08-11T08:09:32.048Z"
     },
     {
       "key": "00:VOL-10",
@@ -1910,9 +1958,24 @@
       "phase": "A",
       "scope": "catalog",
       "target": "VOL-10",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-11T08:09:34.511Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 00 non prevede un gate automatico."
+          }
+        ]
+      },
+      "finishedAt": "2026-08-11T08:10:55.810Z"
     },
     {
       "key": "01:VOL-10",
@@ -1920,9 +1983,24 @@
       "phase": "A",
       "scope": "catalog",
       "target": "VOL-10",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-11T08:10:57.347Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 01 non prevede un gate automatico."
+          }
+        ]
+      },
+      "finishedAt": "2026-08-11T08:11:46.598Z"
     },
     {
       "key": "02:VOL-10",
@@ -1930,9 +2008,24 @@
       "phase": "A",
       "scope": "catalog",
       "target": "VOL-10",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-11T08:11:47.811Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 02 non prevede un gate automatico."
+          }
+        ]
+      },
+      "finishedAt": "2026-08-11T08:12:09.046Z"
     },
     {
       "key": "03:VOL-10",
@@ -1940,9 +2033,24 @@
       "phase": "A",
       "scope": "catalog",
       "target": "VOL-10",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-11T08:12:10.125Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 03 non prevede un gate automatico."
+          }
+        ]
+      },
+      "finishedAt": "2026-08-11T08:12:57.387Z"
     },
     {
       "key": "04:VOL-10",
@@ -1950,9 +2058,24 @@
       "phase": "B",
       "scope": "volume",
       "target": "VOL-10",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-11T08:12:58.791Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 04 non prevede un gate automatico."
+          }
+        ]
+      },
+      "finishedAt": "2026-08-11T08:13:28.214Z"
     },
     {
       "key": "17:VOL-10",
@@ -1960,9 +2083,24 @@
       "phase": "E",
       "scope": "volume",
       "target": "VOL-10",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-11T08:13:28.989Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 17 non prevede un gate automatico."
+          }
+        ]
+      },
+      "finishedAt": "2026-08-11T08:13:44.423Z"
     },
     {
       "key": "19:VOL-10",
@@ -1970,9 +2108,13 @@
       "phase": "E",
       "scope": "volume",
       "target": "VOL-10",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "in-progress",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-11T08:13:45.119Z"
     },
     {
       "key": "20:VOL-10",

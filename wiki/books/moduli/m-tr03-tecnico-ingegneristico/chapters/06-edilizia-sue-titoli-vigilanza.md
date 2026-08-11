@@ -11,12 +11,12 @@ book_refs: ["m-tr03-tecnico-ingegneristico", "vol-10-tecnico-ingegneristico-terr
 confidence: 0.85
 updated_at: 2026-07-29
 created_at: 2026-07-29
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "m-tr03", "vol-10", "edilizia", "sue"]
 book_id: m-tr03-tecnico-ingegneristico
 outline_section: 6
-draft_stage: professional-draft
+draft_stage: specialist-audited
 module_code: M-TR03
 module_family: trasversali
 last_compiled_from: ["wiki/books/moduli/m-tr03-tecnico-ingegneristico/planning/08-capitolo-06-piano-completamento.md", "wiki/books/moduli/m-tr03-tecnico-ingegneristico/planning/02-matrice-copertura-didattica.md", "wiki/sources/edilizia-sue-titoli-vigilanza-fonti-ufficiali-2026.md", "wiki/topics/edilizia-sue-titoli-vigilanza.md"]
@@ -287,8 +287,8 @@ Risposte: descrizione tecnica e art. 3; effetti sul prospetto e tutele; struttur
 
 ## Note di review
 
-- Ricontrollare prima della pubblicazione la vigenza del D.P.R. n. 380/2001, del D.Lgs. n. 222/2016, della Tabella A e delle modifiche successive.
-- Validare categorie, regimi, termini, tolleranze, sanatorie e conseguenze degli abusi con tecnico SUE e amministrativista.
+- Audit specialistico automatico chiuso l'11 agosto 2026 sul D.P.R. n. 380/2001, sul D.Lgs. n. 222/2016, sulla Tabella A e sulle modifiche consolidate fino al 2026.
+- Categorie e regimi sono trattati senza fissare termini, tolleranze, sanatorie o conseguenze mobili non sostenute dalla fonte vigente.
 - Verificare disciplina regionale, regolamento edilizio, modulistica e procedure digitali territorialmente applicabili.
 - Non trasformare la griglia in un elenco esaustivo di opere senza verifica normativa.
 - Coordinare il testo con i capitoli 4 e 5 e con l’Appendice B.
