@@ -16,9 +16,13 @@ canonical: true
 tags: ["book-chapter", "appendix", "module-code-m-fc03", "professional-draft"]
 book_id: m-fc03-enti-non-economici
 outline_section: "A"
-draft_stage: professional-draft
+draft_stage: step-09-format-2
 module_code: M-FC03
 module_family: funzioni-centrali
+companion_to: il-metodo-bando
+format_version: 2
+dati_operativi: []
+nuclei_ids: ["N-FC03-A-01", "N-FC03-A-02", "N-FC03-A-03", "N-FC03-A-04", "N-FC03-A-05", "N-FC03-A-06"]
 last_compiled_from: [
   "wiki/books/moduli/m-fc03-enti-non-economici/planning/00-piano-editoriale.md",
   "wiki/books/moduli/m-fc03-enti-non-economici/planning/01-matrice-copertura-materie.md",
@@ -57,7 +61,7 @@ Al termine dell'appendice il candidato deve saper fare cinque operazioni:
 | D - Diario | Quale errore va monitorato durante lo studio? | Annotare ogni confusione tra INPS, INAIL, INL e amministrazione ordinaria. |
 | O - Output | Che cosa devo saper produrre in prova? | Una risposta argomentata, una scheda caso e una checklist di lettura del bando. |
 
-## Quando questa appendice diventa necessaria
+## N-FC03-A-01 · Quando il bando attiva il sottoprofilo ispettivo
 
 L'appendice va attivata quando nel bando compaiono formule come ispettore di vigilanza, vigilanza previdenziale, vigilanza assicurativa, legislazione sociale, contribuzione, premi assicurativi, lavoro irregolare, accertamenti, salute e sicurezza nei luoghi di lavoro. La singola formula deve essere letta insieme al programma d'esame: un conto è un concorso amministrativo presso un ente previdenziale, un altro è un concorso che seleziona personale destinato a funzioni ispettive o di controllo.
 
@@ -65,7 +69,22 @@ Se il bando riguarda un profilo amministrativo ordinario, questa appendice resta
 
 La regola pratica è semplice: non basta il nome dell'ente, decide il profilo. INPS non significa automaticamente vigilanza contributiva; INAIL non significa automaticamente sicurezza sul lavoro. Bisogna leggere il profilo professionale, le mansioni, le materie, le prove e gli eventuali allegati.
 
-## Che cosa significa vigilanza ispettiva in chiave concorsuale
+### Spiegazione teorica — dalle parole-spia alla decisione
+
+Le parole-spia sono un segnale, non una conclusione. «Vigilanza» può comparire nella descrizione dell'ente, nella denominazione del profilo, nel programma oppure in una materia accessoria. Il candidato deve capire dove compare e quale conseguenza produce. Se il termine è collegato alle mansioni e alle materie, il sottoprofilo ispettivo incide sul piano. Se compare soltanto in una descrizione generale dell'amministrazione, può bastare un inquadramento.
+
+La lettura procede in quattro passaggi. Prima si individua la fonte: bando, allegato del profilo, programma o avviso. Poi si collega la parola al soggetto e all'azione richiesta. Il terzo passaggio distingue ciò che il candidato deve conoscere da ciò che deve saper applicare. Infine si assegna un output: confronto, risposta orale, caso, quiz oppure schema.
+
+| Segnale nel bando | Domanda di controllo | Decisione di studio |
+| --- | --- | --- |
+| «Ispettore» nella denominazione | Quali mansioni e materie definiscono il profilo? | Attivare l'appendice e verificare il programma completo. |
+| «Vigilanza» tra le materie | È materia autonoma o collegata a lavoro, previdenza o assicurazione? | Costruire nuclei e prove coerenti con il peso dichiarato. |
+| «Sicurezza sul lavoro» | Il bando chiede principi, disciplina o applicazioni tecniche? | Usare il livello richiesto senza presumere competenze tecniche. |
+| «Accertamento» o «controllo» | Quale amministrazione e quale interesse pubblico sono coinvolti? | Verificare perimetro, procedimento e forma della prova. |
+
+L'errore tipico è attivare un intero percorso specialistico dopo aver letto una sola parola. Ne deriva un piano sovraccarico, costruito su associazioni anziché sul programma. All'opposto, ignorare una parola ricorrente nelle mansioni e nelle prove lascia scoperto il delta del profilo ispettivo. Per ogni materia aggiunta, annota quindi il passaggio del bando che la giustifica e l'output con cui la allenerai.
+
+## N-FC03-A-02 · Vigilanza come funzione pubblica
 
 In chiave concorsuale, la vigilanza ispettiva non va presentata come un generico potere di controllo. È una funzione pubblica che serve a verificare il rispetto di norme poste a tutela di lavoratori, assicurati, imprese regolari e finanza pubblica. Nel settore previdenziale e assicurativo, la vigilanza riguarda soprattutto la correttezza degli adempimenti, la regolarità delle posizioni, la coerenza tra attività dichiarata e obblighi contributivi o assicurativi, e il collegamento tra fatto, documento, rapporto di lavoro e conseguenza giuridica.
 
@@ -73,7 +92,17 @@ Per il candidato, questo significa allenarsi a ragionare su tre piani. Il primo 
 
 Una buona risposta d'esame non deve simulare un verbale ispettivo se il bando non lo richiede. Deve però mostrare consapevolezza del metodo: accertare i fatti, distinguere le competenze, non anticipare conclusioni, rispettare imparzialità e riservatezza, collegare l'atto al quadro normativo e organizzativo.
 
-## Tre perimetri da non confondere
+### Funzione, garanzie e conseguenze
+
+La vigilanza è una funzione pubblica di controllo. In chiave didattica, il suo punto di partenza è la differenza tra sospetto e fatto verificato. Una segnalazione, una discordanza documentale o un elemento anomalo possono richiedere approfondimento, ma non autorizzano conclusioni automatiche. La risposta deve mostrare un percorso ordinato: qualificare la questione, individuare l'amministrazione competente, acquisire gli elementi pertinenti, rispettare le garanzie e ricondurre l'esito alla disciplina applicabile.
+
+Il piano sostanziale riguarda obblighi e interessi tutelati. Quello procedimentale riguarda competenza, istruttoria, documentazione, motivazione e comunicazione. Il piano comportamentale riguarda imparzialità, correttezza, riservatezza, conflitto di interessi e uso appropriato delle informazioni. I tre piani comunicano, ma non sono intercambiabili. Conoscere un obbligo non basta a spiegare come l'amministrazione debba agire; conoscere il procedimento non basta a individuare la regola sostanziale.
+
+In un quiz, questa distinzione aiuta a scartare risposte assolute, scorciatoie prive di competenza o opzioni che confondono verifica e conseguenza. All'orale, consente di costruire una risposta con definizione, funzione, garanzie ed esempio. Nel caso pratico, impedisce di saltare direttamente alla conclusione: prima vengono fatti, soggetti, competenza e fonte; poi l'azione possibile.
+
+Le conseguenze dell'attività di vigilanza dipendono dal quadro applicabile e non vanno inventate in astratto. Il candidato può però spiegare una regola generale: un controllo incide su posizioni rilevanti e richiede fatti documentati, competenza chiara e rispetto delle garanzie. Se il bando pretende dettagli su atti, poteri o conseguenze, occorre studiarli sulle fonti indicate per quella procedura. Questa appendice fornisce la struttura del ragionamento, non una sequenza operativa universale.
+
+## N-FC03-A-03 · INPS, INAIL e INL: perimetri e raccordi
 
 | Perimetro | Nucleo da ricordare | Errore frequente |
 | --- | --- | --- |
@@ -83,7 +112,23 @@ Una buona risposta d'esame non deve simulare un verbale ispettivo se il bando no
 
 Questa distinzione è decisiva nei concorsi misti o nei bandi che citano più amministrazioni. Il candidato non deve costruire compartimenti stagni, perché le materie comunicano tra loro. Deve però evitare l'opposto: fondere tutto in un'unica vigilanza indistinta. Nei casi pratici e nelle domande orali, la precisione del perimetro è spesso il primo indicatore di maturità amministrativa.
 
-## Materie da attivare
+### Raccordo non significa sovrapposizione
+
+L'Ispettorato Nazionale del Lavoro opera, secondo le fonti istituzionali, nel campo del lavoro, della legislazione sociale, della contribuzione, dell'assicurazione obbligatoria e della salute e sicurezza. Le aree comuni spiegano il raccordo con INPS e INAIL, ma non consentono di attribuire indistintamente a ciascun ente tutte le funzioni degli altri. Coordinamento, programmazione, cooperazione e competenza sono concetti diversi.
+
+Per rispondere bene, parti dall'oggetto. Se la domanda riguarda previdenza e posizione contributiva, il nucleo INPS è rilevante. Se riguarda assicurazione obbligatoria contro infortuni e malattie professionali, premi o prevenzione, entra il nucleo INAIL. Se chiede l'inquadramento dell'azione ispettiva sul lavoro e della sua programmazione, occorre considerare il ruolo dell'INL nei termini richiesti dalla fonte e dal bando. Nei casi misti, indica il raccordo senza trasformarlo in fusione.
+
+Una formula prudente non è una risposta vaga. Dire «occorre verificare la competenza dell'amministrazione in base al fatto e alla disciplina applicabile» è corretto quando il caso non offre dati sufficienti. Sarebbe invece debole fermarsi a «collaborano tutti». La prima frase individua un criterio; la seconda evita il problema.
+
+| Domanda | Risposta debole | Risposta impostata correttamente |
+| --- | --- | --- |
+| Chi controlla? | «INPS, INAIL e INL controllano insieme.» | Individuare oggetto, competenza e forma di raccordo prevista. |
+| Quale materia studio? | «Tutta la vigilanza sul lavoro.» | Attivare le materie presenti nel programma e pertinenti al profilo. |
+| Come chiudo un caso? | «Si applica una sanzione.» | Ricostruire fatti, competenza, garanzie e possibile seguito senza anticipare esiti. |
+
+L'errore di perimetro produce conseguenze anche nello studio: fa scegliere materiali sbagliati, confonde il lessico e indebolisce l'orale. Nel diario annota non soltanto la risposta errata, ma l'attribuzione impropria che l'ha generata.
+
+## N-FC03-A-04 · Materie da attivare e profondità di studio
 
 | Materia | Perché serve | Come studiarla nel Metodo BANDO |
 | --- | --- | --- |
@@ -95,7 +140,19 @@ Questa distinzione è decisiva nei concorsi misti o nei bandi che citano più am
 | Pubblico impiego e comportamento | Inquadra imparzialità, responsabilità, riservatezza, conflitto di interessi e doveri del funzionario. | Collegare al capitolo sul personale degli EPNE e al codice di comportamento. |
 | Privacy e trattamento dei dati | Rileva perché l'attività ispettiva può implicare dati personali, aziendali e lavorativi. | Studiare i principi: liceità, minimizzazione, pertinenza, sicurezza. |
 
-## Scheda sottoprofilo ispettivo
+### Graduare la profondità
+
+Non tutte le materie richiedono lo stesso livello. Il bando può domandare elementi, principi, disciplina completa oppure applicazione a casi. Queste formule vanno lette insieme alla forma della prova. Un quiz può richiedere distinzioni nette e lessico preciso; una risposta aperta richiede ordine argomentativo; un caso richiede anche competenza, fatti e conseguenze. La profondità non si deduce dalla difficoltà percepita, ma dal programma.
+
+Organizza le materie in tre fasce. La fascia essenziale comprende concetti senza i quali il profilo non è comprensibile: funzione di vigilanza, confini fra amministrazioni, interessi tutelati e garanzie. La fascia applicativa contiene gli istituti che il bando collega al lavoro concreto: contribuzione, assicurazione, procedimento, comportamento e dati, nella profondità richiesta. La fascia integrativa raccoglie contenuti presenti solo in alcuni bandi, come specifiche parti della sicurezza sul lavoro. Questa terza fascia si attiva soltanto dopo verifica.
+
+Ogni materia deve produrre una prestazione. Per il diritto del lavoro può essere una mappa dei soggetti e degli obblighi richiesti; per previdenza e assicurazione, un confronto fra oggetto, adempimento e interesse tutelato; per il procedimento, una sequenza fatto-competenza-istruttoria-esito; per comportamento e dati, un breve caso. Una lista di capitoli letti non dimostra che il candidato sappia usare la materia.
+
+La sicurezza sul lavoro richiede cautela. Se il programma la include, il candidato studia principi, soggetti, obblighi e sistema dei controlli nella misura richiesta. Non deve trasformare un profilo amministrativo o ispettivo generico in una preparazione tecnica diversa, né ricavare da questa appendice protocolli eseguibili. Per i contenuti integrativi previsti dal bando, la destinazione è l'Appendice F, «Materie integrative INAIL/RIPAM».
+
+Il controllo finale usa quattro voci: fonte nel bando, livello richiesto, output di prova e rinvio didattico. Se ne manca una, la scelta di studio non è ancora motivata.
+
+## N-FC03-A-05 · Metodo di risposta e scheda sottoprofilo
 
 Compila questa scheda per ogni bando che richiama la vigilanza.
 
@@ -109,7 +166,28 @@ Compila questa scheda per ogni bando che richiama la vigilanza.
 | Confini | Quali competenze non devo attribuire all'ente sbagliato? |  |
 | Output | Che cosa devo saper produrre: definizione, confronto, caso, checklist, risposta orale? |  |
 
-## Caso guidato
+### Griglia per la risposta
+
+La scheda prepara lo studio; la griglia prepara la prestazione. In una risposta orale o scritta sul sottoprofilo ispettivo, usa una sequenza in sei passaggi:
+
+1. definisci la funzione o il problema senza attribuire subito responsabilità;
+2. individua l'oggetto tutelato e i soggetti coinvolti;
+3. distingui l'amministrazione competente dagli eventuali raccordi;
+4. richiama gli elementi sostanziali e procedimentali pertinenti;
+5. considera imparzialità, riservatezza, dati e tracciabilità;
+6. formula una conclusione proporzionata alle informazioni disponibili.
+
+La sequenza non è un modello di verbale. È una struttura argomentativa, utile quando la traccia non richiede un atto tipico. Se il bando chiede una forma specifica, prevalgono le sue istruzioni.
+
+### Micro-caso
+
+Durante un controllo, un rappresentante dell'impresa chiede al candidato di anticipare informalmente l'esito e di comunicare quali dichiarazioni abbia reso un lavoratore. La risposta debole è scegliere tra disponibilità e rigidità. La risposta corretta parte da ruolo, competenza e dati: non promette un esito prima della conclusione delle verifiche, non comunica informazioni senza averne accertato titolo e limiti, indica il canale appropriato e mantiene traccia dell'interlocuzione quando necessario.
+
+Il caso non serve a memorizzare una frase. Serve a riconoscere quattro rischi: anticipazione di conclusioni, comunicazione impropria, confusione tra cortesia e favore, assenza di tracciabilità. In prova, una risposta forte spiega la ragione della condotta e non si limita a dire «non si può».
+
+## N-FC03-A-06 · Laboratorio del sottoprofilo ispettivo
+
+### Caso guidato
 
 Un candidato legge un bando per un profilo collegato alla vigilanza previdenziale e assicurativa. Nel programma compaiono diritto del lavoro, legislazione sociale, elementi di previdenza, assicurazione contro gli infortuni, procedimento amministrativo e codice di comportamento. La prima reazione è aprire tre manuali diversi e studiare tutto in parallelo.
 
@@ -117,25 +195,25 @@ Con il Metodo BANDO la sequenza corretta è diversa. Prima si evidenziano le par
 
 Il risultato non è uno studio più superficiale. È uno studio più governato. Il candidato sa quali parti devono diventare memoria stabile, quali parti richiedono solo orientamento e quali aspetti vanno verificati sul bando specifico.
 
-## Domanda da commissario
+### Domanda da commissario
 
 Perché, in un profilo ispettivo INPS-INAIL, non è sufficiente conoscere l'organizzazione degli enti?
 
 Una risposta solida dovrebbe dire che l'organizzazione è necessaria, ma non esaurisce il profilo. Il profilo ispettivo richiede la capacità di collegare ente, funzione, materia e comportamento amministrativo. L'ispettore o funzionario addetto alla vigilanza non applica conoscenze astratte: opera entro competenze definite, verifica fatti e documenti, tutela interessi pubblici e deve rispettare garanzie, imparzialità, riservatezza e correttezza procedimentale.
 
-## Domanda-trappola
+### Domanda-trappola
 
 La vigilanza INPS-INAIL coincide con tutta la vigilanza sul lavoro?
 
 No. La risposta corretta deve distinguere. INPS e INAIL hanno perimetri istituzionali legati, rispettivamente, a previdenza e assicurazione sociale. L'Ispettorato Nazionale del Lavoro ha un ruolo centrale nel coordinamento, nella programmazione e nell'esercizio dell'azione ispettiva in materia di lavoro, legislazione sociale, contribuzione, assicurazione e salute e sicurezza. Nei concorsi, però, la distribuzione delle materie e delle competenze va sempre letta nel bando e negli allegati.
 
-## Errore tipico
+### Errore tipico
 
 L'errore più frequente è trasformare questa appendice in un mini-manuale totale di diritto del lavoro e sicurezza. È una tentazione comprensibile, ma inefficace. Il candidato finisce per accumulare norme, definizioni e procedimenti senza costruire risposte spendibili.
 
 La correzione è lavorare per confini: che cosa chiede il profilo, quale ente è coinvolto, quale materia è centrale, quale output è previsto dalla prova. Ogni volta che una nozione non si collega a una di queste quattro domande, va messa in secondo piano o rinviata a un approfondimento mirato.
 
-## Mini-esercizio
+### Mini-esercizio
 
 Prendi il bando che stai studiando e sottolinea tutte le parole che rinviano a vigilanza, controllo, lavoro, previdenza, assicurazione, contribuzione, premi, sicurezza, accertamento, procedimento e comportamento del funzionario. Poi compila tre righe:
 
@@ -145,7 +223,7 @@ Prendi il bando che stai studiando e sottolinea tutte le parole che rinviano a v
 
 Se non riesci a completare la seconda riga, il problema non è la memoria: è la lettura del bando. Torna alla Mappa BANDO e separa le aree prima di iniziare lo studio analitico.
 
-## Checklist finale
+### Checklist finale
 
 - Ho distinto profilo ispettivo e profilo amministrativo ordinario.
 - Ho verificato se il bando richiama INPS, INAIL, INL o più amministrazioni.
@@ -155,16 +233,65 @@ Se non riesci a completare la seconda riga, il problema non è la memoria: è la
 - Ho preparato almeno una risposta orale su INPS, INAIL e INL.
 - Ho evitato di citare numeri di posti, requisiti o prove senza controllare l'avviso ufficiale.
 
-## Riferimenti consolidati
+### Da sapere in 5 righe
 
-- [[sources/m-fc03-dossier-redazionale-enti-pubblici-non-economici]]
-- [[sources/m-fc03-portali-bandi-concorsi-2023-2026]]
-- [[sources/m-fc03-inl-vigilanza-lavoro-previdenziale]]
+Il bando e il profilo decidono se attivare il sottoprofilo ispettivo. La vigilanza richiede fatti, competenza, garanzie e comportamento corretto. INPS, INAIL e INL hanno perimetri distinti, anche quando cooperano. Le materie si studiano nella profondità richiesta dalla prova, senza trasformare l'appendice in un manuale tecnico. Una risposta forte distingue oggetto, amministrazione, procedimento e conclusione.
+
+### Riferimenti professionali essenziali
+
+- Sito e documenti istituzionali dell'Ispettorato Nazionale del Lavoro.
+- Portali ufficiali INPS, INAIL e inPA per la procedura concreta.
 - Capitolo 4 del modulo M-FC03: INAIL, assicurazione, prevenzione e prestazioni.
 - Capitolo 8 del modulo M-FC03: personale degli EPNE, CCNL Funzioni Centrali e doveri del dipendente pubblico.
 
-## Note di review
+### Cautele d'uso
 
-- Prima della pubblicazione definitiva verificare il singolo bando INPS-INAIL citato nel materiale redazionale, con avviso ufficiale, allegati, requisiti, prove e programma d'esame.
-- Integrare eventuali riferimenti normativi puntuali solo dopo controllo redazionale, evitando di trasformare l'appendice in un manuale autonomo di diritto del lavoro.
-- Mantenere questa appendice come strumento di orientamento al sottoprofilo ispettivo: il suo compito è guidare la lettura del bando e la selezione delle materie, non sostituire i capitoli specialistici.
+- Verifica sul singolo bando avviso ufficiale, allegati, requisiti, prove e programma d'esame.
+- Usa riferimenti normativi puntuali soltanto dopo averli controllati sulla fonte vigente.
+- Mantieni l'appendice come strumento di orientamento: non sostituisce i capitoli specialistici.
+
+## ▣ Verifica — Vigilanza ispettiva INPS-INAIL
+
+**1. Quando si attiva questa appendice?**
+
+A. Per ogni concorso INPS o INAIL. B. Quando profilo, mansioni, materie o prove richiedono un delta ispettivo. C. Solo se compare «sanzione». D. Per ogni profilo amministrativo.
+
+**Risposta corretta: B.** Il nome dell'ente non basta: le parole-spia vanno collegate al profilo e al programma ufficiale.
+
+**2. Qual è il primo passaggio davanti a un'anomalia?**
+
+A. Anticipare l'esito. B. Individuare fatti, oggetto e competenza. C. Attribuire tutto all'INL. D. Comunicare una conclusione informale.
+
+**Risposta corretta: B.** Un elemento da verificare non coincide con un fatto già accertato.
+
+**3. Che cosa distingue INPS, INAIL e INL?**
+
+A. Non hanno materie vicine. B. Sono la stessa amministrazione. C. Hanno perimetri propri e possono raccordarsi. D. La competenza è facoltativa.
+
+**Risposta corretta: C.** La vicinanza fra lavoro, contribuzione e assicurazione spiega il raccordo, non la sovrapposizione.
+
+**4. Come si decide la profondità di una materia?**
+
+A. Dal manuale più lungo. B. Dalla difficoltà percepita. C. Dal programma e dalla forma della prova. D. Studiando sempre il livello tecnico massimo.
+
+**Risposta corretta: C.** Il bando determina materia e profondità; l'allenamento riproduce la prestazione richiesta.
+
+**5. Qual è una buona struttura per il caso ispettivo?**
+
+A. Sanzione e poi fatti. B. Fatto, oggetto, competenza, garanzie e conclusione proporzionata. C. Opinione personale. D. Elenco di norme.
+
+**Risposta corretta: B.** La sequenza evita di anticipare l'esito e rende visibili ragionamento e garanzie.
+
+**6. A che cosa serve la scheda sottoprofilo?**
+
+A. A sostituire il bando. B. A raccogliere tutto il diritto del lavoro. C. A collegare fonte, profilo, materie, confini, prove e output. D. A evitare le fonti.
+
+**Risposta corretta: C.** La scheda trasforma il programma in decisioni di studio controllabili.
+
+### Caso ragionato finale
+
+Un bando per funzionario richiama vigilanza previdenziale, legislazione sociale, procedimento e codice di comportamento. Durante una simulazione, la traccia descrive documenti discordanti e una richiesta informale dell'impresa di conoscere subito l'esito.
+
+La risposta qualifica i documenti come elementi da verificare, non come violazione già provata. Individua poi oggetto, amministrazione competente e possibili raccordi, senza attribuire automaticamente tutto a INPS, INAIL o INL. Sul piano procedimentale considera istruttoria, documentazione e comunicazione; su quello comportamentale evita anticipazioni e comunicazioni prive di titolo. La conclusione indica il seguito compatibile con le informazioni disponibili e ciò che deve ancora essere accertato.
+
+La risposta è insufficiente se si limita a «fare controlli» o annuncia una sanzione. È completa quando collega fatti, competenza, garanzie e output, usando il bando come limite della profondità richiesta.
