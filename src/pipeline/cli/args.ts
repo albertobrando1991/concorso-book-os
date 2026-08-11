@@ -1,4 +1,4 @@
-export const COMMANDS = ["doctor", "init", "status", "next", "gate", "complete", "run", "sync", "help"] as const
+export const COMMANDS = ["doctor", "init", "status", "next", "gate", "complete", "run", "sync", "reopen", "help"] as const
 export type Command = (typeof COMMANDS)[number]
 
 export interface ParsedArgs {
@@ -12,12 +12,13 @@ export interface ParsedArgs {
   module?: string
   phase?: string
   from?: string
+  fromStep?: string
   owner?: string
   provider?: string
   note?: string
 }
 
-const VALUE_FLAGS = ["step", "chapter", "module", "phase", "from", "owner", "provider", "note"] as const
+const VALUE_FLAGS = ["step", "chapter", "module", "phase", "from", "from-step", "owner", "provider", "note"] as const
 const BOOLEAN_FLAGS = ["json", "force", "accept"] as const
 
 export function parseArgs(argv: string[]): ParsedArgs {
@@ -66,6 +67,7 @@ export function parseArgs(argv: string[]): ParsedArgs {
     module: values.get("module"),
     phase: values.get("phase"),
     from: values.get("from"),
+    fromStep: values.get("from-step"),
     owner: values.get("owner"),
     provider: values.get("provider"),
     note: values.get("note")

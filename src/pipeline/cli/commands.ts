@@ -7,7 +7,7 @@ import { runGate } from "../gates"
 import { chapterFileOf, reportRelativePathOf, snapshotPathOf } from "../gates/paths"
 import { loadVolumeSpec } from "../spec/load-volume-spec"
 import type { VolumeSpec } from "../spec/parse-volume-spec"
-import { completeStep, createRunState, nextStep, startStep } from "../state/run-state"
+import { completeStep, createRunState, nextStep, reopenSteps, startStep } from "../state/run-state"
 import { loadRunState, saveRunState } from "../state/run-state-store"
 import type { GateResult, RunState, StepRecord } from "../state/types"
 import { buildStepDrafts } from "../steps/build-steps"
@@ -47,8 +47,53 @@ export async function runCommand(args: ParsedArgs): Promise<CommandResult> {
   if (args.command === "gate") return gate(context)
   if (args.command === "complete") return complete(context)
   if (args.command === "sync") return sync(context)
+  if (args.command === "reopen") return reopen(context)
 
   throw new Error(`Comando "${args.command}" non ancora implementato in questa versione della pipeline.`)
+}
+
+async function reopen(context: Context): Promise<CommandResult> {
+  if (!context.args.note?.trim()) throw new Error("pipeline reopen richiede --note con la motivazione verificabile.")
+  if (!context.args.fromStep) throw new Error("pipeline reopen richiede --from-step con l'id iniziale.")
+
+  const { state, spec } = await load(context)
+  const module = context.args.module
+    ? spec.modules.find((candidate) => candidate.code.toLowerCase() === context.args.module?.trim().toLowerCase())
+    : spec.modules.length === 1 ? spec.modules[0] : undefined
+
+  if (!module) {
+    throw new Error(`Modulo ${context.args.module || "non specificato"} non trovato in ${spec.volumeCode}.`)
+  }
+
+  const chapter = context.args.chapter
+    ? module.chapters.find((candidate) => candidate.number === context.args.chapter)
+    : undefined
+
+  if (context.args.chapter && !chapter) {
+    throw new Error(`Capitolo ${context.args.chapter} non trovato nel modulo ${module.code}.`)
+  }
+
+  const chapterTarget = chapter ? `${module.moduleId}/${chapter.file}` : undefined
+  const updated = reopenSteps(state, {
+    fromStep: context.args.fromStep,
+    moduleTarget: module.moduleId,
+    chapterTarget,
+    note: context.args.note,
+    actor: context.args.owner || detectOwner(),
+    now: context.now
+  })
+  await saveRunState(context.projectRoot, updated)
+  const event = updated.reopenHistory?.at(-1)
+
+  return {
+    exitCode: 0,
+    payload: { ok: true, command: "reopen", volumeCode: state.volumeCode, event, next: nextStep(updated) ?? null },
+    lines: [
+      `Riaperti ${event?.reopenedKeys.length ?? 0} step di ${state.volumeCode} da ${context.args.fromStep}.`,
+      `Perimetro: ${chapterTarget || module.moduleId}`,
+      `Motivazione: ${context.args.note.trim()}`
+    ]
+  }
 }
 
 async function doctor(context: Context): Promise<CommandResult> {
@@ -277,6 +322,7 @@ function help(): CommandResult {
       "  pipeline gate VOL-03 --step 10           esegue il gate senza chiudere lo step",
       "  pipeline complete VOL-03 --step 09       chiude lo step se il gate passa",
       "  pipeline sync VOL-03                     riallinea il run-state alla scheda",
+      "  pipeline reopen VOL-03 --from-step 08 --module M-FC02 --note \"motivo\"",
       "",
       "  --json      output strutturato per gli agenti",
       "  --force     subentra a uno step in carico ad altri",

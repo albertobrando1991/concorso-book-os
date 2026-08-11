@@ -40,6 +40,17 @@ export interface RunState {
   createdAt: string
   updatedAt: string
   steps: StepRecord[]
+  reopenHistory?: ReopenEvent[]
+}
+
+export interface ReopenEvent {
+  at: string
+  actor: string
+  note: string
+  fromStep: string
+  moduleTarget: string
+  chapterTarget?: string
+  reopenedKeys: string[]
 }
 
 export interface MergeConflict {

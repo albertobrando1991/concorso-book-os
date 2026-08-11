@@ -35,6 +35,15 @@ export interface CompleteStepInput {
   now: string
 }
 
+export interface ReopenStepsInput {
+  fromStep: string
+  moduleTarget: string
+  chapterTarget?: string
+  note: string
+  actor: string
+  now: string
+}
+
 export function stepKey(id: string, target: string) {
   return target ? `${id}:${target}` : id
 }
@@ -97,6 +106,51 @@ export function completeStep(state: RunState, key: string, input: CompleteStepIn
 
 export function markStep(state: RunState, key: string, status: StepStatus, now: string): RunState {
   return replaceStep(state, { ...requireStep(state, key), status }, now)
+}
+
+export function reopenSteps(state: RunState, input: ReopenStepsInput): RunState {
+  if (!input.note.trim()) throw new Error("La riapertura richiede una note di audit non vuota.")
+  if (!/^\d{2}$/.test(input.fromStep)) throw new Error(`Step iniziale non valido: ${input.fromStep}.`)
+
+  const from = Number(input.fromStep)
+  const reopenedKeys: string[] = []
+  const steps = state.steps.map((step) => {
+    const id = Number(step.id)
+    const selectedChapter = step.scope === "chapter"
+      && step.target.startsWith(`${input.moduleTarget}/`)
+      && (!input.chapterTarget || step.target === input.chapterTarget)
+      && id >= from
+    const dependentModule = step.scope === "module" && step.target === input.moduleTarget && id >= 13
+    const dependentVolume = step.scope === "volume" && id >= 17
+
+    if (!selectedChapter && !dependentModule && !dependentVolume) return step
+
+    reopenedKeys.push(step.key)
+    const { owner, agent, provider, startedAt, finishedAt, gate, ...record } = step
+    return { ...record, status: "pending" as const, evidence: [] }
+  })
+
+  if (!reopenedKeys.length) {
+    throw new Error(`Nessuno step riaperto da ${input.fromStep} per ${input.chapterTarget || input.moduleTarget}.`)
+  }
+
+  return {
+    ...state,
+    updatedAt: input.now,
+    steps,
+    reopenHistory: [
+      ...(state.reopenHistory ?? []),
+      {
+        at: input.now,
+        actor: input.actor,
+        note: input.note.trim(),
+        fromStep: input.fromStep,
+        moduleTarget: input.moduleTarget,
+        ...(input.chapterTarget ? { chapterTarget: input.chapterTarget } : {}),
+        reopenedKeys
+      }
+    ]
+  }
 }
 
 export function nextStep(state: RunState, options: { from?: string; phase?: string; target?: string } = {}) {
