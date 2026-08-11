@@ -131,3 +131,23 @@ L'assenza di blocker riguarda esclusivamente il gate di copertura didattica dell
 | Caso integrato e orale | parziale | ricostruita la sequenza dall'anomalia alla decisione e sviluppata la risposta orale in tre durate con chiusura e rinvii metodologici precisi | completo | `Caso 7 — Dall'anomalia alla decisione`; `Caso 8 — Risposta orale` |
 | Simulazione, autocorrezione e Diario | parziale | definiti dossier, condizioni tratte dal bando, correzione per criteri, classificazione degli errori, regola futura, esercizio e prova di recupero | completo | `Simulazione finale guidata`; `Diario degli errori tecnico`; `Mini-esercizio e checklist` |
 | Fonti e review | parziale | consolidata una source note da pagine e allegati ufficiali del campione e indicate review tecniche, concorsuali ed editoriali | completo | `Riferimenti consolidati`; `Note di review`; [[sources/laboratorio-prove-tecniche-bandi-ufficiali-2026]] |
+
+## Checklist Format 2 — capitolo 01
+
+| Nucleo ID | Famiglia/profilo | Materia | Concetto/sotto-concetti | Frequenza/peso | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa | Destinazione rinvio |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-TR03-01-01 | tutti | Identità profilo | accesso; attività; programma; prova; contesto | alta | [[sources/campione-bandi-tecnici-pa-vol-10-2026]] | cap. 1 | cinque elementi distinti | formula e tabella | discriminazione | Q:1 C:0 E:1 | completo | singolo bando | |
+| N-TR03-01-02 | tutti | Famiglie e contesti | quattro famiglie; enti; uffici | alta | [[sources/modulo-m-tr03-tecnico-ingegneristico-vol-10]] | cap. 1 | profili e variabilità | matrice profilo-attività | confronto | Q:1 C:0 E:1 | completo | non presumere mansioni | |
+| N-TR03-01-03 | tutti | Lettura bando | fascicolo; programma; priorità | alta | [[sources/campione-bandi-tecnici-pa-vol-10-2026]] | cap. 1 | procedura in quattro passi | scomposizione | mappa nuclei | Q:1 C:0 E:1 | completo | versione vigente | |
+| N-TR03-01-04 | tutti | Forme di prova | quiz; scritto; grafica; caso; orale; pratica | alta | [[sources/campione-bandi-tecnici-pa-vol-10-2026]] | cap. 1 | gesto, evidenza, controllo | trasformazione output | sei prodotti | Q:1 C:1 E:1 | completo | criteri procedura | |
+| N-TR03-01-05 | tutti | Classificazione | comune; specialistico; verticale; rinvio | alta | [[sources/logica-volumi-copertura-concorsobook-v4]] | cap. 1 | categorie e rinvii | Bando Decoder | matrice | Q:1 C:0 E:1 | completo | verificare destinazioni | |
+| N-TR03-01-06 | tutti | Piano | priorità; ciclo; simulazione; Diario | alta | [[sources/principio-copertura-didattica-integrale-2026-07-17]] | cap. 1 | dal Decoder al ciclo | caso tre bandi | piano motivato | Q:1 C:1 E:1 | completo | no frequenze | |
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Errore tipico | Verifica | Fonti |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-TR03-01-01 | ✓ cinque dati | ✓ delimita | ✓ Metodo BANDO | ✓ formula | ✓ accesso/programma | ✓ priorità | ✓ tabella | ✓ analogia | ✓ Quiz/Verifica 1 | ✓ frontmatter/corpo |
+| N-TR03-01-02 | ✓ famiglie | ✓ orienta | ✓ enti | ✓ profili/attività | ✓ nome/mansioni | ✓ mappa | ✓ matrice | ✓ presunzione | ✓ Quiz/Verifica 2 | ✓ frontmatter/corpo |
+| N-TR03-01-03 | ✓ fascicolo | ✓ scompone | ✓ quattro passi | ✓ documenti/verbi | ✓ accesso/valutazione | ✓ profondità | ✓ voce ampia | ✓ pesi inventati | ✓ Quiz/Verifica 3 | ✓ frontmatter/corpo |
+| N-TR03-01-04 | ✓ forme | ✓ rende prestazione | ✓ prove | ✓ gesto/evidenza | ✓ sei output | ✓ allenamento | ✓ caso | ✓ citazione sterile | ✓ Quiz/Verifica 4 | ✓ frontmatter/corpo |
+| N-TR03-01-05 | ✓ categorie | ✓ evita vuoti | ✓ confini | ✓ Decoder | ✓ catalogo/rinvio | ✓ destinazione | ✓ righe Decoder | ✓ macro-materia | ✓ Quiz/Verifica 5 | ✓ frontmatter/corpo |
+| N-TR03-01-06 | ✓ ciclo | ✓ corregge piano | ✓ Metodo BANDO | ✓ priorità/Diario | ✓ teoria/output | ✓ adattamento | ✓ tre bandi | ✓ calendario uniforme | ✓ Quiz/Verifica 6 | ✓ frontmatter/corpo |

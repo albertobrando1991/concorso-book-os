@@ -5,6 +5,8 @@ Usala come profilo di lavoro: le source notes e il wiki restano la base canonica
 
 ## Preferenze e istruzioni recenti
 
+- Applicare la pipeline aggiornata al volume 10 portando i capitoli allo stato pubblicabile. (mem-20260811084719-sr3sp3)
+- Procedere con il prossimo step della pipeline VOL-03 preservando il lavoro locale. (mem-20260805172112-22rmd5)
 - Procedere con la pipeline aggiornata VOL-08 completando i passaggi non effettuati senza sovrascrivere il lavoro concorrente. (mem-20260805171620-62cxs9)
 - Commit e push di tutte le modifiche effettuate finora, inclusa la logica di pipeline e download per lo staff, senza sovrascrivere altro. (mem-20260805162301-h3d2eg)
 - Proseguire autonomamente la pipeline aggiornata di VOL-02 dopo il capitolo 10. (mem-20260805161744-16dbq5f)
@@ -83,5 +85,3 @@ Usala come profilo di lavoro: le source notes e il wiki restano la base canonica
 - Procedi con il prossimo passo della pipeline del volume 7, completando il ciclo fonti del verticale fisioterapico senza avviare i capitoli prima del superamento del gate. (mem-20260729101908-bd5mrt)
 - Prossimo passo della pipeline del volume 7. (mem-20260729095424-bj470l)
 - Procedi con il prossimo passo della pipeline del volume 7, completando la raccolta e la verifica delle fonti necessarie prima della scrittura dei capitoli. (mem-20260729093824-cizuig)
-- Prossimo passo: continuare la pipeline VOL-07 acquisendo prima tutte le fonti necessarie, senza iniziare i capitoli finch? (mem-20260729092336-12ug5k1)
-- Procedi con la pipeline del volume 7, includendo ricerca e scaricamento delle fonti necessarie prima della scrittura dei capitoli. (mem-20260729090237-119s6lz)

@@ -5018,3 +5018,12 @@
 - l0: l0/conv-20260805172610-e1i6yd.md
 - atoms:
   - mem-20260805172610-zzamvq | result | Esito codex/pipeline-volume/step-00/intake: Prossimo step. -> Completato step 00 VOL-08: target M-TR01 identificato, riferimenti canonici e memoria letti, stato Git e collisioni documentati, nessun contenuto editoriale modificato; prossimo step 01.
+
+## 2026-08-11T08:47:19.232Z - VOL-10/M-TR03
+
+- conversation_id: conv-20260811084719-qcn5pa
+- route: pipeline-volume
+- l0: l0/conv-20260811084719-qcn5pa.md
+- atoms:
+  - mem-20260811084719-sr3sp3 | workflow | Applicare la pipeline aggiornata al volume 10 portando i capitoli allo stato pubblicabile.
+  - mem-20260811084719-hysp37 | result | Esito pipeline-volume: Applicare la pipeline aggiornata al volume 10 portando i capitoli allo stato pubblicabile. -> Capitolo 01 convertito a Format 2 e completato agli step 08-12: 4450 parole, 6 nuclei da almeno 600 parole, 6 quiz commentati, 1 caso, 6 verifiche; matrice dimensionale e report reviewer aggiornati; gate senza warning.
