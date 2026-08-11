@@ -5077,3 +5077,11 @@
 - l0: l0/conv-20260811095302-136lzhj.md
 - atoms:
   - mem-20260811095302-uccb70 | result | Esito codex-vol10-cap05-step10-format2: Procedi con il prossimo step della pipeline aggiornata di VOL-10. -> Completato step 10 capitolo 05: verificata copertura reale di sei nuclei; integrate due sezioni risultate sotto soglia dal conteggio canonico; aggiornate matrice dimensionale e delta; gate didactic-density superato se...
+
+## 2026-08-11T09:55:23.255Z - VOL-10
+
+- conversation_id: conv-20260811095523-1w1gqdb
+- route: codex-vol10-cap05-step11-humanizer
+- l0: l0/conv-20260811095523-1w1gqdb.md
+- atoms:
+  - mem-20260811095523-1kb116c | result | Esito codex-vol10-cap05-step11-humanizer: Procedi con il prossimo step della pipeline aggiornata di VOL-10. -> Completato step 11 capitolo 05: doppia passata Humanizer con correzioni mirate a contrasti meccanici, aperture prevedibili e anafore; preservati significato, struttura, source_refs, riferimenti normativi, quiz e caso;...
