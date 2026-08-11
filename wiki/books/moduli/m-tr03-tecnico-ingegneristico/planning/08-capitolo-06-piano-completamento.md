@@ -1,256 +1,170 @@
+---
+id: m-tr03-capitolo-06-piano-completamento
+type: editorial_plan
+title: "Piano di completamento — Capitolo 06"
+status: ready
+domain: edilizia
+book_refs: ["m-tr03-tecnico-ingegneristico", "vol-10-tecnico-ingegneristico-territorio-lavori-pubblici"]
+created_at: 2026-07-29
+updated_at: 2026-08-11
+review_required: false
+canonical: false
+tags: ["specialist-module-plan", "m-tr03", "vol-10", "format-2", "chapter-06"]
+---
+
 # Piano di completamento — Capitolo 06
 
-## Target
+## Target e contratto
 
 `chapters/06-edilizia-sue-titoli-vigilanza.md`
 
-## Base documentale letta
+Il capitolo deve passare dal testo legacy di 2.410 parole al **Formato 2**. Il budget operativo è **4.400-4.800 parole**, articolato in **sei nuclei da almeno 600 parole**, con sei quiz commentati, verifiche vicine, un caso ragionato e strumenti utilizzabili nella prova. La soglia tecnica di 3.000 parole non sostituisce la copertura delle categorie, dei regimi, del SUE, dello stato legittimo, dell'agibilità e della vigilanza.
 
-- indice completo e scheda pipeline di `VOL-10`;
-- indice, piano editoriale e matrice di copertura di `M-TR03`;
-- capitoli 1, 2, 4 e 5 del modulo, per profili, procedimento tecnico, confine strutturale e confine urbanistico;
-- source note sul campione ufficiale dei bandi tecnici;
-- source note sulla logica di copertura v4;
-- source note generale sulla L. n. 241/1990;
-- materiali disponibili sul perimetro di `VOL-01`.
+## Stato iniziale verificato
 
-Il file del capitolo 6 non esiste ancora. Non risultano nel wiki una source note canonica e aggiornata sul D.P.R. n. 380/2001 né un topic specialistico sull’edilizia privata. Queste acquisizioni sono bloccanti per la scrittura.
+Il capitolo esiste ed è marcato `specialist-audited`, ma non dichiara `format_version: 2` e non usa Nucleo ID. La base editoriale è valida: distingue urbanistica ed edilizia; parte dalla descrizione delle opere; tratta categorie e regimi; illustra SUE, stato legittimo, agibilità, vigilanza e regolarizzazione; contiene caso, griglia, domanda, trappola, esercizio e checklist.
+
+Il pacchetto ufficiale su D.P.R. n. 380/2001, D.Lgs. n. 222/2016, modifiche del 2024 e modulistica adeguata è consolidato. Esistono anche il topic specialistico e i raccordi con procedimento e urbanistica. Nessun nucleo può tuttavia essere classificato completo secondo il contratto aggiornato: densità, verifiche distribuite e sei quiz commentati non sono ancora presenti.
 
 ## Nuclei assegnati
 
-La matrice assegna al capitolo 6 e all’Appendice B:
+| Nucleo ID | Titolo e perimetro | Stato iniziale | Sviluppo richiesto | Verifica vicina |
+| --- | --- | --- | --- | --- |
+| `N-TR03-06-01` | Dall'opera alla categoria edilizia | parziale | confine urbanistica-edilizia; descrizione tecnica; categorie dell'art. 3; conseguenze della qualificazione; discipline concorrenti | classificazione senza scegliere subito il titolo + quiz 1 |
+| `N-TR03-06-02` | Regimi e titoli edilizi | parziale | attività libera, CILA, SCIA, SCIA alternativa e permesso; rapporto tra categoria, regime, presupposti e atti ulteriori | confronto motivato tra regimi + quiz 2 |
+| `N-TR03-06-03` | SUE e istruttoria della pratica | parziale | funzione dello sportello, soggetti, documenti, asseverazioni, controlli, atti di assenso e procedimento digitale | fascicolo incompleto + quiz 3 |
+| `N-TR03-06-04` | Stato legittimo, conformità e agibilità | parziale | titoli e documenti, stato legittimo, catasto, conformità urbanistica/edilizia, eseguito, agibilità e limiti | tavola delle distinzioni + quiz 4 |
+| `N-TR03-06-05` | Vigilanza, difformità e regolarizzazione | parziale | accertamento, qualificazione dell'illecito, competenza, conseguenze, ripristino, sanzioni, tolleranze e istituti di regolarizzazione senza automatismi | sequenza fatto-titolo-difformità-conseguenza + quiz 5 |
+| `N-TR03-06-06` | Caso integrato opera-regime-controllo | parziale | trasformazione di immobile esistente; piano, stato legittimo, categoria, titolo, struttura, paesaggio, SUE, controllo e dati mancanti | caso ragionato, checklist e quiz 6 |
 
-1. categorie degli interventi edilizi;
-2. attività edilizia libera e regimi amministrativi;
-3. CILA;
-4. SCIA;
-5. permesso di costruire;
-6. agibilità;
-7. Sportello unico per l’edilizia;
-8. vigilanza sull’attività urbanistico-edilizia;
-9. abusi, conseguenze e rimedi nei limiti del livello introduttivo;
-10. griglia dei titoli e caso SUE;
-11. domanda tecnica, errore tipico e verifica dell’apprendimento.
+## Checklist dimensionale per nucleo
 
-Il capitolo deve inoltre distinguere:
+Ogni nucleo deve rendere riconoscibili:
 
-- destinazione e conformità urbanistica;
-- categoria dell’intervento;
-- regime o titolo richiesto;
-- stato legittimo dell’immobile;
-- conformità edilizia dell’opera;
-- agibilità;
-- controllo e conseguenze dell’illecito.
+- definizione e funzione degli istituti;
+- inquadramento nel D.P.R. n. 380/2001 e nelle fonti collegate;
+- elementi e sequenza di qualificazione;
+- distinzioni che cambiano regime o conseguenza;
+- effetti pratici e uso nella prova;
+- esempio o microcaso;
+- errore tipico o domanda-trappola;
+- verifica con soluzione commentata;
+- tracciabilità nel frontmatter e riferimenti normativi leggibili.
 
-## Stato iniziale
+Ogni nucleo deve raggiungere almeno 600 parole secondo il conteggio canonico della pipeline.
 
-La riga è `parziale`: esistono collocazione, output e prova, ma mancano teoria, caso, verifica e fonti normative consolidate. La scheda pipeline usa `completo` come obiettivo del ciclo, non come stato attuale del contenuto.
+## Sezioni da conservare e trasformare
 
-## Nuclei già completi
+- apertura sui diversi significati della parola comune «ristrutturazione»;
+- Obiettivo e Mappa BANDO, riallineati ai sei nuclei;
+- confine operativo tra piano e singolo intervento;
+- catena `opera → categoria → regime → procedimento → controllo`;
+- spiegazioni valide su attività libera, CILA, SCIA, permesso e atti concorrenti;
+- griglie su istruttoria e concetti di conformità;
+- caso dell'immobile esistente con opere esterne, struttura, tutela e difformità;
+- `Da sapere in 5 righe`, domanda da commissario, domanda-trappola, errore tipico e checklist;
+- riferimenti normativi, espressi nel corpo senza wikilink interni.
 
-Nessun nucleo specialistico del capitolo 6 è completo.
+## Duplicazioni e sconfinamenti da evitare
 
-Sono disponibili soltanto basi riusabili:
+- pianificazione, standard, vincoli ed espropriazione sviluppati nel capitolo 5;
+- NTC, adempimenti strutturali e collaudo statico del capitolo 4;
+- teoria generale di procedimento, SCIA amministrativa, silenzio e conferenza di servizi del VOL-01 e del capitolo 2;
+- progettazione e ciclo dell'opera pubblica dal capitolo 7;
+- tutela paesaggistica e ambiente oltre il raccordo necessario;
+- elenchi esaustivi di opere associati ai regimi senza verifica della fonte vigente;
+- termini, importi, sanzioni, tolleranze o sanatorie presentati come stabili;
+- modulistica regionale o comunale descritta come uniforme nazionale;
+- equivalenze tra titolo edilizio, stato legittimo, catasto, agibilità e assenza di abuso.
 
-- distinzione fra urbanistica ed edilizia nei capitoli 1 e 5;
-- metodo di istruttoria, fascicolo, competenza e tracciabilità nel capitolo 2;
-- richiamo al D.P.R. n. 380/2001 per profili strutturali nel capitolo 4;
-- principi generali su SCIA, silenzio e procedimento nella source note sulla L. n. 241/1990;
-- evidenza qualitativa della materia nel campione dei bandi tecnici.
+## Applicazioni e output obbligatori
 
-Queste basi non sostituiscono la teoria edilizia specialistica.
+1. griglia `opera descritta → categoria → regime → atti ulteriori → controllo`;
+2. confronto tra attività libera, CILA, SCIA, SCIA alternativa e permesso;
+3. mappa dei soggetti e dei documenti della pratica SUE;
+4. tavola `piano → stato legittimo → progetto → eseguito → agibilità`;
+5. microcaso su pratica incompleta o qualificazione errata;
+6. microcaso su difformità rilevata durante la vigilanza;
+7. caso integrato sull'immobile esistente, con dati mancanti dichiarati;
+8. risposta orale sull'individuazione del regime amministrativo;
+9. sei quiz commentati, uno per nucleo;
+10. checklist finale compilabile.
 
-## Nuclei da sviluppare
+## Fonti consolidate da usare
 
-1. **Perimetro dell’edilizia privata**: rapporto con pianificazione, paesaggio, strutture e altre discipline di settore.
-2. **Categorie di intervento**: funzione della qualificazione e conseguenze sul regime amministrativo; evitare classificazioni intuitive basate sul solo nome dei lavori.
-3. **Mappa dei regimi**: attività libera, CILA, SCIA, SCIA alternativa al permesso e permesso di costruire, soltanto secondo la fonte vigente.
-4. **SUE**: funzione, ricezione della pratica, acquisizione degli atti di assenso, responsabilità dei soggetti e rapporto con il procedimento digitale.
-5. **Istruttoria edilizia**: presupposti, elaborati, asseverazioni, controlli, termini ed effetti, senza confondere i diversi regimi.
-6. **Stato legittimo e conformità**: distinzione tra titolo, consistenza autorizzata, tolleranze, difformità e regolarizzazione; ogni dettaglio va verificato sul testo vigente.
-7. **Agibilità**: funzione, presupposti, documentazione e differenza rispetto a titolo edilizio, conformità urbanistica e sicurezza strutturale.
-8. **Vigilanza**: competenze, accertamento, contestazione, ordine e controllo dell’esecuzione.
-9. **Abusi e conseguenze**: categorie generali di difformità, ripristino, sanzioni, acquisizione e sanatoria, evitando automatismi e formule non aggiornate.
-10. **Raccordi**: vincoli e paesaggio al capitolo 5; strutture al capitolo 4; procedimento generale al capitolo 2 e a `VOL-01`; opere pubbliche dal capitolo 7.
+- `sources/edilizia-sue-titoli-vigilanza-fonti-ufficiali-2026` per D.P.R. n. 380/2001, D.Lgs. n. 222/2016, modifiche del 2024 e modulistica aggiornata;
+- `sources/legge-241-1990-procedimento-amministrativo` per il solo raccordo procedimentale;
+- `sources/urbanistica-governo-territorio-fonti-ufficiali-2026` per il confine con piano e vincoli;
+- `sources/campione-bandi-tecnici-pa-vol-10-2026` per profili e forme di prova, senza dedurne frequenze statistiche;
+- `sources/modulo-m-tr03-tecnico-ingegneristico-vol-10` per il perimetro editoriale;
+- `topics/edilizia-sue-titoli-vigilanza` come sintesi consolidata;
+- capitoli 2, 4 e 5 per istruttoria, strutture e urbanistica, senza duplicarne la teoria.
 
-## Sezioni da conservare
-
-Non esiste testo pregresso del capitolo da conservare. Vanno però mantenuti:
-
-- titolo previsto dall’indice;
-- output “caso guidato e griglia titoli”;
-- lessico già stabilito nei capitoli 1, 2, 4 e 5;
-- separazione fra livello nazionale e variabilità regionale o locale;
-- apparato ricorrente del modulo: Obiettivo, Mappa BANDO, caso, domanda da commissario, domanda-trappola, errore tipico, mini-esercizio, checklist, riferimenti e note di review.
-
-## Scelta architetturale
-
-Sono stati considerati tre impianti:
-
-1. **Per titoli edilizi**: semplice, ma frammenta SUE, vigilanza e abusi.
-2. **Per fasi della pratica SUE**: operativo, ma rischia di usare il caso al posto della teoria.
-3. **Per catena decisionale**: intervento → regime → procedimento → controllo → conseguenze.
-
-Si adotta il terzo impianto. Consente di insegnare prima categorie e distinzioni, quindi applicarle alla pratica e alla vigilanza. La griglia finale sintetizza la teoria senza sostituirla.
-
-## Duplicazioni da evitare
-
-- pianificazione, standard, vincoli ed espropriazione, già nel capitolo 5;
-- autorizzazione paesaggistica e disciplina ambientale avanzata;
-- calcolo strutturale, NTC, deposito sismico e collaudo statico, già nel capitolo 4;
-- teoria generale del procedimento, SCIA amministrativa, silenzio, accesso e conferenza di servizi, assegnati a `VOL-01` e richiamati nel capitolo 2;
-- progettazione e ciclo dell’opera pubblica, dal capitolo 7;
-- elenchi integrali di interventi, moduli regionali, termini, sanzioni e importi destinati a cambiare: i dettagli comparativi vanno nell’Appendice B solo dopo verifica.
-
-Il rinvio a `VOL-01` è consentito soltanto verso capitolo e paragrafo effettivamente completi. Prima della scrittura occorre censire le destinazioni puntuali; non è ammesso un rinvio generico al “manuale base”.
-
-## Esempi, casi, domande ed esercizi necessari
-
-### Caso guidato
-
-Trasformazione di un immobile esistente con opere interne ed esterne, possibile incidenza strutturale e vincolo paesaggistico. Il candidato deve:
-
-1. descrivere l’intervento senza attribuire subito un titolo;
-2. qualificarne la categoria sulla fonte vigente;
-3. individuare il regime edilizio;
-4. verificare stato legittimo e conformità urbanistica;
-5. separare atti edilizi, strutturali e paesaggistici;
-6. ricostruire pratica SUE, controlli e possibili conseguenze.
-
-Il caso non deve contenere valori, termini o soluzioni normative finché le fonti ufficiali non sono consolidate.
-
-### Griglia titoli
-
-Colonne minime:
-
-`intervento descritto | categoria | regime | documenti/asseverazioni | atti ulteriori | controllo | fonte da verificare`.
-
-La griglia deve dichiarare che non sostituisce la lettura della disciplina vigente e territoriale.
-
-### Domanda da commissario
-
-“Come si individua il regime amministrativo di un intervento edilizio?”
-
-La risposta attesa segue: fatto → categoria → regime → presupposti → atti ulteriori → controllo.
-
-### Domanda-trappola
-
-“La presentazione di una SCIA prova da sola la legittimità dell’immobile?”
-
-La soluzione deve distinguere efficacia procedimentale, dichiarazioni e asseverazioni, stato legittimo e poteri di controllo.
-
-### Mini-esercizio
-
-Associare cinque situazioni alle verifiche necessarie, senza chiedere la memorizzazione di una tabella non ancora validata: manutenzione interna, modifica esterna, intervento strutturale, cambio d’uso, opera eseguita in difformità.
-
-### Checklist
-
-Deve verificare descrizione dell’opera, categoria, piano, stato legittimo, regime, SUE, atti di assenso, strutture, paesaggio, agibilità, vigilanza e fonte territoriale.
-
-## Fonti da usare
-
-### Disponibili e consolidate
-
-- [[sources/campione-bandi-tecnici-pa-vol-10-2026]];
-- [[sources/modulo-m-tr03-tecnico-ingegneristico-vol-10]];
-- [[sources/legge-241-1990-procedimento-amministrativo]];
-- [[sources/urbanistica-governo-territorio-fonti-ufficiali-2026]];
-- capitoli 2, 4 e 5 di `M-TR03`;
-- [[sources/logica-volumi-copertura-concorsobook-v4]].
-
-### Fonti ufficiali bloccanti da acquisire
-
-Prima dello step 09 vanno create o aggiornate source note canoniche basate su:
-
-1. D.P.R. 6 giugno 2001, n. 380, testo vigente su Normattiva;
-2. D.Lgs. 25 novembre 2016, n. 222 e relativa Tabella A, nelle parti applicabili all’edilizia;
-3. modifiche vigenti che incidono su categorie, stato legittimo, tolleranze, regolarizzazione, agibilità e vigilanza;
-4. modulistica edilizia unificata e atti ufficiali pertinenti, se usati;
-5. eventuale giurisprudenza ufficiale della Corte costituzionale, della Corte di cassazione o della Giustizia amministrativa, limitata ai principi davvero necessari;
-6. una legge regionale e strumenti locali soltanto se impiegati come esempio dichiarato, mai come disciplina nazionale;
-7. destinazioni puntuali e complete di `VOL-01` per procedimento, SCIA generale, silenzio, partecipazione e atti.
-
-Va inoltre creato un topic `edilizia-sue-titoli-vigilanza` che distingua contenuto consolidato, variabilità territoriale e punti soggetti ad aggiornamento.
+Il pacchetto sostiene una trattazione nazionale introduttiva. Categorie mobili, modulistica, termini, regolarizzazioni, disciplina regionale e prassi comunali devono restare qualificate come elementi da controllare sulla fonte vigente.
 
 ## Rinvii consentiti
 
-- capitolo 5: pianificazione, conformità urbanistica, vincoli e paesaggio;
-- capitolo 4: profili strutturali, NTC e collaudo statico;
-- capitolo 2: fascicolo, istruttoria, competenze e tracciabilità;
-- capitolo 7: progettazione dell’opera pubblica, quando completo;
-- Appendice B: tavole comparative di dettaglio, dopo validazione;
-- `VOL-01`: solo destinazioni puntuali già complete sul procedimento generale.
+- capitolo 5 per pianificazione, destinazione, conformità urbanistica e vincoli;
+- capitolo 4 per profili strutturali e collaudo statico;
+- capitolo 2 per fascicolo, competenze e tracciabilità;
+- capitolo 7 per progettazione dell'opera pubblica;
+- VOL-01 soltanto per istituti generali con destinazione puntuale verificata.
 
-Il capitolo deve restare autonomo per categorie edilizie, regimi, SUE, agibilità, vigilanza e abusi.
+Il capitolo resta autonomo per categorie, regimi, SUE, stato legittimo, agibilità, vigilanza e conseguenze delle difformità.
 
-## Review umane richieste
+## Audit specialistici richiesti
 
-- tecnico comunale o responsabile SUE;
-- avvocato amministrativista esperto di edilizia;
-- professionista abilitato con esperienza in pratiche edilizie;
-- revisore regionale per eventuali esempi territoriali;
-- controllo finale delle parti strutturali con ingegnere, se il caso le richiama.
+- audit automatico urbanistica-edilizia sul confine fra piano, categoria, titolo e tutela;
+- controllo di vigenza del D.P.R. n. 380/2001, del D.Lgs. n. 222/2016 e delle modifiche consolidate;
+- controllo di ogni richiamo ad articoli 3, 6, 6-bis, 9-bis, 10, 22, 23, 24 e 27;
+- verifica che tolleranze, regolarizzazione e sanzioni non siano presentate con automatismi o dati mobili non sostenuti;
+- controllo dei confini con capitoli 2, 4, 5 e 7;
+- verifica del realismo del caso e della distinzione tra responsabilità del privato, del professionista e dell'amministrazione;
+- revisione editoriale totale allo step 12; le criticità specialistiche devono essere chiuse automaticamente prima del text freeze.
 
-La review deve verificare categorie, termini, effetti, competenze, sanzioni, sanatorie, modulistica e differenze territoriali. Nessuna formula puntuale va pubblicata senza questa validazione.
-
-## Struttura H1/H2/H3 e budget KDP
+## Struttura H1/H2/H3 e budget
 
 # Edilizia privata, SUE, titoli abilitativi e vigilanza
 
-## Apertura, obiettivo e Mappa BANDO — 220 parole
+## Apertura, obiettivo e Mappa BANDO — 250-300 parole
 
-## Urbanistica ed edilizia: il confine operativo — 180 parole
+## N-TR03-06-01 · Dall'opera alla categoria edilizia — 650-720 parole
+### Urbanistica ed edilizia
+### Descrivere le opere
+### Categorie e discipline concorrenti
+### Verifica 1
 
-## Dall’opera alla categoria di intervento — 330 parole
-
-### Descrivere il fatto prima di scegliere il titolo
-
-### Categorie e conseguenze
-
-## Regimi e titoli edilizi — 620 parole
-
-### Attività edilizia libera e CILA
-
+## N-TR03-06-02 · Regimi e titoli edilizi — 720-800 parole
+### Attività libera e CILA
 ### SCIA e SCIA alternativa
-
 ### Permesso di costruire
+### Atti ulteriori e Verifica 2
 
-### Atti di assenso e discipline concorrenti
-
-## SUE e istruttoria della pratica — 300 parole
-
-### Funzione dello sportello
-
+## N-TR03-06-03 · SUE e istruttoria della pratica — 620-680 parole
+### Funzione dello sportello e soggetti
 ### Documenti, asseverazioni e controlli
+### Procedimento digitale e Verifica 3
 
-## Stato legittimo, conformità e agibilità — 380 parole
+## N-TR03-06-04 · Stato legittimo, conformità e agibilità — 650-720 parole
+### Titoli, documenti e catasto
+### Progetto, eseguito e conformità
+### Agibilità e Verifica 4
 
-### Stato legittimo e difformità
-
-### Funzione dell’agibilità
-
-## Vigilanza e abusi edilizi — 470 parole
-
+## N-TR03-06-05 · Vigilanza, difformità e regolarizzazione — 700-780 parole
 ### Accertamento e qualificazione
+### Conseguenze e ripristino
+### Regolarizzazione senza automatismi e Verifica 5
 
-### Conseguenze, ripristino e regolarizzazione
+## N-TR03-06-06 · Caso opera-regime-controllo — 700-780 parole
+### Lettura del fascicolo edilizio
+### Soluzione ragionata e dati mancanti
+### Domanda, trappola, errore e checklist
+### Verifica 6
 
-## Caso guidato e griglia titoli — 330 parole
+## Riepilogo operativo — 120-180 parole
 
-## Domanda da commissario, domanda-trappola ed errore tipico — 150 parole
+Budget complessivo: **4.400-4.800 parole**, **6 quiz commentati**, **1 caso integrato**, almeno **6 verifiche** e applicazioni brevi. Il blocco unico di sei nuclei rispetta il limite di 5-7 nuclei; le verifiche vicine presidiano l'apprendimento prima del quiz finale.
 
-## Mini-esercizio e checklist — 160 parole
+## Condizione per lo step 09
 
-## Riferimenti consolidati e note di review — 80 parole
-
-Budget orientativo: **3.100–3.300 parole**, tabelle escluse. Il superamento del target di 2.700 parole dell’indice è giustificato soltanto se serve a mantenere autonome teoria dei regimi, SUE, agibilità e vigilanza. Dettagli mutevoli e casistiche estese confluiscono nell’Appendice B.
-
-## Condizione per lo step di scrittura
-
-Lo step 09 può partire soltanto dopo:
-
-1. consolidamento delle fonti ufficiali bloccanti;
-2. creazione della source note edilizia e del topic specialistico;
-3. censimento dei rinvii puntuali a `VOL-01`;
-4. verifica che struttura e budget non duplicano i capitoli 4, 5 e 7;
-5. conferma che caso e griglia applicano teoria già spiegata.
+Lo step 09 può partire: capitolo, matrice, Bibbia, source note e topic specialistico sono presenti. La promozione a `format_version: 2` sarà valida soltanto quando tutti i nuclei supereranno la soglia canonica e teoria, quiz, caso, verifiche e tracciabilità saranno effettivi; il frontmatter da solo non prova la completezza.

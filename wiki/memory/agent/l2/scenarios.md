@@ -5093,3 +5093,11 @@
 - l0: l0/conv-20260811095802-nxnw35.md
 - atoms:
   - mem-20260811095802-zzb0vi | result | Esito codex-vol10-cap05-step12-review: Procedi con il prossimo step della pipeline aggiornata di VOL-10. -> Completato step 12 capitolo 05: revisione editoriale totale con checklist a 30 punti, test dello studente e controllo ufficiale dei riferimenti nazionali; report aggiornato al Formato 2, nessun errore aperto, giudizio...
+
+## 2026-08-11T10:00:32.717Z - VOL-10
+
+- conversation_id: conv-20260811100032-6p475b
+- route: codex-vol10-cap06-step08-format2
+- l0: l0/conv-20260811100032-6p475b.md
+- atoms:
+  - mem-20260811100032-1ag1iuv | result | Esito codex-vol10-cap06-step08-format2: Procedi con il prossimo step della pipeline aggiornata di VOL-10. -> Completato step 08 capitolo 06: aggiornato piano operativo Format 2 per edilizia, SUE, titoli e vigilanza; definiti sei nuclei da almeno 600 parole, fonti, confini, audit, sei quiz, verifiche e caso integrato; gate ch...
