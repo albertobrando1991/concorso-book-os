@@ -31,7 +31,7 @@ last_compiled_from: ["wiki/books/moduli/m-fc03-enti-non-economici/planning/00-pi
 
 Il piano 30/60/90 è il punto in cui il modulo M-FC03 diventa calendario, scelta e controllo. Dopo aver letto il bando, distinto ente e profilo, separato materie comuni e materie EPNE, il candidato deve decidere che cosa studiare prima, che cosa rinviare, che cosa allenare e che cosa verificare ogni settimana.
 
-Nei concorsi per INPS, INAIL e altri enti pubblici non economici il rischio non è soltanto studiare poco. È studiare in modo disordinato. Il candidato passa dal diritto amministrativo alla previdenza, dalla privacy al bilancio, dal PIAO ai quiz di logica, poi torna al bando quando esce un avviso e scopre che il proprio piano non aveva previsto soglie, tempi, allegati, materie integrative o prova orale.
+Nei concorsi per INPS, INAIL e altri enti pubblici non economici si può studiare molto e male. Il candidato passa dal diritto amministrativo alla previdenza, dalla privacy al bilancio, dal PIAO ai quiz di logica. Poi torna al bando quando esce un avviso e scopre che il proprio piano non aveva previsto soglie, tempi, allegati, materie integrative o prova orale.
 
 Questo capitolo serve a impedire quel cortocircuito. Non promette un calendario valido per ogni bando. Ti offre una struttura adattabile: 30 giorni per mettere ordine e costruire il nucleo, 60 giorni per consolidare e allenare le prove, 90 giorni per simulare, correggere e aggiornare. Se il tempo disponibile è minore, la stessa logica si comprime; se è maggiore, si ripete in cicli.
 
@@ -61,7 +61,7 @@ Il risultato atteso non è un calendario pieno. È un sistema di controllo: sai 
 | D - Diario | Quali errori ricorrono: fonte non verificata, materia sovrastimata, caso debole, quiz lento? | Diario errori settimanale. |
 | O - Output | Che cosa produco ogni settimana? | Simulazioni, risposte orali, casi, situazionali, schede ente. |
 
-La regola è semplice: nel Metodo BANDO un piano è valido solo se produce output controllabili.
+Nel Metodo BANDO un piano è valido solo quando produce risultati controllabili.
 
 ## N-FC03-13-01 · Dal Bando Decoder al piano verificabile
 
@@ -89,7 +89,7 @@ Il piano si divide in tre fasi. Ogni fase ha una funzione diversa.
 | Giorni 31-60 | Consolidare e trasformare in prova | So usare le materie in quiz, orale, casi e situazionali? |
 | Giorni 61-90 | Simulare, correggere, aggiornare | So reggere tempi, errori, avvisi e collegamenti? |
 
-La fase 1 non deve diventare lettura infinita. La fase 2 non deve restare ripasso passivo. La fase 3 non deve essere solo ansia da ultime settimane. Ogni fase deve chiudersi con un controllo.
+La prima fase non è una lettura senza fine e la seconda richiede più di un ripasso passivo. Nell'ultima, l'ansia delle settimane finali non può prendere il posto delle simulazioni. Ogni fase si chiude con un controllo.
 
 Un calendario è verificabile quando collega tempo, contenuto e prestazione. Scrivere «studiare previdenza» non consente di capire se il lavoro sia stato svolto; scrivere «ricostruire senza appunti la differenza tra funzione previdenziale e assicurativa, correggere la risposta e fissare il ripasso» produce invece una traccia osservabile. Questa differenza protegge da due illusioni frequenti: confondere le ore trascorse sui materiali con l'apprendimento e considerare concluso un argomento solo perché è stato letto.
 
@@ -135,7 +135,7 @@ Ogni settimana deve contenere quattro blocchi:
 | Risposta orale | 10-20 minuti | Spiegazione da 90 secondi. |
 | Caso o situazionale | 20-40 minuti | Mini-risposta con griglia. |
 
-Il punto non è fare tutto ogni giorno. Il punto è non lasciare mai una materia senza output.
+Non occorre fare tutto ogni giorno. Occorre, invece, che nessuna materia resti a lungo senza un output.
 
 Il primo mese deve anche introdurre il richiamo attivo. Dopo una sessione, chiudi le fonti e prova a ricostruire definizione, funzione, soggetti e collegamenti. Solo dopo confronta la risposta con il materiale e annota ciò che manca. Il ripasso va distribuito: uno stesso nucleo ritorna a distanza crescente, con intervalli adattati agli errori. Leggere e sottolineare possono aiutare l'orientamento, ma non sostituiscono la prova di recupero dalla memoria.
 
@@ -155,7 +155,7 @@ Qui entrano i capitoli 11 e 12: casi pratici e quesiti situazionali. Un candidat
 
 ### La settimana tipo 31-60
 
-| Giorno | Attivita principale | Output minimo |
+| Giorno | Attività principale | Output minimo |
 | --- | --- | --- |
 | 1 | Materia comune ad alta frequenza | 25 quiz o 1 schema orale. |
 | 2 | Delta EPNE | Scheda INPS/INAIL/ente + 10 domande secche. |
@@ -169,7 +169,7 @@ Se hai meno giorni a disposizione, conserva la logica: studio, richiamo, prova, 
 
 ### Trasformare le materie in output
 
-La domanda da farti è sempre: in che forma questa materia può uscire?
+Per ogni materia chiediti in quale forma può comparire nella prova.
 
 | Materia | Possibile output | Allenamento |
 | --- | --- | --- |
@@ -179,7 +179,7 @@ La domanda da farti è sempre: in che forma questa materia può uscire?
 | Privacy | Situazionale, caso, orale | Titolo, canale, minimizzazione, limiti. |
 | PIAO e performance | Orale, domanda trasversale | Collegare organizzazione, valore pubblico, trasparenza. |
 | Bilancio e controlli | Quiz, orale, caso interno | Distinguere bilancio, patrimonio, controlli, vigilanza. |
-| Personale e CCNL | Quiz, situazionale, orale | Area, doveri, comportamento, responsabilita. |
+| Personale e CCNL | Quiz, situazionale, orale | Area, doveri, comportamento, responsabilità. |
 
 Una materia è davvero studiata quando sai riconoscerla, spiegarla e applicarla.
 
@@ -203,11 +203,11 @@ Senza consultare gli appunti, scegli tre materie del bando e indica per ciascuna
 
 ## N-FC03-13-04 · Giorni 61-90: simulare, correggere e aggiornare
 
-Negli ultimi 30 giorni il piano deve diventare selettivo. Non si apre una nuova enciclopedia. Si chiudono lacune, si simulano prove, si correggono errori ricorrenti e si controllano gli avvisi.
+Negli ultimi 30 giorni il piano diventa selettivo. Non è il momento di aprire una nuova enciclopedia: si chiudono le lacune, si simulano le prove e si controllano gli avvisi, partendo dagli errori ricorrenti.
 
-La fase 61-90 ha tre obiettivi:
+La fase 61-90 persegue questi obiettivi:
 
-1. aumentare stabilita e velocita;
+1. aumentare stabilità e velocità;
 2. ridurre errori ripetuti;
 3. impedire che un aggiornamento ufficiale arrivi troppo tardi nel piano.
 
@@ -227,7 +227,7 @@ Non basta registrare il voto. Devi registrare il tipo di errore.
 
 ### Il diario errori EPNE
 
-Il diario errori del modulo M-FC03 non è solo una lista di quiz sbagliati. Deve contenere quattro famiglie di errore.
+Il diario errori del modulo M-FC03 non è una semplice lista di quiz sbagliati. Deve distinguere quattro famiglie di errore.
 
 | Famiglia | Esempio | Correzione |
 | --- | --- | --- |
@@ -256,7 +256,7 @@ Il piano 30/60/90 ha una struttura comune, ma il contenuto cambia.
 
 Metti presto al centro previdenza, servizi, prestazioni, rapporto con utente, dati personali, domanda incompleta, posizione contributiva, comunicazioni e canali ufficiali. Il libro base resta necessario per amministrativo, pubblico impiego, privacy, trasparenza, contabilità, contratti, informatica, inglese e logica. Il modulo aggiunge linguaggio e casi previdenziali.
 
-Output ad alta resa:
+Esercizi prioritari per INPS:
 
 - spiegare in 90 secondi perché INPS non è solo amministrazione generale;
 - risolvere un caso su domanda di prestazione incompleta;
@@ -267,7 +267,7 @@ Output ad alta resa:
 
 Metti presto al centro assicurazione sociale, prevenzione, prestazioni, eventi lavorativi, rapporto con lavoratori e imprese, dati personali e, quando il bando lo richiede, salute e sicurezza. Se il bando contiene materie integrative, usa l'Appendice F senza trasformarla in un secondo manuale non proporzionato.
 
-Output ad alta resa:
+Esercizi prioritari per INAIL:
 
 - costruire la mappa assicurazione-prevenzione-prestazione;
 - risolvere un caso su richiesta di dati o pratica collegata a evento lavorativo;
@@ -278,7 +278,7 @@ Output ad alta resa:
 
 Non cercare di inventare un manuale ente-specifico completo. Parti dal nucleo M-FC03: ordinamento, governance, amministrazione trasparente, servizi, bilancio, performance, PIAO, personale, procedimento, casi e fonti ufficiali. Poi costruisci una scheda ente con funzioni, documenti da controllare, profilo e materie del bando.
 
-Output ad alta resa:
+Esercizi prioritari per gli altri EPNE:
 
 - scheda ente in una pagina;
 - tre domande orali su funzioni e organizzazione;
@@ -311,9 +311,9 @@ Il piano 30/60/90 serve a trasformare bando, materie e prove in azioni controlla
 
 Luca prepara un concorso per un profilo amministrativo presso INAIL. Ha 90 giorni, lavora mezza giornata e ha già studiato parte del libro base. All'inizio apre il bando, salva allegati e avvisi, compila il Bando Decoder e scopre che la prova combina materie comuni, contenuti INAIL, logica, situazionali, inglese e informatica.
 
-La lettura debole sarebbe: "studio l'l'INAIL e poi ripasso il resto". La lettura corretta è diversa.
+Un piano generico direbbe: "studio l'INAIL e poi ripasso il resto". Luca sceglie una strada più precisa.
 
-Nei primi 30 giorni Luca riattiva amministrativo, pubblico impiego, privacy e logica, ma dedica blocchi specifici ad assicurazione sociale, prevenzione, prestazioni e rapporto con lavoratori/imprese. Ogni settimana scrive una risposta orale breve e un caso.
+Nei primi 30 giorni Luca riprende amministrativo, pubblico impiego, privacy e logica. Riserva però blocchi specifici all'assicurazione sociale, alla prevenzione, alle prestazioni e al rapporto con lavoratori e imprese. Ogni settimana prepara una risposta orale breve e svolge un caso.
 
 Nei giorni 31-60 passa a simulazioni parziali: quiz a tempo, caso INAIL in 20 righe, situazionali su dati e comportamento, scheda su materie integrative richieste dal bando. Nel diario scopre che sbaglia spesso quando la domanda contiene dati personali o richieste informali. Crea quindi una regola di correzione: prima identita e canale, poi competenza, poi informazione consentita.
 
@@ -337,7 +337,7 @@ Negli ultimi 30 giorni Luca non apre nuovi manuali. Simula prove, ripassa mappe 
 
 L'errore più frequente è fare un piano per materie, non per prove.
 
-Il candidato assegna una settimana ad amministrativo, una a pubblico impiego, una a INPS o INAIL, una a privacy, una a contabilità. Il calendario sembra ordinato, ma non risponde alla domanda decisiva: come uscira' quella materia in prova?
+Il candidato assegna una settimana ad amministrativo, una a pubblico impiego, una a INPS o INAIL, una a privacy e una a contabilità. Il calendario sembra ordinato, ma non chiarisce come potrà comparire ogni materia nella prova.
 
 La correzione è:
 
@@ -368,7 +368,7 @@ Compila questa scheda usando un bando EPNE reale o simulato.
 | Errore più probabile | |
 | Correzione programmata | |
 
-Poi scrivi una settimana tipo con massimo sei blocchi. Se inserisci più di sei blocchi, probabilmente stai progettando un piano che non reggera'.
+Poi scrivi una settimana tipo con non più di sei blocchi. Se ne inserisci altri, verifica che il piano sia davvero sostenibile.
 
 ### Riferimenti professionali essenziali
 
