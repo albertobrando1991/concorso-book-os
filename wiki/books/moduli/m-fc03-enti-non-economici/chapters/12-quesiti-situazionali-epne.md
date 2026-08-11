@@ -15,7 +15,8 @@ source_refs: [
   "sources/d-p-r-13-giugno-2023-n-81-modifiche-codice-comportamento.md",
   "sources/regolamento-ue-2016-679-gdpr-protezione-dati-personali.md",
   "sources/d-lgs-14-marzo-2013-n-33-trasparenza.md"
-]book_refs: ["m-fc03-enti-non-economici","il-metodo-bando"]
+]
+book_refs: ["m-fc03-enti-non-economici","il-metodo-bando"]
 confidence: 0.88
 updated_at: 2026-07-08T20:35:00+02:00
 created_at: 2026-07-02T20:05:00+02:00
@@ -104,6 +105,8 @@ La differenza rispetto al caso pratico del capitolo 11 è il fuoco della prova. 
 
 Negli enti pubblici non economici gli scenari più probabili ruotano intorno a cinque ambienti: sportello, back office, servizi digitali, rapporto con imprese e utenti, organizzazione interna. INPS richiama spesso prestazioni, posizioni, contributi, utenti e canali di servizio. INAIL richiama evento lavorativo, assicurazione, prevenzione, rapporto con lavoratori e imprese, dati anche delicati. Gli altri EPNE possono richiamare servizi istituzionali, richieste documentali, concorsi, accesso, comunicazione e gestione interna.
 ### Anatomia della scena e conseguenze della scelta
+
+Questa classificazione serve anche a gestire il tempo. Nel situazionale il candidato deve isolare il comportamento osservabile, verificare se rispetta ruolo e vincoli, quindi confrontarne l'efficacia con le alternative. Ricostruire norme o fasi non richieste consuma tempo e aumenta il rischio di aggiungere fatti assenti. La risposta resta motivata, ma la motivazione riguarda la qualita della condotta proposta.
 
 Ogni quesito va scomposto prima di guardare quale lettera sembri più convincente. Lo **scenario** descrive il contesto; il **ruolo** stabilisce che cosa il candidato può fare; la **tensione** mette in conflitto due esigenze, per esempio rapidità e accuratezza; le **opzioni** propongono condotte alternative; la **richiesta** chiarisce se occorre scegliere la più efficace, la meno efficace oppure ordinare tutte le alternative.
 

@@ -396,3 +396,40 @@ I sei nuclei presentano teoria autonoma, applicazione e verifica. Schede, tabell
 ## Esito capitolo 11
 
 I sei nuclei presentano teoria autonoma, applicazione e verifica. Griglie, tabelle, sette casi, caso ragionato, mini-atti, esercizi e quiz applicano concetti gia spiegati e non li sostituiscono. Non risultano dimensioni applicabili vuote, dipendenze interne, rinvii generici o dati operativi non tracciati; procedimenti, accessi, dati, canali, prassi INPS/INAIL, contratti e criteri delle prove restano subordinati all'audit specialistico dello step 15 e alle fonti ufficiali vigenti.
+
+## Capitolo 12 - overlay Format 2
+
+| Nucleo ID | Famiglia/profilo | Materia | Concetto/sotto-concetti | Frequenza/peso | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa | Destinazione rinvio |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FC03-12-01 | M-FC03/tutti | Quesito situazionale | Definizione, ruolo, scenario, tensione, richiesta, opzioni e distinzione da teoria e caso | alta | [[sources/capitolo-17-18-corpus-casi-pratici-quesiti-situazionali-2026-05-30]]; [[sources/m-fc03-dossier-redazionale-enti-pubblici-non-economici]] | Cap. 12 § N-FC03-12-01 | Definisce prova, misura, formati, elementi e differenze | Richiesta urgente allo sportello | Quiz, ranking, orale e situazionale | Q:1 C:0 E:1 - Quiz 1 | completo | Audit criteri del bando | Metodo BANDO per metodo generale |
+| N-FC03-12-02 | M-FC03/tutti | Competenze trasversali | Framework 2023, quattro aree, tre valori e condotte osservabili | alta | [[sources/framework-competenze-trasversali-pa-dm-28-giugno-2023]]; [[sources/d-p-r-16-aprile-2013-n-62-codice-comportamento-dipendenti-pubblici]] | Cap. 12 § N-FC03-12-02 | Collega competenze, valori, contesto EPNE e azioni | Tabella area-condotta | Quiz, orale e situazionale | Q:1 C:0 E:1 - Quiz 2 | completo | Audit framework e codice vigenti |  |
+| N-FC03-12-03 | M-FC03/tutti | Gerarchia di scelta | Legalita, competenza, imparzialita, dati, servizio, collaborazione, accuratezza e traccia | alta | [[sources/d-p-r-16-aprile-2013-n-62-codice-comportamento-dipendenti-pubblici]]; [[sources/regolamento-ue-2016-679-gdpr-protezione-dati-personali]] | Cap. 12 § N-FC03-12-03 | Spiega sette passaggi, classificazione e ranking | Pratica di un parente | Quiz, ranking e situazionale | Q:1 C:0 E:1 - Quiz 3 | completo | Audit dati, conflitti e canali |  |
+| N-FC03-12-04 | M-FC03/tutti | Trappole comportamentali | Buonismo, rigidita, passivita, invasione di ruolo, favoritismo, mancata traccia e priorita | alta | [[sources/m-fc03-dossier-redazionale-enti-pubblici-non-economici]]; [[sources/d-p-r-16-aprile-2013-n-62-codice-comportamento-dipendenti-pubblici]] | Cap. 12 § N-FC03-12-04 | Definisce trappole, segnali, conseguenze e correzioni | Sette scenari di servizio | Quiz, orale e situazionale | Q:1 C:0 E:1 - Quiz 4 | completo | Audit codice integrativo ente |  |
+| N-FC03-12-05 | M-FC03/INPS-INAIL e altri EPNE | Simulazioni | Utenti, pratiche, lavoratori, imprese, dati, concorsi ed errori | alta | [[sources/m-fc03-fonti-ufficiali-enti-epne-2026]]; [[sources/regolamento-ue-2016-679-gdpr-protezione-dati-personali]] | Cap. 12 § N-FC03-12-05 | Applica il delta EPNE senza inventare procedure o poteri | Otto quesiti originali | Quiz, ranking e simulazione | Q:1 C:0 E:1 - Quiz 5 e quesiti 1-8 | completo | Audit prassi e canali ente | Capp. 3-4 per contesto INPS/INAIL |
+| N-FC03-12-06 | M-FC03/tutti | Laboratorio | Classificazione, motivazione, caso, esercizio, diario, checklist e rubrica | alta | [[sources/capitolo-17-18-corpus-casi-pratici-quesiti-situazionali-2026-05-30]]; [[sources/framework-competenze-trasversali-pa-dm-28-giugno-2023]] | Cap. 12 § N-FC03-12-06 | Integra criteri, motivazione e correzione | Caso Marta | Quiz, orale, caso e workbook | Q:1 C:1 E:1 - Quiz 6 e caso | completo | Audit originalita e resa KDP |  |
+
+## Checklist dimensionale - capitolo 12
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso nella prova | Errore tipico | Verifica | Fonti | Tracciabilita |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FC03-12-01 | ✓ scelta di condotta | ✓ misurare comportamento | ✓ concorsi EPNE | ✓ ruolo, scenario, tensione, richiesta, opzioni | ✓ teoria/caso/situazionale | ✓ criterio prima della lettera | ✓ richiesta urgente | ✓ quiz, ranking, orale | ✓ parole positive | ✓ Quiz 1 | ✓ fonti in riga | ✓ frontmatter e riferimenti leggibili |
+| N-FC03-12-02 | ✓ competenza e condotta | ✓ leggere cosa misura | ✓ framework 2023 | ✓ quattro aree, tre valori, azioni | ✓ competenza/valore/opzione | ✓ condotta coerente | ✓ area-condotta | ✓ quiz, orale, situazionale | ✓ memorizzare etichette | ✓ Quiz 2 | ✓ fonti in riga | ✓ D.M. e D.P.R. leggibili |
+| N-FC03-12-03 | ✓ gerarchia e ranking | ✓ ordinare i vincoli | ✓ ruolo pubblico EPNE | ✓ sette passaggi e otto criteri | ✓ illegittima/debole/accettabile/efficace | ✓ escludere scorciatoie | ✓ pratica di un parente | ✓ quiz e ranking | ✓ empatia come deroga | ✓ Quiz 3 | ✓ fonti in riga | ✓ codice e GDPR leggibili |
+| N-FC03-12-04 | ✓ sette trappole | ✓ riconoscere risposte deboli | ✓ servizio EPNE | ✓ buonismo, rigidita, passivita, invasione, favore, traccia, priorita | ✓ aiuto/scorciatoia | ✓ condotta proporzionata | ✓ sette scenari | ✓ quiz, orale, situazionale | ✓ opzione piu gentile | ✓ Quiz 4 | ✓ fonti in riga | ✓ codice leggibile |
+| N-FC03-12-05 | ✓ simulazione EPNE | ✓ trasferire criteri | ✓ INPS, INAIL e altri EPNE | ✓ utenti, pratiche, imprese, dati, concorsi, credenziali | ✓ contesto/procedura inventata | ✓ risposta senza promesse | ✓ otto quesiti | ✓ quiz e simulazione | ✓ dedurre poteri dal nome | ✓ Quiz 5 e quesiti 1-8 | ✓ fonti in riga | ✓ riferimenti leggibili |
+| N-FC03-12-06 | ✓ laboratorio e rubrica | ✓ motivare e correggere | ✓ sintesi Metodo BANDO | ✓ caso, domanda, trappola, esercizio, diario, checklist | ✓ scorretta/debole/accettabile/efficace | ✓ allenamento mirato | ✓ caso Marta | ✓ quiz, orale, caso | ✓ rassicurare senza verificare | ✓ Quiz 6, caso e rubrica | ✓ fonti in riga | ✓ riferimenti leggibili |
+
+## Delta step 10 - capitolo 12
+
+| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
+| --- | --- | --- | --- | --- |
+| N-FC03-12-01 | parziale | Verificati definizione, formati, distinzioni, scenario e prova | completo | Heading Riconoscere il quesito situazionale EPNE; Quiz 1 |
+| N-FC03-12-02 | parziale | Verificati framework, valori, condotte e contesto | completo | Heading Competenze trasversali e comportamento pubblico; Quiz 2 |
+| N-FC03-12-03 | parziale | Verificati gerarchia, sette passaggi, ranking e conseguenze | completo | Heading Gerarchia di scelta e lettura delle opzioni; Quiz 3 |
+| N-FC03-12-04 | parziale | Organizzate sette trappole con correzioni e scenari | completo | Heading Trappole comportamentali e scenari di servizio; Quiz 4 |
+| N-FC03-12-05 | parziale | Conservati otto quesiti originali ed esplicitati i limiti EPNE | completo | Heading Simulazioni INPS, INAIL e altri EPNE; Quiz 5 |
+| N-FC03-12-06 | quasi completo | Verificati caso, esercizio, diario, checklist, quiz e rubrica | completo | Heading Laboratorio, motivazione e diario errori; Quiz 6 e caso Marta |
+
+## Esito capitolo 12
+
+I sei nuclei presentano teoria autonoma, applicazione e verifica. Tabelle, scenari, otto quesiti originali, caso ragionato, esercizio, diario e quiz applicano concetti gia spiegati e non li sostituiscono. Non risultano dimensioni applicabili vuote, dipendenze interne, rinvii generici o dati operativi non tracciati; framework, codice di comportamento, protezione dei dati, criteri del bando, codici integrativi, canali e procedure del singolo ente restano subordinati all'audit specialistico dello step 15 e alle fonti ufficiali vigenti.
