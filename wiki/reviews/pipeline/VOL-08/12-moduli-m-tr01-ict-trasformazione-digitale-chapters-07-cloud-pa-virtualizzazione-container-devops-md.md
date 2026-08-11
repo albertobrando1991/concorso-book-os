@@ -1,83 +1,45 @@
-# Report editoriale — VOL-08, capitolo 7
+# Report editoriale — M-TR01, Capitolo 07: Cloud PA, virtualizzazione, container e DevOps
 
 ## 1. Sintesi editoriale
-
-- Genere editoriale: manuale-workbook specialistico per concorsi pubblici.
-- Pubblico target: candidati a profili ICT, cloud, infrastrutture e cybersecurity nella pubblica amministrazione.
-- Perimetro di questa revisione: capitolo 7, matrice di copertura M-TR01, piano di completamento, rinvio al VOL-01, raccordi con i capitoli adiacenti e fonti consolidate.
-- Stato generale in una frase: capitolo autonomo e didatticamente completo, con una progressione efficace dalla classificazione del servizio alla migrazione e alla continuità, da sottoporre a verifiche tecniche e istituzionali circoscritte prima della pubblicazione.
+- Genere editoriale: manuale specialistico per concorsi pubblici italiani.
+- Pubblico target: candidati a profili ICT che studiano senza accesso alla documentazione interna del progetto.
+- Perimetro di questa revisione: capitolo 07, con controllo della mappa di copertura formato 2 e dei raccordi con i capitoli limitrofi.
+- Stato generale in una frase: il capitolo è autosufficiente, mantiene sei nuclei completi e collega teoria, caso, quiz e checklist senza rinviare il lettore a strumenti interni.
 
 ## 2. Punti applicati della checklist
-
-Applicati i punti 1-26 e 28-30: coerenza con indice e struttura; progressione; gerarchia; autonomia del capitolo; rapporto con i capitoli adiacenti; terminologia; completezza e accuratezza delle spiegazioni; errori concettuali, normativi o fattuali; esempi, laboratorio, tabelle e apparato delle fonti; sintassi; chiarezza; tono; stile didattico; ripetizioni; contraddizioni; grammatica; ortografia; punteggiatura; refusi; uniformità grafica; layout Markdown; leggibilità e qualità complessiva.
-
-Il punto 27, impaginazione, non è applicabile: non è disponibile un PDF o un file impaginato da ispezionare pagina per pagina.
-
-È stato applicato anche il gate di copertura didattica integrale. Il nucleo «Cloud e DevOps» sviluppa caratteristiche e modelli cloud, responsabilità condivisa, virtualizzazione, container, orchestrazione, percorso Cloud PA, migrazione, DevOps, CI/CD, IaC, osservabilità, resilienza, backup, RPO/RTO, disaster recovery e business continuity. Il caso, il laboratorio e i quiz applicano concetti spiegati in precedenza. Il rinvio al VOL-01, capitolo 10, § 17, è preciso e limitato ai prerequisiti.
+Applicati i punti 1-5 per la collocazione nel modulo e la gerarchia H1/H2/H3; 6-15 per coerenza interna, definizioni, completezza, esempi, tabelle e riferimenti; 16-21 per chiarezza, tono, stile didattico, ripetizioni e contraddizioni; 22-26 e 28-30 per lingua, uniformità grafica, tabelle, leggibilità e qualità complessiva. Il punto 27 non è applicabile: non è disponibile un PDF impaginato. La copertura v4 è stata controllata sulla matrice: nessuno dei sei nuclei è `parziale`, `solo-nominato` o `mancante`.
 
 ## 3. Tabella errori
-
 | ID | Posizione | Categoria | Gravità | Descrizione | Correzione proposta | Stato |
 |----|-----------|-----------|---------|-------------|----------------------|-------|
-| E01 | Cloud PA e percorso di migrazione | Aggiornamento istituzionale | Media | Classificazione, qualificazione, Regolamento unico, catalogo ACN e PSN sono descritti con formulazioni prudenti, ma il quadro può cambiare prima del text freeze. | Ricontrollare su ACN e Cloud Italia regolamento, catalogo, terminologia e percorso applicabile; registrare data e versione della verifica nella source note. | Da verificare |
-| E02 | Hypervisor e macchine virtuali; Infrastructure as Code | Apparato delle fonti | Media | Virtualizzazione, hypervisor di tipo 1 e 2, sovra-allocazione, modelli dichiarativi e imperativi sono corretti a livello concettuale, ma la source note non offre ancora una fonte primaria granulare per tutti questi passaggi. | Integrare la source note con documentazione primaria o standard accessibili su virtualizzazione e IaC e ottenere sign-off da cloud architect e platform engineer. | Da verificare |
-| E03 | Pipeline CI/CD; Distribuzione e rollback | Accuratezza tecnica | Media | Continuous integration, delivery e deployment e le strategie rolling, blue-green e canary sono distinte con chiarezza, ma non sono collegate a una fonte primaria specifica né validate rispetto a una piattaforma. | Consolidare una fonte tecnica primaria trasferibile e far verificare terminologia, artefatti, gate e rollback da un DevOps/SRE engineer. | Da verificare |
-| E04 | Backup, snapshot e replica; RPO e RTO | Accuratezza tecnica | Media | Le distinzioni sono corrette e didatticamente utili, ma tipi di backup, immutabilità, RPO/RTO e prova di ripristino richiedono una validazione specialistica oltre al quadro generale NIST SP 800-34. | Integrare una fonte primaria granulare e far revisionare il blocco da uno specialista backup e disaster recovery. | Da verificare |
-| E05 | Strategie di migrazione | Coerenza terminologica | Media | La tassonomia delle «R» è dichiarata operativa e non normativa, ma denominazioni e perimetri variano fra framework; inoltre `repurchase` è sintetizzato come sostituzione e nella checklist compare `replace`. | Scegliere una tassonomia documentata, dichiararne la fonte e uniformare `repurchase`/`replace` in capitolo, caso e checklist. | Proposto |
-| E06 | Caso guidato: migrazione di un servizio comunale | Qualità didattica e contenutistica | Media | Il caso è coerente, ma resta astratto: non attribuisce una classificazione reale, non seleziona un servizio qualificato e non assegna valori a RPO/RTO. La prudenza evita claim inventati, ma impedisce di validarlo come scenario operativo. | Mantenerlo esplicitamente come caso didattico oppure sostituirlo con un caso documentato dopo review ACN, privacy, cloud e continuità. | Proposto |
-| E07 | Terminologia tecnica | Coerenza terminologica | Lieve | Il capitolo alterna termini italiani e inglesi, fra cui tenancy, guest OS, serverless, runtime, registry, workload, control plane, rolling, blue-green, canary, cutover, rollback e failback. Sono comuni nel settore, ma serve una forma principale nel glossario. | Registrare termine, equivalente italiano quando utile e prima definizione nel glossario di volume; usare poi la forma scelta in modo uniforme. | Proposto |
-| E08 | Tabelle del capitolo e checklist di migrazione | Layout | Lieve | Le tabelle sono leggibili in Markdown, ma alcune celle contengono tecnicismi lunghi e la checklist a tre colonne può diventare densa nel formato KDP. | Verificare nel PDF ritorni a capo, corpo minimo e ampiezza delle colonne; spezzare la checklist se la pagina risulta compressa. | Proposto |
-
-Non sono emersi errori oggettivi gravi, contraddizioni interne, rinvii generici, nuclei soltanto nominati o promesse formative non mantenute. Non sono state applicate correzioni dirette al capitolo in questa fase.
+| E01 | N-TR01-07-05, paragrafo su pannello operativo | Grammatica e chiarezza | Lieve | Articolo non concordato in “Una pannello operativo”. | Corretto in “Un pannello operativo” e resa più diretta la frase successiva. | Applicato |
+| V01 | N-TR01-07-03, quadro Cloud PA | Contenuto normativo mobile | Media | Regolamento, catalogo e terminologia ACN possono cambiare dopo il cut-off delle fonti consolidate. | Prima del text freeze confrontare Strategia Cloud Italia, catalogo e documentazione ACN con la versione vigente; aggiornare soltanto se emergono variazioni rilevanti. | Da verificare |
 
 ## 4. Osservazioni per capitolo
-
-### Capitolo 7 — Cloud PA, virtualizzazione, container e DevOps
-
-- Punti di forza: progressione ordinata dai modelli cloud alla migrazione, poi al rilascio e alla continuità; distinzioni efficaci fra IaaS/PaaS/SaaS, cloud pubblico e settore pubblico, VM e container, snapshot/replica/backup, alta disponibilità/DR/business continuity; caso, domanda-trappola e checklist coerenti con la teoria; confini chiari con reti, software engineering, cybersecurity, IAM e procurement.
-- Criticità: la granularità delle fonti è disomogenea per virtualizzazione, IaC, CI/CD e backup; il quadro ACN richiede un controllo finale di vigenza; la tassonomia delle strategie di migrazione va uniformata; il caso comunale resta intenzionalmente astratto; la resa delle tabelle deve essere provata nel master KDP.
+### Capitolo 07 — Cloud PA, virtualizzazione, container e DevOps
+- Punti di forza: i sei nuclei distinguono modelli cloud, VM e container, migrazione, delivery, osservabilità e continuità; ogni concetto è sviluppato prima dell'applicazione. Il caso comunale collega classificazione, dipendenze, cutover, rollback, RPO/RTO e uscita. I sette quiz hanno una risposta commentata.
+- Criticità: il quadro ACN è necessariamente soggetto ad aggiornamento; il testo evita correttamente soglie, cataloghi di prodotti e affermazioni temporanee non verificate.
 
 ## 5. Coerenza globale
-
-- Terminologia: coerente nei concetti centrali; i tecnicismi inglesi indicati in E07 devono essere consolidati nel glossario finale.
-- Struttura vs indice: coerente. La specifica promette modelli cloud, migrazione, virtualizzazione, container, CI/CD, osservabilità, backup e continuità; tutti i nuclei sono sviluppati.
-- Promesse dell’introduzione mantenute: sì. Ogni competenza dichiarata dispone di teoria, applicazione e verifica.
-- Confini: rispettati. Reti e troubleshooting restano nel capitolo 5; ciclo di vita, test e API nel 6; cybersecurity e IAM nei capitoli 8-9; data governance nel 10; procurement e SLA contrattuali nel 12.
-- Rinvio al VOL-01: preciso, verificabile e limitato alle nozioni introduttive del capitolo 10, § 17.
-- Copertura v4: completa per la riga assegnata al capitolo 7. Non è necessario declassare la matrice.
+- Terminologia: coerente; cloud pubblico non è confuso con pubblica amministrazione, container non è trattato come VM leggera e replica non è presentata come backup.
+- Struttura vs indice: coerente con il capitolo 07 del modulo; i raccordi verso reti, software, sicurezza, IAM e procurement restano confini di materia, non rinvii necessari alla comprensione.
+- Promesse dell'introduzione mantenute: sì; obiettivo, Mappa BANDO, teoria, applicazione, errore, caso e verifica sono presenti.
 
 ## 6. Contenuto da verificare
-
-- Regolamento, catalogo, terminologia e percorso Cloud PA vigenti al text freeze.
-- Fonti primarie granulari e formulazioni su hypervisor, sovra-allocazione e virtualizzazione.
-- Terminologia e confini di Infrastructure as Code, continuous integration, continuous delivery e continuous deployment.
-- Strategie rolling, blue-green e canary e condizioni reali di rollback.
-- Tipi di backup, immutabilità, test di ripristino, RPO/RTO, failover e failback.
-- Tassonomia e nomenclatura delle strategie di migrazione.
-- Piattaforme, tecnologie e profondità effettivamente richieste dai bandi del campione.
-- Validità tecnica e organizzativa del caso comunale, se trasformato da esempio astratto in caso operativo.
+- Versione vigente di Regolamento e catalogo ACN sulla qualificazione dei servizi cloud per la PA al momento del text freeze.
+- Eventuali cambiamenti del Piano Triennale o della Strategia Cloud Italia che modifichino terminologia o percorso operativo.
 
 ## 7. Suggerimenti facoltativi (non errori)
-
-- Aggiungere uno schema visuale che colleghi classificazione, assessment, strategia, cutover, osservabilità e ripristino.
-- Inserire una matrice compatta delle responsabilità per IaaS, PaaS e SaaS.
-- Trasformare la checklist di migrazione in una scheda compilabile su due pagine.
-- Consolidare nel glossario le coppie scalabilità/elasticità, immagine/container, snapshot/backup, RPO/RTO e DR/business continuity.
+- In una futura edizione impaginata, usare un box grafico distinto per la matrice di responsabilità e per la checklist di migrazione, mantenendo le tabelle su una pagina leggibile.
 
 ## 8. Priorità degli interventi
-
-1. Aggiornare il quadro ACN e chiudere le review tecniche indicate in E01-E04.
-2. Uniformare e documentare la tassonomia di migrazione secondo E05.
-3. Decidere il livello di concretezza del caso secondo E06.
-4. Consolidare il glossario secondo E07.
-5. Controllare il master KDP secondo E08.
+1. Verificare le fonti ACN mobili prima del text freeze.
+2. Nessun intervento strutturale o didattico richiesto su questa versione del capitolo.
+3. Eseguire il controllo visivo quando sarà disponibile l'impaginato PDF.
 
 ## 9. Giudizio di pubblicabilità
-
-Pubblicabile dopo intervento medio.
-
-Motivazione: il capitolo è strutturalmente completo, mantiene le promesse formative e non presenta errori gravi aperti. I rilievi E01-E06 sono circoscritti ma interessano vigenza istituzionale, granularità delle fonti e validazione specialistica di contenuti centrali; devono essere chiusi prima della pubblicazione.
+Pubblicabile con correzioni minori.
+Motivazione: nessun errore grave resta aperto; le sei aree della matrice risultano complete nel testo, la verifica non sostituisce la teoria e il solo controllo residuo riguarda fonti istituzionali mobili, già separato dal contenuto certo.
 
 ## 10. Limiti di questa revisione
-
-La revisione riguarda il Markdown, la matrice, il piano e le note wiki collegate. Non è stato ispezionato un PDF impaginato. Non è stata eseguita una review umana firmata da esperto ACN/Cloud PA, cloud architect, platform engineer, DevOps/SRE engineer, specialista backup/DR, responsabile business continuity o DPO. Il caso non è stato riprodotto su una piattaforma reale e le procedure di migrazione e ripristino non sono state eseguite.
+La revisione ha controllato il Markdown e le fonti consolidate disponibili; non ha eseguito un'ispezione del PDF impaginato né una nuova consultazione in tempo reale dei siti istituzionali. La conferma umana conclusiva resta riservata allo step 24 della pipeline.

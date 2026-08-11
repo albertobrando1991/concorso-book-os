@@ -7,7 +7,7 @@ domain: "concorsi pubblici italiani"
 source_refs: ["sources/modulo-m-tr01-ict-digitale-cybersecurity-dati-vol-08", "sources/campione-bandi-ict-pa-vol-08-2024-2026", "sources/audit-bandi-rappresentativi-m-tr01-2026-07-28", "sources/logica-volumi-copertura-concorsobook-v4"]
 book_refs: ["m-tr01-ict-trasformazione-digitale"]
 confidence: 0.92
-updated_at: 2026-07-30
+updated_at: 2026-08-10
 created_at: 2026-07-28
 review_required: false
 canonical: true
@@ -310,6 +310,40 @@ L'assenza di blocker riguarda esclusivamente la copertura didattica dello step 0
 | Verifica, validazione e test | parziale | distinte verifica e validazione; sviluppati livelli, casi di test, difetti, failure, gravità, priorità ed evidenze | completo | cap. 06: «Verifica, validazione e test», matrice requisito-test-evidenza ed esercizio 1 |
 | Contratti API ed evoluzione | parziale | sviluppati contratto, interazioni sincrone e asincrone, REST/SOAP, HTTP, idempotenza, errori, OpenAPI, compatibilità, versionamento, deprecazione e API management | completo | cap. 06: «API come contratto», «Evoluzione e gestione delle API», laboratorio di disegno API ed esercizio 2 |
 | Interoperabilità PA ed e-service | parziale | sviluppati livelli di interoperabilità, ModI, ruoli PDND, e-service, finalità, once only e raccordo europeo; aggiunto caso completo | completo | cap. 06: «Interoperabilità ed e-service nella PA», caso della verifica anagrafica, domanda-trappola ed esercizio 3 |
+## Retrofit formato 2 — mappatura capitolo 07
+
+| Nucleo ID | Riga canonica | Dimensioni verificabili | Applicazione/output | Verifica | Stato |
+| --- | --- | --- | --- | --- | --- |
+| `N-TR01-07-01` | Cloud e DevOps | definizione NIST, caratteristiche, modelli, distribuzione e responsabilità condivisa | confronto motivato IaaS/PaaS/SaaS | quiz 1 | completo |
+| `N-TR01-07-02` | Cloud e DevOps | hypervisor, VM, immagini, snapshot, container, runtime e orchestrazione | confronto VM-container | quiz 2 | completo |
+| `N-TR01-07-03` | Cloud e DevOps | classificazione, assessment, strategie, portabilità, uscita, cutover e rollback | piano di migrazione comunale | caso ragionato e domanda orale | completo |
+| `N-TR01-07-04` | Cloud e DevOps | DevOps, CI/CD, artefatti, IaC, deployment, release e rollback | catena di rilascio con evidenze | quiz 3 | completo |
+| `N-TR01-07-05` | Cloud e DevOps | metriche, log, trace, alert, capacità, autoscaling e governo del consumo | diagnosi del degrado | quiz 4 e mini-esercizio | completo |
+| `N-TR01-07-06` | Cloud e DevOps | disponibilità, copie, replica, RPO, RTO, DR e business continuity | piano di recupero e continuità | quiz 5-7 e domanda-trappola | completo |
+
+La mappatura scompone la riga canonica Cloud e DevOps senza sostituirla. I sei nuclei sono verificati contro il testo: ciascuno sviluppa teoria prima degli esercizi e supera la soglia di 600 parole.
+
+### Checklist dimensionale capitolo 07
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso prova | Errore | Verifica | Tracciabilità |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| `N-TR01-07-01` | ✓ modello cloud | ✓ erogazione e responsabilità | ✓ Cloud PA e servizi | ✓ cinque caratteristiche, servizi, distribuzione | ✓ cloud pubblico/PA; scalabilità/elasticità | ✓ confine variabile di gestione | ✓ matrice SaaS | ✓ confronto motivato | ✓ provider responsabile di tutto | ✓ quiz 1 | ✓ frontmatter e riferimenti leggibili |
+| `N-TR01-07-02` | ✓ VM e container | ✓ isolamento ed esecuzione | ✓ infrastruttura e piattaforma | ✓ host, guest, immagine, registry, Pod | ✓ VM/container; snapshot/backup | ✓ capacità e persistenza da progettare | ✓ scelta del workload | ✓ schema host-guest | ✓ container come VM leggera | ✓ quiz 2 | ✓ frontmatter e riferimenti leggibili |
+| `N-TR01-07-03` | ✓ assessment e migrazione | ✓ scelta della destinazione | ✓ Strategia Cloud Italia e metodo ACN | ✓ dati, dipendenze, R, uscita, cutover | ✓ rehost/replatform/refactor; portabilità/reversibilità | ✓ vincoli e rollback | ✓ caso comunale | ✓ piano di migrazione | ✓ prodotto prima della classificazione | ✓ caso e domanda orale | ✓ frontmatter e riferimenti leggibili |
+| `N-TR01-07-04` | ✓ DevOps, CI/CD e IaC | ✓ modifiche ripetibili | ✓ sviluppo, rilascio ed esercizio | ✓ source, build, test, artefatto, ambienti | ✓ integration/delivery/deployment; deployment/release | ✓ evidenze e reversibilità | ✓ catena di rilascio | ✓ risposta orale | ✓ automazione senza controlli | ✓ quiz 3 | ✓ frontmatter e riferimenti leggibili |
+| `N-TR01-07-05` | ✓ osservabilità | ✓ diagnosi e gestione | ✓ esercizio del servizio | ✓ metriche, log, trace, alert, capacità, costi | ✓ monitoraggio/osservabilità | ✓ priorità e decisioni misurabili | ✓ rallentamento del portale | ✓ diagnosi guidata | ✓ componenti attivi uguale servizio funzionante | ✓ quiz 4 e esercizio | ✓ frontmatter e riferimenti leggibili |
+| `N-TR01-07-06` | ✓ resilienza e recupero | ✓ continuità della funzione | ✓ analisi d'impatto e piano | ✓ ridondanza, copie, RPO/RTO, DR, BC | ✓ replica/backup; DR/BC | ✓ perdita dati e tempi di recupero | ✓ portale comunale | ✓ piano di recupero | ✓ replica sostituisce backup | ✓ quiz 5-7 | ✓ frontmatter e riferimenti leggibili |
+
+### Delta step 10 — capitolo 07 formato 2
+
+| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
+| --- | --- | --- | --- | --- |
+| `N-TR01-07-01` | parziale | completati quadro, modelli e matrice di responsabilità | completo | heading omonimo, tabella dei modelli e quiz 1 |
+| `N-TR01-07-02` | parziale | completati VM, container, persistenza e orchestrazione | completo | heading omonimo, confronto VM-container e quiz 2 |
+| `N-TR01-07-03` | parziale | completati assessment, migrazione, uscita e rollback | completo | heading omonimo, caso ragionato e checklist |
+| `N-TR01-07-04` | parziale | completati DevOps, pipeline, IaC e rilascio controllato | completo | heading omonimo e quiz 3 |
+| `N-TR01-07-05` | parziale | completati osservabilità, capacità e costi | completo | heading omonimo, esempio di degrado e quiz 4 |
+| `N-TR01-07-06` | parziale | completati recupero, RPO/RTO, DR e continuità | completo | heading omonimo, domanda-trappola e quiz 5-7 |
 ## Delta step 10 - capitolo 07
 
 | Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
