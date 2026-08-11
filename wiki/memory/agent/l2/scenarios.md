@@ -5184,3 +5184,11 @@
 - atoms:
   - mem-20260811113207-4xmh6t | workflow | Procedi con il prossimo step della pipeline aggiornata VOL-10.
   - mem-20260811113207-18ej86 | result | Esito codex-vol10-cap08-step09: Procedi con il prossimo step della pipeline aggiornata VOL-10. -> Completato step 09 capitolo 08: riscrittura Format 2 pubblicabile con 4826 parole, sei nuclei da 628-709 parole, sei quiz, un caso guidato e un blocco verifica; chapter-lint senza blocker o warning e 155 test gate verdi.
+
+## 2026-08-11T11:36:00.477Z - VOL-10/M-TR03
+
+- conversation_id: conv-20260811113600-wz9kh1
+- route: codex-vol10-cap08-step10
+- l0: l0/conv-20260811113600-wz9kh1.md
+- atoms:
+  - mem-20260811113600-f8fojj | result | Esito codex-vol10-cap08-step10: Procedi con il prossimo step della pipeline aggiornata VOL-10. -> Completato step 10 capitolo 08: matrice Format 2 aggiornata con sei nuclei, checklist delle undici dimensioni e delta di copertura; nessuna integrazione necessaria al testo.
