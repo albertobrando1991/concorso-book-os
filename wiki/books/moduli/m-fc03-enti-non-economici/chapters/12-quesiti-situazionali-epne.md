@@ -61,7 +61,7 @@ Qui occorre ragionare come un dipendente pubblico che conosce competenza, proced
 
 Negli EPNE questa prova assume un taglio preciso. Le situazioni non sono astratte: utente che chiede l'esito di una prestazione, lavoratore che chiede informazioni su una pratica INAIL, impresa che sollecita una posizione, candidato che pretende anticipazioni su un concorso, collega che chiede di saltare una verifica, responsabile assente, dato personale da proteggere, richiesta urgente da gestire senza promettere ciò che non dipende dall'ufficio.
 
-Il capitolo generale del Metodo BANDO ha già spiegato la logica dei quesiti situazionali. In questo capitolo quella logica viene applicata agli enti pubblici non economici. La domanda guida è:
+Il capitolo 18 del Metodo BANDO, *Quesiti situazionali e soft skills*, spiega la logica generale della prova. Qui quella logica viene applicata agli enti pubblici non economici. La domanda guida è:
 
 > davanti a una scena di lavoro EPNE, so scegliere una condotta che concili servizio, legalità, competenza, privacy, collaborazione e tracciabilità?
 
@@ -103,7 +103,8 @@ La differenza rispetto al caso pratico del capitolo 11 è il fuoco della prova. 
 | Rischio | Scrivere teoria senza soluzione. | Scegliere buon senso generico. |
 | Criterio forte | Procedimento, competenza, dati, istruttoria, esito. | Legalità, servizio, integrità, collaborazione, tracciabilità. |
 
-Negli enti pubblici non economici gli scenari più probabili ruotano intorno a cinque ambienti: sportello, back office, servizi digitali, rapporto con imprese e utenti, organizzazione interna. INPS richiama spesso prestazioni, posizioni, contributi, utenti e canali di servizio. INAIL richiama evento lavorativo, assicurazione, prevenzione, rapporto con lavoratori e imprese, dati anche delicati. Gli altri EPNE possono richiamare servizi istituzionali, richieste documentali, concorsi, accesso, comunicazione e gestione interna.
+Nel capitolo gli scenari sono organizzati intorno a cinque ambienti: sportello, back office, servizi digitali, rapporto con imprese e utenti, organizzazione interna. Gli esempi INPS richiamano prestazioni, posizioni, contributi, utenti e canali di servizio. Quelli INAIL riguardano evento lavorativo, assicurazione, prevenzione, rapporto con lavoratori e imprese, compresi dati relativi alla salute. Gli altri EPNE possono richiamare servizi istituzionali, richieste documentali, concorsi, accesso, comunicazione e gestione interna.
+
 ### Anatomia della scena e conseguenze della scelta
 
 La classificazione aiuta anche a gestire il tempo. Nel situazionale il candidato isola il comportamento osservabile, verifica ruolo e vincoli, poi lo confronta con le alternative. Ricostruire norme o fasi non richieste consuma tempo e aumenta il rischio di aggiungere fatti assenti. La motivazione deve riguardare la qualità della condotta proposta.
@@ -192,7 +193,7 @@ Un utente insistente, un conoscente, un collega o un candidato non possono otten
 
 La terza domanda è: l'opzione protegge dati personali, dati di terzi, informazioni sanitarie o documenti d'ufficio?
 
-Nel contesto INPS e INAIL il rischio privacy è alto. Posizioni previdenziali, pratiche assicurative, dati sanitari, dati di lavoratori, imprese e familiari non possono essere comunicati per telefono, chat, conoscenza personale o semplice urgenza dichiarata. La risposta efficace orienta al canale corretto e limita le informazioni a ciò che può essere comunicato.
+Nel contesto INPS e INAIL il rischio privacy è alto. Posizioni previdenziali, pratiche assicurative, dati relativi alla salute, dati di lavoratori, imprese e familiari non possono essere comunicati per telefono, chat, conoscenza personale o semplice urgenza dichiarata. La risposta efficace orienta al canale corretto e limita le informazioni a ciò che può essere comunicato.
 
 ### 4. Orientamento al servizio
 
@@ -211,6 +212,7 @@ Il dipendente non deve risolvere tutto da solo né rimanere fermo. Se il problem
 La sesta domanda è: l'opzione produce un'azione accurata, proporzionata e tracciabile?
 
 Nei quesiti EPNE sono deboli le risposte improvvisate: promesse verbali, email personali, telefonate non registrate, correzioni fuori sistema, passaggi informali di fascicolo. La condotta efficace lascia traccia, rispetta priorità reali e non sacrifica qualità o dati per fare prima.
+
 ### Procedura in sette passaggi
 
 La gerarchia funziona se viene applicata nello stesso ordine. Una routine breve evita di cambiare criterio a ogni domanda.
@@ -249,6 +251,7 @@ Le opzioni vanno lette per i loro verbi. «Promette», «condivide», «ignora»
 | Favoritismo informativo | "È un conoscente, posso controllare." | Viola imparzialità e rischia accesso improprio. |
 
 Una buona regola pratica è: se l'opzione è rapida ma non verificabile, probabilmente è debole.
+
 ### Le tensioni da comporre
 
 I distrattori più insidiosi non sono assurdi: presentano spesso un valore corretto portato all'eccesso. Per riconoscerli bisogna individuare la tensione e cercare una composizione proporzionata.
@@ -315,7 +318,7 @@ D. Chiedere al dipendente conosciuto dall'utente di verificare rapidamente la pr
 
 Perché: unisce servizio, competenza e imparzialità. A e D introducono accesso informale e possibile favoritismo. B rispetta il limite ma non orienta.
 
-### Quesito 2 - Pratica INAIL e dati sanitari
+### Quesito 2 - Pratica INAIL e dati relativi alla salute
 
 **Scenario.** Un lavoratore chiama l'ufficio per avere informazioni su una pratica collegata a un evento lavorativo. Chiede di ricevere subito per telefono dettagli contenuti nel fascicolo, perché deve parlarne con il datore di lavoro.
 
@@ -518,6 +521,7 @@ Prima di chiudere il capitolo, verifica di saper rispondere a queste domande:
 - so evitare promesse di esito e accessi informali?
 - so motivare la risposta scelta in una riga?
 - so aggiornare il diario errori dopo ogni simulazione?
+
 ### Riferimenti normativi e professionali essenziali
 
 Il quadro comportamentale generale deriva dal D.P.R. 16 aprile 2013, n. 62, come modificato dal D.P.R. 13 giugno 2023, n. 81. Nei quesiti su dati e comunicazioni rilevano inoltre i principi del Regolamento (UE) 2016/679, in particolare liceità, minimizzazione, integrità, riservatezza e responsabilizzazione. Il decreto del Ministro per la pubblica amministrazione del 28 giugno 2023 offre il riferimento per le competenze trasversali del personale non dirigenziale.
