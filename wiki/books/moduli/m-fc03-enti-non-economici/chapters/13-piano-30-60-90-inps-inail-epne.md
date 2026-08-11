@@ -107,7 +107,7 @@ Nei primi 30 giorni il candidato deve mettere ordine. La priorità è capire il 
 
 ### Settimana 1: bando e perimetro
 
-La prima settimana serve a trasformare il bando in mappa. Usa il capitolo 10 come strumento: fonte ufficiale, ente, soggetto gestore, profilo, prove, punteggi, materie, allegati, avvisi e canali da monitorare.
+La prima settimana serve a trasformare il bando in mappa. Usa il capitolo 10, «Bando Decoder EPNE», come strumento: fonte ufficiale, ente, soggetto gestore, profilo, prove, punteggi, materie, allegati, avvisi e canali da monitorare.
 
 Poi classifica le materie:
 
@@ -236,7 +236,7 @@ Il diario errori del modulo M-FC03 non è una semplice lista di quiz sbagliati. 
 | Materia | Confondo previdenza INPS, assicurazione INAIL, procedimento, privacy o bilancio. | Creo scheda differenze e 10 domande secche. |
 | Output | So la teoria ma fallisco quiz, orale, caso o situazionale. | Alleno la forma della prova, non solo il contenuto. |
 
-Ogni errore deve avere una riga di recupero. Una riga utile non dice "ripassare INAIL". Dice: "entro venerdi riscrivere mappa evento lavorativo - assicurazione - prevenzione - prestazione e fare un caso in 20 righe".
+Ogni errore deve avere una riga di recupero. Una riga utile non dice "ripassare INAIL". Dice: "entro venerdì riscrivere mappa evento lavorativo - assicurazione - prevenzione - prestazione e fare un caso in 20 righe".
 
 Una simulazione utile genera sempre tre risultati: una misura della prestazione, una diagnosi degli errori e una decisione di studio. Il punteggio da solo non basta, perché due risultati identici possono nascondere problemi opposti. Chi perde punti per lentezza deve allenare selezione e tempi; chi sbaglia il perimetro deve tornare alle fonti; chi conosce la regola ma non la applica deve lavorare su casi e situazionali.
 
@@ -265,7 +265,7 @@ Esercizi prioritari per INPS:
 
 ### Se prepari INAIL
 
-Metti presto al centro assicurazione sociale, prevenzione, prestazioni, eventi lavorativi, rapporto con lavoratori e imprese, dati personali e, quando il bando lo richiede, salute e sicurezza. Se il bando contiene materie integrative, usa l'Appendice F senza trasformarla in un secondo manuale non proporzionato.
+Metti presto al centro assicurazione sociale, prevenzione, prestazioni, eventi lavorativi, rapporto con lavoratori e imprese, dati personali e, quando il bando lo richiede, salute e sicurezza. Se il bando contiene materie integrative, usa l'Appendice F, «Materie integrative INAIL/RIPAM», senza trasformarla in un secondo manuale non proporzionato.
 
 Esercizi prioritari per INAIL:
 
@@ -315,7 +315,7 @@ Un piano generico direbbe: "studio l'INAIL e poi ripasso il resto". Luca sceglie
 
 Nei primi 30 giorni Luca riprende amministrativo, pubblico impiego, privacy e logica. Riserva però blocchi specifici all'assicurazione sociale, alla prevenzione, alle prestazioni e al rapporto con lavoratori e imprese. Ogni settimana prepara una risposta orale breve e svolge un caso.
 
-Nei giorni 31-60 passa a simulazioni parziali: quiz a tempo, caso INAIL in 20 righe, situazionali su dati e comportamento, scheda su materie integrative richieste dal bando. Nel diario scopre che sbaglia spesso quando la domanda contiene dati personali o richieste informali. Crea quindi una regola di correzione: prima identita e canale, poi competenza, poi informazione consentita.
+Nei giorni 31-60 passa a simulazioni parziali: quiz a tempo, caso INAIL in 20 righe, situazionali su dati e comportamento, scheda su materie integrative richieste dal bando. Nel diario scopre che sbaglia spesso quando la domanda contiene dati personali o richieste informali. Crea quindi una regola di correzione: prima identità e canale, poi competenza, poi informazione consentita.
 
 Negli ultimi 30 giorni Luca non apre nuovi manuali. Simula prove, ripassa mappe deboli, controlla avvisi ufficiali una volta a settimana e aggiorna il piano se escono istruzioni. Il suo obiettivo non è sapere "tutto sull'INAIL", ma presentarsi con una preparazione coerente con bando, profilo e prove.
 
