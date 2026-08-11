@@ -57,13 +57,13 @@ last_compiled_from: [
 
 Nei concorsi per enti pubblici non economici, il quesito situazionale non chiede al candidato di essere genericamente gentile, rapido o severo. Chiede di scegliere il comportamento più coerente con un ruolo pubblico collocato in un ente di servizio: INPS, INAIL, ACI, ENAC, ISTAT, ASI, ENEA amministrativo, CRI o altro EPNE compatibile con il profilo messo a bando.
 
-Il punto non è rispondere come una persona qualunque davanti a un problema. Il punto è rispondere come un dipendente pubblico che conosce competenza, procedimento, riservatezza, imparzialità, doveri d'ufficio, canali ufficiali e orientamento all'utente. Un candidato può conoscere diritto amministrativo, pubblico impiego e privacy, ma perdere punti se sceglie una condotta emotiva, informale, favoritistica o non tracciabile.
+Qui occorre ragionare come un dipendente pubblico che conosce competenza, procedimento, riservatezza, imparzialità, doveri d'ufficio, canali ufficiali e orientamento all'utente. Anche un candidato preparato in diritto amministrativo, pubblico impiego e privacy può perdere punti quando sceglie una condotta emotiva, informale, favoritistica o non tracciabile.
 
 Negli EPNE questa prova assume un taglio preciso. Le situazioni non sono astratte: utente che chiede l'esito di una prestazione, lavoratore che chiede informazioni su una pratica INAIL, impresa che sollecita una posizione, candidato che pretende anticipazioni su un concorso, collega che chiede di saltare una verifica, responsabile assente, dato personale da proteggere, richiesta urgente da gestire senza promettere ciò che non dipende dall'ufficio.
 
 Il capitolo generale del Metodo BANDO ha già spiegato la logica dei quesiti situazionali. In questo capitolo quella logica viene applicata agli enti pubblici non economici. La domanda guida è:
 
-> davanti a una scena di lavoro EPNE, so scegliere la condotta che tiene insieme servizio, legalità, competenza, privacy, collaborazione e tracciabilità?
+> davanti a una scena di lavoro EPNE, so scegliere una condotta che concili servizio, legalità, competenza, privacy, collaborazione e tracciabilità?
 
 ## Obiettivo del blocco
 
@@ -76,7 +76,7 @@ Alla fine del capitolo devi saper fare sei cose:
 5. allenarti su scenari INPS, INAIL e altri EPNE senza inventare regole ente-specifiche non presenti nel bando;
 6. trasformare ogni errore in una voce di diario, così da migliorare il punteggio nelle simulazioni successive.
 
-Il risultato atteso non è memorizzare una lista di buoni comportamenti, ma costruire un criterio di scelta ripetibile.
+L'obiettivo è costruire un criterio di scelta ripetibile, non memorizzare una lista di buoni comportamenti.
 
 ## Mappa BANDO
 
@@ -106,7 +106,7 @@ La differenza rispetto al caso pratico del capitolo 11 è il fuoco della prova. 
 Negli enti pubblici non economici gli scenari più probabili ruotano intorno a cinque ambienti: sportello, back office, servizi digitali, rapporto con imprese e utenti, organizzazione interna. INPS richiama spesso prestazioni, posizioni, contributi, utenti e canali di servizio. INAIL richiama evento lavorativo, assicurazione, prevenzione, rapporto con lavoratori e imprese, dati anche delicati. Gli altri EPNE possono richiamare servizi istituzionali, richieste documentali, concorsi, accesso, comunicazione e gestione interna.
 ### Anatomia della scena e conseguenze della scelta
 
-Questa classificazione serve anche a gestire il tempo. Nel situazionale il candidato deve isolare il comportamento osservabile, verificare se rispetta ruolo e vincoli, quindi confrontarne l'efficacia con le alternative. Ricostruire norme o fasi non richieste consuma tempo e aumenta il rischio di aggiungere fatti assenti. La risposta resta motivata, ma la motivazione riguarda la qualita della condotta proposta.
+La classificazione aiuta anche a gestire il tempo. Nel situazionale il candidato isola il comportamento osservabile, verifica ruolo e vincoli, poi lo confronta con le alternative. Ricostruire norme o fasi non richieste consuma tempo e aumenta il rischio di aggiungere fatti assenti. La motivazione deve riguardare la qualità della condotta proposta.
 
 Ogni quesito va scomposto prima di guardare quale lettera sembri più convincente. Lo **scenario** descrive il contesto; il **ruolo** stabilisce che cosa il candidato può fare; la **tensione** mette in conflitto due esigenze, per esempio rapidità e accuratezza; le **opzioni** propongono condotte alternative; la **richiesta** chiarisce se occorre scegliere la più efficace, la meno efficace oppure ordinare tutte le alternative.
 
@@ -147,7 +147,7 @@ Le competenze non operano isolate. Un dipendente può mostrare iniziativa e tutt
 
 Il framework richiama integrità, inclusione e sostenibilità come valori trasversali. Nel quesito, un valore deve tradursi in comportamento. L'**integrità** emerge quando il dipendente evita favori, accessi impropri, occultamento di errori e uso personale delle risorse. L'**inclusione** emerge quando comunica in modo comprensibile, considera una difficoltà senza creare deroghe arbitrarie e mantiene pari trattamento. La **sostenibilità** può riflettersi nell'uso responsabile di tempo, strumenti e risorse, senza sprechi o scorciatoie che spostino il problema su altri.
 
-Bisogna anche distinguere tre livelli:
+Vanno distinti tre livelli:
 
 1. la **competenza** è una capacità relativamente stabile, come collaborare o risolvere problemi;
 2. la **condotta** è l'azione osservabile nella scena, come segnalare un errore e proporre la correzione;
@@ -204,7 +204,7 @@ Legalità non significa freddezza. Una risposta corretta non liquida l'utente co
 
 La quinta domanda è: l'opzione coinvolge la persona giusta senza scaricare il problema?
 
-Il dipendente non deve fare tutto da solo. Ma non deve nemmeno rimanere fermo. Se il problema supera il proprio ruolo, la condotta forte è verificare il possibile, documentare, coinvolgere responsabile o ufficio competente e seguire la procedura interna.
+Il dipendente non deve risolvere tutto da solo né rimanere fermo. Se il problema supera il proprio ruolo, verifica ciò che può, documenta i passaggi, coinvolge il responsabile o l'ufficio competente e segue la procedura interna.
 
 ### 6. Accuratezza, priorità e tracciabilità
 
@@ -213,7 +213,7 @@ La sesta domanda è: l'opzione produce un'azione accurata, proporzionata e tracc
 Nei quesiti EPNE sono deboli le risposte improvvisate: promesse verbali, email personali, telefonate non registrate, correzioni fuori sistema, passaggi informali di fascicolo. La condotta efficace lascia traccia, rispetta priorità reali e non sacrifica qualità o dati per fare prima.
 ### Procedura in sette passaggi
 
-La gerarchia diventa utile quando viene applicata sempre nello stesso ordine. Una routine breve evita che il candidato cambi criterio a ogni domanda.
+La gerarchia funziona se viene applicata nello stesso ordine. Una routine breve evita di cambiare criterio a ogni domanda.
 
 1. **Leggi il ruolo** e limita la risposta ai poteri e alle informazioni disponibili.
 2. **Nomina il rischio principale**: dati, favoritismo, ritardo, conflitto, errore, sicurezza o servizio.
@@ -251,7 +251,7 @@ Le opzioni vanno lette per i loro verbi. «Promette», «condivide», «ignora»
 Una buona regola pratica è: se l'opzione è rapida ma non verificabile, probabilmente è debole.
 ### Le tensioni da comporre
 
-I distrattori migliori non sono sempre assurdi. Spesso presentano un valore corretto portato all'eccesso. Il candidato deve riconoscere la tensione e cercare una composizione proporzionata.
+I distrattori più insidiosi non sono assurdi: presentano spesso un valore corretto portato all'eccesso. Per riconoscerli bisogna individuare la tensione e cercare una composizione proporzionata.
 
 | Tensione | Estremo debole | Condotta equilibrata |
 | --- | --- | --- |
@@ -272,31 +272,31 @@ Quando uno scenario riguarda un possibile conflitto di interessi, non serve inve
 
 ### 1. Utente irritato allo sportello
 
-Lo scenario misura orientamento al servizio, gestione delle emozioni, competenza e tracciabilità. La risposta forte ascolta, verifica ciò che è consentito verificare, spiega il canale corretto e segnala il sollecito se necessario. Non promette tempi o esiti non governati dal dipendente.
+Lo scenario misura orientamento al servizio, gestione delle emozioni, competenza e tracciabilità. Il dipendente ascolta, verifica ciò che gli è consentito, spiega il canale corretto e segnala il sollecito se necessario. Non promette tempi o esiti che non può governare.
 
 ### 2. Richiesta telefonica su dati di una pratica
 
-Lo scenario misura privacy, riservatezza e comunicazione. La risposta forte verifica identità, titolo e canale corretto. Se non può comunicare dati, spiega come procedere. Non chiude il rapporto in modo brusco e non diffonde informazioni.
+Lo scenario misura privacy, riservatezza e comunicazione. Prima di dare informazioni occorre verificare identità, titolo e canale. Se i dati non possono essere comunicati, il dipendente spiega come procedere senza chiudere bruscamente il rapporto.
 
 ### 3. Pratica incompleta e utente fragile
 
-Lo scenario misura servizio e accuratezza. La risposta forte chiarisce quali documenti mancano, quale canale usare e quali sono i passaggi successivi, senza trasformare la difficoltà dell'utente in promessa di accoglimento.
+Lo scenario misura servizio e accuratezza. Una buona risposta chiarisce quali documenti mancano, quale canale usare e quali passaggi seguiranno, senza trasformare la difficoltà dell'utente in una promessa di accoglimento.
 
 ### 4. Impresa che sollecita una posizione
 
-Lo scenario misura imparzialità, gestione della pressione e procedimento. La risposta forte distingue informazioni generali, eventuale integrazione e accesso agli atti. Non invia fascicoli completi e non crea corsie preferenziali.
+Lo scenario misura imparzialità, gestione della pressione e procedimento. La condotta corretta distingue le informazioni generali dall'eventuale integrazione e dall'accesso agli atti. Non prevede l'invio indiscriminato del fascicolo né corsie preferenziali.
 
 ### 5. Collega che chiede una scorciatoia
 
-Lo scenario misura integrità, collaborazione e uso responsabile delle risorse. La risposta forte aiuta il collega a seguire la procedura, non presta credenziali, non corregge di nascosto e coinvolge il responsabile se l'errore o il rischio persiste.
+Lo scenario misura integrità, collaborazione e uso responsabile delle risorse. Si aiuta il collega a seguire la procedura, senza prestare credenziali o correggere di nascosto. Se l'errore o il rischio persiste, va coinvolto il responsabile.
 
 ### 6. Conflitto di interessi o conoscente
 
-Lo scenario misura imparzialità e astensione. La risposta forte evita trattamenti informali, segnala il possibile conflitto quando rilevante e indirizza il soggetto ai canali ordinari.
+Lo scenario misura imparzialità e astensione. Occorre evitare trattamenti informali, segnalare il possibile conflitto quando rilevante e indirizzare il soggetto ai canali ordinari.
 
 ### 7. Priorità tra pratiche
 
-Lo scenario misura gestione dei processi. La risposta forte valuta urgenza, scadenze, impatto sul servizio e indicazioni del responsabile. Non sceglie in base a chi insiste di più.
+Lo scenario misura la gestione dei processi. La priorità dipende da urgenza, scadenze, impatto sul servizio e indicazioni del responsabile, non dall'insistenza dell'interlocutore.
 
 ## N-FC03-12-05 · Simulazioni INPS, INAIL e altri EPNE
 
@@ -440,7 +440,7 @@ Marta evita la risposta impulsiva: "lo aiuto perché ha urgenza". Applica la gri
 | Collaborazione | Se necessario, rinvio all'ufficio o canale competente. |
 | Tracciabilità | Evitare comunicazione telefonica non verificata. |
 
-La risposta migliore sarà: spiegare con cortesia che non è possibile fornire dettagli senza verifica del titolo, indicare come presentare delega o richiesta tramite canale ufficiale, fornire solo informazioni generali e registrare o indirizzare la richiesta secondo le regole dell'ente.
+La risposta migliore spiega con cortesia che non è possibile fornire dettagli senza verificare il titolo. Indica poi come presentare la delega o la richiesta tramite il canale ufficiale, limita la comunicazione alle informazioni generali e registra o indirizza la richiesta secondo le regole dell'ente.
 
 La scelta funziona perché non sacrifica il servizio. Lo rende corretto.
 
@@ -448,7 +448,7 @@ La scelta funziona perché non sacrifica il servizio. Lo rende corretto.
 
 **Domanda:** che cosa distingue un buon comportamento situazionale in un ente pubblico non economico?
 
-**Risposta modello:** un buon comportamento situazionale tiene insieme ruolo pubblico e servizio. Il dipendente deve comprendere il problema, rispettare competenza e procedura, trattare tutti in modo imparziale, proteggere dati e informazioni, comunicare in modo chiaro, collaborare con colleghi e responsabili quando serve e lasciare traccia dei passaggi rilevanti. Negli EPNE il criterio è ancora più concreto, perché molte situazioni riguardano utenti, prestazioni, imprese, pratiche, servizi digitali e dati personali.
+**Risposta modello:** un buon comportamento situazionale concilia ruolo pubblico e servizio. Il dipendente comprende il problema, rispetta competenza e procedura, tratta tutti in modo imparziale, protegge dati e informazioni, comunica con chiarezza e coinvolge colleghi o responsabili quando serve. I passaggi rilevanti devono restare tracciabili. Negli EPNE il criterio assume una forma concreta, perché molte situazioni riguardano utenti, prestazioni, imprese, pratiche, servizi digitali e dati personali.
 
 ### Domanda-trappola
 
@@ -456,7 +456,7 @@ La scelta funziona perché non sacrifica il servizio. Lo rende corretto.
 
 **Risposta corretta:** no. Il dipendente deve aiutare l'utente, ma non può promettere esiti, comunicare dati senza titolo, saltare competenze o creare una corsia informale. La risposta più efficace è quella che orienta l'utente nel percorso corretto, riduce l'incertezza possibile e rispetta regole, canali e tracciabilità.
 
-**Perché è una trappola:** confonde orientamento al servizio con scorciatoia. Nei concorsi EPNE una condotta è forte solo se è utile e legittima.
+**Perché è una trappola:** confonde l'orientamento al servizio con una scorciatoia. Nei concorsi EPNE la condotta deve essere utile e legittima.
 
 ### Errore tipico
 
