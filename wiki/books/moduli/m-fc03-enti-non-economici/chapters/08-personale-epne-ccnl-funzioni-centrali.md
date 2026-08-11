@@ -55,7 +55,7 @@ last_compiled_from: [
 
 ## Apertura editoriale
 
-Nei concorsi per enti pubblici non economici il tema del personale non e' una parentesi contrattuale. E' il punto in cui il bando collega organizzazione dell'ente, profilo professionale, competenze richieste, doveri del dipendente, rapporto con utenti e responsabilita di servizio. Il candidato che legge solo l'elenco delle materie rischia di perdere una domanda decisiva: per quale ruolo sto concorrendo e quale comportamento professionale ci si aspetta da me?
+Nei concorsi per enti pubblici non economici, il tema del personale collega l'organizzazione dell'ente al profilo professionale richiesto dal bando. Comprende competenze, doveri del dipendente, rapporti con gli utenti e responsabilita di servizio. Il candidato che legge solo l'elenco delle materie rischia di perdere una domanda decisiva: per quale ruolo sto concorrendo e quale comportamento professionale ci si aspetta da me?
 
 Il personale EPNE opera dentro il quadro generale del lavoro pubblico, ma in un contesto specifico: INPS, INAIL e gli altri enti del perimetro M-FC03 gestiscono prestazioni, procedimenti, servizi digitali, dati personali, rapporti con cittadini, lavoratori, imprese e amministrazioni vigilanti. Per questo il pubblico impiego, il CCNL Funzioni Centrali, il codice di comportamento e le competenze trasversali devono essere studiati come strumenti per capire il lavoro reale, non come elenco di definizioni.
 
@@ -73,7 +73,7 @@ Alla fine del capitolo devi saper fare cinque cose:
 4. riconoscere il ruolo del codice di comportamento nei casi e nei quesiti situazionali;
 5. produrre una scheda profilo-doveri da usare per quiz, orale, casi pratici e presa di servizio.
 
-Il risultato atteso non e' diventare esperto di contrattazione collettiva. E' saper leggere il bando come promessa di lavoro: area, profilo, contesto, competenze, doveri, output.
+Non occorre diventare esperti di contrattazione collettiva. Occorre leggere nel bando il lavoro per il quale si concorre: area, profilo, contesto, competenze, doveri e output.
 
 ## Mappa BANDO
 
@@ -85,7 +85,7 @@ Il risultato atteso non e' diventare esperto di contrattazione collettiva. E' sa
 | D - Diario | Dove rischio confusione? | Diario errori su CCNL generico, mansioni inventate, doveri sottovalutati, profilo letto male. |
 | O - Output | Che cosa devo produrre? | Quiz/orale su area, profilo e doveri; mini-caso di condotta in ufficio EPNE. |
 
-La mappa serve a evitare un errore ricorrente: studiare pubblico impiego come materia astratta, senza collegarlo al profilo messo a bando.
+La mappa collega il pubblico impiego al profilo messo a bando e impedisce che la materia resti una sequenza astratta di istituti.
 
 ## N-FC03-08-01 · Il personale EPNE nel lavoro pubblico
 
@@ -93,7 +93,7 @@ Il personale degli enti pubblici non economici rientra nel sistema del lavoro pu
 
 Negli EPNE il lavoro amministrativo assume spesso un taglio di servizio. Un dipendente puo' essere chiamato a gestire domande, fascicoli, comunicazioni, controlli, pagamenti, prestazioni, pratiche digitali o rapporti con imprese e cittadini. Anche quando il profilo e' giuridico, economico, contabile o amministrativo, il contesto dell'ente incide sul linguaggio: previdenza, assicurazione sociale, servizi, controlli, performance, bilancio, accesso e privacy.
 
-La prima regola di studio e':
+Una regola pratica di studio e':
 
 > non leggere il profilo come titolo; leggilo come combinazione di area, funzioni, competenze e responsabilita.
 
@@ -167,21 +167,21 @@ Quando apri un bando EPNE, non limitarti alla denominazione del concorso. Compil
 | Doveri sensibili | Dati personali, rapporti con utenti, conflitto di interessi, uso strumenti, riservatezza? |
 | Output | Quale risposta orale, caso o checklist devo saper produrre? |
 
-Se non compili questa scheda, rischi di studiare il pubblico impiego come capitolo isolato. La scheda trasforma il contratto e il profilo in priorita di preparazione.
+La scheda impedisce di studiare il pubblico impiego come capitolo isolato: contratto e profilo diventano criteri per stabilire le priorita della preparazione.
 
 ### Dal concorso al lavoro nell'ente
 
 ### Accesso e rapporto di lavoro pubblico
 
-Il primo nucleo e' il passaggio dal concorso al rapporto di lavoro. Il concorso seleziona secondo regole pubbliche; il rapporto di lavoro inserisce il vincitore in un'organizzazione con doveri, responsabilita, gerarchie funzionali, obiettivi, procedure e vincoli. Il candidato deve saper spiegare che l'accesso tramite concorso non esaurisce la materia: dopo l'accesso iniziano ruolo, ufficio, profilo, formazione, obblighi di comportamento e responsabilita.
+Il concorso e il rapporto di lavoro sono due momenti distinti. Il concorso seleziona secondo regole pubbliche; il rapporto di lavoro inserisce il vincitore in un'organizzazione con doveri, responsabilita, gerarchie funzionali, obiettivi, procedure e vincoli. Il candidato deve saper spiegare che l'accesso tramite concorso non esaurisce la materia: dopo l'accesso iniziano ruolo, ufficio, profilo, formazione, obblighi di comportamento e responsabilita.
 
 ### Organizzazione dell'ente
 
-Il secondo nucleo collega personale e governance. Un dipendente EPNE non lavora nel vuoto: opera in un ufficio, dentro processi, obiettivi, documenti di programmazione, controlli e servizi. Per questo il capitolo 8 dialoga con i capitoli su governance, procedimenti, performance e PIAO. La domanda operativa e': quale pezzo dell'organizzazione deve servire questo profilo?
+Il personale va poi collocato nella governance dell'ente. Ogni dipendente opera in un ufficio, entro processi, obiettivi, documenti di programmazione, controlli e servizi. Per questo il capitolo 8 dialoga con i capitoli su governance, procedimenti, performance e PIAO. La domanda operativa e': quale pezzo dell'organizzazione deve servire questo profilo?
 
 ### Profilo, competenze e responsabilita
 
-Il terzo nucleo riguarda le competenze attese. Le fonti sulle competenze trasversali della PA mostrano che il reclutamento pubblico valuta sempre piu' anche il modo in cui il candidato agisce: consapevolezza del contesto, soluzione dei problemi, comunicazione, collaborazione, orientamento al servizio, accuratezza, affidabilita, gestione delle risorse, integrita. Nei concorsi EPNE queste competenze si traducono in casi su utenti, dati, scadenze, sportello, back office e priorita.
+Il profilo comprende anche le competenze attese. Il framework delle competenze trasversali della PA consente di valutare il modo in cui il candidato agisce: consapevolezza del contesto, soluzione dei problemi, comunicazione, collaborazione, orientamento al servizio, accuratezza, affidabilita, gestione delle risorse, integrita. Nei concorsi EPNE queste competenze si traducono in casi su utenti, dati, scadenze, sportello, back office e priorita.
 
 ### Funzione e lettura del sistema contrattuale
 
@@ -200,11 +200,11 @@ Per la preparazione conviene adottare tre livelli. Al primo stanno concetti stab
 **Uso nella prova:** struttura la risposta con quattro parole chiave: fonte, ambito, funzione, limite. Questo schema evita sia la risposta vaga sia l'eccesso di dettagli non richiesti.
 ## N-FC03-08-04 · Doveri, codice di comportamento e responsabilita professionale
 
-Il quarto nucleo e' il codice di comportamento. Non va studiato come moralismo o come elenco disciplinare. E' una bussola pratica: imparzialita, diligenza, lealta, correttezza, astensione in caso di conflitto, uso corretto delle risorse, riservatezza, rapporti con il pubblico, uso degli strumenti informatici e attenzione alla reputazione dell'amministrazione. Nei quiz e nei situazionali, molte opzioni sbagliate violano proprio questa bussola.
+Il codice di comportamento non e' un richiamo morale ne' un semplice elenco disciplinare. Fornisce criteri pratici di condotta: imparzialita, diligenza, lealta, correttezza, astensione in caso di conflitto, uso corretto delle risorse, riservatezza, rapporti con il pubblico, uso degli strumenti informatici e attenzione alla reputazione dell'amministrazione. Nei quiz e nei situazionali, molte opzioni sbagliate violano proprio questa bussola.
 
 ### CCNL e limiti della risposta concorsuale
 
-Il quinto nucleo e' il limite. Il CCNL e' una fonte importante, ma non tutto deve entrare nella preparazione allo stesso livello. Trattamento economico, progressioni, ferie, permessi, orario, istituti disciplinari puntuali e dettagli applicativi vanno verificati sul CCNL applicabile, sugli atti dell'ente e sul bando. Nel capitolo, li usiamo come aree da riconoscere, non come consulenza individuale.
+Il CCNL e' una fonte importante, ma i suoi contenuti non richiedono tutti lo stesso livello di approfondimento nella preparazione. Trattamento economico, progressioni, ferie, permessi, orario, istituti disciplinari puntuali e dettagli applicativi vanno verificati sul CCNL applicabile, sugli atti dell'ente e sul bando. Nel capitolo, li usiamo come aree da riconoscere, non come consulenza individuale.
 
 ### Materia comune, taglio EPNE
 
@@ -219,7 +219,7 @@ Il pubblico impiego e' gia' materia del libro base. Nel modulo M-FC03 non si dup
 | CCNL e contrattazione | Distinguere comparto, area, profilo e amministrazione; rinviare i dettagli al CCNL applicabile. |
 | Competenze trasversali | Rispondere a situazionali su servizio, collaborazione, accuratezza, integrita e gestione dei processi. |
 
-Questa tabella e' il cuore del capitolo. Il candidato non deve studiare "piu' pubblico impiego"; deve studiarlo meglio, cioe' collegato al ruolo EPNE.
+La tabella sintetizza il criterio del capitolo: il pubblico impiego va studiato in relazione al ruolo EPNE, selezionando le nozioni che aiutano a leggere profilo, ufficio e condotta.
 
 ### Profilo EPNE e condotta professionale
 
@@ -233,7 +233,7 @@ In un ente pubblico non economico, la condotta professionale si misura su situaz
 - una scadenza si avvicina e il fascicolo e' incompleto;
 - un errore interno deve essere segnalato senza cercare un capro espiatorio.
 
-In tutti questi casi, l'opzione corretta non e' quella piu' simpatica o piu' rapida. E' quella che tiene insieme legalita, competenza, servizio, riservatezza, collaborazione, tracciabilita e responsabilita. Il profilo professionale non descrive solo che cosa sai; descrive anche come devi agire.
+In queste situazioni, la risposta va valutata per la sua coerenza con legalita, competenza, servizio, riservatezza, collaborazione, tracciabilita e responsabilita. Cortesia e rapidita, da sole, non bastano. Il profilo professionale non descrive solo che cosa sai; descrive anche come devi agire.
 
 ### Doveri come criteri di decisione
 
@@ -286,7 +286,7 @@ Quando due opzioni sembrano entrambe plausibili, confrontale su cinque criteri: 
 
 Sara prepara un concorso per funzionario amministrativo in un ente pubblico non economico. Nel bando trova area, profilo, materie di diritto amministrativo, pubblico impiego, privacy, informatica, elementi sull'ente e quesiti situazionali. All'inizio pensa di studiare pubblico impiego solo dal manuale generale e di leggere il CCNL all'ultimo momento.
 
-Il rischio e' arrivare alla prova con definizioni corrette ma senza collocazione professionale.
+Senza questo collegamento, si arriva alla prova con definizioni corrette ma incapaci di descrivere il ruolo professionale.
 
 Con il Metodo BANDO, Sara procede cosi':
 
@@ -298,7 +298,7 @@ Con il Metodo BANDO, Sara procede cosi':
 
 Poi simula un quesito: un utente insiste per ottenere informazioni su una pratica di un familiare e dice di conoscere un dipendente dell'ente. La risposta corretta non e' accontentare l'utente per cortesia, ne' respingerlo in modo brusco. Sara deve verificare titolo e legittimazione, tutelare i dati, usare i canali corretti, non promettere esiti, orientare l'utente e, se necessario, coinvolgere il responsabile.
 
-Questa e' la differenza tra sapere il pubblico impiego e saperlo usare in un ente.
+Il caso mostra come le regole del pubblico impiego orientino una decisione concreta nell'ente.
 
 ### Strumento operativo: scheda profilo-doveri
 
@@ -319,7 +319,7 @@ Compila questa scheda appena apri un bando EPNE.
 | Un caso pratico da simulare | |
 | Una domanda orale sul profilo | |
 
-La scheda non serve solo per studiare. Serve anche a evitare domande orali generiche: quando sai collocare il profilo, parli come candidato informato e non come lettore di un manuale qualsiasi.
+La scheda organizza lo studio e rende meno generiche le risposte orali. Collocare correttamente il profilo permette di argomentare a partire dal bando e dal contesto dell'ente.
 
 ### Domanda da commissario
 
