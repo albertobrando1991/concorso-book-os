@@ -11,12 +11,12 @@ book_refs: ["m-tr03-tecnico-ingegneristico", "vol-10-tecnico-ingegneristico-terr
 confidence: 0.91
 updated_at: 2026-08-11
 created_at: 2026-07-29
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "m-tr03", "vol-10", "urbanistica", "format-2"]
 book_id: m-tr03-tecnico-ingegneristico
 outline_section: 5
-draft_stage: written
+draft_stage: editorially-reviewed
 format_version: 2
 dati_operativi: []
 module_code: M-TR03

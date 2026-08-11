@@ -5085,3 +5085,11 @@
 - l0: l0/conv-20260811095523-1w1gqdb.md
 - atoms:
   - mem-20260811095523-1kb116c | result | Esito codex-vol10-cap05-step11-humanizer: Procedi con il prossimo step della pipeline aggiornata di VOL-10. -> Completato step 11 capitolo 05: doppia passata Humanizer con correzioni mirate a contrasti meccanici, aperture prevedibili e anafore; preservati significato, struttura, source_refs, riferimenti normativi, quiz e caso;...
+
+## 2026-08-11T09:58:02.258Z - VOL-10
+
+- conversation_id: conv-20260811095802-nxnw35
+- route: codex-vol10-cap05-step12-review
+- l0: l0/conv-20260811095802-nxnw35.md
+- atoms:
+  - mem-20260811095802-zzb0vi | result | Esito codex-vol10-cap05-step12-review: Procedi con il prossimo step della pipeline aggiornata di VOL-10. -> Completato step 12 capitolo 05: revisione editoriale totale con checklist a 30 punti, test dello studente e controllo ufficiale dei riferimenti nazionali; report aggiornato al Formato 2, nessun errore aperto, giudizio...
