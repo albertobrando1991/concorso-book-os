@@ -5167,3 +5167,11 @@
 - l0: l0/conv-20260811105349-1ghvtgb.md
 - atoms:
   - mem-20260811105349-iyo4of | result | Esito pipeline-volume/step-12: Procedere con il prossimo step della pipeline aggiornata per VOL-10. -> Completato step 12 capitolo 07: revisione editoriale totale con checklist a 30 punti, copertura v4 e test dello studente; report Format 2 senza errori aperti, review-report verde, 155 test superati, capitolo editorial...
+
+## 2026-08-11T10:56:26.623Z - VOL-10
+
+- conversation_id: conv-20260811105626-ylwx78
+- route: pipeline-volume/step-08
+- l0: l0/conv-20260811105626-ylwx78.md
+- atoms:
+  - mem-20260811105626-1b3yt10 | result | Esito pipeline-volume/step-08: Procedere con il prossimo step della pipeline aggiornata per VOL-10. -> Completato step 08 capitolo 08: piano Format 2 con sei nuclei, budget 4600-5000 parole, sei quiz, verifiche vicine, microcasi e caso integrato; fonti e audit automatici definiti.

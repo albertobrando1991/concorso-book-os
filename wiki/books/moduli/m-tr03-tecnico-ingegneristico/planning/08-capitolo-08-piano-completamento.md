@@ -1,266 +1,199 @@
+---
+id: m-tr03-capitolo-08-piano-completamento
+type: editorial_plan
+title: "Piano di completamento — Capitolo 08"
+status: ready
+domain: lavori pubblici
+book_refs: ["m-tr03-tecnico-ingegneristico", "vol-10-tecnico-ingegneristico-territorio-lavori-pubblici"]
+created_at: 2026-07-29
+updated_at: 2026-08-11
+review_required: false
+canonical: false
+tags: ["specialist-module-plan", "m-tr03", "vol-10", "format-2", "chapter-08"]
+---
+
 # Piano di completamento — Capitolo 08
 
-## Target
+## Target e contratto
 
 `chapters/08-direzione-lavori-esecuzione.md`
 
-## Base documentale letta
+Il capitolo deve passare dal testo legacy di circa 2.230 parole al **Formato 2**. Il budget operativo è **4.600-5.000 parole**, articolato in **sei nuclei da almeno 600 parole**, con sei quiz commentati, verifiche vicine, un caso integrato e strumenti utilizzabili nelle prove. La soglia tecnica di 3.000 parole non sostituisce la copertura di consegna, soggetti, ordini, controlli, modifiche, sospensioni, riserve, sicurezza e ultimazione.
 
-- indice, scheda pipeline e matrice di copertura di `VOL-10`;
-- indice, piano editoriale e matrice di `M-TR03`;
-- capitoli 2, 4 e 7, per procedimento tecnico, controlli strutturali e passaggio dal progetto all’esecuzione;
-- capitolo sui contratti pubblici essenziali di `VOL-01`;
-- source note sul D.Lgs. 36/2023 nel testo vigente e sul ciclo dei contratti;
-- source note generale sul D.Lgs. 81/2008;
-- topic su contratti pubblici, progettazione e sicurezza strutturale;
-- campione ufficiale dei bandi tecnici.
+## Base documentale e stato iniziale
 
-Il file del capitolo 8 non esiste. Il wiki copre il ciclo generale e la sicurezza sul lavoro, ma non dispone ancora di una source note specialistica consolidata sull’esecuzione dei lavori, sull’Allegato II.14 e sul Titolo IV del D.Lgs. 81/2008. Tale consolidamento è bloccante per lo step di scrittura.
+Sono stati letti il capitolo esistente, l'indice e la Bibbia M-TR03, la matrice v4, la scheda VOL-10, i capitoli contigui, la source note specialistica su D.Lgs. n. 36/2023, Allegato II.14 e Titolo IV del D.Lgs. n. 81/2008, la source note generale sul Codice e il topic consolidato su direzione lavori ed esecuzione.
 
-## Nuclei assegnati
+Il testo legacy è una buona base: segue la fase dalla consegna all'ultimazione, distingue RUP, DL, impresa e CSE, tratta ordini, controlli, modifiche, sospensioni, riserve e sicurezza e contiene un caso sulla scuola. Non dichiara però `format_version: 2`, non usa Nucleo ID, resta sotto la densità richiesta e non contiene sei quiz commentati né verifiche distribuite. Nessun nucleo è quindi già completo rispetto al contratto aggiornato, anche se tutti dispongono di contenuto valido da conservare e sviluppare.
 
-1. passaggio dal contratto stipulato all’avvio dell’esecuzione;
-2. consegna dei lavori e verbale;
-3. direzione dei lavori e ufficio di direzione;
-4. rapporti tra RUP, direttore dei lavori, impresa e coordinatori della sicurezza;
-5. ordini di servizio, verbali e comunicazioni;
-6. controllo tecnico, amministrativo e contabile dell’esecuzione;
-7. accettazione e controllo dei materiali;
-8. tempi, cronoprogramma, ritardi e penali al livello essenziale;
-9. sospensioni e ripresa;
-10. modifiche e varianti in corso d’opera;
-11. contestazioni, riserve e tracciabilità;
-12. sicurezza del cantiere, PSC, POS e coordinamento;
-13. subappalto e soggetti presenti in cantiere come interfaccia, senza duplicare `VOL-09`;
-14. conclusione dei lavori e raccordo con contabilità, collaudo e manutenzione;
-15. caso tecnico, checklist del direttore dei lavori e risposta orale.
-
-## Stato iniziale
-
-La riga della matrice è `parziale`: collocazione e applicazioni sono previste, ma mancano teoria, verifica dell’apprendimento e fonti specialistiche consolidate.
-
-## Nuclei già completi
-
-Nessun nucleo specialistico del capitolo 8 è completo nel relativo file, che non esiste.
-
-Sono disponibili prerequisiti riusabili:
-
-- ciclo contrattuale, RUP e distinzione fra affidamento ed esecuzione in `VOL-01`;
-- istruttoria, sopralluogo, verbale, relazione, fascicolo e responsabilità nel capitolo 2;
-- controlli sui materiali, sicurezza strutturale e distinzione fra collaudo statico e tecnico-amministrativo nel capitolo 4;
-- progetto esecutivo, verifica e validazione nel capitolo 7.
-
-Questi nuclei vanno richiamati senza duplicarli. Il capitolo deve restare autonomo su direzione lavori, consegna, controlli, ordini, modifiche, sospensioni, riserve e sicurezza del cantiere.
-
-## Nuclei da sviluppare
-
-1. **Esecuzione come fase contrattuale**: trasformazione del progetto e delle obbligazioni contrattuali in opera realizzata, con controllo di qualità, tempi e costi.
-2. **Avvio e consegna**: presupposti, funzione del verbale, stato dei luoghi, disponibilità delle aree e consegne disciplinate dalla fonte vigente.
-3. **Direttore dei lavori**: funzione di controllo tecnico, contabile e amministrativo nell’interesse della stazione appaltante, distinguendolo da RUP, impresa e collaudatore.
-4. **Ufficio di direzione**: assistenti e direttori operativi soltanto al livello necessario a comprendere riparto e coordinamento.
-5. **Ordini, verbali e giornale**: funzione probatoria e di tracciabilità; distinzione fra ordine di servizio, comunicazione informale e modifica contrattuale.
-6. **Controlli in corso d’opera**: conformità al progetto e al contratto, materiali, lavorazioni, quantità, tempi e documenti.
-7. **Cronoprogramma e ritardi**: lettura degli scostamenti, contestazione e raccordo con penali, senza fissare termini o soglie mobili non indispensabili.
-8. **Sospensione e ripresa**: presupposti, verbalizzazione, responsabilità e conseguenze essenziali.
-9. **Modifiche e varianti**: distinzione fra soluzione tecnica, ordine esecutivo e modifica autorizzata del contratto; raccordo con l’art. 120.
-10. **Contestazioni e riserve**: funzione, tempestività e tracciabilità, rinviando il dettaglio contabile al capitolo 10.
-11. **Sicurezza del cantiere**: committente/responsabile dei lavori, coordinatori, impresa affidataria/esecutrice, PSC e POS; distinzione fra controllo contrattuale e vigilanza di sicurezza.
-12. **Subappalto e presenze in cantiere**: solo per il controllo esecutivo e di sicurezza; disciplina dell’affidamento in `VOL-09`.
-13. **Chiusura**: ultimazione, documenti finali e consegna alla fase di collaudo, senza anticipare il capitolo 9.
-
-## Sezioni da conservare
-
-Non esiste testo pregresso da conservare. Restano vincolanti:
-
-- titolo e output previsti dall’indice;
-- lessico consolidato: RUP, direttore dei lavori, progetto esecutivo, verifica, validazione, collaudo statico e tecnico-amministrativo;
-- apparato Metodo BANDO: Obiettivo, Mappa BANDO, box, caso, domanda da commissario, domanda-trappola, errore tipico, esercizio, checklist, riferimenti e note di review;
-- distinzione fra principi stabili e regole mobili di Codice, Allegato II.14 e Titolo IV.
+La source note specialistica e il topic, indicati come mancanti nel vecchio piano, ora esistono e sostengono lo step 09 senza ricorso a fonti raw.
 
 ## Scelta architetturale
 
-Sono stati valutati tre impianti:
+Sono stati confrontati tre impianti:
 
-1. **Per soggetti**: chiarisce le competenze, ma frammenta il flusso e ripete gli stessi documenti.
-2. **Per documenti**: utile come prontuario, ma rischia di ridurre la direzione lavori a modulistica.
-3. **Per sequenza operativa**: contratto efficace → consegna → organizzazione del controllo → ordini e registrazioni → avanzamento → modifiche/sospensioni → sicurezza → ultimazione.
+1. **per soggetti**, chiaro sulle competenze ma incline a frammentare gli eventi;
+2. **per documenti**, utile come prontuario ma debole sul processo;
+3. **per sequenza operativa**, dalla consegna all'ultimazione.
 
-Si adotta il terzo. In ogni fase una tavola collega evento, soggetto, documento, controllo ed effetto. I ruoli sono spiegati quando intervengono; una mappa finale li ricompone.
+Si adotta il terzo: `contratto efficace → consegna → organizzazione del controllo → ordini e registrazioni → avanzamento → modifiche/sospensioni → sicurezza → ultimazione`. I ruoli vengono spiegati nel momento in cui agiscono; una tavola finale ricompone evento, soggetto, documento, controllo ed effetto.
 
-## Duplicazioni da evitare
+## Nuclei assegnati
 
-- principi, procedure di affidamento, qualificazione, subappalto generale e digitalizzazione già coperti in `VOL-01` e approfonditi in `VOL-09`;
-- teoria generale di procedimento, verbali, fascicolo e responsabilità del capitolo 2;
-- controlli strutturali, accettazione tecnica dei materiali e collaudo statico del capitolo 4;
-- progettazione, elaborati, verifica e validazione del capitolo 7;
+| Nucleo ID | Titolo e perimetro | Stato iniziale | Sviluppo richiesto | Verifica vicina |
+| --- | --- | --- | --- | --- |
+| `N-TR03-08-01` | Avvio dell'esecuzione e consegna | parziale | fase contrattuale, presupposti, disponibilità delle aree, stato dei luoghi, verbale, consegne disciplinate dalla fonte vigente | qualificare dati e riserve del verbale + quiz 1 |
+| `N-TR03-08-02` | Soggetti e riparto delle funzioni | parziale | RUP, DL, ufficio di direzione, impresa, CSE, autonomia tecnica, coordinamento e confini delle responsabilità | associare soggetto, funzione e documento + quiz 2 |
+| `N-TR03-08-03` | Direzione e controlli in corso d'opera | parziale | ordini di servizio, verbali, giornale, materiali, lavorazioni, qualità, tempi e controllo tecnico-amministrativo-contabile | seguire una lavorazione fra progetto, cantiere e registrazioni + quiz 3 |
+| `N-TR03-08-04` | Modifiche, sospensioni, contestazioni e riserve | parziale | ordine esecutivo, proposta, modifica autorizzata, art. 120, sospensione, ripresa, ritardi, contestazione e riserva | classificare un evento e il relativo percorso + quiz 4 |
+| `N-TR03-08-05` | Sicurezza del cantiere | parziale | committente/responsabile lavori, CSE, imprese, PSC, POS, interferenze, evoluzione del cantiere e distinzione DL/CSE | distinguere controllo contrattuale e sicurezza + quiz 5 |
+| `N-TR03-08-06` | Caso integrato e ultimazione | parziale | scuola in esecuzione, difformità, materiale, ritardo, modifica, interferenza, sospensione, documenti finali e passaggio al collaudo | caso ragionato, risposta orale e checklist + quiz 6 |
+
+## Checklist dimensionale per nucleo
+
+Ogni nucleo deve rendere riconoscibili:
+
+- definizione e funzione degli istituti;
+- inquadramento negli articoli 15, 114, 115, 119-121, negli Allegati I.2 e II.14 del D.Lgs. n. 36/2023 e nel Titolo IV del D.Lgs. n. 81/2008 quando pertinenti;
+- elementi e sequenza operativa;
+- distinzioni che cambiano competenza, documento o conseguenza;
+- conseguenze pratiche e uso nella prova;
+- esempio o microcaso;
+- errore tipico o domanda-trappola;
+- verifica con soluzione commentata;
+- tracciabilità nel frontmatter e riferimenti normativi leggibili.
+
+Ogni nucleo deve raggiungere almeno 600 parole secondo il conteggio canonico. La presenza di un documento non prova, da sola, che il controllo sia stato svolto.
+
+## Sezioni da conservare e trasformare
+
+- apertura sul progetto che diventa lavorazione e opera;
+- Obiettivo e Mappa BANDO, riallineati ai sei nuclei;
+- spiegazione di consegna, verbale e stato dei luoghi;
+- distinzione fra RUP, DL, ufficio di direzione, impresa e CSE;
+- ordine di servizio come strumento non equivalente a modifica contrattuale;
+- controlli su materiali, lavorazioni, qualità, tempi e registrazioni;
+- distinzione fra modifica, sospensione, contestazione e riserva;
+- confronto PSC/POS e distinzione DL/CSE;
+- ultimazione come passaggio ai controlli finali;
+- caso della riqualificazione della scuola;
+- domanda da commissario, domanda-trappola, errore tipico, mini-esercizio e checklist;
+- riferimenti normativi leggibili, eliminando dal corpo wikilink e note interne.
+
+## Duplicazioni e sconfinamenti da evitare
+
+- principi, affidamento, qualificazione e subappalto generale sviluppati in VOL-01 e VOL-09;
+- teoria generale di verbali, fascicolo e responsabilità del capitolo 2;
+- controlli strutturali e collaudo statico del capitolo 4;
+- progettazione, verifica e validazione del capitolo 7;
 - collaudo tecnico-amministrativo, certificati e manutenzione del capitolo 9;
-- computo, libretto misure, registro di contabilità, SAL e certificati di pagamento del capitolo 10;
-- gestione informativa digitale del capitolo 12.
+- misure, registro, SAL, certificati di pagamento e riserve contabili di dettaglio del capitolo 10;
+- BIM e gestione informativa specialistica del capitolo 12;
+- soglie, termini, penali o deroghe mobili presentati come invarianti;
+- equivalenza fra DL e RUP, fra DL e CSE, fra PSC e POS, fra ordine di servizio e modifica autorizzata.
 
-Il capitolo può mostrare le interfacce, ma ogni rinvio deve avere destinazione precisa e verificata.
+Il capitolo deve restare autonomo sui sei nuclei assegnati; i raccordi mostrano le interfacce e non sostituiscono la teoria.
 
-## Esempi, casi, domande ed esercizi necessari
+## Applicazioni e output obbligatori
 
-### Caso guidato
+1. tavola `evento → soggetto → documento → controllo/autorizzazione → effetto`;
+2. mappa comparativa RUP/DL/ufficio di direzione/impresa/CSE;
+3. microcaso sul verbale di consegna con dato mancante;
+4. microcaso su materiale proposto diverso da quello contrattuale;
+5. classificazione fra ordine esecutivo, proposta e modifica autorizzata;
+6. sequenza sospensione-ripresa e distinzione contestazione/riserva;
+7. confronto PSC/POS e caso di interferenza;
+8. caso integrato della scuola fino all'ultimazione;
+9. sei quiz commentati, uno per nucleo;
+10. checklist finale del DL e risposta orale.
 
-Riqualificazione di una scuola già progettata e affidata. Durante i lavori emergono:
+## Fonti consolidate da usare
 
-1. difformità fra stato dei luoghi e progetto;
-2. materiale proposto diverso da quello previsto;
-3. ritardo su una lavorazione critica;
-4. richiesta dell’impresa di modificare una soluzione;
-5. interferenza di sicurezza non adeguatamente gestita;
-6. necessità di sospendere una parte delle lavorazioni.
+- `sources/direzione-lavori-esecuzione-cantieri-dlgs-36-2023-allegato-ii14` per consegna, soggetti, ordini, controlli, modifiche, sospensioni, riserve e sicurezza;
+- `sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024` per il quadro del Codice;
+- `sources/ciclo-contratti-pubblici-rup-stazione-appaltante-operatore-economico` per ciclo e ruolo del RUP;
+- `sources/d-lgs-9-aprile-2008-n-81-salute-sicurezza-lavoro` per il Titolo IV;
+- `sources/progettazione-opere-pubbliche-dlgs-36-2023-allegato-i7` per il raccordo con il progetto;
+- `sources/campione-bandi-tecnici-pa-vol-10-2026` e `sources/modulo-m-tr03-tecnico-ingegneristico-vol-10` per perimetro e forme di prova;
+- `topics/direzione-lavori-esecuzione-cantieri` come sintesi consolidata;
+- capitoli 2, 4, 7, 9, 10 e 12 per i soli confini dichiarati.
 
-Il candidato deve distinguere accertamento, ordine, verbalizzazione, autorizzazione, aggiornamento dei documenti di sicurezza, controllo contabile e rinvio al RUP.
-
-### Flusso dell’esecuzione
-
-Tavola minima:
-
-`evento | soggetto che rileva | documento | controllo/autorizzazione | effetto | fase successiva`.
-
-### Domanda da commissario
-
-“Quali sono funzione e principali attività del direttore dei lavori nell’esecuzione di un’opera pubblica?”
-
-### Domanda-trappola
-
-“Un ordine di servizio del direttore dei lavori può sempre modificare liberamente il contratto?”
-
-La risposta deve distinguere istruzione esecutiva, poteri del direttore dei lavori e modifica contrattuale autorizzata.
-
-### Mini-esercizio
-
-Classificare dieci eventi fra:
-
-- controllo ordinario;
-- ordine o verbalizzazione;
-- modifica da autorizzare;
-- problema di sicurezza;
-- fatto da registrare ai fini contabili o di riserva;
-- passaggio al collaudo.
-
-### Checklist
-
-Deve controllare contratto e progetto, disponibilità delle aree, consegna, soggetti, sicurezza, ordini, materiali, lavorazioni, tempi, modifiche, sospensioni, contabilità, riserve, ultimazione e tracciabilità.
-
-## Fonti da usare
-
-### Disponibili e consolidate
-
-- [[sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024]];
-- [[sources/ciclo-contratti-pubblici-rup-stazione-appaltante-operatore-economico]];
-- [[sources/progettazione-opere-pubbliche-dlgs-36-2023-allegato-i7]];
-- [[sources/d-lgs-9-aprile-2008-n-81-salute-sicurezza-lavoro]];
-- [[topics/contratti-pubblici]];
-- [[sources/campione-bandi-tecnici-pa-vol-10-2026]];
-- [[sources/modulo-m-tr03-tecnico-ingegneristico-vol-10]];
-- capitoli 2, 4 e 7 di `M-TR03`;
-- `VOL-01`, capitolo `Contratti pubblici essenziali`, per il ciclo generale.
-
-La entity `dlgs-36-2023` è draft e non va usata come fonte autonoma.
-
-### Fonti ufficiali bloccanti da acquisire
-
-Prima dello step 09 occorre creare una source note specialistica basata su:
-
-1. D.Lgs. 36/2023 nel testo vigente;
-2. artt. 113-121 per garanzie, direzione, controllo, collaudo, subappalto, modifiche, sospensione e risoluzione, limitatamente ai nuclei trattati;
-3. Allegato II.14 vigente per direzione lavori, consegna, ordini, controlli, contestazioni, riserve, sospensioni e ultimazione;
-4. art. 15 e Allegato I.2 per compiti del RUP in esecuzione;
-5. D.Lgs. 81/2008 nel testo vigente, Titolo IV e Allegato XV per ruoli di cantiere, PSC e POS;
-6. fonti istituzionali INL o Ministero del lavoro solo per chiarimenti effettivamente necessari;
-7. eventuali NTC soltanto per il raccordo con controlli sui materiali già consolidato nel capitolo 4;
-8. destinazioni puntuali e complete di `VOL-01` e `VOL-09`.
-
-Vanno creati un topic `direzione-lavori-esecuzione-cantieri` e una source note specialistica. Un’entity dedicata al direttore dei lavori è utile solo se aggiunge relazioni canoniche senza duplicare il topic.
+Il pacchetto sostiene una trattazione nazionale specialistica. Termini, soglie, deroghe, penali e procedimenti speciali vanno esclusi se non necessari oppure ricontrollati sulla fonte vigente.
 
 ## Rinvii consentiti
 
-- `VOL-01`, `Contratti pubblici essenziali`, sezione `Esecuzione, subappalto, verifica e collaudo`: ciclo generale;
-- `VOL-09`: RUP, affidamento, subappalto e procurement avanzato, dopo censimento della destinazione definitiva;
-- capitolo 2: sopralluogo, verbale, istruttoria, fascicolo e responsabilità;
-- capitolo 4: materiali, controlli strutturali e collaudo statico;
-- capitolo 7: progetto esecutivo, verifica e validazione;
-- capitolo 9: ultimazione, collaudo e manutenzione;
-- capitolo 10: misure, contabilità, SAL e riserve di dettaglio;
-- capitolo 12: gestione informativa digitale in esecuzione.
+- VOL-01 per il ciclo generale dei contratti, soltanto con destinazione puntuale verificata;
+- VOL-09 per affidamento, subappalto e procurement avanzati;
+- capitolo 2 per sopralluogo, verbale, fascicolo e responsabilità;
+- capitolo 4 per materiali e controlli strutturali;
+- capitolo 7 per progetto esecutivo, verifica e validazione;
+- capitolo 9 per collaudo e manutenzione;
+- capitolo 10 per contabilità e riserve di dettaglio;
+- capitolo 12 per gestione informativa digitale.
 
-## Review umane richieste
+Nel corpo lettore i rinvii devono essere leggibili e non esporre percorsi wiki.
 
-- RUP con esperienza in lavori pubblici;
-- direttore dei lavori;
-- responsabile di cantiere dell’impresa;
-- coordinatore per la sicurezza in fase di esecuzione;
-- esperto di contabilità lavori e riserve;
-- avvocato amministrativista esperto di esecuzione contrattuale;
-- strutturista per i soli controlli sui materiali e sulle opere strutturali.
+## Audit specialistici richiesti
 
-La review deve validare competenze, documenti, sequenza, modifiche, sospensioni, riserve, PSC/POS, interazioni fra DL e CSE e contenuti mobili dell’Allegato II.14.
+- controllo automatico di vigenza del D.Lgs. n. 36/2023, degli Allegati I.2 e II.14 e del Titolo IV del D.Lgs. n. 81/2008;
+- verifica puntuale degli articoli 15, 114, 115 e 119-121 solo per le proposizioni usate;
+- controllo del riparto fra RUP, DL, ufficio di direzione, impresa e CSE;
+- verifica delle distinzioni ordine/proposta/modifica e contestazione/riserva;
+- controllo della sequenza consegna, sospensione, ripresa e ultimazione;
+- verifica di PSC, POS, interferenze e coordinamento senza sovrapporre DL e CSE;
+- controllo che non compaiano soglie, termini o deroghe mobili non sostenuti;
+- controllo dei confini con capitoli 2, 4, 7, 9, 10 e 12;
+- revisione editoriale totale allo step 12; ogni criticità specialistica deve essere chiusa automaticamente prima del text freeze.
 
-## Struttura H1/H2/H3 e budget KDP
+## Struttura H1/H2/H3 e budget
 
 # Direzione lavori, esecuzione e cantieri
 
-## Apertura, obiettivo e Mappa BANDO — 220 parole
+## Apertura, obiettivo e Mappa BANDO — 250-300 parole
 
-## Dalla stipula all’avvio dei lavori — 280 parole
-
-### Presupposti e consegna
-
+## N-TR03-08-01 · Avvio dell'esecuzione e consegna — 650-720 parole
+### Dalla stipula al cantiere
 ### Verbale e stato dei luoghi
+### Verifica 1
 
-## Soggetti dell’esecuzione — 380 parole
-
+## N-TR03-08-02 · Soggetti e riparto delle funzioni — 700-780 parole
 ### RUP e direttore dei lavori
+### Ufficio di direzione, impresa e CSE
+### Verifica 2
 
-### Ufficio di direzione, impresa e coordinatori
-
-## Direzione e controllo in corso d’opera — 500 parole
-
-### Ordini di servizio, verbali e registrazioni
-
+## N-TR03-08-03 · Direzione e controlli in corso d'opera — 720-800 parole
+### Ordini, verbali e registrazioni
 ### Materiali, lavorazioni, qualità e tempi
-
 ### Controllo tecnico, amministrativo e contabile
+### Verifica 3
 
-## Modifiche, sospensioni e contestazioni — 520 parole
-
-### Modifiche e varianti
-
+## N-TR03-08-04 · Modifiche, sospensioni, contestazioni e riserve — 750-830 parole
+### Ordine, proposta e modifica autorizzata
 ### Sospensione, ripresa e ritardi
+### Contestazione e riserva
+### Verifica 4
 
-### Contestazioni e riserve
-
-## Sicurezza del cantiere — 500 parole
-
+## N-TR03-08-05 · Sicurezza del cantiere — 700-780 parole
 ### Ruoli e obblighi essenziali
+### PSC, POS e coordinamento
+### Interferenze e Verifica 5
 
-### PSC, POS e coordinamento in esecuzione
+## N-TR03-08-06 · Caso integrato e ultimazione — 700-780 parole
+### Caso guidato della scuola
+### Ultimazione e documenti finali
+### Domanda, trappola, errore e checklist
+### Verifica 6
 
-### Interferenze, prescrizioni e tracciabilità
+## □ Verifica dopo i nuclei — 450-550 parole
+### Sei quiz commentati
+### Mini-esercizio di trasferimento
 
-## Ultimazione e passaggio ai controlli finali — 220 parole
+## Riepilogo operativo — 120-180 parole
 
-## Caso guidato e flusso dell’esecuzione — 380 parole
+## Riferimenti normativi essenziali — 80-120 parole
 
-## Domanda da commissario, domanda-trappola ed errore tipico — 170 parole
+Budget complessivo: **4.600-5.000 parole**, **6 quiz commentati**, **1 caso integrato**, almeno **6 verifiche vicine** e tre microcasi. Il blocco unico di sei nuclei rispetta il limite di 5-7 nuclei.
 
-## Mini-esercizio e checklist — 190 parole
+## Condizione per lo step 09
 
-## Riferimenti consolidati e note di review — 100 parole
-
-Budget orientativo: **3.300–3.500 parole**, tabelle escluse. Se occorre ridurre, spostare in appendice gli elenchi analitici di documenti e le tavole contabili; non comprimere ruoli, varianti, sospensioni o sicurezza.
-
-## Condizione per lo step di scrittura
-
-Lo step 09 può partire soltanto dopo:
-
-1. consolidamento del D.Lgs. 36/2023, dell’Allegato II.14 e del Titolo IV del D.Lgs. 81/2008 vigenti;
-2. creazione della source note specialistica e del topic;
-3. verifica puntuale di consegna, competenze del DL, ordini, controlli, modifiche, sospensioni, riserve e ultimazione;
-4. distinzione documentata fra PSC e POS e fra DL e CSE;
-5. censimento dei rinvii precisi a `VOL-01`, `VOL-09` e capitoli 9-10;
-6. conferma che caso, checklist e domanda applicano teoria già spiegata;
-7. nessuna modifica al capitolo prima dello step 09.
+Lo step 09 può partire: capitolo legacy, matrice, Bibbia, source note specialistica e topic consolidato sono presenti. La promozione a `format_version: 2` sarà valida soltanto quando tutti i nuclei supereranno il conteggio canonico, il corpo non esporrà dipendenze interne e teoria, quiz, casi, verifiche e tracciabilità saranno effettivi.
