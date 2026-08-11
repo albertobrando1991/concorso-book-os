@@ -163,7 +163,7 @@ Le materie comuni sono quelle del libro base: amministrativo, pubblico impiego, 
 | Salute e sicurezza, materie giuridiche integrative INAIL | Cap. 4 + Appendice F | Attivare solo se richieste dal bando. |
 | Vigilanza previdenziale/assicurativa | Appendice A | Sottoprofilo, non studio generico. |
 | ACI, ENAC, ISTAT, ASI, ENEA, CRI | Appendice C + fonte ufficiale ente | Orientamento, poi verifica puntuale. |
-| Ricerca, tecnologia, ICT puro, authority, agenzie fiscali | Appendice E o altro modulo | Rinvio, non forzare M-FC03. |
+| Ricerca e tecnologia, ICT puro, authority, agenzie fiscali | Appendice E; poi M-IR03 Enti di ricerca, M-TR01 ICT e trasformazione digitale, M-FC05 Authority indipendenti o M-FC02 Agenzie fiscali | Scegli il rinvio in base al profilo e non forzare M-FC03. |
 
 ### 5. Avvisi, allegati e aggiornamenti
 
@@ -175,7 +175,7 @@ Un campo non compilato su avvisi e allegati e' un rischio reale. Puo' significar
 
 Le cinque porte formano un filtro operativo. Il passaggio decisivo e il test `ente + profilo + prove`. Il nome dell'ente orienta la famiglia; il profilo indica la funzione per la quale si concorre; le prove mostrano quali conoscenze e prestazioni saranno realmente valutate. Solo l'incrocio dei tre dati consente di scegliere il perimetro.
 
-Un profilo amministrativo presso INPS o INAIL appartiene normalmente al cuore di M-FC03, ma il solo nome dell'ente non basta. Un profilo informatico puro richiede il modulo digitale pertinente; un ricercatore o tecnologo richiede il verticale dedicato; un profilo di vigilanza puo attivare l'appendice specifica. Analogamente, una procedura con posti distribuiti fra amministrazioni diverse richiede una scheda per il codice che interessa, non una classificazione unica ricavata dal titolo generale.
+Un profilo amministrativo presso INPS o INAIL appartiene normalmente al cuore di M-FC03, ma il solo nome dell'ente non basta. Un profilo informatico puro richiede M-TR01 - ICT e trasformazione digitale; un ricercatore o tecnologo richiede M-IR03 - Enti di ricerca; un profilo di vigilanza puo attivare l'appendice specifica. Per un'authority indipendente il rinvio e' M-FC05, mentre per un'agenzia fiscale e' M-FC02. Analogamente, una procedura con posti distribuiti fra amministrazioni diverse richiede una scheda per il codice che interessa, non una classificazione unica ricavata dal titolo generale.
 
 In pratica, il candidato studia cio che serve al profilo nelle prove indicate, non tutto cio che riguarda l'ente. Le pagine istituzionali aiutano a comprendere funzioni e servizi; il bando decide pero il programma d'esame. Quando un'informazione sul lavoro futuro e soltanto inferita, va separata da cio che il bando dichiara. Questa prudenza impedisce di inventare mansioni, poteri o profondita di studio.
 
@@ -235,7 +235,10 @@ Questa classificazione impedisce due errori opposti. Il primo e ricominciare da 
 | Ordinamento INAIL, assicurazione, prevenzione | Capitolo 4 e appendici pertinenti | Calibrare sul profilo e sul programma. |
 | Bilancio, PIAO, personale o contratti dell'ente | Capitoli 6-9 | Collegare teoria comune e contesto EPNE. |
 | Vigilanza previdenziale o assicurativa | Appendice A | Trattare come sottoprofilo, non come base universale. |
-| Ricerca, tecnologia, ICT puro, authority o fisco | Modulo della famiglia competente | Non forzare la materia dentro M-FC03. |
+| Ricerca e tecnologia | M-IR03 - Enti di ricerca | Non forzare la materia dentro M-FC03. |
+| ICT puro | M-TR01 - ICT e trasformazione digitale | Non confondere l'accertamento informatico con un profilo ICT. |
+| Authority indipendenti | M-FC05 - Authority indipendenti | Attivare il modulo della famiglia corretta. |
+| Agenzie fiscali e fisco specialistico | M-FC02 - Agenzie fiscali | Attivare il modulo della famiglia corretta. |
 
 Una destinazione e valida solo se e precisa e completa. Scrivere `vedi altro modulo` non aiuta. Il Decoder deve indicare quale capitolo o appendice attivare e perche. Nello stesso tempo, non deve moltiplicare i rinvii: se una definizione e indispensabile per capire la scheda, va spiegata nel capitolo. Il rinvio serve per una trattazione completa che appartiene altrove, non per nascondere una lacuna.
 
