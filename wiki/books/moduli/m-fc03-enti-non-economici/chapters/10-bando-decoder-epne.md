@@ -66,7 +66,7 @@ Alla fine del capitolo devi saper fare cinque cose:
 4. leggere prove, punteggi, soglie, avvisi e allegati come dati operativi, non come dettagli formali;
 5. compilare una scheda Bando Decoder EPNE pronta per alimentare piano di studio, diario errori, simulazioni, casi e orale.
 
-Il risultato atteso non e' una trascrizione del bando. E' una decisione: partecipo, con quale priorita, studiando prima quali nuclei e allenando quale output.
+Il risultato atteso e' una decisione motivata: partecipo o no, con quale priorita, quali nuclei studio per primi e quale output alleno.
 
 ## Mappa BANDO
 
@@ -78,7 +78,7 @@ Il risultato atteso non e' una trascrizione del bando. E' una decisione: parteci
 | D - Diario | Quali dati sono instabili: scadenze, allegati, calendari, FAQ, avvisi, soglie, sede prove? | Registro aggiornamenti e rischi. |
 | O - Output | Che cosa devo allenare per primo: quiz, risposta orale, caso pratico, situazionale, piano 30/60/90? | Scheda bando-prove-materie compilata. |
 
-La regola e' semplice: il bando non si legge per curiosita, si legge per decidere.
+Il bando si legge per prendere decisioni, non per raccogliere informazioni senza un ordine.
 
 ## N-FC03-10-01 · Identita del concorso e gerarchia delle fonti
 
@@ -108,13 +108,13 @@ I riassunti online, le notizie, i post social, le chat e i commenti di altri can
 | 4 | Amministrazione trasparente e pagine istituzionali | Contesto su ente, atti, PIAO, bilanci, organizzazione, servizi. |
 | 5 | Riassunti e fonti redazionali | Solo orientamento, mai dato vincolante senza verifica. |
 
-Questa gerarchia protegge da un errore pratico: studiare su informazioni vere in generale ma non decisive per quella procedura.
+Seguendo questa gerarchia eviti di studiare su informazioni corrette in generale ma irrilevanti per la procedura che stai preparando.
 
 ### Dato, fonte e decisione
 
 Nel Decoder ogni informazione dovrebbe avere tre elementi: il dato, la fonte precisa e la decisione che ne deriva. Se leggi una scadenza, devi sapere in quale documento compare e quale azione impone. Se trovi una materia, devi collegarla alla prova in cui sara valutata e al blocco di studio da attivare. Se individui un requisito dubbio, non devi interpretarlo per somiglianza con un vecchio concorso: devi segnare il dubbio, cercare il chiarimento nel canale previsto e stabilire entro quando risolverlo.
 
-Questa regola evita anche il problema delle informazioni sovrapposte. Una pagina di presentazione puo riassumere la procedura, mentre il bando e gli allegati ne disciplinano gli elementi essenziali. Un avviso successivo puo precisare calendario, sede o istruzioni. Il candidato deve conservare la catena documentale, non soltanto l'ultima schermata aperta. Nel diario annota almeno documento, data di consultazione, informazione estratta e conseguenza sul piano.
+Il metodo risolve anche il problema delle informazioni sovrapposte. Una pagina di presentazione puo riassumere la procedura, mentre il bando e gli allegati ne disciplinano gli elementi essenziali. Un avviso successivo puo precisare calendario, sede o istruzioni. Il candidato deve conservare la catena documentale, non soltanto l'ultima schermata aperta. Nel diario annota almeno documento, data di consultazione, informazione estratta e conseguenza sul piano.
 
 I requisiti di partecipazione e gli adempimenti della domanda restano parte dell'identita del concorso. Titolo di studio, eventuali abilitazioni, termini, modalita di invio, dichiarazioni e documenti non sono burocrazia separata dallo studio: decidono se lo studio potra tradursi in partecipazione. Il Decoder EPNE non riscrive tutte le regole generali della domanda, ma obbliga a registrare gli elementi che possono escludere o rendere incerta la candidatura.
 
@@ -173,11 +173,11 @@ Un campo non compilato su avvisi e allegati e' un rischio reale. Puo' significar
 
 ### Il test ente-profilo-prove
 
-Le cinque porte funzionano come un filtro, non come una checklist decorativa. Il passaggio decisivo e il test `ente + profilo + prove`. Il nome dell'ente orienta la famiglia; il profilo indica la funzione per la quale si concorre; le prove mostrano quali conoscenze e prestazioni saranno realmente valutate. Solo l'incrocio dei tre dati consente di scegliere il perimetro.
+Le cinque porte formano un filtro operativo. Il passaggio decisivo e il test `ente + profilo + prove`. Il nome dell'ente orienta la famiglia; il profilo indica la funzione per la quale si concorre; le prove mostrano quali conoscenze e prestazioni saranno realmente valutate. Solo l'incrocio dei tre dati consente di scegliere il perimetro.
 
 Un profilo amministrativo presso INPS o INAIL appartiene normalmente al cuore di M-FC03, ma il solo nome dell'ente non basta. Un profilo informatico puro richiede il modulo digitale pertinente; un ricercatore o tecnologo richiede il verticale dedicato; un profilo di vigilanza puo attivare l'appendice specifica. Analogamente, una procedura con posti distribuiti fra amministrazioni diverse richiede una scheda per il codice che interessa, non una classificazione unica ricavata dal titolo generale.
 
-La distinzione ha una conseguenza pratica. Il candidato non deve studiare tutto cio che riguarda l'ente, ma cio che serve a quel profilo nelle prove indicate. Le pagine istituzionali aiutano a comprendere funzioni e servizi; il bando decide pero il programma d'esame. Quando un'informazione sul lavoro futuro e soltanto inferita, va separata da cio che il bando dichiara. Questa prudenza impedisce di inventare mansioni, poteri o profondita di studio.
+In pratica, il candidato studia cio che serve al profilo nelle prove indicate, non tutto cio che riguarda l'ente. Le pagine istituzionali aiutano a comprendere funzioni e servizi; il bando decide pero il programma d'esame. Quando un'informazione sul lavoro futuro e soltanto inferita, va separata da cio che il bando dichiara. Questa prudenza impedisce di inventare mansioni, poteri o profondita di studio.
 
 **Errore da evitare:** classificare il concorso dal logo, dal portale o dalla prima materia specialistica incontrata. Il perimetro nasce dalla lettura congiunta di amministrazione, codice, profilo, funzioni, prove e programma.
 
@@ -204,11 +204,11 @@ Non trasformare questa tabella in calcoli inventati. Se il bando non indica pena
 
 ### Gli aggiornamenti fanno parte della prova
 
-Il piano iniziale e valido soltanto finche resta allineato ai documenti ufficiali. Rettifiche, calendari, istruzioni, sedi, convocazioni e avvisi possono modificare le azioni del candidato. Per questo il Decoder contiene una routine di monitoraggio: canale, frequenza, ultimo controllo e cambiamento registrato. Non serve controllare in modo compulsivo; serve avere un metodo proporzionato alla fase.
+Il piano iniziale e valido soltanto finche resta allineato ai documenti ufficiali. Rettifiche, calendari, istruzioni, sedi, convocazioni e avvisi possono modificare le azioni del candidato. Per questo il Decoder contiene una routine di monitoraggio: canale, frequenza, ultimo controllo e cambiamento registrato. I controlli non devono essere compulsivi: frequenza e canali vanno adattati alla fase della procedura.
 
 Prima della scadenza si controllano domanda, requisiti e allegati. Dopo l'invio si conserva la ricevuta e si segue il canale indicato. Quando si avvicina una prova, aumenta la frequenza e si verificano istruzioni, documenti da portare e comunicazioni. Dopo la prova si controllano esiti e fasi successive. Ogni novita che incide su tempo, materie o output aggiorna piano e diario.
 
-**Micro-caso:** il candidato prepara lo scritto sulla base del bando iniziale, ma non apre un avviso che precisa sede e istruzioni operative. Il problema non e di conoscenza della materia: e di gestione della procedura. Nel Metodo BANDO, monitorare le comunicazioni e parte della preparazione perche protegge l'investimento di studio.
+**Micro-caso:** il candidato prepara lo scritto sulla base del bando iniziale, ma non apre un avviso che precisa sede e istruzioni operative. L'errore riguarda la gestione della procedura, non la conoscenza della materia. Nel Metodo BANDO, monitorare le comunicazioni e parte della preparazione perche protegge l'investimento di studio.
 
 ### Controllare senza confondere certezza e strategia
 
@@ -343,7 +343,7 @@ La lettura corretta e' questa:
 4. ogni nuova procedura richiede bando, allegati e avvisi propri;
 5. le materie integrative entrano nel piano solo se richieste dal bando o coerenti con profilo e prova.
 
-Questa cautela e' essenziale per mantenere il modulo professionale. Il candidato deve imparare il metodo, non memorizzare un esempio come se fosse norma generale.
+Il candidato deve imparare il metodo, senza memorizzare un esempio come se fosse una regola generale.
 
 ### Da sapere in 5 righe
 
@@ -365,7 +365,7 @@ La lettura con Bando Decoder procede cosi':
 6. **Appendice**: attiva l'Appendice F per materie integrative e l'Appendice B per lessico essenziale.
 7. **Output**: nei primi sette giorni programma simulazioni quiz, una risposta orale su INAIL e un caso breve su procedimento/utente/dati.
 
-La differenza non e' la quantita di studio. E' l'ordine. Sara non parte da tutto. Parte da cio' che il bando rende decisivo.
+Conta soprattutto l'ordine dello studio. Sara parte da cio' che il bando rende decisivo, invece di affrontare tutto insieme.
 
 ### Domanda da commissario
 
@@ -395,7 +395,7 @@ La correzione e':
 4. ogni prova deve generare un output di allenamento;
 5. ogni avviso successivo deve aggiornare piano e diario.
 
-Un Decoder utile non e' quello piu' pieno. E' quello che impedisce errori di perimetro, priorita e aggiornamento.
+Un Decoder e' utile quando impedisce errori di perimetro, priorita e aggiornamento, non quando accumula campi compilati.
 
 ### Mini-esercizio
 
