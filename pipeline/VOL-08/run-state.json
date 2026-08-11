@@ -3,7 +3,7 @@
   "specPath": "books/volumi/vol-08-ict-digitale-cybersecurity-dati/planning/00-scheda-pipeline.md",
   "specHash": "sha256:af67ff81718eae7e5e2d8b29cdd926e24769a54de17ffffc130f7dd3cbd210d4",
   "createdAt": "2026-07-28T19:54:29.381Z",
-  "updatedAt": "2026-08-11T08:05:55.976Z",
+  "updatedAt": "2026-08-11T08:23:54.123Z",
   "steps": [
     {
       "key": "08:moduli/m-tr01-ict-trasformazione-digitale/chapters/01-lavorare-ict-pa-ruoli-enti-prove.md",
@@ -1212,11 +1212,34 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-tr01-ict-trasformazione-digitale/chapters/10-data-governance-open-data-interoperabilita.md",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "evidence": [
         "reopen: Retrofit formato 2 autorizzato dall'utente il 2026-08-05"
-      ]
+      ],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-11T08:12:25.796Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-tr01-ict-trasformazione-digitale/chapters/10-data-governance-open-data-interoperabilita.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di aless: Verifica manuale svolta: piano retrofit aggiornato con 7 nuclei ID stabili, confini con capitoli 04/06/09/11, budget, caso, laboratorio, quiz, rinvio preciso e debiti specialistici tracciati."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-11T08:14:14.987Z"
     },
     {
       "key": "09:moduli/m-tr01-ict-trasformazione-digitale/chapters/10-data-governance-open-data-interoperabilita.md",
@@ -1224,9 +1247,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-tr01-ict-trasformazione-digitale/chapters/10-data-governance-open-data-interoperabilita.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-11T08:14:15.886Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-11T08:20:51.811Z"
     },
     {
       "key": "10:moduli/m-tr01-ict-trasformazione-digitale/chapters/10-data-governance-open-data-interoperabilita.md",
@@ -1234,9 +1267,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-tr01-ict-trasformazione-digitale/chapters/10-data-governance-open-data-interoperabilita.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-11T08:21:16.809Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-11T08:22:21.708Z"
     },
     {
       "key": "11:moduli/m-tr01-ict-trasformazione-digitale/chapters/10-data-governance-open-data-interoperabilita.md",
@@ -1244,9 +1287,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-tr01-ict-trasformazione-digitale/chapters/10-data-governance-open-data-interoperabilita.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-11T08:23:08.506Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-11T08:23:20.604Z"
     },
     {
       "key": "12:moduli/m-tr01-ict-trasformazione-digitale/chapters/10-data-governance-open-data-interoperabilita.md",
@@ -1254,9 +1307,35 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-tr01-ict-trasformazione-digitale/chapters/10-data-governance-open-data-interoperabilita.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-11T08:23:28.894Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E04: stato \"aperto\".",
+            "location": "wiki/reviews/pipeline/VOL-08/12-moduli-m-tr01-ict-trasformazione-digitale-chapters-10-data-governance-open-data-interoperabilita-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E05: stato \"aperto\".",
+            "location": "wiki/reviews/pipeline/VOL-08/12-moduli-m-tr01-ict-trasformazione-digitale-chapters-10-data-governance-open-data-interoperabilita-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E06: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-08/12-moduli-m-tr01-ict-trasformazione-digitale-chapters-10-data-governance-open-data-interoperabilita-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-11T08:23:54.123Z"
     },
     {
       "key": "08:moduli/m-tr01-ict-trasformazione-digitale/chapters/11-ai-ml-pa-rischi-compliance.md",
