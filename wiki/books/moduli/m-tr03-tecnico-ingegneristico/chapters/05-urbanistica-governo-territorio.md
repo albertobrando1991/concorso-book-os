@@ -126,6 +126,8 @@ La conformità urbanistica è il giudizio di coerenza dell'intervento con destin
 
 L'istruttoria procede per strati. Prima si identifica l'area; poi si ricostruisce la disciplina urbanistica vigente; quindi si descrive l'intervento; infine si confrontano uso, quantità, forma e modalità attuativa. Solo dopo si affrontano il regime edilizio e le discipline concorrenti. Questo ordine riduce il rischio di scegliere il modulo prima di aver compreso l'operazione territoriale.
 
+Il certificato di destinazione urbanistica può documentare le prescrizioni riferite all'area nei casi previsti, ma non sostituisce l'intera istruttoria dell'intervento. Il tecnico deve controllare coerenza, data, identificazione dei terreni e successive modifiche degli strumenti. Se il progetto interessa più particelle o più discipline, una sola indicazione sintetica può non esaurire il quadro. Anche qui vale la regola generale: il documento risponde alla propria funzione e non prova automaticamente titolo edilizio, proprietà, assenza di vincoli o fattibilità complessiva.
+
 ### Domanda-trappola
 
 La destinazione urbanistica compatibile prova che l'opera è autorizzabile? No. Dimostra soltanto il superamento di una parte della verifica. Restano titolo edilizio, stato legittimo, norme tecniche, tutele, strutture e altri atti eventualmente necessari.
@@ -190,6 +192,8 @@ Il paesaggio introduce un diverso asse di controllo. Il D.Lgs. n. 42/2004 discip
 La stessa opera può richiedere coordinamento tra pianificazione urbanistica, procedimento espropriativo e tutela paesaggistica. Il coordinamento non elimina l'autonomia delle verifiche. Un'opera pubblica non è sottratta alla tutela per il solo fatto di perseguire un interesse collettivo; allo stesso modo, l'autorizzazione paesaggistica non appone il vincolo espropriativo e non sostituisce gli atti urbanistici.
 
 La risposta orale efficace segue una sequenza: definizione dell'istituto; base normativa; presupposti; rapporti con il piano; garanzie; atto conclusivo; eventuali tutele concorrenti. Nei casi, invece, conviene costruire una cronologia degli atti e segnalare i dati mancanti. Questo impedisce di confondere ciò che dovrebbe esistere con ciò che il fascicolo dimostra realmente.
+
+La cronologia serve anche a controllare la coerenza tra efficacia degli atti e decisioni successive. Non basta trovare nel fascicolo una dichiarazione di pubblica utilità o un'autorizzazione: occorre verificare a quale progetto si riferiscano, quale versione degli elaborati considerino e se le modifiche intervenute richiedano nuovi controlli. Un atto formalmente presente ma riferito a una configurazione diversa non chiude l'istruttoria. Nella prova, questa osservazione dimostra capacità di collegare documenti, oggetto ed effetti senza inventare scadenze.
 
 ### Domanda da commissario
 

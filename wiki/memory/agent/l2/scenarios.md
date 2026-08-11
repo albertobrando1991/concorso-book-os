@@ -5069,3 +5069,11 @@
 - l0: l0/conv-20260811095034-u28qkw.md
 - atoms:
   - mem-20260811095034-u0osxb | result | Esito codex-vol10-cap05-step09-format2: Procedi con il prossimo step della pipeline aggiornata di VOL-10. -> Completato step 09 capitolo 05: riscritto Urbanistica e governo del territorio in Formato 2 con 6 nuclei tra 603 e 685 parole, 6 quiz commentati, caso ragionato, verifiche vicine, riferimenti leggibili e nessun link i...
+
+## 2026-08-11T09:53:02.055Z - VOL-10
+
+- conversation_id: conv-20260811095302-136lzhj
+- route: codex-vol10-cap05-step10-format2
+- l0: l0/conv-20260811095302-136lzhj.md
+- atoms:
+  - mem-20260811095302-uccb70 | result | Esito codex-vol10-cap05-step10-format2: Procedi con il prossimo step della pipeline aggiornata di VOL-10. -> Completato step 10 capitolo 05: verificata copertura reale di sei nuclei; integrate due sezioni risultate sotto soglia dal conteggio canonico; aggiornate matrice dimensionale e delta; gate didactic-density superato se...
