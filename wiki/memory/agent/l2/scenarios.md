@@ -5126,3 +5126,12 @@
 - atoms:
   - mem-20260811102531-12pviuo | workflow | Procedere con lo step successivo della pipeline aggiornata per VOL-10.
   - mem-20260811102531-l5cncn | result | Esito pipeline-volume/step-11: Procedere con lo step successivo della pipeline aggiornata per VOL-10. -> Completato step 11 del capitolo 06: umanizzazione chirurgica, citation-guard verde, densita Format 2 preservata (5052 parole; minimo nucleo 661), 155 test gate superati.
+
+## 2026-08-11T10:28:59.750Z - VOL-10
+
+- conversation_id: conv-20260811102859-19616i9
+- route: pipeline-volume/step-12
+- l0: l0/conv-20260811102859-19616i9.md
+- atoms:
+  - mem-20260811102859-qvpjjk | workflow | Procedere con il prossimo step della pipeline aggiornata per VOL-10.
+  - mem-20260811102859-1wc91zk | result | Esito pipeline-volume/step-12: Procedere con il prossimo step della pipeline aggiornata per VOL-10. -> Completato step 12 del capitolo 06: revisione editoriale totale con checklist a 30 punti, copertura v4 e test dello studente; report Format 2 senza errori aperti, review-report verde, 155 test superati, capitolo edito...
