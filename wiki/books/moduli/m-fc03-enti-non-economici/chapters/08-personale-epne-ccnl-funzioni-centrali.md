@@ -171,15 +171,15 @@ La scheda impedisce di studiare il pubblico impiego come capitolo isolato: contr
 
 ### Dal concorso al lavoro nell'ente
 
-### Accesso e rapporto di lavoro pubblico
+#### Accesso e rapporto di lavoro pubblico
 
 Il concorso e il rapporto di lavoro sono due momenti distinti. Il concorso seleziona secondo regole pubbliche; il rapporto di lavoro inserisce il vincitore in un'organizzazione con doveri, responsabilita, gerarchie funzionali, obiettivi, procedure e vincoli. Il candidato deve saper spiegare che l'accesso tramite concorso non esaurisce la materia: dopo l'accesso iniziano ruolo, ufficio, profilo, formazione, obblighi di comportamento e responsabilita.
 
-### Organizzazione dell'ente
+#### Organizzazione dell'ente
 
 Il personale va poi collocato nella governance dell'ente. Ogni dipendente opera in un ufficio, entro processi, obiettivi, documenti di programmazione, controlli e servizi. Per questo il capitolo 8 dialoga con i capitoli su governance, procedimenti, performance e PIAO. La domanda operativa e': quale pezzo dell'organizzazione deve servire questo profilo?
 
-### Profilo, competenze e responsabilita
+#### Profilo, competenze e responsabilita
 
 Il profilo comprende anche le competenze attese. Il framework delle competenze trasversali della PA consente di valutare il modo in cui il candidato agisce: consapevolezza del contesto, soluzione dei problemi, comunicazione, collaborazione, orientamento al servizio, accuratezza, affidabilita, gestione delle risorse, integrita. Nei concorsi EPNE queste competenze si traducono in casi su utenti, dati, scadenze, sportello, back office e priorita.
 
