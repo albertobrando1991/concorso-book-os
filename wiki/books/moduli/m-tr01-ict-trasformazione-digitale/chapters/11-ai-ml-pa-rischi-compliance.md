@@ -151,6 +151,21 @@ Una griglia sintetica può riportare, per ogni rischio, causa, evento, conseguen
 Governare significa anche decidere quando non usare l'AI. Se il bisogno può essere risolto con una regola trasparente o se non esistono dati adeguati, una soluzione più semplice può essere preferibile. La proporzionalità riguarda costi, impatti, competenze e reversibilità. Nel tempo, un sistema inizialmente adeguato può non esserlo più: una nuova fonte dati, una modifica contrattuale o un reclamo ricorrente sono segnali che attivano riesame. La documentazione di queste decisioni rende possibile spiegare perché il sistema è stato limitato, corretto o sospeso.
 La governance efficace separa chi propone una modifica, chi la valuta e chi autorizza il rilascio, secondo dimensioni e rischi del servizio. Non occorre creare una burocrazia uniforme: occorre rendere chiaro chi decide, su quale evidenza e con quale possibilità di revisione. Anche un piccolo pilota deve avere criteri di successo e di uscita, altrimenti la sperimentazione tende a diventare esercizio permanente senza controllo.
 La revisione periodica deve includere anche i destinatari del servizio e chi raccoglie reclami, perché le criticità d'uso possono emergere fuori dai soli indicatori tecnici.
+### Laboratorio compilabile: griglia di rischio del caso AI
+
+Usa questa scheda per il caso delle segnalazioni o per un altro sistema AI descritto nel bando. Compila una riga per ogni rischio rilevante; se non riesci a indicare evidenza, controllo e responsabile, il rischio non è ancora governato. La griglia non assegna automaticamente una classe giuridica: serve a rendere verificabili le decisioni tecniche e organizzative.
+
+| Campo | Compilazione |
+| --- | --- |
+| Scenario e causa | ________________________________________________ |
+| Evento temuto | ________________________________________________ |
+| Conseguenza per persone o servizio | ________________________________________________ |
+| Evidenza da raccogliere | ________________________________________________ |
+| Controllo o misura di trattamento | ________________________________________________ |
+| Responsabile del controllo | ________________________________________________ |
+| Rischio residuo e criterio di riesame | ________________________________________________ |
+
+Esempio di lettura: etichette storiche incoerenti possono portare a una priorità distorta; la conseguenza è il ritardo di casi urgenti; l'evidenza comprende il campione etichettato e i risultati per gruppi pertinenti; il controllo combina riesame delle etichette, test e override; il responsabile coordina processo e dati; il rischio residuo va riesaminato quando cambiano dati, soglia o procedura.
 ## N-TR01-11-07 · Quadro UE e italiano: ruoli, rischio e confini
 
 Il regolamento (UE) 2024/1689, noto come AI Act, adotta un approccio basato sul rischio. Il quadro distingue, tra l'altro, pratiche vietate, sistemi ad alto rischio, obblighi di trasparenza e modelli di IA per finalità generali. La classificazione non deriva dal fatto che un prodotto “usa AI”: richiede di verificare definizioni, uso previsto, contesto e ruolo dell'organizzazione nella catena del valore.
@@ -222,7 +237,7 @@ Partirei da finalità e baseline, documenterei dati ed etichette, separerei trai
 
 ## Mini-esercizio
 
-Compila per un caso AI cinque campi: finalità, baseline, dati e loro limite, errore più grave, potere di override. Se non riesci a indicare una evidenza o un responsabile per ciascun campo, il sistema non è ancora pronto per l'uso.
+Compila per un caso AI cinque campi: finalità, baseline, dati e loro limite, errore più grave, potere di override. Se non riesci a indicare un'evidenza o un responsabile per ciascun campo, il sistema non è ancora pronto per l'uso.
 
 ## Da sapere in 5 righe
 

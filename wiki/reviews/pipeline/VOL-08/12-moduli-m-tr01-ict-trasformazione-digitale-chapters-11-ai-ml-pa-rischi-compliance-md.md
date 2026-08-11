@@ -27,7 +27,8 @@
 | E01 | N-TR01-11-07, quadro UE e italiano | Accuratezza normativa | Media | Un calendario AI Act dettagliato sarebbe mobile e non risulterebbe verificabile dal capitolo. | Mantenere l'attuale metodo prudente: testo vigente, atti applicabili, ruolo e caso concreto prima di date o classificazioni. | Risolto |
 | V01 | Quadro UE e italiano | Fatto/norma da verificare | Lieve | Testo consolidato, atti modificativi, calendario applicativo, linee guida definitive e campo concreto della legge n. 132/2025 possono mutare. | Riesame documentato al cut-off negli step 13-18 con fonti ufficiali. | Da verificare allo step 15 |
 | V02 | Lifecycle e MLOps | Riferimento tecnico | Lieve | Stato ed edizione del NIST AI RMF e del profilo Generative AI richiedono controllo prima del text freeze. | Confermare versione e stato della fonte; mantenere il framework come riferimento volontario. | Da verificare allo step 15 |
-| V03 | Tabelle e strumenti | Layout | Lieve | La griglia è leggibile in Markdown ma non è stata ispezionata in gabbia paperback KDP. | Verificare nel Book Studio e dividere la tabella se necessario. | Da verificare allo step 20 |
+| V03 | Quadro UE e italiano; lifecycle e governance | Fatto/norma da verificare | Lieve | Privacy, procedimento, cybersicurezza, procurement e ruoli dipendono dal caso concreto e non sono universalizzati dal capitolo. | Verificare i presupposti applicabili nel riesame specialistico, mantenendo i confini già dichiarati. | Da verificare allo step 15 |
+| V04 | Tabelle e strumenti | Layout | Lieve | La griglia compilabile è leggibile in Markdown ma non è stata ispezionata in gabbia paperback KDP. | Verificare nel Book Studio e dividere la tabella se necessario. | Da verificare allo step 20 |
 
 ## 4. Osservazioni per capitolo
 
@@ -46,7 +47,7 @@ Terminologia coerente: algoritmo, sistema AI, modello, feature, label, addestram
 - V01: AI Act e legge n. 132/2025 al testo vigente, inclusi calendario e atti applicabili.
 - V02: fonti AgID e NIST, con particolare riguardo a versioni e stato dei documenti.
 - V03: privacy, procedimento, cybersicurezza, procurement e ruoli nel caso concreto; il capitolo non li universalizza.
-- V04: resa KDP della griglia e delle sezioni di verifica.
+- V04: resa KDP della griglia compilabile e delle sezioni di verifica.
 
 ## 7. Suggerimenti facoltativi
 
@@ -55,8 +56,8 @@ Terminologia coerente: algoritmo, sistema AI, modello, feature, label, addestram
 
 ## 8. Priorità degli interventi
 
-1. Riesaminare le fonti mobili AI Act, legge italiana, AgID e NIST negli step 13-18.
-2. Verificare griglia e blocco di quiz nell'impaginato KDP agli step 19-20.
+1. Riesaminare V01-V03: fonti mobili AI Act, legge italiana, AgID, NIST e presupposti privacy, procedimento, cybersicurezza, procurement e ruoli negli step 13-18.
+2. Verificare V04, griglia compilabile e blocco di quiz nell'impaginato KDP agli step 19-20.
 3. Conservare la distinzione tra classificazione giuridica, rischio tecnico e controllo organizzativo.
 
 ## 9. Giudizio di pubblicabilità

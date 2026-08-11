@@ -3,7 +3,7 @@
   "specPath": "books/volumi/vol-08-ict-digitale-cybersecurity-dati/planning/00-scheda-pipeline.md",
   "specHash": "sha256:af67ff81718eae7e5e2d8b29cdd926e24769a54de17ffffc130f7dd3cbd210d4",
   "createdAt": "2026-07-28T19:54:29.381Z",
-  "updatedAt": "2026-08-11T08:41:33.571Z",
+  "updatedAt": "2026-08-11T08:51:30.991Z",
   "steps": [
     {
       "key": "08:moduli/m-tr01-ict-trasformazione-digitale/chapters/01-lavorare-ict-pa-ruoli-enti-prove.md",
@@ -1380,17 +1380,19 @@
       "target": "moduli/m-tr01-ict-trasformazione-digitale/chapters/11-ai-ml-pa-rischi-compliance.md",
       "status": "done",
       "attempts": 1,
-      "evidence": [],
+      "evidence": [
+        "reopen: Fix review Task 14: ripristino laboratorio griglia rischio e riallineamento audit trail"
+      ],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-11T08:33:17.077Z",
+      "startedAt": "2026-08-11T08:50:12.402Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-08-11T08:38:22.858Z"
+      "finishedAt": "2026-08-11T08:50:58.468Z"
     },
     {
       "key": "10:moduli/m-tr01-ict-trasformazione-digitale/chapters/11-ai-ml-pa-rischi-compliance.md",
@@ -1404,13 +1406,13 @@
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-11T08:38:27.275Z",
+      "startedAt": "2026-08-11T08:50:59.141Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-08-11T08:39:47.271Z"
+      "finishedAt": "2026-08-11T08:50:59.761Z"
     },
     {
       "key": "11:moduli/m-tr01-ict-trasformazione-digitale/chapters/11-ai-ml-pa-rischi-compliance.md",
@@ -1424,13 +1426,13 @@
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-11T08:39:55.913Z",
+      "startedAt": "2026-08-11T08:51:08.754Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-08-11T08:40:19.265Z"
+      "finishedAt": "2026-08-11T08:51:14.774Z"
     },
     {
       "key": "12:moduli/m-tr01-ict-trasformazione-digitale/chapters/11-ai-ml-pa-rischi-compliance.md",
@@ -1444,7 +1446,7 @@
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-11T08:40:31.938Z",
+      "startedAt": "2026-08-11T08:51:15.374Z",
       "gate": {
         "passed": true,
         "blockers": [],
@@ -1461,12 +1463,17 @@
           },
           {
             "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto V03: stato \"da verificare allo step 20\".",
+            "message": "Errore non grave ancora aperto V03: stato \"da verificare allo step 15\".",
+            "location": "wiki/reviews/pipeline/VOL-08/12-moduli-m-tr01-ict-trasformazione-digitale-chapters-11-ai-ml-pa-rischi-compliance-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V04: stato \"da verificare allo step 20\".",
             "location": "wiki/reviews/pipeline/VOL-08/12-moduli-m-tr01-ict-trasformazione-digitale-chapters-11-ai-ml-pa-rischi-compliance-md.md"
           }
         ]
       },
-      "finishedAt": "2026-08-11T08:41:33.571Z"
+      "finishedAt": "2026-08-11T08:51:30.991Z"
     },
     {
       "key": "08:moduli/m-tr01-ict-trasformazione-digitale/chapters/12-procurement-ict-gestione-fornitori.md",
