@@ -205,7 +205,7 @@ Quando la consegna fissa un limite di righe o caratteri, assegna spazio alla tes
 
 Per allenarti, riscrivi la stessa risposta in tre versioni: una definizione essenziale, una risposta comparativa e una mini-applicazione a un ente. Confronta ciò che rimane invariato, ciò che dipende dal contesto e ciò che non puoi affermare senza dati aggiuntivi. La variazione fa emergere le frasi di repertorio che sembrano corrette ma non portano evidenza.
 
-Se citi una misura, un obbligo o una soglia, assicurati che derivi dal testo fornito o da una fonte da verificare. In mancanza, descrivi il criterio di scelta e l'evidenza richiesta. Precisione non significa riempire la risposta di riferimenti: significa non attribuire certezza a ciò che e solo una possibilita.
+Se citi una misura, un obbligo o una soglia, assicurati che derivi dal testo fornito o da una fonte da verificare. In mancanza, descrivi il criterio di scelta e l'evidenza richiesta. Precisione non significa riempire la risposta di riferimenti: significa non attribuire certezza a ciò che è solo una possibilità.
 
 
 ### Controllo finale della formulazione
