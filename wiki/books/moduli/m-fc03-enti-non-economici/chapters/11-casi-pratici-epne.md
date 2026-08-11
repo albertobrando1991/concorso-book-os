@@ -14,25 +14,30 @@ source_refs: [
   "sources/risposta-sintetica-domande-aperte-metodo-bando.md",
   "sources/legge-241-1990-procedimento-amministrativo.md",
   "sources/regolamento-ue-2016-679-gdpr-protezione-dati-personali.md",
-  "sources/d-lgs-14-marzo-2013-n-33-trasparenza.md",
-  "topics/enti-pubblici-non-economici-concorsi.md",
-  "topics/casi-pratici.md",
-  "topics/problem-solving-amministrativo.md",
-  "topics/risposta-sintetica-concorsuale.md",
-  "entities/inps-inail-epne.md"
+  "sources/d-lgs-14-marzo-2013-n-33-trasparenza.md"
 ]
 book_refs: ["m-fc03-enti-non-economici","il-metodo-bando"]
 confidence: 0.85
-updated_at: 2026-07-02T23:35:00+02:00
+updated_at: 2026-08-11T12:30:00+02:00
 created_at: 2026-07-02T20:05:00+02:00
 review_required: true
 canonical: true
 tags: ["book-chapter","module-code-m-fc03","professional-draft","case-lab"]
 book_id: m-fc03-enti-non-economici
 outline_section: 11
-draft_stage: professional-draft
+draft_stage: step-09-format-2
 module_code: M-FC03
 module_family: funzioni-centrali
+companion_to: il-metodo-bando
+format_version: 2
+dati_operativi: []
+nuclei_ids:
+  - N-FC03-11-01
+  - N-FC03-11-02
+  - N-FC03-11-03
+  - N-FC03-11-04
+  - N-FC03-11-05
+  - N-FC03-11-06
 last_compiled_from: [
   "wiki/books/moduli/m-fc03-enti-non-economici/planning/00-piano-editoriale.md",
   "wiki/books/moduli/m-fc03-enti-non-economici/planning/01-matrice-copertura-materie.md",
@@ -86,7 +91,9 @@ Il risultato atteso non e' conoscere ogni procedura dell'ente. E' saper impostar
 
 Il caso pratico non si studia leggendo altri esempi in modo passivo. Si studia producendo risposte.
 
-## Che cosa rende EPNE un caso pratico
+## N-FC03-11-01 · Leggere il caso come fascicolo ridotto
+
+### Principi: che cosa rende EPNE un caso pratico
 
 Un caso pratico EPNE e' una situazione concreta ambientata in un ente pubblico non economico. Puo' riguardare un cittadino, un lavoratore, un pensionato, un'impresa, un intermediario, un datore di lavoro, un candidato a concorso o un ufficio interno. La traccia puo' chiedere una soluzione, una sequenza di passaggi, una comunicazione, un comportamento corretto o una valutazione motivata.
 
@@ -98,7 +105,7 @@ La regola di base e':
 
 Un fascicolo d'ufficio ridotto contiene fatti, soggetti, documenti, competenza, regola, vincoli, comunicazioni e un esito possibile. Se manca uno di questi elementi, la risposta resta fragile.
 
-## La griglia in nove passaggi
+### La griglia in nove passaggi
 
 Usa questa griglia prima di scrivere. Nei casi brevi puoi compilarla mentalmente; nelle simulazioni devi scriverla.
 
@@ -116,7 +123,7 @@ Usa questa griglia prima di scrivere. Nei casi brevi puoi compilarla mentalmente
 
 La griglia ti protegge da due errori opposti: scrivere troppa teoria o reagire d'istinto.
 
-## Lo schema di risposta per il caso EPNE
+### Lo schema di risposta per il caso EPNE
 
 Per una risposta scritta usa uno schema in sei blocchi:
 
@@ -137,7 +144,16 @@ Una apertura debole e':
 
 La seconda frase e' vera, ma non entra nel caso.
 
-## Sportello e back office: due funzioni, non due mondi
+
+### Caso pratico, domanda teorica e quesito situazionale
+
+Le tre forme possono condividere la stessa materia, ma chiedono prestazioni diverse. La domanda teorica domanda di definire o illustrare un istituto. Il caso pratico presenta fatti e chiede di applicare regole, competenze e cautele per arrivare a un prossimo passo motivato. Il quesito situazionale, invece, mette a confronto condotte possibili e chiede di scegliere o ordinare quella piu' adeguata. Se la traccia descrive una pratica incompleta e domanda che cosa deve fare l'ufficio, non basta definire il procedimento e non basta scegliere un atteggiamento genericamente corretto: occorre costruire la sequenza amministrativa.
+
+Il verbo della consegna indica il prodotto. `Indicare i passaggi` richiede ordine; `motivare la soluzione` richiede regola e applicazione; `redigere una comunicazione` richiede un testo rivolto al destinatario; `valutare il comportamento` sposta l'attenzione sulla condotta. Prima di richiamare la teoria, scrivi in margine verbo, destinatario e output. Questa lettura impedisce di consegnare un tema quando era richiesto un mini-atto.
+
+## N-FC03-11-02 · Competenza, sportello, back office e sequenza amministrativa
+
+### Sportello e back office: due funzioni, non due mondi
 
 Molti casi EPNE nascono dal rapporto tra sportello e back office. Lo sportello riceve, ascolta, orienta, classifica, verifica il canale e tutela l'utente. Il back office istruisce, controlla documenti, aggiorna fascicoli, verifica requisiti, comunica esiti, conserva traccia e segnala anomalie.
 
@@ -153,7 +169,7 @@ La risposta forte collega i due piani. Non dice solo "inoltro la pratica". Dice:
 
 Nel caso pratico, aiutare l'utente significa rendere la procedura comprensibile, non sostituirla con scorciatoie.
 
-## Mini-atti: che cosa puoi dover scrivere
+### Mini-atti: che cosa puoi dover scrivere
 
 Il caso EPNE puo' chiedere non solo una spiegazione, ma un piccolo output amministrativo. Non si tratta di scrivere un provvedimento completo. Si tratta di produrre una forma ordinata, coerente con il ruolo.
 
@@ -167,13 +183,13 @@ Il caso EPNE puo' chiedere non solo una spiegazione, ma un piccolo output ammini
 
 La forma deve essere sobria. Non usare formule solenni se la traccia chiede una risposta operativa. Non inventare articoli, termini o dati non presenti.
 
-## Caso 1 - INPS: domanda di prestazione incompleta
+### Caso 1 - INPS: domanda di prestazione incompleta
 
-### Scenario
+#### Scenario
 
 Un utente presenta tramite canale digitale una domanda di prestazione, ma nel fascicolo manca un documento necessario per completare l'istruttoria. L'utente contatta l'ente chiedendo se la prestazione sara' concessa.
 
-### Lettura del caso
+#### Lettura del caso
 
 | Elemento | Risposta |
 | --- | --- |
@@ -183,105 +199,142 @@ Un utente presenta tramite canale digitale una domanda di prestazione, ma nel fa
 | Vincoli | Istruttoria, dati personali, canale ufficiale, comunicazione corretta. |
 | Output | Comunicazione o richiesta di integrazione, non promessa di accoglimento. |
 
-### Risposta modello
+#### Risposta modello
 
 L'ufficio non deve anticipare l'esito della prestazione prima dell'istruttoria. Deve anzitutto verificare la pratica nel canale competente, individuare il documento mancante e stabilire se l'integrazione sia necessaria per proseguire. La comunicazione all'utente deve essere chiara: indicare che la domanda risulta incompleta, precisare quale elemento deve essere prodotto, rinviare al canale ufficiale e spiegare che l'esito sara' valutato dopo la verifica dei requisiti. Occorre trattare solo i dati pertinenti e registrare l'attivita secondo le regole dell'ente.
 
-### Errore da evitare
+#### Errore da evitare
 
 Scrivere: "la prestazione sara' concessa se manda il documento". L'integrazione consente l'istruttoria; non sostituisce la decisione.
 
-## Caso 2 - INAIL: evento lavorativo e richiesta di chiarimenti
 
-### Scenario
+### Dalla ricezione alla comunicazione
+
+La competenza non e' una formula con cui allontanare l'utente. Serve a distribuire correttamente le responsabilita. In una risposta ben costruita compaiono almeno quattro funzioni: chi riceve e qualifica la richiesta; chi svolge l'istruttoria; chi adotta o valida la decisione; chi comunica attraverso il canale previsto. La stessa persona puo' svolgerne piu' di una solo se l'organizzazione e il ruolo lo consentono: la traccia non autorizza a presumere poteri che non dichiara.
+
+Quando l'ufficio ricevente non e' competente, la soluzione non e' ne' decidere comunque ne' limitarsi a dire di no. Occorre verificare il percorso previsto, orientare in modo comprensibile e, quando consentito, instradare o trasmettere la richiesta conservandone traccia. Se invece l'ufficio e' competente ma mancano elementi, la risposta distingue integrazione, istruttoria ed esito. Chiedere cio' che serve non equivale a promettere l'accoglimento.
+
+**Micro-caso:** lo sportello vede una domanda ferma e conosce il motivo probabile. La risposta debole anticipa una decisione o modifica informalmente il fascicolo. La risposta forte comunica solo lo stato verificabile, indica il passaggio necessario e attiva il back office competente. Il valore concorsuale sta nella sequenza, non nella rassicurazione.
+
+## N-FC03-11-03 · Dati personali, accesso, trasparenza e canali
+
+### Caso 2 - INAIL: evento lavorativo e richiesta di chiarimenti
+
+#### Scenario
 
 Un lavoratore contatta l'ente per avere informazioni su una pratica collegata a un evento avvenuto durante l'attivita lavorativa. Chiede al dipendente di comunicare telefonicamente dati presenti nel fascicolo, perche' "ha urgenza".
 
-### Lettura del caso
+#### Lettura del caso
 
 Il caso richiama INAIL, evento lavorativo, possibile tutela assicurativa, dati personali e forse dati relativi alla salute. La risposta deve tenere insieme servizio, riservatezza e canale corretto.
 
-### Risposta modello
+#### Risposta modello
 
 Il dipendente deve prima verificare identita, titolo e canale utilizzabile. Non puo' comunicare telefonicamente informazioni riservate solo perche' l'utente dichiara urgenza. Deve fornire indicazioni generali sui canali ufficiali, spiegare come presentare o seguire la richiesta e, se il ruolo lo consente, orientare verso la struttura competente. La pratica deve essere gestita con tracciabilita, evitando diffusione impropria di dati personali o sanitari. L'urgenza puo' incidere sulla priorita organizzativa, ma non cancella competenza, procedura e protezione dei dati.
 
-### Errore da evitare
+#### Errore da evitare
 
 Confondere empatia e deroga. L'utente va ascoltato, ma il canale informale non puo' diventare scorciatoia.
 
-## Caso 3 - Impresa e pratica sospesa
+### Caso 3 - Impresa e pratica sospesa
 
-### Scenario
+#### Scenario
 
 Un'impresa chiede perche' una pratica risulta sospesa. Dalla prima verifica emerge che manca una dichiarazione e che nel fascicolo sono presenti dati relativi a un lavoratore. L'impresa chiede copia completa degli atti.
 
-### Risposta modello
+#### Risposta modello
 
 L'ufficio deve distinguere tre piani: informazione sullo stato della pratica, eventuale integrazione documentale e richiesta di accesso agli atti. Sul primo piano puo' fornire, nei limiti del ruolo e del canale, indicazioni generali sullo stato e sulla necessita di integrazione. Sul secondo deve indicare in modo chiaro il documento mancante e il canale corretto. Sul terzo non puo' inviare automaticamente l'intero fascicolo: deve qualificare la richiesta di accesso, verificare legittimazione, eventuali controinteressati e dati personali da proteggere. La soluzione corretta e' orientare l'impresa alla procedura ufficiale e registrare l'attivita.
 
-### Mini-atto possibile
+#### Mini-atto possibile
 
 **Oggetto:** richiesta di integrazione documentale e indicazioni sul canale competente.
 
 "Con riferimento alla pratica indicata, si comunica che l'istruttoria richiede l'integrazione della dichiarazione mancante. L'invio dovra' avvenire tramite il canale ufficiale previsto dall'ente. Eventuali richieste di copia degli atti dovranno essere presentate secondo la procedura di accesso, poiche' il fascicolo puo' contenere dati riferiti a soggetti terzi. L'esito della pratica sara' valutato dall'ufficio competente dopo il completamento dell'istruttoria."
 
-## Caso 4 - Accesso a documenti con dati di terzi
+### Caso 4 - Accesso a documenti con dati di terzi
 
-### Scenario
+#### Scenario
 
 Un utente chiede copia di documenti relativi a una pratica in cui compaiono anche dati di un altro soggetto. Afferma che "per trasparenza" l'ente deve consegnare tutto.
 
-### Risposta modello
+#### Risposta modello
 
 La richiesta non va accolta o respinta in modo automatico. L'ufficio deve qualificare il tipo di accesso, verificare il titolo del richiedente, individuare i documenti richiesti e valutare la presenza di dati personali o controinteressati. La trasparenza non equivale a diffusione totale. Possono essere necessari oscuramenti, limitazioni, comunicazioni ai soggetti coinvolti o un diniego motivato nei casi previsti. La risposta deve essere tracciata e coerente con la disciplina applicabile.
 
-### Errore da evitare
+#### Errore da evitare
 
 Usare la parola trasparenza come chiave universale. Nei casi EPNE, trasparenza, accesso e privacy vanno bilanciati.
 
-## Caso 5 - Errore segnalato in una posizione o pratica
 
-### Scenario
+### Prima di comunicare: identita, titolo, necessita e canale
+
+La presenza di dati nel sistema non significa che possano essere comunicati a chi li chiede. Nel caso devi separare quattro domande: chi e' l'interlocutore; a quale titolo agisce; quali informazioni sono necessarie per la richiesta; quale canale consente una comunicazione corretta e tracciabile. Se uno di questi elementi non e' verificato, l'ufficio puo' offrire indicazioni generali sul percorso, ma non deve aprire il fascicolo oltre quanto consentito.
+
+Accesso, trasparenza e protezione dei dati non sono parole intercambiabili. Una richiesta di documenti va qualificata; la presenza di dati di terzi impone di individuare interessi coinvolti e cautele applicabili; l'eventuale oscuramento, limitazione o diniego non si decide per automatismo, ma secondo la disciplina e la situazione concreta. In prova e' prudente descrivere la verifica da compiere, senza inventare un esito quando la traccia non fornisce gli elementi necessari.
+
+Il canale ha una funzione sostanziale: permette identificazione, registrazione e ricostruzione del percorso. L'urgenza dichiarata dall'utente puo' richiedere attenzione organizzativa, ma non trasforma una telefonata informale in titolo per ricevere dati riservati.
+
+## N-FC03-11-04 · Casi di servizio INPS e INAIL
+
+### Caso 5 - Errore segnalato in una posizione o pratica
+
+#### Scenario
 
 Un utente segnala che nella propria posizione risulta un dato errato e chiede al dipendente di correggerlo immediatamente "perche' e' evidente".
 
-### Risposta modello
+#### Risposta modello
 
 Il dipendente non deve correggere informalmente il dato senza istruttoria, competenza e tracciabilita. Deve acquisire la segnalazione nel canale corretto, verificare quali documenti supportano la richiesta, coinvolgere l'ufficio competente e comunicare all'utente che l'eventuale rettifica richiede verifica. Se l'errore e' confermato, la correzione avverra' secondo le procedure dell'ente. Se non e' confermato, l'esito dovra' essere comunicato in modo motivato o comunque comprensibile.
 
-### Errore da evitare
+#### Errore da evitare
 
 Pensare che un errore apparentemente semplice autorizzi una correzione fuori sistema.
 
-## Caso 6 - Acquisto o servizio necessario all'ufficio
+### Caso 6 - Acquisto o servizio necessario all'ufficio
 
-### Scenario
+#### Scenario
 
 Un ufficio EPNE ha bisogno di un piccolo servizio di supporto per migliorare la gestione delle prenotazioni degli utenti. Un fornitore gia' conosciuto propone di iniziare subito e formalizzare dopo.
 
-### Risposta modello
+#### Risposta modello
 
 Il caso non riguarda solo contratti pubblici, ma anche organizzazione del servizio, spesa, tracciabilita e responsabilita. L'ufficio deve verificare fabbisogno, competenza, disponibilita delle risorse, procedura applicabile, eventuali strumenti di acquisto e formalizzazione dell'affidamento. La conoscenza del fornitore non sostituisce motivazione e tracciabilita. Se la procedura e' semplificata, resta comunque una procedura. La soluzione corretta e' coinvolgere il soggetto competente e seguire il percorso proporzionato al valore e alla necessita.
 
-### Errore da evitare
+#### Errore da evitare
 
 Scrivere che l'urgenza giustifica l'avvio informale. La proporzionalita semplifica, ma non elimina legalita e documentazione.
 
-## Caso 7 - Candidato a concorso e richiesta informale
+### Caso 7 - Candidato a concorso e richiesta informale
 
-### Scenario
+#### Scenario
 
 Un candidato a un concorso presso un EPNE contatta un dipendente chiedendo di verificare informalmente la posizione di altri candidati o di anticipare informazioni non ancora pubblicate.
 
-### Risposta modello
+#### Risposta modello
 
 Il dipendente deve evitare controlli informali e comunicazioni non tracciate. Deve indirizzare il candidato ai canali ufficiali: avvisi pubblicati, area riservata, procedura di accesso o richiesta di chiarimenti secondo il bando. Non deve comunicare dati di altri candidati, non deve anticipare informazioni non pubblicate e non deve creare vantaggi informativi. La tutela del candidato passa da trasparenza, imparzialita e canali ufficiali, non da contatti personali.
 
-### Errore da evitare
+#### Errore da evitare
 
 Confondere disponibilita con favoritismo informativo.
 
-## Come trasformare il caso in risposta sintetica
+
+### Usare il taglio dell'ente senza inventare la pratica
+
+Un caso INPS e un caso INAIL condividono procedimento, competenza, dati e comunicazione, ma non sono identici. Nel contesto INPS ricorrono domande, posizioni, prestazioni, contributi e servizi rivolti a utenti o intermediari. Nel contesto INAIL ricorrono assicurazione sociale, eventi lavorativi, prevenzione, prestazioni e rapporti con lavoratori e imprese. Questo lessico orienta la qualificazione del fascicolo; non autorizza a dedurre requisiti, importi, termini o risultati che la traccia non contiene.
+
+Per risolvere un caso ente-specifico usa tre livelli. Il primo e' comune: fatti, soggetti, competenza, procedimento, dati e output. Il secondo e' il delta EPNE: servizio, rapporto con l'utente, fascicolo digitale, tracciabilita e raccordo sportello-back office. Il terzo e' il taglio dell'ente, limitato alle nozioni necessarie. Se il caso riguarda una domanda INPS incompleta, puoi parlare di istruttoria e integrazione; non puoi concludere che la prestazione spetti. Se riguarda una pratica INAIL con informazioni delicate, puoi indicare verifica di identita e canale; non puoi ricostruire automaticamente la tutela assicurativa.
+
+### Trasferire il metodo ad altri scenari
+
+I casi sull'errore nella posizione, sul piccolo acquisto e sulla richiesta informale mostrano che la griglia non vale soltanto per le prestazioni. Nel primo scenario contano verifica e rettifica tracciata; nel secondo fabbisogno, competenza, procedura e documentazione; nel terzo imparzialita, riservatezza e canali ufficiali. Cambia la materia, ma resta stabile la domanda: quale passo puo' compiere legittimamente l'ufficio e quale output lo rende verificabile?
+
+Per i profili di vigilanza, la stessa struttura e' utile, ma tecniche ispettive, verbali e poteri specialistici appartengono al percorso dedicato. Non improvvisarli nel caso amministrativo comune.
+
+## N-FC03-11-05 · Mini-atti e risposta sintetica 10/20/30 righe
+
+### Come trasformare il caso in risposta sintetica
 
 Molte prove non chiedono un elaborato lungo. Chiedono 10, 20 o 30 righe. In quel caso devi comprimere senza diventare generico.
 
@@ -297,11 +350,50 @@ Esempio in 10 righe su domanda incompleta:
 
 Questa risposta e' breve, ma contiene fatti, problema, regola, soluzione e cautela.
 
-## Da sapere in 5 righe
+
+### Scegliere la forma prima di scrivere
+
+Il mini-atto non e' un provvedimento completo in miniatura. E' un output proporzionato alla consegna. Una comunicazione all'utente deve far capire a quale pratica si riferisce, quale informazione e' certa, quale passaggio segue e quale canale usare. Una richiesta di integrazione identifica cio' che manca e perche' serve, senza anticipare l'esito. Una nota interna permette al collega o al responsabile di ricostruire fatti, verifiche gia' svolte, criticita e decisione richiesta. La risposta sintetica espone invece problema, regola, applicazione e conclusione in forma discorsiva.
+
+Prima di scrivere, prepara una micro-scaletta di quattro righe:
+
+1. problema concreto della traccia;
+2. competenza e regola pertinente;
+3. sequenza di azioni dell'ufficio;
+4. output e cautela finale.
+
+Questa scaletta evita due difetti frequenti. Il primo e' l'atto ornamentale: oggetto, formule e saluti occupano spazio ma non risolvono il caso. Il secondo e' la risposta senza destinatario: corretta in teoria, ma incapace di dire che cosa ricevera' l'utente o che cosa dovra' fare il back office.
+
+### Lo schema 10/20/30 righe
+
+Dieci righe richiedono selezione estrema: una frase per il problema, una per competenza e vincoli, tre o quattro per la soluzione, una per output e cautela. In venti righe puoi distinguere qualificazione, istruttoria, dati, comunicazione ed esito possibile. In trenta righe puoi motivare meglio le alternative, esplicitare il raccordo fra uffici e chiudere con un controllo finale. Il numero di righe non cambia la logica: cambia il grado di sviluppo.
+
+| Spazio | Struttura consigliata | Cosa evitare |
+| --- | --- | --- |
+| 10 righe | problema, regola, azione, output | premessa generale sull'ente |
+| 20 righe | inquadramento, competenza, vincoli, sequenza, cautela | elenco di norme non applicate |
+| 30 righe | fatti, qualificazione, alternative, soluzione motivata, comunicazione | ripetizioni e dettagli non richiesti |
+
+Adatta sempre lo schema alle istruzioni reali della prova. Se la consegna impone un formato, un limite o criteri specifici, questi prevalgono sul modello di allenamento.
+
+### Revisione in sei controlli
+
+Prima di consegnare chiediti: ho risposto al verbo? Ho separato fatti e supposizioni? Ho attribuito ogni azione al ruolo corretto? Ho richiamato soltanto regole pertinenti? Ho prodotto l'output richiesto? Ho evitato promesse, dati impropri e riferimenti normativi insicuri? Se una risposta supera questi sei controlli, la sintesi non e' soltanto breve: e' funzionale alla valutazione.
+
+**Micro-esercizio:** riduci il caso dell'impresa e della pratica sospesa prima a venti righe, poi a dieci. Nella versione breve devono restare tre piani distinti: stato della pratica, integrazione documentale e richiesta di accesso. Se uno scompare, hai tagliato una parte necessaria; se compaiono dettagli nuovi, non hai sintetizzato ma inventato.
+
+
+La revisione deve controllare anche la coerenza fra forma e destinatario. Una nota interna puo' usare un lessico tecnico che consenta al collega di proseguire l'istruttoria; una comunicazione all'utente deve tradurre lo stesso passaggio in parole comprensibili, senza perdere precisione. Cambiare registro non significa cambiare i fatti. Se le due versioni attribuiscono competenze diverse, promettono risultati differenti o indicano canali incompatibili, il problema non e' stilistico: la soluzione amministrativa non e' ancora stabile.
+
+Allenati quindi a produrre due output dallo stesso caso: prima una nota di cinque righe al back office, poi una comunicazione di cinque righe all'utente. Confrontale e verifica che fatti, stato della pratica e prossimo passo coincidano.
+
+## N-FC03-11-06 · Laboratorio integrato, correzione e trasferimento
+
+### Da sapere in 5 righe
 
 Il caso pratico EPNE misura la capacita di applicare regole a situazioni di servizio. La traccia va letta come un fascicolo ridotto: fatti, soggetti, ente, competenza, procedimento, dati, soluzione e output. INPS richiama spesso prestazioni, domande, posizioni e servizi; INAIL richiama evento lavorativo, tutela assicurativa, prevenzione, dati e rapporto con imprese e lavoratori. Una risposta forte non promette esiti, non comunica dati impropriamente e non decide fuori competenza. L'allenamento utile produce mini-atti, risposte sintetiche e diario errori.
 
-## Caso guidato
+### Caso guidato
 
 Giulia prepara un concorso per funzionario amministrativo presso un ente pubblico non economico. Nella prova scritta trova questa traccia:
 
@@ -324,13 +416,13 @@ Poi scrive:
 
 La risposta funziona perche' non e' un tema: e' una decisione amministrativa ordinata.
 
-## Domanda da commissario
+### Domanda da commissario
 
 **Domanda:** come si affronta un caso pratico in un concorso per enti pubblici non economici?
 
 **Risposta modello:** si parte dai fatti e si qualifica la richiesta, distinguendo se riguarda istanza, informazione, accesso, reclamo, integrazione, servizio o riesame. Poi si individuano ente, soggetti, ufficio competente, procedimento e vincoli: termini, dati personali, trasparenza, canali digitali, tracciabilita e responsabilita. La soluzione deve essere concreta e proporzionata: comunicare, istruire, chiedere integrazione, inoltrare, motivare o attivare il canale corretto. Nei casi EPNE occorre anche usare il taglio dell'ente: INPS per previdenza, prestazioni e servizi; INAIL per assicurazione, prevenzione, eventi lavorativi e rapporto con imprese e lavoratori.
 
-## Domanda-trappola
+### Domanda-trappola
 
 **Domanda:** nel caso pratico, se l'utente ha evidentemente bisogno di aiuto, il funzionario puo' semplificare saltando qualche passaggio formale?
 
@@ -338,7 +430,7 @@ La risposta funziona perche' non e' un tema: e' una decisione amministrativa ord
 
 **Perche' e' una trappola:** trasforma la disponibilita in deroga. Nei concorsi, la risposta corretta e' quasi sempre quella che unisce servizio e legalita.
 
-## Errore tipico
+### Errore tipico
 
 L'errore piu' frequente e' scrivere un riassunto teorico invece di risolvere il caso.
 
@@ -353,7 +445,7 @@ La correzione e':
 5. chiudi con un output concreto;
 6. segnala la cautela principale.
 
-## Mini-esercizio
+### Mini-esercizio
 
 Risolvi i tre casi in massimo 12 righe ciascuno.
 
@@ -369,7 +461,7 @@ Traccia di correzione:
 - nel secondo: verificare identita e canale, tutelare dati, orientare all'ufficio competente;
 - nel terzo: qualificare accesso, verificare legittimazione, valutare dati di terzi, eventuali oscuramenti o limiti.
 
-## Diario errori del capitolo
+### Diario errori del capitolo
 
 Dopo ogni simulazione, registra l'errore in modo specifico.
 
@@ -383,7 +475,7 @@ Dopo ogni simulazione, registra l'errore in modo specifico.
 | Canale informale | Uso email personale, telefonata o favore diretto. | Rinvio a canali ufficiali e tracciabili. |
 | Risposta troppo lunga | Apro troppe materie. | Uso schema 10/20/30 righe. |
 
-## Checklist operativa finale
+### Checklist operativa finale
 
 Prima di considerare chiuso il capitolo, verifica di saper fare questi passaggi:
 
@@ -396,28 +488,79 @@ Prima di considerare chiuso il capitolo, verifica di saper fare questi passaggi:
 - so distinguere sportello e back office?
 - so trasformare il caso in 10, 20 o 30 righe?
 - so registrare l'errore nel diario in modo correggibile?
+### Riferimenti essenziali per orientare la soluzione
 
-## Riferimenti consolidati
+Nei casi amministrativi la legge 7 agosto 1990, n. 241 offre il quadro generale del procedimento, dell'istruttoria, della partecipazione, della conclusione e della motivazione. Per trasparenza e accesso occorre distinguere gli istituti applicabili e coordinare il D.Lgs. 14 marzo 2013, n. 33 con la disciplina dell'accesso documentale. Il Regolamento (UE) 2016/679 orienta la protezione dei dati personali, soprattutto quando il fascicolo contiene informazioni riferite a terzi o dati delicati. Questi riferimenti non sostituiscono il bando, le regole dell'ente o la qualificazione del caso concreto: in prova vanno richiamati solo quando pertinenti e senza inventare articoli, termini o automatismi.
 
-- [[sources/m-fc03-dossier-redazionale-enti-pubblici-non-economici]]
-- [[sources/m-fc03-fonti-ufficiali-enti-epne-2026]]
-- [[sources/m-fc03-portali-bandi-concorsi-2023-2026]]
-- [[sources/capitolo-17-18-corpus-casi-pratici-quesiti-situazionali-2026-05-30]]
-- [[sources/risposta-sintetica-domande-aperte-metodo-bando]]
-- [[sources/legge-241-1990-procedimento-amministrativo]]
-- [[sources/regolamento-ue-2016-679-gdpr-protezione-dati-personali]]
-- [[sources/d-lgs-14-marzo-2013-n-33-trasparenza]]
-- [[topics/enti-pubblici-non-economici-concorsi]]
-- [[topics/casi-pratici]]
-- [[topics/problem-solving-amministrativo]]
-- [[topics/risposta-sintetica-concorsuale]]
-- [[entities/inps-inail-epne]]
-- [[books/il-metodo-bando/chapters/casi-pratici-problem-solving-amministrativo]]
-- [[books/il-metodo-bando/chapters/risposta-sintetica-scrivere-poco-dire-tutto]]
+I sette casi del capitolo sono esempi originali di allenamento. Non riproducono fascicoli reali ne' prove ufficiali e non stabiliscono requisiti o risultati di prestazioni INPS o INAIL.
 
-## Note di review
+## ▣ Verifica — Casi pratici EPNE
 
-- Gli esempi sono originali e didattici: non riproducono prove ufficiali ne' casi reali di singoli enti.
-- Prima della pubblicazione verificare eventuali bandi specifici INPS, INAIL o altri EPNE se il capitolo dovra' essere associato a una procedura concreta.
-- Per casi su prestazioni, requisiti, termini, importi, modulistica, canali digitali o dati sanitari, usare sempre fonte ufficiale aggiornata prima di inserire dettagli puntuali.
-- Se il modulo viene completato con casi avanzati per profili ispettivi, coordinare questo capitolo con Appendice A e Appendice F.
+**1. Una traccia descrive una domanda incompleta e chiede che cosa deve fare l'ufficio. Qual e' la prima operazione corretta?**
+
+A. Riassumere tutta la disciplina generale del procedimento.
+B. Qualificare fatti, richiesta, competenza e output richiesto.
+C. Anticipare l'esito piu' probabile per rassicurare l'utente.
+D. Scegliere il comportamento piu' empatico fra quattro opzioni.
+
+**Risposta corretta: B.** Il caso pratico richiede una sequenza applicativa. La teoria entra dopo la lettura dei fatti e soltanto nella misura necessaria; C anticipa una decisione, mentre D descrive piuttosto un quesito situazionale.
+
+**2. Lo sportello riceve una richiesta che richiede istruttoria del back office. Qual e' la soluzione piu' completa?**
+
+A. Decidere per evitare un passaggio interno.
+B. Rifiutare la richiesta per incompetenza.
+C. Qualificare, registrare o instradare secondo il canale previsto e spiegare il passaggio all'utente.
+D. Promettere che il back office concludera' rapidamente.
+
+**Risposta corretta: C.** Orientamento al servizio e competenza devono convivere. Lo sportello non sostituisce chi istruisce o decide, ma non lascia l'utente senza un percorso comprensibile e tracciabile.
+
+**3. Un richiedente invoca la trasparenza per ottenere l'intero fascicolo contenente dati di terzi. Che cosa deve fare l'ufficio?**
+
+A. Consegnare tutto, perche' la trasparenza prevale sempre.
+B. Negare sempre, perche' sono presenti dati personali.
+C. Qualificare la richiesta, verificare titolo, documenti, terzi coinvolti e cautele applicabili.
+D. Inviare il fascicolo tramite un canale informale purche' rapido.
+
+**Risposta corretta: C.** Accesso, trasparenza e protezione dei dati richiedono una valutazione concreta. La presenza di dati di terzi non produce automaticamente consegna integrale o diniego totale.
+
+**4. In un caso INAIL il lavoratore dichiara urgenza e chiede dati del fascicolo al telefono. Qual e' il criterio decisivo?**
+
+A. L'urgenza elimina la verifica dell'identita.
+B. Il dipendente verifica identita, titolo, necessita e canale prima di comunicare dati.
+C. Qualunque informazione e' comunicabile se riguarda il richiedente.
+D. Il caso va risolto spiegando tutta l'assicurazione sociale.
+
+**Risposta corretta: B.** L'urgenza puo' essere considerata nell'organizzazione, ma non cancella competenza, sicurezza del canale e protezione dei dati. Il caso non chiede una lezione generale sull'INAIL.
+
+**5. Che cosa distingue una richiesta di integrazione da un provvedimento finale?**
+
+A. L'integrazione individua cio' che serve all'istruttoria senza anticipare necessariamente l'esito.
+B. L'integrazione garantisce l'accoglimento quando il documento arriva.
+C. Non esiste differenza se entrambe sono scritte.
+D. Il provvedimento finale puo' essere adottato dallo sportello in ogni caso.
+
+**Risposta corretta: A.** L'integrazione permette di proseguire o completare la verifica; non sostituisce la valutazione dei requisiti e non autorizza promesse sull'esito.
+
+**6. Una consegna impone dieci righe. Quale struttura e' piu' efficace?**
+
+A. Premessa storica sull'ente, elenco di norme e saluti finali.
+B. Problema, regola pertinente, azione dell'ufficio, output e cautela.
+C. Solo la conclusione, senza spiegare la sequenza.
+D. Tutti i dettagli possibili in frasi molto lunghe.
+
+**Risposta corretta: B.** La risposta breve deve restare completa nel minimo necessario. Seleziona, non comprime indiscriminatamente e non sostituisce l'applicazione con teoria generale.
+
+### Rubrica di autovalutazione del caso
+
+Assegna un punto per ciascun controllo superato:
+
+| Controllo | Domanda |
+| --- | --- |
+| Pertinenza | Ho risposto al verbo e all'output della consegna? |
+| Fatti | Ho distinto dati della traccia e supposizioni? |
+| Competenza | Ho indicato chi riceve, istruisce, decide o comunica? |
+| Regola | Ho richiamato solo principi utili al caso? |
+| Applicazione | Ho costruito una sequenza concreta e proporzionata? |
+| Cautela | Ho evitato promesse, dati impropri e canali informali? |
+
+Con sei punti la risposta e' pronta per una revisione di stile. Con quattro o cinque punti individua il controllo mancante e riscrivi soltanto quel passaggio. Sotto quattro punti torna alla griglia in nove passaggi: probabilmente stai esponendo teoria o reagendo d'istinto invece di risolvere il fascicolo.
