@@ -3,7 +3,7 @@
   "specPath": "books/volumi/vol-10-tecnico-ingegneristico-territorio-lavori-pubblici/planning/00-scheda-pipeline.md",
   "specHash": "sha256:b9582ff0b8d13a37147bf7b04c7969c20ebe2e12e1d2c843c1299f83af59b454",
   "createdAt": "2026-07-29T16:39:37.771Z",
-  "updatedAt": "2026-08-11T10:31:56.351Z",
+  "updatedAt": "2026-08-11T10:47:55.799Z",
   "steps": [
     {
       "key": "08:moduli/m-tr03-tecnico-ingegneristico/chapters/01-concorso-tecnico-pa-profili-prove.md",
@@ -722,9 +722,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/07-progettazione-opere-pubbliche.md",
-      "status": "pending",
-      "attempts": 1,
-      "evidence": []
+      "status": "done",
+      "attempts": 2,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-11T10:47:55.178Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-11T10:47:55.799Z"
     },
     {
       "key": "10:moduli/m-tr03-tecnico-ingegneristico/chapters/07-progettazione-opere-pubbliche.md",
@@ -732,9 +742,15 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/07-progettazione-opere-pubbliche.md",
-      "status": "pending",
+      "status": "done",
       "attempts": 1,
-      "evidence": []
+      "evidence": [],
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-11T10:47:34.181Z"
     },
     {
       "key": "11:moduli/m-tr03-tecnico-ingegneristico/chapters/07-progettazione-opere-pubbliche.md",

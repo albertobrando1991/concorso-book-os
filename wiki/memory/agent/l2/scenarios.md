@@ -5143,3 +5143,11 @@
 - l0: l0/conv-20260811103212-1j861r7.md
 - atoms:
   - mem-20260811103212-1tg2qzy | result | Esito pipeline-volume/step-08: Procedere con il prossimo step della pipeline aggiornata per VOL-10. -> Completato step 08 capitolo 07: piano Format 2 aggiornato con sei nuclei, budget 4500-4900 parole, sei quiz, verifiche vicine, caso integrato, fonti e audit automatici.
+
+## 2026-08-11T10:48:09.583Z - VOL-10
+
+- conversation_id: conv-20260811104809-1dhpu0j
+- route: pipeline-volume/step-10
+- l0: l0/conv-20260811104809-1dhpu0j.md
+- atoms:
+  - mem-20260811104809-6cclq3 | result | Esito pipeline-volume/step-10: Procedere con il prossimo step della pipeline aggiornata per VOL-10. -> Completato step 10 capitolo 07: matrice e delta aggiornati per sei Nucleo ID con checklist dimensionale ed evidenze; gate didactic-density verde senza warning.
