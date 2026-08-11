@@ -63,7 +63,7 @@ La descrizione dell'opera deve essere tecnica e verificabile. Non basta scrivere
 
 La categoria produce conseguenze. Orienta il regime amministrativo, il livello di documentazione, i controlli, l'agibilita, la vigilanza e l'eventuale qualificazione della difformita. Nella prova orale conviene spiegare che il testo unico offre definizioni generali, mentre la disciplina regionale, il piano locale e le norme di settore possono incidere sul caso concreto nei limiti consentiti dall'ordinamento. Questa prudenza non impoverisce la risposta: dimostra che il candidato sa distinguere il quadro nazionale dal fascicolo reale.
 
-La classificazione richiede anche di riconoscere cio che non appartiene alla categoria edilizia in senso stretto. Il dato catastale localizza e rappresenta, il piano disciplina l'uso del territorio, la tutela paesaggistica protegge un interesse autonomo, la disciplina strutturale riguarda la sicurezza dell'opera. La categoria edilizia coordina questi piani, ma non li sostituisce. In una risposta sintetica, questa distinzione evita di trasformare un solo controllo in una conclusione totale.
+Classificare bene significa anche riconoscere cio che resta fuori dalla categoria edilizia in senso stretto. Il dato catastale localizza e rappresenta; il piano disciplina l'uso del territorio; la tutela paesaggistica protegge un interesse autonomo; la disciplina strutturale riguarda la sicurezza dell'opera. La categoria edilizia tiene insieme questi piani senza sostituirli. Una risposta sintetica deve quindi evitare di trasformare l'esito di un solo controllo in una conclusione generale.
 
 Un microcaso chiarisce il metodo. Il proprietario dichiara di voler "ristrutturare" un locale. Se sostituisce pavimenti, rinnova impianti e ritinteggia, il problema e diverso da quello di chi modifica aperture esterne, elimina elementi portanti o cambia uso con effetti urbanistici. La parola iniziale e identica; l'opera, la categoria e il regime possono cambiare. Il tecnico pubblico deve quindi scomporre il racconto in fatti: cosa si demolisce, cosa si costruisce, cosa si sposta, quali elaborati lo provano.
 
@@ -85,7 +85,7 @@ La SCIA edilizia si collega agli interventi dell'art. 22. Consente l'avvio dell'
 
 Il permesso di costruire e il provvedimento espresso previsto per gli interventi individuati dall'art. 10 e dalle norme collegate. La domanda richiede progetto, titolo di legittimazione, verifiche di conformita e atti di assenso necessari. In un caso concorsuale il candidato deve motivare perche l'intervento rientra nel perimetro del permesso, non limitarsi a citarlo.
 
-Regime e titolo vanno inoltre separati dal contenuto tecnico della pratica. Il regime dice quale canale amministrativo si usa; il progetto e le asseverazioni dimostrano che l'opera proposta rispetta i presupposti dichiarati; gli atti ulteriori coprono interessi che il titolo edilizio non assorbe. Questa tripartizione e utile nelle domande a risposta breve: prima si nomina il regime, poi si spiega che cosa deve essere verificato e infine si indicano i controlli concorrenti.
+Regime e titolo vanno separati dal contenuto tecnico della pratica. Il regime individua il canale amministrativo; progetto e asseverazioni documentano i presupposti dichiarati; gli atti ulteriori tutelano interessi che il titolo edilizio non assorbe. Nelle risposte brevi questa distinzione offre una scaletta efficace: nominare il regime, precisare che cosa va verificato e indicare i controlli concorrenti.
 
 | Regime | Funzione | Attenzione da prova |
 | --- | --- | --- |
@@ -97,7 +97,7 @@ Regime e titolo vanno inoltre separati dal contenuto tecnico della pratica. Il r
 
 Gli atti ulteriori sono spesso decisivi. Un intervento puo richiedere autorizzazione paesaggistica, valutazioni strutturali o sismiche, prevenzione incendi, atti in materia igienico-sanitaria, autorizzazioni su beni culturali o verifiche ambientali. Il regime edilizio indica una parte del percorso, non l'intero fascicolo. Nel profilo tecnico della PA questa distinzione e centrale: il funzionario non deve promettere al cittadino un esito sulla base del modulo sbagliato o incompleto.
 
-Il D.Lgs. n. 222/2016 aiuta a leggere i regimi come mappa di semplificazione, non come elenco da applicare meccanicamente. La Tabella A va usata insieme al testo unico edilizia e alla disciplina vigente, perche l'intervento reale puo portare con se condizioni, atti presupposti o limiti territoriali. In prova, quindi, e piu solido dire "il regime va verificato su questa catena" che recitare un elenco chiuso di opere.
+Il D.Lgs. n. 222/2016 offre una mappa dei regimi di semplificazione, non un elenco da applicare meccanicamente. La Tabella A va letta insieme al testo unico edilizia e alla disciplina vigente, perche l'intervento reale puo implicare condizioni, atti presupposti o limiti territoriali. In prova e dunque piu solido mostrare la catena delle verifiche che recitare un elenco chiuso di opere.
 
 Per impostare una risposta orale si puo usare una formula ordinata: "Descrivo le opere; verifico la categoria nel testo unico; controllo il regime tra art. 6, 6-bis, 10, 22 e 23 e nella Tabella A; verifico stato legittimo, piano e discipline concorrenti; infine indico documenti, responsabilita e controlli". Questa risposta mostra metodo, evita automatismi e lascia spazio alla normativa territoriale vigente.
 
@@ -130,7 +130,7 @@ Un fascicolo incompleto va trattato con metodo. Se manca l'elaborato che dimostr
 
 La legge generale sul procedimento amministrativo offre il quadro su responsabile, termini, partecipazione, conferenza di servizi, SCIA e silenzio nei limiti della disciplina applicabile. Nel settore edilizio, pero, occorre applicare le regole speciali del testo unico. La teoria generale non sostituisce gli articoli edilizi e non autorizza scorciatoie come "si forma sempre il silenzio assenso" o "la SCIA equivale a un permesso".
 
-Il raccordo procedimentale serve soprattutto a ordinare ruoli e passaggi: chi presenta, chi assevera, chi controlla, chi acquisisce apporti esterni e quale atto chiude o condiziona la fase. Nelle pratiche edilizie il coordinamento non e un dettaglio amministrativo, perche un assenso mancante o una dichiarazione non verificabile possono incidere sulla stessa possibilita di eseguire l'intervento.
+Il raccordo procedimentale ordina ruoli e passaggi: chi presenta, chi assevera, chi controlla, chi acquisisce apporti esterni e quale atto chiude o condiziona la fase. Nelle pratiche edilizie il coordinamento incide sulla sostanza: un assenso mancante o una dichiarazione non verificabile possono impedire l'esecuzione dell'intervento.
 
 Un microcaso: il SUE riceve una SCIA per modifica di prospetti in area segnalata come tutelata, ma l'allegato paesaggistico non e presente. La risposta non deve dire soltanto che la pratica e incompleta. Deve spiegare perche il titolo edilizio non assorbe la tutela, quale atto o verifica manca, quale ufficio o amministrazione puo essere coinvolta e quale effetto ha l'assenza sull'istruttoria. Il punto non e memorizzare un modulo, ma costruire un fascicolo difendibile.
 
@@ -157,7 +157,7 @@ La conformita urbanistica riguarda il rapporto tra intervento, destinazione, str
 
 L'agibilita, disciplinata dall'art. 24, riguarda le condizioni indicate dalla norma e la conformita dell'opera al progetto presentato nei casi previsti. Si collega a sicurezza, igiene, salubrita, risparmio energetico e altri presupposti previsti dal testo vigente, secondo il regime della segnalazione certificata. Non e un titolo per costruire e non sana una difformita edilizia. Dire che un immobile "ha l'agibilita" non basta per affermare che ogni opera sia legittima.
 
-Lo stato legittimo ha una funzione di base: definisce da quale consistenza l'intervento parte. La conformita del progetto ha una funzione prospettica: verifica se la trasformazione proposta puo essere realizzata. La conformita dell'eseguito ha una funzione di controllo successivo: confronta cio che e stato fatto con cio che era stato dichiarato, assentito o segnalato. L'agibilita riguarda invece condizioni finali e attestazioni specifiche. Tenere distinti questi quattro momenti rende la risposta piu precisa e riduce il rischio di sanare concettualmente cio che deve essere prima accertato.
+Lo stato legittimo definisce la consistenza dalla quale parte l'intervento. La conformita del progetto guarda in avanti e verifica se la trasformazione proposta sia realizzabile. La conformita dell'eseguito opera dopo i lavori, confrontando quanto realizzato con quanto dichiarato, assentito o segnalato. L'agibilita riguarda condizioni finali e attestazioni specifiche. Distinguere questi quattro momenti rende la risposta piu precisa e impedisce di considerare regolare, per semplice sovrapposizione di concetti, cio che deve ancora essere accertato.
 
 Le modifiche normative del 2024 hanno inciso anche su stato legittimo, tolleranze e regolarizzazione. Per il candidato questo significa due cose: conoscere gli istituti in modo funzionale e, nelle conclusioni puntuali, richiamare sempre il testo vigente. Non e prudente fissare a memoria soglie, termini o effetti senza verifica ufficiale, soprattutto quando il bando o la traccia possono riferirsi a un contesto territoriale specifico.
 
@@ -192,7 +192,7 @@ Sanatoria, accertamento di conformita, tolleranze e altri istituti di regolarizz
 
 Il ruolo dell'amministrazione e documentale e motivazionale. Un sopralluogo deve distinguere constatazioni, misure, fotografie, dichiarazioni, atti esaminati e limiti dell'accertamento. Una relazione tecnica deve spiegare come dal fatto si arriva alla qualificazione. Un provvedimento deve collegare presupposti e conseguenze. Nei concorsi per profili tecnici, questa capacita di tracciare il ragionamento vale quanto la memoria degli articoli.
 
-La vigilanza ha anche una funzione preventiva e ordinante. Sapere che l'eseguito sara confrontato con titoli, progetto e stato legittimo spinge a costruire pratiche chiare, elaborati coerenti e asseverazioni controllabili. Per l'ufficio, il controllo non e un giudizio sommario sul cittadino, ma un'attivita pubblica che deve rispettare competenza, istruttoria e motivazione. Questa impostazione evita due errori opposti: tollerare ogni difformita come irregolarita minore o trattare ogni scostamento come se avesse identica gravita.
+La vigilanza svolge anche una funzione preventiva. Sapere che l'eseguito sara confrontato con titoli, progetto e stato legittimo porta a predisporre pratiche chiare, elaborati coerenti e asseverazioni controllabili. Per l'ufficio il controllo e un'attivita pubblica soggetta a competenza, istruttoria e motivazione, non un giudizio sommario sul cittadino. Cosi si evitano due errori opposti: ridurre ogni difformita a irregolarita minore oppure attribuire la stessa gravita a qualunque scostamento.
 
 Un microcaso: durante il controllo emerge una veranda realizzata senza pratica su un immobile in area tutelata. La risposta non puo limitarsi a "abuso sanabile" o "demolizione". Occorre descrivere l'opera, verificare stato legittimo e disciplina urbanistica, individuare il regime che sarebbe stato necessario, accertare la tutela e l'eventuale atto mancante, qualificare la difformita e solo dopo valutare conseguenze o istituti applicabili. Se manca un dato, lo si dichiara.
 
@@ -206,7 +206,7 @@ Un verbale rileva una difformita ma non indica il titolo originario ne lo stato 
 
 ## N-TR03-06-06 · Caso opera-regime-controllo
 
-Questo nucleo integra la catena completa: opera, categoria, regime, SUE, stato legittimo, atti ulteriori, controllo e dati mancanti. Serve per la prova scritta, per l'orale e per i casi tecnico-amministrativi nei quali la commissione valuta il metodo piu che la memorizzazione di un elenco.
+Questo nucleo ricompone l'intera catena: opera, categoria, regime, SUE, stato legittimo, atti ulteriori, controllo e dati mancanti. E utile nella prova scritta, nell'orale e nei casi tecnico-amministrativi, dove la commissione valuta soprattutto il metodo seguito e non la semplice memorizzazione di un elenco.
 
 ### Caso guidato: trasformazione di un immobile esistente
 

@@ -5,6 +5,7 @@ Usala come profilo di lavoro: le source notes e il wiki restano la base canonica
 
 ## Preferenze e istruzioni recenti
 
+- Procedere con lo step successivo della pipeline aggiornata per VOL-10. (mem-20260811102531-12pviuo)
 - Procedi con il prossimo step della pipeline aggiornata di VOL-10. (mem-20260811094214-1syjej1)
 - Procedere con la pipeline aggiornata di VOL-10. (mem-20260811090600-biy864)
 - Applicare la pipeline aggiornata al volume 10 portando i capitoli allo stato pubblicabile. (mem-20260811084719-sr3sp3)
@@ -84,4 +85,3 @@ Usala come profilo di lavoro: le source notes e il wiki restano la base canonica
 - Ricorda: per VOL-07 M-SA02 il corpus PREMAL e risposta al segnale comprende DM 7 marzo 2022 in Gazzetta, guida ISS-EpiCentro e due strumenti ECDC; lo scenario resta planning e non autorizza capitoli finché manca review epidemiologica indipendente. (mem-20260729124607-16dadm7)
 - Procedi con il prossimo passo della pipeline del Volume 7, completando il ciclo epidemiologia e screening senza avviare i capitoli prima del superamento del gate. (mem-20260729111701-1t45ujs)
 - Procedi con il prossimo passo della pipeline del volume 7, completando il ciclo fonti TPALL senza avviare i capitoli prima del superamento del gate. (mem-20260729104144-1b2yy63)
-- Procedi con il prossimo passo della pipeline del volume 7, completando il ciclo fonti del verticale fisioterapico senza avviare i capitoli prima del superamento del gate. (mem-20260729101908-bd5mrt)

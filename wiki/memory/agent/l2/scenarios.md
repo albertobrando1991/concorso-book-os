@@ -5117,3 +5117,12 @@
 - l0: l0/conv-20260811102239-1lr83q8.md
 - atoms:
   - mem-20260811102239-siogf | result | Esito codex-vol10-cap06-step10: Procedi con il prossimo step. -> Step 10 capitolo 06 completato: matrice e delta Format 2 aggiornati, gate verde.
+
+## 2026-08-11T10:25:31.027Z - VOL-10
+
+- conversation_id: conv-20260811102531-1d2c17s
+- route: pipeline-volume/step-11
+- l0: l0/conv-20260811102531-1d2c17s.md
+- atoms:
+  - mem-20260811102531-12pviuo | workflow | Procedere con lo step successivo della pipeline aggiornata per VOL-10.
+  - mem-20260811102531-l5cncn | result | Esito pipeline-volume/step-11: Procedere con lo step successivo della pipeline aggiornata per VOL-10. -> Completato step 11 del capitolo 06: umanizzazione chirurgica, citation-guard verde, densita Format 2 preservata (5052 parole; minimo nucleo 661), 155 test gate superati.
