@@ -54,13 +54,13 @@ last_compiled_from: [
 
 ## Apertura editoriale
 
-Dopo bilancio, patrimonio e controlli, il candidato deve fare un passaggio ulteriore: capire come un ente pubblico non economico collega risorse, organizzazione, personale, rischi, trasparenza e risultati. Questo e' il terreno di performance, PIAO e valore pubblico.
+Dopo bilancio, patrimonio e controlli, occorre capire come un ente pubblico non economico colleghi risorse, organizzazione, personale, rischi, trasparenza e risultati. Performance, PIAO e valore pubblico disciplinano questo raccordo.
 
-Nei concorsi EPNE il tema non va studiato come un elenco di sigle. Il PIAO non e' una pagina amministrativa da citare a memoria; la performance non e' un voto astratto; il valore pubblico non e' uno slogan. Sono strumenti per leggere come l'ente programma, organizza, misura e rende conto della propria capacita di produrre servizi utili, corretti e sostenibili.
+Nei concorsi EPNE, imparare una sequenza di sigle serve a poco. PIAO, performance e valore pubblico permettono di leggere come l'ente programma il lavoro, organizza le risorse, misura i risultati e ne rende conto. Ridurli, rispettivamente, a un adempimento, a un voto o a uno slogan impedisce di coglierne la funzione amministrativa.
 
-INPS, INAIL e gli altri enti del perimetro M-FC03 non operano nel vuoto. Gestiscono domande, prestazioni, fascicoli, pratiche, controlli, servizi digitali, rapporto con utenti e imprese, personale, rischi corruttivi, dati personali, acquisti e bilanci. Performance e PIAO servono a tenere insieme questi elementi. Per questo il capitolo dialoga con il capitolo 6, ma non lo duplica: il capitolo 6 guarda a risorse e controlli; questo guarda a obiettivi, organizzazione, risultati e qualita dell'azione amministrativa.
+INPS, INAIL e gli altri enti del perimetro M-FC03 gestiscono domande, prestazioni, fascicoli, controlli, servizi digitali e rapporti con utenti e imprese. A queste attivita si affiancano la gestione del personale, dei rischi corruttivi, dei dati personali, degli acquisti e dei bilanci. Performance e PIAO servono a tenere insieme questi elementi. Per questo il capitolo dialoga con il capitolo 6, ma non lo duplica: il capitolo 6 guarda a risorse e controlli; questo guarda a obiettivi, organizzazione, risultati e qualita dell'azione amministrativa.
 
-Il rischio tipico e' duplice. Alcuni candidati saltano il PIAO perche' lo considerano una materia da dirigenti. Altri lo studiano come un documento burocratico, senza capire perche' puo' comparire in quiz, orale, casi pratici e quesiti situazionali. In entrambi i casi manca il punto: il PIAO e' utile quando aiuta a rispondere a una domanda concreta.
+Alcuni candidati trascurano il PIAO perche' lo considerano una materia riservata ai dirigenti. Altri ne memorizzano l'indice come se fosse un adempimento isolato. Entrambi faticano poi nei quiz, all'orale e nei casi, dove occorre usare il piano per rispondere a una domanda concreta.
 
 La domanda guida del capitolo e':
 
@@ -76,7 +76,7 @@ Alla fine del capitolo devi saper fare cinque cose:
 4. leggere un PIAO di ente senza memorizzare dati annuali non necessari;
 5. costruire una scheda PIAO/performance applicata a INPS, INAIL o altro EPNE.
 
-Il risultato atteso non e' conoscere ogni allegato dell'ultimo PIAO pubblicato. E' saper usare il documento come mappa organizzativa dell'ente.
+Non occorre conoscere ogni allegato dell'ultimo PIAO pubblicato. Occorre saper usare il documento come mappa organizzativa dell'ente.
 
 ## Mappa BANDO
 
@@ -98,7 +98,7 @@ Il PIAO, Piano integrato di attivita e organizzazione, e' lo strumento che integ
 
 Il valore pubblico e' il risultato utile che l'ente produce per cittadini, imprese, lavoratori, utenti e comunita, usando correttamente risorse e organizzazione. In un EPNE, valore pubblico puo' voler dire servizi piu accessibili, pratiche piu tracciabili, tempi piu chiari, tutela piu efficace, riduzione di errori, prevenzione di rischi, qualita della relazione con l'utente e uso responsabile delle risorse.
 
-La formula da ricordare e':
+Una sintesi utile per il ripasso e':
 
 > PIAO = obiettivi + organizzazione + rischi + persone + trasparenza; performance = misurazione e miglioramento; valore pubblico = utilita concreta prodotta dall'ente.
 
@@ -106,7 +106,7 @@ La performance va letta come un ciclo, non come un giudizio isolato. L'amministr
 
 Occorre poi distinguere performance organizzativa e performance individuale. La prima riguarda l'amministrazione, una struttura, un servizio o un processo: tempi, qualita, accessibilita, risultati, efficienza e capacita di rispondere ai bisogni. La seconda considera il contributo della persona agli obiettivi e i comportamenti professionali secondo il sistema applicabile. I due livelli comunicano, ma non coincidono. Un dipendente puo svolgere correttamente i compiti assegnati dentro un processo mal progettato; viceversa, un buon assetto organizzativo non elimina la necessita di valutare responsabilita e contributi individuali.
 
-Nel quadro generale, il D.Lgs. 27 ottobre 2009, n. 150 disciplina il sistema di misurazione e valutazione della performance delle amministrazioni pubbliche. Per la prova non serve recitare l'intero decreto. Serve riconoscere la sequenza fra obiettivi, misurazione, valutazione, trasparenza dei risultati e miglioramento. Le regole concrete, i soggetti e i documenti vanno poi letti secondo la disciplina applicabile all'ente.
+Nel quadro generale, il D.Lgs. 27 ottobre 2009, n. 150 disciplina il sistema di misurazione e valutazione della performance delle amministrazioni pubbliche. Per la prova non occorre recitare l'intero decreto: bisogna riconoscere la sequenza fra obiettivi, misurazione, valutazione, trasparenza dei risultati e miglioramento. Le regole concrete, i soggetti e i documenti vanno poi letti secondo la disciplina applicabile all'ente.
 
 **Esempio:** un ufficio riduce il numero delle pratiche arretrate, ma aumentano gli errori e le richieste di riesame. Il solo dato quantitativo non dimostra un miglioramento completo. La performance organizzativa richiede di osservare insieme volume, tempi, correttezza e qualita del servizio. In un quiz, la risposta migliore evita quindi di identificare la performance con la velocita o con la sola valutazione del dipendente.
 
@@ -118,7 +118,7 @@ La conseguenza operativa e' importante. Un sistema di performance attendibile or
 
 ## N-FC03-07-02 · PIAO: funzione, struttura e integrazione
 
-Negli enti pubblici non economici il PIAO e' particolarmente utile perche' rende visibile il passaggio dall'ordinamento alla gestione. Il capitolo 2 ti ha spiegato organi, governance, vigilanza e fonti; il capitolo 6 ti ha mostrato bilancio, patrimonio e controlli. Il PIAO collega questi piani a obiettivi, personale, rischi, trasparenza e organizzazione concreta.
+Negli enti pubblici non economici il PIAO rende leggibile il passaggio dall'ordinamento alla gestione. Il capitolo 2 ti ha spiegato organi, governance, vigilanza e fonti; il capitolo 6 ti ha mostrato bilancio, patrimonio e controlli. Il PIAO collega questi piani a obiettivi, personale, rischi, trasparenza e organizzazione concreta.
 
 Per INPS e INAIL, questo collegamento e' immediato. Un ente che gestisce prestazioni, servizi, pratiche, dati delicati, rapporto con utenti e imprese deve chiedersi: quali risultati vuole ottenere? quali processi sono critici? quali competenze servono? quali rischi organizzativi o corruttivi devono essere prevenuti? quali indicatori consentono di capire se il servizio migliora? quali informazioni vanno pubblicate e quali dati vanno protetti?
 
@@ -128,7 +128,7 @@ In prova, il PIAO puo' comparire in tre modi:
 - come documento da collegare a performance, anticorruzione, trasparenza e personale;
 - come sfondo di un caso pratico o situazionale su uffici, priorita, rischi, servizio e responsabilita.
 
-Il candidato che sa usare il PIAO non risponde con una definizione astratta. Sa dire che il documento serve a leggere l'ente come organizzazione che programma, misura, previene rischi e rende conto.
+Chi sa usare il PIAO va oltre la definizione astratta e spiega come il documento descriva un'organizzazione che programma, misura, previene rischi e rende conto.
 
 Il D.P.R. 24 giugno 2022, n. 81 individua gli adempimenti assorbiti dal PIAO; il decreto 30 giugno 2022, n. 132 definisce il piano-tipo. Le due fonti vanno lette insieme. L'assorbimento riguarda il coordinamento documentale della programmazione e non cancella le funzioni, le responsabilita o gli obblighi sostanziali delle materie integrate. Questa distinzione risolve una frequente domanda-trappola: un contenuto confluisce nel PIAO, ma continua a dover essere programmato, attuato, monitorato e rendicontato secondo le regole vigenti.
 
@@ -142,7 +142,7 @@ Il PIAO non sostituisce il bilancio. Gli obiettivi devono essere coerenti con ri
 
 **Uso nella prova:** se la domanda chiede che cosa contiene il PIAO, evita l'elenco recitato senza funzione. Spiega che il piano integra programmazioni tra loro connesse e usa un esempio: un obiettivo di servizio richiede persone, competenze, prevenzione dei rischi e misurazione. Se invece la traccia presenta un documento concreto, classifica prima ente, periodo, sezione e obiettivo; soltanto dopo valuta coerenza e completezza.
 
-Un altro errore consiste nel considerare identici PIAO di amministrazioni diverse. Il quadro comune orienta struttura e contenuti, ma priorita, assetti, processi e indicatori dipendono dall'ente e dal periodo. Per questa ragione il candidato puo studiare la logica stabile del piano, mentre deve verificare sul documento ufficiale ogni dato annuale che intende citare.
+Un altro errore consiste nel considerare identici PIAO di amministrazioni diverse. Il quadro normativo comune orienta struttura e contenuti generali, ma priorita, assetti, processi e indicatori dipendono dall'ente e dal periodo. Per questa ragione il candidato puo studiare la logica stabile del piano, mentre deve verificare sul documento ufficiale ogni dato annuale che intende citare.
 
 ## N-FC03-07-03 · Obiettivi, indicatori, monitoraggio e miglioramento
 
@@ -154,7 +154,7 @@ In una risposta concorsuale evita frasi come "l'ente deve fare bene il proprio l
 
 > obiettivo -> attivita -> indicatore -> risultato -> controllo -> miglioramento.
 
-Questa catena trasforma la performance da slogan a metodo.
+La catena mostra il percorso che conduce dall'obiettivo alla verifica del risultato.
 
 ### Indicatori
 
@@ -170,7 +170,7 @@ Gli indicatori possono misurare risorse impiegate, attivita svolte, prodotti rea
 
 Il monitoraggio confronta l'andamento con quanto programmato mentre la gestione e' ancora in corso. Se emerge uno scostamento, l'ente ne cerca le cause: risorse insufficienti, processo ridondante, strumenti inadeguati, aumento imprevisto delle domande, competenze da rafforzare o indicatore mal costruito. L'azione correttiva deve rispondere alla causa accertata. Aumentare indiscriminatamente la pressione sul personale, per esempio, puo accelerare alcune pratiche e peggiorarne la qualita.
 
-La rendicontazione chiude il ciclo mettendo a confronto obiettivi, risultati e scostamenti. Non serve a riscrivere a posteriori cio che era stato promesso. Deve consentire di capire che cosa e' avvenuto e quali decisioni assumere nel ciclo successivo. Anche un risultato non raggiunto produce informazione utile se l'ente lo analizza con dati attendibili e individua interventi verificabili.
+La rendicontazione chiude il ciclo mettendo a confronto obiettivi, risultati e scostamenti. Non riscrive a posteriori cio che era stato promesso: chiarisce che cosa e' avvenuto e quali decisioni assumere nel ciclo successivo. Anche un risultato non raggiunto produce informazione utile se l'ente lo analizza con dati attendibili e individua interventi verificabili.
 
 | Termine | Domanda corretta | Errore frequente |
 | --- | --- | --- |
@@ -191,7 +191,7 @@ All'orale, chiudi la risposta ricordando che monitoraggio e valutazione hanno te
 
 Il PIAO integra anche la dimensione dei rischi corruttivi e della trasparenza. Le misure di prevenzione e gli obblighi di trasparenza servono a presidiare i processi e a rendere conoscibile l'azione amministrativa nei limiti previsti. Negli EPNE, il rischio non riguarda solo appalti o incarichi: puo' riguardare procedimenti, prestazioni, dati, accessi, pagamenti, graduatorie, controlli, rapporti con utenti e imprese.
 
-La trasparenza, pero', non significa pubblicare tutto. La pubblicazione deve rispettare obblighi, finalita, proporzionalita e protezione dei dati personali. Questo punto e' essenziale nei concorsi EPNE, perche' INPS e INAIL trattano spesso dati personali delicati e informazioni con forte impatto sulla vita delle persone.
+La trasparenza, pero', non significa pubblicare tutto. La pubblicazione deve rispettare obblighi, finalita, proporzionalita e protezione dei dati personali. La distinzione assume rilievo nei concorsi EPNE, perche' INPS e INAIL trattano spesso dati personali delicati e informazioni che incidono sulla vita delle persone.
 
 La gestione del rischio parte dai processi, non da un elenco astratto di pericoli. Si individua dove una decisione, un accesso a dati, un pagamento, una graduatoria o un rapporto con l'esterno possa essere esposto a opacita, discrezionalita non governata, conflitti di interessi, alterazioni o ritardi. Si valutano poi i presidi esistenti e si scelgono misure proporzionate: separazione di funzioni, tracciabilita, controlli, rotazione quando applicabile, formazione, gestione degli accessi e trasparenza.
 
@@ -214,13 +214,13 @@ Il raccordo nel PIAO serve a collegare rischio e obiettivi. Una misura preventiv
 
 **Uso nella prova:** in un caso su rischio e trasparenza, costruisci la risposta in cinque passaggi: individua il processo, descrivi il rischio senza trasformarlo in colpa, riconosci i presidi esistenti, proponi una misura proporzionata e verifica gli effetti sul servizio. Se compaiono dati personali, aggiungi il controllo sulla liceita e sulla necessita del trattamento o della pubblicazione.
 
-La misura va anche monitorata. Un controllo puo esistere sulla carta ma non essere applicato, oppure produrre adempimenti senza ridurre il rischio. L'ente deve osservare attuazione, anomalie e risultati e correggere il presidio quando necessario. Prevenzione e performance si incontrano qui: entrambe richiedono obiettivi chiari, responsabilita, evidenze e miglioramento.
+Ogni misura richiede monitoraggio. Un controllo puo esistere sulla carta ma non essere applicato, oppure produrre adempimenti senza ridurre il rischio. L'ente deve osservare attuazione, anomalie e risultati e correggere il presidio quando necessario. Su questo piano prevenzione e performance seguono una logica comune: richiedono obiettivi chiari, responsabilita definite, evidenze e correzioni verificabili.
 
 ## N-FC03-07-05 · Organizzazione, personale, competenze e responsabilita
 
-Il PIAO e' anche strumento di organizzazione. Collega fabbisogni, competenze, formazione, lavoro agile, assetti organizzativi e capacita amministrativa. Per il candidato, questo nucleo serve a capire perche' performance e pubblico impiego non sono separati.
+Il PIAO e' anche strumento di organizzazione. Collega fabbisogni, competenze, formazione, lavoro agile, assetti organizzativi e capacita amministrativa. Questo nucleo chiarisce il rapporto tra performance e pubblico impiego.
 
-Un obiettivo non si realizza da solo. Servono uffici, profili professionali, competenze digitali, formazione, responsabilita, coordinamento, strumenti e carichi di lavoro sostenibili. La responsabilita dirigenziale comprende anche la qualita dell'assetto organizzativo, dei controlli e della tracciabilita dei processi, secondo la disciplina applicabile.
+La realizzazione di un obiettivo dipende dall'assetto degli uffici, dai profili professionali disponibili, dalle competenze e dagli strumenti. Contano anche il coordinamento, la distribuzione delle responsabilita e la sostenibilita dei carichi di lavoro. La responsabilita dirigenziale comprende anche la qualita dell'assetto organizzativo, dei controlli e della tracciabilita dei processi, secondo la disciplina applicabile.
 
 Il fabbisogno di personale nasce dagli obiettivi e dai processi, non dalla semplice sostituzione numerica di chi lascia il servizio. L'ente deve chiedersi quali attivita devono essere svolte, quali professionalita servono, come cambiano i servizi e dove esistono carenze di capacita. Nel caso di un nuovo canale digitale, per esempio, possono servire competenze tecniche, giuridiche, comunicative e di assistenza all'utenza. Aumentare il numero degli addetti senza riprogettare il processo puo non risolvere il problema.
 
@@ -335,7 +335,7 @@ Una risposta piu' solida procede cosi':
 6. collega trasparenza e privacy: informare correttamente senza pubblicare dati non dovuti;
 7. propone azioni: revisione del flusso, supporto agli utenti, formazione, monitoraggio periodico, reporting interno.
 
-La risposta funziona perche' usa il PIAO come logica organizzativa. Non promette miracoli, non scarica la responsabilita su un singolo dipendente e non confonde rapidita con qualita del servizio.
+La risposta usa il PIAO come criterio di lettura dell'organizzazione. Collega il problema al processo e alle responsabilita effettive, mantenendo distinti rapidita e qualita del servizio.
 
 ### Domanda da commissario
 
@@ -395,7 +395,7 @@ Correzione: se compili solo la riga "obiettivo", la lettura e' incompleta. Se co
 | Cito dati annuali non verificati | Riporto obiettivi, indicatori o numeri senza fonte aggiornata. | Segno fonte ufficiale e data di verifica. |
 | Non collego PIAO al bando | Studio sezioni non richieste e salto quelle rilevanti. | Torno a materie, prove, profilo e punteggi. |
 
-Il diario serve a impedire che una materia organizzativa diventi una lista sterile. Performance e PIAO vanno sempre collegati a un problema amministrativo concreto.
+Il diario riporta ogni nozione organizzativa a un problema amministrativo concreto. In questo modo performance e PIAO non restano voci di un elenco.
 
 ### Checklist operativa finale
 
