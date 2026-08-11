@@ -5027,3 +5027,12 @@
 - atoms:
   - mem-20260811084719-sr3sp3 | workflow | Applicare la pipeline aggiornata al volume 10 portando i capitoli allo stato pubblicabile.
   - mem-20260811084719-hysp37 | result | Esito pipeline-volume: Applicare la pipeline aggiornata al volume 10 portando i capitoli allo stato pubblicabile. -> Capitolo 01 convertito a Format 2 e completato agli step 08-12: 4450 parole, 6 nuclei da almeno 600 parole, 6 quiz commentati, 1 caso, 6 verifiche; matrice dimensionale e report reviewer aggiornati; gate senza warning.
+
+## 2026-08-11T09:06:00.320Z - VOL-10/M-TR03
+
+- conversation_id: conv-20260811090600-1i5l4xr
+- route: pipeline-volume
+- l0: l0/conv-20260811090600-1i5l4xr.md
+- atoms:
+  - mem-20260811090600-biy864 | workflow | Procedere con la pipeline aggiornata di VOL-10.
+  - mem-20260811090600-12rajw7 | result | Esito pipeline-volume: Procedere con la pipeline aggiornata di VOL-10. -> Capitolo 02 completato agli step 08-12 e giudicato pubblicabile: 6 nuclei Format 2 sopra 600 parole, 6 quiz, 1 caso, 6 verifiche; matrice dimensionale, delta, Humanizer e report reviewer senza blocker.
