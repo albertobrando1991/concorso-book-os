@@ -213,6 +213,8 @@ In una traccia che segnala un atto irregolare, non saltare subito alla vigilanza
 
 La risposta migliore nomina sempre il livello coinvolto e motiva perche' il controllo o la vigilanza siano pertinenti.
 
+Per rendere visibile il ragionamento, prepara una griglia con quattro colonne: soggetto interno, atto o attivita', controllo applicabile, soggetto esterno eventualmente competente. Compilala soltanto dopo avere letto la disciplina dell'ente. La griglia impedisce di attribuire al vigilante compiti gestionali e mostra se la responsabilita' nasce dall'adozione dell'atto, dall'istruttoria, dall'esecuzione o dall'omesso controllo. In un quiz, questa sequenza aiuta a scartare le alternative che concentrano ogni funzione in un unico soggetto.
+
 ## N-FC03-02-05 · Bilancio, controlli, PIAO e trasparenza
 
 Un EPNE non e' solo un ufficio che produce provvedimenti. Gestisce risorse, patrimonio, entrate, spese, servizi, prestazioni e obblighi di rendicontazione. Per questo bilancio e controlli sono parte della governance, non un capitolo separato di contabilita.
