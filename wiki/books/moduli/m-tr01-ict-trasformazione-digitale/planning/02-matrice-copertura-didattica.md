@@ -445,3 +445,38 @@ La copertura `completo` attesta il contratto didattico del lettore. Non attesta 
 | `N-TR01-08-04` | parziale | teoria riorganizzata e ampliata nel nucleo Format 2; verifica e applicazione collegate | completo per copertura didattica; audit tecnico step 13-18 pendente | heading omonimo, piano di trattamento motivato e quiz 4 e scelta controllo |
 | `N-TR01-08-05` | parziale | teoria riorganizzata e ampliata nel nucleo Format 2; verifica e applicazione collegate | completo per copertura didattica; audit tecnico step 13-18 pendente | heading omonimo, registro vulnerabilita e priorita e quiz 5 e priorita |
 | `N-TR01-08-06` | parziale | teoria riorganizzata e ampliata nel nucleo Format 2; verifica e applicazione collegate | completo per copertura didattica; audit tecnico step 13-18 pendente | heading omonimo, scheda di filiera e rilascio e quiz 6 e caso supply chain |
+
+## Retrofit Format 2 — mappatura capitolo 09
+
+| Nucleo ID | Famiglia/profilo | Materia | Concetto/sotto-concetti | Priorità | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa | Destinazione rinvio |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| `N-TR01-09-01` | Cyber e ICT | IAM | identità, account, credenziale, sessione, joiner-mover-leaver, account tecnici | alta | NIST SP 800-63-4; fonti IAM consolidate | cap. 09 | definizione, processo, ruoli, distinzioni e conseguenze nel nucleo | cambio ufficio e riesame accessi | matrice identità-accesso-evidenza | Q:6 C:1 E:2; quiz 1 e caso | completo | Copertura didattica completa; audit IAM/PAM agli step 13-18 | VOL-01 cap. 10 § 6, solo prerequisiti |
+| `N-TR01-09-02` | Cyber e ICT | IAM | identificazione, autenticazione, autorizzazione, accounting, RBAC, ABAC, ACL, privilegi | alta | NIST SP 800-63-4; fonti IAM consolidate | cap. 09 | modelli, criteri, deny by default e controlli lato servizio sviluppati | pratica contributi e accesso temporaneo | scelta motivata di autorizzazione | Q:6 C:1 E:2; quiz 1-2 e caso | completo | Copertura didattica completa; audit IAM/PAM agli step 13-18 | VOL-01 cap. 10 § 6, solo prerequisiti |
+| `N-TR01-09-03` | Cyber e ICT | Crittografia | cifratura, hash, MAC, firma, certificato, chiavi, secret, rotazione e revoca | alta | NIST SP 800-57 Part 1 rev. 5; fonti consolidate | cap. 09 | proprietà, ciclo, ruoli, compromissione e distinzioni sviluppati | secret applicativo esposto | checklist key management | Q:6 C:1 E:2; quiz 3 e caso | completo | Copertura didattica completa; audit key management agli step 13-18 | cap. 10 per governance del dato |
+| `N-TR01-09-04` | Cyber e ICT | Logging | evento, log, audit trail, alert, sorgenti, tempo, integrità, SIEM e triage | alta | NIST SP 800-92; fonti consolidate | cap. 09 | definizioni, campi, controlli, falsi positivi e triage sviluppati | elevazione privilegi anomala | matrice sorgente-evento-alert | Q:6 C:1 E:2; quiz 4 e timeline | completo | Copertura didattica completa; audit SOC/SIEM agli step 13-18 | cap. 07 per osservabilità operativa |
+| `N-TR01-09-05` | Cyber e ICT | Incident response | preparazione, analisi, contenimento, eradicazione, recupero, ruoli, evidenze e lesson learned | alta | NIST SP 800-61 rev. 3; NIST CSF 2.0; fonti consolidate | cap. 09 | processo, decisioni, continuità e confini forensi sviluppati | account privilegiato compromesso | playbook e timeline | Q:6 C:1 E:2; quiz 4-5 e caso | completo | Copertura didattica completa; audit incident response agli step 13-18 | cap. 07 per backup, DR e continuità |
+| `N-TR01-09-06` | Cyber e ICT | Governance cyber e privacy | ACN, CSIRT Italia, NIS2, incidente cyber, data breach, escalation e comunicazione | alta | d.lgs. 138/2024; fonti ACN/CSIRT e privacy consolidate | cap. 09 | ruoli, distinzioni e metodo di verifica delle fonti mobili sviluppati | escalation distinta tecnico-servizio-privacy | risposta orale prudente e playbook | Q:6 C:1 E:2; quiz 6 e caso | completo | Debito specialistico: platea, significatività, atti e procedure al cut-off agli step 13-18 | cap. 10 per governance del dato |
+
+### Checklist dimensionale capitolo 09
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso prova | Errore tipico | Verifica | Fonti |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| `N-TR01-09-01` | ✓ identità e account | ✓ governo accessi | ✓ profili ICT PA | ✓ lifecycle e ruoli | ✓ account, credenziale, sessione | ✓ privilegi residui | ✓ cambio ufficio | ✓ matrice motivata | ✓ disabilitare solo l'account | ✓ quiz 1 e caso | ✓ frontmatter e riferimenti |
+| `N-TR01-09-02` | ✓ funzioni accesso | ✓ autorizzare azioni | ✓ servizio pubblico | ✓ MFA, RBAC, ABAC, ACL | ✓ authn e authz | ✓ accessi impropri | ✓ pratica contributi | ✓ scelta modello | ✓ MFA uguale autorizzazione | ✓ quiz 1-2 | ✓ frontmatter e riferimenti |
+| `N-TR01-09-03` | ✓ meccanismi crypto | ✓ proprietà protette | ✓ dati e servizi PA | ✓ chiavi, secret, certificati | ✓ hash, MAC, firma, cifratura | ✓ segreto esposto | ✓ secret applicativo | ✓ checklist ciclo chiavi | ✓ algoritmo compensa cattiva gestione | ✓ quiz 3 | ✓ frontmatter e riferimenti |
+| `N-TR01-09-04` | ✓ evento, log, alert | ✓ osservare e qualificare | ✓ servizi digitali | ✓ sorgenti, campi, integrità | ✓ alert e incidente | ✓ timeline fragile | ✓ elevazione privilegi | ✓ matrice alert | ✓ SIEM basta da solo | ✓ quiz 4 | ✓ frontmatter e riferimenti |
+| `N-TR01-09-05` | ✓ risposta incidente | ✓ limitare danno e recuperare | ✓ rischio e continuità | ✓ ruoli, fasi, evidenze | ✓ contenimento e recupero | ✓ rientro insicuro | ✓ account compromesso | ✓ playbook e timeline | ✓ chiudere a servizio attivo | ✓ quiz 4-5 | ✓ frontmatter e riferimenti |
+| `N-TR01-09-06` | ✓ ruoli e confini | ✓ escalation proporzionata | ✓ PA italiana | ✓ ACN, CSIRT, privacy | ✓ incidente cyber e data breach | ✓ notifica impropria | ✓ escalation del caso | ✓ risposta orale prudente | ✓ inventare termini | ✓ quiz 6 | ✓ frontmatter e riferimenti |
+
+### Delta step 10 — capitolo 09 formato 2
+
+| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
+| --- | --- | --- | --- | --- |
+| `N-TR01-09-01` | parziale | ciclo identità, account tecnici e riesame sviluppati | completo | heading, caso e quiz 1 |
+| `N-TR01-09-02` | parziale | modelli autorizzativi, privilegi ed evidenze sviluppati | completo | heading, caso e quiz 1-2 |
+| `N-TR01-09-03` | parziale | proprietà crittografiche e key management sviluppati | completo | heading, caso e quiz 3 |
+| `N-TR01-09-04` | parziale | log, SIEM, integrità e triage sviluppati | completo | heading, timeline e quiz 4 |
+| `N-TR01-09-05` | parziale | risposta, continuità e miglioramento sviluppati | completo | heading, playbook e quiz 4-5 |
+| `N-TR01-09-06` | parziale | distinzione PA, ACN/CSIRT, NIS2 e privacy sviluppata | completo | heading, caso e quiz 6; audit mobile pendente |
+
+La copertura `completo` attesta il contratto didattico del lettore. Non chiude l'audit specialistico: gli step 13-18 devono riesaminare al cut-off IAM/PAM, key management, log/SOC, incident response, atti ACN/CSIRT, NIS2 e privacy. Nessuna procedura, soglia, termine o canale mobile è dichiarato chiuso dal capitolo.
