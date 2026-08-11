@@ -178,9 +178,9 @@ L'ufficio richiedente descrive il problema da risolvere e contribuisce a definir
 
 La responsabilita organizzativa nasce dalla separazione e dal raccordo dei compiti. Chi rileva il fabbisogno deve renderlo comprensibile; chi prepara la procedura deve tradurlo in documenti coerenti; chi controlla la spesa deve disporre degli elementi necessari; chi segue l'esecuzione deve confrontare prestazione promessa e prestazione resa. La tracciabilita consente di ricostruire decisioni, verifiche e passaggi senza affidarsi alla memoria delle persone.
 
-**Micro-caso:** una sede territoriale segnala ripetuti guasti agli impianti. L'ufficio non dovrebbe limitarsi a chiedere al RUP di “comprare una manutenzione”. Deve descrivere sedi, criticita, continuita richiesta e risultato atteso. Il progetto contrattuale qualifica l'oggetto, verifica programmazione e risorse, individua il percorso applicabile e stabilisce come controllare tempi e interventi. Solo cosi il coordinamento produce responsabilita, invece di disperderla.
+**Micro-caso:** una sede territoriale segnala ripetuti guasti agli impianti. L'ufficio non dovrebbe limitarsi a chiedere al RUP di "comprare una manutenzione". Deve descrivere sedi, criticita, continuita richiesta e risultato atteso. Il progetto contrattuale qualifica l'oggetto, verifica programmazione e risorse, individua il percorso applicabile e stabilisce come controllare tempi e interventi. Solo cosi il coordinamento produce responsabilita, invece di disperderla.
 
-**Uso nella prova:** quando la traccia domanda “chi fa che cosa”, evita risposte assolute. Nomina il RUP, poi mostra il raccordo con ufficio richiedente, competenze tecniche, contabilita ed esecuzione. La commissione valuta la capacita di vedere il contratto come progetto organizzativo.
+**Uso nella prova:** quando la traccia domanda "chi fa che cosa", evita risposte assolute. Nomina il RUP, poi mostra il raccordo con ufficio richiedente, competenze tecniche, contabilita ed esecuzione. La commissione valuta la capacita di vedere il contratto come progetto organizzativo.
 Una risposta completa precisa anche che competenze e assetto concreto dipendono dagli atti organizzativi dell'ente e dalla disciplina applicabile: il caso non consente di inventare firme, poteri o responsabilita non dichiarati.
 
 ## N-FC03-09-03 · Oggetto, strumenti di acquisto e procedure
@@ -222,7 +222,7 @@ Nei quiz compare spesso l'affermazione "siccome e' su MEPA, non serve motivare".
 
 ### Qualificare l'oggetto prima di scegliere lo strumento
 
-Servizio, fornitura e lavoro non sono etichette intercambiabili. La fornitura ha per centro l'acquisizione di beni; il servizio riguarda una prestazione organizzata; il lavoro incide sulla realizzazione o modifica di un'opera. Un contratto puo presentare componenti diverse e richiede una qualificazione coerente con la prestazione principale e con la disciplina applicabile. L'appalto e remunerato dalla stazione appaltante; nella concessione assume rilievo il trasferimento effettivo del rischio operativo al concessionario. La denominazione “concessione” non produce da sola tale effetto.
+Servizio, fornitura e lavoro non sono etichette intercambiabili. La fornitura ha per centro l'acquisizione di beni; il servizio riguarda una prestazione organizzata; il lavoro incide sulla realizzazione o modifica di un'opera. Un contratto puo presentare componenti diverse e richiede una qualificazione coerente con la prestazione principale e con la disciplina applicabile. L'appalto e remunerato dalla stazione appaltante; nella concessione assume rilievo il trasferimento effettivo del rischio operativo al concessionario. La denominazione "concessione" non produce da sola tale effetto.
 
 Dalla qualificazione dipendono documenti, requisiti, mercato e controllo dell'esecuzione. Per un servizio informatico, per esempio, non sono sufficienti il nome del software e il prezzo: occorrono utenti, funzioni, livelli di servizio, assistenza, sicurezza, gestione dei dati e criteri di verifica. Per una fornitura distribuita su piu sedi diventano centrali quantita, caratteristiche, consegne, conformita e presa in carico.
 
@@ -232,7 +232,7 @@ Consip opera nel programma di razionalizzazione degli acquisti pubblici; Acquist
 
 L'affidamento diretto e una modalita semplificata ammessa nei casi previsti, non una scelta privata del funzionario. La decisione deve restare motivata e tracciata e deve identificare oggetto, importo, contraente, ragioni della scelta e requisiti secondo il quadro applicabile. Le procedure aperte, ristrette o negoziate seguono logiche differenti. Nel manuale e piu utile comprenderne struttura e presupposti che memorizzare soglie destinate a cambiare.
 
-**Errore da evitare:** partire dallo strumento preferito. Dire “uso il MEPA” prima di avere qualificato bisogno e oggetto inverte il ragionamento. Prima viene il problema pubblico; poi vengono mercato, strumento, procedura e documenti.
+**Errore da evitare:** partire dallo strumento preferito. Dire "uso il MEPA" prima di avere qualificato bisogno e oggetto inverte il ragionamento. Prima viene il problema pubblico; poi vengono mercato, strumento, procedura e documenti.
 
 **Uso nella prova:** distingui che cosa acquisti, lo strumento impiegato e la procedura applicabile. La distinzione evita di confondere mercato elettronico, modalita di negoziazione e affidamento.
 ## N-FC03-09-04 · Ciclo digitale, ANAC e tracciabilita
@@ -271,7 +271,7 @@ ANAC esercita funzioni di vigilanza e presidia componenti centrali dell'ecosiste
 
 Il ciclo digitale produce una conseguenza organizzativa: i dati devono essere corretti fin dall'origine. Oggetto incoerente, ufficio errato, documentazione incompleta o passaggio non registrato possono propagarsi lungo procedura, pubblicita e controllo. Digitalizzare un errore non lo corregge; lo rende soltanto piu rapidamente riproducibile.
 
-Pubblicita legale e trasparenza perseguono funzioni collegate ma non identiche. Gli obblighi informativi si coordinano con la BDNCP e con la sezione Amministrazione trasparente secondo la disciplina vigente. La pubblicazione deve essere completa per quanto dovuto, ma anche rispettosa di protezione dei dati, segreti tecnici e pertinenza. “Pubblicare tutto” non e una regola di buona amministrazione.
+Pubblicita legale e trasparenza perseguono funzioni collegate ma non identiche. Gli obblighi informativi si coordinano con la BDNCP e con la sezione Amministrazione trasparente secondo la disciplina vigente. La pubblicazione deve essere completa per quanto dovuto, ma anche rispettosa di protezione dei dati, segreti tecnici e pertinenza. "Pubblicare tutto" non e una regola di buona amministrazione.
 
 **Micro-caso:** un ufficio tratta il CIG come adempimento finale, da acquisire quando arriva la fattura. L'impostazione e sbagliata, perche identificazione, piattaforma, dati e tracciabilita appartengono al ciclo contrattuale. La procedura va configurata nel sistema digitale corretto fin dall'avvio, secondo le regole applicabili.
 
@@ -301,7 +301,7 @@ La sezione "Amministrazione trasparente" resta rilevante per gli atti, i dati e 
 
 Dopo la stipula inizia la verifica del risultato promesso. L'esecuzione comprende consegna o svolgimento della prestazione, controllo di tempi e qualita, gestione delle comunicazioni, eventuali contestazioni e verifica finale. Nei servizi continuativi occorre osservare livelli di servizio, disponibilita, assistenza e resoconti; nelle forniture contano quantita, caratteristiche, integrita, destinazione e conformita; nei lavori assumono rilievo direzione, avanzamento e collaudo secondo la disciplina applicabile.
 
-Il controllo deve poggiare su documenti verificabili. Un capitolato che usa formule come “servizio adeguato” o “supporto tempestivo” senza criteri misurabili rende debole anche la fase esecutiva. Definire indicatori, evidenze e responsabilita prima dell'affidamento permette di distinguere la prestazione promessa da quella effettivamente resa.
+Il controllo deve poggiare su documenti verificabili. Un capitolato che usa formule come "servizio adeguato" o "supporto tempestivo" senza criteri misurabili rende debole anche la fase esecutiva. Definire indicatori, evidenze e responsabilita prima dell'affidamento permette di distinguere la prestazione promessa da quella effettivamente resa.
 
 | Momento | Controllo essenziale | Evidenza utile |
 | --- | --- | --- |
@@ -414,7 +414,7 @@ Correzione: se la tua risposta contiene solo "affidamento diretto" o "gara", e' 
 
 ### Da sapere in 5 righe
 
-Negli EPNE i contratti pubblici vanno studiati come ciclo operativo che sostiene servizi, sedi, piattaforme, forniture e funzioni istituzionali. Il D.Lgs. 36/2023, aggiornato dal correttivo 2024, va applicato attraverso principi di risultato, fiducia e accesso al mercato, senza trasformarli in scorciatoie. MEPA, Consip, convenzioni e piattaforme digitali sono strumenti, non sostituti di fabbisogno, motivazione e controlli. RUP, CIG, BDNCP, FVOE, trasparenza e tracciabilita servono a rendere controllabile l'intero ciclo. Una risposta completa parte dal bisogno pubblico e si chiude con la verifica dell'esecuzione e del pagamento.
+Negli EPNE i contratti pubblici vanno studiati come ciclo operativo che sostiene servizi, sedi, piattaforme, forniture e funzioni istituzionali. Il D.Lgs. 36/2023 nel testo vigente, modificato anche dal correttivo 2024, va applicato attraverso principi di risultato, fiducia e accesso al mercato, senza trasformarli in scorciatoie. MEPA, Consip, convenzioni e piattaforme digitali sono strumenti, non sostituti di fabbisogno, motivazione e controlli. RUP, CIG, BDNCP, FVOE, trasparenza e tracciabilita servono a rendere controllabile l'intero ciclo. Una risposta completa parte dal bisogno pubblico e si chiude con la verifica dell'esecuzione e del pagamento.
 
 ### Checklist finale
 
