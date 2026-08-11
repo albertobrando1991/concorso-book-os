@@ -221,7 +221,7 @@ Per rendere visibile il ragionamento, prepara una griglia con quattro colonne: s
 
 Un EPNE produce provvedimenti e gestisce risorse, patrimonio, entrate, spese, servizi, prestazioni e obblighi di rendicontazione. Bilancio e controlli appartengono quindi alla governance e non possono essere trattati come un tema contabile isolato.
 
-Nel bando, i segnali da intercettare sono: bilancio, patrimonio, controlli, vigilanza, rendiconto, regolarita amministrativo-contabile, Corte dei conti, Ragioneria generale dello Stato, revisione, performance, valore pubblico e amministrazione trasparente. Se compaiono, devi collegare il capitolo 2 con il capitolo 6 del modulo e con la contabilita pubblica essenziale del libro base.
+Nel bando, i segnali da intercettare sono: bilancio, patrimonio, controlli, vigilanza, rendiconto, regolarita amministrativo-contabile, Corte dei conti, Ragioneria generale dello Stato, revisione, performance, valore pubblico e amministrazione trasparente. Se compaiono, studiali come parti della catena obiettivi-risorse-gestione-rendicontazione e calibra l'approfondimento contabile sulle prove previste.
 
 Il controllo puo' avere diverse funzioni: garantire legalita, verificare regolarita contabile, monitorare uso delle risorse, sostenere responsabilita amministrativa, rendere leggibile l'azione dell'ente all'esterno. Nei concorsi non serve trasformarsi in revisore contabile. Serve sapere che governance, bilancio e controlli formano una catena: obiettivi, risorse, atti, gestione, rendicontazione, verifica.
 
@@ -267,7 +267,7 @@ Usa questo schema come pagina di ripasso.
 | Organi | Quali funzioni di indirizzo, gestione e controllo sono previste. | Statuto e atti generali. | Schema organi/funzioni. |
 | Vigilanza | Quale amministrazione vigila e su quali atti o profili. | Normativa e statuto. | Collegamento ente-ministero. |
 | Gestione | Come uffici e dirigenti attuano obiettivi e procedimenti. | Regolamenti, PIAO, organizzazione. | Caso pratico su competenza. |
-| Controlli | Quali controlli riguardano atti, bilancio, spesa, risultati e responsabilita. | Bilanci, relazioni, amministrazione trasparente, fonti RGS. | Risposta su legalita e accountability. |
+| Controlli | Quali controlli riguardano atti, bilancio, spesa, risultati e responsabilita. | Bilanci, relazioni, amministrazione trasparente, fonti RGS. | Risposta su legalita, responsabilita e rendicontazione. |
 | Trasparenza | Dove sono pubblicati atti, dati, performance e bilanci. | Amministrazione trasparente. | Verifica fonte ufficiale. |
 | Bando | Quali parti entrano davvero nella prova. | Bando, allegati, avvisi. | Priorita di studio. |
 
