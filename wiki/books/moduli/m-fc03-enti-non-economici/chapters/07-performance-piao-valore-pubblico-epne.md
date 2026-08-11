@@ -120,7 +120,7 @@ La conseguenza operativa e' importante. Un sistema di performance attendibile or
 
 Negli enti pubblici non economici il PIAO rende leggibile il passaggio dall'ordinamento alla gestione. Il capitolo 2 ti ha spiegato organi, governance, vigilanza e fonti; il capitolo 6 ti ha mostrato bilancio, patrimonio e controlli. Il PIAO collega questi piani a obiettivi, personale, rischi, trasparenza e organizzazione concreta.
 
-Per INPS e INAIL, questo collegamento e' immediato. Un ente che gestisce prestazioni, servizi, pratiche, dati delicati, rapporto con utenti e imprese deve chiedersi: quali risultati vuole ottenere? quali processi sono critici? quali competenze servono? quali rischi organizzativi o corruttivi devono essere prevenuti? quali indicatori consentono di capire se il servizio migliora? quali informazioni vanno pubblicate e quali dati vanno protetti?
+Per INPS e INAIL, questo collegamento e' immediato. Un ente che gestisce prestazioni, servizi, pratiche, dati personali, anche appartenenti a categorie particolari, e rapporti con utenti e imprese deve chiedersi: quali risultati vuole ottenere? quali processi sono critici? quali competenze servono? quali rischi organizzativi o corruttivi devono essere prevenuti? quali indicatori consentono di capire se il servizio migliora? quali informazioni vanno pubblicate e quali dati vanno protetti?
 
 In prova, il PIAO puo' comparire in tre modi:
 
