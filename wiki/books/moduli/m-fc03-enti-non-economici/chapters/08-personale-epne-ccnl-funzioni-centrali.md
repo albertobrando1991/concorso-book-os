@@ -1,8 +1,10 @@
-﻿---
+---
 id: chapter-m-fc03-08-personale-epne-ccnl-funzioni-centrali
 type: book_chapter
 title: "Personale EPNE e CCNL Funzioni Centrali"
 status: revised_draft
+format_version: 2
+dati_operativi: []
 domain: "concorsi pubblici italiani"
 topics: ["pubblico impiego","CCNL Funzioni Centrali","personale EPNE","codice di comportamento","competenze trasversali PA"]
 entities: ["ARAN","INPS","INAIL","Dipendente pubblico","Funzioni Centrali"]
@@ -13,12 +15,7 @@ source_refs: [
   "sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego.md",
   "sources/d-p-r-16-aprile-2013-n-62-codice-comportamento-dipendenti-pubblici.md",
   "sources/framework-competenze-trasversali-pa-dm-28-giugno-2023.md",
-  "sources/m-fc03-dossier-redazionale-enti-pubblici-non-economici.md",
-  "topics/enti-pubblici-non-economici-concorsi.md",
-  "topics/pubblico-impiego.md",
-  "topics/competenze-trasversali-pa.md",
-  "topics/etica-pubblica.md",
-  "topics/presa-servizio-pa.md"
+  "sources/m-fc03-dossier-redazionale-enti-pubblici-non-economici.md"
 ]
 book_refs: ["m-fc03-enti-non-economici","il-metodo-bando"]
 confidence: 0.84
@@ -29,7 +26,15 @@ canonical: true
 tags: ["book-chapter","module-code-m-fc03","professional-draft"]
 book_id: m-fc03-enti-non-economici
 outline_section: 8
-draft_stage: professional-draft
+draft_stage: step-09-format-2
+companion_to: il-metodo-bando
+nuclei_ids:
+  - N-FC03-08-01
+  - N-FC03-08-02
+  - N-FC03-08-03
+  - N-FC03-08-04
+  - N-FC03-08-05
+  - N-FC03-08-06
 module_code: M-FC03
 module_family: funzioni-centrali
 last_compiled_from: [
@@ -82,7 +87,7 @@ Il risultato atteso non e' diventare esperto di contrattazione collettiva. E' sa
 
 La mappa serve a evitare un errore ricorrente: studiare pubblico impiego come materia astratta, senza collegarlo al profilo messo a bando.
 
-## Il personale EPNE dentro il lavoro pubblico
+## N-FC03-08-01 · Il personale EPNE nel lavoro pubblico
 
 Il personale degli enti pubblici non economici rientra nel sistema del lavoro pubblico contrattualizzato, secondo il quadro generale del D.Lgs. 165/2001 e della contrattazione collettiva applicabile. Per il candidato, questo significa che il rapporto di lavoro non va letto solo come posizione individuale, ma come inserimento in un'organizzazione pubblica: uffici, procedimenti, responsabilita, performance, dati, utenti, risorse e regole di condotta.
 
@@ -94,7 +99,25 @@ La prima regola di studio e':
 
 Questa regola vale soprattutto per i bandi multi-profilo. Due candidati possono studiare entrambi diritto amministrativo, ma uno deve applicarlo a un ufficio di servizio all'utenza, un altro a un'area contabile, un altro ancora a supporto specialistico o vigilanza. Il nucleo comune resta, ma il modo di usarlo cambia.
 
-## CCNL, comparto, area e profilo
+### Fonti e conseguenze del rapporto di lavoro
+
+Il D.Lgs. 30 marzo 2001, n. 165 costituisce il riferimento generale per organizzazione e lavoro alle dipendenze delle amministrazioni pubbliche. Nel sistema contrattualizzato, la legge conserva le materie che le spettano e definisce i confini entro i quali opera la contrattazione collettiva. Il contratto collettivo disciplina le materie affidate al livello negoziale; il contratto individuale inserisce la persona nel rapporto; gli atti organizzativi e le disposizioni di servizio collocano il lavoro dentro strutture e processi concreti. Questi livelli non sono intercambiabili.
+
+Per il candidato la distinzione ha una conseguenza pratica. Una domanda sul principio generale richiede il quadro normativo; una domanda sull'ordinamento professionale richiede il CCNL applicabile; un caso sulle attivita di un ufficio richiede anche bando, profilo e organizzazione dell'ente. Citare una sola fonte come risposta universale produce errori. Il bando, inoltre, regola la procedura selettiva e descrive il posto, ma non riscrive l'intera disciplina del rapporto.
+
+L'accesso mediante concorso e l'assunzione sono momenti collegati ma diversi. La procedura valuta i candidati secondo requisiti e prove; l'ingresso nell'amministrazione apre una relazione professionale fatta di assegnazioni, formazione, obiettivi, doveri e responsabilita. Vincere un concorso non attribuisce una competenza amministrativa illimitata. Il dipendente esercita le attivita connesse al proprio ruolo dentro il sistema delle competenze e sotto le responsabilita previste.
+
+### Lavorare per servizi e procedimenti EPNE
+
+Negli EPNE, la dimensione organizzativa diventa visibile nei servizi rivolti a lavoratori, imprese, cittadini e altre amministrazioni. Una pratica attraversa spesso piu ruoli: ricezione, identificazione, istruttoria, controllo, decisione, comunicazione e conservazione. Il dipendente deve sapere quale passaggio gli compete, quali informazioni puo trattare e quando occorre coinvolgere un'altra struttura.
+
+**Esempio:** una domanda arriva all'ufficio sbagliato. L'orientamento al servizio non consente di decidere fuori competenza, ma neppure giustifica l'abbandono della richiesta. La condotta professionale consiste nel qualificare il problema, seguire il flusso previsto, dare informazioni verificabili e lasciare traccia del passaggio. In una prova situazionale questa soluzione e' piu solida sia della scorciatoia informale sia del rifiuto privo di orientamento.
+
+**Errore da evitare:** confondere gerarchia organizzativa e passivita. Il dipendente rispetta competenze e direttive, ma segnala tempestivamente errori, rischi o impedimenti attraverso i canali appropriati. La responsabilita professionale comprende anche la qualita delle informazioni trasmesse a chi deve decidere.
+
+**Uso nella prova:** in una risposta aperta, presenta prima le fonti, poi spiega l'inserimento nell'organizzazione e chiudi con una conseguenza operativa. In un caso, identifica ente, ufficio, procedimento, competenza, dovere e output atteso prima di scegliere la condotta.
+Una conseguenza riguarda anche lo studio. Le norme generali vanno comprese come sistema; i documenti dell'ente servono invece a contestualizzare. Mescolare i due piani porta a trattare una prassi locale come regola nazionale oppure, all'opposto, a rispondere con un principio astratto quando il caso chiede un comportamento d'ufficio. Il candidato efficace sa passare dal quadro alla situazione e tornare al quadro per controllare la soluzione.
+## N-FC03-08-02 · CCNL, comparto, area, famiglia, profilo e mansioni
 
 La fonte ARAN consolidata nel wiki ricorda un punto essenziale: non esiste un CCNL generico valido in modo indistinto per ogni pubblico dipendente. Occorre distinguere comparto, area, profilo e amministrazione. Per M-FC03 il riferimento ordinario e' il perimetro delle Funzioni Centrali, ma il bando resta decisivo: indica ente, area, profilo, requisiti, materie, prove e documenti da consultare.
 
@@ -108,7 +131,27 @@ La fonte ARAN consolidata nel wiki ricorda un punto essenziale: non esiste un CC
 
 Il CCNL serve a orientare ordinamento professionale, istituti del rapporto, responsabilita disciplinare e contesto organizzativo. Non deve pero' sostituire il bando. In prova, la domanda non e' "conosci tutto il contratto?"; e' piu' spesso "sai collocare il ruolo dentro il lavoro pubblico e sai comportarti in modo coerente con quel ruolo?".
 
-## Come leggere il profilo nel bando
+### Distinzioni che evitano gli errori di inquadramento
+
+Il comparto risponde alla domanda "quale perimetro contrattuale?"; l'area indica una collocazione nel sistema di classificazione; la famiglia professionale raggruppa contenuti omogenei; il profilo descrive il ruolo cercato dalla procedura; le mansioni riguardano le attivita esigibili nel rapporto concreto. La stessa parola puo essere usata in documenti diversi con sfumature non perfettamente coincidenti: per questo il candidato deve controllare il lessico del bando e del CCNL applicabile.
+
+L'area non e' una graduatoria di prestigio. Esprime un livello di complessita, autonomia e responsabilita nel sistema contrattuale, ma non consente da sola di prevedere ogni compito. Anche la famiglia professionale orienta senza sostituire la descrizione del posto. Due bandi possono richiamare la stessa area e richiedere profili diversi per contenuti, prove e destinazione organizzativa.
+
+Le mansioni non si inventano per analogia. Se il titolo contiene "amministrativo", non si puo concludere che il vincitore firmera ogni tipo di provvedimento; se contiene "contabile", non si puo attribuire automaticamente la responsabilita di un intero processo finanziario. Occorre distinguere attivita di supporto, istruttoria, controllo, responsabilita del procedimento e adozione dell'atto secondo i documenti applicabili.
+
+| Se leggi | Puoi dedurre | Non puoi dedurre da solo |
+| --- | --- | --- |
+| comparto | il riferimento contrattuale generale | il profilo concreto |
+| area | il livello di classificazione dichiarato | tutte le mansioni future |
+| famiglia | l'ambito professionale prevalente | l'ufficio di assegnazione |
+| profilo | il ruolo selezionato e il taglio delle prove | ogni potere dell'ufficio |
+| materie | le conoscenze valutate | la completa disciplina del rapporto |
+
+**Micro-caso:** un bando richiede diritto amministrativo, pubblico impiego, informatica e conoscenza dell'ente per un profilo amministrativo. Il candidato puo prevedere che dovra comprendere procedimenti, documenti e servizi digitali; non puo affermare quale sede, ufficio o specifica pratica gli sara assegnata. Nella risposta deve separare elementi certi, inferenze ragionevoli e dati da verificare.
+
+**Uso nella prova:** quando una domanda presenta termini vicini, definiscili uno per volta e indica la funzione di ciascuno. Nei distrattori, cerca lo scambio fra perimetro contrattuale e ruolo, fra classificazione e mansione, oppure fra programma d'esame e attivita lavorativa.
+Prima di memorizzare una denominazione, conviene annotare anche la fonte e il suo ambito. Una tabella del CCNL, una descrizione nel bando e un atto organizzativo possono osservare lo stesso lavoro da prospettive diverse. Indicare da quale documento deriva l'informazione impedisce di trasformare una descrizione orientativa in una regola sulle mansioni e rende piu precisa la risposta orale.
+## N-FC03-08-03 · Leggere il profilo nel bando e nell'organizzazione
 
 Quando apri un bando EPNE, non limitarti alla denominazione del concorso. Compila una scheda minima.
 
@@ -126,29 +169,44 @@ Quando apri un bando EPNE, non limitarti alla denominazione del concorso. Compil
 
 Se non compili questa scheda, rischi di studiare il pubblico impiego come capitolo isolato. La scheda trasforma il contratto e il profilo in priorita di preparazione.
 
-## I nuclei da presidiare
+### Dal concorso al lavoro nell'ente
 
-### 1. Accesso e rapporto di lavoro pubblico
+### Accesso e rapporto di lavoro pubblico
 
 Il primo nucleo e' il passaggio dal concorso al rapporto di lavoro. Il concorso seleziona secondo regole pubbliche; il rapporto di lavoro inserisce il vincitore in un'organizzazione con doveri, responsabilita, gerarchie funzionali, obiettivi, procedure e vincoli. Il candidato deve saper spiegare che l'accesso tramite concorso non esaurisce la materia: dopo l'accesso iniziano ruolo, ufficio, profilo, formazione, obblighi di comportamento e responsabilita.
 
-### 2. Organizzazione dell'ente
+### Organizzazione dell'ente
 
 Il secondo nucleo collega personale e governance. Un dipendente EPNE non lavora nel vuoto: opera in un ufficio, dentro processi, obiettivi, documenti di programmazione, controlli e servizi. Per questo il capitolo 8 dialoga con i capitoli su governance, procedimenti, performance e PIAO. La domanda operativa e': quale pezzo dell'organizzazione deve servire questo profilo?
 
-### 3. Profilo, competenze e responsabilita
+### Profilo, competenze e responsabilita
 
 Il terzo nucleo riguarda le competenze attese. Le fonti sulle competenze trasversali della PA mostrano che il reclutamento pubblico valuta sempre piu' anche il modo in cui il candidato agisce: consapevolezza del contesto, soluzione dei problemi, comunicazione, collaborazione, orientamento al servizio, accuratezza, affidabilita, gestione delle risorse, integrita. Nei concorsi EPNE queste competenze si traducono in casi su utenti, dati, scadenze, sportello, back office e priorita.
 
-### 4. Doveri e codice di comportamento
+### Funzione e lettura del sistema contrattuale
+
+La contrattazione collettiva nazionale disciplina, nel proprio ambito, aspetti normativi ed economici del rapporto di lavoro. ARAN rappresenta le pubbliche amministrazioni nella contrattazione nazionale. Il candidato deve riconoscere questa funzione senza trasformare il capitolo in una guida sindacale o in una consulenza sul rapporto individuale.
+
+Nel perimetro M-FC03 il riferimento ordinario e' quello delle Funzioni Centrali, ma la verifica parte sempre dall'amministrazione e dal bando. Non basta trovare l'espressione "ente nazionale" per applicare automaticamente un contratto; occorre identificare il comparto, distinguere personale non dirigenziale e aree dirigenziali e controllare eventuali discipline specifiche. Anche periodo contrattuale e testo vigente sono dati da verificare.
+
+Il CCNL aiuta a leggere il sistema di classificazione, le relazioni di lavoro e gli istituti contrattuali. Non sostituisce il D.Lgs. 165/2001, il codice di comportamento, il bando o gli atti dell'ente. La distinzione fra fonte generale, fonte contrattuale e documento della procedura permette di rispondere senza attribuire al contratto contenuti che appartengono alla legge o all'organizzazione.
+
+Per la preparazione conviene adottare tre livelli. Al primo stanno concetti stabili: funzione della contrattazione, comparto, area, famiglia e profilo. Al secondo stanno le regole contrattuali espressamente richiamate dal programma. Al terzo stanno dati mobili o individuali, come importi e taluni istituti applicativi, da consultare solo quando la prova li richiede e sempre sul testo ufficiale vigente.
+
+**Esempio:** un quiz domanda quale fonte consultare per l'ordinamento professionale del personale di un ente. La risposta non puo essere "un qualunque CCNL pubblico". Occorre individuare il contratto applicabile e leggerlo insieme al bando. Se la domanda riguarda invece un dovere generale di imparzialita, il ragionamento coinvolge il quadro legale e il codice di comportamento.
+
+**Errore da evitare:** memorizzare un dettaglio contrattuale senza ambito e data. Una regola puo dipendere dal comparto, dall'area, dal periodo e dalla disciplina dell'ente. Nel manuale i dettagli mobili non diventano regole universali.
+
+**Uso nella prova:** struttura la risposta con quattro parole chiave: fonte, ambito, funzione, limite. Questo schema evita sia la risposta vaga sia l'eccesso di dettagli non richiesti.
+## N-FC03-08-04 · Doveri, codice di comportamento e responsabilita professionale
 
 Il quarto nucleo e' il codice di comportamento. Non va studiato come moralismo o come elenco disciplinare. E' una bussola pratica: imparzialita, diligenza, lealta, correttezza, astensione in caso di conflitto, uso corretto delle risorse, riservatezza, rapporti con il pubblico, uso degli strumenti informatici e attenzione alla reputazione dell'amministrazione. Nei quiz e nei situazionali, molte opzioni sbagliate violano proprio questa bussola.
 
-### 5. CCNL e limiti della risposta concorsuale
+### CCNL e limiti della risposta concorsuale
 
 Il quinto nucleo e' il limite. Il CCNL e' una fonte importante, ma non tutto deve entrare nella preparazione allo stesso livello. Trattamento economico, progressioni, ferie, permessi, orario, istituti disciplinari puntuali e dettagli applicativi vanno verificati sul CCNL applicabile, sugli atti dell'ente e sul bando. Nel capitolo, li usiamo come aree da riconoscere, non come consulenza individuale.
 
-## Materia comune, taglio EPNE
+### Materia comune, taglio EPNE
 
 Il pubblico impiego e' gia' materia del libro base. Nel modulo M-FC03 non si duplica: si applica.
 
@@ -163,7 +221,7 @@ Il pubblico impiego e' gia' materia del libro base. Nel modulo M-FC03 non si dup
 
 Questa tabella e' il cuore del capitolo. Il candidato non deve studiare "piu' pubblico impiego"; deve studiarlo meglio, cioe' collegato al ruolo EPNE.
 
-## Profilo EPNE e condotta professionale
+### Profilo EPNE e condotta professionale
 
 In un ente pubblico non economico, la condotta professionale si misura su situazioni ricorrenti:
 
@@ -177,7 +235,54 @@ In un ente pubblico non economico, la condotta professionale si misura su situaz
 
 In tutti questi casi, l'opzione corretta non e' quella piu' simpatica o piu' rapida. E' quella che tiene insieme legalita, competenza, servizio, riservatezza, collaborazione, tracciabilita e responsabilita. Il profilo professionale non descrive solo che cosa sai; descrive anche come devi agire.
 
-## Caso guidato
+### Doveri come criteri di decisione
+
+Il D.P.R. 16 aprile 2013, n. 62 contiene il codice di comportamento dei dipendenti pubblici. I doveri non sono semplici formule etiche: orientano decisioni quotidiane e proteggono imparzialita, correttezza e fiducia nell'amministrazione. Il codice nazionale si coordina con la disciplina del lavoro pubblico, con il CCNL applicabile e con il codice adottato dalla singola amministrazione.
+
+Imparzialita significa trattare situazioni comparabili secondo criteri coerenti, senza favorire conoscenti o soggetti insistenti. Diligenza significa curare attivita e informazioni con attenzione adeguata. Riservatezza e corretto uso dei dati impongono di accedere, comunicare e conservare informazioni per ragioni di servizio. Il conflitto di interessi richiede di riconoscere la situazione e seguire gli obblighi applicabili, non di risolverla informalmente.
+
+Il rapporto con il pubblico unisce rispetto, chiarezza e limiti. Il dipendente orienta l'utente, ma non promette esiti, non anticipa decisioni non adottate e non comunica dati senza titolo. L'uso di strumenti, account, banche dati e beni dell'ente deve restare funzionale al servizio. Una condotta puo essere cortese e tuttavia scorretta se aggira competenze o tracciabilita.
+
+Dovere e responsabilita disciplinare non sono sinonimi. Il dovere indica la regola di condotta; la violazione deve essere qualificata secondo fonti e procedimento applicabili. Il candidato non dovrebbe assegnare automaticamente una sanzione a ogni comportamento problematico. Nei casi, prima descrive il dovere e la condotta corretta; soltanto se la domanda lo richiede affronta responsabilita e conseguenze con la necessaria base normativa.
+
+**Micro-caso:** un collega propone di usare il proprio account per accelerare una verifica. La collaborazione non giustifica la condivisione delle credenziali. La risposta corretta tutela sicurezza e tracciabilita, individua un canale autorizzato e segnala l'impedimento se blocca il servizio.
+
+**Uso nella prova:** collega sempre principio, rischio e azione. Per esempio: riservatezza, rischio di accesso improprio, verifica della ragione di servizio; imparzialita, rischio di favore, applicazione dei criteri ordinari; diligenza, rischio di errore, controllo e segnalazione.
+## N-FC03-08-05 · Competenze trasversali e quesiti situazionali
+
+Il quadro normativo stabilisce che cosa l'amministrazione e il dipendente possono o devono fare. Le competenze trasversali descrivono il modo in cui una persona usa conoscenze e regole nel lavoro. La distinzione e' importante nei quesiti situazionali: due opzioni possono apparire corrette nelle intenzioni, ma soltanto una combina competenza dell'ufficio, qualita del servizio, collaborazione e responsabilita.
+
+Il modello delle competenze trasversali del personale non dirigenziale, approvato con il decreto del Ministro per la pubblica amministrazione del 28 giugno 2023, organizza sedici competenze in quattro aree: capire il contesto pubblico, interagire nel contesto pubblico, realizzare il valore pubblico e gestire le risorse pubbliche. Integrita, inclusione e sostenibilita attraversano il modello. Queste categorie sono criteri di ragionamento, non un elenco da recitare.
+
+### Capire e interagire nel contesto pubblico
+
+Capire il contesto significa riconoscere finalita dell'ente, competenze dell'ufficio, regole, interlocutori e conseguenze delle decisioni. In un EPNE non basta sapere che una pratica e' urgente: occorre capire quale procedimento la riguarda, quali dati contiene, chi puo decidere e quali controlli non possono essere saltati. Una risposta debole agisce subito senza ricostruire il contesto; una risposta professionale acquisisce gli elementi necessari e rispetta le responsabilita.
+
+Interagire nel contesto pubblico comprende comunicazione, collaborazione e gestione delle relazioni. Collaborare non significa trasferire informalmente dati o competenze. Significa condividere con i colleghi le informazioni necessarie attraverso canali corretti, segnalare criticita con chiarezza e coinvolgere il responsabile quando la decisione supera il proprio ruolo. Con l'utente, comunicare bene vuol dire ascoltare, spiegare il percorso possibile e non promettere un esito che dipende dall'istruttoria.
+
+### Realizzare valore e gestire risorse
+
+Realizzare valore pubblico richiede orientamento al servizio, accuratezza, affidabilita e capacita di risolvere problemi. La soluzione migliore non e' necessariamente la piu rapida. Se accelera una pratica violando la riservatezza o omettendo un controllo, produce un vantaggio apparente e un rischio reale. La soluzione dei problemi parte dalla causa, considera alternative compatibili con le regole e rende verificabile la decisione.
+
+Gestire le risorse pubbliche riguarda tempo, informazioni, strumenti, competenze e beni dell'amministrazione. Una banca dati e' una risorsa pubblica: si consulta per ragioni di servizio, non per curiosita. Anche il tempo dei colleghi e dell'utente e' una risorsa. Una comunicazione incompleta genera nuovi contatti e rallenta il procedimento; una consegna tracciata e comprensibile riduce errori e rilavorazioni.
+
+| Situazione | Competenza da attivare | Condotta piu solida |
+| --- | --- | --- |
+| Pratica urgente ma incompleta | capire il contesto e risolvere problemi | verificare cio che manca, informare e proporre il seguito competente |
+| Utente irritato | comunicazione e orientamento al servizio | ascoltare, spiegare canali e tempi verificabili, evitare promesse |
+| Collega chiede dati non necessari | integrita e gestione delle risorse | verificare la ragione di servizio e limitare l'accesso |
+| Errore nel flusso | accuratezza e collaborazione | segnalarlo, documentare l'effetto e contribuire alla correzione |
+| Carico non sostenibile | consapevolezza e affidabilita | rappresentare dati e priorita al responsabile senza occultare arretrati |
+
+**Errore da evitare:** scegliere l'opzione piu accomodante. Disponibilita e cortesia contano, ma non autorizzano deroghe a competenza, imparzialita, protezione dei dati o tracciabilita.
+
+**Uso nella prova:** leggi tutte le alternative e individua prima quelle che violano una regola o scavalcano una competenza. Fra le opzioni rimanenti, preferisci quella che affronta il problema, tutela l'utente, usa i canali corretti e rende possibile il controllo successivo. Diffida delle risposte assolute: ignorare, promettere, divulgare, accusare o decidere da soli sono spesso segnali di una condotta inadeguata.
+### Metodo di confronto fra alternative
+
+Quando due opzioni sembrano entrambe plausibili, confrontale su cinque criteri: competenza, legalita, tutela dell'utente, collaborazione e tracciabilita. Una risposta forte non massimizza un solo criterio sacrificando gli altri. Se manca un'informazione decisiva, prevede una verifica o un coinvolgimento competente; non inventa il dato e non usa l'incertezza come motivo per ignorare il problema.
+## N-FC03-08-06 · Applicazione concorsuale: profilo, doveri e condotta
+
+### Caso ragionato
 
 Sara prepara un concorso per funzionario amministrativo in un ente pubblico non economico. Nel bando trova area, profilo, materie di diritto amministrativo, pubblico impiego, privacy, informatica, elementi sull'ente e quesiti situazionali. All'inizio pensa di studiare pubblico impiego solo dal manuale generale e di leggere il CCNL all'ultimo momento.
 
@@ -195,7 +300,7 @@ Poi simula un quesito: un utente insiste per ottenere informazioni su una pratic
 
 Questa e' la differenza tra sapere il pubblico impiego e saperlo usare in un ente.
 
-## Strumento operativo: scheda profilo-doveri
+### Strumento operativo: scheda profilo-doveri
 
 Compila questa scheda appena apri un bando EPNE.
 
@@ -216,13 +321,13 @@ Compila questa scheda appena apri un bando EPNE.
 
 La scheda non serve solo per studiare. Serve anche a evitare domande orali generiche: quando sai collocare il profilo, parli come candidato informato e non come lettore di un manuale qualsiasi.
 
-## Domanda da commissario
+### Domanda da commissario
 
 **Domanda:** perche' in un concorso EPNE occorre collegare CCNL, profilo professionale e codice di comportamento?
 
 **Risposta modello:** perche' il bando seleziona una persona per un ruolo concreto dentro un'organizzazione pubblica. Il CCNL aiuta a leggere comparto, area, ordinamento professionale e istituti del rapporto di lavoro; il profilo indica funzioni e competenze richieste; il codice di comportamento traduce i principi di imparzialita, diligenza, correttezza, riservatezza e prevenzione dei conflitti in condotte operative. Negli EPNE questo collegamento e' particolarmente importante perche' il personale gestisce servizi, procedimenti, dati e rapporti con cittadini, lavoratori, imprese e utenti.
 
-## Domanda-trappola
+### Domanda-trappola
 
 **Domanda:** se conosco il D.Lgs. 165/2001, posso ignorare il CCNL e il profilo indicato dal bando?
 
@@ -230,7 +335,7 @@ La scheda non serve solo per studiare. Serve anche a evitare domande orali gener
 
 **Perche' e' una trappola:** confonde fonte generale e ruolo specifico. Il candidato deve partire dal bando, usare il quadro generale e poi verificare il contratto e il profilo applicabile.
 
-## Errore tipico
+### Errore tipico
 
 L'errore piu' frequente e' studiare il CCNL come se fosse una materia isolata o, al contrario, ignorarlo del tutto.
 
@@ -244,7 +349,7 @@ La correzione e':
 4. collega doveri e codice di comportamento a casi concreti;
 5. verifica i dettagli solo su fonte ufficiale aggiornata.
 
-## Mini-esercizio
+### Mini-esercizio
 
 Prendi un bando EPNE reale o simulato e compila in 20 minuti la scheda seguente.
 
@@ -263,7 +368,7 @@ Prendi un bando EPNE reale o simulato e compila in 20 minuti la scheda seguente.
 
 Correzione: se alla quarta riga scrivi solo "pubblico impiego", non hai individuato il riferimento contrattuale. Se alla quinta riga copi la denominazione del profilo senza spiegare funzioni e contesto, non hai ancora letto il bando in modo professionale.
 
-## Diario errori del capitolo
+### Diario errori del capitolo
 
 | Errore | Come lo riconosco | Correzione |
 | --- | --- | --- |
@@ -274,11 +379,11 @@ Correzione: se alla quarta riga scrivi solo "pubblico impiego", non hai individu
 | Trascurare le competenze trasversali | Studio solo norme e non preparo situazionali. | Uso il framework PA per servizio, collaborazione, accuratezza e integrita. |
 | Citare dettagli economici non verificati | Parlo di indennita, progressioni o orari senza fonte aggiornata. | Rinvio al CCNL applicabile e agli atti dell'ente. |
 
-## Da sapere in 5 righe
+### Da sapere in 5 righe
 
 Il personale EPNE va studiato collegando pubblico impiego, CCNL Funzioni Centrali, profilo del bando, codice di comportamento e competenze trasversali. Il D.Lgs. 165/2001 offre il quadro generale, mentre ARAN e il CCNL aiutano a leggere comparto, area e ordinamento professionale. Il bando resta la fonte decisiva per profilo, prove e materie. Nei concorsi EPNE i doveri si applicano a servizi, utenti, imprese, dati, fascicoli e risorse pubbliche. I dettagli contrattuali puntuali vanno sempre verificati su fonti ufficiali aggiornate.
 
-## Checklist finale
+### Checklist finale
 
 Prima di passare al capitolo successivo, verifica se sai rispondere senza appunti:
 
@@ -295,27 +400,58 @@ Prima di passare al capitolo successivo, verifica se sai rispondere senza appunt
 
 Se una risposta manca, non aggiungere subito altre fonti. Torna al bando, compila la scheda profilo-doveri e registra l'errore nel diario.
 
-## Riferimenti consolidati
+## ▣ Verifica - personale EPNE e CCNL Funzioni Centrali
 
-- [[sources/aran-ccnl-funzioni-centrali-pcm-2022-2026]]
-- [[sources/aran-contrattazione-collettiva-comparti-aree-pubblico-impiego]]
-- [[sources/ccnl-comparti-aree-famiglie-professionali-pa]]
-- [[sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego]]
-- [[sources/d-p-r-16-aprile-2013-n-62-codice-comportamento-dipendenti-pubblici]]
-- [[sources/framework-competenze-trasversali-pa-dm-28-giugno-2023]]
-- [[sources/m-fc03-dossier-redazionale-enti-pubblici-non-economici]]
-- [[topics/enti-pubblici-non-economici-concorsi]]
-- [[topics/pubblico-impiego]]
-- [[topics/competenze-trasversali-pa]]
-- [[topics/etica-pubblica]]
-- [[topics/presa-servizio-pa]]
-- [[books/moduli/m-fc03-enti-non-economici/planning/00-piano-editoriale]]
-- [[books/moduli/m-fc03-enti-non-economici/planning/01-matrice-copertura-materie]]
+**1. Quale affermazione descrive meglio il rapporto tra legge, CCNL e bando?**
 
-## Note di review
+A. Il CCNL sostituisce ogni norma sul lavoro pubblico.
+B. Il bando disciplina da solo l'intero rapporto di lavoro.
+C. La legge definisce il quadro generale, il CCNL regola le materie contrattuali nel proprio ambito e il bando individua procedura e profilo.
+D. Le tre fonti hanno sempre lo stesso contenuto.
 
-- Prima della pubblicazione finale verificare il CCNL applicabile, eventuali orientamenti ARAN aggiornati, bandi e allegati specifici dell'ente o della procedura.
-- Non citare importi, indennita, progressioni, orario, ferie, permessi, periodo di prova o istituti disciplinari puntuali senza controllo sul testo contrattuale vigente e sugli atti dell'ente.
-- Per casi disciplinari avanzati verificare anche il codice integrativo dell'amministrazione interessata e le istruzioni organizzative interne, se richiamate dal bando.
-- Il capitolo e' orientato a profili amministrativi, giuridici, economici, contabili, servizi e vigilanza non tecnica del perimetro M-FC03; profili ICT, ricerca, authority o agenzie fiscali richiedono rinvio ai moduli pertinenti.
-- Non sono state usate raw sources come fonte editoriale finale; il testo deriva da source notes, topic pages, capitoli M-FC03 gia' redatti, piano editoriale e matrice di copertura consolidati.
+**Risposta corretta: C.** Le fonti svolgono funzioni diverse e vanno lette insieme. Il candidato non deve trasferire automaticamente una regola contrattuale a ogni amministrazione ne' dedurre le mansioni dal solo titolo del concorso.
+
+**2. Che cosa indica il comparto?**
+
+A. Il singolo posto messo a concorso.
+B. L'ambito della contrattazione collettiva riferito a gruppi di amministrazioni e personale.
+C. La sede fisica dell'ufficio.
+D. Una mansione assegnata dal responsabile.
+
+**Risposta corretta: B.** Il comparto individua un perimetro contrattuale. Area, famiglia professionale, profilo e mansioni rispondono a domande diverse e non sono sinonimi.
+
+**3. Come si ricostruisce correttamente un profilo EPNE?**
+
+A. Dal titolo del profilo, immaginando tutte le attivita plausibili.
+B. Soltanto dall'elenco delle materie d'esame.
+C. Incrociando bando, area, famiglia, funzioni descritte, prove, contesto dell'ente e fonti applicabili.
+D. Copiando la descrizione di un concorso di un altro ente.
+
+**Risposta corretta: C.** La denominazione orienta ma non basta. La ricostruzione deve restare ancorata ai documenti della procedura e non puo attribuire compiti non dichiarati.
+
+**4. Un conoscente chiede al dipendente di controllare una pratica in banca dati. Qual e' la condotta corretta?**
+
+A. Consultarla se l'informazione non viene stampata.
+B. Consultarla per cortesia e riferire solo l'esito.
+C. Verificare titolo, competenza e ragione di servizio, usando i canali previsti senza accessi impropri.
+D. Chiedere a un collega di effettuare l'accesso.
+
+**Risposta corretta: C.** Gli strumenti e le informazioni dell'ente si usano per finalita di servizio. La relazione personale non sostituisce legittimazione, competenza e tutela dei dati.
+
+**5. Nei quesiti situazionali, quale risposta esprime una competenza trasversale solida?**
+
+A. Quella che promette sempre una soluzione immediata all'utente.
+B. Quella che affronta il problema, rispetta competenze e regole, collabora e rende tracciabile il seguito.
+C. Quella che evita ogni iniziativa per non assumere responsabilita.
+D. Quella che trasferisce il problema al collega senza informazioni.
+
+**Risposta corretta: B.** Le competenze trasversali non autorizzano scorciatoie. Orientamento al servizio, soluzione dei problemi e collaborazione operano dentro legalita, responsabilita e corretta gestione delle risorse.
+
+**6. Perche' la scheda profilo-doveri e' utile nella preparazione?**
+
+A. Sostituisce il bando e il CCNL.
+B. Permette di stabilire importi e progressioni future.
+C. Collega ente, inquadramento, funzioni, materie, doveri, rischi e output di prova senza inventare dettagli.
+D. Serve soltanto dopo l'assunzione.
+
+**Risposta corretta: C.** La scheda trasforma i documenti della procedura in una mappa di studio e allenamento. I dati contrattuali mobili restano da verificare sulle fonti ufficiali applicabili.
