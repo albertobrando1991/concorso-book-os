@@ -5159,3 +5159,11 @@
 - l0: l0/conv-20260811105053-1t1jaw0.md
 - atoms:
   - mem-20260811105053-jb7ii4 | result | Esito pipeline-volume/step-11: Procedere con il prossimo step della pipeline aggiornata per VOL-10. -> Completato step 11 capitolo 07: doppia passata Humanizer con correzioni mirate a contrasti meccanici, simmetrie e formule enfatiche; significato e citazioni preservati.
+
+## 2026-08-11T10:53:49.728Z - VOL-10
+
+- conversation_id: conv-20260811105349-1ghvtgb
+- route: pipeline-volume/step-12
+- l0: l0/conv-20260811105349-1ghvtgb.md
+- atoms:
+  - mem-20260811105349-iyo4of | result | Esito pipeline-volume/step-12: Procedere con il prossimo step della pipeline aggiornata per VOL-10. -> Completato step 12 capitolo 07: revisione editoriale totale con checklist a 30 punti, copertura v4 e test dello studente; report Format 2 senza errori aperti, review-report verde, 155 test superati, capitolo editorial...
