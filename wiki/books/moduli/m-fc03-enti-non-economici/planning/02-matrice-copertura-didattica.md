@@ -107,3 +107,39 @@ Tutti i sei nuclei presentano teoria autonoma, applicazione e verifica. Le check
 ## Esito capitolo 03
 
 I sei nuclei presentano teoria autonoma, applicazione e verifica. Le tabelle, il caso e i quiz consolidano la spiegazione senza sostituirla. Non risultano dimensioni applicabili vuote, rinvii generici o dati operativi non tracciati; requisiti, soglie e canali soggetti a modifica restano subordinati alla fonte ufficiale vigente.
+## Capitolo 04 - overlay Format 2
+
+| Nucleo ID | Famiglia/profilo | Materia | Concetto/sotto-concetti | Frequenza/peso | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa | Destinazione rinvio |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FC03-04-01 | M-FC03/INAIL amministrativi | Istituzione | Ruolo INAIL, perimetro, fonti e differenza da INPS | alta | [[sources/m-fc03-fonti-ufficiali-enti-epne-2026]] | Cap. 04 § N-FC03-04-01 | Inquadra funzione assicurativa e prevenzionale e gerarchia delle fonti | Lettura del bando e risposta istituzionale | Quiz e orale | Q:1 C:0 E:1 - Quiz 1 e tabella fonti | completo | Audit fonti e assetto vigenti |  |
+| N-FC03-04-02 | M-FC03/INAIL amministrativi | Assicurazione sociale | Natura pubblica, rischio, soggetti, premio e tutela | alta | [[sources/m-fc03-corpus-ufficiale-integrativo-2026-07-17]] | Cap. 04 § N-FC03-04-02 | Distingue assicurazione sociale, obbligo e riconoscimento | Caso su richiesta e limiti dell'operatore | Quiz, orale e caso | Q:1 C:0 E:1 - Quiz 2 e applicazione | completo | Audit rapporto e disciplina vigente |  |
+| N-FC03-04-03 | M-FC03/INAIL amministrativi | Eventi tutelati | Infortunio sul lavoro e malattia professionale | alta | [[sources/vol-03-fonti-specialistiche-fisco-dogane-previdenza-ispettivo]] | Cap. 04 § N-FC03-04-03 | Spiega differenze, nesso col lavoro, istruttoria e dati | Tabella comparativa e micro-caso | Quiz, orale e caso | Q:1 C:1 E:1 - Quiz 3 e micro-caso | completo | Audit definizioni e presupposti |  |
+| N-FC03-04-04 | M-FC03/INAIL amministrativi | Prevenzione | Riduzione del rischio e funzioni prevenzionali INAIL | alta | [[sources/m-fc03-dossier-redazionale-enti-pubblici-non-economici]] | Cap. 04 § N-FC03-04-04 | Collega conoscenza degli eventi, organizzazione e prevenzione | Tabella situazioni e risposta professionale | Quiz e situazionale | Q:1 C:0 E:1 - Quiz 4 e tabella | completo | Audit attribuzioni e iniziative correnti |  |
+| N-FC03-04-05 | M-FC03/INAIL amministrativi | Sicurezza | Sistema D.Lgs. 81/2008, rischi, soggetti, informazione e formazione | alta | [[sources/d-lgs-9-aprile-2008-n-81-salute-sicurezza-lavoro]] | Cap. 04 § N-FC03-04-05 | Illustra logica preventiva, ruoli e distinzioni | Caso dell'ostacolo in ufficio | Quiz, orale e situazionale | Q:1 C:1 E:1 - Quiz 5 e caso ufficio | completo | Audit ruoli e obblighi citati |  |
+| N-FC03-04-06 | M-FC03/INAIL amministrativi | Procedimento e metodo | Prestazioni, utenti, istruttoria, dati e prova | alta | [[sources/m-fc03-bando-ripam-inail-308-funzionari-assistenti-sociali-2024]] | Cap. 04 § N-FC03-04-06 | Integra evento, domanda, accertamento, esito e prevenzione | Mappa, caso Sara, esercizio e diario | Quiz, orale, caso e situazionale | Q:2 C:1 E:1 - Quiz 6, trappola e caso | completo | Adattare a bando e procedure vigenti |  |
+
+## Checklist dimensionale - capitolo 04
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso nella prova | Errore tipico | Verifica | Fonti | Tracciabilita |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FC03-04-01 | ✓ ruolo e perimetro INAIL | ✓ collocare ente e domanda | ✓ D.P.R. 1124/1965, D.Lgs. 38/2000 e 81/2008 | ✓ piani istituzionale, assicurativo e prevenzionale | ✓ INAIL/INPS e fonte stabile/corrente | ✓ scelta della fonte e profondita | ✓ risposta ordinata al quesito | ✓ quiz e orale | ✓ ente previdenziale generico | ✓ Quiz 1 | ✓ fonti in riga | ✓ frontmatter e norme leggibili |
+| N-FC03-04-02 | ✓ assicurazione sociale | ✓ tutelare rischi lavorativi | ✓ sistema pubblico regolato | ✓ rischio, soggetti, premio, evento e tutela | ✓ polizza privata/assicurazione sociale e obbligo/diritto | ✓ istruttoria prima della prestazione | ✓ richiesta con dati misti | ✓ quiz, orale e caso | ✓ premio come garanzia automatica | ✓ Quiz 2 | ✓ fonti in riga | ✓ frontmatter |
+| N-FC03-04-03 | ✓ infortunio e malattia professionale | ✓ classificare l'evento | ✓ assicurazione obbligatoria | ✓ dinamica, esposizione, nesso, dati e accertamento | ✓ evento concentrato/patologia professionale | ✓ pratiche e comunicazioni differenziate | ✓ utente con patologia | ✓ quiz, orale e caso | ✓ coincidenza temporale come prova | ✓ Quiz 3 | ✓ fonti in riga | ✓ frontmatter |
+| N-FC03-04-04 | ✓ prevenzione | ✓ ridurre rischio e danno | ✓ funzione prevenzionale INAIL | ✓ informazione, formazione, ricerca e organizzazione | ✓ funzione stabile/iniziativa corrente | ✓ segnalazione, programmazione e controllo | ✓ rischio ricorrente di settore | ✓ quiz e situazionale | ✓ intervenire solo dopo l'evento | ✓ Quiz 4 | ✓ fonti in riga | ✓ frontmatter |
+| N-FC03-04-05 | ✓ salute e sicurezza | ✓ organizzare la prevenzione | ✓ D.Lgs. 81/2008 | ✓ rischi, ruoli, informazione, formazione e partecipazione | ✓ datore/RLS/RSPP/lavoratore e informazione/formazione | ✓ responsabilita secondo funzione e poteri | ✓ ostacolo in area di passaggio | ✓ quiz, orale e situazionale | ✓ tutti i soggetti con stessi compiti | ✓ Quiz 5 | ✓ fonti in riga | ✓ frontmatter e norma leggibile |
+| N-FC03-04-06 | ✓ catena della pratica | ✓ trasformare teoria in risposta | ✓ sintesi del capitolo | ✓ evento, soggetti, fonte, procedimento, dati, prevenzione ed esito | ✓ informazione generale/dato personale e orientamento/decisione | ✓ esito motivato e comunicazione tracciata | ✓ caso ragionato di Sara | ✓ quiz, orale, caso e situazionale | ✓ promessa prima dell'istruttoria | ✓ Quiz 6 e caso | ✓ fonti in riga | ✓ frontmatter |
+
+## Delta step 10 - capitolo 04
+
+| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
+| --- | --- | --- | --- | --- |
+| N-FC03-04-01 | parziale | Verificati funzione, perimetro, fonti e distinzione INPS/INAIL | completo | Heading Ruolo dell'INAIL, inquadramento e fonti; Quiz 1 |
+| N-FC03-04-02 | parziale | Verificati natura pubblica, soggetti, premio e conseguenze | completo | Heading Assicurazione sociale, rischio e rapporto assicurativo; Quiz 2 |
+| N-FC03-04-03 | parziale | Verificate definizioni, distinzioni, dati e istruttoria | completo | Heading Infortunio sul lavoro e malattia professionale; Quiz 3 |
+| N-FC03-04-04 | parziale | Verificati funzione prevenzionale, strumenti e limiti | completo | Heading Prevenzione e funzioni dell'INAIL; Quiz 4 |
+| N-FC03-04-05 | quasi completo | Verificati sistema, soggetti, ruoli e applicazione in ufficio | completo | Heading Salute e sicurezza nei luoghi di lavoro; Quiz 5 |
+| N-FC03-04-06 | quasi completo | Verificati mappa, caso, esercizio, diario e blocco verifica | completo | Heading Prestazioni, procedimento e applicazione concorsuale; Quiz 6 e caso |
+
+## Esito capitolo 04
+
+I sei nuclei presentano teoria autonoma, applicazione e verifica. Tabelle, casi e quiz applicano concetti gia spiegati. Non risultano dimensioni applicabili vuote o rinvii generici; definizioni, attribuzioni, procedure e dati mobili restano subordinati all'audit specialistico e alle fonti ufficiali vigenti.
