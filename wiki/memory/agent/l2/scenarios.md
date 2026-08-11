@@ -5208,3 +5208,11 @@
 - l0: l0/conv-20260811114445-1saz1o2.md
 - atoms:
   - mem-20260811114445-1g9vd0j | result | Esito codex-vol10-cap08-step12: Procedi con il prossimo step della pipeline aggiornata VOL-10. -> Completato step 12 capitolo 08: report di revisione totale aggiornato nel template fisso, test dello studente superato, copertura v4 completa, nessun errore oggettivo aperto; quattro verifiche normative instradate all...
+
+## 2026-08-11T11:51:48.882Z - VOL-10/M-TR03
+
+- conversation_id: conv-20260811115148-t8uf00
+- route: codex-vol10-cap09-step08
+- l0: l0/conv-20260811115148-t8uf00.md
+- atoms:
+  - mem-20260811115148-150wo5q | result | Esito codex-vol10-cap09-step08: Procedi con il prossimo step della pipeline aggiornata VOL-10. -> Completato step 08 capitolo 09: piano Format 2 aggiornato sullo stato reale con sei nuclei, budget 4600-5000 parole, sei quiz, caso integrato, controlli vicini, fonti disponibili, confini e audit specialistici.

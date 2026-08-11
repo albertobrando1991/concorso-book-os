@@ -1,305 +1,209 @@
+---
+id: m-tr03-capitolo-09-piano-completamento
+type: chapter_plan
+title: "Piano di completamento — Capitolo 09"
+status: ready
+domain: "concorsi pubblici italiani"
+book_refs: ["m-tr03-tecnico-ingegneristico", "vol-10-tecnico-ingegneristico-territorio-lavori-pubblici"]
+source_refs: ["sources/collaudo-verifica-manutenzione-opera-dlgs-36-2023-allegato-ii14", "sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024", "sources/ntc-2018-circolare-2019-emendamenti-2023-fonti-ufficiali", "sources/progettazione-opere-pubbliche-dlgs-36-2023-allegato-i7"]
+updated_at: 2026-08-11
+review_required: true
+canonical: true
+tags: ["chapter-plan", "format-2", "m-tr03", "vol-10", "chapter-09"]
+---
+
 # Piano di completamento — Capitolo 09
 
-## Target
+## Target e obiettivo
 
-`chapters/09-collaudo-verifica-manutenzione.md`
+Target: `chapters/09-collaudo-verifica-manutenzione.md`.
 
-## Base documentale letta
+Il capitolo deve accompagnare il lettore dall’ultimazione dell’opera al controllo finale e al trasferimento delle informazioni verso uso e manutenzione. L’architettura segue il passaggio di stato dell’opera: `ultimazione → dossier → controllo → esito → presa in consegna → gestione`. Il testo deve essere autonomo nel proprio perimetro specialistico e non deve dipendere da wiki, source note o rinvii generici.
 
-- indice, scheda pipeline e matrice di copertura di `VOL-10`;
-- indice, piano editoriale e matrice di `M-TR03`;
-- capitoli 4, 7 e 8, per collaudo statico, progetto, piano di manutenzione, ultimazione e documenti dell'esecuzione;
-- capitolo `Contratti pubblici essenziali` di `VOL-01`, sezione `14. Esecuzione, subappalto, verifica e collaudo`;
-- source note sul D.Lgs. 36/2023 nel testo vigente e sul ciclo dei contratti;
-- source note specialistica su direzione lavori, esecuzione e Allegato II.14;
-- source note e topic su NTC, sicurezza strutturale e collaudo statico;
-- source note sulla progettazione delle opere pubbliche;
-- campione ufficiale dei bandi tecnici.
+## Base documentale verificata
 
-Il file del capitolo 9 non esiste. Il wiki distingue già collaudo statico e tecnico-amministrativo, ma non dispone di una source note specialistica consolidata sul controllo finale dell'esecuzione, sui certificati, sulla presa in consegna e sulla gestione manutentiva dell'opera. Tale consolidamento è bloccante per lo step di scrittura.
+- matrice di copertura didattica M-TR03, riga “Collaudo, verifica e manutenzione”;
+- Bibbia del modulo M-TR03 e confini di collana;
+- capitolo legacy 09, già presente e specialist-audited;
+- capitoli 4, 7 e 8 per collaudo statico, piano di manutenzione, ultimazione e dossier dell’esecuzione;
+- capitolo 10 per il confine con contabilità e conto finale;
+- capitoli 11 e 12 per infrastrutture, monitoraggio, patrimonio e gestione informativa;
+- source note consolidata `collaudo-verifica-manutenzione-opera-dlgs-36-2023-allegato-ii14`;
+- source note consolidate sul Codice, Allegato I.7, direzione lavori e NTC;
+- topic canonico `collaudo-verifica-manutenzione-opera`;
+- VOL-01, contenuto comune sui contratti pubblici, utilizzabile soltanto per collocare il controllo finale nel ciclo generale.
 
-## Nuclei assegnati
+Le fonti specialistiche e il topic che il piano precedente indicava come mancanti sono ora disponibili. Non sussiste un blocco documentale per lo step 09.
 
-1. funzione del controllo finale nel ciclo dell'opera pubblica;
-2. passaggio dall'ultimazione alle operazioni di collaudo;
-3. collaudo tecnico-amministrativo;
-4. certificato di regolare esecuzione e relativo confine applicativo;
-5. verifica di conformità come istituto da distinguere dal collaudo dei lavori;
-6. collaudo statico e rapporto con il controllo tecnico-amministrativo;
-7. soggetti: RUP, direttore dei lavori, collaudatore, esecutore e organi della stazione appaltante;
-8. indipendenza, incompatibilità e responsabilità del collaudatore al livello essenziale;
-9. documenti e dossier da consegnare al controllo finale;
-10. sopralluoghi, prove, riscontri e contraddittorio;
-11. esito: certificato, prescrizioni, difetti, lavorazioni residue e non collaudabilità;
-12. presa in consegna, uso anticipato e custodia, soltanto nei limiti necessari;
-13. garanzie, vizi e raccordo con responsabilità, senza trasformare il capitolo in trattato civilistico;
-14. piano di manutenzione dell'opera e delle sue parti;
-15. passaggio dal progetto alla gestione: manuali, controlli, periodicità e responsabilità;
-16. ciclo di vita, durabilità, ispezione, monitoraggio e priorità manutentive;
-17. gestione tecnica del patrimonio come raccordo con capitoli 11 e 12;
-18. scheda di collaudo, caso tecnico, risposta orale e checklist.
+## Stato reale del capitolo legacy
 
-## Stato iniziale
+Il capitolo contiene circa 2.700 parole e copre già in forma valida:
 
-La riga della matrice M-TR03 è `parziale`: collocazione, scheda di collaudo e caso sono previsti, ma teoria, verifica dell'apprendimento e fonti specialistiche non sono ancora sviluppati.
+- funzione del controllo finale e distinzione dall’ultimazione;
+- dossier dell’opera;
+- collaudo tecnico-amministrativo, regolare esecuzione, collaudo statico e verifica di conformità;
+- ruoli di RUP, DL, collaudatore ed esecutore;
+- esame documentale, visita, prove, rilievi ed esito;
+- presa in consegna, documentazione finale, garanzie e difetti;
+- piano di manutenzione, durabilità e ciclo di vita;
+- caso della scuola, tavola comparativa, domande ed esercizio.
 
-La matrice di volume assegna inoltre:
+Il contenuto è riusabile, ma il capitolo non è ancora Format 2: non presenta nuclei con Nucleo ID, non raggiunge la densità minima per nucleo, non contiene sei quiz commentati, include wikilink e note interne nel corpo e non dispone del blocco `▣ Verifica` richiesto. Nessun nucleo può quindi essere classificato `completo` ai fini del gate aggiornato.
 
-- `Collaudo e verifica` al capitolo 9 e all'appendice C;
-- `Manutenzione e ciclo di vita` ai capitoli 9 e 11;
-- `Patrimonio pubblico` ai capitoli 9 e 12.
+## Nuclei assegnati e stato
 
-Il capitolo deve quindi coprire la teoria comune, lasciando alle appendici e ai capitoli 11-12 strumenti specialistici e applicazioni su infrastrutture, monitoraggio e inventario patrimoniale.
+| Nucleo ID | Titolo e perimetro | Stato iniziale | Intervento richiesto |
+| --- | --- | --- | --- |
+| N-TR03-09-01 | Dall’ultimazione al controllo finale | parziale | sviluppare funzione, dossier, requisiti, evidenze e confine ultimazione/collaudo |
+| N-TR03-09-02 | Tipi di controllo e certificati | parziale | consolidare collaudo tecnico-amministrativo, CRE, statico e verifica di conformità con tavola comparativa |
+| N-TR03-09-03 | Soggetti, operazioni ed esito | parziale | approfondire competenze, indipendenza, visita, prove, contraddittorio, rilievi e certificato |
+| N-TR03-09-04 | Presa in consegna, documentazione e difetti | parziale | distinguere collaudo, consegna, uso, documenti finali, garanzie e responsabilità essenziali |
+| N-TR03-09-05 | Piano di manutenzione e ciclo di vita | parziale | spiegare struttura funzionale, aggiornamento all’opera realizzata, ispezioni e priorità |
+| N-TR03-09-06 | Caso integrato: la scuola passa alla gestione | parziale | trasformare il caso legacy in applicazione completa con decisioni, soluzione e trasferimento alla prova |
 
-## Nuclei già completi
+Ogni nucleo deve coprire: definizione, funzione, inquadramento, elementi, distinzioni, conseguenze, esempio o caso, uso nella prova, errore tipico e controllo vicino.
 
-Nessun nucleo specialistico è completo nel file di destinazione, che non esiste.
+## Sezioni da conservare e rifondere
 
-Sono disponibili prerequisiti riusabili:
+- apertura, obiettivo e Mappa BANDO, da riunire sotto `## Apertura, obiettivo e Mappa BANDO`;
+- “Il dossier dell’opera” e “La funzione del controllo” nel nucleo 01;
+- tavola dei tipi di controllo nel nucleo 02;
+- “RUP, DL, collaudatore ed esecutore”, “Esame documentale, visita e prove” e “Rilievi, prescrizioni e certificato” nel nucleo 03;
+- presa in consegna, documentazione finale, garanzie e difetti nel nucleo 04;
+- piano di manutenzione, durabilità, ispezione, priorità e raccordo patrimoniale nel nucleo 05;
+- caso della scuola, tavola evento-controllo-effetto e risposta orale nel nucleo 06;
+- domanda da commissario, domanda-trappola, mini-esercizio e scheda essenziale, da distribuire nei nuclei o nella verifica finale.
 
-- il capitolo 4 definisce il collaudo statico e lo distingue da quello tecnico-amministrativo;
-- il capitolo 7 collega progetto esecutivo, piano di manutenzione e verificabilità dell'opera;
-- il capitolo 8 tratta ultimazione, documenti finali e passaggio al collaudo;
-- `VOL-01` colloca collaudo e verifica nel ciclo generale del contratto;
-- la source note sul ciclo dei contratti ricorda che stipula ed esecuzione conducono a collaudo o verifica di conformità.
+I wikilink e le note redazionali interne del legacy non devono passare nel corpo pubblicabile. La tracciabilità resta nel frontmatter.
 
-Questi nuclei vanno richiamati senza duplicarli. Il capitolo deve diventare autonomo sulla funzione del controllo finale e sulla transizione dall'opera eseguita all'opera gestita.
+## Duplicazioni e confini da evitare
 
-## Nuclei da sviluppare
+- non ripetere il ciclo generale del contratto, il RUP e l’affidamento già trattati nel VOL-01 e nel VOL-09;
+- non duplicare teoria e procedure del collaudo statico del capitolo 4: qui serve la distinzione funzionale;
+- non riscrivere progettazione e contenuti analitici del piano di manutenzione del capitolo 7;
+- non ripetere direzione lavori, ultimazione, varianti, sospensioni e riserve del capitolo 8;
+- non anticipare libretto delle misure, registro, SAL, conto finale e certificati di pagamento del capitolo 10;
+- non sviluppare monitoraggio dei ponti, classi di attenzione e priorità di rete del capitolo 11;
+- non anticipare BIM, GIS, inventario e gestione informativa patrimoniale del capitolo 12;
+- non trasformare garanzie e vizi in un trattato civilistico;
+- non fissare soglie, termini, incompatibilità o periodicità mobili non necessari alla comprensione.
 
-1. **Funzione del collaudo**: accertare, secondo la disciplina applicabile, la regolare esecuzione e la corrispondenza dell'opera a contratto, progetto e modifiche approvate.
-2. **Oggetto del controllo**: qualità, quantità, contabilità, tempi, documenti, prove, riserve e condizioni dell'opera, senza anticipare il dettaglio contabile del capitolo 10.
-3. **Soggetti e indipendenza**: distinguere collaudatore, DL e RUP; spiegare perché chi controlla il risultato finale non coincide automaticamente con chi ha diretto l'esecuzione.
-4. **Sequenza operativa**: ultimazione, trasmissione del dossier, esame documentale, visita, prove, contraddittorio, rilievi, esito e adempimenti successivi.
-5. **Certificato di collaudo**: funzione, contenuti essenziali, carattere e passaggi successivi, evitando termini puntuali non ancora consolidati.
-6. **Certificato di regolare esecuzione**: funzione sostitutiva nei casi ammessi e distinzione dal certificato di ultimazione.
-7. **Verifica di conformità**: richiamo comparativo per servizi e forniture, utile a non usare impropriamente lo stesso istituto per ogni contratto.
-8. **Collaudo statico**: oggetto strutturale, fonti e soggetti; raccordo con il capitolo 4 senza duplicarne NTC, controlli sui materiali e procedure territoriali.
-9. **Esiti problematici**: difetti, non conformità, prescrizioni, lavorazioni residue, detrazioni o necessità di ulteriori accertamenti al livello supportato dalle fonti.
-10. **Presa in consegna e uso**: distinguere completamento, collaudo, presa in consegna e apertura all'uso.
-11. **Piano di manutenzione**: struttura funzionale, informazioni da trasferire, controlli programmati e aggiornamento in base all'opera realizzata.
-12. **Ciclo di vita**: legare requisiti, durabilità, uso, ispezioni, degrado, rischio, priorità e interventi.
-13. **Gestione dell'opera**: trasformare elaborati finali e manuali in un sistema di decisione, senza anticipare monitoraggio dei ponti o inventario digitale.
-14. **Uso nella prova**: risposta breve, classificazione dei documenti, caso guidato e scheda di collaudo.
+## Esempi, caso, quiz ed esercizi
 
-## Sezioni da conservare
+### Caso integrato obbligatorio
 
-Non esiste testo pregresso da conservare. Restano vincolanti:
+Proseguire il caso della scuola dei capitoli 7 e 8. Alla comunicazione di ultimazione:
 
-- titolo e output previsti dall'indice;
-- lessico consolidato: collaudo tecnico-amministrativo, collaudo statico, certificato di regolare esecuzione, verifica di conformità, ultimazione, piano di manutenzione e ciclo di vita;
-- apparato Metodo BANDO: Obiettivo, Mappa BANDO, box, caso, domanda da commissario, domanda-trappola, errore tipico, esercizio, checklist, riferimenti e note di review;
-- confini già stabiliti dai capitoli 4, 7, 8, 10, 11 e 12;
-- distinzione fra principi stabili e regole mobili del Codice e dei relativi allegati.
+1. una variante è approvata ma la tavola impiantistica non è aggiornata;
+2. manca l’esito documentato di una prova;
+3. resta una finitura marginale;
+4. il Comune vorrebbe usare una parte dell’edificio;
+5. il piano di manutenzione indica il materiale originario, non quello installato;
+6. compare una fessurazione che impone di separare controllo tecnico-amministrativo e valutazione strutturale.
 
-## Scelta architetturale
+La soluzione deve ordinare atti e accertamenti, attribuire le competenze, distinguere rilievo amministrativo e strutturale e motivare il passaggio alla gestione.
 
-Sono possibili tre impianti:
+### Verifiche e output concorsuali
 
-1. **Per tipologia di certificato**: utile come prontuario, ma frammenta funzione e processo.
-2. **Per soggetti**: chiarisce le competenze, ma ripete più volte documenti e controlli.
-3. **Per passaggio di stato dell'opera**: opera ultimata → dossier → controllo → esito → consegna alla gestione → manutenzione.
-
-Si adotta il terzo. Consente di spiegare prima perché si controlla, poi come si forma l'esito e infine come le informazioni del collaudo alimentano esercizio e manutenzione. Una tavola comparativa ricompone tipologie, soggetti, oggetto e documento finale.
-
-## Duplicazioni da evitare
-
-- ciclo generale del contratto, RUP, affidamento e principi già coperti in `VOL-01` e approfonditi in `VOL-09`;
-- progettazione e contenuti analitici del piano di manutenzione già introdotti nel capitolo 7;
-- direzione lavori, ultimazione, ordini, modifiche, sospensioni e riserve del capitolo 8;
-- NTC, controlli strutturali e teoria del collaudo statico del capitolo 4;
-- libretto delle misure, registro di contabilità, SAL, conto finale e certificati di pagamento del capitolo 10;
-- classificazione del rischio, ispezione e monitoraggio di ponti e infrastrutture del capitolo 11;
-- inventario, BIM, GIS e gestione informativa patrimoniale del capitolo 12;
-- tabelle analitiche e modelli operativi destinati all'appendice C.
-
-## Esempi, casi, domande ed esercizi necessari
-
-### Caso guidato
-
-Riqualificazione della scuola già usata nei capitoli 7 e 8. A ultimazione dichiarata:
-
-1. il dossier contiene una variante approvata e alcuni elaborati finali da aggiornare;
-2. una prova impiantistica non ha esito documentato;
-3. resta una lavorazione marginale;
-4. il Comune vuole usare una parte dell'edificio;
-5. il piano di manutenzione non recepisce il materiale effettivamente installato;
-6. emerge una fessurazione che richiede di distinguere controllo tecnico-amministrativo e valutazione strutturale.
-
-Il candidato deve ordinare documenti e accertamenti, individuare il soggetto competente, separare rilievo amministrativo e strutturale e indicare quando l'opera può passare alla gestione.
-
-### Tavola comparativa
-
-`controllo | oggetto | soggetto | documento finale | effetto | rinvio`.
-
-Righe minime:
-
-- collaudo tecnico-amministrativo;
-- certificato di regolare esecuzione;
-- collaudo statico;
-- verifica di conformità;
-- certificato di ultimazione.
-
-### Domanda da commissario
-
-“Qual è la funzione del collaudo tecnico-amministrativo e come si distingue dal collaudo statico?”
-
-### Domanda-trappola
-
-“Il certificato di ultimazione dimostra da solo che l'opera è collaudata e pronta all'uso?”
-
-La risposta deve distinguere dichiarazione di fine lavori, controllo finale, adempimenti di sicurezza, presa in consegna e condizioni d'uso.
-
-### Mini-esercizio
-
-Classificare dieci elementi fra:
-
-- documento del dossier;
-- controllo tecnico-amministrativo;
-- controllo strutturale;
-- esito o certificato;
-- informazione da trasferire alla manutenzione;
-- rinvio al capitolo 10, 11 o 12.
-
-### Scheda di collaudo
-
-Campi minimi:
-
-- opera e contratto;
-- progetto e modifiche;
-- soggetti;
-- ultimazione e documenti ricevuti;
-- controlli e prove;
-- contabilità e riserve;
-- difetti e prescrizioni;
-- esito;
-- presa in consegna;
-- documentazione “come costruito”;
-- piano di manutenzione e responsabile del passaggio alla gestione.
+- sei controlli vicini, uno per nucleo;
+- sei quiz numerati e commentati con formula `Risposta corretta:`;
+- un blocco `## ▣ Verifica dopo i nuclei` dopo i sei nuclei;
+- domanda da commissario: funzione del collaudo tecnico-amministrativo e distinzione dal collaudo statico;
+- domanda-trappola: il certificato di ultimazione non prova da solo che l’opera sia collaudata e pronta all’uso;
+- mini-esercizio di classificazione fra dossier, controllo, esito e informazione manutentiva;
+- scheda essenziale: opera, contratto, soggetti, dossier, visite e prove, contabilità e riserve, rilievi, esito, presa in consegna, documenti finali e manutenzione;
+- risposta orale breve fondata sulla sequenza `oggetto → soggetto → evidenza → esito → effetto`.
 
 ## Fonti da usare
 
-### Disponibili e consolidate
+Fonti principali consolidate:
 
-- [[sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024]];
-- [[sources/ciclo-contratti-pubblici-rup-stazione-appaltante-operatore-economico]];
-- [[sources/direzione-lavori-esecuzione-cantieri-dlgs-36-2023-allegato-ii14]];
-- [[sources/progettazione-opere-pubbliche-dlgs-36-2023-allegato-i7]];
-- [[sources/ntc-2018-circolare-2019-emendamenti-2023-fonti-ufficiali]];
-- [[sources/campione-bandi-tecnici-pa-vol-10-2026]];
-- [[sources/modulo-m-tr03-tecnico-ingegneristico-vol-10]];
-- [[topics/contratti-pubblici]];
-- [[topics/ntc-sismica-geotecnica-sicurezza-strutturale]];
-- capitoli 4, 7 e 8 di `M-TR03`;
-- `VOL-01`, capitolo `Contratti pubblici essenziali`, sezione `14. Esecuzione, subappalto, verifica e collaudo`.
+- `sources/collaudo-verifica-manutenzione-opera-dlgs-36-2023-allegato-ii14`;
+- `sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024`;
+- `sources/ciclo-contratti-pubblici-rup-stazione-appaltante-operatore-economico`;
+- `sources/direzione-lavori-esecuzione-cantieri-dlgs-36-2023-allegato-ii14`;
+- `sources/progettazione-opere-pubbliche-dlgs-36-2023-allegato-i7`;
+- `sources/ntc-2018-circolare-2019-emendamenti-2023-fonti-ufficiali`;
+- `sources/campione-bandi-tecnici-pa-vol-10-2026`;
+- `sources/modulo-m-tr03-tecnico-ingegneristico-vol-10`;
+- `topics/collaudo-verifica-manutenzione-opera`.
 
-La entity `dlgs-36-2023` è draft e non va usata come fonte autonoma.
+La scrittura deve verificare in particolare l’art. 116 del D.Lgs. n. 36/2023, gli Allegati I.2, I.7 e II.14, il D.P.R. n. 380/2001 e le NTC nei soli punti effettivamente trattati. Entity draft e memoria locale non sono fonti normative.
 
-### Fonti ufficiali bloccanti da acquisire
+## Audit specialistici richiesti
 
-Prima dello step 09 occorre creare una source note specialistica basata su:
+- collaudo tecnico-amministrativo: oggetto, soggetti, indipendenza, operazioni, certificato ed effetti;
+- certificato di regolare esecuzione: funzione sostitutiva e presupposti, senza soglie cristallizzate;
+- collaudo statico: confine con il controllo tecnico-amministrativo e rinvio puntuale al capitolo 4;
+- verifica di conformità: corretta collocazione nei servizi e forniture;
+- presa in consegna e uso: presupposti, responsabilità e distinzione dal collaudo;
+- dossier, conto finale e riserve: raccordo con i capitoli 8 e 10;
+- piano di manutenzione: coerenza fra progetto, opera realizzata, manuali e gestione;
+- terminologia tecnica, tabelle e caso: controllo con prospettiva di RUP, DL, collaudatore, strutturista ed esperto di manutenzione.
 
-1. D.Lgs. 36/2023 nel testo vigente;
-2. art. 116, per collaudo e verifica di conformità;
-3. Allegato II.14 vigente, per collaudo dei lavori, certificato di regolare esecuzione, documenti, operazioni ed esiti;
-4. art. 15 e Allegato I.2, per compiti del RUP nella fase finale;
-5. art. 41 e Allegato I.7, per piano di manutenzione e documenti progettuali pertinenti;
-6. D.P.R. 380/2001 e NTC vigenti, limitatamente al raccordo con il collaudo statico già trattato nel capitolo 4;
-7. fonti MIT o ANAC solo per chiarimenti istituzionali effettivamente necessari;
-8. eventuali norme tecniche di manutenzione soltanto se ufficiali, pertinenti e consolidate;
-9. destinazioni puntuali dei rinvii al capitolo 10 e, quando saranno disponibili, ai capitoli 11 e 12.
+## Struttura H1/H2/H3 prevista
 
-Vanno creati un topic `collaudo-verifica-manutenzione-opera` e una source note specialistica. Non creare un'entity separata per ciascun certificato se il topic è sufficiente a mantenere relazioni e definizioni canoniche.
+# Collaudo, verifica, manutenzione e gestione dell’opera
 
-## Rinvii consentiti
+## Apertura, obiettivo e Mappa BANDO
 
-- `VOL-01`, `Contratti pubblici essenziali`, sezione `14. Esecuzione, subappalto, verifica e collaudo`: collocazione nel ciclo generale;
-- `VOL-09`: RUP e disciplina avanzata dell'esecuzione, dopo censimento della destinazione definitiva;
-- capitolo 4: NTC, controlli strutturali e collaudo statico;
-- capitolo 7: progetto esecutivo e piano di manutenzione;
-- capitolo 8: direzione lavori, ultimazione e dossier dell'esecuzione;
-- capitolo 10: contabilità, conto finale e documenti economici;
-- capitolo 11: ispezioni, rischio e monitoraggio delle infrastrutture;
-- capitolo 12: patrimonio, inventario e gestione informativa.
-
-Ogni rinvio deve indicare titolo e heading quando la destinazione è completa. Fino ad allora resta provvisorio e va segnalato nelle note di review.
-
-## Review umane richieste
-
-- RUP con esperienza in lavori pubblici;
-- collaudatore tecnico-amministrativo;
-- direttore dei lavori;
-- collaudatore statico o strutturista, per il solo confine con il collaudo statico;
-- esperto di contabilità dei lavori e riserve;
-- facility o maintenance manager di patrimonio pubblico;
-- responsabile tecnico dell'ente utilizzatore;
-- avvocato amministrativista esperto di esecuzione contrattuale.
-
-La review deve validare competenze, indipendenza, dossier, operazioni, certificati, esiti problematici, presa in consegna, rapporto con contabilità e trasferimento alla manutenzione.
-
-## Struttura H1/H2/H3 e budget KDP
-
-# Collaudo, verifica, manutenzione e gestione dell'opera
-
-## Apertura, obiettivo e Mappa BANDO — 180 parole
-
-## Dall'ultimazione al controllo finale — 230 parole
-
-### Dossier dell'opera
-
+## N-TR03-09-01 · Dall’ultimazione al controllo finale
 ### Funzione del controllo
+### Dossier, requisiti ed evidenze
+### Controllo vicino
 
-## Tipi di controllo e certificati — 420 parole
-
+## N-TR03-09-02 · Tipi di controllo e certificati
 ### Collaudo tecnico-amministrativo
+### Regolare esecuzione, collaudo statico e verifica di conformità
+### Controllo vicino
 
-### Certificato di regolare esecuzione
-
-### Collaudo statico e verifica di conformità
-
-## Soggetti, operazioni ed esito — 430 parole
-
+## N-TR03-09-03 · Soggetti, operazioni ed esito
 ### RUP, DL, collaudatore ed esecutore
-
-### Esame documentale, visita e prove
-
+### Esame documentale, visita, prove e contraddittorio
 ### Rilievi, prescrizioni e certificato
+### Controllo vicino
 
-## Dalla consegna alla gestione — 380 parole
-
-### Presa in consegna e condizioni d'uso
-
-### Documentazione finale e “come costruito”
-
+## N-TR03-09-04 · Presa in consegna, documentazione e difetti
+### Consegna e condizioni d’uso
+### Elaborati finali e opera realizzata
 ### Garanzie, difetti e responsabilità essenziali
+### Controllo vicino
 
-## Piano di manutenzione e ciclo di vita — 430 parole
-
-### Informazioni, controlli e periodicità
-
+## N-TR03-09-05 · Piano di manutenzione e ciclo di vita
+### Informazioni, controlli e aggiornamento
 ### Durabilità, ispezione e priorità
-
 ### Raccordo con patrimonio e monitoraggio
+### Controllo vicino
 
-## Caso guidato e tavola comparativa — 300 parole
+## N-TR03-09-06 · Caso integrato: la scuola passa alla gestione
+### Ricostruzione del dossier e decisioni
+### Soluzione motivata e tavola di sintesi
+### Trasferimento alla prova
+### Controllo vicino
 
-## Domanda da commissario, domanda-trappola ed errore tipico — 150 parole
+## ▣ Verifica dopo i nuclei
+### Quiz 1-6
+### Mini-esercizio di trasferimento
+### Scheda essenziale del controllo finale
+### Riferimenti normativi essenziali
 
-## Mini-esercizio e scheda di collaudo — 180 parole
+## Budget editoriale e soglie
 
-## Riferimenti consolidati e note di review — 100 parole
+- sei nuclei, ciascuno da almeno 650 parole come margine operativo rispetto alla soglia di 600;
+- apertura e Mappa BANDO: 180-250 parole;
+- corpo complessivo: 4.600-5.000 parole;
+- sei quiz commentati;
+- un caso integrato principale e almeno tre microcasi distribuiti;
+- sei controlli vicini;
+- un blocco `▣ Verifica` dopo i sei nuclei;
+- tabelle solo quando rendono più chiara una distinzione o una sequenza.
 
-Budget orientativo: **2.700-2.900 parole**, tabelle escluse. L'indice indica 2.100 parole, ma tale limite non consente di sviluppare in autonomia sia controllo finale sia manutenzione con tutti gli elementi del gate di copertura. Se il budget deve essere ridotto, spostare in appendice C modelli, elenchi documentali e tavole analitiche; non comprimere distinzioni tra controlli, soggetti, esiti e passaggio alla gestione.
+## Condizioni di chiusura dello step 08
 
-## Condizione per lo step di scrittura
-
-Lo step 09 può partire soltanto dopo:
-
-1. consolidamento dell'art. 116, dell'Allegato II.14 e delle fonti sul piano di manutenzione nel testo vigente;
-2. creazione della source note specialistica e del topic;
-3. verifica puntuale di soggetti, incompatibilità, documenti, operazioni, certificati ed effetti;
-4. distinzione documentata tra collaudo tecnico-amministrativo, regolare esecuzione, collaudo statico, verifica di conformità e ultimazione;
-5. definizione prudente di presa in consegna, uso e garanzie;
-6. censimento dei rinvii precisi a `VOL-01`, capitoli 4, 7, 8 e 10;
-7. conferma che caso, scheda ed esercizio applicano teoria già spiegata;
-8. nessuna modifica al capitolo prima dello step 09.
+- esistenza delle fonti consolidate verificata;
+- sei Nucleo ID stabili e senza sovrapposizioni;
+- stato legacy classificato correttamente come parziale ai fini Format 2;
+- contenuti da conservare e duplicazioni da evitare censiti;
+- caso, quiz, controlli, esercizio e scheda definiti;
+- audit specialistici e confini con i capitoli vicini esplicitati;
+- nessuna modifica apportata al capitolo durante questo step.
