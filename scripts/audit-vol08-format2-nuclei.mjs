@@ -55,6 +55,9 @@ const malformed = chapters.flatMap((chapter) => chapter.malformed)
 const prefixMismatches = chapters.flatMap((chapter) => chapter.nucleusIds.filter((id) => id.split("-")[2] !== chapter.number).map((id) => `${chapter.file}: ${id}`))
 const coverage = auditCoverageRows(matrixRows.filter((row) => row.status === 'completo'))
 const incompleteRows = matrixRows.filter((row) => !row.sources || !row.theoreticalCoverage || !row.application || !row.competitionOutput || !row.verification || !row.status || !row.normativeReview)
+const invalidVerifiedEvidence = matrixRows.flatMap((row) => [row.theoreticalCoverage, row.application, row.competitionOutput].filter((value) => value?.startsWith('verified:') && !validEvidence(value)).map(() => row.nucleusId))
+const invalidDimensionStates = [...extractBlock(fs.readFileSync(matrixPath, 'utf8'), matrixStart, matrixEnd).matchAll(/\|[^\n]*✓\s+open:/g)].map((_, index) => `dimensione aperta con ✓ alla riga ${index + 1}`)
+const unvalidatedNumericQce = matrixRows.filter((row) => /(?:Q|C|E):\d+/.test(row.verification || ""))
 const genericEvidenceRows = matrixRows.filter((row) => /source_refs del capitolo|esempio, caso o applicazione nel nucleo|output tecnico o concorsuale del nucleo|verifica, caso o esercizio del capitolo/i.test(`${row.sources} ${row.application} ${row.competitionOutput} ${row.verification}`))
 const failures = [
   chapters.length !== manifest.chapters.length ? `capitoli del manifest mancanti: ${expectedChapterFiles.filter((file) => !fs.existsSync(path.join(chaptersRoot, file))).join(', ')}` : '',
@@ -74,7 +77,10 @@ const failures = [
   missingFromChapters.length ? `mancanti nei capitoli: ${missingFromChapters.join(", ")}` : "",
   missingFromIndex.length ? `mancanti nell'indice: ${missingFromIndex.join(", ")}` : "",
   incompleteRows.length ? `righe matrice incomplete: ${incompleteRows.map((row) => row.nucleusId).join(", ")}` : "",
-  genericEvidenceRows.length ? `evidenze non atomiche nella matrice: ${genericEvidenceRows.map((row) => row.nucleusId).join(", ")}` : "",
+  invalidVerifiedEvidence.length ? `evidenze verified troppo brevi o generiche: ${invalidVerifiedEvidence.join(', ')}` : "",
+  invalidDimensionStates.length ? `dimensioni aperte marcate con spunta: ${invalidDimensionStates.join(', ')}` : "",
+  unvalidatedNumericQce.length ? `Q/C/E numerici senza mapping atomico: ${unvalidatedNumericQce.map((row) => row.nucleusId).join(', ')}` : "",
+  genericEvidenceRows.length ? `evidenze non atomiche nella matrice: ${genericEvidenceRows.map((row) => row.nucleusId).join(', ')}` : "",
   coverage.blockers.length ? `blocker di copertura: ${coverage.blockers.map((item) => `${item.row}:${item.code}`).join(", ")}` : ""
 ].filter(Boolean)
 const result = {
@@ -112,13 +118,13 @@ function writeCanonicalMatrix(chapterRows) {
     const source = manifest.chapters.find((item) => item.file === chapter.file)?.sourceRef || 'fonte non dichiarata'
     const evidence = atomicEvidence(chapter.sections.get(id), id, title)
     const verificationCounts = countVerification(chapter.sections.get(id))
-    const verification = `${stateEvidence(evidence.verification)}; Q:${verificationCounts.quiz} C:${verificationCounts.case} E:${verificationCounts.exercise}`
+    const verification = 'open: attivita Q/C/E non attribuita al nucleo; review step 15'
     return `| \`${id}\` | Tutti i profili ICT | Capitolo ${chapter.number} | ${escape(title)} | alta, da allineare al bando | ${escape(`open: ${source}; attribuzione al nucleo da riesaminare allo step 15`)} | cap. ${chapter.number}, ${id} | ${escape(stateEvidence(evidence.theory))} | ${escape(stateEvidence(evidence.application))} | ${escape(stateEvidence(evidence.output))} | ${escape(verification)} | parziale | attribuzione della fonte al nucleo e review normativa aperte allo step 15 |  n/a |`
   }))
   const dimensions = chapterRows.flatMap((chapter) => chapter.nucleusIds.map((id) => {
     const evidence = atomicEvidence(chapter.sections.get(id), id, chapter.titles.get(id))
     const source = manifest.chapters.find((item) => item.file === chapter.file)?.sourceRef || 'fonte non dichiarata'
-    return `| \`${id}\` | ✓ ${escape(stateEvidence(evidence.theory))} | ✓ ${escape(stateEvidence(evidence.function))} | ✓ ${escape(stateEvidence(evidence.framing))} | ✓ ${escape(stateEvidence(evidence.elements))} | ✓ ${escape(stateEvidence(evidence.distinctions))} | ✓ ${escape(stateEvidence(evidence.consequences))} | ✓ ${escape(stateEvidence(evidence.application))} | ✓ ${escape(stateEvidence(evidence.output))} | ✓ ${escape(stateEvidence(evidence.error))} | ✓ ${escape(stateEvidence(evidence.verification))} | ✓ ${escape(`open: ${source}; attribuzione al nucleo da riesaminare allo step 15`)} |`
+    return `| \`${id}\` | ✗ open: review step 15 | ✗ open: review step 15 | ✗ open: review step 15 | ✗ open: review step 15 | ✗ open: review step 15 | ✗ open: review step 15 | ✗ open: review step 15 | ✗ open: review step 15 | ✗ open: review step 15 | ✗ open: review step 15 | ✗ open: attribuzione fonte step 15 |`
   }))
   const block = [matrixStart, '', '## Riconciliazione canonica Format 2 - VOL-08', '', 'Ogni riga conserva un riscontro testuale estratto dal nucleo corrispondente; questa riconciliazione non chiude gli audit specialistici degli step 13-18.', '', '| Nucleo ID | Famiglia/profilo | Materia | Concetto/sotto-concetti | Frequenza/peso | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa | Destinazione rinvio |', '| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |', ...rows, '', '### Checklist dimensionale canonica Format 2', '', '| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso prova | Errore tipico | Verifica | Fonti |', '| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |', ...dimensions, '', matrixEnd].join('\n')
   fs.writeFileSync(matrixPath, replaceBlock(fs.readFileSync(matrixPath, 'utf8'), matrixStart, matrixEnd, block), 'utf8')
@@ -126,7 +132,7 @@ function writeCanonicalMatrix(chapterRows) {
 
 function atomicEvidence(section, id, title) {
   const text = section || ''
-  const sentence = (pattern) => { const found = text.match(new RegExp(`[^.]*${pattern}[^.]*\\.`, 'i'))?.[0]; const value = (found || '').replace(/[|\r\n]+/g, ' ').replace(/\s+/g, ' ').trim().slice(0, 240); return value.length >= 20 ? value : '' }
+  const sentence = (pattern) => { const found = text.match(new RegExp(`[^.]*${pattern}[^.]*\\.`, 'i'))?.[0]; const value = (found || '').replace(/[|\r\n]+/g, ' ').replace(/\s+/g, ' ').trim(); return value.length >= 20 ? value : '' }
   const verification = sentence('Come lo chiede la commissione|In prova|domanda|quesito')
   return {
     theory: sentence('definisce|è |sono |indica|consiste'),
@@ -142,7 +148,7 @@ function atomicEvidence(section, id, title) {
   }
 }
 
-function stateEvidence(value) { return value ? `verified: ${value}` : 'open: evidenza non osservata; review step 15' }
+function stateEvidence(value) { return validEvidence(`verified: ${value || ''}`) ? `verified: ${value}` : 'open: evidenza non osservata o non abbastanza specifica; review step 15' }
 
 function writeAnalyticalIndex(chapterRows) {  const rows = chapterRows.flatMap((chapter) => chapter.nucleusIds.map((id) => `- \`${id}\` - [${chapter.titles.get(id)}](chapters/${chapter.file}#${id.toLowerCase()})`))
   const block = [indexStart, "", "## Indice analitico dei nuclei Format 2", "", "L'indice tecnico conserva l'identità stabile dei nuclei e rimanda al capitolo che li sviluppa.", "", ...rows, "", indexEnd].join("\n")
@@ -168,6 +174,7 @@ function extractBlock(content, start, end) {
   return match[1]
 }
 
+function validEvidence(value) { const text = value.replace(/^verified:\s*/, '').trim(); return text.length >= 20 && /[.!?;:]$/.test(text) && !/^(breve|n\/a|non osservato|placeholder)$/i.test(text) }
 function normalizeNucleusId(value) { return value.replace(/`/g, "").trim() }
 function duplicates(values) { const seen = new Set(); const repeated = new Set(); for (const value of values) seen.has(value) ? repeated.add(value) : seen.add(value); return [...repeated].sort() }
 function escape(value) { return value.replace(/[|`\r\n]+/g, " ").replace(/\s+/g, " ").trim() }
