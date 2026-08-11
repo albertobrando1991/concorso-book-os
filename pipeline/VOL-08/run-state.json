@@ -3,7 +3,7 @@
   "specPath": "books/volumi/vol-08-ict-digitale-cybersecurity-dati/planning/00-scheda-pipeline.md",
   "specHash": "sha256:af67ff81718eae7e5e2d8b29cdd926e24769a54de17ffffc130f7dd3cbd210d4",
   "createdAt": "2026-07-28T19:54:29.381Z",
-  "updatedAt": "2026-08-11T06:56:40.946Z",
+  "updatedAt": "2026-08-11T07:05:30.660Z",
   "steps": [
     {
       "key": "08:moduli/m-tr01-ict-trasformazione-digitale/chapters/01-lavorare-ict-pa-ruoli-enti-prove.md",
@@ -841,18 +841,20 @@
       "scope": "chapter",
       "target": "moduli/m-tr01-ict-trasformazione-digitale/chapters/07-cloud-pa-virtualizzazione-container-devops.md",
       "status": "done",
-      "attempts": 1,
-      "evidence": [],
+      "attempts": 3,
+      "evidence": [
+        "reopen: Fix review F01: rettifica tracciabilita tecnica e debito fonti da chiudere allo step 15"
+      ],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-10T18:17:19.809Z",
+      "startedAt": "2026-08-11T07:03:04.558Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-08-10T18:18:16.657Z"
+      "finishedAt": "2026-08-11T07:04:33.077Z"
     },
     {
       "key": "11:moduli/m-tr01-ict-trasformazione-digitale/chapters/07-cloud-pa-virtualizzazione-container-devops.md",
@@ -861,18 +863,14 @@
       "scope": "chapter",
       "target": "moduli/m-tr01-ict-trasformazione-digitale/chapters/07-cloud-pa-virtualizzazione-container-devops.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 0,
       "evidence": [],
-      "owner": "aless",
-      "agent": "unknown",
-      "provider": "codex",
-      "startedAt": "2026-08-10T18:18:17.534Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-08-11T06:54:01.313Z"
+      "finishedAt": "2026-08-11T07:03:03.640Z"
     },
     {
       "key": "12:moduli/m-tr01-ict-trasformazione-digitale/chapters/07-cloud-pa-virtualizzazione-container-devops.md",
@@ -886,19 +884,44 @@
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-11T06:55:54.580Z",
+      "startedAt": "2026-08-11T07:04:52.545Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": [
           {
             "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto V01: stato \"da verificare\".",
+            "message": "Errore non grave ancora aperto V01: stato \"da verificare allo step 15\".",
+            "location": "wiki/reviews/pipeline/VOL-08/12-moduli-m-tr01-ict-trasformazione-digitale-chapters-07-cloud-pa-virtualizzazione-container-devops-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V02: stato \"da verificare allo step 15\".",
+            "location": "wiki/reviews/pipeline/VOL-08/12-moduli-m-tr01-ict-trasformazione-digitale-chapters-07-cloud-pa-virtualizzazione-container-devops-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V03: stato \"da verificare allo step 15\".",
+            "location": "wiki/reviews/pipeline/VOL-08/12-moduli-m-tr01-ict-trasformazione-digitale-chapters-07-cloud-pa-virtualizzazione-container-devops-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V04: stato \"da verificare allo step 15\".",
+            "location": "wiki/reviews/pipeline/VOL-08/12-moduli-m-tr01-ict-trasformazione-digitale-chapters-07-cloud-pa-virtualizzazione-container-devops-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V05: stato \"da verificare allo step 15\".",
+            "location": "wiki/reviews/pipeline/VOL-08/12-moduli-m-tr01-ict-trasformazione-digitale-chapters-07-cloud-pa-virtualizzazione-container-devops-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V06: stato \"da verificare allo step 15\".",
             "location": "wiki/reviews/pipeline/VOL-08/12-moduli-m-tr01-ict-trasformazione-digitale-chapters-07-cloud-pa-virtualizzazione-container-devops-md.md"
           }
         ]
       },
-      "finishedAt": "2026-08-11T06:56:40.946Z"
+      "finishedAt": "2026-08-11T07:05:30.660Z"
     },
     {
       "key": "08:moduli/m-tr01-ict-trasformazione-digitale/chapters/08-cybersecurity-rischio-controlli-vulnerabilita.md",
@@ -909,7 +932,8 @@
       "status": "pending",
       "attempts": 0,
       "evidence": [
-        "reopen: Retrofit formato 2 autorizzato dall'utente il 2026-08-05"
+        "reopen: Retrofit formato 2 autorizzato dall'utente il 2026-08-05",
+        "reopen: Rilascio presa in carico accidentale durante fix review capitolo 07; nessun lavoro eseguito sul capitolo 08"
       ]
     },
     {
