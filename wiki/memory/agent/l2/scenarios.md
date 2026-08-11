@@ -5135,3 +5135,11 @@
 - atoms:
   - mem-20260811102859-qvpjjk | workflow | Procedere con il prossimo step della pipeline aggiornata per VOL-10.
   - mem-20260811102859-1wc91zk | result | Esito pipeline-volume/step-12: Procedere con il prossimo step della pipeline aggiornata per VOL-10. -> Completato step 12 del capitolo 06: revisione editoriale totale con checklist a 30 punti, copertura v4 e test dello studente; report Format 2 senza errori aperti, review-report verde, 155 test superati, capitolo edito...
+
+## 2026-08-11T10:32:12.934Z - VOL-10
+
+- conversation_id: conv-20260811103212-1j861r7
+- route: pipeline-volume/step-08
+- l0: l0/conv-20260811103212-1j861r7.md
+- atoms:
+  - mem-20260811103212-1tg2qzy | result | Esito pipeline-volume/step-08: Procedere con il prossimo step della pipeline aggiornata per VOL-10. -> Completato step 08 capitolo 07: piano Format 2 aggiornato con sei nuclei, budget 4500-4900 parole, sei quiz, verifiche vicine, caso integrato, fonti e audit automatici.
