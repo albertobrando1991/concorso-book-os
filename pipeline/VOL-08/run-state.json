@@ -3,7 +3,7 @@
   "specPath": "books/volumi/vol-08-ict-digitale-cybersecurity-dati/planning/00-scheda-pipeline.md",
   "specHash": "sha256:af67ff81718eae7e5e2d8b29cdd926e24769a54de17ffffc130f7dd3cbd210d4",
   "createdAt": "2026-07-28T19:54:29.381Z",
-  "updatedAt": "2026-08-11T07:05:30.660Z",
+  "updatedAt": "2026-08-11T07:10:31.106Z",
   "steps": [
     {
       "key": "08:moduli/m-tr01-ict-trasformazione-digitale/chapters/01-lavorare-ict-pa-ruoli-enti-prove.md",
@@ -863,14 +863,20 @@
       "scope": "chapter",
       "target": "moduli/m-tr01-ict-trasformazione-digitale/chapters/07-cloud-pa-virtualizzazione-container-devops.md",
       "status": "done",
-      "attempts": 0,
-      "evidence": [],
+      "attempts": 1,
+      "evidence": [
+        "reopen: Fix review F02: ricostruzione audit trail citation guard del capitolo 07"
+      ],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-11T07:09:58.554Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-08-11T07:03:03.640Z"
+      "finishedAt": "2026-08-11T07:10:11.061Z"
     },
     {
       "key": "12:moduli/m-tr01-ict-trasformazione-digitale/chapters/07-cloud-pa-virtualizzazione-container-devops.md",
@@ -884,7 +890,7 @@
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-11T07:04:52.545Z",
+      "startedAt": "2026-08-11T07:10:15.307Z",
       "gate": {
         "passed": true,
         "blockers": [],
@@ -921,7 +927,7 @@
           }
         ]
       },
-      "finishedAt": "2026-08-11T07:05:30.660Z"
+      "finishedAt": "2026-08-11T07:10:31.106Z"
     },
     {
       "key": "08:moduli/m-tr01-ict-trasformazione-digitale/chapters/08-cybersecurity-rischio-controlli-vulnerabilita.md",
