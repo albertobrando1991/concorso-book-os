@@ -3,7 +3,7 @@
   "specPath": "books/volumi/vol-10-tecnico-ingegneristico-territorio-lavori-pubblici/planning/00-scheda-pipeline.md",
   "specHash": "sha256:b9582ff0b8d13a37147bf7b04c7969c20ebe2e12e1d2c843c1299f83af59b454",
   "createdAt": "2026-07-29T16:39:37.771Z",
-  "updatedAt": "2026-08-11T09:37:44.158Z",
+  "updatedAt": "2026-08-11T09:42:04.631Z",
   "steps": [
     {
       "key": "08:moduli/m-tr03-tecnico-ingegneristico/chapters/01-concorso-tecnico-pa-profili-prove.md",
@@ -463,9 +463,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/05-urbanistica-governo-territorio.md",
-      "status": "pending",
-      "attempts": 1,
-      "evidence": []
+      "status": "done",
+      "attempts": 2,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-11T09:39:15.057Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-tr03-tecnico-ingegneristico/chapters/05-urbanistica-governo-territorio.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di aless: Verifica manuale completata: piano coerente con capitolo, matrice e Bibbia; sei nuclei stabili Format 2 da almeno 600 parole, sezioni da conservare, duplicazioni, fonti consolidate, audit, struttura H1/H2/H3, budget 4.100-4.500 parole, sei quiz commentati e caso integrato esplicitati."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-11T09:42:04.631Z"
     },
     {
       "key": "09:moduli/m-tr03-tecnico-ingegneristico/chapters/05-urbanistica-governo-territorio.md",

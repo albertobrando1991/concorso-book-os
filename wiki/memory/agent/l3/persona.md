@@ -5,6 +5,7 @@ Usala come profilo di lavoro: le source notes e il wiki restano la base canonica
 
 ## Preferenze e istruzioni recenti
 
+- Procedi con il prossimo step della pipeline aggiornata di VOL-10. (mem-20260811094214-1syjej1)
 - Procedere con la pipeline aggiornata di VOL-10. (mem-20260811090600-biy864)
 - Applicare la pipeline aggiornata al volume 10 portando i capitoli allo stato pubblicabile. (mem-20260811084719-sr3sp3)
 - Procedere con il prossimo step della pipeline VOL-03 preservando il lavoro locale. (mem-20260805172112-22rmd5)
@@ -84,4 +85,3 @@ Usala come profilo di lavoro: le source notes e il wiki restano la base canonica
 - Procedi con il prossimo passo della pipeline del Volume 7, completando il ciclo epidemiologia e screening senza avviare i capitoli prima del superamento del gate. (mem-20260729111701-1t45ujs)
 - Procedi con il prossimo passo della pipeline del volume 7, completando il ciclo fonti TPALL senza avviare i capitoli prima del superamento del gate. (mem-20260729104144-1b2yy63)
 - Procedi con il prossimo passo della pipeline del volume 7, completando il ciclo fonti del verticale fisioterapico senza avviare i capitoli prima del superamento del gate. (mem-20260729101908-bd5mrt)
-- Prossimo passo della pipeline del volume 7. (mem-20260729095424-bj470l)

@@ -5052,3 +5052,12 @@
 - l0: l0/conv-20260811093754-1aun3sw.md
 - atoms:
   - mem-20260811093754-ma285b | result | Esito pipeline-volume: Procedere con VOL-10. -> Capitolo 04 completato agli step 08-12 e pubblicabile: 6 nuclei, 6 quiz, caso, verifiche, matrice e review; nessun coefficiente o dimensionamento; gate e test verdi.
+
+## 2026-08-11T09:42:14.388Z - VOL-10
+
+- conversation_id: conv-20260811094214-11a1f8z
+- route: codex-vol10-cap05-step08-format2
+- l0: l0/conv-20260811094214-11a1f8z.md
+- atoms:
+  - mem-20260811094214-1syjej1 | workflow | Procedi con il prossimo step della pipeline aggiornata di VOL-10.
+  - mem-20260811094214-17s2l35 | result | Esito codex-vol10-cap05-step08-format2: Procedi con il prossimo step della pipeline aggiornata di VOL-10. -> Completato step 08 capitolo 05: aggiornato piano operativo Format 2 su urbanistica e governo del territorio; definiti sei nuclei stabili da almeno 600 parole, fonti, confini, audit, sei quiz, verifiche e caso integrat...
