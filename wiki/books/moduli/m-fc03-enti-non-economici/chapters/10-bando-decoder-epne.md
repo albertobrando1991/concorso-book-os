@@ -1,4 +1,4 @@
-﻿---
+---
 id: chapter-m-fc03-10-bando-decoder-epne
 type: book_chapter
 title: "Bando Decoder EPNE"
@@ -11,11 +11,7 @@ source_refs: [
   "sources/m-fc03-portali-bandi-concorsi-2023-2026.md",
   "sources/m-fc03-dossier-redazionale-enti-pubblici-non-economici.md",
   "sources/m-fc03-fonti-ufficiali-enti-epne-2026.md",
-  "sources/m-fc03-bando-ripam-inail-308-funzionari-assistenti-sociali-2024.md",
-  "topics/bando-decoder.md",
-  "topics/enti-pubblici-non-economici-concorsi.md",
-  "entities/bando-decoder.md",
-  "entities/inps-inail-epne.md"
+  "sources/m-fc03-bando-ripam-inail-308-funzionari-assistenti-sociali-2024.md"
 ]
 book_refs: ["m-fc03-enti-non-economici","il-metodo-bando"]
 confidence: 0.86
@@ -26,9 +22,13 @@ canonical: true
 tags: ["book-chapter","module-code-m-fc03","professional-draft"]
 book_id: m-fc03-enti-non-economici
 outline_section: 10
-draft_stage: professional-draft
+draft_stage: step-09-format-2
 module_code: M-FC03
 module_family: funzioni-centrali
+companion_to: il-metodo-bando
+format_version: 2
+dati_operativi: []
+nuclei_ids: ["N-FC03-10-01","N-FC03-10-02","N-FC03-10-03","N-FC03-10-04","N-FC03-10-05","N-FC03-10-06"]
 last_compiled_from: [
   "wiki/books/moduli/m-fc03-enti-non-economici/planning/00-piano-editoriale.md",
   "wiki/books/moduli/m-fc03-enti-non-economici/planning/01-matrice-copertura-materie.md",
@@ -80,7 +80,7 @@ Il risultato atteso non e' una trascrizione del bando. E' una decisione: parteci
 
 La regola e' semplice: il bando non si legge per curiosita, si legge per decidere.
 
-## Il problema specifico dei bandi EPNE
+## N-FC03-10-01 · Identita del concorso e gerarchia delle fonti
 
 Un bando EPNE contiene almeno quattro piani da non confondere.
 
@@ -110,7 +110,19 @@ I riassunti online, le notizie, i post social, le chat e i commenti di altri can
 
 Questa gerarchia protegge da un errore pratico: studiare su informazioni vere in generale ma non decisive per quella procedura.
 
-## Le cinque porte del Bando Decoder EPNE
+### Dato, fonte e decisione
+
+Nel Decoder ogni informazione dovrebbe avere tre elementi: il dato, la fonte precisa e la decisione che ne deriva. Se leggi una scadenza, devi sapere in quale documento compare e quale azione impone. Se trovi una materia, devi collegarla alla prova in cui sara valutata e al blocco di studio da attivare. Se individui un requisito dubbio, non devi interpretarlo per somiglianza con un vecchio concorso: devi segnare il dubbio, cercare il chiarimento nel canale previsto e stabilire entro quando risolverlo.
+
+Questa regola evita anche il problema delle informazioni sovrapposte. Una pagina di presentazione puo riassumere la procedura, mentre il bando e gli allegati ne disciplinano gli elementi essenziali. Un avviso successivo puo precisare calendario, sede o istruzioni. Il candidato deve conservare la catena documentale, non soltanto l'ultima schermata aperta. Nel diario annota almeno documento, data di consultazione, informazione estratta e conseguenza sul piano.
+
+I requisiti di partecipazione e gli adempimenti della domanda restano parte dell'identita del concorso. Titolo di studio, eventuali abilitazioni, termini, modalita di invio, dichiarazioni e documenti non sono burocrazia separata dallo studio: decidono se lo studio potra tradursi in partecipazione. Il Decoder EPNE non riscrive tutte le regole generali della domanda, ma obbliga a registrare gli elementi che possono escludere o rendere incerta la candidatura.
+
+**Micro-caso:** una notizia redazionale indica che un concorso e gestito da Formez e riguarda piu amministrazioni. Il candidato apre direttamente un manuale per Funzioni Centrali. La scelta e prematura: deve prima aprire il bando e gli allegati, individuare il codice del profilo, l'amministrazione di destinazione e le materie. Solo dopo puo stabilire se serve M-FC03, un altro modulo o una combinazione di nuclei comuni e specialistici.
+
+**Uso nella prova:** se una domanda chiede come orientarsi in una procedura, non rispondere con un elenco di siti. Spiega la gerarchia: documento ufficiale, allegati e avvisi; poi distingui canale, gestore, ente e profilo; infine mostra la decisione prodotta.
+
+## N-FC03-10-02 · Ente, profilo e perimetro M-FC03
 
 Prima di costruire il calendario, devi attraversare cinque porte. Se una porta resta incompleta, il piano e' provvisorio.
 
@@ -134,7 +146,7 @@ Senza il profilo, studi troppo largo. Senza le prove, studi troppo astratto.
 
 La terza porta riguarda la selezione reale. Devi individuare preselezione, prova scritta, prova orale, titoli, situazionali, inglese, informatica, eventuali prove pratiche, punteggi, soglie, tempi e criteri.
 
-Il bando INAIL/RIPAM 308 unita, gia' consolidato nel wiki, mostra bene il metodo: la prova scritta prevede 40 quesiti in 60 minuti, con quesiti disciplinari, logico-deduttivi e situazionali; la prova orale riprende materie della prova scritta e include casi pratici, inglese e competenze informatiche/digitali. Il dato non serve a imitare quel bando in ogni concorso. Serve a ricordare che una procedura EPNE puo' unire contenuti giuridici, logica, situazionali, casi e competenze digitali. Il piano deve rispecchiare questa combinazione.
+Il bando RIPAM/INAIL per 308 unita del 2024 mostra bene il metodo: la prova scritta prevede 40 quesiti in 60 minuti, con quesiti disciplinari, logico-deduttivi e situazionali; la prova orale riprende materie della prova scritta e include casi pratici, inglese e competenze informatiche/digitali. Il dato non serve a imitare quel bando in ogni concorso. Serve a ricordare che una procedura EPNE puo' unire contenuti giuridici, logica, situazionali, casi e competenze digitali. Il piano deve rispecchiare questa combinazione.
 
 ### 4. Materie: core, delta, appendici
 
@@ -159,7 +171,95 @@ La quinta porta e' spesso sottovalutata. Il bando non e' l'unico documento vivo 
 
 Un campo non compilato su avvisi e allegati e' un rischio reale. Puo' significare perdere una data, non leggere una rettifica, ignorare una istruzione di prova o preparare un orale su una informazione superata.
 
-## Scheda compilabile: Bando Decoder EPNE
+### Il test ente-profilo-prove
+
+Le cinque porte funzionano come un filtro, non come una checklist decorativa. Il passaggio decisivo e il test `ente + profilo + prove`. Il nome dell'ente orienta la famiglia; il profilo indica la funzione per la quale si concorre; le prove mostrano quali conoscenze e prestazioni saranno realmente valutate. Solo l'incrocio dei tre dati consente di scegliere il perimetro.
+
+Un profilo amministrativo presso INPS o INAIL appartiene normalmente al cuore di M-FC03, ma il solo nome dell'ente non basta. Un profilo informatico puro richiede il modulo digitale pertinente; un ricercatore o tecnologo richiede il verticale dedicato; un profilo di vigilanza puo attivare l'appendice specifica. Analogamente, una procedura con posti distribuiti fra amministrazioni diverse richiede una scheda per il codice che interessa, non una classificazione unica ricavata dal titolo generale.
+
+La distinzione ha una conseguenza pratica. Il candidato non deve studiare tutto cio che riguarda l'ente, ma cio che serve a quel profilo nelle prove indicate. Le pagine istituzionali aiutano a comprendere funzioni e servizi; il bando decide pero il programma d'esame. Quando un'informazione sul lavoro futuro e soltanto inferita, va separata da cio che il bando dichiara. Questa prudenza impedisce di inventare mansioni, poteri o profondita di studio.
+
+**Errore da evitare:** classificare il concorso dal logo, dal portale o dalla prima materia specialistica incontrata. Il perimetro nasce dalla lettura congiunta di amministrazione, codice, profilo, funzioni, prove e programma.
+
+**Uso nella prova:** davanti a un mini-caso, formula prima la diagnosi di perimetro e poi la strategia. Una risposta efficace dice perche il profilo rientra in M-FC03, quali nuclei comuni riusa, quali capitoli specialistici attiva e quali contenuti rinvia.
+
+## N-FC03-10-03 · Prove, punteggi, soglie e aggiornamenti
+
+### Dalla procedura selettiva all'allenamento
+
+Le prove non sono l'ultima sezione da leggere. Sono il motore del piano. Per ciascuna devi identificare forma, durata, contenuti, criteri, punteggio, eventuale soglia e rapporto con le altre fasi. Una preselezione a quiz richiede rapidita e controllo degli errori; uno scritto disciplinare richiede sintesi e precisione; un caso pratico richiede metodo di soluzione; un orale richiede esposizione, collegamenti e gestione delle domande; i situazionali chiedono di confrontare comportamenti, non soltanto ricordare definizioni.
+
+Il peso di una materia non dipende dal numero di pagine del manuale. Dipende da dove compare, da quanti quesiti puo generare, dalla soglia della prova, dalla difficolta personale e dalla possibilita di recuperare punti. Una materia accessoria ma obbligatoria puo diventare critica se il candidato la ignora. Una materia ampia puo essere programmata per nuclei se la prova ne seleziona solo alcune capacita. Il Decoder deve quindi tradurre ogni dato in una conseguenza di allenamento.
+
+| Dato della procedura | Domanda strategica | Output |
+| --- | --- | --- |
+| Quiz e tempo disponibile | Quanto tempo medio posso usare per quesito? | Simulazione a tempo e controllo omissioni. |
+| Soglia | Quale margine di sicurezza devo costruire? | Obiettivo di accuratezza e diario errori. |
+| Penalita | Conviene rispondere in caso di dubbio? | Regola di gestione coerente con il bando. |
+| Caso pratico | Quale struttura di risposta e valutata? | Griglia fatto-problema-regola-azione-controllo. |
+| Orale | Quali materie e competenze vengono accertate? | Risposte brevi, collegamenti e domande-trappola. |
+| Titoli | Quali dichiarazioni o documenti sono richiesti? | Verifica formale separata dallo studio. |
+
+Non trasformare questa tabella in calcoli inventati. Se il bando non indica penalita, distribuzione dei quesiti o criteri dettagliati, scrivi `da verificare`. Non trasferire le regole di una procedura precedente. Anche due concorsi dello stesso ente possono avere profili, prove e criteri differenti.
+
+### Gli aggiornamenti fanno parte della prova
+
+Il piano iniziale e valido soltanto finche resta allineato ai documenti ufficiali. Rettifiche, calendari, istruzioni, sedi, convocazioni e avvisi possono modificare le azioni del candidato. Per questo il Decoder contiene una routine di monitoraggio: canale, frequenza, ultimo controllo e cambiamento registrato. Non serve controllare in modo compulsivo; serve avere un metodo proporzionato alla fase.
+
+Prima della scadenza si controllano domanda, requisiti e allegati. Dopo l'invio si conserva la ricevuta e si segue il canale indicato. Quando si avvicina una prova, aumenta la frequenza e si verificano istruzioni, documenti da portare e comunicazioni. Dopo la prova si controllano esiti e fasi successive. Ogni novita che incide su tempo, materie o output aggiorna piano e diario.
+
+**Micro-caso:** il candidato prepara lo scritto sulla base del bando iniziale, ma non apre un avviso che precisa sede e istruzioni operative. Il problema non e di conoscenza della materia: e di gestione della procedura. Nel Metodo BANDO, monitorare le comunicazioni e parte della preparazione perche protegge l'investimento di studio.
+
+### Controllare senza confondere certezza e strategia
+
+Nel Decoder separa sempre tre colonne mentali. La prima contiene il dato certo ricavato dalla procedura: tipo di prova, durata, soglia o criterio espressamente indicato. La seconda contiene la conseguenza strategica: quante simulazioni programmare, quale materia anticipare, quale errore controllare. La terza raccoglie cio che resta da verificare. Questa separazione impedisce di presentare una scelta personale come se fosse una regola del bando.
+
+Anche la gestione del tempo deve partire da evidenze. Se conosci numero di quesiti e durata puoi costruire una simulazione coerente; se uno dei due dati manca, puoi allenare rapidita generale ma non dichiarare un tempo medio ufficiale. Se la prova orale include casi, prepari una struttura di risposta; non deduci pero argomenti o criteri non pubblicati. Il metodo resta utile proprio perche distingue preparazione prudente e informazione vincolante.
+
+Un aggiornamento puo cambiare un dato senza cambiare l'intero piano. Registra quindi il delta: che cosa e cambiato, quale scheda modifica, quale azione annulla o aggiunge. Questo evita di ricompilare tutto e rende il diario una cronologia delle decisioni.
+
+**Uso nella prova:** quando descrivi la strategia, collega sempre struttura selettiva e allenamento. Dire `studio le materie` e incompleto; indica che cosa produci, con quale vincolo e come aggiorni il piano.
+
+## N-FC03-10-04 · Materie: nucleo comune, delta EPNE, appendici e rinvii
+
+### Quattro destinazioni, una sola mappa
+
+La lista delle materie diventa utile quando ogni voce riceve una destinazione. La prima e il nucleo comune di VOL-01: metodo, diritto amministrativo generale, lavoro pubblico, trasparenza, privacy, contabilita essenziale, contratti, logica, inglese e competenze digitali. La seconda e il delta M-FC03: ordinamento degli EPNE, governance, INPS, INAIL, procedimenti e servizi, bilancio dell'ente, performance, personale e applicazioni contrattuali. La terza comprende appendici e sottoprofili. La quarta e il rinvio a un'altra famiglia quando il profilo esce dal perimetro.
+
+Questa classificazione impedisce due errori opposti. Il primo e ricominciare da zero, duplicando materie gia studiate nel libro base. Il secondo e usare soltanto il capitale comune e trascurare il linguaggio dell'ente, le funzioni e le materie specialistiche. Il candidato efficace riusa il nucleo comune e aggiunge il delta richiesto dal bando.
+
+| Segnale nel bando | Destinazione | Azione |
+| --- | --- | --- |
+| Diritto amministrativo, lavoro pubblico, trasparenza | VOL-01, con applicazioni EPNE | Ripasso selettivo e casi del modulo. |
+| Ordinamento INPS, previdenza, servizi e prestazioni | Capitolo 3 e glossario | Attivare teoria EPNE e lessico. |
+| Ordinamento INAIL, assicurazione, prevenzione | Capitolo 4 e appendici pertinenti | Calibrare sul profilo e sul programma. |
+| Bilancio, PIAO, personale o contratti dell'ente | Capitoli 6-9 | Collegare teoria comune e contesto EPNE. |
+| Vigilanza previdenziale o assicurativa | Appendice A | Trattare come sottoprofilo, non come base universale. |
+| Ricerca, tecnologia, ICT puro, authority o fisco | Modulo della famiglia competente | Non forzare la materia dentro M-FC03. |
+
+Una destinazione e valida solo se e precisa e completa. Scrivere `vedi altro modulo` non aiuta. Il Decoder deve indicare quale capitolo o appendice attivare e perche. Nello stesso tempo, non deve moltiplicare i rinvii: se una definizione e indispensabile per capire la scheda, va spiegata nel capitolo. Il rinvio serve per una trattazione completa che appartiene altrove, non per nascondere una lacuna.
+
+### Materie obbligatorie, killer e solo orali
+
+Dopo la destinazione viene la priorita. `Obbligatoria` significa richiesta dal programma; `killer` indica una materia o un nucleo che produce molti errori o pesa in una fase decisiva; `solo orale` segnala un diverso tipo di output; `integrativa` identifica un contenuto attivato dal profilo. Le categorie possono sovrapporsi: una materia obbligatoria puo essere anche killer, mentre una materia breve puo richiedere allenamento costante.
+
+Per ordinare il lavoro, usa quattro domande: in quale prova compare? Quanto incide? Quanto sei distante dal livello richiesto? Quanto capitale puoi riusare? La risposta produce una sequenza, non una classifica astratta. Un candidato forte in amministrativo ma debole nell'ordinamento dell'ente puo iniziare dal delta EPNE e mantenere il comune con quiz di richiamo. Un candidato nuovo puo costruire in parallelo un nucleo comune e uno specialistico.
+
+**Micro-caso:** un programma elenca salute e sicurezza insieme all'ordinamento INAIL. Il candidato non deve trasformare tutto il modulo in un manuale tecnico. Verifica profilo e prova, attiva il capitolo INAIL e l'appendice integrativa richiesta, quindi rinvia gli approfondimenti tecnici estranei alla funzione concorsuale considerata.
+
+### Verificare che la mappa sia completa
+
+Dopo la classificazione, esegui un controllo incrociato. Ogni materia del programma deve comparire nella mappa; ogni destinazione deve esistere; ogni rinvio deve coprire davvero il contenuto promesso; ogni prova deve avere almeno un output. Se una materia resta senza destinazione, non nasconderla sotto `varie`: segnala il vuoto e cerca il capitolo o il modulo corretto. Se una destinazione contiene molto piu di quanto chiede il bando, restringi il nucleo.
+
+La mappa deve inoltre rispettare il profilo. Diritto del lavoro in un profilo amministrativo INAIL puo richiedere profondita diversa rispetto a un profilo giuridico-lavoristico. Informatica come accertamento accessorio non equivale a un profilo ICT. Contabilita pubblica generale e bilancio dell'ente sono collegati ma non identici. Queste distinzioni proteggono sia dalla sottopreparazione sia dall'accumulo indiscriminato di materiali.
+
+Infine controlla il riuso. Segna cio che possiedi gia, cio che richiede aggiornamento e cio che devi costruire. Il capitale di studio riutilizzabile riduce il lavoro, ma non sostituisce il controllo sul nuovo programma. Un vecchio schema puo essere la base; il bando nuovo decide il delta.
+
+**Uso nella prova:** se ti chiedono come costruire il piano, mostra la matrice `materia-prova-destinazione-priorita-output`. E la prova che non stai copiando il programma, ma lo stai trasformando in preparazione.
+
+## N-FC03-10-05 · Compilare il Decoder e produrre il piano di allenamento
+
+### Scheda compilabile: Bando Decoder EPNE
 
 Compila questa scheda entro le prime 24 ore dalla lettura del bando. Se prepari piu' concorsi, compila una scheda per ciascuno.
 
@@ -208,7 +308,30 @@ Dopo la prima scheda, compila la griglia piu' importante: quella che collega mat
 
 Se una prova non e' prevista, non eliminarla dalla tua attenzione prima di aver verificato bando e avvisi. Se e' prevista ma pesa poco, programmala in modo proporzionato. Il Decoder serve anche a non dare a ogni riga lo stesso peso.
 
-## Come usare un bando campione senza copiarlo
+### Dal campo compilato alla prima settimana
+
+La scheda e completa quando produce una sequenza di azioni. Entro le prime 24 ore salva bando e allegati, controlla ammissibilita e domanda, identifica profilo e prove, classifica le materie e registra i canali da monitorare. Entro 72 ore apre il primo nucleo comune e il primo nucleo EPNE, programma una simulazione coerente con la prova e annota il rischio principale. Entro sette giorni confronta il risultato con il piano e corregge priorita o metodo.
+
+| Passaggio | Decisione minima | Evidenza |
+| --- | --- | --- |
+| Identita | So quale codice e profilo preparo. | Bando e allegato salvati. |
+| Ammissibilita | So se posso partecipare o quale dubbio risolvere. | Controllo requisiti con scadenza. |
+| Prove | So quale output allenare per primo. | Prima simulazione programmata. |
+| Materie | Ho separato comune, delta, appendici e rinvii. | Lista di nuclei ordinata. |
+| Aggiornamenti | So dove e quando controllare. | Routine nel diario. |
+| Priorita | Ho deciso alta, media, bassa o stop. | Motivazione scritta. |
+
+La priorita non misura il prestigio del concorso. Misura la compatibilita fra requisiti, tempo, capitale di studio, profilo desiderato, difficolta delle prove e rischio organizzativo. `Alta` significa che il concorso merita una quota centrale del tempo. `Media` indica partecipazione con vincoli o incertezza. `Bassa` suggerisce investimento limitato. `Stop` e una decisione razionale quando mancano requisiti, tempo o coerenza minima.
+
+Un campo `materia killer` non deve diventare un'etichetta emotiva. Deve indicare il motivo concreto della priorita: alta frequenza di errore, peso nella prova, soglia selettiva, debolezza personale o dipendenza da altri concetti. Il campo `output da allenare` deve essere altrettanto preciso. `Studiare` non e un output; lo sono una simulazione a tempo, una risposta orale di novanta secondi, una scheda, un caso o una griglia compilata.
+
+**Errore da evitare:** compilare tutti i campi e non cambiare il calendario. Se il Decoder non sposta tempo, materiali e allenamento, e soltanto una trascrizione ordinata.
+
+**Uso nella prova:** presenta il Decoder come uno strumento decisionale. Parti dai dati ufficiali, mostra la classificazione e chiudi con una scelta osservabile: primo nucleo, primo output, controllo successivo e criterio di revisione.
+
+## N-FC03-10-06 · Applicazione concorsuale: bando campione EPNE
+
+### Come usare un bando campione senza copiarlo
 
 Il bando INAIL/RIPAM 308 unita e' utile come esempio di metodo perche' mostra un profilo EPNE con materie comuni, materie INAIL, logica, situazionali, orale, inglese, informatica e casi pratici. Va pero' usato con disciplina editoriale: non diventa modello universale dei concorsi INAIL e non autorizza a trasferire numeri, prove o materie su bandi diversi.
 
@@ -325,27 +448,58 @@ Prima di passare ai casi pratici del capitolo 11, verifica se sai rispondere:
 | So quali dati non devo usare senza nuova verifica ufficiale? | |
 
 Se una risposta manca, non iniziare un nuovo materiale. Torna al bando e completa la scheda.
+## ▣ Verifica — Bando Decoder EPNE
 
-## Riferimenti consolidati
+**1. Quale elemento definisce meglio la famiglia concorsuale da preparare?**
 
-- [[sources/template-bando-decoder-metodo-bando]]
-- [[sources/m-fc03-portali-bandi-concorsi-2023-2026]]
-- [[sources/m-fc03-dossier-redazionale-enti-pubblici-non-economici]]
-- [[sources/m-fc03-fonti-ufficiali-enti-epne-2026]]
-- [[sources/m-fc03-bando-ripam-inail-308-funzionari-assistenti-sociali-2024]]
-- [[topics/bando-decoder]]
-- [[topics/enti-pubblici-non-economici-concorsi]]
-- [[entities/bando-decoder]]
-- [[entities/inps-inail-epne]]
-- [[books/il-metodo-bando/chapters/anatomia-del-bando]]
-- [[books/il-metodo-bando/chapters/appendice-c-template-bando-decoder]]
-- [[books/moduli/m-fc03-enti-non-economici/planning/00-piano-editoriale]]
-- [[books/moduli/m-fc03-enti-non-economici/planning/01-matrice-copertura-materie]]
+A. Il portale sul quale compare l'avviso.
+B. Il soggetto che gestisce tecnicamente la procedura.
+C. L'insieme di ente di destinazione, profilo, prove e materie.
+D. Il titolo della notizia che riassume il concorso.
 
-## Note di review
+**Risposta corretta: C.** Portale e gestore aiutano a seguire la procedura, ma il perimetro di studio dipende dall'incrocio fra amministrazione, profilo e selezione concreta.
 
-- Prima della pubblicazione finale verificare direttamente su inPA, Formez/RIPAM o sito dell'ente ogni bando citato con dati puntuali su posti, profili, scadenze, prove, soglie, allegati e calendari.
-- Il bando INAIL/RIPAM 308 unita e' usato come esempio metodologico consolidato; non estendere automaticamente i suoi dati a procedure INAIL successive.
-- Per bandi campione diversi da INAIL/RIPAM 308 creare source notes dedicate prima di riportare numeri, denominazioni ufficiali, programmi d'esame o criteri di valutazione.
-- Le pagine di amministrazione trasparente, PIAO, bilanci, statuti, regolamenti e carte dei servizi devono essere ricontrollate alla data di pubblicazione se diventano esempi puntuali.
-- Non sono state usate raw sources come fonte editoriale finale; il testo deriva da source notes, topic pages, entity pages, capitoli esistenti, piano editoriale e matrice M-FC03 consolidati.
+**2. Che cosa si scrive nel Decoder quando un dato non e presente nei documenti ufficiali consultati?**
+
+A. Una stima ricavata da bandi precedenti.
+B. `Da verificare`, con fonte e azione di controllo.
+C. Il dato piu citato nelle chat dei candidati.
+D. Nulla, per non appesantire la scheda.
+
+**Risposta corretta: B.** Il dubbio dichiarato diventa un compito verificabile; una stima non segnalata puo trasformarsi in una decisione sbagliata.
+
+**3. Perche punteggi e soglie incidono sul piano di studio?**
+
+A. Perche sostituiscono la conoscenza delle materie.
+B. Perche indicano sempre quante domande usciranno.
+C. Perche aiutano a calibrare accuratezza, tempo e allenamento richiesto dalla prova.
+D. Perche sono uguali in tutti i concorsi dello stesso ente.
+
+**Risposta corretta: C.** Struttura e criteri della prova trasformano la materia in un obiettivo di performance; i dati valgono soltanto per la procedura che li prevede.
+
+**4. Come va trattata una materia comune gia coperta da VOL-01?**
+
+A. Va riscritta integralmente nel modulo EPNE.
+B. Va ignorata perche non e specialistica.
+C. Va riusata come nucleo comune e collegata al delta EPNE richiesto dal bando.
+D. Va sostituita con una sola appendice.
+
+**Risposta corretta: C.** Il capitale comune evita di ricominciare da zero; il modulo aggiunge ente, profilo, funzioni, casi e materie specialistiche senza duplicare il manuale base.
+
+**5. Quando una scheda Bando Decoder puo dirsi operativa?**
+
+A. Quando contiene molte righe compilate.
+B. Quando ogni dato produce una decisione, una verifica o un output di allenamento.
+C. Quando riproduce l'ordine degli articoli del bando.
+D. Quando assegna priorita alta a ogni concorso.
+
+**Risposta corretta: B.** Il Decoder non e un archivio anagrafico: deve cambiare calendario, priorita, nuclei e forma dell'allenamento.
+
+**6. Qual e l'uso corretto di un vecchio bando INAIL?**
+
+A. Copiarne prove e materie nel piano di ogni procedura futura.
+B. Usarlo come fonte normativa generale sull'ente.
+C. Usarlo come esempio di metodo, ricompilando il Decoder sul nuovo bando ufficiale.
+D. Considerarlo valido finche non cambia il portale.
+
+**Risposta corretta: C.** Il metodo e riusabile; dati, profilo, prove, soglie, allegati e avvisi appartengono invece a ciascuna procedura.
