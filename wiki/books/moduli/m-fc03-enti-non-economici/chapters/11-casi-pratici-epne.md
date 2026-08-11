@@ -57,9 +57,9 @@ last_compiled_from: [
 
 ## Apertura editoriale
 
-Il caso pratico e' il punto in cui il modulo M-FC03 smette di essere una mappa di materie e diventa lavoro d'ufficio. Il candidato non deve solo sapere che cosa sono INPS, INAIL, procedimento amministrativo, privacy, bilancio, servizi digitali o prestazioni. Deve saper usare queste nozioni davanti a una situazione concreta: un utente chiede chiarimenti, una domanda e' incompleta, un'impresa sollecita una pratica, un lavoratore presenta documenti, un fascicolo contiene dati personali, un ufficio deve istruire e comunicare un esito.
+Nel caso pratico, le materie del modulo M-FC03 entrano nel lavoro d'ufficio. Conoscere INPS, INAIL, procedimento amministrativo, privacy, bilancio, servizi digitali o prestazioni non e' sufficiente: bisogna usare queste nozioni davanti a una situazione concreta. Un utente chiede chiarimenti, una domanda e' incompleta, un'impresa sollecita una pratica, un lavoratore presenta documenti, un fascicolo contiene dati personali, un ufficio deve istruire e comunicare un esito.
 
-Nei concorsi per enti pubblici non economici, il caso pratico seleziona una competenza precisa: ragionare come un funzionario pubblico dentro un ente di servizio. Non basta rispondere con buon senso. Non basta citare una norma. Non basta dire che "l'amministrazione deve provvedere". Occorre leggere i fatti, individuare il procedimento, riconoscere competenza e vincoli, proteggere i dati, usare canali corretti, proporre un output realistico e motivato.
+Nei concorsi per enti pubblici non economici, il caso pratico seleziona una competenza precisa: ragionare come un funzionario pubblico dentro un ente di servizio. Il buon senso o la citazione isolata di una norma non risolvono la traccia, e dire che "l'amministrazione deve provvedere" lascia il problema intatto. Bisogna leggere i fatti, individuare il procedimento, riconoscere competenza e vincoli, proteggere i dati, usare canali corretti, proporre un output realistico e motivato.
 
 Il libro base ha gia' spiegato il metodo generale per i casi pratici. Questo capitolo lo specializza sugli EPNE. Qui i casi ruotano intorno a sportello, back office, prestazioni, assicurazione sociale, richieste di accesso, comunicazioni, servizi digitali, utenti e imprese. INPS e INAIL sono gli esempi guida, ma la griglia vale anche per ACI, ENAC, ISTAT, ASI, ENEA amministrativo, CRI e altri enti compatibili, sempre nei limiti del bando.
 
@@ -77,7 +77,7 @@ Alla fine del capitolo devi saper fare cinque cose:
 4. produrre mini-atti e risposte sintetiche: comunicazione, richiesta integrazione, instradamento, nota interna, risposta all'utente;
 5. correggere gli errori tipici: teoria eccessiva, privacy dimenticata, competenza confusa, sportello trattato come favore personale.
 
-Il risultato atteso non e' conoscere ogni procedura dell'ente. E' saper impostare una soluzione amministrativa plausibile e verificabile.
+L'obiettivo non e' conoscere ogni procedura dell'ente, ma saper impostare una soluzione amministrativa plausibile e verificabile.
 
 ## Mappa BANDO
 
@@ -99,7 +99,7 @@ Un caso pratico EPNE e' una situazione concreta ambientata in un ente pubblico n
 
 La differenza rispetto a un caso amministrativo generico e' il contesto. In un EPNE il procedimento spesso si collega a servizi e prestazioni. In INPS puo' riguardare domanda, posizione contributiva, prestazione, utente, fascicolo, dati personali e canale digitale. In INAIL puo' riguardare evento lavorativo, assicurazione, prevenzione, prestazione, impresa, lavoratore, dati sanitari e sicurezza. Negli altri enti puo' riguardare iscrizioni, certificazioni, servizi istituzionali, rapporto con utenti o gestione interna.
 
-La regola di base e':
+Il criterio da seguire e' semplice:
 
 > non risolvere il caso con teoria astratta; risolvilo come fascicolo d'ufficio ridotto.
 
@@ -147,7 +147,7 @@ La seconda frase e' vera, ma non entra nel caso.
 
 ### Caso pratico, domanda teorica e quesito situazionale
 
-Le tre forme possono condividere la stessa materia, ma chiedono prestazioni diverse. La domanda teorica domanda di definire o illustrare un istituto. Il caso pratico presenta fatti e chiede di applicare regole, competenze e cautele per arrivare a un prossimo passo motivato. Il quesito situazionale, invece, mette a confronto condotte possibili e chiede di scegliere o ordinare quella piu' adeguata. Se la traccia descrive una pratica incompleta e domanda che cosa deve fare l'ufficio, non basta definire il procedimento e non basta scegliere un atteggiamento genericamente corretto: occorre costruire la sequenza amministrativa.
+Le tre forme possono condividere la stessa materia, ma chiedono prestazioni diverse. La domanda teorica domanda di definire o illustrare un istituto. Il caso pratico presenta fatti e chiede di applicare regole, competenze e cautele per arrivare a un prossimo passo motivato. Il quesito situazionale, invece, mette a confronto condotte possibili e chiede di scegliere o ordinare quella piu' adeguata. Se la traccia descrive una pratica incompleta e domanda che cosa deve fare l'ufficio, la definizione del procedimento e un atteggiamento genericamente corretto non sono ancora una soluzione: occorre costruire la sequenza amministrativa.
 
 Il verbo della consegna indica il prodotto. `Indicare i passaggi` richiede ordine; `motivare la soluzione` richiede regola e applicazione; `redigere una comunicazione` richiede un testo rivolto al destinatario; `valutare il comportamento` sposta l'attenzione sulla condotta. Prima di richiamare la teoria, scrivi in margine verbo, destinatario e output. Questa lettura impedisce di consegnare un tema quando era richiesto un mini-atto.
 
@@ -157,7 +157,7 @@ Il verbo della consegna indica il prodotto. `Indicare i passaggi` richiede ordin
 
 Molti casi EPNE nascono dal rapporto tra sportello e back office. Lo sportello riceve, ascolta, orienta, classifica, verifica il canale e tutela l'utente. Il back office istruisce, controlla documenti, aggiorna fascicoli, verifica requisiti, comunica esiti, conserva traccia e segnala anomalie.
 
-La risposta forte collega i due piani. Non dice solo "inoltro la pratica". Dice: identifico il richiedente, qualifico la richiesta, verifico se lo sportello puo' fornire informazioni generali o se serve back office, tratto solo dati necessari, registro o instrado nel canale previsto, non prometto l'esito e informo l'utente del passaggio corretto.
+Una risposta completa collega i due piani. Invece di limitarsi a "inoltro la pratica", precisa i passaggi: identifico il richiedente, qualifico la richiesta, verifico se lo sportello puo' fornire informazioni generali o se serve il back office, tratto solo i dati necessari, registro o instrado nel canale previsto, non prometto l'esito e informo l'utente del passaggio corretto.
 
 | Situazione | Risposta debole | Risposta forte |
 | --- | --- | --- |
@@ -171,7 +171,7 @@ Nel caso pratico, aiutare l'utente significa rendere la procedura comprensibile,
 
 ### Mini-atti: che cosa puoi dover scrivere
 
-Il caso EPNE puo' chiedere non solo una spiegazione, ma un piccolo output amministrativo. Non si tratta di scrivere un provvedimento completo. Si tratta di produrre una forma ordinata, coerente con il ruolo.
+Il caso EPNE puo' chiedere una spiegazione oppure un piccolo output amministrativo. Non occorre scrivere un provvedimento completo, ma produrre una forma ordinata e coerente con il ruolo.
 
 | Output | Quando serve | Struttura minima |
 | --- | --- | --- |
@@ -210,11 +210,11 @@ Scrivere: "la prestazione sara' concessa se manda il documento". L'integrazione 
 
 ### Dalla ricezione alla comunicazione
 
-La competenza non e' una formula con cui allontanare l'utente. Serve a distribuire correttamente le responsabilita. In una risposta ben costruita compaiono almeno quattro funzioni: chi riceve e qualifica la richiesta; chi svolge l'istruttoria; chi adotta o valida la decisione; chi comunica attraverso il canale previsto. La stessa persona puo' svolgerne piu' di una solo se l'organizzazione e il ruolo lo consentono: la traccia non autorizza a presumere poteri che non dichiara.
+La competenza distribuisce correttamente le responsabilita; non e' una formula con cui allontanare l'utente. In una risposta ben costruita compaiono almeno quattro funzioni: chi riceve e qualifica la richiesta; chi svolge l'istruttoria; chi adotta o valida la decisione; chi comunica attraverso il canale previsto. La stessa persona puo' svolgerne piu' di una solo se l'organizzazione e il ruolo lo consentono: la traccia non autorizza a presumere poteri che non dichiara.
 
-Quando l'ufficio ricevente non e' competente, la soluzione non e' ne' decidere comunque ne' limitarsi a dire di no. Occorre verificare il percorso previsto, orientare in modo comprensibile e, quando consentito, instradare o trasmettere la richiesta conservandone traccia. Se invece l'ufficio e' competente ma mancano elementi, la risposta distingue integrazione, istruttoria ed esito. Chiedere cio' che serve non equivale a promettere l'accoglimento.
+Quando l'ufficio ricevente non e' competente, non deve decidere comunque ne' limitarsi a dire di no. Occorre verificare il percorso previsto, orientare in modo comprensibile e, quando consentito, instradare o trasmettere la richiesta conservandone traccia. Se invece l'ufficio e' competente ma mancano elementi, la risposta distingue integrazione, istruttoria ed esito. Chiedere cio' che serve non equivale a promettere l'accoglimento.
 
-**Micro-caso:** lo sportello vede una domanda ferma e conosce il motivo probabile. La risposta debole anticipa una decisione o modifica informalmente il fascicolo. La risposta forte comunica solo lo stato verificabile, indica il passaggio necessario e attiva il back office competente. Il valore concorsuale sta nella sequenza, non nella rassicurazione.
+**Micro-caso:** lo sportello vede una domanda ferma e conosce il motivo probabile. Una risposta debole anticipa una decisione o modifica informalmente il fascicolo. Una risposta ben impostata comunica solo lo stato verificabile, indica il passaggio necessario e attiva il back office competente. In prova conta la sequenza, non la rassicurazione.
 
 ## N-FC03-11-03 · Dati personali, accesso, trasparenza e canali
 
@@ -244,7 +244,7 @@ Un'impresa chiede perche' una pratica risulta sospesa. Dalla prima verifica emer
 
 #### Risposta modello
 
-L'ufficio deve distinguere tre piani: informazione sullo stato della pratica, eventuale integrazione documentale e richiesta di accesso agli atti. Sul primo piano puo' fornire, nei limiti del ruolo e del canale, indicazioni generali sullo stato e sulla necessita di integrazione. Sul secondo deve indicare in modo chiaro il documento mancante e il canale corretto. Sul terzo non puo' inviare automaticamente l'intero fascicolo: deve qualificare la richiesta di accesso, verificare legittimazione, eventuali controinteressati e dati personali da proteggere. La soluzione corretta e' orientare l'impresa alla procedura ufficiale e registrare l'attivita.
+L'ufficio deve separare l'informazione sullo stato della pratica, l'eventuale integrazione documentale e la richiesta di accesso agli atti. Sullo stato puo' fornire, nei limiti del ruolo e del canale, indicazioni generali e segnalare la necessita di integrazione. Per l'integrazione deve indicare con chiarezza il documento mancante e il canale corretto. Quanto all'accesso, non puo' inviare automaticamente l'intero fascicolo: deve qualificare la richiesta, verificare legittimazione, eventuali controinteressati e dati personali da proteggere. La soluzione corretta e' orientare l'impresa alla procedura ufficiale e registrare l'attivita.
 
 #### Mini-atto possibile
 
@@ -299,7 +299,7 @@ Un ufficio EPNE ha bisogno di un piccolo servizio di supporto per migliorare la 
 
 #### Risposta modello
 
-Il caso non riguarda solo contratti pubblici, ma anche organizzazione del servizio, spesa, tracciabilita e responsabilita. L'ufficio deve verificare fabbisogno, competenza, disponibilita delle risorse, procedura applicabile, eventuali strumenti di acquisto e formalizzazione dell'affidamento. La conoscenza del fornitore non sostituisce motivazione e tracciabilita. Se la procedura e' semplificata, resta comunque una procedura. La soluzione corretta e' coinvolgere il soggetto competente e seguire il percorso proporzionato al valore e alla necessita.
+Il caso coinvolge contratti pubblici, organizzazione del servizio, spesa, tracciabilita e responsabilita. L'ufficio deve verificare fabbisogno, competenza, disponibilita delle risorse, procedura applicabile, eventuali strumenti di acquisto e formalizzazione dell'affidamento. La conoscenza del fornitore non sostituisce motivazione e tracciabilita. Se la procedura e' semplificata, resta comunque una procedura. La soluzione corretta e' coinvolgere il soggetto competente e seguire il percorso proporzionato al valore e alla necessita.
 
 #### Errore da evitare
 
@@ -324,7 +324,7 @@ Confondere disponibilita con favoritismo informativo.
 
 Un caso INPS e un caso INAIL condividono procedimento, competenza, dati e comunicazione, ma non sono identici. Nel contesto INPS ricorrono domande, posizioni, prestazioni, contributi e servizi rivolti a utenti o intermediari. Nel contesto INAIL ricorrono assicurazione sociale, eventi lavorativi, prevenzione, prestazioni e rapporti con lavoratori e imprese. Questo lessico orienta la qualificazione del fascicolo; non autorizza a dedurre requisiti, importi, termini o risultati che la traccia non contiene.
 
-Per risolvere un caso ente-specifico usa tre livelli. Il primo e' comune: fatti, soggetti, competenza, procedimento, dati e output. Il secondo e' il delta EPNE: servizio, rapporto con l'utente, fascicolo digitale, tracciabilita e raccordo sportello-back office. Il terzo e' il taglio dell'ente, limitato alle nozioni necessarie. Se il caso riguarda una domanda INPS incompleta, puoi parlare di istruttoria e integrazione; non puoi concludere che la prestazione spetti. Se riguarda una pratica INAIL con informazioni delicate, puoi indicare verifica di identita e canale; non puoi ricostruire automaticamente la tutela assicurativa.
+Per risolvere un caso ente-specifico combina tre livelli: la base comune di fatti, soggetti, competenza, procedimento, dati e output; il delta EPNE, con servizio, rapporto con l'utente, fascicolo digitale, tracciabilita e raccordo sportello-back office; il taglio dell'ente, limitato alle nozioni necessarie. Se il caso riguarda una domanda INPS incompleta, puoi parlare di istruttoria e integrazione; non puoi concludere che la prestazione spetti. Se riguarda una pratica INAIL con informazioni delicate, puoi indicare verifica di identita e canale; non puoi ricostruire automaticamente la tutela assicurativa.
 
 ### Trasferire il metodo ad altri scenari
 
@@ -348,12 +348,12 @@ Esempio in 10 righe su domanda incompleta:
 
 > Il caso riguarda una domanda presentata a un EPNE con documentazione incompleta. L'ufficio non deve respingere o accogliere automaticamente, ma verificare se il documento mancante sia necessario per l'istruttoria. Se l'integrazione e' possibile, deve comunicare all'utente quale elemento produrre, tramite quale canale e con quali effetti sul procedimento. L'esito non va anticipato: sara' valutato dopo la verifica dei requisiti. La gestione deve essere tracciata e rispettare la protezione dei dati personali.
 
-Questa risposta e' breve, ma contiene fatti, problema, regola, soluzione e cautela.
+Pur essendo breve, la risposta contiene fatti, problema, regola, soluzione e cautela.
 
 
 ### Scegliere la forma prima di scrivere
 
-Il mini-atto non e' un provvedimento completo in miniatura. E' un output proporzionato alla consegna. Una comunicazione all'utente deve far capire a quale pratica si riferisce, quale informazione e' certa, quale passaggio segue e quale canale usare. Una richiesta di integrazione identifica cio' che manca e perche' serve, senza anticipare l'esito. Una nota interna permette al collega o al responsabile di ricostruire fatti, verifiche gia' svolte, criticita e decisione richiesta. La risposta sintetica espone invece problema, regola, applicazione e conclusione in forma discorsiva.
+Il mini-atto e' un output proporzionato alla consegna, non un provvedimento completo in miniatura. Una comunicazione all'utente deve far capire a quale pratica si riferisce, quale informazione e' certa, quale passaggio segue e quale canale usare. Una richiesta di integrazione identifica cio' che manca e perche' serve, senza anticipare l'esito. Una nota interna permette al collega o al responsabile di ricostruire fatti, verifiche gia' svolte, criticita e decisione richiesta. La risposta sintetica espone invece problema, regola, applicazione e conclusione in forma discorsiva.
 
 Prima di scrivere, prepara una micro-scaletta di quattro righe:
 
@@ -362,7 +362,7 @@ Prima di scrivere, prepara una micro-scaletta di quattro righe:
 3. sequenza di azioni dell'ufficio;
 4. output e cautela finale.
 
-Questa scaletta evita due difetti frequenti. Il primo e' l'atto ornamentale: oggetto, formule e saluti occupano spazio ma non risolvono il caso. Il secondo e' la risposta senza destinatario: corretta in teoria, ma incapace di dire che cosa ricevera' l'utente o che cosa dovra' fare il back office.
+Questa scaletta protegge da due difetti frequenti: l'atto ornamentale, nel quale oggetto, formule e saluti occupano spazio senza risolvere il caso; e la risposta senza destinatario, corretta in teoria ma incapace di dire che cosa ricevera' l'utente o che cosa dovra' fare il back office.
 
 ### Lo schema 10/20/30 righe
 
@@ -378,7 +378,7 @@ Adatta sempre lo schema alle istruzioni reali della prova. Se la consegna impone
 
 ### Revisione in sei controlli
 
-Prima di consegnare chiediti: ho risposto al verbo? Ho separato fatti e supposizioni? Ho attribuito ogni azione al ruolo corretto? Ho richiamato soltanto regole pertinenti? Ho prodotto l'output richiesto? Ho evitato promesse, dati impropri e riferimenti normativi insicuri? Se una risposta supera questi sei controlli, la sintesi non e' soltanto breve: e' funzionale alla valutazione.
+Prima di consegnare chiediti: ho risposto al verbo? Ho separato fatti e supposizioni? Ho attribuito ogni azione al ruolo corretto? Ho richiamato soltanto regole pertinenti? Ho prodotto l'output richiesto? Ho evitato promesse, dati impropri e riferimenti normativi insicuri? Superare questi sei controlli rende la sintesi breve e funzionale alla valutazione.
 
 **Micro-esercizio:** riduci il caso dell'impresa e della pratica sospesa prima a venti righe, poi a dieci. Nella versione breve devono restare tre piani distinti: stato della pratica, integrazione documentale e richiesta di accesso. Se uno scompare, hai tagliato una parte necessaria; se compaiono dettagli nuovi, non hai sintetizzato ma inventato.
 
@@ -414,7 +414,7 @@ Poi scrive:
 
 > L'ufficio deve anzitutto qualificare la richiesta come sollecito relativo a una domanda ancora in istruttoria. Lo sportello puo' orientare l'utente e fornire informazioni consentite sullo stato della pratica, ma non deve anticipare l'esito ne' comunicare dati oltre quanto necessario. Occorre verificare quale documento manchi, indicare il canale ufficiale per l'integrazione e registrare l'attivita. L'istruttoria proseguira' presso l'ufficio competente, che valutera' i requisiti e comunichera' l'esito secondo procedura. La risposta deve essere chiara, tracciabile e rispettosa della protezione dei dati personali.
 
-La risposta funziona perche' non e' un tema: e' una decisione amministrativa ordinata.
+La risposta funziona perche' risolve il fascicolo invece di trasformarlo in un tema.
 
 ### Domanda da commissario
 
@@ -428,7 +428,7 @@ La risposta funziona perche' non e' un tema: e' una decisione amministrativa ord
 
 **Risposta corretta:** no. L'orientamento al servizio non autorizza scorciatoie informali. Il funzionario deve aiutare l'utente a seguire il percorso corretto, rendere comprensibile la procedura, evitare ritardi inutili e usare i canali previsti. Deve pero' rispettare competenza, tracciabilita, imparzialita, protezione dei dati e limiti del proprio ruolo.
 
-**Perche' e' una trappola:** trasforma la disponibilita in deroga. Nei concorsi, la risposta corretta e' quasi sempre quella che unisce servizio e legalita.
+**Perche' e' una trappola:** trasforma la disponibilita in una deroga. In prova occorre tenere insieme servizio e legalita.
 
 ### Errore tipico
 
@@ -563,4 +563,4 @@ Assegna un punto per ciascun controllo superato:
 | Applicazione | Ho costruito una sequenza concreta e proporzionata? |
 | Cautela | Ho evitato promesse, dati impropri e canali informali? |
 
-Con sei punti la risposta e' pronta per una revisione di stile. Con quattro o cinque punti individua il controllo mancante e riscrivi soltanto quel passaggio. Sotto quattro punti torna alla griglia in nove passaggi: probabilmente stai esponendo teoria o reagendo d'istinto invece di risolvere il fascicolo.
+Con sei punti passa alla revisione di stile. Con quattro o cinque, individua il controllo mancante e riscrivi quel passaggio. Sotto quattro, torna alla griglia in nove passaggi: probabilmente stai esponendo teoria o reagendo d'istinto, senza risolvere il fascicolo.
