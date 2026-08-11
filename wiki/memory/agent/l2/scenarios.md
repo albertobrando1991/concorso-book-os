@@ -5061,3 +5061,11 @@
 - atoms:
   - mem-20260811094214-1syjej1 | workflow | Procedi con il prossimo step della pipeline aggiornata di VOL-10.
   - mem-20260811094214-17s2l35 | result | Esito codex-vol10-cap05-step08-format2: Procedi con il prossimo step della pipeline aggiornata di VOL-10. -> Completato step 08 capitolo 05: aggiornato piano operativo Format 2 su urbanistica e governo del territorio; definiti sei nuclei stabili da almeno 600 parole, fonti, confini, audit, sei quiz, verifiche e caso integrat...
+
+## 2026-08-11T09:50:34.743Z - VOL-10
+
+- conversation_id: conv-20260811095034-u28qkw
+- route: codex-vol10-cap05-step09-format2
+- l0: l0/conv-20260811095034-u28qkw.md
+- atoms:
+  - mem-20260811095034-u0osxb | result | Esito codex-vol10-cap05-step09-format2: Procedi con il prossimo step della pipeline aggiornata di VOL-10. -> Completato step 09 capitolo 05: riscritto Urbanistica e governo del territorio in Formato 2 con 6 nuclei tra 603 e 685 parole, 6 quiz commentati, caso ragionato, verifiche vicine, riferimenti leggibili e nessun link i...
