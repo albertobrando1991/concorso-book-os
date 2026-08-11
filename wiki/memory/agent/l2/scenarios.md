@@ -5036,3 +5036,11 @@
 - atoms:
   - mem-20260811090600-biy864 | workflow | Procedere con la pipeline aggiornata di VOL-10.
   - mem-20260811090600-12rajw7 | result | Esito pipeline-volume: Procedere con la pipeline aggiornata di VOL-10. -> Capitolo 02 completato agli step 08-12 e giudicato pubblicabile: 6 nuclei Format 2 sopra 600 parole, 6 quiz, 1 caso, 6 verifiche; matrice dimensionale, delta, Humanizer e report reviewer senza blocker.
+
+## 2026-08-11T09:24:57.078Z - VOL-10/M-TR03
+
+- conversation_id: conv-20260811092457-vjbxyz
+- route: pipeline-volume
+- l0: l0/conv-20260811092457-vjbxyz.md
+- atoms:
+  - mem-20260811092457-179cgf1 | result | Esito pipeline-volume: Procedere con la pipeline aggiornata di VOL-10. -> Capitolo 03 completato agli step 08-12 e giudicato pubblicabile: 6 nuclei Format 2 sopra 600 parole, 6 quiz, 1 caso qualitativo, 6 verifiche; nessun calcolo di opera reale; matrice, Humanizer e review senza blocker.
