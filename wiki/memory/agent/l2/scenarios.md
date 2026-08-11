@@ -5044,3 +5044,11 @@
 - l0: l0/conv-20260811092457-vjbxyz.md
 - atoms:
   - mem-20260811092457-179cgf1 | result | Esito pipeline-volume: Procedere con la pipeline aggiornata di VOL-10. -> Capitolo 03 completato agli step 08-12 e giudicato pubblicabile: 6 nuclei Format 2 sopra 600 parole, 6 quiz, 1 caso qualitativo, 6 verifiche; nessun calcolo di opera reale; matrice, Humanizer e review senza blocker.
+
+## 2026-08-11T09:37:54.882Z - VOL-10/M-TR03
+
+- conversation_id: conv-20260811093754-1aun3sw
+- route: pipeline-volume
+- l0: l0/conv-20260811093754-1aun3sw.md
+- atoms:
+  - mem-20260811093754-ma285b | result | Esito pipeline-volume: Procedere con VOL-10. -> Capitolo 04 completato agli step 08-12 e pubblicabile: 6 nuclei, 6 quiz, caso, verifiche, matrice e review; nessun coefficiente o dimensionamento; gate e test verdi.
