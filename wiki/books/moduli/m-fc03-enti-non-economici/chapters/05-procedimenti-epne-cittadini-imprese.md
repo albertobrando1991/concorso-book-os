@@ -109,6 +109,8 @@ Immagina che un lavoratore segnali un dato inesatto nel proprio fascicolo. La ri
 
 Per l'esame, ricorda una formula semplice: il procedimento organizza il potere e protegge la qualita della decisione. Una risposta completa indica chi agisce, su quale base, attraverso quali passaggi, con quali garanzie e verso quale esito. L'errore tipico e' citare la Legge 241/1990 senza collegarla al fascicolo e al servizio effettivamente gestiti.
 
+Un ulteriore criterio di controllo e' la coerenza tra forma e sostanza. Un passaggio formalmente registrato non rende corretta un'istruttoria priva degli accertamenti necessari; viceversa, un esame accurato non giustifica l'assenza di tracciabilita. Qualita del procedimento, garanzie dell'interessato e organizzazione dell'ente devono procedere insieme. Nei quiz, diffida quindi delle opzioni che sacrificano completamente uno di questi elementi in nome della rapidita.
+
 ## N-FC03-05-02 · Qualificare la richiesta e avviare la pratica
 
 Quando affronti un caso pratico, usa sempre sette passaggi. Sono abbastanza generali da valere per enti diversi, ma abbastanza concreti da evitare risposte vaghe.
@@ -209,6 +211,10 @@ La protezione dei dati personali non e' una formula per bloccare ogni richiesta.
 Esempio: un'impresa chiede un atto del proprio procedimento che contiene anche recapiti e informazioni personali di un lavoratore. L'ente non pubblica il fascicolo e non lo nega soltanto perche' contiene dati personali. Verifica titolo e oggetto, individua gli elementi pertinenti, valuta la posizione del terzo e applica le cautele necessarie. In prova, una risposta cosi costruita dimostra la capacita di coordinare accesso e protezione dei dati.
 
 **Domanda di controllo:** l'informazione deve essere pubblicata per chiunque, comunicata a un soggetto determinato o resa accessibile dopo una verifica? La risposta orienta istituto, procedura e cautele.
+
+Il principio di minimizzazione opera anche durante la consultazione interna: il fatto che un dato sia presente nei sistemi dell'ente non significa che ogni dipendente possa utilizzarlo. L'accesso deve essere collegato alle funzioni svolte e alla necessita della pratica. Conservazione, autorizzazioni e registrazione degli accessi completano la tutela, mentre una comunicazione chiara permette all'interessato di comprendere finalita e percorso della richiesta.
+
+Nella motivazione della risposta l'ente rende riconoscibile il percorso seguito: quale istituto ha applicato, quali interessi ha considerato e perche' eventuali parti non sono conoscibili. Una formula generica sulla riservatezza non dimostra il bilanciamento e rende piu' difficile comprendere o contestare la decisione.
 
 ## N-FC03-05-05 · Servizi digitali, sportello e back office
 
