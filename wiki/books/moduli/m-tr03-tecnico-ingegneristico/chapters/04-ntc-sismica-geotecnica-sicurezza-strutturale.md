@@ -153,7 +153,7 @@ Vita nominale e classe d'uso rispondono a domande diverse. La prima riguarda l'o
 
 Il periodo di riferimento collega durata e classe nel percorso dell'azione sismica. Non è una nuova “vita” dell'opera. In una risposta orale conviene definire i tre concetti separatamente e poi mostrare la relazione, evitando valori ricordati senza contesto.
 
-SLU e SLE distinguono requisiti, non controlli importanti e secondari. Gli ultimi riguardano condizioni associate alla sicurezza essenziale; quelli di esercizio presidiano funzionalità, deformazioni, vibrazioni, fessurazione e altre prestazioni pertinenti. Un'opera lontana dal collasso può essere inutilizzabile.
+SLU e SLE impongono di formulare domande diverse. Nel primo caso si individua la modalità di crisi o perdita di sicurezza; nel secondo si chiarisce quale prestazione d'uso deve restare accettabile. Cambiano quindi scenario, grandezza osservata, criterio di confronto e conseguenza dell'esito. Presentarli come livelli gerarchici dello stesso controllo porta a scegliere combinazioni e verifiche senza comprenderne la funzione.
 
 Le combinazioni rappresentano scenari coerenti rispetto allo stato limite. La scelta dipende dalla funzione del controllo e dalla possibile compresenza delle azioni secondo il testo applicabile. Sommare tutto indiscriminatamente non è prudenza: è perdita del significato fisico e normativo.
 
