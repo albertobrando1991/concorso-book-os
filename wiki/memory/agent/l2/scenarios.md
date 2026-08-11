@@ -5109,3 +5109,11 @@
 - l0: l0/conv-20260811101833-v1soam.md
 - atoms:
   - mem-20260811101833-1i42klw | result | Esito codex-vol10-cap06-step09-format2: Procedi con il prossimo step. -> Step 09 capitolo 06 completato: Formato 2, 5104 parole, sei nuclei 666-732 parole, sei quiz, due casi, gate verde.
+
+## 2026-08-11T10:22:39.035Z - VOL-10
+
+- conversation_id: conv-20260811102239-1lr83q8
+- route: codex-vol10-cap06-step10
+- l0: l0/conv-20260811102239-1lr83q8.md
+- atoms:
+  - mem-20260811102239-siogf | result | Esito codex-vol10-cap06-step10: Procedi con il prossimo step. -> Step 10 capitolo 06 completato: matrice e delta Format 2 aggiornati, gate verde.
