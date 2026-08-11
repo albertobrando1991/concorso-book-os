@@ -55,10 +55,24 @@ describe("audit-vol08-format2-nuclei", () => {
     expect(audit(root).status).not.toBe(0)
   })
 
+  it("rejects an analytical-index fragment that is not the nucleus anchor", () => {
+    const root = fixtureRoot()
+    const index = join(root, moduleRelative, "index.md")
+    writeFileSync(index, readFileSync(index, "utf8").replace("#n-tr01-01-01", "#wrong-fragment"), "utf8")
+    expect(audit(root).status).not.toBe(0)
+  })
+
+  it("rejects a duplicate analytical-index row even when its link is valid", () => {
+    const root = fixtureRoot()
+    const index = join(root, moduleRelative, "index.md")
+    const row = "- `N-TR01-01-01` - [Lavorare nell'ICT](chapters/01-lavorare-ict-pa-ruoli-enti-prove.md#n-tr01-01-01)"
+    writeFileSync(index, readFileSync(index, "utf8").replace("<!-- format-2-analytical-index:end -->", `${row}\n<!-- format-2-analytical-index:end -->`), "utf8")
+    expect(audit(root).status).not.toBe(0)
+  })
   it("rejects the former chapter-level evidence placeholders in a matrix row", () => {
     const root = fixtureRoot()
     const matrix = join(root, moduleRelative, "planning", "02-matrice-copertura-didattica.md")
-    writeFileSync(matrix, readFileSync(matrix, "utf8").replace("quesito del nucleo:", "verifica, caso o esercizio del capitolo"), "utf8")
+    writeFileSync(matrix, readFileSync(matrix, "utf8").replace("verified:", "source_refs del capitolo"), "utf8")
     expect(audit(root).status).not.toBe(0)
   })
   it("ignores a nucleus-looking heading inside a fenced code block", () => {

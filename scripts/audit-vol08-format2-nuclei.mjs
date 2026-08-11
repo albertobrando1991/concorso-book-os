@@ -49,11 +49,11 @@ const missingExpected = expectedIds.filter((id) => !chapterSet.has(id)).sort()
 const unexpectedChapterIds = [...chapterSet].filter((id) => !expectedIds.includes(id)).sort()
 const invalidIndexLinks = indexRows.filter((row) => {
   const file = path.join(chaptersRoot, row.file)
-  return !fs.existsSync(file) || !stripFenced(fs.readFileSync(file, 'utf8')).includes(`## ${row.id} \u00b7`)
+  return !fs.existsSync(file) || row.heading !== row.id.toLowerCase() || !stripFenced(fs.readFileSync(file, 'utf8')).includes(`## ${row.id} ·`)
 }).map((row) => `${row.id}: ${row.destination}`)
 const malformed = chapters.flatMap((chapter) => chapter.malformed)
 const prefixMismatches = chapters.flatMap((chapter) => chapter.nucleusIds.filter((id) => id.split("-")[2] !== chapter.number).map((id) => `${chapter.file}: ${id}`))
-const coverage = auditCoverageRows(matrixRows)
+const coverage = auditCoverageRows(matrixRows.filter((row) => row.status === 'completo'))
 const incompleteRows = matrixRows.filter((row) => !row.sources || !row.theoreticalCoverage || !row.application || !row.competitionOutput || !row.verification || !row.status || !row.normativeReview)
 const genericEvidenceRows = matrixRows.filter((row) => /source_refs del capitolo|esempio, caso o applicazione nel nucleo|output tecnico o concorsuale del nucleo|verifica, caso o esercizio del capitolo/i.test(`${row.sources} ${row.application} ${row.competitionOutput} ${row.verification}`))
 const failures = [
@@ -111,21 +111,22 @@ function writeCanonicalMatrix(chapterRows) {
     const title = chapter.titles.get(id) || 'Nucleo didattico'
     const source = manifest.chapters.find((item) => item.file === chapter.file)?.sourceRef || 'fonte non dichiarata'
     const evidence = atomicEvidence(chapter.sections.get(id), id, title)
-    const verification = `Q:1 C:0 E:0 quesito del nucleo: ${evidence.verification}`
-    return `| \`${id}\` | Tutti i profili ICT | Capitolo ${chapter.number} | ${escape(title)} | alta, da allineare al bando | ${escape(source)} | cap. ${chapter.number}, ${id} | ${escape(evidence.theory)} | ${escape(evidence.application)} | ${escape(evidence.output)} | ${escape(verification)} | completo | review normativa da confermare agli step 13-18; riscontro del nucleo | n/a |`
+    const verificationCounts = countVerification(chapter.sections.get(id))
+    const verification = `${stateEvidence(evidence.verification)}; Q:${verificationCounts.quiz} C:${verificationCounts.case} E:${verificationCounts.exercise}`
+    return `| \`${id}\` | Tutti i profili ICT | Capitolo ${chapter.number} | ${escape(title)} | alta, da allineare al bando | ${escape(`open: ${source}; attribuzione al nucleo da riesaminare allo step 15`)} | cap. ${chapter.number}, ${id} | ${escape(stateEvidence(evidence.theory))} | ${escape(stateEvidence(evidence.application))} | ${escape(stateEvidence(evidence.output))} | ${escape(verification)} | parziale | attribuzione della fonte al nucleo e review normativa aperte allo step 15 |  n/a |`
   }))
   const dimensions = chapterRows.flatMap((chapter) => chapter.nucleusIds.map((id) => {
     const evidence = atomicEvidence(chapter.sections.get(id), id, chapter.titles.get(id))
     const source = manifest.chapters.find((item) => item.file === chapter.file)?.sourceRef || 'fonte non dichiarata'
-    return `| \`${id}\` | ✓ ${escape(evidence.theory)} | ✓ ${escape(evidence.function)} | ✓ ${escape(evidence.framing)} | ✓ ${escape(evidence.elements)} | ✓ ${escape(evidence.distinctions)} | ✓ ${escape(evidence.consequences)} | ✓ ${escape(evidence.application)} | ✓ ${escape(evidence.output)} | ✓ ${escape(evidence.error)} | ✓ ${escape(evidence.verification)} | ✓ ${escape(source)} |`
+    return `| \`${id}\` | ✓ ${escape(stateEvidence(evidence.theory))} | ✓ ${escape(stateEvidence(evidence.function))} | ✓ ${escape(stateEvidence(evidence.framing))} | ✓ ${escape(stateEvidence(evidence.elements))} | ✓ ${escape(stateEvidence(evidence.distinctions))} | ✓ ${escape(stateEvidence(evidence.consequences))} | ✓ ${escape(stateEvidence(evidence.application))} | ✓ ${escape(stateEvidence(evidence.output))} | ✓ ${escape(stateEvidence(evidence.error))} | ✓ ${escape(stateEvidence(evidence.verification))} | ✓ ${escape(`open: ${source}; attribuzione al nucleo da riesaminare allo step 15`)} |`
   }))
   const block = [matrixStart, '', '## Riconciliazione canonica Format 2 - VOL-08', '', 'Ogni riga conserva un riscontro testuale estratto dal nucleo corrispondente; questa riconciliazione non chiude gli audit specialistici degli step 13-18.', '', '| Nucleo ID | Famiglia/profilo | Materia | Concetto/sotto-concetti | Frequenza/peso | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa | Destinazione rinvio |', '| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |', ...rows, '', '### Checklist dimensionale canonica Format 2', '', '| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso prova | Errore tipico | Verifica | Fonti |', '| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |', ...dimensions, '', matrixEnd].join('\n')
   fs.writeFileSync(matrixPath, replaceBlock(fs.readFileSync(matrixPath, 'utf8'), matrixStart, matrixEnd, block), 'utf8')
 }
 
 function atomicEvidence(section, id, title) {
-  const text = section || `Il nucleo ${id} tratta ${title}.`
-  const sentence = (pattern) => (text.match(new RegExp(`[^.]*${pattern}[^.]*\\.`, 'i'))?.[0] || text).replace(/[|\r\n]+/g, ' ').replace(/\s+/g, ' ').trim().slice(0, 240)
+  const text = section || ''
+  const sentence = (pattern) => { const found = text.match(new RegExp(`[^.]*${pattern}[^.]*\\.`, 'i'))?.[0]; const value = (found || '').replace(/[|\r\n]+/g, ' ').replace(/\s+/g, ' ').trim().slice(0, 240); return value.length >= 20 ? value : '' }
   const verification = sentence('Come lo chiede la commissione|In prova|domanda|quesito')
   return {
     theory: sentence('definisce|è |sono |indica|consiste'),
@@ -140,6 +141,8 @@ function atomicEvidence(section, id, title) {
     error: sentence('Errore da evitare|errore|evita')
   }
 }
+
+function stateEvidence(value) { return value ? `verified: ${value}` : 'open: evidenza non osservata; review step 15' }
 
 function writeAnalyticalIndex(chapterRows) {  const rows = chapterRows.flatMap((chapter) => chapter.nucleusIds.map((id) => `- \`${id}\` - [${chapter.titles.get(id)}](chapters/${chapter.file}#${id.toLowerCase()})`))
   const block = [indexStart, "", "## Indice analitico dei nuclei Format 2", "", "L'indice tecnico conserva l'identità stabile dei nuclei e rimanda al capitolo che li sviluppa.", "", ...rows, "", indexEnd].join("\n")
@@ -188,3 +191,4 @@ function render(result, chapterRows, rows, coverageResult) {
     "Questo audit riconcilia struttura e tracciabilità didattica. Non dichiara conclusi gli audit specialistici, la revisione trasversale, l'impaginazione o la conferma umana.", ""
   ].join("\n")
 }
+function countVerification(section) { const text = section || ''; return { quiz: (text.match(/\bquiz\b/gi) || []).length, case: (text.match(/\bcaso\b/gi) || []).length, exercise: (text.match(/\besercizio\b/gi) || []).length } }

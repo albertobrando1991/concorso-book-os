@@ -24,7 +24,7 @@
 
 ## Esito della matrice
 
-- Righe v2 canoniche: 82; righe complete senza blocker di copertura: 82.
+- Righe v2 canoniche: 82; righe complete senza blocker di copertura: 0.
 - Warning di fonte: 0; non chiudono gli audit specialistici degli step 13-18.
 
 ## Discrepanze
