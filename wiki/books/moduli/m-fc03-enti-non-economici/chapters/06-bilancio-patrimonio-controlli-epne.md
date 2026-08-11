@@ -95,6 +95,8 @@ La contabilita diventa utile quando risponde a una domanda concreta: chi autoriz
 
 Il capitolo di contabilita pubblica essenziale del libro base resta il riferimento per i concetti generali. Devi gia' sapere che gli artt. 81 e 97 della Costituzione collegano equilibrio di bilancio, sostenibilita, buon andamento e responsabilita nell'uso delle risorse pubbliche. Devi conoscere la differenza tra bilancio di previsione e rendiconto, tra competenza e cassa, tra accertamento e riscossione, tra impegno e pagamento.
 
+Questi principi orientano anche la lettura delle responsabilita organizzative: ogni scelta contabile deve risultare coerente con le finalita istituzionali, attribuita all'organo competente e verificabile attraverso documenti attendibili.
+
 Nel modulo M-FC03 cambia il punto di osservazione. Non parti dallo Stato, dal Comune o dalla Regione. Parti da un ente pubblico non economico che svolge funzioni proprie, pubblica documenti nella sezione amministrazione trasparente, gestisce servizi e puo' essere sottoposto a vigilanza e controlli esterni. Il concetto generale resta lo stesso: le risorse pubbliche devono essere programmate, autorizzate, usate, registrate e controllate. Cambia il contesto in cui questa catena opera.
 
 La regola e':

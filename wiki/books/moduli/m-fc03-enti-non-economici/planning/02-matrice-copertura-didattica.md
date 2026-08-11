@@ -179,3 +179,40 @@ I sei nuclei presentano teoria autonoma, applicazione e verifica. Tabelle, casi 
 ## Esito capitolo 05
 
 Tutti i sei nuclei presentano teoria autonoma, applicazione e verifica. Tabelle, griglie, caso e quiz applicano concetti gia spiegati e non li sostituiscono. Non risultano dimensioni applicabili vuote, rinvii generici o dati operativi non tracciati; termini, canali e discipline settoriali variabili restano subordinati alle fonti ufficiali vigenti.
+
+## Capitolo 06 - overlay Format 2
+
+| Nucleo ID | Famiglia/profilo | Materia | Concetto/sotto-concetti | Frequenza/peso | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa | Destinazione rinvio |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FC03-06-01 | M-FC03/tutti | Contabilita EPNE | Principi, disciplina propria e ciclo di gestione | alta | [[sources/principi-costituzionali-finanza-pubblica-art-81-97-119]]; [[sources/m-fc03-dossier-redazionale-enti-pubblici-non-economici]] | Cap. 06 § N-FC03-06-01 | Collega principi, autonomia, responsabilita e ciclo contabile | Servizio istituzionale e controllo in cinque domande | Quiz e orale | Q:1 C:0 E:1 - Quiz 1 e schema | completo | Audit D.P.R. 97/2003, D.Lgs. 91/2011 e regole proprie |  |
+| N-FC03-06-02 | M-FC03/tutti | Bilancio | Preventivo, rendiconto, allegati, organi e trasparenza | alta | [[sources/m-fc03-fonti-ufficiali-enti-epne-2026]]; [[sources/contabilita-generale-enti-pubblici-istituzionali]] | Cap. 06 § N-FC03-06-02 | Distingue autorizzazione, rendicontazione e lettura dei documenti | Confronto fra documenti dello stesso esercizio | Quiz, orale e documentale | Q:1 C:0 E:1 - Quiz 2 e tabella | completo | Audit denominazioni e versioni vigenti |  |
+| N-FC03-06-03 | M-FC03/tutti | Entrate e spese | Fasi, copertura, fattura, pagamento, CIG/CUP e vincoli | alta | [[sources/pagamenti-tracciabilita-amministrazioni-pubbliche]]; [[sources/contabilita-generale-enti-pubblici-istituzionali]] | Cap. 06 § N-FC03-06-03 | Spiega ciclo finanziario e controlli anteriori al pagamento | Fattura per servizio digitale | Quiz, orale e caso | Q:1 C:1 E:1 - Quiz 3 e micro-caso | completo | Audit fasi, codici e disciplina vigente |  |
+| N-FC03-06-04 | M-FC03/tutti | Patrimonio | Inventario, custodia, consegnatario, economo e agente contabile | alta | [[sources/corte-conti-controlli-responsabilita-agenti-contabili]]; [[sources/contabilita-economico-patrimoniale-enti-pubblici]] | Cap. 06 § N-FC03-06-04 | Ricostruisce ciclo del bene, ruoli, conti e responsabilita | Dispositivo mancante e custodia | Quiz, orale e caso | Q:1 C:1 E:1 - Quiz 4 e micro-caso | completo | Audit qualifiche, conto e responsabilita |  |
+| N-FC03-06-05 | M-FC03/tutti | Sistemi e controlli interni | Sistemi contabili, regolarita e controllo di gestione | alta | [[sources/contabilita-economico-patrimoniale-enti-pubblici]] | Cap. 06 § N-FC03-06-05 | Collega legalita, costi, risultati e tre criteri di performance | Valutazione di un canale di assistenza | Quiz, orale e situazionale | Q:1 C:0 E:1 - Quiz 5 e tabella | completo | Audit quadro applicabile all'ente |  |
+| N-FC03-06-06 | M-FC03/tutti | Controlli esterni | Corte dei conti, RGS, vigilanza, trasparenza e metodo | alta | [[sources/m-fc03-fonti-ufficiali-enti-epne-2026]]; [[sources/corte-conti-controlli-responsabilita-agenti-contabili]] | Cap. 06 § N-FC03-06-06 | Distingue controllo interno, esterno e vigilanza | Caso completo, griglia ed esercizio | Quiz, orale, caso e situazionale | Q:1 C:1 E:1 - Quiz 6, caso e verifica | completo | Audit poteri e discipline vigenti |  |
+
+## Checklist dimensionale - capitolo 06
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso nella prova | Errore tipico | Verifica | Fonti | Tracciabilita |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FC03-06-01 | ✓ contabilita e ciclo | ✓ collegare risorse e funzioni | ✓ artt. 81 e 97 Cost. e disciplina EPNE | ✓ programmazione, gestione, rendicontazione, controllo | ✓ EPNE/Stato/ente locale | ✓ gestione competente e verificabile | ✓ servizio e cinque domande | ✓ quiz e orale | ✓ trasferimento automatico di regole | ✓ Quiz 1 | ✓ fonti in riga | ✓ frontmatter e Costituzione |
+| N-FC03-06-02 | ✓ preventivo e rendiconto | ✓ autorizzare e rendere conto | ✓ ordinamento contabile proprio | ✓ periodo, funzione, allegati, organi | ✓ previsione/consuntivo | ✓ lettura corretta | ✓ due documenti dello stesso anno | ✓ quiz e orale | ✓ bilancio generico | ✓ Quiz 2 | ✓ fonti in riga | ✓ frontmatter |
+| N-FC03-06-03 | ✓ fasi di entrata e spesa | ✓ controllare il flusso | ✓ ciclo contabile pubblico | ✓ accertamento, riscossione, impegno, liquidazione, pagamento | ✓ competenza/cassa e fattura/titolo | ✓ pagamento documentato | ✓ fattura digitale | ✓ quiz e caso | ✓ fattura come pagamento automatico | ✓ Quiz 3 | ✓ fonti in riga | ✓ frontmatter |
+| N-FC03-06-04 | ✓ patrimonio, inventario e agente | ✓ custodire e rendere il conto | ✓ gestione patrimoniale | ✓ acquisizione, registrazione, assegnazione, dismissione | ✓ utilizzatore/consegnatario/agente | ✓ custodia tracciabile | ✓ dispositivo mancante | ✓ quiz e caso | ✓ qualifica automatica | ✓ Quiz 4 | ✓ fonti in riga | ✓ frontmatter |
+| N-FC03-06-05 | ✓ sistemi e controlli interni | ✓ collegare legalita, costi e risultati | ✓ contabilita e performance | ✓ finanziaria, economico-patrimoniale, analitica, controlli | ✓ efficienza/efficacia/economicita | ✓ decisioni correttive | ✓ canale di assistenza | ✓ quiz e situazionale | ✓ copertura uguale buona gestione | ✓ Quiz 5 | ✓ fonti in riga | ✓ frontmatter |
+| N-FC03-06-06 | ✓ controllo esterno e vigilanza | ✓ verificare risorse e governance | ✓ sistema pubblico dei controlli | ✓ Corte, RGS, vigilanza, trasparenza | ✓ interno/esterno/vigilanza | ✓ rilievi, correzioni e responsabilita | ✓ caso del servizio digitale | ✓ quiz, orale e caso | ✓ controlli tutti uguali | ✓ Quiz 6 e caso | ✓ fonti in riga | ✓ frontmatter |
+
+## Delta step 10 - capitolo 06
+
+| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
+| --- | --- | --- | --- | --- |
+| N-FC03-06-01 | quasi completo | Verificati principi, disciplina, ciclo, competenza e distinzioni | completo | Heading Principi e disciplina della contabilita nell'EPNE; Quiz 1 |
+| N-FC03-06-02 | quasi completo | Verificati funzione, documenti, organi e metodo di lettura | completo | Heading Bilancio preventivo, rendiconto e documenti dell'ente; Quiz 2 |
+| N-FC03-06-03 | quasi completo | Verificati fasi, controlli sul pagamento e tracciabilita | completo | Heading Entrate, spese, pagamenti e tracciabilita; Quiz 3 |
+| N-FC03-06-04 | parziale | Integrati ciclo patrimoniale, ruoli, conto e responsabilita | completo | Heading Patrimonio, inventari e agenti contabili; Quiz 4 |
+| N-FC03-06-05 | quasi completo | Verificati sistemi, controlli interni e criteri di risultato | completo | Heading Sistemi contabili e controlli interni; Quiz 5 |
+| N-FC03-06-06 | quasi completo | Verificati controlli esterni, trasparenza, caso e strumenti | completo | Heading Controlli esterni e applicazione concorsuale; Quiz 6 e caso |
+
+## Esito capitolo 06
+
+I sei nuclei presentano teoria autonoma, applicazione e verifica. Tabelle, griglie, caso e quiz applicano concetti gia spiegati e non li sostituiscono. Non risultano dimensioni applicabili vuote, rinvii generici o dati operativi non tracciati; denominazioni, attribuzioni e poteri dei singoli enti e degli organi di controllo restano subordinati all'audit specialistico dello step 15 e alle fonti ufficiali vigenti.
