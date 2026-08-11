@@ -268,9 +268,7 @@ Un allegato fotografico è presente nel fascicolo ma non ha data, didascalia né
 
 **Risposta corretta:** C. L'immagine può costituire un'evidenza utile, ma deve essere collegata a oggetto, tempo e documento. L'assenza di riferimenti ne riduce la capacità informativa e rende difficile ricostruire il ragionamento.
 
-Prima della chiusura verifica anche che il documento conclusivo richiami gli elementi realmente presenti nel fascicolo. Un richiamo errato, una versione superata o un allegato non identificato interrompono la catena fra evidenza, valutazione e proposta. La completezza non dipende dal numero di file, ma dalla loro funzione nel procedimento.
-
-La completezza non dipende dal numero dei file, ma dalla possibilità di verificarne funzione e provenienza.
+Prima della chiusura verifica anche che il documento conclusivo richiami gli elementi realmente presenti nel fascicolo. Un richiamo errato, una versione superata o un allegato non identificato interrompono la catena fra evidenza, valutazione e proposta. Un fascicolo è completo quando permette di verificare la funzione e la provenienza dei documenti, non quando contiene molti file.
 
 ## ▣ Verifica 4
 
@@ -293,13 +291,13 @@ Un medesimo fatto può essere esaminato su più piani, ma nessuna responsabilit�
 
 ### Una sequenza di analisi prudente
 
-Il primo passaggio individua il ruolo concreto, non soltanto la qualifica. Occorre capire quale attività fosse assegnata, con quali poteri, dati e limiti. Due tecnici dello stesso profilo possono avere compiti diversi; lo stesso soggetto può intervenire in fasi differenti con responsabilità distinte.
+L'analisi parte dal ruolo concreto, non soltanto dalla qualifica. Occorre capire quale attività fosse assegnata, con quali poteri, dati e limiti. Due tecnici dello stesso profilo possono avere compiti diversi; lo stesso soggetto può intervenire in fasi differenti con responsabilità distinte.
 
-Il secondo descrive la condotta: azione, omissione, controllo svolto, informazione trasmessa o decisione adottata. Formule come “ha sbagliato” sono troppo generiche. Bisogna precisare quale comportamento venga esaminato e in quale momento.
+Va poi descritta la condotta: azione, omissione, controllo svolto, informazione trasmessa o decisione adottata. Formule come “ha sbagliato” sono troppo generiche. Bisogna precisare quale comportamento venga esaminato e in quale momento.
 
-Il terzo identifica il dovere o la regola pertinente. Può derivare dalla funzione, dalla disciplina applicabile, da un incarico o dalle regole tecniche del lavoro svolto. Senza questo riferimento non si può valutare lo scostamento. Il quarto passaggio esamina elemento soggettivo e nesso secondo il tipo di responsabilità considerato; i presupposti non sono intercambiabili.
+Si identifica quindi il dovere o la regola pertinente. Può derivare dalla funzione, dalla disciplina applicabile, da un incarico o dalle regole tecniche del lavoro svolto. Senza questo riferimento non si può valutare lo scostamento. Elemento soggettivo e nesso vanno esaminati secondo il tipo di responsabilità considerato; i presupposti non sono intercambiabili.
 
-Il quinto distingue conseguenze e sedi. Un rilievo organizzativo, una contestazione disciplinare, un danno erariale, un danno civile e un fatto penalmente rilevante appartengono a piani diversi. Possono concorrere, ma non vanno sommati automaticamente. Nel dubbio, una buona risposta indica quali accertamenti servono invece di pronunciare una conclusione sommaria.
+Infine si distinguono conseguenze e sedi. Un rilievo organizzativo, una contestazione disciplinare, un danno erariale, un danno civile e un fatto penalmente rilevante appartengono a piani diversi. Possono concorrere, ma non vanno sommati automaticamente. Nel dubbio, una buona risposta indica quali accertamenti servono invece di pronunciare una conclusione sommaria.
 
 ### Errore, irregolarità e responsabilità
 
