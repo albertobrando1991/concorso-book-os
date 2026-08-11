@@ -433,3 +433,40 @@ I sei nuclei presentano teoria autonoma, applicazione e verifica. Griglie, tabel
 ## Esito capitolo 12
 
 I sei nuclei presentano teoria autonoma, applicazione e verifica. Tabelle, scenari, otto quesiti originali, caso ragionato, esercizio, diario e quiz applicano concetti gia spiegati e non li sostituiscono. Non risultano dimensioni applicabili vuote, dipendenze interne, rinvii generici o dati operativi non tracciati; framework, codice di comportamento, protezione dei dati, criteri del bando, codici integrativi, canali e procedure del singolo ente restano subordinati all'audit specialistico dello step 15 e alle fonti ufficiali vigenti.
+
+## Capitolo 13 - overlay Format 2
+
+| Nucleo ID | Famiglia/profilo | Materia | Concetto/sotto-concetti | Frequenza/peso | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa | Destinazione rinvio |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FC03-13-01 | M-FC03/tutti | Pianificazione | Bando Decoder, dati obbligatori, priorita e piano verificabile | alta | [[sources/template-bando-decoder-metodo-bando]]; [[sources/piano-studio-personale-metodo-bando]] | Cap. 13 § N-FC03-13-01 | Definisce dati, funzioni e passaggio dal bando al calendario | Mappa BANDO e tabella 30/60/90 | Orale, piano e scheda | Q:1 C:0 E:1 - Quiz 1 | completo | Audit bando e avvisi | Cap. 10 per Decoder EPNE |
+| N-FC03-13-02 | M-FC03/tutti | Primi 30 giorni | Perimetro, nucleo, richiamo attivo e ripasso distribuito | alta | [[sources/apprendimento-efficace-active-recall-ripasso-distribuito]]; [[sources/piano-studio-personale-metodo-bando]] | Cap. 13 § N-FC03-13-02 | Spiega esposizione, recupero, blocchi e controllo al giorno 30 | Settimane 1-4 | Quiz, orale e micro-caso | Q:1 C:0 E:1 - Quiz 2 | completo | n/a: metodo di studio | Cap. 10 per perimetro |
+| N-FC03-13-03 | M-FC03/tutti | Giorni 31-60 | Consolidamento, alternanza, output, misura e correzione | alta | [[sources/capitoli-21-23-corpus-moduli-piano-diario-2026-06-01]]; [[sources/piano-studio-personale-metodo-bando]] | Cap. 13 § N-FC03-13-03 | Distingue ripetizione e trasferimento e classifica le cause | Settimana tipo e tabella materia-output | Quiz, orale, caso e situazionale | Q:1 C:0 E:1 - Quiz 3 e verifica intermedia | completo | n/a: metodo di studio | Capp. 11-12 per forme di prova |
+| N-FC03-13-04 | M-FC03/tutti | Giorni 61-90 | Simulazione, progressione, diario errori e aggiornamento | alta | [[sources/simulazioni-concorsuali-metodo-bando]]; [[sources/capitoli-21-23-corpus-moduli-piano-diario-2026-06-01]] | Cap. 13 § N-FC03-13-04 | Definisce simulazione, tre esiti, errori e selezione finale | Simulazioni graduate e diario | Prova a tempo, orale, caso e situazionale | Q:1 C:0 E:1 - Quiz 4 | completo | Audit modalità della prova | Metodo BANDO per simulazioni generali |
+| N-FC03-13-05 | M-FC03/INPS-INAIL e altri EPNE | Adattamento | Delta specialistico, gerarchia bando-profilo-ente e scheda ente | alta | [[sources/m-fc03-dossier-redazionale-enti-pubblici-non-economici]]; [[sources/m-fc03-fonti-ufficiali-enti-epne-2026]] | Cap. 13 § N-FC03-13-05 | Spiega priorita differenziate, limiti e dati operativi | Output INPS, INAIL e altri EPNE | Quiz, orale, caso e scheda ente | Q:1 C:0 E:1 - Quiz 5 | completo | Audit fonti e dati ente | Capp. 3-4 e Appendice C per contenuti ente |
+| N-FC03-13-06 | M-FC03/tutti | Laboratorio | Calendario personale, ciclo di controllo, caso e diario | alta | [[sources/piano-studio-personale-metodo-bando]]; [[sources/simulazioni-concorsuali-metodo-bando]] | Cap. 13 § N-FC03-13-06 | Integra ore nette, output, controllo e modifica del piano | Caso Luca e scheda compilabile | Piano, orale, caso e autovalutazione | Q:1 C:1 E:1 - Quiz 6 e caso Luca | completo | Audit dati del bando usato |  |
+
+## Checklist dimensionale - capitolo 13
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso nella prova | Errore tipico | Verifica | Fonti | Tracciabilita |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FC03-13-01 | ✓ piano verificabile | ✓ trasformare il Decoder | ✓ Metodo BANDO ed EPNE | ✓ cinque dati e tre fasi | ✓ Decoder/piano; tempo reale/ideale | ✓ priorita motivate | ✓ mappa e tabella | ✓ orale e piano | ✓ materie tutte uguali | ✓ Quiz 1 | ✓ fonti in riga | ✓ frontmatter e riferimenti leggibili |
+| N-FC03-13-02 | ✓ recupero attivo | ✓ costruire il nucleo | ✓ giorni 1-30 | ✓ perimetro, blocchi, richiami | ✓ esposizione/recupero | ✓ passaggio selettivo al mese 2 | ✓ settimane 1-4 | ✓ quiz, orale, micro-caso | ✓ rinviare la prova | ✓ Quiz 2 | ✓ fonti in riga | ✓ frontmatter e riferimenti leggibili |
+| N-FC03-13-03 | ✓ consolidamento | ✓ trasferire il nucleo | ✓ giorni 31-60 | ✓ alternanza, misura, cause, correzione | ✓ concetto/traccia ricordata | ✓ recupero calendarizzato | ✓ settimana tipo | ✓ quattro forme di output | ✓ segnare solo sbagliato | ✓ Quiz 3 e verifica intermedia | ✓ fonti in riga | ✓ frontmatter e riferimenti leggibili |
+| N-FC03-13-04 | ✓ simulazione completa | ✓ misurare e decidere | ✓ giorni 61-90 | ✓ vincoli, progressione, tre esiti, diario | ✓ esercitazione/simulazione | ✓ taglio dei marginali | ✓ tabella simulazioni | ✓ prove a tempo e orale | ✓ aggiungere materiali | ✓ Quiz 4 | ✓ fonti in riga | ✓ frontmatter e riferimenti leggibili |
+| N-FC03-13-05 | ✓ delta specialistico | ✓ adattare senza duplicare | ✓ INPS, INAIL e altri EPNE | ✓ bando, profilo, ente, peso, scheda | ✓ comune/delta; stabile/operativo | ✓ piano trasferibile | ✓ tre percorsi ente | ✓ quiz, orale e caso | ✓ dedurre dal nome ente | ✓ Quiz 5 | ✓ fonti in riga | ✓ frontmatter e riferimenti leggibili |
+| N-FC03-13-06 | ✓ laboratorio | ✓ chiudere il ciclo | ✓ piano personale | ✓ ore, output, controllo, diario | ✓ archivio/strumento | ✓ modifica della settimana | ✓ caso Luca | ✓ piano, orale e caso | ✓ piano per sole materie | ✓ Quiz 6, caso e autovalutazione | ✓ fonti in riga | ✓ frontmatter e riferimenti leggibili |
+
+## Delta step 10 - capitolo 13
+
+| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
+| --- | --- | --- | --- | --- |
+| N-FC03-13-01 | parziale | Esplicitate funzioni di Decoder e piano, priorita e conseguenze | completo | Heading Dal Bando Decoder al piano verificabile; Quiz 1 |
+| N-FC03-13-02 | parziale | Integrate esposizione, recupero, forme di prova ed errore | completo | Heading Giorni 1-30; Quiz 2 |
+| N-FC03-13-03 | parziale | Integrati trasferimento, misura, cause e controllo al giorno 60 | completo | Heading Giorni 31-60; Quiz 3 e verifica intermedia |
+| N-FC03-13-04 | parziale | Distinte esercitazione e simulazione; chiariti progressione e taglio | completo | Heading Giorni 61-90; Quiz 4 |
+| N-FC03-13-05 | parziale | Definiti delta, scheda ente, limiti e uso nelle prove | completo | Heading Adattare il piano; Quiz 5 |
+| N-FC03-13-06 | quasi completo | Verificati ciclo di controllo, caso, esercizio, quiz e autovalutazione | completo | Heading Laboratorio; Quiz 6 e caso Luca |
+
+## Esito capitolo 13
+
+I sei nuclei presentano teoria autonoma, applicazione e verifica e superano la soglia dimensionale prevista. Tabelle, calendario, caso ragionato, esercizio, diario e quiz applicano concetti gia spiegati e non li sostituiscono. Non risultano dimensioni applicabili vuote, dipendenze interne, rinvii generici o dati operativi non tracciati; bando, allegati, avvisi, modalità delle prove e informazioni del singolo ente restano subordinati all'audit specialistico dello step 15 e alle fonti ufficiali vigenti.

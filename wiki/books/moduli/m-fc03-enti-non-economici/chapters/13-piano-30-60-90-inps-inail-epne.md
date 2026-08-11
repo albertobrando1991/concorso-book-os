@@ -95,6 +95,12 @@ Un calendario è verificabile quando collega tempo, contenuto e prestazione. Scr
 
 La programmazione deve partire dal tempo reale, non da quello ideale. Calcola le ore nette disponibili in una settimana ordinaria, sottrai un margine per imprevisti e assegna prima gli output indispensabili. Se lavori, hai carichi familiari o studi più concorsi, è preferibile un ciclo breve completato a un programma esteso che accumula arretrati. Il piano va inoltre rivisto ogni sette giorni: gli errori emersi, le prestazioni registrate e gli eventuali avvisi ufficiali possono cambiare le priorità.
 
+Il Bando Decoder e il piano svolgono funzioni diverse. Il primo fotografa il concorso: raccoglie fonti, profilo, prove, materie e vincoli. Il secondo trasforma quella fotografia in una sequenza di lavoro. Confonderli porta a due errori opposti: compilare una scheda accurata senza decidere che cosa fare, oppure costruire un calendario preciso su un perimetro non verificato. Il passaggio corretto assegna a ogni dato del Decoder una conseguenza: una prova determina un allenamento, una materia determina uno o più nuclei, una soglia influenza la strategia, un canale ufficiale determina quando controllare gli aggiornamenti.
+
+Anche la priorità deve essere motivata. Non coincide automaticamente con la materia più ampia o più difficile: nasce dall'incrocio tra peso nel programma, frequenza nelle prove, trasferibilità ad altri argomenti e debolezza personale. In sede d'esame questa impostazione aiuta a spiegare non soltanto che cosa si è studiato, ma perché il piano è coerente con il profilo. L'errore tipico è trattare tutte le materie allo stesso modo, producendo un calendario formalmente equilibrato ma incapace di proteggere i nuclei più selettivi.
+
+La verifica iniziale si chiude con una decisione scritta per ciascun nucleo: iniziare, mantenere, rinviare oppure escludere. La decisione indica anche l'output e la data del primo controllo. In questo modo il calendario conserva il legame con la fonte e può essere corretto senza essere ricostruito da capo.
+
 ## N-FC03-13-02 · Giorni 1-30: perimetro, nuclei e prime prove
 
 Nei primi 30 giorni il candidato deve mettere ordine. La priorità è capire il concorso, non leggere tutto.
@@ -135,6 +141,12 @@ Il primo mese deve anche introdurre il richiamo attivo. Dopo una sessione, chiud
 
 La verifica al giorno 30 non domanda quante pagine siano state percorse. Controlla se il perimetro coincide ancora con il bando, se i nuclei prioritari sono richiamabili senza appunti e se ciascuna materia ha prodotto almeno una prestazione. Un nucleo fragile resta nel ciclo successivo; uno stabile passa a richiami più distanziati. In questo modo il secondo mese non ricomincia da zero e non trascina lacune invisibili.
 
+La distinzione decisiva è tra esposizione e recupero. Durante l'esposizione il contenuto è davanti al candidato e può sembrare familiare; nel recupero, invece, deve essere ricostruito senza aiuti. È questa seconda operazione a mostrare se definizioni e collegamenti sono disponibili per la prova. Perciò un richiamo breve ma corretto vale più di una rilettura lunga non verificata.
+
+Nei quiz, il primo mese serve a riconoscere le alternative plausibili e a spiegare perché le altre non reggono. Nell'orale, serve a costruire risposte brevi con apertura, sviluppo e collegamento al profilo EPNE. Nei casi, basta iniziare con micro-situazioni, purché la correzione distingua fatto, regola e azione. L'errore da evitare è rimandare ogni prestazione a quando la teoria sarà «finita»: la prova precoce è proprio lo strumento che rivela quale teoria non è ancora stabile.
+
+Il risultato della prova precoce orienta già il ripasso successivo e rende visibile la prima variazione del calendario.
+
 ## N-FC03-13-03 · Giorni 31-60: consolidare e trasformare in prova
 
 La seconda fase cambia ritmo. Se nei primi 30 giorni hai costruito la mappa, nei successivi 30 devi verificare se sai usarla.
@@ -174,6 +186,16 @@ Una materia è davvero studiata quando sai riconoscerla, spiegarla e applicarla.
 Nel secondo mese aumenta l'interferenza utile tra argomenti. Una sessione può alternare procedimento, privacy e servizio dell'ente perché anche la prova chiede di distinguere regole vicine e scegliere quella pertinente. L'alternanza non deve però diventare dispersione: ogni blocco parte da una domanda precisa e termina con correzione, classificazione dell'errore e decisione sul ripasso.
 
 La correzione è parte dell'allenamento. Per ogni risposta debole individua se è mancata la conoscenza, il riconoscimento della domanda, la gestione del tempo o l'applicazione della regola. A cause diverse corrispondono rimedi diversi: ristudiare una fonte, costruire una tabella di confronto, svolgere esercizi a tempo oppure riscrivere un caso. Limitarsi a segnare «sbagliato» impedisce al diario di guidare il piano.
+
+Consolidare non significa ripetere lo stesso esercizio fino a ricordarne la soluzione. Significa riuscire a usare il nucleo in contesti e formulazioni diverse. Una definizione può comparire come domanda diretta, alternativa insidiosa, premessa di un caso o collegamento orale. Per questo la settimana alterna forme di output: il cambio di formato verifica se il candidato possiede il concetto oppure soltanto la traccia dell'esercizio già visto.
+
+La misura del progresso deve restare confrontabile. Registra almeno data, tipo di prova, tempo, risultato, causa prevalente degli errori e decisione successiva. Non occorre costruire statistiche elaborate: basta poter riconoscere se l'errore diminuisce, cambia forma o ritorna dopo alcuni giorni. In sede di prova, questa disciplina produce una conseguenza concreta: il candidato sa distribuire il tempo e riconoscere quando una domanda richiede conoscenza, applicazione o scelta comportamentale.
+
+Il controllo al giorno 60 chiude il consolidamento solo quando ogni errore ricorrente ha una causa riconosciuta e un'attività di recupero già calendarizzata.
+
+Confronta inoltre prestazioni dello stesso tipo svolte a distanza: un miglioramento isolato può dipendere dalla familiarità con le domande, mentre risultati ripetuti su tracce nuove mostrano un apprendimento più stabile. Se tempo e accuratezza si muovono in direzioni opposte, individua quale vincolo conta nella prova e costruisci una sessione mirata.
+
+Annota infine se il recupero ha funzionato: una correzione efficace deve produrre un risultato migliore su una traccia diversa, non soltanto sulla domanda già conosciuta.
 
 ## ▣ Verifica intermedia — Dal programma alla prestazione
 
@@ -220,6 +242,12 @@ Una simulazione utile genera sempre tre risultati: una misura della prestazione,
 
 La progressione evita di attendere l'ultima settimana per scoprire difficoltà strutturali. Si parte da prove brevi su un nucleo, si passa a batterie per materia, poi a prove miste e infine a simulazioni complete nelle condizioni previste. Dopo ogni prova va programmata la correzione: senza quel tempo, ripetere esercizi può consolidare strategie inefficienti. Anche il controllo degli avvisi deve avere una frequenza definita, così non interrompe continuamente lo studio.
 
+La simulazione completa si distingue dall'esercitazione perché riproduce vincoli significativi della prova: durata, numero e varietà dei quesiti, ordine delle attività, strumenti consentiti e assenza di interruzioni. Non deve però essere una copia immaginaria del concorso. Se un dettaglio non è stabilito dal bando o dagli avvisi, resta un'ipotesi di allenamento e non diventa una regola.
+
+Negli ultimi trenta giorni il taglio dei contenuti marginali è una scelta metodica, non una rinuncia casuale. Conserva ciò che ha alta resa, recupera gli errori ricorrenti e limita le nuove acquisizioni a quanto imposto da un aggiornamento ufficiale o da una lacuna realmente bloccante. L'errore tipico è reagire a un risultato debole aumentando indiscriminatamente i materiali: così cresce il carico, mentre diminuisce il tempo destinato a correzione e richiamo.
+
+Programma anche il recupero dopo ogni prova completa. Separare esecuzione, correzione e nuovo tentativo rende confrontabili i risultati e impedisce che la pressione dell'ultima fase trasformi il piano in una successione disordinata di test senza decisioni.
+
 ## N-FC03-13-05 · Adattare il piano a INPS, INAIL e altri EPNE
 
 Il piano 30/60/90 ha una struttura comune, ma il contenuto cambia.
@@ -260,6 +288,14 @@ Output ad alta resa:
 L'adattamento corretto segue una gerarchia. Prima vengono le prescrizioni del bando e degli allegati; poi il profilo professionale e la forma delle prove; infine le caratteristiche dell'ente. Il nome dell'amministrazione non autorizza ad aggiungere indiscriminatamente tutto ciò che la riguarda. Una materia entra nel piano se è richiesta, se chiarisce un nucleo richiesto o se serve a produrre la prestazione attesa.
 
 Per distribuire il tempo, assegna un peso a ciascun nucleo considerando presenza nel programma, probabilità di utilizzo trasversale, debolezza personale e costo di recupero. Il peso cambia dopo quiz e simulazioni. Questa regola permette a due candidati allo stesso concorso di avere piani diversi senza perdere aderenza al bando. Occorre infine distinguere il nucleo stabile dai dati operativi: calendari, posti, istruzioni e modalità puntuali richiedono sempre il controllo della fonte ufficiale aggiornata.
+
+Il delta specialistico è la parte che cambia rispetto al nucleo comune del Metodo BANDO. Per INPS può richiedere lessico previdenziale e situazioni con utenti e prestazioni; per INAIL, relazioni tra assicurazione, prevenzione ed eventi lavorativi; per un altro EPNE, funzioni istituzionali e servizi coerenti con il profilo. Il delta non sostituisce amministrativo, pubblico impiego, privacy o le altre materie comuni previste: le integra nel contesto dell'ente.
+
+La scheda ente deve rimanere selettiva. Contiene funzioni rilevanti, destinatari dei servizi, documenti istituzionali utili, lessico ricorrente e possibili collegamenti con la prova. Non deve trasformarsi in una raccolta di organigrammi, dati storici o dettagli operativi privi di relazione con il programma. La conseguenza pratica è un piano più leggero e trasferibile: quando cambia il concorso, il candidato conserva il metodo e sostituisce soltanto il delta necessario.
+
+In un quesito orale, l'adattamento si dimostra spiegando la scelta delle priorità; in un caso, usando correttamente il contesto senza inventare poteri o procedure; nei quiz, distinguendo istituti simili. L'errore tipico è dedurre dal nome dell'ente tutto ciò che potrebbe essere chiesto. Il criterio corretto resta documentale: prima il bando, poi il profilo e le fonti istituzionali pertinenti.
+
+Ogni aggiunta al delta deve poter indicare quale esigenza documentata della prova soddisfa e quale output permette di allenare.
 
 ## N-FC03-13-06 · Laboratorio: piano personale, caso e ciclo di controllo
 
@@ -344,39 +380,38 @@ Per adattare il piano a una procedura concreta consulta sempre il bando, gli all
 
 A. Un calendario online. B. Il bando ufficiale con allegati e avvisi. C. L'indice del manuale. D. Una batteria generica.
 
-**Risposta commentata:** B. Il bando definisce profilo, prove, materie e vincoli; gli altri strumenti intervengono dopo la ricostruzione del perimetro ufficiale.
+**Risposta corretta: B.** Il bando definisce profilo, prove, materie e vincoli; gli altri strumenti intervengono dopo la ricostruzione del perimetro ufficiale.
 
 **2. Quando un blocco di studio è verificabile?**
 
 A. Quando dura due ore. B. Quando contiene molte pagine. C. Quando produce un risultato osservabile e una correzione. D. Quando non prevede pause.
 
-**Risposta commentata:** C. Una scheda ricostruita, una risposta orale, un caso o una batteria corretta consentono di valutare l'apprendimento.
+**Risposta corretta: C.** Una scheda ricostruita, una risposta orale, un caso o una batteria corretta consentono di valutare l'apprendimento.
 
 **3. Qual è la funzione principale dei giorni 31-60?**
 
 A. Rileggere tutto. B. Trasformare i nuclei nelle forme richieste dalla prova. C. Sospendere i quiz. D. Studiare soltanto l'ente.
 
-**Risposta commentata:** B. La seconda fase consolida attraverso quiz, orale, casi e situazionali, usando la correzione per decidere i ripassi.
+**Risposta corretta: B.** La seconda fase consolida attraverso quiz, orale, casi e situazionali, usando la correzione per decidere i ripassi.
 
 **4. Che cosa deve generare una simulazione?**
 
 A. Soltanto un punteggio. B. Un confronto sociale. C. Punteggio, diagnosi dell'errore e decisione di studio. D. Nuovi materiali.
 
-**Risposta commentata:** C. La misura descrive la prestazione, la diagnosi individua la causa e la decisione modifica il piano.
+**Risposta corretta: C.** La misura descrive la prestazione, la diagnosi individua la causa e la decisione modifica il piano.
 
 **5. Come si differenzia il piano tra INPS, INAIL e altri EPNE?**
 
 A. Cambiando metodo. B. Studiando tutto sull'ente. C. Adattando priorità e output a bando, profilo e prove. D. Eliminando le materie comuni.
 
-**Risposta commentata:** C. Il metodo resta stabile; cambiano il peso dei nuclei e le prestazioni da allenare.
+**Risposta corretta: C.** Il metodo resta stabile; cambiano il peso dei nuclei e le prestazioni da allenare.
 
 **6. Quale annotazione rende utile il diario errori?**
 
 A. «Ripassare meglio». B. «Sono andato male». C. «Entro venerdì ricostruisco la mappa e svolgo un caso». D. «Leggere altro».
 
-**Risposta commentata:** C. L'annotazione identifica azione, scadenza e output verificabile, trasformando l'errore in una decisione.
+**Risposta corretta: C.** L'annotazione identifica azione, scadenza e output verificabile, trasformando l'errore in una decisione.
 
 ### Autovalutazione
 
 Hai raggiunto l'obiettivo se sai ricavare dal bando un calendario sostenibile, associare ogni nucleo a una prestazione, classificare gli errori e modificare il ciclo successivo. Se un'operazione resta generica, riprendi il nucleo corrispondente e produci un output entro la settimana.
-
