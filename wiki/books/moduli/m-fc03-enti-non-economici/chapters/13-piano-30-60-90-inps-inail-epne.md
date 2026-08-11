@@ -6,7 +6,7 @@ status: revised_draft
 domain: "concorsi pubblici italiani"
 topics: ["piano di studio","diario errori","metodo bando","enti pubblici non economici","bandi concorso"]
 entities: ["Metodo BANDO","INPS","INAIL","Enti pubblici non economici","inPA","Formez"]
-source_refs: ["sources/m-fc03-dossier-redazionale-enti-pubblici-non-economici.md","sources/m-fc03-portali-bandi-concorsi-2023-2026.md","sources/m-fc03-fonti-ufficiali-enti-epne-2026.md","topics/enti-pubblici-non-economici-concorsi.md"]
+source_refs: ["sources/m-fc03-dossier-redazionale-enti-pubblici-non-economici.md","sources/m-fc03-portali-bandi-concorsi-2023-2026.md","sources/m-fc03-fonti-ufficiali-enti-epne-2026.md","sources/capitoli-21-23-corpus-moduli-piano-diario-2026-06-01.md","sources/piano-studio-personale-metodo-bando.md","sources/apprendimento-efficace-active-recall-ripasso-distribuito.md","sources/simulazioni-concorsuali-metodo-bando.md","sources/template-bando-decoder-metodo-bando.md"]
 book_refs: ["m-fc03-enti-non-economici","il-metodo-bando"]
 confidence: 0.85
 updated_at: 2026-07-08T20:45:00+02:00
@@ -16,16 +16,18 @@ canonical: true
 tags: ["book-chapter","module-code-m-fc03","professional-draft","study-plan"]
 book_id: m-fc03-enti-non-economici
 outline_section: 13
-draft_stage: professional-draft
+draft_stage: step-09-format-2
 module_code: M-FC03
 module_family: funzioni-centrali
-last_compiled_from: ["wiki/books/moduli/m-fc03-enti-non-economici/planning/00-piano-editoriale.md","wiki/books/moduli/m-fc03-enti-non-economici/planning/01-matrice-copertura-materie.md","wiki/books/moduli/m-fc03-enti-non-economici/chapters/10-bando-decoder-epne.md","wiki/books/moduli/m-fc03-enti-non-economici/chapters/11-casi-pratici-epne.md","wiki/sources/m-fc03-dossier-redazionale-enti-pubblici-non-economici.md","wiki/sources/m-fc03-portali-bandi-concorsi-2023-2026.md","wiki/sources/m-fc03-fonti-ufficiali-enti-epne-2026.md","wiki/topics/enti-pubblici-non-economici-concorsi.md","wiki/memory/agent/l1/atoms.jsonl"]
+companion_to: il-metodo-bando
+format_version: 2
+dati_operativi: []
+nuclei_ids: ["N-FC03-13-01","N-FC03-13-02","N-FC03-13-03","N-FC03-13-04","N-FC03-13-05","N-FC03-13-06"]
+last_compiled_from: ["wiki/books/moduli/m-fc03-enti-non-economici/planning/00-piano-editoriale.md","wiki/books/moduli/m-fc03-enti-non-economici/planning/01-matrice-copertura-materie.md","wiki/books/moduli/m-fc03-enti-non-economici/chapters/10-bando-decoder-epne.md","wiki/books/moduli/m-fc03-enti-non-economici/chapters/11-casi-pratici-epne.md","wiki/sources/m-fc03-dossier-redazionale-enti-pubblici-non-economici.md","wiki/sources/m-fc03-portali-bandi-concorsi-2023-2026.md","wiki/sources/m-fc03-fonti-ufficiali-enti-epne-2026.md","wiki/sources/capitoli-21-23-corpus-moduli-piano-diario-2026-06-01.md","wiki/sources/piano-studio-personale-metodo-bando.md","wiki/sources/apprendimento-efficace-active-recall-ripasso-distribuito.md","wiki/sources/simulazioni-concorsuali-metodo-bando.md","wiki/sources/template-bando-decoder-metodo-bando.md","wiki/memory/agent/l1/atoms.jsonl"]
 ---
 # Piano 30/60/90 per INPS, INAIL ed EPNE
 
-## Testo editoriale
-
-### Apertura editoriale
+## Apertura editoriale
 
 Il piano 30/60/90 è il punto in cui il modulo M-FC03 diventa calendario, scelta e controllo. Dopo aver letto il bando, distinto ente e profilo, separato materie comuni e materie EPNE, il candidato deve decidere che cosa studiare prima, che cosa rinviare, che cosa allenare e che cosa verificare ogni settimana.
 
@@ -37,7 +39,7 @@ La domanda guida è:
 
 > sto trasformando il bando EPNE in studio, prove e diario errori, oppure sto soltanto accumulando materiale?
 
-### Obiettivo del blocco
+### Obiettivo del capitolo
 
 Alla fine del capitolo devi saper fare cinque cose:
 
@@ -60,6 +62,8 @@ Il risultato atteso non è un calendario pieno. È un sistema di controllo: sai 
 | O - Output | Che cosa produco ogni settimana? | Simulazioni, risposte orali, casi, situazionali, schede ente. |
 
 La regola è semplice: nel Metodo BANDO un piano è valido solo se produce output controllabili.
+
+## N-FC03-13-01 · Dal Bando Decoder al piano verificabile
 
 ### Prima del giorno 1: i cinque dati obbligatori
 
@@ -87,7 +91,11 @@ Il piano si divide in tre fasi. Ogni fase ha una funzione diversa.
 
 La fase 1 non deve diventare lettura infinita. La fase 2 non deve restare ripasso passivo. La fase 3 non deve essere solo ansia da ultime settimane. Ogni fase deve chiudersi con un controllo.
 
-### Giorni 1-30: perimetro, nucleo e prime prove
+Un calendario è verificabile quando collega tempo, contenuto e prestazione. Scrivere «studiare previdenza» non consente di capire se il lavoro sia stato svolto; scrivere «ricostruire senza appunti la differenza tra funzione previdenziale e assicurativa, correggere la risposta e fissare il ripasso» produce invece una traccia osservabile. Questa differenza protegge da due illusioni frequenti: confondere le ore trascorse sui materiali con l'apprendimento e considerare concluso un argomento solo perché è stato letto.
+
+La programmazione deve partire dal tempo reale, non da quello ideale. Calcola le ore nette disponibili in una settimana ordinaria, sottrai un margine per imprevisti e assegna prima gli output indispensabili. Se lavori, hai carichi familiari o studi più concorsi, è preferibile un ciclo breve completato a un programma esteso che accumula arretrati. Il piano va inoltre rivisto ogni sette giorni: gli errori emersi, le prestazioni registrate e gli eventuali avvisi ufficiali possono cambiare le priorità.
+
+## N-FC03-13-02 · Giorni 1-30: perimetro, nuclei e prime prove
 
 Nei primi 30 giorni il candidato deve mettere ordine. La priorità è capire il concorso, non leggere tutto.
 
@@ -123,7 +131,11 @@ Ogni settimana deve contenere quattro blocchi:
 
 Il punto non è fare tutto ogni giorno. Il punto è non lasciare mai una materia senza output.
 
-### Giorni 31-60: consolidamento e trasformazione in prova
+Il primo mese deve anche introdurre il richiamo attivo. Dopo una sessione, chiudi le fonti e prova a ricostruire definizione, funzione, soggetti e collegamenti. Solo dopo confronta la risposta con il materiale e annota ciò che manca. Il ripasso va distribuito: uno stesso nucleo ritorna a distanza crescente, con intervalli adattati agli errori. Leggere e sottolineare possono aiutare l'orientamento, ma non sostituiscono la prova di recupero dalla memoria.
+
+La verifica al giorno 30 non domanda quante pagine siano state percorse. Controlla se il perimetro coincide ancora con il bando, se i nuclei prioritari sono richiamabili senza appunti e se ciascuna materia ha prodotto almeno una prestazione. Un nucleo fragile resta nel ciclo successivo; uno stabile passa a richiami più distanziati. In questo modo il secondo mese non ricomincia da zero e non trascina lacune invisibili.
+
+## N-FC03-13-03 · Giorni 31-60: consolidare e trasformare in prova
 
 La seconda fase cambia ritmo. Se nei primi 30 giorni hai costruito la mappa, nei successivi 30 devi verificare se sai usarla.
 
@@ -159,7 +171,15 @@ La domanda da farti è sempre: in che forma questa materia può uscire?
 
 Una materia è davvero studiata quando sai riconoscerla, spiegarla e applicarla.
 
-### Giorni 61-90: simulazione, correzione e aggiornamento
+Nel secondo mese aumenta l'interferenza utile tra argomenti. Una sessione può alternare procedimento, privacy e servizio dell'ente perché anche la prova chiede di distinguere regole vicine e scegliere quella pertinente. L'alternanza non deve però diventare dispersione: ogni blocco parte da una domanda precisa e termina con correzione, classificazione dell'errore e decisione sul ripasso.
+
+La correzione è parte dell'allenamento. Per ogni risposta debole individua se è mancata la conoscenza, il riconoscimento della domanda, la gestione del tempo o l'applicazione della regola. A cause diverse corrispondono rimedi diversi: ristudiare una fonte, costruire una tabella di confronto, svolgere esercizi a tempo oppure riscrivere un caso. Limitarsi a segnare «sbagliato» impedisce al diario di guidare il piano.
+
+## ▣ Verifica intermedia — Dal programma alla prestazione
+
+Senza consultare gli appunti, scegli tre materie del bando e indica per ciascuna: un nucleo essenziale, una forma di prova plausibile, un output già prodotto e l'errore che vuoi ridurre. Se non riesci a compilare una delle quattro voci, la materia non è ancora consolidata: riportala nella settimana successiva con un'attività osservabile.
+
+## N-FC03-13-04 · Giorni 61-90: simulare, correggere e aggiornare
 
 Negli ultimi 30 giorni il piano deve diventare selettivo. Non si apre una nuova enciclopedia. Si chiudono lacune, si simulano prove, si correggono errori ricorrenti e si controllano gli avvisi.
 
@@ -196,7 +216,11 @@ Il diario errori del modulo M-FC03 non è solo una lista di quiz sbagliati. Deve
 
 Ogni errore deve avere una riga di recupero. Una riga utile non dice "ripassare INAIL". Dice: "entro venerdi riscrivere mappa evento lavorativo - assicurazione - prevenzione - prestazione e fare un caso in 20 righe".
 
-### Piano differenziato: INPS, INAIL, altri EPNE
+Una simulazione utile genera sempre tre risultati: una misura della prestazione, una diagnosi degli errori e una decisione di studio. Il punteggio da solo non basta, perché due risultati identici possono nascondere problemi opposti. Chi perde punti per lentezza deve allenare selezione e tempi; chi sbaglia il perimetro deve tornare alle fonti; chi conosce la regola ma non la applica deve lavorare su casi e situazionali.
+
+La progressione evita di attendere l'ultima settimana per scoprire difficoltà strutturali. Si parte da prove brevi su un nucleo, si passa a batterie per materia, poi a prove miste e infine a simulazioni complete nelle condizioni previste. Dopo ogni prova va programmata la correzione: senza quel tempo, ripetere esercizi può consolidare strategie inefficienti. Anche il controllo degli avvisi deve avere una frequenza definita, così non interrompe continuamente lo studio.
+
+## N-FC03-13-05 · Adattare il piano a INPS, INAIL e altri EPNE
 
 Il piano 30/60/90 ha una struttura comune, ma il contenuto cambia.
 
@@ -232,6 +256,16 @@ Output ad alta resa:
 - tre domande orali su funzioni e organizzazione;
 - un caso su rapporto con utente, impresa o servizio;
 - elenco dati da verificare prima della pubblicazione o della prova.
+
+L'adattamento corretto segue una gerarchia. Prima vengono le prescrizioni del bando e degli allegati; poi il profilo professionale e la forma delle prove; infine le caratteristiche dell'ente. Il nome dell'amministrazione non autorizza ad aggiungere indiscriminatamente tutto ciò che la riguarda. Una materia entra nel piano se è richiesta, se chiarisce un nucleo richiesto o se serve a produrre la prestazione attesa.
+
+Per distribuire il tempo, assegna un peso a ciascun nucleo considerando presenza nel programma, probabilità di utilizzo trasversale, debolezza personale e costo di recupero. Il peso cambia dopo quiz e simulazioni. Questa regola permette a due candidati allo stesso concorso di avere piani diversi senza perdere aderenza al bando. Occorre infine distinguere il nucleo stabile dai dati operativi: calendari, posti, istruzioni e modalità puntuali richiedono sempre il controllo della fonte ufficiale aggiornata.
+
+## N-FC03-13-06 · Laboratorio: piano personale, caso e ciclo di controllo
+
+Il laboratorio traduce il modello nel tuo calendario. Parti dalle ore nette disponibili e costruisci una settimana sostenibile, nella quale siano riconoscibili studio mirato, richiamo senza appunti, prova, correzione e aggiornamento. Ogni blocco deve indicare un risultato: una scheda, una risposta registrata, una batteria corretta, un caso o una decisione tratta dal diario.
+
+Il ciclo di controllo settimanale comprende quattro domande. Ho rispettato il perimetro del bando? Quali nuclei riesco a recuperare senza aiuti? Quali errori si sono ripetuti? Quale modifica concreta applico alla settimana seguente? La risposta deve produrre una scelta. Se il diario non modifica mai il piano, è un archivio, non uno strumento di apprendimento.
 
 ### Da sapere in 5 righe
 
@@ -300,28 +334,49 @@ Compila questa scheda usando un bando EPNE reale o simulato.
 
 Poi scrivi una settimana tipo con massimo sei blocchi. Se inserisci più di sei blocchi, probabilmente stai progettando un piano che non reggera'.
 
-### Riferimenti consolidati
+### Riferimenti professionali essenziali
 
-- [[sources/m-fc03-dossier-redazionale-enti-pubblici-non-economici]]
-- [[sources/m-fc03-portali-bandi-concorsi-2023-2026]]
-- [[sources/m-fc03-fonti-ufficiali-enti-epne-2026]]
-- [[topics/enti-pubblici-non-economici-concorsi]]
-- [[books/moduli/m-fc03-enti-non-economici/planning/00-piano-editoriale]]
-- [[books/moduli/m-fc03-enti-non-economici/planning/01-matrice-copertura-materie]]
-- [[books/moduli/m-fc03-enti-non-economici/chapters/10-bando-decoder-epne]]
-- [[books/moduli/m-fc03-enti-non-economici/chapters/11-casi-pratici-epne]]
-- [[books/il-metodo-bando/chapters/metodo-di-studio-per-concorsi]]
-- [[books/il-metodo-bando/chapters/scegliere-moduli-integrativi]]
-- [[books/il-metodo-bando/chapters/diario-degli-errori]]
+Per adattare il piano a una procedura concreta consulta sempre il bando, gli allegati, gli avvisi su inPA e il sito istituzionale dell'ente. Registra la data di consultazione dei dati variabili e non trasferire automaticamente requisiti o prove da un concorso a un altro.
 
-### Note di review
+## ▣ Verifica finale — Piano 30/60/90 EPNE
 
-- Il capitolo usa il piano 30/60/90 come metodo operativo, non come calendario valido per ogni procedura: prima della pubblicazione legata a un concorso specifico verificare bando, allegati, prove, soglie, calendari e avvisi ufficiali.
-- Non sono stati inseriti dati numerici instabili su posti, scadenze, calendari o prove future; eventuali esempi puntuali richiederanno source note dedicata.
-- Per capitoli o appendici su profili INPS-INAIL ispettivi, assistente sociale, ricerca, tecnologia o ICT, coordinare il piano con Appendice A, Appendice E, Appendice F o con i moduli specialistici pertinenti.
-- Le pagine istituzionali, PIAO, bilanci, statuti, regolamenti e carte dei servizi vanno ricontrollati alla data di pubblicazione se diventano oggetto di esempi specifici.
-- La memoria locale è stata richiamata come supporto operativo; i claim editoriali restano fondati su source notes, topic pages, piano e matrice consolidati.
+**1. Qual è il primo documento che determina il piano?**
 
+A. Un calendario online. B. Il bando ufficiale con allegati e avvisi. C. L'indice del manuale. D. Una batteria generica.
 
+**Risposta commentata:** B. Il bando definisce profilo, prove, materie e vincoli; gli altri strumenti intervengono dopo la ricostruzione del perimetro ufficiale.
 
+**2. Quando un blocco di studio è verificabile?**
+
+A. Quando dura due ore. B. Quando contiene molte pagine. C. Quando produce un risultato osservabile e una correzione. D. Quando non prevede pause.
+
+**Risposta commentata:** C. Una scheda ricostruita, una risposta orale, un caso o una batteria corretta consentono di valutare l'apprendimento.
+
+**3. Qual è la funzione principale dei giorni 31-60?**
+
+A. Rileggere tutto. B. Trasformare i nuclei nelle forme richieste dalla prova. C. Sospendere i quiz. D. Studiare soltanto l'ente.
+
+**Risposta commentata:** B. La seconda fase consolida attraverso quiz, orale, casi e situazionali, usando la correzione per decidere i ripassi.
+
+**4. Che cosa deve generare una simulazione?**
+
+A. Soltanto un punteggio. B. Un confronto sociale. C. Punteggio, diagnosi dell'errore e decisione di studio. D. Nuovi materiali.
+
+**Risposta commentata:** C. La misura descrive la prestazione, la diagnosi individua la causa e la decisione modifica il piano.
+
+**5. Come si differenzia il piano tra INPS, INAIL e altri EPNE?**
+
+A. Cambiando metodo. B. Studiando tutto sull'ente. C. Adattando priorità e output a bando, profilo e prove. D. Eliminando le materie comuni.
+
+**Risposta commentata:** C. Il metodo resta stabile; cambiano il peso dei nuclei e le prestazioni da allenare.
+
+**6. Quale annotazione rende utile il diario errori?**
+
+A. «Ripassare meglio». B. «Sono andato male». C. «Entro venerdì ricostruisco la mappa e svolgo un caso». D. «Leggere altro».
+
+**Risposta commentata:** C. L'annotazione identifica azione, scadenza e output verificabile, trasformando l'errore in una decisione.
+
+### Autovalutazione
+
+Hai raggiunto l'obiettivo se sai ricavare dal bando un calendario sostenibile, associare ogni nucleo a una prestazione, classificare gli errori e modificare il ciclo successivo. Se un'operazione resta generica, riprendi il nucleo corrispondente e produci un output entro la settimana.
 
