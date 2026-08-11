@@ -1,96 +1,80 @@
-# Piano di completamento — Capitolo 03
+# Piano di completamento Format 2 — Capitolo 03
 
-## Target
+## Target e risultato atteso
 
-`chapters/03-scienza-tecnica-costruzioni.md`
+- Capitolo: `chapters/03-scienza-tecnica-costruzioni.md`.
+- Formato: 2.
+- Obiettivo: fornire il lessico e il percorso logico per leggere qualitativamente un problema strutturale, senza anticipare prescrizioni NTC o produrre calcoli riferibili a opere reali.
+- Budget: 4.100-4.800 parole; sei nuclei da 600-800 parole; almeno sei quiz commentati; un caso ragionato; verifiche di prossimità dopo ciascun nucleo.
+
+## Base documentale consolidata
+
+- [[sources/scienza-tecnica-costruzioni-fonti-universitarie]];
+- [[topics/scienza-tecnica-costruzioni]];
+- [[sources/campione-bandi-tecnici-pa-vol-10-2026]];
+- [[sources/modulo-m-tr03-tecnico-ingegneristico-vol-10]];
+- [[books/moduli/m-tr03-tecnico-ingegneristico/planning/02-matrice-copertura-didattica]];
+- [[books/moduli/m-tr03-tecnico-ingegneristico/planning/13-bibbia-del-modulo]].
+
+La source note universitaria consolida il perimetro disciplinare e consente la trattazione qualitativa. Non autorizza formule isolate, verifiche di opere reali o una profondità uniforme per tutti i bandi.
 
 ## Nuclei assegnati
 
-- funzione della scienza e della tecnica delle costruzioni nel progetto e nella verifica;
-- modello strutturale, vincoli, azioni, reazioni ed equilibrio;
-- sollecitazioni e stati di tensione/deformazione;
-- proprietà meccaniche essenziali dei materiali;
-- resistenza, rigidezza, stabilità, duttilità e durabilità;
-- differenza tra schema statico, modello di calcolo e struttura reale;
-- lettura qualitativa del comportamento di travi, pilastri, telai e sistemi portanti;
-- collegamento con NTC, sismica e geotecnica del capitolo 4;
-- output: schema orale, quiz tecnico e caso qualitativo.
+| Nucleo ID | Titolo previsto | Copertura | Applicazione e verifica | Budget |
+| --- | --- | --- | --- | ---: |
+| `N-TR03-03-01` | Dalla struttura reale al modello | scopo; geometria; elementi; collegamenti; ipotesi; schema statico; modello | scelta motivata del modello e controllo delle ipotesi | 700 |
+| `N-TR03-03-02` | Vincoli, azioni, reazioni ed equilibrio | gradi di libertà; vincoli; labilità; isostaticità; corpo libero; equilibrio | lettura di uno schema e riconoscimento degli errori | 750 |
+| `N-TR03-03-03` | Sollecitazioni interne e diagrammi | sforzo normale; taglio; flessione; torsione; sezione; convenzioni | riconoscimento qualitativo della risposta prevalente | 700 |
+| `N-TR03-03-04` | Tensione, deformazione e comportamento dei materiali | risultanti e grandezze locali; spostamento; deformazione; legame costitutivo; elasticità e linearità | confronto concettuale e controllo dimensionale | 750 |
+| `N-TR03-03-05` | Resistenza, rigidezza, stabilità, duttilità e durabilità | cinque prestazioni distinte; domanda e capacità; tempo e ambiente | tavola comparativa ed errore di adeguatezza parziale | 750 |
+| `N-TR03-03-06` | Metodo di analisi e caso dell'elemento compresso | checklist; snellezza qualitativa; ipotesi; risultato; limiti; output concorsuale | caso ragionato e schema orale | 700 |
 
-## Stato iniziale
+## Stato iniziale e interventi
 
-Nessun nucleo è completo. Il dossier assegna la materia al capitolo, ma nel wiki non risultano source note tecniche consolidate su statica, meccanica dei solidi, resistenza dei materiali o comportamento strutturale. Le fonti disponibili non permettono di scrivere il capitolo senza usare conoscenza esterna non consolidata.
+Il capitolo contiene già una base corretta e ben delimitata: modello, vincoli, equilibrio, sollecitazioni, tensione, deformazione, proprietà dei materiali, cinque prestazioni e caso sull'elemento compresso. Nessun nucleo è però formalizzato secondo Format 2; mancano quiz commentati e verifiche vicine. Servono maggiore autonomia dei blocchi, esempi qualitativi e conseguenze esplicite per la prova.
 
-## Sviluppi necessari
+Saranno conservati: apertura, obiettivo, Mappa BANDO, distinzione fra struttura e modello, diagramma di corpo libero, definizioni delle sollecitazioni, distinzione sollecitazione-tensione-deformazione, tavola delle cinque prestazioni, caso dell'asta compressa, domanda da commissario, trappola, esercizio e checklist.
 
-1. Acquisire una fonte istituzionale o universitaria autorevole per statica e meccanica strutturale.
-2. Acquisire manualistica tecnica validata per materiali, resistenza, rigidezza, stabilità e durabilità.
-3. Creare source note separate per principi strutturali e materiali.
-4. Creare un topic canonico su scienza e tecnica delle costruzioni.
-5. Definire il livello matematico coerente con i bandi campione.
-6. Separare i principi generali del capitolo 3 dalle prescrizioni normative del capitolo 4.
-7. Preparare esempi qualitativi verificati, evitando formule prive di contesto e calcoli non controllati.
+## Struttura H1/H2/H3
 
-## Sezioni da conservare
+- `# Scienza e tecnica delle costruzioni per concorsi`;
+- apertura e obiettivo;
+- `## N-TR03-03-01 · Dalla struttura reale al modello`, con Mappa BANDO e H3 su scopo, schema e ipotesi;
+- `## ▣ Verifica 1`;
+- `## N-TR03-03-02 · Vincoli, azioni, reazioni ed equilibrio`, con H3 su cinematica e diagramma di corpo libero;
+- `## ▣ Verifica 2`;
+- `## N-TR03-03-03 · Sollecitazioni interne e diagrammi`, con H3 sulle quattro caratteristiche;
+- `## ▣ Verifica 3`;
+- `## N-TR03-03-04 · Tensione, deformazione e comportamento dei materiali`, con H3 su grandezze locali e legame costitutivo;
+- `## ▣ Verifica 4`;
+- `## N-TR03-03-05 · Cinque prestazioni strutturali`, con H3 su resistenza, rigidezza, stabilità, duttilità e durabilità;
+- `## ▣ Verifica 5`;
+- `## N-TR03-03-06 · Metodo di analisi e caso dell'elemento compresso`, con H3 sul caso e sugli output;
+- `## ▣ Verifica 6`;
+- sintesi, domande, esercizio, checklist e riferimenti leggibili.
 
-Il capitolo non esiste ancora. Vanno conservati titolo, collocazione, profili `I-T`, output e target di circa 2.500 parole stabiliti dall’indice.
+## Duplicazioni e confini
 
-## Duplicazioni da evitare
+- Non anticipare prescrizioni NTC, combinazioni delle azioni, sismica o geotecnica del capitolo 04.
+- Non trasformare il capitolo in un corso universitario enciclopedico.
+- Non inserire formule senza significato fisico, ipotesi, grandezze e controllo dimensionale.
+- Non presentare schemi qualitativi come verifica di sicurezza di un'opera reale.
+- Non duplicare progettazione amministrativa, direzione lavori o collaudo dei capitoli 07-09.
 
-- prescrizioni NTC, sismica e geotecnica del capitolo 4;
-- progettazione amministrativa delle opere del capitolo 7;
-- dettagli su direzione lavori e collaudo dei capitoli 8–9;
-- trattazione universitaria enciclopedica;
-- formule isolate non collegate a significato, ipotesi e uso in prova.
+## Quiz, caso ed esercizi
 
-## Esempi, casi, domande ed esercizi necessari
+- Sei quiz commentati, uno per nucleo, centrati sulle distinzioni decisive.
+- Caso ragionato su un elemento snello compresso, senza calcolo eseguibile riferito a un'opera reale.
+- Esercizio sul diagramma di corpo libero e riconoscimento di reazioni incompatibili.
+- Riconoscimento qualitativo di trazione, compressione, taglio, flessione e torsione.
+- Domanda da commissario sul passaggio dalla struttura al modello.
+- Domanda-trappola sull'equivalenza fra verifica di resistenza e adeguatezza complessiva.
 
-- corpo libero e reazioni vincolari;
-- differenza qualitativa tra trazione, compressione, taglio, flessione e torsione;
-- confronto tra resistenza e rigidezza;
-- caso di instabilità di un elemento compresso;
-- domanda da commissario sul passaggio da struttura reale a modello;
-- domanda-trappola sulla confusione tra resistenza e durabilità;
-- esercizio di riconoscimento del comportamento prevalente;
-- checklist ipotesi–modello–azione–risposta–verifica.
+## Audit richiesti
 
-## Fonti da usare
-
-### Disponibili
-
-- [[sources/modulo-m-tr03-tecnico-ingegneristico-vol-10]];
-- [[sources/campione-bandi-tecnici-pa-vol-10-2026]].
-
-### Bloccanti da acquisire
-
-- testi o dispense universitarie ufficiali di statica e scienza delle costruzioni;
-- fonti tecniche autorevoli sui materiali strutturali;
-- manualistica validata con esercizi e schemi;
-- fonti ufficiali sui programmi di prova che precisino la profondità richiesta.
-
-## Review umane richieste
-
-- revisore ingegnere strutturista;
-- controllo delle formule, delle unità di misura e delle ipotesi;
-- verifica del livello di profondità rispetto ai bandi;
-- controllo del confine con il capitolo 4.
-
-## Struttura H1/H2/H3 e budget KDP
-
-# Scienza e tecnica delle costruzioni per concorsi
-
-## Apertura e obiettivo — 180 parole
-## Mappa BANDO del problema strutturale — 180 parole
-## Dalla struttura reale al modello — 300 parole
-### Geometria, vincoli e ipotesi
-### Schema statico e modello di calcolo
-## Azioni, reazioni ed equilibrio — 360 parole
-## Sollecitazioni, tensioni e deformazioni — 420 parole
-### Trazione e compressione
-### Taglio, flessione e torsione
-## Proprietà e comportamento dei materiali — 360 parole
-## Resistenza, rigidezza, stabilità e durabilità — 420 parole
-## Caso guidato e schema orale — 220 parole
-## Domande, errore tipico e mini-esercizio — 180 parole
-## Riferimenti e review — 80 parole
-
-Budget orientativo: 2.700–3.000 parole. La struttura non autorizza la scrittura finché le fonti tecniche non sono consolidate.
+- Controllo di formule, convenzioni, unità e significato fisico; evitare calcoli operativi non necessari.
+- Verifica delle distinzioni fra elasticità e linearità, sollecitazione e tensione, spostamento e deformazione.
+- Controllo del caso di instabilità e del lessico relativo alla snellezza, senza sostituire le verifiche normative.
+- Verifica del confine con il capitolo 04 e della calibrazione rispetto al singolo bando.
+- Audit editoriale su autonomia dei nuclei, prossimità delle verifiche e leggibilità delle tabelle.
+- Gate finali di densità, citazioni, Humanizer e revisione editoriale totale.
