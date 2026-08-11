@@ -3,7 +3,7 @@
   "specPath": "books/volumi/vol-08-ict-digitale-cybersecurity-dati/planning/00-scheda-pipeline.md",
   "specHash": "sha256:af67ff81718eae7e5e2d8b29cdd926e24769a54de17ffffc130f7dd3cbd210d4",
   "createdAt": "2026-07-28T19:54:29.381Z",
-  "updatedAt": "2026-08-11T07:33:00.357Z",
+  "updatedAt": "2026-08-11T07:45:03.699Z",
   "steps": [
     {
       "key": "08:moduli/m-tr01-ict-trasformazione-digitale/chapters/01-lavorare-ict-pa-ruoli-enti-prove.md",
@@ -972,18 +972,20 @@
       "scope": "chapter",
       "target": "moduli/m-tr01-ict-trasformazione-digitale/chapters/08-cybersecurity-rischio-controlli-vulnerabilita.md",
       "status": "done",
-      "attempts": 1,
-      "evidence": [],
+      "attempts": 3,
+      "evidence": [
+        "reopen: Fix review Task 11 E01-E03: sequenza risk assessment, heading spurio, proofread accenti"
+      ],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-11T07:21:36.055Z",
+      "startedAt": "2026-08-11T07:43:14.132Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-08-11T07:28:44.429Z"
+      "finishedAt": "2026-08-11T07:44:03.680Z"
     },
     {
       "key": "10:moduli/m-tr01-ict-trasformazione-digitale/chapters/08-cybersecurity-rischio-controlli-vulnerabilita.md",
@@ -993,17 +995,19 @@
       "target": "moduli/m-tr01-ict-trasformazione-digitale/chapters/08-cybersecurity-rischio-controlli-vulnerabilita.md",
       "status": "done",
       "attempts": 1,
-      "evidence": [],
+      "evidence": [
+        "reopen: Riesecuzione ordinata dopo fix lint E01-E03"
+      ],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-11T07:28:45.081Z",
+      "startedAt": "2026-08-11T07:44:12.749Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-08-11T07:29:47.741Z"
+      "finishedAt": "2026-08-11T07:44:13.346Z"
     },
     {
       "key": "11:moduli/m-tr01-ict-trasformazione-digitale/chapters/08-cybersecurity-rischio-controlli-vulnerabilita.md",
@@ -1017,13 +1021,13 @@
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-11T07:29:48.453Z",
+      "startedAt": "2026-08-11T07:44:14.048Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-08-11T07:32:07.404Z"
+      "finishedAt": "2026-08-11T07:44:36.587Z"
     },
     {
       "key": "12:moduli/m-tr01-ict-trasformazione-digitale/chapters/08-cybersecurity-rischio-controlli-vulnerabilita.md",
@@ -1037,7 +1041,7 @@
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-11T07:32:08.095Z",
+      "startedAt": "2026-08-11T07:44:37.202Z",
       "gate": {
         "passed": true,
         "blockers": [],
@@ -1064,7 +1068,7 @@
           }
         ]
       },
-      "finishedAt": "2026-08-11T07:33:00.357Z"
+      "finishedAt": "2026-08-11T07:45:03.699Z"
     },
     {
       "key": "08:moduli/m-tr01-ict-trasformazione-digitale/chapters/09-iam-crittografia-logging-incident-response.md",
