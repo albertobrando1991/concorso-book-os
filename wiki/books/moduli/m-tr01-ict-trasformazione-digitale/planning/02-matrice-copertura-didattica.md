@@ -590,7 +590,7 @@ La copertura `completo` attesta il contratto didattico del lettore. Non chiude i
 | `N-TR01-13-04` | elaborato tecnico | collegare requisito, scelta, rischio, controllo ed evidenza | progetto di servizio | scaletta commentata; Quiz 4 | completo | capitoli tecnici 2-12 |
 | `N-TR01-13-05` | orale ICT | esporre concetto, nesso e verifica | controdomanda e rubrica | risposta orale; Quiz 5 | completo | raccordo VOL-01; capitoli tecnici 2-12 |
 | `N-TR01-13-06` | caso tecnico | distinguere sintomo, ipotesi, test, azione e verifica | servizio intermittente | caso guidato; Quiz 6 | completo | capitoli 5, 7, 8, 9 e 12 |
-| `N-TR01-13-07` | simulazione | correggere prestazione e pianificare recupero | batteria mista e diario | 12 quiz, scritto, orale e foglio di esito | completo | bando e istruzioni della procedura |
+| `N-TR01-13-07` | simulazione | correggere prestazione e pianificare recupero | batteria mista e diario | 12 quiz commentati, scritto, orale, caso autonomo e foglio di esito | completo | bando e istruzioni della procedura |
 
 ### Checklist dimensionale - capitolo 13
 
@@ -604,4 +604,4 @@ La copertura `completo` attesta il contratto didattico del lettore. Non chiude i
 | `N-TR01-13-06` | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `N-TR01-13-07` | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 
-La copertura didattica e completa per il capitolo 13. La verifica delle fonti mobili, delle istruzioni di procedura e della valutazione specialistica resta separata negli step 13-18; la chiusura editoriale umana resta allo step 24.
+La copertura didattica è completa per il capitolo 13. La verifica delle fonti mobili, delle istruzioni di procedura e della valutazione specialistica resta separata negli step 13-18; la chiusura editoriale umana resta allo step 24.

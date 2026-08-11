@@ -3,7 +3,7 @@
   "specPath": "books/volumi/vol-08-ict-digitale-cybersecurity-dati/planning/00-scheda-pipeline.md",
   "specHash": "sha256:af67ff81718eae7e5e2d8b29cdd926e24769a54de17ffffc130f7dd3cbd210d4",
   "createdAt": "2026-07-28T19:54:29.381Z",
-  "updatedAt": "2026-08-11T09:58:13.079Z",
+  "updatedAt": "2026-08-11T10:13:34.477Z",
   "steps": [
     {
       "key": "08:moduli/m-tr01-ict-trasformazione-digitale/chapters/01-lavorare-ict-pa-ruoli-enti-prove.md",
@@ -1659,17 +1659,19 @@
       "target": "moduli/m-tr01-ict-trasformazione-digitale/chapters/13-laboratorio-prove-ict.md",
       "status": "done",
       "attempts": 1,
-      "evidence": [],
+      "evidence": [
+        "reopen: Fix T16-01/T16-02: completamento simulazione autonoma e copy-edit italiano"
+      ],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-11T09:46:14.319Z",
+      "startedAt": "2026-08-11T10:13:13.197Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-08-11T09:56:45.725Z"
+      "finishedAt": "2026-08-11T10:13:21.707Z"
     },
     {
       "key": "10:moduli/m-tr01-ict-trasformazione-digitale/chapters/13-laboratorio-prove-ict.md",
@@ -1683,13 +1685,13 @@
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-11T09:56:46.827Z",
+      "startedAt": "2026-08-11T10:13:22.465Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-08-11T09:57:04.643Z"
+      "finishedAt": "2026-08-11T10:13:24.586Z"
     },
     {
       "key": "11:moduli/m-tr01-ict-trasformazione-digitale/chapters/13-laboratorio-prove-ict.md",
@@ -1703,13 +1705,13 @@
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-11T09:57:05.513Z",
+      "startedAt": "2026-08-11T10:13:25.463Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-08-11T09:57:15.032Z"
+      "finishedAt": "2026-08-11T10:13:32.149Z"
     },
     {
       "key": "12:moduli/m-tr01-ict-trasformazione-digitale/chapters/13-laboratorio-prove-ict.md",
@@ -1723,7 +1725,7 @@
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-11T09:57:15.733Z",
+      "startedAt": "2026-08-11T10:13:32.886Z",
       "gate": {
         "passed": true,
         "blockers": [],
@@ -1750,7 +1752,7 @@
           }
         ]
       },
-      "finishedAt": "2026-08-11T09:58:13.079Z"
+      "finishedAt": "2026-08-11T10:13:34.477Z"
     },
     {
       "key": "05:moduli/m-tr01-ict-trasformazione-digitale",

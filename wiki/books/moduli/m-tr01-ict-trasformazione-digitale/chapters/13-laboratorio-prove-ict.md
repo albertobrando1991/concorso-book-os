@@ -110,11 +110,11 @@ Prima di rispondere, separa:
 
 ### Preparare il dossier di prova
 
-La prima lettura non serve a scrivere: serve a evitare di costruire una risposta su una consegna immaginata. Trascrivi in un foglio separato il verbo della traccia, il risultato atteso e i vincoli che modificano la scelta tecnica. Poi distingui i dati gia presenti dalle informazioni mancanti. Se il caso non dichiara numero di utenti, classificazione dei dati o finestra di indisponibilita, non trasformare il silenzio in un fatto: annota l'assunzione e il modo in cui la controlleresti.
+La prima lettura non serve a scrivere: serve a evitare di costruire una risposta su una consegna immaginata. Trascrivi in un foglio separato il verbo della traccia, il risultato atteso e i vincoli che modificano la scelta tecnica. Poi distingui i dati già presenti dalle informazioni mancanti. Se il caso non dichiara numero di utenti, classificazione dei dati o finestra di indisponibilità, non trasformare il silenzio in un fatto: annota l'assunzione e il modo in cui la controlleresti.
 
-Distribuisci il tempo in blocchi adattati alla durata effettiva: lettura e piano, sviluppo, controllo e consegna. Non esiste una ripartizione valida per tutte le procedure; il punto e riservare un margine per verificare che ogni decisione risponda alla domanda. Una risposta terminata senza controllo puo contenere una buona soluzione per un problema diverso.
+Distribuisci il tempo in blocchi adattati alla durata effettiva: lettura e piano, sviluppo, controllo e consegna. Non esiste una ripartizione valida per tutte le procedure; il punto è riservare un margine per verificare che ogni decisione risponda alla domanda. Una risposta terminata senza controllo può contenere una buona soluzione per un problema diverso.
 
-**Errore da registrare.** Cominciare dal diagramma o dal prodotto preferito prima di avere definito il bisogno. La correzione non e aggiungere tecnologia: e tornare a verbo, oggetto, contesto, vincoli e output.
+**Errore da registrare.** Cominciare dal diagramma o dal prodotto preferito prima di avere definito il bisogno. La correzione non è aggiungere tecnologia: è tornare a verbo, oggetto, contesto, vincoli e output.
 
 ## N-TR01-13-02 · Quiz tecnico: decisione, distrattori e correzione
 
@@ -137,10 +137,10 @@ D. L'autorizzazione precede sempre l'identificazione.
 
 ### Micro-quiz
 
-1. `GROUP BY` serve principalmente a: A) cifrare colonne; B) raggruppare righe per aggregazioni; C) creare un indice; D) avviare una transazione. **Risposta corretta:** B.
-2. Un backup dimostra da solo il rispetto del tempo di ripristino? A) sempre; B) se remoto; C) no, servono procedure, risorse e prove; D) se cifrato. **Risposta corretta:** C.
-3. Il rischio residuo è: A) precedente ai controlli; B) rimanente dopo il trattamento considerato; C) una vulnerabilità corretta; D) l'impatto massimo. **Risposta corretta:** B.
-4. Quale evidenza verifica meglio il tempo di presa in carico? A) brochure; B) organigramma; C) timestamp del ticketing; D) numero di tecnici. **Risposta corretta:** C.
+1. `GROUP BY` serve principalmente a: A) cifrare colonne; B) raggruppare righe per aggregazioni; C) creare un indice; D) avviare una transazione. **Risposta corretta:** B. `GROUP BY` forma gruppi su cui applicare funzioni di aggregazione. A riguarda la protezione dei dati, C può migliorare l'accesso ma non raggruppa le righe, D governa una transazione.
+2. Un backup dimostra da solo il rispetto del tempo di ripristino? A) sempre; B) se remoto; C) no, servono procedure, risorse e prove; D) se cifrato. **Risposta corretta:** C. Una copia non prova che il servizio torni operativo entro l'obiettivo: servono procedura, risorse disponibili e test di ripristino. La collocazione remota o la cifratura possono essere utili, ma non risolvono da sole il problema.
+3. Il rischio residuo è: A) precedente ai controlli; B) rimanente dopo il trattamento considerato; C) una vulnerabilità corretta; D) l'impatto massimo. **Risposta corretta:** B. Il rischio residuo è quello che rimane dopo i controlli o il trattamento valutati. A descrive il rischio prima del trattamento, C confonde vulnerabilità e rischio, D riduce il rischio al solo impatto.
+4. Quale evidenza verifica meglio il tempo di presa in carico? A) brochure; B) organigramma; C) timestamp del ticketing; D) numero di tecnici. **Risposta corretta:** C. I timestamp collegano apertura e presa in carico e consentono di misurare il tempo effettivo. Brochure, organigramma e numero di tecnici descrivono il contesto, ma non dimostrano l'esito della misura.
 
 Correggi registrando quesito, esito, causa, regola correttiva e nuova prova. La lettera giusta, da sola, non spiega l'errore.
 
@@ -149,23 +149,23 @@ Correggi registrando quesito, esito, causa, regola correttiva e nuova prova. La 
 
 Dopo un primo giro, raccogli i quesiti incerti in tre gruppi: concetto non ricordato, distinzione letta male, calcolo o scenario da ricostruire. Questa classificazione indica un esercizio diverso. Per un concetto serve richiamo attivo; per una distinzione serve un confronto in due colonne; per uno scenario serve esplicitare fatti, ipotesi e conseguenza prima di scegliere.
 
-Quando due alternative sembrano plausibili, chiedi quale risponde al verbo e quale introduce una condizione non dichiarata. Parole come "solo", "sempre", "automaticamente" e "garantisce" meritano un controllo in piu: talvolta sono corrette, ma soltanto se il contesto le sostiene. Non cambiare una risposta corretta solo perche sembra troppo semplice; torna invece alla funzione tecnica che la domanda sta verificando.
+Quando due alternative sembrano plausibili, chiedi quale risponde al verbo e quale introduce una condizione non dichiarata. Parole come "solo", "sempre", "automaticamente" e "garantisce" meritano un controllo in più: talvolta sono corrette, ma soltanto se il contesto le sostiene. Non cambiare una risposta corretta solo perché sembra troppo semplice; torna invece alla funzione tecnica che la domanda sta verificando.
 
-Nel diario conserva anche la ragione del distrattore: confusione tra disponibilita e ripristino, tra identita e permessi, tra requisito e prova, tra attivita svolta ed evidenza dell'esito. Alla simulazione successiva misura se la stessa causa ricompare. La correzione utile e una regola verificabile, non un generico "ripassare".
+Nel diario conserva anche la ragione del distrattore: confusione tra disponibilità e ripristino, tra identità e permessi, tra requisito e prova, tra attività svolta ed evidenza dell'esito. Alla simulazione successiva misura se la stessa causa ricompare. La correzione utile è una regola verificabile, non un generico "ripassare".
 
 
 ### Protocollo di correzione del quiz
 
-Correggi il quiz in due tempi. Nel primo, segna soltanto corretto, errato o non risposto. Nel secondo, per ogni errore, ricostruisci il percorso: quale parola della domanda hai trascurato, quale regola tecnica hai applicato, quale alternativa ti ha attirato e quale evidenza avrebbe permesso di escluderla. Questo passaggio impedisce di attribuire tutti gli errori alla memoria quando il problema e invece la lettura della consegna.
+Correggi il quiz in due tempi. Nel primo, segna soltanto corretto, errato o non risposto. Nel secondo, per ogni errore, ricostruisci il percorso: quale parola della domanda hai trascurato, quale regola tecnica hai applicato, quale alternativa ti ha attirato e quale evidenza avrebbe permesso di escluderla. Questo passaggio impedisce di attribuire tutti gli errori alla memoria quando il problema è invece la lettura della consegna.
 
-Prepara piccole serie con un solo obiettivo: distinguere backup e ripristino, requisito e controllo, vulnerabilita e rischio, autenticazione e autorizzazione. Dopo ogni serie cambia il contesto ma conserva la distinzione. Se rispondi correttamente soltanto quando riconosci la formulazione, il nucleo non e ancora trasferibile in una prova nuova.
+Prepara piccole serie con un solo obiettivo: distinguere backup e ripristino, requisito e controllo, vulnerabilità e rischio, autenticazione e autorizzazione. Dopo ogni serie cambia il contesto ma conserva la distinzione. Se rispondi correttamente soltanto quando riconosci la formulazione, il nucleo non è ancora trasferibile in una prova nuova.
 
-La scelta di lasciare una risposta incerta dipende da penalita e istruzioni ufficiali. Prima della prova allena la decisione su scenari dichiarati; durante la prova applica solo la regola ricavata dagli atti della procedura. Un consiglio generale non puo sostituire questa verifica.
+La scelta di lasciare una risposta incerta dipende da penalità e istruzioni ufficiali. Prima della prova allena la decisione su scenari dichiarati; durante la prova applica solo la regola ricavata dagli atti della procedura. Un consiglio generale non può sostituire questa verifica.
 
 
 ### Ultimo controllo prima della scelta
 
-Prima di segnare la risposta, rileggi domanda e alternativa scelta come una coppia. Verifica soggetto, condizione, tempo verbale e relazione richiesta. Se l'alternativa risponde a una domanda leggermente diversa, e un distrattore anche quando contiene termini corretti. Questa pausa breve e piu affidabile di una rilettura indistinta dell'intero quesito.
+Prima di segnare la risposta, rileggi domanda e alternativa scelta come una coppia. Verifica soggetto, condizione, tempo verbale e relazione richiesta. Se l'alternativa risponde a una domanda leggermente diversa, è un distrattore anche quando contiene termini corretti. Questa pausa breve è più affidabile di una rilettura indistinta dell'intero quesito.
 
 ## N-TR01-13-03 · Risposta breve e domanda aperta
 
@@ -194,28 +194,28 @@ La risposta copre definizione, distinzione e conseguenza operativa, mantenendo f
 
 Prima di scrivere, prepara una micro-scaletta di quattro righe: tesi o definizione, elemento distintivo, conseguenza operativa, esempio o chiusura. La scaletta evita due errori opposti: una definizione da glossario che non risponde al caso e una risposta ricca di esempi senza nucleo concettuale. Se la domanda chiede di confrontare, mantieni gli stessi assi per entrambi gli oggetti; se chiede di spiegare, rendi esplicito il rapporto di causa o funzione.
 
-Controlla le parole che possono cambiare il perimetro. "Descrivere" richiede ordine e precisione; "valutare" richiede criteri e motivazione; "proporre" richiede una scelta collegata a vincoli e rischi. Non attribuire al bando, al fornitore o a una tecnologia un effetto che la traccia non dichiara. Quando un dato manca, una frase di assunzione motivata vale piu di un dettaglio inventato.
+Controlla le parole che possono cambiare il perimetro. "Descrivere" richiede ordine e precisione; "valutare" richiede criteri e motivazione; "proporre" richiede una scelta collegata a vincoli e rischi. Non attribuire al bando, al fornitore o a una tecnologia un effetto che la traccia non dichiara. Quando un dato manca, una frase di assunzione motivata vale più di un dettaglio inventato.
 
-La revisione finale puo seguire un percorso inverso: leggi prima l'ultima frase, poi verifica se i passaggi precedenti la sostengono e se il primo periodo risponde al verbo. Elimina le frasi decorative, conserva le distinzioni necessarie e chiudi con l'effetto concreto della scelta. In uno spazio limitato, la proporzione e parte della correttezza.
+La revisione finale può seguire un percorso inverso: leggi prima l'ultima frase, poi verifica se i passaggi precedenti la sostengono e se il primo periodo risponde al verbo. Elimina le frasi decorative, conserva le distinzioni necessarie e chiudi con l'effetto concreto della scelta. In uno spazio limitato, la proporzione è parte della correttezza.
 
 
 ### Rispondere a una domanda aperta con vincoli
 
-Quando la consegna fissa un limite di righe o caratteri, assegna spazio alla tesi prima di aggiungere dettagli. La prima frase deve rendere riconoscibile il nucleo. Le frasi successive possono spiegare funzione, differenza e conseguenza; l'esempio entra solo se chiarisce un passaggio che altrimenti resterebbe ambiguo. Evita l'apertura con formule vaghe come "e molto importante": non dicono quale relazione tecnica stai sostenendo.
+Quando la consegna fissa un limite di righe o caratteri, assegna spazio alla tesi prima di aggiungere dettagli. La prima frase deve rendere riconoscibile il nucleo. Le frasi successive possono spiegare funzione, differenza e conseguenza; l'esempio entra solo se chiarisce un passaggio che altrimenti resterebbe ambiguo. Evita l'apertura con formule vaghe come "è molto importante": non dicono quale relazione tecnica stai sostenendo.
 
-Per allenarti, riscrivi la stessa risposta in tre versioni: una definizione essenziale, una risposta comparativa e una mini-applicazione a un ente. Confronta cio che rimane invariato, cio che dipende dal contesto e cio che non puoi affermare senza dati aggiuntivi. La variazione fa emergere le frasi di repertorio che sembrano corrette ma non portano evidenza.
+Per allenarti, riscrivi la stessa risposta in tre versioni: una definizione essenziale, una risposta comparativa e una mini-applicazione a un ente. Confronta ciò che rimane invariato, ciò che dipende dal contesto e ciò che non puoi affermare senza dati aggiuntivi. La variazione fa emergere le frasi di repertorio che sembrano corrette ma non portano evidenza.
 
-Se citi una misura, un obbligo o una soglia, assicurati che derivi dal testo fornito o da una fonte da verificare. In mancanza, descrivi il criterio di scelta e l'evidenza richiesta. Precisione non significa riempire la risposta di riferimenti: significa non attribuire certezza a cio che e solo una possibilita.
+Se citi una misura, un obbligo o una soglia, assicurati che derivi dal testo fornito o da una fonte da verificare. In mancanza, descrivi il criterio di scelta e l'evidenza richiesta. Precisione non significa riempire la risposta di riferimenti: significa non attribuire certezza a ciò che e solo una possibilita.
 
 
 ### Controllo finale della formulazione
 
-Prima di consegnare, sostituisci le parole generiche con il termine tecnico necessario e controlla che ogni pronome abbia un referente chiaro. Una risposta breve puo essere rigorosa senza diventare telegrafica: il lettore deve poter vedere la distinzione e la conseguenza senza ricostruirle da solo.
+Prima di consegnare, sostituisci le parole generiche con il termine tecnico necessario e controlla che ogni pronome abbia un referente chiaro. Una risposta breve può essere rigorosa senza diventare telegrafica: il lettore deve poter vedere la distinzione e la conseguenza senza ricostruirle da solo.
 
 
 ### Esercizio di sintesi
 
-Prendi una definizione studiata nei capitoli tecnici e scrivila prima in due frasi, poi in una risposta che includa una conseguenza per un servizio. Confronta le due versioni: la seconda deve aggiungere funzione o effetto, non soltanto piu parole. Se non riesci a indicare la conseguenza, torna al nucleo teorico prima di ampliare il testo.
+Prendi una definizione studiata nei capitoli tecnici e scrivila prima in due frasi, poi in una risposta che includa una conseguenza per un servizio. Confronta le due versioni: la seconda deve aggiungere funzione o effetto, non soltanto più parole. Se non riesci a indicare la conseguenza, torna al nucleo teorico prima di ampliare il testo.
 
 ## N-TR01-13-04 · Elaborato tecnico: progetto, rischi ed evidenze
 
@@ -235,18 +235,18 @@ Se la traccia chiede una migrazione in cloud, il nome di un prodotto non è un b
 
 ### Dalla richiesta alla soluzione motivata
 
-Un elaborato non deve dimostrare di conoscere tutte le tecnologie disponibili: deve rendere controllabile una scelta. Parti da servizio, utenti, dati, dipendenze e vincoli; separa cio che la traccia dichiara da cio che ipotizzi. Trasforma poi ogni requisito in una decisione osservabile. Per esempio, un requisito di continuita conduce a una sequenza di prevenzione, ripristino, rollback e prova; non si esaurisce nell'etichetta "alta disponibilita".
+Un elaborato non deve dimostrare di conoscere tutte le tecnologie disponibili: deve rendere controllabile una scelta. Parti da servizio, utenti, dati, dipendenze e vincoli; separa ciò che la traccia dichiara da ciò che ipotizzi. Trasforma poi ogni requisito in una decisione osservabile. Per esempio, un requisito di continuità conduce a una sequenza di prevenzione, ripristino, rollback e prova; non si esaurisce nell'etichetta "alta disponibilità".
 
-Per ogni opzione significativa indica il trade-off. Una soluzione piu semplice puo ridurre il tempo di esercizio ma aumentare una dipendenza; una soluzione piu distribuita puo migliorare la resilienza ma richiedere osservabilita e competenze ulteriori. Non serve quantificare valori non presenti nella traccia: spiega quali metriche, test o evidenze permetterebbero all'ente di decidere.
+Per ogni opzione significativa indica il trade-off. Una soluzione più semplice può ridurre il tempo di esercizio ma aumentare una dipendenza; una soluzione più distribuita può migliorare la resilienza ma richiedere osservabilità e competenze ulteriori. Non serve quantificare valori non presenti nella traccia: spiega quali metriche, test o evidenze permetterebbero all'ente di decidere.
 
-Rileggi il testo cercando la catena requisito, scelta, rischio, controllo, evidenza. Se un paragrafo non entra nella catena, chiediti se e davvero pertinente. Se una scelta non ha un limite, un rischio o una verifica, probabilmente e ancora un'affermazione astratta. Questo controllo evita sia l'elenco di prodotti sia l'architettura universale immaginaria.
+Rileggi il testo cercando la catena requisito, scelta, rischio, controllo, evidenza. Se un paragrafo non entra nella catena, chiediti se è davvero pertinente. Se una scelta non ha un limite, un rischio o una verifica, probabilmente è ancora un'affermazione astratta. Questo controllo evita sia l'elenco di prodotti sia l'architettura universale immaginaria.
 
 
 ### Verificare la coerenza dell'elaborato
 
-Una buona scaletta puo fallire se le sue parti non si parlano. Dopo la prima stesura, evidenzia i requisiti e cerca per ciascuno una scelta, un controllo e un test. Poi percorri la catena al contrario: ogni componente proposta deve avere una funzione rispetto a un requisito o a un rischio dichiarato. Se una tecnologia compare senza questo legame, puo essere un dettaglio superfluo.
+Una buona scaletta può fallire se le sue parti non si parlano. Dopo la prima stesura, evidenzia i requisiti e cerca per ciascuno una scelta, un controllo e un test. Poi percorri la catena al contrario: ogni componente proposta deve avere una funzione rispetto a un requisito o a un rischio dichiarato. Se una tecnologia compare senza questo legame, può essere un dettaglio superfluo.
 
-Distingui i livelli: esigenza dell'ente, requisito del servizio, decisione progettuale, attivita operativa ed evidenza. Confondere questi piani produce risposte persuasive ma non verificabili. Per esempio, "proteggere i dati" e un obiettivo; la scelta di gestione degli accessi e una decisione; i log di riesame e di revoca possono essere evidenze. La traccia determina quali elementi approfondire.
+Distingui i livelli: esigenza dell'ente, requisito del servizio, decisione progettuale, attività operativa ed evidenza. Confondere questi piani produce risposte persuasive ma non verificabili. Per esempio, "proteggere i dati" è un obiettivo; la scelta di gestione degli accessi è una decisione; i log di riesame e di revoca possono essere evidenze. La traccia determina quali elementi approfondire.
 
 Concludi indicando come la soluzione sarebbe sottoposta a test, accettazione e miglioramento. Non promettere risultati assoluti. Una proposta professionale mostra anche i confini: dati necessari, dipendenze da confermare, criteri per valutare l'esito e condizioni che richiederebbero una diversa scelta.
 
@@ -258,7 +258,7 @@ Le assunzioni utili sono poche, esplicite e collegate a una decisione. Scrivi ch
 
 ### Revisione per scenari
 
-Immagina che cambi un solo vincolo: piu utenti, minore tolleranza al fermo, dati piu sensibili o maggiore dipendenza da un soggetto esterno. Indica quale requisito verrebbe rivalutato e quale prova aggiungeresti. L'esercizio serve a controllare che la proposta sia motivata dal contesto e non da una soluzione standard ripetuta.
+Immagina che cambi un solo vincolo: più utenti, minore tolleranza al fermo, dati più sensibili o maggiore dipendenza da un soggetto esterno. Indica quale requisito verrebbe rivalutato e quale prova aggiungeresti. L'esercizio serve a controllare che la proposta sia motivata dal contesto e non da una soluzione standard ripetuta.
 
 
 ### Traccia di controllo
@@ -293,31 +293,31 @@ All'orale la commissione deve poter seguire la struttura senza leggere una scale
 
 Esercitati su due durate compatibili con gli atti della procedura, non su una durata astratta. Registra una prova e ascolta dove perdi il filo: termini non definiti, esempi che arrivano prima della tesi, collegamenti causali mancanti. La rubrica del capitolo serve a rendere visibili questi aspetti durante l'allenamento; non predice la valutazione ufficiale.
 
-Se il commissario cambia scenario, ripeti prima i fatti ricevuti e dichiara che cosa cambierebbe nella soluzione. Se non ricordi un dettaglio, separa il limite dal principio certo e non riempire il silenzio con riferimenti non verificati. La prudenza tecnica e utile quando permette di continuare con un ragionamento pertinente e falsificabile.
+Se il commissario cambia scenario, ripeti prima i fatti ricevuti e dichiara che cosa cambierebbe nella soluzione. Se non ricordi un dettaglio, separa il limite dal principio certo e non riempire il silenzio con riferimenti non verificati. La prudenza tecnica è utile quando permette di continuare con un ragionamento pertinente e falsificabile.
 
 
 ### Gestire domande e controdomande
 
-Dopo un'esposizione preparata, esercitati con una seconda persona o con una lista di domande che sposti il punto di vista: utente, responsabile del servizio, sicurezza, dato, fornitore, continuita. Non memorizzare una risposta aggiuntiva per ogni domanda; torna invece alla struttura di base e spiega quale fatto nuovo modifica priorita, rischio o verifica. Questa tecnica limita le risposte rigide.
+Dopo un'esposizione preparata, esercitati con una seconda persona o con una lista di domande che sposti il punto di vista: utente, responsabile del servizio, sicurezza, dato, fornitore, continuità. Non memorizzare una risposta aggiuntiva per ogni domanda; torna invece alla struttura di base e spiega quale fatto nuovo modifica priorità, rischio o verifica. Questa tecnica limita le risposte rigide.
 
-Usa esempi brevi e dichiaratamente esemplificativi. Un esempio non deve simulare una prova reale ne trasformarsi in una prescrizione universale: serve a rendere osservabile un concetto. Se introduci un dato quantitativo, chiarisci che e un dato della traccia o una variabile da definire, non una soglia applicabile a ogni ente.
+Usa esempi brevi e dichiaratamente esemplificativi. Un esempio non deve simulare una prova reale né trasformarsi in una prescrizione universale: serve a rendere osservabile un concetto. Se introduci un dato quantitativo, chiarisci che è un dato della traccia o una variabile da definire, non una soglia applicabile a ogni ente.
 
-Alla fine dell'esercitazione valuta non solo l'esattezza ma anche l'ascoltabilita: il destinatario capisce quale problema stai risolvendo, quale scelta proponi e come ne controlleresti l'esito? Se manca uno di questi tre punti, riduci l'elenco di nozioni e ricostruisci il filo logico.
+Alla fine dell'esercitazione valuta non solo l'esattezza ma anche l'ascoltabilità: il destinatario capisce quale problema stai risolvendo, quale scelta proponi e come ne controlleresti l'esito? Se manca uno di questi tre punti, riduci l'elenco di nozioni e ricostruisci il filo logico.
 
 
 ### Chiusura orale
 
-Chiudi richiamando il criterio con cui controlleresti il risultato: disponibilita osservata, correttezza dell'accesso, evidenza di ripristino o coerenza con il requisito. Una chiusura di questo tipo mostra che la spiegazione non e soltanto descrittiva, ma orientata a una decisione verificabile.
+Chiudi richiamando il criterio con cui controlleresti il risultato: disponibilità osservata, correttezza dell'accesso, evidenza di ripristino o coerenza con il requisito. Una chiusura di questo tipo mostra che la spiegazione non è soltanto descrittiva, ma orientata a una decisione verificabile.
 
 
 ### Allenamento a voce
 
-Esponi una risposta, fermati dopo ogni passaggio e formula la domanda che un ascoltatore potrebbe porre. Rispondi collegando il chiarimento alla struttura iniziale, non aggiungendo un elenco autonomo. Se una controdomanda mette in luce un'assunzione, dichiarala e spiega quale informazione permetterebbe di confermarla. Questo rende l'esposizione piu solida anche quando la conversazione cambia direzione.
+Esponi una risposta, fermati dopo ogni passaggio e formula la domanda che un ascoltatore potrebbe porre. Rispondi collegando il chiarimento alla struttura iniziale, non aggiungendo un elenco autonomo. Se una controdomanda mette in luce un'assunzione, dichiarala e spiega quale informazione permetterebbe di confermarla. Questo rende l'esposizione più solida anche quando la conversazione cambia direzione.
 
 
 ### Precisione senza eccesso
 
-Una risposta orale efficace non accumula definizioni. Scegli il concetto che governa la domanda, esplicita il nesso principale e usa un esempio solo per rendere osservabile la conseguenza. L'ascoltatore deve distinguere cio che sai con certezza da cio che richiederebbe un dato ulteriore.
+Una risposta orale efficace non accumula definizioni. Scegli il concetto che governa la domanda, esplicita il nesso principale e usa un esempio solo per rendere osservabile la conseguenza. L'ascoltatore deve distinguere ciò che sai con certezza da ciò che richiederebbe un dato ulteriore.
 
 La struttura rende l'esposizione controllabile anche sotto pressione.
 
@@ -363,18 +363,18 @@ Elencare strumenti non basta. La risposta deve costruire ipotesi e test, poi col
 
 ### Usare le evidenze per scegliere
 
-Nel caso tecnico, una lista di possibili strumenti non e una diagnosi. Scrivi prima il sintomo osservato, gli utenti o le funzioni coinvolte e le evidenze disponibili. Formula quindi ipotesi concorrenti: applicazione, dati, rete, configurazione, dipendenza esterna, rilascio o sicurezza. A ogni ipotesi associa il test meno invasivo che puo confermarla o ridurne la probabilita, e indica chi puo svolgerlo.
+Nel caso tecnico, una lista di possibili strumenti non è una diagnosi. Scrivi prima il sintomo osservato, gli utenti o le funzioni coinvolte e le evidenze disponibili. Formula quindi ipotesi concorrenti: applicazione, dati, rete, configurazione, dipendenza esterna, rilascio o sicurezza. A ogni ipotesi associa il test meno invasivo che può confermarla o ridurne la probabilità, e indica chi può svolgerlo.
 
 Le azioni di contenimento devono essere reversibili quando il contesto lo consente. Prima di intervenire, chiarisci effetto atteso, rischio dell'intervento, criterio di rollback e misura di verifica. Dopo il ripristino, non confondere il ritorno apparente del servizio con la chiusura: confronta metriche e funzioni critiche con una baseline, conserva le evidenze e registra il rischio residuo.
 
-Questo schema vale anche quando il problema coinvolge un fornitore. Il fornitore puo fornire dati, eseguire attivita e partecipare all'escalation; l'ente deve comunque mantenere la capacita di governare priorita, impatto, comunicazione e accettazione dell'esito.
+Questo schema vale anche quando il problema coinvolge un fornitore. Il fornitore può fornire dati, eseguire attività e partecipare all'escalation; l'ente deve comunque mantenere la capacità di governare priorità, impatto, comunicazione e accettazione dell'esito.
 
 
 ### Scrivere il caso come una sequenza di decisioni
 
-Una risposta al caso guadagna chiarezza quando separa osservazione e interpretazione. "Il portale e lento" e un sintomo; "il database e saturo" e un'ipotesi da provare. Tenere distinte le due frasi evita di scegliere subito un rimedio e rende possibile spiegare perche un test e prioritario. Anche l'assenza di evidenza e un dato: segnala che la causa non e ancora confermata.
+Una risposta al caso guadagna chiarezza quando separa osservazione e interpretazione. "Il portale è lento" è un sintomo; "il database è saturo" è un'ipotesi da provare. Tenere distinte le due frasi evita di scegliere subito un rimedio e rende possibile spiegare perché un test è prioritario. Anche l'assenza di evidenza è un dato: segnala che la causa non è ancora confermata.
 
-Organizza la consegna con blocchi visibili: perimetro e impatto, ipotesi e prove, contenimento, ripristino, verifica, prevenzione. Se devi scegliere tra azioni, motiva la priorita con impatto, reversibilita, sicurezza e continuita. Se il caso riguarda dati personali o funzioni essenziali, segnala che servono ruoli e procedure coerenti con il contesto, senza inventare l'esito di valutazioni non fornite.
+Organizza la consegna con blocchi visibili: perimetro e impatto, ipotesi e prove, contenimento, ripristino, verifica, prevenzione. Se devi scegliere tra azioni, motiva la priorità con impatto, reversibilità, sicurezza e continuità. Se il caso riguarda dati personali o funzioni essenziali, segnala che servono ruoli e procedure coerenti con il contesto, senza inventare l'esito di valutazioni non fornite.
 
 ## N-TR01-13-07 · Simulazione, autocorrezione e diario degli errori
 
@@ -471,6 +471,14 @@ Prepara una versione di due minuti e una di quattro. Registra dove perdi struttu
 
 3. **Sistema di AI acquistato.** La valutazione parte da scopo, dati, prestazioni attese e impatto sul processo. Considera metriche adatte, errori, bias, spiegabilità quando pertinente, controllo umano, sicurezza, versioni, monitoraggio e responsabilità del fornitore. Requisiti, test, documentazione ed evidenze devono permettere all'ente di controllare il sistema durante l'esecuzione e dopo le modifiche.
 
+
+### Caso autonomo: indisponibilità selettiva dopo un rilascio
+
+**Traccia.** Dopo un rilascio serale, un servizio per le istanze funziona per gli utenti interni ma restituisce errori intermittenti a una parte degli utenti esterni. Il monitoraggio mostra un aumento dei codici di errore, ma non identifica la componente responsabile. Sono disponibili log applicativi e di accesso; il fornitore gestisce una dipendenza esterna. Devi proporre la gestione iniziale del caso senza assumere cause non documentate.
+
+**Output atteso.** Produci una pagina o uno schema con: perimetro e impatto; fatti e assunzioni; almeno tre ipotesi con l'evidenza o il test che le distingue; misura di contenimento proporzionata; criterio di rollback; verifica del ripristino; informazioni da richiedere al fornitore e registrazione dell'esito.
+
+**Tempo e criteri di autocorrezione.** Usa il tempo indicato dagli atti della procedura; se ti alleni senza un limite pubblicato, definiscilo prima e registralo nel foglio di esito. Assegna 0, 1 o 2 a pertinenza alla traccia, separazione tra fatti e ipotesi, qualità dei test, sicurezza e continuità, motivazione della priorità, rollback ed evidenze finali. La griglia serve a confrontare le simulazioni, non sostituisce i criteri della commissione.
 ### Foglio di esito
 
 | Parte | Esito | Tempo | Errore dominante | Azione | Scadenza |
@@ -479,14 +487,15 @@ Prepara una versione di due minuti e una di quattro. Registra dove perdi struttu
 | Risposte | | | | | |
 | Elaborato | | | | | |
 | Orale | | | | | |
-| Caso | | | | | |
+| Caso guidato | | | | | |
+| Caso autonomo | | | | | |
 
 Una simulazione termina quando produce una decisione di studio.
 
 ## ▣ Verifica
 
 ### Quiz 1
-Un servizio e raggiungibile per indirizzo IP ma non per nome. Quale verifica viene prima?
+Un servizio è raggiungibile per indirizzo IP ma non per nome. Quale verifica viene prima?
 
 **Risposta corretta:** la risoluzione DNS, senza escludere controlli successivi sulla catena del servizio.
 
@@ -496,7 +505,7 @@ In una risposta tecnica compare l'avverbio "sempre". Che cosa va controllato?
 **Risposta corretta:** che la regola valga nelle condizioni dichiarate; le assolutizzazioni non motivate sono un segnale di distrattore.
 
 ### Quiz 3
-Una domanda aperta chiede un confronto. Quale struttura e proporzionata?
+Una domanda aperta chiede un confronto. Quale struttura è proporzionata?
 
 **Risposta corretta:** definizione dei due oggetti, asse di distinzione, conseguenza operativa ed esempio essenziale.
 
@@ -511,7 +520,7 @@ All'orale non ricordi un dettaglio normativo. Che cosa fai?
 **Risposta corretta:** delimiti il punto non certo e sviluppi il principio tecnico sicuro, senza inventare dati.
 
 ### Quiz 6
-Un intervento di recupero e stato eseguito ma non produce misure. La chiusura e completa?
+Un intervento di recupero è stato eseguito ma non produce misure. La chiusura è completa?
 
 **Risposta corretta:** no; occorrono una verifica rispetto alla baseline, evidenze registrate e la valutazione del rischio residuo.
 
@@ -589,4 +598,4 @@ Ogni simulazione deve terminare con una decisione di recupero.
 
 ## Avvertenze operative
 
-Quantita delle prove, tempi, punteggi, soglie, penalita e strumenti ammessi dipendono dagli atti pubblicati per la procedura concreta. Le rubriche, i canvas e le simulazioni del capitolo sono strumenti di allenamento: non equivalgono ai criteri della commissione.
+Quantità delle prove, tempi, punteggi, soglie, penalità e strumenti ammessi dipendono dagli atti pubblicati per la procedura concreta. Le rubriche, i canvas e le simulazioni del capitolo sono strumenti di allenamento: non equivalgono ai criteri della commissione.
