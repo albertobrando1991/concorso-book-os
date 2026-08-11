@@ -517,3 +517,41 @@ La copertura `completo` attesta il contratto didattico del lettore. Non chiude l
 | `N-TR01-10-07` | parziale | livelli di interoperabilità, finalità, semantica, privacy, sicurezza e responsabilizzazione sviluppati | completo | heading omonimo, caso guidato e rinvio verificato al capitolo 06 |
 
 La copertura `completo` attesta il contratto didattico del lettore. Non dichiara conclusi i debiti specialistici o normativi: gli step 13-18 devono riesaminare al cut-off linee guida AgID, DCAT-AP_IT, licenze, dataset di elevato valore, ModI, PDND e campo di applicazione dei riferimenti UE.
+
+## Retrofit Format 2 — mappatura capitolo 11
+
+| Nucleo ID | Famiglia/profilo | Materia | Concetto/sotto-concetti | Frequenza/peso | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa | Destinazione rinvio |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-TR01-11-01 | Data/AI e ICT | Fondamenti AI | automazione, algoritmo, sistema AI, modello, feature, label, addestramento e inferenza | alta | AI Act, AgID, NIST AI RMF e fonti capitolo 11 | cap. 11 | definizione, componenti, distinzioni e limiti sviluppati nel nucleo | scheda del caso d'uso e usi esclusi | spiegazione tecnica proporzionata | Q:6 C:1 E:1 quiz 1 e caso | completo | Copertura didattica completa; fonti mobili da riesaminare agli step 13-18 | cap. 03 per algoritmi generali |
+| N-TR01-11-02 | Data/AI e ICT | Machine learning | paradigmi, training, validation, test, generalizzazione, overfitting e leakage | alta | fonti AI/ML capitolo 11 | cap. 11 | teoria autonoma su partizioni, errori e scelta del paradigma | priorità segnalazioni con separazione dei dati | risposta su validazione ripetibile | Q:6 C:1 E:1 quiz 2 e caso | completo | Copertura didattica completa; audit tecnico AI/ML agli step 13-18 | cap. 03 per prerequisiti algoritmici |
+| N-TR01-11-03 | Data/AI e ICT | Dati per AI | provenienza, finalità, etichette, qualità, classi, proxy e rappresentatività | alta | fonti AI/ML e data governance | cap. 11 | spiegazione di documentazione, limiti e conseguenze | scheda dati per canali di segnalazione | diagnosi di dataset non adeguato | Q:6 C:1 E:1 quiz 3 e caso | completo | Privacy e dati personali da riesaminare agli step 13-18 | cap. 10 per lineage e governo trasversale |
+| N-TR01-11-04 | Data/AI e ICT | Valutazione modello | baseline, matrice di confusione, accuracy, precision, recall, F1, soglia e calibrazione | alta | fonti AI/ML capitolo 11 | cap. 11 | metriche ed errori collegati a decisioni di servizio | scelta soglia per urgenze | risposta motivata su metriche | Q:6 C:1 E:1 quiz 3 e caso | completo | Copertura didattica completa; metriche e soglie del caso da validare agli step 13-18 | cap. 04 per qualità dati |
+| N-TR01-11-05 | Data/AI e ICT | Responsible AI | bias, fairness, spiegabilità, trasparenza, controllo umano, override e automation bias | alta | AI Act, NIST AI RMF e fonti capitolo 11 | cap. 11 | distinzioni, limiti e controllo sostanziale sviluppati | log degli override e riesame | analisi motivata di una supervisione | Q:6 C:1 E:1 quiz 4-5 e caso | completo | Diritti e criteri specifici da riesaminare agli step 13-18 | cap. 09 per logging e tracciabilità tecnica |
+| N-TR01-11-06 | Data/AI e ICT | MLOps e governance | lifecycle, versioni, monitoraggio, drift, rollback, rischio, ruoli e fornitore | alta | NIST AI RMF, fonti tecniche e capitolo 11 | cap. 11 | ciclo di vita, rischio e responsabilità spiegati | griglia causa-evento-controllo-responsabile | piano di monitoraggio e sospensione | Q:6 C:1 E:1 quiz 5 e caso | completo | Audit MLOps, cybersecurity e procurement agli step 13-18 | cap. 06, 08, 09 e 12 per approfondimenti precisi |
+| N-TR01-11-07 | Data/AI e ICT | AI Act e raccordo italiano | approccio rischio, ruoli, trasparenza, alto rischio, alfabetizzazione, legge n. 132/2025 e confini | alta | regolamento UE 2024/1689, legge n. 132/2025, AgID e fonti capitolo 11 | cap. 11 | quadro prudente e metodo di verifica del caso sviluppati | classificazione da verificare sul caso | risposta orale su ruoli e fonti vigenti | Q:6 C:1 E:1 quiz 6 e caso | completo | Calendario, atti modificativi, linee guida e campo applicativo sono debiti mobili degli step 13-18 | VOL-01 per privacy, procedimento e trasparenza comuni |
+
+### Checklist dimensionale capitolo 11
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso prova | Errore tipico | Verifica | Fonti |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-TR01-11-01 | ✓ concetti | ✓ leggere il sistema | ✓ PA e servizio | ✓ modello e dati | ✓ algoritmo, sistema e modello | ✓ output non verificato | ✓ scheda caso | ✓ risposta tecnica | ✓ AI come etichetta | ✓ quiz 1 | ✓ frontmatter e riferimenti |
+| N-TR01-11-02 | ✓ paradigmi | ✓ scegliere e validare | ✓ caso d'uso | ✓ partizioni e errori | ✓ training, validation e test | ✓ falsa generalizzazione | ✓ priorità segnalazioni | ✓ validazione | ✓ test riusato | ✓ quiz 2 | ✓ fonti capitolo |
+| N-TR01-11-03 | ✓ dati e label | ✓ addestrare in modo adeguato | ✓ PA e dati personali | ✓ provenienza e proxy | ✓ disponibile e necessario | ✓ disparità e errore | ✓ canali di segnalazione | ✓ diagnosi | ✓ dataset disponibile | ✓ quiz 3 | ✓ frontmatter |
+| N-TR01-11-04 | ✓ metriche | ✓ valutare servizio | ✓ baseline PA | ✓ matrice e soglia | ✓ accuracy, precision e recall | ✓ falsi negativi | ✓ urgenze | ✓ scelta motivata | ✓ accuracy assoluta | ✓ quiz 3 | ✓ fonti capitolo |
+| N-TR01-11-05 | ✓ bias e controllo | ✓ correggere impatti | ✓ diritti e servizio | ✓ fairness e override | ✓ spiegazione e correttezza | ✓ automation bias | ✓ log override | ✓ analisi orale | ✓ clic come controllo | ✓ quiz 4-5 | ✓ fonti capitolo |
+| N-TR01-11-06 | ✓ lifecycle | ✓ governare nel tempo | ✓ organizzazione PA | ✓ versioni, drift e ruoli | ✓ rollback e dismissione | ✓ degrado non rilevato | ✓ griglia rischio | ✓ piano monitoraggio | ✓ rilascio finale | ✓ quiz 5 | ✓ fonti capitolo |
+| N-TR01-11-07 | ✓ quadro UE | ✓ orientare la verifica | ✓ UE e Italia | ✓ ruoli e confini | ✓ rischio tecnico e giuridico | ✓ compliance apparente | ✓ classificazione del caso | ✓ risposta prudente | ✓ nessun obbligo | ✓ quiz 6 | ✓ fonti ufficiali |
+
+### Delta step 10 — capitolo 11 formato 2
+
+| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
+| --- | --- | --- | --- | --- |
+| N-TR01-11-01 | parziale | nucleo Format 2 su sistema, modello e inferenza | completo | heading, scheda caso e quiz 1 |
+| N-TR01-11-02 | parziale | partizioni, leakage e generalizzazione sviluppati | completo | heading, caso e quiz 2 |
+| N-TR01-11-03 | parziale | provenienza, label, proxy e rappresentatività sviluppati | completo | heading, scheda dati e quiz 3 |
+| N-TR01-11-04 | parziale | baseline, metriche, soglie e conseguenze sviluppate | completo | heading, caso e quiz 3 |
+| N-TR01-11-05 | parziale | bias, fairness, spiegabilità e controllo umano sviluppati | completo | heading, override e quiz 4-5 |
+| N-TR01-11-06 | parziale | lifecycle, MLOps, rischio e governance sviluppati | completo | heading, griglia e quiz 5 |
+| N-TR01-11-07 | parziale | quadro UE e italiano presentato con confini prudenziali | completo | heading, caso e quiz 6 |
+
+La copertura `completo` attesta il contratto didattico del lettore. Non chiude i debiti mobili: gli step 13-18 devono riesaminare testo consolidato e calendario AI Act, atti modificativi, linee guida definitive, legge n. 132/2025, stato delle fonti NIST, privacy, sicurezza, ruoli e procurement applicabili al cut-off.

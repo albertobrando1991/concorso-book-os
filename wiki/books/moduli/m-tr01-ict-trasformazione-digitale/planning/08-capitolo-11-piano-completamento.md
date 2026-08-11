@@ -2,14 +2,14 @@
 id: m-tr01-capitolo-11-piano-completamento
 type: chapter_plan
 title: "Piano di completamento — Capitolo 11 AI/ML nella PA: modelli, rischi e compliance"
-status: ready
+status: retrofit-format-2-ready
 domain: "concorsi pubblici italiani"
 topics: ["intelligenza artificiale", "machine learning", "AI Act", "rischio algoritmico", "governance AI"]
 entities: ["Unione europea", "AgID", "Agenzia per la cybersicurezza nazionale"]
 source_refs: ["sources/modulo-m-tr01-ict-digitale-cybersecurity-dati-vol-08", "sources/legge-23-settembre-2025-n-132-intelligenza-artificiale"]
 book_refs: ["m-tr01-ict-trasformazione-digitale", "vol-08-ict-digitale-cybersecurity-dati", "il-metodo-bando"]
 confidence: 0.78
-updated_at: 2026-07-30
+updated_at: 2026-08-11
 created_at: 2026-07-30
 review_required: true
 canonical: false
@@ -441,3 +441,11 @@ Le formule devono restare minime e leggibili. Tabelle di metriche e rischio vann
 ## 18. Esito del piano
 
 Il piano è pronto. Lo step 09 non deve iniziare la scrittura normativa finché non siano state consolidate una source note specialistica sull'AI Act e una versione utilizzabile della legge italiana n. 132/2025. Il capitolo può essere progettato fin d'ora sul piano tecnico, ma date, classi, ruoli e obblighi devono essere verificati sul testo ufficiale vigente.
+
+## 19. Retrofit Format 2 — piano esecutivo 2026-08-11
+
+Il piano conserva la struttura utile già definita e la rende eseguibile nella pipeline aggiornata. I sette nuclei sono: `N-TR01-11-01` algoritmo, sistema AI, modello e inferenza; `N-TR01-11-02` paradigmi, partizioni e generalizzazione; `N-TR01-11-03` dati, provenienza, etichette e rappresentatività; `N-TR01-11-04` baseline, metriche e conseguenze degli errori; `N-TR01-11-05` bias, fairness, spiegabilità e controllo umano; `N-TR01-11-06` lifecycle, MLOps, rischio e governance; `N-TR01-11-07` quadro UE e italiano, ruoli e confini.
+
+Ogni nucleo avrà almeno 600 parole, definizione, funzione, elementi, distinzioni, conseguenze, applicazione e verifica. Dopo il settimo nucleo sarà inserito un unico blocco `▣ Verifica` con sei quiz commentati, il caso della priorità alle segnalazioni, il microcaso generativo e una griglia di rischio compilabile. Restano da conservare apertura, Mappa BANDO, domanda da commissario, domande-trappola, esercizi e checklist; sono da evitare duplicazioni con i capitoli 03 (algoritmi), 04 e 10 (dati), 06 (lifecycle software), 08-09 (rischio e logging) e 12 (fornitore).
+
+Le fonti consolidate sostengono i concetti tecnici, il regolamento (UE) 2024/1689, il raccordo prudente alla legge n. 132/2025, AgID e NIST. La copertura didattica può essere chiusa per il lettore; calendario AI Act, atti modificativi, linee guida definitive, applicazione della legge italiana e stato delle versioni NIST restano debiti mobili degli step 13-18. Nessuna classificazione giuridica o scadenza viene dedotta automaticamente dal caso.
