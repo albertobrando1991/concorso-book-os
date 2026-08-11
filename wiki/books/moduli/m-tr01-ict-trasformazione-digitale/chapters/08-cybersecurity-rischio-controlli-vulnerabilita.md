@@ -9,14 +9,16 @@ entities: ["Agenzia per la cybersicurezza nazionale", "NIST", "OWASP", "CVE", "C
 source_refs: ["sources/modulo-m-tr01-ict-digitale-cybersecurity-dati-vol-08", "sources/sicurezza-informatica-privacy-nis2-pa", "sources/pa-digitale-cad-identita-documenti-servizi-dati", "sources/campione-bandi-ict-pa-vol-08-2024-2026", "sources/legge-28-giugno-2024-n-90-cybersicurezza-nazionale-e-reati-informatici", "sources/cyber-risk-vulnerabilita-secure-software-supply-chain-fonti-primarie"]
 book_refs: ["m-tr01-ict-trasformazione-digitale", "il-metodo-bando"]
 confidence: 0.84
-updated_at: 2026-08-05
+updated_at: 2026-08-11
 created_at: 2026-07-28
-review_required: false
+review_required: true
 canonical: true
 tags: ["chapter", "m-tr01", "cybersecurity", "risk", "vulnerability"]
 book_id: m-tr01-ict-trasformazione-digitale
 outline_section: 8
-draft_stage: cross-reviewed
+draft_stage: format-2-retrofit
+format_version: 2
+dati_operativi: []
 last_compiled_from: ["sources/modulo-m-tr01-ict-digitale-cybersecurity-dati-vol-08", "sources/sicurezza-informatica-privacy-nis2-pa", "sources/pa-digitale-cad-identita-documenti-servizi-dati", "sources/campione-bandi-ict-pa-vol-08-2024-2026", "sources/legge-28-giugno-2024-n-90-cybersicurezza-nazionale-e-reati-informatici", "sources/cyber-risk-vulnerabilita-secure-software-supply-chain-fonti-primarie", "books/moduli/m-tr01-ict-trasformazione-digitale/planning/08-capitolo-08-piano-completamento"]
 ---
 
@@ -55,7 +57,9 @@ Continuità e backup sono nel capitolo 7. IAM, crittografia, logging e risposta 
 
 In prova conviene seguire un ordine stabile: contesto, asset, scenario, rischio, trattamento, evidenza e riesame. Lo strumento scelto è secondario rispetto alla coerenza del ragionamento.
 
-## Obiettivi di sicurezza e asset
+## N-TR01-08-01 · Obiettivi di sicurezza e asset
+
+### Obiettivi di sicurezza e asset
 
 ### Proprietà da proteggere
 
@@ -80,7 +84,27 @@ Un **asset** è qualcosa che ha valore per l’organizzazione e richiede protezi
 
 L’inventario registra responsabile, collocazione, dipendenze, criticità e ciclo di vita. Un asset isolato sulla carta può dipendere da identità, DNS, connettività, provider e personale reperibile. Senza tali relazioni, l’analisi sottostima i punti di guasto.
 
-## Minacce, vulnerabilità e scenari
+
+### Valore e responsabilita dell'asset
+
+La classificazione non parte dalla tecnologia, ma dal servizio che l'ente deve rendere. Un archivio puo essere tecnicamente ordinario e tuttavia essenziale se blocca una graduatoria, un pagamento o una pratica con una scadenza. Per ogni asset occorre quindi chiedersi quale risultato pubblico sostiene, chi lo usa, quali dati tratta, quale proprieta CIA e piu esposta e quali altri elementi devono funzionare insieme. Un portale che sembra autonomo puo dipendere dal servizio di identita, dal dominio, dalla rete, dall'archivio documentale, dal fornitore e da persone con compiti distinti.
+
+Il responsabile dell'asset non coincide sempre con chi amministra il server. Il primo deve chiarire il valore del servizio, le conseguenze di un fermo e le priorita; il secondo puo gestire una configurazione o un controllo. Questa separazione evita una valutazione fatta solo sul valore tecnico del componente. In prova e utile esplicitare sia l'asset sia la dipendenza: "la disponibilita del portale dipende anche dall'identita digitale e dal deposito dei documenti" e una frase piu verificabile di "proteggerei il server".
+
+Un inventario utile non e un elenco statico. Collega asset, proprietario, collocazione, versione, dipendenze, dati trattati e criticita. Le informazioni consentono di aggiornare l'analisi quando cambia una integrazione o un fornitore. L'errore opposto consiste nel classificare tutti gli asset come critici: cosi la priorita perde significato. La criticita deve derivare dal servizio, dalle persone coinvolte, dalle conseguenze e dalle alternative disponibili.
+
+
+### Priorita legata al servizio
+
+Considera due asset: un archivio di manuali pubblici e il registro che abilita un pagamento dovuto. Entrambi contengono informazioni e richiedono protezione, ma l'interruzione non produce lo stesso effetto. Nel secondo caso la disponibilita puo essere decisiva in una data precisa; nel primo puo prevalere l'integrita delle versioni pubblicate. Questa differenza deve comparire nella valutazione, altrimenti la scelta dei controlli rimane astratta.
+
+Le dipendenze rendono visibile un altro aspetto: la sicurezza e una proprieta del servizio, non del singolo apparato. Se l'accesso al portale dipende da un componente esterno, la sua indisponibilita puo interrompere la prestazione anche con il database integro. Il candidato puo rappresentare il legame con una frase semplice: servizio, asset, dipendenza, proprieta da proteggere e conseguenza. La stessa traccia rende verificabile il ragionamento e consente di aggiornare la valutazione quando cambiano architettura o responsabilita.
+
+Infine, valore non significa solo costo di sostituzione. Comprende obblighi di servizio, continuita amministrativa, affidabilita delle decisioni e fiducia degli utenti. Un asset non critico oggi puo diventarlo in una finestra concorsuale o in prossimita di una scadenza. Per questo la classificazione deve avere un riesame, non una etichetta definitiva.
+
+## N-TR01-08-02 · Minacce, vulnerabilita e scenari
+
+### 0
 
 ### Un linguaggio senza ambiguità
 
@@ -106,7 +130,27 @@ Uno scenario di rischio deve indicare:
 
 La formula «rischio ransomware alto» è troppo generica. Bisogna precisare il servizio coinvolto, il percorso d’attacco, le dipendenze e l’impatto atteso.
 
-## Valutare e trattare il rischio
+
+### Dallo scenario alla decisione
+
+Uno scenario ben scritto rende controllabile il ragionamento. Indica un asset, una condizione di debolezza, una minaccia, un percorso plausibile, un evento e una conseguenza. Non richiede la descrizione di tecniche offensive: basta spiegare perche quella combinazione puo compromettere una proprieta del servizio. Per esempio, una funzione esposta e una dipendenza non aggiornata non sono gia un incidente. Diventano uno scenario quando si chiarisce che un soggetto esterno puo raggiungere la funzione e che l'evento temuto comporta accesso improprio o indisponibilita.
+
+La superficie di attacco include la pagina visibile del portale, API, account, canali di amministrazione, componenti di terze parti, processi di aggiornamento e confini fra ambienti. Ridurla puo significare dismettere un'interfaccia non necessaria, limitare un privilegio, separare un ambiente di prova o rendere tracciabile una modifica. Il candidato deve usare questi elementi per motivare una scelta, non per compilare un elenco di parole chiave.
+
+Nel linguaggio della prova, minaccia, vulnerabilita ed evento devono restare distinti. Una vulnerabilita e una debolezza; la minaccia e una causa possibile; l'evento e cio che accade; l'impatto e la conseguenza. Il rischio esprime la possibilita e la gravita della conseguenza rispetto agli obiettivi. Confondere il punteggio tecnico di una debolezza con il rischio dell'ente porta a una priorita priva di contesto.
+
+
+### Condizioni che cambiano lo scenario
+
+La medesima vulnerabilita puo produrre scenari diversi. Su un componente non esposto e isolato il percorso di attacco puo essere poco plausibile; sullo stesso componente raggiungibile da Internet e collegato a documenti sensibili la priorita cambia. Anche le credenziali, la segmentazione, la validazione lato server e la presenza di un percorso alternativo modificano probabilita e impatto. L'analisi deve dichiarare queste condizioni invece di assumere che un nome tecnico le contenga gia tutte.
+
+Una buona descrizione evita formule ambigue. Non dire soltanto "esiste un rischio di accesso". Indica quale attore puo raggiungere quale funzione, quale debolezza rende possibile l'evento, quali dati o servizi sono coinvolti e quale controllo limita il danno. Questa impostazione e utile anche quando la minaccia non e intenzionale: una configurazione errata, un aggiornamento difettoso o un guasto possono compromettere lo stesso servizio e richiedere trattamenti diversi.
+
+L'uso concorsuale consiste nel mostrare che la sicurezza parte dal contesto. Dopo aver definito lo scenario, il candidato puo proporre un controllo e motivarne il legame con la condizione osservata. Una lista di prodotti o sigle senza scenario non dimostra capacita di analisi.
+
+## N-TR01-08-03 · Valutazione e trattamento del rischio
+
+### Valutare e trattare il rischio
 
 ### Probabilità e impatto
 
@@ -153,7 +197,25 @@ Il **risk register** conserva scenario, asset, livello inerente, controlli, trat
 
 L’accettazione non equivale a ignorare. Richiede motivazione, titolare autorizzato, durata e riesame.
 
-## Controlli e difesa per livelli
+
+### Criteri, soglie e accettazione consapevole
+
+La matrice aiuta a ordinare le decisioni solo se le scale sono dichiarate prima del risultato. "Probabilita alta" puo significare esposizione pubblica, sfruttabilita plausibile e assenza di un controllo efficace; "impatto alto" puo riferirsi a una interruzione rilevante del servizio o alla compromissione di informazioni importanti. I criteri cambiano con l'ente, ma non possono cambiare a posteriori per giustificare una scelta gia presa.
+
+Il trattamento deve lasciare una traccia verificabile. Per ridurre un rischio non basta scrivere "applicare un controllo": occorrono un'azione, un responsabile, una data, un'evidenza e un criterio di chiusura. Se il rischio viene accettato, l'accettazione riguarda il residuo dopo avere valutato le alternative; richiede un soggetto autorizzato e una data di riesame. Trasferire una parte delle conseguenze a un fornitore non trasferisce automaticamente la responsabilita dell'ente verso il servizio.
+
+
+### Dalla matrice al registro operativo
+
+La matrice ordina rapidamente gli scenari, mentre il registro conserva le informazioni necessarie per agire. Una riga utile riporta identificativo, asset, scenario, valutazione inerente, controlli esistenti, scelta di trattamento, responsabile, data prevista, evidenza richiesta, valutazione residua e criterio di riesame. Il registro rende confrontabili decisioni ripetute; la matrice da sola non spiega perche un livello e stato attribuito.
+
+Il rischio inerente aiuta a capire la gravita dello scenario prima di contare i controlli. Il rischio residuo non e un punteggio scelto per chiudere una pratica: deriva dalla verifica che i controlli siano presenti, adeguati e funzionanti. Se manca questa evidenza, il valore residuo e una ipotesi e deve rimanere trattato con prudenza. Quando una misura riduce l'impatto ma non la probabilita, oppure viceversa, la motivazione deve dirlo.
+
+Per l'orale, una risposta efficace segue un filo costante: definisco criteri e confini, identifico asset e dipendenze, costruisco lo scenario, valuto, scelgo il trattamento e programmo il riesame. Questa sequenza e preferibile a una formula numerica priva di assunzioni.
+
+## N-TR01-08-04 · Controlli e difesa per livelli
+
+### Controlli e difesa per livelli
 
 ### Natura e funzione
 
@@ -191,7 +253,29 @@ Il NIST CSF 2.0 organizza outcome in sei funzioni:
 
 Le funzioni sono concorrenti e continue, non fasi rigide. Il CSF aiuta a comunicare outcome e lacune, ma non sostituisce l’assessment né prescrive un singolo insieme di tecnologie.
 
-## Threat modeling
+
+### Adeguatezza e prova del controllo
+
+Un controllo e adeguato quando risponde allo scenario e quando la sua efficacia puo essere verificata. La stessa misura puo avere funzioni diverse: una regola di autorizzazione puo prevenire un accesso improprio, mentre il log associato puo aiutare a rilevarlo. Classificare per natura e funzione serve a vedere lacune e dipendenze, non a ottenere una tassonomia perfetta.
+
+La difesa per livelli richiede una domanda ulteriore: i controlli falliscono tutti per la stessa causa? Due protezioni amministrate con la stessa credenziale privilegiata possono perdere efficacia insieme. Per questo asset inventory, hardening, segmentazione, aggiornamento, minimo privilegio e monitoraggio assumono valore quando sono collegati a responsabilita ed evidenze. Il NIST CSF 2.0 offre una mappa di outcome per discutere governo, identificazione, protezione, rilevazione, risposta e recupero. E un riferimento tecnico utile, non un obbligo generale della PA italiana e non una sequenza rigida da applicare in ogni caso.
+
+
+### Controlli coerenti con il rischio
+
+La scelta non parte da un catalogo. Si parte dalla condizione da modificare. Se il problema e una funzione esposta non necessaria, la rimozione o limitazione dell'esposizione puo essere un controllo preventivo. Se il rischio riguarda modifiche non autorizzate, autorizzazioni separate e registrazioni delle operazioni svolgono funzioni differenti. Se la correzione richiede tempo, una misura compensativa puo ridurre temporaneamente l'esposizione, ma deve avere durata definita e non diventare una soluzione invisibile.
+
+Le evidenze sono parte del controllo. Una procedura puo dimostrare che una responsabilita e assegnata; una configurazione approvata puo dimostrare l'applicazione di una regola; un test puo mostrare che il controllo produce l'effetto atteso. Senza evidenza, il controllo e soltanto dichiarato. La verifica periodica intercetta anche controlli che erano corretti quando sono stati installati ma non lo sono piu dopo una modifica.
+
+Un candidato non deve promettere sicurezza assoluta. Deve spiegare come piu livelli indipendenti riducono il rischio residuo e come l'ente sapra se funzionano. Questa e la differenza fra una risposta tecnica e una lista generica di misure.
+
+
+
+La scelta va riesaminata quando cambiano asset, esposizione, minaccia, architettura o efficacia del controllo. Un controllo adeguato ieri puo non esserlo dopo una integrazione, una variazione di servizio o un cambiamento organizzativo. Il riesame mantiene il trattamento collegato alla realta del servizio.
+
+## N-TR01-08-05 · Threat modeling e gestione delle vulnerabilita
+
+### Threat modeling
 
 Il threat modeling anticipa domande di sicurezza durante progettazione ed evoluzione. Il gruppo:
 
@@ -205,7 +289,7 @@ STRIDE è una tassonomia possibile: spoofing, tampering, repudiation, informatio
 
 Un diagramma dei flussi mostra dove i dati entrano, cambiano fiducia, vengono elaborati e conservati. Ogni confine suggerisce domande su validazione, identità, autorizzazione e protezione.
 
-## Gestione delle vulnerabilità
+### Gestione delle vulnerabilita
 
 ### Scoperta e validazione
 
@@ -237,7 +321,25 @@ La remediation assegna responsabile e scadenza, prova la patch, pianifica la dis
 
 La responsible disclosure coordina segnalazione e correzione evitando diffusione prematura di dettagli. Nel lavoro pubblico vanno rispettati canali, autorizzazioni e procedure applicabili.
 
-## Secure SDLC e secure coding
+
+### Priorita contestuale e chiusura verificata
+
+La gestione delle vulnerabilita e un ciclo, non la somma dei risultati di uno strumento. Inventario, scoperta, validazione, priorita, trattamento e verifica di chiusura devono rimanere collegati. Un risultato puo essere un falso positivo oppure non essere applicabile alla configurazione esaminata; trattarlo come un incidente genera lavoro inutile. All'opposto, ignorare una segnalazione senza motivazione impedisce di spiegare il rischio residuo.
+
+CVE identifica una vulnerabilita pubblicamente nota, CWE descrive una classe di debolezza e CVSS comunica caratteristiche e gravita. Nessuno dei tre sostituisce l'analisi del servizio. La priorita considera anche esposizione, sfruttabilita, valore dell'asset, controlli e rischio della modifica. Una patch puo richiedere test e una finestra di rilascio; nel frattempo una mitigazione temporanea puo ridurre l'esposizione. L'eccezione deve avere proprietario, motivazione, scadenza e riesame.
+
+
+### Modello di minaccia come strumento di progetto
+
+Il threat modeling e utile quando accompagna una decisione concreta. Per un portale, il gruppo puo disegnare utenti, front end, servizi applicativi, archivio documentale e sistemi esterni; poi identifica dove il dato attraversa un confine di fiducia. A ciascun passaggio associa una domanda: chi puo inviare il dato, come viene verificata l'identita, quale autorizzazione serve, quale trasformazione avviene e quale evidenza resta. Serve a collegare ogni flusso alla minaccia e alla mitigazione che lo riguarda.
+
+STRIDE puo aiutare a classificare famiglie di minacce, ma non sostituisce la conoscenza del sistema. Un diagramma incompleto o una lista di categorie non genera da sola un trattamento. Lo stesso vale per la gestione delle vulnerabilita: il risultato di una scansione diventa utile quando e attribuito a un asset, validato e collegato a un'azione verificabile. Il ciclo deve poter spiegare anche perche una segnalazione e stata chiusa, rinviata o dichiarata non applicabile.
+
+Quando una vulnerabilita non puo essere corretta immediatamente, la scelta responsabile non e nasconderla. Occorre limitare il rischio, approvare l'eccezione, fissare una data e verificare che la condizione temporanea non diventi permanente.
+
+## N-TR01-08-06 · Secure SDLC e software supply chain
+
+### Secure SDLC e secure coding
 
 ### Sicurezza lungo il ciclo di vita
 
@@ -268,7 +370,7 @@ Le tecniche hanno coperture diverse. I risultati vanno validati e ricondotti all
 
 OWASP Top 10 è un documento di awareness sui rischi delle applicazioni web. L’edizione 2025 include categorie come controllo accessi, configurazione, supply chain, crittografia, injection e design insicuro. Non certifica la sicurezza e non sostituisce requisiti, threat modeling o test basati sul contesto.
 
-## Software supply chain
+### Software supply chain
 
 La supply chain comprende codice proprio, librerie, componenti open source e commerciali, repository, tool di build, runner, pipeline, artefatti e canali di distribuzione. L’attaccante può compromettere un componente, una credenziale, il processo di build oppure il canale di aggiornamento.
 
@@ -288,7 +390,23 @@ Una **SBOM** è un record formale dei componenti e delle relazioni. Aiuta a risp
 
 Il rischio di terze parti resta dell’organizzazione anche quando alcune attività sono affidate fuori. Requisiti contrattuali e SLA sono trattati nel capitolo 12.
 
-## Caso guidato: portale per le domande
+
+### Prevenzione prima del rilascio
+
+La sicurezza del software non inizia con una scansione finale. Requisiti verificabili, progettazione, revisione, test, rilascio ed esercizio producono evidenze diverse e riducono classi diverse di errore. Validare un input, gestire correttamente gli errori e applicare autorizzazioni sul server sono esempi di principi; non costituiscono una ricetta universale. Una review del codice, SAST, DAST, analisi delle dipendenze e penetration test osservano aspetti differenti e richiedono scopo e autorizzazioni.
+
+La filiera comprende anche repository, account, runner, strumenti di build, artefatti e canali di distribuzione. Una SBOM aiuta a sapere dove una libreria e usata; non dimostra da sola che il prodotto sia sicuro. Per questo la filiera richiede componenti identificati, modifiche revisionate, accessi protetti, provenienza verificabile e capacita di ricostruire una release. I requisiti contrattuali dettagliati restano nel capitolo 12, mentre qui il candidato deve saper riconoscere il rischio tecnico e l'evidenza necessaria.
+
+
+### Evidenze della filiera
+
+Una catena di rilascio affidabile rende possibile rispondere a domande semplici: quale codice e stato usato, quali componenti erano inclusi, chi ha autorizzato la modifica, quale artefatto e stato distribuito e come si puo tornare a una versione precedente. Queste domande non richiedono dettagli riservati o procedure offensive; servono a collegare prevenzione, tracciabilita e recupero.
+
+La sicurezza per impostazione predefinita riduce il numero di decisioni rischiose richieste a chi usa o gestisce il sistema. Non elimina la responsabilita di configurare, testare e aggiornare. Un requisito di sicurezza ben scritto indica comportamento atteso, vincolo, evidenza e criterio di accettazione. Questa logica aiuta anche a distinguere una promessa generica di "software sicuro" da un impegno verificabile.
+
+## ▣ Verifica
+
+### Caso guidato: portale per le domande
 
 Un ente gestisce un portale per presentare domande di contributo. L’applicazione usa una libreria con una vulnerabilità pubblica; il servizio è esposto e tratta documenti personali.
 
@@ -306,7 +424,7 @@ Un ente gestisce un portale per presentare domande di contributo. L’applicazio
 
 **Supply chain.** La SBOM consente di individuare altri servizi con la stessa libreria. L’ente traduce quanto appreso in nuovi requisiti di aggiornamento e controlli della pipeline.
 
-## Laboratorio: costruire una risk matrix
+### Laboratorio: costruire una risk matrix
 
 Compila una riga per ciascuno scenario.
 
@@ -325,23 +443,23 @@ Compila una riga per ciascuno scenario.
 | Residuo | che cosa rimane dopo la verifica? |
 | Riesame | quale evento o data riapre la valutazione? |
 
-## Domanda da commissario
+### Domanda da commissario
 
 **«Come imposteresti un risk assessment cyber?»**
 
 Definirei scopo, metodo e criteri; identificherei asset e dipendenze; costruirei scenari con minacce, vulnerabilità, eventi e impatti; stimerei probabilità e impatto; valuterei controlli e rischio inerente; sceglierei trattamento, responsabile, scadenza ed evidenza; infine valuterei il rischio residuo e fisserei il riesame.
 
-## Domanda-trappola
+### Domanda-trappola
 
 **«La vulnerabilità con CVSS più alto va sempre corretta per prima?»**
 
 No. CVSS comunica la gravità tecnica, ma la priorità dipende anche da esposizione, sfruttabilità, criticità dell’asset, impatto, controlli e rischio della modifica. Il punteggio è un input, non la decisione.
 
-## Errore tipico
+### Errore tipico
 
 L’errore consiste nell’assegnare un «rischio alto» senza descrivere lo scenario e le scale adottate. Una valutazione verificabile esplicita asset, minaccia, vulnerabilità, impatto, probabilità, controlli e assunzioni.
 
-## Mini-esercizi e quiz
+### Mini-esercizi e quiz
 
 1. Una configurazione predefinita con credenziali note è:
    - A. una minaccia
@@ -377,9 +495,20 @@ L’errore consiste nell’assegnare un «rischio alto» senza descrivere lo sce
 
 7. Indica un controllo preventivo, uno detective e uno compensativo per lo stesso scenario.
 
-**Soluzioni:** 1-B; 2-B; 3-B; 4-A; 5-B. Nelle risposte aperte verifica che i termini non siano usati come sinonimi e che il controllo compensativo riduca realmente probabilità o impatto.
+**Soluzioni sintetiche:** 1-B; 2-B; 3-B; 4-A; 5-B.
 
-## Checklist finale
+**Risposta corretta: B.** Una configurazione con credenziali note e una debolezza sfruttabile: non descrive ancora un attore, un evento o l'impatto.
+
+**Risposta corretta: B.** Il rischio residuo e quello che rimane dopo avere considerato controlli pertinenti ed evidenze della loro efficacia.
+
+**Risposta corretta: B.** CVE identifica una vulnerabilita nota; CWE descrive una classe di debolezza e CVSS ne comunica caratteristiche e gravita.
+
+**Risposta corretta: A.** DAST osserva il comportamento dell'applicazione in esecuzione. SAST e analisi statica; i due approcci non sono intercambiabili.
+
+**Risposta corretta: B.** La SBOM e un inventario formale di componenti e relazioni. Non certifica il software e non sostituisce i controlli di sviluppo.
+
+**Risposta corretta: risposta aperta.** Lo scenario deve separare minaccia, vulnerabilita, evento e impatto; l'esercizio sui controlli deve motivare come ciascuna misura riduce probabilita o conseguenze.
+### Checklist finale
 
 - ho definito scopo, metodo e scale;
 - ho inventariato asset e dipendenze;
@@ -394,28 +523,15 @@ L’errore consiste nell’assegnare un «rischio alto» senza descrivere lo sce
 - ho considerato dipendenze, pipeline e artefatti;
 - ho previsto riesame e chiusura.
 
-## Da sapere in 5 righe
+### Da sapere in 5 righe
 
 Il rischio nasce da uno scenario, non da un punteggio isolato. Minaccia, vulnerabilità, evento e impatto sono concetti distinti. I controlli riducono probabilità o conseguenze e devono produrre evidenze. CVE identifica, CWE classifica debolezze, CVSS comunica gravità. Sviluppo sicuro e supply chain portano la prevenzione prima del rilascio.
 
-## Riferimenti consolidati
+## Riferimenti normativi e professionali essenziali
 
-- [[sources/cyber-risk-vulnerabilita-secure-software-supply-chain-fonti-primarie]]
-- [[sources/sicurezza-informatica-privacy-nis2-pa]]
-- [[sources/pa-digitale-cad-identita-documenti-servizi-dati]]
-- [[sources/campione-bandi-ict-pa-vol-08-2024-2026]]
-- [[sources/legge-28-giugno-2024-n-90-cybersicurezza-nazionale-e-reati-informatici]]
-- [[sources/modulo-m-tr01-ict-digitale-cybersecurity-dati-vol-08]]
-- [[topics/sicurezza-informatica]]
-- [[topics/ict-digitale-cybersecurity-dati-concorsi-pa]]
-- [[entities/agenzia-cybersicurezza-nazionale]]
-- [[books/il-metodo-bando/chapters/informatica-pa-digitale-competenze-digitali]], § 6.
-
-## Note di review
-
-- Audit specialistico concluso: quadro ACN, NIS2, procedure e terminologia sono verificati al cut-off; per applicazioni successive ricontrollare le fonti ufficiali vigenti.
-- Sottoporre risk matrix e trattamento a cyber risk manager e security architect.
-- Far validare vulnerability management, CVSS e remediation da uno specialista.
-- Far revisionare secure coding, test e OWASP da un application security engineer.
-- Verificare SBOM, provenienza e pipeline con uno specialista software supply chain.
-- Mantenere nel capitolo 9 IAM, crittografia, logging e incident response di dettaglio.
+- NIST Cybersecurity Framework 2.0 e NIST SP 800-30, per outcome e valutazione del rischio.
+- NIST Secure Software Development Framework, SP 800-218, per le pratiche lungo il ciclo di sviluppo.
+- CVE Program, Common Weakness Enumeration e CVSS v4.0, per distinguere identificazione, classe di debolezza e gravita.
+- OWASP Top 10, come documento di awareness sui rischi applicativi.
+- CISA, Software Bill of Materials e pratiche per il consumo della SBOM.
+- Quadro italiano di cybersicurezza applicabile al bando e all'ente, da verificare al cut-off della procedura.

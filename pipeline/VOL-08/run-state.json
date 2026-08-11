@@ -3,7 +3,7 @@
   "specPath": "books/volumi/vol-08-ict-digitale-cybersecurity-dati/planning/00-scheda-pipeline.md",
   "specHash": "sha256:af67ff81718eae7e5e2d8b29cdd926e24769a54de17ffffc130f7dd3cbd210d4",
   "createdAt": "2026-07-28T19:54:29.381Z",
-  "updatedAt": "2026-08-11T07:10:31.106Z",
+  "updatedAt": "2026-08-11T07:33:00.357Z",
   "steps": [
     {
       "key": "08:moduli/m-tr01-ict-trasformazione-digitale/chapters/01-lavorare-ict-pa-ruoli-enti-prove.md",
@@ -935,12 +935,35 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-tr01-ict-trasformazione-digitale/chapters/08-cybersecurity-rischio-controlli-vulnerabilita.md",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "evidence": [
         "reopen: Retrofit formato 2 autorizzato dall'utente il 2026-08-05",
         "reopen: Rilascio presa in carico accidentale durante fix review capitolo 07; nessun lavoro eseguito sul capitolo 08"
-      ]
+      ],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-11T07:18:49.075Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-tr01-ict-trasformazione-digitale/chapters/08-cybersecurity-rischio-controlli-vulnerabilita.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di aless: Verifica manuale documentata nel piano: sei Nucleo ID stabili, confini con VOL-01 e capitoli 7, 9, 12, budget, caso, laboratorio, quiz e debiti specialistici per gli step 13-18."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-11T07:21:19.386Z"
     },
     {
       "key": "09:moduli/m-tr01-ict-trasformazione-digitale/chapters/08-cybersecurity-rischio-controlli-vulnerabilita.md",
@@ -948,9 +971,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-tr01-ict-trasformazione-digitale/chapters/08-cybersecurity-rischio-controlli-vulnerabilita.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-11T07:21:36.055Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-11T07:28:44.429Z"
     },
     {
       "key": "10:moduli/m-tr01-ict-trasformazione-digitale/chapters/08-cybersecurity-rischio-controlli-vulnerabilita.md",
@@ -958,9 +991,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-tr01-ict-trasformazione-digitale/chapters/08-cybersecurity-rischio-controlli-vulnerabilita.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-11T07:28:45.081Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-11T07:29:47.741Z"
     },
     {
       "key": "11:moduli/m-tr01-ict-trasformazione-digitale/chapters/08-cybersecurity-rischio-controlli-vulnerabilita.md",
@@ -968,9 +1011,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-tr01-ict-trasformazione-digitale/chapters/08-cybersecurity-rischio-controlli-vulnerabilita.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-11T07:29:48.453Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-11T07:32:07.404Z"
     },
     {
       "key": "12:moduli/m-tr01-ict-trasformazione-digitale/chapters/08-cybersecurity-rischio-controlli-vulnerabilita.md",
@@ -978,9 +1031,40 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-tr01-ict-trasformazione-digitale/chapters/08-cybersecurity-rischio-controlli-vulnerabilita.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-11T07:32:08.095Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V01: stato \"da verificare allo step 15\".",
+            "location": "wiki/reviews/pipeline/VOL-08/12-moduli-m-tr01-ict-trasformazione-digitale-chapters-08-cybersecurity-rischio-controlli-vulnerabilita-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V02: stato \"da verificare allo step 15\".",
+            "location": "wiki/reviews/pipeline/VOL-08/12-moduli-m-tr01-ict-trasformazione-digitale-chapters-08-cybersecurity-rischio-controlli-vulnerabilita-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V03: stato \"da verificare allo step 15\".",
+            "location": "wiki/reviews/pipeline/VOL-08/12-moduli-m-tr01-ict-trasformazione-digitale-chapters-08-cybersecurity-rischio-controlli-vulnerabilita-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V04: stato \"da verificare allo step 15\".",
+            "location": "wiki/reviews/pipeline/VOL-08/12-moduli-m-tr01-ict-trasformazione-digitale-chapters-08-cybersecurity-rischio-controlli-vulnerabilita-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-11T07:33:00.357Z"
     },
     {
       "key": "08:moduli/m-tr01-ict-trasformazione-digitale/chapters/09-iam-crittografia-logging-incident-response.md",
