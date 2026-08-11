@@ -3,7 +3,7 @@
   "specPath": "books/volumi/vol-08-ict-digitale-cybersecurity-dati/planning/00-scheda-pipeline.md",
   "specHash": "sha256:af67ff81718eae7e5e2d8b29cdd926e24769a54de17ffffc130f7dd3cbd210d4",
   "createdAt": "2026-07-28T19:54:29.381Z",
-  "updatedAt": "2026-08-11T09:32:02.473Z",
+  "updatedAt": "2026-08-11T09:39:14.619Z",
   "steps": [
     {
       "key": "08:moduli/m-tr01-ict-trasformazione-digitale/chapters/01-lavorare-ict-pa-ruoli-enti-prove.md",
@@ -1517,16 +1517,21 @@
       "scope": "chapter",
       "target": "moduli/m-tr01-ict-trasformazione-digitale/chapters/12-procurement-ict-gestione-fornitori.md",
       "status": "done",
-      "attempts": 0,
+      "attempts": 1,
       "evidence": [
-        "reopen: Fix round 1 Task 15: terminologia art. 116/RUP, rinvio VOL-09, workflow interno, proofread e matrice quiz"
+        "reopen: Fix round 1 Task 15: terminologia art. 116/RUP, rinvio VOL-09, workflow interno, proofread e matrice quiz",
+        "reopen: Fix round 2 Task 15: ripristino audit trail con presa in carico esplicita 09-12"
       ],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-11T09:38:55.642Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-08-11T09:30:36.913Z"
+      "finishedAt": "2026-08-11T09:38:56.874Z"
     },
     {
       "key": "10:moduli/m-tr01-ict-trasformazione-digitale/chapters/12-procurement-ict-gestione-fornitori.md",
@@ -1535,18 +1540,18 @@
       "scope": "chapter",
       "target": "moduli/m-tr01-ict-trasformazione-digitale/chapters/12-procurement-ict-gestione-fornitori.md",
       "status": "done",
-      "attempts": 2,
+      "attempts": 1,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-11T09:30:40.955Z",
+      "startedAt": "2026-08-11T09:39:08.948Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-08-11T09:30:54.898Z"
+      "finishedAt": "2026-08-11T09:39:10.429Z"
     },
     {
       "key": "11:moduli/m-tr01-ict-trasformazione-digitale/chapters/12-procurement-ict-gestione-fornitori.md",
@@ -1560,13 +1565,13 @@
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-11T09:30:55.642Z",
+      "startedAt": "2026-08-11T09:39:11.092Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-08-11T09:31:04.895Z"
+      "finishedAt": "2026-08-11T09:39:12.421Z"
     },
     {
       "key": "12:moduli/m-tr01-ict-trasformazione-digitale/chapters/12-procurement-ict-gestione-fornitori.md",
@@ -1575,10 +1580,14 @@
       "scope": "chapter",
       "target": "moduli/m-tr01-ict-trasformazione-digitale/chapters/12-procurement-ict-gestione-fornitori.md",
       "status": "done",
-      "attempts": 0,
+      "attempts": 1,
       "evidence": [
         "reopen: Fix round 1 Task 15: corretta separazione della tabella di revisione"
       ],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-11T09:39:13.130Z",
       "gate": {
         "passed": true,
         "blockers": [],
@@ -1605,7 +1614,7 @@
           }
         ]
       },
-      "finishedAt": "2026-08-11T09:32:02.473Z"
+      "finishedAt": "2026-08-11T09:39:14.619Z"
     },
     {
       "key": "08:moduli/m-tr01-ict-trasformazione-digitale/chapters/13-laboratorio-prove-ict.md",
