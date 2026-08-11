@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "purpose": "Manifest indipendente dei nuclei attesi, tratto dai target step 09 e dai piani step 08; non generato da matrice o indice.",
+  "chapters": [
+    { "number": "01", "file": "01-lavorare-ict-pa-ruoli-enti-prove.md", "nuclei": 6, "sourceRef": "sources/campione-bandi-ict-pa-vol-08-2024-2026" },
+    { "number": "02", "file": "02-informatica-specialistica-oltre-vol-01.md", "nuclei": 6, "sourceRef": "sources/architettura-sistemi-rappresentazione-prestazioni-fonti-tecniche" },
+    { "number": "03", "file": "03-programmazione-algoritmi-strutture-dati.md", "nuclei": 6, "sourceRef": "sources/programmazione-algoritmi-strutture-dati-fonti-tecniche" },
+    { "number": "04", "file": "04-basi-dati-sql-nosql-qualita-dato.md", "nuclei": 6, "sourceRef": "sources/basi-dati-sql-nosql-qualita-fonti-tecniche" },
+    { "number": "05", "file": "05-reti-sistemi-operativi-infrastrutture.md", "nuclei": 6, "sourceRef": "sources/reti-sistemi-infrastrutture-fonti-tecniche" },
+    { "number": "06", "file": "06-ingegneria-software-api-interoperabilita-pa.md", "nuclei": 6, "sourceRef": "sources/ingegneria-software-api-interoperabilita-fonti-tecniche" },
+    { "number": "07", "file": "07-cloud-pa-virtualizzazione-container-devops.md", "nuclei": 6, "sourceRef": "sources/cloud-virtualizzazione-container-devops-continuita-fonti-primarie" },
+    { "number": "08", "file": "08-cybersecurity-rischio-controlli-vulnerabilita.md", "nuclei": 6, "sourceRef": "sources/cyber-risk-vulnerabilita-secure-software-supply-chain-fonti-primarie" },
+    { "number": "09", "file": "09-iam-crittografia-logging-incident-response.md", "nuclei": 6, "sourceRef": "sources/iam-crittografia-logging-incident-response-fonti-primarie" },
+    { "number": "10", "file": "10-data-governance-open-data-interoperabilita.md", "nuclei": 7, "sourceRef": "sources/data-governance-open-data-interoperabilita-fonti-primarie" },
+    { "number": "11", "file": "11-ai-ml-pa-rischi-compliance.md", "nuclei": 7, "sourceRef": "sources/ai-ml-governance-rischi-compliance-fonti-primarie" },
+    { "number": "12", "file": "12-procurement-ict-gestione-fornitori.md", "nuclei": 7, "sourceRef": "sources/procurement-ict-sla-vendor-management-fonti-consolidate" },
+    { "number": "13", "file": "13-laboratorio-prove-ict.md", "nuclei": 7, "sourceRef": "sources/simulazioni-concorsuali-metodo-bando" }
+  ]
+}

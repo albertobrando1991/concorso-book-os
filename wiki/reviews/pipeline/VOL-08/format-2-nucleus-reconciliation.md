@@ -10,8 +10,8 @@
 | --- | ---: | ---: | ---: | ---: | ---: | ---: |
 | 01-lavorare-ict-pa-ruoli-enti-prove.md | 6 | 4657 | 6 | 2 | 1 | 2 |
 | 02-informatica-specialistica-oltre-vol-01.md | 6 | 4841 | 6 | 1 | 1 | 2 |
-| 03-programmazione-algoritmi-strutture-dati.md | 6 | 4601 | 6 | 1 | 1 | 2 |
-| 04-basi-dati-sql-nosql-qualita-dato.md | 6 | 5021 | 6 | 1 | 1 | 2 |
+| 03-programmazione-algoritmi-strutture-dati.md | 6 | 4402 | 6 | 1 | 1 | 2 |
+| 04-basi-dati-sql-nosql-qualita-dato.md | 6 | 4794 | 6 | 1 | 1 | 2 |
 | 05-reti-sistemi-operativi-infrastrutture.md | 6 | 4983 | 6 | 1 | 1 | 2 |
 | 06-ingegneria-software-api-interoperabilita-pa.md | 6 | 4962 | 6 | 1 | 1 | 2 |
 | 07-cloud-pa-virtualizzazione-container-devops.md | 6 | 5209 | 7 | 1 | 1 | 2 |

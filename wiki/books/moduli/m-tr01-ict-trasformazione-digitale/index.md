@@ -83,7 +83,7 @@ La promessa è trasformare le materie ICT del bando in nuclei di studio, eserciz
 
 ## Stato editoriale
 
-I capitoli 01-13 hanno completato gate individuali, correzione trasversale e audit specialistico conclusivo. Il testo è congelato; restano i gate finali di volume e la conferma umana dello step 24.
+I capitoli 01-13 hanno completato i gate individuali 08-12. Restano da eseguire revisione trasversale, correzioni, audit specialistico e text freeze del modulo (step 13-16), le verifiche visive (step 17-18) e l'audit di impaginazione (step 19-20), prima dei gate finali di volume e della conferma umana dello step 24.
 
 <!-- format-2-analytical-index:start -->
 
