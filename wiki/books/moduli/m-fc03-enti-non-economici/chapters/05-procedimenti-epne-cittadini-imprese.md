@@ -7,7 +7,7 @@ format_version: 2
 dati_operativi: []
 domain: "concorsi pubblici italiani"
 topics: ["procedimento amministrativo","servizi pubblici","accesso","privacy","pa digitale","orientamento al cittadino"]
-entities: ["INPS","INAIL","Legge 241/1990","Garante Privacy","CAD"]
+entities: ["INPS","INAIL","Legge 241/1990","Garante per la protezione dei dati personali","CAD"]
 source_refs: ["sources/m-fc03-dossier-redazionale-enti-pubblici-non-economici.md","sources/m-fc03-fonti-ufficiali-enti-epne-2026.md","sources/legge-241-1990-procedimento-amministrativo.md","sources/legge-7-agosto-1990-n-241-procedimento-amministrativo-e-accesso-ai-documenti-amministrativi-testo-vigente-normattiva.md","sources/regolamento-ue-2016-679-gdpr-protezione-dati-personali.md","sources/d-lgs-14-marzo-2013-n-33-trasparenza.md","sources/pa-digitale-cad-identita-documenti-servizi-dati.md","sources/garante-privacy-trasparenza-pa-accesso-civico-e-dati-personali.md"]
 book_refs: ["m-fc03-enti-non-economici","il-metodo-bando"]
 confidence: 0.84
@@ -197,8 +197,8 @@ Trasparenza e protezione dei dati pongono domande diverse: la prima non impone l
 | Accesso documentale | Riguarda documenti amministrativi e presuppone una posizione qualificata secondo la disciplina applicabile. | Valutare interesse, documento, eventuali controinteressati e limiti. |
 | Accesso civico semplice | Riguarda dati, documenti o informazioni soggetti a pubblicazione obbligatoria. | Verificare se l'obbligo di pubblicazione esiste. |
 | Accesso civico generalizzato | Mira a favorire controllo diffuso sull'attivita amministrativa, con limiti e bilanciamenti. | Considerare interessi pubblici, privati e protezione dati. |
-| Pubblicazione online | E' diffusione ampia e stabile di informazioni. | Evitare dati eccedenti, non pertinenti o pubblicati senza base normativa. |
-| Protezione dati | Impone liceita, correttezza, trasparenza, minimizzazione, esattezza, riservatezza e accountability. | Limitare consultazione e comunicazione a cio' che serve e a chi e' autorizzato. |
+| Pubblicazione online | E' una forma di diffusione verso una pluralita indeterminata di soggetti. | Evitare dati eccedenti, non pertinenti o pubblicati senza base normativa. |
+| Protezione dati | Impone liceita, correttezza, trasparenza, minimizzazione, esattezza, riservatezza e responsabilizzazione. | Limitare consultazione e comunicazione a cio' che serve e a chi e' autorizzato. |
 
 La comunicazione e la diffusione non sono equivalenti. Comunicare significa rendere dati conoscibili a soggetti determinati; diffondere significa renderli conoscibili a una pluralita indeterminata. La pubblicazione sul sito istituzionale e' quindi piu' invasiva della consegna di un documento a un soggetto legittimato e richiede una specifica base normativa, oltre al rispetto di pertinenza, non eccedenza e proporzionalita.
 
