@@ -5101,3 +5101,11 @@
 - l0: l0/conv-20260811100032-6p475b.md
 - atoms:
   - mem-20260811100032-1ag1iuv | result | Esito codex-vol10-cap06-step08-format2: Procedi con il prossimo step della pipeline aggiornata di VOL-10. -> Completato step 08 capitolo 06: aggiornato piano operativo Format 2 per edilizia, SUE, titoli e vigilanza; definiti sei nuclei da almeno 600 parole, fonti, confini, audit, sei quiz, verifiche e caso integrato; gate ch...
+
+## 2026-08-11T10:18:33.465Z - VOL-10
+
+- conversation_id: conv-20260811101833-v1soam
+- route: codex-vol10-cap06-step09-format2
+- l0: l0/conv-20260811101833-v1soam.md
+- atoms:
+  - mem-20260811101833-1i42klw | result | Esito codex-vol10-cap06-step09-format2: Procedi con il prossimo step. -> Step 09 capitolo 06 completato: Formato 2, 5104 parole, sei nuclei 666-732 parole, sei quiz, due casi, gate verde.
