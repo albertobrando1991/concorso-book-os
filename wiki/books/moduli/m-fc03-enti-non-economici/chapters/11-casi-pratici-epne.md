@@ -61,7 +61,7 @@ Nel caso pratico, le materie del modulo M-FC03 entrano nel lavoro d'ufficio. Con
 
 Nei concorsi per enti pubblici non economici, il caso pratico seleziona una competenza precisa: ragionare come un funzionario pubblico dentro un ente di servizio. Il buon senso o la citazione isolata di una norma non risolvono la traccia, e dire che "l'amministrazione deve provvedere" lascia il problema intatto. Bisogna leggere i fatti, individuare il procedimento, riconoscere competenza e vincoli, proteggere i dati, usare canali corretti, proporre un output realistico e motivato.
 
-Il libro base ha gia' spiegato il metodo generale per i casi pratici. Questo capitolo lo specializza sugli EPNE. Qui i casi ruotano intorno a sportello, back office, prestazioni, assicurazione sociale, richieste di accesso, comunicazioni, servizi digitali, utenti e imprese. INPS e INAIL sono gli esempi guida, ma la griglia vale anche per ACI, ENAC, ISTAT, ASI, ENEA amministrativo, CRI e altri enti compatibili, sempre nei limiti del bando.
+Il volume base Il Metodo BANDO spiega il metodo generale nel capitolo Casi pratici e problem solving amministrativo. Questo capitolo lo specializza sugli EPNE. Qui i casi ruotano intorno a sportello, back office, prestazioni, assicurazione sociale, richieste di accesso, comunicazioni, servizi digitali, utenti e imprese. INPS e INAIL sono gli esempi guida, ma la griglia vale anche per ACI, ENAC, ISTAT, ASI, ENEA amministrativo, CRI e altri enti compatibili, sempre nei limiti del bando.
 
 La domanda guida e':
 
@@ -74,7 +74,7 @@ Alla fine del capitolo devi saper fare cinque cose:
 1. riconoscere quando una traccia e' un caso pratico EPNE e non una domanda teorica mascherata;
 2. usare una griglia stabile per leggere fatti, soggetti, competenza, procedimento, dati, vincoli e output;
 3. costruire risposte su casi INPS e INAIL senza promettere esiti, inventare requisiti o saltare l'istruttoria;
-4. produrre mini-atti e risposte sintetiche: comunicazione, richiesta integrazione, instradamento, nota interna, risposta all'utente;
+4. produrre mini-atti e risposte sintetiche: comunicazione, richiesta di integrazione, instradamento, nota interna, risposta all'utente;
 5. correggere gli errori tipici: teoria eccessiva, privacy dimenticata, competenza confusa, sportello trattato come favore personale.
 
 L'obiettivo non e' conoscere ogni procedura dell'ente, ma saper impostare una soluzione amministrativa plausibile e verificabile.
@@ -97,7 +97,7 @@ Il caso pratico non si studia leggendo altri esempi in modo passivo. Si studia p
 
 Un caso pratico EPNE e' una situazione concreta ambientata in un ente pubblico non economico. Puo' riguardare un cittadino, un lavoratore, un pensionato, un'impresa, un intermediario, un datore di lavoro, un candidato a concorso o un ufficio interno. La traccia puo' chiedere una soluzione, una sequenza di passaggi, una comunicazione, un comportamento corretto o una valutazione motivata.
 
-La differenza rispetto a un caso amministrativo generico e' il contesto. In un EPNE il procedimento spesso si collega a servizi e prestazioni. In INPS puo' riguardare domanda, posizione contributiva, prestazione, utente, fascicolo, dati personali e canale digitale. In INAIL puo' riguardare evento lavorativo, assicurazione, prevenzione, prestazione, impresa, lavoratore, dati sanitari e sicurezza. Negli altri enti puo' riguardare iscrizioni, certificazioni, servizi istituzionali, rapporto con utenti o gestione interna.
+La differenza rispetto a un caso amministrativo generico e' il contesto. In un EPNE il procedimento spesso si collega a servizi e prestazioni. In INPS puo' riguardare domanda, posizione contributiva, prestazione, utente, fascicolo, dati personali e canale digitale. In INAIL puo' riguardare evento lavorativo, assicurazione, prevenzione, prestazione, impresa, lavoratore, dati relativi alla salute e sicurezza. Negli altri enti puo' riguardare iscrizioni, certificazioni, servizi istituzionali, rapporto con utenti o gestione interna.
 
 Il criterio da seguire e' semplice:
 
@@ -117,9 +117,9 @@ Usa questa griglia prima di scrivere. Nei casi brevi puoi compilarla mentalmente
 | 4. Ente | Sono in INPS, INAIL o altro EPNE? Quale linguaggio specialistico entra? | Taglio ente. |
 | 5. Competenza | Chi riceve, chi istruisce, chi decide, chi comunica? | Ufficio/ruolo da verificare. |
 | 6. Procedimento | C'e' istanza, accesso, reclamo, integrazione, verifica, riesame, pagamento, servizio digitale? | Qualificazione. |
-| 7. Dati | Ci sono dati personali, dati sanitari, dati di terzi, dati d'impresa o documenti riservati? | Cautele privacy. |
+| 7. Dati | Ci sono dati personali, dati relativi alla salute, dati di terzi, dati d'impresa o documenti riservati? | Cautele privacy. |
 | 8. Soluzione | Quale prossimo passo e' legittimo, proporzionato e utile? | Sequenza operativa. |
-| 9. Output | Che cosa produco: comunicazione, nota, richiesta integrazione, risposta sintetica, schema? | Forma finale. |
+| 9. Output | Che cosa produco: comunicazione, nota, richiesta di integrazione, risposta sintetica, schema? | Forma finale. |
 
 La griglia ti protegge da due errori opposti: scrivere troppa teoria o reagire d'istinto.
 
@@ -138,7 +138,7 @@ Una buona apertura puo' essere:
 
 > Il caso riguarda una richiesta presentata a un ente pubblico non economico che richiede prima di tutto qualificazione della domanda, verifica della competenza e tutela dei dati personali.
 
-Una apertura debole e':
+Un'apertura debole e':
 
 > Gli enti pubblici non economici sono molto importanti e devono rispettare la legge.
 
@@ -230,7 +230,7 @@ Il caso richiama INAIL, evento lavorativo, possibile tutela assicurativa, dati p
 
 #### Risposta modello
 
-Il dipendente deve prima verificare identita, titolo e canale utilizzabile. Non puo' comunicare telefonicamente informazioni riservate solo perche' l'utente dichiara urgenza. Deve fornire indicazioni generali sui canali ufficiali, spiegare come presentare o seguire la richiesta e, se il ruolo lo consente, orientare verso la struttura competente. La pratica deve essere gestita con tracciabilita, evitando diffusione impropria di dati personali o sanitari. L'urgenza puo' incidere sulla priorita organizzativa, ma non cancella competenza, procedura e protezione dei dati.
+Il dipendente deve prima verificare identita, titolo e canale utilizzabile. Non puo' comunicare telefonicamente informazioni riservate solo perche' l'utente dichiara urgenza. Deve fornire indicazioni generali sui canali ufficiali, spiegare come presentare o seguire la richiesta e, se il ruolo lo consente, orientare verso la struttura competente. La pratica deve essere gestita con tracciabilita, evitando diffusione impropria di dati personali o relativi alla salute. L'urgenza puo' incidere sulla priorita organizzativa, ma non cancella competenza, procedura e protezione dei dati.
 
 #### Errore da evitare
 
@@ -330,7 +330,7 @@ Per risolvere un caso ente-specifico combina tre livelli: la base comune di fatt
 
 I casi sull'errore nella posizione, sul piccolo acquisto e sulla richiesta informale mostrano che la griglia non vale soltanto per le prestazioni. Nel primo scenario contano verifica e rettifica tracciata; nel secondo fabbisogno, competenza, procedura e documentazione; nel terzo imparzialita, riservatezza e canali ufficiali. Cambia la materia, ma resta stabile la domanda: quale passo puo' compiere legittimamente l'ufficio e quale output lo rende verificabile?
 
-Per i profili di vigilanza, la stessa struttura e' utile, ma tecniche ispettive, verbali e poteri specialistici appartengono al percorso dedicato. Non improvvisarli nel caso amministrativo comune.
+Per i profili di vigilanza, la stessa struttura e' utile, ma tecniche ispettive, verbali e poteri specialistici appartengono all'Appendice A dedicata alla vigilanza ispettiva. Non improvvisarli nel caso amministrativo comune.
 
 ## N-FC03-11-05 · Mini-atti e risposta sintetica 10/20/30 righe
 
