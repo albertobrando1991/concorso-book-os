@@ -4,210 +4,280 @@ type: book_chapter
 title: "Direzione lavori, esecuzione e cantieri"
 status: draft
 domain: concorsi pubblici italiani
-topics: ["direzione lavori","esecuzione contratti pubblici","cantieri","sicurezza cantieri"]
-entities: ["D.Lgs. 36/2023","Allegato II.14","D.Lgs. 81/2008","RUP","Direttore dei lavori","CSE"]
-source_refs: ["sources/direzione-lavori-esecuzione-cantieri-dlgs-36-2023-allegato-ii14.md","sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024.md","sources/ciclo-contratti-pubblici-rup-stazione-appaltante-operatore-economico.md","sources/d-lgs-9-aprile-2008-n-81-salute-sicurezza-lavoro.md","sources/campione-bandi-tecnici-pa-vol-10-2026.md","sources/modulo-m-tr03-tecnico-ingegneristico-vol-10.md"]
+topics: ["direzione lavori", "esecuzione contratti pubblici", "cantieri", "sicurezza cantieri"]
+entities: ["D.Lgs. 36/2023", "Allegato I.2", "Allegato II.14", "D.Lgs. 81/2008", "RUP", "Direttore dei lavori", "CSE"]
+source_refs: ["sources/direzione-lavori-esecuzione-cantieri-dlgs-36-2023-allegato-ii14.md", "sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024.md", "sources/ciclo-contratti-pubblici-rup-stazione-appaltante-operatore-economico.md", "sources/d-lgs-9-aprile-2008-n-81-salute-sicurezza-lavoro.md", "sources/progettazione-opere-pubbliche-dlgs-36-2023-allegato-i7.md", "sources/campione-bandi-tecnici-pa-vol-10-2026.md", "sources/modulo-m-tr03-tecnico-ingegneristico-vol-10.md"]
 book_refs: ["m-tr03-tecnico-ingegneristico"]
 confidence: 0.9
-updated_at: "2026-07-30T00:00:00+02:00"
+updated_at: "2026-08-11"
 created_at: "2026-07-30T00:00:00+02:00"
-review_required: false
+review_required: true
 canonical: true
-tags: ["chapter","vol-10","m-tr03","direzione-lavori","esecuzione","cantieri"]
+tags: ["chapter", "vol-10", "m-tr03", "direzione-lavori", "esecuzione", "cantieri", "format-2"]
 book_id: m-tr03-tecnico-ingegneristico
 outline_section: "08"
-draft_stage: specialist-audited
-last_compiled_from: "planning/08-capitolo-08-piano-completamento.md"
+format_version: 2
+module_code: M-TR03
+module_family: trasversali
+companion_to: il-metodo-bando
+dati_operativi: []
+draft_stage: written
+last_compiled_from: ["artifacts/pipeline/VOL-10/09/moduli-m-tr03-tecnico-ingegneristico-chapters-08-direzione-lavori-esecuzione-md/prompt.md", "wiki/books/moduli/m-tr03-tecnico-ingegneristico/planning/08-capitolo-08-piano-completamento.md", "wiki/books/moduli/m-tr03-tecnico-ingegneristico/planning/02-matrice-copertura-didattica.md", "wiki/books/moduli/m-tr03-tecnico-ingegneristico/planning/13-bibbia-del-modulo.md", "wiki/sources/direzione-lavori-esecuzione-cantieri-dlgs-36-2023-allegato-ii14.md", "wiki/topics/direzione-lavori-esecuzione-cantieri.md", "wiki/sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024.md", "wiki/sources/ciclo-contratti-pubblici-rup-stazione-appaltante-operatore-economico.md", "wiki/sources/d-lgs-9-aprile-2008-n-81-salute-sicurezza-lavoro.md", "wiki/sources/progettazione-opere-pubbliche-dlgs-36-2023-allegato-i7.md", "wiki/sources/campione-bandi-tecnici-pa-vol-10-2026.md", "wiki/sources/modulo-m-tr03-tecnico-ingegneristico-vol-10.md"]
 ---
 
 # Direzione lavori, esecuzione e cantieri
 
-Un progetto verificato e validato è pronto per l'affidamento, ma l'opera nasce in cantiere. Elaborati e obbligazioni contrattuali devono tradursi in lavorazioni conformi, sotto il controllo della stazione appaltante. Nella fase esecutiva anche un imprevisto va prima qualificato: solo allora se ne possono valutare gli effetti sul contratto.
+## Apertura, obiettivo e Mappa BANDO
 
-## Obiettivo
+Un'opera pubblica non nasce quando il progetto viene approvato: nasce quando il contratto entra in esecuzione e il cantiere trasforma elaborati, capitolato e obbligazioni in lavorazioni controllabili. Per un candidato tecnico questo passaggio e decisivo, perche molte domande non chiedono di recitare un articolo, ma di riconoscere chi deve fare cosa quando compare un fatto di cantiere: una consegna incompleta, un materiale diverso, una lavorazione difforme, un ritardo, una sospensione, una riserva o un problema di sicurezza.
 
-Al termine del capitolo saprai ricostruire il percorso dalla consegna all'ultimazione, distinguere RUP, direttore dei lavori e coordinatore per la sicurezza, spiegare la funzione di ordini e verbali e riconoscere quando un fatto richiede controllo ordinario, modifica autorizzata, sospensione o presidio di sicurezza.
+L'obiettivo del capitolo e costruire una sequenza solida dalla consegna all'ultimazione. Userai il D.Lgs. n. 36/2023 come quadro della fase esecutiva: art. 15 e Allegato I.2 per il RUP, art. 114 per direzione dei lavori e ufficio di direzione, art. 115 per controllo tecnico, contabile e amministrativo, art. 119 per il confine del subappalto, art. 120 per le modifiche, art. 121 per la sospensione, Allegato II.14 per attivita e documenti della fase esecutiva. Per la sicurezza userai il Titolo IV del D.Lgs. n. 81/2008, distinguendo committente o responsabile dei lavori, coordinatori, imprese, PSC e POS.
 
-## Mappa BANDO
+**Mappa BANDO.** Nel bando cerca parole come direzione lavori, esecuzione, cantiere, ordini di servizio, varianti, sospensioni, riserve, sicurezza, PSC, POS e ultimazione. Nelle aree collega progettazione, contratti pubblici, contabilita dei lavori, collaudo e sicurezza. Nei nuclei studia consegna, soggetti, controlli, modifiche, sospensioni, contestazioni, sicurezza e chiusura. Nel Diario annota le coppie a rischio: RUP/DL, DL/CSE, ordine/modifica, contestazione/riserva, ultimazione/collaudo. Come output devi saper produrre una risposta orale ordinata e una tabella evento-soggetto-documento-effetto.
 
-- **Bando:** individua richiami a direzione lavori, esecuzione, cantieri, varianti, sospensioni e sicurezza.
-- **Aree:** collega contratti pubblici, progettazione, contabilità, collaudo e salute e sicurezza.
-- **Nuclei:** consegna, soggetti, ordini, controlli, tempi, modifiche, sospensioni, riserve, PSC e POS.
-- **Diario:** annota le coppie che confondi: RUP/DL, DL/CSE, ordine/modifica, PSC/POS.
-- **Output:** prepara una risposta orale e una checklist di controllo dell'esecuzione.
+## N-TR03-08-01 · Avvio dell'esecuzione e consegna
 
-## Dalla stipula all'avvio dei lavori
+### Quadro teorico: dalla stipula al cantiere
 
-### Presupposti e consegna
+La fase esecutiva presuppone un contratto efficace, un progetto utilizzabile, documenti contrattuali coerenti e condizioni reali che consentano di iniziare i lavori. Non basta dire che la gara e finita: il cantiere apre quando l'esecutore riceve aree, riferimenti e condizioni operative secondo la disciplina applicabile. La consegna e quindi il primo atto tecnico-amministrativo della fase esecutiva. Collega la prestazione promessa nel contratto allo spazio fisico nel quale quella prestazione dovra essere realizzata.
 
-La fase esecutiva presuppone un contratto efficace e una base tecnica definita. Progetto, capitolato, cronoprogramma e documenti di sicurezza formano il quadro rispetto al quale sarà controllata la prestazione. Il passaggio non è automatico: prima dell'avvio occorre verificare che le condizioni richieste dalla disciplina e dal contratto siano presenti.
-
-Con la consegna l'esecutore può iniziare i lavori. Il relativo verbale delimita aree, consistenza e stato dei luoghi, registra le condizioni riscontrate e offre il riferimento iniziale per tempi e responsabilità. Le diverse forme ammesse dalla disciplina rispondono a situazioni specifiche e non possono coprire carenze progettuali o un'effettiva indisponibilità delle aree.
+Per lo studente la consegna va letta come un filtro. Prima di parlare di ritardi, responsabilita o varianti occorre sapere che cosa e stato consegnato, in quale stato, con quali documenti e davanti a quali soggetti. Se un edificio scolastico presenta locali occupati da arredi, accessi non disponibili o interferenze non previste, il dato non e un dettaglio descrittivo: puo incidere su tempi, lavorazioni, sicurezza e possibilita di eseguire a regola d'arte.
 
 ### Verbale e stato dei luoghi
 
-Il verbale di consegna deve permettere a un terzo di ricostruire che cosa è stato messo a disposizione, quali verifiche sono state svolte, quali soggetti erano presenti e quali osservazioni sono emerse. Se lo stato reale diverge dal progetto, non basta una nota generica: occorre descrivere il fatto, valutarne l'incidenza e attivare il soggetto competente.
+Il verbale di consegna deve consentire a un terzo di ricostruire aree, stato dei luoghi, condizioni iniziali, eventuali osservazioni dell'esecutore e indicazioni rilevanti per l'avvio. Lo stato dei luoghi non coincide con il catasto, con il titolo edilizio o con il progetto: e la condizione fisica riscontrata al momento della consegna. La sua descrizione separa cio che era gia presente da cio che accadra durante l'esecuzione.
 
-Il sopralluogo, approfondito nel capitolo 2, diventa qui parte della catena esecutiva. La fotografia dello stato iniziale protegge sia la stazione appaltante sia l'esecutore, perché separa condizioni preesistenti da eventi sopravvenuti.
+Un verbale generico indebolisce tutti i controlli successivi. Se si scrive soltanto "area consegnata" senza indicare che il cortile della scuola e parzialmente occupato, che un accesso carrabile e impraticabile o che una porzione dell'intonaco mostra distacchi preesistenti, mesi dopo sara difficile distinguere impedimento iniziale, danno sopravvenuto e cattiva organizzazione dell'esecutore. L'Allegato II.14 serve proprio a rendere tracciabile la fase esecutiva: consegna, ordini, verbali e registrazioni devono raccontare fatti, non formule vuote.
 
-> **Da sapere in 5 righe**
->
-> La consegna collega contratto e cantiere.  
-> Il verbale documenta aree, stato dei luoghi e osservazioni.  
-> Il RUP governa il procedimento; il DL dirige e controlla i lavori.  
-> Un ordine di servizio non autorizza qualsiasi variante.  
-> Sicurezza e produzione devono avanzare nello stesso flusso.
+La consegna puo anche non avere lo stesso peso in ogni intervento. Ci sono casi in cui l'avvio e lineare, casi in cui occorre consegnare solo una parte compatibile con l'organizzazione del cantiere e casi in cui l'esigenza pubblica spinge ad anticipare alcune attivita. Nel capitolo non servono elenchi di forme o termini, perche sono dati da controllare sul testo vigente e sul contratto. Serve invece il criterio: ogni modalita deve essere giustificata da condizioni reali, documentata e coerente con sicurezza, disponibilita delle aree e progetto eseguibile.
 
-## I soggetti dell'esecuzione
+La consegna non sana un progetto incoerente. Se il problema emerge subito, il DL deve evitare che l'esecuzione diventi una correzione improvvisata. La stazione appaltante deve sapere se il fatto e una semplice condizione organizzativa, un dato mancante, una difformita rilevante o un ostacolo che richiede istruttoria. Questa prudenza e molto apprezzata nelle prove orali, perche mostra che il tecnico pubblico non forza il cantiere per far partire il tempo: costruisce una base documentale difendibile.
+
+Il controllo vicino chiede sempre area disponibile, documento iniziale, effetto sul programma e raccordo con la sicurezza.
+
+### Controllo vicino
+
+Microcaso: alla consegna dei lavori per adeguare una scuola, l'impresa segnala che un'aula prevista come deposito temporaneo e ancora usata dall'istituto. Il DL non deve ignorare il dato per "non fermare il cronoprogramma". Deve far emergere il fatto nel verbale o nella registrazione pertinente, valutarne l'incidenza tecnica, informare il RUP se la disponibilita condiziona tempi o organizzazione, e coordinarsi con il CSE se l'uso promiscuo genera interferenze di cantiere.
+
+Schema rapido:
+
+| Evento | Soggetto da attivare | Documento | Effetto da valutare |
+| --- | --- | --- | --- |
+| area non libera | DL e RUP | verbale di consegna | avvio pieno, avvio parziale o istruttoria |
+| stato difforme | DL | rilievo e comunicazione | controllo progettuale e contrattuale |
+| interferenza con utenti | CSE e committente | aggiornamento sicurezza | compatibilita della lavorazione |
+
+Errore tipico: trattare la consegna come una formalita iniziale. In prova devi invece dire che e il punto zero dell'esecuzione: identifica cio che viene messo a disposizione, le condizioni riscontrate e le conseguenze organizzative, tecniche e documentali.
+
+## N-TR03-08-02 · Soggetti e riparto delle funzioni
 
 ### RUP e direttore dei lavori
 
-Il RUP presidia l'intervento lungo l'intero ciclo e svolge i compiti attribuiti dal Codice e dall'Allegato I.2. Coordina, assume o propone le determinazioni di competenza e riceve dal direttore dei lavori informazioni necessarie a governare tempi, costi, qualità e criticità.
+Nel D.Lgs. n. 36/2023 il RUP e il responsabile unico del progetto. L'art. 15 lo colloca nelle fasi di programmazione, progettazione, affidamento ed esecuzione, mentre l'Allegato I.2 ne dettaglia requisiti e compiti. La parola "progetto" non significa che il RUP sia solo un tecnico progettista: indica il presidio unitario dell'intervento pubblico, con funzioni di supervisione, indirizzo, coordinamento e completamento nei limiti delle competenze attribuite.
 
-Il direttore dei lavori cura i profili tecnici, contabili e amministrativi nell'interesse della stazione appaltante. Verifica che l'esecuzione rispetti progetto e contratto, impartisce disposizioni nei limiti delle proprie attribuzioni, controlla materiali e lavorazioni, registra i fatti rilevanti e riferisce al RUP.
+Il direttore dei lavori e una figura diversa. L'art. 114 prevede la nomina del DL per la direzione e il controllo dei lavori; l'Allegato II.14 ne descrive attivita e compiti. Il DL, con l'eventuale ufficio di direzione, e preposto al controllo tecnico, contabile e amministrativo dell'esecuzione, perche i lavori siano realizzati a regola d'arte e in conformita al progetto e al contratto. Opera con autonomia tecnica, ma nel quadro delle disposizioni di servizio del RUP. Questa formula impedisce due errori opposti: il DL non e un mero esecutore passivo del RUP, ma non diventa nemmeno il soggetto che decide liberamente modifiche, spesa e assetto contrattuale.
 
-I ruoli sono connessi ma non sovrapponibili. Il RUP non diventa automaticamente il controllore quotidiano del cantiere; il DL non può assumere determinazioni riservate al RUP o modificare liberamente l'equilibrio contrattuale.
+### Ufficio di direzione, impresa e CSE
 
-### Ufficio di direzione, impresa e coordinatori
+Negli interventi piu complessi il DL puo essere coadiuvato da direttori operativi e ispettori di cantiere. L'ufficio di direzione non frammenta la responsabilita in tanti cantieri paralleli: raccoglie competenze e presidi, ma deve restare coordinato. Il direttore operativo puo seguire una parte specialistica; l'ispettore puo vigilare su lavorazioni, materiali o presenza in cantiere; il DL mantiene la regia tecnica dell'ufficio e il rapporto con l'esecutore sugli aspetti tecnici ed economici del contratto.
 
-Per interventi che lo richiedono, il DL si avvale dell'ufficio di direzione: direttori operativi e ispettori svolgono attività assegnate e restituiscono evidenze coordinate. La delega di compiti non cancella il bisogno di una regia unitaria.
+L'esecutore organizza mezzi, personale, subappaltatori autorizzati e lavorazioni. L'art. 119 ricorda che il subappalto e ammesso secondo le condizioni del Codice, ma non trasforma l'appaltatore in un semplice intermediario e non consente di affidare a terzi l'intera esecuzione. Per il capitolo 8 il punto essenziale e operativo: se entra una nuova impresa o una lavorazione viene subappaltata, il DL considera gli effetti sull'esecuzione contrattuale, mentre il CSE considera idoneita e coordinamento dei documenti di sicurezza quando il Titolo IV del D.Lgs. n. 81/2008 lo richiede.
 
-L'esecutore organizza mezzi, personale e lavorazioni per adempiere il contratto. Il direttore tecnico di cantiere rappresenta il presidio organizzativo dell'impresa, ma non sostituisce il DL della stazione appaltante.
+Il CSE non coincide con il DL. Il coordinatore per l'esecuzione verifica l'applicazione del PSC, la coerenza dei POS, il coordinamento tra imprese e lavoratori autonomi e gli adeguamenti necessari all'evoluzione dei lavori. Puo capitare che la stessa persona fisica abbia piu incarichi solo nei casi ammessi e con requisiti adeguati, ma in prova le funzioni vanno sempre distinte: controllo contrattuale, governo del progetto e coordinamento della sicurezza non sono la stessa cosa.
 
-Nei cantieri soggetti al Titolo IV del D.Lgs. 81/2008 intervengono committente o responsabile dei lavori e, quando previsti, coordinatore per la progettazione e coordinatore per l'esecuzione. Il CSE controlla l'applicazione del PSC e la coerenza dei POS, coordina imprese e lavoratori autonomi e aggiorna i documenti di propria competenza in relazione all'evoluzione dei lavori.
+Il Codice consente anche modelli organizzativi con responsabili di fase, ferma restando l'unicita del RUP e le sue funzioni di supervisione, indirizzo e coordinamento. Questo passaggio evita un'altra confusione: avere un responsabile per la fase di esecuzione non significa cancellare il RUP, ne trasferire al DL poteri che appartengono alla stazione appaltante. In una risposta scritta conviene quindi separare tre livelli: chi governa l'intervento, chi controlla i lavori, chi esegue la prestazione.
 
-## Direzione e controllo in corso d'opera
+La stessa attenzione vale per l'ufficio di direzione. Un direttore operativo che segue impianti, strutture o finiture non diventa autonomamente "il DL di quella parte" in senso pieno. Porta rilievi, controlli e segnalazioni dentro una regia unitaria. Se emergono difformita o rischi, la catena deve restare leggibile: il tecnico che rileva, il DL che coordina il controllo, il RUP che assume o propone le determinazioni di competenza, il CSE che presidia la sicurezza.
 
-### Ordini di servizio, verbali e registrazioni
+### Controllo vicino
 
-L'ordine di servizio è lo strumento formale con cui il DL impartisce disposizioni all'esecutore. Deve essere chiaro, riferibile al contratto e tracciato. Una conversazione di cantiere può risolvere un dettaglio immediato, ma non sostituisce l'atto quando la disposizione incide su obblighi, tempi, lavorazioni o sicurezza.
+Mappa anti-confusione:
 
-Verbali e registrazioni conservano la memoria dell'esecuzione. Devono indicare il fatto, la data, i soggetti, il documento interessato, la decisione o richiesta e il seguito previsto. Una registrazione è utile se permette di ricostruire la sequenza degli eventi; l'accumulo di formule non aggiunge precisione.
+| Soggetto | Funzione prevalente | Documento o flusso tipico | Limite da ricordare |
+| --- | --- | --- | --- |
+| RUP | presidio unitario del progetto | determinazioni, autorizzazioni, coordinamento | non segue ogni lavorazione quotidiana |
+| DL | direzione e controllo dei lavori | ordini, verbali, controlli, contabilita | non autorizza da solo modifiche sostanziali |
+| Ufficio DL | supporto specialistico | report, rilievi, ispezioni | opera in modo coordinato |
+| Esecutore | organizzazione ed esecuzione | programma, richieste, documenti d'impresa | non cambia liberamente prestazioni |
+| CSE | sicurezza in esecuzione | PSC, POS, prescrizioni, coordinamento | non sostituisce il controllo contrattuale |
 
-La piattaforma digitale prevista dalla disciplina rende più trasparente e tracciabile il processo, ma non corregge un accertamento ambiguo. Il dato va quindi verificato prima di essere registrato.
+Domanda-trappola: "Il RUP dirige i lavori e il DL decide le varianti?" Risposta: no. Il RUP presidia e assume le determinazioni di competenza; il DL dirige e controlla l'esecuzione; le modifiche seguono art. 120, competenze e procedura. La risposta corretta parte sempre dalla funzione, non dal nome dell'ufficio.
 
-### Materiali, lavorazioni, qualità e tempi
+## N-TR03-08-03 · Direzione e controlli in corso d'opera
 
-Il controllo dei materiali verifica corrispondenza alle prescrizioni e presenza delle prove o certificazioni richieste. Un materiale proposto come “equivalente” non può essere accettato sulla sola dichiarazione commerciale: occorre verificare prestazioni, compatibilità e procedimento contrattuale applicabile.
+### Ordini, verbali e registrazioni
 
-Il controllo delle lavorazioni confronta ciò che viene eseguito con elaborati, capitolato e regole tecniche. Nelle opere strutturali si raccorda con i controlli specialistici descritti nel capitolo 4. L'accettazione del materiale non sana una posa difforme; una lavorazione corretta non rende conforme un prodotto inadeguato.
+Il cantiere produce fatti continui: arrivo di materiali, avanzamento di lavorazioni, contestazioni, sospensioni parziali, prove, accessi, interferenze, condizioni meteorologiche rilevanti, richieste dell'impresa. La direzione lavori serve a trasformare questi fatti in una sequenza controllabile. L'art. 115 collega direzione, controllo e contabilita dei lavori all'Allegato II.14 e alle piattaforme digitali previste dal Codice. La digitalizzazione aiuta trasparenza e semplificazione, ma non sostituisce l'accertamento: un dato caricato male resta un dato debole.
 
-Il cronoprogramma consente di leggere sequenze e attività critiche. Quando emerge uno scostamento, il DL accerta causa, responsabilità e impatto, chiede le misure di recupero ammissibili e informa il RUP. Ritardo, sospensione e modifica sono categorie diverse: la loro qualificazione produce conseguenze differenti.
+L'ordine di servizio e lo strumento con cui il DL impartisce disposizioni all'esecutore nei limiti delle proprie attribuzioni. Deve essere chiaro, riferibile a progetto e contratto, datato e tracciato. Una conversazione di cantiere puo risolvere un dettaglio immediato, ma non puo sostituire un ordine quando la disposizione incide su obblighi, tempi, modalita esecutive o sicurezza. L'esecutore, secondo art. 115, deve uniformarsi alle disposizioni e agli ordini del DL senza sospendere o ritardare il regolare sviluppo dei lavori per propria scelta.
 
-### Controllo tecnico, amministrativo e contabile
+Verbali e registrazioni hanno una funzione probatoria e gestionale. Devono indicare fatto, data, soggetti, documento interessato, decisione o richiesta, seguito previsto. Non servono pagine di formule; serve una catena leggibile. Se il DL constata che una demolizione e stata eseguita prima del coordinamento con gli impiantisti, la registrazione deve dire che cosa e avvenuto, quale parte del progetto e interessata, quali rischi o effetti emergono e chi deve intervenire.
 
-Il controllo tecnico riguarda conformità e qualità; quello amministrativo verifica rispetto degli obblighi e corretta formazione degli atti; quello contabile misura e registra le prestazioni ai fini economici. Le tre dimensioni dialogano: una quantità contabilizzata deve corrispondere a una lavorazione eseguita e accettabile.
+### Materiali, lavorazioni, qualita e tempi
 
-Il capitolo 10 tratta in dettaglio libretti, registri, SAL e certificati di pagamento. In questa sede basta fissare il nesso essenziale: ogni effetto contabile rilevante deve poggiare sull'evidenza tecnica che lo giustifica.
+Il controllo dei materiali non si esaurisce nella consegna di una scheda commerciale. Occorre verificare corrispondenza alle prescrizioni contrattuali, prestazioni richieste, certificazioni o prove pertinenti e compatibilita con il sistema in cui il materiale viene inserito. Un prodotto definito "equivalente" dall'impresa puo essere accettabile solo se la verifica tecnica e il percorso contrattuale lo consentono. L'accettazione del materiale non sana una posa difforme; una posa corretta non rende conforme un prodotto non idoneo.
 
-## Modifiche, sospensioni e contestazioni
+Il controllo delle lavorazioni confronta progetto, capitolato, regole tecniche e realizzazione. Per le opere strutturali il DL si coordina con i controlli specialistici previsti dalle norme tecniche e dai soggetti competenti; per le lavorazioni ordinarie verifica qualita, dimensioni, sequenza, protezioni, finiture e prove richieste. La contabilita entra quando la lavorazione e misurata e registrata, ma il dettaglio di libretto, SAL e certificato di pagamento appartiene alla contabilita lavori. Qui conta il nesso: non si contabilizza seriamente cio che non e verificato come eseguito e accettabile.
 
-### Modifiche e varianti
+Il cronoprogramma consente di leggere il tempo come sequenza tecnica, non solo come calendario. Uno scostamento va qualificato: dipende dall'organizzazione dell'esecutore, da un impedimento della stazione appaltante, da una modifica autorizzata, da una sospensione o da un'interferenza di sicurezza? Ogni risposta produce documenti ed effetti diversi.
 
-Un problema tecnico può essere risolto entro le previsioni del progetto oppure richiedere una modifica del contratto. La distinzione non dipende dal nome attribuito in cantiere. Occorre verificare se cambiano prestazioni, quantità, prezzo, tempi o equilibrio dell'operazione e se ricorre uno dei presupposti dell'art. 120.
+La qualita del controllo dipende dalla vicinanza al fatto. Un rilievo sulla posa di una guaina, su un getto, su un sottofondo o su una canalizzazione e molto piu forte se viene effettuato quando la lavorazione e visibile e confrontabile con progetto e capitolato. Se il controllo arriva quando tutto e coperto, la direzione lavori deve basarsi su fotografie, prove, dichiarazioni o saggi, con maggiore incertezza. Per questo il DL organizza presenze, ispezioni e verifiche secondo le lavorazioni critiche, senza trasformare il cantiere in una sorveglianza continua priva di metodo.
 
-Il DL accerta la situazione, sviluppa o acquisisce gli elementi tecnici e riferisce. L'autorizzazione segue le competenze e il procedimento applicabili. L'esecutore non può introdurre autonomamente una soluzione diversa; il DL non può trasformare un ordine di servizio in una variante priva di base e approvazione.
+La piattaforma digitale non cambia questa logica. Serve a rendere versioni, date, comunicazioni e documenti piu tracciabili; non rende corretta una misura sbagliata, non trasforma una foto generica in prova sufficiente e non sostituisce il giudizio tecnico. In una prova pratica, quando ti chiedono di ricostruire un controllo, non fermarti al nome del documento: indica requisito, evidenza, soggetto che controlla e conseguenza.
 
-La sequenza da seguire è: `fatto → accertamento → qualificazione → istruttoria tecnica ed economica → autorizzazione competente → aggiornamento dei documenti → esecuzione e controllo`.
+### Controllo vicino
+
+Microcaso: per la palestra della scuola l'impresa propone un impermeabilizzante diverso da quello previsto. Il DL non deve accettare perche "ha lo stesso uso". Deve richiedere documentazione, confrontare prestazioni e compatibilita con progetto e capitolato, valutare se la sostituzione resta nell'ambito dell'accettazione tecnica oppure richiede il percorso delle modifiche, e registrare l'esito. Se la posa modifica tempi o sicurezza, informa il RUP e coinvolge il CSE per la parte di competenza.
+
+Sequenza utile in prova: `fatto - requisito - evidenza - valutazione - documento - effetto`. Errore tipico: partire dall'effetto economico prima di aver verificato la conformita tecnica. Una risposta da concorso deve mostrare che il controllo e insieme tecnico, amministrativo e contabile, ma ogni dimensione ha una domanda propria.
+
+## N-TR03-08-04 · Modifiche, sospensioni, contestazioni e riserve
+
+### Attenzione alla trappola: ordine, proposta e modifica autorizzata
+
+Non ogni adattamento di cantiere e una variante, ma una modifica contrattuale non puo essere nascosta dentro un ordine di servizio. L'art. 120 disciplina le modifiche dei contratti in corso di esecuzione e individua i casi in cui si puo intervenire senza una nuova procedura di affidamento, con limiti e condizioni. Per il candidato la regola operativa e questa: bisogna capire se il fatto cambia prestazioni, quantita, prezzo, tempi, soluzione progettuale o equilibrio dell'operazione. Se il cambiamento e sostanziale o rientra nei casi tipici di modifica, serve il percorso previsto, non una scorciatoia verbale.
+
+Il DL accerta il fatto e fornisce elementi tecnici. L'impresa puo proporre una soluzione; il progettista puo essere coinvolto quando il problema riguarda il progetto; il RUP governa il procedimento e le autorizzazioni di competenza secondo art. 120 e Allegato II.14; la stazione appaltante approva quando la disciplina lo richiede. La catena corretta e: fatto, accertamento, qualificazione, istruttoria tecnica ed economica, autorizzazione competente, aggiornamento dei documenti, esecuzione e controllo.
+
+Esempio: durante il rifacimento dei servizi igienici della scuola emerge una canalizzazione non rilevata. Se basta regolare la sequenza senza cambiare prestazioni, l'ordine puo bastare. Se occorre spostare reti, modificare elaborati, introdurre nuove lavorazioni e incidere su costi o tempi, si entra nel perimetro dell'art. 120. Chiamarla "sistemazione" non cambia la sostanza.
 
 ### Sospensione, ripresa e ritardi
 
-La sospensione arresta in tutto o in parte le lavorazioni quando ricorrono i presupposti previsti. Deve essere motivata e verbalizzata, indicando cause, consistenza dei lavori, cautele, mezzi presenti e condizioni per la ripresa. Una pausa informale lascia incerti tempi e responsabilità.
+L'art. 121 riguarda la sospensione dell'esecuzione. Nei lavori, quando ricorrono circostanze speciali che impediscono temporaneamente di procedere utilmente a regola d'arte, il DL puo disporre la sospensione e compilare il relativo verbale; il RUP puo disporla per ragioni di necessita o pubblico interesse. Senza fissare termini mobili, il punto da ricordare e il contenuto: causa, stato dei lavori, cautele, mezzi presenti, lavorazioni interessate, effetti sul programma e condizioni per la ripresa.
 
-Durante la sospensione restano necessari custodia, sicurezza e monitoraggio delle condizioni. Quando la causa cessa, la ripresa viene formalizzata e il programma è aggiornato secondo le determinazioni competenti.
+La sospensione non e una pausa informale. Durante l'arresto restano custodia, sicurezza, protezione delle opere, monitoraggio e aggiornamento dei soggetti competenti. Quando la causa cessa, la ripresa va formalizzata e il programma deve essere riallineato. Il ritardo, invece, e una categoria piu ampia: puo derivare da colpa dell'esecutore, impedimento esterno, modifica, errore progettuale, indisponibilita dell'area o sospensione legittima. Prima di applicare conseguenze contrattuali occorre qualificare il fatto.
 
-Il ritardo non coincide sempre con una colpa dell'esecutore. Prima di applicare conseguenze contrattuali occorre distinguere causa imputabile, evento esterno, modifica, impedimento della stazione appaltante o sospensione legittima e verificare le regole del contratto.
+### Contestazione e riserva
 
-### Contestazioni e riserve
+La contestazione esprime dissenso su un fatto, una disposizione, una misurazione o una valutazione. La riserva tutela una pretesa dell'esecutore secondo forme e tempi della disciplina contabile, richiamata dall'art. 115 e dall'Allegato II.14. Non sono sinonimi. Una protesta in cantiere puo segnalare un conflitto, ma non sostituisce la riserva quando la legge richiede iscrizione nei documenti pertinenti. D'altra parte, non ogni contestazione genera una pretesa economica.
 
-La contestazione esprime un dissenso su un fatto o una disposizione. La riserva, invece, tutela una pretesa economica dell'esecutore secondo la disciplina dei documenti contabili. I due istituti non coincidono: una contestazione può non produrre una riserva e una protesta generica non soddisfa gli adempimenti richiesti.
+Il DL deve registrare fatti e valutazioni senza cancellare il contraddittorio. La precisione serve alla stazione appaltante e all'esecutore: una divergenza annotata subito puo essere trattata con dati; una divergenza lasciata alla memoria diventa un contenzioso opaco.
 
-Il DL deve registrare i fatti e le proprie valutazioni senza cancellare il contraddittorio. Tempestività e precisione impediscono che una divergenza tecnica diventi, mesi dopo, una ricostruzione basata soltanto sulla memoria.
+Un caso frequente e l'errore progettuale scoperto in esecuzione. Non va usato come etichetta comoda per ogni sorpresa. Prima si accerta il fatto, poi si verifica se il progetto conteneva davvero un'omissione o se l'impresa sta incontrando una difficolta organizzativa. Dopo il correttivo al Codice, l'art. 120 richiama anche la gestione di errori o omissioni della progettazione esecutiva che pregiudicano la realizzazione o l'utilizzazione dell'opera. Nel capitolo interessa il criterio, non il dettaglio procedurale: contraddittorio, soluzione coerente con il principio del risultato, competenza del RUP e aggiornamento documentale.
 
-## Sicurezza del cantiere
+### Controllo vicino
+
+Classifica gli eventi:
+
+| Evento | Categoria probabile | Percorso |
+| --- | --- | --- |
+| muro non portante da spostare senza effetto su costo e tempi | istruzione esecutiva controllata | ordine tracciato |
+| lavorazione nuova per rete non prevista | possibile modifica | istruttoria art. 120 |
+| pioggia ordinaria compatibile con il programma | fatto da valutare | registrazione, nessuna sospensione automatica |
+| impedimento temporaneo non prevedibile che blocca lavorazioni | sospensione | verbale art. 121 e ripresa |
+| dissenso su quantita contabilizzata | contestazione e possibile riserva | documenti contabili secondo Allegato II.14 |
+
+Errore tipico: usare "variante" per ogni problema o "ordine di servizio" per ogni decisione. In prova conviene prima qualificare il fatto, poi indicare il soggetto competente e infine il documento.
+
+## N-TR03-08-05 · Sicurezza del cantiere
 
 ### Ruoli e obblighi essenziali
 
-La sicurezza segue una propria catena di responsabilità e non è un controllo accessorio affidato al DL. Il D.Lgs. 81/2008 distribuisce gli obblighi tra committente o responsabile dei lavori, coordinatori, datori di lavoro delle imprese, impresa affidataria, imprese esecutrici e lavoratori autonomi.
+La sicurezza del cantiere non e un allegato separato dalla produzione. Nei cantieri temporanei o mobili il Titolo IV del D.Lgs. n. 81/2008 distribuisce obblighi tra committente o responsabile dei lavori, coordinatore per la progettazione, coordinatore per l'esecuzione, imprese affidatarie, imprese esecutrici, lavoratori autonomi e datori di lavoro. Questa catena convive con quella del Codice dei contratti pubblici, ma non si confonde con essa.
 
-DL e CSE osservano lo stesso cantiere con funzioni diverse. Il primo presidia la corretta esecuzione del contratto; il secondo coordina e controlla gli obblighi di sicurezza attribuitigli. Se una difformità tecnica produce anche un rischio, servono entrambi i percorsi, coordinati e documentati.
+Il DL guarda il cantiere per controllare esecuzione, qualita, tempi, documenti e contabilita. Il CSE lo guarda per coordinare la sicurezza in fase esecutiva. Se una lavorazione e tecnicamente difforme e genera anche un rischio, i due percorsi devono dialogare: il DL registra la difformita e informa il RUP per gli effetti contrattuali; il CSE verifica PSC, POS, interferenze e adotta le iniziative di sua competenza. Dire "ci pensa il direttore dei lavori" e una risposta sbagliata quando il problema riguarda obblighi propri del coordinatore.
 
-### PSC, POS e coordinamento in esecuzione
+### PSC, POS e coordinamento
 
-Il piano di sicurezza e coordinamento, quando previsto, considera organizzazione del cantiere, fasi, rischi interferenziali, misure e coordinamento complessivi. Il piano operativo di sicurezza è predisposto dal datore di lavoro dell'impresa esecutrice per la propria organizzazione e le proprie lavorazioni.
+Il PSC, quando previsto, considera organizzazione del cantiere, fasi, rischi interferenziali, misure di coordinamento e costi della sicurezza secondo il quadro del Titolo IV e dell'Allegato XV. Il POS e il piano operativo dell'impresa esecutrice: descrive organizzazione, lavorazioni e misure della singola impresa. Il POS non e una copia del PSC e il PSC non e il DVR aziendale dell'impresa. Il CSE verifica l'idoneita del POS come piano complementare di dettaglio e la sua coerenza con il PSC, adegua i documenti quando l'evoluzione dei lavori lo richiede e organizza cooperazione e coordinamento.
 
-Il POS è complementare di dettaglio al PSC, non una sua copia. Il CSE ne verifica idoneità e coerenza, adegua PSC e fascicolo all'evoluzione dei lavori e verifica gli aggiornamenti necessari. L'impresa mantiene la responsabilità di applicare le misure e organizzare il lavoro in sicurezza.
+L'art. 119 sul subappalto rileva anche qui in modo pratico. L'ingresso di un subappaltatore non e soltanto un dato contrattuale: puo cambiare presenza di imprese, sequenze, interferenze, POS da esaminare e riunioni di coordinamento. L'impresa affidataria mantiene un ruolo organizzativo e l'esecutore principale non si libera delle responsabilita affidando lavorazioni a terzi. Il candidato deve evitare due semplificazioni: pensare che il subappalto sia sempre vietato oppure pensare che basti autorizzarlo per rendere automaticamente sicuro il cantiere.
 
-### Interferenze, prescrizioni e tracciabilità
+### Interferenze, prescrizioni e tracciabilita
 
-Quando cambia una fase, entra una nuova impresa o emerge un'interferenza, occorre rivalutare l'organizzazione prima di proseguire. La pressione sul cronoprogramma non giustifica una lavorazione incompatibile con le condizioni di sicurezza.
+In una scuola il tema e sensibile perche cantiere, utenti, personale scolastico, accessi, rumore, polveri, impianti e percorsi possono interferire. La pressione sul cronoprogramma non giustifica una lavorazione incompatibile con il PSC o con POS non coerenti. Se entra una seconda impresa per gli impianti mentre il ponteggio occupa l'accesso al corpo palestra, prima di proseguire occorre rivalutare fasi e percorsi. Il CSE puo contestare inosservanze e, nei casi previsti, proporre sospensioni, allontanamenti o sospendere direttamente singole lavorazioni in presenza di pericolo grave e imminente riscontrato.
 
-Segnalazioni, prescrizioni, verifiche e adeguamenti devono essere tracciati. In presenza dei presupposti previsti, il CSE adotta le iniziative attribuitegli dalla legge. Il DL, per la propria sfera, registra gli effetti sull'esecuzione e informa il RUP.
+Il committente pubblico non puo delegare la sicurezza alla buona volonta del cantiere. Designazioni, informazioni, verifica dell'idoneita tecnico-professionale e coordinamento devono essere collocati nella sequenza giusta. Quando sono presenti piu imprese, anche non contemporanee, il coordinamento diventa parte dell'organizzazione dell'opera. Questo non vuol dire che ogni scelta di sicurezza passi dal DL: vuol dire che le scelte produttive non possono essere separate dai documenti e dalle prescrizioni di sicurezza.
 
-## Ultimazione e passaggio ai controlli finali
+La distinzione PSC/POS e particolarmente utile nei quiz. Il PSC governa il quadro comune e le interferenze; il POS descrive come la singola impresa organizza le proprie lavorazioni. Se cambia una fase, puo essere necessario adeguare il PSC; se cambia il modo in cui un'impresa esegue una lavorazione, puo servire l'adeguamento del POS; se entrano piu imprese nella stessa area, puo servire una riunione o una prescrizione di coordinamento. La risposta non e mai "un modulo in piu", ma un controllo sul rischio concreto.
 
-L'ultimazione non coincide con l'allontanamento dell'impresa. Il DL accerta lo stato delle opere, verbalizza l'esito, identifica eventuali lavorazioni residue ammissibili e raccoglie la documentazione necessaria alla fase successiva.
+### Controllo vicino
 
-La chiusura deve consegnare a collaudatore e amministrazione una storia leggibile: progetto e modifiche approvate, materiali, prove, contabilità, sicurezza, contestazioni e documenti finali. Collaudo tecnico-amministrativo, certificato di regolare esecuzione e manutenzione sono approfonditi nel capitolo 9.
+Microcaso: l'impresa chiede di anticipare la demolizione di un tramezzo mentre l'impiantista lavora nello stesso corridoio. Il DL verifica coerenza con progetto, cronoprogramma e ordine delle lavorazioni; il CSE verifica interferenze, PSC e POS. La decisione motivata puo essere: non si procede finche non sono ridefinite fasi, delimitazioni, accessi, informazioni alle imprese e documenti di sicurezza. Se lo stop incide sui tempi, il DL registra il fatto e informa il RUP. Se il rischio e immediato, il CSE attiva i poteri previsti dal Titolo IV.
 
-## Caso guidato: riqualificazione di una scuola
+Errore tipico: scrivere "aggiornare il POS" come risposta universale. A volte serve aggiornare PSC, coordinare imprese, modificare fasi, sospendere una lavorazione o istruire un effetto contrattuale. La risposta corretta collega rischio, soggetto, documento e conseguenza.
 
-Durante la riqualificazione di una scuola il DL riscontra una parete in posizione diversa dal rilievo, riceve la proposta di un materiale alternativo e rileva un ritardo sull'impermeabilizzazione. Nello stesso settore una nuova sequenza crea interferenza tra ponteggio e accesso degli impiantisti.
+## N-TR03-08-06 · Caso integrato e ultimazione
 
-| Evento | Prima azione | Documento o flusso | Esito possibile |
-|---|---|---|---|
-| difformità dello stato dei luoghi | accertare e misurare | verbale e informativa al RUP | soluzione entro progetto o modifica |
-| materiale alternativo | confrontare prestazioni e contratto | richiesta, verifiche, atto competente | accettazione o rigetto |
-| ritardo critico | accertare causa e impatto | registrazione e programma di recupero | recupero o conseguenze contrattuali |
-| interferenza di sicurezza | fermare la lavorazione incompatibile e coinvolgere il CSE | prescrizione e aggiornamento dei piani | ripresa in condizioni coerenti |
-| necessità di arresto parziale | qualificare il presupposto | verbale di sospensione | cautele, monitoraggio e ripresa |
+### Caso guidato della scuola
 
-In tutti questi casi l'intervento materiale non può precedere l'istruttoria. Occorre accertare e qualificare il fatto, individuare la competenza, formalizzare la decisione e quindi eseguirla.
+Il Comune affida i lavori di riqualificazione di una scuola: rifacimento copertura della palestra, adeguamento dei servizi igienici, sostituzione di alcune pavimentazioni e piccole opere impiantistiche. Alla consegna il DL rileva che due locali previsti come deposito sono ancora occupati; durante l'esecuzione l'impresa propone un materiale alternativo per l'impermeabilizzazione; poi emerge una canalizzazione non indicata negli elaborati; infine l'ingresso del subappaltatore degli impianti crea interferenza con il ponteggio. La commissione potrebbe chiedere: "come si governa il cantiere senza confondere ruoli e documenti?"
 
-## Domande ed errori
+La prima decisione riguarda la consegna. Il DL descrive lo stato dei luoghi e segnala al RUP la disponibilita parziale dei locali. Non dichiara automaticamente impossibile l'avvio, ma distingue lavorazioni avviabili e lavorazioni condizionate. Se la presenza degli utenti o del personale scolastico interferisce con il cantiere, coinvolge il CSE per il coordinamento della sicurezza.
 
-### Domanda da commissario
+La seconda decisione riguarda il materiale alternativo. Il DL non accetta sulla base di un catalogo commerciale: confronta prestazioni, progetto, capitolato, certificazioni e compatibilita. Se la sostituzione resta tecnicamente equivalente e contrattualmente ammissibile, la registra secondo il percorso pertinente; se modifica prestazioni, prezzo o soluzione, informa il RUP e si istruisce l'eventuale modifica ai sensi dell'art. 120.
 
-**Quali sono funzione e principali attività del direttore dei lavori?**
+La terza decisione riguarda la canalizzazione non prevista. Il DL accerta il fatto, lo documenta e distingue tre ipotesi: soluzione esecutiva interna al progetto, errore o omissione progettuale da trattare con i soggetti competenti, modifica contrattuale. L'impresa non puo procedere di iniziativa se la soluzione cambia l'opera.
 
-Il DL controlla nell'interesse della stazione appaltante che i lavori siano eseguiti secondo progetto e contratto. Dirige e verifica lavorazioni, materiali, tempi e contabilità, impartisce ordini nei limiti delle proprie competenze, documenta i fatti e riferisce al RUP. Si coordina con i soggetti della sicurezza senza sostituirli.
+La quarta decisione riguarda la sicurezza. L'arrivo del subappaltatore impiantistico richiama art. 119 per il versante contrattuale e Titolo IV del D.Lgs. n. 81/2008 per il coordinamento. Il CSE verifica POS, coerenza con PSC, fasi e interferenze. Se il ponteggio impedisce percorsi sicuri, la lavorazione viene riprogrammata o sospesa nella parte incompatibile.
 
-### Domanda-trappola
+### Ultimazione e documenti finali
 
-**Un ordine di servizio può sempre modificare il contratto?**
+L'ultimazione non coincide con "l'impresa ha finito ed e uscita". Il DL accerta lo stato delle opere, verifica lavorazioni residue, raccoglie registrazioni, controlli, prove, ordini, modifiche approvate, documenti di sicurezza e dati contabili necessari alla fase successiva. Il certificato o verbale di ultimazione fotografa la conclusione delle lavorazioni; il collaudo tecnico-amministrativo e la manutenzione appartengono al passaggio successivo, ma dipendono dalla qualita del dossier consegnato.
 
-No. Può impartire un'istruzione esecutiva coerente con il contratto. Se la disposizione integra una modifica contrattuale, occorrono presupposti, istruttoria e autorizzazione previsti dall'art. 120.
+Nel caso della scuola il DL non deve consegnare al collaudatore un fascicolo disordinato. Deve rendere leggibile la storia dell'opera: consegna parziale, materiale valutato, canalizzazione gestita, interferenza risolta, eventuali sospensioni e riprese, riserve, prove e aggiornamenti. Se una tavola finale non rispecchia la modifica approvata, la criticita va chiusa o dichiarata come lavorazione documentale da completare secondo competenze.
 
-### Errore tipico
+La chiusura dell'esecuzione e anche un momento di responsabilita comunicativa. L'amministrazione che prendera in gestione la scuola deve capire quali locali sono utilizzabili, quali elaborati rappresentano lo stato finale, quali prove sono state acquisite, quali prescrizioni restano e quali documenti passano al collaudo e alla manutenzione. Il DL non deve promettere cio che appartiene al collaudatore, ma deve preparare un dossier coerente. Una buona ultimazione riduce conflitti, accelera il controllo finale e consente al gestore di non ripartire da zero.
 
-Ridurre il cantiere a una sequenza di moduli. In prova ogni documento va collegato al fatto che lo richiede, al soggetto competente, al controllo svolto e all'effetto prodotto.
+Per la prova concorsuale, il caso integrato va chiuso sempre con una motivazione. Non basta dire "si sospende", "si fa variante" o "si aggiorna il PSC". Devi spiegare perche quel fatto entra in quella categoria, quale soggetto decide, quale documento lo prova e quale effetto produce sul contratto o sulla sicurezza. Questa e la differenza tra elenco di istituti e ragionamento tecnico-amministrativo.
 
-## Mini-esercizio e checklist
+### Controllo vicino
 
-Classifica questi eventi: prova di accettazione di un materiale; richiesta di spostare un muro; presenza di un'impresa non coordinata; pioggia ordinaria; impedimento eccezionale; quantità contestata.
+Tavola finale:
 
-Soluzione orientativa: controllo ordinario; possibile modifica da istruire; problema di sicurezza; fatto da valutare rispetto al programma; possibile sospensione da qualificare; fatto contabile e possibile contestazione.
+| Evento | Soggetto guida | Documento | Decisione motivata |
+| --- | --- | --- | --- |
+| locali occupati | DL e RUP | verbale di consegna | avvio parziale e liberazione programmata |
+| materiale alternativo | DL | verifica tecnica | accettazione motivata o modifica art. 120 |
+| canalizzazione imprevista | DL, RUP, progettista se necessario | rilievo e istruttoria | soluzione interna o modifica autorizzata |
+| subappaltatore impianti | RUP e CSE, per profili distinti | autorizzazione e POS | ingresso solo con sicurezza coordinata |
+| ponteggio interferente | CSE e DL | prescrizione e registrazione | riprogrammazione o stop della lavorazione |
+| fine lavori | DL | ultimazione e dossier | passaggio ordinato al collaudo |
 
-Checklist del DL:
+Risposta orale in trenta secondi: "In esecuzione parto dal fatto, individuo soggetto competente e documento, distinguo controllo ordinario, modifica, sospensione, sicurezza e riserva. Il RUP presidia il progetto, il DL dirige e controlla i lavori, il CSE coordina la sicurezza. L'ultimazione chiude le lavorazioni, ma prepara il collaudo: non lo sostituisce."
 
-- contratto, progetto e autorizzazioni sono disponibili;
-- aree e stato dei luoghi sono verificati;
-- consegna e soggetti sono formalizzati;
-- PSC, POS e coordinamento sono coerenti;
-- ordini e verbali sono chiari e tracciati;
-- materiali e lavorazioni sono controllati;
-- cronoprogramma e scostamenti sono monitorati;
-- modifiche e sospensioni seguono competenze e procedure;
-- fatti contabili, contestazioni e riserve sono registrati;
-- ultimazione e documenti finali sono verificati.
+## ▣ Verifica dopo i nuclei
 
-## Riferimenti consolidati
+### Quiz 1
 
-- [[sources/direzione-lavori-esecuzione-cantieri-dlgs-36-2023-allegato-ii14]]
-- [[topics/direzione-lavori-esecuzione-cantieri]]
-- [[sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024]]
-- [[sources/d-lgs-9-aprile-2008-n-81-salute-sicurezza-lavoro]]
+Alla consegna di lavori in una scuola un'area non e libera. Che cosa si fa? A) si ignora; B) si verbalizza e si valutano effetti su avvio, tempi e sicurezza; C) si risolve subito il contratto; D) decide l'impresa.
 
-## Note di review
+**Risposta corretta: B.** La consegna e il punto zero dell'esecuzione: il fatto va tracciato, qualificato e portato ai soggetti competenti.
 
-Audit specialistico automatico chiuso l'11 agosto 2026 sull'Allegato II.14, sul D.Lgs. 81/2008 e sulla disciplina vigente delle modifiche. Casi speciali, forme e termini non sono presentati come universali. I raccordi sono verificati verso [[books/moduli/m-tr03-tecnico-ingegneristico/chapters/09-collaudo-verifica-manutenzione|Collaudo, verifica, manutenzione e gestione dell'opera]] e [[books/moduli/m-tr03-tecnico-ingegneristico/chapters/10-computi-capitolati-contabilita-lavori|Computi, capitolati e contabilità dei lavori]].
+### Quiz 2
+
+Quale affermazione e corretta? A) RUP e DL sono sinonimi; B) il DL autorizza da solo le modifiche sostanziali; C) il RUP presidia il progetto, il DL dirige e controlla i lavori; D) il CSE assorbe entrambi.
+
+**Risposta corretta: C.** Art. 15 e Allegato I.2 riguardano il RUP; art. 114 e Allegato II.14 fondano direzione e controllo dei lavori.
+
+### Quiz 3
+
+Un materiale proposto come equivalente puo essere accettato sulla sola dichiarazione dell'impresa? A) si; B) si, se accelera; C) no, servono confronto tecnico ed evidenze; D) no, e sempre vietato.
+
+**Risposta corretta: C.** L'equivalenza va motivata rispetto a progetto, capitolato, prestazioni e percorso contrattuale applicabile.
+
+### Quiz 4
+
+Quale coppia e corretta? A) ordine uguale variante; B) protesta orale uguale riserva; C) sospensione uguale ritardo colpevole; D) modifica, sospensione e riserva seguono presupposti e documenti diversi.
+
+**Risposta corretta: D.** Art. 120, art. 121, art. 115 e Allegato II.14 presidiano istituti diversi. La prova misura la qualificazione del fatto.
+
+### Quiz 5
+
+Entra un subappaltatore e nasce un'interferenza con il ponteggio. Quale risposta e corretta? A) l'appaltatore e liberato; B) basta il POS; C) vanno distinti art. 119 e coordinamento di sicurezza; D) decide il direttore scolastico.
+
+**Risposta corretta: C.** Il CSE coordina PSC, POS, fasi e interferenze; il DL presidia gli effetti sull'esecuzione contrattuale.
+
+### Quiz 6
+
+Il DL comunica l'ultimazione. Che cosa significa? A) opera gia collaudata; B) lavorazioni concluse e dossier pronto per i controlli finali; C) riserve sempre decadute; D) manutenzione inutile.
+
+**Risposta corretta: B.** L'ultimazione chiude le lavorazioni, ma non sostituisce collaudo, regolare esecuzione o passaggio alla gestione.
+
+### Mini-esercizio di trasferimento
+
+Costruisci una tabella a cinque colonne: evento, soggetto, documento, controllo, effetto. Usa consegna parziale, materiale alternativo, nuova impresa, sospensione, riserva e ultimazione. Ogni riga deve motivare soggetto e atto.
+
+### Riferimenti normativi essenziali
+
+D.Lgs. n. 36/2023, artt. 15, 114, 115, 119, 120 e 121; Allegato I.2 sul RUP; Allegato II.14 su direzione lavori, fase esecutiva, documenti, riserve e controlli. D.Lgs. n. 81/2008, Titolo IV, per cantieri temporanei o mobili, coordinatori, PSC, POS, obblighi delle imprese e gestione delle interferenze.

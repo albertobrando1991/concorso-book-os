@@ -5175,3 +5175,12 @@
 - l0: l0/conv-20260811105626-ylwx78.md
 - atoms:
   - mem-20260811105626-1b3yt10 | result | Esito pipeline-volume/step-08: Procedere con il prossimo step della pipeline aggiornata per VOL-10. -> Completato step 08 capitolo 08: piano Format 2 con sei nuclei, budget 4600-5000 parole, sei quiz, verifiche vicine, microcasi e caso integrato; fonti e audit automatici definiti.
+
+## 2026-08-11T11:32:07.376Z - VOL-10/M-TR03
+
+- conversation_id: conv-20260811113207-1sas7o5
+- route: codex-vol10-cap08-step09
+- l0: l0/conv-20260811113207-1sas7o5.md
+- atoms:
+  - mem-20260811113207-4xmh6t | workflow | Procedi con il prossimo step della pipeline aggiornata VOL-10.
+  - mem-20260811113207-18ej86 | result | Esito codex-vol10-cap08-step09: Procedi con il prossimo step della pipeline aggiornata VOL-10. -> Completato step 09 capitolo 08: riscrittura Format 2 pubblicabile con 4826 parole, sei nuclei da 628-709 parole, sei quiz, un caso guidato e un blocco verifica; chapter-lint senza blocker o warning e 155 test gate verdi.
