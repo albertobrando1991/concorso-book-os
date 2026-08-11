@@ -94,7 +94,7 @@ Il quarto e' il **profilo concreto**. Un funzionario amministrativo, un assisten
 
 Se questi quattro piani vengono confusi, il piano di studio diventa fragile. Puoi seguire il portale giusto ma studiare la famiglia sbagliata; puoi riconoscere l'ente ma ignorare il profilo; puoi vedere una materia specialistica e dimenticare la prova che elimina davvero.
 
-## Gerarchia delle fonti: che cosa conta davvero
+### Gerarchia delle fonti: che cosa conta davvero
 
 Per il candidato, la gerarchia delle fonti deve essere scritta nel Decoder. Nei concorsi EPNE la fonte piu' importante e' il bando ufficiale con i suoi allegati. Subito dopo vengono gli avvisi successivi pubblicati sui canali indicati dal bando: calendari, sedi, istruzioni, eventuali rettifiche, elenchi ammessi, criteri, comunicazioni operative. Poi vengono le pagine ufficiali dell'ente, utili per contesto istituzionale, amministrazione trasparente, atti generali, PIAO, bilanci, servizi e organizzazione.
 
@@ -293,7 +293,7 @@ Compila questa scheda entro le prime 24 ore dalla lettura del bando. Se prepari 
 
 La scheda e' valida solo se ogni riga produce una decisione. Scrivere "INAIL" nel campo ente non basta. Devi indicare che cosa cambia nel piano: capitolo 4, eventuale Appendice F, materie INAIL, casi, situazionali e fonti da monitorare.
 
-## Scheda prove-materie-output
+### Scheda prove-materie-output
 
 Dopo la prima scheda, compila la griglia piu' importante: quella che collega materie e allenamento. Molti candidati studiano materie senza trasformarle in output. Nei concorsi EPNE e' un errore costoso, perche' la stessa materia puo' diventare quiz, domanda orale, caso pratico o quesito situazionale.
 
@@ -345,11 +345,11 @@ La lettura corretta e' questa:
 
 Questa cautela e' essenziale per mantenere il modulo professionale. Il candidato deve imparare il metodo, non memorizzare un esempio come se fosse norma generale.
 
-## Da sapere in 5 righe
+### Da sapere in 5 righe
 
 Il Bando Decoder EPNE serve a distinguere fonte ufficiale, ente, soggetto gestore, profilo, prove e materie. Il canale inPA o Formez non basta a definire la famiglia concorsuale: contano ente di destinazione, profilo e programma. Le materie vanno separate in libro base, delta M-FC03, appendici e rinvii. Avvisi e allegati successivi possono modificare il piano e vanno monitorati. Il Decoder e' completo solo quando produce una decisione di studio e un output da allenare.
 
-## Caso guidato
+### Caso guidato
 
 Sara trova un concorso pubblicato su un portale ufficiale e legge che riguarda INAIL. Il profilo e' nell'Area Funzionari e la procedura prevede prova scritta, orale, quesiti disciplinari, logica, situazionali, inglese e competenze digitali. Nel programma compaiono diritto amministrativo, pubblico impiego, contabilita, diritto del lavoro, salute e sicurezza, ordinamento e attribuzioni dell'INAIL.
 
@@ -367,13 +367,13 @@ La lettura con Bando Decoder procede cosi':
 
 La differenza non e' la quantita di studio. E' l'ordine. Sara non parte da tutto. Parte da cio' che il bando rende decisivo.
 
-## Domanda da commissario
+### Domanda da commissario
 
 **Domanda:** perche' nei concorsi EPNE il Bando Decoder deve distinguere ente, soggetto gestore e profilo?
 
 **Risposta modello:** perche' il canale o il soggetto gestore della procedura non coincidono necessariamente con la famiglia concorsuale. Una procedura puo' essere pubblicata su inPA o gestita tramite Formez/RIPAM, ma il modulo di studio dipende dall'ente di destinazione, dal profilo, dalle prove e dalle materie. Nei concorsi EPNE occorre capire se il bando riguarda INPS, INAIL o altro ente pubblico non economico compatibile, quale area professionale viene selezionata e quali contenuti specialistici entrano nella prova. Solo questa distinzione consente di separare libro base, modulo M-FC03, appendici e rinvii.
 
-## Domanda-trappola
+### Domanda-trappola
 
 **Domanda:** se un bando INAIL precedente prevedeva determinate materie e una certa struttura di prova, posso usare lo stesso schema per ogni concorso INAIL successivo?
 
@@ -381,7 +381,7 @@ La differenza non e' la quantita di studio. E' l'ordine. Sara non parte da tutto
 
 **Perche' e' una trappola:** confonde il riuso dello studio con la copia del piano. Il Metodo BANDO consente di non ricominciare da zero, ma non autorizza a ignorare il bando nuovo.
 
-## Errore tipico
+### Errore tipico
 
 L'errore piu' frequente e' compilare il Decoder come se fosse un modulo anagrafico.
 
@@ -397,7 +397,7 @@ La correzione e':
 
 Un Decoder utile non e' quello piu' pieno. E' quello che impedisce errori di perimetro, priorita e aggiornamento.
 
-## Mini-esercizio
+### Mini-esercizio
 
 Prendi un bando EPNE reale o simulato e compila la scheda in 30 minuti. Non usare riassunti esterni: parti dal bando e dagli allegati.
 
@@ -418,7 +418,7 @@ Prendi un bando EPNE reale o simulato e compila la scheda in 30 minuti. Non usar
 
 Correzione: se alla riga "perche' rientra in M-FC03" rispondi solo con il nome dell'ente, la lettura e' incompleta. Devi aggiungere profilo, materie e prove. Se alla riga "output" scrivi "studiare", non hai ancora trasformato il bando in allenamento.
 
-## Diario errori del capitolo
+### Diario errori del capitolo
 
 | Errore | Come lo riconosco | Correzione |
 | --- | --- | --- |
@@ -432,7 +432,7 @@ Correzione: se alla riga "perche' rientra in M-FC03" rispondi solo con il nome d
 
 Il diario deve restare aperto per tutta la procedura. Il Decoder iniziale decide la partenza; il diario impedisce che gli aggiornamenti rompano il piano.
 
-## Checklist operativa finale
+### Checklist operativa finale
 
 Prima di passare ai casi pratici del capitolo 11, verifica se sai rispondere:
 
