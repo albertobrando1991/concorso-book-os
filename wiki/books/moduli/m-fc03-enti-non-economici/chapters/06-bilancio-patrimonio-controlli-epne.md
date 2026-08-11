@@ -233,7 +233,7 @@ In una prova orale, una risposta completa collega patrimonio e funzione pubblica
 
 Il libro base distingue tre piani: contabilita finanziaria, contabilita economico-patrimoniale e contabilita analitica. Nel modulo EPNE questa distinzione va mantenuta, ma senza tecnicismi inutili.
 
-La contabilita finanziaria guarda a entrate, spese, autorizzazioni, incassi e pagamenti. Serve a capire se la gestione rispetta stanziamenti, impegni, pagamenti e vincoli. La contabilita economico-patrimoniale guarda a costi, ricavi, attivita, passivita e patrimonio. Serve a leggere la sostenibilita economica e patrimoniale della gestione. La contabilita analitica aiuta a leggere costi e risultati per servizio, funzione, centro di responsabilita o processo.
+La contabilita finanziaria guarda a entrate, spese, autorizzazioni, incassi e pagamenti. Serve a capire se la gestione rispetta stanziamenti, impegni, pagamenti e vincoli. La contabilita economico-patrimoniale guarda a costi, proventi, attivita, passivita e patrimonio. Serve a leggere la sostenibilita economica e patrimoniale della gestione. La contabilita analitica aiuta a leggere costi e risultati per servizio, funzione, centro di responsabilita o processo.
 
 In un EPNE che eroga servizi, questa distinzione e' operativa. Non basta chiedere: "la spesa era autorizzata?". Occorre anche domandarsi: "quanto costa quel servizio? quale patrimonio viene utilizzato? quali risultati produce? quali indicatori consentono il controllo di gestione?".
 
@@ -346,7 +346,7 @@ La risposta funziona perche' collega bilancio, contratti, pagamenti, tracciabili
 
 **Domanda:** in che modo bilancio, patrimonio e controlli si collegano alla governance di un ente pubblico non economico?
 
-**Risposta modello:** il bilancio rappresenta e autorizza l'uso delle risorse dell'ente; il patrimonio riguarda beni, valori e componenti patrimoniali necessari allo svolgimento delle funzioni; i controlli verificano regolarita, gestione, risultati, responsabilita e uso corretto delle risorse. Negli EPNE questi elementi sono parte della governance perche' l'ente ha autonomia organizzativa e gestionale, ma opera dentro vincoli di legalita finanziaria, trasparenza, vigilanza e controllo pubblico. Il candidato deve quindi collegare documenti contabili, uffici competenti, amministrazione trasparente, Corte dei conti, RGS e amministrazioni vigilanti secondo la disciplina applicabile.
+**Risposta modello:** il bilancio rappresenta le risorse dell'ente e, secondo la disciplina applicabile, ne autorizza l'uso; il patrimonio riguarda beni, valori e componenti patrimoniali necessari allo svolgimento delle funzioni; i controlli verificano regolarita, gestione, risultati, responsabilita e uso corretto delle risorse. Negli EPNE questi elementi sono parte della governance perche' l'ente ha autonomia organizzativa e gestionale, ma opera dentro vincoli di legalita finanziaria, trasparenza, vigilanza e controllo pubblico. Il candidato deve quindi collegare documenti contabili, uffici competenti, amministrazione trasparente, Corte dei conti, RGS e amministrazioni vigilanti secondo la disciplina applicabile.
 
 ### Domanda-trappola
 
