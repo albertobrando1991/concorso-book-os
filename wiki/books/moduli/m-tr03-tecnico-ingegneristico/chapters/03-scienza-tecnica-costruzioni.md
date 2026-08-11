@@ -197,11 +197,11 @@ I diagrammi descrivono la variazione lungo l'elemento. Punti di applicazione dei
 
 ### Controlli senza calcolo dettagliato
 
-La simmetria è un primo controllo: geometria e carico simmetrici dovrebbero produrre una risposta coerente con tale simmetria, salvo condizioni che la rompano. Anche le condizioni al contorno contano: un'estremità libera non può trasmettere caratteristiche incompatibili con il modello del vincolo.
+La simmetria offre un controllo immediato: geometria e carico simmetrici dovrebbero produrre una risposta coerente, salvo condizioni che la rompano. Contano anche le condizioni al contorno: un'estremità libera non può trasmettere caratteristiche incompatibili con il modello del vincolo.
 
-Un secondo controllo riguarda le unità. Forza e momento non sono intercambiabili; tensione e sollecitazione appartengono a livelli diversi. Un risultato con dimensioni sbagliate segnala un'impostazione o una manipolazione errata anche se il numero appare plausibile.
+Controlla poi le unità. Forza e momento non sono intercambiabili; tensione e sollecitazione appartengono a livelli diversi. Un risultato con dimensioni sbagliate segnala un'impostazione o una manipolazione errata anche se il numero appare plausibile.
 
-Infine confronta il diagramma con la deformata qualitativa. Momento flettente e curvatura sono collegati dal modello della trave; una forma palesemente incompatibile invita a rivedere segni, vincoli o carichi. Il confronto non sostituisce il calcolo, ma evita di consegnare un risultato privo di senso fisico.
+Confronta anche il diagramma con la deformata qualitativa. Momento flettente e curvatura sono collegati dal modello della trave; una forma palesemente incompatibile invita a rivedere segni, vincoli o carichi. Il confronto non sostituisce il calcolo, ma evita di consegnare un risultato privo di senso fisico.
 
 | Caratteristica | Effetto qualitativo | Domanda di controllo |
 | --- | --- | --- |
@@ -219,6 +219,8 @@ Che cosa rappresenta un diagramma delle sollecitazioni? A) la geometria reale co
 Nella risposta orale conviene associare ogni sollecitazione a un gesto fisico semplice, poi precisare che l'elemento reale può essere soggetto a combinazioni. L'immagine aiuta a ricordare il significato, ma non sostituisce convenzioni, equilibrio e distribuzione lungo l'asse. In questo modo il candidato evita definizioni puramente mnemoniche.
 
 Una lettura corretta indica sempre elemento, sezione, asse locale e convenzione: senza questi riferimenti anche un diagramma ben tracciato resta ambiguo.
+
+Il controllo resta qualitativo e motivato.
 
 ## ▣ Verifica 3
 
@@ -349,7 +351,7 @@ Confronta due elementi: il primo è molto resistente ma deformabile; il secondo 
 
 Un elemento snello riceve una forza di compressione. Una risposta superficiale controlla soltanto la tensione media. Una risposta strutturale completa procede diversamente.
 
-Prima definisce geometria, vincoli e imperfezioni rilevanti. Poi distingue resistenza del materiale e stabilità dell’equilibrio. Considera la snellezza e il modo in cui i vincoli condizionano la deformata. Infine chiarisce quale verifica occorre svolgere secondo il quadro tecnico applicabile.
+La risposta definisce geometria, vincoli e imperfezioni rilevanti, quindi separa la resistenza del materiale dalla stabilità dell'equilibrio. Snellezza e condizioni alle estremità aiutano a leggere la deformata attesa. Su questa base si individua la verifica richiesta dal quadro tecnico applicabile.
 
 Il caso mostra perché non basta chiedere “quanto resiste il materiale?”. La crisi può dipendere dal comportamento dell’intero elemento.
 
