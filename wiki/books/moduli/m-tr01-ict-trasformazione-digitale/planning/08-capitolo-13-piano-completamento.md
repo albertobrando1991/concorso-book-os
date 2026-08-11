@@ -391,3 +391,11 @@ Il budget può superare la media del volume perché include tracce, soluzioni e 
 ## 17. Esito del piano
 
 Il piano è pronto. Lo step 09 dovrà sviluppare il laboratorio come ambiente di produzione e correzione di output ICT, non come riepilogo del volume. Prima di dichiarare il capitolo completo occorrerà verificare le tracce e le rubriche con specialisti, mantenere esplicito il primato del singolo bando e collegare ogni soluzione alle fonti tecniche consolidate dei capitoli 2-12.
+
+## Addendum retrofit Format 2 — 11 agosto 2026
+
+Il target confermato è il laboratorio conclusivo `13-laboratorio-prove-ict.md`: trasforma i contenuti dei capitoli 2-12 in prestazioni di concorso e non introduce una materia nuova. Il retrofit conserva quiz, scritto, orale, caso, rubriche e diario, ricomponendoli in sette nuclei: `N-TR01-13-01` decodifica della prova e della consegna; `02` quiz tecnico; `03` risposta breve e domanda aperta; `04` elaborato tecnico; `05` prova orale ICT; `06` caso tecnico; `07` simulazione, autocorrezione e diario degli errori.
+
+Ogni nucleo deve superare 600 parole e sviluppare teoria operativa, distinzione, errore, applicazione e controllo. Dopo il settimo nucleo il blocco `▣ Verifica` deve raccogliere almeno sei quiz commentati, un caso guidato, esercizi con soluzione o criteri e strumenti compilabili. I rinvii ai capitoli tecnici restano lettore-friendly; il corpo non espone wikilink, source note, workflow o review interni.
+
+Restano debiti mobili per gli step 13-18: campione di bandi, avvisi e criteri pubblicati; disciplina vigente delle prove; pertinenza di tempi, punteggi, soglie, penalità e strumenti ammessi; correttezza tecnica delle soluzioni nei casi. Il testo non fissa valori universali né simula una valutazione umana o criteri ufficiali di commissione. La verifica KDP di rubriche, canvas, fogli di esito e tabelle resta allo step 20; lo step 24 umano resta pendente.

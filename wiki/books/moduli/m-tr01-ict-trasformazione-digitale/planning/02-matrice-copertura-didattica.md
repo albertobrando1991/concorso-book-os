@@ -579,3 +579,29 @@ La copertura `completo` attesta il contratto didattico del lettore. Non dichiara
 | N-TR01-11-07 | parziale | quadro UE e italiano presentato con confini prudenziali | completo | heading, caso e quiz 6 |
 
 La copertura `completo` attesta il contratto didattico del lettore. Non chiude i debiti mobili: gli step 13-18 devono riesaminare testo consolidato e calendario AI Act, atti modificativi, linee guida definitive, legge n. 132/2025, stato delle fonti NIST, privacy, sicurezza, ruoli e procurement applicabili al cut-off.
+
+## Retrofit Format 2 - mappatura capitolo 13
+
+| Nucleo ID | Materia | Concetto e funzione | Applicazione | Output e verifica | Stato | Fonti/rinvii |
+| --- | --- | --- | --- | --- | --- | --- |
+| `N-TR01-13-01` | prove ICT | decodificare bando, consegna, vincoli e output | canvas della traccia | piano di esecuzione; Quiz 1 | completo | atti della procedura; raccordo VOL-01 per metodo |
+| `N-TR01-13-02` | quiz tecnico | distinguere quesito, distrattore, regola ed errore | primo giro e diario | scelta motivata; Quiz 2 | completo | capitoli tecnici 2-12; atti della procedura |
+| `N-TR01-13-03` | risposta aperta | selezionare definizione, distinzione e conseguenza | micro-scaletta | risposta proporzionata; Quiz 3 | completo | raccordo VOL-01; capitoli tecnici 2-12 |
+| `N-TR01-13-04` | elaborato tecnico | collegare requisito, scelta, rischio, controllo ed evidenza | progetto di servizio | scaletta commentata; Quiz 4 | completo | capitoli tecnici 2-12 |
+| `N-TR01-13-05` | orale ICT | esporre concetto, nesso e verifica | controdomanda e rubrica | risposta orale; Quiz 5 | completo | raccordo VOL-01; capitoli tecnici 2-12 |
+| `N-TR01-13-06` | caso tecnico | distinguere sintomo, ipotesi, test, azione e verifica | servizio intermittente | caso guidato; Quiz 6 | completo | capitoli 5, 7, 8, 9 e 12 |
+| `N-TR01-13-07` | simulazione | correggere prestazione e pianificare recupero | batteria mista e diario | 12 quiz, scritto, orale e foglio di esito | completo | bando e istruzioni della procedura |
+
+### Checklist dimensionale - capitolo 13
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso prova | Errore tipico | Verifica | Fonti |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| `N-TR01-13-01` | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| `N-TR01-13-02` | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| `N-TR01-13-03` | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| `N-TR01-13-04` | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| `N-TR01-13-05` | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| `N-TR01-13-06` | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| `N-TR01-13-07` | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+
+La copertura didattica e completa per il capitolo 13. La verifica delle fonti mobili, delle istruzioni di procedura e della valutazione specialistica resta separata negli step 13-18; la chiusura editoriale umana resta allo step 24.
