@@ -5200,3 +5200,11 @@
 - l0: l0/conv-20260811114250-qyb0dk.md
 - atoms:
   - mem-20260811114250-1lz76vj | result | Esito codex-vol10-cap08-step11: Procedi con il prossimo step della pipeline aggiornata VOL-10. -> Completato step 11 capitolo 08: doppia passata Humanizer con 31 riscritture locali, significato e riferimenti preservati; 4784 parole, sei nuclei sopra 600, sei quiz, caso e verifica.
+
+## 2026-08-11T11:44:45.440Z - VOL-10/M-TR03
+
+- conversation_id: conv-20260811114445-1saz1o2
+- route: codex-vol10-cap08-step12
+- l0: l0/conv-20260811114445-1saz1o2.md
+- atoms:
+  - mem-20260811114445-1g9vd0j | result | Esito codex-vol10-cap08-step12: Procedi con il prossimo step della pipeline aggiornata VOL-10. -> Completato step 12 capitolo 08: report di revisione totale aggiornato nel template fisso, test dello studente superato, copertura v4 completa, nessun errore oggettivo aperto; quattro verifiche normative instradate all...
