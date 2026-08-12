@@ -5,6 +5,7 @@ Usala come profilo di lavoro: le source notes e il wiki restano la base canonica
 
 ## Preferenze e istruzioni recenti
 
+- Eseguire lo step 11 Humanizer sul capitolo 09 di VOL-10. (mem-20260812062229-pp6u4t)
 - Procedi con il prossimo step della pipeline aggiornata VOL-10. (mem-20260811113207-4xmh6t)
 - Procedere con il prossimo step della pipeline aggiornata per VOL-10. (mem-20260811102859-qvpjjk)
 - Procedere con lo step successivo della pipeline aggiornata per VOL-10. (mem-20260811102531-12pviuo)
@@ -84,4 +85,3 @@ Usala come profilo di lavoro: le source notes e il wiki restano la base canonica
 - Riprendere la pipeline VOL-07 M-SA02 dopo l'arresto del PC e procedere dal punto raggiunto. (mem-20260729140229-dmyzq9)
 - Procedere dal punto interrotto della pipeline VOL-07 M-SA02 completando il sottoprogetto OSS su bagno a letto e trasferimenti, senza forzare il gate. (mem-20260729132849-stq6wu)
 - Procedere con il prossimo passo della pipeline VOL-07 M-SA02 dopo la preparazione della batteria PASSI e dello scenario epidemiologico. (mem-20260729125906-1s5cvvy)
-- Ricorda: per VOL-07 M-SA02 il corpus PREMAL e risposta al segnale comprende DM 7 marzo 2022 in Gazzetta, guida ISS-EpiCentro e due strumenti ECDC; lo scenario resta planning e non autorizza capitoli finché manca review epidemiologica indipendente. (mem-20260729124607-16dadm7)

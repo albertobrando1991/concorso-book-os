@@ -5216,3 +5216,12 @@
 - l0: l0/conv-20260811115148-t8uf00.md
 - atoms:
   - mem-20260811115148-150wo5q | result | Esito codex-vol10-cap09-step08: Procedi con il prossimo step della pipeline aggiornata VOL-10. -> Completato step 08 capitolo 09: piano Format 2 aggiornato sullo stato reale con sei nuclei, budget 4600-5000 parole, sei quiz, caso integrato, controlli vicini, fonti disponibili, confini e audit specialistici.
+
+## 2026-08-12T06:22:29.734Z - VOL-10/M-TR03
+
+- conversation_id: conv-20260812062229-tqoa0j
+- route: codex-vol10-cap09-step11
+- l0: l0/conv-20260812062229-tqoa0j.md
+- atoms:
+  - mem-20260812062229-pp6u4t | workflow | Eseguire lo step 11 Humanizer sul capitolo 09 di VOL-10.
+  - mem-20260812062229-sbf44l | result | Esito codex-vol10-cap09-step11: Eseguire lo step 11 Humanizer sul capitolo 09 di VOL-10. -> Completato lo step 11 con doppio passaggio Humanizer sul capitolo 09: 4822 parole, sei nuclei sopra 600 parole, 6 quiz, caso e blocco di verifica preservati; citation guard verde.
