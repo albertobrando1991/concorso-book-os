@@ -11,13 +11,13 @@ book_refs: ["m-fc02-agenzie-fiscali", "il-metodo-bando"]
 confidence: 0.95
 updated_at: 2026-08-04
 created_at: 2026-07-01T21:00:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "module-code-m-fc02", "professional-draft", "revised-draft"]
 book_id: m-fc02-agenzie-fiscali
 companion_to: il-metodo-bando
 outline_section: 9
-draft_stage: revised-editorial-draft
+draft_stage: specialist-audit-complete
 module_code: M-FC02
 module_family: funzioni-centrali
 asset_refs: ["assets/chapter-09/01-mappa-bando-accise-giochi-monopoli.png", "assets/chapter-09/02-filiera-accise-regime-sospensivo.png", "assets/chapter-09/03-prodotti-giochi-monopoli-adm.png", "assets/chapter-09/04-controlli-adm-filiere-regolate.png", "assets/chapter-09/05-checklist-accise-giochi-monopoli.png"]
@@ -330,12 +330,6 @@ D. gestione diretta obbligatoria di ADM.
 
 ## Riferimenti consolidati
 
-- [[sources/dogane-accise-giochi-monopoli-adm-m-fc02]]
-- [[sources/accise-giochi-monopoli-adm-aggiornamento-2026-07-17]]
-- [[sources/m-fc02-corpus-ufficiale-integrativo-2026-07-17]]
-- [[sources/reati-e-sanzioni-tributarie-m-fc02]]
-- [[topics/dogane-accise-monopoli-adm]]
-- [[entities/agenzia-delle-dogane-e-dei-monopoli]]
 
 ## Note di review
 
@@ -343,4 +337,3 @@ D. gestione diretta obbligatoria di ADM.
 - Aggiornare aliquote, categorie di prodotto, agevolazioni e tracciati EMCS alla data del bando.
 - Verificare lo stato del riordino della rete fisica dei giochi e i provvedimenti attuativi del D.Lgs. 41/2024.
 - Allineare concessioni, prelievi e regole tecniche ai provvedimenti ADM vigenti senza appesantire il nucleo stabile.
-- [[sources/agenzie-fiscali-organizzazione-ae-adm-ader]]

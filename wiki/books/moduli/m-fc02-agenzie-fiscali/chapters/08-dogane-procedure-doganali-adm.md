@@ -18,12 +18,12 @@ companion_to: il-metodo-bando
 confidence: 0.95
 updated_at: 2026-08-04
 created_at: 2026-07-01T21:00:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "module-code-m-fc02", "professional-draft", "revised-draft"]
 book_id: m-fc02-agenzie-fiscali
 outline_section: 8
-draft_stage: revised-editorial-draft
+draft_stage: specialist-audit-complete
 module_code: M-FC02
 module_family: funzioni-centrali
 last_compiled_from: ["wiki/sources/dogane-accise-giochi-monopoli-adm-m-fc02.md", "wiki/sources/codice-doganale-unione-procedure-adm-aggiornamento-2026-07-17.md", "wiki/sources/m-fc02-corpus-ufficiale-integrativo-2026-07-17.md", "wiki/sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026.md", "wiki/topics/dogane-accise-monopoli-adm.md", "wiki/entities/agenzia-delle-dogane-e-dei-monopoli.md"]
@@ -376,13 +376,6 @@ D. l'esenzione definitiva da ogni obbligo.
 
 ## Riferimenti consolidati
 
-- [[sources/dogane-accise-giochi-monopoli-adm-m-fc02]]
-- [[sources/codice-doganale-unione-procedure-adm-aggiornamento-2026-07-17]]
-- [[sources/m-fc02-corpus-ufficiale-integrativo-2026-07-17]]
-- [[sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026]]
-- [[sources/codice-doganale-unione-procedure-doganali-m-fc02]]
-- [[topics/dogane-accise-monopoli-adm]]
-- [[entities/agenzia-delle-dogane-e-dei-monopoli]]
 
 ## Note di review
 

@@ -17,12 +17,12 @@ book_refs: ["m-fc02-agenzie-fiscali","il-metodo-bando"]
 confidence: 0.88
 updated_at: 2026-08-04
 created_at: 2026-07-01T21:00:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter","module-code-m-fc02","professional-draft","appendices","workbook","illustrated"]
 book_id: m-fc02-agenzie-fiscali
 outline_section: 14
-draft_stage: professional-draft
+draft_stage: specialist-audit-complete
 module_code: M-FC02
 module_family: funzioni-centrali
 companion_to: il-metodo-bando
@@ -403,7 +403,7 @@ Nel front-office il servizio all'utente deve rispettare la protezione dei dati. 
 
 ![Figura 14.3 - Protocollo front-office e privacy: identificazione, competenza, minimizzazione, canale, tracciabilità ed escalation.](../assets/chapter-14/04-front-office-privacy-protocollo.png)
 
-**Riferimenti:** [[sources/regolamento-ue-2016-679-gdpr-protezione-dati-personali]]; [[books/moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader#9. Front-office: una checklist che evita errori]]; [[books/moduli/m-fc02-agenzie-fiscali/chapters/13-casi-pratici-quiz-orale-agenzie-fiscali#Caso situazionale: utente aggressivo allo sportello]].
+**Riferimenti:**; [[books/moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader#9. Front-office: una checklist che evita errori]]; [[books/moduli/m-fc02-agenzie-fiscali/chapters/13-casi-pratici-quiz-orale-agenzie-fiscali#Caso situazionale: utente aggressivo allo sportello]].
 
 ## Appendice F - Sanzioni, reati, processo e diritto UE
 
@@ -411,11 +411,11 @@ La tavola aiuta a riconoscere il piano giuridico pertinente e rinvia alla relati
 
 | Area | Domanda | Distinzione | Fonte e rinvio |
 | --- | --- | --- | --- |
-| Sanzione tributaria | Quale violazione, autore, elemento soggettivo e conseguenza? | illecito amministrativo, recupero del tributo e reato sono piani distinti | [[sources/sanzioni-amministrative-tributarie-aggiornamento-2026-07-18]]; [[books/moduli/m-fc02-agenzie-fiscali/chapters/05a-sanzioni-amministrative-reati-tributari]] |
-| Reato tributario | Quale condotta, dolo e fattispecie vengono in rilievo? | il rilievo penale richiede presupposti propri e non deriva dal solo debito fiscale | [[sources/reati-tributari-dlgs-74-2000-aggiornamento-2026-07-18]]; [[books/moduli/m-fc02-agenzie-fiscali/chapters/05a-sanzioni-amministrative-reati-tributari]] |
-| Tutela e processo | Quale atto, rimedio, giudice e fase? | tutela amministrativa, deflazione e processo non coincidono | [[sources/processo-tributario-dlgs-175-2024-aggiornamento-2026-07-18]]; [[books/moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario]] |
-| Diritto UE fiscale | Quale fonte UE opera e come si coordina con il diritto interno? | regolamento, direttiva e disciplina nazionale producono effetti diversi | [[sources/diritto-ue-fiscale-doganale-iva-cdu-2026-07-18]]; [[books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta#Livello 3 - Quadro UE fiscale, IVA e dogane]] |
-| Diritto UE doganale | Quale regola unionale e quale complemento nazionale governano la fase? | fonte UE e integrazione nazionale vanno lette nella corretta gerarchia | [[sources/diritto-ue-fiscale-doganale-iva-cdu-2026-07-18]]; [[books/moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm#1. Le fonti: prima l'Unione, poi il complemento nazionale]] |
+| Sanzione tributaria | Quale violazione, autore, elemento soggettivo e conseguenza? | illecito amministrativo, recupero del tributo e reato sono piani distinti |; [[books/moduli/m-fc02-agenzie-fiscali/chapters/05a-sanzioni-amministrative-reati-tributari]] |
+| Reato tributario | Quale condotta, dolo e fattispecie vengono in rilievo? | il rilievo penale richiede presupposti propri e non deriva dal solo debito fiscale |; [[books/moduli/m-fc02-agenzie-fiscali/chapters/05a-sanzioni-amministrative-reati-tributari]] |
+| Tutela e processo | Quale atto, rimedio, giudice e fase? | tutela amministrativa, deflazione e processo non coincidono |; [[books/moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario]] |
+| Diritto UE fiscale | Quale fonte UE opera e come si coordina con il diritto interno? | regolamento, direttiva e disciplina nazionale producono effetti diversi |; [[books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta#Livello 3 - Quadro UE fiscale, IVA e dogane]] |
+| Diritto UE doganale | Quale regola unionale e quale complemento nazionale governano la fase? | fonte UE e integrazione nazionale vanno lette nella corretta gerarchia |; [[books/moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm#1. Le fonti: prima l'Unione, poi il complemento nazionale]] |
 
 **Istruzioni:** chiarisci anzitutto la natura dell'illecito, dell'atto o della fonte. Identifica quindi soggetti, presupposti, fase e conseguenze. Se il quesito coinvolge più piani, esaminali separatamente e nell'ordine in cui operano.
 
@@ -516,22 +516,6 @@ Scegli un nucleo rosso e produci una voce di glossario, una tavola, un canvas, u
 
 ## Riferimenti consolidati
 
-- [[sources/m-fc02-dossier-redazionale-agenzie-fiscali]]
-- [[sources/normativa-tributaria-tuir-iva-accertamento-m-fc02]]
-- [[sources/accertamento-contraddittorio-compliance-aggiornamento-2026-07-17]]
-- [[sources/riscossione-ader-aggiornamento-istituzionale-2026-07-17]]
-- [[sources/codice-doganale-unione-procedure-adm-aggiornamento-2026-07-17]]
-- [[sources/accise-giochi-monopoli-adm-aggiornamento-2026-07-17]]
-- [[sources/catasto-cartografia-estimo-pubblicita-immobiliare-aggiornamento-2026-07-18]]
-- [[sources/contabilita-aziendale-bilancio-reddito-impresa-aggiornamento-2026-07-18]]
-- [[sources/sanzioni-amministrative-tributarie-aggiornamento-2026-07-18]]
-- [[sources/reati-tributari-dlgs-74-2000-aggiornamento-2026-07-18]]
-- [[sources/processo-tributario-dlgs-175-2024-aggiornamento-2026-07-18]]
-- [[sources/diritto-ue-fiscale-doganale-iva-cdu-2026-07-18]]
-- [[sources/regolamento-ue-2016-679-gdpr-protezione-dati-personali]]
-- [[topics/diritto-tributario-concorsi-agenzie-fiscali]]
-- [[topics/dogane-accise-monopoli-adm]]
-- [[topics/riscossione-tributaria-ader]]
 
 ## Note di review
 

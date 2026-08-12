@@ -11,12 +11,12 @@ book_refs: ["m-fc02-agenzie-fiscali","il-metodo-bando"]
 confidence: 0.88
 updated_at: 2026-08-04
 created_at: 2026-07-01T21:00:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter","module-code-m-fc02","professional-draft","revised-draft"]
 book_id: m-fc02-agenzie-fiscali
 outline_section: 2
-draft_stage: revised-editorial-draft
+draft_stage: specialist-audit-complete
 module_code: M-FC02
 module_family: funzioni-centrali
 companion_to: il-metodo-bando
@@ -40,8 +40,6 @@ Trasformare un bando AE, ADM o AdER in piano di studio: codice profilo, prove, m
 Scheda Bando Decoder compilabile, griglia priorità, schema "studio subito/studio dopo/verifico sul bando".
 
 ### Riferimenti consolidati
-- [[topics/bando-decoder-fiscale]]
-- [[sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026]]
 
 ## Dal bando al piano di studio
 
@@ -445,15 +443,6 @@ Se una di queste risposte manca, non iniziare ancora un piano dettagliato. Prima
 
 Questo capitolo è costruito sulle note e sulle pagine consolidate del wiki del progetto:
 
-- [[topics/bando-decoder-fiscale]]
-- [[topics/profili-agenzie-fiscali]]
-- [[sources/m-fc02-dossier-redazionale-agenzie-fiscali]]
-- [[sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026]]
-- [[sources/agenzie-fiscali-organizzazione-ae-adm-ader]]
-- [[sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994]]
-- [[entities/agenzia-delle-entrate]]
-- [[entities/agenzia-delle-dogane-e-dei-monopoli]]
-- [[entities/agenzia-entrate-riscossione]]
 - [[books/moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali]]
 - [[books/il-metodo-bando/chapters/appendice-c-template-bando-decoder]]
 

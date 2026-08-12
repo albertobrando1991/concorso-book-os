@@ -1,6 +1,6 @@
 # Indice
 
-## Sezioni editoriali
+## Front matter del volume
 
 1. Servizi digitali inclusi
 2. Frontespizio
@@ -9,58 +9,69 @@
 5. Premessa
 6. Indice
 
-## Parte I - Orientamento comune
+## Strumento trasversale
 
-1. Il sistema fiscale, previdenziale e ispettivo
-2. Bando Decoder specialistico
-3. Piano 30/60/90 e raccordo con VOL-01
+- Bando Decoder specialistico.
 
-## Parte II - M-FC02 Agenzie fiscali
+## M-FC01 - Ministeri
 
-4. Ordinamento e organizzazione di AE, ADM e AdER
-5. Principi e fonti del sistema tributario
-6. Imposte sui redditi: IRPEF e IRES
-7. IVA e imposte indirette essenziali
-8. Dichiarazioni, versamenti e adempimenti
-9. Accertamento e poteri istruttori
-10. Interpello, compliance e adempimento collaborativo
-11. Riscossione e Agenzia Entrate-Riscossione
-12. Sanzioni amministrative e reati tributari
-13. Processo tributario essenziale
-14. Unione doganale e Codice doganale dell'Unione
-15. Procedure doganali e disciplina nazionale
-16. Accise, energia, alcoli e tabacchi
-17. Giochi pubblici e monopoli
-18. Catasto, pubblicità immobiliare ed estimo
-19. Contabilità aziendale, bilancio, audit e ACFI
-20. Civile e commerciale applicati al fisco
-21. Laboratorio M-FC02
+1. Lavorare nei Ministeri e nelle Funzioni Centrali
+2. Anatomia del bando ministeriale/RIPAM
+3. Profili professionali, CCNL e mansioni
+4. Governo, Ministeri e amministrazione centrale
+5. Presidenza del Consiglio dei ministri
+6. Organizzazione interna dei Ministeri
+7. Avvocatura dello Stato
+8. PIAO, performance, anticorruzione e valore pubblico
+9. Contabilità dello Stato e bilancio ministeriale
+10. Contratti pubblici, PNRR e amministrazione digitale
+11. Casi pratici ministeriali
+12. Quesiti situazionali e codice di comportamento
+13. Matrice materie e piano 30/60/90
+14. Simulazione finale e diario degli errori
+15. Appendici operative
 
-## Parte III - M-FC03 Previdenza, INAIL, EPNE e vigilanza
+## M-FC02 - Agenzie fiscali
 
-22. Architettura della previdenza e dell'assistenza
-23. Contribuzione e posizione assicurativa
-24. Sistema pensionistico e prestazioni ai superstiti
-25. Ammortizzatori e sostegno al reddito
-26. Invalidità, assistenza e ISEE
-27. Assicurazione INAIL
-28. Procedimento e ricorsi previdenziali
-29. Sistema della vigilanza
-30. Tecniche ispettive e acquisizione delle prove
-31. Verbalizzazione, diffida e sanzioni
-32. Sicurezza sul lavoro in chiave ispettiva
-33. Contabilità e documenti per l'ispezione
-34. Ordinamento e governance degli EPNE
-35. Bilancio, patrimonio e controlli
-36. Personale e CCNL Funzioni Centrali
-37. Procedimenti, servizi e trasformazione digitale
-38. PIAO, performance, anticorruzione e controlli
-39. Compliance e risk-based supervision
-40. Laboratorio M-FC03
+1. Mappa delle Agenzie fiscali e dei profili concorsuali
+2. Bando Decoder fiscale
+3. Ordinamento e organizzazione di AE, ADM e AdER
+4. Diritto tributario e teoria dell'imposta
+5. Accertamento, controlli e compliance fiscale
+6. Sanzioni amministrative e reati tributari
+7. Tutela e processo tributario
+8. Adempimenti fiscali: redditi, IVA, dichiarazioni
+9. Riscossione nazionale e lavoro in AdER
+10. Dogane e procedure doganali ADM
+11. Accise, giochi e monopoli
+12. Catasto, cartografia, estimo e pubblicità immobiliare
+13. Contabilità aziendale ed economia d'impresa per il fisco
+14. Civile e commerciale applicati a fisco, dogane e riscossione
+15. Casi pratici, quiz e orale nelle Agenzie fiscali
+16. Appendici operative
 
-## Parte IV - Strumenti e appendici
+## M-FC03 - Enti pubblici non economici
 
-Matrice profilo-capitoli; tavole normative; simulazioni; diario errori; glossari; registro dati mobili; rinvii; fonti e checklist finale.
+1. Lavorare negli enti pubblici non economici
+2. Ordinamento e governance degli EPNE
+3. INPS: previdenza, servizi e prestazioni
+4. INAIL: assicurazione sociale, prevenzione e prestazioni
+5. Procedimenti EPNE e rapporto con cittadini e imprese
+6. Bilancio, patrimonio e controlli negli EPNE
+7. Performance, PIAO e valore pubblico negli EPNE
+8. Personale EPNE e CCNL Funzioni Centrali
+9. Contratti, acquisti e forniture negli EPNE
+10. Bando Decoder EPNE
+11. Casi pratici EPNE
+12. Quesiti situazionali EPNE
+13. Piano 30/60/90 per INPS, INAIL ed EPNE
+14. Vigilanza ispettiva INPS-INAIL
+15. Glossario previdenza, assicurazione e prestazioni
+16. Schede rapide ACI, ENAC, ISTAT, ENEA, ASI, CONI e CRI
+17. Errori tipici nei bandi EPNE
+18. Rinvii ragionati ad altri moduli
+19. Appendice F — Materie integrative INAIL/RIPAM
 
-Per sezioni, sottosezioni, output, casi, errori e fonti si veda [[books/volumi/vol-03-fisco-dogane-previdenza-ispettivo/planning/02-indice-analitico-ricostruito-2026]].
+## Nota di uso
 
+L'indice corrisponde ai 50 file capitolo dei tre moduli congelati e al Bando Decoder trasversale del volume. Le pagine saranno assegnate e verificate sull'impaginato prodotto nello step tecnico successivo.

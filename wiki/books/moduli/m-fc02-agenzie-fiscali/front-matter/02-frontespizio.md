@@ -2,7 +2,7 @@
 id: frontmatter-m-fc02-frontespizio
 type: front_matter
 title: "Frontespizio"
-status: source_ready
+status: text_frozen
 domain: "concorsi pubblici italiani"
 topics: ["frontespizio","moduli specialistici","agenzie fiscali"]
 entities: ["Capitale Personale","Metodo BANDO","Agenzia delle Entrate","Agenzia delle Dogane e dei Monopoli","Agenzia delle Entrate-Riscossione"]
@@ -17,7 +17,7 @@ tags: ["front-matter","title-page","module-code-m-fc02"]
 book_id: m-fc02-agenzie-fiscali
 outline_section: "FM2"
 front_matter_layout: title-page
-draft_stage: source-ready
+draft_stage: text-frozen
 module_code: M-FC02
 module_family: funzioni-centrali
 last_compiled_from: ["wiki/books/moduli/m-fc02-agenzie-fiscali/index.md"]

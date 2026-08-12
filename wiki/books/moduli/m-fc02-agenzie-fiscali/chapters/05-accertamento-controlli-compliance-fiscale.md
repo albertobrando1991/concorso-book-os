@@ -17,13 +17,13 @@ book_refs: ["m-fc02-agenzie-fiscali","il-metodo-bando"]
 confidence: 0.95
 updated_at: 2026-08-04
 created_at: 2026-07-01T21:00:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter","module-code-m-fc02","professional-draft","revised-draft"]
 book_id: m-fc02-agenzie-fiscali
 companion_to: il-metodo-bando
 outline_section: 5
-draft_stage: revised-editorial-draft
+draft_stage: specialist-audit-complete
 module_code: M-FC02
 module_family: funzioni-centrali
 last_compiled_from: ["wiki/sources/normativa-tributaria-tuir-iva-accertamento-m-fc02.md","wiki/sources/adempimento-collaborativo-compliance-fiscale-m-fc02.md","wiki/sources/vol-03-fonti-specialistiche-fisco-dogane-previdenza-ispettivo.md","wiki/sources/accertamento-contraddittorio-compliance-aggiornamento-2026-07-17.md","wiki/sources/processo-tributario-dlgs-175-2024-aggiornamento-2026-07-18.md","wiki/sources/fiscalita-internazionale-acfi-aggiornamento-2026-07-18.md","wiki/sources/adempimenti-contabilita-civile-commerciale-m-fc02.md","wiki/topics/accertamento-compliance-fiscale.md","wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md","wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario.md","wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md","wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco.md","wiki/books/moduli/m-fc02-agenzie-fiscali/planning/02-matrice-copertura-didattica.md","wiki/books/volumi/vol-03-fisco-dogane-previdenza-ispettivo/planning/02-matrice-copertura-didattica.md"]
@@ -500,14 +500,6 @@ D. consente sempre una rettifica automatica.
 
 ## Riferimenti consolidati
 
-- [[sources/normativa-tributaria-tuir-iva-accertamento-m-fc02]]
-- [[sources/adempimento-collaborativo-compliance-fiscale-m-fc02]]
-- [[sources/vol-03-fonti-specialistiche-fisco-dogane-previdenza-ispettivo]]
-- [[sources/accertamento-contraddittorio-compliance-aggiornamento-2026-07-17]]
-- [[sources/fiscalita-internazionale-acfi-aggiornamento-2026-07-18]]
-- [[sources/adempimenti-contabilita-civile-commerciale-m-fc02]]
-- [[sources/autotutela-adesione-deflativi-aggiornamento-2026-07-29]]
-- [[topics/accertamento-compliance-fiscale]]
 - [[books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta]]
 
 ## Note di review

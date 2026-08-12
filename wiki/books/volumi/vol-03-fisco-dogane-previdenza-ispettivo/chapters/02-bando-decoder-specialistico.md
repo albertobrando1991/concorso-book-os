@@ -43,12 +43,6 @@ Scheda BANDO compilabile `profilo-materie-output-fonti`, con tre applicazioni gu
 
 ### Riferimenti consolidati
 
-- [[sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026]]
-- [[sources/m-fc03-bando-ripam-inail-308-funzionari-assistenti-sociali-2024]]
-- [[sources/m-fc03-inl-vigilanza-lavoro-previdenziale]]
-- [[sources/m-fc03-portali-bandi-concorsi-2023-2026]]
-- [[sources/vol-03-fonti-specialistiche-fisco-dogane-previdenza-ispettivo]]
-- [[sources/logica-volumi-copertura-concorsobook-v4]]
 
 ## Testo editoriale
 
@@ -75,7 +69,7 @@ Il risultato atteso non è una trascrizione ordinata del bando. È una sequenza 
 
 Il Decoder generale di VOL-01 resta la cabina di regia per requisiti, domanda, termini, riserve, titoli, struttura complessiva della selezione e materie comuni. Questo capitolo non ripete quel lavoro. Lo specializza.
 
-VOL-03 presuppone infatti il capitale comune già costruito su diritto amministrativo, pubblico impiego, trasparenza, privacy, contabilità pubblica essenziale, contratti, informatica, inglese, logica e tecniche di prova. Qui interessa stabilire quale **delta specialistico** aggiungere e con quale priorità: fisco, dogane, riscossione, previdenza, assicurazione, vigilanza o funzionamento degli EPNE. [[sources/vol-03-fonti-specialistiche-fisco-dogane-previdenza-ispettivo]] [[sources/logica-volumi-copertura-concorsobook-v4]]
+VOL-03 presuppone infatti il capitale comune già costruito su diritto amministrativo, pubblico impiego, trasparenza, privacy, contabilità pubblica essenziale, contratti, informatica, inglese, logica e tecniche di prova. Qui interessa stabilire quale **delta specialistico** aggiungere e con quale priorità: fisco, dogane, riscossione, previdenza, assicurazione, vigilanza o funzionamento degli EPNE.
 
 ### Mappa BANDO del capitolo
 
@@ -133,7 +127,7 @@ Calendari, istruzioni, rettifiche, sedi, criteri operativi e altri avvisi posson
 | 4 | Statuti, atti, PIAO, bilanci e pagine istituzionali | Comprensione dell'ente e delle funzioni. |
 | 5 | Notizie, gruppi e riassunti | Orientamento provvisorio, mai decisione vincolante. |
 
-Per i bandi EPNE, il portale o il soggetto che gestisce la procedura non coincide necessariamente con l'ente di destinazione. Per definire il percorso di studio contano amministrazione, profilo, programma e prove. [[sources/m-fc03-portali-bandi-concorsi-2023-2026]]
+Per i bandi EPNE, il portale o il soggetto che gestisce la procedura non coincide necessariamente con l'ente di destinazione. Per definire il percorso di studio contano amministrazione, profilo, programma e prove.
 
 ## Verbi del programma e profondità richiesta
 
@@ -263,7 +257,7 @@ Elena compra un manuale generale, inizia dall'amministrativo e rimanda il tribut
 3. svolgere due sessioni di quiz con diario dei distrattori;
 4. registrare una risposta orale di 120 secondi sulla funzione del controllo fiscale.
 
-Il corpus dei bandi fiscali consolidati mostra la varietà di profili AE, ADM e AdER e impedisce di estendere automaticamente il piano tributario a ogni concorso bandito da un'Agenzia fiscale. [[sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026]]
+Il corpus dei bandi fiscali consolidati mostra la varietà di profili AE, ADM e AdER e impedisce di estendere automaticamente il piano tributario a ogni concorso bandito da un'Agenzia fiscale.
 
 ## Caso guidato 2 - Profilo ispettivo
 
@@ -291,7 +285,7 @@ Marco accumula norme su lavoro, previdenza e sicurezza, ma non ricostruisce mai 
 3. risolvere un micro-caso indicando competenza, evidenze e decisione;
 4. annotare nel diario ogni salto logico fra fatto e conclusione.
 
-La vigilanza è un perimetro trasversale che incrocia lavoro, contribuzione, assicurazione e sicurezza; i contenuti puntuali del profilo devono però essere verificati sul singolo bando. [[sources/m-fc03-inl-vigilanza-lavoro-previdenziale]]
+La vigilanza è un perimetro trasversale che incrocia lavoro, contribuzione, assicurazione e sicurezza; i contenuti puntuali del profilo devono però essere verificati sul singolo bando.
 
 ## Caso guidato 3 - Funzionario EPNE
 
@@ -319,7 +313,7 @@ Sara tratta il concorso come un generico profilo amministrativo. Studia soltanto
 3. preparare una risposta orale su ordinamento e attribuzioni;
 4. risolvere un quesito situazionale motivando la scelta con legalità, competenza e qualità del servizio.
 
-Il bando RIPAM-INAIL consolidato dimostra che in uno stesso concorso possono convivere materie disciplinari, logica, situazionali, orale, casi, inglese e competenze digitali. Il suo assetto non va però trasferito automaticamente ad altre procedure. [[sources/m-fc03-bando-ripam-inail-308-funzionari-assistenti-sociali-2024]]
+Il bando RIPAM-INAIL consolidato dimostra che in uno stesso concorso possono convivere materie disciplinari, logica, situazionali, orale, casi, inglese e competenze digitali. Il suo assetto non va però trasferito automaticamente ad altre procedure.
 
 ## Confronto dei tre Decoder
 
@@ -403,18 +397,6 @@ Scegli un bando reale o predisposto dal docente. In trenta minuti compila la seg
 
 ## Riferimenti consolidati
 
-- [[sources/template-bando-decoder-metodo-bando]]
-- [[sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026]]
-- [[sources/m-fc03-bando-ripam-inail-308-funzionari-assistenti-sociali-2024]]
-- [[sources/m-fc03-inl-vigilanza-lavoro-previdenziale]]
-- [[sources/m-fc03-portali-bandi-concorsi-2023-2026]]
-- [[sources/vol-03-fonti-specialistiche-fisco-dogane-previdenza-ispettivo]]
-- [[sources/logica-volumi-copertura-concorsobook-v4]]
-- [[topics/bando-decoder]]
-- [[topics/bando-decoder-fiscale]]
-- [[topics/vol-03-previdenza-vigilanza-epne]]
-- [[entities/bando-decoder]]
-- [[entities/inps-inail-epne]]
 - [[books/il-metodo-bando/chapters/anatomia-del-bando]]
 - [[books/il-metodo-bando/chapters/appendice-c-template-bando-decoder]]
 - [[books/moduli/m-fc02-agenzie-fiscali/chapters/02-bando-decoder-fiscale]]

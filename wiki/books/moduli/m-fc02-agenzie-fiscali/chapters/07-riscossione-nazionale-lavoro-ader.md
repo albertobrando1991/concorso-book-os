@@ -18,12 +18,12 @@ companion_to: il-metodo-bando
 confidence: 0.95
 updated_at: 2026-08-04
 created_at: 2026-07-01T21:00:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "module-code-m-fc02", "professional-draft", "revised-draft"]
 book_id: m-fc02-agenzie-fiscali
 outline_section: 7
-draft_stage: revised-editorial-draft
+draft_stage: specialist-audit-complete
 module_code: M-FC02
 module_family: funzioni-centrali
 last_compiled_from: ["wiki/sources/riscossione-agenzia-entrate-riscossione-m-fc02.md", "wiki/sources/riscossione-ader-aggiornamento-istituzionale-2026-07-17.md", "wiki/sources/assetti-organizzativi-ae-adm-ader-verifica-2026-07-17.md", "wiki/sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026.md", "wiki/topics/riscossione-tributaria-ader.md", "wiki/entities/agenzia-entrate-riscossione.md"]
@@ -321,12 +321,6 @@ D. concede automaticamente 120 rate.
 
 ## Riferimenti consolidati
 
-- [[sources/riscossione-agenzia-entrate-riscossione-m-fc02]]
-- [[sources/riscossione-ader-aggiornamento-istituzionale-2026-07-17]]
-- [[sources/assetti-organizzativi-ae-adm-ader-verifica-2026-07-17]]
-- [[sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026]]
-- [[topics/riscossione-tributaria-ader]]
-- [[entities/agenzia-entrate-riscossione]]
 - [[books/il-metodo-bando/chapters/diritto-amministrativo-per-candidati]]
 - [[books/il-metodo-bando/chapters/pubblico-impiego-e-organizzazione-pa]]
 - [[books/il-metodo-bando/chapters/trasparenza-anticorruzione-privacy]]
@@ -338,4 +332,3 @@ D. concede automaticamente 120 rate.
 - Aggiornare il box rateizzazione in base all'anno del bando e ai provvedimenti attuativi.
 - Verificare soglie, termini ed esclusioni delle singole procedure cautelari ed esecutive.
 - Allineare la sezione sul lavoro al regolamento di selezione, al CCNL e allo specifico avviso AdER usato nell'edizione.
-- [[sources/agenzie-fiscali-organizzazione-ae-adm-ader]]

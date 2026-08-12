@@ -11,12 +11,12 @@ book_refs: ["m-fc02-agenzie-fiscali", "il-metodo-bando"]
 confidence: 0.91
 updated_at: 2026-08-04
 created_at: 2026-07-18T00:00:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "module-code-m-fc02", "professional-draft", "tax-procedure", "tax-justice"]
 book_id: m-fc02-agenzie-fiscali
 outline_section: 5b
-draft_stage: revised-editorial-draft
+draft_stage: specialist-audit-complete
 module_code: M-FC02
 module_family: funzioni-centrali
 companion_to: il-metodo-bando
@@ -95,7 +95,7 @@ La disciplina consolidata distingue quattro istituti che, in una risposta d'esam
 | Accertamento con adesione | Procedimento tipizzato tra ufficio e contribuente nella fase ammessa. | Definire la pretesa mediante contraddittorio e adesione. | Perfezionamento, pagamento ed effetti previsti dal D.Lgs. 218/1997 vigente. |
 | Acquiescenza | Condotta del contribuente dopo l'atto, senza impugnazione, alle condizioni di legge. | Accettare la pretesa secondo il regime applicabile. | Stabilizzazione e trattamento legale; non è un accordo istruttorio con l'ufficio. |
 
-La conciliazione appartiene invece al giudizio pendente ed è sviluppata nella sezione 10. La mappa completa è tracciata nella source [[sources/autotutela-adesione-deflativi-aggiornamento-2026-07-29#Mappa didattica]].
+La conciliazione appartiene invece al giudizio pendente ed è sviluppata nella sezione 10. La mappa completa è tracciata nella source.
 
 ### La sequenza del processo in una pagina
 
@@ -162,7 +162,7 @@ Scheda di diagnosi dell'atto:
 
 ### Famiglie di atti impugnabili
 
-La tabella traduce il blocco del TU 175 dedicato ad atti impugnabili e introduzione del giudizio, tracciato nella source consolidata [[sources/processo-tributario-dlgs-175-2024-aggiornamento-2026-07-18#Mappa articolo-specifica del TU 175]]. Non sostituisce l'elenco vigente: inclusioni, esclusioni e formulazione del singolo atto devono essere ricontrollate sul testo coordinato applicabile.
+La tabella traduce il blocco del TU 175 dedicato ad atti impugnabili e introduzione del giudizio, tracciato nella source consolidata. Non sostituisce l'elenco vigente: inclusioni, esclusioni e formulazione del singolo atto devono essere ricontrollate sul testo coordinato applicabile.
 
 | Famiglia funzionale | Esempi da riconoscere | Domanda diagnostica |
 | --- | --- | --- |
@@ -283,7 +283,7 @@ La sospensione del processo arresta temporaneamente il suo corso per una causa p
 
 ## 10. Conciliazione giudiziale
 
-La conciliazione è uno strumento di definizione della controversia dentro il quadro processuale. Le parti compongono la lite nei casi e modi previsti; la corte esercita la funzione attribuita dal TU. Non è autotutela, perché non consiste nel riesame unilaterale dell'ufficio; non è sentenza sul merito, perché deriva dalla composizione disciplinata. La distinzione rispetto ad autotutela, adesione e acquiescenza è consolidata in [[sources/autotutela-adesione-deflativi-aggiornamento-2026-07-29]].
+La conciliazione è uno strumento di definizione della controversia dentro il quadro processuale. Le parti compongono la lite nei casi e modi previsti; la corte esercita la funzione attribuita dal TU. Non è autotutela, perché non consiste nel riesame unilaterale dell'ufficio; non è sentenza sul merito, perché deriva dalla composizione disciplinata. La distinzione rispetto ad autotutela, adesione e acquiescenza è consolidata in.
 
 Prima di parlare di conciliazione occorre verificare se la controversia sia conciliabile, chi possa partecipare, che cosa contenga l'accordo, in quale momento intervenga e come si perfezioni. Vanno poi distinti gli effetti sul giudizio, sul tributo e sulle sanzioni. La disponibilita informale delle parti, da sola, non basta.
 | Profilo | Presupposto-tipo | Conseguenza |
@@ -486,11 +486,6 @@ Griglia di autovalutazione:
 
 ## Riferimenti consolidati
 
-- [[sources/processo-tributario-dlgs-175-2024-aggiornamento-2026-07-18]]
-- [[sources/autotutela-adesione-deflativi-aggiornamento-2026-07-29]]
-- [[sources/accertamento-contraddittorio-compliance-aggiornamento-2026-07-17]]
-- [[sources/riscossione-ader-aggiornamento-istituzionale-2026-07-17]]
-- [[sources/sanzioni-amministrative-tributarie-aggiornamento-2026-07-18]]
 - [[books/moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale#Autotutela, definizione e tutela giurisdizionale]]
 - [[books/moduli/m-fc02-agenzie-fiscali/chapters/05a-sanzioni-amministrative-reati-tributari#9. Contestazione, irrogazione e tutela]]
 - [[books/moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader#6. Sospensione, sgravio e ricorso non sono sinonimi]]

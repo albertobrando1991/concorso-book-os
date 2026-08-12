@@ -17,12 +17,12 @@ book_refs: ["m-fc02-agenzie-fiscali","il-metodo-bando"]
 confidence: 0.91
 updated_at: 2026-08-04
 created_at: 2026-07-01T21:00:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter","module-code-m-fc02","professional-draft","revised-draft"]
 book_id: m-fc02-agenzie-fiscali
 outline_section: 6
-draft_stage: revised-editorial-draft
+draft_stage: specialist-audit-complete
 module_code: M-FC02
 module_family: funzioni-centrali
 companion_to: il-metodo-bando
@@ -599,12 +599,6 @@ Trasforma la tabella in una risposta orale usando i verbi qualificare, documenta
 
 ## Riferimenti consolidati
 
-- [[sources/normativa-tributaria-tuir-iva-accertamento-m-fc02]]
-- [[sources/irpef-ires-categorie-reddito-impresa-aggiornamento-2026-07-18]]
-- [[sources/adempimenti-contabilita-civile-commerciale-m-fc02]]
-- [[sources/iva-dpr-633-1972-aggiornamento-2026-07-20]]
-- [[sources/dichiarazioni-versamenti-compensazioni-aggiornamento-2026-07-20]]
-- [[topics/diritto-tributario-concorsi-agenzie-fiscali]]
 - [[books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta]]
 - [[books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco]]
 - [[books/moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale]]

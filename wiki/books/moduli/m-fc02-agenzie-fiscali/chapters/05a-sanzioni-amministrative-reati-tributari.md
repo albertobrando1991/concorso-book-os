@@ -11,12 +11,12 @@ book_refs: ["m-fc02-agenzie-fiscali", "il-metodo-bando"]
 confidence: 0.91
 updated_at: 2026-08-04
 created_at: 2026-07-18T00:00:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "module-code-m-fc02", "professional-draft", "tax-sanctions", "tax-crimes"]
 book_id: m-fc02-agenzie-fiscali
 outline_section: 5a
-draft_stage: revised-editorial-draft
+draft_stage: specialist-audit-complete
 module_code: M-FC02
 module_family: funzioni-centrali
 companion_to: il-metodo-bando
@@ -395,10 +395,6 @@ Trasforma il quarto fatto in una risposta orale di dieci righe senza usare le es
 
 ## Riferimenti consolidati
 
-- [[sources/sanzioni-amministrative-tributarie-aggiornamento-2026-07-18]]
-- [[sources/reati-tributari-dlgs-74-2000-aggiornamento-2026-07-18]]
-- [[sources/processo-tributario-dlgs-175-2024-aggiornamento-2026-07-18]]
-- [[sources/delitti-contro-pa-codice-penale-2026]]
 - [[books/il-metodo-bando/chapters/pubblico-impiego-e-organizzazione-pa#Reati contro la pubblica amministrazione: il quadro essenziale]]
 - [[books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta]]
 - [[books/moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale]]

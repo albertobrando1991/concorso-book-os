@@ -17,12 +17,12 @@ book_refs: ["m-fc02-agenzie-fiscali","il-metodo-bando"]
 confidence: 0.95
 updated_at: 2026-08-04
 created_at: 2026-07-01T21:00:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter","module-code-m-fc02","professional-draft"]
 book_id: m-fc02-agenzie-fiscali
 outline_section: 3
-draft_stage: revised-editorial-draft
+draft_stage: specialist-audit-complete
 module_code: M-FC02
 module_family: funzioni-centrali
 companion_to: il-metodo-bando
@@ -368,18 +368,6 @@ Se manca uno di questi punti, non passare subito alle materie tecniche. Prima ch
 
 Questo capitolo è costruito sulle note e sulle pagine consolidate del wiki del progetto:
 
-- [[sources/agenzie-fiscali-organizzazione-ae-adm-ader]]
-- [[sources/d-lgs-30-luglio-1999-n-300-organizzazione-governo]]
-- [[sources/m-fc02-dossier-redazionale-agenzie-fiscali]]
-- [[sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026]]
-- [[sources/riscossione-agenzia-entrate-riscossione-m-fc02]]
-- [[sources/dogane-accise-giochi-monopoli-adm-m-fc02]]
-- [[sources/assetti-organizzativi-ae-adm-ader-verifica-2026-07-17]]
-- [[topics/profili-agenzie-fiscali]]
-- [[topics/bando-decoder-fiscale]]
-- [[entities/agenzia-delle-entrate]]
-- [[entities/agenzia-delle-dogane-e-dei-monopoli]]
-- [[entities/agenzia-entrate-riscossione]]
 - [[books/moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali]]
 - [[books/moduli/m-fc02-agenzie-fiscali/chapters/02-bando-decoder-fiscale]]
 

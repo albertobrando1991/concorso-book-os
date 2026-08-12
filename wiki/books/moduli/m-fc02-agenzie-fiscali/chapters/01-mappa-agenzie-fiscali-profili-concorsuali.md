@@ -17,12 +17,12 @@ asset_refs:
 confidence: 0.94
 updated_at: 2026-08-04
 created_at: 2026-07-01T21:00:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter","module-code-m-fc02","professional-draft","revised-draft","illustrated"]
 book_id: m-fc02-agenzie-fiscali
 outline_section: 1
-draft_stage: revised-editorial-draft
+draft_stage: specialist-audit-complete
 module_code: M-FC02
 module_family: funzioni-centrali
 companion_to: il-metodo-bando
@@ -415,17 +415,6 @@ Se manca uno di questi punti, il capitolo non è ancora stato usato. È stato so
 
 Questo capitolo è costruito sulle note e sulle pagine consolidate del wiki del progetto:
 
-- [[sources/m-fc02-dossier-redazionale-agenzie-fiscali]]
-- [[sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026]]
-- [[sources/agenzie-fiscali-organizzazione-ae-adm-ader]]
-- [[sources/d-lgs-30-luglio-1999-n-300-organizzazione-governo]]
-- [[sources/riscossione-agenzia-entrate-riscossione-m-fc02]]
-- [[sources/m-fc02-corpus-ufficiale-integrativo-2026-07-17]]
-- [[topics/profili-agenzie-fiscali]]
-- [[topics/bando-decoder-fiscale]]
-- [[entities/agenzia-delle-entrate]]
-- [[entities/agenzia-delle-dogane-e-dei-monopoli]]
-- [[entities/agenzia-entrate-riscossione]]
 - [[books/il-metodo-bando/chapters/famiglie-concorsi-pubblici]]
 
 Le pagine ufficiali e i bandi rappresentativi sono stati usati per delimitare il perimetro, non per sostituire la lettura del singolo bando vigente. Prima della pubblicazione definitiva del modulo, restano da verificare statuti, regolamenti, organigrammi aggiornati e programmi dei bandi vivi.

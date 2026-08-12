@@ -17,12 +17,12 @@ book_refs: ["m-fc02-agenzie-fiscali", "il-metodo-bando"]
 confidence: 0.95
 updated_at: 2026-08-04
 created_at: 2026-07-01T21:00:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "module-code-m-fc02", "professional-draft", "revised-draft", "workbook"]
 book_id: m-fc02-agenzie-fiscali
 outline_section: 13
-draft_stage: revised-editorial-draft
+draft_stage: specialist-audit-complete
 module_code: M-FC02
 module_family: funzioni-centrali
 companion_to: il-metodo-bando
@@ -36,7 +36,7 @@ Nei concorsi delle Agenzie fiscali il candidato non viene valutato solo per la q
 
 Questa è la differenza tra "sapere tributario" e "prestazione concorsuale tributaria". La prima riguarda lo studio; la seconda riguarda l'uso dello studio davanti a un quesito, a una traccia o a una commissione. Un candidato può' conoscere l'IVA, l'accertamento, la riscossione o le procedure doganali, ma perdere punti se confonde il soggetto competente, salta una fase procedimentale, usa parole generiche o risponde come se tutte le Agenzie facessero lo stesso lavoro.
 
-Il modulo M-FC02 richiede una disciplina particolare: ogni risposta deve tenere insieme ente, funzione, materia e profilo. L'Agenzia delle Entrate non chiede lo stesso tipo di ragionamento dell'Agenzia delle Dogane e dei Monopoli; Agenzia delle Entrate-Riscossione non coincide con l'ente impositore; un caso di front-office non si risolve come un tema teorico; una domanda orale non si affronta come una sequenza di definizioni imparate a memoria [[sources/m-fc02-dossier-redazionale-agenzie-fiscali]].
+Il modulo M-FC02 richiede una disciplina particolare: ogni risposta deve tenere insieme ente, funzione, materia e profilo. L'Agenzia delle Entrate non chiede lo stesso tipo di ragionamento dell'Agenzia delle Dogane e dei Monopoli; Agenzia delle Entrate-Riscossione non coincide con l'ente impositore; un caso di front-office non si risolve come un tema teorico; una domanda orale non si affronta come una sequenza di definizioni imparate a memoria.
 
 Il lavoro finale consiste quindi in quattro trasformazioni:
 
@@ -77,7 +77,7 @@ Una pagina è stata usata bene quando produce una domanda, una risposta, una sch
 | D - Domande | In quale forma può' comparire il contenuto? | Quiz secco, quesito situazionale, caso breve, domanda orale, confronto tra istituti, errore da riconoscere. |
 | O - Output | Che prodotto devo allenare? | Simulazione, scheda caso, risposta da 90 secondi, diario errori, piano 30/60/90. |
 
-La mappa va compilata per il concorso specifico. I bandi rappresentativi del perimetro M-FC02 mostrano profili e materie differenti tra Agenzia delle Entrate, Agenzia delle Dogane e dei Monopoli e Agenzia delle Entrate-Riscossione [[sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026]]. Per questo non esiste una simulazione unica valida per tutti: esiste una struttura comune da adattare.
+La mappa va compilata per il concorso specifico. I bandi rappresentativi del perimetro M-FC02 mostrano profili e materie differenti tra Agenzia delle Entrate, Agenzia delle Dogane e dei Monopoli e Agenzia delle Entrate-Riscossione. Per questo non esiste una simulazione unica valida per tutti: esiste una struttura comune da adattare.
 
 ![Figura 13.1 - Mappa BANDO della prestazione finale: dal bando agli output, tra quiz, caso, orale, diario errori e piano.](../assets/chapter-13/01-mappa-bando-performance-finale.png)
 
@@ -102,7 +102,7 @@ La prestazione cambia anche il linguaggio. Nel quiz serve precisione; nel caso s
 ## Quiz tributari e doganali
 Il quiz comprime una domanda in poche righe. Può' verificare una distinzione che, se studiata male, porta a errori anche nello scritto e nell'orale.
 
-Nei concorsi pubblici la forma concreta della prova dipende dal bando e dagli avvisi della procedura. La prova può' includere quesiti a risposta multipla, prova scritta, prova teorico-pratica, orale, accertamenti linguistici o informatici e ulteriori elementi indicati dal bando [[sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994]]. Il candidato deve quindi partire da quattro dati:
+Nei concorsi pubblici la forma concreta della prova dipende dal bando e dagli avvisi della procedura. La prova può' includere quesiti a risposta multipla, prova scritta, prova teorico-pratica, orale, accertamenti linguistici o informatici e ulteriori elementi indicati dal bando. Il candidato deve quindi partire da quattro dati:
 
 - numero dei quesiti;
 - materie incluse;
@@ -124,7 +124,7 @@ Nel perimetro M-FC02 i quiz più' insidiosi non sono sempre quelli nozionistici.
 Il candidato deve allenarsi a riconoscere il "piano" della domanda prima di scegliere l'opzione.
 
 ## Con banca dati e senza banca dati
-La presenza di una banca dati ufficiale cambia la strategia, ma non elimina il ragionamento. Una banca dati ufficiale è materiale di procedura: va verificata nella fonte, nella data, nella versione e negli eventuali avvisi di aggiornamento [[topics/banca-dati-ufficiale-quiz]].
+La presenza di una banca dati ufficiale cambia la strategia, ma non elimina il ragionamento. Una banca dati ufficiale è materiale di procedura: va verificata nella fonte, nella data, nella versione e negli eventuali avvisi di aggiornamento.
 
 Se la banca dati è pubblicata, il percorso consigliato è:
 
@@ -256,7 +256,7 @@ La griglia è particolarmente utile nei casi ibridi. Una società può' comparir
 ## Caso AE: dichiarazione, controllo e compliance
 **Scenario.** Un contribuente riceve una comunicazione relativa a dati dichiarativi non coerenti con informazioni già' disponibili all'amministrazione. Chiede all'ufficio se deve pagare subito e se la comunicazione equivale a un accertamento definitivo.
 
-**Lettura corretta.** Il caso va affrontato distinguendo assistenza, controllo, compliance, eventuale liquidazione e accertamento. Non bisogna trasformare ogni contatto dell'amministrazione con il contribuente in un atto definitivo. L'Agenzia delle Entrate opera su dichiarazioni, versamenti, controlli, accertamento e servizi al contribuente; il candidato deve riconoscere la fase e non usare un linguaggio generico [[sources/m-fc02-dossier-redazionale-agenzie-fiscali]].
+**Lettura corretta.** Il caso va affrontato distinguendo assistenza, controllo, compliance, eventuale liquidazione e accertamento. Non bisogna trasformare ogni contatto dell'amministrazione con il contribuente in un atto definitivo. L'Agenzia delle Entrate opera su dichiarazioni, versamenti, controlli, accertamento e servizi al contribuente; il candidato deve riconoscere la fase e non usare un linguaggio generico.
 
 **Risposta modello.** In una risposta concorsuale occorre prima qualificare la comunicazione, poi spiegare che il contribuente deve verificare i dati indicati, confrontarli con la propria dichiarazione e con la documentazione disponibile, e valutare gli strumenti indicati nella comunicazione e negli avvisi ufficiali. Se emergono errori o elementi da chiarire, la risposta corretta non è "pagare sempre", ma verificare il contenuto dell'atto, i termini, le modalità di interlocuzione e le eventuali conseguenze. La conclusione deve restare prudente: il candidato non promette esiti, ma descrive il percorso amministrativo.
 
@@ -265,7 +265,7 @@ La griglia è particolarmente utile nei casi ibridi. Una società può' comparir
 ## Caso ADM: merce, dichiarazione e controllo
 **Scenario.** Un operatore importa merci e segnala dubbi sulla classificazione del prodotto, sull'origine e sulla documentazione da presentare. La traccia chiede quali profili deve considerare l'ufficio in un controllo.
 
-**Lettura corretta.** Il caso riguarda il rapporto tra merce, dichiarazione doganale, elementi dell'obbligazione doganale e funzione di controllo. Va quindi trattato nel suo perimetro doganale, senza ridurlo a un problema IVA o commerciale. L'Agenzia delle Dogane e dei Monopoli presidia un'area in cui fiscalità, controlli, traffici, accise, giochi e monopoli possono intrecciarsi, secondo il profilo previsto dal bando [[sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026]].
+**Lettura corretta.** Il caso riguarda il rapporto tra merce, dichiarazione doganale, elementi dell'obbligazione doganale e funzione di controllo. Va quindi trattato nel suo perimetro doganale, senza ridurlo a un problema IVA o commerciale. L'Agenzia delle Dogane e dei Monopoli presidia un'area in cui fiscalità, controlli, traffici, accise, giochi e monopoli possono intrecciarsi, secondo il profilo previsto dal bando.
 
 **Risposta modello.** Il candidato deve partire dall'identificazione della merce e dalla documentazione disponibile. Deve poi richiamare i profili essenziali: classificazione, origine, valore, regime o destinazione doganale, eventuali autorizzazioni o controlli specifici. La risposta deve mostrare che l'ufficio non valuta solo un dato isolato, ma la coerenza del flusso dichiarato con la disciplina applicabile. Se il bando include materie doganali, questo tipo di caso va allenato con schede brevi, non solo con definizioni.
 
@@ -274,7 +274,7 @@ La griglia è particolarmente utile nei casi ibridi. Una società può' comparir
 ## Caso AdER: cartella, pagamento e orientamento dell'utente
 **Scenario.** Un cittadino si presenta allo sportello per una cartella. Dice di non capire se il debito sia dovuto, chiede una rateazione e domanda all'operatore di "annullare tutto".
 
-**Lettura corretta.** Il caso richiede la distinzione tra ente creditore, titolo, agente della riscossione, pagamento, rateazione, sospensione e tutela. Agenzia delle Entrate-Riscossione non coincide con l'ente impositore e non va descritta come se decidesse sempre il merito del tributo. Nel modulo M-FC02 questa distinzione è centrale [[topics/profili-agenzie-fiscali]].
+**Lettura corretta.** Il caso richiede la distinzione tra ente creditore, titolo, agente della riscossione, pagamento, rateazione, sospensione e tutela. Agenzia delle Entrate-Riscossione non coincide con l'ente impositore e non va descritta come se decidesse sempre il merito del tributo. Nel modulo M-FC02 questa distinzione è centrale.
 
 **Risposta modello.** Una risposta corretta deve orientare l'utente senza sostituirsi alla decisione dell'amministrazione competente. L'operatore deve verificare la posizione, spiegare quali informazioni risultano dall'atto, indicare i canali e gli strumenti previsti per pagamento, rateazione o istanze, e chiarire quando occorre rivolgersi all'ente creditore o seguire le forme di tutela previste. La comunicazione deve essere chiara, ma non deve promettere annullamenti o soluzioni non verificate.
 
@@ -771,17 +771,6 @@ Prima di considerare concluso il modulo M-FC02, il candidato dovrebbe poter spun
 Se mancano più' di tre voci, la priorità è consolidare il metodo prima di studiare nuove pagine.
 
 ## Riferimenti consolidati
-- [[sources/m-fc02-dossier-redazionale-agenzie-fiscali]]
-- [[sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026]]
-- [[sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994]]
-- [[sources/d-p-r-9-maggio-1994-n-487-accesso-agli-impieghi-pubblici-e-concorsi]]
-- [[sources/d-p-r-16-giugno-2023-n-82-modifiche-al-d-p-r-487-1994-sui-concorsi]]
-- [[topics/profili-agenzie-fiscali]]
-- [[topics/bando-decoder-fiscale]]
-- [[topics/banca-dati-ufficiale-quiz]]
-- [[topics/casi-pratici]]
-- [[topics/collegamenti-materie-concorsuali]]
-- [[topics/diario-errori]]
 - [[books/il-metodo-bando/ricettario-digitale]]
 
 ## Note di review

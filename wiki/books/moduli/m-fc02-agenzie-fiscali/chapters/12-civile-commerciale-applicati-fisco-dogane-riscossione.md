@@ -2,7 +2,7 @@
 id: chapter-m-fc02-civile-commerciale-applicati-fisco-dogane-riscossione
 type: book_chapter
 title: "Civile e commerciale applicati a fisco, dogane e riscossione"
-status: professional_draft
+status: revised_draft
 domain: "concorsi pubblici italiani"
 topics: ["diritto civile", "diritto commerciale", "obbligazioni", "contratti", "impresa", "societa", "crisi impresa", "agenzie fiscali"]
 entities: ["Agenzia delle Entrate", "Agenzia delle Dogane e dei Monopoli", "Agenzia delle Entrate-Riscossione"]
@@ -17,12 +17,12 @@ book_refs: ["m-fc02-agenzie-fiscali", "il-metodo-bando"]
 confidence: 0.82
 updated_at: 2026-08-04
 created_at: 2026-07-01T21:00:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "module-code-m-fc02", "professional-draft"]
 book_id: m-fc02-agenzie-fiscali
 outline_section: 12
-draft_stage: professional-draft
+draft_stage: specialist-audit-complete
 module_code: M-FC02
 module_family: funzioni-centrali
 companion_to: il-metodo-bando
@@ -304,10 +304,6 @@ Classifica le situazioni:
 
 ## Riferimenti consolidati
 
-- [[sources/adempimenti-contabilita-civile-commerciale-m-fc02]]
-- [[sources/codice-civile-beni-pubblici-demanio-patrimonio]]
-- [[sources/diritto-civile-obbligazioni-contratti-m-fc02-2026-07-17]]
-- [[sources/diritto-commerciale-impresa-societa-m-fc02-2026-07-17]]
 - [[books/moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader]]
 - [[books/moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm]]
 - [[books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare]]

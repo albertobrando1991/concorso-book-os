@@ -24,7 +24,7 @@ tags: ["book-chapter","module-code-m-fc02","professional-draft","revised-draft",
 book_id: m-fc02-agenzie-fiscali
 companion_to: il-metodo-bando
 outline_section: 4
-draft_stage: revised-editorial-draft
+draft_stage: specialist-audit-complete
 module_code: M-FC02
 module_family: funzioni-centrali
 last_compiled_from: ["wiki/sources/normativa-tributaria-tuir-iva-accertamento-m-fc02.md","wiki/sources/irpef-ires-categorie-reddito-impresa-aggiornamento-2026-07-18.md","wiki/sources/iva-dpr-633-1972-aggiornamento-2026-07-20.md","wiki/sources/dichiarazioni-versamenti-compensazioni-aggiornamento-2026-07-20.md","wiki/entities/agenzia-delle-entrate.md","wiki/topics/diritto-tributario-concorsi-agenzie-fiscali.md","wiki/sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026.md","wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md","wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/02-bando-decoder-fiscale.md","wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/03-ordinamento-organizzazione-ae-adm-ader.md","wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md","wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco.md","wiki/sources/costituzione-repubblica-italiana-testo-vigente.md","wiki/sources/diritto-ue-fiscale-doganale-iva-cdu-2026-07-18.md","wiki/sources/vol-03-fonti-specialistiche-fisco-dogane-previdenza-ispettivo.md","wiki/sources/m-fc02-corpus-ufficiale-integrativo-2026-07-17.md","wiki/books/moduli/m-fc02-agenzie-fiscali/planning/02-matrice-copertura-didattica.md","wiki/books/volumi/vol-03-fisco-dogane-previdenza-ispettivo/planning/00-piano-editoriale.md","wiki/books/volumi/vol-03-fisco-dogane-previdenza-ispettivo/planning/02-matrice-copertura-didattica.md"]
@@ -498,7 +498,7 @@ Una società importa una merce da un Paese terzo e poi la vende in Italia. Il ca
 - trattare CDU, regolamento delegato e regolamento di esecuzione come fonti intercambiabili;
 - confondere importazione doganale e vendita interna IVA oppure assumere che valore in dogana e base imponibile IVA coincidano sempre.
 
-Il quadro e il metodo derivano da [[sources/diritto-ue-fiscale-doganale-iva-cdu-2026-07-18]]. Aliquote, soglie, termini, deroghe e regimi speciali richiedono invece una verifica puntuale sulla disciplina vigente.
+Il quadro e il metodo derivano da. Aliquote, soglie, termini, deroghe e regimi speciali richiedono invece una verifica puntuale sulla disciplina vigente.
 
 ## N-FC02-04-06 · Accertamento e riscossione
 
@@ -715,17 +715,6 @@ Se manca uno di questi punti, il rischio è portare nei capitoli successivi una 
 
 Questo capitolo è costruito sulle note e sulle pagine consolidate del wiki del progetto:
 
-- [[sources/normativa-tributaria-tuir-iva-accertamento-m-fc02]]
-- [[sources/irpef-ires-categorie-reddito-impresa-aggiornamento-2026-07-18]]
-- [[sources/iva-dpr-633-1972-aggiornamento-2026-07-20]]
-- [[sources/dichiarazioni-versamenti-compensazioni-aggiornamento-2026-07-20]]
-- [[topics/diritto-tributario-concorsi-agenzie-fiscali]]
-- [[entities/agenzia-delle-entrate]]
-- [[sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026]]
-- [[sources/costituzione-repubblica-italiana-testo-vigente]]
-- [[sources/diritto-ue-fiscale-doganale-iva-cdu-2026-07-18]]
-- [[sources/vol-03-fonti-specialistiche-fisco-dogane-previdenza-ispettivo]]
-- [[sources/m-fc02-corpus-ufficiale-integrativo-2026-07-17]]
 - [[books/moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali]]
 - [[books/moduli/m-fc02-agenzie-fiscali/chapters/02-bando-decoder-fiscale]]
 - [[books/moduli/m-fc02-agenzie-fiscali/chapters/03-ordinamento-organizzazione-ae-adm-ader]]

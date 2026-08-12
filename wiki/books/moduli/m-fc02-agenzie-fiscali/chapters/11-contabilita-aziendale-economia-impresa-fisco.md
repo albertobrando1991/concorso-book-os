@@ -17,13 +17,13 @@ book_refs: ["m-fc02-agenzie-fiscali", "il-metodo-bando"]
 confidence: 0.94
 updated_at: 2026-08-04
 created_at: 2026-07-01T21:00:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "module-code-m-fc02", "professional-draft", "revised-draft"]
 book_id: m-fc02-agenzie-fiscali
 companion_to: il-metodo-bando
 outline_section: 11
-draft_stage: revised-editorial-draft
+draft_stage: specialist-audit-complete
 module_code: M-FC02
 module_family: funzioni-centrali
 last_compiled_from: ["wiki/sources/adempimenti-contabilita-civile-commerciale-m-fc02.md", "wiki/sources/contabilita-aziendale-bilancio-reddito-impresa-aggiornamento-2026-07-18.md", "wiki/sources/bilancio-civilistico-principi-contabili-oic-m-fc02.md", "wiki/sources/normativa-tributaria-tuir-iva-accertamento-m-fc02.md", "wiki/sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026.md"]
@@ -383,11 +383,6 @@ D. modifica il bilancio approvato.
 
 ## Riferimenti consolidati
 
-- [[sources/adempimenti-contabilita-civile-commerciale-m-fc02]]
-- [[sources/contabilita-aziendale-bilancio-reddito-impresa-aggiornamento-2026-07-18]]
-- [[sources/bilancio-civilistico-principi-contabili-oic-m-fc02]]
-- [[sources/normativa-tributaria-tuir-iva-accertamento-m-fc02]]
-- [[sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026]]
 
 ## Note di review
 

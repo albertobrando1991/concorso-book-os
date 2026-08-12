@@ -3,7 +3,7 @@
   "specPath": "books/volumi/vol-03-fisco-dogane-previdenza-ispettivo/planning/00-scheda-pipeline.md",
   "specHash": "sha256:7a5be32028a6026f42eac9b7a221a5879330c694249c48b679a9f6ab5999df16",
   "createdAt": "2026-07-27T20:05:30.039Z",
-  "updatedAt": "2026-08-12T09:19:18.853Z",
+  "updatedAt": "2026-08-12T09:26:38.514Z",
   "steps": [
     {
       "key": "08:moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md",
@@ -6720,9 +6720,19 @@
       "phase": "F",
       "scope": "volume",
       "target": "VOL-03",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-12T09:21:07.283Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-12T09:26:38.514Z"
     },
     {
       "key": "22:VOL-03",
