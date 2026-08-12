@@ -24,7 +24,7 @@ tags:
 issue_type: page_fill
 severity: none
 affected_pages:
-  - books/volumi/vol-07-sanita-amministrativa-professioni-sanitarie/index.md
+  - books/volumi/vol-08-ict-digitale-cybersecurity-dati/index.md
 ---
 
 # Audit pagina per pagina - VOL-08
