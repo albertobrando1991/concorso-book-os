@@ -5331,3 +5331,12 @@
 - atoms:
   - mem-20260812075338-1qui714 | workflow | Procedere con lo step 08 del capitolo 12 VOL-10.
   - mem-20260812075338-19kaz9y | result | Esito codex-vol10-cap12-step08-plan: Procedere con lo step 08 del capitolo 12 VOL-10. -> Completato step 08 capitolo 12: piano aggiornato allo stato reale con sei nuclei N-TR03-12-01/06, budget 4600-5000 parole, almeno 650 per nucleo, sei quiz, caso, fonti consolidate, confini e audit automatici; gate cha...
+
+## 2026-08-12T08:08:02.891Z - VOL-10/M-TR03
+
+- conversation_id: conv-20260812080802-1r9bf9k
+- route: codex-vol10-cap12-step09-format2
+- l0: l0/conv-20260812080802-1r9bf9k.md
+- atoms:
+  - mem-20260812080802-l2xr3 | workflow | Procedere con lo step 09 del capitolo 12 VOL-10.
+  - mem-20260812080802-1mw2gs3 | result | Esito codex-vol10-cap12-step09-format2: Procedere con lo step 09 del capitolo 12 VOL-10. -> Completato step 09 capitolo 12 con writer obbligatorio gpt-5.5 xhigh: capitolo Format 2 autosufficiente di 4993 parole nel corpo, sei nuclei da 652-675 parole, sei quiz commentati, caso ragionato e blocco verifica; ch...
