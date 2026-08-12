@@ -5278,3 +5278,12 @@
 - l0: l0/conv-20260812070837-1dj9ifz.md
 - atoms:
   - mem-20260812070837-xe3qmo | result | Esito pipeline-volume/step-12: Eseguire esclusivamente step 12 VOL-10 capitolo 10 M-TR03 con Revisore Editoriale Totale. -> Completato step 12 capitolo 10: report editoriale totale creato nel percorso pipeline richiesto; checklist 30 punti, test dello studente, copertura v4, rinvii e calcoli verificati; nessun errore oggettivo rilevato; nessuna patch a capitolo o matrice; complete non eseguito.
+
+## 2026-08-12T07:13:52.722Z - VOL-10/M-TR03
+
+- conversation_id: conv-20260812071352-ad88vd
+- route: codex-vol10-cap11-step08-format2
+- l0: l0/conv-20260812071352-ad88vd.md
+- atoms:
+  - mem-20260812071352-1fy77ay | workflow | Procedere con lo step 08 del capitolo 11 VOL-10.
+  - mem-20260812071352-16t65c4 | result | Esito codex-vol10-cap11-step08-format2: Procedere con lo step 08 del capitolo 11 VOL-10. -> Completato step 08 capitolo 11: piano obsoleto riallineato allo stato reale con sei Nucleo ID Format 2, budget 4600-5000 parole, sei quiz, caso guidato, controlli vicini, fonti consolidate, confini e audit specialisti...

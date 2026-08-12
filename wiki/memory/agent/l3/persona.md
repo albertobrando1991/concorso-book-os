@@ -5,6 +5,7 @@ Usala come profilo di lavoro: le source notes e il wiki restano la base canonica
 
 ## Preferenze e istruzioni recenti
 
+- Procedere con lo step 08 del capitolo 11 VOL-10. (mem-20260812071352-1fy77ay)
 - Procedere con lo step 11 del capitolo 10 VOL-10. (mem-20260812065920-1yf4zup)
 - Procedere con lo step 10 del capitolo 10 VOL-10. (mem-20260812065234-19m9uwq)
 - Procedere con lo step 09 del capitolo 10 VOL-10. (mem-20260812064914-9wsb35)
@@ -84,4 +85,3 @@ Usala come profilo di lavoro: le source notes e il wiki restano la base canonica
 - La dashboard VOL-07 deve mostrare subito i nuovi capitoli quando arriva un payload aggiornato con lo stesso bookId. (mem-20260729180144-1gjsrza)
 - Procedere in ordine con la pipeline VOL-07 e completare gli step residui della fase C del capitolo 01 M-SA02 senza abilitare automaticamente le fasi D-F. (mem-20260729165620-1pd3krk)
 - Per il primo ciclo della fase C va scritto il capitolo 01 di M-SA02 senza aprire ancora le fasi D-F. (mem-20260729164657-1exsnql)
-- La pipeline VOL-07 deve procedere in ordine e usare il CLI per stato e gate. (mem-20260729164657-h9iick)
