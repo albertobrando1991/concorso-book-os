@@ -5,6 +5,7 @@ Usala come profilo di lavoro: le source notes e il wiki restano la base canonica
 
 ## Preferenze e istruzioni recenti
 
+- Procedere con il prossimo step della pipeline aggiornata di VOL-10. (mem-20260812101551-1hfgarh)
 - Procedere con lo step 13 della pipeline VOL-10. (mem-20260812085804-12865q1)
 - Procedere con lo step 12 del capitolo 13 di VOL-10. (mem-20260812084922-164q84z)
 - Procedere con il prossimo step della pipeline aggiornata VOL-10. (mem-20260812081509-13h03ix)
@@ -84,4 +85,3 @@ Usala come profilo di lavoro: le source notes e il wiki restano la base canonica
 - Abilitare dichiarativamente M-SA01 alla fase C con cinque capitoli, preservando gli hunks M-SA02/globali non staged. (mem-20260730090504-zbx4qb)
 - Ricorda: ogni capitolo ConcorsoBook deve essere autosufficiente per lo studente che prepara un concorso pubblico. (mem-20260730081235-115vq5h)
 - Procedere in ordine con il solo capitolo 03 M-SA02, completando il ciclo pipeline 08-12 senza attivare le fasi D-F. (mem-20260729220013-206rbs)
-- Completare la revisione editoriale totale del capitolo 03 M-SA02 applicando solo correzioni oggettive, mantenendo aperte le review umane dello step 15 e chiudendo il gate 12 solo se verde. (mem-20260729214623-1ua0vfo)

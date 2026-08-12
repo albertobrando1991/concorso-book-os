@@ -759,7 +759,7 @@ function estimateChapterPages(chapter: BookStudioChapter, startPage: number) {
     if (block.type === "heading" && (block.level || 0) === 2) {
       const text = cleanIndexText(block.text || "")
 
-      if (isIndexHeading(text, chapter.title)) {
+      if (block.nucleusId || isIndexHeading(text, chapter.title)) {
         headings.push({
           text,
           ...(block.number ? { number: block.number } : {}),
@@ -1572,7 +1572,7 @@ function isSubstantial(value: string) {
   const normalized = value.replace(/\s+/g, " ").trim().toLowerCase()
 
   if (!normalized) return false
-  if (EDITORIAL_PLACEHOLDERS.some((placeholder) => normalized.includes(placeholder))) return false
+  if (EDITORIAL_PLACEHOLDERS.some((placeholder) => normalized.startsWith(placeholder))) return false
 
   return countWords(value) >= 18
 }

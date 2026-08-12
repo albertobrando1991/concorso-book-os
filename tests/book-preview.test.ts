@@ -662,6 +662,45 @@ describe("book preview assets", () => {
     }
   })
 
+  it("keeps a complete chapter when prose contains the words da sviluppare", async () => {
+    const root = await mkdtemp(path.join(os.tmpdir(), "book-preview-placeholder-prose-"))
+
+    try {
+      await mkdir(path.join(root, "books/moduli/m-tr03-tecnico-ingegneristico/chapters"), { recursive: true })
+      await writeFile(
+        path.join(root, "books/moduli/m-tr03-tecnico-ingegneristico/index.md"),
+        "---\ntitle: M-TR03 - Tecnico ingegneristico\n---\n# M-TR03",
+        "utf8"
+      )
+      await writeFile(
+        path.join(root, "books/moduli/m-tr03-tecnico-ingegneristico/chapters/07-progettazione.md"),
+        [
+          "---",
+          "title: Progettazione di opere pubbliche",
+          "outline_section: 7",
+          "---",
+          "# Progettazione di opere pubbliche",
+          "",
+          "## N-TR03-07-01 · Quadro esigenziale e DIP",
+          "",
+          "Il documento indica requisiti, vincoli, livelli da sviluppare ed elaborati attesi. Questo testo completo spiega il processo pubblico con contenuti sufficienti per il lettore."
+        ].join("\n"),
+        "utf8"
+      )
+
+      const data = await buildBookStudioData(
+        new FileWikiStore(root),
+        "moduli/m-tr03-tecnico-ingegneristico"
+      )
+      const chapter = data.chapters.find((item) => item.outlineSection === "7")
+
+      expect(chapter?.contentState).toBe("draft")
+      expect(chapter?.blocks.some((block) => block.nucleusId === "N-TR03-07-01")).toBe(true)
+    } finally {
+      await rm(root, { recursive: true, force: true })
+    }
+  })
+
   it("preserves nucleus identity and verification semantics", async () => {
     const root = await mkdtemp(path.join(os.tmpdir(), "book-preview-nucleus-meta-"))
 
@@ -748,7 +787,11 @@ describe("book preview assets", () => {
           "",
           "## N-FC02-05-04 · Nucleo pilota",
           "",
-          "Questo nucleo contiene materiale editoriale completo e sufficiente per entrare nella preview e verificare il mapping globale del volume composito."
+          "Questo nucleo contiene materiale editoriale completo e sufficiente per entrare nella preview e verificare il mapping globale del volume composito.",
+          "",
+          "## N-FC02-05-05 · Caso guidato integrato",
+          "",
+          "Questo secondo nucleo usa un titolo normalmente escluso per le sezioni accessorie, ma resta un nucleo canonico che deve comparire nell'indice analitico."
         ].join("\n"),
         "utf8"
       )
@@ -761,6 +804,7 @@ describe("book preview assets", () => {
       const standaloneNucleus = standalone.chapters[0].blocks.find((block) => block.nucleusId === "N-FC02-05-04")
       const index = volume.chapters.find((chapter) => chapter.frontMatterLayout === "analytical-index")
       const row = index?.blocks.find((block) => block.nucleusId === "N-FC02-05-04")
+      const guidedCaseRow = index?.blocks.find((block) => block.nucleusId === "N-FC02-05-05")
 
       expect(volumePilot?.outlineSection).toBe("9")
       expect(volumePilot?.moduleOutlineSection).toBe("5")
@@ -770,6 +814,12 @@ describe("book preview assets", () => {
         type: "index-row",
         number: "9.4",
         nucleusId: "N-FC02-05-04",
+        path: volumePilot?.path
+      })
+      expect(guidedCaseRow).toMatchObject({
+        type: "index-row",
+        number: "9.5",
+        nucleusId: "N-FC02-05-05",
         path: volumePilot?.path
       })
     } finally {
