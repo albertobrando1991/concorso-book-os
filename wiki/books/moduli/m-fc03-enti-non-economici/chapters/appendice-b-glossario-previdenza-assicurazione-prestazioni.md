@@ -16,22 +16,24 @@ canonical: true
 tags: ["book-chapter","appendix","module-code-m-fc03","professional-draft","glossary"]
 book_id: m-fc03-enti-non-economici
 outline_section: "B"
-draft_stage: professional-draft
+draft_stage: step-09-format-2
 module_code: M-FC03
 module_family: funzioni-centrali
+companion_to: il-metodo-bando
+format_version: 2
+dati_operativi: []
+nuclei_ids: ["N-FC03-15-01", "N-FC03-15-02", "N-FC03-15-03", "N-FC03-15-04", "N-FC03-15-05", "N-FC03-15-06"]
 last_compiled_from: ["wiki/books/moduli/m-fc03-enti-non-economici/planning/00-piano-editoriale.md","wiki/books/moduli/m-fc03-enti-non-economici/planning/01-matrice-copertura-materie.md","wiki/books/moduli/m-fc03-enti-non-economici/chapters/03-inps-previdenza-servizi-prestazioni.md","wiki/books/moduli/m-fc03-enti-non-economici/chapters/04-inail-assicurazione-prevenzione-prestazioni.md","wiki/sources/m-fc03-dossier-redazionale-enti-pubblici-non-economici.md","wiki/sources/m-fc03-fonti-ufficiali-enti-epne-2026.md","wiki/sources/m-fc03-bando-ripam-inail-308-funzionari-assistenti-sociali-2024.md","wiki/topics/enti-pubblici-non-economici-concorsi.md","wiki/entities/inps-inail-epne.md","wiki/memory/agent/l1/atoms.jsonl"]
 ---
 # Glossario previdenza, assicurazione e prestazioni
 
-## Testo editoriale
-
-### Apertura editoriale
+## Apertura editoriale
 
 Questa appendice serve a dare al candidato il lessico minimo per leggere un bando INPS, INAIL o di altro ente pubblico non economico senza confondere parole vicine. Nei concorsi M-FC03, infatti, molti errori non nascono dalla mancanza totale di studio, ma dall'uso impreciso di termini come previdenza, assistenza, contributi, prestazioni, assicurazione sociale, infortunio, malattia professionale, prevenzione, posizione assicurativa, istruttoria e dati personali.
 
 Il glossario non è un dizionario completo e non sostituisce le fonti ufficiali. È uno strumento operativo: ti aiuta a riconoscere le parole del bando, a usarle nello scritto e nell'orale, a evitare confusioni nei casi pratici e a registrare nel diario gli errori di lessico. Il criterio è quello del Metodo BANDO: ogni termine deve aiutarti a leggere il bando, collegare le aree, isolare i nuclei, correggere gli errori e produrre un output di prova.
 
-### Obiettivo dell'appendice
+## Obiettivo dell'appendice
 
 Alla fine dell'appendice devi saper fare quattro cose:
 
@@ -42,7 +44,7 @@ Alla fine dell'appendice devi saper fare quattro cose:
 
 Il risultato atteso non è memorizzare trenta definizioni isolate. È usare il lessico corretto quando il bando o la traccia lo richiedono.
 
-### Mappa BANDO
+## Mappa BANDO
 
 | Fase | Domanda operativa | Output |
 | --- | --- | --- |
@@ -52,7 +54,9 @@ Il risultato atteso non è memorizzare trenta definizioni isolate. È usare il l
 | D - Diario | Quale termine confondo spesso? | Voce del diario errori. |
 | O - Output | Come uso il termine in una risposta? | Frase pronta, mini-caso o domanda orale. |
 
-### Come usare il glossario
+## N-FC03-15-01 · Usare il glossario nella preparazione concorsuale
+
+### Dalla parola del bando all'output
 
 Usalo in tre momenti.
 
@@ -60,7 +64,25 @@ Prima dello studio, leggi le voci collegate al bando e sottolinea quelle che com
 
 Una definizione utile per concorso deve avere tre caratteristiche: deve essere breve, deve indicare la funzione del termine e deve suggerire l'errore da evitare. Se una definizione non ti aiuta a rispondere, va riscritta.
 
-### Glossario essenziale INPS: previdenza, contributi e servizi
+Un glossario concorsuale non si studia in ordine alfabetico. Si costruisce a partire dal programma e dalle prove. La stessa parola può avere un peso diverso se compare tra le materie, nelle mansioni del profilo o in una traccia pratica. «Prestazione», per esempio, non richiede soltanto una definizione: obbliga a capire quale ente è coinvolto, quale bisogno o rischio viene tutelato, quali presupposti devono essere verificati e quale procedimento conduce all'esito. Il termine diventa così una chiave per organizzare la risposta.
+
+Per ogni voce usa una scheda in cinque campi: significato essenziale, funzione, contesto, termine vicino e conseguenza operativa. Il significato essenziale risponde a «che cos'è?». La funzione spiega perché l'istituto esiste. Il contesto indica se la parola appartiene soprattutto all'area INPS, INAIL o al procedimento comune. Il termine vicino evidenzia la distinzione che può diventare oggetto di quiz. La conseguenza operativa mostra che cosa cambia in una domanda, in un caso o nella comunicazione con l'utente.
+
+La definizione va poi provata in tre formati. Nel quiz devi riconoscere il confine che rende falsa un'alternativa. All'orale devi esporre il termine con ordine: definizione, funzione, distinzione ed esempio. Nel caso devi usarlo per scegliere un'azione amministrativa coerente. Se sai ripetere «istruttoria» ma prometti subito la prestazione, la voce non è stata appresa. Se sai distinguere «domanda» e «diritto» e chiedi gli elementi mancanti prima di concludere, il lessico sta guidando il ragionamento.
+
+Anche il diario deve registrare la causa dell'errore. Scrivere soltanto «non ricordavo la definizione» è troppo generico. Indica se hai confuso due enti, saltato un passaggio, attribuito un effetto automatico oppure usato una parola quotidiana al posto di quella tecnica. A ogni causa corrisponde un recupero diverso: confronto a due colonne, sequenza procedimentale, micro-caso o risposta orale registrata.
+
+Il glossario personale deve restare selettivo. Attiva le voci presenti nel bando o necessarie per comprendere il profilo; le altre rimangono disponibili per il ripasso. Prima della prova, riduci ogni voce a una domanda e a un errore tipico. Il risultato non è un elenco più corto, ma una rete di concetti che permette di passare dal termine alla decisione senza inventare requisiti, scadenze o procedure.
+
+Per controllare la qualità di una voce, prova il test della sostituzione. Sostituisci il termine tecnico con una parola generica come «pratica», «servizio» o «controllo». Se la risposta non perde precisione, la definizione non sta ancora svolgendo il proprio lavoro. Se invece sparisce una distinzione essenziale, per esempio tra domanda e diritto oppure tra prevenzione e prestazione, il termine è stato usato con una funzione reale.
+
+Un secondo controllo riguarda la fonte. Le definizioni stabili possono entrare nella memoria di lungo periodo; dati come requisiti, importi, termini, canali o denominazioni di servizi vanno invece verificati quando si applicano a una procedura concreta. Nel glossario personale segnali questi elementi con una nota «da controllare», senza trasformare un'informazione mobile in una regola generale.
+
+Infine, collega ogni voce a un'altra. «Domanda» richiama «istruttoria»; «rischio» richiama «prevenzione»; «accesso» richiama «titolo» e «limiti»; «prestazione» richiama «presupposti» ed «esito». I collegamenti rendono il richiamo più resistente e preparano le domande trasversali dell'orale. Se una voce resta isolata, aggiungi una coppia, una sequenza o un micro-caso prima di considerarla acquisita.
+
+## N-FC03-15-02 · Lessico INPS: previdenza, contribuzione, domanda e prestazione
+
+### Rapporto previdenziale, posizione e servizi
 
 | Termine | Significato essenziale | Uso in prova ed errore da evitare |
 | --- | --- | --- |
@@ -77,7 +99,17 @@ Una definizione utile per concorso deve avere tre caratteristiche: deve essere b
 | Canale digitale | Strumento telematico previsto per domanda, consultazione, comunicazione o servizio. | Non aggirarlo con canali informali se il bando o la procedura richiedono strumenti ufficiali. |
 | Comunicazione all'utente | Informazione istituzionale sullo stato, sull'integrazione o sull'esito di una pratica. | Deve essere chiara, tracciabile e nei limiti del ruolo; non deve anticipare esiti non istruiti. |
 
-### Glossario essenziale INAIL: assicurazione, prevenzione e tutela
+Le voci INPS si comprendono meglio come una sequenza, non come dodici definizioni separate. Un bisogno o una condizione rilevante entra nel sistema previsto dall'ordinamento; la posizione contributiva o assicurativa raccoglie dati utili; l'interessato presenta una domanda quando la tutela lo richiede; l'ufficio svolge l'istruttoria, verifica i requisiti e comunica l'esito. Servizi, fascicolo e canali digitali sostengono questo percorso, ma non sostituiscono la verifica giuridica.
+
+La distinzione tra previdenza e assistenza evita una delle confusioni più frequenti. La previdenza richiama in particolare il rapporto con la vita lavorativa, la contribuzione e le tutele previste; l'assistenza risponde a bisogni e condizioni individuati dall'ordinamento e non può essere ricondotta automaticamente alla stessa logica contributiva. In una risposta non serve trasformare questa distinzione in un trattato: occorre dichiarare il criterio e applicarlo al caso proposto.
+
+«Posizione», «requisito» e «prestazione» appartengono a livelli diversi. La posizione contiene dati e periodi rilevanti; il requisito è una condizione richiesta dalla disciplina; la prestazione è la tutela o il servizio che può essere riconosciuto dopo la verifica. La presenza di dati nella posizione non dimostra da sola il possesso di ogni requisito. Allo stesso modo, una domanda completa sul piano formale non garantisce l'accoglimento se manca un presupposto sostanziale.
+
+In prova, una buona risposta evita sia la promessa sia il rifiuto affrettato. Se emerge una discordanza, individua il dato contestato, la fonte da verificare, l'ufficio competente e l'eventuale integrazione. Se l'utente chiede informazioni, verifica identità e titolo prima di consultare o comunicare elementi del fascicolo. Questa sequenza mostra padronanza del lessico e del ruolo amministrativo senza inventare la disciplina della singola prestazione.
+
+## N-FC03-15-03 · Lessico INAIL: assicurazione sociale, rischio, evento e prevenzione
+
+### Assicurazione obbligatoria, tutela e prestazioni
 
 | Termine | Significato essenziale | Uso in prova ed errore da evitare |
 | --- | --- | --- |
@@ -94,7 +126,19 @@ Una definizione utile per concorso deve avere tre caratteristiche: deve essere b
 | Lavoratore | Soggetto centrale della tutela assicurativa e prevenzionistica. | Nei casi pratici considera anche dati personali, dati sanitari e canale corretto. |
 | Impresa o datore di lavoro | Soggetto coinvolto negli obblighi, nelle comunicazioni e nell'organizzazione della sicurezza. | Non trattarlo come semplice utente: può avere obblighi e responsabilità specifiche. |
 
-### Termini comuni a INPS e INAIL
+Il lessico INAIL ruota attorno a un rapporto assicurativo pubblico e sociale. Il punto di partenza è il rischio collegato all'attività lavorativa; prevenzione e sicurezza mirano a evitare o ridurre il danno; infortunio e malattia professionale indicano eventi o condizioni differenti, da qualificare secondo la disciplina applicabile; istruttoria e accertamento consentono di verificare i presupposti della tutela. La prestazione si colloca alla fine di questo ragionamento, non all'inizio.
+
+Assicurazione obbligatoria non significa polizza privata imposta al singolo. Il termine appartiene a un sistema pubblico che protegge interessi sociali e disciplina soggetti, rischi, obblighi e tutele. Per questo il candidato deve evitare il vocabolario commerciale dell'assicurazione privata quando descrive INAIL. Anche «premio» va collocato nel rapporto assicurativo previsto dall'ordinamento, senza improvvisare calcoli, classificazioni o aliquote non richiesti dal programma.
+
+Infortunio e malattia professionale non sono due nomi dello stesso fenomeno. Il primo richiama un evento dannoso connesso al lavoro secondo i criteri normativi; la seconda una patologia collegata all'attività lavorativa secondo regole di qualificazione e accertamento. Nel caso pratico il candidato non deve formulare diagnosi né dichiarare riconosciuta la tutela. Deve individuare i dati rilevanti, rispettare la competenza, distinguere documentazione sanitaria e amministrativa e descrivere il percorso di verifica.
+
+La prevenzione modifica anche il modo di parlare dell'ente. Ridurre INAIL alle prestazioni successive all'evento cancella una parte della funzione istituzionale. Una risposta completa collega assicurazione, rischio, prevenzione, tutela e rapporto con lavoratori e imprese. Se il bando include salute e sicurezza, la profondità dipende dal programma: principi, soggetti e obblighi possono essere necessari, mentre procedure tecniche e compiti specialistici non vanno dedotti dal solo nome dell'ente.
+
+Le informazioni relative alla salute richiedono un'attenzione specifica. Il loro impiego deve essere pertinente alla pratica e la comunicazione presuppone identità, titolo e canale adeguato. «Riservatezza» non significa bloccare ogni informazione, ma trattarla entro finalità, competenza e limiti. In una prova situazionale, questa distinzione separa la risposta professionale sia dalla divulgazione impropria sia dal rifiuto generico di assistere l'interessato.
+
+## N-FC03-15-04 · Termini comuni: procedimento, servizio, accesso e dati
+
+### Dalla richiesta all'esito
 
 | Termine | Significato essenziale | Uso in prova ed errore da evitare |
 | --- | --- | --- |
@@ -111,7 +155,19 @@ Una definizione utile per concorso deve avere tre caratteristiche: deve essere b
 | Integrazione documentale | Richiesta di completare dati o documenti necessari alla pratica. | Non equivale ad accoglimento: consente di proseguire la verifica. |
 | Fonte ufficiale | Bando, allegato, portale istituzionale, amministrazione trasparente o atto dell'ente. | Se il dato è puntuale o aggiornabile, non usare memoria o riassunti non verificati. |
 
-### Coppie da non confondere
+Questi termini formano la grammatica comune dei casi amministrativi. La richiesta arriva attraverso un canale; lo sportello la riceve e orienta; il back office svolge le verifiche attribuitegli; il procedimento organizza atti e attività; l'integrazione documentale consente di completare gli elementi necessari; l'esito viene comunicato in modo comprensibile e tracciabile. Il singolo ente può adottare assetti e procedure proprie, ma la risposta concorsuale deve rendere visibile questa logica senza attribuire allo sportello ogni potere decisionale.
+
+Accesso, trasparenza e protezione dei dati non sono formule intercambiabili. L'accesso agli atti presuppone una richiesta e i relativi requisiti; la trasparenza disciplina forme di conoscibilità e pubblicazione; la protezione dei dati governa il trattamento delle informazioni personali. Una pratica può coinvolgere contemporaneamente più istituti, ma ciascuno conserva funzione, presupposti e limiti. Dire «per privacy non si può comunicare nulla» è debole quanto dire «per trasparenza si può mostrare tutto».
+
+La tracciabilità tutela sia l'utente sia l'amministrazione. Permette di ricostruire chi ha ricevuto la richiesta, quali documenti sono stati acquisiti, quali verifiche sono state svolte e come è stato comunicato l'esito. Non richiede di registrare indiscriminatamente ogni informazione: occorre conservare ciò che è pertinente secondo le regole applicabili. Nei casi di sportello, proporre un canale ufficiale e lasciare traccia evita che una promessa informale venga scambiata per decisione.
+
+Anche i ruoli vanno distinti. «Utente» descrive chi entra in relazione con il servizio, ma non cancella le sue eventuali qualità di lavoratore, impresa, delegato o interessato. «Sportello» e «back office» descrivono funzioni organizzative, non necessariamente persone o uffici identici in ogni ente. Una risposta accurata usa il ruolo necessario per il problema: ricevere, orientare, istruire, decidere o comunicare.
+
+Nel quiz, cerca l'opzione che rispetta competenza, sequenza e limiti. All'orale, collega il termine a una funzione e a una distinzione. Nel caso, traduci il lessico in azioni: verificare identità e titolo, acquisire gli elementi pertinenti, indirizzare all'ufficio competente, motivare la richiesta di integrazione e comunicare senza anticipare l'esito. Il vocabolario comune diventa così metodo amministrativo.
+
+## N-FC03-15-05 · Coppie da non confondere e trasferimento nelle prove
+
+### Criteri di confronto
 
 | Coppia | Distinzione utile | Errore tipico |
 | --- | --- | --- |
@@ -124,7 +180,7 @@ Una definizione utile per concorso deve avere tre caratteristiche: deve essere b
 | Infortunio / Malattia professionale | L'infortunio richiama un evento; la malattia professionale richiama una patologia collegata al lavoro secondo criteri previsti. | Usarli come sinonimi. |
 | Prevenzione / Prestazione | La prevenzione mira a evitare o ridurre il rischio; la prestazione interviene quando ricorrono presupposti di tutela. | Parlare di INAIL solo dopo l'evento, ignorando la prevenzione. |
 
-### Frasi pronte per scritto e orale
+### Frasi operative per scritto e orale
 
 Usa queste frasi come modelli, non come formule da ripetere sempre.
 
@@ -135,6 +191,20 @@ Usa queste frasi come modelli, non come formule da ripetere sempre.
 | Caso pratico su domanda incompleta | "L'ufficio non deve anticipare l'esito, ma verificare la pratica, indicare l'integrazione necessaria tramite canale ufficiale e trattare solo i dati pertinenti." |
 | Caso su dati sanitari | "La richiesta va gestita verificando identità, titolo e canale, perché i dati relativi alla salute richiedono particolare cautela e non possono essere comunicati informalmente." |
 | Situazionale su utente insistente | "L'orientamento al servizio impone chiarezza e ascolto, ma non autorizza promesse, favoritismi o canali non tracciati." |
+
+Le coppie funzionano perché obbligano a dichiarare un criterio. Per distinguere due termini non basta assegnare una frase a ciascuno: bisogna chiarire quale elemento cambia. Tra domanda e diritto cambia l'effetto giuridico; tra prestazione e procedimento cambia il rapporto tra risultato e percorso; tra sportello e back office cambia la funzione organizzativa; tra prevenzione e prestazione cambia il momento e lo scopo della tutela. Il criterio è la parte della risposta che la commissione può valutare.
+
+Nei quiz, molte alternative errate sono costruite cancellando questa differenza. Una domanda viene presentata come accoglimento automatico, lo sportello come decisore universale o la trasparenza come accesso illimitato. Per scartare l'opzione non serve ricordare una formula lunga: basta recuperare la distinzione e verificare se l'effetto proposto è compatibile. Nel diario annota quindi la coppia confusa e la parola che avrebbe consentito di separarla.
+
+All'orale puoi usare uno schema breve: definisci il primo termine, definisci il secondo, indica il criterio di distinzione e chiudi con una conseguenza pratica. Nel caso, invece, parti dai fatti. Se l'utente ha presentato una domanda, non parlare subito di prestazione; se chiede un documento, non invocare genericamente la privacy; se comunica un evento lavorativo, non confondere la segnalazione con il riconoscimento della tutela.
+
+Le frasi operative della tabella sono punti di partenza. Adattale al verbo della traccia e alle informazioni disponibili. Una risposta efficace non accumula tutte le parole del glossario: seleziona quelle che spiegano il problema. Il controllo finale è semplice: ogni termine impiegato deve aggiungere una distinzione, un passaggio o una cautela. Se può essere eliminato senza cambiare il ragionamento, probabilmente è ornamentale.
+
+### Micro-caso di classificazione
+
+Un utente presenta allo sportello una domanda priva di un documento e afferma di avere già diritto alla prestazione. La risposta corretta non contrappone cortesia e rigore. Distingue domanda e diritto, qualifica il documento mancante come possibile integrazione, individua l'istruttoria necessaria e comunica i passaggi senza anticipare l'esito. Se la pratica contiene dati di terzi o relativi alla salute, aggiunge il controllo su identità, titolo e canale. Il lessico consente così di costruire la soluzione, non soltanto di descriverla.
+
+## N-FC03-15-06 · Laboratorio del lessico INPS-INAIL
 
 ### Da sapere in 5 righe
 
@@ -188,23 +258,58 @@ Scegli dieci termini del glossario e trasformali in risposte da trenta secondi. 
 
 Poi scegli due coppie da non confondere e costruisci una domanda-trappola. Se non riesci a formulare l'errore tipico, significa che la distinzione non è ancora abbastanza chiara.
 
-### Riferimenti consolidati
+### Riferimenti professionali essenziali
 
-- [[sources/m-fc03-dossier-redazionale-enti-pubblici-non-economici]]
-- [[sources/m-fc03-fonti-ufficiali-enti-epne-2026]]
-- [[sources/m-fc03-bando-ripam-inail-308-funzionari-assistenti-sociali-2024]]
-- [[topics/enti-pubblici-non-economici-concorsi]]
-- [[topics/profili-previdenza-lavoro-vigilanza]]
-- [[entities/inps-inail-epne]]
-- [[books/moduli/m-fc03-enti-non-economici/chapters/03-inps-previdenza-servizi-prestazioni]]
-- [[books/moduli/m-fc03-enti-non-economici/chapters/04-inail-assicurazione-prevenzione-prestazioni]]
-- [[books/moduli/m-fc03-enti-non-economici/planning/00-piano-editoriale]]
-- [[books/moduli/m-fc03-enti-non-economici/planning/01-matrice-copertura-materie]]
+- Portali istituzionali INPS e INAIL, comprese le sezioni dedicate a servizi, prestazioni e amministrazione trasparente.
+- Avviso ufficiale, programma e allegati della procedura concorsuale considerata.
+- Capitolo 3 del modulo M-FC03, «INPS: previdenza, servizi e prestazioni».
+- Capitolo 4 del modulo M-FC03, «INAIL: assicurazione sociale, prevenzione e prestazioni».
+- Capitolo 5 del modulo M-FC03, «Procedimenti EPNE e rapporto con cittadini e imprese».
 
-### Note di review
+Le definizioni di questa appendice sono operative. Requisiti, importi, termini, percentuali, tabelle e procedimenti puntuali vanno controllati sulle fonti ufficiali vigenti. I profili previdenziali, ispettivi, sanitari o tecnici avanzati richiedono inoltre il percorso specialistico previsto dal bando.
 
-- Il glossario è costruito per profili amministrativi, giuridici, economici, contabili, di servizio e vigilanza non tecnica del modulo M-FC03; profili previdenziali, ispettivi, sanitari o tecnici avanzati richiedono fonti e appendici specifiche.
-- Le definizioni sono intenzionalmente operative e non sostituiscono normativa, circolari, regolamenti, carte dei servizi o pagine ufficiali di INPS e INAIL.
-- Prima della pubblicazione finale verificare su fonti ufficiali eventuali voci che dovessero essere ampliate con requisiti, importi, termini, percentuali, tabelle, procedimenti puntuali o denominazioni aggiornate.
-- Il bando RIPAM/INAIL 308 unità 2024 è usato come fonte consolidata per orientare le materie, non come modello universale di ogni bando INAIL futuro.
-- Non sono state usate raw sources come fonte editoriale finale; il testo deriva da source notes, topic pages, entity pages, capitoli 3-4, piano editoriale e matrice M-FC03 consolidati.
+## ▣ Verifica — Glossario previdenza, assicurazione e prestazioni
+
+**1. A che cosa serve una definizione operativa nel glossario?**
+
+A. A sostituire la normativa. B. A collegare significato, funzione, contesto ed errore da evitare. C. A memorizzare una frase identica per ogni prova. D. A evitare il bando.
+
+**Risposta corretta: B.** La definizione è utile quando orienta una decisione: classificare il termine, usarlo nella prova e riconoscere la confusione più probabile.
+
+**2. La domanda di prestazione coincide con il riconoscimento del diritto?**
+
+A. Sì, sempre. B. Solo se presentata online. C. No, attiva una verifica dei presupposti e della documentazione. D. Dipende dalla cortesia dell'ufficio.
+
+**Risposta corretta: C.** Domanda, istruttoria ed esito sono passaggi distinti; la presentazione dell'istanza non consente di anticipare il risultato.
+
+**3. Quale affermazione distingue meglio INPS e INAIL?**
+
+A. Entrambi usano sempre lo stesso lessico. B. INPS richiama il rapporto previdenziale; INAIL l'assicurazione sociale contro rischi ed eventi lavorativi. C. INAIL riguarda soltanto pagamenti. D. INPS non svolge servizi.
+
+**Risposta corretta: B.** I due ambiti comunicano, ma il termine deve essere collegato all'ente, alla funzione e alla disciplina applicabile.
+
+**4. Che cosa indica l'istruttoria?**
+
+A. Una promessa all'utente. B. La fase di acquisizione e valutazione degli elementi necessari. C. La pubblicazione automatica dei dati. D. Il solo contatto di sportello.
+
+**Risposta corretta: B.** L'istruttoria consente all'ufficio competente di verificare dati, documenti e presupposti prima dell'esito.
+
+**5. Perché prevenzione e prestazione non sono sinonimi?**
+
+A. Perché la prevenzione mira a ridurre il rischio, mentre la prestazione presuppone una tutela prevista e un procedimento. B. Perché la prevenzione riguarda solo INPS. C. Perché la prestazione precede sempre il rischio. D. Non esiste differenza.
+
+**Risposta corretta: A.** Confondere i due termini riduce INAIL alla fase successiva all'evento e cancella la funzione prevenzionistica.
+
+**6. Come va gestito un termine puntuale e soggetto ad aggiornamento?**
+
+A. Ricordandolo da un vecchio quiz. B. Generalizzandolo a ogni bando. C. Verificandolo sulla fonte ufficiale vigente e nel contesto della procedura. D. Eliminandolo sempre dalla risposta.
+
+**Risposta corretta: C.** Importi, requisiti, termini e procedure non si ricavano dal glossario: occorre controllare la fonte competente e la versione applicabile.
+
+### Caso ragionato finale
+
+Una persona presenta una richiesta incompleta relativa a una prestazione e chiede allo sportello di confermare subito che il beneficio sarà riconosciuto. Nella pratica compaiono dati personali e, nel caso INAIL, informazioni relative alla salute.
+
+La risposta deve prima qualificare il contesto: previdenziale INPS oppure assicurativo INAIL. La domanda non coincide con il diritto e lo sportello non può sostituire l'istruttoria. Occorre verificare identità, titolo, documentazione necessaria, competenza dell'ufficio e canale previsto; le informazioni vanno trattate secondo pertinenza e riservatezza. L'utente riceve indicazioni chiare sull'integrazione e sui passaggi successivi, senza promesse sull'esito.
+
+La soluzione è completa quando usa correttamente «domanda», «requisiti», «integrazione documentale», «istruttoria», «dati» ed «esito». È insufficiente se parla genericamente di «servizio» o «prestazione» senza distinguere il procedimento e il contesto dell'ente.
