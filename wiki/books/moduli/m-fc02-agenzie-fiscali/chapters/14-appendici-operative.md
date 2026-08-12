@@ -6,7 +6,7 @@ status: revised_draft
 domain: "concorsi pubblici italiani"
 topics: ["appendici operative","glossario","front-office","adempimenti fiscali","ripasso"]
 entities: ["Agenzia delle Entrate","Agenzia delle Dogane e dei Monopoli","Agenzia delle Entrate-Riscossione","Metodo BANDO"]
-source_refs: ["sources/m-fc02-dossier-redazionale-agenzie-fiscali.md","sources/normativa-tributaria-tuir-iva-accertamento-m-fc02.md","sources/accertamento-contraddittorio-compliance-aggiornamento-2026-07-17.md","sources/riscossione-ader-aggiornamento-istituzionale-2026-07-17.md","sources/codice-doganale-unione-procedure-adm-aggiornamento-2026-07-17.md","sources/accise-giochi-monopoli-adm-aggiornamento-2026-07-17.md","sources/catasto-cartografia-estimo-pubblicita-immobiliare-aggiornamento-2026-07-18.md","sources/contabilita-aziendale-bilancio-reddito-impresa-aggiornamento-2026-07-18.md","sources/sanzioni-amministrative-tributarie-aggiornamento-2026-07-18.md","sources/reati-tributari-dlgs-74-2000-aggiornamento-2026-07-18.md","sources/processo-tributario-dlgs-175-2024-aggiornamento-2026-07-18.md","sources/diritto-ue-fiscale-doganale-iva-cdu-2026-07-18.md","sources/regolamento-ue-2016-679-gdpr-protezione-dati-personali.md"]
+source_refs: ["sources/m-fc02-dossier-redazionale-agenzie-fiscali.md","sources/normativa-tributaria-tuir-iva-accertamento-m-fc02.md","sources/accertamento-contraddittorio-compliance-aggiornamento-2026-07-17.md","sources/riscossione-ader-aggiornamento-istituzionale-2026-07-17.md","sources/codice-doganale-unione-procedure-adm-aggiornamento-2026-07-17.md","sources/accise-giochi-monopoli-adm-aggiornamento-2026-07-17.md","sources/m-fc02-verticale-tecnico-adm-aggiornamento-2026-08-12.md","sources/catasto-cartografia-estimo-pubblicita-immobiliare-aggiornamento-2026-07-18.md","sources/contabilita-aziendale-bilancio-reddito-impresa-aggiornamento-2026-07-18.md","sources/sanzioni-amministrative-tributarie-aggiornamento-2026-07-18.md","sources/reati-tributari-dlgs-74-2000-aggiornamento-2026-07-18.md","sources/processo-tributario-dlgs-175-2024-aggiornamento-2026-07-18.md","sources/diritto-ue-fiscale-doganale-iva-cdu-2026-07-18.md","sources/regolamento-ue-2016-679-gdpr-protezione-dati-personali.md"]
 asset_refs:
   - "books/moduli/m-fc02-agenzie-fiscali/assets/chapter-14/01-mappa-bando-appendici-operative.png"
   - "books/moduli/m-fc02-agenzie-fiscali/assets/chapter-14/02-reati-sanzioni-condotte-rischio.png"
@@ -14,8 +14,8 @@ asset_refs:
   - "books/moduli/m-fc02-agenzie-fiscali/assets/chapter-14/04-front-office-privacy-protocollo.png"
   - "books/moduli/m-fc02-agenzie-fiscali/assets/chapter-14/05-allerta-bando-glossario-output.png"
 book_refs: ["m-fc02-agenzie-fiscali","il-metodo-bando"]
-confidence: 0.88
-updated_at: 2026-08-04
+confidence: 0.90
+updated_at: 2026-08-12
 created_at: 2026-07-01T21:00:00+02:00
 review_required: false
 canonical: true
@@ -332,6 +332,60 @@ Per ogni voce spiega che cos'è, a che cosa serve e da quale istituto va distint
 
 **Rinvio:** [[books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare#14. Il lavoro nei servizi Territorio e SPI]].
 
+## Verticale tecnico ADM — merceologia, chimica e accise energetiche
+
+Questo verticale si attiva quando il bando richiede conoscenze tecniche, chimiche o industriali connesse alle funzioni ADM. Negli altri profili serve come quadro di orientamento: non sostituisce il programma specialistico indicato dal bando.
+
+### Dalla merce reale alla classificazione
+
+La **merceologia** studia la merce per ciò che è concretamente: materiali e composizione, funzione, stato di lavorazione, modalità di presentazione e, quando la disciplina lo rende rilevante, impiego o destinazione. Questi elementi permettono di passare dalla descrizione commerciale alla classificazione giuridica. Il nome riportato in fattura è un indizio, non una conclusione.
+
+| Dimensione | Domanda tecnica | Conseguenza nel ragionamento |
+| --- | --- | --- |
+| composizione | di quali sostanze o materiali è formato il prodotto? | restringe le possibili voci e segnala se occorre un accertamento analitico |
+| funzione | che cosa fa il prodotto secondo caratteristiche oggettive? | distingue merci simili per aspetto ma diverse per impiego |
+| lavorazione | è materia prima, semilavorato o prodotto finito? | può cambiare la posizione nella nomenclatura |
+| presentazione | come è confezionato, dosato o assemblato? | può incidere sulla qualificazione del bene |
+| uso rilevante | quale destinazione è documentata e ammessa? | può incidere sul trattamento d'accisa, senza sostituire l'identificazione del prodotto |
+
+La classificazione tariffaria resta distinta da origine e valore. È distinta anche dalla qualificazione ai fini dell'accisa: lo stesso dato tecnico può essere rilevante in entrambi i piani, ma non produce automaticamente la stessa conseguenza.
+
+### Chimica e laboratori: dal fatto tecnico alla decisione
+
+L'analisi chimica serve ad accertare proprietà che documenti e osservazione non chiariscono con sufficiente affidabilità. I laboratori chimici ADM supportano, tra l'altro, classificazione doganale, trattamento fiscale dei prodotti soggetti ad accisa e contrasto alle frodi. Il rapporto analitico descrive un risultato tecnico; la decisione giuridico-fiscale integra quel risultato con nomenclatura, regole applicabili, documenti e fatti del caso.
+
+`descrizione dichiarata -> documentazione tecnica -> caratteristiche osservabili -> eventuale analisi competente -> risultanza tecnica -> classificazione motivata -> conseguenza fiscale`
+
+Questa è una mappa di ragionamento, non un protocollo di campionamento o di laboratorio. In prova non si inventano metodi, quantità, soglie o valori. Si indica quale fatto manca, perché è rilevante e quale accertamento competente può colmarlo.
+
+**Distinzione decisiva:** osservazione, documento e risultato analitico sono fonti di prova; la classificazione è la conclusione motivata che se ne ricava applicando la regola pertinente.
+
+### Mappa minima delle accise energetiche
+
+Per un prodotto energetico non basta domandare «quanto si paga». Prima occorre ricostruire sei elementi:
+
+1. identità e caratteristiche del prodotto;
+2. classificazione fiscale applicabile;
+3. uso o destinazione documentati;
+4. posizione del prodotto, per esempio in regime sospensivo o con accisa assolta;
+5. soggetto e luogo autorizzati coinvolti nella fabbricazione, detenzione o circolazione;
+6. quantità, documenti ed evento che rende l'accisa esigibile.
+
+La natura del prodotto e il suo uso non coincidono. Un bene tecnicamente identico può richiedere verifiche diverse in ragione della destinazione prevista dalla disciplina; viceversa, dichiarare un uso non modifica da solo la realtà merceologica. Aliquote, esenzioni, codici e condizioni sono dati mobili: si controllano sul Testo unico delle accise e sulle fonti ADM vigenti alla data richiesta.
+
+### Caso guidato
+
+Una partita è dichiarata genericamente come «solvente industriale». La scheda tecnica è incompleta e alcuni dati non concordano con l'aspetto del prodotto. Una risposta corretta non indovina codice e aliquota. Identifica prima composizione, funzione, stato e presentazione; confronta dichiarazione e documenti; segnala l'eventuale necessità di un'analisi competente; separa classificazione doganale e trattamento d'accisa; verifica uso dichiarato, posizione fiscale, soggetti, luogo e documentazione. Solo dopo collega i fatti accertati alla conseguenza giuridica.
+
+**Domanda da commissario:** perché il nome commerciale non basta? Perché può non rappresentare composizione, funzione e lavorazione richieste dalle regole di classificazione; occorrono caratteristiche oggettive verificabili.
+
+**Domanda-trappola:** il certificato di analisi assegna automaticamente la voce tariffaria? No. Accerta proprietà tecniche; la classificazione richiede l'applicazione motivata delle regole giuridiche e della nomenclatura.
+
+**Errore tipico:** saltare dal prodotto descritto all'aliquota, confondendo identità merceologica, classificazione, uso ed esigibilità.
+
+**Mini-esercizio:** per un olio presentato come «lubrificante», scrivi cinque dati tecnici o documentali da verificare e ordinali nella catena fatto-prova-classificazione-conseguenza. Non indicare codice o aliquota se la traccia non offre elementi sufficienti.
+
+**Verifica rapida:** sai distinguere merceologia, analisi e classificazione? Sai spiegare perché classificazione doganale e trattamento d'accisa non coincidono? Sai ricostruire i sei elementi minimi senza inventare dati mobili?
 ## Appendice E - Canvas compilabili
 
 ### Canvas del caso specialistico

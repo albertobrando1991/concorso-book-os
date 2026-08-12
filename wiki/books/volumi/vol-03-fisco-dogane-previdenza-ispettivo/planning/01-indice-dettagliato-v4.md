@@ -63,7 +63,7 @@ draft_stage: source-ready
 
 ### Appendici M-FC02
 
-A. Tavole delle imposte. B. Accertamento e riscossione in flussi. C. Processo tributario. D. Glossario fiscale-doganale. E. Verticale tecnico ADM. F. Repertorio aggiornabile di prassi e bandi.
+A. Tavole delle imposte. B. Accertamento e riscossione in flussi. C. Processo tributario. D. Glossario fiscale-doganale. E. Canvas compilabili, con verticale tecnico ADM nel capitolo 14. F. Repertorio aggiornabile di prassi e bandi.
 
 ## Parte III - Modulo M-FC03 EPNE, previdenza e vigilanza
 

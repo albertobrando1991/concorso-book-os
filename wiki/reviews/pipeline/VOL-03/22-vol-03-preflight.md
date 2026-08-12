@@ -26,7 +26,7 @@ Il comando globale `npm run audit:coverage -- --volume VOL-03` non applica il fi
 
 | Controllo | Esito | Evidenza e comando o verifica usata |
 | --- | --- | --- |
-| Audit di copertura | **FAIL** | Parser canonico `parseCoverageMatrix` + `auditCoverageRows`: M-FC01 117/117, M-FC02 86/86, M-FC03 120/120; matrice aggregata VOL-03 con 8 blocker alle righe 59 e 61-67. Le righe 56 e 58 sono state chiuse nel capitolo trasversale con glossario inter-famiglia e schemi uniformi 10/20/30 righe più orale. Le righe 45-46 e 57 sono state chiuse con teoria ispettiva, sicurezza nel taglio di controllo e laboratorio fatto-prova-conclusione. Le righe 40-43 sono state chiuse con teoria, casi, errori e verifiche nel capitolo INPS e rinvii precisi. Quattro intestazioni M-FC03 `Errore` sono state riallineate a `Errore tipico`, chiudendo 24 falsi blocker strutturali. |
+| Audit di copertura | **FAIL** | Parser canonico `parseCoverageMatrix` + `auditCoverageRows`: M-FC01 117/117, M-FC02 86/86, M-FC03 120/120; matrice aggregata VOL-03 con 7 blocker alle righe 61-67. La riga 59 è stata chiusa con il verticale tecnico ADM su merceologia, prova chimica e accise energetiche minime. Le righe 56 e 58 sono state chiuse nel capitolo trasversale con glossario inter-famiglia e schemi uniformi 10/20/30 righe più orale. Le righe 45-46 e 57 sono state chiuse con teoria ispettiva, sicurezza nel taglio di controllo e laboratorio fatto-prova-conclusione. Le righe 40-43 sono state chiuse con teoria, casi, errori e verifiche nel capitolo INPS e rinvii precisi. Quattro intestazioni M-FC03 `Errore` sono state riallineate a `Errore tipico`, chiudendo 24 falsi blocker strutturali. |
 | Link wiki | PASS | Audit editoriale step 21 e test `book-preview`/`text-volumes`: composizione del volume risolta; nessun link interno reader-inaccessibile residuo. |
 | `source_refs` | PASS | Audit step 21: 100 riferimenti unici e 0 target mancanti nel corpus del volume. |
 | Frontmatter | PASS | Test `frontmatter.test.ts` e scansione step 21; 59 sezioni caricate dal Book Studio. |
@@ -55,7 +55,7 @@ Il comando globale `npm run audit:coverage -- --volume VOL-03` non applica il fi
 - Righe 40-43: **CHIUSE il 12 agosto 2026** con fonte strutturale verificata, quattro blocchi didattici nel capitolo M-FC03 03 e rinvii precisi; dati mobili esclusi dal testo stabile.
 - Righe 45-46 e 57: **CHIUSE il 12 agosto 2026** con fonte ufficiale verificata, sequenza accesso-istruttoria-verbalizzazione, mappa ispettiva della sicurezza e laboratorio fatto-prova-conclusione.
 - Righe 56 e 58: **CHIUSE il 12 agosto 2026** nel Bando Decoder trasversale con glossario fiscale-doganale-previdenziale-assicurativo e schemi 10/20/30 righe più orale specialistico.
-- Riga 59: verticale tecnico ADM privo del testo promesso.
+- Riga 59: **CHIUSA il 12 agosto 2026** nel capitolo M-FC02 14 con fonte ufficiale consolidata, teoria minima, caso, errore e verifica.
 - Righe 61-67: rinvii al VOL-01 ancora generici, senza destinazioni precise e verificate.
 
 ## Candidato tecnico provvisorio
@@ -65,4 +65,4 @@ Il comando globale `npm run audit:coverage -- --volume VOL-03` non applica il fi
 - Trim: 6,69 × 9,61 pollici
 - Bleed: assente
 - SHA-256: `47BE45588E61BBDF1545D9C1175A416CEC66A2FC33CA525137043ECF18B7CFAD`
-- Stato: **non consegnabile** finché gli 8 blocker di copertura non sono chiusi e il PDF non viene rigenerato.
+- Stato: **non consegnabile** finché i 7 blocker di copertura non sono chiusi e il PDF non viene rigenerato.
