@@ -5042,3 +5042,11 @@
 - l0: l0/conv-20260812125409-rnr8jd.md
 - atoms:
   - mem-20260812125409-1qg4nvo | result | Esito codex/pipeline-volume/step-17/volume-visual-philosophy: procedi -> Completato step 17 VOL-08: filosofia visiva canonica Circuito Civico aggiornata al Format 2, con Nucleo ID, apparati Verifica, indice analitico e limite di tre colonne; nessun asset creato; prossimo step 19.
+
+## 2026-08-12T12:56:58.342Z - VOL-08
+
+- conversation_id: conv-20260812125658-1115num
+- route: codex/pipeline-volume/step-19/kdp-layout
+- l0: l0/conv-20260812125658-1115num.md
+- atoms:
+  - mem-20260812125658-1oj5z78 | result | Esito codex/pipeline-volume/step-19/kdp-layout: procedi -> Completato step 19 VOL-08: master KDP verificato su istanza Book Studio isolata, 231 pagine progressive, 6 front matter, 1 apertura modulo, 13 capitoli, 82 nuclei e indice 82, 13 apparati Verifica, zero overflow/colli...
