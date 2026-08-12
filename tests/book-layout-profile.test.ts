@@ -17,7 +17,8 @@ describe("profilo tipografico VOL-03", () => {
     const block = css.match(/\.bookLayoutVol03Compact \.previewBlocks \{([\s\S]*?)\}/)?.[1] || ""
 
     expect(block).toContain("font-size: 11pt")
-    expect(block).toContain("line-height: 1.16")
+    expect(block).toContain("line-height: 1.15")
+    expect(css).toContain(".bookLayoutVol03Compact .previewBlocks p {\n  margin-bottom: 2pt;")
     expect(block).not.toContain("--book-padding")
   })
 })
