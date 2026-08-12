@@ -2,83 +2,65 @@
 id: vol-10-indice-completo
 type: book_outline
 title: "Indice completo VOL-10"
-status: source-ready
+status: complete
 domain: "concorsi pubblici italiani"
 source_refs: ["sources/modulo-m-tr03-tecnico-ingegneristico-vol-10"]
 book_refs: ["vol-10-tecnico-ingegneristico-territorio-lavori-pubblici", "m-tr03-tecnico-ingegneristico"]
-confidence: 0.79
-updated_at: 2026-07-29
+confidence: 1
+updated_at: 2026-08-12
 created_at: 2026-07-29
-review_required: true
+review_required: false
 canonical: true
 tags: ["outline", "vol-10", "m-tr03"]
 ---
 
 # Indice completo VOL-10
 
-## Architettura del volume
+## Architettura dell'edizione
 
-`VOL-10` contiene il solo modulo `M-TR03 — Tecnico-ingegneristico`. Le cinque parti seguenti sono sezioni didattiche interne. Il front matter compare una sola volta all’inizio del volume.
+`VOL-10` contiene il solo modulo `M-TR03 — Tecnico-ingegneristico`. Il volume pubblicabile comprende sei sezioni di apertura generate in impaginazione e 13 capitoli. Gli strumenti operativi originariamente ipotizzati come appendici sono stati integrati nei capitoli pertinenti e non costituiscono sezioni autonome.
 
-## Front matter
+## Apertura del volume
 
-1. Come usare `VOL-01 + VOL-10`.
-2. A chi serve e quali profili copre.
-3. Cosa non contiene e dove rinvia.
-4. Mappa profilo–materia–prova.
-5. Tre bandi tecnici decodificati, dopo acquisizione ufficiale.
-6. Piano 30/60/90 giorni per percorso junior, urbanistico e infrastrutturale.
+1. Frontespizio e dati editoriali.
+2. Come usare il volume con il Metodo BANDO.
+3. Profili destinatari e perimetro.
+4. Mappa del percorso didattico.
+5. Guida agli apparati di verifica.
+6. Avvertenze su bandi, fonti mobili e aggiornamento.
 
-Target: 2.000–2.600 parole.
+## Parte I — Profili, ufficio e atti tecnici
 
-## Modulo M-TR03 — Parte I: profili, ufficio e atti tecnici
+1. **Il concorso tecnico nella PA: profili, enti e prove** — profili, lettura del bando, forme delle prove e Bando Decoder.
+2. **Ufficio tecnico pubblico, responsabilità e atti tecnici** — competenze, procedimento applicato, sopralluogo, verbale, relazione e fascicolo.
 
-1. **Il concorso tecnico nella PA: profili, enti e prove** — ingegnere, architetto, geometra, tecnico comunale/ministeriale e specialista infrastrutture; Bando Decoder tecnico; output: matrice profilo–materia–prova. Target: 1.600 parole.
-2. **Ufficio tecnico pubblico, responsabilità e atti tecnici** — procedimento applicato, sopralluogo, relazione, verbale, conferenza di servizi e responsabilità di ruolo; output: mappa ufficio–procedimento–atto. Target: 2.000 parole.
+## Parte II — Costruzioni, territorio ed edilizia
 
-## Modulo M-TR03 — Parte II: costruzioni, territorio ed edilizia
+3. **Scienza e tecnica delle costruzioni per concorsi** — modelli, azioni, equilibrio, sollecitazioni, materiali e prestazioni.
+4. **NTC, sismica, geotecnica e sicurezza strutturale** — percorso prestazionale, stati limite, rischio sismico, sottosuolo, fondazioni e costruzioni esistenti.
+5. **Urbanistica e governo del territorio** — pianificazione, standard, conformità, vincoli, espropriazione e paesaggio.
+6. **Edilizia privata, SUE, titoli abilitativi e vigilanza** — categorie, regimi, stato legittimo, agibilità, controlli e abusi.
 
-3. **Scienza e tecnica delle costruzioni per concorsi** — materiali, azioni, equilibrio, resistenza, stabilità e durabilità; output: quiz tecnici e schema orale. Target: 2.500 parole.
-4. **NTC, sismica, geotecnica e sicurezza strutturale** — principi NTC, vita nominale, classi d’uso, azione sismica, terreni, fondazioni, verifiche e collaudo statico; output: tavole operative. Target: 2.700 parole.
-5. **Urbanistica e governo del territorio** — pianificazione, livelli di piano, standard, vincoli, espropriazione e interfaccia paesaggistica; output: caso piano–intervento. Target: 2.400 parole.
-6. **Edilizia privata, SUE, titoli abilitativi e vigilanza** — categorie di intervento, CILA, SCIA, permesso, agibilità, abusi e controlli; output: caso guidato e griglia titoli. Target: 2.700 parole.
+## Parte III — Ciclo tecnico dell'opera pubblica
 
-## Modulo M-TR03 — Parte III: ciclo tecnico dell’opera pubblica
+7. **Progettazione delle opere pubbliche** — fabbisogno, DIP, PFTE, progetto esecutivo, verifica e validazione.
+8. **Direzione lavori, esecuzione e cantieri** — consegna, controlli, modifiche, sospensioni, riserve e sicurezza.
+9. **Collaudo, verifica, manutenzione e gestione dell'opera** — controlli finali, consegna, documentazione e ciclo di vita.
+10. **Computi, capitolati e contabilità dei lavori** — quantità, prezzi, capitolato, documenti contabili, SAL e conto finale.
 
-7. **Progettazione di opere pubbliche** — quadro esigenziale, documento di indirizzo, PFTE, progetto esecutivo, verifiche e interfaccia con il Codice; output: flusso di progetto. Target: 2.300 parole.
-8. **Direzione lavori ed esecuzione** — ruoli, consegna, ordini di servizio, controlli, varianti, sospensioni e riserve nell’ottica tecnica; output: checklist DL. Target: 2.300 parole.
-9. **Collaudo, verifica, manutenzione e gestione dell’opera** — collaudo tecnico-amministrativo e statico, certificati, piano di manutenzione e ciclo di vita; output: scheda di collaudo. Target: 2.100 parole.
-10. **Computi, capitolati e contabilità lavori** — elenco prezzi, analisi prezzi, computo metrico estimativo, capitolati, libretti, registri, SAL e conto finale; output: mini-computo e SAL guidato. Target: 2.500 parole.
+## Parte IV — Infrastrutture e patrimonio digitale
 
-## Modulo M-TR03 — Parte IV: infrastrutture e patrimonio digitale
+11. **Infrastrutture, viabilità, ponti e monitoraggio** — rete, opere d'arte, ispezione, rischio, monitoraggio e priorità.
+12. **BIM, GIS, rilievi, catasto e patrimonio pubblico** — ciclo del dato, gestione informativa, dati spaziali, rilievo e inventario.
 
-11. **Infrastrutture, viabilità, ponti e monitoraggio** — strade, opere d’arte, trasporti, classificazione del rischio, ispezioni e manutenzione; output: checklist rischio–monitoraggio. Target: 2.400 parole.
-12. **BIM, GIS, rilievi, catasto e patrimonio pubblico** — gestione informativa, dati territoriali, rilievo, mappe, inventario e manutenzione patrimoniale; output: mappa dato–opera–decisione. Target: 2.100 parole.
+## Parte V — Laboratorio
 
-## Modulo M-TR03 — Parte V: laboratorio
+13. **Laboratorio delle prove tecniche** — quiz, scritto breve, scritto-grafica, mini-computo, sopralluogo, relazione, caso e orale.
 
-13. **Laboratorio delle prove tecniche** — scritto tecnico, prova scritto-grafica, caso, computo, sopralluogo, relazione e orale; almeno otto casi, simulazione e diario degli errori. Target: 2.300 parole.
+## Controllo di completezza
 
-## Appendici operative
+La matrice canonica assegna sei nuclei a ciascun capitolo: 78 nuclei su 78 risultano completi. Ogni nucleo comprende teoria, applicazione, output concorsuale, verifica e riferimenti consolidati.
 
-- **A. NTC, sismica e geotecnica in tavole** — 1.000 parole equivalenti.
-- **B. Urbanistica ed edilizia: titoli, atti ed errori** — 1.100.
-- **C. Computo, capitolato, SAL e collaudo** — 1.100.
-- **D. BIM/GIS per la PA tecnica** — 900.
-- **E. Ponti, strade e infrastrutture** — 800.
-- **F. Piano 30/60/90 giorni tecnico** — 500.
+## Confini del catalogo
 
-## Target e controllo di completezza
-
-Target editoriale orientativo: 34.500–36.600 parole, di cui circa 28.000–28.600 nei capitoli e 5.400 nelle appendici. La lunghezza non dimostra completezza: ogni nucleo resta bloccato finché la matrice non attesta teoria, applicazione, output, verifica e fonti.
-
-## Rinvii verificabili
-
-| Tema | Destinazione |
-| --- | --- |
-| Nucleo PA comune | `VOL-01`, aree `B-PA01/B-PA11` |
-| TUEL e ordinamento locale generale | `VOL-02 / M-FL01` |
-| Gare, RUP, PNRR e procurement avanzato | `VOL-09 / M-TR02` |
-| Ambiente, VIA/VAS/AIA, rifiuti e bonifiche | `VOL-11 / M-TR04` |
-| ICT, dati e cybersecurity avanzati | `VOL-08 / M-TR01` |
-| Carriere tecniche VVF | `VOL-12 / M-SP02` |
+I richiami a `VOL-01`, `VOL-02`, `VOL-08`, `VOL-09`, `VOL-11` e `VOL-12` descrivono percorsi di catalogo complementari. Non sostituiscono contenuti necessari di `VOL-10` e non sono trattati come rinvii puntuali quando manca una destinazione canonica verificata.

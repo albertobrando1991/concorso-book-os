@@ -5473,3 +5473,12 @@
 - l0: l0/conv-20260812102928-bh6u33.md
 - atoms:
   - mem-20260812102928-9nl92b | result | Esito pipeline-vol-10-step-20: Procedere con il prossimo step della pipeline VOL-10. -> Step 20 completato: audit visivo 196/196 pagine con 10/10 tavole-contatto, zero blocker e zero problemi significativi.
+
+## 2026-08-12T11:04:26.824Z - VOL-10
+
+- conversation_id: conv-20260812110426-1or1evf
+- route: pipeline-step-21
+- l0: l0/conv-20260812110426-1or1evf.md
+- atoms:
+  - mem-20260812110426-xfxoxa | workflow | Applicare la pipeline aggiornata a VOL-10 fino allo stato pubblicabile senza revisione umana finale; procedere con lo step 21.
+  - mem-20260812110426-au42of | result | Esito pipeline-step-21: Applicare la pipeline aggiornata a VOL-10 fino allo stato pubblicabile senza revisione umana finale; procedere con lo step 21. -> Step 21 completato: revisione editoriale totale approvata.

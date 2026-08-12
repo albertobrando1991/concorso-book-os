@@ -9,7 +9,7 @@ entities: ["Metodo BANDO","Capitale Personale"]
 source_refs: ["sources/metodo-bando-progetto-editoriale.md","sources/struttura-madre-il-metodo-bando.md","sources/modulo-m-tr03-tecnico-ingegneristico-vol-10.md"]
 book_refs: ["il-metodo-bando","moduli-specialistici","vol-10-tecnico-ingegneristico-territorio-lavori-pubblici"]
 confidence: 0.76
-updated_at: 2026-07-30
+updated_at: 2026-08-12
 created_at: 2026-06-27T19:56:28+02:00
 review_required: false
 canonical: true
@@ -35,7 +35,7 @@ Modulo specialistico collegato a [[books/il-metodo-bando/index|Il Metodo BANDO]]
 - Codice modulo: M-TR03
 - Copertura: Profili tecnici, lavori pubblici, urbanistica, edilizia, manutenzione e sicurezza tecnica.
 - Fase roadmap: 4
-- Stato: revisione trasversale completata; capitoli 1-13 sviluppati, matrice v4 completa e fonti consolidate. Seguono audit specialistico automatico e preflight.
+- Stato: capitoli 1-13 completi; matrice v4, fonti e audit specialistico consolidati. Testo congelato, impaginazione completata e 196 pagine controllate senza rilievi bloccanti o significativi.
 
 ## Confine editoriale
 Il modulo non sostituisce il libro principale. Parte dal nucleo comune del Metodo BANDO e aggiunge profili, prove, materie specialistiche, rischi, fonti e casi tipici della famiglia.
@@ -67,4 +67,4 @@ Non deve promettere copertura totale di ogni bando o aggiornamento normativo aut
 - [[books/moduli/m-tr03-tecnico-ingegneristico/planning/06-audit-consolidamento-fonti|Audit di consolidamento delle fonti]]
 - [[books/moduli/m-tr03-tecnico-ingegneristico/planning/13-bibbia-del-modulo|Bibbia editoriale del modulo]]
 ## Prossimo passo
-Sottoporre il modulo all'audit specialistico automatico dello step 15 e ai successivi controlli della pipeline. La conferma umana resta riservata allo step 24.
+Completare il preflight tecnico del PDF nello step 22 e la chiusura editoriale prevista dagli ultimi gate della pipeline.
