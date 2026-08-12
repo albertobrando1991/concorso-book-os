@@ -373,6 +373,20 @@ Una verifica di uscita ben documentata riduce anche l'asimmetria informativa: pe
 
 L'esito della prova va condiviso con i responsabili del servizio, così che l'uscita resti una capacità organizzativa e non una conoscenza isolata.
 
+## Apparato di verifica dei nuclei
+
+La tabella collega ogni nucleo a un apparato esistente nello stesso capitolo. Il collegamento rende controllabile la tracciabilità senza attribuire automaticamente un esito positivo.
+
+| Nucleo ID | Apparato di verifica |
+| --- | --- |
+| `N-TR01-12-01` | Quiz 1 — Dal bisogno alla scelta |
+| `N-TR01-12-02` | Quiz 2 — Requisito e accettazione |
+| `N-TR01-12-03` | Quiz 3 — SLA, SLI e KPI |
+| `N-TR01-12-04` | Quiz 4 — Governo dell'esecuzione |
+| `N-TR01-12-05` | Quiz 5 — Sicurezza e filiera |
+| `N-TR01-12-06` | Mini-esercizi e soluzioni, esercizio 3 |
+| `N-TR01-12-07` | Quiz 6 — Portabilità ed uscita |
+
 ## ▣ Verifica
 
 Le domande seguenti controllano le distinzioni che rendono governabile un contratto ICT. Rispondi prima a voce, poi confronta la motivazione.

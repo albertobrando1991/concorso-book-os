@@ -266,6 +266,20 @@ Per la scheda dataset aggiungi descrizione, copertura, struttura e codifiche, gl
 
 Partirei da finalità, dominio e fonti. Assegnerei responsabilità, costruirei inventario, glossario, lineage e scheda dataset, poi definirei regole e indicatori di qualità. Per lo scambio fisserei base, destinatari, semantica, versione e gestione degli errori. Per l'apertura verificherei separatamente limiti, formato leggibile meccanicamente, metadati, licenza, distribuzioni e aggiornamento. Documenterei decisioni, accessi, anomalie e riesami.
 
+## Apparato di verifica dei nuclei
+
+La tabella collega ogni nucleo a un apparato esistente nello stesso capitolo. Il collegamento rende controllabile la tracciabilità senza attribuire automaticamente un esito positivo.
+
+| Nucleo ID | Apparato di verifica |
+| --- | --- |
+| `N-TR01-10-01` | Quiz 1. La governance del dato coincide con l'amministrazione tecnica del database? |
+| `N-TR01-10-02` | Quiz 2. Il data steward può sostituire il responsabile di processo nella scelta di un nuovo uso dei dati? |
+| `N-TR01-10-03` | Quiz 3. Il lineage serve solo a documentare una pipeline tecnica? |
+| `N-TR01-10-04` | Quiz 4. Catalogare una risorsa significa pubblicarne i record? |
+| `N-TR01-10-05` | Quiz 5. Una percentuale di record conformi è già una regola di qualità completa? |
+| `N-TR01-10-06` | Quiz 6. Un CSV disponibile sul sito è sempre un open data riutilizzabile? |
+| `N-TR01-10-07` | Laboratorio: inventario e scheda dataset |
+
 ## ▣ Verifica
 
 **Quiz 1.** La governance del dato coincide con l'amministrazione tecnica del database?

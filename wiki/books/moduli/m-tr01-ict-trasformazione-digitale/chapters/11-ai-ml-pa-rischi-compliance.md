@@ -186,6 +186,20 @@ Nel caso concreto occorre identificare anzitutto se l'ente agisce come provider,
 
 Questo approccio evita anche di trasformare le fonti tecniche in prescrizioni legali. Un framework può suggerire di mappare, misurare e gestire i rischi; l'ente deve poi individuare norme, atti, ruoli e procedure applicabili. Prima di una scelta con effetti esterni, chi cura il progetto verifica testo consolidato, atti applicativi e indicazioni ufficiali aggiornate. La regola concorsuale da ricordare è semplice: nominare il quadro UE e quello nazionale, distinguere i ruoli, descrivere evidenze e controlli, e dichiarare che classificazione e calendario dipendono dal caso e dalla fonte vigente.
 Nel lessico della PA conviene infine evitare formule assolute come “conforme per sempre” o “classificato una volta per tutte”. Una modifica della finalità, dei dati, del modello o del fornitore può cambiare le valutazioni. La documentazione consente di riaprire l'analisi senza perdere la storia delle versioni e delle decisioni, mantenendo coerenti qualità del servizio, diritti e responsabilità.
+## Apparato di verifica dei nuclei
+
+La tabella collega ogni nucleo a un apparato esistente nello stesso capitolo. Il collegamento rende controllabile la tracciabilità senza attribuire automaticamente un esito positivo.
+
+| Nucleo ID | Apparato di verifica |
+| --- | --- |
+| `N-TR01-11-01` | Quiz 1 — Qual è la differenza più utile tra sistema AI e modello? |
+| `N-TR01-11-02` | Quiz 2 — Perché il test set non va usato ripetutamente per regolare il modello? |
+| `N-TR01-11-03` | Caso ragionato — Priorità alle segnalazioni di manutenzione |
+| `N-TR01-11-04` | Quiz 3 — Un'accuracy elevata prova che il sistema intercetta bene le urgenze? |
+| `N-TR01-11-05` | Quiz 5 — Quando il controllo umano è effettivo? |
+| `N-TR01-11-06` | Laboratorio compilabile: griglia di rischio del caso AI |
+| `N-TR01-11-07` | Caso ragionato — Priorità alle segnalazioni di manutenzione |
+
 ## ▣ Verifica
 
 ### Quiz 1 — Qual è la differenza più utile tra sistema AI e modello?
