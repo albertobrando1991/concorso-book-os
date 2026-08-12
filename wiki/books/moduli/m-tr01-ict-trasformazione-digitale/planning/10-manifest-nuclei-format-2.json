@@ -2520,6 +2520,330 @@
       "reviewer": "codex-step15-didactic-batch-b",
       "gateId": "step-15",
       "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-07-01",
+      "dimension": "application",
+      "evidenceQuote": "In sede concorsuale conviene trasformare la responsabilità condivisa in una piccola matrice. Per esempio, in un servizio SaaS il fornitore può curare la disponibilità dell'applicazione, ma l'amministrazione deve decidere chi può accedere, con quali profili, quali dati inserire e come controllare le configurazioni che incidono sul procedimento. Se il servizio usa un'integrazione con un archivio dell'ente, occorre inoltre chiarire chi monitora il collegamento e chi comunica l'interruzione agli uffici. La risposta è più solida quando individua il componente, il responsabile, l'evidenza attesa e il punto di escalation.",
+      "sourceLocation": "chapters/07-cloud-pa-virtualizzazione-container-devops.md#n-tr01-07-01",
+      "reviewer": "codex-step15-didactic-batch-c",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-07-01",
+      "dimension": "competition-output",
+      "evidenceQuote": "In sede concorsuale conviene trasformare la responsabilità condivisa in una piccola matrice. Per esempio, in un servizio SaaS il fornitore può curare la disponibilità dell'applicazione, ma l'amministrazione deve decidere chi può accedere, con quali profili, quali dati inserire e come controllare le configurazioni che incidono sul procedimento. Se il servizio usa un'integrazione con un archivio dell'ente, occorre inoltre chiarire chi monitora il collegamento e chi comunica l'interruzione agli uffici. La risposta è più solida quando individua il componente, il responsabile, l'evidenza attesa e il punto di escalation.",
+      "sourceLocation": "chapters/07-cloud-pa-virtualizzazione-container-devops.md#n-tr01-07-01",
+      "reviewer": "codex-step15-didactic-batch-c",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-07-02",
+      "dimension": "application",
+      "evidenceQuote": "Un confronto utile parte dall'unità che si vuole governare. La VM incapsula un intero ambiente operativo e rende possibile eseguire sistemi diversi sullo stesso hardware; il container impacchetta soprattutto il processo applicativo con le sue dipendenze. Per questo un container non sostituisce automaticamente una VM e non ne eredita, da solo, le garanzie di isolamento, persistenza o continuità. In un servizio pubblico possono convivere: VM per componenti legacy o per delimitare ambienti, container per servizi che si aggiornano e si replicano con maggiore frequenza.",
+      "sourceLocation": "chapters/07-cloud-pa-virtualizzazione-container-devops.md#n-tr01-07-02",
+      "reviewer": "codex-step15-didactic-batch-c",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-07-02",
+      "dimension": "competition-output",
+      "evidenceQuote": "Un confronto utile parte dall'unità che si vuole governare. La VM incapsula un intero ambiente operativo e rende possibile eseguire sistemi diversi sullo stesso hardware; il container impacchetta soprattutto il processo applicativo con le sue dipendenze. Per questo un container non sostituisce automaticamente una VM e non ne eredita, da solo, le garanzie di isolamento, persistenza o continuità. In un servizio pubblico possono convivere: VM per componenti legacy o per delimitare ambienti, container per servizi che si aggiornano e si replicano con maggiore frequenza.",
+      "sourceLocation": "chapters/07-cloud-pa-virtualizzazione-container-devops.md#n-tr01-07-02",
+      "reviewer": "codex-step15-didactic-batch-c",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-07-03",
+      "dimension": "application",
+      "evidenceQuote": "La portabilità consente di spostare applicazioni o dati con sforzo accettabile. La reversibilità permette di ritornare o trasferire il servizio. L’exit strategy specifica:",
+      "sourceLocation": "chapters/07-cloud-pa-virtualizzazione-container-devops.md#n-tr01-07-03",
+      "reviewer": "codex-step15-didactic-batch-c",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-07-03",
+      "dimension": "competition-output",
+      "evidenceQuote": "La migrazione è quindi un cambiamento di servizio, non una copia di macchine. L'assessment deve produrre decisioni verificabili: quali componenti si spostano, quali restano temporaneamente dove sono, quale dipendenza condiziona il passaggio e quale prova dimostra che il nuovo ambiente funziona. Una scelta di rehost può ridurre il tempo iniziale, ma può conservare vincoli del sistema precedente; un refactor può migliorare portabilità o resilienza, ma aumenta il rischio di modifica. Non esiste una \"R\" migliore in astratto.",
+      "sourceLocation": "chapters/07-cloud-pa-virtualizzazione-container-devops.md#n-tr01-07-03",
+      "reviewer": "codex-step15-didactic-batch-c",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-07-04",
+      "dimension": "application",
+      "evidenceQuote": "Un processo DevOps maturo non accelera le modifiche saltando i controlli. Li rende osservabili e ripetibili. Ogni passaggio deve poter rispondere a quattro domande: quale modifica è stata richiesta, quale artefatto è stato verificato, chi ha autorizzato il passaggio e quale evidenza dimostra l'esito. Questa catena è utile anche quando lo sviluppo è affidato a un fornitore, perché permette all'amministrazione di governare il servizio senza confondere la consegna del codice con la sua effettiva messa in esercizio.",
+      "sourceLocation": "chapters/07-cloud-pa-virtualizzazione-container-devops.md#n-tr01-07-04",
+      "reviewer": "codex-step15-didactic-batch-c",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-07-04",
+      "dimension": "competition-output",
+      "evidenceQuote": "Anche il rollback richiede preparazione. Una nuova versione può essere tecnicamente distribuibile ma incompatibile con una modifica del dato o con un'interfaccia già usata da altri sistemi. Per questo si definiscono compatibilità, criteri di annullamento, responsabilità e modalità di comunicazione. Il rilascio progressivo limita l'esposizione iniziale, ma non sostituisce test, osservazione e decisioni sulle conseguenze per gli utenti.",
+      "sourceLocation": "chapters/07-cloud-pa-virtualizzazione-container-devops.md#n-tr01-07-04",
+      "reviewer": "codex-step15-didactic-batch-c",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-07-05",
+      "dimension": "application",
+      "evidenceQuote": "Capacità e costi richiedono la stessa disciplina: si misurano domanda, picchi, margini e consumo, poi si assegnano responsabilità per le decisioni. Autoscaling e spegnimento programmato sono opzioni, non formule universali. Un aumento automatico delle istanze non risolve una dipendenza saturata, un limite di database o un errore applicativo che moltiplica le richieste. Il candidato deve dimostrare di saper scegliere una misura, osservare l'effetto e riesaminare la decisione.",
+      "sourceLocation": "chapters/07-cloud-pa-virtualizzazione-container-devops.md#n-tr01-07-05",
+      "reviewer": "codex-step15-didactic-batch-c",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-07-05",
+      "dimension": "competition-output",
+      "evidenceQuote": "Capacità e costi richiedono la stessa disciplina: si misurano domanda, picchi, margini e consumo, poi si assegnano responsabilità per le decisioni. Autoscaling e spegnimento programmato sono opzioni, non formule universali. Un aumento automatico delle istanze non risolve una dipendenza saturata, un limite di database o un errore applicativo che moltiplica le richieste. Il candidato deve dimostrare di saper scegliere una misura, osservare l'effetto e riesaminare la decisione.",
+      "sourceLocation": "chapters/07-cloud-pa-virtualizzazione-container-devops.md#n-tr01-07-05",
+      "reviewer": "codex-step15-didactic-batch-c",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-07-06",
+      "dimension": "application",
+      "evidenceQuote": "Front end e applicazione diventano workload containerizzati; il database passa a un servizio gestito compatibile; l'integrazione con il protocollo resta inizialmente ibrida. Questa scelta non elimina il rischio: rende esplicite le dipendenze da testare. Il Comune verifica che la destinazione sia compatibile con la classificazione e con la disciplina vigente, senza assumere che qualunque servizio cloud sia idoneo.",
+      "sourceLocation": "chapters/07-cloud-pa-virtualizzazione-container-devops.md#n-tr01-07-06",
+      "reviewer": "codex-step15-didactic-batch-c",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-07-06",
+      "dimension": "competition-output",
+      "evidenceQuote": "RPO e RTO non sono promesse generiche di \"ripartenza rapida\". Il primo impone di stabilire quale quantità di dati può andare persa fra due punti di ripristino; il secondo impone di stabilire entro quando la funzione deve tornare utilizzabile. Se un servizio acquisisce pratiche fino a una scadenza, un RPO troppo ampio può rendere necessario ricostruire molte operazioni; se la funzione è indispensabile in una finestra amministrativa, un RTO troppo lungo può interrompere il procedimento. Gli obiettivi nascono dall'analisi d'impatto e vanno tradotti in copie, procedure, ruoli e prove.",
+      "sourceLocation": "chapters/07-cloud-pa-virtualizzazione-container-devops.md#n-tr01-07-06",
+      "reviewer": "codex-step15-didactic-batch-c",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-08-01",
+      "dimension": "application",
+      "evidenceQuote": "Si aggiungono, secondo il contesto, autenticità, tracciabilità e accountability. Il non ripudio riguarda la capacità di impedire che un soggetto neghi in modo plausibile una determinata azione, quando il sistema e il quadro applicabile lo consentono. Queste proprietà non sono intercambiabili: la cifratura può sostenere la riservatezza, ma non garantisce da sola disponibilità o correttezza del processo.",
+      "sourceLocation": "chapters/08-cybersecurity-rischio-controlli-vulnerabilita.md#n-tr01-08-01",
+      "reviewer": "codex-step15-didactic-batch-c",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-08-01",
+      "dimension": "competition-output",
+      "evidenceQuote": "Il responsabile dell'asset non coincide sempre con chi amministra il server. Il primo deve chiarire il valore del servizio, le conseguenze di un fermo e le priorità; il secondo può gestire una configurazione o un controllo. Questa separazione evita una valutazione fatta solo sul valore tecnico del componente. In prova è utile esplicitare sia l'asset sia la dipendenza: \"la disponibilità del portale dipende anche dall'identità digitale e dal deposito dei documenti\" è una frase più verificabile di \"proteggerei il server\".",
+      "sourceLocation": "chapters/08-cybersecurity-rischio-controlli-vulnerabilita.md#n-tr01-08-01",
+      "reviewer": "codex-step15-didactic-batch-c",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-08-02",
+      "dimension": "application",
+      "evidenceQuote": "Uno scenario ben scritto rende controllabile il ragionamento. Indica un asset, una condizione di debolezza, una minaccia, un percorso plausibile, un evento e una conseguenza. Non richiede la descrizione di tecniche offensive: basta spiegare perché quella combinazione può compromettere una proprietà del servizio. Per esempio, una funzione esposta e una dipendenza non aggiornata non sono già un incidente. Diventano uno scenario quando si chiarisce che un soggetto esterno può raggiungere la funzione e che l'evento temuto comporta accesso improprio o indisponibilità.",
+      "sourceLocation": "chapters/08-cybersecurity-rischio-controlli-vulnerabilita.md#n-tr01-08-02",
+      "reviewer": "codex-step15-didactic-batch-c",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-08-02",
+      "dimension": "competition-output",
+      "evidenceQuote": "La superficie di attacco include la pagina visibile del portale, API, account, canali di amministrazione, componenti di terze parti, processi di aggiornamento e confini fra ambienti. Ridurla può significare dismettere un'interfaccia non necessaria, limitare un privilegio, separare un ambiente di prova o rendere tracciabile una modifica. Il candidato deve usare questi elementi per motivare una scelta, non per compilare un elenco di parole chiave.",
+      "sourceLocation": "chapters/08-cybersecurity-rischio-controlli-vulnerabilita.md#n-tr01-08-02",
+      "reviewer": "codex-step15-didactic-batch-c",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-08-03",
+      "dimension": "application",
+      "evidenceQuote": "Il trattamento deve lasciare una traccia verificabile. Per ridurre un rischio non basta scrivere \"applicare un controllo\": occorrono un'azione, un responsabile, una data, un'evidenza e un criterio di chiusura. Se il rischio viene accettato, l'accettazione riguarda il residuo dopo avere valutato le alternative; richiede un soggetto autorizzato e una data di riesame. Trasferire una parte delle conseguenze a un fornitore non trasferisce automaticamente la responsabilità dell'ente verso il servizio.",
+      "sourceLocation": "chapters/08-cybersecurity-rischio-controlli-vulnerabilita.md#n-tr01-08-03",
+      "reviewer": "codex-step15-didactic-batch-c",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-08-03",
+      "dimension": "competition-output",
+      "evidenceQuote": "Per l'orale, una risposta efficace segue un filo costante: definisco criteri e confini, identifico asset e dipendenze, costruisco lo scenario, valuto, scelgo il trattamento e programmo il riesame. Questa sequenza è preferibile a una formula numerica priva di assunzioni.",
+      "sourceLocation": "chapters/08-cybersecurity-rischio-controlli-vulnerabilita.md#n-tr01-08-03",
+      "reviewer": "codex-step15-didactic-batch-c",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-08-04",
+      "dimension": "application",
+      "evidenceQuote": "La difesa per livelli richiede una domanda ulteriore: i controlli falliscono tutti per la stessa causa? Due protezioni amministrate con la stessa credenziale privilegiata possono perdere efficacia insieme. Per questo asset inventory, hardening, segmentazione, aggiornamento, minimo privilegio e monitoraggio assumono valore quando sono collegati a responsabilità ed evidenze. Il NIST CSF 2.0 offre una mappa di outcome per discutere governo, identificazione, protezione, rilevazione, risposta e recupero. È un riferimento tecnico utile, non un obbligo generale della PA italiana e non una sequenza rigida da applicare in ogni caso.",
+      "sourceLocation": "chapters/08-cybersecurity-rischio-controlli-vulnerabilita.md#n-tr01-08-04",
+      "reviewer": "codex-step15-didactic-batch-c",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-08-04",
+      "dimension": "competition-output",
+      "evidenceQuote": "La difesa per livelli richiede una domanda ulteriore: i controlli falliscono tutti per la stessa causa? Due protezioni amministrate con la stessa credenziale privilegiata possono perdere efficacia insieme. Per questo asset inventory, hardening, segmentazione, aggiornamento, minimo privilegio e monitoraggio assumono valore quando sono collegati a responsabilità ed evidenze. Il NIST CSF 2.0 offre una mappa di outcome per discutere governo, identificazione, protezione, rilevazione, risposta e recupero. È un riferimento tecnico utile, non un obbligo generale della PA italiana e non una sequenza rigida da applicare in ogni caso.",
+      "sourceLocation": "chapters/08-cybersecurity-rischio-controlli-vulnerabilita.md#n-tr01-08-04",
+      "reviewer": "codex-step15-didactic-batch-c",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-08-05",
+      "dimension": "application",
+      "evidenceQuote": "La gestione delle vulnerabilità è un ciclo, non la somma dei risultati di uno strumento. Inventario, scoperta, validazione, priorità, trattamento e verifica di chiusura devono rimanere collegati. Un risultato può essere un falso positivo oppure non essere applicabile alla configurazione esaminata; trattarlo come un incidente genera lavoro inutile. All'opposto, ignorare una segnalazione senza motivazione impedisce di spiegare il rischio residuo.",
+      "sourceLocation": "chapters/08-cybersecurity-rischio-controlli-vulnerabilita.md#n-tr01-08-05",
+      "reviewer": "codex-step15-didactic-batch-c",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-08-05",
+      "dimension": "competition-output",
+      "evidenceQuote": "La gestione delle vulnerabilità è un ciclo, non la somma dei risultati di uno strumento. Inventario, scoperta, validazione, priorità, trattamento e verifica di chiusura devono rimanere collegati. Un risultato può essere un falso positivo oppure non essere applicabile alla configurazione esaminata; trattarlo come un incidente genera lavoro inutile. All'opposto, ignorare una segnalazione senza motivazione impedisce di spiegare il rischio residuo.",
+      "sourceLocation": "chapters/08-cybersecurity-rischio-controlli-vulnerabilita.md#n-tr01-08-05",
+      "reviewer": "codex-step15-didactic-batch-c",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-08-06",
+      "dimension": "application",
+      "evidenceQuote": "La sicurezza del software non inizia con una scansione finale. Requisiti verificabili, progettazione, revisione, test, rilascio ed esercizio producono evidenze diverse e riducono classi diverse di errore. Validare un input, gestire correttamente gli errori e applicare autorizzazioni sul server sono esempi di principi; non costituiscono una ricetta universale. Una review del codice, SAST, DAST, analisi delle dipendenze e penetration test osservano aspetti differenti e richiedono scopo e autorizzazioni.",
+      "sourceLocation": "chapters/08-cybersecurity-rischio-controlli-vulnerabilita.md#n-tr01-08-06",
+      "reviewer": "codex-step15-didactic-batch-c",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-08-06",
+      "dimension": "competition-output",
+      "evidenceQuote": "La filiera comprende anche repository, account, runner, strumenti di build, artefatti e canali di distribuzione. Una SBOM aiuta a sapere dove una libreria è usata; non dimostra da sola che il prodotto sia sicuro. Per questo la filiera richiede componenti identificati, modifiche revisionate, accessi protetti, provenienza verificabile e capacità di ricostruire una release. I requisiti contrattuali dettagliati restano nel capitolo 12, mentre qui il candidato deve saper riconoscere il rischio tecnico e l'evidenza necessaria.",
+      "sourceLocation": "chapters/08-cybersecurity-rischio-controlli-vulnerabilita.md#n-tr01-08-06",
+      "reviewer": "codex-step15-didactic-batch-c",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-09-01",
+      "dimension": "application",
+      "evidenceQuote": "Un'identità digitale rappresenta una persona, un'applicazione, un servizio, un dispositivo o un workload. L'account è il contenitore operativo usato dal sistema; una credenziale è un elemento associato all'identità; un autenticatore dimostra il controllo della credenziale; la sessione conserva l'esito dell'accesso; un attributo descrive soggetto, ruolo o contesto. Distinguere questi elementi evita un errore frequente: disabilitare un account non revoca automaticamente sessioni, token, chiavi applicative o account amministrativi collegati.",
+      "sourceLocation": "chapters/09-iam-crittografia-logging-incident-response.md#n-tr01-09-01",
+      "reviewer": "codex-step15-didactic-batch-c",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-09-01",
+      "dimension": "competition-output",
+      "evidenceQuote": "In prova, una risposta solida distingue identità, account e autorizzazione prima di parlare di strumenti. Per esempio, quando un istruttore cambia ufficio, l'ente aggiorna ruolo e ambito, revoca i diritti non più necessari, controlla deleghe e sessioni ancora attive e conserva l'evidenza. Dire soltanto «disattivare l'utente» lascia irrisolte dipendenze e privilegi indiretti. L'errore tipico è trattare l'IAM come un elenco di account: è invece un processo che lega organizzazione, identità, sistemi e riesame.",
+      "sourceLocation": "chapters/09-iam-crittografia-logging-incident-response.md#n-tr01-09-01",
+      "reviewer": "codex-step15-didactic-batch-c",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-09-02",
+      "dimension": "application",
+      "evidenceQuote": "La MFA combina fattori indipendenti, non due copie dello stesso segreto. Riduce alcuni rischi ma non elimina la necessità di un enrollment affidabile, di un recupero account governato e di revocare sessioni e token quando serve. Anche nella federazione, in cui un servizio accetta un'asserzione di un identity provider, il servizio deve decidere localmente quali operazioni autorizzare. Confondere autenticazione federata e autorizzazione applicativa espone a privilegi concessi per inerzia.",
+      "sourceLocation": "chapters/09-iam-crittografia-logging-incident-response.md#n-tr01-09-02",
+      "reviewer": "codex-step15-didactic-batch-c",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-09-02",
+      "dimension": "competition-output",
+      "evidenceQuote": "Quando il sistema usa attributi, deve gestire anche la loro qualità. Un attributo di ufficio non aggiornato può autorizzare una pratica fuori contesto; un attributo mancante può bloccare un'operazione legittima. Per questo RBAC e ABAC non si valutano con una sigla: occorre chiedere quale fonte alimenta i dati, chi la mantiene, come si gestiscono conflitti e ritardi e quale sia il comportamento sicuro in caso di dubbio. La risposta concorsuale diventa concreta quando include questa catena di responsabilità.",
+      "sourceLocation": "chapters/09-iam-crittografia-logging-incident-response.md#n-tr01-09-02",
+      "reviewer": "codex-step15-didactic-batch-c",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-09-03",
+      "dimension": "application",
+      "evidenceQuote": "Se un secret applicativo risulta esposto, il primo compito è capire quali servizi, ambienti e dati dipendano da esso. Il team limita l'uso, preserva le evidenze, valuta revoca o sostituzione, distribuisce il nuovo materiale in modo controllato e osserva i log per stimare l'impatto. Non occorrono dettagli di prodotto per esporre il ragionamento. L'errore tipico è credere che un algoritmo robusto compensi un inventario assente o un secret inserito nel codice.",
+      "sourceLocation": "chapters/09-iam-crittografia-logging-incident-response.md#n-tr01-09-03",
+      "reviewer": "codex-step15-didactic-batch-c",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-09-03",
+      "dimension": "competition-output",
+      "evidenceQuote": "Un inventario non è una lista di valori segreti da copiare in un foglio. Registra riferimenti, proprietà e dipendenze senza esporre il materiale sensibile. Deve consentire di rispondere a domande pratiche: quale servizio usa questa chiave, quale certificato sta per scadere, chi autorizza un rinnovo, quale componente si ferma se il secret viene revocato? Senza queste informazioni, la rotazione diventa una modifica rischiosa e la risposta a una compromissione procede per tentativi.",
+      "sourceLocation": "chapters/09-iam-crittografia-logging-incident-response.md#n-tr01-09-03",
+      "reviewer": "codex-step15-didactic-batch-c",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-09-04",
+      "dimension": "application",
+      "evidenceQuote": "Le sorgenti includono identity provider, sistemi operativi, reti, applicazioni, database, API, cloud e dispositivi. Un record utile contiene timestamp, identità o soggetto tecnico, azione, risorsa, esito, origine, contesto e un identificatore di correlazione. Il dato registrato deve essere pertinente: inserire password, token o dati personali non necessari nei log crea un nuovo rischio. Orologi incoerenti rendono fragile una timeline; accessi, modifica e cancellazione dei log devono essere governati; la conservazione dipende da finalità, rischio e obblighi applicabili, non da una durata universale.",
+      "sourceLocation": "chapters/09-iam-crittografia-logging-incident-response.md#n-tr01-09-04",
+      "reviewer": "codex-step15-didactic-batch-c",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-09-04",
+      "dimension": "competition-output",
+      "evidenceQuote": "Un evento è un fatto osservabile; un log è la sua registrazione; un audit trail permette di ricostruire attività rilevanti; un alert è una segnalazione prodotta da una regola o da un'analisi; un incidente compromette o minaccia obiettivi di sicurezza o servizio. Un alert apre quindi una verifica: non prova da solo l'esistenza di un incidente. La distinzione evita sia allarmi ignorati sia escalation che paralizzano l'ente senza evidenze sufficienti.",
+      "sourceLocation": "chapters/09-iam-crittografia-logging-incident-response.md#n-tr01-09-04",
+      "reviewer": "codex-step15-didactic-batch-c",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-09-05",
+      "dimension": "application",
+      "evidenceQuote": "L'eradicazione rimuove causa e persistenza; il recupero verifica identità, configurazioni, integrità, chiavi, dipendenze e monitoraggio. Le attività forensi non vanno improvvisate: acquisizione, conservazione e trattamento delle evidenze seguono competenze, autorizzazioni e procedure applicabili. Il capitolo 7 tratta backup e disaster recovery; qui il raccordo consiste nel chiedere se il servizio può rientrare in condizioni controllate e se il recupero reintroduce credenziali, configurazioni o dati compromessi.",
+      "sourceLocation": "chapters/09-iam-crittografia-logging-incident-response.md#n-tr01-09-05",
+      "reviewer": "codex-step15-didactic-batch-c",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-09-05",
+      "dimension": "competition-output",
+      "evidenceQuote": "La risposta a un incidente inizia prima dell'incidente. Policy, contatti, ruoli, accessi di emergenza, capacità di logging e prove di coordinamento fanno parte della preparazione. Il NIST CSF 2.0 collega la risposta alla governance, all'identificazione e alla protezione: rilevare, rispondere e recuperare non sono una sequenza isolata dal rischio e dalla continuità. Il modello locale può cambiare, ma deve chiarire decisioni, responsabilità, evidenze e condizioni di chiusura.",
+      "sourceLocation": "chapters/09-iam-crittografia-logging-incident-response.md#n-tr01-09-05",
+      "reviewer": "codex-step15-didactic-batch-c",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-09-06",
+      "dimension": "application",
+      "evidenceQuote": "Nel quadro italiano, il d.lgs. 138/2024 recepisce la direttiva NIS2; ACN esercita le funzioni nazionali attribuite dalla disciplina e CSIRT Italia opera nel sistema di gestione degli incidenti. Il candidato deve mostrare che l'ente verifica il proprio inquadramento, la significatività dell'evento e le procedure applicabili. Non deve trasformare un riferimento tecnico volontario, come NIST, in un obbligo generale della PA né inventare soglie, canali o termini operativi.",
+      "sourceLocation": "chapters/09-iam-crittografia-logging-incident-response.md#n-tr01-09-06",
+      "reviewer": "codex-step15-didactic-batch-c",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-09-06",
+      "dimension": "competition-output",
+      "evidenceQuote": "Nel quadro italiano, il d.lgs. 138/2024 recepisce la direttiva NIS2; ACN esercita le funzioni nazionali attribuite dalla disciplina e CSIRT Italia opera nel sistema di gestione degli incidenti. Il candidato deve mostrare che l'ente verifica il proprio inquadramento, la significatività dell'evento e le procedure applicabili. Non deve trasformare un riferimento tecnico volontario, come NIST, in un obbligo generale della PA né inventare soglie, canali o termini operativi.",
+      "sourceLocation": "chapters/09-iam-crittografia-logging-incident-response.md#n-tr01-09-06",
+      "reviewer": "codex-step15-didactic-batch-c",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
     }
   ]
 }
