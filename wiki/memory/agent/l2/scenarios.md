@@ -5374,3 +5374,11 @@
 - l0: l0/conv-20260812082409-tt4axa.md
 - atoms:
   - mem-20260812082409-1u7tmzt | result | Esito codex-vol10-cap13-step08-plan: Procedere con il prossimo step della pipeline aggiornata VOL-10. -> Completato step 08 capitolo 13: piano riallineato al capitolo legacy esistente con sei nuclei N-TR03-13-01/06, budget 4.850-5.350 parole, minimo 650 per nucleo, sei quiz commentati, otto casi e caso finale, fonti cons...
+
+## 2026-08-12T08:39:27.091Z - VOL-10/M-TR03
+
+- conversation_id: conv-20260812083927-1os5nuh
+- route: codex-vol10-cap13-step09-format2
+- l0: l0/conv-20260812083927-1os5nuh.md
+- atoms:
+  - mem-20260812083927-1ae84e6 | result | Esito codex-vol10-cap13-step09-format2: Procedere con il prossimo step della pipeline aggiornata VOL-10. -> Completato step 09 capitolo 13 con writer obbligatorio gpt-5.5 xhigh: capitolo Format 2 autosufficiente di circa 5.085 parole editoriali, sei nuclei da 651-665 parole secondo il conteggio writer e tutti sopra 650 nel ...
