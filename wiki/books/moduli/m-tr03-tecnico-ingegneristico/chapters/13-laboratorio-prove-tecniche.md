@@ -31,7 +31,7 @@ last_compiled_from: ["artifacts/pipeline/VOL-10/09/moduli-m-tr03-tecnico-ingegne
 
 Studiare costruzioni, territorio, lavori pubblici e dati tecnici non basta se, nel giorno della prova, il candidato non riesce a trasformare ciò che sa in un prodotto controllabile. Una risposta può essere corretta nei contenuti e perdere forza perché non risponde al verbo della traccia, mescola osservazioni e ipotesi, usa un dato senza dichiararne la fonte o consegna uno schema che la commissione non può verificare.
 
-Questo laboratorio chiude il modulo con un passaggio pratico: dalla conoscenza alla prestazione. Non sostituisce i capitoli precedenti e non aggiunge una procedura professionale eseguibile. Allena invece il modo in cui un candidato tecnico legge la consegna, sceglie l'output, lascia evidenze, controlla il risultato e registra gli errori. La regola di fondo è semplice: la prova nasce dagli atti della procedura. Formato, criteri, durata, soglie, penalità e strumenti ammessi vanno ricavati dal bando, dagli allegati e dagli avvisi ufficiali, quando sono indicati. Le griglie di questo capitolo servono per allenarsi, non per sostituire criteri della commissione.
+Questo laboratorio chiude il modulo con un passaggio pratico: dalla conoscenza alla prestazione. Non sostituisce i capitoli precedenti e non aggiunge una procedura professionale eseguibile. Allena il candidato tecnico a leggere la consegna, scegliere l'output, lasciare evidenze, controllare il risultato e registrare gli errori. La prova prende forma dagli atti della procedura. Formato, criteri, durata, soglie, penalità e strumenti ammessi vanno ricavati dal bando, dagli allegati e dagli avvisi ufficiali, quando sono indicati. Le griglie di questo capitolo servono per allenarsi, non sostituiscono i criteri della commissione.
 
 Al termine saprai riconoscere il prodotto richiesto da una traccia tecnica; impostare quiz, risposta sintetica, scritto-grafica, mini-computo, sopralluogo, relazione, caso tecnico-amministrativo e orale; distinguere fatto, misura, ipotesi, verifica e decisione; correggere un elaborato con criteri osservabili; trasformare l'errore in un nuovo esercizio mirato.
 
@@ -59,7 +59,7 @@ La prima competenza del laboratorio è leggere la traccia prima di richiamare il
 
 La traccia va scomposta in sei elementi. Il primo è il verbo operativo. Il secondo è l'oggetto: opera, procedura, documento, anomalia, quantità, dato o decisione. Il terzo è la fase: programmazione, progettazione, esecuzione, collaudo, manutenzione, gestione del patrimonio o controllo del territorio. Il quarto è il vincolo: spazio, tempo, scala, dati forniti, dati mancanti, strumenti ammessi o istruzioni di consegna. Il quinto è il destinatario implicito: commissione, dirigente, RUP, ufficio tecnico, cittadino o gestore del bene. Il sesto è il prodotto da consegnare: risposta sintetica, schema, mini-computo, relazione, verbale, caso risolto o esposizione orale.
 
-Questa lettura impedisce due errori. Il primo è rispondere con l'indice mentale della materia: il candidato vede “manutenzione” e scrive tutto ciò che ricorda sul piano di manutenzione, anche se la traccia chiedeva di distinguere controllo, verifica e intervento. Il secondo è saltare subito alla soluzione professionale: il candidato vede una fessura, promette una diagnosi o un intervento, ma la traccia gli aveva dato solo un fatto osservato e alcuni dati mancanti.
+Questa lettura evita due errori frequenti. Si può rispondere seguendo l'indice mentale della materia: il candidato vede “manutenzione” e scrive tutto ciò che ricorda sul piano di manutenzione, anche se la traccia chiedeva di distinguere controllo, verifica e intervento. Oppure si può saltare subito alla soluzione professionale: davanti a una fessura, il candidato promette una diagnosi o un intervento, benché la traccia fornisca soltanto un fatto osservato e alcuni dati mancanti.
 
 ### Schema operativo
 
@@ -114,7 +114,7 @@ Il candidato tecnico deve allenare il passaggio dalla nozione al controllo. Nel 
 
 Questo metodo aiuta soprattutto nei bandi che combinano quesiti a risposta multipla e domande aperte. Non esiste un formato unico: ogni procedura può stabilire istruzioni proprie. Il laboratorio ti insegna a trasformare le istruzioni in allenamento: per i quiz, categorie di distrattore e motivazione breve; per lo scritto sintetico, scaletta essenziale e revisione finale.
 
-Nella correzione personale conviene distinguere errore di conoscenza ed errore di prestazione. Se sbagli perché non conosci la differenza tra manutenzione e verifica, serve tornare alla teoria. Se conosci la differenza ma la risposta non la rende visibile, serve allenare forma, ordine e chiusura. Questa distinzione impedisce di usare sempre la stessa cura, cioè rileggere il capitolo, anche quando il difetto riguarda output e controllo. In un concorso tecnico molti punti si perdono proprio così: non perché manchi ogni sapere, ma perché il sapere non diventa evidenza valutabile.
+Nella correzione personale conviene distinguere l'errore di conoscenza da quello di prestazione. Se non conosci la differenza tra manutenzione e verifica, devi tornare alla teoria. Se invece la conosci ma la risposta non la rende visibile, devi allenare forma, ordine e chiusura. La rilettura del capitolo non cura automaticamente un difetto di output o di controllo. In un concorso tecnico si perdono punti anche così: il sapere c'è, ma non emerge in una forma valutabile.
 
 ### Controllo vicino
 
@@ -215,7 +215,7 @@ L'orale trasforma la stessa materia in esposizione. Una risposta orale efficace 
 
 ### Applicazione al profilo tecnico
 
-Il candidato tecnico deve mostrare equilibrio. Una risposta troppo prudente, che rinvia tutto senza proporre nulla, non governa il caso. Una risposta troppo assertiva, che decide senza dati, è ancora più debole. La via corretta è indicare ciò che si può fare subito, ciò che richiede accertamento, quale soggetto va coinvolto e quale documento conserva la traccia.
+Il candidato tecnico deve trovare un equilibrio. Una risposta che rinvia tutto senza proporre nulla non governa il caso; una risposta assertiva che decide senza dati è ancora più debole. Occorre indicare ciò che si può fare subito, ciò che richiede accertamento, quale soggetto va coinvolto e quale documento conserva la traccia.
 
 All'orale, questa struttura protegge anche dai vuoti di memoria. Se dimentichi un dettaglio, puoi restare su principi sicuri: fatto, fonte, competenza, verifica, cautela, decisione. Non inventi articoli, soglie o tempi. Usi riferimenti leggibili soltanto quando sono pertinenti e sicuri. Chiudi sempre con una frase che risponde alla domanda, non con un elenco aperto.
 
@@ -235,7 +235,7 @@ La simulazione non è una raccolta casuale di esercizi. È una prova costruita a
 
 Una simulazione completa produce almeno tre risultati: elaborato, correzione e decisione di recupero. Il punteggio, quando esiste nella procedura, segnala un esito; da solo non spiega come migliorare. Per questo il laboratorio usa una griglia osservabile: pertinenza, correttezza, metodo, prudenza, controllo e chiarezza. Ogni criterio deve avere un'evidenza. “Da consolidare” non basta: bisogna indicare dove l'elaborato ha perso qualità e quale prova successiva riparerà quell'errore.
 
-Il Diario degli errori è il ponte tra simulazione e miglioramento. Classifica l'errore prima di correggerlo. Lettura: hai risposto a un verbo diverso. Concettuale: hai confuso controllo e verifica. Normativo: hai citato un riferimento non sicuro. Procedurale: hai saltato soggetto o documento. Numerico: hai usato unità incompatibili. Grafico: hai inserito un simbolo senza legenda. Documentale: hai concluso senza fonte. Tempo: hai sviluppato troppo l'apertura. Orale: non sei tornato alla domanda. Ogni voce utile contiene traccia, errore, causa, impatto, correzione, regola futura, esercizio mirato e data della nuova prova.
+Il Diario degli errori collega la simulazione al lavoro successivo. Prima di correggere, classifica l'errore. È un errore di lettura se hai risposto a un verbo diverso; concettuale se hai confuso controllo e verifica; normativo se hai citato un riferimento non sicuro; procedurale se hai saltato soggetto o documento. L'errore è numerico quando usi unità incompatibili, grafico quando inserisci un simbolo senza legenda, documentale quando concludi senza fonte. Rientrano infine nella gestione della prova l'apertura troppo estesa e la risposta orale che non torna alla domanda. Ogni voce utile contiene traccia, errore, causa, impatto, correzione, regola futura, esercizio mirato e data della nuova prova.
 
 ### Schema operativo
 
