@@ -1,20 +1,427 @@
 {
   "schemaVersion": 1,
   "purpose": "Manifest indipendente dei nuclei attesi, tratto dai target step 09 e dai piani step 08; non generato da matrice o indice.",
-  "attestations": [],
+  "attestations": [
+    {
+      "nucleusId": "N-TR01-01-01",
+      "evidenceQuote": "Un profilo ICT pubblico è una posizione professionale nella quale competenze tecnologiche, responsabilità organizzative e finalità dell’amministrazione si combinano per produrre o presidiare servizi. La tecnologia permette all’ente di gestire dati, procedimenti, comunicazioni, infrastrutture e servizi rivolti a utenti interni o alla collettività.",
+      "sourceLocation": "chapters/01-lavorare-ict-pa-ruoli-enti-prove.md#n-tr01-01-01",
+      "sourceRef": "sources/campione-bandi-ict-pa-vol-08-2024-2026",
+      "sourceUrls": [
+        "https://www.inpa.gov.it/"
+      ],
+      "reviewer": "codex-step15-batch-a",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12",
+      "cutoff": "2026-08-12",
+      "dossier": ".superpowers/sdd/2026-08-05-vol-08-format-2-retrofit/step15-batch-a.md"
+    },
+    {
+      "nucleusId": "N-TR01-01-02",
+      "evidenceQuote": "Il funzionario generalista collega più componenti del sistema informativo. Può analizzare esigenze, seguire applicazioni e infrastrutture, coordinare interventi, controllare forniture e dialogare con uffici non tecnici.",
+      "sourceLocation": "chapters/01-lavorare-ict-pa-ruoli-enti-prove.md#n-tr01-01-02",
+      "sourceRef": "sources/campione-bandi-ict-pa-vol-08-2024-2026",
+      "sourceUrls": [
+        "https://www.inpa.gov.it/"
+      ],
+      "reviewer": "codex-step15-batch-a",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12",
+      "cutoff": "2026-08-12",
+      "dossier": ".superpowers/sdd/2026-08-05-vol-08-format-2-retrofit/step15-batch-a.md"
+    },
+    {
+      "nucleusId": "N-TR01-01-03",
+      "evidenceQuote": "Il campione comprende comuni, provincia, università, ente regionale e agenzia digitale. Questa varietà permette di distinguere almeno quattro contesti.",
+      "sourceLocation": "chapters/01-lavorare-ict-pa-ruoli-enti-prove.md#n-tr01-01-03",
+      "sourceRef": "sources/campione-bandi-ict-pa-vol-08-2024-2026",
+      "sourceUrls": [
+        "https://www.inpa.gov.it/"
+      ],
+      "reviewer": "codex-step15-batch-a",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12",
+      "cutoff": "2026-08-12",
+      "dossier": ".superpowers/sdd/2026-08-05-vol-08-format-2-retrofit/step15-batch-a.md"
+    },
+    {
+      "nucleusId": "N-TR01-01-04",
+      "evidenceQuote": "Leggi avviso, allegati e comunicazioni ufficiali. Estrai denominazione, attività, requisiti, materie, prove e criteri. Mantieni separato ciò che permette di partecipare da ciò che sarà valutato.",
+      "sourceLocation": "chapters/01-lavorare-ict-pa-ruoli-enti-prove.md#n-tr01-01-04",
+      "sourceRef": "sources/campione-bandi-ict-pa-vol-08-2024-2026",
+      "sourceUrls": [
+        "https://www.inpa.gov.it/"
+      ],
+      "reviewer": "codex-step15-batch-a",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12",
+      "cutoff": "2026-08-12",
+      "dossier": ".superpowers/sdd/2026-08-05-vol-08-format-2-retrofit/step15-batch-a.md"
+    },
+    {
+      "nucleusId": "N-TR01-01-05",
+      "evidenceQuote": "Stabiliscono chi può partecipare. Titolo di studio ed eventuale esperienza non diventano automaticamente materie d’esame. Copiali in una sezione autonoma del decoder.",
+      "sourceLocation": "chapters/01-lavorare-ict-pa-ruoli-enti-prove.md#n-tr01-01-05",
+      "sourceRef": "sources/campione-bandi-ict-pa-vol-08-2024-2026",
+      "sourceUrls": [
+        "https://www.inpa.gov.it/"
+      ],
+      "reviewer": "codex-step15-batch-a",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12",
+      "cutoff": "2026-08-12",
+      "dossier": ".superpowers/sdd/2026-08-05-vol-08-format-2-retrofit/step15-batch-a.md"
+    },
+    {
+      "nucleusId": "N-TR01-01-06",
+      "evidenceQuote": "Compilalo dall’alto verso il basso, senza saltare direttamente alla materia preferita. Prima identifica profilo e contesto; poi separa requisiti, attività, materie e prove. Solo dopo assegna nuclei, fonti, destinazioni e stato. Infine controlla il pacchetto: per un profilo ICT ordinario il percorso minimo è il volume base più lo specialistico ICT; un’altra famiglia entra soltanto se il programma la richiede davvero.",
+      "sourceLocation": "chapters/01-lavorare-ict-pa-ruoli-enti-prove.md#n-tr01-01-06",
+      "sourceRef": "sources/campione-bandi-ict-pa-vol-08-2024-2026",
+      "sourceUrls": [
+        "https://www.inpa.gov.it/"
+      ],
+      "reviewer": "codex-step15-batch-a",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12",
+      "cutoff": "2026-08-12",
+      "dossier": ".superpowers/sdd/2026-08-05-vol-08-format-2-retrofit/step15-batch-a.md"
+    },
+    {
+      "nucleusId": "N-TR01-02-01",
+      "evidenceQuote": "Contano soprattutto le relazioni fra le parti. Una CPU rapida lavora al di sotto delle proprie possibilità se deve attendere di continuo dati provenienti da una memoria o da un dispositivo più lento. Una maggiore quantità di RAM consente di mantenere più dati e programmi in uso, ma non accelera per questo ogni elaborazione.",
+      "sourceLocation": "chapters/02-informatica-specialistica-oltre-vol-01.md#n-tr01-02-01",
+      "sourceRef": "sources/architettura-sistemi-rappresentazione-prestazioni-fonti-tecniche",
+      "sourceUrls": [
+        "https://docs.riscv.org/reference/isa/unpriv/unpriv-index.html"
+      ],
+      "reviewer": "codex-step15-batch-a",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12",
+      "cutoff": "2026-08-12",
+      "dossier": ".superpowers/sdd/2026-08-05-vol-08-format-2-retrofit/step15-batch-a.md"
+    },
+    {
+      "nucleusId": "N-TR01-02-02",
+      "evidenceQuote": "Un sistema digitale opera su configurazioni di bit. Il significato non è contenuto nei bit in sé: dipende dalla **codifica** e dall’interpretazione scelta. La stessa sequenza può rappresentare un numero, un carattere, una parte di un’immagine o un’istruzione.",
+      "sourceLocation": "chapters/02-informatica-specialistica-oltre-vol-01.md#n-tr01-02-02",
+      "sourceRef": "sources/architettura-sistemi-rappresentazione-prestazioni-fonti-tecniche",
+      "sourceUrls": [
+        "https://standards.ieee.org/ieee/754/6210/",
+        "https://www.unicode.org/reports/tr17/"
+      ],
+      "reviewer": "codex-step15-batch-a",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12",
+      "cutoff": "2026-08-12",
+      "dossier": ".superpowers/sdd/2026-08-05-vol-08-format-2-retrofit/step15-batch-a.md"
+    },
+    {
+      "nucleusId": "N-TR01-02-03",
+      "evidenceQuote": "Non esiste una memoria ideale che sia contemporaneamente vastissima, velocissima, persistente ed economica. I sistemi combinano livelli diversi.",
+      "sourceLocation": "chapters/02-informatica-specialistica-oltre-vol-01.md#n-tr01-02-03",
+      "sourceRef": "sources/architettura-sistemi-rappresentazione-prestazioni-fonti-tecniche",
+      "sourceUrls": [
+        "https://docs.kernel.org/mm/index.html"
+      ],
+      "reviewer": "codex-step15-batch-a",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12",
+      "cutoff": "2026-08-12",
+      "dossier": ".superpowers/sdd/2026-08-05-vol-08-format-2-retrofit/step15-batch-a.md"
+    },
+    {
+      "nucleusId": "N-TR01-02-04",
+      "evidenceQuote": "Le periferiche hanno tempi e modalità di funzionamento molto diversi dalla CPU. Costringere il processore a controllare senza sosta se un dispositivo ha terminato sprecherebbe capacità di calcolo.",
+      "sourceLocation": "chapters/02-informatica-specialistica-oltre-vol-01.md#n-tr01-02-04",
+      "sourceRef": "sources/architettura-sistemi-rappresentazione-prestazioni-fonti-tecniche",
+      "sourceUrls": [
+        "https://docs.kernel.org/core-api/genericirq.html"
+      ],
+      "reviewer": "codex-step15-batch-a",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12",
+      "cutoff": "2026-08-12",
+      "dossier": ".superpowers/sdd/2026-08-05-vol-08-format-2-retrofit/step15-batch-a.md"
+    },
+    {
+      "nucleusId": "N-TR01-02-05",
+      "evidenceQuote": "Una minore latenza della singola operazione non garantisce il massimo throughput complessivo. Può accadere anche l'opposto: il sistema elabora molte richieste al secondo, ma una richiesta specifica riceve risposta troppo tardi.",
+      "sourceLocation": "chapters/02-informatica-specialistica-oltre-vol-01.md#n-tr01-02-05",
+      "sourceRef": "sources/architettura-sistemi-rappresentazione-prestazioni-fonti-tecniche",
+      "sourceUrls": [
+        "https://www.spec.org/cpu2026/Docs/result-fields.html"
+      ],
+      "reviewer": "codex-step15-batch-a",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12",
+      "cutoff": "2026-08-12",
+      "dossier": ".superpowers/sdd/2026-08-05-vol-08-format-2-retrofit/step15-batch-a.md"
+    },
+    {
+      "nucleusId": "N-TR01-02-06",
+      "evidenceQuote": "Il sistema operativo offre ai programmi un ambiente di esecuzione e governa l’accesso alle risorse. Non è soltanto l’interfaccia grafica vista dall’utente.",
+      "sourceLocation": "chapters/02-informatica-specialistica-oltre-vol-01.md#n-tr01-02-06",
+      "sourceRef": "sources/architettura-sistemi-rappresentazione-prestazioni-fonti-tecniche",
+      "sourceUrls": [
+        "https://docs.kernel.org/core-api/index.html",
+        "https://docs.kernel.org/mm/index.html"
+      ],
+      "reviewer": "codex-step15-batch-a",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12",
+      "cutoff": "2026-08-12",
+      "dossier": ".superpowers/sdd/2026-08-05-vol-08-format-2-retrofit/step15-batch-a.md"
+    },
+    {
+      "nucleusId": "N-TR01-03-01",
+      "evidenceQuote": "Un **problema computazionale** descrive una relazione fra dati in ingresso e risultato atteso. Un’istanza è un caso concreto del problema. “Trovare una pratica dato un identificativo” è il problema; cercare la pratica `A-1042` è un’istanza.",
+      "sourceLocation": "chapters/03-programmazione-algoritmi-strutture-dati.md#n-tr01-03-01",
+      "sourceRef": "sources/programmazione-algoritmi-strutture-dati-fonti-tecniche",
+      "sourceUrls": [
+        "https://www.nist.gov/publications/dictionary-algorithms-and-data-structures"
+      ],
+      "reviewer": "codex-step15-batch-a",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12",
+      "cutoff": "2026-08-12",
+      "dossier": ".superpowers/sdd/2026-08-05-vol-08-format-2-retrofit/step15-batch-a.md"
+    },
+    {
+      "nucleusId": "N-TR01-03-02",
+      "evidenceQuote": "I linguaggi reali possono sostenere più paradigmi. Un singolo esempio non basta quindi ad assegnare un linguaggio in modo esclusivo a una categoria.",
+      "sourceLocation": "chapters/03-programmazione-algoritmi-strutture-dati.md#n-tr01-03-02",
+      "sourceRef": "sources/programmazione-algoritmi-strutture-dati-fonti-tecniche",
+      "sourceUrls": [
+        "https://docs.python.org/3/tutorial/"
+      ],
+      "reviewer": "codex-step15-batch-a",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12",
+      "cutoff": "2026-08-12",
+      "dossier": ".superpowers/sdd/2026-08-05-vol-08-format-2-retrofit/step15-batch-a.md"
+    },
+    {
+      "nucleusId": "N-TR01-03-03",
+      "evidenceQuote": "Una **funzione** incapsula un calcolo e restituisce un valore. Una **procedura**, nel lessico didattico, esegue un’azione senza che il valore restituito sia il suo scopo principale. I linguaggi adottano terminologie diverse.",
+      "sourceLocation": "chapters/03-programmazione-algoritmi-strutture-dati.md#n-tr01-03-03",
+      "sourceRef": "sources/programmazione-algoritmi-strutture-dati-fonti-tecniche",
+      "sourceUrls": [
+        "https://docs.python.org/3/tutorial/controlflow.html#defining-functions"
+      ],
+      "reviewer": "codex-step15-batch-a",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12",
+      "cutoff": "2026-08-12",
+      "dossier": ".superpowers/sdd/2026-08-05-vol-08-format-2-retrofit/step15-batch-a.md"
+    },
+    {
+      "nucleusId": "N-TR01-03-04",
+      "evidenceQuote": "Una **struttura dati** organizza valori e relazioni per rendere possibili determinate operazioni. La scelta va rapportata alle esigenze di accesso, ricerca, inserimento, cancellazione, ordine e memoria.",
+      "sourceLocation": "chapters/03-programmazione-algoritmi-strutture-dati.md#n-tr01-03-04",
+      "sourceRef": "sources/programmazione-algoritmi-strutture-dati-fonti-tecniche",
+      "sourceUrls": [
+        "https://www.nist.gov/publications/dictionary-algorithms-and-data-structures"
+      ],
+      "reviewer": "codex-step15-batch-a",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12",
+      "cutoff": "2026-08-12",
+      "dossier": ".superpowers/sdd/2026-08-05-vol-08-format-2-retrofit/step15-batch-a.md"
+    },
+    {
+      "nucleusId": "N-TR01-03-05",
+      "evidenceQuote": "Un **albero** descrive una struttura gerarchica senza cicli nel modello radicato. Ogni nodo, tranne la radice, ha un genitore. Alberi di ricerca e heap aggiungono proprietà specifiche.",
+      "sourceLocation": "chapters/03-programmazione-algoritmi-strutture-dati.md#n-tr01-03-05",
+      "sourceRef": "sources/programmazione-algoritmi-strutture-dati-fonti-tecniche",
+      "sourceUrls": [
+        "https://www.nist.gov/dads/HTML/binarySearch.html",
+        "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/"
+      ],
+      "reviewer": "codex-step15-batch-a",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12",
+      "cutoff": "2026-08-12",
+      "dossier": ".superpowers/sdd/2026-08-05-vol-08-format-2-retrofit/step15-batch-a.md"
+    },
+    {
+      "nucleusId": "N-TR01-03-06",
+      "evidenceQuote": "La **complessità temporale** descrive come cresce il lavoro al crescere della dimensione `n` dell’input. La **complessità spaziale** descrive la crescita della memoria aggiuntiva.",
+      "sourceLocation": "chapters/03-programmazione-algoritmi-strutture-dati.md#n-tr01-03-06",
+      "sourceRef": "sources/programmazione-algoritmi-strutture-dati-fonti-tecniche",
+      "sourceUrls": [
+        "https://www.nist.gov/dads/HTML/bigOnotation.html"
+      ],
+      "reviewer": "codex-step15-batch-a",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12",
+      "cutoff": "2026-08-12",
+      "dossier": ".superpowers/sdd/2026-08-05-vol-08-format-2-retrofit/step15-batch-a.md"
+    },
+    {
+      "nucleusId": "N-TR01-04-01",
+      "evidenceQuote": "Un **modello dei dati** stabilisce come rappresentare informazioni, relazioni, vincoli e operazioni. Lo **schema** descrive la struttura prevista; l’**istanza** è l’insieme dei dati presenti in un determinato momento.",
+      "sourceLocation": "chapters/04-basi-dati-sql-nosql-qualita-dato.md#n-tr01-04-01",
+      "sourceRef": "sources/basi-dati-sql-nosql-qualita-fonti-tecniche",
+      "sourceUrls": [
+        "https://www.postgresql.org/docs/current/ddl.html"
+      ],
+      "reviewer": "codex-step15-batch-a",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12",
+      "cutoff": "2026-08-12",
+      "dossier": ".superpowers/sdd/2026-08-05-vol-08-format-2-retrofit/step15-batch-a.md"
+    },
+    {
+      "nucleusId": "N-TR01-04-02",
+      "evidenceQuote": "La **normalizzazione** organizza le relazioni per ridurre dipendenze indesiderate e anomalie, preservando i collegamenti necessari.",
+      "sourceLocation": "chapters/04-basi-dati-sql-nosql-qualita-dato.md#n-tr01-04-02",
+      "sourceRef": "sources/basi-dati-sql-nosql-qualita-fonti-tecniche",
+      "sourceUrls": [
+        "https://www.postgresql.org/docs/current/ddl-constraints.html"
+      ],
+      "reviewer": "codex-step15-batch-a",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12",
+      "cutoff": "2026-08-12",
+      "dossier": ".superpowers/sdd/2026-08-05-vol-08-format-2-retrofit/step15-batch-a.md"
+    },
+    {
+      "nucleusId": "N-TR01-04-03",
+      "evidenceQuote": "SQL è un linguaggio dichiarativo: la query specifica il risultato richiesto, mentre il DBMS sceglie un piano di esecuzione compatibile.",
+      "sourceLocation": "chapters/04-basi-dati-sql-nosql-qualita-dato.md#n-tr01-04-03",
+      "sourceRef": "sources/basi-dati-sql-nosql-qualita-fonti-tecniche",
+      "sourceUrls": [
+        "https://www.postgresql.org/docs/current/tutorial.html"
+      ],
+      "reviewer": "codex-step15-batch-a",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12",
+      "cutoff": "2026-08-12",
+      "dossier": ".superpowers/sdd/2026-08-05-vol-08-format-2-retrofit/step15-batch-a.md"
+    },
+    {
+      "nucleusId": "N-TR01-04-04",
+      "evidenceQuote": "Una **transazione** raggruppa operazioni che devono essere trattate come un’unità. Se l’archiviazione di una pratica richiede sia l’aggiornamento dello stato sia la registrazione di un evento, non è accettabile salvare una sola delle due modifiche.",
+      "sourceLocation": "chapters/04-basi-dati-sql-nosql-qualita-dato.md#n-tr01-04-04",
+      "sourceRef": "sources/basi-dati-sql-nosql-qualita-fonti-tecniche",
+      "sourceUrls": [
+        "https://www.postgresql.org/docs/current/transaction-iso.html",
+        "https://www.postgresql.org/docs/current/indexes.html"
+      ],
+      "reviewer": "codex-step15-batch-a",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12",
+      "cutoff": "2026-08-12",
+      "dossier": ".superpowers/sdd/2026-08-05-vol-08-format-2-retrofit/step15-batch-a.md"
+    },
+    {
+      "nucleusId": "N-TR01-04-05",
+      "evidenceQuote": "Nel modello documentale, dati collegati possono essere incorporati nello stesso documento oppure referenziati. L’incorporamento riduce alcune letture multiple e può rendere atomico l’aggiornamento di un aggregato, ma può anche duplicare informazioni o produrre documenti difficili da gestire. I pattern di accesso e aggiornamento determinano quale soluzione è adatta.",
+      "sourceLocation": "chapters/04-basi-dati-sql-nosql-qualita-dato.md#n-tr01-04-05",
+      "sourceRef": "sources/basi-dati-sql-nosql-qualita-fonti-tecniche",
+      "sourceUrls": [
+        "https://www.mongodb.com/docs/manual/data-modeling/"
+      ],
+      "reviewer": "codex-step15-batch-a",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12",
+      "cutoff": "2026-08-12",
+      "dossier": ".superpowers/sdd/2026-08-05-vol-08-format-2-retrofit/step15-batch-a.md"
+    },
+    {
+      "nucleusId": "N-TR01-04-06",
+      "evidenceQuote": "Un dato è di qualità quando è adeguato allo scopo dichiarato. Non esiste una qualità astratta e perfetta: occorrono dimensioni, regole, metriche e soglie motivate.",
+      "sourceLocation": "chapters/04-basi-dati-sql-nosql-qualita-dato.md#n-tr01-04-06",
+      "sourceRef": "sources/basi-dati-sql-nosql-qualita-fonti-tecniche",
+      "sourceUrls": [
+        "https://interoperable-europe.ec.europa.eu/collection/elise-european-location-interoperability-solutions-e-government/solution/eulf-blueprint/recommendation-13",
+        "https://www.postgresql.org/docs/current/ddl-priv.html"
+      ],
+      "reviewer": "codex-step15-batch-a",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12",
+      "cutoff": "2026-08-12",
+      "dossier": ".superpowers/sdd/2026-08-05-vol-08-format-2-retrofit/step15-batch-a.md"
+    }
+  ],
   "chapters": [
-    { "number": "01", "file": "01-lavorare-ict-pa-ruoli-enti-prove.md", "nuclei": 6, "sourceRef": "sources/campione-bandi-ict-pa-vol-08-2024-2026" },
-    { "number": "02", "file": "02-informatica-specialistica-oltre-vol-01.md", "nuclei": 6, "sourceRef": "sources/architettura-sistemi-rappresentazione-prestazioni-fonti-tecniche" },
-    { "number": "03", "file": "03-programmazione-algoritmi-strutture-dati.md", "nuclei": 6, "sourceRef": "sources/programmazione-algoritmi-strutture-dati-fonti-tecniche" },
-    { "number": "04", "file": "04-basi-dati-sql-nosql-qualita-dato.md", "nuclei": 6, "sourceRef": "sources/basi-dati-sql-nosql-qualita-fonti-tecniche" },
-    { "number": "05", "file": "05-reti-sistemi-operativi-infrastrutture.md", "nuclei": 6, "sourceRef": "sources/reti-sistemi-infrastrutture-fonti-tecniche" },
-    { "number": "06", "file": "06-ingegneria-software-api-interoperabilita-pa.md", "nuclei": 6, "sourceRef": "sources/ingegneria-software-api-interoperabilita-fonti-tecniche" },
-    { "number": "07", "file": "07-cloud-pa-virtualizzazione-container-devops.md", "nuclei": 6, "sourceRef": "sources/cloud-virtualizzazione-container-devops-continuita-fonti-primarie" },
-    { "number": "08", "file": "08-cybersecurity-rischio-controlli-vulnerabilita.md", "nuclei": 6, "sourceRef": "sources/cyber-risk-vulnerabilita-secure-software-supply-chain-fonti-primarie" },
-    { "number": "09", "file": "09-iam-crittografia-logging-incident-response.md", "nuclei": 6, "sourceRef": "sources/iam-crittografia-logging-incident-response-fonti-primarie" },
-    { "number": "10", "file": "10-data-governance-open-data-interoperabilita.md", "nuclei": 7, "sourceRef": "sources/data-governance-open-data-interoperabilita-fonti-primarie" },
-    { "number": "11", "file": "11-ai-ml-pa-rischi-compliance.md", "nuclei": 7, "sourceRef": "sources/ai-ml-governance-rischi-compliance-fonti-primarie" },
-    { "number": "12", "file": "12-procurement-ict-gestione-fornitori.md", "nuclei": 7, "sourceRef": "sources/procurement-ict-sla-vendor-management-fonti-consolidate" },
-    { "number": "13", "file": "13-laboratorio-prove-ict.md", "nuclei": 7, "sourceRef": "sources/simulazioni-concorsuali-metodo-bando" }
+    {
+      "number": "01",
+      "file": "01-lavorare-ict-pa-ruoli-enti-prove.md",
+      "nuclei": 6,
+      "sourceRef": "sources/campione-bandi-ict-pa-vol-08-2024-2026"
+    },
+    {
+      "number": "02",
+      "file": "02-informatica-specialistica-oltre-vol-01.md",
+      "nuclei": 6,
+      "sourceRef": "sources/architettura-sistemi-rappresentazione-prestazioni-fonti-tecniche"
+    },
+    {
+      "number": "03",
+      "file": "03-programmazione-algoritmi-strutture-dati.md",
+      "nuclei": 6,
+      "sourceRef": "sources/programmazione-algoritmi-strutture-dati-fonti-tecniche"
+    },
+    {
+      "number": "04",
+      "file": "04-basi-dati-sql-nosql-qualita-dato.md",
+      "nuclei": 6,
+      "sourceRef": "sources/basi-dati-sql-nosql-qualita-fonti-tecniche"
+    },
+    {
+      "number": "05",
+      "file": "05-reti-sistemi-operativi-infrastrutture.md",
+      "nuclei": 6,
+      "sourceRef": "sources/reti-sistemi-infrastrutture-fonti-tecniche"
+    },
+    {
+      "number": "06",
+      "file": "06-ingegneria-software-api-interoperabilita-pa.md",
+      "nuclei": 6,
+      "sourceRef": "sources/ingegneria-software-api-interoperabilita-fonti-tecniche"
+    },
+    {
+      "number": "07",
+      "file": "07-cloud-pa-virtualizzazione-container-devops.md",
+      "nuclei": 6,
+      "sourceRef": "sources/cloud-virtualizzazione-container-devops-continuita-fonti-primarie"
+    },
+    {
+      "number": "08",
+      "file": "08-cybersecurity-rischio-controlli-vulnerabilita.md",
+      "nuclei": 6,
+      "sourceRef": "sources/cyber-risk-vulnerabilita-secure-software-supply-chain-fonti-primarie"
+    },
+    {
+      "number": "09",
+      "file": "09-iam-crittografia-logging-incident-response.md",
+      "nuclei": 6,
+      "sourceRef": "sources/iam-crittografia-logging-incident-response-fonti-primarie"
+    },
+    {
+      "number": "10",
+      "file": "10-data-governance-open-data-interoperabilita.md",
+      "nuclei": 7,
+      "sourceRef": "sources/data-governance-open-data-interoperabilita-fonti-primarie"
+    },
+    {
+      "number": "11",
+      "file": "11-ai-ml-pa-rischi-compliance.md",
+      "nuclei": 7,
+      "sourceRef": "sources/ai-ml-governance-rischi-compliance-fonti-primarie"
+    },
+    {
+      "number": "12",
+      "file": "12-procurement-ict-gestione-fornitori.md",
+      "nuclei": 7,
+      "sourceRef": "sources/procurement-ict-sla-vendor-management-fonti-consolidate"
+    },
+    {
+      "number": "13",
+      "file": "13-laboratorio-prove-ict.md",
+      "nuclei": 7,
+      "sourceRef": "sources/simulazioni-concorsuali-metodo-bando"
+    }
   ]
 }
