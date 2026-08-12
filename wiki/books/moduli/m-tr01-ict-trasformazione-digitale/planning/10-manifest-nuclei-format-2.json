@@ -1213,5 +1213,663 @@
       "nuclei": 7,
       "sourceRef": "sources/simulazioni-concorsuali-metodo-bando"
     }
+  ],
+  "verificationAttestations": [
+    {
+      "nucleusId": "N-TR01-01-01",
+      "target": "Quiz 2",
+      "sourceLocation": "chapters/01-lavorare-ict-pa-ruoli-enti-prove.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-01-02",
+      "target": "Quiz 2",
+      "sourceLocation": "chapters/01-lavorare-ict-pa-ruoli-enti-prove.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-01-03",
+      "target": "Micro-verifica: leggere il contesto",
+      "sourceLocation": "chapters/01-lavorare-ict-pa-ruoli-enti-prove.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-01-04",
+      "target": "Quiz 4",
+      "sourceLocation": "chapters/01-lavorare-ict-pa-ruoli-enti-prove.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-01-05",
+      "target": "Quiz 1",
+      "sourceLocation": "chapters/01-lavorare-ict-pa-ruoli-enti-prove.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-01-06",
+      "target": "Caso ragionato",
+      "sourceLocation": "chapters/01-lavorare-ict-pa-ruoli-enti-prove.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-02-01",
+      "target": "Mini-caso. Una CPU più rapida non migliora sensibilmente un'elaborazione.",
+      "sourceLocation": "chapters/02-informatica-specialistica-oltre-vol-01.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-02-02",
+      "target": "Quante configurazioni distingue?",
+      "sourceLocation": "chapters/02-informatica-specialistica-oltre-vol-01.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-02-03",
+      "target": "Quiz 2",
+      "sourceLocation": "chapters/02-informatica-specialistica-oltre-vol-01.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-02-04",
+      "target": "Quiz 3",
+      "sourceLocation": "chapters/02-informatica-specialistica-oltre-vol-01.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-02-05",
+      "target": "Quiz 4",
+      "sourceLocation": "chapters/02-informatica-specialistica-oltre-vol-01.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-02-06",
+      "target": "Quiz 5",
+      "sourceLocation": "chapters/02-informatica-specialistica-oltre-vol-01.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-03-01",
+      "target": "Esercizio 1",
+      "sourceLocation": "chapters/03-programmazione-algoritmi-strutture-dati.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-03-02",
+      "target": "Micro-verifica: controllo del flusso",
+      "sourceLocation": "chapters/03-programmazione-algoritmi-strutture-dati.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-03-03",
+      "target": "Quiz 4",
+      "sourceLocation": "chapters/03-programmazione-algoritmi-strutture-dati.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-03-04",
+      "target": "Quiz 3",
+      "sourceLocation": "chapters/03-programmazione-algoritmi-strutture-dati.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-03-05",
+      "target": "Quiz 2",
+      "sourceLocation": "chapters/03-programmazione-algoritmi-strutture-dati.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-03-06",
+      "target": "Quiz 5",
+      "sourceLocation": "chapters/03-programmazione-algoritmi-strutture-dati.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-04-01",
+      "target": "Esercizio 1 — Schema",
+      "sourceLocation": "chapters/04-basi-dati-sql-nosql-qualita-dato.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-04-02",
+      "target": "Quiz 3",
+      "sourceLocation": "chapters/04-basi-dati-sql-nosql-qualita-dato.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-04-03",
+      "target": "Esercizio 2 — Query",
+      "sourceLocation": "chapters/04-basi-dati-sql-nosql-qualita-dato.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-04-04",
+      "target": "Quiz 5",
+      "sourceLocation": "chapters/04-basi-dati-sql-nosql-qualita-dato.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-04-05",
+      "target": "Quiz 6",
+      "sourceLocation": "chapters/04-basi-dati-sql-nosql-qualita-dato.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-04-06",
+      "target": "Caso guidato: diagnosticare una base dati delle pratiche",
+      "sourceLocation": "chapters/04-basi-dati-sql-nosql-qualita-dato.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-05-01",
+      "target": "Micro-verifica: livelli e rete locale",
+      "sourceLocation": "chapters/05-reti-sistemi-operativi-infrastrutture.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-05-02",
+      "target": "Esercizio 1 — Sottorete",
+      "sourceLocation": "chapters/05-reti-sistemi-operativi-infrastrutture.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-05-03",
+      "target": "Quiz 3",
+      "sourceLocation": "chapters/05-reti-sistemi-operativi-infrastrutture.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-05-04",
+      "target": "Esercizio 3 — Sistema",
+      "sourceLocation": "chapters/05-reti-sistemi-operativi-infrastrutture.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-05-05",
+      "target": "Quiz 5",
+      "sourceLocation": "chapters/05-reti-sistemi-operativi-infrastrutture.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-05-06",
+      "target": "Quiz 6",
+      "sourceLocation": "chapters/05-reti-sistemi-operativi-infrastrutture.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-06-01",
+      "target": "Esercizio 1 — Requisito e test",
+      "sourceLocation": "chapters/06-ingegneria-software-api-interoperabilita-pa.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-06-02",
+      "target": "Quiz 3",
+      "sourceLocation": "chapters/06-ingegneria-software-api-interoperabilita-pa.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-06-03",
+      "target": "Quiz 1",
+      "sourceLocation": "chapters/06-ingegneria-software-api-interoperabilita-pa.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-06-04",
+      "target": "Esercizio 2 — Compatibilità",
+      "sourceLocation": "chapters/06-ingegneria-software-api-interoperabilita-pa.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-06-05",
+      "target": "Esercizio 2 — Compatibilità",
+      "sourceLocation": "chapters/06-ingegneria-software-api-interoperabilita-pa.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-06-06",
+      "target": "Esercizio 3 — Caso e-service",
+      "sourceLocation": "chapters/06-ingegneria-software-api-interoperabilita-pa.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-07-01",
+      "target": "Quiz 1 — Responsabilità in SaaS",
+      "sourceLocation": "chapters/07-cloud-pa-virtualizzazione-container-devops.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-07-02",
+      "target": "Quiz 2 — Container e VM",
+      "sourceLocation": "chapters/07-cloud-pa-virtualizzazione-container-devops.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-07-03",
+      "target": "Caso ragionato: migrazione di un servizio comunale",
+      "sourceLocation": "chapters/07-cloud-pa-virtualizzazione-container-devops.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-07-04",
+      "target": "Quiz 3 — Continuous delivery",
+      "sourceLocation": "chapters/07-cloud-pa-virtualizzazione-container-devops.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-07-05",
+      "target": "Quiz 4 — Segnali di osservabilità",
+      "sourceLocation": "chapters/07-cloud-pa-virtualizzazione-container-devops.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-07-06",
+      "target": "Quiz 7 — Repliche e continuità",
+      "sourceLocation": "chapters/07-cloud-pa-virtualizzazione-container-devops.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-08-01",
+      "target": "Caso guidato: portale per le domande",
+      "sourceLocation": "chapters/08-cybersecurity-rischio-controlli-vulnerabilita.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-08-02",
+      "target": "Costruisci uno scenario distinguendo minaccia, vulnerabilità, evento e impatto.",
+      "sourceLocation": "chapters/08-cybersecurity-rischio-controlli-vulnerabilita.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-08-03",
+      "target": "Laboratorio: costruire una risk matrix",
+      "sourceLocation": "chapters/08-cybersecurity-rischio-controlli-vulnerabilita.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-08-04",
+      "target": "Indica un controllo preventivo, uno detective e uno compensativo per lo stesso scenario.",
+      "sourceLocation": "chapters/08-cybersecurity-rischio-controlli-vulnerabilita.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-08-05",
+      "target": "Micro-verifica: confine di fiducia",
+      "sourceLocation": "chapters/08-cybersecurity-rischio-controlli-vulnerabilita.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-08-06",
+      "target": "Quale tecnica analizza un’applicazione in esecuzione?",
+      "sourceLocation": "chapters/08-cybersecurity-rischio-controlli-vulnerabilita.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-09-01",
+      "target": "Micro-verifica: cambio di ruolo",
+      "sourceLocation": "chapters/09-iam-crittografia-logging-incident-response.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-09-02",
+      "target": "Un login riuscito dimostra automaticamente che l'utente può approvare una pratica?",
+      "sourceLocation": "chapters/09-iam-crittografia-logging-incident-response.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-09-03",
+      "target": "Hash e cifratura sono equivalenti?",
+      "sourceLocation": "chapters/09-iam-crittografia-logging-incident-response.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-09-04",
+      "target": "Un alert equivale a un incidente?",
+      "sourceLocation": "chapters/09-iam-crittografia-logging-incident-response.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-09-05",
+      "target": "Caso guidato: account privilegiato compromesso",
+      "sourceLocation": "chapters/09-iam-crittografia-logging-incident-response.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-09-06",
+      "target": "Una notifica cyber coincide sempre con un data breach?",
+      "sourceLocation": "chapters/09-iam-crittografia-logging-incident-response.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-10-01",
+      "target": "Quiz 1. La governance del dato coincide con l'amministrazione tecnica del database?",
+      "sourceLocation": "chapters/10-data-governance-open-data-interoperabilita.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-10-02",
+      "target": "Quiz 2. Il data steward può sostituire il responsabile di processo nella scelta di un nuovo uso dei dati?",
+      "sourceLocation": "chapters/10-data-governance-open-data-interoperabilita.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-10-03",
+      "target": "Quiz 3. Il lineage serve solo a documentare una pipeline tecnica?",
+      "sourceLocation": "chapters/10-data-governance-open-data-interoperabilita.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-10-04",
+      "target": "Quiz 4. Catalogare una risorsa significa pubblicarne i record?",
+      "sourceLocation": "chapters/10-data-governance-open-data-interoperabilita.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-10-05",
+      "target": "Quiz 5. Una percentuale di record conformi è già una regola di qualità completa?",
+      "sourceLocation": "chapters/10-data-governance-open-data-interoperabilita.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-10-06",
+      "target": "Quiz 6. Un CSV disponibile sul sito è sempre un open data riutilizzabile?",
+      "sourceLocation": "chapters/10-data-governance-open-data-interoperabilita.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-10-07",
+      "target": "Laboratorio: inventario e scheda dataset",
+      "sourceLocation": "chapters/10-data-governance-open-data-interoperabilita.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-11-01",
+      "target": "Quiz 1 — Qual è la differenza più utile tra sistema AI e modello?",
+      "sourceLocation": "chapters/11-ai-ml-pa-rischi-compliance.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-11-02",
+      "target": "Quiz 2 — Perché il test set non va usato ripetutamente per regolare il modello?",
+      "sourceLocation": "chapters/11-ai-ml-pa-rischi-compliance.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-11-03",
+      "target": "Caso ragionato — Priorità alle segnalazioni di manutenzione",
+      "sourceLocation": "chapters/11-ai-ml-pa-rischi-compliance.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-11-04",
+      "target": "Quiz 3 — Un'accuracy elevata prova che il sistema intercetta bene le urgenze?",
+      "sourceLocation": "chapters/11-ai-ml-pa-rischi-compliance.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-11-05",
+      "target": "Quiz 5 — Quando il controllo umano è effettivo?",
+      "sourceLocation": "chapters/11-ai-ml-pa-rischi-compliance.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-11-06",
+      "target": "Laboratorio compilabile: griglia di rischio del caso AI",
+      "sourceLocation": "chapters/11-ai-ml-pa-rischi-compliance.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-11-07",
+      "target": "Caso ragionato — Priorità alle segnalazioni di manutenzione",
+      "sourceLocation": "chapters/11-ai-ml-pa-rischi-compliance.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-12-01",
+      "target": "Quiz 1 — Dal bisogno alla scelta",
+      "sourceLocation": "chapters/12-procurement-ict-gestione-fornitori.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-12-02",
+      "target": "Quiz 2 — Requisito e accettazione",
+      "sourceLocation": "chapters/12-procurement-ict-gestione-fornitori.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-12-03",
+      "target": "Quiz 3 — SLA, SLI e KPI",
+      "sourceLocation": "chapters/12-procurement-ict-gestione-fornitori.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-12-04",
+      "target": "Quiz 4 — Governo dell'esecuzione",
+      "sourceLocation": "chapters/12-procurement-ict-gestione-fornitori.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-12-05",
+      "target": "Quiz 5 — Sicurezza e filiera",
+      "sourceLocation": "chapters/12-procurement-ict-gestione-fornitori.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-12-06",
+      "target": "Il fornitore propone una nuova versione il giorno prima del rilascio. Quali evidenze chiedere?",
+      "sourceLocation": "chapters/12-procurement-ict-gestione-fornitori.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-12-07",
+      "target": "Quiz 6 — Portabilità ed uscita",
+      "sourceLocation": "chapters/12-procurement-ict-gestione-fornitori.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-13-01",
+      "target": "Leggi la traccia",
+      "sourceLocation": "chapters/13-laboratorio-prove-ict.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-13-02",
+      "target": "Quiz 2",
+      "sourceLocation": "chapters/13-laboratorio-prove-ict.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-13-03",
+      "target": "Quiz 3",
+      "sourceLocation": "chapters/13-laboratorio-prove-ict.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-13-04",
+      "target": "Elaborato",
+      "sourceLocation": "chapters/13-laboratorio-prove-ict.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-13-05",
+      "target": "Quiz 5",
+      "sourceLocation": "chapters/13-laboratorio-prove-ict.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-13-06",
+      "target": "Caso autonomo: indisponibilità selettiva dopo un rilascio",
+      "sourceLocation": "chapters/13-laboratorio-prove-ict.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-13-07",
+      "target": "Caso autonomo: indisponibilità selettiva dopo un rilascio",
+      "sourceLocation": "chapters/13-laboratorio-prove-ict.md#apparato-di-verifica-dei-nuclei",
+      "reviewer": "codex-step15-apparatus",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    }
   ]
 }

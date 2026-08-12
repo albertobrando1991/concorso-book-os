@@ -92,7 +92,13 @@ describe("audit-vol08-format2-nuclei", () => {
   it("rejects an impossible numeric Q/C/E distribution without an atomic mapping", () => {
     const root = fixtureRoot()
     const matrix = join(root, moduleRelative, "planning", "02-matrice-copertura-didattica.md")
-    writeFileSync(matrix, readFileSync(matrix, "utf8").replace("open: attivita Q/C/E non attribuita al nucleo; review step 15", "Q:99 C:99 E:99"), "utf8")
+    const manifest = JSON.parse(
+      readFileSync(join(root, moduleRelative, "planning", "10-manifest-nuclei-format-2.json"), "utf8")
+    )
+    const target = manifest.verificationAttestations.find(
+      (attestation: { nucleusId: string; target: string }) => attestation.nucleusId === "N-TR01-01-01"
+    ).target
+    writeFileSync(matrix, readFileSync(matrix, "utf8").replaceAll(`verified: ${target}`, "Q:99 C:99 E:99"), "utf8")
     expect(audit(root).status).not.toBe(0)
   })
   it("rejects nonsense verified evidence even when it is long enough", () => {
@@ -136,7 +142,8 @@ describe("audit-vol08-format2-nuclei", () => {
     const matrix = join(root, moduleRelative, "planning", "02-matrice-copertura-didattica.md")
     const quote = "Questa frase descrive una decisione importante per il servizio pubblico."
     writeFileSync(chapter, readFileSync(chapter, "utf8").replace("## N-TR01-01-02", `${quote}\n\n## N-TR01-01-02`), "utf8")
-    writeFileSync(matrix, readFileSync(matrix, "utf8").replace(/verified: [^|]+/, `verified: ${quote}`), "utf8")
+    const manifest = JSON.parse(readFileSync(join(root, moduleRelative, "planning", "10-manifest-nuclei-format-2.json"), "utf8"))
+    writeFileSync(matrix, readFileSync(matrix, "utf8").replace(`verified: ${manifest.attestations[0].evidenceQuote}`, `verified: ${quote}`), "utf8")
     expect(audit(root).status).not.toBe(0)
   })
 
@@ -181,6 +188,17 @@ describe("audit-vol08-format2-nuclei", () => {
     expect(ledger).toContain("open: attestazione strutturata richiesta allo step 15")
     expect(ledger).toContain("| parziale |")
   })
+  it("accepts a verified apparatus target with a matching verification attestation", () => {
+    const root = fixtureRoot()
+    const matrix = join(root, moduleRelative, "planning", "02-matrice-copertura-didattica.md")
+    const manifestPath = join(root, moduleRelative, "planning", "10-manifest-nuclei-format-2.json")
+    writeFileSync(matrix, readFileSync(matrix, "utf8").replace("open: attivita Q/C/E non attribuita al nucleo; review step 15", "verified: Quiz 2"), "utf8")
+    const manifest = JSON.parse(readFileSync(manifestPath, "utf8"))
+    manifest.verificationAttestations = manifest.verificationAttestations.map((item: any) => item.nucleusId === "N-TR01-01-01" ? { ...item, target: "Quiz 2" } : item)
+    writeFileSync(manifestPath, JSON.stringify(manifest, null, 2), "utf8")
+    expect(audit(root).status).toBe(0)
+  })
+
   it("accepts the baseline atomic verification mappings", () => {
     expect(audit(fixtureRoot()).status).toBe(0)
   })

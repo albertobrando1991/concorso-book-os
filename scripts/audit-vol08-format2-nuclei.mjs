@@ -258,14 +258,22 @@ function validateVerifiedAttestations(block) {
     const section = chapter?.sections.get(id) || ''
     for (const match of line.matchAll(/verified:\s*([^|]+)/g)) {
       const quote = match[1].trim()
-      const record = (manifest.attestations || []).find((item) => item.nucleusId === id && item.evidenceQuote === quote)
-      if (!record || !validAttestation(record, chapter, section)) failures.push(id)
+      const verificationRecord = (manifest.verificationAttestations || []).find((item) => item.nucleusId === id && item.target === quote)
+      if (verificationRecord) {
+        if (!validVerificationAttestation(verificationRecord, chapter)) failures.push(id)
+      } else {
+        const record = (manifest.attestations || []).find((item) => item.nucleusId === id && item.evidenceQuote === quote)
+        if (!record || !validAttestation(record, chapter, section)) failures.push(id)
+      }
     }
   }
   return [...new Set(failures)]
 }
 function validAttestation(record, chapter, section) {
   return Boolean(record.evidenceQuote && record.sourceLocation && typeof record.reviewer === 'string' && record.reviewer.trim().length > 0 && /^step-(?:13|14|15|16|17|18)$/.test(record.gateId || '') && record.sourceLocation === `chapters/${chapter.file}#${record.nucleusId.toLowerCase()}` && section.includes(record.evidenceQuote))
+}
+function validVerificationAttestation(record, chapter) {
+  return Boolean(record.target && typeof record.reviewer === 'string' && record.reviewer.trim().length > 0 && record.gateId === 'step-15' && record.sourceLocation === `chapters/${chapter.file}#apparato-di-verifica-dei-nuclei` && chapter.apparatus.rows.some((row) => row.id === record.nucleusId && normalizeApparatus(row.target) === normalizeApparatus(record.target)))
 }
 
 function normalizeNucleusId(value) { return value.replace(/`/g, "").trim() }
