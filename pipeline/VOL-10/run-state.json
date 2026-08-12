@@ -3,7 +3,7 @@
   "specPath": "books/volumi/vol-10-tecnico-ingegneristico-territorio-lavori-pubblici/planning/00-scheda-pipeline.md",
   "specHash": "sha256:b9582ff0b8d13a37147bf7b04c7969c20ebe2e12e1d2c843c1299f83af59b454",
   "createdAt": "2026-07-29T16:39:37.771Z",
-  "updatedAt": "2026-08-12T08:18:35.055Z",
+  "updatedAt": "2026-08-12T08:23:50.916Z",
   "steps": [
     {
       "key": "08:moduli/m-tr03-tecnico-ingegneristico/chapters/01-concorso-tecnico-pa-profili-prove.md",
@@ -1380,9 +1380,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/13-laboratorio-prove-tecniche.md",
-      "status": "pending",
-      "attempts": 1,
-      "evidence": []
+      "status": "done",
+      "attempts": 2,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-12T08:20:44.598Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-tr03-tecnico-ingegneristico/chapters/13-laboratorio-prove-tecniche.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di aless: Gate chapter-plan non automatizzato: verifica manuale completata. Piano riallineato al capitolo legacy esistente e alla Bibbia; definiti sei Nucleo ID N-TR03-13-01/06, sezioni da conservare, sviluppi, duplicazioni, fonti consolidate tutte risolte, rinvii, audit specialistici, struttura H1/H2/H3, budget 4.850-5.350 parole con almeno 650 per nucleo, sei quiz commentati, otto casi e caso ragionato finale. Capitolo non modificato."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-12T08:23:50.916Z"
     },
     {
       "key": "09:moduli/m-tr03-tecnico-ingegneristico/chapters/13-laboratorio-prove-tecniche.md",

@@ -5366,3 +5366,11 @@
 - l0: l0/conv-20260812081856-c1yiev.md
 - atoms:
   - mem-20260812081856-vp6r8t | result | Esito codex-vol10-cap12-step12-review: Procedere con il prossimo step della pipeline aggiornata VOL-10. -> Completato step 12 capitolo 12: report Revisore Editoriale Totale con checklist a 30 punti, test dello studente e copertura v4.
+
+## 2026-08-12T08:24:09.030Z - VOL-10/M-TR03
+
+- conversation_id: conv-20260812082409-tt4axa
+- route: codex-vol10-cap13-step08-plan
+- l0: l0/conv-20260812082409-tt4axa.md
+- atoms:
+  - mem-20260812082409-1u7tmzt | result | Esito codex-vol10-cap13-step08-plan: Procedere con il prossimo step della pipeline aggiornata VOL-10. -> Completato step 08 capitolo 13: piano riallineato al capitolo legacy esistente con sei nuclei N-TR03-13-01/06, budget 4.850-5.350 parole, minimo 650 per nucleo, sei quiz commentati, otto casi e caso finale, fonti cons...
