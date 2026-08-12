@@ -1,6 +1,7 @@
 {
   "schemaVersion": 1,
   "purpose": "Manifest indipendente dei nuclei attesi, tratto dai target step 09 e dai piani step 08; non generato da matrice o indice.",
+  "attestations": [],
   "chapters": [
     { "number": "01", "file": "01-lavorare-ict-pa-ruoli-enti-prove.md", "nuclei": 6, "sourceRef": "sources/campione-bandi-ict-pa-vol-08-2024-2026" },
     { "number": "02", "file": "02-informatica-specialistica-oltre-vol-01.md", "nuclei": 6, "sourceRef": "sources/architettura-sistemi-rappresentazione-prestazioni-fonti-tecniche" },
