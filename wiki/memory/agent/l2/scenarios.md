@@ -5961,3 +5961,11 @@
 - l0: l0/conv-20260809133127-1670afj.md
 - atoms:
   - mem-20260809133127-1e08d5t | result | Esito codex/git-publish: commit e push delle modifiche mie fino ad ora senza sovrascrivere quelle dello staff -> Pubblicazione fast-forward su origin/main senza force, reset o rebase; inclusi 42 commit locali preesistenti e commit ba9db89 con verifiche visuali VOL-02 e memoria agentica.
+
+## 2026-08-12T17:40:26.614Z - repo
+
+- conversation_id: conv-20260812174026-f1z9or
+- route: codex/git-publish-vol10
+- l0: l0/conv-20260812174026-f1z9or.md
+- atoms:
+  - mem-20260812174026-19lfs36 | result | Esito codex/git-publish-vol10: Commit e push delle modifiche VOL-10 senza sovrascrivere il lavoro dello staff. -> Branch codex/vol10-format2-retrofit allineato con origin/main tramite merge non distruttivo, verificato con 498 test, typecheck e build, pubblicato e aperto come draft PR #5.

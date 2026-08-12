@@ -727,3 +727,4 @@
 {"id":"conv-20260809095154-guffoa","createdAt":"2026-08-09T09:51:54.135Z","scope":"concorso-book-os","route":"vol-02-steps-21-23","l0Path":"l0\\conv-20260809095154-guffoa.md","messageCount":1,"replyChars":215}
 {"id":"conv-20260809105801-m0wuzb","createdAt":"2026-08-09T10:58:01.925Z","scope":"concorso-book-os","route":"vol-02-step-24-human-signoff","l0Path":"l0\\conv-20260809105801-m0wuzb.md","messageCount":1,"replyChars":140}
 {"id":"conv-20260809133127-1670afj","createdAt":"2026-08-09T13:31:27.520Z","scope":"global","route":"codex/git-publish","l0Path":"l0\\conv-20260809133127-1670afj.md","messageCount":1,"replyChars":174}
+{"id":"conv-20260812174026-f1z9or","createdAt":"2026-08-12T17:40:26.614Z","scope":"repo","route":"codex/git-publish-vol10","l0Path":"l0\\conv-20260812174026-f1z9or.md","messageCount":1,"replyChars":174}
