@@ -222,7 +222,7 @@ Una buona chiusura contabile, quindi, non nasce alla fine: e il risultato di mis
 
 Domanda-trappola: "L'impresa ha lavorato per meta del tempo contrattuale, quindi il SAL e al 50%". Risposta: no. Il SAL deriva dalle lavorazioni misurate e contabilizzate secondo contratto; il tempo puo essere un dato gestionale, ma non sostituisce quantita, prezzi e registrazioni.
 
-## N-TR03-10-06 · Caso integrato: una voce dal progetto al conto finale
+## N-TR03-10-06 · Caso guidato integrato: una voce dal progetto al conto finale
 
 ### Dal CME alla quantita eseguita
 
