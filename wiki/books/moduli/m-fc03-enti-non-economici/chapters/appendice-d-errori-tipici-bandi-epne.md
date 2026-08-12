@@ -121,7 +121,7 @@ L'errore nasce quando il candidato tratta tutto come se fosse nuovo. Compra mate
 | Materia | Lettura corretta |
 | --- | --- |
 | Procedimento amministrativo | Libro base + casi EPNE su domande, utenti, dati e comunicazioni. |
-| Privacy | Libro base + applicazione a fascicoli INPS/INAIL, dati personali e dati sanitari. |
+| Privacy | Libro base + applicazione a fascicoli INPS/INAIL, dati personali e dati relativi alla salute. |
 | Contabilità | Libro base + capitolo M-FC03 su bilancio, patrimonio e controlli degli EPNE. |
 | Contratti | Libro base + acquisti, forniture e servizi necessari al funzionamento dell'ente. |
 | Pubblico impiego | Libro base + CCNL Funzioni Centrali, profili, doveri e situazionali EPNE. |
