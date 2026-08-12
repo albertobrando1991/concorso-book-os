@@ -5034,3 +5034,11 @@
 - l0: l0/conv-20260812125209-wt9xeb.md
 - atoms:
   - mem-20260812125209-ucykoa | result | Esito codex/pipeline-volume/step-18/m-tr01-format2: ok procedi con il prossimo step -> Completato step 18 M-TR01: filosofia Circuito Civico confermata; inventario 13 capitoli con zero asset e zero riferimenti immagine; Book Studio isolato sul worktree: 231 pagine, 82 nuclei, 82 indice, 13 verifiche, zer...
+
+## 2026-08-12T12:54:09.243Z - VOL-08
+
+- conversation_id: conv-20260812125409-rnr8jd
+- route: codex/pipeline-volume/step-17/volume-visual-philosophy
+- l0: l0/conv-20260812125409-rnr8jd.md
+- atoms:
+  - mem-20260812125409-1qg4nvo | result | Esito codex/pipeline-volume/step-17/volume-visual-philosophy: procedi -> Completato step 17 VOL-08: filosofia visiva canonica Circuito Civico aggiornata al Format 2, con Nucleo ID, apparati Verifica, indice analitico e limite di tre colonne; nessun asset creato; prossimo step 19.
