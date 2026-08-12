@@ -357,7 +357,28 @@ No. Il RAID può mantenere il servizio o i dati disponibili in presenza di alcun
 
 Cambiare più configurazioni insieme. Se il servizio torna disponibile, non si sa quale modifica abbia risolto il problema; se peggiora, diventa difficile tornare allo stato precedente. Una diagnosi riproducibile usa test mirati e varia una condizione alla volta.
 
+## Apparato di verifica dei nuclei
+
+La tabella collega ogni nucleo a un apparato esistente nello stesso capitolo. Il collegamento rende controllabile la tracciabilità senza attribuire automaticamente un esito positivo.
+
+| Nucleo ID | Apparato di verifica |
+| --- | --- |
+| `N-TR01-05-01` | Micro-verifica: livelli e rete locale |
+| `N-TR01-05-02` | Esercizio 1 — Sottorete |
+| `N-TR01-05-03` | Quiz 3 |
+| `N-TR01-05-04` | Esercizio 3 — Sistema |
+| `N-TR01-05-05` | Quiz 5 |
+| `N-TR01-05-06` | Quiz 6 |
+
 ## ▣ Verifica
+
+### Micro-verifica: livelli e rete locale
+
+Una workstation invia una richiesta web a un server in un’altra rete. Ordina messaggio HTTP, segmento TCP, pacchetto IP e frame Ethernet; poi indica quale apparato inoltra il frame nella rete locale e quale instrada verso l’altra rete.
+
+**Soluzione:** il messaggio HTTP è incapsulato in un segmento TCP, poi in un pacchetto IP e infine in un frame Ethernet. Lo switch inoltra il frame nella rete locale; il router instrada il pacchetto IP verso una rete diversa.
+
+
 
 ### Esercizio 1 — Sottorete
 

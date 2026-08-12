@@ -165,7 +165,28 @@ La gestione delle comunicazioni richiede accuratezza. Un messaggio interno deve 
 In un ente pubblico, la qualità della risposta si riconosce dalla capacità di mantenere insieme responsabilità, evidenze e tutela dell'utenza. Non è necessario promettere che ogni incidente sarà evitato. Occorre dimostrare che l'organizzazione sa rilevare, decidere, contenere, recuperare e apprendere, rispettando i confini fra competenze tecniche, organizzative e giuridiche. Questo è il criterio utile anche nella prova orale.
 
 Il piano di risposta deve inoltre definire come raggiungere i responsabili fuori dall'orario ordinario e come sostituirli in caso di indisponibilità. Senza questa informazione, la catena di responsabilità resta teorica proprio quando il servizio richiede decisioni rapide e documentate.
+## Apparato di verifica dei nuclei
+
+La tabella collega ogni nucleo a un apparato esistente nello stesso capitolo. Il collegamento rende controllabile la tracciabilità senza attribuire automaticamente un esito positivo.
+
+| Nucleo ID | Apparato di verifica |
+| --- | --- |
+| `N-TR01-09-01` | Micro-verifica: cambio di ruolo |
+| `N-TR01-09-02` | Sei quiz commentati, n. 1 |
+| `N-TR01-09-03` | Sei quiz commentati, n. 3 |
+| `N-TR01-09-04` | Sei quiz commentati, n. 4 |
+| `N-TR01-09-05` | Caso guidato: account privilegiato compromesso |
+| `N-TR01-09-06` | Sei quiz commentati, n. 6 |
+
 ## ▣ Verifica
+
+### Micro-verifica: cambio di ruolo
+
+Un istruttore passa a un altro ufficio. Quali due azioni, oltre ad assegnare i nuovi permessi, evitano privilegi residui?
+
+**Soluzione:** revocare o riesaminare gli accessi legati al ruolo precedente e verificare sessioni, token, deleghe e account tecnici collegati. La procedura conserva l’evidenza della modifica.
+
+
 
 ### Caso guidato: account privilegiato compromesso
 

@@ -372,6 +372,19 @@ RPO e RTO non sono promesse generiche di "ripartenza rapida". Il primo impone di
 
 Una soluzione resiliente deve considerare anche i guasti comuni. Repliche nello stesso dominio di guasto, credenziali disponibili solo a una persona, runbook non aggiornati o un collegamento esterno non alternativo possono vanificare l'architettura. Il test di ripristino non è un adempimento conclusivo: misura tempi, integrità dei dati, sequenza delle dipendenze, comunicazioni e capacità di operare in modalità degradata. La business continuity completa il disaster recovery perché decide come l'ente continua le attività essenziali mentre i sistemi sono ripristinati.
 
+## Apparato di verifica dei nuclei
+
+La tabella collega ogni nucleo a un apparato esistente nello stesso capitolo. Il collegamento rende controllabile la tracciabilità senza attribuire automaticamente un esito positivo.
+
+| Nucleo ID | Apparato di verifica |
+| --- | --- |
+| `N-TR01-07-01` | Quiz 1 — Responsabilità in SaaS |
+| `N-TR01-07-02` | Quiz 2 — Container e VM |
+| `N-TR01-07-03` | Caso ragionato: migrazione di un servizio comunale |
+| `N-TR01-07-04` | Quiz 3 — Continuous delivery |
+| `N-TR01-07-05` | Quiz 4 — Segnali di osservabilità |
+| `N-TR01-07-06` | Quiz 7 — Repliche e continuità |
+
 ## ▣ Verifica 07.A
 
 ### Caso ragionato: migrazione di un servizio comunale

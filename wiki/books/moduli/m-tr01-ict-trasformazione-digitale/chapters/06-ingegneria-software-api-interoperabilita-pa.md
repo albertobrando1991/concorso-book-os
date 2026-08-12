@@ -337,6 +337,19 @@ No. Pubblicare o catalogare una descrizione rende conoscibile il contratto secon
 
 Disegnare subito endpoint e payload. La struttura tecnica finisce così per nascondere decisioni su finalità, significato, errori e qualità. Conviene partire dal bisogno e dal contratto osservabile; soltanto dopo si sceglie la rappresentazione.
 
+## Apparato di verifica dei nuclei
+
+La tabella collega ogni nucleo a un apparato esistente nello stesso capitolo. Il collegamento rende controllabile la tracciabilità senza attribuire automaticamente un esito positivo.
+
+| Nucleo ID | Apparato di verifica |
+| --- | --- |
+| `N-TR01-06-01` | Esercizio 1 — Requisito e test |
+| `N-TR01-06-02` | Quiz 3 |
+| `N-TR01-06-03` | Quiz 1 |
+| `N-TR01-06-04` | Esercizio 2 — Compatibilità |
+| `N-TR01-06-05` | Esercizio 2 — Compatibilità |
+| `N-TR01-06-06` | Esercizio 3 — Caso e-service |
+
 ## ▣ Verifica
 
 ### Esercizio 1 — Requisito e test

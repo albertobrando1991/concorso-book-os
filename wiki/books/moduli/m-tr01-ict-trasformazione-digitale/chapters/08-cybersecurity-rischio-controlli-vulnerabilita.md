@@ -403,7 +403,28 @@ Una catena di rilascio affidabile rende possibile rispondere a domande semplici:
 
 La sicurezza per impostazione predefinita riduce il numero di decisioni rischiose richieste a chi usa o gestisce il sistema. Non elimina la responsabilità di configurare, testare e aggiornare. Un requisito di sicurezza ben scritto indica comportamento atteso, vincolo, evidenza e criterio di accettazione. Questa logica aiuta anche a distinguere una promessa generica di "software sicuro" da un impegno verificabile.
 
+## Apparato di verifica dei nuclei
+
+La tabella collega ogni nucleo a un apparato esistente nello stesso capitolo. Il collegamento rende controllabile la tracciabilità senza attribuire automaticamente un esito positivo.
+
+| Nucleo ID | Apparato di verifica |
+| --- | --- |
+| `N-TR01-08-01` | Caso guidato: portale per le domande |
+| `N-TR01-08-02` | Mini-esercizi e quiz, n. 6 |
+| `N-TR01-08-03` | Laboratorio: costruire una risk matrix |
+| `N-TR01-08-04` | Mini-esercizi e quiz, n. 7 |
+| `N-TR01-08-05` | Micro-verifica: confine di fiducia |
+| `N-TR01-08-06` | Mini-esercizi e quiz, nn. 4–5 |
+
 ## ▣ Verifica
+
+### Micro-verifica: confine di fiducia
+
+Un portale riceve allegati da utenti esterni e li inoltra a un archivio documentale. Indica un confine di fiducia e una domanda da porre nel threat modeling.
+
+**Soluzione:** il passaggio dall’input pubblico al servizio che conserva i documenti è un confine di fiducia. Occorre chiedere, per esempio, come il sistema valida il file e quale autorizzazione consente di leggerlo.
+
+
 
 ### Caso guidato: portale per le domande
 
