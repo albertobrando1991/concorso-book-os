@@ -599,3 +599,46 @@ I sei nuclei presentano teoria autonoma, applicazione e verifica e superano la s
 ## Esito Appendice C
 
 I sei nuclei presentano teoria autonoma, applicazione e verifica e superano la soglia dimensionale. Tabelle, schede, casi, esercizi e quiz applicano concetti gia spiegati. Non risultano dimensioni vuote, dipendenze da materiali interni, rinvii generici o dati operativi non tracciati.
+
+## Assegnazione pipeline - Appendice D
+
+| Famiglia/profilo | Materia | Concetto/sotto-concetti | Frequenza/peso | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa | Destinazione rinvio |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| M-FC03/tutti | Errori tipici nella lettura dei bandi EPNE | Fonte, soggetti, profilo, core/delta, fascicolo della procedura, dati instabili, rinvii, prove e diario errori | alta | [[sources/m-fc03-portali-bandi-concorsi-2023-2026]]; [[sources/m-fc03-dossier-redazionale-enti-pubblici-non-economici]]; [[sources/m-fc03-bando-ripam-inail-308-funzionari-assistenti-sociali-2024]] | cap. appendice-d-errori-tipici-bandi-epne | Sei nuclei autonomi di prevenzione e correzione | Tabelle, registri, micro-casi, caso guidato, caso finale, esercizio e rubrica | Analisi bando, quiz, orale, caso e workbook | Q:6 C:5 E:1 - Quiz 1-6, casi e checklist finale | completo | Verificare dati mobili e singoli atti allo step 15 | M-IR03, M-TR01, M-TR02, M-FC02 e M-FC05 secondo materia dominante |
+
+## Appendice D - overlay Format 2
+
+| Nucleo ID | Famiglia/profilo | Materia | Concetto/sotto-concetti | Fonti consolidate | Copertura teorica | Applicazione | Output | Verifica | Stato | Destinazione rinvio |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FC03-17-01 | tutti | Fonte e soggetti | Fonte, portale, gestore, ente, profilo e perimetro | [[sources/m-fc03-portali-bandi-concorsi-2023-2026]] | Definisce ruoli, funzioni e conseguenze della distinzione | Tabella e micro-caso Davide | Quiz, orale, caso e scheda | Q:1 C:1 E:1 - Quiz 1 e caso Davide | completo |  |
+| N-FC03-17-02 | tutti | Core e delta EPNE | Materie comuni, specializzazione, integrazioni, appendici e rinvii | [[sources/m-fc03-dossier-redazionale-enti-pubblici-non-economici]]; [[sources/m-fc03-bando-ripam-inail-308-funzionari-assistenti-sociali-2024]] | Spiega classificazione, peso e limiti del riuso | Tabella e micro-caso Chiara | Quiz, orale, caso e piano | Q:1 C:1 E:1 - Quiz 2 e caso Chiara | completo | M-IR03, M-TR01, M-TR02, M-FC02, M-FC05 |
+| N-FC03-17-03 | tutti | Fascicolo e dati mobili | Allegati, rettifiche, avvisi, cronologia, fonte e data | [[sources/m-fc03-portali-bandi-concorsi-2023-2026]] | Spiega monitoraggio, classificazione ed effetto degli aggiornamenti | Registro ed esempio della sede | Quiz, orale e workbook | Q:1 C:1 E:1 - Quiz 3 ed esempio | completo |  |
+| N-FC03-17-04 | tutti | Bando campione e confini | Metodo riusabile, dati storici, appendici e rinvii | [[sources/m-fc03-dossier-redazionale-enti-pubblici-non-economici]] | Distingue riuso del metodo, lente interna e cambio di famiglia | Tabella e micro-caso Marco | Quiz, orale, caso e piano | Q:1 C:1 E:1 - Quiz 4 e caso Marco | completo | M-IR03 quando ricerca o profilo tecnico-scientifico dominano |
+| N-FC03-17-05 | tutti | Prove e output | Forme, soglie, tempi, peso, prestazioni e indicatori | [[sources/m-fc03-bando-ripam-inail-308-funzionari-assistenti-sociali-2024]] | Collega materia, forma di prova e allenamento osservabile | Tabelle ed esempio Anna | Quiz, orale, caso e situazionale | Q:1 C:1 E:1 - Quiz 5 ed esempio Anna | completo |  |
+| N-FC03-17-06 | tutti | Laboratorio anti-dispersione | Caso, domanda, trappola, esercizio, diario, rubrica e autovalutazione | [[sources/m-fc03-portali-bandi-concorsi-2023-2026]] | Integra soggetti, classificazione, aggiornamenti e output | Casi Elena e Sara, esercizio e rubrica | Quiz, orale, caso e workbook | Q:1 C:2 E:1 - Quiz 6, casi e Verifica | completo | Rinvio determinato dalla materia dominante |
+
+## Checklist dimensionale - Appendice D
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso prova | Errore | Verifica | Fonti | Tracciabilita |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FC03-17-01 | ✓ fonte e soggetti | ✓ delimitare il perimetro | ✓ bandi EPNE | ✓ portale, gestore, ente, profilo | ✓ ruoli non intercambiabili | ✓ canale e modulo corretti | ✓ caso Davide | ✓ quiz, orale, caso | ✓ canale uguale famiglia | ✓ Quiz 1 | ✓ fonti in riga | ✓ frontmatter e corpo leggibile |
+| N-FC03-17-02 | ✓ core e delta | ✓ evitare duplicazioni e lacune | ✓ libro base e M-FC03 | ✓ base, modulo, appendice, rinvio | ✓ comune/specialistico e integrativo/facoltativo | ✓ priorita coerenti | ✓ caso Chiara | ✓ quiz, orale, caso | ✓ tutto nuovo o tutto base | ✓ Quiz 2 | ✓ fonti in riga | ✓ frontmatter e riferimenti leggibili |
+| N-FC03-17-03 | ✓ fascicolo e dato mobile | ✓ mantenere il piano aggiornato | ✓ successione degli atti | ✓ allegati, avvisi, fonte, data, effetto | ✓ logistica/programma e accumulo/controllo | ✓ azione proporzionata | ✓ esempio sede | ✓ quiz, orale, workbook | ✓ ignorare aggiornamenti | ✓ Quiz 3 | ✓ fonti in riga | ✓ frontmatter e riferimenti leggibili |
+| N-FC03-17-04 | ✓ bando campione e rinvio | ✓ riusare senza copiare | ✓ confini M-FC03 | ✓ metodo, dati, appendice, famiglia dominante | ✓ lente interna/cambio famiglia | ✓ materiale pertinente | ✓ caso Marco | ✓ quiz, orale, caso | ✓ modello universale | ✓ Quiz 4 | ✓ fonti in riga | ✓ frontmatter e riferimenti leggibili |
+| N-FC03-17-05 | ✓ output di prova | ✓ trasformare teoria in prestazione | ✓ programma e prove | ✓ forma, soglia, tempo, peso, indicatore | ✓ materia/prestazione e idoneita/peso | ✓ allenamento misurabile | ✓ esempio Anna | ✓ quiz, orale, caso, situazionale | ✓ lista materie sufficiente | ✓ Quiz 5 | ✓ fonti in riga | ✓ frontmatter e riferimenti leggibili |
+| N-FC03-17-06 | ✓ laboratorio e diario | ✓ correggere l'errore | ✓ sintesi dell'appendice | ✓ casi, trappola, esercizio, rubrica | ✓ causa/correzione e canale/ente | ✓ decisione verificabile | ✓ casi Elena e Sara | ✓ quiz, orale, caso, workbook | ✓ correzione generica | ✓ Quiz 6 e Verifica | ✓ fonti in riga | ✓ frontmatter e corpo leggibile |
+
+## Delta step 10 - Appendice D
+
+| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
+| --- | --- | --- | --- | --- |
+| N-FC03-17-01 | parziale | Verificate definizioni, funzioni dei soggetti, conseguenze e applicazione | completo | Heading Fonte, portale, gestore, ente e profilo; caso Davide; Quiz 1 |
+| N-FC03-17-02 | parziale | Verificati core, delta, integrazioni, quattro collocazioni e rinvii | completo | Heading Materie comuni, delta EPNE e integrazioni; caso Chiara; Quiz 2 |
+| N-FC03-17-03 | parziale | Verificati fascicolo, cronologia, dati mobili, registro e conseguenze | completo | Heading Allegati, rettifiche, avvisi e dati instabili; esempio sede; Quiz 3 |
+| N-FC03-17-04 | parziale | Verificati metodo riusabile, dati storici, appendici e cambio di famiglia | completo | Heading Bando campione, appendici e rinvii; caso Marco; Quiz 4 |
+| N-FC03-17-05 | parziale | Verificati forme, soglie, tempi, peso, indicatori e output | completo | Heading Prove, soglie e output di allenamento; esempio Anna; Quiz 5 |
+| N-FC03-17-06 | quasi completo | Verificati laboratorio, diario, rubrica, sei quiz e caso ragionato | completo | Heading Laboratorio anti-dispersione; casi Elena e Sara; Verifica |
+
+## Esito Appendice D
+
+I sei nuclei presentano teoria autonoma, applicazione e verifica e superano la soglia dimensionale. Tabelle, registri, casi, esercizio, rubrica e quiz applicano concetti gia spiegati e non li sostituiscono. Non risultano dimensioni vuote, dipendenze da materiali interni, rinvii generici o dati operativi non tracciati; i dati della singola procedura restano subordinati agli atti ufficiali vigenti e all'audit specialistico dello step 15.

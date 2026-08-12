@@ -203,6 +203,8 @@ L'errore tipico è confondere aggiornamento con accumulo. Salvare molti file sen
 
 Una sequenza affidabile prevede quattro operazioni: numerare i documenti in ordine cronologico, annotarne l'oggetto, confrontarli con la versione precedente e tradurre la variazione in un'azione. In questo modo una rettifica non resta un file isolato, ma diventa una decisione verificabile. Anche l'assenza di cambiamenti va registrata: dimostra che il controllo è stato eseguito e impedisce di ripetere inutilmente la ricerca. Prima della prova, il registro consente infine un riesame rapido delle sole comunicazioni che incidono su adempimenti, logistica o programma.
 
+Il confronto deve essere selettivo. Prima si identifica il campo interessato — requisiti, profilo, materie, modalità, calendario o adempimenti — poi si annota il testo precedente e quello aggiornato in forma sintetica. La colonna finale contiene l'azione: nessuna modifica, aggiornamento logistico, revisione del piano o controllo ulteriore. Se l'oggetto dell'avviso non è chiaro, il candidato non interpreta per analogia e non trasferisce conclusioni da altre procedure. Conserva il dubbio come dato da verificare e torna al canale ufficiale indicato negli atti. Questo passaggio separa la prudenza dall'immobilità: non significa sospendere lo studio, ma evitare decisioni fondate su informazioni incomplete.
+
 **Quiz 3.** Un nuovo avviso cambia solo la sede della prova. Che cosa va aggiornato per primo? A) Tutto il programma. B) La logistica nel registro. C) Il modulo specialistico. **Risposta corretta: B.** L'azione deve essere proporzionata all'oggetto dell'avviso.
 
 ## N-FC03-17-04 · Bando campione, appendici e rinvii
