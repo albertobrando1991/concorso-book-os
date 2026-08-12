@@ -90,7 +90,7 @@ I documenti seguono una gerarchia. Bando e allegati definiscono la procedura; st
 > **Da sapere in 5 righe**
 > La missione non coincide con il programma. Prima si identificano soggetto, profilo, prove e materie. Poi si costruiscono core e delta. Gli atti vigenti prevalgono sulle descrizioni generiche. Una buona scheda entra in una pagina e conduce a un risultato allenabile.
 
-**Quiz 1.** Un ente opera in un settore tecnico: occorre studiare automaticamente l’intera disciplina tecnica? A) Sì. B) No, occorre verificare profilo e programma. C) Solo se l’ente è nazionale. **Risposta: B.** Il settore fornisce il contesto; il bando stabilisce contenuti e profondità valutabili.
+**Quiz 1.** Un ente opera in un settore tecnico: occorre studiare automaticamente l’intera disciplina tecnica? A) Sì. B) No, occorre verificare profilo e programma. C) Solo se l’ente è nazionale. **Risposta corretta: B.** Il settore fornisce il contesto; il bando stabilisce contenuti e profondità valutabili.
 
 ## N-FC03-16-02 · ACI ed ENAC: servizi, mobilità e regolazione
 
@@ -121,7 +121,7 @@ L’applicazione al profilo richiede di chiedersi quale attività sarà osservat
 
 **Domanda da commissario.** Perché non basta dire che ACI ed ENAC “si occupano di mobilità”? Perché la risposta deve distinguere funzioni, destinatari e procedimenti. L’etichetta tematica è un punto di partenza, non un inquadramento istituzionale.
 
-**Quiz 2.** Quale affermazione è corretta? A) ENAC ed ENAV sono sinonimi. B) ENAC è una compagnia aerea. C) ENAC è l’ente nazionale dell’aviazione civile. **Risposta: C.** Identificare correttamente il soggetto evita di attribuirgli funzioni altrui.
+**Quiz 2.** Quale affermazione è corretta? A) ENAC ed ENAV sono sinonimi. B) ENAC è una compagnia aerea. C) ENAC è l’ente nazionale dell’aviazione civile. **Risposta corretta: C.** Identificare correttamente il soggetto evita di attribuirgli funzioni altrui.
 
 Per il ripasso, conviene preparare due risposte parallele di un minuto. La prima presenta ACI attraverso funzione, servizi, profilo e procedimento; la seconda presenta ENAC attraverso funzione, regolazione, profilo e procedimento. Il confronto fa emergere ciò che resta comune e ciò che cambia. Se le due risposte risultano quasi identiche, il delta non è stato sviluppato; se non condividono alcun elemento, probabilmente il core è stato duplicato. Un buon elaborato usa il lessico settoriale solo dove chiarisce competenze o attività e mantiene l’attenzione sul ruolo per cui si concorre.
 
@@ -149,7 +149,7 @@ Protezione dei dati, qualità dell’informazione e trasparenza sono connesse ma
 > **Da sapere in 5 righe**
 > ISTAT non implica sempre statistica avanzata. Un lessico minimo su statistica ufficiale, dati e qualità resta necessario. La profondità tecnica deriva dal profilo. L’amministrativo integra la missione nel core giuridico. I documenti istituzionali verificano il quadro, non ampliano il programma senza limite.
 
-**Quiz 3.** Qual è la strategia corretta per un profilo ISTAT amministrativo? A) Solo statistica avanzata. B) Solo diritto, ignorando l’ente. C) Core amministrativo, missione e delta espresso. **Risposta: C.** Occorre aderire contemporaneamente al ruolo e al contesto istituzionale.
+**Quiz 3.** Qual è la strategia corretta per un profilo ISTAT amministrativo? A) Solo statistica avanzata. B) Solo diritto, ignorando l’ente. C) Core amministrativo, missione e delta espresso. **Risposta corretta: C.** Occorre aderire contemporaneamente al ruolo e al contesto istituzionale.
 
 Un ulteriore controllo riguarda l’output. Se la prova è a quiz, il candidato deve riconoscere definizioni, distinzioni e attribuzioni corrette. Se è scritta, deve collegare il problema amministrativo alla funzione dell’Istituto senza divagare nella teoria statistica. All’orale deve costruire una sequenza chiara: identità, funzione, profilo, conseguenze operative. L’allenamento cambia forma, mentre la mappa dei contenuti resta la stessa.
 
@@ -186,7 +186,7 @@ Il caso di Luca mostra il metodo. La sua ricerca iniziale su satelliti era plaus
 
 **Errore tipico.** Scambiare la complessità della missione con l’ampiezza del programma. La correzione consiste nello scrivere accanto a ogni contenuto: “serve per quale materia, mansione o prova?”. Se manca una risposta verificabile, il contenuto resta di secondo livello.
 
-**Quiz 4.** M-FC03 basta per un concorso ENEA da ricercatore? A) Sì. B) No: offre l’inquadramento, ma servono M-IR03 e programma specialistico. C) Sì, conoscendo il diritto amministrativo. **Risposta: B.** Mansioni e prove richiedono una copertura tecnico-scientifica ulteriore.
+**Quiz 4.** M-FC03 basta per un concorso ENEA da ricercatore? A) Sì. B) No: offre l’inquadramento, ma servono M-IR03 e programma specialistico. C) Sì, conoscendo il diritto amministrativo. **Risposta corretta: B.** Mansioni e prove richiedono una copertura tecnico-scientifica ulteriore.
 
 Per consolidare il confine, si può usare una matrice a due assi: sull’asse orizzontale la natura delle mansioni, da amministrativa a scientifica; su quello verticale la specializzazione delle prove, da generale a tecnica. Un profilo collocato in alto a destra richiede chiaramente M-IR03; uno in basso a sinistra resta nel percorso amministrativo. Le posizioni intermedie vanno risolte leggendo allegati e criteri di valutazione. La matrice non sostituisce il bando, ma rende esplicito il ragionamento e impedisce che una singola parola, come “progetto” o “tecnologia”, determini da sola il piano.
 
@@ -222,7 +222,7 @@ Nel profilo amministrativo CONI, il core può integrarsi con l’ordinamento spo
 > **Da sapere in 5 righe**
 > CONI si studia come istituzione, non attraverso la cronaca sportiva. Per CRI si verifica prima il perimetro giuridico e contrattuale. Il profilo determina la profondità. Bando e atti richiamati prevalgono sulle etichette. Le informazioni variabili vanno controllate vicino alla prova.
 
-**Quiz 5.** Qual è il primo controllo per un avviso CRI? A) Memorizzare tutte le attività umanitarie. B) Verificare soggetto, natura, reclutamento e contratto. C) Applicare automaticamente il regime EPNE. **Risposta: B.** Senza tale controllo l’intero piano può poggiare su una qualificazione non dimostrata.
+**Quiz 5.** Qual è il primo controllo per un avviso CRI? A) Memorizzare tutte le attività umanitarie. B) Verificare soggetto, natura, reclutamento e contratto. C) Applicare automaticamente il regime EPNE. **Risposta corretta: B.** Senza tale controllo l’intero piano può poggiare su una qualificazione non dimostrata.
 
 In sede orale la prudenza non significa vaghezza. Per CONI si può affermare con chiarezza il ruolo istituzionale e poi sviluppare gli aspetti richiesti. Per CRI si espongono i dati risultanti dallo specifico avviso e si evita una qualificazione automatica. La formula professionale è: “Nel perimetro della procedura considerata, l’atto indica…; da ciò derivano queste materie e questi controlli”. In questo modo il candidato dimostra metodo, distingue fonti e non colma le lacune con supposizioni.
 
@@ -286,7 +286,7 @@ La scheda si compila in tre passate. Nella prima si trascrivono gli elementi del
 
 **Rubrica.** Valuta la scheda da 0 a 2 punti per ciascun criterio: corretta identità del soggetto; aderenza alle parole del bando; separazione core/delta; coerenza dell’output. Sotto 6 punti, rileggi bando e allegati prima di aggiungere materiali. Una scheda lunga ma priva di collegamenti con le prove non supera la valutazione.
 
-**Quiz 6.** Quale scheda è più utile? A) Quella più lunga. B) Quella che collega ogni contenuto a profilo, materia e prova. C) Quella copiata dal sito. **Risposta: B.** La qualità deriva dalla selezione motivata, non dalla quantità.
+**Quiz 6.** Quale scheda è più utile? A) Quella più lunga. B) Quella che collega ogni contenuto a profilo, materia e prova. C) Quella copiata dal sito. **Risposta corretta: B.** La qualità deriva dalla selezione motivata, non dalla quantità.
 
 ## ▣ Verifica
 

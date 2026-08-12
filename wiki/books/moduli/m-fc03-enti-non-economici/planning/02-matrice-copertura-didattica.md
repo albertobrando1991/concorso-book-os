@@ -556,3 +556,46 @@ I sei nuclei presentano teoria autonoma, applicazione e verifica e superano la s
 ## Esito Appendice B
 
 I sei nuclei presentano teoria autonoma, applicazione e verifica e superano la soglia dimensionale prevista. Glossari, tabelle, coppie, casi, esercizio, rubrica e quiz applicano concetti gia spiegati e non li sostituiscono. Non risultano dimensioni applicabili vuote, dipendenze da materiali interni, rinvii generici o dati operativi non tracciati; requisiti, importi, termini, procedure e significati dipendenti dal singolo bando restano subordinati alle fonti ufficiali vigenti e all'audit specialistico dello step 15.
+
+## Assegnazione pipeline - Appendice C
+
+| Famiglia/profilo | Materia | Concetto/sotto-concetti | Frequenza/peso | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa | Destinazione rinvio |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| M-FC03/tutti | Orientamento ACI, ENAC, ISTAT, ENEA, ASI, CONI e CRI | Metodo della scheda ente, servizi e regolazione, dati, ricerca, sport, servizi umanitari e laboratorio | orientamento | [[sources/m-fc03-fonti-ufficiali-appendice-c-enti-orientamento-2026]]; [[sources/m-fc03-fonti-ufficiali-enti-epne-2026]] | cap. appendice-c-schede-rapide-aci-enac-istat-enea-asi-cri | Sei nuclei autonomi | Tabelle, micro-casi, caso ASI, scheda, esercizio e rubrica | Analisi bando, quiz, orale, caso e workbook | Q:6 C:3 E:1 | completo | Audit specialistico allo step 15 | M-IR03, M-TR01, M-TR02, M-FC02 e M-FC05 secondo profilo |
+
+## Appendice C - overlay Format 2
+
+| Nucleo ID | Famiglia/profilo | Materia | Concetto/sotto-concetti | Fonti consolidate | Copertura teorica | Applicazione | Output | Verifica | Stato | Destinazione rinvio |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FC03-16-01 | tutti | Metodo scheda ente | Identita, funzione, profilo, programma, core, delta e fonti | [[sources/m-fc03-dossier-redazionale-enti-pubblici-non-economici]] | Definisce metodo e gerarchia documentale | Quadro comparativo e applicazione ASI | Quiz, orale, scritto, scheda | Q:1 C:1 E:1 | completo |  |
+| N-FC03-16-02 | ACI-ENAC | Servizi e regolazione | Funzioni, core, delta e differenze ACI/ENAC | [[sources/m-fc03-fonti-ufficiali-appendice-c-enti-orientamento-2026]] | Inquadra ACI ed ENAC | Tabella e micro-caso Marta | Quiz, orale, caso | Q:1 C:1 E:1 | completo |  |
+| N-FC03-16-03 | ISTAT | Statistica ufficiale | Missione, profili, qualita, dati, privacy e delta | [[sources/m-fc03-fonti-ufficiali-appendice-c-enti-orientamento-2026]] | Gradua la profondita per profilo | Matrice e micro-caso Paolo | Quiz, orale, scritto, caso | Q:1 C:1 E:1 | completo | M-IR03 se prevale la ricerca |
+| N-FC03-16-04 | ENEA-ASI | Missione tecnico-scientifica | Mansioni, prove e confine amministrativo-specialistico | [[sources/m-fc03-fonti-ufficiali-appendice-c-enti-orientamento-2026]] | Spiega missioni e criteri del confine | Matrice e caso Luca | Quiz, orale, caso | Q:1 C:1 E:1 | completo | M-IR03 per ricercatori e tecnologi |
+| N-FC03-16-05 | CONI-CRI | Ordinamento e servizi | Funzione CONI, perimetro CRI, soggetto e reclutamento | [[sources/m-fc03-fonti-ufficiali-appendice-c-enti-orientamento-2026]] | Distingue ordinamento e qualificazione dell'avviso | Tabella e trappola CRI | Quiz, orale, scritto, caso | Q:1 C:0 E:1 | completo | Modulo sanitario-sociale se richiesto |
+| N-FC03-16-06 | tutti | Laboratorio | Tre passate, rinvii, caso, rubrica e autovalutazione | [[sources/m-fc03-portali-bandi-concorsi-2023-2026]] | Integra metodo, core/delta e output | Workbook, caso Sara ed esercizio | Quiz, orale, caso, scheda | Q:1 C:1 E:1 | completo | M-IR03, M-TR01, M-TR02, M-FC02, M-FC05 |
+
+## Checklist dimensionale - Appendice C
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso prova | Errore | Verifica | Fonti | Tracciabilita |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FC03-16-01 | ✓ scheda ente | ✓ delimitare studio | ✓ bando ed EPNE | ✓ identita, profilo, programma, core, delta | ✓ missione/profilo/programma | ✓ priorita corretta | ✓ applicazione ASI | ✓ quiz, orale, scritto | ✓ missione uguale programma | ✓ Quiz 1 | ✓ in riga | ✓ frontmatter e corpo leggibile |
+| N-FC03-16-02 | ✓ schede ACI/ENAC | ✓ servizio/regolazione | ✓ mobilita e aviazione | ✓ utenti, procedimenti, controlli | ✓ ACI/ENAC ed ENAC/ENAV | ✓ piano aderente | ✓ caso Marta | ✓ quiz, orale, caso | ✓ trasporti generici | ✓ Quiz 2 | ✓ in riga | ✓ frontmatter e corpo leggibile |
+| N-FC03-16-03 | ✓ missione e profili | ✓ graduare delta | ✓ statistica ufficiale | ✓ dati, qualita, privacy, core | ✓ profili diversi | ✓ profondita coerente | ✓ caso Paolo | ✓ quiz, orale, scritto | ✓ solo diritto o statistica | ✓ Quiz 3 | ✓ in riga | ✓ frontmatter e corpo leggibile |
+| N-FC03-16-04 | ✓ profili | ✓ scegliere modulo | ✓ ENEA e ASI | ✓ mansioni, requisiti, prove | ✓ amministrazione/ricerca | ✓ rinvio M-IR03 | ✓ caso Luca | ✓ quiz, orale, caso | ✓ missione uguale programma | ✓ Quiz 4 | ✓ in riga | ✓ frontmatter e corpo leggibile |
+| N-FC03-16-05 | ✓ schede CONI/CRI | ✓ qualificare procedura | ✓ sport e missione umanitaria | ✓ soggetto, natura, contratto | ✓ CONI/cronaca e CRI/EPNE | ✓ risposta sugli atti | ✓ trappola CRI | ✓ quiz, orale, scritto | ✓ classificazione automatica | ✓ Quiz 5 | ✓ in riga | ✓ frontmatter e corpo leggibile |
+| N-FC03-16-06 | ✓ laboratorio | ✓ trasformare bando in piano | ✓ sintesi appendice | ✓ scheda, rinvii, output, rubrica | ✓ core/delta | ✓ studio riusabile | ✓ caso Sara | ✓ quiz, orale, workbook | ✓ scheda enciclopedica | ✓ Quiz 6 e Verifica | ✓ in riga | ✓ frontmatter e corpo leggibile |
+
+## Delta step 10 - Appendice C
+
+| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
+| --- | --- | --- | --- | --- |
+| N-FC03-16-01 | parziale | Verificati metodo, piani di lettura, fonti, core/delta e prova | completo | Heading Costruire la scheda ente; Quiz 1 |
+| N-FC03-16-02 | parziale | Verificate funzioni ACI/ENAC, distinzioni e conseguenze | completo | Heading ACI ed ENAC; caso Marta; Quiz 2 |
+| N-FC03-16-03 | parziale | Verificati missione ISTAT, profili, dati, qualita e privacy | completo | Heading ISTAT; caso Paolo; Quiz 3 |
+| N-FC03-16-04 | parziale | Verificati ENEA/ASI, confine e rinvio preciso a M-IR03 | completo | Heading ENEA e ASI; caso Luca; Quiz 4 |
+| N-FC03-16-05 | parziale | Verificati CONI, cautela CRI, soggetto, natura e contratto | completo | Heading CONI e CRI; trappola; Quiz 5 |
+| N-FC03-16-06 | quasi completo | Verificati protocollo, workbook, rubrica, quiz e caso finale | completo | Heading Laboratorio; caso Sara; Verifica |
+
+## Esito Appendice C
+
+I sei nuclei presentano teoria autonoma, applicazione e verifica e superano la soglia dimensionale. Tabelle, schede, casi, esercizi e quiz applicano concetti gia spiegati. Non risultano dimensioni vuote, dipendenze da materiali interni, rinvii generici o dati operativi non tracciati.
