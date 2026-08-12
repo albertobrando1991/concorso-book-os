@@ -330,7 +330,7 @@ Per risolvere un caso ente-specifico combina tre livelli: la base comune di fatt
 
 I casi sull'errore nella posizione, sul piccolo acquisto e sulla richiesta informale mostrano che la griglia non vale soltanto per le prestazioni. Nel primo scenario contano verifica e rettifica tracciata; nel secondo fabbisogno, competenza, procedura e documentazione; nel terzo imparzialita, riservatezza e canali ufficiali. Cambia la materia, ma resta stabile la domanda: quale passo puo' compiere legittimamente l'ufficio e quale output lo rende verificabile?
 
-Per i profili di vigilanza, la stessa struttura e' utile, ma tecniche ispettive, verbali e poteri specialistici appartengono all'Appendice A dedicata alla vigilanza ispettiva. Non improvvisarli nel caso amministrativo comune.
+Per i profili di vigilanza, la stessa struttura e' utile, mentre l'Appendice A delimita il sottoprofilo e insegna a distinguere funzione, competenze e garanzie. Tecniche ispettive, verbali e poteri specialistici richiedono invece le fonti previste dal bando: non improvvisarli nel caso amministrativo comune.
 
 ## N-FC03-11-05 · Mini-atti e risposta sintetica 10/20/30 righe
 

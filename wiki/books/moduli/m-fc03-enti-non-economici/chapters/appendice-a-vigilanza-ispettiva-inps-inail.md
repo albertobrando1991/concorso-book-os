@@ -16,7 +16,7 @@ canonical: true
 tags: ["book-chapter", "appendix", "module-code-m-fc03", "professional-draft"]
 book_id: m-fc03-enti-non-economici
 outline_section: "A"
-draft_stage: step-11-humanized
+draft_stage: step-12-reviewed
 module_code: M-FC03
 module_family: funzioni-centrali
 companion_to: il-metodo-bando
@@ -203,7 +203,7 @@ La sequenza non è un modello di verbale. È una struttura argomentativa, utile 
 
 ### Micro-caso
 
-Durante un controllo, un rappresentante dell'impresa chiede al candidato di anticipare informalmente l'esito e di comunicare quali dichiarazioni abbia reso un lavoratore. La risposta debole è scegliere tra disponibilità e rigidità. La risposta corretta parte da ruolo, competenza e dati: non promette un esito prima della conclusione delle verifiche, non comunica informazioni senza averne accertato titolo e limiti, indica il canale appropriato e mantiene traccia dell'interlocuzione quando necessario.
+Durante un controllo, un rappresentante dell'impresa chiede al funzionario di anticipare informalmente l'esito e di comunicare quali dichiarazioni abbia reso un lavoratore. La risposta debole è scegliere tra disponibilità e rigidità. La risposta corretta parte da ruolo, competenza e dati: non promette un esito prima della conclusione delle verifiche, non comunica informazioni senza averne accertato titolo e limiti, indica il canale appropriato e mantiene traccia dell'interlocuzione quando necessario.
 
 Il caso non serve a memorizzare una frase. Serve a riconoscere quattro rischi: anticipazione di conclusioni, comunicazione impropria, confusione tra cortesia e favore, assenza di tracciabilità. In prova, una risposta forte spiega la ragione della condotta e non si limita a dire «non si può».
 
