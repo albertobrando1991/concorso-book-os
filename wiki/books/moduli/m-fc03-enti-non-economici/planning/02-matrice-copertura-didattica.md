@@ -470,3 +470,46 @@ I sei nuclei presentano teoria autonoma, applicazione e verifica. Tabelle, scena
 ## Esito capitolo 13
 
 I sei nuclei presentano teoria autonoma, applicazione e verifica e superano la soglia dimensionale prevista. Tabelle, calendario, caso ragionato, esercizio, diario e quiz applicano concetti gia spiegati e non li sostituiscono. Non risultano dimensioni applicabili vuote, dipendenze interne, rinvii generici o dati operativi non tracciati; bando, allegati, avvisi, modalità delle prove e informazioni del singolo ente restano subordinati all'audit specialistico dello step 15 e alle fonti ufficiali vigenti.
+
+## Assegnazione pipeline - Appendice A
+
+| Famiglia/profilo | Materia | Concetto/sotto-concetti | Frequenza/peso | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa | Destinazione rinvio |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| M-FC03/ispettivo | Vigilanza ispettiva | Perimetro, funzione, competenze, materie, metodo e laboratorio | profilo specifico | [[sources/m-fc03-inl-vigilanza-lavoro-previdenziale]]; [[sources/m-fc03-portali-bandi-concorsi-2023-2026]] | cap. appendice-a-vigilanza-ispettiva-inps-inail | Sei nuclei autonomi su attivazione, funzione pubblica, INPS-INAIL-INL, profondita, risposta e laboratorio | Tabelle, scheda, micro-caso, caso ed esercizio | Analisi bando, quiz, orale, scritto e caso | Quiz 1-6, micro-caso e caso finale | completo | Audit specialistico allo step 15 |  |
+
+## Appendice A - overlay Format 2
+
+| Nucleo ID | Famiglia/profilo | Materia | Concetto/sotto-concetti | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FC03-14-01 | M-FC03/ispettivo | Perimetro | Parole-spia, profilo, mansioni, materie, prove e livelli di evidenza | [[sources/m-fc03-portali-bandi-concorsi-2023-2026]]; [[sources/m-fc03-dossier-redazionale-enti-pubblici-non-economici]] | App. A § N-FC03-14-01 | Spiega quando attivare il delta ispettivo e come motivarlo | Tabella segnali-decisioni | Analisi bando, quiz e orale | Q:1 C:0 E:1 - Quiz 1 e tabella | completo | Verificare avviso e allegati vigenti |
+| N-FC03-14-02 | M-FC03/ispettivo | Funzione pubblica | Vigilanza, fatti, competenza, istruttoria, garanzie e conseguenze | [[sources/m-fc03-inl-vigilanza-lavoro-previdenziale]]; [[sources/m-fc03-dossier-redazionale-enti-pubblici-non-economici]] | App. A § N-FC03-14-02 | Definisce funzione e piani sostanziale, procedimentale e comportamentale | Sequenza del ragionamento | Quiz, orale e caso | Q:1 C:0 E:1 - Quiz 2 | completo | Audit atti, poteri e conseguenze specifiche |
+| N-FC03-14-03 | M-FC03/ispettivo | Competenze | Perimetri INPS, INAIL e INL, oggetto, raccordo e limiti | [[sources/m-fc03-inl-vigilanza-lavoro-previdenziale]]; [[sources/m-fc03-dossier-redazionale-enti-pubblici-non-economici]] | App. A § N-FC03-14-03 | Distingue funzioni e raccordo senza sovrapposizione | Tabelle comparative e matrice | Quiz, orale e caso | Q:1 C:0 E:1 - Quiz 3 | completo | Audit competenze istituzionali vigenti |
+| N-FC03-14-04 | M-FC03/ispettivo | Piano materie | Lavoro, previdenza, assicurazione, sicurezza, procedimento, comportamento e dati | [[sources/m-fc03-dossier-redazionale-enti-pubblici-non-economici]]; [[sources/m-fc03-portali-bandi-concorsi-2023-2026]] | App. A § N-FC03-14-04 | Spiega fasce e livelli di profondita collegati alla prova | Tabella materia-metodo e scala operativa | Piano, quiz, orale e caso | Q:1 C:0 E:1 - Quiz 4 | completo | Verificare programma e forma delle prove |
+| N-FC03-14-05 | M-FC03/ispettivo | Metodo di risposta | Scheda, griglia in sei passaggi, revisione e ciclo dell'errore | [[sources/m-fc03-portali-bandi-concorsi-2023-2026]]; [[sources/m-fc03-dossier-redazionale-enti-pubblici-non-economici]] | App. A § N-FC03-14-05 | Spiega compilazione, adattamento alla prova e verifica dell'output | Scheda, micro-caso e quattro domande | Scritto, orale e caso | Q:1 C:1 E:1 - Quiz 5 e micro-caso | completo | Adattare alle istruzioni del bando |
+| N-FC03-14-06 | M-FC03/ispettivo | Laboratorio | Caso, domanda, trappola, errore, esercizio e checklist | [[sources/m-fc03-inl-vigilanza-lavoro-previdenziale]]; [[sources/m-fc03-portali-bandi-concorsi-2023-2026]] | App. A § N-FC03-14-06 | Integra perimetro, funzione, competenza, garanzie e metodo | Caso guidato, esercizio e checklist | Quiz, orale, caso e workbook | Q:1 C:1 E:1 - Quiz 6 e caso finale | completo | Audit bando e riferimenti professionali |
+
+## Checklist dimensionale - Appendice A
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso nella prova | Errore tipico | Verifica | Fonti | Tracciabilita |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FC03-14-01 | ✓ sottoprofilo ispettivo | ✓ decidere il delta | ✓ bando, profilo e prove | ✓ fonte, mansioni, materie, evidenze | ✓ ente/profilo e segnale/conclusione | ✓ piano proporzionato | ✓ tabella parole-spia | ✓ analisi, quiz e orale | ✓ attivazione da una parola | ✓ Quiz 1 | ✓ fonti in riga | ✓ frontmatter e portali leggibili |
+| N-FC03-14-02 | ✓ vigilanza pubblica | ✓ verificare e tutelare | ✓ lavoro, previdenza e assicurazione | ✓ fatti, competenza, istruttoria, garanzie | ✓ sospetto/fatto e tre piani | ✓ esito proporzionato | ✓ sequenza di risposta | ✓ quiz, orale e caso | ✓ conclusione anticipata | ✓ Quiz 2 | ✓ fonti in riga | ✓ frontmatter e INL leggibile |
+| N-FC03-14-03 | ✓ perimetri istituzionali | ✓ attribuire funzione e raccordo | ✓ sistema INPS-INAIL-INL | ✓ oggetto, funzione, limite, raccordo | ✓ cooperazione/sovrapposizione | ✓ risposta pertinente | ✓ tabelle e matrice | ✓ quiz, orale e caso | ✓ competenza universale | ✓ Quiz 3 | ✓ fonti in riga | ✓ frontmatter e riferimenti leggibili |
+| N-FC03-14-04 | ✓ fasce e profondita | ✓ calibrare lo studio | ✓ programma e prova | ✓ materie, livelli, output, controllo | ✓ riconoscimento/spiegazione/applicazione | ✓ carico motivato | ✓ tabella materia-metodo | ✓ quiz, orale e caso | ✓ studio indiscriminato | ✓ Quiz 4 | ✓ fonti in riga | ✓ frontmatter e rinvii leggibili |
+| N-FC03-14-05 | ✓ scheda e griglia | ✓ trasformare teoria in output | ✓ preparazione ispettiva | ✓ sei passaggi, due compilazioni, quattro controlli | ✓ fatto/ipotesi e schema/applicazione | ✓ risposta correggibile | ✓ micro-caso impresa | ✓ scritto, orale e caso | ✓ soluzione senza percorso | ✓ Quiz 5 e micro-caso | ✓ fonti in riga | ✓ frontmatter e riferimenti leggibili |
+| N-FC03-14-06 | ✓ laboratorio | ✓ integrare e trasferire | ✓ sintesi dell'appendice | ✓ caso, domanda, trappola, esercizio, checklist | ✓ ordinario/ispettivo e ente/raccordo | ✓ piano governato | ✓ caso guidato e finale | ✓ quiz, orale, caso e workbook | ✓ mini-manuale totale | ✓ Quiz 6 e caso | ✓ fonti in riga | ✓ frontmatter e riferimenti leggibili |
+
+## Delta step 10 - Appendice A
+
+| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
+| --- | --- | --- | --- | --- |
+| N-FC03-14-01 | parziale | Integrati livelli di evidenza, criterio di attivazione, conseguenze ed errore | completo | Heading Quando il bando attiva il sottoprofilo ispettivo; Quiz 1 |
+| N-FC03-14-02 | parziale | Sviluppate funzione, responsabilita conoscitive, garanzie e conseguenze | completo | Heading Vigilanza come funzione pubblica; Quiz 2 |
+| N-FC03-14-03 | parziale | Consolidati perimetri, raccordi, matrice di attribuzione e uso nelle prove | completo | Heading INPS, INAIL e INL; Quiz 3 |
+| N-FC03-14-04 | parziale | Definite fasce, scala di profondita, output e controllo settimanale | completo | Heading Materie da attivare e profondita di studio; Quiz 4 |
+| N-FC03-14-05 | parziale | Sviluppati uso dinamico della scheda, adattamento e ciclo dell'errore | completo | Heading Metodo di risposta e scheda sottoprofilo; Quiz 5 e micro-caso |
+| N-FC03-14-06 | quasi completo | Verificati laboratorio, esercizio, checklist, quiz e caso ragionato | completo | Heading Laboratorio del sottoprofilo ispettivo; Quiz 6 e caso finale |
+
+## Esito Appendice A
+
+I sei nuclei presentano teoria autonoma, applicazione e verifica e superano la soglia dimensionale prevista. Tabelle, scheda, micro-caso, caso ragionato, esercizio, checklist e quiz applicano concetti gia spiegati e non li sostituiscono. Non risultano dimensioni applicabili vuote, dipendenze da materiali interni o dati operativi non tracciati; competenze puntuali, atti, poteri, conseguenze, programma e prove restano subordinati all'audit specialistico dello step 15 e alle fonti ufficiali vigenti.

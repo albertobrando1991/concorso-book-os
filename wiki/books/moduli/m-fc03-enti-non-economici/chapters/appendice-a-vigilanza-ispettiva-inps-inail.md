@@ -22,7 +22,7 @@ module_family: funzioni-centrali
 companion_to: il-metodo-bando
 format_version: 2
 dati_operativi: []
-nuclei_ids: ["N-FC03-A-01", "N-FC03-A-02", "N-FC03-A-03", "N-FC03-A-04", "N-FC03-A-05", "N-FC03-A-06"]
+nuclei_ids: ["N-FC03-14-01", "N-FC03-14-02", "N-FC03-14-03", "N-FC03-14-04", "N-FC03-14-05", "N-FC03-14-06"]
 last_compiled_from: [
   "wiki/books/moduli/m-fc03-enti-non-economici/planning/00-piano-editoriale.md",
   "wiki/books/moduli/m-fc03-enti-non-economici/planning/01-matrice-copertura-materie.md",
@@ -61,7 +61,7 @@ Al termine dell'appendice il candidato deve saper fare cinque operazioni:
 | D - Diario | Quale errore va monitorato durante lo studio? | Annotare ogni confusione tra INPS, INAIL, INL e amministrazione ordinaria. |
 | O - Output | Che cosa devo saper produrre in prova? | Una risposta argomentata, una scheda caso e una checklist di lettura del bando. |
 
-## N-FC03-A-01 · Quando il bando attiva il sottoprofilo ispettivo
+## N-FC03-14-01 · Quando il bando attiva il sottoprofilo ispettivo
 
 L'appendice va attivata quando nel bando compaiono formule come ispettore di vigilanza, vigilanza previdenziale, vigilanza assicurativa, legislazione sociale, contribuzione, premi assicurativi, lavoro irregolare, accertamenti, salute e sicurezza nei luoghi di lavoro. La singola formula deve essere letta insieme al programma d'esame: un conto è un concorso amministrativo presso un ente previdenziale, un altro è un concorso che seleziona personale destinato a funzioni ispettive o di controllo.
 
@@ -84,7 +84,11 @@ La lettura procede in quattro passaggi. Prima si individua la fonte: bando, alle
 
 L'errore tipico è attivare un intero percorso specialistico dopo aver letto una sola parola. Ne deriva un piano sovraccarico, costruito su associazioni anziché sul programma. All'opposto, ignorare una parola ricorrente nelle mansioni e nelle prove lascia scoperto il delta del profilo ispettivo. Per ogni materia aggiunta, annota quindi il passaggio del bando che la giustifica e l'output con cui la allenerai.
 
-## N-FC03-A-02 · Vigilanza come funzione pubblica
+Per rendere verificabile la scelta, separa tre livelli di evidenza. Il primo è testuale: le parole effettivamente presenti nell'avviso e negli allegati. Il secondo è funzionale: le attività associate al profilo, che possono confermare oppure ridimensionare il significato di quelle parole. Il terzo è valutativo: il modo in cui la materia entra nelle prove. Una voce prevista soltanto all'orale non produce necessariamente lo stesso carico di una materia sottoposta a quiz, scritto e caso pratico. I tre livelli devono convergere prima di modificare il piano.
+
+L'errore nasce quando un indizio diventa una certezza. Il nome INPS o INAIL non dimostra da solo che il profilo sia ispettivo; anche il termine «controllo» può riferirsi a controlli amministrativi, contabili o interni. Occorre leggerlo nel contesto, verificarne l'oggetto e collegarlo alle mansioni. In prova questa cautela diventa capacità di motivare: non basta dichiarare che un caso appartiene alla vigilanza, bisogna indicare quali elementi della traccia conducono a quella qualificazione e quali informazioni mancano ancora.
+
+## N-FC03-14-02 · Vigilanza come funzione pubblica
 
 In chiave concorsuale, la vigilanza ispettiva non va presentata come un generico potere di controllo. È una funzione pubblica che serve a verificare il rispetto di norme poste a tutela di lavoratori, assicurati, imprese regolari e finanza pubblica. Nel settore previdenziale e assicurativo, la vigilanza riguarda soprattutto la correttezza degli adempimenti, la regolarità delle posizioni, la coerenza tra attività dichiarata e obblighi contributivi o assicurativi, e il collegamento tra fatto, documento, rapporto di lavoro e conseguenza giuridica.
 
@@ -102,7 +106,11 @@ In un quiz, questa distinzione aiuta a scartare risposte assolute, scorciatoie p
 
 Le conseguenze dell'attività di vigilanza dipendono dal quadro applicabile e non vanno inventate in astratto. Il candidato può però spiegare una regola generale: un controllo incide su posizioni rilevanti e richiede fatti documentati, competenza chiara e rispetto delle garanzie. Se il bando pretende dettagli su atti, poteri o conseguenze, occorre studiarli sulle fonti indicate per quella procedura. Questa appendice fornisce la struttura del ragionamento, non una sequenza operativa universale.
 
-## N-FC03-A-03 · INPS, INAIL e INL: perimetri e raccordi
+La funzione di vigilanza può essere letta come una catena di responsabilità conoscitive. Chi opera distingue ciò che è stato segnalato da ciò che è stato riscontrato, ciò che è pertinente da ciò che eccede l'oggetto della verifica e ciò che rientra nella propria competenza da ciò che richiede raccordo. Questa catena protegge insieme l'interesse pubblico, i soggetti coinvolti e la qualità della decisione. Non è un formalismo aggiunto dopo il controllo: è parte della correttezza del controllo stesso.
+
+Nel ragionamento concorsuale le garanzie impediscono di usare informazioni non pertinenti, anticipare valutazioni o presentare come definitivo un quadro incompleto. Spiegano inoltre perché documentazione, motivazione e tracciabilità sono necessarie. Una risposta ordinata parte dall'interesse tutelato, prosegue con fatto e competenza, indica gli elementi da acquisire e chiude con una conclusione proporzionata. La conseguenza non è sempre un esito sfavorevole: può essere anche integrare, approfondire, trasmettere secondo competenza o non procedere oltre, in base alla disciplina applicabile.
+
+## N-FC03-14-03 · INPS, INAIL e INL: perimetri e raccordi
 
 | Perimetro | Nucleo da ricordare | Errore frequente |
 | --- | --- | --- |
@@ -128,7 +136,13 @@ Una formula prudente non è una risposta vaga. Dire «occorre verificare la comp
 
 L'errore di perimetro produce conseguenze anche nello studio: fa scegliere materiali sbagliati, confonde il lessico e indebolisce l'orale. Nel diario annota non soltanto la risposta errata, ma l'attribuzione impropria che l'ha generata.
 
-## N-FC03-A-04 · Materie da attivare e profondità di studio
+Per fissare i confini, usa una matrice a doppia entrata: sulle righe colloca l'oggetto del problema; sulle colonne, funzione primaria, amministrazione di riferimento, possibile raccordo e fonte da controllare. L'esercizio costringe a non partire dal nome dell'ente. Una posizione contributiva irregolare, un rischio assicurato e una questione generale di legislazione del lavoro appartengono ad aree comunicanti, ma chiedono qualificazioni diverse. Solo dopo questa qualificazione ha senso indicare chi interviene e in quale forma.
+
+La distinzione serve anche nei quiz: sono sospette le opzioni che assegnano una competenza universale, cancellano il raccordo oppure lo trasformano in identità. All'orale evita l'elenco di sigle e costruisci un confronto tra oggetto tutelato, funzione, limite e relazione con le altre amministrazioni. Nel caso pratico puoi dichiarare che i dati non bastano per un'attribuzione definitiva e specificare che cosa occorre verificare. Questa non è esitazione, ma uso corretto del criterio di competenza.
+
+Un ulteriore controllo riguarda il linguaggio usato nella conclusione. Espressioni come «intervengono tutti», «la pratica passa all'ente competente» o «si applicano le sanzioni previste» nascondono proprio il passaggio che la prova vuole osservare. Sostituiscile con una motivazione verificabile: indica l'oggetto accertato, la funzione interessata, l'amministrazione da considerare e il punto che richiede raccordo o approfondimento. Anche quando non puoi determinare l'esito, devi rendere visibile il criterio con cui lo determineresti.
+
+## N-FC03-14-04 · Materie da attivare e profondità di studio
 
 | Materia | Perché serve | Come studiarla nel Metodo BANDO |
 | --- | --- | --- |
@@ -152,7 +166,11 @@ La sicurezza sul lavoro richiede cautela. Se il programma la include, il candida
 
 Il controllo finale usa quattro voci: fonte nel bando, livello richiesto, output di prova e rinvio didattico. Se ne manca una, la scelta di studio non è ancora motivata.
 
-## N-FC03-A-05 · Metodo di risposta e scheda sottoprofilo
+La profondità si verifica con una scala operativa. Al livello di riconoscimento il candidato definisce l'istituto e lo distingue da quelli vicini. Al livello di spiegazione ne ricostruisce funzione, elementi e conseguenze. Al livello di applicazione lo usa in un caso, motivando la scelta e segnalando i dati mancanti. Programma e prova indicano fin dove arrivare: non basta la definizione se è previsto un caso, né servono procedure tecniche esecutive quando è richiesto soltanto un inquadramento.
+
+Ogni settimana controlla la scelta sugli output. Se riconosci la risposta corretta ma non sai spiegare la distinzione, la teoria è fragile. Se esponi bene ma non sai ordinare un caso, manca il trasferimento. Se risolvi con formule generiche, devi tornare ai confini tra materia, ente e funzione. La profondità non coincide così con le pagine lette, ma con la capacità dimostrata nella forma di prova richiesta.
+
+## N-FC03-14-05 · Metodo di risposta e scheda sottoprofilo
 
 Compila questa scheda per ogni bando che richiama la vigilanza.
 
@@ -185,7 +203,17 @@ Durante un controllo, un rappresentante dell'impresa chiede al candidato di anti
 
 Il caso non serve a memorizzare una frase. Serve a riconoscere quattro rischi: anticipazione di conclusioni, comunicazione impropria, confusione tra cortesia e favore, assenza di tracciabilità. In prova, una risposta forte spiega la ragione della condotta e non si limita a dire «non si può».
 
-## N-FC03-A-06 · Laboratorio del sottoprofilo ispettivo
+Compila la scheda in due tempi. Prima dello studio analitico registra solo dati ricavabili dal bando: profilo, ente, materie, prove e parole-spia. Dopo un primo ciclo aggiungi confini compresi, errori emersi e output ancora deboli. La seconda compilazione evita che lo strumento diventi una fotografia immobile. Se un errore ricorre nei quiz o nei casi, la scheda deve produrre una decisione: aumentare il richiamo teorico, allenare una distinzione o verificare una fonte.
+
+Per una domanda aperta breve, comprimi i sei passaggi senza perderne l'ordine. Una frase inquadra funzione e interesse tutelato; una distingue oggetto e competenza; una indica elementi e garanzie; l'ultima formula la conclusione possibile. All'orale gli stessi passaggi diventano paragrafi, con esempio e cautela finale. Nel caso devono invece agganciarsi ai fatti: ripetere lo schema senza applicarlo non dimostra capacità di giudizio.
+
+La verifica usa quattro domande: ho distinto fatto e ipotesi? Ho attribuito funzioni senza sovrapporre gli enti? Ho spiegato le garanzie? Ho concluso entro i dati disponibili? Un solo «no» segnala il punto da correggere. L'errore tipico non è soltanto una soluzione sbagliata, ma anche una soluzione plausibile raggiunta attraverso un percorso non controllabile, per esempio citando genericamente la vigilanza senza chiarire competenza, fonte o passaggio istruttorio.
+
+Conserva infine una versione corretta dell'output, non soltanto il punteggio. Accanto alla prima risposta annota il passaggio omesso, la regola recuperata e la nuova formulazione. Nel richiamo successivo prova a ricostruire la sequenza senza guardare la scheda. Questo ciclo trasforma l'errore in criterio riutilizzabile e permette di capire se la difficoltà dipende dalla teoria, dalla lettura della traccia o dall'organizzazione della risposta.
+
+La scheda è completa quando conduce a un'azione osservabile. «Ripassare la vigilanza» non è un'azione sufficiente; «riscrivere il confronto INPS-INAIL-INL in dodici righe» oppure «risolvere due casi distinguendo fatto, competenza e garanzie» lo sono. Associa quindi a ogni criticità una scadenza e una nuova prova. Solo il secondo tentativo mostra se la correzione è stata acquisita.
+
+## N-FC03-14-06 · Laboratorio del sottoprofilo ispettivo
 
 ### Caso guidato
 
