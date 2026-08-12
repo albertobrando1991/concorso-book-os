@@ -5075,3 +5075,11 @@
 - atoms:
   - mem-20260812163042-h2f5a7 | workflow | Procedi con la pipeline aggiornata di VOL-08 fino allo stato pubblicabile.
   - mem-20260812163042-1yt7jxe | result | Esito pipeline-step-22: Procedi con la pipeline aggiornata di VOL-08 fino allo stato pubblicabile. -> Step 22 preflight completato: audit 82/82, 95 test, typecheck e build verdi; PDF candidato 231 pagine esportato.
+
+## 2026-08-12T16:36:25.016Z - VOL-08
+
+- conversation_id: conv-20260812163625-1temlpb
+- route: pipeline-step-23
+- l0: l0/conv-20260812163625-1temlpb.md
+- atoms:
+  - mem-20260812163625-beisx7 | result | Esito pipeline-step-23: Procedi con il prossimo step di VOL-08. -> Step 23 completato: candidato di 9 file, manifest SHA-256 8/8, fetch remoto verificato senza merge distruttivo, 95 test e build verdi; step 24 umano ancora pendente.
