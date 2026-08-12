@@ -5398,3 +5398,12 @@
 - l0: l0/conv-20260812084545-1g9599t.md
 - atoms:
   - mem-20260812084545-1dzby75 | result | Esito codex-vol10-cap13-step11-humanizer: Procedere con il prossimo step della pipeline aggiornata VOL-10. -> Completato step 11 Humanizer capitolo 13 con doppia passata: eliminate simmetrie, enumerazioni meccaniche e formule generiche; significato, struttura, source_refs, last_compiled_from, riferimenti normativi, otto casi ...
+
+## 2026-08-12T08:49:22.644Z - VOL-10
+
+- conversation_id: conv-20260812084922-1b6f7c6
+- route: codex-vol10-cap13-step12-review
+- l0: l0/conv-20260812084922-1b6f7c6.md
+- atoms:
+  - mem-20260812084922-164q84z | workflow | Procedere con lo step 12 del capitolo 13 di VOL-10.
+  - mem-20260812084922-1ndtx1f | result | Esito codex-vol10-cap13-step12-review: Procedere con lo step 12 del capitolo 13 di VOL-10. -> Revisione editoriale totale completata: report conforme alla checklist in 30 punti, nessun errore oggettivo nel capitolo, gate review-report superato; verifiche normative mobili e specialistiche rinviate allo step 15.

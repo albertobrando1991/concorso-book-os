@@ -5,6 +5,7 @@ Usala come profilo di lavoro: le source notes e il wiki restano la base canonica
 
 ## Preferenze e istruzioni recenti
 
+- Procedere con lo step 12 del capitolo 13 di VOL-10. (mem-20260812084922-164q84z)
 - Procedere con il prossimo step della pipeline aggiornata VOL-10. (mem-20260812081509-13h03ix)
 - Procedere con lo step 10 del capitolo 12 VOL-10. (mem-20260812081009-1yabxfv)
 - Procedere con lo step 09 del capitolo 12 VOL-10. (mem-20260812080802-l2xr3)
@@ -84,4 +85,3 @@ Usala come profilo di lavoro: le source notes e il wiki restano la base canonica
 - Procedere in ordine con il solo capitolo 03 M-SA02, completando il ciclo pipeline 08-12 senza attivare le fasi D-F. (mem-20260729220013-206rbs)
 - Completare la revisione editoriale totale del capitolo 03 M-SA02 applicando solo correzioni oggettive, mantenendo aperte le review umane dello step 15 e chiudendo il gate 12 solo se verde. (mem-20260729214623-1ua0vfo)
 - Eseguire lo step 10 VOL-07/M-SA02 capitolo 03: audit degli undici criteri sulla riga Discipline professionali specifiche, report coverage e aggiornamento della sola nota di matrice. (mem-20260729205247-11n8ix3)
-- Scrittura step 09 del capitolo M-SA02 03 su autonomia, responsabilità e deontologia. (mem-20260729203505-1nm2mgt)
