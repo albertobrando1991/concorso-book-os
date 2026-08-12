@@ -101,6 +101,25 @@ describe("audit-vol08-format2-nuclei", () => {
     writeFileSync(matrix, readFileSync(matrix, "utf8").replaceAll(`verified: ${target}`, "Q:99 C:99 E:99"), "utf8")
     expect(audit(root).status).not.toBe(0)
   })
+  it("accepts Q/C/E counts derived from atomic verification mappings", () => {
+    const root = fixtureRoot()
+    const matrix = join(root, moduleRelative, "planning", "02-matrice-copertura-didattica.md")
+    const manifest = JSON.parse(readFileSync(join(root, moduleRelative, "planning", "10-manifest-nuclei-format-2.json"), "utf8"))
+    const target = manifest.verificationAttestations.find((attestation: { nucleusId: string; target: string }) => attestation.nucleusId === "N-TR01-01-01").target
+    writeFileSync(matrix, readFileSync(matrix, "utf8").split(/\r?\n/).map((line) => line.startsWith("| `N-TR01-01-01` |") && line.split("|").slice(1, -1).length === 14 ? line.replace(`verified: ${target}`, "Q:1 C:0 E:0") : line).join("\n"), "utf8")
+    const result = audit(root)
+    expect(result.status, result.stdout + result.stderr).toBe(0)
+  })
+
+  it("rejects Q/C/E counts that disagree with atomic verification mappings", () => {
+    const root = fixtureRoot()
+    const matrix = join(root, moduleRelative, "planning", "02-matrice-copertura-didattica.md")
+    const manifest = JSON.parse(readFileSync(join(root, moduleRelative, "planning", "10-manifest-nuclei-format-2.json"), "utf8"))
+    const target = manifest.verificationAttestations.find((attestation: { nucleusId: string; target: string }) => attestation.nucleusId === "N-TR01-01-01").target
+    writeFileSync(matrix, readFileSync(matrix, "utf8").split(/\r?\n/).map((line) => line.startsWith("| `N-TR01-01-01` |") && line.split("|").slice(1, -1).length === 14 ? line.replace(`verified: ${target}`, "Q:2 C:0 E:0") : line).join("\n"), "utf8")
+    const result = audit(root)
+    expect(result.status, result.stdout + result.stderr).not.toBe(0)
+  })
   it("rejects nonsense verified evidence even when it is long enough", () => {
     const root = fixtureRoot()
     const matrix = join(root, moduleRelative, "planning", "02-matrice-copertura-didattica.md")

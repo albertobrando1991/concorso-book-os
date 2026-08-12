@@ -3,7 +3,7 @@ import path from "node:path"
 
 await import("tsx/esm")
 const { analyzeDidacticDensity } = await import("../src/pipeline/gates/didactic-density-gate.ts")
-const { parseCoverageMatrix, auditCoverageRows } = await import("../src/server/editorial/didactic-coverage.ts")
+const { parseCoverageMatrix, parseVerificationCounts, auditCoverageRows } = await import("../src/server/editorial/didactic-coverage.ts")
 
 const write = process.argv.includes("--write")
 const rootArgument = process.argv.indexOf("--root")
@@ -58,8 +58,8 @@ const incompleteRows = matrixRows.filter((row) => !row.sources || !row.theoretic
 const canonicalMatrix = extractBlock(fs.readFileSync(matrixPath, 'utf8'), matrixStart, matrixEnd)
 const invalidAttestations = validateVerifiedAttestations(canonicalMatrix)
 const invalidDimensionStates = [...canonicalMatrix.matchAll(/(?:✓|âœ“)\s*open:/g)].map((_, index) => `dimensione aperta con spunta alla riga ${index + 1}`)
-const unvalidatedNumericQce = matrixRows.filter((row) => /(?:Q|C|E):\d+/.test(row.verification || ""))
-const invalidOpenStates = matrixRows.flatMap((row) => [row.sources, row.theoreticalCoverage, row.application, row.competitionOutput, row.verification].some((value) => !/^(?:open:.*step 1[3-8]|verified:)/i.test(value || '')) ? [row.nucleusId] : [])
+const invalidNumericQce = matrixRows.filter((row) => /(?:^|\s)Q\s*:\s*\d+\s+C\s*:\s*\d+\s+E\s*:\s*\d+(?=\s|$)/i.test(row.verification || "") && !matchesAtomicVerificationCounts({ ...row, verificationCounts: parseVerificationCounts(row.verification) }))
+const invalidOpenStates = matrixRows.flatMap((row) => [row.sources, row.theoreticalCoverage, row.application, row.competitionOutput, row.verification].some((value) => !/^(?:open:.*step 1[3-8]|verified:|Q:\d+\s+C:\d+\s+E:\d+)/i.test(value || '')) ? [row.nucleusId] : [])
 const genericEvidenceRows = matrixRows.filter((row) => /source_refs del capitolo|esempio, caso o applicazione nel nucleo|output tecnico o concorsuale del nucleo|verifica, caso o esercizio del capitolo/i.test(`${row.sources} ${row.application} ${row.competitionOutput} ${row.verification}`))
 const apparatusFailures = chapters.flatMap((chapter) => validateVerificationApparatus(chapter).map((failure) => `${chapter.file}: ${failure}`))
 const failures = [
@@ -82,7 +82,7 @@ const failures = [
   incompleteRows.length ? `righe matrice incomplete: ${incompleteRows.map((row) => row.nucleusId).join(", ")}` : "",
   invalidAttestations.length ? `attestazioni verified non valide: ${invalidAttestations.join(', ')}` : "",
   invalidDimensionStates.length ? `dimensioni aperte marcate con spunta: ${invalidDimensionStates.join(', ')}` : "",
-  unvalidatedNumericQce.length ? `Q/C/E numerici senza mapping atomico: ${unvalidatedNumericQce.map((row) => row.nucleusId).join(', ')}` : "",
+  invalidNumericQce.length ? `Q/C/E non coerenti con il mapping atomico: ${invalidNumericQce.map((row) => row.nucleusId).join(', ')}` : "",
   invalidOpenStates.length ? `stati open senza reviewTarget: ${invalidOpenStates.join(', ')}` : "",
   genericEvidenceRows.length ? `evidenze non atomiche nella matrice: ${genericEvidenceRows.map((row) => row.nucleusId).join(', ')}` : "",
   apparatusFailures.length ? `apparati di verifica non validi: ${apparatusFailures.join(', ')}` : "",
@@ -279,6 +279,20 @@ function validateVerifiedAttestations(block) {
 }
 function validAttestation(record, chapter, section) {
   return Boolean(record.evidenceQuote && record.sourceLocation && typeof record.reviewer === 'string' && record.reviewer.trim().length > 0 && /^step-(?:13|14|15|16|17|18)$/.test(record.gateId || '') && record.sourceLocation === `chapters/${chapter.file}#${record.nucleusId.toLowerCase()}` && section.includes(record.evidenceQuote))
+}
+function matchesAtomicVerificationCounts(row) {
+  const chapter = chapters.find((item) => item.nucleusIds.includes(row.nucleusId))
+  if (!chapter || !row.verificationCounts) return false
+  const records = (manifest.verificationAttestations || []).filter((record) => record.nucleusId === row.nucleusId && validVerificationAttestation(record, chapter))
+  if (!records.length) return false
+  const actual = { quizzes: 0, cases: 0, exercises: 0 }
+  for (const record of records) {
+    const normalized = normalizeApparatus(record.target)
+    if (/\bquiz\b/i.test(normalized)) actual.quizzes += 1
+    else if (/\bcaso\b/i.test(normalized)) actual.cases += 1
+    else actual.exercises += 1
+  }
+  return actual.quizzes === row.verificationCounts.quizzes && actual.cases === row.verificationCounts.cases && actual.exercises === row.verificationCounts.exercises
 }
 function validVerificationAttestation(record, chapter) {
   return Boolean(record.target && typeof record.reviewer === 'string' && record.reviewer.trim().length > 0 && record.gateId === 'step-15' && record.sourceLocation === `chapters/${chapter.file}#apparato-di-verifica-dei-nuclei` && chapter.apparatus.rows.some((row) => row.id === record.nucleusId && normalizeApparatus(row.target) === normalizeApparatus(record.target)))
