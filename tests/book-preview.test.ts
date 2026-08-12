@@ -295,6 +295,43 @@ describe("book preview assets", () => {
     }
   })
 
+  it("balances the final preview chunk instead of leaving a short paragraph tail", async () => {
+    const root = await mkdtemp(path.join(os.tmpdir(), "book-preview-balanced-tail-"))
+    const longParagraph = Array.from({ length: 94 }, (_, index) => `parola${index + 1}`).join(" ")
+
+    try {
+      await mkdir(path.join(root, "books/il-metodo-bando/chapters"), { recursive: true })
+      await writeFile(
+        path.join(root, "books/il-metodo-bando/index.md"),
+        "---\ntitle: Il Metodo BANDO\n---\n# Il Metodo BANDO",
+        "utf8"
+      )
+      await writeFile(
+        path.join(root, "books/il-metodo-bando/chapters/coda-bilanciata.md"),
+        [
+          "---",
+          "title: Coda bilanciata",
+          "outline_section: 1",
+          "---",
+          "# Coda bilanciata",
+          "",
+          longParagraph
+        ].join("\n"),
+        "utf8"
+      )
+
+      const data = await buildBookStudioData(new FileWikiStore(root), "il-metodo-bando")
+      const paragraphBlocks = data.chapters[0].blocks.filter((block) => block.type === "paragraph")
+      const chunkWordCounts = paragraphBlocks.map((block) => block.text?.split(/\s+/).length || 0)
+
+      expect(paragraphBlocks).toHaveLength(2)
+      expect(Math.min(...chunkWordCounts)).toBeGreaterThanOrEqual(36)
+      expect(paragraphBlocks.map((block) => block.text).join(" ")).toBe(longParagraph)
+    } finally {
+      await rm(root, { recursive: true, force: true })
+    }
+  })
+
   it("keeps M-SA02 quiz questions, options and solutions as separate preview blocks", async () => {
     const data = await buildBookStudioData(
       new FileWikiStore(path.resolve(process.cwd(), "wiki")),

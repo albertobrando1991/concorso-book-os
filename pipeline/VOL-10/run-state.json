@@ -3,7 +3,7 @@
   "specPath": "books/volumi/vol-10-tecnico-ingegneristico-territorio-lavori-pubblici/planning/00-scheda-pipeline.md",
   "specHash": "sha256:b9582ff0b8d13a37147bf7b04c7969c20ebe2e12e1d2c843c1299f83af59b454",
   "createdAt": "2026-07-29T16:39:37.771Z",
-  "updatedAt": "2026-08-12T10:15:40.634Z",
+  "updatedAt": "2026-08-12T10:28:38.879Z",
   "steps": [
     {
       "key": "08:moduli/m-tr03-tecnico-ingegneristico/chapters/01-concorso-tecnico-pa-profili-prove.md",
@@ -1883,9 +1883,32 @@
       "phase": "E",
       "scope": "volume",
       "target": "VOL-10",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-12T10:17:38.701Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"page-fill\" dello step 20 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "VOL-10"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di aless: Audit completo 196/196 pagine: 10/10 tavole-contatto ispezionate, registro validato contro DOM corrente, 0 blocker e 0 problemi significativi; code di paragrafo corrette e riflusso rieseguito integralmente."
+          }
+        ],
+        "notImplemented": [
+          "page-fill"
+        ]
+      },
+      "finishedAt": "2026-08-12T10:28:38.879Z"
     },
     {
       "key": "21:VOL-10",

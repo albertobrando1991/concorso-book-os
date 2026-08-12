@@ -1367,6 +1367,17 @@ function splitTextIntoPreviewChunks(text: string, targetWords: number) {
 
   if (current.length > 0) chunks.push(current.join(" "))
 
+  const lastWords = chunks.at(-1)?.split(/\s+/).filter(Boolean) || []
+  if (chunks.length > 1 && lastWords.length < Math.floor(targetWords / 2)) {
+    const previousWords = chunks.at(-2)?.split(/\s+/).filter(Boolean) || []
+    const balancedWords = [...previousWords, ...lastWords]
+    const splitAt = Math.ceil(balancedWords.length / 2)
+    chunks.splice(-2, 2,
+      balancedWords.slice(0, splitAt).join(" "),
+      balancedWords.slice(splitAt).join(" ")
+    )
+  }
+
   return chunks
 }
 

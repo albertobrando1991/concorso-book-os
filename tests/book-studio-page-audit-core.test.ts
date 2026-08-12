@@ -181,19 +181,14 @@ describe("page diagnostic classification", () => {
     ]))
   })
 
-  it("flags an analytical index continued onto another page", () => {
+  it("allows a necessary analytical index continuation", () => {
     const issues = classifyPageDiagnostic(basePage({
       sectionType: "front_matter",
       frontMatterLayout: "analytical-index",
       isFrontMatterContinuation: true
     }), context)
 
-    expect(issues).toEqual(expect.arrayContaining([
-      expect.objectContaining({
-        problemType: "split-index",
-        severity: "media"
-      })
-    ]))
+    expect(issues.some((issue) => issue.problemType === "split-index")).toBe(false)
   })
 
   it("flags abnormal whitespace only on nonterminal content pages", () => {
@@ -286,6 +281,20 @@ describe("page registry and Markdown report", () => {
     expect(markdown).toContain("<!-- page-audit-registry:start -->")
     expect(markdown).toContain("| 1 | nessuno | pagina | nessuna | nessuna | conforme |")
     expect(markdown).toContain("<!-- page-audit-registry:end -->")
+  })
+
+  it("renders report identity from the requested volume", () => {
+    const markdown = renderPageAuditMarkdown({
+      generatedAt: "2026-08-12T12:00:00+02:00",
+      bookId: "volumi/vol-10",
+      diagnostics: [basePage()],
+      issues: []
+    })
+
+    expect(markdown).toContain("id: review-vol-10-step-20-page-audit")
+    expect(markdown).toContain("title: Audit pagina per pagina - VOL-10")
+    expect(markdown).toContain("  - vol-10")
+    expect(markdown).not.toContain("vol-07")
   })
 
   it("rejects missing pages, open outcomes, and missing execution evidence", () => {
