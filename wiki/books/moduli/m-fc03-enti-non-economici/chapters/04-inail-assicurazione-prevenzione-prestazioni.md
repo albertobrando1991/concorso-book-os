@@ -8,10 +8,10 @@ dati_operativi: []
 domain: "concorsi pubblici italiani"
 topics: ["INAIL","assicurazione sociale","prevenzione","prestazioni","salute e sicurezza sul lavoro","metodo bando"]
 entities: ["INAIL","RIPAM","Formez"]
-source_refs: ["sources/m-fc03-dossier-redazionale-enti-pubblici-non-economici.md","sources/m-fc03-fonti-ufficiali-enti-epne-2026.md","sources/m-fc03-corpus-ufficiale-integrativo-2026-07-17.md","sources/m-fc03-bando-ripam-inail-308-funzionari-assistenti-sociali-2024.md","sources/d-lgs-9-aprile-2008-n-81-salute-sicurezza-lavoro.md","sources/vol-03-fonti-specialistiche-fisco-dogane-previdenza-ispettivo.md"]
+source_refs: ["sources/m-fc03-dossier-redazionale-enti-pubblici-non-economici.md","sources/m-fc03-fonti-ufficiali-enti-epne-2026.md","sources/m-fc03-corpus-ufficiale-integrativo-2026-07-17.md","sources/m-fc03-bando-ripam-inail-308-funzionari-assistenti-sociali-2024.md","sources/d-lgs-9-aprile-2008-n-81-salute-sicurezza-lavoro.md","sources/vol-03-fonti-specialistiche-fisco-dogane-previdenza-ispettivo.md", "sources/m-fc03-vigilanza-sicurezza-tecniche-ispettive-aggiornamento-2026-08-12.md"]
 book_refs: ["m-fc03-enti-non-economici","il-metodo-bando"]
 confidence: 0.84
-updated_at: 2026-07-02T22:58:00+02:00
+updated_at: 2026-08-12T15:10:00+02:00
 created_at: 2026-07-02T20:05:00+02:00
 review_required: false
 canonical: true
@@ -38,6 +38,7 @@ last_compiled_from: [
   "wiki/sources/m-fc03-fonti-ufficiali-enti-epne-2026.md",
   "wiki/sources/m-fc03-bando-ripam-inail-308-funzionari-assistenti-sociali-2024.md",
   "wiki/sources/d-lgs-9-aprile-2008-n-81-salute-sicurezza-lavoro.md",
+  "wiki/sources/m-fc03-vigilanza-sicurezza-tecniche-ispettive-aggiornamento-2026-08-12.md",
   "wiki/topics/enti-pubblici-non-economici-concorsi.md",
   "wiki/entities/inps-inail-epne.md"
 ]
@@ -227,6 +228,24 @@ Informazione e formazione non sono sinonimi. L'informazione mette il lavoratore 
 
 Il rappresentante dei lavoratori per la sicurezza esprime la dimensione partecipativa del sistema. Non sostituisce il datore di lavoro, il responsabile del servizio di prevenzione e protezione o gli organi di vigilanza. Il suo ruolo va studiato attraverso funzioni e relazioni, non come semplice sigla da memorizzare. Lo stesso metodo vale per ogni altro soggetto: chi è, che cosa fa, con chi interagisce e quale errore bisogna evitare.
 
+### Obblighi, controllo e conseguenze: la mappa ispettiva
+
+Nel taglio ispettivo il decreto legislativo n. 81/2008 va letto come un sistema di obblighi differenziati, non come un elenco di soggetti. La domanda corretta non è soltanto “chi compare nell'organigramma?”, ma “quale funzione esercita, quali poteri possiede e quale obbligo gli attribuisce la disciplina?”. Il datore di lavoro conserva obblighi propri; dirigenti e preposti operano secondo ruolo e attribuzioni; il lavoratore partecipa alla prevenzione attraverso i doveri che lo riguardano; RSPP, medico competente e RLS svolgono funzioni differenti e non diventano per questo titolari degli stessi obblighi datoriali.
+
+Il controllo segue una catena logica:
+
+1. individuare il pericolo e il rischio rilevante nel contesto;
+2. identificare il soggetto o i soggetti cui la disciplina attribuisce l'obbligo;
+3. precisare la misura preventiva, protettiva, organizzativa o informativa da verificare;
+4. raccogliere fatti, documenti e dichiarazioni pertinenti;
+5. confrontare l'assetto dichiarato con quello effettivamente riscontrato;
+6. qualificare l'eventuale inosservanza e applicare soltanto l'istituto previsto.
+
+Prevenzione e vigilanza sono collegate ma non coincidono. La prevenzione organizza la riduzione del rischio prima dell'evento; la vigilanza verifica il rispetto degli obblighi; la conseguenza amministrativa o penale presuppone un accertamento secondo competenza e legge. Anche la prescrizione obbligatoria prevista nel relativo perimetro dal decreto legislativo n. 758/1994 è distinta dalla diffida amministrativa e dalla diffida accertativa: denominazioni simili non autorizzano sovrapposizioni.
+
+**Caso ispettivo.** In un ufficio è presente una valutazione dei rischi formalmente redatta, ma emergono modifiche organizzative non considerate e segnalazioni rimaste senza riscontro. Il candidato non conclude che il solo documento escluda ogni problema e non attribuisce automaticamente responsabilità a tutti. Ricostruisce cambiamenti, rischi, funzioni, poteri, segnalazioni e misure; distingue carenza documentale e carenza sostanziale; indica poi quale ulteriore accertamento è necessario.
+
+**Errore tipico:** ritenere che la sicurezza sia rispettata perché esiste un documento oppure violata perché si è verificato un infortunio. Documento, organizzazione effettiva, misure e condotte devono essere verificati separatamente. **Verifica:** sai collegare un rischio a soggetto obbligato, misura richiesta, evidenza e possibile seguito senza anticipare la responsabilità?
 ### Applicazione a un ufficio pubblico
 
 Un dipendente nota un ostacolo che può creare pericolo in un'area di passaggio. La soluzione concorsuale non consiste nel minimizzare il problema o nel modificare autonomamente impianti e attrezzature. Occorre mettere in sicurezza nei limiti consentiti, usare il canale di segnalazione, coinvolgere i soggetti competenti e rispettare le istruzioni. Il caso misura senso del servizio, responsabilita e conoscenza dell'organizzazione prevenzionale.

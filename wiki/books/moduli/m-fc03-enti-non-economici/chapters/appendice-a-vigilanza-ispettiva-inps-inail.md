@@ -6,7 +6,7 @@ status: revised_draft
 domain: "concorsi pubblici italiani"
 topics: ["vigilanza lavoro", "vigilanza previdenziale", "vigilanza assicurativa", "previdenza", "assicurazione sociale", "sicurezza sul lavoro", "pubblico impiego"]
 entities: ["INPS", "INAIL", "Ispettorato Nazionale del Lavoro", "Metodo BANDO"]
-source_refs: ["sources/m-fc03-dossier-redazionale-enti-pubblici-non-economici.md", "sources/m-fc03-portali-bandi-concorsi-2023-2026.md", "sources/m-fc03-inl-vigilanza-lavoro-previdenziale.md"]
+source_refs: ["sources/m-fc03-dossier-redazionale-enti-pubblici-non-economici.md", "sources/m-fc03-portali-bandi-concorsi-2023-2026.md", "sources/m-fc03-inl-vigilanza-lavoro-previdenziale.md", "sources/m-fc03-vigilanza-sicurezza-tecniche-ispettive-aggiornamento-2026-08-12.md"]
 book_refs: ["m-fc03-enti-non-economici", "il-metodo-bando"]
 confidence: 0.86
 updated_at: 2026-07-08T00:00:00+02:00
@@ -29,6 +29,7 @@ last_compiled_from: [
   "wiki/sources/m-fc03-dossier-redazionale-enti-pubblici-non-economici.md",
   "wiki/sources/m-fc03-portali-bandi-concorsi-2023-2026.md",
   "wiki/sources/m-fc03-inl-vigilanza-lavoro-previdenziale.md",
+  "wiki/sources/m-fc03-vigilanza-sicurezza-tecniche-ispettive-aggiornamento-2026-08-12.md",
   "wiki/books/moduli/m-fc03-enti-non-economici/chapters/04-inail-assicurazione-prevenzione-prestazioni.md",
   "wiki/books/moduli/m-fc03-enti-non-economici/chapters/08-personale-epne-ccnl-funzioni-centrali.md"
 ]
@@ -174,6 +175,17 @@ La profondità si verifica con una scala operativa. Al livello di riconoscimento
 
 Ogni settimana controlla la scelta sugli output. Se riconosci la risposta corretta ma non sai spiegare la distinzione, la teoria è fragile. Se esponi bene ma non sai ordinare un caso, manca il trasferimento. Se risolvi con formule generiche, devi tornare ai confini tra materia, ente e funzione. La profondità non coincide così con le pagine lette, ma con la capacità dimostrata nella forma di prova richiesta.
 
+### Dall'accesso alla conclusione: fasi e garanzie
+
+L'attività ispettiva non è un unico gesto di controllo. Per studiarla in modo ordinato bisogna distinguere almeno sei passaggi: programmazione o impulso; accesso e identificazione; raccolta degli elementi; istruttoria e riscontri; qualificazione giuridica; verbalizzazione e seguito previsto dalla legge. La sequenza è didattica: il concreto esercizio dei poteri dipende dall'organo competente, dalla materia e dalle disposizioni applicabili.
+
+L'**accesso** apre il contatto con il luogo, i soggetti e la documentazione rilevante, ma non dimostra da solo una violazione. In questa fase contano corretta identificazione, delimitazione dell'oggetto, rispetto delle competenze e documentazione delle attività. Il **verbale di primo accesso** serve a rendere tracciabile la fase iniziale e gli elementi acquisiti o richiesti; non va confuso con un accertamento definitivo.
+
+L'**istruttoria** mette a confronto osservazioni, dichiarazioni, documenti e dati. Una dichiarazione ha una provenienza; un documento ha autore, data e contenuto; un dato di banca dati possiede un ambito e può richiedere riscontro. L'ispettore non li fonde in una conclusione intuitiva: valuta pertinenza, coerenza e convergenza, distingue ciò che è osservato da ciò che è riferito e segnala le contraddizioni da chiarire.
+
+La **qualificazione giuridica** collega i fatti ricostruiti alla norma applicabile. Soltanto dopo questo passaggio si individua l'atto coerente. Contestazione di illecito amministrativo, diffida accertativa per crediti patrimoniali e prescrizione obbligatoria per le contravvenzioni ricomprese nel relativo perimetro sono istituti diversi per presupposti, funzione ed effetti. Il decreto legislativo n. 124/2004 non autorizza a usarli come formule intercambiabili.
+
+**Errore tipico:** partire dalla sanzione desiderata e cercare dopo i fatti che la giustifichino. Il percorso corretto va in direzione opposta: fatto, evidenza, riscontro, regola, conclusione. **Verifica:** sai spiegare perché il primo accesso documenta l'avvio dell'accertamento ma non ne anticipa necessariamente l'esito?
 ## N-FC03-14-05 · Metodo di risposta e scheda sottoprofilo
 
 Compila questa scheda per ogni bando che richiama la vigilanza.
@@ -188,6 +200,24 @@ Compila questa scheda per ogni bando che richiama la vigilanza.
 | Confini | Quali competenze non devo attribuire all'ente sbagliato? |  |
 | Output | Che cosa devo saper produrre: definizione, confronto, caso, checklist, risposta orale? |  |
 
+### Laboratorio: catena fatto-prova-conclusione
+
+Per allenare la tecnica ispettiva usa una scheda che renda controllabile il ragionamento. Non è un modello ufficiale di verbale e non autorizza attività sul campo.
+
+| Campo | Domanda di controllo |
+| --- | --- |
+| Oggetto | Quale obbligo o rapporto deve essere verificato? |
+| Fatto | Che cosa è stato osservato direttamente e che cosa è soltanto dichiarato? |
+| Evidenza | Qual è la provenienza di documento, dichiarazione o dato? |
+| Riscontro | Quale altro elemento conferma, smentisce o limita l'informazione? |
+| Competenza | Quale organo e quale funzione sono pertinenti? |
+| Regola | Quale disciplina consente di qualificare il fatto? |
+| Conclusione | Che cosa può essere affermato e che cosa resta da accertare? |
+| Atto | Quale forma documenta la fase o l'esito, senza confondere istituti diversi? |
+
+**Esempio.** Durante un accesso alcuni nominativi presenti sul luogo non coincidono con la documentazione immediatamente disponibile. Il dato non equivale ancora a lavoro irregolare provato. La scheda separa presenza osservata, identità, dichiarazioni, documenti acquisiti, risultanze delle banche dati consentite e ulteriori verifiche. Solo il confronto permette la qualificazione; il verbale espone fatti ed evidenze in modo comprensibile, senza salti logici.
+
+Una risposta o un elaborato è solido quando il lettore può ripercorrere il passaggio da ogni conclusione agli elementi che la sostengono. È debole se usa formule come “risulta irregolare” senza indicare il fatto, la fonte e il criterio applicato. **Mini-esercizio:** prendi un caso con due documenti discordanti e compila la tabella; poi scrivi una conclusione che distingua ciò che è accertato da ciò che richiede verifica.
 ### Griglia per la risposta
 
 La scheda prepara lo studio; la griglia prepara la prestazione. In una risposta orale o scritta sul sottoprofilo ispettivo, usa una sequenza in sei passaggi:
