@@ -5018,3 +5018,11 @@
 - l0: l0/conv-20260805172610-e1i6yd.md
 - atoms:
   - mem-20260805172610-zzamvq | result | Esito codex/pipeline-volume/step-00/intake: Prossimo step. -> Completato step 00 VOL-08: target M-TR01 identificato, riferimenti canonici e memoria letti, stato Git e collisioni documentati, nessun contenuto editoriale modificato; prossimo step 01.
+
+## 2026-08-12T12:43:53.194Z - VOL-08
+
+- conversation_id: conv-20260812124353-c88rkl
+- route: codex/pipeline-volume/step-16/m-tr01
+- l0: l0/conv-20260812124353-c88rkl.md
+- atoms:
+  - mem-20260812124353-1a6kv5t | result | Esito codex/pipeline-volume/step-16/m-tr01: ok procedi con il prossimo step -> Completato step 16 M-TR01: chiusi 11 flag review_required residui, audit Format 2 82/82 verde, typecheck verde, manifest di text freeze con 39 hash SHA-256 verificati sul commit b0b2a68, gate non implementato accettat...
