@@ -16,7 +16,7 @@ canonical: true
 tags: ["book-chapter","appendix","module-code-m-fc03","professional-draft","glossary"]
 book_id: m-fc03-enti-non-economici
 outline_section: "B"
-draft_stage: step-09-format-2
+draft_stage: step-11-humanized
 module_code: M-FC03
 module_family: funzioni-centrali
 companion_to: il-metodo-bando
@@ -29,9 +29,9 @@ last_compiled_from: ["wiki/books/moduli/m-fc03-enti-non-economici/planning/00-pi
 
 ## Apertura editoriale
 
-Questa appendice serve a dare al candidato il lessico minimo per leggere un bando INPS, INAIL o di altro ente pubblico non economico senza confondere parole vicine. Nei concorsi M-FC03, infatti, molti errori non nascono dalla mancanza totale di studio, ma dall'uso impreciso di termini come previdenza, assistenza, contributi, prestazioni, assicurazione sociale, infortunio, malattia professionale, prevenzione, posizione assicurativa, istruttoria e dati personali.
+Per leggere bene un bando INPS, INAIL o di un altro ente pubblico non economico serve un lessico preciso. Nei concorsi M-FC03 molti errori dipendono proprio dalla confusione tra termini vicini: previdenza, assistenza, contributi, prestazioni, assicurazione sociale, infortunio, malattia professionale, prevenzione, posizione assicurativa, istruttoria e dati personali.
 
-Il glossario non è un dizionario completo e non sostituisce le fonti ufficiali. È uno strumento operativo: ti aiuta a riconoscere le parole del bando, a usarle nello scritto e nell'orale, a evitare confusioni nei casi pratici e a registrare nel diario gli errori di lessico. Il criterio è quello del Metodo BANDO: ogni termine deve aiutarti a leggere il bando, collegare le aree, isolare i nuclei, correggere gli errori e produrre un output di prova.
+Il glossario non è un dizionario completo e non sostituisce le fonti ufficiali. Serve a riconoscere le parole del bando, usarle nello scritto e nell'orale, risolvere i casi pratici e registrare nel diario gli errori di lessico. Secondo il Metodo BANDO, ogni termine deve avere un'utilità concreta nella lettura del bando, nell'organizzazione dello studio o nella produzione di una risposta.
 
 ## Obiettivo dell'appendice
 
@@ -42,7 +42,7 @@ Alla fine dell'appendice devi saper fare quattro cose:
 3. riconoscere quando un termine richiede verifica su fonte ufficiale aggiornata;
 4. evitare risposte generiche, come "l'ente eroga servizi" o "l'utente ha diritto alla prestazione", senza istruttoria, requisiti, canale e comunicazione.
 
-Il risultato atteso non è memorizzare trenta definizioni isolate. È usare il lessico corretto quando il bando o la traccia lo richiedono.
+Non occorre memorizzare trenta definizioni isolate. Occorre scegliere il termine corretto quando il bando o la traccia lo richiedono.
 
 ## Mappa BANDO
 
@@ -58,13 +58,13 @@ Il risultato atteso non è memorizzare trenta definizioni isolate. È usare il l
 
 ### Dalla parola del bando all'output
 
-Usalo in tre momenti.
+Usalo in tre momenti distinti.
 
 Prima dello studio, leggi le voci collegate al bando e sottolinea quelle che compaiono nel programma. Durante i quiz, quando sbagli una domanda per confusione terminologica, trasforma il termine in una riga del diario errori. Prima dell'orale, scegli dieci voci e spiegale in trenta secondi ciascuna, con un esempio INPS o INAIL.
 
-Una definizione utile per concorso deve avere tre caratteristiche: deve essere breve, deve indicare la funzione del termine e deve suggerire l'errore da evitare. Se una definizione non ti aiuta a rispondere, va riscritta.
+Una definizione utile per il concorso è breve, indica la funzione del termine e segnala l'errore da evitare. Se non aiuta a costruire una risposta, va riscritta.
 
-Un glossario concorsuale non si studia in ordine alfabetico. Si costruisce a partire dal programma e dalle prove. La stessa parola può avere un peso diverso se compare tra le materie, nelle mansioni del profilo o in una traccia pratica. «Prestazione», per esempio, non richiede soltanto una definizione: obbliga a capire quale ente è coinvolto, quale bisogno o rischio viene tutelato, quali presupposti devono essere verificati e quale procedimento conduce all'esito. Il termine diventa così una chiave per organizzare la risposta.
+Un glossario concorsuale non si studia in ordine alfabetico. Si costruisce a partire dal programma e dalle prove. La stessa parola può avere un peso diverso se compare tra le materie, nelle mansioni del profilo o in una traccia pratica. Per spiegare «prestazione», per esempio, bisogna capire quale ente è coinvolto, quale bisogno o rischio viene tutelato, quali presupposti vanno verificati e quale procedimento conduce all'esito. La risposta si organizza intorno a questi dati.
 
 Per ogni voce usa una scheda in cinque campi: significato essenziale, funzione, contesto, termine vicino e conseguenza operativa. Il significato essenziale risponde a «che cos'è?». La funzione spiega perché l'istituto esiste. Il contesto indica se la parola appartiene soprattutto all'area INPS, INAIL o al procedimento comune. Il termine vicino evidenzia la distinzione che può diventare oggetto di quiz. La conseguenza operativa mostra che cosa cambia in una domanda, in un caso o nella comunicazione con l'utente.
 
@@ -72,13 +72,13 @@ La definizione va poi provata in tre formati. Nel quiz devi riconoscere il confi
 
 Anche il diario deve registrare la causa dell'errore. Scrivere soltanto «non ricordavo la definizione» è troppo generico. Indica se hai confuso due enti, saltato un passaggio, attribuito un effetto automatico oppure usato una parola quotidiana al posto di quella tecnica. A ogni causa corrisponde un recupero diverso: confronto a due colonne, sequenza procedimentale, micro-caso o risposta orale registrata.
 
-Il glossario personale deve restare selettivo. Attiva le voci presenti nel bando o necessarie per comprendere il profilo; le altre rimangono disponibili per il ripasso. Prima della prova, riduci ogni voce a una domanda e a un errore tipico. Il risultato non è un elenco più corto, ma una rete di concetti che permette di passare dal termine alla decisione senza inventare requisiti, scadenze o procedure.
+Il glossario personale deve restare selettivo. Attiva le voci presenti nel bando o necessarie per comprendere il profilo; conserva le altre per il ripasso. Prima della prova, riduci ogni voce a una domanda e a un errore tipico. Otterrai una rete di concetti con cui passare dal termine alla decisione senza inventare requisiti, scadenze o procedure.
 
 Per controllare la qualità di una voce, prova il test della sostituzione. Sostituisci il termine tecnico con una parola generica come «pratica», «servizio» o «controllo». Se la risposta non perde precisione, la definizione non sta ancora svolgendo il proprio lavoro. Se invece sparisce una distinzione essenziale, per esempio tra domanda e diritto oppure tra prevenzione e prestazione, il termine è stato usato con una funzione reale.
 
 Un secondo controllo riguarda la fonte. Le definizioni stabili possono entrare nella memoria di lungo periodo; dati come requisiti, importi, termini, canali o denominazioni di servizi vanno invece verificati quando si applicano a una procedura concreta. Nel glossario personale segnali questi elementi con una nota «da controllare», senza trasformare un'informazione mobile in una regola generale.
 
-Infine, collega ogni voce a un'altra. «Domanda» richiama «istruttoria»; «rischio» richiama «prevenzione»; «accesso» richiama «titolo» e «limiti»; «prestazione» richiama «presupposti» ed «esito». I collegamenti rendono il richiamo più resistente e preparano le domande trasversali dell'orale. Se una voce resta isolata, aggiungi una coppia, una sequenza o un micro-caso prima di considerarla acquisita.
+Collega poi ogni voce a un'altra. «Domanda» richiama «istruttoria»; «rischio» richiama «prevenzione»; «accesso» richiama «titolo» e «limiti»; «prestazione» richiama «presupposti» ed «esito». Questi legami aiutano il richiamo e preparano alle domande trasversali dell'orale. Se una voce resta isolata, aggiungi una coppia, una sequenza o un micro-caso prima di considerarla acquisita.
 
 ## N-FC03-15-02 · Lessico INPS: previdenza, contribuzione, domanda e prestazione
 
@@ -105,7 +105,7 @@ La distinzione tra previdenza e assistenza evita una delle confusioni più frequ
 
 «Posizione», «requisito» e «prestazione» appartengono a livelli diversi. La posizione contiene dati e periodi rilevanti; il requisito è una condizione richiesta dalla disciplina; la prestazione è la tutela o il servizio che può essere riconosciuto dopo la verifica. La presenza di dati nella posizione non dimostra da sola il possesso di ogni requisito. Allo stesso modo, una domanda completa sul piano formale non garantisce l'accoglimento se manca un presupposto sostanziale.
 
-In prova, una buona risposta evita sia la promessa sia il rifiuto affrettato. Se emerge una discordanza, individua il dato contestato, la fonte da verificare, l'ufficio competente e l'eventuale integrazione. Se l'utente chiede informazioni, verifica identità e titolo prima di consultare o comunicare elementi del fascicolo. Questa sequenza mostra padronanza del lessico e del ruolo amministrativo senza inventare la disciplina della singola prestazione.
+In prova, una buona risposta non promette la prestazione e non oppone un rifiuto affrettato. Se emerge una discordanza, individua il dato contestato, la fonte da verificare, l'ufficio competente e l'eventuale integrazione. Se l'utente chiede informazioni, verifica identità e titolo prima di consultare o comunicare elementi del fascicolo. La sequenza dimostra padronanza del lessico e del ruolo amministrativo senza inventare la disciplina della singola prestazione.
 
 ## N-FC03-15-03 · Lessico INAIL: assicurazione sociale, rischio, evento e prevenzione
 
@@ -134,7 +134,7 @@ Infortunio e malattia professionale non sono due nomi dello stesso fenomeno. Il 
 
 La prevenzione modifica anche il modo di parlare dell'ente. Ridurre INAIL alle prestazioni successive all'evento cancella una parte della funzione istituzionale. Una risposta completa collega assicurazione, rischio, prevenzione, tutela e rapporto con lavoratori e imprese. Se il bando include salute e sicurezza, la profondità dipende dal programma: principi, soggetti e obblighi possono essere necessari, mentre procedure tecniche e compiti specialistici non vanno dedotti dal solo nome dell'ente.
 
-Le informazioni relative alla salute richiedono un'attenzione specifica. Il loro impiego deve essere pertinente alla pratica e la comunicazione presuppone identità, titolo e canale adeguato. «Riservatezza» non significa bloccare ogni informazione, ma trattarla entro finalità, competenza e limiti. In una prova situazionale, questa distinzione separa la risposta professionale sia dalla divulgazione impropria sia dal rifiuto generico di assistere l'interessato.
+Le informazioni relative alla salute richiedono un'attenzione specifica. Il loro impiego deve essere pertinente alla pratica e la comunicazione presuppone identità, titolo e canale adeguato. «Riservatezza» non impone di bloccare ogni informazione: impone di trattarla entro finalità, competenza e limiti. In una prova situazionale, la risposta professionale evita la divulgazione impropria, ma anche il rifiuto generico di assistere l'interessato.
 
 ## N-FC03-15-04 · Termini comuni: procedimento, servizio, accesso e dati
 
@@ -163,7 +163,7 @@ La tracciabilità tutela sia l'utente sia l'amministrazione. Permette di ricostr
 
 Anche i ruoli vanno distinti. «Utente» descrive chi entra in relazione con il servizio, ma non cancella le sue eventuali qualità di lavoratore, impresa, delegato o interessato. «Sportello» e «back office» descrivono funzioni organizzative, non necessariamente persone o uffici identici in ogni ente. Una risposta accurata usa il ruolo necessario per il problema: ricevere, orientare, istruire, decidere o comunicare.
 
-Nel quiz, cerca l'opzione che rispetta competenza, sequenza e limiti. All'orale, collega il termine a una funzione e a una distinzione. Nel caso, traduci il lessico in azioni: verificare identità e titolo, acquisire gli elementi pertinenti, indirizzare all'ufficio competente, motivare la richiesta di integrazione e comunicare senza anticipare l'esito. Il vocabolario comune diventa così metodo amministrativo.
+Nel quiz, cerca l'opzione che rispetta competenza, sequenza e limiti. All'orale, collega il termine a una funzione e a una distinzione. Nel caso, traduci il lessico in azioni: verifica identità e titolo, acquisisci gli elementi pertinenti, indirizza la richiesta all'ufficio competente, motiva l'eventuale integrazione e comunica senza anticipare l'esito. Il vocabolario assume così una funzione amministrativa concreta.
 
 ## N-FC03-15-05 · Coppie da non confondere e trasferimento nelle prove
 
@@ -198,11 +198,11 @@ Nei quiz, molte alternative errate sono costruite cancellando questa differenza.
 
 All'orale puoi usare uno schema breve: definisci il primo termine, definisci il secondo, indica il criterio di distinzione e chiudi con una conseguenza pratica. Nel caso, invece, parti dai fatti. Se l'utente ha presentato una domanda, non parlare subito di prestazione; se chiede un documento, non invocare genericamente la privacy; se comunica un evento lavorativo, non confondere la segnalazione con il riconoscimento della tutela.
 
-Le frasi operative della tabella sono punti di partenza. Adattale al verbo della traccia e alle informazioni disponibili. Una risposta efficace non accumula tutte le parole del glossario: seleziona quelle che spiegano il problema. Il controllo finale è semplice: ogni termine impiegato deve aggiungere una distinzione, un passaggio o una cautela. Se può essere eliminato senza cambiare il ragionamento, probabilmente è ornamentale.
+Le frasi operative della tabella sono punti di partenza. Adattale al verbo della traccia e alle informazioni disponibili. Una risposta efficace sceglie le parole che spiegano il problema, invece di accumulare l'intero glossario. Nel controllo finale, verifica che ogni termine aggiunga una distinzione, un passaggio o una cautela. Se puoi eliminarlo senza cambiare il ragionamento, probabilmente è ornamentale.
 
 ### Micro-caso di classificazione
 
-Un utente presenta allo sportello una domanda priva di un documento e afferma di avere già diritto alla prestazione. La risposta corretta non contrappone cortesia e rigore. Distingue domanda e diritto, qualifica il documento mancante come possibile integrazione, individua l'istruttoria necessaria e comunica i passaggi senza anticipare l'esito. Se la pratica contiene dati di terzi o relativi alla salute, aggiunge il controllo su identità, titolo e canale. Il lessico consente così di costruire la soluzione, non soltanto di descriverla.
+Un utente presenta allo sportello una domanda priva di un documento e afferma di avere già diritto alla prestazione. La risposta deve essere cortese e rigorosa. Distingue domanda e diritto, qualifica il documento mancante come possibile integrazione, individua l'istruttoria necessaria e comunica i passaggi senza anticipare l'esito. Se la pratica contiene dati di terzi o relativi alla salute, aggiunge il controllo su identità, titolo e canale. Qui il lessico costruisce la soluzione, anziché limitarsi a descriverla.
 
 ## N-FC03-15-06 · Laboratorio del lessico INPS-INAIL
 
@@ -218,13 +218,13 @@ Per Marco, la parola prestazione richiama domanda dell'utente, posizione contrib
 
 La differenza emerge in un caso pratico. Se un utente chiede l'esito di una domanda incompleta, Marco deve ragionare su pratica INPS, integrazione documentale, requisiti e dati personali. Se un lavoratore chiede informazioni su una pratica collegata a un infortunio, Sara deve ragionare su evento lavorativo, canale corretto, dati sanitari, istruttoria e limiti della comunicazione.
 
-Il glossario serve proprio a questo: non a moltiplicare parole, ma a scegliere il linguaggio giusto per il contesto giusto.
+Il glossario aiuta a scegliere il linguaggio adatto al contesto, senza moltiplicare le parole.
 
 ### Domanda da commissario
 
 **Domanda:** perché, nei concorsi per enti pubblici non economici, è importante distinguere previdenza, assicurazione sociale e prestazioni?
 
-**Risposta modello:** perché i termini orientano il ragionamento. La previdenza richiama soprattutto il contesto INPS: contributi, posizione dell'utente, requisiti, domanda e prestazioni. L'assicurazione sociale, nel contesto INAIL, richiama invece rischio lavorativo, infortunio, malattia professionale, prevenzione e tutela. La prestazione non è un diritto automatico, ma l'eventuale esito di un procedimento fondato su presupposti, istruttoria e comunicazione corretta. Distinguere i termini consente di rispondere meglio a quiz, orale, casi pratici e quesiti situazionali.
+**Risposta modello:** i termini orientano il ragionamento. La previdenza richiama soprattutto il contesto INPS: contributi, posizione dell'utente, requisiti, domanda e prestazioni. L'assicurazione sociale, nel contesto INAIL, richiama invece rischio lavorativo, infortunio, malattia professionale, prevenzione e tutela. La prestazione è l'eventuale esito di un procedimento fondato su presupposti, istruttoria e comunicazione corretta; non nasce automaticamente dalla domanda. Con queste distinzioni si affrontano quiz, orale, casi pratici e quesiti situazionali senza sovrapporre i due ambiti.
 
 ### Domanda-trappola
 
@@ -238,7 +238,7 @@ Il glossario serve proprio a questo: non a moltiplicare parole, ma a scegliere i
 
 L'errore più frequente è imparare definizioni isolate e poi non saperle usare. Il candidato sa dire che cos'è una prestazione, ma non sa distinguere domanda, istruttoria, requisito ed esito. Sa citare l'INAIL, ma non collega assicurazione, prevenzione e sicurezza. Sa parlare di privacy, ma comunica dati dell'utente come se fossero informazioni ordinarie.
 
-La correzione è semplice: per ogni termine compila tre righe.
+Per correggere l'errore, compila tre righe per ogni termine.
 
 | Termine | Dove compare? | Come lo uso in prova? |
 | --- | --- | --- |
