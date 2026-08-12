@@ -1,7 +1,7 @@
 import fs from "node:fs/promises"
 import path from "node:path"
 import { chromium } from "@playwright/test"
-import { assertBookReady, createPdfExportContract } from "./book-studio-pdf-export-core.mjs"
+import { assertBookReady, createPdfExportContract, normalizeKdpTrimBoxes } from "./book-studio-pdf-export-core.mjs"
 
 const baseUrl = process.env.BOOK_STUDIO_URL || "http://127.0.0.1:3010"
 const bookId = process.env.BOOK_STUDIO_BOOK_ID || "volumi/vol-07"
@@ -70,13 +70,21 @@ try {
   await page.emulateMedia({ media: "print" })
   await page.pdf(contract.pdfOptions)
 
+  const rawPdf = await fs.readFile(outputPath)
+  const normalizedPdf = normalizeKdpTrimBoxes(rawPdf)
+  if (normalizedPdf.replacements !== readiness.pageCount) {
+    throw new Error(`Normalizzazione trim incompleta: attese ${readiness.pageCount} pagine, sostituiti ${normalizedPdf.replacements} box.`)
+  }
+  await fs.writeFile(outputPath, normalizedPdf.buffer)
+
   const stat = await fs.stat(outputPath)
   console.log(JSON.stringify({
     ok: true,
     bookId,
     outputPath,
     pageCount: readiness.pageCount,
-    bytes: stat.size
+    bytes: stat.size,
+    normalizedTrimBoxes: normalizedPdf.replacements
   }, null, 2))
 } finally {
   await browser.close()

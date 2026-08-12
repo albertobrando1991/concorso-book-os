@@ -19,3 +19,4 @@ export interface BookReadiness {
 
 export function createPdfExportContract(outputPath: string): PdfExportContract
 export function assertBookReady(input: BookReadiness): void
+export function normalizeKdpTrimBoxes(input: Buffer): { buffer: Buffer; replacements: number }

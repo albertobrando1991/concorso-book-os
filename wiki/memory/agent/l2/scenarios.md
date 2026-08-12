@@ -5482,3 +5482,11 @@
 - atoms:
   - mem-20260812110426-xfxoxa | workflow | Applicare la pipeline aggiornata a VOL-10 fino allo stato pubblicabile senza revisione umana finale; procedere con lo step 21.
   - mem-20260812110426-au42of | result | Esito pipeline-step-21: Applicare la pipeline aggiornata a VOL-10 fino allo stato pubblicabile senza revisione umana finale; procedere con lo step 21. -> Step 21 completato: revisione editoriale totale approvata.
+
+## 2026-08-12T12:12:39.665Z - VOL-10
+
+- conversation_id: conv-20260812121239-q2q8ib
+- route: pipeline-step-22
+- l0: l0/conv-20260812121239-q2q8ib.md
+- atoms:
+  - mem-20260812121239-1y6nsny | result | Esito pipeline-step-22: Procedere con il prossimo step della pipeline VOL-10. -> Step 22 completato: preflight locale conforme.

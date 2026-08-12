@@ -11,7 +11,7 @@ describe("Book Studio PDF export contract", () => {
     expect(createPdfExportContract, "implementare il contratto di export PDF").toBeTypeOf("function")
 
     const contract = createPdfExportContract!("delivery/VOL-07/candidate/vol-07-interior-kdp.pdf")
-    expect(contract.pageCss).toContain("@page { size: 6.69in 9.61in; margin: 0; }")
+    expect(contract.pageCss).toContain("@page { size: 481.68pt 691.92pt; margin: 0; }")
     expect(contract.pdfOptions).toEqual({
       path: "delivery/VOL-07/candidate/vol-07-interior-kdp.pdf",
       width: "6.69in",
@@ -20,6 +20,16 @@ describe("Book Studio PDF export contract", () => {
       preferCSSPageSize: true,
       margin: { top: "0", right: "0", bottom: "0", left: "0" }
     })
+  })
+
+  it("normalizes Chromium page boxes to the exact KDP trim without changing PDF offsets", async () => {
+    const { normalizeKdpTrimBoxes } = await import("../scripts/book-studio-pdf-export-core.mjs")
+    const input = Buffer.from("/MediaBox [0 0 481.91998 691.91998]", "latin1")
+    const output = normalizeKdpTrimBoxes(input)
+
+    expect(output.buffer.toString("latin1")).toBe("/MediaBox [0 0 481.68000 691.92000]")
+    expect(output.replacements).toBe(1)
+    expect(output.buffer.length).toBe(input.length)
   })
 
   it("blocks export when pagination, fonts, or images are not stable", async () => {
