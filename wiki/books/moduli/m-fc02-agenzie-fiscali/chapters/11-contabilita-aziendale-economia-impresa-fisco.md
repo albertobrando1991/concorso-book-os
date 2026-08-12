@@ -381,8 +381,6 @@ D. modifica il bilancio approvato.
 - [ ] Ricostruisco il passaggio da utile a imponibile.
 - [ ] Uso le anomalie come segnali da verificare.
 
-## Riferimenti consolidati
-
 
 ## Note di review
 

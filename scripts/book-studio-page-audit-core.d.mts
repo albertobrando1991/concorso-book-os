@@ -1,6 +1,9 @@
 export type AuditSeverity = "bloccante" | "media" | "lieve" | "nessuna"
 export type AuditOutcome = "aperto" | "conforme" | "risolto - ricontrollato"
 
+export function isIntentionalTableContinuationOverlap(leftType: string, rightType: string, rightContinued: boolean): boolean
+export function buildBookStudioAuditUrl(baseUrl: string, bookId: string): string
+
 export interface PageAuditOptions {
   baseUrl: string
   bookId: string

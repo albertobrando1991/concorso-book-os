@@ -343,8 +343,6 @@ D. provano il titolo.
 
 ![Figura 10.5 - Checklist Catasto e pubblicità immobiliare: dato, mappa, valore e formalita vanno separati prima di rispondere.](../assets/chapter-10/05-checklist-catasto-pubblicita-immobiliare.png)
 
-## Riferimenti consolidati
-
 
 ## Note di review
 

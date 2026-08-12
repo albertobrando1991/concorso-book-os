@@ -479,6 +479,8 @@ La tavola aiuta a riconoscere il piano giuridico pertinente e rinvia alla relati
 
 ![Figura 14.4 - Reati, sanzioni, condotte e rischio: una mappa per separare recupero, illecito amministrativo, fattispecie penale e tutela.](../assets/chapter-14/02-reati-sanzioni-condotte-rischio.png)
 
+Usa la prima mappa per qualificare correttamente la condotta; passa poi alla seconda per individuare la fonte applicabile e il raccordo tra disciplina unionale e nazionale.
+
 ![Figura 14.5 - Diritto UE fiscale e doganale: fonte, ambito, regola unionale e raccordo nazionale nella sequenza operativa.](../assets/chapter-14/03-diritto-ue-doganale-mappa-operativa.png)
 ## Appendice G - Checklist orale
 
@@ -567,8 +569,6 @@ Compilare le caselle con parole generiche come "controllo" o "ricorso". Ogni cas
 ## Mini-esercizio
 
 Scegli un nucleo rosso e produci una voce di glossario, una tavola, un canvas, un orale da 120 secondi e la prima riga del piano di ripasso. Se compare un dato mobile, aggiungi fonte e data.
-
-## Riferimenti consolidati
 
 
 ## Note di review

@@ -3,7 +3,7 @@
   "specPath": "books/volumi/vol-03-fisco-dogane-previdenza-ispettivo/planning/00-scheda-pipeline.md",
   "specHash": "sha256:7a5be32028a6026f42eac9b7a221a5879330c694249c48b679a9f6ab5999df16",
   "createdAt": "2026-07-27T20:05:30.039Z",
-  "updatedAt": "2026-08-12T09:59:54.072Z",
+  "updatedAt": "2026-08-12T17:02:34.012Z",
   "steps": [
     {
       "key": "08:moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md",
@@ -6740,7 +6740,7 @@
       "phase": "F",
       "scope": "volume",
       "target": "VOL-03",
-      "status": "blocked",
+      "status": "done",
       "attempts": 1,
       "evidence": [],
       "owner": "aless",
@@ -6748,19 +6748,24 @@
       "provider": "codex",
       "startedAt": "2026-08-12T09:37:46.872Z",
       "gate": {
-        "passed": false,
-        "blockers": [
+        "passed": true,
+        "blockers": [],
+        "warnings": [
           {
-            "code": "gate-not-implemented",
+            "code": "accepted:gate-not-implemented",
             "message": "Il gate \"preflight\" dello step 22 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
             "location": "VOL-03"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di aless: Preflight manuale completato: audit DOM 819 pagine, numerazione stabile, 0 anomalie bloccanti; 14 note non bloccanti riesaminate. PDF KDP finale 9.517.620 byte, SHA-256 357B144AE867BDED32195D75E47DC24A4898B180E6D91EC5AAD0C4EFB6234884, MediaBox 6,69 x 9,61 pollici, 819 pagine entro limite 828; 63 test mirati, typecheck, build e diff-check superati. KDP Previewer non installato e dichiarato non eseguito."
           }
         ],
-        "warnings": [],
         "notImplemented": [
           "preflight"
         ]
-      }
+      },
+      "finishedAt": "2026-08-12T16:51:08.053Z"
     },
     {
       "key": "23:VOL-03",
@@ -6768,9 +6773,32 @@
       "phase": "F",
       "scope": "volume",
       "target": "VOL-03",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-12T16:53:56.947Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"delivery\" dello step 23 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "VOL-03"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di aless: Pacchetto VOL-03-candidate-2026.08.12.1 preparato con PDF 819 pagine e 8 documenti di consegna; manifest SHA-256 verificato 8/8. Stato remoto verificato con fetch: nessun merge eseguito sulla working tree condivisa divergente. Staging selettivo di 22 file pertinenti, cache/log/screenshot/patch e lavori di altri volumi esclusi; git diff --cached --check verde. Gate finali: 63/63 test mirati, typecheck e build Next 20/20 superati. Il volume resta candidato non approvato, con step 24 umano pendente e KDP Previewer non eseguito."
+          }
+        ],
+        "notImplemented": [
+          "delivery"
+        ]
+      },
+      "finishedAt": "2026-08-12T16:59:41.888Z"
     },
     {
       "key": "24:VOL-03",
@@ -6778,9 +6806,32 @@
       "phase": "F",
       "scope": "volume",
       "target": "VOL-03",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-12T17:01:24.147Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"human-signoff\" dello step 24 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "VOL-03"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di aless: Confermato dall'utente il 12 agosto 2026: VOL-03-candidate-2026.08.12.1 è valido e autorizzato alla pubblicazione controllata sulla base del pacchetto finale dello step 23. La conferma non include un esito KDP Previewer, non installato localmente; eventuali warning di upload devono riaprire il gate pertinente."
+          }
+        ],
+        "notImplemented": [
+          "human-signoff"
+        ]
+      },
+      "finishedAt": "2026-08-12T17:02:34.012Z"
     }
   ]
 }

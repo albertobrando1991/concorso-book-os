@@ -328,8 +328,6 @@ D. gestione diretta obbligatoria di ADM.
 
 ![Figura 9.5 - Checklist accise, giochi e monopoli: materia, prodotto, titolo, documenti, controllo e cautela sulle sanzioni.](../assets/chapter-09/05-checklist-accise-giochi-monopoli.png)
 
-## Riferimenti consolidati
-
 
 ## Note di review
 

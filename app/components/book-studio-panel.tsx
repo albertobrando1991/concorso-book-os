@@ -1291,7 +1291,24 @@ function paginateMeasuredChapters(chapters: BookStudioChapter[], root: HTMLDivEl
     }
   })
 
-  return pages
+  return keepTrailingHeadingsWithNextPage(pages)
+}
+
+function keepTrailingHeadingsWithNextPage(pages: PreviewPage[]): PreviewPage[] {
+  const nextPages = pages.map((page) => ({ ...page, blocks: [...page.blocks] }))
+
+  for (let index = 0; index < nextPages.length - 1; index += 1) {
+    const page = nextPages[index]
+    const nextPage = nextPages[index + 1]
+    const trailingHeading = page.blocks.at(-1)
+
+    if (trailingHeading?.type !== "heading" || nextPage.chapter.path !== page.chapter.path) continue
+
+    page.blocks.pop()
+    nextPage.blocks.unshift(trailingHeading)
+  }
+
+  return renumberPreviewPages(nextPages.filter((page) => page.blocks.length > 0))
 }
 
 function refineRenderedPageOverflows(pages: PreviewPage[], root: HTMLDivElement | null): PreviewPage[] {
@@ -1319,7 +1336,13 @@ function refineRenderedPageOverflows(pages: PreviewPage[], root: HTMLDivElement 
 
     if (firstOverflowIndex <= 0) continue
 
-    const movedBlocks = nextPages[index].blocks.splice(firstOverflowIndex)
+    let moveFromIndex = firstOverflowIndex
+
+    if (nextPages[index].blocks[firstOverflowIndex - 1]?.type === "heading") {
+      moveFromIndex = firstOverflowIndex - 1
+    }
+
+    const movedBlocks = nextPages[index].blocks.splice(moveFromIndex)
 
     if (movedBlocks.length === 0) continue
 
@@ -1337,7 +1360,7 @@ function refineRenderedPageOverflows(pages: PreviewPage[], root: HTMLDivElement 
       })
     }
 
-    return renumberPreviewPages(nextPages)
+    return keepTrailingHeadingsWithNextPage(renumberPreviewPages(nextPages))
   }
 
   return pages

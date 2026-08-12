@@ -229,6 +229,8 @@ Le autorità doganali possono verificare dichiarazioni, documenti, contabilità 
 
 ![Figura 8.4 - Controlli doganali, analisi del rischio e AEO: affidabilità e facilitazioni non eliminano le verifiche.](../assets/chapter-08/04-controlli-doganali-rischio-aeo.png)
 
+La prima mappa chiarisce come viene selezionato il controllo; la checklist successiva traduce quella logica nei dati da verificare prima di presentare la dichiarazione.
+
 ![Figura 8.5 - Checklist della dichiarazione doganale: soggetto, merce, triade tecnica, regime, documenti e rischio.](../assets/chapter-08/05-checklist-dichiarazione-doganale.png)
 
 Un controllo documentale confronta dichiarazione, fattura, trasporto, origine, autorizzazioni e altri elementi. Il controllo fisico verifica natura, quantità, marchi, confezioni e corrispondenza con quanto dichiarato. Le analisi di laboratorio aiutano a determinare composizione e classificazione.
@@ -373,8 +375,6 @@ D. l'esenzione definitiva da ogni obbligo.
 - [ ] Distinguo rappresentanza diretta e indiretta.
 - [ ] So spiegare debito, garanzia e controllo successivo.
 - [ ] So risolvere il caso guidato senza saltare fasi.
-
-## Riferimenti consolidati
 
 
 ## Note di review
