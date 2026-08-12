@@ -3,7 +3,7 @@
   "specPath": "books/volumi/vol-08-ict-digitale-cybersecurity-dati/planning/00-scheda-pipeline.md",
   "specHash": "sha256:af67ff81718eae7e5e2d8b29cdd926e24769a54de17ffffc130f7dd3cbd210d4",
   "createdAt": "2026-07-28T19:54:29.381Z",
-  "updatedAt": "2026-08-12T12:56:33.781Z",
+  "updatedAt": "2026-08-12T13:29:35.124Z",
   "steps": [
     {
       "key": "08:moduli/m-tr01-ict-trasformazione-digitale/chapters/01-lavorare-ict-pa-ruoli-enti-prove.md",
@@ -2125,9 +2125,32 @@
       "phase": "E",
       "scope": "volume",
       "target": "VOL-08",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-12T12:58:32.473Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"page-fill\" dello step 20 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "VOL-08"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di aless: Audit completo Book Studio: registro 231/231 pagine, numerazione progressiva, 12/12 tavole-contatto ispezionate, zero overflow, collisioni, titoli orfani, asset mancanti o blocker. Corretto il paginator con test TDD. Tre euristiche medie ricontrollate e chiuse: indice analitico su due pagine necessario per 82 nuclei, vuoto fisiologico a pagina 49, lista riferimenti semanticamente completa a pagina 157."
+          }
+        ],
+        "notImplemented": [
+          "page-fill"
+        ]
+      },
+      "finishedAt": "2026-08-12T13:29:35.124Z"
     },
     {
       "key": "21:VOL-08",
