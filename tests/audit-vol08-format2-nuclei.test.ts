@@ -26,8 +26,27 @@ function audit(root: string) {
     encoding: "utf8"
   })
 }
+function replacePrimaryCell(root: string, cellIndex: number, value: string, nucleusId = "N-TR01-01-01") {
+  const matrix = join(root, moduleRelative, "planning", "02-matrice-copertura-didattica.md")
+  const lines = readFileSync(matrix, "utf8").split(/\r?\n/).map((line) => {
+    const cells = line.split("|").slice(1, -1).map((cell) => cell.trim())
+    if (!line.startsWith(`| \`${nucleusId}\` |`) || cells.length !== 14) return line
+    cells[cellIndex] = value
+    return `| ${cells.join(" | ")} |`
+  })
+  writeFileSync(matrix, lines.join("\n"), "utf8")
+}
 
 describe("audit-vol08-format2-nuclei", () => {
+  it("preserves a completed canonical matrix when running with --write", () => {
+    const root = fixtureRoot()
+    const matrix = join(root, moduleRelative, "planning", "02-matrice-copertura-didattica.md")
+    const before = readFileSync(matrix, "utf8")
+    expect(before).toContain("| completo |")
+    const result = spawnSync(process.execPath, [script, "--root", root, "--write"], { cwd: repositoryRoot, encoding: "utf8" })
+    expect(result.status, result.stdout + result.stderr).toBe(0)
+    expect(readFileSync(matrix, "utf8")).toBe(before)
+  })
   it("rejects an extra valid nucleus ID in the analytical index", () => {
     const root = fixtureRoot()
     const index = join(root, moduleRelative, "index.md")
@@ -72,21 +91,20 @@ describe("audit-vol08-format2-nuclei", () => {
   it("rejects the former chapter-level evidence placeholders in a matrix row", () => {
     const root = fixtureRoot()
     const matrix = join(root, moduleRelative, "planning", "02-matrice-copertura-didattica.md")
-    writeFileSync(matrix, readFileSync(matrix, "utf8").replace("open: attestazione strutturata richiesta allo step 15", "source_refs del capitolo"), "utf8")
+    replacePrimaryCell(root, 7, "source_refs del capitolo")
     expect(audit(root).status).not.toBe(0)
   })
   it("rejects a verified evidence cell that is too short", () => {
     const root = fixtureRoot()
     const matrix = join(root, moduleRelative, "planning", "02-matrice-copertura-didattica.md")
-    writeFileSync(matrix, readFileSync(matrix, "utf8").replace("open: attestazione strutturata richiesta allo step 15", "verified: breve"), "utf8")
+    replacePrimaryCell(root, 7, "verified: breve")
     expect(audit(root).status).not.toBe(0)
   })
 
-  it("keeps chapter 01 and 13 Q/C/E open until a structured atomic mapping exists", () => {
-    const root = fixtureRoot()
-    const matrix = readFileSync(join(root, moduleRelative, "planning", "02-matrice-copertura-didattica.md"), "utf8")
-    expect(matrix.match(/N-TR01-01-\d\d[\s\S]{0,900}Q:\d/g)).toBeNull()
-    expect(matrix.match(/N-TR01-13-\d\d[\s\S]{0,900}Q:\d/g)).toBeNull()
+  it("records chapter 01 and 13 Q/C/E after structured atomic mappings exist", () => {
+    const matrix = readFileSync(join(fixtureRoot(), moduleRelative, "planning", "02-matrice-copertura-didattica.md"), "utf8")
+    expect(matrix).toMatch(/N-TR01-01-\d\d[\s\S]{0,1800}Q:\d/)
+    expect(matrix).toMatch(/N-TR01-13-\d\d[\s\S]{0,1800}Q:\d/)
   })
 
   it("rejects an impossible numeric Q/C/E distribution without an atomic mapping", () => {
@@ -98,7 +116,7 @@ describe("audit-vol08-format2-nuclei", () => {
     const target = manifest.verificationAttestations.find(
       (attestation: { nucleusId: string; target: string }) => attestation.nucleusId === "N-TR01-01-01"
     ).target
-    writeFileSync(matrix, readFileSync(matrix, "utf8").replaceAll(`verified: ${target}`, "Q:99 C:99 E:99"), "utf8")
+    writeFileSync(matrix, readFileSync(matrix, "utf8").replace("Q:1 C:0 E:0", "Q:99 C:99 E:99"), "utf8")
     expect(audit(root).status).not.toBe(0)
   })
   it("accepts Q/C/E counts derived from atomic verification mappings", () => {
@@ -106,7 +124,7 @@ describe("audit-vol08-format2-nuclei", () => {
     const matrix = join(root, moduleRelative, "planning", "02-matrice-copertura-didattica.md")
     const manifest = JSON.parse(readFileSync(join(root, moduleRelative, "planning", "10-manifest-nuclei-format-2.json"), "utf8"))
     const target = manifest.verificationAttestations.find((attestation: { nucleusId: string; target: string }) => attestation.nucleusId === "N-TR01-01-01").target
-    writeFileSync(matrix, readFileSync(matrix, "utf8").split(/\r?\n/).map((line) => line.startsWith("| `N-TR01-01-01` |") && line.split("|").slice(1, -1).length === 14 ? line.replace(`verified: ${target}`, "Q:1 C:0 E:0") : line).join("\n"), "utf8")
+    writeFileSync(matrix, readFileSync(matrix, "utf8").split(/\r?\n/).map((line) => line.startsWith("| `N-TR01-01-01` |") && line.split("|").slice(1, -1).length === 14 ? line : line).join("\n"), "utf8")
     const result = audit(root)
     expect(result.status, result.stdout + result.stderr).toBe(0)
   })
@@ -116,34 +134,34 @@ describe("audit-vol08-format2-nuclei", () => {
     const matrix = join(root, moduleRelative, "planning", "02-matrice-copertura-didattica.md")
     const manifest = JSON.parse(readFileSync(join(root, moduleRelative, "planning", "10-manifest-nuclei-format-2.json"), "utf8"))
     const target = manifest.verificationAttestations.find((attestation: { nucleusId: string; target: string }) => attestation.nucleusId === "N-TR01-01-01").target
-    writeFileSync(matrix, readFileSync(matrix, "utf8").split(/\r?\n/).map((line) => line.startsWith("| `N-TR01-01-01` |") && line.split("|").slice(1, -1).length === 14 ? line.replace(`verified: ${target}`, "Q:2 C:0 E:0") : line).join("\n"), "utf8")
+    writeFileSync(matrix, readFileSync(matrix, "utf8").split(/\r?\n/).map((line) => line.startsWith("| `N-TR01-01-01` |") && line.split("|").slice(1, -1).length === 14 ? line.replace("Q:1 C:0 E:0", "Q:2 C:0 E:0") : line).join("\n"), "utf8")
     const result = audit(root)
     expect(result.status, result.stdout + result.stderr).not.toBe(0)
   })
   it("rejects nonsense verified evidence even when it is long enough", () => {
     const root = fixtureRoot()
     const matrix = join(root, moduleRelative, "planning", "02-matrice-copertura-didattica.md")
-    writeFileSync(matrix, readFileSync(matrix, "utf8").replace("open: attestazione strutturata richiesta allo step 15", "verified: abcdefghijklmnopqrstuvwx."), "utf8")
+    replacePrimaryCell(root, 7, "verified: abcdefghijklmnopqrstuvwx.")
     expect(audit(root).status).not.toBe(0)
   })
 
   it("rejects a short verified dimensional cell", () => {
     const root = fixtureRoot()
     const matrix = join(root, moduleRelative, "planning", "02-matrice-copertura-didattica.md")
-    writeFileSync(matrix, readFileSync(matrix, "utf8").replace("open: review step 15", "✓ verified: breve"), "utf8")
+    replacePrimaryCell(root, 8, "verified: breve")
     expect(audit(root).status).not.toBe(0)
   })
   it("rejects a verified phrase that is only a compressed tail of a sentence", () => {
     const root = fixtureRoot()
     const matrix = join(root, moduleRelative, "planning", "02-matrice-copertura-didattica.md")
-    writeFileSync(matrix, readFileSync(matrix, "utf8").replace("open: attestazione strutturata richiesta allo step 15", "verified: decisione esplicita."), "utf8")
+    replacePrimaryCell(root, 7, "verified: decisione esplicita.")
     expect(audit(root).status).not.toBe(0)
   })
 
   it("rejects a verified half-sentence beginning with a connector", () => {
     const root = fixtureRoot()
     const matrix = join(root, moduleRelative, "planning", "02-matrice-copertura-didattica.md")
-    writeFileSync(matrix, readFileSync(matrix, "utf8").replace("open: attestazione strutturata richiesta allo step 15", "verified: e la decisione resta verificabile nel servizio pubblico."), "utf8")
+    replacePrimaryCell(root, 7, "verified: e la decisione resta verificabile nel servizio pubblico.")
     expect(audit(root).status).not.toBe(0)
   })
 
@@ -151,8 +169,8 @@ describe("audit-vol08-format2-nuclei", () => {
     const root = fixtureRoot()
     const chapter = join(root, moduleRelative, "chapters", "01-lavorare-ict-pa-ruoli-enti-prove.md")
     const matrix = join(root, moduleRelative, "planning", "02-matrice-copertura-didattica.md")
-    writeFileSync(chapter, readFileSync(chapter, "utf8").replace("## N-TR01-01-02", "| Campo | Nota |\n| --- | --- |\n| prova | La decisione artificiale è verificabile nel servizio pubblico. |\n\n## N-TR01-01-02"), "utf8")
-    writeFileSync(matrix, readFileSync(matrix, "utf8").replace("open: attestazione strutturata richiesta allo step 15", "verified: La decisione artificiale è verificabile nel servizio pubblico."), "utf8")
+    writeFileSync(chapter, readFileSync(chapter, "utf8").replace("## N-TR01-01-02", "| Campo | Nota |\n| --- | --- |\n| prova | La decisione artificiale ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¨ verificabile nel servizio pubblico. |\n\n## N-TR01-01-02"), "utf8")
+    replacePrimaryCell(root, 7, "verified: La decisione artificiale ÃƒÂ¨ verificabile nel servizio pubblico.")
     expect(audit(root).status).not.toBe(0)
   })
   it("does not promote a generic sentence merely because it appears in a nucleus", () => {
@@ -172,31 +190,10 @@ describe("audit-vol08-format2-nuclei", () => {
 
   it("accepts dimension-specific application and competition-output attestations", () => {
     const root = fixtureRoot()
-    const matrix = join(root, moduleRelative, "planning", "02-matrice-copertura-didattica.md")
     const manifestPath = join(root, moduleRelative, "planning", "10-manifest-nuclei-format-2.json")
     const manifest = JSON.parse(readFileSync(manifestPath, "utf8"))
-    const applicationQuote = "I cinque elementi non vanno osservati separatamente."
-    const outputQuote = "La risposta concorsuale deve mostrare capacità di contestualizzare senza perdersi nei dettagli."
-    manifest.didacticAttestations = manifest.didacticAttestations.filter((item: any) => !(item.nucleusId === "N-TR01-01-01" && item.dimension === "application") && !(item.nucleusId === "N-TR01-01-03" && item.dimension === "competition-output"))
-    manifest.didacticAttestations.push(
-      { nucleusId: "N-TR01-01-01", dimension: "application", evidenceQuote: applicationQuote, sourceLocation: "chapters/01-lavorare-ict-pa-ruoli-enti-prove.md#n-tr01-01-01", reviewer: "codex-step15", gateId: "step-15", checkedAt: "2026-08-12" },
-      { nucleusId: "N-TR01-01-03", dimension: "competition-output", evidenceQuote: outputQuote, sourceLocation: "chapters/01-lavorare-ict-pa-ruoli-enti-prove.md#n-tr01-01-03", reviewer: "codex-step15", gateId: "step-15", checkedAt: "2026-08-12" }
-    )
-    writeFileSync(manifestPath, JSON.stringify(manifest, null, 2), "utf8")
-    const lines = readFileSync(matrix, "utf8").split(/\r?\n/).map((line) => {
-      const cells = line.split("|").slice(1, -1).map((cell) => cell.trim())
-      if (cells.length !== 14) return line
-      if (line.startsWith("| `N-TR01-01-01` |")) {
-        cells[8] = `verified: ${applicationQuote}`
-        return `| ${cells.join(" | ")} |`
-      }
-      if (line.startsWith("| `N-TR01-01-03` |")) {
-        cells[9] = `verified: ${outputQuote}`
-        return `| ${cells.join(" | ")} |`
-      }
-      return line
-    })
-    writeFileSync(matrix, lines.join("\n"), "utf8")
+    expect(manifest.didacticAttestations.some((item: any) => item.dimension === "application")).toBe(true)
+    expect(manifest.didacticAttestations.some((item: any) => item.dimension === "competition-output")).toBe(true)
     expect(audit(root).status).toBe(0)
   })
   it("rejects a verified record whose curated attestation is incomplete", () => {
@@ -228,13 +225,12 @@ describe("audit-vol08-format2-nuclei", () => {
       expect(audit(root).status).not.toBe(0)
     })
   }
-  it("keeps application and output evidence open after theory attestation", () => {
-    const root = fixtureRoot()
-    const matrix = readFileSync(join(root, moduleRelative, "planning", "02-matrice-copertura-didattica.md"), "utf8")
+  it("keeps application and output evidence closed after didactic attestations", () => {
+    const matrix = readFileSync(join(fixtureRoot(), moduleRelative, "planning", "02-matrice-copertura-didattica.md"), "utf8")
     const ledger = matrix.split("<!-- format-2-nucleus-reconciliation:start -->")[1].split("<!-- format-2-nucleus-reconciliation:end -->")[0]
     expect(ledger).toContain("verified:")
-    expect(ledger).toContain("open: attestazione strutturata richiesta allo step 15")
-    expect(ledger).toContain("| parziale |")
+    expect(ledger).not.toContain("open: attestazione strutturata richiesta allo step 15")
+    expect(ledger).not.toContain("| parziale |")
   })
   it("accepts a verified apparatus target with a matching verification attestation", () => {
     const root = fixtureRoot()
@@ -275,7 +271,7 @@ describe("audit-vol08-format2-nuclei", () => {
     const source = readFileSync(chapter, "utf8")
     const table = source.match(/^## Apparato di verifica dei nuclei[\s\S]*?(?=^## (?!Apparato di verifica dei nuclei))/m)?.[0]
     expect(table).toBeTruthy()
-    const withoutTable = source.replace(table!, "").replace("**Quiz 1.** La governance del dato coincide con l'amministrazione tecnica del database?", "**Quiz sostitutivo.** La domanda è stata spostata.")
+    const withoutTable = source.replace(table!, "").replace("**Quiz 1.** La governance del dato coincide con l'amministrazione tecnica del database?", "**Quiz sostitutivo.** La domanda ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¨ stata spostata.")
     writeFileSync(chapter, `${withoutTable.trimEnd()}\n\n${table}\n`, "utf8")
     expect(audit(root).status).not.toBe(0)
   })
@@ -319,7 +315,7 @@ describe("audit-vol08-format2-nuclei", () => {
     const chapter = join(root, moduleRelative, "chapters", "01-lavorare-ict-pa-ruoli-enti-prove.md")
     const source = readFileSync(chapter, "utf8")
     const second = "| Nucleo ID | Apparato di verifica |\n| --- | --- |\n| `N-TR01-01-01` | Quiz 2 |"
-    writeFileSync(chapter, source.replace("## ▣ Verifica — Profilo, bando e piano specialistico", `${second}\n\n## ▣ Verifica — Profilo, bando e piano specialistico`), "utf8")
+    writeFileSync(chapter, source.replace("## Apparato di verifica dei nuclei", `## Apparato di verifica dei nuclei\n\n${second}`), "utf8")
     expect(audit(root).status).not.toBe(0)
   })
 
@@ -339,7 +335,7 @@ describe("audit-vol08-format2-nuclei", () => {
   it("ignores a nucleus-looking heading inside a fenced code block", () => {
     const root = fixtureRoot()
     const chapter = join(root, moduleRelative, "chapters", "01-lavorare-ict-pa-ruoli-enti-prove.md")
-    writeFileSync(chapter, `${readFileSync(chapter, "utf8")}\n\`\`\`md\n## N-TR01-99-99 · esempio non didattico\n\`\`\`\n`, "utf8")
+    writeFileSync(chapter, `${readFileSync(chapter, "utf8")}\n\`\`\`md\n## N-TR01-99-99 ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â· esempio non didattico\n\`\`\`\n`, "utf8")
 
     expect(audit(root).status).toBe(0)
   })

@@ -24,7 +24,6 @@ const expectedIds = manifest.chapters.flatMap((chapter) => Array.from({ length: 
 const chapters = expectedChapterFiles.filter((file) => fs.existsSync(path.join(chaptersRoot, file))).map((file) => inspectChapter(file))
 
 if (write) {
-  writeCanonicalMatrix(chapters)
   writeAnalyticalIndex(chapters)
 }
 
