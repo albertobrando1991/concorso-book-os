@@ -5066,3 +5066,12 @@
 - l0: l0/conv-20260812134431-1yv7usf.md
 - atoms:
   - mem-20260812134431-k8ag2l | result | Esito codex/pipeline-volume/step-21/final-editorial-review: procedi -> Completato step 21 VOL-08: Revisore Editoriale Totale su 30 punti e copertura v4; corretti metadati pubblici obsoleti e refuso report step 20; 82/82 nuclei, 231/231 pagine, 79 test e typecheck verdi; gate review-repor...
+
+## 2026-08-12T16:30:42.142Z - VOL-08
+
+- conversation_id: conv-20260812163042-yijdgl
+- route: pipeline-step-22
+- l0: l0/conv-20260812163042-yijdgl.md
+- atoms:
+  - mem-20260812163042-h2f5a7 | workflow | Procedi con la pipeline aggiornata di VOL-08 fino allo stato pubblicabile.
+  - mem-20260812163042-1yt7jxe | result | Esito pipeline-step-22: Procedi con la pipeline aggiornata di VOL-08 fino allo stato pubblicabile. -> Step 22 preflight completato: audit 82/82, 95 test, typecheck e build verdi; PDF candidato 231 pagine esportato.
