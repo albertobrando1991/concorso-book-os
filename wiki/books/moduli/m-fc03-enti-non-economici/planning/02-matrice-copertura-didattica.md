@@ -581,7 +581,7 @@ I sei nuclei presentano teoria autonoma, applicazione e verifica e superano la s
 
 ## Checklist dimensionale - Appendice C
 
-| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso prova | Errore | Verifica | Fonti | Tracciabilita |
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso prova | Errore tipico | Verifica | Fonti | Tracciabilita |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | N-FC03-16-01 | ✓ scheda ente | ✓ delimitare studio | ✓ bando ed EPNE | ✓ identita, profilo, programma, core, delta | ✓ missione/profilo/programma | ✓ priorita corretta | ✓ applicazione ASI | ✓ quiz, orale, scritto | ✓ missione uguale programma | ✓ Quiz 1 | ✓ in riga | ✓ frontmatter e corpo leggibile |
 | N-FC03-16-02 | ✓ schede ACI/ENAC | ✓ servizio/regolazione | ✓ mobilita e aviazione | ✓ utenti, procedimenti, controlli | ✓ ACI/ENAC ed ENAC/ENAV | ✓ piano aderente | ✓ caso Marta | ✓ quiz, orale, caso | ✓ trasporti generici | ✓ Quiz 2 | ✓ in riga | ✓ frontmatter e corpo leggibile |
@@ -624,7 +624,7 @@ I sei nuclei presentano teoria autonoma, applicazione e verifica e superano la s
 
 ## Checklist dimensionale - Appendice D
 
-| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso prova | Errore | Verifica | Fonti | Tracciabilita |
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso prova | Errore tipico | Verifica | Fonti | Tracciabilita |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | N-FC03-17-01 | ✓ fonte e soggetti | ✓ delimitare il perimetro | ✓ bandi EPNE | ✓ portale, gestore, ente, profilo | ✓ ruoli non intercambiabili | ✓ canale e modulo corretti | ✓ caso Davide | ✓ quiz, orale, caso | ✓ canale uguale famiglia | ✓ Quiz 1 | ✓ fonti in riga | ✓ frontmatter e corpo leggibile |
 | N-FC03-17-02 | ✓ core e delta | ✓ evitare duplicazioni e lacune | ✓ libro base e M-FC03 | ✓ base, modulo, appendice, rinvio | ✓ comune/specialistico e integrativo/facoltativo | ✓ priorita coerenti | ✓ caso Chiara | ✓ quiz, orale, caso | ✓ tutto nuovo o tutto base | ✓ Quiz 2 | ✓ fonti in riga | ✓ frontmatter e riferimenti leggibili |
@@ -667,7 +667,7 @@ I sei nuclei presentano teoria autonoma, applicazione e verifica e superano la s
 
 ## Checklist dimensionale - Appendice E
 
-| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso prova | Errore | Verifica | Fonti | Tracciabilita |
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso prova | Errore tipico | Verifica | Fonti | Tracciabilita |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | N-FC03-18-01 | ✓ materia dominante e modulo corretto | ✓ decidere il perimetro | ✓ bandi EPNE e profili misti | ✓ ente, profilo, prove, materie | ✓ principale/contesto/cambio | ✓ gerarchia dello studio | ✓ profilo amministrativo in ente di ricerca | ✓ quiz, orale, analisi | ✓ indizio isolato dominante | ✓ Quiz 1 | ✓ fonti in riga | ✓ frontmatter e corpo leggibile |
 | N-FC03-18-02 | ✓ profilo amministrativo EPNE | ✓ scegliere modulo o lente | ✓ funzioni tipiche M-FC03 | ✓ tre controlli e segnali | ✓ trasversale/specialistico | ✓ profondità proporzionata | ✓ ASI, ENEA e INAIL | ✓ quiz, orale, piano | ✓ presenza uguale centralità | ✓ Quiz 2 | ✓ fonti in riga | ✓ frontmatter e riferimenti leggibili |
@@ -710,7 +710,7 @@ I sei nuclei presentano teoria autonoma, applicazione e verifica e superano la s
 
 ## Checklist dimensionale - Appendice F
 
-| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso prova | Errore | Verifica | Fonti | Tracciabilita |
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso prova | Errore tipico | Verifica | Fonti | Tracciabilita |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | N-FC03-19-01 | ✓ core e delta | ✓ dimensionare lo studio | ✓ bando INAIL/RIPAM | ✓ quattro livelli e output | ✓ comune/delta/specialismo | ✓ priorità proporzionata | ✓ caso Elena | ✓ quiz, orale, piano | ✓ volume uguale peso | ✓ Quiz 1 | ✓ fonti in riga | ✓ frontmatter e corpo leggibile |
 | N-FC03-19-02 | ✓ atti UE, obbligazione e contratto | ✓ qualificare fonte e rapporto | ✓ UE e Codice civile | ✓ istituzioni, soggetti, prestazione e rimedi | ✓ regolamento/direttiva; contratto/obbligazione | ✓ effetto e rimedio corretto | ✓ ordine e fattura | ✓ quiz, orale e caso | ✓ fattura uguale credito | ✓ Quiz 2 | ✓ fonti in riga | ✓ frontmatter e norme leggibili |

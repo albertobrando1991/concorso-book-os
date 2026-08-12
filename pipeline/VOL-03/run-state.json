@@ -3,7 +3,7 @@
   "specPath": "books/volumi/vol-03-fisco-dogane-previdenza-ispettivo/planning/00-scheda-pipeline.md",
   "specHash": "sha256:7a5be32028a6026f42eac9b7a221a5879330c694249c48b679a9f6ab5999df16",
   "createdAt": "2026-07-27T20:05:30.039Z",
-  "updatedAt": "2026-08-12T09:26:38.514Z",
+  "updatedAt": "2026-08-12T09:59:54.072Z",
   "steps": [
     {
       "key": "08:moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md",
@@ -6740,9 +6740,27 @@
       "phase": "F",
       "scope": "volume",
       "target": "VOL-03",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "blocked",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-12T09:37:46.872Z",
+      "gate": {
+        "passed": false,
+        "blockers": [
+          {
+            "code": "gate-not-implemented",
+            "message": "Il gate \"preflight\" dello step 22 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "VOL-03"
+          }
+        ],
+        "warnings": [],
+        "notImplemented": [
+          "preflight"
+        ]
+      }
     },
     {
       "key": "23:VOL-03",
