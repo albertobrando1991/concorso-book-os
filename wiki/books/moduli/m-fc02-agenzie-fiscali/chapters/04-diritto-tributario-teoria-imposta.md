@@ -6,7 +6,7 @@ status: revised_draft
 domain: "concorsi pubblici italiani"
 topics: ["diritto tributario","teoria imposta","agenzie fiscali","obbligazione tributaria","imposte sui redditi","IRPEF","IRES","categorie reddituali","reddito complessivo","reddito d'impresa","iva","diritto tributario UE","IVA armonizzata","diritto doganale UE"]
 entities: ["Agenzia delle Entrate","Agenzia delle Dogane e dei Monopoli","Agenzia delle Entrate-Riscossione","Normattiva","Unione europea","Commissione europea","EUR-Lex"]
-source_refs: ["sources/normativa-tributaria-tuir-iva-accertamento-m-fc02.md","sources/irpef-ires-categorie-reddito-impresa-aggiornamento-2026-07-18.md","sources/iva-dpr-633-1972-aggiornamento-2026-07-20.md","sources/dichiarazioni-versamenti-compensazioni-aggiornamento-2026-07-20.md","sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026.md","sources/costituzione-repubblica-italiana-testo-vigente.md","sources/diritto-ue-fiscale-doganale-iva-cdu-2026-07-18.md","sources/vol-03-fonti-specialistiche-fisco-dogane-previdenza-ispettivo.md","sources/m-fc02-corpus-ufficiale-integrativo-2026-07-17.md"]
+source_refs: ["sources/normativa-tributaria-tuir-iva-accertamento-m-fc02.md","sources/irpef-ires-categorie-reddito-impresa-aggiornamento-2026-07-18.md","sources/iva-dpr-633-1972-aggiornamento-2026-07-20.md","sources/dichiarazioni-versamenti-compensazioni-aggiornamento-2026-07-20.md","sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026.md","sources/costituzione-repubblica-italiana-testo-vigente.md","sources/diritto-ue-fiscale-doganale-iva-cdu-2026-07-18.md","sources/vol-03-fonti-specialistiche-fisco-dogane-previdenza-ispettivo.md","sources/m-fc02-corpus-ufficiale-integrativo-2026-07-17.md","sources/imposta-registro-testo-unico-2025-aggiornamento-2026-08-12.md"]
 book_refs: ["m-fc02-agenzie-fiscali","il-metodo-bando"]
 asset_refs:
   - "books/moduli/m-fc02-agenzie-fiscali/assets/chapter-04/01-mappa-bando-diritto-tributario.png"
@@ -27,7 +27,7 @@ outline_section: 4
 draft_stage: specialist-audit-complete
 module_code: M-FC02
 module_family: funzioni-centrali
-last_compiled_from: ["wiki/sources/normativa-tributaria-tuir-iva-accertamento-m-fc02.md","wiki/sources/irpef-ires-categorie-reddito-impresa-aggiornamento-2026-07-18.md","wiki/sources/iva-dpr-633-1972-aggiornamento-2026-07-20.md","wiki/sources/dichiarazioni-versamenti-compensazioni-aggiornamento-2026-07-20.md","wiki/entities/agenzia-delle-entrate.md","wiki/topics/diritto-tributario-concorsi-agenzie-fiscali.md","wiki/sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026.md","wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md","wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/02-bando-decoder-fiscale.md","wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/03-ordinamento-organizzazione-ae-adm-ader.md","wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md","wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco.md","wiki/sources/costituzione-repubblica-italiana-testo-vigente.md","wiki/sources/diritto-ue-fiscale-doganale-iva-cdu-2026-07-18.md","wiki/sources/vol-03-fonti-specialistiche-fisco-dogane-previdenza-ispettivo.md","wiki/sources/m-fc02-corpus-ufficiale-integrativo-2026-07-17.md","wiki/books/moduli/m-fc02-agenzie-fiscali/planning/02-matrice-copertura-didattica.md","wiki/books/volumi/vol-03-fisco-dogane-previdenza-ispettivo/planning/00-piano-editoriale.md","wiki/books/volumi/vol-03-fisco-dogane-previdenza-ispettivo/planning/02-matrice-copertura-didattica.md"]
+last_compiled_from: ["wiki/sources/normativa-tributaria-tuir-iva-accertamento-m-fc02.md","wiki/sources/irpef-ires-categorie-reddito-impresa-aggiornamento-2026-07-18.md","wiki/sources/iva-dpr-633-1972-aggiornamento-2026-07-20.md","wiki/sources/dichiarazioni-versamenti-compensazioni-aggiornamento-2026-07-20.md","wiki/entities/agenzia-delle-entrate.md","wiki/topics/diritto-tributario-concorsi-agenzie-fiscali.md","wiki/sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026.md","wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md","wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/02-bando-decoder-fiscale.md","wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/03-ordinamento-organizzazione-ae-adm-ader.md","wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md","wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco.md","wiki/sources/costituzione-repubblica-italiana-testo-vigente.md","wiki/sources/diritto-ue-fiscale-doganale-iva-cdu-2026-07-18.md","wiki/sources/vol-03-fonti-specialistiche-fisco-dogane-previdenza-ispettivo.md","wiki/sources/m-fc02-corpus-ufficiale-integrativo-2026-07-17.md","wiki/books/moduli/m-fc02-agenzie-fiscali/planning/02-matrice-copertura-didattica.md","wiki/books/volumi/vol-03-fisco-dogane-previdenza-ispettivo/planning/00-piano-editoriale.md","wiki/books/volumi/vol-03-fisco-dogane-previdenza-ispettivo/planning/02-matrice-copertura-didattica.md","wiki/sources/imposta-registro-testo-unico-2025-aggiornamento-2026-08-12.md"]
 ---
 
 # Diritto tributario e teoria dell'imposta
@@ -173,6 +173,44 @@ Per il concorso, il punto non è recitare tutte le classificazioni. Il punto è 
 - se parli di IVA, pensa a operazione, soggetto, rivalsa, detrazione, liquidazione, adempimento;
 - se parli di accertamento, pensa a dichiarazione, controllo, potere istruttorio, atto;
 - se parli di riscossione, pensa a credito, carico, pagamento, rateizzazione, eventuale procedura.
+
+### Imposta di registro: atti, registrazione e applicazione essenziale
+
+L'imposta di registro è un'imposta indiretta collegata alla registrazione di determinati atti. Per affrontarla in un quiz o all'orale non basta dire che «si paga quando si registra un contratto»: occorre distinguere l'atto, l'obbligo di registrazione, il momento in cui la registrazione è richiesta, la base imponibile e la misura applicabile.
+
+La fonte storica di riferimento è il D.P.R. 26 aprile 1986, n. 131. Il quadro è però in transizione. Il D.Lgs. 1° agosto 2025, n. 123 ha approvato il nuovo testo unico in materia di imposta di registro e altri tributi indiretti. Alla data di verifica del 12 agosto 2026, il D.P.R. 131/1986 continua a operare fino al 31 dicembre 2026, mentre il riordino del D.Lgs. 123/2025 è destinato a sostituirlo dal 1° gennaio 2027. In prova la data della domanda è quindi decisiva: una risposta corretta deve indicare quale testo disciplina il caso.
+
+La logica di base rimane leggibile attraverso sei passaggi:
+
+1. individuare l'atto e i suoi effetti giuridici sostanziali;
+2. verificare se l'atto è soggetto a registrazione in termine fisso, in caso d'uso oppure se viene presentato volontariamente;
+3. individuare chi deve richiedere la registrazione e quale procedimento si applica;
+4. qualificare la disposizione negoziale rilevante, senza fermarsi al titolo scelto dalle parti;
+5. determinare la base imponibile secondo la natura dell'atto;
+6. applicare la misura fissa o proporzionale prevista dalla tariffa vigente.
+
+| Piano | Domanda operativa | Errore da evitare |
+| --- | --- | --- |
+| Atto | Quale effetto giuridico produce? | Fermarsi al nome del documento. |
+| Registrazione | È richiesta in termine fisso, in caso d'uso o volontariamente? | Pensare che ogni scrittura segua lo stesso regime. |
+| Soggetti | Chi è tenuto alla richiesta e chi risponde del pagamento secondo la disciplina? | Confondere parte dell'atto e soggetto obbligato all'adempimento. |
+| Base imponibile | Quale valore o corrispettivo rileva? | Applicare una percentuale prima di aver qualificato l'atto. |
+| Misura | La tariffa prevede imposta fissa o proporzionale? | Memorizzare importi e aliquote senza controllarne la vigenza. |
+| Procedimento | Come si coordinano registrazione, liquidazione e pagamento? | Trattare la registrazione come semplice archiviazione. |
+
+La distinzione tra **termine fisso** e **caso d'uso** è centrale. Nel primo caso la legge richiede la registrazione entro il termine applicabile, indipendentemente dal fatto che l'atto venga utilizzato in un procedimento. Nel secondo, l'obbligo sorge quando ricorre il caso d'uso definito dalla disciplina. La registrazione volontaria consente invece di presentare un atto anche quando non vi sia un obbligo immediato. Non bisogna dedurre il regime dalla sola forma privata o pubblica: occorre consultare le disposizioni e la tariffa pertinenti.
+
+Un secondo nodo è la qualificazione. L'amministrazione deve guardare agli effetti giuridici dell'atto secondo i criteri legislativi vigenti. Se le parti chiamano «comodato» un accordo che, per contenuto ed effetti, prevede un corrispettivo e obblighi propri di un'altra figura, l'etichetta non risolve la questione fiscale. Per il candidato il metodo è: leggere clausole e prestazioni, ricostruire l'effetto giuridico, poi individuare il trattamento tributario.
+
+**Caso guidato.** Due soggetti sottoscrivono una scrittura privata relativa al godimento di un immobile. Prima di calcolare qualsiasi somma, il candidato deve qualificare il rapporto, verificare il regime di registrazione, individuare i soggetti tenuti all'adempimento, determinare la base e consultare la tariffa vigente. Se parte direttamente da un'aliquota ricordata, salta il presupposto logico del caso e rischia di applicare una regola non aggiornata.
+
+**Domanda da commissario.** «Qual è la sequenza corretta per applicare l'imposta di registro?» Risposta essenziale: si qualifica l'atto in base ai suoi effetti, si verifica il regime di registrazione, si individuano soggetti e procedimento, si determina la base imponibile e infine si applica la misura prevista dalla tariffa vigente.
+
+**Domanda-trappola.** «La registrazione rende valido l'atto?» No. Registrazione, efficacia probatoria, validità civilistica e trattamento fiscale sono piani distinti. La registrazione assolve la funzione prevista dalla disciplina tributaria, ma non sana automaticamente ogni vizio negoziale.
+
+**Errore tipico.** Studiare l'imposta come un elenco di aliquote. Importi, termini e modalità operative possono cambiare; la competenza stabile è saper qualificare l'atto e ricostruire la sequenza applicativa.
+
+**Mini-esercizio.** Per un atto indicato dal quesito, compila cinque righe: effetto giuridico; tipo di registrazione; soggetto tenuto; criterio della base imponibile; misura da verificare nella tariffa vigente. Se una riga resta vuota, non sei ancora pronto a calcolare l'imposta.
 
 ## N-FC02-04-02 · Presupposto, soggetti e obbligazione tributaria
 
