@@ -3,7 +3,7 @@
   "specPath": "books/volumi/vol-03-fisco-dogane-previdenza-ispettivo/planning/00-scheda-pipeline.md",
   "specHash": "sha256:7a5be32028a6026f42eac9b7a221a5879330c694249c48b679a9f6ab5999df16",
   "createdAt": "2026-07-27T20:05:30.039Z",
-  "updatedAt": "2026-08-12T07:27:11.270Z",
+  "updatedAt": "2026-08-12T07:30:44.479Z",
   "steps": [
     {
       "key": "08:moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md",
@@ -6370,9 +6370,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc03-enti-non-economici/chapters/appendice-e-rinvii-ragionati-altri-moduli.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-12T07:28:25.413Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fc03-enti-non-economici/chapters/appendice-e-rinvii-ragionati-altri-moduli.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di aless: Verifica manuale completata: piano separato con sei nuclei N-FC03-18-01..06, stato e sviluppi, sezioni da conservare, duplicazioni, casi, fonti, audit, struttura Format 2 e budget; capitolo invariato."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-12T07:30:44.479Z"
     },
     {
       "key": "09:moduli/m-fc03-enti-non-economici/chapters/appendice-e-rinvii-ragionati-altri-moduli.md",
