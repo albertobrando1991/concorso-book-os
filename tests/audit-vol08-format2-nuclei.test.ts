@@ -136,22 +136,12 @@ describe("audit-vol08-format2-nuclei", () => {
     const matrix = join(root, moduleRelative, "planning", "02-matrice-copertura-didattica.md")
     const quote = "Questa frase descrive una decisione importante per il servizio pubblico."
     writeFileSync(chapter, readFileSync(chapter, "utf8").replace("## N-TR01-01-02", `${quote}\n\n## N-TR01-01-02`), "utf8")
-    writeFileSync(matrix, readFileSync(matrix, "utf8").replace("open: attestazione strutturata richiesta allo step 15", `verified: ${quote}`), "utf8")
+    writeFileSync(matrix, readFileSync(matrix, "utf8").replace(/verified: [^|]+/, `verified: ${quote}`), "utf8")
     expect(audit(root).status).not.toBe(0)
   })
 
-  it("requires a complete curated attestation before a verified ledger record can pass", () => {
-    const root = fixtureRoot()
-    const chapter = join(root, moduleRelative, "chapters", "01-lavorare-ict-pa-ruoli-enti-prove.md")
-    const matrix = join(root, moduleRelative, "planning", "02-matrice-copertura-didattica.md")
-    const manifestPath = join(root, moduleRelative, "planning", "10-manifest-nuclei-format-2.json")
-    const quote = "La scelta deve restare tracciabile tramite un controllo verificabile e una fonte dichiarata."
-    writeFileSync(chapter, readFileSync(chapter, "utf8").replace("## N-TR01-01-02", `${quote}\n\n## N-TR01-01-02`), "utf8")
-    writeFileSync(matrix, readFileSync(matrix, "utf8").replace("open: attestazione strutturata richiesta allo step 15", `verified: ${quote}`), "utf8")
-    const manifest = JSON.parse(readFileSync(manifestPath, "utf8"))
-    manifest.attestations = [{ nucleusId: "N-TR01-01-01", evidenceQuote: quote, sourceLocation: "chapters/01-lavorare-ict-pa-ruoli-enti-prove.md#n-tr01-01-01", reviewer: "revisore-specialistico", gateId: "step-15" }]
-    writeFileSync(manifestPath, JSON.stringify(manifest, null, 2), "utf8")
-    expect(audit(root).status).toBe(0)
+  it("accepts the complete curated attestations used by verified ledger records", () => {
+    expect(audit(fixtureRoot()).status).toBe(0)
   })
 
   it("rejects a verified record whose curated attestation is incomplete", () => {
@@ -183,11 +173,13 @@ describe("audit-vol08-format2-nuclei", () => {
       expect(audit(root).status).not.toBe(0)
     })
   }
-  it("generates an all-open baseline ledger", () => {
+  it("keeps application and output evidence open after theory attestation", () => {
     const root = fixtureRoot()
     const matrix = readFileSync(join(root, moduleRelative, "planning", "02-matrice-copertura-didattica.md"), "utf8")
     const ledger = matrix.split("<!-- format-2-nucleus-reconciliation:start -->")[1].split("<!-- format-2-nucleus-reconciliation:end -->")[0]
-    expect(ledger).not.toContain("verified:")
+    expect(ledger).toContain("verified:")
+    expect(ledger).toContain("open: attestazione strutturata richiesta allo step 15")
+    expect(ledger).toContain("| parziale |")
   })
   it("accepts the baseline atomic verification mappings", () => {
     expect(audit(fixtureRoot()).status).toBe(0)
