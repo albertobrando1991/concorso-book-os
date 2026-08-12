@@ -2,7 +2,7 @@
 id: m-tr03-tecnico-ingegneristico
 type: specialist_module
 title: "M-TR03 - Tecnico-ingegneristico"
-status: editorial-review
+status: specialist-audited
 domain: "concorsi pubblici italiani"
 topics: ["moduli specialistici","trasversali","metodo bando"]
 entities: ["Metodo BANDO","Capitale Personale"]
@@ -11,17 +11,17 @@ book_refs: ["il-metodo-bando","moduli-specialistici","vol-10-tecnico-ingegnerist
 confidence: 0.76
 updated_at: 2026-07-30
 created_at: 2026-06-27T19:56:28+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["specialist-module","module-family-trasversali","module-code-m-tr03","editorial-review","vol-10"]
 book_id: m-tr03-tecnico-ingegneristico
 module_code: M-TR03
 module_family: trasversali
 module_family_title: "Trasversali"
-module_status: editorial-review
+module_status: specialist-audited
 roadmap_phase: "4"
 companion_to: il-metodo-bando
-draft_stage: module-review
+draft_stage: specialist-audited
 last_compiled_from: ["wiki/books/moduli/architettura-moduli-specialistici.md","wiki/sources/modulo-m-tr03-tecnico-ingegneristico-vol-10.md"]
 ---
 

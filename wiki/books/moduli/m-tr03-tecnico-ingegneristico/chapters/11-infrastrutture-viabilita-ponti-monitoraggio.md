@@ -16,7 +16,7 @@ canonical: true
 tags: ["chapter", "vol-10", "m-tr03", "infrastrutture", "ponti", "monitoraggio", "format-2"]
 book_id: m-tr03-tecnico-ingegneristico
 outline_section: "11"
-draft_stage: editorially-reviewed
+draft_stage: specialist-audited
 format_version: 2
 dati_operativi: []
 last_compiled_from: ["artifacts/pipeline/VOL-10/09/moduli-m-tr03-tecnico-ingegneristico-chapters-11-infrastrutture-viabilita-ponti-monitoraggio-md/prompt.md", "wiki/books/moduli/m-tr03-tecnico-ingegneristico/planning/08-capitolo-11-piano-completamento.md", "wiki/books/moduli/m-tr03-tecnico-ingegneristico/planning/02-matrice-copertura-didattica.md", "wiki/books/moduli/m-tr03-tecnico-ingegneristico/planning/13-bibbia-del-modulo.md", "wiki/sources/infrastrutture-viabilita-ponti-monitoraggio-fonti-ufficiali-2026.md", "wiki/sources/ntc-2018-circolare-2019-emendamenti-2023-fonti-ufficiali.md", "wiki/sources/progettazione-opere-pubbliche-dlgs-36-2023-allegato-i7.md", "wiki/sources/direzione-lavori-esecuzione-cantieri-dlgs-36-2023-allegato-ii14.md", "wiki/sources/collaudo-verifica-manutenzione-opera-dlgs-36-2023-allegato-ii14.md", "wiki/sources/campione-bandi-tecnici-pa-vol-10-2026.md", "wiki/sources/modulo-m-tr03-tecnico-ingegneristico-vol-10.md", "wiki/topics/infrastrutture-viabilita-ponti-monitoraggio.md"]

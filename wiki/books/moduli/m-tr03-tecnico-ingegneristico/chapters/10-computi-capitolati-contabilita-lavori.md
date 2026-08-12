@@ -18,9 +18,9 @@ book_id: m-tr03-tecnico-ingegneristico
 module_code: M-TR03
 outline_section: "10"
 format_version: 2
-draft_stage: editorially-reviewed
+draft_stage: specialist-audited
 dati_operativi: []
-review_focus: ["verifica specialistica step 15 su prezzari, costi, Allegato II.14, riserve e documenti contabili"]
+review_focus: ["audit specialistico conclusivo completato il 12 agosto 2026"]
 last_compiled_from: ["artifacts/pipeline/VOL-10/09/moduli-m-tr03-tecnico-ingegneristico-chapters-10-computi-capitolati-contabilita-lavori-md/prompt.md", "wiki/books/moduli/m-tr03-tecnico-ingegneristico/planning/08-capitolo-10-piano-completamento.md", "wiki/books/moduli/m-tr03-tecnico-ingegneristico/planning/02-matrice-copertura-didattica.md", "wiki/books/moduli/m-tr03-tecnico-ingegneristico/planning/13-bibbia-del-modulo.md", "wiki/sources/computi-capitolati-contabilita-lavori-dlgs-36-2023.md", "wiki/sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024.md", "wiki/sources/progettazione-opere-pubbliche-dlgs-36-2023-allegato-i7.md", "wiki/sources/direzione-lavori-esecuzione-cantieri-dlgs-36-2023-allegato-ii14.md", "wiki/sources/collaudo-verifica-manutenzione-opera-dlgs-36-2023-allegato-ii14.md", "wiki/sources/campione-bandi-tecnici-pa-vol-10-2026.md", "wiki/sources/modulo-m-tr03-tecnico-ingegneristico-vol-10.md", "wiki/topics/computi-capitolati-contabilita-lavori.md"]
 module_family: trasversali
 ---

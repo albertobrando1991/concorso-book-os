@@ -16,7 +16,7 @@ canonical: true
 tags: ["chapter", "vol-10", "m-tr03", "progettazione", "opere-pubbliche", "format-2"]
 book_id: m-tr03-tecnico-ingegneristico
 outline_section: "07"
-draft_stage: editorially-reviewed
+draft_stage: specialist-audited
 format_version: 2
 dati_operativi: []
 module_code: M-TR03

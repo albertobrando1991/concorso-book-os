@@ -16,7 +16,7 @@ canonical: true
 tags: ["book-chapter", "m-tr03", "vol-10", "structural-mechanics"]
 book_id: m-tr03-tecnico-ingegneristico
 outline_section: 3
-draft_stage: editorially-reviewed
+draft_stage: specialist-audited
 module_code: M-TR03
 module_family: trasversali
 format_version: 2

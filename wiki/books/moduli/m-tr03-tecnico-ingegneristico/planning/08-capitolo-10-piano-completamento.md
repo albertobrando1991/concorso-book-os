@@ -7,7 +7,7 @@ domain: "concorsi pubblici italiani"
 book_refs: ["m-tr03-tecnico-ingegneristico", "vol-10-tecnico-ingegneristico-territorio-lavori-pubblici"]
 source_refs: ["sources/computi-capitolati-contabilita-lavori-dlgs-36-2023", "sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024", "sources/progettazione-opere-pubbliche-dlgs-36-2023-allegato-i7", "sources/direzione-lavori-esecuzione-cantieri-dlgs-36-2023-allegato-ii14"]
 updated_at: 2026-08-12
-review_required: true
+review_required: false
 canonical: true
 tags: ["chapter-plan", "format-2", "m-tr03", "vol-10", "chapter-10"]
 ---

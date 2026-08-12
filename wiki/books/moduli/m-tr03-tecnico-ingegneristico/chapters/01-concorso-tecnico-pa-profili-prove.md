@@ -16,7 +16,7 @@ canonical: true
 tags: ["book-chapter", "m-tr03", "vol-10", "technical-competitions"]
 book_id: m-tr03-tecnico-ingegneristico
 outline_section: 1
-draft_stage: editorially-reviewed
+draft_stage: specialist-audited
 module_code: M-TR03
 module_family: trasversali
 format_version: 2

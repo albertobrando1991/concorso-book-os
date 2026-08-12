@@ -11,11 +11,11 @@ book_refs: ["m-tr03-tecnico-ingegneristico","il-metodo-bando"]
 confidence: 0.55
 updated_at: 2026-07-30
 created_at: 2026-06-27T19:56:28+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["editorial-plan","specialist-module-plan","module-code-m-tr03"]
 book_id: m-tr03-tecnico-ingegneristico
-draft_stage: structure-ready
+draft_stage: specialist-audited
 module_code: M-TR03
 module_family: trasversali
 last_compiled_from: ["wiki/books/moduli/architettura-moduli-specialistici.md","wiki/books/moduli/m-tr03-tecnico-ingegneristico/index.md"]

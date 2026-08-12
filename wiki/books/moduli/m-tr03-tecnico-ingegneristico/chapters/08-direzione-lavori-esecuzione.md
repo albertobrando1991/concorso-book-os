@@ -21,7 +21,7 @@ module_code: M-TR03
 module_family: trasversali
 companion_to: il-metodo-bando
 dati_operativi: []
-draft_stage: editorially-reviewed
+draft_stage: specialist-audited
 last_compiled_from: ["artifacts/pipeline/VOL-10/09/moduli-m-tr03-tecnico-ingegneristico-chapters-08-direzione-lavori-esecuzione-md/prompt.md", "wiki/books/moduli/m-tr03-tecnico-ingegneristico/planning/08-capitolo-08-piano-completamento.md", "wiki/books/moduli/m-tr03-tecnico-ingegneristico/planning/02-matrice-copertura-didattica.md", "wiki/books/moduli/m-tr03-tecnico-ingegneristico/planning/13-bibbia-del-modulo.md", "wiki/sources/direzione-lavori-esecuzione-cantieri-dlgs-36-2023-allegato-ii14.md", "wiki/topics/direzione-lavori-esecuzione-cantieri.md", "wiki/sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024.md", "wiki/sources/ciclo-contratti-pubblici-rup-stazione-appaltante-operatore-economico.md", "wiki/sources/d-lgs-9-aprile-2008-n-81-salute-sicurezza-lavoro.md", "wiki/sources/progettazione-opere-pubbliche-dlgs-36-2023-allegato-i7.md", "wiki/sources/campione-bandi-tecnici-pa-vol-10-2026.md", "wiki/sources/modulo-m-tr03-tecnico-ingegneristico-vol-10.md"]
 ---
 

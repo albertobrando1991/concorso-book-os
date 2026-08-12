@@ -9,7 +9,7 @@ book_refs: ["m-tr03-tecnico-ingegneristico", "vol-10-tecnico-ingegneristico-terr
 confidence: 0.82
 updated_at: 2026-08-12
 created_at: 2026-07-30
-review_required: true
+review_required: false
 canonical: false
 tags: ["editorial-review", "book-bible", "m-tr03", "vol-10"]
 ---
