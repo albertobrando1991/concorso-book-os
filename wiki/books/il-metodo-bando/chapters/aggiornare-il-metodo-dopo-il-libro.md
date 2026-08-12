@@ -21,11 +21,11 @@ last_compiled_from: ["sources/fonti-ufficiali-aggiornamento-metodo-bando-2026-06
 last_humanizer_revision: 2026-07-24
 ---
 
-# Capitolo 25 - Aggiornare il metodo dopo il libro
+# R1 - Aggiornare il metodo dopo il libro
 
-> Modulo ricettario **R1** — Protocollo aggiornamenti e fonti ufficiali. Collega Introduzione, Cap. 2, Cap. 3 e [[books/il-metodo-bando/chapters/usare-il-digitale-senza-perdere-il-metodo|R4 Cap. 28]].
+> Protocollo aggiornamenti e fonti ufficiali. Collega Introduzione, Cap. 2, Cap. 3 e [[books/il-metodo-bando/chapters/usare-il-digitale-senza-perdere-il-metodo|R4]].
 
-Con l'ultima pagina comincia il lavoro di aggiornamento. I bandi cambiano, le amministrazioni pubblicano avvisi, le piattaforme aggiornano funzioni, le graduatorie seguono regole di pubblicazione e alcune materie entrano o escono dai programmi.
+Con l’ultima pagina comincia il lavoro di aggiornamento. I bandi cambiano, le amministrazioni pubblicano avvisi, le piattaforme aggiornano funzioni, le graduatorie seguono regole di pubblicazione e alcune materie entrano o escono dai programmi.
 
 Il rischio è doppio: restare indietro oppure inseguire ogni novità fino a perdere il piano.
 
@@ -42,7 +42,7 @@ Alla fine del capitolo avrai un protocollo per:
 - aggiornare Bando Decoder, piano e diario;
 - non confondere notizia, norma, avviso e bando;
 - decidere quando aprire un modulo integrativo;
-- proteggere il calendario dall'ansia da aggiornamento;
+- proteggere il calendario dall’ansia da aggiornamento;
 - mantenere il metodo vivo anche per il concorso successivo.
 
 Il principio è semplice:
@@ -51,19 +51,21 @@ Il principio è semplice:
 
 Se non cambia requisiti, scadenze, prove, materie, punteggi, soglie, documenti, calendario, modalità di comunicazione o output richiesto, non deve far saltare il piano.
 
-## Mappa BANDO dell'aggiornamento
+## Mappa BANDO dell’aggiornamento
 
 | Fase | Domanda di controllo | Azione |
 |---|---|---|
 | B - Bando | È cambiato qualcosa nel bando, negli avvisi o nel portale? | Aggiorna requisiti, date, prove, documenti |
-| A - Aree | L'aggiornamento tocca una materia o un modulo? | Riclassifica core, alta, modulo, verifica |
+| A - Aree | L’aggiornamento tocca una materia o un modulo? | Riclassifica core, alta, modulo, verifica |
 | N - Nuclei | Cambia ciò che devo sapere davvero? | Isola i concetti ad alta resa |
 | D - Diario | Dove registro dubbio, errore o cambio piano? | Scrivi fonte, decisione e data di controllo |
 | O - Output | Cambia il tipo di prova o risposta da produrre? | Modifica quiz, caso, orale, simulazione |
 
 La mappa evita due errori opposti: ignorare un avviso decisivo oppure trasformare una notizia generica in panico.
 
-![Figura 25.1 - Mappa BANDO dell'aggiornamento](../assets/chapter-25/01-mappa-bando-aggiornamento.png)
+![Figura 25.1 - Mappa BANDO dell’aggiornamento](../assets/chapter-25/01-mappa-bando-aggiornamento.png)
+
+*Figura 25.1 - Mappa BANDO dell’aggiornamento*
 
 ## La gerarchia delle fonti
 
@@ -71,7 +73,7 @@ Non tutte le fonti hanno lo stesso peso. Quando due informazioni sembrano divers
 
 | Livello | Fonte | Cosa controllare |
 |---|---|---|
-| 1 | Bando, avviso, allegati, sito dell'amministrazione | Requisiti, scadenze, prove, programma, documenti, convocazioni |
+| 1 | Bando, avviso, allegati, sito dell’amministrazione | Requisiti, scadenze, prove, programma, documenti, convocazioni |
 | 2 | inPA | Bandi, candidature, comunicazioni, profilo, stato procedura |
 | 3 | Gazzetta Ufficiale | Pubblicazioni concorsuali e avvisi quando rilevanti |
 | 4 | Normattiva | Testo vigente di atti normativi |
@@ -84,16 +86,18 @@ La regola pratica:
 
 ![Figura 25.2 - Gerarchia delle fonti](../assets/chapter-25/02-gerarchia-fonti.png)
 
+*Figura 25.2 - Gerarchia delle fonti*
+
 ## Notizia, norma, avviso e bando: quattro livelli da non confondere
 
-Il candidato confuso mescola quattro tipi di informazione diversi. Ognuno produce un'azione diversa.
+Il candidato confuso mescola quattro tipi di informazione diversi. Ognuno produce un’azione diversa.
 
 | Tipo | Cosa è | Esempio | Peso nel metodo | Errore tipico |
 |---|---|---|---|---|
-| Notizia | informazione generica su PA, concorsi o riforme | articolo su "nuove assunzioni" | Basso finché non tocca il tuo bando | aprire un modulo per un titolo di giornale |
-| Norma | testo legislativo o regolamentare vigente | modifica al D.lgs. sui concorsi | Medio-alto se citata nel programma | studiare una versione non verificata |
+| Notizia | informazione generica su PA, concorsi o riforme | articolo su “nuove assunzioni” | Basso finché non tocca il tuo bando | aprire un modulo per un titolo di giornale |
+| Norma | testo legislativo o regolamentare vigente | modifica al D.Lgs. sui concorsi | Medio-alto se citata nel programma | studiare una versione non verificata |
 | Avviso | comunicazione ufficiale della procedura | rettifica sede, diario prove, graduatoria | Alto se riguarda il concorso attivo | leggerlo tardi o non registrarlo |
-| Bando | atto base della selezione con requisiti e prove | bando e allegati pubblicati | Massimo: comanda piano e output | leggerlo una sola volta all'inizio |
+| Bando | atto base della selezione con requisiti e prove | bando e allegati pubblicati | Massimo: comanda piano e output | leggerlo una sola volta all’inizio |
 
 La domanda operativa è sempre la stessa:
 
@@ -103,7 +107,7 @@ Una notizia interessante non apre un modulo. Un avviso ufficiale sì. Una norma 
 
 Regola pratica:
 
-- **Notizia** → salva in "da verificare" solo se nomina il tuo ente, profilo o materia; altrimenti ignora.
+- **Notizia** → salva in “da verificare” solo se nomina il tuo ente, profilo o materia; altrimenti ignora.
 - **Norma** → controlla su Normattiva; aggiorna nuclei solo se il bando o il programma la rendono rilevante.
 - **Avviso** → compila subito la scheda aggiornamento e valuta impatto su calendario.
 - **Bando** → rileggi requisiti, prove, punteggi, documenti; aggiorna Bando Decoder e matrice.
@@ -123,9 +127,9 @@ Non usarlo come semplice motore di ricerca. Usalo con una domanda:
 
 Ogni volta che trovi una novità, non copiarla soltanto. Scrivi che decisione produce.
 
-### 2. Sito dell'amministrazione
+### 2. Sito dell’amministrazione
 
-Il sito dell'ente che bandisce resta essenziale. Spesso contiene avvisi, diario prove, convocazioni, comunicazioni operative, istruzioni logistiche, rettifiche e graduatorie.
+Il sito dell’ente che bandisce resta essenziale. Spesso contiene avvisi, diario prove, convocazioni, comunicazioni operative, istruzioni logistiche, rettifiche e graduatorie.
 
 Controllalo sempre quando:
 
@@ -139,7 +143,7 @@ Errore da evitare: leggere il bando una volta e poi non tornare più sugli avvis
 
 ### 3. Gazzetta Ufficiale
 
-La Gazzetta Ufficiale resta una fonte di pubblicazione e conoscenza ufficiale per atti e avvisi. Per i concorsi devi controllarla quando il bando, l'amministrazione o il percorso concreto la rendono rilevante.
+La Gazzetta Ufficiale resta una fonte di pubblicazione e conoscenza ufficiale per atti e avvisi. Per i concorsi devi controllarla quando il bando, l’amministrazione o il percorso concreto la rendono rilevante.
 
 Non devi leggerla ogni giorno senza scopo. Devi usarla per verificare:
 
@@ -156,14 +160,14 @@ Usala per domande mirate:
 
 - qual è il testo vigente del DPR sui concorsi?
 - il decreto legislativo richiamato è stato modificato?
-- l'articolo che sto studiando è ancora aggiornato?
+- l’articolo che sto studiando è ancora aggiornato?
 - devo citare una norma in prova orale o scritta?
 
 Non usare Normattiva per studiare tutto da zero. Usala per verificare il fondamento.
 
 ### 5. Dipartimento della Funzione Pubblica, Syllabus e SNA
 
-Queste fonti aiutano a capire l'evoluzione delle competenze nella PA: formazione, soft skill, transizioni, valore pubblico, competenze digitali, competenze trasversali.
+Queste fonti aiutano a capire l’evoluzione delle competenze nella PA: formazione, soft skill, transizioni, valore pubblico, competenze digitali, competenze trasversali.
 
 Nel Metodo BANDO servono soprattutto per:
 
@@ -184,11 +188,13 @@ AgID è rilevante per PA digitale, documenti informatici, servizi digitali, acce
 
 Il Garante Privacy è rilevante per protezione dei dati, pubblicazione di graduatorie, trasparenza online, dati dei candidati e bilanciamento tra pubblicità e riservatezza.
 
-La domanda giusta non è: "Devo leggere tutto?"
+La domanda giusta non è: “Devo leggere tutto?”
 
-La domanda giusta è: "Questa fonte cambia il modo in cui rispondo a un quesito, risolvo un caso o leggo un avviso?"
+La domanda giusta è: “Questa fonte cambia il modo in cui rispondo a un quesito, risolvo un caso o leggo un avviso?”
 
 ![Figura 25.3 - Fonti da controllare davvero](../assets/chapter-25/03-fonti-da-controllare.png)
+
+*Figura 25.3 - Fonti da controllare davvero*
 
 ## Il protocollo dei 20 minuti
 
@@ -197,7 +203,7 @@ Una volta a settimana, o più spesso quando la prova è vicina, usa questo contr
 | Minuti | Controllo | Esito |
 |---|---|---|
 | 0-4 | inPA e pagina procedura | Nuovi avvisi, stato, comunicazioni |
-| 4-8 | Sito dell'amministrazione | Diario prove, rettifiche, documenti, sede |
+| 4-8 | Sito dell’amministrazione | Diario prove, rettifiche, documenti, sede |
 | 8-11 | Bando e allegati | Requisiti, materie, punteggi, soglie |
 | 11-15 | Fonte normativa o settoriale se serve | Normattiva, ANAC, AgID, Garante, DFP, SNA |
 | 15-18 | Bando Decoder | Cosa cambia nel quadro |
@@ -212,6 +218,8 @@ Se in 20 minuti non trovi cambiamenti operativi, scrivi:
 Questo evita di ricontrollare mentalmente la stessa cosa dieci volte.
 
 ![Figura 25.4 - Protocollo dei 20 minuti](../assets/chapter-25/04-protocollo-venti-minuti.png)
+
+*Figura 25.4 - Protocollo dei 20 minuti*
 
 ## La scheda aggiornamento
 
@@ -243,6 +251,8 @@ La scheda ti costringe a chiudere il ciclo. Non basta sapere. Devi decidere.
 
 ![Figura 25.5 - Scheda aggiornamento](../assets/chapter-25/05-scheda-aggiornamento.png)
 
+*Figura 25.5 - Scheda aggiornamento*
+
 ## Quando cambiare il piano
 
 Non ogni aggiornamento cambia il piano. Usa questa griglia.
@@ -259,15 +269,17 @@ Non ogni aggiornamento cambia il piano. Usa questa griglia.
 
 La domanda decisiva:
 
-> questa informazione mi costringe a cambiare un'azione già pianificata?
+> questa informazione mi costringe a cambiare un’azione già pianificata?
 
 Se la risposta è no, non toccare il calendario.
 
 ![Figura 25.6 - Cambiare o non cambiare il piano](../assets/chapter-25/06-cambiare-o-non-cambiare-piano.png)
 
+*Figura 25.6 - Cambiare o non cambiare il piano*
+
 ## Quando aprire un modulo integrativo
 
-Un modulo integrativo non serve a "studiare di più". Serve a colmare un vuoto verificato: materia nuova nel programma, profilo specialistico, prova diversa o nucleo settoriale reso obbligatorio da fonte ufficiale.
+Un modulo integrativo non serve a “studiare di più”. Serve a colmare un vuoto verificato: materia nuova nel programma, profilo specialistico, prova diversa o nucleo settoriale reso obbligatorio da fonte ufficiale.
 
 Apri o intensifica un modulo integrativo solo se almeno una condizione è vera:
 
@@ -281,16 +293,16 @@ Apri o intensifica un modulo integrativo solo se almeno una condizione è vera:
 
 Non aprire un modulo integrativo quando:
 
-- un articolo o un gruppo suggerisce "potrebbero chiedere";
+- un articolo o un gruppo suggerisce “potrebbero chiedere”;
 - un corso aggiunge lezioni non previste dal bando;
 - una norma è interessante ma non citata nel programma;
 - hai ansia da aggiornamento e cerchi sicurezza accumulando materiale.
 
-In questi casi la decisione corretta è: verifica fonte, confronta con bando, registra "nessun cambio operativo" e torna al piano.
+In questi casi la decisione corretta è: verifica fonte, confronta con bando, registra “nessun cambio operativo” e torna al piano.
 
-## Proteggere il calendario dall'ansia da aggiornamento
+## Proteggere il calendario dall’ansia da aggiornamento
 
-L'ansia da aggiornamento nasce quando ogni novità sembra urgente. Il metodo la riduce con tre regole.
+L’ansia da aggiornamento nasce quando ogni novità sembra urgente. Il metodo la riduce con tre regole.
 
 **Regola 1 — Finestra fissa, non controllo continuo**
 
@@ -306,11 +318,11 @@ Non ricalcolare tutto il piano per un avviso logistico. Aggiorna solo lo strumen
 
 | Segnale di ansia | Risposta metodo |
 |---|---|
-| "Devo controllare di nuovo" senza nuova fonte | scrivi ultimo controllo e prossima data |
-| "Forse è cambiato tutto" | rileggi solo bando e avvisi ufficiali |
-| "Apro un manuale nuovo per sicurezza" | verifica se la materia è nel programma |
-| "Salto la simulazione per leggere novità" | simulazione prima, aggiornamento dopo |
-| "Studio due ore di notizie generiche" | taglia a 20 minuti e torna all'output |
+| “Devo controllare di nuovo” senza nuova fonte | scrivi ultimo controllo e prossima data |
+| “Forse è cambiato tutto” | rileggi solo bando e avvisi ufficiali |
+| “Apro un manuale nuovo per sicurezza” | verifica se la materia è nel programma |
+| “Salto la simulazione per leggere novità” | simulazione prima, aggiornamento dopo |
+| “Studio due ore di notizie generiche” | taglia a 20 minuti e torna all’output |
 
 Il calendario è il bene da proteggere. Le fonti servono a migliorarlo, non a sostituirlo ogni giorno.
 
@@ -330,7 +342,7 @@ Devi aggiornarla quando:
 Non devi aggiornarla quando:
 
 - leggi un articolo generico;
-- un altro candidato dice che "di solito chiedono";
+- un altro candidato dice che “di solito chiedono”;
 - un corso aggiunge una lezione non prevista;
 - trovi una norma interessante ma non collegata al tuo bando.
 
@@ -356,13 +368,13 @@ Formato:
 | Errore | Fonte corretta | Causa | Azione |
 |---|---|---|---|
 | Ho studiato una materia non prevista | Bando e programma | Ansia da accumulo | Taglio modulo e recupero simulazione |
-| Ho visto tardi l'avviso sulla sede | Sito amministrazione | Nessun controllo settimanale | Promemoria ogni venerdì |
+| Ho visto tardi l’avviso sulla sede | Sito amministrazione | Nessun controllo settimanale | Promemoria ogni venerdì |
 
 Un candidato migliora quando non ripete lo stesso errore di aggiornamento nel concorso successivo.
 
 ## Da sapere in 5 righe
 
-1. L'aggiornamento utile cambia una decisione: piano, materia, prova, documento o output.
+1. L’aggiornamento utile cambia una decisione: piano, materia, prova, documento o output.
 2. Il bando e gli avvisi ufficiali vengono prima di manuali, corsi, gruppi e riassunti.
 3. inPA, sito ente, Gazzetta Ufficiale e Normattiva hanno funzioni diverse: non usarli a caso.
 4. Le fonti settoriali servono solo se toccano davvero il programma o la prova.
@@ -372,12 +384,12 @@ Un candidato migliora quando non ripete lo stesso errore di aggiornamento nel co
 
 Davide prepara un concorso amministrativo. Ha già studiato procedimento, accesso, trasparenza, pubblico impiego e quiz.
 
-Una settimana prima della prova legge in un gruppo che "potrebbero chiedere più privacy". Si agita e apre un manuale specialistico da 500 pagine.
+Una settimana prima della prova legge in un gruppo che “potrebbero chiedere più privacy”. Si agita e apre un manuale specialistico da 500 pagine.
 
 Con il protocollo BANDO fa invece tre controlli:
 
 - rilegge il bando: privacy è prevista come materia, ma in forma essenziale;
-- controlla il sito dell'amministrazione: nessuna rettifica del programma;
+- controlla il sito dell’amministrazione: nessuna rettifica del programma;
 - consulta le fonti consolidate del libro: trasparenza, accesso civico e protezione dati sono già nel nucleo comune.
 
 Decisione corretta:
@@ -385,12 +397,14 @@ Decisione corretta:
 - non apre un modulo avanzato;
 - ripassa bilanciamento trasparenza/privacy;
 - fa due casi pratici su accesso e dati personali;
-- registra nel diario: "ansia da fonte non ufficiale";
+- registra nel diario: “ansia da fonte non ufficiale”;
 - mantiene la simulazione prevista.
 
 Davide non ignora la privacy. La studia al livello richiesto.
 
 ![Figura 25.7 - Caso Davide: dal rumore alla decisione](../assets/chapter-25/07-caso-davide-rumore-fonte-decisione.png)
+
+*Figura 25.7 - Caso Davide: dal rumore alla decisione*
 
 ## Domanda da commissario
 
@@ -408,13 +422,13 @@ No. Prima devi capire se la novità riguarda il tuo bando, la tua materia, la tu
 
 Il controllo delle fonti può fallire per due motivi opposti: non controlli abbastanza, oppure controlli in troppi posti senza metodo.
 
-Nel modulo **R4** (Cap. 28) hai il protocollo per usare digitale, cartelle, promemoria e AI senza perdere il filo. Qui restano valide tre regole incrociate:
+Nel modulo **R4** hai il protocollo per usare digitale, cartelle, promemoria e AI senza perdere il filo. Qui restano valide tre regole incrociate:
 
-| Funzione digitale | Uso corretto per l'aggiornamento | Rischio |
+| Funzione digitale | Uso corretto per l’aggiornamento | Rischio |
 |---|---|---|
 | Catturare | salvare bando, avvisi, link ufficiali, ricevute | confondere riassunto e fonte |
 | Decidere | aggiornare Bando Decoder dopo ogni avviso rilevante | compilare schede senza tagliare |
-| Ricordare | promemoria settimanale "protocollo 20 minuti" | notifiche continue da gruppi e feed |
+| Ricordare | promemoria settimanale “protocollo 20 minuti” | notifiche continue da gruppi e feed |
 
 Non chiedere a un assistente AI se il bando è cambiato: chiedigli di organizzare ciò che hai già verificato su inPA, sito ente o Normattiva. La verifica resta tua.
 
@@ -425,11 +439,11 @@ Se usi il ricettario digitale, tieni una cartella minima:
 - `schede-aggiornamento/` — una scheda per ogni decisione;
 - `fonti-settoriali/` — solo documenti collegati al programma.
 
-Ogni file deve avere data e fonte nell'intestazione. Senza data, non è aggiornamento: è rumore archiviato.
+Ogni file deve avere data e fonte nell’intestazione. Senza data, non è aggiornamento: è rumore archiviato.
 
 ## Scheda workbook: Registro fonti settimanale
 
-Compila questa scheda ogni settimana dopo il protocollo dei 20 minuti. Se non trovi cambiamenti, scrivi comunque "nessun cambio operativo": chiude il ciclo e libera la testa.
+Compila questa scheda ogni settimana dopo il protocollo dei 20 minuti. Se non trovi cambiamenti, scrivi comunque “nessun cambio operativo”: chiude il ciclo e libera la testa.
 
 | Campo | Compilazione |
 |---|---|
@@ -451,7 +465,7 @@ Checklist rapida post-controllo:
 | Ho scritto la decisione, non solo la novità | |
 | Ho evitato di aprire moduli non richiesti | |
 | Ho protetto almeno un blocco di studio o output | |
-| Ho registrato "nessun cambio" se non serve agire | |
+| Ho registrato “nessun cambio” se non serve agire | |
 
 ## Mini-esercizio
 
@@ -483,11 +497,11 @@ Poi scegli una sola azione:
 |---|---|
 | | |
 
-Se non devi aggiornare nulla, scrivi "nessun cambio operativo" e torna a studiare.
+Se non devi aggiornare nulla, scrivi “nessun cambio operativo” e torna a studiare.
 
 ## Errore tipico
 
-L'errore tipico è chiamare "aggiornamento" qualsiasi informazione nuova.
+L’errore tipico è chiamare “aggiornamento” qualsiasi informazione nuova.
 
 Una notizia nuova non è sempre una decisione nuova. Un PDF nuovo non è sempre una materia nuova. Una discussione in gruppo non è una fonte. Un corso che aggiunge lezioni non modifica il bando.
 
@@ -495,7 +509,7 @@ Correzione:
 
 - verifica la fonte;
 - confronta con il bando;
-- valuta l'impatto;
+- valuta l’impatto;
 - scrivi la decisione;
 - aggiorna solo lo strumento interessato.
 
@@ -544,11 +558,3 @@ Per il concorso successivo usa il sistema già allenato: conserva le decisioni u
 - [[topics/diario-errori]]
 - [[topics/moduli-integrativi]]
 - [[topics/matrice-materie-profili]]
-
-## Note di review
-
-- La struttura madre originaria arriva al Capitolo 24 e alle Appendici A-F. Questo capitolo è un'estensione editoriale finale: in impaginazione decidere se mantenerlo come Capitolo 25 o trasformarlo in "Conclusione operativa".
-- Prima della pubblicazione finale verificare di nuovo le pagine ufficiali citate, in particolare inPA, Gazzetta Ufficiale, Normattiva, DFP/Syllabus, ANAC, AgID e Garante Privacy.
-- Evitare formule che promettono aggiornamento normativo completo: il capitolo insegna il metodo di verifica, non sostituisce le fonti ufficiali.
-- Scheda workbook "Registro fonti settimanale" inserita nel capitolo; in impaginazione valutare estrazione come PDF compilabile autonomo.
-- Coordinare rimandi con R4 (digitale), R2 (capitale di studio) e checklist operative del volume principale.

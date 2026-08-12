@@ -45,7 +45,7 @@ In un concorso conta la capacità di usare tempo limitato, informazioni ufficial
 
 Se parti subito dai contenuti, rischi di comportarti come quasi tutti: compri un manuale, apri una banca dati, guardi qualche video, sottolinei molto e dopo una settimana non sai se stai avanzando davvero. Di solito non manca l’impegno. Manca una cabina di regia.
 
-La cabina di regia è il metodo. In questo libro il metodo si chiama BANDO: leggere il bando, ordinare le aree, scegliere i nuclei, tenere un diario e allenare gli output. Prima di applicarlo, però, devi cambiare punto di vista. Non sei uno studente che deve "fare tutto". Sei un candidato che deve costruire una prestazione adeguata a un concorso specifico, senza perdere il capitale di studio che potrà servirgli anche in altri concorsi.
+La cabina di regia è il metodo. In questo libro il metodo si chiama BANDO: leggere il bando, ordinare le aree, scegliere i nuclei, tenere un diario e allenare gli output. Prima di applicarlo, però, devi cambiare punto di vista. Non sei uno studente che deve “fare tutto”. Sei un candidato che deve costruire una prestazione adeguata a un concorso specifico, senza perdere il capitale di studio che potrà servirgli anche in altri concorsi.
 
 ## Obiettivi del capitolo
 
@@ -76,7 +76,7 @@ Il concorso pubblico non segue più un modello unico. Puoi trovare una preselett
 
 Cambiano anche i profili. Un operatore, un istruttore, un assistente, un funzionario, una posizione di elevata qualificazione o un dirigente non affrontano la stessa profondità. Cambiano le responsabilità attese, il livello di autonomia, il tipo di domande e la qualità della risposta richiesta.
 
-Il candidato debole non vede queste differenze. Si limita a dire: "devo studiare amministrativo, pubblico impiego, trasparenza, informatica". Il candidato strategico chiede prima: "come verranno usate queste materie nella mia prova?".
+Il candidato debole non vede queste differenze. Si limita a dire: “devo studiare amministrativo, pubblico impiego, trasparenza, informatica”. Il candidato strategico chiede prima: “come verranno usate queste materie nella mia prova?”.
 
 ## Perché molti candidati studiano tanto ma male
 
@@ -90,7 +90,7 @@ Ci sono cinque segnali di studio debole:
 - non registra gli errori, quindi li ripete;
 - cambia metodo ogni volta che cambia concorso.
 
-Uno studio efficace è leggibile. Se qualcuno ti chiede "che cosa stai facendo questa settimana e perché?", devi saper rispondere con precisione.
+Uno studio efficace è leggibile. Se qualcuno ti chiede “che cosa stai facendo questa settimana e perché?”, devi saper rispondere con precisione.
 
 ## Candidato principiante e candidato strategico
 
@@ -125,7 +125,7 @@ Questa distinzione cambia il modo di studiare.
 
 Il livello del profilo incide sulla profondità della risposta. Un argomento come il procedimento amministrativo può essere chiesto a un istruttore come nozione base, a un funzionario come strumento operativo e a un dirigente come problema di organizzazione, responsabilità e risultato.
 
-Per questo il candidato non deve chiedersi soltanto "quali materie ci sono?". Deve chiedersi: "a che livello devo saperle usare?".
+Per questo il candidato non deve chiedersi soltanto “quali materie ci sono?”. Deve chiedersi: “a che livello devo saperle usare?”.
 
 - **Operatori**: servono comprensione essenziale, procedure, compiti e comportamento corretto.
 - **Assistenti e istruttori**: servono basi amministrative, precisione nei quiz e capacità di orientarsi negli atti.

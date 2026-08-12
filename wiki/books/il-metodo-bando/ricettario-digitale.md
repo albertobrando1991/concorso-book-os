@@ -26,7 +26,7 @@ last_compiled_from: ["wiki/books/il-metodo-bando/index.md", "wiki/books/il-metod
 
 Il volume principale resta autonomo e completo: contiene il Metodo BANDO, le materie comuni essenziali, l'allenamento alle prove, l'adattamento ai profili e il kit finale del candidato.
 
-Il ricettario digitale raccoglie invece i capitoli gia scritti dal 25 al 47 come strumenti di applicazione avanzata. Non sostituisce il libro e non diventa un secondo volume: estende il lavoro del lettore con protocolli, schede, casi, checklist, simulazioni e laboratori operativi.
+Il ricettario digitale raccoglie invece i moduli R1-R23 (gia scritti come capitoli sorgente dal 25 al 47) come strumenti di applicazione avanzata. Non sostituisce il libro e non diventa un secondo volume: estende il lavoro del lettore con protocolli, schede, casi, checklist, simulazioni e laboratori operativi.
 
 Formula guida:
 

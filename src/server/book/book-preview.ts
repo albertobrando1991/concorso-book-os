@@ -116,6 +116,9 @@ const STAFF_ONLY_HEADINGS = [
   "Bozza agente",
   "Note editoriali",
   "Note di review",
+  "Fonti e note di revisione",
+  "Riferimenti consolidati",
+  "Fonti consolidate",
   "Norme o riferimenti",
   "Quiz collegati",
   "Spiegazione",
@@ -813,7 +816,10 @@ function chapterNumberFromOutline(value: string) {
 }
 
 function chapterIndexLabel(outlineSection: string, chapterNumber: string) {
-  if (/^[A-Z]$/i.test(outlineSection.trim())) return `Appendice ${chapterNumber}`
+  const normalized = outlineSection.trim()
+
+  if (/^[A-Z]$/i.test(normalized)) return `Appendice ${chapterNumber}`
+  if (normalized.toUpperCase() === "CONCLUSIONE") return "Conclusione"
 
   return chapterNumber ? `Capitolo ${chapterNumber}` : "Introduzione"
 }
@@ -1608,6 +1614,7 @@ function outlineRank(value: string) {
 
   if (frontMatter) return -100 + Number.parseInt(frontMatter[1], 10)
   if (!normalized) return 999
+  if (normalized.toUpperCase() === "CONCLUSIONE") return 60
   if (/^\d+$/.test(normalized)) return Number(normalized)
   if (/^[A-Z]$/i.test(normalized)) return 100 + normalized.toUpperCase().charCodeAt(0) - 64
 

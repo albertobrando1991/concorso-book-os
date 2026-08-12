@@ -2,26 +2,26 @@
 id: m-fl04-polizia-locale
 type: specialist_module
 title: "M-FL04 - Polizia locale"
-status: drafting
+status: module-review-complete
 domain: "concorsi pubblici italiani"
 topics: ["moduli specialistici", "funzioni-locali", "metodo bando", "polizia locale", "codice della strada", "sanzioni amministrative"]
 entities: ["Metodo BANDO", "Capitale Personale", "Polizia locale", "Comune", "Prefetto"]
 source_refs: ["sources/legge-65-1986-polizia-locale.md", "sources/verifica-ufficiale-m-fl04-01-2026-07-23.md", "sources/verifica-ufficiale-m-fl04-02-2026-07-23.md", "sources/verifica-ufficiale-m-fl04-03-2026-07-23.md", "sources/verifica-ufficiale-m-fl04-04-2026-07-22.md", "sources/d-lgs-18-agosto-2000-n-267-enti-locali.md", "sources/codice-strada-d-lgs-285-1992-dpr-495-1992.md", "sources/legge-177-2024-sicurezza-stradale-codice-strada.md", "sources/legge-24-novembre-1981-n-689-sanzioni-amministrative.md", "sources/regio-decreto-18-giugno-1931-n-773-tulps-polizia-amministrativa.md", "sources/d-l-11-aprile-2025-n-48-convertito-dalla-l-9-giugno-2025-n-80-sicurezza-urbana.md", "sources/suap-commercio-polizia-amministrativa-locale.md", "sources/edilizia-urbanistica-dpr-380-2001.md", "sources/ambiente-controlli-locali-d-lgs-152-2006.md", "sources/ccnl-funzioni-locali-2022-2024-aran.md", "sources/ccnl-area-funzioni-locali-2022-2024-aran.md", "sources/bandi-inpa-vol-02-campione-2026.md"]
 book_refs: ["il-metodo-bando", "moduli-specialistici", "vol-02-enti-locali-polizia-locale"]
 confidence: 0.88
-updated_at: 2026-07-23T02:30:00+02:00
+updated_at: 2026-08-08T21:45:00+02:00
 created_at: 2026-06-27T19:56:28+02:00
-review_required: true
+review_required: false
 canonical: true
-tags: ["specialist-module", "module-family-funzioni-locali", "module-code-m-fl04", "drafting"]
+tags: ["specialist-module", "module-family-funzioni-locali", "module-code-m-fl04", "module-review-complete"]
 book_id: m-fl04-polizia-locale
 module_code: M-FL04
 module_family: funzioni-locali
 module_family_title: "Funzioni Locali"
-module_status: professional-draft-started
+module_status: module-review-complete
 roadmap_phase: "2"
 companion_to: il-metodo-bando
-draft_stage: professional-draft-started
+draft_stage: professional-draft-complete
 last_compiled_from: ["wiki/books/vol-02-enti-locali-polizia-locale/front-matter/06-indice.md", "wiki/books/vol-02-enti-locali-polizia-locale/planning/01-indice-dettagliato-volume-moduli-v4.md", "wiki/topics/polizia-locale.md", "wiki/sources/legge-65-1986-polizia-locale.md", "wiki/sources/codice-strada-d-lgs-285-1992-dpr-495-1992.md", "wiki/sources/bandi-inpa-vol-02-campione-2026.md"]
 ---
 
@@ -79,4 +79,4 @@ La Polizia locale va studiata come funzione dell'ente territoriale, non come cor
 15. [[books/moduli/m-fl04-polizia-locale/chapters/15-laboratorio-atti-verbali-polizia-locale|Laboratorio atti e verbali della Polizia locale]]
 
 ## Note di review
-I primi quattro capitoli sono in bozza professionale verificata. Il secondo chiarisce la sequenza fonte nazionale, disciplina regionale, regolamento dell'ente e bando; il terzo distingue funzione, qualifica, potere e organizzazione; il quarto ricostruisce servizi stradali, viabilità e controllo senza generalizzare assetti locali. Prima della pubblicazione restano necessari il controllo del testo vigente del Codice della strada, di eventuali decreti e circolari successivi alla L. 177/2024, delle norme regionali richiamate dai bandi target, dei regolamenti locali e dei requisiti specifici di idoneità fisica o porto/uso di strumenti operativi.
+I quindici capitoli hanno completato il ciclo editoriale individuale 08-12 in Formato 2. La progressione conduce dal profilo e dall'ordinamento alle qualifiche, ai servizi e ai procedimenti, quindi ai settori operativi, al comando e al laboratorio finale. La revisione trasversale non rileva nuclei incompleti o duplicazioni bloccanti con il VOL-01. Restano gli audit specialistici della pipeline su fonti vigenti, disciplina regionale e locale, protocolli, requisiti e prassi territoriali.

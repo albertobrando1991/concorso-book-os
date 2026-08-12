@@ -24,7 +24,7 @@ last_compiled_from: ["sources/capitoli-21-23-corpus-moduli-piano-diario-2026-06-
 
 Un piano di studio aiuta a prendere decisioni quando il tempo è meno del programma, non a riempire caselle.
 
-Molti candidati costruiscono calendari irrealistici: dieci materie al giorno, pagine da leggere senza output, recuperi infiniti, ripassi rimandati all'ultima settimana. Il risultato è prevedibile: il piano si rompe, il candidato si sente in ritardo e prova a compensare aggiungendo ore, manuali e ansia.
+Molti candidati costruiscono calendari irrealistici: dieci materie al giorno, pagine da leggere senza output, recuperi infiniti, ripassi rimandati all’ultima settimana. Il risultato è prevedibile: il piano si rompe, il candidato si sente in ritardo e prova a compensare aggiungendo ore, manuali e ansia.
 
 Nel Metodo BANDO il calendario è un sistema di controllo, non una promessa.
 
@@ -59,6 +59,8 @@ Se manca uno di questi dati, torna al bando e alla mappa profilo.
 
 ![Figura 22.1 - Cinque dati obbligatori prima del piano](../assets/chapter-22/01-cinque-dati-obbligatori.png)
 
+*Figura 22.1 - Cinque dati obbligatori prima del piano*
+
 ## Mappa BANDO del piano
 
 | Fase | Domanda | Azione |
@@ -69,9 +71,11 @@ Se manca uno di questi dati, torna al bando e alla mappa profilo.
 | D - Diario | Dove sto sbagliando o rallentando? | Correzione del piano |
 | O - Output | Che cosa devo produrre ogni settimana? | Quiz, caso, orale, simulazione |
 
-La pianificazione BANDO non parte dal lunedi. Parte dalla prova e torna indietro.
+La pianificazione BANDO non parte dal lunedì. Parte dalla prova e torna indietro.
 
 ![Figura 22.2 - Mappa BANDO del piano 30/60/90](../assets/chapter-22/02-mappa-bando-del-piano.png)
+
+*Figura 22.2 - Mappa BANDO del piano 30/60/90*
 
 ## La struttura base di ogni piano
 
@@ -85,9 +89,11 @@ Ogni piano, breve o lungo, deve contenere cinque tipi di blocchi.
 | Output di prova | Quiz, scritto, caso, orale, simulazione |
 | Correzione | Classificare errori e decidere il passo successivo |
 
-Se un calendario contiene solo "leggere capitolo X", non è ancora un piano.
+Se un calendario contiene solo “leggere capitolo X”, non è ancora un piano.
 
 ![Figura 22.3 - Struttura base di ogni piano](../assets/chapter-22/03-struttura-base-ogni-piano.png)
+
+*Figura 22.3 - Struttura base di ogni piano*
 
 ## Piano 30 giorni: emergenza ordinata
 
@@ -313,6 +319,8 @@ Il vantaggio dei 90 giorni è la correzione. Hai tempo per sbagliare, classifica
 
 ![Figura 22.4 - Confronto operativo 30/60/90 giorni](../assets/chapter-22/04-confronto-30-60-90-giorni.png)
 
+*Figura 22.4 - Confronto operativo 30/60/90 giorni*
+
 ## Piano 15 giorni: emergenza vera
 
 Se restano 15 giorni, non devi recuperare tutto. Devi scegliere.
@@ -352,23 +360,27 @@ Regola:
 
 ![Figura 22.5 - Piano 15 giorni e tagli](../assets/chapter-22/05-piano-15-giorni-e-tagli.png)
 
+*Figura 22.5 - Piano 15 giorni e tagli*
+
 ## Settimana tipo
 
 Adatta questa settimana a 30, 60 o 90 giorni.
 
 | Giorno | Blocco 1 | Blocco 2 | Output |
 |---|---|---|---|
-| Lunedi | Studio core | Richiamo attivo | 10 domande |
-| Martedi | Modulo | Quiz mirato | Diario errori |
-| Mercoledi | Ripasso core | Caso/orale | Risposta breve |
-| Giovedi | Studio core | Drill errori | Flashcard |
-| Venerdi | Modulo | Simulazione parziale | Correzione |
+| Lunedì | Studio core | Richiamo attivo | 10 domande |
+| Martedì | Modulo | Quiz mirato | Diario errori |
+| Mercoledì | Ripasso core | Caso/orale | Risposta breve |
+| Giovedì | Studio core | Drill errori | Flashcard |
+| Venerdì | Modulo | Simulazione parziale | Correzione |
 | Sabato | Simulazione | Revisione | Tagli e priorità |
 | Domenica | Ripasso leggero | Pianificazione | Settimana nuova |
 
 Se lavori o hai poco tempo, dimezza i blocchi, non eliminare output e diario.
 
 ![Figura 22.6 - Settimana tipo orientata agli output](../assets/chapter-22/06-settimana-tipo-output.png)
+
+*Figura 22.6 - Settimana tipo orientata agli output*
 
 ## Esempio - Profilo amministrativo generale
 
@@ -383,7 +395,7 @@ Priorità:
 
 Modulo:
 
-- settore dell'ente solo se il bando lo richiede.
+- settore dell’ente solo se il bando lo richiede.
 
 Output:
 
@@ -445,13 +457,13 @@ Output:
 | 11 | | | | | | |
 | 12 | | | | | | |
 
-La colonna "Decisione" è obbligatoria. Ogni settimana devi decidere se continuare, tagliare, spostare tempo o cambiare metodo.
+La colonna “Decisione” è obbligatoria. Ogni settimana devi decidere se continuare, tagliare, spostare tempo o cambiare metodo.
 
 ## Da sapere in 5 righe
 
 1. Il piano parte dalla prova e torna indietro.
 2. Ogni settimana deve produrre output, non solo lettura.
-3. Il ripasso va distribuito, non lasciato all'ultima settimana.
+3. Il ripasso va distribuito, non lasciato all’ultima settimana.
 4. Il diario corregge il piano con dati reali.
 5. Se il tempo è poco, taglia contenuti a bassa resa, non simulazioni e correzione.
 
@@ -477,11 +489,13 @@ Il secondo piano sembra ordinato, ma non produce prova.
 
 ![Figura 22.7 - Caso Luca: ciclo di controllo](../assets/chapter-22/07-caso-luca-ciclo-controllo.png)
 
+*Figura 22.7 - Caso Luca: ciclo di controllo*
+
 ## Domanda da commissario
 
 **Perché un piano di studio deve contenere simulazioni anche prima della fine del programma?**
 
-Perché la simulazione mostra se lo studio diventa output. Aspettare di "finire tutto" significa scoprire troppo tardi errori di tempo, lettura, memoria, strategia e formato.
+Perché la simulazione mostra se lo studio diventa output. Aspettare di “finire tutto” significa scoprire troppo tardi errori di tempo, lettura, memoria, strategia e formato.
 
 ## Domanda-trappola
 
@@ -516,7 +530,7 @@ Se non sai cosa tagliare, non hai ancora un piano. Hai solo una lista.
 - Studiare il modulo prima del core minimo.
 - Cambiare materiali ogni settimana.
 - Non decidere cosa tagliare.
-- Confondere "giorno occupato" con "giorno produttivo".
+- Confondere “giorno occupato” con “giorno produttivo”.
 
 ## Riferimenti consolidati
 
@@ -528,8 +542,3 @@ Se non sai cosa tagliare, non hai ancora un piano. Hai solo una lista.
 - [[topics/piano-30-60-90-giorni]]
 - [[topics/moduli-integrativi]]
 - [[topics/diario-errori]]
-
-## Note di review
-
-- Prima della pubblicazione finale valutare se trasformare le tabelle in pagine workbook compilabili.
-- Il piano 30/60/90 è un modello operativo: deve sempre essere adattato al bando reale.

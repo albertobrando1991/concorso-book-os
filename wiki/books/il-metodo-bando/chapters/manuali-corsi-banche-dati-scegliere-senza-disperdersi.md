@@ -21,9 +21,9 @@ last_humanizer_revision: 2026-07-24
 last_compiled_from: ["sources/scelta-materiali-studio-concorsi-metodo-bando.md", "topics/scelta-materiali-studio-concorsi.md", "topics/metodo-bando.md", "topics/metodo-di-studio.md", "topics/prova-a-quiz.md", "topics/aggiornamento-fonti-concorsi.md", "topics/capitale-studio-riutilizzabile.md"]
 ---
 
-# Capitolo 33 - Manuali, corsi e banche dati: scegliere senza disperdersi
+# R9 - Manuali, corsi e banche dati: scegliere senza disperdersi
 
-> Modulo ricettario **R9** — Scorecard materiali di studio. Collega [[books/il-metodo-bando/chapters/scegliere-moduli-integrativi|Cap. 21]], [[books/il-metodo-bando/chapters/metodo-di-studio-per-concorsi|Cap. 13]] e [[books/il-metodo-bando/chapters/il-metodo-bando|Cap. 3]]; incrocia [[books/il-metodo-bando/chapters/aggiornare-il-metodo-dopo-il-libro|R1]], [[books/il-metodo-bando/chapters/trasformare-ogni-concorso-in-capitale-di-studio|R2]], [[books/il-metodo-bando/chapters/usare-il-digitale-senza-perdere-il-metodo|R4]] e [[books/il-metodo-bando/chapters/il-tuo-sistema-bando-personale|R8]].
+> Scorecard materiali di studio. Collega [[books/il-metodo-bando/chapters/scegliere-moduli-integrativi|Cap. 21]], [[books/il-metodo-bando/chapters/metodo-di-studio-per-concorsi|Cap. 13]] e [[books/il-metodo-bando/chapters/il-metodo-bando|Cap. 3]]; incrocia [[books/il-metodo-bando/chapters/aggiornare-il-metodo-dopo-il-libro|R1]], [[books/il-metodo-bando/chapters/trasformare-ogni-concorso-in-capitale-di-studio|R2]], [[books/il-metodo-bando/chapters/usare-il-digitale-senza-perdere-il-metodo|R4]] e [[books/il-metodo-bando/chapters/il-tuo-sistema-bando-personale|R8]].
 
 Molti candidati iniziano la preparazione con una domanda sbagliata:
 
@@ -55,16 +55,18 @@ Alla fine del capitolo saprai:
 - capire quando una banca dati è centrale e quando è solo allenamento;
 - usare riassunti, dispense e AI senza perdere controllo delle fonti;
 - evitare acquisti duplicati;
-- collegare ogni materiale al piano, al Diario degli errori e all'output della prova;
+- collegare ogni materiale al piano, al Diario degli errori e all’output della prova;
 - costruire una pila minima di studio.
 
 La regola è questa:
 
-> scegli il materiale in funzione dell'output richiesto dal bando.
+> scegli il materiale in funzione dell’output richiesto dal bando.
 
 ## La mappa BANDO dei materiali
 
 ![Figura 33.1 - Mappa BANDO dei materiali: scegliere manuali, corsi, banche dati e strumenti in funzione di bando, errori e output.](../assets/chapter-33/01-mappa-bando-materiali.png)
+
+*Figura 33.1 - Mappa BANDO dei materiali: scegliere manuali, corsi, banche dati e strumenti in funzione di bando, errori e output.*
 
 Ogni materiale deve entrare nel Metodo BANDO. Se resta fuori, diventa rumore.
 
@@ -81,6 +83,8 @@ Un materiale che non sai collocare in questa tabella non è ancora pronto per en
 ## Prima il bando, poi il materiale
 
 ![Figura 33.2 - Prima il bando, poi il materiale: il piano comanda manuali, corsi, quiz e strumenti.](../assets/chapter-33/02-prima-bando-poi-materiale.png)
+
+*Figura 33.2 - Prima il bando, poi il materiale: il piano comanda manuali, corsi, quiz e strumenti.*
 
 Il bando viene prima del materiale per una ragione semplice: il bando decide la partita.
 
@@ -99,7 +103,7 @@ Dal bando ricavi:
 
 Solo dopo puoi chiederti quali materiali servono.
 
-Se parti dal manuale, studi secondo l'indice del manuale.
+Se parti dal manuale, studi secondo l’indice del manuale.
 
 Se parti dal bando, usi il manuale solo dove serve.
 
@@ -108,6 +112,8 @@ La differenza è enorme. Nel primo caso il materiale comanda il piano. Nel secon
 ## La pila minima
 
 ![Figura 33.3 - Pila minima di studio: fonti ufficiali, base ordinata, allenamento, modulo specialistico, Diario e capitale.](../assets/chapter-33/03-pila-minima-studio.png)
+
+*Figura 33.3 - Pila minima di studio: fonti ufficiali, base ordinata, allenamento, modulo specialistico, Diario e capitale.*
 
 Non ti serve una biblioteca personale per ogni concorso.
 
@@ -123,17 +129,19 @@ Ti serve una pila minima.
 
 Questa pila è sufficiente per iniziare.
 
-Puoi aggiungere materiali solo se rispondono a una mancanza precisa. Non perché "potrebbero servire".
+Puoi aggiungere materiali solo se rispondono a una mancanza precisa. Non perché “potrebbero servire”.
 
 ## La scorecard prima di scegliere
 
 ![Figura 33.4 - Scorecard dei materiali: allineamento al bando, aggiornamento, tracciabilità, formato, correzione e riuso.](../assets/chapter-33/04-scorecard-materiali.png)
 
+*Figura 33.4 - Scorecard dei materiali: allineamento al bando, aggiornamento, tracciabilità, formato, correzione e riuso.*
+
 Prima di acquistare, aprire o mantenere un materiale, compilane la scorecard.
 
 | Criterio | Domanda | Segnale di rischio |
 |---|---|---|
-| Allineamento | copre proprio le materie del bando? | parla di "tutto" ma non del tuo profilo |
+| Allineamento | copre proprio le materie del bando? | parla di “tutto” ma non del tuo profilo |
 | Aggiornamento | indica data, edizione o base normativa? | non sai se è vigente |
 | tracciabilità | rimanda a fonti ufficiali controllabili? | afferma senza mostrare origine |
 | profondità | è proporzionato alla prova? | dettaglio eccessivo senza priorità |
@@ -147,6 +155,8 @@ Se un materiale fallisce due o tre criteri centrali, non è un affare. È una di
 ## Manuali: uno principale, non quattro paralleli
 
 ![Figura 33.5 - Materiali, funzione e rischio: manuale, corso, quiz, dispense e AI servono solo se producono output.](../assets/chapter-33/05-funzione-rischio-materiali.png)
+
+*Figura 33.5 - Materiali, funzione e rischio: manuale, corso, quiz, dispense e AI servono solo se producono output.*
 
 Il manuale serve a costruire struttura.
 
@@ -186,7 +196,7 @@ Succede quando guardi lezioni per sentirti in pari, ma non produci output.
 Prima di seguire un corso, chiediti:
 
 - copre il mio bando o un profilo troppo generico?
-- mostra il programma prima dell'iscrizione?
+- mostra il programma prima dell’iscrizione?
 - include esercizi nel formato della prova?
 - prevede correzione o solo video?
 - quanto tempo reale richiede ogni settimana?
@@ -199,6 +209,8 @@ Deve servire il tuo piano.
 ## Banche dati e quiz
 
 ![Figura 33.6 - Banca dati ufficiale o allenamento: quando cambia il piano e quando serve solo per esercitarsi.](../assets/chapter-33/06-banca-dati-ufficiale-non-ufficiale.png)
+
+*Figura 33.6 - Banca dati ufficiale o allenamento: quando cambia il piano e quando serve solo per esercitarsi.*
 
 Qui serve una distinzione netta.
 
@@ -258,7 +270,7 @@ Non trasformare ogni file trovato in materiale di studio. Ogni materiale che ent
 
 ## AI e strumenti digitali
 
-L'AI può aiutarti a:
+L’AI può aiutarti a:
 
 - trasformare un capitolo in domande;
 - generare schede di ripasso;
@@ -274,13 +286,13 @@ Ogni output importante deve essere verificato con bando, fonte ufficiale o mater
 
 Una sintesi generata senza fonte può sembrare chiara e contenere errori. Nel concorso, un errore chiaro resta un errore.
 
-Per il protocollo digitale completo (AI sicura, backup, promemoria) vedi **R4** (Cap. 28). Qui resta la regola: l'AI trasforma materiali in domande e schede, non sostituisce bando e fonti ufficiali.
+Per il protocollo digitale completo (AI sicura, backup, promemoria) vedi **R4**. Qui resta la regola: l’AI trasforma materiali in domande e schede, non sostituisce bando e fonti ufficiali.
 
 ## Quando comprare
 
 Compra o attiva un materiale solo dopo avere compilato il Bando Decoder (Cap. 3).
 
-Prima del Decoder puoi fare al massimo una ricognizione leggera. Per il controllo delle fonti ufficiali vedi **R1** (Cap. 25); per il capitale già posseduto vedi **R2** (Cap. 26).
+Prima del Decoder puoi fare al massimo una ricognizione leggera. Per il controllo delle fonti ufficiali vedi **R1**; per il capitale già posseduto vedi **R2**.
 
 Dopo il Decoder puoi decidere:
 
@@ -292,15 +304,17 @@ Dopo il Decoder puoi decidere:
 - costo di studio;
 - priorità.
 
-La domanda non è "mi servirà?".
+La domanda non è “mi servirà?”.
 
-La domanda è: "quale decisione del mio piano rende possibile?".
+La domanda è: “quale decisione del mio piano rende possibile?”.
 
 Se non rende possibile nessuna decisione, aspetta.
 
 ## Quando eliminare
 
 ![Figura 33.7 - Decisione finale sui materiali: tenere, integrare o archiviare in base a bando, output ed errori.](../assets/chapter-33/07-decisione-materiali.png)
+
+*Figura 33.7 - Decisione finale sui materiali: tenere, integrare o archiviare in base a bando, output ed errori.*
 
 Eliminare materiali è parte del metodo.
 
@@ -355,7 +369,7 @@ Ha tolto ciò che gli impediva di sapere che cosa stava studiando.
 
 **Domanda:** perché in una preparazione concorsuale non basta scegliere un manuale completo?
 
-**Risposta efficace:** perché il manuale non sostituisce il bando. Il bando definisce materie, prove, formato, punteggi, scadenze e priorità della procedura. Un manuale completo può essere utile come base, ma deve essere selezionato e usato in funzione dell'output richiesto: quiz, risposta scritta, caso o orale. Senza questo filtro il candidato rischia di studiare molto, ma non nel modo richiesto dalla prova.
+**Risposta efficace:** perché il manuale non sostituisce il bando. Il bando definisce materie, prove, formato, punteggi, scadenze e priorità della procedura. Un manuale completo può essere utile come base, ma deve essere selezionato e usato in funzione dell’output richiesto: quiz, risposta scritta, caso o orale. Senza questo filtro il candidato rischia di studiare molto, ma non nel modo richiesto dalla prova.
 
 ## Domanda-trappola
 
@@ -365,7 +379,7 @@ Ha tolto ciò che gli impediva di sapere che cosa stava studiando.
 
 ## Errore tipico
 
-L'errore tipico è confondere accumulo e preparazione.
+L’errore tipico è confondere accumulo e preparazione.
 
 Una cartella piena, una libreria piena o una piattaforma piena non dimostrano avanzamento.
 
@@ -489,13 +503,13 @@ Prima di spendere tempo o denaro, rispondi per iscritto:
 2. **Quale lacuna reale copre?** Deve colmare un vuoto dimostrato da simulazione, Diario o modulo mancante (Cap. 23), non una sensazione generica.
 3. **Quale output produce nella settimana?** Se non genera quiz, caso, risposta o spiegazione entro sette giorni, non è priorità.
 4. **Posso riusare capitale esistente?** Schemi, domande, simulazioni e manuali già validi (R2) vanno riaperti prima di aprire nuovi strumenti.
-5. **Quale materiale archivio per fare spazio?** Ogni ingresso richiede un'uscita: la pila minima non cresce all'infinito.
+5. **Quale materiale archivio per fare spazio?** Ogni ingresso richiede un’uscita: la pila minima non cresce all’infinito.
 
-Se anche una risposta è debole, rimanda l'acquisto di una settimana e fai una simulazione mirata sulla lacuna dichiarata.
+Se anche una risposta è debole, rimanda l’acquisto di una settimana e fai una simulazione mirata sulla lacuna dichiarata.
 
 ## Cinque segnali che la pila funziona
 
-1. **Sai nominare il materiale della settimana**: non "studio amministrativo", ma "manuale X capitoli 4-6 + 40 quiz con correzione".
+1. **Sai nominare il materiale della settimana**: non “studio amministrativo”, ma “manuale X capitoli 4-6 + 40 quiz con correzione”.
 2. **Ogni materiale ha un posto nella pila**: fonte, base, allenamento, modulo o diario — nessun file orfano.
 3. **Gli errori diminuiscono**: il Diario mostra correzioni verificate, non le stesse lacune ripetute.
 4. **Il piano non cambia per ansia**: nuovi acquisti seguono Decoder e scorecard, non commenti esterni.
@@ -518,7 +532,7 @@ La scelta dei materiali è chiusa metodologicamente quando la pila minima è gov
 | Ho archiviato almeno un materiale duplicato o inutilizzato | |
 | Ogni materiale attivo è collegato a piano, Diario e capitale (R8) | |
 
-Non scegli materiali per sentirti preparato. Li scegli per produrre l'output richiesto dal bando — e per trasformare ogni ora di studio in capitale riutilizzabile.
+Non scegli materiali per sentirti preparato. Li scegli per produrre l’output richiesto dal bando — e per trasformare ogni ora di studio in capitale riutilizzabile.
 
 ## Riferimenti consolidati
 
@@ -537,11 +551,3 @@ Non scegli materiali per sentirti preparato. Li scegli per produrre l'output ric
 - [[topics/prova-a-quiz]]
 - [[topics/aggiornamento-fonti-concorsi]]
 - [[topics/capitale-studio-riutilizzabile]]
-
-## Note di review
-
-- La struttura madre originaria non prevedeva il Capitolo 33. Questo capitolo è un'estensione editoriale richiesta nel flusso di completamento del libro.
-- In revisione finale valutare se spostarlo prima del Capitolo 32, così da lasciare "Il tuo sistema BANDO personale" come epilogo conclusivo.
-- Evitare in futuro l'inserimento di nomi commerciali: il capitolo deve restare basato su criteri trasferibili e non su raccomandazioni soggette ad aggiornamento.
-- Scheda workbook "Scorecard materiali in 15 minuti", registro materiali attivi e chiusura operativa inseriti nel capitolo; in impaginazione valutare estrazione come PDF compilabile autonomo.
-- Coordinare rimandi con Cap. 21 (moduli integrativi), Cap. 13 (metodo di studio), R1 (fonti), R2 (capitale), R4 (digitale/AI), R8 (mantieni/aggiorna/archivia) e R18 (banca dati ufficiale, Cap. 42).

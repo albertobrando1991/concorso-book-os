@@ -92,10 +92,10 @@ Lettura: se una colonna è CORE o ALTA, non puoi trattarla come ripasso casuale.
 
 | Profilo/famiglia | Modulo più probabile | Quando diventa decisivo | Errore da evitare |
 |---|---|---|---|
-| Amministrativo generale | Settore dell'ente | Se il bando cita ufficio, servizio o disciplina specifica | Restare generici |
+| Amministrativo generale | Settore dell’ente | Se il bando cita ufficio, servizio o disciplina specifica | Restare generici |
 | Amministrativo-contabile | contabilità, bilancio, tributi, contratti | Se prova scritta o orale include casi contabili | Rimandare contabilità |
 | Enti locali | Ordinamento locale, atti, bilancio locale | Se profilo è comunale o provinciale | Confondere organi politici e gestione |
-| Ministeri/funzioni centrali | Ordinamento dell'amministrazione | Se il bando cita competenze del ministero | Preparare un ministero come un comune |
+| Ministeri/funzioni centrali | Ordinamento dell’amministrazione | Se il bando cita competenze del ministero | Preparare un ministero come un comune |
 | Giustizia | Ordinamento giustizia, elementi processuali | Se il programma include uffici giudiziari o procedure | Studiare processuale senza proporzione |
 | Agenzie fiscali | Tributario, catasto, estimo, economia | Se profilo è fiscale o tecnico-catastale | Trattare tributario come accessorio |
 | Previdenza/lavoro/vigilanza | Lavoro, previdenza, legislazione sociale | Se il profilo riguarda servizi, controlli o ispezioni | Restare solo su amministrativo |
@@ -199,7 +199,7 @@ Non attivare un modulo senza tagliare qualcosa. Il tempo non si crea: si rialloc
 | Area | priorità |
 |---|---|
 | Core | amministrativo, procedimento, pubblico impiego, trasparenza, privacy |
-| Modulo | settore dell'ente |
+| Modulo | settore dell’ente |
 | Output | quiz, risposta breve, orale |
 | Rischio | sapere definizioni senza esempi di ufficio |
 
@@ -234,7 +234,7 @@ Decisione: crea una tabella organo-funzione-atto.
 | Core | costituzionale, amministrativo, pubblico impiego |
 | Modulo | ordinamento e funzione del ministero |
 | Output | quiz, scritto, orale, situazionale |
-| Rischio | ignorare il settore dell'amministrazione |
+| Rischio | ignorare il settore dell’amministrazione |
 
 Decisione: aggiungi un glossario del ministero e delle sue competenze.
 
@@ -313,7 +313,7 @@ Decisione: costruisci casi su cittadino, controllo, verbale, ordinanza, sanzione
 | Output | quiz, casi di sportello, orale |
 | Rischio | trattare dati sanitari come privacy generica |
 
-Decisione: prepara casi su accesso, documentazione, CUP, informazioni all'utente, riservatezza.
+Decisione: prepara casi su accesso, documentazione, CUP, informazioni all’utente, riservatezza.
 
 ### 12. Scuola, ATA e università
 
@@ -357,7 +357,7 @@ Usa questa pagina per chiudere il Bando Decoder.
 sarà ha già preparato un concorso amministrativo generale. Ora trova tre bandi:
 
 - istruttore amministrativo-contabile in un comune;
-- funzionario giuridico-tributario in un'agenzia fiscale;
+- funzionario giuridico-tributario in un’agenzia fiscale;
 - collaboratore amministrativo in sanità.
 
 Se guarda solo il nucleo comune, pensa di poter usare lo stesso piano. La matrice le mostra invece tre decisioni diverse.
@@ -368,25 +368,25 @@ Se guarda solo il nucleo comune, pensa di poter usare lo stesso piano. La matric
 | Agenzia fiscale | amministrativo, metodo quiz, digitale | tributario e organizzazione agenzia | quiz specialistici |
 | sanità amministrativa | amministrativo, privacy, pubblico impiego | organizzazione sanitaria e dati sanitari | casi di sportello e documenti |
 
-La scelta non è "studiare tutto". La scelta è distribuire il tempo in base al rischio reale di ciascun profilo.
+La scelta non è “studiare tutto”. La scelta è distribuire il tempo in base al rischio reale di ciascun profilo.
 
 ## Domanda da commissario
 
 **Domanda:** perché il candidato deve distinguere nucleo comune e modulo di profilo?
 
-**Risposta efficace:** perché molte materie ricorrono in più concorsi, ma non sempre con lo stesso peso. Il nucleo comune consente di riutilizzare la preparazione; il modulo di profilo serve a coprire ciò che il bando rende specifico: contabilità, enti locali, tributario, sanità, scuola, tecnico, ICT, polizia locale o altri settori. Una preparazione efficace nasce dal bilanciamento tra questi blocchi e dall'allenamento sull'output reale della prova.
+**Risposta efficace:** perché molte materie ricorrono in più concorsi, ma non sempre con lo stesso peso. Il nucleo comune consente di riutilizzare la preparazione; il modulo di profilo serve a coprire ciò che il bando rende specifico: contabilità, enti locali, tributario, sanità, scuola, tecnico, ICT, polizia locale o altri settori. Una preparazione efficace nasce dal bilanciamento tra questi blocchi e dall’allenamento sull’output reale della prova.
 
 ## Domanda-trappola
 
-**Domanda:** Se una materia compare come "elementi di", posso lasciarla agli ultimi giorni?
+**Domanda:** Se una materia compare come “elementi di”, posso lasciarla agli ultimi giorni?
 
-No. "Elementi di" non significa automaticamente facile. Significa che il livello richiesto può essere introduttivo, ma se la materia è collegata al profilo o alla prova può comunque selezionare. Va verificata nel bando e collocata nella matrice.
+No. “Elementi di” non significa automaticamente facile. Significa che il livello richiesto può essere introduttivo, ma se la materia è collegata al profilo o alla prova può comunque selezionare. Va verificata nel bando e collocata nella matrice.
 
 ## Errore tipico
 
-L'errore tipico è usare la matrice come etichetta, non come decisione.
+L’errore tipico è usare la matrice come etichetta, non come decisione.
 
-Il candidato scrive "contabilità: rossa", ma poi continua a studiare amministrativo perché si sente più sicuro. Oppure scrive "inglese: grigio", ma il bando lo prevede all'orale. La matrice funziona solo se cambia il calendario.
+Il candidato scrive “contabilità: rossa”, ma poi continua a studiare amministrativo perché si sente più sicuro. Oppure scrive “inglese: grigio”, ma il bando lo prevede all’orale. La matrice funziona solo se cambia il calendario.
 
 Correzione:
 
@@ -432,9 +432,3 @@ Se non tagli nulla, non hai ancora scelto. Hai solo aggiunto.
 - [[books/il-metodo-bando/chapters/famiglie-concorsi-pubblici]]
 - [[books/il-metodo-bando/chapters/mappe-profilo-cosa-resta-comune-cosa-cambia]]
 - [[books/il-metodo-bando/chapters/scegliere-moduli-integrativi]]
-
-## Note di review
-
-- Le sigle della matrice sono operative, non classificazioni ufficiali.
-- Prima della pubblicazione finale verificare la resa delle tabelle nel formato 16, 8 x 24 cm; alcune matrici possono richiedere pagina larga o versione PDF allegata.
-- I profili specialistici avanzati richiedono moduli separati: questa appendice orienta la scelta, non sostituisce manuali verticali.

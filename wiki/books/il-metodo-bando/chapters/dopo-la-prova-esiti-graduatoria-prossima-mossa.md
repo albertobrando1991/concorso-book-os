@@ -21,21 +21,21 @@ last_humanizer_revision: 2026-07-24
 last_compiled_from: ["sources/dopo-prova-esiti-graduatoria-metodo-bando.md", "topics/dopo-prova-concorsi.md", "topics/concorsi-pubblici.md", "topics/diario-errori.md", "topics/capitale-studio-riutilizzabile.md", "topics/aggiornamento-fonti-concorsi.md"]
 ---
 
-# Capitolo 30 - Dopo la prova: esiti, graduatoria e prossima mossa
+# R6 - Dopo la prova: esiti, graduatoria e prossima mossa
 
-> Modulo ricettario **R6** — Checklist post-prova. Collega [[books/il-metodo-bando/chapters/checklist-operative|Cap. 24]], [[books/il-metodo-bando/chapters/trasformare-ogni-concorso-in-capitale-di-studio|R2 Cap. 26]] e [[books/il-metodo-bando/chapters/aggiornare-il-metodo-dopo-il-libro|R1 Cap. 25]].
+> Checklist post-prova. Collega [[books/il-metodo-bando/chapters/checklist-operative|Cap. 24]], [[books/il-metodo-bando/chapters/trasformare-ogni-concorso-in-capitale-di-studio|R2]] e [[books/il-metodo-bando/chapters/aggiornare-il-metodo-dopo-il-libro|R1]].
 
 Molti candidati pensano che la prova finisca quando consegnano.
 
 Non è così.
 
-La prova finisce quando hai capito che cosa è successo, hai verificato gli atti ufficiali, hai trasformato l'esperienza in informazioni utili e hai deciso la prossima mossa.
+La prova finisce quando hai capito che cosa è successo, hai verificato gli atti ufficiali, hai trasformato l’esperienza in informazioni utili e hai deciso la prossima mossa.
 
-Tra consegna ed esito c'è spesso una zona confusa. C'è chi dimentica tutto e aspetta. C'è chi controlla il portale ogni dieci minuti. C'è chi si convince di aver fallito per una domanda, chi si illude per una sensazione, chi butta via appunti che servirebbero ancora, chi riparte subito su un altro concorso senza correggere nulla.
+Tra consegna ed esito c’è spesso una zona confusa. C’è chi dimentica tutto e aspetta. C’è chi controlla il portale ogni dieci minuti. C’è chi si convince di aver fallito per una domanda, chi si illude per una sensazione, chi butta via appunti che servirebbero ancora, chi riparte subito su un altro concorso senza correggere nulla.
 
 Il Metodo BANDO chiude anche questa fase.
 
-Il risultato di una prova non è soltanto un numero. È una diagnosi del tuo metodo, una fonte di capitale di studio e, in alcuni casi, l'inizio di una fase procedurale: orale, titoli, graduatoria, idoneità, scorrimento, accesso agli atti, aggiornamento del piano.
+Il risultato di una prova non è soltanto un numero. È una diagnosi del tuo metodo, una fonte di capitale di studio e, in alcuni casi, l’inizio di una fase procedurale: orale, titoli, graduatoria, idoneità, scorrimento, accesso agli atti, aggiornamento del piano.
 
 Questo capitolo serve a fare ordine.
 
@@ -48,31 +48,35 @@ Alla fine del capitolo saprai:
 - leggere con prudenza avvisi, punteggi e graduatorie;
 - conservare documenti e ricevute in modo utilizzabile;
 - compilare una scheda post-prova in 30 minuti;
-- usare il Diario degli errori anche dopo l'esame;
+- usare il Diario degli errori anche dopo l’esame;
 - capire quando valutare accesso agli atti o richieste di chiarimento;
 - trasformare un risultato, positivo o negativo, nella prossima decisione di studio.
 
 La regola è questa:
 
-> dopo la prova chiudi il ciclo: raccogli i dati, valuta l'esito e scegli la prossima azione.
+> dopo la prova chiudi il ciclo: raccogli i dati, valuta l’esito e scegli la prossima azione.
 
 ## Mappa BANDO dopo la prova
 
 ![Figura 30.1 - Mappa BANDO dopo la prova: trasformare esito, errori e fonti ufficiali nella prossima decisione.](../assets/chapter-30/01-mappa-bando-dopo-prova.png)
 
+*Figura 30.1 - Mappa BANDO dopo la prova: trasformare esito, errori e fonti ufficiali nella prossima decisione.*
+
 | Fase | Domanda dopo la prova | Azione concreta |
 |---|---|---|
 | B - Bando | che cosa prevedono bando e avvisi per esiti, soglie e prove successive? | rileggi la sezione su comunicazioni, punteggi, graduatoria e convocazioni |
 | A - Aree | quali aree hanno retto e quali hanno ceduto? | separa materie forti, materie deboli e errori di metodo |
-| N - Nuclei | quali nuclei torneranno nel prossimo concorso o nell'orale? | salva schemi, domande, argomenti e definizioni riutilizzabili |
+| N - Nuclei | quali nuclei torneranno nel prossimo concorso o nell’orale? | salva schemi, domande, argomenti e definizioni riutilizzabili |
 | D - Diario | perché ho perso punti, tempo o lucidità? | registra causa, prova e azione correttiva |
 | O - Output | qual è il prossimo prodotto verificabile? | orale, accesso documentale, nuovo piano, simulazione o bando successivo |
 
-Il dopo-prova è una fase di conversione: trasformi l'esperienza in dati.
+Il dopo-prova è una fase di conversione: trasformi l’esperienza in dati.
 
 ## Le prime 24 ore: non decidere sul rumore
 
 ![Figura 30.2 - Prime 24 ore dopo la prova: conservare documenti, scrivere memoria a caldo e controllare fonti ufficiali.](../assets/chapter-30/02-prime-24-ore.png)
+
+*Figura 30.2 - Prime 24 ore dopo la prova: conservare documenti, scrivere memoria a caldo e controllare fonti ufficiali.*
 
 Nelle prime ore dopo una prova sei spesso poco affidabile come giudice di te stesso.
 
@@ -86,9 +90,9 @@ Fai solo tre cose:
 2. scrivi una memoria a caldo breve: materie, domande ricordate, difficoltà, gestione tempo, problemi logistici;
 3. controlla una sola volta le fonti ufficiali per capire se ci sono avvisi già pubblicati.
 
-Non decidere di abbandonare un percorso. Non cambiare metodo. Non riscrivere tutto il piano mentre sei ancora dentro l'emozione della prova.
+Non decidere di abbandonare un percorso. Non cambiare metodo. Non riscrivere tutto il piano mentre sei ancora dentro l’emozione della prova.
 
-Aspetta l'atto ufficiale o, almeno, una lettura più fredda.
+Aspetta l’atto ufficiale o, almeno, una lettura più fredda.
 
 ## Protocollo 24-72 ore: chiudere il ciclo senza fretta
 
@@ -112,17 +116,19 @@ Se la procedura è ancora aperta (orale, graduatoria, scorrimento), il protocoll
 
 ![Figura 30.3 - Tre livelli di esito: impressione personale, esito ufficiale e conseguenza procedurale.](../assets/chapter-30/03-tre-livelli-esito.png)
 
+*Figura 30.3 - Tre livelli di esito: impressione personale, esito ufficiale e conseguenza procedurale.*
+
 Dopo una prova devi distinguere tre livelli.
 
-| Livello | Che cos'è | Rischio |
+| Livello | Che cos’è | Rischio |
 |---|---|---|
 | Impressione personale | ciò che pensi sia andato bene o male | può essere distorta da ansia, memoria selettiva o confronto con altri |
-| Esito ufficiale | punteggio, elenco, ammissione, esclusione o comunicazione dell'ente | va letto secondo bando e avvisi, non per sentito dire |
+| Esito ufficiale | punteggio, elenco, ammissione, esclusione o comunicazione dell’ente | va letto secondo bando e avvisi, non per sentito dire |
 | Conseguenza procedurale | orale, graduatoria, idoneità, scorrimento, archiviazione, ulteriori atti | dipende dalla procedura specifica |
 
 Se confondi questi livelli, sbagli decisione.
 
-Un'impressione negativa non significa esclusione. Un punteggio buono non significa automaticamente assunzione. Essere idoneo non equivale sempre a essere vincitore. Una graduatoria non si interpreta senza bando, riserve, titoli, soglie e avvisi.
+Un’impressione negativa non significa esclusione. Un punteggio buono non significa automaticamente assunzione. Essere idoneo non equivale sempre a essere vincitore. Una graduatoria non si interpreta senza bando, riserve, titoli, soglie e avvisi.
 
 Prima capisci il livello. Poi decidi.
 
@@ -133,22 +139,24 @@ Le fonti cambiano da procedura a procedura. Il candidato deve seguire ciò che i
 In generale, dopo una prova controlla:
 
 - il bando e le sue eventuali rettifiche;
-- gli avvisi pubblicati dall'amministrazione;
+- gli avvisi pubblicati dall’amministrazione;
 - il portale inPA se la procedura passa da li;
-- il sito istituzionale dell'ente o la pagina del concorso;
+- il sito istituzionale dell’ente o la pagina del concorso;
 - eventuali comunicazioni personali previste dalla procedura;
 - la Gazzetta Ufficiale o altri canali ufficiali quando il bando li richiama;
 - le istruzioni ricevute in sede di prova.
 
-Non usare chat, gruppi e commenti come fonte di decisione. Possono aiutarti a capire il clima, ma non sostituiscono l'atto ufficiale.
+Non usare chat, gruppi e commenti come fonte di decisione. Possono aiutarti a capire il clima, ma non sostituiscono l’atto ufficiale.
 
-La domanda corretta non è: "Che cosa dicono gli altri candidati?".
+La domanda corretta non è: “Che cosa dicono gli altri candidati?”.
 
-La domanda corretta è: "Quale atto ufficiale devo leggere adesso?".
+La domanda corretta è: “Quale atto ufficiale devo leggere adesso?”.
 
 ## La cartella dopo-prova
 
 ![Figura 30.4 - Cartella dopo-prova: archivio minimo di fonti ufficiali, ricevute, esiti e schede personali.](../assets/chapter-30/04-cartella-dopo-prova.png)
+
+*Figura 30.4 - Cartella dopo-prova: archivio minimo di fonti ufficiali, ricevute, esiti e schede personali.*
 
 Ogni concorso deve avere una cartella ordinata. Non per mania archivistica, ma perché dopo la prova potresti dover recuperare in fretta un documento.
 
@@ -182,6 +190,8 @@ Il giorno in cui ti serve un documento non devi cercarlo tra download, screensho
 
 ![Figura 30.5 - Graduatoria e accesso agli atti: leggere punteggi, idoneità e documenti con prudenza procedurale.](../assets/chapter-30/05-graduatoria-accesso-atti.png)
 
+*Figura 30.5 - Graduatoria e accesso agli atti: leggere punteggi, idoneità e documenti con prudenza procedurale.*
+
 Nel linguaggio dei concorsi alcune parole sembrano semplici, ma producono effetti diversi a seconda della procedura.
 
 | Parola | Lettura prudente |
@@ -192,17 +202,17 @@ Nel linguaggio dei concorsi alcune parole sembrano semplici, ma producono effett
 | Vincitore | rientri nei posti messi a concorso secondo graduatoria e atti ufficiali |
 | Idoneo | hai superato la soglia, ma potresti non rientrare subito nei posti |
 | Graduatoria | atto da leggere considerando ordine, punteggi, titoli, riserve e avvisi |
-| Scorrimento | possibilità legata a decisioni dell'amministrazione e regole applicabili |
+| Scorrimento | possibilità legata a decisioni dell’amministrazione e regole applicabili |
 | Riserva | condizione prevista dalla normativa o dal bando, da verificare sugli atti |
 | Rinuncia | effetto su posti e posizioni in graduatoria; verificare su avvisi ufficiali |
 
 Questa tabella non sostituisce il bando. Serve a impedirti di fare equivalenze automatiche.
 
-Il candidato professionale non dice: "Sono idoneo, quindi è fatta".
+Il candidato professionale non dice: “Sono idoneo, quindi è fatta”.
 
-Dice: "Sono idoneo; ora verifico posizione, posti, riserve, avvisi, validità della graduatoria e possibili passi successivi".
+Dice: “Sono idoneo; ora verifico posizione, posti, riserve, avvisi, validità della graduatoria e possibili passi successivi”.
 
-## Se l'esito è positivo
+## Se l’esito è positivo
 
 Un esito positivo non autorizza disordine.
 
@@ -210,20 +220,20 @@ Se hai superato una prova, devi preparare il passaggio successivo. Spesso il ris
 
 Fai subito quattro azioni:
 
-1. salva l'esito ufficiale;
+1. salva l’esito ufficiale;
 2. rileggi cosa prevede il bando dopo quella fase;
 3. controlla calendario, convocazioni, documenti e prove successive;
 4. aggiorna il piano con la nuova priorità.
 
-Se c'è un orale, non aspettare la convocazione per cominciare. Parti dai nuclei già studiati, dal Diario degli errori e dalle domande più probabili per profilo.
+Se c’è un orale, non aspettare la convocazione per cominciare. Parti dai nuclei già studiati, dal Diario degli errori e dalle domande più probabili per profilo.
 
-Se c'è una valutazione titoli, verifica documenti e dichiarazioni.
+Se c’è una valutazione titoli, verifica documenti e dichiarazioni.
 
 Se sei in graduatoria, tieni sotto controllo solo le fonti ufficiali e non consumare energie in ipotesi quotidiane.
 
 Il risultato positivo va gestito. Altrimenti diventa attesa.
 
-## Se l'esito è negativo
+## Se l’esito è negativo
 
 Un esito negativo non deve diventare una sentenza sul tuo valore.
 
@@ -247,9 +257,9 @@ Il candidato che perde una prova e non registra nulla paga due volte: con il ris
 
 ## Accesso agli atti: quando serve capire, non sfogarsi
 
-In alcune situazioni può essere utile comprendere meglio elaborati, verbali, criteri o valutazioni. Il tema rientra nel quadro dell'accesso ai documenti amministrativi, che va trattato con attenzione, seguendo la disciplina applicabile, il bando e le indicazioni dell'amministrazione.
+In alcune situazioni può essere utile comprendere meglio elaborati, verbali, criteri o valutazioni. Il tema rientra nel quadro dell’accesso ai documenti amministrativi, che va trattato con attenzione, seguendo la disciplina applicabile, il bando e le indicazioni dell’amministrazione.
 
-Nel Metodo BANDO l'accesso agli atti non è una reazione emotiva. È una decisione documentale.
+Nel Metodo BANDO l’accesso agli atti non è una reazione emotiva. È una decisione documentale.
 
 Prima di muoverti, compila questa scheda:
 
@@ -271,6 +281,8 @@ Per ricorsi, termini, sospensive, impugnazioni o valutazioni sulla convenienza d
 ## La scheda post-prova in 30 minuti
 
 ![Figura 30.6 - Scheda post-prova, Diario degli errori e capitale di studio riutilizzabile.](../assets/chapter-30/06-scheda-diario-capitale.png)
+
+*Figura 30.6 - Scheda post-prova, Diario degli errori e capitale di studio riutilizzabile.*
 
 Compila questa scheda entro uno o due giorni dalla prova, quando ricordi ancora abbastanza ma non sei più nel picco emotivo.
 
@@ -320,7 +332,7 @@ Checklist rapida post-compilazione:
 | Ho evitato decisioni pesanti nelle prime 24 ore | |
 | Se la procedura continua, ho aggiornato il Bando Decoder | |
 
-Se la procedura si chiude (esclusione definitiva o fine percorso), passa alla **scheda dopo concorso** del modulo R2 (Cap. 26) entro sette giorni.
+Se la procedura si chiude (esclusione definitiva o fine percorso), passa alla **scheda dopo concorso** del modulo R2 entro sette giorni.
 
 ## Registro avvisi post-prova
 
@@ -350,11 +362,11 @@ Usa queste categorie:
 
 | Categoria | Esempio | Azione |
 |---|---|---|
-| Lacuna | non conoscevo l'argomento | studiare nucleo e creare domanda attiva |
+| Lacuna | non conoscevo l’argomento | studiare nucleo e creare domanda attiva |
 | Richiamo debole | sapevo ma non ricordavo | ripasso distribuito e flashcard |
 | Distrattore | ho scelto opzione simile ma sbagliata | analisi delle parole chiave |
 | Tempo | ho lasciato domande facili | simulazione con timer |
-| Lettura | ho saltato un "non", "sempre", "salvo" | routine di sottolineatura mentale |
+| Lettura | ho saltato un “non”, “sempre”, “salvo” | routine di sottolineatura mentale |
 | Ansia | ho cambiato risposte senza criterio | protocollo di revisione finale |
 | Logistica | sono arrivato stanco o disordinato | checklist documenti e percorso |
 
@@ -389,7 +401,7 @@ Poi classifica ogni elemento:
 | documento ufficiale | cartella fonti |
 | routine utile | checklist |
 
-Il candidato inesperto archivia la prova come "andata bene" o "andata male".
+Il candidato inesperto archivia la prova come “andata bene” o “andata male”.
 
 Il candidato metodico la archivia come capitale.
 
@@ -397,7 +409,9 @@ Il candidato metodico la archivia come capitale.
 
 ![Figura 30.7 - Matrice della prossima mossa: scegliere tra fase successiva, monitoraggio, correzione e recupero.](../assets/chapter-30/07-matrice-prossima-mossa.png)
 
-Dopo l'esito, scegli con una matrice semplice.
+*Figura 30.7 - Matrice della prossima mossa: scegliere tra fase successiva, monitoraggio, correzione e recupero.*
+
+Dopo l’esito, scegli con una matrice semplice.
 
 | Situazione | Prossima mossa |
 |---|---|
@@ -436,9 +450,9 @@ Nelle prime 24 ore salva convocazione, ricevuta, avvisi e appunti a caldo. Il gi
 
 - le domande di procedimento amministrativo erano prevedibili e le ha gestite bene;
 - le domande di contabilità gli hanno fatto perdere tempo;
-- il problema maggiore è stato cambiare risposte nell'ultimo minuto senza criterio.
+- il problema maggiore è stato cambiare risposte nell’ultimo minuto senza criterio.
 
-Quando esce l'esito ufficiale, Luca non è tra i primi ma supera la soglia per la fase successiva. Se avesse deciso sulla sensazione, avrebbe perso due giorni e lucidità.
+Quando esce l’esito ufficiale, Luca non è tra i primi ma supera la soglia per la fase successiva. Se avesse deciso sulla sensazione, avrebbe perso due giorni e lucidità.
 
 Aggiorna il piano:
 
@@ -452,34 +466,34 @@ La prova non è stata solo un risultato. È diventata una mappa di lavoro.
 ## Da sapere in 5 righe
 
 1. Dopo la prova distingui impressione, esito ufficiale e conseguenza procedurale.
-2. Bando, avvisi, sito dell'ente e canali ufficiali prevalgono su chat e commenti.
+2. Bando, avvisi, sito dell’ente e canali ufficiali prevalgono su chat e commenti.
 3. Graduatoria, idoneità e scorrimento vanno letti con prudenza e sugli atti.
-4. L'accesso agli atti serve a capire documenti e valutazioni, non a reagire d'impulso.
+4. L’accesso agli atti serve a capire documenti e valutazioni, non a reagire d’impulso.
 5. Ogni prova deve produrre capitale di studio: errori, nuclei, routine e prossima mossa.
 
 ## Domanda da commissario
 
 **Domanda:** perché il candidato deve distinguere tra esito personale, esito ufficiale e conseguenza procedurale?
 
-**Risposta efficace:** perché sono tre piani diversi. L'esito personale è una percezione e può essere distorto; l'esito ufficiale è il dato pubblicato o comunicato secondo bando e avvisi; la conseguenza procedurale indica cosa accade dopo, per esempio ammissione a una prova successiva, inserimento in graduatoria o chiusura della procedura per il candidato. Confondere questi piani porta a decisioni premature o a false certezze.
+**Risposta efficace:** perché sono tre piani diversi. L’esito personale è una percezione e può essere distorto; l’esito ufficiale è il dato pubblicato o comunicato secondo bando e avvisi; la conseguenza procedurale indica cosa accade dopo, per esempio ammissione a una prova successiva, inserimento in graduatoria o chiusura della procedura per il candidato. Confondere questi piani porta a decisioni premature o a false certezze.
 
 ## Domanda-trappola
 
 **Domanda:** Se risulto idoneo, posso considerare concluso il percorso?
 
-**Risposta:** no. L'idoneità indica che hai raggiunto una soglia o superato una fase secondo la procedura, ma non coincide sempre con l'essere vincitore o con l'assunzione. Devi leggere bando, graduatoria, posizione, posti, riserve, avvisi e atti successivi.
+**Risposta:** no. L’idoneità indica che hai raggiunto una soglia o superato una fase secondo la procedura, ma non coincide sempre con l’essere vincitore o con l’assunzione. Devi leggere bando, graduatoria, posizione, posti, riserve, avvisi e atti successivi.
 
 ## Errore tipico
 
-L'errore tipico è buttare via una prova negativa.
+L’errore tipico è buttare via una prova negativa.
 
-Il candidato dice: "È andata male, passo oltre".
+Il candidato dice: “È andata male, passo oltre”.
 
-Ma se passa oltre senza analisi, porta gli stessi errori nel concorso successivo. La domanda giusta non è: "Come dimentico questa prova?". La domanda giusta è: "Che cosa devo estrarre prima di archiviarla?".
+Ma se passa oltre senza analisi, porta gli stessi errori nel concorso successivo. La domanda giusta non è: “Come dimentico questa prova?”. La domanda giusta è: “Che cosa devo estrarre prima di archiviarla?”.
 
 ## Mini-esercizio
 
-Compila questa scheda dopo la prossima prova o dopo l'ultima prova già sostenuta.
+Compila questa scheda dopo la prossima prova o dopo l’ultima prova già sostenuta.
 
 | Domanda | Risposta |
 |---|---|
@@ -494,7 +508,7 @@ Compila questa scheda dopo la prossima prova o dopo l'ultima prova già sostenut
 | Serve valutare accesso agli atti o chiarimenti ufficiali? | |
 | qual è la prossima mossa entro 48 ore? | |
 
-La scheda è utile solo se produce un'azione concreta.
+La scheda è utile solo se produce un’azione concreta.
 
 ## Checklist dopo prova
 
@@ -507,7 +521,7 @@ Prima di archiviare una prova, verifica:
 - ho compilato la scheda post-prova;
 - ho aggiornato il Diario degli errori;
 - ho estratto almeno cinque elementi riutilizzabili;
-- ho aggiornato il Bando Decoder se c'è una fase successiva;
+- ho aggiornato il Bando Decoder se c’è una fase successiva;
 - ho deciso se serve solo monitorare, riprendere studio o chiedere chiarimenti;
 - ho definito la prossima azione entro 48 ore.
 
@@ -515,7 +529,7 @@ Se mancano più di tre voci, la prova non è ancora chiusa.
 
 ## Chiusura operativa
 
-Il dopo-prova è chiuso quando hai convertito l'esperienza in sistema, non quando hai smesso di pensarci.
+Il dopo-prova è chiuso quando hai convertito l’esperienza in sistema, non quando hai smesso di pensarci.
 
 | Azione | Fatto |
 |---|---|
@@ -544,11 +558,3 @@ Una prova chiusa bene alimenta la successiva. Una prova archiviata a caso ripete
 - [[topics/diario-errori]]
 - [[topics/capitale-studio-riutilizzabile]]
 - [[topics/aggiornamento-fonti-concorsi]]
-
-## Note di review
-
-- La struttura madre originaria non prevedeva il Capitolo 30. Questo capitolo è un'estensione editoriale: in revisione decidere se mantenerlo numerato o trasformarlo in sezione conclusiva/tool.
-- Le parti su accesso agli atti, graduatorie, idoneità, scorrimenti e tutele devono essere verificate in revisione legale prima della pubblicazione.
-- Il capitolo mantiene taglio operativo e non fornisce consulenza legale: per termini, ricorsi e valutazioni specifiche rinvia a fonti ufficiali e supporto qualificato.
-- Scheda workbook "Post-prova in 30 minuti" e registro avvisi inseriti nel capitolo; in impaginazione valutare estrazione come PDF compilabile autonomo.
-- Coordinare rimandi con Cap. 24 (checklist operative), R2 (capitale e scheda dopo concorso), R1 (controllo fonti), R15 (tra una prova e l'altra).

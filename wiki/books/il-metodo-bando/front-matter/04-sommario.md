@@ -31,9 +31,10 @@ last_compiled_from: ["wiki/books/il-metodo-bando/struttura-madre.md", "wiki/book
 | **Parte III - Allenarsi come in prova** | Metodo di studio; Prova a quiz; Prova scritta; Prova orale; Casi pratici; Quesiti situazionali |
 | **Parte IV - Adattare il metodo ai profili concorsuali** | Famiglie dei concorsi; Mappe profilo; Moduli integrativi; Piano 30/60/90 giorni |
 | **Parte V - Kit finale del candidato** | Diario degli errori; Checklist operative |
+| **Conclusione** | Il metodo che resta dopo il libro |
 | **Appendici** | Glossario PA; 100 parole chiave; Bando Decoder; Piano personale; Schema risposta orale; Matrice materie/profili |
 | **Ricettario operativo digitale** | Aggiornamenti; concorsi paralleli; simulazioni; schede operative; priorità; ripasso; casi; banca dati; risposta sintetica; orale; revisione finale |
 
 > [!TIP]
 > Orientamento alla lettura
-> Il sommario mostra la mappa generale del libro principale e dei materiali digitali collegati. Per capitoli, sottocapitoli e dettagli operativi consulta l'indice nelle pagine successive.
+> Il sommario mostra la mappa generale del libro principale e dei materiali digitali collegati. Per capitoli, sottocapitoli e dettagli operativi consulta l’indice nelle pagine successive.

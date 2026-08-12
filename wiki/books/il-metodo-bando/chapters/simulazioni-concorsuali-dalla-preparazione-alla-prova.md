@@ -21,9 +21,9 @@ last_humanizer_revision: 2026-07-24
 last_compiled_from: ["sources/simulazioni-concorsuali-metodo-bando.md", "topics/simulazioni-concorsuali.md", "topics/metodo-bando.md", "topics/metodo-di-studio.md", "topics/prova-a-quiz.md", "topics/prova-scritta-teorico-pratica.md", "topics/prova-orale.md", "topics/diario-errori.md"]
 ---
 
-# Capitolo 34 - Simulazioni concorsuali: dalla preparazione alla prova
+# R10 - Simulazioni concorsuali: dalla preparazione alla prova
 
-> Modulo ricettario **R10** — Laboratorio simulazioni. Collega [[books/il-metodo-bando/chapters/la-prova-a-quiz|Cap. 14]], [[books/il-metodo-bando/chapters/prova-scritta-teorico-pratica|Cap. 15]], [[books/il-metodo-bando/chapters/la-prova-orale|Cap. 16]] e [[books/il-metodo-bando/chapters/casi-pratici-problem-solving-amministrativo|Cap. 17]]; incrocia [[books/il-metodo-bando/chapters/diario-degli-errori|Cap. 23]], [[books/il-metodo-bando/chapters/manuali-corsi-banche-dati-scegliere-senza-disperdersi|R9]], [[books/il-metodo-bando/chapters/il-tuo-sistema-bando-personale|R8]], [[books/il-metodo-bando/chapters/strategia-di-punteggio-soglie-tempo-rischio-prova|R13]] e [[books/il-metodo-bando/chapters/banca-dati-ufficiale-studiarla-senza-memorizzare-male|R18]].
+> Laboratorio simulazioni. Collega [[books/il-metodo-bando/chapters/la-prova-a-quiz|Cap. 14]], [[books/il-metodo-bando/chapters/prova-scritta-teorico-pratica|Cap. 15]], [[books/il-metodo-bando/chapters/la-prova-orale|Cap. 16]] e [[books/il-metodo-bando/chapters/casi-pratici-problem-solving-amministrativo|Cap. 17]]; incrocia [[books/il-metodo-bando/chapters/diario-degli-errori|Cap. 23]], [[books/il-metodo-bando/chapters/manuali-corsi-banche-dati-scegliere-senza-disperdersi|R9]], [[books/il-metodo-bando/chapters/il-tuo-sistema-bando-personale|R8]], [[books/il-metodo-bando/chapters/strategia-di-punteggio-soglie-tempo-rischio-prova|R13]] e [[books/il-metodo-bando/chapters/banca-dati-ufficiale-studiarla-senza-memorizzare-male|R18]].
 
 Quando la lettura non produce più risposte verificabili, entra in gioco la simulazione.
 
@@ -66,6 +66,8 @@ Se non modifica il piano, non corregge errori e non produce una prossima azione,
 
 ![Ciclo operativo della simulazione: studio, prova, correzione e consolidamento](../assets/chapter-34/01-ciclo-simulazione.png)
 
+*Figura 34.1 - Ciclo operativo della simulazione: studio, prova, correzione e consolidamento.*
+
 Ogni simulazione deve nascere dal Metodo BANDO.
 
 | Fase | Domanda | Effetto sulla simulazione |
@@ -80,7 +82,7 @@ Una simulazione costruita senza questa tabella rischia di misurare la cosa sbagl
 
 Puoi ottenere un punteggio alto in una batteria facile e arrivare impreparato alla prova reale.
 
-Puoi ottenere un punteggio basso in una simulazione difficile e pensare di non valere, quando in realta hai solo scoperto cosa correggere.
+Puoi ottenere un punteggio basso in una simulazione difficile e pensare di non valere, quando in realtà hai solo scoperto cosa correggere.
 
 Il punteggio va letto dentro il sistema.
 
@@ -94,7 +96,7 @@ Non usare queste tre parole come sinonimi.
 | Test | verifica una parte del programma | 40 domande miste su amministrativo |
 | Simulazione | riproduce una prova o una sua porzione realistica | 60 domande in 60 minuti con correzione completa |
 
-L'esercizio costruisce abilità.
+L’esercizio costruisce abilità.
 
 Il test misura una sezione.
 
@@ -132,6 +134,8 @@ La simulazione finale non deve aggiungere caos. Deve stabilizzare.
 
 ![Diagnosi visiva degli errori da trasformare in un piano di recupero](../assets/chapter-34/02-diagnosi-errori.png)
 
+*Figura 34.2 - Diagnosi visiva degli errori da trasformare in un piano di recupero.*
+
 Ogni simulazione ha tre tempi.
 
 ### 1. Prepara
@@ -164,13 +168,13 @@ Durante la simulazione rispetta le condizioni.
 
 La simulazione deve somigliare alla prova abbastanza da insegnarti qualcosa.
 
-Non deve diventare una recita impossibile. Se sei all'inizio, riduci durata e numero di quesiti, ma mantieni consegna e timer.
+Non deve diventare una recita impossibile. Se sei all’inizio, riduci durata e numero di quesiti, ma mantieni consegna e timer.
 
 ### 3. Correggi
 
 La correzione è la parte più importante.
 
-Non scrivere solo "ho fatto 41 su 60".
+Non scrivere solo “ho fatto 41 su 60”.
 
 Compila questa griglia.
 
@@ -194,6 +198,8 @@ La griglia dice perché.
 ## Il dossier simulazione
 
 ![Assetto essenziale per impostare una simulazione a tempo](../assets/chapter-34/03-setup-simulazione.png)
+
+*Figura 34.3 - Assetto essenziale per impostare una simulazione a tempo.*
 
 Ogni simulazione importante deve lasciare una traccia.
 
@@ -224,6 +230,8 @@ Una simulazione andata bene può essere pericolosa se ti fa abbassare la guardia
 
 ![Matrice visiva per decidere quando rispondere, saltare e tornare su un quesito](../assets/chapter-34/04-matrice-tempo-risposta.png)
 
+*Figura 34.4 - Matrice visiva per decidere quando rispondere, saltare e tornare su un quesito.*
+
 La simulazione a quiz deve riprodurre almeno quattro elementi:
 
 - numero o proporzione delle domande;
@@ -252,7 +260,9 @@ Correggi il distrattore che ti ha attratto. Spesso il tuo vero errore è li.
 
 ## Simulare lo scritto
 
-![Protocollo di correzione che converte l'errore in una scheda di studio](../assets/chapter-34/05-protocollo-correzione.png)
+![Protocollo di correzione che converte l’errore in una scheda di studio](../assets/chapter-34/05-protocollo-correzione.png)
+
+*Figura 34.5 - Protocollo di correzione che converte l’errore in una scheda di studio.*
 
 La prova scritta non si simula leggendo tracce.
 
@@ -283,16 +293,16 @@ Per un elaborato o un caso, aggiungi:
 | Ordine | la risposta ha inizio, sviluppo e chiusura? |
 | Precisione | uso parole tecniche senza forzare norme non sicure? |
 | Completezza | manca un passaggio essenziale? |
-| Esempio | ho mostrato l'applicazione pratica? |
+| Esempio | ho mostrato l’applicazione pratica? |
 | Tempo | sono arrivato alla chiusura entro il limite? |
 
 Un buon scritto concorsuale non è quello più lungo.
 
 È quello che risponde alla domanda nel formato richiesto.
 
-## Simulare l'orale
+## Simulare l’orale
 
-L'orale si simula parlando, non ripassando in silenzio.
+L’orale si simula parlando, non ripassando in silenzio.
 
 Usa tre livelli.
 
@@ -302,7 +312,7 @@ Usa tre livelli.
 | Risposta standard | 2 minuti | spiegare funzione, esempio e collegamento |
 | Domanda incrociata | 3-4 minuti | reggere passaggi tra materie |
 
-Registra l'audio se puoi. Se non vuoi registrarti, usa almeno una griglia scritta subito dopo.
+Registra l’audio se puoi. Se non vuoi registrarti, usa almeno una griglia scritta subito dopo.
 
 Controlla:
 
@@ -349,12 +359,14 @@ Per i quesiti situazionali usa questa sequenza:
 | Ruolo | sto ragionando come candidato pubblico, non come privato? |
 | Vincoli | ho visto termini, competenza, dati e responsabilità? |
 | proporzionalità | la soluzione è adeguata al problema? |
-| Comunicazione | il cittadino o l'ufficio ricevono una risposta ordinata? |
+| Comunicazione | il cittadino o l’ufficio ricevono una risposta ordinata? |
 | tracciabilità | la decisione lascia una traccia? |
 
 ## Il calendario minimo
 
 ![Registro delle simulazioni per rilevare continuità e andamento](../assets/chapter-34/06-registro-simulazioni.png)
+
+*Figura 34.6 - Registro delle simulazioni per rilevare continuità e andamento.*
 
 Non fare tutte le simulazioni negli ultimi giorni.
 
@@ -399,7 +411,9 @@ Per soglie, tempo e gestione del rischio in prova, incrocia i risultati con [[bo
 
 ## Caso guidato
 
-![Schema decisionale per affrontare un caso simulato e verificarne l'esito](../assets/chapter-34/07-caso-decisione.png)
+![Schema decisionale per affrontare un caso simulato e verificarne l’esito](../assets/chapter-34/07-caso-decisione.png)
+
+*Figura 34.7 - Schema decisionale per affrontare un caso simulato e verificarne l’esito.*
 
 sarà prepara un concorso con prova scritta a quiz e orale successivo. Ha letto il manuale, fatto quiz per materia e compilato il Diario degli errori. Si sente abbastanza pronta, ma non ha mai simulato una prova intera.
 
@@ -407,7 +421,7 @@ Fa una simulazione da 60 domande in 60 minuti.
 
 Risultato: 42 corrette, 10 sbagliate, 8 omesse.
 
-La prima reazione è pensare: "sono lontana".
+La prima reazione è pensare: “sono lontana”.
 
 Poi compila la griglia.
 
@@ -449,7 +463,7 @@ Le ha detto che cosa fare.
 
 **Domanda:** perché la simulazione è diversa da una semplice esercitazione?
 
-**Risposta efficace:** perché l'esercitazione allena un contenuto o una abilità specifica, mentre la simulazione mette insieme formato della prova, tempo, consegna, materie, strategia e correzione. In una preparazione concorsuale la simulazione serve a verificare se il candidato sa trasformare la conoscenza in output nel contesto richiesto dal bando. Il risultato va letto con il Diario degli errori, non solo come punteggio.
+**Risposta efficace:** perché l’esercitazione allena un contenuto o una abilità specifica, mentre la simulazione mette insieme formato della prova, tempo, consegna, materie, strategia e correzione. In una preparazione concorsuale la simulazione serve a verificare se il candidato sa trasformare la conoscenza in output nel contesto richiesto dal bando. Il risultato va letto con il Diario degli errori, non solo come punteggio.
 
 ## Domanda-trappola
 
@@ -459,7 +473,7 @@ Le ha detto che cosa fare.
 
 ## Errore tipico
 
-L'errore tipico è usare la simulazione come giudizio emotivo.
+L’errore tipico è usare la simulazione come giudizio emotivo.
 
 Se va bene, il candidato si rilassa troppo.
 
@@ -569,7 +583,7 @@ Tieni un registro semplice del laboratorio. Non serve archiviare ogni quiz: serv
 
 Frequenza consigliata:
 
-- **dopo ogni simulazione completa**: aggiorna Diario (Cap. 23) e registro in un'unica seduta;
+- **dopo ogni simulazione completa**: aggiorna Diario (Cap. 23) e registro in un’unica seduta;
 - **revisione settimanale (R8)**: conta errori ripetuti, non solo punteggi medi;
 - **revisione mensile**: archivia simulazioni che non hanno prodotto correzione; ripeti quelle che hanno cambiato il piano.
 
@@ -583,17 +597,17 @@ Prima di avviare il timer, rispondi per iscritto:
 2. **È il momento giusto?** Se non conosci ancora i nuclei base, preferisci micro-diagnosi; la simulazione completa serve in consolidamento o fase finale.
 3. **Rispetto tempo e regole reali?** Timer, consegna, penalità e strumenti ammessi devono essere quelli del bando, anche in versione ridotta.
 4. **Ho previsto la correzione?** Senza griglia errori e decisione settimanale, la simulazione è solo consumo di energia.
-5. **So dove finirà l'output?** Diario, piano, R8 e — se serve — R9 (materiali) o R13 (strategia punteggio).
+5. **So dove finirà l’output?** Diario, piano, R8 e — se serve — R9 (materiali) o R13 (strategia punteggio).
 
 Se anche una risposta è debole, riduci durata e ambito, ma non saltare la correzione.
 
 ## Cinque segnali che il laboratorio funziona
 
-1. **Ogni simulazione produce una decisione**: non solo un punteggio, ma un'azione verificabile entro sette giorni.
+1. **Ogni simulazione produce una decisione**: non solo un punteggio, ma un’azione verificabile entro sette giorni.
 2. **Gli errori si classificano per causa**: memoria, concetto, lettura, fretta, strategia — non solo per materia.
 3. **Il Diario si aggiorna**: le stesse lacune non ricompaiono identiche dopo due cicli di correzione.
-4. **Il calendario è distribuito**: micro, miste e complete compaiono nel piano, non tutte nell'ultima settimana.
-5. **Il punteggio viene letto con R13**: soglie, tempo e rischio guidano la prossima mossa, non l'umore del giorno.
+4. **Il calendario è distribuito**: micro, miste e complete compaiono nel piano, non tutte nell’ultima settimana.
+5. **Il punteggio viene letto con R13**: soglie, tempo e rischio guidano la prossima mossa, non l’umore del giorno.
 
 ## Chiusura operativa
 
@@ -607,13 +621,13 @@ Il laboratorio simulazioni è chiuso metodologicamente quando ogni prova lascia 
 | Ho corretto per causa, non solo per materia | |
 | Ho aggiornato il Diario degli errori (Cap. 23) | |
 | Ho registrato la simulazione nel registro | |
-| Ho deciso un'azione verificabile entro 7 giorni | |
+| Ho deciso un’azione verificabile entro 7 giorni | |
 | Ho evitato materiali nuovi solo per ansia (R9) | |
 | Ho incrociato soglie e tempo con R13 se utile | |
 | Ho programmato la prossima verifica | |
 | Ho protetto gli ultimi giorni da simulazioni pesanti non necessarie | |
 
-La simulazione non deve governare il tuo umore. Deve governare il piano.
+Il piano guida la simulazione, non il contrario.
 
 ## Riferimenti consolidati
 
@@ -633,10 +647,3 @@ La simulazione non deve governare il tuo umore. Deve governare il piano.
 - [[topics/prova-scritta-teorico-pratica]]
 - [[topics/prova-orale]]
 - [[topics/diario-errori]]
-
-## Note di review
-
-- La struttura madre originaria non prevedeva il Capitolo 34. Questo capitolo è un'estensione editoriale richiesta nel flusso di completamento del libro.
-- In revisione finale valutare se collocarlo prima del Capitolo 24, come ponte tra Parte III e Kit finale, oppure mantenerlo tra le estensioni finali.
-- Verificare in impaginazione se il "dossier simulazione" e la scheda "Prepara la simulazione in 15 minuti" debbano diventare pagine compilabili autonome.
-- Coordinare rimandi con Cap. 14-17 (formati di prova), Cap. 23 (Diario), R8 (revisione sistema), R9 (materiali), R13 (strategia punteggio), R18 (banca dati ufficiale) e R22 (orale imprevisto, Cap. 46).

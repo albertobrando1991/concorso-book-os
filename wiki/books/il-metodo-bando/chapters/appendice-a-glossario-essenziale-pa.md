@@ -28,17 +28,17 @@ Nei concorsi pubblici molte domande non sono difficili perché richiedono nozion
 
 Se confondi il termine, confondi la risposta.
 
-Il glossario riduce questo rischio: per ogni voce offre una definizione essenziale, la funzione concorsuale e l'errore da evitare.
+Il glossario riduce questo rischio: per ogni voce offre una definizione essenziale, la funzione concorsuale e l’errore da evitare.
 
 ## Come usare il glossario
 
 Usalo in tre momenti.
 
-1. **Prima di studiare un capitolo**: leggi le voci dell'area collegata, così riconosci subito le parole chiave.
+1. **Prima di studiare un capitolo**: leggi le voci dell’area collegata, così riconosci subito le parole chiave.
 2. **Durante i quiz**: quando sbagli per una sigla o per una coppia simile, torna alla voce e aggiungila al diario degli errori.
-3. **Prima dell'orale**: scegli 10 termini e prova a spiegarli in 30 secondi ciascuno, con un esempio di PA.
+3. **Prima dell’orale**: scegli 10 termini e prova a spiegarli in 30 secondi ciascuno, con un esempio di PA.
 
-Una definizione da concorso deve essere breve, corretta e collegata all'uso. Per una sigla devi sapere dove compare e quale errore evita.
+Una definizione da concorso deve essere breve, corretta e collegata all’uso. Per una sigla devi sapere dove compare e quale errore evita.
 
 ## Mappa BANDO del glossario
 
@@ -66,9 +66,9 @@ Una definizione da concorso deve essere breve, corretta e collegata all'uso. Per
 | Avviso pubblico | Comunicazione ufficiale che apre, modifica, integra o chiarisce una procedura. | Controlla sempre se dopo il bando sono usciti avvisi successivi. |
 | Requisiti di partecipazione | Condizioni richieste per poter concorrere, come titolo di studio, cittadinanza, eta se prevista, esperienza o abilitazioni. | Prima di studiare, verifica se possiedi tutti i requisiti alla data richiesta. |
 | Titoli | Elementi valutabili oltre alle prove, come studio, servizio, esperienze o certificazioni, se previsti dal bando. | Non tutti i titoli contano: contano solo quelli ammessi e documentati secondo il bando. |
-| Riserva | Quota di posti destinata a categorie previste dalla disciplina applicabile o dal bando. | Non equivale a preferenza: incide sull'assegnazione dei posti secondo regole specifiche. |
-| Preferenza | Criterio che può incidere sull'ordine tra candidati in condizioni previste. | Non aumenta il punteggio della prova se il bando non lo prevede. |
-| Commissione esaminatrice | Organo incaricato di valutare prove, titoli e candidati secondo le regole della procedura. | All'orale è utile rispondere in modo ordinato, non recitare parole isolate. |
+| Riserva | Quota di posti destinata a categorie previste dalla disciplina applicabile o dal bando. | Non equivale a preferenza: incide sull’assegnazione dei posti secondo regole specifiche. |
+| Preferenza | Criterio che può incidere sull’ordine tra candidati in condizioni previste. | Non aumenta il punteggio della prova se il bando non lo prevede. |
+| Commissione esaminatrice | Organo incaricato di valutare prove, titoli e candidati secondo le regole della procedura. | All’orale è utile rispondere in modo ordinato, non recitare parole isolate. |
 | Preselezione | Prova eventuale che riduce il numero di candidati ammessi alle fasi successive. | può essere decisiva anche se non coincide con la prova principale. |
 | Prova scritta | Prova in forma scritta: quiz, risposta sintetica, elaborato, caso o prova teorico-pratica. | Chiediti sempre quale output richiede: crocetta, schema, argomentazione o soluzione. |
 | Prova orale | Colloquio sulle materie, sulle competenze o su situazioni operative, secondo il bando. | Non basta sapere: devi esporre con ordine e collegamenti. |
@@ -76,12 +76,12 @@ Una definizione da concorso deve essere breve, corretta e collegata all'uso. Per
 | Graduatoria | Elenco ordinato dei candidati secondo punteggi, titoli, preferenze e regole applicabili. | Distingui idoneità, posizione utile e assunzione effettiva. |
 | Idoneo | Candidato che supera le soglie o le prove previste, ma non necessariamente rientra nei posti disponibili. | Essere idoneo non significa automaticamente essere vincitore. |
 | Vincitore | Candidato collocato utilmente rispetto ai posti messi a concorso, salvo verifiche e adempimenti. | La vittoria dipende anche da graduatoria, requisiti e atti successivi. |
-| Assunzione | Instaurazione del rapporto di lavoro secondo gli atti dell'amministrazione. | Non coincide con la pubblicazione della graduatoria. |
+| Assunzione | Instaurazione del rapporto di lavoro secondo gli atti dell’amministrazione. | Non coincide con la pubblicazione della graduatoria. |
 | Profilo professionale | Figura per cui si concorre, con mansioni, competenze e area di inquadramento. | Il profilo orienta materie, esempi e moduli integrativi. |
 | Area o famiglia professionale | Raggruppamento di profili simili per funzioni, livello e competenze. | Serve a capire che cosa resta comune e che cosa cambia tra concorsi. |
 | inPA | Portale nazionale usato per molte procedure di reclutamento pubblico. | Controlla credenziali, domanda, ricevute e comunicazioni secondo il bando. |
 | Domanda telematica | Istanza di partecipazione inviata tramite piattaforma digitale. | Salva ricevuta, protocollo o attestazione quando disponibili. |
-| Scorrimento graduatoria | Utilizzo successivo della graduatoria per coprire ulteriori posti, se consentito. | Non va dato per scontato: dipende da norme, bando e scelte dell'amministrazione. |
+| Scorrimento graduatoria | Utilizzo successivo della graduatoria per coprire ulteriori posti, se consentito. | Non va dato per scontato: dipende da norme, bando e scelte dell’amministrazione. |
 | Banca dati | Insieme di quesiti messi a disposizione o usati per esercitarsi, se previsto. | Se esiste una banca dati ufficiale, cambia il metodo di studio. |
 | Diario degli errori | Strumento personale per registrare errori, cause e azioni correttive. | Non è una lista di vergogna: è il motore del ripasso intelligente. |
 
@@ -90,44 +90,44 @@ Una definizione da concorso deve essere breve, corretta e collegata all'uso. Per
 | Termine | Significato essenziale | In prova |
 |---|---|---|
 | Pubblica amministrazione | Insieme dei soggetti pubblici che curano interessi pubblici secondo legge, imparzialità e buon andamento. | Evita definizioni vaghe: collega sempre funzione, legalità e servizio. |
-| Interesse pubblico | finalità che giustifica l'azione amministrativa. | Non è l'interesse dell'ufficio, ma l'interesse curato dall'ordinamento. |
+| Interesse pubblico | finalità che giustifica l’azione amministrativa. | Non è l’interesse dell’ufficio, ma l’interesse curato dall’ordinamento. |
 | Buon andamento | Principio costituzionale che richiede amministrazione efficiente, efficace, ordinata e orientata al risultato pubblico. | Non significa velocità senza regole. |
 | imparzialità | Principio che impone alla PA di agire senza favoritismi e con criteri oggettivi. | Collegalo a concorsi, gare, accesso e conflitto di interessi. |
 | Competenza | Potere attribuito a un organo o ufficio di occuparsi di una materia o atto. | Nei casi pratici chiediti sempre: chi deve agire? |
 | Procedimento amministrativo | Sequenza di atti e attività con cui la PA forma una decisione. | Non confonderlo con il provvedimento finale. |
-| Responsabile del procedimento | Figura che cura l'istruttoria e gli adempimenti del procedimento secondo la disciplina applicabile. | È centrale in termini, partecipazione, comunicazioni e tracciabilità. |
+| Responsabile del procedimento | Figura che cura l’istruttoria e gli adempimenti del procedimento secondo la disciplina applicabile. | È centrale in termini, partecipazione, comunicazioni e tracciabilità. |
 | Istruttoria | Fase di acquisizione e valutazione di fatti, documenti, interessi e presupposti. | Una risposta pratica senza istruttoria è quasi sempre debole. |
 | Partecipazione procedimentale | possibilità degli interessati di intervenire nel procedimento nei casi previsti. | Serve a evitare decisioni opache o non motivate. |
-| Comunicazione di avvio | Comunicazione agli interessati dell'avvio del procedimento, quando dovuta. | Non è un provvedimento finale: informa e apre la partecipazione. |
-| Preavviso di rigetto | Comunicazione dei motivi che ostano all'accoglimento di un'istanza, nei casi previsti. | Distinguilo dal rigetto definitivo. |
+| Comunicazione di avvio | Comunicazione agli interessati dell’avvio del procedimento, quando dovuta. | Non è un provvedimento finale: informa e apre la partecipazione. |
+| Preavviso di rigetto | Comunicazione dei motivi che ostano all’accoglimento di un’istanza, nei casi previsti. | Distinguilo dal rigetto definitivo. |
 | Termine procedimentale | Tempo entro cui il procedimento deve concludersi. | Nei casi pratici il ritardo va sempre collegato a termini e responsabilità. |
 | Provvedimento amministrativo | Atto finale con cui la PA decide e produce effetti giuridici. | Deve essere distinto da pareri, comunicazioni e atti istruttori. |
-| Atto amministrativo | Manifestazione dell'attività amministrativa; può essere provvedimentale o non provvedimentale. | Non tutti gli atti sono provvedimenti. |
+| Atto amministrativo | Manifestazione dell’attività amministrativa; può essere provvedimentale o non provvedimentale. | Non tutti gli atti sono provvedimenti. |
 | Atto endoprocedimentale | Atto interno al procedimento, preparatorio rispetto alla decisione finale. | Di solito non chiude il procedimento. |
 | Motivazione | Indicazione delle ragioni di fatto e di diritto della decisione. | Una risposta scritta forte spiega sempre il perché della soluzione. |
 | Autotutela | Potere della PA di riesaminare i propri atti nei limiti previsti. | Non usarla come parola magica: richiede presupposti e valutazione. |
-| annullabilità | viziosità dell'atto che può portare all'annullamento nei modi previsti. | Distinguila dalla nullità. |
-| nullità | Invalidità più radicale, prevista in ipotesi specifiche. | Non tutti gli errori rendono l'atto nullo. |
-| Silenzio assenso | Meccanismo in cui il silenzio dell'amministrazione può equivalere ad accoglimento, se previsto. | Non vale sempre: verifica eccezioni e materia. |
+| annullabilità | viziosità dell’atto che può portare all’annullamento nei modi previsti. | Distinguila dalla nullità. |
+| nullità | Invalidità più radicale, prevista in ipotesi specifiche. | Non tutti gli errori rendono l’atto nullo. |
+| Silenzio assenso | Meccanismo in cui il silenzio dell’amministrazione può equivalere ad accoglimento, se previsto. | Non vale sempre: verifica eccezioni e materia. |
 | Silenzio inadempimento | Mancata conclusione del procedimento nei termini. | Non equivale automaticamente ad accoglimento. |
 | Conferenza di servizi | Strumento di coordinamento tra amministrazioni coinvolte in un procedimento. | Serve a semplificare decisioni complesse, non a cancellare competenze. |
-| SCIA | Segnalazione certificata di inizio attività, che consente l'avvio dell'attività nei casi previsti. | Non è un'autorizzazione tradizionale rilasciata prima dalla PA. |
-| Autorizzazione | Atto che consente un'attività subordinata a controllo pubblico preventivo. | Distinguila da comunicazione, concessione e SCIA. |
-| Nulla osta | Atto con cui un'amministrazione non si oppone a un'attività o decisione. | Non sempre è l'atto finale del procedimento. |
+| SCIA | Segnalazione certificata di inizio attività, che consente l’avvio dell’attività nei casi previsti. | Non è un’autorizzazione tradizionale rilasciata prima dalla PA. |
+| Autorizzazione | Atto che consente un’attività subordinata a controllo pubblico preventivo. | Distinguila da comunicazione, concessione e SCIA. |
+| Nulla osta | Atto con cui un’amministrazione non si oppone a un’attività o decisione. | Non sempre è l’atto finale del procedimento. |
 | Parere | Valutazione tecnica o giuridica richiesta a un organo o ufficio. | può essere obbligatorio o facoltativo, vincolante o non vincolante secondo disciplina. |
 | Ricorso amministrativo | Rimedi davanti alla stessa amministrazione o ad autorità amministrative, nei casi previsti. | Non confonderlo con il ricorso al giudice. |
 | Ricorso giurisdizionale | Azione davanti al giudice competente contro atti o comportamenti lesivi. | Nei concorsi basta spesso conoscere la logica, non il processo in dettaglio. |
-| Accesso documentale | Diritto di prendere visione o copia di documenti amministrativi se sussiste interesse qualificato. | Distinguilo dall'accesso civico. |
+| Accesso documentale | Diritto di prendere visione o copia di documenti amministrativi se sussiste interesse qualificato. | Distinguilo dall’accesso civico. |
 
 ## 3. Organizzazione amministrativa e lavoro pubblico
 
 | Termine | Significato essenziale | In prova |
 |---|---|---|
-| Ente locale | Ente territoriale come Comune, Provincia, Citta metropolitana o altro soggetto previsto dall'ordinamento. | Nei concorsi comunali collega sempre organi, servizi e competenze. |
+| Ente locale | Ente territoriale come Comune, Provincia, Città metropolitana o altro soggetto previsto dall’ordinamento. | Nei concorsi comunali collega sempre organi, servizi e competenze. |
 | Comune | Ente locale di base che cura interessi della comunità locale. | Esempi su servizi al cittadino, anagrafe, tributi, edilizia e polizia locale sono frequenti. |
 | Regione | Ente territoriale con funzioni legislative e amministrative secondo Costituzione e statuti. | Utile per distinguere competenze statali, regionali e locali. |
 | Organo di indirizzo politico | Organo che definisce obiettivi e indirizzi, distinto dalla gestione amministrativa. | Non confondere indirizzo politico e atti gestionali. |
-| Dirigente | Figura responsabile della gestione amministrativa, finanziaria e tecnica secondo l'ordinamento. | Negli orali collega dirigenza, responsabilità, performance e organizzazione. |
+| Dirigente | Figura responsabile della gestione amministrativa, finanziaria e tecnica secondo l’ordinamento. | Negli orali collega dirigenza, responsabilità, performance e organizzazione. |
 | Dipendente pubblico | Lavoratore alle dipendenze di una pubblica amministrazione. | Non è solo esecutore: ha doveri, responsabilità e vincoli etici. |
 | Codice di comportamento | Regole di condotta per i dipendenti pubblici. | Compare spesso in quesiti su etica, regali, conflitto di interessi e rapporti con il pubblico. |
 | Codice disciplinare | Insieme delle regole su infrazioni e sanzioni disciplinari. | Distingui responsabilità disciplinare da penale, contabile e dirigenziale. |
@@ -135,7 +135,7 @@ Una definizione da concorso deve essere breve, corretta e collegata all'uso. Per
 | responsabilità disciplinare | responsabilità del dipendente per violazione di doveri di servizio. | Non coincide con danno erariale o reato. |
 | responsabilità dirigenziale | responsabilità legata a risultati, gestione, organizzazione e obblighi del dirigente. | Collegala a performance, obiettivi e buon andamento. |
 | responsabilità amministrativo-contabile | responsabilità per danno arrecato alle finanze pubbliche nei presupposti previsti. | Nei quiz appare spesso insieme alla Corte dei conti. |
-| Danno erariale | Pregiudizio patrimoniale arrecato all'ente pubblico. | Non ogni errore amministrativo è automaticamente danno erariale. |
+| Danno erariale | Pregiudizio patrimoniale arrecato all’ente pubblico. | Non ogni errore amministrativo è automaticamente danno erariale. |
 | Performance | Misurazione e valutazione di risultati, servizi, organizzazione e contributo individuale. | Non ridurla a produttività privata: serve al valore pubblico. |
 | Valutazione della performance | Processo di misurazione dei risultati organizzativi e individuali. | Collegala a obiettivi, indicatori, responsabilità e miglioramento. |
 | OIV | Organismo indipendente di valutazione, collegato al ciclo della performance. | Sigla frequente: ricorda la funzione di valutazione e controllo. |
@@ -149,15 +149,15 @@ Una definizione da concorso deve essere breve, corretta e collegata all'uso. Per
 
 | Termine | Significato essenziale | In prova |
 |---|---|---|
-| Trasparenza | accessibilità e conoscibilità dell'azione amministrativa nei limiti previsti. | Non significa pubblicare tutto. |
-| Obbligo di pubblicazione | Dovere di pubblicare determinati dati, documenti o informazioni secondo disciplina. | Distinguilo dall'accesso su richiesta. |
+| Trasparenza | accessibilità e conoscibilità dell’azione amministrativa nei limiti previsti. | Non significa pubblicare tutto. |
+| Obbligo di pubblicazione | Dovere di pubblicare determinati dati, documenti o informazioni secondo disciplina. | Distinguilo dall’accesso su richiesta. |
 | Accesso civico semplice | Accesso per chiedere la pubblicazione di dati o documenti soggetti a obbligo di pubblicazione. | Serve quando ciò che doveva essere pubblicato manca. |
-| Accesso civico generalizzato | Accesso a dati e documenti ulteriori rispetto agli obblighi di pubblicazione, entro limiti e bilanciamenti. | Non richiede lo stesso interesse dell'accesso documentale. |
+| Accesso civico generalizzato | Accesso a dati e documenti ulteriori rispetto agli obblighi di pubblicazione, entro limiti e bilanciamenti. | Non richiede lo stesso interesse dell’accesso documentale. |
 | Amministrazione trasparente | Sezione del sito istituzionale dedicata agli obblighi di pubblicazione. | Nei quiz è collegata al D.Lgs. 33/2013. |
 | ANAC | autorità nazionale anticorruzione. | Ricorre in anticorruzione, trasparenza e contratti pubblici. |
 | PNA | Piano nazionale anticorruzione adottato da ANAC come atto di indirizzo. | Non è il piano interno di una singola amministrazione. |
 | Anticorruzione | Sistema di prevenzione dei rischi corruttivi e di cattiva amministrazione. | Non riguarda solo reati: riguarda anche organizzazione, controlli e trasparenza. |
-| Dati personali | Informazioni riferite a persona fisica identificata o identificabile. | Evita l'errore "trasparenza sempre prevale su privacy". |
+| Dati personali | Informazioni riferite a persona fisica identificata o identificabile. | Evita l’errore “trasparenza sempre prevale su privacy”. |
 | GDPR | Regolamento europeo sulla protezione dei dati personali. | Nei concorsi serve soprattutto per principi, diritti, ruoli e sicurezza. |
 | Titolare del trattamento | Soggetto che determina finalità e mezzi del trattamento dei dati. | Non confonderlo con chi tratta dati per conto altrui. |
 | Responsabile del trattamento | Soggetto che tratta dati personali per conto del titolare. | Il nome può trarre in inganno: non coincide con il responsabile del procedimento. |
@@ -168,9 +168,9 @@ Una definizione da concorso deve essere breve, corretta e collegata all'uso. Per
 
 | Termine | Significato essenziale | In prova |
 |---|---|---|
-| CAD | Codice dell'amministrazione digitale. | Fondamentale per documenti informatici, firme, identità digitale, servizi e dati pubblici. |
+| CAD | Codice dell’amministrazione digitale. | Fondamentale per documenti informatici, firme, identità digitale, servizi e dati pubblici. |
 | Documento informatico | Documento formato, gestito o conservato in formato digitale secondo regole tecniche e giuridiche. | Non è una semplice scansione senza regole. |
-| Protocollo informatico | Sistema di registrazione e tracciamento dei documenti dell'amministrazione. | Collega entrata, uscita, fascicolo e responsabilità. |
+| Protocollo informatico | Sistema di registrazione e tracciamento dei documenti dell’amministrazione. | Collega entrata, uscita, fascicolo e responsabilità. |
 | Fascicolo informatico | Raccolta organizzata di documenti e dati relativi a un procedimento o affare. | Nei casi pratici serve a parlare di tracciabilità. |
 | Conservazione digitale | Processo che mantiene nel tempo validità, integrità, leggibilità e reperibilità dei documenti digitali. | Non coincide con salvare un file sul desktop. |
 | Firma digitale | Tipo di firma elettronica qualificata basata su certificati e chiavi crittografiche. | Non è una firma autografa scansionata. |
@@ -184,9 +184,9 @@ Una definizione da concorso deve essere breve, corretta e collegata all'uso. Per
 | INAD | Indice nazionale dei domicili digitali delle persone fisiche e altri soggetti previsti. | Nei quiz compare con domicilio digitale e notifiche. |
 | IPA | Indice dei domicili digitali e riferimenti delle pubbliche amministrazioni. | Utile per indirizzi ufficiali delle PA. |
 | App IO | Applicazione per servizi, comunicazioni e pagamenti verso la PA. | Non è il portale unico di tutti i procedimenti. |
-| pagoPA | Sistema nazionale per i pagamenti verso la pubblica amministrazione. | Non è una tassa: è un'infrastruttura di pagamento. |
+| pagoPA | Sistema nazionale per i pagamenti verso la pubblica amministrazione. | Non è una tassa: è un’infrastruttura di pagamento. |
 | FatturaPA | Formato e sistema di fatturazione elettronica verso la PA. | Collegala a fornitura, pagamento, tracciabilità e controlli. |
-| PDND | Piattaforma digitale nazionale dati. | Serve all'interoperabilità tra amministrazioni tramite servizi e dati. |
+| PDND | Piattaforma digitale nazionale dati. | Serve all’interoperabilità tra amministrazioni tramite servizi e dati. |
 | Open data | Dati pubblici resi disponibili in formato aperto e riutilizzabile, quando possibile. | Non ogni dato pubblicato è automaticamente open data. |
 | interoperabilità | capacità di sistemi e amministrazioni di scambiare dati e servizi in modo ordinato e sicuro. | Nei concorsi è la logica dietro molte piattaforme digitali. |
 | accessibilità digitale | capacità dei servizi digitali di essere usabili anche da persone con disabilità. | Non è solo grafica: riguarda diritti e fruibilità. |
@@ -201,7 +201,7 @@ Una definizione da concorso deve essere breve, corretta e collegata all'uso. Per
 |---|---|---|
 | Codice dei contratti pubblici | Disciplina generale di appalti, concessioni, principi, procedure, soggetti ed esecuzione. | Non studiarlo solo come gara: comprende tutto il ciclo del contratto. |
 | Contratto pubblico | Strumento con cui la PA acquisisce lavori, servizi o forniture o affida concessioni. | Collega interesse pubblico, risorse, scelta del contraente e controlli. |
-| Appalto | Contratto in cui l'operatore esegue lavori, servizi o forniture per la stazione appaltante. | Distinguilo dalla concessione. |
+| Appalto | Contratto in cui l’operatore esegue lavori, servizi o forniture per la stazione appaltante. | Distinguilo dalla concessione. |
 | Concessione | Contratto in cui assume rilievo la gestione e il rischio operativo secondo disciplina. | Non è un semplice appalto con nome diverso. |
 | Stazione appaltante | Soggetto pubblico che affida un contratto di appalto. | Nei casi pratici chiediti sempre chi affida e chi esegue. |
 | Ente concedente | Soggetto che affida una concessione. | Termini di contratti pubblici: non usarlo come sinonimo generico di PA. |
@@ -211,21 +211,21 @@ Una definizione da concorso deve essere breve, corretta e collegata all'uso. Per
 | CUP | Codice unico di progetto per progetti di investimento pubblico. | Non identifica la gara: identifica il progetto. |
 | BDNCP | Banca dati nazionale dei contratti pubblici. | Collegala ad ANAC, digitalizzazione e trasparenza dei contratti. |
 | PCP | Piattaforma contratti pubblici. | Sigla legata alla digitalizzazione del ciclo di vita dei contratti. |
-| FVOE | Fascicolo virtuale dell'operatore economico. | Serve per verifiche e documentazione dell'operatore, secondo disciplina. |
+| FVOE | Fascicolo virtuale dell’operatore economico. | Serve per verifiche e documentazione dell’operatore, secondo disciplina. |
 | MEPA | Mercato elettronico della pubblica amministrazione. | Strumento di acquisto e negoziazione, non sinonimo di ogni gara. |
 | Consip | società pubblica centrale negli strumenti di acquisto e convenzioni. | Nei quiz compare con acquisti in rete e razionalizzazione della spesa. |
 | Procedura aperta | Procedura in cui ogni operatore interessato può presentare offerta secondo le regole. | Non è affidamento diretto. |
 | Procedura negoziata | Procedura con consultazione di operatori selezionati nei casi previsti. | Non significa trattativa libera senza regole. |
 | Affidamento diretto | modalità di affidamento nei casi e limiti previsti. | Non è scelta arbitraria: restano motivazione, principi e tracciabilità. |
-| Aggiudicazione | Atto che individua l'offerta o l'operatore selezionato secondo la procedura. | Non coincide sempre con stipula o avvio dell'esecuzione. |
-| Subappalto | Affidamento a terzi di parte delle prestazioni, nei limiti e condizioni previsti. | Non è sostituzione libera dell'appaltatore. |
+| Aggiudicazione | Atto che individua l’offerta o l’operatore selezionato secondo la procedura. | Non coincide sempre con stipula o avvio dell’esecuzione. |
+| Subappalto | Affidamento a terzi di parte delle prestazioni, nei limiti e condizioni previsti. | Non è sostituzione libera dell’appaltatore. |
 | Rotazione | Principio volto a evitare affidamenti ripetitivi non giustificati verso gli stessi operatori. | Nei contratti sotto soglia è parola ad alto rischio di errore. |
-| Bilancio di previsione | Documento che programma entrate e spese future dell'ente. | Distinguilo dal rendiconto. |
+| Bilancio di previsione | Documento che programma entrate e spese future dell’ente. | Distinguilo dal rendiconto. |
 | Rendiconto | Documento che rappresenta i risultati della gestione conclusa. | Non programma: consuntiva ciò che è accaduto. |
 | Impegno di spesa | Fase che vincola una somma per una obbligazione giuridicamente perfezionata. | Non confonderlo con pagamento. |
-| Liquidazione | Verifica della prestazione e determinazione dell'importo da pagare. | Viene prima dell'ordinazione e del pagamento. |
-| Ordinazione di pagamento | Disposizione con cui si ordina il pagamento secondo le regole contabili. | Non è la stessa cosa dell'impegno. |
-| Residui | Entrate accertate o spese impegnate non riscosse o non pagate entro l'esercizio. | Termine frequente, ma da trattare in modo essenziale nel libro base. |
+| Liquidazione | Verifica della prestazione e determinazione dell’importo da pagare. | Viene prima dell’ordinazione e del pagamento. |
+| Ordinazione di pagamento | Disposizione con cui si ordina il pagamento secondo le regole contabili. | Non è la stessa cosa dell’impegno. |
+| Residui | Entrate accertate o spese impegnate non riscosse o non pagate entro l’esercizio. | Termine frequente, ma da trattare in modo essenziale nel libro base. |
 | SIOPE | Sistema informativo sulle operazioni degli enti pubblici. | Nei concorsi generalisti basta conoscere il collegamento con flussi e monitoraggio. |
 
 ## Da sapere in 5 righe
@@ -233,7 +233,7 @@ Una definizione da concorso deve essere breve, corretta e collegata all'uso. Per
 1. Il glossario serve a capire il linguaggio della PA, non a sostituire lo studio dei capitoli.
 2. Le sigle non vanno imparate come formule isolate: vanno collegate alla loro funzione.
 3. Le coppie più pericolose sono procedimento/provvedimento, PEC/firma, CIG/CUP, accesso documentale/accesso civico.
-4. In un orale, una definizione efficace ha tre parti: che cos'è, a cosa serve, quale errore evita.
+4. In un orale, una definizione efficace ha tre parti: che cos’è, a cosa serve, quale errore evita.
 5. Ogni termine confuso deve finire nel diario degli errori.
 
 ## Caso guidato
@@ -258,7 +258,7 @@ Il glossario non gli dice tutto. Gli dice dove guardare e quale confusione evita
 
 **perché, in un concorso pubblico, conoscere il lessico tecnico è parte della preparazione e non solo memoria?**
 
-perché il lessico tecnico permette di classificare correttamente la domanda. Se riconosco il termine, capisco la materia, il procedimento, il soggetto competente, il rischio e l'output richiesto. Senza lessico, anche una nozione studiata può essere usata nel punto sbagliato.
+perché il lessico tecnico permette di classificare correttamente la domanda. Se riconosco il termine, capisco la materia, il procedimento, il soggetto competente, il rischio e l’output richiesto. Senza lessico, anche una nozione studiata può essere usata nel punto sbagliato.
 
 ## Domanda-trappola
 
@@ -288,7 +288,7 @@ Scegli 15 termini del glossario e compila questa griglia.
 | 14. | | | |
 | 15. | | | |
 
-Poi ripeti a voce le 15 definizioni. Se una supera 30 secondi, è troppo lunga per l'orale.
+Poi ripeti a voce le 15 definizioni. Se una supera 30 secondi, è troppo lunga per l’orale.
 
 ## Errori tipici
 
@@ -312,9 +312,3 @@ Poi ripeti a voce le 15 definizioni. Se una supera 30 secondi, è troppo lunga p
 - [[sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024]]
 - [[sources/contabilita-generale-stato-e-bilancio-stato]]
 - [[topics/glossario-pa]]
-
-## Note di review
-
-- Prima della pubblicazione finale uniformare maiuscole e acronimi con il resto del volume.
-- Verificare se alcune voci digitali devono essere aggiornate in base alle ultime indicazioni AgID o piattaforme operative.
-- Coordinare questa appendice con l'Appendice B: il glossario definisce i termini, mentre le parole chiave dovranno insegnare come usarli in risposta.

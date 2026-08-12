@@ -43,9 +43,9 @@ La promessa è semplice: non devi studiare tutto nello stesso modo. Devi imparar
 Alla fine devi sapere che cosa fare quando apri il libro, quando leggi un bando nuovo o quando sbagli una simulazione.
 
 ## Il problema: troppi materiali, poca strategia
-Molti candidati studiano tanto ma male. Comprano un manuale completo, poi un secondo manuale più aggiornato, poi una raccolta di quiz, poi un corso, poi un file condiviso da altri candidati. All'inizio tutto sembra utile. Dopo qualche settimana, però, il materiale diventa ingestibile.
+Molti candidati studiano tanto ma male. Comprano un manuale completo, poi un secondo manuale più aggiornato, poi una raccolta di quiz, poi un corso, poi un file condiviso da altri candidati. All’inizio tutto sembra utile. Dopo qualche settimana, però, il materiale diventa ingestibile.
 
-Il problema non è l'abbondanza. Il problema è l'assenza di gerarchia. Se non sai quali prove affronterai, quali materie pesano di più, quali argomenti sono ricorrenti e quali contenuti puoi rimandare, rischi di studiare in modo uniforme ciò che uniforme non è.
+Il problema non è l’abbondanza. Il problema è l’assenza di gerarchia. Se non sai quali prove affronterai, quali materie pesano di più, quali argomenti sono ricorrenti e quali contenuti puoi rimandare, rischi di studiare in modo uniforme ciò che uniforme non è.
 
 Un concorso con prova preselettiva a quiz richiede una strategia diversa da un concorso con prova teorico-pratica. Un profilo amministrativo comunale non richiede lo stesso livello di dettaglio di un profilo tributario, tecnico o di polizia locale. Alcune basi restano comuni, ma il modo di usarle cambia.
 
@@ -62,7 +62,7 @@ Studiare con priorità non significa studiare poco. Significa dare un ordine:
 Questa logica protegge il candidato da due errori opposti: trascurare le basi e perdersi negli approfondimenti. Il manuale ti guiderà proprio in questo equilibrio.
 
 ## Il capitale riutilizzabile
-Ogni concorso sembra diverso. In parte lo è. Cambiano l'ente, il profilo, le prove, il programma, le soglie, il calendario. Ma una parte dello studio può essere riutilizzata.
+Ogni concorso sembra diverso. In parte lo è. Cambiano l’ente, il profilo, le prove, il programma, le soglie, il calendario. Ma una parte dello studio può essere riutilizzata.
 
 Costituzione, diritto amministrativo, pubblico impiego, trasparenza, anticorruzione, privacy, contabilità essenziale, contratti pubblici di base, informatica, logica e metodo di studio tornano spesso. Se li impari come blocchi isolati, li dimentichi o li ripeti ogni volta. Se li impari come nucleo comune, diventano una base da adattare.
 
@@ -78,7 +78,7 @@ Questo è il punto commerciale e didattico del libro: studi il nucleo comune una
 ## Come usare il libro in 30, 60 o 90 giorni
 Se hai **30 giorni**, non puoi permetterti dispersione. Devi leggere subito il bando, tagliare gli approfondimenti non essenziali, studiare il nucleo comune e fare simulazioni frequenti. Il diario degli errori diventa lo strumento principale: ti dice che cosa correggere prima della prova.
 
-Se hai **60 giorni**, puoi alternare teoria, quiz, casi e ripasso. Hai spazio per consolidare le materie comuni, iniziare un modulo specifico e introdurre l'allenamento orale o scritto nella seconda metà del percorso.
+Se hai **60 giorni**, puoi alternare teoria, quiz, casi e ripasso. Hai spazio per consolidare le materie comuni, iniziare un modulo specifico e introdurre l’allenamento orale o scritto nella seconda metà del percorso.
 
 Se hai **90 giorni**, puoi costruire una base più solida: primo mese per il nucleo comune, secondo mese per consolidamento e moduli, terzo mese per simulazioni, output e ripasso programmato.
 
@@ -94,7 +94,7 @@ Il digitale può velocizzare alcune operazioni: duplicare schede, aggiornare fon
 2. Il bando viene prima dei materiali.
 3. Le materie non hanno tutte lo stesso peso.
 4. Ciò che studi bene può servire in più concorsi.
-5. Ogni capitolo deve portarti a un'azione: pianificare, rispondere, simulare, correggere.
+5. Ogni capitolo deve portarti a un’azione: pianificare, rispondere, simulare, correggere.
 
 ## Caso guidato
 Anna trova un bando per istruttore amministrativo comunale. Compra subito un manuale molto ampio e inizia dalla prima pagina. Dopo dieci giorni ha studiato molto, ma non sa se sta dando il peso giusto alle materie.
@@ -104,7 +104,7 @@ Con il Metodo BANDO cambia ordine: prima compila il Bando Decoder, poi divide le
 Non ha studiato meno. Ha studiato con una direzione.
 
 ## Domanda da commissario
-Perché la lettura del bando deve precedere l'acquisto o l'uso dei materiali di studio?
+Perché la lettura del bando deve precedere l’acquisto o l’uso dei materiali di studio?
 
 Risposta guidata: perché il bando definisce profilo, prove, materie, tempi e criteri di valutazione. Senza questa lettura il candidato rischia di studiare contenuti corretti ma non prioritari per quel concorso.
 

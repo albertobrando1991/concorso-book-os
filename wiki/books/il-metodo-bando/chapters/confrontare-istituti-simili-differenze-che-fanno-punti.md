@@ -20,11 +20,11 @@ draft_stage: revised-editorial-draft
 last_compiled_from: ["sources/confrontare-istituti-simili-metodo-bando.md", "topics/confronto-istituti-simili.md", "topics/risposta-concorsuale.md", "topics/risposta-sintetica-concorsuale.md", "topics/prova-scritta-teorico-pratica.md", "topics/prova-orale.md", "topics/schede-operative-studio.md", "topics/diario-errori.md"]
 ---
 
-# Capitolo 44 - Confrontare istituti simili: differenze che fanno punti
+# R20 - Confrontare istituti simili: differenze che fanno punti
 
-Nei concorsi, molte domande non chiedono solo: "Che cos'è?".
+Nei concorsi, molte domande non chiedono solo: “Che cos’è?”.
 
-Chiedono: "Che differenza c'è?".
+Chiedono: “Che differenza c’è?”.
 
 La domanda sulle differenze sembra semplice, ma richiede precisione: se conosci due istituti solo come definizioni isolate, nel confronto rischi di confonderti.
 
@@ -55,12 +55,12 @@ Questo capitolo non riscrive le singole materie. Ti insegna il metodo per confro
 
 Quando una traccia dice:
 
-- "distingua";
-- "confronti";
-- "indichi la differenza";
-- "metta a confronto";
-- "precisi il rapporto tra";
-- "non confonda";
+- “distingua”;
+- “confronti”;
+- “indichi la differenza”;
+- “metta a confronto”;
+- “precisi il rapporto tra”;
+- “non confonda”;
 
 non ti sta chiedendo due definizioni complete.
 
@@ -97,6 +97,8 @@ Se nella risposta non compare nessuna di queste strutture, forse non stai confro
 
 ![Mappa confronto](../assets/chapter-44/01-mappa-confronto.png)
 
+*Figura 44.1 - Mappa confronto.*
+
 Il confronto entra nel Metodo BANDO in modo preciso.
 
 | Fase BANDO | Domanda guida | Output pratico |
@@ -114,6 +116,8 @@ Il candidato forte studia anche confini.
 ## I criteri di distinzione
 
 ![Criteri stabili per distinguere istituti simili](../assets/chapter-44/02-criteri-distinzione.png)
+
+*Figura 44.2 - Criteri stabili per distinguere istituti simili.*
 
 Per confrontare bene devi scegliere il criterio giusto.
 
@@ -142,6 +146,8 @@ Se una differenza non cambia la risposta, forse non è la differenza decisiva.
 
 ![Formula di confronto in passaggi essenziali](../assets/chapter-44/03-formula-confronto.png)
 
+*Figura 44.3 - Formula di confronto in passaggi essenziali.*
+
 Per le domande comparative usa la formula 1-3-1.
 
 | Passaggio | Funzione |
@@ -154,11 +160,13 @@ Esempio di struttura:
 
 > I due istituti sono collegati perché entrambi riguardano ________, ma non coincidono. Il primo riguarda ________, mentre il secondo riguarda ________. Cambiano inoltre ________ e ________. Per questo, in prova, la distinzione centrale è ________.
 
-Questa struttura è semplice, ma impedisce l'errore più comune: mettere due definizioni una accanto all'altra senza relazione.
+Questa struttura è semplice, ma impedisce l’errore più comune: mettere due definizioni una accanto all’altra senza relazione.
 
 ## La tabella A/B/criterio
 
 ![Tabella visiva per confrontare istituti simili](../assets/chapter-44/04-tabella-confronto.png)
+
+*Figura 44.4 - Tabella visiva per confrontare istituti simili.*
 
 Quando studi, non scrivere pagine intere di confronto. Usa una tabella breve.
 
@@ -172,8 +180,8 @@ Esempio neutro:
 
 | Istituto A | Istituto B | Criterio | Differenza decisiva | Frase pronta |
 |---|---|---|---|---|
-| Strumento A | Strumento B | Funzione | A serve a ricostruire un passaggio; B serve a produrre un effetto finale. | "La differenza non è solo nominale: cambia la funzione." |
-| Strumento A | Strumento B | Effetti | A prepara la decisione; B incide sull'esito. | "A opera nella fase preparatoria, mentre B rileva nella fase conclusiva." |
+| Strumento A | Strumento B | Funzione | A serve a ricostruire un passaggio; B serve a produrre un effetto finale. | “La differenza non è solo nominale: cambia la funzione.” |
+| Strumento A | Strumento B | Effetti | A prepara la decisione; B incide sull’esito. | “A opera nella fase preparatoria, mentre B rileva nella fase conclusiva.” |
 
 La tabella non sostituisce lo studio. Lo obbliga a diventare risposta.
 
@@ -201,16 +209,16 @@ In 30 righe puoi aggiungere un breve collegamento a principi, procedimento o res
 
 ## Confronto orale da 60 secondi
 
-All'orale la domanda di differenza richiede ordine immediato.
+All’orale la domanda di differenza richiede ordine immediato.
 
 Schema:
 
-1. "I due istituti sono vicini perché..."
-2. "La differenza centrale è..."
-3. "Il primo..."
-4. "Il secondo..."
-5. "Cambia quindi..."
-6. "Per questo non vanno confusi."
+1. “I due istituti sono vicini perché...”
+2. “La differenza centrale è...”
+3. “Il primo...”
+4. “Il secondo...”
+5. “Cambia quindi...”
+6. “Per questo non vanno confusi.”
 
 Esempio astratto:
 
@@ -222,6 +230,8 @@ Questa risposta non è lunga. Ma mostra controllo.
 
 ![Confusioni tipiche e modo di risolverle](../assets/chapter-44/05-confusioni-tipiche.png)
 
+*Figura 44.5 - Confusioni tipiche e modo di risolverle.*
+
 Le confusioni tra istituti simili non nascono solo dalla mancanza di studio.
 
 Nascono da somiglianze reali.
@@ -230,13 +240,13 @@ Nascono da somiglianze reali.
 |---|---|---|
 | Nome simile | Due parole sembrano equivalenti. | Cercare funzione ed effetti. |
 | Oggetto vicino | I due istituti operano nello stesso ambito. | Separare presupposti e destinatari. |
-| Fase diversa | Uno prepara, l'altro conclude. | Disegnare la sequenza. |
+| Fase diversa | Uno prepara, l’altro conclude. | Disegnare la sequenza. |
 | Soggetto diverso | Cambia chi decide o chi risponde. | Tabella soggetto/funzione. |
 | Fonte diversa | Regole simili ma discipline diverse. | Verificare fonte consolidata. |
-| Effetti diversi | Sembrano uguali ma producono conseguenze diverse. | Scrivere "che cosa cambia dopo". |
+| Effetti diversi | Sembrano uguali ma producono conseguenze diverse. | Scrivere “che cosa cambia dopo”. |
 | Eccezione | Ricordi la regola generale ma non il limite. | Scheda regola/limite. |
 
-Nel Diario degli errori non scrivere solo "confuso".
+Nel Diario degli errori non scrivere solo “confuso”.
 
 Scrivi:
 
@@ -247,6 +257,8 @@ Scrivi:
 ## Il Diario delle differenze
 
 ![Diario delle differenze da richiamare nel ripasso](../assets/chapter-44/06-diario-differenze.png)
+
+*Figura 44.6 - Diario delle differenze da richiamare nel ripasso.*
 
 Quando sbagli una distinzione, compila questa scheda.
 
@@ -269,8 +281,8 @@ Esempio di compilazione neutra:
 | Materia | Diritto amministrativo |
 | Criterio decisivo | Funzione |
 | Mia risposta sbagliata | Li ho trattati come sinonimi |
-| Differenza corretta | A prepara la decisione, B produce l'effetto finale |
-| Frase pronta | "La distinzione centrale riguarda la funzione nel procedimento." |
+| Differenza corretta | A prepara la decisione, B produce l’effetto finale |
+| Frase pronta | “La distinzione centrale riguarda la funzione nel procedimento.” |
 | Prossimo ripasso | Entro 48 ore |
 | Quiz o domanda orale collegata | Domanda di differenza da 60 secondi |
 
@@ -322,9 +334,11 @@ Se la scheda serve solo a conservare appunti, non è ancora una scheda operativa
 
 ![Caso guidato di confronto sintetico e pertinente](../assets/chapter-44/07-caso-confronto.png)
 
+*Figura 44.7 - Caso guidato di confronto sintetico e pertinente.*
+
 Elena sta preparando una prova scritta. La traccia dice:
 
-> "Indicare la differenza tra due istituti affini, evidenziandone funzione ed effetti."
+> “Indicare la differenza tra due istituti affini, evidenziandone funzione ed effetti.”
 
 Elena conosce entrambi. Scrive prima una definizione lunga del primo, poi una definizione lunga del secondo. La risposta è corretta nei pezzi, ma debole nel confronto.
 
@@ -347,7 +361,7 @@ Elena riscrive così:
 2. differenza 1: funzione;
 3. differenza 2: presupposti;
 4. differenza 3: effetti;
-5. chiusura: la distinzione centrale evita di applicare all'uno la disciplina dell'altro.
+5. chiusura: la distinzione centrale evita di applicare all’uno la disciplina dell’altro.
 
 La risposta diventa più breve e più forte.
 
@@ -396,7 +410,7 @@ Le risposte specifiche vanno sempre verificate nei capitoli di materia, nelle so
 
 ## Errore tipico
 
-L'errore tipico è rispondere con due monologhi.
+L’errore tipico è rispondere con due monologhi.
 
 Il candidato scrive:
 
@@ -459,9 +473,3 @@ Se riesci a produrre tutte e tre, la distinzione sta diventando operativa.
 - [[books/il-metodo-bando/chapters/schede-operative-trasformare-studio-ed-errori-in-risposte]]
 - [[books/il-metodo-bando/chapters/diario-degli-errori]]
 - [[books/il-metodo-bando/chapters/banca-dati-ufficiale-studiarla-senza-memorizzare-male]]
-
-## Fonti e note di revisione
-
-Questo capitolo usa fonti consolidate interne su risposta sintetica, schema orale, schede operative, prove concorsuali, parole chiave, apprendimento efficace, strategia di punteggio e checklist operative.
-
-Prima della pubblicazione finale, le coppie di istituti elencate come esempi devono essere verificate nei capitoli di materia e, quando necessario, nelle fonti ufficiali aggiornate. Il capitolo non è una tavola normativa esaustiva: è un laboratorio di metodo per costruire confronti corretti e verificabili.

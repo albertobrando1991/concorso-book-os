@@ -29,7 +29,7 @@ last_compiled_from: ["sources/struttura-madre-il-metodo-bando.md","topics/metodo
 ## Promessa editoriale
 Questo libro non è una semplice raccolta di quiz e non è un manuale legato a un solo concorso. È un sistema di preparazione universale: insegna a leggere il bando, costruire priorità, studiare il nucleo comune, allenarsi sugli output e riutilizzare il capitale di studio da un concorso all'altro.
 
-Il volume principale contiene metodo, materie comuni essenziali e preparazione alle prove. Il [[books/il-metodo-bando/ricettario-digitale|Ricettario operativo digitale]] raccoglie i capitoli 25-47 gia scritti come moduli di applicazione avanzata: protocolli, schede, casi, checklist, simulazioni e laboratori collegati al libro. I [[books/moduli/architettura-moduli-specialistici|moduli specialistici]] sono percorsi separati per famiglia concorsuale, lavorabili dalla dashboard come libri autonomi.
+Il volume principale contiene metodo, materie comuni essenziali e preparazione alle prove. Il [[books/il-metodo-bando/ricettario-digitale|Ricettario operativo digitale]] raccoglie i moduli R1-R23 come applicazione avanzata: protocolli, schede, casi, checklist, simulazioni e laboratori collegati al libro. I [[books/moduli/architettura-moduli-specialistici|moduli specialistici]] sono percorsi separati per famiglia concorsuale, lavorabili dalla dashboard come libri autonomi.
 
 ## Struttura madre
 - [[books/il-metodo-bando/struttura-madre|Struttura madre completa]]
@@ -84,6 +84,9 @@ FM6. [[books/il-metodo-bando/front-matter/06-indice|Indice]]
 23. [[books/il-metodo-bando/chapters/diario-degli-errori|Il diario degli errori]]
 24. [[books/il-metodo-bando/chapters/checklist-operative|Checklist operative]]
 
+### Conclusione
+[[books/il-metodo-bando/chapters/conclusione|Il metodo che resta dopo il libro]]
+
 ### Appendici
 A. [[books/il-metodo-bando/chapters/appendice-a-glossario-essenziale-pa|Glossario essenziale della PA]]
 B. [[books/il-metodo-bando/chapters/appendice-b-100-parole-chiave-concorsi|Le 100 parole chiave dei concorsi pubblici]]
@@ -94,31 +97,31 @@ F. [[books/il-metodo-bando/chapters/appendice-f-matrice-materie-profili|Matrice 
 
 ## Ricettario operativo digitale
 
-I capitoli 25-47 restano materiali gia scritti e vengono pubblicati come [[books/il-metodo-bando/ricettario-digitale|Ricettario operativo digitale]] collegato al volume principale. Non sono parte del corpo cartaceo principale.
+I moduli R1-R23 restano materiali gia scritti e vengono pubblicati come [[books/il-metodo-bando/ricettario-digitale|Ricettario operativo digitale]] collegato al volume principale. Non sono parte del corpo cartaceo principale e non condividono la numerazione dei capitoli 1-24.
 
-25. [[books/il-metodo-bando/chapters/aggiornare-il-metodo-dopo-il-libro|Aggiornare il metodo dopo il libro]] *(R1 - protocollo aggiornamenti)*
-26. [[books/il-metodo-bando/chapters/trasformare-ogni-concorso-in-capitale-di-studio|Trasformare ogni concorso in capitale di studio]] *(R2 - scheda capitale di studio)*
-27. [[books/il-metodo-bando/chapters/gestire-concorsi-paralleli-senza-dispersersi|Gestire concorsi paralleli senza disperdersi]] *(R3 - planner concorsi paralleli)*
-28. [[books/il-metodo-bando/chapters/usare-il-digitale-senza-perdere-il-metodo|Usare il digitale senza perdere il metodo]] *(R4 - protocollo digitale)*
-29. [[books/il-metodo-bando/chapters/reggere-la-preparazione-energia-ansia-continuita|Reggere la preparazione: energia, ansia e continuita]] *(R5 - sostenibilita)*
-30. [[books/il-metodo-bando/chapters/dopo-la-prova-esiti-graduatoria-prossima-mossa|Dopo la prova: esiti, graduatoria e prossima mossa]] *(R6 - checklist post-prova)*
-31. [[books/il-metodo-bando/chapters/prendere-servizio-nella-pa-dal-concorso-al-ruolo|Prendere servizio nella PA: dal concorso al ruolo]] *(R7 - dalla graduatoria al ruolo)*
-32. [[books/il-metodo-bando/chapters/il-tuo-sistema-bando-personale|Il tuo sistema BANDO personale]] *(R8 - cruscotto personale)*
-33. [[books/il-metodo-bando/chapters/manuali-corsi-banche-dati-scegliere-senza-disperdersi|Manuali, corsi e banche dati: scegliere senza disperdersi]] *(R9 - scorecard materiali)*
-34. [[books/il-metodo-bando/chapters/simulazioni-concorsuali-dalla-preparazione-alla-prova|Simulazioni concorsuali: dalla preparazione alla prova]] *(R10 - laboratorio simulazioni)*
-35. [[books/il-metodo-bando/chapters/schede-operative-trasformare-studio-ed-errori-in-risposte|Schede operative: trasformare studio ed errori in risposte]] *(R11 - template compilabili)*
-36. [[books/il-metodo-bando/chapters/tagliare-senza-perdere-punti-priorita-studio-alta-resa|Tagliare senza perdere punti: priorita e studio ad alta resa]] *(R12 - priorita ad alta resa)*
-37. [[books/il-metodo-bando/chapters/strategia-di-punteggio-soglie-tempo-rischio-prova|Strategia di punteggio: soglie, tempo e rischio nella prova]] *(R13 - tempo, soglie e rischio)*
-38. [[books/il-metodo-bando/chapters/giorno-della-prova-routine-logistica-lucidita-operativa|Il giorno della prova: routine, logistica e lucidita operativa]] *(R14 - checklist giorno prova)*
-39. [[books/il-metodo-bando/chapters/tra-una-prova-e-l-altra-ripianificare-senza-ricominciare|Tra una prova e l'altra: ripianificare senza ricominciare]] *(R15 - planner tra prove)*
-40. [[books/il-metodo-bando/chapters/ripasso-finale-consolidare-senza-saturarsi|Ripasso finale: consolidare senza saturarsi]] *(R16 - protocollo ultimo ciclo)*
-41. [[books/il-metodo-bando/chapters/caso-completo-bando-dal-bando-alla-prova|Caso completo BANDO: dal bando alla prova]] *(R17 - caso-laboratorio)*
-42. [[books/il-metodo-bando/chapters/banca-dati-ufficiale-studiarla-senza-memorizzare-male|Banca dati ufficiale: studiarla senza memorizzare male]] *(R18 - protocollo banca dati)*
-43. [[books/il-metodo-bando/chapters/risposta-sintetica-scrivere-poco-dire-tutto|Risposta sintetica: scrivere poco, dire tutto]] *(R19 - laboratorio risposta breve)*
-44. [[books/il-metodo-bando/chapters/confrontare-istituti-simili-differenze-che-fanno-punti|Confrontare istituti simili: differenze che fanno punti]] *(R20 - scheda confronto)*
-45. [[books/il-metodo-bando/chapters/collegare-le-materie-dal-programma-alla-risposta-integrata|Collegare le materie: dal programma alla risposta integrata]] *(R21 - risposta integrata)*
-46. [[books/il-metodo-bando/chapters/domande-impreviste-rispondere-senza-inventare|Domande impreviste: rispondere senza inventare]] *(R22 - protocollo orale)*
-47. [[books/il-metodo-bando/chapters/revisione-finale-controllare-prima-di-consegnare|Revisione finale: controllare prima di consegnare]] *(R23 - checklist 5P)*
+R1. [[books/il-metodo-bando/chapters/aggiornare-il-metodo-dopo-il-libro|Aggiornare il metodo dopo il libro]] *(protocollo aggiornamenti)*
+R2. [[books/il-metodo-bando/chapters/trasformare-ogni-concorso-in-capitale-di-studio|Trasformare ogni concorso in capitale di studio]] *(scheda capitale di studio)*
+R3. [[books/il-metodo-bando/chapters/gestire-concorsi-paralleli-senza-dispersersi|Gestire concorsi paralleli senza disperdersi]] *(planner concorsi paralleli)*
+R4. [[books/il-metodo-bando/chapters/usare-il-digitale-senza-perdere-il-metodo|Usare il digitale senza perdere il metodo]] *(protocollo digitale)*
+R5. [[books/il-metodo-bando/chapters/reggere-la-preparazione-energia-ansia-continuita|Reggere la preparazione: energia, ansia e continuita]] *(sostenibilita)*
+R6. [[books/il-metodo-bando/chapters/dopo-la-prova-esiti-graduatoria-prossima-mossa|Dopo la prova: esiti, graduatoria e prossima mossa]] *(checklist post-prova)*
+R7. [[books/il-metodo-bando/chapters/prendere-servizio-nella-pa-dal-concorso-al-ruolo|Prendere servizio nella PA: dal concorso al ruolo]] *(dalla graduatoria al ruolo)*
+R8. [[books/il-metodo-bando/chapters/il-tuo-sistema-bando-personale|Il tuo sistema BANDO personale]] *(cruscotto personale)*
+R9. [[books/il-metodo-bando/chapters/manuali-corsi-banche-dati-scegliere-senza-disperdersi|Manuali, corsi e banche dati: scegliere senza disperdersi]] *(scorecard materiali)*
+R10. [[books/il-metodo-bando/chapters/simulazioni-concorsuali-dalla-preparazione-alla-prova|Simulazioni concorsuali: dalla preparazione alla prova]] *(laboratorio simulazioni)*
+R11. [[books/il-metodo-bando/chapters/schede-operative-trasformare-studio-ed-errori-in-risposte|Schede operative: trasformare studio ed errori in risposte]] *(template compilabili)*
+R12. [[books/il-metodo-bando/chapters/tagliare-senza-perdere-punti-priorita-studio-alta-resa|Tagliare senza perdere punti: priorita e studio ad alta resa]] *(priorita ad alta resa)*
+R13. [[books/il-metodo-bando/chapters/strategia-di-punteggio-soglie-tempo-rischio-prova|Strategia di punteggio: soglie, tempo e rischio nella prova]] *(tempo, soglie e rischio)*
+R14. [[books/il-metodo-bando/chapters/giorno-della-prova-routine-logistica-lucidita-operativa|Il giorno della prova: routine, logistica e lucidita operativa]] *(checklist giorno prova)*
+R15. [[books/il-metodo-bando/chapters/tra-una-prova-e-l-altra-ripianificare-senza-ricominciare|Tra una prova e l'altra: ripianificare senza ricominciare]] *(planner tra prove)*
+R16. [[books/il-metodo-bando/chapters/ripasso-finale-consolidare-senza-saturarsi|Ripasso finale: consolidare senza saturarsi]] *(protocollo ultimo ciclo)*
+R17. [[books/il-metodo-bando/chapters/caso-completo-bando-dal-bando-alla-prova|Caso completo BANDO: dal bando alla prova]] *(caso-laboratorio)*
+R18. [[books/il-metodo-bando/chapters/banca-dati-ufficiale-studiarla-senza-memorizzare-male|Banca dati ufficiale: studiarla senza memorizzare male]] *(protocollo banca dati)*
+R19. [[books/il-metodo-bando/chapters/risposta-sintetica-scrivere-poco-dire-tutto|Risposta sintetica: scrivere poco, dire tutto]] *(laboratorio risposta breve)*
+R20. [[books/il-metodo-bando/chapters/confrontare-istituti-simili-differenze-che-fanno-punti|Confrontare istituti simili: differenze che fanno punti]] *(scheda confronto)*
+R21. [[books/il-metodo-bando/chapters/collegare-le-materie-dal-programma-alla-risposta-integrata|Collegare le materie: dal programma alla risposta integrata]] *(risposta integrata)*
+R22. [[books/il-metodo-bando/chapters/domande-impreviste-rispondere-senza-inventare|Domande impreviste: rispondere senza inventare]] *(protocollo orale)*
+R23. [[books/il-metodo-bando/chapters/revisione-finale-controllare-prima-di-consegnare|Revisione finale: controllare prima di consegnare]] *(checklist 5P)*
 
 ## Moduli specialistici
 

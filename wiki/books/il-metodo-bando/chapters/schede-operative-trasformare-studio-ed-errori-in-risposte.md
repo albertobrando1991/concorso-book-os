@@ -20,7 +20,7 @@ draft_stage: revised-editorial-draft
 last_compiled_from: ["sources/schede-operative-studio-metodo-bando.md", "topics/schede-operative-studio.md", "topics/metodo-bando.md", "topics/metodo-di-studio.md", "topics/diario-errori.md", "topics/risposta-concorsuale.md", "topics/capitale-studio-riutilizzabile.md", "topics/simulazioni-concorsuali.md"]
 ---
 
-# Capitolo 35 - Schede operative: trasformare studio ed errori in risposte
+# R11 - Schede operative: trasformare studio ed errori in risposte
 
 Molti candidati producono appunti.
 
@@ -62,6 +62,8 @@ La regola è questa:
 
 ![Ciclo operativo della scheda: fonte, sintesi, richiamo, risposta e feedback](../assets/chapter-35/01-mappa-scheda-operativa.png)
 
+*Figura 35.1 - Ciclo operativo della scheda: fonte, sintesi, richiamo, risposta e feedback.*
+
 Ogni scheda deve stare dentro il Metodo BANDO.
 
 | Fase | Domanda | Effetto sulla scheda |
@@ -95,7 +97,7 @@ Non devi eliminare appunti, riassunti o flashcard.
 
 Devi sapere quando usarli.
 
-L'appunto nasce durante lo studio.
+L’appunto nasce durante lo studio.
 
 Il riassunto riduce volume.
 
@@ -117,6 +119,8 @@ La scheda è il ponte tra studio e prestazione.
 ## La struttura minima
 
 ![Anatomia visiva di una scheda di studio essenziale](../assets/chapter-35/02-struttura-minima-scheda.png)
+
+*Figura 35.2 - Anatomia visiva di una scheda di studio essenziale.*
 
 Una scheda operativa deve stare, se possibile, in una pagina.
 
@@ -146,6 +150,8 @@ Se non ha uso in prova, non sai quando riaprirla.
 
 ![Regola visiva che collega un concetto, una distinzione e un output utile](../assets/chapter-35/03-regola-uno-uno-uno.png)
 
+*Figura 35.3 - Regola visiva che collega un concetto, una distinzione e un output utile.*
+
 Per evitare schede infinite, usa la regola 1-1-1:
 
 - una scheda;
@@ -154,15 +160,15 @@ Per evitare schede infinite, usa la regola 1-1-1:
 
 Esempio:
 
-Non scrivere una scheda su "trasparenza, anticorruzione e privacy".
+Non scrivere una scheda su “trasparenza, anticorruzione e privacy”.
 
 È troppo vasta.
 
 Scrivi invece:
 
-- "qual è la differenza tra accesso civico semplice e generalizzato?";
-- "perché trasparenza non significa pubblicare tutto?";
-- "Come rispondo a un caso con dati personali e richiesta di accesso?";
+- “qual è la differenza tra accesso civico semplice e generalizzato?”;
+- “perché trasparenza non significa pubblicare tutto?”;
+- “Come rispondo a un caso con dati personali e richiesta di accesso?”;
 
 Ogni scheda deve avere un bersaglio.
 
@@ -174,6 +180,8 @@ Le schede mirate fanno rispondere meglio.
 
 ![Schema per trasformare un concetto in richiamo attivo e risposta](../assets/chapter-35/04-scheda-concetto.png)
 
+*Figura 35.4 - Schema per trasformare un concetto in richiamo attivo e risposta.*
+
 La scheda di concetto serve per definizioni, funzioni e parole chiave.
 
 Usala quando un tema torna spesso e devi spiegarlo in modo rapido.
@@ -182,7 +190,7 @@ Usala quando un tema torna spesso e devi spiegarlo in modo rapido.
 
 | Campo | Risposta |
 |---|---|
-| Domanda guida | Che cos'è...? |
+| Domanda guida | Che cos’è...? |
 | Definizione breve | |
 | Funzione | a cosa serve nella PA o nella prova |
 | Parole chiave | 3-5 termini essenziali |
@@ -199,7 +207,7 @@ Poi controlla:
 - ho definito?
 - ho spiegato la funzione?
 - ho fatto un esempio?
-- ho evitato l'errore tipico?
+- ho evitato l’errore tipico?
 
 Se manca uno di questi passaggi, non aggiungere testo. Correggi la scheda.
 
@@ -240,6 +248,8 @@ Se devi citare un articolo in prova, cita solo ciò che conosci con sicurezza. S
 ## Scheda di procedimento
 
 ![Flusso essenziale per sintetizzare e richiamare un procedimento](../assets/chapter-35/05-scheda-procedimento.png)
+
+*Figura 35.5 - Flusso essenziale per sintetizzare e richiamare un procedimento.*
 
 La scheda di procedimento serve quando il tema ha fasi, soggetti, documenti, termini o responsabilità.
 
@@ -332,13 +342,15 @@ Usala per controllare ordine e completezza.
 
 ## Scheda di errore
 
-![Conversione dell'errore in una correzione riutilizzabile](../assets/chapter-35/06-scheda-errore.png)
+![Conversione dell’errore in una correzione riutilizzabile](../assets/chapter-35/06-scheda-errore.png)
+
+*Figura 35.6 - Conversione dell’errore in una correzione riutilizzabile.*
 
 La scheda di errore nasce dal Diario.
 
 Non la creare per ogni errore.
 
-Creala quando l'errore si ripete, costa punti o rivela una confusione profonda.
+Creala quando l’errore si ripete, costa punti o rivela una confusione profonda.
 
 ### Modello
 
@@ -402,17 +414,19 @@ Segui questo percorso.
 
 La scheda migliore spesso nasce dopo il primo errore, non prima.
 
-Prima dell'errore pensi di sapere.
+Prima dell’errore pensi di sapere.
 
-Dopo l'errore sai che cosa manca.
+Dopo l’errore sai che cosa manca.
 
 ## Quando aggiornare una scheda
 
 ![Ciclo di aggiornamento e archiviazione delle schede operative](../assets/chapter-35/07-ciclo-aggiornamento.png)
 
+*Figura 35.7 - Ciclo di aggiornamento e archiviazione delle schede operative.*
+
 Aggiorna una scheda se:
 
-- un nuovo bando cambia l'uso del tema;
+- un nuovo bando cambia l’uso del tema;
 - una simulazione mostra un errore ricorrente;
 - una risposta orale resta disordinata;
 - una norma o fonte va verificata;
@@ -430,7 +444,7 @@ Non deve diventare un manoscritto parallelo.
 
 Archivia una scheda quando:
 
-- duplica un'altra;
+- duplica un’altra;
 - non è collegata a nessun concorso;
 - non ha fonte;
 - non ha domanda;
@@ -459,7 +473,7 @@ Compila:
 | Campo | Risposta sintetica |
 |---|---|
 | Nucleo | sequenza ordinata con cui la PA arriva a una decisione |
-| Funzione | rendere l'azione amministrativa controllabile, partecipata e motivata |
+| Funzione | rendere l’azione amministrativa controllabile, partecipata e motivata |
 | Fasi | avvio, istruttoria, decisione, comunicazione, controlli |
 | Esempio | istanza del cittadino a un ufficio comunale |
 | Errore tipico | recitare fasi senza spiegare chi fa cosa |
@@ -473,7 +487,7 @@ Aggiorna la scheda:
 
 - aggiunge una frase di chiusura;
 - riduce le fasi a parole chiave;
-- inserisce "chi decide?" come domanda di controllo.
+- inserisce “chi decide?” come domanda di controllo.
 
 Dopo due giorni riprova.
 
@@ -501,15 +515,15 @@ Ha creato una scheda che corregge un output.
 
 **Domanda:** Se una scheda è molto completa, è automaticamente una buona scheda?
 
-**Risposta:** no. Una scheda troppo completa può diventare un riassunto passivo. Una buona scheda è proporzionata all'uso: contiene ciò che serve per rispondere, correggere un errore o preparare una simulazione. Se non ha domanda guida, errore tipico e verifica, può essere ordinata ma non operativa.
+**Risposta:** no. Una scheda troppo completa può diventare un riassunto passivo. Una buona scheda è proporzionata all’uso: contiene ciò che serve per rispondere, correggere un errore o preparare una simulazione. Se non ha domanda guida, errore tipico e verifica, può essere ordinata ma non operativa.
 
 ## Errore tipico
 
-L'errore tipico è trasformare ogni capitolo in una scheda.
+L’errore tipico è trasformare ogni capitolo in una scheda.
 
 Questo produce molte pagine, ma poco controllo.
 
-Il candidato forte crea schede quando c'è:
+Il candidato forte crea schede quando c’è:
 
 - un nucleo ad alta resa;
 - un errore ricorrente;
@@ -518,9 +532,9 @@ Il candidato forte crea schede quando c'è:
 - una simulazione da migliorare;
 - un output da allenare.
 
-Non chiederti: "ho riassunto tutto?"
+Non chiederti: “ho riassunto tutto?”
 
-Chiediti: "questa scheda mi fa rispondere meglio?"
+Chiediti: “questa scheda mi fa rispondere meglio?”
 
 ## Mini-esercizio
 
@@ -548,7 +562,7 @@ Poi trasformala in un output.
 | Caso | applico il concetto a una situazione |
 | Simulazione | inserisco il punto nella prossima prova |
 
-La scheda è finita solo quando l'hai provata.
+La scheda è finita solo quando l’hai provata.
 
 ## Checklist finale
 
@@ -557,7 +571,7 @@ Prima di salvare una scheda nel tuo sistema, controlla:
 - ha una domanda guida;
 - ha un nucleo centrale;
 - indica la fonte o il materiale di partenza;
-- spiega l'uso in prova;
+- spiega l’uso in prova;
 - contiene un esempio o mini-applicazione;
 - segnala un errore tipico;
 - prevede una verifica;
@@ -591,9 +605,3 @@ Se mancano domanda, errore e verifica, non è ancora una scheda operativa.
 - [[topics/prova-orale]]
 - [[topics/capitale-studio-riutilizzabile]]
 - [[topics/simulazioni-concorsuali]]
-
-## Note di review
-
-- La struttura madre originaria non prevedeva il Capitolo 35. Questo capitolo è un'estensione editoriale richiesta nel flusso di completamento del libro.
-- In revisione finale valutare se collocarlo dopo il Capitolo 13 o lasciarlo tra le estensioni finali, perché dialoga sia con il metodo di studio sia con il capitale riutilizzabile.
-- Verificare in impaginazione se i modelli di scheda debbano diventare pagine workbook autonome o restare nel capitolo.

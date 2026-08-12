@@ -29,4 +29,4 @@ Manuale-workbook per leggere il bando, costruire il piano, studiare le materie c
 
 ### Capitale Personale
 
-Manuale operativo per la preparazione autonoma, il ripasso e l'allenamento alle prove concorsuali.
+Manuale operativo per la preparazione autonoma, il ripasso e l’allenamento alle prove concorsuali.
