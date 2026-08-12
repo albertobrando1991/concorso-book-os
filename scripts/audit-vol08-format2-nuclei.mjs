@@ -55,8 +55,10 @@ const malformed = chapters.flatMap((chapter) => chapter.malformed)
 const prefixMismatches = chapters.flatMap((chapter) => chapter.nucleusIds.filter((id) => id.split("-")[2] !== chapter.number).map((id) => `${chapter.file}: ${id}`))
 const coverage = auditCoverageRows(matrixRows.filter((row) => row.status === 'completo'))
 const incompleteRows = matrixRows.filter((row) => !row.sources || !row.theoreticalCoverage || !row.application || !row.competitionOutput || !row.verification || !row.status || !row.normativeReview)
+const canonicalMatrix = extractBlock(fs.readFileSync(matrixPath, 'utf8'), matrixStart, matrixEnd)
 const invalidVerifiedEvidence = matrixRows.flatMap((row) => [row.theoreticalCoverage, row.application, row.competitionOutput].filter((value) => value?.startsWith('verified:') && !validEvidence(value)).map(() => row.nucleusId))
-const invalidDimensionStates = [...extractBlock(fs.readFileSync(matrixPath, 'utf8'), matrixStart, matrixEnd).matchAll(/\|[^\n]*✓\s+open:/g)].map((_, index) => `dimensione aperta con ✓ alla riga ${index + 1}`)
+const evidenceBindingFailures = validateEvidenceBindings(canonicalMatrix)
+const invalidDimensionStates = [...canonicalMatrix.matchAll(/✓\s*open:/g)].map((_, index) => `dimensione aperta con ✓ alla riga ${index + 1}`)
 const unvalidatedNumericQce = matrixRows.filter((row) => /(?:Q|C|E):\d+/.test(row.verification || ""))
 const genericEvidenceRows = matrixRows.filter((row) => /source_refs del capitolo|esempio, caso o applicazione nel nucleo|output tecnico o concorsuale del nucleo|verifica, caso o esercizio del capitolo/i.test(`${row.sources} ${row.application} ${row.competitionOutput} ${row.verification}`))
 const failures = [
@@ -77,6 +79,7 @@ const failures = [
   missingFromChapters.length ? `mancanti nei capitoli: ${missingFromChapters.join(", ")}` : "",
   missingFromIndex.length ? `mancanti nell'indice: ${missingFromIndex.join(", ")}` : "",
   incompleteRows.length ? `righe matrice incomplete: ${incompleteRows.map((row) => row.nucleusId).join(", ")}` : "",
+  evidenceBindingFailures.length ? `evidenze verified non legate al nucleo: ${evidenceBindingFailures.join(', ')}` : "",
   invalidVerifiedEvidence.length ? `evidenze verified troppo brevi o generiche: ${invalidVerifiedEvidence.join(', ')}` : "",
   invalidDimensionStates.length ? `dimensioni aperte marcate con spunta: ${invalidDimensionStates.join(', ')}` : "",
   unvalidatedNumericQce.length ? `Q/C/E numerici senza mapping atomico: ${unvalidatedNumericQce.map((row) => row.nucleusId).join(', ')}` : "",
@@ -107,7 +110,7 @@ function inspectChapter(file) {
   const matches = [...content.matchAll(/^## (N-TR01-\d{2}-\d{2}) \u00b7 (.+)$/gm)]
   const nucleusIds = matches.map((match) => match[1])
   const titles = new Map(matches.map((match) => [match[1], match[2].trim()]))
-  const sections = new Map(matches.map((match, index) => [match[1], content.slice(match.index + match[0].length, index + 1 < matches.length ? matches[index + 1].index : content.length).replace(/\s+/g, ' ').trim()]))
+  const sections = new Map(matches.map((match, index) => [match[1], content.slice(match.index + match[0].length, index + 1 < matches.length ? matches[index + 1].index : content.length).trim()]))
   const malformed = [...content.matchAll(/^## (N-[^\s\u00b7]+).*$/gm)].map((match) => match[1]).filter((id) => !/^N-TR01-\d{2}-\d{2}$/.test(id))
   const sourceRefs = [...((/^source_refs:\s*\[([^\]]*)\]/m.exec(content)?.[1] || '').matchAll(/["']([^"']+)["']/g))].map((match) => match[1])
   return { file, number, nucleusIds, titles, sections, sourceRefs, malformed, ...analyzeDidacticDensity(content) }
@@ -117,7 +120,6 @@ function writeCanonicalMatrix(chapterRows) {
     const title = chapter.titles.get(id) || 'Nucleo didattico'
     const source = manifest.chapters.find((item) => item.file === chapter.file)?.sourceRef || 'fonte non dichiarata'
     const evidence = atomicEvidence(chapter.sections.get(id), id, title)
-    const verificationCounts = countVerification(chapter.sections.get(id))
     const verification = 'open: attivita Q/C/E non attribuita al nucleo; review step 15'
     return `| \`${id}\` | Tutti i profili ICT | Capitolo ${chapter.number} | ${escape(title)} | alta, da allineare al bando | ${escape(`open: ${source}; attribuzione al nucleo da riesaminare allo step 15`)} | cap. ${chapter.number}, ${id} | ${escape(stateEvidence(evidence.theory))} | ${escape(stateEvidence(evidence.application))} | ${escape(stateEvidence(evidence.output))} | ${escape(verification)} | parziale | attribuzione della fonte al nucleo e review normativa aperte allo step 15 |  n/a |`
   }))
@@ -132,7 +134,7 @@ function writeCanonicalMatrix(chapterRows) {
 
 function atomicEvidence(section, id, title) {
   const text = section || ''
-  const sentence = (pattern) => { const found = text.match(new RegExp(`[^.]*${pattern}[^.]*\\.`, 'i'))?.[0]; const value = (found || '').replace(/[|\r\n]+/g, ' ').replace(/\s+/g, ' ').trim(); return value.length >= 20 ? value : '' }
+  const sentence = (pattern) => { const found = text.match(new RegExp(`(?:^|\\n)(?!\\|)[^.\\n]*${pattern}[^.\\n]*\\.`, 'i'))?.[0]; const value = (found || '').replace(/[|\r\n]+/g, ' ').replace(/\s+/g, ' ').trim(); return value.length >= 20 ? value : '' }
   const verification = sentence('Come lo chiede la commissione|In prova|domanda|quesito')
   return {
     theory: sentence('definisce|è |sono |indica|consiste'),
@@ -174,6 +176,22 @@ function extractBlock(content, start, end) {
   return match[1]
 }
 
+function validateEvidenceBindings(block) {
+  const failures = []
+  for (const line of block.split(/\r?\n/)) {
+    const id = /`(N-TR01-\d{2}-\d{2})`/.exec(line)?.[1]
+    if (!id) continue
+    const chapter = chapters.find((item) => item.nucleusIds.includes(id))
+    const section = chapter?.sections.get(id) || ''
+    for (const match of line.matchAll(/verified:\s*([^|]+)/g)) {
+      const evidence = match[1].trim()
+      if (!validEvidence(`verified: ${evidence}`) || !normalizeEvidence(section).includes(normalizeEvidence(evidence))) failures.push(id)
+    }
+  }
+  return [...new Set(failures)]
+}
+function normalizeEvidence(value) { return value.replace(/[\`*_]/g, '').replace(/\s+/g, ' ').trim().toLowerCase() }
+
 function validEvidence(value) { const text = value.replace(/^verified:\s*/, '').trim(); return text.length >= 20 && /[.!?;:]$/.test(text) && !/^(breve|n\/a|non osservato|placeholder)$/i.test(text) }
 function normalizeNucleusId(value) { return value.replace(/`/g, "").trim() }
 function duplicates(values) { const seen = new Set(); const repeated = new Set(); for (const value of values) seen.has(value) ? repeated.add(value) : seen.add(value); return [...repeated].sort() }
@@ -198,4 +216,3 @@ function render(result, chapterRows, rows, coverageResult) {
     "Questo audit riconcilia struttura e tracciabilità didattica. Non dichiara conclusi gli audit specialistici, la revisione trasversale, l'impaginazione o la conferma umana.", ""
   ].join("\n")
 }
-function countVerification(section) { const text = section || ''; return { quiz: (text.match(/\bquiz\b/gi) || []).length, case: (text.match(/\bcaso\b/gi) || []).length, exercise: (text.match(/\besercizio\b/gi) || []).length } }

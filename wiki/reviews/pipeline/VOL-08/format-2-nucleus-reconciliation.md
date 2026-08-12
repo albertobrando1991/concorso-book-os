@@ -34,9 +34,3 @@
 ## Limiti
 
 Questo audit riconcilia struttura e tracciabilità didattica. Non dichiara conclusi gli audit specialistici, la revisione trasversale, l'impaginazione o la conferma umana.
-
-## Fix 3 — semantica delle evidenze
-
-- Le dimensioni senza riscontro sono marcate ✗ open con review allo step 15: nessuna spunta equivale a completamento.
-- Gli estratti erified devono essere normalizzati, leggibili e di almeno 20 caratteri significativi; altrimenti restano open.
-- I Q/C/E restano non attribuiti per nucleo finché lo step 15 non produce una mappatura strutturata verificabile; i totali per capitolo restano nel prospetto sopra.
