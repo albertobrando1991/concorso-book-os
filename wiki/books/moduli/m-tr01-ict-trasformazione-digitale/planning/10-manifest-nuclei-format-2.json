@@ -342,6 +342,432 @@
       "checkedAt": "2026-08-12",
       "cutoff": "2026-08-12",
       "dossier": ".superpowers/sdd/2026-08-05-vol-08-format-2-retrofit/step15-batch-a.md"
+    },
+    {
+      "nucleusId": "N-TR01-05-01",
+      "evidenceQuote": "Una rete collega interfacce e sistemi affinché possano scambiare dati secondo regole condivise. I **protocolli** definiscono formato dei messaggi, significato dei campi e comportamento dei partecipanti.",
+      "sourceLocation": "chapters/05-reti-sistemi-operativi-infrastrutture.md#n-tr01-05-01",
+      "sourceRef": "sources/reti-sistemi-infrastrutture-fonti-tecniche",
+      "sourceUrls": [
+        "https://www.rfc-editor.org/rfc/rfc9110"
+      ],
+      "reviewer": "codex-step15-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12",
+      "cutoff": "2026-08-12",
+      "dossier": ".superpowers/sdd/2026-08-05-vol-08-format-2-retrofit/step15-batch-b.md"
+    },
+    {
+      "nucleusId": "N-TR01-05-02",
+      "evidenceQuote": "Un indirizzo IP identifica un’interfaccia nel contesto della rete. Il prefisso indica la parte usata per individuare la rete; i bit restanti distinguono le interfacce all’interno di quella rete.",
+      "sourceLocation": "chapters/05-reti-sistemi-operativi-infrastrutture.md#n-tr01-05-02",
+      "sourceRef": "sources/reti-sistemi-infrastrutture-fonti-tecniche",
+      "sourceUrls": [
+        "https://www.rfc-editor.org/rfc/rfc4632"
+      ],
+      "reviewer": "codex-step15-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12",
+      "cutoff": "2026-08-12",
+      "dossier": ".superpowers/sdd/2026-08-05-vol-08-format-2-retrofit/step15-batch-b.md"
+    },
+    {
+      "nucleusId": "N-TR01-05-03",
+      "evidenceQuote": "L’etichetta “più veloce” non basta a descrivere UDP: contano rete, carico, dimensione dei messaggi e comportamento applicativo. TCP è adatto quando serve un flusso affidabile; UDP quando l’applicazione preferisce datagrammi, latenza contenuta o una gestione autonoma delle perdite.",
+      "sourceLocation": "chapters/05-reti-sistemi-operativi-infrastrutture.md#n-tr01-05-03",
+      "sourceRef": "sources/reti-sistemi-infrastrutture-fonti-tecniche",
+      "sourceUrls": [
+        "https://www.rfc-editor.org/rfc/rfc9293",
+        "https://www.rfc-editor.org/rfc/rfc768"
+      ],
+      "reviewer": "codex-step15-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12",
+      "cutoff": "2026-08-12",
+      "dossier": ".superpowers/sdd/2026-08-05-vol-08-format-2-retrofit/step15-batch-b.md"
+    },
+    {
+      "nucleusId": "N-TR01-05-04",
+      "evidenceQuote": "Il sistema operativo gestisce CPU, memoria, dispositivi, file, identità e comunicazioni. Il **kernel** opera con privilegi elevati e media l’accesso alle risorse. Le applicazioni lavorano nello spazio utente e richiedono servizi al kernel attraverso interfacce definite.",
+      "sourceLocation": "chapters/05-reti-sistemi-operativi-infrastrutture.md#n-tr01-05-04",
+      "sourceRef": "sources/reti-sistemi-infrastrutture-fonti-tecniche",
+      "sourceUrls": [
+        "https://docs.kernel.org/"
+      ],
+      "reviewer": "codex-step15-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12",
+      "cutoff": "2026-08-12",
+      "dossier": ".superpowers/sdd/2026-08-05-vol-08-format-2-retrofit/step15-batch-b.md"
+    },
+    {
+      "nucleusId": "N-TR01-05-05",
+      "evidenceQuote": "La **memoria virtuale** assegna a ogni processo uno spazio di indirizzamento. Il sistema traduce indirizzi virtuali in memoria fisica mediante strutture come le tabelle delle pagine. Le pagine possono contenere memoria anonima, codice o dati di file.",
+      "sourceLocation": "chapters/05-reti-sistemi-operativi-infrastrutture.md#n-tr01-05-05",
+      "sourceRef": "sources/reti-sistemi-infrastrutture-fonti-tecniche",
+      "sourceUrls": [
+        "https://docs.kernel.org/mm/index.html"
+      ],
+      "reviewer": "codex-step15-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12",
+      "cutoff": "2026-08-12",
+      "dossier": ".superpowers/sdd/2026-08-05-vol-08-format-2-retrofit/step15-batch-b.md"
+    },
+    {
+      "nucleusId": "N-TR01-05-06",
+      "evidenceQuote": "La **disponibilità** descrive la capacità di offrire il servizio quando richiesto. A determinarla concorre l’intera catena: alimentazione, rete, calcolo, storage, applicazione, dati e dipendenze esterne.",
+      "sourceLocation": "chapters/05-reti-sistemi-operativi-infrastrutture.md#n-tr01-05-06",
+      "sourceRef": "sources/reti-sistemi-infrastrutture-fonti-tecniche",
+      "sourceUrls": [
+        "https://csrc.nist.gov/pubs/sp/800/34/r1/final"
+      ],
+      "reviewer": "codex-step15-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12",
+      "cutoff": "2026-08-12",
+      "dossier": ".superpowers/sdd/2026-08-05-vol-08-format-2-retrofit/step15-batch-b.md"
+    },
+    {
+      "nucleusId": "N-TR01-06-01",
+      "evidenceQuote": "Un **bisogno** descrive il risultato atteso da un soggetto. Un **requisito** traduce quel bisogno in una proprietà o capacità che il sistema deve possedere. Un **vincolo** limita le soluzioni ammissibili: può derivare da norme, standard, tecnologie già presenti, tempi, budget o organizzazione. Il **criterio di accettazione** indica invece una condizione osservabile con cui stabilire se il requisito è soddisfatto.",
+      "sourceLocation": "chapters/06-ingegneria-software-api-interoperabilita-pa.md#n-tr01-06-01",
+      "sourceRef": "sources/ingegneria-software-api-interoperabilita-fonti-tecniche",
+      "sourceUrls": [
+        "https://www.computer.org/education/bodies-of-knowledge/software-engineering"
+      ],
+      "reviewer": "codex-step15-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12",
+      "cutoff": "2026-08-12",
+      "dossier": ".superpowers/sdd/2026-08-05-vol-08-format-2-retrofit/step15-batch-b.md"
+    },
+    {
+      "nucleusId": "N-TR01-06-02",
+      "evidenceQuote": "L’**architettura software** descrive elementi significativi, responsabilità, relazioni e decisioni che condizionano l’evoluzione del sistema. Un **componente** racchiude una responsabilità; un’**interfaccia** espone modalità di interazione; una **dipendenza** indica che un elemento necessita di un altro.",
+      "sourceLocation": "chapters/06-ingegneria-software-api-interoperabilita-pa.md#n-tr01-06-02",
+      "sourceRef": "sources/ingegneria-software-api-interoperabilita-fonti-tecniche",
+      "sourceUrls": [
+        "https://www.iso.org/standard/74393.html"
+      ],
+      "reviewer": "codex-step15-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12",
+      "cutoff": "2026-08-12",
+      "dossier": ".superpowers/sdd/2026-08-05-vol-08-format-2-retrofit/step15-batch-b.md"
+    },
+    {
+      "nucleusId": "N-TR01-06-03",
+      "evidenceQuote": "La **verifica** controlla che il prodotto sia costruito secondo specifiche e progetto. La **validazione** controlla che il prodotto risponda al bisogno d’uso.",
+      "sourceLocation": "chapters/06-ingegneria-software-api-interoperabilita-pa.md#n-tr01-06-03",
+      "sourceRef": "sources/ingegneria-software-api-interoperabilita-fonti-tecniche",
+      "sourceUrls": [
+        "https://www.computer.org/education/bodies-of-knowledge/software-engineering"
+      ],
+      "reviewer": "codex-step15-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12",
+      "cutoff": "2026-08-12",
+      "dossier": ".superpowers/sdd/2026-08-05-vol-08-format-2-retrofit/step15-batch-b.md"
+    },
+    {
+      "nucleusId": "N-TR01-06-04",
+      "evidenceQuote": "Un’**API** definisce come un sistema può richiedere capacità o dati a un altro. Il contratto comprende operazioni, indirizzamento, parametri, rappresentazioni, precondizioni, risposte, errori e vincoli di utilizzo. L’implementazione interna può cambiare senza rompere i fruitori finché il comportamento promesso resta compatibile.",
+      "sourceLocation": "chapters/06-ingegneria-software-api-interoperabilita-pa.md#n-tr01-06-04",
+      "sourceRef": "sources/ingegneria-software-api-interoperabilita-fonti-tecniche",
+      "sourceUrls": [
+        "https://www.rfc-editor.org/rfc/rfc9110",
+        "https://spec.openapis.org/oas/latest.html"
+      ],
+      "reviewer": "codex-step15-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12",
+      "cutoff": "2026-08-12",
+      "dossier": ".superpowers/sdd/2026-08-05-vol-08-format-2-retrofit/step15-batch-b.md"
+    },
+    {
+      "nucleusId": "N-TR01-06-05",
+      "evidenceQuote": "Una modifica è **compatibile** quando i fruitori conformi al contratto precedente possono continuare a funzionare. Aggiungere un campo opzionale può essere compatibile se i client ignorano elementi sconosciuti; rinominare un campo obbligatorio o cambiarne il tipo può rompere il contratto.",
+      "sourceLocation": "chapters/06-ingegneria-software-api-interoperabilita-pa.md#n-tr01-06-05",
+      "sourceRef": "sources/ingegneria-software-api-interoperabilita-fonti-tecniche",
+      "sourceUrls": [
+        "https://spec.openapis.org/oas/latest.html"
+      ],
+      "reviewer": "codex-step15-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12",
+      "cutoff": "2026-08-12",
+      "dossier": ".superpowers/sdd/2026-08-05-vol-08-format-2-retrofit/step15-batch-b.md"
+    },
+    {
+      "nucleusId": "N-TR01-06-06",
+      "evidenceQuote": "L’interoperabilità consente a organizzazioni e sistemi differenti di scambiare informazioni e usarle correttamente. Può essere letta sui livelli **giuridico**, **organizzativo**, **semantico** e **tecnico**.",
+      "sourceLocation": "chapters/06-ingegneria-software-api-interoperabilita-pa.md#n-tr01-06-06",
+      "sourceRef": "sources/ingegneria-software-api-interoperabilita-fonti-tecniche",
+      "sourceUrls": [
+        "https://www.agid.gov.it/sites/agid/files/2025-06/Linee_guida_Infrastruttura_Interoperabilita_PDND_v2_maggio_2025.pdf"
+      ],
+      "reviewer": "codex-step15-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12",
+      "cutoff": "2026-08-12",
+      "dossier": ".superpowers/sdd/2026-08-05-vol-08-format-2-retrofit/step15-batch-b.md"
+    },
+    {
+      "nucleusId": "N-TR01-07-01",
+      "evidenceQuote": "Il modello cloud va letto come un insieme di caratteristiche operative e di confini di responsabilità. La risposta utile non si limita alle sigle: collega servizio, dati, soggetti coinvolti e conseguenze per l'ente.",
+      "sourceLocation": "chapters/07-cloud-pa-virtualizzazione-container-devops.md#n-tr01-07-01",
+      "sourceRef": "sources/cloud-virtualizzazione-container-devops-continuita-fonti-primarie",
+      "sourceUrls": [
+        "https://csrc.nist.gov/pubs/sp/800/145/final"
+      ],
+      "reviewer": "codex-step15-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12",
+      "cutoff": "2026-08-12",
+      "dossier": ".superpowers/sdd/2026-08-05-vol-08-format-2-retrofit/step15-batch-b.md"
+    },
+    {
+      "nucleusId": "N-TR01-07-02",
+      "evidenceQuote": "Qui la questione decisiva è capire che cosa viene isolato, come viene distribuito e quali dati devono sopravvivere al riavvio. La tecnologia scelta deve rendere l'esercizio più controllabile, non soltanto più rapido da avviare.",
+      "sourceLocation": "chapters/07-cloud-pa-virtualizzazione-container-devops.md#n-tr01-07-02",
+      "sourceRef": "sources/cloud-virtualizzazione-container-devops-continuita-fonti-primarie",
+      "sourceUrls": [
+        "https://kubernetes.io/docs/concepts/overview/"
+      ],
+      "reviewer": "codex-step15-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12",
+      "cutoff": "2026-08-12",
+      "dossier": ".superpowers/sdd/2026-08-05-vol-08-format-2-retrofit/step15-batch-b.md"
+    },
+    {
+      "nucleusId": "N-TR01-07-03",
+      "evidenceQuote": "Una migrazione ordinata parte dalla funzione pubblica, non dalla piattaforma. Ogni scelta deve lasciare una motivazione, una prova e una via di ritorno praticabile.",
+      "sourceLocation": "chapters/07-cloud-pa-virtualizzazione-container-devops.md#n-tr01-07-03",
+      "sourceRef": "sources/cloud-virtualizzazione-container-devops-continuita-fonti-primarie",
+      "sourceUrls": [
+        "https://cloud.italia.it/qualificazione-servizi-cloud/"
+      ],
+      "reviewer": "codex-step15-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12",
+      "cutoff": "2026-08-12",
+      "dossier": ".superpowers/sdd/2026-08-05-vol-08-format-2-retrofit/step15-batch-b.md"
+    },
+    {
+      "nucleusId": "N-TR01-07-04",
+      "evidenceQuote": "La pipeline è una catena di responsabilità, non un semplice automatismo. Il codice viene associato a una richiesta, trasformato in un artefatto identificabile e sottoposto ai controlli adatti al suo impatto. L'artefatto verificato non dovrebbe cambiare mentre attraversa gli ambienti: altrimenti non si sa più se la produzione esegue ciò che è stato provato. Quando un controllo fallisce, il flusso deve fermarsi e produrre un'evidenza utile alla correzione.",
+      "sourceLocation": "chapters/07-cloud-pa-virtualizzazione-container-devops.md#n-tr01-07-04",
+      "sourceRef": "sources/cloud-virtualizzazione-container-devops-continuita-fonti-primarie",
+      "sourceUrls": [
+        "https://csrc.nist.gov/pubs/sp/800/218/final",
+        "https://opentelemetry.io/docs/concepts/signals/"
+      ],
+      "reviewer": "codex-step15-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12",
+      "cutoff": "2026-08-12",
+      "dossier": ".superpowers/sdd/2026-08-05-vol-08-format-2-retrofit/step15-batch-b.md"
+    },
+    {
+      "nucleusId": "N-TR01-07-05",
+      "evidenceQuote": "La capacità non riguarda soltanto il numero di server. Comprende connessioni, code, spazio, limiti imposti da servizi esterni e persone in grado di intervenire. Un piano di capacità confronta il profilo storico con gli eventi attesi, dichiara quale margine è necessario e stabilisce cosa fare quando il margine si riduce. Questo evita sia il sovradimensionamento costoso sia una reazione tardiva durante una scadenza.",
+      "sourceLocation": "chapters/07-cloud-pa-virtualizzazione-container-devops.md#n-tr01-07-05",
+      "sourceRef": "sources/cloud-virtualizzazione-container-devops-continuita-fonti-primarie",
+      "sourceUrls": [
+        "https://csrc.nist.gov/pubs/sp/800/34/r1/final"
+      ],
+      "reviewer": "codex-step15-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12",
+      "cutoff": "2026-08-12",
+      "dossier": ".superpowers/sdd/2026-08-05-vol-08-format-2-retrofit/step15-batch-b.md"
+    },
+    {
+      "nucleusId": "N-TR01-07-06",
+      "evidenceQuote": "La scelta delle copie e delle architetture deve quindi essere proporzionata: non tutti i servizi richiedono la stessa rapidità di recupero, ma nessun servizio essenziale può basarsi su un ripristino mai eseguito.",
+      "sourceLocation": "chapters/07-cloud-pa-virtualizzazione-container-devops.md#n-tr01-07-06",
+      "sourceRef": "sources/cloud-virtualizzazione-container-devops-continuita-fonti-primarie",
+      "sourceUrls": [
+        "https://csrc.nist.gov/pubs/sp/800/34/r1/final"
+      ],
+      "reviewer": "codex-step15-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12",
+      "cutoff": "2026-08-12",
+      "dossier": ".superpowers/sdd/2026-08-05-vol-08-format-2-retrofit/step15-batch-b.md"
+    },
+    {
+      "nucleusId": "N-TR01-08-01",
+      "evidenceQuote": "Si aggiungono, secondo il contesto, autenticità, tracciabilità e accountability. Il non ripudio riguarda la capacità di impedire che un soggetto neghi in modo plausibile una determinata azione, quando il sistema e il quadro applicabile lo consentono. Queste proprietà non sono intercambiabili: la cifratura può sostenere la riservatezza, ma non garantisce da sola disponibilità o correttezza del processo.",
+      "sourceLocation": "chapters/08-cybersecurity-rischio-controlli-vulnerabilita.md#n-tr01-08-01",
+      "sourceRef": "sources/cyber-risk-vulnerabilita-secure-software-supply-chain-fonti-primarie",
+      "sourceUrls": [
+        "https://www.nist.gov/cyberframework"
+      ],
+      "reviewer": "codex-step15-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12",
+      "cutoff": "2026-08-12",
+      "dossier": ".superpowers/sdd/2026-08-05-vol-08-format-2-retrofit/step15-batch-b.md"
+    },
+    {
+      "nucleusId": "N-TR01-08-02",
+      "evidenceQuote": "Una **minaccia** è una circostanza o causa potenziale capace di produrre un evento dannoso. Il **threat actor** è il soggetto che può agire intenzionalmente; non tutte le minacce, però, hanno un attore ostile: esistono errori, guasti ed eventi ambientali.",
+      "sourceLocation": "chapters/08-cybersecurity-rischio-controlli-vulnerabilita.md#n-tr01-08-02",
+      "sourceRef": "sources/cyber-risk-vulnerabilita-secure-software-supply-chain-fonti-primarie",
+      "sourceUrls": [
+        "https://csrc.nist.gov/pubs/sp/800/30/r1/final"
+      ],
+      "reviewer": "codex-step15-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12",
+      "cutoff": "2026-08-12",
+      "dossier": ".superpowers/sdd/2026-08-05-vol-08-format-2-retrofit/step15-batch-b.md"
+    },
+    {
+      "nucleusId": "N-TR01-08-03",
+      "evidenceQuote": "La probabilità stima quanto sia plausibile lo scenario, considerando capacità dell’attore, esposizione, frequenza, vulnerabilità e controlli. L’impatto considera conseguenze su servizi, dati, persone, finanze, conformità e fiducia istituzionale.",
+      "sourceLocation": "chapters/08-cybersecurity-rischio-controlli-vulnerabilita.md#n-tr01-08-03",
+      "sourceRef": "sources/cyber-risk-vulnerabilita-secure-software-supply-chain-fonti-primarie",
+      "sourceUrls": [
+        "https://csrc.nist.gov/pubs/sp/800/30/r1/final"
+      ],
+      "reviewer": "codex-step15-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12",
+      "cutoff": "2026-08-12",
+      "dossier": ".superpowers/sdd/2026-08-05-vol-08-format-2-retrofit/step15-batch-b.md"
+    },
+    {
+      "nucleusId": "N-TR01-08-04",
+      "evidenceQuote": "Le tassonomie possono variare; la classificazione chiarisce la funzione del controllo, non aggiunge etichette fini a sé stesse.",
+      "sourceLocation": "chapters/08-cybersecurity-rischio-controlli-vulnerabilita.md#n-tr01-08-04",
+      "sourceRef": "sources/cyber-risk-vulnerabilita-secure-software-supply-chain-fonti-primarie",
+      "sourceUrls": [
+        "https://www.nist.gov/cyberframework"
+      ],
+      "reviewer": "codex-step15-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12",
+      "cutoff": "2026-08-12",
+      "dossier": ".superpowers/sdd/2026-08-05-vol-08-format-2-retrofit/step15-batch-b.md"
+    },
+    {
+      "nucleusId": "N-TR01-08-05",
+      "evidenceQuote": "STRIDE è una tassonomia possibile: spoofing, tampering, repudiation, information disclosure, denial of service ed elevation of privilege. Non è l’unico metodo e non deve diventare un elenco scollegato dal sistema.",
+      "sourceLocation": "chapters/08-cybersecurity-rischio-controlli-vulnerabilita.md#n-tr01-08-05",
+      "sourceRef": "sources/cyber-risk-vulnerabilita-secure-software-supply-chain-fonti-primarie",
+      "sourceUrls": [
+        "https://owasp.org/www-community/Threat_Modeling",
+        "https://www.first.org/cvss/"
+      ],
+      "reviewer": "codex-step15-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12",
+      "cutoff": "2026-08-12",
+      "dossier": ".superpowers/sdd/2026-08-05-vol-08-format-2-retrofit/step15-batch-b.md"
+    },
+    {
+      "nucleusId": "N-TR01-08-06",
+      "evidenceQuote": "Il NIST SSDF integra pratiche di sicurezza nel ciclo di sviluppo. Le pratiche di sicurezza accompagnano requisiti, progettazione, implementazione, verifica, rilascio, esercizio e dismissione.",
+      "sourceLocation": "chapters/08-cybersecurity-rischio-controlli-vulnerabilita.md#n-tr01-08-06",
+      "sourceRef": "sources/cyber-risk-vulnerabilita-secure-software-supply-chain-fonti-primarie",
+      "sourceUrls": [
+        "https://csrc.nist.gov/pubs/sp/800/218/final",
+        "https://owasp.org/www-project-application-security-verification-standard/"
+      ],
+      "reviewer": "codex-step15-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12",
+      "cutoff": "2026-08-12",
+      "dossier": ".superpowers/sdd/2026-08-05-vol-08-format-2-retrofit/step15-batch-b.md"
+    },
+    {
+      "nucleusId": "N-TR01-09-01",
+      "evidenceQuote": "Un'identità digitale rappresenta una persona, un'applicazione, un servizio, un dispositivo o un workload. L'account è il contenitore operativo usato dal sistema; una credenziale è un elemento associato all'identità; un autenticatore dimostra il controllo della credenziale; la sessione conserva l'esito dell'accesso; un attributo descrive soggetto, ruolo o contesto. Distinguere questi elementi evita un errore frequente: disabilitare un account non revoca automaticamente sessioni, token, chiavi applicative o account amministrativi collegati.",
+      "sourceLocation": "chapters/09-iam-crittografia-logging-incident-response.md#n-tr01-09-01",
+      "sourceRef": "sources/iam-crittografia-logging-incident-response-fonti-primarie",
+      "sourceUrls": [
+        "https://csrc.nist.gov/pubs/sp/800/63/4/final"
+      ],
+      "reviewer": "codex-step15-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12",
+      "cutoff": "2026-08-12",
+      "dossier": ".superpowers/sdd/2026-08-05-vol-08-format-2-retrofit/step15-batch-b.md"
+    },
+    {
+      "nucleusId": "N-TR01-09-02",
+      "evidenceQuote": "L'identificazione presenta un'identità; l'autenticazione verifica un autenticatore; l'autorizzazione decide se quell'identità possa eseguire un'azione; l'accounting registra l'attività. Un login riuscito non prova il diritto a consultare una pratica o a disporre un pagamento. Questa sequenza permette di individuare dove nasce il problema: un'identità non verificata, una sessione sottratta, un'autorizzazione eccessiva oppure un'azione non tracciata richiedono risposte diverse.",
+      "sourceLocation": "chapters/09-iam-crittografia-logging-incident-response.md#n-tr01-09-02",
+      "sourceRef": "sources/iam-crittografia-logging-incident-response-fonti-primarie",
+      "sourceUrls": [
+        "https://csrc.nist.gov/pubs/sp/800/63/4/final"
+      ],
+      "reviewer": "codex-step15-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12",
+      "cutoff": "2026-08-12",
+      "dossier": ".superpowers/sdd/2026-08-05-vol-08-format-2-retrofit/step15-batch-b.md"
+    },
+    {
+      "nucleusId": "N-TR01-09-03",
+      "evidenceQuote": "La crittografia protegge proprietà specifiche; non sostituisce IAM, hardening, gestione delle vulnerabilità o continuità. La cifratura simmetrica usa una chiave condivisa e tutela soprattutto la riservatezza. Quella asimmetrica usa una coppia di chiavi ed è utile in scenari diversi, ma non è una scelta automaticamente più efficace. Un hash produce un'impronta non reversibile; un MAC usa un segreto per sostenere integrità e autenticità; una firma digitale consente verifiche con la chiave pubblica corrispondente; un certificato collega una chiave pubblica a un soggetto. Confondere questi strumenti porta a promettere proprietà che non offrono.",
+      "sourceLocation": "chapters/09-iam-crittografia-logging-incident-response.md#n-tr01-09-03",
+      "sourceRef": "sources/iam-crittografia-logging-incident-response-fonti-primarie",
+      "sourceUrls": [
+        "https://csrc.nist.gov/pubs/sp/800/57/pt1/r5/final"
+      ],
+      "reviewer": "codex-step15-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12",
+      "cutoff": "2026-08-12",
+      "dossier": ".superpowers/sdd/2026-08-05-vol-08-format-2-retrofit/step15-batch-b.md"
+    },
+    {
+      "nucleusId": "N-TR01-09-04",
+      "evidenceQuote": "Un evento è un fatto osservabile; un log è la sua registrazione; un audit trail permette di ricostruire attività rilevanti; un alert è una segnalazione prodotta da una regola o da un'analisi; un incidente compromette o minaccia obiettivi di sicurezza o servizio. Un alert apre quindi una verifica: non prova da solo l'esistenza di un incidente. La distinzione evita sia allarmi ignorati sia escalation che paralizzano l'ente senza evidenze sufficienti.",
+      "sourceLocation": "chapters/09-iam-crittografia-logging-incident-response.md#n-tr01-09-04",
+      "sourceRef": "sources/iam-crittografia-logging-incident-response-fonti-primarie",
+      "sourceUrls": [
+        "https://csrc.nist.gov/pubs/sp/800/92/final"
+      ],
+      "reviewer": "codex-step15-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12",
+      "cutoff": "2026-08-12",
+      "dossier": ".superpowers/sdd/2026-08-05-vol-08-format-2-retrofit/step15-batch-b.md"
+    },
+    {
+      "nucleusId": "N-TR01-09-05",
+      "evidenceQuote": "La risposta a un incidente inizia prima dell'incidente. Policy, contatti, ruoli, accessi di emergenza, capacità di logging e prove di coordinamento fanno parte della preparazione. Il NIST CSF 2.0 collega la risposta alla governance, all'identificazione e alla protezione: rilevare, rispondere e recuperare non sono una sequenza isolata dal rischio e dalla continuità. Il modello locale può cambiare, ma deve chiarire decisioni, responsabilità, evidenze e condizioni di chiusura.",
+      "sourceLocation": "chapters/09-iam-crittografia-logging-incident-response.md#n-tr01-09-05",
+      "sourceRef": "sources/iam-crittografia-logging-incident-response-fonti-primarie",
+      "sourceUrls": [
+        "https://csrc.nist.gov/pubs/sp/800/61/r2/final"
+      ],
+      "reviewer": "codex-step15-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12",
+      "cutoff": "2026-08-12",
+      "dossier": ".superpowers/sdd/2026-08-05-vol-08-format-2-retrofit/step15-batch-b.md"
+    },
+    {
+      "nucleusId": "N-TR01-09-06",
+      "evidenceQuote": "Nel quadro italiano, il d.lgs. 138/2024 recepisce la direttiva NIS2; ACN esercita le funzioni nazionali attribuite dalla disciplina e CSIRT Italia opera nel sistema di gestione degli incidenti. Il candidato deve mostrare che l'ente verifica il proprio inquadramento, la significatività dell'evento e le procedure applicabili. Non deve trasformare un riferimento tecnico volontario, come NIST, in un obbligo generale della PA né inventare soglie, canali o termini operativi.",
+      "sourceLocation": "chapters/09-iam-crittografia-logging-incident-response.md#n-tr01-09-06",
+      "sourceRef": "sources/iam-crittografia-logging-incident-response-fonti-primarie",
+      "sourceUrls": [
+        "https://www.normattiva.it/",
+        "https://www.acn.gov.it/"
+      ],
+      "reviewer": "codex-step15-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12",
+      "cutoff": "2026-08-12",
+      "dossier": ".superpowers/sdd/2026-08-05-vol-08-format-2-retrofit/step15-batch-b.md"
     }
   ],
   "chapters": [
