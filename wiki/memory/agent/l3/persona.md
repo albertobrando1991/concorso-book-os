@@ -5,6 +5,7 @@ Usala come profilo di lavoro: le source notes e il wiki restano la base canonica
 
 ## Preferenze e istruzioni recenti
 
+- Procedere con lo step 10 del capitolo 12 VOL-10. (mem-20260812081009-1yabxfv)
 - Procedere con lo step 09 del capitolo 12 VOL-10. (mem-20260812080802-l2xr3)
 - Procedere con lo step 08 del capitolo 12 VOL-10. (mem-20260812075338-1qui714)
 - Procedere con lo step 12 del capitolo 11 VOL-10. (mem-20260812073659-1yplq8r)
@@ -84,4 +85,3 @@ Usala come profilo di lavoro: le source notes e il wiki restano la base canonica
 - Eseguire lo step 10 VOL-07/M-SA02 capitolo 03: audit degli undici criteri sulla riga Discipline professionali specifiche, report coverage e aggiornamento della sola nota di matrice. (mem-20260729205247-11n8ix3)
 - Scrittura step 09 del capitolo M-SA02 03 su autonomia, responsabilità e deontologia. (mem-20260729203505-1nm2mgt)
 - Completare lo step 08 VOL-07/M-SA02 capitolo 03: piano operativo, verifica manuale del gate chapter-plan e chiusura motivata senza creare il capitolo. (mem-20260729191806-1x0o0ah)
-- Estendere dichiarativamente VOL-07/M-SA02 con il capitolo 03 e sincronizzare gli step C 08-12 senza avviare il capitolo. (mem-20260729190554-17ppw39)
