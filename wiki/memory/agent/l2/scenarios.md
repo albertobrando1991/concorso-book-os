@@ -5322,3 +5322,12 @@
 - atoms:
   - mem-20260812073659-1yplq8r | workflow | Procedere con lo step 12 del capitolo 11 VOL-10.
   - mem-20260812073659-gct5fe | result | Esito codex-vol10-cap11-step12-review: Procedere con lo step 12 del capitolo 11 VOL-10. -> Completato step 12 capitolo 11: report Revisore Editoriale Totale sui 30 punti, test dello studente e copertura v4; nessun errore oggettivo aperto, verifiche normative mobili instradate allo step 15, review-report sen...
+
+## 2026-08-12T07:53:38.178Z - VOL-10/M-TR03
+
+- conversation_id: conv-20260812075338-yztaeu
+- route: codex-vol10-cap12-step08-plan
+- l0: l0/conv-20260812075338-yztaeu.md
+- atoms:
+  - mem-20260812075338-1qui714 | workflow | Procedere con lo step 08 del capitolo 12 VOL-10.
+  - mem-20260812075338-19kaz9y | result | Esito codex-vol10-cap12-step08-plan: Procedere con lo step 08 del capitolo 12 VOL-10. -> Completato step 08 capitolo 12: piano aggiornato allo stato reale con sei nuclei N-TR03-12-01/06, budget 4600-5000 parole, almeno 650 per nucleo, sei quiz, caso, fonti consolidate, confini e audit automatici; gate cha...
