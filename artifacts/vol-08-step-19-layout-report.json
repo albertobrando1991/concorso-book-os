@@ -2,7 +2,7 @@
   {
     "id": "volumi/vol-08",
     "label": "vol-08",
-    "url": "http://127.0.0.1:3010/?bookId=volumi%2Fvol-08#studio",
+    "url": "http://127.0.0.1:3027/?bookId=volumi%2Fvol-08#studio",
     "studio": {
       "gridTemplateColumns": "240px 602px 300px",
       "preview": {
@@ -67,7 +67,7 @@
       }
     },
     "structure": {
-      "pageCount": 139,
+      "pageCount": 231,
       "pageNumbers": [
         1,
         2,
@@ -207,14 +207,106 @@
         136,
         137,
         138,
-        139
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        194,
+        195,
+        196,
+        197,
+        198,
+        199,
+        200,
+        201,
+        202,
+        203,
+        204,
+        205,
+        206,
+        207,
+        208,
+        209,
+        210,
+        211,
+        212,
+        213,
+        214,
+        215,
+        216,
+        217,
+        218,
+        219,
+        220,
+        221,
+        222,
+        223,
+        224,
+        225,
+        226,
+        227,
+        228,
+        229,
+        230,
+        231
       ],
       "frontMatter": 6,
       "moduleOpenings": 1,
       "chapters": 13,
-      "nuclei": 0,
-      "indexNuclei": 0,
-      "verificationHeadings": 0
+      "nuclei": 82,
+      "indexNuclei": 82,
+      "verificationHeadings": 13
     },
     "diagnostics": [
       {
@@ -909,6 +1001,466 @@
       },
       {
         "page": 139,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 140,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 141,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 142,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 143,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 144,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 145,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 146,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 147,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 148,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 149,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 150,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 151,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 152,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 153,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 154,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 155,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 156,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 157,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 158,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 159,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 160,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 161,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 162,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 163,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 164,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 165,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 166,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 167,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 168,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 169,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 170,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 171,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 172,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 173,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 174,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 175,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 176,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 177,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 178,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 179,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 180,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 181,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 182,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 183,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 184,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 185,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 186,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 187,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 188,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 189,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 190,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 191,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 192,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 193,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 194,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 195,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 196,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 197,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 198,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 199,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 200,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 201,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 202,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 203,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 204,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 205,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 206,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 207,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 208,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 209,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 210,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 211,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 212,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 213,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 214,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 215,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 216,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 217,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 218,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 219,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 220,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 221,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 222,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 223,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 224,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 225,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 226,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 227,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 228,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 229,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 230,
+        "overflow": 0,
+        "overlaps": []
+      },
+      {
+        "page": 231,
         "overflow": 0,
         "overlaps": []
       }
