@@ -151,6 +151,35 @@ describe("audit-vol08-format2-nuclei", () => {
     expect(audit(fixtureRoot()).status).toBe(0)
   })
 
+  it("accepts dimension-specific application and competition-output attestations", () => {
+    const root = fixtureRoot()
+    const matrix = join(root, moduleRelative, "planning", "02-matrice-copertura-didattica.md")
+    const manifestPath = join(root, moduleRelative, "planning", "10-manifest-nuclei-format-2.json")
+    const manifest = JSON.parse(readFileSync(manifestPath, "utf8"))
+    const applicationQuote = "I cinque elementi non vanno osservati separatamente."
+    const outputQuote = "La risposta concorsuale deve mostrare capacità di contestualizzare senza perdersi nei dettagli."
+    manifest.didacticAttestations = manifest.didacticAttestations.filter((item: any) => !(item.nucleusId === "N-TR01-01-01" && item.dimension === "application") && !(item.nucleusId === "N-TR01-01-03" && item.dimension === "competition-output"))
+    manifest.didacticAttestations.push(
+      { nucleusId: "N-TR01-01-01", dimension: "application", evidenceQuote: applicationQuote, sourceLocation: "chapters/01-lavorare-ict-pa-ruoli-enti-prove.md#n-tr01-01-01", reviewer: "codex-step15", gateId: "step-15", checkedAt: "2026-08-12" },
+      { nucleusId: "N-TR01-01-03", dimension: "competition-output", evidenceQuote: outputQuote, sourceLocation: "chapters/01-lavorare-ict-pa-ruoli-enti-prove.md#n-tr01-01-03", reviewer: "codex-step15", gateId: "step-15", checkedAt: "2026-08-12" }
+    )
+    writeFileSync(manifestPath, JSON.stringify(manifest, null, 2), "utf8")
+    const lines = readFileSync(matrix, "utf8").split(/\r?\n/).map((line) => {
+      const cells = line.split("|").slice(1, -1).map((cell) => cell.trim())
+      if (cells.length !== 14) return line
+      if (line.startsWith("| `N-TR01-01-01` |")) {
+        cells[8] = `verified: ${applicationQuote}`
+        return `| ${cells.join(" | ")} |`
+      }
+      if (line.startsWith("| `N-TR01-01-03` |")) {
+        cells[9] = `verified: ${outputQuote}`
+        return `| ${cells.join(" | ")} |`
+      }
+      return line
+    })
+    writeFileSync(matrix, lines.join("\n"), "utf8")
+    expect(audit(root).status).toBe(0)
+  })
   it("rejects a verified record whose curated attestation is incomplete", () => {
     const root = fixtureRoot()
     const chapter = join(root, moduleRelative, "chapters", "01-lavorare-ict-pa-ruoli-enti-prove.md")

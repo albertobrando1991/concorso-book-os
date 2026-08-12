@@ -256,8 +256,16 @@ function validateVerifiedAttestations(block) {
     if (!id) continue
     const chapter = chapters.find((item) => item.nucleusIds.includes(id))
     const section = chapter?.sections.get(id) || ''
+    const primaryCells = line.split('|').slice(1, -1)
     for (const match of line.matchAll(/verified:\s*([^|]+)/g)) {
       const quote = match[1].trim()
+      const cellIndex = primaryCells.findIndex((cell) => cell.includes(`verified: ${quote}`))
+      const expectedDimension = primaryCells.length === 14 ? ({ 8: 'application', 9: 'competition-output' }[cellIndex]) : undefined
+      const didacticRecord = (manifest.didacticAttestations || []).find((item) => item.nucleusId === id && item.dimension === expectedDimension && item.evidenceQuote === quote)
+      if (didacticRecord) {
+        if (!validDidacticAttestation(didacticRecord, chapter, section)) failures.push(id)
+        continue
+      }
       const verificationRecord = (manifest.verificationAttestations || []).find((item) => item.nucleusId === id && item.target === quote)
       if (verificationRecord) {
         if (!validVerificationAttestation(verificationRecord, chapter)) failures.push(id)
@@ -276,6 +284,9 @@ function validVerificationAttestation(record, chapter) {
   return Boolean(record.target && typeof record.reviewer === 'string' && record.reviewer.trim().length > 0 && record.gateId === 'step-15' && record.sourceLocation === `chapters/${chapter.file}#apparato-di-verifica-dei-nuclei` && chapter.apparatus.rows.some((row) => row.id === record.nucleusId && normalizeApparatus(row.target) === normalizeApparatus(record.target)))
 }
 
+function validDidacticAttestation(record, chapter, section) {
+  return Boolean(['application', 'competition-output'].includes(record.dimension) && record.evidenceQuote && typeof record.reviewer === 'string' && record.reviewer.trim().length > 0 && record.gateId === 'step-15' && record.sourceLocation === `chapters/${chapter.file}#${record.nucleusId.toLowerCase()}` && section.includes(record.evidenceQuote))
+}
 function normalizeNucleusId(value) { return value.replace(/`/g, "").trim() }
 function duplicates(values) { const seen = new Set(); const repeated = new Set(); for (const value of values) seen.has(value) ? repeated.add(value) : seen.add(value); return [...repeated].sort() }
 function escape(value) { return value.replace(/[|`\r\n]+/g, " ").replace(/\s+/g, " ").trim() }
