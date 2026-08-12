@@ -76,7 +76,7 @@ La commissione valuta soprattutto la capacità di non saltare passaggi. Una risp
 
 ### Controllo vicino
 
-Prendi quattro dati sullo stesso edificio: planimetria catastale, modello informativo, rilievo recente e scheda inventariale. Per ciascuno indica oggetto, funzione, fonte, data, qualità dichiarata e decisione che può sostenere. Se non riesci a completare una riga, non hai ancora un dato utilizzabile: hai solo un documento da verificare. La regola di sicurezza è semplice: prima definisci la domanda, poi scegli il dato; non fare il contrario. In una risposta orale, questa griglia mostra metodo: evita di partire dallo strumento e costringe a dichiarare limiti, verifiche e sistema da aggiornare.
+Prendi quattro dati sullo stesso edificio: planimetria catastale, modello informativo, rilievo recente e scheda inventariale. Per ciascuno indica oggetto, funzione, fonte, data, qualità dichiarata e decisione che può sostenere. Se non riesci a completare una riga, non hai ancora un dato utilizzabile: hai solo un documento da verificare. Conviene definire prima la domanda e scegliere poi il dato, non il contrario. In una risposta orale, questa griglia rende evidente il metodo: evita di partire dallo strumento e porta a dichiarare limiti, verifiche e sistema da aggiornare.
 
 ## N-TR03-12-02 · BIM e gestione informativa
 
@@ -86,7 +86,7 @@ Il BIM, nella preparazione concorsuale, va studiato come gestione informativa di
 
 Il D.Lgs. 36/2023, con l'art. 43 e l'Allegato I.9, colloca metodi e strumenti di gestione informativa digitale dentro il sistema dei contratti pubblici. I decreti ministeriali sul tema restano riferimenti di coordinamento, da leggere nel quadro vigente. Per lo studio non serve memorizzare soglie mobili o ricostruire configurazioni operative; serve capire la logica: quando la gestione informativa è prevista, l'amministrazione non chiede un modello fine a se stesso, ma informazioni utilizzabili per progettazione, affidamento, esecuzione, controllo e gestione.
 
-Il punto di partenza sono i requisiti informativi. La stazione appaltante deve chiarire quali informazioni occorrono, con quale livello di dettaglio utile allo scopo, in quali momenti e con quali criteri di verifica. L'operatore economico organizza la propria risposta nei documenti previsti dal processo. Il modello, le tavole, le relazioni, gli elaborati contabili, i manuali e la documentazione di consegna non si sostituiscono a vicenda: ciascuno conserva una funzione. Un modello può coordinare informazioni, ma non trasforma automaticamente un dato non verificato in dato approvato.
+Il processo prende avvio dai requisiti informativi. La stazione appaltante deve chiarire quali informazioni occorrono, con quale livello di dettaglio utile allo scopo, in quali momenti e con quali criteri di verifica. L'operatore economico organizza la propria risposta nei documenti previsti dal processo. Il modello, le tavole, le relazioni, gli elaborati contabili, i manuali e la documentazione di consegna non sono intercambiabili: ciascuno conserva una funzione. Un modello può coordinare informazioni, ma non trasforma automaticamente un dato non verificato in dato approvato.
 
 Un elemento essenziale è l'ambiente di condivisione dei dati. Serve a governare accessi, caricamenti, revisioni, stati, approvazioni, versioni e conservazione. Caricare un file non significa approvarlo; condividere un modello non significa che ogni attributo sia corretto; leggere un formato scambiabile non significa conservare tutto il significato informativo. L'interoperabilità richiede formati e regole che mantengano struttura, relazioni e attributi per l'uso previsto, non solo apertura tecnica del file.
 
@@ -136,7 +136,7 @@ I metadati sono la scheda di identità del dato territoriale. Le regole collegat
 
 Un tecnico comunale può usare il GIS per localizzare immobili, verificare interferenze preliminari, programmare manutenzioni, visualizzare reti o preparare istruttorie. In prova, però, devi sempre trasformare la mappa in ragionamento. Se una scuola appare vicina a un'area vincolata, la risposta corretta non è "il GIS dimostra il vincolo"; è "il GIS segnala una possibile interferenza da verificare con fonte, data, perimetro, disciplina e atti competenti". Se una particella non coincide perfettamente con l'edificio rilevato, non concludi subito che c'è abuso o errore catastale: distingui base cartografica, sistema di riferimento, scala, aggiornamento e funzione del dato.
 
-Questo approccio è molto apprezzato nelle prove orali perché mostra prudenza tecnica. Il candidato che sa leggere un GIS non si limita a descrivere colori e layer: spiega la domanda, cita i limiti, distingue analisi spaziale e decisione amministrativa, e indica il successivo controllo documentale o tecnico. Il GIS aiuta a decidere meglio, ma non sostituisce titolo edilizio, accertamento catastale, valutazione strutturale o scelta patrimoniale.
+Nella prova orale questo approccio dimostra prudenza tecnica. Chi sa leggere un GIS non si limita a descrivere colori e layer: chiarisce la domanda, espone i limiti, distingue l'analisi spaziale dalla decisione amministrativa e indica il successivo controllo documentale o tecnico. Il GIS offre elementi per decidere, ma non sostituisce il titolo edilizio, l'accertamento catastale, la valutazione strutturale o la scelta patrimoniale.
 
 ### Controllo vicino
 
@@ -172,7 +172,7 @@ Il candidato tecnico deve spiegare come imposta l'incarico o l'istruttoria senza
 
 ### Controllo vicino
 
-Completa questa frase: "La nuvola di punti non è già un modello informativo perché...". La risposta deve contenere almeno tre idee: i punti devono essere controllati; la restituzione richiede interpretazione; gli attributi gestionali, documentali o amministrativi non nascono dalla misura geometrica. Aggiungi lo scopo: rilievo per contabilità, progetto, manutenzione o inventario generano restituzioni diverse. Nella prova, cita anche l'elaborato atteso, la verifica minima e il responsabile tecnico del dato. Se manca una di queste idee, stai trattando lo strumento come se sostituisse il processo.
+Completa questa frase: "La nuvola di punti non è già un modello informativo perché...". Nella risposta considera almeno tre aspetti: i punti devono essere controllati; la restituzione richiede interpretazione; gli attributi gestionali, documentali o amministrativi non nascono dalla misura geometrica. Aggiungi lo scopo, perché rilievi destinati a contabilità, progetto, manutenzione o inventario generano restituzioni diverse. Nella prova, cita anche l'elaborato atteso, la verifica minima e il responsabile tecnico del dato. Omettere uno di questi aspetti significa trattare lo strumento come se sostituisse il processo.
 
 ## N-TR03-12-05 · Catasto e distinzioni immobiliari
 
@@ -198,7 +198,7 @@ Gli aggiornamenti catastali hanno procedure e strumenti specifici, come dichiara
 
 ### Applicazione al profilo tecnico
 
-Immagina di dover rispondere a una commissione che chiede: "La planimetria catastale coincide con il modello BIM; possiamo considerare l'immobile regolare?". La risposta corretta è no, o meglio: quella coincidenza è un indizio utile, non una conclusione. Devi spiegare che catasto, modello informativo, stato dei luoghi, titolo edilizio e pubblicità immobiliare hanno funzioni diverse. La coincidenza geometrica può ridurre un dubbio operativo, ma non sostituisce la verifica degli atti e della disciplina applicabile.
+Immagina che una commissione chieda: "La planimetria catastale coincide con il modello BIM; possiamo considerare l'immobile regolare?". La coincidenza costituisce un indizio utile, non una conclusione. Catasto, modello informativo, stato dei luoghi, titolo edilizio e pubblicità immobiliare hanno infatti funzioni diverse. L'allineamento geometrico può ridurre un dubbio operativo, ma non sostituisce la verifica degli atti e della disciplina applicabile.
 
 Nel lavoro di un ente, le distinzioni catastali servono anche alla gestione patrimoniale. Un edificio pubblico deve essere identificato correttamente, collegato all'inventario, ai fascicoli, agli interventi e ai responsabili. Se la visura riporta un dato non aggiornato, non significa automaticamente che il bene non sia dell'ente; significa che occorre verificare atti, formalità e aggiornamenti. Se l'inventario indica una consistenza diversa dalla planimetria, occorre capire se è cambiato il bene, se la fonte è superata o se il sistema gestionale non è stato aggiornato. La prova valuta proprio questa prudenza: non trasformare una banca dati in giudice unico dell'immobile.
 
@@ -233,7 +233,7 @@ AINOP, Archivio Informatico Nazionale delle Opere Pubbliche, rileva per le opere
 
 Caso guidato: un Comune deve riqualificare una scuola. La planimetria catastale non coincide con l'ultimo elaborato edilizio; il modello del progetto non contiene alcuni dati manutentivi; un layer GIS dei vincoli è datato; il rilievo recente dichiara metodo, sistema di riferimento e controlli; l'inventario indica una consistenza e un responsabile non aggiornati. Il tecnico non sceglie una fonte vincente. Costruisce una tabella dato-opera-decisione: usa fascicolo edilizio e rilievo per confrontare stato e documenti; usa il catasto per identificazione e dati catastali; verifica fonte e data del layer prima di valutare il vincolo; integra nel modello le informazioni necessarie alla gestione; aggiorna inventario e responsabile dopo l'accertamento; conserva evidenza delle decisioni e indica i sistemi da aggiornare.
 
-La risposta da concorso deve chiudersi con una cautela: l'integrazione non è automatica. BIM, GIS, catasto, inventario e AINOP possono dialogare solo se l'ente stabilisce identificativi, versioni, flussi e controlli. Il tecnico pubblico deve quindi governare il conflitto tra dati, non nasconderlo. Una divergenza non è sempre errore: può essere differenza di funzione, data, scala, approvazione o responsabilità. Il profilo tecnico vale quando sa tradurre queste differenze in decisioni verificabili.
+Nel concludere la risposta occorre precisare che l'integrazione non è automatica. BIM, GIS, catasto, inventario e AINOP possono dialogare solo se l'ente stabilisce identificativi, versioni, flussi e controlli. Il tecnico pubblico deve governare il conflitto tra dati, non nasconderlo. Una divergenza non è sempre un errore: può dipendere da funzione, data, scala, approvazione o responsabilità differenti. La competenza tecnica emerge dalla capacità di tradurre queste differenze in decisioni verificabili.
 
 ### Controllo vicino
 
