@@ -25,7 +25,7 @@ canonical: true
 tags: ["book-chapter","module-code-m-fc03","professional-draft","situational-judgment"]
 book_id: m-fc03-enti-non-economici
 outline_section: 12
-draft_stage: step-09-format-2
+draft_stage: step-14-corrected
 module_code: M-FC03
 module_family: funzioni-centrali
 companion_to: il-metodo-bando

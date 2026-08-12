@@ -27,7 +27,7 @@ canonical: true
 tags: ["book-chapter","module-code-m-fc03","professional-draft"]
 book_id: m-fc03-enti-non-economici
 outline_section: 9
-draft_stage: step-09-format-2
+draft_stage: step-14-corrected
 companion_to: il-metodo-bando
 nuclei_ids:
   - N-FC03-09-01
@@ -61,13 +61,13 @@ last_compiled_from: [
 
 Negli enti pubblici non economici i contratti pubblici non sono un capitolo astratto di diritto amministrativo. Sono il modo con cui l'ente compra beni, acquisisce servizi, mantiene sedi e piattaforme, affida manutenzioni, sostiene sportelli, gestisce forniture, garantisce sicurezza, continuita operativa e qualita dei servizi rivolti a cittadini, lavoratori, imprese e amministrazioni.
 
-Per un candidato M-FC03, quindi, il tema non va studiato come catalogo di procedure. Il libro base ti ha gia dato il nucleo comune: Codice dei contratti pubblici, principi, soggetti, procedure, digitalizzazione, MEPA/Consip, ANAC, CIG, trasparenza e controlli. Qui il compito e' diverso: devi applicare quel nucleo al contesto degli EPNE, dove l'acquisto pubblico incide su servizi previdenziali, assicurativi, amministrativi, contabili, informatici e di supporto all'utenza.
+Per un candidato M-FC03, quindi, il tema non va studiato come catalogo di procedure. Il libro base ti ha gia dato il nucleo comune: Codice dei contratti pubblici, principi, soggetti, procedure, digitalizzazione, MEPA/Consip, ANAC, CIG, trasparenza e controlli. Qui il compito è diverso: devi applicare quel nucleo al contesto degli EPNE, dove l'acquisto pubblico incide su servizi previdenziali, assicurativi, amministrativi, contabili, informatici e di supporto all'utenza.
 
-La domanda guida e':
+La domanda guida è:
 
 > se un ufficio EPNE deve acquistare una fornitura o affidare un servizio, so ricostruire fabbisogno, procedura, strumenti digitali, responsabilita, esecuzione e controlli?
 
-La domanda guida evita di ridurre lo studio a una lista di articoli. In una prova scritta, orale o situazionale, la commissione puo' proporre un acquisto informatico, una manutenzione, una fornitura per sedi territoriali o il controllo di un contratto gia eseguito. Rispondere soltanto "si fa una gara" e' insufficiente: occorre partire dal bisogno pubblico e arrivare alla verifica della prestazione.
+La domanda guida evita di ridurre lo studio a una lista di articoli. In una prova scritta, orale o situazionale, la commissione può proporre un acquisto informatico, una manutenzione, una fornitura per sedi territoriali o il controllo di un contratto gia eseguito. Rispondere soltanto "si fa una gara" è insufficiente: occorre partire dal bisogno pubblico e arrivare alla verifica della prestazione.
 
 ## Obiettivo del blocco
 
@@ -79,7 +79,7 @@ Alla fine del capitolo devi saper fare cinque cose:
 4. collegare contratti, tracciabilita, CIG, BDNCP, FVOE, trasparenza, anticorruzione e pagamenti;
 5. produrre un mini-caso acquisto/affidamento applicabile a INPS, INAIL e altri EPNE del perimetro M-FC03.
 
-Il risultato atteso non e' diventare specialista appalti. E' saper rispondere da funzionario amministrativo, giuridico, economico, contabile o servizi che conosce il ciclo essenziale e non confonde rapidita con arbitrarieta.
+Il risultato atteso non è diventare specialista appalti. È saper rispondere da funzionario amministrativo, giuridico, economico, contabile o servizi che conosce il ciclo essenziale e non confonde rapidita con arbitrarieta.
 
 ## Mappa BANDO
 
@@ -91,15 +91,15 @@ Il risultato atteso non e' diventare specialista appalti. E' saper rispondere da
 | D - Diario | Dove rischio errore? | Affidamento diretto come scelta libera, MEPA come scorciatoia, gara senza esecuzione, CIG solo contabile. |
 | O - Output | Che cosa devo produrre? | Mini-caso acquisto/affidamento con griglia fabbisogno-procedura-esecuzione-controlli. |
 
-La mappa evita due dispersioni opposte: ripetere tutto il capitolo base sui contratti oppure saltare la materia perche' "non e' un profilo appalti". Nei concorsi EPNE la conoscenza richiesta e' spesso intermedia: non specialistica, ma operativa.
+La mappa evita due dispersioni opposte: ripetere tutto il capitolo base sui contratti oppure saltare la materia perché "non è un profilo appalti". Nei concorsi EPNE la conoscenza richiesta è spesso intermedia: non specialistica, ma operativa.
 
 ## N-FC03-09-01 · Dal fabbisogno al ciclo dell'acquisto EPNE
 
 ### Il delta EPNE rispetto al libro base
 
-Il libro base spiega che il contratto pubblico e' un ciclo: fabbisogno, programmazione, progettazione o definizione della prestazione, decisione di contrarre, scelta della procedura, affidamento, aggiudicazione, stipula, esecuzione, verifica, pagamento, trasparenza e controllo. Nel modulo M-FC03 devi chiederti dove questo ciclo compare nella vita degli enti pubblici non economici.
+Il libro base spiega che il contratto pubblico è un ciclo: fabbisogno, programmazione, progettazione o definizione della prestazione, decisione di contrarre, scelta della procedura, affidamento, aggiudicazione, stipula, esecuzione, verifica, pagamento, trasparenza e controllo. Nel modulo M-FC03 devi chiederti dove questo ciclo compare nella vita degli enti pubblici non economici.
 
-Negli EPNE il contratto pubblico puo' riguardare, ad esempio:
+Negli EPNE il contratto pubblico può riguardare, ad esempio:
 
 - servizi informatici collegati a portali, sportelli digitali, assistenza applicativa e sicurezza;
 - manutenzione di sedi, impianti, archivi, sportelli, attrezzature e sistemi di accoglienza;
@@ -108,14 +108,14 @@ Negli EPNE il contratto pubblico puo' riguardare, ad esempio:
 - beni e servizi necessari a prevenzione, sicurezza, salute nei luoghi di lavoro e continuita operativa;
 - attivita connesse a progetti, digitalizzazione, performance e miglioramento dei servizi.
 
-La specializzazione EPNE non cambia i principi del Codice, ma cambia il modo di ragionare sul bisogno. Un acquisto non e' solo spesa: e' collegato a servizio pubblico, utenti, prestazioni, dati, tempi, uffici, bilancio, PIAO, performance, rischio operativo e responsabilita.
+La specializzazione EPNE non cambia i principi del Codice, ma cambia il modo di ragionare sul bisogno. Un acquisto non è solo spesa: è collegato a servizio pubblico, utenti, prestazioni, dati, tempi, uffici, bilancio, PIAO, performance, rischio operativo e responsabilita.
 
 Quando una traccia parla di acquisto o fornitura, collega questi tre piani:
 
 | Piano | Domanda | Rischio se lo ignori |
 | --- | --- | --- |
 | Servizio | Quale funzione dell'ente viene sostenuta? | Acquisto formalmente corretto ma inutile o non proporzionato. |
-| Procedura | Quale percorso di affidamento e' coerente con oggetto, importo, mercato e regole? | Scelta arbitraria, frammentata o non tracciata. |
+| Procedura | Quale percorso di affidamento è coerente con oggetto, importo, mercato e regole? | Scelta arbitraria, frammentata o non tracciata. |
 | Esecuzione | Come verifico che il bene o servizio sia conforme e utile? | Pagamento di prestazioni non controllate o risultati non raggiunti. |
 
 ### Il ciclo dell'acquisto EPNE
@@ -125,17 +125,17 @@ Per risolvere un caso, usa una sequenza stabile. Non serve citare soglie numeric
 | Fase | Che cosa devi controllare | Output da concorso |
 | --- | --- | --- |
 | 1. Fabbisogno | Quale bisogno dell'ente giustifica l'acquisto? | Motivazione collegata a servizio, ufficio, utenti o funzionamento. |
-| 2. Programmazione | L'acquisto e' coerente con pianificazione, priorita e risorse? | Collegamento a strumenti programmatori e copertura. |
+| 2. Programmazione | L'acquisto è coerente con pianificazione, priorita e risorse? | Collegamento a strumenti programmatori e copertura. |
 | 3. Oggetto | Si tratta di servizio, fornitura, lavoro, concessione o contratto misto? | Qualificazione corretta dell'oggetto. |
 | 4. Responsabilita | Chi cura il progetto contrattuale e quali uffici partecipano? | RUP, ufficio richiedente, ufficio contratti, contabilita, DEC se previsto. |
 | 5. Strumento | Esistono convenzioni, accordi quadro, MEPA, strumenti Consip o piattaforme digitali pertinenti? | Scelta dello strumento di acquisto o negoziazione. |
-| 6. Procedura | Quale modello di affidamento e' applicabile? | Affidamento diretto, procedura negoziata, aperta, ristretta o altro istituto. |
-| 7. Documenti | La prestazione e' definita in modo controllabile? | Capitolato, condizioni, requisiti, livelli di servizio, tempi. |
+| 6. Procedura | Quale modello di affidamento è applicabile? | Affidamento diretto, procedura negoziata, aperta, ristretta o altro istituto. |
+| 7. Documenti | La prestazione è definita in modo controllabile? | Capitolato, condizioni, requisiti, livelli di servizio, tempi. |
 | 8. Digitalizzazione | Come vengono gestiti dati, CIG, piattaforme, BDNCP e verifiche? | Tracciabilita digitale e verifica requisiti. |
 | 9. Esecuzione | Chi controlla consegna, tempi, qualita e conformita? | Verifica, contestazioni, penali, liquidazione solo dopo controllo. |
 | 10. Trasparenza e archiviazione | Quali dati e atti restano controllabili? | Pubblicita, Amministrazione trasparente, BDNCP, fascicolo e rendicontazione. |
 
-Questa tabella e' la tua risposta breve. Se una prova chiede "come procederebbe l'ente?", puoi trasformarla in dieci frasi ordinate.
+Questa tabella è la tua risposta breve. Se una prova chiede "come procederebbe l'ente?", puoi trasformarla in dieci frasi ordinate.
 
 ### Principi e conseguenze per l'ente
 
@@ -148,11 +148,11 @@ In un EPNE questi principi diventano domande concrete. Il bene o servizio rispon
 
 Nel lessico concorsuale devi distinguere bene i soggetti.
 
-La stazione appaltante e' il soggetto che affida il contratto. Nel nostro perimetro puo' essere un EPNE o una sua articolazione competente secondo ordinamento interno e atti organizzativi. L'operatore economico e' il soggetto che offre beni, servizi o lavori sul mercato. Il RUP, nel Codice 2023, e' il responsabile unico del progetto: coordina il percorso contrattuale secondo le regole applicabili e non va ridotto a un semplice firmatario.
+La stazione appaltante è il soggetto che affida il contratto. Nel nostro perimetro può essere un EPNE o una sua articolazione competente secondo ordinamento interno e atti organizzativi. L'operatore economico è il soggetto che offre beni, servizi o lavori sul mercato. Il RUP, nel Codice 2023, è il responsabile unico del progetto: coordina il percorso contrattuale secondo le regole applicabili e non va ridotto a un semplice firmatario.
 
 Accanto al RUP possono intervenire l'ufficio richiedente, che conosce il fabbisogno; l'ufficio contratti o acquisti, che presidia procedura e documenti; gli uffici contabili, che verificano copertura, impegno, liquidazione e pagamento; il direttore dell'esecuzione, quando previsto o necessario, che controlla la prestazione; gli organi di controllo interno e le funzioni anticorruzione/trasparenza, quando la vicenda lo richiede.
 
-Nei mini-casi EPNE e' utile usare una formula prudente:
+Nei mini-casi EPNE è utile usare una formula prudente:
 
 > il RUP coordina il progetto contrattuale, ma la correttezza dell'acquisto dipende dal raccordo tra fabbisogno tecnico, procedura, copertura contabile, esecuzione e trasparenza.
 
@@ -187,7 +187,7 @@ Una risposta completa precisa anche che competenze e assetto concreto dipendono 
 
 ### Acquisti e forniture: casi ricorrenti negli EPNE
 
-Un ente pubblico non economico puo' acquistare beni e servizi molto diversi. La logica concorsuale cambia in base all'oggetto.
+Un ente pubblico non economico può acquistare beni e servizi molto diversi. La logica concorsuale cambia in base all'oggetto.
 
 | Caso | Attenzione principale | Errore da evitare |
 | --- | --- | --- |
@@ -198,15 +198,15 @@ Un ente pubblico non economico puo' acquistare beni e servizi molto diversi. La 
 | Formazione del personale | Coerenza con competenze, PIAO, fabbisogni e profili. | Comprare corsi generici non collegati a obiettivi. |
 | Sicurezza e prevenzione | Necessita, urgenza, responsabilita, DPI, controlli e documentazione. | Usare l'urgenza come motivo per saltare ogni tracciabilita. |
 
-Il candidato non deve inventare procedure specifiche se non sono nella traccia. Deve pero' mostrare sensibilita amministrativa: ogni oggetto richiede definizione, controllo, responsabilita e prova dell'utilita.
+Il candidato non deve inventare procedure specifiche se non sono nella traccia. Deve però mostrare sensibilita amministrativa: ogni oggetto richiede definizione, controllo, responsabilita e prova dell'utilita.
 
 ### Strumenti digitali, MEPA e Consip
 
-Le informazioni istituzionali su MEPA, Consip e Acquisti in Rete richiedono una distinzione essenziale. Consip opera nell'ambito del programma di razionalizzazione degli acquisti della pubblica amministrazione. Acquisti in Rete e' il portale attraverso cui amministrazioni e imprese accedono a strumenti di acquisto e negoziazione. Il MEPA e' uno strumento, non un sinonimo di Consip.
+Le informazioni istituzionali su MEPA, Consip e Acquisti in Rete richiedono una distinzione essenziale. Consip opera nell'ambito del programma di razionalizzazione degli acquisti della pubblica amministrazione. Acquisti in Rete è il portale attraverso cui amministrazioni e imprese accedono a strumenti di acquisto e negoziazione. Il MEPA è uno strumento, non un sinonimo di Consip.
 
 Nel contesto M-FC03 questi strumenti vanno applicati a un acquisto concreto. Prima di acquisire un servizio o una fornitura, l'EPNE verifica convenzioni, accordi quadro, mercato elettronico e altri strumenti pertinenti. Il controllo permette di confrontare le condizioni, organizzare meglio la domanda e limitare la frammentazione della spesa.
 
-Il portale, pero', non consente di aggirare il Codice. Anche un acquisto su MEPA o tramite strumenti centralizzati richiede:
+Il portale, però, non consente di aggirare il Codice. Anche un acquisto su MEPA o tramite strumenti centralizzati richiede:
 
 - fabbisogno chiaro;
 - competenza dell'ufficio;
@@ -218,7 +218,7 @@ Il portale, pero', non consente di aggirare il Codice. Anche un acquisto su MEPA
 - controllo dell'esecuzione;
 - liquidazione e pagamento solo dopo le verifiche necessarie.
 
-Nei quiz compare spesso l'affermazione "siccome e' su MEPA, non serve motivare". E' falsa: il digitale semplifica e traccia, ma non elimina principi, responsabilita e controlli.
+Nei quiz compare spesso l'affermazione "siccome è su MEPA, non serve motivare". È falsa: il digitale semplifica e traccia, ma non elimina principi, responsabilita e controlli.
 
 ### Qualificare l'oggetto prima di scegliere lo strumento
 
@@ -251,7 +251,7 @@ Per il candidato M-FC03 le definizioni essenziali sono queste:
 | CIG | Codice identificativo collegato alla procedura o al contratto ai fini di tracciabilita e monitoraggio. |
 | Piattaforme digitali | Strumenti di approvvigionamento che gestiscono procedure, dati, comunicazioni e interoperabilita. |
 
-Gli errori frequenti sono due. Il primo e' confondere BDNCP e FVOE: la prima riguarda dati dei contratti, il secondo la verifica dell'operatore. Il secondo e' trattare il CIG come dettaglio contabile. Il CIG ha rilievo nel sistema di tracciabilita, monitoraggio e legalita del contratto; si collega anche ai pagamenti, ma non nasce come semplice numero di fattura.
+Gli errori frequenti sono due. Il primo è confondere BDNCP e FVOE: la prima riguarda dati dei contratti, il secondo la verifica dell'operatore. Il secondo è trattare il CIG come dettaglio contabile. Il CIG ha rilievo nel sistema di tracciabilita, monitoraggio e legalita del contratto; si collega anche ai pagamenti, ma non nasce come semplice numero di fattura.
 
 ### Un unico ciclo, funzioni diverse
 
@@ -284,9 +284,9 @@ Il controllo della coerenza va ripetuto quando cambiano dati o documenti della p
 
 ### Trasparenza, anticorruzione e controlli
 
-I contratti pubblici sono un'area sensibile perche' l'amministrazione sceglie operatori, assegna risorse, definisce condizioni, verifica prestazioni e paga. Trasparenza, anticorruzione e tracciabilita accompagnano quindi tutte le fasi dell'acquisto.
+I contratti pubblici sono un'area sensibile perché l'amministrazione sceglie operatori, assegna risorse, definisce condizioni, verifica prestazioni e paga. Trasparenza, anticorruzione e tracciabilita accompagnano quindi tutte le fasi dell'acquisto.
 
-Negli EPNE il rischio non riguarda solo la grande gara. Anche un acquisto ricorrente, una manutenzione, una fornitura urgente o un servizio di supporto possono generare problemi se il fabbisogno e' costruito male, se il mercato non viene considerato, se la procedura e' frammentata, se manca tracciabilita, se il conflitto di interessi non viene gestito o se l'esecuzione non viene verificata.
+Negli EPNE il rischio non riguarda solo la grande gara. Anche un acquisto ricorrente, una manutenzione, una fornitura urgente o un servizio di supporto possono generare problemi se il fabbisogno è costruito male, se il mercato non viene considerato, se la procedura è frammentata, se manca tracciabilita, se il conflitto di interessi non viene gestito o se l'esecuzione non viene verificata.
 
 Una risposta da concorso deve collegare almeno quattro presidi:
 
@@ -327,9 +327,9 @@ Il fascicolo contrattuale deve permettere anche a chi non ha seguito personalmen
 
 ### Caso ragionato: acquisto di un servizio per sportelli EPNE
 
-Traccia: un EPNE deve acquistare un servizio di gestione appuntamenti e supporto digitale per le sedi territoriali. L'obiettivo e' ridurre code, migliorare tracciabilita delle richieste e supportare utenti che hanno difficolta con i canali online. Un ufficio propone di affidare rapidamente il servizio a un operatore gia conosciuto, perche' "ha gia lavorato bene".
+Traccia: un EPNE deve acquistare un servizio di gestione appuntamenti e supporto digitale per le sedi territoriali. L'obiettivo è ridurre code, migliorare tracciabilita delle richieste e supportare utenti che hanno difficolta con i canali online. Un ufficio propone di affidare rapidamente il servizio a un operatore gia conosciuto, perché "ha gia lavorato bene".
 
-Limitarsi a scrivere "si puo' procedere con affidamento diretto se l'importo lo consente" lascia fuori fabbisogno, mercato, strumenti, digitalizzazione, dati ed esecuzione.
+Limitarsi a scrivere "si può procedere con affidamento diretto se l'importo lo consente" lascia fuori fabbisogno, mercato, strumenti, digitalizzazione, dati ed esecuzione.
 
 Per completare il ragionamento, applica la griglia seguente.
 
@@ -346,7 +346,7 @@ Per completare il ragionamento, applica la griglia seguente.
 | Digitalizzazione | La procedura e i dati contrattuali vanno gestiti tramite piattaforme e sistemi previsti, con CIG e comunicazioni dovute. |
 | Esecuzione | Prima di liquidare, l'ente verifica prestazione, resoconti, qualita, continuita, reclami e conformita. |
 
-Conclusione: l'operatore gia conosciuto non e' automaticamente escluso, ma non puo' essere scelto solo per fiducia informale. La fiducia del Codice valorizza responsabilita e risultato, non scorciatoie arbitrarie. L'ente deve dimostrare bisogno, regole seguite, tracciabilita, controllo e risultato utile.
+Conclusione: l'operatore gia conosciuto non è automaticamente escluso, ma non può essere scelto solo per fiducia informale. La fiducia del Codice valorizza responsabilita e risultato, non scorciatoie arbitrarie. L'ente deve dimostrare bisogno, regole seguite, tracciabilita, controllo e risultato utile.
 
 ### Domanda da commissario
 
@@ -356,17 +356,17 @@ Conclusione: l'operatore gia conosciuto non e' automaticamente escluso, ma non p
 
 ### Domanda-trappola
 
-**Domanda:** se l'acquisto viene effettuato tramite MEPA, l'ente puo' considerare automaticamente rispettate le regole del Codice?
+**Domanda:** se l'acquisto viene effettuato tramite MEPA, l'ente può considerare automaticamente rispettate le regole del Codice?
 
 **Risposta corretta:** no. Il MEPA e gli strumenti digitali facilitano acquisto, negoziazione e tracciabilita, ma non eliminano fabbisogno, competenza, copertura, motivazione, scelta coerente dello strumento, verifica requisiti, CIG quando dovuto, controlli, trasparenza ed esecuzione corretta. Il portale non sostituisce la responsabilita amministrativa dell'ente.
 
-**Perche' e' una trappola:** confonde lo strumento con la procedura complessiva. Il digitale aiuta a gestire il ciclo, ma non trasforma l'acquisto in un atto automatico.
+**Perché è una trappola:** confonde lo strumento con la procedura complessiva. Il digitale aiuta a gestire il ciclo, ma non trasforma l'acquisto in un atto automatico.
 
 ### Errore tipico
 
-L'errore piu' frequente e' fermarsi alla scelta dell'operatore.
+L'errore più frequente è fermarsi alla scelta dell'operatore.
 
-Il candidato scrive che l'ente deve "fare la gara" o "procedere con affidamento diretto" e chiude la risposta. Manca tutto il resto: perche' si acquista, chi coordina, quale strumento si usa, come si verifica il mercato, quali dati vengono trattati, come si controlla l'esecuzione, quando si paga, che cosa si pubblica o comunica.
+Il candidato scrive che l'ente deve "fare la gara" o "procedere con affidamento diretto" e chiude la risposta. Manca tutto il resto: perché si acquista, chi coordina, quale strumento si usa, come si verifica il mercato, quali dati vengono trattati, come si controlla l'esecuzione, quando si paga, che cosa si pubblica o comunica.
 
 Per correggere questa impostazione:
 
@@ -386,9 +386,9 @@ Costruisci in 25 minuti un mini-caso di acquisto EPNE. Scegli uno scenario: serv
 | --- | --- |
 | Quale ente o ufficio ha il fabbisogno? | |
 | Quale servizio pubblico o funzione viene sostenuta? | |
-| L'oggetto e' servizio, fornitura, lavoro, concessione o contratto misto? | |
+| L'oggetto è servizio, fornitura, lavoro, concessione o contratto misto? | |
 | Quali dati, rischi o utenti sono coinvolti? | |
-| Chi e' il RUP o quale figura va individuata? | |
+| Chi è il RUP o quale figura va individuata? | |
 | Quali uffici devono essere coinvolti? | |
 | Esistono convenzioni, accordi quadro, MEPA o altri strumenti da verificare? | |
 | Quale procedura ipotizzo in modo prudente? | |
@@ -397,7 +397,7 @@ Costruisci in 25 minuti un mini-caso di acquisto EPNE. Scegli uno scenario: serv
 | Come controllo l'esecuzione prima del pagamento? | |
 | Quale errore devo registrare nel diario? | |
 
-Correzione: se la tua risposta contiene solo "affidamento diretto" o "gara", e' insufficiente. Devi mostrare almeno fabbisogno, soggetti, strumento, procedura, esecuzione e controllo.
+Correzione: se la tua risposta contiene solo "affidamento diretto" o "gara", è insufficiente. Devi mostrare almeno fabbisogno, soggetti, strumento, procedura, esecuzione e controllo.
 
 ### Diario errori del capitolo
 
@@ -422,11 +422,11 @@ Prima di passare al capitolo successivo, verifica se sai rispondere senza appunt
 
 | Verifica | Risposta pronta? |
 | --- | ---: |
-| So spiegare perche' un acquisto EPNE parte dal fabbisogno e non dal fornitore? | |
+| So spiegare perché un acquisto EPNE parte dal fabbisogno e non dal fornitore? | |
 | So distinguere servizio, fornitura, lavoro, appalto, concessione e affidamento? | |
 | So indicare il ruolo del RUP come responsabile unico del progetto? | |
 | So distinguere Consip, Acquisti in Rete, MEPA, convenzione e accordo quadro? | |
-| So spiegare perche' l'affidamento diretto non e' scelta arbitraria? | |
+| So spiegare perché l'affidamento diretto non è scelta arbitraria? | |
 | So collegare CIG, BDNCP, FVOE, tracciabilita e ANAC? | |
 | So collegare acquisti, contabilita, liquidazione e pagamento? | |
 | So costruire un mini-caso con fabbisogno, procedura, esecuzione e controllo? | |

@@ -2,7 +2,7 @@
 id: planning-m-fc03-enti-non-economici-piano-editoriale
 type: editorial_plan
 title: "Piano editoriale - M-FC03 Enti pubblici non economici"
-status: source_ready
+status: revised_draft
 domain: "concorsi pubblici italiani"
 topics: ["moduli specialistici","funzioni centrali","enti pubblici non economici","metodo bando"]
 entities: ["Metodo BANDO","INPS","INAIL","ACI","ENAC","ISTAT","ASI","ENEA","CONI","CRI"]
@@ -23,7 +23,7 @@ book_id: m-fc03-enti-non-economici
 module_code: M-FC03
 module_family: funzioni-centrali
 companion_to: il-metodo-bando
-draft_stage: source-ready
+draft_stage: step-14-corrected
 last_compiled_from: [
   "C:/Users/aless/OneDrive/Desktop/Modulo M-FC03 \u2013 Enti Pubblici Non E.txt",
   "wiki/books/moduli/architettura-moduli-specialistici.md",
@@ -118,6 +118,7 @@ Target indicativo: circa 30.000 parole, piu appendici operative. Ogni capitolo d
 | C | Schede rapide ACI, ENAC, ISTAT, ENEA, ASI, CONI e CRI | 1.500 | Orientamento ente-specifico senza creare manuali separati. |
 | D | Errori tipici nei bandi EPNE | 900 | Checklist anti-dispersione. |
 | E | Rinvii ragionati ad altri moduli | 800 | Confini con ricerca, ICT, appalti avanzati, authority e agenzie fiscali. |
+| F | Materie integrative INAIL/RIPAM | 3.000 | UE, civile, lavoro e sicurezza, finanza, processo civile, penale PA e orientamento per il profilo sociale. |
 
 ## Decisioni di copertura
 
@@ -129,9 +130,10 @@ Target indicativo: circa 30.000 parole, piu appendici operative. Ogni capitolo d
 - Agenzie fiscali passano a M-FC02.
 - Authority indipendenti passano a M-FC05.
 
-## Note di review
+## Controlli per audit specialistico e text freeze
 
-- Prima della scrittura finale dei capitoli 3 e 4 verificare pagine INPS/INAIL aggiornate su prestazioni, servizi e regolamenti.
-- Prima dei capitoli 6 e 7 verificare PIAO, bilanci e sezioni amministrazione trasparente dell'anno in corso.
-- Prima di citare bandi specifici aprire bando, allegati e avvisi ufficiali su inPA, Formez o portale ente.
-- Ogni dato numerico su posti, scadenze, calendari o prove deve essere trattato come instabile e verificato alla data di pubblicazione.
+- Allo step 15 verificare pagine INPS/INAIL aggiornate su prestazioni, servizi e regolamenti.
+- Allo step 15 verificare PIAO, bilanci e sezioni amministrazione trasparente dell'anno in corso.
+- Per i bandi specifici controllare bando, allegati e avvisi ufficiali su inPA, Formez o portale ente.
+- Trattare ogni dato numerico su posti, scadenze, calendari o prove come instabile e verificarlo al cut-off editoriale.
+- Verificare le fonti normative e professionali dell'Appendice F prima del text freeze.

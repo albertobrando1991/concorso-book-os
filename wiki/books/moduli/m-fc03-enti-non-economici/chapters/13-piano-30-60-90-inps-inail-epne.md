@@ -1,4 +1,4 @@
-﻿---
+---
 id: chapter-m-fc03-13-piano-30-60-90-inps-inail-epne
 type: book_chapter
 title: "Piano 30/60/90 per INPS, INAIL ed EPNE"
@@ -16,7 +16,7 @@ canonical: true
 tags: ["book-chapter","module-code-m-fc03","professional-draft","study-plan"]
 book_id: m-fc03-enti-non-economici
 outline_section: 13
-draft_stage: step-09-format-2
+draft_stage: step-14-corrected
 module_code: M-FC03
 module_family: funzioni-centrali
 companion_to: il-metodo-bando

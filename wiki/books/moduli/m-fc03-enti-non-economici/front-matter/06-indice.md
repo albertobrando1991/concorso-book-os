@@ -43,7 +43,7 @@ last_compiled_from: [
 | Frontespizio | M-FC03, Funzioni Centrali, EPNE, INPS, INAIL, ACI, ENAC, ISTAT, ASI, ENEA, CONI, CRI. | Dichiarare identita, perimetro e collocazione nella collana. |
 | Copyright e note editoriali | Uso didattico, fonti ufficiali, limiti di aggiornamento, verifica bandi. | Proteggere il lettore da uso improprio e promesse eccessive. |
 | Sommario | Percorso del modulo, materie specialistiche, prove, casi e piano operativo. | Dare una visione rapida prima dello studio. |
-| Premessa | Perche' gli EPNE non sono concorsi amministrativi generici. | Motivare il modulo e il metodo di lavoro. |
+| Premessa | Perché gli EPNE non sono concorsi amministrativi generici. | Motivare il modulo e il metodo di lavoro. |
 | Indice | Front matter, 13 capitoli, 6 appendici. | Orientare lettura, ripasso e preparazione. |
 
 ## Parte I - Perimetro, enti e fonti
@@ -92,4 +92,4 @@ last_compiled_from: [
 
 ## Nota di uso
 
-L'indice e' pensato per la dashboard e per l'export editoriale: mostra parti e capitoli senza sottorighe 1.1/2.1, in coerenza con lo standard dei moduli specialistici. Il dettaglio operativo dei sottoblocchi resta nel piano editoriale e nei singoli capitoli.
+L'indice è pensato per la dashboard e per l'export editoriale: mostra parti e capitoli senza sottorighe 1.1/2.1, in coerenza con lo standard dei moduli specialistici. Il dettaglio operativo dei sottoblocchi resta nel piano editoriale e nei singoli capitoli.

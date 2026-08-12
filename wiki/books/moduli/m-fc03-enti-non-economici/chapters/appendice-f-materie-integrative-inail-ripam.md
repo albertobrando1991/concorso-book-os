@@ -2,7 +2,7 @@
 id: appendix-m-fc03-f-materie-integrative-inail-ripam
 type: book_chapter
 title: "Materie integrative INAIL/RIPAM"
-status: draft
+status: revised_draft
 domain: "concorsi pubblici italiani"
 topics: ["materie integrative", "INAIL", "RIPAM", "diritto europeo", "diritto civile", "diritto del lavoro", "sicurezza sul lavoro", "scienze delle finanze", "diritto processuale civile", "reati contro la pubblica amministrazione", "servizio sociale"]
 entities: ["INAIL", "RIPAM", "Formez"]
@@ -16,7 +16,7 @@ canonical: true
 tags: ["book-chapter", "appendix", "module-code-m-fc03", "materie-integrative", "format-2"]
 book_id: m-fc03-enti-non-economici
 outline_section: "F"
-draft_stage: reader-draft
+draft_stage: step-14-corrected
 module_code: M-FC03
 module_family: funzioni-centrali
 format_version: 2

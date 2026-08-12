@@ -2,7 +2,7 @@
 id: frontmatter-m-fc03-frontespizio
 type: front_matter
 title: "Frontespizio"
-status: source_ready
+status: revised_draft
 domain: "concorsi pubblici italiani"
 topics: ["frontespizio","moduli specialistici","enti pubblici non economici"]
 entities: ["Metodo BANDO"]
@@ -17,7 +17,7 @@ tags: ["front-matter","title-page","module-code-m-fc03"]
 book_id: m-fc03-enti-non-economici
 outline_section: "FM2"
 front_matter_layout: title-page
-draft_stage: source-ready
+draft_stage: step-14-corrected
 module_code: M-FC03
 module_family: funzioni-centrali
 last_compiled_from: ["wiki/books/moduli/m-fc03-enti-non-economici/index.md"]

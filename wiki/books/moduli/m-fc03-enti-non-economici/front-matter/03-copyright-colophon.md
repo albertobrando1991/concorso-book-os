@@ -2,7 +2,7 @@
 id: frontmatter-m-fc03-copyright-colophon
 type: front_matter
 title: "Copyright e note editoriali"
-status: source_ready
+status: revised_draft
 domain: "concorsi pubblici italiani"
 topics: ["copyright","note editoriali","moduli specialistici"]
 entities: ["Metodo BANDO","Capitale Personale"]
@@ -17,7 +17,7 @@ tags: ["front-matter","copyright","module-code-m-fc03"]
 book_id: m-fc03-enti-non-economici
 outline_section: "FM3"
 front_matter_layout: copyright
-draft_stage: source-ready
+draft_stage: step-14-corrected
 module_code: M-FC03
 module_family: funzioni-centrali
 last_compiled_from: ["wiki/books/il-metodo-bando/front-matter/03-copyright-colophon.md"]
@@ -25,7 +25,7 @@ last_compiled_from: ["wiki/books/il-metodo-bando/front-matter/03-copyright-colop
 
 # Copyright e note editoriali
 
-Questo modulo e' parte del sistema editoriale Metodo BANDO. Il contenuto e' progettato per la preparazione ai concorsi pubblici e non sostituisce bandi, avvisi, comunicazioni ufficiali, norme vigenti, regolamenti interni degli enti o consulenza professionale.
+Questo modulo è parte del sistema editoriale Metodo BANDO. Il contenuto è progettato per la preparazione ai concorsi pubblici e non sostituisce bandi, avvisi, comunicazioni ufficiali, norme vigenti, regolamenti interni degli enti o consulenza professionale.
 
 Le fonti normative e istituzionali sono usate con finalita didattica e concorsuale. Prima dell'uso operativo su un bando reale, il candidato deve verificare:
 

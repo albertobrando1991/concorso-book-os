@@ -16,7 +16,7 @@ canonical: true
 tags: ["book-chapter","appendix","module-code-m-fc03","professional-draft","glossary"]
 book_id: m-fc03-enti-non-economici
 outline_section: "B"
-draft_stage: step-11-humanized
+draft_stage: step-14-corrected
 module_code: M-FC03
 module_family: funzioni-centrali
 companion_to: il-metodo-bando
