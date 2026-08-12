@@ -2196,6 +2196,330 @@
       "reviewer": "codex-step15-didactic-batch-a",
       "gateId": "step-15",
       "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-04-01",
+      "dimension": "application",
+      "evidenceQuote": "La modellazione parte dalle domande alle quali il sistema deve rispondere e dalle regole che non può violare. Da qui emergono le entità, cioè gli oggetti di interesse, e i loro attributi pertinenti. Relazioni e cardinalità diventano quindi tabelle, chiavi e vincoli. Partire direttamente dalle colonne rischia di incorporare nello schema abitudini dell’ufficio non dichiarate o dati che appartengono a concetti diversi.",
+      "sourceLocation": "chapters/04-basi-dati-sql-nosql-qualita-dato.md#n-tr01-04-01",
+      "reviewer": "codex-step15-didactic-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-04-01",
+      "dimension": "competition-output",
+      "evidenceQuote": "La modellazione parte dalle domande alle quali il sistema deve rispondere e dalle regole che non può violare. Da qui emergono le entità, cioè gli oggetti di interesse, e i loro attributi pertinenti. Relazioni e cardinalità diventano quindi tabelle, chiavi e vincoli. Partire direttamente dalle colonne rischia di incorporare nello schema abitudini dell’ufficio non dichiarate o dati che appartengono a concetti diversi.",
+      "sourceLocation": "chapters/04-basi-dati-sql-nosql-qualita-dato.md#n-tr01-04-01",
+      "reviewer": "codex-step15-didactic-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-04-02",
+      "dimension": "application",
+      "evidenceQuote": "Anche `NULL` va deciso nel modello. Può significare dato non ancora noto, non applicabile o non acquisito: significati diversi che una sola rappresentazione rischia di confondere. Rendere un campo obbligatorio impedisce assenze future, ma non garantisce che il valore inserito sia vero. Vincoli strutturali, controlli applicativi e verifiche sul processo si completano a vicenda.",
+      "sourceLocation": "chapters/04-basi-dati-sql-nosql-qualita-dato.md#n-tr01-04-02",
+      "reviewer": "codex-step15-didactic-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-04-02",
+      "dimension": "competition-output",
+      "evidenceQuote": "Considera `Assegnazione(id_pratica, id_dipendente, nome_dipendente, ruolo, nome_ufficio)`. Se la chiave è composta da pratica e dipendente, `nome_dipendente` dipende solo da `id_dipendente`: è un problema di 2NF. Se il dipendente appartiene a un ufficio e il nome dell’ufficio dipende dall’identificativo dell’ufficio, conservarlo nella stessa tabella introduce una dipendenza transitiva. Le tabelle `Dipendente`, `Ufficio` e `Assegnazione` rendono esplicite le responsabilità dei dati.",
+      "sourceLocation": "chapters/04-basi-dati-sql-nosql-qualita-dato.md#n-tr01-04-02",
+      "reviewer": "codex-step15-didactic-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-04-03",
+      "dimension": "application",
+      "evidenceQuote": "L’ordine logico aiuta a leggere una query: si individuano sorgenti e join, si applicano i filtri sulle righe, si formano i gruppi, si calcolano le aggregazioni, si filtrano i gruppi e infine si ordina il risultato. Questa sequenza spiega perché una condizione su `COUNT(*)` appartiene normalmente a `HAVING`, mentre una condizione sullo stato della singola pratica appartiene a `WHERE`.",
+      "sourceLocation": "chapters/04-basi-dati-sql-nosql-qualita-dato.md#n-tr01-04-03",
+      "reviewer": "codex-step15-didactic-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-04-03",
+      "dimension": "competition-output",
+      "evidenceQuote": "Scrivere SQL significa prevedere il significato del risultato, oltre a produrre una sintassi valida. Prima della query si stabilisce quale unità rappresenta ogni riga attesa. Se l’output deve contenere una riga per ufficio, una join con pratiche e soggetti può moltiplicare le righe prima dell’aggregazione. Il conteggio dipende allora dalla domanda: pratiche, soggetti, collegamenti o valori distinti non sono la stessa misura.",
+      "sourceLocation": "chapters/04-basi-dati-sql-nosql-qualita-dato.md#n-tr01-04-03",
+      "reviewer": "codex-step15-didactic-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-04-04",
+      "dimension": "application",
+      "evidenceQuote": "Anche una transazione ben delimitata deve gestire gli errori. Dopo un’eccezione, l’applicazione deve sapere se annullare, riprovare o segnalare l’operazione. I tentativi ripetuti richiedono attenzione: un comando non progettato per essere ripetuto può duplicare effetti. La registrazione dell’esito e l’identificazione univoca dell’operazione aiutano a distinguere un nuovo evento dalla ripetizione dello stesso.",
+      "sourceLocation": "chapters/04-basi-dati-sql-nosql-qualita-dato.md#n-tr01-04-04",
+      "reviewer": "codex-step15-didactic-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-04-04",
+      "dimension": "competition-output",
+      "evidenceQuote": "Il piano di esecuzione mostra come il DBMS intende accedere ai dati: scansioni, indici, join e stime. È una previsione legata a statistiche, parametri, distribuzione dei valori e volume, tutti fattori che possono cambiare la scelta. La verifica professionale confronta piano previsto, misure e carico rappresentativo. In una prova basta spiegare che un indice è candidato quando sostiene un pattern frequente e selettivo; il contesto reale ne dimostrerà l’utilità.",
+      "sourceLocation": "chapters/04-basi-dati-sql-nosql-qualita-dato.md#n-tr01-04-04",
+      "reviewer": "codex-step15-didactic-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-04-05",
+      "dimension": "application",
+      "evidenceQuote": "Nel modello documentale conviene individuare l’**aggregato**, cioè l’insieme di dati che viene letto e aggiornato come unità. Incorporare nello stesso documento informazioni usate insieme può semplificare alcune operazioni. Se però lo stesso dato è condiviso da molti documenti e cambia spesso, la duplicazione rende più difficile mantenere coerenza. Il riferimento separa le informazioni, ma può richiedere più letture o elaborazioni applicative.",
+      "sourceLocation": "chapters/04-basi-dati-sql-nosql-qualita-dato.md#n-tr01-04-05",
+      "reviewer": "codex-step15-didactic-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-04-05",
+      "dimension": "competition-output",
+      "evidenceQuote": "Per motivare la tecnologia, il candidato può costruire una matrice: struttura dei dati, relazioni, operazioni dominanti, volumi, distribuzione, consistenza, latenza, evoluzione dello schema, competenze e gestione. Ogni requisito deve collegarsi a una conseguenza progettuale. Se servono vincoli forti e join articolate, il modello relazionale è un candidato naturale; se l’unità di lettura è un documento variabile e autonomo, un modello documentale può ridurre trasformazioni.",
+      "sourceLocation": "chapters/04-basi-dati-sql-nosql-qualita-dato.md#n-tr01-04-05",
+      "reviewer": "codex-step15-didactic-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-04-06",
+      "dimension": "application",
+      "evidenceQuote": "Il DBMS deve permettere soltanto le operazioni necessarie al ruolo. Un utente che produce statistiche può ricevere `SELECT` senza poter cancellare righe; un servizio applicativo può ottenere privilegi su un insieme circoscritto di oggetti.",
+      "sourceLocation": "chapters/04-basi-dati-sql-nosql-qualita-dato.md#n-tr01-04-06",
+      "reviewer": "codex-step15-didactic-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-04-06",
+      "dimension": "competition-output",
+      "evidenceQuote": "Per ogni regola di qualità specifica popolazione osservata, formula, frequenza di misura e azione conseguente. Per esempio, la completezza dei campi obbligatori può essere espressa come rapporto fra pratiche complete e pratiche esaminate in un intervallo dichiarato. Il valore acquista significato quando sono definiti i campi obbligatori, il momento della rilevazione e la soglia che attiva una verifica.",
+      "sourceLocation": "chapters/04-basi-dati-sql-nosql-qualita-dato.md#n-tr01-04-06",
+      "reviewer": "codex-step15-didactic-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-05-01",
+      "dimension": "application",
+      "evidenceQuote": "Per leggere una comunicazione si segue il dato lungo il percorso. Un browser produce una richiesta applicativa, il trasporto la associa a due estremità, IP individua il percorso fra le reti ed Ethernet o Wi-Fi gestiscono il passaggio sul collegamento locale. A ogni tratto possono cambiare il frame e gli indirizzi di collegamento; la destinazione IP resta quella prevista, salvo funzioni intermedie come la traduzione degli indirizzi. Il “pacchetto”, dunque, non è un oggetto identico a ogni livello.",
+      "sourceLocation": "chapters/05-reti-sistemi-operativi-infrastrutture.md#n-tr01-05-01",
+      "reviewer": "codex-step15-didactic-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-05-01",
+      "dimension": "competition-output",
+      "evidenceQuote": "Il traffico broadcast resta confinato nel relativo dominio di collegamento; una VLAN può separare logicamente tali domini anche quando gli apparati fisici sono condivisi. Questa separazione migliora ordine e controllo del traffico, ma la comunicazione fra VLAN richiede routing e regole coerenti. In un caso d’esame bisogna perciò distinguere isolamento di livello 2, percorso di livello 3 e autorizzazione: sono decisioni collegate, non sinonimi.",
+      "sourceLocation": "chapters/05-reti-sistemi-operativi-infrastrutture.md#n-tr01-05-01",
+      "reviewer": "codex-step15-didactic-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-05-02",
+      "dimension": "application",
+      "evidenceQuote": "In IPv4 un indirizzo contiene 32 bit. La notazione CIDR associa un prefisso, per esempio `192.0.2.64/26`. Un `/26` lascia 6 bit per la parte host: il blocco contiene 64 indirizzi, da `192.0.2.64` a `192.0.2.127`. Nel modello IPv4 tradizionale dell’esercizio:",
+      "sourceLocation": "chapters/05-reti-sistemi-operativi-infrastrutture.md#n-tr01-05-02",
+      "reviewer": "codex-step15-didactic-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-05-02",
+      "dimension": "competition-output",
+      "evidenceQuote": "Nella tabella di routing si cerca la rotta più specifica compatibile con la destinazione. La rotta predefinita raccoglie il traffico che non trova una corrispondenza più precisa. La diagnosi comprende anche il percorso di ritorno e gli eventuali filtri: il pacchetto può arrivare a destinazione mentre la risposta non riesce a tornare al mittente.",
+      "sourceLocation": "chapters/05-reti-sistemi-operativi-infrastrutture.md#n-tr01-05-02",
+      "reviewer": "codex-step15-didactic-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-05-03",
+      "dimension": "application",
+      "evidenceQuote": "Quando un utente apre un servizio web, più passaggi devono riuscire. Il client ricava dal nome una destinazione tramite DNS; sceglie una rotta; apre o usa una comunicazione di trasporto verso la porta prevista; infine scambia messaggi applicativi. HTTPS aggiunge la protezione della sessione e la verifica del certificato secondo il contesto. Un errore mostrato dal browser può quindi derivare da livelli diversi.",
+      "sourceLocation": "chapters/05-reti-sistemi-operativi-infrastrutture.md#n-tr01-05-03",
+      "reviewer": "codex-step15-didactic-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-05-03",
+      "dimension": "competition-output",
+      "evidenceQuote": "La diagnosi separa quattro esiti. Un nome che non produce indirizzi porta a controllare resolver, record e cache. Un indirizzo esistente ma irraggiungibile riporta a configurazione e routing. Quando l’host risponde ma la porta rifiuta o non completa la connessione, si verificano listener, servizio e filtraggio. Se invece la connessione riesce ma la risposta è errata, l’attenzione passa al protocollo applicativo, alla configurazione e ai log correlati.",
+      "sourceLocation": "chapters/05-reti-sistemi-operativi-infrastrutture.md#n-tr01-05-03",
+      "reviewer": "codex-step15-didactic-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-05-04",
+      "dimension": "application",
+      "evidenceQuote": "Le dipendenze richiedono lo stesso rigore. Un servizio applicativo può dipendere da un database, da un resolver, da uno storage o da un altro processo locale. La presenza del processo principale non dimostra che tali componenti siano disponibili né che le credenziali e i percorsi configurati siano validi. Il controllo segue la catena fino alla prima evidenza incoerente.",
+      "sourceLocation": "chapters/05-reti-sistemi-operativi-infrastrutture.md#n-tr01-05-04",
+      "reviewer": "codex-step15-didactic-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-05-04",
+      "dimension": "competition-output",
+      "evidenceQuote": "Il servizio si descrive come una catena: configurazione, processo, dipendenze, socket, richiesta e risposta. A ogni passaggio corrisponde un’evidenza osservabile. La struttura mostra la comprensione del sistema operativo e non riduce la diagnosi al comando usato.",
+      "sourceLocation": "chapters/05-reti-sistemi-operativi-infrastrutture.md#n-tr01-05-04",
+      "reviewer": "codex-step15-didactic-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-05-05",
+      "dimension": "application",
+      "evidenceQuote": "La cache richiede una lettura altrettanto prudente: occupare memoria per conservare dati usati di recente può essere utile e quella memoria può diventare recuperabile. Liberarla indiscriminatamente non risolve la causa di una crescita applicativa e può peggiorare temporaneamente le prestazioni. La domanda corretta è se la risorsa rimane disponibile per il carico e con quale latenza.",
+      "sourceLocation": "chapters/05-reti-sistemi-operativi-infrastrutture.md#n-tr01-05-05",
+      "reviewer": "codex-step15-didactic-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-05-05",
+      "dimension": "competition-output",
+      "evidenceQuote": "Una pressione di memoria persistente può manifestarsi come aumento della latenza prima che il servizio fallisca. Se il sistema recupera continuamente pagine e sposta dati fra RAM e storage, le richieste restano in attesa anche con CPU non satura. Occorre correlare andamento temporale delle metriche e tempi di risposta, evitando soglie universali prive di contesto.",
+      "sourceLocation": "chapters/05-reti-sistemi-operativi-infrastrutture.md#n-tr01-05-05",
+      "reviewer": "codex-step15-didactic-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-05-06",
+      "dimension": "application",
+      "evidenceQuote": "No. Il RAID può mantenere il servizio o i dati disponibili in presenza di alcuni guasti dei dischi, secondo il livello adottato. Non crea automaticamente una copia storica indipendente e non protegge da ogni cancellazione, corruzione o errore applicativo.",
+      "sourceLocation": "chapters/05-reti-sistemi-operativi-infrastrutture.md#n-tr01-05-06",
+      "reviewer": "codex-step15-didactic-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-05-06",
+      "dimension": "competition-output",
+      "evidenceQuote": "verificare la configurazione e la risposta DNS per il nome. Il test IP indica che almeno un percorso verso quell’indirizzo esiste, ma non dimostra che il nome sia configurato correttamente.",
+      "sourceLocation": "chapters/05-reti-sistemi-operativi-infrastrutture.md#n-tr01-05-06",
+      "reviewer": "codex-step15-didactic-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-06-01",
+      "dimension": "application",
+      "evidenceQuote": "Il committente definisce obiettivi e vincoli insieme agli utenti e agli altri portatori d’interesse. Gli analisti precisano i requisiti; progettisti e sviluppatori costruiscono la soluzione, mentre i tester raccolgono le evidenze e operations gestisce l’esercizio. Un responsabile del prodotto o del servizio ordina priorità e accettazione. Anche quando un fornitore riunisce più ruoli, responsabilità e criteri decisionali devono restare espliciti.",
+      "sourceLocation": "chapters/06-ingegneria-software-api-interoperabilita-pa.md#n-tr01-06-01",
+      "reviewer": "codex-step15-didactic-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-06-01",
+      "dimension": "competition-output",
+      "evidenceQuote": "Esempio: «ridurre le richieste di certificati già disponibili» è un bisogno. «Il servizio deve verificare, previa autorizzazione, il possesso del requisito anagrafico presso il sistema erogatore» è un requisito funzionale. «La risposta deve essere disponibile entro il tempo concordato e ogni richiesta deve essere tracciabile» introduce requisiti non funzionali. «Dato valido → esito coerente; dato inesistente → errore classificato; fruitore non abilitato → richiesta rifiutata» fornisce criteri verificabili.",
+      "sourceLocation": "chapters/06-ingegneria-software-api-interoperabilita-pa.md#n-tr01-06-01",
+      "reviewer": "codex-step15-didactic-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-06-02",
+      "dimension": "application",
+      "evidenceQuote": "Un sistema **monolitico** distribuisce insieme più funzioni. Può essere semplice da avviare e operare, ma una crescita disordinata rende più difficili modifiche e rilasci. Un’architettura **a livelli** separa responsabilità. Il modello **client-server** distingue richiedente ed erogatore. Un’architettura **a servizi** scompone capacità dietro contratti, aumentando l’autonomia potenziale ma anche esigenze di rete, osservabilità e governo.",
+      "sourceLocation": "chapters/06-ingegneria-software-api-interoperabilita-pa.md#n-tr01-06-02",
+      "reviewer": "codex-step15-didactic-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-06-02",
+      "dimension": "competition-output",
+      "evidenceQuote": "Una risposta architetturale solida muove dai requisiti più vincolanti, propone una struttura, considera almeno un’alternativa e motiva il compromesso. Va inoltre chiarito come verificare la decisione: con test, metriche, un prototipo o una revisione dell’architettura. Senza criteri di verifica, il disegno resta soltanto illustrativo.",
+      "sourceLocation": "chapters/06-ingegneria-software-api-interoperabilita-pa.md#n-tr01-06-02",
+      "reviewer": "codex-step15-didactic-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-06-03",
+      "dimension": "application",
+      "evidenceQuote": "La strategia di test stabilisce che cosa verificare, a quale livello, con quali dati e in quale ambiente. Una quantità elevata di test unitari non compensa l’assenza di prove sulle integrazioni; affidarsi a un solo test end-to-end, d’altra parte, rende la diagnosi lenta e poco precisa. I livelli si completano: vicino al codice si localizzano rapidamente gli errori, mentre le prove più ampie verificano contratti e flussi reali.",
+      "sourceLocation": "chapters/06-ingegneria-software-api-interoperabilita-pa.md#n-tr01-06-03",
+      "reviewer": "codex-step15-didactic-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-06-03",
+      "dimension": "competition-output",
+      "evidenceQuote": "La copertura non si riduce alla percentuale di righe eseguite. Occorre coprire regole, classi di input, confini, errori e rischi. Per un servizio di verifica anagrafica servono almeno esito positivo, requisito assente, identificativo non valido, fruitore non autorizzato, dipendenza indisponibile e risposta oltre il tempo previsto. Ogni caso deve dichiarare l’oracolo, cioè la regola con cui si decide se l’esito è corretto.",
+      "sourceLocation": "chapters/06-ingegneria-software-api-interoperabilita-pa.md#n-tr01-06-03",
+      "reviewer": "codex-step15-didactic-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-06-04",
+      "dimension": "application",
+      "evidenceQuote": "Un errore applicativo dovrebbe avere struttura stabile: codice riconoscibile dal programma, messaggio destinato alla diagnosi, riferimento alla richiesta ed eventuali dettagli consentiti. Il codice HTTP offre la classe dell’esito, ma non sostituisce la semantica del dominio. Due condizioni diverse non devono diventare indistinguibili se richiedono azioni diverse del fruitore.",
+      "sourceLocation": "chapters/06-ingegneria-software-api-interoperabilita-pa.md#n-tr01-06-04",
+      "reviewer": "codex-step15-didactic-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-06-04",
+      "dimension": "competition-output",
+      "evidenceQuote": "La risposta di errore deve permettere al fruitore di capire la classe del problema, correlare l’evento e decidere se correggere la richiesta o riprovarla. Input non valido, risorsa assente, autorizzazione mancante, conflitto e indisponibilità non possono confluire tutti in un generico errore interno.",
+      "sourceLocation": "chapters/06-ingegneria-software-api-interoperabilita-pa.md#n-tr01-06-04",
+      "reviewer": "codex-step15-didactic-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-06-05",
+      "dimension": "application",
+      "evidenceQuote": "L’API management comprende catalogazione, pubblicazione, controllo degli accessi, politiche di utilizzo, versioni, documentazione, misurazione e dismissione. Un gateway può applicare alcune politiche, ma non sostituisce governance, qualità del contratto o autorizzazione applicativa.",
+      "sourceLocation": "chapters/06-ingegneria-software-api-interoperabilita-pa.md#n-tr01-06-05",
+      "reviewer": "codex-step15-didactic-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-06-05",
+      "dimension": "competition-output",
+      "evidenceQuote": "Retry e idempotenza vanno progettati insieme. Un timeout lascia incerto se l’operazione sia stata eseguita; ripetere una creazione non idempotente può produrre duplicati. Il contratto può prevedere una chiave idempotente, un identificativo di richiesta o un’operazione di consultazione dello stato. La scelta dipende dal processo e deve essere verificata con casi di perdita della risposta.",
+      "sourceLocation": "chapters/06-ingegneria-software-api-interoperabilita-pa.md#n-tr01-06-05",
+      "reviewer": "codex-step15-didactic-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-06-06",
+      "dimension": "application",
+      "evidenceQuote": "Un test verifica l’interazione fra servizio applicativo e database. A quale livello appartiene?",
+      "sourceLocation": "chapters/06-ingegneria-software-api-interoperabilita-pa.md#n-tr01-06-06",
+      "reviewer": "codex-step15-didactic-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-06-06",
+      "dimension": "competition-output",
+      "evidenceQuote": "Un possibile contratto concettuale è `POST /verifiche-requisito`. La risposta non deve essere inventata a partire dalla tecnologia: va derivata dal bisogno, dallo schema condiviso e dalle condizioni di trattamento.",
+      "sourceLocation": "chapters/06-ingegneria-software-api-interoperabilita-pa.md#n-tr01-06-06",
+      "reviewer": "codex-step15-didactic-batch-b",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
     }
   ]
 }
