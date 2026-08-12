@@ -11,7 +11,7 @@ book_refs: ["m-tr01-ict-trasformazione-digitale", "il-metodo-bando"]
 confidence: 0.82
 updated_at: 2026-08-10
 created_at: 2026-07-28
-review_required: true
+review_required: false
 canonical: true
 tags: ["chapter", "m-tr01", "software-engineering", "api", "interoperabilita"]
 book_id: m-tr01-ict-trasformazione-digitale
