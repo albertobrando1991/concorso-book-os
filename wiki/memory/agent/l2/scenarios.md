@@ -5440,3 +5440,11 @@
 - l0: l0/conv-20260812095135-s0ackc.md
 - atoms:
   - mem-20260812095135-1ev2fop | result | Esito pipeline-step-16: Procedere con il prossimo step della pipeline VOL-10. -> Step 16 M-TR03 completato con accettazione manuale motivata perché il gate text-freeze non è implementato: manifest 13/13 SHA-256, 78/78 nuclei completi, 155/155 test; prossimo step CLI 18.
+
+## 2026-08-12T09:59:26.874Z - VOL-10
+
+- conversation_id: conv-20260812095926-p9fhiy
+- route: pipeline-step-18
+- l0: l0/conv-20260812095926-p9fhiy.md
+- atoms:
+  - mem-20260812095926-1ad5pt3 | result | Esito pipeline-step-18: Procedere con il prossimo step della pipeline VOL-10. -> Step 18 M-TR03 completato: filosofia Precisione Strutturale confermata; Book Studio 13 capitoli, 0 immagini, 0 path rotti, 161 blocchi tabella e 23 a quattro colonne compatti; 169/169 test; prossimo step CLI 17 volume.

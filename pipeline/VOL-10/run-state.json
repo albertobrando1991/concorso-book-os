@@ -3,7 +3,7 @@
   "specPath": "books/volumi/vol-10-tecnico-ingegneristico-territorio-lavori-pubblici/planning/00-scheda-pipeline.md",
   "specHash": "sha256:b9582ff0b8d13a37147bf7b04c7969c20ebe2e12e1d2c843c1299f83af59b454",
   "createdAt": "2026-07-29T16:39:37.771Z",
-  "updatedAt": "2026-08-12T09:51:27.564Z",
+  "updatedAt": "2026-08-12T09:59:19.642Z",
   "steps": [
     {
       "key": "08:moduli/m-tr03-tecnico-ingegneristico/chapters/01-concorso-tecnico-pa-profili-prove.md",
@@ -1683,9 +1683,24 @@
       "phase": "E",
       "scope": "module",
       "target": "moduli/m-tr03-tecnico-ingegneristico",
-      "status": "pending",
-      "attempts": 1,
-      "evidence": []
+      "status": "done",
+      "attempts": 2,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-12T09:56:47.316Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 18 non prevede un gate automatico."
+          }
+        ]
+      },
+      "finishedAt": "2026-08-12T09:59:19.642Z"
     },
     {
       "key": "00:VOL-10",
