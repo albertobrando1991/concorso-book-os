@@ -1,110 +1,155 @@
 # Report editoriale — M-TR03 Tecnico-ingegneristico
 
 ## 1. Sintesi editoriale
+
 - Genere editoriale: manuale-workbook specialistico per concorsi tecnici nella Pubblica Amministrazione.
 - Pubblico target: candidati ingegneri, architetti/urbanisti, geometri/istruttori tecnici e specialisti di infrastrutture.
-- Perimetro di questa revisione: intero modulo, comprendente indice, piano editoriale, 13 capitoli, matrice v4 e report individuali dello step 12.
-- Stato generale in una frase: i capitoli presentano una progressione didattica coerente e una copertura senza nuclei bloccanti, ma l'apparato d'accesso del modulo è rimasto allo stato pre-scrittura e deve essere riallineato prima della pubblicazione.
+- Perimetro di questa revisione: indice, piano editoriale, Bibbia del Modulo, matrice v4, tredici capitoli e report individuali dello step 12.
+- Stato generale in una frase: progressione e contenuti sono solidi; i due blocchi scoperti sono stati risolti, mentre restano correzioni trasversali medie per lo step 14.
+
+La sequenza profili–ufficio–fondamenti–discipline–ciclo dell'opera–dati–laboratorio è coerente. Tutti i capitoli adottano il Format 2 e contengono sei nuclei, per un totale di 78. Il confronto iniziale aveva restituito soltanto 72 ID nella matrice e quattro wikilink nel corpo del capitolo 1: entrambi i problemi sono stati corretti e verificati nella revisione. Restano disuniformità ortografiche, di metadati e di indice da correggere allo step 14.
 
 ## 2. Punti applicati della checklist
-Applicati i punti 1-26 e 28-30: indice e struttura; progressione; gerarchia; idoneità; coerenza interna e trasversale; terminologia; completezza; definizioni; contenuto tecnico e normativo; esempi; box, tabelle e rinvii; fonti; sintassi, chiarezza, tono e stile; ripetizioni e contraddizioni; grammatica, ortografia, punteggiatura, refusi e uniformità grafica; layout testuale e leggibilità; qualità complessiva. Applicato inoltre il gate di copertura didattica integrale e la logica v4 comune/specialistico/verticale/rinvio. Il punto 27, impaginazione reale, non è applicabile in modo conclusivo perché non era disponibile un PDF impaginato da ispezionare.
+
+| N. | Controllo | Esito | Nota |
+|---:|---|---|---|
+| 1 | Indice e struttura reale | Non conforme | Il titolo del capitolo 6 non coincide integralmente con H1 e frontmatter. |
+| 2 | Struttura logica e completezza | Conforme | Tredici capitoli ordinati e nessun capitolo orfano. |
+| 3 | Progressione logica | Conforme | Le dipendenze 3→4, 5→6 e 7→12 sono rispettate. |
+| 4 | Gerarchia dei titoli | Conforme con rilievo | Sei nuclei numerati per capitolo; resta E05 sull'indice. |
+| 5 | Idoneità alla pubblicazione | Intervento medio richiesto | I blocchi E01-E02 sono risolti; restano E03-E05. |
+| 6 | Coerenza interna dei capitoli | Conforme | I report individuali non mostrano lacune interne residue. |
+| 7 | Coerenza tra capitoli | Conforme | Ruoli, documenti e fasi restano distinti lungo il ciclo dell'opera. |
+| 8 | Coerenza terminologica | Conforme con rilievi | Lessico tecnico stabile; metadati e grafia richiedono uniformazione. |
+| 9 | Completezza delle spiegazioni | Conforme | Gli esempi applicano teoria già sviluppata. |
+| 10 | Accuratezza delle definizioni | Conforme con verifica mobile | Le definizioni sono coerenti; resta l'audit specialistico dello step 15. |
+| 11 | Errori concettuali | Nessuno rilevato | Non emergono contraddizioni concettuali trasversali. |
+| 12 | Errori normativi o contenutistici | Da verificare | Le fonti mobili sono elencate nella sezione 6. |
+| 13 | Esempi | Conforme | Distribuiti tra profili, edificio scolastico, infrastrutture e patrimonio. |
+| 14 | Tabelle, box e schemi | Conforme nel Markdown | Da controllare nel PDF KDP. |
+| 15 | Apparato normativo | Conforme con verifica mobile | Riferimenti leggibili e tracciabilità nel frontmatter. |
+| 16 | Sintassi | Conforme con rilievo | E03 riguarda grafia, non struttura sintattica. |
+| 17 | Chiarezza espositiva | Conforme | Catene decisionali e limiti sono espliciti. |
+| 18 | Tono editoriale | Conforme | Professionale e prudente. |
+| 19 | Stile didattico | Conforme | Teoria, controllo, quiz e casi sono bilanciati. |
+| 20 | Ripetizioni inutili | Nessuna trasversale bloccante | Le riprese del caso-scuola cambiano fase e funzione. |
+| 21 | Contraddizioni | Nessuna rilevata | Non emergono conflitti centrali tra capitoli. |
+| 22 | Grammatica | Conforme con rilievo | Correggere le forme senza accento censite in E03. |
+| 23 | Ortografia | Non conforme | E03 è esteso a cinque capitoli. |
+| 24 | Punteggiatura | Conforme | Nessuna anomalia trasversale sistematica. |
+| 25 | Refusi | Non conforme | Le omissioni d'accento sono sistematiche, non isolate. |
+| 26 | Uniformità grafica | Non conforme | E03 ed E04 producono disomogeneità. |
+| 27 | Impaginazione | Non applicabile | PDF impaginato non disponibile in questo step. |
+| 28 | Layout | Conforme nel sorgente | Resta necessario il preflight di tabelle e box. |
+| 29 | Leggibilità complessiva | Conforme con correzioni | La grafia di E03 riduce la qualità percepita. |
+| 30 | Qualità editoriale complessiva | Non conforme allo stato attuale | Correzioni trasversali necessarie prima dell'audit. |
 
 ## 3. Tabella errori
+
 | ID | Posizione | Categoria | Gravità | Descrizione | Correzione proposta | Stato |
-|----|-----------|-----------|---------|-------------|----------------------|-------|
-| E01 | `index.md`, sezioni Perimetro, Capitoli di lavoro, Fonti da consolidare e Prossimo passo | Indice e corrispondenza struttura reale | Grave | L'indice dichiarava ancora il modulo `source-ready`, affermava che fonti e bandi erano da consolidare e non elencava i 13 capitoli effettivi. | Inserito l'indice ordinato 1-13, separato l'apparato editoriale e aggiornati stato e prossimo passo senza anticipare il text freeze. | Risolto |
-| E02 | `chapters/00-piano-editoriale.md`, Struttura prevista e Testo editoriale | Promesse, completezza e struttura | Grave | Il file era presentato dall'indice come capitolo, sebbene fosse una specifica pre-scrittura con intenzioni non tutte confluite nel manoscritto. | Rimosso dall'indice pubblico e riclassificato come `editorial_plan`, `superseded`, `canonical: false`, `planning-snapshot`; aggiunta nota esplicita. Il contenuto storico è stato preservato. | Risolto |
-| E03 | `index.md`, frontmatter e testo | Coerenza metadati | Media | `status`, `module_status`, `draft_stage`, tag e descrizione testuale erano fermi a `source-ready`. | Allineati a `editorial-review` e `module-review`, mantenendo aperte correzioni, review umana e preflight. | Risolto |
-| E04 | Capp. 7-12, Note di review e rinvii interni | Richiami incrociati e coerenza temporale | Media | Più note dichiarano ancora che capitoli 9-12 “andranno consolidati dopo il completamento”, sebbene ora esistano. Nel corpo molti rinvii usano il solo numero di capitolo; sono comprensibili, ma meno robusti di titolo e heading. | Verificare tutte le destinazioni ora disponibili; sostituire le note temporanee e, nei passaggi critici, usare titolo e heading o wikilink puntuale. | Risolto |
-| E05 | Cap. 1, profili e confini con VOL-02, VOL-09, VOL-11 e VOL-12 | Rinvii cross-family | Media | I confini di famiglia sono concettualmente corretti, ma alcuni rinvii esterni indicano soltanto il codice del volume. Non soddisfano ancora lo standard di destinazione precisa richiesto per un rinvio formativo. | Collegare ogni rinvio necessario a modulo/capitolo/sezione verificati; se la destinazione non è completa, formulare il passaggio come confine editoriale e non come rinvio didattico sostitutivo. | Risolto |
-| E06 | Capp. 3-13 e report individuali step 12 | Accuratezza normativa e tecnica | Media | Restano aperte verifiche professionali e di vigenza su NTC, edilizia, urbanistica, Codice dei contratti, sicurezza, contabilità, ponti, BIM/GIS, catasto e casi integrati. Il testo è prudente e non presenta soglie inventate, ma tali verifiche sono espressamente richieste prima della pubblicazione. | Eseguire la review umana per competenza, fissare una data di cut-off normativa e chiudere ogni voce “da verificare” con fonte, esito e responsabile. | Da verificare |
-| E07 | Tabelle e checklist nei capp. 4, 6-13 | Layout e impaginazione | Lieve | Le tabelle sono leggibili in Markdown, ma densità, larghezze e spezzature non sono state verificate nel formato KDP 6,69 × 9,61 in. | Eseguire il preflight PDF; convertire le tabelle troppo larghe in schede verticali senza ridurre il corpo tipografico. | Da verificare |
+|---|---|---|---|---|---|---|
+| E01 | `planning/02-matrice-copertura-didattica.md` | Copertura didattica integrale | Grave | I capitoli contengono 78 ID Format 2, mentre la matrice ne registrava 72 univoci: erano assenti `N-TR03-09-01`–`N-TR03-09-06`. | Aggiunte copertura, checklist delle undici dimensioni e delta con evidenze reali per ciascuno dei sei nuclei; riconciliazione 78/78 verificata. | Risolto |
+| E02 | Cap. 1, nuclei 02-03 | Contratto dello studente e linking interno | Grave | Il corpo esponeva quattro wikilink verso M-TR04, M-TR02 e M-FL01. | Sostituiti con denominazioni editoriali leggibili, preservando confini e cautele degli instradamenti; nessun wikilink resta nel corpo dei capitoli. | Risolto |
+| E03 | Capp. 6-8, 10-11 | Ortografia e uniformità grafica | Media | In cinque capitoli sono diffuse forme italiane prive dell'accento obbligatorio, tra cui `è`, `può`, `più`, `perché`, `qualità`, `attività`, `conformità`, `contabilità`, `priorità` e `viabilità`; anche alcuni titoli ne risentono. | Eseguire una sostituzione lessicale controllata sul testo naturale, escludendo slug, ID, URL, codice e riferimenti; rieseguire poi lint e lettura contestuale. | Aperto |
+| E04 | Frontmatter capp. 1-13 | Coerenza dei metadati | Media | `draft_stage`, `review_required` e `dati_operativi` usano valori differenti; `module_code` manca nei capp. 11-12, `module_family` manca nei capp. 10-12 e nel cap. 13 vale `tecnico-ingegneristico` anziché `trasversali`. | Uniformare i campi secondo la Bibbia del Modulo, senza alterare tracciabilità e date di compilazione. | Aperto |
+| E05 | `index.md` | Indice, promesse e workflow | Media | Il titolo del capitolo 6 è abbreviato rispetto a H1/frontmatter; stato e prossimo passo parlano ancora di review umana specialistica, mentre la pipeline aggiornata assegna l'audit automatico allo step 15 e la sola conferma umana allo step 24. | Allineare il titolo a “Edilizia privata, SUE, titoli abilitativi e vigilanza” e aggiornare le formule di stato al workflow vigente. | Aperto |
+| E06 | Capp. 4, 6-13 | Layout | Lieve | Tabelle, formule, checklist e blocchi di casi sono leggibili in Markdown, ma non ancora verificati nel paperback KDP. | Eseguire il preflight PDF e convertire in schede verticali le tabelle che eccedono la gabbia. | Da verificare |
 
 ## 4. Osservazioni per capitolo
+
 ### Capitolo 1 — Il concorso tecnico nella PA: profili, enti e prove
-- Punti di forza: introduce profili, bando, prove e confini di collana; orienta correttamente l'intero percorso.
-- Criticità: i rinvii cross-family devono diventare destinazioni puntuali (E05).
+- Punti di forza: orienta profili, materie e output e stabilisce i confini di collana.
+- Criticità: i wikilink interni sono stati sostituiti con denominazioni leggibili (E02 risolto).
 
 ### Capitolo 2 — Ufficio tecnico pubblico, responsabilità e atti tecnici
-- Punti di forza: collega fatto, istruttoria, documento e decisione senza duplicare il diritto amministrativo generale.
-- Criticità: verificare in chiusura il rinvio puntuale a VOL-01 e i modelli dell'ente (E06).
+- Punti di forza: collega fatto, istruttoria, documento e decisione senza duplicare VOL-01.
+- Criticità: nessuna trasversale contenutistica; metadati da uniformare (E04).
 
 ### Capitolo 3 — Scienza e tecnica delle costruzioni per concorsi
-- Punti di forza: costruisce il lessico necessario prima di NTC e sismica; distingue resistenza, rigidezza, stabilità, duttilità e durabilità.
-- Criticità: formule, segni, unità ed esercizi richiedono validazione strutturale (E06).
+- Punti di forza: costruisce il lessico necessario prima del quadro NTC.
+- Criticità: restano le verifiche professionali su formule, segni e unità.
 
 ### Capitolo 4 — NTC, sismica, geotecnica e sicurezza strutturale
-- Punti di forza: progressione prestazionale chiara e raccordo corretto con il capitolo 3 e il collaudo.
-- Criticità: vigenza del pacchetto normativo e procedure territoriali restano da verificare (E06); controllare le tavole nel layout (E07).
+- Punti di forza: progressione prestazionale coerente con capitoli 3 e 9.
+- Criticità: audit di vigenza e preflight delle tabelle (E06).
 
 ### Capitolo 5 — Urbanistica e governo del territorio
 - Punti di forza: distingue livelli di piano, conformità, vincoli, espropriazione e paesaggio.
-- Criticità: la disciplina regionale e locale impone review dedicata e data di cut-off (E06).
+- Criticità: disciplina regionale e locale da mantenere separata dal quadro nazionale.
 
-### Capitolo 6 — Edilizia, SUE, titoli e vigilanza
-- Punti di forza: mantiene il confine urbanistica-edilizia e usa rinvii interni già strutturati.
-- Criticità: categorie, regimi, tolleranze, regolarizzazioni e modulistica richiedono verifica vigente (E06); tabelle da provare in pagina (E07).
+### Capitolo 6 — Edilizia privata, SUE, titoli abilitativi e vigilanza
+- Punti di forza: confine urbanistica-edilizia e percorso opera–regime–controllo chiari.
+- Criticità: titolo dell'indice, grafia e metadati (E03-E05).
 
-### Capitolo 7 — Progettazione delle opere pubbliche
-- Punti di forza: sequenza bisogno–DIP–PFTE–esecutivo–verifica–validazione leggibile e terminologicamente coerente.
-- Criticità: rinvii e note temporanee da consolidare (E04); contenuti mobili del Codice da verificare (E06).
+### Capitolo 7 — Progettazione di opere pubbliche
+- Punti di forza: catena bisogno–DIP–PFTE–esecutivo–verifica–validazione leggibile.
+- Criticità: grafia e metadati (E03-E04).
 
 ### Capitolo 8 — Direzione lavori, esecuzione e cantieri
-- Punti di forza: distingue RUP, DL e CSE e collega tecnica, contabilità, modifiche e sicurezza.
-- Criticità: attribuzioni puntuali e iniziative in materia di sicurezza richiedono validazione; note sui capitoli futuri sono superate (E04, E06).
+- Punti di forza: distingue RUP, DL e CSE e collega tecnica, contratto e sicurezza.
+- Criticità: grafia e metadati (E03-E04).
 
 ### Capitolo 9 — Collaudo, verifica, manutenzione e gestione dell'opera
-- Punti di forza: separa correttamente ultimazione, collaudo tecnico-amministrativo, regolare esecuzione, collaudo statico e gestione.
-- Criticità: soglie, incompatibilità, effetti e periodicità devono essere verificati; rinvii temporanei da aggiornare (E04, E06).
+- Punti di forza: separa controlli finali, presa in consegna e ciclo di vita.
+- Criticità: i sei nuclei sono stati riconciliati nelle undici dimensioni della matrice (E01 risolto).
 
 ### Capitolo 10 — Computi, capitolati e contabilità dei lavori
-- Punti di forza: ricostruisce il flusso dalla lavorazione al conto finale e distingue i documenti.
-- Criticità: prezzari, sicurezza, riserve e documenti contabili richiedono cut-off; il rinvio al capitolo 12 è ormai consolidabile (E04, E06).
+- Punti di forza: segue la lavorazione dal progetto al conto finale.
+- Criticità: grafia e metadati (E03-E04).
 
 ### Capitolo 11 — Infrastrutture, viabilità, ponti e monitoraggio
-- Punti di forza: collega opera, rete, rischio, ispezione, monitoraggio e decisione senza inventare soglie.
-- Criticità: atti ANSFISA, classificazioni e poteri cautelari richiedono review specialistica; aggiornare il rinvio al capitolo 12 (E04, E06).
+- Punti di forza: distingue evidenza, diagnosi, rischio e decisione.
+- Criticità: grafia e metadati (E03-E04).
 
 ### Capitolo 12 — BIM, GIS, rilievi, catasto e patrimonio pubblico
-- Punti di forza: usa il ciclo del dato come filo unitario e mantiene distinti catasto, pubblicità immobiliare e stato legittimo.
-- Criticità: disciplina BIM, standard geomatici, procedure catastali e raccordi contabili restano mobili (E06).
+- Punti di forza: il ciclo del dato unifica strumenti diversi senza confonderli.
+- Criticità: metadati incompleti (E04).
 
 ### Capitolo 13 — Laboratorio delle prove tecniche
-- Punti di forza: integra otto forme di output e una simulazione finale, applicando teoria già insegnata.
-- Criticità: casi, calcoli, profili e condizioni della singola procedura richiedono validazione professionale; densità visuale da verificare (E06, E07).
+- Punti di forza: integra gli output e trasforma gli errori in prove di recupero.
+- Criticità: `module_family` incoerente e metadati da uniformare (E04).
 
 ## 5. Coerenza globale
-- Terminologia: sostanzialmente coerente; la Bibbia del Modulo fissa RUP, responsabile del procedimento, DL, CSE, verifica, validazione, collaudo e stato dei luoghi. Non sono emerse contraddizioni centrali fra capitoli.
-- Struttura vs indice: la progressione reale 1-13 è logica, ma non è rappresentata dall'indice pubblico (E01). Il piano 00 non deve essere confuso con un capitolo editoriale finito (E02).
-- Promesse dell'introduzione mantenute: profili, prove, materie specialistiche, casi, checklist e laboratorio sono coperti. Non risulta invece sviluppata come strumento autonomo la promessa “Piano 30/60/90 giorni specifico” del piano pre-scrittura (E02).
-- Copertura v4: 16 nuclei censiti, 15 `completo` e 1 `rinviato` con destinazioni precise in VOL-01; nessun `parziale`, `solo-nominato` o `mancante`.
-- Duplicazioni: il modulo applica il nucleo comune e non replica sistematicamente VOL-01. I confini con VOL-08, VOL-09 e VOL-11 sono corretti nell'impianto; i rinvii devono essere resi puntuali (E05).
-- Equilibrio teoria/workbook: equilibrato nei capitoli 1-12; il capitolo 13 svolge correttamente la funzione di integrazione e allenamento.
+
+- Terminologia: RUP, DL, CSE, verifica, validazione, collaudo, stato dei luoghi e dato tecnico sono usati in modo coerente; E03 riguarda la grafia, non il significato.
+- Struttura vs indice: la sequenza 1-13 è completa; resta il disallineamento puntuale del titolo del capitolo 6 (E05).
+- Promesse dell'introduzione: profili, prove, materie specialistiche, casi, checklist e laboratorio sono mantenuti.
+- Copertura integrale: 78 nuclei effettivi e 78 ID univoci riconciliati nella matrice dopo la risoluzione di E01.
+- Rinvii: quelli interni fra capitoli sono comprensibili; dopo la risoluzione di E02 nessun corpo di capitolo espone wikilink.
+- Equilibrio teoria/workbook: adeguato; i capitoli 1-12 insegnano la materia e il capitolo 13 la integra in prestazioni.
+- Profili e confini: ingegnere, architetto/urbanista, geometra/istruttore e infrastrutture sono riconoscibili; non emerge duplicazione sistematica con VOL-01 o altre famiglie.
 
 ## 6. Contenuto da verificare
+
 - Vigenza e campo di applicazione di NTC, Circolare, emendamenti e disciplina delle costruzioni esistenti.
 - Disciplina nazionale, regionale e locale di urbanistica, edilizia, titoli, tolleranze, regolarizzazioni e vigilanza.
-- D.Lgs. 36/2023 e allegati applicabili a progettazione, verifica, esecuzione, contabilità e collaudo.
-- Titolo IV del D.Lgs. 81/2008, attribuzioni e iniziative dei soggetti della sicurezza.
-- Codice della strada, norme geometriche, Linee guida ponti e istruzioni ANSFISA.
-- BIM, standard e interoperabilità; RNDT/INSPIRE; procedure catastali; inventario e contabilità patrimoniale.
-- Realismo professionale, calcoli, unità e adeguatezza dei casi ai quattro profili.
-- Corrispondenza dei rinvii esterni con destinazioni complete e aggiornate.
+- D.Lgs. 36/2023 e allegati applicabili a progettazione, esecuzione, contabilità e collaudo.
+- Titolo IV del D.Lgs. 81/2008, ruoli e poteri nella sicurezza dei cantieri.
+- Codice della strada, norme geometriche, Linee guida ponti e atti ANSFISA.
+- BIM, interoperabilità, RNDT/INSPIRE, catasto, inventario e contabilità patrimoniale.
+- Correttezza professionale di formule, unità, calcoli, casi e soluzioni campione.
+
+Le verifiche sono assegnate all'audit specialistico automatico dello step 15 e non sono confuse con gli errori certi E01-E05.
 
 ## 7. Suggerimenti facoltativi (non errori)
-- Inserire nell'indice una mappa visuale delle quattro traiettorie di profilo, purché resti leggibile in bianco e nero.
-- Aggiungere una pagina finale “Quale capitolo ripassare dopo ogni errore” collegata al Diario degli errori del capitolo 13.
-- Valutare una breve legenda unica degli acronimi tecnici per la versione cartacea.
+
+- Inserire nell'edizione digitale una mappa dei percorsi consigliati per profilo.
+- Collegare il Diario degli errori del capitolo 13 ai capitoli da ripassare.
+- Valutare una legenda unica degli acronimi tecnici nella versione cartacea.
 
 ## 8. Priorità degli interventi
-1. Riallineare indice e piano editoriale al manoscritto reale, risolvendo E01 ed E02.
-2. Correggere metadati e rinvii temporanei o generici, risolvendo E03-E05.
-3. Eseguire e documentare la review normativa e professionale indicata in E06.
-4. Effettuare il preflight PDF/KDP e risolvere E07.
 
-## 9. Giudizio di pubblicabilita
-Pubblicabile dopo intervento medio.
-Motivazione: E01 ed E02, inizialmente gravi, sono stati risolti preservando il documento storico di pianificazione. La copertura didattica non presenta nuclei bloccanti. Restano da correggere rinvii e note temporanee (E04-E05), da chiudere le verifiche normative e professionali diffuse (E06) e da eseguire il preflight visuale (E07); il modulo non è quindi ancora pronto per la consegna finale.
+1. E01 ed E02: risolti e verificati nello step 13.
+2. Correggere sistematicamente la grafia nei capitoli 6-8, 10-11 (E03).
+3. Uniformare metadati e indice al workflow corrente (E04-E05).
+4. Eseguire allo step previsto audit specialistico e preflight (E06 e sezione 6).
+
+## 9. Giudizio di pubblicabilità
+
+**Pubblicabile dopo intervento medio.**
+
+Motivazione: E01 ed E02, inizialmente gravi, sono stati risolti direttamente e verificati. Restano aperte le correzioni medie E03-E05, circoscritte a grafia, metadati e indice, che lo step 14 deve applicare prima dell'audit specialistico; E06 resta un controllo di produzione.
 
 ## 10. Limiti di questa revisione
-La revisione ha esaminato i file Markdown, la matrice e i report individuali; non ha ispezionato un PDF impaginato né verificato articolo per articolo tutte le fonti normative alla data di pubblicazione. Le verifiche specialistiche elencate nella sezione 6 richiedono professionisti competenti e fonti ufficiali vigenti. Non sono state simulate prove su un bando specifico diverso dal corpus consolidato.
+
+La revisione ha esaminato i sorgenti Markdown, la matrice, l'indice, la Bibbia del Modulo e i report individuali. Non ha ispezionato un PDF impaginato e non ha sostituito l'audit articolo per articolo delle fonti mobili, previsto allo step 15. Le verifiche tecniche su casi, formule e procedure richiedono le competenze specialistiche instradate dalla pipeline.

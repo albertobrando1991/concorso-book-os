@@ -7,7 +7,7 @@ domain: "concorsi pubblici italiani"
 source_refs: ["sources/modulo-m-tr03-tecnico-ingegneristico-vol-10", "sources/logica-volumi-copertura-concorsobook-v4", "sources/principio-copertura-didattica-integrale-2026-07-17"]
 book_refs: ["m-tr03-tecnico-ingegneristico", "vol-10-tecnico-ingegneristico-territorio-lavori-pubblici"]
 confidence: 0.82
-updated_at: 2026-07-30
+updated_at: 2026-08-12
 created_at: 2026-07-30
 review_required: true
 canonical: false
@@ -58,7 +58,15 @@ La sequenza procede da lettura del bando e contesto amministrativo a fondamenti 
 
 ## Struttura didattica ricorrente
 
-Ogni capitolo mantiene, con adattamenti motivati: obiettivo, Mappa BANDO, teoria, distinzioni operative, esempio o caso, domanda da commissario, domanda-trappola o errore tipico, esercizio/checklist, riferimenti consolidati e note di review. Il capitolo 13 integra gli output e non sostituisce la teoria dei capitoli 1-12.
+Ogni capitolo adotta il Format 2 con sei nuclei numerati, teoria autosufficiente, verifiche di prossimità, almeno sei quiz commentati e un caso ragionato. Restano ricorrenti, con adattamenti motivati: obiettivo, Mappa BANDO, distinzioni operative, domanda da commissario, domanda-trappola o errore tipico, esercizio/checklist e riferimenti leggibili. Il capitolo 13 integra gli output e non sostituisce la teoria dei capitoli 1-12.
+
+## Contratto dei metadati
+
+- `module_code: M-TR03` e `module_family: trasversali` devono comparire in tutti i capitoli.
+- `format_version: 2` è uniforme sull'intero modulo.
+- `dati_operativi` usa una lista, anche quando vuota.
+- `draft_stage` e `review_required` devono descrivere la fase corrente in modo uniforme dopo la revisione individuale.
+- Il corpo destinato al lettore non espone wikilink, percorsi o identificativi editoriali interni.
 
 ## Confini di collana
 
@@ -69,5 +77,6 @@ Ogni capitolo mantiene, con adattamenti motivati: obiettivo, Mappa BANDO, teoria
 
 ## Stato della copertura
 
-La matrice v4 registra 16 nuclei: 15 `completo` e 1 `rinviato` con destinazioni precise in VOL-01. Non risultano nuclei `parziale`, `solo-nominato` o `mancante`. Questo dato non sostituisce la review normativa, professionale e visuale ancora richiesta prima della pubblicazione.
+I tredici capitoli contengono 78 nuclei Format 2, sei per capitolo. L'audit trasversale dello step 13 aveva trovato nella matrice soltanto 72 ID univoci; la stessa revisione ha quindi registrato `N-TR03-09-01`–`N-TR03-09-06` con copertura, undici dimensioni ed evidenze effettive. La riconciliazione corrente è 78/78, senza ID orfani.
 
+Le verifiche normative e professionali mobili appartengono all'audit specialistico automatico dello step 15. La sola conferma umana della pipeline è lo step 24, sul pacchetto già completo.

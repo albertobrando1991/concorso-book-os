@@ -122,7 +122,7 @@ Non va però confuso un ruolo operativo con una preparazione “più facile”. 
 
 Qui il programma può concentrarsi su strade, ponti, opere d’arte, sistemi di trasporto, sicurezza, ispezione, manutenzione e monitoraggio. La prova può chiedere di leggere un problema di esercizio, ordinare le priorità o collegare rischio, controllo e intervento.
 
-Questo percorso utilizza soprattutto i capitoli 3, 4, 7–9 e 11. Se il bando assegna un programma autonomo alla parte ambientale oppure a gara, RUP e procurement, tali materie escono dal perimetro di M-TR03. Il catalogo le instrada rispettivamente verso [[books/moduli/m-tr04-ambiente-protezione-civile/index|M-TR04 — Ambiente e protezione civile]] e [[books/moduli/m-tr02-appalti-pnrr-fondi-ue/index|M-TR02 — Appalti, PNRR e fondi UE]]. Questi collegamenti definiscono il confine editoriale: non sostituiscono la verifica che il modulo di destinazione sia completo, aggiornato e adeguato al singolo bando.
+Questo percorso utilizza soprattutto i capitoli 3, 4, 7–9 e 11. Se il bando assegna un programma autonomo alla parte ambientale oppure a gara, RUP e procurement, tali materie escono dal perimetro di M-TR03. Il catalogo le instrada rispettivamente verso *M-TR04 — Ambiente e protezione civile* e *M-TR02 — Appalti, PNRR e fondi UE*. Questi collegamenti definiscono il confine editoriale: non sostituiscono la verifica che il modulo di destinazione sia completo, aggiornato e adeguato al singolo bando.
 
 ### Dove lavora il tecnico pubblico
 
@@ -130,9 +130,9 @@ Il contesto organizzativo modifica il peso delle materie.
 
 In un’amministrazione centrale, il profilo può lavorare su programmazione, infrastrutture, standard tecnici, vigilanza, supporto progettuale o gestione di interventi complessi. In un ente territoriale può incontrare edilizia privata, pianificazione, lavori pubblici, patrimonio, manutenzioni, viabilità e servizi tecnici.
 
-La differenza non autorizza scorciatoie. Un candidato per un ente locale non deve aggiungere automaticamente tutto l’ordinamento locale; deve verificare se il bando lo richiede e con quale profondità. Quando il programma assegna un peso autonomo a TUEL, atti e funzioni locali, il catalogo indirizza a [[books/moduli/m-fl01-comuni-unioni/index#Sommario operativo del modulo|M-FL01 — Comuni e Unioni, Sommario operativo del modulo]]. Se questi temi sono solo il contesto di un caso tecnico, basta il raccordo necessario. Il collegamento è un instradamento di catalogo e diventa rinvio didattico solo dopo la verifica della completezza della destinazione.
+La differenza non autorizza scorciatoie. Un candidato per un ente locale non deve aggiungere automaticamente tutto l’ordinamento locale; deve verificare se il bando lo richiede e con quale profondità. Quando il programma assegna un peso autonomo a TUEL, atti e funzioni locali, il catalogo indirizza a *M-FL01 — Comuni e Unioni*, sezione “Sommario operativo del modulo”. Se questi temi sono solo il contesto di un caso tecnico, basta il raccordo necessario. Il collegamento è un instradamento di catalogo e diventa rinvio didattico solo dopo la verifica della completezza della destinazione.
 
-Lo stesso criterio vale per i contratti pubblici. `VOL-10` tratta il delta tecnico di progettazione, esecuzione, direzione lavori e collaudo. Affidamento, procurement, RUP e PNRR avanzati ricadono nel perimetro di [[books/moduli/m-tr02-appalti-pnrr-fondi-ue/index#Perimetro|M-TR02 — Perimetro]]; poiché tale modulo è ancora in sviluppo, il collegamento non sostituisce una spiegazione né consente di presumere la materia coperta.
+Lo stesso criterio vale per i contratti pubblici. `VOL-10` tratta il delta tecnico di progettazione, esecuzione, direzione lavori e collaudo. Affidamento, procurement, RUP e PNRR avanzati ricadono nel perimetro di *M-TR02 — Appalti, PNRR e fondi UE*; poiché tale modulo è ancora in sviluppo, il collegamento non sostituisce una spiegazione né consente di presumere la materia coperta.
 
 ### Quiz 2
 
