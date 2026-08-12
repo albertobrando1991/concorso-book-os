@@ -172,7 +172,7 @@ function validateVerifiedAttestations(block) {
   return [...new Set(failures)]
 }
 function validAttestation(record, chapter, section) {
-  return Boolean(record.evidenceQuote && record.sourceLocation && record.reviewer && /^step-(?:13|14|15|16|17|18)$/.test(record.gateId || '') && record.sourceLocation === `chapters/${chapter.file}#${record.nucleusId.toLowerCase()}` && section.includes(record.evidenceQuote))
+  return Boolean(record.evidenceQuote && record.sourceLocation && typeof record.reviewer === 'string' && record.reviewer.trim().length > 0 && /^step-(?:13|14|15|16|17|18)$/.test(record.gateId || '') && record.sourceLocation === `chapters/${chapter.file}#${record.nucleusId.toLowerCase()}` && section.includes(record.evidenceQuote))
 }
 
 function normalizeNucleusId(value) { return value.replace(/`/g, "").trim() }

@@ -168,6 +168,21 @@ describe("audit-vol08-format2-nuclei", () => {
     expect(audit(root).status).not.toBe(0)
   })
 
+  for (const reviewer of ['   ', true]) {
+    it(`rejects a verified attestation with reviewer ${String(reviewer)}`, () => {
+      const root = fixtureRoot()
+      const chapter = join(root, moduleRelative, "chapters", "01-lavorare-ict-pa-ruoli-enti-prove.md")
+      const matrix = join(root, moduleRelative, "planning", "02-matrice-copertura-didattica.md")
+      const manifestPath = join(root, moduleRelative, "planning", "10-manifest-nuclei-format-2.json")
+      const quote = "La scelta deve restare tracciabile tramite un controllo verificabile e una fonte dichiarata."
+      writeFileSync(chapter, readFileSync(chapter, "utf8").replace("## N-TR01-01-02", `${quote}\n\n## N-TR01-01-02`), "utf8")
+      writeFileSync(matrix, readFileSync(matrix, "utf8").replace("open: attestazione strutturata richiesta allo step 15", `verified: ${quote}`), "utf8")
+      const manifest = JSON.parse(readFileSync(manifestPath, "utf8"))
+      manifest.attestations = [{ nucleusId: "N-TR01-01-01", evidenceQuote: quote, sourceLocation: "chapters/01-lavorare-ict-pa-ruoli-enti-prove.md#n-tr01-01-01", reviewer, gateId: "step-15" }]
+      writeFileSync(manifestPath, JSON.stringify(manifest, null, 2), "utf8")
+      expect(audit(root).status).not.toBe(0)
+    })
+  }
   it("generates an all-open baseline ledger", () => {
     const root = fixtureRoot()
     const matrix = readFileSync(join(root, moduleRelative, "planning", "02-matrice-copertura-didattica.md"), "utf8")
