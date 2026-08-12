@@ -5261,3 +5261,12 @@
 - atoms:
   - mem-20260812065234-19m9uwq | workflow | Procedere con lo step 10 del capitolo 10 VOL-10.
   - mem-20260812065234-1esl4t6 | result | Esito codex-vol10-cap10-step10: Procedere con lo step 10 del capitolo 10 VOL-10. -> Completato step 10 capitolo 10: matrice aggiornata con sei Nucleo ID, assegnazioni Q/C/E, checklist delle undici dimensioni ed evidenze puntuali; tutti i nuclei completi e nessuna integrazione teorica necessaria.
+
+## 2026-08-12T06:59:20.733Z - VOL-10/M-TR03
+
+- conversation_id: conv-20260812065920-1ie8h17
+- route: codex-vol10-cap10-step11
+- l0: l0/conv-20260812065920-1ie8h17.md
+- atoms:
+  - mem-20260812065920-1yf4zup | workflow | Procedere con lo step 11 del capitolo 10 VOL-10.
+  - mem-20260812065920-7xjsvq | result | Esito codex-vol10-cap10-step11: Procedere con lo step 11 del capitolo 10 VOL-10. -> Completato step 11 capitolo 10 con doppia passata Humanizer: rimossi segnali meccanici, ripetizioni tutorial, transizioni generiche, triadi rigide ed enfasi superflua; significato, fonti e riferimenti preservati.
