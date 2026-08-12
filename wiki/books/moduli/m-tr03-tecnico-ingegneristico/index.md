@@ -35,12 +35,12 @@ Modulo specialistico collegato a [[books/il-metodo-bando/index|Il Metodo BANDO]]
 - Codice modulo: M-TR03
 - Copertura: Profili tecnici, lavori pubblici, urbanistica, edilizia, manutenzione e sicurezza tecnica.
 - Fase roadmap: 4
-- Stato: revisione trasversale del modulo; capitoli 1-13 sviluppati, matrice v4 senza nuclei bloccanti e fonti consolidate. Restano correzioni trasversali, review umana specialistica e preflight.
+- Stato: revisione trasversale completata; capitoli 1-13 sviluppati, matrice v4 completa e fonti consolidate. Seguono audit specialistico automatico e preflight.
 
 ## Confine editoriale
 Il modulo non sostituisce il libro principale. Parte dal nucleo comune del Metodo BANDO e aggiunge profili, prove, materie specialistiche, rischi, fonti e casi tipici della famiglia.
 
-Non deve promettere copertura totale di ogni bando o aggiornamento normativo automatico. Le sezioni normative e specialistiche richiedono source notes consolidate e review umana.
+Non deve promettere copertura totale di ogni bando o aggiornamento normativo automatico. Le sezioni normative e specialistiche richiedono source notes consolidate e audit specialistico tracciato.
 
 ## Capitoli di lavoro
 - [[books/moduli/m-tr03-tecnico-ingegneristico/planning/00-piano-editoriale|Piano editoriale del modulo]]
@@ -50,7 +50,7 @@ Non deve promettere copertura totale di ogni bando o aggiornamento normativo aut
 3. [[books/moduli/m-tr03-tecnico-ingegneristico/chapters/03-scienza-tecnica-costruzioni|Scienza e tecnica delle costruzioni per concorsi]]
 4. [[books/moduli/m-tr03-tecnico-ingegneristico/chapters/04-ntc-sismica-geotecnica-sicurezza-strutturale|NTC, sismica, geotecnica e sicurezza strutturale]]
 5. [[books/moduli/m-tr03-tecnico-ingegneristico/chapters/05-urbanistica-governo-territorio|Urbanistica e governo del territorio]]
-6. [[books/moduli/m-tr03-tecnico-ingegneristico/chapters/06-edilizia-sue-titoli-vigilanza|Edilizia, SUE, titoli e vigilanza]]
+6. [[books/moduli/m-tr03-tecnico-ingegneristico/chapters/06-edilizia-sue-titoli-vigilanza|Edilizia privata, SUE, titoli abilitativi e vigilanza]]
 7. [[books/moduli/m-tr03-tecnico-ingegneristico/chapters/07-progettazione-opere-pubbliche|Progettazione delle opere pubbliche]]
 8. [[books/moduli/m-tr03-tecnico-ingegneristico/chapters/08-direzione-lavori-esecuzione|Direzione lavori, esecuzione e cantieri]]
 9. [[books/moduli/m-tr03-tecnico-ingegneristico/chapters/09-collaudo-verifica-manutenzione|Collaudo, verifica, manutenzione e gestione dell'opera]]
@@ -67,4 +67,4 @@ Non deve promettere copertura totale di ogni bando o aggiornamento normativo aut
 - [[books/moduli/m-tr03-tecnico-ingegneristico/planning/06-audit-consolidamento-fonti|Audit di consolidamento delle fonti]]
 - [[books/moduli/m-tr03-tecnico-ingegneristico/planning/13-bibbia-del-modulo|Bibbia editoriale del modulo]]
 ## Prossimo passo
-Applicare le correzioni della revisione trasversale, consolidare i rinvii interni ed esterni, quindi sottoporre il modulo alla review umana normativa e professionale prevista dalla pipeline. L'assenza di nuclei bloccanti non sostituisce questi controlli.
+Sottoporre il modulo all'audit specialistico automatico dello step 15 e ai successivi controlli della pipeline. La conferma umana resta riservata allo step 24.

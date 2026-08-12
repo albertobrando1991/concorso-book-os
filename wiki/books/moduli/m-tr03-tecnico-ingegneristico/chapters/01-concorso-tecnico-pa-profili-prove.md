@@ -16,11 +16,11 @@ canonical: true
 tags: ["book-chapter", "m-tr03", "vol-10", "technical-competitions"]
 book_id: m-tr03-tecnico-ingegneristico
 outline_section: 1
-draft_stage: specialist-audited
+draft_stage: editorially-reviewed
 module_code: M-TR03
 module_family: trasversali
 format_version: 2
-dati_operativi: false
+dati_operativi: []
 last_compiled_from: ["wiki/books/moduli/m-tr03-tecnico-ingegneristico/planning/08-capitolo-01-piano-completamento.md", "wiki/books/volumi/vol-10-tecnico-ingegneristico-territorio-lavori-pubblici/planning/01-indice-completo.md", "wiki/books/moduli/m-tr03-tecnico-ingegneristico/planning/02-matrice-copertura-didattica.md", "wiki/sources/modulo-m-tr03-tecnico-ingegneristico-vol-10.md", "wiki/sources/campione-bandi-tecnici-pa-vol-10-2026.md", "wiki/topics/tecnico-ingegneristico-territorio-lavori-pubblici-concorsi-pa.md"]
 ---
 

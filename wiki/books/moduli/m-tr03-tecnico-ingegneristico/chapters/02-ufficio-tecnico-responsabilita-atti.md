@@ -16,11 +16,11 @@ canonical: true
 tags: ["book-chapter", "m-tr03", "vol-10", "technical-office"]
 book_id: m-tr03-tecnico-ingegneristico
 outline_section: 2
-draft_stage: specialist-audited
+draft_stage: editorially-reviewed
 module_code: M-TR03
 module_family: trasversali
 format_version: 2
-dati_operativi: false
+dati_operativi: []
 last_compiled_from: ["wiki/books/moduli/m-tr03-tecnico-ingegneristico/planning/08-capitolo-02-piano-completamento.md", "wiki/books/moduli/m-tr03-tecnico-ingegneristico/planning/02-matrice-copertura-didattica.md", "wiki/sources/legge-7-agosto-1990-n-241-procedimento-amministrativo-e-accesso-ai-documenti-amministrativi-testo-vigente-normattiva.md", "wiki/topics/procedimento-amministrativo.md", "wiki/books/il-metodo-bando/chapters/diritto-amministrativo-per-candidati.md"]
 ---
 

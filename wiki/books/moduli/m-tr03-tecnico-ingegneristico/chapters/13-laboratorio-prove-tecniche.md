@@ -11,17 +11,17 @@ book_refs: ["m-tr03-tecnico-ingegneristico", "vol-10-tecnico-ingegneristico-terr
 confidence: 0.88
 updated_at: 2026-08-12
 created_at: 2026-07-30
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "vol-10", "m-tr03", "laboratorio", "prove-tecniche", "format-2"]
 book_id: m-tr03-tecnico-ingegneristico
 module_code: M-TR03
-module_family: tecnico-ingegneristico
+module_family: trasversali
 companion_to: il-metodo-bando
 outline_section: 13
 format_version: 2
 dati_operativi: []
-draft_stage: step-09-format-2-retrofit
+draft_stage: editorially-reviewed
 last_compiled_from: ["artifacts/pipeline/VOL-10/09/moduli-m-tr03-tecnico-ingegneristico-chapters-13-laboratorio-prove-tecniche-md/prompt.md", "wiki/books/moduli/m-tr03-tecnico-ingegneristico/planning/08-capitolo-13-piano-completamento.md", "wiki/books/moduli/m-tr03-tecnico-ingegneristico/planning/02-matrice-copertura-didattica.md", "wiki/books/moduli/m-tr03-tecnico-ingegneristico/planning/13-bibbia-del-modulo.md", "wiki/books/volumi/vol-10-tecnico-ingegneristico-territorio-lavori-pubblici/planning/04-bibbia-del-volume.md", "wiki/sources/laboratorio-prove-tecniche-bandi-ufficiali-2026.md", "wiki/sources/campione-bandi-tecnici-pa-vol-10-2026.md", "wiki/sources/modulo-m-tr03-tecnico-ingegneristico-vol-10.md", "wiki/sources/simulazioni-concorsuali-metodo-bando.md", "wiki/sources/risposta-sintetica-domande-aperte-metodo-bando.md", "wiki/sources/schema-universale-risposta-orale-metodo-bando.md", "wiki/sources/revisione-finale-risposta-concorsuale-metodo-bando.md", "wiki/sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md", "wiki/sources/checklist-operative-concorsi-metodo-bando.md", "wiki/sources/strategia-punteggio-prova-concorsuale-metodo-bando.md", "wiki/sources/capitolo-17-18-corpus-casi-pratici-quesiti-situazionali-2026-05-30.md", "wiki/sources/capitoli-21-23-corpus-moduli-piano-diario-2026-06-01.md", "wiki/sources/scienze-apprendimento-pianificazione-metacognizione-errori.md", "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/01-concorso-tecnico-pa-profili-prove.md", "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/02-ufficio-tecnico-responsabilita-atti.md", "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/09-collaudo-verifica-manutenzione.md", "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/10-computi-capitolati-contabilita-lavori.md", "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/11-infrastrutture-viabilita-ponti-monitoraggio.md", "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/12-bim-gis-catasto-patrimonio.md"]
 ---
 

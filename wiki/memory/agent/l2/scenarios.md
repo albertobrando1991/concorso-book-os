@@ -5416,3 +5416,11 @@
 - atoms:
   - mem-20260812085804-12865q1 | workflow | Procedere con lo step 13 della pipeline VOL-10.
   - mem-20260812085804-b3088y | result | Esito codex-vol10-mtr03-step13-cross-review: Procedere con lo step 13 della pipeline VOL-10. -> Revisione trasversale M-TR03 completata.
+
+## 2026-08-12T09:39:01.512Z - VOL-10
+
+- conversation_id: conv-20260812093901-18vlk7f
+- route: pipeline-step-14
+- l0: l0/conv-20260812093901-18vlk7f.md
+- atoms:
+  - mem-20260812093901-5k7qrv | result | Esito pipeline-step-14: Procedere con il prossimo step della pipeline VOL-10. -> Step 14 M-TR03 completato: E01-E05 risolti, E06 rinviato al preflight, gate verde con warning non bloccante; prossimo step 15.

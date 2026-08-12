@@ -16,11 +16,11 @@ canonical: true
 tags: ["book-chapter", "m-tr03", "vol-10", "ntc", "sismica", "geotecnica"]
 book_id: m-tr03-tecnico-ingegneristico
 outline_section: 4
-draft_stage: specialist-audited
+draft_stage: editorially-reviewed
 module_code: M-TR03
 module_family: trasversali
 format_version: 2
-dati_operativi: false
+dati_operativi: []
 last_compiled_from: ["wiki/books/moduli/m-tr03-tecnico-ingegneristico/planning/08-capitolo-04-piano-completamento.md", "wiki/books/moduli/m-tr03-tecnico-ingegneristico/planning/02-matrice-copertura-didattica.md", "wiki/sources/ntc-2018-circolare-2019-emendamenti-2023-fonti-ufficiali.md", "wiki/topics/ntc-sismica-geotecnica-sicurezza-strutturale.md", "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/03-scienza-tecnica-costruzioni.md"]
 ---
 

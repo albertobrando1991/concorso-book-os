@@ -11,15 +11,17 @@ book_refs: ["m-tr03-tecnico-ingegneristico"]
 confidence: 0.9
 updated_at: "2026-08-12T00:00:00+02:00"
 created_at: "2026-07-30T00:00:00+02:00"
-review_required: true
+review_required: false
 canonical: true
 tags: ["chapter", "vol-10", "m-tr03", "bim", "gis", "catasto", "patrimonio", "format-2"]
 book_id: m-tr03-tecnico-ingegneristico
 outline_section: "12"
 format_version: 2
-draft_stage: step-09-format-2-retrofit
+draft_stage: editorially-reviewed
 dati_operativi: []
 last_compiled_from: ["wiki/books/moduli/m-tr03-tecnico-ingegneristico/planning/08-capitolo-12-piano-completamento.md", "wiki/sources/bim-gis-catasto-patrimonio-fonti-ufficiali-2026.md", "wiki/sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024.md", "wiki/sources/catasto-cartografia-estimo-pubblicita-immobiliare-aggiornamento-2026-07-18.md", "wiki/sources/codice-civile-beni-pubblici-demanio-patrimonio.md", "wiki/sources/infrastrutture-viabilita-ponti-monitoraggio-fonti-ufficiali-2026.md", "wiki/sources/campione-bandi-tecnici-pa-vol-10-2026.md", "wiki/sources/modulo-m-tr03-tecnico-ingegneristico-vol-10.md", "wiki/topics/bim-gis-catasto-patrimonio-pubblico.md"]
+module_code: M-TR03
+module_family: trasversali
 ---
 
 # BIM, GIS, rilievi, catasto e patrimonio pubblico

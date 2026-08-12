@@ -16,11 +16,11 @@ canonical: true
 tags: ["book-chapter", "m-tr03", "vol-10", "structural-mechanics"]
 book_id: m-tr03-tecnico-ingegneristico
 outline_section: 3
-draft_stage: specialist-audited
+draft_stage: editorially-reviewed
 module_code: M-TR03
 module_family: trasversali
 format_version: 2
-dati_operativi: false
+dati_operativi: []
 last_compiled_from: ["wiki/books/moduli/m-tr03-tecnico-ingegneristico/planning/08-capitolo-03-piano-completamento.md", "wiki/books/moduli/m-tr03-tecnico-ingegneristico/planning/02-matrice-copertura-didattica.md", "wiki/sources/scienza-tecnica-costruzioni-fonti-universitarie.md", "wiki/topics/scienza-tecnica-costruzioni.md"]
 ---
 
