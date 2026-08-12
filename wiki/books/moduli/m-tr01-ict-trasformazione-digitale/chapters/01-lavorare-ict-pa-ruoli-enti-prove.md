@@ -170,6 +170,12 @@ La risposta concorsuale deve mostrare capacità di contestualizzare senza perder
 
 **Microcaso.** Due bandi cercano un funzionario informatico. Il primo cita assistenza agli uffici, applicativi, rete locale e fornitori; il secondo piattaforme dati, integrazione e analisi. La denominazione è uguale, ma il primo richiede una preparazione trasversale con forte componente di servizio, il secondo sposta il baricentro su dati e interoperabilità. Il contesto conferma la lettura soltanto dopo l’esame delle attività.
 
+### Micro-verifica: leggere il contesto
+
+Un bando comunale cita assistenza agli uffici, applicativi e rete locale; uno di un’agenzia regionale cita e-service e piattaforme condivise. Quale differenza deve comparire per prima nel piano di studio?
+
+**Soluzione:** si parte sempre da attività e materie del singolo bando. Nel primo caso il piano darà più spazio all’esercizio dei servizi interni e alla rete; nel secondo, a interoperabilità e piattaforme. Il nome dell’ente orienta il caso, ma non sostituisce il programma.
+
 **Errore tipico.** Studiare l’ordinamento completo dell’ente per dedurre il lavoro ICT. La preparazione deve restare ancorata alle attività e alle materie del profilo; il nucleo amministrativo comune si studia nel volume base e secondo il programma reale.
 
 Il contesto rende concreta la risposta, ma non sostituisce il programma. Prima si identifica ciò che il bando assegna; poi si costruisce un esempio coerente con utenti, servizi e vincoli dell’amministrazione.
@@ -367,7 +373,7 @@ La tabella collega ogni nucleo a un apparato esistente nello stesso capitolo. Il
 | --- | --- |
 | `N-TR01-01-01` | Quiz 2 |
 | `N-TR01-01-02` | Quiz 2 |
-| `N-TR01-01-03` | Microcaso del nucleo 03 (integrazione richiesta) |
+| `N-TR01-01-03` | Micro-verifica: leggere il contesto |
 | `N-TR01-01-04` | Quiz 4 |
 | `N-TR01-01-05` | Quiz 1 |
 | `N-TR01-01-06` | Caso ragionato |

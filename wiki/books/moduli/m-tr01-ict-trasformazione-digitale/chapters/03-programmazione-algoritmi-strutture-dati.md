@@ -187,6 +187,12 @@ Una conversione di tipo può fallire. Prima di trasformare una stringa in numero
 
 Nel tracciamento, ogni espressione va valutata con i valori correnti, prima dell'eventuale assegnazione. Confondere il vecchio e il nuovo stato produce errori soprattutto quando più variabili vengono aggiornate nello stesso ciclo. Una tabella con una colonna per variabile rende visibile l'ordine.
 
+### Micro-verifica: controllo del flusso
+
+Devi esaminare tutte le pratiche e contare quelle con importo negativo. Quale struttura di controllo scegli e quale paradigma stai usando?
+
+**Soluzione:** un ciclo PER OGNI visita le pratiche; al suo interno una selezione controlla l’importo e un contatore viene aggiornato. È una soluzione imperativa o procedurale: modifica uno stato secondo istruzioni ordinate.
+
 ## N-TR01-03-03 · Funzioni e procedure
 
 Una **funzione** incapsula un calcolo e restituisce un valore. Una **procedura**, nel lessico didattico, esegue un’azione senza che il valore restituito sia il suo scopo principale. I linguaggi adottano terminologie diverse.
@@ -433,7 +439,7 @@ La tabella collega ogni nucleo a un apparato esistente nello stesso capitolo. Il
 | Nucleo ID | Apparato di verifica |
 | --- | --- |
 | `N-TR01-03-01` | Esercizio 1 |
-| `N-TR01-03-02` | Esercizio 1 (copertura parziale; integrazione richiesta) |
+| `N-TR01-03-02` | Micro-verifica: controllo del flusso |
 | `N-TR01-03-03` | Quiz 4 |
 | `N-TR01-03-04` | Quiz 3 |
 | `N-TR01-03-05` | Quiz 2 |
