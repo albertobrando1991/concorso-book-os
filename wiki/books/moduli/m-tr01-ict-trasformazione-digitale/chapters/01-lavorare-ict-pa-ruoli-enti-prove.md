@@ -359,6 +359,19 @@ Compila cinque righe del decoder sul tuo bando. Controlla:
 
 Se una risposta è negativa, annota nel diario che cosa devi correggere.
 
+## Apparato di verifica dei nuclei
+
+La tabella collega ogni nucleo a un apparato esistente nello stesso capitolo. Il collegamento consente di verificare la tracciabilità senza attribuire automaticamente un esito positivo.
+
+| Nucleo ID | Apparato di verifica |
+| --- | --- |
+| `N-TR01-01-01` | Quiz 2 |
+| `N-TR01-01-02` | Quiz 2 |
+| `N-TR01-01-03` | Microcaso del nucleo 03 (integrazione richiesta) |
+| `N-TR01-01-04` | Quiz 4 |
+| `N-TR01-01-05` | Quiz 1 |
+| `N-TR01-01-06` | Caso ragionato |
+
 ## ▣ Verifica — Profilo, bando e piano specialistico
 
 ### Quiz 1

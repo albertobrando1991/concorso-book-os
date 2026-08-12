@@ -426,6 +426,19 @@ No. Richiede dati ordinati e un accesso compatibile alla posizione centrale. Se 
 
 Associare una complessità alla struttura senza indicare operazione e rappresentazione. “La mappa è O(1)” è incompleto: alcune implementazioni offrono costo medio costante per certe operazioni, altre hanno costi logaritmici, e il caso peggiore può differire.
 
+## Apparato di verifica dei nuclei
+
+La tabella collega ogni nucleo a un apparato esistente nello stesso capitolo. Il collegamento consente di verificare la tracciabilità senza attribuire automaticamente un esito positivo.
+
+| Nucleo ID | Apparato di verifica |
+| --- | --- |
+| `N-TR01-03-01` | Esercizio 1 |
+| `N-TR01-03-02` | Esercizio 1 (copertura parziale; integrazione richiesta) |
+| `N-TR01-03-03` | Quiz 4 |
+| `N-TR01-03-04` | Quiz 3 |
+| `N-TR01-03-05` | Quiz 2 |
+| `N-TR01-03-06` | Quiz 5 |
+
 ## ▣ Verifica
 
 ### Esercizio 1

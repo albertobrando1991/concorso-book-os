@@ -318,6 +318,19 @@ Una riga segnata soltanto con R non è ancora pronta per l’orale. Per passare 
 
 Il sistema operativo realizza dunque una mediazione continua. Offre astrazioni stabili ai programmi, assegna risorse scarse, isola attività che non devono interferire e registra gli eventi necessari alla gestione. In una risposta concorsuale, questa sintesi va accompagnata da almeno un meccanismo concreto — scheduling, memoria virtuale, driver o permessi — e dalla relativa conseguenza operativa.
 
+## Apparato di verifica dei nuclei
+
+La tabella collega ogni nucleo a un apparato esistente nello stesso capitolo. Il collegamento consente di verificare la tracciabilità senza attribuire automaticamente un esito positivo.
+
+| Nucleo ID | Apparato di verifica |
+| --- | --- |
+| `N-TR01-02-01` | Mini-caso |
+| `N-TR01-02-02` | Mini-esercizio |
+| `N-TR01-02-03` | Quiz 2 |
+| `N-TR01-02-04` | Quiz 3 |
+| `N-TR01-02-05` | Quiz 4 |
+| `N-TR01-02-06` | Quiz 5 |
+
 ## ▣ Verifica
 
 ### Esercizio 1

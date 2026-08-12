@@ -446,6 +446,19 @@ No. Può consentire una struttura più flessibile o demandare parte della valida
 
 Usare `DISTINCT` per nascondere righe duplicate prodotte da una join errata. Prima di eliminare duplicati dal risultato, controlla cardinalità, condizione di join e significato delle righe. Più righe possono essere corrette se rappresentano collegamenti diversi.
 
+## Apparato di verifica dei nuclei
+
+La tabella collega ogni nucleo a un apparato esistente nello stesso capitolo. Il collegamento consente di verificare la tracciabilità senza attribuire automaticamente un esito positivo.
+
+| Nucleo ID | Apparato di verifica |
+| --- | --- |
+| `N-TR01-04-01` | Esercizio 1 — Schema |
+| `N-TR01-04-02` | Quiz 3 |
+| `N-TR01-04-03` | Esercizio 2 — Query |
+| `N-TR01-04-04` | Quiz 5 |
+| `N-TR01-04-05` | Quiz 6 |
+| `N-TR01-04-06` | Caso guidato: diagnosticare una base dati |
+
 ## ▣ Verifica
 
 ### Esercizio 1 — Schema
