@@ -3,7 +3,7 @@
   "specPath": "books/volumi/vol-10-tecnico-ingegneristico-territorio-lavori-pubblici/planning/00-scheda-pipeline.md",
   "specHash": "sha256:b9582ff0b8d13a37147bf7b04c7969c20ebe2e12e1d2c843c1299f83af59b454",
   "createdAt": "2026-07-29T16:39:37.771Z",
-  "updatedAt": "2026-08-12T12:24:30.549Z",
+  "updatedAt": "2026-08-12T12:41:48.416Z",
   "steps": [
     {
       "key": "08:moduli/m-tr03-tecnico-ingegneristico/chapters/01-concorso-tecnico-pa-profili-prove.md",
@@ -2002,9 +2002,32 @@
       "phase": "G",
       "scope": "volume",
       "target": "VOL-10",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-12T12:26:48.845Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"human-signoff\" dello step 24 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "VOL-10"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di aless: Conferma umana esplicita ricevuta il 12 agosto 2026: esito confermato per VOL-10-candidate-2026.08.12.1, manifest SHA-256 7B631AF6FE0DE738FED1AFC5A9E5DC6C7EF59104C6E7F473D60DE851945B7B44. Il volume è valido e può essere autorizzato alla pubblicazione controllata."
+          }
+        ],
+        "notImplemented": [
+          "human-signoff"
+        ]
+      },
+      "finishedAt": "2026-08-12T12:41:48.416Z"
     }
   ],
   "reopenHistory": [

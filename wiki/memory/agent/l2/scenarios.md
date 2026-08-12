@@ -5498,3 +5498,11 @@
 - l0: l0/conv-20260812122441-ri3r54.md
 - atoms:
   - mem-20260812122441-5j5szd | result | Esito pipeline-step-23: Procedere con il prossimo step della pipeline VOL-10. -> Step 23 completato: creato pacchetto VOL-10-candidate-2026.08.12.1 con 9 file e manifest 8/8 verificato, remoto controllato, gate tecnici verdi e stato pending-step-24.
+
+## 2026-08-12T12:42:00.215Z - VOL-10
+
+- conversation_id: conv-20260812124200-1slwkcs
+- route: pipeline-step-24-human-signoff
+- l0: l0/conv-20260812124200-1slwkcs.md
+- atoms:
+  - mem-20260812124200-f1ofny | result | Esito pipeline-step-24-human-signoff: confermato -> Conferma umana finale registrata per VOL-10-candidate-2026.08.12.1.
