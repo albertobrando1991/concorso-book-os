@@ -14,6 +14,7 @@ import {
 import type { ManualWriterMode, RevisionDiffSummary } from "@/src/server/agents/manual-writer-agent"
 import type { BookStudioChapter, BookStudioData, MarkdownBlock } from "@/src/server/book/book-preview"
 import { getPreviewBlockMetadata } from "@/src/server/book/book-preview-block-metadata"
+import { bookLayoutClass } from "@/src/server/book/book-layout-profile"
 import { ricettarioModuleLabel } from "@/src/server/book/book-studio-labels"
 import type { WriterProvider } from "@/src/server/config"
 import {
@@ -494,13 +495,13 @@ export function BookStudioPanel({
             </div>
           ) : null}
 
-          <div className="bookPages" aria-label="Preview manuale editoriale paginata" ref={bookPagesRef}>
+          <div className={["bookPages", bookLayoutClass(data.bookId)].filter(Boolean).join(" ")} aria-label="Preview manuale editoriale paginata" ref={bookPagesRef}>
             {previewPages.map((page) => (
               <BookPagePreview bookId={data.bookId} page={page} key={`${page.chapter.path}-${page.chapterPageNumber}`} />
             ))}
           </div>
 
-          <div className="paginationMeasure" aria-hidden="true" ref={measureRef}>
+          <div className={["paginationMeasure", bookLayoutClass(data.bookId)].filter(Boolean).join(" ")} aria-hidden="true" ref={measureRef}>
             <article className="bookPage paginationMeasurePage">
               {previewChapters.map((chapter) => (
                 <div className="paginationMeasureChapter" data-chapter-path={chapter.path} key={chapter.path}>
