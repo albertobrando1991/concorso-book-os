@@ -8,10 +8,10 @@ dati_operativi: []
 domain: "concorsi pubblici italiani"
 topics: ["INPS","previdenza sociale","servizi al cittadino"]
 entities: ["INPS"]
-source_refs: ["sources/m-fc03-dossier-redazionale-enti-pubblici-non-economici.md","sources/m-fc03-fonti-ufficiali-enti-epne-2026.md","sources/m-fc03-corpus-ufficiale-integrativo-2026-07-17.md","sources/vol-03-fonti-specialistiche-fisco-dogane-previdenza-ispettivo.md"]
+source_refs: ["sources/m-fc03-dossier-redazionale-enti-pubblici-non-economici.md","sources/m-fc03-fonti-ufficiali-enti-epne-2026.md","sources/m-fc03-corpus-ufficiale-integrativo-2026-07-17.md","sources/m-fc03-previdenza-prestazioni-strutturali-aggiornamento-2026-08-12.md","sources/vol-03-fonti-specialistiche-fisco-dogane-previdenza-ispettivo.md"]
 book_refs: ["m-fc03-enti-non-economici","il-metodo-bando"]
 confidence: 0.82
-updated_at: 2026-08-11T00:00:00+02:00
+updated_at: 2026-08-12T14:30:00+02:00
 created_at: 2026-07-02T20:05:00+02:00
 review_required: false
 canonical: true
@@ -35,6 +35,7 @@ last_compiled_from: [
   "wiki/sources/m-fc03-dossier-redazionale-enti-pubblici-non-economici.md",
   "wiki/sources/m-fc03-fonti-ufficiali-enti-epne-2026.md",
   "wiki/sources/m-fc03-portali-bandi-concorsi-2023-2026.md",
+  "wiki/sources/m-fc03-previdenza-prestazioni-strutturali-aggiornamento-2026-08-12.md",
   "wiki/topics/enti-pubblici-non-economici-concorsi.md",
   "wiki/topics/profili-previdenza-lavoro-vigilanza.md",
   "wiki/entities/inps-inail-epne.md"
@@ -180,6 +181,37 @@ Per classificare una prestazione in modo utile alla prova si possono usare sei e
 
 Con questa struttura si può rispondere senza inventare dettagli. Se la commissione propone una prestazione non approfondita, il candidato può dichiarare la categoria generale, individuare il bisogno tutelato e spiegare il percorso amministrativo. Non deve invece colmare l'incertezza con importi, durate o requisiti ricordati in modo approssimativo.
 
+### Pensioni: diritto, decorrenza e misura
+
+La pensione non è un semplice rimborso dei contributi versati. È una prestazione del sistema previdenziale che dà attuazione alla tutela dell'articolo 38 della Costituzione secondo le condizioni stabilite dalla legge. La legge 8 agosto 1995, n. 335 collega il sistema pensionistico alla contribuzione, ai criteri di calcolo e alle condizioni di accesso, ma non rende tutte le pensioni uguali.
+
+Per orientarsi bisogna separare tre piani. Il **diritto** riguarda il possesso dei requisiti; la **decorrenza** individua il momento dal quale il trattamento produce effetti; la **misura** riguarda il calcolo dell'importo. Un requisito contributivo può concorrere al diritto senza coincidere con il calcolo, e il riconoscimento del diritto non autorizza a inventare la data di decorrenza. Va inoltre distinta la pensione diretta, collegata alla posizione dell'assicurato, dal trattamento ai superstiti, che protegge i soggetti individuati dalla legge dopo la morte dell'assicurato o pensionato. Entrambe restano diverse dalle prestazioni assistenziali, fondate su presupposti propri.
+
+**Caso d'esame.** Un utente chiede se l'estratto contributivo “dimostra che può andare in pensione”. L'operatore chiarisce che il documento è rilevante, ma verifica gestione, periodi, requisiti applicabili, eventuali regole transitorie e decorrenza prima di formulare un esito. **Errore tipico:** confondere montante contributivo, requisito di accesso e importo finale. **Verifica:** sai spiegare perché diritto, decorrenza e misura richiedono accertamenti distinti?
+
+### Ammortizzatori sociali: rapporto sospeso o cessato
+
+Gli ammortizzatori sociali proteggono il reddito del lavoratore di fronte a eventi che riducono o interrompono l'attività lavorativa, ma non costituiscono una categoria uniforme. Il decreto legislativo 14 settembre 2015, n. 148 disciplina le integrazioni salariali e i fondi di solidarietà nella logica della tutela **in costanza di rapporto di lavoro**: il rapporto continua, mentre l'attività può essere sospesa o ridotta secondo cause, ambiti e procedure previsti dalla legge.
+
+Questa situazione va distinta dalla disoccupazione involontaria conseguente alla cessazione del rapporto. Nel primo caso si studiano datore di lavoro, evento aziendale, lavoratori interessati, durata dell'intervento e procedura; nel secondo diventano centrali la perdita involontaria dell'occupazione, la posizione assicurativa del lavoratore, la domanda e gli ulteriori requisiti della misura applicabile. La funzione comune di sostegno al reddito non cancella la diversa struttura giuridica.
+
+**Caso d'esame.** Un'impresa riduce temporaneamente l'orario senza cessare i rapporti. La risposta non parte automaticamente da una prestazione di disoccupazione: identifica anzitutto se ricorra una tutela in costanza di rapporto e quale disciplina settoriale sia applicabile. **Errore tipico:** usare “cassa integrazione”, “fondo” e “disoccupazione” come sinonimi. **Verifica:** nel caso proposto il rapporto prosegue oppure è cessato?
+
+### Invalidità previdenziale e invalidità civile
+
+La parola invalidità non identifica una sola prestazione. La legge 12 giugno 1984, n. 222 disciplina l'invalidità pensionabile nell'assicurazione obbligatoria e distingue l'assegno ordinario di invalidità dalla pensione ordinaria di inabilità. La distinzione riguarda il grado e gli effetti della riduzione della capacità lavorativa considerata dalla legge; la pensione di inabilità presuppone l'assoluta e permanente impossibilità di svolgere qualsiasi attività lavorativa. In entrambi i casi la dimensione sanitaria si combina con quella assicurativa e contributiva prevista dalla disciplina.
+
+L'invalidità civile appartiene invece al versante assistenziale. Non si può dedurre il diritto a una prestazione previdenziale dal solo riconoscimento civile, né trasferire automaticamente requisiti, percentuali o effetti da un sistema all'altro. Nel procedimento occorre identificare la tutela domandata, distinguere accertamento sanitario e requisiti amministrativi, acquisire i dati pertinenti e comunicare l'esito senza anticiparlo.
+
+**Caso d'esame.** Una persona presenta un verbale di invalidità civile e chiede l'assegno ordinario di invalidità. L'operatore non considera i due istituti equivalenti: inquadra la domanda nella legge n. 222/1984 e verifica separatamente presupposto sanitario-lavorativo, requisiti assicurativi e contributivi. **Errore tipico:** confondere invalidità civile, assegno ordinario e pensione di inabilità. **Verifica:** sai indicare quale fonte e quale tipo di requisito appartengono a ciascun percorso?
+
+### ISEE: indicatore, DSU e accesso alla prestazione
+
+L'ISEE è l'indicatore della situazione economica equivalente usato per valutare, secondo la disciplina applicabile, la condizione economica di un nucleo ai fini dell'accesso o della graduazione di prestazioni sociali agevolate. Il DPCM 5 dicembre 2013, n. 159 ne disciplina la struttura. L'ISEE non è una prestazione, non coincide con il solo reddito individuale e non attribuisce automaticamente un beneficio.
+
+Il percorso logico comprende quattro elementi: la **DSU**, con le informazioni dichiarate e quelle acquisite secondo il sistema; il **nucleo familiare**, individuato dalle regole applicabili; le componenti reddituali e patrimoniali considerate; l'**indicatore**, che l'amministrazione competente usa insieme agli altri requisiti della specifica prestazione. L'ISEE corrente serve ad aggiornare la rappresentazione economica nei casi previsti e non è una libera alternativa all'ISEE ordinario.
+
+**Caso d'esame.** Un cittadino presenta un'attestazione sotto la soglia prevista e sostiene che il beneficio sia ormai dovuto. L'ufficio distingue validità dell'attestazione, eventuali omissioni o difformità, requisito economico e ulteriori condizioni della misura. **Errore tipico:** trattare ISEE, DSU e beneficio come lo stesso oggetto. **Verifica:** sai ricostruire la sequenza DSU, indicatore, requisiti della misura, istruttoria ed esito?
 ### Dalla tutela alla decisione
 
 Supponiamo che una persona presenti una domanda collegata a una situazione di bisogno e alleghi informazioni insufficienti a dimostrare un presupposto essenziale. L'ufficio non può concedere la prestazione per empatia, ma non dovrebbe neppure trasformare l'incompletezza in un rifiuto meccanico senza verificare il percorso previsto. Deve inquadrare la richiesta, accertare quali elementi siano necessari, applicare le regole sul procedimento e sulle eventuali integrazioni, valutare i dati pertinenti e adottare l'esito di competenza. Il servizio alla persona si realizza proprio nell'unione tra correttezza giuridica e comunicazione comprensibile.

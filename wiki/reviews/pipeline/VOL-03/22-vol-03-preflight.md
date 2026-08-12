@@ -18,7 +18,7 @@ tags: ["vol-03", "pipeline-step-22", "preflight", "pdf", "kdp"]
 
 ## Esito
 
-**FAIL — gate non chiudibile.** Il candidato tecnico PDF è stato generato e supera i controlli di impaginazione, ma l'audit canonico del perimetro VOL-03 rileva 17 nuclei aggregati ancora `parziale` o `mancante`. Il contenuto non è stato eliminato né le righe sono state promosse artificialmente: queste lacune devono essere risolte e nuovamente sottoposte agli audit prima del completamento dello step 22.
+**FAIL — gate non chiudibile.** Il candidato tecnico PDF è stato generato e supera i controlli di impaginazione, ma l'audit canonico del perimetro VOL-03 rileva 13 nuclei aggregati ancora `parziale` o `mancante`. Il contenuto non è stato eliminato né le righe sono state promosse artificialmente: queste lacune devono essere risolte e nuovamente sottoposte agli audit prima del completamento dello step 22.
 
 Il comando globale `npm run audit:coverage -- --volume VOL-03` non applica il filtro richiesto e attraversa anche `.worktrees` e altri volumi; l'esito vincolante qui riportato deriva dall'invocazione diretta del parser canonico sulle quattro matrici del solo VOL-03.
 
@@ -26,7 +26,7 @@ Il comando globale `npm run audit:coverage -- --volume VOL-03` non applica il fi
 
 | Controllo | Esito | Evidenza e comando o verifica usata |
 | --- | --- | --- |
-| Audit di copertura | **FAIL** | Parser canonico `parseCoverageMatrix` + `auditCoverageRows`: M-FC01 117/117, M-FC02 86/86, M-FC03 120/120; matrice aggregata VOL-03 7/67 complete e 17 blocker alle righe 40-43, 45-46, 56-59 e 61-67. Quattro intestazioni M-FC03 `Errore` sono state riallineate a `Errore tipico`, chiudendo 24 falsi blocker strutturali. |
+| Audit di copertura | **FAIL** | Parser canonico `parseCoverageMatrix` + `auditCoverageRows`: M-FC01 117/117, M-FC02 86/86, M-FC03 120/120; matrice aggregata VOL-03 con 13 blocker alle righe 45-46, 56-59 e 61-67. Le righe 40-43 sono state chiuse con teoria, casi, errori e verifiche nel capitolo INPS e rinvii precisi. Quattro intestazioni M-FC03 `Errore` sono state riallineate a `Errore tipico`, chiudendo 24 falsi blocker strutturali. |
 | Link wiki | PASS | Audit editoriale step 21 e test `book-preview`/`text-volumes`: composizione del volume risolta; nessun link interno reader-inaccessibile residuo. |
 | `source_refs` | PASS | Audit step 21: 100 riferimenti unici e 0 target mancanti nel corpus del volume. |
 | Frontmatter | PASS | Test `frontmatter.test.ts` e scansione step 21; 59 sezioni caricate dal Book Studio. |
@@ -52,7 +52,7 @@ Il comando globale `npm run audit:coverage -- --volume VOL-03` non applica il fi
 ## Blocker da chiudere
 
 - Riga 14: **CHIUSA il 12 agosto 2026** con fonte ufficiale consolidata, blocco didattico nel capitolo M-FC02 04 e rinvio preciso.
-- Righe 40-43: pensioni, ammortizzatori, invalidità e ISEE ancora solo panoramici.
+- Righe 40-43: **CHIUSE il 12 agosto 2026** con fonte strutturale verificata, quattro blocchi didattici nel capitolo M-FC03 03 e rinvii precisi; dati mobili esclusi dal testo stabile.
 - Righe 45-46 e 57: vigilanza, sicurezza e tecniche ispettive insufficienti rispetto alla promessa.
 - Righe 56 e 58: glossario integrato e schemi di risposta non ancora uniformati a livello volume.
 - Riga 59: verticale tecnico ADM privo del testo promesso.
@@ -65,4 +65,4 @@ Il comando globale `npm run audit:coverage -- --volume VOL-03` non applica il fi
 - Trim: 6,69 × 9,61 pollici
 - Bleed: assente
 - SHA-256: `47BE45588E61BBDF1545D9C1175A416CEC66A2FC33CA525137043ECF18B7CFAD`
-- Stato: **non consegnabile** finché i 17 blocker di copertura non sono chiusi e il PDF non viene rigenerato.
+- Stato: **non consegnabile** finché i 13 blocker di copertura non sono chiusi e il PDF non viene rigenerato.
