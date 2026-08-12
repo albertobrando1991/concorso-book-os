@@ -5432,3 +5432,11 @@
 - l0: l0/conv-20260812094841-hvo7dz.md
 - atoms:
   - mem-20260812094841-s1fw0h | result | Esito pipeline-step-15: Procedere con il prossimo step della pipeline VOL-10. -> Step 15 M-TR03 completato: audit specialistico automatico chiuso senza blocker o warning; 78 nuclei completi, fonti consolidate verificate, stati specialist-audited e nessun rinvio a review umana; prossimo step 16 tex...
+
+## 2026-08-12T09:51:35.986Z - VOL-10
+
+- conversation_id: conv-20260812095135-s0ackc
+- route: pipeline-step-16
+- l0: l0/conv-20260812095135-s0ackc.md
+- atoms:
+  - mem-20260812095135-1ev2fop | result | Esito pipeline-step-16: Procedere con il prossimo step della pipeline VOL-10. -> Step 16 M-TR03 completato con accettazione manuale motivata perché il gate text-freeze non è implementato: manifest 13/13 SHA-256, 78/78 nuclei completi, 155/155 test; prossimo step CLI 18.
