@@ -2,20 +2,20 @@
 id: vol-10-tecnico-ingegneristico-territorio-lavori-pubblici
 type: book
 title: "VOL-10 — Tecnico-ingegneristico, territorio e lavori pubblici"
-status: source-ready
+status: final-reviewed
 domain: "concorsi pubblici italiani"
 topics: ["concorsi tecnici pa", "costruzioni", "urbanistica", "edilizia", "lavori pubblici", "infrastrutture"]
 entities: ["Ministero delle infrastrutture e dei trasporti", "Consiglio Superiore dei Lavori Pubblici", "ANAC"]
 source_refs: ["sources/modulo-m-tr03-tecnico-ingegneristico-vol-10", "sources/logica-volumi-copertura-concorsobook-v4"]
 book_refs: ["m-tr03-tecnico-ingegneristico", "il-metodo-bando"]
-confidence: 0.76
-updated_at: 2026-07-29
+confidence: 1
+updated_at: 2026-08-12
 created_at: 2026-07-29
-review_required: true
+review_required: false
 canonical: true
 tags: ["book", "vol-10", "m-tr03"]
 volume_code: VOL-10
-draft_stage: source-ready
+draft_stage: final-reviewed
 ---
 
 # VOL-10 — Tecnico-ingegneristico, territorio e lavori pubblici
@@ -34,6 +34,10 @@ Le parti dell’indice organizzano il percorso interno e non costituiscono modul
 
 - [[books/volumi/vol-10-tecnico-ingegneristico-territorio-lavori-pubblici/planning/01-indice-completo]]
 - [[books/volumi/vol-10-tecnico-ingegneristico-territorio-lavori-pubblici/planning/02-matrice-copertura-didattica]]
+
+## Stato editoriale
+
+Edizione composta da 13 capitoli e 78 nuclei didattici. Revisione trasversale, audit specialistico, congelamento del testo, impaginazione e controllo pagina per pagina risultano completati; la verifica editoriale finale non presenta rilievi aperti.
 
 ## Pacchetto e confini
 

@@ -3,7 +3,7 @@ id: chapter-m-fc01-10-contratti-pubblici-pnrr-amministrazione-digitale
 type: book_chapter
 format_version: 2
 title: "Contratti pubblici, PNRR e amministrazione digitale"
-status: draft
+status: revised_draft
 domain: "concorsi pubblici italiani"
 topics: ["contratti pubblici", "PNRR", "amministrazione digitale", "CAD"]
 entities: ["ANAC", "AgID", "RUP", "Ministeri"]
@@ -12,12 +12,12 @@ book_refs: ["m-fc01-ministeri", "il-metodo-bando"]
 confidence: 0.88
 updated_at: 2026-08-05T22:45:00+02:00
 created_at: 2026-06-27T22:08:22+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "module-code-m-fc01", "full-draft"]
 book_id: m-fc01-ministeri
 outline_section: 10
-draft_stage: full-draft
+draft_stage: specialist-audit-complete
 module_code: M-FC01
 module_family: funzioni-centrali
 dati_operativi: []

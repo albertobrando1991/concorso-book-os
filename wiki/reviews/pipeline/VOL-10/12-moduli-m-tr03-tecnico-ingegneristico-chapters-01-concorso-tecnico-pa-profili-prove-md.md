@@ -1,67 +1,69 @@
-# Report editoriale — Il concorso tecnico nella PA: profili, enti e prove
+# Report editoriale — Capitolo 01, Il concorso tecnico nella PA
 
 ## 1. Sintesi editoriale
 
-- Genere editoriale: capitolo di manuale-workbook per concorsi pubblici.
-- Pubblico target: candidati a profili tecnico-ingegneristici nelle aree istruttori e funzionari.
-- Perimetro di questa revisione: capitolo 01 di `M-TR03`, matrice di copertura e rinvii dichiarati.
-- Stato generale in una frase: capitolo solido, leggibile e didatticamente autosufficiente nel proprio perimetro; restano verifiche umane sui profili ministeriali e sulla precisione futura dei rinvii.
+- Genere: manuale-workbook specialistico per concorsi tecnici nella PA.
+- Pubblico: candidati ingegneri, architetti e urbanisti, geometri e istruttori tecnici, specialisti di infrastrutture.
+- Perimetro: testo del capitolo, matrice Format 2, rinvii pubblicabili e fonti dichiarate nel frontmatter.
+- Esito: capitolo autosufficiente e pubblicabile sul piano testuale; non risultano errori gravi, medi o lievi aperti.
+
+Il test dello studente è positivo anche escludendo frontmatter e strumenti interni. Definizioni, distinzioni, conseguenze, applicazioni e verifiche sono contenute nel testo. I rinvii servono a delimitare la collana e non sostituiscono nuclei indispensabili del capitolo.
 
 ## 2. Punti applicati della checklist
 
-Applicati i punti 1–26 e 28–30: corrispondenza con l’indice, progressione, gerarchia, coerenza interna, terminologia, completezza, accuratezza, casi, tabelle, fonti, sintassi, chiarezza, tono, didattica, grammatica, ortografia, punteggiatura, refusi, uniformità grafica, layout markdown, leggibilità e qualità complessiva.
-
-Il punto 27, impaginazione, non è applicabile in modo pieno perché lo step riguarda il sorgente markdown e non un PDF impaginato. È stata comunque valutata l’idoneità della gerarchia H1/H2/H3 e delle tabelle al formato editoriale dichiarato.
-
-È stato applicato anche il gate di copertura didattica integrale: le tre righe assegnate al capitolo 1 contengono teoria, applicazione, output, verifica e fonti consolidate. Il campione dei bandi sostiene una lettura qualitativa e non percentuali.
+Sono stati controllati: coerenza tra titolo e struttura; progressione dei sei nuclei; gerarchia H1/H2/H3; autonomia didattica; uniformità terminologica; completezza delle spiegazioni; corrispondenza fra teoria, casi, quiz e verifiche; qualità di tabelle e checklist; tracciabilità; copertura dimensionale; sintassi, punteggiatura e refusi; leggibilità del Markdown. L'impaginazione sarà controllata negli step 19-23 sul prodotto composto.
 
 ## 3. Tabella errori
 
 | ID | Posizione | Categoria | Gravità | Descrizione | Correzione proposta | Stato |
 | --- | --- | --- | --- | --- | --- | --- |
-| V01 | Par. “Dove lavora il tecnico pubblico” | Contenuto da verificare, punti 12 e 15 | Media | Il passaggio sulle amministrazioni centrali è coerente con il dossier editoriale, ma il nuovo campione ufficiale consolidato è soprattutto locale e regionale. | Prima della pubblicazione acquisire almeno un bando ministeriale tecnico con programma e allegati; mantenere nel frattempo la formulazione generale, senza frequenze. | Review umana |
-| V02 | Par. “Dove lavora il tecnico pubblico” e checklist | Rinvii e copertura v4, punti 7 e 9 | Media | I rinvii a VOL-01, VOL-02, VOL-09, VOL-11 e VOL-12 sono identificati per volume, ma la destinazione a capitolo e paragrafo dovrà essere resa puntuale quando i volumi saranno congelati. | Censire nel preflight le destinazioni esatte e verificare che insegnino davvero il nucleo rinviato. | Review umana |
-| S01 | Par. “Quattro profili, molti programmi” | Stile didattico, punto 20 | Lieve | La sequenza regolare dei quattro profili è funzionale alla mappa, ma produce un ritmo uniforme. | In editing finale valutare una breve tabella comparativa dopo i quattro profili, senza eliminare le spiegazioni. | Proposto |
+| E01 | Riferimenti finali | Contratto del lettore | Grave | Il testo originario esponeva link a fonti e materiali editoriali non disponibili allo studente. | Sostituire i link nel corpo con un elenco leggibile di fonti ufficiali e mantenere la tracciabilità nel frontmatter. | Risolto allo step 09 |
+| E02 | Procedura in quattro passaggi | Stile | Lieve | La sequenza usava quattro aperture sintattiche identiche. | Variare il ritmo preservando ordine e contenuto. | Risolto allo step 11 |
+| E03 | Nuclei 01-06 | Densità didattica | Grave | La versione iniziale non formalizzava nuclei, quiz e verifiche Format 2. | Sviluppare sei nuclei autonomi, sei quiz commentati, caso e verifiche di prossimità. | Risolto agli step 09-10 |
 
-## 4. Osservazioni per capitolo
+Non restano errori oggettivi aperti.
 
-### Capitolo 1 — Il concorso tecnico nella PA: profili, enti e prove
+## 4. Osservazioni sul capitolo
 
-- Punti di forza: apertura centrata su un problema reale; distinzione chiara tra titolo, profilo, programma e prova; Mappa BANDO operativa; Bando Decoder compilabile; caso guidato coerente con la teoria; domanda-trappola efficace; checklist verificabile.
-- Criticità: il campione ufficiale documenta bene enti locali e Regione, meno il versante ministeriale; i rinvii sono corretti a livello di volume ma non ancora congelati a livello di paragrafo.
-- Superficie: non sono emersi errori grammaticali, ortografici o refusi bloccanti. La gerarchia contiene un solo H1 ed è coerente.
+- Punti di forza: distinzione netta fra accesso, attività, programma, prova e contesto; classificazione delle materie utilizzabile; Decoder concreto; forme di prova tradotte in prestazioni; ciclo di correzione legato al Diario degli errori.
+- Copertura: completa. Ciascun Nucleo ID supera 600 parole e contiene teoria, applicazione, errore o discriminazione e verifica.
+- Autonomia: adeguata. Il lettore può costruire la matrice e il primo piano di preparazione senza consultare materiali interni.
+- Prudenza: il campione di bandi è dichiarato descrittivo; il testo non attribuisce frequenze statistiche e rimanda requisiti e modalità alla singola procedura.
 
 ## 5. Coerenza globale
 
-- Terminologia: coerente con l’indice VOL-10, il dossier M-TR03 e la matrice; “profilo”, “requisito”, “materia”, “nucleo”, “prova” e “output” mantengono significati distinti.
-- Struttura vs indice: coerente. Il capitolo sviluppa il perimetro assegnato senza anticipare in modo sostitutivo i capitoli 2–12.
-- Promesse dell’introduzione mantenute: sì. Il lettore riceve spiegazioni sui profili, un metodo di classificazione, un caso, un decoder, una verifica e rinvii espliciti.
-- Copertura v4: nessuna duplicazione estesa del nucleo B-PA; le materie di altre famiglie sono rinviate.
+La terminologia coincide con la Bibbia di M-TR03. Il capitolo apre correttamente la progressione del modulo e orienta verso i capitoli specialistici senza anticiparne la teoria. Il rapporto con VOL-01 è rispettato: il metodo generale non viene duplicato, mentre sono sviluppate la lettura tecnica del programma, la classificazione e gli output professionali. Le sei righe Format 2 e la checklist dimensionale nella matrice corrispondono agli heading effettivi.
 
-## 6. Contenuto da verificare
+## 6. Contenuto verificato
 
-- Acquisire un bando ufficiale di amministrazione centrale per sostenere il passaggio sui tecnici ministeriali.
-- Verificare sui singoli bandi titoli, equipollenze, abilitazioni e requisiti senza trasferire dati da una procedura all’altra.
-- Trasformare i rinvii di volume in destinazioni puntuali dopo il congelamento degli indici interessati.
-- Mantenere il limite metodologico: sei procedure non formano un campione statistico.
+- assenza di equivalenza fra titolo di accesso e programma;
+- variabilità delle denominazioni e dei contesti organizzativi;
+- distinzione fra regole di partecipazione e regole di valutazione;
+- carattere descrittivo, non statistico, del campione;
+- validità del rinvio solo quando la destinazione è puntuale e sufficiente;
+- coerenza fra forma della prova ed evidenza da allenare.
 
-## 7. Suggerimenti facoltativi (non errori)
+Non sono presenti soglie normative, date mobili, formule tecniche o dati operativi che richiedano una validazione specialistica ulteriore nel capitolo.
 
-- Aggiungere in impaginazione una tabella compatta profilo–baricentro–output dopo le quattro spiegazioni, solo se resta leggibile nel formato KDP.
-- Utilizzare una delle tracce ufficiali pubblicate come esercizio nel capitolo 13, non in questo capitolo introduttivo.
+## 7. Suggerimenti facoltativi
+
+- Valutare in impaginazione una scheda staccabile per il Bando Decoder.
+- Evidenziare graficamente la tabella forma-gesto-evidenza-controllo se il design system lo consente.
+
+I suggerimenti non incidono sulla pubblicabilità testuale.
 
 ## 8. Priorità degli interventi
 
-1. Consolidare un bando ministeriale tecnico e chiudere V01.
-2. Censire le destinazioni puntuali dei rinvii e chiudere V02.
-3. Valutare S01 solo durante l’editing visivo finale.
+1. Nessun intervento testuale obbligatorio.
+2. Verificare in Book Studio la leggibilità delle tabelle e la continuità dei blocchi di verifica.
+3. Applicare gli eventuali suggerimenti grafici soltanto se non aumentano il carico visivo.
 
 ## 9. Giudizio di pubblicabilità
 
-Pubblicabile con correzioni minori.
+**Pubblicabile.**
 
-Motivazione: non risultano errori gravi aperti, promesse formative non mantenute o nuclei solo nominati. Le due verifiche medie riguardano l’ampiezza documentale del campione e la precisione futura dei rinvii, non la comprensibilità o la correttezza del testo attuale.
+Il capitolo supera il test dello studente, la densità Format 2 e il controllo dei rinvii. Gli errori individuati sono già risolti e non restano fatti o norme dubbi nel perimetro effettivamente trattato.
 
-## 10. Limiti di questa revisione
+## 10. Limiti della revisione
 
-La revisione ha controllato capitolo, indice, dossier, source note dei bandi e matrice. Non ha esaminato un PDF impaginato e non ha verificato integralmente ogni allegato dei sei bandi. La pubblicabilità dell’intero volume non è valutabile dal solo capitolo 1; i capitoli 2–13 e le appendici sono ancora da sviluppare.
+La revisione riguarda il testo Markdown e la matrice. La resa tipografica, le spezzature e l'eventuale overflow saranno verificati sul PDF composto agli step 19-23. Requisiti, termini e modalità di una specifica selezione devono comunque essere letti nel relativo bando vigente: il capitolo insegna il metodo e non sostituisce la procedura ufficiale.

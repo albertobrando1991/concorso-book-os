@@ -1,97 +1,99 @@
-# Report di revisione editoriale totale
-
-**Volume:** VOL-10  
-**Modulo:** M-TR03 — Tecnico-ingegneristico  
-**Capitolo:** 12 — BIM, GIS, catasto e gestione informativa del patrimonio  
-**Esito proposto:** pubblicabile dopo intervento medio
+# Report editoriale — BIM, GIS, rilievi, catasto e patrimonio pubblico
 
 ## 1. Sintesi editoriale
+- Genere editoriale: manuale-workbook specialistico per concorsi tecnici nella PA, modulo M-TR03 del VOL-10.
+- Pubblico target: candidati a profili tecnici, territoriali, edilizi e patrimoniali degli enti pubblici.
+- Perimetro di questa revisione: capitolo 12, indice del modulo, matrice v4, interfacce con i capitoli contigui e fonti consolidate dichiarate nel frontmatter.
+- Materiali esaminati: contratto dello step 12, checklist a 30 punti, capitolo, matrice Format 2, indice e source note consolidate.
+- Stato generale in una frase: capitolo autosufficiente, coerente e didatticamente completo, senza errori oggettivi aperti.
+- Test dello studente: superato. Senza frontmatter e accesso al wiki restano definizioni, distinzioni, conseguenze, applicazioni, caso, quiz e riferimenti normativi leggibili.
+- Copertura v4: N-TR03-12-01/N-TR03-12-06 completi; nessun aggiornamento della matrice necessario.
+- Correzioni applicate al capitolo: nessuna, perché non sono emerse correzioni oggettive e inequivoche.
 
-Il capitolo presenta un impianto solido, progressivo e coerente con la preparazione tecnico-ingegneristica richiesta nei concorsi pubblici. La trattazione collega correttamente dati territoriali, modelli informativi, procedimenti catastali e gestione patrimoniale, evitando di ridurre BIM e GIS a semplici strumenti software. Buona la continuità tra quadro teorico, applicazione amministrativa, caso operativo, domande da prova e strumenti di autoverifica.
-
-Non risultano lacune didattiche sostanziali rispetto alla matrice di copertura. Gli interventi residui riguardano soprattutto la verifica specialistica e l'aggiornamento puntuale di riferimenti normativi, standard tecnici e prassi operative soggetti a evoluzione.
-
-## 2. Punti applicati
-
-- Controllata la struttura complessiva e la progressione logica del capitolo.
-- Verificata la coerenza tra obiettivi, contenuti, caso applicativo, quesiti e checklist.
-- Controllata la copertura dei nuclei BIM, GIS, rilievo, catasto, patrimonio e interoperabilità.
-- Distinte le affermazioni didattiche stabili dai dati normativi o procedurali da validare.
-- Verificata la presenza di esempi orientati all'attività della pubblica amministrazione.
-- Controllati leggibilità, tono professionale, terminologia e tenuta editoriale.
-- Verificata la necessità di rinvii interdisciplinari e di controlli specialistici.
-- Esaminata la resa potenziale di tabelle ed elenchi nel formato di stampa.
+## 2. Punti applicati della checklist
+| Punto | Controllo | Esito |
+| --- | --- | --- |
+| 1 | Indice coerente | Titolo, numero e collocazione coincidono con l'indice M-TR03. |
+| 2 | Struttura logica | Il capitolo chiude il percorso tecnico collegando dato, opera, territorio e patrimonio. |
+| 3 | Progressione | Dato, BIM, GIS, rilievo, catasto e patrimonio procedono dal requisito alla decisione. |
+| 4 | Gerarchia | Un H1, apertura, sei nuclei Format 2 e verifica finale. |
+| 5 | Idoneità | Idoneo nel perimetro editoriale, con audit specialistico previsto. |
+| 6 | Coerenza interna | Nessuna contraddizione fra teoria, schemi, caso e quiz. |
+| 7 | Coerenza tra capitoli | Interfacce con capp. 5-7, 9 e 11 coerenti e non sostitutive. |
+| 8 | Terminologia | BIM, GIS, rilievo, catasto, pubblicità immobiliare, inventario e AINOP restano distinti. |
+| 9 | Completezza | Nessun passaggio necessario è solo nominato o affidato a strumenti interni. |
+| 10 | Definizioni | Coerenti con il pacchetto consolidato e con il perimetro concorsuale. |
+| 11 | Errori concettuali | Nessuno rilevato. |
+| 12 | Errori normativi | Nessun errore certo; gli elementi mobili sono separati nella sezione 6. |
+| 13 | Esempi | Scuola, interferenza GIS, nuvola di punti e disallineamenti applicano la teoria. |
+| 14 | Tabelle e box | Apparati coerenti, leggibili e privi di dipendenze interne. |
+| 15 | Apparato normativo | Riferimenti leggibili nel corpo e tracciabilità completa nel frontmatter. |
+| 16 | Sintassi | Frasi chiare, professionali e adatte alla preparazione concorsuale. |
+| 17 | Chiarezza | Fonte, dato, valutazione, decisione e aggiornamento sono separati. |
+| 18 | Tono | Professionale, prudente e non promozionale. |
+| 19 | Didattica | Teoria, schemi, controlli vicini, caso, quiz ed esercizio sono coordinati. |
+| 20 | Ripetizioni | Riprese terminologiche funzionali; nessuna ridondanza dannosa. |
+| 21 | Contraddizioni | Nessuna rilevata. |
+| 22 | Grammatica | Nessun errore oggettivo rilevato. |
+| 23 | Ortografia | Corretta e uniforme. |
+| 24 | Punteggiatura | Funzionale e coerente. |
+| 25 | Refusi | Nessun refuso certo. |
+| 26 | Uniformità grafica | Grassetti, tabelle, quiz e box coerenti. |
+| 27 | Impaginazione | Valutata sul Markdown; PDF impaginato non disponibile. |
+| 28 | Layout | Tabelle e blocchi risultano gestibili nell'export editoriale. |
+| 29 | Leggibilità | Densità e lunghezza dei paragrafi adeguate al target. |
+| 30 | Qualità complessiva | Alta, con verifica specialistica delle componenti mobili allo step 15. |
 
 ## 3. Tabella errori
-
 | ID | Posizione | Categoria | Gravità | Descrizione | Correzione proposta | Stato |
-|---|---|---|---|---|---|---|
-| E01 | BIM negli appalti pubblici | Normativa | Media | L'inquadramento dell'art. 43 del D.Lgs. 36/2023 e dell'Allegato I.9 è corretto sul piano didattico, ma obblighi, soglie, decorrenze e coordinamento con i decreti ministeriali precedenti sono elementi mobili. | Verificare il testo vigente e la disciplina transitoria prima della pubblicazione. | Aperto |
-| E02 | Ambiente di condivisione dati, ruoli e interoperabilità | Tecnico-normativa | Media | Denominazioni, responsabilità, documenti di gestione informativa e requisiti dei formati aperti dipendono dalla disciplina vigente e dagli standard tecnici applicabili. | Validare terminologia e attribuzioni con esperto BIM e fonti aggiornate. | Aperto |
-| E03 | GIS, cartografia e rilievo | Tecnica | Media | Sistemi di riferimento, metadati, accuratezza e interoperabilità territoriale richiedono un controllo specialistico; il testo evita opportunamente tolleranze numeriche non contestualizzate. | Eseguire verifica geomatica su RNDT, INSPIRE e riferimenti nazionali pertinenti. | Aperto |
-| E04 | Catasto e procedimenti connessi | Procedurale | Media | PREGEO, DOCFA, voltura e rapporti tra risultanze catastali, pubblicità immobiliare e stato legittimo possono essere aggiornati da prassi e provvedimenti. | Controllare procedure e terminologia con fonti dell'Agenzia delle entrate e revisore catastale/SUE. | Aperto |
-| E05 | Gestione e inventario del patrimonio pubblico | Normativa-contabile | Media | La distinzione tra demanio e patrimonio è ben esposta, mentre inventariazione, valorizzazione e raccordo contabile possono variare per ente e disciplina applicabile. | Validare i passaggi con Codice civile, TUEL, D.Lgs. 118/2011 e regolamenti dell'ente tipo. | Aperto |
-| E06 | Tabelle e checklist | Impaginazione | Lieve | Le tabelle comparative e le checklist sono utili ma potrebbero comprimersi nel formato cartaceo. | Controllare larghezza colonne, spezzature e leggibilità nella prova KDP/PDF. | Aperto |
+|----|-----------|-----------|---------|-------------|----------------------|-------|
+| - | Capitolo 12 | - | - | Nessun errore oggettivo, concettuale, didattico o testuale inequivoco rilevato. | Nessuna correzione necessaria. | Chiuso |
 
-Non sono stati rilevati errori oggettivi e univoci che giustifichino una correzione diretta del testo in questa fase.
+Errori oggettivi: nessuno. Correzioni dirette applicate: nessuna.
 
 ## 4. Osservazioni per capitolo
+### Capitolo 12 — BIM, GIS, rilievi, catasto e patrimonio pubblico
+- Punti di forza: distinzione tra dato e file; BIM trattato come processo informativo; limiti probatori del GIS e del catasto; catena del rilievo; separazione tra inventario tecnico e contabile; caso integrato dato-opera-decisione.
+- Criticità: nessuna criticità editoriale o didattica aperta. Vigenza normativa, standard e procedure mobili restano nell'audit specialistico automatico.
 
-L'apertura definisce bene il problema professionale: trasformare dati eterogenei in decisioni tecniche e amministrative verificabili. La sequenza BIM → GIS e rilievo → catasto → patrimonio è funzionale e rende leggibile l'integrazione tra domini diversi.
-
-La sezione BIM chiarisce adeguatamente che il modello informativo non coincide con la sola rappresentazione tridimensionale. Risultano efficaci l'attenzione all'ambiente di condivisione dati, alla tracciabilità delle revisioni e all'interoperabilità. Occorre però mantenere distinta la spiegazione concettuale dalla descrizione di obblighi e ruoli formalizzati, da verificare sul testo normativo vigente.
-
-La parte GIS e cartografica distingue correttamente geometrie, attributi, strati informativi e sistemi di riferimento. È apprezzabile la distinzione tra precisione, accuratezza, risoluzione e scala. La validazione finale dovrebbe concentrarsi sui riferimenti tecnici nazionali ed europei, senza introdurre valori numerici privi di uno specifico contesto operativo.
-
-La trattazione catastale mantiene la necessaria separazione tra funzione fiscale-identificativa del catasto, pubblicità immobiliare e verifica urbanistico-edilizia. Il richiamo alle principali procedure è proporzionato al livello del volume, ma necessita di controllo di attualità procedurale.
-
-La sezione sul patrimonio pubblico raccorda inventario, manutenzione, valorizzazione e programmazione. Il caso dell'edificio scolastico mostra con efficacia perché identificativi, geometrie, titoli, consistenze e dati manutentivi debbano essere riconciliati prima di assumere decisioni o affidare interventi.
-
-Le domande, l'esercizio e la checklist sono coerenti con gli obiettivi dichiarati e allenano sia la risposta teorica sia la costruzione di un flusso operativo.
+### Capitoli contigui e interfacce
+- Punti di forza: territorio, stato legittimo, progettazione, manutenzione e AINOP sono raccordati senza duplicare i rispettivi capitoli; il nucleo ICT generale resta attribuito al VOL-08.
+- Criticità: nessun rinvio sostitutivo o incompleto. Le destinazioni indicate dalla matrice sono precise e il corpo non dipende da esse.
 
 ## 5. Coerenza globale
-
-Il capitolo è coerente con il modulo tecnico-ingegneristico e con l'impostazione professionale del volume. La terminologia è generalmente uniforme; i concetti ricorrenti di tracciabilità, interoperabilità, responsabilità del dato e controllo documentale rafforzano la continuità con gli altri capitoli.
-
-I rinvii impliciti a contratti pubblici, urbanistica, contabilità e transizione digitale sono pertinenti. In sede di impaginazione o revisione finale si potrà valutare un rinvio editoriale esplicito ai volumi interdisciplinari, senza appesantire il corpo del testo.
-
-La copertura didattica resta **completa**: non è necessario modificare la matrice.
+- Terminologia: coerente. Modello, elaborato, rilievo, mappa, visura, planimetria, pubblicità immobiliare, inventario e archivio non sono usati come sinonimi impropri.
+- Struttura vs indice: coerente con l'indice del modulo e con la riga v4 del capitolo 12.
+- Promesse dell'introduzione mantenute: sì. Il capitolo spiega le differenze annunciate e fornisce un metodo per riconciliare dati non coincidenti.
+- Copertura v4: completa per definizione, funzione, inquadramento, elementi, distinzioni, conseguenze, applicazione, prova, errore, verifica e fonti.
+- Test dello studente: superato; il corpo resta utilizzabile senza source note, dashboard, planning o report.
+- Rinvii: zero wikilink nel corpo e nessun rinvio al VOL-01 o ad altri moduli usato al posto della teoria.
 
 ## 6. Contenuto da verificare
+- V01 — D.Lgs. 36/2023, art. 43 e Allegato I.9: ricontrollare allo step 15 testo vigente, campo applicativo e coordinamento con i correttivi.
+- V02 — D.M. 1 dicembre 2017, n. 560 e D.M. 2 agosto 2021, n. 312: verificare vigenza e raccordo con il Codice prima del text freeze.
+- V03 — INSPIRE, D.Lgs. 32/2010, RNDT e Linee guida AgID: confermare denominazioni, versione e assetto vigente.
+- V04 — Procedure catastali, specifiche tecniche e servizi dell'Agenzia delle entrate: verificare il quadro operativo vigente; il capitolo non fornisce sequenze eseguibili.
+- V05 — Artt. 822-830 c.c., discipline speciali dei beni pubblici e raccordi inventariali: verificare il campo applicabile ai casi concreti.
+- V06 — AINOP: confermare perimetro, funzioni e informazioni correnti dell'archivio.
 
-- Testo vigente dell'art. 43 del D.Lgs. 36/2023 e dell'Allegato I.9.
-- Persistenza, coordinamento e ambito applicativo del D.M. 560/2017 e del D.M. 312/2021.
-- Terminologia BIM, ambiente di condivisione dati, documenti e ruoli secondo norme e standard applicabili.
-- Requisiti correnti di interoperabilità, formati aperti e gestione dei dati territoriali.
-- Riferimenti RNDT, INSPIRE e sistemi di riferimento utilizzati nelle amministrazioni italiane.
-- Prassi aggiornate per PREGEO, DOCFA, volture e consultazione catastale.
-- Formulazione dei rapporti tra catasto, pubblicità immobiliare e stato legittimo.
-- Disciplina vigente su classificazione, inventario e contabilità dei beni pubblici.
-- Funzioni e perimetro informativo corrente di AINOP.
+## 7. Suggerimenti facoltativi (non errori)
+- S01 — Nell'export finale dividere le tabelle solo se la prova KDP evidenziasse compressione o righe isolate.
+- S02 — Le schede operative estese possono restare nell'appendice D senza ridurre l'autonomia del capitolo.
+- S03 — Nell'edizione digitale il caso dato-opera-decisione può diventare un modulo compilabile, mantenendo invariato il testo cartaceo.
 
-Questi punti costituiscono verifiche di fatto, normative o specialistiche e non errori certi del manoscritto.
+## 8. Priorità degli interventi
+1. Nessun errore certo da correggere nel capitolo.
+2. Eseguire allo step 15 l'audit specialistico su norme, standard, procedure e perimetro AINOP vigenti.
+3. Controllare nel preflight la resa delle tabelle e dei box nel formato KDP.
+4. Conservare eventuali schede estese in appendice senza introdurre dipendenze per il lettore.
 
-## 7. Suggerimenti facoltativi
+## 9. Giudizio di pubblicabilità
+Pubblicabile con correzioni minori.
 
-- Inserire, se compatibile con il progetto grafico, un piccolo schema del ciclo dato → verifica → decisione → aggiornamento.
-- Rendere esplicito in una nota il rinvio ai capitoli di contratti pubblici e transizione digitale.
-- Valutare un esempio sintetico di scheda anagrafica unica del cespite, purché non introduca campi obbligatori non generalizzabili.
-- Uniformare nell'impaginato finale sigle italiane e inglesi mediante un glossario di modulo.
+Motivazione: la tabella errori non contiene voci aperte; non risultano nuclei parziali, promesse non mantenute, rinvii irrisolti o dipendenze interne. Le verifiche residue riguardano elementi normativi e tecnici mobili, già isolate per l'audit specialistico automatico.
 
-## 8. Priorità
-
-1. Verifica normativa su BIM e disciplina dei contratti pubblici.
-2. Controllo specialistico catastale, geomatico e patrimoniale.
-3. Verifica dei riferimenti e dei collegamenti ufficiali.
-4. Prova di impaginazione di tabelle, checklist e schema operativo.
-5. Eventuale applicazione dei suggerimenti facoltativi.
-
-## 9. Giudizio di pubblicabilita
-
-**Pubblicabile dopo intervento medio.**
-
-Il capitolo è completo e didatticamente efficace. Non richiede riscritture strutturali né integrazioni obbligatorie di copertura; prima della pubblicazione necessita della validazione dei riferimenti normativi, procedurali e tecnici indicati nel report.
-
-## 10. Limiti
-
-La revisione valuta qualità editoriale, coerenza, completezza didattica e rischi di aggiornamento. Non sostituisce il controllo professionale di un esperto BIM, geomatico, catastale, urbanistico, patrimoniale o contabile, né certifica la vigenza delle fonti alla data di stampa. Collegamenti, norme tecniche, procedure telematiche e prassi amministrative devono essere verificati nell'ultima versione ufficiale disponibile.
+## 10. Limiti di questa revisione
+- Esaminati il Markdown e gli artefatti consolidati, non un PDF impaginato.
+- Non consultate fonti raw; i controlli si basano sulla conoscenza consolidata del wiki.
+- La revisione non sostituisce l'audit automatico dello step 15 su testo vigente, campi applicativi, standard e procedure mobili.
+- L'unica conferma umana prevista dal protocollo resta lo step 24 sul pacchetto finale completo.

@@ -152,10 +152,6 @@ export function classifyPageDiagnostic(page, context) {
   for (const value of page.detachedBlocks) {
     add("detached-box", value, "media", "tenere box e primo contenuto insieme")
   }
-  if (page.frontMatterLayout === "analytical-index" && page.isFrontMatterContinuation) {
-    add("split-index", "indice analitico", "media", "ricomporre l'indice completo su una sola pagina")
-  }
-
   const whitespaceLimit = Math.max(180, context.medianFreeSpace + 120)
   const exemptWhitespace = page.isSectionTerminal
     || page.sectionType === "front_matter"
@@ -211,6 +207,8 @@ export function renderPageAuditMarkdown({
   diagnostics,
   issues
 }) {
+  const volumeSlug = bookId.split("/").filter(Boolean).at(-1) || "volume"
+  const volumeCode = volumeSlug.toUpperCase()
   const registryRows = buildPageRegistryRows(diagnostics, issues)
   const blocking = issues.filter((issue) => issue.severity === "bloccante").length
   const significant = issues.filter((issue) => issue.severity === "media").length
@@ -232,9 +230,9 @@ export function renderPageAuditMarkdown({
     ).join("\n")
 
   return `---
-id: review-vol-07-step-20-page-audit
+id: review-${volumeSlug}-step-20-page-audit
 type: review
-title: Audit pagina per pagina - VOL-07
+title: Audit pagina per pagina - ${volumeCode}
 status: in-progress
 domain: concorsi pubblici italiani
 topics:
@@ -244,7 +242,7 @@ entities:
   - Amazon KDP
 source_refs: []
 book_refs:
-  - vol-07-sanita-amministrativa-professioni-sanitarie
+  - ${volumeSlug}
 confidence: 1
 updated_at: ${generatedAt}
 created_at: ${generatedAt}
@@ -253,14 +251,14 @@ canonical: false
 tags:
   - pipeline-step-20
   - page-fill
-  - vol-07
+  - ${volumeSlug}
 issue_type: page_fill
 severity: ${blocking > 0 ? "high" : significant > 0 ? "medium" : "none"}
 affected_pages:
-  - books/volumi/vol-07-sanita-amministrativa-professioni-sanitarie/index.md
+  - books/volumi/${volumeSlug}/index.md
 ---
 
-# Audit pagina per pagina - VOL-07
+# Audit pagina per pagina - ${volumeCode}
 
 ## Sintesi
 

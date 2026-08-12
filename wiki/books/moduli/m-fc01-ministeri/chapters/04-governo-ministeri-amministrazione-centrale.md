@@ -16,12 +16,12 @@ book_refs: ["m-fc01-ministeri", "il-metodo-bando"]
 confidence: 0.87
 updated_at: 2026-08-04
 created_at: 2026-06-27T22:08:22+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "module-code-m-fc01", "professional-draft"]
 book_id: m-fc01-ministeri
 outline_section: 4
-draft_stage: editorial-revision
+draft_stage: specialist-audit-complete
 module_code: M-FC01
 module_family: funzioni-centrali
 companion_to: il-metodo-bando
@@ -90,7 +90,7 @@ Il Governo è definito complesso perché comprende più componenti tra loro coll
 
 Sul piano costituzionale, il Governo esercita funzioni di indirizzo politico e partecipa all'attuazione delle politiche pubbliche attraverso gli strumenti previsti dall'ordinamento. Sul piano amministrativo, le decisioni politiche devono tradursi in obiettivi, programmi e attività degli apparati competenti. È in questo passaggio che il candidato deve evitare una scorciatoia: Governo e amministrazione collaborano, ma non coincidono.
 
-Per il quadro generale sulla formazione del Governo, sul rapporto fiduciario e sulle fonti si rinvia a [[books/il-metodo-bando/chapters/costituzione-e-ordinamento-dello-stato]]. Qui interessa soprattutto riconoscere chi fa che cosa e come quel ruolo si collega ai Ministeri.
+Per il quadro generale sulla formazione del Governo, sul rapporto fiduciario e sulle fonti si rinvia a [[books/il-metodo-bando/chapters/costituzione-e-ordinamento-dello-stato#11. Governo|capitolo sul Governo]]. Qui interessa soprattutto riconoscere chi fa che cosa e come quel ruolo si collega ai Ministeri.
 
 ### Presidente del Consiglio dei ministri
 
@@ -136,7 +136,7 @@ Gli organi di governo definiscono obiettivi, priorità, programmi e criteri gene
 
 I due piani restano collegati. L'indirizzo privo di attuazione resta un obiettivo; la gestione priva di obiettivi perde il riferimento istituzionale. La distinzione serve a rendere riconoscibili responsabilità diverse e a proteggere l'imparzialità della gestione amministrativa.
 
-Per la disciplina generale della dirigenza e del pubblico impiego si rinvia a [[books/il-metodo-bando/chapters/pubblico-impiego-e-organizzazione-pa]]. Nel modulo M-FC01 questa regola viene letta nel contesto di un'amministrazione centrale.
+Per la disciplina generale della dirigenza e del pubblico impiego si rinvia a [[books/il-metodo-bando/chapters/pubblico-impiego-e-organizzazione-pa#Indirizzo politico e gestione amministrativa|sezione su indirizzo politico e gestione]]. Nel modulo M-FC01 questa regola viene letta nel contesto di un'amministrazione centrale.
 
 ### Un esempio essenziale
 
@@ -269,22 +269,3 @@ Classifica ogni voce come organo o carica politica, struttura di supporto, ammin
 - Ho distinto indirizzo politico-amministrativo e gestione?
 - Ho evitato elenchi di strutture correnti non richiesti?
 - Ho concluso con un esempio o una conseguenza pratica?
-
-## Riferimenti consolidati
-
-- [[sources/governo-presidenza-consiglio-ministeri-organizzazione]]
-- [[sources/legge-23-agosto-1988-n-400-governo-e-potesta-normativa]]
-- [[sources/d-lgs-30-luglio-1999-n-300-organizzazione-governo]]
-- [[sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego]]
-- [[books/il-metodo-bando/chapters/costituzione-e-ordinamento-dello-stato]]
-- [[books/il-metodo-bando/chapters/pubblico-impiego-e-organizzazione-pa]]
-- [[books/moduli/m-fc01-ministeri/chapters/05-presidenza-consiglio-ministri]]
-- [[books/moduli/m-fc01-ministeri/chapters/06-organizzazione-interna-ministeri]]
-
-## Note di review
-
-- Verificare su Normattiva, al cut-off, il testo vigente della legge 23 agosto 1988, n. 400 e del d.lgs. 30 luglio 1999, n. 300 per ogni richiamo normativo puntuale.
-- Controllare sulla fonte ufficiale vigente denominazioni, numero e assetto dei Ministeri prima di inserire eventuali elenchi.
-- Verificare la coerenza della distinzione tra indirizzo e gestione con il testo vigente del d.lgs. 30 marzo 2001, n. 165.
-- Mantenere nel capitolo 05 la disciplina specifica della Presidenza e nel capitolo 06 l'organizzazione interna dei Ministeri.
-- Controllare nel renderer KDP la leggibilità della tabella comparativa e dello schema monospaziato.

@@ -1,0 +1,12 @@
+{
+  "version": "VOL-10-candidate-2026.08.12.1",
+  "volume": "VOL-10",
+  "date": "2026-08-12",
+  "normativeCutoff": "2026-08-12",
+  "sourceCommit": "067e5eb1633f9941a846f3d6c3a3b03d9f9021a9",
+  "status": "publication-candidate",
+  "humanSignoff": "pending-step-24",
+  "pages": 196,
+  "trimInches": [6.69, 9.61],
+  "bleed": false
+}

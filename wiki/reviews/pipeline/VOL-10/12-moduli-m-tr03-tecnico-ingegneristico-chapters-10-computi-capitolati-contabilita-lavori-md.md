@@ -1,58 +1,99 @@
-# Report editoriale — Volume 10, Capitolo 10: Computi, capitolati e contabilità dei lavori
+# Report editoriale - Computi, capitolati e contabilita dei lavori
 
 ## 1. Sintesi editoriale
-- Genere editoriale: manuale tecnico per concorsi pubblici.
-- Pubblico target: candidati a profili di ingegnere, geometra, funzionario tecnico e specialista infrastrutture.
-- Perimetro di questa revisione: capitolo 10, indice e piano del modulo, matrice e delta di copertura, source note specialistica, topic e rinvii interni.
-- Stato generale in una frase: il capitolo è coerente, autonomo e didatticamente completo nel percorso dalla stima progettuale alla contabilità finale; prima della pubblicazione richiede la verifica delle disposizioni mobili su prezzari, documenti contabili, pagamenti e riserve.
+- Genere editoriale: manuale-workbook specialistico per concorsi tecnici nella PA, modulo M-TR03 del VOL-10.
+- Pubblico target: candidati ingegneri, architetti, geometri, istruttori/funzionari tecnici e profili infrastrutturali.
+- Perimetro di questa revisione: step 12 gia aperto di VOL-10, capitolo 10 `M-TR03 - Computi, capitolati e contabilita dei lavori`.
+- Materiali esaminati: prompt step 12, skill Revisore Editoriale Totale, checklist 30 punti, template report, `wiki/AGENTS.md`, memoria locale, capitolo 10, indice modulo e indice VOL-10, Bibbia del modulo, matrice v4, capitoli 7-9 e 11-12, source note/topic/entity consolidate pertinenti.
+- Stato generale in una frase: capitolo editorialmente solido, autosufficiente per lo studente, coerente con matrice v4 e capitoli contigui; nessun errore oggettivo inequivoco da correggere nel testo.
+- Test dello studente: superato. Rimosso frontmatter e accesso al wiki, il capitolo conserva definizioni, distinzioni, esempi, calcoli, caso, quiz e cautele operative necessarie.
+- Copertura v4: N-TR03-10-01/N-TR03-10-06 risultano completi anche dopo controllo sul contenuto reale; nessun aggiornamento matrice richiesto.
+- Correzioni applicate al capitolo: nessuna. Non sono state rilevate correzioni oggettive inequivoche da applicare con patch.
 
 ## 2. Punti applicati della checklist
-Applicati i punti 1-26 e 28-30: corrispondenza con indice e matrice; struttura, gerarchia e progressione; autonomia del capitolo; coerenza con i capitoli 7, 8 e 9; terminologia; completezza e accuratezza delle definizioni; disciplina normativa; qualità di esempio, caso, tabella, box, esercizio e fonti; sintassi, chiarezza, tono, stile didattico, ripetizioni e contraddizioni; grammatica, ortografia, punteggiatura, refusi, uniformità grafica, layout Markdown e leggibilità. Applicati anche il gate di copertura didattica integrale e la logica v4: il capitolo sviluppa l'applicazione tecnico-contabile senza duplicare il nucleo generale sui contratti pubblici del VOL-01. Il punto 27 non è applicabile perché non è disponibile un impaginato PDF o KDP.
+| Punto | Controllo | Esito |
+| --- | --- | --- |
+| 1 | Indice coerente con struttura reale | Applicato: indice VOL-10, indice modulo e titolo capitolo coerenti. |
+| 2 | Struttura del libro logica e completa | Applicato: collocazione in Parte III coerente con ciclo progettazione-esecuzione-collaudo. |
+| 3 | Progressione logica degli argomenti | Applicato: catena voce-quantita-prezzo-capitolato-contabilita-SAL-conto finale ordinata. |
+| 4 | Titoli, sottotitoli e gerarchia | Applicato: H1, apertura, sei nuclei Format 2, verifica finale coerenti. |
+| 5 | Idoneita finale alla pubblicazione | Applicato: idoneo con verifiche normative mobili residue. |
+| 6 | Coerenza interna al capitolo | Applicato: capitolo autosufficiente e non contraddittorio. |
+| 7 | Coerenza tra capitoli | Applicato: confronto con capp. 7-9 e 11-12 senza conflitti. |
+| 8 | Coerenza terminologica | Applicato: computo, CME, elenco prezzi, SAL, certificato, riserva e conto finale usati stabilmente. |
+| 9 | Completezza delle spiegazioni | Applicato: nessun passaggio logico mancante nel perimetro assegnato. |
+| 10 | Accuratezza delle definizioni | Applicato: definizioni coerenti con source note consolidate. |
+| 11 | Errori concettuali | Applicato: nessun errore concettuale rilevato. |
+| 12 | Errori normativi o contenutistici | Applicato: nessun errore certo rilevato; voci mobili in sezione 6. |
+| 13 | Esempi chiari e coerenti | Applicato: esempi geometrici e caso scuola coerenti. |
+| 14 | Note, richiami, tabelle, box e schemi | Applicato: tabelle e box funzionali, nessun wikilink nel corpo. |
+| 15 | Apparato bibliografico/normativo | Applicato: riferimenti essenziali presenti; verifica vigenza demandata a step specialistico. |
+| 16 | Sintassi | Applicato: frasi leggibili, nessuna contorsione bloccante. |
+| 17 | Chiarezza espositiva | Applicato: distinzioni operative chiare. |
+| 18 | Tono editoriale | Applicato: tono da manuale concorsuale coerente. |
+| 19 | Stile didattico | Applicato: workbook con caso, quiz, domanda-trappola e checklist. |
+| 20 | Ripetizioni inutili | Applicato: riprese intenzionali su distinzioni critiche, non ridondanze dannose. |
+| 21 | Contraddizioni locali | Applicato: nessuna contraddizione locale rilevata. |
+| 22 | Grammatica | Applicato: nessun errore grammaticale oggettivo rilevato. |
+| 23 | Ortografia | Applicato: nessun refuso oggettivo rilevato nel registro ASCII del progetto. |
+| 24 | Punteggiatura | Applicato: punteggiatura funzionale. |
+| 25 | Refusi | Applicato: nessun refuso certo da correggere. |
+| 26 | Uniformita grafica | Applicato: tabelle, quiz e formule coerenti. |
+| 27 | Impaginazione | Applicato nei limiti del Markdown; PDF/impaginato non disponibile. |
+| 28 | Layout | Applicato: tabelle compatte e leggibili in testo. |
+| 29 | Leggibilita complessiva | Applicato: densita adeguata al target. |
+| 30 | Qualita editoriale complessiva | Applicato: qualita alta per step 12, con audit normativo specialistico ancora richiesto. |
 
 ## 3. Tabella errori
-| ID | Posizione | Categoria | Gravità | Descrizione | Correzione proposta | Stato |
+| ID | Posizione | Categoria | Gravita | Descrizione | Correzione proposta | Stato |
 |----|-----------|-----------|---------|-------------|----------------------|-------|
-| E01 | Prezzari e nuove voci; Costi della sicurezza e quadro economico | Accuratezza normativa | Media | L'impostazione è coerente con le fonti consolidate, ma prezzari applicabili, criteri per fonti alternative, costo della manodopera e costi della sicurezza dipendono dal testo vigente dell'art. 41 e dalla disciplina applicabile al singolo intervento. | Verificare l'art. 41 e l'Allegato I.7 alla data di chiusura editoriale; far validare gli esempi applicativi da un progettista estimatore e indicare sempre territorio, edizione e data del prezzario. | Da verificare |
-| E02 | Riserve e tracciabilità | Accuratezza normativa | Media | Il capitolo espone correttamente la funzione della riserva, ma forme, sedi, contenuto e termini non possono essere assunti come stabili senza controllo dell'art. 115 e dell'Allegato II.14 vigenti. | Eseguire una verifica articolo per articolo e sottoporre il paragrafo a RUP, DL ed esperto di contabilità prima di aggiungere termini o procedure puntuali. | Da verificare |
-| E03 | Misurazione e libretto; Registro e sommario; SAL e certificato di pagamento; Conto finale | Accuratezza normativa | Media | Le distinzioni documentali sono chiare, ma formazione, sottoscrizione, gestione digitale, effetti e raccordi tra i documenti contabili richiedono validazione sul testo vigente dell'Allegato II.14 e sul contratto. | Verificare requisiti e sequenza dei documenti contabili sull'Allegato II.14 vigente; validare la sezione con un DL e un tecnico addetto alla contabilità lavori. | Da verificare |
-| E04 | Capitolato speciale e specifiche; Note di review | Coerenza tra capitoli e rinvii | Media | Il rinvio al VOL-01 è puntuale ma va verificato sul titolo e sull'heading definitivi; il rinvio al capitolo 12 non è ancora consolidabile perché la destinazione è in sviluppo. | Controllare il rinvio a `Contratti pubblici essenziali`, sezione `10. Documenti di gara: bando, disciplinare e capitolato`; dopo il completamento del capitolo 12, indicarne titolo e heading definitivo. | Proposto |
-| E05 | Tavola dei documenti; caso guidato; checklist | Layout | Lieve | Tabelle, formule ed elenchi sono leggibili in Markdown, ma la resa del box, delle espressioni numeriche e della checklist non è ancora verificata nel formato paperback KDP. | Nel preflight PDF controllare spezzature, righe orfane e leggibilità delle formule; mantenere la tabella accanto alla spiegazione sulla coerenza degli elaborati. | Da verificare |
+| - | Capitolo 10 | - | - | Nessun errore oggettivo, concettuale, aritmetico o testuale inequivoco rilevato nel perimetro step 12. | Nessuna correzione applicata al capitolo. | Chiuso |
 
-Non sono emersi errori oggettivi certi da correggere direttamente nel testo. Le voci E01-E04 riguardano verifiche normative o destinazioni ancora mobili; E05 riguarda la futura impaginazione.
+Correzioni oggettive applicate con `apply_patch` al capitolo: nessuna.
 
 ## 4. Osservazioni per capitolo
-### Capitolo 10 — Computi, capitolati e contabilità dei lavori
-- Punti di forza: progressione lineare dalla voce alla stima e dalla misura al conto finale; distinzione netta tra computo metrico, CME, elenco prezzi, quadro economico e capitolato; raccordo efficace tra elaborati progettuali e documenti contabili; separazione corretta tra SAL e certificato di pagamento; caso numerico coerente nei progressivi; esercizio con soluzione e checklist realmente utilizzabili nella preparazione.
-- Criticità: il quadro normativo contiene regole mobili su prezzari, manodopera, sicurezza, documenti digitali, pagamenti e riserve; il rinvio al VOL-01 deve essere verificato sull'heading definitivo e quello al capitolo 12 resta provvisorio; la resa paperback non è ancora osservabile.
+### Capitolo 10 - Computi, capitolati e contabilita dei lavori
+- Punti di forza: distinzione computo/CME/elenco prezzi chiara; SAL, certificato di pagamento e pagamento separati; riserve trattate senza fissare termini mobili; conto finale distinto dal collaudo; caso numerico coerente; sei quiz commentati presenti.
+- Criticita: nessuna criticita oggettiva aperta. Restano verifiche normative e di dettaglio da step 15 su vigenza, Allegato II.14, prezzari e forme delle riserve.
+
+### Capitoli 7-9 e 11-12 - Contesto esaminato
+- Punti di forza: capitolo 10 si innesta correttamente dopo progettazione, direzione lavori e collaudo/manutenzione, senza duplicarne la teoria; il raccordo con BIM/GIS e patrimonio resta di interfaccia.
+- Criticita: nessuna contraddizione trasversale rilevata. Il conto finale e correttamente presentato come base contabile del controllo finale, non come collaudo.
 
 ## 5. Coerenza globale
-- Terminologia: coerente con il lessico tecnico del modulo; “computo metrico”, “computo metrico estimativo”, “elenco prezzi”, “capitolato”, “libretto delle misure”, “registro di contabilità”, “SAL”, “certificato di pagamento”, “riserva” e “conto finale” mantengono funzioni distinte.
-- Struttura vs indice: il capitolo copre computi, prezzi, capitolati, documenti contabili, SAL e conto finale promessi dall'indice e dalla matrice.
-- Promesse dell'introduzione mantenute: sì. Ogni promessa dell'Obiettivo trova spiegazione, caso o verifica. La riga della matrice resta `completo`; nessun nucleo assegnato è `parziale`, `solo-nominato` o `mancante`.
+- Terminologia: coerente. `Computo metrico`, `CME`, `elenco prezzi`, `capitolato`, `libretto delle misure`, `registro di contabilita`, `sommario`, `SAL`, `certificato di pagamento`, `riserve` e `conto finale` mantengono funzioni distinte.
+- Struttura vs indice: coerente con indice VOL-10 e indice M-TR03. Il capitolo 10 copre l'output previsto: mini-computo e SAL guidato.
+- Promesse dell'introduzione mantenute: si. La promessa di distinguere quantita progettata, prezzo unitario, prescrizione tecnica, quantita eseguita, registrazione contabile, SAL, certificato e conto finale e mantenuta nei nuclei e nella verifica finale.
+- Copertura v4: completa per i sei nuclei assegnati. Le dimensioni definizione, funzione, inquadramento, elementi, distinzioni, conseguenze, esempio/caso, uso nella prova, errore tipico, verifica e fonti risultano coperte.
+- Verifica rinvii: nel corpo del capitolo non ci sono wikilink o rinvii interni sostitutivi. I rinvii di matrice a capp. 7-9 e 12 sono interfacce corrette; il rinvio VOL-01 resta solo per nucleo PA comune/modulo e non sostituisce teoria del capitolo 10.
+- Calcoli didattici: corretti. 8 x 6 = 48; 7 x 5 = 35; 83 x 40 = 3.320; 50 x 40 = 2.000; 80 x 40 = 3.200; incremento secondo periodo = 1.200; 12 m + 40 m progressivi = 52 m e 120/520 unita; mini-esercizio 12 x 4 = 48, progressivo 40, incremento 250, progressivo 1.000.
 
 ## 6. Contenuto da verificare
-- D.Lgs. 36/2023, art. 41, e Allegato I.7 nel testo vigente, con particolare attenzione a prezzari, fonti alternative, manodopera, costi della sicurezza e quadro economico.
-- D.Lgs. 36/2023, art. 115, e Allegato II.14 nel testo vigente per riserve, documenti contabili, SAL, certificato di pagamento e conto finale.
-- Regole contrattuali applicabili al singolo affidamento e requisiti della gestione digitale della contabilità.
-- Provenienza, territorio, edizione, data, unità e contenuto di ogni prezzo reale eventualmente inserito.
-- Titolo e heading definitivi del rinvio al VOL-01.
-- Destinazione definitiva del rinvio al capitolo 12.
+- V01 - D.Lgs. 36/2023, artt. 41, 82 e 115: da ricontrollare sul testo vigente alla data di pubblicazione o del bando. Le source consolidate e Normattiva consultata risultano coerenti, ma la materia e mobile.
+- V02 - Allegato I.7 e Allegato II.14: da verificare nello step specialistico per termini, casi speciali, documenti contabili, riserve, certificati e conto finale.
+- V03 - Prezzari e analisi prezzi: nessun prezzo reale e inserito nel capitolo; ogni valore reale futuro richiede fonte ufficiale, ambito territoriale, edizione e data.
+- V04 - Riserve: il capitolo evita termini mobili; forme, termini e decadenze vanno verificati sul testo vigente e sugli atti applicabili.
+- V05 - Certificato di pagamento e pagamento: distinzione didattica corretta; eventuali termini procedurali o casi speciali non sono trattati e vanno verificati prima del text freeze.
 
 ## 7. Suggerimenti facoltativi (non errori)
-- Nell'appendice C, predisporre una scheda verticale che mostri la stessa voce in computo, libretto, registro e SAL.
-- Dopo la review specialistica, valutare un secondo microcaso su una nuova voce autorizzata, senza introdurre termini procedurali non verificati.
-- Nell'impaginazione, tenere il box “Da sapere in 5 righe” e la tavola dei documenti vicini alle rispettive spiegazioni.
+- S01 - Si puo valutare, in una revisione futura e non in questo step, una frase di rinforzo sull'art. 82 in caso di contrasto tra documenti di gara, mantenendo pero il focus del capitolo su computo/capitolato/contabilita.
+- S02 - In export finale si puo controllare la resa tipografica di `m2`, moltiplicazioni e importi in tabelle e paragrafi, senza modificare ora il testo Markdown.
+- S03 - Se l'appendice C verra sviluppata, puo contenere modelli di libretto, registro, SAL e conto finale; il capitolo resta comunque autosufficiente.
 
-## 8. Priorità degli interventi
-1. Verificare art. 41, Allegato I.7 e disciplina dei prezzari con un progettista estimatore.
-2. Verificare art. 115 e Allegato II.14 con RUP, DL ed esperto di contabilità lavori.
-3. Validare documenti, progressivi e gestione digitale della contabilità.
-4. Consolidare i rinvii al VOL-01 e al capitolo 12.
-5. Eseguire il preflight dell'impaginato su tabella, formule, box e checklist.
+## 8. Priorita degli interventi
+1. Nessun errore grave contenutistico o strutturale da correggere nel capitolo 10.
+2. Eseguire nello step specialistico previsto il ricontrollo normativo su artt. 41, 82, 115, Allegati I.7 e II.14, prezzari, riserve e certificati.
+3. In preflight/impaginazione, controllare resa di tabelle, formule didattiche e unita di misura.
+4. Valutare solo in fase successiva l'eventuale rinforzo sull'art. 82, se il coordinamento editoriale vuole maggiore dettaglio sui documenti di gara.
 
 ## 9. Giudizio di pubblicabilita
-Pubblicabile dopo intervento medio.
-Motivazione: non emergono errori gravi, lacune didattiche, incoerenze linguistiche o duplicazioni di famiglia; restano quattro verifiche medie su normativa, documenti contabili e rinvii (E01-E04), oltre a un controllo lieve di layout (E05).
+Pubblicabile con correzioni minori.
+
+Motivazione: nel perimetro editoriale dello step 12 non risultano errori oggettivi aperti, lacune di copertura v4, rinvii incompleti, calcoli errati o contraddizioni con i capitoli 7-9 e 11-12. La pubblicabilita resta condizionata ai controlli specialistici gia previsti su norme mobili, prezzari, Allegato II.14 e documenti contabili.
 
 ## 10. Limiti di questa revisione
-La revisione ha riguardato capitolo, matrice, delta, piano, source note e topic in formato Markdown. Non sostituisce la verifica normativa alla data di stampa, la review di progettista estimatore, RUP, direttore dei lavori, tecnico addetto alle misure ed esperto di contabilità, né l'ispezione di un PDF impaginato. Il capitolo 12 non è ancora disponibile in forma definitiva, quindi il relativo rinvio potrà essere validato solo dopo il suo completamento.
+- Non e stato modificato `pipeline/VOL-10/run-state.json`, non e stato eseguito `complete` e non e stato fatto commit.
+- Non sono state lette fonti `raw/`; la revisione si basa su source note, topic, entity consolidate, capitoli e planning richiesti.
+- La verifica normativa non sostituisce audit specialistico o controllo umano professionale su testo vigente, casi speciali, prezzari territoriali e prassi operative.
+- Non era disponibile un PDF impaginato: layout e resa KDP sono stati valutati solo sul Markdown.
+- Le entity `dlgs-36-2023` e `rup` risultano draft/review_required: sono state considerate contesto, non fonte normativa autonoma.

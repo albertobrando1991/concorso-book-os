@@ -1,4 +1,4 @@
-# Delta di copertura — Capitolo 05
+# Delta di copertura Format 2 — capitolo 05
 
 ## Target
 
@@ -6,32 +6,42 @@
 
 ## Esito
 
-Il controllo sul testo reale conferma la copertura completa, al livello introduttivo nazionale dichiarato, della riga di matrice assegnata al capitolo 5. Le discipline regionali e gli strumenti locali restano oggetto di verifica sul territorio del singolo bando: il limite è esplicito e non viene presentato come regola uniforme.
+Il controllo sul testo reale conferma la copertura completa della riga di matrice assegnata al capitolo 5. I sei nuclei superano la soglia di 600 parole e sviluppano teoria, applicazione, uso concorsuale, errore e verifica senza dipendere da materiali interni. La classificazione `completo` riguarda il quadro nazionale e il metodo di lettura; discipline regionali, piani locali, NTA e vincoli puntuali restano dati mobili da verificare nel territorio del singolo bando.
 
 | Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
-|---|---|---|---|---|
-| Inquadramento e funzione del governo del territorio | da sviluppare | Definiti oggetto, interessi pubblici e articolazione multilivello | completo | `Un sistema multilivello` |
-| Piani generali e attuativi | da sviluppare | Distinti funzione, contenuto, scala ed effetti dei diversi strumenti | completo | `Piani: funzione, contenuto ed effetti` |
-| Zonizzazione, destinazioni e standard | da sviluppare | Spiegati zone, usi, parametri e dotazioni territoriali, con distinzione tra standard e indici edificatori | completo | `Zonizzazione, destinazioni e standard` |
-| Conformità, salvaguardia e varianti | da sviluppare | Ricostruita la sequenza dal quadro pianificatorio alla verifica dell’intervento | completo | `Dal piano all’intervento` |
-| Vincoli urbanistici, espropriativi, paesaggistici e settoriali | da sviluppare | Classificati per fonte, effetto e durata, evitando l’equivalenza tra vincolo e inedificabilità assoluta | completo | `Vincoli: fonte, effetto, durata` e relativi sottoparagrafi |
-| Espropriazione e pianificazione | da sviluppare | Collegati vincolo preordinato, dichiarazione di pubblica utilità e procedimento ablatorio | completo | `Espropriazione e pianificazione` |
-| Paesaggio e governo del territorio | da sviluppare | Distinte pianificazione paesaggistica e verifica autorizzativa del singolo intervento | completo | `Paesaggio e governo del territorio` |
-| Applicazione e conseguenze operative | caso piano–intervento | Inserito un caso guidato che coordina destinazione a servizio, proprietà privata, vincolo paesaggistico e percorso amministrativo | completo | `Caso guidato: area destinata a servizio` |
-| Uso nella prova ed errore tipico | caso e orale | Inseriti schema BANDO, risposta orale, domanda-trappola ed errore tipico | completo | `La Mappa BANDO`, `Domanda da commissario`, `Domanda-trappola`, `Errore tipico` |
-| Verifica dell’apprendimento | da predisporre | Inseriti mini-esercizio con soluzione e checklist di analisi | completo | `Mini-esercizio` e `Checklist del caso` |
-| Fonti e review | parziale | Collegate fonti ufficiali consolidate e dichiarate le verifiche nazionali, regionali e specialistiche residue | completo | `Riferimenti consolidati` e `Note di review` |
+| --- | --- | --- | --- | --- |
+| N-TR03-05-01 | parziale | sviluppati definizioni, funzioni, sistema multilivello e partecipazione | completo | `Principi di urbanistica, pianificazione e governo del territorio` |
+| N-TR03-05-02 | parziale | completati scala, piani generali e attuativi, effetti, salvaguardia e varianti | completo | `Piani, livelli, contenuti ed effetti` |
+| N-TR03-05-03 | parziale | distinti zonizzazione, destinazioni, parametri, standard, catasto e titolo | completo | `Zonizzazione, destinazioni, parametri e standard` |
+| N-TR03-05-04 | parziale | classificati vincoli e tutele per fonte, oggetto, effetto e procedimento | completo | `Vincoli e tutele nel governo del territorio` |
+| N-TR03-05-05 | parziale | collegati pianificazione, procedimento ablativo e controllo paesaggistico autonomo | completo | `Pianificazione, espropriazione e paesaggio` |
+| N-TR03-05-06 | parziale | costruita istruttoria integrata con caso, dati mancanti e checklist | completo | `Istruttoria e caso piano–vincolo–intervento` |
+
+## Controllo dimensionale e didattico
+
+| Nucleo | Parole | Quiz | Caso | Evidenza di prossimità | Esito |
+| --- | ---: | ---: | ---: | --- | --- |
+| N-TR03-05-01 | 653 | 1 | 0 | `Verifica rapida` | conforme |
+| N-TR03-05-02 | 633 | 1 | 0 | `Verifica rapida` | conforme |
+| N-TR03-05-03 | almeno 600 | 1 | 0 | `Verifica rapida` | conforme |
+| N-TR03-05-04 | 643 | 1 | 0 | `Verifica rapida` | conforme |
+| N-TR03-05-05 | almeno 600 | 1 | 0 | `Verifica rapida` | conforme |
+| N-TR03-05-06 | 685 | 1 | 1 | `Caso guidato`, `Verifica rapida`, checklist e prova di trasferimento | conforme |
+
+Il corpo supera 4.500 parole. Sono presenti sei quiz con risposta commentata, un caso guidato e il blocco `▣ Verifica` dopo sei nuclei. Non risultano nuclei troppo brevi, dimensioni mancanti, rinvii interni sostitutivi della teoria o promesse formative prive di spiegazione.
 
 ## Controllo delle promesse formative
 
-| Promessa | Evidenza nel capitolo |
-|---|---|
-| Distinguere livelli e funzioni della pianificazione | `Un sistema multilivello`; `Piani: funzione, contenuto ed effetti` |
-| Leggere destinazione, standard e conformità | `Zonizzazione, destinazioni e standard`; `Dal piano all’intervento` |
-| Riconoscere natura ed effetti dei vincoli | `Vincoli: fonte, effetto, durata` |
-| Collegare piano, esproprio e paesaggio | `Espropriazione e pianificazione`; `Paesaggio e governo del territorio` |
-| Impostare un caso e una risposta orale | `Caso guidato: area destinata a servizio`; `Domanda da commissario` |
+| Promessa | Evidenza nel capitolo | Stato |
+| --- | --- | --- |
+| distinguere pianificazione territoriale e urbanistica | N-TR03-05-01 | completo |
+| leggere funzione, scala ed effetti dei piani | N-TR03-05-02 | completo |
+| distinguere piano generale e strumenti attuativi | N-TR03-05-02 | completo |
+| spiegare zonizzazione, destinazioni e standard | N-TR03-05-03 | completo |
+| classificare i principali vincoli | N-TR03-05-04 | completo |
+| collegare pianificazione, espropriazione e tutela paesaggistica | N-TR03-05-05 | completo |
+| impostare il caso piano–vincolo–intervento–procedimento | N-TR03-05-06 | completo |
 
-## Limiti e review
+## Limiti e audit successivo
 
-La classificazione `completo` riguarda la copertura didattica della riga di matrice, non certifica l’uniformità delle discipline territoriali. Prima della pubblicazione vanno ricontrollati il testo vigente delle fonti nazionali e, per l’uso su uno specifico concorso, la legge regionale, gli strumenti sovraordinati e il piano comunale applicabili. È richiesta review di un urbanista o tecnico esperto di pianificazione e di un amministrativista per i passaggi su vincoli ed espropriazione.
+Il testo non promette una procedura uniforme nazionale e non sostituisce una pratica territoriale. Lo step 15 dovrà ricontrollare automaticamente la vigenza del pacchetto nazionale, la distinzione nazionale/regionale, i confini con edilizia e ambiente e l'assenza di termini o automatismi non sostenuti. Non restano lacune didattiche da trasferire allo studente.

@@ -5019,6 +5019,493 @@
 - atoms:
   - mem-20260805172610-zzamvq | result | Esito codex/pipeline-volume/step-00/intake: Prossimo step. -> Completato step 00 VOL-08: target M-TR01 identificato, riferimenti canonici e memoria letti, stato Git e collisioni documentati, nessun contenuto editoriale modificato; prossimo step 01.
 
+## 2026-08-11T08:47:19.232Z - VOL-10/M-TR03
+
+- conversation_id: conv-20260811084719-qcn5pa
+- route: pipeline-volume
+- l0: l0/conv-20260811084719-qcn5pa.md
+- atoms:
+  - mem-20260811084719-sr3sp3 | workflow | Applicare la pipeline aggiornata al volume 10 portando i capitoli allo stato pubblicabile.
+  - mem-20260811084719-hysp37 | result | Esito pipeline-volume: Applicare la pipeline aggiornata al volume 10 portando i capitoli allo stato pubblicabile. -> Capitolo 01 convertito a Format 2 e completato agli step 08-12: 4450 parole, 6 nuclei da almeno 600 parole, 6 quiz commentati, 1 caso, 6 verifiche; matrice dimensionale e report reviewer aggiornati; gate senza warning.
+
+## 2026-08-11T09:06:00.320Z - VOL-10/M-TR03
+
+- conversation_id: conv-20260811090600-1i5l4xr
+- route: pipeline-volume
+- l0: l0/conv-20260811090600-1i5l4xr.md
+- atoms:
+  - mem-20260811090600-biy864 | workflow | Procedere con la pipeline aggiornata di VOL-10.
+  - mem-20260811090600-12rajw7 | result | Esito pipeline-volume: Procedere con la pipeline aggiornata di VOL-10. -> Capitolo 02 completato agli step 08-12 e giudicato pubblicabile: 6 nuclei Format 2 sopra 600 parole, 6 quiz, 1 caso, 6 verifiche; matrice dimensionale, delta, Humanizer e report reviewer senza blocker.
+
+## 2026-08-11T09:24:57.078Z - VOL-10/M-TR03
+
+- conversation_id: conv-20260811092457-vjbxyz
+- route: pipeline-volume
+- l0: l0/conv-20260811092457-vjbxyz.md
+- atoms:
+  - mem-20260811092457-179cgf1 | result | Esito pipeline-volume: Procedere con la pipeline aggiornata di VOL-10. -> Capitolo 03 completato agli step 08-12 e giudicato pubblicabile: 6 nuclei Format 2 sopra 600 parole, 6 quiz, 1 caso qualitativo, 6 verifiche; nessun calcolo di opera reale; matrice, Humanizer e review senza blocker.
+
+## 2026-08-11T09:37:54.882Z - VOL-10/M-TR03
+
+- conversation_id: conv-20260811093754-1aun3sw
+- route: pipeline-volume
+- l0: l0/conv-20260811093754-1aun3sw.md
+- atoms:
+  - mem-20260811093754-ma285b | result | Esito pipeline-volume: Procedere con VOL-10. -> Capitolo 04 completato agli step 08-12 e pubblicabile: 6 nuclei, 6 quiz, caso, verifiche, matrice e review; nessun coefficiente o dimensionamento; gate e test verdi.
+
+## 2026-08-11T09:42:14.388Z - VOL-10
+
+- conversation_id: conv-20260811094214-11a1f8z
+- route: codex-vol10-cap05-step08-format2
+- l0: l0/conv-20260811094214-11a1f8z.md
+- atoms:
+  - mem-20260811094214-1syjej1 | workflow | Procedi con il prossimo step della pipeline aggiornata di VOL-10.
+  - mem-20260811094214-17s2l35 | result | Esito codex-vol10-cap05-step08-format2: Procedi con il prossimo step della pipeline aggiornata di VOL-10. -> Completato step 08 capitolo 05: aggiornato piano operativo Format 2 su urbanistica e governo del territorio; definiti sei nuclei stabili da almeno 600 parole, fonti, confini, audit, sei quiz, verifiche e caso integrat...
+
+## 2026-08-11T09:50:34.743Z - VOL-10
+
+- conversation_id: conv-20260811095034-u28qkw
+- route: codex-vol10-cap05-step09-format2
+- l0: l0/conv-20260811095034-u28qkw.md
+- atoms:
+  - mem-20260811095034-u0osxb | result | Esito codex-vol10-cap05-step09-format2: Procedi con il prossimo step della pipeline aggiornata di VOL-10. -> Completato step 09 capitolo 05: riscritto Urbanistica e governo del territorio in Formato 2 con 6 nuclei tra 603 e 685 parole, 6 quiz commentati, caso ragionato, verifiche vicine, riferimenti leggibili e nessun link i...
+
+## 2026-08-11T09:53:02.055Z - VOL-10
+
+- conversation_id: conv-20260811095302-136lzhj
+- route: codex-vol10-cap05-step10-format2
+- l0: l0/conv-20260811095302-136lzhj.md
+- atoms:
+  - mem-20260811095302-uccb70 | result | Esito codex-vol10-cap05-step10-format2: Procedi con il prossimo step della pipeline aggiornata di VOL-10. -> Completato step 10 capitolo 05: verificata copertura reale di sei nuclei; integrate due sezioni risultate sotto soglia dal conteggio canonico; aggiornate matrice dimensionale e delta; gate didactic-density superato se...
+
+## 2026-08-11T09:55:23.255Z - VOL-10
+
+- conversation_id: conv-20260811095523-1w1gqdb
+- route: codex-vol10-cap05-step11-humanizer
+- l0: l0/conv-20260811095523-1w1gqdb.md
+- atoms:
+  - mem-20260811095523-1kb116c | result | Esito codex-vol10-cap05-step11-humanizer: Procedi con il prossimo step della pipeline aggiornata di VOL-10. -> Completato step 11 capitolo 05: doppia passata Humanizer con correzioni mirate a contrasti meccanici, aperture prevedibili e anafore; preservati significato, struttura, source_refs, riferimenti normativi, quiz e caso;...
+
+## 2026-08-11T09:58:02.258Z - VOL-10
+
+- conversation_id: conv-20260811095802-nxnw35
+- route: codex-vol10-cap05-step12-review
+- l0: l0/conv-20260811095802-nxnw35.md
+- atoms:
+  - mem-20260811095802-zzb0vi | result | Esito codex-vol10-cap05-step12-review: Procedi con il prossimo step della pipeline aggiornata di VOL-10. -> Completato step 12 capitolo 05: revisione editoriale totale con checklist a 30 punti, test dello studente e controllo ufficiale dei riferimenti nazionali; report aggiornato al Formato 2, nessun errore aperto, giudizio...
+
+## 2026-08-11T10:00:32.717Z - VOL-10
+
+- conversation_id: conv-20260811100032-6p475b
+- route: codex-vol10-cap06-step08-format2
+- l0: l0/conv-20260811100032-6p475b.md
+- atoms:
+  - mem-20260811100032-1ag1iuv | result | Esito codex-vol10-cap06-step08-format2: Procedi con il prossimo step della pipeline aggiornata di VOL-10. -> Completato step 08 capitolo 06: aggiornato piano operativo Format 2 per edilizia, SUE, titoli e vigilanza; definiti sei nuclei da almeno 600 parole, fonti, confini, audit, sei quiz, verifiche e caso integrato; gate ch...
+
+## 2026-08-11T10:18:33.465Z - VOL-10
+
+- conversation_id: conv-20260811101833-v1soam
+- route: codex-vol10-cap06-step09-format2
+- l0: l0/conv-20260811101833-v1soam.md
+- atoms:
+  - mem-20260811101833-1i42klw | result | Esito codex-vol10-cap06-step09-format2: Procedi con il prossimo step. -> Step 09 capitolo 06 completato: Formato 2, 5104 parole, sei nuclei 666-732 parole, sei quiz, due casi, gate verde.
+
+## 2026-08-11T10:22:39.035Z - VOL-10
+
+- conversation_id: conv-20260811102239-1lr83q8
+- route: codex-vol10-cap06-step10
+- l0: l0/conv-20260811102239-1lr83q8.md
+- atoms:
+  - mem-20260811102239-siogf | result | Esito codex-vol10-cap06-step10: Procedi con il prossimo step. -> Step 10 capitolo 06 completato: matrice e delta Format 2 aggiornati, gate verde.
+
+## 2026-08-11T10:25:31.027Z - VOL-10
+
+- conversation_id: conv-20260811102531-1d2c17s
+- route: pipeline-volume/step-11
+- l0: l0/conv-20260811102531-1d2c17s.md
+- atoms:
+  - mem-20260811102531-12pviuo | workflow | Procedere con lo step successivo della pipeline aggiornata per VOL-10.
+  - mem-20260811102531-l5cncn | result | Esito pipeline-volume/step-11: Procedere con lo step successivo della pipeline aggiornata per VOL-10. -> Completato step 11 del capitolo 06: umanizzazione chirurgica, citation-guard verde, densita Format 2 preservata (5052 parole; minimo nucleo 661), 155 test gate superati.
+
+## 2026-08-11T10:28:59.750Z - VOL-10
+
+- conversation_id: conv-20260811102859-19616i9
+- route: pipeline-volume/step-12
+- l0: l0/conv-20260811102859-19616i9.md
+- atoms:
+  - mem-20260811102859-qvpjjk | workflow | Procedere con il prossimo step della pipeline aggiornata per VOL-10.
+  - mem-20260811102859-1wc91zk | result | Esito pipeline-volume/step-12: Procedere con il prossimo step della pipeline aggiornata per VOL-10. -> Completato step 12 del capitolo 06: revisione editoriale totale con checklist a 30 punti, copertura v4 e test dello studente; report Format 2 senza errori aperti, review-report verde, 155 test superati, capitolo edito...
+
+## 2026-08-11T10:32:12.934Z - VOL-10
+
+- conversation_id: conv-20260811103212-1j861r7
+- route: pipeline-volume/step-08
+- l0: l0/conv-20260811103212-1j861r7.md
+- atoms:
+  - mem-20260811103212-1tg2qzy | result | Esito pipeline-volume/step-08: Procedere con il prossimo step della pipeline aggiornata per VOL-10. -> Completato step 08 capitolo 07: piano Format 2 aggiornato con sei nuclei, budget 4500-4900 parole, sei quiz, verifiche vicine, caso integrato, fonti e audit automatici.
+
+## 2026-08-11T10:48:09.583Z - VOL-10
+
+- conversation_id: conv-20260811104809-1dhpu0j
+- route: pipeline-volume/step-10
+- l0: l0/conv-20260811104809-1dhpu0j.md
+- atoms:
+  - mem-20260811104809-6cclq3 | result | Esito pipeline-volume/step-10: Procedere con il prossimo step della pipeline aggiornata per VOL-10. -> Completato step 10 capitolo 07: matrice e delta aggiornati per sei Nucleo ID con checklist dimensionale ed evidenze; gate didactic-density verde senza warning.
+
+## 2026-08-11T10:50:53.911Z - VOL-10
+
+- conversation_id: conv-20260811105053-1t1jaw0
+- route: pipeline-volume/step-11
+- l0: l0/conv-20260811105053-1t1jaw0.md
+- atoms:
+  - mem-20260811105053-jb7ii4 | result | Esito pipeline-volume/step-11: Procedere con il prossimo step della pipeline aggiornata per VOL-10. -> Completato step 11 capitolo 07: doppia passata Humanizer con correzioni mirate a contrasti meccanici, simmetrie e formule enfatiche; significato e citazioni preservati.
+
+## 2026-08-11T10:53:49.728Z - VOL-10
+
+- conversation_id: conv-20260811105349-1ghvtgb
+- route: pipeline-volume/step-12
+- l0: l0/conv-20260811105349-1ghvtgb.md
+- atoms:
+  - mem-20260811105349-iyo4of | result | Esito pipeline-volume/step-12: Procedere con il prossimo step della pipeline aggiornata per VOL-10. -> Completato step 12 capitolo 07: revisione editoriale totale con checklist a 30 punti, copertura v4 e test dello studente; report Format 2 senza errori aperti, review-report verde, 155 test superati, capitolo editorial...
+
+## 2026-08-11T10:56:26.623Z - VOL-10
+
+- conversation_id: conv-20260811105626-ylwx78
+- route: pipeline-volume/step-08
+- l0: l0/conv-20260811105626-ylwx78.md
+- atoms:
+  - mem-20260811105626-1b3yt10 | result | Esito pipeline-volume/step-08: Procedere con il prossimo step della pipeline aggiornata per VOL-10. -> Completato step 08 capitolo 08: piano Format 2 con sei nuclei, budget 4600-5000 parole, sei quiz, verifiche vicine, microcasi e caso integrato; fonti e audit automatici definiti.
+
+## 2026-08-11T11:32:07.376Z - VOL-10/M-TR03
+
+- conversation_id: conv-20260811113207-1sas7o5
+- route: codex-vol10-cap08-step09
+- l0: l0/conv-20260811113207-1sas7o5.md
+- atoms:
+  - mem-20260811113207-4xmh6t | workflow | Procedi con il prossimo step della pipeline aggiornata VOL-10.
+  - mem-20260811113207-18ej86 | result | Esito codex-vol10-cap08-step09: Procedi con il prossimo step della pipeline aggiornata VOL-10. -> Completato step 09 capitolo 08: riscrittura Format 2 pubblicabile con 4826 parole, sei nuclei da 628-709 parole, sei quiz, un caso guidato e un blocco verifica; chapter-lint senza blocker o warning e 155 test gate verdi.
+
+## 2026-08-11T11:36:00.477Z - VOL-10/M-TR03
+
+- conversation_id: conv-20260811113600-wz9kh1
+- route: codex-vol10-cap08-step10
+- l0: l0/conv-20260811113600-wz9kh1.md
+- atoms:
+  - mem-20260811113600-f8fojj | result | Esito codex-vol10-cap08-step10: Procedi con il prossimo step della pipeline aggiornata VOL-10. -> Completato step 10 capitolo 08: matrice Format 2 aggiornata con sei nuclei, checklist delle undici dimensioni e delta di copertura; nessuna integrazione necessaria al testo.
+
+## 2026-08-11T11:42:50.441Z - VOL-10/M-TR03
+
+- conversation_id: conv-20260811114250-qyb0dk
+- route: codex-vol10-cap08-step11
+- l0: l0/conv-20260811114250-qyb0dk.md
+- atoms:
+  - mem-20260811114250-1lz76vj | result | Esito codex-vol10-cap08-step11: Procedi con il prossimo step della pipeline aggiornata VOL-10. -> Completato step 11 capitolo 08: doppia passata Humanizer con 31 riscritture locali, significato e riferimenti preservati; 4784 parole, sei nuclei sopra 600, sei quiz, caso e verifica.
+
+## 2026-08-11T11:44:45.440Z - VOL-10/M-TR03
+
+- conversation_id: conv-20260811114445-1saz1o2
+- route: codex-vol10-cap08-step12
+- l0: l0/conv-20260811114445-1saz1o2.md
+- atoms:
+  - mem-20260811114445-1g9vd0j | result | Esito codex-vol10-cap08-step12: Procedi con il prossimo step della pipeline aggiornata VOL-10. -> Completato step 12 capitolo 08: report di revisione totale aggiornato nel template fisso, test dello studente superato, copertura v4 completa, nessun errore oggettivo aperto; quattro verifiche normative instradate all...
+
+## 2026-08-11T11:51:48.882Z - VOL-10/M-TR03
+
+- conversation_id: conv-20260811115148-t8uf00
+- route: codex-vol10-cap09-step08
+- l0: l0/conv-20260811115148-t8uf00.md
+- atoms:
+  - mem-20260811115148-150wo5q | result | Esito codex-vol10-cap09-step08: Procedi con il prossimo step della pipeline aggiornata VOL-10. -> Completato step 08 capitolo 09: piano Format 2 aggiornato sullo stato reale con sei nuclei, budget 4600-5000 parole, sei quiz, caso integrato, controlli vicini, fonti disponibili, confini e audit specialistici.
+
+## 2026-08-12T06:22:29.734Z - VOL-10/M-TR03
+
+- conversation_id: conv-20260812062229-tqoa0j
+- route: codex-vol10-cap09-step11
+- l0: l0/conv-20260812062229-tqoa0j.md
+- atoms:
+  - mem-20260812062229-pp6u4t | workflow | Eseguire lo step 11 Humanizer sul capitolo 09 di VOL-10.
+  - mem-20260812062229-sbf44l | result | Esito codex-vol10-cap09-step11: Eseguire lo step 11 Humanizer sul capitolo 09 di VOL-10. -> Completato lo step 11 con doppio passaggio Humanizer sul capitolo 09: 4822 parole, sei nuclei sopra 600 parole, 6 quiz, caso e blocco di verifica preservati; citation guard verde.
+
+## 2026-08-12T06:28:24.232Z - VOL-10/M-TR03
+
+- conversation_id: conv-20260812062824-k6r0vf
+- route: codex-vol10-cap09-step12
+- l0: l0/conv-20260812062824-k6r0vf.md
+- atoms:
+  - mem-20260812062824-1g84rp5 | workflow | Procedere con lo step 12 del capitolo 09 di VOL-10.
+  - mem-20260812062824-k2nltm | result | Esito codex-vol10-cap09-step12: Procedere con lo step 12 del capitolo 09 di VOL-10. -> Completato step 12 capitolo 09: report Revisore Editoriale Totale sui 30 punti e test dello studente; copertura v4 completa, nessun errore grave, nessun rinvio irrisolto e nessuna correzione oggettiva necessaria nel c...
+
+## 2026-08-12T06:36:20.015Z - VOL-10/M-TR03
+
+- conversation_id: conv-20260812063620-14wxo3s
+- route: codex-vol10-cap10-step08-format2
+- l0: l0/conv-20260812063620-14wxo3s.md
+- atoms:
+  - mem-20260812063620-pupvkz | workflow | Procedere con il prossimo step della pipeline VOL-10.
+  - mem-20260812063620-1lpom46 | result | Esito codex-vol10-cap10-step08-format2: Procedere con il prossimo step della pipeline VOL-10. -> Completato step 08 capitolo 10: piano obsoleto riallineato allo stato reale con sei Nucleo ID Format 2, budget 4600-5000 parole, sei quiz, caso integrato, controlli vicini, fonti consolidate, confini e audit specialis...
+
+## 2026-08-12T06:49:14.007Z - VOL-10/M-TR03
+
+- conversation_id: conv-20260812064914-1aij4s4
+- route: codex-vol10-cap10-step09-format2
+- l0: l0/conv-20260812064914-1aij4s4.md
+- atoms:
+  - mem-20260812064914-9wsb35 | workflow | Procedere con lo step 09 del capitolo 10 VOL-10.
+  - mem-20260812064914-1e2om0c | result | Esito codex-vol10-cap10-step09-format2: Procedere con lo step 09 del capitolo 10 VOL-10. -> Completato step 09 capitolo 10 con writer obbligatorio gpt-5.5 xhigh: capitolo Format 2 autosufficiente di 4903 parole, sei nuclei da 650-687 parole, sei quiz commentati, caso integrato e blocco verifica.
+
+## 2026-08-12T06:52:34.415Z - VOL-10/M-TR03
+
+- conversation_id: conv-20260812065234-u2q2c6
+- route: codex-vol10-cap10-step10
+- l0: l0/conv-20260812065234-u2q2c6.md
+- atoms:
+  - mem-20260812065234-19m9uwq | workflow | Procedere con lo step 10 del capitolo 10 VOL-10.
+  - mem-20260812065234-1esl4t6 | result | Esito codex-vol10-cap10-step10: Procedere con lo step 10 del capitolo 10 VOL-10. -> Completato step 10 capitolo 10: matrice aggiornata con sei Nucleo ID, assegnazioni Q/C/E, checklist delle undici dimensioni ed evidenze puntuali; tutti i nuclei completi e nessuna integrazione teorica necessaria.
+
+## 2026-08-12T06:59:20.733Z - VOL-10/M-TR03
+
+- conversation_id: conv-20260812065920-1ie8h17
+- route: codex-vol10-cap10-step11
+- l0: l0/conv-20260812065920-1ie8h17.md
+- atoms:
+  - mem-20260812065920-1yf4zup | workflow | Procedere con lo step 11 del capitolo 10 VOL-10.
+  - mem-20260812065920-7xjsvq | result | Esito codex-vol10-cap10-step11: Procedere con lo step 11 del capitolo 10 VOL-10. -> Completato step 11 capitolo 10 con doppia passata Humanizer: rimossi segnali meccanici, ripetizioni tutorial, transizioni generiche, triadi rigide ed enfasi superflua; significato, fonti e riferimenti preservati.
+
+## 2026-08-12T07:08:37.442Z - VOL-10
+
+- conversation_id: conv-20260812070837-1dj9ifz
+- route: pipeline-volume/step-12
+- l0: l0/conv-20260812070837-1dj9ifz.md
+- atoms:
+  - mem-20260812070837-xe3qmo | result | Esito pipeline-volume/step-12: Eseguire esclusivamente step 12 VOL-10 capitolo 10 M-TR03 con Revisore Editoriale Totale. -> Completato step 12 capitolo 10: report editoriale totale creato nel percorso pipeline richiesto; checklist 30 punti, test dello studente, copertura v4, rinvii e calcoli verificati; nessun errore oggettivo rilevato; nessuna patch a capitolo o matrice; complete non eseguito.
+
+## 2026-08-12T07:13:52.722Z - VOL-10/M-TR03
+
+- conversation_id: conv-20260812071352-ad88vd
+- route: codex-vol10-cap11-step08-format2
+- l0: l0/conv-20260812071352-ad88vd.md
+- atoms:
+  - mem-20260812071352-1fy77ay | workflow | Procedere con lo step 08 del capitolo 11 VOL-10.
+  - mem-20260812071352-16t65c4 | result | Esito codex-vol10-cap11-step08-format2: Procedere con lo step 08 del capitolo 11 VOL-10. -> Completato step 08 capitolo 11: piano obsoleto riallineato allo stato reale con sei Nucleo ID Format 2, budget 4600-5000 parole, sei quiz, caso guidato, controlli vicini, fonti consolidate, confini e audit specialisti...
+
+## 2026-08-12T07:28:48.533Z - VOL-10/M-TR03
+
+- conversation_id: conv-20260812072848-17wriqg
+- route: codex-vol10-cap11-step09-format2
+- l0: l0/conv-20260812072848-17wriqg.md
+- atoms:
+  - mem-20260812072848-3n9qb3 | instruction | Procedere con lo step 09 del capitolo 11 VOL-10 usando la pipeline aggiornata.
+  - mem-20260812072848-r8ycfx | result | Esito codex-vol10-cap11-step09-format2: Procedere con lo step 09 del capitolo 11 VOL-10 usando la pipeline aggiornata. -> Completato step 09 capitolo 11 con writer obbligatorio gpt-5.5 xhigh: capitolo Format 2 autosufficiente, sei nuclei da 665-680 parole, sei quiz commentati, caso guidato e blocco verifica; chapter-lint senza blocker o ...
+
+## 2026-08-12T07:31:40.392Z - VOL-10/M-TR03
+
+- conversation_id: conv-20260812073140-1hfgrdy
+- route: codex-vol10-cap11-step10
+- l0: l0/conv-20260812073140-1hfgrdy.md
+- atoms:
+  - mem-20260812073140-1187mq9 | result | Esito codex-vol10-cap11-step10: Procedere con il prossimo step della pipeline VOL-10. -> Completato step 10 capitolo 11: matrice aggiornata con sei Nucleo ID, assegnazioni Q/C/E, checklist delle undici dimensioni e delta puntuale; didactic-density senza blocker o warning e 155 test verdi.
+
+## 2026-08-12T07:33:50.555Z - VOL-10/M-TR03
+
+- conversation_id: conv-20260812073350-t9wqy0
+- route: codex-vol10-cap11-step11-humanizer
+- l0: l0/conv-20260812073350-t9wqy0.md
+- atoms:
+  - mem-20260812073350-1fxrlh2 | workflow | Procedere con lo step 11 Humanizer del capitolo 11 VOL-10.
+  - mem-20260812073350-1lya8v1 | result | Esito codex-vol10-cap11-step11-humanizer: Procedere con lo step 11 Humanizer del capitolo 11 VOL-10. -> Completato step 11 capitolo 11 con doppia passata Humanizer: rimosse formule seriali e simmetrie artificiali, preservati significato, struttura, source_refs e riferimenti normativi; nuclei 659-680 parole, citation-gua...
+
+## 2026-08-12T07:36:59.673Z - VOL-10/M-TR03
+
+- conversation_id: conv-20260812073659-10vz9g
+- route: codex-vol10-cap11-step12-review
+- l0: l0/conv-20260812073659-10vz9g.md
+- atoms:
+  - mem-20260812073659-1yplq8r | workflow | Procedere con lo step 12 del capitolo 11 VOL-10.
+  - mem-20260812073659-gct5fe | result | Esito codex-vol10-cap11-step12-review: Procedere con lo step 12 del capitolo 11 VOL-10. -> Completato step 12 capitolo 11: report Revisore Editoriale Totale sui 30 punti, test dello studente e copertura v4; nessun errore oggettivo aperto, verifiche normative mobili instradate allo step 15, review-report sen...
+
+## 2026-08-12T07:53:38.178Z - VOL-10/M-TR03
+
+- conversation_id: conv-20260812075338-yztaeu
+- route: codex-vol10-cap12-step08-plan
+- l0: l0/conv-20260812075338-yztaeu.md
+- atoms:
+  - mem-20260812075338-1qui714 | workflow | Procedere con lo step 08 del capitolo 12 VOL-10.
+  - mem-20260812075338-19kaz9y | result | Esito codex-vol10-cap12-step08-plan: Procedere con lo step 08 del capitolo 12 VOL-10. -> Completato step 08 capitolo 12: piano aggiornato allo stato reale con sei nuclei N-TR03-12-01/06, budget 4600-5000 parole, almeno 650 per nucleo, sei quiz, caso, fonti consolidate, confini e audit automatici; gate cha...
+
+## 2026-08-12T08:08:02.891Z - VOL-10/M-TR03
+
+- conversation_id: conv-20260812080802-1r9bf9k
+- route: codex-vol10-cap12-step09-format2
+- l0: l0/conv-20260812080802-1r9bf9k.md
+- atoms:
+  - mem-20260812080802-l2xr3 | workflow | Procedere con lo step 09 del capitolo 12 VOL-10.
+  - mem-20260812080802-1mw2gs3 | result | Esito codex-vol10-cap12-step09-format2: Procedere con lo step 09 del capitolo 12 VOL-10. -> Completato step 09 capitolo 12 con writer obbligatorio gpt-5.5 xhigh: capitolo Format 2 autosufficiente di 4993 parole nel corpo, sei nuclei da 652-675 parole, sei quiz commentati, caso ragionato e blocco verifica; ch...
+
+## 2026-08-12T08:10:09.637Z - VOL-10/M-TR03
+
+- conversation_id: conv-20260812081009-1295h78
+- route: codex-vol10-cap12-step10
+- l0: l0/conv-20260812081009-1295h78.md
+- atoms:
+  - mem-20260812081009-1yabxfv | workflow | Procedere con lo step 10 del capitolo 12 VOL-10.
+  - mem-20260812081009-1oxk491 | result | Esito codex-vol10-cap12-step10: Procedere con lo step 10 del capitolo 12 VOL-10. -> Completato step 10 capitolo 12: matrice aggiornata con sei Nucleo ID, assegnazioni Q/C/E, checklist delle undici dimensioni e delta puntuale; tutti i nuclei completi, didactic-density senza blocker o warning e 155 tes...
+
+## 2026-08-12T08:15:09.348Z - VOL-10/M-TR03
+
+- conversation_id: conv-20260812081509-14rrkgm
+- route: codex-vol10-cap12-step11-humanizer
+- l0: l0/conv-20260812081509-14rrkgm.md
+- atoms:
+  - mem-20260812081509-13h03ix | workflow | Procedere con il prossimo step della pipeline aggiornata VOL-10.
+  - mem-20260812081509-16k459z | result | Esito codex-vol10-cap12-step11-humanizer: Procedere con il prossimo step della pipeline aggiornata VOL-10. -> Completato step 11 Humanizer capitolo 12.
+
+## 2026-08-12T08:18:56.233Z - VOL-10/M-TR03
+
+- conversation_id: conv-20260812081856-c1yiev
+- route: codex-vol10-cap12-step12-review
+- l0: l0/conv-20260812081856-c1yiev.md
+- atoms:
+  - mem-20260812081856-vp6r8t | result | Esito codex-vol10-cap12-step12-review: Procedere con il prossimo step della pipeline aggiornata VOL-10. -> Completato step 12 capitolo 12: report Revisore Editoriale Totale con checklist a 30 punti, test dello studente e copertura v4.
+
+## 2026-08-12T08:24:09.030Z - VOL-10/M-TR03
+
+- conversation_id: conv-20260812082409-tt4axa
+- route: codex-vol10-cap13-step08-plan
+- l0: l0/conv-20260812082409-tt4axa.md
+- atoms:
+  - mem-20260812082409-1u7tmzt | result | Esito codex-vol10-cap13-step08-plan: Procedere con il prossimo step della pipeline aggiornata VOL-10. -> Completato step 08 capitolo 13: piano riallineato al capitolo legacy esistente con sei nuclei N-TR03-13-01/06, budget 4.850-5.350 parole, minimo 650 per nucleo, sei quiz commentati, otto casi e caso finale, fonti cons...
+
+## 2026-08-12T08:39:27.091Z - VOL-10/M-TR03
+
+- conversation_id: conv-20260812083927-1os5nuh
+- route: codex-vol10-cap13-step09-format2
+- l0: l0/conv-20260812083927-1os5nuh.md
+- atoms:
+  - mem-20260812083927-1ae84e6 | result | Esito codex-vol10-cap13-step09-format2: Procedere con il prossimo step della pipeline aggiornata VOL-10. -> Completato step 09 capitolo 13 con writer obbligatorio gpt-5.5 xhigh: capitolo Format 2 autosufficiente di circa 5.085 parole editoriali, sei nuclei da 651-665 parole secondo il conteggio writer e tutti sopra 650 nel ...
+
+## 2026-08-12T08:43:07.870Z - VOL-10/M-TR03
+
+- conversation_id: conv-20260812084307-cbtu6a
+- route: codex-vol10-cap13-step10-density
+- l0: l0/conv-20260812084307-cbtu6a.md
+- atoms:
+  - mem-20260812084307-14ehwtk | result | Esito codex-vol10-cap13-step10-density: Procedere con il prossimo step della pipeline aggiornata VOL-10. -> Completato step 10 capitolo 13: matrice aggiornata con sei Nucleo ID, assegnazioni Q/C/E, checklist delle undici dimensioni e delta puntuale; tutti i nuclei completi, nessuna integrazione al capitolo necessaria.
+
+## 2026-08-12T08:45:45.154Z - VOL-10/M-TR03
+
+- conversation_id: conv-20260812084545-1g9599t
+- route: codex-vol10-cap13-step11-humanizer
+- l0: l0/conv-20260812084545-1g9599t.md
+- atoms:
+  - mem-20260812084545-1dzby75 | result | Esito codex-vol10-cap13-step11-humanizer: Procedere con il prossimo step della pipeline aggiornata VOL-10. -> Completato step 11 Humanizer capitolo 13 con doppia passata: eliminate simmetrie, enumerazioni meccaniche e formule generiche; significato, struttura, source_refs, last_compiled_from, riferimenti normativi, otto casi ...
+
+## 2026-08-12T08:49:22.644Z - VOL-10
+
+- conversation_id: conv-20260812084922-1b6f7c6
+- route: codex-vol10-cap13-step12-review
+- l0: l0/conv-20260812084922-1b6f7c6.md
+- atoms:
+  - mem-20260812084922-164q84z | workflow | Procedere con lo step 12 del capitolo 13 di VOL-10.
+  - mem-20260812084922-1ndtx1f | result | Esito codex-vol10-cap13-step12-review: Procedere con lo step 12 del capitolo 13 di VOL-10. -> Revisione editoriale totale completata: report conforme alla checklist in 30 punti, nessun errore oggettivo nel capitolo, gate review-report superato; verifiche normative mobili e specialistiche rinviate allo step 15.
+
+## 2026-08-12T08:58:04.519Z - VOL-10
+
+- conversation_id: conv-20260812085804-y98dkd
+- route: codex-vol10-mtr03-step13-cross-review
+- l0: l0/conv-20260812085804-y98dkd.md
+- atoms:
+  - mem-20260812085804-12865q1 | workflow | Procedere con lo step 13 della pipeline VOL-10.
+  - mem-20260812085804-b3088y | result | Esito codex-vol10-mtr03-step13-cross-review: Procedere con lo step 13 della pipeline VOL-10. -> Revisione trasversale M-TR03 completata.
+
+## 2026-08-12T09:39:01.512Z - VOL-10
+
+- conversation_id: conv-20260812093901-18vlk7f
+- route: pipeline-step-14
+- l0: l0/conv-20260812093901-18vlk7f.md
+- atoms:
+  - mem-20260812093901-5k7qrv | result | Esito pipeline-step-14: Procedere con il prossimo step della pipeline VOL-10. -> Step 14 M-TR03 completato: E01-E05 risolti, E06 rinviato al preflight, gate verde con warning non bloccante; prossimo step 15.
+
+## 2026-08-12T09:48:41.096Z - VOL-10
+
+- conversation_id: conv-20260812094841-hvo7dz
+- route: pipeline-step-15
+- l0: l0/conv-20260812094841-hvo7dz.md
+- atoms:
+  - mem-20260812094841-s1fw0h | result | Esito pipeline-step-15: Procedere con il prossimo step della pipeline VOL-10. -> Step 15 M-TR03 completato: audit specialistico automatico chiuso senza blocker o warning; 78 nuclei completi, fonti consolidate verificate, stati specialist-audited e nessun rinvio a review umana; prossimo step 16 tex...
+
+## 2026-08-12T09:51:35.986Z - VOL-10
+
+- conversation_id: conv-20260812095135-s0ackc
+- route: pipeline-step-16
+- l0: l0/conv-20260812095135-s0ackc.md
+- atoms:
+  - mem-20260812095135-1ev2fop | result | Esito pipeline-step-16: Procedere con il prossimo step della pipeline VOL-10. -> Step 16 M-TR03 completato con accettazione manuale motivata perché il gate text-freeze non è implementato: manifest 13/13 SHA-256, 78/78 nuclei completi, 155/155 test; prossimo step CLI 18.
+
+## 2026-08-12T09:59:26.874Z - VOL-10
+
+- conversation_id: conv-20260812095926-p9fhiy
+- route: pipeline-step-18
+- l0: l0/conv-20260812095926-p9fhiy.md
+- atoms:
+  - mem-20260812095926-1ad5pt3 | result | Esito pipeline-step-18: Procedere con il prossimo step della pipeline VOL-10. -> Step 18 M-TR03 completato: filosofia Precisione Strutturale confermata; Book Studio 13 capitoli, 0 immagini, 0 path rotti, 161 blocchi tabella e 23 a quattro colonne compatti; 169/169 test; prossimo step CLI 17 volume.
+
+## 2026-08-12T10:00:35.672Z - VOL-10
+
+- conversation_id: conv-20260812100035-1f3h0cn
+- route: pipeline-step-17
+- l0: l0/conv-20260812100035-1f3h0cn.md
+- atoms:
+  - mem-20260812100035-lke13a | result | Esito pipeline-step-17: Procedere con il prossimo step della pipeline VOL-10. -> Step 17 VOL-10 completato: filosofia visiva Precisione Strutturale validata con 6 paragrafi, requisiti spazio/colore/ritmo/gerarchia/testo minimo/KDP/craft tutti presenti; nessun asset creato; prossimo step 19.
+
+## 2026-08-12T10:15:51.429Z - VOL-10
+
+- conversation_id: conv-20260812101551-oi3k1x
+- route: pipeline-vol-10-step-19
+- l0: l0/conv-20260812101551-oi3k1x.md
+- atoms:
+  - mem-20260812101551-1hfgarh | workflow | Procedere con il prossimo step della pipeline aggiornata di VOL-10.
+  - mem-20260812101551-1rkk5fr | result | Esito pipeline-vol-10-step-19: Procedere con il prossimo step della pipeline aggiornata di VOL-10. -> Step 19 completato: master KDP Book Studio verificato su 195 pagine, 13 capitoli, 78/78 nuclei indicizzati, 33 verifiche, zero overflow e collisioni.
+
+## 2026-08-12T10:29:28.506Z - VOL-10
+
+- conversation_id: conv-20260812102928-bh6u33
+- route: pipeline-vol-10-step-20
+- l0: l0/conv-20260812102928-bh6u33.md
+- atoms:
+  - mem-20260812102928-9nl92b | result | Esito pipeline-vol-10-step-20: Procedere con il prossimo step della pipeline VOL-10. -> Step 20 completato: audit visivo 196/196 pagine con 10/10 tavole-contatto, zero blocker e zero problemi significativi.
+
+## 2026-08-12T11:04:26.824Z - VOL-10
+
+- conversation_id: conv-20260812110426-1or1evf
+- route: pipeline-step-21
+- l0: l0/conv-20260812110426-1or1evf.md
+- atoms:
+  - mem-20260812110426-xfxoxa | workflow | Applicare la pipeline aggiornata a VOL-10 fino allo stato pubblicabile senza revisione umana finale; procedere con lo step 21.
+  - mem-20260812110426-au42of | result | Esito pipeline-step-21: Applicare la pipeline aggiornata a VOL-10 fino allo stato pubblicabile senza revisione umana finale; procedere con lo step 21. -> Step 21 completato: revisione editoriale totale approvata.
+
+## 2026-08-12T12:12:39.665Z - VOL-10
+
+- conversation_id: conv-20260812121239-q2q8ib
+- route: pipeline-step-22
+- l0: l0/conv-20260812121239-q2q8ib.md
+- atoms:
+  - mem-20260812121239-1y6nsny | result | Esito pipeline-step-22: Procedere con il prossimo step della pipeline VOL-10. -> Step 22 completato: preflight locale conforme.
+
+## 2026-08-12T12:24:41.967Z - VOL-10
+
+- conversation_id: conv-20260812122441-ri3r54
+- route: pipeline-step-23
+- l0: l0/conv-20260812122441-ri3r54.md
+- atoms:
+  - mem-20260812122441-5j5szd | result | Esito pipeline-step-23: Procedere con il prossimo step della pipeline VOL-10. -> Step 23 completato: creato pacchetto VOL-10-candidate-2026.08.12.1 con 9 file e manifest 8/8 verificato, remoto controllato, gate tecnici verdi e stato pending-step-24.
+
+## 2026-08-12T12:42:00.215Z - VOL-10
+
+- conversation_id: conv-20260812124200-1slwkcs
+- route: pipeline-step-24-human-signoff
+- l0: l0/conv-20260812124200-1slwkcs.md
+- atoms:
+  - mem-20260812124200-f1ofny | result | Esito pipeline-step-24-human-signoff: confermato -> Conferma umana finale registrata per VOL-10-candidate-2026.08.12.1.
 ## 2026-08-12T12:43:53.194Z - VOL-08
 
 - conversation_id: conv-20260812124353-c88rkl

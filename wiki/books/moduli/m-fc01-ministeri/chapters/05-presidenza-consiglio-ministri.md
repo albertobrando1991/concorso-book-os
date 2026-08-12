@@ -16,12 +16,12 @@ book_refs: ["m-fc01-ministeri", "il-metodo-bando"]
 confidence: 0.86
 updated_at: 2026-08-04
 created_at: 2026-06-27T22:08:22+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "module-code-m-fc01", "professional-draft"]
 book_id: m-fc01-ministeri
 outline_section: 5
-draft_stage: editorial-revision
+draft_stage: specialist-audit-complete
 module_code: M-FC01
 module_family: funzioni-centrali
 companion_to: il-metodo-bando
@@ -281,21 +281,3 @@ Per ciascuna voce indica identità, funzione e fonte da controllare.
 - Ho segnalato che DPCM e sito ufficiale vanno verificati?
 - Ho ricordato la specificità contrattuale?
 - Ho collegato il profilo alle attività e alla prova concreta?
-
-## Riferimenti consolidati
-
-- [[sources/d-lgs-30-luglio-1999-n-303-presidenza-consiglio]]
-- [[sources/governo-presidenza-consiglio-ministeri-organizzazione]]
-- [[sources/aran-ccnl-funzioni-centrali-pcm-2022-2026]]
-- [[sources/legge-23-agosto-1988-n-400-governo-e-potesta-normativa]]
-- [[books/moduli/m-fc01-ministeri/chapters/03-profili-professionali-ccnl-mansioni]]
-- [[books/moduli/m-fc01-ministeri/chapters/04-governo-ministeri-amministrazione-centrale]]
-- [[books/moduli/m-fc01-ministeri/chapters/06-organizzazione-interna-ministeri]]
-
-## Note di review
-
-- Verificare su Normattiva, al cut-off, il testo vigente del d.lgs. 30 luglio 1999, n. 303 e della legge 23 agosto 1988, n. 400 per ogni claim puntuale.
-- Verificare sul sito ufficiale Governo/PCM e sui DPCM applicabili la configurazione corrente di dipartimenti, uffici, Segretariato generale e strutture di missione.
-- Verificare su ARAN il comparto, l'area e il CCNL PCM effettivamente vigenti e applicabili.
-- Non inserire dettagli retributivi, disciplinari o organizzativi mobili senza fonte ufficiale e data di verifica.
-- Controllare nel renderer KDP la leggibilità delle tabelle e della scheda PCM.

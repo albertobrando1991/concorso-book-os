@@ -3,7 +3,7 @@
   "specPath": "books/volumi/vol-10-tecnico-ingegneristico-territorio-lavori-pubblici/planning/00-scheda-pipeline.md",
   "specHash": "sha256:b9582ff0b8d13a37147bf7b04c7969c20ebe2e12e1d2c843c1299f83af59b454",
   "createdAt": "2026-07-29T16:39:37.771Z",
-  "updatedAt": "2026-07-30T18:28:43.087Z",
+  "updatedAt": "2026-08-12T12:41:48.416Z",
   "steps": [
     {
       "key": "08:moduli/m-tr03-tecnico-ingegneristico/chapters/01-concorso-tecnico-pa-profili-prove.md",
@@ -12,12 +12,12 @@
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/01-concorso-tecnico-pa-profili-prove.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-29T16:39:40.472Z",
+      "startedAt": "2026-08-11T08:32:50.139Z",
       "gate": {
         "passed": true,
         "blockers": [],
@@ -29,14 +29,14 @@
           },
           {
             "code": "manual-acceptance",
-            "message": "Chiusura manuale di aless: Verifica manuale eseguita: piano presente in planning/08-capitolo-01-piano-completamento.md; copre nuclei, stato, sviluppi, conservazione, anti-duplicazioni, esercizi, fonti, review, struttura H1/H2/H3 e budget KDP; esplicita l'assenza della Bibbia autonoma e il gap bandi 3/6."
+            "message": "Chiusura manuale di aless: Verifica manuale del piano Format 2: presenti 6 Nucleo ID stabili, budget 600-750 parole, struttura H1/H2/H3, sezioni da conservare, duplicazioni, fonti consolidate, quiz, caso e audit richiesti."
           }
         ],
         "notImplemented": [
           "chapter-plan"
         ]
       },
-      "finishedAt": "2026-07-29T16:40:55.813Z"
+      "finishedAt": "2026-08-11T08:35:11.140Z"
     },
     {
       "key": "09:moduli/m-tr03-tecnico-ingegneristico/chapters/01-concorso-tecnico-pa-profili-prove.md",
@@ -45,18 +45,18 @@
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/01-concorso-tecnico-pa-profili-prove.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-29T16:40:59.449Z",
+      "startedAt": "2026-08-11T08:35:14.348Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-07-29T16:42:28.399Z"
+      "finishedAt": "2026-08-11T08:40:28.834Z"
     },
     {
       "key": "10:moduli/m-tr03-tecnico-ingegneristico/chapters/01-concorso-tecnico-pa-profili-prove.md",
@@ -65,18 +65,18 @@
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/01-concorso-tecnico-pa-profili-prove.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-29T16:42:36.029Z",
+      "startedAt": "2026-08-11T08:40:48.787Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-07-29T16:49:30.826Z"
+      "finishedAt": "2026-08-11T08:45:25.218Z"
     },
     {
       "key": "11:moduli/m-tr03-tecnico-ingegneristico/chapters/01-concorso-tecnico-pa-profili-prove.md",
@@ -85,18 +85,18 @@
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/01-concorso-tecnico-pa-profili-prove.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-29T16:49:36.386Z",
+      "startedAt": "2026-08-11T08:45:30.972Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-07-29T16:50:52.155Z"
+      "finishedAt": "2026-08-11T08:46:01.679Z"
     },
     {
       "key": "12:moduli/m-tr03-tecnico-ingegneristico/chapters/01-concorso-tecnico-pa-profili-prove.md",
@@ -105,24 +105,18 @@
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/01-concorso-tecnico-pa-profili-prove.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-29T16:50:55.358Z",
+      "startedAt": "2026-08-11T08:46:06.558Z",
       "gate": {
         "passed": true,
         "blockers": [],
-        "warnings": [
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto S01: stato \"proposto\".",
-            "location": "wiki/reviews/pipeline/VOL-10/12-moduli-m-tr03-tecnico-ingegneristico-chapters-01-concorso-tecnico-pa-profili-prove-md.md"
-          }
-        ]
+        "warnings": []
       },
-      "finishedAt": "2026-07-29T16:52:19.924Z"
+      "finishedAt": "2026-08-11T08:46:48.734Z"
     },
     {
       "key": "08:moduli/m-tr03-tecnico-ingegneristico/chapters/02-ufficio-tecnico-responsabilita-atti.md",
@@ -131,12 +125,12 @@
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/02-ufficio-tecnico-responsabilita-atti.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-29T16:52:23.022Z",
+      "startedAt": "2026-08-11T08:47:57.534Z",
       "gate": {
         "passed": true,
         "blockers": [],
@@ -148,14 +142,14 @@
           },
           {
             "code": "manual-acceptance",
-            "message": "Chiusura manuale di aless: Verifica manuale eseguita: piano in planning/08-capitolo-02-piano-completamento.md con nuclei, stato, sviluppi, anti-duplicazioni, casi, fonti consolidate, review, struttura H1/H2/H3 e budget KDP; esplicitati i limiti sui modelli documentali e i rinvii VOL-01."
+            "message": "Chiusura manuale di aless: Verifica manuale del piano Format 2: presenti 6 Nucleo ID stabili, budget 600-750 parole, struttura H1/H2/H3, sezioni da conservare, confini con VOL-01 e RUP, fonti, quiz, caso e audit normativo-editoriali."
           }
         ],
         "notImplemented": [
           "chapter-plan"
         ]
       },
-      "finishedAt": "2026-07-29T16:53:20.797Z"
+      "finishedAt": "2026-08-11T08:49:06.784Z"
     },
     {
       "key": "09:moduli/m-tr03-tecnico-ingegneristico/chapters/02-ufficio-tecnico-responsabilita-atti.md",
@@ -164,18 +158,18 @@
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/02-ufficio-tecnico-responsabilita-atti.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-29T16:53:22.339Z",
+      "startedAt": "2026-08-11T08:50:13.133Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-07-29T16:55:45.689Z"
+      "finishedAt": "2026-08-11T08:54:00.846Z"
     },
     {
       "key": "10:moduli/m-tr03-tecnico-ingegneristico/chapters/02-ufficio-tecnico-responsabilita-atti.md",
@@ -184,18 +178,18 @@
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/02-ufficio-tecnico-responsabilita-atti.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-29T16:56:30.775Z",
+      "startedAt": "2026-08-11T08:55:13.728Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-07-29T16:56:33.728Z"
+      "finishedAt": "2026-08-11T08:56:24.278Z"
     },
     {
       "key": "11:moduli/m-tr03-tecnico-ingegneristico/chapters/02-ufficio-tecnico-responsabilita-atti.md",
@@ -204,18 +198,18 @@
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/02-ufficio-tecnico-responsabilita-atti.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-29T16:56:42.457Z",
+      "startedAt": "2026-08-11T08:57:24.772Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-07-29T16:57:02.521Z"
+      "finishedAt": "2026-08-11T08:57:55.014Z"
     },
     {
       "key": "12:moduli/m-tr03-tecnico-ingegneristico/chapters/02-ufficio-tecnico-responsabilita-atti.md",
@@ -224,24 +218,18 @@
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/02-ufficio-tecnico-responsabilita-atti.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-29T16:57:04.124Z",
+      "startedAt": "2026-08-11T08:58:39.101Z",
       "gate": {
         "passed": true,
         "blockers": [],
-        "warnings": [
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto S01: stato \"proposto\".",
-            "location": "wiki/reviews/pipeline/VOL-10/12-moduli-m-tr03-tecnico-ingegneristico-chapters-02-ufficio-tecnico-responsabilita-atti-md.md"
-          }
-        ]
+        "warnings": []
       },
-      "finishedAt": "2026-07-29T16:58:06.972Z"
+      "finishedAt": "2026-08-11T09:05:42.354Z"
     },
     {
       "key": "08:moduli/m-tr03-tecnico-ingegneristico/chapters/03-scienza-tecnica-costruzioni.md",
@@ -250,12 +238,12 @@
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/03-scienza-tecnica-costruzioni.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-29T16:58:09.528Z",
+      "startedAt": "2026-08-11T09:07:54.919Z",
       "gate": {
         "passed": true,
         "blockers": [],
@@ -267,14 +255,14 @@
           },
           {
             "code": "manual-acceptance",
-            "message": "Chiusura manuale di aless: Verifica manuale eseguita: piano completo in planning/08-capitolo-03-piano-completamento.md; documentato il gap bloccante di source note tecniche su statica, resistenza dei materiali e comportamento strutturale; definite fonti da acquisire e review strutturista. Nessuna scrittura autorizzata prima del consolidamento."
+            "message": "Chiusura manuale di aless: Verifica manuale del piano Format 2: presenti 6 Nucleo ID stabili, budget 600-800 parole, struttura H1/H2/H3, fonte universitaria consolidata, confine con NTC/capitolo 04, quiz, caso qualitativo e audit su formule, unità e significato fisico."
           }
         ],
         "notImplemented": [
           "chapter-plan"
         ]
       },
-      "finishedAt": "2026-07-29T16:59:05.147Z"
+      "finishedAt": "2026-08-11T09:08:49.659Z"
     },
     {
       "key": "09:moduli/m-tr03-tecnico-ingegneristico/chapters/03-scienza-tecnica-costruzioni.md",
@@ -283,18 +271,18 @@
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/03-scienza-tecnica-costruzioni.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-29T17:02:03.129Z",
+      "startedAt": "2026-08-11T09:11:21.781Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-07-29T17:03:11.872Z"
+      "finishedAt": "2026-08-11T09:14:05.899Z"
     },
     {
       "key": "10:moduli/m-tr03-tecnico-ingegneristico/chapters/03-scienza-tecnica-costruzioni.md",
@@ -303,18 +291,18 @@
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/03-scienza-tecnica-costruzioni.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-29T17:04:42.103Z",
+      "startedAt": "2026-08-11T09:15:03.973Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-07-29T17:04:43.818Z"
+      "finishedAt": "2026-08-11T09:16:48.072Z"
     },
     {
       "key": "11:moduli/m-tr03-tecnico-ingegneristico/chapters/03-scienza-tecnica-costruzioni.md",
@@ -323,18 +311,18 @@
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/03-scienza-tecnica-costruzioni.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-29T17:05:14.509Z",
+      "startedAt": "2026-08-11T09:17:32.636Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-07-29T17:05:46.404Z"
+      "finishedAt": "2026-08-11T09:18:00.063Z"
     },
     {
       "key": "12:moduli/m-tr03-tecnico-ingegneristico/chapters/03-scienza-tecnica-costruzioni.md",
@@ -343,24 +331,18 @@
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/03-scienza-tecnica-costruzioni.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-29T17:06:18.965Z",
+      "startedAt": "2026-08-11T09:21:26.341Z",
       "gate": {
         "passed": true,
         "blockers": [],
-        "warnings": [
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto S01: stato \"proposto\".",
-            "location": "wiki/reviews/pipeline/VOL-10/12-moduli-m-tr03-tecnico-ingegneristico-chapters-03-scienza-tecnica-costruzioni-md.md"
-          }
-        ]
+        "warnings": []
       },
-      "finishedAt": "2026-07-29T17:07:21.927Z"
+      "finishedAt": "2026-08-11T09:24:37.546Z"
     },
     {
       "key": "08:moduli/m-tr03-tecnico-ingegneristico/chapters/04-ntc-sismica-geotecnica-sicurezza-strutturale.md",
@@ -369,12 +351,12 @@
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/04-ntc-sismica-geotecnica-sicurezza-strutturale.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-29T17:08:32.400Z",
+      "startedAt": "2026-08-11T09:25:24.511Z",
       "gate": {
         "passed": true,
         "blockers": [],
@@ -386,14 +368,14 @@
           },
           {
             "code": "manual-acceptance",
-            "message": "Chiusura manuale di aless: Verifica manuale completata: piano presente nel percorso previsto; elenca nuclei assegnati, stato iniziale, sviluppi, conservazioni, duplicazioni, apparati didattici, fonti, review, rinvii, struttura H1-H3 e budget KDP. La scrittura resta subordinata al consolidamento delle fonti ufficiali NTC, sismiche e geotecniche."
+            "message": "Chiusura manuale di aless: Verifica manuale del piano Format 2: 6 Nucleo ID stabili, budget 650-850 parole, fonte ufficiale NTC/Circolare/emendamenti consolidata, confini con capitoli 03 e 07-09, quiz, caso, tavole e audit strutturale-geotecnico-normativo."
           }
         ],
         "notImplemented": [
           "chapter-plan"
         ]
       },
-      "finishedAt": "2026-07-29T17:10:40.384Z"
+      "finishedAt": "2026-08-11T09:26:17.659Z"
     },
     {
       "key": "09:moduli/m-tr03-tecnico-ingegneristico/chapters/04-ntc-sismica-geotecnica-sicurezza-strutturale.md",
@@ -402,18 +384,18 @@
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/04-ntc-sismica-geotecnica-sicurezza-strutturale.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-29T17:11:46.193Z",
+      "startedAt": "2026-08-11T09:26:57.562Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-07-29T17:14:34.319Z"
+      "finishedAt": "2026-08-11T09:30:18.623Z"
     },
     {
       "key": "10:moduli/m-tr03-tecnico-ingegneristico/chapters/04-ntc-sismica-geotecnica-sicurezza-strutturale.md",
@@ -422,18 +404,18 @@
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/04-ntc-sismica-geotecnica-sicurezza-strutturale.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-29T17:15:26.098Z",
+      "startedAt": "2026-08-11T09:32:12.509Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-07-29T17:20:51.067Z"
+      "finishedAt": "2026-08-11T09:33:14.575Z"
     },
     {
       "key": "11:moduli/m-tr03-tecnico-ingegneristico/chapters/04-ntc-sismica-geotecnica-sicurezza-strutturale.md",
@@ -442,18 +424,18 @@
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/04-ntc-sismica-geotecnica-sicurezza-strutturale.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-29T17:21:56.840Z",
+      "startedAt": "2026-08-11T09:34:04.962Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-07-29T17:23:18.803Z"
+      "finishedAt": "2026-08-11T09:34:25.486Z"
     },
     {
       "key": "12:moduli/m-tr03-tecnico-ingegneristico/chapters/04-ntc-sismica-geotecnica-sicurezza-strutturale.md",
@@ -462,49 +444,18 @@
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/04-ntc-sismica-geotecnica-sicurezza-strutturale.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-29T17:24:15.620Z",
+      "startedAt": "2026-08-11T09:35:32.817Z",
       "gate": {
         "passed": true,
         "blockers": [],
-        "warnings": [
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto V01: stato \"da verificare\".",
-            "location": "wiki/reviews/pipeline/VOL-10/12-moduli-m-tr03-tecnico-ingegneristico-chapters-04-ntc-sismica-geotecnica-sicurezza-strutturale-md.md"
-          },
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto V02: stato \"da verificare\".",
-            "location": "wiki/reviews/pipeline/VOL-10/12-moduli-m-tr03-tecnico-ingegneristico-chapters-04-ntc-sismica-geotecnica-sicurezza-strutturale-md.md"
-          },
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto E01: stato \"proposto\".",
-            "location": "wiki/reviews/pipeline/VOL-10/12-moduli-m-tr03-tecnico-ingegneristico-chapters-04-ntc-sismica-geotecnica-sicurezza-strutturale-md.md"
-          },
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto V03: stato \"da verificare\".",
-            "location": "wiki/reviews/pipeline/VOL-10/12-moduli-m-tr03-tecnico-ingegneristico-chapters-04-ntc-sismica-geotecnica-sicurezza-strutturale-md.md"
-          },
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto S01: stato \"proposto\".",
-            "location": "wiki/reviews/pipeline/VOL-10/12-moduli-m-tr03-tecnico-ingegneristico-chapters-04-ntc-sismica-geotecnica-sicurezza-strutturale-md.md"
-          },
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto S02: stato \"proposto\".",
-            "location": "wiki/reviews/pipeline/VOL-10/12-moduli-m-tr03-tecnico-ingegneristico-chapters-04-ntc-sismica-geotecnica-sicurezza-strutturale-md.md"
-          }
-        ]
+        "warnings": []
       },
-      "finishedAt": "2026-07-29T17:25:15.663Z"
+      "finishedAt": "2026-08-11T09:37:44.158Z"
     },
     {
       "key": "08:moduli/m-tr03-tecnico-ingegneristico/chapters/05-urbanistica-governo-territorio.md",
@@ -513,12 +464,12 @@
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/05-urbanistica-governo-territorio.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-29T17:36:48.419Z",
+      "startedAt": "2026-08-11T09:39:15.057Z",
       "gate": {
         "passed": true,
         "blockers": [],
@@ -530,14 +481,14 @@
           },
           {
             "code": "manual-acceptance",
-            "message": "Chiusura manuale di aless: Verifica manuale completata: piano presente nel percorso previsto; include nuclei assegnati e gia coperti, sviluppi, conservazioni, duplicazioni, apparati didattici, fonti disponibili e bloccanti, rinvii, review, struttura H1-H3 e budget KDP. La scrittura resta subordinata al consolidamento delle fonti ufficiali nazionali e regionali su pianificazione, standard, vincoli, espropriazione e paesaggio."
+            "message": "Chiusura manuale di aless: Verifica manuale completata: piano coerente con capitolo, matrice e Bibbia; sei nuclei stabili Format 2 da almeno 600 parole, sezioni da conservare, duplicazioni, fonti consolidate, audit, struttura H1/H2/H3, budget 4.100-4.500 parole, sei quiz commentati e caso integrato esplicitati."
           }
         ],
         "notImplemented": [
           "chapter-plan"
         ]
       },
-      "finishedAt": "2026-07-29T17:39:05.413Z"
+      "finishedAt": "2026-08-11T09:42:04.631Z"
     },
     {
       "key": "09:moduli/m-tr03-tecnico-ingegneristico/chapters/05-urbanistica-governo-territorio.md",
@@ -546,18 +497,18 @@
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/05-urbanistica-governo-territorio.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-29T17:40:47.920Z",
+      "startedAt": "2026-08-11T09:42:46.029Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-07-29T17:42:34.677Z"
+      "finishedAt": "2026-08-11T09:49:58.257Z"
     },
     {
       "key": "10:moduli/m-tr03-tecnico-ingegneristico/chapters/05-urbanistica-governo-territorio.md",
@@ -566,18 +517,18 @@
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/05-urbanistica-governo-territorio.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-29T17:44:37.281Z",
+      "startedAt": "2026-08-11T09:51:07.794Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-07-29T17:46:15.764Z"
+      "finishedAt": "2026-08-11T09:52:46.802Z"
     },
     {
       "key": "11:moduli/m-tr03-tecnico-ingegneristico/chapters/05-urbanistica-governo-territorio.md",
@@ -586,18 +537,18 @@
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/05-urbanistica-governo-territorio.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-29T17:47:03.447Z",
+      "startedAt": "2026-08-11T09:53:27.050Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-07-29T17:49:45.327Z"
+      "finishedAt": "2026-08-11T09:54:50.482Z"
     },
     {
       "key": "12:moduli/m-tr03-tecnico-ingegneristico/chapters/05-urbanistica-governo-territorio.md",
@@ -606,34 +557,18 @@
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/05-urbanistica-governo-territorio.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-29T17:51:40.673Z",
+      "startedAt": "2026-08-11T09:56:02.044Z",
       "gate": {
         "passed": true,
         "blockers": [],
-        "warnings": [
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto E02: stato \"aperto\".",
-            "location": "wiki/reviews/pipeline/VOL-10/12-moduli-m-tr03-tecnico-ingegneristico-chapters-05-urbanistica-governo-territorio-md.md"
-          },
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto E03: stato \"da verificare\".",
-            "location": "wiki/reviews/pipeline/VOL-10/12-moduli-m-tr03-tecnico-ingegneristico-chapters-05-urbanistica-governo-territorio-md.md"
-          },
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto E04: stato \"da verificare\".",
-            "location": "wiki/reviews/pipeline/VOL-10/12-moduli-m-tr03-tecnico-ingegneristico-chapters-05-urbanistica-governo-territorio-md.md"
-          }
-        ]
+        "warnings": []
       },
-      "finishedAt": "2026-07-29T17:53:38.647Z"
+      "finishedAt": "2026-08-11T09:57:48.767Z"
     },
     {
       "key": "08:moduli/m-tr03-tecnico-ingegneristico/chapters/06-edilizia-sue-titoli-vigilanza.md",
@@ -642,12 +577,12 @@
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/06-edilizia-sue-titoli-vigilanza.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-29T17:55:19.550Z",
+      "startedAt": "2026-08-11T09:58:58.615Z",
       "gate": {
         "passed": true,
         "blockers": [],
@@ -659,14 +594,14 @@
           },
           {
             "code": "manual-acceptance",
-            "message": "Chiusura manuale di aless: Verifica manuale completata: piano presente nel percorso canonico; nuclei assegnati, stato iniziale, sviluppi, conservazione, duplicazioni, apparati didattici, fonti bloccanti, rinvii, review, struttura H1/H2/H3 e budget KDP esplicitati; capitolo non modificato; git diff --check pulito."
+            "message": "Chiusura manuale di aless: Verifica manuale completata: piano coerente con capitolo, matrice, Bibbia e fonti consolidate; sei nuclei stabili Format 2 da almeno 600 parole, sezioni da conservare, duplicazioni, audit, struttura H1/H2/H3, budget 4.400-4.800 parole, sei quiz commentati e caso integrato esplicitati."
           }
         ],
         "notImplemented": [
           "chapter-plan"
         ]
       },
-      "finishedAt": "2026-07-29T17:59:53.365Z"
+      "finishedAt": "2026-08-11T10:00:21.143Z"
     },
     {
       "key": "09:moduli/m-tr03-tecnico-ingegneristico/chapters/06-edilizia-sue-titoli-vigilanza.md",
@@ -675,18 +610,18 @@
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/06-edilizia-sue-titoli-vigilanza.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-29T18:01:21.343Z",
+      "startedAt": "2026-08-11T10:01:19.891Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-07-29T18:03:34.869Z"
+      "finishedAt": "2026-08-11T10:18:21.958Z"
     },
     {
       "key": "10:moduli/m-tr03-tecnico-ingegneristico/chapters/06-edilizia-sue-titoli-vigilanza.md",
@@ -695,18 +630,18 @@
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/06-edilizia-sue-titoli-vigilanza.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-29T18:04:14.394Z",
+      "startedAt": "2026-08-11T10:18:54.410Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-07-29T18:05:31.483Z"
+      "finishedAt": "2026-08-11T10:22:28.051Z"
     },
     {
       "key": "11:moduli/m-tr03-tecnico-ingegneristico/chapters/06-edilizia-sue-titoli-vigilanza.md",
@@ -715,18 +650,18 @@
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/06-edilizia-sue-titoli-vigilanza.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-29T18:06:03.101Z",
+      "startedAt": "2026-08-11T10:23:41.445Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-07-29T18:07:33.473Z"
+      "finishedAt": "2026-08-11T10:24:54.169Z"
     },
     {
       "key": "12:moduli/m-tr03-tecnico-ingegneristico/chapters/06-edilizia-sue-titoli-vigilanza.md",
@@ -735,39 +670,18 @@
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/06-edilizia-sue-titoli-vigilanza.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-29T18:08:36.686Z",
+      "startedAt": "2026-08-11T10:26:52.819Z",
       "gate": {
         "passed": true,
         "blockers": [],
-        "warnings": [
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto E01: stato \"da verificare\".",
-            "location": "wiki/reviews/pipeline/VOL-10/12-moduli-m-tr03-tecnico-ingegneristico-chapters-06-edilizia-sue-titoli-vigilanza-md.md"
-          },
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto E02: stato \"da verificare\".",
-            "location": "wiki/reviews/pipeline/VOL-10/12-moduli-m-tr03-tecnico-ingegneristico-chapters-06-edilizia-sue-titoli-vigilanza-md.md"
-          },
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto E03: stato \"da verificare\".",
-            "location": "wiki/reviews/pipeline/VOL-10/12-moduli-m-tr03-tecnico-ingegneristico-chapters-06-edilizia-sue-titoli-vigilanza-md.md"
-          },
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto E04: stato \"proposto\".",
-            "location": "wiki/reviews/pipeline/VOL-10/12-moduli-m-tr03-tecnico-ingegneristico-chapters-06-edilizia-sue-titoli-vigilanza-md.md"
-          }
-        ]
+        "warnings": []
       },
-      "finishedAt": "2026-07-29T18:09:25.382Z"
+      "finishedAt": "2026-08-11T10:28:44.734Z"
     },
     {
       "key": "08:moduli/m-tr03-tecnico-ingegneristico/chapters/07-progettazione-opere-pubbliche.md",
@@ -776,12 +690,12 @@
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/07-progettazione-opere-pubbliche.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-29T18:11:37.136Z",
+      "startedAt": "2026-08-11T10:29:55.994Z",
       "gate": {
         "passed": true,
         "blockers": [],
@@ -793,14 +707,14 @@
           },
           {
             "code": "manual-acceptance",
-            "message": "Chiusura manuale di aless: Verifica manuale completata: piano presente nel percorso canonico; nuclei, architettura H1/H2/H3, budget KDP, fonti bloccanti, rinvii, casi ed esigenze di review esplicitati; capitolo non modificato; git diff --check pulito e nessun segnaposto rilevato."
+            "message": "Chiusura manuale di aless: Gate chapter-plan non automatizzato: verificati manualmente target, sei nuclei Format 2 stabili, stato iniziale, sviluppi, sezioni da conservare, duplicazioni, applicazioni, fonti consolidate, rinvii, audit specialistici, struttura H1/H2/H3 e budget 4500-4900 parole con sei quiz e caso integrato."
           }
         ],
         "notImplemented": [
           "chapter-plan"
         ]
       },
-      "finishedAt": "2026-07-29T18:15:55.707Z"
+      "finishedAt": "2026-08-11T10:31:56.351Z"
     },
     {
       "key": "09:moduli/m-tr03-tecnico-ingegneristico/chapters/07-progettazione-opere-pubbliche.md",
@@ -809,18 +723,18 @@
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/07-progettazione-opere-pubbliche.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-29T18:18:25.983Z",
+      "startedAt": "2026-08-11T10:47:55.178Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-07-29T18:21:53.767Z"
+      "finishedAt": "2026-08-11T10:47:55.799Z"
     },
     {
       "key": "10:moduli/m-tr03-tecnico-ingegneristico/chapters/07-progettazione-opere-pubbliche.md",
@@ -831,16 +745,12 @@
       "status": "done",
       "attempts": 1,
       "evidence": [],
-      "owner": "aless",
-      "agent": "unknown",
-      "provider": "codex",
-      "startedAt": "2026-07-29T18:27:27.455Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-07-29T18:30:45.017Z"
+      "finishedAt": "2026-08-11T10:47:34.181Z"
     },
     {
       "key": "11:moduli/m-tr03-tecnico-ingegneristico/chapters/07-progettazione-opere-pubbliche.md",
@@ -849,18 +759,18 @@
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/07-progettazione-opere-pubbliche.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-29T18:31:34.955Z",
+      "startedAt": "2026-08-11T10:48:52.744Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-07-29T18:34:58.927Z"
+      "finishedAt": "2026-08-11T10:50:39.873Z"
     },
     {
       "key": "12:moduli/m-tr03-tecnico-ingegneristico/chapters/07-progettazione-opere-pubbliche.md",
@@ -869,39 +779,18 @@
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/07-progettazione-opere-pubbliche.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-29T18:40:01.988Z",
+      "startedAt": "2026-08-11T10:51:52.763Z",
       "gate": {
         "passed": true,
         "blockers": [],
-        "warnings": [
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto E01: stato \"da verificare\".",
-            "location": "wiki/reviews/pipeline/VOL-10/12-moduli-m-tr03-tecnico-ingegneristico-chapters-07-progettazione-opere-pubbliche-md.md"
-          },
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto E02: stato \"da verificare\".",
-            "location": "wiki/reviews/pipeline/VOL-10/12-moduli-m-tr03-tecnico-ingegneristico-chapters-07-progettazione-opere-pubbliche-md.md"
-          },
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto E03: stato \"proposto\".",
-            "location": "wiki/reviews/pipeline/VOL-10/12-moduli-m-tr03-tecnico-ingegneristico-chapters-07-progettazione-opere-pubbliche-md.md"
-          },
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto E04: stato \"da verificare\".",
-            "location": "wiki/reviews/pipeline/VOL-10/12-moduli-m-tr03-tecnico-ingegneristico-chapters-07-progettazione-opere-pubbliche-md.md"
-          }
-        ]
+        "warnings": []
       },
-      "finishedAt": "2026-07-29T18:41:14.950Z"
+      "finishedAt": "2026-08-11T10:53:29.755Z"
     },
     {
       "key": "08:moduli/m-tr03-tecnico-ingegneristico/chapters/08-direzione-lavori-esecuzione.md",
@@ -910,12 +799,12 @@
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/08-direzione-lavori-esecuzione.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-29T18:42:14.762Z",
+      "startedAt": "2026-08-11T10:54:29.733Z",
       "gate": {
         "passed": true,
         "blockers": [],
@@ -927,14 +816,14 @@
           },
           {
             "code": "manual-acceptance",
-            "message": "Chiusura manuale di aless: Verifica manuale completata: piano presente nel percorso canonico; nuclei, architettura H1/H2/H3, budget KDP, fonti bloccanti, rinvii, caso, flusso e review esplicitati; capitolo non modificato; git diff --check pulito e nessun segnaposto rilevato."
+            "message": "Chiusura manuale di aless: Gate chapter-plan non automatizzato: verificati manualmente target, sei nuclei Format 2 stabili, stato iniziale, sviluppi, sezioni da conservare, duplicazioni, applicazioni, fonti consolidate, rinvii, audit specialistici, struttura H1/H2/H3 e budget 4600-5000 parole con sei quiz e caso integrato."
           }
         ],
         "notImplemented": [
           "chapter-plan"
         ]
       },
-      "finishedAt": "2026-07-29T19:19:42.102Z"
+      "finishedAt": "2026-08-11T10:56:09.421Z"
     },
     {
       "key": "09:moduli/m-tr03-tecnico-ingegneristico/chapters/08-direzione-lavori-esecuzione.md",
@@ -943,18 +832,18 @@
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/08-direzione-lavori-esecuzione.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-30T15:56:28.370Z",
+      "startedAt": "2026-08-11T10:57:01.302Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-07-30T15:58:51.013Z"
+      "finishedAt": "2026-08-11T11:14:04.058Z"
     },
     {
       "key": "10:moduli/m-tr03-tecnico-ingegneristico/chapters/08-direzione-lavori-esecuzione.md",
@@ -963,18 +852,18 @@
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/08-direzione-lavori-esecuzione.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-30T16:00:52.621Z",
+      "startedAt": "2026-08-11T11:34:19.786Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-07-30T16:02:31.191Z"
+      "finishedAt": "2026-08-11T11:35:45.710Z"
     },
     {
       "key": "11:moduli/m-tr03-tecnico-ingegneristico/chapters/08-direzione-lavori-esecuzione.md",
@@ -983,18 +872,18 @@
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/08-direzione-lavori-esecuzione.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-30T16:02:59.350Z",
+      "startedAt": "2026-08-11T11:37:16.183Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-07-30T16:04:28.331Z"
+      "finishedAt": "2026-08-11T11:42:31.648Z"
     },
     {
       "key": "12:moduli/m-tr03-tecnico-ingegneristico/chapters/08-direzione-lavori-esecuzione.md",
@@ -1003,39 +892,18 @@
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/08-direzione-lavori-esecuzione.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-30T16:04:56.752Z",
+      "startedAt": "2026-08-11T11:43:18.989Z",
       "gate": {
         "passed": true,
         "blockers": [],
-        "warnings": [
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto E01: stato \"da verificare\".",
-            "location": "wiki/reviews/pipeline/VOL-10/12-moduli-m-tr03-tecnico-ingegneristico-chapters-08-direzione-lavori-esecuzione-md.md"
-          },
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto E02: stato \"da verificare\".",
-            "location": "wiki/reviews/pipeline/VOL-10/12-moduli-m-tr03-tecnico-ingegneristico-chapters-08-direzione-lavori-esecuzione-md.md"
-          },
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto E03: stato \"proposto\".",
-            "location": "wiki/reviews/pipeline/VOL-10/12-moduli-m-tr03-tecnico-ingegneristico-chapters-08-direzione-lavori-esecuzione-md.md"
-          },
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto E04: stato \"da verificare\".",
-            "location": "wiki/reviews/pipeline/VOL-10/12-moduli-m-tr03-tecnico-ingegneristico-chapters-08-direzione-lavori-esecuzione-md.md"
-          }
-        ]
+        "warnings": []
       },
-      "finishedAt": "2026-07-30T16:05:45.308Z"
+      "finishedAt": "2026-08-11T11:44:27.666Z"
     },
     {
       "key": "08:moduli/m-tr03-tecnico-ingegneristico/chapters/09-collaudo-verifica-manutenzione.md",
@@ -1044,12 +912,12 @@
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/09-collaudo-verifica-manutenzione.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-30T16:06:20.801Z",
+      "startedAt": "2026-08-11T11:45:15.493Z",
       "gate": {
         "passed": true,
         "blockers": [],
@@ -1061,14 +929,14 @@
           },
           {
             "code": "manual-acceptance",
-            "message": "Chiusura manuale di aless: Verifica manuale completata: piano presente nel percorso canonico; include nuclei assegnati, stato iniziale, confini, duplicazioni, caso, domande, esercizi, fonti ufficiali bloccanti, review, struttura H1-H3, budget KDP e condizioni esplicite per lo step 09. Il capitolo non è stato modificato."
+            "message": "Chiusura manuale di aless: Verifica manuale completata: piano aggiornato sullo stato reale con 6 Nucleo ID stabili, legacy classificato, fonti consolidate disponibili, struttura H1/H2/H3, budget 4600-5000 parole, 6 quiz, caso, controlli vicini, blocco Verifica, confini e audit specialistici; capitolo non modificato."
           }
         ],
         "notImplemented": [
           "chapter-plan"
         ]
       },
-      "finishedAt": "2026-07-30T16:08:00.528Z"
+      "finishedAt": "2026-08-11T11:51:32.191Z"
     },
     {
       "key": "09:moduli/m-tr03-tecnico-ingegneristico/chapters/09-collaudo-verifica-manutenzione.md",
@@ -1077,18 +945,18 @@
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/09-collaudo-verifica-manutenzione.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-30T16:08:42.011Z",
+      "startedAt": "2026-08-12T06:21:20.224Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-07-30T16:10:45.731Z"
+      "finishedAt": "2026-08-12T06:21:24.797Z"
     },
     {
       "key": "10:moduli/m-tr03-tecnico-ingegneristico/chapters/09-collaudo-verifica-manutenzione.md",
@@ -1097,18 +965,18 @@
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/09-collaudo-verifica-manutenzione.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-30T16:11:20.755Z",
+      "startedAt": "2026-08-12T06:21:31.417Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-07-30T16:12:16.414Z"
+      "finishedAt": "2026-08-12T06:21:32.491Z"
     },
     {
       "key": "11:moduli/m-tr03-tecnico-ingegneristico/chapters/09-collaudo-verifica-manutenzione.md",
@@ -1119,16 +987,12 @@
       "status": "done",
       "attempts": 1,
       "evidence": [],
-      "owner": "aless",
-      "agent": "unknown",
-      "provider": "codex",
-      "startedAt": "2026-07-30T16:12:51.285Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-07-30T16:14:02.381Z"
+      "finishedAt": "2026-08-12T06:21:12.919Z"
     },
     {
       "key": "12:moduli/m-tr03-tecnico-ingegneristico/chapters/09-collaudo-verifica-manutenzione.md",
@@ -1137,12 +1001,12 @@
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/09-collaudo-verifica-manutenzione.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-30T16:25:56.254Z",
+      "startedAt": "2026-08-12T06:23:27.578Z",
       "gate": {
         "passed": true,
         "blockers": [],
@@ -1164,17 +1028,12 @@
           },
           {
             "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto E04: stato \"proposto\".",
-            "location": "wiki/reviews/pipeline/VOL-10/12-moduli-m-tr03-tecnico-ingegneristico-chapters-09-collaudo-verifica-manutenzione-md.md"
-          },
-          {
-            "code": "open-minor-error",
             "message": "Errore non grave ancora aperto E05: stato \"da verificare\".",
             "location": "wiki/reviews/pipeline/VOL-10/12-moduli-m-tr03-tecnico-ingegneristico-chapters-09-collaudo-verifica-manutenzione-md.md"
           }
         ]
       },
-      "finishedAt": "2026-07-30T16:29:34.902Z"
+      "finishedAt": "2026-08-12T06:28:07.313Z"
     },
     {
       "key": "08:moduli/m-tr03-tecnico-ingegneristico/chapters/10-computi-capitolati-contabilita-lavori.md",
@@ -1183,12 +1042,12 @@
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/10-computi-capitolati-contabilita-lavori.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-30T16:31:18.321Z",
+      "startedAt": "2026-08-12T06:32:52.649Z",
       "gate": {
         "passed": true,
         "blockers": [],
@@ -1200,14 +1059,14 @@
           },
           {
             "code": "manual-acceptance",
-            "message": "Chiusura manuale di aless: Verifica manuale completata: piano canonico presente; include nuclei, stato, confini, duplicazioni, caso numerico, domande, esercizio, checklist, fonti ufficiali bloccanti, review, struttura H1-H3, budget KDP e condizioni per lo step 09. Il capitolo non è stato modificato."
+            "message": "Chiusura manuale di aless: Verifica manuale completata: piano aggiornato allo stato reale; sei Nucleo ID stabili; fonti e topic consolidati esistenti; sezioni legacy, confini e duplicazioni censiti; struttura Format 2 con sei nuclei, controlli vicini, blocco verifica, sei quiz e caso integrato; budget 4.600-5.000 parole; audit specialistici definiti; capitolo non modificato."
           }
         ],
         "notImplemented": [
           "chapter-plan"
         ]
       },
-      "finishedAt": "2026-07-30T16:33:03.602Z"
+      "finishedAt": "2026-08-12T06:36:01.372Z"
     },
     {
       "key": "09:moduli/m-tr03-tecnico-ingegneristico/chapters/10-computi-capitolati-contabilita-lavori.md",
@@ -1216,18 +1075,18 @@
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/10-computi-capitolati-contabilita-lavori.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-30T16:34:14.957Z",
+      "startedAt": "2026-08-12T06:36:42.403Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-07-30T16:36:11.874Z"
+      "finishedAt": "2026-08-12T06:48:29.794Z"
     },
     {
       "key": "10:moduli/m-tr03-tecnico-ingegneristico/chapters/10-computi-capitolati-contabilita-lavori.md",
@@ -1236,18 +1095,18 @@
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/10-computi-capitolati-contabilita-lavori.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-30T16:36:59.311Z",
+      "startedAt": "2026-08-12T06:49:46.296Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-07-30T16:38:33.344Z"
+      "finishedAt": "2026-08-12T06:52:18.208Z"
     },
     {
       "key": "11:moduli/m-tr03-tecnico-ingegneristico/chapters/10-computi-capitolati-contabilita-lavori.md",
@@ -1256,18 +1115,18 @@
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/10-computi-capitolati-contabilita-lavori.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-30T16:41:07.749Z",
+      "startedAt": "2026-08-12T06:53:04.383Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-07-30T16:43:09.057Z"
+      "finishedAt": "2026-08-12T06:59:06.190Z"
     },
     {
       "key": "12:moduli/m-tr03-tecnico-ingegneristico/chapters/10-computi-capitolati-contabilita-lavori.md",
@@ -1276,44 +1135,18 @@
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/10-computi-capitolati-contabilita-lavori.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-30T16:43:47.876Z",
+      "startedAt": "2026-08-12T07:00:02.113Z",
       "gate": {
         "passed": true,
         "blockers": [],
-        "warnings": [
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto E01: stato \"da verificare\".",
-            "location": "wiki/reviews/pipeline/VOL-10/12-moduli-m-tr03-tecnico-ingegneristico-chapters-10-computi-capitolati-contabilita-lavori-md.md"
-          },
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto E02: stato \"da verificare\".",
-            "location": "wiki/reviews/pipeline/VOL-10/12-moduli-m-tr03-tecnico-ingegneristico-chapters-10-computi-capitolati-contabilita-lavori-md.md"
-          },
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto E03: stato \"da verificare\".",
-            "location": "wiki/reviews/pipeline/VOL-10/12-moduli-m-tr03-tecnico-ingegneristico-chapters-10-computi-capitolati-contabilita-lavori-md.md"
-          },
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto E04: stato \"proposto\".",
-            "location": "wiki/reviews/pipeline/VOL-10/12-moduli-m-tr03-tecnico-ingegneristico-chapters-10-computi-capitolati-contabilita-lavori-md.md"
-          },
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto E05: stato \"da verificare\".",
-            "location": "wiki/reviews/pipeline/VOL-10/12-moduli-m-tr03-tecnico-ingegneristico-chapters-10-computi-capitolati-contabilita-lavori-md.md"
-          }
-        ]
+        "warnings": []
       },
-      "finishedAt": "2026-07-30T16:45:11.416Z"
+      "finishedAt": "2026-08-12T07:09:28.394Z"
     },
     {
       "key": "08:moduli/m-tr03-tecnico-ingegneristico/chapters/11-infrastrutture-viabilita-ponti-monitoraggio.md",
@@ -1322,12 +1155,12 @@
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/11-infrastrutture-viabilita-ponti-monitoraggio.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-30T16:45:49.916Z",
+      "startedAt": "2026-08-12T07:10:05.913Z",
       "gate": {
         "passed": true,
         "blockers": [],
@@ -1339,14 +1172,14 @@
           },
           {
             "code": "manual-acceptance",
-            "message": "Chiusura manuale di aless: Verifica manuale completata: piano presente nel percorso planning, include base documentale, nuclei assegnati/completi/da sviluppare, sezioni da conservare, duplicazioni, casi/esercizi, fonti disponibili e bloccanti, rinvii, review umane, struttura H1-H3, budget KDP e condizioni per lo step 09; capitolo non modificato."
+            "message": "Chiusura manuale di aless: Verifica manuale completata: piano aggiornato allo stato reale; sei Nucleo ID stabili; fonti e topic consolidati esistenti; legacy, confini e duplicazioni censiti; struttura Format 2 con sei nuclei, controlli vicini, blocco verifica, sei quiz e caso guidato; budget 4.600-5.000 parole; audit specialistici automatici definiti; capitolo non modificato."
           }
         ],
         "notImplemented": [
           "chapter-plan"
         ]
       },
-      "finishedAt": "2026-07-30T16:48:33.585Z"
+      "finishedAt": "2026-08-12T07:13:36.380Z"
     },
     {
       "key": "09:moduli/m-tr03-tecnico-ingegneristico/chapters/11-infrastrutture-viabilita-ponti-monitoraggio.md",
@@ -1355,18 +1188,18 @@
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/11-infrastrutture-viabilita-ponti-monitoraggio.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-30T16:50:52.426Z",
+      "startedAt": "2026-08-12T07:14:51.240Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-07-30T16:54:11.723Z"
+      "finishedAt": "2026-08-12T07:28:21.544Z"
     },
     {
       "key": "10:moduli/m-tr03-tecnico-ingegneristico/chapters/11-infrastrutture-viabilita-ponti-monitoraggio.md",
@@ -1375,18 +1208,18 @@
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/11-infrastrutture-viabilita-ponti-monitoraggio.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-30T16:54:57.916Z",
+      "startedAt": "2026-08-12T07:29:16.721Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-07-30T16:56:28.961Z"
+      "finishedAt": "2026-08-12T07:31:20.341Z"
     },
     {
       "key": "11:moduli/m-tr03-tecnico-ingegneristico/chapters/11-infrastrutture-viabilita-ponti-monitoraggio.md",
@@ -1395,18 +1228,18 @@
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/11-infrastrutture-viabilita-ponti-monitoraggio.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-30T16:57:55.278Z",
+      "startedAt": "2026-08-12T07:32:18.162Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-07-30T17:00:30.228Z"
+      "finishedAt": "2026-08-12T07:33:29.369Z"
     },
     {
       "key": "12:moduli/m-tr03-tecnico-ingegneristico/chapters/11-infrastrutture-viabilita-ponti-monitoraggio.md",
@@ -1415,49 +1248,18 @@
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/11-infrastrutture-viabilita-ponti-monitoraggio.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-30T17:01:15.558Z",
+      "startedAt": "2026-08-12T07:34:32.686Z",
       "gate": {
         "passed": true,
         "blockers": [],
-        "warnings": [
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto E01: stato \"da verificare\".",
-            "location": "wiki/reviews/pipeline/VOL-10/12-moduli-m-tr03-tecnico-ingegneristico-chapters-11-infrastrutture-viabilita-ponti-monitoraggio-md.md"
-          },
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto E02: stato \"da verificare\".",
-            "location": "wiki/reviews/pipeline/VOL-10/12-moduli-m-tr03-tecnico-ingegneristico-chapters-11-infrastrutture-viabilita-ponti-monitoraggio-md.md"
-          },
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto E03: stato \"da verificare\".",
-            "location": "wiki/reviews/pipeline/VOL-10/12-moduli-m-tr03-tecnico-ingegneristico-chapters-11-infrastrutture-viabilita-ponti-monitoraggio-md.md"
-          },
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto E04: stato \"da verificare\".",
-            "location": "wiki/reviews/pipeline/VOL-10/12-moduli-m-tr03-tecnico-ingegneristico-chapters-11-infrastrutture-viabilita-ponti-monitoraggio-md.md"
-          },
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto E05: stato \"proposto\".",
-            "location": "wiki/reviews/pipeline/VOL-10/12-moduli-m-tr03-tecnico-ingegneristico-chapters-11-infrastrutture-viabilita-ponti-monitoraggio-md.md"
-          },
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto E06: stato \"da verificare\".",
-            "location": "wiki/reviews/pipeline/VOL-10/12-moduli-m-tr03-tecnico-ingegneristico-chapters-11-infrastrutture-viabilita-ponti-monitoraggio-md.md"
-          }
-        ]
+        "warnings": []
       },
-      "finishedAt": "2026-07-30T17:02:18.193Z"
+      "finishedAt": "2026-08-12T07:36:44.387Z"
     },
     {
       "key": "08:moduli/m-tr03-tecnico-ingegneristico/chapters/12-bim-gis-catasto-patrimonio.md",
@@ -1466,12 +1268,12 @@
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/12-bim-gis-catasto-patrimonio.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-30T17:04:21.364Z",
+      "startedAt": "2026-08-12T07:37:43.250Z",
       "gate": {
         "passed": true,
         "blockers": [],
@@ -1483,14 +1285,14 @@
           },
           {
             "code": "manual-acceptance",
-            "message": "Chiusura manuale di aless: Verifica manuale completata: piano presente nel percorso planning, include base documentale, nuclei assegnati/completi/da sviluppare, confini BIM-GIS-rilievo-catasto-patrimonio, duplicazioni, caso/esercizi, fonti disponibili e bloccanti, rinvii, review umane, struttura H1-H3, budget KDP e condizioni per lo step 09; capitolo non modificato."
+            "message": "Chiusura manuale di aless: Verifica manuale chapter-plan completata: piano riallineato al capitolo legacy e alle fonti oggi consolidate; definiti sei Nucleo ID N-TR03-12-01/06, contenuti da conservare e sviluppare, duplicazioni e confini, apparato didattico, struttura H1/H2/H3, budget 4600-5000 parole con almeno 650 per nucleo, sei quiz, caso ragionato e audit automatici specialistici. Nessun blocker documentale residuo e capitolo non modificato."
           }
         ],
         "notImplemented": [
           "chapter-plan"
         ]
       },
-      "finishedAt": "2026-07-30T17:06:54.906Z"
+      "finishedAt": "2026-08-12T07:53:18.257Z"
     },
     {
       "key": "09:moduli/m-tr03-tecnico-ingegneristico/chapters/12-bim-gis-catasto-patrimonio.md",
@@ -1499,18 +1301,18 @@
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/12-bim-gis-catasto-patrimonio.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-30T17:07:49.684Z",
+      "startedAt": "2026-08-12T07:54:23.482Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-07-30T17:10:10.175Z"
+      "finishedAt": "2026-08-12T08:07:48.595Z"
     },
     {
       "key": "10:moduli/m-tr03-tecnico-ingegneristico/chapters/12-bim-gis-catasto-patrimonio.md",
@@ -1519,18 +1321,18 @@
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/12-bim-gis-catasto-patrimonio.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-30T17:10:56.998Z",
+      "startedAt": "2026-08-12T08:08:42.719Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-07-30T17:11:50.689Z"
+      "finishedAt": "2026-08-12T08:09:51.682Z"
     },
     {
       "key": "11:moduli/m-tr03-tecnico-ingegneristico/chapters/12-bim-gis-catasto-patrimonio.md",
@@ -1539,18 +1341,18 @@
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/12-bim-gis-catasto-patrimonio.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-30T17:12:31.659Z",
+      "startedAt": "2026-08-12T08:11:44.917Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-07-30T17:13:30.172Z"
+      "finishedAt": "2026-08-12T08:14:38.384Z"
     },
     {
       "key": "12:moduli/m-tr03-tecnico-ingegneristico/chapters/12-bim-gis-catasto-patrimonio.md",
@@ -1559,49 +1361,18 @@
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/12-bim-gis-catasto-patrimonio.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-30T17:14:17.945Z",
+      "startedAt": "2026-08-12T08:16:52.943Z",
       "gate": {
         "passed": true,
         "blockers": [],
-        "warnings": [
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto E01: stato \"aperto\".",
-            "location": "wiki/reviews/pipeline/VOL-10/12-moduli-m-tr03-tecnico-ingegneristico-chapters-12-bim-gis-catasto-patrimonio-md.md"
-          },
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto E02: stato \"aperto\".",
-            "location": "wiki/reviews/pipeline/VOL-10/12-moduli-m-tr03-tecnico-ingegneristico-chapters-12-bim-gis-catasto-patrimonio-md.md"
-          },
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto E03: stato \"aperto\".",
-            "location": "wiki/reviews/pipeline/VOL-10/12-moduli-m-tr03-tecnico-ingegneristico-chapters-12-bim-gis-catasto-patrimonio-md.md"
-          },
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto E04: stato \"aperto\".",
-            "location": "wiki/reviews/pipeline/VOL-10/12-moduli-m-tr03-tecnico-ingegneristico-chapters-12-bim-gis-catasto-patrimonio-md.md"
-          },
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto E05: stato \"aperto\".",
-            "location": "wiki/reviews/pipeline/VOL-10/12-moduli-m-tr03-tecnico-ingegneristico-chapters-12-bim-gis-catasto-patrimonio-md.md"
-          },
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto E06: stato \"aperto\".",
-            "location": "wiki/reviews/pipeline/VOL-10/12-moduli-m-tr03-tecnico-ingegneristico-chapters-12-bim-gis-catasto-patrimonio-md.md"
-          }
-        ]
+        "warnings": []
       },
-      "finishedAt": "2026-07-30T17:19:08.666Z"
+      "finishedAt": "2026-08-12T08:18:35.055Z"
     },
     {
       "key": "08:moduli/m-tr03-tecnico-ingegneristico/chapters/13-laboratorio-prove-tecniche.md",
@@ -1610,12 +1381,12 @@
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/13-laboratorio-prove-tecniche.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-30T17:20:03.791Z",
+      "startedAt": "2026-08-12T08:20:44.598Z",
       "gate": {
         "passed": true,
         "blockers": [],
@@ -1627,14 +1398,14 @@
           },
           {
             "code": "manual-acceptance",
-            "message": "Chiusura manuale di aless: Verifica manuale completata: piano conforme al prompt, include nuclei assegnati/completi/da sviluppare, conservazione, duplicazioni, otto casi, simulazione, fonti, review e struttura H1-H3 con budget KDP; capitolo non creato né modificato."
+            "message": "Chiusura manuale di aless: Gate chapter-plan non automatizzato: verifica manuale completata. Piano riallineato al capitolo legacy esistente e alla Bibbia; definiti sei Nucleo ID N-TR03-13-01/06, sezioni da conservare, sviluppi, duplicazioni, fonti consolidate tutte risolte, rinvii, audit specialistici, struttura H1/H2/H3, budget 4.850-5.350 parole con almeno 650 per nucleo, sei quiz commentati, otto casi e caso ragionato finale. Capitolo non modificato."
           }
         ],
         "notImplemented": [
           "chapter-plan"
         ]
       },
-      "finishedAt": "2026-07-30T17:23:01.898Z"
+      "finishedAt": "2026-08-12T08:23:50.916Z"
     },
     {
       "key": "09:moduli/m-tr03-tecnico-ingegneristico/chapters/13-laboratorio-prove-tecniche.md",
@@ -1643,18 +1414,18 @@
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/13-laboratorio-prove-tecniche.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-30T17:23:50.111Z",
+      "startedAt": "2026-08-12T08:26:02.865Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-07-30T17:26:16.469Z"
+      "finishedAt": "2026-08-12T08:39:10.609Z"
     },
     {
       "key": "10:moduli/m-tr03-tecnico-ingegneristico/chapters/13-laboratorio-prove-tecniche.md",
@@ -1663,18 +1434,18 @@
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/13-laboratorio-prove-tecniche.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-30T17:27:03.512Z",
+      "startedAt": "2026-08-12T08:41:25.709Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-07-30T17:28:29.096Z"
+      "finishedAt": "2026-08-12T08:42:48.499Z"
     },
     {
       "key": "11:moduli/m-tr03-tecnico-ingegneristico/chapters/13-laboratorio-prove-tecniche.md",
@@ -1683,18 +1454,18 @@
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/13-laboratorio-prove-tecniche.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-30T17:29:52.154Z",
+      "startedAt": "2026-08-12T08:44:31.001Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-07-30T17:32:27.450Z"
+      "finishedAt": "2026-08-12T08:45:27.817Z"
     },
     {
       "key": "12:moduli/m-tr03-tecnico-ingegneristico/chapters/13-laboratorio-prove-tecniche.md",
@@ -1703,39 +1474,18 @@
       "scope": "chapter",
       "target": "moduli/m-tr03-tecnico-ingegneristico/chapters/13-laboratorio-prove-tecniche.md",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-30T17:33:09.411Z",
+      "startedAt": "2026-08-12T08:46:43.612Z",
       "gate": {
         "passed": true,
         "blockers": [],
-        "warnings": [
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto E02: stato \"da verificare\".",
-            "location": "wiki/reviews/pipeline/VOL-10/12-moduli-m-tr03-tecnico-ingegneristico-chapters-13-laboratorio-prove-tecniche-md.md"
-          },
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto E03: stato \"da verificare\".",
-            "location": "wiki/reviews/pipeline/VOL-10/12-moduli-m-tr03-tecnico-ingegneristico-chapters-13-laboratorio-prove-tecniche-md.md"
-          },
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto E04: stato \"da verificare\".",
-            "location": "wiki/reviews/pipeline/VOL-10/12-moduli-m-tr03-tecnico-ingegneristico-chapters-13-laboratorio-prove-tecniche-md.md"
-          },
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto E05: stato \"aperto\".",
-            "location": "wiki/reviews/pipeline/VOL-10/12-moduli-m-tr03-tecnico-ingegneristico-chapters-13-laboratorio-prove-tecniche-md.md"
-          }
-        ]
+        "warnings": []
       },
-      "finishedAt": "2026-07-30T17:35:02.068Z"
+      "finishedAt": "2026-08-12T08:48:36.994Z"
     },
     {
       "key": "05:moduli/m-tr03-tecnico-ingegneristico",
@@ -1814,16 +1564,21 @@
       "scope": "module",
       "target": "moduli/m-tr03-tecnico-ingegneristico",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-30T17:56:44.697Z",
+      "startedAt": "2026-08-12T08:50:28.684Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E03: stato \"aperto\".",
+            "location": "wiki/reviews/pipeline/VOL-10/13-moduli-m-tr03-tecnico-ingegneristico.md"
+          },
           {
             "code": "open-minor-error",
             "message": "Errore non grave ancora aperto E04: stato \"aperto\".",
@@ -1838,15 +1593,10 @@
             "code": "open-minor-error",
             "message": "Errore non grave ancora aperto E06: stato \"da verificare\".",
             "location": "wiki/reviews/pipeline/VOL-10/13-moduli-m-tr03-tecnico-ingegneristico.md"
-          },
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto E07: stato \"da verificare\".",
-            "location": "wiki/reviews/pipeline/VOL-10/13-moduli-m-tr03-tecnico-ingegneristico.md"
           }
         ]
       },
-      "finishedAt": "2026-07-30T18:18:20.265Z"
+      "finishedAt": "2026-08-12T08:57:47.035Z"
     },
     {
       "key": "14:moduli/m-tr03-tecnico-ingegneristico",
@@ -1855,24 +1605,24 @@
       "scope": "module",
       "target": "moduli/m-tr03-tecnico-ingegneristico",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-30T18:22:22.819Z",
+      "startedAt": "2026-08-12T08:59:01.566Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": [
           {
             "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto E07: stato \"da verificare\".",
+            "message": "Errore non grave ancora aperto E06: stato \"da verificare\".",
             "location": "wiki/reviews/pipeline/VOL-10/14-moduli-m-tr03-tecnico-ingegneristico.md"
           }
         ]
       },
-      "finishedAt": "2026-07-30T18:28:43.087Z"
+      "finishedAt": "2026-08-12T09:38:12.281Z"
     },
     {
       "key": "15:moduli/m-tr03-tecnico-ingegneristico",
@@ -1880,9 +1630,19 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-tr03-tecnico-ingegneristico",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 2,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-12T09:39:56.671Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-12T09:48:28.770Z"
     },
     {
       "key": "16:moduli/m-tr03-tecnico-ingegneristico",
@@ -1890,9 +1650,32 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-tr03-tecnico-ingegneristico",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 2,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-12T09:49:51.626Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"text-freeze\" dello step 16 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-tr03-tecnico-ingegneristico"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di aless: Verifica manuale completata il 12 agosto 2026: 13/13 capitoli presenti e indicizzati; manifest SHA-256 riconciliato 13/13 sul commit 34bf30a65647d5c6c4571d1dfb38bebfc5cb258f; 78/78 nuclei con stato finale completo; zero review_required nei capitoli; Humanizer e step 13-15 chiusi; report step 15 senza errori gravi o medi aperti; fonti e cut-off dichiarati; 155/155 test pipeline superati."
+          }
+        ],
+        "notImplemented": [
+          "text-freeze"
+        ]
+      },
+      "finishedAt": "2026-08-12T09:51:27.564Z"
     },
     {
       "key": "18:moduli/m-tr03-tecnico-ingegneristico",
@@ -1900,9 +1683,24 @@
       "phase": "E",
       "scope": "module",
       "target": "moduli/m-tr03-tecnico-ingegneristico",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 2,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-12T09:56:47.316Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 18 non prevede un gate automatico."
+          }
+        ]
+      },
+      "finishedAt": "2026-08-12T09:59:19.642Z"
     },
     {
       "key": "00:VOL-10",
@@ -1910,9 +1708,24 @@
       "phase": "A",
       "scope": "catalog",
       "target": "VOL-10",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-11T08:09:34.511Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 00 non prevede un gate automatico."
+          }
+        ]
+      },
+      "finishedAt": "2026-08-11T08:10:55.810Z"
     },
     {
       "key": "01:VOL-10",
@@ -1920,9 +1733,24 @@
       "phase": "A",
       "scope": "catalog",
       "target": "VOL-10",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-11T08:10:57.347Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 01 non prevede un gate automatico."
+          }
+        ]
+      },
+      "finishedAt": "2026-08-11T08:11:46.598Z"
     },
     {
       "key": "02:VOL-10",
@@ -1930,9 +1758,24 @@
       "phase": "A",
       "scope": "catalog",
       "target": "VOL-10",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-11T08:11:47.811Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 02 non prevede un gate automatico."
+          }
+        ]
+      },
+      "finishedAt": "2026-08-11T08:12:09.046Z"
     },
     {
       "key": "03:VOL-10",
@@ -1940,9 +1783,24 @@
       "phase": "A",
       "scope": "catalog",
       "target": "VOL-10",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-11T08:12:10.125Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 03 non prevede un gate automatico."
+          }
+        ]
+      },
+      "finishedAt": "2026-08-11T08:12:57.387Z"
     },
     {
       "key": "04:VOL-10",
@@ -1950,9 +1808,24 @@
       "phase": "B",
       "scope": "volume",
       "target": "VOL-10",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-11T08:12:58.791Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 04 non prevede un gate automatico."
+          }
+        ]
+      },
+      "finishedAt": "2026-08-11T08:13:28.214Z"
     },
     {
       "key": "17:VOL-10",
@@ -1960,9 +1833,24 @@
       "phase": "E",
       "scope": "volume",
       "target": "VOL-10",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 2,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-12T10:00:00.449Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 17 non prevede un gate automatico."
+          }
+        ]
+      },
+      "finishedAt": "2026-08-12T10:00:26.778Z"
     },
     {
       "key": "19:VOL-10",
@@ -1970,9 +1858,24 @@
       "phase": "E",
       "scope": "volume",
       "target": "VOL-10",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 2,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-12T10:01:11.724Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 19 non prevede un gate automatico."
+          }
+        ]
+      },
+      "finishedAt": "2026-08-12T10:15:40.634Z"
     },
     {
       "key": "20:VOL-10",
@@ -1980,9 +1883,32 @@
       "phase": "E",
       "scope": "volume",
       "target": "VOL-10",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-12T10:17:38.701Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"page-fill\" dello step 20 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "VOL-10"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di aless: Audit completo 196/196 pagine: 10/10 tavole-contatto ispezionate, registro validato contro DOM corrente, 0 blocker e 0 problemi significativi; code di paragrafo corrette e riflusso rieseguito integralmente."
+          }
+        ],
+        "notImplemented": [
+          "page-fill"
+        ]
+      },
+      "finishedAt": "2026-08-12T10:28:38.879Z"
     },
     {
       "key": "21:VOL-10",
@@ -1990,9 +1916,19 @@
       "phase": "F",
       "scope": "volume",
       "target": "VOL-10",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-12T10:31:23.925Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-12T11:03:22.910Z"
     },
     {
       "key": "22:VOL-10",
@@ -2000,9 +1936,32 @@
       "phase": "F",
       "scope": "volume",
       "target": "VOL-10",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-12T11:05:56.874Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"preflight\" dello step 22 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "VOL-10"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di aless: Preflight locale VOL-10 conforme e documentato: copertura, link, source_refs, frontmatter, asset, tabelle, UTF-8, diff, test, typecheck, build e PDF verificati; 196 pagine 6.69 x 9.61 in, no bleed, margini speculari, font incorporati. KDP Previewer non installato e registrato come NON ESEGUITO nel report."
+          }
+        ],
+        "notImplemented": [
+          "preflight"
+        ]
+      },
+      "finishedAt": "2026-08-12T12:08:02.102Z"
     },
     {
       "key": "23:VOL-10",
@@ -2010,9 +1969,32 @@
       "phase": "F",
       "scope": "volume",
       "target": "VOL-10",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-12T12:13:52.559Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"delivery\" dello step 23 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "VOL-10"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di aless: Pacchetto VOL-10-candidate-2026.08.12.1 verificato: 9 file, manifest 8/8 hash, nessun extra; remoto controllato senza modifiche concorrenti nel perimetro; staging selettivo e diff cached conformi; copertura, PDF 196 pagine, 437 test, typecheck e build verdi. Stato pending-step-24, nessuna pubblicazione o approvazione dichiarata."
+          }
+        ],
+        "notImplemented": [
+          "delivery"
+        ]
+      },
+      "finishedAt": "2026-08-12T12:24:30.549Z"
     },
     {
       "key": "24:VOL-10",
@@ -2020,9 +2002,120 @@
       "phase": "G",
       "scope": "volume",
       "target": "VOL-10",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-12T12:26:48.845Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"human-signoff\" dello step 24 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "VOL-10"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di aless: Conferma umana esplicita ricevuta il 12 agosto 2026: esito confermato per VOL-10-candidate-2026.08.12.1, manifest SHA-256 7B631AF6FE0DE738FED1AFC5A9E5DC6C7EF59104C6E7F473D60DE851945B7B44. Il volume è valido e può essere autorizzato alla pubblicazione controllata."
+          }
+        ],
+        "notImplemented": [
+          "human-signoff"
+        ]
+      },
+      "finishedAt": "2026-08-12T12:41:48.416Z"
+    }
+  ],
+  "reopenHistory": [
+    {
+      "at": "2026-08-11T08:29:01.303Z",
+      "actor": "aless",
+      "note": "Retrofit integrale formato 2: riapertura capitoli 01-13 e dipendenze modulo/volume dopo baseline Book Studio con zero nuclei e zero blocchi verifica.",
+      "fromStep": "08",
+      "moduleTarget": "moduli/m-tr03-tecnico-ingegneristico",
+      "reopenedKeys": [
+        "08:moduli/m-tr03-tecnico-ingegneristico/chapters/01-concorso-tecnico-pa-profili-prove.md",
+        "09:moduli/m-tr03-tecnico-ingegneristico/chapters/01-concorso-tecnico-pa-profili-prove.md",
+        "10:moduli/m-tr03-tecnico-ingegneristico/chapters/01-concorso-tecnico-pa-profili-prove.md",
+        "11:moduli/m-tr03-tecnico-ingegneristico/chapters/01-concorso-tecnico-pa-profili-prove.md",
+        "12:moduli/m-tr03-tecnico-ingegneristico/chapters/01-concorso-tecnico-pa-profili-prove.md",
+        "08:moduli/m-tr03-tecnico-ingegneristico/chapters/02-ufficio-tecnico-responsabilita-atti.md",
+        "09:moduli/m-tr03-tecnico-ingegneristico/chapters/02-ufficio-tecnico-responsabilita-atti.md",
+        "10:moduli/m-tr03-tecnico-ingegneristico/chapters/02-ufficio-tecnico-responsabilita-atti.md",
+        "11:moduli/m-tr03-tecnico-ingegneristico/chapters/02-ufficio-tecnico-responsabilita-atti.md",
+        "12:moduli/m-tr03-tecnico-ingegneristico/chapters/02-ufficio-tecnico-responsabilita-atti.md",
+        "08:moduli/m-tr03-tecnico-ingegneristico/chapters/03-scienza-tecnica-costruzioni.md",
+        "09:moduli/m-tr03-tecnico-ingegneristico/chapters/03-scienza-tecnica-costruzioni.md",
+        "10:moduli/m-tr03-tecnico-ingegneristico/chapters/03-scienza-tecnica-costruzioni.md",
+        "11:moduli/m-tr03-tecnico-ingegneristico/chapters/03-scienza-tecnica-costruzioni.md",
+        "12:moduli/m-tr03-tecnico-ingegneristico/chapters/03-scienza-tecnica-costruzioni.md",
+        "08:moduli/m-tr03-tecnico-ingegneristico/chapters/04-ntc-sismica-geotecnica-sicurezza-strutturale.md",
+        "09:moduli/m-tr03-tecnico-ingegneristico/chapters/04-ntc-sismica-geotecnica-sicurezza-strutturale.md",
+        "10:moduli/m-tr03-tecnico-ingegneristico/chapters/04-ntc-sismica-geotecnica-sicurezza-strutturale.md",
+        "11:moduli/m-tr03-tecnico-ingegneristico/chapters/04-ntc-sismica-geotecnica-sicurezza-strutturale.md",
+        "12:moduli/m-tr03-tecnico-ingegneristico/chapters/04-ntc-sismica-geotecnica-sicurezza-strutturale.md",
+        "08:moduli/m-tr03-tecnico-ingegneristico/chapters/05-urbanistica-governo-territorio.md",
+        "09:moduli/m-tr03-tecnico-ingegneristico/chapters/05-urbanistica-governo-territorio.md",
+        "10:moduli/m-tr03-tecnico-ingegneristico/chapters/05-urbanistica-governo-territorio.md",
+        "11:moduli/m-tr03-tecnico-ingegneristico/chapters/05-urbanistica-governo-territorio.md",
+        "12:moduli/m-tr03-tecnico-ingegneristico/chapters/05-urbanistica-governo-territorio.md",
+        "08:moduli/m-tr03-tecnico-ingegneristico/chapters/06-edilizia-sue-titoli-vigilanza.md",
+        "09:moduli/m-tr03-tecnico-ingegneristico/chapters/06-edilizia-sue-titoli-vigilanza.md",
+        "10:moduli/m-tr03-tecnico-ingegneristico/chapters/06-edilizia-sue-titoli-vigilanza.md",
+        "11:moduli/m-tr03-tecnico-ingegneristico/chapters/06-edilizia-sue-titoli-vigilanza.md",
+        "12:moduli/m-tr03-tecnico-ingegneristico/chapters/06-edilizia-sue-titoli-vigilanza.md",
+        "08:moduli/m-tr03-tecnico-ingegneristico/chapters/07-progettazione-opere-pubbliche.md",
+        "09:moduli/m-tr03-tecnico-ingegneristico/chapters/07-progettazione-opere-pubbliche.md",
+        "10:moduli/m-tr03-tecnico-ingegneristico/chapters/07-progettazione-opere-pubbliche.md",
+        "11:moduli/m-tr03-tecnico-ingegneristico/chapters/07-progettazione-opere-pubbliche.md",
+        "12:moduli/m-tr03-tecnico-ingegneristico/chapters/07-progettazione-opere-pubbliche.md",
+        "08:moduli/m-tr03-tecnico-ingegneristico/chapters/08-direzione-lavori-esecuzione.md",
+        "09:moduli/m-tr03-tecnico-ingegneristico/chapters/08-direzione-lavori-esecuzione.md",
+        "10:moduli/m-tr03-tecnico-ingegneristico/chapters/08-direzione-lavori-esecuzione.md",
+        "11:moduli/m-tr03-tecnico-ingegneristico/chapters/08-direzione-lavori-esecuzione.md",
+        "12:moduli/m-tr03-tecnico-ingegneristico/chapters/08-direzione-lavori-esecuzione.md",
+        "08:moduli/m-tr03-tecnico-ingegneristico/chapters/09-collaudo-verifica-manutenzione.md",
+        "09:moduli/m-tr03-tecnico-ingegneristico/chapters/09-collaudo-verifica-manutenzione.md",
+        "10:moduli/m-tr03-tecnico-ingegneristico/chapters/09-collaudo-verifica-manutenzione.md",
+        "11:moduli/m-tr03-tecnico-ingegneristico/chapters/09-collaudo-verifica-manutenzione.md",
+        "12:moduli/m-tr03-tecnico-ingegneristico/chapters/09-collaudo-verifica-manutenzione.md",
+        "08:moduli/m-tr03-tecnico-ingegneristico/chapters/10-computi-capitolati-contabilita-lavori.md",
+        "09:moduli/m-tr03-tecnico-ingegneristico/chapters/10-computi-capitolati-contabilita-lavori.md",
+        "10:moduli/m-tr03-tecnico-ingegneristico/chapters/10-computi-capitolati-contabilita-lavori.md",
+        "11:moduli/m-tr03-tecnico-ingegneristico/chapters/10-computi-capitolati-contabilita-lavori.md",
+        "12:moduli/m-tr03-tecnico-ingegneristico/chapters/10-computi-capitolati-contabilita-lavori.md",
+        "08:moduli/m-tr03-tecnico-ingegneristico/chapters/11-infrastrutture-viabilita-ponti-monitoraggio.md",
+        "09:moduli/m-tr03-tecnico-ingegneristico/chapters/11-infrastrutture-viabilita-ponti-monitoraggio.md",
+        "10:moduli/m-tr03-tecnico-ingegneristico/chapters/11-infrastrutture-viabilita-ponti-monitoraggio.md",
+        "11:moduli/m-tr03-tecnico-ingegneristico/chapters/11-infrastrutture-viabilita-ponti-monitoraggio.md",
+        "12:moduli/m-tr03-tecnico-ingegneristico/chapters/11-infrastrutture-viabilita-ponti-monitoraggio.md",
+        "08:moduli/m-tr03-tecnico-ingegneristico/chapters/12-bim-gis-catasto-patrimonio.md",
+        "09:moduli/m-tr03-tecnico-ingegneristico/chapters/12-bim-gis-catasto-patrimonio.md",
+        "10:moduli/m-tr03-tecnico-ingegneristico/chapters/12-bim-gis-catasto-patrimonio.md",
+        "11:moduli/m-tr03-tecnico-ingegneristico/chapters/12-bim-gis-catasto-patrimonio.md",
+        "12:moduli/m-tr03-tecnico-ingegneristico/chapters/12-bim-gis-catasto-patrimonio.md",
+        "08:moduli/m-tr03-tecnico-ingegneristico/chapters/13-laboratorio-prove-tecniche.md",
+        "09:moduli/m-tr03-tecnico-ingegneristico/chapters/13-laboratorio-prove-tecniche.md",
+        "10:moduli/m-tr03-tecnico-ingegneristico/chapters/13-laboratorio-prove-tecniche.md",
+        "11:moduli/m-tr03-tecnico-ingegneristico/chapters/13-laboratorio-prove-tecniche.md",
+        "12:moduli/m-tr03-tecnico-ingegneristico/chapters/13-laboratorio-prove-tecniche.md",
+        "13:moduli/m-tr03-tecnico-ingegneristico",
+        "14:moduli/m-tr03-tecnico-ingegneristico",
+        "15:moduli/m-tr03-tecnico-ingegneristico",
+        "16:moduli/m-tr03-tecnico-ingegneristico",
+        "18:moduli/m-tr03-tecnico-ingegneristico",
+        "17:VOL-10",
+        "19:VOL-10",
+        "20:VOL-10",
+        "21:VOL-10",
+        "22:VOL-10",
+        "23:VOL-10",
+        "24:VOL-10"
+      ]
     }
   ]
 }

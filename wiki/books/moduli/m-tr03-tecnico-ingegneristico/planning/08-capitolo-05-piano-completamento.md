@@ -1,178 +1,169 @@
+---
+id: m-tr03-capitolo-05-piano-completamento
+type: editorial_plan
+title: "Piano di completamento — Capitolo 05"
+status: ready
+domain: urbanistica
+book_refs: ["m-tr03-tecnico-ingegneristico", "vol-10-tecnico-ingegneristico-territorio-lavori-pubblici"]
+created_at: 2026-07-29
+updated_at: 2026-08-11
+review_required: false
+canonical: false
+tags: ["specialist-module-plan", "m-tr03", "vol-10", "format-2", "chapter-05"]
+---
+
 # Piano di completamento — Capitolo 05
 
-## Target
+## Target e contratto
 
 `chapters/05-urbanistica-governo-territorio.md`
 
+Il capitolo deve passare dal testo legacy di 1.616 parole al **Formato 2**, senza cambiare il perimetro assegnato. Il budget operativo è **4.100-4.500 parole**, articolato in **sei nuclei da almeno 600 parole**, con **sei quiz commentati**, almeno una verifica vicina a ciascun nucleo, un caso ragionato e strumenti utilizzabili nella prova. La soglia di 3.000 parole è un minimo tecnico, non il budget di scrittura.
+
+## Stato iniziale verificato
+
+Il capitolo esiste ed è marcato `specialist-audited`, ma non dichiara `format_version: 2` e non usa nuclei numerati. Conserva una base corretta e prudente: sistema multilivello, piani, zonizzazione, standard, conformità, vincoli, espropriazione, paesaggio, caso guidato e strumenti finali. La fonte specialistica nazionale è consolidata e l'audit delle fonti non registra mancanze bloccanti.
+
+Nessun nucleo è tuttavia completo secondo il nuovo contratto: la densità attuale non raggiunge 600 parole per unità, le verifiche non sono distribuite e il singolo mini-esercizio non equivale a sei quiz commentati.
+
 ## Nuclei assegnati
 
-- funzione dell’urbanistica e del governo del territorio;
-- riparto delle competenze e rapporto tra disciplina nazionale, regionale e locale;
-- pianificazione territoriale e urbanistica;
-- livelli, gerarchia, contenuti ed effetti dei piani;
-- piano generale e strumenti attuativi;
-- zonizzazione, destinazioni d’uso e parametri urbanistici;
-- standard urbanistici e dotazioni territoriali;
-- conformità urbanistica dell’intervento;
-- vincoli urbanistici e vincoli derivanti da discipline diverse;
-- salvaguardia e varianti;
-- espropriazione per pubblica utilità nel rapporto con la pianificazione;
-- tutela paesaggistica e interfaccia con il procedimento urbanistico;
-- partecipazione, pubblicità, osservazioni e approvazione degli strumenti;
-- output: caso `piano–vincolo–intervento–procedimento`.
+| Nucleo ID | Titolo e perimetro | Stato iniziale | Sviluppo richiesto | Verifica vicina |
+| --- | --- | --- | --- | --- |
+| `N-TR03-05-01` | Urbanistica, pianificazione e governo del territorio | parziale | definizioni, funzioni, interessi, riparto multilivello, variabilità regionale, formazione e partecipazione | classificazione di affermazioni nazionali/regionali + quiz 1 |
+| `N-TR03-05-02` | Piani, livelli, contenuti ed effetti | parziale | scala e funzione, piano generale, attuativi, piani di settore, adozione/approvazione, salvaguardia e varianti | mappa piano-funzione-effetto + quiz 2 |
+| `N-TR03-05-03` | Zonizzazione, destinazioni, parametri e standard | parziale | zone e ambiti, usi, parametri, NTA, standard e dotazioni, differenza da titolo edilizio e stato legittimo | confronto su area e intervento + quiz 3 |
+| `N-TR03-05-04` | Vincoli e tutele nel governo del territorio | parziale | fonte, oggetto, effetto e durata; conformativi, espropriativi, paesaggistici, culturali e settoriali; controlli distinti | tabella vincolo-fonte-effetto-atto + quiz 4 |
+| `N-TR03-05-05` | Pianificazione, espropriazione e paesaggio | parziale | vincolo preordinato, pubblica utilità, fasi essenziali e garanzie; piano paesaggistico e autorizzazione; confini con VOL-11 | sequenza procedurale motivata + quiz 5 |
+| `N-TR03-05-06` | Istruttoria e caso piano-vincolo-intervento | parziale | metodo completo: localizzare, reperire fonti, leggere piano/NTA, classificare vincoli, individuare competenze, atti e dati mancanti | caso ragionato, checklist finale + quiz 6 |
 
-## Stato iniziale
+## Checklist dimensionale per nucleo
 
-Il capitolo non esiste. Nessun nucleo assegnato può essere considerato completo.
+Per ciascun nucleo lo step 09 deve rendere riconoscibili:
 
-La matrice collega il capitolo al campione di bandi, che conferma la presenza della materia nei profili urbanistico-edilizi ma non sostiene il contenuto normativo. È già disponibile una source note sul D.P.R. n. 327/2001 per l’espropriazione; mancano invece source note ufficiali consolidate per la legge urbanistica nazionale, gli standard, la tutela paesaggistica e la legislazione regionale.
+- definizione e funzione;
+- inquadramento nazionale e limite della variabilità regionale;
+- elementi e sequenza logica;
+- distinzioni che cambiano l'esito del caso;
+- conseguenze operative e concorsuali;
+- esempio o microcaso;
+- errore tipico o domanda-trappola;
+- verifica con soluzione commentata;
+- fonti leggibili e tracciabilità nel frontmatter.
 
-## Nuclei già completi
+Ogni nucleo deve raggiungere almeno 600 parole senza contare frontmatter, titoli o rinvii interni.
 
-- lettura del bando tecnico e distinzione tra materia, requisito e output: capitolo 1;
-- ufficio tecnico, istruttoria, atti e responsabilità: capitolo 2;
-- principi generali del procedimento amministrativo: capitolo 2 e relativo rinvio al nucleo comune;
-- campione qualitativo di profili e prove urbanistico-edilizie: source note sui bandi;
-- disciplina generale dell’espropriazione: source note sul D.P.R. n. 327/2001, da selezionare per il solo collegamento urbanistico.
+## Sezioni da conservare e trasformare
 
-Nel capitolo 5 questi contenuti vanno richiamati soltanto quando servono al caso territoriale.
+- apertura sull'area come oggetto di una pluralità di regole;
+- Obiettivo e Mappa BANDO, da riallineare ai sei nuclei;
+- distinzione per funzioni, non per denominazioni regionali;
+- tabelle piano generale/attuativo e vincolo/fonte/effetto;
+- caso dell'area destinata a servizio, da ampliare nel nucleo 06;
+- `Da sapere in 5 righe`, domanda da commissario, domanda-trappola ed errore tipico;
+- checklist `piano–norma–vincolo–competenza–procedimento–atto`;
+- riferimenti consolidati, trasferiti dalla sezione reader-visible alla tracciabilità editoriale se esposti come wikilink interni.
 
-## Nuclei da sviluppare
+## Duplicazioni e sconfinamenti da evitare
 
-1. Definire urbanistica, pianificazione territoriale e governo del territorio, evitando equivalenze semplicistiche.
-2. Spiegare il carattere multilivello della materia e il ruolo della legislazione regionale.
-3. Costruire una mappa dei piani per funzione, scala, contenuto ed effetto, senza imporre denominazioni identiche a tutte le Regioni.
-4. Distinguere piano generale, strumenti attuativi e atti di settore.
-5. Spiegare zonizzazione, destinazione d’uso, indici e parametri essenziali.
-6. Inquadrare standard urbanistici e dotazioni territoriali.
-7. Distinguere conformità urbanistica, conformità edilizia e legittimità dell’immobile, rinviando il secondo nucleo al capitolo 6.
-8. Classificare vincoli urbanistici, espropriativi, paesaggistici, culturali, ambientali e idrogeologici per fonte, effetto e procedimento.
-9. Trattare salvaguardia, varianti, pubblicità, partecipazione e osservazioni al livello richiesto dalla prova.
-10. Collegare pianificazione, apposizione del vincolo, dichiarazione di pubblica utilità e procedimento espropriativo.
-11. Spiegare l’interfaccia paesaggistica senza assorbire la disciplina specialistica ambientale di `VOL-11`.
-12. Costruire un caso completo che obblighi a identificare piano, livello, vincolo, competenza, procedimento e atto finale.
+- teoria generale del procedimento, della conferenza di servizi e degli atti già coperta da VOL-01 e capitolo 2;
+- categorie d'intervento, CILA, SCIA, permesso, SUE, agibilità, abusi e vigilanza del capitolo 6;
+- progettazione e localizzazione tecnica dell'opera pubblica del capitolo 7;
+- trattazione completa di VIA, VAS, AIA, ambiente e rischio idrogeologico, propri di VOL-11/M-TR04;
+- elenchi enciclopedici delle denominazioni regionali dei piani;
+- procedure regionali o comunali presentate come regole nazionali;
+- termini, durate, valori o automatismi non verificati sulla fonte vigente;
+- equivalenze tra destinazione urbanistica, titolo edilizio, dato catastale, stato legittimo e compatibilità paesaggistica.
 
-## Sezioni da conservare
+## Applicazioni e output obbligatori
 
-Il capitolo non contiene testo preesistente. Vanno conservati:
+1. mappa `scala → piano → funzione → effetto`;
+2. confronto motivato tra piano generale e strumento attuativo;
+3. griglia `destinazione → parametro → modalità attuativa → verifica`;
+4. tabella `vincolo → fonte → oggetto → effetto → atto richiesto`;
+5. microcaso sul rapporto fra previsione urbanistica ed espropriazione;
+6. microcaso su area sottoposta a tutela paesaggistica;
+7. caso integrato su area destinata a servizio con dati mancanti espliciti;
+8. risposta orale sulla lettura multilivello di uno strumento;
+9. sei quiz commentati, uno per nucleo;
+10. checklist finale compilabile.
 
-- titolo e collocazione nella Parte II;
-- profili principali architetto/urbanista e geometra, con utilità anche per altri tecnici;
-- output `caso piano–intervento`;
-- target orientativo di 2.400 parole;
-- coordinamento con il capitolo 6 e con l’Appendice B.
+## Fonti consolidate da usare
 
-## Duplicazioni da evitare
+- `sources/urbanistica-governo-territorio-fonti-ufficiali-2026` per L. n. 1150/1942, D.M. n. 1444/1968 e D.Lgs. n. 42/2004;
+- `sources/d-p-r-8-giugno-2001-n-327-espropriazione-pubblica-utilita` per il raccordo espropriativo;
+- `sources/campione-bandi-tecnici-pa-vol-10-2026` per profili e forme di prova, senza dedurne frequenze statistiche;
+- `sources/modulo-m-tr03-tecnico-ingegneristico-vol-10` per il perimetro editoriale;
+- `topics/urbanistica-governo-territorio` come sintesi consolidata;
+- capitoli 1 e 2 per metodo, ufficio e istruttoria; capitolo 6 solo per il confine urbanistica-edilizia.
 
-- teoria generale del procedimento amministrativo e della conferenza di servizi già assegnata al nucleo comune e al capitolo 2;
-- categorie di intervento edilizio, titoli abilitativi, SUE, agibilità, abusi e vigilanza del capitolo 6;
-- progettazione e localizzazione dell’opera pubblica del capitolo 7;
-- disciplina completa del procedimento espropriativo, da trattare solo nel collegamento piano–vincolo–opera;
-- autorizzazione paesaggistica, tutela culturale e procedimenti ambientali oltre il necessario raccordo;
-- VIA, VAS, AIA, rifiuti e bonifiche, rinviati a `VOL-11`;
-- dettagli della legislazione regionale presentati come uniformi sul territorio nazionale;
-- elenco enciclopedico di sigle e denominazioni regionali dei piani;
-- duplicazione del nucleo PA comune del `VOL-01`.
-
-## Esempi, casi, domande ed esercizi necessari
-
-- mappa `scala–piano–funzione–effetto`;
-- confronto tra piano generale e strumento attuativo;
-- tabella `vincolo–fonte–effetto–verifica`;
-- caso guidato su intervento pubblico o privato non immediatamente conforme al piano;
-- microcaso su area interessata da vincolo paesaggistico;
-- microcaso sul collegamento tra previsione urbanistica ed espropriazione;
-- domanda da commissario sulla gerarchia e sugli effetti degli strumenti;
-- domanda-trappola sulla confusione tra destinazione urbanistica e titolo edilizio;
-- errore tipico: applicare la disciplina di una Regione a un’altra;
-- mini-esercizio di classificazione di piani, vincoli e procedimenti;
-- checklist `piano–norma–vincolo–competenza–procedimento–atto`.
-
-## Fonti da usare
-
-### Disponibili e consolidate
-
-- [[sources/campione-bandi-tecnici-pa-vol-10-2026]];
-- [[sources/modulo-m-tr03-tecnico-ingegneristico-vol-10]];
-- [[sources/d-p-r-8-giugno-2001-n-327-espropriazione-pubblica-utilita]];
-- capitoli 1 e 2 di `M-TR03` per metodo, ufficio, istruttoria e atti;
-- fonte consolidata sul procedimento amministrativo collegata al capitolo 2.
-
-### Fonti ufficiali bloccanti da acquisire
-
-- legge 17 agosto 1942, n. 1150, nel testo vigente e con ricostruzione prudente delle disposizioni ancora applicabili;
-- decreto ministeriale 2 aprile 1968, n. 1444, e successive fonti ufficiali pertinenti agli standard urbanistici;
-- D.P.R. 8 giugno 2001, n. 327, verificato nel testo vigente per il raccordo urbanistica–espropriazione;
-- decreto legislativo 22 gennaio 2004, n. 42, nel testo vigente, per beni paesaggistici, pianificazione e autorizzazione;
-- fonti costituzionali e istituzionali sul governo del territorio e sul riparto delle competenze;
-- almeno un campione controllato di leggi regionali e strumenti comunali, presentato come esempio e non come disciplina nazionale;
-- bandi, tracce e criteri ufficiali che consentano di calibrare profondità e forma della prova;
-- eventuali fonti ufficiali su vincoli ambientali e idrogeologici limitatamente alle distinzioni necessarie.
-
-Ogni fonte deve essere trasformata in source note e collegata a un topic canonico prima dello step 09. La variabilità regionale va dichiarata in ogni sezione pertinente.
+Le fonti ufficiali sono consolidate al cutoff editoriale dichiarato. La scrittura deve comunque qualificare come mobile la disciplina regionale, i piani, le NTA, i vincoli puntuali e la giurisprudenza applicativa.
 
 ## Rinvii consentiti
 
-- `VOL-01`: procedimento, trasparenza, accesso, atti e tecniche di prova, con destinazioni puntuali;
-- capitolo 2: ufficio tecnico, istruttoria, verbale, relazione e responsabilità;
-- capitolo 6: categorie di intervento, titoli edilizi, SUE, vigilanza e abusi;
-- capitolo 7: localizzazione e progettazione dell’opera pubblica;
-- `VOL-11 / M-TR04`: ambiente avanzato e procedimenti ambientali;
-- Appendice B: tavole di confronto tra urbanistica ed edilizia.
+- VOL-01 per procedimento amministrativo e tecniche generali di prova, soltanto con destinazione puntuale verificata;
+- capitolo 2 per istruttoria, documenti e responsabilità dell'ufficio tecnico;
+- capitolo 6 per categorie edilizie, titoli, SUE, stato legittimo e vigilanza;
+- capitolo 7 per progettazione dell'opera pubblica;
+- VOL-11/M-TR04 per ambiente avanzato e procedimenti ambientali.
 
-Il rinvio non può sostituire la teoria su piani, standard, vincoli, espropriazione e interfaccia paesaggistica assegnata al capitolo 5.
+Nessun rinvio può sostituire la teoria assegnata su piani, standard, vincoli, espropriazione e raccordo paesaggistico.
 
-## Review umane richieste
+## Audit specialistici richiesti
 
-- urbanista o pianificatore territoriale;
-- avvocato amministrativista o revisore normativo esperto di governo del territorio;
-- tecnico dell’ente locale con esperienza su strumenti urbanistici;
-- esperto di tutela paesaggistica per il raccordo con il D.Lgs. n. 42/2004;
-- verifica specifica della legislazione regionale usata negli esempi;
-- controllo della vigenza di norme nazionali, standard, vincoli e disciplina espropriativa;
-- controllo del confine con edilizia, ambiente e opere pubbliche.
+- audit automatico urbanistica-edilizia sulla distinzione fra disciplina nazionale e territoriale;
+- controllo di vigenza del pacchetto L. n. 1150/1942, D.M. n. 1444/1968, D.P.R. n. 327/2001 e D.Lgs. n. 42/2004;
+- controllo dei confini con capitoli 2, 6 e 7 e con VOL-11;
+- verifica di ogni valore, termine o sequenza procedurale eventualmente introdotti;
+- controllo che casi e risposte non sostituiscano una pratica professionale né presumano il contenuto di un piano locale;
+- revisione editoriale totale allo step 12; le verifiche specialistiche automatiche devono chiudere ogni criticità prima del text freeze.
 
-## Struttura H1/H2/H3 e budget KDP
+## Struttura H1/H2/H3 e budget
 
 # Urbanistica e governo del territorio
 
-## Apertura, obiettivo e Mappa BANDO — 220 parole
+## Apertura, obiettivo e Mappa BANDO — 250-300 parole
 
-## Urbanistica, pianificazione e governo del territorio — 260 parole
-### Funzioni e interessi pubblici
-### Il sistema multilivello
+## N-TR03-05-01 · Urbanistica, pianificazione e governo del territorio — 620-680 parole
+### Funzioni e interessi
+### Sistema multilivello e variabilità regionale
+### Formazione, pubblicità e partecipazione
+### Verifica 1
 
-## Piani: livelli, contenuti ed effetti — 430 parole
-### Piano generale
-### Strumenti attuativi
-### Piani e atti di settore
+## N-TR03-05-02 · Piani, livelli, contenuti ed effetti — 620-680 parole
+### Scala e funzione degli strumenti
+### Piano generale, attuativi e piani di settore
+### Adozione, approvazione, salvaguardia e varianti
+### Verifica 2
 
-## Zonizzazione, destinazioni e standard — 360 parole
-### Zone, usi e parametri
+## N-TR03-05-03 · Zonizzazione, destinazioni, parametri e standard — 620-680 parole
+### Ambiti, usi e norme tecniche di attuazione
+### Parametri e modalità attuative
 ### Standard e dotazioni territoriali
+### Verifica 3
 
-## Dal piano all’intervento — 300 parole
-### Conformità urbanistica
-### Salvaguardia e varianti
-
-## Vincoli: riconoscerli prima di decidere — 390 parole
+## N-TR03-05-04 · Vincoli e tutele — 620-680 parole
+### Metodo di classificazione
 ### Vincoli urbanistici ed espropriativi
-### Vincoli paesaggistici, culturali e di settore
+### Paesaggio, cultura e discipline di settore
+### Verifica 4
 
-## Espropriazione e pianificazione — 260 parole
-### Vincolo, pubblica utilità e procedimento
+## N-TR03-05-05 · Espropriazione e paesaggio — 620-680 parole
+### Dalla previsione al procedimento ablativo
+### Garanzie e passaggi da non confondere
+### Piano e autorizzazione paesaggistica
+### Verifica 5
 
-## Paesaggio e governo del territorio — 240 parole
-### Piano paesaggistico e verifica dell’intervento
+## N-TR03-05-06 · Caso piano-vincolo-intervento — 680-760 parole
+### Lettura del fascicolo territoriale
+### Soluzione ragionata e dati mancanti
+### Domanda da commissario, trappola ed errore tipico
+### Verifica 6 e checklist
 
-## Caso guidato: piano–vincolo–intervento — 260 parole
+## Riepilogo operativo — 120-180 parole
 
-## Domanda, trappola, errore e mini-esercizio — 190 parole
+Budget complessivo: **4.100-4.500 parole**, **6 quiz commentati**, **1 caso integrato**, almeno **6 verifiche** e più applicazioni brevi. Un solo blocco di sei nuclei rispetta il limite di 5-7 nuclei per blocco di verifica; le verifiche vicine evitano comunque che il controllo dell'apprendimento sia rinviato alla fine.
 
-## Checklist, riferimenti e note di review — 90 parole
+## Condizione per lo step 09
 
-Budget orientativo: **2.800–3.000 parole**. Il target supera le 2.400 parole dell’indice perché il nucleo combina pianificazione, standard, vincoli, espropriazione e paesaggio. La scrittura dovrà restare selettiva; confronti e dettagli ripetitivi confluiranno nell’Appendice B.
-
-## Condizione per lo step di scrittura
-
-Il piano può essere chiuso, ma lo step 09 non deve produrre un capitolo normativo finché le fonti ufficiali bloccanti non sono state consolidate. In particolare, non vanno presentate come nazionali denominazioni, procedure o competenze proprie di singole Regioni.
+Lo step 09 può partire: capitolo, matrice, Bibbia e fonti consolidate sono presenti. Prima della promozione a `format_version: 2` dovranno risultare effettivi tutti e sei i nuclei, le soglie dimensionali, i sei quiz commentati, il caso ragionato e la tracciabilità; la sola etichetta di frontmatter non è sufficiente.
