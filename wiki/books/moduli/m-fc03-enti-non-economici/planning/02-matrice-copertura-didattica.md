@@ -513,3 +513,46 @@ I sei nuclei presentano teoria autonoma, applicazione e verifica e superano la s
 ## Esito Appendice A
 
 I sei nuclei presentano teoria autonoma, applicazione e verifica e superano la soglia dimensionale prevista. Tabelle, scheda, micro-caso, caso ragionato, esercizio, checklist e quiz applicano concetti gia spiegati e non li sostituiscono. Non risultano dimensioni applicabili vuote, dipendenze da materiali interni o dati operativi non tracciati; competenze puntuali, atti, poteri, conseguenze, programma e prove restano subordinati all'audit specialistico dello step 15 e alle fonti ufficiali vigenti.
+
+## Assegnazione pipeline - Appendice B
+
+| Famiglia/profilo | Materia | Concetto/sotto-concetti | Frequenza/peso | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa | Destinazione rinvio |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| M-FC03/tutti | Lessico INPS-INAIL | Metodo lessicale, previdenza, assicurazione, procedimento, distinzioni e laboratorio | alta | [[sources/m-fc03-dossier-redazionale-enti-pubblici-non-economici]]; [[sources/m-fc03-fonti-ufficiali-enti-epne-2026]] | cap. appendice-b-glossario-previdenza-assicurazione-prestazioni | Sei nuclei autonomi su uso del glossario, lessico INPS, lessico INAIL, termini comuni, coppie e laboratorio | Glossari, coppie, protocollo, micro-caso, casi, esercizio e rubrica | Analisi bando, quiz, orale, scritto e caso | Q:6 C:2 E:1 - Quiz 1-6 e casi | completo | Audit specialistico allo step 15 | Capp. 03-05 per sviluppo sistematico |
+
+## Appendice B - overlay Format 2
+
+| Nucleo ID | Famiglia/profilo | Materia | Concetto/sotto-concetti | Frequenza/peso | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa | Destinazione rinvio |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FC03-15-01 | M-FC03/tutti | Metodo lessicale | Definizione operativa, contesto, stabilita, diario e percorso bando-output | alta | [[sources/m-fc03-dossier-redazionale-enti-pubblici-non-economici]] | cap. appendice-b-glossario-previdenza-assicurazione-prestazioni § N-FC03-15-01 | Spiega funzione, criteri e uso del glossario | Protocollo e diario degli errori | Quiz, orale, scritto e caso | Q:1 C:0 E:1 - Quiz 1 e protocollo | completo | Verificare termini sul bando e sulle fonti vigenti |  |
+| N-FC03-15-02 | M-FC03/INPS e amministrativi | Lessico INPS | Previdenza, contribuzione, posizione, requisiti, domanda, istruttoria, servizio e prestazione | alta | [[sources/m-fc03-fonti-ufficiali-enti-epne-2026]] | cap. appendice-b-glossario-previdenza-assicurazione-prestazioni § N-FC03-15-02 | Inquadra rapporto previdenziale e ciclo domanda-esito | Glossario ed esempio della domanda incompleta | Quiz, orale e caso | Q:1 C:1 E:1 - Quiz 2 ed esempio | completo | Audit terminologia della singola tutela | Cap. 03 per sviluppo sistematico |
+| N-FC03-15-03 | M-FC03/INAIL e amministrativi | Lessico INAIL | Assicurazione obbligatoria, rischio, evento, prevenzione, premio, accertamento e prestazione | alta | [[sources/m-fc03-fonti-ufficiali-enti-epne-2026]] | cap. appendice-b-glossario-previdenza-assicurazione-prestazioni § N-FC03-15-03 | Inquadra funzione assicurativa, prevenzione ed evento | Glossario ed esempio sull'evento lavorativo | Quiz, orale e caso | Q:2 C:0 E:1 - Quiz 3 e 5 | completo | Audit terminologia, prestazioni e dati mobili | Cap. 04 per sviluppo sistematico |
+| N-FC03-15-04 | M-FC03/tutti | Procedimento e servizi | Richiesta, procedimento, servizio, ruoli, accesso, trasparenza e protezione dei dati | alta | [[sources/m-fc03-dossier-redazionale-enti-pubblici-non-economici]] | cap. appendice-b-glossario-previdenza-assicurazione-prestazioni § N-FC03-15-04 | Spiega sequenza, soggetti, canali e cautele | Glossario ed esempio di sportello | Quiz, orale e situazionale | Q:1 C:0 E:1 - Quiz 4 ed esempio | completo | Audit accesso, dati e procedure vigenti | Cap. 05 per sviluppo sistematico |
+| N-FC03-15-05 | M-FC03/tutti | Distinzioni | Otto coppie da non confondere, criteri di confronto e conseguenze | alta | [[sources/m-fc03-dossier-redazionale-enti-pubblici-non-economici]] | cap. appendice-b-glossario-previdenza-assicurazione-prestazioni § N-FC03-15-05 | Spiega criteri e confini prima della tabella | Coppie, frasi operative e micro-caso | Quiz, orale, scritto e caso | Q:3 C:1 E:1 - Quiz 2, 3 e 5; micro-caso | completo | Verificare il significato nel contesto della prova |  |
+| N-FC03-15-06 | M-FC03/tutti | Laboratorio | Caso, domanda, trappola, errore, esercizio, rubrica e autovalutazione | alta | [[sources/m-fc03-portali-bandi-concorsi-2023-2026]] | cap. appendice-b-glossario-previdenza-assicurazione-prestazioni § N-FC03-15-06 | Integra classificazione, procedimento e linguaggio professionale | Caso Sara-Marco, esercizio, rubrica e caso finale | Quiz, orale, caso e workbook | Q:6 C:2 E:1 - Verifica commentata e casi | completo | Adattare lessico e profondita al bando |  |
+
+## Checklist dimensionale - Appendice B
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso nella prova | Errore tipico | Verifica | Fonti | Tracciabilita |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FC03-15-01 | ✓ definizione operativa | ✓ orientare decisione e output | ✓ bando e contesto EPNE | ✓ termine, funzione, contesto, stabilita | ✓ parola/istituto e stabile/mobile | ✓ scelta della fonte e della risposta | ✓ test di sostituzione | ✓ quiz, orale, scritto e caso | ✓ definizione isolata | ✓ Quiz 1 | ✓ fonti in riga | ✓ frontmatter e riferimenti leggibili |
+| N-FC03-15-02 | ✓ lessico previdenziale | ✓ qualificare rapporto e richiesta | ✓ funzione INPS | ✓ posizione, requisiti, domanda, istruttoria, servizio, esito | ✓ domanda/diritto e servizio/prestazione | ✓ verifica prima dell'esito | ✓ domanda incompleta | ✓ quiz, orale e caso | ✓ automatismo domanda-diritto | ✓ Quiz 2 | ✓ fonti in riga | ✓ frontmatter e capitolo leggibile |
+| N-FC03-15-03 | ✓ lessico assicurativo | ✓ qualificare rischio, evento e tutela | ✓ funzione INAIL | ✓ rischio, evento, premio, prevenzione, accertamento, prestazione | ✓ prevenzione/prestazione e INPS/INAIL | ✓ corretta attribuzione del contesto | ✓ evento lavorativo | ✓ quiz, orale e caso | ✓ INAIL ridotto al pagamento | ✓ Quiz 3 e 5 | ✓ fonti in riga | ✓ frontmatter e capitolo leggibile |
+| N-FC03-15-04 | ✓ lessico procedimentale | ✓ seguire richiesta ed esito | ✓ servizi EPNE | ✓ ruoli, canali, accesso, dati, integrazione | ✓ sportello/back office e accesso/trasparenza | ✓ trattamento pertinente e risposta motivata | ✓ richiesta allo sportello | ✓ quiz, orale e situazionale | ✓ ruoli intercambiabili | ✓ Quiz 4 | ✓ fonti in riga | ✓ frontmatter e capitolo leggibile |
+| N-FC03-15-05 | ✓ coppie operative | ✓ prevenire scambi terminologici | ✓ prove INPS-INAIL | ✓ otto coppie e criteri | ✓ confini per ogni coppia | ✓ risposta precisa | ✓ micro-caso | ✓ quiz, orale, scritto e caso | ✓ sinonimi apparenti | ✓ Quiz 2, 3 e 5 | ✓ fonti in riga | ✓ frontmatter e riferimenti leggibili |
+| N-FC03-15-06 | ✓ laboratorio integrato | ✓ trasferire il lessico | ✓ sintesi dell'appendice | ✓ caso, domanda, trappola, esercizio, rubrica | ✓ ente, contesto e fase | ✓ risposta senza promesse | ✓ casi Sara-Marco e finale | ✓ quiz, orale, caso e workbook | ✓ parola corretta nel contesto errato | ✓ sei quiz e due casi | ✓ fonti in riga | ✓ frontmatter e riferimenti leggibili |
+
+## Delta step 10 - Appendice B
+
+| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
+| --- | --- | --- | --- | --- |
+| N-FC03-15-01 | parziale | Verificate funzione, criteri della definizione, percorso bando-output e diario | completo | Heading Usare il glossario; Quiz 1 |
+| N-FC03-15-02 | parziale | Verificati rapporto previdenziale, domanda, istruttoria, servizio, distinzioni e conseguenze | completo | Heading Lessico INPS; Quiz 2 |
+| N-FC03-15-03 | parziale | Verificati assicurazione, rischio, evento, prevenzione, accertamento e dati mobili | completo | Heading Lessico INAIL; Quiz 3 e 5 |
+| N-FC03-15-04 | parziale | Verificati sequenza procedimentale, ruoli, accesso, trasparenza e dati | completo | Heading Termini comuni; Quiz 4 |
+| N-FC03-15-05 | parziale | Verificate otto coppie, criteri, conseguenze e trasferimento nelle prove | completo | Heading Coppie da non confondere; micro-caso |
+| N-FC03-15-06 | quasi completo | Verificati laboratorio, rubrica, sei quiz commentati e caso finale | completo | Heading Laboratorio; Verifica e casi |
+
+## Esito Appendice B
+
+I sei nuclei presentano teoria autonoma, applicazione e verifica e superano la soglia dimensionale prevista. Glossari, tabelle, coppie, casi, esercizio, rubrica e quiz applicano concetti gia spiegati e non li sostituiscono. Non risultano dimensioni applicabili vuote, dipendenze da materiali interni, rinvii generici o dati operativi non tracciati; requisiti, importi, termini, procedure e significati dipendenti dal singolo bando restano subordinati alle fonti ufficiali vigenti e all'audit specialistico dello step 15.
