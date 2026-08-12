@@ -5050,3 +5050,11 @@
 - l0: l0/conv-20260812125658-1115num.md
 - atoms:
   - mem-20260812125658-1oj5z78 | result | Esito codex/pipeline-volume/step-19/kdp-layout: procedi -> Completato step 19 VOL-08: master KDP verificato su istanza Book Studio isolata, 231 pagine progressive, 6 front matter, 1 apertura modulo, 13 capitoli, 82 nuclei e indice 82, 13 apparati Verifica, zero overflow/colli...
+
+## 2026-08-12T13:30:09.292Z - VOL-08
+
+- conversation_id: conv-20260812133009-7xwgb8
+- route: codex/pipeline-volume/step-20/page-audit
+- l0: l0/conv-20260812133009-7xwgb8.md
+- atoms:
+  - mem-20260812133009-coavf6 | result | Esito codex/pipeline-volume/step-20/page-audit: procedi -> Completato step 20 VOL-08: audit 231/231 pagine e 12/12 tavole; corretto paginator con TDD per titoli orfani e liste continuate; zero blocker, overflow, collisioni e asset mancanti; tre euristiche medie ricontrollate ...
