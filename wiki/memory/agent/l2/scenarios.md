@@ -5304,3 +5304,12 @@
 - l0: l0/conv-20260812073140-1hfgrdy.md
 - atoms:
   - mem-20260812073140-1187mq9 | result | Esito codex-vol10-cap11-step10: Procedere con il prossimo step della pipeline VOL-10. -> Completato step 10 capitolo 11: matrice aggiornata con sei Nucleo ID, assegnazioni Q/C/E, checklist delle undici dimensioni e delta puntuale; didactic-density senza blocker o warning e 155 test verdi.
+
+## 2026-08-12T07:33:50.555Z - VOL-10/M-TR03
+
+- conversation_id: conv-20260812073350-t9wqy0
+- route: codex-vol10-cap11-step11-humanizer
+- l0: l0/conv-20260812073350-t9wqy0.md
+- atoms:
+  - mem-20260812073350-1fxrlh2 | workflow | Procedere con lo step 11 Humanizer del capitolo 11 VOL-10.
+  - mem-20260812073350-1lya8v1 | result | Esito codex-vol10-cap11-step11-humanizer: Procedere con lo step 11 Humanizer del capitolo 11 VOL-10. -> Completato step 11 capitolo 11 con doppia passata Humanizer: rimosse formule seriali e simmetrie artificiali, preservati significato, struttura, source_refs e riferimenti normativi; nuclei 659-680 parole, citation-gua...

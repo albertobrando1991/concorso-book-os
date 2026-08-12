@@ -69,7 +69,7 @@ La documentazione dell'ente completa il quadro nazionale. Inventario, segnalazio
 | Rete | quale collegamento garantisce? | inventario, gerarchia funzionale, alternative | confondere importanza e sicurezza |
 | Servizio | chi e che cosa dipende dal collegamento? | traffico, utenze, funzioni pubbliche, deviazioni | usare la continuita per rinviare cautele |
 
-Il punto da trattenere e semplice: il giudizio tecnico nasce sull'opera, ma la priorita gestionale deve guardare anche la rete. Il candidato non deve inventare soglie di traffico o classi di strada se non sono date dalla traccia o dagli atti; deve invece mostrare quali informazioni servono e come incidono sulla decisione.
+Il giudizio tecnico riguarda l'opera; la priorita gestionale riguarda anche la rete. Se la traccia o gli atti non forniscono soglie di traffico e classi stradali, il candidato non le presume. Indica invece quali informazioni mancano e spiega come potrebbero cambiare la decisione.
 
 ### Applicazione al profilo tecnico
 
@@ -77,7 +77,7 @@ In un ufficio tecnico comunale o provinciale, una segnalazione su buche, infiltr
 
 Nella prova scritta questa impostazione evita due errori. Il primo e parlare soltanto di codice dei contratti, dimenticando che il problema e una rete in esercizio. Il secondo e fare il progettista dell'opera reale, con valori e soluzioni non richiesti. La risposta concorsuale efficace spiega il metodo: identificare opera e servizio, raccogliere evidenze, valutare conseguenze, coinvolgere competenze adeguate, motivare eventuali cautele e aggiornare la documentazione.
 
-Quando mancano dati, il profilo tecnico non chiude la risposta con un'opinione. Indica il dato mancante, spiega perche incide su servizio o rischio e propone il prossimo controllo compatibile con ruolo e atti dell'ente.
+Quando mancano dati, un'opinione non basta. Il tecnico nomina il dato assente, ne chiarisce l'incidenza sul servizio o sul rischio e propone un controllo compatibile con il proprio ruolo e con gli atti dell'ente.
 
 ### Controllo vicino
 
@@ -104,13 +104,13 @@ La stessa anomalia puo avere significati diversi secondo posizione, materiale, s
 | Pile, spalle, fondazioni | portano al terreno | lesioni, scalzamenti, movimenti, erosioni | approfondimento geotecnico o strutturale |
 | Giunti e drenaggi | proteggono esercizio e durabilita | infiltrazioni, ostruzioni, rotture | manutenzione, controllo e verifica effetti |
 
-Lo schema non sostituisce una diagnosi. Serve a non perdere il legame tra parte dell'opera, funzione e possibile conseguenza.
+Lo schema non sostituisce la diagnosi. Mantiene visibile il rapporto fra la parte dell'opera, la sua funzione e le possibili conseguenze dell'anomalia.
 
 ### Applicazione al profilo tecnico
 
 Il tecnico dell'ente deve scrivere in modo che un altro soggetto possa ricostruire l'osservazione. "Ponte rovinato" non basta. Sono piu utili frasi come: infiltrazione visibile in corrispondenza del giunto, materiale accumulato presso scarico, distacco localizzato su elemento indicato, parte non accessibile durante il sopralluogo. La documentazione deve distinguere cio che si vede da cio che si presume.
 
-Nella risposta orale, la commissione puo chiedere come si passa da un'anomalia alla scelta di approfondire. La risposta corretta non e elencare difetti a memoria, ma spiegare la sequenza: individuare l'opera, localizzare il segno, verificare parte e funzione, valutare urgenza apparente, separare fatto e ipotesi, attivare competenze e aggiornare il fascicolo. Se la traccia non fornisce prove o rilievi, il candidato non attribuisce cause certe e non propone interventi strutturali puntuali.
+All'orale, la commissione puo chiedere come un'anomalia conduca alla scelta di approfondire. Un elenco di difetti imparato a memoria non risponde alla domanda. Occorre individuare l'opera, localizzare il segno, riconoscere la funzione della parte interessata, stimare l'urgenza apparente, separare il fatto dall'ipotesi, attivare le competenze necessarie e aggiornare il fascicolo. Senza prove o rilievi, non si attribuiscono cause certe e non si prescrivono interventi strutturali puntuali.
 
 Questa prudenza non significa immobilismo. Un'anomalia puo richiedere subito una segnalazione, una protezione provvisoria, un controllo del traffico o una verifica di accessibilita, anche prima dell'accertamento conclusivo. La differenza sta nel linguaggio: si motiva una cautela per gestire l'incertezza, non si dichiara una causa senza metodo. Nei profili da istruttore, questa distinzione vale quanto la conoscenza tecnica; nei profili da funzionario, mostra capacita di coordinare responsabilita, dati e decisioni.
 
@@ -163,7 +163,7 @@ Che cosa significa documentazione storica incompleta? Significa che la conoscenz
 
 Il rischio infrastrutturale non e un'impressione complessiva. Va scomposto in componenti leggibili. La pericolosita riguarda fenomeni capaci di sollecitare o danneggiare l'opera: eventi idraulici, geologici, sismici, ambientali o di esercizio, secondo il caso. La vulnerabilita riguarda la propensione dell'opera a subire danno, tenendo conto di schema, materiali, dettagli, degrado, trasformazioni e conoscenza disponibile. L'esposizione e le conseguenze riguardano persone, traffico, servizi, funzioni pubbliche, alternative e impatti di un disservizio.
 
-Tenere separate queste componenti e essenziale. Un'opera con difetti evidenti ma su tratta secondaria pone problemi diversi da un'opera con segni meno appariscenti ma collocata su collegamento privo di alternative. La distinzione non serve a minimizzare l'una o l'altra situazione: serve a motivare priorita, cautele e approfondimenti in modo difendibile.
+Le componenti vanno tenute separate. Un'opera con difetti evidenti su una tratta secondaria pone problemi diversi da un'opera con segni meno appariscenti posta su un collegamento privo di alternative. Nessuna delle due situazioni va minimizzata: la distinzione permette di motivare priorita, cautele e approfondimenti.
 
 Le Linee guida sui ponti esistenti introducono una classificazione dell'attenzione che ordina il patrimonio a scala di rete e orienta attivita successive. Questa classificazione non e un certificato di sicurezza e non coincide con una verifica numerica della singola opera. E una priorita gestionale fondata su dati, ispezioni e fattori considerati dal metodo ufficiale. Per questo il candidato deve evitare formule come "classe bassa uguale ponte sicuro" o "classe alta uguale chiusura automatica".
 
@@ -182,7 +182,7 @@ La priorita gestionale, invece, risponde a una domanda diversa: con quali azioni
 
 ### Applicazione al profilo tecnico
 
-Un profilo tecnico di ente locale lavora spesso sulla frontiera tra urgenza, budget e responsabilita. La scelta non puo essere ridotta a "intervenire dove costa meno" o "aspettare se non ci sono crolli visibili". Occorre motivare la priorita: evidenze osservate, qualita del dato, funzione della tratta, evoluzione del fenomeno, competenze disponibili, interferenze con traffico e servizi, possibilita di cautela provvisoria, necessita di valutazione specialistica.
+Il tecnico di un ente locale deve conciliare urgenza, risorse e responsabilita. Non puo limitarsi a scegliere l'intervento meno costoso, né attendere finche non compaiano danni vistosi. La priorita va motivata con le evidenze osservate, la qualita dei dati, la funzione della tratta e l'evoluzione del fenomeno. Contano anche le competenze disponibili, le interferenze con traffico e servizi, le cautele provvisorie praticabili e l'eventuale necessita di una valutazione specialistica.
 
 In una prova teorico-pratica, la risposta migliore distingue quattro colonne: quadro nazionale, documentazione dell'ente, giudizio tecnico e priorita gestionale. Il quadro nazionale offre il metodo; la documentazione dell'ente dice cosa si sa; il giudizio tecnico appartiene alla valutazione qualificata della singola opera; la priorita gestionale ordina azioni e risorse. Confondere queste colonne produce risposte deboli e, nella pratica amministrativa, decisioni poco tracciabili.
 
@@ -223,7 +223,7 @@ Nel lavoro dell'ente, il monitoraggio e utile se alimenta decisioni. Un sensore 
 
 La priorita di rete nasce dall'incrocio tra sicurezza, possibile evoluzione, servizio, incertezza del dato, risorse e fattibilita dell'azione. Età dell'opera, costo stimato o pressione politica non bastano da soli. Una graduatoria difendibile dichiara criteri, fonti, limiti e riesame. Se una risorsa non e subito disponibile, il problema non scompare: occorre motivare cautele temporanee, controlli e aggiornamento della programmazione.
 
-Per un profilo tecnico, la frase da evitare e "il sistema segnala, quindi si interviene". Il sistema informa; l'ente decide attraverso ruoli, atti e competenze. La frase corretta e: il dato sostiene una valutazione, la valutazione orienta una scelta, la scelta produce un'azione controllabile e l'esito rientra nel fascicolo. Cosi monitoraggio e manutenzione diventano parte del ciclo di vita, non strumenti separati.
+La formula "il sistema segnala, quindi si interviene" salta tutti i passaggi decisionali. Il sistema informa; l'ente decide attraverso ruoli, atti e competenze. Il dato sostiene una valutazione, dalla quale deriva una scelta motivata. L'azione viene poi controllata e il suo esito rientra nel fascicolo. Monitoraggio e manutenzione appartengono cosi allo stesso ciclo di gestione.
 
 Il controllo successivo e parte della decisione: senza verifica dell'esito, manutenzione e cautela restano atti isolati.
 
@@ -254,15 +254,15 @@ Il secondo passaggio e separare i piani decisionali. Il quadro nazionale indica 
 
 ### Applicazione al profilo tecnico
 
-Una soluzione concorsuale solida puo essere scritta cosi. Prima, il tecnico registra le evidenze con localizzazione, data, foto e parti non accessibili. Poi verifica il fascicolo e segnala che la documentazione storica incompleta limita la conoscenza. Quindi controlla il significato dello scostamento strumentale: calibrazione, continuita della serie, condizioni ambientali, coerenza con altri dati e piano di monitoraggio. Nel frattempo valuta, con i soggetti competenti, se servono cautele di esercizio o controlli immediati, tenendo conto che il collegamento serve due comuni e non ha alternativa equivalente.
+Nella prova, il tecnico registra anzitutto le evidenze: localizzazione, data, fotografie e parti non accessibili. Consulta poi il fascicolo e segnala che la documentazione storica incompleta limita la conoscenza dell'opera. Lo scostamento strumentale richiede un controllo della calibrazione, della continuita della serie, delle condizioni ambientali e della coerenza con gli altri dati e con il piano di monitoraggio. In parallelo, i soggetti competenti valutano eventuali cautele di esercizio o controlli immediati, considerando che il collegamento serve due comuni e non ha un'alternativa equivalente.
 
-La risposta non deve dire "il ponte e da chiudere" se la traccia non fornisce elementi sufficienti, ma non deve nemmeno dire "nessun allarme, nessun problema". La formula corretta e: fatto osservato, dato mancante, rischio da qualificare, competenza necessaria, cautela proporzionata, verifica tecnica, decisione aggiornata. Questo schema vale per relazione scritta, orale e quesito situazionale.
+Se la traccia non offre elementi sufficienti, non si puo concludere che "il ponte e da chiudere". Sarebbe altrettanto infondato sostenere che "nessun allarme" significhi "nessun problema". La risposta ricostruisce il fatto osservato, i dati mancanti, il rischio da qualificare, la competenza necessaria, le cautele proporzionate e la verifica tecnica. La decisione viene aggiornata quando arrivano nuovi esiti. Lo stesso criterio vale nella relazione scritta, all'orale e nel quesito situazionale.
 
-Il caso si chiude aggiornando fascicolo, classificazione, programma di ispezioni, eventuale monitoraggio e priorita di intervento sulla base degli esiti. Se viene eseguita una manutenzione sul giunto o sul drenaggio, occorre controllare l'efficacia dell'azione. Se emerge un problema strutturale, il percorso cambia livello e richiede valutazione e progettazione adeguate. In ogni caso, il tecnico pubblico deve lasciare una traccia comprensibile della decisione.
+Gli esiti aggiornano il fascicolo, la classificazione, il programma delle ispezioni, l'eventuale monitoraggio e le priorita d'intervento. Dopo una manutenzione sul giunto o sul drenaggio, l'ente ne controlla l'efficacia. Se emerge un problema strutturale, occorrono una valutazione e una progettazione adeguate. Ogni passaggio deve lasciare una traccia comprensibile della decisione.
 
-Nel trasferimento alla prova, la forma conta. Una risposta breve puo usare sei righe: fatto, dato mancante, rischio, competenza, cautela, verifica. Una risposta estesa puo aggiungere tabella attivita-dato-esito e riferimenti normativi leggibili. Un orale puo chiudere con il principio di prudenza: non minimizzare il segnale, non inventare la diagnosi, non confondere priorita di rete con sicurezza strutturale.
+Anche la forma della risposta conta. In poche righe si possono ordinare fatto, dato mancante, rischio, competenza, cautela e verifica. Se lo spazio lo consente, una tabella attivita-dato-esito rende visibile il ragionamento e lascia posto ai riferimenti normativi. All'orale conviene chiudere con una regola di prudenza: non minimizzare il segnale, non inventare la diagnosi e non confondere la priorita di rete con la sicurezza strutturale.
 
-La commissione valuta proprio questa maturita: riconoscere il limite dei dati e, nello stesso tempo, proporre un'azione tracciabile. La qualita della decisione dipende anche dalla chiarezza con cui vengono dichiarati limiti, responsabilita e passaggi ancora necessari.
+La commissione valuta la capacita di riconoscere i limiti dei dati e di proporre comunque un'azione tracciabile. Limiti, responsabilita e passaggi ancora necessari devono risultare chiari.
 
 ### Controllo vicino
 
