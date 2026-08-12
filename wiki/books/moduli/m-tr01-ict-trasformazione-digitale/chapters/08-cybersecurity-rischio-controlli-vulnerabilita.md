@@ -410,11 +410,11 @@ La tabella collega ogni nucleo a un apparato esistente nello stesso capitolo. Il
 | Nucleo ID | Apparato di verifica |
 | --- | --- |
 | `N-TR01-08-01` | Caso guidato: portale per le domande |
-| `N-TR01-08-02` | Mini-esercizi e quiz, n. 6 |
+| `N-TR01-08-02` | Costruisci uno scenario distinguendo minaccia, vulnerabilità, evento e impatto. |
 | `N-TR01-08-03` | Laboratorio: costruire una risk matrix |
-| `N-TR01-08-04` | Mini-esercizi e quiz, n. 7 |
+| `N-TR01-08-04` | Indica un controllo preventivo, uno detective e uno compensativo per lo stesso scenario. |
 | `N-TR01-08-05` | Micro-verifica: confine di fiducia |
-| `N-TR01-08-06` | Mini-esercizi e quiz, nn. 4–5 |
+| `N-TR01-08-06` | Quale tecnica analizza un’applicazione in esecuzione? |
 
 ## ▣ Verifica
 

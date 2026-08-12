@@ -498,7 +498,7 @@ La tabella collega ogni nucleo a un apparato esistente nello stesso capitolo. Il
 
 | Nucleo ID | Apparato di verifica |
 | --- | --- |
-| `N-TR01-13-01` | Mini-esercizi, Leggi la traccia |
+| `N-TR01-13-01` | Leggi la traccia |
 | `N-TR01-13-02` | Quiz 2 |
 | `N-TR01-13-03` | Quiz 3 |
 | `N-TR01-13-04` | Elaborato |

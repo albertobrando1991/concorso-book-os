@@ -61,6 +61,7 @@ const invalidDimensionStates = [...canonicalMatrix.matchAll(/(?:✓|âœ“)\s*o
 const unvalidatedNumericQce = matrixRows.filter((row) => /(?:Q|C|E):\d+/.test(row.verification || ""))
 const invalidOpenStates = matrixRows.flatMap((row) => [row.sources, row.theoreticalCoverage, row.application, row.competitionOutput, row.verification].some((value) => !/^(?:open:.*step 1[3-8]|verified:)/i.test(value || '')) ? [row.nucleusId] : [])
 const genericEvidenceRows = matrixRows.filter((row) => /source_refs del capitolo|esempio, caso o applicazione nel nucleo|output tecnico o concorsuale del nucleo|verifica, caso o esercizio del capitolo/i.test(`${row.sources} ${row.application} ${row.competitionOutput} ${row.verification}`))
+const apparatusFailures = chapters.flatMap((chapter) => validateVerificationApparatus(chapter).map((failure) => `${chapter.file}: ${failure}`))
 const failures = [
   chapters.length !== manifest.chapters.length ? `capitoli del manifest mancanti: ${expectedChapterFiles.filter((file) => !fs.existsSync(path.join(chaptersRoot, file))).join(', ')}` : '',
   expectedIds.length !== 82 ? `manifest incoerente: attesi 82 nuclei, dichiarati ${expectedIds.length}` : '',
@@ -84,6 +85,7 @@ const failures = [
   unvalidatedNumericQce.length ? `Q/C/E numerici senza mapping atomico: ${unvalidatedNumericQce.map((row) => row.nucleusId).join(', ')}` : "",
   invalidOpenStates.length ? `stati open senza reviewTarget: ${invalidOpenStates.join(', ')}` : "",
   genericEvidenceRows.length ? `evidenze non atomiche nella matrice: ${genericEvidenceRows.map((row) => row.nucleusId).join(', ')}` : "",
+  apparatusFailures.length ? `apparati di verifica non validi: ${apparatusFailures.join(', ')}` : "",
   coverage.blockers.length ? `blocker di copertura: ${coverage.blockers.map((item) => `${item.row}:${item.code}`).join(", ")}` : ""
 ].filter(Boolean)
 const result = {
@@ -113,7 +115,78 @@ function inspectChapter(file) {
   const sections = new Map(matches.map((match, index) => [match[1], content.slice(match.index + match[0].length, index + 1 < matches.length ? matches[index + 1].index : content.length)]))
   const malformed = [...content.matchAll(/^## (N-[^\s\u00b7]+).*$/gm)].map((match) => match[1]).filter((id) => !/^N-TR01-\d{2}-\d{2}$/.test(id))
   const sourceRefs = [...((/^source_refs:\s*\[([^\]]*)\]/m.exec(content)?.[1] || '').matchAll(/["']([^"']+)["']/g))].map((match) => match[1])
-  return { file, number, nucleusIds, titles, sections, sourceRefs, malformed, ...analyzeDidacticDensity(content) }
+  return { file, number, nucleusIds, titles, sections, sourceRefs, content, apparatus: parseVerificationApparatus(content), malformed, ...analyzeDidacticDensity(content) }
+}
+function parseVerificationApparatus(content) {
+  const markers = [...content.matchAll(/^## Apparato di verifica dei nuclei\s*$/gm)]
+  const sections = markers.map((marker) => {
+    const nextHeading = /^## (?!#)/gm
+    nextHeading.lastIndex = (marker.index || 0) + marker[0].length
+    const next = nextHeading.exec(content)
+    return { start: marker.index || 0, end: next?.index ?? content.length, body: content.slice((marker.index || 0) + marker[0].length, next?.index ?? content.length) }
+  })
+  const searchable = sections.reduceRight((text, section) => text.slice(0, section.start) + text.slice(section.end), content)
+  if (sections.length !== 1) return { rows: [], count: sections.length, rowErrors: [], units: readerVisibleUnits(searchable) }
+
+  const lines = sections[0].body.split(/\r?\n/)
+  const headerPattern = /^\|\s*Nucleo ID\s*\|\s*Apparato di verifica\s*\|\s*$/
+  const headers = lines.map((line, index) => headerPattern.test(line.trim()) ? index : -1).filter((index) => index >= 0)
+  if (headers.length !== 1 || !/^\|\s*---\s*\|\s*---\s*\|\s*$/.test(lines[headers[0] + 1]?.trim() || '')) return { rows: [], count: headers.length, rowErrors: [], units: readerVisibleUnits(searchable) }
+
+  const rows = []
+  const rowErrors = []
+  for (const line of lines.slice(headers[0] + 2)) {
+    if (!line.trim().startsWith('|')) break
+    const match = /^\|\s*`(N-TR01-\d{2}-\d{2})`\s*\|\s*(.*?)\s*\|\s*$/.exec(line.trim())
+    if (!match) rowErrors.push(line.trim())
+    else rows.push({ id: match[1], target: match[2] })
+  }
+  return { rows, count: 1, rowErrors, units: readerVisibleUnits(searchable) }
+}
+function readerVisibleUnits(content) {
+  const units = new Set()
+  for (const rawLine of content.split(/\r?\n/)) {
+    const line = rawLine.trim()
+    if (!line || line.startsWith('|')) continue
+    addReaderUnit(units, line)
+    const withoutNumericPrefix = line.replace(/^(?:\*\*)?\d+\.?(?:\*\*)?\s+/, '')
+    if (withoutNumericPrefix !== line) addReaderUnit(units, withoutNumericPrefix)
+    for (const sentence of line.split(/(?<=[.!?])\s+/)) addReaderUnit(units, sentence)
+    const plainLine = line.replace(/[*`]/g, '')
+    for (const sentence of plainLine.split(/(?<=[.!?])\s+/)) addReaderUnit(units, sentence)
+    for (const match of line.matchAll(/\*\*([^*]+)\*\*/g)) addReaderUnit(units, match[1])
+  }
+  return units
+}
+function addReaderUnit(units, value) {
+  const normalized = normalizeApparatus(value)
+  if (normalized) units.add(normalized)
+}
+function normalizeApparatus(value) {
+  return value
+    .replace(/^[#>\s]+/, '')
+    .replace(/^[*+-]\s+/, '')
+    .replace(/[*`]/g, '')
+    .replace(/^(?:\d+\.)\s+/, '')
+    .replace(/\\s+/g, ' ')
+    .trim()
+    .replace(/[.?!]+$/, '')
+    .toLowerCase()
+}
+function validateVerificationApparatus(chapter) {
+  const errors = []; const { rows, count, rowErrors, units } = chapter.apparatus
+  if (count !== 1) errors.push('table missing or duplicated')
+  if (rowErrors.length) errors.push('malformed table row')
+  const ids = rows.map((row) => row.id); const expected = new Set(chapter.nucleusIds)
+  for (const id of chapter.nucleusIds) if (!ids.includes(id)) errors.push(`missing ${id}`)
+  for (const id of duplicates(ids)) errors.push(`duplicate ${id}`)
+  for (const id of ids.filter((id) => !expected.has(id))) errors.push(`extra ${id}`)
+  for (const row of rows) {
+    const target = normalizeApparatus(row.target)
+    if (!target) errors.push(`empty target ${row.id}`)
+    else if (!units.has(target)) errors.push(`missing target ${row.id}`)
+  }
+  return errors
 }
 function writeCanonicalMatrix(chapterRows) {
   const rows = chapterRows.flatMap((chapter) => chapter.nucleusIds.map((id) => {
@@ -143,7 +216,27 @@ function parseIndexRows(block) {
   })
 }
 
-function stripFenced(content) { return content.replace(/^```[^\n]*\n[\s\S]*?^```\s*$/gm, '') }
+function stripFenced(content) {
+  const withoutComments = content.replace(/<!--[\s\S]*?(?:-->|$)/g, '')
+  const visible = []
+  let fence = null
+  for (const line of withoutComments.split(/\r?\n/)) {
+    if (!fence) {
+      const opener = /^ {0,3}(`{3,}|~{3,})(.*)$/.exec(line)
+      if (opener) {
+        fence = { character: opener[1][0], length: opener[1].length }
+        continue
+      }
+      visible.push(line)
+      continue
+    }
+    const escaped = escapeRegex(fence.character)
+    const closer = new RegExp('^ {0,3}' + escaped + '{' + fence.length + ',}\\s*$')
+    if (closer.test(line)) fence = null
+  }
+  return visible.join('\n')
+}
+
 function replaceBlock(content, start, end, block) {
   const pattern = new RegExp(`${escapeRegex(start)}[\\s\\S]*?${escapeRegex(end)}`)
   return pattern.test(content) ? content.replace(pattern, block) : `${content.trimEnd()}\n\n${block}\n`

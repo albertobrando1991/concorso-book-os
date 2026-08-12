@@ -384,7 +384,7 @@ La tabella collega ogni nucleo a un apparato esistente nello stesso capitolo. Il
 | `N-TR01-12-03` | Quiz 3 — SLA, SLI e KPI |
 | `N-TR01-12-04` | Quiz 4 — Governo dell'esecuzione |
 | `N-TR01-12-05` | Quiz 5 — Sicurezza e filiera |
-| `N-TR01-12-06` | Mini-esercizi e soluzioni, esercizio 3 |
+| `N-TR01-12-06` | Il fornitore propone una nuova versione il giorno prima del rilascio. Quali evidenze chiedere? |
 | `N-TR01-12-07` | Quiz 6 — Portabilità ed uscita |
 
 ## ▣ Verifica

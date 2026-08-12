@@ -457,7 +457,7 @@ La tabella collega ogni nucleo a un apparato esistente nello stesso capitolo. Il
 | `N-TR01-04-03` | Esercizio 2 — Query |
 | `N-TR01-04-04` | Quiz 5 |
 | `N-TR01-04-05` | Quiz 6 |
-| `N-TR01-04-06` | Caso guidato: diagnosticare una base dati |
+| `N-TR01-04-06` | Caso guidato: diagnosticare una base dati delle pratiche |
 
 ## ▣ Verifica
 

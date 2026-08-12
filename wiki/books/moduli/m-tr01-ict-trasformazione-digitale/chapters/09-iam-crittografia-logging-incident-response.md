@@ -172,11 +172,11 @@ La tabella collega ogni nucleo a un apparato esistente nello stesso capitolo. Il
 | Nucleo ID | Apparato di verifica |
 | --- | --- |
 | `N-TR01-09-01` | Micro-verifica: cambio di ruolo |
-| `N-TR01-09-02` | Sei quiz commentati, n. 1 |
-| `N-TR01-09-03` | Sei quiz commentati, n. 3 |
-| `N-TR01-09-04` | Sei quiz commentati, n. 4 |
+| `N-TR01-09-02` | Un login riuscito dimostra automaticamente che l'utente può approvare una pratica? |
+| `N-TR01-09-03` | Hash e cifratura sono equivalenti? |
+| `N-TR01-09-04` | Un alert equivale a un incidente? |
 | `N-TR01-09-05` | Caso guidato: account privilegiato compromesso |
-| `N-TR01-09-06` | Sei quiz commentati, n. 6 |
+| `N-TR01-09-06` | Una notifica cyber coincide sempre con un data breach? |
 
 ## ▣ Verifica
 

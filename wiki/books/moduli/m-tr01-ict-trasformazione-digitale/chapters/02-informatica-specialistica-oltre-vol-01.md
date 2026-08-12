@@ -324,8 +324,8 @@ La tabella collega ogni nucleo a un apparato esistente nello stesso capitolo. Il
 
 | Nucleo ID | Apparato di verifica |
 | --- | --- |
-| `N-TR01-02-01` | Mini-caso |
-| `N-TR01-02-02` | Mini-esercizio |
+| `N-TR01-02-01` | Mini-caso. Una CPU più rapida non migliora sensibilmente un'elaborazione. |
+| `N-TR01-02-02` | Quante configurazioni distingue? |
 | `N-TR01-02-03` | Quiz 2 |
 | `N-TR01-02-04` | Quiz 3 |
 | `N-TR01-02-05` | Quiz 4 |

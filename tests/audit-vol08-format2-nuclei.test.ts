@@ -189,11 +189,159 @@ describe("audit-vol08-format2-nuclei", () => {
     const ledger = matrix.split("<!-- format-2-nucleus-reconciliation:start -->")[1].split("<!-- format-2-nucleus-reconciliation:end -->")[0]
     expect(ledger).not.toContain("verified:")
   })
+  it("accepts the baseline atomic verification mappings", () => {
+    expect(audit(fixtureRoot()).status).toBe(0)
+  })
+
+  it("rejects a missing atomic verification mapping", () => {
+    const root = fixtureRoot(); const chapter = join(root, moduleRelative, "chapters", "01-lavorare-ict-pa-ruoli-enti-prove.md")
+    writeFileSync(chapter, readFileSync(chapter, "utf8").replace(/\| `N-TR01-01-01` \| [^\n]+\n/, ""), "utf8")
+    expect(audit(root).status).not.toBe(0)
+  })
+
+  it("rejects a duplicated atomic verification mapping", () => {
+    const root = fixtureRoot(); const chapter = join(root, moduleRelative, "chapters", "01-lavorare-ict-pa-ruoli-enti-prove.md")
+    writeFileSync(chapter, readFileSync(chapter, "utf8").replace(/(## Apparato di verifica dei nuclei[\s\S]*?\| --- \| --- \|)/, "$1\n| `N-TR01-01-01` | Quiz 1 |"), "utf8")
+    expect(audit(root).status).not.toBe(0)
+  })
+
+  it("rejects an empty or absent verification target", () => {
+    const root = fixtureRoot(); const chapter = join(root, moduleRelative, "chapters", "01-lavorare-ict-pa-ruoli-enti-prove.md")
+    writeFileSync(chapter, readFileSync(chapter, "utf8").replace(/(\| `N-TR01-01-01` \| )[^\n]+/, "$1"), "utf8")
+    expect(audit(root).status).not.toBe(0)
+  })
+
+  it("rejects a target that exists only in a terminal apparatus table", () => {
+    const root = fixtureRoot()
+    const chapter = join(root, moduleRelative, "chapters", "10-data-governance-open-data-interoperabilita.md")
+    const source = readFileSync(chapter, "utf8")
+    const table = source.match(/^## Apparato di verifica dei nuclei[\s\S]*?(?=^## (?!Apparato di verifica dei nuclei))/m)?.[0]
+    expect(table).toBeTruthy()
+    const withoutTable = source.replace(table!, "").replace("**Quiz 1.** La governance del dato coincide con l'amministrazione tecnica del database?", "**Quiz sostitutivo.** La domanda è stata spostata.")
+    writeFileSync(chapter, `${withoutTable.trimEnd()}\n\n${table}\n`, "utf8")
+    expect(audit(root).status).not.toBe(0)
+  })
+
+  it("rejects a duplicated entire apparatus table", () => {
+    const root = fixtureRoot()
+    const chapter = join(root, moduleRelative, "chapters", "01-lavorare-ict-pa-ruoli-enti-prove.md")
+    const source = readFileSync(chapter, "utf8")
+    const table = source.match(/^## Apparato di verifica dei nuclei[\s\S]*?(?=^## (?!Apparato di verifica dei nuclei))/m)?.[0]
+    expect(table).toBeTruthy()
+    writeFileSync(chapter, source.replace(table!, `${table}\n\n${table}`), "utf8")
+    expect(audit(root).status).not.toBe(0)
+  })
+
+  it("accepts bold labels and numbered group items after Markdown normalization", () => {
+    const root = fixtureRoot()
+    const cap10 = join(root, moduleRelative, "chapters", "10-data-governance-open-data-interoperabilita.md")
+    const cap12 = join(root, moduleRelative, "chapters", "12-procurement-ict-gestione-fornitori.md")
+    const cap13 = join(root, moduleRelative, "chapters", "13-laboratorio-prove-ict.md")
+    writeFileSync(cap10, readFileSync(cap10, "utf8").replace("| `N-TR01-10-01` | Quiz 1. La governance del dato coincide con l'amministrazione tecnica del database? |", "| `N-TR01-10-01` | **Quiz 1.** La governance del dato coincide con l'amministrazione tecnica del database? |"), "utf8")
+    writeFileSync(cap12, readFileSync(cap12, "utf8").replace("| `N-TR01-12-06` | Il fornitore propone una nuova versione il giorno prima del rilascio. Quali evidenze chiedere? |", "| `N-TR01-12-06` | **3.** Il fornitore propone una nuova versione il giorno prima del rilascio. Quali evidenze chiedere? |"), "utf8")
+    writeFileSync(cap13, readFileSync(cap13, "utf8").replace("| `N-TR01-13-01` | Leggi la traccia |", "| `N-TR01-13-01` | **Leggi la traccia** |"), "utf8")
+    expect(audit(root).status).toBe(0)
+  })
+  it("rejects a target that is only a prefix of a reader-visible unit", () => {
+    const root = fixtureRoot()
+    const chapter = join(root, moduleRelative, "chapters", "01-lavorare-ict-pa-ruoli-enti-prove.md")
+    writeFileSync(chapter, readFileSync(chapter, "utf8").replace("| `N-TR01-01-01` | Quiz 2 |", "| `N-TR01-01-01` | Quiz |"), "utf8")
+    expect(audit(root).status).not.toBe(0)
+  })
+
+  it("rejects a target that contains a reader-visible unit as a substring", () => {
+    const root = fixtureRoot()
+    const chapter = join(root, moduleRelative, "chapters", "01-lavorare-ict-pa-ruoli-enti-prove.md")
+    writeFileSync(chapter, readFileSync(chapter, "utf8").replace("| `N-TR01-01-01` | Quiz 2 |", "| `N-TR01-01-01` | Quiz 2 aggiuntivo |"), "utf8")
+    expect(audit(root).status).not.toBe(0)
+  })
+
+  it("rejects a second apparatus table under one heading", () => {
+    const root = fixtureRoot()
+    const chapter = join(root, moduleRelative, "chapters", "01-lavorare-ict-pa-ruoli-enti-prove.md")
+    const source = readFileSync(chapter, "utf8")
+    const second = "| Nucleo ID | Apparato di verifica |\n| --- | --- |\n| `N-TR01-01-01` | Quiz 2 |"
+    writeFileSync(chapter, source.replace("## ▣ Verifica — Profilo, bando e piano specialistico", `${second}\n\n## ▣ Verifica — Profilo, bando e piano specialistico`), "utf8")
+    expect(audit(root).status).not.toBe(0)
+  })
+
+  it("rejects a malformed table-like apparatus row", () => {
+    const root = fixtureRoot()
+    const chapter = join(root, moduleRelative, "chapters", "01-lavorare-ict-pa-ruoli-enti-prove.md")
+    writeFileSync(chapter, readFileSync(chapter, "utf8").replace("| `N-TR01-01-01` | Quiz 2 |", "| `N-TR01-01-01` | Quiz 2 |\n| invalid | Quiz 2 |"), "utf8")
+    expect(audit(root).status).not.toBe(0)
+  })
+  it("ignores apparatus-looking tables inside fenced code", () => {
+    const root = fixtureRoot()
+    const chapter = join(root, moduleRelative, "chapters", "01-lavorare-ict-pa-ruoli-enti-prove.md")
+    const fenced = "\n```md\n## Apparato di verifica dei nuclei\n| Nucleo ID | Apparato di verifica |\n| --- | --- |\n| `N-TR01-01-01` | Quiz 2 |\n```\n"
+    writeFileSync(chapter, `${readFileSync(chapter, "utf8")}${fenced}`, "utf8")
+    expect(audit(root).status).toBe(0)
+  })
   it("ignores a nucleus-looking heading inside a fenced code block", () => {
     const root = fixtureRoot()
     const chapter = join(root, moduleRelative, "chapters", "01-lavorare-ict-pa-ruoli-enti-prove.md")
     writeFileSync(chapter, `${readFileSync(chapter, "utf8")}\n\`\`\`md\n## N-TR01-99-99 · esempio non didattico\n\`\`\`\n`, "utf8")
 
     expect(audit(root).status).toBe(0)
+  })
+
+  it("rejects a target that appears only inside a tilde fenced block", () => {
+    const root = fixtureRoot()
+    const chapter = join(root, moduleRelative, "chapters", "01-lavorare-ict-pa-ruoli-enti-prove.md")
+    const source = readFileSync(chapter, "utf8")
+      .replace("| `N-TR01-01-01` | Quiz 2 |", "| `N-TR01-01-01` | Solo nel fence tilde |")
+    writeFileSync(chapter, `${source}\n~~~md\nSolo nel fence tilde\n~~~\n`, "utf8")
+
+    expect(audit(root).status).not.toBe(0)
+  })
+
+  it("rejects a target that appears only inside a four-backtick fenced block", () => {
+    const root = fixtureRoot()
+    const chapter = join(root, moduleRelative, "chapters", "01-lavorare-ict-pa-ruoli-enti-prove.md")
+    const source = readFileSync(chapter, "utf8")
+      .replace("| `N-TR01-01-01` | Quiz 2 |", "| `N-TR01-01-01` | Solo nel fence quattro backtick |")
+    writeFileSync(chapter, `${source}\n\`\`\`\`md\nSolo nel fence quattro backtick\n\`\`\`\`\n`, "utf8")
+
+    expect(audit(root).status).not.toBe(0)
+  })
+
+  it("does not count an apparatus table that exists only inside a tilde fenced block", () => {
+    const root = fixtureRoot()
+    const chapter = join(root, moduleRelative, "chapters", "01-lavorare-ict-pa-ruoli-enti-prove.md")
+    const source = readFileSync(chapter, "utf8")
+    const table = source.match(/^## Apparato di verifica dei nuclei[\s\S]*?(?=^## (?!Apparato di verifica dei nuclei))/m)?.[0]
+    expect(table).toBeTruthy()
+    writeFileSync(chapter, `${source.replace(table!, "").trimEnd()}\n\n~~~md\n${table}\n~~~\n`, "utf8")
+
+    expect(audit(root).status).not.toBe(0)
+  })
+
+  it("rejects a target that appears only inside an HTML comment", () => {
+    const root = fixtureRoot()
+    const chapter = join(root, moduleRelative, "chapters", "01-lavorare-ict-pa-ruoli-enti-prove.md")
+    const source = readFileSync(chapter, "utf8")
+      .replace("| `N-TR01-01-01` | Quiz 2 |", "| `N-TR01-01-01` | Solo nel commento HTML |")
+    writeFileSync(chapter, `${source}\n<!--\nSolo nel commento HTML\n-->\n`, "utf8")
+
+    expect(audit(root).status).not.toBe(0)
+  })
+
+  it("rejects a target that appears only inside an unclosed HTML comment", () => {
+    const root = fixtureRoot()
+    const chapter = join(root, moduleRelative, "chapters", "01-lavorare-ict-pa-ruoli-enti-prove.md")
+    const source = readFileSync(chapter, "utf8")
+      .replace("| `N-TR01-01-01` | Quiz 2 |", "| `N-TR01-01-01` | Solo nel commento HTML aperto |")
+    writeFileSync(chapter, `${source}\n<!--\nSolo nel commento HTML aperto\n`, "utf8")
+
+    expect(audit(root).status).not.toBe(0)
+  })
+
+  it("rejects an extra valid nucleus ID row in the verification apparatus", () => {
+    const root = fixtureRoot()
+    const chapter = join(root, moduleRelative, "chapters", "01-lavorare-ict-pa-ruoli-enti-prove.md")
+    writeFileSync(chapter, readFileSync(chapter, "utf8").replace("| `N-TR01-01-01` | Quiz 2 |", "| `N-TR01-01-01` | Quiz 2 |\n| `N-TR01-99-99` | Quiz 2 |"), "utf8")
+
+    expect(audit(root).status).not.toBe(0)
   })
 })
