@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest"
-import { completeStep, createRunState, mergeRunStates, nextStep, startStep, stepKey } from "../../src/pipeline/state/run-state"
+import { completeStep, createRunState, mergeRunStates, nextStep, reopenSteps, startStep, stepKey } from "../../src/pipeline/state/run-state"
 import type { RunState, StepRecord } from "../../src/pipeline/state/types"
 
 const now = "2026-07-27T15:08:27.185Z"
@@ -158,5 +158,134 @@ describe("mergeRunStates", () => {
   })
   it("refuses to merge run states of different volumes", () => {
     expect(() => mergeRunStates(base(), base(), { ...base(), volumeCode: "VOL-09" })).toThrow(/VOL-09/)
+  })
+})
+
+describe("reopenSteps", () => {
+  const retrofitDoneState = (): RunState => {
+    const steps = [
+      ...["08", "09", "10", "11", "12"].map((id) => ({ ...draft(id, "moduli/m-tr01/chapters/01.md"), target: "moduli/m-tr01/chapters/01.md" })),
+      ...["13", "14", "15", "16"].map((id) => ({ ...draft(id, "moduli/m-tr01"), phase: "D", scope: "module" as const })),
+      ...["17", "18", "19", "20", "21", "22", "23", "24"].map((id) => ({ ...draft(id, ""), phase: "F", scope: "volume" as const }))
+    ]
+    const initial = createRunState({
+      volumeCode: "VOL-08",
+      specPath: "wiki/books/volumi/vol-08/planning/00-scheda-pipeline.md",
+      specHash: "sha256:retrofit",
+      steps,
+      now
+    })
+
+    return {
+      ...initial,
+      steps: initial.steps.map((step) =>
+        step.id === "24"
+          ? step
+          : {
+              ...step,
+              status: "done" as const,
+              attempts: 1,
+              evidence: ["completion.json"],
+              owner: "collega",
+              agent: "codex-cli",
+              provider: "codex",
+              startedAt: now,
+              finishedAt: later,
+              gate: { passed: true, blockers: [], warnings: [] }
+            }
+      )
+    }
+  }
+
+  it("reopens the selected completed step and every downstream step without mutating the input", () => {
+    const doneState = retrofitDoneState()
+    const original = structuredClone(doneState)
+
+    const result = reopenSteps(doneState, {
+      startKeys: ["08:moduli/m-tr01/chapters/01.md"],
+      cascade: true,
+      note: "Retrofit formato 2 autorizzato",
+      now: later
+    })
+
+    expect(result.reopenedKeys).toEqual(doneState.steps.slice(0, -1).map((step) => step.key))
+    expect(result.state.steps.at(-1)?.id).toBe("24")
+    expect(result.state.steps.at(-1)?.status).toBe("pending")
+    expect(result.state.steps[0]).toMatchObject({ status: "pending", attempts: 0 })
+    expect(result.state.steps[0].owner).toBeUndefined()
+    expect(result.state.steps[0].evidence).toContain("reopen: Retrofit formato 2 autorizzato")
+    expect(doneState).toEqual(original)
+  })
+
+  it("cascades by causal step order when storage order starts with chapter work", () => {
+    const selectedChapter = "moduli/m-tr01/chapters/01.md"
+    const otherChapter = "moduli/m-tr01/chapters/02.md"
+    const moduleTarget = "moduli/m-tr01"
+    const volumeTarget = "VOL-08"
+    const drafts = [
+      ...["08", "09", "10", "11", "12"].map((id) => draft(id, selectedChapter)),
+      ...["08", "09", "10", "11", "12"].map((id) => draft(id, otherChapter)),
+      ...["05", "06", "07", "13", "14", "15", "16", "18"].map((id) => ({ ...draft(id, moduleTarget), phase: id === "18" ? "E" : "D", scope: "module" as const })),
+      ...["00", "01", "02", "03", "04", "17", "19", "20", "21", "22", "23", "24"].map((id) => ({ ...draft(id, volumeTarget), phase: "F", scope: "volume" as const }))
+    ]
+    const initial = createRunState({
+      volumeCode: "VOL-08",
+      specPath: "wiki/books/volumi/vol-08/planning/00-scheda-pipeline.md",
+      specHash: "sha256:realistic-order",
+      steps: drafts,
+      now
+    })
+    const doneState: RunState = {
+      ...initial,
+      steps: initial.steps.map((step) => ({
+        ...step,
+        status: step.id === "24" ? ("awaiting-human" as const) : ("done" as const),
+        attempts: 1,
+        evidence: ["completion.json"],
+        owner: step.id === "24" ? "reviewer" : "collega",
+        finishedAt: step.id === "24" ? undefined : later
+      }))
+    }
+    const signoffBefore = structuredClone(doneState.steps.find((step) => step.id === "24"))
+
+    const result = reopenSteps(doneState, {
+      startKeys: [stepKey("08", selectedChapter)],
+      cascade: true,
+      note: "Retrofit formato 2 autorizzato",
+      now: later
+    })
+
+    expect(result.reopenedKeys).toEqual([
+      ...["08", "09", "10", "11", "12"].map((id) => stepKey(id, selectedChapter)),
+      ...["13", "14", "15", "16", "18"].map((id) => stepKey(id, moduleTarget)),
+      ...["17", "19", "20", "21", "22", "23"].map((id) => stepKey(id, volumeTarget))
+    ])
+    expect(result.state.steps.filter((step) => ["00", "01", "02", "03", "04", "05", "06", "07"].includes(step.id)).every((step) => step.status === "done")).toBe(true)
+    expect(result.state.steps.filter((step) => step.target === otherChapter).every((step) => step.status === "done")).toBe(true)
+    expect(result.state.steps.find((step) => step.id === "24")).toEqual(signoffBefore)
+  })
+
+  it("rejects an unknown starting key without mutating the input", () => {
+    const doneState = retrofitDoneState()
+    const original = structuredClone(doneState)
+
+    expect(() => reopenSteps(doneState, { startKeys: ["99:missing.md"], cascade: true, note: "Ripartenza autorizzata", now: later })).toThrow(/99|assente|non esiste/i)
+    expect(doneState).toEqual(original)
+  })
+
+  it("requires a non-empty reopening note", () => {
+    const doneState = retrofitDoneState()
+    const original = structuredClone(doneState)
+
+    expect(() => reopenSteps(doneState, { startKeys: ["08:moduli/m-tr01/chapters/01.md"], cascade: true, note: "   ", now: later })).toThrow(/nota/i)
+    expect(doneState).toEqual(original)
+  })
+
+  it("refuses a non-cascade reopening when a downstream dependant is terminal", () => {
+    const doneState = retrofitDoneState()
+    const original = structuredClone(doneState)
+
+    expect(() => reopenSteps(doneState, { startKeys: ["08:moduli/m-tr01/chapters/01.md"], cascade: false, note: "Ripartenza autorizzata", now: later })).toThrow(/cascade|a valle|dipend/i)
+    expect(doneState).toEqual(original)
   })
 })

@@ -9,7 +9,7 @@ entities: ["Agenzia per la cybersicurezza nazionale", "CSIRT Italia", "NIST"]
 source_refs: ["sources/modulo-m-tr01-ict-digitale-cybersecurity-dati-vol-08", "sources/sicurezza-informatica-privacy-nis2-pa", "sources/pa-digitale-cad-identita-documenti-servizi-dati"]
 book_refs: ["m-tr01-ict-trasformazione-digitale", "vol-08-ict-digitale-cybersecurity-dati", "il-metodo-bando"]
 confidence: 0.82
-updated_at: 2026-07-30
+updated_at: 2026-08-11
 created_at: 2026-07-30
 review_required: true
 canonical: false
@@ -370,3 +370,6 @@ Il budget comprende tabelle e strumenti. Nel formato KDP 6,69 × 9,61 in privile
 ## 15. Esito del piano
 
 Il capitolo è pianificato ma non ancora pronto per la scrittura definitiva. Prima dello step 09 vanno consolidate fonti primarie dedicate su identità digitale, key management, log management e incident response, oltre al quadro ufficiale ACN/NIS2. Una volta chiuso questo gap, la struttura proposta consente di sviluppare il capitolo senza duplicare VOL-01 o i capitoli 7-8 e mantenendo l’output concorsuale promesso: playbook e timeline di incidente.
+## 15. Riesame manuale step 08 — retrofit Format 2
+
+Verificato il piano rispetto a capitoli 7, 8 e 10, matrice, source note consolidate e contratto della pipeline. Il retrofit assegna i sei nuclei stabili `N-TR01-09-01` — `N-TR01-09-06`: ciclo identità; autenticazione e privilegi; crittografia e chiavi; logging e triage; risposta e continuità; raccordo PA, ACN, CSIRT, NIS2 e privacy. Il testo conserva caso di account privilegiato, playbook e timeline; aggiunge un blocco `▣ Verifica` dopo sei nuclei con sei quiz commentati. Sono esclusi termini, canali, soglie e procedure mobili: rimangono debiti di audit specialistico agli step 13-18. Budget applicato: almeno 600 parole per nucleo, sei quiz commentati e un caso ragionato.

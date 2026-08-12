@@ -20,7 +20,7 @@ draft_stage: revised-editorial-draft
 last_compiled_from: ["sources/risposta-sintetica-domande-aperte-metodo-bando.md", "topics/risposta-sintetica-concorsuale.md", "topics/risposta-concorsuale.md", "topics/prova-scritta-teorico-pratica.md", "topics/schede-operative-studio.md", "topics/strategia-punteggio-prova-concorsuale.md", "topics/parole-chiave-concorsi.md", "topics/diario-errori.md"]
 ---
 
-# Capitolo 43 - Risposta sintetica: scrivere poco, dire tutto
+# R19 - Risposta sintetica: scrivere poco, dire tutto
 
 La risposta sintetica è una prova di selezione.
 
@@ -51,7 +51,7 @@ Alla fine del capitolo saprai:
 
 Questo capitolo approfondisce un punto già visto nella prova scritta: qui non parliamo di tutta la prova teorico-pratica, ma della domanda aperta breve, dove lo spazio è limitato e la pertinenza pesa moltissimo.
 
-## Che cos'è davvero una risposta sintetica
+## Che cos’è davvero una risposta sintetica
 
 Una risposta sintetica è una risposta breve, ma completa rispetto alla traccia.
 
@@ -83,6 +83,8 @@ La sintesi funziona quando il lettore capisce subito tre cose:
 
 ![Mappa risposta sintetica](../assets/chapter-43/01-mappa-risposta-sintetica.png)
 
+*Figura 43.1 - Mappa risposta sintetica.*
+
 Anche una domanda di poche righe si prepara con il Metodo BANDO.
 
 | Fase BANDO | Domanda guida | Output pratico |
@@ -95,7 +97,7 @@ Anche una domanda di poche righe si prepara con il Metodo BANDO.
 
 Il candidato debole parte dal contenuto che ricorda.
 
-Il candidato forte parte dall'output richiesto.
+Il candidato forte parte dall’output richiesto.
 
 ## Leggere la traccia in 60 secondi
 
@@ -106,7 +108,7 @@ Prima di scrivere, devi estrarre vincoli.
 | Elemento | Domanda |
 |---|---|
 | Verbo operativo | Mi chiede di definire, illustrare, confrontare, applicare, motivare? |
-| Oggetto | qual è l'istituto o il tema centrale? |
+| Oggetto | qual è l’istituto o il tema centrale? |
 | Perimetro | Devo parlare in generale o rispetto a un caso? |
 | Materia | Quale area del programma è coinvolta? |
 | Vincolo | Ci sono limiti di righe, tempo, spazio o formato? |
@@ -123,7 +125,7 @@ Il verbo della traccia decide la forma della risposta.
 
 | Verbo | Cosa vuole | Errore tipico |
 |---|---|---|
-| Definire | Dire che cos'è l'istituto e a cosa serve. | Fare un tema storico o normativo. |
+| Definire | Dire che cos’è l’istituto e a cosa serve. | Fare un tema storico o normativo. |
 | Illustrare | Spiegare struttura, funzione e conseguenze. | Limitarsi a una definizione secca. |
 | Indicare | Elencare in modo ordinato elementi richiesti. | Scrivere un discorso lungo e poco leggibile. |
 | Descrivere | Presentare caratteristiche principali. | Inserire dettagli non richiesti. |
@@ -133,15 +135,17 @@ Il verbo della traccia decide la forma della risposta.
 | Motivare | Spiegare il perché di una scelta o conclusione. | Dare solo la conclusione. |
 | Risolvere | Proporre una sequenza operativa coerente. | Saltare competenza, procedimento o vincoli. |
 
-Se la traccia dice "confrontare", la risposta deve contenere un confronto visibile.
+Se la traccia dice “confrontare”, la risposta deve contenere un confronto visibile.
 
-Se dice "indicare", non serve una premessa lunga.
+Se dice “indicare”, non serve una premessa lunga.
 
-Se dice "applicare", una definizione generale è solo l'inizio, non la risposta.
+Se dice “applicare”, una definizione generale è solo l’inizio, non la risposta.
 
 ## Lo schema base
 
 ![Lettura della traccia con estrazione delle informazioni utili](../assets/chapter-43/02-lettura-traccia.png)
+
+*Figura 43.2 - Lettura della traccia con estrazione delle informazioni utili.*
 
 Per molte risposte sintetiche puoi usare questo schema:
 
@@ -162,10 +166,10 @@ Non devi usare sempre tutti i passaggi nello stesso modo. Devi adattarli allo sp
 
 La risposta sintetica ha bisogno di una chiusura. Anche una frase basta:
 
-- "Per questo l'istituto serve a..."
-- "La differenza centrale, quindi, è..."
-- "Nel caso prospettato, la soluzione deve rispettare..."
-- "In sintesi, il punto decisivo è..."
+- “Per questo l’istituto serve a...”
+- “La differenza centrale, quindi, è...”
+- “Nel caso prospettato, la soluzione deve rispettare...”
+- “In sintesi, il punto decisivo è...”
 
 Senza chiusura, la risposta sembra interrotta.
 
@@ -179,7 +183,7 @@ Devi evitare:
 - citazioni non necessarie;
 - esempi lunghi;
 - elenco di eccezioni;
-- aperture tipo "sin dall'antichità" o "nel nostro ordinamento".
+- aperture tipo “sin dall’antichità” o “nel nostro ordinamento”.
 
 Schema pratico:
 
@@ -192,7 +196,7 @@ Schema pratico:
 
 Esempio astratto:
 
-> Il procedimento amministrativo è la sequenza ordinata di attività attraverso cui la pubblica amministrazione prepara e assume una decisione. Serve a rendere l'azione amministrativa controllabile, imparziale e coerente con il buon andamento. Non coincide solo con il provvedimento finale, perché comprende avvio, istruttoria, eventuale partecipazione, valutazione e decisione. In una risposta sintetica il punto centrale è mostrare che la decisione pubblica non nasce in modo informale, ma attraverso passaggi tracciabili e funzionali alla tutela degli interessi coinvolti.
+> Il procedimento amministrativo è la sequenza ordinata di attività attraverso cui la pubblica amministrazione prepara e assume una decisione. Serve a rendere l’azione amministrativa controllabile, imparziale e coerente con il buon andamento. Non coincide solo con il provvedimento finale, perché comprende avvio, istruttoria, eventuale partecipazione, valutazione e decisione. In una risposta sintetica il punto centrale è mostrare che la decisione pubblica non nasce in modo informale, ma attraverso passaggi tracciabili e funzionali alla tutela degli interessi coinvolti.
 
 La risposta non dice tutto sul procedimento. Dice ciò che serve alla traccia generale.
 
@@ -252,6 +256,8 @@ Una scaletta da sei parole può salvare una risposta da trenta righe.
 
 ![Schema essenziale della risposta sintetica](../assets/chapter-43/03-schema-base-risposta.png)
 
+*Figura 43.3 - Schema essenziale della risposta sintetica.*
+
 Quando il tempo è stretto, non devi fare una scaletta bella. Devi fare una scaletta utile.
 
 Formula:
@@ -278,6 +284,8 @@ Con questa micro-scaletta eviti di scrivere tre definizioni scollegate.
 
 ![Micro-scaletta per ordinare una risposta sotto tempo](../assets/chapter-43/04-micro-scaletta.png)
 
+*Figura 43.4 - Micro-scaletta per ordinare una risposta sotto tempo.*
+
 Le parole chiave aiutano solo se lavorano nella frase.
 
 Non basta inserire:
@@ -288,7 +296,7 @@ Questa non è una risposta. È un elenco.
 
 Meglio:
 
-> La motivazione rende controllabile la decisione amministrativa, perché consente di comprendere il percorso logico seguito dall'ufficio e collega il provvedimento ai principi di legalità, imparzialità e buon andamento.
+> La motivazione rende controllabile la decisione amministrativa, perché consente di comprendere il percorso logico seguito dall’ufficio e collega il provvedimento ai principi di legalità, imparzialità e buon andamento.
 
 Qui le parole chiave hanno funzione. Non sono decorazione.
 
@@ -319,17 +327,19 @@ Usa questa regola:
 |---|---|
 | Sono sicuro del riferimento ed è centrale | Lo inserisco in modo sobrio. |
 | Sono sicuro ma non serve alla traccia | Lo lascio fuori. |
-| Non sono sicuro dell'articolo | Uso il principio o l'istituto senza numero. |
+| Non sono sicuro dell’articolo | Uso il principio o l’istituto senza numero. |
 | Ricordo solo vagamente la fonte | Non invento. |
 | La traccia chiede applicazione pratica | Do priorità a soggetti, competenza, passaggi e soluzione. |
 
-Scrivere "secondo la disciplina sul procedimento amministrativo" può essere meglio che inventare un articolo.
+Scrivere “secondo la disciplina sul procedimento amministrativo” può essere meglio che inventare un articolo.
 
 La precisione non è ostentazione. È controllo.
 
 ## La griglia di revisione finale
 
 ![Selezione delle parole chiave che reggono la risposta](../assets/chapter-43/05-parole-chiave.png)
+
+*Figura 43.5 - Selezione delle parole chiave che reggono la risposta.*
 
 La revisione non è un lusso. È parte della prova.
 
@@ -345,19 +355,19 @@ Prima di consegnare, controlla:
 | Lessico | Ho usato parole tecniche corrette? |
 | Riferimenti | Ho inserito solo riferimenti sicuri? |
 | leggibilità | Le frasi sono chiare e finite? |
-| Chiusura | L'ultima frase riporta al punto richiesto? |
+| Chiusura | L’ultima frase riporta al punto richiesto? |
 
 Se hai poco tempo, fai almeno tre controlli:
 
 1. sono sulla traccia?
-2. c'è una conclusione?
+2. c’è una conclusione?
 3. ho scritto qualcosa di insicuro?
 
 ## Il Diario degli errori dello scritto breve
 
 La risposta sintetica migliora solo se correggi gli errori giusti.
 
-Non basta scrivere "risposta insufficiente".
+Non basta scrivere “risposta insufficiente”.
 
 Devi classificare.
 
@@ -366,7 +376,7 @@ Devi classificare.
 | Fuori traccia | Ho parlato di un tema vicino ma non richiesto. | Allenamento sui verbi e sul perimetro. |
 | Eccesso | Ho scritto troppo e perso il punto centrale. | Schema 10/20/30 righe. |
 | genericità | Frasi vere ma vaghe. | Aggiungere funzione, elemento o esempio. |
-| Definizione debole | Non si capisce l'istituto. | Scheda definizione-funzione. |
+| Definizione debole | Non si capisce l’istituto. | Scheda definizione-funzione. |
 | Riferimento insicuro | Articolo, data o norma dubbia. | Usare solo riferimenti consolidati. |
 | Mancato confronto | La traccia chiedeva differenze. | Tabella analogie/differenze prima della risposta. |
 | Mancata applicazione | La traccia chiedeva un caso. | Inserire soggetti, passaggi, soluzione. |
@@ -389,9 +399,9 @@ Il problema è la selezione.
 
 Alla domanda:
 
-> "Illustrare la funzione della motivazione del provvedimento amministrativo."
+> “Illustrare la funzione della motivazione del provvedimento amministrativo.”
 
-sarà scrive una risposta lunga. Parte dai principi costituzionali, passa al procedimento, cita accesso, trasparenza, responsabilità, autotutela, vizi dell'atto e conclude senza tornare alla motivazione.
+sarà scrive una risposta lunga. Parte dai principi costituzionali, passa al procedimento, cita accesso, trasparenza, responsabilità, autotutela, vizi dell’atto e conclude senza tornare alla motivazione.
 
 Molte frasi sono corrette. Ma la risposta è dispersiva.
 
@@ -417,13 +427,15 @@ Molte frasi sono corrette. Ma la risposta è dispersiva.
 
 ### La risposta corretta nel metodo
 
-> La motivazione del provvedimento amministrativo indica le ragioni di fatto e di diritto che sostengono la decisione dell'amministrazione. La sua funzione principale è rendere comprensibile e controllabile il percorso seguito dall'ufficio, evitando decisioni opache o arbitrarie. Attraverso la motivazione il destinatario può capire perché l'amministrazione ha deciso in un certo modo e può valutare se contestare l'atto. La motivazione collega quindi il provvedimento ai principi di legalità, imparzialità e buon andamento. Non è una formula decorativa: è lo strumento che rende la decisione pubblica verificabile.
+> La motivazione del provvedimento amministrativo indica le ragioni di fatto e di diritto che sostengono la decisione dell’amministrazione. La sua funzione principale è rendere comprensibile e controllabile il percorso seguito dall’ufficio, evitando decisioni opache o arbitrarie. Attraverso la motivazione il destinatario può capire perché l’amministrazione ha deciso in un certo modo e può valutare se contestare l’atto. La motivazione collega quindi il provvedimento ai principi di legalità, imparzialità e buon andamento. Non è una formula decorativa: è lo strumento che rende la decisione pubblica verificabile.
 
 Questa risposta non dice tutto sulla motivazione. Dice ciò che la traccia chiedeva.
 
 ## Allenare la risposta sintetica
 
 ![Griglia per controllare una risposta prima della consegna](../assets/chapter-43/06-griglia-revisione.png)
+
+*Figura 43.6 - Griglia per controllare una risposta prima della consegna.*
 
 Non migliori la risposta sintetica solo leggendo esempi.
 
@@ -458,6 +470,8 @@ Molte domande aperte brevi non chiedono una nozione isolata, ma una distinzione.
 
 ![Caso guidato: ridurre una risposta senza perdere precisione](../assets/chapter-43/07-caso-risposta.png)
 
+*Figura 43.7 - Caso guidato: ridurre una risposta senza perdere precisione.*
+
 1. La risposta sintetica non è un riassunto: è una risposta proporzionata alla traccia.
 2. Prima di scrivere devi leggere verbo, oggetto, perimetro, spazio e tempo.
 3. Lo schema base è: definizione, riferimento sicuro, funzione, elemento chiave, esempio o applicazione, chiusura.
@@ -468,17 +482,17 @@ Molte domande aperte brevi non chiedono una nozione isolata, ma una distinzione.
 
 **Domanda:** come si costruisce una risposta sintetica efficace in una prova scritta?
 
-**Risposta efficace:** una risposta sintetica efficace nasce dalla lettura della traccia. Il candidato deve individuare il verbo operativo, il tema, il perimetro e lo spazio disponibile. Poi costruisce una risposta proporzionata: definizione essenziale, eventuale riferimento sicuro, funzione dell'istituto, elemento chiave o applicazione e chiusura collegata alla domanda. La sintesi non consiste nel tagliare parole a caso, ma nel selezionare ciò che serve a rispondere con precisione.
+**Risposta efficace:** una risposta sintetica efficace nasce dalla lettura della traccia. Il candidato deve individuare il verbo operativo, il tema, il perimetro e lo spazio disponibile. Poi costruisce una risposta proporzionata: definizione essenziale, eventuale riferimento sicuro, funzione dell’istituto, elemento chiave o applicazione e chiusura collegata alla domanda. La sintesi non consiste nel tagliare parole a caso, ma nel selezionare ciò che serve a rispondere con precisione.
 
 ## Domanda-trappola
 
 **Domanda:** in una risposta sintetica conviene inserire più riferimenti normativi possibile?
 
-**Risposta:** no. I riferimenti normativi sono utili solo se sono sicuri, pertinenti e necessari alla traccia. In una risposta breve un riferimento sbagliato o superfluo può indebolire l'intero testo. Se il candidato non ricorda con precisione articolo o data, è meglio richiamare il principio o l'istituto in modo corretto, senza inventare.
+**Risposta:** no. I riferimenti normativi sono utili solo se sono sicuri, pertinenti e necessari alla traccia. In una risposta breve un riferimento sbagliato o superfluo può indebolire l’intero testo. Se il candidato non ricorda con precisione articolo o data, è meglio richiamare il principio o l’istituto in modo corretto, senza inventare.
 
 ## Errore tipico
 
-L'errore tipico è scrivere tutto ciò che si sa.
+L’errore tipico è scrivere tutto ciò che si sa.
 
 Succede per ansia: il candidato teme di lasciare fuori qualcosa e riempie la risposta.
 
@@ -500,14 +514,14 @@ Scegli un argomento che hai studiato oggi.
 
 Esegui questi passaggi:
 
-1. scrivi una traccia con un verbo operativo, per esempio "definire", "illustrare" o "confrontare";
+1. scrivi una traccia con un verbo operativo, per esempio “definire”, “illustrare” o “confrontare”;
 2. sottolinea oggetto e perimetro;
 3. prepara una micro-scaletta in 90 secondi;
 4. scrivi una risposta in 10 righe;
 5. riscrivila in 20 righe;
 6. taglia la risposta da 20 righe riportandola a 10;
 7. controlla se hai perso il nucleo;
-8. registra nel Diario l'errore principale.
+8. registra nel Diario l’errore principale.
 
 Se non sai che cosa tagliare, non hai ancora capito qual è il nucleo della risposta.
 
@@ -522,12 +536,12 @@ Se non sai che cosa tagliare, non hai ancora capito qual è il nucleo della risp
 | Ho fatto una micro-scaletta prima di scrivere. | |
 | Ho inserito una definizione essenziale. | |
 | Ho usato solo riferimenti sicuri e pertinenti. | |
-| Ho spiegato la funzione dell'istituto. | |
+| Ho spiegato la funzione dell’istituto. | |
 | Ho aggiunto esempio, applicazione o differenza se richiesti. | |
 | Ho evitato premesse generiche. | |
 | Ho chiuso tornando alla traccia. | |
 | Ho revisionato pertinenza, ordine, lessico e completezza minima. | |
-| Ho registrato l'errore principale nel Diario. | |
+| Ho registrato l’errore principale nel Diario. | |
 
 ## Collegamenti
 
@@ -537,9 +551,3 @@ Se non sai che cosa tagliare, non hai ancora capito qual è il nucleo della risp
 - [[books/il-metodo-bando/chapters/diario-degli-errori]]
 - [[books/il-metodo-bando/chapters/appendice-b-100-parole-chiave-concorsi]]
 - [[books/il-metodo-bando/chapters/appendice-e-schema-universale-risposta-orale]]
-
-## Fonti e note di revisione
-
-Questo capitolo usa fonti consolidate interne su prove concorsuali, risposta concorsuale, prova scritta teorico-pratica, schede operative, strategia di punteggio, parole chiave, apprendimento efficace e checklist.
-
-Prima della pubblicazione finale, eventuali esempi tratti da procedure reali devono essere sintetizzati e verificati. Il capitolo non stabilisce criteri universali di punteggio: spazio, tempo, modalità, valutazione e istruzioni operative restano sempre subordinati al bando e agli avvisi della singola procedura.

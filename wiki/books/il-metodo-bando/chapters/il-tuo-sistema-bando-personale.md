@@ -21,9 +21,9 @@ last_humanizer_revision: 2026-07-24
 last_compiled_from: ["sources/sistema-bando-personale-metodo-bando.md", "topics/sistema-bando-personale.md", "topics/metodo-bando.md", "topics/capitale-studio-riutilizzabile.md", "topics/aggiornamento-fonti-concorsi.md", "topics/strumenti-digitali-metodo-bando.md", "topics/sostenibilita-preparazione-concorsi.md"]
 ---
 
-# Capitolo 32 - Il tuo sistema BANDO personale
+# R8 - Il tuo sistema BANDO personale
 
-> Modulo ricettario **R8** — Cruscotto personale BANDO. Collega [[books/il-metodo-bando/chapters/il-metodo-bando|Cap. 3]], [[books/il-metodo-bando/chapters/sistema-adattabile|Cap. 22]] e [[books/il-metodo-bando/chapters/diario-degli-errori|Cap. 23]]; incrocia [[books/il-metodo-bando/chapters/aggiornare-il-metodo-dopo-il-libro|R1]], [[books/il-metodo-bando/chapters/trasformare-ogni-concorso-in-capitale-di-studio|R2]], [[books/il-metodo-bando/chapters/usare-il-digitale-senza-perdere-il-metodo|R4]], [[books/il-metodo-bando/chapters/reggere-la-preparazione-energia-ansia-continuità|R5]], [[books/il-metodo-bando/chapters/dopo-la-prova-esiti-graduatoria-prossima-mossa|R6]] e [[books/il-metodo-bando/chapters/prendere-servizio-nella-pa-dal-concorso-al-ruolo|R7]].
+> Cruscotto personale BANDO. Collega [[books/il-metodo-bando/chapters/il-metodo-bando|Cap. 3]], [[books/il-metodo-bando/chapters/sistema-adattabile|Cap. 22]] e [[books/il-metodo-bando/chapters/diario-degli-errori|Cap. 23]]; incrocia [[books/il-metodo-bando/chapters/aggiornare-il-metodo-dopo-il-libro|R1]], [[books/il-metodo-bando/chapters/trasformare-ogni-concorso-in-capitale-di-studio|R2]], [[books/il-metodo-bando/chapters/usare-il-digitale-senza-perdere-il-metodo|R4]], [[books/il-metodo-bando/chapters/reggere-la-preparazione-energia-ansia-continuita|R5]], [[books/il-metodo-bando/chapters/dopo-la-prova-esiti-graduatoria-prossima-mossa|R6]] e [[books/il-metodo-bando/chapters/prendere-servizio-nella-pa-dal-concorso-al-ruolo|R7]].
 
 Un libro di metodo fallisce quando viene letto e poi lasciato chiuso.
 
@@ -60,6 +60,8 @@ La regola è questa:
 
 ![Figura 32.1 - Mappa BANDO del sistema personale: trasformare ogni nuovo bando in Decoder, matrice, nuclei, Diario e output.](../assets/chapter-32/01-mappa-bando-sistema-personale.png)
 
+*Figura 32.1 - Mappa BANDO del sistema personale: trasformare ogni nuovo bando in Decoder, matrice, nuclei, Diario e output.*
+
 | Fase | Domanda permanente | Strumento vivo |
 |---|---|---|
 | B - Bando | che cosa chiede davvero questa procedura? | Bando Decoder |
@@ -73,6 +75,8 @@ Ogni volta che ti senti perso, non cercare un nuovo metodo. Torna a questa tabel
 ## Le cinque pagine vive
 
 ![Figura 32.2 - Le cinque pagine vive del sistema BANDO: Decoder, matrice, piano, Diario e archivio capitale.](../assets/chapter-32/02-cinque-pagine-vive.png)
+
+*Figura 32.2 - Le cinque pagine vive del sistema BANDO: Decoder, matrice, piano, Diario e archivio capitale.*
 
 Non devi mantenere vivo tutto il libro.
 
@@ -93,6 +97,8 @@ Se sono ferme da settimane, anche se studi molte ore, il sistema sta perdendo co
 ## Il protocollo 15/30/60
 
 ![Figura 32.3 - Protocollo 15/30/60: revisioni brevi per settimana, evento importante e correzione strategica.](../assets/chapter-32/03-protocollo-15-30-60.png)
+
+*Figura 32.3 - Protocollo 15/30/60: revisioni brevi per settimana, evento importante e correzione strategica.*
 
 La manutenzione del Metodo BANDO deve essere breve. Se diventa un lavoro parallelo, non la farai.
 
@@ -115,6 +121,8 @@ Non usarle al contrario. Non serve fare una revisione strategica ogni volta che 
 ## Il cruscotto personale
 
 ![Figura 32.4 - Cruscotto BANDO personale: bandi, prove, output, errori, fonti, capitale, energia e decisione della settimana.](../assets/chapter-32/04-cruscotto-personale.png)
+
+*Figura 32.4 - Cruscotto BANDO personale: bandi, prove, output, errori, fonti, capitale, energia e decisione della settimana.*
 
 Il tuo sistema deve avere un cruscotto semplice.
 
@@ -140,6 +148,8 @@ Quando non sai che cosa fare, leggi il cruscotto. Se è vuoto, il problema non �
 ## Mantieni, aggiorna, archivia
 
 ![Figura 32.5 - Mantieni, aggiorna, archivia: dare a ogni materiale un destino operativo.](../assets/chapter-32/05-mantieni-aggiorna-archivia.png)
+
+*Figura 32.5 - Mantieni, aggiorna, archivia: dare a ogni materiale un destino operativo.*
 
 Ogni materiale deve avere un destino.
 
@@ -190,7 +200,7 @@ Il metodo serve anche a dire no.
 
 Il sistema BANDO può vivere su carta, su file o in una combinazione dei due.
 
-La regola è che deve essere esportabile e comprensibile anche senza l'app del momento.
+La regola è che deve essere esportabile e comprensibile anche senza l’app del momento.
 
 Il digitale serve a:
 
@@ -212,19 +222,21 @@ Non serve a:
 
 Se uno strumento non aggiorna una delle cinque pagine vive, probabilmente è rumore.
 
-Per il protocollo digitale completo (catturare, decidere, ricordare, backup, AI sicura) vedi **R4** (Cap. 28). Qui resta la regola: il digitale alimenta le cinque pagine vive, non le sostituisce.
+Per il protocollo digitale completo (catturare, decidere, ricordare, backup, AI sicura) vedi **R4**. Qui resta la regola: il digitale alimenta le cinque pagine vive, non le sostituisce.
 
 ## Il sistema dopo una prova
 
 ![Figura 32.6 - Chiudere il sistema dopo una prova: salvare documenti, compilare la scheda, aggiornare Diario e capitale, decidere la prossima mossa.](../assets/chapter-32/06-chiusura-dopo-prova.png)
+
+*Figura 32.6 - Chiudere il sistema dopo una prova: salvare documenti, compilare la scheda, aggiornare Diario e capitale, decidere la prossima mossa.*
 
 Dopo ogni prova, il sistema va chiuso.
 
 Non importa se è andata bene o male. Devi fare quattro passaggi:
 
 1. salva esiti, avvisi e documenti;
-2. compila la scheda post-prova (modulo **R6**, Cap. 30);
-3. aggiorna Diario e capitale (modulo **R2**, Cap. 26);
+2. compila la scheda post-prova (modulo **R6**);
+3. aggiorna Diario e capitale (modulo **R2**);
 4. decidi la prossima mossa.
 
 Il risultato senza revisione produce memoria emotiva.
@@ -234,6 +246,8 @@ Il risultato con revisione produce capitale.
 ## Il sistema davanti a un nuovo bando
 
 ![Figura 32.7 - Nuovo bando: aprire prima il metodo, poi scegliere materiali, corsi, quiz e strumenti.](../assets/chapter-32/07-nuovo-bando-apri-metodo.png)
+
+*Figura 32.7 - Nuovo bando: aprire prima il metodo, poi scegliere materiali, corsi, quiz e strumenti.*
 
 Quando arriva un nuovo bando, non aprire subito tutti i materiali.
 
@@ -303,7 +317,7 @@ Elena non ha fatto meno lavoro. Ha fatto meno lavoro inutile.
 
 ## Errore tipico
 
-L'errore tipico è innamorarsi del proprio metodo.
+L’errore tipico è innamorarsi del proprio metodo.
 
 Il metodo è utile finché produce decisioni, output e correzioni. Se diventa un insieme di template compilati per abitudine, senza collegamento a bando, prove ed errori, smette di funzionare.
 
@@ -334,7 +348,7 @@ Costruisci il tuo cruscotto BANDO personale.
 | Quale revisione devo fare: 15, 30 o 60 minuti? | |
 | qual è la prossima mossa verificabile? | |
 
-Non completare la tabella per fare ordine mentale. Completala per decidere un'azione.
+Non completare la tabella per fare ordine mentale. Completala per decidere un’azione.
 
 ## Checklist finale del sistema BANDO
 
@@ -357,22 +371,22 @@ Hai costruito un sistema.
 
 ## Scheda workbook: Revisione sistema in 15 minuti
 
-Compila questa scheda ogni fine settimana, prima di aprire nuovi materiali o gruppi. Se non trovi nulla da aggiornare, scrivi comunque "nessun cambio operativo": chiude il ciclo e libera la testa.
+Compila questa scheda ogni fine settimana, prima di aprire nuovi materiali o gruppi. Se non trovi nulla da aggiornare, scrivi comunque “nessun cambio operativo”: chiude il ciclo e libera la testa.
 
 | Domanda | Risposta |
 |---|---|
 | Quale revisione faccio oggi: 15, 30 o 60 minuti? | |
-| Le cinque pagine vive sono aggiornate nell'ultima settimana? (Decoder / Matrice / Piano / Diario / Archivio) | |
+| Le cinque pagine vive sono aggiornate nell’ultima settimana? (Decoder / Matrice / Piano / Diario / Archivio) | |
 | Quale output ho prodotto questa settimana? (quiz, simulazione, scheda, caso) | |
 | Quale errore ricorrente devo correggere con una sola azione? | |
 | Quale fonte ufficiale devo controllare (R1)? | |
 | Quale materiale mantengo, aggiorno o archivio? | |
-| Il cruscotto ha almeno una "prossima azione" per area attiva? | |
+| Il cruscotto ha almeno una “prossima azione” per area attiva? | |
 | Energia e sostenibilità: semaforo verde, giallo o rosso (R5)? | |
-| Se c'è un nuovo bando, ho aperto prima il metodo o i materiali? | |
+| Se c’è un nuovo bando, ho aperto prima il metodo o i materiali? | |
 | qual è la prossima mossa verificabile entro sette giorni? | |
 
-La scheda è utile solo se produce un'azione concreta: aggiornamento di una pagina viva, archiviazione di un duplicato, simulazione programmata o controllo fonti con data.
+La scheda è utile solo se produce un’azione concreta: aggiornamento di una pagina viva, archiviazione di un duplicato, simulazione programmata o controllo fonti con data.
 
 ## Registro revisioni manutenzione
 
@@ -390,17 +404,17 @@ Frequenza consigliata:
 - **30 minuti**: dopo prova, nuovo bando, avviso rilevante o chiusura concorso;
 - **60 minuti**: fine mese, cambio portafoglio concorsi o segnale di sovraccarico (R3, R5).
 
-Se il registro resta vuoto per più di due settimane mentre studi molte ore, il problema non è la motivazione: è l'assenza di manutenzione.
+Se il registro resta vuoto per più di due settimane mentre studi molte ore, il problema non è la motivazione: è l’assenza di manutenzione.
 
 ## Cinque segnali che il sistema funziona
 
 Verifica periodicamente se il metodo produce effetti misurabili:
 
-1. **Apertura bando rapida**: davanti a un nuovo concorso compili il Decoder in meno di un'ora senza ricominciare da zero.
+1. **Apertura bando rapida**: davanti a un nuovo concorso compili il Decoder in meno di un’ora senza ricominciare da zero.
 2. **Capitale riutilizzato**: almeno il 40-60% del piano del nuovo bando deriva da nuclei, schemi o simulazioni già validi (R2).
 3. **Errori che non tornano**: il Diario mostra correzioni verificate, non le stesse lacune per tre prove consecutive.
 4. **Decisioni scritte**: ogni cambio di piano ha un dato reale (bando, prova, errore dimostrato), non ansia o commenti esterni.
-5. **Chiusura prove**: dopo ogni prova hai scheda post-prova, capitale aggiornato e prossima mossa (R6), anche prima dell'esito ufficiale.
+5. **Chiusura prove**: dopo ogni prova hai scheda post-prova, capitale aggiornato e prossima mossa (R6), anche prima dell’esito ufficiale.
 
 Se riconosci almeno quattro segnali su cinque, il sistema sta funzionando.
 
@@ -412,7 +426,7 @@ Intervieni subito se compaiono questi sintomi:
 2. **Nuovo bando = nuovo caos**: compri materiali prima di leggere requisiti, prove e materie.
 3. **Piano che cambia senza dati**: ogni commento in chat o ogni manuale nuovo ricalcola tutto il calendario.
 4. **Studio senza output**: ore di lettura ma zero quiz, simulazioni, schede o casi nella settimana.
-5. **Prove senza chiusura**: dopo l'esame non aggiorni Diario, capitale o registro avvisi (R6).
+5. **Prove senza chiusura**: dopo l’esame non aggiorni Diario, capitale o registro avvisi (R6).
 
 La correzione non è aggiungere strumenti. È semplificare: una revisione da 30 minuti, un materiale da archiviare, un output da programmare, un controllo fonti con data (R1).
 
@@ -430,10 +444,10 @@ Il sistema BANDO personale è costruito quando le cinque pagine vive sono operat
 | Ho collegato digitale e backup al sistema senza moltiplicare app (R4) | |
 | So chiudere ogni prova con scheda post-prova e capitale (R6, R2) | |
 | So aprire un nuovo bando con il metodo prima dei materiali | |
-| Ho compilato la scheda workbook "Revisione sistema in 15 minuti" almeno una volta | |
+| Ho compilato la scheda workbook “Revisione sistema in 15 minuti” almeno una volta | |
 | Il registro revisioni manutenzione è attivo o ho fissato la prima data di revisione | |
 
-Il Metodo BANDO non termina con l'ultimo capitolo. Termina quando sai riaprirlo davanti a ogni nuovo bando, ogni prova e ogni fase successiva — compreso l'ingresso in PA (R7) — senza ricominciare da zero.
+Il Metodo BANDO non termina con l’ultimo capitolo. Termina quando sai riaprirlo davanti a ogni nuovo bando, ogni prova e ogni fase successiva — compreso l’ingresso in PA (R7) — senza ricominciare da zero.
 
 ## Riferimenti consolidati
 
@@ -450,10 +464,3 @@ Il Metodo BANDO non termina con l'ultimo capitolo. Termina quando sai riaprirlo 
 - [[topics/aggiornamento-fonti-concorsi]]
 - [[topics/strumenti-digitali-metodo-bando]]
 - [[topics/sostenibilita-preparazione-concorsi]]
-
-## Note di review
-
-- La struttura madre originaria non prevedeva il Capitolo 32. Questo capitolo è un'estensione editoriale: in revisione decidere se mantenerlo numerato o trasformarlo in epilogo fuori numerazione.
-- Coordinare il capitolo con Cap. 25 (R1), Cap. 26 (R2) e Appendici C-F per evitare ripetizioni sui template.
-- Scheda workbook "Revisione sistema in 15 minuti", registro revisioni manutenzione e chiusura operativa inseriti nel capitolo; in impaginazione valutare estrazione come PDF compilabile autonomo ("Il mio cruscotto BANDO personale").
-- Coordinare rimandi con Cap. 3 (metodo BANDO), Cap. 22 (piano 30/60/90), Cap. 23 (Diario), R4 (digitale), R5 (sostenibilità), R6 (dopo-prova), R7 (ingresso PA) e R3 (portafoglio concorsi).

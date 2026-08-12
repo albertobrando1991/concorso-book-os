@@ -11,7 +11,7 @@ book_refs: ["m-fl01-comuni-unioni", "vol-02-enti-locali-polizia-locale", "il-met
 confidence: 0.86
 updated_at: 2026-07-30T15:05:00+02:00
 created_at: 2026-07-17T16:30:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "module-code-m-fl01", "professional-draft", "statuto-regolamenti"]
 book_id: m-fl01-comuni-unioni
@@ -23,41 +23,7 @@ module_family: funzioni-locali
 companion_to: il-metodo-bando
 last_compiled_from: ["wiki/books/moduli/m-fl01-comuni-unioni/index.md", "wiki/books/moduli/m-fl01-comuni-unioni/planning/02-matrice-copertura-didattica.md", "wiki/sources/costituzione-repubblica-italiana-testo-vigente.md", "wiki/sources/d-lgs-18-agosto-2000-n-267-enti-locali.md", "wiki/sources/vol-02-dossier-redazionale-enti-locali-polizia-locale.md", "wiki/sources/bandi-inpa-vol-02-campione-2026.md", "wiki/entities/comune.md"]
 ---
-
-# Statuto, regolamenti e autonomia normativa locale
-
-## Specifica struttura madre
-
-### Obiettivo
-Spiegare come l'autonomia locale diventa fonte interna dell'ente e come statuto e regolamenti incidono sulle prove comunali, sulle risposte orali e sui casi pratici.
-
-### Nuclei
-- Autonomia statutaria e regolamentare nel quadro costituzionale e nel TUEL.
-- Statuto come fonte fondamentale dell'organizzazione locale.
-- Regolamenti comunali ricorrenti: uffici e servizi, procedimento, accesso, contabilità, tributi, polizia urbana, servizi, patrimonio, contratti e organizzazione interna.
-- Rapporto tra legge, statuto, regolamento, deliberazione e atto gestionale.
-- Limiti dell'autonomia normativa: principi costituzionali, legge statale, legge regionale competente, TUEL e fonti sovraordinate.
-- Uso dello statuto o del regolamento nei casi pratici di sportello, procedimento, servizio e organizzazione.
-
-### Output operativo
-Schema fonte-funzione-caso, risposta orale su autonomia locale, caso guidato su regolamento comunale applicato a un procedimento, diario errori sulle fonti interne.
-
-### Riferimenti consolidati
-- [[sources/costituzione-repubblica-italiana-testo-vigente]]
-- [[sources/d-lgs-18-agosto-2000-n-267-enti-locali]]
-- [[sources/vol-02-dossier-redazionale-enti-locali-polizia-locale]]
-- [[sources/bandi-inpa-vol-02-campione-2026]]
-- [[topics/enti-locali]]
-- [[entities/comune]]
-
-## Scheda di lavoro
-Questo capitolo sviluppa il passaggio dal TUEL alle fonti interne del Comune. La domanda guida non è astratta: quando un candidato deve smettere di rispondere solo con la legge generale e deve cercare lo statuto o il regolamento dell'ente?
-
-Nei bandi comunali la formula può essere sintetica: "ordinamento degli enti locali", "statuto e regolamenti", "atti amministrativi degli enti locali", "procedimenti e servizi comunali". Dietro queste parole si trova un problema pratico: l'ente locale non applica soltanto norme statali; organizza la propria attività tramite fonti interne, sempre entro i limiti fissati dall'ordinamento.
-
-## Testo editoriale
-
-### Apertura editoriale
+## Apertura editoriale
 Studiare il Comune senza statuto e regolamenti significa guardare solo la cornice, non il quadro operativo. Il TUEL indica principi, organi, competenze e struttura dell'ente locale. Lo statuto e i regolamenti spiegano come quelle regole prendono forma dentro un ente concreto.
 
 La differenza si vede soprattutto nei casi pratici. Un cittadino chiede l'accesso a un servizio. Un'impresa domanda una concessione. Un'associazione vuole usare un bene comunale. Un candidato deve individuare l'ufficio competente. In tutti questi casi non basta dire "si applica il TUEL". Occorre chiedersi quale fonte locale disciplina l'organizzazione del servizio, quali criteri usa l'ente, quale organo ha approvato la regola e quale responsabile adotta l'atto finale.
@@ -66,7 +32,7 @@ La prova concorsuale valuta proprio questa capacità di orientamento. Una rispos
 
 La regola di lavoro del capitolo è questa: statuto e regolamenti non sono appendici formali. Sono strumenti che trasformano l'autonomia locale in organizzazione, procedura e decisione amministrativa.
 
-### Obiettivo del capitolo
+## Obiettivo del capitolo
 Al termine del capitolo devi saper fare sette operazioni:
 
 1. spiegare che cosa significa autonomia normativa locale in un concorso comunale;
@@ -79,7 +45,7 @@ Al termine del capitolo devi saper fare sette operazioni:
 
 L'obiettivo non è imparare a memoria lo statuto di un singolo Comune. Il candidato deve acquisire un metodo: se il caso riguarda un ente determinato, si cerca la fonte locale ufficiale; se il caso è generale, si descrive la funzione dello statuto o del regolamento senza inventare regole locali.
 
-### Come usare questo capitolo
+## Come usare questo capitolo
 Questo capitolo va letto dopo il quadro generale sul TUEL e prima dei capitoli su organizzazione, atti, procedimento, servizi digitali, servizi demografici, welfare locale, contabilità, tributi e procurement operativo.
 
 Il percorso è progressivo:
@@ -91,7 +57,7 @@ Il percorso è progressivo:
 
 Non leggere questo capitolo come teoria delle fonti in senso universitario: qui la teoria serve allo sportello, all'ufficio e alle prove.
 
-### Mappa BANDO del capitolo
+## Mappa BANDO del capitolo
 
 | Fase | Domanda operativa | Output atteso |
 | --- | --- | --- |
@@ -103,7 +69,7 @@ Non leggere questo capitolo come teoria delle fonti in senso universitario: qui 
 
 Il candidato deve arrivare a una risposta chiara: l'autonomia locale non autorizza l'ente a fare ciò che vuole. Consente al Comune di disciplinare la propria organizzazione e l'esercizio delle funzioni entro un sistema di limiti.
 
-### Autonomia locale e autonomia normativa
+## Autonomia locale e autonomia normativa
 L'autonomia locale è il presupposto dello statuto e dei regolamenti. Il Comune, ente locale territoriale, opera dentro la Costituzione, dentro la legge e dentro il sistema delle competenze statali e regionali.
 
 Per i concorsi bisogna distinguere quattro piani.
@@ -118,7 +84,7 @@ Il quarto è il piano regolamentare. Il regolamento disciplina in modo più anal
 
 Questa sequenza consente di evitare due errori opposti. Il primo è ridurre il Comune a mero esecutore di norme statali. Il secondo è immaginare che l'autonomia locale consenta di superare i limiti posti dalla legge.
 
-### Perché statuto e regolamenti contano nei concorsi
+## Perché statuto e regolamenti contano nei concorsi
 Nei concorsi comunali statuto e regolamenti contano per tre ragioni.
 
 La prima ragione è istituzionale. Lo statuto aiuta a rispondere su organi, partecipazione, decentramento, rappresentanza, accesso, rapporti tra Comune e comunità locale, forme associative e criteri generali di organizzazione.
@@ -129,7 +95,7 @@ La terza ragione è concorsuale. Molte prove non chiedono di recitare una norma,
 
 Esempio: se la traccia dice che un cittadino presenta domanda per un servizio comunale regolato da criteri locali, il candidato non può rispondere solo con la legge generale sul procedimento. Deve spiegare che l'ufficio istruisce l'istanza secondo la legge generale, secondo il regolamento del servizio e secondo gli atti organizzativi dell'ente, adottando poi il provvedimento di competenza.
 
-### Statuto comunale: funzione e contenuto
+## Statuto comunale: funzione e contenuto
 Lo statuto è la fonte fondamentale dell'autonomia dell'ente. Non è un regolamento qualunque e non è un documento simbolico.
 
 Nel quadro del TUEL, lo statuto stabilisce le norme fondamentali dell'organizzazione dell'ente. In particolare, definisce attribuzioni degli organi nei limiti della legge, forme di garanzia e partecipazione, criteri generali di organizzazione, collaborazione tra enti, partecipazione popolare, decentramento, accesso dei cittadini alle informazioni e ai procedimenti, oltre agli elementi identificativi e agli ulteriori profili previsti dall'ordinamento.
@@ -146,7 +112,7 @@ Per il candidato, lo statuto va collegato a cinque domande:
 
 Una buona risposta non deve trasformare lo statuto in un elenco. Deve spiegare la funzione: lo statuto è la fonte che definisce la struttura fondamentale dell'ente locale nel rispetto della legge.
 
-### Statuto e singolo Comune: quando serve la fonte locale
+## Statuto e singolo Comune: quando serve la fonte locale
 Nel manuale si parla in termini generali di statuto comunale. Nella pratica, però, ogni Comune ha il proprio statuto. Questo punto è decisivo per la preparazione.
 
 Se il bando richiede espressamente la conoscenza dello statuto dell'ente, il candidato deve scaricare il testo ufficiale dal sito istituzionale del Comune o dell'Unione. Non basta conoscere il TUEL. In quel caso la prova potrebbe chiedere organi, commissioni, forme di partecipazione, istituti consultivi, diritti dei consiglieri, decentramento o modalità organizzative previste localmente.
@@ -161,7 +127,7 @@ oppure:
 
 La risposta corretta distingue sempre tra principio generale e fonte locale concreta. Nel primo caso si parla della funzione dello statuto nel sistema degli enti locali. Nel secondo caso si consulta lo statuto vigente dell'ente interessato.
 
-### Regolamenti comunali: dalla fonte alla procedura
+## Regolamenti comunali: dalla fonte alla procedura
 Il regolamento è lo strumento con cui l'autonomia normativa locale si traduce in regole operative e disciplina di dettaglio.
 
 Nei concorsi comunali i regolamenti più ricorrenti non sono tutti ugualmente importanti per ogni profilo. Un istruttore amministrativo incontra spesso procedimento, accesso, uffici e servizi, servizi al cittadino, concessioni, contributi, privacy organizzativa e protocollo. Un profilo contabile incontra contabilità, economato, tributi, entrate, patrimonio e riscossione. Un profilo tecnico-amministrativo incontra contratti, lavori, patrimonio, edilizia, occupazioni di suolo e servizi territoriali. Un profilo di polizia locale incontra regolamenti di polizia urbana, commercio, mercati, convivenza urbana e sanzioni amministrative nei limiti della normativa statale e regionale.
@@ -182,7 +148,7 @@ La seguente tabella funge da mappa di studio.
 
 La tabella non va memorizzata come catalogo chiuso. Serve a riconoscere la domanda nascosta nella traccia: quale regolamento devo cercare per risolvere il caso?
 
-### Il rapporto tra legge, statuto, regolamento e atto
+## Il rapporto tra legge, statuto, regolamento e atto
 La gerarchia delle fonti deve diventare una sequenza pratica. Nei casi comunali la catena ordinata è questa:
 
 | Livello | Funzione | Esempio di domanda |
@@ -197,7 +163,7 @@ La gerarchia delle fonti deve diventare una sequenza pratica. Nei casi comunali 
 
 La catena evita l'errore più frequente nelle prove: saltare direttamente dal principio generale al provvedimento finale senza verificare la fonte interna.
 
-### Statuto, regolamento e atto amministrativo: differenze essenziali
+## Statuto, regolamento e atto amministrativo: differenze essenziali
 Statuto, regolamento e atto amministrativo non svolgono la stessa funzione.
 
 Lo statuto ha una funzione fondativa e organizzativa. Disegna l'assetto fondamentale dell'ente e indica i principi interni di funzionamento.
@@ -208,7 +174,7 @@ L'atto amministrativo ha una funzione applicativa. Decide un caso, avvia una pro
 
 Il regolamento è la regola generale; la determinazione o il provvedimento è l'applicazione al caso concreto. Se il candidato confonde questi piani, attribuisce l'atto all'organo sbagliato o descrive una procedura senza base regolamentare. Il mini-esercizio finale allena proprio questa distinzione.
 
-### Chi approva statuto e regolamenti
+## Chi approva statuto e regolamenti
 Nel sistema comunale, statuto e regolamenti rientrano nella sfera degli atti fondamentali dell'ente e sono collegati al Consiglio comunale, secondo la disciplina del TUEL. Questa è la regola concorsuale da ricordare.
 
 Il Consiglio è l'organo di indirizzo e controllo politico-amministrativo. Proprio per questo, l'approvazione delle regole fondamentali e generali dell'ente non appartiene all'ordinaria gestione del responsabile di servizio.
@@ -221,7 +187,7 @@ In prova la risposta può essere costruita così:
 
 Separare organo politico, fonte normativa e gestione rende questa formula più sicura di un generico "decide il Comune".
 
-### I limiti dell'autonomia normativa locale
+## I limiti dell'autonomia normativa locale
 L'autonomia normativa locale non è un potere libero. Statuto e regolamenti devono rispettare la Costituzione, i principi dell'ordinamento, la legge statale, la legge regionale competente, il TUEL, il diritto europeo quando rilevante e le fonti sovraordinate.
 
 Il limite va spiegato in modo concreto.
@@ -234,7 +200,7 @@ Il punto da tenere fermo è:
 
 > l'autonomia normativa locale consente di adattare e disciplinare l'azione dell'ente, non di sottrarla alle fonti superiori.
 
-### Regolamenti e organizzazione degli uffici
+## Regolamenti e organizzazione degli uffici
 Un'area molto frequente nei concorsi riguarda l'organizzazione degli uffici e dei servizi. Qui il regolamento non è una nozione astratta: serve a capire come funziona la macchina comunale.
 
 Il regolamento sull'ordinamento degli uffici e dei servizi può disciplinare struttura, aree, settori, servizi, responsabilità, incarichi, modalità organizzative e rapporti interni, secondo la normativa sul pubblico impiego e l'ordinamento locale.
@@ -247,14 +213,14 @@ La seconda: aiuta a distinguere indirizzo politico e gestione. L'organo politico
 
 Una risposta matura non dice "l'ufficio decide". Dice: l'ufficio competente istruisce secondo la normativa generale, lo statuto, il regolamento di organizzazione e il regolamento del servizio; il responsabile adotta l'atto gestionale se la competenza non è riservata ad altro organo.
 
-### Regolamenti, procedimento e accesso
+## Regolamenti, procedimento e accesso
 Il procedimento amministrativo resta disciplinato dalla legge generale, trattata nel libro base: procedimento, partecipazione, accesso, motivazione, trasparenza, privacy e digitalizzazione. Nel Comune, regolamenti e atti organizzativi possono però precisare uffici competenti, responsabili, termini organizzativi, modulistica e gestione documentale.
 
 Esempio: una richiesta di accesso agli atti non si risolve inventando una procedura locale. Si applica la disciplina generale sull'accesso, ma l'ente può avere un regolamento che individua uffici, modalità di presentazione e canali digitali. La fonte locale non cancella la legge generale; la rende gestibile nell'organizzazione dell'ente.
 
 Questa distinzione prepara il capitolo sul procedimento locale, protocollo, albo, URP e accesso.
 
-### Regolamenti e servizi comunali
+## Regolamenti e servizi comunali
 Molti servizi comunali funzionano tramite regolamenti: servizi sociali ed educativi, impianti e sale pubbliche, contributi, mense e trasporto scolastico, mercati, beni patrimoniali e altri servizi a domanda individuale.
 
 In un caso pratico, il candidato deve seguire una sequenza.
@@ -268,7 +234,7 @@ In un caso pratico, il candidato deve seguire una sequenza.
 
 L'ufficio non può scegliere "a buon senso" chi ammettere a un servizio se il regolamento stabilisce requisiti, priorità o graduatorie. Allo stesso tempo, il regolamento non può introdurre criteri contrari a legge, ragionevolezza o parità di trattamento.
 
-### Unioni di Comuni e forme associative
+## Unioni di Comuni e forme associative
 Quando il bando riguarda un'Unione di Comuni, la domanda sulle fonti interne cambia. Non basta cercare lo statuto del Comune aderente: bisogna considerare lo statuto dell'Unione, i regolamenti dell'Unione, le convenzioni e gli atti che disciplinano il conferimento o l'esercizio associato delle funzioni.
 
 Il punto operativo è questo: una funzione può essere svolta da un ente diverso dal Comune singolo, pur restando collegata agli interessi delle comunità locali. Servizi sociali, polizia locale, tributi, personale, centrale di committenza, informatica, protezione civile o servizi tecnici possono essere organizzati in forma associata.
@@ -283,7 +249,7 @@ In prova bisogna quindi chiedersi:
 
 La risposta non deve trattare l'Unione come un dettaglio. Per chi concorre in un'Unione, le fonti interne dell'ente associativo possono incidere direttamente su mansioni, uffici e procedimenti.
 
-### Come rispondere all'orale
+## Come rispondere all'orale
 Una domanda orale su statuto, regolamenti e autonomia normativa locale va costruita in quattro passaggi.
 
 Primo: definire il quadro. Il Comune è ente locale territoriale dotato di autonomia, ma opera nei limiti della Costituzione, della legge e del TUEL.
@@ -298,7 +264,7 @@ Una risposta completa può essere:
 
 > L'autonomia normativa locale si manifesta attraverso statuto e regolamenti. Lo statuto contiene le norme fondamentali dell'organizzazione dell'ente e disciplina profili come organi, partecipazione, accesso e criteri generali. I regolamenti disciplinano materie e servizi in modo operativo, sempre nel rispetto della Costituzione, della legge, del TUEL e delle competenze statali o regionali. Nei concorsi e nei casi pratici occorre quindi individuare la fonte generale, poi la fonte locale, poi l'organo competente e infine l'atto gestionale applicativo.
 
-### Caso guidato
+## Caso guidato
 Un Comune approva un regolamento per l'accesso a un servizio comunale di sostegno alle famiglie. Il regolamento stabilisce requisiti, criteri di priorità, documenti da presentare, termini per la domanda e modalità di formazione della graduatoria. Una cittadina presenta domanda incompleta oltre il termine previsto, chiedendo comunque l'ammissione per ragioni di urgenza.
 
 La traccia chiede: come deve procedere l'ufficio?
@@ -319,24 +285,24 @@ La soluzione corretta è:
 
 > l'ufficio applica il regolamento del servizio e la disciplina generale del procedimento, verifica se esistono margini regolamentari per integrazione o regolarizzazione, garantisce parità di trattamento rispetto agli altri richiedenti e propone o adotta il provvedimento finale secondo la competenza gestionale. La decisione deve essere motivata sulla base della fonte regolamentare e degli atti del procedimento.
 
-### Da sapere in 5 righe
+## Da sapere in 5 righe
 1. Lo statuto è la fonte fondamentale dell'organizzazione dell'ente locale.
 2. I regolamenti disciplinano materie, uffici, servizi e procedure in modo generale e operativo.
 3. Autonomia normativa non significa libertà di derogare alla legge.
 4. Nei casi pratici bisogna costruire la catena: fonte generale, statuto, regolamento, organo competente, atto gestionale.
 5. Se il bando riguarda un ente specifico, statuto e regolamenti vanno cercati sul sito istituzionale dell'ente.
 
-### Domanda da commissario
+## Domanda da commissario
 Che differenza c'è tra statuto comunale e regolamento comunale?
 
 Lo statuto ha funzione fondamentale e organizzativa: definisce l'assetto essenziale dell'ente, i principi di funzionamento, le forme di partecipazione, i criteri generali di organizzazione e altri profili previsti dall'ordinamento. Il regolamento ha funzione più specifica e operativa: disciplina materie, servizi, uffici, procedure e criteri applicabili a una pluralità di casi. Entrambi sono espressione dell'autonomia locale, ma devono rispettare Costituzione, legge, TUEL e fonti sovraordinate. Nei casi pratici lo statuto orienta l'organizzazione, mentre il regolamento spesso fornisce la regola concreta da applicare.
 
-### Domanda-trappola
+## Domanda-trappola
 Un regolamento comunale può derogare alla legge nazionale se il Comune ritiene che la soluzione locale sia più adatta al territorio?
 
 No. Il regolamento comunale può disciplinare aspetti locali e operativi, ma non può violare o derogare alle fonti superiori. L'autonomia normativa locale opera entro i limiti della Costituzione, della legge, del TUEL e delle competenze statali o regionali. Se una norma di legge stabilisce un principio o una regola inderogabile, il regolamento comunale incompatibile non può essere applicato come fonte prevalente.
 
-### Errore tipico
+## Errore tipico
 Un errore frequente consiste nel citare statuto e regolamenti come parole di contorno, senza usarli nella soluzione del caso.
 
 Esempio di risposta debole:
@@ -349,7 +315,7 @@ Risposta più solida:
 
 > Il Comune può disciplinare il servizio mediante regolamento, nel rispetto della legge e del TUEL. Il regolamento definisce criteri generali, requisiti e modalità operative; l'ufficio competente istruisce la domanda e il responsabile adotta il provvedimento finale, motivandolo sulla base della disciplina applicabile.
 
-### Mini-esercizio
+## Mini-esercizio
 Leggi la seguente traccia:
 
 > Il Comune deve disciplinare l'uso temporaneo di una sala civica da parte di associazioni e cittadini. Occorre stabilire requisiti, priorità, eventuali tariffe, responsabilità per danni e modalità di domanda. Dopo l'approvazione della disciplina, un'associazione presenta istanza per una data già richiesta da un altro soggetto.
@@ -376,7 +342,7 @@ Soluzione attesa:
 | Atto finale nel caso concreto | Provvedimento o determinazione di concessione, diniego o assegnazione secondo i criteri regolamentari. |
 | Errore da evitare | Decidere la priorità caso per caso senza applicare criteri generali e parità di trattamento. |
 
-### Diario errori del capitolo
+## Diario errori del capitolo
 
 | Errore | Effetto in prova | Correzione operativa |
 | --- | --- | --- |
@@ -387,7 +353,7 @@ Soluzione attesa:
 | Dimenticare l'Unione di Comuni | Applicazione della fonte sbagliata. | Verificare ente competente, statuto dell'Unione e regolamenti vigenti. |
 | Attribuire al responsabile l'approvazione del regolamento | Confusione tra indirizzo politico e gestione. | Collegare regolamenti agli atti fondamentali e la gestione agli atti applicativi. |
 
-### Checklist operativa finale
+## Checklist operativa finale
 - so spiegare che cos'è l'autonomia normativa locale?
 - so distinguere statuto, regolamento e atto amministrativo?
 - so collocare statuto e regolamenti sotto Costituzione, legge e TUEL?
@@ -397,18 +363,12 @@ Soluzione attesa:
 - so evitare la risposta "il Comune è autonomo, quindi può decidere"?
 - so cercare statuto e regolamenti sul sito dell'ente quando il bando riguarda un Comune o un'Unione specifica?
 
-### Riferimenti consolidati
-- [[sources/costituzione-repubblica-italiana-testo-vigente|Costituzione della Repubblica italiana - testo vigente]]
-- [[sources/d-lgs-18-agosto-2000-n-267-enti-locali|D.Lgs. 18 agosto 2000, n. 267 - Testo unico enti locali]]
-- [[sources/vol-02-dossier-redazionale-enti-locali-polizia-locale|VOL-02 - dossier redazionale Enti locali e Polizia locale]]
-- [[sources/bandi-inpa-vol-02-campione-2026|Campione bandi inPA 2026 per VOL-02]]
-- [[topics/enti-locali|Enti locali]]
-- [[entities/comune|Comune]]
-- [[topics/metodo-bando|Metodo BANDO]]
+## Riferimenti normativi e professionali essenziali
+- Costituzione della Repubblica italiana - testo vigente
+- D.Lgs. 18 agosto 2000, n. 267 - Testo unico enti locali
+- VOL-02 - dossier redazionale Enti locali e Polizia locale
+- Campione bandi inPA 2026 per VOL-02
+- Enti locali
+- Comune
+- Metodo BANDO
 - [[books/il-metodo-bando/index|Il Metodo BANDO (VOL-01)]] - per procedimento amministrativo generale, accesso, trasparenza, privacy, digitalizzazione e contratti pubblici essenziali.
-
-### Note di review
-- Prima della pubblicazione verificare sul testo vigente Normattiva eventuali citazioni puntuali degli articoli del TUEL su statuti, regolamenti e competenze consiliari.
-- Non inserire esempi di statuti o regolamenti di singoli Comuni senza fonte istituzionale dell'ente.
-- Se un bando richiede lo statuto dell'ente o regolamenti specifici, integrare il capitolo con una scheda locale separata e datata.
-- Le norme regionali possono incidere su servizi, polizia locale, welfare, commercio e funzioni territoriali: usare esempi generali finché il bando non indica una Regione o un ente determinato.

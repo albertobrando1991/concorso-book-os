@@ -358,3 +358,28 @@ Le tabelle devono restare leggibili nel formato KDP. Dividere l'inventario e la 
 ## 15. Esito del piano
 
 Il piano è pronto per la scrittura, ma lo step 09 deve prima consolidare le fonti primarie specialistiche su data governance, metadati, qualità, open data e interoperabilità europea. Il capitolo non va dichiarato completo basandosi soltanto sulle fonti generali già disponibili.
+
+## Addendum retrofit formato 2 — 11 agosto 2026
+
+Il piano resta conservativo: il testo legacy valido viene redistribuito nei sette nuclei sotto indicati e ampliato soltanto dove serve a rendere esplicita la copertura richiesta. Non si ripetono la modellazione e i vincoli di base del capitolo 04, i contratti API e l'operatività di ModI/PDND del capitolo 06, né IAM, logging e risposta agli incidenti del capitolo 09. La governance di dati per AI rimane un raccordo verso il capitolo 11.
+
+| Nucleo ID | Titolo e contenuto | Stato di partenza | Intervento e verifica |
+| --- | --- | --- | --- |
+| `N-TR01-10-01` | Il dato come asset informativo e il confine tra governance, gestione e architettura | parziale | Rendere autonome definizioni, decisioni, evidenze ed effetto sul procedimento; quiz 1. |
+| `N-TR01-10-02` | Ruoli, decisioni, RACI ed evidenze | parziale | Distinguere owner, steward, custodian e funzioni di processo senza attribuire qualifiche legali; quiz 2 e matrice ruolo-decisione-evidenza. |
+| `N-TR01-10-03` | Ciclo di vita, classificazione e lineage | parziale | Collegare finalità, acquisizione, validazione, uso, condivisione, conservazione e dismissione; quiz 3. |
+| `N-TR01-10-04` | Inventario, catalogo, glossario e metadati | parziale | Separare chiaramente gli artefatti e rendere compilabile una scheda dataset; quiz 4 e laboratorio. |
+| `N-TR01-10-05` | Qualità del dato: regole, metriche, anomalie e rimedio | parziale | Passare dalle dimensioni alle regole misurabili e alla responsabilità di chiusura; quiz 5. |
+| `N-TR01-10-06` | Open data, riuso, distribuzioni e limiti | parziale | Distinguere pubblicazione web, trasparenza, accesso, condivisione e riuso; quiz 6. |
+| `N-TR01-10-07` | Interoperabilità, privacy, sicurezza e responsabilizzazione | parziale | Trattare i quattro livelli e la decisione organizzativa; rinvio preciso al capitolo 06 per ModI, PDND ed e-service; caso guidato. |
+
+### Struttura e budget del retrofit
+
+- H1 invariato; apertura, obiettivo e Mappa BANDO sono mantenuti prima dei nuclei.
+- Sette heading H2 nel formato `N-TR01-10-NN · titolo`; ogni nucleo ha almeno 600 parole, con definizione, funzione, elementi, distinzioni, conseguenze, uso d'esame, errore ed evidenza quando pertinenti.
+- Dopo il settimo nucleo compare un solo blocco `▣ Verifica`, con sei quiz commentati e il caso delle occupazioni di suolo pubblico. Il laboratorio conserva inventario, scheda dataset e albero decisionale come strumenti stampabili.
+- Budget: almeno 4.200 parole nei nuclei, oltre ad apertura, caso, laboratorio, domanda orale e verifica; obiettivo editoriale 5.200-6.200 parole complessive.
+
+### Fonti, rinvii e audit
+
+Usare esclusivamente le source note consolidate elencate nella sezione 8, in particolare `data-governance-open-data-interoperabilita-fonti-primarie` e il Piano Triennale AgID. Nel corpo, il rinvio a ModI, PDND ed e-service è: capitolo 06, sezione "N-TR01-06-06 · Interoperabilità PA ed e-service"; il rinvio serve soltanto ai dettagli di contratto e piattaforma, non alla teoria organizzativa qui sviluppata. Prima del text freeze gli step 13-18 devono ricontrollare al cut-off fonti mobili, profilo DCAT-AP_IT, linee guida AgID, licenze e campo di applicazione dei dataset di elevato valore. Il capitolo non dichiara conclusi tali debiti specialistici o normativi.

@@ -20,13 +20,13 @@ draft_stage: revised-editorial-draft
 last_compiled_from: ["sources/banca-dati-ufficiale-quiz-metodo-bando.md", "topics/banca-dati-ufficiale-quiz.md", "topics/prova-a-quiz.md", "topics/metodo-bando.md", "topics/diario-errori.md", "topics/simulazioni-concorsuali.md", "topics/strategia-punteggio-prova-concorsuale.md", "topics/ripasso-finale-concorsi.md", "topics/scelta-materiali-studio-concorsi.md"]
 ---
 
-# Capitolo 42 - Banca dati ufficiale: studiarla senza memorizzare male
+# R18 - Banca dati ufficiale: studiarla senza memorizzare male
 
 La banca dati ufficiale sembra una scorciatoia.
 
 Hai le domande. Hai le risposte. Sai che cosa può uscire. Il problema, almeno in apparenza, è risolto.
 
-Molti candidati peggiorano proprio quando esce la banca dati. Entrano in modalità accumulo: mille quiz al giorno, screenshot, file duplicati, app, gruppi, ripassi casuali e classifiche di percentuale. Dopo pochi giorni riconoscono molte domande, ma non sanno più se stanno capendo o ricordando solo l'ordine delle opzioni.
+Molti candidati peggiorano proprio quando esce la banca dati. Entrano in modalità accumulo: mille quiz al giorno, screenshot, file duplicati, app, gruppi, ripassi casuali e classifiche di percentuale. Dopo pochi giorni riconoscono molte domande, ma non sanno più se stanno capendo o ricordando solo l’ordine delle opzioni.
 
 La banca dati ufficiale è potente solo se la tratti come uno strumento di procedura, non come una giostra di domande.
 
@@ -56,7 +56,7 @@ Questo capitolo non sostituisce il capitolo sulla prova a quiz. Lo approfondisce
 
 Non tutte le banche dati sono uguali.
 
-Nel linguaggio dei candidati, "banca dati" può voler dire molte cose: file pubblicato dall'amministrazione, raccolta commerciale, quiz di un corso, archivio di vecchi concorsi, elenco condiviso in un gruppo, domande generate da un software.
+Nel linguaggio dei candidati, “banca dati” può voler dire molte cose: file pubblicato dall’amministrazione, raccolta commerciale, quiz di un corso, archivio di vecchi concorsi, elenco condiviso in un gruppo, domande generate da un software.
 
 Per il Metodo BANDO la distinzione è netta:
 
@@ -87,6 +87,8 @@ Se non sai rispondere a queste domande, non sei ancora pronto per fare quiz. Sei
 
 ![Mappa banca dati](../assets/chapter-42/01-mappa-banca-dati.png)
 
+*Figura 42.1 - Mappa banca dati.*
+
 La banca dati ufficiale va inserita dentro il Metodo BANDO.
 
 | Fase BANDO | Domanda guida | Output pratico |
@@ -97,13 +99,15 @@ La banca dati ufficiale va inserita dentro il Metodo BANDO.
 | **D - Domande** | Quali quesiti sono sicuri, incerti, lenti o sbagliati? | Registro tag domanda e Diario degli errori. |
 | **O - Output** | Riesco a rispondere nel tempo e a spiegare il perché? | Simulazioni, micro-spiegazioni, fascicolo finale. |
 
-Questa tabella impedisce l'errore più frequente: aprire la banca dati e partire dalla prima domanda senza sapere che cosa stai misurando.
+Questa tabella impedisce l’errore più frequente: aprire la banca dati e partire dalla prima domanda senza sapere che cosa stai misurando.
 
 Una banca dati non è una fila di quiz. È una mappa della prova.
 
 ## Il protocollo in quattro fasi
 
-![Verifica dell'ufficialità della fonte](../assets/chapter-42/02-verifica-ufficialita.png)
+![Verifica dell’ufficialità della fonte](../assets/chapter-42/02-verifica-ufficialita.png)
+
+*Figura 42.2 - Verifica dell’ufficialità della fonte.*
 
 Con banca dati ufficiale, il lavoro procede in quattro fasi.
 
@@ -112,13 +116,13 @@ Con banca dati ufficiale, il lavoro procede in quattro fasi.
 3. Ripetere e distribuire.
 4. Simulare.
 
-Se inverti l'ordine, perdi controllo. La simulazione fatta troppo presto produce ansia e percentuali inutili. La ripetizione senza classificazione produce memoria fragile. La copertura senza mappa produce confusione.
+Se inverti l’ordine, perdi controllo. La simulazione fatta troppo presto produce ansia e percentuali inutili. La ripetizione senza classificazione produce memoria fragile. La copertura senza mappa produce confusione.
 
 ### Fase 1 - Mappare e coprire
 
 Il primo giro non serve a dimostrare che sei bravo.
 
-Serve a sapere che cosa c'è dentro.
+Serve a sapere che cosa c’è dentro.
 
 Obiettivo della fase 1:
 
@@ -146,7 +150,7 @@ Se la banca dati è molto ampia, puoi lavorare per blocchi. Ma ogni blocco deve 
 
 ### Fase 2 - Capire e classificare
 
-Nel secondo giro non devi "rifare tutto". Devi capire che cosa è successo.
+Nel secondo giro non devi “rifare tutto”. Devi capire che cosa è successo.
 
 Ogni domanda non sicura riceve un tag.
 
@@ -159,7 +163,7 @@ Ogni domanda non sicura riceve un tag.
 | Indovinata | Risposta corretta senza controllo del ragionamento. | Trattare come errore potenziale. |
 | Da spiegare | Domanda collegata a concetto utile per orale o scritto. | Micro-spiegazione in 60-90 secondi. |
 
-La domanda "indovinata" è pericolosa. La percentuale la conta come corretta, ma il concorso può punirla alla domanda successiva, quando cambia un distrattore o il testo è leggermente diverso.
+La domanda “indovinata” è pericolosa. La percentuale la conta come corretta, ma il concorso può punirla alla domanda successiva, quando cambia un distrattore o il testo è leggermente diverso.
 
 Nel Metodo BANDO, una domanda è davvero acquisita solo quando soddisfa tre condizioni:
 
@@ -223,7 +227,9 @@ Se una simulazione non produce almeno una decisione, è solo intrattenimento con
 
 ## Come studiare una singola domanda
 
-![Protocollo dalla fonte verificata alla correzione dell'errore](../assets/chapter-42/03-protocollo-quattro-fasi.png)
+![Protocollo dalla fonte verificata alla correzione dell’errore](../assets/chapter-42/03-protocollo-quattro-fasi.png)
+
+*Figura 42.3 - Protocollo dalla fonte verificata alla correzione dell’errore.*
 
 Il modo in cui studi una domanda determina la qualità della memoria.
 
@@ -269,10 +275,10 @@ Il problema è memorizzare la cosa sbagliata.
 
 | Memorizzazione cattiva | Memorizzazione utile |
 |---|---|
-| Ricordare che la risposta era "la C". | Ricordare la regola che rende corretta quella risposta. |
-| Riconoscere la posizione dell'opzione. | Riconoscere il nucleo della domanda. |
-| Ripetere l'intero testo a vista. | Saper sintetizzare il concetto in una frase. |
-| Fidarsi del colore o dell'interfaccia dell'app. | Saper rispondere anche se l'ordine cambia. |
+| Ricordare che la risposta era “la C”. | Ricordare la regola che rende corretta quella risposta. |
+| Riconoscere la posizione dell’opzione. | Riconoscere il nucleo della domanda. |
+| Ripetere l’intero testo a vista. | Saper sintetizzare il concetto in una frase. |
+| Fidarsi del colore o dell’interfaccia dell’app. | Saper rispondere anche se l’ordine cambia. |
 | Saltare la correzione perché la percentuale è alta. | Studiare le domande corrette per caso. |
 
 Una prova può presentare le opzioni in ordine diverso, può estrarre domande in modo non prevedibile, può inserire istruzioni specifiche o può essere somministrata in un ambiente diverso da quello in cui ti sei allenato.
@@ -283,16 +289,18 @@ Per questo devi allenare il contenuto, non lo schermo.
 
 ![Dalla domanda alla spiegazione sicura](../assets/chapter-42/04-domanda-spiegazione.png)
 
+*Figura 42.4 - Dalla domanda alla spiegazione sicura.*
+
 Il Diario degli errori cambia forma quando lavori su banca dati ufficiale.
 
-Non basta scrivere "sbagliata". Devi sapere perché.
+Non basta scrivere “sbagliata”. Devi sapere perché.
 
 | Tipo errore | Segnale | Correzione |
 |---|---|---|
 | Memoria | Conoscevo il tema, ma non ricordavo il dato o la regola. | Richiamo attivo e ripasso distribuito. |
 | Concetto | Non avevo capito la distinzione di fondo. | Tornare alla fonte o alla scheda teorica. |
-| Lettura | Ho letto male una negazione, un "non", un "sempre", un "salvo". | Allenamento su parole-spia e rilettura finale. |
-| Distrattore | Un'opzione plausibile mi ha attirato. | Confronto tra risposta corretta e risposta scelta. |
+| Lettura | Ho letto male una negazione, un “non”, un “sempre”, un “salvo”. | Allenamento su parole-spia e rilettura finale. |
+| Distrattore | Un’opzione plausibile mi ha attirato. | Confronto tra risposta corretta e risposta scelta. |
 | Tempo | Sapevo rispondere, ma troppo lentamente. | Sessioni brevi cronometrate. |
 | Strategia | Ho risposto quando dovevo saltare o ho saltato quando dovevo rispondere. | Regola personale su rischio e penalità. |
 
@@ -302,13 +310,15 @@ Esempio:
 |---|---|---|---|
 | Accesso documentale e accesso civico | Scelto istituto sbagliato | Concetto | Rifare scheda comparativa e 10 quiz mirati. |
 | Termine procedimentale | Risposta corretta ma lenta | Tempo | 15 domande cronometrate su procedimento. |
-| Quesito con "non" | Sbagliata | Lettura | Evidenziare parole-spia prima di rispondere. |
+| Quesito con “non” | Sbagliata | Lettura | Evidenziare parole-spia prima di rispondere. |
 
-Il Diario è utile solo se modifica il piano. Se oggi sbagli tre domande sullo stesso nucleo, domani quel nucleo entra nel piano. Se dopo una settimana l'errore resta vivo, entra nel fascicolo finale.
+Il Diario è utile solo se modifica il piano. Se oggi sbagli tre domande sullo stesso nucleo, domani quel nucleo entra nel piano. Se dopo una settimana l’errore resta vivo, entra nel fascicolo finale.
 
 ## Il piano 21/14/7 giorni
 
 ![Diario degli errori dedicato alla banca dati](../assets/chapter-42/05-diario-errori-banca-dati.png)
+
+*Figura 42.5 - Diario degli errori dedicato alla banca dati.*
 
 Non sempre hai mesi. Spesso la banca dati viene pubblicata quando il calendario è già vicino.
 
@@ -365,7 +375,7 @@ Per questo devi conservare una scheda versione.
 | Ultimo controllo | |
 | Differenze rispetto alla versione precedente | |
 
-Non affidarti al "me l'hanno detto nel gruppo". Il gruppo può segnalare un avviso, ma la decisione si prende sulla fonte ufficiale.
+Non affidarti al “me l’hanno detto nel gruppo”. Il gruppo può segnalare un avviso, ma la decisione si prende sulla fonte ufficiale.
 
 Se esce una correzione:
 
@@ -402,17 +412,17 @@ Se compaiono tre di questi segnali, fermati per una sessione e rimetti ordine:
 
 ## Dalla domanda alla spiegazione
 
-Una banca dati ufficiale può aiutarti anche se dopo il quiz c'è uno scritto o un orale.
+Una banca dati ufficiale può aiutarti anche se dopo il quiz c’è uno scritto o un orale.
 
 Ogni domanda importante può diventare una micro-spiegazione.
 
 Formula:
 
-1. "La domanda riguarda..."
-2. "La regola è..."
-3. "La risposta corretta è..."
-4. "Il distrattore è sbagliato perché..."
-5. "In prova devo ricordare..."
+1. “La domanda riguarda...”
+2. “La regola è...”
+3. “La risposta corretta è...”
+4. “Il distrattore è sbagliato perché...”
+5. “In prova devo ricordare...”
 
 Esempio astratto:
 
@@ -420,9 +430,9 @@ Esempio astratto:
 |---|---|
 | Nucleo | Differenza tra due istituti amministrativi. |
 | Regola | I due istituti hanno presupposti, effetti e procedura diversi. |
-| Risposta | Scelgo l'opzione coerente con il presupposto indicato. |
-| Distrattore | È plausibile per nome, ma appartiene all'altro istituto. |
-| Promemoria | Leggere prima il presupposto, poi l'effetto. |
+| Risposta | Scelgo l’opzione coerente con il presupposto indicato. |
+| Distrattore | È plausibile per nome, ma appartiene all’altro istituto. |
+| Promemoria | Leggere prima il presupposto, poi l’effetto. |
 
 Questa trasformazione è importante per due motivi.
 
@@ -433,6 +443,8 @@ Secondo: evita che la banca dati ti renda muto davanti a una domanda orale. Se s
 ## Caso guidato: Luca e la banca dati da 3.000 quiz
 
 ![Piano a finestre per una banca dati ampia](../assets/chapter-42/06-piano-banca-dati.png)
+
+*Figura 42.6 - Piano a finestre per una banca dati ampia.*
 
 Luca prepara una prova preselettiva con banca dati ufficiale. Il file contiene 3.000 quesiti. Mancano 18 giorni.
 
@@ -449,7 +461,7 @@ Dopo due giorni ha questi dati:
 | Simulazioni complete | 3 |
 | Decisioni operative | 0 |
 
-Sembra lavoro. In realta è rumore.
+Sembra lavoro. In realtà è rumore.
 
 Luca cambia metodo.
 
@@ -477,7 +489,7 @@ Non rifare tutto. Lavora sui tag.
 | Indovinate | 96 | Trattate come rischio |
 | Da spiegare | 42 | Micro-esposizione |
 
-La percentuale iniziale non era il dato più importante. Il dato più importante era la composizione dell'errore.
+La percentuale iniziale non era il dato più importante. Il dato più importante era la composizione dell’errore.
 
 ### Giorni 7-4: simulazioni
 
@@ -526,6 +538,8 @@ Confondere i due scenari è un errore serio.
 
 ![Caso guidato: gestione sicura di una banca dati estesa](../assets/chapter-42/07-caso-banca-dati.png)
 
+*Figura 42.7 - Caso guidato: gestione sicura di una banca dati estesa.*
+
 1. La banca dati ufficiale è materiale di procedura: va verificata su bando e avvisi.
 2. Prima si copre, poi si classifica, poi si ripete, poi si simula.
 3. Una risposta corretta per caso è un errore nascosto.
@@ -546,9 +560,9 @@ Confondere i due scenari è un errore serio.
 
 ## Errore tipico
 
-L'errore tipico è misurare il lavoro con il numero di quiz svolti.
+L’errore tipico è misurare il lavoro con il numero di quiz svolti.
 
-"Ho fatto 1.200 domande" non significa molto.
+“Ho fatto 1.200 domande” non significa molto.
 
 Conta di più sapere:
 
@@ -576,7 +590,7 @@ Prendi una banca dati ufficiale o, se non ne hai una, un blocco di 50 quiz coere
 9. misura quante sono diventate davvero sicure;
 10. scrivi una decisione per il piano dei prossimi tre giorni.
 
-Se alla fine hai solo una percentuale, l'esercizio è incompleto. Se hai una decisione, il metodo sta funzionando.
+Se alla fine hai solo una percentuale, l’esercizio è incompleto. Se hai una decisione, il metodo sta funzionando.
 
 ## Checklist operativa
 
@@ -603,9 +617,3 @@ Se alla fine hai solo una percentuale, l'esercizio è incompleto. Se hai una dec
 - [[books/il-metodo-bando/chapters/simulazioni-concorsuali-dalla-preparazione-alla-prova]]
 - [[books/il-metodo-bando/chapters/strategia-di-punteggio-soglie-tempo-rischio-prova]]
 - [[books/il-metodo-bando/chapters/ripasso-finale-consolidare-senza-saturarsi]]
-
-## Fonti e note di revisione
-
-Questo capitolo usa fonti consolidate interne su prova a quiz, apprendimento efficace, scelta dei materiali, simulazioni, strategia di punteggio, ripasso finale e checklist operative.
-
-Prima della pubblicazione finale, gli esempi devono essere verificati per evitare riferimenti impliciti a una procedura reale. Ogni richiamo a banca dati, punteggio, soglia, penalità, pubblicazione o aggiornamento deve restare subordinato al bando e agli avvisi ufficiali della singola procedura.

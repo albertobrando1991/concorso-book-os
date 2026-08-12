@@ -52,50 +52,6 @@ export async function runCommand(args: ParsedArgs): Promise<CommandResult> {
   throw new Error(`Comando "${args.command}" non ancora implementato in questa versione della pipeline.`)
 }
 
-async function reopen(context: Context): Promise<CommandResult> {
-  if (!context.args.note?.trim()) throw new Error("pipeline reopen richiede --note con la motivazione verificabile.")
-  if (!context.args.fromStep) throw new Error("pipeline reopen richiede --from-step con l'id iniziale.")
-
-  const { state, spec } = await load(context)
-  const module = context.args.module
-    ? spec.modules.find((candidate) => candidate.code.toLowerCase() === context.args.module?.trim().toLowerCase())
-    : spec.modules.length === 1 ? spec.modules[0] : undefined
-
-  if (!module) {
-    throw new Error(`Modulo ${context.args.module || "non specificato"} non trovato in ${spec.volumeCode}.`)
-  }
-
-  const chapter = context.args.chapter
-    ? module.chapters.find((candidate) => candidate.number === context.args.chapter)
-    : undefined
-
-  if (context.args.chapter && !chapter) {
-    throw new Error(`Capitolo ${context.args.chapter} non trovato nel modulo ${module.code}.`)
-  }
-
-  const chapterTarget = chapter ? `${module.moduleId}/${chapter.file}` : undefined
-  const updated = reopenSteps(state, {
-    fromStep: context.args.fromStep,
-    moduleTarget: module.moduleId,
-    chapterTarget,
-    note: context.args.note,
-    actor: context.args.owner || detectOwner(),
-    now: context.now
-  })
-  await saveRunState(context.projectRoot, updated)
-  const event = updated.reopenHistory?.at(-1)
-
-  return {
-    exitCode: 0,
-    payload: { ok: true, command: "reopen", volumeCode: state.volumeCode, event, next: nextStep(updated) ?? null },
-    lines: [
-      `Riaperti ${event?.reopenedKeys.length ?? 0} step di ${state.volumeCode} da ${context.args.fromStep}.`,
-      `Perimetro: ${chapterTarget || module.moduleId}`,
-      `Motivazione: ${context.args.note.trim()}`
-    ]
-  }
-}
-
 async function doctor(context: Context): Promise<CommandResult> {
   const checks = await runDoctor({ projectRoot: context.projectRoot })
   const failed = checks.filter((check) => !check.ok)
@@ -308,6 +264,44 @@ async function sync(context: Context): Promise<CommandResult> {
   }
 }
 
+async function reopen(context: Context): Promise<CommandResult> {
+  if (!context.args.step) {
+    throw new Error('pipeline reopen richiede --step, per esempio --step 08.')
+  }
+
+  if (context.args.step === "24") {
+    throw new Error("Lo step 24 è la conferma umana finale e non può essere riaperto dalla CLI.")
+  }
+
+  if (!context.args.note?.trim()) {
+    throw new Error('pipeline reopen richiede --note con la motivazione della riapertura.')
+  }
+
+  const { state, spec } = await load(context)
+  const startKeys = reopenStartKeys(state, spec, context)
+  const result = reopenSteps(state, {
+    startKeys,
+    cascade: context.args.cascade,
+    note: context.args.note,
+    now: context.now
+  })
+  await saveRunState(context.projectRoot, result.state)
+
+  return {
+    exitCode: 0,
+    payload: {
+      ok: true,
+      command: "reopen",
+      volumeCode: state.volumeCode,
+      startKeys,
+      reopened: result.reopenedKeys
+    },
+    lines: [
+      `Volume ${state.volumeCode}: riaperti ${result.reopenedKeys.length} step a partire da ${startKeys.join(", ")}.`,
+      `Motivazione: ${context.args.note.trim()}`
+    ]
+  }
+}
 function help(): CommandResult {
   return {
     exitCode: 0,
@@ -322,7 +316,7 @@ function help(): CommandResult {
       "  pipeline gate VOL-03 --step 10           esegue il gate senza chiudere lo step",
       "  pipeline complete VOL-03 --step 09       chiude lo step se il gate passa",
       "  pipeline sync VOL-03                     riallinea il run-state alla scheda",
-      "  pipeline reopen VOL-03 --from-step 08 --module M-FC02 --note \"motivo\"",
+      '  pipeline reopen VOL-08 --step 08 --module M-TR01 --cascade --note "motivo"',
       "",
       "  --json      output strutturato per gli agenti",
       "  --force     subentra a uno step in carico ad altri",
@@ -428,6 +422,56 @@ function targetFilter(state: RunState, context: Context) {
   return state.steps.find((step) => matchesFilters(step, context))?.target
 }
 
+function reopenStartKeys(state: RunState, spec: VolumeSpec, context: Context) {
+  const stepId = context.args.step as string
+  const moduleCode = context.args.module?.trim()
+  const chapter = context.args.chapter?.trim()
+
+  if (!moduleCode && !chapter) {
+    throw new Error("pipeline reopen richiede --module o --chapter per risolvere i target dichiarati nella scheda del volume.")
+  }
+
+  const modules = moduleCode
+    ? spec.modules.filter((item) => item.code.trim().toLowerCase() === moduleCode.toLowerCase())
+    : spec.modules
+
+  if (!modules.length) {
+    throw new Error(`Modulo ${moduleCode} non dichiarato nella scheda di ${spec.volumeCode}.`)
+  }
+
+  const definition = requireStepDefinition(stepId)
+  let targets: string[]
+
+  if (definition.scope === "chapter") {
+    const matchingModules = chapter
+      ? modules.filter((module) => module.chapters.some((item) => item.number === chapter))
+      : modules
+
+    targets = matchingModules.flatMap((module) =>
+      module.chapters
+        .filter((item) => !chapter || item.number === chapter)
+        .map((item) => `${module.moduleId}/${item.file}`)
+    )
+
+    if (!targets.length) {
+      throw new Error(`Capitolo ${chapter} non dichiarato${moduleCode ? ` per il modulo ${moduleCode}` : ""}.`)
+    }
+  } else {
+    if (chapter) {
+      throw new Error(`Lo step ${stepId} non è per capitolo: rimuovi --chapter.`)
+    }
+
+    targets = modules.map((module) => module.moduleId)
+  }
+
+  const startKeys = state.steps.filter((step) => step.id === stepId && targets.includes(step.target)).map((step) => step.key)
+
+  if (!startKeys.length) {
+    throw new Error(`Lo step ${stepId}${describeFilters(context)} non è presente nel run-state di ${state.volumeCode}.`)
+  }
+
+  return startKeys
+}
 function moduleOf(spec: VolumeSpec, step: StepRecord) {
   return spec.modules.find((module) => step.target === module.moduleId || step.target.startsWith(`${module.moduleId}/`))
 }

@@ -26,7 +26,7 @@ last_compiled_from: ["sources/capitolo-17-18-corpus-casi-pratici-quesiti-situazi
 
 Nel caso pratico il concorso chiede che cosa faresti, non solo che cosa sai. Leggi la situazione, individua il soggetto competente e il problema, rispetta termini e vincoli, scegli una soluzione e motivala con ordine.
 
-Questo tipo di prova mette in difficoltà molti candidati per un motivo preciso: lo studio tradizionale prepara a ripetere argomenti, non a usarli. Un candidato può conoscere procedimento, accesso, privacy e contratti, ma bloccarsi davanti a una traccia concreta. Può trattarsi di una domanda incompleta, di una richiesta inviata all'ufficio sbagliato, di documenti con dati di terzi, di una pratica in ritardo o del sollecito di un operatore economico.
+Questo tipo di prova mette in difficoltà molti candidati per un motivo preciso: lo studio tradizionale prepara a ripetere argomenti, non a usarli. Un candidato può conoscere procedimento, accesso, privacy e contratti, ma bloccarsi davanti a una traccia concreta. Può trattarsi di una domanda incompleta, di una richiesta inviata all’ufficio sbagliato, di documenti con dati di terzi, di una pratica in ritardo o del sollecito di un operatore economico.
 
 In questi casi non vince chi scrive più teoria. Vince chi ragiona come un funzionario pubblico.
 
@@ -35,8 +35,8 @@ Ragionare come un funzionario significa tenere insieme cinque dimensioni:
 - la regola, perché la pubblica amministrazione non agisce a intuito;
 - il procedimento, perché ogni decisione nasce da passaggi ordinati;
 - la competenza, perché non tutti possono fare tutto;
-- l'interesse pubblico, perché la risposta non è un favore personale;
-- l'utente, perché l'amministrazione deve comunicare in modo chiaro e responsabile.
+- l’interesse pubblico, perché la risposta non è un favore personale;
+- l’utente, perché l’amministrazione deve comunicare in modo chiaro e responsabile.
 
 Il caso pratico verifica il metodo, non una teoria travestita da domanda.
 
@@ -63,9 +63,11 @@ La regola di base è questa:
 | **A - Aree** | Quali materie possono convergere nel caso? Procedimento, accesso, privacy, pubblico impiego, contratti? | Mappa aree coinvolte. |
 | **N - Nuclei** | Quali nuclei sbloccano più casi? Competenza, termini, motivazione, accesso, dati, responsabilità? | Lista nuclei ad alto rendimento. |
 | **D - Diario** | Che errori ripeto nei casi? Fatti, regola, competenza, ordine, privacy, tempo? | Registro casi ed errori. |
-| **O - Output** | So scrivere una soluzione? So spiegarla a voce? So scegliere l'opzione corretta? | Risposte, mini-casi, simulazioni. |
+| **O - Output** | So scrivere una soluzione? So spiegarla a voce? So scegliere l’opzione corretta? | Risposte, mini-casi, simulazioni. |
 
 ![Figura 17.1 - Mappa BANDO del caso pratico: trasformare bando, aree, nuclei, diario e output in una soluzione amministrativa corretta.](../assets/chapter-17/01-mappa-bando-caso-pratico.png)
+
+*Figura 17.1 - Mappa BANDO del caso pratico: trasformare bando, aree, nuclei, diario e output in una soluzione amministrativa corretta.*
 
 ## Il caso non è una storia
 
@@ -82,11 +84,13 @@ Ogni caso contiene elementi utili e elementi secondari. Il primo lavoro è separ
 | Regola | Quale principio o disciplina orienta la soluzione? |
 | Interessi | Quali interessi pubblici e privati sono in gioco? |
 | Vincoli | Ci sono privacy, trasparenza, imparzialità, risorse, urgenza, conflitto? |
-| Output | Che cosa deve produrre l'amministrazione? |
+| Output | Che cosa deve produrre l’amministrazione? |
 
-Se non compili mentalmente questa tabella, rischi di rispondere con frasi generiche: "l'amministrazione deve provvedere", "bisogna rispettare la legge", "occorre tutelare il cittadino". Sono formule vere, ma non risolvono il caso.
+Se non compili mentalmente questa tabella, rischi di rispondere con frasi generiche: “l’amministrazione deve provvedere”, “bisogna rispettare la legge”, “occorre tutelare il cittadino”. Sono formule vere, ma non risolvono il caso.
 
 ![Figura 17.2 - Il caso come fascicolo amministrativo ridotto: separare dettagli narrativi da fatti, soggetti, procedimento, regola, vincoli e output.](../assets/chapter-17/02-caso-come-fascicolo-amministrativo.png)
+
+*Figura 17.2 - Il caso come fascicolo amministrativo ridotto: separare dettagli narrativi da fatti, soggetti, procedimento, regola, vincoli e output.*
 
 ## La griglia in otto domande
 
@@ -95,15 +99,17 @@ Usa questa griglia ogni volta che affronti un caso pratico.
 1. **Che cosa chiede la traccia?** Una soluzione, una valutazione, una risposta al cittadino, una sequenza di atti?
 2. **Quali sono i fatti essenziali?** Elimina dettagli emotivi o narrativi.
 3. **Chi sono i soggetti?** Cittadino, ufficio, responsabile, dirigente, controinteressato, operatore economico.
-4. **Chi è competente?** L'ufficio che riceve non è sempre quello che decide.
+4. **Chi è competente?** L’ufficio che riceve non è sempre quello che decide.
 5. **Quale procedimento o nucleo è coinvolto?** Accesso, istanza, silenzio, graduatoria, acquisto, dati, riesame.
 6. **Quali vincoli limitano la soluzione?** Termini, motivazione, privacy, trasparenza, anticorruzione, risorse.
 7. **Qual è la soluzione corretta?** Deve essere possibile, legittima e proporzionata.
 8. **Quale output finale serve?** Comunicazione, richiesta di integrazione, provvedimento, inoltro, segnalazione, istruttoria.
 
-Questa griglia vale per scritto, orale e quiz. Cambia solo la forma dell'output.
+Questa griglia vale per scritto, orale e quiz. Cambia solo la forma dell’output.
 
 ![Figura 17.3 - Griglia in otto domande: richiesta, fatti, soggetti, competenza, nucleo, vincoli, soluzione e output.](../assets/chapter-17/03-griglia-otto-domande.png)
+
+*Figura 17.3 - Griglia in otto domande: richiesta, fatti, soggetti, competenza, nucleo, vincoli, soluzione e output.*
 
 ## Lo schema di risposta
 
@@ -113,12 +119,12 @@ Per scrivere un caso pratico usa una struttura stabile:
 2. **Problema**: indica la questione amministrativa.
 3. **Regola o principio**: richiama il quadro essenziale senza divagare.
 4. **Applicazione**: spiega come la regola opera nel caso.
-5. **Soluzione**: indica il comportamento dell'amministrazione.
+5. **Soluzione**: indica il comportamento dell’amministrazione.
 6. **Motivazione e cautele**: segnala termini, dati, tracciabilità, competenza.
 
 Esempio di apertura efficace:
 
-> Il caso riguarda una istanza incompleta presentata a un ufficio comunale. Il problema non è respingere automaticamente la domanda, ma verificare se l'incompletezza impedisce l'istruttoria e quali integrazioni siano necessarie.
+> Il caso riguarda una istanza incompleta presentata a un ufficio comunale. Il problema non è respingere automaticamente la domanda, ma verificare se l’incompletezza impedisce l’istruttoria e quali integrazioni siano necessarie.
 
 Esempio di apertura debole:
 
@@ -127,6 +133,8 @@ Esempio di apertura debole:
 La seconda frase non è falsa, ma non entra nel caso.
 
 ![Figura 17.4 - Schema di risposta al caso pratico: fatti, problema, regola, applicazione, soluzione e cautele.](../assets/chapter-17/04-schema-risposta-caso-pratico.png)
+
+*Figura 17.4 - Schema di risposta al caso pratico: fatti, problema, regola, applicazione, soluzione e cautele.*
 
 ## I nuclei che rendono di più
 
@@ -137,7 +145,7 @@ Alcuni nuclei compaiono in molti casi pratici. Studiali prima.
 | Competenza | Permette di capire chi deve agire e chi no. |
 | Responsabile del procedimento | Collega istruttoria, comunicazioni, tempi e decisione. |
 | Termini | Trasforma il caso in gestione del tempo e responsabilità. |
-| Motivazione | Spiega perché l'amministrazione decide in un certo modo. |
+| Motivazione | Spiega perché l’amministrazione decide in un certo modo. |
 | Accesso | Coinvolge documenti, interessati, controinteressati e dati. |
 | Privacy | Impedisce risposte troppo aperte o diffusioni non dovute. |
 | Trasparenza | Distingue pubblicazione, accesso civico e accesso documentale. |
@@ -147,11 +155,13 @@ Alcuni nuclei compaiono in molti casi pratici. Studiali prima.
 
 ![Figura 17.5 - Nuclei ad alto rendimento nei casi pratici: competenza, responsabile, termini, motivazione, accesso, privacy, trasparenza, comportamento, contratti e riesame.](../assets/chapter-17/05-nuclei-alto-rendimento.png)
 
+*Figura 17.5 - Nuclei ad alto rendimento nei casi pratici: competenza, responsabile, termini, motivazione, accesso, privacy, trasparenza, comportamento, contratti e riesame.*
+
 ## Caso 1 - Istanza incompleta
 
 ### Scenario
 
-Un cittadino presenta al Comune una domanda per ottenere un beneficio, ma non allega un documento necessario. L'ufficio si accorge dell'incompletezza dopo alcuni giorni. La traccia chiede come deve comportarsi l'amministrazione.
+Un cittadino presenta al Comune una domanda per ottenere un beneficio, ma non allega un documento necessario. L’ufficio si accorge dell’incompletezza dopo alcuni giorni. La traccia chiede come deve comportarsi l’amministrazione.
 
 ### Lettura del caso
 
@@ -161,15 +171,15 @@ Un cittadino presenta al Comune una domanda per ottenere un beneficio, ma non al
 | Problema | Istruttoria non completa. |
 | Soggetti | Cittadino, ufficio competente, responsabile del procedimento. |
 | Nucleo | Procedimento, integrazione documentale, comunicazione. |
-| Vincoli | Termine, collaborazione, completezza dell'istruttoria, tracciabilità. |
+| Vincoli | Termine, collaborazione, completezza dell’istruttoria, tracciabilità. |
 
 ### Risposta modello
 
-L'amministrazione non deve ignorare l'istanza né respingerla automaticamente senza verificare il quadro applicabile. Deve anzitutto individuare il documento mancante e stabilire se sia essenziale per l'istruttoria. Se l'integrazione è possibile, l'ufficio competente deve comunicare al cittadino in modo chiaro quali elementi devono essere prodotti, entro quali termini e con quali modalità. La gestione deve essere tracciata nel fascicolo e collegata al responsabile del procedimento. Se il cittadino integra, l'istruttoria prosegue; se non integra o l'assenza del documento impedisce la valutazione, l'amministrazione adotterà l'esito previsto, motivandolo.
+L’amministrazione non deve ignorare l’istanza né respingerla automaticamente senza verificare il quadro applicabile. Deve anzitutto individuare il documento mancante e stabilire se sia essenziale per l’istruttoria. Se l’integrazione è possibile, l’ufficio competente deve comunicare al cittadino in modo chiaro quali elementi devono essere prodotti, entro quali termini e con quali modalità. La gestione deve essere tracciata nel fascicolo e collegata al responsabile del procedimento. Se il cittadino integra, l’istruttoria prosegue; se non integra o l’assenza del documento impedisce la valutazione, l’amministrazione adotterà l’esito previsto, motivandolo.
 
 ### Errore da evitare
 
-Dire solo: "la domanda è incompleta, quindi va respinta". Nei casi pratici devi sempre verificare se esiste una fase di integrazione o regolarizzazione.
+Dire solo: “la domanda è incompleta, quindi va respinta”. Nei casi pratici devi sempre verificare se esiste una fase di integrazione o regolarizzazione.
 
 ## Caso 2 - Richiesta di accesso con dati di terzi
 
@@ -183,7 +193,7 @@ Qui il problema non è scegliere tra accesso totale e rifiuto totale. Il punto �
 
 ### Risposta modello
 
-L'ufficio deve qualificare la richiesta e verificare quale forma di accesso sia in gioco. Deve poi individuare i documenti richiesti, valutare la posizione del richiedente e verificare se esistano controinteressati o dati personali da proteggere. La presenza di dati non determina automaticamente il diniego, ma impone una valutazione attenta: possono essere necessari oscuramenti, comunicazioni ai soggetti interessati o limitazioni alla copia. La decisione deve essere motivata, coerente con la disciplina applicabile e tracciata nel procedimento. L'amministrazione deve evitare sia la chiusura immotivata sia la diffusione indiscriminata di dati.
+L’ufficio deve qualificare la richiesta e verificare quale forma di accesso sia in gioco. Deve poi individuare i documenti richiesti, valutare la posizione del richiedente e verificare se esistano controinteressati o dati personali da proteggere. La presenza di dati non determina automaticamente il diniego, ma impone una valutazione attenta: possono essere necessari oscuramenti, comunicazioni ai soggetti interessati o limitazioni alla copia. La decisione deve essere motivata, coerente con la disciplina applicabile e tracciata nel procedimento. L’amministrazione deve evitare sia la chiusura immotivata sia la diffusione indiscriminata di dati.
 
 ### Errore da evitare
 
@@ -193,33 +203,33 @@ Confondere trasparenza con diffusione totale. La PA deve essere trasparente, ma 
 
 ### Scenario
 
-Una pratica non viene conclusa nei tempi previsti. Il cittadino sollecita l'ufficio e chiede spiegazioni. La traccia chiede quale comportamento sia corretto.
+Una pratica non viene conclusa nei tempi previsti. Il cittadino sollecita l’ufficio e chiede spiegazioni. La traccia chiede quale comportamento sia corretto.
 
 ### Lettura del caso
 
-Il ritardo non è solo un problema di cortesia. Coinvolge termini, organizzazione, responsabilità, comunicazione e possibile tutela dell'interessato.
+Il ritardo non è solo un problema di cortesia. Coinvolge termini, organizzazione, responsabilità, comunicazione e possibile tutela dell’interessato.
 
 ### Risposta modello
 
-L'ufficio deve verificare lo stato della pratica, individuare la causa del ritardo e informare il cittadino con comunicazione chiara e non evasiva. Il responsabile deve riattivare l'istruttoria, acquisire gli elementi mancanti e programmare la conclusione secondo le regole applicabili. Se il ritardo dipende da altri uffici, occorre coordinare le attività senza scaricare il problema sull'utente. La gestione deve essere tracciata, per consentire il controllo interno e prevenire il ripetersi della disfunzione.
+L’ufficio deve verificare lo stato della pratica, individuare la causa del ritardo e informare il cittadino con comunicazione chiara e non evasiva. Il responsabile deve riattivare l’istruttoria, acquisire gli elementi mancanti e programmare la conclusione secondo le regole applicabili. Se il ritardo dipende da altri uffici, occorre coordinare le attività senza scaricare il problema sull’utente. La gestione deve essere tracciata, per consentire il controllo interno e prevenire il ripetersi della disfunzione.
 
 ### Errore da evitare
 
-Rispondere: "deve aspettare". Il cittadino non ha sempre diritto all'esito favorevole, ma ha diritto a una gestione corretta e comprensibile del procedimento.
+Rispondere: “deve aspettare”. Il cittadino non ha sempre diritto all’esito favorevole, ma ha diritto a una gestione corretta e comprensibile del procedimento.
 
 ## Caso 4 - Cittadino allo sportello sbagliato
 
 ### Scenario
 
-Un cittadino si presenta a un ufficio per chiedere informazioni su una pratica che appartiene a un altro settore dell'ente. L'impiegato non ha competenza diretta.
+Un cittadino si presenta a un ufficio per chiedere informazioni su una pratica che appartiene a un altro settore dell’ente. L’impiegato non ha competenza diretta.
 
 ### Lettura del caso
 
-La risposta corretta non è occuparsi di tutto fuori competenza, ma neppure liquidare l'utente senza orientarlo.
+La risposta corretta non è occuparsi di tutto fuori competenza, ma neppure liquidare l’utente senza orientarlo.
 
 ### Risposta modello
 
-Il dipendente deve riconoscere il limite della propria competenza e indirizzare il cittadino verso l'ufficio corretto, fornendo informazioni verificate su canale, orari, modalità o riferimenti disponibili. Non deve promettere esiti, accedere a dati senza ragione di servizio o dare indicazioni improvvisate. Se l'ente prevede protocolli di instradamento o presa in carico, il dipendente deve seguirli. L'orientamento al cittadino consiste nel rendere comprensibile il percorso corretto, non nel sostituirsi all'ufficio competente.
+Il dipendente deve riconoscere il limite della propria competenza e indirizzare il cittadino verso l’ufficio corretto, fornendo informazioni verificate su canale, orari, modalità o riferimenti disponibili. Non deve promettere esiti, accedere a dati senza ragione di servizio o dare indicazioni improvvisate. Se l’ente prevede protocolli di instradamento o presa in carico, il dipendente deve seguirli. L’orientamento al cittadino consiste nel rendere comprensibile il percorso corretto, non nel sostituirsi all’ufficio competente.
 
 ### Errore da evitare
 
@@ -229,7 +239,7 @@ Confondere disponibilità con invasione di competenza. Aiutare non significa dec
 
 ### Scenario
 
-Un candidato contesta informalmente la propria posizione in graduatoria e chiede a un dipendente dell'ufficio personale di "controllare subito" la posizione di altri candidati.
+Un candidato contesta informalmente la propria posizione in graduatoria e chiede a un dipendente dell’ufficio personale di “controllare subito” la posizione di altri candidati.
 
 ### Lettura del caso
 
@@ -237,35 +247,35 @@ Il caso coinvolge trasparenza, accesso, dati personali, imparzialità e canali c
 
 ### Risposta modello
 
-Il dipendente deve evitare controlli informali e comunicazioni non tracciate su dati di altri candidati. Deve indicare al richiedente i canali corretti per chiedere chiarimenti, accesso o riesame, secondo le modalità previste dall'amministrazione. L'ufficio competente dovrà verificare l'eventuale errore attraverso una procedura tracciata e, se necessario, adottare gli atti conseguenti. La tutela del candidato non giustifica la diffusione impropria di dati altrui o scorciatoie fuori procedimento.
+Il dipendente deve evitare controlli informali e comunicazioni non tracciate su dati di altri candidati. Deve indicare al richiedente i canali corretti per chiedere chiarimenti, accesso o riesame, secondo le modalità previste dall’amministrazione. L’ufficio competente dovrà verificare l’eventuale errore attraverso una procedura tracciata e, se necessario, adottare gli atti conseguenti. La tutela del candidato non giustifica la diffusione impropria di dati altrui o scorciatoie fuori procedimento.
 
 ### Errore da evitare
 
-Dire: "per trasparenza gli faccio vedere tutto". Anche nelle graduatorie esiste un rapporto tra pubblicità, accesso e protezione dei dati.
+Dire: “per trasparenza gli faccio vedere tutto”. Anche nelle graduatorie esiste un rapporto tra pubblicità, accesso e protezione dei dati.
 
-## Caso 6 - Pratica arrivata all'ufficio non competente
+## Caso 6 - Pratica arrivata all’ufficio non competente
 
 ### Scenario
 
-Una richiesta viene inviata all'ufficio sbagliato dell'amministrazione. Il dipendente la riceve, capisce che non appartiene al proprio settore e non sa come procedere.
+Una richiesta viene inviata all’ufficio sbagliato dell’amministrazione. Il dipendente la riceve, capisce che non appartiene al proprio settore e non sa come procedere.
 
 ### Lettura del caso
 
-Il punto è evitare sia l'inerzia sia l'appropriazione indebita della competenza.
+Il punto è evitare sia l’inerzia sia l’appropriazione indebita della competenza.
 
 ### Risposta modello
 
-L'ufficio che riceve la richiesta deve verificare la competenza e, se la pratica appartiene ad altro settore, attivare l'inoltro o l'instradamento secondo le regole organizzative dell'ente. Se necessario, informa il cittadino del passaggio o del canale corretto, evitando formule generiche. Non deve trattenere la pratica senza titolo né decidere fuori competenza. La soluzione corretta è garantire continuità del procedimento e chiarezza per l'utente, nel rispetto dell'organizzazione interna.
+L’ufficio che riceve la richiesta deve verificare la competenza e, se la pratica appartiene ad altro settore, attivare l’inoltro o l’instradamento secondo le regole organizzative dell’ente. Se necessario, informa il cittadino del passaggio o del canale corretto, evitando formule generiche. Non deve trattenere la pratica senza titolo né decidere fuori competenza. La soluzione corretta è garantire continuità del procedimento e chiarezza per l’utente, nel rispetto dell’organizzazione interna.
 
 ### Errore da evitare
 
-Limitarsi a dire "non è affare mio". Nel settore pubblico il limite di competenza non autorizza il disinteresse organizzativo.
+Limitarsi a dire “non è affare mio”. Nel settore pubblico il limite di competenza non autorizza il disinteresse organizzativo.
 
 ## Caso 7 - Acquisto urgente di beni o servizi
 
 ### Scenario
 
-Un ufficio ha bisogno rapidamente di un servizio di modesto valore. Un fornitore conosciuto si offre di iniziare subito, prima di qualsiasi formalizzazione, per "fare prima".
+Un ufficio ha bisogno rapidamente di un servizio di modesto valore. Un fornitore conosciuto si offre di iniziare subito, prima di qualsiasi formalizzazione, per “fare prima”.
 
 ### Lettura del caso
 
@@ -273,17 +283,17 @@ Il caso coinvolge contratti pubblici, tracciabilità, competenza, programmazione
 
 ### Risposta modello
 
-L'urgenza non consente di ignorare le regole dell'affidamento. L'ufficio deve verificare fabbisogno, valore, competenza, disponibilità delle risorse, strumenti di acquisto applicabili e procedure previste. Se esistono presupposti per una procedura semplificata, questa deve comunque essere formalizzata e tracciata. Il rapporto con un fornitore conosciuto non può sostituire motivazione, trasparenza e rispetto delle regole. La soluzione corretta è attivare il percorso di acquisto proporzionato al valore e al bisogno, coinvolgendo il responsabile competente.
+L’urgenza non consente di ignorare le regole dell’affidamento. L’ufficio deve verificare fabbisogno, valore, competenza, disponibilità delle risorse, strumenti di acquisto applicabili e procedure previste. Se esistono presupposti per una procedura semplificata, questa deve comunque essere formalizzata e tracciata. Il rapporto con un fornitore conosciuto non può sostituire motivazione, trasparenza e rispetto delle regole. La soluzione corretta è attivare il percorso di acquisto proporzionato al valore e al bisogno, coinvolgendo il responsabile competente.
 
 ### Errore da evitare
 
-Pensare che "piccolo valore" significhi "assenza di regole". La proporzionalità semplifica, ma non elimina tracciabilità e competenza.
+Pensare che “piccolo valore” significhi “assenza di regole”. La proporzionalità semplifica, ma non elimina tracciabilità e competenza.
 
 ## Caso 8 - Richiesta di riesame
 
 ### Scenario
 
-Un cittadino riceve un provvedimento sfavorevole e chiede all'amministrazione di rivederlo perché ritiene che ci sia un errore.
+Un cittadino riceve un provvedimento sfavorevole e chiede all’amministrazione di rivederlo perché ritiene che ci sia un errore.
 
 ### Lettura del caso
 
@@ -291,37 +301,39 @@ La richiesta non va trattata come semplice lamentela. Deve essere qualificata: c
 
 ### Risposta modello
 
-L'amministrazione deve verificare il contenuto della richiesta e l'eventuale presenza di elementi nuovi o errori rilevanti. Se il cittadino chiede chiarimenti, l'ufficio deve spiegare il contenuto del provvedimento e i canali disponibili. Se chiede riesame, l'amministrazione valuta nei limiti della disciplina applicabile se sussistano presupposti per intervenire. Non esiste un obbligo generale di modificare l'atto solo perché il destinatario non lo condivide, ma esiste il dovere di gestire la richiesta in modo ordinato, motivato e tracciabile.
+L’amministrazione deve verificare il contenuto della richiesta e l’eventuale presenza di elementi nuovi o errori rilevanti. Se il cittadino chiede chiarimenti, l’ufficio deve spiegare il contenuto del provvedimento e i canali disponibili. Se chiede riesame, l’amministrazione valuta nei limiti della disciplina applicabile se sussistano presupposti per intervenire. Non esiste un obbligo generale di modificare l’atto solo perché il destinatario non lo condivide, ma esiste il dovere di gestire la richiesta in modo ordinato, motivato e tracciabile.
 
 ### Errore da evitare
 
-Promettere la modifica dell'atto prima dell'istruttoria. Il funzionario non deve confondere ascolto con esito favorevole.
+Promettere la modifica dell’atto prima dell’istruttoria. Il funzionario non deve confondere ascolto con esito favorevole.
 
 ![Figura 17.6 - Matrice degli otto casi ricorrenti di base: istanza incompleta, accesso con dati, ritardo, sportello sbagliato, graduatoria, ufficio non competente, acquisto urgente e riesame.](../assets/chapter-17/06-matrice-casi-ricorrenti.png)
 
-## Caso 9 - Conflitto di interessi nell'istruttoria
+*Figura 17.6 - Matrice degli otto casi ricorrenti di base: istanza incompleta, accesso con dati, ritardo, sportello sbagliato, graduatoria, ufficio non competente, acquisto urgente e riesame.*
+
+## Caso 9 - Conflitto di interessi nell’istruttoria
 
 ### Scenario
 
-Un dipendente riceve una pratica relativa a un'impresa amministrata da un proprio familiare. Il dipendente conosce bene il settore e pensa di poter istruire la pratica con particolare rapidità, dichiarando di essere comunque imparziale.
+Un dipendente riceve una pratica relativa a un’impresa amministrata da un proprio familiare. Il dipendente conosce bene il settore e pensa di poter istruire la pratica con particolare rapidità, dichiarando di essere comunque imparziale.
 
 ### Lettura del caso
 
 | Elemento | Risposta |
 |---|---|
 | Fatti | Il dipendente deve trattare una pratica collegata a un proprio familiare. |
-| Problema | La relazione personale può compromettere o far apparire compromessa l'imparzialità. |
-| Soggetti | Dipendente, responsabile dell'ufficio, impresa interessata, amministrazione. |
+| Problema | La relazione personale può compromettere o far apparire compromessa l’imparzialità. |
+| Soggetti | Dipendente, responsabile dell’ufficio, impresa interessata, amministrazione. |
 | Nucleo | Conflitto di interessi, obbligo di segnalazione, astensione, tracciabilità. |
-| Vincoli | Imparzialità, codice di comportamento, organizzazione interna e continuità dell'azione amministrativa. |
+| Vincoli | Imparzialità, codice di comportamento, organizzazione interna e continuità dell’azione amministrativa. |
 
 ### Risposta modello
 
-Il dipendente non deve valutare da solo se la propria correttezza personale sia sufficiente a escludere il problema. Deve rappresentare tempestivamente la situazione al responsabile competente, fornendo gli elementi necessari alla valutazione secondo il codice di comportamento e le regole interne dell'amministrazione. Fino alla decisione organizzativa deve evitare attività che possano incidere sulla pratica, salvo gli adempimenti indifferibili espressamente gestiti dall'ufficio. Se viene disposta l'astensione, la pratica deve essere riassegnata in modo tracciato, assicurando continuità e rispetto dei termini. La relazione familiare non dimostra automaticamente un illecito, ma impone di prevenire il rischio reale o apparente di parzialità.
+Il dipendente non deve valutare da solo se la propria correttezza personale sia sufficiente a escludere il problema. Deve rappresentare tempestivamente la situazione al responsabile competente, fornendo gli elementi necessari alla valutazione secondo il codice di comportamento e le regole interne dell’amministrazione. Fino alla decisione organizzativa deve evitare attività che possano incidere sulla pratica, salvo gli adempimenti indifferibili espressamente gestiti dall’ufficio. Se viene disposta l’astensione, la pratica deve essere riassegnata in modo tracciato, assicurando continuità e rispetto dei termini. La relazione familiare non dimostra automaticamente un illecito, ma impone di prevenire il rischio reale o apparente di parzialità.
 
 ### Errore da evitare
 
-Pensare: "sono imparziale, quindi posso procedere". Nel conflitto di interessi conta anche la corretta emersione della situazione e la valutazione da parte del soggetto competente.
+Pensare: “sono imparziale, quindi posso procedere”. Nel conflitto di interessi conta anche la corretta emersione della situazione e la valutazione da parte del soggetto competente.
 
 ### Verifica rapida
 
@@ -331,29 +343,29 @@ Qual è la prima azione corretta? **Segnalare tempestivamente la situazione al r
 
 ### Scenario
 
-Dopo l'adozione di un provvedimento sfavorevole, l'ufficio scopre che un documento inviato nei termini dall'interessato era stato protocollato, ma classificato nel fascicolo sbagliato e quindi non considerato durante l'istruttoria.
+Dopo l’adozione di un provvedimento sfavorevole, l’ufficio scopre che un documento inviato nei termini dall’interessato era stato protocollato, ma classificato nel fascicolo sbagliato e quindi non considerato durante l’istruttoria.
 
 ### Lettura del caso
 
 | Elemento | Risposta |
 |---|---|
-| Fatti | Un documento tempestivo non è entrato nell'istruttoria per un errore interno. |
+| Fatti | Un documento tempestivo non è entrato nell’istruttoria per un errore interno. |
 | Problema | Il provvedimento può essere fondato su un quadro istruttorio incompleto. |
-| Soggetti | Interessato, responsabile del procedimento, ufficio che ha adottato l'atto. |
-| Nucleo | Completezza dell'istruttoria, motivazione, riesame, autotutela, tracciabilità. |
+| Soggetti | Interessato, responsabile del procedimento, ufficio che ha adottato l’atto. |
+| Nucleo | Completezza dell’istruttoria, motivazione, riesame, autotutela, tracciabilità. |
 | Vincoli | Competenza, termini, affidamento, motivazione e disciplina applicabile al caso concreto. |
 
 ### Risposta modello
 
-L'ufficio deve acquisire il documento nel fascicolo corretto, ricostruire l'errore e verificare se il contenuto avrebbe potuto incidere sull'istruttoria o sull'esito. Non può modificare informalmente il provvedimento né ignorare il problema perché l'atto è già stato adottato. Il responsabile deve attivare il percorso di riesame previsto, coinvolgendo l'organo competente e valutando presupposti, limiti e conseguenze dell'eventuale intervento in autotutela. L'interessato deve ricevere una comunicazione chiara attraverso i canali corretti. Ogni passaggio, compresa l'eventuale conferma dell'esito originario, deve essere motivato e tracciato. L'ufficio deve inoltre correggere la causa organizzativa dell'errore per evitare che si ripeta.
+L’ufficio deve acquisire il documento nel fascicolo corretto, ricostruire l’errore e verificare se il contenuto avrebbe potuto incidere sull’istruttoria o sull’esito. Non può modificare informalmente il provvedimento né ignorare il problema perché l’atto è già stato adottato. Il responsabile deve attivare il percorso di riesame previsto, coinvolgendo l’organo competente e valutando presupposti, limiti e conseguenze dell’eventuale intervento in autotutela. L’interessato deve ricevere una comunicazione chiara attraverso i canali corretti. Ogni passaggio, compresa l’eventuale conferma dell’esito originario, deve essere motivato e tracciato. L’ufficio deve inoltre correggere la causa organizzativa dell’errore per evitare che si ripeta.
 
 ### Errore da evitare
 
-Sostituire il provvedimento con una semplice email di scuse o, all'opposto, sostenere che non sia più possibile verificare nulla. Un errore procedimentale richiede qualificazione, competenza, istruttoria e decisione formale.
+Sostituire il provvedimento con una semplice email di scuse o, all’opposto, sostenere che non sia più possibile verificare nulla. Un errore procedimentale richiede qualificazione, competenza, istruttoria e decisione formale.
 
 ### Verifica rapida
 
-La presenza del documento impone automaticamente un esito favorevole? **No. Impone una nuova valutazione corretta e tracciata; l'esito dipende dal contenuto del documento e dalla disciplina applicabile.**
+La presenza del documento impone automaticamente un esito favorevole? **No. Impone una nuova valutazione corretta e tracciata; l’esito dipende dal contenuto del documento e dalla disciplina applicabile.**
 
 ## Come cambiano quiz, scritto e orale
 
@@ -361,22 +373,22 @@ Lo stesso caso può apparire in tre forme diverse.
 
 | Forma | Che cosa devi fare |
 |---|---|
-| Quiz | Scegliere l'opzione più coerente o escludere quelle scorrette. |
+| Quiz | Scegliere l’opzione più coerente o escludere quelle scorrette. |
 | Scritto | Costruire una soluzione motivata in poche righe o in forma più ampia. |
 | Orale | Spiegare il ragionamento, rispondere a domande e collegare materie. |
 
-Nel quiz devi riconoscere rapidamente l'opzione che rispetta competenza, procedura e vincoli. Nello scritto devi argomentare. All'orale devi mostrare ragionamento: "partirei dai fatti, qualificherei la richiesta, verificherei competenza e poi...".
+Nel quiz devi riconoscere rapidamente l’opzione che rispetta competenza, procedura e vincoli. Nello scritto devi argomentare. All’orale devi mostrare ragionamento: “partirei dai fatti, qualificherei la richiesta, verificherei competenza e poi...”.
 
 ## I segnali di una risposta forte
 
 Una risposta forte:
 
 - parte dai fatti, non da un capitolo del manuale;
-- individua l'ufficio competente;
+- individua l’ufficio competente;
 - richiama solo principi pertinenti;
-- distingue diritto dell'utente e limiti dell'amministrazione;
+- distingue diritto dell’utente e limiti dell’amministrazione;
 - considera privacy, trasparenza e tracciabilità;
-- propone un'azione concreta;
+- propone un’azione concreta;
 - spiega perché quella azione è corretta;
 - non promette ciò che non dipende dal funzionario.
 
@@ -385,14 +397,14 @@ Una risposta debole:
 - resta generica;
 - cita norme a caso;
 - dimentica soggetti e competenza;
-- scrive "la PA deve provvedere" senza dire come;
+- scrive “la PA deve provvedere” senza dire come;
 - confonde cortesia con deroga;
 - ignora dati personali e controinteressati;
 - non chiude con un output.
 
 ## Diario dei casi pratici
 
-Dopo ogni esercizio, registra l'errore: "caso sbagliato" non è una diagnosi utile.
+Dopo ogni esercizio, registra l’errore: “caso sbagliato” non è una diagnosi utile.
 
 | Categoria errore | Domanda di correzione |
 |---|---|
@@ -402,12 +414,14 @@ Dopo ogni esercizio, registra l'errore: "caso sbagliato" non è una diagnosi uti
 | Regola | Ho richiamato un principio pertinente? |
 | Applicazione | Ho applicato la regola al caso o ho fatto teoria? |
 | Privacy/trasparenza | Ho considerato dati, accesso e pubblicità? |
-| Output | Ho indicato un'azione concreta? |
+| Output | Ho indicato un’azione concreta? |
 | Tempo | Ho impiegato troppo per iniziare? |
 
 Se sbagli spesso la competenza, devi allenarti su organi, uffici e responsabili. Se sbagli privacy, devi fare casi di accesso e dati. Se scrivi troppa teoria, devi allenarti con limiti di 12-15 righe.
 
-![Figura 17.7 - Output e diario dei casi pratici: adattare lo stesso ragionamento a quiz, scritto e orale, poi classificare l'errore per correggere il passaggio.](../assets/chapter-17/07-output-diario-casi.png)
+![Figura 17.7 - Output e diario dei casi pratici: adattare lo stesso ragionamento a quiz, scritto e orale, poi classificare l’errore per correggere il passaggio.](../assets/chapter-17/07-output-diario-casi.png)
+
+*Figura 17.7 - Output e diario dei casi pratici: adattare lo stesso ragionamento a quiz, scritto e orale, poi classificare l’errore per correggere il passaggio.*
 
 ## Mini-simulazione
 
@@ -417,7 +431,7 @@ Risolvi questi tre casi in massimo 12 righe ciascuno.
 |---|---|
 | Un cittadino chiede telefonicamente informazioni su una pratica intestata a un familiare. | Indica comportamento corretto e cautele. |
 | Un ufficio riceve una domanda priva di un allegato essenziale. | Indica sequenza operativa. |
-| Un collega propone di usare un fornitore "di fiducia" senza passaggi formali per un acquisto urgente. | Indica rischi e soluzione. |
+| Un collega propone di usare un fornitore “di fiducia” senza passaggi formali per un acquisto urgente. | Indica rischi e soluzione. |
 
 Traccia di correzione:
 
@@ -429,13 +443,13 @@ Traccia di correzione:
 
 **Domanda:** Come si affronta un caso pratico amministrativo?
 
-**Risposta efficace:** si parte dai fatti rilevanti, si individua il problema amministrativo, si chiariscono soggetti e competenza, si richiama il principio o la regola applicabile, si valuta l'interesse pubblico e si propone una soluzione concreta, motivata e tracciabile. La risposta non deve essere un riassunto teorico, ma applicazione ordinata della teoria al caso.
+**Risposta efficace:** si parte dai fatti rilevanti, si individua il problema amministrativo, si chiariscono soggetti e competenza, si richiama il principio o la regola applicabile, si valuta l’interesse pubblico e si propone una soluzione concreta, motivata e tracciabile. La risposta non deve essere un riassunto teorico, ma applicazione ordinata della teoria al caso.
 
 ## Domanda-trappola
 
-**Domanda:** Se il cittadino ha ragione sul piano sostanziale, l'ufficio può saltare alcuni passaggi per aiutarlo più rapidamente?
+**Domanda:** Se il cittadino ha ragione sul piano sostanziale, l’ufficio può saltare alcuni passaggi per aiutarlo più rapidamente?
 
-No. L'amministrazione deve essere utile e orientata al servizio, ma non può sostituire la procedura con scorciatoie informali. La soluzione corretta è accelerare ciò che è legittimamente accelerabile, chiarire i passaggi, evitare ritardi inutili e rispettare competenza, tracciabilità e imparzialità.
+No. L’amministrazione deve essere utile e orientata al servizio, ma non può sostituire la procedura con scorciatoie informali. La soluzione corretta è accelerare ciò che è legittimamente accelerabile, chiarire i passaggi, evitare ritardi inutili e rispettare competenza, tracciabilità e imparzialità.
 
 ## Da sapere in 5 righe
 
@@ -455,8 +469,3 @@ No. L'amministrazione deve essere utile e orientata al servizio, ma non può sos
 - [[topics/casi-pratici]]
 - [[topics/problem-solving-amministrativo]]
 - [[topics/orientamento-al-cittadino]]
-
-## Note di review
-
-- Gli esempi sono originali e didattici; non riproducono prove ufficiali.
-- Prima della pubblicazione finale verificare eventuali aggiornamenti normativi su accesso, privacy, contratti pubblici e procedimento amministrativo.

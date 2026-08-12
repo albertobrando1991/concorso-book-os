@@ -20,7 +20,7 @@ draft_stage: revised-editorial-draft
 last_compiled_from: ["sources/revisione-finale-risposta-concorsuale-metodo-bando.md", "topics/revisione-risposta-concorsuale.md", "topics/risposta-concorsuale.md", "topics/prova-scritta-teorico-pratica.md", "topics/prova-orale.md", "topics/risposta-sintetica-concorsuale.md", "topics/domande-impreviste-concorsi.md", "topics/simulazioni-concorsuali.md", "topics/diario-errori.md"]
 ---
 
-# Capitolo 47 - Revisione finale: controllare prima di consegnare
+# R23 - Revisione finale: controllare prima di consegnare
 
 Molti candidati sbagliano la revisione.
 
@@ -67,7 +67,7 @@ Non sono la stessa cosa.
 
 | Operazione | Che cosa fa | Rischio |
 |---|---|---|
-| Rilettura | Ripassa il testo dall'inizio alla fine. | Vede tutto e niente. |
+| Rilettura | Ripassa il testo dall’inizio alla fine. | Vede tutto e niente. |
 | Correzione | Sistema parole, refusi, ordine locale. | Migliora la forma ma non il contenuto. |
 | Revisione | Cerca errori specifici rispetto alla traccia. | Richiede metodo e tempo controllato. |
 
@@ -102,7 +102,7 @@ Controlla:
 - richiesta reale;
 - eventuale confronto o caso.
 
-Se la traccia chiede "confronta", non basta definire. Se chiede "applica", non basta spiegare. Se chiede "indica", non serve un trattato.
+Se la traccia chiede “confronta”, non basta definire. Se chiede “applica”, non basta spiegare. Se chiede “indica”, non serve un trattato.
 
 ### 2. Perimetro
 
@@ -117,7 +117,7 @@ Il perimetro evita due errori:
 
 Nello scritto il perimetro è visibile: righe, tempo, consegna, struttura.
 
-All'orale il perimetro è il tempo mentale: non devi continuare solo perché ti viene in mente altro.
+All’orale il perimetro è il tempo mentale: non devi continuare solo perché ti viene in mente altro.
 
 ### 3. Proporzione
 
@@ -162,17 +162,19 @@ La chiusura è spesso il pezzo che manca.
 
 Frasi utili:
 
-- "Per questo, ai fini della domanda, il punto centrale è...";
-- "In sintesi, la distinzione rilevante è...";
-- "Nel caso pratico, quindi, la soluzione passa da...";
-- "La risposta va letta non solo come definizione, ma come...";
-- "Questo consente di evitare l'errore di...".
+- “Per questo, ai fini della domanda, il punto centrale è...”;
+- “In sintesi, la distinzione rilevante è...”;
+- “Nel caso pratico, quindi, la soluzione passa da...”;
+- “La risposta va letta non solo come definizione, ma come...”;
+- “Questo consente di evitare l’errore di...”.
 
 La chiusura non deve essere lunga. Deve essere orientata.
 
 ## Mappa BANDO della revisione
 
 ![Mappa revisione finale](../assets/chapter-47/01-mappa-revisione-finale.png)
+
+*Figura 47.1 - Mappa revisione finale.*
 
 ### Bando
 
@@ -217,15 +219,15 @@ Memorizzali come 5P.
 
 Nel Diario degli errori crea una sezione:
 
-> "Errore intercettabile in revisione"
+> “Errore intercettabile in revisione”
 
 Non tutti gli errori erano evitabili. Alcuni si.
 
-Se dopo una simulazione scopri che l'errore si poteva vedere negli ultimi 60 secondi, non scrivere solo "sbagliato". Scrivi la regola di controllo.
+Se dopo una simulazione scopri che l’errore si poteva vedere negli ultimi 60 secondi, non scrivere solo “sbagliato”. Scrivi la regola di controllo.
 
 Esempio:
 
-> "Prima di consegnare controllo sempre se ho risposto al verbo: definire, confrontare, applicare."
+> “Prima di consegnare controllo sempre se ho risposto al verbo: definire, confrontare, applicare.”
 
 ### Output
 
@@ -242,12 +244,14 @@ Gli output del capitolo sono:
 
 ![Formula di revisione in passaggi ordinati](../assets/chapter-47/02-formula-cinque-passaggi.png)
 
+*Figura 47.2 - Formula di revisione in passaggi ordinati.*
+
 Quando hai pochissimo tempo, non rileggere tutto con la stessa attenzione.
 
 Fai cinque domande:
 
 1. Ho risposto al verbo della traccia?
-2. C'è almeno un nucleo chiaro?
+2. C’è almeno un nucleo chiaro?
 3. Ho inserito riferimenti non sicuri?
 4. La risposta è proporzionata?
 5. Ho una frase finale che torna alla domanda?
@@ -259,6 +263,8 @@ Non aprire una riscrittura generale.
 ## Checklist da 3 minuti
 
 ![Checklist rapida prima della consegna](../assets/chapter-47/03-checklist-rapida.png)
+
+*Figura 47.3 - Checklist rapida prima della consegna.*
 
 Se hai tre minuti, usa questo ordine.
 
@@ -278,14 +284,16 @@ Senza timer diventa riscrittura.
 
 ![Revisione proporzionata alla lunghezza della risposta](../assets/chapter-47/04-risposte-lunghezza.png)
 
-In 10 righe controlli solo l'essenziale.
+*Figura 47.4 - Revisione proporzionata alla lunghezza della risposta.*
+
+In 10 righe controlli solo l’essenziale.
 
 Checklist:
 
-- definizione o inquadramento c'è?
-- funzione c'è?
-- una conseguenza o esempio c'è?
-- chiusura c'è?
+- definizione o inquadramento c’è?
+- funzione c’è?
+- una conseguenza o esempio c’è?
+- chiusura c’è?
 - ho scritto qualcosa fuori traccia?
 
 Non aggiungere un secondo collegamento se non serve.
@@ -317,11 +325,11 @@ In 30 righe la risposta può avere struttura più articolata.
 
 Controlla:
 
-- l'ordine dei paragrafi;
+- l’ordine dei paragrafi;
 - il rapporto tra definizione e applicazione;
 - i collegamenti;
 - il confronto se richiesto;
-- l'esempio;
+- l’esempio;
 - la conclusione.
 
 Errore frequente:
@@ -333,6 +341,8 @@ Se la nuova idea non è necessaria, non inserirla.
 ## Revisione del caso pratico
 
 ![Revisione mirata del caso pratico](../assets/chapter-47/05-revisione-caso-pratico.png)
+
+*Figura 47.5 - Revisione mirata del caso pratico.*
 
 Nel caso pratico non basta controllare la forma.
 
@@ -350,9 +360,9 @@ Il caso pratico senza soluzione resta incompleto.
 
 Anche quando non sai tutto, devi mostrare come ragioni sui fatti.
 
-## Revisione dell'orale
+## Revisione dell’orale
 
-All'orale non puoi rileggere.
+All’orale non puoi rileggere.
 
 Puoi però revisionare mentre chiudi.
 
@@ -364,7 +374,7 @@ Tre mosse:
 
 Esempio:
 
-> "Quindi, per rispondere alla domanda, l'elemento decisivo è la funzione dell'istituto nel procedimento e il suo collegamento con il soggetto competente."
+> “Quindi, per rispondere alla domanda, l’elemento decisivo è la funzione dell’istituto nel procedimento e il suo collegamento con il soggetto competente.”
 
 Questa chiusura fa due cose:
 
@@ -374,6 +384,8 @@ Questa chiusura fa due cose:
 ## Correggere senza peggiorare
 
 ![Correzione controllata senza introdurre nuovi errori](../assets/chapter-47/06-correggere-senza-peggiorare.png)
+
+*Figura 47.6 - Correzione controllata senza introdurre nuovi errori.*
 
 Non tutte le correzioni migliorano una risposta.
 
@@ -385,13 +397,15 @@ Tre correzioni pericolose:
 
 Prima di correggere chiediti:
 
-> questa modifica riduce un rischio o nasce dall'ansia?
+> questa modifica riduce un rischio o nasce dall’ansia?
 
-Se nasce dall'ansia, fermati.
+Se nasce dall’ansia, fermati.
 
 ## Caso guidato
 
 ![Caso guidato: revisione finale e consegna](../assets/chapter-47/07-caso-consegna.png)
+
+*Figura 47.7 - Caso guidato: revisione finale e consegna.*
 
 Marco ha scritto una risposta da 20 righe su una domanda teorico-pratica.
 
@@ -399,7 +413,7 @@ Gli restano due minuti.
 
 Rilegge e nota una frase:
 
-> "L'ufficio deve sempre procedere in questo modo."
+> “L’ufficio deve sempre procedere in questo modo.”
 
 La frase gli sembra forte, ma non è sicuro che valga sempre.
 
@@ -411,27 +425,27 @@ Scelta sbagliata: non ricorda il riferimento.
 
 Revisione corretta:
 
-> "In linea generale, l'ufficio deve verificare il perimetro del caso e adottare una soluzione coerente con la fase del procedimento."
+> “In linea generale, l’ufficio deve verificare il perimetro del caso e adottare una soluzione coerente con la fase del procedimento.”
 
 La frase è meno brillante, ma più sicura.
 
 Poi Marco aggiunge una chiusura:
 
-> "Ai fini della traccia, quindi, il punto centrale non è solo definire l'istituto, ma applicarlo al caso indicato."
+> “Ai fini della traccia, quindi, il punto centrale non è solo definire l’istituto, ma applicarlo al caso indicato.”
 
 Ha usato la revisione per ridurre rischio e aumentare pertinenza.
 
 ## Domanda da commissario
 
-> "Come controlla una risposta prima di consegnare?"
+> “Come controlla una risposta prima di consegnare?”
 
 Risposta modello:
 
-> "Non mi limiterei a rileggerla in modo generico. Controllerei prima la pertinenza rispetto alla traccia, poi il perimetro della risposta, la proporzione tra le parti, la precisione dei riferimenti e la chiusura. Se trovo un riferimento non sicuro, preferisco eliminarlo o renderlo prudente. L'obiettivo non è riscrivere tutto, ma evitare errori ad alto impatto prima della consegna."
+> “Non mi limiterei a rileggerla in modo generico. Controllerei prima la pertinenza rispetto alla traccia, poi il perimetro della risposta, la proporzione tra le parti, la precisione dei riferimenti e la chiusura. Se trovo un riferimento non sicuro, preferisco eliminarlo o renderlo prudente. L’obiettivo non è riscrivere tutto, ma evitare errori ad alto impatto prima della consegna.”
 
 ## Domanda-trappola
 
-> "Se ho ancora due minuti, devo aggiungere tutto quello che mi viene in mente."
+> “Se ho ancora due minuti, devo aggiungere tutto quello che mi viene in mente.”
 
 Falso.
 
@@ -448,7 +462,7 @@ Meglio:
 
 ## Errore tipico
 
-L'errore tipico è revisionare lo stile invece del punteggio.
+L’errore tipico è revisionare lo stile invece del punteggio.
 
 Il candidato corregge:
 
@@ -485,7 +499,7 @@ Applica la formula 5P:
 
 Poi scrivi nel Diario:
 
-> "La prossima volta, negli ultimi 60 secondi controllo..."
+> “La prossima volta, negli ultimi 60 secondi controllo...”
 
 Completa la frase con una regola concreta.
 
@@ -512,9 +526,3 @@ La revisione finale non è rilettura generica. È controllo selettivo degli erro
 - [[topics/domande-impreviste-concorsi]]
 - [[topics/simulazioni-concorsuali]]
 - [[topics/diario-errori]]
-
-## Note di review
-
-- Prima della pubblicazione finale, verificare se inserire una versione grafica della checklist 5P come pagina workbook.
-- Coordinare questo capitolo con il Capitolo 24, in modo che la checklist finale non duplichi ma specifichi il controllo della risposta.
-- Il capitolo non indica criteri universali di punteggio: eventuali criteri specifici restano quelli della procedura o della commissione.

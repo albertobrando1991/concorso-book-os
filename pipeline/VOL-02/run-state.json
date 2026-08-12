@@ -3,142 +3,8 @@
   "specPath": "books/vol-02-enti-locali-polizia-locale/planning/00-scheda-pipeline.md",
   "specHash": "sha256:b9ec2abf7ad63aaa5271f5f2d561817a092ec16c24727d57ebf82ef84b0a5a6b",
   "createdAt": "2026-07-29T22:02:16.845Z",
-  "updatedAt": "2026-08-05T16:15:08.361Z",
+  "updatedAt": "2026-08-09T10:57:12.395Z",
   "steps": [
-    {
-      "key": "08:moduli/m-fl01-comuni-unioni/chapters/00-piano-editoriale.md",
-      "id": "08",
-      "phase": "C",
-      "scope": "chapter",
-      "target": "moduli/m-fl01-comuni-unioni/chapters/00-piano-editoriale.md",
-      "status": "done",
-      "attempts": 1,
-      "evidence": [],
-      "owner": "info",
-      "agent": "unknown",
-      "provider": "codex",
-      "startedAt": "2026-07-29T22:02:39.069Z",
-      "gate": {
-        "passed": true,
-        "blockers": [],
-        "warnings": [
-          {
-            "code": "accepted:gate-not-implemented",
-            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
-            "location": "moduli/m-fl01-comuni-unioni/chapters/00-piano-editoriale.md"
-          },
-          {
-            "code": "manual-acceptance",
-            "message": "Chiusura manuale di info: Verifica manuale eseguita sul target e sulla scheda del modulo. Report evidenza: wiki/reviews/pipeline/VOL-02/08-piano-m-fl01-cap00.md. Il target è una scheda di piano, non prosa didattica; il gate chapter-plan CLI non è implementato e viene accettato manualmente senza dichiarare pubblicabilità."
-          }
-        ],
-        "notImplemented": [
-          "chapter-plan"
-        ]
-      },
-      "finishedAt": "2026-07-29T22:18:26.974Z"
-    },
-    {
-      "key": "09:moduli/m-fl01-comuni-unioni/chapters/00-piano-editoriale.md",
-      "id": "09",
-      "phase": "C",
-      "scope": "chapter",
-      "target": "moduli/m-fl01-comuni-unioni/chapters/00-piano-editoriale.md",
-      "status": "done",
-      "attempts": 1,
-      "evidence": [],
-      "owner": "info",
-      "agent": "unknown",
-      "provider": "codex",
-      "startedAt": "2026-07-29T22:18:53.100Z",
-      "gate": {
-        "passed": true,
-        "blockers": [],
-        "warnings": []
-      },
-      "finishedAt": "2026-07-29T22:22:00.532Z"
-    },
-    {
-      "key": "10:moduli/m-fl01-comuni-unioni/chapters/00-piano-editoriale.md",
-      "id": "10",
-      "phase": "C",
-      "scope": "chapter",
-      "target": "moduli/m-fl01-comuni-unioni/chapters/00-piano-editoriale.md",
-      "status": "done",
-      "attempts": 3,
-      "evidence": [],
-      "owner": "info",
-      "agent": "unknown",
-      "provider": "codex",
-      "startedAt": "2026-07-29T22:25:37.508Z",
-      "gate": {
-        "passed": true,
-        "blockers": [],
-        "warnings": []
-      },
-      "finishedAt": "2026-07-29T22:25:43.900Z"
-    },
-    {
-      "key": "11:moduli/m-fl01-comuni-unioni/chapters/00-piano-editoriale.md",
-      "id": "11",
-      "phase": "C",
-      "scope": "chapter",
-      "target": "moduli/m-fl01-comuni-unioni/chapters/00-piano-editoriale.md",
-      "status": "done",
-      "attempts": 1,
-      "evidence": [],
-      "owner": "info",
-      "agent": "unknown",
-      "provider": "codex",
-      "startedAt": "2026-07-29T22:25:57.164Z",
-      "gate": {
-        "passed": true,
-        "blockers": [],
-        "warnings": []
-      },
-      "finishedAt": "2026-07-29T22:26:09.087Z"
-    },
-    {
-      "key": "12:moduli/m-fl01-comuni-unioni/chapters/00-piano-editoriale.md",
-      "id": "12",
-      "phase": "C",
-      "scope": "chapter",
-      "target": "moduli/m-fl01-comuni-unioni/chapters/00-piano-editoriale.md",
-      "status": "done",
-      "attempts": 2,
-      "evidence": [],
-      "owner": "info",
-      "agent": "unknown",
-      "provider": "codex",
-      "startedAt": "2026-07-29T22:34:17.152Z",
-      "gate": {
-        "passed": true,
-        "blockers": [],
-        "warnings": [
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto E12-01: stato \"da verificare\".",
-            "location": "wiki/reviews/pipeline/VOL-02/12-moduli-m-fl01-comuni-unioni-chapters-00-piano-editoriale-md.md"
-          },
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto E12-02: stato \"aperto\".",
-            "location": "wiki/reviews/pipeline/VOL-02/12-moduli-m-fl01-comuni-unioni-chapters-00-piano-editoriale-md.md"
-          },
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto E12-03: stato \"da verificare\".",
-            "location": "wiki/reviews/pipeline/VOL-02/12-moduli-m-fl01-comuni-unioni-chapters-00-piano-editoriale-md.md"
-          },
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto E12-04: stato \"proposto\".",
-            "location": "wiki/reviews/pipeline/VOL-02/12-moduli-m-fl01-comuni-unioni-chapters-00-piano-editoriale-md.md"
-          }
-        ]
-      },
-      "finishedAt": "2026-07-29T22:34:49.881Z"
-    },
     {
       "key": "08:moduli/m-fl01-comuni-unioni/chapters/01-tuel-operativo-autonomia-organi-funzioni-comune.md",
       "id": "08",
@@ -1435,9 +1301,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl01-comuni-unioni/chapters/12-procurement-operativo-ufficio-comunale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T16:34:55.884Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fl01-comuni-unioni/chapters/12-procurement-operativo-ufficio-comunale.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Verifica manuale eseguita sul piano: 7 Nucleo ID stabili, stato di copertura, sezioni da conservare, duplicazioni, casi, fonti, rinvii VOL-01, struttura, budget e audit specialistici presenti; capitolo non modificato nello step 08."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-05T16:37:14.321Z"
     },
     {
       "key": "09:moduli/m-fl01-comuni-unioni/chapters/12-procurement-operativo-ufficio-comunale.md",
@@ -1445,9 +1334,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl01-comuni-unioni/chapters/12-procurement-operativo-ufficio-comunale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T16:37:24.200Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-05T16:42:45.435Z"
     },
     {
       "key": "10:moduli/m-fl01-comuni-unioni/chapters/12-procurement-operativo-ufficio-comunale.md",
@@ -1455,9 +1354,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl01-comuni-unioni/chapters/12-procurement-operativo-ufficio-comunale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T16:42:51.584Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-05T16:48:06.232Z"
     },
     {
       "key": "11:moduli/m-fl01-comuni-unioni/chapters/12-procurement-operativo-ufficio-comunale.md",
@@ -1465,9 +1374,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl01-comuni-unioni/chapters/12-procurement-operativo-ufficio-comunale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T16:48:12.791Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-05T16:51:44.209Z"
     },
     {
       "key": "12:moduli/m-fl01-comuni-unioni/chapters/12-procurement-operativo-ufficio-comunale.md",
@@ -1475,9 +1394,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl01-comuni-unioni/chapters/12-procurement-operativo-ufficio-comunale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T16:51:51.314Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-05T16:53:26.240Z"
     },
     {
       "key": "08:moduli/m-fl01-comuni-unioni/chapters/13-territorio-patrimonio-edilizia-lavori-interfaccia-amministrativa.md",
@@ -1485,9 +1414,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl01-comuni-unioni/chapters/13-territorio-patrimonio-edilizia-lavori-interfaccia-amministrativa.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T17:01:20.579Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fl01-comuni-unioni/chapters/13-territorio-patrimonio-edilizia-lavori-interfaccia-amministrativa.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano verificato manualmente: sette nuclei stabili, confini con VOL-01/M-FL04/VOL-10, fonti locali, casi, quiz, budget e audit documentati in wiki/reviews/pipeline/VOL-02/08-piano-m-fl01-cap13.md; corretto il rinvio specialistico previsto a VOL-10/M-TR03."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-05T17:04:33.717Z"
     },
     {
       "key": "09:moduli/m-fl01-comuni-unioni/chapters/13-territorio-patrimonio-edilizia-lavori-interfaccia-amministrativa.md",
@@ -1495,9 +1447,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl01-comuni-unioni/chapters/13-territorio-patrimonio-edilizia-lavori-interfaccia-amministrativa.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T17:04:37.112Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-05T17:11:08.128Z"
     },
     {
       "key": "10:moduli/m-fl01-comuni-unioni/chapters/13-territorio-patrimonio-edilizia-lavori-interfaccia-amministrativa.md",
@@ -1505,9 +1467,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl01-comuni-unioni/chapters/13-territorio-patrimonio-edilizia-lavori-interfaccia-amministrativa.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T17:11:20.214Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-05T17:13:29.941Z"
     },
     {
       "key": "11:moduli/m-fl01-comuni-unioni/chapters/13-territorio-patrimonio-edilizia-lavori-interfaccia-amministrativa.md",
@@ -1515,9 +1487,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl01-comuni-unioni/chapters/13-territorio-patrimonio-edilizia-lavori-interfaccia-amministrativa.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T17:14:13.694Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-05T17:18:54.753Z"
     },
     {
       "key": "12:moduli/m-fl01-comuni-unioni/chapters/13-territorio-patrimonio-edilizia-lavori-interfaccia-amministrativa.md",
@@ -1525,9 +1507,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl01-comuni-unioni/chapters/13-territorio-patrimonio-edilizia-lavori-interfaccia-amministrativa.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T17:19:11.555Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-05T17:20:53.222Z"
     },
     {
       "key": "08:moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
@@ -1535,9 +1527,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T17:30:45.779Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Verifica manuale completata: report 08 con sette nuclei stabili, copertura teorico-applicativa, casi, verifiche, fonti consolidate, rinvii e audit richiesti."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-05T17:33:05.639Z"
     },
     {
       "key": "09:moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
@@ -1545,9 +1560,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T17:33:15.750Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-05T17:41:08.373Z"
     },
     {
       "key": "10:moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
@@ -1555,9 +1580,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T17:41:19.745Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-05T17:45:16.454Z"
     },
     {
       "key": "11:moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
@@ -1565,9 +1600,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T17:45:28.507Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-05T17:47:19.701Z"
     },
     {
       "key": "12:moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
@@ -1575,9 +1620,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T17:47:32.286Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-05T17:48:37.460Z"
     },
     {
       "key": "13:moduli/m-fl01-comuni-unioni",
@@ -1585,9 +1640,19 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-fl01-comuni-unioni",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T17:57:46.672Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-05T18:06:56.607Z"
     },
     {
       "key": "14:moduli/m-fl01-comuni-unioni",
@@ -1595,9 +1660,19 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-fl01-comuni-unioni",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T18:07:08.445Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-05T18:08:08.213Z"
     },
     {
       "key": "15:moduli/m-fl01-comuni-unioni",
@@ -1605,9 +1680,19 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-fl01-comuni-unioni",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T18:08:18.584Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-05T18:21:34.818Z"
     },
     {
       "key": "16:moduli/m-fl01-comuni-unioni",
@@ -1615,59 +1700,32 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-fl01-comuni-unioni",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
-    },
-    {
-      "key": "08:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/00-piano-editoriale.md",
-      "id": "08",
-      "phase": "C",
-      "scope": "chapter",
-      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/00-piano-editoriale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
-    },
-    {
-      "key": "09:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/00-piano-editoriale.md",
-      "id": "09",
-      "phase": "C",
-      "scope": "chapter",
-      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/00-piano-editoriale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
-    },
-    {
-      "key": "10:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/00-piano-editoriale.md",
-      "id": "10",
-      "phase": "C",
-      "scope": "chapter",
-      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/00-piano-editoriale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
-    },
-    {
-      "key": "11:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/00-piano-editoriale.md",
-      "id": "11",
-      "phase": "C",
-      "scope": "chapter",
-      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/00-piano-editoriale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
-    },
-    {
-      "key": "12:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/00-piano-editoriale.md",
-      "id": "12",
-      "phase": "C",
-      "scope": "chapter",
-      "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/00-piano-editoriale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T18:21:46.208Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"text-freeze\" dello step 16 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fl01-comuni-unioni"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Verifica manuale completata: 14 capitoli presenti e hashati, matrice senza stati bloccanti, report 13-15 chiusi, audit specialistico completato, indice e cut-off documentati nel manifest planning/10-text-freeze-manifest.md."
+          }
+        ],
+        "notImplemented": [
+          "text-freeze"
+        ]
+      },
+      "finishedAt": "2026-08-05T18:23:36.746Z"
     },
     {
       "key": "08:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/01-il-sistema-territoriale-multilivello.md",
@@ -1675,9 +1733,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/01-il-sistema-territoriale-multilivello.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T18:31:14.252Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/01-il-sistema-territoriale-multilivello.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Verifica manuale eseguita: il report wiki/reviews/pipeline/VOL-02/08-piano-m-fl02-cap01.md contiene sette Nucleo ID stabili, stati iniziali e interventi, sezioni da conservare, duplicazioni da evitare, casi/quiz/esercizi, fonti, architettura H1/H2/H3, budget formato 2 e audit specialistici. Verificato inoltre che lo step 08 non ha modificato il capitolo. Il gate chapter-plan non è automatizzato."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-05T18:33:29.324Z"
     },
     {
       "key": "09:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/01-il-sistema-territoriale-multilivello.md",
@@ -1685,9 +1766,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/01-il-sistema-territoriale-multilivello.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T18:33:39.528Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-06T08:45:16.097Z"
     },
     {
       "key": "10:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/01-il-sistema-territoriale-multilivello.md",
@@ -1695,9 +1786,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/01-il-sistema-territoriale-multilivello.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-06T08:45:26.319Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-06T08:52:04.102Z"
     },
     {
       "key": "11:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/01-il-sistema-territoriale-multilivello.md",
@@ -1705,9 +1806,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/01-il-sistema-territoriale-multilivello.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-06T08:55:45.291Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-06T09:00:40.343Z"
     },
     {
       "key": "12:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/01-il-sistema-territoriale-multilivello.md",
@@ -1715,9 +1826,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/01-il-sistema-territoriale-multilivello.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-06T09:01:03.100Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-06T09:03:11.253Z"
     },
     {
       "key": "08:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/02-statuti-organi-organizzazione-regionale.md",
@@ -1725,9 +1846,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/02-statuti-organi-organizzazione-regionale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-06T09:11:11.395Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/02-statuti-organi-organizzazione-regionale.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Verifica manuale eseguita: il report wiki/reviews/pipeline/VOL-02/08-piano-m-fl02-cap02.md contiene sette Nucleo ID stabili, stato e intervento per ciascuno, sezioni da conservare, duplicazioni, casi/quiz/esercizi, fonti, architettura e budget formato 2, audit specialistici e lacuna della Bibbia. Verificato che lo step 08 non ha modificato il capitolo. Il gate chapter-plan non è automatizzato."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-06T09:13:06.872Z"
     },
     {
       "key": "09:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/02-statuti-organi-organizzazione-regionale.md",
@@ -1735,9 +1879,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/02-statuti-organi-organizzazione-regionale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-06T09:38:37.076Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-06T09:42:45.459Z"
     },
     {
       "key": "10:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/02-statuti-organi-organizzazione-regionale.md",
@@ -1745,9 +1899,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/02-statuti-organi-organizzazione-regionale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-06T09:42:56.119Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-06T09:55:40.996Z"
     },
     {
       "key": "11:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/02-statuti-organi-organizzazione-regionale.md",
@@ -1755,9 +1919,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/02-statuti-organi-organizzazione-regionale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-06T09:55:56.147Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-06T09:57:41.615Z"
     },
     {
       "key": "12:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/02-statuti-organi-organizzazione-regionale.md",
@@ -1765,9 +1939,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/02-statuti-organi-organizzazione-regionale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-06T09:57:59.048Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-06T09:59:36.186Z"
     },
     {
       "key": "08:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/03-funzioni-regionali-rapporti-stato-enti-locali.md",
@@ -1775,9 +1959,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/03-funzioni-regionali-rapporti-stato-enti-locali.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-06T10:05:50.629Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/03-funzioni-regionali-rapporti-stato-enti-locali.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Verifica manuale completata: piano salvato in wiki/reviews/pipeline/VOL-02/08-piano-m-fl02-cap03.md; sette nuclei stabili, materiali da preservare, confini, fonti consolidate, casi, budget e audit specialistici definiti; capitolo non modificato."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-06T10:07:33.942Z"
     },
     {
       "key": "09:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/03-funzioni-regionali-rapporti-stato-enti-locali.md",
@@ -1785,9 +1992,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/03-funzioni-regionali-rapporti-stato-enti-locali.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-06T10:07:49.347Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-06T10:10:26.650Z"
     },
     {
       "key": "10:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/03-funzioni-regionali-rapporti-stato-enti-locali.md",
@@ -1795,9 +2012,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/03-funzioni-regionali-rapporti-stato-enti-locali.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-06T10:10:42.070Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-06T10:17:07.415Z"
     },
     {
       "key": "11:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/03-funzioni-regionali-rapporti-stato-enti-locali.md",
@@ -1805,9 +2032,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/03-funzioni-regionali-rapporti-stato-enti-locali.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-06T10:17:57.035Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-06T10:19:40.230Z"
     },
     {
       "key": "12:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/03-funzioni-regionali-rapporti-stato-enti-locali.md",
@@ -1815,9 +2052,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/03-funzioni-regionali-rapporti-stato-enti-locali.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-06T10:19:58.211Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-06T10:21:30.640Z"
     },
     {
       "key": "08:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/04-procedimenti-atti-organizzazione-amministrativa-regionale.md",
@@ -1825,9 +2072,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/04-procedimenti-atti-organizzazione-amministrativa-regionale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-06T10:25:09.331Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/04-procedimenti-atti-organizzazione-amministrativa-regionale.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Verifica manuale completata: piano salvato in wiki/reviews/pipeline/VOL-02/08-piano-m-fl02-cap04.md; sette nuclei, confini, fonti, casi, budget e audit definiti; capitolo non modificato."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-06T10:26:19.748Z"
     },
     {
       "key": "09:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/04-procedimenti-atti-organizzazione-amministrativa-regionale.md",
@@ -1835,9 +2105,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/04-procedimenti-atti-organizzazione-amministrativa-regionale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-06T10:26:37.482Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-06T10:28:11.466Z"
     },
     {
       "key": "10:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/04-procedimenti-atti-organizzazione-amministrativa-regionale.md",
@@ -1845,9 +2125,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/04-procedimenti-atti-organizzazione-amministrativa-regionale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-06T10:28:59.902Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-06T10:34:45.000Z"
     },
     {
       "key": "11:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/04-procedimenti-atti-organizzazione-amministrativa-regionale.md",
@@ -1855,9 +2145,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/04-procedimenti-atti-organizzazione-amministrativa-regionale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-06T10:35:06.462Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-06T10:36:03.398Z"
     },
     {
       "key": "12:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/04-procedimenti-atti-organizzazione-amministrativa-regionale.md",
@@ -1865,9 +2165,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/04-procedimenti-atti-organizzazione-amministrativa-regionale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-06T10:36:21.628Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-06T10:44:47.160Z"
     },
     {
       "key": "08:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/05-programmazione-bilancio-controlli-regionali.md",
@@ -1875,9 +2185,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/05-programmazione-bilancio-controlli-regionali.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-06T10:57:00.922Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/05-programmazione-bilancio-controlli-regionali.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Verifica manuale completata: piano step 08 presente con 7 nuclei, confini, fonti, casi, budget e audit; capitolo non modificato."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-06T10:58:43.065Z"
     },
     {
       "key": "09:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/05-programmazione-bilancio-controlli-regionali.md",
@@ -1885,9 +2218,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/05-programmazione-bilancio-controlli-regionali.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-06T10:59:58.090Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-06T11:03:29.616Z"
     },
     {
       "key": "10:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/05-programmazione-bilancio-controlli-regionali.md",
@@ -1895,9 +2238,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/05-programmazione-bilancio-controlli-regionali.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-06T11:03:39.745Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-06T20:03:30.245Z"
     },
     {
       "key": "11:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/05-programmazione-bilancio-controlli-regionali.md",
@@ -1905,9 +2258,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/05-programmazione-bilancio-controlli-regionali.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-06T20:03:42.480Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-06T20:03:45.227Z"
     },
     {
       "key": "12:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/05-programmazione-bilancio-controlli-regionali.md",
@@ -1915,9 +2278,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/05-programmazione-bilancio-controlli-regionali.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-06T20:03:56.743Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-06T20:04:37.930Z"
     },
     {
       "key": "08:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/06-tecnica-legislativa-air-vir-drafting.md",
@@ -1925,9 +2298,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/06-tecnica-legislativa-air-vir-drafting.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-06T20:05:05.074Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/06-tecnica-legislativa-air-vir-drafting.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Verifica manuale completata: piano con 7 nuclei, confini, fonti, casi, budget e audit; capitolo non modificato."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-06T20:12:50.041Z"
     },
     {
       "key": "09:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/06-tecnica-legislativa-air-vir-drafting.md",
@@ -1935,9 +2331,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/06-tecnica-legislativa-air-vir-drafting.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-06T20:12:54.977Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-06T20:15:15.352Z"
     },
     {
       "key": "10:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/06-tecnica-legislativa-air-vir-drafting.md",
@@ -1945,9 +2351,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/06-tecnica-legislativa-air-vir-drafting.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-06T20:15:20.524Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-06T20:17:29.545Z"
     },
     {
       "key": "11:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/06-tecnica-legislativa-air-vir-drafting.md",
@@ -1955,9 +2371,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/06-tecnica-legislativa-air-vir-drafting.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-06T20:17:39.054Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-06T20:17:41.886Z"
     },
     {
       "key": "12:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/06-tecnica-legislativa-air-vir-drafting.md",
@@ -1965,9 +2391,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/06-tecnica-legislativa-air-vir-drafting.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-06T20:17:52.050Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-06T20:20:09.175Z"
     },
     {
       "key": "08:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/07-politiche-coesione-fondi-ue.md",
@@ -1975,9 +2411,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/07-politiche-coesione-fondi-ue.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-06T20:24:51.189Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/07-politiche-coesione-fondi-ue.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Verifica manuale completata: piano con 7 nuclei, confini, fonti, casi, budget e audit; capitolo non modificato."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-06T20:25:36.867Z"
     },
     {
       "key": "09:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/07-politiche-coesione-fondi-ue.md",
@@ -1985,9 +2444,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/07-politiche-coesione-fondi-ue.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-06T20:25:46.890Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-06T20:37:40.665Z"
     },
     {
       "key": "10:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/07-politiche-coesione-fondi-ue.md",
@@ -1995,9 +2464,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/07-politiche-coesione-fondi-ue.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-06T20:37:45.925Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-06T20:39:22.523Z"
     },
     {
       "key": "11:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/07-politiche-coesione-fondi-ue.md",
@@ -2005,9 +2484,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/07-politiche-coesione-fondi-ue.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-06T20:39:34.288Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-06T20:39:36.961Z"
     },
     {
       "key": "12:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/07-politiche-coesione-fondi-ue.md",
@@ -2015,9 +2504,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/07-politiche-coesione-fondi-ue.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-06T20:39:41.915Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-06T20:40:22.167Z"
     },
     {
       "key": "08:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/08-pnrr-territoriale-regis-dnsh-controlli.md",
@@ -2025,9 +2524,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/08-pnrr-territoriale-regis-dnsh-controlli.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-06T21:27:50.897Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/08-pnrr-territoriale-regis-dnsh-controlli.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Verifica manuale completata: piano con 7 nuclei, confini, fonti, casi, budget e audit; capitolo non modificato."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-06T21:28:37.275Z"
     },
     {
       "key": "09:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/08-pnrr-territoriale-regis-dnsh-controlli.md",
@@ -2035,9 +2557,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/08-pnrr-territoriale-regis-dnsh-controlli.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-06T21:28:42.079Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T08:02:56.618Z"
     },
     {
       "key": "10:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/08-pnrr-territoriale-regis-dnsh-controlli.md",
@@ -2045,9 +2577,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/08-pnrr-territoriale-regis-dnsh-controlli.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T08:03:10.483Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T08:05:55.565Z"
     },
     {
       "key": "11:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/08-pnrr-territoriale-regis-dnsh-controlli.md",
@@ -2055,9 +2597,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/08-pnrr-territoriale-regis-dnsh-controlli.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T08:06:07.771Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T08:06:10.697Z"
     },
     {
       "key": "12:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/08-pnrr-territoriale-regis-dnsh-controlli.md",
@@ -2065,9 +2617,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/08-pnrr-territoriale-regis-dnsh-controlli.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T08:06:15.736Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T08:07:02.222Z"
     },
     {
       "key": "08:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/09-province-citta-metropolitane-legge-56-2014.md",
@@ -2075,9 +2637,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/09-province-citta-metropolitane-legge-56-2014.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T09:16:04.575Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/09-province-citta-metropolitane-legge-56-2014.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Verifica manuale completata: piano con 5 nuclei, confini, fonti, casi, budget e audit; capitolo non modificato."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-07T09:16:52.440Z"
     },
     {
       "key": "09:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/09-province-citta-metropolitane-legge-56-2014.md",
@@ -2085,9 +2670,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/09-province-citta-metropolitane-legge-56-2014.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T09:16:57.527Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T09:34:23.738Z"
     },
     {
       "key": "10:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/09-province-citta-metropolitane-legge-56-2014.md",
@@ -2095,9 +2690,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/09-province-citta-metropolitane-legge-56-2014.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T09:34:37.397Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T09:45:31.286Z"
     },
     {
       "key": "11:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/09-province-citta-metropolitane-legge-56-2014.md",
@@ -2105,9 +2710,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/09-province-citta-metropolitane-legge-56-2014.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T09:45:52.208Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T09:45:55.447Z"
     },
     {
       "key": "12:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/09-province-citta-metropolitane-legge-56-2014.md",
@@ -2115,9 +2730,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/09-province-citta-metropolitane-legge-56-2014.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T09:46:01.308Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T09:46:51.567Z"
     },
     {
       "key": "08:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/10-viabilita-edilizia-scolastica-territorio-espropri.md",
@@ -2125,9 +2750,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/10-viabilita-edilizia-scolastica-territorio-espropri.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T10:15:09.417Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/10-viabilita-edilizia-scolastica-territorio-espropri.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Verifica manuale completata: piano con 5 nuclei, confini, fonti, casi, budget e audit; capitolo non modificato."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-07T10:16:01.386Z"
     },
     {
       "key": "09:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/10-viabilita-edilizia-scolastica-territorio-espropri.md",
@@ -2135,9 +2783,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/10-viabilita-edilizia-scolastica-territorio-espropri.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T10:16:06.479Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T10:19:44.731Z"
     },
     {
       "key": "10:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/10-viabilita-edilizia-scolastica-territorio-espropri.md",
@@ -2145,9 +2803,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/10-viabilita-edilizia-scolastica-territorio-espropri.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T10:19:55.809Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T10:38:24.833Z"
     },
     {
       "key": "11:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/10-viabilita-edilizia-scolastica-territorio-espropri.md",
@@ -2155,9 +2823,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/10-viabilita-edilizia-scolastica-territorio-espropri.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T10:38:39.479Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T10:38:42.224Z"
     },
     {
       "key": "12:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/10-viabilita-edilizia-scolastica-territorio-espropri.md",
@@ -2165,9 +2843,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/10-viabilita-edilizia-scolastica-territorio-espropri.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T10:38:46.903Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T10:39:26.973Z"
     },
     {
       "key": "08:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/11-contratti-servizi-pubblici-locali-societa-partecipate.md",
@@ -2175,9 +2863,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/11-contratti-servizi-pubblici-locali-societa-partecipate.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T11:00:17.471Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/11-contratti-servizi-pubblici-locali-societa-partecipate.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Verifica manuale completata: piano con 5 nuclei, confini, fonti, casi, budget e audit; capitolo non modificato."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-07T11:01:07.762Z"
     },
     {
       "key": "09:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/11-contratti-servizi-pubblici-locali-societa-partecipate.md",
@@ -2185,9 +2896,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/11-contratti-servizi-pubblici-locali-societa-partecipate.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T11:01:13.089Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T11:03:33.408Z"
     },
     {
       "key": "10:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/11-contratti-servizi-pubblici-locali-societa-partecipate.md",
@@ -2195,9 +2916,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/11-contratti-servizi-pubblici-locali-societa-partecipate.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T11:03:43.551Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T11:22:02.381Z"
     },
     {
       "key": "11:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/11-contratti-servizi-pubblici-locali-societa-partecipate.md",
@@ -2205,9 +2936,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/11-contratti-servizi-pubblici-locali-societa-partecipate.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T11:27:40.874Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T11:27:44.534Z"
     },
     {
       "key": "12:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/11-contratti-servizi-pubblici-locali-societa-partecipate.md",
@@ -2215,9 +2956,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/11-contratti-servizi-pubblici-locali-societa-partecipate.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T11:27:51.152Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T11:28:41.258Z"
     },
     {
       "key": "08:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/12-laboratorio-profili-regionali-area-vasta.md",
@@ -2225,9 +2976,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/12-laboratorio-profili-regionali-area-vasta.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T11:44:20.907Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/12-laboratorio-profili-regionali-area-vasta.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Verifica manuale completata: piano con 5 nuclei, confini, fonti, casi, budget e audit; capitolo non modificato."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-07T11:45:38.538Z"
     },
     {
       "key": "09:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/12-laboratorio-profili-regionali-area-vasta.md",
@@ -2235,9 +3009,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/12-laboratorio-profili-regionali-area-vasta.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T11:46:09.423Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T11:48:48.142Z"
     },
     {
       "key": "10:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/12-laboratorio-profili-regionali-area-vasta.md",
@@ -2245,9 +3029,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/12-laboratorio-profili-regionali-area-vasta.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T11:49:05.737Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T11:51:23.833Z"
     },
     {
       "key": "11:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/12-laboratorio-profili-regionali-area-vasta.md",
@@ -2255,9 +3049,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/12-laboratorio-profili-regionali-area-vasta.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T11:52:00.035Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T11:52:07.525Z"
     },
     {
       "key": "12:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/12-laboratorio-profili-regionali-area-vasta.md",
@@ -2265,9 +3069,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane/chapters/12-laboratorio-profili-regionali-area-vasta.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T11:52:31.511Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T11:53:39.671Z"
     },
     {
       "key": "13:moduli/m-fl02-regioni-province-citta-metropolitane",
@@ -2275,9 +3089,19 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T11:55:02.336Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T11:57:41.660Z"
     },
     {
       "key": "14:moduli/m-fl02-regioni-province-citta-metropolitane",
@@ -2285,9 +3109,19 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T12:33:05.238Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T12:34:33.708Z"
     },
     {
       "key": "15:moduli/m-fl02-regioni-province-citta-metropolitane",
@@ -2295,9 +3129,19 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T12:34:51.386Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T12:43:03.682Z"
     },
     {
       "key": "16:moduli/m-fl02-regioni-province-citta-metropolitane",
@@ -2305,59 +3149,32 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
-    },
-    {
-      "key": "08:moduli/m-fl04-polizia-locale/chapters/00-piano-editoriale.md",
-      "id": "08",
-      "phase": "C",
-      "scope": "chapter",
-      "target": "moduli/m-fl04-polizia-locale/chapters/00-piano-editoriale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
-    },
-    {
-      "key": "09:moduli/m-fl04-polizia-locale/chapters/00-piano-editoriale.md",
-      "id": "09",
-      "phase": "C",
-      "scope": "chapter",
-      "target": "moduli/m-fl04-polizia-locale/chapters/00-piano-editoriale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
-    },
-    {
-      "key": "10:moduli/m-fl04-polizia-locale/chapters/00-piano-editoriale.md",
-      "id": "10",
-      "phase": "C",
-      "scope": "chapter",
-      "target": "moduli/m-fl04-polizia-locale/chapters/00-piano-editoriale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
-    },
-    {
-      "key": "11:moduli/m-fl04-polizia-locale/chapters/00-piano-editoriale.md",
-      "id": "11",
-      "phase": "C",
-      "scope": "chapter",
-      "target": "moduli/m-fl04-polizia-locale/chapters/00-piano-editoriale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
-    },
-    {
-      "key": "12:moduli/m-fl04-polizia-locale/chapters/00-piano-editoriale.md",
-      "id": "12",
-      "phase": "C",
-      "scope": "chapter",
-      "target": "moduli/m-fl04-polizia-locale/chapters/00-piano-editoriale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T12:43:15.794Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"text-freeze\" dello step 16 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fl02-regioni-province-citta-metropolitane"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Verifica manuale completata: 12 capitoli presenti, matrice completa, Humanizer e step 13-15 chiusi, indice e fonti coerenti; manifest SHA-256 creato con cut-off 2026-08-07."
+          }
+        ],
+        "notImplemented": [
+          "text-freeze"
+        ]
+      },
+      "finishedAt": "2026-08-07T12:45:48.406Z"
     },
     {
       "key": "08:moduli/m-fl04-polizia-locale/chapters/01-diventare-agente-ufficiale-polizia-locale.md",
@@ -2365,9 +3182,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/01-diventare-agente-ufficiale-polizia-locale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T13:53:10.527Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fl04-polizia-locale/chapters/01-diventare-agente-ufficiale-polizia-locale.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Verifica manuale completata: piano con 5 nuclei, confini, fonti, casi, budget e audit specialistici; capitolo non modificato."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-07T13:54:51.110Z"
     },
     {
       "key": "09:moduli/m-fl04-polizia-locale/chapters/01-diventare-agente-ufficiale-polizia-locale.md",
@@ -2375,9 +3215,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/01-diventare-agente-ufficiale-polizia-locale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T13:55:07.614Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T14:03:29.537Z"
     },
     {
       "key": "10:moduli/m-fl04-polizia-locale/chapters/01-diventare-agente-ufficiale-polizia-locale.md",
@@ -2385,9 +3235,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/01-diventare-agente-ufficiale-polizia-locale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T14:03:52.048Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T14:06:33.572Z"
     },
     {
       "key": "11:moduli/m-fl04-polizia-locale/chapters/01-diventare-agente-ufficiale-polizia-locale.md",
@@ -2395,9 +3255,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/01-diventare-agente-ufficiale-polizia-locale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T14:06:50.765Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T14:06:59.869Z"
     },
     {
       "key": "12:moduli/m-fl04-polizia-locale/chapters/01-diventare-agente-ufficiale-polizia-locale.md",
@@ -2405,9 +3275,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/01-diventare-agente-ufficiale-polizia-locale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T14:07:15.998Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T14:08:04.929Z"
     },
     {
       "key": "08:moduli/m-fl04-polizia-locale/chapters/02-ordinamento-nazionale-regionale-polizia-locale.md",
@@ -2415,9 +3295,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/02-ordinamento-nazionale-regionale-polizia-locale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T14:10:00.474Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fl04-polizia-locale/chapters/02-ordinamento-nazionale-regionale-polizia-locale.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Verifica manuale completata: piano con 5 nuclei, confini, fonti, casi, budget e audit; capitolo non modificato."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-07T14:10:58.814Z"
     },
     {
       "key": "09:moduli/m-fl04-polizia-locale/chapters/02-ordinamento-nazionale-regionale-polizia-locale.md",
@@ -2425,9 +3328,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/02-ordinamento-nazionale-regionale-polizia-locale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T14:11:12.555Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T14:13:00.991Z"
     },
     {
       "key": "10:moduli/m-fl04-polizia-locale/chapters/02-ordinamento-nazionale-regionale-polizia-locale.md",
@@ -2435,9 +3348,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/02-ordinamento-nazionale-regionale-polizia-locale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T14:13:13.495Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T14:19:16.928Z"
     },
     {
       "key": "11:moduli/m-fl04-polizia-locale/chapters/02-ordinamento-nazionale-regionale-polizia-locale.md",
@@ -2445,9 +3368,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/02-ordinamento-nazionale-regionale-polizia-locale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T14:19:31.729Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T14:19:35.136Z"
     },
     {
       "key": "12:moduli/m-fl04-polizia-locale/chapters/02-ordinamento-nazionale-regionale-polizia-locale.md",
@@ -2455,9 +3388,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/02-ordinamento-nazionale-regionale-polizia-locale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T14:19:48.071Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T14:20:35.019Z"
     },
     {
       "key": "08:moduli/m-fl04-polizia-locale/chapters/03-qualifiche-poteri-dipendenze-organizzazione-servizio.md",
@@ -2465,9 +3408,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/03-qualifiche-poteri-dipendenze-organizzazione-servizio.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T14:25:55.659Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fl04-polizia-locale/chapters/03-qualifiche-poteri-dipendenze-organizzazione-servizio.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Verifica manuale completata: piano con 5 nuclei, confini, fonti, casi, budget e audit; capitolo non modificato."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-07T14:29:16.668Z"
     },
     {
       "key": "09:moduli/m-fl04-polizia-locale/chapters/03-qualifiche-poteri-dipendenze-organizzazione-servizio.md",
@@ -2475,9 +3441,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/03-qualifiche-poteri-dipendenze-organizzazione-servizio.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T16:00:25.885Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T16:02:15.961Z"
     },
     {
       "key": "10:moduli/m-fl04-polizia-locale/chapters/03-qualifiche-poteri-dipendenze-organizzazione-servizio.md",
@@ -2485,9 +3461,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/03-qualifiche-poteri-dipendenze-organizzazione-servizio.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T16:02:31.273Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T16:08:05.013Z"
     },
     {
       "key": "11:moduli/m-fl04-polizia-locale/chapters/03-qualifiche-poteri-dipendenze-organizzazione-servizio.md",
@@ -2495,9 +3481,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/03-qualifiche-poteri-dipendenze-organizzazione-servizio.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T16:08:33.722Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T16:08:48.834Z"
     },
     {
       "key": "12:moduli/m-fl04-polizia-locale/chapters/03-qualifiche-poteri-dipendenze-organizzazione-servizio.md",
@@ -2505,9 +3501,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/03-qualifiche-poteri-dipendenze-organizzazione-servizio.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T16:09:05.556Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T16:10:06.961Z"
     },
     {
       "key": "08:moduli/m-fl04-polizia-locale/chapters/04-servizi-polizia-stradale.md",
@@ -2515,9 +3521,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/04-servizi-polizia-stradale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T16:13:21.921Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fl04-polizia-locale/chapters/04-servizi-polizia-stradale.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano verificato manualmente: cinque nuclei stabili, confini con capitoli 05-06-13, fonti, budget, verifiche e audit specialistici definiti."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-07T16:14:28.710Z"
     },
     {
       "key": "09:moduli/m-fl04-polizia-locale/chapters/04-servizi-polizia-stradale.md",
@@ -2525,9 +3554,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/04-servizi-polizia-stradale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T16:14:35.432Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T16:16:53.484Z"
     },
     {
       "key": "10:moduli/m-fl04-polizia-locale/chapters/04-servizi-polizia-stradale.md",
@@ -2535,9 +3574,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/04-servizi-polizia-stradale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T16:17:02.448Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T16:20:26.487Z"
     },
     {
       "key": "11:moduli/m-fl04-polizia-locale/chapters/04-servizi-polizia-stradale.md",
@@ -2545,9 +3594,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/04-servizi-polizia-stradale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T16:20:41.197Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T16:21:37.559Z"
     },
     {
       "key": "12:moduli/m-fl04-polizia-locale/chapters/04-servizi-polizia-stradale.md",
@@ -2555,9 +3614,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/04-servizi-polizia-stradale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T16:21:49.836Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T16:22:35.083Z"
     },
     {
       "key": "08:moduli/m-fl04-polizia-locale/chapters/05-accertamento-contestazione-notificazione-ricorsi-codice-strada.md",
@@ -2565,9 +3634,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/05-accertamento-contestazione-notificazione-ricorsi-codice-strada.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T20:21:48.569Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fl04-polizia-locale/chapters/05-accertamento-contestazione-notificazione-ricorsi-codice-strada.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano verificato manualmente: cinque nuclei, confine con capitolo 06, fonti, budget, verifiche e audit specialistici definiti."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-07T20:22:51.511Z"
     },
     {
       "key": "09:moduli/m-fl04-polizia-locale/chapters/05-accertamento-contestazione-notificazione-ricorsi-codice-strada.md",
@@ -2575,9 +3667,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/05-accertamento-contestazione-notificazione-ricorsi-codice-strada.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T20:23:00.364Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T20:24:23.228Z"
     },
     {
       "key": "10:moduli/m-fl04-polizia-locale/chapters/05-accertamento-contestazione-notificazione-ricorsi-codice-strada.md",
@@ -2585,9 +3687,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/05-accertamento-contestazione-notificazione-ricorsi-codice-strada.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T20:27:37.305Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T20:32:50.475Z"
     },
     {
       "key": "11:moduli/m-fl04-polizia-locale/chapters/05-accertamento-contestazione-notificazione-ricorsi-codice-strada.md",
@@ -2595,9 +3707,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/05-accertamento-contestazione-notificazione-ricorsi-codice-strada.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T20:38:51.732Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T20:39:54.969Z"
     },
     {
       "key": "12:moduli/m-fl04-polizia-locale/chapters/05-accertamento-contestazione-notificazione-ricorsi-codice-strada.md",
@@ -2605,9 +3727,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/05-accertamento-contestazione-notificazione-ricorsi-codice-strada.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T20:40:03.671Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T20:40:53.060Z"
     },
     {
       "key": "08:moduli/m-fl04-polizia-locale/chapters/06-procedimento-sanzionatorio-amministrativo-applicato.md",
@@ -2615,9 +3747,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/06-procedimento-sanzionatorio-amministrativo-applicato.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T20:49:10.938Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fl04-polizia-locale/chapters/06-procedimento-sanzionatorio-amministrativo-applicato.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano verificato manualmente: cinque nuclei, confini con capitoli 05 e 07, fonti, budget, verifiche e audit definiti."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-07T20:50:06.053Z"
     },
     {
       "key": "09:moduli/m-fl04-polizia-locale/chapters/06-procedimento-sanzionatorio-amministrativo-applicato.md",
@@ -2625,9 +3780,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/06-procedimento-sanzionatorio-amministrativo-applicato.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T20:50:14.457Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T20:51:43.319Z"
     },
     {
       "key": "10:moduli/m-fl04-polizia-locale/chapters/06-procedimento-sanzionatorio-amministrativo-applicato.md",
@@ -2635,9 +3800,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/06-procedimento-sanzionatorio-amministrativo-applicato.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T20:53:53.244Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T21:08:33.351Z"
     },
     {
       "key": "11:moduli/m-fl04-polizia-locale/chapters/06-procedimento-sanzionatorio-amministrativo-applicato.md",
@@ -2645,9 +3820,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/06-procedimento-sanzionatorio-amministrativo-applicato.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T21:09:18.558Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T21:10:08.183Z"
     },
     {
       "key": "12:moduli/m-fl04-polizia-locale/chapters/06-procedimento-sanzionatorio-amministrativo-applicato.md",
@@ -2655,9 +3840,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/06-procedimento-sanzionatorio-amministrativo-applicato.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T21:10:23.758Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T21:11:17.416Z"
     },
     {
       "key": "08:moduli/m-fl04-polizia-locale/chapters/07-polizia-giudiziaria-atti-essenziali.md",
@@ -2665,9 +3860,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/07-polizia-giudiziaria-atti-essenziali.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T21:12:02.800Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fl04-polizia-locale/chapters/07-polizia-giudiziaria-atti-essenziali.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano verificato manualmente: cinque nuclei stabili, confini con capitoli 03, 06 e 11, budget Formato 2, output didattici, fonti e audit specialistici esplicitati."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-07T21:13:03.517Z"
     },
     {
       "key": "09:moduli/m-fl04-polizia-locale/chapters/07-polizia-giudiziaria-atti-essenziali.md",
@@ -2675,9 +3893,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/07-polizia-giudiziaria-atti-essenziali.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T21:13:06.453Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T21:17:01.778Z"
     },
     {
       "key": "10:moduli/m-fl04-polizia-locale/chapters/07-polizia-giudiziaria-atti-essenziali.md",
@@ -2685,9 +3913,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/07-polizia-giudiziaria-atti-essenziali.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T21:17:11.709Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T21:18:34.595Z"
     },
     {
       "key": "11:moduli/m-fl04-polizia-locale/chapters/07-polizia-giudiziaria-atti-essenziali.md",
@@ -2695,9 +3933,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/07-polizia-giudiziaria-atti-essenziali.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T21:18:48.340Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T21:19:34.071Z"
     },
     {
       "key": "12:moduli/m-fl04-polizia-locale/chapters/07-polizia-giudiziaria-atti-essenziali.md",
@@ -2705,9 +3953,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/07-polizia-giudiziaria-atti-essenziali.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T21:19:44.914Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T21:20:26.732Z"
     },
     {
       "key": "08:moduli/m-fl04-polizia-locale/chapters/08-tulps-pubblica-sicurezza-immigrazione.md",
@@ -2715,9 +3973,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/08-tulps-pubblica-sicurezza-immigrazione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T21:20:52.559Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fl04-polizia-locale/chapters/08-tulps-pubblica-sicurezza-immigrazione.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano verificato manualmente: cinque nuclei stabili, confini con capitoli 07, 09 e 14, budget Formato 2, casi, fonti e audit specialistici esplicitati."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-07T21:21:48.571Z"
     },
     {
       "key": "09:moduli/m-fl04-polizia-locale/chapters/08-tulps-pubblica-sicurezza-immigrazione.md",
@@ -2725,9 +4006,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/08-tulps-pubblica-sicurezza-immigrazione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T21:21:51.338Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T21:27:52.171Z"
     },
     {
       "key": "10:moduli/m-fl04-polizia-locale/chapters/08-tulps-pubblica-sicurezza-immigrazione.md",
@@ -2735,9 +4026,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/08-tulps-pubblica-sicurezza-immigrazione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T21:27:55.153Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T21:30:33.867Z"
     },
     {
       "key": "11:moduli/m-fl04-polizia-locale/chapters/08-tulps-pubblica-sicurezza-immigrazione.md",
@@ -2745,9 +4046,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/08-tulps-pubblica-sicurezza-immigrazione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T21:30:46.498Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T21:31:56.303Z"
     },
     {
       "key": "12:moduli/m-fl04-polizia-locale/chapters/08-tulps-pubblica-sicurezza-immigrazione.md",
@@ -2755,9 +4066,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/08-tulps-pubblica-sicurezza-immigrazione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T21:32:12.525Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-07T21:32:58.423Z"
     },
     {
       "key": "08:moduli/m-fl04-polizia-locale/chapters/09-sicurezza-urbana-ordinanze-coordinamento.md",
@@ -2765,9 +4086,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/09-sicurezza-urbana-ordinanze-coordinamento.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T21:33:26.365Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fl04-polizia-locale/chapters/09-sicurezza-urbana-ordinanze-coordinamento.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano verificato manualmente: cinque nuclei stabili, confini con capitoli 06 e 08, budget Formato 2, casi, fonti e audit specialistici esplicitati."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-08T16:48:28.377Z"
     },
     {
       "key": "09:moduli/m-fl04-polizia-locale/chapters/09-sicurezza-urbana-ordinanze-coordinamento.md",
@@ -2775,9 +4119,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/09-sicurezza-urbana-ordinanze-coordinamento.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-08T16:48:28.983Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-08T16:57:07.883Z"
     },
     {
       "key": "10:moduli/m-fl04-polizia-locale/chapters/09-sicurezza-urbana-ordinanze-coordinamento.md",
@@ -2785,9 +4139,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/09-sicurezza-urbana-ordinanze-coordinamento.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-08T16:57:15.340Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-08T16:58:50.555Z"
     },
     {
       "key": "11:moduli/m-fl04-polizia-locale/chapters/09-sicurezza-urbana-ordinanze-coordinamento.md",
@@ -2795,9 +4159,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/09-sicurezza-urbana-ordinanze-coordinamento.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-08T16:59:02.721Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-08T17:00:39.235Z"
     },
     {
       "key": "12:moduli/m-fl04-polizia-locale/chapters/09-sicurezza-urbana-ordinanze-coordinamento.md",
@@ -2805,9 +4179,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/09-sicurezza-urbana-ordinanze-coordinamento.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-08T17:00:54.002Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-08T17:01:33.978Z"
     },
     {
       "key": "08:moduli/m-fl04-polizia-locale/chapters/10-commercio-pubblici-esercizi-suap.md",
@@ -2815,9 +4199,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/10-commercio-pubblici-esercizi-suap.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-08T17:01:59.860Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fl04-polizia-locale/chapters/10-commercio-pubblici-esercizi-suap.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano manuale verificato: cinque nuclei, confini, budget, verifiche e audit normativo definiti in wiki/reviews/pipeline/VOL-02/08-piano-m-fl04-cap10.md"
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-08T17:07:28.326Z"
     },
     {
       "key": "09:moduli/m-fl04-polizia-locale/chapters/10-commercio-pubblici-esercizi-suap.md",
@@ -2825,9 +4232,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/10-commercio-pubblici-esercizi-suap.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-08T17:07:28.799Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-08T17:11:16.915Z"
     },
     {
       "key": "10:moduli/m-fl04-polizia-locale/chapters/10-commercio-pubblici-esercizi-suap.md",
@@ -2835,9 +4252,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/10-commercio-pubblici-esercizi-suap.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-08T17:11:17.394Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-08T17:12:56.731Z"
     },
     {
       "key": "11:moduli/m-fl04-polizia-locale/chapters/10-commercio-pubblici-esercizi-suap.md",
@@ -2845,9 +4272,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/10-commercio-pubblici-esercizi-suap.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-08T17:12:57.224Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-08T17:13:39.760Z"
     },
     {
       "key": "12:moduli/m-fl04-polizia-locale/chapters/10-commercio-pubblici-esercizi-suap.md",
@@ -2855,9 +4292,25 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/10-commercio-pubblici-esercizi-suap.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-08T17:13:40.229Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-02/12-moduli-m-fl04-polizia-locale-chapters-10-commercio-pubblici-esercizi-suap-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-08T17:14:27.465Z"
     },
     {
       "key": "08:moduli/m-fl04-polizia-locale/chapters/11-vigilanza-edilizia-procedimenti-repressivi.md",
@@ -2865,9 +4318,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/11-vigilanza-edilizia-procedimenti-repressivi.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-08T17:15:12.316Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fl04-polizia-locale/chapters/11-vigilanza-edilizia-procedimenti-repressivi.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano manuale verificato: cinque nuclei, confini VOL-10, budget, verifiche e audit edilizio/PG definiti in wiki/reviews/pipeline/VOL-02/08-piano-m-fl04-cap11.md"
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-08T17:21:47.611Z"
     },
     {
       "key": "09:moduli/m-fl04-polizia-locale/chapters/11-vigilanza-edilizia-procedimenti-repressivi.md",
@@ -2875,9 +4351,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/11-vigilanza-edilizia-procedimenti-repressivi.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-08T17:21:48.119Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-08T17:24:47.107Z"
     },
     {
       "key": "10:moduli/m-fl04-polizia-locale/chapters/11-vigilanza-edilizia-procedimenti-repressivi.md",
@@ -2885,9 +4371,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/11-vigilanza-edilizia-procedimenti-repressivi.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-08T17:24:47.578Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-08T17:26:01.538Z"
     },
     {
       "key": "11:moduli/m-fl04-polizia-locale/chapters/11-vigilanza-edilizia-procedimenti-repressivi.md",
@@ -2895,9 +4391,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/11-vigilanza-edilizia-procedimenti-repressivi.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-08T17:26:02.021Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-08T17:26:37.838Z"
     },
     {
       "key": "12:moduli/m-fl04-polizia-locale/chapters/11-vigilanza-edilizia-procedimenti-repressivi.md",
@@ -2905,9 +4411,25 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/11-vigilanza-edilizia-procedimenti-repressivi.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-08T17:26:38.313Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-02/12-moduli-m-fl04-polizia-locale-chapters-11-vigilanza-edilizia-procedimenti-repressivi-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-08T17:27:19.309Z"
     },
     {
       "key": "08:moduli/m-fl04-polizia-locale/chapters/12-ambiente-rifiuti-rumore-tutela-locale.md",
@@ -2915,9 +4437,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/12-ambiente-rifiuti-rumore-tutela-locale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-08T17:27:41.941Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fl04-polizia-locale/chapters/12-ambiente-rifiuti-rumore-tutela-locale.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano manuale verificato: cinque nuclei, confini VOL-11, budget, verifiche e audit ambientali definiti in wiki/reviews/pipeline/VOL-02/08-piano-m-fl04-cap12.md"
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-08T17:31:35.406Z"
     },
     {
       "key": "09:moduli/m-fl04-polizia-locale/chapters/12-ambiente-rifiuti-rumore-tutela-locale.md",
@@ -2925,9 +4470,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/12-ambiente-rifiuti-rumore-tutela-locale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-08T17:31:35.929Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-08T17:34:22.808Z"
     },
     {
       "key": "10:moduli/m-fl04-polizia-locale/chapters/12-ambiente-rifiuti-rumore-tutela-locale.md",
@@ -2935,9 +4490,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/12-ambiente-rifiuti-rumore-tutela-locale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-08T17:34:23.332Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-08T17:35:44.353Z"
     },
     {
       "key": "11:moduli/m-fl04-polizia-locale/chapters/12-ambiente-rifiuti-rumore-tutela-locale.md",
@@ -2945,9 +4510,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/12-ambiente-rifiuti-rumore-tutela-locale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-08T17:35:44.975Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-08T17:36:28.087Z"
     },
     {
       "key": "12:moduli/m-fl04-polizia-locale/chapters/12-ambiente-rifiuti-rumore-tutela-locale.md",
@@ -2955,9 +4530,25 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/12-ambiente-rifiuti-rumore-tutela-locale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-08T17:36:28.799Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-02/12-moduli-m-fl04-polizia-locale-chapters-12-ambiente-rifiuti-rumore-tutela-locale-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-08T17:37:11.535Z"
     },
     {
       "key": "08:moduli/m-fl04-polizia-locale/chapters/13-sinistri-rilievi-gestione-prova.md",
@@ -2965,9 +4556,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/13-sinistri-rilievi-gestione-prova.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-08T17:37:27.964Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fl04-polizia-locale/chapters/13-sinistri-rilievi-gestione-prova.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano manuale verificato: cinque nuclei, confini tecnici, budget, verifiche e audit CdS/PG/privacy definiti in wiki/reviews/pipeline/VOL-02/08-piano-m-fl04-cap13.md"
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-08T17:44:44.711Z"
     },
     {
       "key": "09:moduli/m-fl04-polizia-locale/chapters/13-sinistri-rilievi-gestione-prova.md",
@@ -2975,9 +4589,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/13-sinistri-rilievi-gestione-prova.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-08T17:44:45.230Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-08T17:47:19.916Z"
     },
     {
       "key": "10:moduli/m-fl04-polizia-locale/chapters/13-sinistri-rilievi-gestione-prova.md",
@@ -2985,9 +4609,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/13-sinistri-rilievi-gestione-prova.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 2,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-08T17:48:50.534Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-08T17:49:15.028Z"
     },
     {
       "key": "11:moduli/m-fl04-polizia-locale/chapters/13-sinistri-rilievi-gestione-prova.md",
@@ -2995,9 +4629,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/13-sinistri-rilievi-gestione-prova.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-08T17:49:15.674Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-08T17:49:53.806Z"
     },
     {
       "key": "12:moduli/m-fl04-polizia-locale/chapters/13-sinistri-rilievi-gestione-prova.md",
@@ -3005,9 +4649,25 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/13-sinistri-rilievi-gestione-prova.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-08T17:49:54.330Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-02/12-moduli-m-fl04-polizia-locale-chapters-13-sinistri-rilievi-gestione-prova-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-08T17:50:34.350Z"
     },
     {
       "key": "08:moduli/m-fl04-polizia-locale/chapters/14-ufficiale-pl-comando-contenzioso-emergenze.md",
@@ -3015,9 +4675,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/14-ufficiale-pl-comando-contenzioso-emergenze.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-08T17:50:48.247Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fl04-polizia-locale/chapters/14-ufficiale-pl-comando-contenzioso-emergenze.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano manuale verificato: cinque nuclei, confini organizzativi, budget e audit L.65/TUEL/CCNL/emergenze definiti in wiki/reviews/pipeline/VOL-02/08-piano-m-fl04-cap14.md"
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-08T18:11:16.341Z"
     },
     {
       "key": "09:moduli/m-fl04-polizia-locale/chapters/14-ufficiale-pl-comando-contenzioso-emergenze.md",
@@ -3025,9 +4708,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/14-ufficiale-pl-comando-contenzioso-emergenze.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 3,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-08T18:15:06.371Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-08T18:16:48.975Z"
     },
     {
       "key": "10:moduli/m-fl04-polizia-locale/chapters/14-ufficiale-pl-comando-contenzioso-emergenze.md",
@@ -3035,9 +4728,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/14-ufficiale-pl-comando-contenzioso-emergenze.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-08T18:16:56.670Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-08T18:19:23.910Z"
     },
     {
       "key": "11:moduli/m-fl04-polizia-locale/chapters/14-ufficiale-pl-comando-contenzioso-emergenze.md",
@@ -3045,9 +4748,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/14-ufficiale-pl-comando-contenzioso-emergenze.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-08T18:19:24.420Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-08T18:20:05.978Z"
     },
     {
       "key": "12:moduli/m-fl04-polizia-locale/chapters/14-ufficiale-pl-comando-contenzioso-emergenze.md",
@@ -3055,9 +4768,25 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/14-ufficiale-pl-comando-contenzioso-emergenze.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-08T18:20:06.516Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-02/12-moduli-m-fl04-polizia-locale-chapters-14-ufficiale-pl-comando-contenzioso-emergenze-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-08T18:21:04.504Z"
     },
     {
       "key": "08:moduli/m-fl04-polizia-locale/chapters/15-laboratorio-atti-verbali-polizia-locale.md",
@@ -3065,9 +4794,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/15-laboratorio-atti-verbali-polizia-locale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-08T18:21:36.769Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fl04-polizia-locale/chapters/15-laboratorio-atti-verbali-polizia-locale.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano verificato manualmente: cinque nuclei stabili, struttura Formato 2, budget, fonti, casi, duplicazioni e audit specialistici esplicitati in wiki/reviews/pipeline/VOL-02/08-piano-m-fl04-cap15.md."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-08T18:22:46.623Z"
     },
     {
       "key": "09:moduli/m-fl04-polizia-locale/chapters/15-laboratorio-atti-verbali-polizia-locale.md",
@@ -3075,9 +4827,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/15-laboratorio-atti-verbali-polizia-locale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-08T18:22:47.137Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-08T19:22:22.059Z"
     },
     {
       "key": "10:moduli/m-fl04-polizia-locale/chapters/15-laboratorio-atti-verbali-polizia-locale.md",
@@ -3085,9 +4847,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/15-laboratorio-atti-verbali-polizia-locale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-08T19:22:32.316Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-08T19:24:58.335Z"
     },
     {
       "key": "11:moduli/m-fl04-polizia-locale/chapters/15-laboratorio-atti-verbali-polizia-locale.md",
@@ -3095,9 +4867,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/15-laboratorio-atti-verbali-polizia-locale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-08T19:25:01.749Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-08T19:25:55.189Z"
     },
     {
       "key": "12:moduli/m-fl04-polizia-locale/chapters/15-laboratorio-atti-verbali-polizia-locale.md",
@@ -3105,9 +4887,25 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl04-polizia-locale/chapters/15-laboratorio-atti-verbali-polizia-locale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-08T19:25:58.605Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-02/12-moduli-m-fl04-polizia-locale-chapters-15-laboratorio-atti-verbali-polizia-locale-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-08T19:27:01.182Z"
     },
     {
       "key": "13:moduli/m-fl04-polizia-locale",
@@ -3115,9 +4913,25 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-fl04-polizia-locale",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-08T19:27:57.943Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V13-01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-02/13-moduli-m-fl04-polizia-locale.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-08T19:46:46.412Z"
     },
     {
       "key": "14:moduli/m-fl04-polizia-locale",
@@ -3125,9 +4939,25 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-fl04-polizia-locale",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-08T19:46:58.857Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V13-01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-02/14-moduli-m-fl04-polizia-locale.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-08T19:47:49.217Z"
     },
     {
       "key": "15:moduli/m-fl04-polizia-locale",
@@ -3135,9 +4965,19 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-fl04-polizia-locale",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-08T19:47:57.722Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-08T19:58:17.592Z"
     },
     {
       "key": "16:moduli/m-fl04-polizia-locale",
@@ -3145,59 +4985,32 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-fl04-polizia-locale",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
-    },
-    {
-      "key": "08:moduli/m-fl03-camere-commercio/chapters/00-piano-editoriale.md",
-      "id": "08",
-      "phase": "C",
-      "scope": "chapter",
-      "target": "moduli/m-fl03-camere-commercio/chapters/00-piano-editoriale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
-    },
-    {
-      "key": "09:moduli/m-fl03-camere-commercio/chapters/00-piano-editoriale.md",
-      "id": "09",
-      "phase": "C",
-      "scope": "chapter",
-      "target": "moduli/m-fl03-camere-commercio/chapters/00-piano-editoriale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
-    },
-    {
-      "key": "10:moduli/m-fl03-camere-commercio/chapters/00-piano-editoriale.md",
-      "id": "10",
-      "phase": "C",
-      "scope": "chapter",
-      "target": "moduli/m-fl03-camere-commercio/chapters/00-piano-editoriale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
-    },
-    {
-      "key": "11:moduli/m-fl03-camere-commercio/chapters/00-piano-editoriale.md",
-      "id": "11",
-      "phase": "C",
-      "scope": "chapter",
-      "target": "moduli/m-fl03-camere-commercio/chapters/00-piano-editoriale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
-    },
-    {
-      "key": "12:moduli/m-fl03-camere-commercio/chapters/00-piano-editoriale.md",
-      "id": "12",
-      "phase": "C",
-      "scope": "chapter",
-      "target": "moduli/m-fl03-camere-commercio/chapters/00-piano-editoriale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-08T19:58:26.023Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"text-freeze\" dello step 16 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fl04-polizia-locale"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Text freeze verificato manualmente: 15 capitoli presenti, 75 nuclei completi, step 11 e 13-15 chiusi, indice e Bibbia coerenti, audit senza esiti aperti, manifest SHA-256 in planning/10-text-freeze-manifest.md."
+          }
+        ],
+        "notImplemented": [
+          "text-freeze"
+        ]
+      },
+      "finishedAt": "2026-08-08T19:59:53.069Z"
     },
     {
       "key": "08:moduli/m-fl03-camere-commercio/chapters/01-camere-commercio-sistema-camerale-unioncamere.md",
@@ -3205,9 +5018,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl03-camere-commercio/chapters/01-camere-commercio-sistema-camerale-unioncamere.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-08T20:00:39.014Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fl03-camere-commercio/chapters/01-camere-commercio-sistema-camerale-unioncamere.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano verificato manualmente: cinque nuclei stabili, asset esistenti, struttura Formato 2, budget, fonti, casi, confini e audit specialistici esplicitati in wiki/reviews/pipeline/VOL-02/08-piano-m-fl03-cap01.md."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-08T20:17:20.117Z"
     },
     {
       "key": "09:moduli/m-fl03-camere-commercio/chapters/01-camere-commercio-sistema-camerale-unioncamere.md",
@@ -3215,9 +5051,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl03-camere-commercio/chapters/01-camere-commercio-sistema-camerale-unioncamere.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-08T20:17:23.509Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-08T20:19:54.969Z"
     },
     {
       "key": "10:moduli/m-fl03-camere-commercio/chapters/01-camere-commercio-sistema-camerale-unioncamere.md",
@@ -3225,9 +5071,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl03-camere-commercio/chapters/01-camere-commercio-sistema-camerale-unioncamere.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-08T20:20:27.864Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-08T20:26:53.993Z"
     },
     {
       "key": "11:moduli/m-fl03-camere-commercio/chapters/01-camere-commercio-sistema-camerale-unioncamere.md",
@@ -3235,9 +5091,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl03-camere-commercio/chapters/01-camere-commercio-sistema-camerale-unioncamere.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-08T20:27:04.486Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-08T20:27:58.198Z"
     },
     {
       "key": "12:moduli/m-fl03-camere-commercio/chapters/01-camere-commercio-sistema-camerale-unioncamere.md",
@@ -3245,9 +5111,25 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl03-camere-commercio/chapters/01-camere-commercio-sistema-camerale-unioncamere.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-08T20:28:06.386Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-02/12-moduli-m-fl03-camere-commercio-chapters-01-camere-commercio-sistema-camerale-unioncamere-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-08T20:29:15.700Z"
     },
     {
       "key": "08:moduli/m-fl03-camere-commercio/chapters/02-registro-imprese-rea-pubblicita-legale.md",
@@ -3255,9 +5137,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl03-camere-commercio/chapters/02-registro-imprese-rea-pubblicita-legale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-08T20:30:25.673Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fl03-camere-commercio/chapters/02-registro-imprese-rea-pubblicita-legale.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Verifica manuale completata: piano presente in wiki/reviews/pipeline/VOL-02/08-piano-m-fl03-cap02.md con cinque Nucleo ID stabili, fonti consolidate, confini v4, struttura Formato 2, budget, verifiche e audit specialistici."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-08T20:42:22.525Z"
     },
     {
       "key": "09:moduli/m-fl03-camere-commercio/chapters/02-registro-imprese-rea-pubblicita-legale.md",
@@ -3265,9 +5170,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl03-camere-commercio/chapters/02-registro-imprese-rea-pubblicita-legale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-08T20:42:34.478Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-08T20:47:20.972Z"
     },
     {
       "key": "10:moduli/m-fl03-camere-commercio/chapters/02-registro-imprese-rea-pubblicita-legale.md",
@@ -3275,9 +5190,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl03-camere-commercio/chapters/02-registro-imprese-rea-pubblicita-legale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-08T20:47:33.458Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-08T20:54:35.113Z"
     },
     {
       "key": "11:moduli/m-fl03-camere-commercio/chapters/02-registro-imprese-rea-pubblicita-legale.md",
@@ -3285,9 +5210,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl03-camere-commercio/chapters/02-registro-imprese-rea-pubblicita-legale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-08T20:56:36.156Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-08T20:57:51.316Z"
     },
     {
       "key": "12:moduli/m-fl03-camere-commercio/chapters/02-registro-imprese-rea-pubblicita-legale.md",
@@ -3295,9 +5230,25 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl03-camere-commercio/chapters/02-registro-imprese-rea-pubblicita-legale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-08T20:58:09.333Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-02/12-moduli-m-fl03-camere-commercio-chapters-02-registro-imprese-rea-pubblicita-legale-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-08T20:59:24.468Z"
     },
     {
       "key": "08:moduli/m-fl03-camere-commercio/chapters/03-servizi-imprese-regolazione-mercato-tutela.md",
@@ -3305,9 +5256,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl03-camere-commercio/chapters/03-servizi-imprese-regolazione-mercato-tutela.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-08T21:01:09.867Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fl03-camere-commercio/chapters/03-servizi-imprese-regolazione-mercato-tutela.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Verifica manuale completata: piano presente in wiki/reviews/pipeline/VOL-02/08-piano-m-fl03-cap03.md con cinque Nucleo ID stabili, fonti istituzionali, confini v4, struttura Formato 2, budget, verifiche e audit specialistici."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-08T21:08:54.179Z"
     },
     {
       "key": "09:moduli/m-fl03-camere-commercio/chapters/03-servizi-imprese-regolazione-mercato-tutela.md",
@@ -3315,9 +5289,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl03-camere-commercio/chapters/03-servizi-imprese-regolazione-mercato-tutela.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-08T21:09:00.543Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-08T21:12:21.691Z"
     },
     {
       "key": "10:moduli/m-fl03-camere-commercio/chapters/03-servizi-imprese-regolazione-mercato-tutela.md",
@@ -3325,9 +5309,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl03-camere-commercio/chapters/03-servizi-imprese-regolazione-mercato-tutela.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-08T21:12:35.120Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-08T21:26:33.623Z"
     },
     {
       "key": "11:moduli/m-fl03-camere-commercio/chapters/03-servizi-imprese-regolazione-mercato-tutela.md",
@@ -3335,9 +5329,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl03-camere-commercio/chapters/03-servizi-imprese-regolazione-mercato-tutela.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-08T21:30:26.948Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-09T08:07:51.258Z"
     },
     {
       "key": "12:moduli/m-fl03-camere-commercio/chapters/03-servizi-imprese-regolazione-mercato-tutela.md",
@@ -3345,9 +5349,25 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl03-camere-commercio/chapters/03-servizi-imprese-regolazione-mercato-tutela.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-09T08:08:05.093Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-02/12-moduli-m-fl03-camere-commercio-chapters-03-servizi-imprese-regolazione-mercato-tutela-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-09T08:09:36.846Z"
     },
     {
       "key": "08:moduli/m-fl03-camere-commercio/chapters/04-organizzazione-personale-procedimenti-trasparenza-camerale.md",
@@ -3355,9 +5375,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl03-camere-commercio/chapters/04-organizzazione-personale-procedimenti-trasparenza-camerale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-09T08:10:23.364Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fl03-camere-commercio/chapters/04-organizzazione-personale-procedimenti-trasparenza-camerale.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano verificato manualmente: cinque nuclei stabili coprono organizzazione, personale, procedimento, accesso-trasparenza-privacy e digitale; definiti fonti, confini con VOL-01 e capitoli adiacenti, budget, quiz, casi e audit specialistici."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-09T08:23:49.323Z"
     },
     {
       "key": "09:moduli/m-fl03-camere-commercio/chapters/04-organizzazione-personale-procedimenti-trasparenza-camerale.md",
@@ -3365,9 +5408,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl03-camere-commercio/chapters/04-organizzazione-personale-procedimenti-trasparenza-camerale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-09T08:24:06.519Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-09T08:27:54.603Z"
     },
     {
       "key": "10:moduli/m-fl03-camere-commercio/chapters/04-organizzazione-personale-procedimenti-trasparenza-camerale.md",
@@ -3375,9 +5428,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl03-camere-commercio/chapters/04-organizzazione-personale-procedimenti-trasparenza-camerale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-09T08:28:01.071Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-09T08:28:53.194Z"
     },
     {
       "key": "11:moduli/m-fl03-camere-commercio/chapters/04-organizzazione-personale-procedimenti-trasparenza-camerale.md",
@@ -3385,9 +5448,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl03-camere-commercio/chapters/04-organizzazione-personale-procedimenti-trasparenza-camerale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-09T08:29:12.837Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-09T08:30:25.717Z"
     },
     {
       "key": "12:moduli/m-fl03-camere-commercio/chapters/04-organizzazione-personale-procedimenti-trasparenza-camerale.md",
@@ -3395,9 +5468,25 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl03-camere-commercio/chapters/04-organizzazione-personale-procedimenti-trasparenza-camerale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-09T08:30:45.466Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-02/12-moduli-m-fl03-camere-commercio-chapters-04-organizzazione-personale-procedimenti-trasparenza-camerale-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-09T08:31:36.405Z"
     },
     {
       "key": "08:moduli/m-fl03-camere-commercio/chapters/05-laboratorio-bando-camerale.md",
@@ -3405,9 +5494,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl03-camere-commercio/chapters/05-laboratorio-bando-camerale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-09T08:31:55.819Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fl03-camere-commercio/chapters/05-laboratorio-bando-camerale.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano verificato manualmente: cinque nuclei coprono decoder, base-delta, profili-priorità, prove-output e simulazione-piano; definiti fonti, confini, strumenti, quiz, casi e audit senza universalizzare il campione."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-09T08:45:40.140Z"
     },
     {
       "key": "09:moduli/m-fl03-camere-commercio/chapters/05-laboratorio-bando-camerale.md",
@@ -3415,9 +5527,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl03-camere-commercio/chapters/05-laboratorio-bando-camerale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-09T08:45:55.129Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-09T08:49:21.996Z"
     },
     {
       "key": "10:moduli/m-fl03-camere-commercio/chapters/05-laboratorio-bando-camerale.md",
@@ -3425,9 +5547,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl03-camere-commercio/chapters/05-laboratorio-bando-camerale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-09T08:49:27.499Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-09T08:51:12.762Z"
     },
     {
       "key": "11:moduli/m-fl03-camere-commercio/chapters/05-laboratorio-bando-camerale.md",
@@ -3435,9 +5567,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl03-camere-commercio/chapters/05-laboratorio-bando-camerale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-09T08:51:33.557Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-09T08:52:09.232Z"
     },
     {
       "key": "12:moduli/m-fl03-camere-commercio/chapters/05-laboratorio-bando-camerale.md",
@@ -3445,9 +5587,25 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fl03-camere-commercio/chapters/05-laboratorio-bando-camerale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-09T08:52:23.962Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-02/12-moduli-m-fl03-camere-commercio-chapters-05-laboratorio-bando-camerale-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-09T08:53:19.118Z"
     },
     {
       "key": "13:moduli/m-fl03-camere-commercio",
@@ -3455,9 +5613,19 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-fl03-camere-commercio",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-09T08:53:48.930Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-09T08:55:36.197Z"
     },
     {
       "key": "14:moduli/m-fl03-camere-commercio",
@@ -3465,9 +5633,19 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-fl03-camere-commercio",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-09T08:55:42.289Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-09T08:56:23.058Z"
     },
     {
       "key": "15:moduli/m-fl03-camere-commercio",
@@ -3475,9 +5653,19 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-fl03-camere-commercio",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-09T08:56:28.964Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-09T08:59:16.425Z"
     },
     {
       "key": "16:moduli/m-fl03-camere-commercio",
@@ -3485,9 +5673,32 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-fl03-camere-commercio",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-09T08:59:22.525Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"text-freeze\" dello step 16 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fl03-camere-commercio"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Text freeze verificato manualmente: 5 capitoli presenti, 25 nuclei completi, Humanizer 5/5, step 13-15 verdi, zero errori gravi/medi o pending, nessun Dato operativo, indice/matrice/Bibbia coerenti e manifest SHA-256 registrato."
+          }
+        ],
+        "notImplemented": [
+          "text-freeze"
+        ]
+      },
+      "finishedAt": "2026-08-09T09:00:31.927Z"
     },
     {
       "key": "21:VOL-02",
@@ -3495,9 +5706,19 @@
       "phase": "F",
       "scope": "volume",
       "target": "VOL-02",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-09T09:00:59.525Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-09T09:09:23.506Z"
     },
     {
       "key": "22:VOL-02",
@@ -3505,9 +5726,32 @@
       "phase": "F",
       "scope": "volume",
       "target": "VOL-02",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-09T09:09:31.861Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"preflight\" dello step 22 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "VOL-02"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Preflight verificato manualmente e documentato: copertura 235/235, 48 file e 431 test verdi, typecheck/build verdi, PDF 830 pagine 6,69 x 9,61, font incorporati, 10 immagini e 0 asset mancanti, audit finale 0 blocker, hash SHA-256 registrato; KDP Previewer non disponibile e dichiarato non eseguito."
+          }
+        ],
+        "notImplemented": [
+          "preflight"
+        ]
+      },
+      "finishedAt": "2026-08-09T09:45:01.746Z"
     },
     {
       "key": "23:VOL-02",
@@ -3515,9 +5759,65 @@
       "phase": "F",
       "scope": "volume",
       "target": "VOL-02",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-09T09:45:02.256Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"delivery\" dello step 23 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "VOL-02"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Pacchetto verificato manualmente: 9 file selettivi, manifest 8/8 hash corrispondenti, PDF e report inclusi, cache memoria log e tavole diagnostiche esclusi, diff staged controllato e step 24 lasciato come unica conferma umana."
+          }
+        ],
+        "notImplemented": [
+          "delivery"
+        ]
+      },
+      "finishedAt": "2026-08-09T09:51:40.494Z"
+    },
+    {
+      "key": "24:VOL-02",
+      "id": "24",
+      "phase": "F",
+      "scope": "volume",
+      "target": "VOL-02",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-09T10:52:02.438Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"human-signoff\" dello step 24 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "VOL-02"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Confermato dall'utente il 9 agosto 2026 con risposta 'procedi' alla richiesta esplicita di scegliere tra confermato e respinto. VOL-02 è valido e autorizzato alla pubblicazione controllata; nessun upload o pubblicazione esterna eseguiti."
+          }
+        ],
+        "notImplemented": [
+          "human-signoff"
+        ]
+      },
+      "finishedAt": "2026-08-09T10:57:12.395Z"
     }
   ]
 }

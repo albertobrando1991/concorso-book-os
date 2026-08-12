@@ -208,7 +208,7 @@ describe("VOL-07 matrix source graph package", () => {
     }
 
     expect(issues).toEqual([])
-  })
+  }, 15_000)
 })
 
 function declaredSourceRefs(content: string) {

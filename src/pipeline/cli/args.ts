@@ -7,19 +7,19 @@ export interface ParsedArgs {
   json: boolean
   force: boolean
   accept: boolean
+  cascade: boolean
   step?: string
   chapter?: string
   module?: string
   phase?: string
   from?: string
-  fromStep?: string
   owner?: string
   provider?: string
   note?: string
 }
 
-const VALUE_FLAGS = ["step", "chapter", "module", "phase", "from", "from-step", "owner", "provider", "note"] as const
-const BOOLEAN_FLAGS = ["json", "force", "accept"] as const
+const VALUE_FLAGS = ["step", "chapter", "module", "phase", "from", "owner", "provider", "note"] as const
+const BOOLEAN_FLAGS = ["json", "force", "accept", "cascade"] as const
 
 export function parseArgs(argv: string[]): ParsedArgs {
   const [rawCommand = "help", ...rest] = argv
@@ -38,7 +38,11 @@ export function parseArgs(argv: string[]): ParsedArgs {
 
     const [name, inlineValue] = splitFlag(token.slice(2))
 
-    if ((BOOLEAN_FLAGS as readonly string[]).includes(name) && inlineValue === undefined) {
+    if ((BOOLEAN_FLAGS as readonly string[]).includes(name)) {
+      if (inlineValue !== undefined) {
+        throw new Error(`L'opzione --${name} è booleana e non accetta un valore.`)
+      }
+
       flags.add(name)
       continue
     }
@@ -62,12 +66,12 @@ export function parseArgs(argv: string[]): ParsedArgs {
     json: flags.has("json"),
     force: flags.has("force"),
     accept: flags.has("accept"),
+    cascade: flags.has("cascade"),
     step: values.get("step"),
     chapter: values.get("chapter"),
     module: values.get("module"),
     phase: values.get("phase"),
     from: values.get("from"),
-    fromStep: values.get("from-step"),
     owner: values.get("owner"),
     provider: values.get("provider"),
     note: values.get("note")

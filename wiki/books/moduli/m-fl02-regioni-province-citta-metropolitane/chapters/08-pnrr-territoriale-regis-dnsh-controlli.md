@@ -9,15 +9,17 @@ entities: ["PNRR", "Regione", "Soggetto attuatore", "Ragioneria generale dello S
 source_refs: ["sources/pnrr-regis-dnsh-monitoraggio-territoriale.md", "sources/pagamenti-tracciabilita-contratti-pnrr-rendicontazione.md", "sources/d-lgs-31-marzo-2023-n-36-contratti-pubblici.md", "sources/bandi-inpa-vol-02-campione-2026.md"]
 book_refs: ["m-fl02-regioni-province-citta-metropolitane", "vol-02-enti-locali-polizia-locale", "il-metodo-bando"]
 confidence: 0.88
-updated_at: 2026-07-20T12:45:00+02:00
+updated_at: 2026-08-06
 created_at: 2026-07-17T17:30:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "module-code-m-fl02", "professional-draft", "review-required"]
 book_id: m-fl02-regioni-province-citta-metropolitane
 outline_section: 8
 volume_chapter: 25
-draft_stage: professional-draft
+draft_stage: professional-draft-complete
+format_version: 2
+dati_operativi: []
 module_code: M-FL02
 module_family: funzioni-locali
 companion_to: il-metodo-bando
@@ -26,42 +28,14 @@ last_compiled_from: ["wiki/books/moduli/m-fl02-regioni-province-citta-metropolit
 
 # PNRR territoriale, ReGiS, DNSH e controlli
 
-## Specifica struttura madre
-
-### Obiettivo
-Tradurre il PNRR in flusso amministrativo territoriale: progetto, CUP, soggetto attuatore, milestone, target, ReGiS, DNSH, spesa, rendicontazione e controlli.
-
-### Nuclei
-- PNRR come ciclo progetto-spesa-risultato.
-- Ruoli: amministrazione titolare, soggetto attuatore, beneficiario, controllore.
-- ReGiS come sistema di monitoraggio, rendicontazione e controllo.
-- DNSH come vincolo da presidiare lungo il ciclo dell'intervento.
-- CIG, CUP, contratti, pagamenti, tracciabilità e documentazione.
-- Rinvio al modulo specialistico su appalti, PNRR e fondi UE per approfondimenti avanzati.
-
-### Output operativo
-Check-list monitoraggio/rendicontazione; caso su soggetto attuatore; schema milestone-target-spesa-controllo.
-
-### Riferimenti consolidati
-- [[sources/pnrr-regis-dnsh-monitoraggio-territoriale]]
-- [[sources/pagamenti-tracciabilita-contratti-pnrr-rendicontazione]]
-- [[sources/d-lgs-31-marzo-2023-n-36-contratti-pubblici]]
-- [[topics/pnrr]]
-- [[entities/pnrr]]
-
-## Scheda di lavoro
-Il capitolo deve togliere il PNRR dal registro del discorso politico e portarlo nel registro amministrativo: chi inserisce dati, chi conserva documenti, chi controlla spese, chi risponde di ritardi, incoerenze e irregolarità.
-
-Il capitolo precedente ha spiegato le politiche di coesione come catena programma-avviso-beneficiario-controllo. Qui la logica e simile, ma il PNRR ha una pressione ulteriore: tempi, milestone, target, piattaforma ReGiS, principio DNSH, controlli antifrode, tracciabilità, assenza di doppio finanziamento e capacità di dimostrare risultati.
-
-## Testo editoriale
+## Guida al capitolo
 
 ### Apertura editoriale
 Nei concorsi regionali e di area vasta il PNRR non va studiato come slogan di investimento. Va studiato come ciclo amministrativo. Una traccia può parlare di asili nido, case della comunità, rigenerazione urbana, digitalizzazione, scuole, mobilità, servizi sociali, infrastrutture, rafforzamento amministrativo o interventi per aree interne. La domanda reale, però, spesso è un'altra: l'ente e in grado di programmare, attuare, monitorare, rendicontare e controllare il progetto?
 
 Il candidato deve abituarsi a una sequenza precisa. Prima viene la misura del PNRR, poi il progetto identificato dal CUP, poi il soggetto che lo attua, poi il cronoprogramma, poi milestone e target, poi gli atti di affidamento o concessione, poi la spesa, poi i pagamenti, poi i dati in ReGiS, poi le evidenze DNSH, poi i controlli. Se manca un anello, la risposta resta debole.
 
-Il PNRR e un piano di performance pubblica. Non basta dire che l'opera e stata realizzata o che la fattura e stata pagata. Occorre dimostrare che l'intervento era finanziabile, identificato, tracciato, coerente con i tempi, rispettoso dei vincoli ambientali, documentato e verificabile.
+Il PNRR è un piano di performance pubblica. Non basta dire che l'opera è stata realizzata o che la fattura è stata pagata. Occorre dimostrare che l'intervento era finanziabile, identificato, tracciato, coerente con i tempi, rispettoso dei vincoli ambientali, documentato e verificabile.
 
 ### Obiettivo del capitolo
 Alla fine del capitolo devi saper fare otto operazioni:
@@ -103,8 +77,12 @@ Questa tabella e la mappa rapida per scritto, orale e caso pratico.
 | D - Diario | Quali errori devo segnare? | ReGiS come "portale", DNSH come dichiarazione finale, pagamento come prova sufficiente, target confuso con attività. |
 | O - Output | Che cosa devo produrre? | Check-list documentale, schema ruoli, risposta orale, nota istruttoria, caso su controllo. |
 
-### PNRR territoriale: che cosa significa
-Il PNRR e il Piano nazionale collegato al dispositivo europeo per la ripresa e resilienza. Nel linguaggio di prova, però, non e solo un insieme di missioni e risorse. E un sistema di attuazione che lega finanziamenti, progetti, scadenze, risultati e controlli.
+## N-FL02-08-01 · PNRR territoriale e ciclo progetto-spesa-risultato
+
+### Spiegazione teorica
+
+#### PNRR territoriale: che cosa significa
+Il PNRR è il Piano nazionale collegato al dispositivo europeo per la ripresa e resilienza. Nel linguaggio di prova, però, non è solo un insieme di missioni e risorse. È un sistema di attuazione che lega finanziamenti, progetti, scadenze, risultati e controlli.
 
 Il termine "territoriale" indica che molti interventi non restano a livello centrale. Regioni, Province, Città metropolitane, Comuni, aziende sanitarie, enti strumentali e altri soggetti pubblici possono essere coinvolti come soggetti attuatori, beneficiari, destinatari o strutture di supporto. Il candidato M-FL02 deve capire come una misura nazionale diventa progetto sul territorio.
 
@@ -125,7 +103,7 @@ La catena minima e:
 
 Formula breve per l'orale:
 
-> Il PNRR territoriale e la traduzione locale di misure nazionali finanziate dal dispositivo europeo: l'ente non gestisce solo risorse, ma progetti identificati, tempi, risultati, dati, vincoli DNSH, rendicontazione e controlli.
+> Il PNRR territoriale è la traduzione locale di misure nazionali finanziate dal dispositivo europeo: l'ente non gestisce solo risorse, ma progetti identificati, tempi, risultati, dati, vincoli DNSH, rendicontazione e controlli.
 
 ### Il PNRR come ciclo progetto-spesa-risultato
 La particolarita del PNRR e il legame stretto tra realizzazione e risultato. In molti finanziamenti tradizionali il candidato tende a concentrarsi sulla spesa: stanziamento, impegno, liquidazione, pagamento. Nel PNRR questo non basta.
@@ -144,6 +122,8 @@ Il ciclo e:
 
 La domanda da commissario e spesso implicita: "l'ente ha realizzato correttamente l'intervento?". La risposta professionale distingue almeno tre piani: attuazione amministrativa, avanzamento finanziario e raggiungimento dei risultati.
 
+### Milestone, target, cronoprogramma e tracciabilità
+
 ### Missioni, componenti, investimenti, milestone e target
 Per il livello M-FL02 non serve imparare a memoria ogni missione. Serve capire la gerarchia.
 
@@ -156,7 +136,7 @@ Per il livello M-FL02 non serve imparare a memoria ogni missione. Serve capire l
 | Milestone | Traguardo qualitativo o procedurale. | Dimostra che una fase rilevante e stata raggiunta. |
 | Target | Obiettivo quantitativo. | Dimostra numero, volume, risultato o output misurabile. |
 
-Errore tipico: dire che milestone e target sono "scadenze". La scadenza e il termine temporale. Milestone e target sono risultati da raggiungere entro determinati tempi.
+Errore tipico: dire che milestone e target sono "scadenze". La scadenza è il termine temporale. Milestone e target sono risultati da raggiungere entro determinati tempi.
 
 ### CUP, CIG e tracciabilità
 Il CUP e uno degli elementi centrali del progetto PNRR. Serve a identificare il progetto di investimento pubblico e a collegare atti, spese, pagamenti e monitoraggio. Nei progetti che generano affidamenti, il CIG identifica la procedura o il contratto pubblico ai fini di tracciabilità e monitoraggio.
@@ -174,8 +154,10 @@ Una risposta corretta non dice solo: "serve il CUP". Dice:
 
 > Il CUP identifica il progetto e deve accompagnare la catena documentale; il CIG, quando vi sono affidamenti, identifica la procedura o il contratto. Entrambi aiutano a collegare progetto, spesa, tracciabilità, monitoraggio e controllo.
 
+## N-FL02-08-03 · Soggetti, ReGiS e qualità del dato
+
 ### I soggetti del ciclo PNRR
-Il PNRR e un sistema multilivello. Nei concorsi regionali e di area vasta occorre distinguere i ruoli senza pretendere di ricostruire ogni modello organizzativo.
+Il PNRR è un sistema multilivello. Nei concorsi regionali e di area vasta occorre distinguere i ruoli senza pretendere di ricostruire ogni modello organizzativo.
 
 | Soggetto | Funzione | Errore da evitare |
 |---|---|---|
@@ -248,6 +230,8 @@ Risposta da ricordare:
 
 > Il monitoraggio misura l'avanzamento, la rendicontazione documenta spese e risultati, il controllo verifica regolarità e coerenza. Nel PNRR i tre piani sono collegati ma non coincidono.
 
+### DNSH ex ante ed ex post
+
 ### DNSH: il principio da non ridurre a formula
 DNSH significa "Do No Significant Harm": non arrecare danno significativo all'ambiente. Nel PNRR e un vincolo trasversale. Non basta inserire una frase nell'atto o dichiarare genericamente che il progetto e sostenibile.
 
@@ -280,6 +264,18 @@ La logica DNSH funziona lungo il ciclo dell'intervento.
 | Chiusura | Le verifiche ex post sono completate? | Checklist finale, relazione conclusiva, documentazione comprovante. |
 
 La risposta professionale non deve citare una checklist specifica se la traccia non indica la misura. Deve dire che la checklist e la documentazione vanno individuate in base alla guida DNSH aggiornata e alle istruzioni dell'amministrazione titolare.
+
+## N-FL02-08-05 · Contratti, pagamenti e controlli PNRR
+
+L'uso di risorse PNRR non modifica la natura del contratto pubblico né elimina i controlli ordinari. Il soggetto attuatore deve raccordare programmazione dell'acquisto, progettazione, scelta della procedura, affidamento, esecuzione e pagamento con le condizioni specifiche della misura. Accelerazione e semplificazione non significano assenza di motivazione o di fascicolo: ogni scelta deve restare ricostruibile.
+
+La verifica non si limita alla regolarità formale dell'affidamento. Occorre controllare che prestazioni, tempi e modifiche contrattuali siano compatibili con cronoprogramma, costo ammesso, milestone, target e obblighi trasversali. Una variante legittima sul piano contrattuale può comunque incidere sull'ammissibilità PNRR o sulla verifica DNSH e richiedere autorizzazioni e aggiornamenti.
+
+Pagamenti e rendicontazione devono restare collegati. Fattura, stato di avanzamento, certificato o altro documento previsto provano aspetti diversi; nessuno, isolatamente, dimostra l'intero ciclo. Il controllo ricompone titolo, prestazione, importo, tracciabilità, beneficiario effettivo quando pertinente, conflitto di interessi e assenza di doppio finanziamento.
+
+Se emerge un'anomalia, l'ufficio deve qualificarla prima di scegliere la conseguenza: errore materiale correggibile, carenza documentale, spesa non ammissibile o irregolarità più ampia richiedono percorsi diversi. Contraddittorio, rettifica, sospensione, recupero e segnalazione si applicano secondo competenza e disciplina della misura. La tempestività conta perché una criticità non gestita può incidere sui traguardi del progetto.
+
+Ogni esito deve restare motivato e tracciato.
 
 ### Contratti pubblici, affidamenti e PNRR
 Molti progetti PNRR territoriali richiedono appalti di lavori, servizi o forniture. Qui entrano CIG, RUP, programmazione, affidamento, esecuzione, SAL, verifica, collaudo, liquidazione e pagamento.
@@ -338,6 +334,18 @@ I controlli PNRR hanno più dimensioni. Non riguardano solo "se i conti tornano"
 
 Il doppio finanziamento e una domanda classica. Non significa che un progetto non possa avere più fonti finanziarie quando consentito. Significa che la stessa spesa non può essere rendicontata due volte a valere su finanziamenti diversi.
 
+## N-FL02-08-06 · Regione, bilancio, trasparenza e anticorruzione
+
+La Regione può operare come amministrazione responsabile, soggetto attuatore, coordinatore territoriale o struttura di supporto, secondo la misura. Il ruolo non va dedotto genericamente dal livello di governo: deve risultare dagli atti di finanziamento e governance. Da quel ruolo discendono poteri, flussi informativi, controlli e responsabilità.
+
+Il raccordo con il bilancio regionale mantiene visibili entrate vincolate, spese, anticipazioni, cronoprogramma ed esigibilità. Il dato ReGiS e il dato contabile devono descrivere lo stesso avanzamento da prospettive diverse. Disallineamenti di importo, data o stato non sono meri problemi informatici: possono compromettere rendicontazione, controllo e decisioni correttive.
+
+Trasparenza e prevenzione della corruzione richiedono pubblicazione degli elementi dovuti, tracciabilità delle decisioni, gestione dei conflitti e conservazione delle verifiche. La pubblicazione, però, non sostituisce il controllo sostanziale. Il fascicolo deve spiegare chi ha deciso, su quali presupposti, con quali controlli e come sono state risolte eventuali anomalie.
+
+Nella prova, il candidato deve partire dall'atto che assegna il ruolo alla Regione e costruire da lì la mappa responsabilità-dato-controllo. Questo evita di attribuire indistintamente alla Regione compiti dell'amministrazione titolare o del soggetto attuatore.
+
+La fonte del ruolo viene quindi prima dell'organigramma.
+
 ### Il ruolo della Regione nei progetti PNRR territoriali
 La Regione può avere ruoli diversi. Questo e un punto importante per i concorsi M-FL02.
 
@@ -388,6 +396,8 @@ Sul piano anticorruzione, i rischi tipici sono:
 - dichiarazioni DNSH prive di evidenze.
 
 Per il candidato, la regola e semplice: ogni dato PNRR deve poter essere spiegato con un documento, ogni documento deve poter essere collegato al progetto, ogni pagamento deve poter essere ricostruito.
+
+## N-FL02-08-07 · Catena operativa, casi e output concorsuali
 
 ### Catena milestone-target-spesa-controllo
 Questa e la mappa centrale del capitolo.
@@ -568,16 +578,52 @@ Prima di consegnare una risposta su PNRR territoriale, ReGiS, DNSH e controlli, 
 - ho evitato dettagli di piattaforma non verificati?
 - ho segnalato che istruzioni ReGiS e DNSH dipendono dalla misura e dall'amministrazione titolare?
 
-### Riferimenti consolidati
-- [[sources/pnrr-regis-dnsh-monitoraggio-territoriale]]
-- [[sources/pagamenti-tracciabilita-contratti-pnrr-rendicontazione]]
-- [[sources/d-lgs-31-marzo-2023-n-36-contratti-pubblici]]
-- [[sources/bandi-inpa-vol-02-campione-2026]]
-- [[topics/pnrr]]
-- [[entities/pnrr]]
+## ▣ Verifica
 
-### Note di review
-- Prima della pubblicazione finale verificare la guida DNSH più aggiornata, le circolari MEF-RGS vigenti e le istruzioni ReGiS dell'amministrazione titolare richiamata dal bando o dal caso.
-- Se il capitolo viene adattato a una Regione o misura specifica, integrare solo fonti ufficiali: manuale operativo, linee guida soggetti attuatori, FAQ, checklist DNSH, istruzioni ReGiS, decreti di finanziamento e modelli di controllo.
-- Evitare nella versione finale schermate, percorsi di menu o passaggi tecnici ReGiS soggetti a evoluzioni della piattaforma.
-- Coordinare questo capitolo con il modulo specialistico su appalti, PNRR e fondi UE per audit, antifrode avanzata, contabilità speciale, procedure finanziarie e rendicontazione analitica.
+### Quiz 1
+**Che cosa rende territoriale un progetto PNRR?**  
+A. La sola localizzazione. B. L'attuazione da parte di soggetti territoriali entro investimento, obiettivi, tempi e controlli del Piano. C. Il solo finanziamento comunale. D. L'uso di ReGiS.
+
+**Risposta corretta: B.** La dimensione territoriale non scioglie il progetto dalla catena nazionale ed europea di risultati, scadenze ed evidenze.
+
+### Quiz 2
+**Milestone e target coincidono?**  
+A. Sempre. B. No: rappresentano traguardi qualitativi e obiettivi quantitativi secondo la configurazione applicabile. C. Solo nei contratti. D. Solo a saldo.
+
+**Risposta corretta: B.** Entrambi devono essere collegati a cronoprogramma, responsabilità e prove verificabili.
+
+### Quiz 3
+**Qual è la funzione amministrativa di ReGiS?**  
+A. Sostituire gli atti dell'ente. B. Supportare monitoraggio, rendicontazione e controllo mediante dati strutturati. C. Approvare automaticamente i pagamenti. D. Eliminare il fascicolo.
+
+**Risposta corretta: B.** L'inserimento del dato non sostituisce la sua verifica né la documentazione che lo giustifica.
+
+### Quiz 4
+**Il DNSH si esaurisce in un'autodichiarazione?**  
+A. Sì. B. No: richiede verifica e documentazione coerenti con misura, fase e schede applicabili. C. Solo per i Comuni. D. Solo dopo il pagamento.
+
+**Risposta corretta: B.** Il presidio opera dalla progettazione all'esecuzione e al controllo, secondo le condizioni pertinenti.
+
+### Quiz 5
+**CUP e CIG hanno la stessa funzione?**  
+A. Sì. B. No: il CUP identifica il progetto d'investimento pubblico; il CIG identifica la procedura contrattuale quando richiesto. C. Il CUP identifica la fattura. D. Il CIG identifica il target.
+
+**Risposta corretta: B.** Possono comparire nella stessa operazione, ma non sono intercambiabili.
+
+### Quiz 6
+**Che cosa deve presidiare il controllo sul doppio finanziamento?**  
+A. Che il medesimo costo non sia rimborsato due volte da fonti incompatibili. B. Che esista un solo finanziatore per progetto. C. Che non vi sia cofinanziamento lecito. D. Che ogni spesa abbia due fatture.
+
+**Risposta corretta: A.** Occorre distinguere il doppio rimborso vietato dal concorso lecito e tracciato di fonti diverse.
+
+### Caso ragionato finale
+Un Comune soggetto attuatore segnala in ReGiS un avanzamento superiore a quello documentato; il cronoprogramma è in ritardo e una variante incide sulle verifiche DNSH. Prima della richiesta di pagamento deve riconciliare dato, atti e stato reale; valutare effetti del ritardo su milestone e target; verificare autorizzazione e ammissibilità della variante; aggiornare, se consentito, cronoprogramma e informazioni; rieseguire i controlli DNSH pertinenti; completare tracciabilità, conflitto di interessi, affidamenti e assenza di doppio finanziamento. La correzione del dato deve lasciare traccia. Il pagamento non può fondarsi sulla sola registrazione informatica, ma su evidenze coerenti e validate secondo le istruzioni della misura.
+
+## Riferimenti normativi e professionali essenziali
+
+- Piano nazionale di ripresa e resilienza italiano e relativi atti attuativi vigenti.
+- Circolari, manuali e istruzioni ufficiali MEF-RGS relative a ReGiS.
+- Guida operativa DNSH e schede tecniche applicabili alla misura.
+- Decreto legislativo 31 marzo 2023, n. 36, per i contratti pubblici nel testo vigente.
+- Disciplina e istruzioni ufficiali su CUP, CIG, tracciabilità, antifrode e doppio finanziamento.
+- Decreto di finanziamento, manuale e linee guida dell'amministrazione titolare della misura interessata.

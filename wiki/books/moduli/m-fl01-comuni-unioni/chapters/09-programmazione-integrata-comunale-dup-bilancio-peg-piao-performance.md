@@ -11,7 +11,7 @@ book_refs: ["m-fl01-comuni-unioni", "vol-02-enti-locali-polizia-locale", "il-met
 confidence: 0.9
 updated_at: 2026-08-05T00:00:00+02:00
 created_at: 2026-07-17T16:30:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "module-code-m-fl01", "format-version-2", "programmazione-comunale"]
 book_id: m-fl01-comuni-unioni

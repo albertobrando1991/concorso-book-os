@@ -24,9 +24,9 @@ last_compiled_from: ["sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.
 
 ## Perché lo scritto non è un tema libero
 
-Nella prova scritta e teorico-pratica lo studio diventa risposta. Usa l'istituto nella forma richiesta: poche righe, quesito aperto, elaborato breve, caso amministrativo, risposta sintetica o soluzione motivata.
+Nella prova scritta e teorico-pratica lo studio diventa risposta. Usa l’istituto nella forma richiesta: poche righe, quesito aperto, elaborato breve, caso amministrativo, risposta sintetica o soluzione motivata.
 
-Molti candidati preparano lo scritto come se fosse un'estensione della lettura: studiano capitoli, memorizzano definizioni e sperano di ricordare abbastanza. Ma lo scritto non chiede solo memoria. Chiede selezione. Devi capire la traccia, delimitare il tema, scegliere le informazioni pertinenti, ordinarle e concludere.
+Molti candidati preparano lo scritto come se fosse un’estensione della lettura: studiano capitoli, memorizzano definizioni e sperano di ricordare abbastanza. Ma lo scritto non chiede solo memoria. Chiede selezione. Devi capire la traccia, delimitare il tema, scegliere le informazioni pertinenti, ordinarle e concludere.
 
 Una risposta scritta efficace non è quella che contiene tutto. È quella che risponde alla domanda con chiarezza, usando ciò che serve e lasciando fuori ciò che disperde.
 
@@ -52,6 +52,8 @@ Se fai il contrario, rischi di produrre una risposta ricca ma fuori bersaglio.
 
 ![Figura 15.1 - La prova scritta: mappa operativa per collegare bando, formati, traccia, schema risposta, diario e output.](../assets/chapter-15/01-mappa-operativa-scritto.png)
 
+*Figura 15.1 - La prova scritta: mappa operativa per collegare bando, formati, traccia, schema risposta, diario e output.*
+
 ## I formati da riconoscere
 
 Il bando può usare formule diverse. Devi capire quale output ti viene chiesto.
@@ -69,13 +71,15 @@ Preparare tutti questi formati nello stesso modo è un errore. La teoria va stud
 
 ![Figura 15.2 - Formati della prova scritta: risposta sintetica, domanda teorica, elaborato breve, caso pratico, teorico-pratica e prova mista.](../assets/chapter-15/02-formati-prova-scritta.png)
 
+*Figura 15.2 - Formati della prova scritta: risposta sintetica, domanda teorica, elaborato breve, caso pratico, teorico-pratica e prova mista.*
+
 ## La lettura della traccia
 
 La traccia va letta come un bando in miniatura. Contiene vincoli. Prima di scrivere, evidenzia mentalmente:
 
 - il verbo operativo;
 - la materia;
-- l'istituto;
+- l’istituto;
 - i soggetti;
 - il contesto;
 - eventuali limiti di spazio;
@@ -95,15 +99,17 @@ La traccia va letta come un bando in miniatura. Contiene vincoli. Prima di scriv
 | Indicare | Elencare elementi essenziali. |
 | Redigere | Produrre un atto, schema o risposta operativa. |
 
-Se il verbo è "confrontare", una definizione lunga non basta. Se il verbo è "applicare", un riassunto teorico non basta. Se il verbo è "indicare", non devi trasformare la risposta in trattato.
+Se il verbo è “confrontare”, una definizione lunga non basta. Se il verbo è “applicare”, un riassunto teorico non basta. Se il verbo è “indicare”, non devi trasformare la risposta in trattato.
 
 ![Figura 15.3 - Lettura della traccia: verbo operativo, materia, istituto, soggetti, vincoli e output prima della scrittura.](../assets/chapter-15/03-lettura-traccia.png)
+
+*Figura 15.3 - Lettura della traccia: verbo operativo, materia, istituto, soggetti, vincoli e output prima della scrittura.*
 
 ## Lo schema base: definizione, riferimento, funzione, esempio, conclusione
 
 Per la maggior parte delle risposte concorsuali puoi usare questo schema:
 
-1. **Definizione**: che cos'è il tema?
+1. **Definizione**: che cos’è il tema?
 2. **Riferimento**: quale principio o fonte lo inquadra, se lo conosci con sicurezza?
 3. **Funzione**: a che cosa serve?
 4. **Applicazione o esempio**: come opera in un procedimento, ufficio o caso?
@@ -113,9 +119,11 @@ Non devi citare norme a caso. Un riferimento incerto può danneggiare la rispost
 
 ![Figura 15.4 - Schema della risposta concorsuale: definizione, riferimento sicuro, funzione, applicazione e conclusione.](../assets/chapter-15/04-schema-risposta-concorsuale.png)
 
+*Figura 15.4 - Schema della risposta concorsuale: definizione, riferimento sicuro, funzione, applicazione e conclusione.*
+
 ### Esempio: risposta sintetica
 
-Traccia: "Illustrare il ruolo del responsabile del procedimento."
+Traccia: “Illustrare il ruolo del responsabile del procedimento.”
 
 Scaletta:
 
@@ -127,7 +135,7 @@ Scaletta:
 
 Risposta modello breve:
 
-> Il responsabile del procedimento è la figura che presidia l'istruttoria e assicura il coordinamento delle attività procedimentali. La sua individuazione rende più chiaro il rapporto tra cittadino e amministrazione, perché consente di sapere chi segue il procedimento e quali passaggi devono essere compiuti. Sul piano operativo cura l'acquisizione degli elementi necessari, coordina gli uffici coinvolti e prepara la decisione o la proposta. La sua funzione è quindi collegata ai principi di buon andamento, trasparenza e responsabilità amministrativa.
+> Il responsabile del procedimento è la figura che presidia l’istruttoria e assicura il coordinamento delle attività procedimentali. La sua individuazione rende più chiaro il rapporto tra cittadino e amministrazione, perché consente di sapere chi segue il procedimento e quali passaggi devono essere compiuti. Sul piano operativo cura l’acquisizione degli elementi necessari, coordina gli uffici coinvolti e prepara la decisione o la proposta. La sua funzione è quindi collegata ai principi di buon andamento, trasparenza e responsabilità amministrativa.
 
 La risposta non dice tutto. Dice ciò che serve.
 
@@ -145,6 +153,8 @@ Allenati su tutte e tre. Un candidato che sa scrivere solo risposte lunghe risch
 
 ![Figura 15.5 - Risposte in 10, 20 e 30 righe: selezionare contenuti e sviluppo in base allo spazio disponibile.](../assets/chapter-15/05-risposte-10-20-30-righe.png)
 
+*Figura 15.5 - Risposte in 10, 20 e 30 righe: selezionare contenuti e sviluppo in base allo spazio disponibile.*
+
 ## La prova teorico-pratica
 
 La prova teorico-pratica chiede di usare la teoria. Può presentarsi come caso, scenario, quesito applicativo o richiesta di individuare passaggi operativi.
@@ -161,9 +171,11 @@ Metodo:
 
 ![Figura 15.6 - Caso teorico-pratico: trasformare fatti, problema, soggetti e regola in una soluzione ordinata.](../assets/chapter-15/06-caso-teorico-pratico.png)
 
+*Figura 15.6 - Caso teorico-pratico: trasformare fatti, problema, soggetti e regola in una soluzione ordinata.*
+
 ### Caso guidato
 
-Traccia: "Un cittadino presenta un'istanza incompleta a un ufficio comunale. Indicare come dovrebbe comportarsi l'amministrazione."
+Traccia: “Un cittadino presenta un’istanza incompleta a un ufficio comunale. Indicare come dovrebbe comportarsi l’amministrazione.”
 
 Prima non devi scrivere tutto sul procedimento. Devi leggere il caso.
 
@@ -172,11 +184,11 @@ Prima non devi scrivere tutto sul procedimento. Devi leggere il caso.
 | Soggetto | Cittadino e ufficio comunale. |
 | Problema | Istanza incompleta. |
 | Materia | Procedimento amministrativo, istruttoria, comunicazione. |
-| Output | Comportamento dell'amministrazione. |
+| Output | Comportamento dell’amministrazione. |
 
 Scaletta:
 
-- l'amministrazione non deve ignorare l'istanza;
+- l’amministrazione non deve ignorare l’istanza;
 - deve verificare la carenza;
 - deve indicare al cittadino che cosa manca, se il procedimento lo consente;
 - deve rispettare termini, competenza e principi di collaborazione;
@@ -184,7 +196,7 @@ Scaletta:
 
 Risposta modello:
 
-> In presenza di un'istanza incompleta, l'amministrazione deve anzitutto verificare quali elementi mancano e se tali elementi sono necessari per l'istruttoria. Non è corretto lasciare la domanda senza seguito. L'ufficio competente deve attivare i passaggi necessari per consentire l'integrazione, quando possibile, indicando in modo chiaro al cittadino la documentazione o le informazioni mancanti. La gestione del caso deve rispettare i principi di buon andamento, collaborazione, trasparenza e conclusione del procedimento. Se l'incompletezza non viene sanata o impedisce la valutazione, l'amministrazione adotterà l'esito previsto dalla disciplina applicabile, motivando la decisione.
+> In presenza di un’istanza incompleta, l’amministrazione deve anzitutto verificare quali elementi mancano e se tali elementi sono necessari per l’istruttoria. Non è corretto lasciare la domanda senza seguito. L’ufficio competente deve attivare i passaggi necessari per consentire l’integrazione, quando possibile, indicando in modo chiaro al cittadino la documentazione o le informazioni mancanti. La gestione del caso deve rispettare i principi di buon andamento, collaborazione, trasparenza e conclusione del procedimento. Se l’incompletezza non viene sanata o impedisce la valutazione, l’amministrazione adotterà l’esito previsto dalla disciplina applicabile, motivando la decisione.
 
 La risposta è teorico-pratica perché unisce principio, comportamento e soluzione.
 
@@ -208,16 +220,16 @@ La scaletta impedisce di partire bene e perdersi a metà. È particolarmente uti
 
 In alcune prove teorico-pratiche la traccia non chiede soltanto di spiegare una regola: chiede di redigere una comunicazione, una nota, un verbale, uno schema di atto o un provvedimento. In questo caso non basta conoscere il contenuto. Devi dare al testo una forma amministrativa ordinata, leggibile e coerente con il soggetto competente indicato dalla traccia.
 
-La regola più utile è questa: non completare con la fantasia ciò che la traccia non fornisce. Se mancano dati, usa formule neutre come «ai sensi della disciplina applicabile», «l'ufficio competente», «entro il termine indicato» o campi da compilare. Un riferimento normativo inesatto è più dannoso di una formula prudente.
+La regola più utile è questa: non completare con la fantasia ciò che la traccia non fornisce. Se mancano dati, usa formule neutre come «ai sensi della disciplina applicabile», «l’ufficio competente», «entro il termine indicato» o campi da compilare. Un riferimento normativo inesatto è più dannoso di una formula prudente.
 
-### La struttura comune dell'atto
+### La struttura comune dell’atto
 
 | Blocco | Domanda da farti | Funzione |
 |---|---|---|
 | Intestazione | Chi scrive e a chi? | Identifica amministrazione, ufficio, destinatario e oggetto. |
 | Presupposti | Quali fatti sono già noti? | Riporta solo gli elementi della traccia utili alla decisione o comunicazione. |
 | Valutazione | Quale problema va risolto? | Collega fatti, competenza, istruttoria e regola applicabile. |
-| Dispositivo o richiesta | Che cosa deve accadere ora? | Formula una richiesta, una decisione, un invito o una presa d'atto chiara. |
+| Dispositivo o richiesta | Che cosa deve accadere ora? | Formula una richiesta, una decisione, un invito o una presa d’atto chiara. |
 | Chiusura | Come si rende efficace e tracciabile? | Indica termine, eventuale comunicazione, firma del soggetto competente e canale. |
 
 ### Quattro formati da riconoscere
@@ -226,7 +238,7 @@ La regola più utile è questa: non completare con la fantasia ciò che la tracc
 |---|---|---|
 | Comunicazione o richiesta di integrazione | Devi informare il cittadino o chiedere elementi mancanti. | Oggetto, pratica, cosa manca, termine, canale di risposta, ufficio competente. |
 | Nota istruttoria | Devi rappresentare fatti e valutazioni a un responsabile o ad altro ufficio. | Oggetto, fatti verificati, elementi mancanti, proposta operativa o richiesta di istruzioni. |
-| Verbale | Devi documentare un'attività, un incontro o un accertamento. | Data, luogo, soggetti presenti, attività svolta, fatti rilevati, esito e sottoscrizione. |
+| Verbale | Devi documentare un’attività, un incontro o un accertamento. | Data, luogo, soggetti presenti, attività svolta, fatti rilevati, esito e sottoscrizione. |
 | Schema di determinazione o provvedimento | La traccia identifica il soggetto competente e chiede una decisione. | Oggetto, presupposti, motivazione essenziale, decisione o dispositivo, adempimenti successivi. |
 
 > **BANDO in pratica**
@@ -241,17 +253,17 @@ La regola più utile è questa: non completare con la fantasia ciò che la tracc
 
 > **Oggetto: richiesta di integrazione documentale - pratica [riferimento]**
 >
-> Con riferimento alla domanda presentata in data [data], l'ufficio comunica che, ai fini del completamento dell'istruttoria, risultano necessari i seguenti elementi: [documenti o informazioni indicati dalla traccia].
+> Con riferimento alla domanda presentata in data [data], l’ufficio comunica che, ai fini del completamento dell’istruttoria, risultano necessari i seguenti elementi: [documenti o informazioni indicati dalla traccia].
 >
-> Si invita pertanto l'interessato a trasmettere l'integrazione entro il termine indicato nella comunicazione, attraverso il canale previsto dall'amministrazione. Decorso il termine, l'ufficio procederà secondo la disciplina applicabile e sulla base degli elementi disponibili.
+> Si invita pertanto l’interessato a trasmettere l’integrazione entro il termine indicato nella comunicazione, attraverso il canale previsto dall’amministrazione. Decorso il termine, l’ufficio procederà secondo la disciplina applicabile e sulla base degli elementi disponibili.
 >
-> Per informazioni è possibile rivolgersi all'ufficio competente. Il responsabile del procedimento cura la prosecuzione dell'istruttoria e la tracciabilità della comunicazione.
+> Per informazioni è possibile rivolgersi all’ufficio competente. Il responsabile del procedimento cura la prosecuzione dell’istruttoria e la tracciabilità della comunicazione.
 
 È una griglia, non un modello da copiare in ogni situazione: pratica, carenza, richiesta, termine, canale, responsabilità e tracciabilità.
 
-### Checklist di consegna dell'atto
+### Checklist di consegna dell’atto
 
-- ho prodotto proprio l'atto richiesto dalla traccia;
+- ho prodotto proprio l’atto richiesto dalla traccia;
 - ho indicato soggetto, destinatario e oggetto;
 - ho separato fatti, valutazione e decisione;
 - non ho attribuito competenze a un soggetto diverso da quello indicato;
@@ -260,25 +272,25 @@ La regola più utile è questa: non completare con la fantasia ciò che la tracc
 
 > **Errore tipico**
 >
-> Scrivere un tema sulla materia invece dell'atto richiesto. Se la traccia chiede una richiesta di integrazione, non basta spiegare il procedimento amministrativo: devi produrre una comunicazione che il cittadino possa capire e che l'ufficio possa utilizzare.
+> Scrivere un tema sulla materia invece dell’atto richiesto. Se la traccia chiede una richiesta di integrazione, non basta spiegare il procedimento amministrativo: devi produrre una comunicazione che il cittadino possa capire e che l’ufficio possa utilizzare.
 
 ## Lessico: precisione senza rigidità
 
 Una risposta concorsuale deve usare parole corrette. Non deve sembrare una sentenza. Evita formule vaghe:
 
-- "la legge dice";
-- "la pubblica amministrazione deve fare bene";
-- "il cittadino ha diritto a tutto";
-- "si procede normalmente";
-- "è una cosa importante".
+- “la legge dice”;
+- “la pubblica amministrazione deve fare bene”;
+- “il cittadino ha diritto a tutto”;
+- “si procede normalmente”;
+- “è una cosa importante”.
 
 Preferisci formule più precise:
 
-- "l'amministrazione deve rispettare il principio di buon andamento";
-- "il procedimento deve essere gestito da un ufficio competente";
-- "l'istanza richiede istruttoria";
-- "la decisione deve essere motivata quando incide su interessi rilevanti";
-- "il cittadino deve poter comprendere l'esito".
+- “l’amministrazione deve rispettare il principio di buon andamento”;
+- “il procedimento deve essere gestito da un ufficio competente”;
+- “l’istanza richiede istruttoria”;
+- “la decisione deve essere motivata quando incide su interessi rilevanti”;
+- “il cittadino deve poter comprendere l’esito”.
 
 Precisione non significa lunghezza. Significa scegliere il termine giusto.
 
@@ -307,7 +319,7 @@ Dopo ogni risposta, correggi con questa griglia.
 | Struttura | La risposta ha inizio, sviluppo e chiusura? |
 | Completezza | Ho inserito gli elementi essenziali? |
 | Precisione | Ho usato termini corretti? |
-| Applicazione | Se c'è un caso, ho dato una soluzione? |
+| Applicazione | Se c’è un caso, ho dato una soluzione? |
 | Tempo | Ho rispettato il limite? |
 | Revisione | Ho corretto forma e ripetizioni? |
 
@@ -315,31 +327,33 @@ Non correggere solo il contenuto. Correggi anche il modo in cui costruisci la ri
 
 ![Figura 15.7 - Tempo, revisione e diario dello scritto: simulare, correggere pertinenza, struttura e lessico, poi decidere il recupero.](../assets/chapter-15/07-tempo-diario-scritto.png)
 
+*Figura 15.7 - Tempo, revisione e diario dello scritto: simulare, correggere pertinenza, struttura e lessico, poi decidere il recupero.*
+
 ## Errori tipici
 
 ### Scrivere tutto ciò che si sa
 
-È l'errore più comune. La traccia chiede un punto; il candidato apre il manuale mentale e svuota tutto. La commissione non valuta la quantità in sé. Valuta pertinenza, ordine e capacità di selezione.
+È l’errore più comune. La traccia chiede un punto; il candidato apre il manuale mentale e svuota tutto. La commissione non valuta la quantità in sé. Valuta pertinenza, ordine e capacità di selezione.
 
 ### Citare riferimenti incerti
 
-Se non ricordi un articolo, non inventarlo. Puoi scrivere "la disciplina sul procedimento amministrativo" o richiamare il principio, se è pertinente. La precisione falsa è peggiore della sobrietà.
+Se non ricordi un articolo, non inventarlo. Puoi scrivere “la disciplina sul procedimento amministrativo” o richiamare il principio, se è pertinente. La precisione falsa è peggiore della sobrietà.
 
 ### Non chiudere
 
-Una risposta senza conclusione sembra sospesa. La chiusura deve riportare il discorso alla traccia: "Per queste ragioni...", "In sintesi...", "Nel caso prospettato...".
+Una risposta senza conclusione sembra sospesa. La chiusura deve riportare il discorso alla traccia: “Per queste ragioni...”, “In sintesi...”, “Nel caso prospettato...”.
 
 ## Domanda da commissario
 
 **Domanda:** Che cosa rende efficace una risposta scritta in un concorso?
 
-**Risposta efficace:** una risposta efficace è pertinente, ordinata e proporzionata. Parte dalla traccia, definisce il tema, richiama solo riferimenti sicuri, spiega la funzione dell'istituto e, se richiesto, lo applica al caso. Deve essere chiara, leggibile e conclusa, non un elenco disordinato di nozioni.
+**Risposta efficace:** una risposta efficace è pertinente, ordinata e proporzionata. Parte dalla traccia, definisce il tema, richiama solo riferimenti sicuri, spiega la funzione dell’istituto e, se richiesto, lo applica al caso. Deve essere chiara, leggibile e conclusa, non un elenco disordinato di nozioni.
 
 ## Domanda-trappola
 
 **Domanda:** Una risposta più lunga è sempre migliore?
 
-No. Una risposta lunga può essere debole se non risponde alla traccia. Nello scritto conta la selezione: inserire ciò che serve, nell'ordine giusto, entro il tempo e lo spazio disponibili.
+No. Una risposta lunga può essere debole se non risponde alla traccia. Nello scritto conta la selezione: inserire ciò che serve, nell’ordine giusto, entro il tempo e lo spazio disponibili.
 
 ## Mini-esercizio
 
@@ -371,8 +385,3 @@ Poi confronta le tre versioni. Se la risposta da 10 righe non è chiara, non hai
 - [[topics/risposta-concorsuale]]
 - [[topics/casi-pratici]]
 - [[topics/metodo-di-studio]]
-
-## Note di review
-
-- Verificare in revisione finale se aggiungere esempi di tracce reali sintetizzate da bandi recenti.
-- Non sono stati inseriti articoli specifici quando non necessari al metodo, per evitare falsa precisione.

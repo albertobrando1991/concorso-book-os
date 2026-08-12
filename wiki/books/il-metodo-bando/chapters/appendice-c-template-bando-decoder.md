@@ -36,15 +36,15 @@ Usa quattro regole.
 
 ### 1. Scrivi solo ciò che trovi in fonte ufficiale
 
-La fonte principale è il bando o l'avviso ufficiale. I riassunti online possono aiutare a orientarti, ma non devono essere la base della compilazione.
+La fonte principale è il bando o l’avviso ufficiale. I riassunti online possono aiutare a orientarti, ma non devono essere la base della compilazione.
 
 ### 2. Segna i dubbi, non coprirli
 
-Se non trovi un'informazione, scrivi `da verificare`. Il campo vuoto è pericoloso perché sembra dimenticanza; il dubbio scritto diventa azione.
+Se non trovi un’informazione, scrivi `da verificare`. Il campo vuoto è pericoloso perché sembra dimenticanza; il dubbio scritto diventa azione.
 
 ### 3. Trasforma ogni dato in una decisione
 
-Non basta scrivere "prova scritta". Devi chiederti: è a quiz? È teorica? È pratica? Ha una soglia? Elimina molti candidati? Richiede simulazioni?
+Non basta scrivere “prova scritta”. Devi chiederti: è a quiz? È teorica? È pratica? Ha una soglia? Elimina molti candidati? Richiede simulazioni?
 
 ### 4. Aggiorna il Decoder quando escono avvisi
 
@@ -118,7 +118,7 @@ Il nome del profilo non basta. Devi capire quale lavoro e quale prova sta dietro
 
 | Domanda | Risposta |
 |---|---|
-| Quale figura cerca l'amministrazione? | |
+| Quale figura cerca l’amministrazione? | |
 | Quali mansioni o competenze emergono dal bando? | |
 | È un profilo amministrativo, contabile, tecnico, digitale, vigilanza o altro? | |
 | Quali capitoli del libro sono nucleo comune? | |
@@ -328,7 +328,7 @@ Esempio fittizio: istruttore amministrativo comunale, prova scritta a quiz e ora
 | Rischio | Studiare tutto senza allenare quiz |
 | priorità | Alta |
 
-La decisione non è: "compro un manuale di enti locali". La decisione è: "nei primi sette giorni faccio nucleo amministrativo, organi comunali, accessi, una simulazione quiz e apro il diario errori".
+La decisione non è: “compro un manuale di enti locali”. La decisione è: “nei primi sette giorni faccio nucleo amministrativo, organi comunali, accessi, una simulazione quiz e apro il diario errori”.
 
 ## Confronto tra due bandi
 
@@ -385,9 +385,9 @@ Se non riesci a motivarla, il bando non è ancora stato decodificato.
 
 - Compilare il Decoder dopo aver già iniziato a studiare.
 - Trascrivere tutto il bando senza decidere nulla.
-- Lasciare vuoti i dubbi invece di scrivere "da verificare".
+- Lasciare vuoti i dubbi invece di scrivere “da verificare”.
 - Ignorare punteggi, soglie e prova eliminatoria.
-- Classificare tutte le materie come "obbligatorie".
+- Classificare tutte le materie come “obbligatorie”.
 - Non aggiornare il Decoder quando escono avvisi successivi.
 - Preparare più concorsi senza confrontarli.
 
@@ -401,9 +401,3 @@ Se non riesci a motivarla, il bando non è ancora stato decodificato.
 - [[topics/bando-decoder]]
 - [[topics/anatomia-del-bando]]
 - [[topics/checklist-concorsi]]
-
-## Note di review
-
-- Prima della pubblicazione finale verificare la resa tipografica delle tabelle: alcune sezioni potrebbero diventare pagine workbook a piena larghezza.
-- Valutare una versione PDF stampabile separata o QR collegato, mantenendo completa la versione cartacea.
-- Se l'appendice viene impaginata in formato compatto, preservare almeno la versione "Il mio concorso in una pagina" e il confronto tra due bandi.

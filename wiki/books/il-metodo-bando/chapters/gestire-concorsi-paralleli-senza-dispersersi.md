@@ -21,13 +21,13 @@ last_compiled_from: ["sources/gestione-concorsi-paralleli-metodo-bando.md", "top
 last_humanizer_revision: 2026-07-24
 ---
 
-# Capitolo 27 - Gestire concorsi paralleli senza disperdersi
+# R3 - Gestire concorsi paralleli senza disperdersi
 
-> Modulo ricettario **R3** — Portafoglio concorsi e calendario unico. Collega Cap. 26, Cap. 22 e Appendice D.
+> Portafoglio concorsi e calendario unico. Collega R2, Cap. 22 e Appendice D.
 
 La preparazione cambia quando i bandi diventano due, tre o quattro. Uno scade tra venti giorni, uno ha materie simili ma una prova diversa, uno sembra più vicino al tuo profilo, un altro ha più posti. A quel punto molti candidati aprono un calendario per ogni concorso, una cartella per ogni bando e un gruppo di appunti per ogni materia, poi iniziano a rincorrere tutto.
 
-Il risultato è prevedibile. Le ore aumentano sulla carta, ma diminuiscono nella realta. Il candidato legge molto, cambia priorità ogni giorno, salta simulazioni, accumula materiali e arriva alle prove con la sensazione di non aver chiuso nulla.
+Il risultato è prevedibile. Le ore aumentano sulla carta, ma diminuiscono nella realtà. Il candidato legge molto, cambia priorità ogni giorno, salta simulazioni, accumula materiali e arriva alle prove con la sensazione di non aver chiuso nulla.
 
 Il Metodo BANDO aiuta a decidere quali concorsi possono convivere nello stesso sistema di studio.
 
@@ -60,9 +60,11 @@ La regola base è semplice:
 | D - Diario | Quali errori valgono per più concorsi? | Diario diviso in comune/profilo/logistica |
 | O - Output | Quale prova devo allenare per prima? | Simulazioni e risposte per priorità |
 
-Questa mappa evita l'errore più frequente: decidere in base all'ansia. Non è urgente ciò che è appena uscito. È urgente ciò che ha scadenza vicina, alta compatibilità con il tuo profilo, prove allenabili e un rapporto sostenibile tra tempo disponibile e materie richieste.
+Questa mappa evita l’errore più frequente: decidere in base all’ansia. Non è urgente ciò che è appena uscito. È urgente ciò che ha scadenza vicina, alta compatibilità con il tuo profilo, prove allenabili e un rapporto sostenibile tra tempo disponibile e materie richieste.
 
 ![Figura 27.1 - Mappa BANDO dei concorsi paralleli](../assets/chapter-27/01-mappa-bando-concorsi-paralleli.png)
+
+*Figura 27.1 - Mappa BANDO dei concorsi paralleli*
 
 ## Il portafoglio concorsi
 
@@ -115,6 +117,8 @@ Il concorso parcheggiato resta nel sistema. Compili una scheda minima, salvi ban
 
 ![Figura 27.2 - Portafoglio concorsi](../assets/chapter-27/02-portafoglio-concorsi.png)
 
+*Figura 27.2 - Portafoglio concorsi*
+
 ## La matrice di compatibilità
 
 Prima di scegliere, metti i bandi nella stessa pagina. Non in tre file diversi. Non in tre chat diverse. Una pagina unica.
@@ -138,6 +142,8 @@ Se non riesci a compilare la matrice, non sei pronto a distribuire le ore. Prima
 
 ![Figura 27.3 - Matrice di compatibilità](../assets/chapter-27/03-matrice-compatibilita.png)
 
+*Figura 27.3 - Matrice di compatibilità*
+
 ## La regola 70/20/10
 
 Quando un concorso guida e un concorso satellite convivono, puoi partire da una distribuzione semplice:
@@ -154,6 +160,8 @@ Il 10% non va sacrificato. Serve a evitare errori banali: scadenze dimenticate, 
 
 ![Figura 27.4 - Regola 70 / 20 / 10](../assets/chapter-27/04-regola-70-20-10.png)
 
+*Figura 27.4 - Regola 70 / 20 / 10*
+
 ## Calendario unico, non calendari separati
 
 Il candidato disperso apre un calendario per ogni concorso.
@@ -169,9 +177,11 @@ La settimana deve contenere quattro tipi di blocchi:
 | Output | Prestazione da allenare | quiz, risposta sintetica, caso, orale |
 | Controllo | Correzione e decisioni | diario errori, avvisi, tagli, recupero |
 
-Questa struttura impedisce al concorso satellite di occupare spazio nascosto. Ogni blocco deve avere un'etichetta: comune, specifico, output o controllo. Se non sai che tipo di blocco stai facendo, probabilmente stai solo riempiendo tempo.
+Questa struttura impedisce al concorso satellite di occupare spazio nascosto. Ogni blocco deve avere un’etichetta: comune, specifico, output o controllo. Se non sai che tipo di blocco stai facendo, probabilmente stai solo riempiendo tempo.
 
 ![Figura 27.5 - Calendario unico a blocchi](../assets/chapter-27/05-calendario-unico-blocchi.png)
+
+*Figura 27.5 - Calendario unico a blocchi*
 
 ## Come trattare le materie comuni
 
@@ -200,11 +210,11 @@ Prima di aprirlo, rispondi a cinque domande:
 4. Si riusa anche in altri concorsi del portafoglio?
 5. Quale contenuto taglio per fargli spazio?
 
-La quinta domanda è decisiva. Ogni modulo nuovo senza taglio compensativo crea debito di studio. All'inizio sembra solo un'aggiunta. Dopo due settimane diventa ritardo.
+La quinta domanda è decisiva. Ogni modulo nuovo senza taglio compensativo crea debito di studio. All’inizio sembra solo un’aggiunta. Dopo due settimane diventa ritardo.
 
 ## Il Diario degli errori nei concorsi paralleli
 
-Con più concorsi attivi, il Diario degli errori deve diventare più preciso. Non basta scrivere "errore in amministrativo" o "quiz sbagliato".
+Con più concorsi attivi, il Diario degli errori deve diventare più preciso. Non basta scrivere “errore in amministrativo” o “quiz sbagliato”.
 
 Usa tre etichette:
 
@@ -232,6 +242,8 @@ Il Metodo BANDO non premia chi tenta tutto. Premia chi trasforma tempo limitato 
 
 ![Figura 27.6 - Diario e semaforo decisionale](../assets/chapter-27/06-diario-semaforo-decisionale.png)
 
+*Figura 27.6 - Diario e semaforo decisionale*
+
 ## Scheda workbook: nuovo bando entra o resta fuori
 
 Ogni nuovo bando deve passare da questa scheda prima di entrare nel calendario attivo. Se non sai cosa tagliare, il bando resta fuori per ora.
@@ -251,7 +263,7 @@ Ogni nuovo bando deve passare da questa scheda prima di entrare nel calendario a
 
 Regola operativa:
 
-- **Entra** solo se almeno sette controlli sono "Si" e il taglio compensativo è scritto.
+- **Entra** solo se almeno sette controlli sono “Si” e il taglio compensativo è scritto.
 - **Resta fuori** se mancano scadenze chiare, prove allenabili o spazio nel calendario unico.
 - **Solo monitoraggio** se il bando è interessante ma va parcheggiato: salvi Decoder minimo, scadenze e avvisi senza aprire moduli pesanti.
 
@@ -294,6 +306,8 @@ La scelta non elimina il terzo concorso. Lo rende innocuo. Marta salva bando, re
 
 ![Figura 27.7 - Caso Marta: scegliere senza disperdersi](../assets/chapter-27/07-caso-marta-portafoglio.png)
 
+*Figura 27.7 - Caso Marta: scegliere senza disperdersi*
+
 ## Da sapere in 5 righe
 
 1. I concorsi paralleli vanno gestiti come portafoglio, non come calendari separati.
@@ -312,17 +326,17 @@ La scelta non elimina il terzo concorso. Lo rende innocuo. Marta salva bando, re
 
 **Domanda:** Se due concorsi hanno alcune materie uguali, conviene prepararli sempre insieme?
 
-**Risposta:** no. La sovrapposizione di alcune materie non basta. Bisogna verificare anche scadenze, tipo di prova, peso delle materie nuove, coerenza del profilo, tempo disponibile e output richiesti. Due concorsi con amministrativo in comune ma prove, profili e moduli molto diversi possono diventare due preparazioni concorrenti. In quel caso uno va scelto come guida e l'altro va ridotto o parcheggiato.
+**Risposta:** no. La sovrapposizione di alcune materie non basta. Bisogna verificare anche scadenze, tipo di prova, peso delle materie nuove, coerenza del profilo, tempo disponibile e output richiesti. Due concorsi con amministrativo in comune ma prove, profili e moduli molto diversi possono diventare due preparazioni concorrenti. In quel caso uno va scelto come guida e l’altro va ridotto o parcheggiato.
 
 ## Errore tipico
 
-L'errore tipico è confondere opportunità con obbligo.
+L’errore tipico è confondere opportunità con obbligo.
 
-Ogni bando sembra un'occasione. Ma un'occasione non sostenibile può rovinare una preparazione buona. Se aggiungi un concorso senza togliere qualcosa, non hai ampliato la strategia: hai aumentato il debito.
+Ogni bando sembra un’occasione. Ma un’occasione non sostenibile può rovinare una preparazione buona. Se aggiungi un concorso senza togliere qualcosa, non hai ampliato la strategia: hai aumentato il debito.
 
-La domanda corretta non è: "Posso tentarlo?".
+La domanda corretta non è: “Posso tentarlo?”.
 
-La domanda corretta è: "Che cosa devo togliere o riusare per tentarlo senza danneggiare il concorso guida?".
+La domanda corretta è: “Che cosa devo togliere o riusare per tentarlo senza danneggiare il concorso guida?”.
 
 ## Mini-esercizio
 
@@ -338,7 +352,7 @@ Scegli due o tre bandi reali o simulati e compila questa griglia.
 | Quale modulo nuovo entrerebbe nel piano? | |
 | Quale contenuto tagli per fargli spazio? | |
 | Quale output alleni questa settimana? | |
-| Quale controllo fai venerdi o domenica? | |
+| Quale controllo fai venerdì o domenica? | |
 
 Se non riesci a indicare un taglio, il nuovo concorso non è ancora sostenibile.
 
@@ -374,9 +388,3 @@ Se tre voci restano vuote, il concorso non deve ancora entrare nel piano attivo.
 - [[topics/moduli-integrativi]]
 - [[topics/diario-errori]]
 - [[topics/capitale-studio-riutilizzabile]]
-
-## Note di review
-
-- La struttura madre originaria non prevedeva il Capitolo 27. Questo capitolo è un'estensione editoriale: in revisione decidere se mantenerlo numerato, trasformarlo in epilogo operativo o integrarlo con Capitolo 26 e Appendice D.
-- Il capitolo non introduce nuove fonti normative: usa conoscenza metodologica e source notes consolidate. Se in una versione futura si aggiungono esempi basati su bandi reali, verificare date, requisiti, prove e avvisi ufficiali.
-- Schede workbook "Nuovo bando entra o resta fuori" e revisione settimanale portafoglio inserite nel capitolo; in impaginazione valutare estrazione come PDF compilabile autonomo.

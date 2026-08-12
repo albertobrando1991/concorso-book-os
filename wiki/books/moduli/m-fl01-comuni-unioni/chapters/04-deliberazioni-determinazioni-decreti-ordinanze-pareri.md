@@ -11,7 +11,7 @@ book_refs: ["m-fl01-comuni-unioni", "vol-02-enti-locali-polizia-locale", "il-met
 confidence: 0.86
 updated_at: 2026-07-31T18:00:00+02:00
 created_at: 2026-07-17T16:30:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "module-code-m-fl01", "professional-draft", "atti-comunali"]
 book_id: m-fl01-comuni-unioni
@@ -23,43 +23,7 @@ module_family: funzioni-locali
 companion_to: il-metodo-bando
 last_compiled_from: ["wiki/books/moduli/m-fl01-comuni-unioni/index.md", "wiki/books/moduli/m-fl01-comuni-unioni/planning/02-matrice-copertura-didattica.md", "wiki/books/moduli/m-fl01-comuni-unioni/chapters/01-tuel-operativo-autonomia-organi-funzioni-comune.md", "wiki/books/moduli/m-fl01-comuni-unioni/chapters/02-statuto-regolamenti-autonomia-normativa-locale.md", "wiki/books/moduli/m-fl01-comuni-unioni/chapters/03-organizzazione-comunale-uffici-servizi-gestioni-associate.md", "wiki/sources/d-lgs-18-agosto-2000-n-267-enti-locali.md", "wiki/sources/legge-7-agosto-1990-n-241-procedimento-amministrativo-e-accesso-ai-documenti-amministrativi-testo-vigente-normattiva.md", "wiki/sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego.md", "wiki/sources/ordinamento-finanziario-enti-locali-tuel-dup-peg-rendiconto-revisione.md", "wiki/sources/vol-02-dossier-redazionale-enti-locali-polizia-locale.md", "wiki/sources/bandi-inpa-vol-02-campione-2026.md", "wiki/topics/enti-locali.md", "wiki/entities/comune.md"]
 ---
-
-# Deliberazioni, determinazioni, decreti, ordinanze e pareri
-
-## Specifica struttura madre
-
-### Obiettivo
-Allenare il candidato a riconoscere l'atto locale corretto e la competenza che lo sostiene.
-
-### Nuclei
-- Deliberazione consiliare e deliberazione di Giunta.
-- Determinazione dirigenziale o del responsabile di servizio.
-- Decreto sindacale e ordinanza.
-- Parere di regolarità tecnica, parere contabile e visto di copertura quando rilevanti.
-- Catena istruttoria: proposta, pareri, decisione, pubblicazione, esecuzione.
-- Errore di competenza come vizio tipico nelle prove teorico-pratiche.
-
-### Output operativo
-Laboratorio su atto locale essenziale, tabella atto-organo-funzione, mini-caso su competenza errata, checklist per scegliere l'atto.
-
-### Riferimenti consolidati
-- [[sources/d-lgs-18-agosto-2000-n-267-enti-locali]]
-- [[sources/legge-7-agosto-1990-n-241-procedimento-amministrativo-e-accesso-ai-documenti-amministrativi-testo-vigente-normattiva]]
-- [[sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego]]
-- [[sources/ordinamento-finanziario-enti-locali-tuel-dup-peg-rendiconto-revisione]]
-- [[topics/enti-locali]]
-- [[entities/comune]]
-
-## Scheda di lavoro
-Questo capitolo è il ponte tra ordinamento e prova teorico-pratica. Non deve diventare un formulario completo: deve insegnare a scegliere e motivare l'atto corretto.
-
-La domanda guida è:
-
-> la traccia richiede una scelta politica, un atto collegiale, un atto gestionale, un atto del Sindaco, un provvedimento urgente o un parere tecnico-contabile?
-
-## Testo editoriale
-
-### Apertura editoriale
+## Apertura editoriale
 Nei concorsi comunali l'errore sull'atto pesa molto. Un candidato può conoscere bene gli organi, i regolamenti e gli uffici, ma perdere solidità se chiama "delibera" ciò che è una determinazione, se attribuisce alla Giunta un atto gestionale, se usa "ordinanza" come sinonimo generico di provvedimento o se dimentica pareri e visto quando l'atto incide su spesa e bilancio.
 
 Questo capitolo costruisce una grammatica pratica degli atti locali. Non richiede di redigere modelli completi di deliberazione, determinazione o ordinanza; richiede di riconoscere la forma della decisione, il soggetto competente, i passaggi istruttori necessari e l'errore da evitare.
@@ -68,7 +32,7 @@ La prova può presentarsi in molti modi. Nel quiz chiede chi adotta un determina
 
 Una buona risposta non si limita a elencare gli atti: li collega a competenza, funzione e procedimento.
 
-### Obiettivo del capitolo
+## Obiettivo del capitolo
 Al termine del capitolo devi saper fare otto operazioni:
 
 1. distinguere deliberazione, determinazione, decreto, ordinanza, parere e visto;
@@ -82,7 +46,7 @@ Al termine del capitolo devi saper fare otto operazioni:
 
 L'obiettivo non è sostituire un manuale di redazione atti. È dare al candidato la bussola per scegliere l'atto corretto nelle prove comunali.
 
-### Come usare questo capitolo
+## Come usare questo capitolo
 Questo capitolo va letto dopo quelli su TUEL, fonti interne e organizzazione comunale. Prima devi sapere chi sono gli organi e come funziona l'ufficio; solo dopo puoi scegliere l'atto.
 
 La sequenza corretta è:
@@ -96,7 +60,7 @@ La sequenza corretta è:
 
 Se salti queste domande, rischi di usare la forma sbagliata. Nei casi pratici non basta scrivere un atto formalmente ordinato: bisogna dimostrare che la competenza è corretta.
 
-### Mappa BANDO del capitolo
+## Mappa BANDO del capitolo
 
 | Fase | Domanda operativa | Output atteso |
 | --- | --- | --- |
@@ -108,7 +72,7 @@ Se salti queste domande, rischi di usare la forma sbagliata. Nei casi pratici no
 
 La mappa fissa il criterio del capitolo: l'atto si sceglie in base alla funzione, non per abitudine.
 
-### Atto locale e competenza
+## Atto locale e competenza
 Ogni atto amministrativo deve essere collegato a una competenza. Nei concorsi comunali questa regola è decisiva: se sbagli il soggetto competente, anche una risposta ben scritta diventa fragile.
 
 La scelta dell'atto dipende da quattro domande:
@@ -131,7 +95,7 @@ La tabella di base è:
 
 Questa tabella è il punto di partenza. La fonte concreta va sempre verificata.
 
-### Deliberazione consiliare
+## Deliberazione consiliare
 La deliberazione consiliare è l'atto collegiale del Consiglio comunale. Va collegata agli atti fondamentali, all'indirizzo politico-amministrativo e al controllo.
 
 Il Consiglio non gestisce il singolo fascicolo. Non approva ogni spesa minuta. Non decide ogni domanda del cittadino. Il Consiglio interviene quando l'ordinamento gli attribuisce una scelta di livello generale o fondamentale: statuto, regolamenti, programmi, bilanci, convenzioni, forme associative e altri atti riservati secondo il TUEL e le fonti dell'ente.
@@ -148,7 +112,7 @@ Esempio: l'approvazione di un regolamento comunale va collegata al Consiglio. Do
 
 L'errore da evitare è trasformare il Consiglio in un ufficio gestionale.
 
-### Deliberazione di Giunta
+## Deliberazione di Giunta
 La deliberazione di Giunta è l'atto collegiale della Giunta comunale. La Giunta collabora con il Sindaco nel governo dell'ente e adotta atti che rientrano nella sua competenza, senza invadere gli atti riservati al Consiglio, al Sindaco o alla gestione.
 
 La Giunta può intervenire su indirizzi attuativi, programmi operativi, proposte, schemi, atti di governo e scelte collegiali non riservate ad altri soggetti. Tuttavia, non bisogna usarla come risposta residuale automatica.
@@ -163,7 +127,7 @@ Una buona risposta può dire:
 
 > La Giunta opera con deliberazioni collegiali negli ambiti di governo dell'ente non riservati al Consiglio, al Sindaco o agli organi gestionali. La gestione concreta resta in capo ai dirigenti o responsabili di servizio, secondo la disciplina applicabile.
 
-### Determinazione
+## Determinazione
 La determinazione è l'atto tipico della gestione. Nei Comuni con dirigenza è collegata al dirigente; nei Comuni privi di dirigenza è spesso collegata al responsabile di servizio, secondo l'organizzazione dell'ente.
 
 La determinazione serve quando bisogna attuare un indirizzo o una regola generale mediante un atto gestionale. È frequente in materia di acquisti, affidamenti, impegni di spesa, liquidazioni, avvisi, graduatorie, concessioni, autorizzazioni, atti di personale, incarichi gestionali, approvazione di esiti istruttori e altri provvedimenti amministrativi.
@@ -185,7 +149,7 @@ Nei casi pratici, la determinazione è spesso l'atto giusto quando la traccia di
 
 L'errore è dire "serve una delibera" per ogni scelta dell'ente.
 
-### Decreto sindacale
+## Decreto sindacale
 Il decreto sindacale è un atto del Sindaco. Non va confuso con l'ordinanza e non va usato come formula generica.
 
 Nella pratica comunale il decreto può riguardare nomine, designazioni, attribuzioni, incarichi, individuazione di responsabili, deleghe o altri atti sindacali previsti dalla legge, dallo statuto o dai regolamenti.
@@ -198,7 +162,7 @@ Se sì, il decreto può essere la forma da considerare. Se invece il Sindaco imp
 
 Esempio: la nomina dei responsabili degli uffici e dei servizi o l'attribuzione di incarichi dirigenziali va collegata alla funzione sindacale prevista dall'ordinamento locale e dai regolamenti dell'ente. Il singolo atto gestionale successivo, però, resta del responsabile competente.
 
-### Ordinanza
+## Ordinanza
 L'ordinanza è un atto che contiene un ordine, una prescrizione o una misura adottata nell'esercizio di un potere previsto dalla legge. Nel contesto comunale è spesso collegata al Sindaco, ma non deve essere usata come sinonimo di qualunque provvedimento.
 
 Bisogna distinguere almeno tre piani. L'ordinanza ordinaria è prevista da discipline specifiche e può riguardare materie attribuite all'autorità competente dalla legge o dai regolamenti.
@@ -215,7 +179,7 @@ Formula utile:
 
 > L'ordinanza presuppone uno specifico potere ordinatorio attribuito dall'ordinamento. Nei casi contingibili e urgenti occorre motivare la necessità dell'intervento, la situazione concreta, la proporzionalità della misura e il rispetto dei limiti di legge.
 
-### Parere di regolarità tecnica
+## Parere di regolarità tecnica
 Il parere di regolarità tecnica è un presidio di correttezza dell'azione amministrativa. Nei casi in cui è richiesto, serve a verificare la coerenza tecnica della proposta rispetto alla competenza del servizio, alla normativa applicabile, all'istruttoria e alla regolarità dell'azione.
 
 Non è un parere politico. Non sostituisce la decisione dell'organo. Non è una formula ornamentale.
@@ -228,7 +192,7 @@ Esempio: una proposta di deliberazione per approvare un regolamento, una convenz
 
 In prova è importante scrivere "parere del responsabile del servizio interessato" e non genericamente "parere dell'ufficio".
 
-### Parere contabile e visto di copertura
+## Parere contabile e visto di copertura
 Quando l'atto ha riflessi economico-finanziari o patrimoniali, entra in gioco il responsabile finanziario. Il capitolo di contabilità locale svilupperà in modo più ampio bilancio, impegni, visti, controlli e responsabilità; qui serve una grammatica minima.
 
 Il parere di regolarità contabile accompagna le proposte di deliberazione quando l'atto ha rilevanza economico-finanziaria o patrimoniale secondo la disciplina applicabile.
@@ -245,7 +209,7 @@ La distinzione pratica è:
 
 L'errore da evitare è trattare questi presidi come passaggi burocratici irrilevanti. Nei casi pratici possono essere il punto che fa capire se il candidato sa collegare atto e bilancio.
 
-### Catena istruttoria dell'atto locale
+## Catena istruttoria dell'atto locale
 Un atto locale non nasce solo dalla firma finale. Prima c'è una catena.
 
 La catena tipica può essere rappresentata così:
@@ -262,7 +226,7 @@ La catena tipica può essere rappresentata così:
 
 Questa catena è più importante di un modello formale. Nelle prove teorico-pratiche il commissario vuole vedere se sai ricostruire il percorso corretto.
 
-### Pubblicazione, esecuzione e comunicazione
+## Pubblicazione, esecuzione e comunicazione
 Dopo l'adozione dell'atto, non sempre il lavoro è finito. Molti atti richiedono pubblicazione, comunicazione, trasmissione, registrazione, controllo o esecuzione.
 
 Nel contesto comunale ricorrono spesso:
@@ -277,7 +241,7 @@ Nel contesto comunale ricorrono spesso:
 
 Il capitolo successivo tratterà procedimento locale, protocollo, albo, URP e accesso. Qui basta fissare una regola: dopo la firma, l'atto va collocato nel flusso documentale dell'ente.
 
-### Come scegliere l'atto corretto
+## Come scegliere l'atto corretto
 Per scegliere l'atto, usa questa sequenza:
 
 1. individua la materia;
@@ -300,7 +264,7 @@ Applicazione rapida:
 
 La tabella non esaurisce i casi. Serve a costruire l'automatismo giusto: prima funzione, poi atto.
 
-### Come rispondere all'orale
+## Come rispondere all'orale
 Una risposta orale sugli atti del Comune può seguire cinque passaggi.
 
 Primo: dire che gli atti locali vanno studiati insieme alla competenza.
@@ -317,7 +281,7 @@ Una risposta efficace può essere:
 
 > Gli atti comunali devono essere letti in rapporto alla competenza. Il Consiglio e la Giunta operano con deliberazioni nei rispettivi ambiti; i dirigenti o responsabili adottano determinazioni e provvedimenti di gestione; il Sindaco può adottare decreti e ordinanze quando la legge, lo statuto o i regolamenti gli attribuiscono la funzione. Le proposte e gli atti con rilevanza tecnica o contabile richiedono i presidi di regolarità previsti dall'ordinamento. In prova, quindi, occorre individuare funzione, soggetto competente, forma dell'atto, pareri e fase successiva.
 
-### Caso guidato
+## Caso guidato
 Il Comune vuole concedere contributi ad associazioni locali per iniziative culturali. Il Consiglio ha approvato il regolamento generale sui contributi. La Giunta ha definito un indirizzo per sostenere alcune linee di intervento nel bilancio dell'anno. L'ufficio cultura deve pubblicare l'avviso, ricevere le domande, formare la graduatoria e concedere i contributi. Sono previste risorse di bilancio.
 
 La traccia chiede: quali atti servono?
@@ -338,24 +302,24 @@ La risposta corretta non dice semplicemente "la Giunta concede i contributi". Di
 
 > il Consiglio approva il regolamento generale, la Giunta può adottare indirizzi nei limiti della sua competenza, il responsabile del servizio gestisce avviso, istruttoria, graduatoria e concessione, con i presidi contabili e di pubblicazione richiesti.
 
-### Da sapere in 5 righe
+## Da sapere in 5 righe
 1. L'atto corretto dipende dalla competenza: prima si individua chi decide, poi la forma.
 2. La deliberazione è atto collegiale di Consiglio o Giunta; non va usata per ogni decisione comunale.
 3. La determinazione è l'atto tipico della gestione del dirigente o responsabile di servizio.
 4. Decreto e ordinanza del Sindaco non sono sinonimi: il decreto riguarda funzioni sindacali tipiche, l'ordinanza presuppone un potere ordinatorio.
 5. Parere tecnico, parere contabile e visto di copertura collegano l'atto alla regolarità istruttoria e alla sostenibilità finanziaria.
 
-### Domanda da commissario
+## Domanda da commissario
 Qual è la differenza tra deliberazione e determinazione?
 
 La deliberazione è un atto collegiale adottato da Consiglio o Giunta nei rispettivi ambiti di competenza. È collegata a indirizzo, governo dell'ente, atti fondamentali o decisioni collegiali. La determinazione è invece un atto gestionale adottato dal dirigente o dal responsabile di servizio: attua indirizzi, conclude procedimenti, impegna risorse quando ricorrono i presupposti, approva avvisi, graduatorie, affidamenti o provvedimenti di competenza. La distinzione riflette la separazione tra indirizzo politico-amministrativo e gestione.
 
-### Domanda-trappola
+## Domanda-trappola
 In un Comune, quando bisogna adottare una decisione importante, serve sempre una delibera?
 
 No. L'importanza dell'atto non basta per scegliere la deliberazione. Bisogna verificare la competenza. Una decisione può essere importante ma gestionale, e quindi spettare al dirigente o responsabile con determinazione. La deliberazione serve quando la decisione rientra nella competenza del Consiglio o della Giunta. La domanda corretta non è "è importante?", ma "quale funzione svolge e quale soggetto è competente?".
 
-### Errore tipico
+## Errore tipico
 L'errore più frequente è usare la delibera come risposta universale.
 
 Esempio di risposta debole:
@@ -368,7 +332,7 @@ Risposta più solida:
 
 > Occorre distinguere il regolamento o l'indirizzo generale dagli atti applicativi. L'atto collegiale definisce la cornice; il responsabile del servizio adotta gli atti gestionali, acquisendo i presidi tecnici e contabili necessari.
 
-### Mini-esercizio
+## Mini-esercizio
 Leggi le situazioni e individua l'atto più probabile.
 
 | Situazione | Atto da indicare | Soggetto da verificare | Presidio da controllare |
@@ -391,7 +355,7 @@ Soluzione attesa:
 | Impegno di spesa per acquistare materiale d'ufficio | Determinazione. | Responsabile competente. | Visto/copertura e regole di contabilità. |
 | Proposta di deliberazione con riflessi finanziari | Deliberazione con pareri. | Organo collegiale competente. | Parere tecnico e parere contabile. |
 
-### Diario errori del capitolo
+## Diario errori del capitolo
 
 | Errore | Effetto in prova | Correzione operativa |
 | --- | --- | --- |
@@ -402,7 +366,7 @@ Soluzione attesa:
 | Ignorare la pubblicazione | Catena dell'atto incompleta. | Inserire albo, comunicazione o pubblicazione quando richiesti. |
 | Scrivere un modello senza competenza | Atto formalmente ordinato ma giuridicamente debole. | Prima funzione e competenza, poi forma. |
 
-### Checklist operativa finale
+## Checklist operativa finale
 - so distinguere deliberazione consiliare e deliberazione di Giunta?
 - so spiegare quando serve una determinazione?
 - so collegare decreto sindacale e ordinanza a funzioni diverse?
@@ -412,18 +376,12 @@ Soluzione attesa:
 - so evitare la frase "serve una delibera" senza verificare la competenza?
 - so trasformare un caso di ufficio in tabella atto-organo-funzione?
 
-### Riferimenti consolidati
-- [[sources/d-lgs-18-agosto-2000-n-267-enti-locali|D.Lgs. 18 agosto 2000, n. 267 - Testo unico enti locali]]
-- [[sources/legge-7-agosto-1990-n-241-procedimento-amministrativo-e-accesso-ai-documenti-amministrativi-testo-vigente-normattiva|Legge 7 agosto 1990, n. 241 - procedimento amministrativo]]
-- [[sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego|D.Lgs. 30 marzo 2001, n. 165 - pubblico impiego]]
-- [[sources/ordinamento-finanziario-enti-locali-tuel-dup-peg-rendiconto-revisione|Ordinamento finanziario degli enti locali]]
-- [[sources/vol-02-dossier-redazionale-enti-locali-polizia-locale|VOL-02 - dossier redazionale Enti locali e Polizia locale]]
-- [[sources/bandi-inpa-vol-02-campione-2026|Campione bandi inPA 2026 per VOL-02]]
-- [[entities/comune|Comune]]
+## Riferimenti normativi e professionali essenziali
+- D.Lgs. 18 agosto 2000, n. 267 - Testo unico enti locali
+- Legge 7 agosto 1990, n. 241 - procedimento amministrativo
+- D.Lgs. 30 marzo 2001, n. 165 - pubblico impiego
+- Ordinamento finanziario degli enti locali
+- VOL-02 - dossier redazionale Enti locali e Polizia locale
+- Campione bandi inPA 2026 per VOL-02
+- Comune
 - [[books/il-metodo-bando/index|VOL-01 — Il Metodo BANDO]] per teoria generale del provvedimento amministrativo, motivazione, procedimento, accesso, trasparenza e redazione atti base.
-
-### Note di review
-- Prima della pubblicazione verificare sul testo vigente Normattiva le citazioni puntuali del TUEL su pareri, visto, competenze degli organi, funzioni dirigenziali, decreti e ordinanze.
-- Non inserire modelli completi di deliberazione, determinazione o ordinanza senza una revisione redazionale dedicata e senza adattamento al regolamento dell'ente.
-- Per atti con spesa, coordinare il capitolo con i capitoli M-FL01 su programmazione, bilancio, PEG, gestione finanziaria e controlli.
-- Per ordinanze sindacali in materia di sicurezza urbana, igiene, ambiente, viabilità o polizia locale, rinviare ai capitoli M-FL04 e verificare normativa statale, regionale e regolamenti locali.

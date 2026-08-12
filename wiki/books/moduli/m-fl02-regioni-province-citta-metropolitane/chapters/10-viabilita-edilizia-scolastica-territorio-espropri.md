@@ -9,15 +9,17 @@ entities: ["Provincia", "Citta metropolitana", "Pubblica amministrazione"]
 source_refs: ["sources/legge-56-2014-province-citta-metropolitane.md", "sources/d-p-r-8-giugno-2001-n-327-espropriazione-pubblica-utilita.md", "sources/d-lgs-31-marzo-2023-n-36-contratti-pubblici.md", "sources/verifica-ufficiale-m-fl02-10-2026-07-22.md", "sources/bandi-inpa-vol-02-campione-2026.md"]
 book_refs: ["m-fl02-regioni-province-citta-metropolitane", "vol-02-enti-locali-polizia-locale", "il-metodo-bando"]
 confidence: 0.84
-updated_at: 2026-07-22T21:40:00+02:00
+updated_at: 2026-08-07
 created_at: 2026-07-17T17:30:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "module-code-m-fl02", "professional-draft", "review-required", "area-vasta"]
 book_id: m-fl02-regioni-province-citta-metropolitane
 outline_section: 10
 volume_chapter: 27
-draft_stage: professional-draft
+draft_stage: professional-draft-complete
+format_version: 2
+dati_operativi: []
 module_code: M-FL02
 module_family: funzioni-locali
 companion_to: il-metodo-bando
@@ -26,32 +28,7 @@ last_compiled_from: ["wiki/books/moduli/m-fl02-regioni-province-citta-metropolit
 
 # Viabilità, edilizia scolastica, territorio ed espropri
 
-## Specifica struttura madre
-
-### Obiettivo
-Portare le funzioni tecniche di area vasta dentro una lettura amministrativa: programmazione, procedimento, atti, contratti, esecuzione, espropri, controlli e responsabilità.
-
-### Nuclei
-- Viabilità provinciale e metropolitana come funzione territoriale.
-- Edilizia scolastica superiore: programmazione, manutenzione, sicurezza, lavori.
-- Territorio, pianificazione e coordinamento di area vasta.
-- Espropriazione per pubblica utilità: procedimento, garanzie e indennità in sintesi.
-- Interfaccia con contratti pubblici, bilancio, sicurezza e controlli.
-
-### Output operativo
-Caso tecnico-amministrativo; tabella funzione-procedimento-atto; check-list esproprio/lavori.
-
-### Riferimenti consolidati
-- [[sources/legge-56-2014-province-citta-metropolitane]]
-- [[sources/d-p-r-8-giugno-2001-n-327-espropriazione-pubblica-utilita]]
-- [[sources/d-lgs-31-marzo-2023-n-36-contratti-pubblici]]
-- [[entities/provincia]]
-- [[entities/citta-metropolitana]]
-
-## Scheda di lavoro
-Il capitolo non deve diventare un manuale tecnico di ingegneria, edilizia o urbanistica. Il target è il candidato amministrativo o tecnico-amministrativo che deve capire il flusso: fabbisogno, programma, progetto, autorizzazioni, affidamento, esecuzione, controllo, eventuale esproprio.
-
-## Testo editoriale
+## Guida al capitolo
 
 ### Apertura editoriale
 
@@ -72,7 +49,36 @@ Alla fine del capitolo devi saper:
 5. descrivere il ciclo del contratto pubblico senza confondere affidamento ed esecuzione;
 6. individuare quando il candidato deve fermarsi e rinviare al profilo tecnico o a un approfondimento specialistico.
 
-### Funzioni tecniche di area vasta
+## N-FL02-10-01 · Funzioni tecniche di area vasta e metodo del fascicolo
+
+### Spiegazione teorica
+
+#### Funzioni tecniche di area vasta
+
+Una funzione tecnica diventa amministrativamente leggibile quando il fascicolo collega bisogno, bene, competenza, programmazione, risorse, progetto, autorizzazioni, contratto, esecuzione e controllo. La sequenza non è sempre lineare: un vincolo può imporre una revisione progettuale; un'indagine può modificare il fabbisogno; una criticità di sicurezza può cambiare le priorità. Ogni ritorno deve però essere motivato e documentato.
+
+Il primo controllo riguarda titolarità e responsabilità. Proprietario del bene, ente titolare della funzione, soggetto finanziatore, stazione appaltante e utilizzatore possono non coincidere. La distinzione evita di attribuire automaticamente a chi finanzia il potere di progettare o a chi utilizza l'immobile l'obbligo di eseguire ogni intervento. Fonte e accordi applicabili distribuiscono compiti e rischi.
+
+La programmazione seleziona gli interventi sulla base di conoscenza del patrimonio, sicurezza, urgenza, benefici attesi e risorse. Non è un elenco di opere desiderate. Deve collegare priorità e fattibilità, considerare costi di gestione e manutenzione futura e rendere verificabile perché un intervento precede un altro.
+
+| Nodo del fascicolo | Domanda | Evidenza |
+|---|---|---|
+| Competenza | chi è titolare della funzione e del bene? | legge, inventario, convenzione |
+| Fabbisogno | quale problema va risolto? | ispezioni, segnalazioni, dati |
+| Programmazione | perché l'intervento è prioritario? | programma, bilancio, criteri |
+| Progetto | quale soluzione è fattibile? | livelli progettuali e verifiche |
+| Attuazione | chi affida ed esegue? | decisione, contratto, verbali |
+| Controllo | che cosa prova il risultato? | collaudo/verifica, monitoraggio |
+
+Nella prova, questa griglia permette di risolvere casi anche senza dettagli ingegneristici. Il candidato non calcola strutture o indennità: identifica la decisione amministrativa, i soggetti, le fonti e le evidenze che rendono controllabile il ciclo.
+
+La gestione del rischio attraversa tutte le fasi. Un rischio tecnico può produrre effetti finanziari e temporali; un ritardo autorizzativo può rendere inattendibile il cronoprogramma; una manutenzione differita può aumentare costi e pericolo. Il responsabile non elimina ogni rischio, ma lo identifica, assegna misure, controlla gli scostamenti e propone decisioni motivate.
+
+Anche la chiusura dell'intervento appartiene al fascicolo: verifica di conformità o collaudo secondo il caso, presa in consegna, aggiornamento patrimoniale, pagamento, rendicontazione e piano di manutenzione. Un'opera ultimata fisicamente ma priva di documenti conclusivi non è amministrativamente chiusa. Questa distinzione è spesso decisiva nei casi pratici.
+
+La continuità documentale consente anche il subentro tra uffici e responsabili. Decisioni affidate alla memoria personale rendono fragile il controllo; verbali, cronologie e motivazioni permettono invece di ricostruire lo stato dell'intervento e le azioni ancora dovute.
+
+Il fascicolo è quindi uno strumento di governo, non un deposito finale.
 
 La L. 56/2014 inserisce tra le funzioni fondamentali delle Province la pianificazione territoriale di coordinamento, la tutela e valorizzazione dell'ambiente per gli aspetti di competenza, la pianificazione dei trasporti, la gestione delle strade provinciali, la programmazione della rete scolastica e la gestione dell'edilizia scolastica. Sono funzioni diverse, ma hanno un tratto comune: collegano più Comuni e richiedono una visione che il singolo Comune non può avere da solo.
 
@@ -85,7 +91,19 @@ La Città metropolitana esercita anche le funzioni provinciali e aggiunge una pr
 | Pianificazione | Il problema riguarda un solo Comune o un sistema territoriale più ampio? | Verificare piano, coordinamento con Regione e strumenti dell'ente. |
 | Esproprio | Serve davvero acquisire o imporre un diritto su un bene privato? | Attivare il procedimento garantito previsto dal testo unico. |
 
+## N-FL02-10-02 · Viabilità ed edilizia scolastica
+
 ### Viabilità: una strada e un fascicolo amministrativo
+
+La gestione della viabilità comprende conoscenza della rete, classificazione e titolarità, programmazione, manutenzione, regolazione dell'uso e gestione delle emergenze secondo le competenze applicabili. Dire «la strada è provinciale» è solo l'inizio: occorre verificare tratto interessato, proprietà, funzione, interferenze, autorizzazioni e raccordo con altri gestori.
+
+La manutenzione può essere ordinaria, programmata o collegata a interventi più ampi. La distinzione incide su programmazione, progetto, affidamento, tempi e controlli. Una segnalazione di pericolo richiede prima la messa in sicurezza compatibile con i poteri disponibili, poi la diagnosi della causa e la scelta dell'intervento stabile. L'urgenza non cancella motivazione, competenza e tracciabilità.
+
+Per l'edilizia scolastica occorre separare gestione dell'edificio e organizzazione del servizio scolastico. L'ente competente sul patrimonio programma manutenzioni e lavori, presidia sicurezza e contratti; istituzione scolastica e amministrazione scolastica concorrono con segnalazioni, uso degli spazi e continuità del servizio secondo i rispettivi ruoli. Il finanziatore può aggiungere vincoli e rendicontazione senza assorbire la titolarità dell'immobile.
+
+Un intervento scolastico deve considerare accessibilità, continuità delle attività, interferenze con utenti, autorizzazioni e futura manutenzione. Il fascicolo collega verifica tecnica, priorità, copertura, progetto, affidamento, esecuzione e restituzione in esercizio. L'errore tipico è trattare il lavoro come episodio isolato, dimenticando gestione del bene e servizio pubblico che vi si svolge.
+
+Nella risposta concorsuale è utile confrontare due casi: buca improvvisa su una strada e adeguamento programmato di una scuola. Nel primo prevalgono sicurezza immediata e successiva stabilizzazione; nel secondo programmazione, compatibilità con calendario, progetto e coordinamento degli utenti. Entrambi richiedono fonte, responsabile, risorse e controllo finale.
 
 Una strada provinciale non è solo asfalto. Per l'amministrazione è una rete da programmare, mantenere, controllare e rendere sicura. Un intervento può nascere da una segnalazione, da un sopralluogo, da un piano di manutenzione, da un incidente, da un finanziamento o da una scelta di programmazione territoriale.
 
@@ -119,7 +137,29 @@ Per il candidato amministrativo il nucleo è questo: l'immobile non è un bene d
 
 Non attribuire al profilo amministrativo valutazioni strutturali, certificazioni tecniche o decisioni progettuali. Il suo compito è rendere ordinati gli atti e il fascicolo, coordinare i passaggi amministrativi e segnalare quando serve la competenza tecnica.
 
+## N-FL02-10-03 · Territorio, pianificazione e vincoli
+
 ### Territorio e pianificazione di area vasta
+
+La pianificazione di area vasta coordina interessi e infrastrutture che superano il singolo Comune: reti, mobilità, localizzazioni, tutela del territorio e relazioni tra centri. Non sostituisce automaticamente la pianificazione comunale o regionale. Opera secondo funzioni, contenuti ed effetti definiti dalle fonti e richiede verifica dei rapporti di compatibilità tra strumenti.
+
+Il procedimento pianificatorio combina conoscenza, scelta e partecipazione. Parte dal quadro territoriale e dai vincoli, individua obiettivi e alternative, valuta effetti e raccordi, acquisisce apporti e approva lo strumento con l'organo competente. Cartografia, relazioni e norme tecniche hanno funzioni diverse e devono risultare coerenti. Un indirizzo politico non produce da solo effetti conformativi che la legge collega a uno specifico strumento.
+
+I vincoli non sono tutti uguali. Possono derivare da tutela, pianificazione, infrastrutture o procedimenti finalizzati all'espropriazione; cambiano fonte, durata, effetti e autorità competente. Il candidato deve quindi evitare la formula generica «l'area è vincolata» e precisare natura del vincolo, atto che lo impone e conseguenza sul progetto.
+
+Esempio: una nuova connessione viaria tra più Comuni può richiedere coerenza con la pianificazione di area vasta, adeguamento o verifica degli strumenti locali, valutazioni e autorizzazioni settoriali. La soluzione non consiste nel proclamare la prevalenza di un ente, ma nel ricostruire la sequenza di compatibilità e gli atti di raccordo.
+
+In prova, una tabella fonte-strumento-territorio-effetto-procedimento consente di distinguere coordinamento, conformazione e autorizzazione. Questa distinzione impedisce di usare «piano» come parola indifferenziata e chiarisce quale passaggio deve precedere progetto, affidamento o acquisizione delle aree.
+
+La partecipazione migliora conoscenza e legittimazione del piano, ma non trasferisce ai partecipanti la decisione. Osservazioni e apporti devono essere istruiti e ricevere una risposta coerente con la disciplina del procedimento. La motivazione rende leggibile come interessi ambientali, infrastrutturali, economici e locali sono stati considerati.
+
+Occorre inoltre distinguere pianificazione e singola autorizzazione. La conformità a un piano non sostituisce automaticamente permessi, nulla osta o valutazioni richiesti; viceversa, un'autorizzazione settoriale non sana il contrasto con uno strumento sovraordinato. Il fascicolo deve mappare ciascun atto, autorità competente, presupposto ed effetto.
+
+Nel coordinamento tra enti sono utili conferenze, accordi e intese quando previsti, ma il nome dello strumento non basta. La risposta deve spiegare oggetto del raccordo, soggetti, decisioni che restano autonome ed effetto dell'esito. In questo modo si evita di descrivere la pianificazione come generica concertazione senza responsabilità.
+
+Il monitoraggio del piano confronta trasformazioni reali e obiettivi dichiarati. Indicatori territoriali, stato delle infrastrutture e attuazione dei progetti aiutano a individuare scostamenti e necessità di aggiornamento. Non sostituiscono la decisione, ma obbligano l'amministrazione a motivare perché mantiene o modifica una scelta.
+
+Quando il contesto cambia, l'aggiornamento segue la procedura prevista e conserva il raccordo con gli strumenti collegati. Una modifica informale non può alterare effetti che la legge attribuisce al piano approvato.
 
 La pianificazione di area vasta cerca coerenza tra scelte che travalicano il confine comunale: mobilità, servizi, infrastrutture, ambiente, insediamenti, rete scolastica e collegamenti. Non sostituisce in blocco la pianificazione comunale, né permette all'ente di ignorare la Regione. Costruisce un livello di raccordo.
 
@@ -134,7 +174,27 @@ Quando una traccia parla di nuova strada, polo scolastico, collegamento tra Comu
 
 Questa sequenza evita due errori: trattare il territorio come pura cartografia e trattare la pianificazione come un potere indistinto dell'ente di area vasta.
 
+## N-FL02-10-04 · Espropriazione e garanzie procedimentali
+
 ### Espropriazione: potere pubblico e garanzie del proprietario
+
+L'espropriazione trasferisce coattivamente un diritto per realizzare un'opera o un intervento di pubblica utilità, nei casi e secondo il procedimento previsto dalla legge. L'interesse pubblico è necessario ma non sufficiente: servono attribuzione del potere, vincolo quando richiesto, dichiarazione di pubblica utilità, partecipazione, determinazione dell'indennità e provvedimento conclusivo, coordinati con progettazione e disponibilità finanziaria.
+
+Il D.P.R. 327/2001 organizza una sequenza di atti e garanzie. Il candidato deve comprenderne la funzione senza inventare termini o formule di calcolo. Il vincolo collega l'area alla possibile acquisizione; la dichiarazione di pubblica utilità legittima il percorso verso l'esproprio; la comunicazione e la partecipazione consentono agli interessati di conoscere e interloquire; indennità e decreto presidiano gli effetti patrimoniali e traslativi secondo la disciplina applicabile.
+
+Autorità espropriante, promotore e beneficiario dell'espropriazione possono avere ruoli distinti. Anche qui il nome del progetto non identifica automaticamente il soggetto competente. Il fascicolo deve mostrare chi esercita il potere, per quale opera, sulla base di quali atti e con quali risorse.
+
+La fase espropriativa deve procedere in coerenza con il progetto. Una variante che interessa nuove particelle può richiedere verifiche ulteriori; la disponibilità materiale di un'area non sostituisce il titolo giuridico; un accordo con il proprietario non può essere descritto come decreto di esproprio. Distinguere acquisizione consensuale, occupazione ed espropriazione evita errori gravi.
+
+Nel caso pratico la risposta segue sei domande: esiste il potere; qual è l'opera; quali aree sono interessate; quali atti producono vincolo e pubblica utilità; come partecipano i proprietari; quale provvedimento consente l'acquisizione. Si chiude con indennità, bilancio, registrazioni e controllo della corrispondenza tra progetto e beni acquisiti.
+
+Un errore procedimentale può incidere sull'efficacia degli atti, sui tempi dell'opera e sulla responsabilità dell'amministrazione. Per questo notifiche, osservazioni, stime, accettazioni e pagamenti devono essere conservati in una sequenza verificabile. La prova orale migliora se il candidato collega garanzia del proprietario e buon esito dell'opera: il rispetto del procedimento protegge entrambi.
+
+La disponibilità delle somme deve accompagnare il procedimento, perché l'acquisizione non può essere separata dalla sostenibilità finanziaria dell'intervento.
+
+Anche la corrispondenza catastale e progettuale delle aree va controllata prima dell'atto conclusivo.
+
+Ogni scostamento richiede rettifica motivata e documentata.
 
 L'espropriazione per pubblica utilità è un procedimento autoritativo. La pubblica amministrazione può incidere coattivamente sulla proprietà privata solo nei casi e nei modi previsti dalla legge, perseguendo un interesse pubblico e riconoscendo le garanzie previste per il proprietario.
 
@@ -149,6 +209,8 @@ Non è un acquisto volontario. Non è neppure la mera occupazione materiale di u
 | Decreto di esproprio | È il provvedimento conclusivo previsto dal procedimento. | Sostituirlo con una semplice delibera o con un sopralluogo. |
 
 Il candidato non deve recitare termini o criteri di calcolo se il bando non li richiede. Deve però saper dire che la proprietà privata è compressa attraverso un procedimento, con partecipazione, motivazione e tutela. Se la traccia entra in occupazione d'urgenza, retrocessione, indennità dettagliate o acquisizioni senza titolo, occorre rinviare al testo unico e alla preparazione specialistica.
+
+## N-FL02-10-05 · Progetto, contratto, RUP, casi e verifica
 
 ### Dal progetto al contratto: il ruolo del RUP e il ciclo di vita
 
@@ -294,22 +356,51 @@ Soluzione guida:
 - so spiegare perché l'interesse pubblico non basta da solo?
 - so indicare quando serve il rinvio a un modulo tecnico o alla fonte vigente?
 
-### Riferimenti consolidati
+## ▣ Verifica
 
-- [[sources/legge-56-2014-province-citta-metropolitane]]
-- [[sources/d-p-r-8-giugno-2001-n-327-espropriazione-pubblica-utilita]]
-- [[sources/d-lgs-31-marzo-2023-n-36-contratti-pubblici]]
-- [[sources/verifica-ufficiale-m-fl02-10-2026-07-22]]
-- [[sources/bandi-inpa-vol-02-campione-2026]]
-- [[topics/regioni-e-governo-locale]]
-- [[entities/provincia]]
-- [[entities/citta-metropolitana]]
-- [[books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/09-province-citta-metropolitane-legge-56-2014]]
-- [[books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/11-contratti-servizi-pubblici-locali-societa-partecipate]]
+### Quiz 1
+**Qual è il primo controllo davanti a un intervento tecnico di area vasta?**  
+A. La titolarità della funzione e del bene. B. Il nome dell'impresa. C. Il collaudo. D. Il pagamento.
 
-### Note di review
+**Risposta corretta: A.** Fonte, competenza e titolarità determinano chi programma, progetta, affida e controlla.
 
-- La redazione usa soltanto il quadro generale verificato il 22 luglio 2026. Prima della pubblicazione, ricontrollare L. 56/2014, D.P.R. 327/2001 e D.Lgs. 36/2023 sul testo vigente.
-- Per un bando tecnico o tecnico-amministrativo integrare fonti ufficiali su edilizia scolastica, strade, sicurezza, progettazione, autorizzazioni e programmazione dell'ente interessato.
-- Non aggiungere al capitolo soglie, termini, occupazioni d'urgenza, criteri di indennità, varianti, SAL, collaudi o istruzioni telematiche senza fonte consolidata e review normativa specialistica.
-- Per urbanistica, progettazione, direzione lavori, espropri avanzati e disciplina tecnica rinviare al volume tecnico: [[books/moduli/architettura-moduli-specialistici]].
+### Quiz 2
+**La sicurezza di una strada coincide con la sola esecuzione dei lavori?**  
+A. Sì. B. No: comprende conoscenza del bene, priorità, manutenzione, gestione e controllo. C. Solo in emergenza. D. Solo dopo un incidente.
+
+**Risposta corretta: B.** Il lavoro è una fase di un ciclo amministrativo e manutentivo più ampio.
+
+### Quiz 3
+**Perché l'edilizia scolastica richiede raccordo tra enti?**  
+A. Perché proprietà, gestione dell'edificio e organizzazione del servizio scolastico possono coinvolgere soggetti diversi. B. Perché decide sempre la scuola. C. Perché non usa contratti. D. Perché è materia privata.
+
+**Risposta corretta: A.** La risposta deve separare competenze sull'immobile, sicurezza, servizio e finanziamento.
+
+### Quiz 4
+**La pianificazione di area vasta sostituisce automaticamente gli strumenti comunali?**  
+A. Sì. B. No: coordina interessi sovracomunali secondo fonti e rapporti di compatibilità applicabili. C. Solo per le scuole. D. Solo se finanziata dalla Regione.
+
+**Risposta corretta: B.** Scala vasta e autonomia comunale devono essere raccordate, non confuse.
+
+### Quiz 5
+**L'interesse pubblico basta per espropriare?**  
+A. Sì. B. No: servono potere, procedimento, partecipazione, atti ed indennità secondo il D.P.R. 327/2001. C. Solo con fondi UE. D. Solo per una strada.
+
+**Risposta corretta: B.** L'espropriazione è un procedimento tipico e garantito, non una conseguenza informale del progetto.
+
+### Quiz 6
+**Qual è la funzione del RUP nel ciclo contrattuale?**  
+A. Sostituire tutti gli organi. B. Presidiare i compiti attribuiti nel ciclo dell'intervento secondo il D.Lgs. 36/2023. C. Approvare il bilancio. D. Determinare ogni indennità.
+
+**Risposta corretta: B.** Il ruolo va descritto sulla disciplina vigente, distinguendolo da progettista, direttore dei lavori e organi decisionali.
+
+### Caso ragionato finale
+Durante lavori su una strada provinciale emerge una criticità di sicurezza che richiede una variante e interessa un'area privata. L'ufficio deve verificare titolarità della strada, progetto e copertura; qualificare necessità e ammissibilità della variante; individuare competenze di RUP, progettista, direzione lavori e organo approvante; valutare autorizzazioni, effetti sul contratto, tempi e controlli. Se occorre acquisire l'area, deve coordinare progettazione e procedimento espropriativo, garantendo partecipazione e atti previsti. Nessun pagamento o occupazione può fondarsi sulla sola urgenza dichiarata: fascicolo, motivazione, risorse e garanzie devono restare coerenti.
+
+## Riferimenti normativi e professionali essenziali
+
+- Legge 7 aprile 2014, n. 56, nel testo vigente.
+- Decreto del Presidente della Repubblica 8 giugno 2001, n. 327.
+- Decreto legislativo 31 marzo 2023, n. 36, nel testo vigente.
+- Normativa ufficiale applicabile a viabilità, edilizia scolastica, sicurezza e pianificazione territoriale.
+- Leggi regionali, statuto, programmi e regolamenti dell'ente interessato.

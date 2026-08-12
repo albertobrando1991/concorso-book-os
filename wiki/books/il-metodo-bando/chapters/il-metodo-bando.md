@@ -43,7 +43,7 @@ BANDO significa:
 
 ![Mappa generale delle cinque fasi del Metodo BANDO: Bando, Aree, Nuclei, Diario e Output.](../assets/chapter-03/01-metodo-bando-mappa-generale.png)
 
-> *Figura 3.1 - Il Metodo BANDO trasforma il bando ufficiale in studio governato e allenamento della prova.*
+*Figura 3.1 - Il Metodo BANDO trasforma il bando ufficiale in studio governato e allenamento della prova.*
 
 ## Perché il metodo è il prodotto
 
@@ -61,7 +61,7 @@ Da questa domanda derivano tutte le altre:
 
 ![Schema che mostra il passaggio dai materiali dispersi alla procedura BANDO con decisioni, priorità, calendario e simulazioni.](../assets/chapter-03/02-materiali-dispersi-procedura-bando.png)
 
-> *Figura 3.2 - Il valore del metodo non è accumulare materiali, ma decidere come usarli.*
+*Figura 3.2 - Il valore del metodo non è accumulare materiali, ma decidere come usarli.*
 
 ## Lo schema generale
 
@@ -75,7 +75,7 @@ Da questa domanda derivano tutte le altre:
 
 ![Schema che collega ogni fase del Metodo BANDO al relativo prodotto concreto: Decoder, mappa, lista, diario e output.](../assets/chapter-03/03-fasi-bando-prodotti-concreti.png)
 
-> *Figura 3.3 - Ogni fase del metodo deve produrre un artefatto operativo, non solo un’intenzione.*
+*Figura 3.3 - Ogni fase del metodo deve produrre un artefatto operativo, non solo un’intenzione.*
 
 ## B - Bando
 
@@ -165,7 +165,7 @@ Il metodo non è rigido. È una struttura per correggere la rotta.
 
 ![Confronto tra metodo lineare e metodo ciclico BANDO, con ritorno continuo su bando, aree, nuclei, diario e output.](../assets/chapter-03/04-metodo-lineare-vs-ciclico.png)
 
-> *Figura 3.4 - Il Metodo BANDO è ciclico: ogni errore e ogni simulazione possono modificare il piano.*
+*Figura 3.4 - Il Metodo BANDO è ciclico: ogni errore e ogni simulazione possono modificare il piano.*
 
 ## Esempio: concorso amministrativo comunale
 
@@ -177,7 +177,7 @@ Un candidato prepara un concorso per istruttore amministrativo comunale.
 **Diario:** registra errori su competenze degli organi, termini procedimentali e accesso civico.
 **Output:** fa simulazioni a quiz, prepara risposte orali di due minuti e risolve casi brevi su istanza del cittadino.
 
-L'obiettivo è arrivare a risposte da prova su enti locali, amministrativo e pubblico impiego.
+L’obiettivo è arrivare a risposte da prova su enti locali, amministrativo e pubblico impiego.
 
 ## Esempio: concorso ministeriale
 
@@ -205,7 +205,9 @@ Con 30 giorni scegli i nuclei indispensabili. Con 60 giorni consolidi. Con 90 gi
 
 ![Schema comparativo dell’applicazione del Metodo BANDO con 30, 60 e 90 giorni disponibili.](../assets/chapter-03/05-piano-bando-30-60-90.png)
 
-> *Figura 3.5 - Il tempo disponibile cambia l’intensità del metodo: taglio, consolidamento o sistema riutilizzabile.*
+*Figura 3.5 - Il tempo disponibile cambia l’intensità del metodo: taglio, consolidamento o sistema riutilizzabile.*
+
+Quando il tempo si riduce davvero, non basta sapere che bisogna tagliare: serve un criterio per decidere che cosa tagliare senza perdere punti. Il ricettario digitale approfondisce questo problema nel modulo [[books/il-metodo-bando/chapters/tagliare-senza-perdere-punti-priorita-studio-alta-resa|R12 - Tagliare senza perdere punti]], con la matrice resa/rischio/tempo/riuso.
 
 ## Più concorsi contemporaneamente
 

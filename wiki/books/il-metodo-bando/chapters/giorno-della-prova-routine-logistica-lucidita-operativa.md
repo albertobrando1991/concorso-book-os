@@ -20,15 +20,15 @@ draft_stage: revised-editorial-draft
 last_compiled_from: ["sources/giorno-prova-concorso-metodo-bando.md", "topics/giorno-prova-concorso.md", "topics/prove-concorsuali.md", "topics/checklist-concorsi.md", "topics/strategia-punteggio-prova-concorsuale.md", "topics/simulazioni-concorsuali.md", "topics/sostenibilita-preparazione-concorsi.md", "topics/diario-errori.md", "topics/dopo-prova-concorsi.md"]
 ---
 
-# Capitolo 38 - Il giorno della prova: routine, logistica e lucidità operativa
+# R14 - Il giorno della prova: routine, logistica e lucidità operativa
 
 Il giorno della prova richiede di eseguire ciò che hai già preparato.
 
-Se hai letto il bando, scelto materiali, fatto simulazioni, corretto errori, tagliato ciò che non serviva e preparato una strategia di punteggio, l'obiettivo finale non è aggiungere altra pressione.
+Se hai letto il bando, scelto materiali, fatto simulazioni, corretto errori, tagliato ciò che non serviva e preparato una strategia di punteggio, l’obiettivo finale non è aggiungere altra pressione.
 
-L'obiettivo è non perdere il controllo.
+L’obiettivo è non perdere il controllo.
 
-Molti candidati arrivano alla prova con una preparazione sufficiente, ma sprecano energia su elementi evitabili: documenti non controllati, orario letto male, sede cercata all'ultimo, strumenti non ammessi, attesa gestita in modo confuso, istruzioni lette di fretta, cambio di strategia improvvisato, domanda bloccante trattata come emergenza.
+Molti candidati arrivano alla prova con una preparazione sufficiente, ma sprecano energia su elementi evitabili: documenti non controllati, orario letto male, sede cercata all’ultimo, strumenti non ammessi, attesa gestita in modo confuso, istruzioni lette di fretta, cambio di strategia improvvisato, domanda bloccante trattata come emergenza.
 
 Il Metodo BANDO considera anche questo parte della preparazione.
 
@@ -57,6 +57,8 @@ La regola è:
 
 ![Routine completa del giorno della prova](../assets/chapter-38/01-mappa-routine-prova.png)
 
+*Figura 38.1 - Routine completa del giorno della prova.*
+
 | Fase | Domanda | Azione nel giorno della prova |
 |---|---|---|
 | B - Bando | quali istruzioni ufficiali devo rispettare? | controllo avvisi, convocazione, documenti, strumenti |
@@ -79,15 +81,17 @@ Riguarda la capacità di non farsi trascinare da una domanda, da una persona, da
 
 ![Linea del tempo delle ventiquattro ore prima della prova](../assets/chapter-38/02-linea-tempo-24-ore.png)
 
+*Figura 38.2 - Linea del tempo delle ventiquattro ore prima della prova.*
+
 Nelle ultime 24 ore il candidato tende a cercare sicurezza aggiungendo materiale.
 
 Un altro capitolo.
 
-Un'altra dispensa.
+Un’altra dispensa.
 
 Un altro video.
 
-Un'altra banca di quiz.
+Un’altra banca di quiz.
 
 Questa scelta spesso aumenta rumore, non punteggio.
 
@@ -100,7 +104,7 @@ Le ultime 24 ore hanno un compito diverso:
 - proteggere sonno, orari e lucidità;
 - preparare una strategia già provata, non inventarne una nuova.
 
-### Regola "niente novità pesanti"
+### Regola “niente novità pesanti”
 
 Nelle ultime 24 ore puoi fare:
 
@@ -130,7 +134,9 @@ Se la risposta è la seconda, non farla.
 
 ![Checklist visiva della logistica essenziale](../assets/chapter-38/03-checklist-logistica.png)
 
-Questa scheda va compilata solo con informazioni presenti in bando, avviso di convocazione, portale ufficiale o comunicazioni dell'amministrazione.
+*Figura 38.3 - Checklist visiva della logistica essenziale.*
+
+Questa scheda va compilata solo con informazioni presenti in bando, avviso di convocazione, portale ufficiale o comunicazioni dell’amministrazione.
 
 Non usare memoria, screenshot isolati o messaggi di gruppo come fonte finale.
 
@@ -151,11 +157,13 @@ Questa tabella non sostituisce le istruzioni ufficiali.
 
 Serve a costringerti a leggerle davvero.
 
-Il dettaglio più pericoloso è quello che "tanto lo so".
+Il dettaglio più pericoloso è quello che “tanto lo so”.
 
 ## La mattina della prova
 
 ![Routine essenziale della mattina della prova](../assets/chapter-38/04-routine-mattino.png)
+
+*Figura 38.4 - Routine essenziale della mattina della prova.*
 
 La mattina della prova non deve essere piena.
 
@@ -187,9 +195,9 @@ Non aprire materiale che non hai mai usato.
 
 Il giorno della prova, la novità è quasi sempre rumore.
 
-## L'attesa prima dell'ingresso
+## L’attesa prima dell’ingresso
 
-L'attesa può diventare una prova nella prova.
+L’attesa può diventare una prova nella prova.
 
 Altri candidati parlano, confrontano risposte, citano norme, raccontano voci, chiedono conferme, mostrano materiali.
 
@@ -216,6 +224,8 @@ La sicurezza utile non è sentirsi invincibile.
 ## La lettura delle istruzioni è parte della prova
 
 ![Lettura deliberata delle istruzioni prima di iniziare](../assets/chapter-38/05-lettura-istruzioni.png)
+
+*Figura 38.5 - Lettura deliberata delle istruzioni prima di iniziare.*
 
 Quando inizia la prova, molti candidati vogliono correre.
 
@@ -258,7 +268,7 @@ Se hai stabilito un tempo massimo su domanda bloccante, rispettalo.
 
 Se nello scritto hai deciso lettura, scaletta, stesura e revisione, non saltare la scaletta per ansia.
 
-Se nell'orale hai allenato definizione, funzione, riferimento sicuro, esempio e chiusura, non partire da un dettaglio incerto.
+Se nell’orale hai allenato definizione, funzione, riferimento sicuro, esempio e chiusura, non partire da un dettaglio incerto.
 
 ### Promemoria operativo
 
@@ -280,6 +290,8 @@ Significa avere una procedura anche quando la tensione arriva.
 
 ![Protocollo visivo per gestire un imprevisto](../assets/chapter-38/06-protocollo-imprevisti.png)
 
+*Figura 38.6 - Protocollo visivo per gestire un imprevisto.*
+
 Un imprevisto può essere logistico, tecnico, emotivo, di tempo o di consegna.
 
 Il Metodo BANDO propone una risposta in quattro passaggi:
@@ -290,7 +302,7 @@ fermati -> leggi -> chiedi se consentito -> riparti
 
 Non discutere con la situazione mentre il tempo passa.
 
-Non costruire interpretazioni complesse se puoi leggere un'istruzione.
+Non costruire interpretazioni complesse se puoi leggere un’istruzione.
 
 Non prendere iniziative vietate o non chiare.
 
@@ -319,7 +331,7 @@ Quando la prova finisce, il candidato spesso passa subito a una delle due reazio
 
 Entrambe possono essere premature.
 
-La prima impressione è utile, ma non è l'esito ufficiale.
+La prima impressione è utile, ma non è l’esito ufficiale.
 
 Il Metodo BANDO chiede una cosa più sobria: salvare dati.
 
@@ -350,6 +362,8 @@ Il Diario post-prova comincia qui.
 
 ![Percorso operativo di un giorno di prova](../assets/chapter-38/07-caso-giorno-prova.png)
 
+*Figura 38.7 - Percorso operativo di un giorno di prova.*
+
 Elena ha preparato una prova scritta a quiz. Il giorno prima sente altri candidati parlare di una nuova raccolta di domande.
 
 La tentazione è forte: aprirla e studiare fino a tardi.
@@ -360,7 +374,7 @@ Controlla convocazione, documento, ricevuta, sede e orario. Rilegge la scheda pr
 
 La mattina arriva presto. In coda sente domande su argomenti che non ha ripassato, ma non cambia piano. Entra, legge le istruzioni, conferma durata e modalità, poi applica i tre giri già provati in simulazione.
 
-Alla fine non sa ancora l'esito.
+Alla fine non sa ancora l’esito.
 
 Ma sa una cosa importante: non ha perso la prova per caos.
 
@@ -376,13 +390,13 @@ Risposta guidata: perché documenti, sede, orario, strumenti ammessi, lettura de
 
 Nelle ultime 24 ore conviene studiare il più possibile per arrivare più preparati?
 
-Risposta guidata: non necessariamente. Nelle ultime 24 ore l'obiettivo principale è ridurre rischio e proteggere lucidità. Il ripasso breve di nuclei, schede ed errori è utile; aprire materiali nuovi, cambiare strategia o sacrificare il recupero può peggiorare la prestazione.
+Risposta guidata: non necessariamente. Nelle ultime 24 ore l’obiettivo principale è ridurre rischio e proteggere lucidità. Il ripasso breve di nuclei, schede ed errori è utile; aprire materiali nuovi, cambiare strategia o sacrificare il recupero può peggiorare la prestazione.
 
 ## Errore tipico
 
 Il candidato tratta il giorno della prova come una giornata normale di studio.
 
-Si alza senza una sequenza, controlla documenti all'ultimo, legge messaggi di altri candidati, apre materiali nuovi, arriva agitato, salta istruzioni e cambia strategia alla prima difficoltà.
+Si alza senza una sequenza, controlla documenti all’ultimo, legge messaggi di altri candidati, apre materiali nuovi, arriva agitato, salta istruzioni e cambia strategia alla prima difficoltà.
 
 Il problema non è solo emotivo.
 
@@ -449,10 +463,3 @@ Serve a fare in modo che tu le abbia davvero trasformate in azioni.
 - [[topics/strategia-punteggio-prova-concorsuale]]
 - [[topics/simulazioni-concorsuali]]
 - [[topics/dopo-prova-concorsi]]
-
-## Note di review
-
-- Capitolo pronto come revised draft, da coordinare in revisione finale con Capitolo 24, Capitolo 29, Capitolo 34, Capitolo 37 e Capitolo 30.
-- Ogni riferimento a documenti, strumenti ammessi, accesso in sede e divieti deve restare subordinato a bando, convocazione e avvisi ufficiali della procedura specifica.
-- Il capitolo mantiene taglio operativo e non clinico sulla gestione dell'ansia; per disagio intenso o persistente resta opportuno rinviare a supporto qualificato.
-- In impaginazione valutare una pagina strumento "Scheda logistica ufficiale" e una pagina "Protocollo giorno prova".

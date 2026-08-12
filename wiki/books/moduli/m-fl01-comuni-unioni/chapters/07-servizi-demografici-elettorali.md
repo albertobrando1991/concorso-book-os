@@ -11,7 +11,7 @@ book_refs: ["m-fl01-comuni-unioni", "vol-02-enti-locali-polizia-locale", "il-met
 confidence: 0.87
 updated_at: 2026-07-31T21:00:00+02:00
 created_at: 2026-07-17T16:30:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "module-code-m-fl01", "professional-draft", "servizi-demografici-elettorali"]
 book_id: m-fl01-comuni-unioni
@@ -23,47 +23,7 @@ module_family: funzioni-locali
 companion_to: il-metodo-bando
 last_compiled_from: ["wiki/books/moduli/m-fl01-comuni-unioni/index.md", "wiki/books/moduli/m-fl01-comuni-unioni/planning/02-matrice-copertura-didattica.md", "wiki/books/moduli/m-fl01-comuni-unioni/chapters/05-procedimento-locale-protocollo-albo-urp-accesso.md", "wiki/books/moduli/m-fl01-comuni-unioni/chapters/06-servizi-digitali-comunali-cad-anpr-gestione-documentale.md", "wiki/books/moduli/m-fl01-comuni-unioni/chapters/08-welfare-locale-servizi-sociali-isee-minori-servizi-educativi.md", "wiki/sources/servizi-demografici-elettorali-anagrafe-stato-civile.md", "wiki/sources/ministero-interno-dait-anpr-finanza-locale.md", "wiki/sources/d-p-r-28-dicembre-2000-n-445-documentazione-amministrativa.md", "wiki/sources/d-lgs-7-marzo-2005-n-82-amministrazione-digitale.md", "wiki/sources/pa-digitale-cad-identita-documenti-servizi-dati.md", "wiki/sources/regolamento-ue-2016-679-gdpr-protezione-dati-personali.md", "wiki/sources/sicurezza-informatica-privacy-nis2-pa.md", "wiki/sources/bandi-inpa-vol-02-campione-2026.md", "wiki/topics/servizi-demografici-elettorali.md", "wiki/topics/privacy-e-protezione-dati.md", "wiki/entities/comune.md", "wiki/entities/anpr.md", "wiki/entities/ministero-interno.md"]
 ---
-
-# Servizi demografici ed elettorali
-
-## Specifica struttura madre
-
-### Obiettivo
-Inquadrare i servizi demografici ed elettorali come funzioni pubbliche comunali, non come semplice sportello.
-
-### Nuclei
-- Anagrafe della popolazione residente e rapporto con ANPR.
-- Stato civile: atti, registri e responsabilità essenziali.
-- Elettorale: liste, tessera, procedimenti e adempimenti comunali.
-- Certificati, dichiarazioni sostitutive e controlli.
-- Dati personali, comunicazioni e rapporti con Ministero dell'interno/prefetture.
-
-### Output operativo
-Caso sportello, tabella certificato-dichiarazione-dato, risposta orale su anagrafe/stato civile/elettorale.
-
-### Riferimenti consolidati
-- [[sources/servizi-demografici-elettorali-anagrafe-stato-civile]]
-- [[sources/ministero-interno-dait-anpr-finanza-locale]]
-- [[sources/d-p-r-28-dicembre-2000-n-445-documentazione-amministrativa]]
-- [[sources/d-lgs-7-marzo-2005-n-82-amministrazione-digitale]]
-- [[sources/pa-digitale-cad-identita-documenti-servizi-dati]]
-- [[sources/regolamento-ue-2016-679-gdpr-protezione-dati-personali]]
-- [[topics/servizi-demografici-elettorali]]
-- [[topics/privacy-e-protezione-dati]]
-- [[entities/comune]]
-- [[entities/anpr]]
-- [[entities/ministero-interno]]
-
-## Scheda di lavoro
-Il capitolo tiene insieme funzione pubblica, procedimento e rapporto con il cittadino. Le procedure puntuali, i modelli e i calendari elettorali devono essere verificati sui portali ministeriali aggiornati prima della pubblicazione o prima della prova.
-
-La domanda guida è:
-
-> quando un cittadino chiede un certificato, cambia residenza, registra un evento di stato civile o esercita un diritto elettorale, quale funzione pubblica sta esercitando il Comune e quali dati devono essere trattati correttamente?
-
-## Testo editoriale
-
-### Apertura editoriale
+## Apertura editoriale
 Nei concorsi comunali i servizi demografici ed elettorali possono sembrare materie di sportello: certificati, residenze, carte d'identità, tessere elettorali, liste, atti di nascita, matrimoni, decessi. Sono invece funzioni pubbliche essenziali. Il Comune identifica la popolazione residente, registra eventi della vita civile, alimenta banche dati nazionali, rende possibile l'esercizio del voto e tutela informazioni personali delicate.
 
 Studiare queste attività come un elenco di pratiche porta facilmente a confonderle. Una risposta ordinata parte dalla funzione e individua ufficio, dato, procedimento, atto o registro, comunicazioni, controlli e tutela della riservatezza.
@@ -72,7 +32,7 @@ Anagrafe, stato civile ed elettorale hanno un tratto comune: non producono solta
 
 Il capitolo precedente ha mostrato come il digitale comunale trasformi protocollo, documento informatico, ANPR e conservazione. Qui quel discorso entra nei servizi più vicini al cittadino. ANPR, ANSC, certificazioni online, dichiarazioni sostitutive, controlli e liste elettorali non sono sigle da memorizzare: sono passaggi del lavoro quotidiano dell'ufficio comunale.
 
-### Obiettivo del capitolo
+## Obiettivo del capitolo
 Al termine del capitolo devi saper fare dieci operazioni:
 
 1. spiegare perché i servizi demografici sono funzioni pubbliche comunali e non mera attività di sportello;
@@ -90,7 +50,7 @@ Il messaggio centrale è:
 
 > il servizio demografico non si esaurisce nel certificato consegnato al cittadino; serve a garantire dati pubblici corretti, aggiornati, interoperabili e giuridicamente affidabili.
 
-### Come usare questo capitolo
+## Come usare questo capitolo
 Questo capitolo va studiato con tre colonne aperte:
 
 | Colonna | Domanda | Esempi |
@@ -108,7 +68,7 @@ Esempio:
 
 Questo cambio di impostazione alza subito il livello della risposta.
 
-### Mappa BANDO del capitolo
+## Mappa BANDO del capitolo
 
 | Fase | Domanda operativa | Output atteso |
 | --- | --- | --- |
@@ -128,12 +88,12 @@ Prima di rispondere, classifica il caso. La disciplina cambia se riguarda:
 - esercizio del voto;
 - accesso o comunicazione di dati personali.
 
-### Perché i servizi demografici ricorrono nei concorsi comunali
+## Perché i servizi demografici ricorrono nei concorsi comunali
 I servizi demografici ricorrono nei concorsi perché attraversano il lavoro comunale. Anche chi opera altrove deve saper usare un dato anagrafico, distinguere certificazione e acquisizione d'ufficio e trattare correttamente i dati personali.
 
 La materia unisce diritto amministrativo e pratica: una variazione di residenza, un'iscrizione nelle liste o un atto di stato civile verificano la capacità di ragionare su competenza, istruttoria, responsabilità e comunicazione. ANPR e ANSC aggiungono il rapporto con le banche dati nazionali, mentre il servizio elettorale impone di consultare istruzioni e circolari aggiornate per ciascuna consultazione.
 
-### Il Comune come ufficio di certezza pubblica
+## Il Comune come ufficio di certezza pubblica
 Nel linguaggio quotidiano il cittadino "va all'anagrafe" o "chiede un certificato". Nel linguaggio amministrativo, il Comune gestisce funzioni che incidono sulla posizione della persona nell'ordinamento.
 
 L'anagrafe riguarda la popolazione residente e le relative variazioni. Lo stato civile riguarda eventi e status fondamentali della persona. L'elettorale riguarda il corpo elettorale, le liste e gli adempimenti che rendono possibile l'esercizio del voto.
@@ -150,7 +110,7 @@ Il sindaco, nel quadro dell'ordinamento locale, opera anche come ufficiale del G
 
 In prova non serve trasformare la risposta in un trattato. Serve far capire che il servizio demografico è una funzione pubblica regolata, non un bancone di rilascio moduli.
 
-### Anagrafe della popolazione residente
+## Anagrafe della popolazione residente
 L'anagrafe registra la popolazione residente e le variazioni che incidono sulla posizione anagrafica delle persone. La fonte regolamentare di base è il D.P.R. 30 maggio 1989, n. 223, collegato alla disciplina dell'ordinamento anagrafico e oggi coordinato con ANPR.
 
 Per il candidato sono essenziali quattro idee.
@@ -167,7 +127,7 @@ In prova puoi sintetizzare così:
 
 > L'anagrafe comunale registra la popolazione residente e le relative variazioni. Il Comune gestisce dichiarazioni, iscrizioni, mutazioni e cancellazioni secondo la disciplina anagrafica, oggi raccordata con ANPR. Il dato anagrafico non serve solo al certificato: alimenta procedimenti, controlli e servizi pubblici, e deve essere corretto, aggiornato e trattato nel rispetto della protezione dei dati.
 
-### ANPR: cosa deve sapere il candidato
+## ANPR: cosa deve sapere il candidato
 ANPR, Anagrafe Nazionale della Popolazione Residente, è una base dati nazionale di interesse pubblico che ha superato la frammentazione delle anagrafi comunali come archivi isolati. Nel capitolo precedente è stata presentata come infrastruttura digitale. Qui interessa il suo effetto sui servizi demografici.
 
 Per un concorso comunale devi ricordare cinque punti:
@@ -182,14 +142,14 @@ In prova, ANPR va qualificata come piattaforma di servizio e interoperabilità: 
 
 I servizi collegati ad ANPR e l'interoperabilità con altre piattaforme evolvono nel tempo. Prima della pubblicazione finale, funzionalità, dati quantitativi e indicazioni operative devono essere ricontrollati sui portali ufficiali.
 
-### AIRE e cittadini italiani residenti all'estero
+## AIRE e cittadini italiani residenti all'estero
 L'AIRE, Anagrafe degli italiani residenti all'estero, riguarda la posizione anagrafica dei cittadini italiani che risiedono all'estero. Nel quadro attuale va letta insieme ad ANPR, che ricomprende anche queste posizioni e raccorda il dato nazionale con l'attività degli uffici comunali.
 
 La distinzione utile in prova è questa: l'anagrafe della popolazione residente riguarda chi risiede nel Comune; l'AIRE riguarda i cittadini italiani residenti all'estero. In entrambi i casi il Comune conserva un ruolo amministrativo nella gestione e nella qualità del dato secondo la disciplina applicabile. L'iscrizione AIRE non va confusa con un atto di stato civile né, da sola, con l'intera posizione elettorale del cittadino.
 
 Per iscrizioni, variazioni, comunicazioni consolari ed effetti sui singoli servizi occorre verificare la disciplina e le istruzioni ministeriali vigenti: il capitolo fissa il perimetro, non una procedura operativa.
 
-### Residenza, iscrizioni, variazioni e controlli
+## Residenza, iscrizioni, variazioni e controlli
 Le domande di residenza e le variazioni anagrafiche sono uno dei casi più adatti a una prova teorico-pratica.
 
 La sequenza di base è:
@@ -218,7 +178,7 @@ Un buon schema di risposta è:
 | Comunicazione | Esito, eventuale richiesta integrazioni, garanzie procedimentali. | Non motivare o non comunicare correttamente. |
 | Conservazione | Fascicolo, documenti e metadati. | Conservare in modo disordinato o eccedente. |
 
-### Stato civile: atti, registri e valore pubblico
+## Stato civile: atti, registri e valore pubblico
 Lo stato civile riguarda eventi e status fondamentali della persona: nascita, matrimonio, unione civile, morte, cittadinanza e altri atti o annotazioni previsti dalla disciplina di settore. La fonte regolamentare centrale è il D.P.R. 3 novembre 2000, n. 396.
 
 La funzione dello stato civile è diversa dall'anagrafe.
@@ -238,7 +198,7 @@ All'orale basta chiarire funzione, fonte e responsabilità:
 
 > Lo stato civile è il servizio comunale che forma, conserva e aggiorna gli atti relativi agli eventi fondamentali della vita civile, secondo la disciplina del D.P.R. 396/2000 e le istruzioni ministeriali. Non è semplice certificazione: è funzione di certezza pubblica, esercitata dall'ufficiale dello stato civile, con effetti su status, rapporti familiari, cittadinanza e altri procedimenti.
 
-### ANSC e stato civile digitale
+## ANSC e stato civile digitale
 ANSC, Archivio Nazionale Informatizzato dei Registri dello Stato Civile, rappresenta il passaggio dello stato civile verso una gestione nazionale digitale degli atti.
 
 Il candidato non deve conoscere ogni dettaglio tecnico, ma deve comprenderne gli effetti: gli atti formati digitalmente possono alimentare l'archivio nazionale e dialogare con ANPR; il cittadino può accedere ai servizi online previsti per certificati ed estratti; l'ufficiale dello stato civile conserva il proprio ruolo e la relativa responsabilità amministrativa.
@@ -247,7 +207,7 @@ Nel 2026 le fonti istituzionali hanno comunicato l'attivazione di servizi online
 
 > quando una fonte parla di "certificato online", chiediti sempre qual è l'atto sottostante, quale archivio lo contiene, chi lo forma o lo verifica e quali garanzie ne assicurano validità e autenticità.
 
-### Elettorale: liste, tessera e adempimenti comunali
+## Elettorale: liste, tessera e adempimenti comunali
 Il servizio elettorale comunale consente l'esercizio concreto del diritto di voto. La disciplina è articolata: il candidato deve conoscere la funzione amministrativa senza perdersi nei calendari specifici di ogni consultazione.
 
 I nuclei più frequenti sono:
@@ -268,7 +228,7 @@ In una risposta orale non devi elencare tutto. Devi costruire un perimetro:
 
 Questa frase funziona perché tiene insieme Comune, fonte statale e circuito ministeriale.
 
-### Differenza tra anagrafe ed elettorale
+## Differenza tra anagrafe ed elettorale
 Un errore frequente è pensare che anagrafe ed elettorale coincidano.
 
 Non coincidono.
@@ -286,7 +246,7 @@ Usa questa tabella:
 
 In prova, se la traccia parla di "cambio di residenza e tessera elettorale", devi rispondere su entrambi i livelli: aggiornamento anagrafico e conseguenze elettorali.
 
-### Certificati, dichiarazioni sostitutive e acquisizione d'ufficio
+## Certificati, dichiarazioni sostitutive e acquisizione d'ufficio
 Il D.P.R. 28 dicembre 2000, n. 445 è decisivo per capire i servizi demografici. La regola pratica è che il certificato non è sempre la risposta corretta nei rapporti con la pubblica amministrazione.
 
 Nei rapporti tra cittadino e PA, molti stati, qualità personali e fatti possono essere attestati con dichiarazioni sostitutive, nei limiti e con le responsabilità previste. L'amministrazione deve acquisire d'ufficio o controllare i dati quando ciò è previsto, evitando di scaricare sul cittadino oneri documentali non necessari.
@@ -306,7 +266,7 @@ La distinzione fondamentale è:
 | Acquisizione d'ufficio | Permette alla PA di reperire direttamente il dato. | Evitare richieste documentali non necessarie al cittadino. |
 | Consultazione dati | Uso di banche dati o interoperabilità. | Base giuridica, tracciamento, minimizzazione e sicurezza. |
 
-### Dati personali, riservatezza e sicurezza
+## Dati personali, riservatezza e sicurezza
 I servizi demografici trattano dati personali in modo continuo. Proprio per questo non bisogna confondere disponibilità del dato con libera circolazione del dato.
 
 Un ufficio può conoscere molti dati per ragioni istituzionali, ma può usarli solo per finalità legittime, pertinenti e proporzionate. La presenza di un'informazione nell'archivio non ne autorizza la comunicazione indiscriminata: prima del rilascio o della trasmissione vanno verificati destinatario, base giuridica e dati necessari.
@@ -332,7 +292,7 @@ Applicati ai servizi demografici, questi principi significano:
 
 Le raccomandazioni istituzionali su ANPR e sicurezza richiamano un punto semplice: le credenziali e gli strumenti di accesso non sono una formalità tecnica. Sono parte della tutela del dato pubblico e della fiducia nel servizio.
 
-### Rapporti con Ministero dell'interno, DAIT e prefetture
+## Rapporti con Ministero dell'interno, DAIT e prefetture
 I servizi demografici ed elettorali non sono un'isola comunale. Il Comune opera dentro un circuito istituzionale che coinvolge Ministero dell'interno, Dipartimento per gli affari interni e territoriali, Direzione centrale per i servizi demografici, Direzione centrale per i servizi elettorali e prefetture.
 
 Questo circuito serve a:
@@ -350,7 +310,7 @@ Per il candidato la conseguenza è operativa:
 
 La risposta deve quindi distinguere la disciplina stabile dalle istruzioni operative soggette ad aggiornamento.
 
-### Tabella di sintesi: servizio, fonte, output
+## Tabella di sintesi: servizio, fonte, output
 
 | Servizio | Funzione | Fonti/raccordi | Output tipico |
 | --- | --- | --- | --- |
@@ -361,7 +321,7 @@ La risposta deve quindi distinguere la disciplina stabile dalle istruzioni opera
 | Servizi digitali | Accesso online e interoperabilità. | CAD, ANPR, ANSC, PDND, linee guida. | Certificato online, richiesta estratto, consultazione dati, tracciamento. |
 | Privacy e sicurezza | Protezione dei dati e degli accessi. | GDPR, Codice privacy, regole interne, misure tecniche. | Abilitazioni, log, minimizzazione, verifica identità, limitazioni rilascio. |
 
-### Caso guidato: cambio di residenza, certificato e tessera elettorale
+## Caso guidato: cambio di residenza, certificato e tessera elettorale
 Un cittadino comunica il cambio di residenza nel Comune. Dopo pochi giorni chiede un certificato di residenza e domanda anche se riceverà una nuova tessera elettorale. L'operatore allo sportello nota che alcuni dati risultano non allineati con precedenti informazioni presenti nel sistema.
 
 Come si imposta la risposta?
@@ -390,7 +350,7 @@ Risposta sintetica da prova:
 
 > Il caso va separato in profilo anagrafico, certificativo ed elettorale. L'ufficio anagrafe gestisce la dichiarazione di residenza, verifica la posizione e aggiorna i dati nel sistema, oggi raccordato con ANPR. Il certificato può essere rilasciato nei casi consentiti, ricordando che nei rapporti con la PA operano dichiarazioni sostitutive e acquisizione d'ufficio. Le conseguenze sulla tessera e sulle liste spettano all'ufficio elettorale secondo le revisioni e gli adempimenti previsti. In ogni fase occorre trattare solo i dati necessari e garantire correttezza, sicurezza e tracciabilità.
 
-### Come rispondere all'orale
+## Come rispondere all'orale
 Per una domanda generale sui servizi demografici ed elettorali puoi usare questa scaletta:
 
 1. definizione: sono funzioni comunali di certezza pubblica relative a popolazione, status personali e corpo elettorale;
@@ -406,17 +366,17 @@ Modello breve:
 
 > I servizi demografici ed elettorali sono funzioni essenziali del Comune. L'anagrafe riguarda la popolazione residente ed è oggi integrata con ANPR; lo stato civile forma e conserva gli atti relativi agli eventi fondamentali della persona, con evoluzione verso ANSC; l'elettorale cura liste, tessere, sezioni e adempimenti che rendono effettivo il diritto di voto. In tutti i casi l'ufficio opera secondo fonti statali e istruzioni ministeriali, distingue certificati e dichiarazioni sostitutive, e tratta dati personali con criteri di correttezza, sicurezza e minimizzazione.
 
-### Domanda da commissario
+## Domanda da commissario
 Che differenza c'è tra anagrafe, stato civile ed elettorale?
 
 L'anagrafe registra la popolazione residente e le variazioni anagrafiche, oggi nel quadro ANPR. Lo stato civile riguarda gli atti relativi agli eventi e agli status fondamentali della persona, come nascita, matrimonio, unione civile, morte e cittadinanza, secondo il D.P.R. 396/2000 e con l'evoluzione digitale di ANSC. L'elettorale riguarda liste, tessera, sezioni, certificazioni e adempimenti che consentono l'esercizio del voto. Le tre funzioni usano dati della persona, ma hanno oggetti e regole diverse.
 
-### Domanda-trappola
+## Domanda-trappola
 Se un'amministrazione ha bisogno di sapere la residenza di un cittadino, deve chiedergli un certificato?
 
 Non necessariamente. Nei rapporti con la pubblica amministrazione il D.P.R. 445/2000 valorizza dichiarazioni sostitutive, acquisizione d'ufficio e controlli. Il certificato attesta un dato risultante da registri o archivi, ma non deve diventare un onere documentale inutile quando la PA può acquisire o verificare il dato secondo le regole.
 
-### Errore tipico
+## Errore tipico
 L'errore tipico è rispondere così:
 
 > "I servizi demografici rilasciano certificati e la tessera elettorale."
@@ -427,7 +387,7 @@ Una formulazione migliore è:
 
 > "I servizi demografici ed elettorali gestiscono dati e atti essenziali sulla persona e sull'esercizio dei diritti civici. Il rilascio del certificato o della tessera è solo l'output visibile di un procedimento regolato, collegato a registri, sistemi nazionali, controlli e responsabilità dell'ufficio."
 
-### Mini-esercizio
+## Mini-esercizio
 Leggi la traccia:
 
 > Un cittadino chiede allo sportello un certificato di stato di famiglia per consegnarlo a un'altra amministrazione. L'operatore sa che il dato è disponibile nei sistemi comunali e che il cittadino insiste per avere comunque il certificato.
@@ -446,7 +406,7 @@ Soluzione guida:
 3. se il destinatario è una PA, il sistema privilegia dichiarazioni sostitutive, acquisizione d'ufficio e controlli, evitando richieste inutili di certificati;
 4. l'ufficio deve trattare solo i dati necessari, verificare l'identità e la legittimazione del richiedente e non comunicare informazioni eccedenti.
 
-### Diario errori
+## Diario errori
 Usa questa griglia per segnare gli errori ricorrenti.
 
 | Errore | Come correggerlo |
@@ -458,10 +418,10 @@ Usa questa griglia per segnare gli errori ricorrenti.
 | Comunico dati perché "sono nell'archivio". | Verifica base giuridica, finalità, legittimazione, minimizzazione e sicurezza. |
 | Cito procedure elettorali senza aggiornamento. | Le consultazioni hanno istruzioni e scadenze specifiche: controllare sempre DAIT e prefettura. |
 
-### Da sapere in 5 righe
+## Da sapere in 5 righe
 I servizi demografici ed elettorali sono funzioni comunali di certezza pubblica. L'anagrafe gestisce popolazione residente e variazioni, oggi in raccordo con ANPR. Lo stato civile forma e conserva atti su eventi e status fondamentali, con evoluzione digitale verso ANSC. L'elettorale cura liste, tessera, sezioni e adempimenti del voto secondo norme statali e istruzioni ministeriali. Certificati, dichiarazioni sostitutive, controlli, privacy e sicurezza sono parte integrante del lavoro dell'ufficio.
 
-### Checklist del candidato
+## Checklist del candidato
 Prima di chiudere lo studio del capitolo, verifica di saper rispondere a queste domande:
 
 - So distinguere anagrafe, stato civile ed elettorale?
@@ -475,24 +435,18 @@ Prima di chiudere lo studio del capitolo, verifica di saper rispondere a queste 
 - So richiamare privacy, minimizzazione e sicurezza senza appesantire la risposta?
 - So evitare procedure puntuali non verificate?
 
-### Riferimenti consolidati
-- [[sources/servizi-demografici-elettorali-anagrafe-stato-civile]]
-- [[sources/ministero-interno-dait-anpr-finanza-locale]]
-- [[sources/d-p-r-28-dicembre-2000-n-445-documentazione-amministrativa]]
-- [[sources/d-lgs-7-marzo-2005-n-82-amministrazione-digitale]]
-- [[sources/pa-digitale-cad-identita-documenti-servizi-dati]]
-- [[sources/regolamento-ue-2016-679-gdpr-protezione-dati-personali]]
-- [[sources/sicurezza-informatica-privacy-nis2-pa]]
-- [[topics/servizi-demografici-elettorali]]
-- [[topics/privacy-e-protezione-dati]]
-- [[entities/comune]]
-- [[entities/anpr]]
-- [[entities/ministero-interno]]
+## Riferimenti normativi e professionali essenziali
+- Servizi demografici, elettorali, anagrafe e stato civile
+- Ministero dell'interno — DAIT, ANPR e finanza locale
+- D.P.R. 28 dicembre 2000, n. 445 — documentazione amministrativa
+- D.Lgs. 7 marzo 2005, n. 82 — Codice dell'amministrazione digitale
+- PA digitale — identità, documenti, servizi e dati
+- Regolamento (UE) 2016/679 — protezione dei dati personali
+- Sicurezza informatica, privacy e NIS2 nella PA
+- Servizi demografici ed elettorali
+- Privacy e protezione dei dati
+- Comune
+- ANPR
+- Ministero dell'interno
 - Per documentazione amministrativa e dichiarazioni sostitutive, cfr. [[books/il-metodo-bando/chapters/diritto-amministrativo-per-candidati#8. Documentazione amministrativa|VOL-01 — Documentazione amministrativa]].
 - Per il nucleo comune su protezione dei dati, cfr. [[books/il-metodo-bando/chapters/trasparenza-anticorruzione-privacy#13. Privacy e GDPR|VOL-01 — Privacy e GDPR]].
-
-### Note di review
-- Prima della pubblicazione verificare su Normattiva il testo vigente delle fonti puntuali: D.P.R. 223/1989, D.P.R. 396/2000, D.P.R. 223/1967, D.P.R. 570/1960 e norme collegate.
-- Verificare sul portale DAIT le circolari demografiche ed elettorali più recenti, in particolare per ANPR, ANSC, CIE, rilevazioni del corpo elettorale e adempimenti delle consultazioni in corso.
-- Non inserire nel testo finale scadenze operative, modelli o importi senza controllo ministeriale aggiornato.
-- Valutare in revisione finale se aggiungere un box separato su CIE, solo se il volume decide di trattarla nel dettaglio o di rinviarla al capitolo sui servizi digitali.

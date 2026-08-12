@@ -21,13 +21,13 @@ last_compiled_from: ["sources/strumenti-digitali-metodo-bando.md", "topics/strum
 last_humanizer_revision: 2026-07-24
 ---
 
-# Capitolo 28 - Usare il digitale senza perdere il metodo
+# R4 - Usare il digitale senza perdere il metodo
 
-> Modulo ricettario **R4** — Protocollo digitale e AI sicura. Collega FM1, Cap. 3 e Cap. 13.
+> Protocollo digitale e AI sicura. Collega FM1, Cap. 3 e Cap. 13.
 
 Il digitale può farti risparmiare settimane. Può anche farti perdere il controllo in tre giorni: dipende da come lo usi.
 
-Un candidato apre il bando, salva il PDF, copia il programma in una nota, chiede a un assistente AI di fare un piano, scarica un'app per flashcard, apre un calendario, entra in un gruppo, salva dieci messaggi, crea una cartella cloud e poi dimentica dove ha messo la versione corretta. Dopo una settimana ha più strumenti che decisioni.
+Un candidato apre il bando, salva il PDF, copia il programma in una nota, chiede a un assistente AI di fare un piano, scarica un’app per flashcard, apre un calendario, entra in un gruppo, salva dieci messaggi, crea una cartella cloud e poi dimentica dove ha messo la versione corretta. Dopo una settimana ha più strumenti che decisioni.
 
 Questo capitolo serve a evitare proprio questo errore.
 
@@ -53,11 +53,13 @@ Alla fine del capitolo saprai:
 - non perdere bando, scadenze, prove e diario dentro strumenti diversi;
 - applicare la routine settimanale di backup, esportazione e verifica fonti.
 
-Il capitolo definisce la funzione di ogni strumento e come mantenerlo utile nel tempo, senza indicare un'app specifica.
+Il capitolo definisce la funzione di ogni strumento e come mantenerlo utile nel tempo, senza indicare un’app specifica.
 
 ## Mappa BANDO del digitale
 
 ![Figura 28.1 - Mappa BANDO del digitale: lo strumento serve solo se accelera bando, aree, nuclei, diario o output.](../assets/chapter-28/01-mappa-bando-digitale.png)
+
+*Figura 28.1 - Mappa BANDO del digitale: lo strumento serve solo se accelera bando, aree, nuclei, diario o output.*
 
 | Fase | Uso digitale corretto | Rischio da evitare |
 |---|---|---|
@@ -65,13 +67,13 @@ Il capitolo definisce la funzione di ogni strumento e come mantenerlo utile nel 
 | A - Aree | Confrontare materie e profili in una tabella | duplicare programmi senza decidere priorità |
 | N - Nuclei | Creare domande, flashcard, mappe e schemi | collezionare riassunti passivi |
 | D - Diario | Tracciare errori, cause, ripassi e seconde verifiche | segnare errori senza azione correttiva |
-| O - Output | Allenare quiz, casi, orale e simulazioni | studiare dentro l'app senza produrre prova |
+| O - Output | Allenare quiz, casi, orale e simulazioni | studiare dentro l’app senza produrre prova |
 
 Uno strumento digitale è utile se rende più rapido uno di questi passaggi. Se non lo fa, è rumore.
 
 ## Le sette funzioni degli strumenti
 
-Prima di aggiungere un'app, un foglio o una chat, chiediti quale funzione deve svolgere. Nel Metodo BANDO ogni strumento digitale rientra in una di queste sette funzioni:
+Prima di aggiungere un’app, un foglio o una chat, chiediti quale funzione deve svolgere. Nel Metodo BANDO ogni strumento digitale rientra in una di queste sette funzioni:
 
 | Funzione | Cosa fa | Esempio nel metodo | Segnale di abuso |
 |---|---|---|---|
@@ -83,17 +85,19 @@ Prima di aggiungere un'app, un foglio o una chat, chiediti quale funzione deve s
 | Correggere | registra errori e azioni | Diario degli errori, seconda verifica | errori annotati ma mai ripassati |
 | Archiviare | mantiene versioni e capitale | cartelle, export, backup | duplicati e cartelle generiche |
 
-Uno strumento può coprire più funzioni, ma deve averne almeno una chiara. Se non riesci a dire "questa app serve a...", non ti serve ancora.
+Uno strumento può coprire più funzioni, ma deve averne almeno una chiara. Se non riesci a dire “questa app serve a...”, non ti serve ancora.
 
 La domanda operativa:
 
 > quale funzione del Metodo BANDO migliora questo strumento entro sette giorni?
 
-Se non rispondi con un output concreto, rimanda l'adozione.
+Se non rispondi con un output concreto, rimanda l’adozione.
 
 ## La regola 1-3-5
 
 ![Figura 28.2 - Regola 1-3-5: una fonte ufficiale, tre strumenti stabili e cinque output da produrre.](../assets/chapter-28/02-regola-1-3-5.png)
+
+*Figura 28.2 - Regola 1-3-5: una fonte ufficiale, tre strumenti stabili e cinque output da produrre.*
 
 Per non disperderti, parti da una struttura minima:
 
@@ -101,7 +105,7 @@ Per non disperderti, parti da una struttura minima:
 - 3 strumenti stabili;
 - 5 output da produrre.
 
-La fonte ufficiale principale è il bando con i suoi avvisi. Se esistono portale, sito dell'amministrazione, Gazzetta Ufficiale o altre pagine richiamate dalla procedura, entrano nella scheda fonti, ma non sostituiscono il bando.
+La fonte ufficiale principale è il bando con i suoi avvisi. Se esistono portale, sito dell’amministrazione, Gazzetta Ufficiale o altre pagine richiamate dalla procedura, entrano nella scheda fonti, ma non sostituiscono il bando.
 
 I tre strumenti possono essere semplici:
 
@@ -123,6 +127,8 @@ Se hai dieci strumenti ma nessun output, non stai studiando meglio. Stai amminis
 
 ![Figura 28.3 - Cartella minima del candidato: cinque spazi numerati per fonti, piano, nuclei, output e diario.](../assets/chapter-28/03-cartella-minima-candidato.png)
 
+*Figura 28.3 - Cartella minima del candidato: cinque spazi numerati per fonti, piano, nuclei, output e diario.*
+
 Il sistema digitale deve essere leggibile anche dopo un mese di stanchezza.
 
 Usa una cartella per concorso, con cinque sotto-cartelle:
@@ -133,13 +139,15 @@ Usa una cartella per concorso, con cinque sotto-cartelle:
 | 02-decoder-piano | Bando Decoder, calendario, priorità, tagli | una versione aggiornata |
 | 03-materie-nuclei | schemi, mappe, domande, flashcard | solo materiale selezionato |
 | 04-output | quiz, casi, risposte, simulazioni, orali | sempre con data |
-| 05-diario-errori | errori, cause, azioni, seconde verifiche | ogni errore deve avere un'azione |
+| 05-diario-errori | errori, cause, azioni, seconde verifiche | ogni errore deve avere un’azione |
 
-La numerazione serve a impedire che tutto finisca in una cartella generica chiamata "Concorso". Dopo due concorsi, quella cartella diventa inutilizzabile.
+La numerazione serve a impedire che tutto finisca in una cartella generica chiamata “Concorso”. Dopo due concorsi, quella cartella diventa inutilizzabile.
 
 ## AI: assistente, non fonte
 
-![Figura 28.4 - AI assistente, non fonte: l'assistente digitale trasforma materiale verificato, ma non decide requisiti, prove o scadenze.](../assets/chapter-28/04-ai-assistente-non-fonte.png)
+![Figura 28.4 - AI assistente, non fonte: l’assistente digitale trasforma materiale verificato, ma non decide requisiti, prove o scadenze.](../assets/chapter-28/04-ai-assistente-non-fonte.png)
+
+*Figura 28.4 - AI assistente, non fonte: l’assistente digitale trasforma materiale verificato, ma non decide requisiti, prove o scadenze.*
 
 Un assistente AI può essere utile se gli chiedi lavori controllabili:
 
@@ -152,18 +160,20 @@ Un assistente AI può essere utile se gli chiedi lavori controllabili:
 
 Diventa pericoloso se gli chiedi di sostituire il bando:
 
-- "Dimmi quali requisiti servono";
-- "qual è la scadenza?";
-- "Quali prove ci saranno?";
-- "Questa norma è aggiornata?";
-- "Posso partecipare?";
-- "Questo documento va allegato?".
+- “Dimmi quali requisiti servono”;
+- “qual è la scadenza?”;
+- “Quali prove ci saranno?”;
+- “Questa norma è aggiornata?”;
+- “Posso partecipare?”;
+- “Questo documento va allegato?”.
 
-Queste domande richiedono fonte ufficiale, lettura del bando e verifica umana. L'AI può aiutarti a organizzare la domanda, non a firmare la risposta al posto tuo.
+Queste domande richiedono fonte ufficiale, lettura del bando e verifica umana. L’AI può aiutarti a organizzare la domanda, non a firmare la risposta al posto tuo.
 
 ## Protocollo AI sicuro
 
 ![Figura 28.5 - Protocollo AI sicuro: contesto, output verificabile, verifica e archiviazione.](../assets/chapter-28/05-protocollo-ai-sicuro.png)
+
+*Figura 28.5 - Protocollo AI sicuro: contesto, output verificabile, verifica e archiviazione.*
 
 Quando usi un assistente digitale, applica quattro passaggi.
 
@@ -171,7 +181,7 @@ Quando usi un assistente digitale, applica quattro passaggi.
 |---|---|---|
 | 1. Fornisci contesto | incolla solo il blocco necessario o riassumi la fonte | da dove viene questa informazione? |
 | 2. Chiedi output verificabile | tabella, domande, schema, checklist | posso controllarlo riga per riga? |
-| 3. Verifica | confronta con bando, appunti e source notes | c'è qualcosa che cambia scadenza, prova o requisito? |
+| 3. Verifica | confronta con bando, appunti e source notes | c’è qualcosa che cambia scadenza, prova o requisito? |
 | 4. Archivia | salva solo la versione corretta | dove lo ritrovo tra due settimane? |
 
 Se un output non è verificabile, non entra nel tuo sistema. può restare come spunto, ma non diventa capitale di studio.
@@ -196,17 +206,17 @@ Il promemoria efficace segnala una decisione, non un senso di colpa.
 
 ## Portali ufficiali del candidato
 
-Il digitale del candidato non coincide con il digitale della PA che studi per l'esame. Qui parliamo del primo: gli strumenti che usi per partecipare al concorso e per non perdere informazioni ufficiali.
+Il digitale del candidato non coincide con il digitale della PA che studi per l’esame. Qui parliamo del primo: gli strumenti che usi per partecipare al concorso e per non perdere informazioni ufficiali.
 
 | Canale | Funzione per il candidato | Cosa salvare | Errore tipico |
 |---|---|---|---|
 | Portale concorsi / inPA | pubblicazione bandi, domanda, stato pratica | link bando, ricevuta domanda, credenziali accesso | fidarsi di screenshot non verificati |
-| Sito dell'ente banditore | avvisi, rettifiche, FAQ procedurali, calendario prove | PDF avvisi con data, pagina aggiornata | confondere news istituzionali e avvisi di gara |
+| Sito dell’ente banditore | avvisi, rettifiche, FAQ procedurali, calendario prove | PDF avvisi con data, pagina aggiornata | confondere news istituzionali e avvisi di gara |
 | Gazzetta Ufficiale / Normattiva | atti e norme quando richiamati dal bando | riferimento normativo verificato | studiare norme non nel programma |
 | PEC / SPID / CIE | autenticazione, domanda, comunicazioni certificate | ricevute, protocolli, conferme | usare email personale quando serve PEC |
-| Domicilio digitale / IPA | recapiti certificati dell'amministrazione, quando previsti | indirizzo IPA verificato | inventare recapiti da gruppi o forum |
+| Domicilio digitale / IPA | recapiti certificati dell’amministrazione, quando previsti | indirizzo IPA verificato | inventare recapiti da gruppi o forum |
 
-Per la parte sostanziale su CAD, documento informatico, firme, PEC, SPID e servizi digitali della PA fai riferimento al Cap. 10. In questo capitolo l'obiettivo è operativo: usare i canali giusti, conservare le prove digitali utili e non delegare a chat o gruppi ciò che solo la fonte ufficiale può confermare.
+Per la parte sostanziale su CAD, documento informatico, firme, PEC, SPID e servizi digitali della PA fai riferimento al Cap. 10. In questo capitolo l’obiettivo è operativo: usare i canali giusti, conservare le prove digitali utili e non delegare a chat o gruppi ciò che solo la fonte ufficiale può confermare.
 
 Regola pratica: ogni comunicazione rilevante deve finire in `01-bando-fonti` con data, canale e tipo documento (bando, avviso, ricevuta, rettifica).
 
@@ -214,7 +224,7 @@ Regola pratica: ogni comunicazione rilevante deve finire in `01-bando-fonti` con
 
 Il sistema digitale si deteriora in silenzio: file spostati, app disinstallate, link morti, versioni duplicate. Per evitarlo serve una routine breve e fissa.
 
-**Protocollo 15 minuti** — da fare una volta a settimana, preferibilmente lo stesso giorno (es. venerdi):
+**Protocollo 15 minuti** — da fare una volta a settimana, preferibilmente lo stesso giorno (es. venerdì):
 
 | Min | Passaggio | Azione | Esito atteso |
 |---|---|---|---|
@@ -222,7 +232,7 @@ Il sistema digitale si deteriora in silenzio: file spostati, app disinstallate, 
 | 3-6 | Allineamento Decoder | aggiorna Bando Decoder se qualcosa è cambiato | una sola versione valida |
 | 6-9 | Export essenziale | esporta o stampa Decoder, piano settimana, diario errori | copia recuperabile senza app |
 | 9-12 | Backup | copia cartella concorso su secondo supporto o cloud secondario | almeno una copia fuori dal telefono |
-| 12-15 | Decisione | annota una modifica al piano o "nessun cambiamento" | chiusura del ciclo |
+| 12-15 | Decisione | annota una modifica al piano o “nessun cambiamento” | chiusura del ciclo |
 
 Compila la scheda a fine routine:
 
@@ -240,11 +250,13 @@ Compila la scheda a fine routine:
 
 Se salti tre settimane consecutive, il rischio non è solo tecnico. Perdi avvisi, ripeti errori già registrati e studi su un programma non più valido. La routine è piccola, ma separa chi mantiene il controllo da chi rincorre il bando.
 
-Collegamento utile: il Cap. 25 (aggiornamento fonti) spiega *cosa* controllare; questo modulo spiega *come* non perdere il sistema digitale mentre lo fai.
+Collegamento utile: il R1 (aggiornamento fonti) spiega *cosa* controllare; questo modulo spiega *come* non perdere il sistema digitale mentre lo fai.
 
 ## Digitale e carta devono parlarsi
 
 ![Figura 28.6 - Digitale e carta devono parlarsi: ogni contenuto essenziale deve essere ritrovabile, verificabile, esportabile e allenabile.](../assets/chapter-28/06-digitale-carta-output.png)
+
+*Figura 28.6 - Digitale e carta devono parlarsi: ogni contenuto essenziale deve essere ritrovabile, verificabile, esportabile e allenabile.*
 
 Il libro resta completo anche senza sito, app o piattaforma. Per questo ogni strumento digitale deve avere una versione minima cartacea o esportabile.
 
@@ -271,13 +283,15 @@ Prima di aggiungere un nuovo strumento, compila questa tabella.
 | AI/chat | trasformare materiale in output | fidarsi senza verifica | usare con protocollo |
 | Gruppi/social | segnalazioni e confronto | ansia, voci, informazioni non verificate | controllare sempre fonte |
 
-La colonna più importante è "Decisione". Ogni strumento deve essere confermato, ridotto o eliminato.
+La colonna più importante è “Decisione”. Ogni strumento deve essere confermato, ridotto o eliminato.
 
 ## Caso guidato
 
 ![Figura 28.7 - Caso Luca: da strumenti dispersi a sistema unico in cinque cartelle.](../assets/chapter-28/07-caso-luca-riordino-digitale.png)
 
-Luca prepara un concorso amministrativo. Ha salvato il bando sul desktop, alcune lezioni in una cartella cloud, una tabella sul telefono, un piano in un'app, flashcard in un'altra app e risposte orali dentro una chat. Dopo dieci giorni non sa più quale programma sia aggiornato.
+*Figura 28.7 - Caso Luca: da strumenti dispersi a sistema unico in cinque cartelle.*
+
+Luca prepara un concorso amministrativo. Ha salvato il bando sul desktop, alcune lezioni in una cartella cloud, una tabella sul telefono, un piano in un’app, flashcard in un’altra app e risposte orali dentro una chat. Dopo dieci giorni non sa più quale programma sia aggiornato.
 
 Applica il Metodo BANDO:
 
@@ -288,15 +302,15 @@ Applica il Metodo BANDO:
 5. mette quiz e risposte in `04-output`;
 6. trasforma gli errori in `05-diario-errori`;
 7. elimina duplicati e app non necessarie;
-8. usa l'AI solo per generare domande da verificare.
+8. usa l’AI solo per generare domande da verificare.
 
-Dopo un'ora Luca non ha studiato nuove pagine, ma ha recuperato controllo. Il giorno dopo studia meglio perché sa dove si trova ogni decisione.
+Dopo un’ora Luca non ha studiato nuove pagine, ma ha recuperato controllo. Il giorno dopo studia meglio perché sa dove si trova ogni decisione.
 
 ## Da sapere in 5 righe
 
 1. Il digitale accelera il Metodo BANDO, ma non lo sostituisce.
 2. Ogni strumento deve avere una funzione chiara: catturare, decidere, pianificare, ricordare, allenare, correggere o archiviare.
-3. L'AI trasforma materiale già verificato in esercizi; non decide requisiti, scadenze o prove.
+3. L’AI trasforma materiale già verificato in esercizi; non decide requisiti, scadenze o prove.
 4. Portale concorsi, sito ente, PEC/SPID e ricevute vanno conservati in `01-bando-fonti`.
 5. La routine settimanale da 15 minuti (fonti, export, backup, decisione) evita di studiare sul sistema sbagliato.
 
@@ -304,7 +318,7 @@ Dopo un'ora Luca non ha studiato nuove pagine, ma ha recuperato controllo. Il gi
 
 **Domanda:** Come può un candidato usare strumenti digitali e AI nella preparazione di un concorso pubblico senza perdere affidabilità?
 
-**Risposta efficace:** deve distinguere fonte, strumento e output. La fonte ufficiale resta bando, avviso, portale o sito istituzionale. Lo strumento digitale serve a organizzare, ricordare, confrontare e trasformare il materiale. L'AI può aiutare a creare domande, schemi, simulazioni e checklist, ma ogni informazione rilevante va verificata con la fonte. Il candidato deve mantenere un archivio ordinato, pochi strumenti stabili e output datati: quiz, casi, risposte orali, diario errori e schede di ripasso.
+**Risposta efficace:** deve distinguere fonte, strumento e output. La fonte ufficiale resta bando, avviso, portale o sito istituzionale. Lo strumento digitale serve a organizzare, ricordare, confrontare e trasformare il materiale. L’AI può aiutare a creare domande, schemi, simulazioni e checklist, ma ogni informazione rilevante va verificata con la fonte. Il candidato deve mantenere un archivio ordinato, pochi strumenti stabili e output datati: quiz, casi, risposte orali, diario errori e schede di ripasso.
 
 ## Domanda-trappola
 
@@ -314,19 +328,19 @@ Dopo un'ora Luca non ha studiato nuove pagine, ma ha recuperato controllo. Il gi
 
 ## Errore tipico
 
-L'errore tipico è cercare lo strumento perfetto.
+L’errore tipico è cercare lo strumento perfetto.
 
 Il candidato passa giorni a scegliere app, template, colori, cartelle e automazioni. Intanto non produce quiz corretti, risposte orali, casi o simulazioni.
 
 Il digitale deve ridurre attrito, non creare un nuovo progetto.
 
-La domanda corretta non è: "qual è l'app migliore?".
+La domanda corretta non è: “qual è l’app migliore?”.
 
-La domanda corretta è: "Quale output mi aiuta a produrre questa app entro questa settimana?".
+La domanda corretta è: “Quale output mi aiuta a produrre questa app entro questa settimana?”.
 
 ## Mini-esercizio
 
-Fai l'audit del tuo sistema digitale.
+Fai l’audit del tuo sistema digitale.
 
 | Domanda | Risposta |
 |---|---|
@@ -375,12 +389,3 @@ Se la risposta è negativa a tre voci, non aggiungere lo strumento.
 - [[topics/diario-errori]]
 - [[topics/capitale-studio-riutilizzabile]]
 - [[topics/aggiornamento-fonti-concorsi]]
-
-## Note di review
-
-- Modulo ricettario R4: draft professionale completo con scheda settimanale backup/esportazione/verifica fonti (prevista in [[sources/strumenti-digitali-metodo-bando]]).
-- La struttura madre originaria non prevedeva il Capitolo 28. In impaginazione finale decidere se mantenerlo numerato nel ricettario digitale o come bonus collegato.
-- Il capitolo non deve essere letto come sostituzione digitale del libro-workbook. La promessa resta: il metodo funziona anche su carta.
-- Eventuali esempi di app, AI o piattaforme specifiche vanno verificati alla pubblicazione per evitare riferimenti obsoleti.
-- Valutare figura 28.8 dedicata alla scheda settimanale 15 minuti in un ciclo asset successivo.
-- Pass humanizer editoriale consigliato prima della stampa definitiva.

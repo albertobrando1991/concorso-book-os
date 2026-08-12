@@ -26,7 +26,7 @@ Un candidato che prepara concorsi pubblici senza distinguere le famiglie concors
 
 Il primo errore è trattare tutti i concorsi allo stesso modo: stesso diritto amministrativo, stessa contabilità, stessi quiz, stesso orale. Così si perde la parte specifica del profilo e si arriva alla prova con una preparazione generica.
 
-L'errore opposto è pensare che ogni concorso sia completamente diverso dagli altri. Si ricomincia da zero, si comprano nuovi manuali, si moltiplicano i materiali e si disperde il capitale di studio già costruito.
+L’errore opposto è pensare che ogni concorso sia completamente diverso dagli altri. Si ricomincia da zero, si comprano nuovi manuali, si moltiplicano i materiali e si disperde il capitale di studio già costruito.
 
 La logica corretta sta in mezzo:
 
@@ -35,6 +35,8 @@ La logica corretta sta in mezzo:
 Questo capitolo costruisce una mappa di orientamento. Non sostituisce il bando né classifica ogni procedura possibile; ti aiuta a riconoscere il terreno su cui stai giocando.
 
 ![Figura 19.1 - Mappa BANDO delle famiglie concorsuali: usare la famiglia per leggere bando, aree, nuclei, diario e output senza saltare il bando.](../assets/chapter-19/01-mappa-bando-famiglie-concorsuali.png)
+
+*Figura 19.1 - Mappa BANDO delle famiglie concorsuali: usare la famiglia per leggere bando, aree, nuclei, diario e output senza saltare il bando.*
 
 ## Obiettivo del capitolo
 
@@ -63,6 +65,8 @@ La famiglia concorsuale non è una scorciatoia per saltare il bando. È un modo 
 
 ![Figura 19.2 - Due errori da evitare: trattare tutti i concorsi come uguali oppure ricominciare da zero ogni volta.](../assets/chapter-19/02-due-errori-da-evitare.png)
 
+*Figura 19.2 - Due errori da evitare: trattare tutti i concorsi come uguali oppure ricominciare da zero ogni volta.*
+
 ## Che cosa significa famiglia concorsuale
 
 Una famiglia concorsuale è un gruppo di concorsi che tende a condividere:
@@ -75,13 +79,13 @@ Una famiglia concorsuale è un gruppo di concorsi che tende a condividere:
 - lessico amministrativo;
 - errori frequenti dei candidati.
 
-Per esempio, due concorsi possono chiedere entrambi diritto amministrativo. Ma un concorso comunale lo userà spesso per procedimento, accesso, atti dell'ente, competenze di organi e responsabili. Un concorso per agenzia fiscale lo collegherà più facilmente a poteri, procedimenti, accertamento, organizzazione dell'agenzia e disciplina tributaria. Un concorso tecnico lo può chiedere come cornice per autorizzazioni, contratti, responsabilità, gestione documentale e rapporto con cittadini o imprese.
+Per esempio, due concorsi possono chiedere entrambi diritto amministrativo. Ma un concorso comunale lo userà spesso per procedimento, accesso, atti dell’ente, competenze di organi e responsabili. Un concorso per agenzia fiscale lo collegherà più facilmente a poteri, procedimenti, accertamento, organizzazione dell’agenzia e disciplina tributaria. Un concorso tecnico lo può chiedere come cornice per autorizzazioni, contratti, responsabilità, gestione documentale e rapporto con cittadini o imprese.
 
 La materia è la stessa. Il modo in cui rende punteggio cambia.
 
 ## Le quattro domande per riconoscere la famiglia
 
-Quando apri un bando, non partire subito dall'elenco delle materie. Prima rispondi a queste domande.
+Quando apri un bando, non partire subito dall’elenco delle materie. Prima rispondi a queste domande.
 
 | Domanda | perché conta |
 |---|---|
@@ -94,9 +98,11 @@ Solo dopo queste quattro domande il programma ha senso.
 
 ![Figura 19.3 - Quattro domande per riconoscere la famiglia: chi assume, quale profilo, quale funzione e quale prova seleziona davvero.](../assets/chapter-19/03-quattro-domande-famiglia.png)
 
+*Figura 19.3 - Quattro domande per riconoscere la famiglia: chi assume, quale profilo, quale funzione e quale prova seleziona davvero.*
+
 ## Il nucleo comune
 
-Il Metodo BANDO parte da un'idea pratica: una parte della preparazione è riutilizzabile.
+Il Metodo BANDO parte da un’idea pratica: una parte della preparazione è riutilizzabile.
 
 Nei concorsi amministrativi e para-amministrativi ricorrono spesso:
 
@@ -112,9 +118,11 @@ Nei concorsi amministrativi e para-amministrativi ricorrono spesso:
 
 Questo è il capitale comune. Non significa che basti sempre. Significa che, se lo studi bene, non lo perdi quando cambi bando.
 
-Il problema nasce quando il candidato confonde "comune" con "sufficiente". Nei profili fiscali serve il modulo tributario. Nei profili contabili serve il modulo bilancio. Nei profili tecnici serve il modulo tecnico. Nei profili di polizia locale serve il modulo di settore. Il nucleo comune è la base, non l'intera casa.
+Il problema nasce quando il candidato confonde “comune” con “sufficiente”. Nei profili fiscali serve il modulo tributario. Nei profili contabili serve il modulo bilancio. Nei profili tecnici serve il modulo tecnico. Nei profili di polizia locale serve il modulo di settore. Il nucleo comune è la base, non l’intera casa.
 
 ![Figura 19.4 - Nucleo comune e modulo profilo: la base riutilizzabile va completata dal modulo che distingue famiglia, ruolo e prova.](../assets/chapter-19/05-nucleo-comune-modulo-profilo.png)
+
+*Figura 19.4 - Nucleo comune e modulo profilo: la base riutilizzabile va completata dal modulo che distingue famiglia, ruolo e prova.*
 
 ## Famiglia 1 - Amministrativo generale
 
@@ -144,7 +152,7 @@ Rischio principale:
 
 > restare generici.
 
-Il candidato studia molte definizioni ma non sa applicarle a un ufficio. Non basta dire "provvedimento amministrativo": bisogna capire chi lo adotta, come nasce, quali vizi può avere, come si comunica, come si impugna e come si collega al procedimento.
+Il candidato studia molte definizioni ma non sa applicarle a un ufficio. Non basta dire “provvedimento amministrativo”: bisogna capire chi lo adotta, come nasce, quali vizi può avere, come si comunica, come si impugna e come si collega al procedimento.
 
 Strategia:
 
@@ -168,7 +176,7 @@ Profili tipici:
 Materie ricorrenti:
 
 - diritto amministrativo;
-- ordinamento dell'ente;
+- ordinamento dell’ente;
 - contabilità pubblica;
 - bilancio, programmazione, entrate e spese;
 - contratti pubblici essenziali;
@@ -187,11 +195,11 @@ Strategia:
 - non lasciare contabilità alla fine;
 - costruisci una mappa del ciclo entrata-spesa;
 - collega bilancio e atti amministrativi;
-- allena domande pratiche: "quale atto serve?", "chi è competente?", "qual è il vincolo finanziario?".
+- allena domande pratiche: “quale atto serve?”, “chi è competente?”, “qual è il vincolo finanziario?”.
 
 ## Famiglia 3 - Enti locali
 
-I concorsi degli enti locali hanno una caratteristica: sono molto concreti. Il candidato non studia solo la PA in astratto, ma l'ente vicino al cittadino.
+I concorsi degli enti locali hanno una caratteristica: sono molto concreti. Il candidato non studia solo la PA in astratto, ma l’ente vicino al cittadino.
 
 Profili tipici:
 
@@ -218,11 +226,11 @@ Rischio principale:
 
 > non distinguere organi politici e gestione amministrativa.
 
-Nei concorsi comunali, la commissione può chiedere chi decide, chi firma, chi gestisce, chi controlla, chi risponde. La distinzione tra indirizzo politico e gestione non è teoria: è la grammatica dell'ente locale.
+Nei concorsi comunali, la commissione può chiedere chi decide, chi firma, chi gestisce, chi controlla, chi risponde. La distinzione tra indirizzo politico e gestione non è teoria: è la grammatica dell’ente locale.
 
 Strategia:
 
-- studia l'ente come organismo;
+- studia l’ente come organismo;
 - fai schemi organo/funzione/atto;
 - usa casi: accesso agli atti, richiesta del cittadino, impegno di spesa, determinazione, deliberazione, ordinanza;
 - se il profilo è contabile o tecnico, non perdere la base amministrativa.
@@ -245,7 +253,7 @@ Materie ricorrenti:
 - diritto costituzionale e organizzazione dello Stato;
 - diritto amministrativo;
 - pubblico impiego;
-- ordinamento dell'amministrazione specifica;
+- ordinamento dell’amministrazione specifica;
 - trasparenza, anticorruzione, privacy;
 - contratti, contabilità o disciplina settoriale;
 - inglese, informatica e competenze trasversali.
@@ -258,14 +266,14 @@ Il nucleo comune resta valido, ma il contesto cambia. In un ministero contano fu
 
 Strategia:
 
-- dopo il nucleo comune, studia l'ordinamento dell'amministrazione;
+- dopo il nucleo comune, studia l’ordinamento dell’amministrazione;
 - individua parole chiave del settore;
 - prepara risposte che collegano funzione pubblica e servizio concreto;
 - per i concorsi RIPAM o multi-amministrazione, leggi con attenzione profili e codici concorso.
 
 ## Famiglia 5 - Giustizia
 
-I concorsi dell'area giustizia hanno una logica specifica. Anche quando il profilo non è magistratuale, l'ambiente di lavoro è fatto di uffici giudiziari, cancellerie, procedure, atti, notifiche, fascicoli, servizi di supporto e organizzazione.
+I concorsi dell’area giustizia hanno una logica specifica. Anche quando il profilo non è magistratuale, l’ambiente di lavoro è fatto di uffici giudiziari, cancellerie, procedure, atti, notifiche, fascicoli, servizi di supporto e organizzazione.
 
 Profili tipici:
 
@@ -278,7 +286,7 @@ Profili tipici:
 Materie ricorrenti:
 
 - diritto amministrativo e pubblico impiego;
-- ordinamento giudiziario o dell'amministrazione della giustizia;
+- ordinamento giudiziario o dell’amministrazione della giustizia;
 - elementi di procedura civile o penale, se previsti;
 - servizi di cancelleria e gestione documentale;
 - informatica e strumenti digitali;
@@ -286,7 +294,7 @@ Materie ricorrenti:
 
 Rischio principale:
 
-> ignorare il contesto dell'ufficio giudiziario.
+> ignorare il contesto dell’ufficio giudiziario.
 
 Non serve trasformare il libro base in un manuale di procedura civile o penale, ma il candidato deve capire che il profilo giustizia ha un lessico proprio.
 
@@ -295,7 +303,7 @@ Strategia:
 - parti dal programma del bando;
 - separa materie amministrative da materie processuali;
 - non studiare procedura avanzata se il bando chiede solo elementi;
-- prepara esempi di ufficio: fascicolo, comunicazione, scadenza, servizio all'utenza, riservatezza.
+- prepara esempi di ufficio: fascicolo, comunicazione, scadenza, servizio all’utenza, riservatezza.
 
 ## Famiglia 6 - Agenzie fiscali
 
@@ -315,7 +323,7 @@ Materie ricorrenti:
 - diritto civile o commerciale, se previsto;
 - contabilità aziendale o economia, se prevista;
 - diritto amministrativo;
-- organizzazione dell'agenzia;
+- organizzazione dell’agenzia;
 - procedure, controlli, accertamento, servizi al contribuente;
 - catasto, estimo o materie tecniche per profili tecnici.
 
@@ -388,7 +396,7 @@ Materie ricorrenti:
 - contratti pubblici;
 - sicurezza, responsabilità, controlli;
 - elementi di PA digitale;
-- ordinamento dell'ente.
+- ordinamento dell’ente.
 
 Rischio principale:
 
@@ -401,7 +409,7 @@ Strategia:
 - non separare tecnica e amministrazione;
 - studia casi: permesso, autorizzazione, affidamento, manutenzione, verifica, sopralluogo;
 - prepara lessico amministrativo minimo;
-- se c'è prova pratica, simula elaborati o relazioni.
+- se c’è prova pratica, simula elaborati o relazioni.
 
 ## Famiglia 9 - ICT e digitale
 
@@ -431,7 +439,7 @@ Rischio principale:
 
 > preparare informatica come materia scolastica e ignorare la PA digitale.
 
-La domanda concorsuale può non chiedere solo "che cos'è un database", ma come si gestiscono dati, accessi, documenti, sicurezza e servizi in un'amministrazione.
+La domanda concorsuale può non chiedere solo “che cos’è un database”, ma come si gestiscono dati, accessi, documenti, sicurezza e servizi in un’amministrazione.
 
 Strategia:
 
@@ -442,7 +450,7 @@ Strategia:
 
 ## Famiglia 10 - Polizia locale
 
-La polizia locale è una famiglia autonoma dentro l'universo degli enti locali. Ha contatto diretto con cittadini, territorio, sicurezza, circolazione, sanzioni e regolamenti.
+La polizia locale è una famiglia autonoma dentro l’universo degli enti locali. Ha contatto diretto con cittadini, territorio, sicurezza, circolazione, sanzioni e regolamenti.
 
 Profili tipici:
 
@@ -466,7 +474,7 @@ Rischio principale:
 
 > trattare la polizia locale come un profilo amministrativo qualunque.
 
-Il nucleo comune serve, ma il modulo di settore è forte. Nel libro base si indicano le priorità; l'approfondimento dettagliato del codice della strada resta modulo specialistico.
+Il nucleo comune serve, ma il modulo di settore è forte. Nel libro base si indicano le priorità; l’approfondimento dettagliato del codice della strada resta modulo specialistico.
 
 Strategia:
 
@@ -484,7 +492,7 @@ Profili tipici:
 - collaboratore amministrativo professionale;
 - assistente amministrativo;
 - funzionario amministrativo;
-- addetto a segreteria, personale, gare, contabilità, servizi all'utenza.
+- addetto a segreteria, personale, gare, contabilità, servizi all’utenza.
 
 Materie ricorrenti:
 
@@ -500,7 +508,7 @@ Rischio principale:
 
 > sottovalutare privacy, organizzazione e lessico sanitario.
 
-In sanità, il rapporto con dati personali e dati particolari è delicato. Il candidato deve evitare risposte approssimative su documenti, accesso e informazioni all'utente.
+In sanità, il rapporto con dati personali e dati particolari è delicato. Il candidato deve evitare risposte approssimative su documenti, accesso e informazioni all’utente.
 
 Strategia:
 
@@ -533,7 +541,7 @@ Materie ricorrenti:
 
 Rischio principale:
 
-> studiare solo amministrativo generale e ignorare l'ordinamento del settore.
+> studiare solo amministrativo generale e ignorare l’ordinamento del settore.
 
 Strategia:
 
@@ -557,7 +565,7 @@ Profili tipici:
 
 Materie ricorrenti:
 
-- diritto amministrativo e ordinamento dell'ente;
+- diritto amministrativo e ordinamento dell’ente;
 - disciplina di settore;
 - servizi pubblici;
 - privacy e comunicazione;
@@ -648,6 +656,8 @@ Strategia:
 
 ![Figura 19.5 - Atlante operativo delle famiglie concorsuali: raggruppare i concorsi per contesto, rischio e modulo da aggiungere.](../assets/chapter-19/04-atlante-famiglie-concorsuali.png)
 
+*Figura 19.5 - Atlante operativo delle famiglie concorsuali: raggruppare i concorsi per contesto, rischio e modulo da aggiungere.*
+
 ## La matrice comune-specialistico
 
 Per ogni famiglia devi costruire una matrice semplice.
@@ -667,10 +677,10 @@ Questa matrice impedisce allo studio di diventare una raccolta disordinata di ma
 Un candidato trova tre bandi aperti:
 
 - istruttore amministrativo-contabile in un comune;
-- funzionario giuridico-tributario in un'agenzia fiscale;
-- assistente amministrativo in un'università.
+- funzionario giuridico-tributario in un’agenzia fiscale;
+- assistente amministrativo in un’università.
 
-Il programma contiene in tutti e tre diritto amministrativo, pubblico impiego, inglese e informatica. Il candidato pensa: "Preparo un blocco unico e poi faccio quiz".
+Il programma contiene in tutti e tre diritto amministrativo, pubblico impiego, inglese e informatica. Il candidato pensa: “Preparo un blocco unico e poi faccio quiz”.
 
 Il ragionamento è incompleto.
 
@@ -690,13 +700,15 @@ La scelta corretta è:
 
 ![Figura 19.6 - Caso guidato dei tre bandi: stesso nucleo comune, ma moduli diversi per comune contabile, agenzia fiscale e università.](../assets/chapter-19/06-caso-guidato-tre-bandi.png)
 
+*Figura 19.6 - Caso guidato dei tre bandi: stesso nucleo comune, ma moduli diversi per comune contabile, agenzia fiscale e università.*
+
 ## Domanda da commissario
 
 > perché un candidato non dovrebbe studiare allo stesso modo un concorso comunale, uno ministeriale e uno per agenzia fiscale, anche se alcune materie sono identiche?
 
 Risposta modello:
 
-Le materie comuni consentono di riutilizzare parte della preparazione, ma il profilo cambia contesto, priorità e prestazione richiesta. Nel concorso comunale il diritto amministrativo si collega spesso a organi, atti, servizi, procedimento e bilancio locale. Nel concorso ministeriale si collega all'organizzazione centrale e alla funzione dell'amministrazione. Nell'agenzia fiscale il modulo tributario può diventare determinante. Il bando resta la fonte decisiva per distribuire tempo e scegliere gli output di allenamento.
+Le materie comuni consentono di riutilizzare parte della preparazione, ma il profilo cambia contesto, priorità e prestazione richiesta. Nel concorso comunale il diritto amministrativo si collega spesso a organi, atti, servizi, procedimento e bilancio locale. Nel concorso ministeriale si collega all’organizzazione centrale e alla funzione dell’amministrazione. Nell’agenzia fiscale il modulo tributario può diventare determinante. Il bando resta la fonte decisiva per distribuire tempo e scegliere gli output di allenamento.
 
 ## Domanda-trappola
 
@@ -706,9 +718,9 @@ No. Puoi riutilizzare una parte del piano, ma devi verificare profilo, amministr
 
 ## Errore tipico
 
-L'errore tipico è scegliere il manuale prima della famiglia.
+L’errore tipico è scegliere il manuale prima della famiglia.
 
-Il candidato compra "il manuale per concorsi pubblici", lo studia in ordine e poi scopre che il proprio bando richiede una materia specialistica pesante. A quel punto non ha tempo per costruire modulo, quiz, casi e ripasso.
+Il candidato compra “il manuale per concorsi pubblici”, lo studia in ordine e poi scopre che il proprio bando richiede una materia specialistica pesante. A quel punto non ha tempo per costruire modulo, quiz, casi e ripasso.
 
 Correzione:
 
@@ -719,6 +731,8 @@ Correzione:
 - poi piano.
 
 ![Figura 19.7 - Sequenza operativa dalla famiglia al piano: famiglia, profilo, programma, materiali e simulazioni coerenti.](../assets/chapter-19/07-sequenza-famiglia-piano.png)
+
+*Figura 19.7 - Sequenza operativa dalla famiglia al piano: famiglia, profilo, programma, materiali e simulazioni coerenti.*
 
 ## Mini-esercizio
 
@@ -741,7 +755,7 @@ Se non sai compilare una riga, non hai ancora decodificato il bando.
 
 ## Da sapere in 5 righe
 
-Una famiglia concorsuale è una mappa pratica, non una categoria ufficiale rigida. Serve a capire che cosa puoi riutilizzare e che cosa devi adattare. Il nucleo comune riduce la dispersione, ma il modulo di profilo decide spesso il risultato. Il bando resta sempre la fonte principale. Un candidato strategico non studia "per concorsi": studia per famiglia, profilo e prova.
+Una famiglia concorsuale è una mappa pratica, non una categoria ufficiale rigida. Serve a capire che cosa puoi riutilizzare e che cosa devi adattare. Il nucleo comune riduce la dispersione, ma il modulo di profilo decide spesso il risultato. Il bando resta sempre la fonte principale. Un candidato strategico non studia “per concorsi”: studia per famiglia, profilo e prova.
 
 ## Fonti consolidate
 
@@ -754,9 +768,3 @@ Una famiglia concorsuale è una mappa pratica, non una categoria ufficiale rigid
 - [[topics/famiglie-concorsuali]]
 - [[topics/moduli-profilo]]
 - [[topics/nucleo-comune-concorsi-pubblici]]
-
-## Note di review
-
-- Le famiglie sono categorie operative del Metodo BANDO, non classificazioni ufficiali esaustive.
-- Per profili specialistici avanzati servono moduli dedicati: tributario, codice della strada, sanità, scuola/università, fondi UE, dirigenza e carriere speciali.
-- Prima della pubblicazione finale verificare la persistenza dei link dei bandi inPA usati come esempi rappresentativi.
