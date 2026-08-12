@@ -2,7 +2,7 @@
 id: planning-m-fc03-enti-non-economici-piano-editoriale
 type: editorial_plan
 title: "Piano editoriale - M-FC03 Enti pubblici non economici"
-status: revised_draft
+status: text_frozen
 domain: "concorsi pubblici italiani"
 topics: ["moduli specialistici","funzioni centrali","enti pubblici non economici","metodo bando"]
 entities: ["Metodo BANDO","INPS","INAIL","ACI","ENAC","ISTAT","ASI","ENEA","CONI","CRI"]
@@ -14,16 +14,16 @@ source_refs: [
 ]
 book_refs: ["m-fc03-enti-non-economici","il-metodo-bando"]
 confidence: 0.84
-updated_at: 2026-07-02T19:15:00+02:00
+updated_at: 2026-08-12T12:00:00+02:00
 created_at: 2026-07-02T19:15:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["editorial-plan","specialist-module-plan","module-code-m-fc03"]
 book_id: m-fc03-enti-non-economici
 module_code: M-FC03
 module_family: funzioni-centrali
 companion_to: il-metodo-bando
-draft_stage: step-14-corrected
+draft_stage: text-frozen
 last_compiled_from: [
   "C:/Users/aless/OneDrive/Desktop/Modulo M-FC03 \u2013 Enti Pubblici Non E.txt",
   "wiki/books/moduli/architettura-moduli-specialistici.md",
@@ -130,10 +130,10 @@ Target indicativo: circa 30.000 parole, piu appendici operative. Ogni capitolo d
 - Agenzie fiscali passano a M-FC02.
 - Authority indipendenti passano a M-FC05.
 
-## Controlli per audit specialistico e text freeze
+## Controlli consolidati per audit specialistico e text freeze
 
-- Allo step 15 verificare pagine INPS/INAIL aggiornate su prestazioni, servizi e regolamenti.
-- Allo step 15 verificare PIAO, bilanci e sezioni amministrazione trasparente dell'anno in corso.
-- Per i bandi specifici controllare bando, allegati e avvisi ufficiali su inPA, Formez o portale ente.
-- Trattare ogni dato numerico su posti, scadenze, calendari o prove come instabile e verificarlo al cut-off editoriale.
-- Verificare le fonti normative e professionali dell'Appendice F prima del text freeze.
+- Lo step 15 ha verificato il quadro INPS/INAIL, le fonti normative e professionali dell'Appendice F e i dati mobili usati come esempi.
+- PIAO, bilanci, assetti organizzativi, servizi e regolamenti correnti restano dati da ricontrollare quando una futura edizione li citi puntualmente.
+- Per ogni nuovo bando restano vincolanti bando, allegati e avvisi ufficiali su inPA, Formez o portale dell'ente.
+- Posti, scadenze, calendari, soglie e prove restano dati instabili: il testo congelato non li trasferisce automaticamente a procedure diverse.
+- Ogni modifica sostanziale successiva al freeze riapre i gate 10-15.

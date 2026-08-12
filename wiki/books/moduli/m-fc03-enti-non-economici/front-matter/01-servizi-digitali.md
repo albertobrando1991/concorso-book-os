@@ -2,22 +2,22 @@
 id: frontmatter-m-fc03-servizi-digitali
 type: front_matter
 title: "Servizi digitali inclusi"
-status: revised_draft
+status: text_frozen
 domain: "concorsi pubblici italiani"
 topics: ["servizi digitali","moduli specialistici","enti pubblici non economici","metodo bando"]
 entities: ["Capitale Personale","Metodo BANDO"]
 source_refs: ["sources/metodo-bando-progetto-editoriale.md","sources/struttura-madre-il-metodo-bando.md","sources/m-fc03-dossier-redazionale-enti-pubblici-non-economici.md"]
 book_refs: ["m-fc03-enti-non-economici","il-metodo-bando"]
 confidence: 0.82
-updated_at: 2026-07-01T20:15:00+02:00
+updated_at: 2026-08-12T12:00:00+02:00
 created_at: 2026-07-01T20:15:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["front-matter","digital-services","module-code-m-fc03"]
 book_id: m-fc03-enti-non-economici
 outline_section: "FM1"
 front_matter_layout: digital-services
-draft_stage: step-14-corrected
+draft_stage: text-frozen
 module_code: M-FC03
 module_family: funzioni-centrali
 last_compiled_from: ["wiki/books/il-metodo-bando/front-matter/01-servizi-digitali.md","wiki/books/moduli/m-fc03-enti-non-economici/index.md"]

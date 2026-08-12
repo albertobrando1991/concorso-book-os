@@ -3,7 +3,7 @@
   "specPath": "books/volumi/vol-03-fisco-dogane-previdenza-ispettivo/planning/00-scheda-pipeline.md",
   "specHash": "sha256:7a5be32028a6026f42eac9b7a221a5879330c694249c48b679a9f6ab5999df16",
   "createdAt": "2026-07-27T20:05:30.039Z",
-  "updatedAt": "2026-08-12T09:12:31.923Z",
+  "updatedAt": "2026-08-12T09:19:18.853Z",
   "steps": [
     {
       "key": "08:moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md",
@@ -6687,9 +6687,32 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-fc03-enti-non-economici",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-12T09:15:55.612Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"text-freeze\" dello step 16 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fc03-enti-non-economici"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di aless: Text freeze verificato manualmente: 19/19 capitoli presenti e auditati, 114 nuclei completi, fonti e rinvii risolti, indice coerente, manifest SHA-256 di 30 file, typecheck e 286 test pipeline superati."
+          }
+        ],
+        "notImplemented": [
+          "text-freeze"
+        ]
+      },
+      "finishedAt": "2026-08-12T09:19:18.853Z"
     },
     {
       "key": "21:VOL-03",

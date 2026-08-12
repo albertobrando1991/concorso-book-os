@@ -2,7 +2,7 @@
 id: m-fc03-enti-non-economici
 type: specialist_module
 title: "M-FC03 - Enti pubblici non economici"
-status: revised_draft
+status: text_frozen
 domain: "concorsi pubblici italiani"
 topics: ["moduli specialistici","funzioni-centrali","metodo bando"]
 entities: ["Metodo BANDO","Capitale Personale"]
@@ -16,19 +16,19 @@ source_refs: [
 ]
 book_refs: ["il-metodo-bando","moduli-specialistici"]
 confidence: 0.84
-updated_at: 2026-07-02T21:20:00+02:00
+updated_at: 2026-08-12T12:00:00+02:00
 created_at: 2026-06-27T19:56:28+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["specialist-module","module-family-funzioni-centrali","module-code-m-fc03","revised-draft"]
 book_id: m-fc03-enti-non-economici
 module_code: M-FC03
 module_family: funzioni-centrali
 module_family_title: "Funzioni Centrali"
-module_status: revised_draft
+module_status: text_frozen
 roadmap_phase: "1"
 companion_to: il-metodo-bando
-draft_stage: step-14-corrected
+draft_stage: text-frozen
 last_compiled_from: [
   "wiki/books/moduli/architettura-moduli-specialistici.md",
   "wiki/books/moduli/m-fc03-enti-non-economici/planning/00-piano-editoriale.md",
@@ -47,7 +47,7 @@ Modulo specialistico collegato a [[books/il-metodo-bando/index|Il Metodo BANDO]]
 - Codice modulo: M-FC03
 - Copertura: INPS, INAIL, ACI, ENAC, ISTAT, ASI, ENEA amministrativo, CONI, CRI e altri EPNE compatibili con profili amministrativi, giuridici, economici, contabili, servizi e vigilanza non tecnica.
 - Fase roadmap: 1
-- Stato: revisione trasversale conclusa; correzioni editoriali dello step 14 applicate; audit specialistico automatico e text freeze ancora aperti.
+- Stato: audit specialistico concluso e testo congelato allo step 16.
 
 ## Confine editoriale
 Il modulo non sostituisce il libro principale. Parte dal nucleo comune del Metodo BANDO e aggiunge profili, prove, materie specialistiche, rischi, fonti e casi tipici della famiglia.
@@ -95,5 +95,5 @@ Non deve promettere copertura totale di ogni bando o aggiornamento normativo aut
 - Carte dei servizi, regolamenti accesso/URP e pagine prestazioni prima dei capitoli 3-5.
 - PIAO e bilanci annuali degli enti diversi da INAIL se diventano esempi nel testo.
 
-## Prossimo passo
-Eseguire l'audit specialistico automatico dello step 15 sulle norme, sugli assetti degli enti e sui dati mobili; quindi procedere al text freeze senza anticipare la conferma umana conclusiva dello step 24.
+## Stato successivo al freeze
+Da questo momento sono ammesse soltanto correzioni controllate e tracciate. Ogni modifica sostanziale a teoria, fonti, casi, quiz, struttura o perimetro riapre i gate 10-15 prima di un nuovo text freeze. La conferma umana resta riservata allo step 24.
