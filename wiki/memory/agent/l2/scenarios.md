@@ -5083,3 +5083,11 @@
 - l0: l0/conv-20260812163625-1temlpb.md
 - atoms:
   - mem-20260812163625-beisx7 | result | Esito pipeline-step-23: Procedi con il prossimo step di VOL-08. -> Step 23 completato: candidato di 9 file, manifest SHA-256 8/8, fetch remoto verificato senza merge distruttivo, 95 test e build verdi; step 24 umano ancora pendente.
+
+## 2026-08-12T16:40:03.854Z - VOL-08
+
+- conversation_id: conv-20260812164003-xuh5cy
+- route: pipeline-step-24
+- l0: l0/conv-20260812164003-xuh5cy.md
+- atoms:
+  - mem-20260812164003-a0v242 | result | Esito pipeline-step-24: Confermato -> Conferma umana finale registrata il 12 agosto 2026 per VOL-08-candidate-2026.08.12.1; pipeline completata, autorizzazione alla pubblicazione controllata, nessun upload esterno.
