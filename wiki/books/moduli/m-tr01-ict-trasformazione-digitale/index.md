@@ -2,26 +2,26 @@
 id: m-tr01-ict-trasformazione-digitale
 type: specialist_module
 title: "M-TR01 - ICT e trasformazione digitale"
-status: text_frozen
+status: editorial-review
 domain: "concorsi pubblici italiani"
 topics: ["ict", "trasformazione digitale", "cybersecurity", "dati", "intelligenza artificiale", "metodo bando"]
 entities: ["Metodo BANDO", "AgID", "Agenzia per la cybersicurezza nazionale"]
 source_refs: ["sources/modulo-m-tr01-ict-digitale-cybersecurity-dati-vol-08", "sources/campione-bandi-ict-pa-vol-08-2024-2026", "sources/logica-volumi-copertura-concorsobook-v4"]
 book_refs: ["il-metodo-bando", "vol-08-ict-digitale-cybersecurity-dati"]
 confidence: 0.9
-updated_at: 2026-08-05
+updated_at: 2026-08-12
 created_at: 2026-06-27T19:56:28+02:00
-review_required: false
+review_required: true
 canonical: true
-tags: ["specialist-module", "module-family-trasversali", "module-code-m-tr01", "reviewed-draft"]
+tags: ["specialist-module", "module-family-trasversali", "module-code-m-tr01", "editorial-review"]
 book_id: m-tr01-ict-trasformazione-digitale
 module_code: M-TR01
 module_family: trasversali
 module_family_title: "Trasversali"
-module_status: text_frozen
+module_status: editorial-review
 roadmap_phase: "2"
 companion_to: il-metodo-bando
-draft_stage: cross-reviewed
+draft_stage: module-review
 last_compiled_from: ["wiki/books/volumi/vol-08-ict-digitale-cybersecurity-dati/planning/01-indice-completo.md", "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/planning/02-matrice-copertura-didattica.md"]
 ---
 
