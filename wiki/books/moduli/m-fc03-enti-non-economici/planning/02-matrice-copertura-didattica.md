@@ -642,3 +642,46 @@ I sei nuclei presentano teoria autonoma, applicazione e verifica e superano la s
 ## Esito Appendice D
 
 I sei nuclei presentano teoria autonoma, applicazione e verifica e superano la soglia dimensionale. Tabelle, registri, casi, esercizio, rubrica e quiz applicano concetti gia spiegati e non li sostituiscono. Non risultano dimensioni vuote, dipendenze da materiali interni, rinvii generici o dati operativi non tracciati; i dati della singola procedura restano subordinati agli atti ufficiali vigenti e all'audit specialistico dello step 15.
+
+## Assegnazione pipeline - Appendice E
+
+| Famiglia/profilo | Materia | Concetto/sotto-concetti | Frequenza/peso | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa | Destinazione rinvio |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| M-FC03/tutti | Rinvii ragionati ad altri moduli | Perimetro, materia dominante, appendici interne, ricerca, ICT, tecnica, appalti, fiscalità, authority, sanità e carriere speciali | alta per profili di confine | [[sources/m-fc03-dossier-redazionale-enti-pubblici-non-economici]]; [[sources/m-fc03-fonti-ufficiali-enti-epne-2026]]; [[books/moduli/architettura-moduli-specialistici]] | cap. appendice-e-rinvii-ragionati-altri-moduli | Sei nuclei autonomi per scegliere fra M-FC03 principale, contesto, appendice e cambio di famiglia | Tabelle, test di sostituibilità, scheda, casi, mini-esercizio e rubrica | Analisi bando, quiz, orale, caso e workbook | Q:6 C:2 E:1 - Quiz 1-6, casi Marta e profili A/B, Verifica | completo | Verificare programma e atti della singola procedura | M-IR03, M-TR01, M-TR03, M-TR02, M-FC02, M-FC05, M-SA01/02/04 e M-SP01/02/04 secondo profilo dominante |
+
+## Appendice E - overlay Format 2
+
+| Nucleo ID | Famiglia/profilo | Materia | Concetto/sotto-concetti | Fonti consolidate | Copertura teorica | Applicazione | Output | Verifica | Stato | Destinazione rinvio |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FC03-18-01 | tutti | Perimetro | Ente, profilo, prove, materia dominante e tre esiti | [[sources/m-fc03-dossier-redazionale-enti-pubblici-non-economici]] | Definisce materia dominante e gerarchia dei quattro fattori | Formula, Mappa BANDO ed esempio amministrativo | Quiz, orale, analisi e scheda | Q:1 C:1 E:1 - Quiz 1 ed esempio | completo | Rinvio determinato dalla materia dominante |
+| N-FC03-18-02 | amministrativi EPNE | Modulo e appendici | Perimetro M-FC03, competenza trasversale, lente interna e cambio di famiglia | [[sources/m-fc03-dossier-redazionale-enti-pubblici-non-economici]] | Spiega criteri, tre controlli e soglia del rinvio | Tabella dei segnali ed esempi ASI, ENEA e INAIL | Quiz, orale, analisi e piano | Q:1 C:1 E:1 - Quiz 2 ed esempi | completo | Appendici A-D/F oppure famiglia dominante |
+| N-FC03-18-03 | ricerca, ICT e tecnici | Confini professionali | Attività, competenze, prova e prodotto di ricerca, ICT e ingegneria | [[books/moduli/architettura-moduli-specialistici]] | Distingue i tre baricentri e i criteri dei casi ibridi | Matrice a quattro colonne ed esempi tecnologo/ingegnere | Quiz, orale, caso e piano | Q:1 C:1 E:1 - Quiz 3 e caso ENEA | completo | M-IR03, M-TR01 o M-TR03 |
+| N-FC03-18-04 | procurement, fisco, authority | Confini di famiglia | Profondità, output, poteri, settore e tre funzioni della materia | [[books/moduli/architettura-moduli-specialistici]]; [[sources/m-fc03-dossier-redazionale-enti-pubblici-non-economici]] | Distingue contratti ordinari, procurement, fiscalità e regolazione | Esempio ENAC e classificazione comune-contestuale-dominante | Quiz, orale, caso e piano | Q:1 C:1 E:1 - Quiz 4 ed esempio | completo | M-TR02, M-FC02 o M-FC05 |
+| N-FC03-18-05 | sanitario, sociale e speciale | Confini professionali | Amministrazione sanitaria, professione, tecnica della prevenzione e carriere | [[books/moduli/architettura-moduli-specialistici]]; [[sources/m-fc03-fonti-ufficiali-enti-epne-2026]] | Spiega requisiti, attività e test di sostituibilità | Caso professionista INAIL e scomposizione del programma | Quiz, orale, caso e piano | Q:1 C:1 E:1 - Quiz 5 e caso INAIL | completo | M-SA01/02/04 o M-SP01/02/04 |
+| N-FC03-18-06 | tutti | Laboratorio | Scheda, motivazione, casi, errore di inerzia, esercizio e rubrica | [[sources/m-fc03-portali-bandi-concorsi-2023-2026]]; [[books/moduli/architettura-moduli-specialistici]] | Integra i criteri in una decisione documentata | Scheda, casi Marta e profili A/B, mini-esercizio e rubrica | Quiz, orale, caso e workbook | Q:1 C:2 E:1 - Quiz 6, casi e Verifica | completo | Destinazione precisa scelta dal profilo dominante |
+
+## Checklist dimensionale - Appendice E
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso prova | Errore | Verifica | Fonti | Tracciabilita |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FC03-18-01 | ✓ materia dominante e modulo corretto | ✓ decidere il perimetro | ✓ bandi EPNE e profili misti | ✓ ente, profilo, prove, materie | ✓ principale/contesto/cambio | ✓ gerarchia dello studio | ✓ profilo amministrativo in ente di ricerca | ✓ quiz, orale, analisi | ✓ indizio isolato dominante | ✓ Quiz 1 | ✓ fonti in riga | ✓ frontmatter e corpo leggibile |
+| N-FC03-18-02 | ✓ profilo amministrativo EPNE | ✓ scegliere modulo o lente | ✓ funzioni tipiche M-FC03 | ✓ tre controlli e segnali | ✓ trasversale/specialistico | ✓ profondità proporzionata | ✓ ASI, ENEA e INAIL | ✓ quiz, orale, piano | ✓ presenza uguale centralità | ✓ Quiz 2 | ✓ fonti in riga | ✓ frontmatter e riferimenti leggibili |
+| N-FC03-18-03 | ✓ tre baricentri professionali | ✓ instradare il profilo | ✓ enti scientifici e tecnici | ✓ attività, competenze, prova, prodotto | ✓ ricerca/ICT/ingegneria | ✓ modulo professionale principale | ✓ tecnologo e impianti ENEA | ✓ quiz, orale, caso | ✓ titolo o ente usati da soli | ✓ Quiz 3 | ✓ fonti in riga | ✓ frontmatter e rinvii leggibili |
+| N-FC03-18-04 | ✓ tre soglie di rinvio | ✓ separare raccordo e specializzazione | ✓ EPNE, fisco e authority | ✓ profondità, output, poteri, settore | ✓ ordinario/procurement/fisco/regolazione | ✓ tempo sulla materia dominante | ✓ ENAC e vigilanza | ✓ quiz, orale, caso | ✓ enti nazionali stessa famiglia | ✓ Quiz 4 | ✓ fonti in riga | ✓ frontmatter e rinvii leggibili |
+| N-FC03-18-05 | ✓ famiglie sanitarie e speciali | ✓ separare amministrazione e professione | ✓ profili INAIL e carriere | ✓ attività, requisiti, strumenti, responsabilità | ✓ amministrativo/sanitario/tecnico/speciale | ✓ riuso del comune e cambio baricentro | ✓ professionista sanitario INAIL | ✓ quiz, orale, caso | ✓ parola-spia o ente automatici | ✓ Quiz 5 | ✓ fonti in riga | ✓ frontmatter e rinvii leggibili |
+| N-FC03-18-06 | ✓ decisione motivata | ✓ produrre un output verificabile | ✓ Bando Decoder e sintesi appendice | ✓ scheda, casi, esercizio, rubrica | ✓ principale/contesto/integrazione | ✓ piano riusabile | ✓ Marta e profili A/B | ✓ quiz, orale, caso, workbook | ✓ inerzia del modulo aperto | ✓ Quiz 6 e Verifica | ✓ fonti in riga | ✓ frontmatter e corpo leggibile |
+
+## Delta step 10 - Appendice E
+
+| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
+| --- | --- | --- | --- | --- |
+| N-FC03-18-01 | parziale | Verificate definizione, formula di perimetro, tre esiti e uso sul programma | completo | Heading Perimetro, materia dominante e tre esiti; Quiz 1 |
+| N-FC03-18-02 | parziale | Verificati profilo amministrativo, appendici interne, tre controlli e soglia del rinvio | completo | Heading Restare in M-FC03 o attivare un'appendice; Quiz 2 |
+| N-FC03-18-03 | parziale | Verificati ricerca, ICT, tecnica e criteri dei casi ibridi | completo | Heading Ricerca, ICT e profili tecnico-ingegneristici; Quiz 3 |
+| N-FC03-18-04 | parziale | Verificati procurement, fisco, authority e classificazione della materia | completo | Heading Appalti, PNRR, fiscalità e authority; Quiz 4 |
+| N-FC03-18-05 | parziale | Verificati sanità, sociale, carriere e test di sostituibilità | completo | Heading Sanità, sociale e carriere speciali; Quiz 5 |
+| N-FC03-18-06 | quasi completo | Verificati scheda, casi, errore, esercizio, rubrica e verifica | completo | Heading Laboratorio della decisione; Quiz 6 e Verifica |
+
+## Esito Appendice E
+
+I sei nuclei presentano teoria autonoma, applicazione e verifica e superano la soglia dimensionale. Tabelle, test, scheda, casi, esercizio, rubrica e quiz applicano concetti già spiegati senza sostituirli. Non risultano dimensioni vuote, dipendenze da materiali interni o rinvii generici; la destinazione è sempre determinata dal profilo e dalla materia dominante e deve essere verificata sugli atti della singola procedura.

@@ -14,7 +14,7 @@ source_refs: [
 ]
 book_refs: ["m-fc03-enti-non-economici","il-metodo-bando"]
 confidence: 0.88
-updated_at: 2026-07-02T21:20:00+02:00
+updated_at: 2026-08-12T00:00:00+02:00
 created_at: 2026-07-02T20:45:00+02:00
 review_required: true
 canonical: true
@@ -82,6 +82,17 @@ La copertura e' quindi completa sul piano editoriale quando ogni materia del fil
 | Profilo assistente sociale INAIL | Bando INAIL/RIPAM 308 - profilo specifico | Appendice integrativa o rinvio | Appendice F; possibile modulo sociale/sanitario | Copertura di orientamento, non manuale specialistico completo |
 | Agenzie fiscali | Fuori perimetro | Rinvio | Appendice E; M-FC02 | Coperta come rinvio |
 | Authority indipendenti | Fuori perimetro | Rinvio | Appendice E; M-FC05 | Coperta come rinvio |
+
+## Overlay Format 2 — Appendice E, rinvii ragionati
+
+| Nucleo ID | Materia assegnata | Stato | Q:C:E | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso nella prova | Errore tipico | Verifica | Tracciabilità | Evidenza |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FC03-18-01 | Perimetro, materia dominante e tre esiti | completo | Q:1 C:1 E:1 | ✓ Definisce materia dominante e modulo corretto | ✓ Guida la decisione | ✓ Formula ente-profilo-prove-materie | ✓ Quattro fattori e tre esiti | ✓ Ente, profilo, prova e dominanza | ✓ Determina principale, contesto o cambio | ✓ Profilo amministrativo in ente di ricerca | ✓ Lettura del programma e Quiz 1 | ✓ Indizio isolato scambiato per dominanza | ✓ Quiz 1 commentato | ✓ Frontmatter, architettura moduli e riferimenti leggibili | Heading N-FC03-18-01, formula operativa e tre esiti. |
+| N-FC03-18-02 | Restare in M-FC03 o attivare un'appendice | completo | Q:1 C:1 E:1 | ✓ Definisce il perimetro amministrativo EPNE | ✓ Seleziona modulo o lente interna | ✓ Funzioni e materie tipiche M-FC03 | ✓ Tre controlli e tabella dei segnali | ✓ Competenza trasversale, appendice e cambio | ✓ Stabilisce profondità e tempo di studio | ✓ Funzionario ASI/ENEA e profilo INAIL | ✓ Traduce le materie in output e Quiz 2 | ✓ Presenza di materia confusa con centralità | ✓ Quiz 2 commentato | ✓ Frontmatter e appendici nominate in forma leggibile | Heading N-FC03-18-02, tre controlli e tabella. |
+| N-FC03-18-03 | Ricerca, ICT e tecnico-ingegneristico | completo | Q:1 C:1 E:1 | ✓ Definisce i tre baricentri professionali | ✓ Instrada a M-IR03, M-TR01 o M-TR03 | ✓ Profili presso enti scientifici e tecnici | ✓ Attività, competenze, prova e prodotto | ✓ Ricerca, ICT e ingegneria | ✓ Cambia gerarchia senza perdere il comune | ✓ Tecnologo ibrido e impianti ENEA | ✓ Matrice decisionale e Quiz 3 | ✓ Titolo di studio o nome ente usato da solo | ✓ Quiz 3 commentato | ✓ Codici e titoli leggibili, dipendenze nel frontmatter | Heading N-FC03-18-03 e matrice a quattro colonne. |
+| N-FC03-18-04 | Appalti, PNRR, fiscalità e authority | completo | Q:1 C:1 E:1 | ✓ Definisce le soglie dei tre rinvii | ✓ Distingue raccordo e specializzazione | ✓ Confini M-TR02, M-FC02 e M-FC05 | ✓ Profondità, output, poteri e settore | ✓ Contratti ordinari, fisco, regolazione | ✓ Ridistribuisce il tempo sulla materia dominante | ✓ ENAC e vigilanza in contesti diversi | ✓ Classificazione comune-contestuale-dominante e Quiz 4 | ✓ Tutti gli enti nazionali nella stessa famiglia | ✓ Quiz 4 commentato | ✓ Codici e titoli leggibili, fonti nel frontmatter | Heading N-FC03-18-04 e metodo delle tre funzioni. |
+| N-FC03-18-05 | Sanità, sociale e carriere speciali | completo | Q:1 C:1 E:1 | ✓ Definisce famiglie sanitarie e speciali | ✓ Separa amministrazione e professione | ✓ Confini M-SA01/02/04 e M-SP01/02/04 | ✓ Attività, requisiti, strumenti e responsabilità | ✓ Amministrativo, sanitario, tecnico e carriera | ✓ Determina il percorso principale e il riuso | ✓ Professionista sanitario INAIL | ✓ Test di sostituibilità e Quiz 5 | ✓ Parola-spia o sigla ente usata automaticamente | ✓ Quiz 5 commentato | ✓ Destinazioni leggibili e tracciabilità frontmatter | Heading N-FC03-18-05 e test di sostituibilità. |
+| N-FC03-18-06 | Laboratorio della decisione e scheda rinvii | completo | Q:1 C:2 E:1 | ✓ Definisce una decisione motivata e documentata | ✓ Trasforma l'analisi in output | ✓ Scheda collegata al Bando Decoder | ✓ Tredici campi e rubrica a cinque punti | ✓ Modulo principale, contesto e integrazione | ✓ Produce piano riusabile e rischio esplicito | ✓ Marta ENEA e caso finale dei profili A/B | ✓ Mini-esercizio, rubrica e Quiz 6 | ✓ Inerzia verso il modulo già aperto | ✓ Quiz 6 e blocco Verifica | ✓ Frontmatter completo e riferimenti reader-facing | Heading N-FC03-18-06, scheda, casi, rubrica e Verifica. |
 
 ## Esito di copertura
 

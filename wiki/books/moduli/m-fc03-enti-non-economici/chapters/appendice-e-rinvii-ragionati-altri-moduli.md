@@ -49,7 +49,7 @@ Al termine del percorso saprai riconoscere il perimetro effettivo del profilo, a
 
 Il lavoro procede dal Bando, che fornisce i segnali di perimetro, alle Aree da distribuire tra nucleo comune e specializzazione; passa poi ai Nuclei realmente richiesti, registra nel Diario l’errore più probabile e si conclude con un Output verificabile: la scheda dei rinvii ragionati.
 
-## N-FC03-18-01 — Perimetro, materia dominante e tre esiti
+## N-FC03-18-01 · Perimetro, materia dominante e tre esiti
 
 La domanda iniziale non è «l’ente compare in M-FC03?», ma «il profilo messo a bando rientra nel modo in cui M-FC03 prepara il candidato?». Il nome dell’amministrazione orienta, senza decidere da solo. ENEA, ASI o ISTAT possono selezionare funzionari amministrativi, per i quali l’inquadramento EPNE resta utile, ma anche ricercatori, tecnologi, statistici avanzati, informatici o ingegneri. INAIL può bandire profili amministrativi, di vigilanza, sanitari o tecnici. La stessa sigla, quindi, conduce a preparazioni diverse.
 
@@ -67,9 +67,11 @@ La Mappa BANDO rende la scelta verificabile. Nella fase B si rilevano profilo e 
 
 Un indizio isolato non basta. La parola «digitale» può riferirsi alla gestione documentale di un funzionario amministrativo, non a un profilo ICT. La parola «progetto» può descrivere una normale attività organizzativa, non un incarico di ricerca. Al contrario, una sequenza coerente di segnali — sviluppo software, architetture cloud, sicurezza delle reti e prova tecnica — sposta chiaramente il baricentro. La regola pratica è cercare convergenza tra attività, programma e forma della prova.
 
+Nella prova orale questa lettura diventa una risposta in tre passaggi. Si enuncia il criterio: il modulo segue il profilo e la materia dominante, non la sola denominazione dell’ente. Si citano poi due o tre evidenze del bando, distinguendo attività, prova e programma. Infine si formula l’esito, precisando che cosa rimane nel nucleo comune, quale ruolo conserva M-FC03 e quale eventuale specializzazione diventa principale. Una risposta così costruita è preferibile a un elenco di sigle, perché mostra il ragionamento che collega gli atti alla scelta di studio. L’errore da evitare è decidere sulla prima parola riconoscibile: prima si raccolgono i quattro fattori, poi si confrontano, soltanto alla fine si assegna il percorso.
+
 **Quiz 1.** Un ente di ricerca bandisce un profilo amministrativo per gestione documentale, contratti ordinari e trasparenza. Qual è la prima scelta corretta? A) Escludere M-FC03 perché conta soltanto la natura scientifica dell’ente. B) Usare M-FC03 come modulo principale e verificare le integrazioni richieste. C) Scegliere automaticamente il modulo ICT. D) Studiare tutti i moduli disponibili. **Risposta corretta: B.** La famiglia del profilo e le materie dominanti prevalgono sul solo nome dell’ente.
 
-## N-FC03-18-02 — Restare in M-FC03 o attivare un’appendice
+## N-FC03-18-02 · Restare in M-FC03 o attivare un’appendice
 
 Si resta in M-FC03 quando il bando riguarda l’amministrazione dell’ente: procedimenti, prestazioni, servizi, rapporto con cittadini e imprese, protezione dei dati, bilancio, controlli, PIAO, personale, acquisti ordinari, front office, back office, quesiti situazionali e casi d’ufficio. Anche un ente con missione scientifica, tecnica, sportiva o assistenziale può avere bisogno di personale che svolga queste funzioni. La missione dell’organizzazione e la professionalità ricercata sono piani distinti.
 
@@ -94,9 +96,11 @@ Restare nel modulo non significa ignorare il bando concreto. Le fonti ufficiali 
 
 Un errore comune è confondere la presenza di una materia con la centralità professionale. Un profilo amministrativo può richiedere nozioni di informatica, inglese, contratti o fondi europei senza diventare informatico, procurement specialist o project manager. Il candidato deve tradurre ogni voce in un output: definizione, risposta orale, caso, esercizio tecnico o elaborato. La natura dell’output chiarisce quanto approfondire.
 
+Anche la quantità di tempo assegnata va motivata. Se una materia è trasversale, può entrare nel calendario come integrazione circoscritta; se caratterizza mansioni e prova, deve ricevere esercizi e ripassi propri. Questa conseguenza rende operativo il confine fra appendice e rinvio: non basta nominare il materiale, bisogna adeguare l’allenamento alla prestazione richiesta.
+
 **Quiz 2.** Un profilo amministrativo INAIL include nozioni di informatica e una verifica sull’uso degli strumenti digitali. Quale conclusione è più solida? A) Il profilo diventa automaticamente ICT. B) M-FC03 resta principale, salvo ulteriori segnali tecnici nel programma e nelle prove. C) Occorre abbandonare ogni materia EPNE. D) Basta studiare informatica. **Risposta corretta: B.** Una competenza trasversale non cambia da sola la famiglia del profilo.
 
-## N-FC03-18-03 — Ricerca, ICT e profili tecnico-ingegneristici
+## N-FC03-18-03 · Ricerca, ICT e profili tecnico-ingegneristici
 
 Il rinvio a **M-IR03 — Enti di ricerca** si attiva quando il bando seleziona ricercatori o tecnologi e attribuisce rilievo a attività scientifica, progetti di ricerca, pubblicazioni, titoli scientifici, laboratori, metodologie specialistiche o valutazione tecnico-scientifica. ENEA, ASI e ISTAT mostrano bene il confine: possono offrire posti amministrativi compatibili con M-FC03 e posti nei quali la produzione o il supporto qualificato alla ricerca costituiscono il lavoro stesso.
 
@@ -116,7 +120,7 @@ Prima di adottare un percorso, il candidato verifica che i materiali scelti copr
 
 **Quiz 3.** Un concorso ENEA richiede progettazione di impianti, direzione lavori e sicurezza tecnica. Qual è il rinvio più coerente? A) M-IR03 solo perché ENEA svolge ricerca. B) M-TR01 perché ogni tecnologia è ICT. C) M-TR03, mantenendo i nuclei pubblicistici richiesti. D) Nessun rinvio perché l’ente è citato in M-FC03. **Risposta corretta: C.** Sono attività tecnico-ingegneristiche; natura dell’ente e parola «tecnologia» non devono confondere il perimetro.
 
-## N-FC03-18-04 — Appalti, PNRR, fiscalità e authority
+## N-FC03-18-04 · Appalti, PNRR, fiscalità e authority
 
 M-FC03 tratta contratti, acquisti e forniture nel funzionamento ordinario degli enti. Questa base è adeguata quando un funzionario amministrativo deve conoscere il ciclo contrattuale insieme ad altre materie. Il rinvio a **M-TR02 — Appalti, PNRR e fondi UE** diventa invece necessario quando procurement specialistico, programmazione degli interventi, gestione di fondi europei, rendicontazione multilivello, controllo di progetti complessi o supporto qualificato a stazioni appaltanti costituiscono il cuore del profilo.
 
@@ -132,9 +136,11 @@ Anche ENAC richiede attenzione. Può essere trattato in M-FC03 come ente di orie
 
 Il metodo più efficiente è attribuire a ciascuna materia una funzione: comune, contestuale o dominante. Diritto amministrativo può essere comune; ordinamento dell’ente, contestuale; diritto tributario, regolazione settoriale o procurement avanzato, dominante a seconda del profilo. La distribuzione del tempo segue queste funzioni. In questo modo si evita sia di duplicare contenuti già acquisiti sia di sottostimare il nucleo che decide la prova.
 
+In una risposta scritta o orale il candidato può usare la stessa classificazione senza trasformarla in una formula rigida. Prima descrive il nucleo comune che permette di inquadrare l’azione amministrativa; poi individua il contesto dell’ente; infine sviluppa la disciplina dominante con lessico e casi della famiglia corretta. Se il quesito riguarda una procedura di gara ordinaria dell’EPNE, il contesto e il diritto dei contratti possono restare raccordati a M-FC03. Se chiede di impostare la gestione specialistica di un intervento finanziato, il baricentro si sposta. Per fiscalità e authority il controllo è analogo: non conta una parola occasionale, ma il tipo di potere, problema e risultato professionale che la prova richiede.
+
 **Quiz 4.** Un profilo amministrativo EPNE prevede nozioni di contratti pubblici tra dieci materie e un caso generale d’ufficio. Qual è la scelta iniziale più prudente? A) Spostarsi automaticamente su M-TR02. B) Restare in M-FC03 e valutare l’effettiva profondità richiesta sui contratti. C) Scegliere M-FC02. D) Eliminare il nucleo amministrativo. **Risposta corretta: B.** Il rinvio specialistico dipende dalla dominanza e dall’output richiesto, non dalla semplice presenza della materia.
 
-## N-FC03-18-05 — Sanità, sociale e carriere speciali
+## N-FC03-18-05 · Sanità, sociale e carriere speciali
 
 Quando un ente bandisce un posto in area sanitaria o sociale, bisogna distinguere l’amministrazione del servizio dalla professione esercitata. **M-SA01 — Sanità amministrativa** è la famiglia di riferimento per profili amministrativi nel settore sanitario. **M-SA02 — Professioni sanitarie** riguarda invece professioni regolate e competenze clinico-assistenziali. **M-SA04 — Tecnici sanitari e prevenzione** orienta i profili tecnici della prevenzione e le altre figure tecnico-sanitarie pertinenti. La sigla dell’ente non può sostituire questa distinzione.
 
@@ -150,9 +156,11 @@ Nei profili misti bisogna scomporre il programma. Una parte può essere comune a
 
 Il rinvio, infine, deve essere verificato sulla procedura. I titoli dei moduli sono mappe, non fonti del concorso. Requisiti di accesso, programma, prove, accertamenti e criteri si ricavano dal bando e dagli atti ufficiali. Il candidato controlla inoltre che il percorso scelto sia disponibile e copra le materie correnti; eventuali lacune diventano attività esplicite nel piano di studio.
 
+Un caso sociale richiede un controllo ulteriore. La presenza di utenti fragili o di prestazioni sociali non rende automaticamente professionale ogni mansione: un funzionario può curare il procedimento amministrativo, mentre un assistente sociale esercita competenze, valutazioni e responsabilità proprie. Per distinguerli si leggono requisiti di accesso, attività descritte e prodotto richiesto nella prova. Se compaiono titolo professionale, abilitazione o valutazione tecnica autonoma, il rinvio alla famiglia sociale o sanitaria deve essere esplicito. Se invece il compito consiste nell’istruire domande, applicare procedure e comunicare esiti, il perimetro amministrativo può rimanere centrale. L’errore tipico è dedurre la professione dai destinatari del servizio anziché dalle mansioni del profilo.
+
 **Quiz 5.** Un bando INAIL seleziona un professionista sanitario e richiede abilitazione, conoscenze cliniche e valutazioni proprie della professione, oltre a diritto amministrativo. Come va impostato lo studio? A) Solo M-FC03, perché l’ente è INAIL. B) Famiglia sanitaria pertinente come percorso principale, riusando il nucleo amministrativo richiesto. C) Solo Appendice C. D) M-FC05. **Risposta corretta: B.** Requisiti e competenze professionali determinano il baricentro; il diritto amministrativo resta un nucleo riutilizzabile.
 
-## N-FC03-18-06 — Laboratorio della decisione e scheda dei rinvii
+## N-FC03-18-06 · Laboratorio della decisione e scheda dei rinvii
 
 La decisione finale deve essere scritta, non lasciata a un’impressione. Si usa la seguente scheda ogni volta che nel Bando Decoder emerge almeno un dubbio di perimetro.
 
