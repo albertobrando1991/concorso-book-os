@@ -13,12 +13,12 @@ book_refs: ["m-fc03-enti-non-economici","il-metodo-bando"]
 confidence: 0.82
 updated_at: 2026-08-11T00:00:00+02:00
 created_at: 2026-07-02T20:05:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter","module-code-m-fc03","professional-draft"]
 book_id: m-fc03-enti-non-economici
 outline_section: 3
-draft_stage: step-14-corrected
+draft_stage: step-15-audited
 module_code: M-FC03
 module_family: funzioni-centrali
 companion_to: il-metodo-bando

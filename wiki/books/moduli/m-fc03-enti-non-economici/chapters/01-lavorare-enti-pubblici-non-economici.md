@@ -18,12 +18,12 @@ book_refs: ["m-fc03-enti-non-economici", "il-metodo-bando", "vol-03-fisco-dogane
 confidence: 0.88
 updated_at: 2026-08-10T19:46:00+02:00
 created_at: 2026-07-02T20:05:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "module-code-m-fc03", "format-version-2", "step-09"]
 book_id: m-fc03-enti-non-economici
 outline_section: 1
-draft_stage: step-14-corrected
+draft_stage: step-15-audited
 format_version: 2
 module_code: M-FC03
 module_family: funzioni-centrali
