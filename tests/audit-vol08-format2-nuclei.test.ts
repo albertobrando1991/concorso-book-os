@@ -72,7 +72,7 @@ describe("audit-vol08-format2-nuclei", () => {
   it("rejects the former chapter-level evidence placeholders in a matrix row", () => {
     const root = fixtureRoot()
     const matrix = join(root, moduleRelative, "planning", "02-matrice-copertura-didattica.md")
-    writeFileSync(matrix, readFileSync(matrix, "utf8").replace("verified:", "source_refs del capitolo"), "utf8")
+    writeFileSync(matrix, readFileSync(matrix, "utf8").replace("open: evidenza non osservata o non abbastanza specifica; review step 15", "source_refs del capitolo"), "utf8")
     expect(audit(root).status).not.toBe(0)
   })
   it("rejects a verified evidence cell that is too short", () => {
@@ -106,6 +106,28 @@ describe("audit-vol08-format2-nuclei", () => {
     const root = fixtureRoot()
     const matrix = join(root, moduleRelative, "planning", "02-matrice-copertura-didattica.md")
     writeFileSync(matrix, readFileSync(matrix, "utf8").replace("open: review step 15", "✓ verified: breve"), "utf8")
+    expect(audit(root).status).not.toBe(0)
+  })
+  it("rejects a verified phrase that is only a compressed tail of a sentence", () => {
+    const root = fixtureRoot()
+    const matrix = join(root, moduleRelative, "planning", "02-matrice-copertura-didattica.md")
+    writeFileSync(matrix, readFileSync(matrix, "utf8").replace(/verified:[^|]+/, "verified: decisione esplicita."), "utf8")
+    expect(audit(root).status).not.toBe(0)
+  })
+
+  it("rejects a verified half-sentence beginning with a connector", () => {
+    const root = fixtureRoot()
+    const matrix = join(root, moduleRelative, "planning", "02-matrice-copertura-didattica.md")
+    writeFileSync(matrix, readFileSync(matrix, "utf8").replace(/verified:[^|]+/, "verified: e la decisione resta verificabile nel servizio pubblico."), "utf8")
+    expect(audit(root).status).not.toBe(0)
+  })
+
+  it("rejects evidence that appears only inside a Markdown table in the nucleus", () => {
+    const root = fixtureRoot()
+    const chapter = join(root, moduleRelative, "chapters", "01-lavorare-ict-pa-ruoli-enti-prove.md")
+    const matrix = join(root, moduleRelative, "planning", "02-matrice-copertura-didattica.md")
+    writeFileSync(chapter, readFileSync(chapter, "utf8").replace("## N-TR01-01-02", "| Campo | Nota |\n| --- | --- |\n| prova | La decisione artificiale è verificabile nel servizio pubblico. |\n\n## N-TR01-01-02"), "utf8")
+    writeFileSync(matrix, readFileSync(matrix, "utf8").replace(/verified:[^|]+/, "verified: La decisione artificiale è verificabile nel servizio pubblico."), "utf8")
     expect(audit(root).status).not.toBe(0)
   })
   it("ignores a nucleus-looking heading inside a fenced code block", () => {

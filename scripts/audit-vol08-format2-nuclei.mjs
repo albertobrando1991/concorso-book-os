@@ -110,7 +110,7 @@ function inspectChapter(file) {
   const matches = [...content.matchAll(/^## (N-TR01-\d{2}-\d{2}) \u00b7 (.+)$/gm)]
   const nucleusIds = matches.map((match) => match[1])
   const titles = new Map(matches.map((match) => [match[1], match[2].trim()]))
-  const sections = new Map(matches.map((match, index) => [match[1], content.slice(match.index + match[0].length, index + 1 < matches.length ? matches[index + 1].index : content.length).trim()]))
+  const sections = new Map(matches.map((match, index) => [match[1], content.slice(match.index + match[0].length, index + 1 < matches.length ? matches[index + 1].index : content.length)]))
   const malformed = [...content.matchAll(/^## (N-[^\s\u00b7]+).*$/gm)].map((match) => match[1]).filter((id) => !/^N-TR01-\d{2}-\d{2}$/.test(id))
   const sourceRefs = [...((/^source_refs:\s*\[([^\]]*)\]/m.exec(content)?.[1] || '').matchAll(/["']([^"']+)["']/g))].map((match) => match[1])
   return { file, number, nucleusIds, titles, sections, sourceRefs, malformed, ...analyzeDidacticDensity(content) }
@@ -132,15 +132,14 @@ function writeCanonicalMatrix(chapterRows) {
   fs.writeFileSync(matrixPath, replaceBlock(fs.readFileSync(matrixPath, 'utf8'), matrixStart, matrixEnd, block), 'utf8')
 }
 
-function atomicEvidence(section, id, title) {
-  const text = section || ''
-  const sentence = (pattern) => { const found = text.match(new RegExp(`(?:^|\\n)(?!\\|)[^.\\n]*${pattern}[^.\\n]*\\.`, 'i'))?.[0]; const value = (found || '').replace(/[|\r\n]+/g, ' ').replace(/\s+/g, ' ').trim(); return value.length >= 20 ? value : '' }
-  const verification = sentence('Come lo chiede la commissione|In prova|domanda|quesito')
+function atomicEvidence(section) {
+  const sentences = evidenceSentences(section)
+  const sentence = (pattern) => sentences.find((value) => new RegExp(pattern, 'i').test(value)) || ''
   return {
-    theory: sentence('definisce|è |sono |indica|consiste'),
+    theory: sentence('definisce|Ã¨ |sono |indica|consiste'),
     application: sentence('caso|esempio|applic|scenario|simul|commissione'),
     output: sentence('output|risposta|evidenza|In prova|decisione'),
-    verification,
+    verification: sentence('Come lo chiede la commissione|In prova|domanda|quesito'),
     function: sentence('funzione|serve|permette|assicura'),
     framing: sentence('contesto|ente|amministrazione|pubblico|PA'),
     elements: sentence('elementi|include|comprende|componenti'),
@@ -150,6 +149,13 @@ function atomicEvidence(section, id, title) {
   }
 }
 
+function evidenceSentences(section) {
+  return (section || '').split(/\r?\n/)
+    .filter((line) => !line.trimStart().startsWith('|') && !line.trimStart().startsWith('```'))
+    .flatMap((line) => line.match(/[^.!?]+[.!?]+/g) || [])
+    .map((sentence) => sentence.replace(/[\`*_]/g, '').replace(/\s+/g, ' ').trim())
+    .filter((sentence) => validEvidence(`verified: ${sentence}`))
+}
 function stateEvidence(value) { return validEvidence(`verified: ${value || ''}`) ? `verified: ${value}` : 'open: evidenza non osservata o non abbastanza specifica; review step 15' }
 
 function writeAnalyticalIndex(chapterRows) {  const rows = chapterRows.flatMap((chapter) => chapter.nucleusIds.map((id) => `- \`${id}\` - [${chapter.titles.get(id)}](chapters/${chapter.file}#${id.toLowerCase()})`))
@@ -185,14 +191,20 @@ function validateEvidenceBindings(block) {
     const section = chapter?.sections.get(id) || ''
     for (const match of line.matchAll(/verified:\s*([^|]+)/g)) {
       const evidence = match[1].trim()
-      if (!validEvidence(`verified: ${evidence}`) || !normalizeEvidence(section).includes(normalizeEvidence(evidence))) failures.push(id)
+      if (!validEvidence(`verified: ${evidence}`) || !evidenceSentences(section).some((sentence) => normalizeEvidence(sentence) === normalizeEvidence(evidence))) failures.push(id)
     }
   }
   return [...new Set(failures)]
 }
 function normalizeEvidence(value) { return value.replace(/[\`*_]/g, '').replace(/\s+/g, ' ').trim().toLowerCase() }
 
-function validEvidence(value) { const text = value.replace(/^verified:\s*/, '').trim(); return text.length >= 20 && /[.!?;:]$/.test(text) && !/^(breve|n\/a|non osservato|placeholder)$/i.test(text) }
+function validEvidence(value) {
+  const text = value.replace(/^verified:\s*/, '').trim()
+  const words = text.match(/[\p{L}\p{N}]{2,}/gu) || []
+  const startsStandalone = /^[A-ZÀ-ÖØ-Þ0-9“«]/.test(text)
+  const startsConnector = /^(?:e|ma|non|quindi|però|tuttavia|oppure|,|;|:)/i.test(text)
+  return text.length >= 30 && words.length >= 5 && /[.!?]$/.test(text) && startsStandalone && !startsConnector && !/^(breve|n\/?a|non osservato|placeholder|decisione esplicita)\b/i.test(text)
+}
 function normalizeNucleusId(value) { return value.replace(/`/g, "").trim() }
 function duplicates(values) { const seen = new Set(); const repeated = new Set(); for (const value of values) seen.has(value) ? repeated.add(value) : seen.add(value); return [...repeated].sort() }
 function escape(value) { return value.replace(/[|`\r\n]+/g, " ").replace(/\s+/g, " ").trim() }
