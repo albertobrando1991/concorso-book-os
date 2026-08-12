@@ -3,7 +3,7 @@
   "specPath": "books/volumi/vol-03-fisco-dogane-previdenza-ispettivo/planning/00-scheda-pipeline.md",
   "specHash": "sha256:7a5be32028a6026f42eac9b7a221a5879330c694249c48b679a9f6ab5999df16",
   "createdAt": "2026-07-27T20:05:30.039Z",
-  "updatedAt": "2026-07-27T20:31:07.209Z",
+  "updatedAt": "2026-08-05T18:11:05.914Z",
   "steps": [
     {
       "key": "08:moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md",
@@ -11,13 +11,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md",
-      "status": "in-progress",
-      "attempts": 2,
+      "status": "done",
+      "attempts": 3,
       "evidence": [],
-      "owner": "alber",
-      "agent": "claude-code",
+      "owner": "aless",
+      "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-27T20:25:14.209Z"
+      "startedAt": "2026-07-28T18:10:31.036Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di aless: Verifica manuale completata: piano salvato nell'artifact dello step; nuclei 25-28 della matrice controllati, struttura KDP e review definite, capitolo non modificato."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-07-28T18:12:20.918Z"
     },
     {
       "key": "09:moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md",
@@ -25,9 +44,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-28T18:12:29.964Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-28T18:14:05.206Z"
     },
     {
       "key": "10:moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md",
@@ -35,9 +64,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-28T18:14:10.880Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-28T18:14:38.744Z"
     },
     {
       "key": "11:moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md",
@@ -45,13 +84,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md",
-      "status": "in-progress",
-      "attempts": 1,
+      "status": "done",
+      "attempts": 2,
       "evidence": [],
-      "owner": "alber",
-      "agent": "claude-code",
+      "owner": "aless",
+      "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-27T20:31:07.209Z"
+      "startedAt": "2026-07-28T18:14:52.539Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-28T18:15:23.992Z"
     },
     {
       "key": "12:moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md",
@@ -59,9 +104,30 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-28T18:15:31.072Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V01: stato \"aperto\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-01-mappa-agenzie-fiscali-profili-concorsuali-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto S01: stato \"aperto\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-01-mappa-agenzie-fiscali-profili-concorsuali-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-07-28T18:16:13.297Z"
     },
     {
       "key": "08:moduli/m-fc02-agenzie-fiscali/chapters/02-bando-decoder-fiscale.md",
@@ -69,9 +135,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/02-bando-decoder-fiscale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-28T18:18:35.704Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fc02-agenzie-fiscali/chapters/02-bando-decoder-fiscale.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di aless: Gate chapter-plan non implementato: piano verificato manualmente contro capitolo, matrice M-FC02, memoria locale, fonti e rinvii; tutti i cinque nuclei assegnati risultano già completi e il piano conservativo è salvato nell'artifact dello step 08."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-07-28T18:20:00.756Z"
     },
     {
       "key": "09:moduli/m-fc02-agenzie-fiscali/chapters/02-bando-decoder-fiscale.md",
@@ -79,9 +168,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/02-bando-decoder-fiscale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-28T18:23:53.364Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-28T18:26:15.030Z"
     },
     {
       "key": "10:moduli/m-fc02-agenzie-fiscali/chapters/02-bando-decoder-fiscale.md",
@@ -89,9 +188,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/02-bando-decoder-fiscale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-28T18:30:19.798Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-28T18:37:20.980Z"
     },
     {
       "key": "11:moduli/m-fc02-agenzie-fiscali/chapters/02-bando-decoder-fiscale.md",
@@ -99,9 +208,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/02-bando-decoder-fiscale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-28T18:37:46.996Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-28T18:39:02.749Z"
     },
     {
       "key": "12:moduli/m-fc02-agenzie-fiscali/chapters/02-bando-decoder-fiscale.md",
@@ -109,9 +228,30 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/02-bando-decoder-fiscale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-28T18:41:36.642Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-02-bando-decoder-fiscale-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V02: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-02-bando-decoder-fiscale-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-07-28T19:12:22.855Z"
     },
     {
       "key": "08:moduli/m-fc02-agenzie-fiscali/chapters/03-ordinamento-organizzazione-ae-adm-ader.md",
@@ -119,9 +259,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/03-ordinamento-organizzazione-ae-adm-ader.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-28T19:12:59.190Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fc02-agenzie-fiscali/chapters/03-ordinamento-organizzazione-ae-adm-ader.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di aless: Gate chapter-plan non implementato: piano verificato manualmente contro capitolo, matrice M-FC02, memoria locale, fonti, capitoli adiacenti e piano editoriale. I cinque nuclei sono completi; individuate soltanto duplicazioni di heading da correggere conservando il testo."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-07-28T19:13:43.929Z"
     },
     {
       "key": "09:moduli/m-fc02-agenzie-fiscali/chapters/03-ordinamento-organizzazione-ae-adm-ader.md",
@@ -129,9 +292,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/03-ordinamento-organizzazione-ae-adm-ader.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-28T19:15:38.069Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-28T19:16:42.042Z"
     },
     {
       "key": "10:moduli/m-fc02-agenzie-fiscali/chapters/03-ordinamento-organizzazione-ae-adm-ader.md",
@@ -139,9 +312,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/03-ordinamento-organizzazione-ae-adm-ader.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-28T19:17:07.426Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-28T19:18:08.245Z"
     },
     {
       "key": "11:moduli/m-fc02-agenzie-fiscali/chapters/03-ordinamento-organizzazione-ae-adm-ader.md",
@@ -149,9 +332,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/03-ordinamento-organizzazione-ae-adm-ader.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-28T19:18:41.573Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-28T19:19:59.340Z"
     },
     {
       "key": "12:moduli/m-fc02-agenzie-fiscali/chapters/03-ordinamento-organizzazione-ae-adm-ader.md",
@@ -159,9 +352,35 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/03-ordinamento-organizzazione-ae-adm-ader.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-28T19:21:35.670Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E01: stato \"aperto\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-03-ordinamento-organizzazione-ae-adm-ader-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E02: stato \"proposto\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-03-ordinamento-organizzazione-ae-adm-ader-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-03-ordinamento-organizzazione-ae-adm-ader-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-07-28T19:43:55.836Z"
     },
     {
       "key": "08:moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md",
@@ -169,9 +388,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-28T19:49:56.204Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di aless: Gate chapter-plan non implementato: piano verificato manualmente contro capitolo, nove nuclei della matrice, memoria locale, fonti, rinvii ai capitoli 5-8 e 11 e piano editoriale. Tutti i nuclei risultano completi; previsto intervento conservativo con review normativa."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-07-28T19:53:13.881Z"
     },
     {
       "key": "09:moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md",
@@ -179,9 +421,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T15:57:00.673Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T15:57:54.891Z"
     },
     {
       "key": "10:moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md",
@@ -189,9 +441,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T15:58:26.301Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T16:00:15.491Z"
     },
     {
       "key": "11:moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md",
@@ -199,9 +461,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T16:01:57.774Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T16:03:39.485Z"
     },
     {
       "key": "12:moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md",
@@ -209,9 +481,30 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T16:05:17.022Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E01: stato \"proposto\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-04-diritto-tributario-teoria-imposta-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-04-diritto-tributario-teoria-imposta-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-07-29T16:08:16.285Z"
     },
     {
       "key": "08:moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md",
@@ -219,9 +512,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T16:08:57.894Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di aless: Verifica manuale completata: piano operativo creato con sette nuclei assegnati, due nuclei parziali da sviluppare, sezioni da preservare, confini cross-chapter, fonti consolidate, review umane, struttura H1-H3, pulizia mojibake e budget KDP."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-07-29T16:10:45.034Z"
     },
     {
       "key": "09:moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md",
@@ -229,9 +545,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T16:11:33.173Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T16:18:13.089Z"
     },
     {
       "key": "10:moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md",
@@ -239,9 +565,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T16:19:12.497Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T17:26:13.979Z"
     },
     {
       "key": "11:moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md",
@@ -249,9 +585,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T17:27:31.395Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T17:31:24.152Z"
     },
     {
       "key": "12:moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md",
@@ -259,9 +605,30 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T17:32:48.266Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E01: stato \"aperto\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-05-accertamento-controlli-compliance-fiscale-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-05-accertamento-controlli-compliance-fiscale-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-07-29T17:37:12.855Z"
     },
     {
       "key": "08:moduli/m-fc02-agenzie-fiscali/chapters/05a-sanzioni-amministrative-reati-tributari.md",
@@ -269,9 +636,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/05a-sanzioni-amministrative-reati-tributari.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T17:40:35.983Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fc02-agenzie-fiscali/chapters/05a-sanzioni-amministrative-reati-tributari.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di aless: Verifica manuale completata: piano.md contiene nuclei assegnati e stato reale, sezioni da conservare, sviluppi di consolidamento, duplicazioni da evitare, casi ed esercizi, fonti consolidate, review umane, struttura H1/H2/H3, budget KDP e criteri per lo step 09; capitolo non modificato."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-07-29T17:42:48.899Z"
     },
     {
       "key": "09:moduli/m-fc02-agenzie-fiscali/chapters/05a-sanzioni-amministrative-reati-tributari.md",
@@ -279,9 +669,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/05a-sanzioni-amministrative-reati-tributari.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T17:45:15.599Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T17:49:50.302Z"
     },
     {
       "key": "10:moduli/m-fc02-agenzie-fiscali/chapters/05a-sanzioni-amministrative-reati-tributari.md",
@@ -289,9 +689,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/05a-sanzioni-amministrative-reati-tributari.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T17:52:23.718Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T17:54:57.344Z"
     },
     {
       "key": "11:moduli/m-fc02-agenzie-fiscali/chapters/05a-sanzioni-amministrative-reati-tributari.md",
@@ -299,9 +709,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/05a-sanzioni-amministrative-reati-tributari.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T17:56:59.448Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T18:01:32.251Z"
     },
     {
       "key": "12:moduli/m-fc02-agenzie-fiscali/chapters/05a-sanzioni-amministrative-reati-tributari.md",
@@ -309,9 +729,25 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/05a-sanzioni-amministrative-reati-tributari.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T18:02:20.163Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-05a-sanzioni-amministrative-reati-tributari-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-07-29T18:03:18.829Z"
     },
     {
       "key": "08:moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario.md",
@@ -319,9 +755,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T18:03:58.060Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di aless: Verifica manuale completata: piano operativo presente; nuclei assegnati, copertura reale, sezioni da preservare, sviluppi selettivi, duplicazioni, apparati didattici, fonti consolidate, review umane, struttura H1/H2/H3 e budget KDP verificati; incoerenza della matrice VOL-03 rinviata allo step 10; capitolo non modificato."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-07-29T18:07:44.907Z"
     },
     {
       "key": "09:moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario.md",
@@ -329,9 +788,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T18:08:22.543Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T18:19:44.942Z"
     },
     {
       "key": "10:moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario.md",
@@ -339,9 +808,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T18:20:37.359Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T18:27:16.615Z"
     },
     {
       "key": "11:moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario.md",
@@ -349,9 +828,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T18:28:03.898Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T18:31:31.575Z"
     },
     {
       "key": "12:moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario.md",
@@ -359,9 +848,30 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T18:32:15.324Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-05b-tutela-processo-tributario-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V02: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-05b-tutela-processo-tributario-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-07-29T18:33:23.009Z"
     },
     {
       "key": "08:moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md",
@@ -369,9 +879,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T18:40:06.061Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di aless: Verifica manuale completata: piano operativo presente; nuclei IRPEF/IRES, IVA, ciclo adempimenti, dichiarazioni/versamenti/compensazioni e servizi fiscali verificati; sezioni, fonti, rinvii, apparati, cinque asset, review umane e budget KDP pianificati; impalcatura redazionale duplicata da consolidare nello step 09; righe VOL-03 12, 13 e 15 rinviate allo step 10; capitolo non modificato."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-07-29T18:42:27.290Z"
     },
     {
       "key": "09:moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md",
@@ -379,9 +912,25 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T15:55:26.906Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "missing-last-compiled-from",
+            "message": "Frontmatter senza last_compiled_from: la tracciabilità della compilazione è incompleta.",
+            "location": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-07-30T15:57:33.670Z"
     },
     {
       "key": "10:moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md",
@@ -389,9 +938,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T16:00:56.264Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-30T16:03:08.864Z"
     },
     {
       "key": "11:moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md",
@@ -399,9 +958,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T16:03:48.581Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-30T16:04:54.243Z"
     },
     {
       "key": "12:moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md",
@@ -409,9 +978,35 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T16:05:43.347Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-06-adempimenti-fiscali-redditi-iva-dichiarazioni-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V02: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-06-adempimenti-fiscali-redditi-iva-dichiarazioni-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V03: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-06-adempimenti-fiscali-redditi-iva-dichiarazioni-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-07-30T16:06:49.553Z"
     },
     {
       "key": "08:moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader.md",
@@ -419,9 +1014,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T16:07:27.892Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di aless: Verifica manuale positiva: piano completo con nuclei assegnati, preservazione dei contenuti originali, consolidamento delle due stesure duplicate, architettura H1/H2/H3, apparati didattici, fonti, revisioni umane e budget KDP."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-07-30T16:10:06.792Z"
     },
     {
       "key": "09:moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader.md",
@@ -429,9 +1047,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T16:11:23.965Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-30T16:12:34.499Z"
     },
     {
       "key": "10:moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader.md",
@@ -439,9 +1067,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T16:13:35.367Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-30T16:16:13.374Z"
     },
     {
       "key": "11:moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader.md",
@@ -449,9 +1087,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T16:25:49.716Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-30T16:27:12.937Z"
     },
     {
       "key": "12:moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader.md",
@@ -459,9 +1107,55 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T16:30:16.815Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E01: stato \"aperto\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-07-riscossione-nazionale-lavoro-ader-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E02: stato \"aperto\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-07-riscossione-nazionale-lavoro-ader-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-07-riscossione-nazionale-lavoro-ader-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V02: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-07-riscossione-nazionale-lavoro-ader-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V03: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-07-riscossione-nazionale-lavoro-ader-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V04: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-07-riscossione-nazionale-lavoro-ader-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E03: stato \"aperto\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-07-riscossione-nazionale-lavoro-ader-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-07-30T16:31:33.797Z"
     },
     {
       "key": "08:moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm.md",
@@ -469,9 +1163,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T16:32:47.158Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di aless: Verifica manuale positiva: piano completo con sette nuclei assegnati, fusione delle due stesure, preservazione dei contenuti originali, cinque asset, struttura H1/H2/H3, fonti consolidate, review umane e budget KDP."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-07-30T16:34:34.127Z"
     },
     {
       "key": "09:moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm.md",
@@ -479,9 +1196,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T16:35:36.717Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-30T16:37:13.647Z"
     },
     {
       "key": "10:moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm.md",
@@ -489,9 +1216,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T16:38:05.503Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-30T16:38:56.778Z"
     },
     {
       "key": "11:moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm.md",
@@ -499,9 +1236,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T16:40:35.075Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-30T16:41:25.651Z"
     },
     {
       "key": "12:moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm.md",
@@ -509,9 +1256,60 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T16:43:38.544Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E01: stato \"aperto\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-08-dogane-procedure-doganali-adm-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E02: stato \"aperto\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-08-dogane-procedure-doganali-adm-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-08-dogane-procedure-doganali-adm-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V02: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-08-dogane-procedure-doganali-adm-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V03: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-08-dogane-procedure-doganali-adm-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V04: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-08-dogane-procedure-doganali-adm-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V05: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-08-dogane-procedure-doganali-adm-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E03: stato \"aperto\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-08-dogane-procedure-doganali-adm-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-07-30T16:44:57.901Z"
     },
     {
       "key": "08:moduli/m-fc02-agenzie-fiscali/chapters/09-accise-giochi-monopoli.md",
@@ -519,9 +1317,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/09-accise-giochi-monopoli.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T16:46:27.770Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fc02-agenzie-fiscali/chapters/09-accise-giochi-monopoli.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di aless: Piano verificato manualmente: nuclei assegnati e stati confrontati con matrice M-FC02 e VOL-03; rilevati due corpi duplicati, cinque asset, due nuclei parziali; definiti conservazione, sviluppi, fonti, review, struttura H1-H3 e budget KDP senza modificare il capitolo."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-07-30T16:50:51.312Z"
     },
     {
       "key": "09:moduli/m-fc02-agenzie-fiscali/chapters/09-accise-giochi-monopoli.md",
@@ -529,9 +1350,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/09-accise-giochi-monopoli.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T16:51:43.832Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-30T16:53:38.507Z"
     },
     {
       "key": "10:moduli/m-fc02-agenzie-fiscali/chapters/09-accise-giochi-monopoli.md",
@@ -539,9 +1370,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/09-accise-giochi-monopoli.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T16:54:19.099Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-30T16:56:05.663Z"
     },
     {
       "key": "11:moduli/m-fc02-agenzie-fiscali/chapters/09-accise-giochi-monopoli.md",
@@ -549,9 +1390,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/09-accise-giochi-monopoli.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T16:56:50.538Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-30T16:57:24.727Z"
     },
     {
       "key": "12:moduli/m-fc02-agenzie-fiscali/chapters/09-accise-giochi-monopoli.md",
@@ -559,9 +1410,60 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/09-accise-giochi-monopoli.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T16:58:33.982Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E01: stato \"aperto\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-09-accise-giochi-monopoli-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E02: stato \"aperto\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-09-accise-giochi-monopoli-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-09-accise-giochi-monopoli-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V02: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-09-accise-giochi-monopoli-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V03: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-09-accise-giochi-monopoli-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V04: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-09-accise-giochi-monopoli-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V05: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-09-accise-giochi-monopoli-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V06: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-09-accise-giochi-monopoli-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-07-30T16:59:31.470Z"
     },
     {
       "key": "08:moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare.md",
@@ -569,9 +1471,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T17:00:16.081Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di aless: Piano verificato manualmente: sette nuclei confrontati con il testo e la matrice M-FC02; rilevati due corpi duplicati, cinque asset e due nuclei parziali su procedure catastali ed estimo/OMI; definiti integrazioni, fonti, review, struttura H1-H3 e budget KDP senza modificare il capitolo."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-07-30T17:01:42.473Z"
     },
     {
       "key": "09:moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare.md",
@@ -579,9 +1504,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T17:02:46.618Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-30T17:05:06.922Z"
     },
     {
       "key": "10:moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare.md",
@@ -589,9 +1524,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T17:06:27.043Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-30T17:07:21.299Z"
     },
     {
       "key": "11:moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare.md",
@@ -599,9 +1544,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T17:08:00.237Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-30T17:10:01.064Z"
     },
     {
       "key": "12:moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare.md",
@@ -609,9 +1564,55 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T17:12:02.815Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E01: stato \"aperto\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-10-catasto-cartografia-estimo-pubblicita-immobiliare-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E02: stato \"proposto\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-10-catasto-cartografia-estimo-pubblicita-immobiliare-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-10-catasto-cartografia-estimo-pubblicita-immobiliare-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V02: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-10-catasto-cartografia-estimo-pubblicita-immobiliare-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V03: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-10-catasto-cartografia-estimo-pubblicita-immobiliare-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V04: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-10-catasto-cartografia-estimo-pubblicita-immobiliare-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V05: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-10-catasto-cartografia-estimo-pubblicita-immobiliare-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-07-30T17:13:26.654Z"
     },
     {
       "key": "08:moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco.md",
@@ -619,9 +1620,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T17:14:19.637Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di aless: Piano verificato manualmente: include otto nuclei e relativi stati, contenuti da conservare e sviluppare, fusione delle due stesure, strategia anti-duplicazione, apparati, fonti, review umane, struttura H1/H2/H3, budget KDP e criteri di completamento; il capitolo non e stato modificato."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-07-30T17:17:06.389Z"
     },
     {
       "key": "09:moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco.md",
@@ -629,9 +1653,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T17:18:48.303Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-30T17:21:14.077Z"
     },
     {
       "key": "10:moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco.md",
@@ -639,9 +1673,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T17:22:02.570Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-30T17:23:57.577Z"
     },
     {
       "key": "11:moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco.md",
@@ -649,9 +1693,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T17:24:54.255Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-30T17:26:05.749Z"
     },
     {
       "key": "12:moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco.md",
@@ -659,9 +1713,55 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T17:26:53.823Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E01: stato \"aperto\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-11-contabilita-aziendale-economia-impresa-fisco-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E02: stato \"proposto\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-11-contabilita-aziendale-economia-impresa-fisco-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-11-contabilita-aziendale-economia-impresa-fisco-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V02: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-11-contabilita-aziendale-economia-impresa-fisco-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V03: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-11-contabilita-aziendale-economia-impresa-fisco-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V04: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-11-contabilita-aziendale-economia-impresa-fisco-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V05: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-11-contabilita-aziendale-economia-impresa-fisco-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-07-30T17:28:08.928Z"
     },
     {
       "key": "08:moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione.md",
@@ -669,9 +1769,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T17:29:08.175Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di aless: Piano verificato manualmente: preserva il corpo umano esistente, assegna fonti e figure, delimita i rinvii e mantiene esplicitamente parziale il nucleo crisi d'impresa in attesa di una source note ufficiale dedicata. Il capitolo non è stato modificato nello step 08."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-07-30T17:30:54.448Z"
     },
     {
       "key": "09:moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione.md",
@@ -679,9 +1802,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T17:31:29.403Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-30T17:33:35.527Z"
     },
     {
       "key": "10:moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione.md",
@@ -689,9 +1822,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T17:34:29.057Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-30T17:35:30.154Z"
     },
     {
       "key": "11:moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione.md",
@@ -699,9 +1842,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T17:36:12.320Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-30T17:37:21.023Z"
     },
     {
       "key": "12:moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione.md",
@@ -709,9 +1862,50 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T17:39:00.593Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E01: stato \"aperto\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-12-civile-commerciale-applicati-fisco-dogane-riscossione-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E02: stato \"proposto\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-12-civile-commerciale-applicati-fisco-dogane-riscossione-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-12-civile-commerciale-applicati-fisco-dogane-riscossione-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V02: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-12-civile-commerciale-applicati-fisco-dogane-riscossione-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V03: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-12-civile-commerciale-applicati-fisco-dogane-riscossione-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V04: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-12-civile-commerciale-applicati-fisco-dogane-riscossione-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-07-30T17:43:46.814Z"
     },
     {
       "key": "08:moduli/m-fc02-agenzie-fiscali/chapters/13-casi-pratici-quiz-orale-agenzie-fiscali.md",
@@ -719,9 +1913,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/13-casi-pratici-quiz-orale-agenzie-fiscali.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T17:44:50.950Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fc02-agenzie-fiscali/chapters/13-casi-pratici-quiz-orale-agenzie-fiscali.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di aless: Piano verificato manualmente: identifica i due corpi duplicati, preserva gli apporti umani validi, assegna i cinque nuclei completi, definisce fusione conservativa, casi AE/ADM/AdER/Territorio/front-office, quiz, orale, simulazione, fonti, cinque figure, rinvii precisi al VOL-01 e budget KDP. Il capitolo non è stato modificato nello step 08."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-07-30T17:46:15.831Z"
     },
     {
       "key": "09:moduli/m-fc02-agenzie-fiscali/chapters/13-casi-pratici-quiz-orale-agenzie-fiscali.md",
@@ -729,9 +1946,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/13-casi-pratici-quiz-orale-agenzie-fiscali.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T17:47:26.468Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-30T17:48:42.024Z"
     },
     {
       "key": "10:moduli/m-fc02-agenzie-fiscali/chapters/13-casi-pratici-quiz-orale-agenzie-fiscali.md",
@@ -739,9 +1966,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/13-casi-pratici-quiz-orale-agenzie-fiscali.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T17:49:49.808Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-30T17:50:43.336Z"
     },
     {
       "key": "11:moduli/m-fc02-agenzie-fiscali/chapters/13-casi-pratici-quiz-orale-agenzie-fiscali.md",
@@ -749,9 +1986,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/13-casi-pratici-quiz-orale-agenzie-fiscali.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T17:52:32.607Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-30T17:53:28.499Z"
     },
     {
       "key": "12:moduli/m-fc02-agenzie-fiscali/chapters/13-casi-pratici-quiz-orale-agenzie-fiscali.md",
@@ -759,9 +2006,55 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/13-casi-pratici-quiz-orale-agenzie-fiscali.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T17:55:42.231Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E01: stato \"aperto\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-13-casi-pratici-quiz-orale-agenzie-fiscali-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E02: stato \"proposto\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-13-casi-pratici-quiz-orale-agenzie-fiscali-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-13-casi-pratici-quiz-orale-agenzie-fiscali-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V02: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-13-casi-pratici-quiz-orale-agenzie-fiscali-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V03: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-13-casi-pratici-quiz-orale-agenzie-fiscali-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V04: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-13-casi-pratici-quiz-orale-agenzie-fiscali-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V05: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-13-casi-pratici-quiz-orale-agenzie-fiscali-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-07-30T17:58:07.597Z"
     },
     {
       "key": "08:moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
@@ -769,9 +2062,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T17:59:33.946Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di aless: Piano verificato manualmente: preserva glossario, tavole, scadenziario, flussi e canvas; identifica asset_refs incoerenti, rinvii obsoleti, codifica corrotta e i due nuclei parziali; definisce completamento front-office/privacy e routing cross-family con fonti e destinazioni precise. Il capitolo non è stato modificato nello step 08."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-07-30T18:01:23.054Z"
     },
     {
       "key": "09:moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
@@ -779,9 +2095,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T18:03:03.786Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-30T18:07:45.294Z"
     },
     {
       "key": "10:moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
@@ -789,9 +2115,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T18:15:34.987Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-30T18:16:55.232Z"
     },
     {
       "key": "11:moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
@@ -799,9 +2135,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T18:18:29.736Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-30T18:20:00.255Z"
     },
     {
       "key": "12:moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
@@ -809,9 +2155,25 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T18:22:26.511Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E02: stato \"proposto\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc02-agenzie-fiscali-chapters-14-appendici-operative-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-07-30T18:24:36.022Z"
     },
     {
       "key": "13:moduli/m-fc02-agenzie-fiscali",
@@ -819,9 +2181,60 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-fc02-agenzie-fiscali",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-30T18:25:32.493Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto M01: stato \"aperto\".",
+            "location": "wiki/reviews/pipeline/VOL-03/13-moduli-m-fc02-agenzie-fiscali.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto M02: stato \"aperto\".",
+            "location": "wiki/reviews/pipeline/VOL-03/13-moduli-m-fc02-agenzie-fiscali.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto M03: stato \"aperto\".",
+            "location": "wiki/reviews/pipeline/VOL-03/13-moduli-m-fc02-agenzie-fiscali.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto M04: stato \"aperto\".",
+            "location": "wiki/reviews/pipeline/VOL-03/13-moduli-m-fc02-agenzie-fiscali.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto M05: stato \"aperto\".",
+            "location": "wiki/reviews/pipeline/VOL-03/13-moduli-m-fc02-agenzie-fiscali.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto M06: stato \"aperto\".",
+            "location": "wiki/reviews/pipeline/VOL-03/13-moduli-m-fc02-agenzie-fiscali.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto M07: stato \"aperto\".",
+            "location": "wiki/reviews/pipeline/VOL-03/13-moduli-m-fc02-agenzie-fiscali.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto L01: stato \"proposto\".",
+            "location": "wiki/reviews/pipeline/VOL-03/13-moduli-m-fc02-agenzie-fiscali.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-07-30T18:40:00.016Z"
     },
     {
       "key": "14:moduli/m-fc02-agenzie-fiscali",
@@ -829,9 +2242,25 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-fc02-agenzie-fiscali",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-04T17:14:29.208Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto L01: stato \"aperto per preflight\".",
+            "location": "wiki/reviews/pipeline/VOL-03/14-moduli-m-fc02-agenzie-fiscali.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-04T17:22:12.475Z"
     },
     {
       "key": "15:moduli/m-fc02-agenzie-fiscali",
@@ -839,9 +2268,32 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-fc02-agenzie-fiscali",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-04T17:22:22.901Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"human-signoff\" dello step 15 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fc02-agenzie-fiscali"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di aless: Review umana HR01-HR26 approvata esplicitamente da Alberto Brando in chat il 2026-08-04 con comando accept; nessuna correzione aggiuntiva richiesta; restano aggiornamento fonti vive e preflight KDP."
+          }
+        ],
+        "notImplemented": [
+          "human-signoff"
+        ]
+      },
+      "finishedAt": "2026-08-04T17:36:41.135Z"
     },
     {
       "key": "16:moduli/m-fc02-agenzie-fiscali",
@@ -849,9 +2301,32 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-fc02-agenzie-fiscali",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-04T17:36:46.650Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"text-freeze\" dello step 16 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fc02-agenzie-fiscali"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di aless: Verifica manuale text freeze completata il 2026-08-04: 16 capitoli presenti; matrice 80/80 completa e zero blocker; step Humanizer, revisione qualità, correzioni e revisione umana 11-15 chiusi; indice, fonti e cut-off verificati; manifest di 180 file con 180 hash SHA-256 registrato in wiki/reviews/pipeline/VOL-03/16-moduli-m-fc02-agenzie-fiscali.md; suite 193/193 superata."
+          }
+        ],
+        "notImplemented": [
+          "text-freeze"
+        ]
+      },
+      "finishedAt": "2026-08-04T17:39:55.709Z"
     },
     {
       "key": "08:moduli/m-fc01-ministeri/chapters/01-lavorare-ministeri-funzioni-centrali.md",
@@ -859,9 +2334,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc01-ministeri/chapters/01-lavorare-ministeri-funzioni-centrali.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-04T17:39:56.403Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fc01-ministeri/chapters/01-lavorare-ministeri-funzioni-centrali.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di aless: Piano operativo verificato manualmente in wiki/reviews/pipeline/VOL-03/08-moduli-m-fc01-ministeri-chapters-01-lavorare-ministeri-funzioni-centrali-md.md: 10 nuclei con stato e azione, sezioni da conservare, sviluppi, duplicazioni, attività, fonti consolidate, struttura H1/H2/H3, budget KDP e 5 review umane. Capitolo sorgente non modificato. Lacuna matrice M-FC01 tracciata come review obbligatoria."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-04T17:42:32.124Z"
     },
     {
       "key": "09:moduli/m-fc01-ministeri/chapters/01-lavorare-ministeri-funzioni-centrali.md",
@@ -869,9 +2367,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc01-ministeri/chapters/01-lavorare-ministeri-funzioni-centrali.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-04T17:42:32.979Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-04T17:42:41.682Z"
     },
     {
       "key": "10:moduli/m-fc01-ministeri/chapters/01-lavorare-ministeri-funzioni-centrali.md",
@@ -879,9 +2387,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc01-ministeri/chapters/01-lavorare-ministeri-funzioni-centrali.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-04T17:42:50.204Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-04T17:44:39.087Z"
     },
     {
       "key": "11:moduli/m-fc01-ministeri/chapters/01-lavorare-ministeri-funzioni-centrali.md",
@@ -889,9 +2407,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc01-ministeri/chapters/01-lavorare-ministeri-funzioni-centrali.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-04T17:44:40.026Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-04T17:45:53.716Z"
     },
     {
       "key": "12:moduli/m-fc01-ministeri/chapters/01-lavorare-ministeri-funzioni-centrali.md",
@@ -899,9 +2427,45 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc01-ministeri/chapters/01-lavorare-ministeri-funzioni-centrali.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-04T17:46:00.115Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc01-ministeri-chapters-01-lavorare-ministeri-funzioni-centrali-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E02: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc01-ministeri-chapters-01-lavorare-ministeri-funzioni-centrali-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E03: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc01-ministeri-chapters-01-lavorare-ministeri-funzioni-centrali-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E04: stato \"proposto\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc01-ministeri-chapters-01-lavorare-ministeri-funzioni-centrali-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E05: stato \"aperto\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc01-ministeri-chapters-01-lavorare-ministeri-funzioni-centrali-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-04T17:47:35.860Z"
     },
     {
       "key": "08:moduli/m-fc01-ministeri/chapters/02-anatomia-bando-ministeriale-ripam.md",
@@ -909,9 +2473,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc01-ministeri/chapters/02-anatomia-bando-ministeriale-ripam.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-04T17:47:36.577Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fc01-ministeri/chapters/02-anatomia-bando-ministeriale-ripam.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di aless: Piano operativo verificato manualmente in wiki/reviews/pipeline/VOL-03/08-moduli-m-fc01-ministeri-chapters-02-anatomia-bando-ministeriale-ripam-md.md: 10 nuclei completi con evidenze, sezioni da preservare, rifiniture, duplicazioni, fonti, struttura H1/H2/H3, budget KDP e review. Capitolo sorgente non modificato nello step 08."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-04T17:50:43.947Z"
     },
     {
       "key": "09:moduli/m-fc01-ministeri/chapters/02-anatomia-bando-ministeriale-ripam.md",
@@ -919,9 +2506,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc01-ministeri/chapters/02-anatomia-bando-ministeriale-ripam.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-04T17:50:44.688Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-04T17:52:25.527Z"
     },
     {
       "key": "10:moduli/m-fc01-ministeri/chapters/02-anatomia-bando-ministeriale-ripam.md",
@@ -929,9 +2526,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc01-ministeri/chapters/02-anatomia-bando-ministeriale-ripam.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-04T17:52:31.504Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-04T17:53:31.657Z"
     },
     {
       "key": "11:moduli/m-fc01-ministeri/chapters/02-anatomia-bando-ministeriale-ripam.md",
@@ -939,9 +2546,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc01-ministeri/chapters/02-anatomia-bando-ministeriale-ripam.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-04T17:53:40.162Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-04T17:54:09.916Z"
     },
     {
       "key": "12:moduli/m-fc01-ministeri/chapters/02-anatomia-bando-ministeriale-ripam.md",
@@ -949,9 +2566,45 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc01-ministeri/chapters/02-anatomia-bando-ministeriale-ripam.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-04T17:54:17.237Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc01-ministeri-chapters-02-anatomia-bando-ministeriale-ripam-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E02: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc01-ministeri-chapters-02-anatomia-bando-ministeriale-ripam-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E03: stato \"proposto\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc01-ministeri-chapters-02-anatomia-bando-ministeriale-ripam-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E04: stato \"aperto\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc01-ministeri-chapters-02-anatomia-bando-ministeriale-ripam-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E05: stato \"proposto\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc01-ministeri-chapters-02-anatomia-bando-ministeriale-ripam-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-04T17:55:04.143Z"
     },
     {
       "key": "08:moduli/m-fc01-ministeri/chapters/03-profili-professionali-ccnl-mansioni.md",
@@ -959,9 +2612,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc01-ministeri/chapters/03-profili-professionali-ccnl-mansioni.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-04T17:55:04.809Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fc01-ministeri/chapters/03-profili-professionali-ccnl-mansioni.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di aless: Piano operativo verificato manualmente in wiki/reviews/pipeline/VOL-03/08-moduli-m-fc01-ministeri-chapters-03-profili-professionali-ccnl-mansioni-md.md: 8 nuclei mancanti correttamente classificati, struttura, fonti, duplicazioni, attività, budget KDP e review definiti. Il capitolo sorgente non è stato modificato nello step 08."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-04T17:56:10.197Z"
     },
     {
       "key": "09:moduli/m-fc01-ministeri/chapters/03-profili-professionali-ccnl-mansioni.md",
@@ -969,9 +2645,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc01-ministeri/chapters/03-profili-professionali-ccnl-mansioni.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-04T17:56:10.870Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-04T18:00:04.812Z"
     },
     {
       "key": "10:moduli/m-fc01-ministeri/chapters/03-profili-professionali-ccnl-mansioni.md",
@@ -979,9 +2665,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc01-ministeri/chapters/03-profili-professionali-ccnl-mansioni.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-04T18:00:09.739Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-04T18:01:22.865Z"
     },
     {
       "key": "11:moduli/m-fc01-ministeri/chapters/03-profili-professionali-ccnl-mansioni.md",
@@ -989,9 +2685,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc01-ministeri/chapters/03-profili-professionali-ccnl-mansioni.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-04T18:01:29.128Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-04T18:02:26.125Z"
     },
     {
       "key": "12:moduli/m-fc01-ministeri/chapters/03-profili-professionali-ccnl-mansioni.md",
@@ -999,9 +2705,45 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc01-ministeri/chapters/03-profili-professionali-ccnl-mansioni.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-04T18:02:40.500Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc01-ministeri-chapters-03-profili-professionali-ccnl-mansioni-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E02: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc01-ministeri-chapters-03-profili-professionali-ccnl-mansioni-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E03: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc01-ministeri-chapters-03-profili-professionali-ccnl-mansioni-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E04: stato \"aperto\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc01-ministeri-chapters-03-profili-professionali-ccnl-mansioni-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E05: stato \"proposto\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc01-ministeri-chapters-03-profili-professionali-ccnl-mansioni-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-04T18:03:36.618Z"
     },
     {
       "key": "08:moduli/m-fc01-ministeri/chapters/04-governo-ministeri-amministrazione-centrale.md",
@@ -1009,9 +2751,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc01-ministeri/chapters/04-governo-ministeri-amministrazione-centrale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-04T18:03:43.258Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fc01-ministeri/chapters/04-governo-ministeri-amministrazione-centrale.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di aless: Verifica manuale completata: piano operativo presente, otto nuclei atomici, confini editoriali, fonti, struttura KDP e review umane esplicitati."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-04T18:04:50.212Z"
     },
     {
       "key": "09:moduli/m-fc01-ministeri/chapters/04-governo-ministeri-amministrazione-centrale.md",
@@ -1019,9 +2784,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc01-ministeri/chapters/04-governo-ministeri-amministrazione-centrale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-04T18:04:50.878Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-04T18:16:55.422Z"
     },
     {
       "key": "10:moduli/m-fc01-ministeri/chapters/04-governo-ministeri-amministrazione-centrale.md",
@@ -1029,9 +2804,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc01-ministeri/chapters/04-governo-ministeri-amministrazione-centrale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-04T18:17:06.122Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-04T18:17:39.551Z"
     },
     {
       "key": "11:moduli/m-fc01-ministeri/chapters/04-governo-ministeri-amministrazione-centrale.md",
@@ -1039,9 +2824,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc01-ministeri/chapters/04-governo-ministeri-amministrazione-centrale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-04T18:17:44.438Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-04T18:17:57.215Z"
     },
     {
       "key": "12:moduli/m-fc01-ministeri/chapters/04-governo-ministeri-amministrazione-centrale.md",
@@ -1049,9 +2844,45 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc01-ministeri/chapters/04-governo-ministeri-amministrazione-centrale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-04T18:18:04.177Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc01-ministeri-chapters-04-governo-ministeri-amministrazione-centrale-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E02: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc01-ministeri-chapters-04-governo-ministeri-amministrazione-centrale-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E03: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc01-ministeri-chapters-04-governo-ministeri-amministrazione-centrale-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E04: stato \"aperto\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc01-ministeri-chapters-04-governo-ministeri-amministrazione-centrale-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E05: stato \"proposto\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc01-ministeri-chapters-04-governo-ministeri-amministrazione-centrale-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-04T18:18:39.456Z"
     },
     {
       "key": "08:moduli/m-fc01-ministeri/chapters/05-presidenza-consiglio-ministri.md",
@@ -1059,9 +2890,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc01-ministeri/chapters/05-presidenza-consiglio-ministri.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-04T18:18:47.413Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fc01-ministeri/chapters/05-presidenza-consiglio-ministri.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di aless: Verifica manuale completata: piano presente con otto nuclei atomici, fonti consolidate, confini con capitoli 03-04-06, struttura KDP e review normative esplicite."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-04T18:51:27.452Z"
     },
     {
       "key": "09:moduli/m-fc01-ministeri/chapters/05-presidenza-consiglio-ministri.md",
@@ -1069,9 +2923,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc01-ministeri/chapters/05-presidenza-consiglio-ministri.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-04T18:51:28.471Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-04T18:53:03.602Z"
     },
     {
       "key": "10:moduli/m-fc01-ministeri/chapters/05-presidenza-consiglio-ministri.md",
@@ -1079,9 +2943,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc01-ministeri/chapters/05-presidenza-consiglio-ministri.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-04T18:53:10.556Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-04T18:54:53.905Z"
     },
     {
       "key": "11:moduli/m-fc01-ministeri/chapters/05-presidenza-consiglio-ministri.md",
@@ -1089,9 +2963,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc01-ministeri/chapters/05-presidenza-consiglio-ministri.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-04T18:55:07.080Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-04T18:55:33.395Z"
     },
     {
       "key": "12:moduli/m-fc01-ministeri/chapters/05-presidenza-consiglio-ministri.md",
@@ -1099,9 +2983,45 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc01-ministeri/chapters/05-presidenza-consiglio-ministri.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-04T18:55:42.143Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc01-ministeri-chapters-05-presidenza-consiglio-ministri-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E02: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc01-ministeri-chapters-05-presidenza-consiglio-ministri-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E03: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc01-ministeri-chapters-05-presidenza-consiglio-ministri-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E04: stato \"proposto\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc01-ministeri-chapters-05-presidenza-consiglio-ministri-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E05: stato \"aperto\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc01-ministeri-chapters-05-presidenza-consiglio-ministri-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-04T18:56:16.063Z"
     },
     {
       "key": "08:moduli/m-fc01-ministeri/chapters/06-organizzazione-interna-ministeri.md",
@@ -1109,9 +3029,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc01-ministeri/chapters/06-organizzazione-interna-ministeri.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-04T18:56:24.430Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fc01-ministeri/chapters/06-organizzazione-interna-ministeri.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di aless: Verifica manuale completata: piano presente con otto nuclei atomici, fonti consolidate, confini con capitoli 03-05 e VOL-01, struttura KDP, casi e review normative esplicite."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-04T18:58:55.998Z"
     },
     {
       "key": "09:moduli/m-fc01-ministeri/chapters/06-organizzazione-interna-ministeri.md",
@@ -1119,9 +3062,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc01-ministeri/chapters/06-organizzazione-interna-ministeri.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T15:29:51.595Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-05T15:31:40.753Z"
     },
     {
       "key": "10:moduli/m-fc01-ministeri/chapters/06-organizzazione-interna-ministeri.md",
@@ -1129,9 +3082,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc01-ministeri/chapters/06-organizzazione-interna-ministeri.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T15:54:20.427Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-05T15:57:26.986Z"
     },
     {
       "key": "11:moduli/m-fc01-ministeri/chapters/06-organizzazione-interna-ministeri.md",
@@ -1139,9 +3102,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc01-ministeri/chapters/06-organizzazione-interna-ministeri.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T15:58:18.270Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-05T15:59:05.329Z"
     },
     {
       "key": "12:moduli/m-fc01-ministeri/chapters/06-organizzazione-interna-ministeri.md",
@@ -1149,9 +3122,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc01-ministeri/chapters/06-organizzazione-interna-ministeri.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T16:01:26.177Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-05T16:03:02.259Z"
     },
     {
       "key": "08:moduli/m-fc01-ministeri/chapters/07-avvocatura-stato.md",
@@ -1159,9 +3142,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc01-ministeri/chapters/07-avvocatura-stato.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T16:04:24.736Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fc01-ministeri/chapters/07-avvocatura-stato.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di aless: Verifica manuale completata: piano presente con otto nuclei atomici, fonti consolidate, confini con capitoli 03-06, 08, 11 e VOL-01, struttura H1/H2/H3, apparati didattici, budget KDP e review normative esplicite. Il capitolo sorgente non è stato modificato nello step 08."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-05T16:06:40.744Z"
     },
     {
       "key": "09:moduli/m-fc01-ministeri/chapters/07-avvocatura-stato.md",
@@ -1169,9 +3175,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc01-ministeri/chapters/07-avvocatura-stato.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T16:10:35.556Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-05T16:13:14.163Z"
     },
     {
       "key": "10:moduli/m-fc01-ministeri/chapters/07-avvocatura-stato.md",
@@ -1179,9 +3195,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc01-ministeri/chapters/07-avvocatura-stato.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T16:14:40.276Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-05T16:15:42.169Z"
     },
     {
       "key": "11:moduli/m-fc01-ministeri/chapters/07-avvocatura-stato.md",
@@ -1189,9 +3215,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc01-ministeri/chapters/07-avvocatura-stato.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T16:16:58.497Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-05T16:17:56.340Z"
     },
     {
       "key": "12:moduli/m-fc01-ministeri/chapters/07-avvocatura-stato.md",
@@ -1199,9 +3235,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc01-ministeri/chapters/07-avvocatura-stato.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T16:19:10.472Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-05T16:20:44.883Z"
     },
     {
       "key": "08:moduli/m-fc01-ministeri/chapters/08-piao-performance-anticorruzione-valore-pubblico.md",
@@ -1209,9 +3255,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc01-ministeri/chapters/08-piao-performance-anticorruzione-valore-pubblico.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T16:21:52.251Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fc01-ministeri/chapters/08-piao-performance-anticorruzione-valore-pubblico.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di aless: Verifica manuale completata: piano presente, 8 nuclei atomici, sezioni da conservare, confini anti-duplicazione, apparati didattici, fonti consolidate, struttura H1/H2/H3, budget KDP e review umane; capitolo non modificato."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-05T16:24:20.064Z"
     },
     {
       "key": "09:moduli/m-fc01-ministeri/chapters/08-piao-performance-anticorruzione-valore-pubblico.md",
@@ -1219,9 +3288,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc01-ministeri/chapters/08-piao-performance-anticorruzione-valore-pubblico.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T16:26:49.791Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-05T16:32:41.218Z"
     },
     {
       "key": "10:moduli/m-fc01-ministeri/chapters/08-piao-performance-anticorruzione-valore-pubblico.md",
@@ -1229,9 +3308,15 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc01-ministeri/chapters/08-piao-performance-anticorruzione-valore-pubblico.md",
-      "status": "pending",
+      "status": "done",
       "attempts": 0,
-      "evidence": []
+      "evidence": [],
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-05T16:49:53.236Z"
     },
     {
       "key": "11:moduli/m-fc01-ministeri/chapters/08-piao-performance-anticorruzione-valore-pubblico.md",
@@ -1239,9 +3324,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc01-ministeri/chapters/08-piao-performance-anticorruzione-valore-pubblico.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T16:56:19.310Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-05T16:57:56.848Z"
     },
     {
       "key": "12:moduli/m-fc01-ministeri/chapters/08-piao-performance-anticorruzione-valore-pubblico.md",
@@ -1249,9 +3344,40 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc01-ministeri/chapters/08-piao-performance-anticorruzione-valore-pubblico.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T17:04:29.076Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc01-ministeri-chapters-08-piao-performance-anticorruzione-valore-pubblico-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V02: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc01-ministeri-chapters-08-piao-performance-anticorruzione-valore-pubblico-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V03: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc01-ministeri-chapters-08-piao-performance-anticorruzione-valore-pubblico-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V04: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc01-ministeri-chapters-08-piao-performance-anticorruzione-valore-pubblico-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-05T17:05:59.816Z"
     },
     {
       "key": "08:moduli/m-fc01-ministeri/chapters/09-contabilita-stato-bilancio-ministeriale.md",
@@ -1259,9 +3385,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc01-ministeri/chapters/09-contabilita-stato-bilancio-ministeriale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T17:10:59.942Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fc01-ministeri/chapters/09-contabilita-stato-bilancio-ministeriale.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di aless: Piano verificato manualmente in wiki/reviews/pipeline/VOL-03/08-moduli-m-fc01-ministeri-chapters-09-contabilita-stato-bilancio-ministeriale-md.md: cinque Nucleo ID stabili, stato iniziale, sezioni da conservare, confini e duplicazioni, casi ed esercizi, fonti consolidate, sette audit automatici, struttura H1/H2/H3, budget formato 2 e criteri di accettazione. Capitolo sorgente non modificato."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-05T17:14:09.769Z"
     },
     {
       "key": "09:moduli/m-fc01-ministeri/chapters/09-contabilita-stato-bilancio-ministeriale.md",
@@ -1269,9 +3418,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc01-ministeri/chapters/09-contabilita-stato-bilancio-ministeriale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T17:15:20.513Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-05T17:20:30.369Z"
     },
     {
       "key": "10:moduli/m-fc01-ministeri/chapters/09-contabilita-stato-bilancio-ministeriale.md",
@@ -1279,9 +3438,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc01-ministeri/chapters/09-contabilita-stato-bilancio-ministeriale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T17:23:10.102Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-05T17:27:36.931Z"
     },
     {
       "key": "11:moduli/m-fc01-ministeri/chapters/09-contabilita-stato-bilancio-ministeriale.md",
@@ -1289,9 +3458,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc01-ministeri/chapters/09-contabilita-stato-bilancio-ministeriale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T17:28:43.193Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-05T17:30:09.705Z"
     },
     {
       "key": "12:moduli/m-fc01-ministeri/chapters/09-contabilita-stato-bilancio-ministeriale.md",
@@ -1299,9 +3478,40 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc01-ministeri/chapters/09-contabilita-stato-bilancio-ministeriale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T17:31:17.383Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc01-ministeri-chapters-09-contabilita-stato-bilancio-ministeriale-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V02: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc01-ministeri-chapters-09-contabilita-stato-bilancio-ministeriale-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V03: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc01-ministeri-chapters-09-contabilita-stato-bilancio-ministeriale-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V04: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc01-ministeri-chapters-09-contabilita-stato-bilancio-ministeriale-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-05T17:33:02.012Z"
     },
     {
       "key": "08:moduli/m-fc01-ministeri/chapters/10-contratti-pubblici-pnrr-amministrazione-digitale.md",
@@ -1309,9 +3519,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc01-ministeri/chapters/10-contratti-pubblici-pnrr-amministrazione-digitale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T17:34:28.151Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fc01-ministeri/chapters/10-contratti-pubblici-pnrr-amministrazione-digitale.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di aless: Piano verificato manualmente: sei nuclei stabili, struttura H1/H2/H3, confini VOL-01 e M-TR02, fonti, audit specialistici, apparati e budget conformi; capitolo target non modificato."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-05T17:36:53.184Z"
     },
     {
       "key": "09:moduli/m-fc01-ministeri/chapters/10-contratti-pubblici-pnrr-amministrazione-digitale.md",
@@ -1319,9 +3552,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc01-ministeri/chapters/10-contratti-pubblici-pnrr-amministrazione-digitale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T17:38:22.144Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-05T17:40:26.277Z"
     },
     {
       "key": "10:moduli/m-fc01-ministeri/chapters/10-contratti-pubblici-pnrr-amministrazione-digitale.md",
@@ -1329,9 +3572,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc01-ministeri/chapters/10-contratti-pubblici-pnrr-amministrazione-digitale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T17:41:30.569Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-05T17:48:28.199Z"
     },
     {
       "key": "11:moduli/m-fc01-ministeri/chapters/10-contratti-pubblici-pnrr-amministrazione-digitale.md",
@@ -1339,9 +3592,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc01-ministeri/chapters/10-contratti-pubblici-pnrr-amministrazione-digitale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T17:52:26.114Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-05T17:55:25.108Z"
     },
     {
       "key": "12:moduli/m-fc01-ministeri/chapters/10-contratti-pubblici-pnrr-amministrazione-digitale.md",
@@ -1349,9 +3612,45 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc01-ministeri/chapters/10-contratti-pubblici-pnrr-amministrazione-digitale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T17:58:56.844Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc01-ministeri-chapters-10-contratti-pubblici-pnrr-amministrazione-digitale-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V02: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc01-ministeri-chapters-10-contratti-pubblici-pnrr-amministrazione-digitale-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V03: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc01-ministeri-chapters-10-contratti-pubblici-pnrr-amministrazione-digitale-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V04: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc01-ministeri-chapters-10-contratti-pubblici-pnrr-amministrazione-digitale-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V05: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-03/12-moduli-m-fc01-ministeri-chapters-10-contratti-pubblici-pnrr-amministrazione-digitale-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-05T18:02:19.018Z"
     },
     {
       "key": "08:moduli/m-fc01-ministeri/chapters/11-casi-pratici-ministeriali.md",
@@ -1359,9 +3658,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-fc01-ministeri/chapters/11-casi-pratici-ministeriali.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "aless",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-05T18:07:51.925Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fc01-ministeri/chapters/11-casi-pratici-ministeriali.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di aless: Verifica manuale completata: piano nel report previsto con sette Nucleo ID stabili, stato dei nuclei, sezioni da conservare, duplicazioni e confini, struttura H1/H2/H3, sette casi originali, otto quiz, fonti, audit, budget e criteri di chiusura; capitolo non modificato."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-05T18:11:05.914Z"
     },
     {
       "key": "09:moduli/m-fc01-ministeri/chapters/11-casi-pratici-ministeriali.md",

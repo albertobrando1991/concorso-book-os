@@ -35,6 +35,18 @@ export interface CompleteStepInput {
   now: string
 }
 
+export interface ReopenStepsInput {
+  startKeys: string[]
+  cascade: boolean
+  note: string
+  now: string
+}
+
+export interface ReopenStepsResult {
+  state: RunState
+  reopenedKeys: string[]
+}
+
 export function stepKey(id: string, target: string) {
   return target ? `${id}:${target}` : id
 }
@@ -93,6 +105,112 @@ export function completeStep(state: RunState, key: string, input: CompleteStepIn
     },
     input.now
   )
+}
+
+export function reopenSteps(state: RunState, input: ReopenStepsInput): ReopenStepsResult {
+  if (input.startKeys.length === 0) {
+    throw new Error("Indica almeno uno step da riaprire.")
+  }
+
+  if (!input.note.trim()) {
+    throw new Error("La nota di riapertura non può essere vuota.")
+  }
+
+  const selectedSteps = input.startKeys.map((key) => {
+    const step = state.steps.find((candidate) => candidate.key === key)
+
+    if (!step) {
+      throw new Error(`Step ${key} assente dal run-state di ${state.volumeCode}.`)
+    }
+
+    return step
+  })
+  const selectedKeys = new Set(input.startKeys)
+  const startOrder = Math.min(...selectedSteps.map(stepOrder))
+  const cascadeScope = buildCascadeScope(state, selectedSteps)
+  const isDownstream = (step: StepRecord) =>
+    stepOrder(step) >= startOrder && stepOrder(step) < 24 && matchesCascadeScope(step, cascadeScope)
+  const reopenedKeys = input.cascade
+    ? new Set(state.steps.filter(isDownstream).map((step) => step.key))
+    : selectedKeys
+
+  if (!input.cascade) {
+    const terminalDownstream = state.steps.find(
+      (step) => stepOrder(step) > startOrder && isDownstream(step) && !reopenedKeys.has(step.key) && isTerminal(step.status)
+    )
+
+    if (terminalDownstream) {
+      throw new Error(`Lo step ${terminalDownstream.id} è già terminale a valle: usa la riapertura con cascade.`)
+    }
+  }
+
+  return {
+    state: {
+      ...state,
+      updatedAt: input.now,
+      steps: state.steps.map((step) =>
+        reopenedKeys.has(step.key)
+          ? pendingStep(step, selectedKeys.has(step.key) ? input.note : undefined)
+          : step
+      )
+    },
+    reopenedKeys: state.steps.filter((step) => reopenedKeys.has(step.key)).map((step) => step.key)
+  }
+}
+
+interface CascadeScope {
+  global: boolean
+  chapterTargets: Set<string>
+  moduleTargets: Set<string>
+  chapterModuleTargets: Set<string>
+}
+
+function buildCascadeScope(state: RunState, selectedSteps: StepRecord[]): CascadeScope {
+  const global = selectedSteps.some((step) => step.scope === "volume" || step.scope === "catalog")
+  const chapterTargets = new Set(selectedSteps.filter((step) => step.scope === "chapter").map((step) => step.target))
+  const moduleTargets = new Set(selectedSteps.filter((step) => step.scope === "module").map((step) => step.target))
+  const chapterModuleTargets = new Set(moduleTargets)
+  const declaredModuleTargets = new Set(state.steps.filter((step) => step.scope === "module").map((step) => step.target))
+
+  for (const chapterTarget of chapterTargets) {
+    const declared = [...declaredModuleTargets].filter((target) => chapterTarget.startsWith(`${target}/`))
+
+    if (declared.length) {
+      for (const target of declared) moduleTargets.add(target)
+      continue
+    }
+
+    const marker = chapterTarget.indexOf("/chapters/")
+    if (marker >= 0) moduleTargets.add(chapterTarget.slice(0, marker))
+  }
+
+  return { global, chapterTargets, moduleTargets, chapterModuleTargets }
+}
+
+function matchesCascadeScope(step: StepRecord, scope: CascadeScope) {
+  if (scope.global || step.scope === "volume" || step.scope === "catalog") return true
+  if (step.scope === "module") return scope.moduleTargets.has(step.target)
+
+  return scope.chapterTargets.has(step.target) || [...scope.chapterModuleTargets].some((target) => step.target.startsWith(`${target}/`))
+}
+
+function stepOrder(step: StepRecord) {
+  const parsed = Number.parseInt(step.id, 10)
+  return Number.isFinite(parsed) ? parsed : Number.MAX_SAFE_INTEGER
+}
+function pendingStep(step: StepRecord, note?: string): StepRecord {
+  return {
+    ...step,
+    status: "pending",
+    attempts: 0,
+    gate: undefined,
+    owner: undefined,
+    agent: undefined,
+    provider: undefined,
+    startedAt: undefined,
+    finishedAt: undefined,
+    evidence: note ? [...step.evidence, `reopen: ${note}`] : step.evidence
+  }
 }
 
 export function markStep(state: RunState, key: string, status: StepStatus, now: string): RunState {

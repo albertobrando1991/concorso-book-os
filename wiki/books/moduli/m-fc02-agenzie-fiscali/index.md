@@ -53,7 +53,7 @@ Modulo specialistico collegato a [[books/il-metodo-bando/index|Il Metodo BANDO]]
 - Con cautela: profili AE gestionali/RU se il bando contiene fiscalita o organizzazione fiscale.
 - Fuori: ICT/AI/cybersecurity e big data (M-TR01), gare/appalti/PNRR (M-TR02), tecnico-ingegneristico puro/logistica/sicurezza (M-TR03), EPNE non fiscali (M-FC03).
 - Fase roadmap: 2
-- Stato: 14 capitoli numerati piu due intercalari 5A/5B sviluppati; restano 18 blocker didattici e review normative/tecniche.
+- Stato: 14 capitoli numerati più due intercalari 5A/5B sviluppati; la matrice registra 80 nuclei completi e nessun blocker didattico. Restano aperte le review normative/tecniche e il preflight KDP.
 
 ## Confine editoriale
 Il modulo non sostituisce il libro principale. Parte dal nucleo comune del Metodo BANDO e aggiunge profili, prove, materie specialistiche, rischi, fonti e casi tipici della famiglia fiscale.
@@ -108,4 +108,4 @@ FM6. [[books/moduli/m-fc02-agenzie-fiscali/front-matter/06-indice|Indice]]
 Le fonti grezze del modulo sono in `wiki/raw/m-fc02-agenzie-fiscali/`: dossier utente, bandi inPA/AE/ADM/AdER, Normattiva, Gazzetta Ufficiale, MEF ed EUR-Lex. Il quadro UE dispone ora di raw ufficiali consolidati per Trattati, direttiva IVA, CDU e atti 2446/2447; restano necessari controllo di versione e review umana al cut-off.
 
 ## Prossimo passo
-Chiudere i 18 blocker residui della matrice, aggiornare i casi dopo le review specialistiche e sottoporre il modulo a revisione normativa/tecnica prima di qualunque stato pubblicabile.
+Completare le correzioni trasversali, aggiornare i casi dopo le review specialistiche e sottoporre il modulo a revisione normativa/tecnica e preflight KDP prima di qualunque stato pubblicabile.

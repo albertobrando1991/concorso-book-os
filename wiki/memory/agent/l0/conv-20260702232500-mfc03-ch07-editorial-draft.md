@@ -1,0 +1,5 @@
+﻿# Memoria conversazione - M-FC03 capitolo 7 performance PIAO valore pubblico
+
+Richiesta: redigere il settimo capitolo del modulo didattico M-FC03 seguendo la struttura editoriale degli altri capitoli, con testo grammaticalmente corretto, sintatticamente fluido, coerente e documentato su fonti wiki consolidate e fonti autorevoli.
+
+Risultato: sviluppato `wiki/books/moduli/m-fc03-enti-non-economici/chapters/07-performance-piao-valore-pubblico-epne.md` come bozza editoriale professionale di circa 3.299 parole. Il capitolo ora include apertura, obiettivo, mappa BANDO, definizione concorsuale di performance/PIAO/valore pubblico, rilevanza negli EPNE, sei nuclei, raccordo con materie comuni, scheda PIAO/performance applicata, caso guidato, domande, errore tipico, mini-esercizio, diario errori, checklist, riferimenti consolidati e note di review. Fonti usate: fonti ufficiali M-FC03, dossier M-FC03, D.P.R. 81/2022, decreto 132/2022, D.Lgs. 150/2009, fonte su responsabilita dirigenziale, topic anticorruzione/trasparenza e topic EPNE. Restano review umane su PIAO annuali, obiettivi, indicatori, numeri, sezioni aggiornate e dati specifici degli enti.
