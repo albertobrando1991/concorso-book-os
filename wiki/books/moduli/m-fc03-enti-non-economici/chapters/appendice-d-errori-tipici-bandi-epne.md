@@ -29,11 +29,11 @@ last_compiled_from: ["wiki/books/moduli/m-fc03-enti-non-economici/planning/00-pi
 
 ## Apertura editoriale
 
-Questa appendice serve a evitare gli errori che fanno perdere tempo prima ancora di iniziare a studiare. Nei concorsi per enti pubblici non economici, il candidato non sbaglia solo quando non conosce una materia. Sbaglia anche quando legge male il bando: confonde il portale con l'ente, il soggetto gestore con l'amministrazione di destinazione, il profilo amministrativo con un profilo tecnico, una materia integrativa con il centro della prova, un bando campione con un modello valido per tutti i concorsi futuri.
+Si può perdere tempo ancora prima di iniziare a studiare. Nei concorsi per enti pubblici non economici accade quando si legge male il bando: si confonde il portale con l'ente, il soggetto gestore con l'amministrazione di destinazione, un profilo amministrativo con uno tecnico oppure una materia integrativa con il centro della prova. Un altro errore frequente è trattare un vecchio bando come modello per tutte le procedure future.
 
 Il modulo M-FC03 è costruito proprio per ridurre questi rischi. INPS, INAIL e gli altri EPNE richiedono un nucleo comune di preparazione, ma anche un taglio specialistico: previdenza, assicurazione sociale, servizi, prestazioni, procedimenti, bilancio, PIAO, personale, casi pratici e quesiti situazionali. L'errore tipico nasce quando il candidato vede una sola parola del bando e costruisce tutto il piano su quella parola, senza verificare fonte, profilo, prove, materie, allegati e avvisi.
 
-Questa appendice non sostituisce il Bando Decoder EPNE del capitolo 10. Lo completa: raccoglie gli errori ricorrenti, mostra come riconoscerli e propone una correzione operativa.
+Il Bando Decoder EPNE del capitolo 10 resta lo strumento principale. Qui trovi gli errori ricorrenti, i segnali per riconoscerli e una correzione operativa per ciascuno.
 
 ## Obiettivo dell'appendice
 
@@ -45,7 +45,7 @@ Alla fine dell'appendice devi saper fare cinque cose:
 4. aggiornare il piano quando escono allegati, avvisi, rettifiche o calendari;
 5. trasformare ogni errore in una riga del diario, con causa e correzione.
 
-Il risultato atteso è una checklist anti-dispersione: prima di comprare materiali, aprire nuovi manuali o cambiare piano, controlli se stai cadendo in uno di questi errori.
+La checklist anti-dispersione serve proprio a questo controllo. Usala prima di comprare materiali, aprire un altro manuale o cambiare il piano di studio.
 
 ## Mappa BANDO
 
@@ -61,9 +61,9 @@ Il risultato atteso è una checklist anti-dispersione: prima di comprare materia
 
 ### Errore 1: confondere portale, gestore ed ente
 
-Il primo errore è pensare che il canale di pubblicazione decida la famiglia concorsuale. Una procedura può comparire su inPA, essere gestita tramite Formez/RIPAM o essere pubblicata anche sul sito dell'ente. Questo non basta a dire che cosa devi studiare.
+Il primo errore consiste nel dedurre la famiglia concorsuale dal canale di pubblicazione. Una procedura può comparire su inPA, essere gestita tramite Formez/RIPAM e figurare anche sul sito dell'ente. Da questi soli elementi non ricavi ancora che cosa studiare.
 
-La domanda corretta è: chi assume o riceve il personale? Quale ente è indicato nel bando o negli allegati? Quale profilo viene selezionato?
+Chiediti invece chi assume o riceve il personale, quale ente indicano il bando e gli allegati e per quale profilo si svolge la selezione.
 
 | Lettura debole | Lettura corretta |
 | --- | --- |
@@ -75,7 +75,7 @@ Correzione: nel Bando Decoder scrivi quattro righe separate: portale, soggetto g
 
 ### Errore 2: leggere solo il nome dell'ente
 
-Il nome dell'ente orienta, ma non basta. INPS, INAIL, ACI, ENAC, ISTAT, ASI, ENEA o CRI possono comparire in procedure diverse, con profili e materie molto differenti. Un profilo amministrativo non coincide con un profilo informatico, di ricerca, tecnico, ispettivo avanzato o sociale.
+Il nome dell'ente è un primo indizio, non il perimetro di studio. INPS, INAIL, ACI, ENAC, ISTAT, ASI, ENEA o CRI possono comparire in procedure molto diverse per profili e materie. Un profilo amministrativo richiede una preparazione diversa da uno informatico, di ricerca, tecnico, ispettivo avanzato o sociale.
 
 La regola è:
 
@@ -91,7 +91,7 @@ Se manca uno di questi elementi, la lettura è incompleta.
 
 La fonte è il documento o il canale dal quale ricavi un'informazione verificabile. Il portale è l'ambiente in cui l'avviso viene pubblicato o reso consultabile. Il gestore cura attività della procedura secondo quanto indicato negli atti. L'ente di destinazione è l'amministrazione presso cui si colloca il profilo. Il candidato deve tenere separati questi ruoli perché ciascuno risponde a una domanda diversa.
 
-La distinzione produce conseguenze concrete. Dal portale ricavi il percorso di consultazione e, quando previsto, di candidatura. Dal bando e dagli allegati ricavi requisiti, prove e materie. Dal profilo ricavi mansioni e famiglia professionale. Dall'ente ricavi il contesto istituzionale. Se trasferisci una funzione da un soggetto all'altro, rischi di monitorare il canale sbagliato o di scegliere un modulo non pertinente.
+Ogni elemento fornisce informazioni diverse. Il portale indica il percorso di consultazione e, quando previsto, di candidatura. Bando e allegati definiscono requisiti, prove e materie; il profilo chiarisce mansioni e famiglia professionale; l'ente dà il contesto istituzionale. Attribuire una funzione al soggetto sbagliato porta a monitorare il canale errato o a scegliere un modulo poco pertinente.
 
 | Elemento | Domanda | Errore che previene |
 | --- | --- | --- |
@@ -179,7 +179,7 @@ Correzione: apri un registro aggiornamenti.
 | Nuovo avviso trovato? | sì / no |
 | Che cosa cambia nel piano? | scadenza / prova / allegato / materia / logistica / nulla |
 
-Il fascicolo della procedura non coincide sempre con un solo documento. Il bando apre il quadro, mentre allegati e comunicazioni successive possono precisare profili, materie, modalità, calendario o adempimenti. Non ogni avviso modifica il piano di studio, ma ogni documento pertinente deve essere letto e classificato. La domanda utile è: “quale informazione precedente conferma, integra o corregge?”.
+Il fascicolo della procedura può comprendere più documenti. Il bando apre il quadro; allegati e comunicazioni successive possono precisare profili, materie, modalità, calendario o adempimenti. Un avviso non modifica necessariamente il piano di studio, ma va comunque letto e classificato. Occorre capire quale informazione precedente confermi, integri o corregga.
 
 Il registro aggiornamenti trasforma il monitoraggio in una procedura controllabile. La frequenza non è universale: dipende dalla fase del concorso, dai canali indicati e dalle scadenze. Conta registrare l'ultimo controllo e l'effetto concreto. Un avviso logistico può non cambiare lo studio, ma richiede un'azione organizzativa; una rettifica del programma impone invece di aggiornare aree, nuclei e calendario.
 
@@ -199,9 +199,9 @@ La data di consultazione non rende vero un dato: documenta quando lo hai control
 
 **Esempio.** Un avviso cambia la sede della prova ma non il programma. Nel registro, la colonna “che cosa cambia” riporta logistica, non materia. Il candidato aggiorna viaggio e orario, senza riscrivere il piano didattico. Se invece un allegato rettifica il programma, ricalcola le priorità e conserva traccia della modifica nel diario.
 
-L'errore tipico è confondere aggiornamento con accumulo. Salvare molti file senza indicarne data, oggetto e conseguenza non produce controllo. In quiz e orale conta riconoscere il documento pertinente; nella gestione personale conta sapere quale azione deriva dall'informazione. Il registro collega le due esigenze.
+Aggiornare non significa accumulare file. Senza data, oggetto e conseguenza, una cartella piena di documenti offre poco controllo. Nei quiz e all'orale devi riconoscere l'atto pertinente; nel piano personale devi tradurre l'informazione in un'azione. Il registro tiene insieme i due passaggi.
 
-Una sequenza affidabile prevede quattro operazioni: numerare i documenti in ordine cronologico, annotarne l'oggetto, confrontarli con la versione precedente e tradurre la variazione in un'azione. In questo modo una rettifica non resta un file isolato, ma diventa una decisione verificabile. Anche l'assenza di cambiamenti va registrata: dimostra che il controllo è stato eseguito e impedisce di ripetere inutilmente la ricerca. Prima della prova, il registro consente infine un riesame rapido delle sole comunicazioni che incidono su adempimenti, logistica o programma.
+Per seguire gli aggiornamenti, numera i documenti in ordine cronologico e annota l'oggetto di ciascuno. Confronta poi ogni nuova versione con la precedente e scrivi quale azione ne deriva. La rettifica entra così nel piano, invece di restare un file isolato. Registra anche i controlli che non rilevano cambiamenti: eviterai di ripetere la stessa ricerca e saprai quando hai verificato il canale l'ultima volta. Prima della prova potrai rileggere soltanto le comunicazioni che incidono su adempimenti, logistica o programma.
 
 Il confronto deve essere selettivo. Prima si identifica il campo interessato — requisiti, profilo, materie, modalità, calendario o adempimenti — poi si annota il testo precedente e quello aggiornato in forma sintetica. La colonna finale contiene l'azione: nessuna modifica, aggiornamento logistico, revisione del piano o controllo ulteriore. Se l'oggetto dell'avviso non è chiaro, il candidato non interpreta per analogia e non trasferisce conclusioni da altre procedure. Conserva il dubbio come dato da verificare e torna al canale ufficiale indicato negli atti. Questo passaggio separa la prudenza dall'immobilità: non significa sospendere lo studio, ma evitare decisioni fondate su informazioni incomplete.
 
@@ -240,7 +240,7 @@ Correzione: usa questa tabella.
 
 Un bando campione conserva valore come esercizio di metodo. Mostra dove trovare informazioni, come separare materie e prove e quali errori possono emergere. Non trasferisce automaticamente numero di quesiti, soglie, calendario, profili o allegati a una nuova procedura. Il capitale riutilizzabile è la tecnica di lettura, non il dato storico.
 
-Lo stesso criterio vale per appendici e rinvii. Un'appendice approfondisce un sottoprofilo o risolve un bisogno restando dentro M-FC03. Il rinvio serve quando la materia dominante appartiene a un'altra famiglia. Appendice A riguarda la vigilanza; B il lessico; C gli enti di orientamento; D gli errori; E i confini con altri moduli; F le integrazioni INAIL/RIPAM. Questa mappa seleziona, non moltiplica i materiali.
+Appendici e rinvii rispondono a esigenze diverse. L'appendice approfondisce un sottoprofilo che resta dentro M-FC03; il rinvio interviene quando la materia dominante appartiene a un'altra famiglia. L'Appendice A riguarda la vigilanza, la B il lessico, la C gli enti di orientamento, la D gli errori, la E i confini con altri moduli e la F le integrazioni INAIL/RIPAM. La mappa aiuta a scegliere il materiale pertinente, non ad aprirlo tutto.
 
 | Segnale | Decisione | Perché |
 | --- | --- | --- |
@@ -253,7 +253,7 @@ Lo stesso criterio vale per appendici e rinvii. Un'appendice approfondisce un so
 
 Nella prova orale, il candidato deve saper motivare il rinvio: non basta pronunciare il codice di un modulo. Deve indicare la parola-spia, la materia dominante e il contenuto che M-FC03 non copre. Nel piano personale, il rinvio non cancella il core già studiato; sposta soltanto il baricentro specialistico.
 
-L'errore tipico è considerare le appendici materiale secondario. In realtà, sono filtri: impediscono di ampliare i capitoli principali oltre il loro perimetro. Il secondo errore è l'opposto, cioè attivarle tutte. Si usa soltanto quella collegata a un segnale del bando.
+Considerare le appendici materiale secondario è un errore. Funzionano da filtro e impediscono di allargare i capitoli principali oltre il loro perimetro. Anche attivarle tutte porta fuori strada: va scelta soltanto l'appendice collegata a un segnale del bando.
 
 **Quiz 4.** Che cosa si può trasferire con sicurezza da un bando campione a uno nuovo? A) Il numero dei quesiti. B) La tecnica di lettura. C) Le soglie. **Risposta corretta: B.** I dati appartengono alla singola procedura; il metodo è riutilizzabile.
 
@@ -261,7 +261,7 @@ L'errore tipico è considerare le appendici materiale secondario. In realtà, so
 
 ### Errore 8: sottovalutare prove, soglie e output
 
-La lista delle materie non basta. Devi capire come sarai valutato: quiz, scritto, orale, casi pratici, situazionali, inglese, informatica, titoli, soglie, tempi. Una materia può pesare poco se non diventa output; una prova breve può decidere l'accesso alla fase successiva.
+La lista delle materie dice che cosa studiare, ma non come sarai valutato. Devi controllare quiz, scritto, orale, casi pratici, situazionali, inglese, informatica, titoli, soglie e tempi. Una materia può avere un peso ridotto; una prova breve, invece, può decidere l'accesso alla fase successiva.
 
 Correzione: collega ogni materia a un output.
 
@@ -273,7 +273,7 @@ Correzione: collega ogni materia a un output.
 | Situazionale | Quale gerarchia guida la scelta: servizio, legalità, privacy, imparzialità, tracciabilità? |
 | Inglese/informatica | Quale allenamento minimo serve per non perdere punti? |
 
-La materia indica che cosa conoscere; la prova indica quale prestazione produrre. Una lista identica può richiedere riconoscimento rapido in un quiz, esposizione ordinata all'orale o applicazione in un caso. Per questo il piano deve associare a ogni materia almeno un output osservabile. “Studiare amministrativo” non basta; “risolvere venti quesiti e spiegare un procedimento in novanta secondi” è verificabile.
+La materia indica che cosa conoscere; la prova stabilisce la prestazione richiesta. Lo stesso contenuto può richiedere riconoscimento rapido in un quiz, esposizione ordinata all'orale oppure applicazione in un caso. Associa quindi a ogni materia almeno un output osservabile. “Studiare amministrativo” è un'intenzione generica; “risolvere venti quesiti e spiegare un procedimento in novanta secondi” è un'attività verificabile.
 
 Soglie e tempi influiscono sulla strategia, ma sono dati della procedura. Vanno letti negli atti e non ricavati da esperienze precedenti. Una soglia può determinare l'accesso alla fase successiva; il tempo può rendere necessaria una tecnica di selezione. Il candidato registra il dato, la fonte e l'effetto sul proprio allenamento.
 
@@ -286,17 +286,19 @@ Soglie e tempi influiscono sulla strategia, ma sono dati della procedura. Vanno 
 
 **Esempio.** Anna conosce bene la privacy, ma non l'ha mai applicata a un caso di sportello. Se la prova contiene situazionali, la teoria isolata non basta. Aggiunge scenari in cui deve bilanciare servizio, riservatezza, competenza e tracciabilità. Non cambia materia: cambia l'output su cui si allena.
 
-La proporzione conta. Inglese o informatica possono incidere in modo diverso da una materia specialistica, ma non vanno ignorati quando sono previsti. Al contrario, una materia ampia non giustifica studio illimitato se la prova ne verifica soltanto un nucleo definito. Il bando governa sia la presenza sia la profondità.
+Il tempo va distribuito in proporzione alla prova. Inglese e informatica possono incidere meno di una materia specialistica, ma vanno comunque preparati quando sono previsti. Una materia ampia, d'altra parte, non giustifica uno studio illimitato se la prova ne verifica solo un nucleo definito. Il bando determina sia la presenza sia la profondità.
 
 All'orale, la domanda “come viene valutata questa materia?” permette di collegare programma e prestazione. Nel diario, un errore va classificato: contenuto non conosciuto, risposta lenta, lettura errata, esposizione confusa o scelta situazionale debole. Ogni categoria richiede una correzione diversa.
 
-La scheda delle prove va quindi compilata prima di costruire il calendario. Per ciascuna materia occorre indicare dove compare, con quale formato può essere verificata e quale prestazione allenare. Se il bando prevede quesiti situazionali, la sola memorizzazione non basta: servono decisioni motivate e confronto tra alternative. Se è previsto un orale, alle mappe vanno affiancate risposte brevi, lessico preciso e collegamenti tra istituti. Se una competenza è soltanto accertata con idoneità, resta necessaria, ma il tempo assegnato deve essere coerente con il suo peso. Questa lettura evita sia di trascurare prove decisive sia di dedicare settimane a elementi marginali.
+Compila la scheda delle prove prima del calendario. Per ogni materia indica dove compare, in quale formato può essere verificata e quale prestazione devi allenare. I quesiti situazionali richiedono decisioni motivate e confronto tra alternative, non semplice memoria. Per l'orale affianca alle mappe risposte brevi, lessico preciso e collegamenti tra istituti. Anche una competenza accertata con idoneità va preparata, assegnandole però un tempo coerente con il suo peso. In questo modo le prove decisive ricevono l'attenzione necessaria e gli elementi marginali non occupano settimane di studio.
+
+Annota infine la frequenza dell'allenamento e il risultato ottenuto. Senza questi due dati non puoi capire se il calendario sta migliorando davvero la prestazione richiesta.
 
 **Quiz 5.** Perché una lista di materie non basta? A) Perché non indica necessariamente forma, peso e output delle prove. B) Perché le materie non contano. C) Perché basta la missione dell'ente. **Risposta corretta: A.** La preparazione deve allenare la prestazione richiesta.
 
 ### Da sapere in 5 righe
 
-Nei bandi EPNE l'errore più pericoloso è iniziare a studiare prima di avere distinto fonte, portale, gestore, ente, profilo, prove, materie, allegati e avvisi. Il nome dell'ente orienta, ma non basta: servono profilo e prove. Le materie comuni restano nel libro base; il modulo M-FC03 aggiunge il delta specialistico. Le appendici servono a non disperdersi tra sottoprofili, lessico, enti minori, rinvii e materie integrative. Ogni dato instabile va verificato su fonte ufficiale e registrato nel diario.
+Nei bandi EPNE, studiare prima di aver distinto fonte, portale, gestore, ente e profilo porta facilmente fuori strada. Il perimetro dipende anche da prove, materie, allegati e avvisi. Le materie comuni restano nel libro base, mentre M-FC03 aggiunge il delta specialistico. Le appendici aiutano a gestire sottoprofili, lessico, enti di orientamento, rinvii e materie integrative. I dati instabili richiedono sempre una verifica sulla fonte ufficiale e una registrazione nel diario.
 
 ## N-FC03-17-06 · Laboratorio anti-dispersione e diario errori
 
@@ -313,7 +315,7 @@ La correzione avviene in quattro passaggi:
 3. classifica le materie in `base`, `M-FC03`, `appendice`, `rinvio`;
 4. crea una settimana di recupero: quiz comuni, mappa INAIL, caso pratico, situazionali e controllo avvisi.
 
-Il problema non era la sicurezza sul lavoro. Il problema era averla messa al centro senza leggere l'intero bando.
+La sicurezza sul lavoro era pertinente. Elena aveva però sbagliato priorità, perché l'aveva messa al centro senza leggere l'intero bando.
 
 ### Domanda da commissario
 
@@ -355,9 +357,9 @@ Correzione: se alla riga "ente di destinazione" scrivi il portale, non hai ancor
 
 ### Caso ragionato finale
 
-Sara trova un avviso su inPA per più amministrazioni. Un soggetto esterno supporta la procedura; tra le destinazioni compare INAIL. Un allegato identifica un profilo amministrativo, mentre una comunicazione successiva precisa la sede. Sara possiede inoltre un vecchio bando INAIL con prove diverse.
+Sara trova su inPA un avviso per più amministrazioni. Un soggetto esterno supporta la procedura e tra le destinazioni compare INAIL. Un allegato identifica un profilo amministrativo; una comunicazione successiva precisa la sede. Sara ha anche un vecchio bando INAIL con prove diverse.
 
-La soluzione parte dai soggetti: inPA è il canale, il gestore non sostituisce l'amministrazione di destinazione, il profilo amministrativo determina il primo perimetro. Sara classifica le materie in base, M-FC03, appendice e rinvio. Usa il vecchio bando per ricordare come compilare la scheda, ma non ne copia quesiti o soglie. Registra la comunicazione come aggiornamento logistico e non modifica le materie. Infine associa ogni area all'output previsto dalla nuova procedura.
+Sara comincia distinguendo i soggetti. inPA è il canale; il gestore non sostituisce l'amministrazione di destinazione; il profilo amministrativo definisce il primo perimetro. Classifica poi le materie in base, M-FC03, appendice e rinvio. Il vecchio bando le serve per ricordare come compilare la scheda, non per copiare quesiti o soglie. Registra la nuova comunicazione come aggiornamento logistico, lascia invariate le materie e associa ogni area all'output previsto dalla procedura corrente.
 
 Nel diario scrive: “errore probabile: trasferire dati dal bando campione; causa: familiarità con la vecchia procedura; correzione: verificare ogni dato su bando, allegati e avvisi correnti”. La risposta è completa perché distingue fonte, soggetti, profilo, materie, aggiornamento e azione.
 
