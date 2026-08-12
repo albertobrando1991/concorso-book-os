@@ -5287,3 +5287,12 @@
 - atoms:
   - mem-20260812071352-1fy77ay | workflow | Procedere con lo step 08 del capitolo 11 VOL-10.
   - mem-20260812071352-16t65c4 | result | Esito codex-vol10-cap11-step08-format2: Procedere con lo step 08 del capitolo 11 VOL-10. -> Completato step 08 capitolo 11: piano obsoleto riallineato allo stato reale con sei Nucleo ID Format 2, budget 4600-5000 parole, sei quiz, caso guidato, controlli vicini, fonti consolidate, confini e audit specialisti...
+
+## 2026-08-12T07:28:48.533Z - VOL-10/M-TR03
+
+- conversation_id: conv-20260812072848-17wriqg
+- route: codex-vol10-cap11-step09-format2
+- l0: l0/conv-20260812072848-17wriqg.md
+- atoms:
+  - mem-20260812072848-3n9qb3 | instruction | Procedere con lo step 09 del capitolo 11 VOL-10 usando la pipeline aggiornata.
+  - mem-20260812072848-r8ycfx | result | Esito codex-vol10-cap11-step09-format2: Procedere con lo step 09 del capitolo 11 VOL-10 usando la pipeline aggiornata. -> Completato step 09 capitolo 11 con writer obbligatorio gpt-5.5 xhigh: capitolo Format 2 autosufficiente, sei nuclei da 665-680 parole, sei quiz commentati, caso guidato e blocco verifica; chapter-lint senza blocker o ...
