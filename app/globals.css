@@ -1023,6 +1023,31 @@ h1 {
   line-height: 1.18;
 }
 
+.bookLayoutVol03Compact .previewBlocks {
+  font-size: 11pt;
+  line-height: 1.16;
+}
+
+.bookLayoutVol03Compact .previewBlocks p {
+  margin-bottom: 3.5pt;
+}
+
+.bookLayoutVol03Compact .previewBlocks h3 {
+  margin: 9pt 0 3.5pt;
+}
+
+.bookLayoutVol03Compact .previewBlocks h4 {
+  margin: 6.5pt 0 2.5pt;
+}
+
+.bookLayoutVol03Compact .previewBlocks h5 {
+  margin: 5.5pt 0 2.5pt;
+}
+
+.bookLayoutVol03Compact .previewBlocks ul,
+.bookLayoutVol03Compact .previewBlocks ol {
+  margin-bottom: 4.5pt;
+}
 .previewBlocks h3,
 .previewBlocks h4,
 .previewBlocks h5 {
