@@ -5270,3 +5270,11 @@
 - atoms:
   - mem-20260812065920-1yf4zup | workflow | Procedere con lo step 11 del capitolo 10 VOL-10.
   - mem-20260812065920-7xjsvq | result | Esito codex-vol10-cap10-step11: Procedere con lo step 11 del capitolo 10 VOL-10. -> Completato step 11 capitolo 10 con doppia passata Humanizer: rimossi segnali meccanici, ripetizioni tutorial, transizioni generiche, triadi rigide ed enfasi superflua; significato, fonti e riferimenti preservati.
+
+## 2026-08-12T07:08:37.442Z - VOL-10
+
+- conversation_id: conv-20260812070837-1dj9ifz
+- route: pipeline-volume/step-12
+- l0: l0/conv-20260812070837-1dj9ifz.md
+- atoms:
+  - mem-20260812070837-xe3qmo | result | Esito pipeline-volume/step-12: Eseguire esclusivamente step 12 VOL-10 capitolo 10 M-TR03 con Revisore Editoriale Totale. -> Completato step 12 capitolo 10: report editoriale totale creato nel percorso pipeline richiesto; checklist 30 punti, test dello studente, copertura v4, rinvii e calcoli verificati; nessun errore oggettivo rilevato; nessuna patch a capitolo o matrice; complete non eseguito.
