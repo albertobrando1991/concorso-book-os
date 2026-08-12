@@ -5026,3 +5026,11 @@
 - l0: l0/conv-20260812124353-c88rkl.md
 - atoms:
   - mem-20260812124353-1a6kv5t | result | Esito codex/pipeline-volume/step-16/m-tr01: ok procedi con il prossimo step -> Completato step 16 M-TR01: chiusi 11 flag review_required residui, audit Format 2 82/82 verde, typecheck verde, manifest di text freeze con 39 hash SHA-256 verificati sul commit b0b2a68, gate non implementato accettat...
+
+## 2026-08-12T12:52:09.790Z - VOL-08
+
+- conversation_id: conv-20260812125209-wt9xeb
+- route: codex/pipeline-volume/step-18/m-tr01-format2
+- l0: l0/conv-20260812125209-wt9xeb.md
+- atoms:
+  - mem-20260812125209-ucykoa | result | Esito codex/pipeline-volume/step-18/m-tr01-format2: ok procedi con il prossimo step -> Completato step 18 M-TR01: filosofia Circuito Civico confermata; inventario 13 capitoli con zero asset e zero riferimenti immagine; Book Studio isolato sul worktree: 231 pagine, 82 nuclei, 82 indice, 13 verifiche, zer...
