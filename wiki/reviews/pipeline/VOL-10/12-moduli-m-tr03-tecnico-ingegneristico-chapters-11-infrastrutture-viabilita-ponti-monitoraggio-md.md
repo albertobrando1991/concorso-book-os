@@ -1,62 +1,98 @@
-# Report editoriale — Volume 10, Capitolo 11: Infrastrutture, viabilità, ponti e monitoraggio
+# Report editoriale — Infrastrutture, viabilita, ponti e monitoraggio
 
 ## 1. Sintesi editoriale
-- Genere editoriale: manuale tecnico per concorsi pubblici.
-- Pubblico target: candidati a profili di ingegnere, funzionario tecnico e specialista trasporti o infrastrutture.
-- Perimetro di questa revisione: capitolo 11, indice e piano del modulo, matrice e delta di copertura, source note specialistica, topic e rinvii interni.
-- Stato generale in una frase: il capitolo è coerente, autonomo e didatticamente completo nel percorso dalla lettura della rete alla decisione su rischio e monitoraggio; prima della pubblicazione richiede la validazione specialistica del pacchetto normativo e delle procedure dipendenti dalle Linee guida vigenti.
+- Genere editoriale: manuale-workbook specialistico per concorsi tecnici nella PA, modulo M-TR03 del VOL-10.
+- Pubblico target: candidati per profili tecnici e infrastrutturali.
+- Perimetro: capitolo 11, con indice del modulo, matrice v4 e interfacce contigue.
+- Materiali esaminati: contratto step 12, checklist a 30 punti, capitolo, matrice Format 2, indice e fonti consolidate del frontmatter.
+- Stato generale: capitolo autosufficiente, coerente e didatticamente completo, senza errori oggettivi aperti.
+- Test dello studente: superato. Senza frontmatter e wiki restano definizioni, distinzioni, conseguenze, applicazioni, caso, quiz e riferimenti leggibili.
+- Copertura v4: N-TR03-11-01/N-TR03-11-06 completi; nessun aggiornamento della matrice necessario.
+- Correzioni applicate al capitolo: nessuna, perché non sono emerse correzioni oggettive e inequivoche.
 
 ## 2. Punti applicati della checklist
-Applicati i punti 1-26 e 28-30: corrispondenza con indice e matrice; struttura, gerarchia e progressione; autonomia del capitolo; coerenza con i capitoli 3, 4, 7, 9 e 10; terminologia; completezza e accuratezza delle definizioni; disciplina normativa e tecnica; qualità di caso, tavola, box, esercizio e fonti; sintassi, chiarezza, tono, stile didattico, ripetizioni e contraddizioni; grammatica, ortografia, punteggiatura, refusi, uniformità grafica, layout Markdown e leggibilità. Applicati anche il gate di copertura didattica integrale e la logica v4: il capitolo sviluppa il verticale infrastrutturale senza duplicare il nucleo generale dei contratti del VOL-01. Il punto 27 non è applicabile perché non è disponibile un impaginato PDF o KDP.
+| Punto | Controllo | Esito |
+| --- | --- | --- |
+| 1 | Indice coerente | Titolo e collocazione coincidono con l'indice M-TR03. |
+| 2 | Struttura logica | Il capitolo segue costruzioni, lavori e manutenzione e precede patrimonio informativo. |
+| 3 | Progressione | Rete, opera, conoscenza, rischio, monitoraggio e decisione sono ordinati. |
+| 4 | Gerarchia | Un H1, apertura, sei nuclei Format 2 e verifica finale. |
+| 5 | Idoneita | Idoneo nel perimetro editoriale, con audit specialistico previsto. |
+| 6 | Coerenza interna | Nessuna contraddizione fra teoria, schemi, caso e quiz. |
+| 7 | Coerenza tra capitoli | Interfacce con capp. 2-4, 7, 9 e 12 coerenti e non sostitutive. |
+| 8 | Terminologia | Opera, rete, rischio, attenzione, valutazione e monitoraggio restano distinti. |
+| 9 | Completezza | Nessun passaggio necessario è solo nominato o affidato a un rinvio interno. |
+| 10 | Definizioni | Coerenti con fonti consolidate e perimetro concorsuale. |
+| 11 | Errori concettuali | Nessuno rilevato. |
+| 12 | Errori normativi | Nessun errore certo; elementi mobili separati in sezione 6. |
+| 13 | Esempi | Anomalie, fascicolo e dato strumentale applicano la teoria senza anticipare diagnosi. |
+| 14 | Tabelle e box | Apparati coerenti e privi di dipendenze interne. |
+| 15 | Apparato normativo | Riferimenti leggibili e tracciabilita nel frontmatter. |
+| 16 | Sintassi | Frasi chiare e manualistiche. |
+| 17 | Chiarezza | Osservazione, ipotesi, accertamento e decisione sono separati. |
+| 18 | Tono | Professionale, prudente e non promozionale. |
+| 19 | Didattica | Teoria, schemi, controlli, caso, quiz ed esercizio coordinati. |
+| 20 | Ripetizioni | Riprese funzionali, nessuna ridondanza dannosa. |
+| 21 | Contraddizioni | Nessuna rilevata. |
+| 22 | Grammatica | Nessun errore oggettivo. |
+| 23 | Ortografia | Coerente con il registro ASCII del progetto. |
+| 24 | Punteggiatura | Funzionale e uniforme. |
+| 25 | Refusi | Nessun refuso certo. |
+| 26 | Uniformita grafica | Grassetti, tabelle, quiz e box coerenti. |
+| 27 | Impaginazione | Valutata sul Markdown; PDF non disponibile. |
+| 28 | Layout | Tabelle e blocchi gestibili per l'export. |
+| 29 | Leggibilita | Densita adeguata al target. |
+| 30 | Qualita complessiva | Alta, con audit specialistico mobile allo step 15. |
 
 ## 3. Tabella errori
-| ID | Posizione | Categoria | Gravità | Descrizione | Correzione proposta | Stato |
+| ID | Posizione | Categoria | Gravita | Descrizione | Correzione proposta | Stato |
 |----|-----------|-----------|---------|-------------|----------------------|-------|
-| E01 | Dalla singola opera alla rete; Note di review | Accuratezza normativa | Media | Codice della strada, regolamento e norme geometriche sono richiamati correttamente a livello generale, ma campo di applicazione e regime di nuova costruzione o adeguamento dipendono dal testo vigente e dal tipo di intervento. | Verificare D.Lgs. 285/1992, D.P.R. 495/1992 e D.M. 6792/2001 vigenti; far validare il paragrafo da un ingegnere stradale senza introdurre valori geometrici non consolidati. | Da verificare |
-| E02 | Conoscenza, ispezione e rischio | Accuratezza normativa e tecnica | Media | La sequenza multilivello è esposta senza soglie inventate, ma livelli, schede, campo soggettivo e conseguenze della classe di attenzione devono essere controllati sul D.M. 578/2020, sul D.M. 204/2022 e sulle Istruzioni operative adottate nel 2025. | Eseguire un controllo puntuale sugli atti e allegati vigenti; validare terminologia e passaggi con ispettore, gestore e strutturista esperto di ponti esistenti. | Da verificare |
-| E03 | Monitoraggio e gestione delle anomalie; caso guidato | Accuratezza tecnica | Media | Baseline, soglie, controllo qualità e allarmi sono correttamente presentati come elementi da validare, ma la loro applicazione dipende dal piano di monitoraggio, dai fenomeni osservati e dalle responsabilità definite per la singola opera. | Far validare la sezione da uno specialista di monitoraggio strutturale; mantenere ogni soglia futura collegata a fonte, grandezza, sensore, condizione e azione. | Da verificare |
-| E04 | Misure cautelari, limitazioni e interventi | Accuratezza normativa | Media | Il testo evita di attribuire poteri a un soggetto generico, ma competenza, forma, durata e riesame dei provvedimenti sull'esercizio dipendono da proprietario, gestore, autorità e disciplina applicabile. | Verificare il flusso decisionale con gestore, responsabile della viabilità e amministrativista; non aggiungere termini o competenze senza fonte. | Da verificare |
-| E05 | Raccordo con GIS, BIM e patrimonio; Note di review | Coerenza tra capitoli e rinvii | Media | Il rinvio al capitolo 12 è pertinente ma non ancora verificabile come destinazione definitiva. | Dopo il completamento del capitolo 12, sostituire il rinvio generico con titolo e heading definitivo e verificare che GIS, BIM e inventario siano trattati in modo autonomo. | Proposto |
-| E06 | Tavola attività–dato–esito; checklist | Layout | Lieve | La tavola e la checklist sono leggibili in Markdown, ma la resa nel formato paperback KDP non è stata ispezionata. | Nel preflight PDF controllare larghezza, spezzature e righe orfane; se necessario convertire la tavola in schede verticali senza ridurre il corpo tipografico. | Da verificare |
+| - | Capitolo 11 | - | - | Nessun errore oggettivo, concettuale, didattico o testuale inequivoco rilevato. | Nessuna correzione necessaria. | Chiuso |
 
-Non sono emersi errori oggettivi certi da correggere direttamente nel testo. Le voci E01-E05 riguardano verifiche normative, tecniche o destinazioni ancora mobili; E06 riguarda l'impaginazione futura.
+Errori oggettivi: nessuno. Correzioni dirette applicate: nessuna.
 
 ## 4. Osservazioni per capitolo
-### Capitolo 11 — Infrastrutture, viabilità, ponti e monitoraggio
-- Punti di forza: architettura centrata sul ciclo decisionale; distinzione efficace tra opera, rete e servizio; anatomia del ponte spiegata in funzione dell'ispezione; separazione netta tra fatto, ipotesi e accertamento; corretta distinzione tra censimento, ispezione, classe di attenzione, valutazione della sicurezza e monitoraggio; caso realistico che non produce diagnosi indebite; domanda-trappola, esercizio e checklist coerenti con la teoria.
-- Criticità: le procedure sono legate a un pacchetto di atti e allegati mobili; campo di applicazione delle norme stradali e delle Linee guida richiede controllo puntuale; monitoraggio e provvedimenti di esercizio necessitano di validazione specialistica; il rinvio al capitolo 12 e la resa KDP restano provvisori.
+### Capitolo 11 — Infrastrutture, viabilita, ponti e monitoraggio
+- Punti di forza: distinzione fra opera e rete; lettura prudente delle anomalie; percorso censimento-fascicolo-ispezione; separazione fra classe di attenzione e sicurezza; monitoraggio come supporto; caso e quiz coerenti.
+- Criticita: nessuna criticita editoriale o didattica aperta. Vigenza normativa e parametri del piano dell'opera restano nell'audit specialistico automatico.
+
+### Capitoli contigui e interfacce
+- Punti di forza: meccanica, NTC, progettazione, manutenzione e gestione informativa sono richiamate come interfacce; il capitolo non duplica il nucleo comune del VOL-01.
+- Criticita: nessun rinvio sostitutivo o incompleto. I rinvii della matrice sono precisi.
 
 ## 5. Coerenza globale
-- Terminologia: coerente con i capitoli 4 e 9; “anomalia”, “ipotesi”, “accertamento”, “ispezione”, “classe di attenzione”, “valutazione della sicurezza” e “monitoraggio” mantengono funzioni distinte.
-- Struttura vs indice: il capitolo copre infrastrutture, viabilità, ponti, rischio, ispezione, monitoraggio, manutenzione e priorità promessi dall'indice e dalla matrice.
-- Promesse dell'introduzione mantenute: sì. Ogni promessa dell'Obiettivo trova spiegazione, caso e verifica. La riga della matrice resta `completo`; nessun nucleo assegnato è `parziale`, `solo-nominato` o `mancante`.
+- Terminologia: coerente. Anomalia, degrado, ipotesi, accertamento, rischio, classe di attenzione, valutazione della sicurezza, monitoraggio, cautela e priorita non sono sinonimi impropri.
+- Struttura vs indice: coerente con indice e riga v4.
+- Promesse mantenute: si. Il percorso rete-servizio, opera-funzione, evidenza-ispezione, rischio-valutazione, monitoraggio-decisione è sviluppato.
+- Copertura v4: completa per definizione, funzione, inquadramento, elementi, distinzioni, conseguenze, applicazione, prova, errore, verifica e fonti.
+- Test dello studente: superato; il corpo non richiede source note, dashboard o planning.
+- Rinvii: nessun wikilink nel corpo e nessun rinvio al VOL-01 usato al posto della teoria.
 
 ## 6. Contenuto da verificare
-- D.Lgs. 285/1992 e D.P.R. 495/1992 nel testo vigente.
-- Campo di applicazione e regime del D.M. 5 novembre 2001, n. 6792, per nuove strade e interventi sull'esistente.
-- D.M. 17 dicembre 2020, n. 578, D.M. 1 luglio 2022, n. 204, relativi allegati e modifiche.
-- Decreto del Presidente del Consiglio superiore dei lavori pubblici n. 413 del 5 novembre 2025 e Istruzioni operative ANSFISA richiamate.
-- Rapporto con NTC vigenti per valutazione della sicurezza delle costruzioni esistenti.
-- Configurazione, baseline, qualità del dato, soglie, allarmi e responsabilità di ogni esempio futuro di monitoraggio.
-- Competenze e forma degli eventuali provvedimenti di limitazione o gestione dell'esercizio.
-- Titolo e heading definitivi del rinvio al capitolo 12.
+- V01 — Codice della strada, regolamento e D.M. 5 novembre 2001: ricontrollare testo vigente e campo applicabile al text freeze.
+- V02 — D.M. 17 dicembre 2020, n. 578, D.M. 1 luglio 2022, n. 204, decreto CSLP n. 413 del 5 novembre 2025 e Istruzioni ANSFISA: verificare allo step 15 vigenza, coordinamento e campo soggettivo.
+- V03 — NTC 2018, Circolare 2019 ed emendamenti 2023: confermare pacchetto vigente e raccordo con le costruzioni esistenti.
+- V04 — Soglie, frequenze e allarmi: il capitolo non ne inventa; ogni applicazione reale deriva dal piano validato dell'opera.
+- V05 — D.Lgs. 36/2023: ricontrollare il testo vigente quando il percorso diventa intervento pubblico.
 
 ## 7. Suggerimenti facoltativi (non errori)
-- Nell'appendice E, trasformare la checklist rischio–azione in una scheda verticale compilabile, separando evidenze, incertezze e decisioni.
-- Dopo la review specialistica, aggiungere una figura dell'anatomia essenziale del ponte con percorso delle azioni e punti tipici di osservazione.
-- Affiancare alla tavola attività–dato–esito un richiamo visivo che impedisca di leggere la classe di attenzione come certificato di sicurezza.
+- S01 — Nell'export finale dividere le tabelle più dense solo se la resa KDP risultasse compressa.
+- S02 — L'appendice E potra ospitare schede estese; il capitolo resta autosufficiente.
+- S03 — In edizione digitale gli esercizi possono diventare moduli compilabili senza cambiare la carta.
 
-## 8. Priorità degli interventi
-1. Verificare il pacchetto Linee guida ponti e Istruzioni operative vigente.
-2. Validare campo di applicazione delle norme stradali e geometriche.
-3. Sottoporre rischio, ispezione e valutazione a gestore, ispettore e strutturista.
-4. Validare monitoraggio, soglie, allarmi e provvedimenti di esercizio.
-5. Consolidare il rinvio al capitolo 12.
-6. Eseguire il preflight dell'impaginato su tavola e checklist.
+## 8. Priorita degli interventi
+1. Nessun errore certo da correggere nel capitolo.
+2. Eseguire allo step 15 l'audit automatico specialistico sul pacchetto vigente e sui confini operativi.
+3. Controllare nel preflight la resa di tabelle e box.
+4. Mantenere eventuali schede estese in appendice senza ridurre l'autonomia del capitolo.
 
 ## 9. Giudizio di pubblicabilita
-Pubblicabile dopo intervento medio.
-Motivazione: non emergono errori gravi, lacune didattiche, incoerenze linguistiche o duplicazioni di famiglia; restano cinque verifiche medie sul pacchetto normativo, sulle procedure specialistiche e sul rinvio (E01-E05), oltre a un controllo lieve di layout (E06).
+Pubblicabile con correzioni minori.
+
+Motivazione: non risultano errori oggettivi aperti, nuclei parziali, promesse non mantenute, rinvii irrisolti o dipendenze interne. Le verifiche residue riguardano norme mobili e parametri applicativi non trasformati in regole operative; sono instradate all'audit specialistico automatico.
 
 ## 10. Limiti di questa revisione
-La revisione ha riguardato capitolo, matrice, delta, piano, source note e topic in formato Markdown. Non sostituisce la verifica normativa alla data di stampa, la review di ingegnere stradale, strutturista, geotecnico, ispettore, gestore ed esperto di monitoraggio, né una valutazione su opere reali o l'ispezione di un PDF impaginato. Il capitolo 12 non è ancora disponibile in forma definitiva, quindi il relativo rinvio potrà essere validato solo dopo il suo completamento.
+- Esaminati Markdown e artefatti consolidati, non un PDF impaginato.
+- Non consultate fonti raw; i controlli si basano sulla conoscenza consolidata.
+- La revisione non sostituisce l'audit automatico dello step 15 su testo vigente, campi applicativi e indicazioni mobili.
+- L'unica conferma umana prevista dal protocollo resta lo step 24 sul pacchetto finale completo.

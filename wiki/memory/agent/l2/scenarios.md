@@ -5313,3 +5313,12 @@
 - atoms:
   - mem-20260812073350-1fxrlh2 | workflow | Procedere con lo step 11 Humanizer del capitolo 11 VOL-10.
   - mem-20260812073350-1lya8v1 | result | Esito codex-vol10-cap11-step11-humanizer: Procedere con lo step 11 Humanizer del capitolo 11 VOL-10. -> Completato step 11 capitolo 11 con doppia passata Humanizer: rimosse formule seriali e simmetrie artificiali, preservati significato, struttura, source_refs e riferimenti normativi; nuclei 659-680 parole, citation-gua...
+
+## 2026-08-12T07:36:59.673Z - VOL-10/M-TR03
+
+- conversation_id: conv-20260812073659-10vz9g
+- route: codex-vol10-cap11-step12-review
+- l0: l0/conv-20260812073659-10vz9g.md
+- atoms:
+  - mem-20260812073659-1yplq8r | workflow | Procedere con lo step 12 del capitolo 11 VOL-10.
+  - mem-20260812073659-gct5fe | result | Esito codex-vol10-cap11-step12-review: Procedere con lo step 12 del capitolo 11 VOL-10. -> Completato step 12 capitolo 11: report Revisore Editoriale Totale sui 30 punti, test dello studente e copertura v4; nessun errore oggettivo aperto, verifiche normative mobili instradate allo step 15, review-report sen...

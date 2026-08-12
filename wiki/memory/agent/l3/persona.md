@@ -5,6 +5,7 @@ Usala come profilo di lavoro: le source notes e il wiki restano la base canonica
 
 ## Preferenze e istruzioni recenti
 
+- Procedere con lo step 12 del capitolo 11 VOL-10. (mem-20260812073659-1yplq8r)
 - Procedere con lo step 11 Humanizer del capitolo 11 VOL-10. (mem-20260812073350-1fxrlh2)
 - Procedere con lo step 09 del capitolo 11 VOL-10 usando la pipeline aggiornata. (mem-20260812072848-3n9qb3)
 - Procedere con lo step 08 del capitolo 11 VOL-10. (mem-20260812071352-1fy77ay)
@@ -84,4 +85,3 @@ Usala come profilo di lavoro: le source notes e il wiki restano la base canonica
 - Estendere dichiarativamente VOL-07/M-SA02 con il capitolo 03 e sincronizzare gli step C 08-12 senza avviare il capitolo. (mem-20260729190554-17ppw39)
 - sempre la stessa; aprire il volume sul primo capitolo editoriale reale. (mem-20260729183108-1w20y4j)
 - L'anteprima dalla dashboard ? (mem-20260729183108-1tpnx3b)
-- La dashboard VOL-07 deve mostrare subito i nuovi capitoli quando arriva un payload aggiornato con lo stesso bookId. (mem-20260729180144-1gjsrza)
