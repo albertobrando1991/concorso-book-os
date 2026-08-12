@@ -5,6 +5,7 @@ Usala come profilo di lavoro: le source notes e il wiki restano la base canonica
 
 ## Preferenze e istruzioni recenti
 
+- Procedere con il prossimo step della pipeline VOL-10. (mem-20260812063620-pupvkz)
 - Procedere con lo step 12 del capitolo 09 di VOL-10. (mem-20260812062824-1g84rp5)
 - Eseguire lo step 11 Humanizer sul capitolo 09 di VOL-10. (mem-20260812062229-pp6u4t)
 - Procedi con il prossimo step della pipeline aggiornata VOL-10. (mem-20260811113207-4xmh6t)
@@ -84,4 +85,3 @@ Usala come profilo di lavoro: le source notes e il wiki restano la base canonica
 - Procedi tu in ordine con la pipeline VOL-07 M-SA02 dopo il riavvio, preservando il gate e la memoria locale. (mem-20260729143828-51dqz)
 - Procedere in ordine nella pipeline VOL-07 M-SA02. (mem-20260729141806-1yq5ov7)
 - Riprendere la pipeline VOL-07 M-SA02 dopo l'arresto del PC e procedere dal punto raggiunto. (mem-20260729140229-dmyzq9)
-- Procedere dal punto interrotto della pipeline VOL-07 M-SA02 completando il sottoprogetto OSS su bagno a letto e trasferimenti, senza forzare il gate. (mem-20260729132849-stq6wu)

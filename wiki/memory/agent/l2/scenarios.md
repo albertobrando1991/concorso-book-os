@@ -5234,3 +5234,12 @@
 - atoms:
   - mem-20260812062824-1g84rp5 | workflow | Procedere con lo step 12 del capitolo 09 di VOL-10.
   - mem-20260812062824-k2nltm | result | Esito codex-vol10-cap09-step12: Procedere con lo step 12 del capitolo 09 di VOL-10. -> Completato step 12 capitolo 09: report Revisore Editoriale Totale sui 30 punti e test dello studente; copertura v4 completa, nessun errore grave, nessun rinvio irrisolto e nessuna correzione oggettiva necessaria nel c...
+
+## 2026-08-12T06:36:20.015Z - VOL-10/M-TR03
+
+- conversation_id: conv-20260812063620-14wxo3s
+- route: codex-vol10-cap10-step08-format2
+- l0: l0/conv-20260812063620-14wxo3s.md
+- atoms:
+  - mem-20260812063620-pupvkz | workflow | Procedere con il prossimo step della pipeline VOL-10.
+  - mem-20260812063620-1lpom46 | result | Esito codex-vol10-cap10-step08-format2: Procedere con il prossimo step della pipeline VOL-10. -> Completato step 08 capitolo 10: piano obsoleto riallineato allo stato reale con sei Nucleo ID Format 2, budget 4600-5000 parole, sei quiz, caso integrato, controlli vicini, fonti consolidate, confini e audit specialis...

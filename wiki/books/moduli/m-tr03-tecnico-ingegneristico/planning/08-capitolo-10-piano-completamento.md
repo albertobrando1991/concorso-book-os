@@ -1,296 +1,199 @@
+---
+id: m-tr03-capitolo-10-piano-completamento
+type: chapter_plan
+title: "Piano di completamento — Capitolo 10"
+status: ready
+domain: "concorsi pubblici italiani"
+book_refs: ["m-tr03-tecnico-ingegneristico", "vol-10-tecnico-ingegneristico-territorio-lavori-pubblici"]
+source_refs: ["sources/computi-capitolati-contabilita-lavori-dlgs-36-2023", "sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024", "sources/progettazione-opere-pubbliche-dlgs-36-2023-allegato-i7", "sources/direzione-lavori-esecuzione-cantieri-dlgs-36-2023-allegato-ii14"]
+updated_at: 2026-08-12
+review_required: true
+canonical: true
+tags: ["chapter-plan", "format-2", "m-tr03", "vol-10", "chapter-10"]
+---
+
 # Piano di completamento — Capitolo 10
 
-## Target
+## Target e obiettivo
 
-`chapters/10-computi-capitolati-contabilita-lavori.md`
+Target: `chapters/10-computi-capitolati-contabilita-lavori.md`.
 
-## Base documentale letta
+Il capitolo deve seguire il ciclo verificabile di una lavorazione: `descrizione → misura progettata → prezzo → importo → prescrizione → misura eseguita → registrazione → SAL → conto finale`. Deve rendere autonome le distinzioni tra documenti progettuali e contabili, senza duplicare affidamento, direzione lavori o contabilità finanziaria.
 
-- indice, scheda pipeline e matrice di copertura di `VOL-10`;
-- indice, piano editoriale e matrice di `M-TR03`;
-- capitoli 7, 8 e 9, per progetto esecutivo, controllo dell'esecuzione, ultimazione e collaudo;
-- capitolo `Contratti pubblici essenziali` di `VOL-01`, in particolare la distinzione tra bando, disciplinare e capitolato;
-- source note sul D.Lgs. 36/2023 nel testo vigente;
-- source note sul ciclo dei contratti e sulla direzione lavori;
-- source note sulla progettazione delle opere pubbliche e sull'Allegato I.7;
-- campione ufficiale dei bandi tecnici.
+## Base documentale verificata
 
-Il file del capitolo 10 non esiste. Il wiki definisce la funzione generale del capitolato e richiama la contabilità come parte del controllo dell'esecuzione, ma non dispone di una source note specialistica consolidata su computi, prezzi, documenti contabili, SAL e conto finale. Tale consolidamento è bloccante per lo step di scrittura.
+- scheda pipeline VOL-10, indice e matrice di copertura M-TR03;
+- Bibbia del modulo e confini di collana;
+- capitolo legacy 10, presente e già sottoposto ad audit specialistico;
+- capitoli 7-9 per progetto, esecuzione, modifiche, ultimazione e collaudo;
+- capitoli 11-12 per manutenzione infrastrutturale e gestione informativa;
+- source note consolidata `computi-capitolati-contabilita-lavori-dlgs-36-2023`;
+- source note consolidate su Codice, Allegati I.7 e II.14, progettazione, direzione lavori e collaudo;
+- topic canonico `computi-capitolati-contabilita-lavori`;
+- VOL-01, capitolo sui contratti pubblici, limitatamente alla distinzione generale tra bando, disciplinare e capitolato.
 
-## Nuclei assegnati
+Le fonti e il topic che il piano precedente dichiarava mancanti ora esistono. Non sussiste un blocco documentale per lo step 09.
 
-1. funzione della stima economica nel progetto;
-2. distinzione tra quantità, prezzo unitario e importo;
-3. elenco prezzi unitari;
-4. computo metrico;
-5. computo metrico estimativo;
-6. analisi dei prezzi;
-7. prezzari ufficiali e criteri per nuove voci;
-8. costi della sicurezza e distinzione dalle altre componenti economiche, al livello supportato dalle fonti;
-9. quadro economico come raccordo, senza duplicare la programmazione finanziaria;
-10. capitolato generale, capitolato speciale e specifiche tecniche;
-11. rapporto fra elaborati grafici, computo, elenco prezzi e capitolato;
-12. misurazione delle lavorazioni eseguite;
-13. libretto delle misure;
-14. registro di contabilità;
-15. sommario del registro;
-16. stato di avanzamento lavori;
-17. certificato di pagamento;
-18. conto finale e relativa relazione;
-19. contestazioni e riserve come interfaccia documentale, rinviando la disciplina specialistica;
-20. tracciabilità digitale dei documenti;
-21. mini-computo e SAL guidato;
-22. checklist di coerenza tecnico-economica.
+## Stato reale del capitolo legacy
 
-## Stato iniziale
+Il testo copre già voce, misure, quantità, elenco prezzi, computo e CME, analisi prezzi, prezzari, costi, capitolato, coerenza degli elaborati, misurazione, libretto, registro, sommario, SAL, certificato di pagamento, riserve, conto finale, caso numerico ed esercizio.
 
-La matrice M-TR03 assegna al capitolo `misure; prezzi; CME; documenti contabili; SAL` e lo classifica `parziale`: sono previsti mini-computo e prova pratica, ma teoria, fonti e verifica dell'apprendimento sono da sviluppare.
+Questi contenuti sono riusabili, ma il capitolo non è ancora Format 2: manca `format_version: 2`, non vi sono Nucleo ID, i nuclei non raggiungono la densità minima, manca il blocco `▣ Verifica` con sei quiz commentati e il corpo contiene rinvii e wikilink editoriali interni. Ai fini del gate aggiornato tutti i nuclei sono quindi `parziale`, anche se la copertura concettuale legacy è sostanzialmente presente.
 
-La matrice di volume separa:
+## Nuclei assegnati e stato
 
-- `Computi e analisi prezzi`;
-- `Capitolati e contabilità lavori`.
+| Nucleo ID | Titolo e perimetro | Stato iniziale | Intervento richiesto |
+| --- | --- | --- | --- |
+| N-TR03-10-01 | Dalla lavorazione alla quantità | parziale | sviluppare voce, descrizione, unità, regole di misura, quantità e controllabilità del calcolo |
+| N-TR03-10-02 | Dal computo al prezzo dell’opera | parziale | distinguere computo metrico, CME, elenco prezzi, analisi, prezzari, costi e quadro economico |
+| N-TR03-10-03 | Capitolato e coerenza degli elaborati | parziale | chiarire funzione prescrittiva e raccordo tra tavole, voci, prezzi, prestazioni e cronoprogramma |
+| N-TR03-10-04 | Misurazione e documenti contabili | parziale | approfondire quantità eseguita, libretto, registro, sommario, tracciabilità e progressivi |
+| N-TR03-10-05 | SAL, certificato, riserve e conto finale | parziale | ricostruire funzioni, sequenza, distinzioni, conseguenze e confine con pagamento e collaudo |
+| N-TR03-10-06 | Caso integrato: una voce dal progetto al conto finale | parziale | trasformare il caso legacy in applicazione completa con soluzione motivata e trasferimento alla prova |
 
-Entrambe le righe sono `parziale`. Il capitolo deve coprire la teoria comune e un'applicazione guidata; l'appendice C ospiterà modelli più estesi e tavole operative.
+Ogni nucleo deve includere, quando applicabili: definizione, funzione, inquadramento, elementi, distinzioni, conseguenze, esempio, modalità d’esame, errore tipico e controllo vicino.
 
-## Nuclei già completi
+## Sezioni da conservare e rifondere
 
-Nessun nucleo specialistico è completo nel file di destinazione, che non esiste.
+- apertura, obiettivo e Mappa BANDO;
+- esempio geometrico sulla superficie netta e box “Da sapere in 5 righe” nel nucleo 01;
+- computo, CME, prezzari, nuove voci, costi e quadro economico nel nucleo 02;
+- capitolato e tavola comparativa degli elaborati nel nucleo 03;
+- misurazione, libretto, registro, sommario e piattaforme nel nucleo 04;
+- SAL, certificato, riserve e conto finale nel nucleo 05;
+- caso della pavimentazione scolastica, domanda da commissario, trappola, esercizio e checklist nel nucleo 06 o nella verifica finale.
 
-Sono disponibili prerequisiti riusabili:
+I riferimenti interni del legacy non devono restare nel corpo pubblicabile. La tracciabilità resta nel frontmatter; eventuali rinvii al VOL-01 devono usare una destinazione reale e servire solo per il nucleo comune, non per sostituire la teoria specialistica.
 
-- il capitolo 7 collega elaborati, quantità, costi e cronoprogramma nel progetto esecutivo;
-- il capitolo 8 distingue controllo tecnico, amministrativo e contabile e rinvia qui libretti, registri, SAL e certificati;
-- il capitolo 9 include conto finale e documenti economici nel dossier di collaudo;
-- `VOL-01` distingue capitolato, bando e disciplinare;
-- la source note sul Codice colloca il controllo contabile nell'art. 115 e nell'Allegato II.14.
+## Duplicazioni e confini da evitare
 
-Questi nuclei vanno richiamati senza duplicarli. Il capitolo deve essere autonomo nel mostrare come una lavorazione passa da voce progettuale a quantità eseguita, registrazione e avanzamento economico.
+- non ripetere affidamento, documenti di gara e ciclo generale dei contratti di VOL-01 e VOL-09;
+- non duplicare progetto esecutivo, verifica e validazione del capitolo 7;
+- non ripetere ruoli del DL, ordini, varianti, sospensioni e cantiere del capitolo 8;
+- non sviluppare collaudo e regolare esecuzione del capitolo 9;
+- non trasformare costi della sicurezza in una duplicazione di PSC/POS;
+- non sviluppare bilancio, impegno, liquidazione, mandato e tesoreria;
+- non anticipare BIM, ambiente di condivisione dati e patrimonio del capitolo 12;
+- non fissare prezzi, termini, soglie o percentuali mobili non necessari alla comprensione.
 
-## Nuclei da sviluppare
+## Caso, esempi, domande ed esercizi
 
-1. **Dal progetto al costo**: descrizione della lavorazione, unità di misura, quantità, prezzo unitario e importo.
-2. **Computo metrico**: funzione di quantificazione e regole di leggibilità delle misure.
-3. **Computo metrico estimativo**: applicazione dei prezzi alle quantità e funzione nella stima dell'intervento.
-4. **Elenco prezzi**: identificazione univoca delle voci, descrizione, unità e prezzo.
-5. **Analisi dei prezzi**: costruzione motivata di una voce quando il prezzo non è direttamente disponibile o adeguato, secondo la disciplina vigente.
-6. **Prezzari**: fonte, ambito territoriale e temporale, aggiornamento e necessità di motivare gli scostamenti.
-7. **Capitolato**: prescrizioni tecniche, prestazionali e contrattuali; distinzione da disciplinare di gara ed elaborati grafici.
-8. **Coerenza documentale**: stessa lavorazione descritta senza contraddizioni in tavola, voce, capitolato e cronoprogramma.
-9. **Contabilità dei lavori**: funzione di accertare e registrare ciò che è eseguito ai fini del rapporto contrattuale.
-10. **Misurazione**: quantità verificabile, criterio applicato, contraddittorio e collegamento alla voce.
-11. **Documenti contabili**: funzione e relazione fra libretto, registro, sommario, SAL, certificato di pagamento e conto finale.
-12. **SAL**: fotografia dell'avanzamento maturato, da non confondere con pagamento o semplice percentuale temporale.
-13. **Certificato di pagamento**: raccordo amministrativo-contabile, senza anticipare liquidazione e tesoreria.
-14. **Riserve**: sede documentale, tempestività e tracciabilità, limitando il dettaglio alle fonti consolidate.
-15. **Conto finale**: ricomposizione conclusiva della contabilità e raccordo con il collaudo.
-16. **Strumenti digitali**: integrità, versioni, firme e tracciabilità senza anticipare la gestione informativa del capitolo 12.
-17. **Uso nella prova**: mini-computo, lettura di un SAL, riconoscimento dell'errore e risposta orale.
+### Caso integrato obbligatorio
 
-## Sezioni da conservare
+Proseguire la riqualificazione della scuola con una pavimentazione e valori dichiaratamente didattici:
 
-Non esiste testo pregresso da conservare. Restano vincolanti:
+1. descrivere la voce e scegliere l’unità;
+2. ricavare la quantità progettata;
+3. applicare un prezzo didattico, senza presentarlo come prezzario vigente;
+4. collegare la prescrizione del capitolato;
+5. registrare quantità effettiva e progressiva;
+6. distinguere avanzamento di periodo e progressivo;
+7. mostrare il passaggio a SAL e certificato;
+8. trattare una misura errata con traccia documentale;
+9. raccordare modifica autorizzata e nuova voce;
+10. ricomporre il dato nel conto finale.
 
-- titolo e output previsti dall'indice;
-- lessico consolidato: progetto esecutivo, elenco prezzi, computo metrico, computo metrico estimativo, capitolato speciale, libretto delle misure, registro di contabilità, SAL, certificato di pagamento e conto finale;
-- apparato Metodo BANDO;
-- distinzione fra stima progettuale e contabilità dell'eseguito;
-- confini stabiliti dai capitoli 7-9 e dall'appendice C;
-- prudenza su prezzi, soglie, formati, firme e termini mobili.
+### Verifiche e output concorsuali
 
-## Scelta architetturale
-
-Sono stati valutati tre impianti:
-
-1. **Per documento**: utile come glossario, ma non mostra le dipendenze.
-2. **Per fase**: progettazione economica e contabilità esecutiva, chiaro ma ancora astratto.
-3. **Per ciclo della voce**: descrizione → misura progettata → prezzo → importo → prescrizione → misura eseguita → registrazione → SAL → conto finale.
-
-Si adotta il terzo, organizzato in due macrofasi. La stessa lavorazione accompagna il lettore dal computo al SAL e rende visibili differenze, controlli e conseguenze.
-
-## Duplicazioni da evitare
-
-- documenti di gara e procedure di affidamento già coperti in `VOL-01` e `VOL-09`;
-- teoria completa del progetto esecutivo del capitolo 7;
-- ordini, varianti, sospensioni, controllo dei materiali e gestione del cantiere del capitolo 8;
-- collaudo, certificato di regolare esecuzione e manutenzione del capitolo 9;
-- bilancio, impegno, liquidazione, mandato e tesoreria del nucleo contabile comune;
-- sicurezza di cantiere e PSC/POS del capitolo 8;
-- BIM, ambiente di condivisione dati e modelli informativi del capitolo 12;
-- modelli estesi, tavole prezzi e formulari destinati all'appendice C.
-
-## Esempi, casi, domande ed esercizi necessari
-
-### Caso guida
-
-Proseguire la riqualificazione della scuola. Usare una lavorazione semplice e verificabile, ad esempio una pavimentazione o tinteggiatura, senza introdurre prezzi reali non consolidati.
-
-Sequenza:
-
-1. descrivere la voce;
-2. scegliere l'unità di misura;
-3. ricavare quantità da misure geometriche date;
-4. applicare un prezzo didattico dichiarato;
-5. collegare la prescrizione del capitolato;
-6. registrare la quantità effettivamente eseguita;
-7. distinguere quantità di periodo e quantità progressiva;
-8. mostrare l'ingresso nel SAL;
-9. correggere una misura errata con traccia documentale;
-10. raccordare il dato al conto finale.
-
-I numeri devono essere semplici, dichiaratamente didattici e non presentati come prezziario vigente.
-
-### Tavola documentale
-
-`documento | domanda cui risponde | chi lo forma/controlla | dato centrale | effetto | errore tipico`.
-
-### Domanda da commissario
-
-“Quali sono funzione e rapporti tra computo metrico estimativo, elenco prezzi e capitolato speciale?”
-
-### Domanda-trappola
-
-“Lo stato di avanzamento lavori coincide con il certificato di pagamento?”
-
-La risposta deve distinguere accertamento dell'avanzamento e presupposto/atto per il pagamento.
-
-### Mini-esercizio
-
-Dato un piccolo prospetto con descrizione, misure, quantità, prezzo e avanzamento:
-
-- individuare due incoerenze;
-- correggere il calcolo;
-- classificare i documenti coinvolti;
-- spiegare l'effetto sul SAL.
-
-### Checklist
-
-- descrizione univoca;
-- unità corretta;
-- misure ricostruibili;
-- quantità verificata;
-- prezzo e fonte;
-- analisi motivata;
-- capitolato coerente;
-- variante autorizzata se necessaria;
-- registrazione tempestiva;
-- progressivi corretti;
-- riserve tracciate;
-- raccordo con SAL e conto finale.
+- sei controlli vicini, uno per nucleo;
+- sei quiz numerati e commentati con formula `Risposta corretta:`;
+- un blocco `## ▣ Verifica dopo i nuclei` dopo i sei nuclei;
+- domanda da commissario su CME, elenco prezzi e capitolato;
+- domanda-trappola sulla distinzione SAL/certificato di pagamento;
+- mini-esercizio con errori di misura, progressivo e importo;
+- checklist di coerenza tecnico-economica;
+- risposta orale breve secondo la catena `voce → quantità → prezzo → prescrizione → misura → registro → SAL → conto finale`.
 
 ## Fonti da usare
 
-### Disponibili e consolidate
+- `sources/computi-capitolati-contabilita-lavori-dlgs-36-2023`;
+- `sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024`;
+- `sources/progettazione-opere-pubbliche-dlgs-36-2023-allegato-i7`;
+- `sources/direzione-lavori-esecuzione-cantieri-dlgs-36-2023-allegato-ii14`;
+- `sources/collaudo-verifica-manutenzione-opera-dlgs-36-2023-allegato-ii14`;
+- `sources/campione-bandi-tecnici-pa-vol-10-2026`;
+- `sources/modulo-m-tr03-tecnico-ingegneristico-vol-10`;
+- `topics/computi-capitolati-contabilita-lavori`.
 
-- [[sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024]];
-- [[sources/ciclo-contratti-pubblici-rup-stazione-appaltante-operatore-economico]];
-- [[sources/progettazione-opere-pubbliche-dlgs-36-2023-allegato-i7]];
-- [[sources/direzione-lavori-esecuzione-cantieri-dlgs-36-2023-allegato-ii14]];
-- [[sources/collaudo-verifica-manutenzione-opera-dlgs-36-2023-allegato-ii14]];
-- [[sources/campione-bandi-tecnici-pa-vol-10-2026]];
-- [[sources/modulo-m-tr03-tecnico-ingegneristico-vol-10]];
-- [[topics/contratti-pubblici]];
-- capitoli 7, 8 e 9 di `M-TR03`;
-- `VOL-01`, capitolo `Contratti pubblici essenziali`, sezione `10. Documenti di gara: bando, disciplinare e capitolato`.
+La scrittura deve ricontrollare, nei soli punti trattati, gli artt. 41, 82 e 115 del D.Lgs. n. 36/2023 e gli Allegati I.7 e II.14. Memoria locale ed entity draft non sono fonti normative.
 
-### Fonti ufficiali bloccanti da acquisire
+## Audit specialistici richiesti
 
-Prima dello step 09 occorre creare una source note specialistica basata su:
+- correttezza delle distinzioni tra computo, CME, elenco prezzi, analisi e quadro economico;
+- fonti dei prezzi, ambito dei prezzari e trattamento delle nuove voci;
+- confine tra costi della sicurezza, manodopera e altre componenti economiche;
+- funzione e coerenza di capitolato, tavole, voci e cronoprogramma;
+- criteri di misura, libretto, registro, sommario e tracciabilità digitale;
+- distinzione tra SAL, certificato di pagamento e pagamento;
+- forme delle riserve e raccordo con i fatti contabili, senza cristallizzare termini mobili;
+- conto finale e raccordo con il collaudo;
+- correttezza aritmetica del caso e leggibilità delle tabelle in formato KDP.
 
-1. D.Lgs. 36/2023 nel testo vigente;
-2. art. 41 e Allegato I.7, per elaborati economici, costi, prezzi e capitolati;
-3. art. 115 e Allegato II.14, per direzione, misurazione e contabilità dei lavori;
-4. art. 60, limitatamente al confine con revisione prezzi, senza svilupparne la disciplina completa;
-5. art. 82, per il capitolato fra i documenti di gara;
-6. art. 15 e Allegato I.2, per compiti del RUP pertinenti;
-7. prezzari ufficiali del MIT o regionali scelti come esempi, con data e ambito dichiarati;
-8. eventuali linee guida o manuali istituzionali per la formazione dei prezzi;
-9. regole vigenti su documenti digitali, firme e piattaforme, soltanto se necessarie;
-10. destinazioni puntuali dei rinvii a `VOL-01`, capitoli 7-9 e futuro capitolo 12.
+Queste verifiche confluiscono nell’audit automatico specialistico dello step 15; non si assegnano nominativi di revisori prima del sign-off umano conclusivo dello step 24.
 
-Vanno creati un topic `computi-capitolati-contabilita-lavori` e una source note specialistica. Un prezzario non va trasformato in fonte universale: ogni esempio deve dichiarare ente, edizione e finalità.
-
-## Rinvii consentiti
-
-- `VOL-01`, `Contratti pubblici essenziali`, sezione `10. Documenti di gara: bando, disciplinare e capitolato`: distinzione documentale generale;
-- `VOL-09`: procurement e RUP avanzati, dopo censimento della destinazione;
-- capitolo 7: progetto esecutivo, elaborati e coordinamento;
-- capitolo 8: DL, ordini, varianti, riserve e controllo in cantiere;
-- capitolo 9: conto finale nel dossier di collaudo;
-- capitolo 12: gestione informativa digitale;
-- appendice C: modelli, tavole e esercizi estesi.
-
-## Review umane richieste
-
-- progettista o estimatore di lavori pubblici;
-- direttore dei lavori;
-- ispettore di cantiere o tecnico addetto alle misure;
-- RUP;
-- esperto di contabilità lavori e riserve;
-- responsabile di prezzario regionale o tecnico che lo utilizzi professionalmente;
-- collaudatore tecnico-amministrativo per il conto finale;
-- esperto di gestione documentale digitale.
-
-La review deve validare nomenclatura, sequenza documentale, criteri di misura, rapporto tra SAL e certificato, riserve, conto finale, esempi numerici e contenuti mobili dell'Allegato II.14.
-
-## Struttura H1/H2/H3 e budget KDP
+## Struttura H1/H2/H3 prevista
 
 # Computi, capitolati e contabilità dei lavori
 
-## Apertura, obiettivo e Mappa BANDO — 190 parole
+## Apertura, obiettivo e Mappa BANDO
 
-## Dalla lavorazione alla stima — 360 parole
+## N-TR03-10-01 · Dalla lavorazione alla quantità
+### Voce, descrizione e unità di misura
+### Misure, quantità e controllabilità
+### Controllo vicino
 
-### Descrizione, unità, misure e quantità
+## N-TR03-10-02 · Dal computo al prezzo dell’opera
+### Computo metrico, CME ed elenco prezzi
+### Prezzari e analisi delle nuove voci
+### Costi e quadro economico
+### Controllo vicino
 
-### Elenco prezzi e importo
+## N-TR03-10-03 · Capitolato e coerenza degli elaborati
+### Funzione del capitolato speciale
+### Tavole, voci, prestazioni e cronoprogramma
+### Controllo vicino
 
-## Computo e analisi dei prezzi — 480 parole
+## N-TR03-10-04 · Misurazione e documenti contabili
+### Quantità eseguite e libretto delle misure
+### Registro, sommario e progressivi
+### Tracciabilità digitale
+### Controllo vicino
 
-### Computo metrico e computo estimativo
+## N-TR03-10-05 · SAL, certificato, riserve e conto finale
+### Stato di avanzamento e certificato di pagamento
+### Contestazioni, riserve e tracciabilità
+### Chiusura della contabilità e conto finale
+### Controllo vicino
 
-### Prezzari e nuove voci
+## N-TR03-10-06 · Caso integrato: una voce dal progetto al conto finale
+### Dal CME alla quantità eseguita
+### Dal registro al SAL e al conto finale
+### Soluzione motivata e trasferimento alla prova
+### Controllo vicino
 
-### Costi della sicurezza e quadro economico
+## ▣ Verifica dopo i nuclei
+### Quiz 1-6
+### Mini-esercizio di trasferimento
+### Checklist di coerenza tecnico-economica
+### Riferimenti normativi essenziali
 
-## Capitolati e coerenza degli elaborati — 360 parole
+## Budget editoriale e soglie
 
-### Capitolato speciale e specifiche
+- sei nuclei, ciascuno da almeno 650 parole come margine rispetto alla soglia di 600;
+- apertura e Mappa BANDO: 180-250 parole;
+- corpo complessivo: 4.600-5.000 parole;
+- sei quiz commentati;
+- un caso integrato e almeno tre microcasi distribuiti;
+- sei controlli vicini;
+- un blocco `▣ Verifica` dopo i sei nuclei;
+- tabelle compatte, adatte alla pagina paperback KDP.
 
-### Tavole, voci, prezzi e cronoprogramma
+## Condizioni di chiusura dello step 08
 
-## La contabilità dell'esecuzione — 620 parole
-
-### Misurazione e libretto delle misure
-
-### Registro e sommario
-
-### SAL e certificato di pagamento
-
-### Riserve e tracciabilità
-
-### Conto finale
-
-## Caso guidato: una voce dal computo al SAL — 360 parole
-
-## Domanda da commissario, domanda-trappola ed errore tipico — 160 parole
-
-## Mini-esercizio e checklist — 220 parole
-
-## Riferimenti consolidati e note di review — 100 parole
-
-Budget orientativo: **2.800-3.000 parole**, tabelle escluse. L'indice indica 2.500 parole: l'eccedenza è giustificata dalla necessità di spiegare separatamente stima, capitolato e contabilità senza usare l'esercizio al posto della teoria. Se occorre ridurre, spostare in appendice C formulari, esempi aggiuntivi e tavole documentali.
-
-## Condizione per lo step di scrittura
-
-Lo step 09 può partire soltanto dopo:
-
-1. consolidamento di art. 41, art. 115 e Allegati I.7/II.14 vigenti;
-2. creazione della source note specialistica e del topic;
-3. verifica puntuale di documenti, soggetti, sequenza e funzioni;
-4. distinzione documentata tra computo, CME, elenco prezzi, capitolato, libretto, registro, SAL, certificato e conto finale;
-5. selezione di un prezzario ufficiale solo come esempio datato;
-6. costruzione di un caso numerico senza prezzi o soglie presentati come vigenti;
-7. censimento dei rinvii precisi a `VOL-01` e capitoli 7-9;
-8. conferma che esercizio e checklist applicano teoria già spiegata;
-9. nessuna modifica al capitolo prima dello step 09.
+- fonti specialistiche e topic verificati come esistenti;
+- sei Nucleo ID stabili, completi e senza sovrapposizioni;
+- stato legacy classificato correttamente come parziale ai fini Format 2;
+- sezioni da conservare, confini e duplicazioni censiti;
+- caso, quiz, controlli, esercizio e checklist definiti;
+- audit specialistici e raccordi con i capitoli vicini esplicitati;
+- nessuna modifica apportata al capitolo durante questo step.
