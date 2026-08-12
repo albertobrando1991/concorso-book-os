@@ -3,7 +3,7 @@
   "specPath": "books/volumi/vol-08-ict-digitale-cybersecurity-dati/planning/00-scheda-pipeline.md",
   "specHash": "sha256:af67ff81718eae7e5e2d8b29cdd926e24769a54de17ffffc130f7dd3cbd210d4",
   "createdAt": "2026-07-28T19:54:29.381Z",
-  "updatedAt": "2026-08-12T10:19:40.876Z",
+  "updatedAt": "2026-08-12T12:33:00.734Z",
   "steps": [
     {
       "key": "08:moduli/m-tr01-ict-trasformazione-digitale/chapters/01-lavorare-ict-pa-ruoli-enti-prove.md",
@@ -1872,13 +1872,19 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-tr01-ict-trasformazione-digitale",
-      "status": "in-progress",
-      "attempts": 2,
+      "status": "done",
+      "attempts": 3,
       "evidence": [],
       "owner": "aless",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-12T10:19:40.876Z"
+      "startedAt": "2026-08-12T12:31:44.718Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-12T12:33:00.734Z"
     },
     {
       "key": "16:moduli/m-tr01-ict-trasformazione-digitale",
