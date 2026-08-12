@@ -9,15 +9,17 @@ entities: ["Regione", "Provincia", "Citta metropolitana", "Metodo BANDO"]
 source_refs: ["sources/bandi-inpa-vol-02-campione-2026.md", "sources/caso-completo-bando-prova-metodo-bando.md", "sources/risposta-sintetica-domande-aperte-metodo-bando.md", "sources/schema-universale-risposta-orale-metodo-bando.md", "sources/revisione-finale-risposta-concorsuale-metodo-bando.md"]
 book_refs: ["m-fl02-regioni-province-citta-metropolitane", "vol-02-enti-locali-polizia-locale", "il-metodo-bando"]
 confidence: 0.84
-updated_at: 2026-07-22T23:10:00+02:00
+updated_at: 2026-08-07T14:30:00+02:00
 created_at: 2026-07-17T17:30:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "module-code-m-fl02", "professional-draft", "review-required", "laboratorio"]
 book_id: m-fl02-regioni-province-citta-metropolitane
 outline_section: 12
 volume_chapter: 29
-draft_stage: professional-draft
+draft_stage: professional-draft-complete
+format_version: 2
+dati_operativi: []
 module_code: M-FL02
 module_family: funzioni-locali
 companion_to: il-metodo-bando
@@ -26,7 +28,7 @@ last_compiled_from: ["wiki/books/moduli/m-fl02-regioni-province-citta-metropolit
 
 # Laboratorio per i quattro profili regionali e di area vasta
 
-## Specifica struttura madre
+## Guida al capitolo
 
 ### Obiettivo
 
@@ -46,13 +48,10 @@ Quattro tracce guidate con scaletta e soluzione, griglia di revisione, simulazio
 
 ### Riferimenti consolidati
 
-- [[sources/bandi-inpa-vol-02-campione-2026]]
-- [[sources/caso-completo-bando-prova-metodo-bando]]
-- [[sources/risposta-sintetica-domande-aperte-metodo-bando]]
-- [[sources/schema-universale-risposta-orale-metodo-bando]]
-- [[sources/revisione-finale-risposta-concorsuale-metodo-bando]]
+- Bandi di concorso pubblicati sul Portale inPA, da leggere nella versione vigente della singola procedura.
+- Schemi professionali per analisi della traccia, risposta sintetica, colloquio orale e revisione finale.
 
-## Testo editoriale
+## Sviluppo del laboratorio
 
 ### Apertura editoriale
 
@@ -83,6 +82,10 @@ Al termine del capitolo devi saper:
 | Diario | Dove si è prodotto l'errore? | Correzione ripetibile |
 | Output | Che cosa consegno? | Risposta, nota, checklist o caso ordinato |
 
+## N-FL02-12-01 · Dal bando al profilo e all'output di prova
+
+### Spiegazione teorica
+
 ### Come scegliere il profilo prevalente nel bando
 
 Un bando può citare più materie. Il profilo prevalente non coincide con la materia che ti piace o con quella che occupa più pagine nel manuale. Dipende dalle prove previste, dalle attività indicate nel profilo, dai verbi usati nel programma e dai documenti che il candidato dovrà presumibilmente leggere o produrre.
@@ -109,6 +112,18 @@ Se il bando contiene più colonne, non cercare una risposta unica. Definisci un 
 | SPL e partecipate | Servizio, gestore, contratto di servizio, partecipazione e controlli. | Caso ente-servizio-gestore-controllo. |
 
 La tabella non è una lista da ripetere. Usala per scegliere l'output corretto: se la traccia chiede "illustra", serve una risposta ordinata; se chiede "predisponi" o "indica le verifiche", serve una sequenza di atti e controlli; se chiede un caso, devi prima distinguere soggetti e fasi.
+
+### Dal programma alla strategia di risposta
+
+La lettura del bando produce una gerarchia, non un semplice elenco. Al primo livello si collocano le attività del posto: istruttoria, programmazione, redazione di atti, gestione tecnica o monitoraggio. Al secondo livello vengono le materie che consentono di svolgerle. Al terzo si trovano gli strumenti di prova, per esempio quesito sintetico, caso, elaborato o colloquio. Questa gerarchia evita di preparare una risposta astratta quando la commissione vuole verificare una capacità operativa.
+
+Per ogni traccia conviene formulare una frase di perimetro: «Il caso riguarda principalmente il profilo amministrativo, con un collegamento finanziario». La frase obbliga a scegliere la catena dominante e limita le digressioni. Subito dopo si individua l'output: una definizione ordinata, una sequenza procedimentale, una nota istruttoria o una checklist. Due tracce sulla stessa materia possono così richiedere prestazioni diverse.
+
+Il controllo conclusivo usa quattro domande. Chi agisce? In quale fase? Con quale atto o documento? Quale risultato o controllo chiude la sequenza? Se una risposta non consente di rispondere, il problema non è la quantità di nozioni ma la loro organizzazione. In una prova breve questa griglia diventa anche una tecnica di selezione: si conservano i passaggi che cambiano soggetto, fase o conseguenza e si eliminano gli esempi ornamentali.
+
+**Applicazione al profilo.** Davanti alla formula «supporto all'attuazione di programmi territoriali», il candidato non deve scegliere automaticamente il profilo fondi. Verifica se le attività descritte riguardano la gestione amministrativa dell'avviso, il monitoraggio del progetto o aspetti tecnici dell'intervento. Solo questa lettura congiunta permette di assegnare un profilo prevalente e uno secondario in modo motivato.
+
+## N-FL02-12-02 · Laboratori amministrativo e legislativo regionale
 
 ### Caso guidato: profilo amministrativo regionale
 
@@ -185,6 +200,8 @@ Questa riscrittura non è un testo normativo pronto alla pubblicazione. Serve a 
 - ho collegato la misura a risorse, attuazione e monitoraggio?
 - ho distinto AIR, VIR e drafting, senza trattarli come sinonimi?
 
+## N-FL02-12-03 · Laboratorio tecnico per territorio e area vasta
+
 ### Laboratorio 3: profilo tecnico territorio e area vasta
 
 #### Traccia
@@ -216,6 +233,18 @@ La difficoltà non è conoscere il calcolo strutturale. Devi evitare di ridurre 
 - ho inserito il RUP senza attribuirgli ogni funzione tecnica o finanziaria?
 - ho trattato l'esproprio come procedimento con garanzie, non come semplice acquisto?
 - ho indicato il rinvio alle competenze specialistiche quando la traccia entra nei dettagli tecnici?
+
+### Distinzioni che governano il caso tecnico
+
+Nel profilo di area vasta occorre tenere distinti tre piani. La funzione indica perché l'ente interviene; la titolarità del bene chiarisce su quale immobile o infrastruttura si opera; la competenza dell'ufficio individua chi istruisce i singoli segmenti. Questi piani possono convergere, ma non sono intercambiabili. Affermare che una Provincia cura una determinata funzione non dimostra, da solo, né la proprietà del bene né il potere di ogni sua struttura di adottare tutti gli atti.
+
+Anche progetto, contratto ed esproprio restano procedimenti collegati ma autonomi. Il progetto descrive e giustifica la soluzione; il contratto seleziona l'operatore e disciplina la prestazione; l'eventuale acquisizione dell'area richiede presupposti, atti e garanzie propri. La qualità della risposta dipende dalla capacità di mostrare i raccordi: disponibilità delle aree in tempo utile, coerenza fra progettazione e programmazione, copertura delle spese e formazione di un fascicolo verificabile.
+
+Le conseguenze degli errori di sequenza sono concrete. Avviare una procedura senza un fabbisogno definito espone a incoerenze progettuali; ignorare la titolarità dell'area può impedire l'esecuzione; attribuire ogni compito al RUP cancella responsabilità tecniche, finanziarie e autorizzative che restano distribuite. In sede concorsuale non è necessario simulare valutazioni specialistiche: è invece necessario riconoscerle, collocarle nella fase corretta e indicare l'apporto del professionista o dell'ufficio competente.
+
+**Uso nella prova.** Se mancano dati, il candidato formula condizioni esplicite: «verificata la competenza dell'ente» oppure «qualora sia necessaria l'acquisizione dell'area». Non inventa l'esito. In questo modo la risposta rimane operativa, segnala i nodi istruttori e distingue ciò che deriva dalla traccia da ciò che deve ancora essere accertato.
+
+## N-FL02-12-04 · Laboratorio fondi UE e PNRR
 
 ### Laboratorio 4: profilo fondi UE e PNRR
 
@@ -249,6 +278,18 @@ Il candidato non deve descrivere schermate o funzioni di piattaforma. Deve ricos
 - ho distinto monitoraggio, rendicontazione e controllo?
 - ho trattato DNSH come verifica documentale e non come formula ambientale?
 - ho ricordato che istruzioni ReGiS e documenti richiesti dipendono dalla misura concreta?
+
+### La catena delle evidenze
+
+Un progetto finanziato è leggibile attraverso una catena di evidenze. L'atto di finanziamento definisce condizioni e risultato atteso; la scheda di progetto traduce tali condizioni in attività, tempi e responsabilità; gli affidamenti consentono di acquisire le prestazioni; i documenti di esecuzione provano che esse sono state rese; pagamenti e registrazioni collegano la spesa all'operazione; gli indicatori mostrano l'avanzamento e il conseguimento del risultato. Nessun documento, isolato, dimostra l'intero ciclo.
+
+La distinzione fra dato e prova è decisiva. Un valore inserito nel sistema di monitoraggio è un dato dichiarato; il fascicolo deve contenerne il supporto documentale. Allo stesso modo, la presenza di una fattura non dimostra da sola ammissibilità, corretta esecuzione o coerenza con il progetto. Il controllo ricostruisce i collegamenti e verifica che identificativi, importi, oggetto, date e responsabilità non si contraddicano. Le istruzioni concrete dipendono sempre dalla misura vigente, perciò la risposta deve descrivere il metodo senza inventare campi di piattaforma o scadenze.
+
+Il DNSH si inserisce in questa logica: non è una formula da aggiungere alla conclusione, ma una verifica da pianificare e documentare secondo le prescrizioni applicabili. Anche il rischio di doppio finanziamento richiede tracciabilità delle fonti e delle spese, non una dichiarazione generica. Se emerge uno scostamento, l'ente deve qualificarlo, aggiornarne tempestivamente i dati e attivare i rimedi previsti dagli atti della misura.
+
+**Applicazione al profilo.** In una risposta sintetica conviene ordinare le evidenze in quattro blocchi: titolo e responsabilità; progetto e tempi; affidamenti e spesa; risultati e controlli. Questa struttura rende visibile il passaggio dalla decisione al risultato e impedisce di descrivere ReGiS come fine del procedimento. L'errore tipico è elencare sigle senza spiegare quale rischio ciascun controllo presidia.
+
+## N-FL02-12-05 · Dalla simulazione alla prestazione concorsuale
 
 ### Da sapere in 5 righe
 
@@ -369,24 +410,85 @@ Se mancano pochi giorni alla prova, non tentare di svolgere tutte le simulazioni
 - ho un diario con errori concreti e una correzione per ciascuno?
 - ho collegato il piano di studio alla prova prevista, non alla sola lunghezza del manuale?
 
-### Riferimenti consolidati
+## ▣ Verifica
 
-- [[sources/bandi-inpa-vol-02-campione-2026]]
-- [[sources/caso-completo-bando-prova-metodo-bando]]
-- [[sources/risposta-sintetica-domande-aperte-metodo-bando]]
-- [[sources/schema-universale-risposta-orale-metodo-bando]]
-- [[sources/revisione-finale-risposta-concorsuale-metodo-bando]]
-- [[topics/metodo-bando]]
-- [[books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/04-procedimenti-atti-organizzazione-amministrativa-regionale]]
-- [[books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/06-tecnica-legislativa-air-vir-drafting]]
-- [[books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/07-politiche-coesione-fondi-ue]]
-- [[books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/08-pnrr-territoriale-regis-dnsh-controlli]]
-- [[books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/10-viabilita-edilizia-scolastica-territorio-espropri]]
-- [[books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/11-contratti-servizi-pubblici-locali-societa-partecipate]]
+### Quiz 1
 
-### Note di review
+**Per individuare il profilo prevalente, quale elemento pesa di più?**
 
-- Le tracce sono fittizie e servono a esercitare il metodo. Prima di usare il capitolo per un bando specifico, confrontare prove, profilo, materie, allegati e istruzioni della procedura effettiva.
-- Le parti normative richiamano i capitoli del modulo e restano soggette alle rispettive review: verificare sempre fonti regionali, settoriali e finanziarie applicabili al caso concreto.
-- Inserire nuove simulazioni soltanto dopo avere acquisito bandi regionali, legislativi e di area vasta con programma e prove sufficientemente documentati.
-- Per soglie, termini, discipline tecniche, funzioni di piattaforma e modelli di atto usare fonti ufficiali aggiornate o rinviare al modulo specialistico pertinente: [[books/moduli/architettura-moduli-specialistici]].
+A. La materia preferita dal candidato.
+B. Le attività, le prove e i verbi usati dal bando.
+C. Il numero di pagine dedicate a ciascuna materia.
+D. L'ordine alfabetico delle materie.
+
+**Risposta corretta: B.** Il profilo deriva dal lavoro descritto e dalla prestazione richiesta, non dalle preferenze personali o dalla mole del materiale.
+
+### Quiz 2
+
+**In un procedimento per contributi regionali, quale sequenza è più completa?**
+
+A. Avviso, pagamento, archiviazione.
+B. Indirizzo, avviso, istruttoria, concessione, attuazione e controllo.
+C. Deliberazione, gara, collaudo.
+D. Domanda, graduatoria, comunicato stampa.
+
+**Risposta corretta: B.** La sequenza distingue indirizzo e gestione e non si arresta alla concessione, perché include attuazione e verifica.
+
+### Quiz 3
+
+**Nel laboratorio legislativo, perché un rinvio generico alla Giunta può essere insufficiente?**
+
+A. Perché la Giunta non adotta mai deliberazioni.
+B. Perché criteri, destinatari, risorse, attuazione e controlli devono risultare determinabili.
+C. Perché ogni misura deve essere regolata dallo Stato.
+D. Perché una disposizione deve contenere dettagli tecnici esecutivi.
+
+**Risposta corretta: B.** Il rinvio deve inserirsi in una disciplina comprensibile, coerente con competenza, obiettivi e modalità di attuazione.
+
+### Quiz 4
+
+**Nel caso tecnico relativo a un edificio scolastico, quale passaggio viene prima dell'affidamento?**
+
+A. Soltanto il pagamento.
+B. Verifica del bisogno e della competenza, programmazione, risorse e progettazione.
+C. Aggiornamento del patrimonio a lavori conclusi.
+D. Pubblicazione dei risultati di monitoraggio PNRR.
+
+**Risposta corretta: B.** La procedura contrattuale si colloca dentro una catena amministrativa già istruita e finanziata.
+
+### Quiz 5
+
+**Qual è la distinzione corretta in un progetto finanziato?**
+
+A. Monitoraggio, rendicontazione e controllo sono sinonimi.
+B. Il monitoraggio segue l'avanzamento, la rendicontazione documenta attività e spese, il controllo ne verifica regolarità e coerenza.
+C. La rendicontazione precede sempre l'avvio del progetto.
+D. Il controllo riguarda soltanto il saldo finale.
+
+**Risposta corretta: B.** Le tre attività sono collegate, ma rispondono a funzioni differenti e producono evidenze diverse.
+
+### Quiz 6
+
+**Durante la revisione 5P, come va trattato un riferimento normativo incerto?**
+
+A. Va aggiunto per mostrare ampiezza di studio.
+B. Va trasformato in una citazione numerica approssimativa.
+C. Va verificato oppure omesso, mantenendo corretta la spiegazione sostanziale.
+D. Va sostituito con la formula «normativa vigente».
+
+**Risposta corretta: C.** La precisione prevale sull'accumulo: una norma inventata o imprecisa indebolisce anche una struttura corretta.
+
+### Caso ragionato finale
+
+Una Città metropolitana deve realizzare un intervento di adeguamento su un edificio scolastico finanziato da un programma pubblico. La traccia chiede di indicare le verifiche essenziali fino alla rendicontazione. Costruisci una risposta in non più di dodici passaggi.
+
+**Soluzione ragionata.** Occorre: identificare funzione dell'ente e titolarità del bene; leggere atto di finanziamento e condizioni; formalizzare progetto, responsabilità e identificativi richiesti; inserire l'intervento nella programmazione e verificarne la copertura; sviluppare progettazione e autorizzazioni con le competenze tecniche; gestire le eventuali aree private con il procedimento appropriato; avviare l'affidamento e formare il fascicolo; controllare esecuzione, sicurezza e prestazioni; collegare ogni spesa al progetto; aggiornare i dati di avanzamento; raccogliere le evidenze ambientali e gli altri controlli richiesti dalla misura; rendicontare attività, spese e risultati, conservando la coerenza fra dati e documenti. La risposta integra il profilo tecnico con quello finanziario senza confondere progetto, contratto e spesa.
+
+## Riferimenti normativi e professionali essenziali
+
+- Costituzione della Repubblica italiana, con particolare riguardo all'autonomia territoriale e al riparto delle competenze.
+- Legge 7 agosto 1990, n. 241, sul procedimento amministrativo e sul diritto di accesso.
+- Decreto legislativo 31 marzo 2023, n. 36, per il ciclo dei contratti pubblici.
+- Decreto del Presidente della Repubblica 8 giugno 2001, n. 327, per il procedimento espropriativo.
+- Regolamento (UE) 2021/241 sul dispositivo per la ripresa e la resilienza e atti ufficiali della misura applicabile.
+- Avvisi, disciplinari e manuali dell'amministrazione titolare, nella versione vigente per il progetto esaminato.

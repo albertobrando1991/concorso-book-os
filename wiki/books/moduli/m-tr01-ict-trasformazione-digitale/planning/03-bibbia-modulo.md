@@ -46,4 +46,4 @@ Distinguere autenticazione/autorizzazione; evento/log/alert/incidente; rischio i
 
 ## Stato delle verifiche
 
-I gate individuali 01-13, la review trasversale e audit specialistico automatico dello step 15 sono completati. La conferma umana è riservata allo step 24; fonti mobili e vigenza si ricontrollano quando cambia cut-off o bando target.
+I gate individuali 08-12 dei capitoli 01-13 sono completati. La revisione trasversale del modulo è allo step 13, attualmente in corso; correzioni, audit specialistico automatico dello step 15 e text freeze degli step 14-16 non sono ancora svolti. Le verifiche visive, l'audit di impaginazione e la conferma umana restano nelle rispettive fasi successive; fonti mobili e vigenza si ricontrollano quando cambia cut-off o bando target.

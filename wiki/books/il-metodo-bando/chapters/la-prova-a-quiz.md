@@ -43,6 +43,10 @@ Alla fine dovrai saper rispondere a quattro domande:
 
 Se non conosci queste quattro risposte, non stai ancora preparando la prova a quiz. Stai solo facendo domande a caso.
 
+> [!NOTE]
+> **Il quadro regolamentare**
+> La cornice generale delle procedure concorsuali pubbliche è il D.P.R. 9 maggio 1994, n. 487, come modificato dal D.P.R. 16 giugno 2023, n. 82: disciplina le modalità di accesso (concorso per esami, per titoli ed esami o corso-concorso), i requisiti generali, il contenuto del bando, lo svolgimento delle prove e la composizione della commissione esaminatrice. È un regolamento quadro, non un elenco di soglie o punteggi: numero dei quesiti, tempo a disposizione, penalità, punteggio minimo ed eventuale banca dati restano decisi dal bando specifico. Per questo il libro non fissa mai valori assoluti su questi punti: verificali sempre nel bando che stai preparando.
+
 ## Mappa BANDO della prova a quiz
 
 | Fase | Cosa cercare | Prodotto concreto |
@@ -55,6 +59,8 @@ Se non conosci queste quattro risposte, non stai ancora preparando la prova a qu
 
 ![Figura 14.1 - La prova a quiz: mappa operativa per collegare bando, aree, nuclei, diario, output, tempo, rischio e correzione.](../assets/chapter-14/01-mappa-operativa-prova-quiz.png)
 
+*Figura 14.1 - La prova a quiz: mappa operativa per collegare bando, aree, nuclei, diario, output, tempo, rischio e correzione.*
+
 ## Prima decisione: banca dati o no
 
 La prima differenza è decisiva.
@@ -66,11 +72,13 @@ La prima differenza è decisiva.
 | Banca dati promessa ma non ancora disponibile | Preparazione dei nuclei e calendario flessibile per assorbire la banca quando esce. |
 | Prova mista | Separare quiz, risposta aperta, inglese, informatica e orale. |
 
-Con banca dati ufficiale, il problema non è "trovare domande". È coprirle tutte senza memorizzare meccanicamente la posizione della risposta. Devi conoscere perché una risposta è corretta e perché le altre sono sbagliate.
+Con banca dati ufficiale, il problema non è “trovare domande”. È coprirle tutte senza memorizzare meccanicamente la posizione della risposta. Devi conoscere perché una risposta è corretta e perché le altre sono sbagliate.
 
 Senza banca dati devi studiare nuclei e tipologie, senza inseguire ogni raccolta online. Per diritto amministrativo servono procedimento, provvedimento, accesso, silenzio e responsabilità; per logica, brani, deduzioni, serie, percentuali e vincoli.
 
 ![Figura 14.2 - Banca dati o no: albero decisionale per scegliere copertura completa, lavoro sui nuclei o calendario flessibile.](../assets/chapter-14/02-banca-dati-albero-decisionale.png)
+
+*Figura 14.2 - Banca dati o no: albero decisionale per scegliere copertura completa, lavoro sui nuclei o calendario flessibile.*
 
 ## Scheda tecnica della prova
 
@@ -95,6 +103,8 @@ La riga più importante è il tempo medio. Se hai 60 domande in 60 minuti, il te
 
 ![Figura 14.3 - Scheda tecnica della prova: cruscotto per numero domande, tempo, materie, punteggi, soglia, banca dati, modalità e ritorno.](../assets/chapter-14/03-scheda-tecnica-prova.png)
 
+*Figura 14.3 - Scheda tecnica della prova: cruscotto per numero domande, tempo, materie, punteggi, soglia, banca dati, modalità e ritorno.*
+
 ## Come studiare con banca dati ufficiale
 
 La banca dati ufficiale va trattata in quattro passaggi.
@@ -117,7 +127,7 @@ Nel secondo giro lavori sugli errori: non limitarti a rifare la domanda, individ
 |---|---|---|
 | Memoria | Non ricordavo una definizione. | Flashcard e richiamo. |
 | Concetto | Ho confuso accesso civico e accesso documentale. | Tabella comparativa. |
-| Lettura | Ho ignorato "non". | Routine di lettura lenta della domanda. |
+| Lettura | Ho ignorato “non”. | Routine di lettura lenta della domanda. |
 | Distrattore | Ho scelto una risposta plausibile ma incompleta. | Analisi delle alternative. |
 | Tempo | Ho impiegato troppo. | Soglia di abbandono. |
 
@@ -130,6 +140,8 @@ Nel terzo giro le domande corrette devono diventare rapide. Quelle sbagliate dev
 Solo alla fine la banca dati diventa simulazione. La simulazione non è una batteria qualunque: è prova reale. Timer, numero domande, penalità, niente pause, correzione finale.
 
 ![Figura 14.4 - Metodo con banca dati in quattro passaggi: copertura, errori, consolidamento e simulazione con ritorno sugli errori.](../assets/chapter-14/04-banca-dati-quattro-passaggi.png)
+
+*Figura 14.4 - Metodo con banca dati in quattro passaggi: copertura, errori, consolidamento e simulazione con ritorno sugli errori.*
 
 ## Come studiare senza banca dati
 
@@ -161,13 +173,15 @@ Torna sulle domande segnate. Ora investi più tempo su calcoli, brani, confronti
 
 ### Terzo giro: rischio controllato
 
-Solo alla fine decidi sulle domande dubbie. Qui conta il bando: se c'è penalità, devi essere più selettivo; se non c'è penalità, la strategia cambia. Non applicare mai una regola generale senza leggere i criteri.
+Solo alla fine decidi sulle domande dubbie. Qui conta il bando: se c’è penalità, devi essere più selettivo; se non c’è penalità, la strategia cambia. Non applicare mai una regola generale senza leggere i criteri.
 
 > [!IMPORTANT]
 > **Regola operativa**
-> Una domanda difficile non deve rubare il tempo a cinque domande facili. Il punteggio complessivo vale più dell'orgoglio sulla singola risposta.
+> Una domanda difficile non deve rubare il tempo a cinque domande facili. Il punteggio complessivo vale più dell’orgoglio sulla singola risposta.
 
 ![Figura 14.5 - Routine dei tre giri in prova: punti rapidi, domande lavorabili e rischio controllato in base a tempo e penalità.](../assets/chapter-14/05-routine-tre-giri.png)
+
+*Figura 14.5 - Routine dei tre giri in prova: punti rapidi, domande lavorabili e rischio controllato in base a tempo e penalità.*
 
 ## Quando saltare una domanda
 
@@ -201,9 +215,11 @@ Allenati a spiegare perché le risposte sbagliate sono sbagliate. È uno dei mod
 
 ![Figura 14.6 - Anatomia del distrattore: segnali ricorrenti nelle risposte quasi vere, fuori domanda o costruite sulla fretta.](../assets/chapter-14/06-anatomia-del-distrattore.png)
 
+*Figura 14.6 - Anatomia del distrattore: segnali ricorrenti nelle risposte quasi vere, fuori domanda o costruite sulla fretta.*
+
 ## Correzione: il punteggio non basta
 
-Dopo una simulazione non limitarti a dire "ho fatto 42 su 60". Il punteggio è il risultato. Tu devi leggere il processo.
+Dopo una simulazione non limitarti a dire “ho fatto 42 su 60”. Il punteggio è il risultato. Tu devi leggere il processo.
 
 Scheda di correzione:
 
@@ -235,13 +251,15 @@ Non fare simulazioni complete ogni giorno se poi non correggi. Una simulazione s
 
 ![Figura 14.7 - Dal punteggio al diario errori: trasformare simulazione, categorie di errore e drill mirato nella prossima decisione di studio.](../assets/chapter-14/07-dal-punteggio-al-diario-errori.png)
 
+*Figura 14.7 - Dal punteggio al diario errori: trasformare simulazione, categorie di errore e drill mirato nella prossima decisione di studio.*
+
 ## Caso guidato
 
 Luca prepara una preselettiva con 60 domande in 60 minuti. La prima settimana fa batterie casuali e guarda solo il punteggio. Migliora poco: passa da 37 a 39 risposte corrette.
 
-Poi cambia metodo. Compila la scheda tecnica: scopre che non c'è banca dati, che alcune domande sono di logica e che la penalità per errore esiste. Divide gli errori in categorie. Nota che sbaglia soprattutto:
+Poi cambia metodo. Compila la scheda tecnica: scopre che non c’è banca dati, che alcune domande sono di logica e che la penalità per errore esiste. Divide gli errori in categorie. Nota che sbaglia soprattutto:
 
-- domande con "non";
+- domande con “non”;
 - differenze tra accesso civico e accesso documentale;
 - percentuali;
 - domande lasciate troppo tardi.
@@ -302,8 +320,3 @@ Poi scegli la categoria più frequente e costruisci un drill da 15 minuti. Non p
 - [[topics/prova-a-quiz]]
 - [[topics/diario-errori]]
 - [[topics/logica-concorsuale]]
-
-## Note di review
-
-- Prima della pubblicazione finale verificare eventuali aggiornamenti normativi e bandi recenti su soglie, penalità e modalità digitali.
-- Gli esempi sono originali e metodologici; non riproducono banche dati ufficiali.

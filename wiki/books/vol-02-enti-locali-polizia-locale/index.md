@@ -2,7 +2,7 @@
 id: vol-02-enti-locali-polizia-locale
 type: commercial_volume
 title: "VOL-02 - Enti locali, Camere di commercio e Polizia locale"
-status: drafting
+status: revised_draft
 domain: "concorsi pubblici italiani"
 topics: ["enti locali", "polizia locale", "camere commercio", "moduli specialistici", "metodo bando"]
 entities: ["Metodo BANDO", "Capitale Personale", "Comune", "Regione", "Provincia", "Citta metropolitana", "Camera di commercio", "Polizia locale"]
@@ -29,17 +29,17 @@ source_refs: [
 ]
 book_refs: ["il-metodo-bando", "moduli-specialistici", "m-fl01-comuni-unioni", "m-fl02-regioni-province-citta-metropolitane", "m-fl03-camere-commercio", "m-fl04-polizia-locale"]
 confidence: 0.9
-updated_at: 2026-07-17T20:20:00+02:00
+updated_at: 2026-08-09T11:45:00+02:00
 created_at: 2026-07-09T18:30:00+02:00
-review_required: true
+review_required: false
 canonical: true
-tags: ["commercial-volume", "vol-02", "funzioni-locali", "drafting"]
+tags: ["commercial-volume", "vol-02", "funzioni-locali", "publication-candidate"]
 book_id: vol-02-enti-locali-polizia-locale
 volume_code: VOL-02
 volume_family: funzioni-locali
 modules: ["M-FL01", "M-FL02", "M-FL03", "M-FL04"]
 companion_to: il-metodo-bando
-draft_stage: professional-draft-started
+draft_stage: final-editorial-review
 last_compiled_from: ["wiki/raw/vol-02-enti-locali-polizia-locale/vol-02-enti-locali-polizia-locale-dossier-v4.md", "wiki/books/moduli/architettura-moduli-specialistici.md", "wiki/sources/bandi-inpa-vol-02-campione-2026.md"]
 ---
 
@@ -105,4 +105,4 @@ FM6. [[books/vol-02-enti-locali-polizia-locale/front-matter/06-indice|Indice]]
 - [[sources/camere-commercio-registro-imprese-m-fl03]]
 
 ## Stato
-Il volume è source-ready per struttura e indice dettagliato. Dopo lo sviluppo del capitolo M-FL02 12, l'audit del 22 luglio 2026 censisce 47 capitoli fisicamente presenti: 29 bozze professionali e 18 schede source-ready prive di testo editoriale; i capitoli pianificati 2, 3 e 50 mancano. Il volume non è pubblicabile fino allo sviluppo delle lacune, alla verifica dei rinvii e alla review normativa puntuale. Vedi [[books/vol-02-enti-locali-polizia-locale/planning/02-matrice-copertura-didattica]] e [[reviews/review-vol-02-copertura-didattica-integrale-2026-07-22]].
+Il corpus editoriale è completo: quattro capitoli di raccordo del volume e 46 capitoli specialistici distribuiti nei moduli M-FL01, M-FL02, M-FL03 e M-FL04. Le quattro matrici di modulo censiscono 231 nuclei completi senza blocker; revisioni trasversali, audit specialistici automatici e text freeze sono conclusi. La revisione finale dello step 21 ha riallineato la matrice aggregata e i metadati storici. Restano il preflight tecnico, la preparazione del pacchetto e la conferma umana conclusiva dello step 24.

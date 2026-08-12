@@ -1,0 +1,287 @@
+---
+id: review-vol-08-step-20-page-audit
+type: review
+title: Audit pagina per pagina - VOL-08
+status: complete
+domain: concorsi pubblici italiani
+topics:
+  - audit pagina per pagina
+  - Book Studio
+entities:
+  - Amazon KDP
+source_refs: []
+book_refs:
+  - vol-08-ict-digitale-cybersecurity-dati
+confidence: 1
+updated_at: 2026-08-12T13:24:47.333Z
+created_at: 2026-08-12T13:24:47.333Z
+review_required: false
+canonical: false
+tags:
+  - pipeline-step-20
+  - page-fill
+  - vol-08
+issue_type: page_fill
+severity: none
+affected_pages:
+  - books/volumi/vol-08-ict-digitale-cybersecurity-dati/index.md
+---
+
+# Audit pagina per pagina - VOL-08
+
+## Sintesi
+
+- Book ID: `volumi/vol-08`
+- Pagine DOM: 231
+- Problemi bloccanti aperti: 0
+- Problemi significativi aperti: 0
+
+## Anomalie
+
+Nessuna anomalia aperta. Le tre segnalazioni automatiche residue sono state ricontrollate e chiuse come eccezioni motivate nel registro.
+
+## Registro completo
+
+<!-- page-audit-registry:start -->
+| pagina | tipo di problema | elemento | gravita | correzione | esito |
+| ---: | --- | --- | --- | --- | --- |
+| 1 | nessuno | pagina | nessuna | nessuna | conforme |
+| 2 | nessuno | pagina | nessuna | nessuna | conforme |
+| 3 | nessuno | pagina | nessuna | nessuna | conforme |
+| 4 | nessuno | pagina | nessuna | nessuna | conforme |
+| 5 | nessuno | pagina | nessuna | nessuna | conforme |
+| 6 | nessuno | pagina | nessuna | nessuna | conforme |
+| 7 | split-index | indice analitico | media | prosecuzione necessaria per 82 nuclei; mantenuta leggibilità tipografica | risolto - ricontrollato |
+| 8 | nessuno | pagina | nessuna | nessuna | conforme |
+| 9 | nessuno | pagina | nessuna | nessuna | conforme |
+| 10 | nessuno | pagina | nessuna | nessuna | conforme |
+| 11 | nessuno | pagina | nessuna | nessuna | conforme |
+| 12 | nessuno | pagina | nessuna | nessuna | conforme |
+| 13 | nessuno | pagina | nessuna | nessuna | conforme |
+| 14 | nessuno | pagina | nessuna | nessuna | conforme |
+| 15 | nessuno | pagina | nessuna | nessuna | conforme |
+| 16 | nessuno | pagina | nessuna | nessuna | conforme |
+| 17 | nessuno | pagina | nessuna | nessuna | conforme |
+| 18 | nessuno | pagina | nessuna | nessuna | conforme |
+| 19 | nessuno | pagina | nessuna | nessuna | conforme |
+| 20 | nessuno | pagina | nessuna | nessuna | conforme |
+| 21 | nessuno | pagina | nessuna | nessuna | conforme |
+| 22 | nessuno | pagina | nessuna | nessuna | conforme |
+| 23 | nessuno | pagina | nessuna | nessuna | conforme |
+| 24 | nessuno | pagina | nessuna | nessuna | conforme |
+| 25 | nessuno | pagina | nessuna | nessuna | conforme |
+| 26 | nessuno | pagina | nessuna | nessuna | conforme |
+| 27 | nessuno | pagina | nessuna | nessuna | conforme |
+| 28 | nessuno | pagina | nessuna | nessuna | conforme |
+| 29 | nessuno | pagina | nessuna | nessuna | conforme |
+| 30 | nessuno | pagina | nessuna | nessuna | conforme |
+| 31 | nessuno | pagina | nessuna | nessuna | conforme |
+| 32 | nessuno | pagina | nessuna | nessuna | conforme |
+| 33 | nessuno | pagina | nessuna | nessuna | conforme |
+| 34 | nessuno | pagina | nessuna | nessuna | conforme |
+| 35 | nessuno | pagina | nessuna | nessuna | conforme |
+| 36 | nessuno | pagina | nessuna | nessuna | conforme |
+| 37 | nessuno | pagina | nessuna | nessuna | conforme |
+| 38 | nessuno | pagina | nessuna | nessuna | conforme |
+| 39 | nessuno | pagina | nessuna | nessuna | conforme |
+| 40 | nessuno | pagina | nessuna | nessuna | conforme |
+| 41 | nessuno | pagina | nessuna | nessuna | conforme |
+| 42 | nessuno | pagina | nessuna | nessuna | conforme |
+| 43 | nessuno | pagina | nessuna | nessuna | conforme |
+| 44 | nessuno | pagina | nessuna | nessuna | conforme |
+| 45 | nessuno | pagina | nessuna | nessuna | conforme |
+| 46 | nessuno | pagina | nessuna | nessuna | conforme |
+| 47 | nessuno | pagina | nessuna | nessuna | conforme |
+| 48 | nessuno | pagina | nessuna | nessuna | conforme |
+| 49 | page-fill | area utile | media | contenuto sostanziale e vuoto terminale fisiologico; nessuna pagina quasi vuota | risolto - ricontrollato |
+| 50 | nessuno | pagina | nessuna | nessuna | conforme |
+| 51 | nessuno | pagina | nessuna | nessuna | conforme |
+| 52 | nessuno | pagina | nessuna | nessuna | conforme |
+| 53 | nessuno | pagina | nessuna | nessuna | conforme |
+| 54 | nessuno | pagina | nessuna | nessuna | conforme |
+| 55 | nessuno | pagina | nessuna | nessuna | conforme |
+| 56 | nessuno | pagina | nessuna | nessuna | conforme |
+| 57 | nessuno | pagina | nessuna | nessuna | conforme |
+| 58 | nessuno | pagina | nessuna | nessuna | conforme |
+| 59 | nessuno | pagina | nessuna | nessuna | conforme |
+| 60 | nessuno | pagina | nessuna | nessuna | conforme |
+| 61 | nessuno | pagina | nessuna | nessuna | conforme |
+| 62 | nessuno | pagina | nessuna | nessuna | conforme |
+| 63 | nessuno | pagina | nessuna | nessuna | conforme |
+| 64 | nessuno | pagina | nessuna | nessuna | conforme |
+| 65 | nessuno | pagina | nessuna | nessuna | conforme |
+| 66 | nessuno | pagina | nessuna | nessuna | conforme |
+| 67 | nessuno | pagina | nessuna | nessuna | conforme |
+| 68 | nessuno | pagina | nessuna | nessuna | conforme |
+| 69 | nessuno | pagina | nessuna | nessuna | conforme |
+| 70 | nessuno | pagina | nessuna | nessuna | conforme |
+| 71 | nessuno | pagina | nessuna | nessuna | conforme |
+| 72 | nessuno | pagina | nessuna | nessuna | conforme |
+| 73 | nessuno | pagina | nessuna | nessuna | conforme |
+| 74 | nessuno | pagina | nessuna | nessuna | conforme |
+| 75 | nessuno | pagina | nessuna | nessuna | conforme |
+| 76 | nessuno | pagina | nessuna | nessuna | conforme |
+| 77 | nessuno | pagina | nessuna | nessuna | conforme |
+| 78 | nessuno | pagina | nessuna | nessuna | conforme |
+| 79 | nessuno | pagina | nessuna | nessuna | conforme |
+| 80 | nessuno | pagina | nessuna | nessuna | conforme |
+| 81 | nessuno | pagina | nessuna | nessuna | conforme |
+| 82 | nessuno | pagina | nessuna | nessuna | conforme |
+| 83 | nessuno | pagina | nessuna | nessuna | conforme |
+| 84 | nessuno | pagina | nessuna | nessuna | conforme |
+| 85 | nessuno | pagina | nessuna | nessuna | conforme |
+| 86 | nessuno | pagina | nessuna | nessuna | conforme |
+| 87 | nessuno | pagina | nessuna | nessuna | conforme |
+| 88 | nessuno | pagina | nessuna | nessuna | conforme |
+| 89 | nessuno | pagina | nessuna | nessuna | conforme |
+| 90 | nessuno | pagina | nessuna | nessuna | conforme |
+| 91 | nessuno | pagina | nessuna | nessuna | conforme |
+| 92 | nessuno | pagina | nessuna | nessuna | conforme |
+| 93 | nessuno | pagina | nessuna | nessuna | conforme |
+| 94 | nessuno | pagina | nessuna | nessuna | conforme |
+| 95 | nessuno | pagina | nessuna | nessuna | conforme |
+| 96 | nessuno | pagina | nessuna | nessuna | conforme |
+| 97 | nessuno | pagina | nessuna | nessuna | conforme |
+| 98 | nessuno | pagina | nessuna | nessuna | conforme |
+| 99 | nessuno | pagina | nessuna | nessuna | conforme |
+| 100 | nessuno | pagina | nessuna | nessuna | conforme |
+| 101 | nessuno | pagina | nessuna | nessuna | conforme |
+| 102 | nessuno | pagina | nessuna | nessuna | conforme |
+| 103 | nessuno | pagina | nessuna | nessuna | conforme |
+| 104 | nessuno | pagina | nessuna | nessuna | conforme |
+| 105 | nessuno | pagina | nessuna | nessuna | conforme |
+| 106 | nessuno | pagina | nessuna | nessuna | conforme |
+| 107 | nessuno | pagina | nessuna | nessuna | conforme |
+| 108 | nessuno | pagina | nessuna | nessuna | conforme |
+| 109 | nessuno | pagina | nessuna | nessuna | conforme |
+| 110 | nessuno | pagina | nessuna | nessuna | conforme |
+| 111 | nessuno | pagina | nessuna | nessuna | conforme |
+| 112 | nessuno | pagina | nessuna | nessuna | conforme |
+| 113 | nessuno | pagina | nessuna | nessuna | conforme |
+| 114 | nessuno | pagina | nessuna | nessuna | conforme |
+| 115 | nessuno | pagina | nessuna | nessuna | conforme |
+| 116 | nessuno | pagina | nessuna | nessuna | conforme |
+| 117 | nessuno | pagina | nessuna | nessuna | conforme |
+| 118 | nessuno | pagina | nessuna | nessuna | conforme |
+| 119 | nessuno | pagina | nessuna | nessuna | conforme |
+| 120 | nessuno | pagina | nessuna | nessuna | conforme |
+| 121 | nessuno | pagina | nessuna | nessuna | conforme |
+| 122 | nessuno | pagina | nessuna | nessuna | conforme |
+| 123 | nessuno | pagina | nessuna | nessuna | conforme |
+| 124 | nessuno | pagina | nessuna | nessuna | conforme |
+| 125 | nessuno | pagina | nessuna | nessuna | conforme |
+| 126 | nessuno | pagina | nessuna | nessuna | conforme |
+| 127 | nessuno | pagina | nessuna | nessuna | conforme |
+| 128 | nessuno | pagina | nessuna | nessuna | conforme |
+| 129 | nessuno | pagina | nessuna | nessuna | conforme |
+| 130 | nessuno | pagina | nessuna | nessuna | conforme |
+| 131 | nessuno | pagina | nessuna | nessuna | conforme |
+| 132 | nessuno | pagina | nessuna | nessuna | conforme |
+| 133 | nessuno | pagina | nessuna | nessuna | conforme |
+| 134 | nessuno | pagina | nessuna | nessuna | conforme |
+| 135 | nessuno | pagina | nessuna | nessuna | conforme |
+| 136 | nessuno | pagina | nessuna | nessuna | conforme |
+| 137 | nessuno | pagina | nessuna | nessuna | conforme |
+| 138 | nessuno | pagina | nessuna | nessuna | conforme |
+| 139 | nessuno | pagina | nessuna | nessuna | conforme |
+| 140 | nessuno | pagina | nessuna | nessuna | conforme |
+| 141 | nessuno | pagina | nessuna | nessuna | conforme |
+| 142 | nessuno | pagina | nessuna | nessuna | conforme |
+| 143 | nessuno | pagina | nessuna | nessuna | conforme |
+| 144 | nessuno | pagina | nessuna | nessuna | conforme |
+| 145 | nessuno | pagina | nessuna | nessuna | conforme |
+| 146 | nessuno | pagina | nessuna | nessuna | conforme |
+| 147 | nessuno | pagina | nessuna | nessuna | conforme |
+| 148 | nessuno | pagina | nessuna | nessuna | conforme |
+| 149 | nessuno | pagina | nessuna | nessuna | conforme |
+| 150 | nessuno | pagina | nessuna | nessuna | conforme |
+| 151 | nessuno | pagina | nessuna | nessuna | conforme |
+| 152 | nessuno | pagina | nessuna | nessuna | conforme |
+| 153 | nessuno | pagina | nessuna | nessuna | conforme |
+| 154 | nessuno | pagina | nessuna | nessuna | conforme |
+| 155 | nessuno | pagina | nessuna | nessuna | conforme |
+| 156 | nessuno | pagina | nessuna | nessuna | conforme |
+| 157 | widow-orphan | lista riferimenti | media | heading e sei riferimenti complessivi verificati; continuazione semanticamente completa | risolto - ricontrollato |
+| 158 | nessuno | pagina | nessuna | nessuna | conforme |
+| 159 | nessuno | pagina | nessuna | nessuna | conforme |
+| 160 | nessuno | pagina | nessuna | nessuna | conforme |
+| 161 | nessuno | pagina | nessuna | nessuna | conforme |
+| 162 | nessuno | pagina | nessuna | nessuna | conforme |
+| 163 | nessuno | pagina | nessuna | nessuna | conforme |
+| 164 | nessuno | pagina | nessuna | nessuna | conforme |
+| 165 | nessuno | pagina | nessuna | nessuna | conforme |
+| 166 | nessuno | pagina | nessuna | nessuna | conforme |
+| 167 | nessuno | pagina | nessuna | nessuna | conforme |
+| 168 | nessuno | pagina | nessuna | nessuna | conforme |
+| 169 | nessuno | pagina | nessuna | nessuna | conforme |
+| 170 | nessuno | pagina | nessuna | nessuna | conforme |
+| 171 | nessuno | pagina | nessuna | nessuna | conforme |
+| 172 | nessuno | pagina | nessuna | nessuna | conforme |
+| 173 | nessuno | pagina | nessuna | nessuna | conforme |
+| 174 | nessuno | pagina | nessuna | nessuna | conforme |
+| 175 | nessuno | pagina | nessuna | nessuna | conforme |
+| 176 | nessuno | pagina | nessuna | nessuna | conforme |
+| 177 | nessuno | pagina | nessuna | nessuna | conforme |
+| 178 | nessuno | pagina | nessuna | nessuna | conforme |
+| 179 | nessuno | pagina | nessuna | nessuna | conforme |
+| 180 | nessuno | pagina | nessuna | nessuna | conforme |
+| 181 | nessuno | pagina | nessuna | nessuna | conforme |
+| 182 | nessuno | pagina | nessuna | nessuna | conforme |
+| 183 | nessuno | pagina | nessuna | nessuna | conforme |
+| 184 | nessuno | pagina | nessuna | nessuna | conforme |
+| 185 | nessuno | pagina | nessuna | nessuna | conforme |
+| 186 | nessuno | pagina | nessuna | nessuna | conforme |
+| 187 | nessuno | pagina | nessuna | nessuna | conforme |
+| 188 | nessuno | pagina | nessuna | nessuna | conforme |
+| 189 | nessuno | pagina | nessuna | nessuna | conforme |
+| 190 | nessuno | pagina | nessuna | nessuna | conforme |
+| 191 | nessuno | pagina | nessuna | nessuna | conforme |
+| 192 | nessuno | pagina | nessuna | nessuna | conforme |
+| 193 | nessuno | pagina | nessuna | nessuna | conforme |
+| 194 | nessuno | pagina | nessuna | nessuna | conforme |
+| 195 | nessuno | pagina | nessuna | nessuna | conforme |
+| 196 | nessuno | pagina | nessuna | nessuna | conforme |
+| 197 | nessuno | pagina | nessuna | nessuna | conforme |
+| 198 | nessuno | pagina | nessuna | nessuna | conforme |
+| 199 | nessuno | pagina | nessuna | nessuna | conforme |
+| 200 | nessuno | pagina | nessuna | nessuna | conforme |
+| 201 | nessuno | pagina | nessuna | nessuna | conforme |
+| 202 | nessuno | pagina | nessuna | nessuna | conforme |
+| 203 | nessuno | pagina | nessuna | nessuna | conforme |
+| 204 | nessuno | pagina | nessuna | nessuna | conforme |
+| 205 | nessuno | pagina | nessuna | nessuna | conforme |
+| 206 | nessuno | pagina | nessuna | nessuna | conforme |
+| 207 | nessuno | pagina | nessuna | nessuna | conforme |
+| 208 | nessuno | pagina | nessuna | nessuna | conforme |
+| 209 | nessuno | pagina | nessuna | nessuna | conforme |
+| 210 | nessuno | pagina | nessuna | nessuna | conforme |
+| 211 | nessuno | pagina | nessuna | nessuna | conforme |
+| 212 | nessuno | pagina | nessuna | nessuna | conforme |
+| 213 | nessuno | pagina | nessuna | nessuna | conforme |
+| 214 | nessuno | pagina | nessuna | nessuna | conforme |
+| 215 | nessuno | pagina | nessuna | nessuna | conforme |
+| 216 | nessuno | pagina | nessuna | nessuna | conforme |
+| 217 | nessuno | pagina | nessuna | nessuna | conforme |
+| 218 | nessuno | pagina | nessuna | nessuna | conforme |
+| 219 | nessuno | pagina | nessuna | nessuna | conforme |
+| 220 | nessuno | pagina | nessuna | nessuna | conforme |
+| 221 | nessuno | pagina | nessuna | nessuna | conforme |
+| 222 | nessuno | pagina | nessuna | nessuna | conforme |
+| 223 | nessuno | pagina | nessuna | nessuna | conforme |
+| 224 | nessuno | pagina | nessuna | nessuna | conforme |
+| 225 | nessuno | pagina | nessuna | nessuna | conforme |
+| 226 | nessuno | pagina | nessuna | nessuna | conforme |
+| 227 | nessuno | pagina | nessuna | nessuna | conforme |
+| 228 | nessuno | pagina | nessuna | nessuna | conforme |
+| 229 | nessuno | pagina | nessuna | nessuna | conforme |
+| 230 | nessuno | pagina | nessuna | nessuna | conforme |
+| 231 | nessuno | pagina | nessuna | nessuna | conforme |
+<!-- page-audit-registry:end -->
+
+## Correzioni e riesecuzioni
+
+- Baseline automatica eseguita su 231 pagine.
+- Corretto il paginator per impedire titoli orfani e bilanciare frammenti di lista continuati.
+- Rieseguito l'audit integrale dopo ogni correzione.
+- Tavole-contatto ispezionate: 12/12.`n- Verificate le diagnostiche DOM di tutte le 231 pagine.
+- Riesecuzione finale: conforme.`n- Esito finale: zero blocker e zero problemi significativi aperti.

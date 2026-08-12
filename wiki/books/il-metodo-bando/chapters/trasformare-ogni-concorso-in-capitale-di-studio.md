@@ -21,9 +21,9 @@ last_compiled_from: ["sources/capitale-studio-riutilizzabile-metodo-bando.md", "
 last_humanizer_revision: 2026-07-24
 ---
 
-# Capitolo 26 - Trasformare ogni concorso in capitale di studio
+# R2 - Trasformare ogni concorso in capitale di studio
 
-> Modulo ricettario **R2** — Capitale di studio riutilizzabile. Collega Cap. 25, Cap. 22 e moduli profilo.
+> Capitale di studio riutilizzabile. Collega R1, Cap. 22 e moduli profilo.
 
 Il vantaggio di un concorso resta disponibile quando conservi e riordini ciò che hai imparato.
 
@@ -63,7 +63,9 @@ Se manca una di queste cinque parti, il materiale resta fragile. Potresti aver s
 
 ![Figura 26.1 - Mappa BANDO del capitale di studio](../assets/chapter-26/01-mappa-bando-capitale.png)
 
-## Che cos'è il capitale di studio
+*Figura 26.1 - Mappa BANDO del capitale di studio*
+
+## Che cos’è il capitale di studio
 
 Il capitale di studio è il patrimonio ordinato che puoi portare da un concorso al successivo.
 
@@ -94,6 +96,8 @@ Il capitale è selettivo. Se conservi tutto, non hai capitale: hai deposito.
 
 ![Figura 26.2 - Deposito o capitale](../assets/chapter-26/02-deposito-vs-capitale.png)
 
+*Figura 26.2 - Deposito o capitale*
+
 ## Materiale vivo, in attesa e da archiviare
 
 Prima di riordinare cartelle, classifica ogni materiale in tre stati.
@@ -104,7 +108,7 @@ Prima di riordinare cartelle, classifica ogni materiale in tre stati.
 | In attesa | può servire in un concorso futuro vicino | modulo tributario non ancora attivato, Bando Decoder parcheggiato | archivia con etichetta chiara |
 | Da archiviare | superato, duplicato o non verificato | PDF mai letti, appunti copiati, riassunti passivi | elimina o sposta fuori dal piano |
 
-Il capitale cresce quando aumenti il materiale vivo e riduci deposito e attesa confusa. Un file "in attesa" senza data, bando o modulo associato diventa presto rumore.
+Il capitale cresce quando aumenti il materiale vivo e riduci deposito e attesa confusa. Un file “in attesa” senza data, bando o modulo associato diventa presto rumore.
 
 ## Inventario del capitale di studio
 
@@ -150,7 +154,9 @@ Studiare meglio significa anche buttare via meglio.
 
 ![Figura 26.3 - Regola 3C più taglio](../assets/chapter-26/03-regola-3c.png)
 
-## L'archivio minimo in cinque cartelle
+*Figura 26.3 - Regola 3C più taglio*
+
+## L’archivio minimo in cinque cartelle
 
 Puoi usare quaderni, cartelline, cloud, appunti digitali o un raccoglitore. Lo strumento non conta quanto la struttura.
 
@@ -174,6 +180,8 @@ Queste tre etichette evitano un errore frequente: trattare tutto come se fosse r
 
 ![Figura 26.4 - Archivio minimo in cinque cartelle](../assets/chapter-26/04-archivio-minimo-cinque-cartelle.png)
 
+*Figura 26.4 - Archivio minimo in cinque cartelle*
+
 ## Cosa conservare dopo una prova
 
 Subito dopo una prova, il candidato tende a fare due cose sbagliate: dimenticare tutto oppure giudicarsi solo dal risultato.
@@ -196,7 +204,7 @@ Una prova sbagliata ma analizzata bene può evitare due mesi di errori nel conco
 
 ## Scheda workbook: dopo concorso
 
-Compila entro 48 ore dalla prova, anche prima di conoscere l'esito.
+Compila entro 48 ore dalla prova, anche prima di conoscere l’esito.
 
 | Sezione | Campo | Risposta |
 |---|---|---|
@@ -248,6 +256,8 @@ Non aspettare settimane. Dopo qualche giorno la memoria della prova diventa meno
 
 ![Figura 26.5 - Protocollo dei 30 minuti](../assets/chapter-26/05-protocollo-trenta-minuti.png)
 
+*Figura 26.5 - Protocollo dei 30 minuti*
+
 ## Capitale comune e moduli di profilo
 
 Il Metodo BANDO non promette che tutti i concorsi siano uguali.
@@ -284,6 +294,8 @@ Usa questa regola:
 Il capitale ti fa partire avanti, ma non ti autorizza a smettere di leggere il bando.
 
 ![Figura 26.6 - Core, moduli e trasferibilità](../assets/chapter-26/06-core-moduli-trasferibilita.png)
+
+*Figura 26.6 - Core, moduli e trasferibilità*
 
 ## Da sapere in 5 righe
 
@@ -326,6 +338,8 @@ Non ha già vinto. Ma non riparte da zero.
 
 ![Figura 26.7 - Caso Elena: non ripartire da zero](../assets/chapter-26/07-caso-elena-capitale-riuso.png)
 
+*Figura 26.7 - Caso Elena: non ripartire da zero*
+
 ## Domanda da commissario
 
 **Domanda:** perché il capitale di studio è diverso da un semplice archivio di materiali?
@@ -340,7 +354,7 @@ No. Il capitale ti aiuta a partire avanti, ma ogni bando ha requisiti, prove, sc
 
 ## Mini-esercizio
 
-Scegli l'ultimo concorso che hai preparato e compila.
+Scegli l’ultimo concorso che hai preparato e compila.
 
 | Materiale | Core / Modulo / Solo bando | Lo riuso? |
 |---|---|---|
@@ -370,9 +384,9 @@ Se non trovi nulla da riusare, probabilmente hai studiato senza lasciare tracce 
 
 ## Errore tipico
 
-L'errore tipico è conservare per paura.
+L’errore tipico è conservare per paura.
 
-Il candidato tiene tutto perché pensa: "potrebbe servire". Dopo tre concorsi ha cartelle piene, appunti doppi, PDF superati, corsi iniziati e nessuna mappa affidabile.
+Il candidato tiene tutto perché pensa: “potrebbe servire”. Dopo tre concorsi ha cartelle piene, appunti doppi, PDF superati, corsi iniziati e nessuna mappa affidabile.
 
 Correzione:
 
@@ -401,7 +415,7 @@ Alla fine di ogni concorso, anche prima di sapere il risultato, chiudi il ciclo.
 
 Questa pagina è il ponte tra un concorso e il successivo.
 
-La differenza tra accumulare e crescere è tutta qui: trasformare l'esperienza in metodo.
+La differenza tra accumulare e crescere è tutta qui: trasformare l’esperienza in metodo.
 
 ## Riferimenti consolidati
 
@@ -419,9 +433,3 @@ La differenza tra accumulare e crescere è tutta qui: trasformare l'esperienza i
 - [[topics/nucleo-comune-concorsi-pubblici]]
 - [[topics/moduli-integrativi]]
 - [[topics/diario-errori]]
-
-## Note di review
-
-- La struttura madre originaria non prevedeva il Capitolo 26. Questo capitolo è un'estensione editoriale: in revisione decidere se mantenerlo numerato, unirlo al Capitolo 25 o trasformarlo in epilogo operativo.
-- Schede workbook "Dopo concorso", inventario capitale e matrice riuso/taglio inserite nel capitolo; in impaginazione valutare estrazione come PDF compilabile autonomo.
-- Coordinare il lessico con front matter e servizi digitali di Capitale Personale, evitando che il capitolo sembri dipendere dal digitale.

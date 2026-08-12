@@ -2,7 +2,7 @@
 id: m-fl03-camere-commercio
 type: specialist_module
 title: "M-FL03 - Camere di Commercio"
-status: drafting
+status: reviewed_draft
 domain: "concorsi pubblici italiani"
 topics: ["moduli specialistici", "funzioni-locali", "metodo bando", "camere commercio", "registro imprese"]
 entities: ["Metodo BANDO", "Capitale Personale", "Camera di commercio", "Unioncamere"]
@@ -11,17 +11,17 @@ book_refs: ["il-metodo-bando", "moduli-specialistici", "vol-02-enti-locali-poliz
 confidence: 0.84
 updated_at: 2026-07-23T00:30:00+02:00
 created_at: 2026-06-27T19:56:28+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["specialist-module", "module-family-funzioni-locali", "module-code-m-fl03", "drafting"]
 book_id: m-fl03-camere-commercio
 module_code: M-FL03
 module_family: funzioni-locali
 module_family_title: "Funzioni Locali"
-module_status: professional-draft-in-progress
+module_status: module-review-complete
 roadmap_phase: "3"
 companion_to: il-metodo-bando
-draft_stage: professional-draft-in-progress
+draft_stage: module-review-complete
 last_compiled_from: ["wiki/books/vol-02-enti-locali-polizia-locale/front-matter/06-indice.md", "wiki/sources/ordinamento-camere-commercio-legge-580-1993-dlgs-219-2016.md", "wiki/sources/registro-imprese-rea-pubblicita-legale-dpr-581-1995.md"]
 ---
 

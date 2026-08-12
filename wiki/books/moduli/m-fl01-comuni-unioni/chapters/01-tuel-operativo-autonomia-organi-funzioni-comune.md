@@ -11,7 +11,7 @@ book_refs: ["m-fl01-comuni-unioni", "vol-02-enti-locali-polizia-locale", "il-met
 confidence: 0.86
 created_at: 2026-07-09T19:35:00+02:00
 updated_at: 2026-07-30T11:30:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "module-code-m-fl01", "professional-draft", "tuel"]
 book_id: m-fl01-comuni-unioni
@@ -23,41 +23,7 @@ module_family: funzioni-locali
 companion_to: il-metodo-bando
 last_compiled_from: ["wiki/books/moduli/m-fl01-comuni-unioni/index.md", "wiki/books/moduli/m-fl01-comuni-unioni/planning/02-matrice-copertura-didattica.md", "wiki/sources/d-lgs-18-agosto-2000-n-267-enti-locali.md", "wiki/sources/bandi-inpa-vol-02-campione-2026.md", "wiki/topics/enti-locali.md", "wiki/entities/comune.md"]
 ---
-
-# TUEL operativo: autonomia, organi e funzioni del Comune
-
-## Specifica struttura madre
-
-### Obiettivo
-Costruire la mappa di base dell'ente comunale: autonomia, organi, apparato gestionale, funzioni, Unioni di Comuni e scelta dell'atto corretto.
-
-### Nuclei
-- TUEL come fonte cardine dell'ordinamento degli enti locali.
-- Comune come ente locale territoriale, non come semplice ufficio.
-- Autonomia, statuto, regolamenti e fonti interne.
-- Consiglio, Giunta e Sindaco: funzioni diverse, atti diversi, responsabilità diverse.
-- Segretario, dirigenti e responsabili di servizio.
-- Separazione tra indirizzo politico e gestione amministrativa.
-- Unioni di Comuni e gestione associata di funzioni e servizi.
-
-### Output operativo
-Tabella organo-competenza-atto, risposta orale ordinata, caso guidato su regolamento/servizio, diario errori su competenze e atti.
-
-### Riferimenti consolidati
-- [[sources/d-lgs-18-agosto-2000-n-267-enti-locali]]
-- [[sources/vol-02-dossier-redazionale-enti-locali-polizia-locale]]
-- [[sources/bandi-inpa-vol-02-campione-2026]]
-- [[topics/enti-locali]]
-- [[entities/comune]]
-
-## Scheda di lavoro
-Questo capitolo apre il modulo M-FL01. La sua funzione non è esaurire il TUEL, ma dare al candidato la grammatica operativa per tutti i capitoli successivi: fonti locali, organizzazione, atti, procedimento, servizi, contabilità, tributi, procurement e laboratorio pratico.
-
-Il principio di studio è semplice: ogni nozione sul Comune deve diventare una scelta in prova. Chi decide? Quale ufficio istruisce? Quale atto si adotta? Quale fonte si consulta? Quale errore di competenza bisogna evitare?
-
-## Testo editoriale
-
-### Apertura editoriale
+## Apertura editoriale
 Il Testo unico degli enti locali non va studiato come un elenco di articoli da memorizzare. Nei concorsi comunali serve a rispondere a una domanda più concreta: dentro un Comune, chi decide, chi gestisce, quale atto si usa e quale ufficio porta avanti il procedimento.
 
 La stessa domanda può comparire in forme diverse. Nel quiz diventa distinzione tra Consiglio, Giunta e Sindaco. Nella risposta aperta diventa una traccia sulla separazione tra indirizzo politico e gestione amministrativa. Nel caso pratico diventa scelta dell'atto: deliberazione, determinazione, decreto, ordinanza, parere, visto, avviso o provvedimento. All'orale può partire da una formula apparentemente semplice: "Mi parli degli organi del Comune".
@@ -66,7 +32,7 @@ Una risposta puramente definitoria, in quel caso, resta debole. Il commissario v
 
 La regola di lavoro del capitolo discende da quel principio: ogni nozione sul TUEL finisce in una tabella organo-competenza-atto oppure in una scelta motivata dentro un caso.
 
-### Obiettivo del capitolo
+## Obiettivo del capitolo
 Al termine del capitolo devi saper fare sei operazioni:
 
 1. spiegare che cosa disciplina il TUEL e perché è centrale nei concorsi comunali;
@@ -78,7 +44,7 @@ Al termine del capitolo devi saper fare sei operazioni:
 
 L'obiettivo non è memorizzare l'intero testo unico. È usare il TUEL come griglia di orientamento per lavorare su bandi, prove e mansioni locali.
 
-### Come usare questo capitolo
+## Come usare questo capitolo
 Questo è il primo capitolo del modulo M-FL01. Va letto prima dei capitoli su statuti, regolamenti, atti, procedimento, servizi digitali, demografici, welfare locale e contabilità comunale.
 
 Il percorso è progressivo:
@@ -90,7 +56,7 @@ Il percorso è progressivo:
 
 Non leggere questo capitolo come teoria preliminare da superare in fretta. Se sbagli questa mappa, sbaglierai anche gli atti successivi. Una determinazione non è una deliberazione. Il Sindaco non svolge sempre la stessa funzione. Il Consiglio non gestisce l'ufficio. Il responsabile di servizio non sostituisce l'organo politico. Queste distinzioni valgono più di molte definizioni isolate.
 
-### Mappa BANDO del capitolo
+## Mappa BANDO del capitolo
 
 | Fase | Domanda operativa | Output atteso |
 | --- | --- | --- |
@@ -102,7 +68,7 @@ Non leggere questo capitolo come teoria preliminare da superare in fretta. Se sb
 
 Il candidato deve arrivare a una risposta chiara: ogni parte utile del TUEL va collegata a un problema di concorso.
 
-### Bando Decoder applicato
+## Bando Decoder applicato
 Nei bandi comunali del campione 2026 raccolto per questo volume, le materie ricorrenti sono ordinamento comunale, atti, servizi demografici, contabilità, tributi, servizi al cittadino e prove teorico-pratiche. Il decoder trasforma quelle voci in lavoro concreto su questo capitolo.
 
 | Voce del bando | Che cosa attiva in questo capitolo | Output da preparare |
@@ -114,7 +80,7 @@ Nei bandi comunali del campione 2026 raccolto per questo volume, le materie rico
 
 Il bando va usato come prova di frequenza, non come fonte normativa: prima dell'esame verifica sempre programma, prove e allegati del singolo bando.
 
-### Che cosa disciplina il TUEL
+## Che cosa disciplina il TUEL
 Il D.Lgs. 18 agosto 2000, n. 267 contiene il Testo unico delle leggi sull'ordinamento degli enti locali. Per M-FL01 interessa soprattutto per quattro aree.
 
 La prima area è istituzionale: individua enti, autonomia, statuti, regolamenti, soggetti e organi.
@@ -127,7 +93,7 @@ La quarta area è finanziaria e contabile: disciplina programmazione, bilanci, g
 
 Nei bandi comunali la formula può cambiare: "ordinamento degli enti locali", "TUEL", "organi del Comune", "atti degli enti locali", "funzioni del Comune", "ordinamento finanziario e contabile degli enti locali". La sostanza è la stessa: il candidato deve capire come funziona l'ente.
 
-### Comune: ente, comunità, territorio
+## Comune: ente, comunità, territorio
 Il Comune è il punto di ingresso del modulo M-FL01. Non è solo il municipio, non è solo l'ufficio anagrafe, non è solo il Sindaco. È un ente locale territoriale che opera per la comunità stanziata su un territorio.
 
 Per il concorso questa definizione ha tre conseguenze.
@@ -140,7 +106,7 @@ La terza: il Comune produce atti. Ogni decisione rilevante deve prendere una for
 
 Una buona risposta sul Comune non si ferma alla natura dell'ente. Deve mostrare il collegamento tra comunità, territorio, funzioni, organi e atti.
 
-### Unioni di Comuni e gestione associata
+## Unioni di Comuni e gestione associata
 Molti bandi M-FL01 non riguardano solo il Comune singolo. Possono provenire da Unioni di Comuni, convenzioni, gestioni associate o enti che svolgono servizi per più Comuni.
 
 L'Unione di Comuni va letta come forma organizzativa per l'esercizio associato di funzioni e servizi. Non occorre fermarsi all'etichetta: il candidato deve comprendere che il servizio può essere svolto in un contesto diverso dal singolo Comune.
@@ -155,7 +121,7 @@ Se la risposta è la seconda, la materia non cambia, ma cambia l'attenzione. Dev
 
 La griglia di lavoro resta la stessa del Comune singolo: gli organi politici dell'Unione tengono indirizzo e atti fondamentali, mentre gli uffici associati e i loro responsabili adottano gli atti di gestione per tutti i Comuni aderenti. Quando il caso riguarda un servizio in forma associata, la domanda resta la stessa (chi decide, chi gestisce, quale atto si usa), ma cambiano l'ente competente e le fonti interne da consultare.
 
-### Statuto e regolamenti: la fonte interna dell'ente
+## Statuto e regolamenti: la fonte interna dell'ente
 Il TUEL non esaurisce l'ordinamento comunale. Dentro il Comune operano anche statuto e regolamenti.
 
 Lo statuto è la fonte fondamentale dell'autonomia locale. Definisce l'assetto dell'ente nei limiti della legge: organizzazione, forme di partecipazione, rapporti tra organi, principi di funzionamento, decentramento e altri profili previsti dall'ordinamento.
@@ -172,14 +138,14 @@ Per il candidato il criterio è questo:
 
 Nei concorsi non sempre il bando chiede di conoscere uno specifico regolamento locale. Tuttavia, nelle prove pratiche, l'idea di regolamento serve a ragionare correttamente: prima si individua la fonte generale, poi la fonte interna, poi l'ufficio competente.
 
-### Gli organi del Comune
+## Gli organi del Comune
 Gli organi di governo del Comune sono Consiglio, Giunta e Sindaco. Sono tutti organi politici, ma non svolgono la stessa funzione.
 
 Il Consiglio è l'organo dell'indirizzo e del controllo politico-amministrativo. La Giunta collabora con il Sindaco nel governo del Comune e opera mediante deliberazioni collegiali. Il Sindaco rappresenta l'ente, è responsabile dell'amministrazione comunale e in alcuni casi opera quale ufficiale del Governo.
 
 Le tre sezioni che seguono li prendono uno per uno, perché questa tripartizione è la base di molte domande. La risposta corretta non dice solo "Consiglio, Giunta e Sindaco": aggiunge che il sistema comunale distingue indirizzo politico, governo dell'ente, rappresentanza, funzioni statali e gestione amministrativa.
 
-### Consiglio comunale: indirizzo e controllo
+## Consiglio comunale: indirizzo e controllo
 Il Consiglio comunale è il luogo della rappresentanza politica dell'ente e degli atti fondamentali.
 
 Nei concorsi, il Consiglio va studiato in tre modi.
@@ -194,7 +160,7 @@ In prova, una risposta può essere costruita così:
 
 > Il Consiglio non è l'organo della gestione quotidiana. È l'organo di indirizzo e controllo politico-amministrativo e adotta gli atti fondamentali riservati dalla legge. Per questo non va confuso con la Giunta, che collabora con il Sindaco nel governo dell'ente, né con i dirigenti e responsabili, che adottano gli atti di gestione.
 
-### Giunta comunale: governo e attuazione dell'indirizzo
+## Giunta comunale: governo e attuazione dell'indirizzo
 La Giunta è un organo collegiale. Collabora con il Sindaco nel governo del Comune e opera attraverso deliberazioni.
 
 Il candidato deve evitare due estremi. Il primo è trattare la Giunta come se fosse il Consiglio in formato ridotto. Il secondo è considerarla un ufficio amministrativo. Non è nessuna delle due cose.
@@ -210,7 +176,7 @@ Il punto più delicato è la competenza residuale. La Giunta non può invadere c
 
 Questa sequenza aiuta a non scegliere l'organo sbagliato.
 
-### Sindaco: rappresentanza, amministrazione e funzioni statali
+## Sindaco: rappresentanza, amministrazione e funzioni statali
 Il Sindaco è l'organo più visibile del Comune, ma proprio per questo viene spesso studiato male.
 
 Nel concorso bisogna distinguere almeno tre piani.
@@ -223,7 +189,7 @@ Il terzo è il Sindaco quale ufficiale del Governo. In questa veste non agisce s
 
 L'affermazione "il Sindaco decide" resta incompleta se non chiarisce in quale veste agisce: rappresentante dell'ente, autorità locale, ufficiale del Governo, organo di nomina, soggetto che emana un'ordinanza o responsabile politico dell'amministrazione.
 
-### Segretario comunale, dirigenti e responsabili di servizio
+## Segretario comunale, dirigenti e responsabili di servizio
 Il TUEL non si ferma agli organi politici. Per i concorsi comunali conta molto l'apparato gestionale.
 
 Il Segretario comunale svolge funzioni di collaborazione e assistenza giuridico-amministrativa nei confronti degli organi dell'ente. Per il candidato significa una cosa precisa: il Segretario non è un assessore, non è un consigliere, non è un semplice funzionario. È una figura di garanzia e supporto giuridico-amministrativo, con funzioni che possono includere verbalizzazione, rogito, assistenza agli organi e coordinamento secondo la disciplina applicabile.
@@ -240,7 +206,7 @@ Questa è la distinzione più importante del capitolo:
 
 Molti errori nascono perché il candidato assegna alla Giunta un atto di gestione o al responsabile un atto di indirizzo. La tabella deve diventare automatica.
 
-### Organo, competenza, atto: la tabella che fa punti
+## Organo, competenza, atto: la tabella che fa punti
 Nei concorsi M-FL01 conviene costruire sempre una tabella organo-competenza-atto. Vale più di un riassunto.
 
 | Soggetto | Competenza da riconoscere | Atti o output da associare |
@@ -260,7 +226,7 @@ Questa tabella va adattata al bando: la mappa non cambia, cambia la postazione d
 | Tecnico di interfaccia | Collega le competenze a edilizia, territorio, patrimonio e lavori. | Nota istruttoria con organo e atto corretti. |
 | Servizi locali e demografici | Collega sportello, demografici, welfare, istruttorie e graduatorie. | Caso di sportello con atto corretto. |
 
-### Separazione tra politica e gestione
+## Separazione tra politica e gestione
 La separazione tra politica e gestione è uno dei nuclei più richiesti nei concorsi locali.
 
 La politica definisce indirizzi, programmi, scelte fondamentali e controllo. La gestione traduce quegli indirizzi in procedimenti, provvedimenti, atti amministrativi, impegni, autorizzazioni, controlli e responsabilità operative.
@@ -279,7 +245,7 @@ La domanda da concorso può essere formulata così: "Individui l'organo competen
 
 Solo dopo cerchi la fonte puntuale.
 
-### Come rispondere all'orale
+## Come rispondere all'orale
 All'orale la domanda "Mi parli del Comune nel TUEL" va gestita con ordine. Una risposta utile può seguire cinque passaggi.
 
 Primo: definire il Comune come ente locale territoriale dotato di autonomia e collegato a comunità e territorio.
@@ -294,7 +260,7 @@ Quinto: chiudere con la distinzione tra indirizzo politico e gestione amministra
 
 Gli articoli servono, ma il commissario valuta anche la capacità di orientamento.
 
-### Caso guidato
+## Caso guidato
 Il Comune deve approvare un nuovo regolamento per disciplinare l'accesso a un servizio comunale. Dopo l'approvazione del regolamento, l'ufficio dovrà pubblicare un avviso e gestire le domande dei cittadini.
 
 Il candidato deve distinguere i piani.
@@ -311,31 +277,31 @@ La risposta corretta non si limita a dire "serve una delibera". Deve ricostruire
 
 Così il capitolo si usa nelle prove pratiche.
 
-### Da sapere in 5 righe
+## Da sapere in 5 righe
 1. Il TUEL è la fonte centrale per ordinamento, organi, organizzazione e finanza degli enti locali.
 2. Il Comune va studiato come ente locale territoriale con autonomia, statuto, regolamenti, organi e struttura gestionale.
 3. Gli organi di governo comunali sono Consiglio, Giunta e Sindaco, ma hanno funzioni diverse.
 4. Dirigenti e responsabili di servizio adottano gli atti di gestione; non vanno confusi con gli organi politici.
 5. Nei concorsi il TUEL deve diventare output: tabella organo-competenza-atto, caso pratico, risposta orale e diario errori.
 
-### Domanda da commissario
+## Domanda da commissario
 Qual è la differenza tra indirizzo politico e gestione amministrativa nel Comune?
 
 Una risposta solida parte dalla distinzione tra organi politici e apparato gestionale. Gli organi politici definiscono indirizzi, programmi, scelte fondamentali e controllo secondo le competenze attribuite dal TUEL, dallo statuto e dai regolamenti. La gestione amministrativa spetta invece ai dirigenti o ai responsabili di servizio, che adottano gli atti e i provvedimenti necessari a realizzare concretamente l'attività dell'ente. La distinzione serve a individuare l'organo competente e a non confondere deliberazioni, determinazioni, ordinanze e altri atti.
 
-### Domanda-trappola
+## Domanda-trappola
 Se un atto riguarda un servizio comunale, deve essere sempre adottato dalla Giunta?
 
 No. Il fatto che un atto riguardi un servizio comunale non basta per attribuirlo alla Giunta. Bisogna capire se l'atto è fondamentale, di governo, di indirizzo, di gestione, di rappresentanza o collegato a una funzione specifica del Sindaco. Molti atti relativi ai servizi sono atti gestionali e spettano al dirigente o al responsabile di servizio. La Giunta interviene solo quando la competenza rientra nel suo ambito.
 
-### Errore tipico
+## Errore tipico
 L'errore più frequente è imparare l'elenco degli organi senza collegarlo agli atti.
 
 Il candidato sa dire che esistono Consiglio, Giunta e Sindaco, ma poi non sa chi approva un regolamento, chi adotta una determinazione, chi firma un'ordinanza o chi gestisce un procedimento. Questo errore pesa molto nelle prove pratiche, perché porta a scegliere l'atto sbagliato.
 
 La correzione è costruire, per ogni argomento, una riga della tabella organo-competenza-atto.
 
-### Mini-esercizio
+## Mini-esercizio
 Compila la tabella usando un bando comunale reale o simulato.
 
 | Situazione | Organo o ufficio da verificare | Atto probabile | Fonte da controllare |
@@ -349,7 +315,7 @@ Compila la tabella usando un bando comunale reale o simulato.
 
 Dopo la compilazione, controlla se hai attribuito troppi atti alla Giunta o al Sindaco. Se accade, rivedi la distinzione tra indirizzo e gestione.
 
-### Diario errori del capitolo
+## Diario errori del capitolo
 
 | Errore | Come si manifesta | Correzione |
 | --- | --- | --- |
@@ -359,7 +325,7 @@ Dopo la compilazione, controlla se hai attribuito troppi atti alla Giunta o al S
 | Dimenticare statuto e regolamenti | Rispondo solo con il TUEL. | Cerco la fonte interna applicabile. |
 | Ignorare l'Unione di Comuni | Studio come se il servizio fosse sempre del Comune singolo. | Verifico ente competente, statuto dell'Unione e regolamenti. |
 
-### Checklist operativa finale
+## Checklist operativa finale
 Prima di passare al capitolo successivo, verifica di saper rispondere a queste domande:
 
 - so spiegare che cosa disciplina il TUEL nei concorsi comunali?
@@ -374,20 +340,12 @@ Prima di passare al capitolo successivo, verifica di saper rispondere a queste d
 
 Se una risposta resta incerta, non passare subito ai servizi o alla contabilità. Torna alla tabella e correggi il diario errori.
 
-### Riferimenti consolidati
-- [[sources/d-lgs-18-agosto-2000-n-267-enti-locali|D.Lgs. 18 agosto 2000, n. 267 - Testo unico enti locali]]
-- [[sources/vol-02-dossier-redazionale-enti-locali-polizia-locale|VOL-02 - dossier redazionale Enti locali e Polizia locale]]
-- [[sources/bandi-inpa-vol-02-campione-2026|Campione bandi inPA 2026 per VOL-02]]
-- [[sources/servizi-pubblici-locali-d-lgs-201-2022|D.Lgs. 23 dicembre 2022, n. 201 - servizi pubblici locali]]
-- [[topics/enti-locali|Enti locali]]
-- [[entities/comune|Comune]]
-- [[topics/metodo-bando|Metodo BANDO]]
-- [[sources/struttura-madre-il-metodo-bando|Struttura madre del Metodo BANDO]]
-
-### Note di review
-- Prima della pubblicazione finale verificare su Normattiva il testo vigente delle citazioni puntuali del TUEL, in particolare per soglie demografiche, quorum, competenze tassative e formule testuali.
-- Il capitolo non inserisce soglie numeriche o dettagli elettorali per evitare dati da aggiornare senza verifica dedicata.
-- Servono bandi aggiuntivi di Comuni medio-piccoli e Unioni di Comuni per calibrare esempi e frequenza delle prove pratiche.
-- Il box Bando Decoder applicato deriva dal campione consolidato in `sources/bandi-inpa-vol-02-campione-2026`: prima della pubblicazione verificare programmi, prove e allegati dai PDF dei singoli bandi (Sona, Chivasso, Chiavari, Taceno).
-- La disciplina di dettaglio degli organi dell'Unione di Comuni va verificata sul testo vigente del TUEL prima di inserire riferimenti puntuali.
-- Nei capitoli successivi andranno collegati statuti, regolamenti, atti e contabilità locale con esempi più specifici.
+## Riferimenti normativi e professionali essenziali
+- D.Lgs. 18 agosto 2000, n. 267 - Testo unico enti locali
+- VOL-02 - dossier redazionale Enti locali e Polizia locale
+- Campione bandi inPA 2026 per VOL-02
+- D.Lgs. 23 dicembre 2022, n. 201 - servizi pubblici locali
+- Enti locali
+- Comune
+- Metodo BANDO
+- Struttura madre del Metodo BANDO

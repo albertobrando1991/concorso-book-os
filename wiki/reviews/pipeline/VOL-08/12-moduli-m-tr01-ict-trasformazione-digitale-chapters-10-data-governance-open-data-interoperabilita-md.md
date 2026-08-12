@@ -3,8 +3,8 @@
 ## 1. Sintesi editoriale
 - Genere editoriale: capitolo di manuale specialistico/workbook per concorsi pubblici.
 - Pubblico target: candidati a profili ICT e Data/AI della pubblica amministrazione.
-- Perimetro di questa revisione: capitolo 10 di M-TR01, con confronto con matrice di copertura, indice del modulo, capitoli 4, 6 e 9, nucleo comune del VOL-01 e fonti consolidate.
-- Stato generale in una frase: capitolo didatticamente autonomo e ben strutturato; una promessa su trasparenza e accesso era incompleta ed è stata risolta, mentre restano interventi trasversali e verifiche specialistiche non bloccanti.
+- Perimetro di questa revisione: retrofit Format 2 dell'11 agosto 2026 del capitolo 10 di M-TR01, con confronto con matrice di copertura, indice del modulo, capitoli 4, 6 e 9, nucleo comune del VOL-01 e fonti consolidate.
+- Stato generale in una frase: capitolo didatticamente autonomo con sette nuclei Format 2 (5.389 parole, sei quiz e un caso); restano interventi trasversali e verifiche specialistiche non bloccanti.
 
 ## 2. Punti applicati della checklist
 1. Indice: applicato; l'indice del modulo è ancora allo stato di scaffold (E04).

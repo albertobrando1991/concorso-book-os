@@ -281,3 +281,120 @@ Budget orientativo: 4.500-4.900 parole, tabelle, schemi, caso ed esercizi inclus
 - cybersecurity, IAM, dati e procurement restano nei capitoli dedicati;
 - esempi e casi applicano concetti già spiegati;
 - fonti tecniche mancanti e review specialistiche restano aperte finché non eseguite.
+
+## Addendum retrofit Format 2 — 2026-08-10
+
+Questo addendum sostituisce, per il nuovo ciclo degli step 08-12, le valutazioni legacy sullo stato del capitolo. Il testo destinato al lettore esiste già: contiene circa 3.545 parole e costituisce la base da conservare. Lo step 09 dovrà riorganizzarlo nel Format 2 e colmare i delta misurabili, non riscriverlo da zero.
+
+### Stato reale e criterio di intervento
+
+- Il capitolo sviluppa già modelli cloud e responsabilità, virtualizzazione e container, migrazione Cloud PA, DevOps e CI/CD, osservabilità, backup, RPO/RTO, disaster recovery e continuità operativa.
+- Sono presenti Mappa BANDO, confronto IaaS/PaaS/SaaS, tabella VM-container, caso comunale, laboratorio di migrazione, domanda da commissario, domanda-trappola, errore tipico, sette esercizi/quiz e checklist.
+- La source note `sources/cloud-virtualizzazione-container-devops-continuita-fonti-primarie` consolida riferimenti NIST, OCI, Kubernetes, OpenTelemetry, ACN e continuità; disciplina, catalogo e terminologia Cloud PA restano da ricontrollare al text freeze.
+- Il retrofit deve introdurre sei Nucleo ID stabili, almeno 600 parole per nucleo, una verifica dopo 5-7 nuclei e almeno sei quiz commentati.
+- La riga `Cloud e DevOps` della matrice resta `completo` sul piano aggregato, ma lo step 10 dovrà dimostrare la copertura atomica dei sei nuclei Format 2.
+
+### Nuclei Format 2 assegnati
+
+| Nucleo ID | Titolo operativo | Stato attuale | Sviluppo previsto allo step 09 | Confini principali |
+| --- | --- | --- | --- | --- |
+| `N-TR01-07-01` | Modelli cloud e responsabilità condivisa | parziale-avanzato | Consolidare caratteristiche NIST, scalabilità/elasticità, IaaS/PaaS/SaaS, serverless, modelli di distribuzione, regioni, zone, tenancy e matrice delle responsabilità. | Reti e disponibilità infrastrutturale al cap. 5; SLA contrattuali al cap. 12. |
+| `N-TR01-07-02` | Virtualizzazione, container e orchestrazione | parziale-avanzato | Collegare hypervisor, VM, immagini, snapshot, container, registry, runtime, persistenza, stato desiderato e riconciliazione a criteri di scelta e domini di guasto. | Sistemi operativi al cap. 2; hardening e supply chain al cap. 8. |
+| `N-TR01-07-03` | Cloud PA e percorso di migrazione | parziale-avanzato | Integrare classificazione, qualificazione, PSN, assessment, strategie di migrazione, portabilità, reversibilità, exit strategy, cutover e rollback in una procedura verificabile. | Data governance al cap. 10; procurement e lock-in contrattuale al cap. 12. |
+| `N-TR01-07-04` | DevOps, CI/CD e Infrastructure as Code | parziale | Sviluppare cultura DevOps, pipeline, artefatti, continuous integration/delivery/deployment, IaC, promozione, tecniche di distribuzione, rollback ed evidenze. | Ciclo di vita e test al cap. 6; Secure SDLC e controlli di filiera al cap. 8. |
+| `N-TR01-07-05` | Operabilità, osservabilità e governo del consumo | parziale | Ampliare monitoraggio/osservabilità, metriche, log, trace, eventi, alert azionabili, SLI/SLO operativi, capacità, autoscaling e FinOps concettuale con un caso diagnostico. | Logging di sicurezza e incident response al cap. 9; SLA al cap. 12. |
+| `N-TR01-07-06` | Resilienza, backup e continuità operativa | parziale-avanzato | Coordinare alta disponibilità, domini di guasto, degradazione, snapshot/replica/backup, ripristino, RPO/RTO, DR e business continuity; assorbire caso, laboratorio e output concorsuali. | Disponibilità di base al cap. 5; rischio cyber al cap. 8; continuità contrattuale al cap. 12. |
+
+I sei nuclei devono superare autonomamente il test dello studente: definizione, funzione, inquadramento, elementi, distinzioni, conseguenze, esempio e verifica. Nessun nucleo è dichiarato completo in Format 2 prima del controllo dello step 10.
+
+### Struttura H1/H2/H3 prevista
+
+# Cloud PA, virtualizzazione, container e DevOps
+
+## Obiettivo, confine con il VOL-01 e Mappa BANDO
+
+## N-TR01-07-01 · Modelli cloud e responsabilità condivisa
+
+### Caratteristiche, modelli di servizio e distribuzione
+
+### Responsabilità, regioni, zone e tenancy
+
+## N-TR01-07-02 · Virtualizzazione, container e orchestrazione
+
+### Hypervisor, VM, immagini e snapshot
+
+### Container, persistenza, stato desiderato e riconciliazione
+
+## N-TR01-07-03 · Cloud PA e percorso di migrazione
+
+### Classificazione, qualificazione e assessment
+
+### Strategie, reversibilità, cutover e rollback
+
+## N-TR01-07-04 · DevOps, CI/CD e Infrastructure as Code
+
+### Cultura, pipeline, artefatti e ambienti
+
+### IaC, distribuzione progressiva e rollback
+
+## N-TR01-07-05 · Operabilità, osservabilità e governo del consumo
+
+### Metriche, log, trace, eventi e alert
+
+### Capacità, autoscaling, SLI/SLO e costi
+
+## N-TR01-07-06 · Resilienza, backup e continuità operativa
+
+### Disponibilità, domini di guasto, copie e ripristino
+
+### RPO, RTO, disaster recovery e business continuity
+
+### Caso guidato, laboratorio e output concorsuali
+
+### Domanda da commissario, domanda-trappola ed errore tipico
+
+## ▣ Verifica
+
+### Tre o più esercizi applicativi
+
+### Sei o più quiz commentati
+
+## Checklist finale
+
+## Da sapere in 5 righe
+
+## Riferimenti professionali essenziali
+
+### Budget e prove previste
+
+- Corpo complessivo: **4.700-5.700 parole**, escluso frontmatter.
+- Densità: **600-900 parole per ciascun Nucleo ID**; eventuali scostamenti richiedono motivazione didattica.
+- Verifiche: **un unico blocco dopo i sei nuclei**, entro il limite di 5-7 nuclei consecutivi.
+- Quiz: **almeno sei**, con risposta corretta e commento sui distrattori o sull’errore tipico.
+- Esercizi: **almeno tre** — responsabilità cloud, strategia di migrazione e continuità/ripristino.
+- Casi: **almeno uno completo**, con servizio, dati, dipendenze, responsabilità, strategia, test, cutover, rollback e ripristino.
+- Output: confronto dei modelli, matrice VM-container, piano/checklist di migrazione, scenario di continuità e risposta orale motivata.
+
+### Fonti, topic, entity e rinvii da preservare
+
+- Conservare tutti i `source_refs` e i `last_compiled_from` attuali, inclusa la source note primaria su cloud, container, DevOps e continuità.
+- Usare `topics/open-data-interoperabilita-cloud-pa` e `topics/ict-digitale-cybersecurity-dati-concorsi-pa` come raccordi, non come sostituti delle fonti specialistiche.
+- Conservare le entity ACN, NIST, Kubernetes e OpenTelemetry soltanto nei punti sostenuti dalle fonti dichiarate.
+- Mantenere il rinvio preciso al VOL-01, capitolo 10, § 17, limitato ai prerequisiti su cloud e modelli di servizio.
+- Conservare i confini con i capp. 5-6, 8-10 e 12 fissati dal piano e dalla Bibbia del modulo.
+
+### Audit specialistici richiesti
+
+1. `chapter-lint` e controllo di densità didattica Format 2.
+2. Audit cloud architecture su modelli, responsabilità, migrazione, resilienza e trade-off.
+3. Audit platform engineering su virtualizzazione, container, orchestrazione, persistenza e domini di guasto.
+4. Audit DevOps/SRE su CI/CD, IaC, distribuzione, rollback, osservabilità, capacità e SLI/SLO.
+5. Audit backup/DR/BC su copie, replica, ripristino, RPO/RTO, failover, failback ed esercitazioni.
+6. Audit ACN/Cloud PA su classificazione, qualificazione, catalogo, PSN e terminologia vigente.
+7. Controllo dei confini con VOL-01 e con i capitoli 5-6 e 8-12.
+8. Citation guard su `source_refs`, `last_compiled_from`, riferimenti istituzionali e professionali.
+9. Revisione editoriale a 30 punti, test dello studente e controllo KDP su tabelle e stringhe tecniche.
+
+### Criterio di uscita aggiornato
+
+Lo step 09 è approvabile quando i sei Nucleo ID compaiono nel capitolo, ogni nucleo supera la soglia e il test dello studente, la verifica contiene almeno sei quiz commentati e tre esercizi, il caso cloud collega classificazione, dipendenze, responsabilità, migrazione, esercizio e ripristino e il corpo non dipende da materiali interni. Lo step 10 dovrà dimostrare la copertura reale nella matrice; gli step 11-12 completeranno Humanizer e revisione editoriale senza anticipare la conferma umana dello step 24.

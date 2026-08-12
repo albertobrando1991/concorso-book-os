@@ -2,23 +2,23 @@
 id: frontmatter-vol-02-indice
 type: front_matter
 title: "Indice"
-status: revised_draft
+status: complete
 domain: "concorsi pubblici italiani"
 topics: ["indice", "vol-02", "enti locali", "polizia locale", "camere commercio", "moduli specialistici"]
 entities: ["Metodo BANDO", "Comune", "Regione", "Polizia locale", "Camera di commercio"]
 source_refs: ["sources/vol-02-dossier-redazionale-enti-locali-polizia-locale.md", "sources/vol-02-fonti-ufficiali-scaricate-2026-07-09.md", "sources/bandi-inpa-vol-02-campione-2026.md", "sources/entrate-tributi-locali-patrimonio-riscossione-comunale.md", "sources/ccnl-area-funzioni-locali-2022-2024-aran.md", "sources/legge-177-2024-sicurezza-stradale-codice-strada.md", "sources/bandi-camerali-m-fl03-2026.md"]
 book_refs: ["vol-02-enti-locali-polizia-locale"]
 confidence: 0.9
-updated_at: 2026-07-18T19:58:04+02:00
+updated_at: 2026-08-09T11:45:00+02:00
 created_at: 2026-07-09T18:30:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["front-matter", "index", "vol-02"]
 book_id: vol-02-enti-locali-polizia-locale
 outline_section: "FM6"
 front_matter_layout: analytical-index
 index_detail: volume-and-module-chapters
-draft_stage: source-ready-detailed-outline
+draft_stage: final-editorial-review
 last_compiled_from: ["wiki/books/vol-02-enti-locali-polizia-locale/planning/00-piano-editoriale.md", "wiki/sources/bandi-inpa-vol-02-campione-2026.md", "wiki/books/moduli/m-fl01-comuni-unioni/chapters/05-procedimento-locale-protocollo-albo-urp-accesso.md", "wiki/books/moduli/m-fl01-comuni-unioni/chapters/06-servizi-digitali-comunali-cad-anpr-gestione-documentale.md", "wiki/books/moduli/m-fl01-comuni-unioni/chapters/07-servizi-demografici-elettorali.md", "wiki/books/moduli/m-fl01-comuni-unioni/chapters/08-welfare-locale-servizi-sociali-isee-minori-servizi-educativi.md", "wiki/books/moduli/m-fl01-comuni-unioni/chapters/09-programmazione-integrata-comunale-dup-bilancio-peg-piao-performance.md", "wiki/books/moduli/m-fl01-comuni-unioni/chapters/10-gestione-finanziaria-rendiconto-tesoreria-controlli.md", "wiki/books/moduli/m-fl01-comuni-unioni/chapters/11-entrate-tributi-locali-patrimonio-economato-riscossione.md", "wiki/books/moduli/m-fl01-comuni-unioni/chapters/12-procurement-operativo-ufficio-comunale.md"]
 ---
 

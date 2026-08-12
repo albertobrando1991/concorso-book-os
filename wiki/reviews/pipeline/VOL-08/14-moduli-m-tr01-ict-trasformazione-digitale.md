@@ -1,65 +1,35 @@
-# Report editoriale — Correzioni trasversali M-TR01
+# Registro correzioni — M-TR01 - ICT e trasformazione digitale
 
-## 1. Sintesi editoriale
-- Genere editoriale: manuale specialistico-workbook per concorsi pubblici.
-- Pubblico target: candidati a profili ICT, cyber, cloud/DevOps e data/AI nella PA.
-- Perimetro di questa revisione: applicazione e verifica delle correzioni registrate nello step 13.
-- Stato generale in una frase: corretti struttura, introduzione, indice, Bibbia e metadati; restano soltanto verifiche assegnate esplicitamente a review umana e preflight.
+## Esito dello step 14
 
-## 2. Punti applicati della checklist
-Applicati i punti 1-12, 14-21, 26, 28-30 e il gate di copertura didattica integrale. Il punto 27 resta non applicabile senza PDF. Non sono stati trasformati in obblighi i suggerimenti facoltativi dello step 13.
+La verifica delle correzioni obbligatorie del report step 13 non richiede ulteriori interventi sul testo dei capitoli, sulla matrice o sul manifest. E02 è già risolto dal commit `f532439`; E01 resta un debito programmato dello step 15, non una correzione da anticipare o da simulare nello step 14. I suggerimenti facoltativi non sono stati trattati come obbligatori.
 
-## 3. Tabella errori
+## Registro delle correzioni
+
+| ID | file modificato | correzione | evidenza | stato |
+|----|-----------------|------------|----------|-------|
+| E02 | `wiki/books/moduli/m-tr01-ict-trasformazione-digitale/index.md`; `wiki/books/moduli/m-tr01-ict-trasformazione-digitale/planning/03-bibbia-modulo.md`; report step 13 | Riallineati metadati e testo dello stato editoriale: `editorial-review` e `module-review`; review obbligatoria; step 13 in corso e step 15 non svolto. | Commit `f532439`; `npm run pipeline -- status VOL-08 --json` del 2026-08-12: step 14 `in-progress`, con step 15 a valle; report step 13, E02 `Risolto`. | Risolto |
+| E01 | Nessun file modificato nello step 14 | Nessuna correzione anticipata: mantenuto il debito di attestazione per 82 nuclei nello step 15. | Manifest con `attestations: []`; ledger con evidenze `open`; l'ordine del CLI rende lo step 15 successivo allo step 14. | Programmato allo step 15 |
+
+## Tabella errori
+
 | ID | Posizione | Categoria | Gravità | Descrizione | Correzione proposta | Stato |
 |----|-----------|-----------|---------|-------------|----------------------|-------|
-| E01 | `index.md` | Indice/struttura | Grave | Indice non corrispondente ai capitoli. | Ricostruito su cinque parti e 13 capitoli. | Risolto |
-| E02 | cap. 00 | Struttura | Grave | Piano editoriale nella cartella capitoli. | Spostato in `planning/01-piano-editoriale.md`; conteggio capitoli 13. | Risolto |
-| E03 | front matter | Promesse introduttive | Grave | Premessa assente. | Creata `front-matter/FM5-premessa.md`. | Risolto |
-| E04 | capp. 01-13 | Coerenza metadati | Media | Stati e draft stage disomogenei. | Uniformati a `reviewed-draft` e `cross-reviewed`; mantenuto `review_required: true`. | Risolto |
-| E05 | capp. 06-12 | Verifica normativa/specialistica | Media | Controllo finale di vigenza e accuratezza richiesto. | Assegnato allo step 15, come previsto dalla pipeline; nessuno stato falsificato. | Da verificare |
-| E06 | indice/cap. 12 | Rinvio cross-family | Media | M-TR02 incompleto non può sostituire teoria. | Qualificato come solo instradamento di catalogo; il cap. 12 resta autonomo. | Risolto |
-| E07 | intero modulo | Terminologia | Media | Bibbia trasversale assente. | Creata `planning/03-bibbia-modulo.md`. | Risolto |
-| E08 | capp. 01-13 | Apparati | Media | Heading non sempre identici. | Non applicato come obbligo: le funzioni sono presenti e le varianti sono funzionali al contenuto. | Risolto |
-| E09 | `index.md` | Stato editoriale | Media | Modulo ancora scaffold. | Aggiornato a `reviewed-draft` / `cross-reviewed`. | Risolto |
-| E10 | composito | Layout | Lieve | Resa paperback non verificata. | Demandato al gate visuale/preflight. | Da verificare |
+| E02 | `index.md` e `planning/03-bibbia-modulo.md` | Coerenza strutturale e stato editoriale | Grave | Gli stati anticipavano review trasversale, audit e freeze prima dell'esecuzione dei rispettivi step. | Correzione già applicata: stati e testo riallineati al CLI nel commit `f532439`. | Risolto |
 
-### Registro operativo delle correzioni
-| ID | File modificato | Correzione | Fonte/evidenza | Stato finale |
-| --- | --- | --- | --- | --- |
-| E01 | `index.md` | indice completo 01-13 | indice commerciale VOL-08 e file reali | risolto |
-| E02 | `chapters/00-piano-editoriale.md` → `planning/01-piano-editoriale.md` | ricollocazione nota di lavoro | conteggio `chapters/` = 13 | risolto |
-| E03 | `front-matter/FM5-premessa.md` | premessa editoriale completa | Metodo BANDO, matrice M-TR01 | risolto |
-| E04 | `chapters/01-13*.md` | frontmatter uniforme | gate individuali completati; `review_required` preservato | risolto |
-| E06 | `index.md` | M-TR02 marcato come catalogo, non copertura | M-TR02 ancora scaffold | risolto |
-| E07 | `planning/03-bibbia-modulo.md` | proprietà concetti e lessico | confronto trasversale capitoli/matrice | risolto |
-| E09 | `index.md` | stato reale del modulo | step 13 superato | risolto |
+## Verifiche eseguite
 
-## 4. Osservazioni per capitolo
-### Capitoli 1-13
-- Punti di forza: progressione, apparati e copertura restano invariati; nessuna correzione sostanziale ha richiesto nuovo Humanizer.
-- Criticità: tutti i frontmatter sono ora coerenti; `review_required: true` conserva correttamente il passaggio umano ancora dovuto.
+- Confronto con il report step 13: E02 è risolto; non ci sono altri errori obbligatori assegnati allo step 14.
+- Controllo del CLI: lo step 14 è `in-progress`; non è stata eseguita alcuna chiusura.
+- Nessun cambiamento sostanziale del testo: Humanizer, controllo di copertura e micro-revisione dei capitoli non sono applicabili.
+- Nessuna modifica a capitoli, manifest, matrice, run-state o step 24.
 
-## 5. Coerenza globale
-- Terminologia: governata dalla nuova Bibbia del Modulo.
-- Struttura vs indice: coerente; cinque parti, capitoli 01-13, nessun capitolo 00.
-- Promesse dell'introduzione mantenute: sì, confrontate con indice e matrice.
-- Copertura: nessun nucleo `parziale`, `solo-nominato` o `mancante`; M-TR02 non è usato come rinvio sostitutivo.
+## Giudizio di pubblicabilità
 
-## 6. Contenuto da verificare
-- Vigenza e accuratezza specialistica dei riferimenti dei capp. 06-12 nello step 15.
-- Resa paperback di tabelle, SQL, checklist e canvas nel preflight.
+Non pubblicabile allo stato attuale.
 
-## 7. Suggerimenti facoltativi (non errori)
-Le simulazioni distinte per sottoprofilo e le mappe aggiuntive restano opzioni editoriali, non requisiti del gate.
+Motivazione: E02 è risolto e non restano correzioni obbligatorie proprie dello step 14, ma E01 resta un debito programmato e non attestato dello step 15. Il modulo non può essere dichiarato pubblicabile prima dell'audit specialistico, delle verifiche delle fonti e dei gate successivi.
 
-## 8. Priorità degli interventi
-1. Review umana specialistica e normativa dello step 15.
-2. Text freeze soltanto dopo l'esito della review.
-3. Preflight visuale e tecnico del composito.
+## Limiti
 
-## 9. Giudizio di pubblicabilità
-**Pubblicabile dopo intervento medio.**
-Motivazione: tutte le correzioni strutturali e di coerenza applicabili nello step 14 sono risolte. Restano le verifiche umane e di produzione previste dagli step successivi, non errori gravi aperti.
-
-## 10. Limiti di questa revisione
-Il report attesta correzioni su Markdown e metadati. Non anticipa l'esito della review umana, non verifica fonti normative in tempo reale e non valuta un PDF impaginato.
+Questo step non sostituisce lo step 15: non crea attestazioni, non dichiara chiuse evidenze `open` e non verifica fonti mobili o impaginazione finale. Il run-state è stato solo consultato e non modificato.

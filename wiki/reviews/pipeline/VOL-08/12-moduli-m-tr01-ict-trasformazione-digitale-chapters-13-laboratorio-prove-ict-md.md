@@ -1,79 +1,95 @@
-# Report editoriale — Laboratorio prove ICT: quiz, scritto tecnico, orale e casi
+# Report editoriale - Laboratorio prove ICT: quiz, scritto tecnico, orale e casi
 
 ## 1. Sintesi editoriale
 
-- Genere editoriale: capitolo di manuale-workbook specialistico per concorsi pubblici.
-- Pubblico target: candidati a profili ICT, cybersecurity, cloud/DevOps e data/AI nella PA.
-- Perimetro di questa revisione: capitolo 13 di M-TR01, matrice di copertura, rinvii consolidati e requisiti editoriali KDP osservabili dal Markdown.
-- Stato generale in una frase: capitolo chiaro e operativo, pubblicabile dopo la validazione specialistica e il preflight KDP già richiesti.
-
-La progressione da lettura della consegna a quiz, scritto, orale e caso è coerente. Il caso sul servizio intermittente applica bene i capitoli tecnici precedenti; rubriche e Diario degli errori rendono osservabile la prestazione. La prima esecuzione del gate aveva rilevato che la simulazione finale non era autonomamente correggibile. L'integrazione autorizzata ha aggiunto gli otto quiz mancanti con soluzioni ragionate, due risposte brevi modello, la scaletta-soluzione dell'elaborato e i nuclei attesi per tre risposte orali. La matrice è stata riportata a `completo` dopo la verifica sul testo reale.
+- Genere e pubblico: laboratorio conclusivo per candidati ai concorsi pubblici ICT.
+- Perimetro: retrofit Format 2 dell'11 agosto 2026; trasforma i contenuti dei capitoli 2-12 in prestazioni da quiz, risposta breve, elaborato, orale, caso e simulazione.
+- Stato generale: il capitolo è autosufficiente per il lettore; presenta sette nuclei, un caso guidato, una verifica con sei quiz commentati e una simulazione mista che include un caso autonomo.
+- Test dello studente: superato. Senza frontmatter o strumenti interni, il lettore può leggere una consegna, esplicitare assunzioni, scegliere un controllo, motivare una risposta e pianificare una correzione.
+- Confini: non stabilisce formati, tempi, punteggi, soglie, penalità o criteri universali; questi elementi dipendono dagli atti della procedura concreta.
 
 ## 2. Punti applicati della checklist
 
-Applicati i punti 1-26 e 28-30 della checklist:
-
-1. indice e titolo del capitolo;
-2. collocazione nella Parte V;
-3. progressione logica;
-4. gerarchia H1/H2/H3;
-5. idoneità alla pubblicazione;
-6-15. coerenza, terminologia, completezza, accuratezza, casi, tabelle e fonti;
-16-21. sintassi, chiarezza, tono, didattica, ripetizioni e contraddizioni;
-22-26. grammatica, ortografia, punteggiatura, refusi e uniformità grafica;
-28-30. layout deducibile dal Markdown, leggibilità e qualità complessiva.
-
-Il punto 27, impaginazione reale, non è applicabile: non è disponibile un PDF o file impaginato. È stato applicato anche il gate aggiuntivo di copertura didattica integrale, confrontando promesse, testo e matrice.
+1. H1 unico e gerarchia H2/H3 leggibile.
+2. Titolo coerente con la funzione di laboratorio conclusivo.
+3. Apertura dalla trasformazione della conoscenza in output.
+4. Progressione da consegna a quiz, scritto, orale, caso e simulazione.
+5. Sette nuclei Format 2 con identificativi stabili.
+6. Ogni nucleo supera la soglia di densità richiesta.
+7. La teoria precede esercizi, verifica e checklist.
+8. Mappa BANDO collega regole, nuclei e output.
+9. Verbo, oggetto, contesto, vincoli e output sono distinti.
+10. Il canvas separa fatti, assunzioni, alternative, rischio ed evidenza.
+11. I quiz distinguono concetto, scenario, calcolo e distrattore.
+12. La scelta sulla risposta incerta dipende dagli atti della procedura.
+13. La correzione del quiz produce una regola verificabile.
+14. Le risposte brevi usano una micro-scaletta proporzionata.
+15. Definizione, distinzione, conseguenza ed esempio non sono confusi.
+16. L'elaborato collega requisito, scelta, rischio, controllo ed evidenza.
+17. Le assunzioni non diventano fatti inventati.
+18. L'orale rende udibile il ragionamento e gestisce le controdomande.
+19. La rubrica è dichiarata come strumento di allenamento.
+20. Il caso distingue sintomo, ipotesi, test, azione e verifica.
+21. Contenimento, rollback e rischio residuo sono collegati alle evidenze.
+22. Il caso guidato considera continuità, sicurezza e fornitore.
+23. Il diario trasforma l'errore in azione e nuova prova.
+24. La simulazione non replica una procedura concreta.
+25. Dodici quiz commentati, scritto, orale e caso autonomo producono output osservabili.
+26. Il blocco Verifica contiene sei quiz commentati.
+27. Domande-trappola, esercizi e checklist rafforzano l'uso concorsuale.
+28. Il corpo non contiene wikilink o dipendenze editoriali interne.
+29. Fonti mobili e rinvii sono formulati in linguaggio leggibile.
+30. Tabelle e strumenti richiedono controllo di resa paperback separato.
 
 ## 3. Tabella errori
 
 | ID | Posizione | Categoria | Gravità | Descrizione | Correzione proposta | Stato |
 | --- | --- | --- | --- | --- | --- | --- |
-| E01 | Cap. 13, «Simulazione mista finale» | Completezza didattica e copertura integrale | Grave | La prima versione della simulazione conteneva quattro quiz e non offriva soluzioni complete per risposte brevi, elaborato e orale. | Inseriti dodici quiz complessivi con soluzioni ragionate, due risposte brevi modello, scaletta-soluzione dell'elaborato e nuclei attesi per tre risposte orali; matrice verificata e riportata a `completo`. | Risolto |
-| E02 | Cap. 13, rubriche, canvas e foglio di esito | Layout e leggibilità | Media | Il Markdown contiene più tabelle a 6-8 colonne. Nel formato KDP 6,69 × 9,61 in alcune possono richiedere corpo troppo piccolo o spezzature poco leggibili. | Eseguire il preflight nel renderer KDP; dividere il Diario degli errori e il canvas in due blocchi se il corpo scende sotto 9,5 pt o se le righe attraversano pagina. | Da verificare |
-| E03 | Cap. 13, «Riferimenti consolidati» | Richiami interni | Lieve | Tre wikilink al VOL-01 usavano slug inesistenti per prova scritta, casi pratici e Diario degli errori. | Sostituire con `prova-scritta-teorico-pratica`, `casi-pratici-problem-solving-amministrativo` e `diario-degli-errori`. | Risolto |
+| E01 | Intero capitolo | Struttura/densità | Lieve | Il testo precedente non esponeva una struttura Format 2 completa né una verifica dedicata. | Inseriti sette nuclei, verifica, quiz commentati e approfondimenti per nucleo. | Risolto |
+| E02 | Apertura e riferimenti | Autonomia didattica | Lieve | Il testo precedente conteneva collegamenti interni non accessibili al lettore. | Rimossi dal corpo e sostituiti con riferimenti leggibili e avvertenze operative. | Risolto |
+| E03 | Simulazione e proofread | Didattica/copy-edit | Lieve | La prima revisione non includeva un caso autonomo e aveva introdotto forme prive di accento. | Aggiunti caso autonomo, commento dei primi quattro micro-quiz e copy-edit italiano delle aggiunte, incluso l'ultimo residuo di accento verificato. | Risolto |
+| V01 | Bando e avvisi | Fatto da verificare | Lieve | Formato, durata, punteggi, soglie, penalità e strumenti possono cambiare per procedura. | Verificare atti pubblicati della selezione prima dell'uso operativo. | Da verificare allo step 15 |
+| V02 | Quiz e simulazioni | Accuratezza specialistica | Lieve | Le domande usano contenuti dei capitoli tecnici e vanno riallineate a fonti aggiornate al cut-off. | Riesame delle fonti tecniche e degli eventuali aggiornamenti nei capitoli 2-12. | Da verificare allo step 15 |
+| V03 | Caso del servizio intermittente | Scenario tecnico | Lieve | Le azioni applicabili dipendono da architettura, ruoli, SLA e dati del caso reale. | Validare lo scenario con evidenze e responsabilità del contesto concreto. | Da verificare allo step 15 |
+| V04 | Tabelle, canvas e rubriche | Layout | Lieve | Gli strumenti sono leggibili in Markdown ma non ancora ispezionati nella gabbia paperback. | Provare l'impaginato e spezzare le tabelle se necessario. | Da verificare allo step 20 |
 
 ## 4. Osservazioni per capitolo
 
-### Capitolo 13 — Laboratorio prove ICT: quiz, scritto tecnico, orale e casi
+### Capitolo 13 - Laboratorio prove ICT
 
-- Punti di forza: apertura centrata sull'output; Mappa BANDO applicata alla prova; distinzione chiara tra quiz, risposta breve, elaborato, orale e quattro famiglie di caso; buon caso trasversale sul servizio intermittente; rubriche dichiarate correttamente come strumenti editoriali e non criteri ufficiali; Diario degli errori collegato ad azioni e nuova verifica.
-- Criticità: le tabelle più larghe richiedono verifica nel formato di stampa; quiz, soluzioni e rubriche richiedono la validazione specialistica già indicata nelle note di review.
-- Copertura v4: decodifica, quiz, risposta breve/elaborato, orale, casi, simulazione, rubriche e Diario degli errori risultano completi. E01 è risolto.
-- Correzioni oggettive applicate: tre wikilink interni, registrati come E03. Nessun altro intervento è stato applicato al testo.
+- Punti di forza: collega in modo esplicito conoscenza tecnica, decisione, evidenza e prestazione concorsuale.
+- Coerenza: non ripete la teoria dei capitoli 2-12; la riusa per far produrre quiz, risposta, progetto, esposizione e diagnosi.
+- Copertura: la matrice documenta sette nuclei completi; casi e quiz rinforzano la teoria, senza sostituirla.
+- Correzioni applicate: struttura Format 2, verifica, dodici quiz commentati, caso guidato e caso autonomo, rimossi i link interni dal corpo, completata la checklist dimensionale e corretto il copy-edit italiano.
 
 ## 5. Coerenza globale
 
-- Terminologia: coerente con i capitoli 7-12 per IAM, rischio residuo, rollback, SLA, RTO, logging e incident response.
-- Struttura vs indice: coerente con la Parte V «Allenamento» e con il titolo dell'indice di VOL-08.
-- Promesse dell'introduzione mantenute: sì. Quiz, scritto, orale, casi, rubriche, Diario e simulazione correggibile sono presenti.
-- Confini: il capitolo rinvia correttamente al VOL-01 per il metodo generale e usa i capitoli 2-12 come base tecnica, senza duplicarne la teoria.
+La terminologia rimane coerente: fatto, assunzione, ipotesi, evidenza, requisito, controllo, test, rollback e rischio residuo hanno funzioni distinte. Il capitolo rinvia ai contenuti tecnici senza dipendere da materiali non pubblicabili. Le regole della procedura concreta sono conservate come limite operativo, non presentate come dettagli universali.
 
 ## 6. Contenuto da verificare
 
-- Validare quiz, soluzioni e caso con specialisti di sistemi, reti, database, cloud e cybersecurity.
-- Verificare periodicamente che il campione di bandi rappresenti ancora formati e output pertinenti, senza ricavarne frequenze statistiche.
-- Verificare con un esperto di selezioni che rubriche e formulazioni non possano essere scambiate per criteri ufficiali universali.
-- Controllare nel singolo bando durata, punteggi, soglie, penalità, strumenti e consegne: il capitolo li tratta correttamente come variabili.
+- V01: bando, avvisi, istruzioni, criteri e strumenti della procedura concreta.
+- V02: aggiornamento delle fonti tecniche che sostengono gli esempi nei capitoli 2-12.
+- V03: pertinenza di ruoli, escalation, metriche e SLA nel caso reale.
+- V04: resa KDP di canvas, rubriche, checklist e foglio di esito.
 
-## 7. Suggerimenti facoltativi (non errori)
+## 7. Suggerimenti facoltativi
 
-- Valutare una pagina staccabile per il canvas della traccia e una per il foglio di esito.
-- Dopo il completamento di E01, aggiungere una tabella finale «errore → capitolo di recupero» per accelerare il ripasso.
-- Considerare una seconda simulazione breve, dedicata a un profilo cyber o data/AI, solo se il budget KDP del modulo lo consente.
+- In impaginazione, rendere il canvas della traccia e il foglio di esito due pagine di lavoro distinte se la tabella risulta densa.
+- Usare il caso del servizio intermittente per una simulazione orale, dichiarando sempre i dati mancanti prima della proposta.
 
 ## 8. Priorità degli interventi
 
-1. Validare tecnicamente quiz, soluzioni, caso e rubriche.
-2. Eseguire il preflight KDP e correggere eventuali problemi delle tabelle.
-3. Effettuare la rifinitura finale dopo la validazione specialistica.
+1. Riesaminare V01-V03 negli step 13-18 con fonti e atti aggiornati.
+2. Verificare V04 nell'impaginato KDP agli step 19-20.
+3. Mantenere il confine tra metodo di allenamento e criteri della procedura o della commissione.
 
 ## 9. Giudizio di pubblicabilità
 
-**Pubblicabile dopo intervento medio.**
+**Pubblicabile con correzioni minori.**
 
-Motivazione: E01 è stato risolto e la matrice non contiene stati bloccanti per il capitolo 13. Restano E02, relativo alla verifica KDP, e le validazioni tecniche elencate nella sezione 6. Sono interventi necessari prima del text freeze, ma non richiedono una riscrittura strutturale.
+Motivazione: non emergono errori gravi aperti o lacune didattiche nel testo lettore. Restano controlli mobili su atti, fonti e layout, assegnati ai gate successivi; il giudizio non sostituisce né anticipa lo step 24 di conferma umana.
 
-## 10. Limiti di questa revisione
+## 10. Limiti della revisione
 
-La revisione ha riguardato il Markdown, la matrice, l'indice del volume e le source note collegate. Non è stato ispezionato un PDF impaginato, quindi margini, corpo effettivo, spezzature, vedove/orfani e resa delle tabelle restano da verificare nel preflight KDP. Non è stata svolta una nuova ricerca web: i fatti correnti e i formati delle procedure restano subordinati alle fonti ufficiali e al singolo bando. La revisione editoriale non sostituisce la validazione tecnica multi-specialistica né la review umana finale.
+La revisione ha esaminato Markdown, matrice e fonti già dichiarate nel progetto. Non sostituisce il controllo specialistico al cut-off, la verifica degli atti della singola procedura, la valutazione tecnica di un servizio reale o l'ispezione di un PDF impaginato.

@@ -22,41 +22,43 @@ last_compiled_from: ["wiki/sources/inglese-concorsi-corpus-fonti-ufficiali-2026-
 
 # Capitolo 11 - Inglese concorsuale essenziale
 
-## Perché l'inglese conta nei concorsi
+## Perché l’inglese conta nei concorsi
 
-L'inglese nei concorsi pubblici verifica se il candidato sa comprendere messaggi semplici, riconoscere forme grammaticali corrette, interpretare un breve testo e usare formule essenziali in un contesto di lavoro. La prova può comparire come gruppo di quiz, parte dell'orale, lettura di un brano, domanda situazionale o accertamento collegato al profilo.
+L’inglese nei concorsi pubblici verifica se il candidato sa comprendere messaggi semplici, riconoscere forme grammaticali corrette, interpretare un breve testo e usare formule essenziali in un contesto di lavoro. La prova può comparire come gruppo di quiz, parte dell’orale, lettura di un brano, domanda situazionale o accertamento collegato al profilo.
 
-Per molti candidati l'errore è studiare inglese come se dovessero sostenere un esame scolastico completo. Nei concorsi, invece, l'obiettivo è più preciso: rispondere bene a domande ricorrenti, evitare le trappole grammaticali, capire il senso di email e avvisi, saper formulare frasi brevi e corrette. Non serve dimostrare uno stile raffinato; serve essere affidabili.
+Per molti candidati l’errore è studiare inglese come se dovessero sostenere un esame scolastico completo. Nei concorsi, invece, l’obiettivo è più preciso: rispondere bene a domande ricorrenti, evitare le trappole grammaticali, capire il senso di email e avvisi, saper formulare frasi brevi e corrette. Non serve dimostrare uno stile raffinato; serve essere affidabili.
 
-La cornice normativa dei concorsi pubblici valorizza l'accertamento della lingua inglese e delle competenze informatiche. Il bando stabilisce in concreto come la lingua viene valutata: quiz, orale, idoneità, punteggio, requisito o titolo. Per questo il primo passo resta sempre la lettura del bando, non la scelta casuale di un manuale di grammatica.
+La cornice normativa dei concorsi pubblici valorizza l’accertamento della lingua inglese e delle competenze informatiche. Il bando stabilisce in concreto come la lingua viene valutata: quiz, orale, idoneità, punteggio, requisito o titolo. Per questo il primo passo resta sempre la lettura del bando, non la scelta casuale di un manuale di grammatica.
 
 > [!NOTE]
 > **Da sapere in 5 righe**
-> L'inglese concorsuale è inglese pratico da prova: completamento di frasi, tempi verbali, ausiliari, modali, preposizioni, lessico, brevi testi, risposte semplici ed email essenziali. La priorità non è sapere tutto, ma riconoscere rapidamente la forma corretta. I livelli QCER/CEFR aiutano a capire la difficoltà attesa, ma il bando decide il formato della prova. Per i profili generalisti, la preparazione efficace si colloca di solito tra A2, B1 e B2 operativo. Il candidato deve allenare grammatica, contesto e velocità.
+> L’inglese concorsuale è inglese pratico da prova: completamento di frasi, tempi verbali, ausiliari, modali, preposizioni, lessico, brevi testi, risposte semplici ed email essenziali. La priorità non è sapere tutto, ma riconoscere rapidamente la forma corretta. I livelli QCER/CEFR aiutano a capire la difficoltà attesa, ma il bando decide il formato della prova. Per i profili generalisti, la preparazione efficace si colloca di solito tra A2, B1 e B2 operativo. Il candidato deve allenare grammatica, contesto e velocità.
 
 ![Figura 11.1 - Inglese concorsuale essenziale: mappa dei blocchi ad alto rendimento per bando, cloze, grammatica, lessico e output.](../assets/chapter-11/01-mappa-inglese-concorsuale.png)
+
+*Figura 11.1 - Inglese concorsuale essenziale: mappa dei blocchi ad alto rendimento per bando, cloze, grammatica, lessico e output.*
 
 ## Obiettivi del capitolo
 
 Al termine del capitolo dovrai essere in grado di:
 
-- leggere il bando e capire come sarà accertato l'inglese;
+- leggere il bando e capire come sarà accertato l’inglese;
 - riconoscere i principali formati di prova: cloze, quiz grammaticali, reading, orale, email e funzioni comunicative;
 - risolvere completamenti di frase usando segnali grammaticali e lessicali;
 - scegliere correttamente tempi verbali, ausiliari, modali, gerundio, infinitivo e participi;
 - usare con maggiore sicurezza preposizioni, pronomi, relativi, articoli, determinanti e quantificatori;
 - comprendere numeri, date, scadenze e ordinali nei testi;
 - riconoscere lessico amministrativo essenziale e false friends frequenti;
-- costruire risposte brevi e frasi utili per orale o comunicazioni d'ufficio;
+- costruire risposte brevi e frasi utili per orale o comunicazioni d’ufficio;
 - organizzare un ripasso mirato se hai poco tempo.
 
 ## Come usare il Metodo BANDO
 
-L'inglese va inserito nel piano di studio come materia trasversale. Può pesare poco nel punteggio, ma può diventare decisivo se il bando prevede una soglia di idoneità o se la prova orale include anche una domanda in lingua.
+L’inglese va inserito nel piano di studio come materia trasversale. Può pesare poco nel punteggio, ma può diventare decisivo se il bando prevede una soglia di idoneità o se la prova orale include anche una domanda in lingua.
 
 | Fase | Cosa fare | Risultato atteso |
 |---|---|---|
-| **B - Bando** | Controlla se l'inglese è requisito, titolo, prova scritta, prova orale o idoneità. | Sai quanto tempo assegnare e che tipo di allenamento fare. |
+| **B - Bando** | Controlla se l’inglese è requisito, titolo, prova scritta, prova orale o idoneità. | Sai quanto tempo assegnare e che tipo di allenamento fare. |
 | **A - Aree** | Dividi la materia in grammatica, lessico, reading, funzioni comunicative ed email. | Eviti di studiare in modo dispersivo. |
 | **N - Nuclei** | Parti da cloze, tempi verbali, ausiliari, modali e preposizioni. | Copri le domande statisticamente più probabili. |
 | **D - Diario** | Registra gli errori ricorrenti: tempo verbale, articolo, preposizione, pronome, falso amico. | Trasformi gli sbagli in materiale di ripasso. |
@@ -64,7 +66,7 @@ L'inglese va inserito nel piano di studio come materia trasversale. Può pesare 
 
 > [!TIP]
 > **BANDO in pratica**
-> Se il bando dice solo "accertamento della conoscenza della lingua inglese", preparati su quiz e orale semplice. Se parla di "livello B1" o "B2", aumenta il peso di reading, lessico e funzioni comunicative. Se prevede una prova tecnica o profili internazionali, aggiungi lessico specialistico del settore.
+> Se il bando dice solo “accertamento della conoscenza della lingua inglese”, preparati su quiz e orale semplice. Se parla di “livello B1” o “B2”, aumenta il peso di reading, lessico e funzioni comunicative. Se prevede una prova tecnica o profili internazionali, aggiungi lessico specialistico del settore.
 
 ## Priorità di studio dai quiz concorsuali
 
@@ -97,14 +99,14 @@ Il Quadro Comune Europeo di Riferimento per le Lingue, spesso indicato come QCER
 | **B2** | Comprensione più sicura di testi articolati, lessico più ampio, capacità di sostenere un breve scambio con precisione. |
 | **C1-C2** | Livelli avanzati, di solito rilevanti per profili internazionali, diplomatici, specialistici o ad alta esposizione linguistica. |
 
-Per il candidato medio, la soglia più utile è questa: devi capire un breve testo d'ufficio, riconoscere la frase grammaticalmente corretta e rispondere con frasi semplici. È meglio una frase lineare e corretta che una frase ambiziosa piena di errori.
+Per il candidato medio, la soglia più utile è questa: devi capire un breve testo d’ufficio, riconoscere la frase grammaticalmente corretta e rispondere con frasi semplici. È meglio una frase lineare e corretta che una frase ambiziosa piena di errori.
 
-## Dove compare l'inglese nel bando
+## Dove compare l’inglese nel bando
 
-Nel bando l'inglese può apparire in modi diversi. La strategia cambia in base alla formulazione.
+Nel bando l’inglese può apparire in modi diversi. La strategia cambia in base alla formulazione.
 
 - **Accertamento della conoscenza della lingua inglese**: probabili quiz o domanda orale di base.
-- **Prova orale comprensiva dell'accertamento della lingua inglese**: prepara presentazione personale, lettura, traduzione breve e risposta a domanda semplice.
+- **Prova orale comprensiva dell’accertamento della lingua inglese**: prepara presentazione personale, lettura, traduzione breve e risposta a domanda semplice.
 - **Quesiti di lingua inglese**: allena cloze, grammatica a scelta multipla, lessico e reading.
 - **Livello B1/B2**: aggiungi comprensione del testo e funzioni comunicative più solide.
 - **Certificazione linguistica valutabile**: controlla quali certificazioni sono ammesse, con quale livello e quale punteggio.
@@ -112,11 +114,11 @@ Nel bando l'inglese può apparire in modi diversi. La strategia cambia in base a
 
 > [!WARNING]
 > **Errore tipico**
-> Molti candidati leggono "inglese" e pensano: "Lo ripasso alla fine". È rischioso. La grammatica di base sembra facile, ma nei quiz i distrattori sono costruiti proprio su errori comuni: `do` al posto di `does`, `since` al posto di `for`, `much` al posto di `many`, `to` dopo un modale, preposizione tradotta dall'italiano.
+> Molti candidati leggono “inglese” e pensano: “Lo ripasso alla fine”. È rischioso. La grammatica di base sembra facile, ma nei quiz i distrattori sono costruiti proprio su errori comuni: `do` al posto di `does`, `since` al posto di `for`, `much` al posto di `many`, `to` dopo un modale, preposizione tradotta dall’italiano.
 
 ## 1. Cloze e completamento frase
 
-Il cloze ricorre spesso nelle prove. Una frase contiene uno spazio vuoto e il candidato deve scegliere l'opzione corretta, valutando quale parola funziona nella struttura della frase.
+Il cloze ricorre spesso nelle prove. Una frase contiene uno spazio vuoto e il candidato deve scegliere l’opzione corretta, valutando quale parola funziona nella struttura della frase.
 
 Esempio:
 
@@ -124,7 +126,7 @@ Esempio:
 |---|---|---|
 | She ___ in the public office since 2020. | works / worked / has worked / is working | **has worked** |
 
-Il segnale è `since 2020`: indica un'azione iniziata nel passato e ancora collegata al presente. La forma più naturale è il present perfect.
+Il segnale è `since 2020`: indica un’azione iniziata nel passato e ancora collegata al presente. La forma più naturale è il present perfect.
 
 ### Metodo in sei passaggi
 
@@ -154,6 +156,8 @@ Il segnale è `since 2020`: indica un'azione iniziata nel passato e ancora colle
 
 ![Figura 11.2 - Cloze e completamento frase: metodo in sei passaggi per scegliere la forma corretta.](../assets/chapter-11/02-metodo-cloze.png)
 
+*Figura 11.2 - Cloze e completamento frase: metodo in sei passaggi per scegliere la forma corretta.*
+
 ## 2. Ordine della frase inglese
 
 La frase inglese ordinaria è più rigida di quella italiana. Lo schema base è:
@@ -166,13 +170,13 @@ Esempi:
 - `The candidate sent the documents yesterday.`
 - `The manager will check the request tomorrow.`
 
-Nelle domande, l'ausiliare si sposta davanti al soggetto:
+Nelle domande, l’ausiliare si sposta davanti al soggetto:
 
 - `Do you need an appointment?`
 - `Has she sent the application?`
 - `Can they access the service?`
 
-Nei quiz, l'ordine errato è spesso un distrattore:
+Nei quiz, l’ordine errato è spesso un distrattore:
 
 | Errato | Corretto |
 |---|---|
@@ -185,6 +189,8 @@ Nei quiz, l'ordine errato è spesso un distrattore:
 I tempi verbali sono il secondo blocco più richiesto. Non devi memorizzare tutte le sfumature: devi riconoscere il tempo coerente con il contesto.
 
 ![Figura 11.3 - Tempi verbali e segnali: collegare present, past, perfect, future, passive e conditionals agli indicatori della frase.](../assets/chapter-11/03-tempi-verbali-segnali.png)
+
+*Figura 11.3 - Tempi verbali e segnali: collegare present, past, perfect, future, passive e conditionals agli indicatori della frase.*
 
 ### Present simple
 
@@ -223,7 +229,7 @@ Segnali: `yesterday`, `last week`, `in 2024`, `two days ago`.
 
 ### Present perfect
 
-Si usa quando l'azione passata ha un legame con il presente, oppure quando il periodo non è concluso.
+Si usa quando l’azione passata ha un legame con il presente, oppure quando il periodo non è concluso.
 
 - `The office has received your application.`
 - `She has worked in the department for five years.`
@@ -249,7 +255,7 @@ Distinzione essenziale:
 
 ### Passive voice
 
-Il passivo è frequente nei testi amministrativi perché mette al centro l'atto, il documento o la procedura.
+Il passivo è frequente nei testi amministrativi perché mette al centro l’atto, il documento o la procedura.
 
 - `The application was submitted online.`
 - `The documents are checked by the office.`
@@ -259,7 +265,7 @@ Schema: **be + participio passato**.
 
 > [!NOTE]
 > **Come lo chiede la commissione**
-> Se la frase parla di un documento, una domanda, una graduatoria o una procedura, valuta se serve il passivo. `The notice was published` è più naturale di `The notice published`, perché il soggetto non compie l'azione: la subisce.
+> Se la frase parla di un documento, una domanda, una graduatoria o una procedura, valuta se serve il passivo. `The notice was published` è più naturale di `The notice published`, perché il soggetto non compie l’azione: la subisce.
 
 ### Conditionals
 
@@ -322,7 +328,7 @@ Gli ausiliari non sono dettagli: reggono domande, negazioni, tempi composti, pas
 
 ### Do
 
-`Do` si usa per domande e negazioni al present simple e al past simple, quando non c'è un altro ausiliare.
+`Do` si usa per domande e negazioni al present simple e al past simple, quando non c’è un altro ausiliare.
 
 - `Do you work here?`
 - `Does the office open on Saturday?`
@@ -363,16 +369,18 @@ Regola decisiva: dopo un modale semplice si usa la forma base.
 
 ![Figura 11.4 - Ausiliari e modali: be, do, have, modali e risposte brevi senza errori di forma.](../assets/chapter-11/04-ausiliari-modali.png)
 
+*Figura 11.4 - Ausiliari e modali: be, do, have, modali e risposte brevi senza errori di forma.*
+
 ### Risposte brevi
 
-Le risposte brevi riprendono l'ausiliare della domanda.
+Le risposte brevi riprendono l’ausiliare della domanda.
 
 | Domanda | Risposta breve |
 |---|---|
-| `Do you work in a public office?` | `Yes, I do.` / `No, I don't.` |
-| `Is she available?` | `Yes, she is.` / `No, she isn't.` |
-| `Has he sent the form?` | `Yes, he has.` / `No, he hasn't.` |
-| `Can they access the platform?` | `Yes, they can.` / `No, they can't.` |
+| `Do you work in a public office?` | `Yes, I do.` / `No, I don’t.` |
+| `Is she available?` | `Yes, she is.` / `No, she isn’t.` |
+| `Has he sent the form?` | `Yes, he has.` / `No, he hasn’t.` |
+| `Can they access the platform?` | `Yes, they can.` / `No, they can’t.` |
 
 > [!WARNING]
 > **Errore tipico**
@@ -380,7 +388,7 @@ Le risposte brevi riprendono l'ausiliare della domanda.
 
 ## 6. Preposizioni
 
-Le preposizioni sono tra gli argomenti più insidiosi perché non coincidono sempre con l'italiano. Nei quiz vanno studiate per gruppi e collocazioni.
+Le preposizioni sono tra gli argomenti più insidiosi perché non coincidono sempre con l’italiano. Nei quiz vanno studiate per gruppi e collocazioni.
 
 ### Tempo
 
@@ -403,7 +411,7 @@ Le preposizioni sono tra gli argomenti più insidiosi perché non coincidono sem
 | `on` | superficie o piattaforma | `on the website`, `on the list` |
 | `to` | movimento verso | `go to the office` |
 | `from` | provenienza | `from the municipality` |
-| `into` | movimento verso l'interno | `log into the platform` |
+| `into` | movimento verso l’interno | `log into the platform` |
 
 ### Collocazioni utili
 
@@ -421,6 +429,8 @@ Le preposizioni sono tra gli argomenti più insidiosi perché non coincidono sem
 Nel cloze, la preposizione va verificata con la parola che la precede o la segue. `Apply for a job`, `send to an office`, `responsible for a procedure`: non basta tradurre.
 
 ![Figura 11.5 - Preposizioni, lessico PA e false friends: studiare parole e collocazioni nel contesto amministrativo.](../assets/chapter-11/05-preposizioni-lessico-false-friends.png)
+
+*Figura 11.5 - Preposizioni, lessico PA e false friends: studiare parole e collocazioni nel contesto amministrativo.*
 
 ## 7. Lessico contestuale, sinonimi e false friends
 
@@ -465,7 +475,7 @@ Il lessico nei concorsi va studiato in frasi. Una parola può avere significati 
 
 > [!TIP]
 > **Strategia**
-> Nei sinonimi non cercare la traduzione perfetta. Cerca la parola che conserva il senso della frase. Se il contesto è amministrativo, `notice` è più probabilmente "avviso" che "notizia"; `application` è più probabilmente "domanda" che "applicazione".
+> Nei sinonimi non cercare la traduzione perfetta. Cerca la parola che conserva il senso della frase. Se il contesto è amministrativo, `notice` è più probabilmente “avviso” che “notizia”; `application` è più probabilmente “domanda” che “applicazione”.
 
 ## 8. Pronomi, possessivi e relativi
 
@@ -537,7 +547,7 @@ In molti casi non si usa articolo con nomi plurali o non numerabili in senso gen
 |---|---|---|
 | `some` | quantità indefinita, frase affermativa | `There are some documents.` |
 | `any` | domande e negative | `Do you have any questions?` |
-| `much` | non numerabili | `There isn't much time.` |
+| `much` | non numerabili | `There isn’t much time.` |
 | `many` | numerabili plurali | `There are many candidates.` |
 | `few` | pochi, numerabili | `Few applications were incomplete.` |
 | `little` | poco, non numerabile | `There is little information.` |
@@ -585,6 +595,8 @@ Nei concorsi italiani, non serve discutere tutte le varianti: serve riconoscere 
 
 ![Figura 11.6 - Reading, email e orale: tre output ricorrenti per comunicare in inglese in modo semplice e corretto.](../assets/chapter-11/06-reading-email-orale.png)
 
+*Figura 11.6 - Reading, email e orale: tre output ricorrenti per comunicare in inglese in modo semplice e corretto.*
+
 ## 11. Funzioni comunicative e risposte brevi
 
 Le funzioni comunicative sono frasi che servono a fare qualcosa: chiedere, rispondere, offrire, confermare, rifiutare, scusarsi, ringraziare.
@@ -617,7 +629,7 @@ Le funzioni comunicative sono frasi che servono a fare qualcosa: chiedere, rispo
 
 ## 12. Email semplici
 
-L'email in inglese deve essere breve, ordinata e cortese. Nei concorsi può servire per una prova situazionale o per valutare la capacità di comunicare in modo essenziale.
+L’email in inglese deve essere breve, ordinata e cortese. Nei concorsi può servire per una prova situazionale o per valutare la capacità di comunicare in modo essenziale.
 
 ### Struttura
 
@@ -673,7 +685,7 @@ Questa tabella costruisce il vocabolario minimo per leggere avvisi, quiz e brevi
 | prova orale | oral test / interview |
 | punteggio | score |
 | graduatoria | ranking list |
-| documento d'identità | identity document |
+| documento d’identità | identity document |
 | certificato | certificate |
 | allegato | attachment |
 | firma | signature |
@@ -700,14 +712,14 @@ Questa tabella costruisce il vocabolario minimo per leggere avvisi, quiz e brevi
 
 ## 14. Reading comprehension
 
-La comprensione del testo nei concorsi tende a usare brani brevi. Può trattarsi di email, avvisi, istruzioni, comunicazioni interne, testi su servizi pubblici o brevi paragrafi informativi. Il compito è trovare l'informazione corretta, non tradurre ogni parola.
+La comprensione del testo nei concorsi tende a usare brani brevi. Può trattarsi di email, avvisi, istruzioni, comunicazioni interne, testi su servizi pubblici o brevi paragrafi informativi. Il compito è trovare l’informazione corretta, non tradurre ogni parola.
 
 ### Metodo di lettura
 
 1. Leggi prima la domanda.
 2. Cerca nel testo parole chiave, date, numeri e verbi di obbligo.
 3. Distingui informazione principale e dettaglio.
-4. Non farti ingannare da parole simili all'italiano.
+4. Non farti ingannare da parole simili all’italiano.
 5. Scegli la risposta giustificata dal testo.
 
 ### Mini-reading 1
@@ -880,7 +892,7 @@ Option A ignores the telephone alternative. Option C changes `does not guarantee
 
 **Text**
 
-Following a technical problem, yesterday's online applications were saved but confirmation emails were delayed. Candidates should not submit a second application unless their personal area shows no registered submission. All confirmations will be sent within twenty-four hours.
+Following a technical problem, yesterday’s online applications were saved but confirmation emails were delayed. Candidates should not submit a second application unless their personal area shows no registered submission. All confirmations will be sent within twenty-four hours.
 
 **Question**
 
@@ -964,7 +976,7 @@ Completa le frasi scegliendo la forma corretta.
 | 3 | Candidates must ___ an identity document. | bring / to bring / bringing |
 | 4 | The results ___ published online tomorrow. | will be / were / have |
 | 5 | I have worked here ___ 2021. | for / since / from |
-| 6 | There isn't ___ time left. | many / much / few |
+| 6 | There isn’t ___ time left. | many / much / few |
 | 7 | The employee ___ answered the phone was polite. | which / who / where |
 | 8 | The application was sent ___ email. | by / with / from |
 | 9 | Do you have ___ questions? | some / any / much |
@@ -974,9 +986,11 @@ Soluzioni: 1 `opens`; 2 `sent`; 3 `bring`; 4 `will be`; 5 `since`; 6 `much`; 7 `
 
 ![Figura 11.7 - Piano di ripasso e diario errori: priorità, simulazione e correzione per categoria.](../assets/chapter-11/07-ripasso-diario-errori.png)
 
+*Figura 11.7 - Piano di ripasso e diario errori: priorità, simulazione e correzione per categoria.*
+
 ## 18. Preparare inglese con poco tempo
 
-Se hai pochi giorni, non cercare di "ripassare tutto l'inglese". Devi proteggere il punteggio minimo e ridurre gli errori più probabili.
+Se hai pochi giorni, non cercare di “ripassare tutto l’inglese”. Devi proteggere il punteggio minimo e ridurre gli errori più probabili.
 
 ### Se hai 3 giorni
 
@@ -990,7 +1004,7 @@ Se hai pochi giorni, non cercare di "ripassare tutto l'inglese". Devi proteggere
 
 | Giorno | Lavoro |
 |---|---|
-| 1 | Leggi il bando e individua formato e peso dell'inglese. |
+| 1 | Leggi il bando e individua formato e peso dell’inglese. |
 | 2 | Ripassa tempi verbali e forma corretta. |
 | 3 | Allena cloze e completamenti. |
 | 4 | Studia ausiliari, modali, domande e risposte brevi. |
@@ -1010,11 +1024,11 @@ Alterna ogni settimana:
 
 > [!IMPORTANT]
 > **Regola del diario**
-> Non segnare solo "inglese sbagliato". Scrivi la categoria: tempo verbale, preposizione, articolo, pronome, lessico, falso amico, distrazione. Dopo una settimana vedrai il tuo vero punto debole.
+> Non segnare solo “inglese sbagliato”. Scrivi la categoria: tempo verbale, preposizione, articolo, pronome, lessico, falso amico, distrazione. Dopo una settimana vedrai il tuo vero punto debole.
 
 ## 19. Collegamenti con gli altri capitoli
 
-L'inglese non vive isolato dal resto del manuale.
+L’inglese non vive isolato dal resto del manuale.
 
 | Capitolo collegato | Collegamento |
 |---|---|
@@ -1045,4 +1059,4 @@ Prima di considerare chiuso il ripasso di inglese, verifica di saper:
 - rispondere oralmente con frasi semplici e corrette;
 - individuare i tuoi errori ricorrenti nel diario.
 
-L'obiettivo non è parlare inglese in modo perfetto. L'obiettivo è affrontare la prova con metodo: leggere bene, riconoscere i segnali, scegliere la forma corretta e comunicare senza errori evitabili.
+L’obiettivo non è parlare inglese in modo perfetto. L’obiettivo è affrontare la prova con metodo: leggere bene, riconoscere i segnali, scegliere la forma corretta e comunicare senza errori evitabili.

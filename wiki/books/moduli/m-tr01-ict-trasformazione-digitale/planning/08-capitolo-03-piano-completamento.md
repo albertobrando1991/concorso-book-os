@@ -4,6 +4,36 @@
 
 `chapters/03-programmazione-algoritmi-strutture-dati.md`
 
+## Addendum retrofit formato 2 — 2026-08-09
+
+Questo addendum prevale sulla ricognizione e sul budget legacy riportati più avanti. Il capitolo contiene già una bozza sostanziale con pseudocodice, strutture dati, ricerca, ordinamento, complessità, caso ed esercizi. Lo step 09 dovrà preservare il testo tecnicamente valido e riorganizzarlo in sei nuclei autonomi del formato 2.
+
+### Mappa dei nuclei stabili
+
+| ID | Nucleo | Contenuti da sviluppare | Applicazione prevista |
+| --- | --- | --- | --- |
+| `N-TR01-03-01` | Problema, algoritmo e correttezza | input, vincoli, output, algoritmo, programma, finitezza, determinatezza, invarianti, casi limite | definizione del problema e trace table |
+| `N-TR01-03-02` | Paradigmi e flusso di controllo | paradigmi, valori, tipi, espressioni, assegnazione, sequenza, selezione e iterazione | lettura e correzione di pseudocodice |
+| `N-TR01-03-03` | Funzioni e procedure | parametri, argomenti, valore restituito, ambito, stato condiviso e ricorsione | scomposizione di un algoritmo in funzioni |
+| `N-TR01-03-04` | Strutture lineari e associative | array, liste, pile, code, insiemi e mappe; operazioni, rappresentazioni e criteri di scelta | scelta della struttura per un servizio PA |
+| `N-TR01-03-05` | Alberi, grafi, ricerca e ordinamento | alberi e grafi introduttivi; ricerca lineare/binaria; insertion sort e merge sort; prerequisiti e compromessi | confronto fra algoritmi e caso di classificazione |
+| `N-TR01-03-06` | Complessità e output concorsuale | tempo, spazio, dimensione dell'input, O grande, crescita, test, debug, risposta orale ed esercizio tecnico | stima del costo e motivazione della soluzione |
+
+### Architettura editoriale vincolante
+
+- Un H2 numerato per ciascuno dei sei nuclei, con H3 funzionali e progressione definizione → funzione → elementi → distinzioni → conseguenze → applicazione.
+- Almeno 600 parole effettive per nucleo; obiettivo 650-800 parole, per un totale indicativo di 4.700-5.700 parole.
+- Un solo blocco `▣ Verifica` dopo il sesto nucleo, con almeno sei quiz commentati e almeno un caso ragionato.
+- Conservare e integrare: confine con il VOL-01, Mappa BANDO, pseudocodice, trace table, caso delle pratiche, domanda da commissario, domanda-trappola, errore tipico e checklist.
+- Spostare nel corpo dei nuclei ricerca, ordinamento e complessità oggi distribuiti in sezioni autonome; i casi e gli esercizi non sostituiscono la teoria.
+
+### Confini, fonti e audit
+
+- Evitare duplicazioni con informatica introduttiva del VOL-01, architettura del capitolo 02, basi dati del capitolo 04, ingegneria software del capitolo 06 e machine learning del capitolo 11.
+- Fonti guida: dossier M-TR01; corpus ufficiale; fonte tecnica consolidata su programmazione, algoritmi e strutture dati; topic programmazione; rinvio puntuale al capitolo 10, paragrafo 8, del VOL-01.
+- Audit richiesti: correttezza dello pseudocodice e delle soluzioni; prerequisito dell'ordinamento per la ricerca binaria; distinzione tra costo medio e caso peggiore; neutralità rispetto al linguaggio; leggibilità dei blocchi nel renderer; nessun wikilink nel corpo lettore.
+- Le soglie e il gate del CLI prevalgono sul budget legacy e sulle stime manuali.
+
 ## Esito della ricognizione
 
 Il capitolo contiene frontmatter, titolo e specifica della struttura madre, ma non ancora il testo destinato al lettore. Nessun nucleo assegnato è completo.

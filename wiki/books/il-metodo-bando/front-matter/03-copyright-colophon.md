@@ -29,7 +29,7 @@ Copyright (c) 2026 Capitale Personale. Tutti i diritti riservati.
 
 > [!IMPORTANT]
 > Avvertenza
-> A norma di legge è vietata la riproduzione, anche parziale, del presente volume o di parti di esso con qualsiasi mezzo, senza autorizzazione scritta dell'editore o dei titolari dei diritti.
+> A norma di legge è vietata la riproduzione, anche parziale, del presente volume o di parti di esso con qualsiasi mezzo, senza autorizzazione scritta dell’editore o dei titolari dei diritti.
 
 ## Cura editoriale
 
@@ -43,4 +43,4 @@ Capitale Personale
 
 www.capitalepersonale.it
 
-Eventuali aggiornamenti, materiali integrativi, errata corrige e strumenti digitali collegati al libro sono resi disponibili nell'area dedicata del sito, secondo le condizioni di accesso indicate nella pagina iniziale dei servizi digitali.
+Eventuali aggiornamenti, materiali integrativi, errata corrige e strumenti digitali collegati al libro sono resi disponibili nell’area dedicata del sito, secondo le condizioni di accesso indicate nella pagina iniziale dei servizi digitali.

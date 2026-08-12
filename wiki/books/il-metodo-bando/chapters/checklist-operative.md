@@ -73,6 +73,8 @@ Ogni checklist ha punti essenziali. Se un punto essenziale non è chiaro, non pr
 
 ![Figura 24.1 - Tre regole per usare le checklist](../assets/chapter-24/02-tre-regole-checklist.png)
 
+*Figura 24.1 - Tre regole per usare le checklist*
+
 ## Mappa BANDO delle checklist
 
 | Fase | Checklist collegata | Scopo |
@@ -87,13 +89,15 @@ Le checklist non sostituiscono il ragionamento. Lo rendono ripetibile.
 
 ![Figura 24.2 - Mappa BANDO delle checklist](../assets/chapter-24/01-mappa-bando-checklist.png)
 
+*Figura 24.2 - Mappa BANDO delle checklist*
+
 ## Checklist 1 - Prima di scegliere il concorso
 
 Usala prima di iniziare davvero a studiare.
 
 | Controllo | Sì/No | Nota |
 |---|---|---|
-| Ho letto il bando o l'avviso ufficiale, non solo un articolo riassuntivo. | | |
+| Ho letto il bando o l’avviso ufficiale, non solo un articolo riassuntivo. | | |
 | Ho verificato requisiti di accesso e titolo di studio. | | |
 | Ho verificato eventuali requisiti specifici, abilitazioni o esperienza. | | |
 | Ho capito profilo, mansioni e amministrazione. | | |
@@ -131,7 +135,7 @@ La domanda è una fase amministrativa, non una formalità. Un candidato preparat
 | Ho preparato allegati richiesti nel formato corretto. | | |
 | Ho verificato eventuale pagamento o contributo. | | |
 | Ho controllato indirizzo email/PEC o domicilio digitale indicato. | | |
-| Ho riletto domanda prima dell'invio. | | |
+| Ho riletto domanda prima dell’invio. | | |
 | Ho salvato ricevuta, protocollo o conferma invio. | | |
 | Ho annotato dove verranno pubblicate comunicazioni successive. | | |
 
@@ -139,9 +143,9 @@ La domanda è una fase amministrativa, non una formalità. Un candidato preparat
 
 Non inviare se non hai verificato scadenza, requisiti, dati, allegati, pagamento e ricevuta generabile.
 
-## Checklist 3 - Dopo l'invio della domanda
+## Checklist 3 - Dopo l’invio della domanda
 
-Dopo l'invio molti candidati si rilassano troppo. Invece inizia la fase di controllo.
+Dopo l’invio molti candidati si rilassano troppo. Invece inizia la fase di controllo.
 
 | Controllo | Sì/No | Nota |
 |---|---|---|
@@ -166,6 +170,8 @@ Dopo l'invio molti candidati si rilassano troppo. Invece inizia la fase di contr
 | Ultimi 7 giorni | Ogni giorno sulle fonti ufficiali |
 
 ![Figura 24.3 - Percorso domanda e comunicazioni](../assets/chapter-24/03-percorso-domanda-comunicazioni.png)
+
+*Figura 24.3 - Percorso domanda e comunicazioni*
 
 ## Checklist 4 - Prima di iniziare lo studio
 
@@ -242,9 +248,9 @@ Questa checklist vale per quiz, prova scritta a risposta multipla, prova sinteti
 | Ho una struttura base: definizione, funzione, riferimento, esempio, chiusura. | |
 | Ho corretto pertinenza, ordine, lessico e completezza. | |
 
-## Checklist 6 - Prima dell'orale
+## Checklist 6 - Prima dell’orale
 
-L'orale non si prepara leggendo in silenzio. Si prepara parlando.
+L’orale non si prepara leggendo in silenzio. Si prepara parlando.
 
 | Controllo | Sì/No | Nota |
 |---|---|---|
@@ -271,6 +277,8 @@ L'orale non si prepara leggendo in silenzio. Si prepara parlando.
 | Chiudo tornando alla domanda. | |
 
 ![Figura 24.4 - Preparazione delle prove](../assets/chapter-24/04-checklist-preparazione-prove.png)
+
+*Figura 24.4 - Preparazione delle prove*
 
 ## Checklist 7 - Ultimi 7 giorni
 
@@ -313,13 +321,15 @@ Gli ultimi 7 giorni non servono ad aprire nuovi mondi. Servono a stabilizzare.
 
 ### Regola ultime 24 ore
 
-Nelle ultime 24 ore devi ridurre rischio, non aumentare volume. L'obiettivo è arrivare lucido.
+Nelle ultime 24 ore devi ridurre rischio, non aumentare volume. L’obiettivo è arrivare lucido.
 
 ![Figura 24.5 - Ultimi 7 giorni e ultime 24 ore](../assets/chapter-24/05-ultimi-sette-giorni-ventiquattro-ore.png)
 
+*Figura 24.5 - Ultimi 7 giorni e ultime 24 ore*
+
 ## Checklist 9 - Documenti e logistica
 
-Verifica sempre il bando e l'avviso di convocazione. Questa checklist non sostituisce le istruzioni ufficiali.
+Verifica sempre il bando e l’avviso di convocazione. Questa checklist non sostituisce le istruzioni ufficiali.
 
 | Area | Controllo | Fatto |
 |---|---|---|
@@ -334,11 +344,11 @@ Verifica sempre il bando e l'avviso di convocazione. Questa checklist non sostit
 
 ### Nota prudenziale
 
-Se un oggetto non è chiaramente ammesso, non darlo per ammesso. Verifica nell'avviso o nelle istruzioni della commissione.
+Se un oggetto non è chiaramente ammesso, non darlo per ammesso. Verifica nell’avviso o nelle istruzioni della commissione.
 
 ## Checklist 10 - Ansia e tenuta
 
-L'ansia non si elimina con una frase motivazionale. Si gestisce con procedure.
+L’ansia non si elimina con una frase motivazionale. Si gestisce con procedure.
 
 | Situazione | Procedura |
 |---|---|
@@ -346,12 +356,12 @@ L'ansia non si elimina con una frase motivazionale. Si gestisce con procedure.
 | Inizio prova | Leggi istruzioni, controlla tempo, respira, non partire in automatico. |
 | Domanda difficile | Segna, salta se previsto, torna dopo. |
 | Vuoto orale | Riparti da definizione, funzione, esempio. |
-| Errore percepito | Non inseguire l'errore precedente. Torna al punto successivo. |
+| Errore percepito | Non inseguire l’errore precedente. Torna al punto successivo. |
 | Tempo che corre | Applica la regola di priorità: prima punti più probabili. |
 
 ### Frasi operative
 
-Non usare frasi vaghe come "devo stare calmo". Usa istruzioni:
+Non usare frasi vaghe come “devo stare calmo”. Usa istruzioni:
 
 - leggo la consegna due volte;
 - cerchio negazioni ed eccezioni;
@@ -361,6 +371,8 @@ Non usare frasi vaghe come "devo stare calmo". Usa istruzioni:
 - se sbaglio una domanda, torno al piano.
 
 ![Figura 24.6 - Logistica, ansia e tenuta](../assets/chapter-24/06-logistica-ansia-tenuta.png)
+
+*Figura 24.6 - Logistica, ansia e tenuta*
 
 ## Checklist 11 - Dopo la prova
 
@@ -394,12 +406,12 @@ Il candidato strategico non riparte da zero. Trasforma ogni prova in dati per la
 
 ## Checklist 12 - Dopo la pubblicazione della graduatoria
 
-La graduatoria non va letta soltanto come un numero. Devi verificare l'atto ufficiale, capire quale fase si è chiusa, proteggere eventuali termini e decidere la prossima azione senza affidarti a indiscrezioni.
+La graduatoria non va letta soltanto come un numero. Devi verificare l’atto ufficiale, capire quale fase si è chiusa, proteggere eventuali termini e decidere la prossima azione senza affidarti a indiscrezioni.
 
 | Controllo | Sì/No | Nota |
 |---|---|---|
-| Ho consultato la graduatoria o l'atto sul canale ufficiale indicato dal bando. | | |
-| Ho salvato copia dell'atto con data di pubblicazione e riferimenti. | | |
+| Ho consultato la graduatoria o l’atto sul canale ufficiale indicato dal bando. | | |
+| Ho salvato copia dell’atto con data di pubblicazione e riferimenti. | | |
 | Ho verificato posizione, punteggio e dati che mi riguardano. | | |
 | Ho distinto graduatoria provvisoria, definitiva, approvata o successivamente rettificata. | | |
 | Ho letto gli avvisi collegati e non solo la tabella dei nominativi. | | |
@@ -448,7 +460,7 @@ Se una riga resta vuota, quella è la tua prossima azione.
 2. Ogni spunta deve corrispondere a una verifica reale.
 3. Il bando e gli avvisi ufficiali prevalgono sempre sulla memoria.
 4. Gli ultimi giorni servono a stabilizzare, non ad accumulare.
-5. Dopo la prova, il diario trasforma l'esperienza in vantaggio per il prossimo concorso.
+5. Dopo la prova, il diario trasforma l’esperienza in vantaggio per il prossimo concorso.
 
 ## Caso guidato
 
@@ -458,7 +470,7 @@ Sette giorni prima compila la checklist:
 
 - scopre che non ha controllato bene la sede;
 - vede che non ha simulato il quiz con il tempo reale;
-- nota che all'orale risponde troppo a lungo;
+- nota che all’orale risponde troppo a lungo;
 - trova tre errori ricorrenti nel diario: accesso, organi del Comune, negazioni nei quiz.
 
 Il suo piano finale cambia:
@@ -473,11 +485,13 @@ Non aggiunge un nuovo manuale. Riduce il rischio.
 
 ![Figura 24.7 - Checklist unica BANDO: caso Giulia](../assets/chapter-24/07-checklist-unica-bando-caso-giulia.png)
 
+*Figura 24.7 - Checklist unica BANDO: caso Giulia*
+
 ## Domanda da commissario
 
 **Perché una checklist è utile anche a un candidato ben preparato?**
 
-Perché la preparazione non elimina il rischio pratico. Scadenze, documenti, formato prova, tempo, sede, comunicazioni, regole e gestione dell'ansia possono compromettere anche chi ha studiato. La checklist rende controllabili i passaggi essenziali.
+Perché la preparazione non elimina il rischio pratico. Scadenze, documenti, formato prova, tempo, sede, comunicazioni, regole e gestione dell’ansia possono compromettere anche chi ha studiato. La checklist rende controllabili i passaggi essenziali.
 
 ## Domanda-trappola
 
@@ -497,7 +511,7 @@ Scegli il concorso che stai preparando e compila la checklist unica BANDO. Poi s
 | Diario | | |
 | Output | | |
 
-Se non trovi nessun punto incompleto, fai una simulazione: spesso i punti incompleti emergono dall'output, non dalla sensazione.
+Se non trovi nessun punto incompleto, fai una simulazione: spesso i punti incompleti emergono dall’output, non dalla sensazione.
 
 ## Errori tipici
 
@@ -505,7 +519,7 @@ Se non trovi nessun punto incompleto, fai una simulazione: spesso i punti incomp
 - Inviare la domanda senza salvare ricevuta.
 - Non controllare dove saranno pubblicate le comunicazioni.
 - Preparare lo scritto senza conoscere durata e regole.
-- Preparare l'orale solo leggendo.
+- Preparare l’orale solo leggendo.
 - Aprire materiali nuovi negli ultimi giorni.
 - Sottovalutare documenti, percorso e orario.
 - Non aggiornare il diario dopo la prova.
@@ -518,8 +532,3 @@ Se non trovi nessun punto incompleto, fai una simulazione: spesso i punti incomp
 - [[topics/checklist-concorsi]]
 - [[topics/piano-30-60-90-giorni]]
 - [[topics/diario-errori]]
-
-## Note di review
-
-- Prima della pubblicazione finale verificare se alcune checklist devono essere replicate nelle appendici come pagine stampabili.
-- I punti su documenti, strumenti ammessi e sede devono restare formulati in modo prudente: il bando e gli avvisi ufficiali decidono sempre.

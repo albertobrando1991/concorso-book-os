@@ -24,9 +24,9 @@ last_compiled_from: ["sources/capitoli-21-23-corpus-moduli-piano-diario-2026-06-
 
 Correggere è il primo passo.
 
-Molti candidati fanno quiz, guardano il punteggio, leggono la risposta giusta e passano oltre. Dopo qualche giorno sbagliano di nuovo la stessa cosa: una negazione, un termine, un soggetto competente, una differenza tra istituti, una domanda letta di fretta. Il problema non è l'errore. Il problema è non usarlo.
+Molti candidati fanno quiz, guardano il punteggio, leggono la risposta giusta e passano oltre. Dopo qualche giorno sbagliano di nuovo la stessa cosa: una negazione, un termine, un soggetto competente, una differenza tra istituti, una domanda letta di fretta. Il problema non è l’errore. Il problema è non usarlo.
 
-Nel Metodo BANDO l'errore è un dato. Dice dove il piano non sta funzionando, quale materia richiede ripasso, quale modulo è fragile, quale strategia va cambiata e quale output deve essere allenato.
+Nel Metodo BANDO l’errore è un dato. Dice dove il piano non sta funzionando, quale materia richiede ripasso, quale modulo è fragile, quale strategia va cambiata e quale output deve essere allenato.
 
 Il diario degli errori porta dalla correzione a una decisione concreta.
 
@@ -39,7 +39,7 @@ Alla fine del capitolo devi saper:
 - trasformare un errore in flashcard, ripasso o mini-esercizio;
 - usare il diario per correggere il piano 30/60/90;
 - capire quando una materia sta peggiorando;
-- preparare gli ultimi giorni partendo dagli errori, non dall'umore.
+- preparare gli ultimi giorni partendo dagli errori, non dall’umore.
 
 Il diario è il cruscotto del candidato, non una punizione.
 
@@ -47,8 +47,8 @@ Il diario è il cruscotto del candidato, non una punizione.
 
 | Fase | Domanda | Uso del diario |
 |---|---|---|
-| B - Bando | L'errore riguarda una materia o prova prevista? | Dai peso |
-| A - Aree | In quale area cade l'errore? | Raggruppa |
+| B - Bando | L’errore riguarda una materia o prova prevista? | Dai peso |
+| A - Aree | In quale area cade l’errore? | Raggruppa |
 | N - Nuclei | Quale concetto manca? | Seleziona ripasso |
 | D - Diario | Perché ho sbagliato? | Classifica causa |
 | O - Output | Che cosa devo rifare? | Quiz, caso, orale, flashcard |
@@ -57,15 +57,17 @@ Il diario collega studio e prova. Senza diario, il piano resta cieco.
 
 ![Figura 23.1 - Mappa BANDO del diario degli errori](../assets/chapter-23/01-mappa-bando-diario-errori.png)
 
+*Figura 23.1 - Mappa BANDO del diario degli errori*
+
 ## Le sei categorie di errore
 
-Ogni errore deve entrare in una categoria. Se scrivi solo "sbagliato", non stai imparando abbastanza dall'errore.
+Ogni errore deve entrare in una categoria. Se scrivi solo “sbagliato”, non stai imparando abbastanza dall’errore.
 
 | Categoria | Che cosa significa | Esempio | Azione |
 |---|---|---|---|
 | Memoria | Sapevi il tema ma non ricordavi dato, sequenza o definizione | Termine del procedimento, soglia, organo | Flashcard e ripasso |
 | Concetto | Hai confuso istituti o rapporti | Accesso civico e documentale | Schema comparativo |
-| Lettura | Hai letto male domanda, negazione o eccezione | "Non rientra", "salvo", "eccetto" | Drill parole-spia |
+| Lettura | Hai letto male domanda, negazione o eccezione | “Non rientra”, “salvo”, “eccetto” | Drill parole-spia |
 | Distrazione/tempo | Hai risposto troppo presto o sotto pressione | Hai saltato un dettaglio | Timer e doppio giro |
 | Strategia | Hai investito tempo nel punto sbagliato | 5 minuti su domanda a bassa resa | Regola di salto |
 | Ansia/tenuta | Hai perso ordine, lucidità o esposizione | Orale confuso, blocco in simulazione | Simulazione progressiva |
@@ -73,6 +75,8 @@ Ogni errore deve entrare in una categoria. Se scrivi solo "sbagliato", non stai 
 La categoria decide il rimedio.
 
 ![Figura 23.2 - Le sei categorie di errore](../assets/chapter-23/02-sei-categorie-errore.png)
+
+*Figura 23.2 - Le sei categorie di errore*
 
 ## Protocollo in sei passaggi
 
@@ -82,11 +86,11 @@ Dopo una batteria, una simulazione o un orale, registra gli errori principali en
 
 ### 2. Classifica
 
-Scrivi la categoria. Se un errore sembra appartenere a due categorie, scegli quella che produce l'azione più utile.
+Scrivi la categoria. Se un errore sembra appartenere a due categorie, scegli quella che produce l’azione più utile.
 
 Esempio:
 
-- "Ho sbagliato perché non ricordavo la differenza tra accesso civico semplice e generalizzato."
+- “Ho sbagliato perché non ricordavo la differenza tra accesso civico semplice e generalizzato.”
 - Categoria: concetto.
 - Azione: schema comparativo, non semplice flashcard.
 
@@ -125,7 +129,7 @@ Usa tre livelli:
 
 ### 6. Verifica il secondo tentativo
 
-Il diario non si chiude quando capisci l'errore. Si chiude quando non lo ripeti.
+Il diario non si chiude quando capisci l’errore. Si chiude quando non lo ripeti.
 
 Segna:
 
@@ -136,15 +140,19 @@ Segna:
 
 ![Figura 23.3 - Protocollo in sei passaggi](../assets/chapter-23/03-protocollo-sei-passaggi.png)
 
+*Figura 23.3 - Protocollo in sei passaggi*
+
 ## Scheda diario degli errori
 
 | Data | Fonte errore | Materia | Domanda/caso | Categoria | Regola corretta | Prossima azione | Ripasso | Esito |
 |---|---|---|---|---|---|---|---|---|
 | | Quiz / scritto / orale / caso | | | Memoria / concetto / lettura / tempo / strategia / ansia | | | | |
 
-La colonna più importante è "Prossima azione". Senza azione, il diario diventa archivio.
+La colonna più importante è “Prossima azione”. Senza azione, il diario diventa archivio.
 
 ![Figura 23.4 - Scheda professionale del diario](../assets/chapter-23/04-scheda-diario-errori.png)
+
+*Figura 23.4 - Scheda professionale del diario*
 
 ## Come usare il diario nei quiz
 
@@ -159,11 +167,11 @@ priorità:
 5. errori su modulo integrativo;
 6. domande giuste ma risposte con incertezza.
 
-Anche una risposta corretta può entrare nel diario se l'hai indovinata. Il concorso non premia la fortuna ripetuta.
+Anche una risposta corretta può entrare nel diario se l’hai indovinata. Il concorso non premia la fortuna ripetuta.
 
 ## Come usare il diario nello scritto
 
-Nello scritto l'errore non riguarda solo il contenuto. Può dipendere anche da struttura, ordine, esempi, proporzione, linguaggio e gestione del tempo.
+Nello scritto l’errore non riguarda solo il contenuto. Può dipendere anche da struttura, ordine, esempi, proporzione, linguaggio e gestione del tempo.
 
 Categorie utili:
 
@@ -177,9 +185,9 @@ Categorie utili:
 
 Il diario deve conservare anche le scalette sbagliate. Spesso il problema nasce prima della scrittura.
 
-## Come usare il diario all'orale
+## Come usare il diario all’orale
 
-All'orale gli errori più frequenti sono:
+All’orale gli errori più frequenti sono:
 
 - partire senza definizione;
 - saltare i passaggi;
@@ -195,14 +203,14 @@ Per ogni simulazione orale registra:
 |---|---|---|---|---|
 | | | | | |
 
-La "prossima risposta" deve essere una versione migliorata in 5-7 righe. Non serve riscrivere un tema.
+La “prossima risposta” deve essere una versione migliorata in 5-7 righe. Non serve riscrivere un tema.
 
 ## Come usare il diario nei casi pratici
 
-Nei casi pratici l'errore può essere:
+Nei casi pratici l’errore può essere:
 
 - non individuare il problema;
-- scegliere l'atto sbagliato;
+- scegliere l’atto sbagliato;
 - ignorare competenza o termine;
 - non bilanciare interessi;
 - dimenticare privacy, trasparenza o motivazione;
@@ -222,6 +230,8 @@ Schema di correzione:
 Se sbagli sempre lo stesso passaggio, quello diventa il tuo drill.
 
 ![Figura 23.5 - Usare il diario nelle diverse prove](../assets/chapter-23/05-diario-per-prove.png)
+
+*Figura 23.5 - Usare il diario nelle diverse prove*
 
 ## Flashcard dagli errori
 
@@ -255,7 +265,7 @@ Segnali:
 - errori aumentano dopo nuovi capitoli;
 - confondi istituti simili;
 - fai quiz corretti solo subito dopo lo studio;
-- all'orale perdi ordine;
+- all’orale perdi ordine;
 - le simulazioni peggiorano con il timer.
 
 Cause possibili:
@@ -274,7 +284,9 @@ Rimedio:
 4. registra errori;
 5. ripeti dopo 48 ore.
 
-![Figura 23.6 - Dall'errore al ripasso mirato](../assets/chapter-23/06-flashcard-ripasso-materia-peggiora.png)
+![Figura 23.6 - Dall’errore al ripasso mirato](../assets/chapter-23/06-flashcard-ripasso-materia-peggiora.png)
+
+*Figura 23.6 - Dall’errore al ripasso mirato*
 
 ## Diario e piano 30/60/90
 
@@ -347,7 +359,7 @@ Il cruscotto è completo solo se contiene almeno una prossima azione con data e 
 
 ## Da sapere in 5 righe
 
-1. L'errore è utile solo se produce una prossima azione.
+1. L’errore è utile solo se produce una prossima azione.
 2. Devi classificare la causa, non solo segnare la risposta giusta.
 3. Gli errori ricorrenti valgono più degli errori isolati.
 4. Flashcard, ripasso e simulazioni devono nascere dagli errori reali.
@@ -373,15 +385,17 @@ Decisione:
 - tempo: simulazione a due giri;
 - dettagli isolati: non priorità.
 
-Marta non deve "studiare tutto di più". Deve correggere i pattern.
+Marta non deve “studiare tutto di più”. Deve correggere i pattern.
 
 ![Figura 23.7 - Caso Marta: leggere i pattern](../assets/chapter-23/07-caso-marta-pattern-errori.png)
+
+*Figura 23.7 - Caso Marta: leggere i pattern*
 
 ## Domanda da commissario
 
 **perché il diario degli errori è più utile della semplice correzione della risposta?**
 
-Perché identifica la causa dell'errore e produce una decisione di studio. La risposta corretta dice che cosa era giusto; il diario dice che cosa devi fare dopo.
+Perché identifica la causa dell’errore e produce una decisione di studio. La risposta corretta dice che cosa era giusto; il diario dice che cosa devi fare dopo.
 
 ## Domanda-trappola
 
@@ -411,7 +425,7 @@ Poi conta le categorie. La categoria più frequente diventa il tuo prossimo bloc
 ## Errori tipici
 
 - Registrare solo il punteggio.
-- Scrivere "non sapevo" per ogni errore.
+- Scrivere “non sapevo” per ogni errore.
 - Correggere senza programmare ripasso.
 - Creare troppe flashcard e non ripeterle.
 - Non distinguere errore di concetto da errore di lettura.
@@ -428,8 +442,3 @@ Poi conta le categorie. La categoria più frequente diventa il tuo prossimo bloc
 - [[topics/diario-errori]]
 - [[topics/metodo-di-studio]]
 - [[topics/piano-30-60-90-giorni]]
-
-## Note di review
-
-- Valutare in impaginazione se la scheda diario e il cruscotto settimanale vanno ripetuti anche in appendice come tool compilabili.
-- Un'eventuale dashboard digitale deve estendere, non sostituire, il cruscotto cartaceo e conservarne almeno categoria, materia, causa, prossima azione, data ripasso ed esito del secondo tentativo.

@@ -26,7 +26,7 @@ last_compiled_from: ["sources/struttura-madre-il-metodo-bando.md", "sources/meto
 
 Preparare un concorso pubblico non significa semplicemente studiare molte ore. Significa usare bene quelle ore. Un candidato può leggere centinaia di pagine, sottolineare interi capitoli, seguire video e fare qualche quiz, ma arrivare alla prova senza sapere che cosa conta davvero, quali errori ripete e quale tipo di risposta gli verrà chiesta.
 
-Il problema non è la mancanza di materiali. Il problema è la mancanza di una sequenza. Molti candidati partono dal manuale perché è l'oggetto più visibile: si compra, si apre, si sottolinea. Nei primi giorni sembra di avanzare. Dopo qualche settimana, però, il programma resta enorme, le scadenze si avvicinano e i quiz mostrano lacune che non erano state previste.
+Il problema non è la mancanza di materiali. Il problema è la mancanza di una sequenza. Molti candidati partono dal manuale perché è l’oggetto più visibile: si compra, si apre, si sottolinea. Nei primi giorni sembra di avanzare. Dopo qualche settimana, però, il programma resta enorme, le scadenze si avvicinano e i quiz mostrano lacune che non erano state previste.
 
 Il punto di partenza corretto è diverso:
 
@@ -36,11 +36,13 @@ Questo capitolo porta il Metodo BANDO nella routine di studio. Le materie della 
 
 ![Figura 13.1 - Metodo di studio per concorsi: il Metodo BANDO trasforma bando, aree, nuclei, diario e output in una settimana governata.](../assets/chapter-13/01-mappa-metodo-studio-bando.png)
 
+*Figura 13.1 - Metodo di studio per concorsi: il Metodo BANDO trasforma bando, aree, nuclei, diario e output in una settimana governata.*
+
 ## Obiettivo del capitolo
 
-Alla fine del capitolo dovrai saper costruire una settimana di studio che non dipenda dall'umore del giorno. Dovrai saper leggere il bando, dividere il programma in aree, scegliere nuclei ad alta resa, studiare con richiamo attivo, registrare gli errori e produrre output simili alla prova.
+Alla fine del capitolo dovrai saper costruire una settimana di studio che non dipenda dall’umore del giorno. Dovrai saper leggere il bando, dividere il programma in aree, scegliere nuclei ad alta resa, studiare con richiamo attivo, registrare gli errori e produrre output simili alla prova.
 
-L'obiettivo non è avere il piano perfetto. È avere un piano che si corregge con i dati: risultati dei quiz, risposte scritte, simulazioni orali, argomenti dimenticati, tempi reali, errori ricorrenti.
+L’obiettivo non è avere il piano perfetto. È avere un piano che si corregge con i dati: risultati dei quiz, risposte scritte, simulazioni orali, argomenti dimenticati, tempi reali, errori ricorrenti.
 
 ## Mappa BANDO del metodo di studio
 
@@ -66,13 +68,15 @@ Il bando è la mappa del concorso. Prima di aprire un manuale estrai almeno cinq
 
 ![Figura 13.2 - Dal bando alla scheda concorso: estrarre prove, materie, vincoli e decisioni prima di costruire il calendario.](../assets/chapter-13/02-dal-bando-alla-scheda-concorso.png)
 
-Queste informazioni cambiano il metodo. Se il concorso prevede una preselettiva a quiz, uno scritto teorico-pratico e un orale, non puoi studiare come per un concorso solo per titoli o per una prova pratica. Se esiste una banca dati ufficiale, il piano cambia. Se sono previste penalità per risposta errata, cambia anche la strategia di simulazione. Se l'orale include inglese e informatica, devi allenare anche quelle parti come esposizione, non solo come quiz.
+*Figura 13.2 - Dal bando alla scheda concorso: estrarre prove, materie, vincoli e decisioni prima di costruire il calendario.*
+
+Queste informazioni cambiano il metodo. Se il concorso prevede una preselettiva a quiz, uno scritto teorico-pratico e un orale, non puoi studiare come per un concorso solo per titoli o per una prova pratica. Se esiste una banca dati ufficiale, il piano cambia. Se sono previste penalità per risposta errata, cambia anche la strategia di simulazione. Se l’orale include inglese e informatica, devi allenare anche quelle parti come esposizione, non solo come quiz.
 
 La domanda guida è:
 
 > Che cosa devo saper fare il giorno della prova?
 
-Non basta scrivere "diritto amministrativo". Devi capire se la prova chiede definizioni, articoli, procedure, casi pratici, collegamenti tra materie o rapidità nel riconoscere la risposta corretta.
+Non basta scrivere “diritto amministrativo”. Devi capire se la prova chiede definizioni, articoli, procedure, casi pratici, collegamenti tra materie o rapidità nel riconoscere la risposta corretta.
 
 ### Scheda concorso in una pagina
 
@@ -98,7 +102,7 @@ Se non riesci a compilare questa pagina, non sei ancora pronto a pianificare. De
 
 ## A - Aree: trasformare il programma in blocchi
 
-Dopo aver decodificato il bando, il programma deve essere diviso in aree. Un'area è un blocco omogeneo di preparazione. In un concorso amministrativo potresti avere:
+Dopo aver decodificato il bando, il programma deve essere diviso in aree. Un’area è un blocco omogeneo di preparazione. In un concorso amministrativo potresti avere:
 
 - diritto costituzionale;
 - diritto amministrativo;
@@ -113,11 +117,11 @@ Dopo aver decodificato il bando, il programma deve essere diviso in aree. Un'are
 
 Questa divisione serve a impedire che il programma resti una lista indistinta. Ogni area deve avere un peso, una priorità e una funzione.
 
-Non tutte le materie valgono allo stesso modo. Alcune generano più domande. Altre sono più difficili perché richiedono tempo di assimilazione. Altre sono strategiche perché collegano più parti del programma. Altre ancora sono accessorie, ma diventano decisive se hanno una soglia minima o se compaiono all'orale.
+Non tutte le materie valgono allo stesso modo. Alcune generano più domande. Altre sono più difficili perché richiedono tempo di assimilazione. Altre sono strategiche perché collegano più parti del programma. Altre ancora sono accessorie, ma diventano decisive se hanno una soglia minima o se compaiono all’orale.
 
 ### Calendario inverso
 
-La pianificazione parte dalla data della prova e torna indietro. Non chiederti solo "quanto devo studiare?". Chiediti: "quanto tempo resta per apprendere, consolidare, simulare e rifinire?".
+La pianificazione parte dalla data della prova e torna indietro. Non chiederti solo “quanto devo studiare?”. Chiediti: “quanto tempo resta per apprendere, consolidare, simulare e rifinire?”.
 
 Una distribuzione utile è questa:
 
@@ -129,6 +133,8 @@ Una distribuzione utile è questa:
 | Rifinitura | 15-20% | Simulazioni, drill mirati, recupero errori, orale. |
 
 ![Figura 13.3 - Calendario inverso: dalla data della prova si risale a setup, apprendimento base, consolidamento e rifinitura.](../assets/chapter-13/03-calendario-inverso.png)
+
+*Figura 13.3 - Calendario inverso: dalla data della prova si risale a setup, apprendimento base, consolidamento e rifinitura.*
 
 Queste percentuali non sono una legge. Servono a evitare due errori: restare troppo a lungo nella lettura o arrivare alle simulazioni senza basi.
 
@@ -160,20 +166,22 @@ Per studiare i nuclei usa una sequenza semplice:
 
 ![Figura 13.4 - SQ3R per i nuclei ad alta resa: survey, question, read, recite e review trasformano la lettura in verifica.](../assets/chapter-13/04-sq3r-nuclei-alta-resa.png)
 
-Lo studio diventa utile quando genera domande. Dopo aver letto "il responsabile del procedimento", chiediti:
+*Figura 13.4 - SQ3R per i nuclei ad alta resa: survey, question, read, recite e review trasformano la lettura in verifica.*
+
+Lo studio diventa utile quando genera domande. Dopo aver letto “il responsabile del procedimento”, chiediti:
 
 - chi lo individua?
 - quali funzioni svolge?
 - che cosa accade se non è individuato?
 - quali principi collega?
 - come può essere chiesto in un quiz?
-- come lo spiegherei all'orale?
+- come lo spiegherei all’orale?
 
-Studiare così riduce l'illusione di competenza. Capire mentre leggi non significa ricordare durante la prova.
+Studiare così riduce l’illusione di competenza. Capire mentre leggi non significa ricordare durante la prova.
 
 ## Active recall: la verifica viene prima della sicurezza
 
-Il richiamo attivo consiste nel provare a recuperare un'informazione senza guardare il testo. È scomodo perché mostra subito ciò che non sai. Proprio per questo funziona.
+Il richiamo attivo consiste nel provare a recuperare un’informazione senza guardare il testo. È scomodo perché mostra subito ciò che non sai. Proprio per questo funziona.
 
 Un ciclo efficace è:
 
@@ -181,20 +189,22 @@ Un ciclo efficace è:
 2. chiudi il manuale;
 3. scrivi o ripeti tre punti chiave;
 4. controlla il testo;
-5. correggi l'errore;
+5. correggi l’errore;
 6. trasformalo in flashcard o domanda.
 
 ![Figura 13.5 - Active recall e ripasso distribuito: il test costruisce apprendimento e programma il ritorno sugli errori.](../assets/chapter-13/05-active-recall-ripasso-distribuito.png)
+
+*Figura 13.5 - Active recall e ripasso distribuito: il test costruisce apprendimento e programma il ritorno sugli errori.*
 
 Non aspettare di sentirti pronto per testarti. Se aspetti, farai quiz troppo tardi. Il test non serve solo a misurare la preparazione: serve a costruirla.
 
 > [!WARNING]
 > **Errore tipico**
-> Dire "prima studio tutto, poi faccio quiz". Nei concorsi questo ordine è rischioso. I quiz e le domande devono entrare presto, perché rivelano come il bando trasforma la materia in prova.
+> Dire “prima studio tutto, poi faccio quiz”. Nei concorsi questo ordine è rischioso. I quiz e le domande devono entrare presto, perché rivelano come il bando trasforma la materia in prova.
 
 ## Ripasso distribuito e flashcard
 
-La memoria peggiora se lasci passare troppo tempo tra uno studio e il successivo. Il ripasso distribuito serve a tornare sull'informazione prima che diventi irrecuperabile.
+La memoria peggiora se lasci passare troppo tempo tra uno studio e il successivo. Il ripasso distribuito serve a tornare sull’informazione prima che diventi irrecuperabile.
 
 Non devi ripassare tutto ogni volta. Devi ripassare ciò che rischi di dimenticare:
 
@@ -206,11 +216,11 @@ Non devi ripassare tutto ogni volta. Devi ripassare ciò che rischi di dimentica
 - errori ripetuti nei quiz;
 - domande orali a cui rispondi in modo confuso.
 
-Una flashcard utile non chiede solo "che cos'è?". Può chiedere:
+Una flashcard utile non chiede solo “che cos’è?”. Può chiedere:
 
 | Tipo | Esempio |
 |---|---|
-| Definizione | Che cos'è il provvedimento amministrativo? |
+| Definizione | Che cos’è il provvedimento amministrativo? |
 | Differenza | Accesso documentale e accesso civico generalizzato: differenza essenziale. |
 | Sequenza | Quali passaggi compongono il procedimento? |
 | Eccezione | Quando una regola non si applica? |
@@ -222,7 +232,7 @@ Se una risposta è sbagliata o lenta, deve tornare presto. Se è corretta e rapi
 
 ## Blocchi di studio: teoria, quiz, ripasso, output
 
-La sessione ideale non è sempre "leggo per due ore". Una sessione completa alterna quattro momenti:
+La sessione ideale non è sempre “leggo per due ore”. Una sessione completa alterna quattro momenti:
 
 1. **teoria breve**, per capire;
 2. **richiamo attivo**, per verificare;
@@ -240,6 +250,8 @@ Esempio di blocco da 50 minuti:
 | 45-50 | Diario: errore, ripasso, prossimo passo. |
 
 ![Figura 13.6 - Blocco di studio da 50 minuti: obiettivo, teoria breve, richiamo, quiz o output e diario finale.](../assets/chapter-13/06-blocco-studio-50-minuti.png)
+
+*Figura 13.6 - Blocco di studio da 50 minuti: obiettivo, teoria breve, richiamo, quiz o output e diario finale.*
 
 Se hai poca energia, usa blocchi da 25 minuti. Se hai più tempo, unisci due blocchi con una pausa reale. Il punto non è idolatrare il timer: è evitare studio passivo interminabile.
 
@@ -289,24 +301,26 @@ Gli output principali sono:
 - mappe di collegamento;
 - piani di recupero.
 
-![Figura 13.7 - Diario, output e recupero: classificare l'errore permette di decidere drill, ripasso, recupero o taglio.](../assets/chapter-13/07-diario-output-recupero.png)
+![Figura 13.7 - Diario, output e recupero: classificare l’errore permette di decidere drill, ripasso, recupero o taglio.](../assets/chapter-13/07-diario-output-recupero.png)
+
+*Figura 13.7 - Diario, output e recupero: classificare l’errore permette di decidere drill, ripasso, recupero o taglio.*
 
 Ogni output dice qualcosa sulla qualità della preparazione. Se non riesci a produrre nulla, probabilmente hai studiato in modo troppo passivo.
 
 ## Errori come dati
 
-Non basta segnare "ho sbagliato". Devi capire il tipo di errore.
+Non basta segnare “ho sbagliato”. Devi capire il tipo di errore.
 
 | Errore | Segnale | Correzione |
 |---|---|---|
-| Lacuna | Non conoscevo l'argomento. | Studio mirato del nucleo. |
+| Lacuna | Non conoscevo l’argomento. | Studio mirato del nucleo. |
 | Confusione | Ho scambiato due istituti. | Tabella comparativa. |
 | Lettura | Ho letto male la domanda. | Routine di sottolineatura mentale. |
 | Memoria | Sapevo ma non recuperavo. | Flashcard e richiamo attivo. |
 | Tempo | Mi sono bloccato troppo. | Simulazioni con soglia di abbandono. |
 | Stress | Ho cambiato risposta senza motivo. | Regola di revisione e respirazione. |
 
-Quando un errore si ripete, diventa un'area debole. A quel punto non serve "studiare di più" in generale. Serve un drill mirato: poche domande, stesso nucleo, feedback immediato, ripetizione fino alla stabilità.
+Quando un errore si ripete, diventa un’area debole. A quel punto non serve “studiare di più” in generale. Serve un drill mirato: poche domande, stesso nucleo, feedback immediato, ripetizione fino alla stabilità.
 
 ## Poco tempo: che cosa fare e che cosa tagliare
 
@@ -322,6 +336,8 @@ Regola pratica:
 6. registra solo gli errori che può correggere prima della prova.
 
 Con 15 giorni non costruisci una preparazione enciclopedica. Costruisci una preparazione difendibile: nuclei, quiz, errori, orale essenziale, logistica.
+
+Per costruire simulazioni realistiche quando il tempo stringe, il ricettario digitale ha un protocollo dedicato nel modulo [[books/il-metodo-bando/chapters/simulazioni-concorsuali-dalla-preparazione-alla-prova|R10 - Simulazioni concorsuali]]: quando farle, come sceglierle e come leggerne il risultato.
 
 ## Recuperare giorni persi
 
@@ -344,11 +360,11 @@ Il candidato maturo non recupera tutto. Recupera ciò che cambia il risultato.
 
 ## Caso guidato
 
-Sara prepara un concorso per istruttore amministrativo comunale. All'inizio studia diritto amministrativo dal primo capitolo del manuale, due ore al giorno. Dopo tre settimane ha sottolineato molto, ma nei quiz sbaglia accesso, procedimento e organi comunali.
+Sara prepara un concorso per istruttore amministrativo comunale. All’inizio studia diritto amministrativo dal primo capitolo del manuale, due ore al giorno. Dopo tre settimane ha sottolineato molto, ma nei quiz sbaglia accesso, procedimento e organi comunali.
 
 Con il Metodo BANDO riparte dal bando. Scopre che la prova è a quiz, con orale successivo, e che pesano molto diritto amministrativo, enti locali, pubblico impiego e trasparenza. Divide il programma in aree, sceglie nuclei ad alta resa, trasforma ogni capitolo in domande e apre un diario.
 
-La settimana successiva non "studia di più". Studia meglio:
+La settimana successiva non “studia di più”. Studia meglio:
 
 - lunedì: procedimento amministrativo e 20 quiz;
 - martedì: enti locali e risposta orale da due minuti;
@@ -379,7 +395,7 @@ Scegli una materia del tuo bando e compila la griglia.
 |---|---|---|---|
 | | 1. 2. 3. | Quiz / risposta / orale / caso | |
 
-Poi trasforma uno dei tre nuclei in cinque domande. Se non riesci a formulare domande, significa che l'argomento è ancora troppo generico.
+Poi trasforma uno dei tre nuclei in cinque domande. Se non riesci a formulare domande, significa che l’argomento è ancora troppo generico.
 
 ## Da sapere in 5 righe
 
@@ -397,8 +413,3 @@ Poi trasforma uno dei tre nuclei in cinque domande. Se non riesci a formulare do
 - [[sources/struttura-madre-il-metodo-bando]]
 - [[topics/metodo-di-studio]]
 - [[topics/diario-errori]]
-
-## Note di review
-
-- Verificare in revisione finale se mantenere la sezione "Fonti consolidate" visibile al lettore o spostarla in apparato interno.
-- Il capitolo non contiene claim normativi puntuali: soglie, penalità e formati devono sempre essere ricondotti al bando specifico.

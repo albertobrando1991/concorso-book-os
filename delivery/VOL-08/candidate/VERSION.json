@@ -1,0 +1,13 @@
+{
+  "volume": "VOL-08",
+  "title": "ICT, digitale, cybersecurity e dati",
+  "version": "VOL-08-candidate-2026.08.12.1",
+  "candidate_date": "2026-08-12",
+  "source_commit": "701d0bb",
+  "normative_cutoff": "2026-08-12",
+  "page_count": 231,
+  "trim_inches": [6.69, 9.61],
+  "bleed": false,
+  "status": "publication-candidate",
+  "human_signoff": "pending-step-24"
+}

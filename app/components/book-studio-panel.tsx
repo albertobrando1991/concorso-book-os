@@ -12,9 +12,11 @@ import {
   WandSparkles
 } from "lucide-react"
 import type { ManualWriterMode, RevisionDiffSummary } from "@/src/server/agents/manual-writer-agent"
+import { moveTrailingHeadingToNextPage } from "@/src/book/pagination"
 import type { BookStudioChapter, BookStudioData, MarkdownBlock } from "@/src/server/book/book-preview"
 import { getPreviewBlockMetadata } from "@/src/server/book/book-preview-block-metadata"
 import { bookLayoutClass } from "@/src/server/book/book-layout-profile"
+import { normalizePageBoundaries } from "@/src/server/book/book-studio-page-boundaries"
 import { ricettarioModuleLabel } from "@/src/server/book/book-studio-labels"
 import type { WriterProvider } from "@/src/server/config"
 import {
@@ -217,7 +219,7 @@ export function BookStudioPanel({
     if (!measuredPages) return
 
     const animationFrame = window.requestAnimationFrame(() => {
-      const refined = refineRenderedPageOverflows(measuredPages, bookPagesRef.current)
+      const refined = normalizePageBoundaries(refineRenderedPageOverflows(measuredPages, bookPagesRef.current))
 
       if (refined !== measuredPages) {
         setMeasuredPages(refined)
@@ -483,7 +485,7 @@ export function BookStudioPanel({
           <div className="bookPreviewToolbar">
             <div>
               <strong>{data.title}</strong>
-              <span>Master cartaceo KDP 16,99 × 24,41 cm, testo giustificato | aggiornato {formatDate(data.updatedAt)}</span>
+              <span>Master cartaceo KDP 16,99 Ã— 24,41 cm, testo giustificato | aggiornato {formatDate(data.updatedAt)}</span>
             </div>
             <span className="studioBadge">{viewMode === "book" ? "vista libro" : "vista capitolo"}</span>
           </div>
@@ -1284,7 +1286,7 @@ function paginateMeasuredChapters(chapters: BookStudioChapter[], root: HTMLDivEl
 
       return Math.ceil(measuredHeight || estimateBlockCost(block)) + measuredLayoutSafetyCost(block)
     })
-    const chapterPages = paginateBlocksByHeight(chapter, blockHeights, pageBudget, firstHeaderHeight, runningHeaderHeight)
+    const chapterPages = normalizePageBoundaries(paginateBlocksByHeight(chapter, blockHeights, pageBudget, firstHeaderHeight, runningHeaderHeight))
 
     for (const page of chapterPages) {
       pages.push({ ...page, pageNumber: pageNumber++ })
@@ -1363,7 +1365,7 @@ function refineRenderedPageOverflows(pages: PreviewPage[], root: HTMLDivElement 
     return keepTrailingHeadingsWithNextPage(renumberPreviewPages(nextPages))
   }
 
-  return pages
+  return renumberPreviewPages(moveTrailingHeadingToNextPage(nextPages))
 }
 
 function renumberPreviewPages(pages: PreviewPage[]): PreviewPage[] {

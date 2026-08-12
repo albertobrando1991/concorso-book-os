@@ -9,7 +9,7 @@ entities: ["Metodo BANDO", "ConcorsoBook OS"]
 source_refs: []
 book_refs: ["vol-08-ict-digitale-cybersecurity-dati", "m-tr01-ict-trasformazione-digitale"]
 confidence: 1
-updated_at: 2026-08-05
+updated_at: 2026-08-12
 created_at: 2026-08-05
 review_required: false
 canonical: true
@@ -30,3 +30,5 @@ La scala alterna pochi ancoraggi ampi a sequenze ordinate di dettagli. Un elemen
 La composizione usa equilibrio asimmetrico, direzione chiara e spazio negativo attivo. Il filo concettuale è il servizio digitale pubblico come circuito verificabile: una disciplina immaginaria in cui architetture, dati, sicurezza e decisioni lasciano tracce comprensibili. Questo principio guida tanto una mappa di rete quanto una matrice di rischio o una scheda SLA, ma lascia a ogni artefatto una soluzione originale; il risultato deve essere analitico abbastanza da ispirare fiducia e umano abbastanza da sostenere studio, memoria e azione.
 
 La gerarchia affida il significato soprattutto a posizione, forma, contrasto e ritmo. Il testo nell'immagine è minimo: titoli brevi, verbi, numeri ed etichette indispensabili, composti in Arial e controllati parola per parola; le spiegazioni restano nel corpo Garamond e nelle didascalie editoriali. Ogni futuro asset deve rispettare il design system ConcorsoBook OS, il formato paperback KDP 6,69 × 9,61 pollici, i margini sicuri e la leggibilità a dimensione reale, con una seconda passata esclusivamente dedicata a precisione, crop, contrasto, bilanciamento, coerenza e qualità di stampa. Nessun elemento sopravvive se non rafforza comprensione o uso didattico.
+
+Nel Formato 2, la filosofia sostiene la scansione dei Nucleo ID, gli apparati `▣ Verifica` e la corrispondenza con l'indice analitico senza sostituirne la gerarchia editoriale. Diagrammi e mappe accompagnano il nucleo che spiegano; schede ed esercizi privilegiano campi realmente compilabili e non superano tre colonne compatte. Se una griglia richiede maggiore densità, viene divisa invece di ridurre il carattere o sacrificare il margine sicuro. Questa disciplina conserva continuità tra studio, applicazione e verifica, lasciando ogni soluzione visiva libera di adattarsi al contenuto.

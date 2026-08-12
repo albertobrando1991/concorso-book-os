@@ -9,15 +9,17 @@ entities: ["Camera di commercio", "Unioncamere", "Registro imprese"]
 source_refs: ["sources/servizi-imprese-regolazione-mercato-camere-commercio.md", "sources/verifica-ufficiale-m-fl03-03-2026-07-22.md", "sources/suap-commercio-polizia-amministrativa-locale.md", "sources/registro-imprese-rea-pubblicita-legale-dpr-581-1995.md", "sources/bandi-camerali-m-fl03-2026.md"]
 book_refs: ["m-fl03-camere-commercio", "vol-02-enti-locali-polizia-locale", "il-metodo-bando"]
 confidence: 0.82
-updated_at: 2026-07-22T23:59:00+02:00
+updated_at: 2026-08-08T23:20:00+02:00
 created_at: 2026-07-17T19:10:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "module-code-m-fl03", "professional-draft", "servizi-imprese"]
 book_id: m-fl03-camere-commercio
 outline_section: 3
 volume_chapter: 47
-draft_stage: professional-draft
+draft_stage: professional-draft-complete
+format_version: 2
+dati_operativi: []
 module_code: M-FL03
 module_family: funzioni-locali
 companion_to: il-metodo-bando
@@ -26,34 +28,7 @@ last_compiled_from: ["wiki/books/moduli/m-fl03-camere-commercio/index.md", "wiki
 
 # Servizi alle imprese, regolazione del mercato e tutela
 
-## Specifica struttura madre
-
-### Obiettivo
-Trasformare l'elenco dei servizi camerali in una mappa operativa: utente, interesse pubblico, procedimento, controllo, servizio digitale e output di prova.
-
-### Nuclei
-- Servizi alle imprese: informazione, assistenza, digitalizzazione, internazionalizzazione e nuova impresa.
-- Semplificazione amministrativa: ComUnica, SUAP telematico e strumenti digitali.
-- Regolazione del mercato: correttezza, trasparenza, fiducia e tutela degli operatori.
-- Metrologia legale come tutela della fede pubblica nei rapporti economici.
-- Mediazione, arbitrato, contratti tipo, sicurezza prodotti e protesti come aree da citare con prudenza.
-- Differenza tra promozione economica e funzione amministrativa di tutela.
-
-### Output operativo
-Mappa servizio-utente-interesse pubblico; caso guidato su richiesta dell'impresa; risposta orale su regolazione del mercato; mini-checklist servizio camerale.
-
-### Riferimenti consolidati
-- [[sources/servizi-imprese-regolazione-mercato-camere-commercio]]
-- [[sources/verifica-ufficiale-m-fl03-03-2026-07-22]]
-- [[sources/suap-commercio-polizia-amministrativa-locale]]
-- [[sources/bandi-camerali-m-fl03-2026]]
-
-## Scheda di lavoro
-Il testo evita l'effetto brochure. I servizi camerali non sono una vetrina di iniziative, ma funzioni pubbliche e attività amministrative. Ogni servizio risponde a quattro domande: chi è l'utente, quale interesse pubblico è tutelato, quale ufficio o procedimento interviene, quale output è visibile in prova.
-
-Nei bandi camerali questa area può generare domande su tutela del mercato, servizi promozionali, metrologia legale, comunicazione, sportello e digitalizzazione.
-
-## Testo editoriale
+## Guida al capitolo
 
 ### Apertura editoriale
 
@@ -83,22 +58,40 @@ Al termine del capitolo devi saper:
 | D - Diario | Quale errore annoto? | Attribuire alla Camera un potere non verificato o trattare un progetto temporaneo come funzione obbligatoria. |
 | O - Output | Che cosa devo saper fare? | Mappa servizio-utente-interesse pubblico, caso di sportello, risposta orale e classificazione di una richiesta. |
 
-### Servizi alle imprese: una funzione, non una brochure
+### Spiegazione teorica e applicazione
 
-Con l'espressione "servizi alle imprese" si indicano attività molto diverse: informazione, orientamento, supporto ai percorsi di digitalizzazione, accompagnamento a iniziative di sviluppo, accesso a dati e documenti, collegamento con reti e strumenti del sistema camerale. Il punto comune non è il nome del progetto, che può cambiare nel tempo, ma il destinatario: l'impresa o chi intende avviarla deve poter orientarsi tra adempimenti, opportunità e servizi pubblici disponibili.
+## N-FL03-03-01 · Servizi alle imprese, promozione e assistenza
+
+Con l'espressione "servizi alle imprese" si indicano attività molto diverse: informazione, orientamento, supporto ai percorsi di digitalizzazione, accompagnamento a iniziative di sviluppo, accesso a dati e documenti, collegamento con reti e strumenti del sistema camerale. A unirle non è il nome del progetto, che può cambiare nel tempo, ma il destinatario: l'impresa o chi intende avviarla deve poter orientarsi tra adempimenti, opportunità e servizi pubblici disponibili.
 
 In un concorso amministrativo non basta dire che la Camera "aiuta le imprese". Occorre specificare come. L'ufficio può fornire informazioni, rendere accessibili strumenti, gestire una richiesta, verificare requisiti di una procedura o indirizzare verso il canale competente. Non sostituisce il commercialista, il legale o il consulente dell'impresa; offre un servizio pubblico entro il proprio perimetro.
 
 | Famiglia di servizio | Utente prevalente | Interesse pubblico | Output riconoscibile |
 |---|---|---|---|
 | Informazione e orientamento | Impresa, aspirante imprenditore, professionista. | Accessibilità delle informazioni e corretto rapporto con la PA. | Informazione qualificata, rinvio al canale, guida al servizio. |
-| Documenti e dati | Impresa, altra PA, operatore economico. | Affidabilità e fruibilita dei dati pubblici. | Visura, certificato, fascicolo, dato o documento previsto. |
+| Documenti e dati | Impresa, altra PA, operatore economico. | Affidabilità e fruibilità dei dati pubblici. | Visura, certificato, fascicolo, dato o documento previsto. |
 | Digitalizzazione e semplificazione | Impresa e intermediario. | Riduzione degli adempimenti inutili, interoperabilità, tracciabilità. | Pratica telematica, servizio digitale, supporto al flusso. |
 | Promozione e assistenza | Impresa e territorio economico. | Sviluppo delle economie locali e accesso alle opportunità. | Avviso, percorso di assistenza, iniziativa, informazione. |
 
 La tabella non autorizza un automatismo. Un'iniziativa concreta può essere disponibile solo presso alcune Camere, in un certo periodo o per determinate imprese. In prova si descrive la funzione generale e si evita di promettere servizi, contributi o programmi non richiesti dal caso.
 
-### Semplificazione digitale: il servizio non cancella le competenze
+La natura pubblica del servizio impone di separare orientamento e consulenza. L'ufficio può spiegare finalità, destinatari, criteri e modalità di accesso a un'iniziativa; non sceglie la strategia economica dell'impresa e non garantisce che la domanda sarà accolta. Questa distinzione tutela imparzialità e correttezza della comunicazione.
+
+La prima operazione consiste nel qualificare il bisogno. Una richiesta generica di «aiuto per digitalizzarsi» può riguardare informazioni, accesso a un percorso, assistenza nell'uso di uno strumento o partecipazione a un avviso. Ciascuna ipotesi produce un output diverso. L'operatore formula domande mirate prima di indicare il servizio.
+
+Segue la verifica dell'offerta effettivamente disponibile. Le funzioni camerali hanno una cornice comune, ma progetti, risorse e destinatari possono variare nel tempo e fra territori. In una prova pratica non si inventa un programma: si descrive il metodo di istruttoria, precisando che disponibilità e requisiti vanno verificati sull'iniziativa vigente.
+
+Anche l'informazione deve essere imparziale. Se più strumenti possono rispondere al bisogno, l'ufficio chiarisce differenze e condizioni senza favorire arbitrariamente un operatore. Se la domanda esce dal perimetro camerale, indirizza al soggetto competente e spiega il motivo del rinvio. Un semplice «non è competenza nostra» non costituisce un buon servizio.
+
+Esempio: un aspirante imprenditore chiede informazioni su apertura dell'attività, finanziamento e presenza online. L'operatore separa il procedimento amministrativo, le eventuali iniziative promozionali e l'orientamento digitale. Non presenta i tre temi come un unico servizio e non promette contributi. La risposta indica per ogni piano funzione, canale e passaggio successivo.
+
+All'orale, la struttura più solida comprende definizione del servizio, interesse pubblico, attività dell'ufficio e limite. Nel caso scritto, gli stessi elementi diventano una sequenza: ascoltare, classificare, verificare, orientare e comunicare. La promozione resta così una funzione amministrativa leggibile, non una brochure di progetti.
+
+Il controllo finale consiste nel chiedersi se la risposta indichi davvero un servizio disponibile oppure soltanto una finalità astratta. «Sostenere le imprese» non basta: occorre precisare quale informazione o percorso viene offerto, a chi, con quali verifiche e senza promettere un risultato non ancora istruito.
+
+Questa precisione distingue sempre una risposta amministrativa concreta da uno slogan promozionale generico.
+
+## N-FL03-03-02 · Semplificazione digitale e raccordo con il SUAP
 
 ComUnica, Registro delle imprese, REA, strumenti di consultazione e servizi di cooperazione con i SUAP mostrano come il sistema camerale contribuisca alla semplificazione. Il vantaggio per l'utente è evidente: informazioni e pratiche possono circolare con modalità digitali, riducendo passaggi ripetitivi e rendendo più tracciabile il rapporto con la pubblica amministrazione.
 
@@ -110,9 +103,27 @@ Quando un utente domanda "dove devo presentare la pratica?", la risposta profess
 2. se serve una pratica camerale, un titolo amministrativo SUAP o entrambi;
 3. quale ufficio e quale canale digitale sono previsti per quel caso.
 
-Questa sequenza evita due errori opposti: scaricare l'utente da un ufficio all'altro senza spiegazioni oppure prendere in carico una richiesta che non appartiene alla Camera.
+Seguire questi passaggi evita due errori opposti: scaricare l'utente da un ufficio all'altro senza spiegazioni oppure prendere in carico una richiesta che non appartiene alla Camera.
 
-### Regolazione del mercato: perché riguarda una Camera di commercio
+La digitalizzazione modifica il modo in cui dati e pratiche circolano, non la disciplina che attribuisce le funzioni. Una piattaforma può ricevere documenti, trasmettere comunicazioni e rendere tracciabile il flusso; il provvedimento resta però riferibile all'amministrazione competente. Confondere infrastruttura e titolarità porta a indicare l'ente sbagliato.
+
+Il raccordo con Registro e REA mostra questa differenza. Un adempimento relativo all'attività produttiva può generare informazioni utili anche al sistema camerale, mentre una variazione della posizione d'impresa può accompagnarsi a un procedimento comunale. Lo scambio informativo riduce duplicazioni, ma i due piani conservano oggetto ed effetti propri.
+
+Per orientare l'utente servono quattro informazioni: fatto o attività interessata, risultato richiesto, amministrazione chiamata a decidere e canale previsto. Il nome del portale viene dopo. Se si parte dalla piattaforma, si rischia di trattare ogni pratica visualizzata nello stesso ambiente come se appartenesse a un solo procedimento.
+
+Un caso tipico riguarda l'apertura di un punto vendita. Il titolo o la comunicazione relativa all'esercizio dell'attività ricade nel percorso SUAP; la posizione dell'impresa può richiedere adempimenti camerali collegati. L'operatore distingue i passaggi, segnala l'eventuale cooperazione digitale e non promette che un solo invio produca automaticamente tutti gli effetti.
+
+La comunicazione finale deve essere comprensibile anche a chi non conosce l'architettura amministrativa. Può indicare: «questa parte riguarda il procedimento dell'attività; quest'altra aggiorna i dati camerali; i sistemi dialogano, ma ciascun ufficio svolge i controlli di competenza». La formula spiega senza scaricare sull'utente la complessità organizzativa.
+
+In prova, il candidato dimostra padronanza quando usa verbi precisi: presentare, trasmettere, verificare, istruire e decidere non sono sinonimi. La semplificazione riduce passaggi inutili e favorisce interoperabilità; non elimina responsabilità, controlli o necessità di qualificare correttamente la richiesta.
+
+Un secondo caso riguarda una pratica inviata attraverso un servizio digitale che coinvolge più amministrazioni. L'utente chiede alla Camera perché non abbia ancora ricevuto l'esito. L'operatore ricostruisce il flusso: verifica quale parte sia camerale, quale amministrazione debba concludere il procedimento e se vi siano comunicazioni disponibili. Non attribuisce il ritardo alla piattaforma in modo automatico e non annuncia un esito che dipende da un altro ufficio.
+
+La risposta può concludersi con una piccola mappa: domanda dell'impresa, procedimento competente, dato scambiato, controllo richiesto e comunicazione finale. Questa mappa rende visibile la cooperazione senza confondere i ruoli. Serve anche a individuare l'errore nel diario: «ho scambiato il punto di accesso digitale per l'amministrazione che decide».
+
+Prima di chiudere, l'operatore indica sempre chiaramente all'utente quale soggetto potrà fornire l'esito e attraverso quale canale seguirlo.
+
+## N-FL03-03-03 · Regolazione del mercato e strumenti di tutela
 
 Il mercato non funziona correttamente soltanto perché esistono imprese e contratti. Occorrono informazioni affidabili, strumenti di misura corretti, prodotti conformi e rapporti commerciali che non scarichino sui soggetti più deboli costi o rischi nascosti. La regolazione del mercato raccoglie queste esigenze di correttezza, trasparenza e tutela.
 
@@ -123,13 +134,29 @@ Le fonti Unioncamere richiamano, tra le aree di intervento, mediazione e arbitra
 | Mediazione e arbitrato | Una controversia blocca o rende costoso un rapporto economico. | Offrire o supportare strumenti di composizione alternativa delle controversie secondo le regole applicabili. | Non confondere mediazione o arbitrato con la decisione giudiziaria. |
 | Contratti tipo | Una clausola può creare squilibri o incertezza nei rapporti. | Favorire modelli e condizioni contrattuali trasparenti. | Non dire che ogni contratto tipo sostituisce la legge o un parere professionale. |
 | Sicurezza dei prodotti | Un prodotto può essere non conforme o pericoloso. | Informazione, vigilanza e controlli di mercato nei limiti della disciplina di settore. | Non attribuire automaticamente alla Camera ogni controllo o ogni sanzione. |
-| Metrologia legale | Una misura errata altera prezzo, quantita o prestazione. | Garantire affidabilità delle misure e lealta delle transazioni. | Non trasformare la risposta in un manuale tecnico sugli strumenti. |
+| Metrologia legale | Una misura errata altera prezzo, quantità o prestazione. | Garantire affidabilità delle misure e lealtà delle transazioni. | Non trasformare la risposta in un manuale tecnico sugli strumenti. |
 
 La differenza fra promozione e regolazione è essenziale. La promozione economica sostiene la capacità dell'impresa di crescere o cogliere opportunità; la regolazione protegge le condizioni in cui imprese e consumatori scambiano beni e servizi. Una Camera può operare in entrambe le aree, ma con funzioni, utenti e risultati diversi.
 
-### Metrologia legale: misure affidabili, scambi corretti
+La regolazione del mercato non coincide con la sola sanzione. Comprende attività preventive e informative, strumenti che riducono l'incertezza contrattuale e, quando la disciplina lo prevede, controlli o vigilanza. Il candidato deve ricostruire l'interesse protetto prima di descrivere l'attività dell'ufficio.
 
-La metrologia legale riguarda le misurazioni che l'ordinamento considera rilevanti per gli scambi economici e per altri interessi protetti. Il MIMIT la descrive come un insieme di procedure legislative, amministrative e tecniche finalizzate ad assicurare qualità e veridicità delle misure. La formula può sembrare tecnica, ma la logica è quotidiana: se la quantita venduta, il peso, il volume o un'altra misura determinano quanto il cliente paga, la misura deve essere affidabile.
+Mediazione e arbitrato appartengono all'area della composizione alternativa delle controversie, ma non sono equivalenti fra loro né sostituiscono indistintamente il giudice. Una risposta prudente ne indica la funzione generale e rinvia alla disciplina applicabile per presupposti, procedimento ed effetti. L'errore sarebbe promettere che ogni lite possa essere risolta nello stesso modo.
+
+I contratti tipo agiscono su un problema diverso: chiarezza e equilibrio delle condizioni contrattuali. Possono offrire modelli di riferimento, ma non sostituiscono la legge e non diventano automaticamente il contratto del singolo operatore. L'utente deve comprendere la funzione dello strumento e i limiti del suo impiego.
+
+Queste aree condividono un metodo di sportello. Prima si identifica il problema: controversia, clausola, prodotto o misura. Poi si individua l'interesse pubblico e l'ufficio competente. Infine si chiarisce quale output possa essere offerto, evitando di anticipare decisioni che richiedono un procedimento o una valutazione tecnica.
+
+Esempio: due imprese chiedono alla Camera di «decidere chi ha ragione» in una controversia. L'operatore non assume un potere giudicante generico. Verifica quale strumento di composizione sia disponibile, ne spiega natura e condizioni secondo le regole applicabili e distingue informazione preliminare, avvio della procedura ed eventuale esito.
+
+All'orale, il collegamento fra strumenti deve restare funzionale: rendere gli scambi più trasparenti, prevenire squilibri e offrire percorsi ordinati per alcune controversie. Nel caso pratico, invece, occorre dichiarare il limite della competenza. La Camera non è un'autorità indistinta del mercato; opera attraverso attribuzioni specifiche che lo step specialistico dovrà verificare nel testo vigente.
+
+La conclusione più sicura collega sempre strumento e problema. La mediazione riguarda la gestione di una controversia, il contratto tipo la chiarezza delle condizioni, la vigilanza un controllo previsto dalla disciplina. Elencarli senza questa relazione produce una risposta mnemonica e non dimostra capacità di orientamento amministrativo.
+
+La relazione fra bisogno, strumento e competenza è quindi l'elemento da rendere esplicito nella prova.
+
+## N-FL03-03-04 · Metrologia legale e affidabilità delle misure
+
+La metrologia legale riguarda le misurazioni che l'ordinamento considera rilevanti per gli scambi economici e per altri interessi protetti. Il MIMIT la descrive come un insieme di procedure legislative, amministrative e tecniche finalizzate ad assicurare qualità e veridicità delle misure. La formula può sembrare tecnica, ma la logica è quotidiana: se la quantità venduta, il peso, il volume o un'altra misura determinano quanto il cliente paga, la misura deve essere affidabile.
 
 Da qui deriva il legame con la fede pubblica. Chi acquista e chi vende devono poter confidare nel fatto che lo strumento di misura sia sottoposto alle verifiche e ai controlli previsti. Le attività di controllo, certificazione, sorveglianza e vigilanza menzionate dalle fonti camerali non sono un adempimento ornamentale: rendono verificabile la correttezza della transazione.
 
@@ -137,9 +164,27 @@ In prova non è necessario elencare tutte le categorie di strumenti o le norme t
 
 > La metrologia legale tutela consumatori e imprese assicurando l'affidabilità delle misure che incidono sugli scambi. Per questo le Camere e gli altri soggetti competenti intervengono, secondo la disciplina applicabile, con controlli e attività di vigilanza sugli strumenti di misura.
 
-La frase è prudente e completa: collega misura, mercato, tutela e competenza senza inventare il procedimento del caso concreto.
+È una risposta prudente e completa: collega misura, mercato, tutela e competenza senza inventare il procedimento del caso concreto.
 
-### Sicurezza dei prodotti e tutela del consumatore
+La misura assume rilievo pubblico quando incide sul contenuto economico dello scambio o su altri interessi tutelati. Il problema non è soltanto tecnico: una quantità inesatta può alterare prezzo e fiducia fra le parti. La metrologia legale crea quindi condizioni comuni perché operatori e consumatori possano fare affidamento sui risultati della misurazione.
+
+Occorre distinguere la regola metrologica dall'attività materiale sullo strumento. La disciplina stabilisce soggetti, obblighi, verifiche e controlli; l'operatore amministrativo qualifica la richiesta e individua il percorso competente. Il capitolo non descrive procedure tecniche perché cambiano secondo strumento e normativa applicabile.
+
+In un caso di sportello, una contestazione sulla pesatura non autorizza l'ufficio a dichiarare subito che lo strumento sia irregolare. Si raccolgono dati sull'operatore, sullo strumento e sulla circostanza segnalata; poi si individua il servizio competente. Accertamento ed eventuali conseguenze seguono la disciplina settoriale.
+
+La distinzione fra informazione, controllo e decisione è decisiva. L'informazione spiega regole e canali; il controllo verifica fatti o requisiti; la decisione produce l'esito previsto dall'ordinamento. Un candidato che fonde i tre momenti rischia di attribuire al primo contatto con l'utente effetti che richiedono un'istruttoria.
+
+Esempio: un esercente domanda come dimostrare l'affidabilità dello strumento usato nelle vendite. La risposta non consiste in una generica rassicurazione. L'operatore chiarisce quale servizio o verifica debba essere consultato, quali elementi identificano il caso e che la conformità dipende dagli accertamenti previsti, senza inventare scadenze o modelli.
+
+Nella risposta orale bastano quattro passaggi: definizione, interesse protetto, attività dei soggetti competenti e cautela sul caso concreto. Nello scritto si aggiunge il comportamento amministrativo: acquisire gli elementi, classificare la richiesta, inviare al servizio competente e comunicare che l'esito dipende dalla verifica. Questa struttura mantiene il tema accessibile senza impoverirlo.
+
+La metrologia incide anche sulla concorrenza leale. Un operatore che usa misure affidabili deve poter competere senza subire il vantaggio indebito di chi rappresenta quantità inesatte. Tutela del consumatore e correttezza fra imprese convergono quindi nello stesso interesse alla veridicità della misurazione.
+
+Per il diario degli errori è utile distinguere due formule. «La Camera controlla tutti gli strumenti» è troppo ampia; «le Camere e gli altri soggetti competenti svolgono le attività previste dalla disciplina applicabile» conserva il principio senza inventare il riparto. Se la traccia chiede uno specifico strumento, occorre verificare la normativa settoriale prima di dettagliare controlli o conseguenze.
+
+Un ultimo controllo riguarda il linguaggio. Termini come verifica, vigilanza, sorveglianza e certificazione non sono intercambiabili. Nel capitolo indicano famiglie di attività; nel caso reale assumono il significato attribuito dalla fonte competente. Il candidato può citarli nel quadro generale, ma deve evitare di costruire una procedura tecnica per analogia.
+
+## N-FL03-03-05 · Sicurezza dei prodotti, segnalazioni e caso di sportello
 
 La tutela del mercato riguarda anche i prodotti immessi in commercio. Le fonti Unioncamere richiamano funzioni di vigilanza dirette a contrastare prodotti non conformi o pericolosi e a verificare il rispetto degli obblighi degli operatori della catena di fornitura. Il candidato deve riconoscere il criterio: non si tutela soltanto il singolo acquirente, ma la concorrenza leale tra imprese che rispettano le regole e la fiducia generale nel mercato.
 
@@ -165,14 +210,14 @@ Una risposta debole elenca servizi generici, promette un contributo e indica la 
 | Metrologia legale | La contestazione riguarda una misura che incide sullo scambio. | Raccogliere gli elementi utili e indirizzare al servizio o al canale competente, spiegando che verifiche e controlli dipendono dalla disciplina applicabile. |
 | Apertura del punto vendita | La domanda riguarda un titolo amministrativo per l'attività produttiva. | Distinguere il procedimento SUAP dall'eventuale adempimento camerale e indicare il canale corretto. |
 
-La lezione del caso è semplice: la stessa impresa può essere utente di un servizio promozionale, soggetto interessato da una regola di tutela del mercato e destinataria di un procedimento amministrativo comunale. L'operatore non risponde con una formula unica; classifica la domanda e costruisce un percorso comprensibile.
+Il caso mostra un dato concreto: la stessa impresa può essere utente di un servizio promozionale, soggetto interessato da una regola di tutela del mercato e destinataria di un procedimento amministrativo comunale. L'operatore non risponde con una formula unica; classifica la domanda e costruisce un percorso comprensibile.
 
 ### Da sapere in 5 righe
 
 - I servizi alle imprese comprendono informazione, assistenza, documenti, digitalizzazione e iniziative di sviluppo, ma non trasformano la Camera in un consulente privato.
 - La promozione economica sostiene l'accesso delle imprese a opportunità; la regolazione del mercato tutela correttezza, trasparenza e fiducia negli scambi.
 - Mediazione, contratti tipo, sicurezza dei prodotti e metrologia sono aree diverse: ogni caso richiede la propria disciplina e il proprio ufficio competente.
-- La metrologia legale rende affidabili le misure rilevanti negli scambi e protegge consumatori, imprese e lealta delle transazioni.
+- La metrologia legale rende affidabili le misure rilevanti negli scambi e protegge consumatori, imprese e lealtà delle transazioni.
 - I servizi digitali collegano anche Camera e SUAP, ma non rendono intercambiabili le competenze.
 
 ### Domanda da commissario
@@ -181,7 +226,7 @@ La lezione del caso è semplice: la stessa impresa può essere utente di un serv
 
 Una risposta ordinata può essere questa:
 
-> Le Camere di commercio svolgono, nei limiti delle competenze previste, funzioni che favoriscono la correttezza e la trasparenza dei rapporti economici. Le aree possono comprendere strumenti di composizione delle controversie, contratti tipo, sicurezza dei prodotti, metrologia legale e informazione agli operatori. La finalità è tutelare la fiducia nel mercato e la lealta degli scambi, distinguendo sempre l'attività di servizio, l'eventuale controllo e la competenza dell'autorità chiamata a decidere nel caso concreto.
+> Le Camere di commercio svolgono, nei limiti delle competenze previste, funzioni che favoriscono la correttezza e la trasparenza dei rapporti economici. Le aree possono comprendere strumenti di composizione delle controversie, contratti tipo, sicurezza dei prodotti, metrologia legale e informazione agli operatori. La finalità è tutelare la fiducia nel mercato e la lealtà degli scambi, distinguendo sempre l'attività di servizio, l'eventuale controllo e la competenza dell'autorità chiamata a decidere nel caso concreto.
 
 Questa risposta evita sia il catalogo di sigle sia l'attribuzione indiscriminata di poteri alla Camera.
 
@@ -227,19 +272,84 @@ Soluzione guidata:
 
 Quando una risposta è incerta, annota nel diario degli errori: "confondo promozione e tutela del mercato" oppure "attribuisco alla Camera un potere di controllo senza verificare la fonte".
 
-### Riferimenti consolidati
+## ▣ Verifica
 
-- [[sources/servizi-imprese-regolazione-mercato-camere-commercio]]
-- [[sources/verifica-ufficiale-m-fl03-03-2026-07-22]]
-- [[sources/suap-commercio-polizia-amministrativa-locale]]
-- [[sources/registro-imprese-rea-pubblicita-legale-dpr-581-1995]]
-- [[sources/bandi-camerali-m-fl03-2026]]
-- [[topics/camere-commercio]]
-- [[entities/camera-di-commercio]]
-- [[entities/unioncamere]]
+### Quiz 1
 
-### Note di review
+Quale affermazione descrive correttamente i servizi alle imprese?
 
-- La verifica ufficiale del 22 luglio 2026 conferma il quadro generale su promozione, regolazione del mercato, metrologia, sicurezza dei prodotti e cooperazione con i SUAP. Prima della pubblicazione verificare la disciplina puntuale per ogni settore, compresi eventuali poteri di controllo, termini e sanzioni.
-- Non presentare programmi, avvisi o piattaforme temporanee come servizi permanenti di ogni Camera. Il bando target e il sito della Camera che assume restano decisivi per individuare l'area di assegnazione.
-- Il capitolo non sostituisce le fonti speciali su mediazione, sicurezza dei prodotti, metrologia e commercio: svilupparle soltanto quando richieste dal bando con fonti aggiornate.
+A. Sono consulenze private rese dalla Camera.
+B. Sono attività pubbliche di informazione, orientamento e assistenza entro le competenze dell'ente.
+C. Garantiscono il successo commerciale dell'impresa.
+D. Sono identici presso ogni Camera e in ogni periodo.
+
+**Risposta corretta: B.** La Camera opera per finalità pubbliche e nei limiti delle iniziative disponibili; non sostituisce i professionisti dell'impresa e non garantisce risultati economici.
+
+### Quiz 2
+
+La cooperazione digitale fra Camera e SUAP comporta che:
+
+A. la piattaforma assorba tutte le competenze;
+B. la Camera rilasci ogni titolo amministrativo;
+C. dati e comunicazioni possano circolare, mentre le competenze restano distinte;
+D. l'impresa possa scegliere liberamente quale ente decide.
+
+**Risposta corretta: C.** Il canale tecnico semplifica il flusso, ma non modifica la titolarità del procedimento.
+
+### Quiz 3
+
+Qual è la distinzione principale tra promozione economica e regolazione del mercato?
+
+A. La promozione sostiene l'accesso a servizi e opportunità; la regolazione tutela correttezza e affidabilità degli scambi.
+B. La promozione è privata e la regolazione è sempre penale.
+C. La regolazione riguarda soltanto la pubblicità commerciale.
+D. Non esiste alcuna differenza.
+
+**Risposta corretta: A.** Le due aree possono riguardare le stesse imprese, ma rispondono a interessi pubblici e attività amministrative differenti.
+
+### Quiz 4
+
+Che cosa tutela la metrologia legale nel perimetro del capitolo?
+
+A. La strategia commerciale dell'impresa.
+B. L'affidabilità delle misure rilevanti negli scambi e negli altri interessi protetti.
+C. Ogni controversia contrattuale.
+D. Soltanto la manutenzione privata degli strumenti.
+
+**Risposta corretta: B.** Misure affidabili sostengono trasparenza, tutela del consumatore e lealtà delle transazioni; procedure e controlli dipendono dalla disciplina applicabile.
+
+### Quiz 5
+
+Un consumatore segnala un prodotto che ritiene non conforme. Qual è il primo comportamento corretto?
+
+A. Dichiarare subito la violazione e la sanzione.
+B. Raccogliere gli elementi essenziali e individuare ufficio o autorità competente.
+C. Promettere il sequestro del prodotto.
+D. Inviare sempre la segnalazione al SUAP.
+
+**Risposta corretta: B.** La segnalazione deve essere classificata; accertamenti, misure e sanzioni richiedono competenza e disciplina settoriale.
+
+### Quiz 6
+
+Mediazione e arbitrato:
+
+A. coincidono con la decisione del giudice;
+B. sono sempre obbligatori per ogni controversia;
+C. sono strumenti di composizione alternativa da inquadrare secondo le regole applicabili;
+D. attribuiscono alla Camera un potere sanzionatorio generale.
+
+**Risposta corretta: C.** Non vanno confusi con il processo né presentati come soluzioni universali indipendenti dalla disciplina del caso.
+
+### Caso finale ragionato
+
+Una piccola impresa chiede accesso a un percorso di digitalizzazione, riferisce una contestazione sulla pesatura dei prodotti venduti e vuole aprire un nuovo punto vendita. Come deve rispondere l'operatore?
+
+**Soluzione.** La richiesta va scomposta. Per la digitalizzazione si verificano servizio disponibile, destinatari, criteri e canale senza promettere l'ammissione. La contestazione sulla pesatura richiama la metrologia legale: si raccolgono gli elementi e si indirizza al servizio competente, senza anticipare l'esito del controllo. L'apertura del punto vendita richiede la verifica del procedimento SUAP e degli eventuali adempimenti camerali collegati. La comunicazione finale distingue i tre percorsi, i relativi soggetti e gli output attesi.
+
+### Riferimenti normativi e professionali essenziali
+
+- legge 29 dicembre 1993, n. 580, nel testo vigente, per le funzioni camerali;
+- pagine istituzionali di Unioncamere dedicate a promozione e assistenza alle imprese, regolazione del mercato e sicurezza dei prodotti;
+- documentazione del Ministero delle Imprese e del Made in Italy sulla metrologia legale;
+- portale impresainungiorno per i servizi di cooperazione con i SUAP;
+- disciplina settoriale applicabile a mediazione, arbitrato, sicurezza dei prodotti e controlli, quando richiesta dal bando.

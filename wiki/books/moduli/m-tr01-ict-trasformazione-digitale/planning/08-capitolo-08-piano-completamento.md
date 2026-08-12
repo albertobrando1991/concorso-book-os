@@ -305,3 +305,22 @@ Budget orientativo: 5.200-5.600 parole, tabelle, schemi, caso ed esercizi inclus
 - IAM, crittografia, logging e incident response restano nel capitolo 9;
 - esempi e casi applicano concetti già spiegati e non includono procedure offensive;
 - fonti tecniche mancanti e review specialistiche restano aperte finché non eseguite.
+
+## Addendum retrofit Format 2 - step 08 del 2026-08-11
+
+Il testo legacy e conservato e riorganizzato in sei nuclei stabili. Il retrofit non amplia il perimetro verso risposta all'incidente, IAM, crittografia, backup o procurement: questi argomenti restano nei capitoli 9, 7 e 12.
+
+| Nucleo ID | Titolo reader-facing | Funzione didattica | Output e verifica |
+| --- | --- | --- | --- |
+| `N-TR01-08-01` | Obiettivi di sicurezza e asset | Individuare valore, proprieta e dipendenze dell'asset. | Classificazione asset-proprieta e quiz 1. |
+| `N-TR01-08-02` | Minacce, vulnerabilita e scenari | Costruire la catena causale da minaccia a impatto. | Scenario del portale e quiz 2. |
+| `N-TR01-08-03` | Valutazione e trattamento del rischio | Motivare probabilita, impatto, rischio inerente e residuo. | Matrice 3x3, registro e quiz 3. |
+| `N-TR01-08-04` | Controlli e difesa per livelli | Scegliere controlli e usare il NIST CSF come mappa di outcome. | Piano di trattamento e quiz 4. |
+| `N-TR01-08-05` | Threat modeling e vulnerabilita | Collegare flussi, confini, priorita e remediation. | Registro vulnerabilita e quiz 5. |
+| `N-TR01-08-06` | Secure SDLC e software supply chain | Governare sviluppo, dipendenze, pipeline e artefatti. | Scheda di filiera e quiz 6. |
+
+La verifica e collocata dopo il sesto nucleo e comprende almeno sei quiz commentati, un caso guidato e il laboratorio della risk matrix. Ogni nucleo ha budget minimo di 600 parole; il capitolo usa almeno 4.200 parole.
+
+### Audit e debito tecnico separati dalla copertura didattica
+
+La matrice dichiara `completo` soltanto per il contratto del lettore: definizione, funzione, inquadramento, elementi, distinzioni, conseguenze, caso, errore e verifica. Non equivale alla chiusura dell'audit specialistico. Gli step 13-18 devono riesaminare, al cut-off del volume, ACN/NIS2, edizioni NIST e OWASP, semantica CVSS/CVE/CWE, priorita delle vulnerabilita, Secure SDLC e supply-chain security. Framework volontari non sono obblighi generali della PA italiana.

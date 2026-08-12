@@ -396,3 +396,11 @@ Le tabelle devono restare leggibili nel paperback KDP 6,69 × 9,61 in. La scheda
 ## 18. Esito del piano
 
 Il piano è pronto. Lo step 09 può sviluppare la parte tecnica solo dopo aver creato la source note specialistica sul procurement ICT e aver verificato il quadro contrattuale vigente. La disciplina generale resta nel VOL-01; procedure e appalti avanzati restano nel VOL-09. Il capitolo 12 deve concentrarsi sulla progettazione tecnica della prestazione e sul governo verificabile del fornitore lungo tutto il ciclo di vita.
+
+## Addendum retrofit Format 2 — 11 agosto 2026
+
+Il retrofit conserva la lezione e gli strumenti già validi, ma li ricompone in sette nuclei con identificativi stabili: `N-TR01-12-01` fabbisogno e strategia; `02` requisiti e capitolato; `03` SLA, SLI e KPI; `04` governo dell'esecuzione; `05` sicurezza, dati e filiera; `06` modifiche, rilasci e continuità; `07` lock-in, portabilità, reversibilità ed uscita. Ogni nucleo sviluppa teoria, distinzione, conseguenza, applicazione e controllo; nessuno rinvia genericamente a VOL-01 o VOL-09.
+
+Il blocco `▣ Verifica` segue il settimo nucleo e raccoglie sei quiz commentati, il caso del servizio cloud comunale e strumenti compilabili: matrice requisito-accettazione-evidenza, scheda SLA, registro delle dipendenze e traccia di exit plan. Il budget operativo è di almeno 600 parole per nucleo, sette nuclei, sei quiz e un caso ragionato. Il rinvio a VOL-01 resta circoscritto alla disciplina comune dei contratti; VOL-09/M-TR02 è soltanto un approfondimento avanzato, non una condizione per comprendere il governo tecnico del fornitore.
+
+La fonte specialistica unitaria e la topic page previste dal piano sono presenti. Restano debiti mobili da verificare negli step 13-18: testo vigente del Codice e allegati, indicazioni ANAC/AgID/Consip, disciplina privacy del caso, subfornitura, qualificazione cloud e dati operativi. Il testo non fisserà soglie, penali, termini o clausole modello.
