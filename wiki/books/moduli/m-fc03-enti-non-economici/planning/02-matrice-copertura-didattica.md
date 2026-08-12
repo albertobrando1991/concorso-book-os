@@ -685,3 +685,46 @@ I sei nuclei presentano teoria autonoma, applicazione e verifica e superano la s
 ## Esito Appendice E
 
 I sei nuclei presentano teoria autonoma, applicazione e verifica e superano la soglia dimensionale. Tabelle, test, scheda, casi, esercizio, rubrica e quiz applicano concetti già spiegati senza sostituirli. Non risultano dimensioni vuote, dipendenze da materiali interni o rinvii generici; la destinazione è sempre determinata dal profilo e dalla materia dominante e deve essere verificata sugli atti della singola procedura.
+
+## Assegnazione pipeline - Appendice F
+
+| Famiglia/profilo | Materia | Concetto/sotto-concetti | Frequenza/peso | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa | Destinazione rinvio |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| M-FC03/amministrativi e assistenti sociali INAIL | Materie integrative INAIL/RIPAM | Core/delta; UE; civile; lavoro; legislazione sociale; sicurezza; finanza; processo civile; reati PA; orientamento sociale | alta nel bando RIPAM/INAIL 2024 | [[sources/m-fc03-bando-ripam-inail-308-funzionari-assistenti-sociali-2024]]; [[sources/diritto-civile-obbligazioni-contratti-m-fc02-2026-07-17]]; [[sources/d-lgs-9-aprile-2008-n-81-salute-sicurezza-lavoro]]; [[sources/delitti-contro-pa-codice-penale-2026]] | cap. appendice-f-materie-integrative-inail-ripam | Sei nuclei autonomi, con teoria completa nel perimetro integrativo e confine professionale esplicito | Tabelle, casi, domande-trappola, esercizi e laboratorio | Quiz, orale, caso e piano di studio | Q:7 C:3 E:1 - Quiz 1-7, casi guidati e caso Marta | completo | Audit specialistico di vigenza e fonti professionali allo step 15 | Preparazione professionale sociale dedicata quando richiesta analiticamente dal bando |
+
+## Appendice F - overlay Format 2
+
+| Nucleo ID | Famiglia/profilo | Materia | Concetto/sotto-concetti | Fonti consolidate | Copertura teorica | Applicazione | Output | Verifica | Stato | Destinazione rinvio |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FC03-19-01 | tutti | Perimetro | Core, delta ente, integrazione di bando, specialismo e priorità | [[sources/m-fc03-bando-ripam-inail-308-funzionari-assistenti-sociali-2024]] | Definisce quattro livelli e criterio di priorità | Tabella, caso Elena e scheda materia | Analisi bando, piano, quiz e orale | Q:1 C:1 E:1 - Quiz 1 e caso Elena | completo | Core nel volume principale; delta in M-FC03 |
+| N-FC03-19-02 | amministrativi | UE e civile | Istituzioni, atti, effetti; soggetti, obbligazioni, contratti, adempimento, invalidità e rimedi | [[sources/diritto-civile-obbligazioni-contratti-m-fc02-2026-07-17]] | Spiega categorie, distinzioni ed effetti nel perimetro essenziale | Tabelle, caso ordine/fattura ed esercizio | Quiz, orale e caso | Q:1 C:2 E:1 - Quiz 2, casi e esercizio | completo | Approfondimento specialistico solo se richiesto dal bando |
+| N-FC03-19-03 | amministrativi | Lavoro e sicurezza | Rapporto, previdenza, assistenza, prevenzione, ruoli e confine INAIL | [[sources/d-lgs-9-aprile-2008-n-81-salute-sicurezza-lavoro]]; [[sources/m-fc03-inl-vigilanza-lavoro-previdenziale]] | Distingue rapporti e sistema prevenzionistico | Tabella dei ruoli, casi rischio e matrice diagnostica | Quiz, orale, caso e situazionale | Q:1 C:2 E:1 - Quiz 3, casi e mini-esercizio | completo | Capitolo 4 per ordinamento e tutela INAIL |
+| N-FC03-19-04 | amministrativi | Finanza e processo civile | Entrate, spese, funzioni; giurisdizione, competenza, cognizione, cautela ed esecuzione | [[sources/legge-31-dicembre-2009-n-196-contabilita-finanza-pubblica]]; [[sources/principi-costituzionali-finanza-pubblica-art-81-97-119]] | Definisce piani economico-contabili e sequenza processuale | Confronti, recupero coattivo ed esercizio | Quiz, orale e classificazione | Q:1 C:1 E:1 - Quiz 4, caso ed esercizio | completo | Processo civile specialistico fuori dal perimetro M-FC03 |
+| N-FC03-19-05 | amministrativi e sociali | Reati contro la PA | Qualifiche, peculato, destinazione indebita, concussione, induzione, corruzione e responsabilità | [[sources/delitti-contro-pa-codice-penale-2026]] | Spiega soggetti, condotte, distinzioni e quadro 2024 | Tabella diagnostica, regalo al dipendente e scenari | Quiz, orale, caso e situazionale | Q:2 C:2 E:1 - Quiz 5/7 e casi | completo | Audit penale di vigenza allo step 15 |
+| N-FC03-19-06 | assistenti sociali | Orientamento professionale | Processo di aiuto, procedimento, rete, dati, indicatori, qualità ed esiti | [[sources/m-fc03-bando-ripam-inail-308-funzionari-assistenti-sociali-2024]]; [[sources/servizi-sociali-educativi-enti-locali]] | Delimita la competenza e spiega i nuclei orientativi | Tabella area/confine, caso persona e esercizio | Quiz, orale, caso e piano professionale | Q:1 C:2 E:1 - Quiz 6, casi e Verifica | completo | Preparazione professionale dedicata per metodi e legislazione specialistica |
+
+## Checklist dimensionale - Appendice F
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso prova | Errore | Verifica | Fonti | Tracciabilita |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-FC03-19-01 | ✓ core e delta | ✓ dimensionare lo studio | ✓ bando INAIL/RIPAM | ✓ quattro livelli e output | ✓ comune/delta/specialismo | ✓ priorità proporzionata | ✓ caso Elena | ✓ quiz, orale, piano | ✓ volume uguale peso | ✓ Quiz 1 | ✓ fonti in riga | ✓ frontmatter e corpo leggibile |
+| N-FC03-19-02 | ✓ atti UE, obbligazione e contratto | ✓ qualificare fonte e rapporto | ✓ UE e Codice civile | ✓ istituzioni, soggetti, prestazione e rimedi | ✓ regolamento/direttiva; contratto/obbligazione | ✓ effetto e rimedio corretto | ✓ ordine e fattura | ✓ quiz, orale e caso | ✓ fattura uguale credito | ✓ Quiz 2 | ✓ fonti in riga | ✓ frontmatter e norme leggibili |
+| N-FC03-19-03 | ✓ lavoro, previdenza, assistenza e sicurezza | ✓ separare tutele e prevenzione | ✓ D.Lgs. 81/2008 e INAIL | ✓ ruoli, rischi, informazione e formazione | ✓ prevenzione/assicurazione | ✓ segnalazione e responsabilità | ✓ ostacolo in ufficio | ✓ quiz, orale e caso | ✓ RLS sostituisce datore | ✓ Quiz 3 | ✓ fonti in riga | ✓ frontmatter e norme leggibili |
+| N-FC03-19-04 | ✓ finanza e processo | ✓ classificare scelta e fase | ✓ Costituzione, L. 196/2009 e giurisdizione | ✓ entrate, spese, funzioni, soggetti e fasi | ✓ finanza/contabilità; cognizione/esecuzione | ✓ categoria e tutela corretta | ✓ recupero coattivo | ✓ quiz, orale e caso | ✓ bilancio uguale finanza | ✓ Quiz 4 | ✓ fonti in riga | ✓ frontmatter e norme leggibili |
+| N-FC03-19-05 | ✓ qualifiche e fattispecie | ✓ qualificare senza automatismi | ✓ Codice penale vigente | ✓ soggetto, condotta, utilità ed elemento soggettivo | ✓ costrizione/induzione/accordo | ✓ responsabilità distinta | ✓ regalo e scenari | ✓ quiz, orale e situazionale | ✓ irregolarità uguale reato | ✓ Quiz 5/7 | ✓ fonti in riga | ✓ frontmatter e articoli leggibili |
+| N-FC03-19-06 | ✓ processo di aiuto e competenza | ✓ delimitare il profilo | ✓ bando e sistema sociale | ✓ valutazione, progetto, rete, dati e indicatori | ✓ presa in carico/procedimento; output/esito | ✓ raccordo senza sconfinamento | ✓ caso persona/famiglia | ✓ quiz, orale e caso | ✓ persone come etichette | ✓ Quiz 6 e caso finale | ✓ fonti in riga | ✓ frontmatter e riferimenti leggibili |
+
+## Delta step 10 - Appendice F
+
+| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
+| --- | --- | --- | --- | --- |
+| N-FC03-19-01 | non assegnato | Assegnati core, delta, priorità e output | completo | Heading Core, delta e priorità; Quiz 1 |
+| N-FC03-19-02 | non assegnato | Assegnate teoria UE/civile, distinzioni e casi | completo | Heading UE e diritto civile; Quiz 2 |
+| N-FC03-19-03 | non assegnato | Assegnati lavoro, legislazione sociale, sicurezza e confine INAIL | completo | Heading Lavoro, legislazione sociale e sicurezza; Quiz 3 |
+| N-FC03-19-04 | non assegnato | Assegnate scienze delle finanze e sequenza processuale | completo | Heading Scienze delle finanze e processo civile; Quiz 4 |
+| N-FC03-19-05 | non assegnato | Assegnati qualifiche, reati, responsabilità e quadro vigente | completo | Heading Reati contro la PA; Quiz 5/7 |
+| N-FC03-19-06 | non assegnato | Assegnato orientamento professionale delimitato | completo | Heading Profilo assistente sociale; Quiz 6 e caso finale |
+
+## Esito Appendice F
+
+I sei nuclei presentano teoria autonoma, applicazione e verifica e superano la soglia dimensionale. Tabelle, casi, esercizi e quiz applicano concetti già spiegati senza sostituirli. Non risultano dimensioni vuote, dipendenze da materiali interni o dati operativi non tracciati; il profilo sociale resta esplicitamente delimitato come orientamento e richiede preparazione professionale dedicata quando il bando la assegna analiticamente.
