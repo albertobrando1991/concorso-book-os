@@ -2844,6 +2844,510 @@
       "reviewer": "codex-step15-didactic-batch-c",
       "gateId": "step-15",
       "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-10-01",
+      "dimension": "application",
+      "evidenceQuote": "Un esempio utile riguarda l'indirizzo del richiedente. Il dato può essere usato per comunicazioni, istruttoria territoriale o statistiche aggregate; questi usi richiedono livelli diversi di aggiornamento, accesso e verifica. Il governo del dato esplicita tale differenza prima che l'applicativo la nasconda dietro un unico campo. Quando la stessa informazione alimenta più servizi, l'ente deve valutare effetto, priorità e dipendenze della modifica.",
+      "sourceLocation": "chapters/10-data-governance-open-data-interoperabilita.md#n-tr01-10-01",
+      "reviewer": "codex-step15-didactic-batch-d",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-10-01",
+      "dimension": "competition-output",
+      "evidenceQuote": "In una risposta scritta, distingui sempre principio e realizzazione. Dire che serve una piattaforma è insufficiente se non si indica quale decisione la piattaforma debba sostenere e quale evidenza permetta di controllarla. Un candidato mostra maturità quando collega definizione, responsabilità, controllo ed esito per il cittadino.",
+      "sourceLocation": "chapters/10-data-governance-open-data-interoperabilita.md#n-tr01-10-01",
+      "reviewer": "codex-step15-didactic-batch-d",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-10-02",
+      "dimension": "application",
+      "evidenceQuote": "Prendi il caso di un campo usato da tributi e polizia locale. Se il produttore segnala che il valore non è più attendibile, lo steward raccoglie l'anomalia e verifica la regola; l'owner valuta impatto e priorità; il custodian applica la correzione tecnica; i fruitori ricevono la comunicazione sulle conseguenze. Se invece si deve ampliare l'uso del campo a un nuovo servizio, intervengono anche processo, privacy e sicurezza. La stessa persona può partecipare a più passaggi, ma le evidenze devono mostrare quale funzione ha svolto.",
+      "sourceLocation": "chapters/10-data-governance-open-data-interoperabilita.md#n-tr01-10-02",
+      "reviewer": "codex-step15-didactic-batch-d",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-10-02",
+      "dimension": "competition-output",
+      "evidenceQuote": "costruisci una riga “decisione–responsabile–evidenza” prima di disegnare un organigramma. Mostra subito che sai collegare responsabilità e controllabilità.",
+      "sourceLocation": "chapters/10-data-governance-open-data-interoperabilita.md#n-tr01-10-02",
+      "reviewer": "codex-step15-didactic-batch-d",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-10-03",
+      "dimension": "application",
+      "evidenceQuote": "Il lineage è particolarmente utile quando due risultati non coincidono. Non si parte accusando l'altro ufficio di avere dati sbagliati: si confrontano definizione, fonte, data di estrazione, trasformazioni e regole applicate. Può emergere che una tabella usi la data di protocollo e l'altra la data di conclusione, oppure che una riconciliazione sia avvenuta solo in uno dei due sistemi. La causa diventa così discutibile e correggibile.",
+      "sourceLocation": "chapters/10-data-governance-open-data-interoperabilita.md#n-tr01-10-03",
+      "reviewer": "codex-step15-didactic-batch-d",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-10-03",
+      "dimension": "competition-output",
+      "evidenceQuote": "per descrivere il ciclo di vita, collega ogni fase a una domanda: perché raccogliamo, da dove arriva, chi controlla, chi usa, cosa condividiamo, quanto conserviamo e come dismettiamo.",
+      "sourceLocation": "chapters/10-data-governance-open-data-interoperabilita.md#n-tr01-10-03",
+      "reviewer": "codex-step15-didactic-batch-d",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-10-04",
+      "dimension": "application",
+      "evidenceQuote": "nel laboratorio finale usa prima l'inventario e poi la scheda. Il primo dà la vista d'insieme; la seconda consente di governare il singolo dataset.",
+      "sourceLocation": "chapters/10-data-governance-open-data-interoperabilita.md#n-tr01-10-04",
+      "reviewer": "codex-step15-didactic-batch-d",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-10-04",
+      "dimension": "competition-output",
+      "evidenceQuote": "Una scheda dataset minima deve permettere a una persona competente di capire cosa sia la risorsa, a quale processo serva e come trattarla. Include identificativo stabile, finalità, descrizione, fonte, owner e steward, struttura, classificazione, frequenza, lineage, regole di qualità, accessi, conservazione, distribuzioni, licenza se pertinente e contatto. Una distribuzione è una modalità concreta di accesso, per esempio file CSV, JSON, API o download; il dataset è invece la risorsa logica. Confondere i due piani produce cataloghi poco chiari e richieste tecniche mal formulate.",
+      "sourceLocation": "chapters/10-data-governance-open-data-interoperabilita.md#n-tr01-10-04",
+      "reviewer": "codex-step15-didactic-batch-d",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-10-05",
+      "dimension": "application",
+      "evidenceQuote": "Una regola di qualità deve indicare anche il punto in cui viene applicata. Un controllo al salvataggio previene l'errore; un controllo notturno intercetta dati già caricati; una riconciliazione periodica confronta fonti diverse. La scelta dipende dalle conseguenze: bloccare un'istruttoria per un campo secondario può essere sproporzionato, mentre consentire un pagamento con un identificativo duplicato può essere rischioso. Il candidato deve saper motivare questo equilibrio.",
+      "sourceLocation": "chapters/10-data-governance-open-data-interoperabilita.md#n-tr01-10-05",
+      "reviewer": "codex-step15-didactic-batch-d",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-10-05",
+      "dimension": "competition-output",
+      "evidenceQuote": "Una regola di qualità deve indicare anche il punto in cui viene applicata. Un controllo al salvataggio previene l'errore; un controllo notturno intercetta dati già caricati; una riconciliazione periodica confronta fonti diverse. La scelta dipende dalle conseguenze: bloccare un'istruttoria per un campo secondario può essere sproporzionato, mentre consentire un pagamento con un identificativo duplicato può essere rischioso. Il candidato deve saper motivare questo equilibrio.",
+      "sourceLocation": "chapters/10-data-governance-open-data-interoperabilita.md#n-tr01-10-05",
+      "reviewer": "codex-step15-didactic-batch-d",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-10-06",
+      "dimension": "application",
+      "evidenceQuote": "prima di proporre l'apertura, verifica finalità, classificazione, campi, qualità, formato, aggiornamento, licenza, contatto e canale di distribuzione. Solo dopo scegli se il riuso pubblico sia appropriato.",
+      "sourceLocation": "chapters/10-data-governance-open-data-interoperabilita.md#n-tr01-10-06",
+      "reviewer": "codex-step15-didactic-batch-d",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-10-06",
+      "dimension": "competition-output",
+      "evidenceQuote": "Nelle risposte d'esame, evita formule assolute. Spiega il metodo: prima si determina se il quadro applicabile consente la pubblicazione, poi si definiscono contenuto e distribuzione, infine si curano metadati, condizioni, aggiornamento e controllo degli effetti.",
+      "sourceLocation": "chapters/10-data-governance-open-data-interoperabilita.md#n-tr01-10-06",
+      "reviewer": "codex-step15-didactic-batch-d",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-10-07",
+      "dimension": "application",
+      "evidenceQuote": "Il regolamento (UE) 2024/903, noto come Interoperable Europe Act, considera l'interoperabilità dei servizi pubblici digitali transeuropei anche sotto profili organizzativi, semantici e giuridici. Le valutazioni previste dal regolamento vanno applicate nel loro preciso campo soggettivo e oggettivo; non è corretto trasferirle automaticamente a ogni progetto locale. In prova, questa cautela è preferibile a dichiarazioni assolute su obblighi e piattaforme.",
+      "sourceLocation": "chapters/10-data-governance-open-data-interoperabilita.md#n-tr01-10-07",
+      "reviewer": "codex-step15-didactic-batch-d",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-10-07",
+      "dimension": "competition-output",
+      "evidenceQuote": "Prima di attivare uno scambio automatico, l'ente descrive evento che lo attiva, finalità, attributi necessari, erogatore, fruitore, risposta attesa, errori possibili e responsabilità di correzione. Questo non è ancora il contratto tecnico dell'API: è il requisito organizzativo che il contratto dovrà rappresentare. Se manca, la tecnologia rischia di trasferire campi superflui o semanticamente ambigui con grande efficienza.",
+      "sourceLocation": "chapters/10-data-governance-open-data-interoperabilita.md#n-tr01-10-07",
+      "reviewer": "codex-step15-didactic-batch-d",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-11-01",
+      "dimension": "application",
+      "evidenceQuote": "Quando un ufficio valuta un prodotto, la prima scheda non dovrebbe iniziare dal nome commerciale, ma da cinque domande: quale bisogno soddisfa, quale output produce, chi lo usa, quali dati riceve e quale scelta concreta cambia. Se la risposta è “nessuna”, può essere un semplice strumento di ricerca o redazione; se cambia l'ordine delle pratiche, l'accesso a un servizio o l'intensità di un controllo, diventa un caso d'uso da descrivere molto meglio. Questo metodo impedisce due estremi: vietare ogni automazione perché contiene una componente AI, oppure adottarla come se la sua natura tecnica bastasse a renderla affidabile.",
+      "sourceLocation": "chapters/11-ai-ml-pa-rischi-compliance.md#n-tr01-11-01",
+      "reviewer": "codex-step15-didactic-batch-d",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-11-01",
+      "dimension": "competition-output",
+      "evidenceQuote": "Un sistema **predittivo** stima una classe o un valore; un raccomandatore ordina opzioni; un sistema **generativo** produce testo, immagini, audio o altro contenuto. Quest'ultimo può formulare un testo plausibile e tuttavia errato: la plausibilità non rende l'output una fonte né trasferisce la responsabilità dell'atto all'applicazione. Nel colloquio è utile dire che l'output AI è un elemento istruttorio o operativo da verificare, non un soggetto che decide.",
+      "sourceLocation": "chapters/11-ai-ml-pa-rischi-compliance.md#n-tr01-11-01",
+      "reviewer": "codex-step15-didactic-batch-d",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-11-02",
+      "dimension": "application",
+      "evidenceQuote": "L'**overfitting** si verifica quando il modello aderisce eccessivamente ai dati di training e rende male su casi nuovi. L'**underfitting** indica un modello troppo semplice o una configurazione incapace di cogliere relazioni utili. Il **data leakage** introduce nella previsione informazioni che, al momento reale della decisione, non sarebbero disponibili: usare la data finale di chiusura per prevedere all'apertura un ritardo è un esempio classico. Il leakage può anche derivare da trasformazioni applicate prima della separazione dei dati.",
+      "sourceLocation": "chapters/11-ai-ml-pa-rischi-compliance.md#n-tr01-11-02",
+      "reviewer": "codex-step15-didactic-batch-d",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-11-02",
+      "dimension": "competition-output",
+      "evidenceQuote": "La scelta del paradigma dipende dal problema e dai dati disponibili. Se un ente possiede esempi affidabili di esiti, il supervisionato può essere valutato; se possiede soltanto molte osservazioni non etichettate, un raggruppamento può servire a esplorare fenomeni, non a decidere automaticamente. La domanda corretta è: quale output deve sostenere quale fase del processo, e con quali conseguenze se sbaglia? Un modello non compensa una finalità vaga o etichette prodotte da prassi storiche incoerenti.",
+      "sourceLocation": "chapters/11-ai-ml-pa-rischi-compliance.md#n-tr01-11-02",
+      "reviewer": "codex-step15-didactic-batch-d",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-11-03",
+      "dimension": "application",
+      "evidenceQuote": "La raccolta deve essere proporzionata alla finalità e accompagnata da accessi, classificazione, conservazione e sicurezza adeguati. Per inventario, lineage, qualità trasversale e ruoli sul dato si applicano le logiche del capitolo 10; qui conta l'effetto specifico del dato sull'addestramento e sulla decisione. Dati personali, profilazione e decisioni automatizzate richiedono una valutazione nel quadro applicabile e non possono essere risolti con una formula tecnica generica.",
+      "sourceLocation": "chapters/11-ai-ml-pa-rischi-compliance.md#n-tr01-11-03",
+      "reviewer": "codex-step15-didactic-batch-d",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-11-03",
+      "dimension": "competition-output",
+      "evidenceQuote": "L'ente dovrebbe coinvolgere competenze di processo, dati, sicurezza e protezione dei dati prima di trasformare uno storico in addestramento. Non tutti i difetti richiedono la stessa risposta: un errore di battitura può essere corretto; un campione che esclude sistematicamente un canale richiede cautela più profonda; una label priva di significato condiviso può rendere improprio l'intero progetto. Il candidato può esporre questa logica con una formula chiara: “documento il dato, ne verifico l'adeguatezza all'uso, misuro l'effetto dell'errore e definisco chi può correggerlo”.",
+      "sourceLocation": "chapters/11-ai-ml-pa-rischi-compliance.md#n-tr01-11-03",
+      "reviewer": "codex-step15-didactic-batch-d",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-11-04",
+      "dimension": "application",
+      "evidenceQuote": "Prima di misurare un modello occorre fissare una **baseline**: può essere una regola semplice, il procedimento attuale o una prestazione minima. Senza confronto, un valore percentuale isolato non dice se il sistema migliora davvero il servizio. La baseline obbliga a dichiarare che cosa si vuole superare: tempi, coerenza, capacità di individuare i casi urgenti, carico degli operatori o qualità della motivazione.",
+      "sourceLocation": "chapters/11-ai-ml-pa-rischi-compliance.md#n-tr01-11-04",
+      "reviewer": "codex-step15-didactic-batch-d",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-11-04",
+      "dimension": "competition-output",
+      "evidenceQuote": "Per una prova concorsuale, una risposta solida collega metrica, errore e decisione: «Nel caso delle segnalazioni urgenti misuro recall e precision, confronto la baseline manuale, analizzo sottogruppi e scelgo una soglia con operatori capaci di verificare i casi». **Errore tipico:** presentare l'accuracy come certificato di qualità, equità e conformità. Le metriche descrivono aspetti diversi; nessuna sostituisce l'analisi del servizio e dei suoi destinatari.",
+      "sourceLocation": "chapters/11-ai-ml-pa-rischi-compliance.md#n-tr01-11-04",
+      "reviewer": "codex-step15-didactic-batch-d",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-11-05",
+      "dimension": "application",
+      "evidenceQuote": "Il **bias** può nascere nel campionamento, nelle etichette, nelle feature, nell'obiettivo ottimizzato o nel modo in cui il risultato entra nel lavoro quotidiano. Una disparità osservata non prova da sola una discriminazione illecita, ma è un segnale che impone analisi tecnica, organizzativa e giuridica. Il punto di partenza non è scegliere una formula di fairness, ma capire quale effetto il servizio può produrre su persone e gruppi, con quale meccanismo e quali possibilità di correzione.",
+      "sourceLocation": "chapters/11-ai-ml-pa-rischi-compliance.md#n-tr01-11-05",
+      "reviewer": "codex-step15-didactic-batch-d",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-11-05",
+      "dimension": "competition-output",
+      "evidenceQuote": "Le metriche di **fairness** sono strumenti contestuali. Alcune misurano differenze tra gruppi, altre parità di errore o di trattamento; possono entrare in tensione tra loro. Non esiste un numero universale che certifichi l'equità. Un candidato deve quindi spiegare che una metrica è utile per individuare un problema e confrontare alternative, non per sostituire valutazione del caso, regole di servizio e tutela delle persone.",
+      "sourceLocation": "chapters/11-ai-ml-pa-rischi-compliance.md#n-tr01-11-05",
+      "reviewer": "codex-step15-didactic-batch-d",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-11-06",
+      "dimension": "application",
+      "evidenceQuote": "Un sistema AI va governato lungo il suo ciclo di vita: definizione del problema, raccolta e preparazione dei dati, sviluppo, validazione, rilascio, uso, monitoraggio, modifica e dismissione. **MLOps** porta in questo ciclo pratiche di ingegneria e operations: versionamento di dati, codice, configurazioni e modello; ambienti controllati; approvazioni; test ripetibili; osservazione del comportamento in esercizio. Il risultato deve essere ricostruibile: non basta sapere che “il modello è stato aggiornato”.",
+      "sourceLocation": "chapters/11-ai-ml-pa-rischi-compliance.md#n-tr01-11-06",
+      "reviewer": "codex-step15-didactic-batch-d",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-11-06",
+      "dimension": "competition-output",
+      "evidenceQuote": "Un sistema AI va governato lungo il suo ciclo di vita: definizione del problema, raccolta e preparazione dei dati, sviluppo, validazione, rilascio, uso, monitoraggio, modifica e dismissione. **MLOps** porta in questo ciclo pratiche di ingegneria e operations: versionamento di dati, codice, configurazioni e modello; ambienti controllati; approvazioni; test ripetibili; osservazione del comportamento in esercizio. Il risultato deve essere ricostruibile: non basta sapere che “il modello è stato aggiornato”.",
+      "sourceLocation": "chapters/11-ai-ml-pa-rischi-compliance.md#n-tr01-11-06",
+      "reviewer": "codex-step15-didactic-batch-d",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-11-07",
+      "dimension": "application",
+      "evidenceQuote": "Nel caso concreto occorre identificare anzitutto se l'ente agisce come provider, deployer o in altro ruolo rilevante, quindi confrontare finalità e funzionalità con il testo vigente. Un elenco di categorie non sostituisce questa analisi, perché la stessa applicazione può essere usata in contesti diversi. La distinzione tra rischio tecnico e qualificazione giuridica resta essenziale: una matrice probabilità-impatto aiuta a gestire un servizio, ma non assegna da sola lo statuto regolatorio del sistema.",
+      "sourceLocation": "chapters/11-ai-ml-pa-rischi-compliance.md#n-tr01-11-07",
+      "reviewer": "codex-step15-didactic-batch-d",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-11-07",
+      "dimension": "competition-output",
+      "evidenceQuote": "Per i sistemi ad alto rischio il regolamento tratta gestione del rischio, governance dei dati, documentazione, registrazione, informazioni verso il deployer, sorveglianza umana, accuratezza, robustezza e cybersicurezza. Provider e deployer svolgono funzioni diverse; anche gli obblighi di trasparenza dipendono dal tipo di sistema e dal suo impiego. In una risposta orale prudente non si assegna una classe normativa al caso di studio senza esaminare il testo vigente e le circostanze concrete.",
+      "sourceLocation": "chapters/11-ai-ml-pa-rischi-compliance.md#n-tr01-11-07",
+      "reviewer": "codex-step15-didactic-batch-d",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-12-01",
+      "dimension": "application",
+      "evidenceQuote": "La strategia non termina con l'individuazione della soluzione. Prima di definire l'acquisto, l'ente verifica se il servizio deve essere unico o separabile in componenti: per esempio hosting, migrazione, manutenzione applicativa, assistenza e formazione. Separare senza ragione può moltiplicare interfacce e responsabilità; concentrare tutto in un solo affidamento può rendere difficile il subentro. La domanda pratica è quale confine consenta di governare qualità, sicurezza, tempi e continuità senza creare una dipendenza che l'ente non sa più misurare.",
+      "sourceLocation": "chapters/12-procurement-ict-gestione-fornitori.md#n-tr01-12-01",
+      "reviewer": "codex-step15-didactic-batch-d",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-12-01",
+      "dimension": "competition-output",
+      "evidenceQuote": "Un buon perimetro separa ciò che deve essere consegnato da ciò che rimane in capo all'ente: migrazione, ambienti, dati, integrazioni, formazione, documentazione, assistenza e dismissione. Questa separazione evita il costo nascosto delle attività “incluse a voce”. In prova, una risposta solida dichiara le assunzioni: se il servizio gestisce pratiche dei cittadini, continuità, accessi, tracciabilità e recupero assumono un peso diverso rispetto a un sito informativo. **Errore tipico:** partire dalla piattaforma desiderata e cercare dopo un bisogno che la giustifichi. Il percorso corretto è inverso: risultato pubblico, evidenze iniziali, requisiti e soltanto allora scelta della soluzione.",
+      "sourceLocation": "chapters/12-procurement-ict-gestione-fornitori.md#n-tr01-12-01",
+      "reviewer": "codex-step15-didactic-batch-d",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-12-02",
+      "dimension": "application",
+      "evidenceQuote": "È utile distinguere tre piani temporali. Nella selezione si valuta, secondo gli atti, la proposta disponibile; prima dell'avvio si accerta che ambienti, configurazioni e consegne iniziali siano pronti; durante l'esecuzione si misura che il servizio resti conforme. Confondere i piani porta a due errori: usare una promessa di offerta come se fosse una prova di esercizio, oppure pretendere, nella verifica di conformità, una qualità che non è stata descritta. La tracciabilità requisito-test-evidenza collega i piani e rende visibili le lacune.",
+      "sourceLocation": "chapters/12-procurement-ict-gestione-fornitori.md#n-tr01-12-02",
+      "reviewer": "codex-step15-didactic-batch-d",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-12-02",
+      "dimension": "competition-output",
+      "evidenceQuote": "La matrice requisito-test-evidenza evita che la verifica di conformità diventi un giudizio impressionistico. Per ciascun requisito critico annota identificativo, test o ispezione, ambiente, dati di prova, responsabile, evidenza attesa ed esito. Se la migrazione produce un file esportato ma il file non può essere letto nel sistema destinatario, l'evidenza non dimostra ancora portabilità. Se una funzione opera solo su dati preparati dal fornitore, occorre chiarire se quel campione rappresenti l'uso reale. **Errore tipico:** confondere la documentazione consegnata con l'accettazione. La prima può essere necessaria; la seconda richiede una verifica tracciabile.",
+      "sourceLocation": "chapters/12-procurement-ict-gestione-fornitori.md#n-tr01-12-02",
+      "reviewer": "codex-step15-didactic-batch-d",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-12-03",
+      "dimension": "application",
+      "evidenceQuote": "La misura va progettata prima che il servizio entri in difficoltà. Per ogni indicatore è necessario stabilire chi raccoglie il dato, con quale strumento, come si gestiscono dati mancanti e differenze di orologio, chi può contestare il calcolo e dove resta la traccia della decisione. Un dato prodotto dal fornitore non è inattendibile per definizione; diventa fragile quando l'ente non può ricostruire il perimetro o confrontarlo con segnali indipendenti, come segnalazioni degli utenti, log applicativi o esiti delle integrazioni.",
+      "sourceLocation": "chapters/12-procurement-ict-gestione-fornitori.md#n-tr01-12-03",
+      "reviewer": "codex-step15-didactic-batch-d",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-12-03",
+      "dimension": "competition-output",
+      "evidenceQuote": "Una soglia non sostituisce la gestione. Davanti a uno scostamento, l'ente deve ottenere evidenza, valutare l'impatto, chiedere ripristino, analisi della causa e azione preventiva, registrando responsabile e scadenza. Penali o service credit, se previsti, seguono gli atti e non rendono accettabile un servizio che continua a fallire. In un orale, formula una risposta in questo ordine: servizio e utenti, misura e fonte, soglia e finestra, eccezioni, rendicontazione tecnica, escalation e verifica della chiusura. **Errore tipico:** usare “KPI” come sinonimo di qualsiasi numero del resoconto tecnico.",
+      "sourceLocation": "chapters/12-procurement-ict-gestione-fornitori.md#n-tr01-12-03",
+      "reviewer": "codex-step15-didactic-batch-d",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-12-04",
+      "dimension": "application",
+      "evidenceQuote": "Il **RUP**, responsabile unico del progetto, presidia il progetto secondo la disciplina applicabile. Il **direttore dell'esecuzione**, quando previsto, controlla l'esecuzione. L'owner del servizio presidia risultato e utenti; il referente tecnico verifica architettura e deliverable; sicurezza e DPO intervengono per competenza. Il fornitore organizza le proprie responsabilità e produce le evidenze dovute.",
+      "sourceLocation": "chapters/12-procurement-ict-gestione-fornitori.md#n-tr01-12-04",
+      "reviewer": "codex-step15-didactic-batch-d",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-12-04",
+      "dimension": "competition-output",
+      "evidenceQuote": "L'escalation può essere tecnica, gestionale o contrattuale. Saltare subito al livello direzionale crea rumore; restare nel supporto operativo quando il servizio è critico ritarda la risposta. Trigger e canali devono essere stabiliti prima.",
+      "sourceLocation": "chapters/12-procurement-ict-gestione-fornitori.md#n-tr01-12-04",
+      "reviewer": "codex-step15-didactic-batch-d",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-12-05",
+      "dimension": "application",
+      "evidenceQuote": "La presenza di un subfornitore non equivale automaticamente a una non conformità, ma non può restare invisibile. L'ente deve conoscere, nella misura richiesta dal caso, quale parte del servizio è affidata all'esterno, quali dati o componenti coinvolge, quali controlli si applicano e come viene gestita una variazione. Lo stesso vale per componenti che arrivano tramite una filiera software: provenienza, supporto, aggiornamenti e vulnerabilità diventano rilevanti quando incidono su continuità o sicurezza del servizio acquistato.",
+      "sourceLocation": "chapters/12-procurement-ict-gestione-fornitori.md#n-tr01-12-05",
+      "reviewer": "codex-step15-didactic-batch-d",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-12-05",
+      "dimension": "competition-output",
+      "evidenceQuote": "Per i dati bisogna sapere quali categorie sono trattate, dove transitano, chi accede, quali integrazioni le ricevono e come saranno restituite o cancellate. Il contratto non può decidere da solo ruoli privacy o trasferimenti: questi aspetti vanno esaminati nel caso concreto con le figure competenti. Il candidato deve però riconoscere l'errore di rinviare tutto a una clausola generica. Anche un'esportazione dichiarata disponibile va provata su dati e formati definiti, verificando metadati, completezza e riuso.",
+      "sourceLocation": "chapters/12-procurement-ict-gestione-fornitori.md#n-tr01-12-05",
+      "reviewer": "codex-step15-didactic-batch-d",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-12-06",
+      "dimension": "application",
+      "evidenceQuote": "Per il candidato, la domanda utile è: quale evidenza dimostra che il servizio può continuare dopo un cambiamento? La risposta combina test, inventario delle dipendenze, documentazione aggiornata, responsabilità chiare e prova di recupero. Un contratto può prevedere questi elementi; l'efficacia dipende però dalla loro applicazione durante l'esecuzione, non dalla sola presenza di un titolo nel capitolato.",
+      "sourceLocation": "chapters/12-procurement-ict-gestione-fornitori.md#n-tr01-12-06",
+      "reviewer": "codex-step15-didactic-batch-d",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-12-06",
+      "dimension": "competition-output",
+      "evidenceQuote": "Per il candidato, la domanda utile è: quale evidenza dimostra che il servizio può continuare dopo un cambiamento? La risposta combina test, inventario delle dipendenze, documentazione aggiornata, responsabilità chiare e prova di recupero. Un contratto può prevedere questi elementi; l'efficacia dipende però dalla loro applicazione durante l'esecuzione, non dalla sola presenza di un titolo nel capitolato.",
+      "sourceLocation": "chapters/12-procurement-ict-gestione-fornitori.md#n-tr01-12-06",
+      "reviewer": "codex-step15-didactic-batch-d",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-12-07",
+      "dimension": "application",
+      "evidenceQuote": "La **portabilità** consente di trasferire dati, applicazioni o carichi in un altro ambiente. La **reversibilità** comprende il ritorno o il passaggio controllato del servizio, con conoscenze, configurazioni, documenti e assistenza alla transizione.",
+      "sourceLocation": "chapters/12-procurement-ict-gestione-fornitori.md#n-tr01-12-07",
+      "reviewer": "codex-step15-didactic-batch-d",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-12-07",
+      "dimension": "competition-output",
+      "evidenceQuote": "La portabilità riguarda la possibilità materiale di trasferire elementi riutilizzabili; la reversibilità riguarda il percorso controllato che permette di uscire, rientrare o passare a un altro gestore. Un'esportazione è utile solo se include gli oggetti necessari, conserva struttura e metadati, è accompagnata da documentazione e può essere verificata dal destinatario. Per le configurazioni, la domanda non è solo «posso scaricarle?», ma «posso ricostruire un ambiente funzionante senza conoscere segreti non consegnati?».",
+      "sourceLocation": "chapters/12-procurement-ict-gestione-fornitori.md#n-tr01-12-07",
+      "reviewer": "codex-step15-didactic-batch-d",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-13-01",
+      "dimension": "application",
+      "evidenceQuote": "Il capitolo applica al settore ICT il metodo generale sulle prove del VOL-01. Per la teoria completa usa i capitoli 14-17 di `Il Metodo BANDO`; per il Diario degli errori, il capitolo 23. Questo capitolo riguarda il delta specialistico: la produzione di una prestazione tecnica.",
+      "sourceLocation": "chapters/13-laboratorio-prove-ict.md#n-tr01-13-01",
+      "reviewer": "codex-step15-didactic-batch-d",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-13-01",
+      "dimension": "competition-output",
+      "evidenceQuote": "La prima lettura non serve a scrivere: serve a evitare di costruire una risposta su una consegna immaginata. Trascrivi in un foglio separato il verbo della traccia, il risultato atteso e i vincoli che modificano la scelta tecnica. Poi distingui i dati già presenti dalle informazioni mancanti. Se il caso non dichiara numero di utenti, classificazione dei dati o finestra di indisponibilità, non trasformare il silenzio in un fatto: annota l'assunzione e il modo in cui la controlleresti.",
+      "sourceLocation": "chapters/13-laboratorio-prove-ict.md#n-tr01-13-01",
+      "reviewer": "codex-step15-didactic-batch-d",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-13-02",
+      "dimension": "application",
+      "evidenceQuote": "Correggi il quiz in due tempi. Nel primo, segna soltanto corretto, errato o non risposto. Nel secondo, per ogni errore, ricostruisci il percorso: quale parola della domanda hai trascurato, quale regola tecnica hai applicato, quale alternativa ti ha attirato e quale evidenza avrebbe permesso di escluderla. Questo passaggio impedisce di attribuire tutti gli errori alla memoria quando il problema è invece la lettura della consegna.",
+      "sourceLocation": "chapters/13-laboratorio-prove-ict.md#n-tr01-13-02",
+      "reviewer": "codex-step15-didactic-batch-d",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-13-02",
+      "dimension": "competition-output",
+      "evidenceQuote": "Quando due alternative sembrano plausibili, chiedi quale risponde al verbo e quale introduce una condizione non dichiarata. Parole come \"solo\", \"sempre\", \"automaticamente\" e \"garantisce\" meritano un controllo in più: talvolta sono corrette, ma soltanto se il contesto le sostiene. Non cambiare una risposta corretta solo perché sembra troppo semplice; torna invece alla funzione tecnica che la domanda sta verificando.",
+      "sourceLocation": "chapters/13-laboratorio-prove-ict.md#n-tr01-13-02",
+      "reviewer": "codex-step15-didactic-batch-d",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-13-03",
+      "dimension": "application",
+      "evidenceQuote": "Per allenarti, riscrivi la stessa risposta in tre versioni: una definizione essenziale, una risposta comparativa e una mini-applicazione a un ente. Confronta ciò che rimane invariato, ciò che dipende dal contesto e ciò che non puoi affermare senza dati aggiuntivi. La variazione fa emergere le frasi di repertorio che sembrano corrette ma non portano evidenza.",
+      "sourceLocation": "chapters/13-laboratorio-prove-ict.md#n-tr01-13-03",
+      "reviewer": "codex-step15-didactic-batch-d",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-13-03",
+      "dimension": "competition-output",
+      "evidenceQuote": "Prima di scrivere, prepara una micro-scaletta di quattro righe: tesi o definizione, elemento distintivo, conseguenza operativa, esempio o chiusura. La scaletta evita due errori opposti: una definizione da glossario che non risponde al caso e una risposta ricca di esempi senza nucleo concettuale. Se la domanda chiede di confrontare, mantieni gli stessi assi per entrambi gli oggetti; se chiede di spiegare, rendi esplicito il rapporto di causa o funzione.",
+      "sourceLocation": "chapters/13-laboratorio-prove-ict.md#n-tr01-13-03",
+      "reviewer": "codex-step15-didactic-batch-d",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-13-04",
+      "dimension": "application",
+      "evidenceQuote": "Per ogni opzione significativa indica il trade-off. Una soluzione più semplice può ridurre il tempo di esercizio ma aumentare una dipendenza; una soluzione più distribuita può migliorare la resilienza ma richiedere osservabilità e competenze ulteriori. Non serve quantificare valori non presenti nella traccia: spiega quali metriche, test o evidenze permetterebbero all'ente di decidere.",
+      "sourceLocation": "chapters/13-laboratorio-prove-ict.md#n-tr01-13-04",
+      "reviewer": "codex-step15-didactic-batch-d",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-13-04",
+      "dimension": "competition-output",
+      "evidenceQuote": "Un elaborato non deve dimostrare di conoscere tutte le tecnologie disponibili: deve rendere controllabile una scelta. Parti da servizio, utenti, dati, dipendenze e vincoli; separa ciò che la traccia dichiara da ciò che ipotizzi. Trasforma poi ogni requisito in una decisione osservabile. Per esempio, un requisito di continuità conduce a una sequenza di prevenzione, ripristino, rollback e prova; non si esaurisce nell'etichetta \"alta disponibilità\".",
+      "sourceLocation": "chapters/13-laboratorio-prove-ict.md#n-tr01-13-04",
+      "reviewer": "codex-step15-didactic-batch-d",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-13-05",
+      "dimension": "application",
+      "evidenceQuote": "Se il commissario cambia scenario, ripeti prima i fatti ricevuti e dichiara che cosa cambierebbe nella soluzione. Se non ricordi un dettaglio, separa il limite dal principio certo e non riempire il silenzio con riferimenti non verificati. La prudenza tecnica è utile quando permette di continuare con un ragionamento pertinente e falsificabile.",
+      "sourceLocation": "chapters/13-laboratorio-prove-ict.md#n-tr01-13-05",
+      "reviewer": "codex-step15-didactic-batch-d",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-13-05",
+      "dimension": "competition-output",
+      "evidenceQuote": "Dopo un'esposizione preparata, esercitati con una seconda persona o con una lista di domande che sposti il punto di vista: utente, responsabile del servizio, sicurezza, dato, fornitore, continuità. Non memorizzare una risposta aggiuntiva per ogni domanda; torna invece alla struttura di base e spiega quale fatto nuovo modifica priorità, rischio o verifica. Questa tecnica limita le risposte rigide.",
+      "sourceLocation": "chapters/13-laboratorio-prove-ict.md#n-tr01-13-05",
+      "reviewer": "codex-step15-didactic-batch-d",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-13-06",
+      "dimension": "application",
+      "evidenceQuote": "Nel caso tecnico, una lista di possibili strumenti non è una diagnosi. Scrivi prima il sintomo osservato, gli utenti o le funzioni coinvolte e le evidenze disponibili. Formula quindi ipotesi concorrenti: applicazione, dati, rete, configurazione, dipendenza esterna, rilascio o sicurezza. A ogni ipotesi associa il test meno invasivo che può confermarla o ridurne la probabilità, e indica chi può svolgerlo.",
+      "sourceLocation": "chapters/13-laboratorio-prove-ict.md#n-tr01-13-06",
+      "reviewer": "codex-step15-didactic-batch-d",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-13-06",
+      "dimension": "competition-output",
+      "evidenceQuote": "Organizza la consegna con blocchi visibili: perimetro e impatto, ipotesi e prove, contenimento, ripristino, verifica, prevenzione. Se devi scegliere tra azioni, motiva la priorità con impatto, reversibilità, sicurezza e continuità. Se il caso riguarda dati personali o funzioni essenziali, segnala che servono ruoli e procedure coerenti con il contesto, senza inventare l'esito di valutazioni non fornite.",
+      "sourceLocation": "chapters/13-laboratorio-prove-ict.md#n-tr01-13-06",
+      "reviewer": "codex-step15-didactic-batch-d",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-13-07",
+      "dimension": "application",
+      "evidenceQuote": "Dopo un rilascio serale, un servizio per le istanze funziona per gli utenti interni ma restituisce errori intermittenti a una parte degli utenti esterni. Il monitoraggio mostra un aumento dei codici di errore, ma non identifica la componente responsabile. Sono disponibili log applicativi e di accesso; il fornitore gestisce una dipendenza esterna. Devi proporre la gestione iniziale del caso senza assumere cause non documentate.",
+      "sourceLocation": "chapters/13-laboratorio-prove-ict.md#n-tr01-13-07",
+      "reviewer": "codex-step15-didactic-batch-d",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
+    },
+    {
+      "nucleusId": "N-TR01-13-07",
+      "dimension": "competition-output",
+      "evidenceQuote": "La prova ICT valuta conoscenza e capacità di produrre un output.",
+      "sourceLocation": "chapters/13-laboratorio-prove-ict.md#n-tr01-13-07",
+      "reviewer": "codex-step15-didactic-batch-d",
+      "gateId": "step-15",
+      "checkedAt": "2026-08-12"
     }
   ]
 }
