@@ -5490,3 +5490,11 @@
 - l0: l0/conv-20260812121239-q2q8ib.md
 - atoms:
   - mem-20260812121239-1y6nsny | result | Esito pipeline-step-22: Procedere con il prossimo step della pipeline VOL-10. -> Step 22 completato: preflight locale conforme.
+
+## 2026-08-12T12:24:41.967Z - VOL-10
+
+- conversation_id: conv-20260812122441-ri3r54
+- route: pipeline-step-23
+- l0: l0/conv-20260812122441-ri3r54.md
+- atoms:
+  - mem-20260812122441-5j5szd | result | Esito pipeline-step-23: Procedere con il prossimo step della pipeline VOL-10. -> Step 23 completato: creato pacchetto VOL-10-candidate-2026.08.12.1 con 9 file e manifest 8/8 verificato, remoto controllato, gate tecnici verdi e stato pending-step-24.
