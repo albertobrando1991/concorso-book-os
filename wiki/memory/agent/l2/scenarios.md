@@ -5058,3 +5058,11 @@
 - l0: l0/conv-20260812133009-7xwgb8.md
 - atoms:
   - mem-20260812133009-coavf6 | result | Esito codex/pipeline-volume/step-20/page-audit: procedi -> Completato step 20 VOL-08: audit 231/231 pagine e 12/12 tavole; corretto paginator con TDD per titoli orfani e liste continuate; zero blocker, overflow, collisioni e asset mancanti; tre euristiche medie ricontrollate ...
+
+## 2026-08-12T13:44:31.313Z - VOL-08
+
+- conversation_id: conv-20260812134431-1yv7usf
+- route: codex/pipeline-volume/step-21/final-editorial-review
+- l0: l0/conv-20260812134431-1yv7usf.md
+- atoms:
+  - mem-20260812134431-k8ag2l | result | Esito codex/pipeline-volume/step-21/final-editorial-review: procedi -> Completato step 21 VOL-08: Revisore Editoriale Totale su 30 punti e copertura v4; corretti metadati pubblici obsoleti e refuso report step 20; 82/82 nuclei, 231/231 pagine, 79 test e typecheck verdi; gate review-repor...
