@@ -1,3 +1,5 @@
+import { deflateSync } from "node:zlib"
+
 export const VOL08_COVER_SPEC = Object.freeze({
   code: "VOL-08",
   title: "ICT, digitale, cybersecurity e dati",
@@ -37,12 +39,127 @@ export function calculateCoverGeometry(pageCount) {
   }
 }
 
+export function resolveCoverLayers() {
+  return Object.freeze({ panels: 1, circuit: 2, content: 3, spine: 4, barcode: 5 })
+}
+
+export function resolveCircuitBand() {
+  return Object.freeze({ topIn: 5.15, bottomIn: 6.8 })
+}
+
+export function parseCmykPam(input) {
+  if (!Buffer.isBuffer(input)) throw new Error("PAM input must be a Buffer")
+  const lfMarker = Buffer.from("ENDHDR\n", "ascii")
+  const crlfMarker = Buffer.from("ENDHDR\r\n", "ascii")
+  let headerEnd = input.indexOf(lfMarker)
+  let markerLength = lfMarker.length
+
+  if (headerEnd < 0) {
+    headerEnd = input.indexOf(crlfMarker)
+    markerLength = crlfMarker.length
+  }
+  if (headerEnd < 0) throw new Error("Invalid PAM: ENDHDR not found")
+
+  const dataOffset = headerEnd + markerLength
+  const header = input.subarray(0, headerEnd).toString("ascii")
+  const fields = new Map(
+    header.split(/\r?\n/)
+      .slice(1)
+      .map((line) => line.trim().split(/\s+/, 2))
+      .filter(([key, value]) => key && value)
+  )
+  const widthPx = Number(fields.get("WIDTH"))
+  const heightPx = Number(fields.get("HEIGHT"))
+  const depth = Number(fields.get("DEPTH"))
+  const maxValue = Number(fields.get("MAXVAL"))
+  const tupleType = fields.get("TUPLTYPE")
+
+  if (!header.startsWith("P7") || !Number.isInteger(widthPx) || widthPx < 1 || !Number.isInteger(heightPx) || heightPx < 1) {
+    throw new Error("Invalid PAM geometry")
+  }
+  if (depth !== 4 || maxValue !== 255 || tupleType !== "CMYK") {
+    throw new Error(`Expected 8-bit CMYK PAM, received depth=${depth} max=${maxValue} tuple=${tupleType || "missing"}`)
+  }
+
+  const pixels = input.subarray(dataOffset)
+  const expectedBytes = widthPx * heightPx * depth
+  if (pixels.length !== expectedBytes) {
+    throw new Error(`Invalid PAM data length: expected ${expectedBytes}, received ${pixels.length}`)
+  }
+
+  return { widthPx, heightPx, pixels }
+}
+
+function pdfNumber(value) {
+  return Number(value.toFixed(6)).toString()
+}
+
+export function buildCmykImagePdf({ widthPx, heightPx, widthIn, heightIn, pixels }) {
+  if (!Number.isInteger(widthPx) || widthPx < 1 || !Number.isInteger(heightPx) || heightPx < 1) {
+    throw new Error("PDF image dimensions must be positive integers")
+  }
+  if (!Number.isFinite(widthIn) || widthIn <= 0 || !Number.isFinite(heightIn) || heightIn <= 0) {
+    throw new Error("PDF physical dimensions must be positive numbers")
+  }
+  if (!Buffer.isBuffer(pixels) || pixels.length !== widthPx * heightPx * 4) {
+    throw new Error("PDF CMYK pixel buffer has an invalid length")
+  }
+
+  const pageWidthPt = pdfNumber(widthIn * 72)
+  const pageHeightPt = pdfNumber(heightIn * 72)
+  const compressedPixels = deflateSync(pixels, { level: 9 })
+  const content = Buffer.from(`q\n${pageWidthPt} 0 0 ${pageHeightPt} 0 0 cm\n/Im0 Do\nQ\n`, "ascii")
+  const chunks = [Buffer.from("%PDF-1.4\n%\xE2\xE3\xCF\xD3\n", "latin1")]
+  const offsets = [0]
+  let byteOffset = chunks[0].length
+
+  const addObject = (number, parts) => {
+    offsets[number] = byteOffset
+    const objectChunks = [Buffer.from(`${number} 0 obj\n`, "ascii"), ...parts, Buffer.from("\nendobj\n", "ascii")]
+    for (const chunk of objectChunks) {
+      chunks.push(chunk)
+      byteOffset += chunk.length
+    }
+  }
+
+  addObject(1, [Buffer.from("<< /Type /Catalog /Pages 2 0 R >>", "ascii")])
+  addObject(2, [Buffer.from("<< /Type /Pages /Kids [3 0 R] /Count 1 >>", "ascii")])
+  addObject(3, [Buffer.from(
+    `<< /Type /Page /Parent 2 0 R /MediaBox [0 0 ${pageWidthPt} ${pageHeightPt}] /Resources << /XObject << /Im0 4 0 R >> >> /Contents 5 0 R >>`,
+    "ascii"
+  )])
+  addObject(4, [
+    Buffer.from(
+      `<< /Type /XObject /Subtype /Image /Width ${widthPx} /Height ${heightPx} /ColorSpace /DeviceCMYK /BitsPerComponent 8 /Interpolate false /Filter /FlateDecode /Length ${compressedPixels.length} >>\nstream\n`,
+      "ascii"
+    ),
+    compressedPixels,
+    Buffer.from("\nendstream", "ascii")
+  ])
+  addObject(5, [
+    Buffer.from(`<< /Length ${content.length} >>\nstream\n`, "ascii"),
+    content,
+    Buffer.from("endstream", "ascii")
+  ])
+
+  const xrefOffset = byteOffset
+  const xrefLines = offsets.slice(1).map((offset) => `${String(offset).padStart(10, "0")} 00000 n \n`).join("")
+  chunks.push(Buffer.from(
+    `xref\n0 6\n0000000000 65535 f \n${xrefLines}trailer\n<< /Size 6 /Root 1 0 R >>\nstartxref\n${xrefOffset}\n%%EOF\n`,
+    "ascii"
+  ))
+
+  return Buffer.concat(chunks)
+}
+
 function fontSource(data, localName) {
   return data ? `url("data:font/ttf;base64,${data}") format("truetype")` : `local("${localName}")`
 }
 
 export function buildVol08CoverHtml({ pageCount, fonts = {} }) {
   const geometry = calculateCoverGeometry(pageCount)
+  const layers = resolveCoverLayers()
+  const circuitBand = resolveCircuitBand()
   const backWidthIn = geometry.bleedIn + geometry.trimWidthIn
   const frontLeftIn = backWidthIn + geometry.spineIn
   const colors = VOL08_COVER_SPEC.palette
@@ -102,18 +219,18 @@ export function buildVol08CoverHtml({ pageCount, fonts = {} }) {
     left: 0;
     width: ${backWidthIn}in;
     background: ${colors.ivory};
-    z-index: 2;
+    z-index: ${layers.panels};
   }
   .front-cover {
     left: ${frontLeftIn}in;
     width: ${backWidthIn}in;
     background: ${colors.ivory};
-    z-index: 2;
+    z-index: ${layers.panels};
   }
   .spine {
     left: ${backWidthIn}in;
     width: ${geometry.spineIn}in;
-    z-index: 5;
+    z-index: ${layers.spine};
     background: linear-gradient(90deg, #254255 0%, ${colors.navy} 17%, ${colors.navy} 83%, #254255 100%);
     color: ${colors.ivory};
   }
@@ -134,7 +251,7 @@ export function buildVol08CoverHtml({ pageCount, fonts = {} }) {
     inset: 0;
     width: 100%;
     height: 100%;
-    z-index: 1;
+    z-index: ${layers.circuit};
   }
   .back-content {
     position: absolute;
@@ -142,7 +259,7 @@ export function buildVol08CoverHtml({ pageCount, fonts = {} }) {
     top: 0.52in;
     width: 5.67in;
     height: 8.75in;
-    z-index: 3;
+    z-index: ${layers.content};
   }
   .back-kicker,
   .eyebrow,
@@ -219,7 +336,7 @@ export function buildVol08CoverHtml({ pageCount, fonts = {} }) {
     top: 8.08in;
     width: 2in;
     height: 1.2in;
-    z-index: 8;
+    z-index: ${layers.barcode};
     background: ${colors.ivory};
   }
   .front-content {
@@ -228,7 +345,7 @@ export function buildVol08CoverHtml({ pageCount, fonts = {} }) {
     top: 0.52in;
     width: 5.65in;
     height: 8.82in;
-    z-index: 3;
+    z-index: ${layers.content};
   }
   .eyebrow {
     color: ${colors.teal};
@@ -334,39 +451,41 @@ export function buildVol08CoverHtml({ pageCount, fonts = {} }) {
 <body>
 <main class="cover" data-page-count="${geometry.pageCount}" aria-label="Copertina completa VOL-08">
   <svg class="circuit-field" viewBox="0 0 ${geometry.widthIn} ${geometry.heightIn}" preserveAspectRatio="none" aria-hidden="true">
-    <path d="M0.2 8.22 H2.05 V7.48 H3.52 V8.93 H5.02 V7.95 H6.58 V6.72 H7.08 V5.84 H8.08 V7.42 H9.25 V6.36 H10.54 V7.84 H12.04 V6.72 H13.92"
-      fill="none" stroke="#C7D4D4" stroke-width="0.028"/>
-    <path d="M0.36 1.72 H1.84 V2.32 H3.18 V1.36 H4.62 V2.72 H6.13 V3.44 H6.92 V4.22 H7.82 V3.12 H9.04 V4.48 H10.18 V3.72 H11.58 V4.82 H13.78"
-      fill="none" stroke="#D9C7CA" stroke-width="0.021"/>
-    <path d="M1.16 5.54 H2.52 V4.72 H4.08 V5.68 H5.38 V4.92 H6.71 V5.26 H7.44 V6.18 H8.63 V5.44 H9.74 V6.12 H11.11 V5.22 H12.36 V5.78 H14.08"
-      fill="none" stroke="#D8D2BF" stroke-width="0.018"/>
-    <path d="M8.52 8.82 V7.65 H9.62 V8.21 H10.72 V7.18 H11.84 V8.54 H12.96 V7.82 H13.74"
-      fill="none" stroke="${colors.teal}" stroke-width="0.027"/>
-    <path d="M9.1 5.55 V4.92 H10.12 V5.62 H11.27 V4.78 H12.42 V5.26 H13.6"
-      fill="none" stroke="${colors.burgundy}" stroke-width="0.022"/>
-    <g fill="${colors.ivory}" stroke-width="0.026">
-      <circle cx="2.05" cy="8.22" r="0.105" stroke="${colors.teal}"/>
-      <circle cx="3.52" cy="8.93" r="0.075" stroke="${colors.gold}"/>
-      <circle cx="5.02" cy="7.95" r="0.115" stroke="${colors.burgundy}"/>
-      <circle cx="6.58" cy="6.72" r="0.08" stroke="${colors.teal}"/>
-      <circle cx="8.08" cy="7.42" r="0.105" stroke="${colors.burgundy}"/>
-      <circle cx="9.25" cy="6.36" r="0.075" stroke="${colors.gold}"/>
-      <circle cx="10.54" cy="7.84" r="0.125" stroke="${colors.teal}"/>
-      <circle cx="12.04" cy="6.72" r="0.09" stroke="${colors.burgundy}"/>
-      <circle cx="13.92" cy="6.72" r="0.07" stroke="${colors.gold}"/>
-      <circle cx="1.84" cy="2.32" r="0.065" stroke="${colors.gold}"/>
-      <circle cx="4.62" cy="2.72" r="0.08" stroke="${colors.teal}"/>
-      <circle cx="6.92" cy="4.22" r="0.075" stroke="${colors.burgundy}"/>
-      <circle cx="10.18" cy="3.72" r="0.09" stroke="${colors.teal}"/>
-      <circle cx="12.42" cy="5.26" r="0.075" stroke="${colors.gold}"/>
-    </g>
-    <g fill="${colors.navy}">
-      <rect x="0.68" y="7.18" width="0.09" height="0.09"/>
-      <rect x="3.05" y="4.26" width="0.075" height="0.075"/>
-      <rect x="5.72" y="2.86" width="0.085" height="0.085"/>
-      <rect x="8.95" y="8.78" width="0.085" height="0.085"/>
-      <rect x="11.78" y="3.05" width="0.09" height="0.09"/>
-      <rect x="13.42" y="8.42" width="0.075" height="0.075"/>
+    <defs>
+      <clipPath id="circuit-band">
+        <rect x="0" y="${circuitBand.topIn}" width="${geometry.widthIn}" height="${circuitBand.bottomIn - circuitBand.topIn}"/>
+      </clipPath>
+    </defs>
+    <g clip-path="url(#circuit-band)">
+      <path d="M0.18 5.42 H1.34 V5.92 H2.55 V5.28 H3.72 V6.34 H5.08 V5.70 H6.38 V6.52 H6.95 V5.62 H7.58 V6.12 H8.76 V5.42 H9.96 V6.48 H11.18 V5.72 H12.42 V6.34 H13.97"
+        fill="none" stroke="#C7D4D4" stroke-width="0.026"/>
+      <path d="M0.35 6.63 H1.72 V6.10 H3.12 V6.68 H4.48 V5.98 H5.72 V6.44 H6.62 V5.30 H7.36 V6.68 H8.62 V6.02 H9.82 V6.57 H11.06 V5.33 H12.22 V6.05 H13.76 V5.56 H14.10"
+        fill="none" stroke="#D9C7CA" stroke-width="0.021"/>
+      <path d="M0.72 5.78 H1.86 V6.27 H3.36 V5.52 H4.72 V6.12 H5.95"
+        fill="none" stroke="${colors.burgundy}" stroke-width="0.024"/>
+      <path d="M8.08 6.55 H9.18 V5.76 H10.42 V6.25 H11.58 V5.55 H12.82 V6.52 H14.02"
+        fill="none" stroke="${colors.teal}" stroke-width="0.027"/>
+      <g fill="${colors.ivory}" stroke-width="0.026">
+        <circle cx="1.34" cy="5.92" r="0.09" stroke="${colors.teal}"/>
+        <circle cx="2.55" cy="5.28" r="0.065" stroke="${colors.gold}"/>
+        <circle cx="3.72" cy="6.34" r="0.105" stroke="${colors.burgundy}"/>
+        <circle cx="5.08" cy="5.70" r="0.075" stroke="${colors.teal}"/>
+        <circle cx="6.38" cy="6.52" r="0.065" stroke="${colors.gold}"/>
+        <circle cx="8.08" cy="6.55" r="0.095" stroke="${colors.burgundy}"/>
+        <circle cx="9.18" cy="5.76" r="0.07" stroke="${colors.gold}"/>
+        <circle cx="10.42" cy="6.25" r="0.115" stroke="${colors.teal}"/>
+        <circle cx="11.58" cy="5.55" r="0.08" stroke="${colors.burgundy}"/>
+        <circle cx="12.82" cy="6.52" r="0.07" stroke="${colors.gold}"/>
+        <circle cx="13.76" cy="5.56" r="0.09" stroke="${colors.teal}"/>
+      </g>
+      <g fill="${colors.navy}">
+        <rect x="0.44" y="6.16" width="0.08" height="0.08"/>
+        <rect x="2.96" y="5.78" width="0.075" height="0.075"/>
+        <rect x="5.52" y="6.15" width="0.085" height="0.085"/>
+        <rect x="8.72" y="5.35" width="0.08" height="0.08"/>
+        <rect x="11.18" y="6.26" width="0.09" height="0.09"/>
+        <rect x="13.52" y="6.18" width="0.075" height="0.075"/>
+      </g>
     </g>
   </svg>
 

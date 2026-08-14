@@ -1,12 +1,17 @@
 import { spawnSync } from "node:child_process"
 import { existsSync } from "node:fs"
-import { copyFile, mkdir, mkdtemp, readFile, rm } from "node:fs/promises"
+import { copyFile, mkdir, mkdtemp, readFile, rm, writeFile } from "node:fs/promises"
 import os from "node:os"
 import path from "node:path"
 import process from "node:process"
 import { fileURLToPath } from "node:url"
 import { chromium } from "@playwright/test"
-import { buildVol08CoverHtml, calculateCoverGeometry } from "./vol08-kdp-cover-core.mjs"
+import {
+  buildCmykImagePdf,
+  buildVol08CoverHtml,
+  calculateCoverGeometry,
+  parseCmykPam
+} from "./vol08-kdp-cover-core.mjs"
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..")
 const OUTPUT_DIR = path.join(ROOT, "delivery", "VOL-08", "candidate")
@@ -77,7 +82,8 @@ async function main() {
   const fonts = await loadFonts()
   const tempDirectory = await mkdtemp(path.join(os.tmpdir(), "vol08-kdp-cover-"))
   const rgbPdfPath = path.join(tempDirectory, "vol-08-cover-rgb.pdf")
-  const cmykPdfPath = path.join(tempDirectory, "vol-08-cover-cmyk.pdf")
+  const cmykPamPath = path.join(tempDirectory, "vol-08-cover-cmyk.pam")
+  const finalPdfPath = path.join(tempDirectory, "vol-08-cover-final.pdf")
   let browser
 
   try {
@@ -105,11 +111,16 @@ async function main() {
     await browser.close()
     browser = undefined
 
-    runMutool(mutoolPath, ["draw", "-q", "-F", "pdf", "-c", "cmyk", "-o", cmykPdfPath, rgbPdfPath, "1"])
-    await readFile(cmykPdfPath)
-    await rm(PDF_PATH, { force: true })
+    runMutool(mutoolPath, ["draw", "-q", "-F", "pam", "-c", "cmyk", "-r", "300", "-o", cmykPamPath, rgbPdfPath, "1"])
+    const cmykImage = parseCmykPam(await readFile(cmykPamPath))
+    const finalPdf = buildCmykImagePdf({
+      ...cmykImage,
+      widthIn: geometry.widthIn,
+      heightIn: geometry.heightIn
+    })
+    await writeFile(finalPdfPath, finalPdf)
+    await copyFile(finalPdfPath, PDF_PATH)
     await rm(PREVIEW_PATH, { force: true })
-    await copyFile(cmykPdfPath, PDF_PATH)
     runMutool(mutoolPath, ["draw", "-q", "-F", "png", "-c", "rgb", "-r", "300", "-o", PREVIEW_PATH, PDF_PATH, "1"])
 
     process.stdout.write(`${JSON.stringify({
@@ -117,6 +128,7 @@ async function main() {
       geometry,
       pdf: path.relative(ROOT, PDF_PATH).replaceAll("\\", "/"),
       preview: path.relative(ROOT, PREVIEW_PATH).replaceAll("\\", "/"),
+      raster: { widthPx: cmykImage.widthPx, heightPx: cmykImage.heightPx, dpi: 300, colorSpace: "DeviceCMYK" },
       mutool: mutoolPath
     }, null, 2)}\n`)
   } finally {

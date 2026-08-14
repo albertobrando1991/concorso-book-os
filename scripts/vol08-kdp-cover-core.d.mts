@@ -26,4 +26,20 @@ export const VOL08_COVER_SPEC: Readonly<{
 }>
 
 export function calculateCoverGeometry(pageCount: number): CoverGeometry
+export function resolveCoverLayers(): Readonly<{
+  panels: number
+  circuit: number
+  content: number
+  spine: number
+  barcode: number
+}>
+export function resolveCircuitBand(): Readonly<{ topIn: number; bottomIn: number }>
 export function buildVol08CoverHtml(input: { pageCount: number; fonts?: CoverFonts }): string
+export function parseCmykPam(input: Buffer): { widthPx: number; heightPx: number; pixels: Buffer }
+export function buildCmykImagePdf(input: {
+  widthPx: number
+  heightPx: number
+  widthIn: number
+  heightIn: number
+  pixels: Buffer
+}): Buffer
