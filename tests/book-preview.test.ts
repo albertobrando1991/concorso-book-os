@@ -489,6 +489,7 @@ describe("book preview assets", () => {
           "---",
           "title: Lavorare nei Ministeri",
           "outline_section: 1",
+          "status: publication-ready",
           "---",
           "# Lavorare nei Ministeri",
           "",
@@ -519,6 +520,7 @@ describe("book preview assets", () => {
           "---",
           "title: Agenzie fiscali e profili",
           "outline_section: 1",
+          "status: publication-ready",
           "---",
           "# Agenzie fiscali e profili",
           "",
@@ -552,7 +554,94 @@ describe("book preview assets", () => {
       expect(data.chapters.find((chapter) => chapter.title === "Agenzie fiscali e profili")?.volumeModuleCode).toBe("M-FC02")
       expect(readerChapters.map((chapter) => chapter.outlineSection)).toEqual(["1", "2"])
       expect(readerChapters.map((chapter) => chapter.moduleOutlineSection)).toEqual(["1", "1"])
+      expect(readerChapters.map((chapter) => chapter.contentState)).toEqual(["written", "written"])
       expect(new Set(readerChapters.map((chapter) => chapter.path)).size).toBe(2)
+
+      const digitalServicesText = data.chapters
+        .find((chapter) => chapter.title === "Servizi digitali inclusi")
+        ?.blocks.flatMap((block) => [
+          block.text || "",
+          ...(block.items || []),
+          ...(block.headers || []),
+          ...(block.rows?.flat() || [])
+        ]).join(" ")
+      const copyrightText = data.chapters
+        .find((chapter) => chapter.title === "Copyright e note editoriali")
+        ?.blocks.flatMap((block) => [
+          block.text || "",
+          ...(block.items || []),
+          ...(block.headers || []),
+          ...(block.rows?.flat() || [])
+        ]).join(" ")
+      const prefaceText = data.chapters
+        .find((chapter) => chapter.title === "Premessa")
+        ?.blocks.flatMap((block) => [
+          block.text || "",
+          ...(block.items || []),
+          ...(block.headers || []),
+          ...(block.rows?.flat() || [])
+        ]).join(" ")
+
+      expect(digitalServicesText).toContain("è collegato")
+      expect(digitalServicesText).toContain("priorità")
+      expect(digitalServicesText).not.toContain("prima della pubblicazione")
+      expect(copyrightText).toContain("ed è costruito")
+      expect(copyrightText).toContain("né aggiornamento automatico")
+      expect(copyrightText).not.toContain("pubblicazione definitiva")
+      expect(copyrightText).toContain("prima di applicarle a un bando")
+      expect(prefaceText).toContain("Percorso specialistico per funzioni centrali generaliste")
+      expect(prefaceText).toContain("Usa il bando come selettore")
+      expect(prefaceText).not.toContain("La struttura segue una regola precisa")
+      expect(prefaceText).not.toContain("senza incontrare di nuovo")
+    } finally {
+      await rm(root, { recursive: true, force: true })
+    }
+  })
+
+  it("renders the approved VOL-08 commercial identity in generated front matter", async () => {
+    const root = await mkdtemp(path.join(os.tmpdir(), "book-preview-vol-08-identity-"))
+
+    try {
+      await mkdir(path.join(root, "books/moduli/m-tr01-ict-trasformazione-digitale/chapters"), { recursive: true })
+      await writeFile(
+        path.join(root, "books/moduli/m-tr01-ict-trasformazione-digitale/index.md"),
+        "---\ntitle: M-TR01 — ICT e trasformazione digitale\n---\n# M-TR01",
+        "utf8"
+      )
+      await writeFile(
+        path.join(root, "books/moduli/m-tr01-ict-trasformazione-digitale/chapters/01-profilo.md"),
+        [
+          "---",
+          "title: Profili ICT nella PA",
+          "outline_section: 1",
+          "status: publication-ready",
+          "---",
+          "# Profili ICT nella PA",
+          "",
+          "Questo capitolo rende disponibile il modulo nel volume commerciale."
+        ].join("\n"),
+        "utf8"
+      )
+
+      const data = await buildBookStudioData(new FileWikiStore(root), "volumi/vol-08")
+      const flattenGeneratedText = (title: string) => data.chapters
+        .find((chapter) => chapter.title === title)
+        ?.blocks.flatMap((block) => [
+          block.text || "",
+          ...(block.items || []),
+          ...(block.headers || []),
+          ...(block.rows?.flat() || [])
+        ]).join(" ") || ""
+      const titlePageText = flattenGeneratedText("Frontespizio")
+      const copyrightText = flattenGeneratedText("Copyright e note editoriali")
+
+      expect(titlePageText).toContain(
+        "Manuale specialistico per concorsi pubblici — informatica, cloud, cybersecurity, dati e intelligenza artificiale"
+      )
+      expect(titlePageText).toContain("Capitale Personale")
+      expect(copyrightText).toContain("© 2026 Capitale Personale. Tutti i diritti riservati.")
+      expect(copyrightText).toContain("Prima edizione, 2026.")
+      expect(`${titlePageText} ${copyrightText}`).not.toMatch(/ISBN\s*[:0-9]/i)
     } finally {
       await rm(root, { recursive: true, force: true })
     }
