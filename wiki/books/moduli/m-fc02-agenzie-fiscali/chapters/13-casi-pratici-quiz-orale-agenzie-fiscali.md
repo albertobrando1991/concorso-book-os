@@ -17,12 +17,12 @@ book_refs: ["m-fc02-agenzie-fiscali", "il-metodo-bando"]
 confidence: 0.95
 updated_at: 2026-08-04
 created_at: 2026-07-01T21:00:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "module-code-m-fc02", "professional-draft", "revised-draft", "workbook"]
 book_id: m-fc02-agenzie-fiscali
 outline_section: 13
-draft_stage: revised-editorial-draft
+draft_stage: specialist-audit-complete
 module_code: M-FC02
 module_family: funzioni-centrali
 companion_to: il-metodo-bando
@@ -34,9 +34,9 @@ last_compiled_from: ["wiki/sources/m-fc02-dossier-redazionale-agenzie-fiscali.md
 ## Apertura editoriale
 Nei concorsi delle Agenzie fiscali il candidato non viene valutato solo per la quantità di nozioni che ricorda. Viene valutato per la capacità di riconoscere un problema, scegliere il piano giuridico corretto, usare il lessico dell'ente e restare ordinato quando il tempo è poco.
 
-Questa è la differenza tra "sapere tributario" e "prestazione concorsuale tributaria". La prima riguarda lo studio; la seconda riguarda l'uso dello studio davanti a un quesito, a una traccia o a una commissione. Un candidato può' conoscere l'IVA, l'accertamento, la riscossione o le procedure doganali, ma perdere punti se confonde il soggetto competente, salta una fase procedimentale, usa parole generiche o risponde come se tutte le Agenzie facessero lo stesso lavoro.
+Questa è la differenza tra "sapere tributario" e "prestazione concorsuale tributaria". La prima riguarda lo studio; la seconda riguarda l'uso dello studio davanti a un quesito, a una traccia o a una commissione. Un candidato può conoscere l'IVA, l'accertamento, la riscossione o le procedure doganali, ma perdere punti se confonde il soggetto competente, salta una fase procedimentale, usa parole generiche o risponde come se tutte le Agenzie facessero lo stesso lavoro.
 
-Il modulo M-FC02 richiede una disciplina particolare: ogni risposta deve tenere insieme ente, funzione, materia e profilo. L'Agenzia delle Entrate non chiede lo stesso tipo di ragionamento dell'Agenzia delle Dogane e dei Monopoli; Agenzia delle Entrate-Riscossione non coincide con l'ente impositore; un caso di front-office non si risolve come un tema teorico; una domanda orale non si affronta come una sequenza di definizioni imparate a memoria [[sources/m-fc02-dossier-redazionale-agenzie-fiscali]].
+Il modulo M-FC02 richiede una disciplina particolare: ogni risposta deve tenere insieme ente, funzione, materia e profilo. L'Agenzia delle Entrate non chiede lo stesso tipo di ragionamento dell'Agenzia delle Dogane e dei Monopoli; Agenzia delle Entrate-Riscossione non coincide con l'ente impositore; un caso di front-office non si risolve come un tema teorico; una domanda orale non si affronta come una sequenza di definizioni imparate a memoria.
 
 Il lavoro finale consiste quindi in quattro trasformazioni:
 
@@ -50,12 +50,12 @@ Il Diario errori fiscale, la griglia orale e il piano 30/60/90 raccolgono lo stu
 ## Obiettivo del capitolo
 Al termine del capitolo il candidato deve saper fare sette operazioni.
 
-1. Leggere il bando e distinguere prova a quiz, prova scritta, prova teorico-pratica, orale, idoneita linguistiche o informatiche, titoli, soglie e criteri di valutazione.
+1. Leggere il bando e distinguere prova a quiz, prova scritta, prova teorico-pratica, orale, idoneità linguistiche o informatiche, titoli, soglie e criteri di valutazione.
 2. Trasformare le materie M-FC02 in domande probabili, senza inventare contenuti non previsti dal bando.
 3. Allenare quiz tributari, doganali e amministrativi con una procedura stabile: lettura, esclusione, scelta, controllo, diario.
 4. Risolvere un caso sintetico distinguendo fatto, soggetto competente, istituto, sequenza procedimentale e risposta conclusiva.
 5. Rispondere oralmente in modo ordinato, con definizione, funzione, passaggi essenziali, esempio e cautela finale.
-6. Gestire domande di front-office e comunicazione istituzionale senza promettere ciò' che l'amministrazione non può' promettere.
+6. Gestire domande di front-office e comunicazione istituzionale senza promettere ciò che l'amministrazione non può promettere.
 7. Costruire un piano 30/60/90 coerente con il calendario reale della procedura.
 
 La sequenza segue il Metodo BANDO. Si delimita la richiesta, si traduce il programma in prestazioni e si corregge il metodo sulla base degli errori effettivi.
@@ -71,26 +71,26 @@ Una pagina è stata usata bene quando produce una domanda, una risposta, una sch
 
 | Passaggio | Domanda guida | Applicazione al capitolo |
 |---|---|---|
-| B - Bando | Che prova devo sostenere davvero? | Quiz, scritto, teorico-pratico, orale, idoneita, titoli, soglie e penalita vanno ricavati dal bando e dagli avvisi ufficiali. |
+| B - Bando | Che prova devo sostenere davvero? | Quiz, scritto, teorico-pratico, orale, idoneità, titoli, soglie e penalità vanno ricavati dal bando e dagli avvisi ufficiali. |
 | A - Aree | Quali materie pesano nel profilo? | Tributario, dogane, riscossione, contabilità, civile/commerciale, organizzazione, amministrativo e competenze digitali vanno gerarchizzati. |
-| N - Nuclei | Quali concetti tornano in più' prove? | Soggetti, competenze, atti, termini, procedimenti, poteri, garanzie, controlli, pagamento, impugnazione, front-office. |
-| D - Domande | In quale forma può' comparire il contenuto? | Quiz secco, quesito situazionale, caso breve, domanda orale, confronto tra istituti, errore da riconoscere. |
+| N - Nuclei | Quali concetti tornano in più prove? | Soggetti, competenze, atti, termini, procedimenti, poteri, garanzie, controlli, pagamento, impugnazione, front-office. |
+| D - Domande | In quale forma può comparire il contenuto? | Quiz secco, quesito situazionale, caso breve, domanda orale, confronto tra istituti, errore da riconoscere. |
 | O - Output | Che prodotto devo allenare? | Simulazione, scheda caso, risposta da 90 secondi, diario errori, piano 30/60/90. |
 
-La mappa va compilata per il concorso specifico. I bandi rappresentativi del perimetro M-FC02 mostrano profili e materie differenti tra Agenzia delle Entrate, Agenzia delle Dogane e dei Monopoli e Agenzia delle Entrate-Riscossione [[sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026]]. Per questo non esiste una simulazione unica valida per tutti: esiste una struttura comune da adattare.
+La mappa va compilata per il concorso specifico. I bandi rappresentativi del perimetro M-FC02 mostrano profili e materie differenti tra Agenzia delle Entrate, Agenzia delle Dogane e dei Monopoli e Agenzia delle Entrate-Riscossione. Per questo non esiste una simulazione unica valida per tutti: esiste una struttura comune da adattare.
 
 ![Figura 13.1 - Mappa BANDO della prestazione finale: dal bando agli output, tra quiz, caso, orale, diario errori e piano.](../assets/chapter-13/01-mappa-bando-performance-finale.png)
 
 ## Dalla materia alla prestazione
-Lo studio concorsuale diventa fragile quando resta organizzato solo per capitoli. In prova, pero', il candidato non incontra un capitolo: incontra un compito.
+Lo studio concorsuale diventa fragile quando resta organizzato solo per capitoli. In prova, però, il candidato non incontra un capitolo: incontra un compito.
 
-Una stessa materia può' generare prestazioni diverse.
+Una stessa materia può generare prestazioni diverse.
 
 | Materia | Quiz | Caso pratico | Orale |
 |---|---|---|---|
 | Diritto tributario | Definizione, soggetto, presupposto, differenza tra istituti. | Individuare il potere dell'amministrazione e la posizione del contribuente. | Spiegare funzione del tributo, rapporto d'imposta, garanzie e limiti. |
 | Accertamento e controlli | Termine, atto, controllo, fase procedimentale. | Ricostruire un controllo documentale o un invito alla compliance. | Collegare potere di controllo, partecipazione e motivazione. |
-| Dichiarazioni e IVA | Adempimento, versamento, compensazione, dichiarazione. | Distinguere errore dichiarativo, omesso versamento, credito, documentazione. | Spiegare perché' dichiarazione e pagamento non sono la stessa cosa. |
+| Dichiarazioni e IVA | Adempimento, versamento, compensazione, dichiarazione. | Distinguere errore dichiarativo, omesso versamento, credito, documentazione. | Spiegare perché dichiarazione e pagamento non sono la stessa cosa. |
 | Riscossione | Cartella, avviso, pagamento, rateazione, sospensione. | Orientare un contribuente rispetto a cartella, scadenza, istanza o sportello. | Distinguere ente creditore, agente della riscossione e contribuente. |
 | Dogane | Merce, dichiarazione, classificazione, origine, valore, controllo. | Gestire un flusso import/export o un controllo su operatore economico. | Spiegare il ruolo di ADM tra fiscalità, controlli e tutela degli interessi pubblici. |
 | Accise, giochi e monopoli | Presupposto, prodotto, autorizzazione, controllo. | Riconoscere il piano fiscale e quello regolatorio. | Collegare gettito, vigilanza e legalità economica. |
@@ -100,31 +100,31 @@ Una stessa materia può' generare prestazioni diverse.
 La prestazione cambia anche il linguaggio. Nel quiz serve precisione; nel caso serve sequenza; all'orale serve esposizione. La preparazione finale deve allenare tutte e tre le forme.
 
 ## Quiz tributari e doganali
-Il quiz comprime una domanda in poche righe. Può' verificare una distinzione che, se studiata male, porta a errori anche nello scritto e nell'orale.
+Il quiz comprime una domanda in poche righe. Può verificare una distinzione che, se studiata male, porta a errori anche nello scritto e nell'orale.
 
-Nei concorsi pubblici la forma concreta della prova dipende dal bando e dagli avvisi della procedura. La prova può' includere quesiti a risposta multipla, prova scritta, prova teorico-pratica, orale, accertamenti linguistici o informatici e ulteriori elementi indicati dal bando [[sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994]]. Il candidato deve quindi partire da quattro dati:
+Nei concorsi pubblici la forma concreta della prova dipende dal bando e dagli avvisi della procedura. La prova può includere quesiti a risposta multipla, prova scritta, prova teorico-pratica, orale, accertamenti linguistici o informatici e ulteriori elementi indicati dal bando. Il candidato deve quindi partire da quattro dati:
 
 - numero dei quesiti;
 - materie incluse;
 - tempo disponibile;
-- punteggio, soglia, penalita e criteri di idoneita.
+- punteggio, soglia, penalità e criteri di idoneità.
 
-Senza questi dati non si può' costruire una simulazione fedele. Si può' studiare, ma non si può' ancora simulare.
+Senza questi dati non si può costruire una simulazione fedele. Si può studiare, ma non si può ancora simulare.
 
-Nel perimetro M-FC02 i quiz più' insidiosi non sono sempre quelli nozionistici. Spesso sono quelli che chiedono di distinguere:
+Nel perimetro M-FC02 i quiz più insidiosi non sono sempre quelli nozionistici. Spesso sono quelli che chiedono di distinguere:
 
 - ente impositore e agente della riscossione;
 - controllo formale, accertamento e attività di assistenza;
 - dichiarazione, liquidazione e versamento;
 - tributi diretti, IVA, imposte indirette e tributi locali non pertinenti al profilo;
 - dichiarazione doganale, controllo doganale e adempimento dell'operatore;
-- catasto, pubblicità immobiliare e titolarita civilistica;
+- catasto, pubblicità immobiliare e titolarità civilistica;
 - bilancio civilistico, risultato economico e reddito imponibile.
 
 Il candidato deve allenarsi a riconoscere il "piano" della domanda prima di scegliere l'opzione.
 
 ## Con banca dati e senza banca dati
-La presenza di una banca dati ufficiale cambia la strategia, ma non elimina il ragionamento. Una banca dati ufficiale è materiale di procedura: va verificata nella fonte, nella data, nella versione e negli eventuali avvisi di aggiornamento [[topics/banca-dati-ufficiale-quiz]].
+La presenza di una banca dati ufficiale cambia la strategia, ma non elimina il ragionamento. Una banca dati ufficiale è materiale di procedura: va verificata nella fonte, nella data, nella versione e negli eventuali avvisi di aggiornamento.
 
 Se la banca dati è pubblicata, il percorso consigliato è:
 
@@ -134,7 +134,7 @@ Se la banca dati è pubblicata, il percorso consigliato è:
 4. taggare ogni domanda come sicura, incerta, sbagliata, lenta, indovinata o da spiegare;
 5. ripassare in modo distribuito le domande sbagliate, lente e indovinate;
 6. trasformare i quesiti centrali in micro-spiegazioni orali;
-7. simulare con timer, punteggio e penalita del bando.
+7. simulare con timer, punteggio e penalità del bando.
 
 Se la banca dati non è pubblicata, il percorso cambia:
 
@@ -144,7 +144,7 @@ Se la banca dati non è pubblicata, il percorso cambia:
 4. si registra l'errore per causa, non solo per materia;
 5. si alternano quiz e spiegazioni orali per evitare memoria meccanica.
 
-Il numero dei quiz svolti dice poco. Contano gli errori che continuano a tornare e ciò' che rivelano sul metodo.
+Il numero dei quiz svolti dice poco. Contano gli errori che continuano a tornare e ciò che rivelano sul metodo.
 
 ## Procedura in quattro mosse per il quiz
 Ogni quiz va trattato con una procedura fissa.
@@ -153,9 +153,9 @@ Ogni quiz va trattato con una procedura fissa.
 
 **2. Esclusione.** Si eliminano le opzioni incompatibili con soggetto, materia o fase. Nei quiz fiscali molte risposte sbagliate sono plausibili solo se si confondono piani diversi.
 
-**3. Scelta.** Si sceglie l'opzione coerente con la domanda, non quella che "suona più' completa". In un quiz, una risposta troppo ampia può' essere sbagliata perché' non risponde al perimetro.
+**3. Scelta.** Si sceglie l'opzione coerente con la domanda, non quella che "suona più completa". In un quiz, una risposta troppo ampia può essere sbagliata perché non risponde al perimetro.
 
-**4. Controllo.** Prima di confermare si rilegge la parola-spia: non, salvo, esclusivamente, sempre, può', deve, competente, termine, principale, falsa.
+**4. Controllo.** Prima di confermare si rilegge la parola-spia: non, salvo, esclusivamente, sempre, può, deve, competente, termine, principale, falsa.
 
 Con l'allenamento la procedura diventa automatica e impedisce che la pressione del tempo trasformi una conoscenza corretta in una risposta sbagliata.
 
@@ -171,7 +171,7 @@ Con l'allenamento la procedura diventa automatica e impedisce che la pressione d
 | Ente competente | Confusione tra AE, ADM, AdER o altri enti. | Identificare materia e funzione. |
 | Versamento | Confusione tra dichiarazione, liquidazione, pagamento e riscossione. | Separare adempimento, debito e fase di recupero. |
 | Controllo | Confusione tra controllo, accertamento, assistenza e vigilanza. | Chiedersi quale potere e quale fase sono coinvolti. |
-| Operatore | Nei casi doganali può' indicare importatore, esportatore, dichiarante, intermediario o soggetto autorizzato. | Ricostruire il ruolo prima della risposta. |
+| Operatore | Nei casi doganali può indicare importatore, esportatore, dichiarante, intermediario o soggetto autorizzato. | Ricostruire il ruolo prima della risposta. |
 | Cartella | Rischio di attribuire ad AdER il potere impositivo. | Distinguere credito, titolo, notifica, pagamento e strumenti di tutela. |
 
 ### Classificare sicurezza ed errore
@@ -217,7 +217,7 @@ A. opera entro il titolo; B. sostituisce ADM; C. crea liberamente giochi; D. pu�
 **Risposta: A.**
 
 **8. Il DOCFA riguarda principalmente:**
-A. formalita ipotecarie; B. dichiarazioni urbane; C. dazi; D. accise.
+A. formalità ipotecarie; B. dichiarazioni urbane; C. dazi; D. accise.
 **Risposta: B.**
 
 **9. L'iscrizione nei registri immobiliari riguarda tipicamente:**
@@ -225,7 +225,7 @@ A. l'ipoteca; B. il classamento; C. l'OMI; D. la voltura.
 **Risposta: A.**
 
 **10. L'incasso di un credito già contabilizzato:**
-A. genera sempre un nuovo ricavo; B. trasforma il credito in liquidita; C. aumenta il debito; D. è una variazione fiscale.
+A. genera sempre un nuovo ricavo; B. trasforma il credito in liquidità; C. aumenta il debito; D. è una variazione fiscale.
 **Risposta: B.**
 
 **11. Il reddito imponibile d'impresa:**
@@ -237,11 +237,11 @@ A. sospende automaticamente la procedura; B. annulla la cartella; C. non produce
 **Risposta: C.**
 
 ## Casi pratici nelle Agenzie fiscali
-Il caso pratico verifica una competenza diversa dal quiz. Non chiede solo "che cosa sai?", ma "che cosa fai con ciò' che sai?". Un caso può' essere lungo o molto breve; può' chiedere una soluzione, una sequenza, un parere sintetico, una risposta al cittadino, una classificazione di problemi o un confronto tra strumenti.
+Il caso pratico verifica una competenza diversa dal quiz. Non chiede solo "che cosa sai?", ma "che cosa fai con ciò che sai?". Un caso può essere lungo o molto breve; può chiedere una soluzione, una sequenza, un parere sintetico, una risposta al cittadino, una classificazione di problemi o un confronto tra strumenti.
 
 Nel perimetro M-FC02 conviene usare una griglia unica.
 
-| Passaggio | Domanda | Perché' conta |
+| Passaggio | Domanda | Perché conta |
 |---|---|---|
 | Fatto | Che cosa è accaduto? | Evita di rispondere a una domanda diversa. |
 | Soggetti | Chi sono contribuente, operatore, ente, ufficio o agente? | Impedisce confusione tra amministrazioni. |
@@ -251,12 +251,12 @@ Nel perimetro M-FC02 conviene usare una griglia unica.
 | Garanzie | Quali limiti, partecipazione, informazione o tutela vanno ricordati? | Evita risposte autoritative o incomplete. |
 | Output | Che risposta deve produrre il candidato? | Conclude in modo utile e valutabile. |
 
-La griglia è particolarmente utile nei casi ibridi. Una società può' comparire in un problema di IVA, bilancio, riscossione o dogane: la materia si riconosce dal problema, non dal solo soggetto coinvolto.
+La griglia è particolarmente utile nei casi ibridi. Una società può comparire in un problema di IVA, bilancio, riscossione o dogane: la materia si riconosce dal problema, non dal solo soggetto coinvolto.
 
 ## Caso AE: dichiarazione, controllo e compliance
-**Scenario.** Un contribuente riceve una comunicazione relativa a dati dichiarativi non coerenti con informazioni già' disponibili all'amministrazione. Chiede all'ufficio se deve pagare subito e se la comunicazione equivale a un accertamento definitivo.
+**Scenario.** Un contribuente riceve una comunicazione relativa a dati dichiarativi non coerenti con informazioni già disponibili all'amministrazione. Chiede all'ufficio se deve pagare subito e se la comunicazione equivale a un accertamento definitivo.
 
-**Lettura corretta.** Il caso va affrontato distinguendo assistenza, controllo, compliance, eventuale liquidazione e accertamento. Non bisogna trasformare ogni contatto dell'amministrazione con il contribuente in un atto definitivo. L'Agenzia delle Entrate opera su dichiarazioni, versamenti, controlli, accertamento e servizi al contribuente; il candidato deve riconoscere la fase e non usare un linguaggio generico [[sources/m-fc02-dossier-redazionale-agenzie-fiscali]].
+**Lettura corretta.** Il caso va affrontato distinguendo assistenza, controllo, compliance, eventuale liquidazione e accertamento. Non bisogna trasformare ogni contatto dell'amministrazione con il contribuente in un atto definitivo. L'Agenzia delle Entrate opera su dichiarazioni, versamenti, controlli, accertamento e servizi al contribuente; il candidato deve riconoscere la fase e non usare un linguaggio generico.
 
 **Risposta modello.** In una risposta concorsuale occorre prima qualificare la comunicazione, poi spiegare che il contribuente deve verificare i dati indicati, confrontarli con la propria dichiarazione e con la documentazione disponibile, e valutare gli strumenti indicati nella comunicazione e negli avvisi ufficiali. Se emergono errori o elementi da chiarire, la risposta corretta non è "pagare sempre", ma verificare il contenuto dell'atto, i termini, le modalità di interlocuzione e le eventuali conseguenze. La conclusione deve restare prudente: il candidato non promette esiti, ma descrive il percorso amministrativo.
 
@@ -265,7 +265,7 @@ La griglia è particolarmente utile nei casi ibridi. Una società può' comparir
 ## Caso ADM: merce, dichiarazione e controllo
 **Scenario.** Un operatore importa merci e segnala dubbi sulla classificazione del prodotto, sull'origine e sulla documentazione da presentare. La traccia chiede quali profili deve considerare l'ufficio in un controllo.
 
-**Lettura corretta.** Il caso riguarda il rapporto tra merce, dichiarazione doganale, elementi dell'obbligazione doganale e funzione di controllo. Va quindi trattato nel suo perimetro doganale, senza ridurlo a un problema IVA o commerciale. L'Agenzia delle Dogane e dei Monopoli presidia un'area in cui fiscalità, controlli, traffici, accise, giochi e monopoli possono intrecciarsi, secondo il profilo previsto dal bando [[sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026]].
+**Lettura corretta.** Il caso riguarda il rapporto tra merce, dichiarazione doganale, elementi dell'obbligazione doganale e funzione di controllo. Va quindi trattato nel suo perimetro doganale, senza ridurlo a un problema IVA o commerciale. L'Agenzia delle Dogane e dei Monopoli presidia un'area in cui fiscalità, controlli, traffici, accise, giochi e monopoli possono intrecciarsi, secondo il profilo previsto dal bando.
 
 **Risposta modello.** Il candidato deve partire dall'identificazione della merce e dalla documentazione disponibile. Deve poi richiamare i profili essenziali: classificazione, origine, valore, regime o destinazione doganale, eventuali autorizzazioni o controlli specifici. La risposta deve mostrare che l'ufficio non valuta solo un dato isolato, ma la coerenza del flusso dichiarato con la disciplina applicabile. Se il bando include materie doganali, questo tipo di caso va allenato con schede brevi, non solo con definizioni.
 
@@ -274,11 +274,11 @@ La griglia è particolarmente utile nei casi ibridi. Una società può' comparir
 ## Caso AdER: cartella, pagamento e orientamento dell'utente
 **Scenario.** Un cittadino si presenta allo sportello per una cartella. Dice di non capire se il debito sia dovuto, chiede una rateazione e domanda all'operatore di "annullare tutto".
 
-**Lettura corretta.** Il caso richiede la distinzione tra ente creditore, titolo, agente della riscossione, pagamento, rateazione, sospensione e tutela. Agenzia delle Entrate-Riscossione non coincide con l'ente impositore e non va descritta come se decidesse sempre il merito del tributo. Nel modulo M-FC02 questa distinzione è centrale [[topics/profili-agenzie-fiscali]].
+**Lettura corretta.** Il caso richiede la distinzione tra ente creditore, titolo, agente della riscossione, pagamento, rateazione, sospensione e tutela. Agenzia delle Entrate-Riscossione non coincide con l'ente impositore e non va descritta come se decidesse sempre il merito del tributo. Nel modulo M-FC02 questa distinzione è centrale.
 
 **Risposta modello.** Una risposta corretta deve orientare l'utente senza sostituirsi alla decisione dell'amministrazione competente. L'operatore deve verificare la posizione, spiegare quali informazioni risultano dall'atto, indicare i canali e gli strumenti previsti per pagamento, rateazione o istanze, e chiarire quando occorre rivolgersi all'ente creditore o seguire le forme di tutela previste. La comunicazione deve essere chiara, ma non deve promettere annullamenti o soluzioni non verificate.
 
-**Errore da evitare.** Dire al cittadino che AdER può' cancellare liberamente il debito se il contribuente lo contesta. Il punto concorsuale è distinguere gestione della riscossione, merito del credito e strumenti di tutela.
+**Errore da evitare.** Dire al cittadino che AdER può cancellare liberamente il debito se il contribuente lo contesta. Il punto concorsuale è distinguere gestione della riscossione, merito del credito e strumenti di tutela.
 
 ## Palestra di casi aggiuntivi
 
@@ -326,7 +326,7 @@ Un importatore dichiara componenti spediti dalla Corea come originari del Paese 
 **Rilancio orale
 **
 
-«Che differenza c'e tra informazione tariffaria vincolante e prova di origine?» La prima riguarda la classificazione; la seconda dimostra l'origine secondo il regime invocato.
+«Che differenza c'è tra informazione tariffaria vincolante e prova di origine?» La prima riguarda la classificazione; la seconda dimostra l'origine secondo il regime invocato.
 
 ### Caso AdER: cartella contestata e richiesta di rate
 
@@ -352,9 +352,9 @@ Promettere che AdER cancellera il tributo oppure subordinare la sospensione alla
 
 ### Caso Territorio: planimetria e proprietà
 
-Una cittadina chiede all'ufficio di certificare che è proprietaria di un appartamento perché la visura catastale è intestata a lei. La planimetria, pero, non corrisponde allo stato dei luoghi.
+Una cittadina chiede all'ufficio di certificare che è proprietaria di un appartamento perché la visura catastale è intestata a lei. La planimetria, però, non corrisponde allo stato dei luoghi.
 
-**Soluzione.** L'operatore distingue titolarita civilistica, dato catastale e conformita della rappresentazione. La visura non costituisce ordinariamente titolo di proprietà. Per il diritto occorrono titolo e formalita immobiliari; per la difformita catastale serve verificare la causa e la procedura tecnica, senza confonderla con la regolarità urbanistica.
+**Soluzione.** L'operatore distingue titolarità civilistica, dato catastale e conformità della rappresentazione. La visura non costituisce ordinariamente titolo di proprietà. Per il diritto occorrono titolo e formalità immobiliari; per la difformità catastale serve verificare la causa e la procedura tecnica, senza confonderla con la regolarità urbanistica.
 
 ### Caso situazionale: utente aggressivo allo sportello
 
@@ -370,7 +370,7 @@ Un utente alza la voce e pretende l'accesso immediato ai dati fiscali del fratel
 La condotta adeguata tutela dati e persone, riduce il conflitto e indica una via operativa lecita.
 
 ## Casi ibridi: dove molti candidati perdono ordine
-I casi più' realistici non rispettano sempre i confini dei capitoli. Possono unire contabilità, IVA, riscossione e diritto commerciale; oppure dogane, accise, controlli e autorizzazioni; oppure catasto, imposte indirette e front-office.
+I casi più realistici non rispettano sempre i confini dei capitoli. Possono unire contabilità, IVA, riscossione e diritto commerciale; oppure dogane, accise, controlli e autorizzazioni; oppure catasto, imposte indirette e front-office.
 
 In questi casi il candidato deve evitare due errori opposti:
 
@@ -414,18 +414,18 @@ Esempio su riscossione:
 
 > La riscossione riguarda la fase in cui il credito pubblico viene portato a pagamento secondo gli strumenti previsti. Nei concorsi fiscali va distinta dall'accertamento e dalla fase dichiarativa. Occorre individuare l'ente titolare del credito, l'atto o il titolo, il ruolo dell'agente della riscossione e le possibilità di pagamento, rateazione, sospensione o tutela. In un caso di sportello, la risposta corretta non è promettere l'annullamento, ma orientare l'utente sui canali previsti e sui soggetti competenti.
 
-La risposta governa il tema senza pretendere di esaurirlo. La commissione potrà' poi approfondire un punto specifico.
+La risposta governa il tema senza pretendere di esaurirlo. La commissione potrà poi approfondire un punto specifico.
 
 ## Risposta orale: schema universale M-FC02
 
 | Passaggio | Domanda interna | Formula di avvio |
 |---|---|---|
-| Definizione | Che cos'è? | "L'istituto può' essere definito come..." |
+| Definizione | Che cos'è? | "L'istituto può essere definito come..." |
 | Funzione | A cosa serve? | "La funzione è..." |
 | Soggetti | Chi interviene? | "Occorre distinguere..." |
 | Procedura | Quali passaggi essenziali? | "Sul piano procedimentale..." |
 | Esempio | Come appare in un concorso fiscale? | "Nel contesto delle Agenzie fiscali..." |
-| Limite | Che cosa non devo confondere? | "Non va pero' confuso con..." |
+| Limite | Che cosa non devo confondere? | "Non va però confuso con..." |
 
 Lo schema serve a dare ordine quando la domanda è ampia o improvvisa; impararne a memoria le formule lo renderebbe rigido.
 
@@ -468,7 +468,7 @@ Punteggio massimo: 12. Sotto 8, la risposta va rifatta dopo il recupero mirato.
 - ADM: «Classificazione, origine e valore». Rilancio: «Che cosa controllerebbe per primo?»
 - Accise: «Regime sospensivo». Rilancio: «Come si appura il movimento?»
 - Territorio: «Catasto e pubblicità immobiliare». Rilancio: «La visura prova la proprietà?»
-- Contabilità: «Utile e liquidita». Rilancio: «Come passa dall'utile all'imponibile?»
+- Contabilità: «Utile e liquidità». Rilancio: «Come passa dall'utile all'imponibile?»
 
 Il rilancio verifica se il candidato comprende i confini. Non ripetere l'inizio: rispondi al nuovo punto e collega solo quanto serve.
 
@@ -485,15 +485,15 @@ Quando non ricordi un articolo o una soglia:
 Non trasformare la prudenza in evasione. Se non ricordi il numero massimo di rate, puoi spiegare presupposti, domanda, effetti e natura mobile del limite. Se non conosci neppure l'istituto, dichiarare il vuoto e non inventare resta preferibile a una norma falsa.
 
 ## Palestra di domande da commissario
-Le domande da commissario non sempre cercano la nozione più' rara. Spesso cercano la capacità di distinguere.
+Le domande da commissario non sempre cercano la nozione più rara. Spesso cercano la capacità di distinguere.
 
 Ecco alcuni esempi da allenare.
 
 | Domanda | Nucleo della risposta | Errore da evitare |
 |---|---|---|
-| Perché' l'Agenzia delle Entrate non coincide con Agenzia delle Entrate-Riscossione? | Distinguere funzione impositiva, gestione del credito e riscossione. | Dire che sono lo stesso ente perché' entrambe operano in ambito fiscale. |
+| Perché l'Agenzia delle Entrate non coincide con Agenzia delle Entrate-Riscossione? | Distinguere funzione impositiva, gestione del credito e riscossione. | Dire che sono lo stesso ente perché entrambe operano in ambito fiscale. |
 | In che cosa un caso doganale è diverso da un caso IVA ordinario? | Merce, dichiarazione doganale, classificazione, origine, valore, controlli. | Ridurre tutto al pagamento dell'imposta. |
-| Perché' la contabilità è utile in un concorso fiscale? | Dati economici, bilancio, documentazione, controlli, reddito fiscale. | Dire che il bilancio coincide con l'imposta. |
+| Perché la contabilità è utile in un concorso fiscale? | Dati economici, bilancio, documentazione, controlli, reddito fiscale. | Dire che il bilancio coincide con l'imposta. |
 | Come si risponde a un contribuente che chiede una soluzione immediata allo sportello? | Ascolto, verifica dell'atto, canali previsti, limiti di competenza, chiarezza. | Promettere un esito non verificato. |
 | Che rapporto c'è tra bando e prova? | Il bando definisce materie, prove, criteri, soglie e regole operative. | Prepararsi su un modello generico ignorando la procedura. |
 
@@ -502,18 +502,18 @@ Queste domande vanno registrate in una scheda orale. Ogni scheda deve avere tre 
 ## Palestra di domande-trappola
 La domanda-trappola contiene una scorciatoia pericolosa. Il candidato deve riconoscerla e correggerla con calma.
 
-| Domanda-trappola | Perché' è pericolosa | Risposta sicura |
+| Domanda-trappola | Perché è pericolosa | Risposta sicura |
 |---|---|---|
 | Se c'è un debito fiscale, l'Agenzia delle Entrate-Riscossione decide se il tributo è dovuto? | Confusione tra ente creditore, merito del tributo e riscossione. | AdER cura la riscossione secondo gli atti e le regole applicabili; il merito del credito e gli strumenti di tutela vanno distinti. |
 | Una comunicazione dell'Agenzia delle Entrate è sempre un accertamento? | Confonde comunicazioni, controlli, compliance e atti impositivi. | Va qualificato l'atto: non ogni comunicazione ha la stessa funzione o gli stessi effetti. |
 | In dogana conta solo il valore della merce? | Riduce il caso al prezzo. | Contano anche classificazione, origine, dichiarazione, regime, documentazione e controlli. |
-| Se un bilancio mostra utile, allora l'imposta è già' determinata? | Sovrappone risultato civilistico e reddito imponibile. | Il bilancio è un punto di partenza; il reddito fiscale segue regole proprie. |
-| Il catasto prova sempre la proprietà? | Confonde funzione catastale e titolarita civilistica. | Il catasto ha funzione informativa e fiscale; la proprietà richiede attenzione ai titoli e alla pubblicità immobiliare. |
+| Se un bilancio mostra utile, allora l'imposta è già determinata? | Sovrappone risultato civilistico e reddito imponibile. | Il bilancio è un punto di partenza; il reddito fiscale segue regole proprie. |
+| Il catasto prova sempre la proprietà? | Confonde funzione catastale e titolarità civilistica. | Il catasto ha funzione informativa e fiscale; la proprietà richiede attenzione ai titoli e alla pubblicità immobiliare. |
 
-La risposta a una trappola deve essere breve. Prima si corregge la premessa, poi si spiega il criterio. Se il candidato si irrita o si difende, perde ordine; se corregge con metodo, guadagna credibilita.
+La risposta a una trappola deve essere breve. Prima si corregge la premessa, poi si spiega il criterio. Se il candidato si irrita o si difende, perde ordine; se corregge con metodo, guadagna credibilità.
 
 ## Front-office e comunicazione corretta
-Le Agenzie fiscali non sono solo luoghi di atti e procedure. Sono anche amministrazioni che interagiscono con cittadini, imprese, professionisti e operatori economici. Per questo nei concorsi può' emergere il tema del front-office, della comunicazione chiara e della condotta corretta.
+Le Agenzie fiscali non sono solo luoghi di atti e procedure. Sono anche amministrazioni che interagiscono con cittadini, imprese, professionisti e operatori economici. Per questo nei concorsi può emergere il tema del front-office, della comunicazione chiara e della condotta corretta.
 
 La regola fondamentale è: orientare senza sostituirsi al procedimento.
 
@@ -530,14 +530,14 @@ Una risposta di front-office deve contenere:
 
 Il candidato deve evitare frasi come "non si preoccupi, risolviamo tutto" oppure "deve pagare e basta". Sono entrambe scorrette in un contesto concorsuale: la prima promette troppo, la seconda semplifica troppo.
 
-Una frase più' professionale è:
+Una frase più professionale è:
 
 > Dobbiamo prima verificare l'atto, il soggetto competente e i termini indicati. Posso orientarla sui canali previsti e sulla documentazione necessaria, ma l'esito dipende dalla verifica della posizione e dagli strumenti applicabili.
 
 Questa impostazione mostra equilibrio amministrativo: legalità, chiarezza e rispetto del cittadino.
 
 ## Diario errori fiscale
-Il Diario errori fiscale è lo strumento che trasforma la simulazione in miglioramento. Non basta scrivere "ho sbagliato IVA" o "devo ripassare dogane". Una nota così' non produce azione.
+Il Diario errori fiscale è lo strumento che trasforma la simulazione in miglioramento. Non basta scrivere "ho sbagliato IVA" o "devo ripassare dogane". Una nota così non produce azione.
 
 Ogni errore deve essere classificato per causa.
 
@@ -580,14 +580,14 @@ La simulazione finale riproduce la pressione della prova e produce dati utili. L
 | Orale | 20 minuti | Tre risposte da 90 secondi registrate o esposte ad alta voce. | Griglia: definizione, funzione, soggetti, procedura, esempio, limite. |
 | Diario | 10 minuti | Classificazione errori e prossima azione. | Tre errori prioritari e un piano di recupero. |
 
-Una simulazione utile è fedele alle regole della prova. Se il bando prevede criteri diversi, la struttura va adattata. Quando la prova è soltanto a quiz, caso e orale restano strumenti di consolidamento. Se è previsto l'orale, il candidato si registra o si fa interrogare, perché' la lettura mentale non allena l'esposizione.
+Una simulazione utile è fedele alle regole della prova. Se il bando prevede criteri diversi, la struttura va adattata. Quando la prova è soltanto a quiz, caso e orale restano strumenti di consolidamento. Se è previsto l'orale, il candidato si registra o si fa interrogare, perché la lettura mentale non allena l'esposizione.
 
 ## Griglia di valutazione della simulazione
 
 | Area | Indicatore | Soglia di attenzione |
 |---|---|---|
 | Quiz | Percentuale corretta e tempo medio. | Molti errori concentrati nella stessa materia o risposte corrette ma lente. |
-| Lettura | Errori da negazione, eccezione o parola-spia. | Più' di due errori di lettura in una simulazione. |
+| Lettura | Errori da negazione, eccezione o parola-spia. | Più di due errori di lettura in una simulazione. |
 | Caso | Presenza di fatto, soggetti, materia, sequenza e conclusione. | Risposta teorica senza applicazione al caso. |
 | Orale | Ordine, lessico, esempi e capacità di fermarsi. | Risposte lunghe senza struttura o definizioni isolate. |
 | Front-office | Chiarezza e limiti della comunicazione. | Promesse di esito, toni imprecisi, confusione di competenza. |
@@ -629,7 +629,7 @@ Obiettivo: passare dalla lettura alla prestazione.
 - Curare front-office, comunicazione e risposte situazionali.
 - Preparare un fascicolo finale: mappe, errori, risposte orali, casi corretti.
 
-Obiettivo: arrivare alla prova con una routine già' provata.
+Obiettivo: arrivare alla prova con una routine già provata.
 
 ## Piano breve 14/7 giorni
 Quando il tempo è poco, il candidato riduce il perimetro e sceglie le priorità invece di ripercorrere tutto il manuale.
@@ -684,7 +684,7 @@ Il piano breve non crea miracoli. Riduce il disordine.
 - una risposta orale da 90 secondi;
 - un micro-caso ogni due giorni.
 
-**Passaggio 4: verifica.** Dopo una settimana non deve chiedersi "ho studiato di più'?", ma:
+**Passaggio 4: verifica.** Dopo una settimana non deve chiedersi "ho studiato di più?", ma:
 
 - sbaglio ancora la stessa distinzione?
 - so spiegare AE/ADM/AdER senza confonderle?
@@ -694,7 +694,7 @@ Il piano breve non crea miracoli. Riduce il disordine.
 **Soluzione.** Negli ultimi 30 giorni gli errori ricorrenti devono diventare risposte stabili; accumulare nuovi materiali disperderebbe il lavoro.
 
 ## Come lo chiede la commissione
-La commissione può' chiedere lo stesso nucleo in tre modi.
+La commissione può chiedere lo stesso nucleo in tre modi.
 
 **Quiz.** Quale soggetto cura la riscossione nazionale secondo il perimetro dell'ente indicato?
 
@@ -705,14 +705,14 @@ La commissione può' chiedere lo stesso nucleo in tre modi.
 La risposta corretta cambia forma, ma non cambia nucleo. Il candidato deve riconoscere che sta lavorando sempre sulla stessa distinzione.
 
 ## Domanda da commissario
-**Domanda.** Perché' nel modulo M-FC02 non basta studiare le singole materie, ma occorre allenare quiz, casi e orale?
+**Domanda.** Perché nel modulo M-FC02 non basta studiare le singole materie, ma occorre allenare quiz, casi e orale?
 
-**Risposta modello.** Perché' le materie concorsuali diventano prova solo quando vengono trasformate in prestazioni. Il quiz richiede precisione e controllo delle parole-spia; il caso pratico richiede applicazione al fatto, ai soggetti e alla sequenza procedimentale; l'orale richiede ordine espositivo, lessico corretto e capacità di collegare istituti. Nei concorsi delle Agenzie fiscali questa trasformazione è particolarmente importante perché' i profili possono riguardare Agenzia delle Entrate, Agenzia delle Dogane e dei Monopoli o Agenzia delle Entrate-Riscossione, con funzioni differenti. Il bando resta la fonte operativa per sapere quali prove sono previste e come devono essere preparate.
+**Risposta modello.** Perché le materie concorsuali diventano prova solo quando vengono trasformate in prestazioni. Il quiz richiede precisione e controllo delle parole-spia; il caso pratico richiede applicazione al fatto, ai soggetti e alla sequenza procedimentale; l'orale richiede ordine espositivo, lessico corretto e capacità di collegare istituti. Nei concorsi delle Agenzie fiscali questa trasformazione è particolarmente importante perché i profili possono riguardare Agenzia delle Entrate, Agenzia delle Dogane e dei Monopoli o Agenzia delle Entrate-Riscossione, con funzioni differenti. Il bando resta la fonte operativa per sapere quali prove sono previste e come devono essere preparate.
 
 ## Domanda-trappola
 **Domanda.** Se conosco bene il diritto tributario, posso affrontare allo stesso modo tutte le prove delle Agenzie fiscali?
 
-**Risposta.** No. Il diritto tributario è centrale, ma non esaurisce il perimetro. Un concorso per Agenzia delle Entrate può' richiedere un taglio diverso da un concorso ADM o AdER; un quiz richiede precisione diversa da un caso; una risposta orale richiede sintesi e collegamenti. Inoltre il bando può' includere materie amministrative, contabili, doganali, civilistiche, informatiche o linguistiche. La preparazione deve quindi partire dal bando e trasformare le materie nel formato della prova.
+**Risposta.** No. Il diritto tributario è centrale, ma non esaurisce il perimetro. Un concorso per Agenzia delle Entrate può richiedere un taglio diverso da un concorso ADM o AdER; un quiz richiede precisione diversa da un caso; una risposta orale richiede sintesi e collegamenti. Inoltre il bando può includere materie amministrative, contabili, doganali, civilistiche, informatiche o linguistiche. La preparazione deve quindi partire dal bando e trasformare le materie nel formato della prova.
 
 ## Errore tipico
 L'errore tipico del capitolo è confondere studio completo e preparazione efficace.
@@ -737,7 +737,7 @@ Compila la tabella usando il tuo bando.
 | Materie principali |  |
 | Materie da non sovrastudiare |  |
 | Numero/durata prova a quiz |  |
-| Soglia, punteggio e penalita |  |
+| Soglia, punteggio e penalità |  |
 | Banca dati ufficiale presente? |  |
 | Tre nuclei ad alta resa |  |
 | Tre errori ricorrenti |  |
@@ -768,21 +768,10 @@ Prima di considerare concluso il modulo M-FC02, il candidato dovrebbe poter spun
 - So orientare un utente in front-office senza promettere esiti.
 - Ho un piano 30/60/90 o, se il tempo è poco, un piano 14/7.
 
-Se mancano più' di tre voci, la priorità è consolidare il metodo prima di studiare nuove pagine.
+Se mancano più di tre voci, la priorità è consolidare il metodo prima di studiare nuove pagine.
 
 ## Riferimenti consolidati
-- [[sources/m-fc02-dossier-redazionale-agenzie-fiscali]]
-- [[sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026]]
-- [[sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994]]
-- [[sources/d-p-r-9-maggio-1994-n-487-accesso-agli-impieghi-pubblici-e-concorsi]]
-- [[sources/d-p-r-16-giugno-2023-n-82-modifiche-al-d-p-r-487-1994-sui-concorsi]]
-- [[topics/profili-agenzie-fiscali]]
-- [[topics/bando-decoder-fiscale]]
-- [[topics/banca-dati-ufficiale-quiz]]
-- [[topics/casi-pratici]]
-- [[topics/collegamenti-materie-concorsuali]]
-- [[topics/diario-errori]]
 - [[books/il-metodo-bando/ricettario-digitale]]
 
 ## Note di review
-Prima della pubblicazione finale verificare, per ogni concorso richiamato o usato come esempio, il bando ufficiale, gli avvisi successivi, la piattaforma di candidatura, il calendario, la composizione delle prove, l'eventuale banca dati ufficiale, i criteri di valutazione, le soglie, le penalita, le idoneita linguistiche/informatiche e l'eventuale valutazione dei titoli. Il capitolo usa bandi rappresentativi e fonti consolidate per costruire metodo e simulazioni, ma non deve essere letto come sintesi sostitutiva del bando della singola procedura.
+Prima della pubblicazione finale verificare, per ogni concorso richiamato o usato come esempio, il bando ufficiale, gli avvisi successivi, la piattaforma di candidatura, il calendario, la composizione delle prove, l'eventuale banca dati ufficiale, i criteri di valutazione, le soglie, le penalità, le idoneità linguistiche/informatiche e l'eventuale valutazione dei titoli. Il capitolo usa bandi rappresentativi e fonti consolidate per costruire metodo e simulazioni, ma non deve essere letto come sintesi sostitutiva del bando della singola procedura.

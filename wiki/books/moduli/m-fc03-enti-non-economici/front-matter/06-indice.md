@@ -2,7 +2,7 @@
 id: frontmatter-m-fc03-indice
 type: front_matter
 title: "Indice"
-status: revised_draft
+status: text_frozen
 domain: "concorsi pubblici italiani"
 topics: ["indice","moduli specialistici","enti pubblici non economici"]
 entities: ["Metodo BANDO"]
@@ -14,16 +14,16 @@ source_refs: [
 ]
 book_refs: ["m-fc03-enti-non-economici","il-metodo-bando"]
 confidence: 0.86
-updated_at: 2026-07-02T21:20:00+02:00
+updated_at: 2026-08-12T12:00:00+02:00
 created_at: 2026-07-01T20:15:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["front-matter","index","module-code-m-fc03"]
 book_id: m-fc03-enti-non-economici
 outline_section: "FM6"
 front_matter_layout: analytical-index
 index_detail: chapters-only
-draft_stage: detailed-index
+draft_stage: text-frozen
 module_code: M-FC03
 module_family: funzioni-centrali
 last_compiled_from: [
@@ -43,7 +43,7 @@ last_compiled_from: [
 | Frontespizio | M-FC03, Funzioni Centrali, EPNE, INPS, INAIL, ACI, ENAC, ISTAT, ASI, ENEA, CONI, CRI. | Dichiarare identita, perimetro e collocazione nella collana. |
 | Copyright e note editoriali | Uso didattico, fonti ufficiali, limiti di aggiornamento, verifica bandi. | Proteggere il lettore da uso improprio e promesse eccessive. |
 | Sommario | Percorso del modulo, materie specialistiche, prove, casi e piano operativo. | Dare una visione rapida prima dello studio. |
-| Premessa | Perche' gli EPNE non sono concorsi amministrativi generici. | Motivare il modulo e il metodo di lavoro. |
+| Premessa | Perché gli EPNE non sono concorsi amministrativi generici. | Motivare il modulo e il metodo di lavoro. |
 | Indice | Front matter, 13 capitoli, 6 appendici. | Orientare lettura, ripasso e preparazione. |
 
 ## Parte I - Perimetro, enti e fonti
@@ -92,4 +92,4 @@ last_compiled_from: [
 
 ## Nota di uso
 
-L'indice e' pensato per la dashboard e per l'export editoriale: mostra parti e capitoli senza sottorighe 1.1/2.1, in coerenza con lo standard dei moduli specialistici. Il dettaglio operativo dei sottoblocchi resta nel piano editoriale e nei singoli capitoli.
+L'indice è pensato per la dashboard e per l'export editoriale: mostra parti e capitoli senza sottorighe 1.1/2.1, in coerenza con lo standard dei moduli specialistici. Il dettaglio operativo dei sottoblocchi resta nel piano editoriale e nei singoli capitoli.

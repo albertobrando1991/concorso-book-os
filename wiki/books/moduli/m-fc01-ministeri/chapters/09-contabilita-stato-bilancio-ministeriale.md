@@ -3,7 +3,7 @@ id: chapter-m-fc01-09-contabilita-stato-bilancio-ministeriale
 type: book_chapter
 format_version: 2
 title: "Contabilità dello Stato e bilancio ministeriale"
-status: draft
+status: revised_draft
 domain: "concorsi pubblici italiani"
 topics: ["contabilità pubblica", "bilancio dello Stato", "ministeri"]
 entities: ["MEF", "Ragioneria generale dello Stato", "Ministeri"]
@@ -11,12 +11,12 @@ source_refs: ["sources/legge-31-dicembre-2009-n-196-contabilita-finanza-pubblica
 book_refs: ["m-fc01-ministeri"]
 confidence: 0.88
 updated_at: 2026-08-05T22:00:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "module-code-m-fc01", "full-draft"]
 book_id: m-fc01-ministeri
 outline_section: 9
-draft_stage: full-draft
+draft_stage: specialist-audit-complete
 module_code: M-FC01
 module_family: funzioni-centrali
 dati_operativi: []
@@ -88,7 +88,7 @@ Durante l'esercizio possono intervenire assestamenti e variazioni, ma soltanto n
 
 Le **missioni** rappresentano grandi finalità strategiche della spesa. I **programmi** riuniscono attività omogenee dirette a risultati nell'ambito delle missioni e sono un riferimento per l'attribuzione delle responsabilità. Per gestione e rendicontazione operano articolazioni più analitiche, tra cui capitoli e piani gestionali.
 
-La missione chiarisce il “perché” generale; il programma organizza attività e responsabilità; il capitolo permette la gestione dettagliata. Non si deve però equiparare indirizzo politico e singolo atto: gli organi politici definiscono obiettivi e assegnano risorse, mentre i dirigenti adottano gli atti amministrativi e di spesa entro le loro attribuzioni.
+La missione chiarisce il "perché" generale; il programma organizza attività e responsabilità; il capitolo permette la gestione dettagliata. Non si deve però equiparare indirizzo politico e singolo atto: gli organi politici definiscono obiettivi e assegnano risorse, mentre i dirigenti adottano gli atti amministrativi e di spesa entro le loro attribuzioni.
 
 Una politica di digitalizzazione può collocarsi in una missione e in un programma; l'acquisto di uno specifico servizio sarà imputato alla pertinente articolazione e richiederà l'atto dell'ufficio competente. La finalità generale non rende fungibili tutti gli stanziamenti.
 
@@ -96,7 +96,7 @@ Una politica di digitalizzazione può collocarsi in una missione e in un program
 
 Le previsioni di **competenza** riguardano obbligazioni accertabili o assumibili nell'esercizio; quelle di **cassa** riguardano incassi e pagamenti previsti. I profili convivono perché momento giuridico e movimento monetario possono non coincidere.
 
-Se un ministero assume validamente un'obbligazione nell'anno X e paga nell'anno X+1, l'operazione interessa la competenza secondo le regole d'imputazione e la cassa quando avviene il pagamento. Il bilancio non autorizza genericamente a “spendere il totale”: stanziamenti e articolazioni hanno destinazioni e limiti.
+Se un ministero assume validamente un'obbligazione nell'anno X e paga nell'anno X+1, l'operazione interessa la competenza secondo le regole d'imputazione e la cassa quando avviene il pagamento. Il bilancio non autorizza genericamente a "spendere il totale": stanziamenti e articolazioni hanno destinazioni e limiti.
 
 In un caso pratico si verificano finalità, capitolo pertinente, disponibilità di competenza, disponibilità di cassa per il pagamento, competenza dell'organo e procedura. Il bilancio è politico perché seleziona priorità ed è autorizzatorio perché delimita la gestione.
 
@@ -133,7 +133,7 @@ Ogni fase produce evidenze diverse. Contratto e atto d'impegno non provano da so
 
 I **residui attivi** sono entrate accertate e non ancora riscosse; i **residui passivi** sono spese impegnate e non pagate, se permangono i presupposti richiesti. Non sono fondi liberamente utilizzabili: restano collegati all'obbligazione originaria e devono essere verificati.
 
-Schema mentale: diritto sorto ma non incassato, residuo attivo; obbligazione assunta ma non pagata, residuo passivo. “Attivo” non significa liquidità in tesoreria; “passivo” non indica una generica intenzione futura di spendere.
+Schema mentale: diritto sorto ma non incassato, residuo attivo; obbligazione assunta ma non pagata, residuo passivo. "Attivo" non significa liquidità in tesoreria; "passivo" non indica una generica intenzione futura di spendere.
 
 Se al 31 dicembre una prestazione di 15.000 euro è coperta da impegno valido ma sarà pagata a gennaio, rileva nella competenza dell'esercizio chiuso e, ricorrendone le condizioni, genera un residuo passivo; il pagamento inciderà sulla cassa successiva. Se viene meno il titolo, la posta non può essere mantenuta solo per migliorare il risultato.
 
@@ -144,7 +144,7 @@ La presenza di denaro non identifica la fase. Occorre invece capire quale fatto 
 
 Consideriamo una fornitura consegnata solo per metà. L'impegno può riguardare l'obbligazione validamente assunta, ma la liquidazione deve riflettere ciò che, secondo contratto e verifiche, è effettivamente dovuto. Il documento del fornitore non obbliga l'ufficio a liquidare senza riscontro. Se invece la prestazione è completa e il debito è esigibile, il ritardo del pagamento non cancella l'obbligazione: produce la corretta rappresentazione tra competenza, cassa e, quando ricorrono i presupposti, residui.
 
-I residui devono essere riaccertati e sorvegliati perché una posta risalente può non corrispondere più a un credito o debito effettivo. Mantenere automaticamente ogni residuo altererebbe la leggibilità del rendiconto; eliminarlo senza verifica potrebbe invece cancellare un rapporto ancora valido. La conseguenza didattica è che “residuo” descrive una posizione da giustificare, non una riserva generica.
+I residui devono essere riaccertati e sorvegliati perché una posta risalente può non corrispondere più a un credito o debito effettivo. Mantenere automaticamente ogni residuo altererebbe la leggibilità del rendiconto; eliminarlo senza verifica potrebbe invece cancellare un rapporto ancora valido. La conseguenza didattica è che "residuo" descrive una posizione da giustificare, non una riserva generica.
 
 **Domanda da commissario.** Qual è il rapporto tra competenza e residui? La competenza registra l'obbligazione nell'esercizio pertinente; se alla chiusura l'entrata accertata non è riscossa o la spesa impegnata non è pagata, la posizione può essere rappresentata come residuo attivo o passivo, purché il titolo permanga. La cassa rileverà il successivo incasso o pagamento.
 
@@ -172,7 +172,7 @@ I controlli possono riguardare regolarità amministrativa e contabile, risultati
 
 Un'irregolarità può esistere senza dar luogo a responsabilità personale. Il vizio dell'atto va tenuto distinto dai presupposti delle diverse responsabilità: condotta, elemento soggettivo, danno e nesso causale. Analogamente, un controllo formale positivo non esclude ogni problema sostanziale.
 
-Trappola da quiz: “se il capitolo ha disponibilità, il dirigente può sempre pagare”. È falso: servono obbligazione valida, imputazione, liquidazione, titolo, cassa e controlli richiesti.
+Trappola da quiz: "se il capitolo ha disponibilità, il dirigente può sempre pagare". È falso: servono obbligazione valida, imputazione, liquidazione, titolo, cassa e controlli richiesti.
 
 
 ### Il fascicolo come prova della regolarità
@@ -181,7 +181,7 @@ Nel lavoro ministeriale la qualità contabile dipende anche dalla qualità dell'
 
 Il controllo di regolarità e il controllo sui risultati rispondono a domande diverse. Il primo verifica, secondo il proprio perimetro, conformità dell'atto, imputazione e documentazione; il secondo osserva se risorse e attività hanno prodotto gli esiti attesi. Una spesa può essere formalmente regolare ma poco efficace; un risultato utile non sana una procedura illegittima. Il rendiconto e le informazioni gestionali consentono letture complementari, non intercambiabili.
 
-Esempio: un ufficio utilizza integralmente lo stanziamento per ridurre un arretrato. La regolarità richiede atti, titolo, corretta contabilizzazione e controlli; la valutazione del risultato domanda quanti procedimenti siano stati chiusi, con quale qualità e in quali tempi. Dire soltanto “è stato speso il cento per cento” non dimostra né efficacia né valore pubblico.
+Esempio: un ufficio utilizza integralmente lo stanziamento per ridurre un arretrato. La regolarità richiede atti, titolo, corretta contabilizzazione e controlli; la valutazione del risultato domanda quanti procedimenti siano stati chiusi, con quale qualità e in quali tempi. Dire soltanto "è stato speso il cento per cento" non dimostra né efficacia né valore pubblico.
 
 Quando emerge un rilievo, il funzionario deve ricostruire il fatto e la fase interessata, non cercare subito un responsabile. Si distinguono errore correggibile, illegittimità dell'atto, danno eventuale e presupposti della responsabilità. Questa sequenza evita l'automatismo secondo cui ogni irregolarità contabile sarebbe danno erariale e rende la risposta più precisa tanto all'orale quanto nel caso teorico-pratico. Il controllo diventa così uno strumento di conoscenza e correzione, oltre che di verifica, apprendimento organizzativo e prevenzione di nuove irregolarità.
 
@@ -197,7 +197,7 @@ Quando emerge un rilievo, il funzionario deve ricostruire il fatto e la fase int
 
 ### Caso guidato: il servizio urgente
 
-Un dipartimento deve rinnovare urgentemente un servizio informatico. Nel programma vi sono risorse, ma il capitolo normalmente usato non ha sufficiente disponibilità. Il responsabile propone di firmare subito e “regolarizzare” lo spostamento il mese seguente.
+Un dipartimento deve rinnovare urgentemente un servizio informatico. Nel programma vi sono risorse, ma il capitolo normalmente usato non ha sufficiente disponibilità. Il responsabile propone di firmare subito e "regolarizzare" lo spostamento il mese seguente.
 
 L'urgenza descrive il bisogno; la soluzione giuridica parte dal potere di spesa. Occorre verificare finalità, imputazione, competenza e cassa, organo competente alla variazione e procedura contrattuale. Finché la variazione non è adottata e registrata secondo le regole, la disponibilità presente altrove non è automaticamente utilizzabile.
 
@@ -207,11 +207,11 @@ In prova conviene prima individuare il problema e richiamare i principi pertinen
 
 ### Metodo per le prove
 
-Nel quiz si cerca la parola-fase: “sorge il credito” richiama l'accertamento; “verifica della prestazione e determinazione della somma” la liquidazione; “movimento monetario” la cassa. Diffidare di “sempre” e “automaticamente”.
+Nel quiz si cerca la parola-fase: "sorge il credito" richiama l'accertamento; "verifica della prestazione e determinazione della somma" la liquidazione; "movimento monetario" la cassa. Diffidare di "sempre" e "automaticamente".
 
 All'orale usare: definizione, funzione, sequenza, esempio e distinzione. Nella prova pratica applicare la checklist **competenza dell'organo → finalità e stanziamento → titolo giuridico → fase contabile → controllo → evidenza**. Così non si salta dal bisogno al pagamento.
 
-Un errore frequente consiste nel citare norme senza applicarle. La risposta acquista precisione quando collega il fatto alla regola: se la prestazione è eseguita, si verificano documenti e somma da liquidare; non basta dire genericamente che “si applica la contabilità pubblica”.
+Un errore frequente consiste nel citare norme senza applicarle. La risposta acquista precisione quando collega il fatto alla regola: se la prestazione è eseguita, si verificano documenti e somma da liquidare; non basta dire genericamente che "si applica la contabilità pubblica".
 
 
 ### Glossario operativo e schema di decisione
@@ -227,7 +227,7 @@ Davanti a una decisione di spesa, lo schema completo è: **bisogno → finalità
 
 **Mini-esercizio.** Un ufficio riceve una fattura corretta per una prestazione prevista dal contratto, ma non trova l'atto d'impegno nel fascicolo. Indica la condotta. Non deve passare direttamente alla liquidazione: ricostruisce il titolo, verifica se e come l'obbligazione sia stata validamente assunta e contabilizzata, coinvolge le strutture competenti e documenta l'esito. La fattura prova la richiesta del creditore, non sostituisce l'intera sequenza amministrativo-contabile.
 
-**Domanda orale.** “Mi descriva il ciclo della spesa ministeriale.” Una risposta solida definisce prima la funzione autorizzatoria del bilancio; presenta poi impegno, liquidazione, ordinazione e pagamento; distingue competenza e cassa; chiude con un esempio e con il ruolo delle evidenze e dei controlli. L'errore da evitare è recitare quattro parole senza spiegare il fatto che consente il passaggio alla fase successiva.
+**Domanda orale.** "Mi descriva il ciclo della spesa ministeriale." Una risposta solida definisce prima la funzione autorizzatoria del bilancio; presenta poi impegno, liquidazione, ordinazione e pagamento; distingue competenza e cassa; chiude con un esempio e con il ruolo delle evidenze e dei controlli. L'errore da evitare è recitare quattro parole senza spiegare il fatto che consente il passaggio alla fase successiva.
 
 **Checklist finale:** amministrazione corretta; fonte vigente; finalità; stanziamento; competenza; obbligazione; imputazione; prestazione; liquidazione; titolo di pagamento; cassa; tracciabilità. Se uno dei campi manca, la risposta deve segnalarlo anziché inventarlo. La stessa checklist permette di motivare in modo ordinato ogni passaggio e di segnalare con chiarezza l'eventuale dato non disponibile nella traccia.
 

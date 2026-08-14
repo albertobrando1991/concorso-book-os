@@ -6,7 +6,7 @@ status: revised_draft
 domain: "concorsi pubblici italiani"
 topics: ["appendici operative","glossario","front-office","adempimenti fiscali","ripasso"]
 entities: ["Agenzia delle Entrate","Agenzia delle Dogane e dei Monopoli","Agenzia delle Entrate-Riscossione","Metodo BANDO"]
-source_refs: ["sources/m-fc02-dossier-redazionale-agenzie-fiscali.md","sources/normativa-tributaria-tuir-iva-accertamento-m-fc02.md","sources/accertamento-contraddittorio-compliance-aggiornamento-2026-07-17.md","sources/riscossione-ader-aggiornamento-istituzionale-2026-07-17.md","sources/codice-doganale-unione-procedure-adm-aggiornamento-2026-07-17.md","sources/accise-giochi-monopoli-adm-aggiornamento-2026-07-17.md","sources/catasto-cartografia-estimo-pubblicita-immobiliare-aggiornamento-2026-07-18.md","sources/contabilita-aziendale-bilancio-reddito-impresa-aggiornamento-2026-07-18.md","sources/sanzioni-amministrative-tributarie-aggiornamento-2026-07-18.md","sources/reati-tributari-dlgs-74-2000-aggiornamento-2026-07-18.md","sources/processo-tributario-dlgs-175-2024-aggiornamento-2026-07-18.md","sources/diritto-ue-fiscale-doganale-iva-cdu-2026-07-18.md","sources/regolamento-ue-2016-679-gdpr-protezione-dati-personali.md"]
+source_refs: ["sources/m-fc02-dossier-redazionale-agenzie-fiscali.md","sources/normativa-tributaria-tuir-iva-accertamento-m-fc02.md","sources/accertamento-contraddittorio-compliance-aggiornamento-2026-07-17.md","sources/riscossione-ader-aggiornamento-istituzionale-2026-07-17.md","sources/codice-doganale-unione-procedure-adm-aggiornamento-2026-07-17.md","sources/accise-giochi-monopoli-adm-aggiornamento-2026-07-17.md","sources/m-fc02-verticale-tecnico-adm-aggiornamento-2026-08-12.md","sources/catasto-cartografia-estimo-pubblicita-immobiliare-aggiornamento-2026-07-18.md","sources/contabilita-aziendale-bilancio-reddito-impresa-aggiornamento-2026-07-18.md","sources/sanzioni-amministrative-tributarie-aggiornamento-2026-07-18.md","sources/reati-tributari-dlgs-74-2000-aggiornamento-2026-07-18.md","sources/processo-tributario-dlgs-175-2024-aggiornamento-2026-07-18.md","sources/diritto-ue-fiscale-doganale-iva-cdu-2026-07-18.md","sources/regolamento-ue-2016-679-gdpr-protezione-dati-personali.md"]
 asset_refs:
   - "books/moduli/m-fc02-agenzie-fiscali/assets/chapter-14/01-mappa-bando-appendici-operative.png"
   - "books/moduli/m-fc02-agenzie-fiscali/assets/chapter-14/02-reati-sanzioni-condotte-rischio.png"
@@ -14,15 +14,15 @@ asset_refs:
   - "books/moduli/m-fc02-agenzie-fiscali/assets/chapter-14/04-front-office-privacy-protocollo.png"
   - "books/moduli/m-fc02-agenzie-fiscali/assets/chapter-14/05-allerta-bando-glossario-output.png"
 book_refs: ["m-fc02-agenzie-fiscali","il-metodo-bando"]
-confidence: 0.88
-updated_at: 2026-08-04
+confidence: 0.90
+updated_at: 2026-08-12
 created_at: 2026-07-01T21:00:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter","module-code-m-fc02","professional-draft","appendices","workbook","illustrated"]
 book_id: m-fc02-agenzie-fiscali
 outline_section: 14
-draft_stage: professional-draft
+draft_stage: specialist-audit-complete
 module_code: M-FC02
 module_family: funzioni-centrali
 companion_to: il-metodo-bando
@@ -113,7 +113,7 @@ Per ogni voce spiega che cos'è, a che cosa serve e da quale istituto va distint
 | Classamento | Attribuzione di categoria e classe. | Non è stima di mercato. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare#4. Classamento e rendita catastale]] |
 | DOCFA | Procedura per il catasto fabbricati. | Non è PREGEO. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare#5. DOCFA: nuove costruzioni e variazioni urbane]] |
 | PREGEO | Procedura di aggiornamento geometrico dei terreni. | Non sostituisce la pubblicità immobiliare. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare#6. PREGEO e aggiornamento geometrico]] |
-| Patrimonio | Attività e passivita riferite all'azienda. | Non è reddito di periodo. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco#2. Patrimonio, reddito e finanza]] |
+| Patrimonio | Attività e passività riferite all'azienda. | Non è reddito di periodo. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco#2. Patrimonio, reddito e finanza]] |
 | Partita doppia | Rilevazione dell'operazione sotto due aspetti. | Non è duplicazione del valore. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco#3. Conti e partita doppia]] |
 | Competenza | Imputazione di costi e ricavi al periodo. | Non è cassa. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco#5. Competenza economica e assestamento]] |
 | Reddito imponibile | Grandezza determinata dalle regole fiscali. | Non coincide automaticamente con utile civilistico. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco#14. Dal bilancio al reddito imponibile]] |
@@ -134,7 +134,7 @@ Per ogni voce spiega che cos'è, a che cosa serve e da quale istituto va distint
 | Tax control framework | Sistema interno di governo e controllo del rischio fiscale. | Non è un singolo controllo dell'ufficio. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale#Adempimento collaborativo e tax control framework]] |
 | Cartella di pagamento | Atto notificato nel percorso ordinario di riscossione. | Non è il ruolo. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader#3. Il percorso ordinario: ruolo, cartella e pagamento]] |
 | Accertamento esecutivo | Atto che concentra accertamento e titolo per la riscossione nei casi previsti. | Non elimina la distinzione funzionale tra enti e fasi. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader#4. L'accertamento esecutivo e l'avviso di presa in carico]] |
-| Presa in carico | Comunicazione con cui AdER informa il debitore di avere ricevuto in affidamento il carico. | È successiva all'affidamento del carico: non coincide con esso ne' con una nuova liquidazione del tributo. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader#4. L'accertamento esecutivo e l'avviso di presa in carico]] |
+| Presa in carico | Comunicazione con cui AdER informa il debitore di avere ricevuto in affidamento il carico. | È successiva all'affidamento del carico: non coincide con esso né con una nuova liquidazione del tributo. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader#4. L'accertamento esecutivo e l'avviso di presa in carico]] |
 | Sgravio | Eliminazione totale o parziale del carico da parte dell'ente competente. | Non è sospensione temporanea. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader#6. Sospensione, sgravio e ricorso non sono sinonimi]] |
 | Misura cautelare | Presidio del credito prima o fuori dall'espropriazione nei casi previsti. | Non è esecuzione forzata. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader#7. Misure cautelari ed esecuzione forzata]] |
 ### Integrazione dogane, accise, giochi e catasto
@@ -152,9 +152,9 @@ Per ogni voce spiega che cos'è, a che cosa serve e da quale istituto va distint
 | e-AD | Documento amministrativo elettronico della circolazione in sospensione. | Non è una fattura commerciale. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/09-accise-giochi-monopoli#4. Circolazione in sospensione: EMCS ed e-AD]] |
 | Filiera del gioco | Insieme dei soggetti e passaggi della raccolta e del controllo. | Non coincide con il solo concessionario. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/09-accise-giochi-monopoli#9. Rete fisica, rete a distanza e filiera]] |
 | Rendita catastale | Valore fiscale-amministrativo derivante dal classamento dei fabbricati. | Non è il prezzo di mercato. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare#4. Classamento e rendita catastale]] |
-| Visura catastale | Documento informativo su identificativi, intestazioni e dati censuari. | Non prova da sola la titolarita giuridica. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare#3. Identificativi e lettura della visura]] |
+| Visura catastale | Documento informativo su identificativi, intestazioni e dati censuari. | Non prova da sola la titolarità giuridica. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare#3. Identificativi e lettura della visura]] |
 | Voltura catastale | Aggiornamento delle intestazioni catastali conseguente a una vicenda rilevante. | Non è trascrizione immobiliare. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare#7. Voltura e intestazioni catastali]] |
-| Trascrizione | Formalita di pubblicità relativa agli atti soggetti a trascrizione. | Non è iscrizione ipotecaria. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare#12. Trascrizione, iscrizione e annotazione]] |
+| Trascrizione | Formalità di pubblicità relativa agli atti soggetti a trascrizione. | Non è iscrizione ipotecaria. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare#12. Trascrizione, iscrizione e annotazione]] |
 | Ispezione ipotecaria | Consultazione dei registri di pubblicità immobiliare. | Non è una visura catastale. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare#13. Ispezione ipotecaria e continuità]] |
 ### Integrazione contabilità, civile e commerciale
 
@@ -165,16 +165,16 @@ Per ogni voce spiega che cos'è, a che cosa serve e da quale istituto va distint
 | Costo | Componente negativo economico di periodo. | Non coincide necessariamente con il pagamento. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco#4. Ricavo e incasso, costo e pagamento]] |
 | Stato patrimoniale | Prospetto della situazione patrimoniale e finanziaria alla data di bilancio. | Non rappresenta il risultato di periodo. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco#8. Stato patrimoniale]] |
 | Conto economico | Prospetto di costi, ricavi e risultato del periodo. | Non descrive da solo i flussi di cassa. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco#9. Conto economico e margini]] |
-| Rendiconto finanziario | Prospetto dei flussi finanziari e della variazione di liquidita. | Non è il conto economico. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco#10. Rendiconto finanziario e liquidita]] |
+| Rendiconto finanziario | Prospetto dei flussi finanziari e della variazione di liquidità. | Non è il conto economico. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco#10. Rendiconto finanziario e liquidità]] |
 | Immobilizzazione | Fattore destinato a utilità pluriennale secondo la sua classificazione. | Non è rimanenza destinata al ciclo corrente. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco#11. Rimanenze, immobilizzazioni, crediti e fondi]] |
-| Fondo rischi e oneri | Posta riferita a passivita di natura determinata, incerte nell'importo o nella data. | Non è una riserva di patrimonio netto. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco#11. Rimanenze, immobilizzazioni, crediti e fondi]] |
+| Fondo rischi e oneri | Posta riferita a passività di natura determinata, incerte nell'importo o nella data. | Non è una riserva di patrimonio netto. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco#11. Rimanenze, immobilizzazioni, crediti e fondi]] |
 | Capacità giuridica | Attitudine a essere titolare di situazioni giuridiche. | Non è capacità di agire. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione#1. Rapporto giuridico e soggetti]] |
 | Rappresentanza | Potere di produrre effetti nella sfera giuridica altrui. | Non è mera assistenza materiale. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione#1. Rapporto giuridico e soggetti]] |
 | Adempimento | Esecuzione esatta della prestazione dovuta. | Non è qualunque comportamento del debitore. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione#3. Adempimento, inadempimento e mora]] |
 | Responsabilità patrimoniale | Assoggettamento del patrimonio del debitore alla garanzia delle obbligazioni. | Non coincide con una specifica garanzia reale. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione#9. Garanzia patrimoniale e garanzie specifiche]] |
 | Contratto | Accordo diretto a costituire, regolare o estinguere un rapporto patrimoniale. | Non è un atto amministrativo. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione#6. Contratto: formazione ed effetti]] |
-| Autonomia patrimoniale | Separazione, di intensita variabile, tra patrimonio sociale e personale. | Non è identica in tutte le società. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione#11. Società e autonomia patrimoniale]] |
-| Insolvenza | Incapacita di soddisfare regolarmente le obbligazioni, manifestata da inadempimenti o da altri fatti esteriori. | Non coincide con una singola difficoltà di liquidita. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione#12. Crisi d'impresa: box di allerta]] |
+| Autonomia patrimoniale | Separazione, di intensità variabile, tra patrimonio sociale e personale. | Non è identica in tutte le società. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione#11. Società e autonomia patrimoniale]] |
+| Insolvenza | Incapacità di soddisfare regolarmente le obbligazioni, manifestata da inadempimenti o da altri fatti esteriori. | Non coincide con una singola difficoltà di liquidità. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione#12. Crisi d'impresa: box di allerta]] |
 **Esempio compilato:** origine = legame economico con un Paese; funzione = trattamento doganale; distinzione = provenienza; rinvio = capitolo 8, paragrafo 7.
 
 **Errore tipico:** recitare una definizione senza la distinzione, dove spesso nasce il distrattore.
@@ -215,7 +215,7 @@ Per ogni voce spiega che cos'è, a che cosa serve e da quale istituto va distint
 | Area | Risponde a | Non dimostra | Rinvio |
 | --- | --- | --- | --- |
 | Catasto | identificativi, classamento, rendita | proprietà | [[books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare#1. Funzione e natura del catasto]] |
-| Pubblicità | formalita e vicende giuridiche | correttezza catastale | [[books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare#11. Pubblicità immobiliare: funzione civilistica]] |
+| Pubblicità | formalità e vicende giuridiche | correttezza catastale | [[books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare#11. Pubblicità immobiliare: funzione civilistica]] |
 
 **Istruzioni:** classifica la domanda prima di scegliere documento e ufficio.
 
@@ -253,7 +253,7 @@ Per ogni voce spiega che cos'è, a che cosa serve e da quale istituto va distint
 
 **Rinvii:** [[books/moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni#Imposte sui redditi: qualificare prima di calcolare]]; [[books/moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni#Compensazione: gate in sei controlli]].
 
-**Esempio:** un credito dichiarato non è automaticamente utilizzabile: natura, disponibilita e limiti vanno verificati.
+**Esempio:** un credito dichiarato non è automaticamente utilizzabile: natura, disponibilità e limiti vanno verificati.
 
 **Errore tipico:** confondere credito esposto, compensazione e rimborso.
 
@@ -267,7 +267,7 @@ Per ogni voce spiega che cos'è, a che cosa serve e da quale istituto va distint
 
 **Rinvio:** [[books/moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni#Operazioni IVA e ciclo degli adempimenti]].
 
-**Esempio:** IVA esposta su un acquisto non implica automaticamente detraibilita.
+**Esempio:** IVA esposta su un acquisto non implica automaticamente detraibilità.
 
 **Errore tipico:** confondere addebito e diritto alla detrazione.
 ## Appendice D - Schemi di processo
@@ -324,7 +324,7 @@ Per ogni voce spiega che cos'è, a che cosa serve e da quale istituto va distint
 
 `immobile -> identificativi -> evento tecnico/giuridico -> procedura -> documento -> controllo -> esito`
 
-**Istruzioni:** scegli DOCFA, PREGEO, voltura o formalita solo dopo aver classificato l'evento.
+**Istruzioni:** scegli DOCFA, PREGEO, voltura o formalità solo dopo aver classificato l'evento.
 
 **Esempio:** frazionamento e vendita richiedono verifiche geometriche, catastali e immobiliari distinte.
 
@@ -332,6 +332,60 @@ Per ogni voce spiega che cos'è, a che cosa serve e da quale istituto va distint
 
 **Rinvio:** [[books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare#14. Il lavoro nei servizi Territorio e SPI]].
 
+## Verticale tecnico ADM — merceologia, chimica e accise energetiche
+
+Questo verticale si attiva quando il bando richiede conoscenze tecniche, chimiche o industriali connesse alle funzioni ADM. Negli altri profili serve come quadro di orientamento: non sostituisce il programma specialistico indicato dal bando.
+
+### Dalla merce reale alla classificazione
+
+La **merceologia** studia la merce per ciò che è concretamente: materiali e composizione, funzione, stato di lavorazione, modalità di presentazione e, quando la disciplina lo rende rilevante, impiego o destinazione. Questi elementi permettono di passare dalla descrizione commerciale alla classificazione giuridica. Il nome riportato in fattura è un indizio, non una conclusione.
+
+| Dimensione | Domanda tecnica | Conseguenza nel ragionamento |
+| --- | --- | --- |
+| composizione | di quali sostanze o materiali è formato il prodotto? | restringe le possibili voci e segnala se occorre un accertamento analitico |
+| funzione | che cosa fa il prodotto secondo caratteristiche oggettive? | distingue merci simili per aspetto ma diverse per impiego |
+| lavorazione | è materia prima, semilavorato o prodotto finito? | può cambiare la posizione nella nomenclatura |
+| presentazione | come è confezionato, dosato o assemblato? | può incidere sulla qualificazione del bene |
+| uso rilevante | quale destinazione è documentata e ammessa? | può incidere sul trattamento d'accisa, senza sostituire l'identificazione del prodotto |
+
+La classificazione tariffaria resta distinta da origine e valore. È distinta anche dalla qualificazione ai fini dell'accisa: lo stesso dato tecnico può essere rilevante in entrambi i piani, ma non produce automaticamente la stessa conseguenza.
+
+### Chimica e laboratori: dal fatto tecnico alla decisione
+
+L'analisi chimica serve ad accertare proprietà che documenti e osservazione non chiariscono con sufficiente affidabilità. I laboratori chimici ADM supportano, tra l'altro, classificazione doganale, trattamento fiscale dei prodotti soggetti ad accisa e contrasto alle frodi. Il rapporto analitico descrive un risultato tecnico; la decisione giuridico-fiscale integra quel risultato con nomenclatura, regole applicabili, documenti e fatti del caso.
+
+`descrizione dichiarata -> documentazione tecnica -> caratteristiche osservabili -> eventuale analisi competente -> risultanza tecnica -> classificazione motivata -> conseguenza fiscale`
+
+Questa è una mappa di ragionamento, non un protocollo di campionamento o di laboratorio. In prova non si inventano metodi, quantità, soglie o valori. Si indica quale fatto manca, perché è rilevante e quale accertamento competente può colmarlo.
+
+**Distinzione decisiva:** osservazione, documento e risultato analitico sono fonti di prova; la classificazione è la conclusione motivata che se ne ricava applicando la regola pertinente.
+
+### Mappa minima delle accise energetiche
+
+Per un prodotto energetico non basta domandare «quanto si paga». Prima occorre ricostruire sei elementi:
+
+1. identità e caratteristiche del prodotto;
+2. classificazione fiscale applicabile;
+3. uso o destinazione documentati;
+4. posizione del prodotto, per esempio in regime sospensivo o con accisa assolta;
+5. soggetto e luogo autorizzati coinvolti nella fabbricazione, detenzione o circolazione;
+6. quantità, documenti ed evento che rende l'accisa esigibile.
+
+La natura del prodotto e il suo uso non coincidono. Un bene tecnicamente identico può richiedere verifiche diverse in ragione della destinazione prevista dalla disciplina; viceversa, dichiarare un uso non modifica da solo la realtà merceologica. Aliquote, esenzioni, codici e condizioni sono dati mobili: si controllano sul Testo unico delle accise e sulle fonti ADM vigenti alla data richiesta.
+
+### Caso guidato
+
+Una partita è dichiarata genericamente come «solvente industriale». La scheda tecnica è incompleta e alcuni dati non concordano con l'aspetto del prodotto. Una risposta corretta non indovina codice e aliquota. Identifica prima composizione, funzione, stato e presentazione; confronta dichiarazione e documenti; segnala l'eventuale necessità di un'analisi competente; separa classificazione doganale e trattamento d'accisa; verifica uso dichiarato, posizione fiscale, soggetti, luogo e documentazione. Solo dopo collega i fatti accertati alla conseguenza giuridica.
+
+**Domanda da commissario:** perché il nome commerciale non basta? Perché può non rappresentare composizione, funzione e lavorazione richieste dalle regole di classificazione; occorrono caratteristiche oggettive verificabili.
+
+**Domanda-trappola:** il certificato di analisi assegna automaticamente la voce tariffaria? No. Accerta proprietà tecniche; la classificazione richiede l'applicazione motivata delle regole giuridiche e della nomenclatura.
+
+**Errore tipico:** saltare dal prodotto descritto all'aliquota, confondendo identità merceologica, classificazione, uso ed esigibilità.
+
+**Mini-esercizio:** per un olio presentato come «lubrificante», scrivi cinque dati tecnici o documentali da verificare e ordinali nella catena fatto-prova-classificazione-conseguenza. Non indicare codice o aliquota se la traccia non offre elementi sufficienti.
+
+**Verifica rapida:** sai distinguere merceologia, analisi e classificazione? Sai spiegare perché classificazione doganale e trattamento d'accisa non coincidono? Sai ricostruire i sei elementi minimi senza inventare dati mobili?
 ## Appendice E - Canvas compilabili
 
 ### Canvas del caso specialistico
@@ -403,7 +457,7 @@ Nel front-office il servizio all'utente deve rispettare la protezione dei dati. 
 
 ![Figura 14.3 - Protocollo front-office e privacy: identificazione, competenza, minimizzazione, canale, tracciabilità ed escalation.](../assets/chapter-14/04-front-office-privacy-protocollo.png)
 
-**Riferimenti:** [[sources/regolamento-ue-2016-679-gdpr-protezione-dati-personali]]; [[books/moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader#9. Front-office: una checklist che evita errori]]; [[books/moduli/m-fc02-agenzie-fiscali/chapters/13-casi-pratici-quiz-orale-agenzie-fiscali#Caso situazionale: utente aggressivo allo sportello]].
+**Riferimenti:**; [[books/moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader#9. Front-office: una checklist che evita errori]]; [[books/moduli/m-fc02-agenzie-fiscali/chapters/13-casi-pratici-quiz-orale-agenzie-fiscali#Caso situazionale: utente aggressivo allo sportello]].
 
 ## Appendice F - Sanzioni, reati, processo e diritto UE
 
@@ -411,19 +465,21 @@ La tavola aiuta a riconoscere il piano giuridico pertinente e rinvia alla relati
 
 | Area | Domanda | Distinzione | Fonte e rinvio |
 | --- | --- | --- | --- |
-| Sanzione tributaria | Quale violazione, autore, elemento soggettivo e conseguenza? | illecito amministrativo, recupero del tributo e reato sono piani distinti | [[sources/sanzioni-amministrative-tributarie-aggiornamento-2026-07-18]]; [[books/moduli/m-fc02-agenzie-fiscali/chapters/05a-sanzioni-amministrative-reati-tributari]] |
-| Reato tributario | Quale condotta, dolo e fattispecie vengono in rilievo? | il rilievo penale richiede presupposti propri e non deriva dal solo debito fiscale | [[sources/reati-tributari-dlgs-74-2000-aggiornamento-2026-07-18]]; [[books/moduli/m-fc02-agenzie-fiscali/chapters/05a-sanzioni-amministrative-reati-tributari]] |
-| Tutela e processo | Quale atto, rimedio, giudice e fase? | tutela amministrativa, deflazione e processo non coincidono | [[sources/processo-tributario-dlgs-175-2024-aggiornamento-2026-07-18]]; [[books/moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario]] |
-| Diritto UE fiscale | Quale fonte UE opera e come si coordina con il diritto interno? | regolamento, direttiva e disciplina nazionale producono effetti diversi | [[sources/diritto-ue-fiscale-doganale-iva-cdu-2026-07-18]]; [[books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta#Livello 3 - Quadro UE fiscale, IVA e dogane]] |
-| Diritto UE doganale | Quale regola unionale e quale complemento nazionale governano la fase? | fonte UE e integrazione nazionale vanno lette nella corretta gerarchia | [[sources/diritto-ue-fiscale-doganale-iva-cdu-2026-07-18]]; [[books/moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm#1. Le fonti: prima l'Unione, poi il complemento nazionale]] |
+| Sanzione tributaria | Quale violazione, autore, elemento soggettivo e conseguenza? | illecito amministrativo, recupero del tributo e reato sono piani distinti |; [[books/moduli/m-fc02-agenzie-fiscali/chapters/05a-sanzioni-amministrative-reati-tributari]] |
+| Reato tributario | Quale condotta, dolo e fattispecie vengono in rilievo? | il rilievo penale richiede presupposti propri e non deriva dal solo debito fiscale |; [[books/moduli/m-fc02-agenzie-fiscali/chapters/05a-sanzioni-amministrative-reati-tributari]] |
+| Tutela e processo | Quale atto, rimedio, giudice e fase? | tutela amministrativa, deflazione e processo non coincidono |; [[books/moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario]] |
+| Diritto UE fiscale | Quale fonte UE opera e come si coordina con il diritto interno? | regolamento, direttiva e disciplina nazionale producono effetti diversi |; [[books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta#Livello 3 - Quadro UE fiscale, IVA e dogane]] |
+| Diritto UE doganale | Quale regola unionale e quale complemento nazionale governano la fase? | fonte UE e integrazione nazionale vanno lette nella corretta gerarchia |; [[books/moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm#1. Le fonti: prima l'Unione, poi il complemento nazionale]] |
 
 **Istruzioni:** chiarisci anzitutto la natura dell'illecito, dell'atto o della fonte. Identifica quindi soggetti, presupposti, fase e conseguenze. Se il quesito coinvolge più piani, esaminali separatamente e nell'ordine in cui operano.
 
-**Esempio:** un'irregolarita dichiarativa può determinare recupero del tributo e conseguenze amministrative; l'eventuale rilievo penale richiede la verifica dei suoi presupposti. La tutela contro l'atto segue ancora un piano distinto.
+**Esempio:** un'irregolarità dichiarativa può determinare recupero del tributo e conseguenze amministrative; l'eventuale rilievo penale richiede la verifica dei suoi presupposti. La tutela contro l'atto segue ancora un piano distinto.
 
 **Errore tipico:** chiamare "reato" ogni violazione fiscale o usare "ricorso" senza indicare atto, autorità e fase.
 
 ![Figura 14.4 - Reati, sanzioni, condotte e rischio: una mappa per separare recupero, illecito amministrativo, fattispecie penale e tutela.](../assets/chapter-14/02-reati-sanzioni-condotte-rischio.png)
+
+Usa la prima mappa per qualificare correttamente la condotta; passa poi alla seconda per individuare la fonte applicabile e il raccordo tra disciplina unionale e nazionale.
 
 ![Figura 14.5 - Diritto UE fiscale e doganale: fonte, ambito, regola unionale e raccordo nazionale nella sequenza operativa.](../assets/chapter-14/03-diritto-ue-doganale-mappa-operativa.png)
 ## Appendice G - Checklist orale
@@ -476,7 +532,7 @@ La tavola aiuta a riconoscere il piano giuridico pertinente e rinvia alla relati
 | Mercoledi | accertamento | micro-caso | scritto | griglia |
 | Giovedi | riscossione | front-office | situazionale | diario |
 | Venerdi | dogane/accise | flusso | quiz + orale | glossario |
-| Sabato | catasto/contabilita | caso | simulazione | correzione |
+| Sabato | catasto/contabilità | caso | simulazione | correzione |
 | Domenica | errori rossi | recupero | test misto | nuovo piano |
 ## Da sapere in 5 righe
 
@@ -514,24 +570,6 @@ Compilare le caselle con parole generiche come "controllo" o "ricorso". Ogni cas
 
 Scegli un nucleo rosso e produci una voce di glossario, una tavola, un canvas, un orale da 120 secondi e la prima riga del piano di ripasso. Se compare un dato mobile, aggiungi fonte e data.
 
-## Riferimenti consolidati
-
-- [[sources/m-fc02-dossier-redazionale-agenzie-fiscali]]
-- [[sources/normativa-tributaria-tuir-iva-accertamento-m-fc02]]
-- [[sources/accertamento-contraddittorio-compliance-aggiornamento-2026-07-17]]
-- [[sources/riscossione-ader-aggiornamento-istituzionale-2026-07-17]]
-- [[sources/codice-doganale-unione-procedure-adm-aggiornamento-2026-07-17]]
-- [[sources/accise-giochi-monopoli-adm-aggiornamento-2026-07-17]]
-- [[sources/catasto-cartografia-estimo-pubblicita-immobiliare-aggiornamento-2026-07-18]]
-- [[sources/contabilita-aziendale-bilancio-reddito-impresa-aggiornamento-2026-07-18]]
-- [[sources/sanzioni-amministrative-tributarie-aggiornamento-2026-07-18]]
-- [[sources/reati-tributari-dlgs-74-2000-aggiornamento-2026-07-18]]
-- [[sources/processo-tributario-dlgs-175-2024-aggiornamento-2026-07-18]]
-- [[sources/diritto-ue-fiscale-doganale-iva-cdu-2026-07-18]]
-- [[sources/regolamento-ue-2016-679-gdpr-protezione-dati-personali]]
-- [[topics/diritto-tributario-concorsi-agenzie-fiscali]]
-- [[topics/dogane-accise-monopoli-adm]]
-- [[topics/riscossione-tributaria-ader]]
 
 ## Note di review
 
@@ -539,4 +577,4 @@ Scegli un nucleo rosso e produci una voce di glossario, una tavola, un canvas, u
 - Le tavole dell'appendice F sono presidi di riconoscimento; la completezza dipende dai capitoli 4, 5A, 5B e 8 e dalle relative review specialistiche.
 - DOCFA, PREGEO, procedure doganali e strumenti contabili richiedono review specialistica umana.
 - Il protocollo front-office applica il nucleo comune senza duplicarlo; prima della pubblicazione vanno verificati GDPR, procedure interne dell'ente e anchor verso il VOL-01.
-- Non inserire giurisprudenza puntuale finche' non esiste una banca giurisprudenziale consolidata nel wiki.
+- Non inserire giurisprudenza puntuale finché non esiste una banca giurisprudenziale consolidata nel wiki.

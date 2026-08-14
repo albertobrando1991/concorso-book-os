@@ -30,7 +30,7 @@ La fonte consolida il dossier v4 fornito dall'autore e il delta normativo necess
 
 | Fonte | Uso principale |
 | --- | --- |
-| D.P.R. 131/1986 | Imposta di registro |
+| D.P.R. 131/1986 e D.Lgs. 123/2025 | Imposta di registro e transizione al testo unico dal 2027 |
 | D.Lgs. 471/1997 | Sanzioni tributarie specifiche |
 | D.Lgs. 300/1999 | Ordinamento delle agenzie fiscali |
 | D.Lgs. 374/1990 | Istituti e procedure doganali nazionali |

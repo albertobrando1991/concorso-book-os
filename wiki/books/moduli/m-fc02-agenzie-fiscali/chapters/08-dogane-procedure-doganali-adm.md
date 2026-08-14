@@ -18,12 +18,12 @@ companion_to: il-metodo-bando
 confidence: 0.95
 updated_at: 2026-08-04
 created_at: 2026-07-01T21:00:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "module-code-m-fc02", "professional-draft", "revised-draft"]
 book_id: m-fc02-agenzie-fiscali
 outline_section: 8
-draft_stage: revised-editorial-draft
+draft_stage: specialist-audit-complete
 module_code: M-FC02
 module_family: funzioni-centrali
 last_compiled_from: ["wiki/sources/dogane-accise-giochi-monopoli-adm-m-fc02.md", "wiki/sources/codice-doganale-unione-procedure-adm-aggiornamento-2026-07-17.md", "wiki/sources/m-fc02-corpus-ufficiale-integrativo-2026-07-17.md", "wiki/sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026.md", "wiki/topics/dogane-accise-monopoli-adm.md", "wiki/entities/agenzia-delle-dogane-e-dei-monopoli.md"]
@@ -76,9 +76,9 @@ ADM e Agenzia delle Entrate appartengono alla stessa famiglia istituzionale, ma 
 
 ## 2. Territorio doganale e status delle merci
 
-Il territorio doganale dell'Unione è lo spazio nel quale si applica il sistema doganale comune, secondo le inclusioni ed esclusioni previste dal CDU. Non coincide in modo perfetto con il territorio geografico o fiscale degli Stati membri. Questa differenza spiega perché alcune movimentazioni richiedano formalita anche se coinvolgono territori politicamente collegati all'Unione.
+Il territorio doganale dell'Unione è lo spazio nel quale si applica il sistema doganale comune, secondo le inclusioni ed esclusioni previste dal CDU. Non coincide in modo perfetto con il territorio geografico o fiscale degli Stati membri. Questa differenza spiega perché alcune movimentazioni richiedano formalità anche se coinvolgono territori politicamente collegati all'Unione.
 
-Le merci si distinguono anzitutto in unionali e non unionali. Le merci unionali possono circolare nel territorio doganale dell'Unione secondo le regole del mercato interno, salvo discipline specifiche. Le merci non unionali restano sotto vigilanza doganale finche non acquistano lo status unionale, vengono vincolate a un altro regime o escono dal territorio.
+Le merci si distinguono anzitutto in unionali e non unionali. Le merci unionali possono circolare nel territorio doganale dell'Unione secondo le regole del mercato interno, salvo discipline specifiche. Le merci non unionali restano sotto vigilanza doganale finché non acquistano lo status unionale, vengono vincolate a un altro regime o escono dal territorio.
 
 La provenienza indica il luogo dal quale la merce è spedita; l'origine è invece una qualificazione giuridica fondata sulle regole di produzione o trasformazione. Un bene spedito dalla Svizzera può avere origine cinese. Per il quiz, cambiare il Paese di spedizione non cambia automaticamente l'origine.
 
@@ -86,9 +86,9 @@ La provenienza indica il luogo dal quale la merce è spedita; l'origine è invec
 
 L'operatore economico interagisce con la dogana direttamente o tramite un rappresentante. Il dichiarante presenta la dichiarazione in nome proprio oppure è la persona nel cui nome essa viene presentata. La rappresentanza può essere diretta, quando il rappresentante agisce in nome e per conto di un'altra persona, o indiretta, quando agisce in nome proprio ma per conto altrui.
 
-La distinzione incide sulle responsabilità e, nei casi previsti, sulla posizione debitoria. L'ufficio verifica percio i poteri di rappresentanza, l'identità dell'operatore e il codice EORI. L'EORI è l'identificativo usato nei rapporti doganali nell'Unione e consente di collegare dichiarazioni, autorizzazioni e controlli al soggetto corretto.
+La distinzione incide sulle responsabilità e, nei casi previsti, sulla posizione debitoria. L'ufficio verifica perciò i poteri di rappresentanza, l'identità dell'operatore e il codice EORI. L'EORI è l'identificativo usato nei rapporti doganali nell'Unione e consente di collegare dichiarazioni, autorizzazioni e controlli al soggetto corretto.
 
-L'operatore economico autorizzato, AEO, è un soggetto riconosciuto affidabile sulla base dei requisiti previsti. Lo status può dare accesso a semplificazioni o agevolazioni nei controlli, secondo il tipo di autorizzazione. Non elimina i controlli e non equivale a un'immunita doganale.
+L'operatore economico autorizzato, AEO, è un soggetto riconosciuto affidabile sulla base dei requisiti previsti. Lo status può dare accesso a semplificazioni o agevolazioni nei controlli, secondo il tipo di autorizzazione. Non elimina i controlli e non equivale a un'immunità doganale.
 
 ## 4. Dall'arrivo allo svincolo
 
@@ -109,15 +109,15 @@ La procedura può essere letta come una catena:
 
 La custodia temporanea non è un regime scelto liberamente per conservare merci a tempo indefinito. È la condizione delle merci non unionali presentate in dogana in attesa di essere vincolate a un regime o riesportate, entro il termine stabilito dal CDU.
 
-La dichiarazione manifesta la volonta di vincolare le merci al regime prescelto. La data di accettazione è rilevante per applicare le disposizioni che governano quel regime. Lo svincolo è invece l'atto con il quale la dogana rende le merci disponibili per i fini del regime. Accettare la dichiarazione non significa aver già concluso ogni controllo.
+La dichiarazione manifesta la volontà di vincolare le merci al regime prescelto. La data di accettazione è rilevante per applicare le disposizioni che governano quel regime. Lo svincolo è invece l'atto con il quale la dogana rende le merci disponibili per i fini del regime. Accettare la dichiarazione non significa aver già concluso ogni controllo.
 
 ## 5. La dichiarazione doganale
 
 La dichiarazione è normalmente elettronica e contiene i dati necessari per applicare il regime. Deve essere accompagnata, o supportata nei sistemi, dai documenti richiesti: fattura, documenti di trasporto, autorizzazioni, licenze, prove di origine e certificazioni legate a divieti o restrizioni.
 
-Il dichiarante risponde dell'esattezza e completezza dei dati, dell'autenticita e validità dei documenti e del rispetto degli obblighi connessi al regime. Il controllo automatizzato non trasferisce la responsabilità all'amministrazione. Un dato accettato dal sistema può essere verificato successivamente.
+Il dichiarante risponde dell'esattezza e completezza dei dati, dell'autenticità e validità dei documenti e del rispetto degli obblighi connessi al regime. Il controllo automatizzato non trasferisce la responsabilità all'amministrazione. Un dato accettato dal sistema può essere verificato successivamente.
 
-Prima dello svincolo, la dichiarazione può essere rettificata nei casi e nei limiti del CDU. L'invalidamento elimina gli effetti della dichiarazione quando ricorrono i presupposti specifici. Rettifica e invalidamento non sono strumenti intercambiabili, ne possono essere usati per sottrarsi a un controllo già annunciato.
+Prima dello svincolo, la dichiarazione può essere rettificata nei casi e nei limiti del CDU. L'invalidamento elimina gli effetti della dichiarazione quando ricorrono i presupposti specifici. Rettifica e invalidamento non sono strumenti intercambiabili, né possono essere usati per sottrarsi a un controllo già annunciato.
 ### Checklist della dichiarazione doganale
 
 | Passaggio | Domanda operativa | Perché serve |
@@ -172,7 +172,7 @@ Il regime doganale è la destinazione giuridica scelta per la merce e determina 
 
 Immissione in libera pratica e esportazione sono i due poli più facilmente richiamati ai concorsi, ma non esauriscono la materia. Il transito protegge la circolazione; il deposito sospende l'impatto immediato dei diritti; l'uso particolare e il perfezionamento collegano il regime doganale alla finalità economica concreta. La scelta dipende dalla destinazione concreta: ingresso definitivo nel mercato, attraversamento, custodia o lavorazione.
 
-Questi regimi differiscono per funzione, condizioni e appuramento. Spesso richiedono autorizzazione, garanzia, registrazioni e rispetto di un termine. Il vantaggio finanziario non è definitivo finche la procedura non è regolarmente conclusa.
+Questi regimi differiscono per funzione, condizioni e appuramento. Spesso richiedono autorizzazione, garanzia, registrazioni e rispetto di un termine. Il vantaggio finanziario non è definitivo finché la procedura non è regolarmente conclusa.
 
 ### Cosa deve saper dire il candidato
 
@@ -192,7 +192,7 @@ Un'impresa importa merci non unionali e chiede di tenerle in un magazzino intern
 
 Il debito doganale è l'obbligo di pagare i dazi all'importazione o all'esportazione applicabili a una determinata merce. Può sorgere per regolare vincolo a un regime oppure per inosservanza degli obblighi doganali. Il debitore e il momento di insorgenza dipendono dalla fattispecie.
 
-Il debito doganale non coincide con il valore della merce ne con la semplice dichiarazione. È l'obbligazione pubblicistica che nasce quando ricorrono i presupposti previsti dal CDU. Se il regime è corretto, il debito nasce e si quantifica secondo le regole del sistema; se vi è violazione, possono sorgere conseguenze ulteriori previste dalla disciplina.
+Il debito doganale non coincide con il valore della merce né con la semplice dichiarazione. È l'obbligazione pubblicistica che nasce quando ricorrono i presupposti previsti dal CDU. Se il regime è corretto, il debito nasce e si quantifica secondo le regole del sistema; se vi è violazione, possono sorgere conseguenze ulteriori previste dalla disciplina.
 
 La garanzia tutela l'adempimento di un debito esistente o potenziale. Può essere isolata o globale e, nei casi previsti, beneficiare di riduzioni o esoneri. Non sostituisce il debito: assicura che l'amministrazione possa riscuoterlo se l'obbligazione diventa esigibile.
 
@@ -200,7 +200,7 @@ La garanzia tutela l'adempimento di un debito esistente o potenziale. Può esser
 |---|---|---|---|
 | Debito doganale | Obbligo di pagamento dei diritti dovuti. | Esiste un presupposto normativo per farlo nascere? | Ridurlo a un semplice importo da fattura. |
 | Garanzia | Copre il rischio di mancato pagamento o di obbligazioni potenziali. | La procedura richiede una garanzia e quale tipo? | Considerarla una sanzione o un costo accessorio. |
-| Sgravio | Evita o elimina l'esazione nei casi previsti. | C'e un motivo legale per non riscuotere? | Confonderlo con il rimborso. |
+| Sgravio | Evita o elimina l'esazione nei casi previsti. | C'è un motivo legale per non riscuotere? | Confonderlo con il rimborso. |
 | Rimborso | Restituisce quanto già pagato. | La somma è stata versata e poi deve tornare indietro? | Usarlo per ogni ipotesi di annullamento. |
 
 L'obbligazione può estinguersi nei casi disciplinati dal CDU, tra cui pagamento, sgravio, rimborso o altre cause tipiche. Anche qui il lessico conta: rimborso restituisce un importo pagato; sgravio evita la contabilizzazione o l'esazione nei presupposti normativi.
@@ -228,6 +228,8 @@ L'errore più comune è usare "regime", "debito" e "garanzia" come sinonimi. Il 
 Le autorità doganali possono verificare dichiarazioni, documenti, contabilità e merci; prelevare campioni; controllare mezzi di trasporto, bagagli e luoghi nei limiti di legge. La selezione si fonda sull'analisi del rischio, integrata da controlli casuali e obblighi derivanti da normative specifiche.
 
 ![Figura 8.4 - Controlli doganali, analisi del rischio e AEO: affidabilità e facilitazioni non eliminano le verifiche.](../assets/chapter-08/04-controlli-doganali-rischio-aeo.png)
+
+La prima mappa chiarisce come viene selezionato il controllo; la checklist successiva traduce quella logica nei dati da verificare prima di presentare la dichiarazione.
 
 ![Figura 8.5 - Checklist della dichiarazione doganale: soggetto, merce, triade tecnica, regime, documenti e rischio.](../assets/chapter-08/05-checklist-dichiarazione-doganale.png)
 
@@ -361,7 +363,7 @@ D. l'esenzione definitiva da ogni obbligo.
 | Ho confuso origine e provenienza | L'origine dipende dalle regole di produzione | Risolvere due casi con spedizione da Paese terzo |
 | Ho equiparato fattura e valore | Il prezzo può richiedere rettifiche | Ripassare aggiunte e metodi secondari |
 | Ho confuso accettazione e svincolo | Sono momenti procedurali distinti | Ridisegnare il flusso |
-| Ho trattato AEO come esenzione | AEO offre benefici, non immunita | Elencare requisiti e controlli residui |
+| Ho trattato AEO come esenzione | AEO offre benefici, non immunità | Elencare requisiti e controlli residui |
 
 ## Checklist finale
 
@@ -374,15 +376,6 @@ D. l'esenzione definitiva da ogni obbligo.
 - [ ] So spiegare debito, garanzia e controllo successivo.
 - [ ] So risolvere il caso guidato senza saltare fasi.
 
-## Riferimenti consolidati
-
-- [[sources/dogane-accise-giochi-monopoli-adm-m-fc02]]
-- [[sources/codice-doganale-unione-procedure-adm-aggiornamento-2026-07-17]]
-- [[sources/m-fc02-corpus-ufficiale-integrativo-2026-07-17]]
-- [[sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026]]
-- [[sources/codice-doganale-unione-procedure-doganali-m-fc02]]
-- [[topics/dogane-accise-monopoli-adm]]
-- [[entities/agenzia-delle-dogane-e-dei-monopoli]]
 
 ## Note di review
 

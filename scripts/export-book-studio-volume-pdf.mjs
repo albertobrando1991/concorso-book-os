@@ -9,7 +9,7 @@ const expectedPageCount = Number.parseInt(process.env.BOOK_STUDIO_EXPECTED_PAGES
 const outputPath = path.resolve(
   process.env.BOOK_STUDIO_PDF_PATH || "delivery/VOL-07/candidate/vol-07-interior-kdp.pdf"
 )
-const url = `${baseUrl}/?bookId=${encodeURIComponent(bookId)}#studio`
+const url = `${baseUrl}/?bookId=${encodeURIComponent(bookId)}&advanced=1#studio`
 const contract = createPdfExportContract(outputPath)
 
 await fs.mkdir(path.dirname(outputPath), { recursive: true })
@@ -29,9 +29,11 @@ const page = await browser.newPage({ viewport: { width: 1500, height: 1050 } })
 
 try {
   await page.goto(url, { waitUntil: "domcontentloaded", timeout: 180_000 })
-  await page.locator("#studio").waitFor({ state: "visible", timeout: 120_000 })
-  await page.getByRole("button", { name: "Libro", exact: true }).click()
-  await page.locator(".bookPages .bookPage").first().waitFor({ state: "visible", timeout: 120_000 })
+  const studio = page.locator("section.bookStudioPanel#studio-advanced").last()
+  await studio.waitFor({ state: "visible", timeout: 120_000 })
+  await studio.getByRole("button", { name: "Libro", exact: true }).click()
+  await studio.getByText("vista libro", { exact: true }).waitFor({ state: "visible", timeout: 120_000 })
+  await studio.locator(".bookPages .bookPage").first().waitFor({ state: "visible", timeout: 120_000 })
   await page.evaluate(() => document.fonts.ready)
   await page.$$eval(".bookPages img", async (images) => {
     for (const image of images) image.loading = "eager"
@@ -46,23 +48,28 @@ try {
     }))
   })
   await page.waitForFunction(
-    (expected) => document.querySelectorAll(".bookPages .bookPage").length === expected,
+    (expected) => {
+      const studios = document.querySelectorAll("section.bookStudioPanel#studio-advanced")
+      const activeStudio = studios.item(studios.length - 1)
+      return activeStudio?.querySelectorAll(".bookPages .bookPage").length === expected
+    },
     expectedPageCount,
     { timeout: 120_000 }
   )
   await page.waitForTimeout(2_000)
 
-  const readiness = await page.evaluate(() => ({
-    pageCount: document.querySelectorAll(".bookPages .bookPage").length,
+  const readiness = await studio.evaluate((root) => ({
+    pageCount: root.querySelectorAll(".bookPages .bookPage").length,
     fontsReady: document.fonts.status === "loaded",
-    missingImages: Array.from(document.querySelectorAll(".bookPages img"))
+    missingImages: Array.from(root.querySelectorAll(".bookPages img"))
       .filter((image) => !image.complete || image.naturalWidth < 1).length
-      + document.querySelectorAll(".bookPages .missingAsset").length
+      + root.querySelectorAll(".bookPages .missingAsset").length
   }))
   assertBookReady({ ...readiness, expectedPageCount })
 
   await page.evaluate(() => {
-    const pages = document.querySelector(".bookPages")
+    const studios = document.querySelectorAll("section.bookStudioPanel#studio-advanced")
+    const pages = studios.item(studios.length - 1)?.querySelector(".bookPages")
     if (!pages) throw new Error("Contenitore .bookPages assente.")
     document.body.replaceChildren(pages)
   })

@@ -5,20 +5,24 @@ title: "Rinvii ragionati ad altri moduli"
 status: revised_draft
 domain: "concorsi pubblici italiani"
 topics: ["moduli specialistici", "confini editoriali", "metodo bando", "enti pubblici non economici", "bando decoder", "rinvii"]
-entities: ["Metodo BANDO", "M-FC03", "M-FC02", "M-FC05", "M-IR03", "M-TR01", "M-TR02", "M-SA01", "M-SA02"]
+entities: ["Metodo BANDO", "M-FC03", "M-FC02", "M-FC05", "M-IR03", "M-TR01", "M-TR02", "M-TR03", "M-SA01", "M-SA02", "M-SA04", "M-SP01", "M-SP02", "M-SP04"]
 source_refs: ["sources/m-fc03-dossier-redazionale-enti-pubblici-non-economici.md", "sources/m-fc03-fonti-ufficiali-enti-epne-2026.md", "books/moduli/architettura-moduli-specialistici.md", "topics/enti-pubblici-non-economici-concorsi.md"]
 book_refs: ["m-fc03-enti-non-economici", "il-metodo-bando"]
 confidence: 0.86
-updated_at: 2026-07-08T00:00:00+02:00
+updated_at: 2026-08-12T00:00:00+02:00
 created_at: 2026-07-02T20:10:00+02:00
-review_required: true
+review_required: false
 canonical: true
-tags: ["book-chapter", "appendix", "module-code-m-fc03", "professional-draft", "module-routing"]
+tags: ["book-chapter", "appendix", "module-code-m-fc03", "format-2", "module-routing"]
 book_id: m-fc03-enti-non-economici
 outline_section: "E"
-draft_stage: professional-draft
+draft_stage: step-15-audited
 module_code: M-FC03
 module_family: funzioni-centrali
+companion_to: il-metodo-bando
+format_version: 2
+dati_operativi: []
+nuclei_ids: ["N-FC03-18-01", "N-FC03-18-02", "N-FC03-18-03", "N-FC03-18-04", "N-FC03-18-05", "N-FC03-18-06"]
 last_compiled_from: [
   "wiki/books/moduli/m-fc03-enti-non-economici/planning/00-piano-editoriale.md",
   "wiki/books/moduli/m-fc03-enti-non-economici/planning/01-matrice-copertura-materie.md",
@@ -33,200 +37,188 @@ last_compiled_from: [
 ---
 # Rinvii ragionati ad altri moduli
 
-## Apertura editoriale
+Questa appendice serve quando un bando riguarda un ente pubblico non economico, ma il profilo o le materie sembrano uscire dal perimetro ordinario di M-FC03. Molti errori di preparazione non dipendono dalla mancata conoscenza di una materia: nascono dalla scelta di un percorso inadatto al lavoro messo a concorso. M-FC03 rimane il riferimento per profili amministrativi, giuridici, economici, contabili, di servizio e di vigilanza non tecnica presso INPS, INAIL e altri enti compatibili. Non è però un contenitore universale per ogni attività svolta da un ente nazionale.
 
-Questa appendice serve quando il candidato ha davanti un bando collegato a un ente pubblico non economico, ma il profilo o le materie escono dal perimetro ordinario di M-FC03. È un passaggio decisivo: molti errori di studio nascono non perché il candidato ignori una materia, ma perché usa il modulo sbagliato per un profilo che richiede un altro percorso.
+Il risultato atteso è una decisione motivata tra tre alternative: restare in M-FC03, aggiungere un'appendice oppure spostare il baricentro su un altro modulo. Il nucleo comune già studiato non viene perso. Si conserva ciò che serve e si integra soltanto la parte specialistica richiesta dal bando.
 
-M-FC03 copre i concorsi per enti pubblici non economici delle Funzioni Centrali con taglio amministrativo, giuridico, economico, contabile, di servizio e di vigilanza non tecnica. È il modulo naturale per INPS, INAIL e altri EPNE quando il bando richiede ordinamento dell'ente, servizi, prestazioni, previdenza, assicurazione sociale, procedimenti, bilancio, PIAO, personale, contratti applicati, casi pratici e quesiti situazionali.
+## Obiettivo didattico
 
-Non è, però, il contenitore di tutto ciò che può accadere dentro un ente nazionale. Se il bando riguarda ricercatori, tecnologi, ICT puro, appalti e PNRR come materia dominante, agenzie fiscali, authority indipendenti, profili sanitari o carriere speciali, il candidato deve fermarsi e attivare il modulo corretto. Il Metodo BANDO non premia l'accumulo: premia la scelta giusta.
-
-## Obiettivo dell'appendice
-
-Alla fine dell'appendice devi saper fare cinque operazioni:
-
-- riconoscere quando M-FC03 basta e quando diventa insufficiente;
-- distinguere profilo amministrativo, tecnico, ICT, ricerca, appalti specialistici, authority, fiscale e sanitario-sociale;
-- scegliere il modulo di rinvio senza abbandonare il nucleo comune del libro base;
-- evitare duplicazioni tra moduli, capitoli e appendici;
-- compilare una mappa dei rinvii da allegare al tuo Bando Decoder.
-
-Il risultato atteso è una decisione chiara: resto in M-FC03, aggiungo un'appendice, oppure passo a un altro modulo.
+Al termine del percorso saprai riconoscere il perimetro effettivo del profilo, attribuire a M-FC03 il ruolo corretto e motivare un eventuale rinvio con elementi ricavati da attività, prove e materie dominanti.
 
 ## Mappa BANDO
 
-| Fase | Domanda operativa | Output |
-| --- | --- | --- |
-| B - Bando | Il profilo è davvero amministrativo EPNE o contiene segnali di ricerca, ICT, appalti avanzati, authority, fiscalità, sanità o carriera speciale? | Decisione di perimetro. |
-| A - Aree | Quali aree restano nel libro base, quali in M-FC03 e quali richiedono un modulo diverso? | Mappa core + modulo + rinvio. |
-| N - Nuclei | Quali parole-spia cambiano famiglia concorsuale? | Lista dei segnali di rinvio. |
-| D - Diario | Quale errore di modulo rischio di ripetere? | Nota nel diario errori. |
-| O - Output | Che cosa devo produrre per decidere? | Scheda dei rinvii ragionati. |
+Il lavoro procede dal Bando, che fornisce i segnali di perimetro, alle Aree da distribuire tra nucleo comune e specializzazione; passa poi ai Nuclei realmente richiesti, registra nel Diario l'errore più probabile e si conclude con un Output verificabile: la scheda dei rinvii ragionati.
 
-## La regola di perimetro
+## N-FC03-18-01 · Perimetro, materia dominante e tre esiti
 
-La domanda non è: "l'ente compare nel modulo M-FC03?". La domanda corretta è: "il profilo messo a bando rientra nel modo in cui M-FC03 prepara il candidato?".
-
-Un ente come ENEA, ASI o ISTAT può comparire in profili amministrativi compatibili con M-FC03, ma può anche selezionare ricercatori, tecnologi, statistici avanzati, informatici o figure altamente tecniche. Allo stesso modo, INAIL può proporre profili amministrativi, profili con materie integrative o profili sociali; ciascuno richiede un grado diverso di rinvio. Il nome dell'ente orienta, ma non decide da solo.
+La domanda iniziale non è «l'ente compare in M-FC03?», ma «il profilo messo a bando rientra nel modo in cui M-FC03 prepara il candidato?». Il nome dell'amministrazione orienta, senza decidere da solo. ENEA, ASI o ISTAT possono selezionare funzionari amministrativi, per i quali l'inquadramento EPNE resta utile, ma anche ricercatori, tecnologi, statistici avanzati, informatici o ingegneri. INAIL può bandire profili amministrativi, di vigilanza, sanitari o tecnici. La stessa sigla, quindi, conduce a preparazioni diverse.
 
 La formula operativa è:
 
 > ente + profilo + prove + materie dominanti = modulo corretto.
 
-Se manca uno di questi elementi, la scelta del modulo è provvisoria.
+L'ente fornisce il contesto istituzionale, mentre il profilo descrive il lavoro atteso. Prove e materie dominanti mostrano quali capacità saranno osservate e dove cade il centro di gravità della selezione. Finché manca uno di questi elementi, la scelta resta provvisoria. Un titolo sintetico come «funzionario» non basta: servono il codice del profilo, le attività, il programma e gli eventuali allegati.
 
-## Tabella dei rinvii principali
+La materia dominante non coincide necessariamente con quella più difficile. È dominante la materia che caratterizza il profilo e ricorre nelle prove, nei compiti e nei criteri di valutazione. Diritto amministrativo può essere impegnativo ma comune a molte selezioni; cybersecurity, progettazione strutturale, metodologia della ricerca o accertamento tributario possono invece determinare la famiglia specialistica. Bisogna osservare il peso relativo, non soltanto contare le voci del programma.
 
-| Segnale nel bando | M-FC03 basta? | Rinvio ragionato |
+La decisione produce tre esiti. Nel primo, **M-FC03 resta il modulo principale**: accade quando il lavoro riguarda procedimenti, servizi, prestazioni, bilancio, personale, trasparenza, contratti ordinari, rapporto con utenti e casi amministrativi dell'ente. Nel secondo, **M-FC03 resta principale ma richiede una lente aggiuntiva**: si attiva un'appendice per vigilanza, lessico previdenziale, scheda ente o controllo degli errori di lettura. Nel terzo, **un altro modulo diventa principale**: M-FC03 conserva valore per il contesto pubblico, ma non deve occupare la maggior parte del tempo.
+
+La Mappa BANDO rende la scelta verificabile. Nella fase B si rilevano profilo e parole-spia; nella fase A si separano nucleo comune, contenuti M-FC03 e specializzazione; nella fase N si selezionano i nuclei effettivamente richiesti; nel Diario si registra l'errore di perimetro più probabile; nell'Output si produce una scheda di rinvio. Il metodo impedisce di accumulare manuali senza una ragione collegata alle prove.
+
+Un indizio isolato non basta. La parola «digitale» può riferirsi alla gestione documentale di un funzionario amministrativo, non a un profilo ICT. La parola «progetto» può descrivere una normale attività organizzativa, non un incarico di ricerca. Al contrario, una sequenza coerente di segnali — sviluppo software, architetture cloud, sicurezza delle reti e prova tecnica — sposta chiaramente il baricentro. La regola pratica è cercare convergenza tra attività, programma e forma della prova.
+
+Nella prova orale questa lettura può diventare una risposta in tre passaggi. Prima si enuncia il criterio: il modulo segue il profilo e la materia dominante, non la sola denominazione dell'ente. Poi si richiamano due o tre evidenze del bando, tratte da attività, prova e programma. La conclusione precisa che cosa rimane nel nucleo comune, quale ruolo conserva M-FC03 e quale specializzazione assume eventualmente il ruolo principale. Non è un semplice elenco di sigle: è un ragionamento che collega gli atti alla scelta di studio. Decidere sulla prima parola riconoscibile porta facilmente fuori strada; i quattro fattori vanno raccolti e confrontati prima di assegnare il percorso.
+
+**Quiz 1.** Un ente di ricerca bandisce un profilo amministrativo per gestione documentale, contratti ordinari e trasparenza. Qual è la prima scelta corretta? A) Escludere M-FC03 perché conta soltanto la natura scientifica dell'ente. B) Usare M-FC03 come modulo principale e verificare le integrazioni richieste. C) Scegliere automaticamente il modulo ICT. D) Studiare tutti i moduli disponibili. **Risposta corretta: B.** La famiglia del profilo e le materie dominanti prevalgono sul solo nome dell'ente.
+
+## N-FC03-18-02 · Restare in M-FC03 o attivare un'appendice
+
+Si resta in M-FC03 quando il bando riguarda l'amministrazione dell'ente: procedimenti, prestazioni, servizi, rapporto con cittadini e imprese, protezione dei dati, bilancio, controlli, PIAO, personale, acquisti ordinari, front office, back office, quesiti situazionali e casi d'ufficio. Anche un ente con missione scientifica, tecnica, sportiva o assistenziale può avere bisogno di personale che svolga queste funzioni. La missione dell'organizzazione e la professionalità ricercata sono piani distinti.
+
+Un funzionario amministrativo presso ASI o ENEA, per esempio, può occuparsi di procedure, contratti, gestione documentale, trasparenza, progetti e risorse. Il contesto è tecnico-scientifico, mentre la prestazione lavorativa resta amministrativa. La prova decisiva viene dal programma: se prevalgono diritto amministrativo, pubblico impiego, organizzazione dell'ente, contabilità, trasparenza e casi di ufficio, M-FC03 conserva il ruolo principale. Gli elementi specialistici si aggiungono in proporzione al loro peso.
+
+Non ogni specificità richiede un cambio di modulo. Le appendici di M-FC03 funzionano come lenti mirate. L'Appendice A serve per vigilanza previdenziale o assicurativa; l'Appendice B per il lessico di previdenza, assicurazione e prestazioni; l'Appendice C orienta tra ACI, ENAC, ISTAT, ENEA, ASI, CONI e CRI nei profili compatibili; l'Appendice D aiuta a evitare errori su portale, gestore, avvisi e allegati. L'appendice appropriata approfondisce un tratto senza alterare la famiglia concorsuale.
+
+Per distinguere un'integrazione da un cambio di rotta, prova a eliminare la materia dubbia: il profilo rimarrebbe riconoscibile come amministrativo EPNE? Chiediti poi se la competenza specialistica è trasversale oppure coincide con il mestiere selezionato. Infine guarda la prova: richiede di applicare quella competenza in un normale caso d'ufficio o di dimostrare una professionalità autonoma? Quando le risposte confermano un nucleo amministrativo stabile, si può restare nel modulo e integrare soltanto ciò che manca.
+
+La tabella seguente sintetizza i segnali più frequenti.
+
+| Segnale nel bando | Esito iniziale | Azione |
 | --- | --- | --- |
-| Funzionario amministrativo, giuridico, economico o contabile presso INPS, INAIL o altro EPNE compatibile | Sì, con eventuali appendici | M-FC03 resta modulo principale. |
-| Vigilanza previdenziale o assicurativa INPS-INAIL | Sì, ma con sottoprofilo | Attivare Appendice A e capitolo 12 per situazionali. |
-| Lessico previdenza, assicurazione, prestazioni | Sì | Attivare Appendice B. |
-| ACI, ENAC, ISTAT, ENEA, ASI, CONI, CRI in profili amministrativi | Sì, come orientamento | Attivare Appendice C e verificare fonti ufficiali. |
-| Errori di lettura del bando, portale, gestore, allegati, avvisi | Sì | Attivare Appendice D e capitolo 10. |
-| Ricercatore, tecnologo, assegni di ricerca, attività scientifica dominante | No, o solo come contesto | Rinvio a M-IR03 Enti di ricerca. |
-| ICT puro, data specialist, cybersecurity, sistemi informativi, architetture digitali | No, salvo raccordo PA digitale | Rinvio a M-TR01 ICT e trasformazione digitale. |
-| Appalti, PNRR, fondi UE, procurement specialistico come centro del profilo | Solo base e raccordo | Rinvio a M-TR02 Appalti, PNRR e fondi UE. |
-| Agenzia fiscale, profili tributari, accertamento fiscale, riscossione | No | Rinvio a M-FC02 Agenzie fiscali. |
-| Authority indipendente, regolazione indipendente, vigilanza di mercato o settore regolato indipendente | No | Rinvio a M-FC05 Authority indipendenti. |
-| Profilo sanitario, professione sanitaria, assistenza sociale sanitaria o tecnico sanitario | Solo se amministrativo compatibile | Rinvio a M-SA01, M-SA02 o moduli sanitari pertinenti. |
-| Carriera speciale, forze di polizia, vigili del fuoco, prefettizia, diplomatica | No | Rinvio a M-SP01, M-SP02 o M-SP04 secondo profilo. |
+| Profilo amministrativo, giuridico, economico o contabile presso EPNE | M-FC03 principale | Integrare solo le materie espresse dal programma |
+| Vigilanza previdenziale o assicurativa | M-FC03 con sottoprofilo | Attivare Appendice A e allenare i situazionali |
+| Previdenza, assicurazione e prestazioni come lessico applicativo | M-FC03 con integrazione | Attivare Appendice B |
+| ACI, ENAC, ISTAT, ENEA, ASI, CONI o CRI con mansioni amministrative | M-FC03 come orientamento specialistico | Consultare Appendice C e fonti dell'ente |
+| Dubbi su allegati, portale, avvisi o gestore | Perimetro invariato | Usare Appendice D e Bando Decoder |
+| Competenze specialistiche che definiscono il mestiere | Cambio di baricentro | Individuare il modulo della famiglia professionale |
 
-## Quando restare in M-FC03
+La permanenza nel modulo va comunque verificata sul bando concreto. Le fonti ufficiali della procedura prevalgono sulle categorie editoriali: programma, criteri, titoli, prove e comunicazioni dell'amministrazione restano il riferimento. Il modulo organizza lo studio, ma non sostituisce la lettura degli atti. Né l'uso di un'appendice giustifica una preparazione ridotta su una materia valutata autonomamente.
 
-Rimani in M-FC03 quando il bando riguarda l'amministrazione dell'ente: procedimenti, servizi, prestazioni, rapporto con cittadini e imprese, dati personali, bilancio, controlli, PIAO, personale, contratti ordinari, front office, back office, casi pratici e situazionali. Anche se l'ente ha una missione tecnica, scientifica o sportiva, il profilo può restare amministrativo.
+Un errore comune è confondere la presenza di una materia con la centralità professionale. Un profilo amministrativo può richiedere nozioni di informatica, inglese, contratti o fondi europei senza diventare informatico, procurement specialist o project manager. Il candidato deve tradurre ogni voce in un output: definizione, risposta orale, caso, esercizio tecnico o elaborato. La natura dell'output chiarisce quanto approfondire.
 
-È il caso, ad esempio, di un funzionario amministrativo presso ASI o ENEA: il contesto è tecnico-scientifico, ma il lavoro richiesto può riguardare procedure, contratti, gestione documentale, trasparenza, progetti e risorse. In quel caso M-FC03 resta utile come modulo di orientamento, integrato dalla scheda ente dell'Appendice C e dai capitoli del libro base.
+Anche la quantità di tempo assegnata va motivata. Se una materia è trasversale, può entrare nel calendario come integrazione circoscritta; se caratterizza mansioni e prova, deve ricevere esercizi e ripassi propri. Questa conseguenza rende operativo il confine fra appendice e rinvio: non basta nominare il materiale, bisogna adeguare l'allenamento alla prestazione richiesta.
 
-La prova decisiva è il programma d'esame. Se le materie sono amministrativo, pubblico impiego, trasparenza, contratti, contabilità, organizzazione dell'ente e casi di ufficio, M-FC03 è ancora il percorso naturale.
+**Quiz 2.** Un profilo amministrativo INAIL include nozioni di informatica e una verifica sull'uso degli strumenti digitali. Quale conclusione è più solida? A) Il profilo diventa automaticamente ICT. B) M-FC03 resta principale, salvo ulteriori segnali tecnici nel programma e nelle prove. C) Occorre abbandonare ogni materia EPNE. D) Basta studiare informatica. **Risposta corretta: B.** Una competenza trasversale non cambia da sola la famiglia del profilo.
 
-## Quando attivare solo un'appendice
+## N-FC03-18-03 · Ricerca, ICT e profili tecnico-ingegneristici
 
-Non ogni segnale specialistico richiede un nuovo modulo. A volte basta attivare l'appendice giusta.
+Il rinvio a **M-IR03 — Enti di ricerca** si attiva quando il bando seleziona ricercatori o tecnologi e attribuisce rilievo a attività scientifica, progetti di ricerca, pubblicazioni, titoli scientifici, laboratori, metodologie specialistiche o valutazione tecnico-scientifica. ENEA, ASI e ISTAT mostrano bene il confine: possono offrire posti amministrativi compatibili con M-FC03 e posti nei quali la produzione o il supporto qualificato alla ricerca costituiscono il lavoro stesso.
 
-Se il bando contiene vigilanza previdenziale o assicurativa, non devi cambiare modulo: devi usare l'Appendice A. Se il problema è il lessico di previdenza, assicurazione e prestazioni, basta l'Appendice B. Se l'ente è ACI, ENAC, ISTAT, ENEA, ASI, CONI o CRI in profilo amministrativo, l'Appendice C orienta senza creare un manuale separato. Se temi di leggere male portale, gestore, avvisi o allegati, l'Appendice D è lo strumento di controllo.
+In questi casi M-FC03 conserva una funzione precisa: aiuta a comprendere organizzazione pubblica, procedimenti, responsabilità e contesto dell'ente. La preparazione tecnico-scientifica richiede però altro. Vanno esaminati il settore disciplinare, i titoli valutabili, le esperienze richieste e il tipo di prova. Discutere progetti, metodi o risultati di ricerca, per esempio, è molto diverso dal rispondere a un quesito sull'accesso agli atti.
 
-L'appendice serve quando il profilo resta dentro M-FC03, ma richiede una lente aggiuntiva.
+Il rinvio a **M-TR01 — ICT e trasformazione digitale** riguarda profili nei quali sistemi informativi, sviluppo software, basi dati, data governance, cloud, interoperabilità, cybersecurity, reti o architetture digitali sono competenze professionali dominanti. M-FC03 copre il raccordo con amministrazione digitale e servizi dell'ente, ma non sostituisce un percorso tecnico ICT. La distinzione si vede nei verbi: «utilizzare» applicativi e gestire documenti è diverso da progettare, sviluppare, amministrare, integrare o mettere in sicurezza sistemi.
 
-## Quando cambiare modulo
+Il profilo **tecnico-ingegneristico** richiede un terzo controllo. Quando il nucleo è progettazione, direzione lavori, manutenzione specialistica, impianti, infrastrutture, sicurezza tecnica, energia o valutazioni ingegneristiche, la famiglia di riferimento è **M-TR03 — Tecnico-ingegneristico**. Non va confusa con M-TR01, che ha centro digitale, né con M-IR03, che ha centro scientifico e di ricerca. Un ingegnere informatico addetto alle architetture applicative può convergere verso ICT; un ingegnere civile per opere e impianti verso il percorso tecnico-ingegneristico; un tecnologo impegnato in ricerca sperimentale verso la famiglia ricerca.
 
-Devi cambiare modulo quando la materia dominante non è più l'amministrazione dell'EPNE, ma un'altra famiglia professionale.
+Per sciogliere i casi ibridi conviene costruire una matrice a quattro colonne: attività quotidiane, competenze specialistiche, prova prevista, prodotto professionale. Se il prodotto è un sistema funzionante o sicuro, prevale ICT; se è un progetto, una verifica tecnica o la gestione di un'opera, prevale tecnico-ingegneristico; se è conoscenza scientifica, sperimentazione o valutazione della ricerca, prevale M-IR03. L'etichetta del titolo di studio è un indizio, non una risposta definitiva.
 
-### Ricerca e tecnologia: M-IR03
+Un bando per «tecnologo» presso un ente scientifico chiarisce il problema. Il termine può indicare un profilo legato a programmi di ricerca, ma il programma concreto può concentrarsi su infrastrutture digitali oppure sulla gestione tecnico-amministrativa dei progetti. Bisogna leggere le attività, senza tradurre meccanicamente la denominazione. Lo stesso vale per «specialista tecnico»: settore, prove e materie sono indispensabili per stabilire il rinvio.
 
-Il rinvio a M-IR03 si attiva quando il bando parla di ricercatori, tecnologi, attività scientifica, progetti di ricerca, pubblicazioni, titoli scientifici, laboratori, metodologie specialistiche o valutazione tecnico-scientifica. ENEA, ASI e ISTAT sono esempi in cui questo confine può diventare decisivo.
+La scelta deve anche evitare due eccessi. Il primo è mantenere M-FC03 al centro solo perché l'amministrazione è un EPNE. Il secondo è eliminare tutto il nucleo pubblico appena compare una specializzazione. Diritto amministrativo, trasparenza, pubblico impiego o organizzazione possono restare in programma. La corretta architettura è spesso: libro base per il comune, M-FC03 per il contesto EPNE, modulo professionale per la parte dominante.
 
-M-FC03 può aiutare a capire l'ente, ma non prepara da solo un profilo di ricerca. In quel caso il candidato deve usare il modulo Istruzione e Ricerca e trattare l'ente come contesto, non come centro amministrativo.
+Prima di adottare un percorso, il candidato verifica che i materiali scelti coprano davvero il programma corrente. I codici indicano famiglie di destinazione e non sostituiscono il confronto puntuale con indice, bando e fonti ufficiali. Se una materia non è coperta, va pianificata come integrazione esplicita, non presunta.
 
-### ICT e trasformazione digitale: M-TR01
+**Quiz 3.** Un concorso ENEA richiede progettazione di impianti, direzione lavori e sicurezza tecnica. Qual è il rinvio più coerente? A) M-IR03 solo perché ENEA svolge ricerca. B) M-TR01 perché ogni tecnologia è ICT. C) M-TR03, mantenendo i nuclei pubblicistici richiesti. D) Nessun rinvio perché l'ente è citato in M-FC03. **Risposta corretta: C.** Sono attività tecnico-ingegneristiche; natura dell'ente e parola «tecnologia» non devono confondere il perimetro.
 
-Il rinvio a M-TR01 si attiva quando il bando seleziona profili informatici o digitali: sistemi informativi, cybersecurity, sviluppo software, basi dati, data governance, infrastrutture, cloud, interoperabilità, servizi digitali, sicurezza informatica o gestione tecnica di piattaforme.
+## N-FC03-18-04 · Appalti, PNRR, fiscalità e authority
 
-M-FC03 contiene il raccordo con PA digitale e servizi, ma non sostituisce un modulo ICT. Se il profilo è tecnico-informatico, la preparazione deve cambiare.
+M-FC03 tratta contratti, acquisti e forniture nel funzionamento ordinario degli enti. Questa base è adeguata quando un funzionario amministrativo deve conoscere il ciclo contrattuale insieme ad altre materie. Il rinvio a **M-TR02 — Appalti, PNRR e fondi UE** diventa invece necessario quando procurement specialistico, programmazione degli interventi, gestione di fondi europei, rendicontazione multilivello, controllo di progetti complessi o supporto qualificato a stazioni appaltanti costituiscono il cuore del profilo.
 
-### Appalti, PNRR e fondi UE: M-TR02
+Il numero di volte in cui compare la parola «appalti» non determina la soglia: contano profondità e output. Se la prova chiede nozioni generali e un caso amministrativo semplice, il capitolo applicativo di M-FC03 può rimanere il perno. Strategie di gara, gestione specialistica dell'esecuzione, rendicontazione di programmi, milestone, controlli e criticità complesse spostano invece lo studio sul modulo trasversale specialistico. Del nucleo EPNE si conserva quanto richiesto dalla procedura.
 
-Il capitolo 9 di M-FC03 copre contratti, acquisti e forniture applicati agli EPNE. Questo è sufficiente per profili amministrativi ordinari. Non è sufficiente quando il bando è centrato su procurement specialistico, PNRR, fondi europei, programmazione avanzata, gestione di interventi complessi, rendicontazione multilivello o supporto specialistico a stazioni appaltanti.
+Per **M-FC02 — Agenzie fiscali**, il segnale non è la generica presenza di entrate o contabilità. Il rinvio riguarda concorsi delle agenzie fiscali e profili centrati su tributi, accertamento, riscossione, catasto, dogane o attività fiscali. L'errore tipico consiste nel raggruppare tutti gli enti nazionali nella stessa famiglia. Una selezione tributaria ha linguaggio, casi e materie propri. D'altra parte, una domanda sulla fiscalità dell'ente inserita in un profilo amministrativo non trasforma automaticamente l'intera preparazione.
 
-In quel caso il rinvio corretto è M-TR02. Il libro base e M-FC03 restano utili per il nucleo amministrativo, ma il cuore dello studio si sposta.
+Il rinvio a **M-FC05 — Authority indipendenti** si attiva quando l'amministrazione è un'autorità indipendente oppure quando il profilo è costruito attorno a regolazione indipendente, vigilanza di mercato, enforcement, concorrenza, comunicazioni, energia, protezione dei dati, tutela del consumatore o mercati regolati. Le authority non vanno assorbite nel contenitore EPNE solo perché esercitano controllo o vigilanza. Natura istituzionale, poteri e settore regolato producono una famiglia concorsuale distinta.
 
-### Agenzie fiscali: M-FC02
+Un punto delicato è la parola «vigilanza». In M-FC03 può indicare vigilanza previdenziale o assicurativa, con i relativi raccordi. In un'authority può riferirsi alla supervisione indipendente di un mercato. In un profilo tecnico può riguardare conformità, sicurezza o controllo specialistico. Occorre chiedere: su chi o cosa si vigila, con quali poteri, secondo quali materie e mediante quale attività? La risposta impedisce associazioni automatiche.
 
-Se il bando riguarda Agenzia delle Entrate, Agenzia delle Dogane e dei Monopoli, riscossione, accertamento fiscale, tributi, catasto, dogane o profili tributari, non sei più nel perimetro degli EPNE. Il rinvio è M-FC02.
+Anche ENAC richiede attenzione. Può essere trattato in M-FC03 come ente di orientamento per profili amministrativi compatibili; ciò non autorizza a confonderlo con un'autorità indipendente né a ritenere amministrativo ogni suo profilo. Se il lavoro è tecnico aeronautico, il rinvio deriva dalle mansioni e dalle prove. Se è amministrativo, resta valido il percorso EPNE. La classificazione deve seguire il bando concreto.
 
-L'errore tipico è pensare che ogni ente nazionale appartenga alla stessa famiglia. Non è così: la fiscalità ha linguaggio, prove, materie e casi propri.
+Attribuisci a ogni materia una funzione: comune, contestuale o dominante. Il diritto amministrativo può costituire il nucleo comune; l'ordinamento dell'ente offre il contesto; diritto tributario, regolazione settoriale o procurement avanzato possono diventare dominanti, secondo il profilo. Anche il tempo di studio deve seguire questa gerarchia, così da non duplicare contenuti già acquisiti e non trascurare il nucleo decisivo per la prova.
 
-### Authority indipendenti: M-FC05
+In una risposta scritta o orale il candidato può usare la stessa classificazione senza trasformarla in una formula rigida. Prima descrive il nucleo comune che permette di inquadrare l'azione amministrativa; poi individua il contesto dell'ente; infine sviluppa la disciplina dominante con lessico e casi della famiglia corretta. Se il quesito riguarda una procedura di gara ordinaria dell'EPNE, il contesto e il diritto dei contratti possono restare raccordati a M-FC03. Se chiede di impostare la gestione specialistica di un intervento finanziato, il baricentro si sposta. Per fiscalità e authority il controllo è analogo: non conta una parola occasionale, ma il tipo di potere, problema e risultato professionale che la prova richiede.
 
-Se il bando riguarda un'autorità indipendente o un profilo centrato su regolazione indipendente, vigilanza di mercato, sanzioni, enforcement, tutela del consumatore, concorrenza, comunicazioni, energia, privacy o mercati regolati, il rinvio è M-FC05.
+**Quiz 4.** Un profilo amministrativo EPNE prevede nozioni di contratti pubblici tra dieci materie e un caso generale d'ufficio. Qual è la scelta iniziale più prudente? A) Spostarsi automaticamente su M-TR02. B) Restare in M-FC03 e valutare l'effettiva profondità richiesta sui contratti. C) Scegliere M-FC02. D) Eliminare il nucleo amministrativo. **Risposta corretta: B.** Il rinvio specialistico dipende dalla dominanza e dall'output richiesto, non dalla semplice presenza della materia.
 
-ENAC, in M-FC03, va trattato come ente di orientamento nel suo perimetro istituzionale. Le authority indipendenti, invece, hanno una famiglia concorsuale separata e non vanno assorbite nel modulo EPNE.
+## N-FC03-18-05 · Sanità, sociale e carriere speciali
 
-### Sanità e profili sociali
+Quando un ente bandisce un posto in area sanitaria o sociale, bisogna distinguere l'amministrazione del servizio dalla professione esercitata. **M-SA01 — Sanità amministrativa** è la famiglia di riferimento per profili amministrativi nel settore sanitario. **M-SA02 — Professioni sanitarie** riguarda invece professioni regolate e competenze clinico-assistenziali. **M-SA04 — Tecnici sanitari e prevenzione** orienta i profili tecnici della prevenzione e le altre figure tecnico-sanitarie pertinenti. La sigla dell'ente non può sostituire questa distinzione.
 
-Se il bando riguarda professioni sanitarie, profili tecnico-sanitari, assistenza sanitaria, prevenzione sanitaria o profili sociali altamente specialistici, M-FC03 può offrire solo il nucleo amministrativo. Il rinvio va valutato verso i moduli sanitari o sociali pertinenti. Per INAIL, l'Appendice F aiuta quando il profilo resta compatibile con il modulo; non sostituisce però un percorso professionale sanitario o sociale completo.
+M-FC03 può offrire il nucleo amministrativo quando il bando di un EPNE richiede procedimenti, pubblico impiego, trasparenza o organizzazione. Non può però sostituire la preparazione professionale di un sanitario, di un tecnico della prevenzione o di un profilo sociale altamente specializzato. Per INAIL, le appendici dedicate aiutano quando il profilo resta compatibile con il modulo; non trasformano un manuale amministrativo in un percorso completo per una professione sanitaria.
 
-## Scheda dei rinvii ragionati
+Le parole-spia acquistano significato solo se lette insieme. «Prevenzione» può indicare politiche e procedure amministrative oppure un'attività tecnico-sanitaria; «assistenza» può riferirsi ai servizi per l'utenza o a prestazioni professionali; una «valutazione» può essere amministrativa, medico-legale, sociale o tecnica. Oggetto, destinatario, strumenti e responsabilità dell'attività sciolgono l'ambiguità. Abilitazione, iscrizione a un albo e competenze cliniche o tecniche specifiche sono segnali netti di un rinvio professionale.
 
-Compila questa scheda quando nel Bando Decoder compare almeno un dubbio di perimetro.
+Lo stesso principio vale per le **carriere speciali**. Le destinazioni sono **M-SP01 — Polizia, Carabinieri e Guardia di Finanza**, **M-SP02 — Vigili del Fuoco** e **M-SP04 — Prefettizia e diplomatica**, secondo la carriera. Questi concorsi non diventano EPNE perché contengono diritto amministrativo, contabilità o organizzazione. Hanno ordinamenti, prove, requisiti e competenze caratterizzanti. Il nucleo comune può essere riusato, ma la preparazione deve seguire la carriera effettiva.
 
-| Campo | Risposta |
+Per evitare rinvii troppo larghi, si applica il test della sostituibilità. Se un candidato con buona preparazione amministrativa, ma senza competenza professionale specifica, non potrebbe svolgere il compito descritto, la specializzazione è probabilmente dominante. Curare, effettuare una valutazione sanitaria, condurre un'ispezione tecnica, intervenire in emergenza o operare con poteri propri di una carriera non sono semplici varianti del lavoro amministrativo.
+
+Nei profili misti bisogna scomporre il programma. Una parte può essere comune al libro base; una parte può riguardare l'ente e rimanere in M-FC03; la parte professionale va affidata alla famiglia pertinente. Questa scomposizione evita l'idea falsa che cambiare modulo significhi ricominciare da zero. Il capitale di studio resta disponibile: cambia soltanto la gerarchia dei materiali.
+
+Ogni rinvio va verificato sulla procedura. I titoli dei moduli servono da mappa, non sono fonti del concorso. Requisiti di accesso, programma, prove, accertamenti e criteri si ricavano dal bando e dagli atti ufficiali. Va controllato anche che il percorso scelto copra le materie correnti; ciò che manca entra nel piano di studio come integrazione esplicita.
+
+Un caso sociale richiede un controllo ulteriore. La presenza di utenti fragili o di prestazioni sociali non rende automaticamente professionale ogni mansione: un funzionario può curare il procedimento amministrativo, mentre un assistente sociale esercita competenze, valutazioni e responsabilità proprie. Per distinguerli si leggono requisiti di accesso, attività descritte e prodotto richiesto nella prova. Se compaiono titolo professionale, abilitazione o valutazione tecnica autonoma, M-FC03 offre soltanto il raccordo amministrativo; per un profilo di assistente sociale INAIL, l'Appendice F orienta sulle materie integrative ma non sostituisce la preparazione professionale richiesta dal programma. Se invece il compito consiste nell'istruire domande, applicare procedure e comunicare esiti, il perimetro amministrativo può rimanere centrale. L'errore tipico è dedurre la professione dai destinatari del servizio anziché dalle mansioni del profilo.
+
+**Quiz 5.** Un bando INAIL seleziona un professionista sanitario e richiede abilitazione, conoscenze cliniche e valutazioni proprie della professione, oltre a diritto amministrativo. Come va impostato lo studio? A) Solo M-FC03, perché l'ente è INAIL. B) Famiglia sanitaria pertinente come percorso principale, riusando il nucleo amministrativo richiesto. C) Solo Appendice C. D) M-FC05. **Risposta corretta: B.** Requisiti e competenze professionali determinano il baricentro; il diritto amministrativo resta un nucleo riutilizzabile.
+
+## N-FC03-18-06 · Laboratorio della decisione e scheda dei rinvii
+
+La decisione finale deve essere scritta, non lasciata a un'impressione. Si usa la seguente scheda ogni volta che nel Bando Decoder emerge almeno un dubbio di perimetro.
+
+| Campo | Risposta da compilare |
 | --- | --- |
-| Bando o procedura | |
-| Ente indicato | |
-| Profilo e codice | |
-| Materia o parola-spia che crea il dubbio | |
-| M-FC03 resta modulo principale? | Sì / No / Solo in parte |
-| Appendice M-FC03 da attivare | A / B / C / D / F / nessuna |
-| Modulo di rinvio | M-FC02 / M-FC05 / M-IR03 / M-TR01 / M-TR02 / M-SA / M-SP / altro |
-| Motivo del rinvio | |
-| Capitoli del libro base da riusare | |
-| Primo output di studio | mappa / risposta orale / caso / simulazione / checklist |
-| Dato da verificare sul bando | |
+| Bando o procedura | Denominazione e riferimento dell'atto |
+| Ente | Nome completo |
+| Profilo e codice | Denominazione esatta e codice |
+| Attività principali | Verbi e prodotti ricavati dal bando |
+| Prove | Forma, contenuto e peso noto |
+| Parole-spia | Materie o requisiti che creano il dubbio |
+| Materia dominante | Nucleo che caratterizza il lavoro e la selezione |
+| Ruolo di M-FC03 | Principale / contesto / non pertinente |
+| Appendice da attivare | A / B / C / D / F / nessuna |
+| Modulo di rinvio | Codice, titolo e motivo |
+| Nucleo comune da riusare | Capitoli o argomenti già studiati |
+| Primo output | Mappa / risposta orale / caso / esercizio / simulazione |
+| Dato da verificare | Punto da controllare negli atti ufficiali |
 
-La scheda non serve a moltiplicare materiali. Serve a non comprare o studiare il modulo sbagliato.
+La scheda evita di accumulare materiali o iniziare percorsi senza criterio. La motivazione deve contenere almeno un elemento sul profilo, uno sulle prove e uno sulle materie. «Scelgo M-TR01 perché compare informatica» è una giustificazione debole. «Scelgo M-TR01 perché il profilo amministra infrastrutture cloud, la prova è tecnica e il programma è dominato da reti e cybersecurity» permette invece un controllo puntuale.
 
-## Caso guidato
+### Caso guidato: Marta e il bando ENEA
 
-Marta trova un bando presso ENEA. Il titolo la porta subito verso M-FC03, perché ENEA compare tra gli enti di orientamento dell'Appendice C. Poi legge meglio: il profilo è tecnologo, il programma richiama competenze tecnico-scientifiche, titoli di ricerca e attività progettuali specialistiche.
+Marta trova un bando presso ENEA. Il nome dell'ente la porta inizialmente verso M-FC03, perché ENEA compare tra gli enti di orientamento. Poi legge il profilo: tecnologo. Le attività richiamano progetti tecnico-scientifici; il programma valorizza competenze specialistiche, titoli di ricerca e capacità di discutere attività progettuali.
 
-La lettura debole sarebbe: "ENEA è nell'Appendice C, quindi uso M-FC03". La lettura corretta è diversa. ENEA come ente può stare nel perimetro di orientamento, ma il profilo tecnologo sposta il baricentro. Marta usa M-FC03 solo per capire organizzazione pubblica, bando, amministrazione e contesto; poi rinvia a M-IR03 per il nucleo di ricerca e tecnologia.
+La lettura debole è «ENEA è citato nel modulo, quindi M-FC03 basta». La lettura corretta separa ente e profilo. M-FC03 resta utile per organizzazione pubblica, procedimento e contesto amministrativo, ma il lavoro messo a concorso ha baricentro nella ricerca e nella tecnologia. Marta assegna quindi al libro base le materie comuni, a M-FC03 il contesto EPNE e a M-IR03 il ruolo principale. Prima di chiudere la decisione confronta l'indice del percorso con ogni materia del bando e pianifica le eventuali integrazioni.
 
-La decisione finale è: libro base per le materie comuni, M-FC03 come contesto, M-IR03 come modulo principale.
+### Domanda da commissario e domanda-trappola
 
-## Domanda da commissario
+Perché un modulo specialistico non deve coprire tutti i profili possibili di un ente? Perché è costruito per una famiglia concorsuale, non per esaurire ogni attività dell'organizzazione. Lo stesso ente può bandire profili amministrativi, tecnici, informatici, scientifici o sanitari. Un contenitore unico diventerebbe dispersivo e renderebbe invisibile la professionalità realmente valutata.
 
-Perché un modulo specialistico non deve coprire tutti i profili possibili di un ente?
+La domanda-trappola è: «Se un ente è citato in M-FC03, allora M-FC03 è sempre sufficiente?». La risposta è no. Il nome dell'ente è il primo segnale; profilo, attività, prove e materie decidono. M-FC03 può essere principale, di contesto oppure marginale.
 
-Perché il modulo è costruito per una famiglia concorsuale, non per esaurire ogni attività dell'ente. Lo stesso ente può bandire profili amministrativi, tecnici, informatici, scientifici o di ricerca. Se il modulo provasse a coprirli tutti, diventerebbe dispersivo e poco utile. Il Metodo BANDO funziona perché separa nucleo comune, modulo specialistico, appendici e rinvii: il candidato prepara il profilo reale, non l'intero universo dell'ente.
+### Errore di inerzia e mini-esercizio
 
-## Domanda-trappola
+L'errore più frequente è restare nel modulo già aperto solo perché vi si è investito tempo. Adattare M-FC03 a ogni bando, però, fa perdere il centro della prova. La modularità offre una correzione concreta: cambiare percorso principale non cancella ciò che si è studiato. Il nucleo comune e le parti pertinenti restano disponibili; cambia la loro posizione nel piano.
 
-Se un bando riguarda un ente citato in M-FC03, allora M-FC03 è sempre sufficiente?
+Prendi un bando reale o simulato, sottolinea parole relative a profilo, attività, prove e materie, poi completa: «M-FC03 ha questo ruolo perché…»; «attivo questa appendice o questo rinvio perché…»; «se sbaglio perimetro, il rischio concreto è…». Se la prima frase non contiene evidenze tratte dagli atti, la scelta non è ancora solida.
 
-No. L'ente è solo il primo segnale. Bisogna leggere profilo, prove e materie. Se il profilo è amministrativo, economico, giuridico, contabile, di servizio o vigilanza non tecnica, M-FC03 può essere il modulo principale. Se il profilo è ricerca, ICT puro, procurement specialistico, authority, fiscale, sanitario o carriera speciale, occorre un rinvio.
+### Caso ragionato finale
 
-## Errore tipico
+Un ente nazionale bandisce due profili. Il profilo A gestisce procedimenti, trasparenza, acquisti ordinari e rapporti con utenti; contiene una breve verifica informatica. Il profilo B progetta piattaforme, amministra basi dati, presidia cybersecurity e sostiene una prova tecnica. Per A, M-FC03 resta principale: l'informatica è trasversale e si integra. Per B, M-TR01 diventa principale; M-FC03 conserva solo le parti pubblicistiche richieste. Se un terzo profilo riguardasse progettazione di impianti e direzione lavori, il rinvio coerente sarebbe M-TR03, non ICT. Il ragionamento è valutabile perché collega attività, prova e materia dominante.
 
-L'errore più frequente è voler restare nel modulo già aperto anche quando il bando segnala un profilo diverso. È una forma di inerzia: il candidato ha già studiato M-FC03, quindi prova ad adattarlo a tutto. Così però perde il centro della prova.
+Una buona soluzione ottiene un punto per ciascuno di questi elementi: identifica la famiglia del profilo; distingue materie comuni e dominanti; motiva il ruolo di M-FC03; indica il rinvio leggibile con codice e titolo; segnala almeno un dato da verificare nel bando. Cinque punti indicano una decisione completa; tre o quattro richiedono un controllo mirato; meno di tre impongono di riaprire gli atti.
 
-La correzione è accettare la modularità: il capitale di studio non si perde. Il libro base resta valido, alcune parti di M-FC03 restano utili, ma il modulo principale può cambiare. Cambiare modulo non significa ricominciare da zero; significa smettere di forzare il bando.
+**Quiz 6.** Dopo avere scelto un nuovo modulo principale, che cosa accade al lavoro già svolto su M-FC03? A) Va eliminato integralmente. B) Rimane tutto principale. C) Si riusano nuclei comuni e contenuti pertinenti, cambiando la gerarchia dello studio. D) Si ignora il programma d'esame. **Risposta corretta: C.** La modularità conserva il capitale utile e riallinea il tempo alla prova reale.
 
-## Mini-esercizio
+## ▣ Verifica
 
-Prendi un bando reale o simulato e sottolinea tutte le parole che indicano profilo, materie e prove. Poi completa tre frasi:
+Prima di chiudere il rinvio, controlla di avere:
 
-1. M-FC03 resta modulo principale perché ...
-2. Devo attivare questa appendice o questo rinvio: ...
-3. Se sbaglio perimetro, il rischio concreto è ...
+- distinto ente, profilo, attività, prove e materie dominanti;
+- deciso se M-FC03 è modulo principale, contesto o non pertinente;
+- verificato se basta un'appendice o serve un'altra famiglia professionale;
+- riconosciuto i segnali di ricerca, ICT, tecnica ingegneristica, appalti avanzati, fiscalità, authority, sanità o carriera speciale;
+- compilato la scheda con una motivazione tratta dagli atti;
+- conservato i nuclei comuni già studiati senza duplicarli;
+- verificato che il percorso scelto copra davvero il programma;
+- annotato nel diario l'errore di perimetro più probabile.
 
-Se non riesci a motivare la prima frase con profilo, prove e materie, la scelta del modulo non è ancora solida.
-
-## Checklist finale
-
-- Ho distinto ente, profilo, prove e materie dominanti.
-- Ho capito se M-FC03 è modulo principale, modulo di contesto o non pertinente.
-- Ho verificato se basta un'appendice o se serve un modulo diverso.
-- Ho riconosciuto i segnali di ricerca, ICT, appalti avanzati, authority, fiscalità, sanità o carriere speciali.
-- Ho compilato la scheda dei rinvii ragionati.
-- Ho evitato di duplicare materie già coperte dal libro base.
-- Ho annotato nel diario l'errore di perimetro più probabile.
-
-## Riferimenti consolidati
-
-- [[sources/m-fc03-dossier-redazionale-enti-pubblici-non-economici]]
-- [[sources/m-fc03-fonti-ufficiali-enti-epne-2026]]
-- [[books/moduli/architettura-moduli-specialistici]]
-- [[topics/enti-pubblici-non-economici-concorsi]]
-- [[books/moduli/m-fc03-enti-non-economici/planning/00-piano-editoriale]]
-- [[books/moduli/m-fc03-enti-non-economici/planning/01-matrice-copertura-materie]]
-- Capitolo 10 del modulo M-FC03: Bando Decoder EPNE.
-- Appendice C del modulo M-FC03: schede rapide enti.
-- Appendice D del modulo M-FC03: errori tipici nei bandi EPNE.
-
-## Note di review
-
-- Prima della pubblicazione definitiva verificare che i moduli di rinvio esistano nella dashboard con codice, titolo e perimetro aggiornati.
-- Se una versione futura del catalogo moduli modifica codici o denominazioni, aggiornare la tabella dei rinvii.
-- Per bandi concreti con profili misti creare una source note dedicata prima di indicare un rinvio come obbligatorio.
-- L'appendice non introduce nuovi dati normativi o numerici: deriva da architettura moduli, piano editoriale M-FC03, matrice di copertura e capitoli consolidati.
+I riferimenti essenziali restano il Bando Decoder EPNE, le appendici specialistiche di M-FC03, l'architettura dei moduli e soprattutto gli atti ufficiali della singola procedura. Il criterio conclusivo è semplice: non studiare l'intero universo dell'ente; prepara il profilo reale che la commissione deve selezionare.

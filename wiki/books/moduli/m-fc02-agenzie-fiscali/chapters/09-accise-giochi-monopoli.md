@@ -11,13 +11,13 @@ book_refs: ["m-fc02-agenzie-fiscali", "il-metodo-bando"]
 confidence: 0.95
 updated_at: 2026-08-04
 created_at: 2026-07-01T21:00:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "module-code-m-fc02", "professional-draft", "revised-draft"]
 book_id: m-fc02-agenzie-fiscali
 companion_to: il-metodo-bando
 outline_section: 9
-draft_stage: revised-editorial-draft
+draft_stage: specialist-audit-complete
 module_code: M-FC02
 module_family: funzioni-centrali
 asset_refs: ["assets/chapter-09/01-mappa-bando-accise-giochi-monopoli.png", "assets/chapter-09/02-filiera-accise-regime-sospensivo.png", "assets/chapter-09/03-prodotti-giochi-monopoli-adm.png", "assets/chapter-09/04-controlli-adm-filiere-regolate.png", "assets/chapter-09/05-checklist-accise-giochi-monopoli.png"]
@@ -44,7 +44,7 @@ Al termine del capitolo devi saper:
 4. ricostruire la circolazione dei prodotti mediante EMCS ed e-AD;
 5. individuare i principali settori soggetti ad accisa;
 6. spiegare riserva statale e modello concessorio dei giochi;
-7. collegare controlli ADM, tutela del giocatore e contrasto all'illegalita;
+7. collegare controlli ADM, tutela del giocatore e contrasto all'illegalità;
 8. distinguere monopolio fiscale, concessione e gestione diretta.
 
 ## Mappa BANDO
@@ -54,7 +54,7 @@ Al termine del capitolo devi saper:
 | **Bando** | Cerca TUA, accise, prodotti energetici, alcoli, tabacchi, deposito fiscale, giochi pubblici, concessioni e monopoli. |
 | **Aree** | Collega diritto tributario, diritto UE, amministrativo, autorizzazioni, sanzioni e controlli economico-finanziari. |
 | **Nuclei** | Esigibilità, regime sospensivo, depositario, destinatario registrato, e-AD, rete legale, concessionario, tutela dei minori. |
-| **Diario** | Annota le distinzioni: accisa/IVA, fatto generatore/esigibilita, concessione/autorizzazione, legalita/assenza di rischio. |
+| **Diario** | Annota le distinzioni: accisa/IVA, fatto generatore/esigibilità, concessione/autorizzazione, legalità/assenza di rischio. |
 | **Output** | Ricostruisci una movimentazione in sospensione e una verifica presso un punto di gioco. |
 
 ![Figura 9.1 - Mappa BANDO di accise, giochi e monopoli: fonti, prodotti, soggetti, titoli, flussi e controlli.](../assets/chapter-09/01-mappa-bando-accise-giochi-monopoli.png)
@@ -75,7 +75,7 @@ Le imposte dichiarative ordinarie partono spesso dal contribuente e dalla dichia
 
 Il fatto generatore indica l'evento che fa nascere l'obbligazione tributaria secondo la disciplina del prodotto. L'esigibilità individua invece il momento nel quale l'amministrazione può pretendere il pagamento. Nel sistema delle accise i due momenti possono non coincidere.
 
-La fabbricazione o l'importazione collocano il prodotto nell'ambito fiscale; il pagamento può essere differito finche il prodotto resta in regime sospensivo. L'immissione in consumo rende normalmente esigibile l'accisa. Anche irregolarita quali ammanchi non giustificati, svincoli irregolari o inosservanze nella circolazione possono produrre effetti impositivi e sanzionatori.
+La fabbricazione o l'importazione collocano il prodotto nell'ambito fiscale; il pagamento può essere differito finché il prodotto resta in regime sospensivo. L'immissione in consumo rende normalmente esigibile l'accisa. Anche irregolarità quali ammanchi non giustificati, svincoli irregolari o inosservanze nella circolazione possono produrre effetti impositivi e sanzionatori.
 
 La distanza tra fatto generatore ed esigibilità chiarisce la funzione del deposito fiscale. Si tratta di un impianto nel quale i prodotti sottoposti ad accisa possono essere fabbricati, trasformati, detenuti, ricevuti o spediti in sospensione, alle condizioni stabilite dall'amministrazione; non è un luogo esente da imposta.
 
@@ -91,7 +91,7 @@ Il destinatario registrato può ricevere, alle condizioni dell'autorizzazione, p
 
 La circolazione unionale dei prodotti sottoposti ad accisa in regime sospensivo è monitorata mediante l'Excise Movement and Control System, EMCS. Lo speditore presenta il documento amministrativo elettronico, e-AD; il sistema attribuisce un codice amministrativo di riferimento e rende disponibili i dati alle autorità e ai soggetti coinvolti.
 
-Il destinatario, dopo aver ricevuto e verificato la merce, trasmette la nota di ricevimento. Eventuali differenze di quantità, mancanze o irregolarita devono essere rilevate e trattate secondo la disciplina applicabile. L'appuramento regolare chiude la responsabilità collegata a quella movimentazione nei limiti previsti.
+Il destinatario, dopo aver ricevuto e verificato la merce, trasmette la nota di ricevimento. Eventuali differenze di quantità, mancanze o irregolarità devono essere rilevate e trattate secondo la disciplina applicabile. L'appuramento regolare chiude la responsabilità collegata a quella movimentazione nei limiti previsti.
 
 Il documento elettronico consente di seguire il movimento, ma il riscontro materiale resta necessario. Quantità, qualità, sigilli, mezzi e tempi devono corrispondere ai dati trasmessi. Il funzionario confronta sistema, registri, documenti commerciali e risultanze fisiche.
 
@@ -101,7 +101,7 @@ Il documento elettronico consente di seguire il movimento, ma il riscontro mater
 
 I prodotti energetici comprendono categorie individuate dalla nomenclatura e dal TUA. Il trattamento dipende non soltanto dal prodotto, ma anche dall'uso: carburazione, combustione, produzione di energia, impieghi agevolati o esenti. Lo stesso bene può quindi subire regimi diversi a seconda della destinazione comprovata.
 
-Nel controllo di un deposito energetico assumono rilievo misurazioni dei serbatoi, bilanci di materia, densita, temperatura, cali tecnici, registri e corrispondenza tra ingressi, lavorazioni e uscite. Una differenza inventariale non è automaticamente evasione, ma richiede spiegazione tecnica e giuridica.
+Nel controllo di un deposito energetico assumono rilievo misurazioni dei serbatoi, bilanci di materia, densità, temperatura, cali tecnici, registri e corrispondenza tra ingressi, lavorazioni e uscite. Una differenza inventariale non è automaticamente evasione, ma richiede spiegazione tecnica e giuridica.
 
 Per gas naturale ed energia elettrica la struttura del prelievo si lega anche alla fornitura e al consumo. I soggetti obbligati presentano dichiarazioni, tengono dati e versano secondo le modalità previste. Aliquote e agevolazioni variano per impiego, categoria di utente e disposizioni vigenti: vanno sempre verificate alla data del bando.
 
@@ -149,11 +149,11 @@ Con la concessione il privato esercita l'attività entro il titolo ricevuto, men
 
 ## 9. Rete fisica, rete a distanza e filiera
 
-Nella rete fisica intervengono concessionari, gestori, esercenti e altri soggetti, con ruoli variabili secondo il gioco. Apparecchi, terminali e punti vendita devono essere collegati e identificati secondo le regole applicabili. Il controllo riguarda titolo, ubicazione, conformita tecnica, flussi di gioco e rispetto dei divieti.
+Nella rete fisica intervengono concessionari, gestori, esercenti e altri soggetti, con ruoli variabili secondo il gioco. Apparecchi, terminali e punti vendita devono essere collegati e identificati secondo le regole applicabili. Il controllo riguarda titolo, ubicazione, conformità tecnica, flussi di gioco e rispetto dei divieti.
 
 Nel gioco a distanza assumono rilievo identificazione del giocatore, conto di gioco, tracciabilità dei versamenti e delle vincite, sicurezza della piattaforma, limiti e strumenti di tutela. Il dominio o l'applicazione attraverso cui si gioca deve appartenere alla rete autorizzata; l'offerta da siti privi di concessione viene contrastata con gli strumenti previsti.
 
-La presenza di più soggetti nella filiera non attenua la responsabilità del concessionario. I contratti con fornitori e gestori devono restare coerenti con la concessione, le regole tecniche e i controlli. ADM ricostruisce ruoli e flussi per individuare il punto nel quale si è verificata l'irregolarita.
+La presenza di più soggetti nella filiera non attenua la responsabilità del concessionario. I contratti con fornitori e gestori devono restare coerenti con la concessione, le regole tecniche e i controlli. ADM ricostruisce ruoli e flussi per individuare il punto nel quale si è verificata l'irregolarità.
 
 ## 10. Tutela del giocatore e contrasto al gioco illegale
 
@@ -187,7 +187,7 @@ Questa griglia impedisce due errori: applicare il prelievo di un gioco a un altr
 
 Nel settore accise il controllo può iniziare dall'autorizzazione, proseguire con sopralluogo e misurazioni e concludersi con riconciliazione di registri e dichiarazioni. Nel settore giochi può riguardare concessioni, sistemi centrali, punti vendita, apparecchi, conti di gioco e movimenti finanziari.
 
-Una verifica efficace segue una sequenza: identificare soggetto e titolo; delimitare periodo e prodotto; acquisire dati; confrontare elementi contabili, telematici e fisici; verbalizzare; consentire il contraddittorio previsto; qualificare l'eventuale irregolarita.
+Una verifica efficace segue una sequenza: identificare soggetto e titolo; delimitare periodo e prodotto; acquisire dati; confrontare elementi contabili, telematici e fisici; verbalizzare; consentire il contraddittorio previsto; qualificare l'eventuale irregolarità.
 
 Il funzionario tratta informazioni commerciali e personali sensibili. Consulta solo i dati necessari, registra gli accessi, evita anticipazioni sull'esito e mantiene separati accertamento tecnico, decisione amministrativa ed eventuale notizia di reato.
 
@@ -214,7 +214,7 @@ Durante una verifica ADM emerge che la giacenza fisica di un prodotto energetico
 
 **2. Dati.** Si acquisiscono registri, e-AD, note di ricevimento, fatture, tarature e misurazioni.
 
-**3. Riscontro tecnico.** Si verificano temperatura, densita, tolleranze, movimentazioni e metodo di calcolo.
+**3. Riscontro tecnico.** Si verificano temperatura, densità, tolleranze, movimentazioni e metodo di calcolo.
 
 **4. Qualificazione.** Solo la parte non giustificata secondo le regole può produrre conseguenze d'imposta e sanzionatorie. L'ammanco contabile non prova da solo una sottrazione fraudolenta.
 
@@ -232,7 +232,7 @@ Durante una verifica ADM emerge che la giacenza fisica di un prodotto energetico
 
 **Che cosa si intende per regime sospensivo delle accise?**
 
-Traccia: definire accisa; distinguere fatto generatore ed esigibilità; spiegare deposito fiscale, depositario e garanzia; descrivere e-AD, ricevimento e appuramento; chiudere con immissione in consumo e irregolarita.
+Traccia: definire accisa; distinguere fatto generatore ed esigibilità; spiegare deposito fiscale, depositario e garanzia; descrivere e-AD, ricevimento e appuramento; chiudere con immissione in consumo e irregolarità.
 
 ## Domanda-trappola
 
@@ -328,14 +328,6 @@ D. gestione diretta obbligatoria di ADM.
 
 ![Figura 9.5 - Checklist accise, giochi e monopoli: materia, prodotto, titolo, documenti, controllo e cautela sulle sanzioni.](../assets/chapter-09/05-checklist-accise-giochi-monopoli.png)
 
-## Riferimenti consolidati
-
-- [[sources/dogane-accise-giochi-monopoli-adm-m-fc02]]
-- [[sources/accise-giochi-monopoli-adm-aggiornamento-2026-07-17]]
-- [[sources/m-fc02-corpus-ufficiale-integrativo-2026-07-17]]
-- [[sources/reati-e-sanzioni-tributarie-m-fc02]]
-- [[topics/dogane-accise-monopoli-adm]]
-- [[entities/agenzia-delle-dogane-e-dei-monopoli]]
 
 ## Note di review
 
@@ -343,4 +335,3 @@ D. gestione diretta obbligatoria di ADM.
 - Aggiornare aliquote, categorie di prodotto, agevolazioni e tracciati EMCS alla data del bando.
 - Verificare lo stato del riordino della rete fisica dei giochi e i provvedimenti attuativi del D.Lgs. 41/2024.
 - Allineare concessioni, prelievi e regole tecniche ai provvedimenti ADM vigenti senza appesantire il nucleo stabile.
-- [[sources/agenzie-fiscali-organizzazione-ae-adm-ader]]

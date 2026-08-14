@@ -2,7 +2,7 @@
 id: chapter-m-fc02-agenzie-fiscali-piano-editoriale
 type: editorial_plan
 title: "Piano editoriale - M-FC02 Agenzie Fiscali"
-status: revised_draft
+status: text_frozen
 domain: "concorsi pubblici italiani"
 topics: ["moduli specialistici","funzioni-centrali","agenzie fiscali","metodo bando"]
 entities: ["Metodo BANDO","Agenzia delle Entrate","Agenzia delle Dogane e dei Monopoli","Agenzia delle Entrate-Riscossione"]
@@ -11,11 +11,11 @@ book_refs: ["m-fc02-agenzie-fiscali","il-metodo-bando"]
 confidence: 0.86
 updated_at: 2026-07-18T00:00:00+02:00
 created_at: 2026-06-27T19:56:28+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["editorial-plan","specialist-module-plan","module-code-m-fc02","revised-draft"]
 book_id: m-fc02-agenzie-fiscali
-draft_stage: revised-editorial-draft
+draft_stage: text-frozen
 module_code: M-FC02
 module_family: funzioni-centrali
 last_compiled_from: ["wiki/books/moduli/architettura-moduli-specialistici.md","wiki/books/moduli/m-fc02-agenzie-fiscali/index.md","wiki/sources/m-fc02-dossier-redazionale-agenzie-fiscali.md","wiki/sources/sanzioni-amministrative-tributarie-aggiornamento-2026-07-18.md","wiki/sources/reati-tributari-dlgs-74-2000-aggiornamento-2026-07-18.md","wiki/sources/processo-tributario-dlgs-175-2024-aggiornamento-2026-07-18.md","wiki/sources/diritto-ue-fiscale-doganale-iva-cdu-2026-07-18.md"]

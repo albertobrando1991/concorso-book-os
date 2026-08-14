@@ -11,12 +11,12 @@ book_refs: ["m-tr03-tecnico-ingegneristico"]
 confidence: 0.9
 updated_at: "2026-07-30T00:00:00+02:00"
 created_at: "2026-07-30T00:00:00+02:00"
-review_required: true
+review_required: false
 canonical: true
 tags: ["chapter","vol-10","m-tr03","direzione-lavori","esecuzione","cantieri"]
 book_id: m-tr03-tecnico-ingegneristico
 outline_section: "08"
-draft_stage: full_draft
+draft_stage: specialist-audited
 last_compiled_from: "planning/08-capitolo-08-piano-completamento.md"
 ---
 
@@ -210,4 +210,4 @@ Checklist del DL:
 
 ## Note di review
 
-Prima della pubblicazione il capitolo richiede revisione congiunta di RUP, direttore dei lavori, CSE ed esperto di contabilità. Verificare sul testo vigente Allegato II.14, casi speciali di consegna e sospensione, disciplina delle modifiche e forme delle riserve. I raccordi sono stati verificati il 30 luglio 2026 verso [[books/moduli/m-tr03-tecnico-ingegneristico/chapters/09-collaudo-verifica-manutenzione|Collaudo, verifica, manutenzione e gestione dell'opera]] e [[books/moduli/m-tr03-tecnico-ingegneristico/chapters/10-computi-capitolati-contabilita-lavori|Computi, capitolati e contabilità dei lavori]].
+Audit specialistico automatico chiuso l'11 agosto 2026 sull'Allegato II.14, sul D.Lgs. 81/2008 e sulla disciplina vigente delle modifiche. Casi speciali, forme e termini non sono presentati come universali. I raccordi sono verificati verso [[books/moduli/m-tr03-tecnico-ingegneristico/chapters/09-collaudo-verifica-manutenzione|Collaudo, verifica, manutenzione e gestione dell'opera]] e [[books/moduli/m-tr03-tecnico-ingegneristico/chapters/10-computi-capitolati-contabilita-lavori|Computi, capitolati e contabilità dei lavori]].

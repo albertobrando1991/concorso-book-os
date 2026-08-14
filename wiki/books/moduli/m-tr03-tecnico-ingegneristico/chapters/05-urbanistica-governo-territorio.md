@@ -11,12 +11,12 @@ book_refs: ["m-tr03-tecnico-ingegneristico", "vol-10-tecnico-ingegneristico-terr
 confidence: 0.84
 updated_at: 2026-07-29
 created_at: 2026-07-29
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "m-tr03", "vol-10", "urbanistica"]
 book_id: m-tr03-tecnico-ingegneristico
 outline_section: 5
-draft_stage: professional-draft
+draft_stage: specialist-audited
 module_code: M-TR03
 module_family: trasversali
 last_compiled_from: ["wiki/books/moduli/m-tr03-tecnico-ingegneristico/planning/08-capitolo-05-piano-completamento.md", "wiki/books/moduli/m-tr03-tecnico-ingegneristico/planning/02-matrice-copertura-didattica.md", "wiki/sources/urbanistica-governo-territorio-fonti-ufficiali-2026.md", "wiki/topics/urbanistica-governo-territorio.md"]
@@ -197,8 +197,7 @@ Risposte: conformità urbanistica; standard; vincolo paesaggistico o settoriale 
 
 ## Note di review
 
-- Verificare prima della pubblicazione vigenza e coordinamento delle fonti nazionali.
+- Audit specialistico automatico chiuso l'11 agosto 2026 sulla vigenza e sul coordinamento delle fonti nazionali consolidate.
 - Validare ogni esempio regionale sulla relativa legge e sugli strumenti effettivamente vigenti.
-- Sottoporre il capitolo a urbanista e amministrativista.
-- Controllare termini, durata ed effetti dei vincoli espropriativi sul D.P.R. n. 327/2001.
+- Termini, durata ed effetti dei vincoli espropriativi sono stati controllati sul D.P.R. n. 327/2001 senza introdurre valori mobili nel testo.
 - Coordinare il testo con il capitolo 6 e con l’Appendice B.

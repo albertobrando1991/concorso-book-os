@@ -15,6 +15,7 @@ import type { ManualWriterMode, RevisionDiffSummary } from "@/src/server/agents/
 import { moveTrailingHeadingToNextPage } from "@/src/book/pagination"
 import type { BookStudioChapter, BookStudioData, MarkdownBlock } from "@/src/server/book/book-preview"
 import { getPreviewBlockMetadata } from "@/src/server/book/book-preview-block-metadata"
+import { bookLayoutClass } from "@/src/server/book/book-layout-profile"
 import { normalizePageBoundaries } from "@/src/server/book/book-studio-page-boundaries"
 import { ricettarioModuleLabel } from "@/src/server/book/book-studio-labels"
 import type { WriterProvider } from "@/src/server/config"
@@ -33,6 +34,7 @@ interface BookStudioPanelProps {
   writerProvider: WriterProvider
   writerModel: string
   writerReasoningEffort: string
+  sectionId?: string
 }
 
 interface WriterResult {
@@ -90,7 +92,8 @@ export function BookStudioPanel({
   initialChapterPath,
   writerProvider,
   writerModel,
-  writerReasoningEffort
+  writerReasoningEffort,
+  sectionId = "studio"
 }: BookStudioPanelProps) {
   const [{ data, selectedPath }, setBookStudioPayloadState] = useState(() => ({
     data: initialData,
@@ -410,7 +413,7 @@ export function BookStudioPanel({
   }
 
   return (
-    <section className="bookStudioPanel" id="studio">
+    <section className="bookStudioPanel" id={sectionId}>
       <header>
         <div>
           <span className="panelKicker">Book Studio</span>
@@ -484,7 +487,7 @@ export function BookStudioPanel({
           <div className="bookPreviewToolbar">
             <div>
               <strong>{data.title}</strong>
-              <span>Master cartaceo KDP 16,99 × 24,41 cm, testo giustificato | aggiornato {formatDate(data.updatedAt)}</span>
+              <span>Master cartaceo KDP 16,99 Ã— 24,41 cm, testo giustificato | aggiornato {formatDate(data.updatedAt)}</span>
             </div>
             <span className="studioBadge">{viewMode === "book" ? "vista libro" : "vista capitolo"}</span>
           </div>
@@ -496,13 +499,13 @@ export function BookStudioPanel({
             </div>
           ) : null}
 
-          <div className="bookPages" aria-label="Preview manuale editoriale paginata" ref={bookPagesRef}>
+          <div className={["bookPages", bookLayoutClass(data.bookId)].filter(Boolean).join(" ")} aria-label="Preview manuale editoriale paginata" ref={bookPagesRef}>
             {previewPages.map((page) => (
               <BookPagePreview bookId={data.bookId} page={page} key={`${page.chapter.path}-${page.chapterPageNumber}`} />
             ))}
           </div>
 
-          <div className="paginationMeasure" aria-hidden="true" ref={measureRef}>
+          <div className={["paginationMeasure", bookLayoutClass(data.bookId)].filter(Boolean).join(" ")} aria-hidden="true" ref={measureRef}>
             <article className="bookPage paginationMeasurePage">
               {previewChapters.map((chapter) => (
                 <div className="paginationMeasureChapter" data-chapter-path={chapter.path} key={chapter.path}>
@@ -1292,7 +1295,24 @@ function paginateMeasuredChapters(chapters: BookStudioChapter[], root: HTMLDivEl
     }
   })
 
-  return pages
+  return keepTrailingHeadingsWithNextPage(pages)
+}
+
+function keepTrailingHeadingsWithNextPage(pages: PreviewPage[]): PreviewPage[] {
+  const nextPages = pages.map((page) => ({ ...page, blocks: [...page.blocks] }))
+
+  for (let index = 0; index < nextPages.length - 1; index += 1) {
+    const page = nextPages[index]
+    const nextPage = nextPages[index + 1]
+    const trailingHeading = page.blocks.at(-1)
+
+    if (trailingHeading?.type !== "heading" || nextPage.chapter.path !== page.chapter.path) continue
+
+    page.blocks.pop()
+    nextPage.blocks.unshift(trailingHeading)
+  }
+
+  return renumberPreviewPages(nextPages.filter((page) => page.blocks.length > 0))
 }
 
 function refineRenderedPageOverflows(pages: PreviewPage[], root: HTMLDivElement | null): PreviewPage[] {
@@ -1320,7 +1340,13 @@ function refineRenderedPageOverflows(pages: PreviewPage[], root: HTMLDivElement 
 
     if (firstOverflowIndex <= 0) continue
 
-    const movedBlocks = nextPages[index].blocks.splice(firstOverflowIndex)
+    let moveFromIndex = firstOverflowIndex
+
+    if (nextPages[index].blocks[firstOverflowIndex - 1]?.type === "heading") {
+      moveFromIndex = firstOverflowIndex - 1
+    }
+
+    const movedBlocks = nextPages[index].blocks.splice(moveFromIndex)
 
     if (movedBlocks.length === 0) continue
 
@@ -1338,7 +1364,7 @@ function refineRenderedPageOverflows(pages: PreviewPage[], root: HTMLDivElement 
       })
     }
 
-    return renumberPreviewPages(nextPages)
+    return keepTrailingHeadingsWithNextPage(renumberPreviewPages(nextPages))
   }
 
   return renumberPreviewPages(moveTrailingHeadingToNextPage(nextPages))

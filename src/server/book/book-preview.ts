@@ -188,6 +188,7 @@ async function buildSingleBookStudioData(store: FileWikiStore, bookId: string): 
       : "chapter"
     const outlineSection = String(parsed.data.outline_section || "")
     const bookScope = resolveBookStudioScope(bookId, sectionType, outlineSection)
+    const status = String(parsed.data.status || "draft")
 
     return {
       path: file,
@@ -197,14 +198,14 @@ async function buildSingleBookStudioData(store: FileWikiStore, bookId: string): 
       sectionType,
       frontMatterLayout: String(parsed.data.front_matter_layout || ""),
       indexDetail: String(parsed.data.index_detail || ""),
-      status: String(parsed.data.status || "draft"),
+      status,
       draftStage: String(parsed.data.draft_stage || ""),
       reviewRequired: Boolean(parsed.data.review_required),
       isGenerated: false,
       topics: asStringArray(parsed.data.topics),
       sourceRefs: asStringArray(parsed.data.source_refs),
       wordCount: countWords(preview.markdown),
-      contentState: sectionType === "front_matter" && preview.state !== "structure" ? "written" : preview.state,
+      contentState: resolveChapterContentState(sectionType, status, preview.state),
       blocks: markdownToBlocks(preview.markdown, file)
     }
   }))
@@ -232,6 +233,17 @@ async function buildSingleBookStudioData(store: FileWikiStore, bookId: string): 
     assets,
     editorialPlan: null
   }
+}
+
+function resolveChapterContentState(
+  sectionType: BookStudioChapter["sectionType"],
+  status: string,
+  previewState: ChapterContentState
+): ChapterContentState {
+  if (status === "publication-ready") return "written"
+  if (sectionType === "front_matter" && previewState !== "structure") return "written"
+
+  return previewState
 }
 
 async function buildVolumeBookStudioData(store: FileWikiStore, volume: TextVolume): Promise<BookStudioData> {
@@ -376,7 +388,7 @@ function buildVolumeFrontMatter(volume: TextVolume, moduleBooks: VolumeModuleBoo
       title: "Premessa",
       outlineSection: "FM5",
       frontMatterLayout: "preface",
-      markdown: buildVolumePrefaceMarkdown(volume, moduleBooks)
+      markdown: buildVolumePrefaceMarkdown(volume)
     }),
     buildGeneratedFrontMatterSection({
       bookId,
@@ -456,16 +468,16 @@ function buildVolumeDigitalServicesMarkdown(volume: TextVolume) {
   return [
     "# Servizi digitali inclusi",
     "",
-    `Questo volume (${volume.code}) e collegato ai servizi digitali Capitale Personale: aggiornamenti operativi, schede compilabili, planner, Bando Decoder e materiali di lavoro collegati ai moduli interni.`,
+    `Questo volume (${volume.code}) è collegato ai servizi digitali Capitale Personale: aggiornamenti operativi, schede compilabili, planner, Bando Decoder e materiali di lavoro collegati ai moduli interni.`,
     "",
     "## Cosa aggiunge il digitale",
     "",
     "| Servizio | Funzione |",
     "| --- | --- |",
-    "| Bando Decoder | Trasforma il bando in piano di studio e priorita. |",
+    "| Bando Decoder | Trasforma il bando in piano di studio e priorità. |",
     "| Planner | Organizza tempi, prove, ripassi e simulazioni. |",
     "| Schede modulo | Adatta il Metodo BANDO alla famiglia concorsuale del volume. |",
-    "| Aggiornamenti | Segnala fonti ufficiali da verificare prima della pubblicazione o della prova. |",
+    "| Aggiornamenti | Segnala le fonti ufficiali da ricontrollare prima di applicare il volume a un bando o a una prova. |",
     "",
     "> [!TIP]",
     "> Il volume resta utilizzabile anche senza piattaforma: il digitale accelera compilazione, verifica e aggiornamento, ma non sostituisce il libro."
@@ -473,14 +485,17 @@ function buildVolumeDigitalServicesMarkdown(volume: TextVolume) {
 }
 
 function buildVolumeTitlePageMarkdown(volume: TextVolume) {
+  const author = volume.author || "Capitale Personale"
+
   return [
     `# ${volume.code}`,
     "",
     `## ${volume.title}`,
     "",
-    volume.promise,
+    volume.subtitle || volume.promise,
     "",
-    "### Capitale Personale",
+    `### ${author}`,
+    ...(volume.edition ? ["", volume.edition] : []),
     "",
     `Volume operativo Metodo BANDO per ${volume.audience.toLowerCase()}.`
   ].join("\n")
@@ -489,12 +504,14 @@ function buildVolumeTitlePageMarkdown(volume: TextVolume) {
 function buildVolumeCopyrightMarkdown(volume: TextVolume) {
   return [
     "# Copyright e note editoriali",
+    ...(volume.author ? ["", `© 2026 ${volume.author}. Tutti i diritti riservati.`] : []),
+    ...(volume.edition ? ["", `${volume.edition}.`] : []),
     "",
-    "Questo volume appartiene alla linea ConcorsoBook OS / Capitale Personale ed e costruito come libro-workbook per la preparazione ai concorsi pubblici italiani.",
+    "Questo volume appartiene alla linea ConcorsoBook OS / Capitale Personale ed è costruito come libro-workbook per la preparazione ai concorsi pubblici italiani.",
     "",
-    "Le informazioni normative e procedurali devono essere verificate sulle fonti ufficiali vive prima dell'uso professionale o della pubblicazione definitiva.",
+    "Le informazioni normative e procedurali vanno confrontate con le fonti ufficiali vigenti prima di applicarle a un bando, a una prova o ad attività professionali.",
     "",
-    "Il volume non promette copertura totale di ogni bando, ne aggiornamento automatico: offre un metodo riusabile, una struttura modulare e strumenti di lavoro collegati al perimetro editoriale dichiarato.",
+    "Il volume non promette copertura totale di ogni bando, né aggiornamento automatico: offre un metodo riusabile, una struttura modulare e strumenti di lavoro collegati al perimetro editoriale dichiarato.",
     "",
     `Perimetro volume: ${volume.title}.`
   ].join("\n")
@@ -529,17 +546,17 @@ function buildVolumeSummaryMarkdown(volume: TextVolume, moduleBooks: VolumeModul
   ].filter(Boolean).join("\n")
 }
 
-function buildVolumePrefaceMarkdown(volume: TextVolume, moduleBooks: VolumeModuleBook[]) {
-  const moduleList = moduleBooks.map((moduleBook) => moduleBook.moduleCode).join(", ") || "moduli in preparazione"
-
+function buildVolumePrefaceMarkdown(volume: TextVolume) {
   return [
     "# Premessa",
     "",
-    `Questo volume tratta ${volume.title.toLowerCase()} come un unico libro. I moduli interni (${moduleList}) non sono libri separati per il lettore: sono sezioni coordinate dello stesso percorso editoriale.`,
+    volume.promise,
     "",
-    "La struttura segue una regola precisa: prima le pagine comuni del volume, poi il sommario, la premessa e l'indice completo; solo dopo iniziano i moduli interni, ciascuno con una pagina unica di frontespizio e sommario.",
+    `Il percorso si rivolge a ${volume.audience.toLowerCase()}. Collega concetti, casi, esercizi e verifiche per trasformare le materie del programma in prestazioni osservabili: riconoscere un problema, motivare una scelta e indicare come controllarne l'esito.`,
     "",
-    "Il lettore deve poter partire dal volume, capire subito il perimetro, vedere l'indice completo e poi attraversare i moduli nell'ordine previsto, senza incontrare di nuovo servizi digitali, copyright o premessa generale a ogni cambio modulo."
+    "Usa il bando come selettore: individua le materie richieste, la profondità attesa e il formato della prova; percorri i capitoli pertinenti e trasforma ogni nucleo in una risposta, un esercizio o una decisione verificabile.",
+    "",
+    "Norme, procedure e indicazioni operative possono cambiare. Prima di applicarle a una procedura concreta, confronta sempre il testo con il bando e con le fonti ufficiali vigenti."
   ].join("\n")
 }
 

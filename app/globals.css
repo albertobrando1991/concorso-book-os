@@ -1023,6 +1023,48 @@ h1 {
   line-height: 1.18;
 }
 
+.bookLayoutVol03Compact .previewBlocks {
+  font-size: 11pt;
+  line-height: 1.15;
+}
+
+.bookLayoutVol03Compact .previewBlocks p {
+  margin-bottom: 2pt;
+}
+
+.bookLayoutVol03Compact .previewBlocks h3 {
+  margin: 6pt 0 2pt;
+}
+
+.bookLayoutVol03Compact .previewBlocks h4 {
+  margin: 4pt 0 1.5pt;
+}
+
+.bookLayoutVol03Compact .previewBlocks h5 {
+  margin: 3.5pt 0 1.5pt;
+}
+
+.bookLayoutVol03Compact .previewBlocks ul,
+.bookLayoutVol03Compact .previewBlocks ol {
+  margin-bottom: 2.5pt;
+}
+.bookLayoutVol03Compact .previewTableWrap {
+  margin-top: 2px;
+  margin-bottom: 3px;
+}
+
+.bookLayoutVol03Compact .previewBlocks figure {
+  margin-top: 6px;
+  margin-bottom: 7px;
+}
+
+.bookLayoutVol03Compact .chapterPreviewHeader {
+  margin-bottom: 8px;
+}
+
+.bookLayoutVol03Compact .runningHeader {
+  margin-bottom: 7px;
+}
 .previewBlocks h3,
 .previewBlocks h4,
 .previewBlocks h5 {

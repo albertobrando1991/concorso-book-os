@@ -6,10 +6,10 @@ status: revised_draft
 domain: "concorsi pubblici italiani"
 topics: ["bando decoder", "profili specialistici", "agenzie fiscali", "previdenza", "vigilanza ispettiva", "enti pubblici non economici"]
 entities: ["Metodo BANDO", "Agenzia delle Entrate", "Agenzia delle Dogane e dei Monopoli", "Agenzia delle Entrate-Riscossione", "INPS", "INAIL", "Ispettorato Nazionale del Lavoro"]
-source_refs: ["sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026", "sources/m-fc03-bando-ripam-inail-308-funzionari-assistenti-sociali-2024", "sources/m-fc03-inl-vigilanza-lavoro-previdenziale", "sources/m-fc03-portali-bandi-concorsi-2023-2026", "sources/vol-03-fonti-specialistiche-fisco-dogane-previdenza-ispettivo", "sources/logica-volumi-copertura-concorsobook-v4"]
+source_refs: ["sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026", "sources/m-fc02-dossier-redazionale-agenzie-fiscali", "sources/m-fc03-bando-ripam-inail-308-funzionari-assistenti-sociali-2024", "sources/m-fc03-fonti-ufficiali-enti-epne-2026", "sources/m-fc03-inl-vigilanza-lavoro-previdenziale", "sources/m-fc03-portali-bandi-concorsi-2023-2026", "sources/metodo-bando-progetto-editoriale", "sources/risposta-sintetica-domande-aperte-metodo-bando", "sources/struttura-madre-il-metodo-bando", "sources/vol-03-fonti-specialistiche-fisco-dogane-previdenza-ispettivo", "sources/logica-volumi-copertura-concorsobook-v4"]
 book_refs: ["vol-03-fisco-dogane-previdenza-ispettivo", "m-fc02-agenzie-fiscali", "m-fc03-enti-non-economici", "il-metodo-bando"]
 confidence: 0.9
-updated_at: 2026-07-17T21:30:00+02:00
+updated_at: 2026-08-12T15:45:00+02:00
 created_at: 2026-07-17T21:30:00+02:00
 review_required: true
 canonical: true
@@ -18,7 +18,7 @@ book_id: vol-03-fisco-dogane-previdenza-ispettivo
 outline_section: 2
 draft_stage: professional-draft
 module_codes: ["M-FC02", "M-FC03"]
-last_compiled_from: ["wiki/books/volumi/vol-03-fisco-dogane-previdenza-ispettivo/planning/02-indice-analitico-ricostruito-2026.md", "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/02-bando-decoder-fiscale.md", "wiki/books/moduli/m-fc03-enti-non-economici/chapters/10-bando-decoder-epne.md", "wiki/sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026.md", "wiki/sources/m-fc03-bando-ripam-inail-308-funzionari-assistenti-sociali-2024.md", "wiki/sources/m-fc03-inl-vigilanza-lavoro-previdenziale.md", "wiki/sources/m-fc03-portali-bandi-concorsi-2023-2026.md", "wiki/sources/vol-03-fonti-specialistiche-fisco-dogane-previdenza-ispettivo.md", "wiki/sources/logica-volumi-copertura-concorsobook-v4.md", "wiki/topics/bando-decoder.md", "wiki/topics/bando-decoder-fiscale.md", "wiki/topics/vol-03-previdenza-vigilanza-epne.md", "wiki/entities/bando-decoder.md", "wiki/entities/inps-inail-epne.md"]
+last_compiled_from: ["wiki/books/volumi/vol-03-fisco-dogane-previdenza-ispettivo/planning/02-indice-analitico-ricostruito-2026.md", "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/02-bando-decoder-fiscale.md", "wiki/books/moduli/m-fc03-enti-non-economici/chapters/10-bando-decoder-epne.md", "wiki/sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026.md", "wiki/sources/m-fc03-bando-ripam-inail-308-funzionari-assistenti-sociali-2024.md", "wiki/sources/m-fc03-inl-vigilanza-lavoro-previdenziale.md", "wiki/sources/m-fc03-portali-bandi-concorsi-2023-2026.md", "wiki/sources/vol-03-fonti-specialistiche-fisco-dogane-previdenza-ispettivo.md", "wiki/sources/logica-volumi-copertura-concorsobook-v4.md", "wiki/topics/bando-decoder.md", "wiki/topics/bando-decoder-fiscale.md", "wiki/topics/vol-03-previdenza-vigilanza-epne.md", "wiki/entities/bando-decoder.md", "wiki/entities/inps-inail-epne.md", "wiki/sources/m-fc02-dossier-redazionale-agenzie-fiscali.md", "wiki/sources/m-fc03-fonti-ufficiali-enti-epne-2026.md", "wiki/sources/metodo-bando-progetto-editoriale.md", "wiki/sources/risposta-sintetica-domande-aperte-metodo-bando.md", "wiki/sources/struttura-madre-il-metodo-bando.md"]
 ---
 
 # Bando Decoder specialistico
@@ -43,12 +43,6 @@ Scheda BANDO compilabile `profilo-materie-output-fonti`, con tre applicazioni gu
 
 ### Riferimenti consolidati
 
-- [[sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026]]
-- [[sources/m-fc03-bando-ripam-inail-308-funzionari-assistenti-sociali-2024]]
-- [[sources/m-fc03-inl-vigilanza-lavoro-previdenziale]]
-- [[sources/m-fc03-portali-bandi-concorsi-2023-2026]]
-- [[sources/vol-03-fonti-specialistiche-fisco-dogane-previdenza-ispettivo]]
-- [[sources/logica-volumi-copertura-concorsobook-v4]]
 
 ## Testo editoriale
 
@@ -75,7 +69,7 @@ Il risultato atteso non è una trascrizione ordinata del bando. È una sequenza 
 
 Il Decoder generale di VOL-01 resta la cabina di regia per requisiti, domanda, termini, riserve, titoli, struttura complessiva della selezione e materie comuni. Questo capitolo non ripete quel lavoro. Lo specializza.
 
-VOL-03 presuppone infatti il capitale comune già costruito su diritto amministrativo, pubblico impiego, trasparenza, privacy, contabilità pubblica essenziale, contratti, informatica, inglese, logica e tecniche di prova. Qui interessa stabilire quale **delta specialistico** aggiungere e con quale priorità: fisco, dogane, riscossione, previdenza, assicurazione, vigilanza o funzionamento degli EPNE. [[sources/vol-03-fonti-specialistiche-fisco-dogane-previdenza-ispettivo]] [[sources/logica-volumi-copertura-concorsobook-v4]]
+VOL-03 presuppone infatti il capitale comune già costruito su diritto amministrativo, pubblico impiego, trasparenza, privacy, contabilità pubblica essenziale, contratti, informatica, inglese, logica e tecniche di prova. Qui interessa stabilire quale **delta specialistico** aggiungere e con quale priorità: fisco, dogane, riscossione, previdenza, assicurazione, vigilanza o funzionamento degli EPNE.
 
 ### Mappa BANDO del capitolo
 
@@ -133,7 +127,7 @@ Calendari, istruzioni, rettifiche, sedi, criteri operativi e altri avvisi posson
 | 4 | Statuti, atti, PIAO, bilanci e pagine istituzionali | Comprensione dell'ente e delle funzioni. |
 | 5 | Notizie, gruppi e riassunti | Orientamento provvisorio, mai decisione vincolante. |
 
-Per i bandi EPNE, il portale o il soggetto che gestisce la procedura non coincide necessariamente con l'ente di destinazione. Per definire il percorso di studio contano amministrazione, profilo, programma e prove. [[sources/m-fc03-portali-bandi-concorsi-2023-2026]]
+Per i bandi EPNE, il portale o il soggetto che gestisce la procedura non coincide necessariamente con l'ente di destinazione. Per definire il percorso di studio contano amministrazione, profilo, programma e prove.
 
 ## Verbi del programma e profondità richiesta
 
@@ -263,7 +257,7 @@ Elena compra un manuale generale, inizia dall'amministrativo e rimanda il tribut
 3. svolgere due sessioni di quiz con diario dei distrattori;
 4. registrare una risposta orale di 120 secondi sulla funzione del controllo fiscale.
 
-Il corpus dei bandi fiscali consolidati mostra la varietà di profili AE, ADM e AdER e impedisce di estendere automaticamente il piano tributario a ogni concorso bandito da un'Agenzia fiscale. [[sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026]]
+Il corpus dei bandi fiscali consolidati mostra la varietà di profili AE, ADM e AdER e impedisce di estendere automaticamente il piano tributario a ogni concorso bandito da un'Agenzia fiscale.
 
 ## Caso guidato 2 - Profilo ispettivo
 
@@ -291,7 +285,7 @@ Marco accumula norme su lavoro, previdenza e sicurezza, ma non ricostruisce mai 
 3. risolvere un micro-caso indicando competenza, evidenze e decisione;
 4. annotare nel diario ogni salto logico fra fatto e conclusione.
 
-La vigilanza è un perimetro trasversale che incrocia lavoro, contribuzione, assicurazione e sicurezza; i contenuti puntuali del profilo devono però essere verificati sul singolo bando. [[sources/m-fc03-inl-vigilanza-lavoro-previdenziale]]
+La vigilanza è un perimetro trasversale che incrocia lavoro, contribuzione, assicurazione e sicurezza; i contenuti puntuali del profilo devono però essere verificati sul singolo bando.
 
 ## Caso guidato 3 - Funzionario EPNE
 
@@ -319,7 +313,7 @@ Sara tratta il concorso come un generico profilo amministrativo. Studia soltanto
 3. preparare una risposta orale su ordinamento e attribuzioni;
 4. risolvere un quesito situazionale motivando la scelta con legalità, competenza e qualità del servizio.
 
-Il bando RIPAM-INAIL consolidato dimostra che in uno stesso concorso possono convivere materie disciplinari, logica, situazionali, orale, casi, inglese e competenze digitali. Il suo assetto non va però trasferito automaticamente ad altre procedure. [[sources/m-fc03-bando-ripam-inail-308-funzionari-assistenti-sociali-2024]]
+Il bando RIPAM-INAIL consolidato dimostra che in uno stesso concorso possono convivere materie disciplinari, logica, situazionali, orale, casi, inglese e competenze digitali. Il suo assetto non va però trasferito automaticamente ad altre procedure.
 
 ## Confronto dei tre Decoder
 
@@ -331,6 +325,112 @@ Il bando RIPAM-INAIL consolidato dimostra che in uno stesso concorso possono con
 
 La struttura del metodo resta stabile. Cambiano il baricentro, il linguaggio professionale e l'output che dimostra la preparazione.
 
+## Glossario integrato del VOL-03
+
+Il lessico specialistico deve permettere di cambiare percorso senza cambiare metodo. Una parola non va memorizzata da sola: va collegata a funzione, soggetti, fase e conseguenza. Il glossario seguente unifica i termini ad alta resa delle aree fiscale, doganale, previdenziale e assicurativa.
+
+| Termine | Area prevalente | Significato operativo | Distinzione da mantenere |
+| --- | --- | --- | --- |
+| Tributo | Fisco | Prestazione patrimoniale imposta secondo legge, inserita in un rapporto tributario. | Non coincide con sanzione, interesse o corrispettivo. |
+| Imposta | Fisco | Tributo collegato a un presupposto espressivo di capacità contributiva, senza controprestazione individuale. | Non è una tassa per un servizio specifico. |
+| Obbligazione tributaria | Fisco | Rapporto giuridico che collega presupposto, soggetti, base, aliquota e debito. | Non coincide con dichiarazione o accertamento. |
+| Dichiarazione | Fisco | Atto del contribuente che rappresenta dati fiscalmente rilevanti secondo la disciplina applicabile. | Non determina l'intangibilità dei dati dichiarati. |
+| Accertamento | Fisco | Attività e, quando previsto, atto con cui l'amministrazione verifica e determina la pretesa. | Non coincide con riscossione o sanzione. |
+| Riscossione | Fisco/AdER | Fase diretta all'acquisizione delle somme dovute secondo i diversi titoli e procedimenti. | Non va confusa con il controllo che forma la pretesa. |
+| Obbligazione doganale | Dogane | Obbligo di corrispondere i dazi dovuti in relazione alla disciplina doganale. | Non coincide con ogni onere fiscale all'importazione. |
+| Dichiarazione doganale | Dogane | Atto con cui una persona manifesta la volontà di vincolare merci a un regime doganale. | Non è la stessa cosa della presentazione fisica delle merci. |
+| Regime doganale | Dogane | Quadro giuridico scelto per attribuire alle merci una destinazione prevista dal codice. | Non coincide con origine o classificazione. |
+| Classificazione | Dogane | Individuazione della voce pertinente nella nomenclatura. | Va distinta da origine e valore. |
+| Origine | Dogane | Collegamento giuridico della merce a un Paese secondo regole preferenziali o non preferenziali. | Non coincide con provenienza logistica. |
+| Valore in dogana | Dogane | Base determinata secondo le regole doganali per le finalità previste. | Non è automaticamente il prezzo indicato in fattura. |
+| Contribuzione | Previdenza | Rapporto regolato dalla legge che finanzia il sistema e può rilevare per specifiche tutele. | Non è un deposito individuale liberamente disponibile. |
+| Posizione assicurativa | Previdenza | Rappresentazione amministrativa dei dati previdenziali riferibili alla persona. | La presenza del dato non prova da sola il diritto. |
+| Prestazione previdenziale | Previdenza | Tutela riconosciuta quando ricorrono presupposti e procedimento previsti. | Domanda, diritto, decorrenza e misura sono piani distinti. |
+| Assistenza | Protezione sociale | Tutela fondata sui presupposti assistenziali fissati dall'ordinamento. | Non è sinonimo di previdenza contributiva. |
+| Rischio assicurato | INAIL | Rischio lavorativo considerato dal sistema dell'assicurazione obbligatoria. | Non coincide con qualunque rischio generico. |
+| Infortunio sul lavoro | INAIL | Evento tutelabile secondo gli elementi stabiliti dalla disciplina. | Non ogni incidente avvenuto sul luogo di lavoro è automaticamente tutelato. |
+| Malattia professionale | INAIL | Patologia collegata all'attività o all'esposizione lavorativa secondo regole proprie. | Non è un infortunio lento né ogni malattia del lavoratore. |
+| Prevenzione | Sicurezza/INAIL | Sistema diretto a eliminare o ridurre i rischi prima del danno. | Non coincide con prestazione, vigilanza o sanzione. |
+| Vigilanza | Ispettivo | Funzione pubblica di verifica del rispetto degli obblighi entro competenze e garanzie. | Accesso, istruttoria e conclusione sono fasi distinte. |
+
+### Quattro catene da ricordare
+
+- **Fisco:** presupposto → obbligazione → dichiarazione o adempimento → controllo → accertamento → tutela → riscossione.
+- **Dogane:** merce → classificazione, origine e valore → dichiarazione → regime → controllo → obbligazione → eventuale tutela.
+- **Previdenza:** posizione → requisito → domanda → istruttoria → diritto → decorrenza e misura → comunicazione.
+- **Assicurazione e vigilanza:** rischio o fatto → obbligo → evidenza → riscontro → qualificazione → atto o prestazione pertinente.
+
+**Errore tipico:** usare un termine della fase finale per descrivere l'intero percorso, per esempio “riscossione” al posto di accertamento o “prestazione” al posto di domanda. **Verifica:** scegli una catena, copri i termini e ricostruiscila spiegando perché ogni passaggio è distinto dal successivo.
+
+## Schemi uniformi per scritto e orale specialistico
+
+La lunghezza non cambia il metodo della risposta; cambia il grado di sviluppo. Prima di scrivere, individua sempre il verbo della traccia, la famiglia specialistica, la distinzione centrale e l'output richiesto.
+
+### Risposta in 10 righe: definizione controllata
+
+Usala per un quesito breve o una distinzione secca.
+
+1. definizione dell'istituto;
+2. funzione nel sistema;
+3. due elementi essenziali;
+4. distinzione dal concetto vicino;
+5. conseguenza pratica o esempio;
+6. cautela finale sui dati mobili, se pertinente.
+
+**Esempio di traccia:** “Distinguere accertamento e riscossione”. La risposta definisce le due fasi, chiarisce che la prima verifica o determina la pretesa e la seconda cura l'acquisizione delle somme, quindi mostra la conseguenza: un atto o una contestazione sulla pretesa non coincide con un'attività di pagamento o recupero.
+
+### Risposta in 20 righe: istituto e applicazione
+
+Usala quando la traccia chiede di illustrare, confrontare o collegare.
+
+- **Apertura:** definizione e collocazione nella famiglia.
+- **Corpo 1:** elementi, soggetti e funzione.
+- **Corpo 2:** distinzione o sequenza procedimentale.
+- **Applicazione:** esempio coerente con AE, ADM, AdER, INPS, INAIL o INL.
+- **Chiusura:** garanzia, limite o dato da verificare.
+
+**Esempio di traccia:** “Spiegare la posizione assicurativa previdenziale”. Dopo la definizione, la risposta distingue dati registrati, requisiti della prestazione e valutazione amministrativa; applica lo schema a un periodo mancante e chiude ricordando che la rettifica del dato non anticipa il diritto.
+
+### Risposta in 30 righe: mini-elaborato specialistico
+
+Usala per una domanda ampia con più passaggi.
+
+1. tesi iniziale che risponde subito alla domanda;
+2. quadro normativo o istituzionale essenziale, senza elenco di articoli;
+3. soggetti, oggetto e funzione;
+4. sequenza delle fasi;
+5. distinzione critica da un istituto vicino;
+6. caso o conseguenza operativa;
+7. garanzie, competenza e tracciabilità;
+8. conclusione che riprende il verbo della traccia.
+
+**Esempio di traccia:** “Illustrare il controllo doganale”. Il mini-elaborato parte dalla funzione, collega merce, dichiarazione, classificazione, origine, valore e regime, distingue controllo e accertamento delle conseguenze, applica il metodo a una discordanza documentale e conclude senza inventare aliquote o procedure non richieste.
+
+### Orale specialistico: risposta in 90-120 secondi
+
+L'orale richiede una struttura udibile. Usa cinque mosse:
+
+1. **tesi:** una frase che definisce l'istituto;
+2. **mappa:** tre elementi annunciati in ordine;
+3. **sviluppo:** una frase chiara per ciascun elemento;
+4. **distinzione:** l'errore che la commissione potrebbe provocare;
+5. **chiusura:** esempio o conseguenza riferita al profilo.
+
+Per “prevenzione e vigilanza”, puoi aprire così: “La prevenzione organizza la riduzione del rischio, mentre la vigilanza verifica il rispetto degli obblighi”. Annuncia poi rischio, soggetti e misure; chiarisci che l'accertamento segue evidenze e competenza; chiudi con un caso nel quale l'esistenza formale del documento non basta a provare l'effettività dell'organizzazione.
+
+### Griglia unica di autoverifica
+
+| Controllo | Domanda |
+| --- | --- |
+| Aderenza | Ho risposto al verbo della traccia? |
+| Perimetro | Ho scelto la famiglia e l'ente corretti? |
+| Teoria | Ho definito funzione, elementi e distinzione? |
+| Applicazione | Ho inserito un esempio o una conseguenza utile? |
+| Precisione | Ho separato fasi e istituti vicini? |
+| Aggiornamento | Ho evitato dati mobili non verificati? |
+| Forma | La conclusione risponde davvero alla domanda? |
+
+**Mini-esercizio.** Scegli lo stesso termine e produci prima 10 righe, poi 20 e infine un orale di 90 secondi. Non aggiungere argomenti casuali: amplia progressivamente definizione, struttura, distinzione e applicazione. L'errore tipico è scrivere trenta righe ripetendo tre volte la stessa definizione.
 ## Da sapere in 5 righe
 
 Il programma diventa un piano solo quando viene collegato a profilo, prova, profondità e fonte. Bando, allegati, codice profilo e comunicazioni successive formano un unico fascicolo. Le materie vanno classificate come comuni, specialistiche, soglia, accessorie o da verificare. Ogni prova deve generare un output di allenamento. Un bando precedente insegna il metodo, ma non sostituisce la procedura nuova.
@@ -403,18 +503,6 @@ Scegli un bando reale o predisposto dal docente. In trenta minuti compila la seg
 
 ## Riferimenti consolidati
 
-- [[sources/template-bando-decoder-metodo-bando]]
-- [[sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026]]
-- [[sources/m-fc03-bando-ripam-inail-308-funzionari-assistenti-sociali-2024]]
-- [[sources/m-fc03-inl-vigilanza-lavoro-previdenziale]]
-- [[sources/m-fc03-portali-bandi-concorsi-2023-2026]]
-- [[sources/vol-03-fonti-specialistiche-fisco-dogane-previdenza-ispettivo]]
-- [[sources/logica-volumi-copertura-concorsobook-v4]]
-- [[topics/bando-decoder]]
-- [[topics/bando-decoder-fiscale]]
-- [[topics/vol-03-previdenza-vigilanza-epne]]
-- [[entities/bando-decoder]]
-- [[entities/inps-inail-epne]]
 - [[books/il-metodo-bando/chapters/anatomia-del-bando]]
 - [[books/il-metodo-bando/chapters/appendice-c-template-bando-decoder]]
 - [[books/moduli/m-fc02-agenzie-fiscali/chapters/02-bando-decoder-fiscale]]

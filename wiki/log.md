@@ -594,3 +594,8 @@
 
 - 2026-07-29T18:20:00+02:00 | coverage_gate_completed | VOL-07 M-SA02 | step=07 | new_documents=8 | corpus_logs=15 | integrity_entries=150_verified | raw_files=165 | pdf=121 | html=29 | json=15 | residue=0 | integrity_errors=0 | rows=8 | complete=8 | blockers=0 | warnings=0 | gate=passed | review_tracks_deferred_to_step=15 | status=READY_FOR_CHAPTER_PLANNING
 - 2026-07-29T18:50:00+02:00 | band_audit_completed | VOL-07 M-SA01 | step=05 | clusters=ASS,CAP | bandi=10 | distribution=5+5 | raw_pdf=10 | integrity=bytes_sha256_verified | source_note=bandi-rappresentativi-m-sa01-sanita-amministrativa-2025-2026 | audit=reviews/pipeline/VOL-07/05-audit-bandi-m-sa01 | status=GO_STEP_06_STOP_WRITING
+
+- 2026-08-09T09:27:42.553Z | manual_writer | books/moduli/m-fc01-ministeri/chapters/12-quesiti-situazionali-codice-comportamento.md | mode=draft | target_heading=Bozza agente | knowledge=7 | memory=5
+- 2026-08-09T09:29:59.477Z | manual_writer | books/moduli/m-fc01-ministeri/chapters/12-quesiti-situazionali-codice-comportamento.md | mode=draft | target_heading=Bozza agente | knowledge=7 | memory=5
+- 2026-08-09T09:35:08.040Z | manual_writer | books/moduli/m-fc01-ministeri/chapters/12-quesiti-situazionali-codice-comportamento.md | mode=draft | target_heading=Bozza agente | knowledge=7 | memory=5
+- 2026-08-09T09:54:04.319Z | humanizer_revision | books/moduli/m-fc01-ministeri/chapters/12-quesiti-situazionali-codice-comportamento.md | provider=codex | knowledge=10 | memory=5

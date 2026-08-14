@@ -2,7 +2,7 @@
 id: chapter-m-fc02-civile-commerciale-applicati-fisco-dogane-riscossione
 type: book_chapter
 title: "Civile e commerciale applicati a fisco, dogane e riscossione"
-status: professional_draft
+status: revised_draft
 domain: "concorsi pubblici italiani"
 topics: ["diritto civile", "diritto commerciale", "obbligazioni", "contratti", "impresa", "societa", "crisi impresa", "agenzie fiscali"]
 entities: ["Agenzia delle Entrate", "Agenzia delle Dogane e dei Monopoli", "Agenzia delle Entrate-Riscossione"]
@@ -17,12 +17,12 @@ book_refs: ["m-fc02-agenzie-fiscali", "il-metodo-bando"]
 confidence: 0.82
 updated_at: 2026-08-04
 created_at: 2026-07-01T21:00:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "module-code-m-fc02", "professional-draft"]
 book_id: m-fc02-agenzie-fiscali
 outline_section: 12
-draft_stage: professional-draft
+draft_stage: specialist-audit-complete
 module_code: M-FC02
 module_family: funzioni-centrali
 companion_to: il-metodo-bando
@@ -48,7 +48,7 @@ Al termine del capitolo devi saper:
 3. spiegare adempimento, inadempimento, mora e modi essenziali di estinzione;
 4. distinguere modificazioni del credito e del debito;
 5. separare responsabilità contrattuale ed extracontrattuale;
-6. ricostruire formazione, effetti, invalidita e scioglimento del contratto;
+6. ricostruire formazione, effetti, invalidità e scioglimento del contratto;
 7. confrontare garanzie reali, personali e tutela patrimoniale;
 8. distinguere imprenditore, impresa, azienda e società;
 9. confrontare società di persone e di capitali;
@@ -61,7 +61,7 @@ Al termine del capitolo devi saper:
 | **Bando** | Cerca diritto civile, obbligazioni, contratti, responsabilità, diritto commerciale, impresa, società e crisi d'impresa. |
 | **Aree** | Collega diritto privato, contabilità, tributi, dogane, riscossione, catasto e pubblicità immobiliare. |
 | **Nuclei** | Debitore, creditore, adempimento, mora, contratto, garanzia patrimoniale, impresa, azienda, società. |
-| **Diario** | Registra le coppie da non confondere: debito/responsabilita, impresa/azienda, nullita/annullabilita, credito/garanzia, crisi/insolvenza. |
+| **Diario** | Registra le coppie da non confondere: debito/responsabilità, impresa/azienda, nullità/annullabilità, credito/garanzia, crisi/insolvenza. |
 | **Output** | Qualifica un'operazione, individua soggetti e garanzie e costruisci una risposta orale ordinata. |
 
 ![Figura 12.1 - Mappa BANDO del diritto civile e commerciale applicato: dal programma alla qualificazione del caso e alla risposta d'esame.](../assets/chapter-12/01-mappa-bando-civile-commerciale.png)
@@ -70,15 +70,15 @@ Al termine del capitolo devi saper:
 
 Il rapporto giuridico è una relazione tra soggetti regolata dall'ordinamento. A una situazione attiva, come un diritto, corrisponde una situazione passiva, come un obbligo. Il primo controllo consiste nell'identificare chi sia titolare del rapporto: una persona agisce in proprio, per una società o per conto di un altro soggetto?
 
-La capacità giuridica è l'idoneita a essere titolare di situazioni giuridiche; la capacità di agire riguarda il compimento valido di atti. Gli enti operano attraverso organi e rappresentanti. Attribuire il rapporto alla persona che materialmente firma, senza verificare i poteri, può assegnare ricavi, debiti o garanzie al soggetto sbagliato.
+La capacità giuridica è l'idoneità a essere titolare di situazioni giuridiche; la capacità di agire riguarda il compimento valido di atti. Gli enti operano attraverso organi e rappresentanti. Attribuire il rapporto alla persona che materialmente firma, senza verificare i poteri, può assegnare ricavi, debiti o garanzie al soggetto sbagliato.
 
 ## 2. L'obbligazione
 
 L'obbligazione vincola un debitore a una prestazione nell'interesse di un creditore. La prestazione deve avere contenuto patrimoniale ed essere possibile, lecita e determinata o determinabile. Può consistere nel dare, fare o non fare.
 
-Le obbligazioni derivano dal contratto, dal fatto illecito o da altri atti e fatti riconosciuti dall'ordinamento. La fonte identifica la ragione del vincolo. Non ogni uscita è un pagamento ne ogni entrata è una vendita: possono esistere restituzioni, finanziamenti, risarcimenti, conferimenti e anticipazioni.
+Le obbligazioni derivano dal contratto, dal fatto illecito o da altri atti e fatti riconosciuti dall'ordinamento. La fonte identifica la ragione del vincolo. Non ogni uscita è un pagamento né ogni entrata è una vendita: possono esistere restituzioni, finanziamenti, risarcimenti, conferimenti e anticipazioni.
 
-In presenza di più debitori va chiarito se l'obbligazione sia solidale o parziaria. Nella solidarieta passiva il creditore può chiedere l'intera prestazione a uno dei condebitori, ferma la regolazione interna; nella parziarieta ciascuno risponde della propria quota. L'applicazione della solidarieta richiede sempre un fondamento.
+In presenza di più debitori va chiarito se l'obbligazione sia solidale o parziaria. Nella solidarietà passiva il creditore può chiedere l'intera prestazione a uno dei condebitori, ferma la regolazione interna; nella parziarietà ciascuno risponde della propria quota. L'applicazione della solidarietà richiede sempre un fondamento.
 
 ![Figura 12.2 - Credito e debito sui diversi piani: rapporto civilistico, rappresentazione contabile e conseguenze tributarie devono essere ricostruiti separatamente.](../assets/chapter-12/02-credito-debito-piani-giuridici.png)
 
@@ -96,7 +96,7 @@ Nella cessione del credito cambia il creditore, mentre il rapporto prosegue. La 
 
 Delegazione, espromissione e accollo intervengono sul lato passivo con strutture differenti. Bisogna quindi stabilire se il debitore originario sia liberato o resti obbligato insieme al nuovo soggetto.
 
-L'obbligazione si estingue normalmente con l'adempimento. Può estinguersi anche mediante compensazione, confusione, novazione, remissione o impossibilita sopravvenuta non imputabile, se ne ricorrono i presupposti. La compensazione civilistica non va confusa con quella tributaria, sottoposta a regole proprie.
+L'obbligazione si estingue normalmente con l'adempimento. Può estinguersi anche mediante compensazione, confusione, novazione, remissione o impossibilità sopravvenuta non imputabile, se ne ricorrono i presupposti. La compensazione civilistica non va confusa con quella tributaria, sottoposta a regole proprie.
 
 ## 5. Responsabilità civile
 
@@ -118,9 +118,9 @@ La firma materiale, da sola, non permette di imputare l'operazione. Se un respon
 
 Per i beni immobili vanno tenuti distinti titolo, forma, trascrizione e voltura catastale. Il capitolo 10 approfondisce pubblicità immobiliare e catasto.
 
-## 7. Invalidita e scioglimento
+## 7. Invalidità e scioglimento
 
-La nullita colpisce il contratto per vizi gravi individuati dall'ordinamento. L'annullabilita tutela interessi diversi e l'atto produce effetti finche non intervenga l'annullamento. La rescissione reagisce a specifiche alterazioni originarie; la risoluzione riguarda problemi sopravvenuti nell'attuazione di un contratto valido.
+La nullità colpisce il contratto per vizi gravi individuati dall'ordinamento. L'annullabilità tutela interessi diversi e l'atto produce effetti finché non intervenga l'annullamento. La rescissione reagisce a specifiche alterazioni originarie; la risoluzione riguarda problemi sopravvenuti nell'attuazione di un contratto valido.
 
 Il recesso è il potere unilaterale di sciogliere il rapporto quando legge o contratto lo consentono. Nei quiz la sequenza utile è: vizio originario, problema sopravvenuto o potere di uscita?
 
@@ -162,7 +162,7 @@ Le società di persone comprendono società semplice, società in nome collettiv
 
 | Profilo | Società di persone | Società di capitali |
 |---|---|---|
-| Centralita | Rapporto personale tra soci | Organizzazione e capitale |
+| Centralità | Rapporto personale tra soci | Organizzazione e capitale |
 | Autonomia patrimoniale | Imperfetta, con regimi diversi | Perfetta in linea generale |
 | Responsabilità dei soci | Può essere personale e illimitata | Di regola limitata al conferimento |
 | Organizzazione | Tendenzialmente semplice | Organi e regole articolati |
@@ -171,9 +171,9 @@ Responsabilità limitata non significa assenza di responsabilità. La società r
 
 ### Conferimenti, governance e rappresentanza
 
-I conferimenti forniscono alla società le risorse iniziali secondo le regole del tipo. Denaro, beni, crediti e prestazioni non sono ammessi o valutati allo stesso modo in ogni società. Il capitale che ne deriva è una grandezza giuridico-contabile: non coincide con liquidita disponibile, valore dell'azienda o patrimonio netto.
+I conferimenti forniscono alla società le risorse iniziali secondo le regole del tipo. Denaro, beni, crediti e prestazioni non sono ammessi o valutati allo stesso modo in ogni società. Il capitale che ne deriva è una grandezza giuridico-contabile: non coincide con liquidità disponibile, valore dell'azienda o patrimonio netto.
 
-La governance distribuisce funzioni diverse. I soci o l'assemblea assumono le decisioni loro riservate, mentre gli amministratori gestiscono. Chi ha il potere di rappresentanza manifesta all'esterno la volonta sociale. Organi di controllo e revisore svolgono invece i compiti previsti per il tipo societario e per i presupposti applicabili. Per questo socio, amministratore, rappresentante e controllore indicano ruoli diversi.
+La governance distribuisce funzioni diverse. I soci o l'assemblea assumono le decisioni loro riservate, mentre gli amministratori gestiscono. Chi ha il potere di rappresentanza manifesta all'esterno la volontà sociale. Organi di controllo e revisore svolgono invece i compiti previsti per il tipo societario e per i presupposti applicabili. Per questo socio, amministratore, rappresentante e controllore indicano ruoli diversi.
 
 Capitale sociale, patrimonio e patrimonio netto sono grandezze diverse. Il bilancio informa sulla situazione e sul risultato, ma non coincide con la dichiarazione fiscale. Redazione, approvazione, controllo e pubblicità del bilancio spettano a soggetti e fasi differenti.
 
@@ -183,21 +183,21 @@ Capitale sociale, patrimonio e patrimonio netto sono grandezze diverse. Il bilan
 
 > **Da ricordare**
 >
-> Una perdita, un ritardo o un indice negativo non equivalgono automaticamente a crisi o insolvenza. La crisi riguarda la prospettica inadeguatezza dei flussi rispetto alle obbligazioni; l'insolvenza si manifesta nell'incapacita di adempiere regolarmente. Servono andamento, scadenze e dati attendibili.
+> Una perdita, un ritardo o un indice negativo non equivalgono automaticamente a crisi o insolvenza. La crisi riguarda la prospettica inadeguatezza dei flussi rispetto alle obbligazioni; l'insolvenza si manifesta nell'incapacità di adempiere regolarmente. Servono andamento, scadenze e dati attendibili.
 
 L'imprenditore che opera in forma societaria o collettiva deve predisporre assetti organizzativi, amministrativi e contabili adeguati anche a rilevare tempestivamente la crisi. Contabilità, tesoreria, scadenzario e previsioni finanziarie permettono di intercettare il deterioramento. Il Codice della crisi offre strumenti differenziati: in questo capitolo se ne ricorda soltanto la funzione generale. Definizioni operative, requisiti ed effetti delle procedure richiedono una fonte ufficiale dedicata e aggiornata al bando.
 
 ## 13. Applicazioni ad AE, ADM e AdER
 
-**AE.** Gli istituti civilistici qualificano vendita o finanziamento, cessione d'azienda o di beni, rapporto societario, titolarita di crediti e rappresentanza. La conseguenza fiscale deriva poi dalla disciplina tributaria.
+**AE.** Gli istituti civilistici qualificano vendita o finanziamento, cessione d'azienda o di beni, rapporto societario, titolarità di crediti e rappresentanza. La conseguenza fiscale deriva poi dalla disciplina tributaria.
 
-**ADM.** Rilevano titolarita delle merci, vendita, trasporto, rappresentanza e garanzie. Le clausole commerciali distribuiscono costi e rischi, ma l'obbligazione doganale segue la normativa doganale.
+**ADM.** Rilevano titolarità delle merci, vendita, trasporto, rappresentanza e garanzie. Le clausole commerciali distribuiscono costi e rischi, ma l'obbligazione doganale segue la normativa doganale.
 
-**AdER.** Obbligazione, coobbligazione, successione, garanzia patrimoniale, pegno, ipoteca e fideiussione costituiscono il lessico di base. La riscossione pubblica conserva pero atti, poteri e limiti propri, sviluppati nel capitolo 7.
+**AdER.** Obbligazione, coobbligazione, successione, garanzia patrimoniale, pegno, ipoteca e fideiussione costituiscono il lessico di base. La riscossione pubblica conserva però atti, poteri e limiti propri, sviluppati nel capitolo 7.
 
 ## Caso guidato: importazione e tensione finanziaria
 
-Beta Srl importa componenti, incarica un rappresentante per le formalita, vende con pagamento differito e ottiene credito bancario garantito. Gli incassi rallentano e la società non rispetta alcune scadenze.
+Beta Srl importa componenti, incarica un rappresentante per le formalità, vende con pagamento differito e ottiene credito bancario garantito. Gli incassi rallentano e la società non rispetta alcune scadenze.
 
 **1. Soggetto.** La parte è Beta Srl, non automaticamente il socio o l'amministratore che firma. Vanno verificati i poteri.
 
@@ -283,7 +283,7 @@ Classifica le situazioni:
 | Confondo impresa e azienda | Attività e complesso organizzato sono distinti | Riscrivere le definizioni |
 | Attribuisco il debito al socio | Società e socio sono distinti | Verificare tipo e titolo |
 | Equiparo fideiussione e ipoteca | Una è personale, l'altra reale | Tabella delle garanzie |
-| Chiamo nullita ogni vizio | Nullita e annullabilita sono diverse | Classificare il vizio |
+| Chiamo nullità ogni vizio | Nullità e annullabilità sono diverse | Classificare il vizio |
 | Deduco la crisi da una perdita | Servono flussi e prospettiva | Ripetere il caso Beta |
 
 ## Checklist finale
@@ -295,7 +295,7 @@ Classifica le situazioni:
 - [ ] Distinguo adempimento, inadempimento e mora.
 - [ ] Riconosco cessione del credito e modificazioni del debito.
 - [ ] Distinguo responsabilità contrattuale ed extracontrattuale.
-- [ ] Distinguo nullita, annullabilita, rescissione, risoluzione e recesso.
+- [ ] Distinguo nullità, annullabilità, rescissione, risoluzione e recesso.
 - [ ] Confronto garanzie reali e personali.
 - [ ] Distinguo imprenditore, impresa, azienda e società.
 - [ ] Confronto società di persone e di capitali.
@@ -304,10 +304,6 @@ Classifica le situazioni:
 
 ## Riferimenti consolidati
 
-- [[sources/adempimenti-contabilita-civile-commerciale-m-fc02]]
-- [[sources/codice-civile-beni-pubblici-demanio-patrimonio]]
-- [[sources/diritto-civile-obbligazioni-contratti-m-fc02-2026-07-17]]
-- [[sources/diritto-commerciale-impresa-societa-m-fc02-2026-07-17]]
 - [[books/moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader]]
 - [[books/moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm]]
 - [[books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare]]
@@ -316,7 +312,7 @@ Classifica le situazioni:
 ## Note di review
 
 - Le source note specialistiche sul Codice civile per obbligazioni, contratti, garanzie, impresa e società sono consolidate; verificarne vigenza puntuale e coordinamento con le discipline speciali al cut-off editoriale.
-- Verificare con revisore giuridico terminologia e regimi vigenti di invalidita, responsabilità, solidarieta e rappresentanza.
+- Verificare con revisore giuridico terminologia e regimi vigenti di invalidità, responsabilità, solidarietà e rappresentanza.
 - Aggiornare il box sul Codice della crisi alla data del bando, con attenzione a definizioni, assetti, strumenti e procedure.
 - Verificare i raccordi tra garanzie civilistiche, obbligazione doganale e riscossione pubblica senza estendere per analogia regole settoriali.
 - Inserire titoli di credito e proprietà industriale solo se richiesti dal programma del singolo concorso.

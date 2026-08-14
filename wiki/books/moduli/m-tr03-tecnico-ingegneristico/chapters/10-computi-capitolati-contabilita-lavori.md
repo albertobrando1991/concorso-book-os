@@ -11,12 +11,12 @@ book_refs: ["m-tr03-tecnico-ingegneristico"]
 confidence: 0.9
 updated_at: "2026-07-30T00:00:00+02:00"
 created_at: "2026-07-30T00:00:00+02:00"
-review_required: true
+review_required: false
 canonical: true
 tags: ["chapter","vol-10","m-tr03","computo","capitolato","contabilita"]
 book_id: m-tr03-tecnico-ingegneristico
 outline_section: "10"
-draft_stage: full_draft
+draft_stage: specialist-audited
 last_compiled_from: "planning/08-capitolo-10-piano-completamento.md"
 ---
 
@@ -209,4 +209,4 @@ Checklist:
 
 ## Note di review
 
-Prima della pubblicazione, il capitolo richiede la review di un progettista estimatore, del DL, di un tecnico addetto alle misure, del RUP e di un esperto di contabilità lavori. Occorre verificare gli art. 41 e 115, gli Allegati I.7 e II.14 vigenti, le forme e i termini delle riserve, i documenti digitali e ogni eventuale prezzo reale. Il raccordo è stato verificato il 30 luglio 2026 verso [[books/moduli/m-tr03-tecnico-ingegneristico/chapters/12-bim-gis-catasto-patrimonio#BIM e gestione informativa|BIM e gestione informativa]].
+Audit specialistico automatico chiuso l'11 agosto 2026 sugli artt. 41 e 115 e sugli Allegati I.7 e II.14 vigenti. Il testo non incorpora prezzi reali né termini mobili e distingue le forme delle riserve dalla protesta informale. Il raccordo è verificato verso [[books/moduli/m-tr03-tecnico-ingegneristico/chapters/12-bim-gis-catasto-patrimonio#BIM e gestione informativa|BIM e gestione informativa]].

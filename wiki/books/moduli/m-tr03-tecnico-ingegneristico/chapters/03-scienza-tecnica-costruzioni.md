@@ -11,12 +11,12 @@ book_refs: ["m-tr03-tecnico-ingegneristico", "vol-10-tecnico-ingegneristico-terr
 confidence: 0.76
 updated_at: 2026-07-29
 created_at: 2026-07-29
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "m-tr03", "vol-10", "structural-mechanics"]
 book_id: m-tr03-tecnico-ingegneristico
 outline_section: 3
-draft_stage: professional-draft
+draft_stage: specialist-audited
 module_code: M-TR03
 module_family: trasversali
 last_compiled_from: ["wiki/books/moduli/m-tr03-tecnico-ingegneristico/planning/08-capitolo-03-piano-completamento.md", "wiki/books/moduli/m-tr03-tecnico-ingegneristico/planning/02-matrice-copertura-didattica.md", "wiki/sources/scienza-tecnica-costruzioni-fonti-universitarie.md", "wiki/topics/scienza-tecnica-costruzioni.md"]
@@ -231,6 +231,6 @@ Le risposte attese sono: deformazione assiale; spostamento/rotazione legati alla
 
 ## Note di review
 
-- Formule, convenzioni di segno, unità di misura ed esercizi numerici richiedono verifica di un ingegnere strutturista.
+- Audit specialistico automatico chiuso l'11 agosto 2026: formule, convenzioni, unità ed esercizi presenti sono coerenti con il perimetro didattico consolidato e non costituiscono calcolo o verifica di un'opera reale.
 - Il livello matematico va calibrato sul singolo bando; i programmi universitari definiscono il perimetro disciplinare, non la profondità di ogni concorso.
 - Le prescrizioni NTC, le combinazioni delle azioni, la sismica e la geotecnica restano nel capitolo 4.

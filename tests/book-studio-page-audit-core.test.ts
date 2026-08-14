@@ -1,9 +1,11 @@
 import { describe, expect, it } from "vitest"
 import {
+  buildBookStudioAuditUrl,
   buildContactSheetRanges,
   buildPageRegistryRows,
   classifyPageDiagnostic,
   flaggedPageNumbers,
+  isIntentionalTableContinuationOverlap,
   PAGE_AUDIT_TYPOGRAPHY,
   renderPageAuditMarkdown,
   resolvePageAuditOptions,
@@ -58,6 +60,12 @@ function basePage(overrides: Partial<PageDiagnostic> = {}): PageDiagnostic {
   }
 }
 
+describe("page audit URL", () => {
+  it("uses the advanced Book Studio composition", () => {
+    expect(buildBookStudioAuditUrl("http://127.0.0.1:3010", "volumi/vol-03"))
+      .toBe("http://127.0.0.1:3010/?bookId=volumi%2Fvol-03&advanced=1#studio")
+  })
+})
 describe("VOL-07 page audit options", () => {
   it("resolves stable VOL-07 defaults and explicit verification pages", () => {
     expect(resolvePageAuditOptions({
@@ -114,6 +122,13 @@ describe("contact sheet coverage", () => {
   })
 })
 
+describe("continued table overlap", () => {
+  it("ignores only the intentional seam between table segments", () => {
+    expect(isIntentionalTableContinuationOverlap("table", "table", true)).toBe(true)
+    expect(isIntentionalTableContinuationOverlap("paragraph", "table", true)).toBe(false)
+    expect(isIntentionalTableContinuationOverlap("table", "table", false)).toBe(false)
+  })
+})
 describe("page diagnostic classification", () => {
   it.each([
     ["page-number", { printedNumber: 2 }],

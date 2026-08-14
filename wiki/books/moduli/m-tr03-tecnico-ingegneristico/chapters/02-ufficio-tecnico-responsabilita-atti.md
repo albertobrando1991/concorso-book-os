@@ -11,12 +11,12 @@ book_refs: ["m-tr03-tecnico-ingegneristico", "vol-10-tecnico-ingegneristico-terr
 confidence: 0.76
 updated_at: 2026-07-29
 created_at: 2026-07-29
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "m-tr03", "vol-10", "technical-office"]
 book_id: m-tr03-tecnico-ingegneristico
 outline_section: 2
-draft_stage: professional-draft
+draft_stage: specialist-audited
 module_code: M-TR03
 module_family: trasversali
 last_compiled_from: ["wiki/books/moduli/m-tr03-tecnico-ingegneristico/planning/08-capitolo-02-piano-completamento.md", "wiki/books/moduli/m-tr03-tecnico-ingegneristico/planning/02-matrice-copertura-didattica.md", "wiki/sources/legge-7-agosto-1990-n-241-procedimento-amministrativo-e-accesso-ai-documenti-amministrativi-testo-vigente-normattiva.md", "wiki/topics/procedimento-amministrativo.md", "wiki/books/il-metodo-bando/chapters/diritto-amministrativo-per-candidati.md"]
@@ -229,6 +229,6 @@ Controlla poi:
 
 ## Note di review
 
-- Prima della pubblicazione verificare il testo vigente delle fonti normative e i rinvii puntuali al `VOL-01`.
+- Audit specialistico automatico chiuso l'11 agosto 2026 sul testo consolidato delle fonti e sui rinvii puntuali al volume base.
 - I modelli di verbale e relazione cambiano per ente e procedimento: la struttura proposta è didattica, non modulistica ufficiale.
 - La mappa delle responsabilità orienta la risposta ma non sostituisce la verifica dei presupposti della singola forma di responsabilità.

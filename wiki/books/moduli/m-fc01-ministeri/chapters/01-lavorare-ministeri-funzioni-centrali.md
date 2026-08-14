@@ -21,12 +21,12 @@ book_refs: ["m-fc01-ministeri", "il-metodo-bando"]
 confidence: 0.86
 updated_at: 2026-08-04
 created_at: 2026-06-27T22:08:22+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "module-code-m-fc01", "professional-draft"]
 book_id: m-fc01-ministeri
 outline_section: 1
-draft_stage: humanized-editorial-revision
+draft_stage: specialist-audit-complete
 module_code: M-FC01
 module_family: funzioni-centrali
 last_compiled_from: [
@@ -156,7 +156,7 @@ Il modulo ha tre porte principali.
 
 ### Ministeri
 
-I Ministeri sono amministrazioni centrali con funzioni di settore. Il D.Lgs. 30 luglio 1999, n. 300 e le fonti ufficiali Governo/PCM sono riferimenti consolidati per inquadrare organizzazione del Governo, ministeri, agenzie e apparati centrali. Per il candidato, però, non serve partire da una ricostruzione storica. Serve capire che ogni Ministero ha una funzione pubblica riconoscibile e una struttura organizzativa che incide sul lavoro degli uffici.
+I Ministeri sono amministrazioni centrali con funzioni di settore. Il D.Lgs. 30 luglio 1999, n. 300 e le fonti ufficiali del Governo e della Presidenza del Consiglio servono a inquadrare organizzazione del Governo, ministeri, agenzie e apparati centrali. Per il candidato, però, non serve partire da una ricostruzione storica. Serve capire che ogni Ministero ha una funzione pubblica riconoscibile e una struttura organizzativa che incide sul lavoro degli uffici.
 
 In un bando ministeriale devi cercare:
 
@@ -171,7 +171,7 @@ In un bando ministeriale devi cercare:
 
 La Presidenza del Consiglio dei ministri non va confusa con un Ministero ordinario. Ha una funzione di supporto, impulso e coordinamento legata al Presidente del Consiglio e alle strutture della Presidenza. Per i concorsi, questo significa che il candidato deve leggere con cura il bando e non applicare automaticamente gli schemi ministeriali generici.
 
-La source note ARAN ricorda inoltre che la Presidenza può avere disciplina contrattuale autonoma rispetto al comparto ordinario delle Funzioni Centrali. Nel capitolo 3 questo aspetto verrà' tradotto in lettura di area, profilo e mansioni.
+Le fonti contrattuali ARAN distinguono inoltre la disciplina della Presidenza dal comparto ordinario delle Funzioni Centrali. Nel capitolo 3 questo aspetto verrà tradotto in lettura di area, profilo e mansioni.
 
 In questo capitolo ti basta una regola:
 
@@ -211,7 +211,7 @@ Nei concorsi M-FC01 potresti incontrare profili amministrativi, giuridici, econo
 
 Un "funzionario amministrativo" in un Ministero può avere un taglio diverso da un "funzionario amministrativo" in un Comune. Un profilo "giuridico" può richiedere più attenzione ad atti, procedimento, organizzazione e normativa settoriale. Un profilo "contabile" può spostare il peso su bilancio, controlli, spesa, rendicontazione e contratti. Un profilo "informatico" non richiede solo informatica generale, ma anche dati pubblici, sicurezza, servizi digitali, privacy e amministrazione digitale.
 
-Per questo il capitolo 3 userà' tre domande:
+Per questo il capitolo 3 userà tre domande:
 
 | Domanda | perché conta |
 |---|---|
@@ -267,7 +267,7 @@ Individua:
 - prove informatiche, linguistiche o situazionali;
 - soglie e punteggi.
 
-Non basta sapere "ci sarà' una prova". Devi capire quale prova elimina, quale prova distingue e quale prova richiede output.
+Non basta sapere "ci sarà una prova". Devi capire quale prova elimina, quale prova distingue e quale prova richiede output.
 
 ## Bando Decoder M-FC01
 
@@ -505,26 +505,3 @@ Prima di passare al capitolo 2, devi poter rispondere senza appunti:
 | So quali dati non devo citare senza verifica ufficiale? | |
 
 Se una risposta manca, non è un fallimento. È il primo elemento del tuo piano di studio.
-
-## Riferimenti consolidati
-
-- [[sources/m-fc01-dossier-redazionale-ministeri-pcm-avvocatura]]
-- [[sources/rgs-conto-annuale-funzioni-centrali]]
-- [[sources/governo-presidenza-consiglio-ministeri-organizzazione]]
-- [[sources/d-lgs-30-luglio-1999-n-300-organizzazione-governo]]
-- [[sources/aran-ccnl-funzioni-centrali-pcm-2022-2026]]
-- [[sources/inpa-formez-ripam-concorsi-funzioni-centrali]]
-- [[sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego]]
-- [[sources/d-p-r-9-maggio-1994-n-487-accesso-agli-impieghi-pubblici-e-concorsi]]
-- [[sources/metodo-bando-progetto-editoriale]]
-- [[books/il-metodo-bando/chapters/famiglie-concorsi-pubblici]]
-- [[books/il-metodo-bando/chapters/anatomia-del-bando]]
-- [[books/il-metodo-bando/chapters/pubblico-impiego-e-organizzazione-pa]]
-- [[books/il-metodo-bando/chapters/scegliere-moduli-integrativi]]
-
-## Note di review
-
-- Prima della pubblicazione finale verificare eventuali dati quantitativi su personale, comparti e trend tramite Conto annuale RGS o altra fonte statistica ufficiale aggiornata.
-- Prima di citare esempi di bandi recenti, scaricare e schedare 3-5 bandi rappresentativi da inPA/Formez/RIPAM o dai siti delle amministrazioni titolari.
-- Non pubblicare elenchi correnti di Ministeri, ministri, dipartimenti, uffici PCM o strutture senza controllo sulle pagine ufficiali aggiornate.
-- Verificare eventuali aggiornamenti contrattuali o discipline speciali se il capitolo viene usato per un bando PCM o per profili con inquadramento particolare.

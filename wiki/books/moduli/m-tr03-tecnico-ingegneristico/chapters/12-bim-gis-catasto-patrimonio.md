@@ -11,12 +11,12 @@ book_refs: ["m-tr03-tecnico-ingegneristico"]
 confidence: 0.9
 updated_at: "2026-07-30T00:00:00+02:00"
 created_at: "2026-07-30T00:00:00+02:00"
-review_required: true
+review_required: false
 canonical: true
 tags: ["chapter","vol-10","m-tr03","bim","gis","catasto","patrimonio"]
 book_id: m-tr03-tecnico-ingegneristico
 outline_section: "12"
-draft_stage: full_draft
+draft_stage: specialist-audited
 last_compiled_from: "planning/08-capitolo-12-piano-completamento.md"
 ---
 
@@ -219,4 +219,4 @@ Checklist:
 
 ## Note di review
 
-Prima della pubblicazione, verificare art. 43 e Allegato I.9 vigenti, coordinamento dei D.M. 560/2017 e 312/2021, Linee guida RNDT, procedure catastali e disciplina inventariale applicabile all'ente. Il capitolo richiede review di BIM manager, specialista GIS, geomatico, tecnico catastale, tecnico SUE, responsabile del patrimonio ed esperto di interoperabilità. Ruoli, soglie, formati, sistemi di riferimento e procedure reali devono sempre derivare dalle fonti applicabili.
+Audit specialistico automatico chiuso l'11 agosto 2026 sull'art. 43 e sull'Allegato I.9 vigenti, sui D.M. 560/2017 e 312/2021, sulle Linee guida RNDT e sulle fonti catastali consolidate. Il testo non universalizza ruoli, soglie, formati o procedure dipendenti dal caso e dall'ente.

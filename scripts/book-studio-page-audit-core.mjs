@@ -11,6 +11,12 @@ export const PAGE_AUDIT_TYPOGRAPHY = Object.freeze({
   h5: [14.67]
 })
 
+export function isIntentionalTableContinuationOverlap(leftType, rightType, rightContinued) {
+  return leftType === "table" && rightType === "table" && rightContinued
+}
+export function buildBookStudioAuditUrl(baseUrl, bookId) {
+  return `${baseUrl}/?bookId=${encodeURIComponent(bookId)}&advanced=1#studio`
+}
 export function resolvePageAuditOptions(env = process.env) {
   const expectedPageCount = positiveInteger(
     env.BOOK_STUDIO_EXPECTED_PAGE_COUNT || "381",

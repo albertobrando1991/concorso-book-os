@@ -5,6 +5,9 @@ export interface TextVolume {
   code: string
   title: string
   shortTitle: string
+  subtitle?: string
+  author?: string
+  edition?: string
   tier: TextVolumeTier
   launchWave: TextLaunchWave
   modules: string[]
@@ -130,12 +133,15 @@ export const TEXT_VOLUME_CATALOG: TextVolume[] = [
     code: "VOL-08",
     title: "ICT, digitale, cybersecurity e dati",
     shortTitle: "ICT e cyber",
+    subtitle: "Manuale specialistico per concorsi pubblici — informatica, cloud, cybersecurity, dati e intelligenza artificiale",
+    author: "Capitale Personale",
+    edition: "Prima edizione, 2026",
     tier: "vertical",
     launchWave: "second",
     modules: ["M-TR01"],
     bookIds: ["moduli/m-tr01-ict-trasformazione-digitale"],
     audience: "Profili ICT, data, cyber e trasformazione digitale nella PA",
-    promise: "Modulo verticale tecnico per profili digitali non coperti dal base.",
+    promise: "Competenze operative per affrontare prove su ICT, dati, cybersecurity e trasformazione digitale nella PA.",
     verticals: ["Cybersecurity", "Dati e interoperabilita", "Servizi digitali PA"]
   },
   {

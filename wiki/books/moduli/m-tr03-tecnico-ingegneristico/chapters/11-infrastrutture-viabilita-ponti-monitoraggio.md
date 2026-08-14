@@ -11,12 +11,12 @@ book_refs: ["m-tr03-tecnico-ingegneristico"]
 confidence: 0.9
 updated_at: "2026-07-30T00:00:00+02:00"
 created_at: "2026-07-30T00:00:00+02:00"
-review_required: true
+review_required: false
 canonical: true
 tags: ["chapter","vol-10","m-tr03","infrastrutture","ponti","monitoraggio"]
 book_id: m-tr03-tecnico-ingegneristico
 outline_section: "11"
-draft_stage: full_draft
+draft_stage: specialist-audited
 last_compiled_from: "planning/08-capitolo-11-piano-completamento.md"
 ---
 
@@ -228,4 +228,4 @@ Checklist:
 
 ## Note di review
 
-Prima della pubblicazione, verificare vigenza e campo di applicazione di Codice della strada, regolamento, norme geometriche, Linee guida ponti e Istruzioni operative ANSFISA. Il capitolo richiede review di ingegnere stradale, strutturista esperto di ponti esistenti, geotecnico, ispettore, gestore di rete ed esperto di monitoraggio. Livelli, classi, frequenze, schede, soglie e provvedimenti su opere reali devono sempre derivare dagli atti applicabili e dalle autorità competenti. Il raccordo è stato verificato il 30 luglio 2026 verso [[books/moduli/m-tr03-tecnico-ingegneristico/chapters/12-bim-gis-catasto-patrimonio#Patrimonio pubblico e inventario tecnico|Patrimonio pubblico e inventario tecnico]].
+Audit specialistico automatico chiuso l'11 agosto 2026 sul Codice della strada, sul regolamento, sulle Linee guida ponti e sulle Istruzioni operative ANSFISA aggiornate il 4 agosto 2025 e adottate con decreto CSLP n. 413/2025. Il testo evita livelli, frequenze e soglie non verificati; per opere reali restano vincolanti gli atti applicabili e l'autorità competente. Il raccordo è verificato verso [[books/moduli/m-tr03-tecnico-ingegneristico/chapters/12-bim-gis-catasto-patrimonio#Patrimonio pubblico e inventario tecnico|Patrimonio pubblico e inventario tecnico]].

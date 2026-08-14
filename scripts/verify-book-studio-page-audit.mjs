@@ -2,9 +2,11 @@ import fs from "node:fs/promises"
 import path from "node:path"
 import { chromium } from "@playwright/test"
 import {
+  buildBookStudioAuditUrl,
   buildContactSheetRanges,
   classifyPageDiagnostic,
   flaggedPageNumbers,
+  isIntentionalTableContinuationOverlap,
   PAGE_AUDIT_TYPOGRAPHY,
   renderPageAuditMarkdown,
   resolvePageAuditOptions,
@@ -22,7 +24,7 @@ const {
   reportMode,
   reportPath
 } = options
-const url = `${baseUrl}/?bookId=${encodeURIComponent(bookId)}#studio`
+const url = buildBookStudioAuditUrl(baseUrl, bookId)
 
 await fs.mkdir("artifacts", { recursive: true })
 await fs.mkdir(path.dirname(reportPath), { recursive: true })
@@ -32,13 +34,17 @@ const page = await browser.newPage({ viewport: { width: 1500, height: 1050 } })
 
 try {
   await page.goto(url, { waitUntil: "domcontentloaded", timeout: 180_000 })
-  await page.locator("#studio").waitFor({ state: "visible", timeout: 120_000 })
-  await page.locator("#studio").scrollIntoViewIfNeeded()
-  await page.getByRole("button", { name: "Libro", exact: true }).click()
-  await page.locator(".bookPages .bookPage").first().waitFor({ state: "visible", timeout: 120_000 })
+  const studio = page.locator("section.bookStudioPanel#studio").last()
+  await studio.waitFor({ state: "visible", timeout: 120_000 })
+  await studio.scrollIntoViewIfNeeded()
+  await studio.evaluate((root) => root.setAttribute("data-book-audit-root", "true"))
+  await studio.getByRole("button", { name: "Libro", exact: true }).click()
+
+  await page.locator('[data-book-audit-root="true"] .bookPages .bookPage').first().waitFor({ state: "visible", timeout: 120_000 })
   await page.evaluate(() => document.fonts.ready)
   await waitForBookImages(page)
   const stableSignature = await waitForStablePagination(page)
+
   const diagnostics = await collectDiagnostics(page)
 
   if (diagnostics.length !== expectedPageCount) {
@@ -65,22 +71,32 @@ try {
     expectedHeight: 9.61 * 96
   }
   const issues = diagnostics.flatMap((item) => classifyPageDiagnostic(item, context))
+  if (process.env.BOOK_STUDIO_DIAGNOSTICS_JSON) {
+    await fs.writeFile(
+      process.env.BOOK_STUDIO_DIAGNOSTICS_JSON,
+      JSON.stringify({ context, diagnostics, issues }, null, 2),
+      "utf8"
+    )
+  }
   const ranges = buildContactSheetRanges(diagnostics.length, contactSheetSize)
 
-  for (const range of ranges) {
-    await captureContactSheet(page, range, artifactPrefix)
+  if (process.env.BOOK_STUDIO_SKIP_CONTACT_SHEETS !== "1") {
+    for (const range of ranges) {
+      await captureContactSheet(page, range, artifactPrefix)
+    }
   }
 
   const screenshotPages = flaggedPageNumbers(issues, explicitScreenshotPages)
-  for (const pageNumber of screenshotPages) {
-    if (pageNumber > diagnostics.length) {
-      throw new Error(`Pagina screenshot fuori intervallo: ${pageNumber}/${diagnostics.length}`)
+  if (process.env.BOOK_STUDIO_SKIP_ISSUE_SCREENSHOTS !== "1") {
+    for (const pageNumber of screenshotPages) {
+      if (pageNumber > diagnostics.length) {
+        throw new Error(`Pagina screenshot fuori intervallo: ${pageNumber}/${diagnostics.length}`)
+      }
+      await page.locator('[data-book-audit-root="true"] .bookPages .bookPage').nth(pageNumber - 1).screenshot({
+        path: `artifacts/${artifactPrefix}-page-${pad(pageNumber, 3)}.png`
+      })
     }
-    await page.locator(".bookPages .bookPage").nth(pageNumber - 1).screenshot({
-      path: `artifacts/${artifactPrefix}-page-${pad(pageNumber, 3)}.png`
-    })
   }
-
   const generatedAt = new Date().toISOString()
   const failures = []
 
@@ -120,7 +136,7 @@ try {
 }
 
 async function collectDiagnostics(page) {
-  return page.$$eval(".bookPages .bookPage", (bookPages, typography) => {
+  return page.$$eval('[data-book-audit-root="true"] .bookPages .bookPage', (bookPages, typography) => {
     const lastHeadingLevelByChapter = new Map()
 
     return bookPages.map((bookPage, index) => {
@@ -284,6 +300,7 @@ async function collectDiagnostics(page) {
         type: element.getAttribute("data-block-type") || element.tagName.toLowerCase(),
         continued: element.getAttribute("data-block-continued") === "true",
         lines: Math.max(1, Math.round(rect.height / lineHeight)),
+        text: (element.textContent || "").trim().slice(0, 240),
         sharesWithAdjacent: Boolean(
           continuationKey
           && continuationKey === adjacentElement?.getAttribute("data-block-continuation-key")
@@ -297,7 +314,10 @@ async function collectDiagnostics(page) {
       for (let index = 0; index < blocks.length - 1; index += 1) {
         const left = blocks[index]
         const right = blocks[index + 1]
-        if (overlap(left, right)) {
+        const intentionalTableContinuation = left.getAttribute("data-block-type") === "table"
+          && right.getAttribute("data-block-type") === "table"
+          && right.getAttribute("data-block-continued") === "true"
+        if (overlap(left, right) && !intentionalTableContinuation) {
           failures.push(`${blockLabel(left, index)} / ${blockLabel(right, index + 1)}`)
         }
       }
@@ -409,7 +429,7 @@ async function collectDiagnostics(page) {
 async function captureContactSheet(page, range, prefix) {
   const clonedPages = await page.evaluate(({ pages }) => {
     document.querySelector("#bookAuditContactSheet")?.remove()
-    const sourcePages = Array.from(document.querySelectorAll(".bookPages .bookPage"))
+    const sourcePages = Array.from(document.querySelectorAll('[data-book-audit-root="true"] .bookPages .bookPage'))
     const firstRect = sourcePages[0]?.getBoundingClientRect()
     if (!firstRect) throw new Error("Nessuna pagina disponibile per la tavola-contatto")
 
@@ -491,7 +511,7 @@ async function waitForStablePagination(page) {
   let previous = ""
   let stableChecks = 0
 
-  for (let attempt = 0; attempt < 60; attempt += 1) {
+  for (let attempt = 0; attempt < 180; attempt += 1) {
     const current = await pageSignature(page)
     if (current === previous && current.length > 0) stableChecks += 1
     else stableChecks = 0
@@ -513,14 +533,14 @@ async function waitForStablePagination(page) {
 }
 
 async function pageSignature(page) {
-  return page.$$eval(".bookPages .bookPage", (pages) => pages.map((bookPage) => {
+  return page.$$eval('[data-book-audit-root="true"] .bookPages .bookPage', (pages) => pages.map((bookPage) => {
     const text = bookPage.textContent?.replace(/\s+/g, " ").trim() || ""
     return `${bookPage.getAttribute("data-page-number")}:${text.length}:${text.slice(-80)}`
   }).join("|"))
 }
 
 async function waitForBookImages(page) {
-  await page.$$eval(".bookPages img", async (images) => {
+  await page.$$eval('[data-book-audit-root="true"] .bookPages img', async (images) => {
     for (const image of images) image.loading = "eager"
     await Promise.all(images.map(async (image) => {
       if (!image.complete) {
